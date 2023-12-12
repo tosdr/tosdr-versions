@@ -1,6 +1,6 @@
-# Versions of terms from the *<!-- here goes your collection name -->Demo<!-- until here -->* collection
+# Versions of terms from the *tosdr* collection
 
-The terms in this collection are tracked by <!-- customize to your context -->the Open Terms Archive Core Team<!-- until here --> using [Open Terms Archive](https://opentermsarchive.org).
+The terms in this collection are tracked by _ _ _ _ _ ✍️ using [Open Terms Archive](https://opentermsarchive.org).
 
 ## Usage
 
@@ -8,7 +8,7 @@ The terms in this collection are tracked by <!-- customize to your context -->th
 
 ### [🔔 Subscribe by RSS](https://docs.opentermsarchive.org/subscribe-rss/) to be notified of changes
 
-### [🗂️ Download as dataset](https://github.com/OpenTermsArchive/demo-versions/releases) to analyse in depth
+### [🗂️ Download as dataset](https://github.com/OpenTermsArchive/tosdr-versions/releases) to analyse in depth
 
 ## Context
 
@@ -17,13 +17,13 @@ The terms in this collection are tracked by <!-- customize to your context -->th
 - A **version** is a record of a service’s terms cleaned of the legally irrelevant parts (e.g. menus, ads…) of an online document. Each version represents the state of the terms at a specific point in time. They are publicly recorded to provide a history of how the terms evolved over time.
 - A **collection** is a group of terms characterised by their language, jurisdiction and industry.
 
-Detailed information about this specific collection, including how to request or contribute terms, can be found in its [declarations repository](https://github.com/OpenTermsArchive/demo-declarations).
+Detailed information about this specific collection, including how to request or contribute terms, can be found in its [declarations repository](https://github.com/OpenTermsArchive/tosdr-declarations).
 
 ## Missing terms
 
 Each collection has a specific scope, and its maintainers might or might not have the intention to track the terms you are interested in.
 
-If some versions are missing, the maintainers of this collection might benefit from your help: check [open issues](https://github.com/OpenTermsArchive/demo-declarations/issues) for known necessary corrections or open a new one.
+If some versions are missing, the maintainers of this collection might benefit from your help: check [open issues](https://github.com/OpenTermsArchive/tosdr-declarations/issues) for known necessary corrections or open a new one.
 
 If specific services, or specific terms for a service, are missing from this collection, they may be available in other [public Open Terms Archive collections](https://opentermsarchive.org/#collections).
 
@@ -33,4 +33,4 @@ If not, you may just be the best person to add them by [following the documentat
 
 # License
 
-Data in this repository is distributed under an ODC-BY 1.0 license. That means you are free to share (to copy, distribute and use the database), to create (to produce works from the database), to adapt (to modify, transform and build upon the database) as long as you attribute the resulting works to *<!-- customize to your context -->Open Terms Archive Core Team<!-- until here --> and Open Terms Archive contributors*.
+Data in this repository is distributed under an ODC-BY 1.0 license. That means you are free to share (to copy, distribute and use the database), to create (to produce works from the database), to adapt (to modify, transform and build upon the database) as long as you attribute the resulting works to *_ _ _ _ _ ✍️ and Open Terms Archive contributors*.
