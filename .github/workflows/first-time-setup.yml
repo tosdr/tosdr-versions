@@ -1,0 +1,52 @@
+name: first-time-setup
+run-name: Setup
+
+on:
+  # Run when repo is generated from template
+  create:
+
+# Only keep latest run of this workflow
+concurrency:
+  group: first-time-setup
+  cancel-in-progress: true
+
+permissions: 
+  actions: write
+  checks: write
+  contents: write
+
+
+jobs:
+  first-time-setup:
+    # Ensure this action is run only once
+    if: github.run_number == 1
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Remove first time setup workflow
+        run: rm -f .github/workflows/first-time-setup.yml
+
+      - name: Remove versions folders
+        run: rm -r */
+
+      - name: Update README
+        run: |
+          REPOSITORY_OWNER=${{ github.repository_owner }}
+          REPOSITORY_NAME=${{ github.event.repository.name }}
+          COLLECTION_NAME="${REPOSITORY_NAME//-versions}"
+          sed -i "s|<!-- customize to your context -->.*<!-- until here -->|_ _ _ _ _ ✍️|g" README.md &&
+          sed -i "s|<!-- here goes your collection name -->.*<!-- until here -->|$COLLECTION_NAME|g" README.md &&
+          sed -i "s|https://github.com/OpenTermsArchive/demo|https://github.com/${REPOSITORY_OWNER}/${COLLECTION_NAME}|g" README.md
+    
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Adapt template automatically"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
