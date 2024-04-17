@@ -1,3 +1,55 @@
+Please enable JavaScript to view this page properly.
+
+* [**Main**](http://play0ad.com/)
+* [Development](http://trac.wildfiregames.com/)
+* [Forums](http://www.wildfiregames.com/forum/index.php?act=idx)
+* [IRC Channel](http://webchat.quakenet.org/?channels=0ad)
+
+[](https://play0ad.com/)[](https://play0ad.com/)
+
+A free, open-source game of ancient warfare
+
+[Download
+
+Alpha 26: Zhuangzi](https://play0ad.com/download)[Donate
+
+Support the development of 0 A.D.](https://play0ad.com/donate)
+
+* [Home](https://play0ad.com/)
+
+* News
+    * [News Archive](https://play0ad.com/news/news-archive/)
+* Game Info
+    * [Project Overview](https://play0ad.com/game-info/project-overview/)
+    * [Download 0 A.D.](https://play0ad.com/download/)
+    * [Features](https://play0ad.com/game-info/features/)
+    * [Factions](https://play0ad.com/game-info/factions/)
+    * [Game Manual](https://play0ad.com/category/game-manual/)
+    * [Awards and Acclaim](https://play0ad.com/game-info/awards-and-acclaim/)
+    * [Gameplay FAQ](https://trac.wildfiregames.com/wiki/FAQ#Gameplay)
+* Media
+    * [Screenshots](https://play0ad.com/media/screenshots/)
+    * [Videos](https://play0ad.com/media/videos/)
+    * [Music](https://play0ad.com/media/music/)
+    * [Building Concepts](https://play0ad.com/media/building-concepts/)
+    * [Unit Concepts](https://play0ad.com/media/unit-concepts/)
+    * [Wallpapers](https://play0ad.com/media/wallpapers/)
+* Community
+    * [Get Support](https://play0ad.com/community/support/)
+    * [Participate](https://play0ad.com/community/participate/)
+    * [Forums↗](http://www.wildfiregames.com/forum/)
+    * [Donate](https://play0ad.com/community/donate/)
+* About
+    * [Contact Us](https://play0ad.com/about/contact-us/)
+    * [Organization](https://play0ad.com/about/organization/)
+    * [Contributors](https://play0ad.com/about/contributors/)
+    * [Legal Notices](https://play0ad.com/about/legal-notices/)
+    * [Official Logos](https://play0ad.com/about/official-logos/)
+    * [The Story of 0 A.D.](https://play0ad.com/about/the-story-of-0-a-d/)
+
+Legal Notices
+=============
+
 Disclaimer
 ==========
 
@@ -56,3 +108,59 @@ About this legal notice
 
 This document is based on a free Contractology template available at [www.freenetlaw.com](http://www.freenetlaw.com/).  
 Premium precedents available on the Contractology website include [non disclosure terms and conditions templates](http://www.contractology.com/precedents/non-disclosure-agreement.html).
+
+### Donate to 0 A.D.
+
+[![Donate Now](/images/news_images/clickandpledge.gif)](https://play0ad.com/community/donate/)
+
+### Game Info
+
+* [Project Overview](https://play0ad.com/game-info/project-overview/)
+* [Features](https://play0ad.com/game-info/features/)
+* [Factions](https://play0ad.com/game-info/factions/)
+* [Game Manual](https://play0ad.com/category/game-manual/)
+* [Awards and Acclaim](https://play0ad.com/game-info/awards-and-acclaim/)
+
+### Media
+
+* [Videos](https://play0ad.com/media/videos/)
+* [Screenshots](https://play0ad.com/media/screenshots/)
+* [Music](https://play0ad.com/media/music/)
+* [Building Concepts](https://play0ad.com/media/building-concepts/)
+* [Unit Concepts](https://play0ad.com/media/unit-concepts/)
+* [Wallpapers](https://play0ad.com/media/wallpapers/)
+
+### Community
+
+* [Donate](https://play0ad.com/community/donate/)
+* [Participate](https://play0ad.com/community/participate/)
+* [Get Support](https://play0ad.com/community/support/)
+
+### About
+
+* [Contact Us](https://play0ad.com/about/contact-us/)
+* [Organization](https://play0ad.com/about/organization/)
+* [Contributors](https://play0ad.com/about/contributors/)
+* [Legal Notices](https://play0ad.com/about/legal-notices/)
+* [Official Logos](https://play0ad.com/about/official-logos/)
+* [The Story of 0 A.D.](https://play0ad.com/about/the-story-of-0-a-d/)
+
+### Follow Us
+
+* [BandCamp](http://play0ad.bandcamp.com/)
+* [Facebook](http://facebook.com/play0ad)
+* [Instagram](https://www.instagram.com/play0ad.official/)
+* [LinkedIn](https://www.linkedin.com/company/345131/admin/)
+* [Mastodon](https://mastodon.social/@play0ad)
+* [ModDB](http://www.moddb.com/games/0-ad)
+* [Reddit](https://www.reddit.com/r/0ad/)
+* [Twitter](http://twitter.com/play0ad)
+* [YouTube](http://youtube.com/play0ad)
+* [Itch.io](https://play0ad.itch.io/)
+
+* [Wildfire Games](http://wildfiregames.com/)
+* [Contact Us](https://play0ad.com/about/contact-us/)
+* [Legal Notices](https://play0ad.com/about/legal-notices/)
+* [Website content released under CC-BY-SA](http://creativecommons.org/licenses/by-sa/3.0/)
+
+[Mastodon](https://mastodon.social/@play0ad)
