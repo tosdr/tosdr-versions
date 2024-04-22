@@ -1,0 +1,2 @@
+AOMEI Privacy Policy
+====================
