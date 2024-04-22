@@ -92,7 +92,7 @@
         Learn more about us and our story](https://3commas.io/about)
     * [Careers
         
-        We are hiring! Apply now](https://3commas-bf8aa341f252.breezy.hr/)
+        We are hiring! Apply now](https://careers.3commas.io/)
     * [Knowledge base
         
         Get answers to any question](https://help.3commas.io/en)
@@ -217,7 +217,7 @@ Legal Information
 Company
 
 * [About us](https://3commas.io/about)
-* [Careers](https://3commas-bf8aa341f252.breezy.hr/)
+* [Careers](https://careers.3commas.io/)
 * [Affiliate program](https://3commas.io/affiliate)
 * [3Commas & Binance](https://3commas.io/binance)
 * [Blog](https://3commas.io/blog)
