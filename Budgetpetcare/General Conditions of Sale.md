@@ -180,7 +180,7 @@ Subscribe for access to our best deals and offers. Get 10% Discount on first Ord
 
 ![Icon-Phone](https://budgetpetcare.b-cdn.net/images/icon-d/d-Icon-phone.png) [1-800-840-2008](tel:1-800-840-2008)Mon-Sat 9 AM - 6 PM CST
 
-![icon-email](https://budgetpetcare.b-cdn.net/images/icon-d/d-icon-email.png) [customerservice@BudgetPetCare.com](mailto:customerservice@budgetpetcare.com)
+![icon-email](https://budgetpetcare.b-cdn.net/images/icon-d/d-icon-email.png) [customerservice@BudgetPetCare.com](mailto:customerservice@BudgetPetCare.com)
 
 * We Accept  :
 * ![Master Card](https://budgetpetcare.b-cdn.net/images/master-card.png)
