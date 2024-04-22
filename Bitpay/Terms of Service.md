@@ -19,16 +19,6 @@ For Individuals For Businesses
 * [Buy USD Coin (USDC)](https://bitpay.com/buy-usd-coin/?crypto=USDC)
 * [Buy 60+ cryptocurrencies](https://bitpay.com/buy-crypto/)
 
-[Sell Crypto ![Arrow Right](data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iMTVweCIgaGVpZ2h0PSIxNHB4IiB2aWV3Qm94PSIwIDAgMTUgMTQiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+CiAgICA8dGl0bGU+QlAtQXJyb3ctUmlnaHQ8L3RpdGxlPgogICAgPGcgc3Ryb2tlPSJub25lIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiIGZpbGwtcnVsZT0iZXZlbm9kZCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj4KICAgICAgICA8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtMTUyLjAwMDAwMCwgLTUuMDAwMDAwKSIgc3Ryb2tlPSIjMDI1MEM1Ij4KICAgICAgICAgICAgPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMTUzLjAwMDAwMCwgNi4wMDAwMDApIj4KICAgICAgICAgICAgICAgIDxnPgogICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0wLDYgTDEzLDYiIHN0cm9rZS13aWR0aD0iMiI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgIDxwb2x5bGluZSBzdHJva2Utd2lkdGg9IjIiIHBvaW50cz0iNyAwIDEzIDYgNyAxMiI+PC9wb2x5bGluZT4KICAgICAgICAgICAgICAgIDwvZz4KICAgICAgICAgICAgPC9nPgogICAgICAgIDwvZz4KICAgIDwvZz4KPC9zdmc+Cg==)](https://bitpay.com/sell-crypto/) 
-
-* [Sell Bitcoin (BTC)](https://bitpay.com/sell-bitcoin/?crypto=BTC)
-* [Sell Ether (ETH)](https://bitpay.com/sell-ethereum/?crypto=ETH)
-* [Sell Litecoin (LTC)](https://bitpay.com/sell-litecoin/?crypto=LTC)
-* [Sell Bitcoin Cash (BCH)](https://bitpay.com/sell-bitcoin-cash/?crypto=BCH)
-* [Sell Dogecoin (DOGE)](https://bitpay.com/sell-dogecoin/?crypto=DOGE)
-* [Sell USD Coin (USDC)](https://bitpay.com/sell-usd-coin/?crypto=USDC)
-* [Sell 60+ cryptocurrencies](https://bitpay.com/sell-crypto/)
-
 Store Crypto
 
 * [BitPay Wallet](https://bitpay.com/wallet/)
@@ -1182,8 +1172,6 @@ Do Not Sell My Personal Information under CCPA
 
 NMLS ID#1496848
 
-BiPay is licensed to engage in Virtual Currency Business Activity by the New York State Department of Financial Services.
-
 * * *
 
 Subscribe to BitPay
@@ -1215,8 +1203,6 @@ Do Not Sell My Personal Information under CCPA
 [Accessibility Statement](https://bitpay.com/legal/accessibility) [![linkedin icon](/_nuxt/img/linkedin-icon.0bdca29.svg)](https://www.linkedin.com/company/bitpay-inc- "BitPay Linkedin") [![twitter icon](/_nuxt/img/twitter-icon.7d87ff7.svg)](https://twitter.com/BitPay "BitPay Twitter")
 
 NMLS ID#1496848
-
-BiPay is licensed to engage in Virtual Currency Business Activity by the New York State Department of Financial Services.
 
 * * *
 
