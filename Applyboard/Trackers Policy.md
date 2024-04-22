@@ -1,34 +1,87 @@
-[![ApplyBoard Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E)
+[![ApplyBoard Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201253%20192'%3E%3C/svg%3E)
 
-![ApplyBoard Logo](https://didmdw8v48h5q.cloudfront.net/wp-content/uploads/2020/09/ApplyBoard_Logo_Horizontal_Blue.svg)](https://www.applyboard.com/)
+![ApplyBoard Logo](https://didmdw8v48h5q.cloudfront.net/wp-content/uploads/2021/12/blue_logo.png)](https://www.applyboard.com/)
 
-* [Students](https://www.applyboard.com/studyabroad)
+* [Students](https://www.applyboard.com/services/students)
 * [Recruitment Partners](https://www.applyboard.com/services/recruiters)
 * [Institutions](https://www.applyboard.com/services/schools)
-* [Discover](#)
-    * [Our Solutions](https://www.applyboard.com/our-solutions)
-    * [Events](https://www.applyboard.com/resources/events)
-    * [Knowledge Hub](https://www.applyboard.com/category/blog)
-    * [ApplyInsights](https://www.applyboard.com/category/applyinsights-article)
-    * [Trends Report 2024](https://www.applyboard.com/applyinsights/trends-report-2024)
-* [Login](https://accounts.applyboard.com/)
-* [Register](https://www.applyboard.com/register)
 
 Menu
 
-* [Students](https://www.applyboard.com/studyabroad)
+* [Students](https://www.applyboard.com/services/students)
 * [Recruitment Partners](https://www.applyboard.com/services/recruiters)
 * [Institutions](https://www.applyboard.com/services/schools)
-* [Discover](#)
+
+Main Menu
+
+* [Our Solutions](https://www.applyboard.com/our-solutions)
+* [Our Story](https://www.applyboard.com/about)
+* [Careers](https://www.applyboard.com/careers)
+* [Press](https://www.applyboard.com/press)
+* [Life](https://www.applyboard.com/life)
+* [Leadership](https://www.applyboard.com/leadership)
+* [Contact](https://www.applyboard.com/contact)
+* [Blog](https://www.applyboard.com/blog)
+* [ApplyInsights](https://www.applyboard.com/applyinsights)
+* [Events](https://www.applyboard.com/resources/events)
+* [Trends Report](https://www.applyboard.com/applyinsights/trends-report-2024)
+
+[Log In](https://accounts.applyboard.com/)
+
+[Register](https://www.applyboard.com/register)
+
+[![ApplyBoard Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201253%20192'%3E%3C/svg%3E)
+
+![ApplyBoard Logo](https://didmdw8v48h5q.cloudfront.net/wp-content/uploads/2021/12/blue_logo.png)](https://www.applyboard.com/)
+
+Main Menu
+
+* [Students](https://www.applyboard.com/?page_id=8430)
+* [Recruitment Partners](https://www.applyboard.com/services/recruiters)
+* [Schools](https://www.applyboard.com/services/schools)
+* [About](#)
+    
     * [Our Solutions](https://www.applyboard.com/our-solutions)
-    * [Events](https://www.applyboard.com/resources/events)
-    * [Knowledge Hub](https://www.applyboard.com/category/blog)
-    * [ApplyInsights](https://www.applyboard.com/category/applyinsights-article)
-    * [Trends Report 2024](https://www.applyboard.com/applyinsights/trends-report-2024)
-* [Login](https://accounts.applyboard.com/)
-* [Register](https://www.applyboard.com/register)
+    * [Our Story](https://www.applyboard.com/about)
+    * [Careers](https://www.applyboard.com/careers)
+    * [Press](https://www.applyboard.com/press)
+    * [Life](https://www.applyboard.com/life)
+    * [Leadership](https://www.applyboard.com/leadership)
+    * [Contact](https://www.applyboard.com/contact)
+* [Blog](https://www.applyboard.com/blog)
+* [ApplyInsights](https://www.applyboard.com/applyinsights)
+* [Trends Report](https://www.applyboard.com/?page_id=18002)
+
+[Log In](https://accounts.applyboard.com/)
+
+[Register](https://www.applyboard.com/services/register)
+
+[![ApplyBoard Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201253%20192'%3E%3C/svg%3E)
+
+![ApplyBoard Logo](https://didmdw8v48h5q.cloudfront.net/wp-content/uploads/2021/12/blue_logo.png)](https://www.applyboard.com/)
+
+Main Menu
+
+* [Students](https://www.applyboard.com/services/students)
+* [Recruitment Partners](https://www.applyboard.com/services/recruiters)
+* [Institutions](https://www.applyboard.com/services/schools)
+* [About](#)
+    
+    * [Our Solutions](https://www.applyboard.com/our-solutions)
+    * [Our Story](https://www.applyboard.com/about)
+    * [Careers](https://www.applyboard.com/careers)
+    * [Press](https://www.applyboard.com/press)
+    * [Life](https://www.applyboard.com/life)
+    * [Leadership](https://www.applyboard.com/leadership)
+    * [Contact](https://www.applyboard.com/contact)
+* [Blog](https://www.applyboard.com/blog)
+* [Trends Report 2024](https://www.applyboard.com/applyinsights/trends-report-2024)
+* [ApplyInsights](https://www.applyboard.com/applyinsights)
+* [Log In](https://accounts.applyboard.com/)
+* [Register](https://www.applyboard.com/services/register)
 
 Privacy and Cookies Policy
+--------------------------
 
 **Last Updated: November 28, 2023**
 
@@ -657,43 +710,43 @@ N2H 6R3
 Get Social
 ----------
 
-[Linkedin-in](https://www.linkedin.com/company/applyboard) [Facebook-f](https://www.facebook.com/applyboard/) [Instagram](https://www.instagram.com/applyboard) [Tiktok](https://www.tiktok.com/@applyboard) [Youtube](https://www.youtube.com/ApplyBoardChannel)
+[Linkedin-in](https://www.linkedin.com/company/applyboard) [Facebook-f](https://www.facebook.com/applyboard/) [Instagram](https://www.instagram.com/applyboard) [Youtube](https://www.youtube.com/ApplyBoardChannel) [Tiktok](https://www.tiktok.com/@applyboard)
 
 * [Students](https://www.applyboard.com/services/students)
-* [Institutions](https://www.applyboard.com/services/schools)
+* [Schools](https://www.applyboard.com/services/schools)
 * [Recruiters](https://www.applyboard.com/services/recruiters)
 
 * [Students](https://www.applyboard.com/services/students)
-* [Institutions](https://www.applyboard.com/services/schools)
+* [Schools](https://www.applyboard.com/services/schools)
 * [Recruiters](https://www.applyboard.com/services/recruiters)
-
-Explore
--------
-
-* [Explore Schools and Programs](https://www.applyboard.com/recommended_programs/onboarding)
-* [Register](https://www.applyboard.com/register)
-
-Menu
-
-* [Explore Schools and Programs](https://www.applyboard.com/recommended_programs/onboarding)
-* [Register](https://www.applyboard.com/register)
 
 Discover
 --------
 
+* [Discover Schools and Programs](https://www.applyboard.com/recommended_programs/onboarding)
+* [Register](https://www.applyboard.com/register)
+
+Menu
+
+* [Discover Schools and Programs](https://www.applyboard.com/recommended_programs/onboarding)
+* [Register](https://www.applyboard.com/register)
+
+About
+-----
+
 * [Our Story](https://www.applyboard.com/about)
 * [Careers](https://www.applyboard.com/careers)
-* [Knowledge Hub](https://www.applyboard.com/blog)
+* [Blog](https://www.applyboard.com/blog)
 * [Press](https://www.applyboard.com/press)
-* [Life at ApplyBoard](https://www.applyboard.com/life)
+* [Life](https://www.applyboard.com/life)
 * [Leadership](https://www.applyboard.com/leadership)
 * [Contact](https://www.applyboard.com/contact)
 
 * [Our Story](https://www.applyboard.com/about)
 * [Careers](https://www.applyboard.com/careers)
-* [Knowledge Hub](https://www.applyboard.com/blog)
+* [Blog](https://www.applyboard.com/blog)
 * [Press](https://www.applyboard.com/press)
-* [Life at ApplyBoard](https://www.applyboard.com/life)
+* [Life](https://www.applyboard.com/life)
 * [Leadership](https://www.applyboard.com/leadership)
 * [Contact](https://www.applyboard.com/contact)
 
@@ -736,24 +789,24 @@ Get Social
 [Linkedin-in](https://www.linkedin.com/company/applyboard) [Facebook-f](https://www.facebook.com/applyboard/) [Instagram](https://www.instagram.com/applyboard) [Youtube](https://www.youtube.com/ApplyBoardChannel) [Tiktok](https://www.tiktok.com/@applyboard)
 
 * [Students](https://www.applyboard.com/services/students)
-* [Institutions](https://www.applyboard.com/services/schools)
+* [Schools](https://www.applyboard.com/services/schools)
 * [Recruiters](https://www.applyboard.com/services/recruiters)
 
 * [Students](https://www.applyboard.com/services/students)
-* [Institutions](https://www.applyboard.com/services/schools)
+* [Schools](https://www.applyboard.com/services/schools)
 * [Recruiters](https://www.applyboard.com/services/recruiters)
 
 Main Menu
 
-* [Explore](#)
-    
-    * [Explore Schools and Programs](https://www.applyboard.com/recommended_programs/onboarding)
-    * [Register](https://www.applyboard.com/services/register)
 * [Discover](#)
+    
+    * [Discover Schools and Programs](https://www.applyboard.com/recommended_programs/onboarding)
+    * [Register](https://www.applyboard.com/services/register)
+* [About](#)
     
     * [Our Story](https://www.applyboard.com/about)
     * [Careers](https://www.applyboard.com/careers)
-    * [Knowledge Hub](https://www.applyboard.com/blog)
+    * [Blog](https://www.applyboard.com/blog)
     * [Press](https://www.applyboard.com/press)
     * [Leadership](https://www.applyboard.com/leadership)
     * [Contact](https://www.applyboard.com/contact)
@@ -766,7 +819,6 @@ Main Menu
     * [Privacy & Cookies Policy](https://www.applyboard.com/privacy-policy)
     * [Terms & Conditions](https://www.applyboard.com/terms-and-conditions)
     * [Accessibility](https://www.applyboard.com/accessibility)
-    * [ApplyBoard Fees](https://assist.applyboard.com/hc/en-us/articles/6478276149901-ApplyBoard-Fees)
     * [Modern Slavery Statement](https://www.applyboard.com/services/applyboard-modern-slavery-annual-statement)
 
 © 2024 ApplyBoard Inc
