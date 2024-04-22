@@ -7,18 +7,13 @@
     * [🇩🇪Deutschland](https://www.bigcommerce.de/)
     * [🇪🇸España](https://www.bigcommerce.es/)
     * [🇫🇷France](https://www.bigcommerce.fr/)
-    * [🇮🇳India](https://www.bigcommerce.com/india/)
     * [🇮🇹Italia](https://www.bigcommerce.it/)
     * [🇲🇽México](https://www.bigcommerce.mx/)
     * [🇳🇱Nederland](https://www.bigcommerce.nl/)
     * [🇳🇴Norge](https://www.bigcommerce.no/)
     * [🇦🇹Österreich](https://www.bigcommerce.at/)
-    * [🇵🇱Polska](https://www.bigcommerce.com/polska/)
-    * [🇷🇴România](https://www.bigcommerce.com/romania/)
     * [🇸🇬Singapore](https://www.bigcommerce.sg/)
-    * [🇿🇦South Africa](https://www.bigcommerce.com/southafrica/)
     * [🇸🇪Sverige](https://www.bigcommerce.se/)
-    * [🇦🇪UAE](https://www.bigcommerce.com/UAE/)
     * [🇬🇧United Kingdom](https://www.bigcommerce.co.uk/)
     * [🇺🇸United States](https://www.bigcommerce.com/)
 * [Call Sales: 1-888-248-9325](tel:1-888-248-9325)
@@ -39,7 +34,6 @@
     * Product
     * [Features](https://www.bigcommerce.com/product/)
     * [Services](https://www.bigcommerce.com/services/)
-    * [Next Big Thing](https://www.bigcommerce.com/next-big-thing/)
     
 * [Solutions](#)
     
@@ -369,11 +363,11 @@ Help center
 
 [![BigCommerce Logo](https://storage.googleapis.com/s.mkswft.com/RmlsZTo0N2YxZmY3Ni03ODYyLTQxZDYtODY2MS1iOTgyYmNkZDJhODM=/bc-logo-bright.svg)](https://www.bigcommerce.com/)
 
-* [X](https://x.com/Bigcommerce/)
+* [Twitter](https://twitter.com/Bigcommerce/)
 * [Facebook](https://www.facebook.com/Bigcommerce/)
 * [LinkedIn](https://www.linkedin.com/company/bigcommerce/)
 * [YouTube](https://www.youtube.com/c/bigcommerce/)
 * [Pinterest](https://pinterest.com/bigcommerce/)
 * [Instagram](https://www.instagram.com/bigcommerce/)
 
-© Copyright 2003 - 2024 BigCommerce Pty. Ltd.|[Privacy Policy](https://www.bigcommerce.com/privacy/)|[Cookie Settings](#)
+© Copyright 2003 - 2024 BigCommerce Pty. Ltd.|[Privacy Policy](https://www.bigcommerce.com/privacy/)
