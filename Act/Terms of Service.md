@@ -38,9 +38,9 @@ Terms and Conditions Governing Access and Use of the ACT Internet Site
 
 --------------------------------------------------------------------------
 
-The ACT Internet site is maintained by ACT\*, as a service to individuals and the educational and business communities who use the Internet. Access to and use of the ACT Internet site are subject to the terms and conditions set forth herein and all applicable laws. These terms and conditions may be revised or updated by ACT.
+The ACT Internet site is maintained by ACT, Inc., as a service to individuals and the educational and business communities who use the Internet. Access to and use of the ACT Internet site are subject to the terms and conditions set forth herein and all applicable laws. These terms and conditions may be revised or updated by ACT, Inc.
 
-1. **Copyright:** All content in the ACT Internet site is copyrighted. No material may be distributed, downloaded, modified, reused, reproduced, reposted, retransmitted, disseminated, sold, published, broadcast, circulated, or otherwise used except as expressly stated either in such materials or in this notice without the express written permission of ACT. For permission to reproduce copyrighted materials, contact the ACT Publications Department at [Publications@act.org](mailto:Publications@act.org).  
+1. **Copyright:** All content in the ACT Internet site is copyrighted. No material may be distributed, downloaded, modified, reused, reproduced, reposted, retransmitted, disseminated, sold, published, broadcast, circulated, or otherwise used except as expressly stated either in such materials or in this notice without the express written permission of ACT, Inc. For permission to reproduce copyrighted materials, contact the ACT Publications Department at [Publications@act.org](mailto:Publications@act.org).  
       
     Making or distributing unauthorized copies of a copyrighted work may infringe on the copyright holder’s rights. If a copyright holder contacts us and notifies us about unauthorized reproduction and/or distribution of copyrighted works, we reserve the right to disable access to the identified works promptly. We also reserve the right to disable the accounts of repeat infringers in appropriate circumstances.  
       
@@ -102,7 +102,7 @@ The ACT Internet site is maintained by ACT\*, as a service to individuals and th
     * Tessera™
     * ACT Holistic Framework®
 
-No use of any ACT trademark is permitted without express written consent from ACT. For more information, contact the ACT Publications Department at [Publications@act.org](mailto:Publications@act.org.).  
+No use of any ACT trademark is permitted without express written consent from ACT, Inc. For more information, contact the ACT Publications Department at [Publications@act.org](mailto:Publications@act.org.).  
   
 Microsoft, Windows, and Windows NT are registered trademarks of Microsoft Corporation in the United States and other countries.  
   
@@ -112,17 +112,17 @@ Macintosh is a trademark of Apple Computer, Inc., registered in the U.S. and oth
 9. **Linking to the ACT Internet site:** We are pleased you want to create a link to the ACT Internet site. We ask that you observe the following conditions:
     * Links pertaining to ACT programs and services should point only to the URL [http://www.act.org](https://www.act.org/content/act/en.html). These addresses will not change.
     * Upon establishing a link to the ACT website, please send an email including the URL of the link's page, a contact person's name, and email address to the [webmaster@act.org](mailto:webmaster@act.org).
-    * You may use the words "ACT," for a text link. We are no longer known as American College Testing.
+    * You may use the words "ACT," or "ACT, Inc.," for a text link. We are no longer known as American College Testing.
     * Permission is not granted to include material from the ACT Internet site on other websites. You may only include a link directing a browser to material on the ACT Internet site.
     * No permission is given to use the official ACT logo or any other graphics or images from the ACT website.  
          
 10. **Links from the ACT Internet site:** ACT provides links to other websites for informational purposes only. ACT is not responsible for the content in other sites, and links from the ACT website to other sites are not intended to imply endorsement of them by ACT.  
       
     
-11. **Privacy:** ACT recognizes the importance of protecting the privacy of personal information provided by website users. For details regarding how ACT treats this information, please see our [Privacy Policy](https://www.act.org/content/act/en/privacy-policy.html).
-
-  
-\*Impact Asset Corp., a Delaware Corporation and wholly owned indirect subsidiary of Gateway Impact Corp., a Delaware Public Benefit Corporation (“ACT”)
+11. **Privacy:** ACT recognizes the importance of protecting the privacy of personal information provided by website users. For details regarding how ACT treats this information, please see our [Privacy Policy](https://www.act.org/content/act/en/privacy-policy.html).  
+      
+      
+    
 
 [![Link to Home Page](/etc/designs/act/clientlibs/act-base/img/logo-act-rev-300.png)](https://www.act.org/)
 
@@ -144,7 +144,7 @@ Macintosh is a trademark of Apple Computer, Inc., registered in the U.S. and oth
 * [Sign In](https://www.act.org/content/act/en/sign-in.html)
 * [Contact](https://www.act.org/content/act/en/contact-act.html)
 
-© by ACT Education Corp. All rights reserved. [Terms of Use](https://www.act.org/content/act/en/terms-of-use.html)
+© by ACT, Inc. [Terms of Use](https://www.act.org/content/act/en/terms-of-use.html)
 
 * [Instgram](https://www.instagram.com/actstudent/)
 * [Tik Tok](https://www.tiktok.com/@actstudent)
