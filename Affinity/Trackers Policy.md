@@ -212,8 +212,6 @@ Essential Cookies are vital to enable you to browse around our websites. Without
     Enables the webserver to identify you the user and improve your browsing experience. This cookie expires at the end of your session.
 * shopping\_session\_id  
     Stores a unique shopping reference that allows a user to create a basket over any website under the serif.com domain. This cookie expires at the end of your session.
-* \_\_Host-known\_login  
-    Stores a unique reference that allows us to recognize a device for security purposes. This cookie expires 3 months after the last successful sign-in session.
 
 The following also set essential cookies in order to allow our Store checkout to function.
 
@@ -260,7 +258,7 @@ You can choose to delete our, or any website’s, Cookies from your web browser 
 
 If you have any questions about our Privacy and Cookies Policy, please [get in touch](mailto:dataprotection@serif.com).
 
-Last Updated: 8 May 2024
+Last Updated: 13 March 2024
 
 [Back to top](#top)
 
