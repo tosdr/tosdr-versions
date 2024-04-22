@@ -90,10 +90,6 @@ Menu
         * [Graduation Desserts](https://www.bettycrocker.com/special-occasions/graduation-recipes/graduation-desserts)
     * [Father's Day](https://www.bettycrocker.com/special-occasions/fathers-day)
         * [Dad’s Favorite Dishes for Father’s Day](https://www.bettycrocker.com/menus-holidays-parties/mhplibrary/holidays/dads-favorite-dishes-for-fathers-day)
-    * [July Fourth](https://www.bettycrocker.com/special-occasions/july-4th)
-        * [Best Fourth of July Desserts](https://www.bettycrocker.com/menus-holidays-parties/mhplibrary/holidays/best-fourth-of-july-desserts)
-        * [Fourth of July Cake Recipes](https://www.bettycrocker.com/menus-holidays-parties/mhplibrary/holidays/fourth-of-july-cake-ideas)
-        * [Fourth of July Appetizers](https://www.bettycrocker.com/menus-holidays-parties/mhplibrary/holidays/best-fourth-of-july-appetizers)
     
 * [How-To](https://www.bettycrocker.com/how-to)
     
@@ -169,10 +165,10 @@ Menu
 
 ### Weekly Whisks
 
-* [Stuffed Peppers](https://www.bettycrocker.com/recipes/stuffed-peppers/63e29e18-903e-467c-aec5-fba4ce3a138f)
-* [Betty Crocker Lower Sugar Brownie Mix](https://www.bettycrocker.com/products/betty-crocker-brownies-and-dessert-bars/betty-crocker-lower-sugar-double-chocolate-fudge-brownie-mix)
-* [Chocolate Milkshakes](https://www.bettycrocker.com/recipes/chocolate-milkshakes/7b7f7d41-4e3f-4bfa-b148-f29cc2a6b135)
-* [Betty Crocker OREO Brownie Mix](https://www.bettycrocker.com/products/betty-crocker-brownies-and-dessert-bars/betty-crocker-oreo-brownie-mix)
+* [Overnight Pecan Rolls](https://www.bettycrocker.com/recipes/overnight-pecan-rolls/04a7c7ef-5c8e-46ef-acd4-4bdae2c502c3)
+* [Bisquick™ Banana-Nut Bread](https://www.bettycrocker.com/recipes/bisquick-banana-nut-bread/987a8437-68af-4434-a474-152d9329251e)
+* [Caprese Quinoa Salad](https://www.bettycrocker.com/recipes/caprese-quinoa-salad/e2140cea-e9a8-47a5-ab8e-88efb9c5e873)
+* [Easy General Tso's Chicken](https://www.bettycrocker.com/recipes/easy-general-tsos-chicken/35b55e6b-9ce3-4bfd-9bea-a9a19f32e689)
 
 * Save
     
