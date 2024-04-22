@@ -2,8 +2,6 @@
 
 Sign up for Bose text alerts | [Click here to join](https://cloud.email.bose.com/sms-sign-up)
 
-Trade in, trade up. | Save up to $300! | [Learn more](https://www.bose.com/trade-up)
-
 Earbuds. Reimagined. [Explore the new Bose Ultra Open Earbuds](https://www.bose.com/pxp/bose-ultra-open-earbuds)  
 
 90-day risk-free trial | Free shipping for orders of $49 or more
@@ -22,6 +20,7 @@ Back
     * [Portable PA](https://www.bose.com/c/portable-pa)
     * [Aviation](https://www.bose.com/c/headphones-aviation-headsets)
     
+    * [Sale](https://www.bose.com/c/sale)
     * [Sets](https://www.bose.com/c/sets)
     * [Refurbished](https://www.bose.com/c/refurbished)
     * [Accessories](https://www.bose.com/c/accessories)
@@ -29,14 +28,14 @@ Back
     
     [View all products](https://www.bose.com/c/all-products)
     
-     ![John Summit](https://assets.bosecreative.com/transform/e8f9165f-b12e-4b8f-a2f0-b73afe8fa6a6/sf_plp_primary_SLMPS_johnsummit_960x681_x2?io=overlay:image,opacity:75,angle:0,gravity:center,asset:1da8224a-98c7-41e1-a4a0-0194fcf55b45&io=transform:fit,height:1000,width:1000&quality=95)
+     ![Bose Certified Refurbished products](https://assets.bosecreative.com/transform/1479a599-16d8-45c1-adb9-31301d95b14b/FR-Nav-Flyout-FR-Image-720x711_x2?io=transform:fit,height:1000,width:1000&format=jpg&quality=100)
     
-    Rave-worthy sound
-    -----------------
+    Better sound. Better savings.
+    -----------------------------
     
-    Introducing the speaker that helps DJ and Producer John Summit start the party.
+    Bose Certified Refurbished. All the performance you expect — for less. Save over 45% on your favorite products.
     
-    [DISCOVER](https://www.bose.com/pxp/bose-soundlink-max "DISCOVER") [BUY NOW >](https://www.bose.com/SLMAX-SPEAKERWIRELESS.html "BUY NOW >") 
+    [SHOP](https://www.bose.com/c/refurbished "SHOP")
     
 
 * [Explore](#)
@@ -51,7 +50,7 @@ Back
     * [Turn The Dial](https://www.bose.com/stories/turn-the-dial-initiative)
     * [Bose Stories](https://www.bose.com/stories)
     
-     ![](https://assets.bosecreative.com/transform/9e3cbf50-03ca-4c36-a1eb-7099a79692fe/CTP-47671_AntEdwardsTylerHerro_CollabsHubMarquee?io=transform:crop,height:1920,width:1920,path:square&io=overlay:box,color:000,opacity:20&quality=95)
+     ![](https://assets.bosecreative.com/transform/d5e79c51-fc81-4d0a-a274-75541aba8bea/SteveLacy_UOEB24_9?io=transform:crop,height:1000,width:1200,path:square,gravity:top&quality=95)
     
     Partners in powerful sound.
     ---------------------------
@@ -63,7 +62,7 @@ Back
 
 * [Support](#)
     
-    * [Support homepage](https://support.bose.com/s/?language=en_US)
+    * [Support homepage](https://support.bose.com/s/)
     * [Troubleshooting](https://support.bose.com/s/bose/product-support-home?language=en_US)
     * [Order Tracking](https://www.bose.com/trackorder)
     * [Returns](https://www.bose.com/returns)
@@ -74,7 +73,7 @@ Back
     * [Product Warranty](https://www.bose.com/legal/product-warranty)
     * [My Bose](https://www.bose.com/my-account)
     
-    [Support homepage](https://support.bose.com/s/?language=en_US)
+    [Support homepage](https://support.bose.com/s/)
     
      ![Bose QuietComfort Headphones](https://assets.bosecreative.com/transform/7bc70bbb-324a-49bc-9681-27be5161f26d/CREA-1005_QCH24_BoseBlack_0273?io=transform:crop,height:1350,width:1080,path:square,gravity:top&io=overlay:box,color:000,opacity:20&quality=95)
     
@@ -89,7 +88,7 @@ Back
 * [Contact](https://support.bose.com/s/get-help-landing-page?language=en_US)
 * [Where Is My Order?](https://www.bose.com/orders)
 
-[![Bose](/on/demandware.static/Sites-Bose_US-Site/-/default/dwd59207b7/images/logo.svg)](https://www.bose.com/home "Bose Home")
+[![Bose](/on/demandware.static/Sites-Bose_US-Site/-/default/dwdf4b1377/images/logo.svg)](https://www.bose.com/home "Bose Home")
 
 [](https://www.bose.com/login?oauthProvider=Azure-AD-B2C "Sign In/Join my Bose")[](https://www.bose.com/wishlist "Wish list")
 
@@ -193,7 +192,7 @@ We are experiencing issues at this moment. Please try again later.
 
 [United States](https://global.bose.com/ "United States") | English
 
-[Bose app](https://www.bose.com/apps/bose-music) [Bose Connect App](https://www.bose.com/apps/bose-connect)
+[Bose Music App](https://www.bose.com/apps/bose-music) [Bose Connect App](https://www.bose.com/apps/bose-connect)
 
 [](https://www.instagram.com/bose/)[](https://twitter.com/bose)[](https://www.facebook.com/Bose/)[](https://www.youtube.com/user/bose)
 
