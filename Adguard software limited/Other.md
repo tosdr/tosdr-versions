@@ -160,48 +160,66 @@ Dansk Deutsch English Español Français Hrvatski Indonesia Italiano Magyar Nede
 
 [Log in](https://my.adguard.com/account/)
 
-[AdGuard](https://adguard.com/en/welcome.html) [Privacy Policy](https://adguard.com/en/privacy.html) AdGuard Content Blocker
+AdGuard Privacy Policy
+======================
 
 AdGuard Content Blocker Privacy Notice
 ======================================
 
-May 17, 2024
+November 06, 2019
 
-Keynote: This Privacy Notice lists all the information that we may collect and explains why we do it and how we use this information. We only collect essential information for AdGuard products to function fully and properly. We do not share or sell your personal information. We are strongly committed to protecting user privacy and being as transparent as possible.
+Keynote: We do not share or sell any of your personal data. We are proud to say that we are one of the fighters for users privacy and we are strongly committed to this principle and to being as transparent as possible.
 
-What data AdGuard Content Blocker can collect and when
+This Privacy Notice lists all the information that we may collect and explains why we do it and how we use this information. The information we collect includes no more than is crucial to provide the full functionality of AdGuard products.
+
+We believe that privacy is a fundamental human right. That's why we are transparent about what AdGuard does and explain the purpose of every little bit of information that is gathered by our apps.
+
+What data can AdGuard Content Blocker collect and when
 ------------------------------------------------------
 
-### Checking for filter updates
+### Blocking filters updates check
 
-To check for filter updates, AdGuard connects to its servers. When it happens, no information is sent.
+To check filter updates AdGuard connects to its servers. When it happens, the following information is being sent:
 
-Filter updates are checked at user-defined intervals in accordance with the application’s settings. We do not store this data, but we do aggregate it in an anonymous form to count the total number of active users.
+Application language;
 
-Other documents:
+Vendor identifier.
 
-[AdGuard software Limited — End User License Agreement](https://adguard.com/en/eula.html) [End-User License Agreement of AdGuard Temp Mail](https://adguard.com/en/adguard-temp-mail/eula.html) [Terms of sale](https://adguard.com/en/terms-of-sale.html) [Privacy policy](https://adguard.com/en/privacy.html)
+Filter updates check is performed once a day. We do not store the obtained data, but we do aggregate it in order to identify the total number of active users.
 
-* [AdGuard for Windows](https://adguard.com/en/privacy/windows.html)
-* [AdGuard for Android](https://adguard.com/en/privacy/android.html)
-* [AdGuard for Mac](https://adguard.com/en/privacy/mac.html)
-* [AdGuard for iOS](https://adguard.com/en/privacy/ios.html)
-* [AdGuard Browser Extension](https://adguard.com/en/privacy/browser-extension.html)
-* [AdGuard for Safari](https://adguard.com/en/privacy/safari.html)
-* [AdGuard Assistant](https://adguard.com/en/privacy/assistant.html)
-* [AdGuard Home](https://adguard.com/en/privacy/home.html)
-* [AdGuard Temp Mail](https://adguard.com/en/privacy/temp-mail.html)
-* [AdGuard website & Cookies](https://adguard.com/en/privacy/website.html)
+General notes
+
+[Back to General notes](https://adguard.com/en/privacy.html)
+
+Privacy notices
+
+[AdGuard for Windows](https://adguard.com/en/privacy/windows.html)
+
+[AdGuard for Android](https://adguard.com/en/privacy/android.html)
+
+[AdGuard for Mac](https://adguard.com/en/privacy/mac.html)
+
+[AdGuard for iOS](https://adguard.com/en/privacy/ios.html)
+
+[AdGuard Browser Extension](https://adguard.com/en/privacy/browser-extension.html)
+
+[AdGuard for Safari](https://adguard.com/en/privacy/safari.html)
+
+[AdGuard Assistant](https://adguard.com/en/privacy/assistant.html)
+
+[AdGuard Content Blocker](https://adguard.com/en/privacy/content-blocker.html)
+
+[AdGuard Home](https://adguard.com/en/privacy/home.html)
+
+[AdGuard Temp Mail](https://adguard.com/en/privacy/temp-mail.html)
+
+[AdGuard website & Cookies](https://adguard.com/en/privacy/website.html)
 
 We use essential cookies only. No ads or trackers. [Privacy Policy](https://adguard.com/en/privacy/website.html)
 
 I agree
 
-System theme Light theme Dark theme
-
-System theme Light theme Dark theme
-
-© 2009–2024 Adguard Software Ltd.
+© 2009–2024 Adguard Software Limited
 
 Site map
 
@@ -217,7 +235,7 @@ Products
 
 Other products
 
-[AdGuard DNS](https://adguard-dns.io/welcome.html) [AdGuard VPN](https://adguard-vpn.com/welcome.html) [AdGuard Temp Mail](https://adguard.com/en/adguard-temp-mail/overview.html?aid=34549) [All products](https://adguard.com/en/products.html)
+[AdGuard DNS](https://adguard-dns.io/welcome.html) [AdGuard VPN](https://adguard-vpn.com/welcome.html) [AdGuard Temp Mail β](https://adguard.com/en/adguard-temp-mail/overview.html?aid=34549) [All products](https://adguard.com/en/products.html)
 
 Support
 
@@ -241,7 +259,7 @@ AdGuard for Windows AdGuard for Android AdGuard for Android TV AdGuard for 
 
 Other products
 
-AdGuard DNS AdGuard VPN AdGuard Temp Mail All products
+AdGuard DNS AdGuard VPN AdGuard Temp Mail β All products
 
 Support
 
