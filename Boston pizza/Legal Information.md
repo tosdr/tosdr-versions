@@ -1,4 +1,4 @@
-     [![](/content/dam/bostonpizza/logo/BP_Roundel_ENG_FullColour_100x100.png)](https://bostonpizza.com/en/index.html)
+[![Boston Pizza Logo](/content/experience-fragments/bostonpizza/en/header/master/_jcr_content/root/header/headerimage.coreimg.png/1713536255241/bp-roundel-eng-fullcolour-100x100.png)](https://bostonpizza.com/en/index.html)
 
 * [Menu](https://bostonpizza.com/en/menu.html)
     
@@ -16,7 +16,7 @@
 
 [ORDER NOW](https://order.bostonpizza.com/en-ca/home)
 
-     ![](/content/dam/bostonpizza/brand/backgrounds/201705-texture-red-1300x250.png)
+![](/en/legal-disclaimer/_jcr_content/root/container_73434033/container_copy/teaser_copy.coreimg.png/1713536083728/201705-texture-red-1300x250.png)
 
 Legal Disclaimer
 ----------------
@@ -163,13 +163,13 @@ The parties have expressly requested and required that these General Terms and C
 
 [Order Now](https://order.bostonpizza.com/en-ca/home)
 
-*      [![](/content/dam/bostonpizza/icf-assets/instagram.svg)](https://www.instagram.com/bostonpizzacanada)
+* [![Instagram](/content/experience-fragments/bostonpizza/en/footer/master/_jcr_content/root/footer/share-link-1.coreimg.svg/1713534334548/instagram.svg)](https://www.instagram.com/bostonpizzacanada)
     
-*      [![](/content/dam/bostonpizza/icf-assets/fb.svg)](https://www.facebook.com/BostonPizza)
+* [![Facebook](/content/experience-fragments/bostonpizza/en/footer/master/_jcr_content/root/footer/share-link-2.coreimg.svg/1713534334528/fb.svg)](https://www.facebook.com/BostonPizza)
     
-*      [![](/content/dam/bostonpizza/icf-assets/twitter.svg)](https://twitter.com/bostonpizza)
+* [![Twitter](/content/experience-fragments/bostonpizza/en/footer/master/_jcr_content/root/footer/share-link-3.coreimg.svg/1713534334591/twitter.svg)](https://twitter.com/bostonpizza)
     
-*      [![](/content/dam/bostonpizza/icf-assets/youtube.svg)](https://www.youtube.com/user/BostonPizzaCanada)
+* [![YouTube](/content/experience-fragments/bostonpizza/en/footer/master/_jcr_content/root/footer/share-link-4.coreimg.svg/1713534334578/youtube.svg)](https://www.youtube.com/user/BostonPizzaCanada)
     
 
 #### Restaurants
@@ -217,7 +217,7 @@ The parties have expressly requested and required that these General Terms and C
 * [FR](https://bostonpizza.com/fr/legal-disclaimer.html)
 * [EN](https://bostonpizza.com/en/legal-disclaimer.html)
 
-     ![](/content/dam/bostonpizza/logo/BP_Roundel_ENG_FullColour_54x54.png)
+![logo](/content/experience-fragments/bostonpizza/en/footer/master/_jcr_content/root/footer/footer-bp-logo.coreimg.png/1713536254912/bp-roundel-eng-fullcolour-54x54.png)
 
 © Boston Pizza International Inc. 2024  
 All rights reserved. Boston Pizza, the Boston Pizza roundel and MyBP are registered trademarks of Boston Pizza Royalties Limited Partnership, used under license.
