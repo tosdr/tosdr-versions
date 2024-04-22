@@ -101,8 +101,7 @@ Bedding, Pillows, Protectors & Throws
 | Adult Pillows | 100 Days | 2   |
 | Mini Pillows, Toddler Pillows, Wedge Pillows | 100 Days | 1   |
 | Protectors, Sheet Sets + Pillowcases, Duvet Inserts & Covers, Organic Cotton Gauze Blanket + Shams | 100 Days | 1   |
-| Dog Bed Mattress & Pillow, Coco-Mat Coconut Coir Mattress Pad, Yoga Cushions & Mats, Throw Blankets, Alpaca Throw Pillow Covers, Throw Pillow Inserts | 30 Days | 1   |
-| Throw Pillow Covers, Throws, Rugs, Wall Hangings, and other home decor from small makers as noted on the product page | Final Sale | n/a |
+| Dog Bed Mattress & Pillow, Coco-Mat Coconut Coir Mattress Pad, Yoga Cushions & Mats, Throw Blankets, Throw Pillow Covers, Throw Pillow Inserts | 30 Days | 1   |
 
 Loungewear
 ----------
