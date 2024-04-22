@@ -1,15 +1,15 @@
 [Cybernomics 101: Uncovering the financial forces driving cyberattacks.](https://www.barracuda.com/reports/cybernomics)
 
-MENU [](https://www.barracuda.com/)
+MENU [![Barracuda logo](/content/dam/barracuda-corp/images/site/logo_barracuda_primary_reversed.svg)](https://www.barracuda.com/)
 
- [](tel:+18882684772)
+ ![](/etc.clientlibs/barracuda-corp/clientlibs/clientlib-site/resources/images/icon_search_v2.svg)[![Contact](/etc.clientlibs/barracuda-corp/clientlibs/clientlib-site/resources/images/phone-icon.png)](tel:+18882684772)
 
- [![Barracuda full logo](/content/dam/barracuda-corp/images/site/header/logo_barracuda_primary_reversed.svg) ![Barracuda minimal logo](/content/dam/barracuda-corp/images/site/header/icon_barracuda.svg)](https://www.barracuda.com/)
+ [![Barracuda full logo](/content/dam/barracuda-corp/images/site/header/logo_barracuda_primary_strapline_reversed.svg) ![Barracuda minimal logo](/content/dam/barracuda-corp/images/site/header/icon_barracuda.svg)](https://www.barracuda.com/)
 
 * [FREE TRIAL](https://www.barracuda.com/support/free-trials)
 * [![Search](/etc.clientlibs/barracuda-corp/clientlibs/clientlib-site/resources/images/icon_search_v2.svg)](#)
     
-* [](#)
+* [![Portal Login](/etc.clientlibs/barracuda-corp/clientlibs/clientlib-site/resources/images/icon_partner-login.svg)](#)
     
     [Partner Portal Login](https://partners.barracuda.com/login/) [Product Login](https://login.barracudanetworks.com/auth/login/)
     
@@ -17,7 +17,7 @@ MENU [](https://www.barracuda.com/)
     
     [Customer Support Community](https://barracudanetworks.force.com/customers/s) [Partner Support Community](https://barracudanetworks.force.com/partners2)
     
-* [](#)
+* [![Contact](/etc.clientlibs/barracuda-corp/clientlibs/clientlib-site/resources/images/icon_contact.svg)](#)
     
     [+1 888 268 4772](tel:+18882684772) Live Chat
     
@@ -48,7 +48,7 @@ MENU [](https://www.barracuda.com/)
 
 * * *
 
-[![Barracuda provides a comprehensive cybersecurity platform that includes Email Protection, Application Protection, Network Protection, Data Protection, and Managed XDR.](/content/experience-fragments/barracuda-corp/us/en/site/header/master/_jcr_content/root/container/header/mega-menu/tabItem-mega-menu-0-1635182815730/horizontal_tab/tab0-1694733144258/container/image.coreimg.svg/1714010019429/platform-diagram.svg)](https://www.barracuda.com/products)
+[![Barracuda provides a comprehensive cybersecurity platform that includes Email Protection, Application Protection, Network Protection, Data Protection, and Managed XDR.](/content/experience-fragments/barracuda-corp/us/en/site/header/master/_jcr_content/root/container/header/mega-menu/tabItem-mega-menu-0-1635182815730/horizontal_tab/tab0-1694733144258/container/image.coreimg.svg/1712338993586/platform-diagram.svg)](https://www.barracuda.com/products)
 
 [EXPLORE THE PLATFORM](https://www.barracuda.com/products)
 
@@ -314,7 +314,7 @@ SERVICES TECHNICAL INFORMATION QUICK LINKS
 
 EXISTING PARTNERS BECOME A PARTNER FIND A PARTNER
 
-[Partner Portal Login](https://partners.barracuda.com/login) [Become a Partner](https://www.barracuda.com/partners)
+[Partner Portal Login](https://partners.barracuda.com/login) [Become a Partner](https://www.barracuda.com/partners/overview)
 
 WHO WE ARE NEWS AND EVENTS LEGAL
 
@@ -436,11 +436,11 @@ New](https://www.barracuda.com/solutions/manufacturing)[Retail](https://www.barr
 
 [Build your Ransomware Protection](https://www.barracuda.com/solutions/ransomware/configurator)
 
-[Barracuda Security Insights](https://www.barracuda.com/solutions/cyber-security-insights)[Top 13 Email Threat Types](https://www.barracuda.com/solutions/13-email-threat-types)[\[email protected\]](https://www.barracuda.com/products/email-protection/protect-microsoft-365)[Cyber Liability Insurance](https://www.barracuda.com/solutions/cyber-liability-insurance)
+[Barracuda Security Insights](https://www.barracuda.com/solutions/cyber-security-insights)[Top 13 Email Threat Types](https://www.barracuda.com/solutions/13-email-threat-types)[Advanced Threat Protection](https://www.barracuda.com/solutions/protect-microsoft-365)[Cyber Liability Insurance](https://www.barracuda.com/solutions/cyber-liability-insurance)
 
 [Build your Ransomware Protection](https://www.barracuda.com/solutions/ransomware/configurator)
 
-[Support Plans and Packages](https://www.barracuda.com/support/plans-and-packages)[Energize Updates](https://www.barracuda.com/support/energize-updates)[Instant Replacement](https://www.barracuda.com/support/instant-replacement)[Barracuda Campus Training](https://campus.barracuda.com/)
+[Support Plans and Packages](https://www.barracuda.com/support/plans-and-packages)[Energize Updates](https://www.barracuda.com/support/energize-updates)[Instant Replacement](https://www.barracuda.com/support/instant-replacement)[Hardware Refresh](https://www.barracuda.com/support/refresh)[Barracuda Campus Training](https://campus.barracuda.com/)
 
 [Contact Support](https://www.barracuda.com/support/contact) [Downloads](https://www.barracuda.com/support/download) [Product Login](https://login.barracudanetworks.com/auth/login/) [Customer Support Login](https://barracudanetworks.force.com/customers/s)
 
@@ -454,21 +454,21 @@ New](https://www.barracuda.com/solutions/manufacturing)[Retail](https://www.barr
 
 [PARTNER PORTAL LOGIN](https://partners.barracuda.com/login)[Program Overview](https://www.barracuda.com/partners)[Resale Partners](https://www.barracuda.com/partners/channel)[MSP Partners](https://www.barracuda.com/partners/msp)[Technology Partners](https://www.barracuda.com/partners/technology)
 
-[Partner Portal Login](https://partners.barracuda.com/login) [Become a Partner](https://www.barracuda.com/partners)
+[Partner Portal Login](https://partners.barracuda.com/login) [Become a Partner](https://www.barracuda.com/partners/overview)
 
 [Program Overview
 
 We are a trusted partner and leading provider of cloud-enabled security solutions. We listen closely to understand what’s most important to our partners and customers. Unlike any other security company, we provide solutions and support that grow and adapt to their journey. Grow your business, boost profits, and protect customers throughout their journey.​](https://www.barracuda.com/partners)[Partner Application Form](https://www.barracuda.com/partners/become-a-partner)
 
-[Partner Portal Login](https://partners.barracuda.com/login) [Become a Partner](https://www.barracuda.com/partners)
+[Partner Portal Login](https://partners.barracuda.com/login) [Become a Partner](https://www.barracuda.com/partners/overview)
 
 By working with a Barracuda partner, you get the knowledge and expertise you need to find just the right products and solutions to protect and support your business. As an extension of the Barracuda sales and support organization, our partners provide you with hands-on guidance, service and support to help meet your IT-security needs.​
 
 [Find a partner](https://www.barracuda.com/partners/find)
 
-[Partner Portal Login](https://partners.barracuda.com/login) [Become a Partner](https://www.barracuda.com/partners)
+[Partner Portal Login](https://partners.barracuda.com/login) [Become a Partner](https://www.barracuda.com/partners/overview)
 
-[About Us](https://www.barracuda.com/company)[Leadership](https://www.barracuda.com/company/leadership)[Customers](https://www.barracuda.com/company/customers)[Barracuda Insiders](https://www.barracuda.com/company/customers/insider-program)[Careers](https://www.barracuda.com/company/careers)[Engineering](https://www.barracuda.com/company/engineering)[Contact Us](https://www.barracuda.com/company/contact)
+[About Us](https://www.barracuda.com/company/about)[Leadership](https://www.barracuda.com/company/leadership)[Customers](https://www.barracuda.com/company/customers)[Barracuda Insiders](https://www.barracuda.com/company/customers/insider-program)[Careers](https://www.barracuda.com/company/careers)[Engineering](https://www.barracuda.com/company/engineering)[Contact Us](https://www.barracuda.com/company/contact)
 
 [Contact Us](https://www.barracuda.com/company/contact)
 
@@ -693,18 +693,20 @@ If you have any questions regarding this Privacy Policy or our use of Personal I
 
 If you have any questions in relation to this Privacy Policy or how we collect, use or store your Personal Information, you can contact us by telephone at: +1 408-342-5400, by mail at Barracuda Networks, Inc., 3175 South Winchester Boulevard, Campbell, CA 95008, or by email at [legal@barracuda.com](mailto:legal@barracuda.com).
 
+![Barracuda logo](/content/dam/barracuda-corp/images/site/logo_barracuda_primary_reversed.svg)
+
 [Privacy Policy](https://www.barracuda.com/company/legal/data-privacy/privacy-policy) | [Website Terms & Conditions](https://www.barracuda.com/company/legal/website-terms)
 
 © 2003 - 2024 Barracuda Networks, Inc.
 
 All rights reserved.
 
-* [](https://www.facebook.com/BarracudaNetworks)
-* [](https://twitter.com/barracuda)
-* [](https://youtube.com/barracuda)
-* [](https://www.linkedin.com/company/barracuda-networks)
-* [](https://www.instagram.com/barracudanetworks)
-* [](https://blog.barracuda.com/)
+* [![Barracuda on Facebook](/content/dam/barracuda-corp/images/site/footer/icon_facebook.svg)](https://www.facebook.com/BarracudaNetworks)
+* [![Barracuda on Twitter](/content/dam/barracuda-corp/images/site/footer/icon_twitter.svg)](https://twitter.com/barracuda)
+* [![Barracuda on YouTube](/content/dam/barracuda-corp/images/site/footer/icon_youtube.svg)](https://youtube.com/barracuda)
+* [![Barracuda on LinkedIn](/content/dam/barracuda-corp/images/site/footer/icon_linkedin.svg)](https://www.linkedin.com/company/barracuda-networks)
+* [![Barracuda on Instagram](/content/dam/barracuda-corp/images/site/footer/icon_instagram.svg)](https://www.instagram.com/barracudanetworks)
+* [![Barracuda on Corporate Blog](/content/dam/barracuda-corp/images/site/footer/icon_barracuda_blog.svg)](https://blog.barracuda.com/)
 
 [Privacy Policy](https://www.barracuda.com/company/legal/data-privacy/privacy-policy) | [Website Terms & Conditions](https://www.barracuda.com/company/legal/website-terms)
 
@@ -743,16 +745,16 @@ Contact Us
 Connect
 -------
 
-*  [Facebook](https://www.facebook.com/BarracudaNetworks)
-*  [Twitter](https://twitter.com/barracuda)
-*  [YouTube](https://youtube.com/barracuda)
-*  [LinkedIn](https://www.linkedin.com/company/barracuda-networks)
-*  [Instagram](https://www.instagram.com/barracudanetworks)
-*  [Corporate Blog](https://blog.barracuda.com/)
+*  [![Barracuda on Facebook](/content/dam/barracuda-corp/images/site/footer/icon_facebook.svg) Facebook](https://www.facebook.com/BarracudaNetworks)
+*  [![Barracuda on Twitter](/content/dam/barracuda-corp/images/site/footer/icon_twitter.svg) Twitter](https://twitter.com/barracuda)
+*  [![Barracuda on YouTube](/content/dam/barracuda-corp/images/site/footer/icon_youtube.svg) YouTube](https://youtube.com/barracuda)
+*  [![Barracuda on LinkedIn](/content/dam/barracuda-corp/images/site/footer/icon_linkedin.svg) LinkedIn](https://www.linkedin.com/company/barracuda-networks)
+*  [![Barracuda on Instagram](/content/dam/barracuda-corp/images/site/footer/icon_instagram.svg) Instagram](https://www.instagram.com/barracudanetworks)
+*  [![Barracuda on Corporate Blog](/content/dam/barracuda-corp/images/site/footer/icon_barracuda_blog.svg) Corporate Blog](https://blog.barracuda.com/)
 
 CHAT NOW
 
- Hi, how may I help you?  
+Hey there! Would you like to speak to an expert now?  
 
 DISMISS
 
