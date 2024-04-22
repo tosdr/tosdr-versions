@@ -40,7 +40,6 @@
 * [NEWS](https://appuals.com/news/)
 * [LEARN](https://appuals.com/learn/)
     * [Coding](https://appuals.com/learn/coding/)
-* [COMMUNITY](https://community.appuals.com/)
 
 * [Search for](#)
 * [Follow](#)
@@ -426,7 +425,7 @@ Given the objective complexity surrounding tracking technologies, Users are enco
 
 ![Appuals.com](https://cdn.appuals.com/wp-content/uploads/2022/10/apuals_new_logo_B-1.png)
 
-[About](https://appuals.com/about/) [Community](https://community.appuals.com/) [Privacy Policy](https://appuals.com/privacy-policy/)[Cookie Policy](https://appuals.com/cookie-policy/) [Terms & Conditions](https://appuals.com/terms-conditions/) [Editorial Guidelines](https://appuals.com/about/#go-to-editorial-guidelines/) [Partnership Disclaimer](https://appuals.com/partnership-disclaimer/) [Contact Us](https://appuals.com/contact-us/)
+[About](https://appuals.com/about/) [Privacy Policy](https://appuals.com/privacy-policy/)[Cookie Policy](https://appuals.com/cookie-policy/) [Terms & Conditions](https://appuals.com/terms-conditions/) [Editorial Guidelines](https://appuals.com/about/#go-to-editorial-guidelines/) [Partnership Disclaimer](https://appuals.com/partnership-disclaimer/) [Contact Us](https://appuals.com/contact-us/)
 
 **Appuals.com**  
 _part of PYCO IT SOLUTIONS LTD registered in England & Wales under 08166026_  
