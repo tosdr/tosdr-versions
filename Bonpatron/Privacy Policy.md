@@ -1,4 +1,4 @@
-[![BonPatron](https://bonpatron.com/Resources/images/icone_rvb_web3.png)BonPatron](https://bonpatron.com/)
+[![BonPatron](https://bonpatron.com/Resources/mea/images/icone_rvb_web3.png)BonPatron](https://bonpatron.com/)
 
 * [Editor](https://bonpatron.com/)
 * [Vocabulary](https://bonpatron.com/xpress/)
@@ -96,5 +96,7 @@ Terry Nadasdi & Stéfan Sinclair
 [BonPatron Pro](https://pro.bonpatron.com/)
 
 © 2001-2024 Nadaclair Language Technologies Inc.
+
+    
 
 ![Quantcast](//pixel.quantserve.com/pixel/p-31iz6hfFutd16.gif?labels=Domain.bonpatron_com,DomainId.471629)
