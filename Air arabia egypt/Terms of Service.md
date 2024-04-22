@@ -10,7 +10,7 @@ Password \*
 
  [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGwAAAAVAQMAAACZhZmHAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAAA1JREFUeNpjYBgFZAIAATsAAYYWsqUAAAAASUVORK5CYII=) Logout](#)
 
-[Join](https://reservations.airarabia.com/service-app/ibe/reservation.html#/registration/EN/AED/AE?hdnParamData=EN%5ERE&hdnCarrier=G9)
+[Join](https://reservations.airarabia.com/service-app/ibe/reservation.html#/registration/EN/AED/AE?hdnParamData=EN^RE&hdnCarrier=G9)
 
 [](#)[![](/sites/all/themes/airarabia2016/images/airarabia_logo.png)](https://www.airarabia.com/)
 
