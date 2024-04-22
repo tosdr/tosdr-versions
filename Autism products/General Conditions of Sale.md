@@ -270,7 +270,7 @@ Scottsdale, AZ 85258
 
 Phone: [541-652-6368](tel:541-652-6368)
 
-Fax: [815-550- 1819](fax:815-550-%201819)
+Fax: [815-550- 1819](fax:815-550- 1819)
 
 Email: [\[email protected\]](https://www.autism-products.com/cdn-cgi/l/email-protection)
 
