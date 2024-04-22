@@ -71,6 +71,7 @@ Acceptable Use Policy
     * [GGZ Oost Brabant](https://www.bit.nl/ggz-oost-brabant)
     * [Missing Piece](https://www.bit.nl/missing-piece)
     * [Sensing Clues](https://www.bit.nl/sensing-clues)
+    * [Solimas](https://www.bit.nl/solimas)
     * [Techni Team](https://www.bit.nl/techniteam)
     * [DiVault](https://www.bit.nl/divault)
     * [Laposta](https://www.bit.nl/laposta)
@@ -134,13 +135,13 @@ BIT behoudt zich het recht voor aan de hand van maatschappelijke en technische o
 
 ### [Nieuws](https://www.bit.nl/nieuws)
 
-#### [Status.bit.nl in nieuw jasje!](https://www.bit.nl/news/3527/88/Status.bit.nl-in-nieuw-jasje)
+#### [Nieuw bij BIT: GPU hosting](https://www.bit.nl/news/3526/88/Nieuw-bij-BIT-GPU-hosting)
 
 [](https://www.bit.nl/nieuws)
 
 ### [Blogs](https://www.bit.nl/blogs)
 
-#### [Certificaatvrijheid met Let’s Encrypt](https://www.bit.nl/news/3540/293/Certificaatvrijheid-met-Lets-Encrypt)
+#### [Echte mensen, echte service: bereikbaarheid bij BIT](https://www.bit.nl/news/3523/293/Echte-mensen-echte-service-bereikbaarheid-bij-BIT)
 
 [](https://www.bit.nl/blogs)
 
@@ -154,7 +155,7 @@ BIT behoudt zich het recht voor aan de hand van maatschappelijke en technische o
 
 #### [Onderhoud](https://www.bit.nl/onderhoud)
 
-[11-06-24 Onderhoud management software virtualisatieplatform](https://www.bit.nl/news/3549/92/Onderhoud-management-software-virtualisatieplatform) [11-06-24 Blackbuilding noodstroomtest BIT-2](https://www.bit.nl/news/3547/92/Blackbuilding-noodstroomtest-BIT-2)
+[15-04-24 Periodiek onderhoud koeling BIT-1](https://www.bit.nl/news/3517/92/Periodiek-onderhoud-koeling-BIT-1) [22-04-24 Periodiek onderhoud koeling BIT-2A](https://www.bit.nl/news/3521/92/Periodiek-onderhoud-koeling-BIT-2A) [25-04-24 Periodiek onderhoud koeling BIT-2BCD](https://www.bit.nl/news/3524/92/Periodiek-onderhoud-koeling-BIT-2BCD)
 
 [](https://www.bit.nl/onderhoud)
 
@@ -178,8 +179,10 @@ e.
     * [Stroomvoorziening](https://www.bit.nl/stroomvoorziening)
     * [Technische specificaties](https://www.bit.nl/technische-specificaties)
     * [De datacenters in beeld](https://www.bit.nl/video-datacenters)
-    * * [](https://mastodon.bit.nl/@bit)
+    * * [](https://www.facebook.com/bitnl)
+        * [](https://twitter.com/bitnl)
         * [](https://www.linkedin.com/company/bitnl/)
+        * [](https://www.instagram.com/bit_nl/)
         * [](https://www.youtube.com/channel/UC8zB0RY1MWZrJrGVGTjUaDQ)
 * * [Netwerk](https://www.bit.nl/algemeen-netwerk)
     * [Carriers](https://www.bit.nl/carriers)
@@ -235,6 +238,7 @@ e.
     * [GGZ Oost Brabant](https://www.bit.nl/ggz-oost-brabant)
     * [Missing Piece](https://www.bit.nl/missing-piece)
     * [Sensing Clues](https://www.bit.nl/sensing-clues)
+    * [Solimas](https://www.bit.nl/solimas)
     * [Techni Team](https://www.bit.nl/techniteam)
     * [DiVault](https://www.bit.nl/divault)
     * [Laposta](https://www.bit.nl/laposta)
