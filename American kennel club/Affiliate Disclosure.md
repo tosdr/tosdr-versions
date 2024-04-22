@@ -82,11 +82,11 @@ Explore by characteristic or group Select Characteristic or Group Smallest Dog B
 
 [Products](https://www.akc.org/products-services/)
 
-* [AKC Shop Products](https://shop.akc.org/)
-    * [Shop By Breed](https://shop.akc.org/collections/shop-by-breed)
-    * [Gifts for Dog Lovers](https://shop.akc.org/collections/gifts-for-dog-lovers)
-    * [Dog Supplies](https://shop.akc.org/collections/dog-supplies)
-    * [AKC Pro Shop](https://shop.akc.org/collections/akc-pro-shop)
+* [Shop Dog Products](https://shop.akc.org/)
+    * [Breed-Specific Products](https://shop.akc.org/collections/shop-by-breed)
+    * [Dog Toys & Treats](https://retrievist.akc.org/reviews/best-dog-toys/)
+    * [Training Products](https://shop.akc.org/collections/gear-for-dogs-training-resources-supplies)
+    * [Dog Gift Packs](https://shop.akc.org/collections/gear-for-dogs-gift-boxes)
 * [AKC Rx](https://www.akcpetrx.com/)
 * [DNA & Health Testing](https://akc.org/products-services/breeder-programs/dna/)
 * [DNA Kit Activation](https://dna.akc.org/)
@@ -231,8 +231,8 @@ Explore by characteristic or group Select Characteristic or Group Smallest Dog B
 
 * [How to Form a Dog Club](https://www.akc.org/clubs-delegates/clubs/forming-a-club/)
 * [About Club Relations](https://akc.org/clubs-delegates/clubs/about-club-relations/)
+* 
 * [Club Bylaw Services](https://www.akc.org/clubs-delegates/clubs/forming-a-club/club-bylaw-services/)
-* [AKC Club Governance and Issues Resources](https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2024/05/06095024/AKC-Club-Governance-and-Issues-Resources.pdf)
 * [Club Development Department](https://www.akc.org/clubs-delegates/clubs/about-club-development/)
 * [Promote a Club](https://akc.org/clubs-delegates/promote/)
 * [Club Resources](https://akc.org/clubs-delegates/clubs/resources/)
@@ -252,9 +252,10 @@ Explore by characteristic or group Select Characteristic or Group Smallest Dog B
 
 ### Government Relations
 
-* [Government Relations Department](https://akc.org/clubs-delegates/government-relations/)
+* [Legislative Action Center](https://www.votervoice.net/AKC/Home)
 * [Legislative Alerts](https://akc.org/clubs-delegates/government-relations/legislative-alerts/)
 * [AKC PAC and Legislative Support Fund](https://akc.org/clubs-delegates/government-relations/donations/)
+* [Government Relations Department](https://akc.org/clubs-delegates/government-relations/)
 
 ### AKC Library & Archives
 
@@ -319,7 +320,7 @@ Search [Sign In](https://www.akc.org/wp-login.php) Menu
         * [AKC Library & Archives](https://akc.org/about/archive/)
 * Products & Services
     * Products
-        * [AKC Shop Products](https://shop.akc.org/)
+        * [Shop Dog Products](https://shop.akc.org/)
         * [AKC Rx](https://www.akcpetrx.com/)
         * [DNA & Health Testing](https://akc.org/products-services/breeder-programs/dna/)
         * [DNA Kit Activation](https://dna.akc.org/)
@@ -385,8 +386,8 @@ Search [Sign In](https://www.akc.org/wp-login.php) Menu
     * Clubs
         * [How to Form a Dog Club](https://www.akc.org/clubs-delegates/clubs/forming-a-club/)
         * [About Club Relations](https://akc.org/clubs-delegates/clubs/about-club-relations/)
+        * 
         * [Club Bylaw Services](https://www.akc.org/clubs-delegates/clubs/forming-a-club/club-bylaw-services/)
-        * [AKC Club Governance and Issues Resources](https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2024/05/06095024/AKC-Club-Governance-and-Issues-Resources.pdf)
         * [Club Development Department](https://www.akc.org/clubs-delegates/clubs/about-club-development/)
         * [Promote a Club](https://akc.org/clubs-delegates/promote/)
         * [Club Resources](https://akc.org/clubs-delegates/clubs/resources/)
@@ -402,9 +403,10 @@ Search [Sign In](https://www.akc.org/wp-login.php) Menu
         * [The Role of an AKC Delegate](https://www.youtube.com/watch?v=m-Mp3Z9fg7s)
         * [The Importance of Your AKC Delegate](https://images.akc.org/pdf/The_Importance_of_Your_AKC_Delegate_2018.pdf)
     * Government Relations
-        * [Government Relations Department](https://akc.org/clubs-delegates/government-relations/)
+        * [Legislative Action Center](https://www.votervoice.net/AKC/Home)
         * [Legislative Alerts](https://akc.org/clubs-delegates/government-relations/legislative-alerts/)
         * [AKC PAC and Legislative Support Fund](https://akc.org/clubs-delegates/government-relations/donations/)
+        * [Government Relations Department](https://akc.org/clubs-delegates/government-relations/)
     * AKC Library & Archives
         * [Overview of Collections](https://akc.org/about/archive/guide-collections/)
         * [Breed Club Archives](https://akc.org/about/archive/)
