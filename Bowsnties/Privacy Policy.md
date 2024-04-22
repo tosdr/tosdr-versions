@@ -1,10 +1,10 @@
 ![](https://ct.pinterest.com/v3/?tid=2619239296514&event=init&noscript=1)  
 
-### [NEW Summer Collection is Here](https://www.bows-n-ties.com/New-Arrivals/?order=product_sale.sale_nbr.desc)
+### [SALE: 50% OFF Dress Socks](https://www.bows-n-ties.com/socks/)
 
 __
 
-[![Bows-N-Ties.com](/img/bnt-logo-1564092921.jpg)](https://www.bows-n-ties.com/)
+![Bows-N-Ties.com](/img/bnt-logo-1564092921.jpg)
 
 [![Bows-N-Ties.com](/img/bnt-logo-1564092921.jpg)](https://www.bows-n-ties.com/)
 
