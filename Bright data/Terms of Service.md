@@ -63,9 +63,8 @@
         * [Proxy Browser ExtensionChange location to collect Web data](https://brightdata.com/products/proxy-browser-extension)
 * Scraping Solutions
     
-    * [Web Scraper APINew!Custom endpoint APIs for simplified web scraping.](https://brightdata.com/products/web-scraper)
-    * [Serverless FunctionsUse Javascript functions and existing code templates to build web scrapers](https://brightdata.com/products/web-scraper/functions)
     * [Scraping BrowserScale scraping browsers with built-in unblocking and hosting](https://brightdata.com/products/scraping-browser)
+    * [Web Scraper IDEUse Javascript functions and existing code templates to build web scrapers](https://brightdata.com/products/web-scraper)
     * [SERP APIQuick and easy search engine scraping on demand](https://brightdata.com/products/serp-api)
     * [Web UnlockerSay goodbye to blocks and CAPTCHAs with a single API](https://brightdata.com/products/web-unlocker)
 * Web Data
@@ -279,8 +278,7 @@ Service Agreement
 * [Miscellaneous](#toc_1_11)
 
 * [Products](https://brightdata.com/products)
-    * [Datasets Marketplace](https://brightdata.com/products/datasets/marketplace)
-    * [Custom Datasets](https://brightdata.com/products/datasets/custom)
+    * [Datasets](https://brightdata.com/products/datasets)
     * [Web Scraper IDE](https://brightdata.com/products/web-scraper)
     * [Scraping Browser](https://brightdata.com/products/scraping-browser)
     * [SERP API](https://brightdata.com/products/serp-api)
@@ -319,12 +317,9 @@ Service Agreement
     * [Data Documentary](https://brightdata.com/web-data-revolution)
     * [Iron Analyst](https://brightdata.com/iron-analyst)
     * [Web Data Masterclass](https://brightdata.com/web-data-masterclass)
-    * [ScrapeCon](https://brightdata.com/scrapecon)
-    * [Common Proxy Questions](https://brightdata.com/faqs)
     * [FAQ](https://docs.brightdata.com/introduction)
     * [Webinars](https://brightdata.com/webinar)
     * [Data for Journalists](https://brightdata.com/products/datasets/for-journalists)
-    * [The State of Public Web Data](https://brightdata.com/state-of-public-web-data)
 * [Legal](https://brightdata.com/legal-governance)
     * [Patents](https://brightdata.com/patent-marking)
     * [Legal Governance](https://brightdata.com/legal-governance)
