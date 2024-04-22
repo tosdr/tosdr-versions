@@ -37,9 +37,9 @@ Collecting and Using Your Personal Data
 
 ### Types of Data Collected
 
-#### Account Information
+#### Personal Data
 
-To set up an AwesomeScreenshot account, You need to supply fundamental registration information including Your name and email address. This can be obtained through single sign-on services like Google. For instance, when You establish an account or log into the Service with Your Google credentials, We access Your name, email address, and profile picture as allowed by Your Google profile settings for the purpose of authenticating You.
+While using Our Service, We may ask You to provide Us with certain personally identifiable information that can be used to contact or identify You. Personally identifiable information may include, but is not limited to:
 
 #### Usage Data
 
@@ -48,10 +48,6 @@ Usage Data is collected automatically when using the Service.
 Usage Data may include information such as Your browser type, browser version, the pages of our Service that You visit, the time and date of Your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
 
 When You access the Service through iOS or MacOS, We may collect certain information including, but not limited to, Your operating system, Your app version, Your screen recording data and other diagnostic data.
-
-#### General Customer Interaction
-
-We may collect additional information You choose to share with Us through general customer interactions such as emails, website forms, comments, support tickets, social media, survey responses, or other interactions with users within our products.
 
 ### Use of Your Personal Data
 
@@ -69,12 +65,10 @@ We may share Your personal information in the following situations:
 * **With Service Providers:** We may share Your personal information with Service Providers to monitor and analyze the use of our Service, to contact You.
 * **With other users:** when You share personal information or otherwise interact in the public areas with other users, such information may be viewed by all users and may be publicly distributed outside.
 * **With Your consent:** We may disclose Your personal information for any other purpose with Your consent.
-* **Third-Party Services:** You can choose to permit or restrict Third-Party Services. Third-Party Services may integrate with our services and you can enable or disable the integrations. Once enabled, the Third-Party Service may share some information with us to facilitate the integration. You should check the privacy settings and notices in these Third-Party Services to understand the data collection, sharing and use.
-* **What Google user data is accessed by Our application?**  
-    For accessing Your Google account information, please refer to Account Information mentioned above. When You integrate our services to Your YouTube account, We access specific user details from Your YouTube profile only when You utilize this third-party service. The information includes Your channel name(s), channel ID, channel thumbnail URL, and uploaded video URL. Similarly, when You integrate our services to Your Google Drive, We access specific user information from Your Google Drive account only when You utilize this third-party service, such as Your folder name(s) and uploaded file URL. We solely access Your Google data when necessary, such as during the process of uploading files to a Google Drive folder or a YouTube channel.
-* In terms of integration with YouTube, We use YouTube API services. If You enable the integration with YouTube, You are agreeing to be bound by the [YouTube Terms of Service](https://www.youtube.com/t/terms). [How to upload a video recorded with Awesome Screenshot to YouTube?](https://youtu.be/zE0ZwvJKb7M)  
-    In terms of integration with Google Drive, We use Google Drive API services. If You enable the integration with Google Drive, You are agreeing to be bound by the [Google Drive Terms of Service](https://www.google.com/drive/terms-of-service). [How to upload a video recorded with Awesome Screenshot or a screenshot captured with Awesome Screenshot to Google Drive?](https://youtu.be/BnjyQXw5Pjo)  
-    Under the situation of Us accessing or using authorized data, in addition to Awesome Screenshot's normal procedure for deleting stored data, You can revoke access to Your data via the [Google security settings page](https://security.google.com/settings/security/permissions). For more information on integration with YouTube and Google Drive, You can check the [Google Privacy Policy](https://policies.google.com/privacy).
+* **Third-Party Services:** You can choose to permit or restrict Third-Party Services. Third-Party Services may integrate with our services and you can enable or disable the integrations. Once enabled, the Third-Party Service may share some information with us to facilitate the integration. You should check the privacy settings and notices in these Third-Party Services to understand the data collection, sharing and use.  
+    In terms of integration with YouTube, we use YouTube API services. If you enable the integration with YouTube, you are agreeing to be bound by the [YouTube Terms of Service](https://www.youtube.com/t/terms). [How to upload a video recorded with Awesome Screenshot to YouTube?](https://youtu.be/zE0ZwvJKb7M)  
+    In terms of integration with Google Drive, we use Google Drive API services. If you enable the integration with Google Drive, you are agreeing to be bound by the [Google Drive Terms of Service](https://www.google.com/drive/terms-of-service). [How to upload a video recorded with Awesome Screenshot or a screenshot captured with Awesome Screenshot to Google Drive?](https://youtu.be/BnjyQXw5Pjo)  
+    Under the situation of us accessing or using authorized data, in addition to Awesome Screenshot's normal procedure for deleting stored data, you can revoke access to your data via the [Google security settings page](https://security.google.com/settings/security/permissions). For more information on integration with YouTube and Google Drive, you can check the [Google Privacy Policy](https://policies.google.com/privacy).
 
 ### Retention of Your Personal Data
 
