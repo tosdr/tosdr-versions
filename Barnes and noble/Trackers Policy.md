@@ -47,13 +47,7 @@ By clicking on any of these links, you will be leaving this site. We make no rep
 
 If at any time you want to update your cookie settings, you may use the links below:
 
-* [Update Cookie Settings on www.barnesandnoble.com](https://www.barnesandnoble.com/#cookie-settings)
+* [Update Cookie Settings on barnesandnoble.com](https://www.barnesandnoble.com/#cookie-settings)
 * [Update Cookie Settings on sparknotes.com](https://www.sparknotes.com/#cookie-settings)
-* [Update Cookie Settings on help.barnesandnoble.com](https://help.barnesandnoble.com/#cookie-settings)
-* [Update Cookie Settings on help-press.barnesandnoble.com](https://help-press.barnesandnoble.com/#cookie-settings)
-* [Update Cookie Settings on press.barnesandnoble.com](https://press.barnesandnoble.com/#cookie-settings)
-* [Update Cookie Settings on stores.barnesandnoble.com](https://stores.barnesandnoble.com/#cookie-settings)
-* [Update Cookie Settings on classwork.barnesandnoble.com](https://classwork.barnesandnoble.com/#cookie-settings)
-* [Update Cookie Settings on corporate.barnesandnoble.com](https://corporate.barnesandnoble.com/#cookie-settings)
 
 **NOTE: If you decide to opt-out of or disable cookies, you may not be able to use all of our website features or some features may break.**
