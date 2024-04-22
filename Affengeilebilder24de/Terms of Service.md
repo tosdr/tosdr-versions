@@ -4,7 +4,7 @@ Zurück
 
 FOLGE UNSEREM WHATSAPP-KANAL und verpasse keine Neuigkeiten und Rabattaktionen mehr
 
-BESTSELLER-SALE: spare 25% auf unsere Bestsellermotive + kostenloser Versand (kosenloser Versand ab 60€ MBW)
+SPRING-SALE: Bis zu 25% RABATT >>Automatischer Code: SPRING25<< (MBW 50€)
 
 Weiter
 
@@ -14,17 +14,7 @@ Navigation[](https://affengeilebilder24.de/search)
 
 [Affengeile Bilder ![Affengeile Bilder | Logo](//affengeilebilder24.de/cdn/shop/files/logo_130x.png?v=1646838118)](https://affengeilebilder24.de/) 
 
- Sprache Deutsch
-
-Sprache
-
-English Deutsch
-
-Newsletter
-
-[0](https://affengeilebilder24.de/apps/wishlist)
-
-[0](https://affengeilebilder24.de/cart)
+Newsletter [0](https://affengeilebilder24.de/cart)
 
 * [Kategorien](https://affengeilebilder24.de/collections)
     
@@ -144,23 +134,7 @@ Newsletter
     
     Gold auf Acrylglas
     
-    mit echtem Blattgold](https://affengeilebilder24.de/collections/gold-auf-acrylglas)[![Detailansicht Ecke Silberserie](//affengeilebilder24.de/cdn/shop/files/Detailansicht_Silberserie_Ecke_720x.png?v=1715857222)
-    
-    Silber auf Acrylglas
-    
-    mit echten Blattsilber](https://affengeilebilder24.de/collections/silber-auf-acrylglas)[![](//affengeilebilder24.de/cdn/shop/files/Detailansicht_Roseserie_Ecke_720x.png?v=1715850649)
-    
-    Rose auf Acrylglas
-    
-    mit echtem Rosegold](https://affengeilebilder24.de/collections/rose-auf-acrylglas)[![](//affengeilebilder24.de/cdn/shop/files/Detailansicht_Brushedserie_Ecke_720x.png?v=1715851998)
-    
-    Brushed
-    
-    gebürstetes AluDibond](https://affengeilebilder24.de/collections/brushedseries-auf-geburstetem-aludibond)[![](//affengeilebilder24.de/cdn/shop/files/Detailansicht_Neonserie_Ecke_720x.png?v=1715851313)
-    
-    Neon auf Acrylglas
-    
-    farbintesiv und modern](https://affengeilebilder24.de/collections/neon-auf-acrylglas)
+    mit echtem Blattgold](https://affengeilebilder24.de/collections/goldbilder-auf-acrylglas)
     
     [Produkte](https://affengeilebilder24.de/collections/all)
     
@@ -262,11 +236,7 @@ Newsletter
     * [GalleryPrint](https://affengeilebilder24.de/collections/galleryprint)
     * [AluDibond](https://affengeilebilder24.de/collections/aludibond)
     * [Poster](https://affengeilebilder24.de/collections/poster)
-    * [Gold auf Acrylglas](https://affengeilebilder24.de/collections/gold-auf-acrylglas)
-    * [Silber auf Acrylglas](https://affengeilebilder24.de/collections/silber-auf-acrylglas)
-    * [Rosè auf Acrylglas](https://affengeilebilder24.de/collections/rose-auf-acrylglas)
-    * [Neon auf Acrylglas](https://affengeilebilder24.de/collections/neon-auf-acrylglas)
-    * [Brush AluDibond](https://affengeilebilder24.de/collections/brushedseries-auf-geburstetem-aludibond)
+    * [Gold auf Acrylglas](https://affengeilebilder24.de/collections/goldbilder-auf-acrylglas)
     * [Leuchtrahmen](https://affengeilebilder24.de/collections/leuchtrahmen)
     * [Bilderrahmen](https://affengeilebilder24.de/collections/bilderrahmen)
     * [Dein Unikat](https://affengeilebilder24.de/products/dein-unikat)
@@ -288,24 +258,10 @@ Newsletter
     
     Gold auf Acrylglas
     
-    mit echtem Blattgold](https://affengeilebilder24.de/collections/gold-auf-acrylglas)[![Detailansicht Ecke Silberserie](//affengeilebilder24.de/cdn/shop/files/Detailansicht_Silberserie_Ecke_810x.png?v=1715857222)
-    
-    Silber auf Acrylglas
-    
-    mit echten Blattsilber](https://affengeilebilder24.de/collections/silber-auf-acrylglas)[![](//affengeilebilder24.de/cdn/shop/files/Detailansicht_Roseserie_Ecke_810x.png?v=1715850649)
-    
-    Rose auf Acrylglas
-    
-    mit echtem Rosegold](https://affengeilebilder24.de/collections/rose-auf-acrylglas)
+    mit echtem Blattgold](https://affengeilebilder24.de/collections/goldbilder-auf-acrylglas)
     
 * [Personalisiert](https://affengeilebilder24.de/products/dein-unikat)
 * [Für Unternehmen](https://affengeilebilder24.de/pages/business)
-
- Sprache Deutsch
-
-Sprache
-
-English Deutsch
 
    [Kategorien](https://affengeilebilder24.de/collections)
 
@@ -380,11 +336,7 @@ English Deutsch
 * [GalleryPrint](https://affengeilebilder24.de/collections/galleryprint)
 * [AluDibond](https://affengeilebilder24.de/collections/aludibond)
 * [Poster](https://affengeilebilder24.de/collections/poster)
-* [Gold auf Acrylglas](https://affengeilebilder24.de/collections/gold-auf-acrylglas)
-* [Silber auf Acrylglas](https://affengeilebilder24.de/collections/silber-auf-acrylglas)
-* [Rosè auf Acrylglas](https://affengeilebilder24.de/collections/rose-auf-acrylglas)
-* [Neon auf Acrylglas](https://affengeilebilder24.de/collections/neon-auf-acrylglas)
-* [Brush AluDibond](https://affengeilebilder24.de/collections/brushedseries-auf-geburstetem-aludibond)
+* [Gold auf Acrylglas](https://affengeilebilder24.de/collections/goldbilder-auf-acrylglas)
 * [Leuchtrahmen](https://affengeilebilder24.de/collections/leuchtrahmen)
 * [Bilderrahmen](https://affengeilebilder24.de/collections/bilderrahmen)
 * [Dein Unikat](https://affengeilebilder24.de/products/dein-unikat)
@@ -689,15 +641,9 @@ Partner
 
 [![](https://api.lionshome.de/seal/seal.png)](https://www.lionshome.de/) [![](https://affengeilebilder24.brands-unique.com/moebelde/siegel-de-m.png)](https://www.moebel.de/)
 
- Sprache Deutsch
-
-Sprache
-
-English Deutsch
-
 Wir akzeptieren
 
-American Express Apple Pay Google Pay Klarna Maestro Mastercard PayPal Shop Pay Union Pay Visa
+American Express Apple Pay Google Pay Klarna Maestro Mastercard PayPal Shop Pay SOFORT Union Pay Visa
 
 Cookies
 
