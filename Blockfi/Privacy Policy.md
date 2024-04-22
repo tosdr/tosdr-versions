@@ -5,6 +5,8 @@
 * [**Help Center**](https://blockfi.com/category/help-center/)
 * [**Kroll**](https://restructuring.ra.kroll.com/blockfi/)
 
+[Login](https://app.blockfi.com/signin)
+
 [Terms](https://blockfi.com/category/terms/)
 
 Our Privacy Policy
