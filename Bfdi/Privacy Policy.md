@@ -363,8 +363,7 @@ Sie sind hier:
 Datenschutzerklärung des BfDI
 =============================
 
-1. Kontakt
-----------
+### 1. Kontakt
 
 Der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit
 
@@ -383,15 +382,15 @@ Telefonnummer: 0228/997799-1950
 
 Mail-Adresse: [bdsb@bfdi.bund.de](mailto:bdsb@bfdi.bund.de "E-Mail an: bdsb@bfdi.bund.de")
 
-Zur verschlüsselten Kommunikation mit dem behördlichen Datenschutzbeauftragten (bDSB) können Sie von einem [Schlüsselserver](https://keys.openpgp.org/ "Externer Link Schlüsselserver (Öffnet neues Fenster)") den aktuellsten PGP\-Key des bDSB herunter laden. Zum Abgleich finden Sie hier den zugehörigen Fingerabdruck dieses öffentlichen Schlüssels: 49C5098DE61A09E0CBFCADABB87A54EEB514D617
+Zur verschlüsselten Kommunikation mit dem behördlichen Datenschutzbeauftragten (bDSB) können Sie von einem Schlüsselserver (z. B. [https://keys.openpgp.org](https://keys.openpgp.org/ "Externer Link Schlüsselserver (Öffnet neues Fenster)")) den aktuellsten PGP\-Key des bDSB herunter laden. Zum Abgleich finden Sie hier den zugehörigen Fingerabdruck dieses öffentlichen Schlüssels: 49C5098DE61A09E0CBFCADABB87A54EEB514D617
 
-2\. Einleitung und Zwecke der Verarbeitung
-------------------------------------------
+###   
+ 2. Einleitung und Zwecke der Verarbeitung
 
 Der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit (BfDI) verarbeitet bei der Wahrnehmung der ihm gesetzlich übertragenen Aufgaben personenbezogene Daten. Zu seinen öffentlichen Aufgaben gehören insbesondere die folgenden Teilbereiche:
 
-* Die Überwachung und Durchsetzung der Datenschutz-Grundverordnung (DSGVO) und des Bundesdatenschutzgesetzes (BDSG) bei Verantwortlichen, die seiner Aufsicht unterliegen, einschließlich der dazu notwendigen Kooperation mit Datenschutzbehörden der Länder und der Mitgliedstaaten der Europäischen Union (EU)
-* Die Kontrolle der Informationsfreiheit bei Verantwortlichen (insbesondere nach dem Informationsfreiheitsgesetz, IFG), die seiner Aufsicht unterliegen.
+* Die Überwachung und Durchsetzung der DSGVO und des BDSG bei Verantwortlichen, die seiner Aufsicht unterliegen, einschließlich der dazu notwendigen Kooperation mit Datenschutzbehörden der Länder und der Mitgliedstaaten der EU
+* Die Kontrolle der Informationsfreiheit bei Verantwortlichen, die seiner Aufsicht unterliegen.
 * Die Bereitstellung von Informationen über das Datenschutzrecht und die Informationsfreiheit an Dritte oder an die Öffentlichkeit
 * Die Bearbeitung von Beschwerden zu den Themen Datenschutz und Informationsfreiheit betroffener Personen über Verantwortliche und Auftragsverarbeiter, die seiner Aufsicht unterliegen
 
@@ -399,21 +398,19 @@ Der BfDI verarbeitet als zivilrechtliche Vertragspartei bzw. als öffentlich-rec
 
 Der BfDI verarbeitet auf der Grundlage von Einwilligungen personenbezogene Daten für besondere Dienstleistungen. Beispiele hierfür sind der allgemeine Newsletter sowie der Newsletter für die Presse.
 
-3\. Rechtsgrundlagen der Verarbeitung
--------------------------------------
+### 3\. Rechtsgrundlagen der Verarbeitung
 
 Für das Datenschutzrecht:
 
-Artikel 6 Absatz 1 Buchstaben a), b), e), DSGVO, in Verbindung mit Artikeln 57, 58 Absatz 1, Artikel 77 DSGVO, §§ 3, 14, 16, 60 und 61 BDSG
+Art. 6 Abs. 1 lit. a), b), e), DSGVO, i. V. m. mit Art. 57, 58 Abs. 1, 77 DSGVO, §§ 13, 16, 60 und 61 BDSG sowie § 3 BDSG
 
 Für das Informationsfreiheitsrecht:
 
-Artikel 6 Absatz 1 Buchstaben. a), b), e), DSGVO in Verbindung mit § 3 BDSG, § 12 IFG, §§ 21, 24, 25 und 26 BDSG (in der alten am 24. Mai 2018 geltenden Fassung)
+Art. 6 Abs. 1 lit. a), b), e), DSGVO i. V. m. § 12 IFG, §§ 21, 24, 25 und 26 BDSG\-alt
 
 Die betroffene Person hat jederzeit das Recht, eine erteilte Einwilligung, auf der eine Verarbeitung ihrer personenbezogenen Daten beruht, zu widerrufen, ohne dass die Rechtmäßigkeit der aufgrund der Einwilligung bis zum Widerruf erfolgten Bearbeitung berührt wird.
 
-4. Empfängerkategorien
-----------------------
+### 4. Empfängerkategorien
 
 Bei der Wahrnehmung seiner öffentlichen Aufgaben übermittelt der BfDI personenbezogene Daten an andere öffentliche Stellen des Bundes oder der Länder (insbesondere an die Aufsichtsbehörden der Länder) sowie an die Aufsichtsbehörden anderer Mitgliedstaaten der EU, Vertreter der Presse und Betroffene sowie an Auftragnehmer des BfDI. Dabei wird stets geprüft, ob eine Übermittlung in diesem Sinne erforderlich ist. Für die gesondert genannten Aufgabenfelder des BfDI ergeben sich in der Regel folgende Empfängerkreise:
 
@@ -452,100 +449,66 @@ g)     Versand von Newslettern
 
 Auftragnehmer des BfDI für die interne Verwaltungstätigkeit der Dienststelle
 
-5\. Speicherdauer
------------------
+### 5\. Speicherdauer
 
 Die Speicherung erfolgt im Einklang mit der Richtlinie für das Bearbeiten und Verwalten von Schriftgut in Bundesministerien, die gemäß der IT\-Richtlinie des BfDI verbindlichen Regelungsgehalt hat.
 
-6\. Betroffenenrechte
----------------------
+### 6\. Betroffenenrechte
 
 Sowohl im Rahmen der Erfüllung öffentlicher Aufgaben als auch als zivilrechtliche Vertragspartei ist der BfDI verantwortlich für die Verarbeitung von personenbezogenen Daten. Den Betroffenen stehen daher folgende Rechte aus der DSGVO zur Verfügung:
 
-a)    Recht auf Auskunft - Artikel 15 DSGVO
+a)    Recht auf Auskunft - Art. 15 DSGVO
 
 Mit dem Recht auf Auskunft erhält der Betroffene eine umfassende Einsicht in die ihn angehenden Daten und einige andere wichtige Kriterien, wie beispielsweise die Verarbeitungszwecke oder die Dauer der Speicherung. Es gelten die in § 34 BDSG geregelten Ausnahmen von diesem Recht.
 
-b)    Recht auf Berichtigung - Artikel 16 DSGVO
+b)    Recht auf Berichtigung - Art. 16 DSGVO
 
 Das Recht auf Berichtigung beinhaltet die Möglichkeit für den Betroffenen, unrichtige ihn angehende personenbezogene Daten korrigieren zu lassen.
 
-c)    Recht auf Löschung - Artikel 17 DSGVO
+c)    Recht auf Löschung - Art. 17 DSGVO
 
 Das Recht auf Löschung beinhaltet die Möglichkeit für den Betroffenen, Daten beim Verantwortlichen löschen zu lassen. Dies ist allerdings nur dann möglich, wenn die ihn angehenden personenbezogenen Daten nicht mehr notwendig sind, rechtswidrig verarbeitet werden oder eine diesbezügliche Einwilligung widerrufen wurde. Es gelten die in § 35 BDSG geregelten Ausnahmen von diesem Recht.
 
-d)    Recht auf Einschränkung der Verarbeitung - Artikel 18 DSGVO
+d)    Recht auf Einschränkung der Verarbeitung - Art. 18 DSGVO
 
 Das Recht auf Einschränkung der Verarbeitung beinhaltet die Möglichkeit für den Betroffenen, eine weitere Verarbeitung der ihn angehenden personenbezogenen Daten vorerst zu verhindern. Eine Einschränkung tritt vor allem in der Prüfungsphase anderer Rechtewahrnehmungen durch den Betroffenen ein.
 
-e)    Recht auf Datenübertragbarkeit - Artikel 20 DSGVO
+e)    Recht auf Datenübertragbarkeit - Art. 20 DSGVO
 
-Das Recht auf Datenübertragbarkeit beinhaltet die Möglichkeit für den Betroffenen, die ihn angehenden personenbezogenen Daten in einem gängigen, maschinenlesbaren Format vom Verantwortlichen zu erhalten, um sie ggf. an einen anderen Verantwortlichen weiterleiten zu lassen. Gemäß Artikel 20 Absatz 3 Satz 2 DSGVO steht dieses Recht aber dann nicht zur Verfügung, wenn die Datenverarbeitung der Wahrnehmung öffentlicher Aufgaben dient.
+Das Recht auf Datenübertragbarkeit beinhaltet die Möglichkeit für den Betroffenen, die ihn angehenden personenbezogenen Daten in einem gängigen, maschinenlesbaren Format vom Verantwortlichen zu erhalten, um sie ggf. an einen anderen Verantwortlichen weiterleiten zu lassen. Gemäß Art. 20 Abs. 3 Satz 2 DSGVO steht dieses Recht aber dann nicht zur Verfügung, wenn die Datenverarbeitung der Wahrnehmung öffentlicher Aufgaben dient.
 
-f)     Recht auf Widerspruch - Artikel 21 DSGVO
+**f)     Recht auf Widerspruch - Art. 21 DSGVO**
 
-Das Recht auf Widerspruch beinhaltet die Möglichkeit für Betroffene, in einer besonderen Situation der weiteren Verarbeitung ihrer personenbezogenen Daten zu widersprechen, soweit diese durch die Wahrnehmung öffentlicher Aufgaben oder öffentlicher sowie privater Interessen gerechtfertigt ist. Es gelten die in § 36 BDSG geregelten Ausnahmen von diesem Recht.
+**Das Recht auf Widerspruch beinhaltet die Möglichkeit für Betroffene, in einer besonderen Situation der weiteren Verarbeitung ihrer personenbezogenen Daten zu widersprechen, soweit diese durch die Wahrnehmung öffentlicher Aufgaben oder öffentlicher sowie privater Interessen gerechtfertigt ist. Es gelten die in § 36 BDSG geregelten Ausnahmen von diesem Recht.**
 
-7. Notwendigkeit der Datenverarbeitung
---------------------------------------
+### 7. Notwendigkeit der Datenverarbeitung
 
 Die Verarbeitung von personenbezogenen Daten durch den BfDI steht im unmittelbaren Zusammenhang mit der Wahrnehmung seiner öffentlichen Aufgaben.
 
-Insbesondere bei der Überwachung und Durchsetzung der DSGVO bei Verantwortlichen, die der Aufsicht durch den BfDI unterliegen, kann die Bereitstellung von personenbezogenen Daten aufgrund des Artikel 58 Absatz 1 Buchstabe. a) DSGVO gesetzlich notwendig sein. Im Falle der Nichtbereitstellung verfügt der BfDI über Abhilfebefugnisse gemäß Artikel 58 Absatz 2 DSGVO.
+Insbesondere bei der Überwachung und Durchsetzung der DSGVO bei Verantwortlichen, die der Aufsicht durch den BfDI unterliegen, kann die Bereitstellung von personenbezogenen Daten aufgrund des Art. 58 Abs. 1 lit. a) DSGVO gesetzlich notwendig sein. Im Falle der Nichtbereitstellung verfügt der BfDI über Abhilfebefugnisse gemäß Art. 58 Abs. 2 DSGVO.
 
-Bei der Kontrolle der Informationsfreiheit bei Verantwortlichen, die der Aufsicht durch den BfDI unterliegen, kann die Bereitstellung von personenbezogenen Daten aufgrund von § 12 Absatz 3 IFG in Verbindung mit § 24 Absatz 4 BDSG (alte Fassung) gesetzlich notwendig sein. Im Falle der Nichtbereitstellung verfügt der BfDI über ein Beanstandungsrecht gemäß § 25 BDSG (alte Fassung).
+Bei der Kontrolle der Informationsfreiheit bei Verantwortlichen, die der Aufsicht durch den BfDI unterliegen, kann die Bereitstellung von personenbezogenen Daten aufgrund von § 12 Abs. 3 IFG i. V. m--in Verbindung mit § 24 Abs. 4 BDSG\-alt gesetzlich notwendig sein. Im Falle der Nichtbereitstellung verfügt der BfDI über ein Beanstandungsrecht gemäß § 25 BDSG\-alt.
 
-8. Sonstige Informationen
--------------------------
+### 8. Sonstige Informationen
 
 Es besteht hinsichtlich der Datenverarbeitung des BfDI kein Beschwerderecht bei einer Aufsichtsbehörde. Eine automatisierte Entscheidungsfindung findet nicht statt.
 
-9. Homepage des BfDI
---------------------
+### 9. Homepage des BfDI
 
-### 9.1 Verarbeitung von Informationen im Rahmen der technischen Bereitstellung des Internet-Angebots des BfDI
-
-Die Infrastruktur des Internets erfordert den technischen Austausch von Informationen zwischen Ihrem Endgerät (z.B. Computer, Tablet oder Mobiltelefon) und sog. Servern, insbesondere Servern, die die Webseiten zum Abruf bereitstellen. Dies ist erforderlich, um eine Kommunikation zwischen Ihrem Endgerät und der Webseite herzustellen. Dabei werden für die technische Abwicklung folgende Daten verarbeitet:
-
-* Datum und Uhrzeit des Abrufs
-* IP\-Adresse
-* Anfragedetails und Zieladresse
-* Name der abgerufenen Datei
-* übertragene Datenmenge
-* Meldung, ob der Zugriff / Abruf erfolgreich war
-
-Bei jedem Zugriff von Nutzenden auf das Internet-Angebot des BfDI und bei jedem Abruf einer Datei werden zudem Daten über diesen Vorgang vorübergehend in einer Protokolldatei gespeichert und verarbeitet. Die Protokolldatei wird für einen Zeitraum von 30 Tagen vorgehalten.
+Bei jedem Zugriff eines Nutzers auf das Internet-Angebot des BfDI und bei jedem Abruf einer Datei werden Daten über diesen Vorgang vorübergehend in einer Protokolldatei gespeichert und verarbeitet. Vor der Speicherung wird jeder Datensatz durch Veränderung der IP\-Adresse anonymisiert.
 
 Im Einzelnen werden über jeden Zugriff/Abruf folgende Daten gespeichert:
 
-Datum und Uhrzeit des Abrufs,  
-Anfragedetails und Zieladresse,  
-Name der abgerufenen Datei,  
-übertragene Datenmenge,  
-Meldung, ob der Zugriff / Abruf erfolgreich war.  
-Die Protokolldaten werden für einen ordnungsgemäßen Betrieb der Webseiten, das heißt zum Erkennen, Eingrenzen oder Beseitigen von Störungen oder Fehlern verarbeitet.
+* anonymisierte IP\-Adresse,
+* verwendetes Betriebssystem,
+* verwendetes Gerät,
+* Herkunftsland des Zugriffs
+* Datum und Uhrzeit,
+* aufgerufene Seite / Name der abgerufenen Datei,
+* übertragene Datenmenge,
+* Meldung, ob der Zugriff / Abruf erfolgreich war.
 
-Diese Verarbeitungen zur technischen Kommunikation und der Protokolldaten erfolgt auf Grundlage des Artikels 6 Abs. 1 1. Unterabsatz Buchstabe e) DSGVO in Verbindung mit Artikel 57 DSGVO, §§ 3, 14 BDSG.
-
-Darüber hinaus werden die Protokolldaten zur technischen Sicherheit, insbesondere zum Schutz vor und zur Abwehr von Cyberangriffen verarbeitet. Dies erfolgt auf Grundlage des Artikel 6 Absatz 1 Buchstabe e DSGVO in Verbindung mit § 5 BSI\-Gesetz.
-
-Beim Aufruf unserer Webseiten werden zudem vorübergehende Cookies (sog. Session-Cookies) zur technischen Diensteerbringung verwendet. Cookies sind kleine Textdateien, die im Endgerät von Nutzenden bei Aufruf der Webseite gespeichert werden. Sie enthalten eine sog. Session-ID, das heißt eine Identifikationskennung, die für jedes Endgerät für die jeweilige Sitzung einzigartig ist. Sie helfen dabei die verschiedenen Endgeräte, welche die Webseite aufrufen, auseinanderzuhalten. Diese Identifikationskennung wird während der Session ausgelesen, um die Endgeräte zu unterscheiden. Diese Session-Cookies verfallen nach Ablauf der Sitzung, das heißt sie werden regelmäßig von ihrem Endgerät automatisch gelöscht, sobald Sie Ihren Internet-Browser schließen.
-
-Auf unseren Webseiten werden zwei solcher Cookies verwendet: Das Cookie mit der Bezeichnung „JSESSIONID“ wird verwendet, um Nutzende innerhalb einer Session wiederzuerkennen. Dies stellt die Nutzbarkeit der Formulare und des Warenkorbs sicher.
-
-Zuletzt verwenden wir ein Cookie mit der Bezeichnung „AL-SESS-S“ bzw. „AL\_LB“. Dieses Cookie benötigen wir zur sogenannten Lastverteilung („Load balancing“): Es soll eine konkrete Anfrage (also Aufruf einer Webseite) durch eine Endeinrichtung einem konkreten Server zuordnen. Hierdurch können die Anfragen auf unsere Server so verteilt werden, dass diese nicht überlastet werden.
-
-Der Einsatz dieser Cookies ist nach § 25 Absatz 2 TTDSG technisch notwendig.
-
-Techniken, wie zum Beispiel Java-Applets oder Active-X\-Controls, die es ermöglichen, das Zugriffsverhalten der Nutzer nachzuvollziehen, werden nicht eingesetzt.
-
-Bei den Verarbeitungen Im Rahmen der technischen Bereitstellung des Internet-Angebots werden wird durch den Dienstleister Informationstechnikzentrum Bund (ITZBund) unterstützt.
-
-### 9.2 Kontaktformular
-
-Das Kontaktformular dient der Möglichkeit zur allgemeinen Kontaktaufnahme. In diesem Rahmen werden Identitäts- und Kontaktdaten sowie das Thema und der Inhalt der Nachricht an uns erhoben und intern an die fachlich zuständige Organisationseinheit weitergeleitet. Die Zwecke, Rechtsgrundlagen, Empfänger und Speicherdauer richten sich nach den für die Fachaufgaben maßgeblichen Fristen (s.o.). Kommunikation ohne Aktenrelevanz wird nicht veraktet und nach Abschluss der Korrespondenz gelöscht. Im Falle der Aktenrelevanz werden allgemeine Anfragen für die Dauer von fünf Jahren nach Abschluss aufbewahrt, im Falle von Verwaltungsverfahren (z.B. wenn die Anfrage zu einem aufsichtsbehördlichen Verfahren führt) für die Dauer von zehn Jahren. Im Falle von historisch wertvollen Sachverhalten erfolgt ausnahmsweise eine Abgabe zur darüberhinausgehenden Aufbewahrung an das Bundesarchiv (s.o.).
-
-### 9.3 Links auf Internetseiten anderer Anbieter/-innen
+Beim Aufruf einzelner Seiten werden so genannte temporäre Cookies zur technischen Diensteerbringung verwendet. Diese Session Cookies beinhalten keine personenbezogenen Daten und verfallen nach Ablauf der Sitzung. Techniken, wie zum Beispiel Java-Applets oder Active-X\-Controls, die es ermöglichen, das Zugriffsverhalten der Nutzer nachzuvollziehen, werden nicht eingesetzt.
 
 Unser Online-Angebot enthält Links zu Internetseiten anderer Anbieter/-innen. Der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit hat keinen Einfluss darauf, dass diese Anbieter/-innen die gesetzlichen Datenschutzbestimmungen einhalten. Sie sollten daher stets die Datenschutzerklärung der anderen Anbieter/-innen prüfen.
 
