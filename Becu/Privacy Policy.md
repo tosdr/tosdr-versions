@@ -55,10 +55,6 @@ Top Asked Questions
 * [Support](https://becu.org/support/top-questions)
 * [Refer a Friend](https://share.becu.org/mobile_utility)
 
-![Warning Alert](/-/media/Images/icons/alert-component/Icon_Warning.svg?h=32&w=32&rev=ee34ff900066430f9cc67895db083aa1&hash=01A4C94884861770C9829271E75E4517)
-
-Be aware: If someone has asked you to open an account for them, it’s most likely a scam. [Learn more.](https://www.becu.org/security/social-engineering-scams)
-
 Fraud & Security Center
 =======================
 
@@ -167,7 +163,7 @@ Follow BECU
 
 * [![BECU's Facebook page](/-/media/Images/icons/footer/social-media/Icon_Facebook.svg?h=45&w=45&rev=1aa643bb35e74b4fa64e7d32e1cf1841&hash=DC33455B43A45C5E54494C78FF0E0045)](https://www.facebook.com/becu "BECU's Facebook page")
 * [![BECU's Instagram page](/-/media/Images/icons/footer/social-media/Icon_Instagram.svg?h=45&w=45&rev=1d13bd854247493cbb366e427873385e&hash=D7026C37EFEF34E34760B08B9B0F2C05)](https://www.instagram.com/becu/ "BECU's Instagram page")
-* [![BECU's Twitter feed](/-/media/Images/icons/footer/social-media/Icon_Twitter.svg?h=45&w=45&rev=7adb29408a754f4eb7b61b19fadfff00&hash=D3797BE1BAE9E00BADEB484E586AEA2F)](https://www.twitter.com/becu "BECU's Twitter feed")
+* [![BECU's Twitter feed](/-/media/Images/icons/footer/social-media/Icon_Twitter.svg?h=45&w=45&rev=9c35b6871a214de29de727107607d9c0&hash=7A9950FCC8551D2CBFF0EB65E452EE95)](https://www.twitter.com/becu "BECU's Twitter feed")
 * [![BECU's Pinterest page](/-/media/Images/icons/footer/social-media/Icon_Pinterest.svg?rev=351c005cc53d4eda8a6cca32e7adb506&hash=21B10197A62A8830AE1C4FDD1F7E27FD)](https://www.pinterest.com/becu/ "BECU's Pinterest page")
 * [![BECU's LinkedIn page](/-/media/Images/icons/footer/social-media/Icon_LinkedIn.svg?h=45&w=45&rev=687b504b507146b982158945893e5d60&hash=817A678CD47CEEC68C8E10F1A11B89C4)](https://www.linkedin.com/company/becu "BECU's LinkedIn page")
 * [![BECU's YouTube page](/-/media/Images/icons/footer/social-media/Icon_YouTube.svg?h=45&w=45&rev=062c27abb6ea42c5b5479f12bbd620ae&hash=B4C4C5D46419F08DA0A3F8A87D21811D)](https://www.youtube.com/user/BECUVideo "BECU's YouTube page")
