@@ -1,11 +1,11 @@
-[![BillGO Logo](https://billgo.com/hubfs/raw_assets/public/Billgo_January2023/images/Logo_Deep-Flat_Full_White.svg "BillGO Logo")](https://billgo.com/?hsLang=en)
+[![](https://billgo.com/hubfs/raw_assets/public/Billgo_January2023/images/Logo_Deep-Flat_Full_White.svg)](https://billgo.com/?hsLang=en)
 
-[![BillGO Logo](https://billgo.com/hubfs/raw_assets/public/Billgo_January2023/images/Logo_Deep_Full.svg "BillGO Logo")](https://billgo.com/?hsLang=en)
+[![](https://billgo.com/hubfs/raw_assets/public/Billgo_January2023/images/Logo_Deep_Full.svg)](https://billgo.com/?hsLang=en)
 
 [](javascript:void();)
 
-* [Bill Pay](https://billgo.com/billpay)
-* [BillGO Exchange](https://billgo.com/billgoexchange)
+* [Banks & Fintechs](https://billgo.com/bankers-and-fintechs)
+* [Billers](https://billgo.com/billers)
 
 * [](javascript:;)
     * [About Us](https://billgo.com/about-us)
@@ -14,9 +14,9 @@
 * [](javascript:;)
     * [Join Us](https://billgo.com/join-us)
     * [Contact](https://billgo.com/contact)
+    * [Bill Pay Hub](https://billgo.com/billgo-resource-center)
 
-BillGO, Inc. Legal Notice
-=========================
+##### BillGO, Inc. Legal Notice
 
 #### BillGO Website Terms of Service
 
@@ -199,9 +199,10 @@ Call: (360) 902-8703 or 1-877-RING DFI (1-877-746-4334).
 Email us: CSEnforceComplaints@dfi.wa.gov.
 
 * [](javascript:;)
-    * [BillGO Resource Center](https://billgo.com/billgo-resource-center)
+    * [Bill Pay Hub](https://billgo.com/billgo-resource-center)
     * [Blog](https://billgo.com/blog)
     * [Press](https://billgo.com/press-kit)
+    * [Bill Pay Relief Hub](https://billgo.com/blog/billgos-bill-pay-relief-hub-earns-top-honors)
     * [About Us](https://billgo.com/about-us)
     * [Join Us](https://billgo.com/join-us)
 * [](javascript:;)
@@ -211,13 +212,14 @@ Email us: CSEnforceComplaints@dfi.wa.gov.
     * [Licenses](https://billgo.com/licenses)
     * [Copyright Policy](https://billgo.com/copyright-policy)
 
-* [Bill Pay](https://billgo.com/billpay)
-* [BillGO Exchange](https://billgo.com/billgoexchange)
+* [Banks & Fintechs](https://billgo.com/bankers-and-fintechs)
+* [Billers](https://billgo.com/billers)
 
 * [](javascript:;)
-    * [BillGO Resource Center](https://billgo.com/billgo-resource-center)
+    * [Bill Pay Hub](https://billgo.com/billgo-resource-center)
     * [Blog](https://billgo.com/blog)
     * [Press](https://billgo.com/press-kit)
+    * [Bill Pay Relief Hub](https://billgo.com/blog/billgos-bill-pay-relief-hub-earns-top-honors)
     * [About Us](https://billgo.com/about-us)
     * [Join Us](https://billgo.com/join-us)
 * [](javascript:;)
