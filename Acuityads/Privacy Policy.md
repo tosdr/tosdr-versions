@@ -1,6 +1,6 @@
-Partner Webinar: The cookieless marketing future with SVP Tony Vlismas - June 11
+Power your ad campaigns with first-party email audiences
 
-[Register](https://www.rockerbox.com/webinars?utm_medium=referral&utm_source=partner&utm_campaign=illumin)
+[Find out more](https://go.illumin.com/illumin-email-audiences)
 
 [![logo](https://illumin.com/wp-content/themes/illumin/images/logo.svg)](https://illumin.com/)
 
@@ -29,9 +29,9 @@ Partner Webinar: The cookieless marketing future with SVP Tony Vlismas - June 11
         * [Guides](https://illumin.com/insights/guides/)
         * [Events](https://illumin.com/insights/events/)
         * [Podcasts & Webinars](https://illumin.com/insights/podcasts-webinars/)
-    * ![First-party data is crucial to success in a cookieless world](https://illumin.com/wp-content/uploads/2024/06/first-party-data-1-263x300.jpg)
+    * ![Best ads of March Madness 2024](https://illumin.com/wp-content/uploads/2024/04/march-madness-2024-263x300.jpg)
         
-        First-party data is crucial to success in a cookieless world[Read More](https://illumin.com/insights/blog/first-party-data-is-crucial-to-success/)
+        Best ads of March Madness 2024[Read More](https://illumin.com/insights/blog/best-ads-of-march-madness-2024/)
         
 * [Company](#)
     * [Company](#)
@@ -51,13 +51,13 @@ Partner Webinar: The cookieless marketing future with SVP Tony Vlismas - June 11
         * [Investor Information](https://illumin.com/investor-information/)
         * [Stock Performance](https://illumin.com/stock-performance/)
         * [News & Press](https://illumin.com/news-press/)
-    * ![illumin Holdings Inc. Announces Upgrade to the OTCQB in the United States](https://illumin.com/wp-content/uploads/2023/07/Whats-new-with-illumin-263x300.jpg)
+    * ![illumin Holdings Inc. announces date for First Quarter 2024 Financial and Operating Results](https://illumin.com/wp-content/uploads/2023/07/Whats-new-with-illumin-263x300.jpg)
         
-        illumin Holdings Inc. Announces Upgrade to the OTCQB in the United States[Read More](https://illumin.com/news-press/illumin-announces-upgrade-to-otcqb-in-us/)
+        illumin Holdings Inc. announces date for First Quarter 2024 Financial and Operating Results[Read More](https://illumin.com/news-press/illumin-announces-date-q1-2024-financial-results/)
         
 * [Request a Demo](https://illumin.com/product/request-a-demo/)
 
-[Sign In](https://illumin.acuityads.com/) [Sign In](https://illumin.acuityads.com/)
+[Sign In](https://illumin.acuityads.com/login/) [Sign In](https://illumin.acuityads.com/login/)
 
  ![illumin](https://illumin.com/wp-content/uploads/2023/03/case-study-banner-mobile@2x.png)
 
@@ -212,7 +212,7 @@ A platform that provides the perfect space for journey planning, execution, and 
 * [Technology Policy](https://illumin.com/legal/technology/)
 * [Data Subject Access Request](https://illumin.com/legal/subject-access-request/)
 * [Privacy Policy](https://illumin.com/legal/privacy/)
-* [Opt Out/Do Not Sell or Share My Info](https://illumin.com/opt-out.html)
+* [Opt Out/Do Not Sell or Share My Info](https://privacy.acuityads.com/opt-out.html)
 
 ![](https://www.facebook.com/tr?id=791746128738564&ev=PageView&noscript=1&cd%5Bpage_title%5D=Corporate+Privacy+Policy&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=1652&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=illumin.com%2Flegal%2Fcorporate%2F)
 
