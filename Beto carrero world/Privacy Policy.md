@@ -31,7 +31,7 @@ Central de Vendas
 *  [![Passaporte](/images/icon-5.svg) Passaporte](https://www.betocarrero.com.br/passaportes "Passaporte")
     
     * [Passaporte 1 Dia](https://www.betocarrero.com.br/passaportes)
-    * [Passaporte 2 Dias](https://www.betocarrero.com.br/passaportes/02-dias/233698/?dataSelecionada=2024-05-23)
+    * [Passaporte 2 Dias](https://www.betocarrero.com.br/passaportes/02-dias/233698/?dataSelecionada=2024-04-25)
     * [Passaporte Anual](https://www.betocarrero.com.br/promocoes/novo-passaporte-anual)
     * [Premium Tour](https://www.betocarrero.com.br/premiumtour)
     * [Grupos](https://www.betocarrero.com.br/grupos)
@@ -42,65 +42,50 @@ Central de Vendas
     
 *  [![Opcionais](/images/icon-11.svg) Opcionais](https://www.betocarrero.com.br/opcionais "Opcionais")
     
-    * [Single Pass](#)
-        [](#)* [](#)[Spin Blast](https://www.betocarrero.com.br/opcionais/single-pass-01-acesso-spin-blast-01-pessoa/239983/?dataSelecionada=2024-05-23)
-        * [Super Soaker Splash](https://www.betocarrero.com.br/opcionais/single-pass-01-acesso-super-soaker-splash-01-pessoa/239981/?dataSelecionada=2024-05-23)
-        * [Rebuliço](https://www.betocarrero.com.br/opcionais/single-pass-01-acesso-rebulio-01-pessoa/239984/?dataSelecionada=2024-05-23)
-        * [Crazy River](https://www.betocarrero.com.br/opcionais/single-pass-01-acesso-crazy-river-01-pessoa/239991/?dataSelecionada=2024-05-23)
-        * [Fire Whip](https://www.betocarrero.com.br/opcionais/single-pass-01-acesso-firewhipe-01-pessoa/239988/?dataSelecionada=2024-05-23)
-        * [Big Tower](https://www.betocarrero.com.br/opcionais/single-pass-01-acesso-big-tower-01-pessoa/239992/?dataSelecionada=2024-05-23)
-        * [Trem Dinomagic](https://www.betocarrero.com.br/opcionais/single-pass-01-acesso-dinomagic-altura-livre-01-pessoa/239990/?dataSelecionada=2024-05-23)
-        * [Tigor Mountain](https://www.betocarrero.com.br/opcionais/single-pass-01acesso/239979/?dataSelecionada=2024-05-23)
-        * [Raskapuska](https://www.betocarrero.com.br/opcionais/single-pass-01-acesso-raskapuska-01-pessoa/239987/?dataSelecionada=2024-05-23)
-        * [Dum Dum](https://www.betocarrero.com.br/opcionais/single-pass-01-acesso-dum-dum-01-pessoa/239989/?dataSelecionada=2024-05-23)
-        * [Barco Pirata](https://www.betocarrero.com.br/opcionais/single-pass-01-acesso-barco-pirata-01-pessoa/239994/?dataSelecionada=2024-05-23)
-        * [Autopista](https://www.betocarrero.com.br/opcionais/single-pass-01-acesso-autopista-01-pessoa/239996/?dataSelecionada=2024-05-23)
-        * [Star Mountain](https://www.betocarrero.com.br/opcionais/single-pass-01-acesso-star-mountain-01-pessoa/239942/?dataSelecionada=2024-05-30)
     * [Fast Pass](#)
-        [](#)* [](#)[Adrenaline Pass](https://www.betocarrero.com.br/opcionais/adrealine-pass-04-acessos/241052/?dataSelecionada=2024-05-23)
-        * [Adventure Pass](https://www.betocarrero.com.br/opcionais/adventure-pass-04-acessos/29557/?dataSelecionada=2024-05-23)
-        * [Family Pass](https://www.betocarrero.com.br/opcionais/family-pass-04-acessos/29564/?dataSelecionada=2024-05-23)
+        [](#)* [](#)[Fast Pass](https://www.betocarrero.com.br/opcionais/fast-pass-06-acessos/29543/?dataSelecionada=2024-04-25)
+        * [Adrenaline Pass](https://www.betocarrero.com.br/opcionais/adrealine-pass-04-acessos/29550/?dataSelecionada=2024-04-25)
+        * [Adventure Pass](https://www.betocarrero.com.br/opcionais/adventure-pass-04-acessos/29557/?dataSelecionada=2024-04-25)
+        * [Family Pass](https://www.betocarrero.com.br/opcionais/family-pass-04-acessos/29564/?dataSelecionada=2024-04-25)
     * [Área Vip](#)
-        [](#)* [](#)[Hot Wheels](https://www.betocarrero.com.br/opcionais/area-vip-hot-wheels/25466/?dataSelecionada=2024-05-23)
-        * [Madagascar Circus](https://www.betocarrero.com.br/opcionais/area-vip-madagascar/25467/?dataSelecionada=2024-05-23)
-        * [Acqua](https://www.betocarrero.com.br/opcionais/area-vip-acqua/25468/?dataSelecionada=2024-05-23)
-        * [O Sonho do Cowboy](https://www.betocarrero.com.br/opcionais/area-vip-sonho-do-cowboy/25469/?dataSelecionada=2024-05-23)
+        [](#)* [](#)[Hot Wheels](https://www.betocarrero.com.br/opcionais/area-vip-hot-wheels/25466/?dataSelecionada=2024-04-25)
+        * [Madagascar Circus](https://www.betocarrero.com.br/opcionais/area-vip-madagascar/25467/?dataSelecionada=2024-04-25)
+        * [Acqua](https://www.betocarrero.com.br/opcionais/area-vip-acqua/25468/?dataSelecionada=2024-04-25)
+        * [O Sonho do Cowboy](https://www.betocarrero.com.br/opcionais/area-vip-sonho-do-cowboy/25469/?dataSelecionada=2024-04-25)
     * [Estacionamento](#)
-        [](#)* [](#)[Carro](https://www.betocarrero.com.br/opcionais/estacionamento-carro/30297/?dataSelecionada=2024-05-23)
-        * [Carro Vip](https://www.betocarrero.com.br/opcionais/estacionamento-carro-vip/30295/?dataSelecionada=2024-05-23)
+        [](#)* [](#)[Carro](https://www.betocarrero.com.br/opcionais/estacionamento-carro/30297/?dataSelecionada=2024-04-25)
+        * [Carro Vip](https://www.betocarrero.com.br/opcionais/estacionamento-carro-vip/30295/?dataSelecionada=2024-04-25)
     * [Infantil](#)
-        [](#)* [](#)[Acqua Boat](https://www.betocarrero.com.br/opcionais/acqua-boat/25234/?dataSelecionada=2024-05-23)
-        * [Adventure Kids](https://www.betocarrero.com.br/opcionais/adventure-kids/25232/?dataSelecionada=2024-05-23)
-        * [Extreme Kids](https://www.betocarrero.com.br/opcionais/hotwheels-extreme-kids-passeio/25233/?dataSelecionada=2024-05-23)
+        [](#)* [](#)[Acqua Boat](https://www.betocarrero.com.br/opcionais/acqua-boat/25234/?dataSelecionada=2024-04-25)
+        * [Adventure Kids](https://www.betocarrero.com.br/opcionais/adventure-kids/25232/?dataSelecionada=2024-04-25)
+        * [Extreme Kids](https://www.betocarrero.com.br/opcionais/hotwheels-extreme-kids-passeio/25233/?dataSelecionada=2024-04-25)
     * [Shows](#)
-        [](#)* [](#)[Excalibur](https://www.betocarrero.com.br/opcionais/excalibur-12h/296611/?dataSelecionada=2024-05-23)
-        * [Portal da Escuridão](https://www.betocarrero.com.br/opcionais/portal-da-escuridao/23642/?dataSelecionada=2024-05-23)
-        * [Maquiagem do Terror](https://www.betocarrero.com.br/opcionais/maquiagem-do-terror/25089/?dataSelecionada=2024-05-23)
+        [](#)* [](#)[Excalibur](https://www.betocarrero.com.br/opcionais/excalibur-12h/296611/?dataSelecionada=2024-04-25)
+        * [Portal da Escuridão](https://www.betocarrero.com.br/opcionais/portal-da-escuridao/23642/?dataSelecionada=2024-04-25)
+        * [Maquiagem do Terror](https://www.betocarrero.com.br/opcionais/maquiagem-do-terror/25089/?dataSelecionada=2024-04-25)
     
     
-    -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
 *  [![Alimentação](/images/icon-5.svg) Alimentação](https://www.betocarrero.com.br/alimentacao "Alimentação")
     
     * [Restaurantes](https://www.betocarrero.com.br/restaurantes)
-    * [Reserva de Mesas](#)
-        [](#)* [](#)[Deck Hot Wheels](https://www.betocarrero.com.br/epic-show-deck)
-        * [Casa de Massas](https://www.betocarrero.com.br/agendamento-restaurante)
+    * [Reserva de mesa](https://www.betocarrero.com.br/agendamento-restaurante)
     * [Lanches](https://www.betocarrero.com.br/alimentacao)
-        [](https://www.betocarrero.com.br/alimentacao)* [](https://www.betocarrero.com.br/alimentacao)[X - Bacon Duplo](https://www.betocarrero.com.br/alimentacao/combo-2-1-x-bacon-duplo-1-refrigerante-1-batata-frita/237560/?dataSelecionada=2024-05-23)
-        * [X - Burguer Duplo](https://www.betocarrero.com.br/alimentacao/combo-2-1-x-burguer-duplo-1-refrigerante-1-batata-frita/237561/?dataSelecionada=2024-05-23)
-        * [X - Bacon](https://www.betocarrero.com.br/alimentacao/combo-3-1-x-bacon-1-refri-lata-1-batata-frita-mini/237566/?dataSelecionada=2024-05-23)
-        * [X - Burguer](https://www.betocarrero.com.br/alimentacao/combo-4-1-x-burguer-1-refri-lata-1-batata-frita-mini/237562/?dataSelecionada=2024-05-23)
-        * [Batata Frita](https://www.betocarrero.com.br/alimentacao/porcao-batata-frita-bacon-cheddar/229775/?dataSelecionada=2024-05-23)
+        [](https://www.betocarrero.com.br/alimentacao)* [](https://www.betocarrero.com.br/alimentacao)[X - Bacon Duplo](https://www.betocarrero.com.br/alimentacao/combo-2-1-x-bacon-duplo-1-refrigerante-1-batata-frita/237560/?dataSelecionada=2024-04-25)
+        * [X - Burguer Duplo](https://www.betocarrero.com.br/alimentacao/combo-2-1-x-burguer-duplo-1-refrigerante-1-batata-frita/237561/?dataSelecionada=2024-04-25)
+        * [X - Bacon](https://www.betocarrero.com.br/alimentacao/combo-3-1-x-bacon-1-refri-lata-1-batata-frita-mini/237566/?dataSelecionada=2024-04-25)
+        * [X - Burguer](https://www.betocarrero.com.br/alimentacao/combo-4-1-x-burguer-1-refri-lata-1-batata-frita-mini/237562/?dataSelecionada=2024-04-25)
+        * [Batata Frita](https://www.betocarrero.com.br/alimentacao/porcao-batata-frita-bacon-cheddar/229775/?dataSelecionada=2024-04-25)
     * [Pratos](https://www.betocarrero.com.br/alimentacao)
-        [](https://www.betocarrero.com.br/alimentacao)* [](https://www.betocarrero.com.br/alimentacao)[Fettuccine](https://www.betocarrero.com.br/alimentacao/fettuccine-ao-moho-alfredo-e-escalope-de-mignon/229778/?dataSelecionada=2024-05-23)
-        * [Penne](https://www.betocarrero.com.br/alimentacao/penne-a-matriciana-/237565/?dataSelecionada=2024-05-21)
-        * [Spaghetti Bolonhesa](https://www.betocarrero.com.br/alimentacao/spaghetti-a-bolonhesa/237564/?dataSelecionada=2024-05-21)
-        * [Spaghetti Carbonara](https://www.betocarrero.com.br/alimentacao/spaghetti-a-carbonara/237563/?dataSelecionada=2024-05-23)
-        * [Massa Kids](https://www.betocarrero.com.br/alimentacao/massa-kids-com-file-mignon/229779/?dataSelecionada=2024-05-23)
+        [](https://www.betocarrero.com.br/alimentacao)* [](https://www.betocarrero.com.br/alimentacao)[Fettuccine](https://www.betocarrero.com.br/alimentacao/fettuccine-ao-moho-alfredo-e-escalope-de-mignon/229778/?dataSelecionada=2024-04-25)
+        * [Penne](https://www.betocarrero.com.br/alimentacao/penne-a-matriciana-/237565/?dataSelecionada=2024-04-23)
+        * [Spaghetti Bolonhesa](https://www.betocarrero.com.br/alimentacao/spaghetti-a-bolonhesa/237564/?dataSelecionada=2024-04-23)
+        * [Spaghetti Carbonara](https://www.betocarrero.com.br/alimentacao/spaghetti-a-carbonara/237563/?dataSelecionada=2024-04-25)
+        * [Massa Kids](https://www.betocarrero.com.br/alimentacao/massa-kids-com-file-mignon/229779/?dataSelecionada=2024-04-25)
     
     
-    -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
 *  [![Hospedagem](/images/icon-5.svg) Hospedagem](https://www.betocarrero.com.br/hoteis "Hospedagem")
     ---------------------------------------------------------------------------------------------------
@@ -108,14 +93,14 @@ Central de Vendas
 *  [![Combos](/images/icon-5.svg) Combos](https://www.betocarrero.com.br/combos "Combos")
     
     * [Parceiros](#)
-        [](#)* [](#)[Parque Unipraias](https://www.betocarrero.com.br/combos/unipraias-adulto/27379/?dataSelecionada=2024-05-21)
-        * [Oceanic Aquarium](https://www.betocarrero.com.br/combos/passaporte-beto-carrero-01-dia-01-combo-passaporte-da-diversao-oceanic-04-atracoes/c29949/?dataSelecionada=2024-05-21)
-        * [FG Big Wheel](https://www.betocarrero.com.br/combos/passaporte-beto-carrero-01-dia-01-passaporte-roda-gigante-big-wheel-de-05-a-12-anos/2925601/?dataSelecionada=2024-08-11)
-        * [Escuna Pirata](https://www.betocarrero.com.br/combos/passaporte-beto-carrero-01-dia-01-passeio-escuna-pirata-16h00/240469/?dataSelecionada=2024-05-24)
-        * [Parque Terra Atlântica](https://www.betocarrero.com.br/combos/passaporte-beto-carrero-01-dia-01-passaporte-parque-terra-atlantica-a-partir-de-03-anos/27900/?dataSelecionada=2024-05-23)
+        [](#)* [](#)[Parque Unipraias](https://www.betocarrero.com.br/combos/unipraias-adulto/27379/?dataSelecionada=2024-04-23)
+        * [Oceanic Aquarium](https://www.betocarrero.com.br/combos/passaporte-beto-carrero-01-dia-01-passaporte-oceanic-aquarium-de-13-a-59-anos/299462/?dataSelecionada=2024-04-23)
+        * [FG Big Wheel](https://www.betocarrero.com.br/combos/passaporte-beto-carrero-01-dia-01-passaporte-roda-gigante-big-wheel-de-05-a-12-anos/2525752/?dataSelecionada=2024-04-25)
+        * [Escuna Pirata](https://www.betocarrero.com.br/combos/passaporte-beto-carrero-01-dia-01-passeio-escuna-pirata-14h30/290467/?dataSelecionada=2024-04-26)
+        * [Parque Terra Atlântica](https://www.betocarrero.com.br/combos/passaporte-beto-carrero-01-dia-01-passaporte-parque-terra-atlantica-a-partir-de-03-anos/27888/?dataSelecionada=2024-04-25)
     
     
-    --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
 * [COMPRAR AGORA](https://www.betocarrero.com.br/passaportes)
     -----------------------------------------------------------
@@ -308,8 +293,6 @@ Qualquer dúvida poderá ser encaminhada para o e-mail [hip.suporte.online@betoc
 [Vantagens](https://www.betocarrero.com.br/vantagem "Vantagens")
 
 [Mapa](https://www.betocarrero.com.br/mapa-do-parque "Mapa")
-
-[No Ritmo de Trolls](https://www.betocarrero.com.br/no-ritmo-de-trolls "No Ritmo de Trolls")
 
 [Nerf Mania](https://www.betocarrero.com.br/nerfmania "Nerf Mania")
 
