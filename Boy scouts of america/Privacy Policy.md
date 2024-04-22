@@ -203,7 +203,7 @@ If you have questions about this Donor Privacy Policy or if you wish to be remov
 
 ![youtube](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2040%2040%22%3E%3C/svg%3E)](https://www.youtube.com/c/BoyScoutsofAmericavideos)
 
-![BSA Logo](https://www.scouting.org/wp-content/uploads/2021/08/BSALogo.png)
+![BSA Logo](https://sp-ao.shortpixel.ai/client/to_webp,q_lossless,ret_img,w_98,h_112/https://www.scouting.org/wp-content/uploads/2021/08/BSALogo.png)
 
 ![BSA Logo](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2098%20112%22%3E%3C/svg%3E)
 
@@ -222,15 +222,7 @@ Registered 501(c)(3). EIN: 22-1576300
 
 [scoutshop](https://www.scoutshop.org/)
 
-May 7, 2024
-
-The Boy Scouts of America will rebrand to **Scouting America**, reflecting the organization’s ongoing commitment to welcome every youth and family in America to experience the benefits of Scouting.
-
-The change will go into effect on February 8, 2025.
-
-[Learn More](https://www.scoutingnewsroom.org/press-releases/boy-scouts-of-america-to-become-scouting-america)
-
-![](https://www.scouting.org/wp-content/uploads/2023/10/Bray-Barnes.jpg)
+![](https://sp-ao.shortpixel.ai/client/to_webp,q_lossless,ret_img,w_440,h_417/https://www.scouting.org/wp-content/uploads/2023/10/Bray-Barnes.jpg)
 
 ![](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20440%20417%22%3E%3C/svg%3E)
 
@@ -251,7 +243,7 @@ national laboratory directors. He has also served as a senior executive for the
 U.S. Department of Homeland Security, leading the first-responder program  
 and has two U.S. presidential appointments
 
-![](https://www.scouting.org/wp-content/uploads/2023/10/David-Alexander.jpg)
+![](https://sp-ao.shortpixel.ai/client/to_webp,q_lossless,ret_img,w_451,h_436/https://www.scouting.org/wp-content/uploads/2023/10/David-Alexander.jpg)
 
 ![](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20451%20436%22%3E%3C/svg%3E)
 
@@ -262,7 +254,7 @@ Managing Member Calje
 
 David Alexander is a Baden-Powell Fellow, Summit Bechtel Reserve philanthropist, and recipient of the Silver Buffalo and Distinguished Eagle Scout Award. He is the founder of Caljet, one of the largest independent motor fuels terminals in the U.S. He has served the Arizona Petroleum Marketers Association, Teen Lifeline, and American Heart Association. A triathlete who has completed hundreds of races, Alexander has also mentored the women’s triathlon team at Arizona State University.
 
-![](https://www.scouting.org/wp-content/uploads/2023/10/Glenn-Adams.jpg)
+![](https://sp-ao.shortpixel.ai/client/to_webp,q_lossless,ret_img,w_301,h_290/https://www.scouting.org/wp-content/uploads/2023/10/Glenn-Adams.jpg)
 
 ![](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20301%20290%22%3E%3C/svg%3E)
 
