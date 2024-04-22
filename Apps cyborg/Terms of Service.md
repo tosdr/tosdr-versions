@@ -7,9 +7,9 @@ Open main menu
 
 [Blog](https://appscyborg.com/blog) [Pricing](https://appscyborg.com/pricing) [Support](https://appscyborg.com/support) [About Us](https://appscyborg.com/about)
 
-[Log In](https://appscyborg.com/login) [TRY FOR FREE](https://appscyborg.com/register)
+[Log In](https://appscyborg.com/login) [Try for FREE](https://appscyborg.com/register)
 
-[Cyborg Web Apps](https://appscyborg.com/) [Blog](https://appscyborg.com/blog) [Pricing](https://appscyborg.com/pricing) [Support](https://appscyborg.com/support) [About Us](https://appscyborg.com/about) [Log In](https://appscyborg.com/login) [TRY FOR FREE](https://appscyborg.com/register)
+[Cyborg Web Apps](https://appscyborg.com/) [Blog](https://appscyborg.com/blog) [Pricing](https://appscyborg.com/pricing) [Support](https://appscyborg.com/support) [About Us](https://appscyborg.com/about) [Log In](https://appscyborg.com/login) [Try for FREE](https://appscyborg.com/register)
 
 Terms & conditions
 ==================
