@@ -45,8 +45,12 @@ Remember Me
     * [FAQ](https://archiveofourown.org/faq)
     * [Wrangling Guidelines](https://archiveofourown.org/wrangling_guidelines)
     * [Donate or Volunteer](https://archiveofourown.org/donate)
-* Work Search  tip: arthur merlin words>1000 sort:hits 
+* Work Search  tip: words:100 
     
+
+> Due to an influx of abusive spam comments, we've temporarily turned off the ability to leave comments while logged out. We apologize for the inconvenience, and hope to have guest comments back on soon!
+
+[×](https://archiveofourown.org/tos?hide_banner=true&view_adult=true "hide banner")
 
 Terms of Service
 ----------------
@@ -600,6 +604,6 @@ Approved: 23 May 2018
     * [Technical Support & Feedback](https://archiveofourown.org/support)
 * #### Development
     
-    * [otwarchive v0.9.368.1](https://github.com/otwcode/otwarchive/commits/v0.9.368.1)
+    * [otwarchive v0.9.366.2](https://github.com/otwcode/otwarchive/commits/v0.9.366.2)
     * [Known Issues](https://archiveofourown.org/known_issues)
     * [GPL-2.0-or-later](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html "View License") by the [OTW](https://transformativeworks.org/ "The Organization for Transformative Works")
