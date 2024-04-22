@@ -21,7 +21,6 @@
     * [About Our Team](https://www.benefithub.com/about-benefithub#AboutTheTeam)
     * [Careers](https://www.benefithub.com/about-benefithub/careers)
     * [Global Presence](https://www.benefithub.com/about-benefithub#GlobalPresence)
-    * [News](https://www.benefithub.com/news)
 * [Partner With Us](https://www.benefithub.com/benefithub-partnership) [ ] 
     * [Benefits Broker](https://www.benefithub.com/partner-with-benefithub/benefits-broker)
     * [Merchant Partner](https://www.benefithub.com/partner-with-benefithub/merchant-partner)
