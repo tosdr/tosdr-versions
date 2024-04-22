@@ -43,13 +43,11 @@ Please enable JavaScript in your browser to use the site fully.
 
 [Advanced Search](https://www.allmusic.com/advanced-search "Advanced Search")
 
-[Remove Ads](https://www.allmusic.com/subscribe "Remove Ads on AllMusic")
-
 [](https://www.allmusic.com/ "AllMusic")
 
  
 
-[New Releases](https://www.allmusic.com/newreleases "New Releases") [Discover](https://www.allmusic.com/discover "Discover") [Articles](https://www.allmusic.com/blog "Articles") [Recommendations](https://www.allmusic.com/recommendations "Recommendations") [My Profile](javascript:void(0); "My Profile") [Staff Picks](https://www.allmusic.com/staff-picks "Staff Picks") [Year In Review](https://www.allmusic.com/allmusic-year-in-review "Year In Review") [Advanced Search](https://www.allmusic.com/advanced-search "Advanced Search") [Remove Ads](https://www.allmusic.com/subscribe "Remove Ads on AllMusic")
+[New Releases](https://www.allmusic.com/newreleases "New Releases") [Discover](https://www.allmusic.com/discover "Discover") [Articles](https://www.allmusic.com/blog "Articles") [Recommendations](https://www.allmusic.com/recommendations "Recommendations") [Staff Picks](https://www.allmusic.com/staff-picks "Staff Picks") [Year In Review](https://www.allmusic.com/allmusic-year-in-review "Year In Review") [Advanced Search](https://www.allmusic.com/advanced-search "Advanced Search")
 
 [](https://www.facebook.com/AllMusicDotCom "AllMusic on Facebook")[](https://twitter.com/allmusic "AllMusic on Twitter")[](https://allmusic.tumblr.com/ "AllMusic on Tumblr")[](https://www.pinterest.com/allmusicdotcom/ "AllMusic on Pinterest")
 
