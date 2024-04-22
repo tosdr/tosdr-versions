@@ -40,11 +40,11 @@ Hauptnavigation
     [Schwerpunkte Übersicht](https://www.amnesty.de/schwerpunkte)
     -------------------------------------------------------------
     
-    * [Umwelt schützen ohne Lebensgefahr](https://www.amnesty.de/amnesty-menschenrechtspreis-2024-kolumbien-fedepesan-umweltschutz)
+    * [Amnesty-Menschenrechtspreis 2024](https://www.amnesty.de/amnesty-menschenrechtspreis-2024-kolumbien-fedepesan-umweltschutz)
     * [Protect the Protest](https://www.amnesty.de/protest-demonstrationen-schuetzen-protect-the-protest "Protect the Protest: Verteidigen wir unser Recht auf Protest!")
-    * [Unsere Arbeit zu Israel/Palästina](https://www.amnesty.de/israel-palaestina-gaza-nahostkonflikt)
+    * [Israel/Palästina: Waffenstillstand jetzt!](https://www.amnesty.de/israel-palaestina-gaza-nahostkonflikt)
     * [Russland: Angriffskrieg stoppen!](https://www.amnesty.de/allgemein/kampagnen/russland-angriffskrieg-stoppen)
-    * [Gemeinsam für die Menschen im Iran!](https://www.amnesty.de/allgemein/kampagnen/iran-jina-mahsa-amini-proteste-niederschlagung-gewalt-stoppen)
+    * [Iran: Stoppt die Gewalt!](https://www.amnesty.de/allgemein/kampagnen/iran-jina-mahsa-amini-proteste-niederschlagung-gewalt-stoppen)
     
 * [Informieren](https://www.amnesty.de/informieren)
     
@@ -112,7 +112,7 @@ DEINE SPENDE WIRKT!
 Datenschutz
 ===========
 
-[Datenschutzhinweise](#datenschutzhinweise) | [Datenschutzordnung (im Anschluss)](#datenschutzordnung) | [bei Veranstaltungen](https://www.amnesty.de/datenschutzhinweise-veranstaltungen)
+[Datenschutzhinweise](#datenschutzhinweise) | [Datenschutzordnung (im Anschluss)](#datenschutzordnung)
 
 DATENSCHUTZHINWEISE
 -------------------
@@ -535,10 +535,12 @@ Kontakt
 -------
 
 Amnesty International Deutschland e. V.  
-Zinnowitzer Straße 8, 10115 Berlin  
+  
+Zinnowitzer Straße 8, 10115 Berlin
+
 Telefon: +49 (0)30 / 420248-0  
   
-Wir ziehen um! Ab dem 1. Juli 2024 lautet unsere neue Adresse: Sonnenallee 221 C, 12059 Berlin
+Fax: +49 (0)30 / 420248-488
 
 Spendenkonto
 ------------
