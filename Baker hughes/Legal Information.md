@@ -685,7 +685,7 @@ Select your language English日本語
             
         * [Non-Destructive Testing](https://www.bakerhughes.com/waygate-technologies/non-destructive-testing)
             
-        * [Nuclear Measurement Solutions](https://www.bakerhughes.com/reuter-stokes-old/nuclear-instrumentation)
+        * [Nuclear Measurement Solutions](https://www.bakerhughes.com/reuter-stokes/nuclear-measurement-solutions)
             
         * [Pressure Sensors](https://www.bakerhughes.com/druck/industrial-pressure-sensors)
             
@@ -718,6 +718,8 @@ Select your language English日本語
                 
             * [Portable Moisture Analyzers](https://www.bakerhughes.com/panametrics/process-analyzers/portable-moisture-analyzers)
                 
+            
+        * [Radiation Measurement & Monitoring](https://www.bakerhughes.com/reuterstokes/industry/radiation-measurement-and-monitoring)
             
         * [Remote Monitoring & Diagnostics](https://www.bakerhughes.com/bently-nevada/support-services/remote-monitoring-diagnostics)
             
@@ -850,15 +852,17 @@ Select your language English日本語
             * [Panametrics Services](https://www.bakerhughes.com/panametrics/panametrics-services)
                 
             
-        * [Reuter-Stokes](https://www.bakerhughes.com/reuter-stokes)
+        * [Reuter-Stokes](https://www.bakerhughes.com/reuterstokes/industry/about-reuterstokes)
             
             Reuter-Stokes
             
             Measurement & Sensing Technologies
             
-            [Explore](https://www.bakerhughes.com/reuter-stokes)
+            [Explore](https://www.bakerhughes.com/reuterstokes/industry/about-reuterstokes)
             
-            * [Nuclear Measurement Solutions](https://www.bakerhughes.com/reuter-stokes-old/nuclear-instrumentation)
+            * [Radiation Measurement & Monitoring](https://www.bakerhughes.com/reuterstokes/industry/radiation-measurement-and-monitoring)
+                
+            * [Nuclear Measurement Solutions](https://www.bakerhughes.com/reuter-stokes/nuclear-measurement-solutions)
                 
             * [Downhole Sensors](https://www.bakerhughes.com/reuterstokes/industry/downhole-sensors-tools-and-technology)
                 
@@ -1658,7 +1662,7 @@ Search
             
         * [Non-Destructive Testing](https://www.bakerhughes.com/waygate-technologies/non-destructive-testing)
             
-        * [Nuclear Measurement Solutions](https://www.bakerhughes.com/reuter-stokes-old/nuclear-instrumentation)
+        * [Nuclear Measurement Solutions](https://www.bakerhughes.com/reuter-stokes/nuclear-measurement-solutions)
             
         * [Pressure Sensors](https://www.bakerhughes.com/druck/industrial-pressure-sensors)
             
@@ -1691,6 +1695,8 @@ Search
                 
             * [Portable Moisture Analyzers](https://www.bakerhughes.com/panametrics/process-analyzers/portable-moisture-analyzers)
                 
+            
+        * [Radiation Measurement & Monitoring](https://www.bakerhughes.com/reuterstokes/industry/radiation-measurement-and-monitoring)
             
         * [Remote Monitoring & Diagnostics](https://www.bakerhughes.com/bently-nevada/support-services/remote-monitoring-diagnostics)
             
@@ -1823,15 +1829,17 @@ Search
             * [Panametrics Services](https://www.bakerhughes.com/panametrics/panametrics-services)
                 
             
-        * [Reuter-Stokes](https://www.bakerhughes.com/reuter-stokes)
+        * [Reuter-Stokes](https://www.bakerhughes.com/reuterstokes/industry/about-reuterstokes)
             
             Reuter-Stokes
             
             Measurement & Sensing Technologies
             
-            [Explore](https://www.bakerhughes.com/reuter-stokes)
+            [Explore](https://www.bakerhughes.com/reuterstokes/industry/about-reuterstokes)
             
-            * [Nuclear Measurement Solutions](https://www.bakerhughes.com/reuter-stokes-old/nuclear-instrumentation)
+            * [Radiation Measurement & Monitoring](https://www.bakerhughes.com/reuterstokes/industry/radiation-measurement-and-monitoring)
+                
+            * [Nuclear Measurement Solutions](https://www.bakerhughes.com/reuter-stokes/nuclear-measurement-solutions)
                 
             * [Downhole Sensors](https://www.bakerhughes.com/reuterstokes/industry/downhole-sensors-tools-and-technology)
                 
