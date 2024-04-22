@@ -43,5 +43,5 @@ GSK respects the privacy of its website visitors. Please refer to GSK’s [Priv
 
 Nothing on this website constitutes an invitation or offer to invest or deal in the securities or ADRs of GSK.  In particular, actual results and developments may be materially different from any forecast, opinion or expectation expressed on this website, and the past performance of the price of securities must not be relied on as a guide to their future performance.
 
-©2024 GSK group of companies or its licensor. All Rights Reserved. Registered in England and Wales No.3888792  
+© 2017-2018 GlaxoSmithKline plc. All Rights Reserved. Registered in England and Wales No.3888792  
 Registered Office: 980 Great West Road, Brentford, Middlesex, TW8 9GS, United Kingdom.
