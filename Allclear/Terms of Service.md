@@ -157,7 +157,7 @@ If you have not signed a separate written agreement with AllClear related to the
 
 **23 CONTACT US**
 
-If You have any questions about this Agreement or otherwise need to contact us for any reason, You can reach us at 9600 Escarpment Blvd., Suite 745, #225, Austin, TX 78749 or at [Legal@AllClearid.com](mailto:Legal@allclearid.com "Legal@AllClearid.com").
+If You have any questions about this Agreement or otherwise need to contact us for any reason, You can reach us at 9600 Escarpment Blvd., Suite 745, #225, Austin, TX 78749 or at [Legal@AllClearid.com](mailto:Legal@AllClearid.com "Legal@AllClearid.com").
 
 * * *
 
