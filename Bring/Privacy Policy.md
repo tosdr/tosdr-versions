@@ -1,4 +1,4 @@
-[![](https://cdn.prod.website-files.com/5fbe6548a005d56f0dd39a2e/5fc24a65f7e1555200865e1b_bring-logo.svg)
+[![](https://assets-global.website-files.com/5fbe6548a005d56f0dd39a2e/5fc24a65f7e1555200865e1b_bring-logo.svg)
 
 Bring!](https://www.getbring.com/en/home)
 
@@ -8,9 +8,9 @@ Bring!](https://www.getbring.com/en/home)
 
 [Media](https://www.getbring.com/en/media)[Blog](https://www.getbring.com/en/blog)[Help](https://www.getbring.com/en/help-center)
 
-[![](https://cdn.prod.website-files.com/5fbe6548a005d56f0dd39a2e/5fccde37a0230055a8b4eae2_twitter.svg)](https://twitter.com/GetBring)[![](https://cdn.prod.website-files.com/5fbe6548a005d56f0dd39a2e/5fccde31c7cf1dfbcbb0f9de_instagram.svg)](https://www.instagram.com/bringapp/)[![](https://cdn.prod.website-files.com/5fbe6548a005d56f0dd39a2e/5fccde311d0e599300c0137c_facebook.svg)](https://www.facebook.com/GetBring)
+[![](https://assets-global.website-files.com/5fbe6548a005d56f0dd39a2e/5fccde37a0230055a8b4eae2_twitter.svg)](https://twitter.com/GetBring)[![](https://assets-global.website-files.com/5fbe6548a005d56f0dd39a2e/5fccde31c7cf1dfbcbb0f9de_instagram.svg)](https://www.instagram.com/bringapp/)[![](https://assets-global.website-files.com/5fbe6548a005d56f0dd39a2e/5fccde311d0e599300c0137c_facebook.svg)](https://www.facebook.com/GetBring)
 
-![](https://cdn.prod.website-files.com/5fbe6548a005d56f0dd39a2e/5fca74ddb970478c0c4c3763_menu-svg.svg)![](https://cdn.prod.website-files.com/5fbe6548a005d56f0dd39a2e/5fca74ddb970478c0c4c3763_menu-svg.svg)
+![](https://assets-global.website-files.com/5fbe6548a005d56f0dd39a2e/5fca74ddb970478c0c4c3763_menu-svg.svg)![](https://assets-global.website-files.com/5fbe6548a005d56f0dd39a2e/5fca74ddb970478c0c4c3763_menu-svg.svg)
 
 This website uses cookies to ensure you get the best experience on our website.[](#)  
 
@@ -215,13 +215,13 @@ You have the right to file a complaint about the collection and use of your pers
 
 If you have questions or concerns regarding the use of your personal data, you may raise them at any time by contacting us at [feedback@getbring.com](mailto:mailto:feedback@getbring.com).  
 
-![](https://cdn.prod.website-files.com/5fbe6548a005d56f0dd39a2e/5fc24a65f7e1555200865e1b_bring-logo.svg)
+![](https://assets-global.website-files.com/5fbe6548a005d56f0dd39a2e/5fc24a65f7e1555200865e1b_bring-logo.svg)
 
 Bring!
 
 English
 
-![](https://cdn.prod.website-files.com/5fbe6548a005d56f0dd39a2e/5fc28d8ab30cf922f18126a7_language-chevron.svg)
+![](https://assets-global.website-files.com/5fbe6548a005d56f0dd39a2e/5fc28d8ab30cf922f18126a7_language-chevron.svg)
 
 [Deutsch](https://www.getbring.com/de/datenschutzerklarung)[English](#)
 
@@ -245,15 +245,15 @@ Support
 
 [Terms of use](https://www.getbring.com/en/terms-of-use)[Privacy Policy](https://www.getbring.com/en/privacy-policy)
 
-![](https://cdn.prod.website-files.com/5fbe6548a005d56f0dd39a2e/5fc24a65f7e1555200865e1b_bring-logo.svg)
+![](https://assets-global.website-files.com/5fbe6548a005d56f0dd39a2e/5fc24a65f7e1555200865e1b_bring-logo.svg)
 
-![](https://cdn.prod.website-files.com/5fbe6548a005d56f0dd39a2e/5fc24a65f7e1555200865e1b_bring-logo.svg)
+![](https://assets-global.website-files.com/5fbe6548a005d56f0dd39a2e/5fc24a65f7e1555200865e1b_bring-logo.svg)
 
 Bring!
 
 Deutsch
 
-![](https://cdn.prod.website-files.com/5fbe6548a005d56f0dd39a2e/5fc28d8ab30cf922f18126a7_language-chevron.svg)
+![](https://assets-global.website-files.com/5fbe6548a005d56f0dd39a2e/5fc28d8ab30cf922f18126a7_language-chevron.svg)
 
 [Deutsch](#)[English](#)
 
