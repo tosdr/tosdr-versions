@@ -317,7 +317,7 @@ We use essential cookies only. No ads or trackers. [Privacy Policy](https://adgu
 
 I agree
 
-© 2009–2024 Adguard Software Ltd.
+© 2009–2024 Adguard Software Limited
 
 Site map
 
@@ -333,7 +333,7 @@ Products
 
 Other products
 
-[AdGuard DNS](https://adguard-dns.io/welcome.html) [AdGuard VPN](https://adguard-vpn.com/welcome.html) [AdGuard Temp Mail](https://adguard.com/en/adguard-temp-mail/overview.html?aid=34549) [All products](https://adguard.com/en/products.html)
+[AdGuard DNS](https://adguard-dns.io/welcome.html) [AdGuard VPN](https://adguard-vpn.com/welcome.html) [AdGuard Temp Mail β](https://adguard.com/en/adguard-temp-mail/overview.html?aid=34549) [All products](https://adguard.com/en/products.html)
 
 Support
 
@@ -357,7 +357,7 @@ AdGuard for Windows AdGuard for Android AdGuard for Android TV AdGuard for 
 
 Other products
 
-AdGuard DNS AdGuard VPN AdGuard Temp Mail All products
+AdGuard DNS AdGuard VPN AdGuard Temp Mail β All products
 
 Support
 
