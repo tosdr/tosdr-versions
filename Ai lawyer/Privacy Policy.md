@@ -139,46 +139,6 @@ Can’t find the answer you’re looking for?Please chat to our friendly team!
 
 [##### Get in touch](https://ailawyer.pro/contact)
 
-[##### Get in touch](https://ailawyer.pro/contact)
-
-[lawyer
-
-![AI Lawyer logo](https://framerusercontent.com/images/LvzWXeOKQdmc9M0ZkQoDU3Z76s.svg)](https://ailawyer.pro/)
-
-##### Company
-
-[About](https://ailawyer.pro/about)
-
-[Contact](https://ailawyer.pro/contact)
-
-[Blog](https://ailawyer.pro/blog)
-
-[Affiliate](https://ailawyer.pro/affiliate-program)
-
-##### Product
-
-[Features](https://ailawyer.pro/features)
-
-[FAQ](https://ailawyer.pro/faq)
-
-[Changelog](https://ailawyer.pro/changelog)
-
-[AIL Connect](https://ailawyer.pro/support-chat-for-lawyers)
-
-##### Pages
-
-[Pricing](https://ailawyer.pro/pricing)
-
-[Terms](https://ailawyer.pro/terms-of-Use)
-
-[Privacy](https://ailawyer.pro/privacy-policy)
-
-[404](https://ailawyer.pro/404)
-
-© 2024 AILawtech Sp Z O O. All rights reserved.
-
-[](https://twitter.com/ailawyerapp)[](https://www.tiktok.com/@ailawyerapp)[](https://www.youtube.com/@ailawyerapp)[](https://www.instagram.com/ailawyerapp/)[](https://www.facebook.com/people/AI-Lawyer/100090736957924/?mibextid=LQQJ4d)[](https://medium.com/@ailawyerapp)[](https://www.pinterest.com/ailawyerapp/)
-
 [lawyer
 
 ![AI Lawyer logo](https://framerusercontent.com/images/LvzWXeOKQdmc9M0ZkQoDU3Z76s.svg)](https://ailawyer.pro/)
