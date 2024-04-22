@@ -23,11 +23,12 @@ Initializing search
 [GitHub](https://github.com/arXiv/arxiv-docs "Go to repository")
 
 * [Home](https://info.arxiv.org/index.html)
-* [ ]    About
+* [ ]   
+    
+    [About](https://info.arxiv.org/about/index.html)
     
     About
     
-    * [About arXiv](https://info.arxiv.org/about/index.html)
     * [Who we are](https://info.arxiv.org/about/people/index.html)
     * [ ]    Governance
         
@@ -46,24 +47,27 @@ Initializing search
     * [Accessibility](https://info.arxiv.org/about/accessibility.html)
     * [arXiv Blog](https://blog.arxiv.org/)
     
-* [ ]    Help
+* [ ]   
+    
+    [Help](https://info.arxiv.org/help/index.html)
     
     Help
     
-    * [arXiv Help Contents](https://info.arxiv.org/help/index.html)
-    * [ ]    Submit an Article
+    * [ ]   
+        
+        [Submit an Article](https://info.arxiv.org/help/submit/index.html)
         
         Submit an Article
         
-        * [None](https://info.arxiv.org/help/submit/index.html)
         * [Submission Overview](https://info.arxiv.org/help/submit/index.html)
         * [Submit TeX/LaTeX](https://info.arxiv.org/help/submit_tex.html)
         * [Submit a PDF](https://info.arxiv.org/help/submit_pdf.html)
-        * [ ]    FAQ
+        * [ ]   
+            
+            [FAQ](https://info.arxiv.org/help/faq/index.html)
             
             FAQ
             
-            * [Frequently Asked Questions](https://info.arxiv.org/help/faq/index.html)
             * [LaTeX2e class for Astronomy & Astrophysics](https://info.arxiv.org/help/faq/aaclass.html)
             * [AMS LaTeX packages and AMS Journal styles](https://info.arxiv.org/help/faq/amslatex2000.html)
             * [Downloaded .gz Files that are not Gzipped](https://info.arxiv.org/help/faq/browsergunzip.html)
@@ -109,11 +113,12 @@ Initializing search
         * [Why Submit TeX?](https://info.arxiv.org/help/faq/whytex.html)
         * [Withdraw / Retract a Submission](https://info.arxiv.org/help/withdraw.html)
         
-    * [ ]    Find and Read Articles
+    * [ ]   
+        
+        [Find and Read Articles](https://info.arxiv.org/help/find/index.html)
         
         Find and Read Articles
         
-        * [Finding Articles](https://info.arxiv.org/help/find/index.html)
         * [Search for articles](https://info.arxiv.org/help/find.html)
         * [Viewing submissions](https://info.arxiv.org/help/view.html)
         * [Email subscriptions for new papers](https://info.arxiv.org/help/subscribe.html)
@@ -124,31 +129,35 @@ Initializing search
         * [Permissions and Reuse](https://info.arxiv.org/help/license/reuse.html)
         * [What is MathJax?](https://info.arxiv.org/help/mathjax.html)
         
-    * [ ]    Accounts
+    * [ ]   
+        
+        [Accounts](https://info.arxiv.org/help/accounts/index.html)
         
         Accounts
         
-        * [Index](https://info.arxiv.org/help/accounts/index.html)
         * [Directions for Author Registration](https://info.arxiv.org/help/registerhelp.html)
         * [Author Identifiers](https://info.arxiv.org/help/author_identifiers.html)
         * [ORCID identifiers](https://info.arxiv.org/help/orcid.html)
         * [Authority Records](https://info.arxiv.org/help/authority.html)
         * [Why isn't a Person "Registered as an Author?"](https://info.arxiv.org/help/not-registered.html)
         
-    * [ ]    Bulk Access to Metadata and Full Text
+    * [ ]   
+        
+        [Bulk Access to Metadata and Full Text](https://info.arxiv.org/help/bulk_data/index.html)
         
         Bulk Access to Metadata and Full Text
         
-        * [Index](https://info.arxiv.org/help/bulk_data/index.html)
         * [arXiv Identifier for Interacting Services](https://info.arxiv.org/help/arxiv_identifier_for_services.html)
         * [Full Text via S3](https://info.arxiv.org/help/bulk_data_s3.html)
-        * [ ]    API for Metadata
+        * [ ]   
+            
+            [API for Metadata](https://info.arxiv.org/help/api/index.html)
             
             API for Metadata
             
-            * [arXiv API Access](https://info.arxiv.org/help/api/index.html)
             * [arXiv API Basics](https://info.arxiv.org/help/api/basics.html)
             * [API for arXiv Categorization](https://info.arxiv.org/help/api/classify.html)
+            * [arXiv API FAQ](https://info.arxiv.org/help/api/faq.html)
             * [Terms of Use for arXiv APIs](https://info.arxiv.org/help/api/tou.html)
             * [arXiv API User's Manual](https://info.arxiv.org/help/api/user-manual.html)
             
@@ -157,11 +166,12 @@ Initializing search
         * [Automated DOI and journal reference updates from publishers](https://info.arxiv.org/help/bib_feed.html)
         
     
-* [ ]    Brand
+* [ ]   
+    
+    [Brand](https://info.arxiv.org/brand/index.html)
     
     Brand
     
-    * [Our Brand](https://info.arxiv.org/brand/index.html)
     * [Logo Use](https://info.arxiv.org/brand/brand-guidelines.html)
     * [Brand pillars](https://info.arxiv.org/brand/brand-pillars.html)
     * [Colors](https://info.arxiv.org/brand/colors.html)
@@ -174,20 +184,22 @@ Initializing search
     * [Typography](https://info.arxiv.org/brand/typography.html)
     * [Voice](https://info.arxiv.org/brand/voice.html)
     
-* [ ]    Labs
+* [ ]   
+    
+    [Labs](https://info.arxiv.org/labs/index.html)
     
     Labs
     
-    * [arXivLabs: An invitation to collaborate](https://info.arxiv.org/labs/index.html)
     * [arXivLabs Criteria](https://info.arxiv.org/labs/criteria.html)
-    * [Project proposal](https://info.arxiv.org/labs/project-proposal.html)
+    * [Submit your project to arXivLabs](https://info.arxiv.org/labs/project-proposal.html)
     * [arXivLabs: Showcase](https://info.arxiv.org/labs/showcase.html)
     
-* [x]    Policies
+* [x]   
+    
+    [Policies](https://info.arxiv.org/help/policies/index.html)
     
     Policies
     
-    * [arXiv Policies](https://info.arxiv.org/help/policies/index.html)
     * [Code of conduct](https://info.arxiv.org/help/policies/code_of_conduct.html)
     * [ ]    Privacy policy [Privacy policy](https://info.arxiv.org/help/policies/privacy_policy.html)
         
