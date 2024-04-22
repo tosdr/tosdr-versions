@@ -1,12 +1,12 @@
 [Skip to main content](#content)
 
-* [Visit Beano Shop](https://www.beano.com/external-link-warning-shop?verify=b63bd540ce&to=https%3A%2F%2Fshop.beano.com%2F%3Futm_source%3Dbeano%26utm_campaign%3DCP%26utm_medium%3Dreferral "Visit Beano Shop")
+* [Visit Beano Shop](https://www.beano.com/external-link-warning-shop?verify=6dbe3eb5cc&to=https%3A%2F%2Fshop.beano.com%2F%3Futm_source%3Dbeano%26utm_campaign%3DCP%26utm_medium%3Dreferral "Visit Beano Shop")
 
 Subscribe
 
 Open Search
 
-[![Beano](https://www.beano.com/app/themes/beano/assets/images/logo.svg)](https://www.beano.com/ "Beano")
+[![Beano](https://www.beano.com/wp-content/themes/beano/assets/images/logo.svg)](https://www.beano.com/ "Beano")
 
 * [Home](https://www.beano.com/)
 * [Quizzes](https://www.beano.com/categories/quizzes)
@@ -19,21 +19,21 @@ Open Search
 
 Subscribe to Beano
 
-[![Beano](https://www.beano.com/app/themes/beano/assets/images/logo.svg)](https://www.beano.com/ "Beano")
+[![Beano](https://www.beano.com/wp-content/themes/beano/assets/images/logo.svg)](https://www.beano.com/ "Beano")
 
 Subscribe
 
 Open Search
 
-[![Beano](https://www.beano.com/app/themes/beano/assets/images/burger-menu.svg)](https://www.beano.com/ "Open mobile menu")
+[![Beano](https://www.beano.com/wp-content/themes/beano/assets/images/burger-menu.svg)](https://www.beano.com/ "Open mobile menu")
 
-[![Beano](https://www.beano.com/app/themes/beano/assets/images/burger-menu-close.svg)](https://www.beano.com/ "Close mobile menu")
+[![Beano](https://www.beano.com/wp-content/themes/beano/assets/images/burger-menu-close.svg)](https://www.beano.com/ "Close mobile menu")
 
-[![Beano](https://www.beano.com/app/themes/beano/assets/images/logo.svg)](https://www.beano.com/ "Beano")
+[![Beano](https://www.beano.com/wp-content/themes/beano/assets/images/logo.svg)](https://www.beano.com/ "Beano")
 
-[![Beano](https://www.beano.com/app/themes/beano/assets/images/burger-menu.svg)](https://www.beano.com/ "Open mobile menu")
+[![Beano](https://www.beano.com/wp-content/themes/beano/assets/images/burger-menu.svg)](https://www.beano.com/ "Open mobile menu")
 
-[![Beano](https://www.beano.com/app/themes/beano/assets/images/burger-menu-close.svg)](https://www.beano.com/ "Close mobile menu")
+[![Beano](https://www.beano.com/wp-content/themes/beano/assets/images/burger-menu-close.svg)](https://www.beano.com/ "Close mobile menu")
 
 * [Home](https://www.beano.com/)
 * [Subscribe to comic](https://www.beano.com/subscribe)
@@ -43,7 +43,7 @@ Open Search
 * [Facts](https://www.beano.com/categories/fun-facts)
 * [Comic](https://www.beano.com/categories/beanotown)
 * [Fun Stuff](https://www.beano.com/categories/fun-stuff)
-* [Shop](https://www.beano.com/external-link-warning-shop?verify=b63bd540ce&to=https%3A%2F%2Fshop.beano.com%2F%3Futm_source%3Dbeano%26utm_campaign%3DCP%26utm_medium%3Dreferral)
+* [Shop](https://www.beano.com/external-link-warning-shop?verify=6dbe3eb5cc&to=https%3A%2F%2Fshop.beano.com%2F%3Futm_source%3Dbeano%26utm_campaign%3DCP%26utm_medium%3Dreferral)
 
 * [Home](https://www.beano.com/)
 * [Quizzes](https://www.beano.com/categories/quizzes)
@@ -132,7 +132,7 @@ We will use your personal information for several purposes including:
 * We may use your or your child’s personal information to respond to a query or report by email. We, and any external moderation company, will delete any content submitted which does not comply with our moderation process (for example, content which includes personal information).
 * We will delete your or your child’s email address and other personal information from our records once we have responded to their query, report or submission.
 * We will retain an adult’s personal data for the purposes that personal information was provided to us and delete those records once the purpose is achieved. For example, if a query is submitted to us via the [contact us page](https://www.beano.com/contact-us), we will retain the name and email address of the submitter whilst we respond to that query. Once the submitter is satisfied with the response we will delete their data from our systems. This is also applicable for competition winners where we will retain a parent/guardian email and postal address in order to send prizes to winners. This data will be deleted from our systems once receipt of the prize is confirmed.
-* IP addresses and device identifiers are processed by Google Analytics to enable us to anonymously identify the location of users & establish the number of visits from different countries. More information about the process can be found on [Google Analytics’ helpsite](https://www.beano.com/external-link-warning?verify=2e009cf16c&to=https%3A%2F%2Fsupport.google.com%2Fanalytics%2F). Beano Studios does not view or store IP addresses and this information is not used for the purposes of identifying individuals.
+* IP addresses and device identifiers are processed by Google Analytics to enable us to anonymously identify the location of users & establish the number of visits from different countries. More information about the process can be found on [Google Analytics’ helpsite](https://www.beano.com/external-link-warning?verify=2762b21466&to=https%3A%2F%2Fsupport.google.com%2Fanalytics%2F). Beano Studios does not view or store IP addresses and this information is not used for the purposes of identifying individuals.
 * For analysis and research to improve our services
 * We may use, share and disclose information in aggregate (so no individuals are identified) for marketing and strategic development purposes.
 
@@ -172,13 +172,13 @@ Beano Studios Limited is a member of the PRIVO Kids Privacy Assured Program (“
 
 #### COPPA Safe Harbor Certification
 
-[![](https://www.beano.com/wp-content/uploads/2022/06/COPPA-1.png)](https://www.beano.com/external-link-warning?verify=4c20ee1244&to=https%3A%2F%2Fcert.privo.com%2F%3F%23%2Fcompanies%2Fbeano_studios)
+[![](https://www.beano.com/wp-content/uploads/2022/06/COPPA-1.png)](https://www.beano.com/external-link-warning?verify=2f604c2473&to=https%3A%2F%2Fcert.privo.com%2F%3F%23%2Fcompanies%2Fbeano_studios)
 
-The Program certification applies to the digital properties listed on the validation page that is viewable by clicking on the PRIVO COPPA certification seal. The certification seal posted on this page indicates Beano Studios Limited has established COPPA compliant privacy practices and has agreed to submit to PRIVO’s oversight and consumer dispute resolution process. If you have questions or concerns about our privacy practices, please contact us via our [contact us page](https://www.beano.com/contact-us). If you have further concerns after you have contacted us, you can contact PRIVO directly at [\[email protected\]](https://www.beano.com/cdn-cgi/l/email-protection).
+The Program certification applies to the digital properties listed on the validation page that is viewable by clicking on the PRIVO COPPA certification seal. The certification seal posted on this page indicates Beano Studios Limited has established COPPA compliant privacy practices and has agreed to submit to PRIVO’s oversight and consumer dispute resolution process. If you have questions or concerns about our privacy practices, please contact us via our [contact us page](https://www.beano.com/contact-us). If you have further concerns after you have contacted us, you can contact PRIVO directly at privacy@privo.com.
 
 #### GDPR_kids_™ Privacy Assured
 
-[![](https://www.beano.com/wp-content/uploads/2022/06/GDPR.png)](https://www.beano.com/external-link-warning?verify=4c20ee1244&to=https%3A%2F%2Fcert.privo.com%2F%3F%23%2Fcompanies%2Fbeano_studios)
+[![](https://www.beano.com/wp-content/uploads/2022/06/GDPR.png)](https://www.beano.com/external-link-warning?verify=2f604c2473&to=https%3A%2F%2Fcert.privo.com%2F%3F%23%2Fcompanies%2Fbeano_studios)
 
 The Program applies to the digital properties listed on the validation page that is viewable by clicking on the PRIVO GDPRkids™ Verified Shield. The PRIVO GDPRkids™ Privacy Assured Program supports child directed services known as Information Society Services under the General Data Protection Regulation (GDPR), to comply with the requirements of this legislation. It impacts any child directed service in an EU Member State and any service globally that collects and or processes the personal data of children and minors. There is no safe harbor for the GDPR to date, but to ensure this company’s services meet the program requirements, we conduct regular monitoring and consulting.
 
@@ -186,7 +186,7 @@ The Program applies to the digital properties listed on the validation page that
 
 In the event of an online competition all email addresses will be deleted once each contest closes.
 
-In order to run our online competitions, we ask for the entrant to send in their answers to [\[email protected\]](https://www.beano.com/cdn-cgi/l/email-protection) with no other personal information. If the entrant has been selected as a winner, we will contact the winner(s) asking for a parent or guardian email address. Once the entrant has given this, we will then contact the parent or guardian to confirm their consent to sending the prize and to confirm delivery details. Once the competition has concluded all email addresses will be deleted from our records. Email addresses will not be used for any other purposes.
+In order to run our online competitions, we ask for the entrant to send in their answers to play@beano.com with no other personal information. If the entrant has been selected as a winner, we will contact the winner(s) asking for a parent or guardian email address. Once the entrant has given this, we will then contact the parent or guardian to confirm their consent to sending the prize and to confirm delivery details. Once the competition has concluded all email addresses will be deleted from our records. Email addresses will not be used for any other purposes.
 
 ### 11\. Totally Random Questions
 
@@ -222,20 +222,20 @@ For more information please refer to these third-party providers’ privacy poli
 
 We use Google Analytics to help analyze your use of the website:
 
-* [Google’s privacy policy](https://www.beano.com/external-link-warning?verify=dc2ff5fc60&to=https%3A%2F%2Fpolicies.google.com%2Fprivacy)
+* [Google’s privacy policy](https://www.beano.com/external-link-warning?verify=f619b2de34&to=https%3A%2F%2Fpolicies.google.com%2Fprivacy)
 
 JW Player is a video platform that we use to display videos on our website:
 
-* [JW Player’s privacy policy](https://www.beano.com/external-link-warning?verify=8638fd6514&to=https%3A%2F%2Fwww.jwplayer.com%2Fprivacy%2F)
+* [JW Player’s privacy policy](https://www.beano.com/external-link-warning?verify=9b0f13313a&to=https%3A%2F%2Fwww.jwplayer.com%2Fprivacy%2F)
 
 Our site is powered by WordPress VIP. WordPress VIP uses Jetpack and New Relic to provide statistical data about your use of the website and diagnose performance issues:
 
-* [WordPress VIP’s privacy policy](https://www.beano.com/external-link-warning?verify=5f795d7024&to=https%3A%2F%2Fautomattic.com%2Fprivacy%2F)
+* [WordPress VIP’s privacy policy](https://www.beano.com/external-link-warning?verify=94debefe27&to=https%3A%2F%2Fautomattic.com%2Fprivacy%2F)
 
   
 We partner with Microsoft Clarity to capture how you use and interact with our website through behavioral metrics, heatmaps, and session replay to improve and market our products/services. Website usage data is captured using first party cookies and other tracking technologies to determine the popularity of products/services, site optimisation and online activity.
 
-* [Microsoft Privacy Statement](https://www.beano.com/external-link-warning?verify=8a9140b7d0&to=https%3A%2F%2Fprivacy.microsoft.com%2Fprivacystatement).
+* [Microsoft Privacy Statement](https://www.beano.com/external-link-warning?verify=cd84944a1d&to=https%3A%2F%2Fprivacy.microsoft.com%2Fprivacystatement).
 
 We use Launch Darkly to help us test and launch new features on the Beano.com website.
 
@@ -291,9 +291,9 @@ Should all or part of the Beano Studios business be sold to or taken over by ano
 
 The data protection laws in the UK are regulated and enforced by the Information Commissioner’s Office (ICO). Each individual has the right to raise a concern/complaint to the ICO if they have any concerns about how their personal information and/or privacy is treated. You can do this via:
 
-* [The ICO’s website](https://www.beano.com/external-link-warning?verify=8e483806f7&to=https%3A%2F%2Fico.org.uk%2Fmake-a-complaint%2F) – follow the links or have an online “live chat”
+* [The ICO’s website](https://www.beano.com/external-link-warning?verify=88dd168ad8&to=https%3A%2F%2Fico.org.uk%2Fmake-a-complaint%2F) – follow the links or have an online “live chat”
 * Call the ICO helpline on 0303 123 1113
-* Email [\[email protected\]](https://www.beano.com/cdn-cgi/l/email-protection)
+* Email casework@ico.org.uk
 * Postal address: Information Commissioner’s Office, Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF.
 
 ### 18\. Links to Third Party Websites
@@ -306,7 +306,7 @@ We may update this Policy at any time without notice. We will tell you that we h
 
 ### 20\. Contacting Us
 
-If you have any questions about privacy, or wish to update your details or action any of your other data rights at any time, please contact us via our [contact us page](https://www.beano.com/contact-us), by phone on +44 20 7400 1094, email us at [\[email protected\]](https://www.beano.com/cdn-cgi/l/email-protection) or by post to Data and Analytics Lead, Beano Studios Limited, 185 Fleet Street, London, EC4A 2HS.
+If you have any questions about privacy, or wish to update your details or action any of your other data rights at any time, please contact us via our [contact us page](https://www.beano.com/contact-us), by phone on +44 20 7400 1094, email us at hello@beano.com or by post to Data and Analytics Lead, Beano Studios Limited, 185 Fleet Street, London, EC4A 2HS.
 
 Privacy statement updated August 2021.
 
@@ -314,17 +314,15 @@ Whoopee cushion...
 
  
 
-* [Beano Shop](https://www.beano.com/external-link-warning-shop?verify=b63bd540ce&to=https%3A%2F%2Fshop.beano.com%2F%3Futm_source%3Dbeano%26utm_campaign%3DCP%26utm_medium%3Dreferral)
+* [Beano Shop](https://www.beano.com/external-link-warning-shop?verify=6dbe3eb5cc&to=https%3A%2F%2Fshop.beano.com%2F%3Futm_source%3Dbeano%26utm_campaign%3DCP%26utm_medium%3Dreferral)
 * [Subscription Offers](https://www.beano.com/subscribe)
 * [Parent Zone](https://www.beano.com/parent-zone)
 
-[![KidAware Certified](https://www.beano.com/app/themes/beano/assets/images/footer/footer-kidawarelogo.png)](https://www.beano.com/external-link-warning?verify=6f9b39b236&to=https%3A%2F%2Fwww.superawesome.com%2Fkidaware%2F)
+[![KidAware Certified](https://www.beano.com/wp-content/themes/beano/assets/images/footer/footer-kidawarelogo.png)](https://www.beano.com/external-link-warning?verify=3741ef814d&to=https%3A%2F%2Fwww.superawesome.com%2Fkidaware%2F)
 
-[![COPPA - Safe Harbor Certification (Kids' Privacy Assured Privo)](https://www.beano.com/app/themes/beano/assets/images/footer/coppa.png)](https://www.beano.com/external-link-warning?verify=cd18f6b4e3&to=https%3A%2F%2Fcert.privo.com%2F%23%2Fcompanies%2Fbeano_studios)
+[![COPPA - Safe Harbor Certification (Kids' Privacy Assured Privo)](https://www.beano.com/wp-content/themes/beano/assets/images/footer/coppa.png)](https://www.beano.com/external-link-warning?verify=c250d10639&to=https%3A%2F%2Fcert.privo.com%2F%23%2Fcompanies%2Fbeano_studios)
 
-[![GDPR - General Data Protection (Kids' Privacy Assured Privo)](https://www.beano.com/app/themes/beano/assets/images/footer/gdpr.png)](https://www.beano.com/external-link-warning?verify=cd18f6b4e3&to=https%3A%2F%2Fcert.privo.com%2F%23%2Fcompanies%2Fbeano_studios)
-
-[![Kids' Privacy Assured Privo](https://www.beano.com/app/themes/beano/assets/images/footer/seal.png)](https://www.beano.com/external-link-warning?verify=cd18f6b4e3&to=https%3A%2F%2Fcert.privo.com%2F%23%2Fcompanies%2Fbeano_studios)
+[![Kids' Privacy Assured Privo](https://www.beano.com/wp-content/themes/beano/assets/images/footer/seal.png)](https://www.beano.com/external-link-warning?verify=c250d10639&to=https%3A%2F%2Fcert.privo.com%2F%23%2Fcompanies%2Fbeano_studios)
 
 * [Home](https://www.beano.com/)
 * [Quizzes](https://www.beano.com/categories/quizzes)
@@ -339,8 +337,9 @@ Whoopee cushion...
 * [Contact Us](https://www.beano.com/contact-us)
 * [Cookie Policy](https://www.beano.com/cookie-policy)
 * [Terms and Conditions](https://www.beano.com/terms-and-conditions)
-* [Careers](https://www.beano.com/external-link-warning?verify=aa611b615d&to=https%3A%2F%2Fwww.beanostudios.com%2Fcareers)
+* [Careers](https://www.beano.com/external-link-warning?verify=eddca4c742&to=https%3A%2F%2Fwww.beanostudios.com%2Fcareers)
 * [Privacy Policy](https://www.beano.com/privacy-policy)
 * [Update Cookie Preferences](https://www.beano.com/)
+* [![Powered by WordPress.com VIP](https://www.beano.com/wp-content/mu-plugins/vip-helpers/images/vip-powered-light-small.png)](https://www.beano.com/external-link-warning?verify=9311df37d1&to=https%3A%2F%2Fwpvip.com%2F%3Futm_source%3Dvip_powered_wpcom%26amp%3Butm_medium%3Dweb%26amp%3Butm_campaign%3DVIP%2520Footer%2520Credit%26amp%3Butm_term%3Dbeano.com)
 
 Cookie Settings
