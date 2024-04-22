@@ -210,6 +210,6 @@ Experience the amazing range of services offered by Cargills Bank.
 
 [Open Account](https://digitalonboarding.cargillsbank.com/)
 
-[Call Now](tel:+94%20117%20640%20640)
+[Call Now](tel:+94 117 640 640)
 
 Send us an e-mail
