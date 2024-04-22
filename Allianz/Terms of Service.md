@@ -35,11 +35,11 @@
         * [Brand in action](https://www.allianz.com/en/about-us/brand/brand-in-action.html)
         * [Acting sustainably](https://www.allianz.com/en/about-us/brand/acting-sustainably.html)
         * [Partnerships](https://www.allianz.com/en/about-us/brand/partnerships.html)
-    * [![](/content/experience-fragments/onemarketing/azcom/Allianz_com/en_GB/azcom_header/flyout_teaser/about-us/master3/_jcr_content/root/teaser-horizontal/image.img.jpeg/1715751813842/ir-results-stage.jpeg)
+    * [![](/content/experience-fragments/onemarketing/azcom/Allianz_com/en_GB/azcom_header/flyout_teaser/about-us/master/_jcr_content/root/teaser-horizontal/image.img.jpeg/1712667217487/sustainability-in-the-spotlight-flyout-teaser.jpeg)
         
-        ### Earnings Release: 1Q 2024
+        ### Sustainability in the Spotlight
         
-        More](https://www.allianz.com/en/press/news/financials/business_results/240515-allianz-1q-2024-earnings-release.html)
+        More](https://www.allianz.com/en/sustainability/sustainability-report-and-other-publications/spotlight-on-sustainability.html)
         
     
 * [Investor Relations](https://www.allianz.com/en/investor_relations.html)
@@ -107,13 +107,12 @@
     * [Topics](https://www.allianz.com/en/press/topics.html)
         * [About IFRS 9 & 17](https://www.allianz.com/en/press/topics/about-ifrs-9-and-17.html)
         * [Financial Literacy](https://www.allianz.com/en/economic_research/sustainability-research/financialliteracy.html)
-        * [Road to Paris 2024](https://www.allianz.com/en/about-us/brand/partnerships/olympic-paralympic-movements/road-to-paris-2024.html)
-        * [Floods in southern Germany](https://www.allianz.com/en/press/topics/floods-in-southern-germany.html)
-    * [![](/content/experience-fragments/onemarketing/azcom/Allianz_com/en_GB/azcom_header/flyout_teaser/about-us/master3/_jcr_content/root/teaser-horizontal/image.img.jpeg/1715751813842/ir-results-stage.jpeg)
+        * [Road to Paris](https://www.allianz.com/en/about-us/brand/partnerships/olympic-paralympic-movements/road-to-paris-2024.html)
+    * [![](/content/experience-fragments/onemarketing/azcom/Allianz_com/en_GB/azcom_header/flyout_teaser/about-us/master2/_jcr_content/root/teaser-horizontal/image.img.jpeg/1701349122679/bgb-2023-flyout.jpeg)
         
-        ### Earnings Release: 1Q 2024
+        ### Allianz is the #1 insurance brand globally
         
-        More](https://www.allianz.com/en/press/news/financials/business_results/240515-allianz-1q-2024-earnings-release.html)
+        Visit the brand value page](https://www.allianz.com/en/about-us/brand/brand-value.html)
         
     
 * [Careers](https://careers.allianz.com/)
@@ -179,6 +178,7 @@
     * [Interactive tools](https://www.allianz.com/en/economic_research/interactive-tools.html)
         * [Allianz Global Wealth Map](https://www.allianz.com/en/economic_research/interactive-tools/interactive-wealth-map.html)
         * [Allianz Global Insurance Map](https://www.allianz.com/en/economic_research/interactive-tools/global-insurance-map.html)
+        * [Interest Income Calculator](https://www.allianz.com/en/economic_research/interactive-tools/interest-income-calculator.html)
     * [![](/content/experience-fragments/onemarketing/azcom/Allianz_com/en_GB/azcom_header/flyout_teaser/Economic-Research/master/_jcr_content/root/teaser-horizontal/image.img.jpeg/1708695164085/flyoutteaserer.jpeg)
         
         ### SAMEpath
