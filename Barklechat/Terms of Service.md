@@ -1,4 +1,4 @@
 JavaScriptを有効にしてください  
 Please turn on your JavaScript
 
-![](/static-assets/splash.png?1716232738715)
+![](/static-assets/splash.png?1713813532189)
