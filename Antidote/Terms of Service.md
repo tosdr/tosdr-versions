@@ -21,15 +21,15 @@ Conditions of Use for Antidote Applications and Websites
 * [Français](https://www.antidote.info/fr/conditions-utilisation)
 * [English](https://www.antidote.info/en/conditions-utilisation)
 
-* [Antidote Web](https://www.antidote.info/r/services.druide.com/connexion/externe?app=aw&langueDefaut=en)
-* [Client Portal](https://www.antidote.info/r/services.druide.com?contexte=code_antidote&langueDefaut=en)
+* [Antidote Web](https://services.druide.com/connexion/externe?app=aw&langueDefaut=en)
+* [Client Portal](https://services.druide.com/?contexte=code_antidote&langueDefaut=en)
 
 ##### Last update: October 19, 2021
 
 These conditions of use apply to you, the user of any Antidote Applications or Websites, as these expressions are defined below:
 
 * Antidote 11 and prior editions for installation on a computer, Antidote Web for access through a browser on antidote.app, as well as Antidote Mobile for iPhone and iPad (“**Applications**”)
-* The websites [www.antidote.info](https://www.antidote.info/) and [www.druide.com](https://www.druide.com/), as well as the services which they allow you to access, such as your Client Portal from [services.druide.com](https://www.antidote.info/en/r/services.druide.com?langueDefaut=en) and the Help Center from [assistance.druide.com](https://assistance.druide.com/) (“**Websites**”)
+* The websites [www.antidote.info](https://www.antidote.info/) and [www.druide.com](https://www.druide.com/), as well as the services which they allow you to access, such as your Client Portal from [services.druide.com](https://services.druide.com/?langueDefaut=en) and the Help Center from [assistance.druide.com](https://assistance.druide.com/) (“**Websites**”)
 
 By using any of the Applications or Websites, you acknowledge that you are bound by these conditions and you agree to comply with them. If you disagree with any of these conditions, you must immediately cease using the Applications and Websites.
 
@@ -97,7 +97,7 @@ These conditions of use are governed by and construed under the laws applicable 
 * [Terms of sale](https://www.antidote.info/en/terms-of-sale)
 * [Find a retailer](https://www.antidote.info/en/retailers)
 * [Blog](https://www.antidote.info/en/blog)
-* [Client Portal](https://www.antidote.info/r/services.druide.com?contexte=code_antidote&langueDefaut=en)
+* [Client Portal](https://services.druide.com/?contexte=code_antidote&langueDefaut=en)
 
 ##### Company
 
