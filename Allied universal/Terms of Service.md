@@ -345,12 +345,6 @@ Find a Job](https://ad.doubleclick.net/ddm/clk/435397650;274797481;a?https%3A%2F
 Find a Job
 ")
 
-Also of Interest
-
-* [Defense and Aerospace Security Services](https://www.aus.com/industry-expertise/defense-aerospace)
-* [Workplace Violence Prevention](https://www.aus.com/workplace-violence-prevention)
-* [Commercial Security Services](https://www.aus.com/our-services/security-services)
-
 * [News/Media](https://ausnewsroom.aus.com/ "News/Media")
 * [Security Resources](https://www.aus.com/security-resources "Security Resources")
 * [Careers](https://ad.doubleclick.net/ddm/clk/435397650;274797481;a?https%3A%2F%2Fjobs_aus_com%3Futm_source=aus.com&utm_campaign=national_cross_business&utm_medium=career_site&utm_content=&ss=paid "Careers")
