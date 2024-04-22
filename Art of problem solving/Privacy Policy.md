@@ -61,7 +61,7 @@ Middle & High School
 
 [Online Classes: AoPS Online](https://artofproblemsolving.com/) [In-person: AoPS Academy](https://aopsacademy.org/)
 
-Summer is a great time to explore cool problems and keep your skills sharp!  [Schedule a class today](https://artofproblemsolving.com/school/schedule)!
+New classes are starting soon - [secure your spot](https://artofproblemsolving.com/school/schedule) today!
 
 JavaScript is not enabled. JavaScript is required to fully utilize the site.
 
@@ -263,7 +263,7 @@ AoPS Incorporated
 15330 Avenue of Science  
 San Diego, CA 92128  
 (858) 675-4555  
-coppa@aops.com
+privacy@artofproblemsolving.com
 
 This COPPA Policy is current as of February 26, 2024. We may change this COPPA Policy from time to time, so please be sure to review periodically. This policy will be available at our website at https://artofproblemsolving.com/company/privacy.
 
