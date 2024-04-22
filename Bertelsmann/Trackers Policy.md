@@ -481,7 +481,7 @@ Fax: +49 (0) 5241-80-62321
 
 ##### Bertelsmann Network
 
-[](http://www.facebook.com/Bertelsmann)[](http://twitter.com/Bertelsmann_com)[](http://www.instagram.com/bertelsmann_erleben/)[](http://www.linkedin.com/company/bertelsmann)[](http://www.xing.com/pages/bertelsmann)[](http://www.youtube.com/Bertelsmann)
+[](http://www.facebook.com/Bertelsmann)[](http://twitter.com/Bertelsmann_com)[](http://www.youtube.com/Bertelsmann)[](http://www.instagram.com/bertelsmann_erleben/)[](http://www.linkedin.com/company/bertelsmann)[](http://www.xing.com/company/bertelsmann)
 
 [![](/media/layout/images/logos/footer-und-vita/rtl-logo-website-footer-154x90px-082021_footer_logo_gt_1200_grid.png)](https://www.bertelsmann.com/divisions/rtl-group/)
 
@@ -499,6 +499,6 @@ Fax: +49 (0) 5241-80-62321
 
 © Bertelsmann SE & Co KGaA
 
-web-bertelsmann-i-044ae41a58fb87348
+web-bertelsmann-i-03235a35e6dc2ded0
 
 ![](/media/layout/images/icons/icon-mail.png)![](/media/layout/images/icons/icon-twitter.png)![](/media/layout/images/icons/icon-linkedin.png) ![](/media/layout/images/icons/icon-google-plus.png)![](/media/layout/images/icons/icon-xing.png)![](/media/layout/images/icons/icon-facebook.png) ![](/media/layout/images/icons/icon-youtube.png)
