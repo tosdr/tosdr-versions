@@ -91,7 +91,7 @@ More About Veterans Benefits
 
 [Add Review](https://www.aplaceformom.com/submit-review)
 
-[(866) 270-3615](tel:(866)%20270-3615)
+[(866) 270-3615](tel:(866) 270-3615)
 
 1. [Home](https://www.aplaceformom.com/)
 2. /
