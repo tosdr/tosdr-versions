@@ -173,7 +173,7 @@ You may opt out of receiving promotional emails by following the instructions i
 
 ###### Web Accessibility
 
-Cal Lutheran is committed to web accessibility for everyone. If you are experiencing a web accessibility issue, please contact us by emailing [web@CalLutheran.edu](mailto:web@callutheran.edu). 
+Cal Lutheran is committed to web accessibility for everyone. If you are experiencing a web accessibility issue, please contact us by emailing [web@CalLutheran.edu](mailto:web@CalLutheran.edu). 
 
 ###### Information Security
 
@@ -187,11 +187,11 @@ Our Sites may contain links to third party websites. This privacy policy does no
 
 ###### Copyright Infringement
 
-Cal Lutheran complies with Title II of the Digital Millennium Copyright Act (DMCA). Please submit claims of copyright infringement for the Cal Lutheran domain, callutheran.edu, to [domainadmin@CalLutheran.edu](mailto:domainadmin@callutheran.edu).
+Cal Lutheran complies with Title II of the Digital Millennium Copyright Act (DMCA). Please submit claims of copyright infringement for the Cal Lutheran domain, callutheran.edu, to [domainadmin@CalLutheran.edu](mailto:domainadmin@CalLutheran.edu).
 
 ###### Contact Us
 
-If you have questions about this privacy statement or you believe that your personal information has been misused or released without your consent, please send an e-mail to [privacy@CalLutheran.edu](mailto:privacy@callutheran.edu).
+If you have questions about this privacy statement or you believe that your personal information has been misused or released without your consent, please send an e-mail to [privacy@CalLutheran.edu](mailto:privacy@CalLutheran.edu).
 
 Consent
 
