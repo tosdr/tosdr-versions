@@ -50,7 +50,7 @@ You can decide whether or not to accept Cookies. One way you can do this is thro
 
 To explore what Cookie setting are available to you, look in the "preferences" or "options" section of your browser's menu.
 
-If you have any queries regarding this Cookie Policy please contact us at [privacy+cookies@brilliant.org](mailto:privacy%2Bcookies@brilliant.org).
+If you have any queries regarding this Cookie Policy please contact us at [privacy+cookies@brilliant.org](mailto:privacy+cookies@brilliant.org).
 
 [Practice math and science questions on the Brilliant iOS app.](https://itunes.apple.com/app/apple-store/id913335252?pt=105095803&ct=brilliant_website_footer&mt=8) [Practice math and science questions on the Brilliant Android app.](https://play.google.com/store/apps/details?id=org.brilliant.android&referrer=utm_source%3Dbrilliant%26utm_medium%3Dsite%26utm_campaign%3Dplaystore_full_footer_icon)
 
