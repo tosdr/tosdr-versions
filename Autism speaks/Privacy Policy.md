@@ -12,10 +12,10 @@
 * [Common misconceptions](https://www.autismspeaks.org/autism-speaks-controversy)
 * [Blog](https://www.autismspeaks.org/blog "Autism Speaks Blogs")
 * [Events](https://www.autismspeaks.org/events "Events")
-* [Careers](https://www.autismspeaks.org/autism-speaks-careers "Join our team!")
+* [Careers](https://www.autismspeaks.org/careers "Join our team!")
 * Set Your Location
 
-* [What is autism?](https://www.autismspeaks.org/what-is-autism "What is autism?")
+* [What is autism?](https://www.autismspeaks.org/what-autism "What is autism?")
     
     * [Learn the signs](https://www.autismspeaks.org/signs-autism "Learn the signs of autism")
     * [Symptoms of autism](https://www.autismspeaks.org/autism-symptoms "What are the symptoms of autism?")
@@ -27,12 +27,12 @@
     * [Screening questionnaire](https://www.autismspeaks.org/screen-your-child "Screen your child")
     * [First Concern to Action](https://www.autismspeaks.org/first-concern-action "First steps. Start here.")
     * [Autism diagnostic criteria: DSM-5](https://www.autismspeaks.org/autism-diagnostic-criteria-dsm-5 "What are the DSM-5 diagnostic criteria for autism?")
-    * [Newly diagnosed](https://www.autismspeaks.org/new-autism-diagnosis "New autism diagnosis?")
+    * [Newly diagnosed](https://www.autismspeaks.org/newly-diagnosed "New autism diagnosis?")
     
     * [Associated conditions](https://www.autismspeaks.org/medical-conditions-associated-autism "Medical conditions associated with autism")
     * [Sensory issues](https://www.autismspeaks.org/sensory-issues "Sensory issues")
     
-    * [Interventions](https://www.autismspeaks.org/autism-therapies "Intervention strategies & treatments")
+    * [Interventions](https://www.autismspeaks.org/autism-therapies-support "Intervention strategies & treatments")
     * [Access services](https://www.autismspeaks.org/access-services "Access autism services")
     * [Insurance](https://www.autismspeaks.org/health-insurance "Health insurance coverage for autism")
     * [Caregiver Skills Training (CST)](https://www.autismspeaks.org/caregiver-skills-training-program)
@@ -45,14 +45,12 @@
     
     * [Resource Guide](https://www.autismspeaks.org/resource-guide "Find providers near you")
     
-    * [Autism Response Team](https://www.autismspeaks.org/autism-response-team "Autism Speaks Autism Response Team (ART)")
+    * [Autism Response Team](https://www.autismspeaks.org/autism-response-team-art "Autism Speaks Autism Response Team (ART)")
     
 * [Our work](https://www.autismspeaks.org/our-work "Our work")
     
     * [Our mission](https://www.autismspeaks.org/our-mission "Autism Speaks mission")
     * [Our impact](https://www.autismspeaks.org/our-impact)
-    
-    * [News](https://www.autismspeaks.org/articles?article_type%5B981%5D=981&article_type%5B2181%5D=2181&article_type%5B2186%5D=2186&article_type%5B986%5D=986 "All the latest news that matters to our community")
     
     * [Our grantmaking](https://www.autismspeaks.org/autism-speaks-grants "Autism Speaks grants programs")
     
@@ -64,6 +62,7 @@
     * [Fundraising & events](https://www.autismspeaks.org/fundraising-events "Fundraise for Autism Speaks")
     * [Walk](https://act.autismspeaks.org/site/SPageServer?pagename=walk_homepage&s_src=AutismSpeaks.org&s_subsrc=MainNav "Autism Speaks Walk")
     * [TeamUp](https://act.autismspeaks.org/site/SPageNavigator/teamup_home.html "TeamUp with Autism Speaks")
+    * [World Autism Month](https://www.autismspeaks.org/world-autism-month)
     * [Social fundraising](https://www.autismspeaks.org/social-fundraising "Fundraise or donate on social media")
     
     * [Ways to give](https://www.autismspeaks.org/donate-to-autism-speaks "Ways to give to Autism Speaks")
@@ -88,7 +87,7 @@
     
 * [Donate](https://autismspeaks.donorsupport.co/-/XHGEUVBH)
 
-* [What is autism?](https://www.autismspeaks.org/what-is-autism "What is autism?")
+* [What is autism?](https://www.autismspeaks.org/what-autism "What is autism?")
     
     * [Learn the signs](https://www.autismspeaks.org/signs-autism "Learn the signs of autism")
     * [Symptoms of autism](https://www.autismspeaks.org/autism-symptoms "What are the symptoms of autism?")
@@ -100,12 +99,12 @@
     * [Screening questionnaire](https://www.autismspeaks.org/screen-your-child "Screen your child")
     * [First Concern to Action](https://www.autismspeaks.org/first-concern-action "First steps. Start here.")
     * [Autism diagnostic criteria: DSM-5](https://www.autismspeaks.org/autism-diagnostic-criteria-dsm-5 "What are the DSM-5 diagnostic criteria for autism?")
-    * [Newly diagnosed](https://www.autismspeaks.org/new-autism-diagnosis "New autism diagnosis?")
+    * [Newly diagnosed](https://www.autismspeaks.org/newly-diagnosed "New autism diagnosis?")
     
     * [Associated conditions](https://www.autismspeaks.org/medical-conditions-associated-autism "Medical conditions associated with autism")
     * [Sensory issues](https://www.autismspeaks.org/sensory-issues "Sensory issues")
     
-    * [Interventions](https://www.autismspeaks.org/autism-therapies "Intervention strategies & treatments")
+    * [Interventions](https://www.autismspeaks.org/autism-therapies-support "Intervention strategies & treatments")
     * [Access services](https://www.autismspeaks.org/access-services "Access autism services")
     * [Insurance](https://www.autismspeaks.org/health-insurance "Health insurance coverage for autism")
     * [Caregiver Skills Training (CST)](https://www.autismspeaks.org/caregiver-skills-training-program)
@@ -118,14 +117,12 @@
     
     * [Resource Guide](https://www.autismspeaks.org/resource-guide "Find providers near you")
     
-    * [Autism Response Team](https://www.autismspeaks.org/autism-response-team "Autism Speaks Autism Response Team (ART)")
+    * [Autism Response Team](https://www.autismspeaks.org/autism-response-team-art "Autism Speaks Autism Response Team (ART)")
     
 * [Our work](https://www.autismspeaks.org/our-work "Our work")
     
     * [Our mission](https://www.autismspeaks.org/our-mission "Autism Speaks mission")
     * [Our impact](https://www.autismspeaks.org/our-impact)
-    
-    * [News](https://www.autismspeaks.org/articles?article_type%5B981%5D=981&article_type%5B2181%5D=2181&article_type%5B2186%5D=2186&article_type%5B986%5D=986 "All the latest news that matters to our community")
     
     * [Our grantmaking](https://www.autismspeaks.org/autism-speaks-grants "Autism Speaks grants programs")
     
@@ -137,6 +134,7 @@
     * [Fundraising & events](https://www.autismspeaks.org/fundraising-events "Fundraise for Autism Speaks")
     * [Walk](https://act.autismspeaks.org/site/SPageServer?pagename=walk_homepage&s_src=AutismSpeaks.org&s_subsrc=MainNav "Autism Speaks Walk")
     * [TeamUp](https://act.autismspeaks.org/site/SPageNavigator/teamup_home.html "TeamUp with Autism Speaks")
+    * [World Autism Month](https://www.autismspeaks.org/world-autism-month)
     * [Social fundraising](https://www.autismspeaks.org/social-fundraising "Fundraise or donate on social media")
     
     * [Ways to give](https://www.autismspeaks.org/donate-to-autism-speaks "Ways to give to Autism Speaks")
@@ -163,7 +161,7 @@
 * [Common misconceptions](https://www.autismspeaks.org/autism-speaks-controversy)
 * [Blog](https://www.autismspeaks.org/blog)
 * [Events](https://www.autismspeaks.org/events)
-* [Careers](https://www.autismspeaks.org/autism-speaks-careers)
+* [Careers](https://www.autismspeaks.org/careers)
 * [My Autism Guide](https://guide.autismspeaks.org/?utm_source=autismspeaks.org&utm_medium=text-link&utm_campaign=global-nav&utm_term=myautismguide)
 * [Walk](https://act.autismspeaks.org/site/SPageServer?pagename=walk_homepage&s_src=GlobalNav&s_subsrc=AutismSpeaks.org&utm_source=autismspeaks.org&utm_medium=text-link&utm_campaign=global-nav&utm_term=walk)
 * [Donate](https://autismspeaks.donorsupport.co/-/XHGEUVBH)
@@ -290,16 +288,16 @@ To contact us in accordance with Section 7 of this policy, or if you have any fu
 
 _**This policy was updated: February 2024**_
 
-* [What Is autism?](https://www.autismspeaks.org/what-autism "What is autism?")
 * [Help & information](https://www.autismspeaks.org/autism-help-and-information)
 * [Our work](https://www.autismspeaks.org/our-work "Our work")
 * [Get involved](https://www.autismspeaks.org/get-involved)
 * [Community stories](https://www.autismspeaks.org/profile)
 
-* [About us](https://www.autismspeaks.org/about-autism-speaks "About Autism Speaks")
+* [About as](https://www.autismspeaks.org/about-autism-speaks "About Autism Speaks")
 * [Offices](https://www.autismspeaks.org/autism-speaks-locations "Office locations")
-* [Careers](https://www.autismspeaks.org/autism-speaks-careers "Work for Autism Speaks")
+* [Careers](https://www.autismspeaks.org/careers "Work for Autism Speaks")
 * [News](https://www.autismspeaks.org/news "News & Events")
+* [Shop](https://shop.autismspeaks.org/?utm_source=shop.autismspeaks.org&utm_medium=partner&utm_campaign=autism%20speaks%20website&utm_term=&utm_content=footer%20banner)
 
 * [Corporate partners](https://www.autismspeaks.org/corporate-partner)
 * [State fundraising notices](https://www.autismspeaks.org/attorney-general-mandated-state-disclosure "Attorney General mandated state disclosures")
@@ -327,8 +325,8 @@ Follow Us
 * [Contact us](https://www.autismspeaks.org/contact-us "Contact information")
 * [Privacy policy](https://www.autismspeaks.org/privacy-policy "Autism Speaks privacy policy")
 * [Terms of service](https://www.autismspeaks.org/terms-service "Autism Speaks terms of service")
-* [Careers](https://www.autismspeaks.org/autism-speaks-careers "Careers at Autism Speaks")
-* [Grants](https://www.autismspeaks.org/autism-speaks-grants "Autism Speaks Grants")
+* [RSS](https://www.autismspeaks.org/rss.xml "Subscribe to RSS Feed")
+* [Grants](https://www.autismspeaks.org/grants-0 "Autism Speaks Grants")
 
 © 2024 Autism Speaks Inc. 501(c)(3) organization, EIN: 20-2329938.
 
