@@ -1,18 +1,55 @@
-[AEBC Internet Corp.](https://aebc.com/ "AEBC Internet Corp.")
++ TOP MENU
 
-[![AEBC logo white small](https://aebc.com/wp-content/uploads/2024/04/AEBC-logo-white-small.png)](https://aebc.com/)
+* [Cable](https://www.aebc.com/residential-services/high-speed-internet/cable-internet/)
+* [Fiber to Home](https://www.aebc.com/fiber/)
+* [TV Service](https://www.aebc.com/ciphertv/)
+* [Special Offers](https://www.aebc.com/30mbpsplustv/)
+* [Customer Reviews](https://www.aebc.com/customer-reviews/)
+* [Business Services](https://www.aebc.com/commercial-network-services/)
 
-Menu
+* [Special Offers](https://www.aebc.com/30mbpsplustv/)
+* [Customer Reviews](https://www.aebc.com/customer-reviews/)
+* [Support](https://support.aebc.com/)
+* [Account Login](https://myaccount.aebc.com/)
+* [Referral Program](https://www.aebc.com/refer/)
+* [Now Hiring!](https://www.aebc.com/about/careers/)
 
-* [Home](https://aebc.com/)
-* [Network Services](https://aebc.com/network-services/)
-* [IPTV Services](https://aebc.com/iptv-services/)
-* [Support](https://aebc.com/support/)
-* [FAQs](https://aebc.com/faqs/)
-* [Company](https://aebc.com/about/)
+* [Residential](https://www.aebc.com/)
+* [Business](https://www.aebc.com/commercial-network-services/)
 
-Privacy Policy
---------------
+[![AEBC Internet Corp.](//img.aebc.com/uploads/2015/03/logo-red-new-180px1.png)](https://www.aebc.com/)
+
+[](https://twitter.com/aebcinternet "Twitter")[](https://facebook.com/AEBCInternetCorp "Facebook")[](https://www.linkedin.com/company/aebc "Linkedin")[](https://www.youtube.com/aebctv "Youtube")
+
+* [Hardware](#)
+    
+    * [CipherTV Bar](https://www.aebc.com/ciphertv-hardware/)
+    * [CipherTV QAM](https://www.aebc.com/ciphertv-qam/)
+    * [Vilo WiFi Mesh](https://www.aebc.com/vilo-wifi-mesh/)
+    * [High Availability Internet](https://www.aebc.com/high-availability-internet/)
+    
+* Internet
+    
+    * [Home Internet](https://www.aebc.com/home-internet/)
+    * [Fibre to the Business](https://www.aebc.com/fibre-to-the-business/)
+    * [Fibre Buildings](https://www.aebc.com/fiber/)
+    * [Fibre Cities](https://www.aebc.com/fiber-connected-cities/)
+    * [Special Offers](https://www.aebc.com/75mbps-internet-pick-tv/)
+    
+* TV Service
+    
+    * [CipherTV Home Packages](https://www.aebc.com/tv-packages/)
+    * [CipherTV For Hospitality](https://www.aebc.com/ciphertv-qam/)
+    * [Regional Sports Blackouts](https://www.aebc.com/news/blackouts/)
+    
+* [Phone](https://www.aebc.com/voip-phone-service/)
+* [Support](https://support.aebc.com/)
+    
+    * [e911 Update Address](https://e911.aebc.com/Account/UpdateAddress.php)
+    * [Download CipherTV App](https://www.ciphertv.com/app/ciphertv.apk)
+    * [Blog](https://www.aebc.com/blog/)
+    
+* [Order](https://secure.aebc.com/)
 
 Privacy Policy
 ==============
@@ -170,19 +207,89 @@ Support: 604-288-1089
 
 We take your privacy and security seriously.
 
-##### AEBC Internet and GETUS Communications have merged. For services and end user support, please visit GETUS Communications.
+#### AEBC Contact Info
 
-[getus.ca](https://getus.ca/)
+**AEBC Internet Corporation**
 
-![AEBC logo white small](https://aebc.com/wp-content/uploads/2024/04/AEBC-logo-white-small.png)
+B11 - 970 Burrard Street  
+Vancouver, B.C, Canada, V6Z 2R4
 
-©2024 AEBC Internet Corp – Connecting the Future.
+**Phone** 604-288-1088
 
-Menu
+**Fax** 604-628-0747
 
-* [CRTC License](https://aebc.com/crtc-license/)
-* [Complaints](https://aebc.com/customer-service-commitment/)
-* [Terms and Conditions](https://aebc.com/terms-and-conditions/)
-* [Privacy Policy](https://aebc.com/privacy-policy/)
+**Email [](mailto:cs@aebc.com)** [cs@aebc.com](mailto:cs@aebc.com)
 
-![payment](https://aebc.com/wp-content/uploads/2024/04/payment.png)
+**Office Hours:**  
+Monday to Friday 9:00AM to 5:30PM  
+Pick-up during these hours only
+
+Call us if you have questions on access  
+**604-288-1088** for assistance.
+
+Building Access Instructions
+
+×
+
+Building Access Instructions
+----------------------------
+
+* 1\. In the lobby of our 970 Burrard St. building, please use the right hand side elevator to reach level B (left elevator does not reach level B)
+* 2\. If the right hand elevator is unavailable, please call our office so we may assist you further.
+* 3\. Please note our office hours are M-F 9:00am - 5:30pm
+
+#### AEBC Latest News and Updates
+
+* [Database and Server Administrator](https://www.aebc.com/careers/database-server-administrator/)
+* [Is Business Fibre Optic Internet Worth the Price? Unleashing the Power of Speed](https://www.aebc.com/articles/business-fibre-optic-internet-worth-price-unleashing-power-speed/)
+* [10 Tips and Tricks to Optimize Your Internet Speed and Improve Your Online Experience](https://www.aebc.com/articles/10-tips-tricks-optimize-internet-speed-improve-online-experience/)
+* [What is Business Fibre Optic Internet?](https://www.aebc.com/articles/what-is-business-fibre-optic-internet/)
+* [Switch to AEBC Fibre Internet and Get More of What You Really Want](https://www.aebc.com/articles/switch-aebc-fibre-internet-get-really-want/)
+
+[![business internet fibre](https://www.aebc.com/wp-content/uploads/2023/03/business-internet-fibre.png)](https://www.aebc.com/fibre-to-the-business/)
+
+[![fibre optic internet](https://www.aebc.com/wp-content/uploads/2023/03/fibre-optic-internet.png)](https://www.aebc.com/fiber/)
+
+AEBC Sales Team
+
+**Call [604-288-8388](tel:6042888388)**
+
+Mon-Fri from 9:30am - 5:30pm
+
+sales@aebc.com
+
+Order AEBC Internet Online:
+
+[![check availability](https://www.aebc.com/wp-content/uploads/2015/03/check-address.png)](https://www.aebc.com/check-address-availability/)
+
+Need Technical Support?
+
+**Call [604-288-1089](tel:6042881089)**
+
+Mon-Fri from 8:30am – 11:30pm
+
+tss@aebc.com
+
+[![AEBC Internet Corp.](//static.aebc.com/wp-content/uploads/2015/03/logo-white-120px1.png)](https://www.aebc.com/ "AEBC Internet Corp.")
+
+©2024 AEBC Internet Corp - Connecting the Future.
+
+* [Terms & Conditions](https://www.aebc.com/terms-conditions/)
+* [Privacy Policy](https://www.aebc.com/privacy-policy/)
+* [Careers](https://www.aebc.com/about/careers/)
+* [Company](https://www.aebc.com/about/)
+* [CRTC License](https://www.aebc.com/crtc-license/)
+* [Complaints](https://www.aebc.com/contact-us/customer-service-commitment/)
+* [Contact Us](https://www.aebc.com/contact-us/)
+
+![Payment methods](//static.aebc.com/wp-content/uploads/2015/03/payment.png)
+
+[Call Now Button](tel:+16042888388)
+
+This website uses cookies to improve your experience. We'll assume you're ok with this, but you can opt-out if you wish.[Accept](#) [Read More](https://www.aebc.com/privacy-policy/)
+
+Privacy & Cookies Policy
+
+* [](# "Chinese (Simplified)")
+* [](# "Chinese (Traditional)")
+* [](# "English")
