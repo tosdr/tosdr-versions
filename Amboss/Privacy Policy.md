@@ -1,12 +1,24 @@
-[![Logo Amboss](https://cdn.prod.website-files.com/64f59b196c6b3f1ee358eb8c/65379f02e88836f0f27bc091_ambossLogoDefault.svg)](https://www.amboss.com/us)
+[![Logo Amboss](https://assets-global.website-files.com/64f59b196c6b3f1ee358eb8c/65379f02e88836f0f27bc091_ambossLogoDefault.svg)](https://www.amboss.com/)
 
 Students
 
 [AMBOSS for Students](https://www.amboss.com/us/students)[Study Aid](https://www.amboss.com/us/students/study)[Exam Preparation](https://www.amboss.com/us/students/exams)[Clerkships](https://www.amboss.com/us/students/clerkships)[Student Scores](https://www.amboss.com/us/usmle/scores)[Group Discounts](https://www.amboss.com/us/group-discounts)
 
-[USMLE](https://www.amboss.com/us/usmle)[Step 1](https://www.amboss.com/us/usmle/step1)[Step 2 CK](https://www.amboss.com/us/usmle/step2)[Self-assessment](https://www.amboss.com/us/usmle/self-assessment)[Score Predictor](https://www.amboss.com/us/usmle/score-predictor)
+[USMLE](https://www.amboss.com/us/usmle)[Step 1](https://www.amboss.com/us/usmle/step1)[Step 2 CK](https://www.amboss.com/us/usmle/step2)[Self-assessment](https://www.amboss.com/us/usmle/self-assessment/step2)[Score Predictor](https://www.amboss.com/us/usmle/score-predictor)
 
-[Shelf Exams](https://www.amboss.com/us/shelf)[Surgery](https://www.amboss.com/us/shelf/surgery)[Neurology](https://www.amboss.com/us/shelf/neurology-shelf-exam)[Medicine](https://www.amboss.com/us/shelf/medicine)[Obstetrics & Gynecology](https://www.amboss.com/us/shelf/ob-gyn)[Pediatrics](https://www.amboss.com/us/shelf/pediatrics)[Psychiatry](https://www.amboss.com/us/shelf/psychiatry)
+[Shelf Exams](https://www.amboss.com/us/shelf)
+
+[Psychiatry](https://www.amboss.com/us/shelf/psychiatry)
+
+[Obstetrics & Gynecology](https://www.amboss.com/us/shelf/ob-gyn)
+
+[Pediatrics](https://www.amboss.com/us/shelf/pediatrics)
+
+[Medicine](https://www.amboss.com/us/shelf/medicine)
+
+[Surgery](https://www.amboss.com/us/shelf/surgery)
+
+[Neurology](https://www.amboss.com/us/shelf/neurology)
 
 [Anki](https://www.amboss.com/us/anki)[Anki meets Qbank](https://www.amboss.com/us/anki/qbank)[Crash Course](https://www.amboss.com/us/anki/crash-course)
 
@@ -18,7 +30,7 @@ Clinicians
 
 [Differential Diagnosis](https://www.amboss.com/us/clinicians/differential-diagnosis)[Drug Database](https://www.amboss.com/us/clinicians/drug-database)
 
-[Clinical Calculators](https://www.amboss.com/us/clinicians/clinical-calculators)[USMLE Step 3](https://www.amboss.com/us/clinicians/step3)
+[Clinical Calculators](https://www.amboss.com/us/clinicians/clinical-calculators)[Step 3](https://www.amboss.com/us/clinicians/step3)
 
 [One Minute Telegram](https://www.amboss.com/us/clinicians/one-minute-telegram)[NEJM Knowledge+](https://www.amboss.com/us/clinicians/nejm-knowledge-plus)
 
@@ -30,7 +42,7 @@ Platform
 
 [Mobile Apps](https://www.amboss.com/us/mobile-app)
 
-[Free Chrome Extension](https://chromewebstore.google.com/detail/amboss-medical-knowledge/hnlpidgbnmikgkmccephgaljihheckii?hl=en&pli=1)
+[Love Notes](https://www.amboss.com/us/love-notes)
 
 [Institutions](https://www.amboss.com/us/institutions)[Pricing](https://www.amboss.com/us/pricing)
 
@@ -64,7 +76,7 @@ Torstrasse 19
 [privacy@amboss.com  
 ‍](mailto:privacy@amboss.com)
 
-**Privacy Policy Last Update Date:** May 2024  
+**Privacy Policy Last Update Date:** December 2023  
 ‍
 
 AMBOSS GmbH is a young company providing high quality services for physicians and medical students as well as learning materials. We want you, as a user of our services, to understand how we use information and what options you have to protect your data. We are aware of the importance and sensitivity of your personal data and thank you for your trust. Handling it responsibly is a major concern for us. If you have any questions about this, please do not hesitate to contact us.
@@ -134,7 +146,8 @@ We also use the following content delivery networks:
 
 * Cloudfront: For description see section 4.1.1.
 * Cloudflare: For description see section 4.1.1.
-* Cloudinary: For description see section 4.1.1.
+* Cloudinary: Provider is Cloudinary Ltd, 3400 Central Expy #110, CA Santa Clara, USA. The provider thereby processes the personal data transmitted via the website, e.g. content, usage, meta/communication or contact data in the USA. For more information, please refer to the provider’s privacy policy at https://cloudinary.com/privacy.  
+    ‍
 
 The hosting as well as the use of a content delivery network are technically necessary to provide images and other website resources. The legal basis of the processing is Art. 6 para. 1 lit. b GDPR.  
 ‍
@@ -257,8 +270,6 @@ We use Braze from the company of the same name Braze, Inc, 330 W 34th St 18th fl
 
 We use Braze to send important messages relevant to the contract as well as to display notifications in the registered area of the website. Furthermore, we use Braze to communicate offers and relevant information about the use of the services.
 
-‍
-
 There is a data transfer to third countries (United States of America).
 
 Further information is available in the provider’s privacy policy at https://www.braze.com/company/legal/privacy.  
@@ -269,8 +280,12 @@ Further information is available in the provider’s privacy policy at https://w
 We use Cloudflare from the company of the same name, Cloudflare, Inc, 101 Townsend St., San Francisco, CA 94107, USA. The provider processes the personal data transmitted via the website, e.g. content, usage, meta/communication or contact data.  
 
 We use Cloudflare to deliver content such as images faster to the user in the respective geographical region, to ensure the accessibility of our website and to provide security functions to protect our website from attacks.   
-There is a data transfer to third countries (United States of America).  
-Further information can be found in the provider's privacy policy at https://www.cloudflare.com/privacypolicy/.
+‍
+
+There is a data transfer to third countries (United States of America).
+
+‍  
+Further information can be found in the provider's privacy policy at https://www.cloudflare.com/privacypolicy/
 
 ‍
 
@@ -280,23 +295,7 @@ We use CloudFront from Amazon Web Services EMEA SARL, 38 Avenue John F. Kennedy,
 
 We use Cloudfront to deliver content such as images more quickly to users in the relevant geographic region, to ensure the accessibility of our service, and to provide security features to protect our website from attack.
 
-There is a data transfer to third countries (United States of America)
-
 Further information is available in the provider’s privacy policy at https://aws.amazon.com/de/privacy/.
-
-‍
-
-**Cloudinary**
-
-We use Cloudinary from Cloudinary Ltd, 3400 Central Expy #110, CA Santa Clara, USA. The provider processes the personal data transmitted via the website or other offers, e.g. content, usage, meta/communication data or contact data.
-
-We use Cloudinary to deliver content such as images faster to the user in the respective geographical region, to ensure the accessibility of our offer and to provide security functions to protect our website from attacks.
-
-Data is transferred to third countries (United States of America).
-
-Further information can be found in the provider's privacy policy at https://cloudinary.com/privacy.
-
-‍
 
 ‍
 
@@ -319,8 +318,6 @@ Further information is available in the provider’s privacy policy at https://w
 We process meta/communication data (e.g. device information, IP addresses).The legal basis for the processing is Art. 6 para. 1 s. 1 lit. f GDPR. We have a legitimate interest to use affordable and easy-to-display fonts.
 
 Further information is available in the provider’s privacy policy at https://policies.google.com/privacy?hl=en-US.
-
-‍
 
 **Hubspot**
 
@@ -393,7 +390,7 @@ Further information is available in the provider’s privacy policy at https://w
 
 ‍
 
-4.1.2 Opt-in technologies
+4.1.1 Opt-in technologies
 
 Unless expressly stated below, the third-party providers specified in this section also use the data processed by you for their own purposes. Details on this can be found in the privacy statements of the providers.
 
@@ -451,14 +448,14 @@ We use Google Tag Manager to integrate Google Analytics in a data-saving way and
 
 There is a data transfer to third countries (United States of America).
 
-Further information is available in the provider’s privacy policy at https://policies.google.com/privacy.
+Further information is available in the provider’s privacy policy at [https://policies.google.com/privacy](https://policies.google.com/privacy).
 
 **  
 Hotjar**
 
 We use the web analytics service Hotjar provided by Hotjar Ltd, Level 2, St Julian’s Business Centre, 3, Elia Zammit Street, St Julian’s STJ 1000, Malta (hereinafter “Hotjar”). The provider processes on our behalf and not for its own purposes the activity of the site visitor (e.g., which pages he visited and on which elements he clicked), device and browser information (especially the IP address and operating system) and a tracking code in the form of a pseudonymized user ID. The information collected in this way is transmitted by Hotjar to a server in Ireland and stored there anonymously.
 
-Further information is available in the provider’s privacy policy at https://www.hotjar.com/legal/policies/privacy.
+Further information is available in the provider’s privacy policy at [https://www.hotjar.com/legal/policies/privacy](https://www.hotjar.com/legal/policies/privacy).
 
 **  
 LinkedIn Insight-Tag**
@@ -503,8 +500,6 @@ For the optimization of our website we use the tool Optimizely from the company 
 
 Further information is available in the provider’s privacy policy at [https://www.optimizely.com/legal/privacy-policy/](https://www.optimizely.com/legal/privacy-policy/).
 
-‍
-
 **Statsig**
 
 We use Statsig for analysis. The provider is Statsig Inc, 14725 SE 36th St #200, Bellevue, WA 98006, United States. The provider processes usage data (e.g. websites visited, interest in content, access times) and meta/communication data (e.g. device information, IP addresses).
@@ -547,11 +542,7 @@ There is a data transfer to third countries (United States of America).
 
 Further information is available in the provider’s privacy policy at https://policies.google.com/privacy.
 
-‍
-
 4.2 Native mobile apps on iOS and Android
-
-‍
 
 In addition to the technologies presented below, native mobile applications also use the following technologies, which are already described in Section 4.1:
 
@@ -651,8 +642,6 @@ You only need to provide the personal data that is required for the establishmen
   
 As a matter of principle, we do not use fully automated decision-making pursuant to Art. 22 GDPR. Should we use these procedures in individual cases, we will inform about this separately.
 
-‍
-
 ### **9\. United States privacy disclosures**
 
 9.1 Personal data collection
@@ -731,7 +720,7 @@ AMBOSS
 
 Company
 
-[About Us](https://www.amboss.com/us/about)[Advisory Board](https://www.amboss.com/us/advisory-board)[Careers](https://careers.amboss.com/)[Blog](https://blog.amboss.com/us)[Love Notes](https://www.amboss.com/us/love-notes)
+[About Us](https://www.amboss.com/us/about)[Advisory Board](https://www.amboss.com/us/advisory-board)[Careers](https://careers.amboss.com/)[Blog](https://blog.amboss.com/us)
 
 LEGAL
 
@@ -743,7 +732,7 @@ LEGAL
 
 [Job Applicants Privacy Note](https://www.amboss.com/us/legal/applicants)
 
-[General Terms of Use](https://www.amboss.com/us/legal/terms)
+[Terms & Conditions](https://www.amboss.com/us/legal/terms)
 
 [Legal Notice](https://www.amboss.com/us/legal/legal-notice)
 
@@ -753,31 +742,31 @@ Support
 
 [Help Center](https://support.amboss.com/hc/en-us)
 
-[![Youtube Icon](https://cdn.prod.website-files.com/64f59b196c6b3f1ee358eb8c/653a39ee2cbf8958aa646ec1_ic_youtube.svg)](https://www.youtube.com/channel/UC8xEQrU6VhJU6pDZd-GkJWg)[![Facebook Icon](https://cdn.prod.website-files.com/64f59b196c6b3f1ee358eb8c/653a39c2eeafa91f0e0adf3e_ic_facebook.svg)](https://www.facebook.com/amboss.med)[![Instagram Icon](https://cdn.prod.website-files.com/64f59b196c6b3f1ee358eb8c/653a39fe186416d039605ce9_ic_instagram.svg)](https://www.instagram.com/amboss_med/)[![](https://cdn.prod.website-files.com/64f59b196c6b3f1ee358eb8c/65707e43a19e12214355d453_logo-black.png)](https://twitter.com/ambossmed)[![LinkedIn Icon](https://cdn.prod.website-files.com/64f59b196c6b3f1ee358eb8c/653a3a0f24f41929faaea491_ic_linkedin.svg)](https://www.linkedin.com/company/amboss-md/)[![TikTok Icon](https://cdn.prod.website-files.com/64f59b196c6b3f1ee358eb8c/653a3a1e19cce92fb50122a5_ic_tiktok.svg)](https://www.tiktok.com/@amboss_med)
+[![Youtube Icon](https://assets-global.website-files.com/64f59b196c6b3f1ee358eb8c/653a39ee2cbf8958aa646ec1_ic_youtube.svg)](https://www.youtube.com/channel/UC8xEQrU6VhJU6pDZd-GkJWg)[![Facebook Icon](https://assets-global.website-files.com/64f59b196c6b3f1ee358eb8c/653a39c2eeafa91f0e0adf3e_ic_facebook.svg)](https://www.facebook.com/amboss.med)[![Instagram Icon](https://assets-global.website-files.com/64f59b196c6b3f1ee358eb8c/653a39fe186416d039605ce9_ic_instagram.svg)](https://www.instagram.com/amboss_med/)[![](https://assets-global.website-files.com/64f59b196c6b3f1ee358eb8c/65707e43a19e12214355d453_logo-black.png)](https://twitter.com/ambossmed)[![LinkedIn Icon](https://assets-global.website-files.com/64f59b196c6b3f1ee358eb8c/653a3a0f24f41929faaea491_ic_linkedin.svg)](https://www.linkedin.com/company/amboss-md/)[![TikTok Icon](https://assets-global.website-files.com/64f59b196c6b3f1ee358eb8c/653a3a1e19cce92fb50122a5_ic_tiktok.svg)](https://www.tiktok.com/@amboss_med)
 
 ###### DOWNLOAD OUR APP
 
-[![App Store Download Button](https://cdn.prod.website-files.com/64f59b196c6b3f1ee358eb8c/653a3afe3c3d9992e2f4883c_appstoreButton.svg)](https://apps.apple.com/us/app/amboss-medical-knowledge/id1169487026?ls)[![Google Play Download Button](https://cdn.prod.website-files.com/64f59b196c6b3f1ee358eb8c/653a3b0765d89f1e35fd85b7_googleplayButton.svg)](https://play.google.com/store/apps/details?id=com.amboss.medical.knowledge)
+[![App Store Download Button](https://assets-global.website-files.com/64f59b196c6b3f1ee358eb8c/653a3afe3c3d9992e2f4883c_appstoreButton.svg)](https://apps.apple.com/us/app/amboss-medical-knowledge/id1169487026?ls)[![Google Play Download Button](https://assets-global.website-files.com/64f59b196c6b3f1ee358eb8c/653a3b0765d89f1e35fd85b7_googleplayButton.svg)](https://play.google.com/store/apps/details?id=com.amboss.medical.knowledge)
 
-[![Logo Amboss](https://cdn.prod.website-files.com/64f59b196c6b3f1ee358eb8c/65379f02e88836f0f27bc091_ambossLogoDefault.svg)](https://www.amboss.com/)![Amboss Logo](https://cdn.prod.website-files.com/64f59b196c6b3f1ee358eb8c/653a4c1b084dbed7d7c7d5a3_LOGOonly.svg)
+[![Logo Amboss](https://assets-global.website-files.com/64f59b196c6b3f1ee358eb8c/65379f02e88836f0f27bc091_ambossLogoDefault.svg)](https://www.amboss.com/)![Amboss Logo](https://assets-global.website-files.com/64f59b196c6b3f1ee358eb8c/653a4c1b084dbed7d7c7d5a3_LOGOonly.svg)
 
 © 2024 AMBOSS. All rights reserved.
 
-![Icon Globe](https://cdn.prod.website-files.com/64f59b196c6b3f1ee358eb8c/653a49223ccb4674d7d0d36c_ic_globe.svg)
+![Icon Globe](https://assets-global.website-files.com/64f59b196c6b3f1ee358eb8c/653a49223ccb4674d7d0d36c_ic_globe.svg)
 
 US / English
 
 ###### Change Language
 
-[![Icon Globe](https://cdn.prod.website-files.com/64f59b196c6b3f1ee358eb8c/653a49223ccb4674d7d0d36c_ic_globe.svg)
+[![Icon Globe](https://assets-global.website-files.com/64f59b196c6b3f1ee358eb8c/653a49223ccb4674d7d0d36c_ic_globe.svg)
 
-US/ English](https://www.amboss.com/us)[![Icon Globe](https://cdn.prod.website-files.com/64f59b196c6b3f1ee358eb8c/653a49223ccb4674d7d0d36c_ic_globe.svg)
+US/ English](https://www.amboss.com/us)[![Icon Globe](https://assets-global.website-files.com/64f59b196c6b3f1ee358eb8c/653a49223ccb4674d7d0d36c_ic_globe.svg)
 
-DE/ Deutsch](https://www.amboss.com/de)[![Icon Globe](https://cdn.prod.website-files.com/64f59b196c6b3f1ee358eb8c/653a49223ccb4674d7d0d36c_ic_globe.svg)
+DE/ Deutsch](https://www.amboss.com/de)[![Icon Globe](https://assets-global.website-files.com/64f59b196c6b3f1ee358eb8c/653a49223ccb4674d7d0d36c_ic_globe.svg)
 
-INT/ English](https://www.amboss.com/int)[![Icon Globe](https://cdn.prod.website-files.com/64f59b196c6b3f1ee358eb8c/653a49223ccb4674d7d0d36c_ic_globe.svg)
+INT/ English](https://www.amboss.com/int)[![Icon Globe](https://assets-global.website-files.com/64f59b196c6b3f1ee358eb8c/653a49223ccb4674d7d0d36c_ic_globe.svg)
 
-PL/ Polish](https://www.amboss.com/int/pl)[![Icon Globe](https://cdn.prod.website-files.com/64f59b196c6b3f1ee358eb8c/653a49223ccb4674d7d0d36c_ic_globe.svg)
+PL/ Polish](https://www.amboss.com/int/pl)[![Icon Globe](https://assets-global.website-files.com/64f59b196c6b3f1ee358eb8c/653a49223ccb4674d7d0d36c_ic_globe.svg)
 
 PT/ Portuguese](https://www.amboss.com/int/pt)
 
