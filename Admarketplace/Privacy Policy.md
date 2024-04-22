@@ -38,8 +38,6 @@ Employee Spotlight
 
 Honoring the talents, attributes, and wins of the incredible individuals that make up Team AMP.](https://www.admarketplace.com/employee-spotlight)
 
-[IMPACT](https://www.admarketplace.com/impact-2024-conference)
-
 ![](https://assets-global.website-files.com/65a562ed64015224de908a65/65a562ed64015224de908b73_search-white.png)
 
 [Contact Us](#)
