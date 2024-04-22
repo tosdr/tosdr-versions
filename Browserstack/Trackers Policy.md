@@ -1,6 +1,6 @@
-By clicking 'Accept All', you agree to the use of all types of cookies to enhance site navigation. For more information, please visit our [cookie policy](https://www.browserstack.com/cookie-policy).
+We use cookies to enhance user experience. By continuing to browse or closing this banner, you agree to our [Privacy Policy](https://www.browserstack.com/privacy) & [Terms of Service](https://www.browserstack.com/terms).
 
-Accept All Reject All
+Accept All
 
 [Skip to main content](#main-content)
 
@@ -211,32 +211,111 @@ Press
 Cookie Policy
 =============
 
-This site is provided by BrowserStack. BrowserStack (“we”, “us”) uses cookies and similar technologies (jointly referred to as “cookies”) on this site.
+At BrowserStack, we believe in complete transparency when it comes to how we collect and use data related to you. This policy offers detailed information about how and when we use cookies.
 
-This Cookie Policy explains what cookies are, why they are used, and your choices regarding their use.  
-For more information on how BrowserStack Inc processes personal data, please visit BrowserStack’s Privacy Policy [here](https://www.browserstack.com/privacy).
+#### Does BrowserStack use Cookies?
 
-#### **What are cookies?**
+Yes. As mentioned in our [Privacy Policy](https://www.browserstack.com/privacy), we use cookies to help us deliver the best possible user experience. By continuing to visit or use our services, you are agreeing to the use of cookies.
 
-A cookie is a small file placed onto your browser that enables us to enhance your experience on BrowserStack by remembering your preferences. When you visit the site again, the cookie allows that site to recognise your browser. This way, the information you previously provided can be retrieved. Cookies may store user preferences and other information to enhance your experience on the site or be used to track you when you navigate to other sites.
+#### What is a Cookie?
 
-#### **What types of cookies are used on this site?**
+A cookie is a small file placed onto your browser that enables us to enhance your experience on BrowserStack by remembering your preferences.
 
-* Strictly necessary cookies: These cookies are necessary to make the site work properly.
-* Optional cookies: These cookies collect information that is used to help us understand how the site is being used.
+#### What types of cookies does BrowserStack use?
 
-#### **Your control of cookies**
+We use two types: persistent cookies and session cookies. A persistent cookie helps us recognize you as an existing user, so it’s easier to return to BrowserStack or interact with our products without signing in again. After you sign in, a persistent cookie stays in your browser and will be read by us when you return to one of our products. Session cookies only last for as long as the session (usually the current visit to a website or a browser session).
 
-You have the right to decide whether to accept or reject cookies that are not strictly necessary. You can do so by:
+#### What are cookies used for?
 
-* Indicating your preference on the banner that appears when you enter the site\*.
-* Restricting cookies by altering your browser settings. The way in which you can restrict cookies varies from browser to browser. You should therefore visit your web browser’s help menu for more information.
+Cookies can be used to recognize you when you visit BrowserStack, remember your preferences, and give you a personalized experience that’s in line with your settings. Cookies also make your interactions with BrowserStack faster and more secure. Additionally, cookies allow us to bring you advertising off the BrowserStack website, and bring customized features. As of today, BrowserStack does not generally respond to “do not track” signals.
 
-\*This is only applicable for users from the EU and California region.
+#### How are cookies used for advertising purposes?
 
-#### **Contact us**
+Cookies and other ad technology such as beacons, pixels, and tags help us serve relevant ads to you more effectively. They also help us provide aggregated auditing, research, and reporting for advertisers, understand and improve our service, and know when content has been shown to you. Your web browser may request advertisements and beacons directly from third party ad network servers, these networks can view, edit, or set third party cookies, just as if you had requested a web page from their site. Ads served by BrowserStack may also set third party cookies.
 
-If you have any questions about this Cookie Policy, please email us at [**support@browserstack.com**](mailto:support@browserstack.com).
+Unless you clear these cookies from your browser, we may use this information to:
+
+* provide more relevant, interest-based advertising
+* provide aggregate reports of ads activity to advertisers and websites hosting the ads
+* improve our products
+
+#### How can I opt out of targeted advertising?
+
+We use the following services for targeted advertising, you can use the links below to opt out.
+
+* [Google Analytics](https://tools.google.com/dlpage/gaoptout/)
+* [Twitter](https://twitter.com/settings/personalization)
+* [Facebook](https://www.facebook.com/help/247395082112892)
+* [LinkedIn](https://www.linkedin.com/psettings/advertising/actions-that-showed-interest)
+* [Reddit](https://www.reddit.com/personalization/)
+* [Quora](https://www.quora.com/optout)
+
+Further, Our cookie table lists some of the cookies on our website (set by our products or third parties). Please note that the names of cookies, pixels and other technologies may change over time. You can opt-out of our advertising cookies here.
+
+| Cookie Name | Description | Expiration |
+| --- | --- | --- |
+| tracking\_id | We set this when user visits BrowserStack. Used to log any activity related to Pricing. | 5 years |
+| screensizeSet | We set this cookie if user tries to set the screen size when using the Responsive product. | 1 year |
+| screensize | We set this cookie when user tries to start the Live Session on a Real Mobile for the first time. Here, all we ask the user is to feed in the screen size, so that later, we can use it render the real devices in real size to enhance the user’s testing experience. | 1 year |
+| bs\_force\_local | We set this if user enables force-local option from the live dashboard. | 1 year |
+| \_session\_id | Session cookie set by Rails. | Never expires |
+| bs\_local, bs\_local\_hostPort, bs\_local\_originalUrl, bs\_local\_val, bs\_local\_name | We set these Cookies for storing information used for Local Testing. |     |
+| previous\_session\_os | We set this cookie when user starts a session on Live. We set the OS name which user recently started the session on, to enhance the user’s testing experience. | 1 year |
+| history | We set this cookie when user starts a session on Live. We set the the following parameters to enhance user’s testing experience, which are later used to set some default configurations when user visits the Live product next time. | 1 year |
+| dockPosition | We set this cookie when user tries to drag the dock in Live session. The value of this cookie is used to enhance user’s testing experience. We position the dock where the user had dragged in the previous session when he starts a new live session. | Never expires |
+| downtime\_notified | We set this cookie to remember if we showed the scheduled downtime message to the users. Once the user see’s the message, we set this cookie so that we do not show the same notification to the user again on his next visit. | 24 hours |
+| cmd\_tunnel, cmd\_tunnel\_kind, cmd\_tunnel\_type | We set these cookies when user connects Local Binary or Local app. |     |
+| quick\_launch\_extension\_installed | We set this cookie once the user installs our Quick Launch Extension. | 1 year |
+| extension\_started | We set if the Local extension is installed. | 1 year |
+| firefox\_extension\_just\_installed | We set the cookie if the user installed our Firefox extension | 1 year |
+| skipped\_extension\_install\_\* | We set this cookie if user visits the Live dashboard and he skips the Local Extension installation modal. We store the user ID in the place of (\*) in the cookie name. | 1 year |
+| clear-extension-cache | We set this cookie when user adds a new browser to the quick launch. This enables us to clear the cached browsers from the Quick Launch extension and request for the updated ones. | 1 year |
+| bs\_deviceId | We use this for Analytics purpose | 30 days |
+| invite\_users | We store the product names when user tries to invite other users. | 1 year |
+| utm\_params | We use this for analytics related to ads. | 90 days |
+| hideFloatingBanner | We set this cookie to show and hide floating banners from some of our pages. | 1 day |
+| window-width | It is set when user visits BrowserStack dashboard. User’s device screen width is used in determining the header variation. | 1 day |
+| card-update-blocker-interacted | It is set when user interacts with payment update blocker on dashboard. | 5 mins |
+| countExitModal, countExitModal-2 | We set this cookie to count Exit Intent modal window from some of our pages. | 30 days |
+| closeExitModal, closeExitModal-2 | We set this cookie to close Exit Intent modal window some of our pages. | 30 days |
+| closePromoNotification | We set this cookie to hide the promo bar appearing above the header on some of our pages. | 5 days |
+| p\_list, p\_buy, bs\_logging\_id, bs\_group\_id | We set this cookie for analytics purpose. | 90 days |
+| show\_freshchat | We set this cookie whenever a user sees our chat implementation. This is used to track whether the chat was loaded for the user. | 5 years |
+| show\_freshchat\_automate\_dashboard | We set this cookie whenever a user sees our chat implementation. This is used to track whether the chat was loaded for the user. | 1 year |
+| bs\_freshchat\_chat\_initiated | We set this cookie if a freshchat channel has been initiated by the user to keep channels consistent. | 1 year |
+| bs\_chat\_channels | We set this cookie for freshchat channels. | 1 year |
+| eventsForm\_number | We set this cookie to improve user experience after registering the events forms. | 90 days |
+| close\_plan\_banner | We set this cookie to improve user experience after interacting with the Team Lead Banner. | 30 days |
+| contacted\_for\_plan\_banner | We set this cookie to improve user experience after interacting with the Team Lead Banner. | 365 days |
+| ab\_users | This cookie generates a unique ID for every visitor and is used for the report segmentation feature in our Experiment Framework. | 180 days |
+| last\_visited\_product\_page | We set this cookie when user visit any product page. We set the the following parameters to enhance user’s purchase experience. | 30 days |
+| ga\_pa\_status | We set this cookie if the user has a active paid browserstack subscription. | 1 day |
+
+#### Third-party Cookies
+
+| Cookie Name | Description | Expiration | Ownership |
+| --- | --- | --- | --- |
+| \_\_stripe\_mid | This cookie is set by the third party service – Strip, which we use for the payments. More on this at [https://stripe.com/cookies-policy/legal](https://stripe.com/cookies-policy/legal) | 1 year | Stripe |
+| \_ga | This is set by the third party service – Google Analytics for identifying unique sessions. |     | Google Analytics |
+| \_gid | This is set by third party library of Google Analytics. More on use case: [Refer here](https://www.en.advertisercommunity.com/t5/Google-Analytics-Code/Information-about-a-cookie-of-Google-Analytics-named-gid/td-p/1127468) (last answer) |     | Google Analytics |
+| xs, sb, c\_user, datr, pl, dpr, fr, wd, \_fbc, \_fbp | Facebook social plugin which is integrated using Google Tag Manager. It sets these cookies for tracking user conversions on the website. |     | Facebook |
+| 1P\_JAR, APISID, CONSENT, HSID, NID, OTZ, SAPISID, SID, SSID, SIDCC | This is set by Google using Google Tag Manager to track conversions. |     | Google |
+| \_vis\_opt\_test\_cookie | This is a session (temporary) cookie generated to detect if the cookies are enabled on the browser of the user or not. |     | VWO |
+| \_vis\_opt\_s | This cookie detects if the user is new or returning to a particular campaign. | 100 days | VWO |
+| \_vis\_opt\_out | This cookie indicates that the visitor is not a part of the campaign. | 10 years | VWO |
+| \_vis\_opt\_exp\_EXPERIMENT\_ID\_goal\_GOAL\_ID | This cookie is generated when a goal is made. | 100 days | VWO |
+| \_vis\_opt\_exp\_EXPERIMENT\_ID\_combi | This cookie is generated when users reach a particular combination. This makes sure that users see the same variation that they saw earlier when they visited the page. | 100 days | VWO |
+| \_vis\_opt\_exp\_EXPERIMENT\_ID\_exclude | This cookie is generated when a user is excluded from a campaign. | 100 days | VWO |
+| \_vis\_opt\_exp\_EXPERIMENT\_ID\_split | This cookie is generated during a Split URL test. | 100 days | VWO |
+| \_vwo\_uuid | This cookie generates a unique ID for every visitor and is used for the report segmentation feature in VWO. Also, this cookie allows you to view data in a more refined manner. If you have the campaign running on multiple domains, you will notice campaign-specific UUID values. | 100 days | VWO |
+| amplitude\_idatlasbiomed.com | This is set by the third party service – Amplitude to analyze the user behavior within our website and our own products and services. | 10 years | Amplitude |
+| LinkedIn Insights Tag | Linked Insights Tag which is integrated using Google Tag Manager. It sets these cookies for tracking user conversions on the website. |     | LinkedIn |
+| \_uetmsclkid | Bing UET tag which is integrated using Google Tag Manager. It sets this cookie for tracking user conversions on the website. | 90 days | Microsoft Bing |
+| IDE | DoubleClick sets this cookie for tracking user conversions on the website. | 2 years | StackOverflow, DoubleClick |
+| reddaid | Reddit sets this cookie for tracking user conversions on the website. | 2 years | Reddit |
+| m-b | Quora sets this cookie to authenticate users identity to Quora. | 2 years | Quora |
+| \_vwo\_uuid\_v2 | This cookie calculates unique traffic on a website. | 366 days | VWO |
+| ln\_or | LinkedIn Oribi Tag which is used to determine if Oribi analytics can be carried out on a specific domain | 1 day | LinkedIn |
 
 Products
 
@@ -308,78 +387,6 @@ Company
 * [Partners](https://www.browserstack.com/partners)
 * [Press](https://www.browserstack.com/press)
 
-PRODUCTS
-
-* [Live](https://www.browserstack.com/live)
-* [Automate](https://www.browserstack.com/automate)
-* [Automate TurboScale](https://www.browserstack.com/automate-turboscale)
-* [Percy](https://www.browserstack.com/percy-product)
-* [App Live](https://www.browserstack.com/app-live-product)
-* [App Automate](https://www.browserstack.com/app-automate-product)
-* [App Percy](https://www.browserstack.com/app-percy-product)
-* [Test Management](https://www.browserstack.com/test-management)
-* [Test Observability](https://www.browserstack.com/test-observability)
-* [Accessibility Testing](https://www.browserstack.com/app-accessibility-testing)
-* [Accessibility Automation](https://www.browserstack.com/accessibility-automation)
-* [Low Code Automation](https://www.browserstack.com/low-code-automation)
-
-WHY BROWSERSTACK
-
-* [Customers](https://www.browserstack.com/customers)
-* [Case Studies](https://www.browserstack.com/case-study)
-* [Browsers & Devices](https://www.browserstack.com/list-of-browsers-and-platforms/live)
-* [Enterprise](https://www.browserstack.com/enterprise?ref=footer)
-* [Data Centers](https://www.browserstack.com/data-centers)
-* [Real Device Features](https://www.browserstack.com/real-device-features)
-* [Security](https://www.browserstack.com/security)
-
-FREE TOOLS
-
-* [SpeedLab](https://www.browserstack.com/speedlab/home)
-* [Screenshots](https://www.browserstack.com/screenshots)
-* [Responsive](https://www.browserstack.com/responsive)
-* [Nightwatch.js](https://nightwatchjs.org/)
-
-RESOURCES
-
-* [Support](https://www.browserstack.com/support)
-* [Status](https://status.browserstack.com/)
-* [Release Notes](https://www.browserstack.com/release-notes)
-* [Blog](https://www.browserstack.com/blog)
-* [Events](https://www.browserstack.com/events)
-* [Champions](https://www.browserstack.com/browserstack-champions)
-* [Guide](https://www.browserstack.com/guide)
-* [Partners](https://www.browserstack.com/partners)
-* [Find a partner](https://www.browserstack.com/partners/find-a-partner)
-* [Test University Beta](https://www.browserstack.com/test-university)
-
-COMPANY
-
-* [About Us](https://www.browserstack.com/company)
-* [Careers](https://www.browserstack.com/careers)
-* [Open Source](https://www.browserstack.com/open-source)
-* [Press](https://www.browserstack.com/press)
-* [NewsLetter](https://www.browserstack.com/blog/tag/newsletter)
-
-More Resources
-
-* [Cross Browser Testing](https://www.browserstack.com/cross-browser-testing)
-* [Selenium](https://www.browserstack.com/selenium)
-* [Test Management](https://www.browserstack.com/test-management/what-is-test-management)
-* [Emulators vs Real Device](https://www.browserstack.com/emulators-simulators)
-* [Mobile App Testing](https://www.browserstack.com/mobile-app-testing)
-
-Test on Devices
-
-* [Test on iPhone](https://www.browserstack.com/test-on-iphone)
-* [Test on iPad](https://www.browserstack.com/test-on-ipad)
-* [Test on Galaxy](https://www.browserstack.com/test-on-galaxy)
-* [Test In IE](https://www.browserstack.com/test-in-internet-explorer)
-* [Test on Android](https://www.browserstack.com/android-testing)
-* [Test on iOS](https://www.browserstack.com/ios-testing)
-* [Test on Right Devices](https://www.browserstack.com/test-on-the-right-mobile-devices)
-* [Mobile Emulators](https://www.browserstack.com/mobile-browser-emulator)
-
 [![BrowserStack Logo](data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAzIDInPjwvc3ZnPg==)
 
 ![BrowserStack Logo](https://browserstack.wpenginepowered.com/wp-content/themes/browserstack/img/bstack-logo-global.svg)](https://www.browserstack.com/ "BrowserStack Logo")
@@ -408,9 +415,3 @@ Social
 ![](https://browserstack.wpenginepowered.com/wp-content/uploads/2021/03/chat-icon.svg "chat-icon")
 
 Talk to an Expert
-
-Your business email\*
-
- 
-
-Provide your business email to continue
