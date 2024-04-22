@@ -1,0 +1,1 @@
+![Art Closed](http://cache1.artprintimages.com/images/art_intl/art_closed.jpg)
