@@ -104,9 +104,9 @@
     * [Developer Hub](https://dev.appsflyer.com/)
     * [Learning portal](https://elevate.appsflyer.com/learn/signin)
     
-    [![](/wp-content/uploads/2024/05/image-1-1.png)](https://www.appsflyer.com/resources/reports/creative-optimization)
+    [![](/wp-content/uploads/2024/03/52676.-DMA-hub_header-menu-img.png)](https://www.appsflyer.com/hubs/dma/)
     
-    [New data on AI-driven creative](https://www.appsflyer.com/resources/reports/creative-optimization)
+    [Keep up with the new EU regulation](https://www.appsflyer.com/hubs/dma)
     
 * [Company](# "Company")
     
@@ -266,4 +266,4 @@ Capitalized terms herein that are undefined shall have the meaning ascribed to t
 * [Terms](https://www.appsflyer.com/legal/site-terms/)
 * [Privacy policy](https://www.appsflyer.com/legal/privacy-policy/)
 
-©2024 AppsFlyer Ltd. All rights reserved.
+©2024 AppsFlyer Ltd. All right reserved.
