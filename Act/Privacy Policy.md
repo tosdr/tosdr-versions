@@ -62,7 +62,7 @@ Main Notice
 
 **Scope of this Notice**
 
-At ACT\* (“ACT,” “we,” “us”) we recognize the importance of protecting the privacy of your personal information.
+At ACT, Inc. (“ACT,” “we,” “us”) we recognize the importance of protecting the privacy of your personal information.
 
 This Notice explains how ACT collects, uses, maintains, and shares your information when you:
 
@@ -248,9 +248,7 @@ ACT collects your personal information so that we can use the information as des
 
 ACT may use automated means to make decisions about you, including scoring assessments, assigning you a testing location, and carrying out test security. ACT will only use such automated means as (1) necessary for the performance of its contract with you to provide the ACT Products, or (2) as explicitly consented to by you.
 
-\*Impact Asset Corp., a Delaware Corporation and wholly owned indirect subsidiary of Gateway Impact Corp., a Delaware Public Benefit Corporation (“ACT”)
-
-_Last Updated: May 1, 2024_
+_Last Updated: June 25, 2023_
 
 [![Link to Home Page](/etc/designs/act/clientlibs/act-base/img/logo-act-rev-300.png)](https://www.act.org/)
 
@@ -272,7 +270,7 @@ _Last Updated: May 1, 2024_
 * [Sign In](https://www.act.org/content/act/en/sign-in.html)
 * [Contact](https://www.act.org/content/act/en/contact-act.html)
 
-© by ACT Education Corp. All rights reserved. [Terms of Use](https://www.act.org/content/act/en/terms-of-use.html)
+© by ACT, Inc. [Terms of Use](https://www.act.org/content/act/en/terms-of-use.html)
 
 * [Instgram](https://www.instagram.com/actstudent/)
 * [Tik Tok](https://www.tiktok.com/@actstudent)
