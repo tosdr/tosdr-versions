@@ -724,7 +724,7 @@ Navigation skipped
 
 [canada deposit insurance corporation
 
-![](/dist/icons/cdic.svg)](https://www.cdic.ca/depositors/list-of-members/)[cdic protecting your deposits pdf
+![](/dist/icons/cdic.svg)](https://www.cdic.ca/your-coverage/list-of-member-institutions/)[cdic protecting your deposits pdf
 
 ![](/dist/icons/cdic-online-badge.svg)](https://www.cdic.ca/wp-content/uploads/cdic-abbreviated-brochure-en.pdf)
 
