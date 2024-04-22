@@ -10,7 +10,11 @@ Privacy Policy
 
  
 
-* [English](https://documentation.abinteractive.net/official/legal/privacy-policy/)
+* [English](https://documentation.abinteractive.net/)
+
+[](javascript:void(0))
+
+Initializing search
 
 * [Home](https://documentation.abinteractive.net/)
 * [Official](https://documentation.abinteractive.net/official/)
@@ -117,7 +121,6 @@ Privacy Policy
     CCK
     
     * [Setup Unity and CCK](https://documentation.abinteractive.net/cck/setup/)
-    * [Supported Third Party Assets](https://documentation.abinteractive.net/cck/third-party-assets/)
     * [Content Tags](https://documentation.abinteractive.net/cck/content-tags/)
     * [ ] 
         
@@ -181,48 +184,11 @@ Privacy Policy
         * [CVR Video Player](https://documentation.abinteractive.net/cck/components/video-player/)
         * [CVR World](https://documentation.abinteractive.net/cck/components/world/)
         
-    * [ ] 
-        
-        [Lua Scripting](https://documentation.abinteractive.net/cck/lua/)
-        
-        Lua Scripting
-        
-        * [Getting Started with Lua](https://documentation.abinteractive.net/cck/lua/getting-started/)
-        * [Hello World for Lua](https://documentation.abinteractive.net/cck/lua/hello-world/)
-        * [A Word on Security](https://documentation.abinteractive.net/cck/lua/security/)
-        * [ ] 
-            
-            [API Reference](https://documentation.abinteractive.net/cck/lua/api/)
-            
-            API Reference
-            
-            * [Globals](https://documentation.abinteractive.net/cck/lua/api/globals/)
-            * [Callbacks](https://documentation.abinteractive.net/cck/lua/api/callbacks/)
-            * [InstancesAPI](https://documentation.abinteractive.net/cck/lua/api/instances-api/)
-            * [PlayerAPI](https://documentation.abinteractive.net/cck/lua/api/player-api/)
-            * [AvatarAPI](https://documentation.abinteractive.net/cck/lua/api/avatar-api/)
-            
-        * [ ] 
-            
-            [Examples](https://documentation.abinteractive.net/cck/lua/examples/)
-            
-            Examples
-            
-            * [Funny Cube](https://documentation.abinteractive.net/cck/lua/examples/funny-cube/)
-            
-        * [ ] 
-            
-            [Recipes](https://documentation.abinteractive.net/cck/lua/recipes/)
-            
-            Recipes
-            
-            * [How to get Players in an Instance](https://documentation.abinteractive.net/cck/lua/recipes/getting-users/)
-            
-        
     * [ ]  Examples
         
         Examples
         
+        * [Animator driver](https://documentation.abinteractive.net/cck/examples/animator-driver/)
         * [CVR Attachment](https://documentation.abinteractive.net/cck/examples/attachment/)
         
     * [FAQ](https://documentation.abinteractive.net/cck/faq/)
@@ -395,7 +361,7 @@ We may change this Privacy Policy from time to time. If we make a material chang
 
 If you have any questions about this Privacy Policy, please contact us by sending e-mail to [\[email protected\]](https://documentation.abinteractive.net/cdn-cgi/l/email-protection). Please note that information you submit through e-mail may not be secure; so please do not include credit card information or other sensitive information in your messages to us.
 
-Back to top
+[Back to top](#)
 
 ![](/assets/images/abi-small-white.png)
 
