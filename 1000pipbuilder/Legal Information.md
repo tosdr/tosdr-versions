@@ -1,4 +1,6 @@
-[![1000Pip Builder logo](https://www.1000pipbuilder.com/wp-content/plugins/new-modules/images/logo.png)](javascript:void(0))
+[![1000Pip Builder logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+
+![1000Pip Builder logo](https://www.1000pipbuilder.com/wp-content/plugins/new-modules/images/logo.png)](javascript:void(0))
 
 * [Home](https://www.1000pipbuilder.com/#home-bnr)
 * [About us](https://www.1000pipbuilder.com/#about-us)
@@ -42,7 +44,7 @@ London, United Kingdom
 
 EMAIL US
 
-[support@1000pipbuilder.com](mailto:someone@example.com)
+[traderbob@1000pipbuilder.com](mailto:someone@example.com)
 
 For Product Support, please contact the seller
 
@@ -70,6 +72,6 @@ Warning: It has come to our attention that some people are posing as representat
   
 The 1000pipBuilder.com website uses cookies in order to provide you with the best experience. By visiting our website with your browser set to allow cookies, or by accepting our Cookie Policy notification you consent to our Privacy Policy, which details our Cookie Policy.
 
-© 2024 All Rights Reserved
+© 2023 All Rights Reserved
 
 [](https://www.facebook.com/ForexSignalsPB/)[](https://www.linkedin.com/company/1000pip-builder/)[](https://twitter.com/TopForexSignal1)
