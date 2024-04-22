@@ -74,7 +74,7 @@ FAQ
 
 [Contact](https://www.401gold.ca/contact/)
 
-[CHECKOUT](http:///)[VIEW CART](http:///)
+[CHECKOUT](http://)[VIEW CART](http://)
 
 [(416) 756-0401](tel:4167560401)
 
