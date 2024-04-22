@@ -63,7 +63,7 @@ Main Content
 
 [Back to the homepage](https://www.101soundboards.com/)
 
-[Site Status](https://101soundboards.statuspage.io/) [Help](#help) [About](#about) [Disclaimer](#disclaimer) [Privacy](#privacy) [Contact](https://www.101soundboards.com/pages/contact) [Donate](https://www.101soundboards.com/pages/support) [Feature Suggestions & Bugs](https://101soundboards.canny.io/feature-requests)
+[Site Status](https://101soundboards.statuspage.io/) [Help](#help) [About](#about) [Disclaimer](#disclaimer) [Privacy & Terms](#privacy) [Contact](https://www.101soundboards.com/pages/contact) [Donate](https://www.101soundboards.com/pages/support) [Feature Suggestions & Bugs](https://101soundboards.canny.io/feature-requests)
 
   
 
@@ -362,6 +362,16 @@ Service and its original content (excluding Content provided by users), features
 ##### Communications
 
 By creating an Account on our Service, you agree to subscribe to newsletters, marketing or promotional materials and other information we may send. However, you may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or by emailing at.
+
+##### User Content and A.I. Generated Content
+
+We do not condone the use of the web site for any type of impersonation, deception, slur, abuse, or mistreatment of any individual or group. Moreover, we do not allow the use of our service in such a way that it violates any law.
+
+Do not engage in unlawful activity or attempt to impersonate any person, company, or other entity. All published usages of A.I. generated content must be labelled as a "deep fake".
+
+You are responsible for what you post, create, request, or upload: By sending us Submissions through any part of the Services you: confirm that you will not post, send, publish, upload, or transmit through the Services any Submission that is illegal, harassing, hateful, harmful, defamatory, obscene, bullying, abusive, discriminatory, threatening to any person or group, sexually explicit, false, inaccurate, deceitful, or misleading; to the extent permissible by applicable law, waive any and all moral rights to any such Submission; warrant that any such Submission are original to you or that you have the necessary rights and licenses to submit such Submissions and that you have full authority to grant us the above-mentioned rights in relation to your Submissions; and warrant and represent that your Submissions do not constitute confidential information.
+
+You are solely responsible for your Submissions and you expressly agree to reimburse us for any and all losses that we may suffer because of your breach of (a) this section, (b) any third party’s intellectual property rights, or (c) applicable law.
 
 ##### California Consumer Privacy Act (“CCPA”)
 
