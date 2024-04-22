@@ -308,7 +308,7 @@
     
     * [Artificial Intelligence](https://www.bain.com/insights/topics/ai/)
     * [Managing Inflation](https://www.bain.com/insights/topics/inflation/)
-    * [Thriving Amid Volatility](https://www.bain.com/insights/topics/volatility/)
+    * [Recession Strategies](https://www.bain.com/insights/topics/recession-strategies/)
     * [The Talent Imperative](https://www.bain.com/insights/topics/ceo-agenda/talent/)
     * [Macro Trends](https://www.bain.com/insights/topics/macro-trends/)
     
@@ -692,7 +692,7 @@
         
         * [Artificial Intelligence](https://www.bain.com/insights/topics/ai/)
         * [Managing Inflation](https://www.bain.com/insights/topics/inflation/)
-        * [Thriving Amid Volatility](https://www.bain.com/insights/topics/volatility/)
+        * [Recession Strategies](https://www.bain.com/insights/topics/recession-strategies/)
         * [The Talent Imperative](https://www.bain.com/insights/topics/ceo-agenda/talent/)
         * [Macro Trends](https://www.bain.com/insights/topics/macro-trends/)
         
