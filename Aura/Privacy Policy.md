@@ -1,54 +1,73 @@
 [Skip to main content](#skip-content)
 
-[](https://www.aura.com/)
+[Pricing](https://www.aura.com/pricing)
+
+Features
+
+[Financial Fraud Protection](https://www.aura.com/credit-monitoring)[Identity Theft Protection](https://www.aura.com/identity-theft-protection)[VPN & Online Privacy](https://www.aura.com/vpn)[Antivirus](https://www.aura.com/antivirus)[Password Manager & Smart Vault](https://www.aura.com/password-manager)[Parental Controls & Safe Gaming](https://www.aura.com/parental-controls)[Spam Call Protection](https://www.aura.com/spam-call-message-protection)
+
+Resources
+
+[Customer Service](https://www.aura.com/customer-service)[FAQ](https://www.aura.com/faq)[Help](https://www.aura.com/help)[Digital Security 101](https://www.aura.com/digital-security-101)[Newsroom](https://www.aura.com/press)[Partnerships](https://www.aura.com/partnerships)[Resolution Resources](https://www.aura.com/resolution-resources)
+
+[How Aura Works](https://www.aura.com/aura101)
+
+[Login](https://my.aura.com/sign-in)
+
+[![](https://assets-global.website-files.com/607724b2ae76e535db9552ff/62166e52daff624dc62126e8_call.svg)
+
+Call Us](tel:+1844.918.0658)[844.918.0658](tel:+1844.918.0658)
+
+[Help](https://www.aura.com/help)
 
 [Pricing](https://www.aura.com/pricing)
 
 Features
 
-![](https://assets-global.website-files.com/607724b2ae76e535db9552ff/6217a7163eefc57e4be4c560_chevron_down_small%20(1).svg)
+[](#)[](#)
+
+Resources
+
+[](#)[](#)
+
+[How Aura Works](https://www.aura.com/aura101)
+
+[![Aura Logo](https://assets-global.website-files.com/607724b2ae76e535db9552ff/62165f4202d10a77b94fae6f_name_new.svg)![Aura Logo](https://assets-global.website-files.com/607724b2ae76e535db9552ff/60a19bbfdfec461bee8cfd0b_aura-logo-footer-white.svg)](https://www.aura.com/)
+
+[Sign in](https://my.aura.com/sign-in)
+
+[Help](https://www.aura.com/help)
+
+[Start Free Trial](https://www.aura.com/pricing)[Start Free Trial](https://www.aura.com/pricing)
+
+[Start Free Trial](https://www.aura.com/pricing)
+
+[![](https://assets-global.website-files.com/607724b2ae76e535db9552ff/62166e128912883765dd66e1_close.svg)](#)
 
 [Financial Fraud Protection](https://www.aura.com/credit-monitoring)[Identity Theft Protection](https://www.aura.com/identity-theft-protection)[VPN & Online Privacy](https://www.aura.com/vpn)[Antivirus](https://www.aura.com/antivirus)
 
-[Password Manager & Vault](https://www.aura.com/password-manager)[Parental Controls & Safe Gaming](https://www.aura.com/parental-controls)[Spam Call Protection](https://www.aura.com/spam-call-message-protection)
+[Password Manager & Vault](https://www.aura.com/password-manager)[Parental Controls &  
+Safe Gaming](https://www.aura.com/parental-controls)[Spam Call Protection](https://www.aura.com/spam-call-message-protection)
 
-![](https://assets-global.website-files.com/607724b2ae76e535db9552ff/64e64cdf63f9ecf823fa0f0f_Frame%206960196.svg)
+![](https://assets-global.website-files.com/607724b2ae76e535db9552ff/6602a99f5e5fa99549542e82_gift-aura.svg)
 
 Digital Security 101
 
 Gift Aura
 
-New
-
 Give the gift of safety to your loved ones or a business
 
 [Learn More](https://www.aura.com/gift-aura)
 
-Resources
+[Customer Service](https://www.aura.com/customer-service)[Digital Security 101](https://www.aura.com/digital-security-101)[FAQ](https://www.aura.com/faq)[Newsroom](https://www.aura.com/press)[Help](https://www.aura.com/help)[Partnerships](https://www.aura.com/partnerships)[Resolution Resources](https://www.aura.com/resolution-resources)
 
-![](https://assets-global.website-files.com/607724b2ae76e535db9552ff/6217a7163eefc57e4be4c560_chevron_down_small%20(1).svg)
+![](https://assets-global.website-files.com/607724b2ae76e535db9552ff/64e64dd636f9a574249300d7_DT-image.webp)
 
-[Customer Service](https://www.aura.com/customer-service)[FAQ](https://www.aura.com/faq)[Help](https://www.aura.com/help)[Resolution Resources](https://www.aura.com/resolution-resources)
+The Digital Talk
 
-[Digital Security 101](https://www.aura.com/digital-security-101)[Newsroom](https://www.aura.com/press)[Partnerships](https://www.aura.com/partnerships)[Digital Parenthood](https://www.aura.com/digital-parenthood)
+Your guide to navigating online safety with your kids is here.
 
-![](https://assets-global.website-files.com/607724b2ae76e535db9552ff/663b6ca7f6a1e13713bfad78_digital-parenthood-img.webp)
-
-Digital Parenthood
-
-Expert advice and community support for parents.
-
-[Learn more](https://www.aura.com/digital-parenthood)
-
-[How Aura Works](https://www.aura.com/aura101)
-
-[](https://www.aura.com/)
-
-[Sign in](https://my.aura.com/sign-in)[Help](https://www.aura.com/help)
-
-[Start Free Trial](https://www.aura.com/pricing)
-
-[Start Free Trial](https://www.aura.com/pricing)[Start Free Trial](https://www.aura.com/pricing)
+[Read more](https://www.aura.com/thedigitaltalk)
 
 Privacy Policy
 ==============
