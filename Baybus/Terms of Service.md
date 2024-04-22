@@ -91,34 +91,34 @@ To
 
   Plan Journey    
 
-* [##### Bus Stop Closed Routes 71 & 72b - Otumoetai Road - Brookfield Service Centre
-    
-    Mon 10 Jun 09:00 am - 05:00 pm](https://www.baybus.co.nz/latest-updates/service-updates/bus-stop-closed-routes-71-72b-otumoetai-road-brookfield-service-centre/)
-* [##### Detour Routes 2B, 2W & 5 - Night Closure of Dive Crescent
-    
-    Mon 10 Jun 06:00 pm - Tue 11 Jun 06:00 am](https://www.baybus.co.nz/latest-updates/service-updates/detour-routes-2b-2w-5-night-closure-of-dive-crescent/)
-* [##### Detour Route CT - Closure of Maunganui Road Northbound (between Te Maunga Interchange and Bayfair) (1)
-    
-    Mon 10 Jun 07:00 pm - Tue 11 Jun 05:00 am](https://www.baybus.co.nz/latest-updates/service-updates/detour-route-ct-closure-of-maunganui-road-northbound-between-te-maunga-interchange-and-bayfair-1/)
-* [##### Detour, Bus Stop Closures Route 60 - Long-term Closure of St Andrews Drive Roundabout
-    
-    Now until Mon 02 Sept 06:00 am](https://www.baybus.co.nz/latest-updates/service-updates/detour-bus-stop-closures-route-60-long-term-closure-of-st-andrews-drive-roundabout/)
-* [##### Detour, Bus Stop Closures Route 814a - Long-term Closure of St Andrews Drive Roundabout
-    
-    Now until Mon 02 Sept 06:00 am](https://www.baybus.co.nz/latest-updates/service-updates/detour-bus-stop-closures-route-814a-long-term-closure-of-st-andrews-drive-roundabout/)
-* [##### Detour Routes 62 & 71 - Closure of Bellevue Road (between Sutherland Road & Waihi Road)
-    
-    Now until Fri 14 Jun 05:00 pm](https://www.baybus.co.nz/latest-updates/service-updates/detour-routes-62-71-closure-of-bellevue-road-between-sutherland-road-waihi-road/)
-* [##### Detour Routes 40, 704A, 720, 804A, 811, 901A, 901B, 902, 904A - Closure of Waitaha Road (with temporary stops in place on Welcome Bay Road)
-    
-    Now until Mon 10 Jun 06:00 am](https://www.baybus.co.nz/latest-updates/service-updates/detour-routes-40-704a-720-804a-811-901a-901b-902-904a-closure-of-waitaha-road-with-temporary-stops-in-place-on-welcome-bay-road/)
+* [##### BUS STOP CLOSED - 61 WILLOW STREET - Routes 60, 70, 72a and 72b](https://www.baybus.co.nz/latest-updates/service-updates/bus-stop-closed-61-willow-street-routes-60-70-72a-and-72b/)
+* [##### BUS STOP CLOSED - 61 WILLOW STREET - Routes 2B, 2W, 5 and 101](https://www.baybus.co.nz/latest-updates/service-updates/bus-stop-closed-61-willow-street-routes-2b-2w-5-and-101/)
+* [##### Routes 2 & 5 - Harington Street closed one way. Permanent change.](https://www.baybus.co.nz/latest-updates/service-updates/routes-2-5-harington-street-closed-one-way-permanent-change/)
+* [##### Routes 60, 70, 72A & 72B - Permanent Outbound Detour - From 21 March](https://www.baybus.co.nz/latest-updates/service-updates/routes-60-70-72a-72b-permanent-outbound-detour-from-21-march/)
 * [##### Routes 122 and 135 - Kakahoroa Drive, Whakatane - Detour - Project Future Proof
     
     Now until Wed 31 Jul 08:00 pm](https://www.baybus.co.nz/latest-updates/service-updates/routes-122-and-135-kakahoroa-drive-whakatane-detour-project-future-proof/)
-* [##### Routes 2 & 5 - Harington Street closed one way. Permanent change.](https://www.baybus.co.nz/latest-updates/service-updates/routes-2-5-harington-street-closed-one-way-permanent-change/)
-* [##### Permanent Detour Outbound Service - Routes 60, 70, 72A & 72B](https://www.baybus.co.nz/latest-updates/service-updates/permanent-detour-outbound-service-routes-60-70-72a-72b/)
+* [##### Detour Routes 2 and 5 - Full Closure of Links Avenue - 14 April - 13 May
+    
+    Now until Mon 13 May 06:00 am](https://www.baybus.co.nz/latest-updates/service-updates/detour-routes-2-and-5-full-closure-of-links-avenue-14-april-13-may/)
+* [##### Routes 40, 704A, 720, 804A, 811, 901A, 901B, 902, 904A - Detour in Place - Closure of Waitaha Road (with temporary stops in place on Welcome Bay Road)
+    
+    Now until Mon 10 Jun 06:00 am](https://www.baybus.co.nz/latest-updates/service-updates/routes-40-704a-720-804a-811-901a-901b-902-904a-detour-in-place-closure-of-waitaha-road-with-temporary-stops-in-place-on-welcome-bay-road/)
+* [##### Detour Route 2B - Closure of The Boulevard East, Pāpāmoa - 18 March - 17 May 2024
+    
+    Now until Fri 17 May 12:00 pm](https://www.baybus.co.nz/latest-updates/service-updates/detour-route-2b-closure-of-the-boulevard-east-papamoa-18-march-17-may-2024/)
 * [##### Routes 2B, 2W & 5 - Permanent Outbound Detour - From Monday 08 April](https://www.baybus.co.nz/latest-updates/service-updates/routes-2b-2w-5-permanent-outbound-detour-from-monday-08-april/)
+* [##### Routes 143A, 143B - Permanent Detour - From Monday 08 April](https://www.baybus.co.nz/latest-updates/service-updates/routes-143a-143b-permanent-detour-from-monday-08-april/)
 * [##### Route 101 - Permanent Outbound Detour - From Monday 08 April](https://www.baybus.co.nz/latest-updates/service-updates/route-101-permanent-outbound-detour-from-monday-08-april/)
+* [##### Detour Routes 2B, 2W - Closure of Gravatt Road - 22 - 28 April
+    
+    Now until Sun 28 Apr 06:00 pm](https://www.baybus.co.nz/latest-updates/service-updates/detour-routes-2b-2w-closure-of-gravatt-road-22-28-april/)
+* [##### Detour Routes 2B, 2W, 5, 40, 52X, 80, 81, 101, 102, 103 & 105 - Temporary Closure of Wharf Street & Stand D - 22 - 29 April
+    
+    Now until Mon 29 Apr 06:00 am](https://www.baybus.co.nz/latest-updates/service-updates/detour-routes-2b-2w-5-40-52x-80-81-101-102-103-105-temporary-closure-of-wharf-street-stand-d-22-29-april/)
+* [##### Detour Routes 2B, 2W - Night closure at junction of Domain & Gravatt Roads -21 - 26 April
+    
+    Now until Fri 26 Apr 06:00 am](https://www.baybus.co.nz/latest-updates/service-updates/detour-routes-2b-2w-night-closure-at-junction-of-domain-gravatt-roads-21-26-april/)
 
 Search 
 
