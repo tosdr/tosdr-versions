@@ -124,24 +124,6 @@ The sale, exchange, provision of public access, or disclosure of any information
 News
 ----
 
-* 20-05-2024
-    
-    [22-23.05 support will rarely be online](https://1vpns.com/news/id/188)
-
-* * *
-
-* 01-05-2024
-    
-    [We recommend, cryptopayment gateway Cryptomus](https://1vpns.com/news/id/186)
-
-* * *
-
-* 29-04-2024
-    
-    [New location: Cyprus](https://1vpns.com/news/id/184)
-
-* * *
-
 * 12-04-2024
     
     [Isle of Man](https://1vpns.com/news/id/182)
@@ -151,6 +133,24 @@ News
 * 14-02-2024
     
     [New OpenConnect protocol](https://1vpns.com/news/id/180)
+
+* * *
+
+* 26-01-2024
+    
+    [ShadowSocks port change](https://1vpns.com/news/id/178)
+
+* * *
+
+* 03-01-2024
+    
+    [RU4 server change](https://1vpns.com/news/id/176)
+
+* * *
+
+* 02-12-2023
+    
+    [QuadVPN updated](https://1vpns.com/news/id/174)
 
 * * *
 
