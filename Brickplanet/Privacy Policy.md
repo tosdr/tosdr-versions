@@ -1,5 +1,3 @@
-[www.brickplanet.com/games/476/capture-the-flag](https://www.brickplanet.com/games/476/capture-the-flag)
-
 Privacy Policy
 
 Last Updated: November 8th, 2022
