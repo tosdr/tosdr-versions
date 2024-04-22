@@ -78,9 +78,9 @@
 * [JDSM](https://aadsm.org/journal/current_issue.php)
 * [About](#)
     * [About](https://www.aadsm.org/about.php)
-    * [Bylaws](https://mms.aadsm.org/members/mlogin.php?org_id=ADSM&mc=Y&bounce=https%3A%2F%2Fwww.aadsm.org%2Fbylaws.php)
     * [Board of Directors](https://www.aadsm.org/board_of_directors.php)
-    * [2024-2025 Committees & Task Forces](https://mms.aadsm.org/members/mlogin.php?org_id=ADSM&mc=Y&bounce=https%3A%2F%2Fwww.aadsm.org%2F2024-2025_committees_task_fo.php)
+    * [Bylaws](https://mms.aadsm.org/members/mlogin.php?org_id=ADSM&mc=Y&bounce=https%3A%2F%2Fwww.aadsm.org%2Fbylaws.php)
+    * [2023-2024 Committees & Task Forces](https://mms.aadsm.org/members/mlogin.php?org_id=ADSM&mc=Y&bounce=https%3A%2F%2Fwww.aadsm.org%2F2023-2024_committees_task_fo.php)
     * [News and Updates](https://mms.aadsm.org/news_archive_headlines.php?org_id=ADSM)
 * [Member Login](#)
 
@@ -175,9 +175,9 @@
 * [JDSM](https://aadsm.org/journal/current_issue.php)
 * [About](#)
     * [About](https://www.aadsm.org/about.php)
-    * [Bylaws](https://mms.aadsm.org/members/mlogin.php?org_id=ADSM&mc=Y&bounce=https%3A%2F%2Fwww.aadsm.org%2Fbylaws.php)
     * [Board of Directors](https://www.aadsm.org/board_of_directors.php)
-    * [2024-2025 Committees & Task Forces](https://mms.aadsm.org/members/mlogin.php?org_id=ADSM&mc=Y&bounce=https%3A%2F%2Fwww.aadsm.org%2F2024-2025_committees_task_fo.php)
+    * [Bylaws](https://mms.aadsm.org/members/mlogin.php?org_id=ADSM&mc=Y&bounce=https%3A%2F%2Fwww.aadsm.org%2Fbylaws.php)
+    * [2023-2024 Committees & Task Forces](https://mms.aadsm.org/members/mlogin.php?org_id=ADSM&mc=Y&bounce=https%3A%2F%2Fwww.aadsm.org%2F2023-2024_committees_task_fo.php)
     * [News and Updates](https://mms.aadsm.org/news_archive_headlines.php?org_id=ADSM)
 * [Member Login](#)
 
