@@ -1,4 +1,4 @@
- [![logo](/_assets/34affc05c601c6c6e98f60d0afa10c28/Images/logo.svg) ![logo](/_assets/34affc05c601c6c6e98f60d0afa10c28/Images/logo_dark.svg)](https://www.blocktrainer.de/ "Blocktrainer - Bitcoin Bildung")
+ [![logo](/_assets/34affc05c601c6c6e98f60d0afa10c28/Images/logo.svg) ![logo](/_assets/34affc05c601c6c6e98f60d0afa10c28/Images/logo_dark.svg)](https://www.blocktrainer.de/index/ "Blocktrainer - Bitcoin Bildung")
 
 * [](https://www.youtube.com/c/blocktrainer "Youtube")
 * [](https://www.instagram.com/blocktrainer.de/ "Instagram")
@@ -9,57 +9,56 @@
 
 ![](/_assets/34affc05c601c6c6e98f60d0afa10c28/Flags/flags-de.png "Deutsch")
 
-* [![](/_assets/34affc05c601c6c6e98f60d0afa10c28/Flags/flags-de.png "Deutsch")Deutsch](https://www.blocktrainer.de/datenschutz)
-* [![](/_assets/34affc05c601c6c6e98f60d0afa10c28/Flags/flags-en-us-gb.png "English")English](https://www.blocktrainer.de/en/legal-information/data-protection)
+* [![](/_assets/34affc05c601c6c6e98f60d0afa10c28/Flags/flags-de.png "Deutsch")Deutsch](https://www.blocktrainer.de/datenschutz/)
+* [![](/_assets/34affc05c601c6c6e98f60d0afa10c28/Flags/flags-en-us-gb.png "English")English](https://www.blocktrainer.de/en/legal-information/data-protection/)
 
-[Anmelden](https://www.blocktrainer.de/login) [Registrieren](https://www.blocktrainer.de/registrierung)
+[Anmelden](https://www.blocktrainer.de/login/) [Registrieren](https://www.blocktrainer.de/registrierung/)
 
- [![logo](/_assets/34affc05c601c6c6e98f60d0afa10c28/Images/logo.svg) ![logo](/_assets/34affc05c601c6c6e98f60d0afa10c28/Images/logo_dark.svg)](https://www.blocktrainer.de/ "Blocktrainer - Bitcoin Bildung")
+ [![logo](/_assets/34affc05c601c6c6e98f60d0afa10c28/Images/logo.svg) ![logo](/_assets/34affc05c601c6c6e98f60d0afa10c28/Images/logo_dark.svg)](https://www.blocktrainer.de/index/ "Blocktrainer - Bitcoin Bildung")
 
 ![](/_assets/34affc05c601c6c6e98f60d0afa10c28/Flags/flags-de.png "Deutsch")
 
-* [![](/_assets/34affc05c601c6c6e98f60d0afa10c28/Flags/flags-de.png "Deutsch")Deutsch](https://www.blocktrainer.de/datenschutz)
-* [![](/_assets/34affc05c601c6c6e98f60d0afa10c28/Flags/flags-en-us-gb.png "English")English](https://www.blocktrainer.de/en/legal-information/data-protection)
+* [![](/_assets/34affc05c601c6c6e98f60d0afa10c28/Flags/flags-de.png "Deutsch")Deutsch](https://www.blocktrainer.de/datenschutz/)
+* [![](/_assets/34affc05c601c6c6e98f60d0afa10c28/Flags/flags-en-us-gb.png "English")English](https://www.blocktrainer.de/en/legal-information/data-protection/)
 
-[Anmelden](https://www.blocktrainer.de/login) [Registrieren](https://www.blocktrainer.de/registrierung)
+[Anmelden](https://www.blocktrainer.de/login/) [Registrieren](https://www.blocktrainer.de/registrierung/)
 
-* [Kaufen & Verwahren](https://www.blocktrainer.de/kaufen-und-anbieter)
-    * [Bitcoin-Sparplan-Vergleich](https://www.blocktrainer.de/kaufen-und-anbieter/bitcoin-sparplan-vergleich)
-    * [Anleitung - Bitcoin kaufen](https://www.blocktrainer.de/kaufen-und-anbieter/anleitung-bitcoin-kaufen)
-    * [Börsen & Broker](https://www.blocktrainer.de/kaufen-und-anbieter/boersen-broker)
-    * [Hardware Wallets](https://www.blocktrainer.de/kaufen-und-anbieter/hardware-wallets)
-    * [Seedor Safe](https://www.blocktrainer.de/kaufen-und-anbieter/seedor-safe)
-    * [Bitcoin als Cashback](https://www.blocktrainer.de/kaufen-und-anbieter/bitcoin-als-cashback/satsbackcom)
-    * [Krypto & Steuern](https://www.blocktrainer.de/kaufen-und-anbieter/krypto-steuern)
-    * [Heizen mit Bitcoin](https://www.blocktrainer.de/kaufen-und-anbieter/heizen-mit-bitcoin)
-* [Lernen & Wissen](https://www.blocktrainer.de/wissen)
-    * [Artikel für Einsteiger](https://www.blocktrainer.de/wissen/artikel-fuer-einsteiger)
-    * [Mehr Wissen zu Bitcoin & Co.](https://www.blocktrainer.de/wissen/mehr-wissen-zu-bitcoin-co)
-    * [Blocktrainer Podcast](https://www.blocktrainer.de/wissen/blocktrainer-podcast)
-    * [Bitcoin-Bücher](https://www.blocktrainer.de/tools-services/bitcoin-buecher)
-    * [Tutorials](https://www.blocktrainer.de/wissen/tutorials)
-    * [Übersetzungen](https://www.blocktrainer.de/wissen/uebersetzungen)
-    * [Glossar](https://www.blocktrainer.de/wissen/glossar)
-* [Tools & Services](https://www.blocktrainer.de/tools-services)
-    * [Solo-Mining-Rechner](https://www.blocktrainer.de/tools-services/solo-mining-rechner)
-    * [Satoshi-Rechner](https://www.blocktrainer.de/tools-services/satoshi-rechner)
-    * [Transaktions-Rechner](https://www.blocktrainer.de/tools-services/transaktions-rechner)
-    * [UTXO-Dust-Rechner](https://www.blocktrainer.de/tools-services/utxo-dust-rechner)
-    * [Blockzeit-Rechner](https://www.blocktrainer.de/tools-services/blockzeit-rechner)
-    * [Halving-Countdown](https://www.blocktrainer.de/tools-services/halving-countdown)
-    * [Bitcoin Kalender](https://www.blocktrainer.de/tools-services/bitcoin-kalender)
-    * [Bitcoin versichern](https://www.blocktrainer.de/tools-services/btc-versichern)
-    * [Zugriff auf Wallet verloren?](https://www.blocktrainer.de/tools-services/zugriff-auf-wallet-verloren)
-    * [Blocktrainer Mempool](https://mempool.blocktrainer.de/de)
-* [News & Blog](https://www.blocktrainer.de/blog)
-* [Forum](https://forum.blocktrainer.de/)
-* [Events](https://www.blocktrainer.de/bitcoin-events)
-* [Shop](https://www.blocktrainer.de/shop/alle-produkte)
-* [Unterstützen](https://www.blocktrainer.de/unterstuetze-uns)
+* [Kaufen & Verwahren](https://www.blocktrainer.de/kaufen-und-anbieter/)
+    * [Bitcoin-Sparplan-Vergleich](https://www.blocktrainer.de/kaufen-und-anbieter/bitcoin-sparplan-vergleich/)
+    * [Anleitung - Bitcoin kaufen](https://www.blocktrainer.de/kaufen-und-anbieter/anleitung-bitcoin-kaufen/)
+    * [Börsen & Broker](https://www.blocktrainer.de/kaufen-und-anbieter/boersen-broker/)
+    * [Hardware Wallets](https://www.blocktrainer.de/kaufen-und-anbieter/hardware-wallets/)
+    * [Seedor Safe](https://www.blocktrainer.de/kaufen-und-anbieter/seedor-safe/)
+    * [Bitcoin als Cashback](https://www.blocktrainer.de/kaufen-und-anbieter/bitcoin-als-cashback/satsbackcom/)
+    * [Krypto & Steuern](https://www.blocktrainer.de/kaufen-und-anbieter/krypto-steuern/)
+    * [Heizen mit Bitcoin](https://www.blocktrainer.de/kaufen-und-anbieter/heizen-mit-bitcoin/)
+* [Lernen & Wissen](https://www.blocktrainer.de/wissen/)
+    * [Artikel für Einsteiger](https://www.blocktrainer.de/wissen/artikel-fuer-einsteiger/)
+    * [Mehr Wissen zu Bitcoin & Co.](https://www.blocktrainer.de/wissen/mehr-wissen-zu-bitcoin-co/)
+    * [Blocktrainer Podcast](https://www.blocktrainer.de/wissen/blocktrainer-podcast/)
+    * [Bitcoin-Bücher](https://www.blocktrainer.de/tools-services/bitcoin-buecher/)
+    * [Tutorials](https://www.blocktrainer.de/wissen/tutorials/)
+    * [Übersetzungen](https://www.blocktrainer.de/wissen/uebersetzungen/)
+    * [Glossar](https://www.blocktrainer.de/wissen/glossar/)
+* [Tools & Services](https://www.blocktrainer.de/tools-services/)
+    * [Solo-Mining-Rechner](https://www.blocktrainer.de/tools-services/solo-mining-rechner/)
+    * [Satoshi-Rechner](https://www.blocktrainer.de/tools-services/satoshi-rechner/)
+    * [Transaktions-Rechner](https://www.blocktrainer.de/tools-services/transaktions-rechner/)
+    * [UTXO-Dust-Rechner](https://www.blocktrainer.de/tools-services/utxo-dust-rechner/)
+    * [Blockzeit-Rechner](https://www.blocktrainer.de/tools-services/blockzeit-rechner/)
+    * [Halving-Countdown](https://www.blocktrainer.de/tools-services/halving-countdown/)
+    * [Bitcoin Kalender](https://www.blocktrainer.de/tools-services/bitcoin-kalender/)
+    * [Bitcoin versichern](https://www.blocktrainer.de/tools-services/btc-versichern/)
+    * [Zugriff auf Wallet verloren?](https://www.blocktrainer.de/tools-services/zugriff-auf-wallet-verloren/)
+    * [Blocktrainer Forum](https://forum.blocktrainer.de/)
+* [News & Blog](https://www.blocktrainer.de/blog/)
+* [Events](https://www.blocktrainer.de/bitcoin-events/)
+* [Shop](https://www.blocktrainer.de/shop/alle-produkte/)
+* [Unterstütze uns](https://www.blocktrainer.de/unterstuetze-uns/)
 
-* [Startseite](https://www.blocktrainer.de/ "Startseite")
-* [RECHTLICHE INFOS](https://www.blocktrainer.de/rechtliche-infos "RECHTLICHE INFOS")
-* [Datenschutz](https://www.blocktrainer.de/datenschutz "Datenschutz")
+* [Startseite](https://www.blocktrainer.de/index/ "Startseite")
+* [RECHTLICHE INFOS](https://www.blocktrainer.de/rechtliche-infos/ "RECHTLICHE INFOS")
+* [Datenschutz](https://www.blocktrainer.de/datenschutz/ "Datenschutz")
 
 Datenschutzerklärung
 ====================
@@ -193,7 +192,7 @@ Wenn Sie die Verarbeitung Ihrer personenbezogenen Daten eingeschränkt haben, d�
 
 ### SSL- bzw. TLS-Verschlüsselung
 
-Diese Seite nutzt aus Sicherheitsgründen und zum Schutz der Übertragung vertraulicher Inhalte, wie zum Beispiel Bestellungen oder Anfragen, die Sie an uns als Seitenbetreiber senden, eine SSL- bzw. TLS-[Verschlüsselung](https://www.blocktrainer.de/wissen/glossar/begriff/verschluesselung "Verschlüsselung"). Eine verschlüsselte Verbindung erkennen Sie daran, dass die Adresszeile des Browsers von „http://“ auf „https://“ wechselt und an dem Schloss-Symbol in Ihrer Browserzeile.
+Diese Seite nutzt aus Sicherheitsgründen und zum Schutz der Übertragung vertraulicher Inhalte, wie zum Beispiel Bestellungen oder Anfragen, die Sie an uns als Seitenbetreiber senden, eine SSL- bzw. TLS-[Verschlüsselung](https://www.blocktrainer.de/wissen/glossar/begriff/verschluesselung/ "Verschlüsselung"). Eine verschlüsselte Verbindung erkennen Sie daran, dass die Adresszeile des Browsers von „http://“ auf „https://“ wechselt und an dem Schloss-Symbol in Ihrer Browserzeile.
 
 Wenn die SSL- bzw. TLS-Verschlüsselung aktiviert ist, können die Daten, die Sie an uns übermitteln, nicht von Dritten mitgelesen werden.
 
@@ -237,7 +236,7 @@ Wenn Sie unsere Website betreten, werden folgende personenbezogene Daten an User
 
 Des Weiteren speichert Usercentrics ein Cookie in Ihrem Browser, um Ihnen die erteilten Einwilligungen bzw. deren Widerruf zuordnen zu können. Die so erfassten Daten werden gespeichert, bis Sie uns zur Löschung auffordern, das Usercentrics-Cookie selbst löschen oder der Zweck für die Datenspeicherung entfällt. Zwingende gesetzliche Aufbewahrungspflichten bleiben unberührt.
 
-Das Usercentrics-Banner auf dieser Website wurde mit Hilfe von eRecht24 konfiguriert. Das erkennen Sie daran, dass im Banner das Logo von eRecht24 auftaucht. Um das eRecht24-Logo im Banner auszuspielen, wird eine Verbindung zum Bildserver von eRecht24 hergestellt. Hierbei wird auch die IP-[Adresse](https://www.blocktrainer.de/wissen/glossar/begriff/adresse "Adresse") übertragen, die jedoch nur in anonymisierter Form in den Server-Logs gespeichert wird. Der Bildserver von eRecht24 befindet sich in Deutschland bei einem deutschen Anbieter. Das Banner selbst wird ausschließlich von Usercentrics zur Verfügung gestellt.
+Das Usercentrics-Banner auf dieser Website wurde mit Hilfe von eRecht24 konfiguriert. Das erkennen Sie daran, dass im Banner das Logo von eRecht24 auftaucht. Um das eRecht24-Logo im Banner auszuspielen, wird eine Verbindung zum Bildserver von eRecht24 hergestellt. Hierbei wird auch die IP-[Adresse](https://www.blocktrainer.de/wissen/glossar/begriff/adresse/ "Adresse") übertragen, die jedoch nur in anonymisierter Form in den Server-Logs gespeichert wird. Der Bildserver von eRecht24 befindet sich in Deutschland bei einem deutschen Anbieter. Das Banner selbst wird ausschließlich von Usercentrics zur Verfügung gestellt.
 
 Der Einsatz von Usercentrics erfolgt, um die gesetzlich vorgeschriebenen Einwilligungen für den Einsatz bestimmter Technologien einzuholen. Rechtsgrundlage hierfür ist Art. 6 Abs. 1 lit. c DSGVO.
 
@@ -306,7 +305,7 @@ Ihre Datenschutzeinstellungen bei X (ehemals Twitter) können Sie in den Konto-E
 
 ### Matomo
 
-Diese Website benutzt den [Open Source](https://www.blocktrainer.de/wissen/glossar/begriff/open-source "Open Source") Webanalysedienst Matomo.
+Diese Website benutzt den [Open Source](https://www.blocktrainer.de/wissen/glossar/begriff/open-source/ "Open Source") Webanalysedienst Matomo.
 
 Mit Hilfe von Matomo sind wir in der Lage Daten über die Nutzung unserer Website durch die Websitebesucher zu erfassen und zu analysieren. Hierdurch können wir u. a. herausfinden, wann welche Seitenaufrufe getätigt wurden und aus welcher Region sie kommen. Außerdem erfassen wir verschiedene Logdateien (z. B. IP-Adresse, Referrer, verwendete Browser und Betriebssysteme) und können messen, ob unsere Websitebesucher bestimmte Aktionen durchführen (z. B. Klicks, Käufe u. Ä.).
 
@@ -531,7 +530,7 @@ Sofern wir Ihnen kein Stellenangebot machen können, Sie ein Stellenangebot able
 
 Eine längere Aufbewahrung kann außerdem stattfinden, wenn Sie eine entsprechende Einwilligung (Art. 6 Abs. 1 lit. a DSGVO) erteilt haben oder wenn gesetzliche Aufbewahrungspflichten der Löschung entgegenstehen.
 
- [![logo](/_assets/34affc05c601c6c6e98f60d0afa10c28/Images/logo.svg) ![logo](/_assets/34affc05c601c6c6e98f60d0afa10c28/Images/logo_dark.svg)](https://www.blocktrainer.de/ "Blocktrainer - Bitcoin Bildung")
+ [![logo](/_assets/34affc05c601c6c6e98f60d0afa10c28/Images/logo.svg) ![logo](/_assets/34affc05c601c6c6e98f60d0afa10c28/Images/logo_dark.svg)](https://www.blocktrainer.de/index/ "Blocktrainer - Bitcoin Bildung")
 
 Das Blocktrainer-Team liefert sachliche und fundierte Aufklärungsarbeit rund um die Themen Bitcoin und Wirtschaft. Durch den integren und pflichtbewussten Ansatz hat sich Blocktrainer einen Namen in der deutschsprachigen Bitcoin- und Finanzszene gemacht.
 
@@ -545,32 +544,27 @@ Die Inhalte stellen keine Anlageberatung, sondern ein reines Bildungs- und Infor
 * [](https://forum.blocktrainer.de/)
 
 * WICHTIGE THEMEN
-    * [Börsen & Broker](https://www.blocktrainer.de/kaufen-und-anbieter/boersen-broker "Börsen & Broker")
-    * [Einsteigerwissen](https://www.blocktrainer.de/wissen/artikel-fuer-einsteiger "Einsteigerwissen")
-    * [Übersetzungen](https://www.blocktrainer.de/wissen/uebersetzungen "Übersetzungen")
-    * [Tutorials](https://www.blocktrainer.de/wissen/tutorials "Tutorials")
+    * [Börsen & Broker](https://www.blocktrainer.de/kaufen-und-anbieter/boersen-broker/ "Börsen & Broker")
+    * [Einsteigerwissen](https://www.blocktrainer.de/wissen/artikel-fuer-einsteiger/ "Einsteigerwissen")
+    * [Übersetzungen](https://www.blocktrainer.de/wissen/uebersetzungen/ "Übersetzungen")
+    * [Tutorials](https://www.blocktrainer.de/wissen/tutorials/ "Tutorials")
 * COMMUNITY
-    * [Forum](https://forum.blocktrainer.de/ "Forum")
     * [Twitter](https://twitter.com/blocktrainer "Twitter")
     * [YouTube Channel](https://www.youtube.com/@Blocktrainer "YouTube Channel")
     * [Instagram](https://www.instagram.com/blocktrainer.de/ "Instagram")
     * [Telegram](https://t.me/blocktrainergruppe "Telegram")
 * RECHTLICHE INFOS
-    * [Datenschutz](https://www.blocktrainer.de/datenschutz "Datenschutz")
-    * [Impressum](https://www.blocktrainer.de/rechtliche-infos/impressum "Impressum")
-    * [Versand & Zahlung](https://www.blocktrainer.de/rechtliche-infos/versand-zahlung "Versand & Zahlung")
-    * [Widerrufsrecht](https://www.blocktrainer.de/rechtliche-infos/widerrufsrecht "Widerrufsrecht")
+    * [Datenschutz](https://www.blocktrainer.de/datenschutz/ "Datenschutz")
+    * [Impressum](https://www.blocktrainer.de/rechtliche-infos/impressum/ "Impressum")
+    * [Versand & Zahlung](https://www.blocktrainer.de/rechtliche-infos/versand-zahlung/ "Versand & Zahlung")
+    * [Widerrufsrecht](https://www.blocktrainer.de/rechtliche-infos/widerrufsrecht/ "Widerrufsrecht")
     * [AGB](https://www.blocktrainer.de/fileadmin/Dateiablage/PDF/Blocktrainer_ABG_15042024.pdf "AGB")
-* ÜBER UNS
-    * [Unser Gründer](https://www.blocktrainer.de/unser-gruender "Unser Gründer")
-    * [Brand](https://www.blocktrainer.de/brand "Brand")
-* UNTERSTÜTZEN
-    * [Spenden](https://www.blocktrainer.de/unterstuetze-uns "Spenden")
-    * [Patenschaft](https://www.blocktrainer.de/patenschaft "Patenschaft")
 * SONSTIGES
-    * [Shop](https://www.blocktrainer.de/shop/alle-produkte "Shop")
-    * [Newsletter](https://www.blocktrainer.de/newsletter "Newsletter")
-    * [Status](https://status.blocktrainer.de/ "Status")
+    * [Shop](https://www.blocktrainer.de/shop/alle-produkte/ "Shop")
+    * [Spenden](https://www.blocktrainer.de/unterstuetze-uns/ "Spenden")
+* ÜBER UNS
+    * [Unser Gründer](https://www.blocktrainer.de/unser-gruender/ "Unser Gründer")
+    * [Brand](https://www.blocktrainer.de/brand/ "Brand")
 
 ### Diese Seite teilen
 
@@ -583,5 +577,3 @@ SHAREURL
 Kopieren
 
 [](#)
-
-[![](/fileadmin/_processed_/c/2/csm_Communty-Event-Ad_Rectangle_02_df58773e36.jpg)](https://www.blocktrainer.de/blocktrainer-community-event-2024/details-zum-event)
