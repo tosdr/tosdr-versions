@@ -2,7 +2,9 @@
 
 [Skip to content](#content)
 
-[![](https://adstradata.com/wp-content/uploads/2023/10/adstra-logo-watermark-horizontal-4.webp)](https://adstradata.com/)
+[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20124'%3E%3C/svg%3E)
+
+![](https://adstradata.com/wp-content/uploads/2023/10/adstra-logo-watermark-horizontal-4.webp)](https://adstradata.com/)
 
 * [Home](https://adstradata.com/)
 * [Segments](#)
@@ -15,15 +17,12 @@
     * [Travel & Entertainment](https://adstradata.com/travel-and-entertainment/)
     * [Nonprofit](https://adstranonprofit.com/)
 * [Solutions](#)
-    * [Conexa Enterprise Platform](https://adstradata.com/conexa-eip/)
+    * [Conexa – Enterprise ID Platform](https://adstradata.com/conexa-eip/)
     * [Audiences](https://adstradata.com/audiences/)
-    * [Data Attribution](https://adstradata.com/attributes-3-2/)
-    * [Services](https://adstradata.com/services/)
-        * [Customer Acquisition](https://adstradata.com/services#customer-acquisition)
-        * [Digital Marketing](https://adstradata.com/services#digital-marketing)
-        * [Analytics](https://adstradata.com/services#analytics)
-        * [Data Processing](https://adstradata.com/services#data-processing)
-        * [Data Management](https://adstradata.com/services#data-management)
+    * [Customer Acquisition](https://adstradata.com/commercial/)
+    * [Donor Acquisition](https://adstranonprofit.com/)
+    * [Data Attributes](https://adstradata.com/attributes-3-2/)
+    * [Orbits](https://adstradata.com/orbits/)
 * [Insights](#)
     * [Blog](https://adstradata.com/blog-2/)
     * [Webinars](https://adstradata.com/webinars/)
@@ -52,15 +51,12 @@ Menu
     * [Travel & Entertainment](https://adstradata.com/travel-and-entertainment/)
     * [Nonprofit](https://adstranonprofit.com/)
 * [Solutions](#)
-    * [Conexa Enterprise Platform](https://adstradata.com/conexa-eip/)
+    * [Conexa – Enterprise ID Platform](https://adstradata.com/conexa-eip/)
     * [Audiences](https://adstradata.com/audiences/)
-    * [Data Attribution](https://adstradata.com/attributes-3-2/)
-    * [Services](https://adstradata.com/services/)
-        * [Customer Acquisition](https://adstradata.com/services#customer-acquisition)
-        * [Digital Marketing](https://adstradata.com/services#digital-marketing)
-        * [Analytics](https://adstradata.com/services#analytics)
-        * [Data Processing](https://adstradata.com/services#data-processing)
-        * [Data Management](https://adstradata.com/services#data-management)
+    * [Customer Acquisition](https://adstradata.com/commercial/)
+    * [Donor Acquisition](https://adstranonprofit.com/)
+    * [Data Attributes](https://adstradata.com/attributes-3-2/)
+    * [Orbits](https://adstradata.com/orbits/)
 * [Insights](#)
     * [Blog](https://adstradata.com/blog-2/)
     * [Webinars](https://adstradata.com/webinars/)
@@ -230,22 +226,22 @@ If you are a California resident, the California Consumer Privacy Act (“the CC
 * The right to request that we delete the personal information we may have collected directly from you. We use a two-step process to validate identity prior to deleting information. 
 * The right not to receive discriminatory treatment for the exercise of the privacy rights conferred by the CCPA. We will not deny, charge different prices for, or provide a different level of services if you choose to exercise these rights. 
 
-As described in this Policy, we may make personal information available to third parties for their marketing purposes.  California residents may opt-out of Adstra’s disclosure of personal information to third parties for their direct marketing purposes pursuant to California Civil Code section 1798.83 and the California Consumer Privacy Act by clicking [here](https://privacyportal.onetrust.com/webform/3d2d5e0c-bd98-46b8-906c-ede68a6f6a80/93ff5386-38db-46af-bc66-f9445ee01885). If you are a California resident and want to know what categories or specific personal information is collected, used, shared or sold about you please click [here](https://privacyportal.onetrust.com/webform/3d2d5e0c-bd98-46b8-906c-ede68a6f6a80/119946d0-d314-4527-849d-72ff366dcc69).  If you are a California resident and want us to delete personal information that we may have about you please click [here.](https://privacyportal.onetrust.com/webform/3d2d5e0c-bd98-46b8-906c-ede68a6f6a80/2320a36e-c9e8-427d-b431-f77dede03ef3)If you are a California resident and would like to request information we may have about you to be rectified, please click [here](https://privacyportal.onetrust.com/webform/3d2d5e0c-bd98-46b8-906c-ede68a6f6a80/119946d0-d314-4527-849d-72ff366dcc69) to submit a request. Once we have verified your identity through our two-step process, we will provide information we may have about you and you may communicate the information you may wish to rectified. 
+As described in this Policy, we may make personal information available to third parties for their marketing purposes.  California residents may opt-out of Adstra’s disclosure of personal information to third parties for their direct marketing purposes pursuant to California Civil Code section 1798.83 and the California Consumer Privacy Act by clicking [here](https://privacyportal.onetrust.com/webform/3d2d5e0c-bd98-46b8-906c-ede68a6f6a80/4fc52d87-c975-49ba-84a9-daa1568d7958). If you are a California resident and want to know what categories or specific personal information is collected, used, shared or sold about you please click [here](https://privacyportal.onetrust.com/webform/3d2d5e0c-bd98-46b8-906c-ede68a6f6a80/119946d0-d314-4527-849d-72ff366dcc69).  If you are a California resident and want us to delete personal information that we may have about you please click [here.](https://privacyportal.onetrust.com/webform/3d2d5e0c-bd98-46b8-906c-ede68a6f6a80/2320a36e-c9e8-427d-b431-f77dede03ef3)If you are a California resident and would like to request information we may have about you to be rectified, please click [here](https://privacyportal.onetrust.com/webform/3d2d5e0c-bd98-46b8-906c-ede68a6f6a80/119946d0-d314-4527-849d-72ff366dcc69) to submit a request. Once we have verified your identity through our two-step process, we will provide information we may have about you and you may communicate the information you may wish to rectified. 
 
 For Colorado, Connecticut, Nevada, Utah and Virginia Residents:
 
-We may make personal information available to third parties for their marketing purposes.  Residents from these states may opt-out of Adstra’s disclosure of personal information to third parties for their direct marketing purposes pursuant to their state laws by clicking [here](https://privacyportal.onetrust.com/webform/3d2d5e0c-bd98-46b8-906c-ede68a6f6a80/93ff5386-38db-46af-bc66-f9445ee01885). If you want to know what categories or specific personal information is collected, used, shared or sold about you please click [here](https://privacyportal.onetrust.com/webform/3d2d5e0c-bd98-46b8-906c-ede68a6f6a80/119946d0-d314-4527-849d-72ff366dcc69).  If you want us to delete personal information that we may have about you please click [here.](https://privacyportal.onetrust.com/webform/3d2d5e0c-bd98-46b8-906c-ede68a6f6a80/2320a36e-c9e8-427d-b431-f77dede03ef3) If you would like to request information we may have about you to be rectified, please click [here](https://privacyportal.onetrust.com/webform/3d2d5e0c-bd98-46b8-906c-ede68a6f6a80/119946d0-d314-4527-849d-72ff366dcc69) to submit a request. Once we have verified your identity through our two-step process we will provide information we may have about you and you may communicate the information you may wish to rectify. 
+We may make personal information available to third parties for their marketing purposes.  Residents from these states may opt-out of Adstra’s disclosure of personal information to third parties for their direct marketing purposes pursuant to their state laws by clicking [here](https://privacyportal.onetrust.com/webform/3d2d5e0c-bd98-46b8-906c-ede68a6f6a80/4fc52d87-c975-49ba-84a9-daa1568d7958). If you want to know what categories or specific personal information is collected, used, shared or sold about you please click [here](https://privacyportal.onetrust.com/webform/3d2d5e0c-bd98-46b8-906c-ede68a6f6a80/119946d0-d314-4527-849d-72ff366dcc69).  If you want us to delete personal information that we may have about you please click [here.](https://privacyportal.onetrust.com/webform/3d2d5e0c-bd98-46b8-906c-ede68a6f6a80/2320a36e-c9e8-427d-b431-f77dede03ef3) If you would like to request information we may have about you to be rectified, please click [here](https://privacyportal.onetrust.com/webform/3d2d5e0c-bd98-46b8-906c-ede68a6f6a80/119946d0-d314-4527-849d-72ff366dcc69) to submit a request. Once we have verified your identity through our two-step process we will provide information we may have about you and you may communicate the information you may wish to rectify. 
 
-For Nevada Residents: If you are a Nevada resident and would like to opt-out of the sale of your personal information, please click [here](https://privacyportal.onetrust.com/webform/3d2d5e0c-bd98-46b8-906c-ede68a6f6a80/93ff5386-38db-46af-bc66-f9445ee01885), email our Privacy Officer at [privacy.officer@adstradata.com](mailto:privacy.officer@adstradata.com), or, send your request to: 750 College Road East, Suite 201, Princeton, NJ 08540.  
+For Nevada Residents: If you are a Nevada resident and would like to opt-out of the sale of your personal information, please click [here](https://privacyportal.onetrust.com/webform/3d2d5e0c-bd98-46b8-906c-ede68a6f6a80/4fc52d87-c975-49ba-84a9-daa1568d7958), email our Privacy Officer at [privacy.officer@adstradata.com](mailto:privacy.officer@adstradata.com), or, send your request to: 750 College Road East, Suite 201, Princeton, NJ 08540.  
   
 
 _New Jersey Daniel’s Law_
 
-_If you are considered a “Covered Person” under [Daniel’s Law](https://www.danielslaw.nj.gov/Default.aspx) within the State of New Jersey and wish to request that your address and private phone number not be shared with any third parties  for marketing purposes, please click [here](https://privacyportal.onetrust.com/webform/3d2d5e0c-bd98-46b8-906c-ede68a6f6a80/93ff5386-38db-46af-bc66-f9445ee01885). Recognizing the essence of Daniel’s Law as a safeguard for covered persons against targeting and the imperative for safety underpinning its creation, Adstra is committed to ensuring these requests are managed appropriately and in strict adherence to legal requirements. Please note that all submissions must go through the link provided above, and any submissions directed to **[privacy.officer@adstradata.com](mailto:privacy.officer@adstradata.com)** will be disregarded._
+_If you are considered a “Covered Person” under [Daniel’s Law](https://www.danielslaw.nj.gov/Default.aspx) within the State of New Jersey and wish to request that your address and private phone number not be shared with any third parties  for marketing purposes, please click [here](https://privacyportal.onetrust.com/webform/3d2d5e0c-bd98-46b8-906c-ede68a6f6a80/4fc52d87-c975-49ba-84a9-daa1568d7958). Recognizing the essence of Daniel’s Law as a safeguard for covered persons against targeting and the imperative for safety underpinning its creation, Adstra is committed to ensuring these requests are managed appropriately and in strict adherence to legal requirements. Please note that all submissions must go through the link provided above, and any submissions directed to **[privacy.officer@adstradata.com](mailto:privacy.officer@adstradata.com)** will be disregarded._
 
 _For U.S. Residents:_
 
-As described in this Policy, we may make personal information available to third parties for their marketing purposes.  U.S. residents may opt-out of Adstra’s disclosure of personal information to third parties for their direct marketing purposes by clicking [here](https://privacyportal.onetrust.com/webform/3d2d5e0c-bd98-46b8-906c-ede68a6f6a80/93ff5386-38db-46af-bc66-f9445ee01885).  If you are a U.S. resident and would like to make a verifiable consumer request to delete any personal information that we may have about you please click [here.](https://privacyportal.onetrust.com/webform/3d2d5e0c-bd98-46b8-906c-ede68a6f6a80/2320a36e-c9e8-427d-b431-f77dede03ef3)
+As described in this Policy, we may make personal information available to third parties for their marketing purposes.  U.S. residents may opt-out of Adstra’s disclosure of personal information to third parties for their direct marketing purposes by clicking [here](https://privacyportal.onetrust.com/webform/3d2d5e0c-bd98-46b8-906c-ede68a6f6a80/4fc52d87-c975-49ba-84a9-daa1568d7958).  If you are a U.S. resident and would like to make a verifiable consumer request to delete any personal information that we may have about you please click [here.](https://privacyportal.onetrust.com/webform/3d2d5e0c-bd98-46b8-906c-ede68a6f6a80/2320a36e-c9e8-427d-b431-f77dede03ef3)
 
 _Visitors from the United Kingdom and Europe_
 
@@ -275,51 +271,35 @@ YOU UNDERSTAND AND AGREE THAT ANY DISPUTE OVER PRIVACY IS SUBJECT TO THE TERMS A
 
 YOU AGREE THAT OUR LIABILITY FOR ANY BREACH OF THIS PRIVACY POLICY SHALL BE LIMITED TO THE VALUE OF THE TRANSACTIONS OR SERVICES PROVIDED TO YOU BY US TO THE EXTENT SUCH CLAIM IS NOT OTHERWISE BARRED BY OUR TERMS AND CONDITIONS.
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20754'%3E%3C/svg%3E)
+![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201000%20943'%3E%3C/svg%3E)
 
 ![](https://adstradata.com/wp-content/uploads/2020/05/adstra-logo-watermark-square-purple.webp)
 
-Adstra Headquarters
+### Adstra Headquarters
 
-750 College Road East
-
-Suite 201
-
+### 750 College Road East  
+Suite 201  
 Princeton, NJ 08540
 
-609-580-2800
+### 609-580-2800
 
-[connect@adstradata.com](mailto:connect@adstradata.com)
+### [connect@adstradata.com](mailto:connect@adstradata.com)
 
-[Linkedin](https://www.linkedin.com/company/adstra-data/)
+### [Adstra Privacy Policy](https://adstradata.com/privacy-policy/)
 
-[Adstra Privacy Policy](https://adstradata.com/privacy-policy/)
+### [AdChoices](https://optout.aboutads.info/?c=2&lang=EN)
 
-[AdChoices](https://optout.aboutads.info/?c=2&lang=EN)
+### [Terms & Conditions](https://adstradata.com/terms/)
 
-[Terms & Conditions](https://adstradata.com/terms/)
+### [Do Not Sell My Personal Information](https://privacyportal.onetrust.com/webform/3d2d5e0c-bd98-46b8-906c-ede68a6f6a80/4fc52d87-c975-49ba-84a9-daa1568d7958)
 
-[Do Not Sell My Personal Information](https://privacyportal.onetrust.com/webform/3d2d5e0c-bd98-46b8-906c-ede68a6f6a80/93ff5386-38db-46af-bc66-f9445ee01885)
+### Copyright © year Adstra all rights reserved
 
-Copyright © year Adstra all rights reserved
+[Linkedin](https://www.linkedin.com/company/adstra-data/) [Facebook-square](https://www.facebook.com/adstradata/)
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20682'%3E%3C/svg%3E)
+![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E)
 
-![](https://adstradata.com/wp-content/uploads/2020/05/English_Adstra_LLC_US_English_2024_Certification_Badge.webp)
-
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20382%20382'%3E%3C/svg%3E)
-
-![](https://adstradata.com/wp-content/uploads/2023/10/equity.diversity.inclusion.2.jpg)
-
-Please enter your email to access our White Paper  
-Mapping the Multi-ID Landscape
-----------------------------------------------------------------------------------
-
-   
-
-Email 
-
-Submit
+![](https://adstradata.com/wp-content/uploads/2023/10/equity.diversity.inclusion.2-300x300.jpg)
 
 [![Enterprise Identity Solution](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20612%20792'%3E%3C/svg%3E)
 
