@@ -148,7 +148,7 @@
 * [Trust & privacy](https://amplitude.com/trust)
 * [AI](https://amplitude.com/ai)
 
-[Solutions](https://amplitude.com/solutions)
+[Solutions](https://amplitude.com/why-amplitude)
 
 #### Industry
 
@@ -258,7 +258,7 @@
 * [Engineering](https://amplitude.com/solutions/engineering)
 * [Marketing](https://amplitude.com/solutions/marketing)
 
-[Solutions](https://amplitude.com/solutions)
+[Solutions](https://amplitude.com/why-amplitude)
 
 #### Industry
 
@@ -386,13 +386,13 @@
     Resource Center
     
     Expertise to guide your growth](https://amplitude.com/resources)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![Template icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Glossary icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![Template icon](https://cdn.sanity.io/images/l5rq9j6r/production/9944ca8ac72471b6a8ddd71dbcc8e914b2c85ee7-64x64.svg)
+    ![Glossary icon](https://cdn.sanity.io/images/l5rq9j6r/production/8a1d106bdcc6fe14770fb8f405821b4f533f3b01-24x24.svg)
     
-    Templates
+    Glossary
     
-    Amplitude template library](https://amplitude.com/templates)
+    All the terms you need to know](https://amplitude.com/glossary/terms)
 * [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![Benchmark icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
     ![Benchmark icon](https://cdn.sanity.io/images/l5rq9j6r/production/fd05129a1decfcbe6580c64213fe040a4de32e23-64x64.svg)
@@ -403,7 +403,7 @@
 
 * [Blog](https://amplitude.com/blog)
 * [Resource Center](https://amplitude.com/resources)
-* [Templates](https://amplitude.com/templates)
+* [Glossary](https://amplitude.com/glossary/terms)
 * [Product Benchmarks](https://amplitude.com/benchmarks)
 
 #### Connect
@@ -480,13 +480,13 @@
     Resource Center
     
     Expertise to guide your growth](https://amplitude.com/resources)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![Template icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Glossary icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![Template icon](https://cdn.sanity.io/images/l5rq9j6r/production/9944ca8ac72471b6a8ddd71dbcc8e914b2c85ee7-64x64.svg)
+    ![Glossary icon](https://cdn.sanity.io/images/l5rq9j6r/production/8a1d106bdcc6fe14770fb8f405821b4f533f3b01-24x24.svg)
     
-    Templates
+    Glossary
     
-    Amplitude template library](https://amplitude.com/templates)
+    All the terms you need to know](https://amplitude.com/glossary/terms)
 * [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![Benchmark icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
     ![Benchmark icon](https://cdn.sanity.io/images/l5rq9j6r/production/fd05129a1decfcbe6580c64213fe040a4de32e23-64x64.svg)
@@ -497,7 +497,7 @@
 
 * [Blog](https://amplitude.com/blog)
 * [Resource Center](https://amplitude.com/resources)
-* [Templates](https://amplitude.com/templates)
+* [Glossary](https://amplitude.com/glossary/terms)
 * [Product Benchmarks](https://amplitude.com/benchmarks)
 
 #### Connect
@@ -710,7 +710,7 @@
 * [Trust & privacy](https://amplitude.com/trust)
 * [AI](https://amplitude.com/ai)
 
-[Solutions](https://amplitude.com/solutions)
+[Solutions](https://amplitude.com/why-amplitude)
 
 #### Industry
 
@@ -820,7 +820,7 @@
 * [Engineering](https://amplitude.com/solutions/engineering)
 * [Marketing](https://amplitude.com/solutions/marketing)
 
-[Solutions](https://amplitude.com/solutions)
+[Solutions](https://amplitude.com/why-amplitude)
 
 #### Industry
 
@@ -948,13 +948,13 @@
     Resource Center
     
     Expertise to guide your growth](https://amplitude.com/resources)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![Template icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Glossary icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![Template icon](https://cdn.sanity.io/images/l5rq9j6r/production/9944ca8ac72471b6a8ddd71dbcc8e914b2c85ee7-64x64.svg)
+    ![Glossary icon](https://cdn.sanity.io/images/l5rq9j6r/production/8a1d106bdcc6fe14770fb8f405821b4f533f3b01-24x24.svg)
     
-    Templates
+    Glossary
     
-    Amplitude template library](https://amplitude.com/templates)
+    All the terms you need to know](https://amplitude.com/glossary/terms)
 * [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![Benchmark icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
     ![Benchmark icon](https://cdn.sanity.io/images/l5rq9j6r/production/fd05129a1decfcbe6580c64213fe040a4de32e23-64x64.svg)
@@ -965,7 +965,7 @@
 
 * [Blog](https://amplitude.com/blog)
 * [Resource Center](https://amplitude.com/resources)
-* [Templates](https://amplitude.com/templates)
+* [Glossary](https://amplitude.com/glossary/terms)
 * [Product Benchmarks](https://amplitude.com/benchmarks)
 
 #### Connect
@@ -1042,13 +1042,13 @@
     Resource Center
     
     Expertise to guide your growth](https://amplitude.com/resources)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![Template icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Glossary icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![Template icon](https://cdn.sanity.io/images/l5rq9j6r/production/9944ca8ac72471b6a8ddd71dbcc8e914b2c85ee7-64x64.svg)
+    ![Glossary icon](https://cdn.sanity.io/images/l5rq9j6r/production/8a1d106bdcc6fe14770fb8f405821b4f533f3b01-24x24.svg)
     
-    Templates
+    Glossary
     
-    Amplitude template library](https://amplitude.com/templates)
+    All the terms you need to know](https://amplitude.com/glossary/terms)
 * [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![Benchmark icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
     ![Benchmark icon](https://cdn.sanity.io/images/l5rq9j6r/production/fd05129a1decfcbe6580c64213fe040a4de32e23-64x64.svg)
@@ -1059,7 +1059,7 @@
 
 * [Blog](https://amplitude.com/blog)
 * [Resource Center](https://amplitude.com/resources)
-* [Templates](https://amplitude.com/templates)
+* [Glossary](https://amplitude.com/glossary/terms)
 * [Product Benchmarks](https://amplitude.com/benchmarks)
 
 #### Connect
@@ -1449,7 +1449,6 @@ Resources
 * [Amp Champs](https://amplitude.com/amp-champs)
 * [Amplitude Academy](https://academy.amplitude.com/)
 * [Events](https://amplitude.com/events)
-* [Glossary](https://amplitude.com/glossary/terms)
 
 Support
 
