@@ -53,7 +53,7 @@ In no event shall Apeaksoft Studio or its suppliers be liable for any damages wh
 
 1\. Apeaksoft Studio does not allow you to utilize our SOFTWARE PRODUCT to do anything that violates the local law. If you utilize our SOFTWARE PRODUCT to do the illegal activity, the consequent result shall be on your own responsibility. If you disagree with this item, please don't install and/or use the SOFTWARE PRODUCT.
 
-2\. The final interpretation is left to our discretion. Should you have any questions concerning this EULA, or if you desire to contact Apeaksoft Studio for any reason, please write to [support@apeaksoft.com](mailto:%20support@apeaksoft.com).
+2\. The final interpretation is left to our discretion. Should you have any questions concerning this EULA, or if you desire to contact Apeaksoft Studio for any reason, please write to [support@apeaksoft.com](mailto: support@apeaksoft.com).
 
 ### OTHER TERMS
 
