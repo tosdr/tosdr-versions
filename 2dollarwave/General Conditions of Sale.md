@@ -13,11 +13,11 @@ All purchases sold by 2DollarWave is sold as is without any guarantee. By making
 
   
 
-[![](https://faucetcrypto.com/banners/468x60.gif)](https://www.2dollarwave.com/trr.php?id=10)
+[![](https://www.xrpmax.pro/images/banner02.gif)](https://www.2dollarwave.com/trr.php?id=4)
 
   
 
-[![](https://spillovermatrix.com/img/best468.gif)](https://www.2dollarwave.com/trr.php?id=13)
+[![](http://pays4ever.com/b468.gif)](https://www.2dollarwave.com/trr.php?id=3)
 
   
   
