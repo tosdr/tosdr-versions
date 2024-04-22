@@ -24,7 +24,7 @@ Last Updated: July 5, 2023
 
 This Privacy Policy describes A24 Films LLC (“**A24**,” “**we**,” “**our**,” or “**us**”) collects, uses, and shares information about you, and applies to your use of any website, mobile application, or online service location that posts a link to this Privacy Policy, including but not limited to our websites at [a24films.com](http://a24films.com/), [a24auctions.com](http://a24auctions.com/), [publicaccess.a24films.com](http://publicaccess.a24films.com/), and [screeningroom.a24films.com](http://screeningroom.a24films.com/) (each, a “**Site**”), and all applications, features, content, and other services that we own, control and make available to you (collectively, with the Sites, the “**Services**”). If you are an employee or contractor, your personal information collected in those contexts will be subject to a separate privacy notice that we provide to you where and when appropriate.  
 
-For purposes of applicable data protection laws, A24 Films LLC is the data controller with regard to the data processing described below. You can contact our data protection officer (“**DPO**”) at [DPO@a24films.com](mailto:%20dpo@a24films.com).
+For purposes of applicable data protection laws, A24 Films LLC is the data controller with regard to the data processing described below. You can contact our data protection officer (“**DPO**”) at [DPO@a24films.com](mailto: dpo@a24films.com).
 
 2\. What Information We Collect.
 
