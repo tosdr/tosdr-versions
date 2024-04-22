@@ -2,7 +2,7 @@
 
 [Click here to return to Amazon Web Services homepage](https://aws.amazon.com/?nc2=h_lg)
 
-[About AWS](https://aws.amazon.com/about-aws/?nc2=h_header) [Contact Us](https://aws.amazon.com/contact-us/?nc2=h_header) [Support](#)  [English](#)  [My Account](#) 
+[Contact Us](https://aws.amazon.com/contact-us/?nc2=h_header) [Support](#)  [English](#)  [My Account](#) 
 
 [Sign In](https://console.aws.amazon.com/console/home?nc2=h_ct&src=header-signin)
 
@@ -593,7 +593,6 @@ Customers can access the information above through AWS Offerings, such as the [A
 
 * [What Is AWS?](https://aws.amazon.com/what-is-aws/?nc1=f_cc)
 * [What Is Cloud Computing?](https://aws.amazon.com/what-is-cloud-computing/?nc1=f_cc)
-* [AWS Accessibility](https://aws.amazon.com/accessibility/?nc1=f_cc)
 * [AWS Inclusion, Diversity & Equity](https://aws.amazon.com/diversity-inclusion/?nc1=f_cc)
 * [What Is DevOps?](https://aws.amazon.com/devops/what-is-devops/?nc1=f_cc)
 * [What Is a Container?](https://aws.amazon.com/containers/?nc1=f_cc)
@@ -674,8 +673,6 @@ Amazon is an Equal Opportunity Employer: _Minority / Women / Disability / Vetera
 * [中文 (繁體)](https://aws.amazon.com/tw/?nc1=h_ls)
 
 * [Privacy](https://aws.amazon.com/privacy/?nc1=f_pr)
-* |
-* [Accessibility](https://aws.amazon.com/accessibility/?nc1=f_acc)
 * |
 * [Site Terms](https://aws.amazon.com/terms/?nc1=f_pr)
 * |
