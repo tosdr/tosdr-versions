@@ -12,7 +12,7 @@ Language:  
 * [Prices](https://bluespice.com/buy/prices/configure-your-price/)
 * [Download](https://bluespice.com/download/)
 
-[![BlueSpice MediaWiki Logo](https://bluespice.com/wp-content/uploads/2022/09/bluespice_logo.png)](https://bluespice.com/)
+[![BlueSpice knowledge base and wiki Logo](https://bluespice.com/wp-content/uploads/2022/09/bluespice_logo.png)](https://bluespice.com/)
 
 * [Products](https://bluespice.com/products/)
     
@@ -57,7 +57,6 @@ Language:  
         * [See all use cases …](https://bluespice.com/solutions/)
     * Success Stories
         
-        * [Knowledgebase for Digmesa AG](https://bluespice.com/knowledge-management-at-digmesa-ag/)
         * [Organization manual for Tennet TSO](https://bluespice.com/tennet-tso/)
         * [Organization manual for terranets bw](https://bluespice.com/terranets-bw-gmbh/)
         * [IMS for Wiener Wohnen](https://bluespice.com/wiener-wohnen/)
@@ -123,13 +122,12 @@ Language:  
 
 [Contact](https://bluespice.com/contact/)
 
-Privacy2024-04-29T13:02:47+02:00
+Privacy2024-01-23T15:35:31+01:00
 
 Privacy policy
 ==============
 
-We take data protection seriously.
-----------------------------------
+We take data protection seriously  
 
 The protection of your privacy when processing personal data is an important concern for us. When you visit our website, our web servers store the IP of your Internet service provider, the website from which you visit us, the web pages you visit on our site and the date and duration of your visit as standard. This information is absolutely necessary for the technical transmission of the web pages and secure server operation. A personalized evaluation of this data does not take place.
 
