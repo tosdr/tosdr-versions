@@ -4,29 +4,13 @@
 Datenschutzerklärung
 ====================
 
-**Verantwortlich für die Datenverarbeitung ist:  
-**Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:
+**Verantwortlicher für die Datenverarbeitung ist:**  
+Affengeile Bilder  
+Mail: [info@affengeilebilder24.de](mailto:info@affengeilebilder24.de)
 
-allcop Farbbild-Service GmbH & Co. KG  
-Kreuzhofstraße 5  
-88161 Lindenberg im Allgäu  
-Telefon: 08381 503 0  
-E-Mail: info@allcop.de
+Wir freuen uns über Ihr Interesse an unserem Online-Shop. Der Schutz Ihrer Privatsphäre ist für uns sehr wichtig. Nachstehend informieren wir Sie ausführlich über den Umgang mit Ihren Daten.
 
-Verantwortliche Stelle ist die natürliche oder juristische Person, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z. B. Namen, E-Mail-Adressen o. Ä.) entscheidet.
-
-**Datenschutzbeauftragter**
-
-Wir haben einen Datenschutzbeauftragten benannt.
-
-Thomas Hug  
-IDKOM Networks GmbH  
-Dieselstraße 1  
-87437 Kempten  
-Telefon: +4983159090400  
-E-Mail: [datenschutz@idkom.de](mailto:datenschutz@idkom.de)
-
-1. **Zugriffsdaten und Hosting**
+**1\. Zugriffsdaten und Hosting**  
 
 Sie können unsere Webseiten besuchen, ohne Angaben zu Ihrer Person zu machen. Bei jedem Aufruf einer Webseite speichert der Webserver lediglich automatisch ein sogenanntes Server-Logfile, das z.B. den Namen der angeforderten Datei, Ihre IP-Adresse, Datum und Uhrzeit des Abrufs, übertragene Datenmenge und den anfragenden Provider (Zugriffsdaten) enthält und den Abruf dokumentiert.  
   
@@ -39,63 +23,34 @@ Dieser Dienstleister sitzt in den USA und ist zertifiziert unter dem EU-US-Priva
 
 Dieser Dienstleister sitzt in den USA und ist zertifiziert unter dem EU-US-Privacy Shield. Ein aktuelles Zertifikat kann [hier](https://www.privacyshield.gov/list) eingesehen werden. Aufgrund dieses Abkommens zwischen den USA und der Europäischen Kommission hat letztere für unter dem Privacy Shield zertifizierte Unternehmen ein angemessenes Datenschutzniveau festgestellt.
 
-2. **Datenerhebung und -verwendung zur Vertragsabwicklung, Kontaktaufnahme** 
+**2\. Datenerhebung und -verwendung zur Vertragsabwicklung, Kontaktaufnahme**   
 
 Wir erheben personenbezogene Daten, wenn Sie uns diese im Rahmen Ihrer Bestellung oder bei einer Kontaktaufnahme mit uns (z.B. per Kontaktformular oder E-Mail) freiwillig mitteilen. Pflichtfelder werden als solche gekennzeichnet, da wir in diesen Fällen die Daten zwingend zur Vertragsabwicklung, bzw. zur Bearbeitung Ihrer Kontaktaufnahme benötigen und Sie ohne deren Angabe die Bestellung bzw. die Kontaktaufnahme nicht versenden können. Welche Daten erhoben werden, ist aus den jeweiligen Eingabeformularen ersichtlich. Wir verwenden die von ihnen mitgeteilten Daten gemäß Art. 6 Abs. 1 S. 1 lit. b DSGVO zur Vertragsabwicklung und Bearbeitung Ihrer Anfragen. Soweit Sie hierzu Ihre Einwilligung nach Art. 6 Abs. 1 S. 1 lit. a DSGVO erteilt haben, indem Sie Sich für die Eröffnung eines Kundenkontos entscheiden, verwenden wir Ihre Daten zum Zwecke der Kundenkontoeröffnung. Nach vollständiger Abwicklung des Vertrages oder Löschung Ihres Kundenkontos werden Ihre Daten für die weitere Verarbeitung eingeschränkt und nach Ablauf der steuer- und handelsrechtlichen Aufbewahrungsfristen gelöscht, sofern Sie nicht ausdrücklich in eine weitere Nutzung Ihrer Daten eingewilligt haben oder wir uns eine darüber hinausgehende Datenverwendung vorbehalten, die gesetzlich erlaubt ist und über die wir Sie in dieser Erklärung informieren. Die Löschung Ihres Kundenkontos ist jederzeit möglich und kann entweder durch eine Nachricht an die unten beschriebene Kontaktmöglichkeit oder über eine dafür vorgesehene Funktion im Kundenkonto erfolgen.
 
-3. **Datenweitergabe**
+**3\. Datenweitergabe**
 
 Zur Vertragserfüllung gemäß Art. 6 Abs. 1 S. 1 lit. b DSGVO geben wir Ihre Daten an das mit der Lieferung beauftragte Versandunternehmen weiter, soweit dies zur Lieferung bestellter Waren erforderlich ist. Je nach dem, welchen Zahlungsdienstleister Sie im Bestellprozess auswählen, geben wir zur Abwicklung von Zahlungen die hierfür erhobenen Zahlungsdaten an das mit der Zahlung beauftragte Kreditinstitut und ggf. von uns beauftragte Zahlungsdienstleister weiter bzw. an den ausgewählten Zahlungsdienst. Zum Teil erheben die ausgewählten Zahlungsdienstleister diese Daten auch selbst, soweit Sie dort ein Konto anlegen. In diesem Fall müssen Sie sich im Bestellprozess mit Ihren Zugangsdaten bei dem Zahlungsdienstleister anmelden. Es gilt insoweit die Datenschutzerklärung des jeweiligen Zahlungsdienstleisters.
 
 Entsprechendes gilt für die Datenweitergabe an unsere Hersteller bzw. Großhändler in den Fällen, in denen sie den Versand für uns übernehmen (Streckengeschäft).
 
-4. **E-Mail-Newsletter**
+Wir setzen Zahlungsdienstleister und Versanddienstleister ein, die ihren Sitz in einem Staat außerhalb der Europäischen Union haben. Die Übermittlung personenbezogener Daten an diese Unternehmen erfolgt lediglich im Rahmen der Notwendigkeit zur Vertragserfüllung.
 
-Wenn Sie den auf der Website angebotenen Newsletter beziehen möchten, benötigen wir von Ihnen eine E Mail-Adresse sowie Informationen, welche uns die Überprüfung gestatten, dass Sie der Inhaber der angegebenen E-Mail-Adresse und mit dem Empfang des Newsletters einverstanden sind. Weitere Datenwerden nicht bzw. nur auf freiwilliger Basis erhoben. Für die Abwicklung der Newsletter nutzen wir Newsletterdiensteanbieter, die nachfolgend beschrieben werden.
+**4\. E-Mail-Newsletter**
 
-**Brevo**
+**E-Mail-Werbung mit Anmeldung zum Newsletter**  
+Wenn Sie sich zu unserem Newsletter anmelden, verwenden wir die hierfür erforderlichen oder gesondert von Ihnen mitgeteilten Daten, um Ihnen regelmäßig unseren E-Mail-Newsletter aufgrund Ihrer Einwilligung gemäß Art. 6 Abs. 1 S. 1 lit. a DSGVO zuzusenden.
 
-Diese Website nutzt Brevo für den Versand von Newslettern. Anbieter ist die Sendinblue GmbH, Köpenicker Straße 126, 10179 Berlin, Deutschland. Brevo ist ein Dienst, mit dem u.a. der Versand von Newslettern organisiert und analysiert werden kann. Die von Ihnen zum Zwecke des Newsletterbezugs eingegeben Daten werden auf den Servern der Sendinblue GmbH in Deutschland gespeichert.
+Die Abmeldung vom Newsletter ist jederzeit möglich und kann entweder durch eine Nachricht an die unten beschriebene Kontaktmöglichkeit oder über einen dafür vorgesehenen Link im Newsletter erfolgen. Nach Abmeldung löschen wir Ihre E-Mail-Adresse, soweit Sie nicht ausdrücklich in eine weitere Nutzung Ihrer Daten eingewilligt haben oder wir uns eine darüber hinausgehende Datenverwendung vorbehalten, die gesetzlich erlaubt ist und über die wir Sie in dieser Erklärung informieren.
 
-**Datenanalyse durch Brevo**
+**E-Mail-Werbung ohne Anmeldung zum Newsletter und Ihr Widerspruchsrecht**  
+Wenn wir Ihre E-Mail-Adresse im Zusammenhang mit dem Verkauf einer Ware oder Dienstleistung erhalten und Sie dem nicht widersprochen haben, behalten wir uns vor, Ihnen auf Grundlage von § 7 Abs. 3 UWG regelmäßig Angebote zu ähnlichen Produkten, wie den bereits gekauften, aus unserem Sortiment per E-Mail zuzusenden. Dies dient der Wahrung unserer im Rahmen einer Interessensabwägung überwiegenden berechtigten Interessen an einer werblichen Ansprache unserer Kunden.  
+Sie können dieser Verwendung Ihrer E-Mail-Adresse jederzeit durch eine Nachricht an die unten beschriebene Kontaktmöglichkeit oder über einen dafür vorgesehenen Link in der Werbemail widersprechen, ohne dass hierfür andere als die Übermittlungskosten nach den Basistarifen entstehen.
 
-Mit Hilfe von Brevo ist es uns möglich, unsere Newsletter-Kampagnen zu analysieren. So können wir z. B. sehen, ob eine Newsletter-Nachricht geöffnet und welche Links ggf. angeklickt wurden. Auf diese Weise können wir u.a. feststellen, welche Links besonders oft angeklickt wurden. Außerdem können wir erkennen, ob nach dem Öffnen/ Anklicken bestimmte vorher definierte Aktionen durchgeführt wurden (Conversion-Rate). Wir können so z. B. erkennen, ob Sie nach dem Anklicken des Newsletters einen Kauf getätigt haben. Brevo ermöglicht es uns auch, die Newsletter-Empfänger anhand verschiedener Kategorien zu unterteilen („clustern“). Dabei lassen sich die Newsletterempfänger z. B. nach Alter, Geschlecht oder Wohnort unterteilen. Auf diese Weise lassen sich die Newsletter besser an die jeweiligen Zielgruppen anpassen. Wenn Sie keine Analyse durch Brevo wollen, müssen Sie den Newsletter abbestellen. Hierfür stellen wir in jeder Newsletternachricht einen entsprechenden Link zur Verfügung.
+Der Newsletter wird im Rahmen einer Verarbeitung in unserem Auftrag durch einen Dienstleister versendet, an den wir Ihre E-Mail-Adresse hierzu weitergeben.
 
-Ausführliche Informationen zum zu den Funktionen von Brevo entnehmen Sie folgendem Link: https://www.brevo.com/de/newsletter-software/.
+Dieser Dienstleister sitzt in den USA und ist zertifiziert unter dem EU-US-Privacy Shield. Ein aktuelles Zertifikat kann [hier](https://www.privacyshield.gov/list) eingesehen werden. Aufgrund dieses Abkommens zwischen den USA und der Europäischen Kommission hat letztere für unter dem Privacy Shield zertifizierte Unternehmen ein angemessenes Datenschutzniveau festgestellt.
 
-**Rechtsgrundlage**
-
-Die Datenverarbeitung erfolgt auf Grundlage Ihrer Einwilligung (Art. 6 Abs. 1 lit. a DSGVO). Sie können diese Einwilligung jederzeit widerrufen. Die Rechtmäßigkeit der bereits erfolgten Datenverarbeitungsvorgänge bleibt vom Widerruf unberührt.
-
-**Speicherdauer**
-
-Die von Ihnen zum Zwecke des Newsletter-Bezugs bei uns hinterlegten Daten werden von uns bis zu Ihrer Austragung aus dem Newsletter bei uns bzw. dem Newsletterdiensteanbieter gespeichert und nach der Abbestellung des Newsletters aus der Newsletterverteilerliste gelöscht. Daten, die zu anderen Zwecken bei uns gespeichert wurden, bleiben hiervon unberührt. Nach Ihrer Austragung aus der Newsletterverteilerliste wird Ihre E-Mail-Adresse bei uns bzw. dem Newsletterdiensteanbieter ggf. in einer Blacklist gespeichert, sofern dies zur Verhinderung künftiger Mailings erforderlich ist. Die Daten aus der Blacklist werden nur für diesen Zweck verwendet und nicht mit anderen Daten zusammengeführt. Dies dient sowohl Ihrem Interesse als auch unserem Interesse an der Einhaltung der gesetzlichen Vorgaben beim Versand von Newslettern (berechtigtes Interesse im Sinne des Art. 6 Abs. 1 lit. f DSGVO). Die Speicherung in der Blacklist ist zeitlich nicht befristet. **Sie können der** **Speicherung widersprechen, sofern Ihre Interessen unser berechtigtes Interesse überwiegen.** Näheres entnehmen Sie den Datenschutzbestimmungen von Brevo unter: https://www.brevo.com/de/datenschutz-uebersicht/ sowie https://www.brevo.com/de/legal/privacypolicy/.
-
-**Auftragsverarbeitung**
-
-Wir haben einen Vertrag über Auftragsverarbeitung (AVV) zur Nutzung des oben genannten Dienstes geschlossen. Hierbei handelt es sich um einen datenschutzrechtlich vorgeschriebenen Vertrag, der gewährleistet, dass dieser die personenbezogenen Daten unserer Websitebesucher nur nach unseren Weisungen und unter Einhaltung der DSGVO verarbeitet.
-
-**Google Analytics**
-
-Diese Website nutzt Funktionen des Webanalysedienstes Google Analytics. Anbieter ist die Google Ireland Limited („Google“), Gordon House, Barrow Street, Dublin 4, Irland.
-
-Google Analytics ermöglicht es dem Websitebetreiber, das Verhalten der Websitebesucher zu analysieren. Hierbei erhält der Websitebetreiber verschiedene Nutzungsdaten, wie z. B. Seitenaufrufe, Verweildauer, verwendete Betriebssysteme und Herkunft des Nutzers. Diese Daten werden dem jeweiligen Endgerät des Users zugeordnet. Eine Zuordnung zu einer User-ID erfolgt nicht. Des Weiteren können wir mit Google Analytics u. a. Ihre Maus- und Scrollbewegungen und Klicks aufzeichnen. Ferner verwendet Google Analytics verschiedene Modellierungsansätze, um die erfassten Datensätze zu ergänzen und setzt Machine-Learning-Technologien bei der Datenanalyse ein. Google Analytics verwendet Technologien, die die Wiedererkennung des Nutzers zum Zwecke der Analyse des Nutzerverhaltens ermöglichen (z. B. Cookies oder Device-Fingerprinting). Die von Google erfassten Informationen über die Benutzung dieser Website werden in der Regel an einen Server von Google in den USA übertragen und dort gespeichert.
-
-Die Nutzung dieses Dienstes erfolgt auf Grundlage Ihrer Einwilligung nach Art. 6 Abs. 1 lit. a DSGVO und § 25 Abs. 1 TTDSG. Die Einwilligung ist jederzeit widerrufbar.
-
-Die Datenübertragung in die USA wird auf die Standardvertragsklauseln der EU-Kommission gestützt.
-
-Details finden Sie hier:
-
-https://privacy.google.com/businesses/controllerterms/mccs/.
-
-Das Unternehmen verfügt über eine Zertifizierung nach dem „EU-US Data Privacy Framework“ (DPF). Der DPF ist ein Übereinkommen zwischen der Europäischen Union und den USA, der die Einhaltung europäischer Datenschutzstandards bei Datenverarbeitungen in den USA gewährleisten soll. Jedes nach dem DPF zertifizierte Unternehmen verpflichtet sich, diese Datenschutzstandards einzuhalten.
-
-Weitere Informationen hierzu erhalten Sie vom Anbieter unter folgendem Link:
-
-https://www.dataprivacyframework.gov/s/participant-search/participantdetail?contact=true&id=a2zt000000001L5AAI&status=Active
-
-5. **Cookies und Webanalyse**
+**5\. Cookies und Webanalyse**
 
 Um den Besuch unserer Website attraktiv zu gestalten und die Nutzung bestimmter Funktionen zu ermöglichen, um passende Produkte anzuzeigen oder zur Marktforschung verwenden wir auf verschiedenen Seiten sogenannte Cookies. Dies dient der Wahrung unserer im Rahmen einer Interessensabwägung überwiegenden berechtigten Interessen an einer optimierten Darstellung unseres Angebots gemäß Art. 6 Abs. 1 S. 1 lit. f DSGVO. Cookies sind kleine Textdateien, die automatisch auf Ihrem Endgerät gespeichert werden. Einige der von uns verwendeten Cookies werden nach Ende der Browser-Sitzung, also nach Schließen Ihres Browsers, wieder gelöscht (sog. Sitzungs-Cookies). Andere Cookies verbleiben auf Ihrem Endgerät und ermöglichen uns, Ihren Browser beim nächsten Besuch wiederzuerkennen (persistente Cookies). Die Dauer der Speicherung können Sie der Übersicht in den Cookie-Einstellungen Ihres Webbrowsers entnehmen. Sie können Ihren Browser so einstellen, dass Sie über das Setzen von Cookies informiert werden und einzeln über deren Annahme entscheiden oder die Annahme von Cookies für bestimmte Fälle oder generell ausschließen. Jeder Browser unterscheidet sich in der Art, wie er die Cookie-Einstellungen verwaltet. Diese ist in dem Hilfemenü jedes Browsers beschrieben, welches Ihnen erläutert, wie Sie Ihre Cookie-Einstellungen ändern können. Diese finden Sie für die jeweiligen Browser unter den folgenden Links:  
 Internet Explorer™: https://support.microsoft.com/de-de/help/17442/windows-internet-explorer-delete-manage-cookies  
@@ -106,26 +61,26 @@ Opera™ : https://help.opera.com/de/latest/web-preferences/#cookies
   
 Bei der Nichtannahme von Cookies kann die Funktionalität unserer Website eingeschränkt sein.
 
-**Einsatz von Matomo**
+**Einsatz der Piwik PRO Analytics Suite zur Webanalyse**
 
-Diese Website benutzt den Open Source Webanalysedienst Matomo. Mit Hilfe von Matomo sind wir in der Lage Daten über die Nutzung unserer Website durch die Websitebesucher zu erfassen und zu analysieren. Hierdurch können wir u. a. herausfinden, wann welche Seitenaufrufe getätigt wurden und aus welcher Region sie kommen. Außerdem erfassen wir verschiedene Logdateien (z. B. IP-Adresse, Referrer, verwendete Browser und Betriebssysteme) und können messen, ob unsere Websitebesucher bestimmte Aktionen durchführen (z. B. Klicks, Käufe u. Ä.). Die Nutzung dieses Analyse-Tools erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO. Der Websitebetreiber hat ein berechtigtes Interesse an der Analyse des Nutzerverhaltens, um sowohl sein Webangebot als auch seine Werbung zu optimieren. Sofern eine entsprechende Einwilligung abgefragt wurde, erfolgt die Verarbeitung ausschließlich auf Grundlage von Art. 6 Abs. 1 lit. a DSGVO und § 25 Abs. 1 TTDSG, soweit die Einwilligung die Speicherung von Cookies oder den Zugriff auf Informationen im Endgerät des Nutzers (z. B. Device-Fingerprinting) im Sinne des TTDSG umfasst. Die Einwilligung ist jederzeit widerrufbar.
-
-**Hosting**
-
-Wir hosten Matomo ausschließlich auf unseren eigenen Servern, sodass alle Analysedaten bei uns verbleiben und nicht weitergegeben werden.
+Wir sammeln Daten über Website-Besucher mit [Cookies](https://help.piwik.pro/support/getting-started/cookies-created-by-piwik-pro/). Die gesammelten Informationen umfassen beispielsweise die IP-Adresse des Besuchers, das Betriebssystem, die Browser-ID, die Browsing-Aktivität und andere Informationen. Sehen Sie sich den [Umfang der von Piwik PRO erfassten Daten](https://help.piwik.pro/support/getting-started/what-data-does-piwik-pro-collect/) an.  
+Wir berechnen Metriken wie Absprungrate, Seitenaufrufe, Sessions und Ähnliches, um zu verstehen, wie unsere Website genutzt wird. Wir können auch Besucherprofile auf der Grundlage des Browserverlaufs erstellen und analysieren so das Besucherverhalten, zeigen personalisierte Inhalte an und führen Online-Kampagnen durch.  
+Wir hosten unsere Lösung auf Microsoft Azure in Deutschland, und speichern die Daten für 25 Monate.  
+Zweck der Datenverarbeitung: Analytics und Conversion Tracking basierend auf Ihrer Einwilligung. Rechtsgrundlage: Art. 6 (1)(a) GDPR.  
+Piwik PRO gibt die Daten über Sie nicht an andere Unterauftragsverarbeiter oder Dritte weiter und verwendet sie nicht für eigene Zwecke. Weitere Informationen finden Sie in [der Datenschutzrichtlinie von Piwik PRO](https://piwik.pro/privacy-policy/#product).
 
 **Einsatz von Google (Universal) Analytics zur Webanalyse**  
 Soweit Sie hierzu Ihre Einwilligung nach Art. 6 Abs. 1 S. 1 lit. a DSGVO erteilt haben, setzt diese Website zum Zweck der Webseitenanalyse Google (Universal) Analytics ein. Der Webanalysedienst ist ein Angebot der Google Ireland Limited, einer nach irischem Recht eingetragenen und betriebenen Gesellschaft mit Sitz in Gordon House, Barrow Street, Dublin 4, Irland. (www.google.de). Google (Universal) Analytics verwendet Methoden, die eine Analyse der Benutzung der Website durch Sie ermöglichen, wie zum Beispiel Cookies. Die automatisch erhobenen Informationen über Ihre Benutzung dieser Website werden in der Regel an einen Server von Google in den USA übertragen und dort gespeichert. Durch die Aktivierung der IP-Anonymisierung auf dieser Webseite wird dabei die IP-Adresse vor der Übermittlung innerhalb der Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum gekürzt. Nur in Ausnahmefällen wird die volle IP-Adresse an einen Server von Google in den USA übertragen und dort gekürzt. Die im Rahmen von Google Analytics von Ihrem Browser übermittelte anonymisierte IP-Adresse wird grundsätzlich nicht mit anderen Daten von Google zusammengeführt. Nach Zweckfortfall und Ende des Einsatzes von Google Analytics durch uns werden die in diesem Zusammenhang erhobenen Daten gelöscht. Soweit Informationen auf Server von Google in den USA übertragen und dort gespeichert werden, ist die amerikanische Gesellschaft Google LLC unter dem EU-US-Privacy Shield zertifiziert. Ein aktuelles Zertifikat kann [hier](https://www.privacyshield.gov/list) eingesehen werden. Aufgrund dieses Abkommens zwischen den USA und der Europäischen Kommission hat letztere für unter dem Privacy Shield zertifizierte Unternehmen ein angemessenes Datenschutzniveau festgestellt.  
   
 Sie können Ihre Einwilligung jederzeit mit Wirkung für die Zukunft widerrufen, indem sie das unter dem folgenden Link verfügbare Browser-Plugin herunterladen und installieren:[https://tools.google.com/dlpage/gaoptout?hl=de](https://tools.google.com/dlpage/gaoptout?hl=de). Hierdurch wird die Erfassung der durch das Cookie erzeugten und auf Ihre Nutzung der Website bezogenen Daten (inkl. Ihrer IP-Adresse) sowie die Verarbeitung dieser Daten durch Google verhindert.  
   
-Alternativ zum Browser-Plugin können Sie diesen Linkklicken, um die Erfassung durch Google Analytics auf dieser Website zukünftig zu verhindern. Dabei wird ein Opt-Out-Cookie auf Ihrem Endgerät abgelegt. Löschen Sie Ihre Cookies, werden Sie erneut um Erteilung Ihrer Einwilligung gebeten.
+Alternativ zum Browser-Plugin können Sie diesen Linkklicken, um die Erfassung durch Google Analytics auf dieser Website zukünftig zu verhindern. Dabei wird ein Opt-Out-Cookie auf Ihrem Endgerät abgelegt. Löschen Sie Ihre Cookies, werden Sie erneut um Erteilung Ihrer Einwilligung gebeten.
 
 Soweit Sie hierzu Ihre Einwilligung nach Art. 6 Abs. 1 S. 1 lit. a DSGVO erteilt haben, setzt diese Website zudem Google Signals ein. Hierbei handelt es sich um eine Erweiterungsfunktion von Google Analytics, die ein sog. „Cross-Device Tracking“ ermöglicht. Das bedeutet, dass soweit Ihre internetfähigen Geräte mit Ihrem Google-Konto verknüpft sind, Google Berichte über das Nutzungsverhalten (insb. die geräteübergreifenden Nutzerzahlen) erstellen kann, auch wenn Sie Ihr Endgerät wechseln. Hierzu werden von Google Daten verwendet, soweit Sie die Einstellung „personalisierte Werbung“ in Ihrem Google Konto aktiviert haben.  
 Eine Verarbeitung von personenbezogenen Daten findet durch uns insoweit nicht statt, wir erhalten lediglich auf Basis von Google Signals erstellte Statistiken.  
 Sie können Ihre Einwilligung jederzeit mit Wirkung für die Zukunft widerrufen, indem sie das unter dem folgenden Link verfügbare Browser-Plugin herunterladen und installieren:[https://tools.google.com/dlpage/gaoptout?hl=de](https://tools.google.com/dlpage/gaoptout?hl=de). Hierdurch wird die Erfassung der durch das Cookie erzeugten und auf Ihre Nutzung der Website bezogenen Daten (inkl. Ihrer IP-Adresse) sowie die Verarbeitung dieser Daten durch Google verhindert. Darüber hinaus können Sie die Einstellung „personalisierte Werbung“ in Ihrem Google Konto deaktivieren. Details finden Sie [hier](https://support.google.com/ads/answer/2662922?hl=de).
 
-6. **Online-Marketing**
+**6\. Online-Marketing**
 
 **Google AdSense**  
 Unsere Website vermarktet über Google AdSense Platz für Anzeigen von Drittanbietern und Werbenetzwerken. Diese Anzeigen werden Ihnen an verschiedenen Stellen auf dieser Website angezeigt. Soweit Sie uns hierzu Ihre Einwilligung gemäß Art. 6 Abs. 1 S. 1 lit. a DSGVO erteilt haben, wird im Rahmen der Einbindung von Google AdSense das sog. DoubleClick-Cookie von Google gesetzt.  
@@ -185,13 +140,13 @@ In diesem Rahmen wird eine Verbindung zwischen dem von Ihnen verwendeten Browser
 Soweit Informationen auf Server von Google in den USA übertragen und dort gespeichert werden, ist die amerikanische Gesellschaft Google LLC unter dem EU-US-Privacy Shield zertifiziert. Ein aktuelles Zertifikat kann [hier](https://www.privacyshield.gov/list) eingesehen werden. Aufgrund dieses Abkommens zwischen den USA und der Europäischen Kommission hat letztere für unter dem Privacy Shield zertifizierte Unternehmen ein angemessenes Datenschutzniveau festgestellt.  
 Weitergehende Informationen über die Datenverarbeitung durch Google finden Sie in den Datenschutzhinweisen von [Google](https://policies.google.com/privacy).
 
-**Gutschein- und Werbesystem der VCHFY GmbH**
+****Gutschein- und Werbesystem der VCHFY GmbH****
 
 Auf Grundlage des Art. 6 Abs. 1 lit. b DSGVO verwenden wir zur Erfüllung eines Vertrags oder zur Durchführung vorvertraglicher Maßnahmen für den Verkauf unserer Produkte das Gutschein- und Werbesystem der Firma VCHFY GmbH, Tornquiststraße 51, 20259 Hamburg, Deutschland. Bei Aufruf dieses Programms werden im Rahmen einer Auftragsverarbeitung personenbezogene Daten (IP-Adresse, Bestellnummer sowie Artikel- und Bestellwerte) an die VCHFY zur Auftragsverarbeitung weitergeleitet. Das Gutschein- und Werbesystem setzt hierzu Cookies ein. Diese sind zur Vertragserfüllung oder für vorvertragliche Maßnahmen erforderlich und basieren ebenso auf Art. 6 Abs. 1 lit. b DSGVO.
 
 Einzelheiten zum Umgang mit Nutzerdaten finden Sie in der Datenschutzerklärung von VCHFY GmbH unter: [http://www.vchfy.com/de/datenschutz/](http://www.vchfy.com/de/datenschutz/).
 
-7. **Social Media PlugIns**
+**7\. Social Media PlugIns**  
 
 **Verwendung von Social Plugins von Whatsapp unter Verwendung der Shariff-Lösung.**  
   
@@ -204,11 +159,11 @@ Klicken Sie auf einen der Buttons, öffnet sich ein neues Fenster Ihres Browsers
 Zweck und Umfang der Datenerhebung und die weitere Verarbeitung und Nutzung der Daten durch die Anbieter auf deren Seiten sowie eine Kontaktmöglichkeit und Ihre diesbezüglichen Rechte und Einstellungsmöglichkeiten zum Schutz Ihrer Privatsphäre entnehmen Sie bitte den Datenschutzhinweisen der Anbieter.  
 [https://www.whatsapp.com/legal/#privacy-policy](https://www.whatsapp.com/legal/#privacy-policy)
 
-**YouTube Video Plugins**  
+**Youtube Video Plugins**  
 Auf dieser Webseite werden Inhalte dritter Anbieter eingebunden. Diese Inhalte werden von Google zur Verfügung gestellt („Anbieter“).  
 YouTube ist ein Angebot der Google Ireland Limited, einer nach irischem Recht eingetragenen und betriebenen Gesellschaft mit Sitz in Gordon House, Barrow Street, Dublin 4, Irland (www.google.de).   
   
-Bei Videos von YouTube, die auf unserer Seite eingebunden sind, ist die erweiterte Datenschutzeinstellung aktiviert. Das bedeutet, dass keine Informationen von Webseitenbesuchern bei YouTube erhoben und gespeichert werden, es sei denn, diese spielen das Video ab. Die Einbindung der Videos dient der Wahrung unserer im Rahmen einer Interessensabwägung überwiegenden berechtigten Interessen an einer optimalen Vermarktung unseres Angebots gemäß Art. 6 Abs. 1 S. 1 lit. f DSGVO.  
+Bei Videos von Youtube, die auf unserer Seite eingebunden sind, ist die erweiterte Datenschutzeinstellung aktiviert. Das bedeutet, dass keine Informationen von Webseitenbesuchern bei Youtube erhoben und gespeichert werden, es sei denn, diese spielen das Video ab. Die Einbindung der Videos dient der Wahrung unserer im Rahmen einer Interessensabwägung überwiegenden berechtigten Interessen an einer optimalen Vermarktung unseres Angebots gemäß Art. 6 Abs. 1 S. 1 lit. f DSGVO.  
 Zweck und Umfang der Datenerhebung und die weitere Verarbeitung und Nutzung der Daten durch die Anbieter sowie Ihre diesbezüglichen Rechte und Einstellungsmöglichkeiten zum Schutz Ihrer Privatsphäre entnehmen Sie bitte den Datenschutzhinweisen von Google [https://policies.google.com/privacy](https://policies.google.com/privacy).
 
 **Unsere Onlinepräsenz auf Facebook, Google, Twitter, Instagram, Pinterest**  
@@ -233,12 +188,12 @@ Twitter: [https://twitter.com/personalization](https://twitter.com/personalizat
 Instagram: [https://help.instagram.com/519522125107875](https://help.instagram.com/519522125107875)  
 Pinterest: [https://www.pinterest.de/?next=/settings/](https://www.pinterest.de/?next=/settings/)
 
-8. **Versand von Bewertungserinnerungen per E-Mail**
+**8\. Versand von Bewertungserinnerungen per E-Mail**
 
 Sofern Sie uns hierzu während oder nach Ihrer Bestellung Ihre ausdrückliche Einwilligung gemäß Art. 6 Abs. 1 S. 1 lit. a DSGVO erteilt haben, verwenden wir Ihre E-Mail-Adresse zur Erinnerung zur Abgabe einer Bewertung Ihrer Bestellung über das von uns eingesetzte Bewertungssystem.   
 Diese Einwilligung kann jederzeit durch eine Nachricht an die unten beschriebene Kontaktmöglichkeit widerrufen werden.
 
-9. **Kontaktmöglichkeiten und Ihre Rechte**
+**9\. Kontaktmöglichkeiten und Ihre Rechte**
 
 Als Betroffener haben Sie folgende Rechte:
 
@@ -268,31 +223,3 @@ Soweit wir zur Wahrung unserer im Rahmen einer Interessensabwägung überwiegend
 Nach Ausübung Ihres Widerspruchsrechts werden wir Ihre personenbezogenen Daten nicht weiter zu diesen Zwecken verarbeiten, es sei denn, wir können zwingende schutzwürdige Gründe für die Verarbeitung nachweisen, die Ihre Interessen, Rechte und Freiheiten überwiegen, oder wenn die Verarbeitung der Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen dient.  
   
 Dies gilt nicht, wenn die Verarbeitung zu Zwecken des Direktmarketings erfolgt. Dann werden wir Ihre personenbezogenen Daten nicht weiter zu diesem Zweck verarbeiten.
-
-10. **Zahlungsdienstleister**
-
-**Verarbeiten von Kunden- und Vertragsdaten**
-
-Wir erheben, verarbeiten und nutzen personenbezogene Kunden- und Vertragsdaten zur Begründung, inhaltlichen Ausgestaltung und Änderung unserer Vertragsbeziehungen. Personenbezogene Daten über die Inanspruchnahme dieser Website (Nutzungsdaten) erheben, verarbeiten und nutzen wir nur, soweit dies erforderlich ist, um dem Nutzer die Inanspruchnahme des Dienstes zu ermöglichen oder abzurechnen. Rechtsgrundlage hierfür ist Art. 6 Abs. 1 lit. b DSGVO. Die erhobenen Kundendaten werden nach Abschluss des Auftrags oder Beendigung der Geschäftsbeziehung und Ablauf der ggf. bestehenden gesetzlichen Aufbewahrungsfristen gelöscht. Gesetzliche Aufbewahrungsfristen bleiben unberührt.
-
-**Datenübermittlung bei Vertragsschluss für Online-Shops, Händler und Warenversand**
-
-Wenn Sie Waren bei uns bestellen, geben wir Ihre personenbezogenen Daten an das zur Lieferung betraute Transportunternehmen sowie an den mit der Zahlungsabwicklung beauftragten Zahlungsdienstleister weiter. Es werden nur solche Daten herausgegeben, die der jeweilige Dienstleister zur Erfüllung seiner Aufgabe benötigt. Rechtsgrundlage hierfür ist Art. 6 Abs. 1 lit. b DSGVO, der die Verarbeitung von Daten zur Erfüllung eines Vertrags oder vorvertraglicher Maßnahmen gestattet. Sofern Sie eine entsprechende Einwilligung nach Art. 6 Abs. 1 lit. a DSGVO erteilt haben, werden wir Ihre E-Mail-Adresse an das mit der Lieferung betraute Transportunternehmen übergeben, damit dieses Sie per E-Mail über den Versandstatus Ihrer Bestellung informieren kann; Sie können die Einwilligung jederzeit widerrufen.
-
-**Datenübermittlung bei Vertragsschluss für Dienstleistungen und digitale Inhalte**
-
-Wir übermitteln personenbezogene Daten an Dritte nur dann, wenn dies im Rahmen der Vertragsabwicklung notwendig ist, etwa an das mit der Zahlungsabwicklung beauftragte Kreditinstitut. Eine weitergehende Übermittlung der Daten erfolgt nicht bzw. nur dann, wenn Sie der Übermittlung ausdrücklich zugestimmt haben. Eine Weitergabe Ihrer Daten an Dritte ohne ausdrückliche Einwilligung, etwa zu Zwecken der Werbung, erfolgt nicht. Grundlage für die Datenverarbeitung ist Art. 6 Abs. 1 lit. b DSGVO, der die Verarbeitung von Daten zur Erfüllung eines Vertrags oder vorvertraglicher Maßnahmen gestattet.
-
-**Zahlungsdienste**
-
-Wir binden Zahlungsdienste von Drittunternehmen auf unserer Website ein. Wenn Sie einen Kauf bei uns tätigen, werden Ihre Zahlungsdaten (z. B. Name, Zahlungssumme, Kontoverbindung, Kreditkartennummer) vom Zahlungsdienstleister zum Zwecke der Zahlungsabwicklung verarbeitet. Für diese Transaktionen gelten die jeweiligen Vertrags- und Datenschutzbestimmungen der jeweiligen Anbieter. Der Einsatz der Zahlungsdienstleister erfolgt auf Grundlage von Art. 6 Abs. 1 lit. b DSGVO (Vertragsabwicklung) sowie im Interesse eines möglichst reibungslosen, komfortablen und sicheren Zahlungsvorgangs (Art. 6 Abs. 1 lit. f DSGVO). Soweit für bestimmte Handlungen Ihre Einwilligung abgefragt wird, ist Art. 6 Abs. 1 lit. a DSGVO Rechtsgrundlage der Datenverarbeitung; Einwilligungen sind jederzeit für die Zukunft widerrufbar.
-
-Folgende Zahlungsdienste / Zahlungsdienstleister setzen wir im Rahmen dieser Website ein:
-
-**Shopify Payment**
-
-Anbieter dieses Zahlungsdienstes in der EU ist die Shopify International Limited, 2nd Floor Victoria Buildings, 1-2 Haddington Road, Dublin 4, D04 XN32, Irland (im Folgenden „Shopify Payment“).
-
-Details entnehmen Sie der Datenschutzerklärung von Shopify Payment:
-
-[https://www.shopify.de/legal/datenschutz](https://www.shopify.de/legal/datenschutz).
