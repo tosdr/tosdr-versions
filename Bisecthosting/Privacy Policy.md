@@ -32,9 +32,9 @@
 * [Partners](https://www.bisecthosting.com/partnerships)
 * [Blog](https://www.bisecthosting.com/blog)
 
-. . .USD
+USD
 
-USDGBPEURCADAUDNZDSGD
+GBPEURCADAUDNZDSGD
 
 [Home](https://www.bisecthosting.com/)Privacy
 
@@ -263,7 +263,7 @@ Services
 * [Web Hosting](https://www.bisecthosting.com/web-hosting)
 * [Mumble Hosting](https://www.bisecthosting.com/mumble-server-hosting)
 * [Discord Bot](https://www.bisecthosting.com/discord-bot-hosting)
-* [Modpacks Directory](https://www.bisecthosting.com/modpack-server-hosting)
+* [Modpacks Directory](https://www.bisecthosting.com/modpacks-directory)
 * [Selector](https://www.bisecthosting.com/selector)
 
 Customers
@@ -283,9 +283,9 @@ Social
 
 Copyright 2024 © Venture Node LLC. All rights reserved.
 
-. . .USD
+USD
 
-USDGBPEURCADAUDNZDSGD
+GBPEURCADAUDNZDSGD
 
 * [MINECRAFT](https://www.bisecthosting.com/minecraft-servers)
 * [GAME SERVERS](https://www.bisecthosting.com/game-server-hosting)
