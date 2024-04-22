@@ -12,7 +12,7 @@ Breeds A-Z Expert Advice Products & Services Sports & Events Clubs & Delegates
 
 Find By Breed Name Select A Breed Affenpinscher Afghan Hound Airedale Terrier Akita Alaskan Klee Kai Alaskan Malamute American Bulldog American English Coonhound American Eskimo Dog American Foxhound American Hairless Terrier American Leopard Hound American Staffordshire Terrier American Water Spaniel Anatolian Shepherd Dog Appenzeller Sennenhund Australian Cattle Dog Australian Kelpie Australian Shepherd Australian Stumpy Tail Cattle Dog Australian Terrier Azawakh Barbado da Terceira Barbet Basenji Basset Fauve de Bretagne Basset Hound Bavarian Mountain Scent Hound Beagle Bearded Collie Beauceron Bedlington Terrier Belgian Laekenois Belgian Malinois Belgian Sheepdog Belgian Tervuren Bergamasco Sheepdog Berger Picard Bernese Mountain Dog Bichon Frise Biewer Terrier Black and Tan Coonhound Black Russian Terrier Bloodhound Bluetick Coonhound Boerboel Bohemian Shepherd Bolognese Border Collie Border Terrier Borzoi Boston Terrier Bouvier des Flandres Boxer Boykin Spaniel Bracco Italiano Braque du Bourbonnais Braque Francais Pyrenean Braque Saint-Germain Brazilian Terrier Briard Brittany Broholmer Brussels Griffon Bull Terrier Bulldog Bullmastiff Cairn Terrier Canaan Dog Cane Corso Cardigan Welsh Corgi Carolina Dog Catahoula Leopard Dog Caucasian Shepherd Dog Cavalier King Charles Spaniel Central Asian Shepherd Dog Cesky Terrier Chesapeake Bay Retriever Chihuahua Chinese Crested Chinese Shar-Pei Chinook Chow Chow Cirneco dell’Etna Clumber Spaniel Cocker Spaniel Collie Coton de Tulear Croatian Sheepdog Curly-Coated Retriever Czechoslovakian Vlciak Dachshund Dalmatian Dandie Dinmont Terrier Danish-Swedish Farmdog Deutscher Wachtelhund Doberman Pinscher Dogo Argentino Dogue de Bordeaux Drentsche Patrijshond Drever Dutch Shepherd English Cocker Spaniel English Foxhound English Setter English Springer Spaniel English Toy Spaniel Entlebucher Mountain Dog Estrela Mountain Dog Eurasier Field Spaniel Finnish Lapphund Finnish Spitz Flat-Coated Retriever French Bulldog French Spaniel German Longhaired Pointer German Pinscher German Shepherd Dog German Shorthaired Pointer German Spitz German Wirehaired Pointer Giant Schnauzer Glen of Imaal Terrier Golden Retriever Gordon Setter Grand Basset Griffon Vendéen Great Dane Great Pyrenees Greater Swiss Mountain Dog Greyhound Hamiltonstovare Hanoverian Scenthound Harrier Havanese Hokkaido Hovawart Ibizan Hound Icelandic Sheepdog Irish Red and White Setter Irish Setter Irish Terrier Irish Water Spaniel Irish Wolfhound Italian Greyhound Jagdterrier Japanese Akitainu Japanese Chin Japanese Spitz Japanese Terrier Kai Ken Karelian Bear Dog Keeshond Kerry Blue Terrier Kishu Ken Komondor Korean Jindo Dog Kromfohrlander Kuvasz Labrador Retriever Lagotto Romagnolo Lakeland Terrier Lancashire Heeler Lapponian Herder Large Munsterlander Leonberger Lhasa Apso Löwchen Maltese Manchester Terrier (Standard) Manchester Terrier (Toy) Mastiff Miniature American Shepherd Miniature Bull Terrier Miniature Pinscher Miniature Schnauzer Mountain Cur Mudi Neapolitan Mastiff Nederlandse Kooikerhondje Newfoundland Norfolk Terrier Norrbottenspets Norwegian Buhund Norwegian Elkhound Norwegian Lundehund Norwich Terrier Nova Scotia Duck Tolling Retriever Old English Sheepdog Otterhound Papillon Parson Russell Terrier Pekingese Pembroke Welsh Corgi Peruvian Inca Orchid Petit Basset Griffon Vendéen Pharaoh Hound Plott Hound Pointer Polish Lowland Sheepdog Pomeranian Pont-Audemer Spaniel Poodle (Miniature) Poodle (Standard) Poodle (Toy) Porcelaine Portuguese Podengo Portuguese Podengo Pequeno Portuguese Pointer Portuguese Sheepdog Portuguese Water Dog Presa Canario Pudelpointer Pug Puli Pumi Pyrenean Mastiff Pyrenean Shepherd Rafeiro do Alentejo Rat Terrier Redbone Coonhound Rhodesian Ridgeback Romanian Carpathian Shepherd Romanian Mioritic Shepherd Dog Rottweiler Russell Terrier Russian Toy Russian Tsvetnaya Bolonka Saint Bernard Saluki Samoyed Schapendoes Schipperke Scottish Deerhound Scottish Terrier Sealyham Terrier Segugio Italiano Shetland Sheepdog Shiba Inu Shih Tzu Shikoku Siberian Husky Silky Terrier Skye Terrier Sloughi Slovakian Wirehaired Pointer Slovensky Cuvac Slovensky Kopov Small Munsterlander Smooth Fox Terrier Soft Coated Wheaten Terrier Spanish Mastiff Spanish Water Dog Spinone Italiano Stabyhoun Staffordshire Bull Terrier Standard Schnauzer Sussex Spaniel Swedish Lapphund Swedish Vallhund Taiwan Dog Teddy Roosevelt Terrier Thai Bangkaew Thai Ridgeback Tibetan Mastiff Tibetan Spaniel Tibetan Terrier Tornjak Tosa Toy Fox Terrier Transylvanian Hound Treeing Tennessee Brindle Treeing Walker Coonhound Vizsla Volpino Italiano Weimaraner Welsh Springer Spaniel Welsh Terrier West Highland White Terrier Wetterhoun Whippet Wire Fox Terrier Wirehaired Pointing Griffon Wirehaired Vizsla Working Kelpie Xoloitzcuintli Yakutian Laika Yorkshire Terrier
 
-Explore by characteristic or group Select Characteristic or Group Smallest Dog Breeds Medium Dog Breeds Largest Dog Breeds Smartest Breeds of Dogs Hypoallergenic Dogs Best Family Dogs Best Guard Dogs Best Dog Breeds for Kids Best Dogs for Apartments Hairless Dog Breeds Smartest Breeds Of Dog Apartment Dogs Best Dogs For Apartment Dwellers Large Dog Breeds Sporting Group Hound Group Working Group Terrier Group Toy Group Non-Sporting Group Herding Group Miscellaneous Class Foundation Stock Service
+Explore by characteristic or group Select Characteristic or Group Smallest Dog Breeds Medium Dog Breeds Largest Dog Breeds Smartest Breeds of Dogs Hypoallergenic Dogs Best Family Dogs Best Guard Dogs Best Dog Breeds for Kids Best Dogs for Apartments Hairless Dog Breeds Best Dogs For Apartment Dwellers Large Dog Breeds Smartest Breeds Of Dog Apartment Dogs Sporting Group Hound Group Working Group Terrier Group Toy Group Non-Sporting Group Herding Group Miscellaneous Class Foundation Stock Service
 
 ### Choosing The Right Breed
 
@@ -82,11 +82,11 @@ Explore by characteristic or group Select Characteristic or Group Smallest Dog B
 
 [Products](https://www.akc.org/products-services/)
 
-* [AKC Shop Products](https://shop.akc.org/)
-    * [Shop By Breed](https://shop.akc.org/collections/shop-by-breed)
-    * [Gifts for Dog Lovers](https://shop.akc.org/collections/gifts-for-dog-lovers)
-    * [Dog Supplies](https://shop.akc.org/collections/dog-supplies)
-    * [AKC Pro Shop](https://shop.akc.org/collections/akc-pro-shop)
+* [Shop Dog Products](https://shop.akc.org/)
+    * [Breed-Specific Products](https://shop.akc.org/collections/shop-by-breed)
+    * [Dog Toys & Treats](https://retrievist.akc.org/reviews/best-dog-toys/)
+    * [Training Products](https://shop.akc.org/collections/gear-for-dogs-training-resources-supplies)
+    * [Dog Gift Packs](https://shop.akc.org/collections/gear-for-dogs-gift-boxes)
 * [AKC Rx](https://www.akcpetrx.com/)
 * [DNA & Health Testing](https://akc.org/products-services/breeder-programs/dna/)
 * [DNA Kit Activation](https://dna.akc.org/)
@@ -231,8 +231,8 @@ Explore by characteristic or group Select Characteristic or Group Smallest Dog B
 
 * [How to Form a Dog Club](https://www.akc.org/clubs-delegates/clubs/forming-a-club/)
 * [About Club Relations](https://akc.org/clubs-delegates/clubs/about-club-relations/)
+* 
 * [Club Bylaw Services](https://www.akc.org/clubs-delegates/clubs/forming-a-club/club-bylaw-services/)
-* [AKC Club Governance and Issues Resources](https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2024/05/06095024/AKC-Club-Governance-and-Issues-Resources.pdf)
 * [Club Development Department](https://www.akc.org/clubs-delegates/clubs/about-club-development/)
 * [Promote a Club](https://akc.org/clubs-delegates/promote/)
 * [Club Resources](https://akc.org/clubs-delegates/clubs/resources/)
@@ -252,9 +252,10 @@ Explore by characteristic or group Select Characteristic or Group Smallest Dog B
 
 ### Government Relations
 
-* [Government Relations Department](https://akc.org/clubs-delegates/government-relations/)
+* [Legislative Action Center](https://www.votervoice.net/AKC/Home)
 * [Legislative Alerts](https://akc.org/clubs-delegates/government-relations/legislative-alerts/)
 * [AKC PAC and Legislative Support Fund](https://akc.org/clubs-delegates/government-relations/donations/)
+* [Government Relations Department](https://akc.org/clubs-delegates/government-relations/)
 
 ### AKC Library & Archives
 
@@ -319,7 +320,7 @@ Search [Sign In](https://www.akc.org/wp-login.php) Menu
         * [AKC Library & Archives](https://akc.org/about/archive/)
 * Products & Services
     * Products
-        * [AKC Shop Products](https://shop.akc.org/)
+        * [Shop Dog Products](https://shop.akc.org/)
         * [AKC Rx](https://www.akcpetrx.com/)
         * [DNA & Health Testing](https://akc.org/products-services/breeder-programs/dna/)
         * [DNA Kit Activation](https://dna.akc.org/)
@@ -385,8 +386,8 @@ Search [Sign In](https://www.akc.org/wp-login.php) Menu
     * Clubs
         * [How to Form a Dog Club](https://www.akc.org/clubs-delegates/clubs/forming-a-club/)
         * [About Club Relations](https://akc.org/clubs-delegates/clubs/about-club-relations/)
+        * 
         * [Club Bylaw Services](https://www.akc.org/clubs-delegates/clubs/forming-a-club/club-bylaw-services/)
-        * [AKC Club Governance and Issues Resources](https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2024/05/06095024/AKC-Club-Governance-and-Issues-Resources.pdf)
         * [Club Development Department](https://www.akc.org/clubs-delegates/clubs/about-club-development/)
         * [Promote a Club](https://akc.org/clubs-delegates/promote/)
         * [Club Resources](https://akc.org/clubs-delegates/clubs/resources/)
@@ -402,9 +403,10 @@ Search [Sign In](https://www.akc.org/wp-login.php) Menu
         * [The Role of an AKC Delegate](https://www.youtube.com/watch?v=m-Mp3Z9fg7s)
         * [The Importance of Your AKC Delegate](https://images.akc.org/pdf/The_Importance_of_Your_AKC_Delegate_2018.pdf)
     * Government Relations
-        * [Government Relations Department](https://akc.org/clubs-delegates/government-relations/)
+        * [Legislative Action Center](https://www.votervoice.net/AKC/Home)
         * [Legislative Alerts](https://akc.org/clubs-delegates/government-relations/legislative-alerts/)
         * [AKC PAC and Legislative Support Fund](https://akc.org/clubs-delegates/government-relations/donations/)
+        * [Government Relations Department](https://akc.org/clubs-delegates/government-relations/)
     * AKC Library & Archives
         * [Overview of Collections](https://akc.org/about/archive/guide-collections/)
         * [Breed Club Archives](https://akc.org/about/archive/)
