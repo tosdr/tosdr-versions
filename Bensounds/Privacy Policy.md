@@ -122,13 +122,17 @@ Cookies we are using :
     
 * \- Optional cookies :
     
-     Website Performance Insights
+     Google Analytics (Statistics on your browsing and your device)
     
-    Website Performance Insights
+    Google Analytics (Statistics on your browsing and your device)
     
-     Enhancing User Experience
+     Google Analytics GA4 (Statistics on your browsing and your device)
     
-    Enhancing User Experience
+    Google Analytics GA4 (Statistics on your browsing and your device)
+    
+     Inspectlet (Statistics on your browsing and your device)
+    
+    Inspectlet (Statistics on your browsing and your device)
     
 
 Reject Optional Cookies Save Accept Cookies
