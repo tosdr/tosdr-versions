@@ -48,9 +48,9 @@ How does it work?
 
 We send traffic to your video pages by listing your content previews on our sites. Our sites aggregate content previews from more than 350 sources. The content previews are organised in hundreds of categories and our algorithm constantly optimises which content previews are presented to the visitor in each category.
 
-[Tube Sites](https://tubetraffic.com/tube-sites/)
+Tube Sites
 
-[Premium Content Sites](https://tubetraffic.com/premium-content-sites/)
+Premium Content Sites
 
 Check out some of our sites:
 ----------------------------
