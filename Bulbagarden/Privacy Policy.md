@@ -99,7 +99,7 @@ Menu
 
  Bulbapedia:Privacy policy - Bulbapedia, the community-driven Pokémon encyclopedia                   
 
-**Bulbapedia is hosting a volunteer staff drive!** Applications for [Junior Administrator](https://bulbapedia.bulbagarden.net/wiki/Bulbapedia:Junior_Administrators "Bulbapedia:Junior Administrators") can be submitted [here](https://bulbagarden.net/forms/index.php/351963?lang=en) **until June 16th**.  
+Please remember to follow the [manual of style](https://bulbapedia.bulbagarden.net/wiki/Bulbapedia:Manual_of_style "Bulbapedia:Manual of style") and [code of conduct](https://bulbapedia.bulbagarden.net/wiki/Bulbapedia:Code_of_conduct "Bulbapedia:Code of conduct") at all times.  
 Check the [Bulbagarden home page](https://bulbagarden.net/) for up-to-date Pokémon news and discuss it on the [forums](https://forums.bulbagarden.net/index.php) or in the [Bulbagarden Discord server](https://discord.gg/bulbagarden).
 
 Bulbapedia:Privacy policy
@@ -435,7 +435,7 @@ Navigation menu
 
 [](#sidebar "Jump to navigation")[](#p-personal "user tools")[](#globalWrapper "back to top")
 
-[![https://creativecommons.org/licenses/by-nc-sa/2.5/](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png)](https://creativecommons.org/licenses/by-nc-sa/2.5/)
+[![https://creativecommons.org/licenses/by-nc-sa/2.5/](http://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png)](https://creativecommons.org/licenses/by-nc-sa/2.5/)
 
 [![Powered by MediaWiki](/w/resources/assets/poweredby_mediawiki_88x31.png)](https://www.mediawiki.org/)
 
