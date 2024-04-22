@@ -229,7 +229,6 @@ On this page
 * [Information We Collect Through the Website and Business Applications (BizApps)](#information-we-collect-through-the-website-and-business-applications-bizapps)
     * [Information You Submit](#information-you-submit)
     * [Data Collection Technologies](#data-collection-technologies)
-* [Information We Collect from Social Media](#information-we-collect-from-social-media)
 * [Opting Out](#opting-out)
     * [Access, Correct or Delete Your Information or Exercise Your Jurisdiction’s Privacy Rights](#access-correct-or-delete-your-information-or-exercise-your-jurisdictions-privacy-rights)
 * [Do Not Track](#do-not-track)
@@ -333,16 +332,6 @@ Cookies. We use cookies or similar technologies to collect analytics and tracki
 **Local Storage.** We and our partners use Local Storage Objects (LSOs) such as HTML5 and Flash to store content information and preferences. Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html).
 
 **Combination of Data.** To assist us with our marketing efforts, the personal information of our Clients, such as email address, may be combined with Passively Collected Data. We do not supplement/append the data we collect with additional data received from third party sources.
-
-Information We Collect from Social Media
-----------------------------------------
-
-We partner with a number of the major social media sites. If you use these sites, and have given permission for those sites to share your content with third parties, Bazaarvoice will be one of those third parties with access.
-
-We look for social media content that may be of interest to our client brands and retailers. We do not collect content that do not meet these criteria. Where we identify such content we may “pull” the content from the social media site to store on our platform, along with a small amount of information such as social media handle, IP address and name, email address, location and age if available. We use this to develop an index of appropriate content via our Analytics Services. These Analytics Services are based on analyzing large sets of unstructured text data/images. This means that, while processing personal data is not the core point of the Analytics Services, it is likely that there is personal data in data that forms part of the Analytics Services. Where this content is suitable for our partner brands or retailers, we will contact you to obtain permission before we share or otherwise use your content or information.
-
-Among other social media partners we work with YouTube and use their API services. Any content we source from YouTube or that is shared with YouTube must comply with the YouTube terms of service: https://www.youtube.com/t/term. YouTube content is governed by the Google Privacy Policy:  
-http://www.google.com/policies/privacy
 
 Opting Out
 ----------
