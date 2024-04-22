@@ -1,9 +1,3 @@
-[×](#)
-
-### Memorial Day
-
-All BankNorth locations will be closed on Monday, May 27th. As always, our online and mobile banking services remain available 24/7 for your convenience.
-
 * [About Us](https://www.ibanknorth.com/about/)
 * [Banking](https://www.ibanknorth.com/banking/)
 * [Loans](https://www.ibanknorth.com/lending/)
