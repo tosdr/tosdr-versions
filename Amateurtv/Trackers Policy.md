@@ -18,9 +18,9 @@ Elite
 
 Events
 
-**5,016** users online
+**6,380** users online
 
-© 2024 Amateur.tv | Tech 555, Inc., a Nevada Corporation, USA | Manage Payments: Tech 555 Inc - VirtuoPay OOD
+© 2024 Amateur.tv | Tech 555, Inc., a Nevada Corporation, USA | Payment Management: Tech 555 Inc - VirtuoPay OOD
 
 [Legal notice and Terms of use](https://en.amateur.tv/web/conditions)•[Privacy](https://en.amateur.tv/web/privacy-summary)•[Cookies](https://en.amateur.tv/web/cookies)••[Complaint Policy and Procedures](https://en.amateur.tv/web/complaintPolicy)
 
