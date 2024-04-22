@@ -26,7 +26,7 @@
         [The Latest from HQ](https://www.aapd.org/link/40d8c9bbe1d84ae893138470f9496fb1.aspx)
     * ###### Get Involved
         
-        [AAPD Foundation](https://aapdfoundation.org/?dt=638518101928502559)
+        [AAPD Foundation](https://aapdfoundation.org/?dt=638493910565687598)
     
 * [Resources](https://www.aapd.org/resources/resources/) [Toggle expand sub-navigation items](#)
     
@@ -76,7 +76,7 @@
         [Medicaid Reimbursement for Dental Services for Children - Identifying Opportunities for Improvements in Your State](https://www.aapd.org/link/b360dedfed6b4aeda7b28fa324a4fa5d.aspx)
     * ###### Safety in Dentistry
         
-        [FBI Warns of Cybersecurity Threat to Dental Practices](https://www.aapd.org/link/4a4e8d3a20c644d2819c3519b3e120f8.aspx)
+        [NEW! Safety in Pediatric Dental Care: Curriculum for Pediatric Dentistry Residency Programs](https://www.aapd.org/link/1f7cfe340d6e48cca10c30f1ca21143d.aspx)
     
 * [Publications](https://www.aapd.org/publications/publications/) [Toggle expand sub-navigation items](#)
     
@@ -240,8 +240,6 @@ Chicago, IL 60611
 [Contact Us](https://www.aapd.org/contact-us/)
 
 [Advertising](https://www.aapd.org/publications/advertising/)
-
-[Press Room](https://www.aapd.org/about/about-aapd/news-room/aapd-in-the-news/)
 
 * [Twitter](https://twitter.com/AmerAcadPedDent)
 * [Facebook](https://www.facebook.com/AmericanAcademyofPediatricDentistry/)
