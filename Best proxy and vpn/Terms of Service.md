@@ -16,9 +16,9 @@
 * [Buy Proxy IPv4](https://www.bestproxyandvpn.com/buy-proxies.html "Buy Proxies")
     * [Buy Https Proxies](https://www.bestproxyandvpn.com/buy-proxies.html)
     * [Buy Socks5 Proxy](https://www.bestproxyandvpn.com/socks5-proxy.html "Buy Socks5 Proxy")
+* [Buy Proxy IPv6](https://www.bestproxyandvpn.com/buy-ipv6-proxies.html "Buy Proxy")
 * [Buy IPv4 IPv6 Bridge](https://www.bestproxyandvpn.com/buy-ipv4-ipv6-bridge-proxies.html "Buy IPv4 & IPv6 Converter Proxies")
 * [Buy VPN](https://www.bestproxyandvpn.com/buy-vpn.html "Buy VPN")
-* [Buy Proxy IPv6](https://www.bestproxyandvpn.com/buy-ipv6-proxies.html "Buy Proxy")
 * [Blog](https://www.bestproxyandvpn.com/blog.html "BestProxyAndVPN.com's Blog")
 * [Help](https://www.bestproxyandvpn.com/help.html "Help articles about our service")
     * [Tutorials](https://www.bestproxyandvpn.com/help/tutorials.html "Tutorials on Proxies & VPN")
@@ -52,9 +52,9 @@
     * [Buy Https Proxies](https://www.bestproxyandvpn.com/buy-proxies.html)
     * [Buy Socks5 Proxy](https://www.bestproxyandvpn.com/socks5-proxy.html "Buy Socks5 Proxy")
     
+* [Buy Proxy IPv6](https://www.bestproxyandvpn.com/buy-ipv6-proxies.html "Buy Proxy")
 * [Buy IPv4 IPv6 Bridge](https://www.bestproxyandvpn.com/buy-ipv4-ipv6-bridge-proxies.html "Buy IPv4 & IPv6 Converter Proxies")
 * [Buy VPN](https://www.bestproxyandvpn.com/buy-vpn.html "Buy VPN")
-* [Buy Proxy IPv6](https://www.bestproxyandvpn.com/buy-ipv6-proxies.html "Buy Proxy")
 * [Blog](https://www.bestproxyandvpn.com/blog.html "BestProxyAndVPN.com's Blog")
 * [Help](https://www.bestproxyandvpn.com/help.html "Help articles about our service")
     
@@ -319,7 +319,7 @@ Unless otherwise specified herein, this Agreement constitutes the entire agreeme
 
 A printed version of this Agreement and of any notice given in electronic form shall be admissible in judicial or administrative proceedings based upon or relating to this Agreement to the same extent and subject to the same conditions as other business documents and records originally generated and maintained in printed form. The section titles in the Agreement are solely used for the convenience of the parties and have no legal or contractual significance
 
-[service terms](https://www.bestproxyandvpn.com/tags/service-terms.html), [usage terms](https://www.bestproxyandvpn.com/tags/usage-terms.html)
+[service terms](https://www.bestproxyandvpn.com/tags/168-service-terms.html), [usage terms](https://www.bestproxyandvpn.com/tags/169-usage-terms.html)
 
 ### Newsletter
 
