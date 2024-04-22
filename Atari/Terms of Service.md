@@ -33,9 +33,9 @@
         * [Atari x Artovision](https://www.atari.com/collections/artovision-dimensional-artworks)
         * [Atari x Blue Kazoo](https://www.atari.com/collections/blue-kazoo-puzzles)
         * [Atari x Cariuma](https://www.atari.com/collections/atari-x-cariuma)
+        * [Atari x MobyGames](https://www.atari.com/collections/mobygames)
         * [Atari x My Arcade](https://www.atari.com/collections/atari-x-my-arcade)
         * [Atari x Retro Arcade](https://www.atari.com/collections/reproduction-pcbs)
-        * [RCT x errornogo](https://www.atari.com/collections/rct-x-errornogo)
         * [RCT 25th Anniversary Collection](https://www.atari.com/collections/rollercoaster-tycoon-25th-anniversary)
         
     
@@ -75,7 +75,6 @@
         * [Atari X](https://www.atari.com/pages/atari-x)
         
     
-* [SALE](https://www.atari.com/collections/sale)
 
 [Sign in](https://www.atari.com/account/login) [Help + FAQ](https://www.atari.com/pages/faq) [Investors](https://atari-investisseurs.fr/en/)
 
@@ -113,9 +112,9 @@
         * [Atari x Artovision](https://www.atari.com/collections/artovision-dimensional-artworks)
         * [Atari x Blue Kazoo](https://www.atari.com/collections/blue-kazoo-puzzles)
         * [Atari x Cariuma](https://www.atari.com/collections/atari-x-cariuma)
+        * [Atari x MobyGames](https://www.atari.com/collections/mobygames)
         * [Atari x My Arcade](https://www.atari.com/collections/atari-x-my-arcade)
         * [Atari x Retro Arcade](https://www.atari.com/collections/reproduction-pcbs)
-        * [RCT x errornogo](https://www.atari.com/collections/rct-x-errornogo)
         * [RCT 25th Anniversary Collection](https://www.atari.com/collections/rollercoaster-tycoon-25th-anniversary)
     
     [![](files/atari-50th-t-shirt-1080x1080-02.jpg)
@@ -226,10 +225,6 @@
     
     Atari S/S 2024 Collection
     
-    ![](files/13.jpg)
-    
-    RCT x errornogo
-    
 * [Games](https://www.atari.com/collections/games)
     
     * ###### Games
@@ -302,7 +297,6 @@
     
     Since 1972
     
-* [SALE](https://www.atari.com/collections/sale)
 
  [Log in](https://www.atari.com/account/login)
 
@@ -659,9 +653,9 @@ Available Worldwide
 
 ##### CX30+ Paddle Controller Bundle
 
-Regular price $35.99
+Regular price $39.99
 
-Regular price $39.99 Sale price $35.99
+Regular price Sale price $39.99
 
 Unit price /  per](https://www.atari.com/products/cx30-paddle-controller-bundle) [![Atari Distressed Logo Tee](products/ATRI103D-AT.png)
 
@@ -671,9 +665,9 @@ USA Exclusive
 
 ##### Atari Distressed Logo Tee
 
-Regular price $25.50
+Regular price $30
 
-Regular price $30 Sale price $25.50
+Regular price Sale price $30.00
 
 Unit price /  per](https://www.atari.com/products/atari-distressed-logo-tee)       [![Atari Katakana Logo Hoodie](products/ATRI189-AFTH.png)
 
@@ -681,13 +675,11 @@ USA Exclusive
 
 ##### Atari Katakana Logo Hoodie
 
-Regular price $40.80
+Regular price $48
 
-Regular price $48 Sale price $40.80
+Regular price Sale price $48.00
 
 Unit price /  per](https://www.atari.com/products/atari-kanji-logo-hoodie) 
-
-##### Anything Else ?
 
 #### Bag (0)
 
@@ -729,9 +721,9 @@ Available Worldwide
 
 ##### CX30+ Paddle Controller Bundle
 
-Regular price $35.99
+Regular price $39.99
 
-Regular price $39.99 Sale price $35.99
+Regular price Sale price $39.99
 
 Unit price /  per](https://www.atari.com/products/cx30-paddle-controller-bundle) 
 
@@ -743,9 +735,9 @@ USA Exclusive
 
 ##### Atari Distressed Logo Tee
 
-Regular price $25.50
+Regular price $30
 
-Regular price $30 Sale price $25.50
+Regular price Sale price $30.00
 
 Unit price /  per](https://www.atari.com/products/atari-distressed-logo-tee)       
 
@@ -755,9 +747,9 @@ USA Exclusive
 
 ##### Atari Katakana Logo Hoodie
 
-Regular price $40.80
+Regular price $48
 
-Regular price $48 Sale price $40.80
+Regular price Sale price $48.00
 
 Unit price /  per](https://www.atari.com/products/atari-kanji-logo-hoodie) 
 
@@ -794,17 +786,7 @@ Newsletters from the future
 
   
 
-* American Express
-* Apple Pay
-* Diners Club
-* Discover
-* Meta Pay
-* Google Pay
-* Mastercard
-* Shop Pay
-* Visa
-
-United Kingdom
+France
 
 * [Afghanistan (USD $)](#)
 * [Åland Islands (USD $)](#)
@@ -1047,15 +1029,5 @@ United Kingdom
 © 2024 Atari, Inc. Atari and the Atari logo are registered trademarks owned by Atari Interactive, Inc. All rights reserved.
 
 [Privacy Policy](https://atari.com/pages/privacy-cookies) [Terms of Use](https://atari.com/pages/terms-conditions)
-
-* American Express
-* Apple Pay
-* Diners Club
-* Discover
-* Meta Pay
-* Google Pay
-* Mastercard
-* Shop Pay
-* Visa
 
 * Choosing a selection results in a full page refresh.
