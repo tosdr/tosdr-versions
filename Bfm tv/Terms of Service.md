@@ -24,13 +24,9 @@ DirectTV](https://www.bfmtv.com/en-direct/ "Direct tv")
 
 [![Regarder le direct](/assets/v5/images/BFMTV.848c19e09c92f3ced2163a1a0399be11.svg)
 
-Regarder le direct](https://www.bfmtv.com/en-direct/ "Regarder le direct")
+Regarder le direct](https://www.bfmtv.com/en-direct/ "Regarder le direct")[![Écouter la radio](/assets/v5/images/BFM-Radio.2afb246578899c5f8d87d1f216c22953.svg)
 
-![Écouter la radio](/assets/v5/images/BFM-Radio.2afb246578899c5f8d87d1f216c22953.svg)
-
-Écouter la radio
-
-[![Replay BFMTV](/assets/v5/images/RMC-BFM-Play-radio.62cafa0ab4419da4ac6039b204f52a3e.svg)
+Écouter la radio](https://www.bfmtv.com/en-direct/bfm-radio/ "Écouter la radio")[![Replay BFMTV](/assets/v5/images/RMC-BFM-Play-radio.62cafa0ab4419da4ac6039b204f52a3e.svg)
 
 Replay BFMTV](https://www.rmcbfmplay.com/chaine/bfm-tv?subMenuId=RefMenuItem::rmcgo_home_bfmtv "Replay BFMTV")
 
@@ -78,7 +74,6 @@ Suivant
 Rubriques
 
 * [News 24/7](https://www.bfmtv.com/news-24-7/ "News 24/7")
-* [Élections européennes](https://www.bfmtv.com/politique/elections/europeennes/ "Élections européennes")
 * [Politique](https://www.bfmtv.com/politique/ "Politique")
 * [Police-justice](https://www.bfmtv.com/police-justice/ " Police-justice ")
 * [International](https://www.bfmtv.com/international/ "International")
@@ -576,15 +571,17 @@ DANS TOUTE LA MESURE PERMISE PAR LA LOI, EN AUCUN CAS L'EDITEUR OU SES PARTENAIR
 Les plus lus
 ------------
 
-1. [![Le jeune Émile, 2 ans et demi, disparu le 8 juillet dans le village du Haut-Vernet (Alpes-de-Haute-Provence)](https://images.bfmtv.com/fwTNccQOfQF10I6HMTfIo-GumYA=/108x156:1196x768/300x0/images/Le-jeune-Emile-2-ans-et-demi-disparu-le-8-juillet-dans-le-village-du-Haut-Vernet-Alpes-de-Haute-Provence-1696189.jpg)
+1. [![Le chanteur français Kendji Maille alias 'Kendji Girac' pose sur le tapis rouge avant la 23ème cérémonie des NRJ Music Awards le 20 novembre 2021.
+    ](https://images.bfmtv.com/nHYaigkWi_ne_Y-pmJ8lTYn0KIQ=/0x50:1824x1076/300x0/images/Le-chanteur-francais-Kendji-Maille-alias-Kendji-Girac-pose-sur-le-tapis-rouge-avant-la-23eme-ceremonie-des-NRJ-Music-Awards-le-20-novembre-2021-1848985.jpg)
     
-    ![Le jeune Émile, 2 ans et demi, disparu le 8 juillet dans le village du Haut-Vernet (Alpes-de-Haute-Provence)](https://images.bfmtv.com/fwTNccQOfQF10I6HMTfIo-GumYA=/108x156:1196x768/300x0/images/Le-jeune-Emile-2-ans-et-demi-disparu-le-8-juillet-dans-le-village-du-Haut-Vernet-Alpes-de-Haute-Provence-1696189.jpg)
+    ![Le chanteur français Kendji Maille alias 'Kendji Girac' pose sur le tapis rouge avant la 23ème cérémonie des NRJ Music Awards le 20 novembre 2021.
+    ](https://images.bfmtv.com/nHYaigkWi_ne_Y-pmJ8lTYn0KIQ=/0x50:1824x1076/300x0/images/Le-chanteur-francais-Kendji-Maille-alias-Kendji-Girac-pose-sur-le-tapis-rouge-avant-la-23eme-ceremonie-des-NRJ-Music-Awards-le-20-novembre-2021-1848985.jpg)
     
-    ### Mort d’Émile: deux mois après la découverte des ossements, l’insoutenable attente du Haut-Vernet](https://www.bfmtv.com/bfm-dici/mort-d-emile-deux-mois-apres-la-decouverte-des-ossements-l-insoutenable-attente-du-haut-vernet_AN-202406070898.html "Mort d’Émile: deux mois après la découverte des ossements, l’insoutenable attente du Haut-Vernet")
-2. [### Tombe du Soldat inconnu, dîner à l'Élysée... Le programme de la visite d'État de Joe Biden en France](https://www.bfmtv.com/international/amerique-nord/etats-unis/tombe-du-soldat-inconnu-diner-a-l-elysee-le-programme-de-la-visite-d-etat-de-joe-biden-en-france_AN-202406080053.html "Tombe du Soldat inconnu, dîner à l'Élysée... Le programme de la visite d'État de Joe Biden en France")
-3. [### Neuf ans, études à distance... Qui est cette candidate strasbourgeoise, la plus jeune à passer le bac en 2024?](https://www.bfmtv.com/alsace/neuf-ans-etudes-a-distance-qui-est-cette-candidate-strasbourgeoise-la-plus-jeune-a-passer-le-bac-en-2024_AD-202406070869.html "Neuf ans, études à distance... Qui est cette candidate strasbourgeoise, la plus jeune à passer le bac en 2024?")
-4. [### Peut-on faire confiance aux influenceurs food? Dans les coulisses de la recommandation de restaurants](https://www.bfmtv.com/tech/actualites/reseaux-sociaux/peut-on-faire-confiance-aux-influenceurs-food-dans-les-coulisses-de-la-recommandation-de-restaurants_AN-202406080052.html "Peut-on faire confiance aux influenceurs food? Dans les coulisses de la recommandation de restaurants")
-5. [### "Je ne veux plus jamais entendre la moindre question à ce sujet": la réponse froide de Zverev sur la fin de son procès pour violences conjugales](https://rmcsport.bfmtv.com/tennis/roland-garros/je-ne-veux-plus-jamais-entendre-la-moindre-question-a-ce-sujet-la-reponse-froide-de-zverev-sur-la-fin-de-son-proces-pour-violences-conjugales_AV-202406070936.html ""Je ne veux plus jamais entendre la moindre question à ce sujet": la réponse froide de Zverev sur la fin de son procès pour violences conjugales")
+    ### Kendji Girac hospitalisé à Bordeaux: ce que l'on sait sur sa grave blessure par balle](https://www.bfmtv.com/police-justice/kendji-girac-hospitalise-a-bordeaux-ce-que-l-on-sait-sur-sa-grave-blessure-par-balle_AV-202404220326.html "Kendji Girac hospitalisé à Bordeaux: ce que l'on sait sur sa grave blessure par balle")
+2. [### "Pourquoi ne pas protéger l'espace aérien ukrainien?": Zelensky s'interroge après l'aide de la France en Israël](https://www.bfmtv.com/international/europe/ukraine/pourquoi-ne-pas-proteger-l-espace-aerien-ukrainien-zelensky-s-interroge-apres-l-aide-de-la-france-en-israel_AN-202404220341.html ""Pourquoi ne pas protéger l'espace aérien ukrainien?": Zelensky s'interroge après l'aide de la France en Israël")
+3. [### Donald Trump jugé au pénal: à quoi faut-il s'attendre après la sélection des jurés?](https://www.bfmtv.com/international/amerique-nord/etats-unis/donald-trump-juge-au-penal-a-quoi-faut-il-s-attendre-apres-la-selection-des-jures_AD-202404220304.html "Donald Trump jugé au pénal: à quoi faut-il s'attendre après la sélection des jurés?")
+4. [### Lieu, date, heure… sur Tinder, vous pouvez prévenir votre entourage de votre rendez-vous](https://www.bfmtv.com/tech/vie-numerique/lieu-date-heure-sur-tinder-vous-pouvez-prevenir-votre-entourage-de-votre-rendez-vous_AV-202404220446.html "Lieu, date, heure… sur Tinder, vous pouvez prévenir votre entourage de votre rendez-vous")
+5. [### MMA: la date du grand retour de Doumbè est connue (son adversaire également)](https://rmcsport.bfmtv.com/sports-de-combat/mma/pfl-bellator/mma-la-date-du-grand-retour-de-doumbe-est-connue-son-adversaire-egalement_AD-202404220310.html "MMA: la date du grand retour de Doumbè est connue (son adversaire également)")
 
 ![BFMTV](/assets/v5/images/BFMTV.848c19e09c92f3ced2163a1a0399be11.svg "BFMTV")
 
@@ -636,7 +633,6 @@ en savoir plus
 * [Mentions légales](https://www.bfmtv.com/mentions-legales/ "Mentions légales")
 * [Données personnelles](https://www.bfmtv.com/politique-donnees-personnelles/ "Données personnelles")
 * [Cookies](https://www.bfmtv.com/cookies/ "Cookies")
-* [Gérer Utiq](https://www.bfmtv.com/cookies#utiq "Gérer Utiq")
 * [CGU](https://www.bfmtv.com/cgu/ "CGU")
 * [Charte de déontologie](https://www.bfmtv.com/charte-deontologie/ "Charte de déontologie")
 
