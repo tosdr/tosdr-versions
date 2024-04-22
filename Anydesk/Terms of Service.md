@@ -4,7 +4,7 @@
 
   Light Mode
 
-![](/_static/img/logos/made-in-europe-white-69e1fc.svg "Made in Europe logo") ![](/_static/img/logos/made-in-europe-black-b5a6c7.svg "Made in Europe logo") [![](/_static/icons/red/bold/phone-circle-186093.svg) 020 8068 7308](tel: "Call Us")[![](/_static/icons/red/bold/question-circle-e166ca.svg)](https://support.anydesk.com/knowledge "Help Center")![](/_static/icons/red/bold/arrow-down-1-13dd01.svg)
+![](/_static/img/logos/made-in-europe-white-69e1fc.svg "Made in Europe logo") ![](/_static/img/logos/made-in-europe-black-b5a6c7.svg "Made in Europe logo") [![](/_static/icons/red/bold/phone-circle-186093.svg) 00 49 711 217246705](tel: "Call Us")[![](/_static/icons/red/bold/question-circle-e166ca.svg)](https://support.anydesk.com/knowledge "Help Center")![](/_static/icons/red/bold/arrow-down-1-13dd01.svg)
 
  [![](/_static/img/logos/anydesk-logo-white-red-ec4e3a.png "AnyDesk logo") ![](/_static/img/logos/anydesk-logo-c0861c.png "AnyDesk logo")](https://anydesk.com/en)
 
@@ -56,8 +56,8 @@
 Terms & Conditions
 ==================
 
-Last updated:1 September 2022
------------------------------
+Last updated:September 1, 2022
+------------------------------
 
 [View Data Processing Agreement](https://anydesk.com/en/data-processing-agreement)  
 [View Data Processing Agreement Annex 1 (PDF)![](/_static/icons/red/bold/keyboard-arrow-top-right-634d12.svg)](https://download.anydesk.com/docs/legal/AnyDesk-DPA-Annex1.pdf)  
@@ -378,7 +378,7 @@ Software markings, in particular copyright notices, trademarks, serial numbers o
 
 ##### Contact sales
 
- [![](/_static/icons/white/bold/phone-9be7e0.svg) 020 8068 7308![](/_static/icons/red/bold/arrow-button-right-1-acd1f2.svg) ![](/_static/icons/white/bold/arrow-button-right-1-d8f1ad.svg)](tel:02080687308) 
+ [![](/_static/icons/white/bold/phone-9be7e0.svg) 00 49 711 217246705![](/_static/icons/red/bold/arrow-button-right-1-acd1f2.svg) ![](/_static/icons/white/bold/arrow-button-right-1-d8f1ad.svg)](tel:0049711217246705) 
 
 At AnyDesk, we want to provide the best experience and most innovative technology to all our users and customers. Our team will be operating on reduced holiday hours during this time.
 
