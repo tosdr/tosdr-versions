@@ -1,6 +1,10 @@
 [Skip to main content](#maincontent) [Skip to footer content](#footercontent)
 
-[Enter for a chance to win the Victor Solomon x Bose giveaway, June 4 - 11.](https://www.bose.com/victor-solomon-ultra-open-earbuds-giveaway)
+Sign up for Bose text alerts | [Click here to join](https://cloud.email.bose.com/sms-sign-up)
+
+Earbuds. Reimagined. [Explore the new Bose Ultra Open Earbuds](https://www.bose.com/pxp/bose-ultra-open-earbuds)  
+
+90-day risk-free trial | Free shipping for orders of $49 or more
 
 Back
 
@@ -16,24 +20,22 @@ Back
     * [Portable PA](https://www.bose.com/c/portable-pa)
     * [Aviation](https://www.bose.com/c/headphones-aviation-headsets)
     
-    * [Father's Day Sale](https://www.bose.com/c/fathers-day-sale)
-    * [Gift Cards](https://www.bose.com/gift-cards)
+    * [Sale](https://www.bose.com/c/sale)
     * [Sets](https://www.bose.com/c/sets)
     * [Refurbished](https://www.bose.com/c/refurbished)
     * [Accessories](https://www.bose.com/c/accessories)
+    * [Bose Merch](https://www.bose.com/p//SIP-SHIRTCREW.html)
     
     [View all products](https://www.bose.com/c/all-products)
     
-     ![Bose Smart Ultra Soundbar](https://assets.bosecreative.com/transform/2fcb3a82-e086-4c63-91fa-07c55fd3fcbc/SF_HP-PANEL-2_FathersDay?io=transform:fit,height:1920,width:1920&io=overlay:box,color:000000,opacity:10&quality=95)
+     ![Bose Certified Refurbished products](https://assets.bosecreative.com/transform/1479a599-16d8-45c1-adb9-31301d95b14b/FR-Nav-Flyout-FR-Image-720x711_x2?io=transform:fit,height:1000,width:1000&format=jpg&quality=100)
     
-    FATHER’S DAY SALE
+    Better sound. Better savings.
+    -----------------------------
     
-    Drumroll for dad, please.
-    -------------------------
+    Bose Certified Refurbished. All the performance you expect — for less. Save over 45% on your favorite products.
     
-    Dedicate the next one to dad. Save over 25% on select Bose products this Father’s Day.
-    
-    [SHOP](https://www.bose.com/c/fathers-day-sale "SHOP")
+    [SHOP](https://www.bose.com/c/refurbished "SHOP")
     
 
 * [Explore](#)
@@ -44,24 +46,23 @@ Back
     * [Fitness](https://www.bose.com/explore/music-while-active)
     * [TV & Movies](https://www.bose.com/explore/tv-film)
     
-    * [Victor Solomon x Bose Giveaway](https://www.bose.com/victor-solomon-ultra-open-earbuds-giveaway)
     * [Collabs](https://www.bose.com/stories/collabs)
     * [Turn The Dial](https://www.bose.com/stories/turn-the-dial-initiative)
     * [Bose Stories](https://www.bose.com/stories)
     
-     ![Exclusive gold-and-diamond encrusted pair of Bose Ultra Open Earbuds](https://assets.bosecreative.com/transform/3ab532d4-02b0-431a-8c82-c003ba599f51/VICTOR-SOLOMON-GIVEAWAY_NAV-FLYOUT-CLEAN?io=transform:fit,height:2000,width:2000&quality=95)
+     ![](https://assets.bosecreative.com/transform/d5e79c51-fc81-4d0a-a274-75541aba8bea/SteveLacy_UOEB24_9?io=transform:crop,height:1000,width:1200,path:square,gravity:top&quality=95)
     
-    Crafting off-the-court culture
-    ------------------------------
+    Partners in powerful sound.
+    ---------------------------
     
-    Literally Balling’s Victor Solomon reimagines the game in gold.
+    From courts to red carpets and beyond, check out who we’re teaming up with.
     
-    [EXPLORE](https://www.bose.com/stories/victor-solomon-earbuds-giveaway-details "EXPLORE")
+    [Learn more](https://www.bose.com/stories/collabs "Learn more")
     
 
 * [Support](#)
     
-    * [Support homepage](https://support.bose.com/s/?language=en_US)
+    * [Support homepage](https://support.bose.com/s/)
     * [Troubleshooting](https://support.bose.com/s/bose/product-support-home?language=en_US)
     * [Order Tracking](https://www.bose.com/trackorder)
     * [Returns](https://www.bose.com/returns)
@@ -72,7 +73,7 @@ Back
     * [Product Warranty](https://www.bose.com/legal/product-warranty)
     * [My Bose](https://www.bose.com/my-account)
     
-    [Support homepage](https://support.bose.com/s/?language=en_US)
+    [Support homepage](https://support.bose.com/s/)
     
      ![Bose QuietComfort Headphones](https://assets.bosecreative.com/transform/7bc70bbb-324a-49bc-9681-27be5161f26d/CREA-1005_QCH24_BoseBlack_0273?io=transform:crop,height:1350,width:1080,path:square,gravity:top&io=overlay:box,color:000,opacity:20&quality=95)
     
@@ -87,7 +88,7 @@ Back
 * [Contact](https://support.bose.com/s/get-help-landing-page?language=en_US)
 * [Where Is My Order?](https://www.bose.com/orders)
 
-[![Bose](/on/demandware.static/Sites-Bose_US-Site/-/default/dwf3e05cc7/images/logo.svg)](https://www.bose.com/home "Bose Home")
+[![Bose](/on/demandware.static/Sites-Bose_US-Site/-/default/dwdf4b1377/images/logo.svg)](https://www.bose.com/home "Bose Home")
 
 [](https://www.bose.com/login?oauthProvider=Azure-AD-B2C "Sign In/Join my Bose")[](https://www.bose.com/wishlist "Wish list")
 
@@ -382,7 +383,7 @@ We are experiencing issues at this moment. Please try again later.
    
 
 1. [Home](https://www.bose.com/home)
-2. Privacy Policy
+2. template.legal/privacy-policy
 
 ##### Customer Care Customer Care
 
@@ -405,7 +406,6 @@ We are experiencing issues at this moment. Please try again later.
 
 ##### Offers Offers
 
-* [Gift Cards](https://www.bose.com/gift-cards)
 * [ID.me Group Program](https://www.bose.com/idme-group-discounts-program)
 * [Bulk Order Program](https://www.bose.com/bulk-order-discount-program)
 * [Partner & Employee Program](https://www.bose.com/partner-employee-discount-program)
@@ -419,7 +419,7 @@ We are experiencing issues at this moment. Please try again later.
 
 [United States](https://global.bose.com/ "United States") | English
 
-[Bose app](https://www.bose.com/apps/bose-app) [Bose Connect App](https://www.bose.com/apps/bose-connect)
+[Bose Music App](https://www.bose.com/apps/bose-music) [Bose Connect App](https://www.bose.com/apps/bose-connect)
 
 [](https://www.instagram.com/bose/)[](https://twitter.com/bose)[](https://www.facebook.com/Bose/)[](https://www.youtube.com/user/bose)
 
