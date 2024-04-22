@@ -530,7 +530,7 @@ Any dispute or claim by you arising out of or related to these Terms shall be go
 
 **PLEASE READ THIS SECTION CAREFULLY. IT AFFECTS YOUR RIGHTS, INCLUDING YOUR RIGHT TO FILE A LAWSUIT IN COURT.**
 
-Most issues can be resolved quickly and amicably by contacting Atari customer support at [support@Atari.com](mailto:support@atari.com). But we understand that sometimes disputes can’t be easily resolved by customer support. This Section explains how You and Atari agree to resolve those disputes, including (where applicable) by binding, individual arbitration. 
+Most issues can be resolved quickly and amicably by contacting Atari customer support at [support@Atari.com](mailto:support@Atari.com). But we understand that sometimes disputes can’t be easily resolved by customer support. This Section explains how You and Atari agree to resolve those disputes, including (where applicable) by binding, individual arbitration. 
 
 Arbitration is an alternative dispute-resolution procedure that allows us to resolve issues without the formality of going to court. Any dispute between You and Atari is submitted to a neutral arbitrator (not a judge or jury) for fair and fast resolution. Arbitration is more efficient for both you and Atari. 
 
