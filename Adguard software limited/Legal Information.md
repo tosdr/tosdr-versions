@@ -160,72 +160,86 @@ Dansk Deutsch English Español Français Hrvatski Indonesia Italiano Magyar Nede
 
 [Log in](https://my.adguard.com/account/)
 
-[AdGuard](https://adguard.com/en/welcome.html) [Privacy Policy](https://adguard.com/en/privacy.html) AdGuard Home
+AdGuard Privacy Policy
+======================
 
 AdGuard Home Privacy Notice
 ===========================
 
-May 17, 2024
+November 06, 2019
 
-Keynote: This Privacy Notice lists all the information that we may collect and explains why we do it and how we use this information. We only collect essential information for AdGuard products to function fully and properly. We do not share or sell your personal information. We are strongly committed to protecting user privacy and being as transparent as possible.
+Keynote: We do not share or sell any of your personal data. We are proud to say that we are one of the fighters for users privacy and we are strongly committed to this principle and to being as transparent as possible.
 
-What data AdGuard Home can collect and when
+This Privacy Notice lists all the information that we may collect and explains why we do it and how we use this information. The information we collect includes no more than is crucial to provide the full functionality of AdGuard products.
+
+We believe that privacy is a fundamental human right. That's why we are transparent about what AdGuard does and explain the purpose of every little bit of information that is gathered by our apps.
+
+What data can AdGuard Home collect and when
 -------------------------------------------
 
-[Processing DNS queries](#processing-dns-queries)
+[Processing DNS queries](#dns-queries)
 
-[Checking for updates](#checking-for-updates)
+[Update check](#update-check)
 
-[Checking for filter updates](#checking-for-filter-updates)
+[Filters update check](#filters-updates-check)
 
-[Browsing Security domain check](#browsing-security-domain-check-disabled-by-default)
+[Browsing Security domain check](#browsing-security-check)
 
-[Parental Control domain check](#parental-control-domain-check-disabled-by-default)
+[Parental Control domain check](#parental-control-check)
 
 ### Processing DNS queries
 
-AdGuard Home connects to the DNS servers configured as “Upstreams” and sends DNS queries to them.
+AdGuard Home connects to the DNS servers configured as "Upstreams", and sends DNS queries to them.
 
-### Checking for updates
+### Update check
 
-AdGuard Home periodically downloads a .json file to check if there’s a newer version. No information is sent when this happens.
+AdGuard Home periodically downloads a [.json file](https://static.adtidy.org/adguardhome/release/version.json) to check if there's a newer version. No information is being sent when that happens.
 
-### Checking for filter updates
+### Filters update check
 
-To check for updates for enabled filters, AdGuard Home connects to their respective servers. When this happens, nothing is sent to these servers. AdGuard Home periodically downloads a file containing all filter versions and their available updates.
+To check updates for enabled filters, AdGuard Home connects to their respective servers. When it happens, nothing is being sent to these servers. AdGuard Home periodically downloads a file with all filters' versions and their available updates.
 
-### Browsing Security domain check (disabled by default)
+### Browsing Security domain check (disabled by default):
 
-For each requested domain, AdGuard Home connects to the Browsing Security server and passes a 4-character prefix of the domain name’s SHA256 hash. The server responds with a list of full hashes and AdGuard Home checks if there’s a match. The sent prefixes are not stored and do not reveal any personal information.
+For each requested domain, AdGuard Home connects to the Browsing Security server and passes an 4-character prefix of the domain name's SHA256 hash. The server responds with a list of full hashes and AdGuard Home checks if there's a match. The sent prefixes are not being stored and do not reveal any personal information.
 
-### Parental Control domain check (disabled by default)
+### Parental Control domain check (disabled by default):
 
-For each requested domain, AdGuard Home connects to the Parental Control web service and passes a 4-character prefix of the domain name’s SHA256 hash. The service responds with a list of full hashes and AdGuard Home checks if there’s a match. The sent prefixes are not stored and do not reveal any personal information.
+For each requested domain, AdGuard Home connects to the Parental Control web service and passes an 4-character prefix of the domain name's SHA256 hash. The service responds with a list of full hashes and AdGuard Home checks if there's a match. The sent prefixes are not being stored and do not reveal any personal information.
 
-Other documents:
+General notes
 
-[AdGuard software Limited — End User License Agreement](https://adguard.com/en/eula.html) [End-User License Agreement of AdGuard Temp Mail](https://adguard.com/en/adguard-temp-mail/eula.html) [Terms of sale](https://adguard.com/en/terms-of-sale.html) [Privacy policy](https://adguard.com/en/privacy.html)
+[Back to General notes](https://adguard.com/en/privacy.html)
 
-* [AdGuard for Windows](https://adguard.com/en/privacy/windows.html)
-* [AdGuard for Android](https://adguard.com/en/privacy/android.html)
-* [AdGuard for Mac](https://adguard.com/en/privacy/mac.html)
-* [AdGuard for iOS](https://adguard.com/en/privacy/ios.html)
-* [AdGuard Browser Extension](https://adguard.com/en/privacy/browser-extension.html)
-* [AdGuard for Safari](https://adguard.com/en/privacy/safari.html)
-* [AdGuard Assistant](https://adguard.com/en/privacy/assistant.html)
-* [AdGuard Content Blocker](https://adguard.com/en/privacy/content-blocker.html)
-* [AdGuard Temp Mail](https://adguard.com/en/privacy/temp-mail.html)
-* [AdGuard website & Cookies](https://adguard.com/en/privacy/website.html)
+Privacy notices
+
+[AdGuard for Windows](https://adguard.com/en/privacy/windows.html)
+
+[AdGuard for Android](https://adguard.com/en/privacy/android.html)
+
+[AdGuard for Mac](https://adguard.com/en/privacy/mac.html)
+
+[AdGuard for iOS](https://adguard.com/en/privacy/ios.html)
+
+[AdGuard Browser Extension](https://adguard.com/en/privacy/browser-extension.html)
+
+[AdGuard for Safari](https://adguard.com/en/privacy/safari.html)
+
+[AdGuard Assistant](https://adguard.com/en/privacy/assistant.html)
+
+[AdGuard Content Blocker](https://adguard.com/en/privacy/content-blocker.html)
+
+[AdGuard Home](https://adguard.com/en/privacy/home.html)
+
+[AdGuard Temp Mail](https://adguard.com/en/privacy/temp-mail.html)
+
+[AdGuard website & Cookies](https://adguard.com/en/privacy/website.html)
 
 We use essential cookies only. No ads or trackers. [Privacy Policy](https://adguard.com/en/privacy/website.html)
 
 I agree
 
-System theme Light theme Dark theme
-
-System theme Light theme Dark theme
-
-© 2009–2024 Adguard Software Ltd.
+© 2009–2024 Adguard Software Limited
 
 Site map
 
@@ -241,7 +255,7 @@ Products
 
 Other products
 
-[AdGuard DNS](https://adguard-dns.io/welcome.html) [AdGuard VPN](https://adguard-vpn.com/welcome.html) [AdGuard Temp Mail](https://adguard.com/en/adguard-temp-mail/overview.html?aid=34549) [All products](https://adguard.com/en/products.html)
+[AdGuard DNS](https://adguard-dns.io/welcome.html) [AdGuard VPN](https://adguard-vpn.com/welcome.html) [AdGuard Temp Mail β](https://adguard.com/en/adguard-temp-mail/overview.html?aid=34549) [All products](https://adguard.com/en/products.html)
 
 Support
 
@@ -265,7 +279,7 @@ AdGuard for Windows AdGuard for Android AdGuard for Android TV AdGuard for 
 
 Other products
 
-AdGuard DNS AdGuard VPN AdGuard Temp Mail All products
+AdGuard DNS AdGuard VPN AdGuard Temp Mail β All products
 
 Support
 
