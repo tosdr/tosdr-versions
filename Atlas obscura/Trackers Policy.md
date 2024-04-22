@@ -61,7 +61,7 @@ Cookie Settings
 
 This Cookie Policy covers use of our websites under atlasobscura.com and other related sites (the "Website”).
 
-By clicking to accept cookies, you are consenting to our use of cookies in accordance with this Cookie Policy. Cookies used for functionality are considered necessary, or essential, and are collected from all users based on legitimate interest and for a business purpose, such as bot detection, security, and user accounts, and similar uses. If you do not wish to accept non-essential cookies from our website, you can follow the link in our cookie footer and/or pop-up, and you will be directed to a page where you can enable/disable certain cookies, and you may disable cookies in your browser (consult this resources for more information: [allaboutcookies.org/manage-cookies](https://www.allaboutcookies.org/manage-cookies/)). Although you are not required to accept cookies when you visit the Website, you may be unable to use all of the functionality of the website if you reject certain cookies.
+By clicking to accept cookies, you are consenting to our use of cookies in accordance with this Cookie Policy. If you do not wish to accept cookies from our website, you can follow the link in our cookie footer and/or pop-up, and you will be directed to a page where you can enable/disable certain cookies. Although you are not required to accept cookies when you visit the Website, you may be unable to use all of the functionality of the website if you reject certain cookies.
 
 We use cookies and similar tracking technologies to track the activity on our Website. The cookies we use or allow are an accepted part of ecommerce and important to your use of the Website. The information collected by cookies does not personally identify you; it includes general information about your computer settings, your connection to the Internet (e.g. operating system and platform, IP address, your browsing patterns, and timings of browsing on the website) and your location. Details about the types of cookies that Atlas Obscura utilizes can be found below.
 
@@ -214,6 +214,7 @@ Get the app
 * [Invest In Us](https://invest.atlasobscura.com/)
 * [Advertise With Us](https://studio-obscura.atlasobscura.com/)
 * [Advertising Guidelines](https://www.atlasobscura.com/advertising-acceptability-guidelines)
+* [Press](https://press.atlasobscura.com/)
 * [Privacy Policy](https://www.atlasobscura.com/privacy)
 * [Cookie Policy](https://www.atlasobscura.com/cookies)
 * [Terms of Use](https://www.atlasobscura.com/terms)
