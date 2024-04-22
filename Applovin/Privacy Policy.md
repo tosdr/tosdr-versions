@@ -49,9 +49,9 @@
 
 ###### Featured posts
 
-[![Featured article](https://www.applovin.com/wp-content/uploads/2020/06/CoffeeandCreative_Ai_Ad_Production_Web_Pop_up2x-ezgif.com-webp-to-jpg-converter-1.jpg)
+[![Featured article](https://www.applovin.com/wp-content/uploads/2020/06/460x260_AppLovinxAdjust_gaming_app_report_2024.jpg)
 
-###### Webinar: AI in Ad Production](https://try.applovin.com/coffee-creative-ai-webinar)
+###### AppLovin + Adjust Gaming App Insights Report](https://www.applovin.com/blog/new-applovin-adjust-2024-gaming-insights-report/)
 
 [![Featured article](https://www.applovin.com/wp-content/uploads/2020/06/460x260_Blog-Header_Resource-Center-Launch-1.jpg)
 
@@ -102,7 +102,9 @@ Privacy Policy
 
 [![TRUSTe Verified Privacy](//privacy-policy.truste.com/privacy-seal/seal?rid=b660c4bf-c1cd-44c9-a527-f428e5f1f5d2)](https://privacy.truste.com/privacy-seal/validation?rid=b660c4bf-c1cd-44c9-a527-f428e5f1f5d2)[![TRUSTe Data Certification](//privacy-policy.truste.com/privacy-seal/seal?rid=0d325ffb-5c6a-4c69-9edd-3380254e97d6)](https://privacy.truste.com/privacy-seal/validation?rid=0d325ffb-5c6a-4c69-9edd-3380254e97d6) 
 
-**Effective Date**: May 3, 2024
+[![TRUSTe Verified Privacy](//privacy-policy.truste.com/privacy-seal/seal?rid=b660c4bf-c1cd-44c9-a527-f428e5f1f5d2)](https://privacy.truste.com/privacy-seal/validation?rid=b660c4bf-c1cd-44c9-a527-f428e5f1f5d2)[![TRUSTe Data Certification](//privacy-policy.truste.com/privacy-seal/seal?rid=0d325ffb-5c6a-4c69-9edd-3380254e97d6)](https://privacy.truste.com/privacy-seal/validation?rid=0d325ffb-5c6a-4c69-9edd-3380254e97d6) 
+
+**Effective Date**: February 23, 2024
 
 AppLovin Corporation (“we,” “us,” “our,” or “AppLovin”) operates a suite of tools for app developers and other businesses to automate and optimize the marketing and monetization of their platforms, products, or services by enabling the placement of different types of advertisements on digital properties including mobile apps, websites, and connected TV devices (collectively, the “Advertising Services” or “Services”).  As explained below, consumers interact with us in a few ways, primarily through advertisements served by AppLovin on behalf of advertisers.
 
@@ -138,7 +140,7 @@ If you are a consumer who downloads and uses an application which contains the A
 * App Set IDs; and
 * Advertising and tracking preferences and restrictions.
 
-Application publishers may choose to share with us additional information including your age or year of birth, gender, email, phone number, and interest segments for purposes of their own direct ad serving.  We do not retain this data or pass it downstream to advertising partners.  Please see the applicable publisher’s privacy policy for more information about their use of first party data.
+Application publishers may choose to share with us additional information including your age or year of birth, gender, email, phone number, and interest segments. Please see the applicable publisher’s privacy policy for more information about their use of first party data.
 
 Advertisers (through the advertiser itself or through a third party service provider on behalf of such advertiser) may also share transactional or “event” data related to a consumer’s interaction with an application, such as information about the actions taken in an application like purchases or application installations.
 
@@ -428,7 +430,6 @@ If you have a customer care issue, please visit [AppLovin Support](https://suppo
 * [About AppLovin](https://www.applovin.com/about/)
 * [Leadership](https://www.applovin.com/leadership/)
 * [Press](https://www.applovin.com/press/)
-* [Brand Hub](https://www.applovin.com/brand-hub/)
 * [Partners](https://www.applovin.com/partners/)
 * [Studios](https://www.applovin.com/partner-studios/)
 * [Investors](https://investors.applovin.com/)
