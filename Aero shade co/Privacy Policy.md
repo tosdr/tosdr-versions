@@ -1,6 +1,8 @@
 [Skip to content](#content)
 
-[![Aero Shade Co. Logo](https://aeroshadeco.com/wp-content/uploads/2016/04/aero-shade-logo.png)](https://aeroshadeco.com/)
+[![Aero Shade Co. Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20180%20105'%3E%3C/svg%3E)
+
+![Aero Shade Co. Logo](https://aeroshadeco.com/wp-content/uploads/2016/04/aero-shade-logo.png)](https://aeroshadeco.com/)
 
 ### 
 
@@ -101,6 +103,8 @@ Monday – Friday 8:30 am – 5:00 pm
 
 Visit Us at:  
 8404 W. 3rd St., Los Angeles, CA 90048
+
+![Credit Cards Accepted](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20318%2076'%3E%3C/svg%3E)
 
 ![Credit Cards Accepted](https://aeroshadeco.com/wp-content/uploads/2017/09/Amex-Multi-4-Horiz-318x76.jpg)
 
