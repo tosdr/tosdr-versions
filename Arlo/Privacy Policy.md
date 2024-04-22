@@ -781,7 +781,7 @@ _Right to Nondiscrimination/Non-Retaliation._ We will not discriminate against y
 
 _Financial Incentives._ We may offer financial incentives to individuals who provide their email address to sign up to receive marketing and promotional emails from us. The terms of the financial incentive will be presented to you at the time you sign up. You may withdraw from any of the financial incentives by clicking on the unsubscribe link in the email messages or by contacting us as described at the end of this Notice. The value of providing your email address will vary and is based on the amount of the purchase using the initial offer and any subsequent offers received.
 
-_Exercising Your Rights._ If you, or someone legally authorized to act on your behalf, wishes to exercise these rights, please visit [here](https://my.arlo.com/#/home) to exercise these as possible through your account settings and Privacy Center or log into your mobile application. Otherwise access our online form [here](https://www.arlo.com/en-us/us-privacy-policy-form.html) or contact us at [privacy@arlo.com](mailto:%20privacy@arlo.com). You or your authorized agent may be limited to submit certain requests within a 12-month period. Your request must:
+_Exercising Your Rights._ If you, or someone legally authorized to act on your behalf, wishes to exercise these rights, please visit [here](https://my.arlo.com/#/home) to exercise these as possible through your account settings and Privacy Center or log into your mobile application. Otherwise access our online form [here](https://www.arlo.com/en-us/us-privacy-policy-form.html) or contact us at [privacy@arlo.com](mailto: privacy@arlo.com). You or your authorized agent may be limited to submit certain requests within a 12-month period. Your request must:
 
 * Describe your request with sufficient detail that allows us to properly understand, evaluate, and respond to it.
 * Provide sufficient Information, which will likely need to match with Information we previously collected from you, that allows us to reasonably verify you are the person about whom we collected personal Information or an authorized representative (“Authorized Agent”).
@@ -793,13 +793,13 @@ If you would like, you may designate an Authorized Agent to make a request on yo
 
 We will only use Information provided in the request to verify the requestor’s identity or authority to make it, except for record-keeping purposes. We will delete this Information as soon as practicable, or until we no longer legally need the Information, after complying with the request.
 
-_Response Timing and Format._ We will confirm receipt of your request within 10 business days. If you do not receive confirmation within the 10-day timeframe, please contact [privacy@arlo.com](mailto:%20privacy@arlo.com).
+_Response Timing and Format._ We will confirm receipt of your request within 10 business days. If you do not receive confirmation within the 10-day timeframe, please contact [privacy@arlo.com](mailto: privacy@arlo.com).
 
 We endeavor to substantively respond to a verifiable consumer request within 45 days of its receipt. If we require more time (up to another 45 days), we will inform you of the reason and extension period in writing.
 
 We do not charge a fee to process or respond to your verifiable consumer request unless it is excessive, repetitive, or manifestly unfounded. If we determine that the request warrants a fee, we will tell you why we made that decision and provide you with a cost estimate before completing your request.
 
-Appeal Process. If you would like to submit an appeal for any decision with regard to any consumer request, please email [privacy@arlo.com](mailto:%20privacy@arlo.com).
+Appeal Process. If you would like to submit an appeal for any decision with regard to any consumer request, please email [privacy@arlo.com](mailto: privacy@arlo.com).
 
 #### Transfers and Storage of Information
 
