@@ -1,4 +1,4 @@
-![Model Stage  Background.jpg](/content/dam/bm/websites/bmcom/bentleymotors-com/models/24my/bentayga-ewb/bentayga-ewb-mulliner/Model%20Stage%20%20Background.jpg/_jcr_content/renditions/original.image_file.300.200.file/Model%20Stage%20%20Background.jpg)![](/content/dam/bm/websites/bmcom/bentleymotors-com/models/24my/bentayga-ewb/bentayga-ewb-mulliner/Model%20Stage%20%20Background.jpg/_jcr_content/renditions/original.image_file.50.33.file/Model%20Stage%20%20Background.jpg)
+![Model Stage  Background.jpg](/content/dam/bm/websites/bmcom/bentleymotors-com/models/bentayga-ewb/bentayga-ewb-mulliner/Model%20Stage%20%20Background.jpg/_jcr_content/renditions/original.image_file.300.200.file/Model%20Stage%20%20Background.jpg)![](/content/dam/bm/websites/bmcom/bentleymotors-com/models/bentayga-ewb/bentayga-ewb-mulliner/Model%20Stage%20%20Background.jpg/_jcr_content/renditions/original.image_file.50.33.file/Model%20Stage%20%20Background.jpg)
 
 Models
 
@@ -17,7 +17,7 @@ Menu
 * [Configurator](https://www.bentleymotors.com/en/misc/car-configurator.html)
 * [Locate Dealer](https://www.bentleymotors.com/en/apps/dealer-locator.html)
 
-![Model Stage Main.jpg](/content/dam/bm/websites/bmcom/bentleymotors-com/models/24my/bentayga-ewb/bentayga-ewb-mulliner/Model%20Stage%20Main.jpg/_jcr_content/renditions/original.image_file.392.168.file/Model%20Stage%20Main.jpg)![](/content/dam/bm/websites/bmcom/bentleymotors-com/models/24my/bentayga-ewb/bentayga-ewb-mulliner/Model%20Stage%20Main.jpg/_jcr_content/renditions/original.image_file.50.21.file/Model%20Stage%20Main.jpg)
+![Model Stage Main.jpg](/content/dam/bm/websites/bmcom/bentleymotors-com/models/bentayga-ewb/bentayga-ewb-mulliner/Model%20Stage%20Main.jpg/_jcr_content/renditions/original.image_file.392.168.file/Model%20Stage%20Main.jpg)![](/content/dam/bm/websites/bmcom/bentleymotors-com/models/bentayga-ewb/bentayga-ewb-mulliner/Model%20Stage%20Main.jpg/_jcr_content/renditions/original.image_file.50.21.file/Model%20Stage%20Main.jpg)
 
 Privacy Policy
 ==============
