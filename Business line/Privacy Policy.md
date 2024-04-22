@@ -27,8 +27,8 @@ MENU![Businessline Logo](https://assetsbl.thehindubusinessline.com/theme/images/
 * [Gold & Silver](https://www.thehindubusinessline.com/markets/gold/)
 * [Stocks](https://www.thehindubusinessline.com/markets/stock-markets/)
 * [Today's Pick](https://www.thehindubusinessline.com/markets/todays-pick/)
-* [Gold rate today](https://www.thehindubusinessline.com/gold-rate-today/)
-* [Silver rate today](https://www.thehindubusinessline.com/silver-rate-today/)
+* [Top gainers today](https://www.thehindubusinessline.com/markets/top-gainers-today/)
+* [Top losers today](https://www.thehindubusinessline.com/markets/top-losers-today/)
 
 ##### [Portfolio](https://www.thehindubusinessline.com/portfolio/)
 
@@ -141,8 +141,8 @@ TO ENJOY ADDITIONAL BENEFITS
     * [Commodities](https://www.thehindubusinessline.com/markets/commodities/) 
     * [Gold & Silver](https://www.thehindubusinessline.com/markets/gold/) 
     * [Today's Pick](https://www.thehindubusinessline.com/markets/todays-pick/) 
-    * [Gold rate today](https://www.thehindubusinessline.com/gold-rate-today/) 
-    * [Silver rate today](https://www.thehindubusinessline.com/silver-rate-today/) 
+    * [Gold rate today](https://www.thehindubusinessline.com/markets/top-gainers-today/) 
+    * [Silver rate today](https://www.thehindubusinessline.com/markets/top-losers-today/) 
 * #####  [Companies](https://www.thehindubusinessline.com/companies/)
     
 * #####  [Elections 2024](https://www.thehindubusinessline.com/news/elections/)
@@ -191,6 +191,9 @@ Get BusinessLine apps on
 [](https://play.google.com/store/apps/details?id=com.mobstac.thehindubusinessline&hl=en_IN&gl=US "Google Play")
 
 [](https://apps.apple.com/in/app/business-line-for-iphone/id855182339 "Apple Store")
+
+Privacy Policy
+==============
 
 Non EU UsersEu Users
 
@@ -595,7 +598,7 @@ The Courts in Chennai in India shall have the exclusive jurisdiction to the excl
     
     * [About Us](https://www.thehindubusinessline.com/aboutus/)
     * [Archive](https://www.thehindubusinessline.com/archive/)
-    * [Newsletter](https://www.thehindubusinessline.com/newsletter-subscription/)
+    * [Newsletter](https://www.thehindubusinessline.com/newsletter/)
     * [Rss Feeds](https://www.thehindubusinessline.com/rssfeeds/)
 * ##### Contact us
     
@@ -678,7 +681,7 @@ The Courts in Chennai in India shall have the exclusive jurisdiction to the excl
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) KKR Vs RR Live Score](https://sportstar.thehindu.com/cricket/ipl/ipl-news/kkr-vs-rr-live-score-kolkata-knight-riders-rajasthan-royals-ipl-2024-match-streaming-info-highlights/article68071006.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Arvind Kejriwal Arrest LIVE Updates](https://www.thehindu.com/news/national/arvind-kejriwal-arrest-delhi-excise-policy-case-live-updates-march-22-2024/article67979015.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Lok Sabha Elections 2024 LIVE](https://www.thehindu.com/elections/lok-sabha/lok-sabha-elections-live-updates-on-april-1-2024/article68014877.ece)
-*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Satyajit Ray](https://frontline.thehindu.com/cover-story/a-century-of-ray/article64764998.ece)
+*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Bringing 1,000 elephants to Jamnagar makes no sense](https://frontline.thehindu.com/environment/bringing-1000-elephants-to-jamnagar-makes-no-sense-raman-sukumar/article67990072.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Frontline Current Issue](https://frontline.thehindu.com/current-issue/)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Indian Premier League IPL 2024](https://sportstar.thehindu.com/cricket/ipl/)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Chennai Super Kings CSK Squad](https://sportstar.thehindu.com/newstag/Chennai_Super_Kings/)
