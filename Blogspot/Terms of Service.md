@@ -1,0 +1,1 @@
+[https://policies.google.com/terms](https://policies.google.com/terms)
