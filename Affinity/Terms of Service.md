@@ -31,10 +31,6 @@ Your Affinity account and forum accounts are independent of each other. Login de
 
 Serif reserves the right to close accounts and remove or edit content if deemed necessary.
 
-#### Age requirement
-
-Children may not access or use the Affinity website, services and products unless their use is directly authorized by their parent, guardian or another authorized adult (such as a teacher) who agrees to be bound by these Terms & Conditions. For purposes of these Terms & Conditions, a child is a person under the age of 13 (or the minimum legal age required to provide consent for processing of personal data in the country where the child is located).
-
 #### Privacy
 
 Please review our [Privacy Policy](https://affinity.serif.com/en-us/privacy/) as it governs the privacy practices undertaken by Serif.
@@ -79,7 +75,7 @@ Serif provides the images “as is” without warranty of any kind, express or i
 
 Where this document is translated into a language other than English, in the event of any dispute arising with respect to its interpretation, the English language version shall prevail.
 
-Last Updated: 23 May 2024
+Last Updated: 3 May 2022
 
 [Back to top](#top)
 
