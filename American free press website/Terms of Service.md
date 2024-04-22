@@ -29,11 +29,11 @@ Search for:
 
 News Ticker
 
-* [\[ May 16, 2024 \] Facts Now Secondary to Emotions Subscriber Only](https://americanfreepress.net/facts-now-secondary-to-emotions/ "Facts Now Secondary to Emotions")
-* [\[ May 16, 2024 \] Many Americans Say They’ll Never Retire National News](https://americanfreepress.net/many-americans-say-theyll-never-retire/ "Many Americans Say They’ll Never Retire")
-* [\[ May 16, 2024 \] Crypto Founder Jailed While Top Bankers Get Slap on Wrist Subscriber Only](https://americanfreepress.net/crypto-founder-jailed-while-top-bankers-get-slap-on-wrist/ "Crypto Founder Jailed While Top Bankers Get Slap on Wrist")
-* [\[ May 16, 2024 \] U.S. Fertility Rates Plunge National News](https://americanfreepress.net/u-s-fertility-rates-plunge/ "U.S. Fertility Rates Plunge")
-* [\[ May 15, 2024 \] The Patently Politicized Prosecution of Trump Advisor Peter Navarro Subscriber Only](https://americanfreepress.net/the-patently-politicized-prosecution-of-trump-advisor-peter-navarro/ "The Patently Politicized Prosecution of Trump Advisor Peter Navarro")
+* [\[ April 6, 2024 \] Judge: ‘Non-Violent’ Illegal Aliens Deserve Second Amendment Rights National News](https://americanfreepress.net/judge-non-violent-illegal-aliens-deserve-second-amendment-rights/ "Judge: ‘Non-Violent’ Illegal Aliens Deserve Second Amendment Rights")
+* [\[ April 6, 2024 \] Legal Drama Continues as Federal Court Blocks Efforts by Texas to Arrest Illegals Subscriber Only](https://americanfreepress.net/legal-drama-continues-as-federal-court-blocks-efforts-by-texas-to-arrest-illegals/ "Legal Drama Continues as Federal Court Blocks Efforts by Texas to Arrest Illegals")
+* [\[ April 5, 2024 \] Boeing Whistleblower Ends Up Dead After Exposing ‘Corner Cutting’ Subscriber Only](https://americanfreepress.net/boeing-whistleblower-ends-up-dead-after-exposing-corner-cutting/ "Boeing Whistleblower Ends Up Dead After Exposing ‘Corner Cutting’")
+* [\[ April 5, 2024 \] Reckless Fiscal, Monetary Policies Undermine U.S. Subscriber Only](https://americanfreepress.net/reckless-fiscal-monetary-policies-undermine-u-s/ "Reckless Fiscal, Monetary Policies Undermine U.S.")
+* [\[ April 5, 2024 \] Big Apple Now the ‘Big Banana’: Cops Out, National Guardsmen In National News](https://americanfreepress.net/big-apple-now-the-big-banana-cops-out-national-guardsmen-in/ "Big Apple Now the ‘Big Banana’: Cops Out, National Guardsmen In")
 
 [Home](https://americanfreepress.net/)TERMS and CONDITIONS
 
@@ -114,7 +114,7 @@ Password
 
 #### CURRENT AFP ISSUE
 
-[![American Free Press](https://americanfreepress.net/assets/images/19&20_2024_AFP_Front_page_pic.jpg "American Free Press")](https://americanfreepress.net/Issue_19_20_AFP_2024_FP.pdf)  
+[![American Free Press](https://americanfreepress.net/assets/images/15&16_2024_AFP_Front_page_pic.jpg "American Free Press")](https://americanfreepress.net/Issue%2015_16_AFP_2024_FP.pdf)  
 
 #### ADVERTISING
 
@@ -128,18 +128,18 @@ Categories Select Category Ad Alternative Health Archive Audio Bookstore Conspir
 
 ###### Recent Articles
 
-* [Public Input Session Includes Calls for Stopping Pandemic Treaty](https://americanfreepress.net/public-input-session-includes-calls-for-stopping-pandemic-treaty/)
-* [Facts Now Secondary to Emotions](https://americanfreepress.net/facts-now-secondary-to-emotions/)
-* [Many Americans Say They’ll Never Retire](https://americanfreepress.net/many-americans-say-theyll-never-retire/)
-* [Crypto Founder Jailed While Top Bankers Get Slap on Wrist](https://americanfreepress.net/crypto-founder-jailed-while-top-bankers-get-slap-on-wrist/)
-* [U.S. Fertility Rates Plunge](https://americanfreepress.net/u-s-fertility-rates-plunge/)
+* [Highly Respected Croatian Diplomat Offers Unique Perspective on Balkans, Ukraine, Russia](https://americanfreepress.net/highly-respected-croatian-diplomat-offers-unique-perspective-on-balkans-ukraine-russia/)
+* [Judge: ‘Non-Violent’ Illegal Aliens Deserve Second Amendment Rights](https://americanfreepress.net/judge-non-violent-illegal-aliens-deserve-second-amendment-rights/)
+* [Legal Drama Continues as Federal Court Blocks Efforts by Texas to Arrest Illegals](https://americanfreepress.net/legal-drama-continues-as-federal-court-blocks-efforts-by-texas-to-arrest-illegals/)
+* [Why Didn’t Trump Release JFK Docs?](https://americanfreepress.net/why-didnt-trump-release-jfk-docs/)
+* [Boeing Whistleblower Ends Up Dead After Exposing ‘Corner Cutting’](https://americanfreepress.net/boeing-whistleblower-ends-up-dead-after-exposing-corner-cutting/)
 
 ###### Recent Comments
 
-* Me on [Couple Arrested, Charged for Handing Out Legal Flyers](https://americanfreepress.net/couple-arrested-charged-for-handing-out-legal-flyers/#comment-53416)
-* Bill Daniel on [DHS Chief’s Involvement With ‘HIAS’ Raises Eyebrows With Borderwatchers](https://americanfreepress.net/dhs-chiefs-involvement-with-hias-raises-eyebrows-with-borderwatchers/#comment-53414)
-* Jaroslav K. on [2024 Is the Last Year of Free Speech, Democracy in the Western World](https://americanfreepress.net/2024-is-the-last-year-of-free-speech-democracy-in-the-western-world/#comment-53402)
-* Jaroslav K. on [Why Didn’t Trump Release JFK Docs?](https://americanfreepress.net/why-didnt-trump-release-jfk-docs/#comment-53401)
+* Richard Bleznuck on [Big Apple Now the ‘Big Banana’: Cops Out, National Guardsmen In](https://americanfreepress.net/big-apple-now-the-big-banana-cops-out-national-guardsmen-in/#comment-53327)
+* Karl C. Gaiser on [Big Apple Now the ‘Big Banana’: Cops Out, National Guardsmen In](https://americanfreepress.net/big-apple-now-the-big-banana-cops-out-national-guardsmen-in/#comment-53320)
+* Harry on [Why Didn’t Trump Release JFK Docs?](https://americanfreepress.net/why-didnt-trump-release-jfk-docs/#comment-53315)
+* John on [2024 Is the Last Year of Free Speech, Democracy in the Western World](https://americanfreepress.net/2024-is-the-last-year-of-free-speech-democracy-in-the-western-world/#comment-53211)
 
 * [Home](https://americanfreepress.net/)
 * [ABOUT](https://americanfreepress.net/about-afp/)
@@ -178,4 +178,4 @@ Any cookies that may not be particularly necessary for the website to function a
 
 SAVE & ACCEPT
 
-![css.php](https://americanfreepress.net/wp-content/plugins/cookies-for-comments/css.php?k=8a9b2c33f69fe9773bed4bd13516bab6&o=i&t=1267720385)
+![css.php](https://americanfreepress.net/wp-content/plugins/cookies-for-comments/css.php?k=8a9b2c33f69fe9773bed4bd13516bab6&o=i&t=1518039861)
