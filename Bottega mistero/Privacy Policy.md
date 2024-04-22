@@ -248,14 +248,11 @@ I Dati Personali sono raccolti per le seguenti finalità ed utilizzando i seguen
     
     #### Google reCAPTCHA
     
-    Google reCAPTCHA è un servizio di protezione dallo SPAM fornito da Google LLC oppure da Google Ireland Limited, a seconda di come il Titolare gestisce il trattamento dei Dati.  
-    L'utilizzo del sistema reCAPTCHA è soggetto alla [privacy policy](https://www.google.com/intl/it/policies/privacy/) e ai [termini di utilizzo](https://www.google.com/intl/it/policies/terms/) di Google.
-    
-    Per una comprensione dell'utilizzo dei dati da parte di Google, si prega di consultare le [norme per i partner di Google](https://www.google.com/intl/it/policies/privacy/partners/).
+    Google reCAPTCHA è un servizio di protezione dallo SPAM fornito da Google Inc.
     
     Dati Personali trattati: Cookie; Dati di utilizzo.
     
-    Luogo del trattamento: Stati Uniti ; Irlanda .
+    Luogo del trattamento: Stati Uniti – [Privacy Policy](https://policies.google.com/privacy); Irlanda – [Privacy Policy](https://policies.google.com/privacy).
     
     Categoria di informazioni personali raccolte ai sensi del CCPA: informazioni su relative alle attività su internet o altri network.
     
@@ -447,7 +444,7 @@ Ulteriori informazioni per gli utenti
 
 Il Titolare tratta Dati Personali relativi all’Utente in caso sussista una delle seguenti condizioni:
 
-* l’Utente ha prestato il consenso per una o più finalità specifiche.
+* l’Utente ha prestato il consenso per una o più finalità specifiche; Nota: in alcuni ordinamenti il Titolare può essere autorizzato a trattare Dati Personali senza che debba sussistere il consenso dell’Utente o un’altra delle basi giuridiche specificate di seguito, fino a quando l’Utente non si opponga (“opt-out”) a tale trattamento. Ciò non è tuttavia applicabile qualora il trattamento di Dati Personali sia regolato dalla legislazione europea in materia di protezione dei Dati Personali;
 * il trattamento è necessario all'esecuzione di un contratto con l’Utente e/o all'esecuzione di misure precontrattuali;
 * il trattamento è necessario per adempiere un obbligo legale al quale è soggetto il Titolare;
 * il trattamento è necessario per l'esecuzione di un compito di interesse pubblico o per l'esercizio di pubblici poteri di cui è investito il Titolare;
@@ -464,11 +461,11 @@ Pertanto:
 * I Dati Personali raccolti per scopi collegati all’esecuzione di un contratto tra il Titolare e l’Utente saranno trattenuti sino a quando sia completata l’esecuzione di tale contratto.
 * I Dati Personali raccolti per finalità riconducibili all’interesse legittimo del Titolare saranno trattenuti sino al soddisfacimento di tale interesse. L’Utente può ottenere ulteriori informazioni in merito all’interesse legittimo perseguito dal Titolare nelle relative sezioni di questo documento o contattando il Titolare.
 
-Quando il trattamento è basato sul consenso dell’Utente, il Titolare può conservare i Dati Personali più a lungo sino a quando detto consenso non venga revocato. Inoltre, il Titolare potrebbe essere obbligato a conservare i Dati Personali per un periodo più lungo per adempiere ad un obbligo di legge o per ordine di un’autorità.  
+Quando il trattamento è basato sul consenso dell’Utente, il Titolare può conservare i Dati Personali più a lungo sino a quando detto consenso non venga revocato. Inoltre, il Titolare potrebbe essere obbligato a conservare i Dati Personali per un periodo più lungo in ottemperanza ad un obbligo di legge o per ordine di un’autorità.  
   
 Al termine del periodo di conservazione i Dati Personali saranno cancellati. Pertanto, allo spirare di tale termine il diritto di accesso, cancellazione, rettificazione ed il diritto alla portabilità dei Dati non potranno più essere esercitati.
 
-### Diritti dell’Utente sulla base del Regolamento Generale sulla Protezione dei Dati (GDPR)
+### Diritti dell’Utente
 
 Gli Utenti possono esercitare determinati diritti con riferimento ai Dati trattati dal Titolare.
 
@@ -493,7 +490,7 @@ Gli Utenti hanno diritto di ottenere informazioni in merito alla base giuridica 
 
 #### Come esercitare i diritti
 
-Per esercitare i propri diritti, gli Utenti possono indirizzare una richiesta ai recapiti del Titolare indicati in questo documento. La richiesta è gratuita e il Titolare risponderà nel più breve tempo possibile, in ogni caso entro un mese, fornendo all’Utente tutte le informazioni previste dalla legge. Eventuali rettifiche, cancellazioni o limitazioni del trattamento saranno comunicate dal Titolare a ciascuno dei destinatari, se esistenti, a cui sono stati trasmessi i Dati Personali, salvo che ciò si riveli impossibile o implichi uno sforzo sproporzionato. Il Titolare comunica all'Utente tali destinatari qualora egli lo richieda.
+Per esercitare i propri diritti, gli Utenti possono indirizzare una richiesta ai recapiti del Titolare indicati in questo documento. La richiesta può essere depositate gratuitamente e il Titolare risponderà nel più breve tempo possibile, in ogni caso entro un mese, fornendo all’Utente tutte le informazioni previste dalla legge. Eventuali rettifiche, cancellazioni o limitazioni del trattamento saranno comunicate dal Titolare a ciascuno dei destinatari, se esistenti, a cui sono stati trasmessi i Dati Personali, salvo che ciò si riveli impossibile o implichi uno sforzo sproporzionato. Il Titolare comunica all'Utente tali destinatari qualora egli lo richieda.
 
 Ulteriori informazioni per gli utenti in Svizzera
 -------------------------------------------------
@@ -597,8 +594,8 @@ Possiamo trasferire le tue informazioni personali al di fuori del territorio bra
 * quando il trasferimento è necessario all’esercizio di un ordine pubblico o per l’espletamento di un pubblico servizio;
 * quando il trasferimento è necessario per l’adempimento di un obbligo di legge, l’esecuzione di un contratto e dei relativi adempimenti precontrattuali, o il normale esercizio di diritti in sede guidiziaria, amministrativa o in sede arbitrale.
 
-Further information for California consumers
---------------------------------------------
+Futher information for California consumers
+-------------------------------------------
 
 This section of the document integrates with and supplements the information contained in the rest of the privacy policy and is provided by the business running this Website and, if the case may be, its parent, subsidiaries and affiliates (for the purposes of this section referred to collectively as “we”, “us”, “our”).
 
