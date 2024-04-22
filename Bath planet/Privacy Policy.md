@@ -37,7 +37,7 @@
 
 Toggle navigation    [![Bath Planet Logo](https://www.bathplanet.com/img/logo.png)](https://www.bathplanet.com/)
 
-(855) 239-1631 [Call](tel:(855)%20239-1631) [Get A Free Appointment!](#quote-form-fields)
+(855) 239-1631 [Call](tel:(855) 239-1631) [Get A Free Appointment!](#quote-form-fields)
 
 * [Bath Conversions](https://www.bathplanet.com/bathroom-conversion/)
     * [Tub to Shower](https://www.bathplanet.com/bathroom-conversion/tub-to-shower/)
