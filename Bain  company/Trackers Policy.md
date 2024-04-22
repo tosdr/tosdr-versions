@@ -857,7 +857,7 @@ You can find more information about how to manage Cookies in the “help” sect
 
 **Contact**
 
-If you have any questions about this Cookie Policy, please contact [DataPrivacy@Bain.com](mailto:DataPrivacy@bain.com).
+If you have any questions about this Cookie Policy, please contact [DataPrivacy@Bain.com](mailto:DataPrivacy@Bain.com).
 
 Stay ahead in a rapidly changing world. Subscribe to Bain Insights, our monthly look at the critical issues facing global businesses.
 
