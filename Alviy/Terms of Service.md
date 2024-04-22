@@ -1,8 +1,8 @@
  [![](/static/icons/globe.svg) www.alviy.com](https://alviy.com/)
 
-* [Products](#)
+* [DNS services](#)
     
-    [DNS Hosting](https://alviy.com/en/dns-hosting) [Dynamic DNS](https://alviy.com/en/blog/ddns) [Backup DNS](https://alviy.com/en/secondary)
+    [DNS Hosting](https://alviy.com/en/dns-hosting) [DNS Secondary](https://alviy.com/en/secondary)
     
 * [Prices](https://alviy.com/en/price)
 * [Info](#)
@@ -124,6 +124,7 @@ If any changes affect your use of the Services or your legal rights as a user of
 If you do not agree with the changes we have made, please unfollow your account before these the changes will take effect. Where applicable, we will offer you a prorated refund of according to how much you have paid in advance for the use of the Services and what was the date canceling a subscription. By continuing to use or access the Services after such changes, you agree to the amended Terms.
 
 * [![](\static\images\face-black.png)](https://www.facebook.com/alviy.DNS)
+* [![](\static\images\vkon-black.png)](https://vk.com/alviy_dns)
 
 * Features
 * [Premium](https://alviy.com/en/premium)
@@ -142,7 +143,7 @@ If you do not agree with the changes we have made, please unfollow your account 
 * [About DDNS](https://alviy.com/en/blog/ddns)
 * [DDNS service comparison](https://alviy.com/en/blog/ddns-net)
 
-© www.alviy.com All Rights Reserved
+© www.alviy.com All Rights Reserved.
 
 We use cookies to make your experience of our websites better. By using and further navigating this website you accept this. Detailed information about the use of cookies on this website is available by clicking on [more information](https://alviy.com/privacy).
 
