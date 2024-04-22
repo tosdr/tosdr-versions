@@ -6,7 +6,7 @@
 * [Moto Database](https://www.autoevolution.com/moto/ "Motorcycle models and specifications database")
 * [Game reviews](https://www.autoevolution.com/news/videogame-reviews/ "Game reviews")
 * [EV/Hybrids](https://www.autoevolution.com/green/ "Green news")
-* [Spyshots](https://www.autoevolution.com/spyshots/ "Car spyshots and videos")
+* [Spyshots](https://www.autoevolution.com/news/spyshots/ "Car spyshots and videos")
 * [Space Junk](https://www.autoevolution.com/news/space-junk/ "Space junk")
 * [Renderings](https://www.autoevolution.com/news/renderings/ "Car renderings and concepts")
 * [Newspaper](https://www.autoevolution.com/newspaper/ "Newspaper")
@@ -27,21 +27,21 @@
 * [About us](https://www.autoevolution.com/static/about-us.html "About autoevolution")
 * [RSS Feeds](https://www.autoevolution.com/rss-channels/ "Follow autoevolution via RSS")
 
-[News](https://www.autoevolution.com/news/ "Latest news") [Cars](https://www.autoevolution.com/cars/ "Car models and specifications database") [Moto](https://www.autoevolution.com/moto/ "Motorcycle models and specifications database") [Driven](https://www.autoevolution.com/news/driven/ "Driven cars & moto") [Classics](https://www.autoevolution.com/news/classics/ "Classic cars") [Renderings](https://www.autoevolution.com/news/renderings/ "Renders") [Spyshots](https://www.autoevolution.com/spyshots/ "Spyshots") [EV/Hybrid](https://www.autoevolution.com/green/ "Electric Cars and Hybrids") [Motorsport](https://www.autoevolution.com/news/motorsport/ "Motorsport")
+[News](https://www.autoevolution.com/news/ "Latest news") [Cars](https://www.autoevolution.com/cars/ "Car models and specifications database") [Moto](https://www.autoevolution.com/moto/ "Motorcycle models and specifications database") [Driven](https://www.autoevolution.com/news/driven/ "Driven cars & moto") [Classics](https://www.autoevolution.com/news/classics/ "Classic cars") [Renderings](https://www.autoevolution.com/news/renderings/ "Renders") [Spyshots](https://www.autoevolution.com/news/spyshots/ "Spyshots") [EV/Hybrid](https://www.autoevolution.com/green/ "Electric Cars and Hybrids") [Motorsport](https://www.autoevolution.com/news/motorsport/ "Motorsport")
 
 [](https://www.autoevolution.com/search.php "Search")[](https://www.autoevolution.com/sendtip/ "Have a news tip? Let us know!")[](https://www.youtube.com/c/autoevolutioncom)
 
 editorial \_
 
-[![At Long Last, Chevrolet Has an All-Electric Family That's Worth Buying](https://s1.cdn.autoevolution.com/images/news/at-long-last-chevrolet-has-an-all-electric-family-that-s-worthy-to-consider-buying-233945-5.jpg "At Long Last, Chevrolet Has an All-Electric Family That's Worth Buying")
+[![Cars That I Hate – Episode 3: BMW 2 Series Gran Coupe](https://s1.cdn.autoevolution.com/images/news/cars-that-i-hate-episode-3-bmw-2-series-gran-coupe-232643-5.jpg "Cars That I Hate – Episode 3: BMW 2 Series Gran Coupe")
 
-#### At Long Last, Chevrolet Has an All-Electric Family That's Worth Buying](https://www.autoevolution.com/news/at-long-last-chevrolet-has-an-all-electric-family-that-s-worthy-to-consider-buying-233945.html "At Long Last, Chevrolet Has an All-Electric Family That's Worth Buying")
+#### Cars That I Hate – Episode 3: BMW 2 Series Gran Coupe](https://www.autoevolution.com/news/cars-that-i-hate-episode-3-bmw-2-series-gran-coupe-232643.html "Cars That I Hate – Episode 3: BMW 2 Series Gran Coupe")
 
 coverstory \_
 
-[![1955 Chevrolet Bel Air Replica With Gold Plating Has Just Found a Home, It's Not a Safe!](https://s1.cdn.autoevolution.com/images/news/1955-chevrolet-bel-air-replica-with-gold-plating-has-just-found-a-home-it-s-not-a-safe-234198-5.jpeg "1955 Chevrolet Bel Air Replica With Gold Plating Has Just Found a Home, It's Not a Safe!")
+[![This 26-ft Tiny Home With Industrial Outside Look Reveals a Light-Filled, Modern Interior](https://s1.cdn.autoevolution.com/images/news/this-26-ft-tiny-home-with-industrial-outside-look-reveals-a-light-filled-modern-interior-232726-5.jpg "This 26-ft Tiny Home With Industrial Outside Look Reveals a Light-Filled, Modern Interior")
 
-1955 Chevrolet Bel Air Replica With Gold Plating Has Just Found a Home, It's Not a Safe!](https://www.autoevolution.com/news/1955-chevrolet-bel-air-replica-with-gold-plating-has-just-found-a-home-it-s-not-a-safe-234198.html)
+This 26-ft Tiny Home With Industrial Outside Look Reveals a Light-Filled, Modern Interior](https://www.autoevolution.com/news/this-26-ft-tiny-home-with-industrial-outside-look-reveals-a-light-filled-modern-interior-232726.html)
 
 how-to \_
 
