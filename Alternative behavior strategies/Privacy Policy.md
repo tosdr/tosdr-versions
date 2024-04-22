@@ -346,7 +346,7 @@ Also of Interest:
 * [Privacy Policy](https://www.abskids.com/privacy-policy/)
 * [No Surprises Act](https://www.abskids.com/no-surprises-act/)
 
-        ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+      ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
 ![](http://bidagent.xad.com/conv/221384?ts=%pord=!?)
 
