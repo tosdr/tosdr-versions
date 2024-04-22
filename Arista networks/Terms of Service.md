@@ -20,7 +20,7 @@
 Toggle Navigation
 
 * [Solutions](javascript:void(0);)
-    * [AI Networking Center](https://www.arista.com/en/solutions/ai-networking)
+    * [AI Networking](https://www.arista.com/en/solutions/ai-networking)
     * [Cloud Networking](https://www.arista.com/en/solutions/cloud-networking)
     * [Cloud-Grade Routing](https://www.arista.com/en/solutions/cloud-scale-routing)
     * [Cognitive Campus Workspaces](https://www.arista.com/en/solutions/cognitive-campus)
@@ -68,25 +68,24 @@ Toggle Navigation
     * [7500 Series](#tab23)
     * [7300 Series](#tab24)
     * [7280 Series](#tab25)
-    * [AWE 7200R Series](#tab1539)
     * [7170 Series](#tab27)
     * [7130 Series](#tab446)
     * [7060X Series](#tab30)
     * [7050X Series](#tab31)
     * [7020R Series](#tab32)
     * [7010X Series](#tab33)
+    * [5000 Series](#tab1485)
     * [750 Series](#tab688)
     * [720X Series](#tab636)
     * [720D Series](#tab1461)
     * [710P Series](#tab1352)
-    * [Wi-Fi 7 Series](https://www.arista.com/en/products/wifi7-series)
     * [Wi-Fi 6E Series](https://www.arista.com/en/products/wifi6e-series)
     * [Wi-Fi 6 Series](https://www.arista.com/en/products/wifi6-series)
     
     * [Universal Cloud Networking](#tab721)
     * [Hyperscale Data Center](#tab722)
     * [Cloud Grade Routing](#tab723)
-    * [Enterprise WAN](javascript:void(0);)
+    * [Enterprise WAN](#tab1497)
     * [Cognitive Campus](#tab724)
     * [R-Series Spine & Leaf](#tab725)
     * [X-Series Spine & Leaf](#tab726)
@@ -100,10 +99,9 @@ Toggle Navigation
         
         ![](/assets/images/CV-AGNI-Menu.png)
         
-    * [Multi-Domain Segmentation (MSS)](https://www.arista.com/en/products/multi-domain-segmentation)
     * [Arista NDR](https://www.arista.com/en/products/network-detection-and-response)
     * [Wireless Intrusion Prevention System](https://www.arista.com/en/products/wireless-intrusion-prevention-system)
-    * [Edge Threat Management](https://www.arista.com/solutions/security/etm)
+    * [Edge Threat Management](https://www.arista.com/solutions/security/edge-threat-management)
     * [Security Services](https://www.arista.com/en/products/security-services)
     
     * [DMF Overview](https://www.arista.com/en/products/danz-monitoring-fabric)Controller-driven visibility fabric delivering multi-tenant monitoring for pervasive, context-driven network observability
@@ -131,9 +129,6 @@ Toggle Navigation
     
     * [7280R3 Series](#tab596)
     * [7280R3 Modular Series](https://www.arista.com/products/7280r3-series/7280r3-modular)
-    
-    * [AWE 7200R Series Overview](https://www.arista.com/en/products/awe-7200r-series)
-    * [AWE 7200R Data Sheet](https://www.arista.com/assets/data/pdf/Datasheets/AWE-7200R-Datasheet.pdf)
     
     * [7170 Series Overview](https://www.arista.com/en/products/7170-series)High Performance Multi-function Programmable Platforms
         
@@ -169,6 +164,12 @@ Toggle Navigation
         
     * [7010X Data Sheet](https://www.arista.com/assets/data/pdf/Datasheets/7010TX-Datasheet.pdf)
     * [7010X Quick Look](https://www.arista.com/assets/data/pdf/Datasheets/7010X-Quick-Look.pdf)
+    
+    * [5000 Series Overview](https://www.arista.com/en/products/5000-series)WAN Routing System with CloudVision® Pathfinder Service
+        
+        [![](/assets/images/video/Introducing-Arista-WAN-Routing-System.jpg)](https://www.youtube.com/embed/Rc2crV-61ks?rel=0&wmode=transparent&modestbranding=1&showinfo=0)
+        
+    * [5000 Data Sheet](https://www.arista.com/assets/data/pdf/Datasheets/Arista-5000-Datasheet.pdf)
     
     * [750 Series Overview](https://www.arista.com/en/products/750-series)Cognitive Campus Modular POE Leaf Switches
         
@@ -212,6 +213,11 @@ Toggle Navigation
     * [7500R3 Series](https://www.arista.com/en/products/7500r3-series)
     * [7280R3 Series](#tab765)
     * [7020R Series](https://www.arista.com/en/products/7020r-series)
+    
+    * [Arista 5000 Series](https://www.arista.com/en/products/5000-series)WAN Routing System with CloudVision® Pathfinder Service
+        
+        [![](/assets/images/video/Introducing-Arista-WAN-Routing-System.jpg)](https://www.youtube.com/embed/Rc2crV-61ks?rel=0&wmode=transparent&modestbranding=1&showinfo=0)
+        
     
     * [Spine & Edge Routing](#tab769)
     * [Wired](#tab775)
