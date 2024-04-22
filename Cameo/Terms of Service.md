@@ -1,4 +1,4 @@
-[![](https://cdn.prod.website-files.com/614cc83b929b3f7631dd3626/614e12c754018b655fcc4013_chevron-left.png)![](https://cdn.prod.website-files.com/61fc4df03f57783a86513b23/61fc4df03f577808ac513b34_Cameo%20logo.svg)](https://www.cameo.com/) [•  Legal](https://www.cameo.com/)
+[![](https://assets-global.website-files.com/614cc83b929b3f7631dd3626/614e12c754018b655fcc4013_chevron-left.png)![](https://assets-global.website-files.com/61fc4df03f57783a86513b23/61fc4df03f577808ac513b34_Cameo%20logo.svg)](https://www.cameo.com/) [•  Legal](https://www.cameo.com/)
 
 [Legal Center](https://www.cameo.com/)[Terms of Service](https://www.cameo.com/termsofservice)[Privacy](https://www.cameo.com/privacypolicy)[Community Guidelines](https://www.cameo.com/communityguidelines)[Affiliates](https://www.cameo.com/affiliates)
 
@@ -1253,9 +1253,9 @@ Last updated: April 22, 2022
 
 [Jobs](https://careers.cameo.com/)[Privacy](https://legal.cameo.com/privacypolicy)[Terms](https://legal.cameo.com/termsofservice)[Guidelines](https://legal.cameo.com/communityguidelines)[About](https://www.cameo.com/about)[Team](https://www.cameo.com/team)[Accessibility](https://www.cameo.com/accessibility)[Blog](http://cameoblog.medium.com/)[Press](mailto:press@cameo.com)[Help](mailto:hello@cameo.com)[For business](https://biz.cameo.com/)[Gift cards](https://www.cameo.com/giftcards)
 
-Your Privacy Choices ![](https://cdn.prod.website-files.com/5fd772858a112fe4a06ec550/63c6cc9f6d98b5a6c8f5f497_privacyoptions123x59.png)
+Your Privacy Choices ![](https://assets-global.website-files.com/5fd772858a112fe4a06ec550/63c6cc9f6d98b5a6c8f5f497_privacyoptions123x59.png)
 
-[![](https://cdn.prod.website-files.com/614cc83b929b3f7631dd3626/63c6d534e6a573805c8a1b01_Linkedin.svg)](https://www.linkedin.com/company/bookcameo)[![](https://cdn.prod.website-files.com/614cc83b929b3f7631dd3626/63c6d534e6a5735ecb8a1b04_Instagram.svg)](https://www.instagram.com/cameo/)[![](https://cdn.prod.website-files.com/614cc83b929b3f7631dd3626/63c6d534e6a57340c38a1b02_Facebook.svg)](https://www.facebook.com/Cameo/)[![](https://cdn.prod.website-files.com/614cc83b929b3f7631dd3626/63c6d534e6a57328ff8a1b03_Twitter.svg)](https://www.facebook.com/Cameo/)[![](https://cdn.prod.website-files.com/614cc83b929b3f7631dd3626/63c6d534e6a573c1f78a1b00_Phone.svg)](https://www.cameo.com/text-me)
+[![](https://assets-global.website-files.com/614cc83b929b3f7631dd3626/63c6d534e6a573805c8a1b01_Linkedin.svg)](https://www.linkedin.com/company/bookcameo)[![](https://assets-global.website-files.com/614cc83b929b3f7631dd3626/63c6d534e6a5735ecb8a1b04_Instagram.svg)](https://www.instagram.com/cameo/)[![](https://assets-global.website-files.com/614cc83b929b3f7631dd3626/63c6d534e6a57340c38a1b02_Facebook.svg)](https://www.facebook.com/Cameo/)[![](https://assets-global.website-files.com/614cc83b929b3f7631dd3626/63c6d534e6a57328ff8a1b03_Twitter.svg)](https://www.facebook.com/Cameo/)[![](https://assets-global.website-files.com/614cc83b929b3f7631dd3626/63c6d534e6a573c1f78a1b00_Phone.svg)](https://www.cameo.com/text-me)
 
 © 2017-2024, Baron App, Inc. dba Cameo
 
