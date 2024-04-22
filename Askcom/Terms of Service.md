@@ -1,14 +1,14 @@
-[![](/static/logos/ask.com.svg)](https://www.ask.com/?ueid=4AFDDC76-735F-4F57-901E-32A4E42009C3&ad=dirN "https://www.ask.com/?ueid=4AFDDC76-735F-4F57-901E-32A4E42009C3&ad=dirN")
+[![](/static/logos/ask.com.svg)](https://www.ask.com/?ueid=860FD375-1C04-4286-9AD7-A79B4130DEA3&ad=dirN&locale=en_US "https://www.ask.com/?ueid=860FD375-1C04-4286-9AD7-A79B4130DEA3&ad=dirN&locale=en_US")
 
 Ask Media Group, LLC Terms of Service
 
-**Last Updated On: May 30, 2024**
+**Last Updated On: August 29, 2023**
 
-Ask Media Group, LLC (“AMG”), directly or indirectly operates many websites (the “Sites”) offering search services and everyday useful content, such as Ask.com, Reference.com, Life123.com, Consumersearch.com, and Shop411.com, as well as downloadable search applications including browser extensions/add-ons which can be installed on your computer (the “Products and Services”). Click [here](https://www.askmediagroup.com/) for more info about AMG sites. Use of our Sites, Products, and Services are subject to these Terms of Service (“Terms of Service”). By using, downloading, installing and/or accessing the Sites, Products, and Services, you are deemed to accept and be bound by these Terms of Service, INCLUDING A MANDATORY CLASS ACTION WAIVER AND ARBITRATION AGREEMENT CONTAINED IN SECTION 14 BELOW. If you do not accept these Terms of Service, please discontinue using the Sites, Products and Services. The Terms of Service applies regardless of the type of device used to access the Sites, Products and/or Services (e.g., personal computer, a mobile device or any other technology or software known today or developed in the future).
+Ask Media Group, LLC (“AMG”), directly or indirectly operates many websites (the “Sites”) offering search services and everyday useful content, such as Ask.com, Reference.com, Life123.com, Consumersearch.com, and Shop411.com, as well as downloadable search applications including browser extensions/add-ons which can be installed on your computer (the “Products and Services”). Click[here](https://www.askmediagroup.com/) for more info about AMG sites. Use of our Sites, Products, and Services are subject to these Terms of Service (“Terms of Service”). By using, downloading, installing and/or accessing the Sites, Products, and Services, you are deemed to accept and be bound by these Terms of Service, INCLUDING A MANDATORY CLASS ACTION WAIVER AND ARBITRATION AGREEMENT CONTAINED IN SECTION 14 BELOW. If you do not accept these Terms of Service, please discontinue using the Sites, Products and Services. The Terms of Service applies regardless of the type of device used to access the Sites, Products and/or Services (e.g., personal computer, a mobile device or any other technology or software known today or developed in the future).
 
 **PLEASE READ THIS AGREEMENT CAREFULLY BEFORE USING, DOWNLOADING, INSTALLING OR ACCESSING THE SITES, PRODUCTS, AND SERVICES.**
 
-The Sites, Products and Services are offered from the United States of America and, regardless of your place of residence or access location, your use of them is governed by the laws of the State of California, USA. AMG makes no representations that the Products and Sites are appropriate for use in other locations or are legal in all jurisdictions. Those who access or use the Products and Sites from other locations do so at their own risk and consent to the transfer and processing of their data in the United States of America and any other jurisdiction throughout the world. As a U.S. company, these Terms of Service are provided in English. Translations to certain other languages may be available and can be requested by contacting us [here](https://help.askmediagroup.com/hc/en-us).
+The Sites, Products and Services are offered from the United States of America and, regardless of your place of residence or access location, your use of them is governed by the laws of the State of California, USA. AMG makes no representations that the Products and Sites are appropriate for use in other locations or are legal in all jurisdictions. Those who access or use the Products and Sites from other locations do so at their own risk and consent to the transfer and processing of their data in the United States of America and any other jurisdiction throughout the world. As a U.S. company, these Terms of Service are provided in English. Translations to certain other languages may be available and can be requested by contacting us[here](https://help.askmediagroup.com/hc/en-us).
 
 These Terms of Service may change from time to time, without any notice other than posting on the relevant page. Your continued use of a Site, Product or Service following our posting of changes constitutes your acceptance of any such changes. Please check this page from time to time for current Terms of Service.
 
@@ -32,12 +32,11 @@ Links to the various sections in these Terms of Service are provided below for y
 16. [Limitation of Actions Brought Against AMG](#link16)
 17. [Third Party Beneficiaries](#link17)
 18. [Section Titles](#link18)
-19. [Ask Media Group Transparency Policy](#link19)
-20. [Contact Information](#link20)
+19. [Contact Information](#link19)
 
 1\. Privacy
 
-For all questions about how we use the information we obtain through your use of the Sites, Products and Services, please visit the Ask Media Group [Privacy Policy](https://www.ask.com/privacy). By downloading, installing and/or accessing or using the Sites, Products and Services, you agree to our collection and use of your data as described in our Privacy Policy.
+For all questions about how we use the information we obtain through your use of the Sites, Products and Services, please visit the Ask Media Group[Privacy Policy](https://www.ask.com/privacy). By downloading, installing and/or accessing or using the Sites, Products and Services, you agree to our collection and use of your data as described in our Privacy Policy.
 
 2\. Your License to Access Content on Site
 
@@ -49,7 +48,7 @@ In your use of the Sites and Services, you agree to comply with all applicable l
 
 The Sites, Products and Services are not intended for children under 16 years of age. You hereby represent and warrant that you have the required age to use the Sites, Products and Services.
 
-NOTICE TO PARENTS AND GUARDIANS of children under 16 years of age: By granting your child permission to download and access the Sites, Products and Services, you agree to the terms of this Terms of Service on behalf of your child. You are responsible for exercising supervision over your children’s online activities. If you do not agree to this Terms of Service, do not let your child use and access the Sites, Products and Services or associated features. If you are the parent or guardian of a child under 16 and believe that they are using the Sites, Products and Services, please contact us [here](https://help.askmediagroup.com/hc/en-us).
+NOTICE TO PARENTS AND GUARDIANS of children under 16 years of age: By granting your child permission to download and access the Sites, Products and Services, you agree to the terms of this Terms of Service on behalf of your child. You are responsible for exercising supervision over your children’s online activities. If you do not agree to this Terms of Service, do not let your child use and access the Sites, Products and Services or associated features. If you are the parent or guardian of a child under 16 and believe that they are using the Sites, Products and Services, please contact us[here](https://help.askmediagroup.com/hc/en-us).
 
 4\. Code of Conduct
 
@@ -93,7 +92,7 @@ AMG reserves the right to take any action it deems appropriate if it determines,
 
 The Sites, Products and Services include links to other websites or resources and may integrate, be integrated into, bundled, or be provided in connection with third-party services and/or social networks. Internet transmissions are never completely secure. Because AMG has no control over third party sites and resources, you acknowledge and agree that AMG is not responsible for the availability of such external sites or resources, and does not endorse and is not responsible or liable for any content, advertising, products, or other materials on or available from such sites or resources. You acknowledge that such external sites usually have their own terms and conditions, including privacy policies, over which AMG has no control and which will govern your rights and obligations with respect to the use of those websites.
 
-The Sites, Products and Services may use YouTube’s API to display third-party videos in connection with the Sites, Products and Services. By using the Sites, Products and Services you agree to be bound by the [YouTube’s Terms of Service (https://www.youtube.com/t/terms)](https://www.youtube.com/t/terms).
+The Sites, Products and Services may use YouTube’s API to display third-party videos in connection with the Sites, Products and Services. By using the Sites, Products and Services you agree to be bound by the[YouTube’s Terms of Service (https://www.youtube.com/t/terms)](https://www.youtube.com/t/terms).
 
 To offer use of the Sites, Products and Services to its users for free, AMG allows advertisers to display advertisements or other promotional content on the Sites. Your dealings with advertisers and third party vendors found on or through the Sites, Products and Services, including your participation in promotions, purchase of goods and services, and any terms, conditions, warranties or representations associated with such activities, are solely between you and the third party advertiser or vendor. AMG does not make any representations or warranties with respect to any goods, services or websites that appear in advertisements or promotional content, and you agree that AMG will have no liability for any loss or damage of any kind incurred as a result of any activities you undertake in connection with the use of or reliance on any content, goods, services, information or other materials available, through advertisers and/or third party vendors.
 
@@ -165,7 +164,7 @@ If you believe that your work has been used on the Sites or in connection with t
 * A statement by you that you have a good faith belief that the disputed use of the material at issue is not authorized by the copyright owner, the agent of the copyright owner or the law; and
 * A statement by you that the information in this notification is accurate and a statement, under penalty of perjury, that you are the copyright owner of the material allegedly infringed or authorized to act on the copyright owner’s behalf.
 
-The best way to submit a copyright infringement notice and takedown request is to contact us [here](https://help.askmediagroup.com/hc/en-us). The mailing address for Ask’s copyright agent for notice of claims of copyright infringement on the Site and/or in connection with the Services is:
+The best way to submit a copyright infringement notice and takedown request is to contact us[here](https://help.askmediagroup.com/hc/en-us). The mailing address for Ask’s copyright agent for notice of claims of copyright infringement on the Site and/or in connection with the Services is:
 
 Ask.com Copyright Agent, Attn: Legal Department, 1955 Broadway, Suite 350, Oakland, CA 94612
 
@@ -195,9 +194,9 @@ In the time between a party receiving the Notice and the Informal Dispute Resolu
 
 14.4 Arbitration Procedures
 
-If the Informal Dispute Resolution Process described above does not resolve satisfactorily within sixty (60) days after receipt of the Notice, you and AMG agree that the claim or dispute shall be finally resolved through binding arbitration. Arbitration will be conducted by a neutral arbitrator in accordance with the rules of JAMS that are in effect at the time the arbitration is initiated (collectively referred to as the “JAMS Rules”), as modified by this Arbitration Agreement, and excluding the JAMS Class Action Procedures. For information on JAMS, please visit its website available at [https://www.jamsadr.com/](https://www.jamsadr.com/). Information about JAMS’s Rules and fees for consumer disputes can be found at the JAMS consumer arbitration page available at [https://www.jamsadr.com/rules-comprehensive-arbitration/](https://www.jamsadr.com/rules-comprehensive-arbitration/). If there is any inconsistency between the JAMS Rules and this Arbitration Agreement, the terms of this Arbitration Agreement will control unless the arbitrator determines that the application of the inconsistent Arbitration Agreement terms would not result in a fundamentally fair arbitration. The arbitrator must also follow the provisions of these Terms, including without limitation, the limitation of liability provisions in Section 9 of these Terms.
+If the Informal Dispute Resolution Process described above does not resolve satisfactorily within sixty (60) days after receipt of the Notice, you and AMG agree that the claim or dispute shall be finally resolved through binding arbitration. Arbitration will be conducted by a neutral arbitrator in accordance with the rules of JAMS that are in effect at the time the arbitration is initiated (collectively referred to as the “JAMS Rules”), as modified by this Arbitration Agreement, and excluding the JAMS Class Action Procedures. For information on JAMS, please visit its website available at[https://www.jamsadr.com/](https://www.jamsadr.com/). Information about JAMS’s Rules and fees for consumer disputes can be found at the JAMS consumer arbitration page available at[https://www.jamsadr.com/rules-comprehensive-arbitration/](https://www.jamsadr.com/rules-comprehensive-arbitration/). If there is any inconsistency between the JAMS Rules and this Arbitration Agreement, the terms of this Arbitration Agreement will control unless the arbitrator determines that the application of the inconsistent Arbitration Agreement terms would not result in a fundamentally fair arbitration. The arbitrator must also follow the provisions of these Terms, including without limitation, the limitation of liability provisions in Section 9 of these Terms.
 
-If your claim has not been resolved through the Dispute Resolution Conference, you may commence an arbitration against AMG by writing a demand for arbitration that includes: (1) the name, telephone number, mailing address, and e‐mail address of the party seeking arbitration; (2) a statement of the legal claims being asserted and the factual bases of those claims; (3) a description of the remedy sought and an accurate, good‐faith calculation of the amount in controversy in United States Dollars; (4) a statement certifying completion of the Informal Dispute Resolution process as described above; and (5) evidence that the requesting party has paid any necessary filing fees in connection with such arbitration. You can find a sample Demand for Arbitration at [www.jamsadr.com](https://www.jamsadr.com/). You should send three copies of the Demand, plus the appropriate filing fee, to JAMS at Two Embarcadero Center, Suite 1500, San Francisco, CA 94111, and send one copy to AMG, Inc., Attn: Legal Department, 1955 Broadway, Suite 350 Oakland, CA 94612. For more information, see the JAMS arbitration rules and forms, [https://www.jamsadr.com/rules-download/](https://www.jamsadr.com/rules-download/). You may represent yourself in the arbitration or be represented by an attorney or another representative. Once we receive your arbitration claim, we may assert any counterclaims we may have against you.
+If your claim has not been resolved through the Dispute Resolution Conference, you may commence an arbitration against AMG by writing a demand for arbitration that includes: (1) the name, telephone number, mailing address, and e‐mail address of the party seeking arbitration; (2) a statement of the legal claims being asserted and the factual bases of those claims; (3) a description of the remedy sought and an accurate, good‐faith calculation of the amount in controversy in United States Dollars; (4) a statement certifying completion of the Informal Dispute Resolution process as described above; and (5) evidence that the requesting party has paid any necessary filing fees in connection with such arbitration. You can find a sample Demand for Arbitration at[www.jamsadr.com](https://www.jamsadr.com/). You should send three copies of the Demand, plus the appropriate filing fee, to JAMS at Two Embarcadero Center, Suite 1500, San Francisco, CA 94111, and send one copy to AMG, Inc., Attn: Legal Department, 1955 Broadway, Suite 350 Oakland, CA 94612. For more information, see the JAMS arbitration rules and forms,[https://www.jamsadr.com/rules-download/](https://www.jamsadr.com/rules-download/). You may represent yourself in the arbitration or be represented by an attorney or another representative. Once we receive your arbitration claim, we may assert any counterclaims we may have against you.
 
 The arbitration shall be held in San Francisco or at another mutually agreed location. If the value of the relief sought is $10,000 or less you or AMG may elect to have the arbitration conducted by telephone or based solely on written submissions, which election shall be binding on you and AMG subject to the arbitrator’s discretion to require an in-person hearing, if the circumstances warrant. Attendance at any in-person hearing may be made by telephone by you and/or AMG, unless the arbitrator requires otherwise.
 
@@ -237,47 +236,12 @@ You agree that, except for AMG and as otherwise expressly provided in these Term
 
 The section titles in these Terms of Service are for convenience only and have no legal or contractual effect.
 
-19\. Ask Media Group Transparency Policy
+19\. Contact Information
 
-At Ask Media Group, we understand the importance of balancing individual privacy rights with the public's right to information. Our policies are designed to respect and protect user data while maintaining transparency and accountability in our search engine operations.
+If you have any questions or concerns with respect to these Terms of Service or Sites and Services, please contact us[here](https://help.askmediagroup.com/hc/en-us).
 
-Search Result Sources and Advertisement Transparency
-
-* Source of Search Results: Our search results are primarily derived from third-party providers such as Google and Bing. Additionally, we include content from websites owned and operated by Ask Media Group, as well as our affiliates and content partners. In certain websites, search results only include content from Ask Media Group owned and operated websites.
-* Advertisements: We collaborate with advertising partners like Google and Microsoft to display relevant advertisements. We also display programmatic advertisements sourced from various programmatic advertising partners. All sponsored search results and display ads are clearly labelled as "Sponsored" or quot;Advertisement" for easy identification. Please see our Privacy Policy for information on data collected by such advertising partners about you and your privacy choices.
-
-Right to be Forgotten (RTBF) requests
-
-* Overview: In compliance with GDPR and the EU Digital Services Act, individuals may request the removal of certain search results linked to their personal information.
-* Request Process: To submit a RTBF request, individuals must provide proof of identity, the specific URLs they wish to have removed, and the reason for the request. To make such a request, please contact us [here](https://help.askmediagroup.com/hc/en-us/requests/new?ticket_form_id=360000386952) and use the appropriate drop down
-* Evaluation Criteria: Our team evaluates each request, considering factors like public interest, accuracy of information, relevance, and sensitivity. Decisions balance the privacy rights of the individual against public access to information.
-* Response and Action: Upon receiving a valid RTBF request, we respond promptly, detailing our decision. If a request is approved, the specific links will be removed from our search index. Please note that we do not control the search indexes of Google and Bing, and so the specific links we remove from our search index may still be included in the search results we display that are provided by Google or Bing.
-
-Additional Takedown Requests
-
-We also address other types of takedown requests, including:
-
-* DMCA Claims: For copyright infringement claims, please contact us [here](https://help.askmediagroup.com/hc/en-us/requests/new?ticket_form_id=360000386952) and use the appropriate drop down.
-* Privacy Violations: If personal information is disclosed without consent, we recommend contacting the website owner or hosting provider. However, concerns can also be raised for review by contacting us [here](https://help.askmediagroup.com/hc/en-us/requests/new?ticket_form_id=360000386952).
-* Defamation Claims: We advise addressing these concerns directly with the website owner or hosting provider. However, concerns can also be raised for review by contacting us [here](https://help.askmediagroup.com/hc/en-us/requests/new?ticket_form_id=360000386952).
-
-Contact and Feedback
-
-We welcome feedback and inquiries about our policies. Please contact us at for any questions or concerns. Your input helps us continually improve our services and uphold our commitment to digital responsibility.
-
-If you have any questions or concerns about this Transparency Policy or if you would like to submit a request to us, please contact us [here](https://help.askmediagroup.com/hc/en-us/requests/new?ticket_form_id=360000386952) or via mail at:
-
-Ask Media Group, LLC  
-Transparency Compliance Team  
-1955 Broadway, Suite 350  
-Oakland, CA 94612
-
-20\. Contact Information
-
-If you have any questions or concerns with respect to these Terms of Service or Sites and Services, please contact us [here](https://help.askmediagroup.com/hc/en-us).
-
-* [Privacy Policy](https://www.ask.com/privacy?ueid=4AFDDC76-735F-4F57-901E-32A4E42009C3&ad=dirN "Privacy Policy")
-* [Terms of Service](https://www.ask.com/terms?ueid=4AFDDC76-735F-4F57-901E-32A4E42009C3&ad=dirN "Terms of Service")
-* [Help](https://help.askmediagroup.com/hc/en-us?domain={SITE_NAME}&u={CID} "Help")
+* [Privacy Policy](https://www.ask.com/privacy?ueid=860FD375-1C04-4286-9AD7-A79B4130DEA3&ad=dirN&locale=en_US "Privacy Policy")
+* [Terms of Service](https://www.ask.com/terms?ueid=860FD375-1C04-4286-9AD7-A79B4130DEA3&ad=dirN&locale=en_US "Terms of Service")
+* [Help](https://help.askmediagroup.com/hc/en-us?ueid=860FD375-1C04-4286-9AD7-A79B4130DEA3&ad=dirN&locale=en_US "Help")
 * Manage Privacy
 * © 2024 Ask Media Group, LLC
