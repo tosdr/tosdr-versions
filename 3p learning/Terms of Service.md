@@ -7,9 +7,9 @@
 * [Support](#)
 * [About](#)
 
-* [Districts and School GroupsFind the solutions and support to achieve your goals](http://www.3plearning.com/for-districts/)
-* [Schools and TeachersFind blended learning tools for mathematics and literacy](http://www.3plearning.com/for-schools/)
-* [Parents and Home UsersFind mathematics and literacy programs to bring a love of learning home](http://www.3plearning.com/for-home/)
+* [Districts and School GroupsFind the solutions and support to achieve your goals](https://www.3plearning.com/for-districts/)
+* [Schools and TeachersFind blended learning tools for mathematics and literacy](https://www.3plearning.com/for-schools/)
+* [Parents and Home UsersFind mathematics and literacy programs to bring a love of learning home](https://www.3plearning.com/for-home/)
 * [Giving Back ProgramWe are passionate about providing 'Better Ways to Learn' to more students around the world. Learn more about our Giving Back Program.](https://www.3plearning.com/giving-back/)
 
 ![](https://assets-homepages-learning.3plearning.net/wp-content/uploads/2020/09/3p-navigation-help.svg)
@@ -18,31 +18,31 @@ By Subject* [MathematicsPrograms for early to secondary learners, covering every
 * [LiteracyPrograms for early to secondary learners, covering everything from phonics, letters, and sounds, to etymology, orthography, and phonology.](https://www.3plearning.com/literacy/)
 * [PackagesTry our all-in-one learning solution of Mathseeds, Mathletics and Brightpath Maths combined.](https://www.3plearning.com/packages/better-ways-to-learn-maths/)
 
-By Solution* [](http://www.3plearning.com/software/mathletics/)
+By Solution* [](https://www.3plearning.com/software/mathletics/)
     
     ![logo-mathletics](https://assets-homepages-learning.3plearning.net/wp-content/uploads/2020/06/logo-mathletics.svg)
     
     MathleticsThe comprehensive mathematics program
     
-* [](http://www.3plearning.com/software/mathseeds/)
+* [](https://www.3plearning.com/software/mathseeds/)
     
     ![](https://assets-homepages-learning.3plearning.net/wp-content/uploads/2020/06/logo-mathseeds.svg)
     
     MathseedsThe early learners introduction to the world of numeracy
     
-* [](http://www.3plearning.com/software/reading-eggs/)
+* [](https://www.3plearning.com/software/reading-eggs/)
     
     ![logo-readingeggs](https://assets-homepages-learning.3plearning.net/wp-content/uploads/2020/06/logo-readingeggs.svg)
     
     Reading EggsAn effective learn-to-read program that students love.
     
-* [](http://www.3plearning.com/software/writing-legends/)
+* [](https://www.3plearning.com/software/writing-legends/)
     
     ![Writing Legends](https://assets-homepages-learning.3plearning.net/wp-content/uploads/2023/07/writing-legends-logo-horizontal.svg)
     
     Writing LegendsA systematic, time-saving writing program that develops essential writing skills and fosters an enjoyment of writing
     
-* [](http://www.3plearning.com/software/brightpath/)
+* [](https://www.3plearning.com/software/brightpath/)
     
     ![Brightpath Progress](https://assets-homepages-learning.3plearning.net/wp-content/uploads/2023/07/brightpath-logo-colour.svg)
     
@@ -69,72 +69,72 @@ By Solution* [](http://www.3plearning.com/software/mathletics/)
 
 ![](https://assets-homepages-learning.3plearning.net/wp-content/uploads/2020/11/3p-navigation-company.svg)
 
-* [Free Trial](http://www.3plearning.com/free-trial/)
-* [Purchase](http://www.3plearning.com/quote/)
+* [Free Trial](https://www.3plearning.com/free-trial/)
+* [Purchase](https://www.3plearning.com/quote/)
 * [Sign In](#)
 
-* [](http://www.3plearning.com/software/mathletics/free-trial/)
+* [](https://www.3plearning.com/software/mathletics/free-trial/)
     
     ![logo-mathletics](https://assets-homepages-learning.3plearning.net/wp-content/uploads/2020/06/logo-mathletics.svg)
     
     MathleticsStart a trial
     
-* [](http://www.3plearning.com/software/mathseeds/free-trial/)
+* [](https://www.3plearning.com/software/mathseeds/free-trial/)
     
     ![](https://assets-homepages-learning.3plearning.net/wp-content/uploads/2020/06/logo-mathseeds.svg)
     
     MathseedsStart a trial
     
-* [](http://www.3plearning.com/software/reading-eggs/free-trial/)
+* [](https://www.3plearning.com/software/reading-eggs/free-trial/)
     
     ![logo-readingeggs](https://assets-homepages-learning.3plearning.net/wp-content/uploads/2020/06/logo-readingeggs.svg)
     
     Reading EggsStart a trial
     
-* [](http://www.3plearning.com/software/writing-legends/free-trial/)
+* [](https://www.3plearning.com/software/writing-legends/free-trial/)
     
     ![Writing Legends](https://assets-homepages-learning.3plearning.net/wp-content/uploads/2023/07/writing-legends-logo-horizontal.svg)
     
     Writing LegendsStart a trial
     
-* [](http://www.3plearning.com/software/brightpath/request-demo/)
+* [](https://www.3plearning.com/software/brightpath/request-demo/)
     
     ![Brightpath Progress](https://assets-homepages-learning.3plearning.net/wp-content/uploads/2023/07/brightpath-logo-colour.svg)
     
     Brightpath ProgressRequest a Demo
     
 
-* [](http://www.3plearning.com/software/3plearning/purchase/)
+* [](https://www.3plearning.com/software/3plearning/purchase/)
     
     ![](https://assets-homepages-learning.3plearning.net/wp-content/uploads/2020/11/3pl__logo.svg)
     
     3P LearningGet a quote
     
-* [](http://www.3plearning.com/software/mathletics/quote/)
+* [](https://www.3plearning.com/software/mathletics/quote/)
     
     ![logo-mathletics](https://assets-homepages-learning.3plearning.net/wp-content/uploads/2020/06/logo-mathletics.svg)
     
     MathleticsGet a quote
     
-* [](http://www.3plearning.com/software/mathseeds/quote/)
+* [](https://www.3plearning.com/software/mathseeds/quote/)
     
     ![](https://assets-homepages-learning.3plearning.net/wp-content/uploads/2020/06/logo-mathseeds.svg)
     
     MathseedsGet a quote
     
-* [](http://www.3plearning.com/software/reading-eggs/quote/)
+* [](https://www.3plearning.com/software/reading-eggs/quote/)
     
     ![logo-readingeggs](https://assets-homepages-learning.3plearning.net/wp-content/uploads/2020/06/logo-readingeggs.svg)
     
     Reading EggsGet a quote
     
-* [](http://www.3plearning.com/software/writing-legends/free-trial/)
+* [](https://www.3plearning.com/software/writing-legends/free-trial/)
     
     ![Writing Legends](https://assets-homepages-learning.3plearning.net/wp-content/uploads/2023/07/writing-legends-logo-horizontal.svg)
     
     Writing LegendsStart a trial
     
-* [](http://www.3plearning.com/software/brightpath/sign-in/)
+* [](https://www.3plearning.com/software/brightpath/sign-in/)
     
     ![Brightpath Progress](https://assets-homepages-learning.3plearning.net/wp-content/uploads/2023/07/brightpath-logo-colour.svg)
     
@@ -159,19 +159,19 @@ By Solution* [](http://www.3plearning.com/software/mathletics/)
     
     Reading EggsSign in
     
-* [](http://www.3plearning.com/software/wordflyers/sign-in/)
+* [](https://www.3plearning.com/software/wordflyers/sign-in/)
     
     ![logo-wordflyers](https://assets-homepages-learning.3plearning.net/wp-content/uploads/2020/06/logo-wordflyers.svg)
     
     WordFlyersSign in
     
-* [](http://www.3plearning.com/software/brightpath/sign-in/)
+* [](https://www.3plearning.com/software/brightpath/sign-in/)
     
     ![Brightpath Progress](https://assets-homepages-learning.3plearning.net/wp-content/uploads/2023/07/brightpath-logo-colour.svg)
     
     Brightpath ProgressSign in
     
-* [](http://www.3plearning.com/software/writing-legends/sign-in/)
+* [](https://www.3plearning.com/software/writing-legends/sign-in/)
     
     ![Writing Legends](https://assets-homepages-learning.3plearning.net/wp-content/uploads/2023/07/writing-legends-logo-horizontal.svg)
     
@@ -181,7 +181,7 @@ By Solution* [](http://www.3plearning.com/software/mathletics/)
 Terms & Conditions
 ==================
 
-**Last updated 09 May, 2024**
+**Last updated 22 June, 2022**
 
 [English](https://www.3plearning.com/terms/) [Español](https://www.3plearning.com/terminos-condiciones/)
 
@@ -244,7 +244,7 @@ Individual Licences (“Home Subscriptions”)
 
 * Access to, and use of, 3P Learning resources is subject to our terms of use and privacy policy.
 * Home subscription licenses are for individual, non-commercial purposes. Each license provides access to the relevant resource for a nominated student.
-* **Term of Subscription and Renewal:**  Home subscriptions are provided on an auto-renewing basis to ensure continued access to and use of the relevant resources. Home subscriptions have a one (1), or 12 month minimum initial term that automatically renews for consecutive periods of the same length (each a renewal term) unless notice of cancellation is provided prior to the expiry of the initial term or any renewal term. We will automatically charge your nominated account using the payment method on file for each renewal term. We do not provide refunds to users who cancel part way through the initial term or any renewal term of a subscription (subject to our returns/refunds policy below). You can manage and make changes to your subscription by logging into your account.
+* **Term of Subscription and Renewal:**  Home subscriptions are provided on an auto-renewing basis to ensure continued access to and use of the relevant resources. Home subscriptions have a one (1), six (6) or 12 month minimum initial term that automatically renews for consecutive periods of the same length (each a renewal term) unless notice of cancellation is provided prior to the expiry of the initial term or any renewal term. We will automatically charge your nominated account using the payment method on file for each renewal term. We do not provide refunds to users who cancel part way through the initial term or any renewal term of a subscription (subject to our returns/refunds policy below). You can manage and make changes to your subscription by logging into your account.
 * **Pricing:**  Fees and charges for your home subscription are detailed at the point of purchase. For each renewal term your payment details will be automatically charged the then current fees for the licence type you have selected, continuing on a recurring basis until you cancel your subscription. Promotional pricing, discounts and free trials only apply for the period specified and will commence on the purchase date unless otherwise agreed. At the end of the promotional period, your fees will revert to the then current fees for the licence type you have selected. All taxes are detailed in the tax invoice provided to the customer.
 * **Delivery of products and services:**  Access to web-delivered services is provided immediately upon processing of payment.
 * **Product access and use:**  Users are responsible for their own costs associated with accessing the product, e.g. internet usage charges, data costs and computer / smartphone equipment costs. It is the responsibility of the user to ensure their device and internet access is sufficient to access the relevant product.
@@ -331,37 +331,37 @@ Better ways to learn
 All rights reserved.
 
 * Who We Help
-    * [Districts](http://www.3plearning.com/for-districts/)
-    * [Schools](http://www.3plearning.com/for-schools/)
-    * [Home Users](http://www.3plearning.com/for-home/)
+    * [Districts](https://www.3plearning.com/for-districts/)
+    * [Schools](https://www.3plearning.com/for-schools/)
+    * [Home Users](https://www.3plearning.com/for-home/)
 * Subjects
-    * [Mathematics](http://www.3plearning.com/mathematics/)
-    * [Literacy](http://www.3plearning.com/literacy/)
+    * [Mathematics](https://www.3plearning.com/mathematics/)
+    * [Literacy](https://www.3plearning.com/literacy/)
 * Programs
-    * [Mathletics](http://www.3plearning.com/software/mathletics/)
-    * [Mathseeds](http://www.3plearning.com/software/mathseeds/)
-    * [Reading Eggs](http://www.3plearning.com/software/reading-eggs/)
-* [Company](http://www.3plearning.com/about-3p/)
-    * [About 3P](http://www.3plearning.com/about-3p/)
+    * [Mathletics](https://www.3plearning.com/software/mathletics/)
+    * [Mathseeds](https://www.3plearning.com/software/mathseeds/)
+    * [Reading Eggs](https://www.3plearning.com/software/reading-eggs/)
+* [Company](https://www.3plearning.com/about-3p/)
+    * [About 3P](https://www.3plearning.com/about-3p/)
     * [World Maths Day](https://www.3plearning.com/world-maths-day/)
-    * [Careers](http://www.3plearning.com/careers/)
-    * [Awards](http://www.3plearning.com/awards/)
-    * [Case Studies](http://www.3plearning.com/case-studies/)
+    * [Careers](https://www.3plearning.com/careers/)
+    * [Awards](https://www.3plearning.com/awards/)
+    * [Case Studies](https://www.3plearning.com/case-studies/)
     * [Investors](https://www.3plearning.com/investors/)
-    * [Contact](http://www.3plearning.com/contact/)
+    * [Contact](https://www.3plearning.com/contact/)
     * [Partner Portal](https://www.3plearning.com/partners/)
     * [Modern Slavery Statement](https://pppmarketingcdn.blob.core.windows.net/uploads/assets/3P/2023-Modern-Slavery.pdf)
 * Support
     * [Product Support](http://support.3plearning.com/)
     * [Technical Support](https://support.3plearning.com/tech/)
     * [Webinars](https://support.3plearning.com/webinar-schedules/)
-    * [Classroom Resources](http://www.3plearning.com/resources/)
-    * [Curriculum Alignment](http://www.3plearning.com/curriculum/)
+    * [Classroom Resources](https://www.3plearning.com/resources/)
+    * [Curriculum Alignment](https://www.3plearning.com/curriculum/)
     * [Blog](https://www.3plearning.com/blog/)
-    * [FAQs](http://www.3plearning.com/faq/)
+    * [FAQs](https://www.3plearning.com/faq/)
 
-* [Terms & Conditions](http://www.3plearning.com/terms/)
-* [Privacy Policy](http://www.3plearning.com/privacy/)
+* [Terms & Conditions](https://www.3plearning.com/terms/)
+* [Privacy Policy](https://www.3plearning.com/privacy/)
 
 Follow us
 
@@ -375,39 +375,39 @@ Follow us
 
 [](#audio__overlay)
 
-* [Free Trial](http://www.3plearning.com/free-trial/)
-* [Purchase](http://www.3plearning.com/quote/)
+* [Free Trial](https://www.3plearning.com/free-trial/)
+* [Purchase](https://www.3plearning.com/quote/)
 * Sign in
     * [Mathletics](https://www.3plearning.com/software/mathletics/sign-in/)
     * [Mathseeds](https://www.3plearning.com/software/mathseeds/sign-in/)
     * [Reading Eggs](https://www.3plearning.com/software/reading-eggs/sign-in/)
-    * [Wordflyers](http://www.3plearning.com/software/wordflyers/sign-in/)
-    * [Brightpath: Sign In](http://www.3plearning.com/software/brightpath/sign-in/)
+    * [Wordflyers](https://www.3plearning.com/software/wordflyers/sign-in/)
+    * [Brightpath: Sign In](https://www.3plearning.com/software/brightpath/sign-in/)
 
 * For Educators
-    * [Districts](http://www.3plearning.com/for-districts/)
-    * [Schools](http://www.3plearning.com/for-schools/)
-    * [Home Users](http://www.3plearning.com/for-home/)
+    * [Districts](https://www.3plearning.com/for-districts/)
+    * [Schools](https://www.3plearning.com/for-schools/)
+    * [Home Users](https://www.3plearning.com/for-home/)
 * Subjects
-    * [Mathematics](http://www.3plearning.com/mathematics/)
-    * [Literacy](http://www.3plearning.com/literacy/)
+    * [Mathematics](https://www.3plearning.com/mathematics/)
+    * [Literacy](https://www.3plearning.com/literacy/)
 * [Packages](https://www.3plearning.com/packages/better-ways-to-learn-maths/)
-* [Solutions](http://www.3plearning.com/software/)
-    * [Mathletics](http://www.3plearning.com/software/mathletics/)
-    * [Mathseeds](http://www.3plearning.com/software/mathseeds/)
-    * [Reading Eggs](http://www.3plearning.com/software/reading-eggs/)
-    * [Brightpath Progress](http://www.3plearning.com/software/brightpath/)
+* [Solutions](https://www.3plearning.com/software/)
+    * [Mathletics](https://www.3plearning.com/software/mathletics/)
+    * [Mathseeds](https://www.3plearning.com/software/mathseeds/)
+    * [Reading Eggs](https://www.3plearning.com/software/reading-eggs/)
+    * [Brightpath Progress](https://www.3plearning.com/software/brightpath/)
 * Company
-    * [About 3P](http://www.3plearning.com/about-3p/)
+    * [About 3P](https://www.3plearning.com/about-3p/)
     * [World Maths Day](https://www.3plearning.com/world-maths-day/)
-    * [Careers](http://www.3plearning.com/careers/)
-    * [Awards](http://www.3plearning.com/awards/)
+    * [Careers](https://www.3plearning.com/careers/)
+    * [Awards](https://www.3plearning.com/awards/)
     * [Investors](https://www.3plearning.com/investors/)
 * Support
     * [Product Support](https://support.3plearning.com/)
     * [Technical Support](https://support.3plearning.com/tech)
     * [Webinars](https://support.3plearning.com/webinar-schedules/)
-    * [Classroom Resources](http://www.3plearning.com/resources/)
-    * [Curriculum Alignment](http://www.3plearning.com/curriculum/)
+    * [Classroom Resources](https://www.3plearning.com/resources/)
+    * [Curriculum Alignment](https://www.3plearning.com/curriculum/)
     * [Blog](https://www.3plearning.com/blog/)
-    * [FAQs](http://www.3plearning.com/faq/)
+    * [FAQs](https://www.3plearning.com/faq/)
