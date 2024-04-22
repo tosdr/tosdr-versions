@@ -221,7 +221,7 @@ At our discretion, we may make changes to this Policy and note the date of the l
 
 ### Contact Us
 
-If you have any questions about this Policy, you can contact us at [privacy@1Password.com](mailto:privacy@1password.com) or write us by mail at:
+If you have any questions about this Policy, you can contact us at [privacy@1Password.com](mailto:privacy@1Password.com) or write us by mail at:
 
 Privacy Office
 
