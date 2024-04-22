@@ -18,7 +18,7 @@ Sign In
 * [Video Cloud](https://signin.brightcove.com/)
 * [Zencoder](https://app.zencoder.com/login)
 
-[+1 888 882 1880](tel:+1%20888%20882%201880)
+[+1 888 882 1880](tel:+1 888 882 1880)
 
 [**Contact us**](#)
 
