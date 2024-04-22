@@ -1,0 +1,4 @@
+|     |
+| --- |
+| **Our Reprint Policy** |
+| Original material may _not_ be reprinted without written (or email) permission from the antiwar.com.  <br>  <br>It is prohibited to reprint material originated by Antiwar.com staff, without prior authorization from the publisher.  <br>  <br>This includes but is not limited to posting boards, newsgroups, email newsletters, or any other form of electronic or print media. Besides, it's so much easier to just post a link....  <br>  <br>Inquiries about reprint rights should be addressed to [reprints@antiwar.com](mailto:reprints@antiwar.com).<br><br>Thanks!<br><br>The Antiwar.com Team |
