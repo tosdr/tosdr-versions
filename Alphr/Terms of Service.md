@@ -170,38 +170,6 @@ Most Popular
 
 ![](/wp-content/themes/alphr/images/profile.svg)
 
-Posted by Afam Onyimadu on May 15, 2024
-
-How to Reply to All Social Media Comments With AI](https://www.alphr.com/reply-to-all-social-media-comments-with-ai/)
-
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='0'%20height='0'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-
-![](/wp-content/themes/alphr/images/profile.svg)
-
-Posted by Dave Johnson on May 11, 2024
-
-How to Put Full Picture on WhatsApp Profile](https://www.alphr.com/put-full-picture-on-whatsapp-profile/)
-
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='0'%20height='0'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-
-![](/wp-content/themes/alphr/images/profile.svg)
-
-Posted by Mehvish Mushtaq on May 6, 2024
-
-What Happens When You Remove Someone From Instagram or WhatsApp Group Chat](https://www.alphr.com/what-happens-remove-someone-from-instagram-or-whatsapp-group/)
-
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='0'%20height='0'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-
-![](/wp-content/themes/alphr/images/profile.svg)
-
-Posted by Afam Onyimadu on May 1, 2024
-
-How to Watch the UEFA Champions League Semi-Finals](https://www.alphr.com/how-to-watch-the-uefa-champions-league-semi-finals/)
-
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='0'%20height='0'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-
-![](/wp-content/themes/alphr/images/profile.svg)
-
 Posted by Will on August 2, 2021
 
 Managing the Hosts file in](https://www.alphr.com/hosts-file-windows-10/)
@@ -230,37 +198,21 @@ Managing the Hosts file in](https://www.alphr.com/hosts-file-windows-10/)
 
 ###### Latest
 
-![replay all social media comments with AI](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='0'%20height='0'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+![WordPress How to Change Theme Name](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='0'%20height='0'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
-![replay all social media comments with AI](https://i0.wp.com/www.alphr.com/wp-content/uploads/2024/05/How-to-Reply-All-Social-Media-Comments-With-AI.jpg?fit=100%2C43&ssl=1)
+![WordPress How to Change Theme Name](https://i0.wp.com/www.alphr.com/wp-content/uploads/2024/03/WordPress-How-to-Change-Theme-Name.jpg?fit=100%2C43&ssl=1)
 
-[How to Reply to All Social Media Comments With AI](https://www.alphr.com/reply-to-all-social-media-comments-with-ai/)
+[How to Change a WordPress Theme Name](https://www.alphr.com/wordpress-how-to-change-theme-name/)
 
-Afam Onyimadu May 15, 2024
+Lee Stanton March 18, 2024
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='0'%20height='0'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+![How to get the Headless Head in Roblox](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='0'%20height='0'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
-![](https://i0.wp.com/www.alphr.com/wp-content/uploads/2024/05/How-to-Put-Full-Picture-on-WhatsApp-Profile.jpg?fit=100%2C43&ssl=1)
+![How to get the Headless Head in Roblox](https://i0.wp.com/www.alphr.com/wp-content/uploads/2024/03/Roblox-How-to-Get-Headless-Head.jpg?fit=100%2C43&ssl=1)
 
-[How to Put Full Picture on WhatsApp Profile](https://www.alphr.com/put-full-picture-on-whatsapp-profile/)
+[Roblox: How to Get the Headless Head](https://www.alphr.com/roblox-how-to-get-headless-head/)
 
-Dave Johnson May 11, 2024
-
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='0'%20height='0'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-
-![](https://i0.wp.com/www.alphr.com/wp-content/uploads/2024/05/What-Happens-When-You-Remove-Someone-from-Instagram-or-WhatsApp-Group-Chat.jpg?fit=100%2C43&ssl=1)
-
-[What Happens When You Remove Someone From Instagram or WhatsApp Group Chat](https://www.alphr.com/what-happens-remove-someone-from-instagram-or-whatsapp-group/)
-
-Mehvish Mushtaq May 6, 2024
-
-![How To Watch The UEFA Champions League Semi-Finals](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='0'%20height='0'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-
-![How To Watch The UEFA Champions League Semi-Finals](https://i0.wp.com/www.alphr.com/wp-content/uploads/2024/04/How-to-Watch-the-Uefa-Champions-League-Semi-Finals_1.jpg?fit=100%2C43&ssl=1)
-
-[How to Watch the UEFA Champions League Semi-Finals](https://www.alphr.com/how-to-watch-the-uefa-champions-league-semi-finals/)
-
-Afam Onyimadu May 1, 2024
+Aaron Donald March 18, 2024
 
 © Guiding Tech Media 2024
 
