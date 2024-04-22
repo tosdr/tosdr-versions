@@ -20,29 +20,7 @@ Loading...
 
 Loading...
 
-Upcoming Courses
-
-[View All Courses »](https://www.atlasobscura.com/online-courses)
-
-   [![](https://img.atlasobscura.com/oteCwywQUV_z7ByuIyJNpVBM8xr7Fl_GCkrW3rCKXIM/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy8yZWZl/Y2ZhYS1mZTQ2LTQ3/YmEtOWYyZi1jMDQz/YmI2ODY0NGUwMmYz/ZTU5ZjMzZWZhNjE3/YTFfYW5pdGEtamFu/a292aWMtbTVvRnp6/cmNLd2MtdW5zcGxh/c2guanBn.jpg)
-
-Historical Nonfiction: Research-Based Writing With Hadley Meares](https://www.atlasobscura.com/experiences/writing-history-online-course)
-
-   [![](https://img.atlasobscura.com/XM4d3YtkvXACMwqzjq3fYrXoxBzckJRJtFe7Ccmi8AY/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy9lNDUz/YjQ5Yi1kZDdmLTRk/YzItOGUwYy00ZDc1/YmQ2MzNhNDZlZjI4/M2U5OWU0NTAyM2E0/ZDhfRFNDMDI2MDEu/SlBH.jpg)
-
-All the Small Things: Crafting a Miniature Abandoned Room With Amanda Kelly](https://www.atlasobscura.com/experiences/miniatures-course)
-
-   [![](https://img.atlasobscura.com/QbdXE5dHMxWDTnrtSiHdTcYodigz2ZfdssasRYwoTfs/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy9kZDE5/MjNkYi05N2M3LTQ2/MDQtODk1MC0zYTc2/N2Q4ZjYwZTc5MTQ3/MzQ2ZDQ0NGVlZTYx/Y2Zfd2Fsa2luZy10/b3VyLTEucG5n.png)
-
-Designing Walking Tours With Hadley Meares](https://www.atlasobscura.com/experiences/walking-tour-course)
-
-   [![](https://img.atlasobscura.com/7eWYKbbf_dY35iLTIWrqmzVIxwTpfeumw5U398yBVug/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy83Yjgx/YzNjMS02YzViLTQz/NzgtYjgwYy00NGM5/NjhhMzI0MGI4NGNj/YTZkNWI5MmNhNTY2/MGJfUFhMXzIwMjEx/MDA4XzE3NDEzMzcy/OC5NUC5qcGc.jpg)
-
-Indigenous Dishes of North America With Mariah Gladstone](https://www.atlasobscura.com/experiences/indigenous-foods-online-course)
-
-   [![](https://img.atlasobscura.com/u6gIEY14ppFEycuZEs3pq5sTxg4MeLav9E03Jmfz7ho/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy9hMTll/ZDFkYS1jZGVmLTQ0/NWEtYWUyZS02NzBh/OTQ4MWY4MTEwZDBk/NzgxNDE3YzMzYjM3/ZjJfSU1HXzIwMTkw/MjExXzIzMzQ1MV80/MjIuanBn.jpg)
-
-Shared Soul: A Culinary Journey from West & Central Africa to the American South With Michael Twitty](https://www.atlasobscura.com/experiences/culinary-history-michael-twitty-online-course)
+Loading...
 
 Loading...
 
@@ -83,7 +61,7 @@ Cookie Settings
 
 This Cookie Policy covers use of our websites under atlasobscura.com and other related sites (the "Website”).
 
-By clicking to accept cookies, you are consenting to our use of cookies in accordance with this Cookie Policy. Cookies used for functionality are considered necessary, or essential, and are collected from all users based on legitimate interest and for a business purpose, such as bot detection, security, and user accounts, and similar uses. If you do not wish to accept non-essential cookies from our website, you can follow the link in our cookie footer and/or pop-up, and you will be directed to a page where you can enable/disable certain cookies, and you may disable cookies in your browser (consult this resources for more information: [allaboutcookies.org/manage-cookies](https://www.allaboutcookies.org/manage-cookies/)). Although you are not required to accept cookies when you visit the Website, you may be unable to use all of the functionality of the website if you reject certain cookies.
+By clicking to accept cookies, you are consenting to our use of cookies in accordance with this Cookie Policy. If you do not wish to accept cookies from our website, you can follow the link in our cookie footer and/or pop-up, and you will be directed to a page where you can enable/disable certain cookies. Although you are not required to accept cookies when you visit the Website, you may be unable to use all of the functionality of the website if you reject certain cookies.
 
 We use cookies and similar tracking technologies to track the activity on our Website. The cookies we use or allow are an accepted part of ecommerce and important to your use of the Website. The information collected by cookies does not personally identify you; it includes general information about your computer settings, your connection to the Internet (e.g. operating system and platform, IP address, your browsing patterns, and timings of browsing on the website) and your location. Details about the types of cookies that Atlas Obscura utilizes can be found below.
 
@@ -236,6 +214,7 @@ Get the app
 * [Invest In Us](https://invest.atlasobscura.com/)
 * [Advertise With Us](https://studio-obscura.atlasobscura.com/)
 * [Advertising Guidelines](https://www.atlasobscura.com/advertising-acceptability-guidelines)
+* [Press](https://press.atlasobscura.com/)
 * [Privacy Policy](https://www.atlasobscura.com/privacy)
 * [Cookie Policy](https://www.atlasobscura.com/cookies)
 * [Terms of Use](https://www.atlasobscura.com/terms)
