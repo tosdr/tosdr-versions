@@ -411,7 +411,6 @@ Deutsch Français English
 * [Impact](https://www.7mind.de/impact)
 * [Stellenangebote](https://7mind-gmbh.jobs.personio.de/?language=de)
 * [Presse](https://www.7mind.de/presse)
-* [Einfach](https://www.7mind.de/leicht)
 
 ### Hilfe
 
