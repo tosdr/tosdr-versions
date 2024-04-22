@@ -1,0 +1,1 @@
+[Redirecting from `/about/desktop-privacy-notice/` to `https://www.audacityteam.org/desktop-privacy-notice/`](https://www.audacityteam.org/desktop-privacy-notice/)
