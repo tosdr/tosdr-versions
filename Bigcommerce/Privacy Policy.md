@@ -114,7 +114,7 @@ BigCommerce wants to help you better understand how we collect, use, protect, an
 
 This Privacy Policy is incorporated into, and forms an integral part of, the BigCommerce Terms of Service. Capitalized terms have the meanings ascribed them in the Definitions section or our [Terms of Service](https://www.bigcommerce.com/terms/). Please note that our services may vary by region
 
-We encourage you to read this Privacy Policy carefully and take the time to get to know our practices. If you have questions about this Privacy Policy or our privacy practices, please contact us at [privacy@BigCommerce.com](mailto:privacy@bigcommerce.com).
+We encourage you to read this Privacy Policy carefully and take the time to get to know our practices. If you have questions about this Privacy Policy or our privacy practices, please contact us at [privacy@BigCommerce.com](mailto:privacy@BigCommerce.com).
 
 ﻿﻿[](mailto:privacy@bigcommerce.com)﻿
 
