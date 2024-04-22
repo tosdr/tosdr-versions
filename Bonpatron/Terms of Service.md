@@ -1,4 +1,4 @@
-[![BonPatron](https://pro.bonpatron.com/Resources/images/icone_rvb_web3.png)BonPatron](https://bonpatron.com/)
+[![BonPatron](https://pro.bonpatron.com/Resources/mea/images/icone_rvb_web3.png)BonPatron](https://bonpatron.com/)
 
 * [Editor](https://bonpatron.com/)
 * [Vocabulary](https://bonpatron.com/xpress/)
@@ -23,7 +23,7 @@ confirm the password:
 
 type the following letters in the box below:
 
-itwr
+eeeh
 
 Creating a new account is easy: fill in the adjacent form, read the _Terms & Conditions of Usage_, and click on the "create" button.  
   
@@ -97,7 +97,3 @@ Terry Nadasdi & Stéfan Sinclair
 [BonPatron Pro](https://pro.bonpatron.com/)
 
 © 2001-2024 Nadaclair Language Technologies Inc.
-
-This site uses cookies to provide necessary website functionality, improve your experience and analyze our traffic. By using our website, you agree to our [Privacy Policy](https://bonpatron.com/privacy/) and our cookies usage.
-
- OK
