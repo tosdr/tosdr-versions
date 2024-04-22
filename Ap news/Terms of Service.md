@@ -24,7 +24,7 @@ Menu
     
 * [Oddities](https://apnews.com/oddities)
     
-* [Be Well](https://apnews.com/hub/be-well)
+* [Health](https://apnews.com/health)
     
 * [Newsletters](https://apnews.com/newsletters)
     
@@ -33,8 +33,6 @@ Menu
 * [Photography](https://apnews.com/photography)
     
 * [Climate](https://apnews.com/climate-and-environment)
-    
-* [Health](https://apnews.com/health)
     
 * [Personal Finance](https://apnews.com/hub/personal-finance)
     
@@ -51,8 +49,6 @@ Menu
 * [AP Buyline Shopping](https://apnews.com/buyline-shopping/)
     
 * [Press Releases](https://apnews.com/press-releases)
-    
-* [My Account](https://apnews.com/myaccount)
     
 * ...
     
@@ -118,7 +114,7 @@ Menu
         
     * [Oddities](https://apnews.com/oddities)
         
-    * [Be Well](https://apnews.com/hub/be-well)
+    * [Health](https://apnews.com/health)
         
     * [Newsletters](https://apnews.com/newsletters)
         
@@ -127,8 +123,6 @@ Menu
     * [Photography](https://apnews.com/photography)
         
     * [Climate](https://apnews.com/climate-and-environment)
-        
-    * [Health](https://apnews.com/health)
         
     * [Personal Finance](https://apnews.com/hub/personal-finance)
         
@@ -148,8 +142,6 @@ Menu
     * [AP Buyline Shopping](https://apnews.com/buyline-shopping/)
         
     * [Press Releases](https://apnews.com/press-releases)
-        
-    * [My Account](https://apnews.com/myaccount)
         
     
 
@@ -219,7 +211,7 @@ Show Search
     
 * [Oddities](https://apnews.com/oddities)
     
-* [Be Well](https://apnews.com/hub/be-well)
+* [Health](https://apnews.com/health)
     
 * [Newsletters](https://apnews.com/newsletters)
     
@@ -228,8 +220,6 @@ Show Search
 * [Photography](https://apnews.com/photography)
     
 * [Climate](https://apnews.com/climate-and-environment)
-    
-* [Health](https://apnews.com/health)
     
 * [Personal Finance](https://apnews.com/hub/personal-finance)
     
@@ -250,13 +240,12 @@ Show Search
     
 * [Press Releases](https://apnews.com/press-releases)
     
-* [My Account](https://apnews.com/myaccount)
-    
 
 *   ![](https://dims.apnews.com/dims4/default/94c503b/2147483647/strip/true/crop/640x236+0+0/resize/320x118!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc3%2F4c%2F65482a7b452db66043542c093eaf%2Fpromo-2x.png)
     
     The Associated Press is an independent global news organization dedicated to factual reporting. Founded in 1846, AP today remains the most trusted source of fast, accurate, unbiased news in all formats and the essential provider of the technology and services vital to the news business. More than half the world’s population sees AP journalism every day.
     
+
 * * [twitter](https://twitter.com/AP)
     * [instagram](https://www.instagram.com/apnews/)
     * [facebook](https://www.facebook.com/APNews)
@@ -291,15 +280,170 @@ Show Search
 * Copyright 2024 The Associated Press. All Rights Reserved.
     
 
+ [![AP Logo](https://assets.apnews.com/fa/ba/9258a7114f5ba5c7202aaa1bdd66/aplogo.svg)](https://apnews.com/)
+
+Menu
+
+[Trump hush money trial](https://apnews.com/article/trump-trial-hush-money-opening-stormy-daniels-6beee9b99114898ee0dd60185d43bac5)
+
+[Columbia cancels classes](https://apnews.com/article/columbia-yale-israel-palestinians-protests-56c3d9d0a278c15ed8e4132a75ea9599)
+
+[Supreme Court](https://apnews.com/article/homelessness-supreme-court-oregon-fines-camping-ban-334d90536535ebb07ccb6d2dc76009c9)
+
+[Earth Day](https://apnews.com/article/biden-earth-day-solar-grants-epa-climate-5bece7e419e9141241287575abb0fefc)
+
 [Israel-Hamas war](https://apnews.com/hub/israel-hamas-war)
 
-[Belmont Stakes](https://apnews.com/article/belmont-at-saratoga-1cdfe648da368af428dfc28afbc1a0d6)
+Menu
 
-[Movie Review: ‘Hit Man’](https://apnews.com/article/hit-man-movie-review-69cc6966e203f932134d808fd0f3b297)
+ [![AP Logo](https://assets.apnews.com/fa/ba/9258a7114f5ba5c7202aaa1bdd66/aplogo.svg)](https://apnews.com/)
 
-[Caitlin Clark](https://apnews.com/article/clark-olympics-usa-basketball-267616be33b9bc6b4aed0ad5d89e8167)
+Menu
 
-[Shark attack](https://apnews.com/article/florida-gulf-coast-beaches-shark-attacks-c01a75604a43b1608748c822c90e8fa6)
+* [World](https://apnews.com/world-news)
+    
+* [U.S.](https://apnews.com/us-news)
+    
+* [Election 2024](https://apnews.com/hub/election-2024)
+    
+* [Politics](https://apnews.com/politics)
+    
+* [Sports](https://apnews.com/sports)
+    
+* [Entertainment](https://apnews.com/entertainment)
+    
+* [Business](https://apnews.com/business)
+    
+* [Science](https://apnews.com/science)
+    
+* [Fact Check](https://apnews.com/ap-fact-check)
+    
+* [Oddities](https://apnews.com/oddities)
+    
+* [Health](https://apnews.com/health)
+    
+* [Newsletters](https://apnews.com/newsletters)
+    
+* [Video](https://apnews.com/video)
+    
+* [Photography](https://apnews.com/photography)
+    
+* [Climate](https://apnews.com/climate-and-environment)
+    
+* [Personal Finance](https://apnews.com/hub/personal-finance)
+    
+* [AP Investigations](https://apnews.com/hub/ap-investigations/)
+    
+* [Tech](https://apnews.com/technology)
+    
+* [Lifestyle](https://apnews.com/lifestyle)
+    
+* [Religion](https://apnews.com/religion)
+    
+* [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
+    
+* [AP Buyline Shopping](https://apnews.com/buyline-shopping/)
+    
+* [Press Releases](https://apnews.com/press-releases)
+    
+* ...
+    
+    * [World](https://apnews.com/world-news)
+        
+        * [Israel-Hamas War](https://apnews.com/hub/israel-hamas-war)
+        * [Russia-Ukraine War](https://apnews.com/hub/russia-ukraine)
+        * [Global elections](https://apnews.com/hub/global-elections/)
+        * [Asia Pacific](https://apnews.com/hub/asia-pacific)
+        * [Latin America](https://apnews.com/hub/latin-america)
+        * [Europe](https://apnews.com/hub/europe)
+        * [Africa](https://apnews.com/hub/africa)
+        * [Middle East](https://apnews.com/hub/middle-east)
+        * [China](https://apnews.com/hub/china)
+        * [Australia](https://apnews.com/hub/australia)
+        
+    * [U.S.](https://apnews.com/us-news)
+        
+    * [Election 2024](https://apnews.com/hub/election-2024)
+        
+        * [Election Results](https://apnews.com/projects/election-results-2024/)
+        * [Delegate Tracker](https://apnews.com/hub/ap-election-2024-delegate-tracker)
+        * [AP & Elections](https://apnews.com/ap-elections-explained)
+        * [Global elections](https://apnews.com/hub/global-elections/)
+        
+    * [Politics](https://apnews.com/politics)
+        
+        * [Joe Biden](https://apnews.com/hub/joe-biden)
+        * [Election 2024](https://apnews.com/hub/election-2024)
+        * [Congress](https://apnews.com/hub/congress)
+        
+    * [Sports](https://apnews.com/sports)
+        
+        * [MLB](https://apnews.com/hub/mlb)
+        * [NBA](https://apnews.com/hub/nba)
+        * [NHL](https://apnews.com/hub/nhl)
+        * [NFL](https://apnews.com/hub/nfl)
+        * [Soccer](https://apnews.com/hub/soccer)
+        * [Golf](https://apnews.com/hub/golf)
+        * [Tennis](https://apnews.com/hub/tennis)
+        * [Auto Racing](https://apnews.com/hub/auto-racing)
+        * [2024 Paris Olympic Games](https://apnews.com/hub/2024-paris-olympic-games)
+        
+    * [Entertainment](https://apnews.com/entertainment)
+        
+        * [Movie reviews](https://apnews.com/hub/film-reviews)
+        * [Book reviews](https://apnews.com/hub/book-reviews)
+        * [Celebrity](https://apnews.com/hub/celebrity)
+        * [Television](https://apnews.com/hub/television)
+        * [Music](https://apnews.com/hub/music)
+        
+    * [Business](https://apnews.com/business)
+        
+        * [Inflation](https://apnews.com/hub/inflation)
+        * [Personal finance](https://apnews.com/hub/personal-finance)
+        * [Financial Markets](https://apnews.com/hub/financial-markets)
+        * [Business Highlights](https://apnews.com/hub/business-highlights)
+        * [Financial wellness](https://apnews.com/hub/financial-wellness)
+        
+    * [Science](https://apnews.com/science)
+        
+    * [Fact Check](https://apnews.com/ap-fact-check)
+        
+    * [Oddities](https://apnews.com/oddities)
+        
+    * [Health](https://apnews.com/health)
+        
+    * [Newsletters](https://apnews.com/newsletters)
+        
+    * [Video](https://apnews.com/video)
+        
+    * [Photography](https://apnews.com/photography)
+        
+    * [Climate](https://apnews.com/climate-and-environment)
+        
+    * [Personal Finance](https://apnews.com/hub/personal-finance)
+        
+    * [AP Investigations](https://apnews.com/hub/ap-investigations/)
+        
+    * [Tech](https://apnews.com/technology)
+        
+        * [Artificial Intelligence](https://apnews.com/hub/artificial-intelligence)
+        * [Social Media](https://apnews.com/hub/social-media)
+        
+    * [Lifestyle](https://apnews.com/lifestyle)
+        
+    * [Religion](https://apnews.com/religion)
+        
+    * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
+        
+    * [AP Buyline Shopping](https://apnews.com/buyline-shopping/)
+        
+    * [Press Releases](https://apnews.com/press-releases)
+        
+    
+
+ Search Query Submit Search
+
+Show Search
 
 The Associated Press
 ====================
