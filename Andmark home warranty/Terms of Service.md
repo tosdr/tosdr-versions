@@ -1,7 +1,7 @@
 You need to enable JavaScript to run this app.
 ==============================================
 
-[Homeowner](https://www.landmarkhw.com/homeowner-warranty)[Real Estate](https://www.landmarkhw.com/home-buyers-warranty)[Contractors](https://www.landmarkhw.com/contractors)866-306-2999[Request Repair](https://www.landmarkhw.com/claim)
+[Homeowner](https://www.landmarkhw.com/homeowner-warranty)[Real Estate](https://www.landmarkhw.com/home-buyers-warranty)[Contractors](https://www.landmarkhw.com/contractors)[Resources](https://www.landmarkhw.com/resources)866-306-2999[Request Repair](https://www.landmarkhw.com/claim)
 
 [Login](https://www.landmarkhw.com/login)
 
@@ -10,6 +10,8 @@ Homeowner
 Real Estate
 
 Contractor
+
+Tools
 
 Login
 
