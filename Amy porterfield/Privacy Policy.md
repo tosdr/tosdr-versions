@@ -12,9 +12,9 @@
 
 Listen To My Latest Podcast Episode:
 
-_#686: From Anonymous to A-List: How Susie Moore Built Her Business From The Ground Up By Leveraging Media_
+_#672: The One Word That Led Me to Have My Best Year in Business Yet_
 
-Listen To My Latest Podcast Episode:_#686: From Anonymous to A-List: How Susie Moore Built Her Business From The Ground Up By Leveraging Media_
+Listen To My Latest Podcast Episode:_#672: The One Word That Led Me to Have My Best Year in Business Yet_
 
 [Amy Porterfield](https://www.amyporterfield.com/)
 
@@ -197,34 +197,10 @@ Always Enabled
 
 Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information.
 
-Functional
+Non-necessary
 
- Functional
+ Non-necessary
 
-Functional cookies help to perform certain functionalities like sharing the content of the website on social media platforms, collect feedbacks, and other third-party features.
-
-Performance
-
- Performance
-
-Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors.
-
-Analytics
-
- Analytics
-
-Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics the number of visitors, bounce rate, traffic source, etc.
-
-Advertisement
-
- Advertisement
-
-Advertisement cookies are used to provide visitors with relevant ads and marketing campaigns. These cookies track visitors across websites and collect information to provide customized ads.
-
-Others
-
- Others
-
-Other uncategorized cookies are those that are being analyzed and have not been classified into a category as yet.
+Any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website.
 
 SAVE & ACCEPT
