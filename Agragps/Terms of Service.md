@@ -573,7 +573,7 @@ Email: legal@agra-gps.com
 * AB T7Z 1X9
 * Canada
 
-* Phone: [+1 (825) 247-2477](tel:+1%20(825)%20247-2477)
+* Phone: [+1 (825) 247-2477](tel:+1 (825) 247-2477)
 * Email: [info@agragps.com](mailto:info@agragps.com)
 * Web: https://www.agragps.com/
 
