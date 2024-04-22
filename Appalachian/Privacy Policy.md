@@ -166,7 +166,7 @@ Appalachian Cares is a place to find resources and support available for our stu
 
 [![Facebook logo](/_images/_theme/facebook-logo.gif)](https://www.facebook.com/appalachianstateuniversity) [![X logo](/_images/_theme/x-logo-white.png)](https://twitter.com/appstate) [![Youtube logo](/_images/_theme/youtube-logo.gif)](https://www.youtube.com/user/AppalachianStateUniv) [![Insatgram logo](/_images/_theme/instagram.png)](https://instagram.com/appstate/)
 
-Connect with Appalachian's social media accounts from university programs, departments and administrative units.
+Connect with Appalachian's social media accounts from university programs, departments and administrative units..
 
 ### Appalachian State University
 
