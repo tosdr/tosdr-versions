@@ -1,0 +1,215 @@
+**Cargills Bank Limited Privacy Policy**
+
+**Version: 1.1**
+
+Last updated: 18 October 2021
+
+1. Objective
+
+This Privacy Policy describes the policies and procedures of Cargills Bank on the collection, use and disclosure of information and customers’ privacy rights.
+
+We use Customer Personal Data to provide and improve the Service. By using the Service, Customer agrees on collection and use of information in accordance with this Privacy Policy.
+
+* Applicability
+
+While serving the Customer, Cargills Bank Limited may be privy to information relating to the Customer, including information of a confidential nature.
+
+This policy applies to all whose private and confidential information is furnished to Cargills Bank Limited, while obtaining Services provided.
+
+* Our Commitment
+
+Cargills Bank is strongly committed to protect the privacy of its Customers and has taken steps to protect the information furnished to it.
+
+* Customers’ Obligation
+
+The Customer shall not disclose to a third party, in any manner whatsoever, any information of a confidential nature relating to the Bank obtained and/or gathered and/or extracted and/or collected in the course of availing the Services.
+
+Failure to comply with this obligation shall permit Cargills Bank to terminate the Services without prejudice to any damages or prior notice to which it may be entitled to by the Customer.
+
+In assurance of security the Customer shall take precautionary measures to safeguard herself/himself from frauds, specifically in dealing with bank account details / credentials including User ID and/or Password, all of which should be of highly confidential nature.
+
+The Customer authorizes Cargills Bank to exchange, share, part with all information related to the  transaction history of the Customer to banks / financial institutions / credit bureaus / agencies and/or any stakeholder participating in any telecommunication or electronic clearing network as may be required by law or customary practice and shall not hold Cargills Bank liable for use or disclosure of this information.
+
+* Bank’s Obligation
+
+Cargills Bank undertakes not to disclose the information provided by the Customer to a third party, unless acting in good faith and that such disclosure is necessitated:
+
+1. by operation of law
+2. to comply with a requirement imposed by the government or a government agency
+
+* to protect and defend Cargills Bank’s rights or property
+
+1. to enforce the [Terms and Conditions](https://www.cargillsbank.com/wp-content/uploads/2019/05/Corporate-Internet-Banking-Trade-TC-E.pdf)
+2. to protect the interests of Cargills Bank’s stakeholders or
+3. in terms of Clause 3.6. below.
+4. Interpretation and Definitions
+    * Interpretation
+
+The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural.
+
+* Definitions
+
+For the purposes of this Privacy Policy:
+
+* **Account** means a unique account created for a Customer to access our Service or parts of our Service.
+* **Cargills Bank** (referred to as either “the bank”, “We”, “Us” or “Our” in this Agreement) refers to Cargills Bank Limited, No. 696, Galle Road, Colombo 03, Sri Lanka.
+* **Cookies**are small files that are placed on a computer, mobile device or any other device by a website, containing the details of browsing history on that website.
+* **Country**refers to: Sri Lanka
+* **Device**means any device that can access the Service such as a computer, a cellphone or a digital tablet.
+* **Data Controller** means a natural or legal person who (either alone or jointly or in common with other persons) determines the purposes for and the manner in which any personal data are to be processed. For the purpose of this Privacy Policy, we are a Data Controller of Customer data.
+* **Data Processor / Service Provider**means any natural or legal person who processes the data on behalf of Cargills Bank. It refers to third-party companies or individuals employed by the bank to facilitate the Service, to provide the Service on behalf of the bank, or to assist the bank in analyzing how the Service is used.
+* **Data Subject** (Customer or User) is any living individual who is the subject of Personal Data. The Customer or User is the individual using our Service as applicable.
+* **Personal Data**is any information that relates to an identified or identifiable individual.
+* **Service**refers to the Cargills Bank Corporate Website ([https://www.cargillsbank.com](https://www.cargillsbank.com/)), Mobile Banking, Internet Banking, Branch Banking and / or any other Services provided by Cargills Bank.
+* **Third-party Social Media Service**refers to any website or social network through which a User can log in or create an account to use the Service.
+* **Usage Data**refers to data collected automatically, either generated by the use of the Service or from the Service infrastructure itself (for example, the duration of a page visit).
+* **Website**refers to an online transaction platform of the Cargills Bank, accessible from [https://www.cargillsbank.com](https://www.cargillsbank.com/)
+* **Affiliates** – include Bank’s subsidiaries, joint venture partners or other companies that the Bank control or that are under the common control of the Bank.
+
+3. Collecting and Using Personal Data
+    * Types of Data Collected
+        * Personal Data
+
+While providing Services, We may ask a Customer to provide Us with certain Personally Identifiable Information (PII) that can be used to contact or identify the Customer. PII may include, but is not limited to:
+
+* Email address
+* First name and last name
+* Phone number
+* Address, State, Province, ZIP/Postal code, City, Country
+* Usage Data
+    * Other Data
+
+While  providing our Services, we may also obtain and/or collect and/or gather inter alia the  information relating to  sex, age, date of birth, place of birth, passport details, citizenship, registration at place of residence and actual address, telephone number (work, mobile), details of documents on education, qualifications, professional training, employment agreements, Non-Disclosure Agreements , information on bonuses and compensation, information on marital status, family members, National Identity Card (or other taxpayer identification) number, office location.
+
+* Usage Data
+
+Usage Data is collected automatically while providing the Service.
+
+Usage Data may include information such as a Customer’s Device’s Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that are visited, the time and date of the visit, the time spent on those pages, unique device identifiers, and other diagnostic data.
+
+When a Customer accesses the Service by or through a mobile device, We may collect certain information automatically, including, but not limited to, the type of mobile device used, the mobile device unique identity (ID), the Internet Protocol (IP) address of the mobile device, the mobile operating system, the type of mobile Internet browser, unique device identifiers and other diagnostic data.
+
+We may also collect information that the web browser sends whenever a Customer visits our Service or accesses the Service by or through a mobile device.
+
+* Location Data
+
+We may use and store information about a Customer’s location if permission is given to do so (“**Location Data**”). We use this data to provide features of our Service, and to improve / customize our Service.
+
+A Customer can enable or disable location services when using our Service at any time by way of their device settings.
+
+* Tracking Technologies and Cookies
+
+We use Cookies and similar tracking technologies to track the activity on Our Service and store certain information. Tracking technologies used are beacons, tags, and scripts to collect and track information and to improve and analyze Our Service.
+
+A Customer can instruct their browser to refuse all Cookies or to indicate when a Cookie is being sent. However, if a Customer does not accept Cookies, he/she may not be able to use some functionalities of our Service.
+
+Cookies can be “Persistent” or “Session” Cookies. Persistent Cookies remain on a personal computer or mobile device when offline, while Session Cookies are deleted as soon as the web browser is closed.
+
+For more information on  Cookies  and a Customer’s choice on Cookies, the Bank’s [Cookies Policy](https://www.cargillsbank.com/cookie-policy/) could be visited.
+
+* Use of Personal Data
+
+Cargills Bank may use Personal Data for the following purposes:
+
+* **To provide and maintain the Service**, inclusive of monitoring the usage of our Service.
+* **To manage a Customer’s Account:**to manage registration as a user of the Service. The Personal Data provided can give access to different functionalities of the Service that are available to a registered user.
+* **For the performance of a contract:**the development, compliance and undertaking of the purchase contract for the products, items or services a Customer has purchased or of any other contract with the Bank through the Service.
+* **To contact a Customer:**To contact a Customer by email, telephone, SMS, or other equivalent forms of electronic communication, such as a mobile application’s push notifications regarding updates or informative communications related to the functionalities, products or contracted services, including the security updates, when necessary or reasonable for their implementation.
+* **To provide the Customer** with news, special offers and general information about other services and events which the Bank  offer that are similar to those that the Customer has already purchased or enquired about unless the Customer has  opted not to receive such information.
+* **To manage Customer requests:**To attend and manage Customer requests.
+    * Disclosure of Personal Data
+
+We may share personal information in the following situations:
+
+* Law enforcement:
+
+Under certain circumstances, the bank may disclose Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency).
+
+* Other legal requirements:
+
+The Bank may disclose Personal Data in order to:
+
+* Comply with a legal obligation
+* Protect and defend the rights or property or interest of the bank
+* Prevent or investigate possible wrongdoing in connection with the Service
+* Protect the personal safety of Customers or the public
+* Protect against legal liability
+    * With Service Providers:
+
+We may share Personal Data with Service Providers to monitor and analyze the use of our Service.
+
+* For Business transfers:
+
+We may share or transfer Personal Data in connection with, or during negotiations of, any merger, sale of bank assets, financing, or acquisition of all or a portion of our business to another entity.
+
+* With Affiliates:
+
+We may share Personal Data with Our affiliates; in which case we will require those affiliates to honor this Privacy Policy.
+
+* With Business partners:
+
+We may share Personal Data with Our business partners to offer Customers certain products, Services or promotions.
+
+* Retention of Personal Data
+
+Cargills Bank will retain Personal Data as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use Personal Data to the extent necessary to comply with our legal and regulatory obligations, resolve disputes, and for enforcement of Bank’s legal agreements and policies.
+
+The bank will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of the  Service, or if the Bank is legally obligated to retain data for longer time periods.
+
+* Transfer of Personal Data
+
+Customer information, including Personal Data, is processed at the bank’s operating offices and in any other place where the parties involved in the processing are located. It means that this information may be transferred to, and maintained on, computers located outside of a Customer’s district, province, country or other governmental jurisdiction where the data protection laws may differ than those from a Customer’s jurisdiction.
+
+A Customer’s consent to this Privacy Policy followed by their submission of such information represents their agreement to that transfer.
+
+The bank will take all steps reasonably necessary to ensure that Customer information is treated securely and in accordance with this Privacy Policy.
+
+* Maintenance of Accurate and Up to Date Information
+
+Cargills Bank strives to maintain up to date information regarding personal and financial details in accordance with best practices. However, if a Customer feels that the information regarding their account is outdated or requires amendments, a written request may be submitted to the nearest Branch of the Bank.
+
+* Links to Other Sites
+
+Our Service may contain links to other sites that are not operated by us. When clicking on a third-party link, a Customer will be directed to that third party’s site. We strongly advise Customers to review the Privacy Policy of every site they visit.
+
+We have no control over the sites referred to above and assume no responsibility for the content, privacy policies or practices of any third-party site or service.
+
+* Security of Personal Data
+
+The security of Personal Data is important to the Bank, but   no method of transmission over the Internet, or method of electronic storage is 100% secure. While the Bank strives to use commercially acceptable means to protect Personal Data, the Bank cannot guarantee its absolute security.
+
+4. Data Protection Rights Under General Data Protection Regulation (GDPR)
+
+Residents of the European Union (EU) and European Economic Area (EEA) have certain data protection rights, covered by GDPR.
+
+We aim to take reasonable steps to allow a Customer to correct, amend, delete, or limit the use of their Personal Data.
+
+Customers who wish to be informed of what Personal Data we hold or want it removed from our systems, may email us at [customersupport@cargillsbank.com](mailto:customersupport@cargillsbank.com).
+
+Please note that we may verify Customer identity before responding to requests. Please note, we may not be able to provide Service without necessary data.
+
+5. Children’s Privacy
+
+Our Services are not intended for use by children under the age of 18 (“Child” or “Children”). We do not knowingly collect personally identifiable information from Children under 18. Customers who become aware that a Child has provided us with Personal Data (other than information shared by the parents / guardians with the Bank for a minor savings product) should contact us. If we become aware that we have collected Personal Data from Children without verification of parental consent, we will take steps to remove that information from our servers.
+
+6. Changes to this Privacy Policy
+
+We may update our Privacy Policy from time to time. Customers are advised to review this Privacy Policy periodically for any change. Changes to this Privacy Policy are effective when such changes are posted on this page.
+
+7. Contact Us
+
+Questions about this Privacy Policy may be directed to;
+
+* Office : No. 696, Galle Road, Colombo 03, Sri Lanka.
+* Telephone : +94 11 7 640 640 (Head Office / Hotline)
+* E-mail : [customersupport@cargillsbank.com](mailto:customersupport@cargillsbank.com)
+
+##### Welcome to Cargills Bank!
+
+Experience the amazing range of services offered by Cargills Bank.
+
+[Open Account](https://digitalonboarding.cargillsbank.com/)
+
+[Call Now](tel:+94%20117%20640%20640)
+
+Send us an e-mail
