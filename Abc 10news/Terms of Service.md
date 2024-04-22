@@ -22,7 +22,7 @@ Search site
 
 [Watch Now](https://www.10news.com/live)
 
-Close ×
+Close x
 
 [Live](https://www.10news.com/live) [Watch](https://www.10news.com/videos)
 
