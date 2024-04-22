@@ -443,7 +443,7 @@ If you are a business, these terms of use, their subject matter and their format
 
 Try Beacon for free today.
 
-[Try for free](https://app.beaconcrm.org/signup)![](https://assets-global.website-files.com/6369f7fe243b240624080be7/662a8392d899f5a17d5c6f9f_BGE_PendingCertification_white.png)
+[Try for free](https://app.beaconcrm.org/signup)![](https://assets-global.website-files.com/6369f7fe243b240624080be7/661e912882cfc52062b758fb_CIOF%20logo%20(white).png)
 
 **Company**
 
@@ -459,7 +459,7 @@ Try Beacon for free today.
 
 **Trust**
 
-[Privacy for humans](https://www.beaconcrm.org/legal/privacy-for-humans)[Security & GDPR](https://www.beaconcrm.org/trust)[Terms & Conditions](https://www.beaconcrm.org/legal/terms)[Privacy Policy](https://www.beaconcrm.org/legal/privacy)[Cookies Policy](https://www.beaconcrm.org/legal/cookies)[Website terms of use](https://www.beaconcrm.org/legal/website-terms-of-use)[Environment Statement](https://www.beaconcrm.org/environmental-statement)[Anti-Modern Slavery Statement](https://www.beaconcrm.org/anti-modern-slavery-statement)
+[Privacy for humans](https://www.beaconcrm.org/legal/privacy-for-humans)[Security & GDPR](https://www.beaconcrm.org/trust)[Terms & Conditions](https://www.beaconcrm.org/legal/terms)[Privacy Policy](https://www.beaconcrm.org/legal/privacy)[Cookies Policy](https://www.beaconcrm.org/legal/cookies)[Website terms of use](https://www.beaconcrm.org/legal/website-terms-of-use)
 
 **Contact**
 
