@@ -177,7 +177,6 @@ Log out
         * [Train with the pros](https://www.tennis.com.au/news-and-events/news-and-features/training-tips)
         * [Celebrity Match](https://www.tennis.com.au/news-and-events/news-and-features/celebrity-match)
         * [Australian Tennis Magazine Features](https://www.tennis.com.au/news-and-events/news-and-features/australian-tennis-magazine-features)
-        * [Your Game](https://www.tennis.com.au/news-and-events/news-and-features/your-game)
     * [Players & Rankings](https://www.tennis.com.au/news-and-events/players-and-rankings)
         * [Players & Rankings](#)
         * [Players & Rankings](https://www.tennis.com.au/news-and-events/players-and-rankings)
@@ -492,7 +491,7 @@ Search
     * [Reports, Publications and National Policies](https://www.tennis.com.au/about-tennis-australia/reports-and-policies)
     * [Partners](https://www.tennis.com.au/about-tennis-australia/our-partners)
     * [Media](https://www.tennis.com.au/about-tennis-australia/media)
-    * [Tennis Australia Board and Executive Team](https://www.tennis.com.au/about-tennis-australia/organisation-structure)
+    * [Charities](https://www.tennis.com.au/about-tennis-australia/charities)
 
 © Copyright 2024 Tennis Australia
 
