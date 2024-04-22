@@ -4,15 +4,13 @@
     
 * Filament
     
-[* Accessories](https://store.bambulab.com/collections/accessories?skr=yes)* Software
+[* Accessories](https://eu.store.bambulab.com/fr-fr/collections/accessories?skr=yes)* Software
     
-* Support
-    
-* Company
+[* Support](https://bambulab.com/en/support)* Company
     
 [* MakerWorld](https://makerworld.com/?from=bambulab.com)
 
-[Store](https://store.bambulab.com/?skr=yes)
+[Store](https://eu.store.bambulab.com/fr-fr/?skr=yes)
 
 Sign In
 
@@ -25,7 +23,6 @@ Sign In
 Terms of Use
 ============
 
-Last updated as of 24 April, 2024  
 **IMPORTANT**: These Terms of Use (hereinafter referred to as these "Terms") are the terms between you (an individual, company, or any other entity) and Bambu Lab (see description in “About Bambu Lab” section) for the use of the Product (see Section 1.1 of this Terms). You must have reached the age of majority for the legal jurisdiction that you reside in to access and sign these Terms. If you have not reached the age of majority, your guardian must agree to or sign these Terms. Please read these Terms carefully before you use your Bambu Lab Product mentioned in these Terms. Your use of a Bambu Lab Product will be deemed as your acceptance of the constraints mentioned in these Terms. Otherwise, please do not use any Bambu Lab Product. You may return your Bambu Lab Product to the franchise store, authorized distributor, or retail store where you made the purchase for a refund. However, you should be aware that refunds may be subject to the retail store's return policy. The return policy is implemented in accordance with the relevant laws and regulations of the country/region of purchase. You may access a copy of these Terms at any time by visiting Bambu Lab's website ([https://bambulab.com/policies/terms](https://bambulab.com/policies/terms)) and retain a copy of these Terms for future reference.
 
 **About Bambu Lab**
@@ -90,9 +87,8 @@ Bambu Lab Privacy Policy (the "Privacy Policy") provides information about the d
 
 7.1 To provide you with a better user experience, Bambu Lab may provide you with product update services, including, but not limited to, system software updates and 3D printing model updates. The Product's update service is designed to improve the performance, safety, and reliability of products and devices. The Product's updates can be installed in different ways; software updates include error repairs, system software updates, 3D printing model updates and performance enhancements.
 
-7.2 Bambu Lab is committed to ensure a long lifetime of our products, by releasing regular software updates containing bugfixes, new features and security updates. Our promise includes a guaranteed five-year provision of software updates (since the launch of the product), including crucial bug fixes and exciting new features to enhance user experience.​  
-During the five-year period, you can expect frequent updates that add new features which further enhance the user experience, while also solving any bugs that might be present. After this period, we may still bring less-frequent updates containing further improvements, if there are features which can be integrated and the capabilities of the printer support it.  
-Recognizing the constant evolving landscape of digital threats, and the importance of security, Bambu Lab is also committed to a minimum of seven years of software security updates, a commitment which will extend beyond this period with ongoing coverage of security updates throughout the product's lifecycle if new security issues are identified and need to be patched.
+7.2 Bambu Lab is dedicated to providing software bug fixes, new features and security patch updates for a period of three years, known as the 'software update support period,' from the product's initial market launch date.   
+For certain specific models of our products, we may consider extending the software update support period based on individual circumstances. Additionally, in the event of a serious security vulnerability, we may offer critical security updates for products that have reached their End-of-Life (EOL) stage, provided they are still operable, in order to protect against new security threats.
 
 7.3 Any update provided by Bambu Lab for replacement or supplemental product is governed by these Terms, unless such update is accompanied by a separate Terms of Use, which will prevail. If you decide not to download and use an update provided by Bambu Lab, you understand that you may place the Product under serious security risk or cause the Product to be unusable or unstable. Some of the functions of the Product may be limited based on the version. Updating to the latest version may improve your user experience.
 
@@ -118,35 +114,31 @@ Print Failure Detection: Print result detection is a service that automatically 
 
 9.1 You understand and agree that although Bambu Lab Product supports the execution of general G-code files, but it does not guarantee the availability of G-code generated by third-party software in any period, and will not be responsible for product damage caused by running G-code generated by third-party software.
 
-**Changes to this Policy** 
-
-10.1 We may occasionally make changes to the Terms. We'll provide you with prominent notice as appropriate under the circumstances. For example, we may display a prominent notice within the related service or our website or send you an email or device notification.You may find the date when the Terms are last updated at the top of the page. Please also visit our website and check the Terms regularly for any changes. Your continued access or use of the services or products after the date of the Terms constitutes your acceptance of the new Terms. If you do not agree with the new Terms, you must stop accessing or using services or products.
-
 **Termination and Ongoing Effectiveness**
 
-11.1 These Terms are effective from the first date you install the Software. BREACH OF YOUR OBLIGATIONS WITH ANY TERMS OR CONDITIONS OF THESE TERMS MAY RESULT IN THE DEATIVATION OF YOUR ACCOUNT AND LOSS OR RESTRICTION OF ACCESS TO THE CONTENT ASSOCIATED WITH THE PRODUCT. Once it is terminated, you MUST stop using the Product and delete all the Software and associated materials already copied and/or installed on your Bambu Lab device or computer immediately.
+10.1 These Terms are effective from the first date you install the Software. BREACH OF YOUR OBLIGATIONS WITH ANY TERMS OR CONDITIONS OF THESE TERMS MAY RESULT IN THE DEATIVATION OF YOUR ACCOUNT AND LOSS OR RESTRICTION OF ACCESS TO THE CONTENT ASSOCIATED WITH THE PRODUCT. Once it is terminated, you MUST stop using the Product and delete all the Software and associated materials already copied and/or installed on your Bambu Lab device or computer immediately.
 
-11.2 Sections 6, 12 and 13 shall remain effective after the termination of these Terms.
+10.2 Sections 6, 11 and 12 shall remain effective after the termination of these Terms.
 
 **Disclaimer of Warranties**
 
-12.1 YOU ACKNOWLEDGE THAT THE PRODUCT IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, AND TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW. NEITHER BAMBU LAB, ITS LICENSORS OR AFFILIATES NOR THE COPYRIGHT HOLDERS MAKE ANY REPRESENTATIONS OR WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, SATISFACTORY QUALITY, FITNESS FOR A PARTICULAR PURPOSE, ACCURACY, QUIET ENJOYMENT, AND NON-INFRINGEMENT OF THIRD PARTY RIGHTS. THERE IS NO WARRANTY BY BAMBU LAB OR BY ANY OTHER PARTY THAT THE FUNCTIONS CONTAINED IN THE PRODUCT WILL MEET YOUR REQUIREMENTS OR THAT THE OPERATION OF THE PRODUCT WILL BE UNINTERRUPTED OR ERROR-FREE. YOU ASSUME ALL RESPONSIBILITY AND RISK FOR THE SELECTION OF THE PRODUCT TO ACHIEVE YOUR INTENDED RESULTS AND FOR THE INSTALLATION, USE AND RESULTS OBTAINED FROM IT.
+11.1 YOU ACKNOWLEDGE THAT THE PRODUCT IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, AND TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW. NEITHER BAMBU LAB, ITS LICENSORS OR AFFILIATES NOR THE COPYRIGHT HOLDERS MAKE ANY REPRESENTATIONS OR WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, SATISFACTORY QUALITY, FITNESS FOR A PARTICULAR PURPOSE, ACCURACY, QUIET ENJOYMENT, AND NON-INFRINGEMENT OF THIRD PARTY RIGHTS. THERE IS NO WARRANTY BY BAMBU LAB OR BY ANY OTHER PARTY THAT THE FUNCTIONS CONTAINED IN THE PRODUCT WILL MEET YOUR REQUIREMENTS OR THAT THE OPERATION OF THE PRODUCT WILL BE UNINTERRUPTED OR ERROR-FREE. YOU ASSUME ALL RESPONSIBILITY AND RISK FOR THE SELECTION OF THE PRODUCT TO ACHIEVE YOUR INTENDED RESULTS AND FOR THE INSTALLATION, USE AND RESULTS OBTAINED FROM IT.
 
-12.2 YOU FURTHER CONFIRM THAT DURING THE PRINTING, CALIBRATION AND OPERATION OF THE DEVICE, IT IS NOT ALLOWED TO STRETCH BODY PARTS OR OBJECTS INTO THE DEVICE TO AVOID THE POTENTIAL RISK OF SCALD AND PINCH INJURY. YOU SHALL BEAR ALL THE RESPONSIBILITIES AND RISKS OF PERSONAL INJURY OR EQUIPMENT INJURY CAUSED THEREBY.
+11.2 YOU FURTHER CONFIRM THAT DURING THE PRINTING, CALIBRATION AND OPERATION OF THE DEVICE, IT IS NOT ALLOWED TO STRETCH BODY PARTS OR OBJECTS INTO THE DEVICE TO AVOID THE POTENTIAL RISK OF SCALD AND PINCH INJURY. YOU SHALL BEAR ALL THE RESPONSIBILITIES AND RISKS OF PERSONAL INJURY OR EQUIPMENT INJURY CAUSED THEREBY.
 
 **Limitation of Liability**
 
-13.1 BAMBU LAB WILL NOT TAKE ANY RESPONSIBILITY FOR PRODUCT USE PROBLEMS CAUSED BY ABUSE, MISUSE, OR UNAUTHORISED MODIFICATION.
+12.1 BAMBU LAB WILL NOT TAKE ANY RESPONSIBILITY FOR PRODUCT USE PROBLEMS CAUSED BY ABUSE, MISUSE, OR UNAUTHORISED MODIFICATION.
 
-13.2 TO THE EXTENT NOT PROHIBITED BY APPLICABLE LAW, UNDER NO CIRCUMSTANCES SHALL BAMBU LAB, ITS EMPLOYEES, LICENSORS, OR AFFILIATES BE LIABLE FOR ANY LOST PROFITS, REVENUE, SALES, DATA OR COSTS OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES, PROPERTY DAMAGE, PERSONAL INJURY, INTERRUPTION OF BUSINESS, LOSS OF BUSINESS INFORMATION OR FOR ANY SPECIAL, DIRECT, INDIRECT, INCIDENTAL, ECONOMIC, PUNITIVE, SPECIAL OR CONSEQUENTIAL DAMAGES, HOWEVER CAUSED AND WHETHER ARISING UNDER CONTRACT, TORT, NEGLIGENCE, OR OTHER THEORY OF LIABILITY ARISING OUT OF THE USE OF OR INABILITY TO USE THE PRODUCT, EVEN IF BAMBU LAB OR ITS LICENSORS OR AFFILIATES ARE ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. SOME JURISDICTIONS DO NOT ALLOW THE LIMITATION OF LIABILITY FOR PERSONAL INJURY, OR OF INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THIS LIMITATION MAY NOT APPLY TO YOU.
+12.2 TO THE EXTENT NOT PROHIBITED BY APPLICABLE LAW, UNDER NO CIRCUMSTANCES SHALL BAMBU LAB, ITS EMPLOYEES, LICENSORS, OR AFFILIATES BE LIABLE FOR ANY LOST PROFITS, REVENUE, SALES, DATA OR COSTS OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES, PROPERTY DAMAGE, PERSONAL INJURY, INTERRUPTION OF BUSINESS, LOSS OF BUSINESS INFORMATION OR FOR ANY SPECIAL, DIRECT, INDIRECT, INCIDENTAL, ECONOMIC, PUNITIVE, SPECIAL OR CONSEQUENTIAL DAMAGES, HOWEVER CAUSED AND WHETHER ARISING UNDER CONTRACT, TORT, NEGLIGENCE, OR OTHER THEORY OF LIABILITY ARISING OUT OF THE USE OF OR INABILITY TO USE THE PRODUCT, EVEN IF BAMBU LAB OR ITS LICENSORS OR AFFILIATES ARE ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. SOME JURISDICTIONS DO NOT ALLOW THE LIMITATION OF LIABILITY FOR PERSONAL INJURY, OR OF INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THIS LIMITATION MAY NOT APPLY TO YOU.
 
-13.3 IN NO EVENT SHALL BAMBU LAB'S TOTAL LIABILITY TO YOU FOR ALL DAMAGES (OTHER THAN AS MAY BE REQUIRED BY APPLICABLE LAW IN CASES INVOLVING DEATH OR PERSONAL INJURY RESULTING FROM BAMBU LAB'S NEGLIGENCE) EXCEED THE AMOUNT YOU PAID FOR YOUR BAMBU LAB PRODUCT.
+12.3 IN NO EVENT SHALL BAMBU LAB'S TOTAL LIABILITY TO YOU FOR ALL DAMAGES (OTHER THAN AS MAY BE REQUIRED BY APPLICABLE LAW IN CASES INVOLVING DEATH OR PERSONAL INJURY RESULTING FROM BAMBU LAB'S NEGLIGENCE) EXCEED THE AMOUNT YOU PAID FOR YOUR BAMBU LAB PRODUCT.
 
-13.4 The laws of some countries/regions do not allow the exclusion or limitation of certain warranties, guarantees or liabilities. If such laws apply to you, all or part of the exclusions or limitations described herein may not apply to you and you may have additional rights. Nothing in these Terms affects your legal rights that you are always entitled to as a consumer and which you cannot contractually agree to alter or waive.
+12.4 The laws of some countries/regions do not allow the exclusion or limitation of certain warranties, guarantees or liabilities. If such laws apply to you, all or part of the exclusions or limitations described herein may not apply to you and you may have additional rights. Nothing in these Terms affects your legal rights that you are always entitled to as a consumer and which you cannot contractually agree to alter or waive.
 
 **Technical Support**
 
-Except as otherwise expressly permitted in Warranty Statement (details of the Warranty Statement are available at: [https://bambulab.com/policies/warranty](https://bambulab.com/policies/warranty)), Bambu Lab is not obligated to provide any technical support for the Product described in these Terms, other than those required by law. No oral or written information or opinion given by Bambu Lab or its authorized representatives constitutes any warranty.
+Except as otherwise expressly permitted in Warranty Statement (details of the Warranty Statement are available at: [https://bambulab.com/en/policies/warranty](https://bambulab.com/en/policies/warranty)), Bambu Lab is not obligated to provide any technical support for the Product described in these Terms, other than those required by law. No oral or written information or opinion given by Bambu Lab or its authorized representatives constitutes any warranty.
 
 **Export Controls**
 
@@ -154,7 +146,7 @@ You may not use or otherwise export or re-export Bambu Lab Product except as aut
 
 **Contacting Bambu Lab**
 
-If you have any questions, comments, or suggestions, please contact us via the [online customer service](https://bambulab.com/support), or email us at [contact@bambulab.com](mailto:contact@bambulab.com)
+If you have any questions, comments, or suggestions, please contact us via the online customer service, or email us at [support@service.bambulab.com](mailto:support@service.bambulab.com)
 
 **Dispute Settlement and Governing Laws**
 
@@ -172,7 +164,7 @@ By signing up, you agree to Bambu Lab’s [Privacy Policy](https://bambulab.com/
 
 Product
 
-[3D Printers](https://store.bambulab.com/collections/3d-printer?skr=yes)[Filament](https://store.bambulab.com/collections/bambu-lab-3d-printer-filament?skr=yes)[Accessories](https://store.bambulab.com/collections/accessories?skr=yes)
+[3D Printers](https://eu.store.bambulab.com/fr-fr/collections/3d-printer?skr=yes)[Filament](https://eu.store.bambulab.com/fr-fr/collections/bambu-lab-3d-printer-filament?skr=yes)[Accessories](https://eu.store.bambulab.com/fr-fr/collections/accessories?skr=yes)
 
 Community
 
@@ -180,7 +172,7 @@ Community
 
 Support
 
-[Visit our Support Center](https://bambulab.com/en/support)[Official Wiki](https://wiki.bambulab.com/)[System Status](https://status.bambulab.com/)[Security](https://bambulab.com/en/security)
+[Visit our Support Center](https://bambulab.com/en/support)[Official Wiki](https://wiki.bambulab.com/)[System Status](https://status.bambulab.com/)
 
 Software
 
