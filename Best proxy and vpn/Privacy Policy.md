@@ -16,9 +16,9 @@
 * [Buy Proxy IPv4](https://www.bestproxyandvpn.com/buy-proxies.html "Buy Proxies")
     * [Buy Https Proxies](https://www.bestproxyandvpn.com/buy-proxies.html)
     * [Buy Socks5 Proxy](https://www.bestproxyandvpn.com/socks5-proxy.html "Buy Socks5 Proxy")
+* [Buy Proxy IPv6](https://www.bestproxyandvpn.com/buy-ipv6-proxies.html "Buy Proxy")
 * [Buy IPv4 IPv6 Bridge](https://www.bestproxyandvpn.com/buy-ipv4-ipv6-bridge-proxies.html "Buy IPv4 & IPv6 Converter Proxies")
 * [Buy VPN](https://www.bestproxyandvpn.com/buy-vpn.html "Buy VPN")
-* [Buy Proxy IPv6](https://www.bestproxyandvpn.com/buy-ipv6-proxies.html "Buy Proxy")
 * [Blog](https://www.bestproxyandvpn.com/blog.html "BestProxyAndVPN.com's Blog")
 * [Help](https://www.bestproxyandvpn.com/help.html "Help articles about our service")
     * [Tutorials](https://www.bestproxyandvpn.com/help/tutorials.html "Tutorials on Proxies & VPN")
@@ -52,9 +52,9 @@
     * [Buy Https Proxies](https://www.bestproxyandvpn.com/buy-proxies.html)
     * [Buy Socks5 Proxy](https://www.bestproxyandvpn.com/socks5-proxy.html "Buy Socks5 Proxy")
     
+* [Buy Proxy IPv6](https://www.bestproxyandvpn.com/buy-ipv6-proxies.html "Buy Proxy")
 * [Buy IPv4 IPv6 Bridge](https://www.bestproxyandvpn.com/buy-ipv4-ipv6-bridge-proxies.html "Buy IPv4 & IPv6 Converter Proxies")
 * [Buy VPN](https://www.bestproxyandvpn.com/buy-vpn.html "Buy VPN")
-* [Buy Proxy IPv6](https://www.bestproxyandvpn.com/buy-ipv6-proxies.html "Buy Proxy")
 * [Blog](https://www.bestproxyandvpn.com/blog.html "BestProxyAndVPN.com's Blog")
 * [Help](https://www.bestproxyandvpn.com/help.html "Help articles about our service")
     
