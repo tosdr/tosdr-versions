@@ -624,7 +624,7 @@ We may sometimes provide links to other websites, which if you click on them may
 Contact Us
 ----------
 
-If you would like to exercise **Your Consumer Privacy Rights** as described in this Privacy Statement, have a privacy question, concern or complaint, please contact us at [privacy@Boomi.com](mailto:privacy@boomi.com) or write to us at:
+If you would like to exercise **Your Consumer Privacy Rights** as described in this Privacy Statement, have a privacy question, concern or complaint, please contact us at [privacy@Boomi.com](mailto:privacy@Boomi.com) or write to us at:
 
 Boomi, LP  
 Attention: Boomi’s Privacy Office  
