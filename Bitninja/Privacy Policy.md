@@ -4,7 +4,6 @@
     * [ANTI-MALWARE](https://bitninja.com/cybersecurity-solutions/anti-malware/)
     * [WAF](https://bitninja.com/cybersecurity-solutions/waf/)
     * [IP REPUTATION](https://bitninja.com/cybersecurity-solutions/ip-reputation/)
-    * [FilePatcher](https://bitninja.com/cybersecurity-solutions/filepatcher/)
     * [Outbound Spam Detection](https://bitninja.com/cybersecurity-solutions/outbound_spam_detection/)
     * [SiteProtection](https://bitninja.com/cybersecurity-solutions/siteprotection/)
     * [Additional Solutions](https://bitninja.com/cybersecurity-solutions/extra-security-components/)
@@ -512,7 +511,7 @@ Resources
 Company
 -------
 
-[About](https://bitninja.com/about-us/)[Customers](https://bitninja.com/success-stories/)[Jobs at BitNinja](https://bitninja-technologies-zrt.breezy.hr/)[Legal Terms](https://bitninja.com/terms-and-conditions/)[Privacy](https://bitninja.com/privacy-policy/)[Events](https://ujbitninja.kinsta.cloud/?page_id=123)[Bug Bounty](mailto:info@bitninja.io)[Partners](https://bitninja.com/partners/)[Impact](https://bitninja.com/bitninja_impact/)
+[About](https://bitninja.com/about-us/)[Customers](https://bitninja.com/success-stories/)[Jobs at BitNinja](https://bitninja-technologies-zrt.breezy.hr/)[Legal Terms](https://bitninja.com/terms-and-conditions/)[Privacy](https://bitninja.com/privacy-policy/)[Events](https://ujbitninja.kinsta.cloud/?page_id=123)[Bug Bounty](https://hckrt.com/Reports/EmbeddedReportForm?program=bitninja)[Partners](https://bitninja.com/partners/)[Impact](https://bitninja.com/bitninja_impact/)
 
 Connect
 -------
