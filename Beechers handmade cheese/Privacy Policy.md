@@ -95,7 +95,7 @@ What Choices Do I Have?
 -----------------------
 
 * As discussed above, you can always choose not to provide information, even though it might be needed to take advantage of such Beecher’s features.
-* If you do not want to receive e-mail or other mail from us, please send an e-mail to [theStaff@Beecherscheese.com](mailto:theStaff@beecherscheese.com) and write “unsubscribe” in the subject heading. (If you do not want to receive notices from us, such as this Privacy Notice, those notices will still govern your use of Beecher’s, and it is your responsibility to review them for changes.)
+* If you do not want to receive e-mail or other mail from us, please send an e-mail to [theStaff@Beecherscheese.com](mailto:theStaff@Beecherscheese.com) and write “unsubscribe” in the subject heading. (If you do not want to receive notices from us, such as this Privacy Notice, those notices will still govern your use of Beecher’s, and it is your responsibility to review them for changes.)
 * The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, you will not be able to use certain important features, if you do not use cookies.
 * In addition, the Federal Trade Commission provides useful information about online privacy on its own Web site.
 
