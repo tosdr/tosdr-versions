@@ -1,64 +1,30 @@
 [Skip to content](#MainContent)
 
-[**FREE shipping on orders $55+  \[Shop Now\]**](https://www.4ocean.com/collections/all-products)
+[**Coastal Restoration Collection launches today >>**](https://www.4ocean.com/pages/4ocean-x-mang)
 
     
 
-* Shop
-    
-    * [Shop All](https://4ocean.com/collections/all-products)
-    * [Best Sellers](https://4ocean.com/collections/best-sellers)
-    * [New Arrivals](https://4ocean.com/collections/new-products)
-    * [Signature Blue Bracelet](https://4ocean.com/products/4ocean-signature-bracelet-beaded)
-    * [Bracelet Subscription](https://4ocean.com/pages/bracelet-subscriptions)
-    * [Sustainable Swaps](https://4ocean.com/collections/sustainable-gifts-swaps)
-    * [Coral Restoration Bracelets](https://4ocean.com/products/coral-restoration-bracelet)
-    * [Ghost Net Bracelets](https://4ocean.com/products/ghost-net-bracelet)
-    * [Last Straw Bracelet](https://4ocean.com/products/last-straw-bracelet)
-    * [Coastal Restoration Bracelets](https://4ocean.com/pages/4ocean-x-mang)
-    
+* [Shop](https://4ocean.com/collections/shop)
 * Our Mission
     
     * [Mission](https://4ocean.com/pages/mission)
     * [Impact](https://www.4ocean.com/pages/cleanups)
     
 * [Stories](https://www.4ocean.com/pages/4ocean-stories)
-* Partnerships
-    
-    * [Become a Partner](https://www.4ocean.com/pages/partner-home-page)
-    * [Become a Retailer](https://wholesale.4ocean.com/)
-    
-* [UFC](https://www.4oceanfoundation.org/pages/fight-for-the-ocean)
+* [Partnerships](https://www.4ocean.com/pages/partner-home-page)
 
  Search [![4ocean](//www.4ocean.com/cdn/shop/files/Group_29_1.png?v=1659556472)](https://4ocean.com/)
 
 pounds pulled
 
-* Shop
-    
-    * [Shop All](https://4ocean.com/collections/all-products)
-    * [Best Sellers](https://4ocean.com/collections/best-sellers)
-    * [New Arrivals](https://4ocean.com/collections/new-products)
-    * [Signature Blue Bracelet](https://4ocean.com/products/4ocean-signature-bracelet-beaded)
-    * [Bracelet Subscription](https://4ocean.com/pages/bracelet-subscriptions)
-    * [Sustainable Swaps](https://4ocean.com/collections/sustainable-gifts-swaps)
-    * [Coral Restoration Bracelets](https://4ocean.com/products/coral-restoration-bracelet)
-    * [Ghost Net Bracelets](https://4ocean.com/products/ghost-net-bracelet)
-    * [Last Straw Bracelet](https://4ocean.com/products/last-straw-bracelet)
-    * [Coastal Restoration Bracelets](https://4ocean.com/pages/4ocean-x-mang)
-    
+* [Shop](https://4ocean.com/collections/shop)
 * Our Mission
     
     * [Mission](https://4ocean.com/pages/mission)
     * [Impact](https://www.4ocean.com/pages/cleanups)
     
 * [Stories](https://www.4ocean.com/pages/4ocean-stories)
-* Partnerships
-    
-    * [Become a Partner](https://www.4ocean.com/pages/partner-home-page)
-    * [Become a Retailer](https://wholesale.4ocean.com/)
-    
-* [UFC](https://www.4oceanfoundation.org/pages/fight-for-the-ocean)
+* [Partnerships](https://www.4ocean.com/pages/partner-home-page)
 
  Search [Log in](https://4ocean.com/account/login) [Cart](https://4ocean.com/cart)
 
@@ -861,7 +827,6 @@ JOIN THE CREW
 
 * [Wavemakers](https://4ocean.com/pages/wavemakers)
 * [Careers](https://recruiting.paylocity.com/recruiting/jobs/All/70d8b9a8-65c4-48f4-8af9-f2014dd5cf2d/4Ocean-Public-Benefit-Company)
-* [4ocean Foundation - Executive Director](https://cdn.shopify.com/s/files/1/0996/1022/files/4Ocean_Executive-Director_Position-Announcement-5.pdf?v=1715355760)
 
 WHOLESALE
 ---------
