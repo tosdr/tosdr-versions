@@ -257,6 +257,7 @@ Victoria, BC V8W 2P3
 
 * [Business](https://www.bctransit.com/business/)
 * [Umo](https://www.bctransit.com/umo/)
+* [Free Transit for Children 12 and Under](https://www.bctransit.com/kidsridefree/)
 * [Advertise at BC Transit](https://www.bctransit.com/business/advertise/)
 * [Become a Vendor](https://www.bctransit.com/business/become-a-retailer/)
 * [Supply and Tenders](https://www.bctransit.com/business/supply-and-tenders/)
@@ -273,7 +274,7 @@ Victoria, BC V8W 2P3
 * [Climate Change Accountability Reports](https://www.bctransit.com/corporate-reports/climate-change-accountability-reports/)
 * [Customer Tracking Surveys](https://www.bctransit.com/corporate-reports/customer-tracking-surveys/)
 * [Pay Transparency Report](https://www.bctransit.com/corporate-reports/pay-transparency-report/)
-* [Strategic Plan](https://www.bctransit.com/corporate-reports/strategic-plan/)
+* [Strategic Planning](https://www.bctransit.com/corporate-reports/transforming-your-journey/)
 * [BC Transit Advantage](https://www.bctransit.com/corporate-reports/bc-transit-advantage/)
 
 * [Media](https://www.bctransit.com/media/)
