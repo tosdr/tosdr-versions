@@ -68,7 +68,7 @@
     * [Daily Disposable Contact Lenses](https://www.bausch.com/products/contact-lenses/daily-disposable-contact-lenses/)
     * [Monthly Contact Lenses](https://www.bausch.com/products/contact-lenses/monthly-contact-lenses/)
     * [Specialty and Gas Permeable Contact Lenses](https://www.bausch.com/products/contact-lenses/specialty-contact-lenses/)
-    * [Europe, Middle East, and Africa Instructions for Use](https://www.bausch.com/products/contact-lenses/europe-middle-east-and-africa-instructions-for-use/)
+    * [Europe, Middle East, and Africa Instructions for Use](https://ifu.bausch.com/)
 * [Lens Care ![Down Arrow Icon](/Assets/Bausch-DTC/css/images/nav-arrow.svg)](https://www.bausch.com/products/lens-care/) 
     * [Soft Contact Lens Multi-Purpose + Saline Solutions](https://www.bausch.com/products/lens-care/soft-contact-lens-solutions/)
     * [Contact Lens Rewetting Drops](https://www.bausch.com/products/lens-care/contact-lens-drops/)
@@ -128,8 +128,6 @@
 * [U.S. Health Care Compliance](https://www.bausch.com/impact/compliance/)
 * [U.S. Supplier Diversity ![Down Arrow Icon](/Assets/Bausch-DTC/css/images/nav-arrow.svg)](https://www.bausch.com/impact/supplier-diversity/) 
     * [Submit a Supplier Diversity Profile](https://www.bausch.com/impact/supplier-diversity/profile/)
-* [Modern Slavery Report](https://www.bausch.com/siteassets/pdf/modern-slavery-report.pdf)
-* [California Transparency in Supply Chains Act](https://www.bausch.com/impact/California-Transparency-in-Supply-Chains-Act/)
 
 [Careers](https://www.bausch.com/careers/) ![Down Arrow Icon](/Assets/Bausch-DTC/css/images/nav-arrow.svg)
 
@@ -184,8 +182,6 @@
     * [Safety](https://www.bausch.com/impact/safety/)
     * [U.S. Health Care Compliance](https://www.bausch.com/impact/compliance/)
     * [U.S. Supplier Diversity](https://www.bausch.com/impact/supplier-diversity/)
-    * [Modern Slavery Report](https://www.bausch.com/siteassets/pdf/modern-slavery-report.pdf)
-    * [California Transparency in Supply Chains Act](https://www.bausch.com/impact/California-Transparency-in-Supply-Chains-Act/)
 * [Careers](https://www.bausch.com/careers/)
     
     * [Working at Bausch + Lomb](https://www.bausch.com/careers/working-at-bausch-lomb/)
