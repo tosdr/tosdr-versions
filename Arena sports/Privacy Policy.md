@@ -287,8 +287,6 @@ This form needs Javascript to display, which your browser doesn't support. [Sign
 
 [Need Help?](https://www.arenasports.net/contact-us/)
 
-![](https://www.facebook.com/tr?id=530259144433674&ev=PageView&noscript=1&cd%5Bpage_title%5D=Privacy+Policy&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=81206&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.arenasports.net%2Fprivacy-policy%2F)
-
               
 
 [Go to Top](#)
