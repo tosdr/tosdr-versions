@@ -18,7 +18,7 @@ California Narcotic Officers' Association
 * [Shop](https://www.cnoa.org/merchandise)
 * [Resources](https://www.cnoa.org/)
     * [Jobs Board](https://www.cnoa.org/jobs)
-    * [Legislative Update](https://www.cnoa.org/app/assets/legislative_update_docs/36_1714423620.pdf)
+    * [Legislative Update](https://www.cnoa.org/app/assets/legislative_update_docs/35_1713211668.pdf)
     * [Business Directory](https://bluepages.911media.com/cnoa/)
 * [Awards](https://www.cnoa.org/awards)
 * [About](https://www.cnoa.org/)
@@ -280,7 +280,7 @@ For over 50 years, CNOA has offered the finest training available to law enforce
 [Awards & Scholarships](https://www.cnoa.org/awards)  
 [Jobs Board](https://www.cnoa.org/jobs)  
 [Privacy Policy](https://www.cnoa.org/privacy_policy)  
-[Legislative Update](https://www.cnoa.org/app/assets/legislative_update_docs/36_1714423620.pdf)
+[Legislative Update](https://www.cnoa.org/app/assets/legislative_update_docs/35_1713211668.pdf)
 
 **Social Media**  
 [Facebook](https://www.facebook.com/calnarcs)  
