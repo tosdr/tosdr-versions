@@ -11,7 +11,7 @@ ART FIGHT](https://artfight.net/)
     
     GUIDES
     
-    [Attack Categorization](https://artfight.net/info/guide-attacks) [Filters](https://artfight.net/info/guide-filters) [BBCode](https://artfight.net/info/guide-bbcode)
+    [Attack Categorization](https://artfight.net/info/guide-attacks) [Maturity Ratings](https://artfight.net/info/guide-maturity) [BBCode](https://artfight.net/info/guide-bbcode)
     
     [News](https://artfight.net/news)
     
@@ -150,7 +150,7 @@ We can amend these Terms of Service and Use at any time and will update these Te
 
   
 
-2024 Contributions: **$42178.58**  
+2024 Contributions: **$22763.58**  
 Goal (tier 1): $98000[](https://artfight.net/donate)
 
 Support
