@@ -250,7 +250,7 @@ Privacy policy
 ==============
 
 How we store, process, and protect your data.  
-Last updated 14th May 2024.  
+Last updated 8th April 2024.  
 
 Beacon respects your privacy and is committed to protecting your personal data. This privacy policy lets you know how we look after your personal data when you visit our website (regardless of where you visit it from), use our services, or interact with our sales team, and tells you about your privacy rights and how the law protects you.
 
@@ -529,11 +529,19 @@ Screen recording for customer support
 
 Europe
 
-People Data Labs
+Mailchimp
 
-Sales & marketing personalisation
+Sending Beacon newsletters
 
-[https://privacy.peopledatalabs.com/policies](https://privacy.peopledatalabs.com/policies)
+[https://mailchimp.com/legal/privacy/](https://mailchimp.com/legal/privacy/)
+
+US
+
+Autopilot
+
+Automated email marketing flows
+
+[https://journeys.autopilotapp.com/legal/privacy-policy](https://journeys.autopilotapp.com/legal/privacy-policy)
 
 US
 
@@ -667,7 +675,7 @@ If you wish to exercise any of the rights set out above, please contact us via l
 
 Try Beacon for free today.
 
-[Try for free](https://app.beaconcrm.org/signup)![](https://assets-global.website-files.com/6369f7fe243b240624080be7/662a8392d899f5a17d5c6f9f_BGE_PendingCertification_white.png)
+[Try for free](https://app.beaconcrm.org/signup)![](https://assets-global.website-files.com/6369f7fe243b240624080be7/661e912882cfc52062b758fb_CIOF%20logo%20(white).png)
 
 **Company**
 
@@ -683,7 +691,7 @@ Try Beacon for free today.
 
 **Trust**
 
-[Privacy for humans](https://www.beaconcrm.org/legal/privacy-for-humans)[Security & GDPR](https://www.beaconcrm.org/trust)[Terms & Conditions](https://www.beaconcrm.org/legal/terms)[Privacy Policy](https://www.beaconcrm.org/legal/privacy)[Cookies Policy](https://www.beaconcrm.org/legal/cookies)[Website terms of use](https://www.beaconcrm.org/legal/website-terms-of-use)[Environment Statement](https://www.beaconcrm.org/environmental-statement)[Anti-Modern Slavery Statement](https://www.beaconcrm.org/anti-modern-slavery-statement)
+[Privacy for humans](https://www.beaconcrm.org/legal/privacy-for-humans)[Security & GDPR](https://www.beaconcrm.org/trust)[Terms & Conditions](https://www.beaconcrm.org/legal/terms)[Privacy Policy](https://www.beaconcrm.org/legal/privacy)[Cookies Policy](https://www.beaconcrm.org/legal/cookies)[Website terms of use](https://www.beaconcrm.org/legal/website-terms-of-use)
 
 **Contact**
 
