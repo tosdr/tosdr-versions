@@ -1,216 +1,34 @@
- [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27208%27%20height=%2748%27/%3e)![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+[![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27208%27%20height=%2748%27/%3e)![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-![](https://blocksite.co/wp-content/uploads/2023/12/blocksite-icon.5d769676.svg)](https://blocksite.co/)
+![](/_next/static/media/blocksite-icon.5d769676.svg)](https://blocksite.co/)
 
-[![blocksite logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+Product
 
-![blocksite logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2725%27%20height=%2724%27/%3e)![Toggle Menu](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-![blocksite logo](https://blocksite.co/wp-content/uploads/2024/02/blocksite-logo.mobile.svg)](https://blocksite.co/)
+![Toggle Menu](/_next/static/media/arrow-keyboard-down.791fd0cd.svg)
 
-* Product
-    * * * **Get more info**
-                
-            * [Stay Focused](https://blocksite.co/focused)
-            * [Productivity](https://blocksite.co/productivity)
-            * [Time Management](https://blocksite.co/time-management)
-        
-        * *  ![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27187%27%20height=%27174%27/%3e) ![](https://blocksite.co/wp-content/uploads/2024/02/blue-man.avif)
-                
-                Try our desktop app and block on multiple browser at once
-                
-                [Download](https://api.blocksite.co/desktop)
-                
-* Resources
-    * * * **We are here to help**
-                
-            * [Support](https://blocksite.co/support-requests)
-            * [FAQ](https://blocksite.zendesk.com/hc/en-us)
-        * * **Customers reviews**
-                
-                 ![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27186%27%20height=%27174%27/%3e)![](https://blocksite.co/wp-content/uploads/2024/02/green-woman.avif)
-                
-                Find out why our customers love us
-                
-                [Read reviews](https://blocksite.co/reviews)
-                
-* [Blog](https://blocksite.co/blog)
-    * * * [Work Productivity](https://blocksite.co/blog/work-productivity)
-            * [Focus Study](https://blocksite.co/blog/focus-study)
-            * [Family Time](https://blocksite.co/blog/family-time)
-            * [Digital Mindfulness](https://blocksite.co/blog/digital-mindfulness)
-        * *  ![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27187%27%20height=%27174%27/%3e) ![](https://blocksite.co/wp-content/uploads/2024/02/blue-man.avif)
-                
-                Try our desktop app and block on multiple browser at once
-                
-                [Download](https://api.blocksite.co/desktop)
-                
-* Follow us
-    
-     [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](https://blocksite.co/wp-content/uploads/2023/12/facebook-logo-gray.svg)](https://www.facebook.com/BlockSite.co/)[![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](https://blocksite.co/wp-content/uploads/2023/12/twitter-logo-gray.svg)](https://twitter.com/BlockSite_)[![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](https://blocksite.co/wp-content/uploads/2023/12/linkedin-logo-gray.svg)](https://www.linkedin.com/company/blocksite/)[![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](https://blocksite.co/wp-content/uploads/2023/12/instagram-logo-gray.svg)](https://www.instagram.com/blocksite_official/)
-    
-    Available on
-    
-    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](https://blocksite.co/wp-content/themes/blocksite/assets/images/appstore-download.svg)
-    
-    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](https://blocksite.co/wp-content/themes/blocksite/assets/images/play-store-download.svg)
-    
-    [Sign Up](https://user.blocksite.co/signup)
-    
+Resource
 
-![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2725%27%20height=%2724%27/%3e)![Toggle Menu](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+![Toggle Menu](/_next/static/media/arrow-keyboard-down.791fd0cd.svg)
 
-![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+[Blog](https://blocksite.co/blog)
 
-![](https://blocksite.co/wp-content/themes/blocksite/assets/images/appstore-download.svg)
+![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2728%27%20height=%2728%27/%3e)![download-blocksite](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+![download-blocksite](/_next/static/media/chrome-icon.c69e478c.svg)
 
-![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+Add to Chrome[Signup](https://user.blocksite.co/signup)
 
-![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27294%27%20height=%27204%27/%3e)![Privacy Policy for Website, Mobile App, and Desktop App](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-![](https://blocksite.co/wp-content/themes/blocksite/assets/images/play-store-download.svg)
+![Privacy Policy for Website, Mobile App, and Desktop App](/_next/static/media/left-teal-bg.0798b50f.svg)
 
-[Signup](https://user.blocksite.co/signup)
+![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27354%27%20height=%27236%27/%3e)![Privacy Policy for Website, Mobile App, and Desktop App](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-[![blocksite logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![blocksite logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![blocksite logo](https://blocksite.co/wp-content/uploads/2024/02/blocksite-logo.mobile.svg)](https://blocksite.co/)
-
-* Product
-    * * * **Get more info**
-                
-            * [Stay Focused](https://blocksite.co/focused)
-            * [Productivity](https://blocksite.co/productivity)
-            * [Time Management](https://blocksite.co/time-management)
-        
-        * *  ![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27187%27%20height=%27174%27/%3e) ![](https://blocksite.co/wp-content/uploads/2024/02/blue-man.avif)
-                
-                Try our desktop app and block on multiple browser at once
-                
-                [Download](https://api.blocksite.co/desktop)
-                
-* Resources
-    * * * **We are here to help**
-                
-            * [Support](https://blocksite.co/support-requests)
-            * [FAQ](https://blocksite.zendesk.com/hc/en-us)
-        * * **Customers reviews**
-                
-                 ![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27186%27%20height=%27174%27/%3e)![](https://blocksite.co/wp-content/uploads/2024/02/green-woman.avif)
-                
-                Find out why our customers love us
-                
-                [Read reviews](https://blocksite.co/reviews)
-                
-* [Blog](https://blocksite.co/blog)
-    * * * [Work Productivity](https://blocksite.co/blog/work-productivity)
-            * [Focus Study](https://blocksite.co/blog/focus-study)
-            * [Family Time](https://blocksite.co/blog/family-time)
-            * [Digital Mindfulness](https://blocksite.co/blog/digital-mindfulness)
-        * *  ![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27187%27%20height=%27174%27/%3e) ![](https://blocksite.co/wp-content/uploads/2024/02/blue-man.avif)
-                
-                Try our desktop app and block on multiple browser at once
-                
-                [Download](https://api.blocksite.co/desktop)
-                
-* Follow us
-    
-     [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](https://blocksite.co/wp-content/uploads/2023/12/facebook-logo-gray.svg)](https://www.facebook.com/BlockSite.co/)[![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](https://blocksite.co/wp-content/uploads/2023/12/twitter-logo-gray.svg)](https://twitter.com/BlockSite_)[![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](https://blocksite.co/wp-content/uploads/2023/12/linkedin-logo-gray.svg)](https://www.linkedin.com/company/blocksite/)[![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](https://blocksite.co/wp-content/uploads/2023/12/instagram-logo-gray.svg)](https://www.instagram.com/blocksite_official/)
-    
-    Available on
-    
-    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](https://blocksite.co/wp-content/themes/blocksite/assets/images/appstore-download.svg)
-    
-    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](https://blocksite.co/wp-content/themes/blocksite/assets/images/play-store-download.svg)
-    
-    [Sign Up](https://user.blocksite.co/signup)
-    
-
-![People Cards Left](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![People Cards Left](https://blocksite.co/wp-content/uploads/2024/02/left-teal-bg.0798b50f.svg)
-
-![People Cards Right](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![People Cards Right](https://blocksite.co/wp-content/uploads/2024/02/right-teal-bg.93565222.svg)
+![Privacy Policy for Website, Mobile App, and Desktop App](/_next/static/media/right-teal-bg.93565222.svg)
 
 Privacy Policy for Website, Mobile App, and Desktop App
 =======================================================
@@ -332,7 +150,7 @@ These allow the behavior of site visitors to be tracked after they click on a Fa
 
 The data collected is anonymous to us as operators of this website and we cannot use it to draw any conclusions about our users’ identities. However, the data are stored and processed by Facebook, which may make a connection to your Facebook profile and which may use the data for its own advertising purposes, as stipulated in the [Facebook privacy policy](https://www.facebook.com/about/privacy/). This will allow Facebook to display ads both on Facebook and on third-party sites. We have no control over how this data is used.  See Facebook’s privacy policy to learn more about protecting your privacy: [https://www.facebook.com/about/privacy/](https://www.facebook.com/about/privacy/).
 
-**You can deactivate the Facebook custom audiences remarketing feature in the Ads Settings section at** [**https://www.facebook.com/ads/preferences/?entry\_product=ad\_settings\_screen**](https://www.facebook.com/ads/preferences/?entry_product=ad_settings_screen)**.**
+###### **You can deactivate the Facebook custom audiences remarketing feature in the Ads Settings section at** [**https://www.facebook.com/ads/preferences/?entry\_product=ad\_settings\_screen**](https://www.facebook.com/ads/preferences/?entry_product=ad_settings_screen)**.**
 
 Firebase
 
@@ -420,92 +238,62 @@ We reserve the right to periodically amend or revise the Privacy Policy; materia
 
 If you have any questions about these terms, please contact us at: support@blocksite.co.
 
-![Close](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2748%27%20height=%2748%27/%3e)![blocksite-logo](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-![Close](https://blocksite.co/wp-content/themes/blocksite/assets/images/close-icon-dark.svg)
+![blocksite-logo](/_next/static/media/blocksite-logo.9a32baa3.svg)
 
-![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+Take control of your time. Block distracting apps and sites. Make productivity your priority
 
-![](https://blocksite.co/wp-content/uploads/2024/03/cookies.svg)
+![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![facebook logo](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-Our Website uses cookies
-------------------------
+![facebook logo](/_next/static/media/facebook-logo-gray.b4efd1b2.svg)
 
-We Use Cookies for various purposes including analytics, personalized content and ads. By continuing to browse this site, you agree to our use of cookies as described in our [Privacy Policy](https://blocksite.co/privacy)
+![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![twitter logo](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-OK, GOT IT
+![twitter logo](/_next/static/media/twitter-logo-gray.2f60b320.svg)
 
- ![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2748%27%20height=%2748%27/%3e)![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![linkedin logo](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-![](https://blocksite.co/wp-content/uploads/2023/12/blocksite-logo.svg)Take control of your time. Block distracting apps and sites. Make productivity your priority
+![linkedin logo](/_next/static/media/linkedin-logo-gray.8f4a7561.svg)
 
- [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![instagram logo](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://blocksite.co/wp-content/uploads/2023/12/facebook-logo-gray.svg)](https://www.facebook.com/BlockSite.co/)[![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://blocksite.co/wp-content/uploads/2023/12/twitter-logo-gray.svg)](https://twitter.com/BlockSite_)[![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://blocksite.co/wp-content/uploads/2023/12/linkedin-logo-gray.svg)](https://www.linkedin.com/company/blocksite/)[![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://blocksite.co/wp-content/uploads/2023/12/instagram-logo-gray.svg)](https://www.instagram.com/blocksite_official/)
+![instagram logo](/_next/static/media/instagram-logo-gray.a817eee2.svg)
 
 Product
 
-* [Stay Focused](https://blocksite.co/focused)
-* [Productivity](https://blocksite.co/productivity)
-* [Time Management](https://blocksite.co/time-management)
-* [Reviews](https://blocksite.co/reviews)
+[Stay Focused](https://blocksite.co/focused)[Productivity](https://blocksite.co/productivity)[Time Management](https://blocksite.co/time-management)[Reviews](https://blocksite.co/reviews)
 
 Connect
 
-* [Blog](https://blocksite.co/blog)
+[Blog](https://blocksite.co/blog)
 
 Our Policies
 
-* [Terms of Use](https://blocksite.co/terms)
-* [Privacy Policy Extension](https://blocksite.co/privacy)
-* [Privacy Policy Website and App](https://blocksite.co/privacy-app-and-web)
+[Terms of Use](https://blocksite.co/terms)[Privacy Policy Extension](https://blocksite.co/privacy)[Privacy Policy Website and App](https://blocksite.co/privacy-app-and-web)
 
 Resources
 
-* [Faq](https://blocksite.zendesk.com/hc/en-us)
-* [Support](https://blocksite.co/support-requests)
+[FAQ](https://blocksite.co/faq)[Support](https://blocksite.co/support-requests)
 
-**Enjoy exclusive offers and updates**  
-Ensure that you never miss out on our promotions and special feature releases
+Enjoy exclusive offers and updatesEnsure that you never miss out on our promotions and special feature releases
 
-     
+Subscribe
 
 © All rights reserved for BlockSite 2024
 
-Available On
+Available on
 
-[![chrome icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+[![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![google play icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-![chrome icon](https://blocksite.co/wp-content/uploads/2023/12/chrome-24-single-color.svg)](https://chromewebstore.google.com/detail/blocksite-block-websites/eiimnmioipafcokbfikbljfdeojpcgbh)[![firefox icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+![google play icon](/_next/static/media/google-play-24-single-color.bef50b97.svg)](https://play.google.com/store/apps/details?id=co.blocksite)[![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![app store icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-![firefox icon](https://blocksite.co/wp-content/uploads/2023/12/firefox-24-single-color.svg)](https://addons.mozilla.org/en-US/firefox/addon/blocksite/)[![edge icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+![app store icon](/_next/static/media/app-store-24-single-color.b09528ff.svg)](https://apps.apple.com/us/app/blocksite/id1474967653)[![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![chrome icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-![edge icon](https://blocksite.co/wp-content/uploads/2023/12/edge-24-single-color.svg)](https://microsoftedge.microsoft.com/addons/detail/blocksite-block-websites/lbnblmjlpifpfpefbcgefbhnlcnnjgjk)[![play icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+![chrome icon](/_next/static/media/chrome-24-single-color.d4446f2c.svg)](https://chrome.google.com/webstore/detail/blocksite-block-websites/eiimnmioipafcokbfikbljfdeojpcgbh)[![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![firefox icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-![play icon](https://blocksite.co/wp-content/uploads/2023/12/google-play-24-single-color.svg)](https://play.google.com/store/apps/details?id=co.blocksite)[![appstore icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+![firefox icon](/_next/static/media/firefox-24-single-color.6c1a07cb.svg)](https://addons.mozilla.org/en-US/firefox/addon/blocksite/)[![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![edge icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-![appstore icon](https://blocksite.co/wp-content/uploads/2023/12/app-store-24-single-color.svg)](https://apps.apple.com/us/app/blocksite/id1474967653)[![windows icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+![edge icon](/_next/static/media/edge-24-single-color.6f36f703.svg)](https://microsoftedge.microsoft.com/addons/detail/blocksite-block-websites/lbnblmjlpifpfpefbcgefbhnlcnnjgjk)[![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![windows icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-![windows icon](https://blocksite.co/wp-content/uploads/2023/12/windows-24-single-color.svg)](https://user.blocksite.co/desktop-lp)
+![windows icon](/_next/static/media/windows-24-single-color.b0c6a105.svg)](https://user.blocksite.co/desktop-lp)
