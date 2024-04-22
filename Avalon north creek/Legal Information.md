@@ -10,7 +10,7 @@
 
 [For Residents](https://www.avalonaccess.com/UserProfile/LogOn)
 
-[Create Account](#)[Login](#)
+Create AccountLogin
 
 U.S. State Privacy Notice
 -------------------------
