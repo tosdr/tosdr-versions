@@ -13,4 +13,4 @@ At AdGone Ad Blocker by Advanced Commerce Solutions, Inc. your satisfaction is o
 3. **Fraudulent Purchases:** If you don't recognize a charge or suspect a fraudulent purchase, simply request a refund.
 4. **Exclusions:** This refund policy applies only to purchases made directly from [adgone.org](https://adgone.org/?source=adgone_refundpolicy) within the past 120 days.
 
-If you have any questions or need additional information, please reach out to our support team through our [support center](https://help.adgone.org/hc/en-us/requests/new?tf_13956034861837=request_a_refund&utm_source=adgone_refundpolicy) or leave us a voicemail at [(321) 420-0857](tel:(321)%20420-0857)
+If you have any questions or need additional information, please reach out to our support team through our [support center](https://help.adgone.org/hc/en-us/requests/new?tf_13956034861837=request_a_refund&utm_source=adgone_refundpolicy) or leave us a voicemail at [(321) 420-0857](tel:(321) 420-0857)
