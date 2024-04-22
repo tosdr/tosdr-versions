@@ -189,7 +189,7 @@ Email \*
 
 Password \* 
 
-[Forgot Password?](#)
+[Forget Password?](#)
 
 [](#)
 
