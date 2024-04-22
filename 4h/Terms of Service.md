@@ -514,7 +514,7 @@ National 4-H Newsletter
 
  Receive news about 4-h
 
-Comments
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
@@ -564,10 +564,6 @@ Fill in the form to subscribe
 First Name\*
 
 Last Name\*
-
-Title
-
-Mr.Mrs.Miss,Ms.Dr.Other
 
 Email\*
 
