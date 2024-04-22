@@ -180,15 +180,13 @@ If you provide us with personal information on behalf of another person, you mus
 
 [**Retention of your data**](#point10)
 
-[**How to request the deletion of your AA online account**](#point11)
+[**Your data protection rights**](#point11)
 
-[**Your data protection rights**](#point12)
+[**You have a right to object**](#point12)
 
-[**You have a right to object**](#point13)
+[**Changes to this privacy notice**](#point13)
 
-[**Changes to this privacy notice**](#point14)
-
-[**Contact Us or our DPO**](#point15)
+[**Contact Us or our DPO**](#point14)
 
 The AA Limited and our Data Protection Officer (DPO)
 ----------------------------------------------------
@@ -354,13 +352,6 @@ Unless we explain otherwise to you, we’ll hold your personal information based
 * For as long as we provide products or services to you and then for as long as someone could bring a claim against us;
 * To comply with legal and regulatory requirements or guidance; or
 * For as long as we have reasonable business needs.
-
-How to request deletion of your AA online account
--------------------------------------------------
-
-You can request to delete your AA online account using by contacting us on **0330 102 8005**.
-
-We will delete your online account – however, we will need to retain some of your personal data you provided to us. Please see more details above. After your account has been deleted, you won’t be able to use the AA app any longer or log in to your AA account on our website, but any policies you hold with us won’t be affected. If you’d like to cancel or make changes to your policy, you’ll need to do this separately.
 
 Your data protection rights
 ---------------------------
