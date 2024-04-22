@@ -24,13 +24,9 @@ DirectTV](https://www.bfmtv.com/en-direct/ "Direct tv")
 
 [![Regarder le direct](/assets/v5/images/BFMTV.848c19e09c92f3ced2163a1a0399be11.svg)
 
-Regarder le direct](https://www.bfmtv.com/en-direct/ "Regarder le direct")
+Regarder le direct](https://www.bfmtv.com/en-direct/ "Regarder le direct")[![Écouter la radio](/assets/v5/images/BFM-Radio.2afb246578899c5f8d87d1f216c22953.svg)
 
-![Écouter la radio](/assets/v5/images/BFM-Radio.2afb246578899c5f8d87d1f216c22953.svg)
-
-Écouter la radio
-
-[![Replay BFMTV](/assets/v5/images/RMC-BFM-Play-radio.62cafa0ab4419da4ac6039b204f52a3e.svg)
+Écouter la radio](https://www.bfmtv.com/en-direct/bfm-radio/ "Écouter la radio")[![Replay BFMTV](/assets/v5/images/RMC-BFM-Play-radio.62cafa0ab4419da4ac6039b204f52a3e.svg)
 
 Replay BFMTV](https://www.rmcbfmplay.com/chaine/bfm-tv?subMenuId=RefMenuItem::rmcgo_home_bfmtv "Replay BFMTV")
 
@@ -78,7 +74,6 @@ Suivant
 Rubriques
 
 * [News 24/7](https://www.bfmtv.com/news-24-7/ "News 24/7")
-* [Élections européennes](https://www.bfmtv.com/politique/elections/europeennes/ "Élections européennes")
 * [Politique](https://www.bfmtv.com/politique/ "Politique")
 * [Police-justice](https://www.bfmtv.com/police-justice/ " Police-justice ")
 * [International](https://www.bfmtv.com/international/ "International")
@@ -135,7 +130,7 @@ NEXTRADIOTV et ses marques (BFM, RMC, Tech&Co, Zone-Turf) peuvent recueillir dir
 
 Les différentes catégories de données personnelles collectées lors votre souscription et/ou dans le cadre de votre utilisation de nos services ou applications sont les suivantes :
 
-* Données d’identification (notamment nom, prénom, date de naissance, âge, numéro de client);
+* Données d’identification (notamment nom, prénom, numéro de client);
 * Données de contact (notamment adresse postale ou électronique);
 * Données d’usage (notamment pages web visitées);
 * Données de connexion (notamment adresse IP de votre ordinateur, logs de connexion et d’usage);
@@ -146,39 +141,9 @@ Les différentes catégories de données personnelles collectées lors votre sou
 * Réponses à nos enquêtes;
 * Cookies et autres traceurs (cf. [Politique de cookies](https://www.bfmtv.com/cookies/)).
 
-### Utilisation de la technologie Utiq
-
-La technologie Utiq est fournie par Utiq SA/NV, une société européenne d’Adtech, en collaboration avec des opérateurs télécoms qui l’alimentent. Cette technologie contribue à réaliser nos activités de marketing digital.
-
-Nous utilisons la technologie Utiq sur ce site web. Si vous consentez à son activation, nous l’utiliserons pour vous reconnaître en tant que même visiteur et collecter des informations sur votre navigation sur ce site web afin de vous offrir du contenu et de la publicité personnalisés et réaliser des analyses, dans le respect des consentements que vous nous avez donnés. Si vous activez la technologie Utiq sur certains de nos autres sites web, nous pourrons vous y reconnaître et lier vos activités sur ces sites web.
-
-Cette technologie n’est pas activée par défaut et nécessite votre consentement pour être utilisée. Elle ne peut l’être que si vous êtes également client d’un des opérateurs télécom partenaires d’Utiq.
-
-Nous agissons en tant que responsable de traitement conjoint avec Utiq pour les traitements de données effectués dans le cadre de certaines finalités. Dans le cadre de notre accord de responsables conjoints :
-
-* Nous collectons votre consentement à l’activation de la technologie Utiq, qui inclut les traitements de données effectués par Utiq et votre opérateur télécom en vue de cette activation
-* Nous vous offrons un lien dédié au bas de ce site web pour vous fournir des informations sur cette technologie et les contrôles qui vous sont offerts.
-* Utiq met à votre disposition un portail ([consenthub](https://consenthub.utiq.com/)) pour faciliter l’exercice de vos droits en matière de protection des données et vous permettre de gérer facilement vos consentements Utiq. À tout moment. En un seul endroit.
-* Ainsi même si vous pouvez exercer vos droits à l’égard de l’un des responsables de traitement, Utiq demeure le point de contact principal pour toute question ou demande que vous pourriez avoir en relation avec la technologie Utiq.
-
-Pour consulter et gérer tous les consentements Utiq que vous avez donné jusqu’à présent, accédez au [consenthub](https://consenthub.utiq.com/) d'Utiq.
-
-Vous pouvez également retirer votre consentement Utiq uniquement pour ce site [ici](https://www.bfmtv.com/cookies/#utiqOut)
-
-Pour plus d'informations, veuillez consulter la [Politique relative à l’utilisation des données personnelles d’Utiq.](https://consenthub.utiq.com/pages/privacy-statement)
-
 NEXTRADIOTV n’a aucun contrôle sur les résultats des moteurs de recherche tels que Google. Lors de la suppression de vos données sur nos sites, NEXTRADIOTV demande la désindexation de la page supprimée.
 
   
-
-### First ID
-
-Lors de votre navigation sur les sites NextRadioTV, sous réserve de consentement, nous pouvons utiliser un identifiant personnalisé afin d’améliorer votre expérience de navigation sur le site, aussi bien pour la personnalisation du contenu que des publicités ciblées.
-
-  
-Cet identifiant unique est stocké dans un cookie et est réglementé par les consentements donnés sur les sites d’un réseau d’éditeurs et fournisseurs AdTech, également à des fins de suivi de fonctionnement de l’ID, généré par la société First-ID (co-responsable de traitement).
-
-Cet identifiant ne permet pas de vous identifier directement, mais permet de suivre votre navigation afin de mieux vous connaître. Pour en savoir plus, consultez la politique de confidentialité First-ID : [https://www.first-id.fr/politique-de-confidentialite](https://www.first-id.fr/politique-de-confidentialite). Vous pouvez consulter votre identifiant sur la page : [whatismy.first-id.fr](https://whatismy.first-id.fr/) et vous opposer au traitement.
 
 ### Sur quelle base légale collectons-nous vos données personnelles ?
 
@@ -229,6 +194,20 @@ Vos données à caractère personnelle sont collectées et traitées uniquement 
 * Dépôt de cookies et traceurs (**[cf. politique cookies](https://www.bfmtv.com/cookies/)**);
 * Affichage de publicités, y compris plafonnement de l’affichage, lutte contre la fraude au clic, facturation de la prestation, mesure d’audience;
 * Sécurisation du réseau.
+* Service Utiq
+
+Nous utilisons le Service Utiq sur ce site internet. Le Service Utiq est exploité par Utiq SA/NV et fourni en partenariat avec votre opérateur téléphonique et des sites partenaires comme le nôtre. Nous sommes des responsables conjoints avec Utiq pour fournir le Service Utiq. Dans le cadre de notre accord de responsables conjoints :  
+
+Le traitement lié au Service Utiq est basé sur le consentement que nous recueillons pour le compte de l'écosystème Utiq sur nos sites Web où nous intégrons le Service Utiq.
+
+Pour les sites Web où nous intégrons le Service Utiq, vous aurez accès à un lien dédié dans le pied de page pour vous fournir des informations sur le service, commenter le gérer et vous informer de notre partenariat avec Utiq.
+
+Utiq a mis à votre disposition un portail de confidentialité centralisé ( **[consenthub](https://consenthub.utiq.com/)** ) pour faciliter l'exercice de vos droits en matière de protection des données et vous permettre de gérer facilement vos consentements Utiq et vos préférences de confidentialité du Service Utiq. À tout moment. Dans un seul endroit.
+
+Nonobstant le fait que vous pouvez exercer vos droits à l'égard de l'un des contrôleurs, Utiq agit en tant que point de contact commun pour toute question ou demande que vous pourriez avoir en relation avec le Service Utiq.
+
+  
+Le Service Utiq vous offre un contrôle accru et une transparence sur l'utilisation de vos données lorsque vous activez une expérience personnalisée ou des analyses sur des sites partenaires d'Utiq.Utiq est un service facultatif. Cela signifie qu'il n'est pas activé par défaut et qu'il est uniquement activé lorsque vous donnez votre consentement sur un participant au site, via la fenêtre pop-up de consentement Utiq dédiée.Si vous avez donné votre consentement pour activer le Service Utiq lors de votre première visite sur notre site, Utiq ne partagera avec nous que deux signaux publicitaires sécurisés. Ils sont appelés **martechpass** et **adtechpass** , ce sont des valeurs aléatoires générées par Utiq qui, sans révéler votre identité, nous permettent de vous reconnaître comme le même visiteur. Nous les utiliserons ensuite pour vous offrir une expérience personnalisée ou réaliser des analyses, en fonction des finalités pour lesquelles vous avez donné votre consentement. Le **martechpass** et **adtechpass** expirent respectivement après 90 jours ou 24 heures et sont stockés sur votre navigateur avec les cookies associés.Vous pouvez trouver plus d'informations sur le Service Utiq dans le **[consenthub](https://consenthub.utiq.com/)** d'Utiq ou dans **[la Déclaration de confidentialité d'Utiq](https://consenthub.utiq.com/pages/privacy-statement)**.  
 
   
 
@@ -281,14 +260,13 @@ Vos données à caractère personnel peuvent être conservées ou supprimées ap
 
 Vous pouvez exercer vos droits à tout moment en nous contactant aux adresses suivantes :
 
-* BFMTV : **[donnees-personnelles@bfmtv.fr](mailto:donnees-personnelles@bfmtv.fr)**
-* RMC : **[donnees-personnelles@rmc.fr](mailto:donnees-personnelles@rmc.fr)**
-* RMC Sport : **[donnees-personnelles@rmcsport.fr](mailto:donnees-personnelles@rmcsport.fr)**
-* RMC BFM Play : **[donnees-personnelles@rmcbfmplay.com](mailto:donnees-personnelles@rmcbfmplay.com)**
-* BFM Business : **[donnees-personnelles@bfmbusiness.fr](mailto:donnees-personnelles@bfmbusiness.fr)**
-* RMC Crime : **[donnees-personnelles@rmc.fr](mailto:donnees-personnelles@rmc.fr)**
-* Pôle Évènement / Régie Publicitaire : **[donnees-personnelles.nextms@alticemedia.com](https://mailto:donnees-personnelles.nextms@alticemedia.com/)**
-* Jeux concours : **[digital@alticemedia.com](https://mailto:digital@alticemedia.com/)**
+* BFMTV : [donnees-personnelles@bfmtv.fr](mailto:donnees-personnelles@bfmtv.fr)
+* RMC : [donnees-personnelles@rmc.fr](mailto:donnees-personnelles@rmc.fr)
+* RMC Sport : [donnees-personnelles@rmcsport.fr](mailto:donnees-personnelles@rmcsport.fr)
+* RMC BFM Play : [donnees-personnelles@rmcbfmplay.com](mailto:donnees-personnelles@rmcbfmplay.com)
+* BFM Business : [donnees-personnelles@bfmbusiness.fr](mailto:donnees-personnelles@bfmbusiness.fr)
+* RMC Crime : [donnees-personnelles@rmc.fr](mailto:donnees-personnelles@rmc.fr)
+* Pôle Évènement / Régie Publicitaire : [donnees-personnelles@nextms.fr](mailto:donnees-personnelles@nextms.fr)
 
   
 
@@ -314,7 +292,7 @@ Nous sommes susceptibles de faire évoluer la présente politique de protection 
 
   
 
-_Date dernière mise à jour : Juin 2024_
+_Date dernière mise à jour : Mars 2024_
 
 * [BFMTV](https://www.bfmtv.com/ "BFMTV")
 * Politique données personnelles
@@ -322,15 +300,17 @@ _Date dernière mise à jour : Juin 2024_
 Les plus lus
 ------------
 
-1. [![Le jeune Émile, 2 ans et demi, disparu le 8 juillet dans le village du Haut-Vernet (Alpes-de-Haute-Provence)](https://images.bfmtv.com/fwTNccQOfQF10I6HMTfIo-GumYA=/108x156:1196x768/300x0/images/Le-jeune-Emile-2-ans-et-demi-disparu-le-8-juillet-dans-le-village-du-Haut-Vernet-Alpes-de-Haute-Provence-1696189.jpg)
+1. [![Le chanteur français Kendji Maille alias 'Kendji Girac' pose sur le tapis rouge avant la 23ème cérémonie des NRJ Music Awards le 20 novembre 2021.
+    ](https://images.bfmtv.com/nHYaigkWi_ne_Y-pmJ8lTYn0KIQ=/0x50:1824x1076/300x0/images/Le-chanteur-francais-Kendji-Maille-alias-Kendji-Girac-pose-sur-le-tapis-rouge-avant-la-23eme-ceremonie-des-NRJ-Music-Awards-le-20-novembre-2021-1848985.jpg)
     
-    ![Le jeune Émile, 2 ans et demi, disparu le 8 juillet dans le village du Haut-Vernet (Alpes-de-Haute-Provence)](https://images.bfmtv.com/fwTNccQOfQF10I6HMTfIo-GumYA=/108x156:1196x768/300x0/images/Le-jeune-Emile-2-ans-et-demi-disparu-le-8-juillet-dans-le-village-du-Haut-Vernet-Alpes-de-Haute-Provence-1696189.jpg)
+    ![Le chanteur français Kendji Maille alias 'Kendji Girac' pose sur le tapis rouge avant la 23ème cérémonie des NRJ Music Awards le 20 novembre 2021.
+    ](https://images.bfmtv.com/nHYaigkWi_ne_Y-pmJ8lTYn0KIQ=/0x50:1824x1076/300x0/images/Le-chanteur-francais-Kendji-Maille-alias-Kendji-Girac-pose-sur-le-tapis-rouge-avant-la-23eme-ceremonie-des-NRJ-Music-Awards-le-20-novembre-2021-1848985.jpg)
     
-    ### Mort d’Émile: deux mois après la découverte des ossements, l’insoutenable attente du Haut-Vernet](https://www.bfmtv.com/bfm-dici/mort-d-emile-deux-mois-apres-la-decouverte-des-ossements-l-insoutenable-attente-du-haut-vernet_AN-202406070898.html "Mort d’Émile: deux mois après la découverte des ossements, l’insoutenable attente du Haut-Vernet")
-2. [### Tombe du Soldat inconnu, dîner à l'Élysée... Le programme de la visite d'État de Joe Biden en France](https://www.bfmtv.com/international/amerique-nord/etats-unis/tombe-du-soldat-inconnu-diner-a-l-elysee-le-programme-de-la-visite-d-etat-de-joe-biden-en-france_AN-202406080053.html "Tombe du Soldat inconnu, dîner à l'Élysée... Le programme de la visite d'État de Joe Biden en France")
-3. [### Neuf ans, études à distance... Qui est cette candidate strasbourgeoise, la plus jeune à passer le bac en 2024?](https://www.bfmtv.com/alsace/neuf-ans-etudes-a-distance-qui-est-cette-candidate-strasbourgeoise-la-plus-jeune-a-passer-le-bac-en-2024_AD-202406070869.html "Neuf ans, études à distance... Qui est cette candidate strasbourgeoise, la plus jeune à passer le bac en 2024?")
-4. [### Peut-on faire confiance aux influenceurs food? Dans les coulisses de la recommandation de restaurants](https://www.bfmtv.com/tech/actualites/reseaux-sociaux/peut-on-faire-confiance-aux-influenceurs-food-dans-les-coulisses-de-la-recommandation-de-restaurants_AN-202406080052.html "Peut-on faire confiance aux influenceurs food? Dans les coulisses de la recommandation de restaurants")
-5. [### "Je ne veux plus jamais entendre la moindre question à ce sujet": la réponse froide de Zverev sur la fin de son procès pour violences conjugales](https://rmcsport.bfmtv.com/tennis/roland-garros/je-ne-veux-plus-jamais-entendre-la-moindre-question-a-ce-sujet-la-reponse-froide-de-zverev-sur-la-fin-de-son-proces-pour-violences-conjugales_AV-202406070936.html ""Je ne veux plus jamais entendre la moindre question à ce sujet": la réponse froide de Zverev sur la fin de son procès pour violences conjugales")
+    ### Kendji Girac hospitalisé à Bordeaux: ce que l'on sait sur sa grave blessure par balle](https://www.bfmtv.com/police-justice/kendji-girac-hospitalise-a-bordeaux-ce-que-l-on-sait-sur-sa-grave-blessure-par-balle_AV-202404220326.html "Kendji Girac hospitalisé à Bordeaux: ce que l'on sait sur sa grave blessure par balle")
+2. [### "Pourquoi ne pas protéger l'espace aérien ukrainien?": Zelensky s'interroge après l'aide de la France en Israël](https://www.bfmtv.com/international/europe/ukraine/pourquoi-ne-pas-proteger-l-espace-aerien-ukrainien-zelensky-s-interroge-apres-l-aide-de-la-france-en-israel_AN-202404220341.html ""Pourquoi ne pas protéger l'espace aérien ukrainien?": Zelensky s'interroge après l'aide de la France en Israël")
+3. [### Donald Trump jugé au pénal: à quoi faut-il s'attendre après la sélection des jurés?](https://www.bfmtv.com/international/amerique-nord/etats-unis/donald-trump-juge-au-penal-a-quoi-faut-il-s-attendre-apres-la-selection-des-jures_AD-202404220304.html "Donald Trump jugé au pénal: à quoi faut-il s'attendre après la sélection des jurés?")
+4. [### Lieu, date, heure… sur Tinder, vous pouvez prévenir votre entourage de votre rendez-vous](https://www.bfmtv.com/tech/vie-numerique/lieu-date-heure-sur-tinder-vous-pouvez-prevenir-votre-entourage-de-votre-rendez-vous_AV-202404220446.html "Lieu, date, heure… sur Tinder, vous pouvez prévenir votre entourage de votre rendez-vous")
+5. [### MMA: la date du grand retour de Doumbè est connue (son adversaire également)](https://rmcsport.bfmtv.com/sports-de-combat/mma/pfl-bellator/mma-la-date-du-grand-retour-de-doumbe-est-connue-son-adversaire-egalement_AD-202404220310.html "MMA: la date du grand retour de Doumbè est connue (son adversaire également)")
 
 ![BFMTV](/assets/v5/images/BFMTV.848c19e09c92f3ced2163a1a0399be11.svg "BFMTV")
 
@@ -382,7 +362,6 @@ en savoir plus
 * [Mentions légales](https://www.bfmtv.com/mentions-legales/ "Mentions légales")
 * [Données personnelles](https://www.bfmtv.com/politique-donnees-personnelles/ "Données personnelles")
 * [Cookies](https://www.bfmtv.com/cookies/ "Cookies")
-* [Gérer Utiq](https://www.bfmtv.com/cookies#utiq "Gérer Utiq")
 * [CGU](https://www.bfmtv.com/cgu/ "CGU")
 * [Charte de déontologie](https://www.bfmtv.com/charte-deontologie/ "Charte de déontologie")
 
