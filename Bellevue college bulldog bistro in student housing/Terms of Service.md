@@ -10,7 +10,7 @@ Please visit our Cookie policy for more information.
 
 * * *
 
-Accept all Reject all Change preferences
+Accept all Reject all Change Preferences
 
 ### Cookie Preferences
 
@@ -31,7 +31,7 @@ These cookies allow the Controller’s web application to remember choices you m
 
 These cookies can also be used to remember changes you have made to text size, language and other parts of web pages that you can customize.
 
-The information these cookies collect will not personally identify you, and they cannot track your browsing activity on non Controller’s websites.
+The information these cookies collect will not personally identify you, and they cannot track your browsing activity on non- Controller’s websites.
 
 For reliable review of your order status, on-screen on the application, in real-time, and also for easy reordering, your data may be saved on your device, serving a cookie locally. View cookies.
 
