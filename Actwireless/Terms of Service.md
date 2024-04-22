@@ -117,7 +117,7 @@ implemented a policy that provides for the termination in appropriate circumstan
 * A statement that the complaining party has a good-faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law; and
 * A statement that the information in the notification is accurate, and under penalty of perjury, that the complaining party is authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
 
-Notifications may be sent to our designated Copyright Agent at the following address: [CopyrightAgent@ACTwireless.org](mailto:CopyrightAgent@actwireless.org).
+Notifications may be sent to our designated Copyright Agent at the following address: [CopyrightAgent@ACTwireless.org](mailto:CopyrightAgent@ACTwireless.org).
 
 If You would prefer to mail Your notification or counter-notification to our designated agent, You may use the following address:
 
@@ -163,7 +163,7 @@ These Terms are governed by the laws of the District of Columbia, USA. You hereb
 Contact Information.
 --------------------
 
-If You have any questions regarding these Terms or the Website, please contact [info@ACTwireless.org](mailto:info@actwireless.org).
+If You have any questions regarding these Terms or the Website, please contact [info@ACTwireless.org](mailto:info@ACTwireless.org).
 
 Toggle Navigation
 
