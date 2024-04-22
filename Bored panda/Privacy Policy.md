@@ -6,6 +6,30 @@ Bored Panda works better on our iPhone app
 
 [_Modal close_](javascript:void(0))
 
+Like what you're reading?
+
+Subscribe to our top stories
+
+  _Attention_Please enter email address We will not spam you
+
+_Check_Almost finished...
+
+To complete the subscription process, please click the link in the email we just sent you.
+
+[_Modal close_](javascript:void(0))
+
+Like what you're reading?
+
+Let's keep in touch and we'll send more your way.
+
+  _Attention_Please enter email address By submitting email you agree to get Bored Panda newsletter. We respect your privacy. We will not publish or share your email address in any way.
+
+_Check_Almost finished...
+
+To complete the subscription process, please click the link in the email we just sent you.
+
+[_Modal close_](javascript:void(0))
+
 Are you sure you want to post this?
 
 We're asking people to rethink comments that seem similar to others that have been reported or downvoted
@@ -18,69 +42,69 @@ _Dialog close_
 
 Copy Link
 
-[Dialog close](javascript:void(0)) [Dialog close](https://www.boredpanda.com/)
+[x](javascript:void(0)) [x](https://www.boredpanda.com/)
+
+Let's fight boredom together!
+
+[Continue with Facebook](javascript:void(0);) Continue with Google
+
+* * *
+
+or
+
+* * *
+
+Email  Password 
 
 Log In
 
-[_Facebook_ Continue with Facebook](javascript:void(0);)
+[Don't have an account? Sign Up](javascript:void(0);) [Forgot your password?](javascript:void(0);)
 
-Please use a standard web browser (like Safari, Chrome, Firefox, Edge) to log in with Google or Facebook. Social logins don’t work in some apps.
+[Creating an account means you agree with Bored Panda's Terms of Service](https://www.boredpanda.com/terms-of-service/)
 
-* * *
+Become a member
 
-or
+Email  Full Name  Password 
 
-* * *
+[Sign Up](javascript:void(0);) [Have an account? Login](javascript:void(0);) [Forgot your password?](javascript:void(0);)
 
-Log In [Forgot your password?](javascript:void(0);) [New to Bored Panda? Sign Up](javascript:void(0);)
+[Creating an account means you agree with Bored Panda's Terms of Service](https://www.boredpanda.com/terms-of-service/)
 
-By continuing, you agree and acknowledge that you've read to Bored Panda's [Terms of Service](https://www.boredpanda.com/terms-of-service/)
+Password reminder
 
-Sign Up
+Please provide your email address and we will send your password shortly.
 
- I would like to get emails about cool stuff on Bored Panda
+Email 
 
-[_Facebook_ Continue with Facebook](javascript:void(0);)
+[Send](javascript:void(0);) [Have an account? Login](javascript:void(0);) [Don't have an account? Sign Up](javascript:void(0);)
 
-Please use a standard web browser (like Safari, Chrome, Firefox, Edge) to log in with Google or Facebook. Social logins don’t work in some apps.
+If there's a Bored Panda account associated with , you'll receive an email with instructions.
 
-* * *
+If you don't receive an email, please check your spam inbox, or [enter your email address again](javascript:void(0)).
 
-or
+[Have an account? Login](javascript:void(0);) [Don't have an account? Sign Up](javascript:void(0);)
 
-* * *
+Get our top 10 stories in your inbox:
 
- 
+![](https://assets.boredpanda.com/blog/wp-content/themes/boredpanda/images/bored-panda-newsletter-simplified.svg)
 
-[Sign Up](javascript:void(0);) [Forgot your password?](javascript:void(0);) [Have an account? Log In](javascript:void(0);)
+ Great! Never
 
-By continuing, you agree and acknowledge that you've read to Bored Panda's [Terms of Service](https://www.boredpanda.com/terms-of-service/)
-
-Reset your password
-
-Enter your email address or username and we’ll send you a link to reset your password
-
-[Send](javascript:void(0);) [New to Bored Panda? Sign Up](javascript:void(0);)
-
-By continuing, you agree and acknowledge that you've read to Bored Panda's [Terms of Service](https://www.boredpanda.com/terms-of-service/)
-
-Check your inbox
-
-An email with a link to reset your password was sent to the email address associated with your account
-
-Didn't get an email? [Resend](javascript:void(0);)
-
-Provide email
+Finish
 
 Please enter your email to complete registration
 
-[Complete](javascript:void(0);)
+Email 
+
+[Finish](javascript:void(0);)
 
 Activate to continue
 
-Your account isn't active yet. We've emailed you an activation link. Please check your inbox and click the link to activate your account
+Your account is not active. We have sent an email to the address you provided with an activation link. Check your inbox, and click on the link to activate your account.
 
-[I have already activated my account](javascript:void(0);) [Resend activation link](javascript:void(0);)
+[I have already activated my account](javascript:void(0);)
+
+[Resend activation link](javascript:void(0);)
 
 We and our trusted partners use technology such as cookies on our site to personalize content and ads, provide social media features, and analyze our traffic. You can read more about it and change your preferences [here](https://www.boredpanda.com/privacy-policy/).
 
@@ -102,11 +126,11 @@ By using our services you agree to our use of cookies to improve your visit. You
 
 Agree
 
-[BoredPanda](https://www.boredpanda.com/) [Log in](javascript:void(0);) [_Add post form top_Add Post](https://www.boredpanda.com/add-new-post/)
+[BoredPanda](https://www.boredpanda.com/) [Login](javascript:void(0);) [_Add post form top_Add Post](https://www.boredpanda.com/add-new-post/)
 
 [](javascript:void(0);)
 
-[](javascript:void(0);)
+[Search](javascript:void(0))
 
 [_Tooltip close_](javascript:void(0))
 
@@ -144,8 +168,8 @@ Agree
 * [Science & Technology](https://www.boredpanda.com/science-technology/)
 * [Occasions](https://www.boredpanda.com/occasions/)
 * [Wholesome](https://www.boredpanda.com/wholesome/)
-* [Pet Wellness](https://www.boredpanda.com/pet-wellness/)
 * [Quotes](https://www.boredpanda.com/quotes/)
+* [Pet Wellness](https://www.boredpanda.com/pet-wellness/)
 * [Health](https://www.boredpanda.com/health/)
 * [Environment](https://www.boredpanda.com/environment/)
 * [Facts](https://www.boredpanda.com/facts/)
@@ -182,8 +206,8 @@ Agree
     * [Science & Technology](https://www.boredpanda.com/science-technology/)
     * [Occasions](https://www.boredpanda.com/occasions/)
     * [Wholesome](https://www.boredpanda.com/wholesome/)
-    * [Pet Wellness](https://www.boredpanda.com/pet-wellness/)
     * [Quotes](https://www.boredpanda.com/quotes/)
+    * [Pet Wellness](https://www.boredpanda.com/pet-wellness/)
     * [Health](https://www.boredpanda.com/health/)
     * [Environment](https://www.boredpanda.com/environment/)
     * [Facts](https://www.boredpanda.com/facts/)
@@ -213,21 +237,21 @@ Agree
 * [Science & Technology](https://www.boredpanda.com/science-technology/)
 * [Occasions](https://www.boredpanda.com/occasions/)
 * [Wholesome](https://www.boredpanda.com/wholesome/)
-* [Pet Wellness](https://www.boredpanda.com/pet-wellness/)
 * [Quotes](https://www.boredpanda.com/quotes/)
+* [Pet Wellness](https://www.boredpanda.com/pet-wellness/)
 * [Health](https://www.boredpanda.com/health/)
 * [Environment](https://www.boredpanda.com/environment/)
 * [Facts](https://www.boredpanda.com/facts/)
 * [Reviews](https://www.boredpanda.com/reviews/)
 
-* [](javascript:void(0);)
+* [_Search_](javascript:void(0);)
     
-    [](javascript:void(0))
+    [_Tooltip close_](javascript:void(0))
     
 * [](javascript:void(0);)
     
 * [_Add post form top_ Add post](https://www.boredpanda.com/add-new-post/)
-* [Log in](javascript:void(0);)
+* [Login / Register](javascript:void(0);)
 
 * [Featured](https://www.boredpanda.com/)
 * [Trending](https://www.boredpanda.com/?show=trending)
