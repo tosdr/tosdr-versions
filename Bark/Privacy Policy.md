@@ -21,11 +21,11 @@
 * [Resources](https://www.bark.us/learn/resources/)
 * [Blog](https://www.bark.us/blog/)
 
-[Log in](https://www.bark.us/login) [Start free trial](https://www.bark.us/signup/)
+[Login](https://www.bark.us/login) [Start free trial](https://www.bark.us/signup/)
 
 [Start free trial](https://www.bark.us/signup/)
 
-[Log in](https://www.bark.us/login) [Start free trial](https://www.bark.us/signup/)
+[Login](https://www.bark.us/login) [Start free trial](https://www.bark.us/signup/)
 
 Bark Privacy Policy
 -------------------
