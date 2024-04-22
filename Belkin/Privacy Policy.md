@@ -1,14 +1,14 @@
 [Skip to main content](#maincontent "Skip to main content") [Skip to footer content](#footercontent "Skip to footer content")
 
-Save up to 20% for dads and grads. [Shop now.](https://www.belkin.com/products/)
+Grow with Us. During Earth Month Belkin will donate $1 from each sale\* to [One Tree Planted](https://onetreeplanted.org/?g_adtype=&g_network=x&g_keyword=&g_placement=&g_campaignid=21082897388&g_adid=&g_merchantid=&g_ifcreative=&g_locphysical=9031148&g_source=%7bsourceid%7d&g_keywordid=&g_campaign=account&g_acctid=611-028-5007&g_partition=&g_productchannel=&g_productid=&g_ifproduct=&g_locinterest=&g_adgroupid=&gad_source=1&gclid=Cj0KCQjwqpSwBhClARIsADlZ_TkfC5yRDNhIqjq6xQCvJwxKfCLtW2FBI5lVz0GEsYMQf5drM-AjBuAaAuiWEALw_wcB). \*_Excluding clearance and refurbished products._ 
 
-![](https://s3.belkin.com/resources/img/design%26quality/belkin-979798-design-and-quality-campaign-2024-pencil-banner-desktop-200x200-us-v1.png)Designed in California | Belkin story of design and quality. [Learn more.](https://www.belkin.com/company/about-us/)
+![](https://s3.belkin.com/resources/img/everday-impact/belkin-everyday-impact-campaign-dotcom-pdp-pencil-banner-icon-r1-v2-us.png)How can we make a better future? Through everyday impact. [Learn more](https://www.belkin.com/company/everyday-impact/)
 
 Close
 
 Toggle navigation
 
-[![Belkin US](/on/demandware.static/Sites-BELKUS-Site/-/default/dw7968184f/images/brand/belkin_logo_notm.svg)](https://www.belkin.com/ "Belkin US Home")
+[![Belkin US](/on/demandware.static/Sites-BELKUS-Site/-/default/dwba25c990/images/brand/belkin_logo_notm.svg)](https://www.belkin.com/ "Belkin US Home")
 
 Back
 
@@ -24,7 +24,10 @@ Close ×
     * [Special Offers](https://www.belkin.com/shop-by/special-offers/ "Special Offers")
         
         * [New Arrivals](https://www.belkin.com/shop-by/special-offers/new-arrivals/ "New Arrivals")
+        * [Sale](https://www.belkin.com/shop-by/special-offers/sale/ "Sale")
+        * [Exclusive Deals](https://www.belkin.com/shop-by/special-offers/exclusive-deals/ "Exclusive Deals")
         * [Certified Refurbished](https://www.belkin.com/shop-by/special-offers/certified-refurbished/ "Certified Refurbished")
+        * [Clearance](https://www.belkin.com/shop-by/special-offers/clearance/ "Clearance")
         * [Earn Belkin Rewards](https://www.belkin.com/belkin-rewards.html "Earn Belkin Rewards")
         
     * [Collections](# "Collections")
@@ -35,7 +38,6 @@ Close ×
         * [Samsung Galaxy S24 Favorites](https://www.belkin.com/shop-by/collections/samsung-galaxy-s24-favorites/ "Samsung Galaxy S24 Favorites")
         * [Best Travel Accessories](https://www.belkin.com/shop-by/collections/best-travel-accessories/ "Best Travel Accessories")
         
-    * [AT&T Deals](https://www.belkin.com/att-deals/ "AT&T Deals")
     
     * null
         
@@ -118,8 +120,8 @@ Close ×
     * [Sale](https://www.belkin.com/shop-by/special-offers/sale/ "Sale")
     * [Exclusive Deals](https://www.belkin.com/shop-by/special-offers/exclusive-deals/ "Exclusive Deals")
     * [Certified Refurbished](https://www.belkin.com/shop-by/special-offers/certified-refurbished/ "Certified Refurbished")
+    * [Clearance](https://www.belkin.com/shop-by/special-offers/clearance/ "Clearance")
     * [Earn Belkin Rewards](https://www.belkin.com/belkin-rewards.html "Earn Belkin Rewards")
-    * [AT&T Deals](https://www.belkin.com/att-deals/ "AT&T Deals")
     
 * [Shop By](# "Shop By")
     
@@ -131,7 +133,10 @@ Close ×
     * [Special Offers](https://www.belkin.com/shop-by/special-offers/ "Special Offers")
         
         * [New Arrivals](https://www.belkin.com/shop-by/special-offers/new-arrivals/ "New Arrivals")
+        * [Sale](https://www.belkin.com/shop-by/special-offers/sale/ "Sale")
+        * [Exclusive Deals](https://www.belkin.com/shop-by/special-offers/exclusive-deals/ "Exclusive Deals")
         * [Certified Refurbished](https://www.belkin.com/shop-by/special-offers/certified-refurbished/ "Certified Refurbished")
+        * [Clearance](https://www.belkin.com/shop-by/special-offers/clearance/ "Clearance")
         * [Earn Belkin Rewards](https://www.belkin.com/belkin-rewards.html "Earn Belkin Rewards")
         
     * [Collections](# "Collections")
@@ -142,7 +147,6 @@ Close ×
         * [Samsung Galaxy S24 Favorites](https://www.belkin.com/shop-by/collections/samsung-galaxy-s24-favorites/ "Samsung Galaxy S24 Favorites")
         * [Best Travel Accessories](https://www.belkin.com/shop-by/collections/best-travel-accessories/ "Best Travel Accessories")
         
-    * [AT&T Deals](https://www.belkin.com/att-deals/ "AT&T Deals")
     
 * [Support](# "Support")
     
@@ -210,14 +214,13 @@ Close ×
         * [Education Brochure](https://brochure.belkin.com/education/ "Education Brochure")
         * [Tools for Enhancing Education](https://issuu.com/belkinbusiness/docs/tech_in_a_class_of_it_s_own_flyer_c5eb1ce32b382e?fr=sNTNlNDgwMTY "Tools for Enhancing Education")
         * [Windows Ecosystem](https://brochure.belkin.com/windows-ecosystem/ "Windows Ecosystem")
-        * [Hub Power Pairings](https://brochure.belkin.com/usb-c-core-gan-power-adapter-100w/ "Hub Power Pairings")
         
     
 
 * * [Sign Up/Sign In](https://www.belkin.com/login/)
     * [Where to buy](https://www.belkin.com/where-to-buy/?id=online "Where to buy")
 
- ![Commerce Cloud Storefront Reference Architecture](/on/demandware.static/Sites-BELKUS-Site/-/default/dw517cbfea/images/globe-white.svg) United States
+ ![Commerce Cloud Storefront Reference Architecture](/on/demandware.static/Sites-BELKUS-Site/-/default/dwc6c7430a/images/globe-white.svg) United States
 
 Change region
 
@@ -279,7 +282,7 @@ Password
 
 [View Account](https://www.belkin.com/login/ "View Account") [Create Account](https://www.belkin.com/login/?action=register "Create Account")
 
-[0 Cart](https://www.belkin.com/cart/)
+[0](https://www.belkin.com/cart/)
 
  
 
@@ -293,14 +296,14 @@ Email
 
 Submit
 
-  ![man sitting on stairs using a laptop](/on/demandware.static/Sites-BELKUS-Site/-/default/dwee01d38e/images/1x1.png "man sitting on stairs using a laptop")
+  ![man sitting on stairs using a laptop](/on/demandware.static/Sites-BELKUS-Site/-/default/dwd8845e2c/images/1x1.png "man sitting on stairs using a laptop")
 
-![](https://www.belkin.com/on/demandware.static/-/Library-Sites-Belkin-Shared-Library/default/dw18cac008/img/logos/belkin-wemo-logo.png)
+![](https://www.belkin.com/on/demandware.static/-/Library-Sites-Belkin-Shared-Library/default/dw074a4828/img/logos/belkin-linksys-wemo-logo.png)
 
 COORDINATED VULNERABILITY DISCLOSURE PROGRAM
 ============================================
 
-Belkin International places a high value on the security of its products.
+Belkin International places a high value on security of its networking products. For many people, their home Wi-Fi router is the only barrier between their home network and a multitude of hostile internet threats intent on taking over their devices.
 
   
 
@@ -309,6 +312,8 @@ To protect our user’s privacy and security, Belkin is happy to accept all vuln
 IN SCOPE
 --------
 
+* Belkin routers, range extenders, keyboards, and other networked devices
+* Linksys routers, range extenders, Wi-Fi dongles, switches, and other networked devices
 * WeMo home automation switches, light bulbs, cameras, and other networked devices
 
 NOT IN SCOPE
@@ -318,19 +323,29 @@ NOT IN SCOPE
 
   
 
-* Belkin.com and Wemo.com web endpoints
-* Wemo Cloud
+* Belkin.com, Linksys.com, and WeMo.com web endpoints
+* WeMo Cloud
+* Linksys Smart Wi-Fi web and cloud endpoints
 * Social Engineering and Phishing attacks against Belkin employees, contractors, customers, or support
-* Belkin-branded Wi-Fi routers and range extenders: these products are produced and supported by Linksys ([www.linksys.com](http://www.linksys.com/))
 
 HOW TO SUBMIT
 -------------
 
 **PLEASE READ THE ENTIRE PAGE PRIOR TO SUBMITTING A VULNERABILITY.**
 
-If we can provide you assistance other than the reporting of a specific product security vulnerability, please contact Belkin Customer Advocacy:
+  
+
+If you need help finding your Wi-Fi password or believe your router has been hacked, please contact Technical support below:
+
+  
+
+[Linksys](https://www.linksys.com/us/support-article?articleNum=155198 "Linksys")
+
+  
 
 [Belkin](https://www.belkin.com/support-article/?articleNum=55022 "belkin")
+
+  
 
 Please [click here](https://www.belkin.com/security-form.html "VULNERABILITY DISCLOSURE FORM") to submit your vulnerability.
 
@@ -361,21 +376,21 @@ To encourage a healthy working relationship with the security research community
 * Perform security tests on their own Belkin products.
 * Perform security tests on Belkin products with the consent of the owner of the product.
 
-![Commerce Cloud Storefront Reference Architecture](/on/demandware.static/Sites-BELKUS-Site/-/default/dwe8bdefd1/images/brand/belkin_logo.svg)
+![Commerce Cloud Storefront Reference Architecture](/on/demandware.static/Sites-BELKUS-Site/-/default/dw5263a510/images/brand/belkin_logo.svg)
 
-Welcome. Would you like to be redirected to the Belkin GB website?
+Bienvenue. Souhaitez-vous être redirigé vers le site web FR de Belkin ?
 
-United Kingdom
+France
 
-YES
+OUI
 
-or
+ou
 
-NO
+NON
 
- Save Preferences
+ Enregistrer vos préférences
 
-[![Belkin US](/on/demandware.static/Sites-BELKUS-Site/-/default/dw4428cdc3/images/brand/belkin-logo-white-plain.svg)](https://www.belkin.com/ "Belkin US Home")
+[![Belkin US](/on/demandware.static/Sites-BELKUS-Site/-/default/dw4092408b/images/brand/belkin-logo-white-plain.svg)](https://www.belkin.com/ "Belkin US Home")
 
 Account
 
@@ -465,11 +480,11 @@ Your selection has been submitted.
 
 [Prefer to connect by text? Sign up here for those, too.](https://belkin.attn.tv/p/E1B/landing-page)
 
-[Belkin Twitter](https://www.twitter.com/belkin) [Belkin Facebook](https://www.facebook.com/belkin) [Belkin Instagram](https://www.instagram.com/belkin) [Belkin LinkedIn](https://www.linkedin.com/company/belkin/) [Belkin Youtube](https://www.youtube.com/belkin) [Belkin TikTok](https://www.tiktok.com/@belkin)
+[](https://www.twitter.com/belkin)[](https://www.facebook.com/belkin)[](https://www.instagram.com/belkin)[](https://www.linkedin.com/company/belkin/)[](https://www.youtube.com/belkin)[](https://www.tiktok.com/@belkin)
 
 © Belkin 2024  |  All Rights Reserved | [Legal & Privacy](https://www.belkin.com/legal/) | [Your Privacy Choices](#)
 
- ![Commerce Cloud Storefront Reference Architecture](/on/demandware.static/Sites-BELKUS-Site/-/default/dw517cbfea/images/globe-white.svg) United States
+ ![Commerce Cloud Storefront Reference Architecture](/on/demandware.static/Sites-BELKUS-Site/-/default/dwc6c7430a/images/globe-white.svg) United States
 
 Change region
 
