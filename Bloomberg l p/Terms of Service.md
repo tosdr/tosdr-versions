@@ -529,7 +529,7 @@ Bloomberg L.P. is authorized and regulated by the UK Financial Conduct Authority
 
 The FCA can be contacted at Tel. +44 20 7066 1000, at its Head Office at 12 Endeavour Square, London, E20 1JN, or by the other methods listed on its website at [https://fca.org.uk/contact](https://fca.org.uk/contact).
 
-The contact at our New York office is: Paul Ramundo, Phone: [+1 (212) 617-7816](tel:+1%20(212)%20617-7816), Fax: +1 (917) 369-3801, Email: [Pramundo@bloomberg.net](mailto:Pramundo@bloomberg.net).
+The contact at our New York office is: Paul Ramundo, Phone: [+1 (212) 617-7816](tel:+1 (212) 617-7816), Fax: +1 (917) 369-3801, Email: [Pramundo@bloomberg.net](mailto:Pramundo@bloomberg.net).
 
 **J. Telecommunication Terms for Taiwanese Customers**
 ------------------------------------------------------
