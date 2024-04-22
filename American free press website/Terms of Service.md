@@ -29,11 +29,11 @@ Search for:
 
 News Ticker
 
-* [\[ June 2, 2024 \] State Rep. Says Border Situation Coming to a Head Subscriber Only](https://americanfreepress.net/state-rep-says-border-situation-coming-to-a-head/ "State Rep. Says Border Situation Coming to a Head")
-* [\[ June 1, 2024 \] Leftist D.C. Rag Admits Majority Supports Harsher Measures to End Invasion National News](https://americanfreepress.net/leftist-d-c-rag-admits-majority-supports-harsher-measures-to-end-invasion/ "Leftist D.C. Rag Admits Majority Supports Harsher Measures to End Invasion")
-* [\[ June 1, 2024 \] Israel’s ‘Abu Ghraib’ Horrors Exposed Subscriber Only](https://americanfreepress.net/israels-abu-ghraib-horrors-exposed/ "Israel’s ‘Abu Ghraib’ Horrors Exposed")
-* [\[ June 1, 2024 \] Russia Committing War Crimes, But the Israelis Are Innocent? Subscriber Only](https://americanfreepress.net/russia-committing-war-crimes-but-the-israelis-are-innocent/ "Russia Committing War Crimes, But the Israelis Are Innocent?")
-* [\[ May 31, 2024 \] Soros & Son Continue Global Crusade Against Freedom of Speech, Thought Subscriber Only](https://americanfreepress.net/soros-son-continue-global-crusade-against-freedom-of-speech-thought/ "Soros & Son Continue Global Crusade Against Freedom of Speech, Thought")
+* [\[ April 6, 2024 \] Judge: ‘Non-Violent’ Illegal Aliens Deserve Second Amendment Rights National News](https://americanfreepress.net/judge-non-violent-illegal-aliens-deserve-second-amendment-rights/ "Judge: ‘Non-Violent’ Illegal Aliens Deserve Second Amendment Rights")
+* [\[ April 6, 2024 \] Legal Drama Continues as Federal Court Blocks Efforts by Texas to Arrest Illegals Subscriber Only](https://americanfreepress.net/legal-drama-continues-as-federal-court-blocks-efforts-by-texas-to-arrest-illegals/ "Legal Drama Continues as Federal Court Blocks Efforts by Texas to Arrest Illegals")
+* [\[ April 5, 2024 \] Boeing Whistleblower Ends Up Dead After Exposing ‘Corner Cutting’ Subscriber Only](https://americanfreepress.net/boeing-whistleblower-ends-up-dead-after-exposing-corner-cutting/ "Boeing Whistleblower Ends Up Dead After Exposing ‘Corner Cutting’")
+* [\[ April 5, 2024 \] Reckless Fiscal, Monetary Policies Undermine U.S. Subscriber Only](https://americanfreepress.net/reckless-fiscal-monetary-policies-undermine-u-s/ "Reckless Fiscal, Monetary Policies Undermine U.S.")
+* [\[ April 5, 2024 \] Big Apple Now the ‘Big Banana’: Cops Out, National Guardsmen In National News](https://americanfreepress.net/big-apple-now-the-big-banana-cops-out-national-guardsmen-in/ "Big Apple Now the ‘Big Banana’: Cops Out, National Guardsmen In")
 
 [Home](https://americanfreepress.net/)TERMS and CONDITIONS
 
@@ -114,7 +114,7 @@ Password
 
 #### CURRENT AFP ISSUE
 
-[![American Free Press](https://americanfreepress.net/assets/images/23&24_2024_AFP_Front_page_pic.jpg "American Free Press")](https://americanfreepress.net/Issue_23_24_AFP_2024_FP.pdf)  
+[![American Free Press](https://americanfreepress.net/assets/images/15&16_2024_AFP_Front_page_pic.jpg "American Free Press")](https://americanfreepress.net/Issue%2015_16_AFP_2024_FP.pdf)  
 
 #### ADVERTISING
 
@@ -128,18 +128,18 @@ Categories Select Category Ad Alternative Health Archive Audio Bookstore Conspir
 
 ###### Recent Articles
 
-* [State Rep. Says Border Situation Coming to a Head](https://americanfreepress.net/state-rep-says-border-situation-coming-to-a-head/)
-* [Leftist D.C. Rag Admits Majority Supports Harsher Measures to End Invasion](https://americanfreepress.net/leftist-d-c-rag-admits-majority-supports-harsher-measures-to-end-invasion/)
-* [Israel’s ‘Abu Ghraib’ Horrors Exposed](https://americanfreepress.net/israels-abu-ghraib-horrors-exposed/)
-* [Russia Committing War Crimes, But the Israelis Are Innocent?](https://americanfreepress.net/russia-committing-war-crimes-but-the-israelis-are-innocent/)
-* [Joe Biden Announces Renewed Push to Ban Some Guns if Re-Elected](https://americanfreepress.net/joe-biden-announces-renewed-push-to-ban-some-guns-if-re-elected/)
+* [Highly Respected Croatian Diplomat Offers Unique Perspective on Balkans, Ukraine, Russia](https://americanfreepress.net/highly-respected-croatian-diplomat-offers-unique-perspective-on-balkans-ukraine-russia/)
+* [Judge: ‘Non-Violent’ Illegal Aliens Deserve Second Amendment Rights](https://americanfreepress.net/judge-non-violent-illegal-aliens-deserve-second-amendment-rights/)
+* [Legal Drama Continues as Federal Court Blocks Efforts by Texas to Arrest Illegals](https://americanfreepress.net/legal-drama-continues-as-federal-court-blocks-efforts-by-texas-to-arrest-illegals/)
+* [Why Didn’t Trump Release JFK Docs?](https://americanfreepress.net/why-didnt-trump-release-jfk-docs/)
+* [Boeing Whistleblower Ends Up Dead After Exposing ‘Corner Cutting’](https://americanfreepress.net/boeing-whistleblower-ends-up-dead-after-exposing-corner-cutting/)
 
 ###### Recent Comments
 
-* Gary on [Contents of Ashley Biden Journal Suppressed by Mainstream Media](https://americanfreepress.net/contents-of-ashley-biden-journal-suppressed-by-mainstream-media/#comment-53509)
-* Me on [Couple Arrested, Charged for Handing Out Legal Flyers](https://americanfreepress.net/couple-arrested-charged-for-handing-out-legal-flyers/#comment-53416)
-* Bill Daniel on [DHS Chief’s Involvement With ‘HIAS’ Raises Eyebrows With Borderwatchers](https://americanfreepress.net/dhs-chiefs-involvement-with-hias-raises-eyebrows-with-borderwatchers/#comment-53414)
-* Jaroslav K. on [2024 Is the Last Year of Free Speech, Democracy in the Western World](https://americanfreepress.net/2024-is-the-last-year-of-free-speech-democracy-in-the-western-world/#comment-53402)
+* Richard Bleznuck on [Big Apple Now the ‘Big Banana’: Cops Out, National Guardsmen In](https://americanfreepress.net/big-apple-now-the-big-banana-cops-out-national-guardsmen-in/#comment-53327)
+* Karl C. Gaiser on [Big Apple Now the ‘Big Banana’: Cops Out, National Guardsmen In](https://americanfreepress.net/big-apple-now-the-big-banana-cops-out-national-guardsmen-in/#comment-53320)
+* Harry on [Why Didn’t Trump Release JFK Docs?](https://americanfreepress.net/why-didnt-trump-release-jfk-docs/#comment-53315)
+* John on [2024 Is the Last Year of Free Speech, Democracy in the Western World](https://americanfreepress.net/2024-is-the-last-year-of-free-speech-democracy-in-the-western-world/#comment-53211)
 
 * [Home](https://americanfreepress.net/)
 * [ABOUT](https://americanfreepress.net/about-afp/)
@@ -178,4 +178,4 @@ Any cookies that may not be particularly necessary for the website to function a
 
 SAVE & ACCEPT
 
-![css.php](https://americanfreepress.net/wp-content/plugins/cookies-for-comments/css.php?k=8a9b2c33f69fe9773bed4bd13516bab6&o=i&t=161626598)
+![css.php](https://americanfreepress.net/wp-content/plugins/cookies-for-comments/css.php?k=8a9b2c33f69fe9773bed4bd13516bab6&o=i&t=1518039861)
