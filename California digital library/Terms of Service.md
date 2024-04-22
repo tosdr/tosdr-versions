@@ -211,7 +211,7 @@ Page owner:
     * [Subscribe to CDL](https://cdlib.org/news/subscribe-to-cdl/)
 
 * [Terms and Conditions](https://cdlib.org/about/policies-and-guidelines/terms-conditions/)
-* [Privacy Statement](https://cdlib.org/about/policies-and-guidelines/privacy-statement/)
+* [Privacy Policy](https://cdlib.org/about/policies-and-guidelines/privacy-policy/)
 * [Accessibility](https://cdlib.org/about/policies-and-guidelines/accessibility/)
 
 Copyright © 2024 The Regents of The University of California [Site text licensed under CC BY 4.0](https://cdlib.org/about/policies-and-guidelines/terms-conditions/#ccl) ![CC BY 4.0](https://licensebuttons.net/l/by/4.0/80x15.png) California Digital Library
