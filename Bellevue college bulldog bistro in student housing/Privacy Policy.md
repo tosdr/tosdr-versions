@@ -10,7 +10,7 @@ Please visit our Cookie policy for more information.
 
 * * *
 
-Accept all Reject all Change preferences
+Accept all Reject all Change Preferences
 
 ### Cookie Preferences
 
@@ -31,7 +31,7 @@ These cookies allow the Controller’s web application to remember choices you m
 
 These cookies can also be used to remember changes you have made to text size, language and other parts of web pages that you can customize.
 
-The information these cookies collect will not personally identify you, and they cannot track your browsing activity on non Controller’s websites.
+The information these cookies collect will not personally identify you, and they cannot track your browsing activity on non- Controller’s websites.
 
 For reliable review of your order status, on-screen on the application, in real-time, and also for easy reordering, your data may be saved on your device, serving a cookie locally. View cookies.
 
@@ -49,6 +49,10 @@ Accept all Reject all Confirm selection
 * [Contact us](https://www.bcfse.com/contact)
 * See MENU & Order
     
+
+Important!
+
+If you do not understand any of the languages in which this document is currently available, we strongly request you not to agree and not accept the agreement and, consequently, not to continue to use the application. In case of any differences between a translation and the English version, the English version prevails. Therefore, by continuing to use our application, you agree and acknowledge that you understood the terms of this document in one of the languages in which they are currently available.
 
 Privacy policy
 ==============
