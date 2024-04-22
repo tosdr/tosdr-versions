@@ -4,52 +4,49 @@
 creates ai solutions  
 apps + software + technology](https://aixeno.com/homepage.html "click or tap to go to the home page - https://aixeno.com/homepage.html")
 
-* [menu](https://aixeno.com/menu.html "menu - aixeno.com")
+[menu - aixeno.com](https://aixeno.com/menu.html "menu - https://aixeno.com/menu.html")
 
 legal
 
 [https://aixeno.com/legal.html](https://aixeno.com/legal.html "legal - https://aixeno.com/legal.html")
 
 Effective Date: January 01, 2022  
-Updated: May 17, 2024
+Updated: April 19, 2024
+
+  
+
+Legal
+=====
 
   
 
 #### Introduction
 
-Every person developing technologies at aixeno inc. and aixeno.com intends to deliver beneficial technologies to everyone, by being fair, reasonable, and consistently lawful in all business relationships and transactions with customers, consumers, and end-users: this legal webpage is the guide for how we intend to deal with everyone fairly and in good faith.
-
-This webpage describes and explains important legal information, rules, agreements, regulations, and policies that altogether apply to; the company aixeno inc. and its technologies, how those technologies are provided to consumers, customers, and end-users through the website  [https://aixeno.com](https://aixeno.com/ "click or tap to go to aixeno.com - https://aixeno.com")  and how to lawfully use those technologies during any business relationships, and transactions with aixeno inc.
+This webpage provides legal information of the company, its technology solutions, and our business relationship with you, the consumer.  
+  
+The legal webpage is located at: [https://aixeno.com/legal.html](https://aixeno.com/legal.html "privacy policy, terms of use, license agreements, all legal notices - aixeno.com")  
+  
+This webpage contains important legal information, rules, agreements, regulations, and law(s), that apply to the company aixeno inc., the technology solutions it creates, how those solutions are made available to consumers through the website [https://aixeno.com](https://aixeno.com/ "click or tap to go to aixeno.com - https://aixeno.com") as a public market, and how you as a consumer should lawfully use those solutions.
 
   
 
 #### Please Read All Legal Information
 
-Please read carefully all legal notices, details, terms and conditions of lawful use before using any aixeno solutions and creations, including without limitation: any websites, apps, software, or other technologies, other data, and other aixeno information.  
+Please read carefully all legal notices, details, terms and conditions of lawful use before using any aixeno inc. solutions and creations, including without limitation: any websites, apps, software, or other technologies, other data, other information.  
   
-**If you do not agree to the legal information, rules, agreements, regulations, policies, and terms of use, on this legal webpage, then you are strictly prohibited from using anything created, owned, controlled or affiliated with aixeno inc.**  
+If you do not agree to the terms of use detailed on this legal webpage, then you are strictly prohibited from using anything created, owned, controlled or affiliated with aixeno inc.  
   
-By using any aixeno inc. website(s), or web links or email links on this site or affiliate sites, (or by using any apps, software, and technologies, data, or information of aixeno), your use of, and benefit from, any information on this website and affiliated websites, or apps, software, and technologies of aixeno inc., will be interpreted by the company as your unconditional acceptance and agreement to comply in good faith with the terms, conditions, policies and legal requirements listed below.
-
-  
-
-#### Legal Documents Are All Connected And Legally Binding
-
-Legal documents of aixeno inc. and aixeno.com are all connected to each other, affect each other, depend upon each other, and are "integrated together." Legal documents of aixeno inc. and aixeno.com includes (without limitation): legal information, laws, rules, regulations, legal agreements, licenses, contracts, policies, legal notices, legal requirements, terms and conditions, code of conduct, cybersecurity policies, privacy policies, and any laws applying to any transactions and business relationships of aixeno inc. and aixeno.com. All legal documents of aixeno inc. and aixeno.com are legally binding upon customers, consumers, and end-users of aixeno products, services, data, information, websites, app, software, and anything else that is connected to or controlled by aixeno inc. Since customers, consumers, and end-users get to use the digital solutions and digital technologies of aixeno through the company website aixeno.com, then all website terms and conditions apply to the technology license agreement. The privacy policy, cookie policy, legal information, legal notices, all other legal documents, and any legal requirements, then also all apply to the website terms and conditions and the license agreements.
+By using any aixeno inc. website(s), or web links or email links on this site or affiliate sites, (or by using any apps, software, and technologies, data, or information of aixeno), your use and benefit from any information on this website and affiliated websites, or apps, software, and technologies of aixeno inc., will be interpreted as your unconditional acceptance and agreement to comply in good faith with the terms, conditions, policies and legal requirements listed below.
 
   
 
-#### United States Law on the International Use of Technologies Made in the USA
+#### Legal Agreements, Policies, Licenses and Legal Information Are All Interrelated
 
-ai technologies, apps, software, and other products and services of aixeno inc., may not be available to all persons and entities in all countries, as United States of America (“USA”) Export Law may restrict or prohibit their use.  Please see the legal requirements and restrictions:  [Export Policy Restrictions - aixeno.com](https://aixeno.com/legal.html#6.%20%20Export%20Policy%20&%20Restrictions "Export Policy Restrictions - aixeno.com/legal.html").
-
-  
+All legal agreements are connected to each other and are integrated together as one overall and entire legal agreement that altogether is binding upon consumers and end-users. Since consumers and end-users get to and use the digital solutions and digital technologies of aixeno.com through the company website, all website terms and conditions apply to the technology license agreement. The privacy policy, cookie policy, legal information, legal notices, and all other legal documents, also all apply to the website terms and conditions and the license agreements.
 
   
 
-#### Menu
-
-[legal webpage menu](#menulegalwebpage "menu - legal webpage")
+#### Menu - Legal Webpage
 
 1. [Company Identification](#1.  Company Identification "Company Identification")
 2. [Legal Notice Address](#2.  Legal Notice Address "Legal Notice Address")
@@ -138,19 +135,19 @@ As a software publisher, aixeno inc. creates, develops and publishes software ap
 
 #### 6\. Export Policy & Restrictions
 
-ai technologies, apps, software, and other products and services of aixeno inc., may not be available to all persons and entities in all countries, as United States of America (“USA”) Export Law may restrict or prohibit their use.
+Digital solutions and technologies of aixeno inc. may not be offered to all persons and entities in all countries, as required by U.S. Export Law.
 
-The company aixeno inc., is a USA based company: it offers digital solutions and digital technologies in the form of digital goods, digital services, artificial intelligence "ai" applications ("ai apps"), software, digital data and information, and other ai technologies, through the website [https://aixeno.com](https://aixeno.com/ "click or tap to go to aixeno.com - https://aixeno.com").
+The company aixeno inc., is a U.S. based company: it offers digital solutions and digital technologies in the form of digital goods, digital services, applications ("apps"), software, digital data and information, and other technologies, through the website [https://aixeno.com](https://aixeno.com/ "click or tap to go to aixeno.com - https://aixeno.com").
 
-USA Law governs all offers made by the company to grant a user license for digital solutions and technologies to customers and are therefore offered on the condition that the person or entity is **not** legally prevented from viewing, accessing, or acquiring a license to use the solutions and technologies, according to USA Export Law.
+The company's offers of digital solutions and technologies to consumers are made according to U.S. Law and are therefore offered to customers on the condition that the person or entity is not legally prevented from viewing, accessing, or acquiring a license to use the solutions and technologies, according to U.S. Export Law.
 
-USA Export Law applies to ai digital solutions and technologies in three situations: (1) you the consumer are living in, under the control of, or a national or resident of; Russia, Belarus, People's Republic of China, Cuba, Iran, North Korea, Sudan, Syria, or Myanmar, (or a national or resident of one of these countries); or, (2) you are on the USA Treasury Department's Specially Designated Nationals List or the U.S. Commerce Department's Denied Persons List, Unverified List or Entity List; or, (3) you intend to supply the acquired goods, services or software to Russia, Belarus, People's Republic of China, Cuba, Iran, North Korea, Sudan, Syria, or Myanmar, (or a national or resident of one of these countries) or to a person on the Specially Designated Nationals List, Denied Persons List, Unverified List or Entity List.  More detailed information about U.S. Export Law may be found at the United States Bureau of Industry and Security Website:  [U.S. Bureau of Industry & Security - List of Parties of Concern](https://www.bis.doc.gov/index.php/policy-guidance/lists-of-parties-of-concern "U.S. Bureau of Industry & Security - List of Parties of Concern")  Please consult the United States Department of Treasury Office of Foreign Assets Control - Sanctions Programs and Information website:  [United States Department of Treasury Office of Foreign Assets Control - Sanctions Programs and Information](https://home.treasury.gov/policy-issues/office-of-foreign-assets-control-sanctions-programs-and-information "United States Department of Treasury Office of Foreign Assets Control - Sanctions Programs and Information").
+In general terms, U.S. Export Law applies to digital solutions and technologies in three situations: (1) you the consumer are living in, under the control of, or a national or resident of; Russia, Belarus, People's Republic of China, Cuba, Iran, North Korea, Sudan, Syria, or Myanmar, (or a national or resident of one of these countries); or, (2) you are on the U.S. Treasury Department's Specially Designated Nationals List or the U.S. Commerce Department's Denied Persons List, Unverified List or Entity List; or, (3) you intend to supply the acquired goods, services or software to Russia, Belarus, People's Republic of China, Cuba, Iran, North Korea, Sudan, Syria, or Myanmar, (or a national or resident of one of these countries) or to a person on the Specially Designated Nationals List, Denied Persons List, Unverified List or Entity List.  More detailed information about U.S. Export Law may be found at the United States Bureau of Industry and Security Website:  [U.S. Bureau of Industry & Security - List of Parties of Concern](https://www.bis.doc.gov/index.php/policy-guidance/lists-of-parties-of-concern "U.S. Bureau of Industry & Security - List of Parties of Concern")  Please consult the United States Department of Treasury Office of Foreign Assets Control - Sanctions Programs and Information website:  [United States Department of Treasury Office of Foreign Assets Control - Sanctions Programs and Information](https://home.treasury.gov/policy-issues/office-of-foreign-assets-control-sanctions-programs-and-information "United States Department of Treasury Office of Foreign Assets Control - Sanctions Programs and Information").
 
-Before acquiring a license to use the digital solutions and technologies, every customer must truthfully disclose the following: that by viewing, accessing, or acquiring a license to use any digital products, digital services, digital data and information, or other digital technologies, through any of the aixeno inc. websites, that you the consumer, lawfully disclose and represent information to the company truthfully and accurately, that your viewing, accessing, use and acquisition of a license to use the solutions and technologies listed above, altogether complies with all USA Legal requirements and all USA Export Law Restrictions. Customer's disclosures must be made in all situations, by all types or categories of customers, for any use of the company's digital solutions and technologies, for the intended and actual use anywhere in the world.
+Before acquiring a license to use the digital solutions and technologies, every customer must truthfully disclose the following: that by viewing, accessing, or acquiring a license to use any digital products, digital services, digital data and information, or other digital technologies, through any of the aixeno inc. websites, that you the consumer, lawfully disclose and represent information to the company truthfully and accurately, that your viewing, accessing, use and acquisition of a license to use the solutions and technologies listed above, altogether complies with all U.S. Legal requirements and all U.S. Export Law Restrictions. Customer's disclosures must be made in all situations, by all types or categories of customers, for any use of the company's digital solutions and technologies, for the intended and actual use anywhere in the world.
 
-Any customer that is a prevented by USA Export Law from using or acquiring digital solutions and technologies, if they are restricted and / or altogether subject to United States export control and economic sanctions requirements, will not be eligible to receive or accept any offers from this company for any digital solutions or digital technologies, and no payments will be accepted from those customers, for anything, under any circumstances or conditions.
+Any customer that is a prevented by U.S. Export Law from using or acquiring digital solutions and technologies, if they are restricted and / or altogether subject to United States export control and economic sanctions requirements, will not be eligible to receive or accept any offers from this company for any digital solutions or digital technologies, and no payments will be accepted from those customers, for anything, under any circumstances or conditions.
 
-The company aixeno inc., when complying in good faith with USA Export Law Restrictions, Sanctions, or other USA Laws, will have **no legal liability or obligation of any kind** to potential customers that have been refused a license, refused acceptance of any fees paid in order to use any of the company's goods and/or services, or otherwise refused access or any use to the company's digital solutions, digital technologies, or digital information, anywhere in the world. In any case where aixeno inc. must not make an offer to a customer, must rescind an offer to a customer, must deny access to a customer, and must deny the issuance of any license to a customer for any use of any digital goods, digital services, digital information, or digital technologies of the company to any customer because of any compliance requirements that aixeno inc. must follow by law, then the company aixeno inc. shall have **no liability, obligation, or duty to pay monetary damages of any kind**, to any customer who is denied access and denied a license to use any technological goods or services of aixeno.com and aixeno inc.
+The company aixeno inc., when complying in good faith with U.S. Export Law Restrictions, Sanctions, or other U.S. Laws, will have no legal liability or obligation of any kind to potential customers that have been refused a license, refused acceptance of any fees paid in order to use any of the company's goods and/or services, or otherwise refused access or any use to the company's digital solutions, digital technologies, or digital information, anywhere in the world. In any case where aixeno inc. must not make an offer to a customer, must rescind an offer to a customer, must deny access to a customer, and must deny the issuance of any license to a customer for any use of any digital goods, digital services, digital information, or digital technologies of the company to any customer because of any compliance requirements that aixeno inc. must follow by law, then the company aixeno inc. shall have no liability, obligation, or duty to pay monetary damages of any kind, to any customer who is denied access and denied a license to use any technological goods or services of aixeno inc.
 
 * [menu - legal webpage](#menulegalwebpage "menu - legal webpage")       [legal definitions](https://aixeno.com/legal.html#38.%20%20Definitions%20Of%20Legal%20Terms,%20Words,%20And%20Phrases "Definitions Of Legal Terms, Words, And Phrases")
 
@@ -190,19 +187,31 @@ Web Apps SAAS - web applications delivered by software as a service.
 
 Websites of The Company - websites owned and/or controlled by aixeno inc. are listed below:
 
-* [aixeno.com](https://aixeno.com/ "https://aixeno.com")
-* [aixeno.net](https://aixeno.net/ "https://aixeno.net")
-* [aixeno.org](https://aixeno.org/ "https://aixeno.org")
-* [aixeno.io](https://aixeno.io/ "https://aixeno.io")
-* [aixeno.ai](https://aixeno.ai/ "aixeno.ai")
-* [aixeno.app](https://aixeno.app/ "https://aixeno.app")
-* [aixeno.cloud](https://aixeno.cloud/ "https://aixeno.cloud")
-* [aixeno.co](https://aixeno.co/ "https://aixeno.co")
-* [aixeno.dev](https://aixeno.dev/ "https://aixeno.dev")
-* [aixeno.software](https://aixeno.software/ "https://aixeno.software")
-* [aixeno.systems](https://aixeno.systems/ "https://aixeno.systems")
-* [aixeno.tech](https://aixeno.tech/ "https://aixeno.tech")
-* [aixeno.technology](https://aixeno.technology/ "https://aixeno.technology")
+[https://aixeno.com](https://aixeno.com/ "https://aixeno.com")
+
+[https://aixeno.net](https://aixeno.net/ "https://aixeno.net")
+
+[https://aixeno.org](https://aixeno.org/ "https://aixeno.org")
+
+[https://aixeno.io](https://aixeno.io/ "https://aixeno.io")
+
+[https://aixeno.ai](https://aixeno.ai/ "https://aixeno.ai")
+
+[https://aixeno.app](https://aixeno.app/ "https://aixeno.app")
+
+[https://aixeno.cloud](https://aixeno.cloud/ "https://aixeno.cloud")
+
+[https://aixeno.co](https://aixeno.co/ "https://aixeno.co")
+
+[https://aixeno.dev](https://aixeno.dev/ "https://aixeno.dev")
+
+[https://aixeno.software](https://aixeno.software/ "https://aixeno.software")
+
+[https://aixeno.systems](https://aixeno.systems/ "https://aixeno.systems")
+
+[https://aixeno.tech](https://aixeno.tech/ "https://aixeno.tech")
+
+[https://aixeno.technology](https://aixeno.technology/ "https://aixeno.technology")
 
 Apps - "apps" means software applications used by a consumer, customer, and/or end-user.
 
@@ -236,8 +245,6 @@ The company aixeno inc. makes changes, improvements, and updates to everything i
 
 Any use of artificial intelligence, of any kind, by aixeno inc. through the website aixeno.com and use of ai in any of the apps, software, or technologies of aixeno inc. and aixeno.com, will be disclosed on this webpage.
 
-**ai from other vendors - a brief list** aixeno.com may use some or all of the products and services from the following list of ai vendors:  [ai list - ai from other vendors](https://aixeno.com/ailist.html "ai list - ai from other vendors").
-
 **Large Language Models** - OpenAI - the ChatGPT series of technologies are used by several publicly available internet and software technologies that a consumer may encounter when using the internet and a wide variety of apps. [openai.com](https://openai.com/ "OpenAI").
 
 **Microsoft** - any use of Microsoft products and services will often expose the consumer to online interaction with Microsoft's several artificial intelligence driven services, software, and assistants please see: [Microsoft Copilot](https://www.microsoft.com/en-us/microsoft-copilot "Microsoft Copilot") including use of Large Language Model based ChatGPT in any versions of Copilot, where the GPT model may be driven from OpenAI connected prompts and responses. For more information please see the Microsoft weblinks: [ai intelligent apps](https://www.microsoft.com/en-us/ai/intelligent-apps "https://www.microsoft.com/en-us/ai/intelligent-apps")  [Microsoft Azure Copilot Studio](https://azure.microsoft.com/en-us/products/ai-studio?OCID=copilotbuildc "Microsoft Azure Copilot Studio")  [Microsoft Copilot](https://www.microsoft.com/en-us/microsoft-copilot "Microsoft Copilot").
@@ -261,8 +268,6 @@ The company aixeno inc., acting through the website aixeno.com, protects everyth
   
 
 #### 12\. License to use products, services, websites, apps, software, data, information, and other technologies
-
-**Summary** - a technology license is a temporary permission to use technology: it is not a transfer of or ownership of property. All company licenses granted for technology products and services are temporary and conditioned upon lawful use and good-faith compliance with the terms and conditions of the technology license. End-users, customers, and consumers must pay for their use of and benefit from any products and services from the company, (unless it is free).
 
 aixeno inc. creates solutions: digital electronic products, services, data, apps, software, and other technologies, and protects its property rights over those creations by patents, copyrights, trademarks, and other intellectual property right protections. Those solutions are available to end-users through License Agreements. A license agreement is not a transfer of the 'ownership' of the property: it only allows lawful use of the property. License Agreements are necessary legal agreements governing contractual rights and responsibilities of allowable use of all digital electronic products, services, data, apps, software, and other technologies created by aixeno inc. A license to use intellectual property owned by the company, aixeno inc., is offered to customers through a License Agreement and customers shall pay a fee (money) to the company for the licensed use. A license to use company intellectual property (goods and/or services) will never grant any ownership rights to any customer(s). License agreements contain contractual terms and conditions that vary, to cover the legal details of different factors, including (without limitation): technology, data, price, access to and delivery of product or service, contract rights, restrictions, service levels, duration of use, and several other considerations. License agreements allow an end-user to enjoy temporary use of digital electronic products, services, data, apps, software, and other technologies, created and published by aixeno inc. Licensed use of intellectual properties owned by this company includes (without limitation): apps, software, and other technologies created by aixeno inc., that are offered to customers for licensed use of company created technological services or products. In all cases, the company, aixeno inc., retains all ownership rights over its intellectual property. All digital solutions and digital technologies of aixeno inc. are available to consumers to use through authorized use of a revocable license granted by the company. Consumers do not get any property rights or ownership rights in any digital solutions and digital technologies of the company. All licenses available to consumers of company digital solutions and digital technologies: (a) are not exclusive to any one consumer, person or entity; (b) are not transferable to any other consumer, person or entity under any circumstances; (c) cannot be partially or totally sublicensed; (d) cannot be exported or re-exported; (e) are revocable; (f) are limited by time; and (g) are limited by a conditional right to access and use the digital solutions and digital technologies of this company aixeno inc. through the website aixeno.com only for lawful purposes and lawful uses.
 
@@ -394,7 +399,7 @@ The company aixeno inc., acting through the website aixeno.com, has the exclusiv
 
 #### 21\. Terms Of Use
 
-These "Terms of Use," published originally on January 01, 2022, (with subsequent updates), are displayed publicly on the official website of aixeno inc. at the website address: [https://aixeno.com](https://aixeno.com/ "https://aixeno.com") specifically located and published under the webpage menu item titled "LEGAL" located at the website address: [https://aixeno.com](https://aixeno.com/legal.html "privacy policy, terms of use, license agreements, all legal notices - aixeno.com") contains the "Website Terms of Lawful Use" also hereinafter referred to in this document as: "Terms of Use" or "Acceptable Use Terms" or "Website User Agreement" or "Agreement."
+These "Terms of Use," published originally on January 01, 2022, (with subsequent updates), are displayed publicly on the official website of aixeno inc. at the website address: [https://aixeno.com](https://aixeno.com/ "https://aixeno.com") specifically located and published under the webpage menu item titled "LEGAL" located at the website address: [https://aixeno.com/legal.html](https://aixeno.com/legal.html "privacy policy, terms of use, license agreements, all legal notices - aixeno.com") contains the "Website Terms of Lawful Use" also hereinafter referred to in this document as: "Terms of Use" or "Acceptable Use Terms" or "Website User Agreement" or "Agreement."
 
   
 
@@ -402,19 +407,31 @@ These "Terms of Use," published originally on January 01, 2022, (with subsequent
 
 Websites owned, created, and/or controlled by aixeno inc., include (but are not limited to) the websites listed below:
 
-* [aixeno.com](https://aixeno.com/ "https://aixeno.com")
-* [aixeno.net](https://aixeno.net/ "https://aixeno.net")
-* [aixeno.org](https://aixeno.org/ "https://aixeno.org")
-* [aixeno.io](https://aixeno.io/ "https://aixeno.io")
-* [aixeno.ai](https://aixeno.ai/ "aixeno.ai")
-* [aixeno.app](https://aixeno.app/ "https://aixeno.app")
-* [aixeno.cloud](https://aixeno.cloud/ "https://aixeno.cloud")
-* [aixeno.co](https://aixeno.co/ "https://aixeno.co")
-* [aixeno.dev](https://aixeno.dev/ "https://aixeno.dev")
-* [aixeno.software](https://aixeno.software/ "https://aixeno.software")
-* [aixeno.systems](https://aixeno.systems/ "https://aixeno.systems")
-* [aixeno.tech](https://aixeno.tech/ "https://aixeno.tech")
-* [aixeno.technology](https://aixeno.technology/ "https://aixeno.technology")
+[https://aixeno.com](https://aixeno.com/ "https://aixeno.com")
+
+[https://aixeno.net](https://aixeno.net/ "https://aixeno.net")
+
+[https://aixeno.org](https://aixeno.org/ "https://aixeno.org")
+
+[https://aixeno.io](https://aixeno.io/ "https://aixeno.io")
+
+[https://aixeno.ai](https://aixeno.ai/ "https://aixeno.ai")
+
+[https://aixeno.app](https://aixeno.app/ "https://aixeno.app")
+
+[https://aixeno.cloud](https://aixeno.cloud/ "https://aixeno.cloud")
+
+[https://aixeno.co](https://aixeno.co/ "https://aixeno.co")
+
+[https://aixeno.dev](https://aixeno.dev/ "https://aixeno.dev")
+
+[https://aixeno.software](https://aixeno.software/ "https://aixeno.software")
+
+[https://aixeno.systems](https://aixeno.systems/ "https://aixeno.systems")
+
+[https://aixeno.tech](https://aixeno.tech/ "https://aixeno.tech")
+
+[https://aixeno.technology](https://aixeno.technology/ "https://aixeno.technology")
 
   
 
@@ -432,7 +449,7 @@ aixeno inc. defines the words and phrases "Materials, Submissions, Proposals" to
 
 ##### Rules of Conduct
 
-By your use of any of the aixeno inc. websites (described below) you agree to each of the following legal terms and conditions of the "rules of conduct" explained below:  
+By your use of any of the aixeno inc. websites (listed below) you agree to each of the following legal terms and conditions of the "rules of conduct" listed below:  
   
 1\. While using any of the company's websites, you will comply fully with all applicable laws at all times and in all circumstances.  
   
@@ -448,19 +465,31 @@ By your use of any of the aixeno inc. websites (described below) you agree to ea
   
 7\. Rules of Conduct apply to all websites owned, created, and controlled by aixeno inc., including (but not limited to) the websites listed below:
 
-* [aixeno.com](https://aixeno.com/ "https://aixeno.com")
-* [aixeno.net](https://aixeno.net/ "https://aixeno.net")
-* [aixeno.org](https://aixeno.org/ "https://aixeno.org")
-* [aixeno.io](https://aixeno.io/ "https://aixeno.io")
-* [aixeno.ai](https://aixeno.ai/ "aixeno.ai")
-* [aixeno.app](https://aixeno.app/ "https://aixeno.app")
-* [aixeno.cloud](https://aixeno.cloud/ "https://aixeno.cloud")
-* [aixeno.co](https://aixeno.co/ "https://aixeno.co")
-* [aixeno.dev](https://aixeno.dev/ "https://aixeno.dev")
-* [aixeno.software](https://aixeno.software/ "https://aixeno.software")
-* [aixeno.systems](https://aixeno.systems/ "https://aixeno.systems")
-* [aixeno.tech](https://aixeno.tech/ "https://aixeno.tech")
-* [aixeno.technology](https://aixeno.technology/ "https://aixeno.technology")
+[https://aixeno.com](https://aixeno.com/ "https://aixeno.com")
+
+[https://aixeno.net](https://aixeno.net/ "https://aixeno.net")
+
+[https://aixeno.org](https://aixeno.org/ "https://aixeno.org")
+
+[https://aixeno.io](https://aixeno.io/ "https://aixeno.io")
+
+[https://aixeno.ai](https://aixeno.ai/ "https://aixeno.ai")
+
+[https://aixeno.app](https://aixeno.app/ "https://aixeno.app")
+
+[https://aixeno.cloud](https://aixeno.cloud/ "https://aixeno.cloud")
+
+[https://aixeno.co](https://aixeno.co/ "https://aixeno.co")
+
+[https://aixeno.dev](https://aixeno.dev/ "https://aixeno.dev")
+
+[https://aixeno.software](https://aixeno.software/ "https://aixeno.software")
+
+[https://aixeno.systems](https://aixeno.systems/ "https://aixeno.systems")
+
+[https://aixeno.tech](https://aixeno.tech/ "https://aixeno.tech")
+
+[https://aixeno.technology](https://aixeno.technology/ "https://aixeno.technology")
 
   
 
@@ -536,7 +565,7 @@ If any provision of these Terms of Use shall be deemed unlawful, void or for any
 
 ##### Privacy Policy - Customer Data
 
-Please see the aixeno privacy policy on the legal webpage for further detailed information available at this weblink:  [Privacy Policy - Customer Data (section 32 of these legal definitions)](https://aixeno.com/legal.html#32.%20%20Privacy%20Policy%20-%20Customer%20Data "Privacy Policy - Customer Data").
+Please see the aixeno privacy policy on the legal webpage for further detailed information available at this weblink:  [Privacy Policy - Customer Data (section 32 of these legal definitions).](https://aixeno.com/legal.html#32.%20%20Privacy%20Policy%20-%20Customer%20Data "Privacy Policy - Customer Data")
 
   
 
@@ -548,7 +577,7 @@ The website https://aixeno.com is **not** targeted specifically to children unde
 
 ##### Customer Data - Information Collection And Use
 
-Website - when a website/webpage of aixeno.com is viewed, aixeno inc. collects viewers' internet data for each viewing session. The website viewing information is collected electronically and securely through internet session security monitoring software and third-party security vendors: it is used by the company aixeno inc. through the website aixeno.com to confidentially and internally, to administer, update and protect all necessary and safe web site security features of the website(s) and webpage(s): the prime use of that data is for the purpose of website security. Website viewing information and public data capture for each website viewing session, may include (without limitation); viewers origin IP address, the webpage viewed and time viewed, viewer's internet browser user agent(s), country of originating internet traffic for viewing session, the viewer's ASNs - ( autonomous system numbers ), viewer's network pathway / routing information, viewer's internet provider name, viewer's internet browsing session "cookies," and several other publicly available information data points of that viewer's browsing session. For any viewing session on aixeno websites, the electronic data may be used altogether as a dataset to be analyzed for website security purposes. This process of using viewer session data is considered worldwide in the technology industry as a standard practice in commerce that is commonly used by most internet service providers and cybersecurity vendors. Internet "cookies" are pieces of electronic data stored in a temporary file that a web site sends to a user's computer while the user is viewing the site. Cookies identify a viewer's web browser, and it is a file that contains and stores information about viewer's website visits, but they generally do not reveal any personally identifiable information. Cookies are used to understand what parts of a website users/viewers are visiting, so as to help identify viewing patterns to improve both security and usability of a website. Contact Form(s) - to communicate with aixeno.com and aixeno inc., anyone using the website [https://aixeno.com](https://aixeno.com/ "https://aixeno.com") may use the link titled "contact" to voluntarily send a secure message to aixeno.com. Only basic information is requested from the person using the form, such as name, email, phone number, and their message. That information may be given only on a voluntary basis by free choice of the person using the website: it is not required in order to view the website. The information is sent by a secure encrypted form to aixeno.com, for purposes of general communication with the company. Please also see the section titled "Consent to Receive Electronic Communications from Company" on this webpage. Third Parties - products and/or services that may be offered for sale or other use by aixeno inc. and aixeno.com, such as weblinks to non-affiliated third-party Websites, which on their own may offer products or services for sale: aixeno.com and aixeno inc. do not accept payments for, process orders of, or ship merchandise on behalf of, any other third-party vendor. Please be aware that aixeno.com and aixeno inc. do not have any control whatsoever, over any third-parties, and aixeno inc. and aixeno.com does not direct, dictate, or supervise, any of the information collection and use policies of any third-party vendors/entities/business or other unrelated and unaffiliated persons or parties. Please be aware that the company is not responsible for the privacy practices of any other web site(s) outside of the website:  [https://aixeno.com](https://aixeno.com/ "https://aixeno.com").  This company encourages all users of aixeno.com websites, to also carefully read the privacy statements of each web site that they visit for more information on how their own internet browsing information may be collected and used. Information Sharing - the company aixeno inc. does not share information of users of its website(s), unless specifically ordered to do so by a legal authority that has served upon aixeno.com and aixeno inc., a valid court order that would lawfully compel compliance with court-ordered disclosure of user/viewer information, OR if the company is legally obligated to comply with a valid search warrant or subpoena and then must disclose user/viewer information.
+Website - when a website/webpage of aixeno.com is viewed, aixeno inc. collects viewers' internet data for each viewing session. The website viewing information is collected electronically and securely through internet session security monitoring software and third-party security vendors: it is used by the company aixeno inc. through the website aixeno.com to confidentially and internally, to administer, update and protect all necessary and safe web site security features of the website(s) and webpage(s): the prime use of that data is for the purpose of website security. Website viewing information and public data capture for each website viewing session, may include (without limitation); viewers origin IP address, the webpage viewed and time viewed, viewer's internet browser user agent(s), country of originating internet traffic for viewing session, the viewer's ASNs - ( autonomous system numbers ), viewer's network pathway / routing information, viewer's internet provider name, viewer's internet browsing session "cookies," and several other publicly available information data points of that viewer's browsing session. For any viewing session on aixeno websites, the electronic data may be used altogether as a dataset to be analyzed for website security purposes. This process of using viewer session data is considered worldwide in the technology industry as a standard practice in commerce that is commonly used by most internet service providers and cybersecurity vendors. Internet "cookies" are pieces of electronic data stored in a temporary file that a web site sends to a user's computer while the user is viewing the site. Cookies identify a viewer's web browser, and it is a file that contains and stores information about viewer's website visits, but they generally do not reveal any personally identifiable information. Cookies are used to understand what parts of a website users/viewers are visiting, so as to help identify viewing patterns to improve both security and usability of a website. Contact Form(s) - to communicate with aixeno.com and aixeno inc., anyone using the website [https://aixeno.com](https://aixeno.com/ "https://aixeno.com") may use the link titled "contact" to voluntarily send a secure message to aixeno.com. Only basic information is requested from the person using the form, such as name, email, phone number, and their message. That information may be given only on a voluntary basis by free choice of the person using the website: it is not required in order to view the website. The information is sent by a secure encrypted form to aixeno.com, for purposes of general communication with the company. Please also see the section titled "Consent to Receive Electronic Communications from Company" on this webpage. Third Parties - products and/or services that may be offered for sale or other use by aixeno inc. and aixeno.com, such as weblinks to non-affiliated third-party Websites, which on their own may offer products or services for sale: aixeno.com and aixeno inc. do not accept payments for, process orders of, or ship merchandise on behalf of, any other third-party vendor. Please be aware that aixeno.com and aixeno inc. do not have any control whatsoever, over any third-parties, and aixeno inc. and aixeno.com does not direct, dictate, or supervise, any of the information collection and use policies of any third-party vendors/entities/business or other unrelated and unaffiliated persons or parties. Please be aware that the company is not responsible for the privacy practices of any other web site(s) outside of the website: [https://aixeno.com](https://aixeno.com/ "https://aixeno.com") This company encourages all users of aixeno.com websites, to also carefully read the privacy statements of each web site that they visit for more information on how their own internet browsing information may be collected and used. Information Sharing - the company aixeno inc. does not share information of users of its website(s), unless specifically ordered to do so by a legal authority that has served upon aixeno.com and aixeno inc., a valid court order that would lawfully compel compliance with court-ordered disclosure of user/viewer information, OR if the company is legally obligated to comply with a valid search warrant or subpoena and then must disclose user/viewer information.
 
   
 
@@ -575,21 +604,21 @@ The company aixeno inc. uses electronic transactions, through its main website:�
 
 To communicate with customers, vendors, and other persons or parties, aixeno.com and aixeno inc. send electronic communications during its lawful business activities, for the purposes of delivering: legal disclosures, timely notices, billing and payment communications, product information, updates, price information, and any other lawful information. As may be required by applicable U.S. Federal and State laws, the company, aixeno inc., is required in some situations to first gain prior express written (electronic) consent, before communicating with customers, vendors, and other persons or parties. All communications in electronic form from aixeno.com and aixeno inc., shall be governed by the laws of Washington State and the Uniform Electronic Transactions Act (UETA) and the ESIGN requirements. The company may use different forms of electronic communications and transactions with customers, including (but not limited to): email, printed mail, printed documents, telephone calls, cell phone calls, text messages in SMS format or MMS format, websites, webpages, and/or direct electronic communications on-screen while using company created apps, software, and technology. Consent to receive electronic communications from this company is voluntary. Consent may be given, amended, stopped, withheld, or otherwise changed, at any time, for any reason or for no reason by either the company or the customer, vendor, or any other persons or parties involved in the electronic communication. The basic information required for electronic communication with this company shall be an email address, or a phone number, or a mailing address, and a legally valid name (person’s name, business name, or other entity name). The company has the right to use publicly available information to verify the identity of each person, business, or other entity. Customers buying apps, software, and technology or technologies from this company, shall have the opportunity to give their consent to receive electronic communications from this company during the EULA-end-user license agreement, at the time of purchase, or through this secure online form. Customers receiving electronic communications from aixeno.com and aixeno inc., shall bear 100% of their own communications costs for their freely chosen vendors that are not related to or affiliated with aixeno.com and aixeno inc., meaning that customers pay 100% of their costs for their vendors of choice that provide electronic media and communication platforms of email, internet connections and transmissions, cell-phone services, telephone services, or any other electronic communications providers fees of any kind. Customers pay 100% of their own data, message, and usage fees in all cases. Electronic signatures used for consent to receive communications from aixeno.com and aixeno inc., shall be governed by the laws of Washington State and the Uniform Electronic Transactions Act (UETA) and the ESIGN requirements. The consent form shall use the following text: "Electronic Signature - I give my express written consent by electronic signature on this consent form, for the sole purpose of proving my intent to receive communications from aixeno.com and aixeno inc. If I am giving my electronic signature on behalf of a business or other entity, I represent to aixeno.com and aixeno inc. that I am an “authorized signer” acting with prior authorization on the behalf of the business or other entity I represent. By giving my electronic signature, I agree that I am able to view, read, understand, and accept the “consent to receive electronic communications” information in this document, and further that I give my consent voluntarily and freely. I understand that my consent may be started, stopped, changed and/or revoked at any time, for any reason or for no reason, by either myself, and/or the company/entity that I represent. I understand that the company aixeno.com and aixeno inc., retains their rights at all times to change/update their business communications that may be sent to me, and that any changes in those communications may be made at any time, for any reason or for no reason. If I send any “notice of termination of consent” to stop my existing consent to receive electronic communications from aixeno.com and aixeno inc., that termination notice will be in writing (electronic or printed format) and will be delivered promptly to the company aixeno.com and aixeno inc. either electronically or through the mail delivery system(s) of the U.S.A. to the official company mailing address. Finally, my electronic signature applies only to electronic communications with aixeno.com and aixeno inc. and does not create any implied contract that would involuntarily obligate aixeno.com and aixeno inc.” Customers buying apps, software, and technology or technologies from this company, shall have the opportunity to give their consent to receive electronic communications from this company during the EULA-end-user license agreement, at the time of purchase, or through a secure online form and weblinks:
 
-[consent to receive electronic communications from aixeno.com and aixeno inc](https://www.jotform.com/sign/230555236515049/invite/01gt4zdvv321340e9ddb436cf0 "consent to receive electronic communications from aixeno.com and aixeno inc.").
+[consent to receive electronic communications from aixeno.com and aixeno inc.](https://www.jotform.com/sign/230555236515049/invite/01gt4zdvv321340e9ddb436cf0 "consent to receive electronic communications from aixeno.com and aixeno inc.")
 
   
 
 ##### Notice of Changes to Policies and / or Changes to Website Terms of Lawful Use
 
-If aixeno inc. changes its privacy policy, Terms of Lawful Use ("Terms of Use" or "Website User Agreement"), then a new policy will be posted on the "LEGAL" menu of the website:  [https://aixeno.com/legal.html](https://aixeno.com/legal.html "website of aixeno inc. - legal webpage").
+If aixeno inc. changes its privacy policy, Terms of Lawful Use ("Terms of Use" or "Website User Agreement"), then a new policy will be posted on the "LEGAL" menu of the website: [https://aixeno.com/legal.html](https://aixeno.com/legal.html "website of aixeno inc. - legal webpage")
 
   
 
 ##### Security, Cybersecurity And End-User Assumptions Of Risks
 
-Although the company aixeno inc. pursues commercially reasonable efforts to have its own websites protected with security procedures to protect against the loss, misuse or alteration of information under our control, the open and interactive nature of the Internet requires you to assume all of the risk of using internet websites, webpages, and email links. Please use the SSL/TLS encrypted "secure website" at this link: [secure website of aixeno inc](https://aixeno.com/ "Secure Website of aixeno inc.").  aixeno inc. is the registered owner of this website and all intellectual property of this website including (without limitation); digital information, digital apps, digital software, digital technologies, data, contents, pages, artworks, technological works, products, services, information, publicity rights, images, text or any other display of information on this website. All intellectual property rights are reserved and retained by aixeno inc., and may not be used by any other person or entity without prior written permission. Any links to external websites will place the viewer away from intellectual properties of aixeno inc. and onto websites that are owned and controlled by their respective owners unaffiliated with aixeno inc. Viewers assume all risks for their own interests and cybersecurity protection when viewing any websites owned by aixeno inc. and aixeno.com and the webpages' links to external websites. Please also the "security" webpage of aixeno.com at this weblink:
+Although the company aixeno inc. pursues commercially reasonable efforts to have its own websites protected with security procedures to protect against the loss, misuse or alteration of information under our control, the open and interactive nature of the Internet requires you to assume all of the risk of using internet websites, webpages, and email links. Please use the SSL/TLS encrypted "secure website" at this link: [secure website of aixeno inc.](https://aixeno.com/ "Secure Website of aixeno inc.") aixeno inc. is the registered owner of this website and all intellectual property of this website including (without limitation); digital information, digital apps, digital software, digital technologies, data, contents, pages, artworks, technological works, products, services, information, publicity rights, images, text or any other display of information on this website. All intellectual property rights are reserved and retained by aixeno inc., and may not be used by any other person or entity without prior written permission. Any links to external websites will place the viewer away from intellectual properties of aixeno inc. and onto websites that are owned and controlled by their respective owners unaffiliated with aixeno inc. Viewers assume all risks for their own interests and cybersecurity protection when viewing any websites owned by aixeno inc. and aixeno.com and the webpages' links to external websites. Please also the "security" webpage of aixeno.com at this weblink:
 
-[security webpage of aixeno - https://aixeno.com/security.html](https://aixeno.com/security.html "security webpage of aixeno - https://aixeno.com/security.html").
+[security webpage of aixeno - https://aixeno.com/security.html](https://aixeno.com/security.html "security webpage of aixeno - https://aixeno.com/security.html")
 
   
 
@@ -619,7 +648,7 @@ Websites of the company are also protected for cybersecurity reasons. To see the
 
 The company may use several additional vendors, companies, and service providers, in its commercial delivery of digital solutions and digital technologies.
 
-Although the company aixeno inc. pursues commercially reasonable efforts to have its own websites, digital solutions, and digital technologies, all protected with security procedures to protect against the loss, misuse, or alteration of information under our control, the open and interactive nature of the Internet requires you to assume all of the risk of using internet websites, webpages, and email links. Please use the SSL/TLS encrypted "secure website" at this link: [secure website of aixeno inc](https://aixeno.com/ "Secure Website of aixeno inc.").  aixeno inc. is the registered owner of this website and all intellectual property of this website including (without limitation); digital solutions, digital information, digital apps, digital software, digital technologies, data, contents, pages, artworks, technological works, products, services, information, publicity rights, images, text or any other display of information on this website. All intellectual property rights are reserved and retained by aixeno inc., and may not be used by any other person or entity without prior written permission. Any links to external websites will place the viewer away from intellectual properties of aixeno inc. and onto websites that are owned and controlled by their respective owners unaffiliated with aixeno inc. Viewers assume all risks for their own interests and cybersecurity protection when viewing any websites owned by aixeno inc. and aixeno.com and the webpages' links to external websites.
+Although the company aixeno inc. pursues commercially reasonable efforts to have its own websites, digital solutions, and digital technologies, all protected with security procedures to protect against the loss, misuse, or alteration of information under our control, the open and interactive nature of the Internet requires you to assume all of the risk of using internet websites, webpages, and email links. Please use the SSL/TLS encrypted "secure website" at this link: [secure website of aixeno inc.](https://aixeno.com/ "Secure Website of aixeno inc.") aixeno inc. is the registered owner of this website and all intellectual property of this website including (without limitation); digital solutions, digital information, digital apps, digital software, digital technologies, data, contents, pages, artworks, technological works, products, services, information, publicity rights, images, text or any other display of information on this website. All intellectual property rights are reserved and retained by aixeno inc., and may not be used by any other person or entity without prior written permission. Any links to external websites will place the viewer away from intellectual properties of aixeno inc. and onto websites that are owned and controlled by their respective owners unaffiliated with aixeno inc. Viewers assume all risks for their own interests and cybersecurity protection when viewing any websites owned by aixeno inc. and aixeno.com and the webpages' links to external websites.
 
 The company does not send any email from "aixeno" domain names.  
 For reasons of cybersecurity, aixeno inc. does not use any email addresses containing the following domain names:  
@@ -807,7 +836,7 @@ More information regarding the mandatory Arbitration requirements of Spokane Cou
 
 #### 32\. Privacy Policy - Customer Data
 
-This Privacy Policy describes the online data collection of customer data from company owned websites and the limited use of that data by the company aixeno inc., specifically data gathered through viewers visiting and using the website: [https://aixeno.com](https://aixeno.com/ "https://aixeno.com") including a description of the types of online information collected and some of the ways in which the company uses that information for internal business purposes, website security, and communications with customers.
+This Privacy Policy describes the online data collection of customer data from company owned websites and the limited use of that data by the company aixeno inc., specifically data gathered through viewers visiting and using the website: [https://aixeno.com](https://aixeno.com/ "https://aixeno.com")  including a description of the types of online information collected and some of the ways in which the company uses that information for internal business purposes, website security, and communications with customers.
 
 ###### Information From Children Under Thirteen
 
@@ -815,7 +844,7 @@ The website [https://aixeno.com](https://aixeno.com/ "aixeno.com") is not targ
 
 ###### Information Collection And Use Of Customer Data
 
-Website - when any webpages of the website aixeno.com are viewed, aixeno inc. collects viewers' internet data for each viewing session. The website viewing information is collected electronically and securely through internet session security monitoring software and third-party security vendors: it is used by the company aixeno inc. through the website aixeno.com to confidentially and internally, to administer, update and protect all necessary and safe web site security features of the website(s) and webpage(s): the prime use of that data is for the purpose of website security. Website viewing information and public data capture for each website viewing session, may include (without limitation); viewers origin IP address, the webpage viewed and time viewed, viewer's internet browser user agent(s), country of originating internet traffic for viewing session, the viewer's ASNs - ( autonomous system numbers ), viewer's network pathway / routing information, viewer's internet provider name, viewer's internet browsing session "cookies," and several other publicly available information data points of that viewer's browsing session. For any viewing session on aixeno websites, the electronic data may be used altogether as a dataset to be analyzed for website security purposes. This process of using viewer session data is considered worldwide in the technology industry as a standard practice in commerce that is commonly used by most internet service providers and cybersecurity vendors. Internet "cookies" are pieces of electronic data stored in a temporary file that a web site sends to a user's computer while the user is viewing the site. Cookies identify a viewer's web browser, and it is a file that stores information about viewer's website visits, but they generally do not reveal any personally identifiable information. Cookies are used to understand what parts of a website users/viewers are visiting, so as to help identify viewing patterns to improve both security and usability of a website. Contact Form(s) - to communicate with aixeno.com and aixeno inc., anyone using the website [https://aixeno.com](https://aixeno.com/ "aixeno.com")  may use the link titled "contact" to voluntarily send a secure message to aixeno.com. Only basic information is requested from the person using the form, such as name, email, phone number, and their message. That information may be given only on a voluntary basis by free choice of the person using the website: it is not required in order to view the website. The information is sent by a secure encrypted form to aixeno.com, for purposes of general communication with the company. Please also see the section titled "_Consent To Receive Electronic Communications From Company_" on this webpage. Third Parties - products and/or services that may be offered for sale or other use by aixeno inc. and aixeno.com, such as weblinks to non-affiliated Third-Party Websites, which on their own may offer products or services for sale: aixeno.com and aixeno inc. do not accept payment for, process orders of, or ship merchandise on behalf of, any other Third-Party Vendor. Please be aware that aixeno.com and aixeno inc. do not have any control whatsoever, over any Third-Parties, and aixeno inc. and aixeno.com does not direct, dictate, or supervise, any of the information collection and use policies of any Third-Party vendors/entities/business or other unrelated and unaffiliated persons or parties. Please be aware that the company is not responsible for the privacy practices of any other web site(s) outside of the website  [https://aixeno.com](https://aixeno.com/ "aixeno.com")  This company encourages all users of aixeno.com websites, to also carefully read the privacy statements of each web site that they visit for more information on how their own internet browsing information may be collected and used. Information Sharing - the company aixeno inc. does not share information of users of its website(s), unless specifically ordered to do so by a legal authority that has served upon aixeno.com and aixeno inc., a valid court order that would lawfully compel compliance with court-ordered disclosure of user/viewer information, OR if the company is legally obligated to comply with a valid search warrant or subpoena and then must disclose user/viewer information.
+Website - when any webpages of the website aixeno.com are viewed, aixeno inc. collects viewers' internet data for each viewing session. The website viewing information is collected electronically and securely through internet session security monitoring software and third-party security vendors: it is used by the company aixeno inc. through the website aixeno.com to confidentially and internally, to administer, update and protect all necessary and safe web site security features of the website(s) and webpage(s): the prime use of that data is for the purpose of website security. Website viewing information and public data capture for each website viewing session, may include (without limitation); viewers origin IP address, the webpage viewed and time viewed, viewer's internet browser user agent(s), country of originating internet traffic for viewing session, the viewer's ASNs - ( autonomous system numbers ), viewer's network pathway / routing information, viewer's internet provider name, viewer's internet browsing session "cookies," and several other publicly available information data points of that viewer's browsing session. For any viewing session on aixeno websites, the electronic data may be used altogether as a dataset to be analyzed for website security purposes. This process of using viewer session data is considered worldwide in the technology industry as a standard practice in commerce that is commonly used by most internet service providers and cybersecurity vendors. Internet "cookies" are pieces of electronic data stored in a temporary file that a web site sends to a user's computer while the user is viewing the site. Cookies identify a viewer's web browser, and it is a file that stores information about viewer's website visits, but they generally do not reveal any personally identifiable information. Cookies are used to understand what parts of a website users/viewers are visiting, so as to help identify viewing patterns to improve both security and usability of a website. Contact Form(s) - to communicate with aixeno.com and aixeno inc., anyone using the website [https://aixeno.com](https://aixeno.com/ "aixeno.com") may use the link titled "contact" to voluntarily send a secure message to aixeno.com. Only basic information is requested from the person using the form, such as name, email, phone number, and their message. That information may be given only on a voluntary basis by free choice of the person using the website: it is not required in order to view the website. The information is sent by a secure encrypted form to aixeno.com, for purposes of general communication with the company. Please also see the section titled "_Consent To Receive Electronic Communications From Company_" on this webpage. Third Parties - products and/or services that may be offered for sale or other use by aixeno inc. and aixeno.com, such as weblinks to non-affiliated Third-Party Websites, which on their own may offer products or services for sale: aixeno.com and aixeno inc. do not accept payment for, process orders of, or ship merchandise on behalf of, any other Third-Party Vendor. Please be aware that aixeno.com and aixeno inc. do not have any control whatsoever, over any Third-Parties, and aixeno inc. and aixeno.com does not direct, dictate, or supervise, any of the information collection and use policies of any Third-Party vendors/entities/business or other unrelated and unaffiliated persons or parties. Please be aware that the company is not responsible for the privacy practices of any other web site(s) outside of the website  [https://aixeno.com](https://aixeno.com/ "aixeno.com")  This company encourages all users of aixeno.com websites, to also carefully read the privacy statements of each web site that they visit for more information on how their own internet browsing information may be collected and used. Information Sharing - the company aixeno inc. does not share information of users of its website(s), unless specifically ordered to do so by a legal authority that has served upon aixeno.com and aixeno inc., a valid court order that would lawfully compel compliance with court-ordered disclosure of user/viewer information, OR if the company is legally obligated to comply with a valid search warrant or subpoena and then must disclose user/viewer information.
 
 ###### Customer Data Privacy & Protection Regulations - CCPA - GDPR
 
@@ -872,7 +901,7 @@ The company designates the Chief Executive Officer (CEO) of aixeno inc., as the 
 
 The company aixeno inc., conducting its software publishing business through the website [https://aixeno.com](https://aixeno.com/ "click or tap to go to aixeno.com - https://aixeno.com") may receive threats of any kind during the normal course of business.  
   
-"The company" means the corporation aixeno inc., and includes (without limitation) its directors, officers, managers, employees, agents, vendors, consumers, customers, end-users, affiliates, successors, assigns, partners, shareholders, or any other related and interested parties of the company.  
+"The company" means the corporation aixeno inc., and includes (without limitation) its directors, officers, managers, employees, agents, vendors, consumers, end-users, affiliates, successors, assigns, partners, shareholders, or any other related and interested parties of the company.  
   
 A threat against the company is considered to be any threat of any kind, from anywhere in the world, which is a communication in any form or format (verbal, written, electronic, digital, analog or otherwise) made against the company (directly or indirectly) by any consumer, end-user, any bot, robot, chatbot, or any human person or other entity that is intended in any way to negatively affect the company by: using words threatening violence and/or destruction, inciting others to commit crimes or violence or destruction, causing harm of any kind, withhold something of value, interfere with or disrupt anything related to the company's normal course of business, cause any risk of financial loss, cause legal jeopardy including a false police report and/or a frivolous lawsuit, doxxing, swatting, false comments and/or malicious comments using threatening words or phrases, defamation or libel or slander, disparagement or other reputational harm to the good business reputation of the company or its digital solutions and digital technologies, commission of any crimes against the company, commission of any torts against the company, impersonate the company, or attempts to commit any fraudulent activities against the company. A threat against the company may also take the form of publishing a threat against the company onto and through any posting of threatening information on any news website, social media platform or website, in emails, text messages, any bot, robot, chatbot, or any other form of media and communication technology. Threats may be started from any location on the internet or from any geographic location in the world.  
   
@@ -943,8 +972,6 @@ The company aixeno inc. has the right to refuse service to any person(s) or enti
 **Access To & Delivery of Product or Service** - descriptions, explanations, and technology details of how to get, use, and benefit from, the digital electronic products, services, and data, created by aixeno inc. and provided through a license agreement.
 
 **Access** - access, or accessing a technology, is getting into the technology to use it for some computerized actions. The actions of any end-user consumer using their computerized digital devices and their internet connection to enter into and use any digital solution or digital technology, by locating it electronically (i.e. a website URL), requesting the electronic resource to open, enter into the technology to use it, sign into it with a password, logging into it with a password and other user verification credentials, performing those steps while having lawful permission granted to sign in and log into and use the digital solution or digital technology by holding a legally valid license to enter and use the digital solution and digital technology. Access may be conditional, based upon first paying a subscription fee, and creating a new user account through a web page or website in order to then be granted permission to sign into, enter, and use a web application or other digital solution and technology. Access may be revocable under the terms and conditions of a license. (See also, the definitions of: "access," and "scope of access," and "authorized access" and "unauthorized access" and "exceeding authorized access," and "unpaid access" and "fraudulent access").
-
-**Access To The Internet (ai model)** -
 
 **Account** - a record of information at any point(s) in time showing interactions and transactions between any parties, persons, customers, providers, businesses, other entities, where the parties' information is quantifiable and records the amount(s) of transactions, business dealings, money amounts, subscriptions, investments, financial transactions, assets, liabilities, equities, revenues, expenses, information, data, exchanges of anything of value, property, identifying information, stored information, or any other thing that can be recorded or described or explained. An account may be in any form or format, electronic or otherwise.
 
@@ -1058,35 +1085,13 @@ The company aixeno inc. has the right to refuse service to any person(s) or enti
 
 **Agreement** - “agreement” as in the phrase ‘in this agreement’ is to be interpreted as meaning “in this contract,” and "according to the agreement to the terms of use" and "agreement to license terms and conditions" and as the word is also used to refer to ‘an agreement is a document that is a binding contract.’ When not referring to a contract document, the word agreement carries its usual and plain meaning: harmony or accordance in opinion or feeling; a position or result of agreeing, and simultaneously it also means the absence of incompatibility between two things; consistency. Agreement may refer to a document that multiple parties have written and cooperatively recorded a mutual understanding of their binding actions and understanding of their relative rights, duties, and responsibilities for any present and future performance of actions, movement and exchange of goods and property, transactions, trading activities, work activities, services, mutually beneficial purposes, and goals. Please see also: "Point and Click Agreement."
 
-**ai - a.i. - A.I. - artificial intelligence** - the use by humans (or other computers) of any computer technology, (hardware, software, network, combined technological systems, robots) used to process information and electronic data in an automatic, autonomous, and programmed manner that is step-wise or driven by a programmed algorithm, to perform any activity that is often or otherwise a human activity, such as analyzing data for pattern recognition and automatic/structured decision-making, generating a language based response, analysis of data, machine learning from existing data, answering data related questions from humans, using automated algorithmic search patterns from data, machine learning from any collection of data or datasets, performing calculations, rearranging data into new patterns for high-speed data processing, imagery analysis, generation of chat communications through a robots or bots for interactions or messaging of any kind, generate text and/or video, perform data search activities, answer questions, or for any other computer-based information processing, including using large language models to assist humans in solving complex problems through data and computer resources. AI is defined in the US Presidential [Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/ "Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence")  _“artificial intelligence” or “AI” has the meaning set forth in 15 U.S.C. 9401(3): a machine-based system that can, for a given set of human-defined objectives, make predictions, recommendations, or decisions influencing real or virtual environments. Artificial intelligence systems use machine- and human-based inputs to perceive real and virtual environments; abstract such perceptions into models through analysis in an automated manner; and use model inference to formulate options for information or action." (Executive Order, Sec. 3. Definitions (b))._  Humans use artificial intelligence technologies by typing text into, or speaking conversationally with, an ai language model on a computer network server. Natural human language is used when "humans talk to ai" through conversational chatbots. AI is a model ran by software program code and language model data, which in turn relies upon machine learning, and a generative transformation software program, altogether designed to simulate human intelligence and human responses from the ai when it replies with answers to human questions and prompts. Examples of ai models and ai technologies, products, and services, may be found on this list:    [ai list - ai from other vendors](https://aixeno.com/ailist.html "ai list - ai from other vendors").
-
-**ai Agent** -
-
-**ai Assistant** -
+**ai - a.i. - A.I. - artificial intelligence** - the use by humans (or other computers) of any computer technology, (hardware, software, network, combined technological systems, robots) used to process information and electronic data in an automatic, autonomous, and programmed manner that is step-wise or driven by a programmed algorithm, to perform any activity that is often or otherwise a human activity, such as analyzing data for pattern recognition and automatic/structured decision-making, generating a language based response, analysis of data, machine learning from existing data, answering data related questions from humans, using automated algorithmic search patterns from data, machine learning from any collection of data or datasets, performing calculations, rearranging data into new patterns for high-speed data processing, imagery analysis, generation of chat communications through a robots or bots for interactions or messaging of any kind, generate text and/or video, perform data search activities, answer questions, or for any other computer-based information processing, including using large language models to assist humans in solving complex problems through data and computer resources. AI is defined in the US Presidential [Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/ "Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence")  _“artificial intelligence” or “AI” has the meaning set forth in 15 U.S.C. 9401(3): a machine-based system that can, for a given set of human-defined objectives, make predictions, recommendations, or decisions influencing real or virtual environments. Artificial intelligence systems use machine- and human-based inputs to perceive real and virtual environments; abstract such perceptions into models through analysis in an automated manner; and use model inference to formulate options for information or action." (Executive Order, Sec. 3. Definitions (b))._ An example of artificial intelligence is the "Chat-GPT-4" Large Language Model used in several technologies available to consumers from [https://openai.com/](https://openai.com/ "https://openai.com/").  Another example of artificial intelligence is Google's "Bard" [https://bard.google.com/](https://bard.google.com/ "https://bard.google.com/")  and "Gemini AI"  [https://deepmind.google/technologies/gemini/#introduction](https://deepmind.google/technologies/gemini/#introduction "Google Gemini AI - https://deepmind.google/technologies/gemini/#introduction")  Generally, artificial intelligence interacts with humans through a large language model to exchange information using natural human language, but its software program code and language model data rely on machine learning to simulate human intelligence during the "chat-based" exchange of information. Several additional ChatBots exist: [Microsoft - Bing Chat](https://www.bing.com/new "Microsoft - Bing Chat")  [IBM - Watson Assistant](https://www.ibm.com/products/watson-assistant "IBM - Watson Assistant")  [G2 - list of ChatBots](https://www.g2.com/products/chatgpt/competitors/alternatives "G2 - list of ChatBots").  Please see additional AI Companies and their chatbots:  [Anthropic](https://www.anthropic.com/ "anthropic.com"),  [Grok - X - (Twitter)](https://twitter.com/xai/status/1721027348970238035 "Grok - X - (Twitter)"),  [Meta - generative AI.](https://ai.meta.com/genai/ "Meta - generative AI - https://ai.meta.com/genai/")  Microsoft offers several AI products and services:  [Microsoft - CoPilot](https://www.microsoft.com/en-us/copilot "Microsoft - CoPilot")  [Microsoft - CoPilot Studio](https://www.microsoft.com/en-us/copilot/microsoft-copilot-studio "Microsoft - CoPilot Studio")  [Microsoft - AI Studio](https://azure.microsoft.com/en-us/products/ai-studio "Microsoft - AI Studio")  [Mistral AI](https://mistral.ai/ "Mistral AI for Developers").
 
 **ai Chat Endpoint** -
 
 **ai Chat Endpoint Web Only Platform** -
 
-**ai Fine-Tuning a Model** -
-
-**ai Hallucination(s)** -
-
-**ai Prompt** -
-
-**ai Prompt Engineering** -
-
-**ai Reply** -
-
-**ai Train a Model (ai MLM Machine Learning Model)** -
-
-**aixeno, aixeno inc., aixeno.com** - aixeno is a software publisher, located in Washington State U.S.A. as aixeno inc., creating ai apps, ai software, ai technologies, and ai digital solutions. The name "aixeno" means a new advanced technology: it is a compound word made up from combining the acronym "ai" from "artificial intelligence" as in computer technology, and "xeno" from the Greek word 'xenos' or 'xenoi.' The intended meaning and usage is the name for 'a new advanced technology that is different in origin' used in the English Language as a noun that is almost an apronym or aptronym. The aixeno website is:  [https://aixeno.com](https://aixeno.com/ "aixeno.com website - https://aixeno.com")
-
-**Agent** -
-
 **Alert - Send an Alert - Alert Messages Sent by Electronic Delivery** - communicate a warning to someone or some entity of a risk, danger, threat, or any other problem(s) potential or actual, where the alert message is intended to prevent present or future harm, loss of data or property, or to prevent any other type of damage.
-
-**Allow Websites to Check If You Have Payment Methods Saved** -
 
 **Alteration of App Code** - a change, modification, substitution, deletion, update, to something that was already created and in existence, as in an alteration of application code which is in any way different than as it was originally created and published.
 
@@ -1126,7 +1131,7 @@ The company aixeno inc. has the right to refuse service to any person(s) or enti
 
 **Arrears** - being late in a payment, debt, or obligation to pay the company.
 
-**Artificial Intelligence - AI - A.I - ai - a.i.** - the use by humans (or other computers) of any computer technology, (hardware, software, network, combined technological systems, robots) used to process information and electronic data in an automatic, autonomous, and programmed manner that is step-wise or driven by a programmed algorithm, to perform any activity that is often or otherwise a human activity, such as analyzing data for pattern recognition and automatic/structured decision-making, generating a language based response, analysis of data, machine learning from existing data, answering data related questions from humans, using automated algorithmic search patterns from data, machine learning from any collection of data or datasets, performing calculations, rearranging data into new patterns for high-speed data processing, imagery analysis, generation of chat communications through a robots or bots for interactions or messaging of any kind, generate text and/or video, perform data search activities, answer questions, or for any other computer-based information processing, including using large language models to assist humans in solving complex problems through data and computer resources. AI is defined in the US Presidential [Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/ "Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence")  _“artificial intelligence” or “AI” has the meaning set forth in 15 U.S.C. 9401(3): a machine-based system that can, for a given set of human-defined objectives, make predictions, recommendations, or decisions influencing real or virtual environments. Artificial intelligence systems use machine- and human-based inputs to perceive real and virtual environments; abstract such perceptions into models through analysis in an automated manner; and use model inference to formulate options for information or action." (Executive Order, Sec. 3. Definitions (b))._  Humans use artificial intelligence technologies by typing text into, or speaking conversationally with, an ai language model on a computer network server. Natural human language is used when "humans talk to ai" through conversational chatbots. AI is a model ran by software program code and language model data, which in turn relies upon machine learning, and a generative transformation software program, altogether designed to simulate human intelligence and human responses from the ai when it replies with answers to human questions and prompts. Examples of ai models and ai technologies, products, and services, may be found on this list:    [ai list - ai from other vendors](https://aixeno.com/ailist.html "ai list - ai from other vendors").
+**Artificial Intelligence - AI - A.I - ai - a.i.** - the use by humans (or other computers) of any computer technology, (hardware, software, network, combined technological systems, robots) used to process information and electronic data in an automatic, autonomous, and programmed manner that is step-wise or driven by a programmed algorithm, to perform any activity that is often or otherwise a human activity, such as analyzing data for pattern recognition and automatic/structured decision-making, generating a language based response, analysis of data, machine learning from existing data, answering data related questions from humans, using automated algorithmic search patterns from data, machine learning from any collection of data or datasets, performing calculations, rearranging data into new patterns for high-speed data processing, imagery analysis, generation of chat communications through a robots or bots for interactions or messaging of any kind, generate text and/or video, perform data search activities, answer questions, or for any other computer-based information processing, including using large language models to assist humans in solving complex problems through data and computer resources. AI is defined in the US Presidential [Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/ "Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence")  _“artificial intelligence” or “AI” has the meaning set forth in 15 U.S.C. 9401(3): a machine-based system that can, for a given set of human-defined objectives, make predictions, recommendations, or decisions influencing real or virtual environments. Artificial intelligence systems use machine- and human-based inputs to perceive real and virtual environments; abstract such perceptions into models through analysis in an automated manner; and use model inference to formulate options for information or action." (Executive Order, Sec. 3. Definitions (b))._ An example of artificial intelligence is the "Chat-GPT-4" Large Language Model used in several technologies available to consumers from [https://openai.com/](https://openai.com/ "https://openai.com/").  Another example of artificial intelligence is Google's "Bard" [https://bard.google.com/](https://bard.google.com/ "https://bard.google.com/")  and "Gemini AI"  [https://deepmind.google/technologies/gemini/#introduction](https://deepmind.google/technologies/gemini/#introduction "Google Gemini AI - https://deepmind.google/technologies/gemini/#introduction")  Generally, artificial intelligence interacts with humans through a large language model to exchange information using natural human language, but its software program code and language model data rely on machine learning to simulate human intelligence during the "chat-based" exchange of information. Several additional ChatBots exist: [Microsoft - Bing Chat](https://www.bing.com/new "Microsoft - Bing Chat")  [IBM - Watson Assistant](https://www.ibm.com/products/watson-assistant "IBM - Watson Assistant")  [G2 - list of ChatBots](https://www.g2.com/products/chatgpt/competitors/alternatives "G2 - list of ChatBots").  Please see additional AI Companies and their chatbots:  [Anthropic](https://www.anthropic.com/ "anthropic.com"),  [Grok - X - (Twitter)](https://twitter.com/xai/status/1721027348970238035 "Grok - X - (Twitter)"),  [Meta - generative AI.](https://ai.meta.com/genai/ "Meta - generative AI - https://ai.meta.com/genai/")  Microsoft offers several AI products and services:  [Microsoft - CoPilot](https://www.microsoft.com/en-us/copilot "Microsoft - CoPilot")  [Microsoft - CoPilot Studio](https://www.microsoft.com/en-us/copilot/microsoft-copilot-studio "Microsoft - CoPilot Studio")  [Microsoft - AI Studio](https://azure.microsoft.com/en-us/products/ai-studio "Microsoft - AI Studio")  [Mistral AI](https://mistral.ai/ "Mistral AI for Developers").
 
 **ASN - A.S.N.** - Autonomous System Number(s), prefix numbers used in a Border Gateway Protocol ( BGP ) for network routing of IP Addresses.
 
@@ -1156,7 +1161,7 @@ The company aixeno inc. has the right to refuse service to any person(s) or enti
 
 **AutoGPT (Significant Gravitas)** - [AutoGpt](https://news.agpt.co/ "AutoGPT")
 
-**Auto-Pay, Automatic Payment** - payment that is automatic and electronic, according to prior consent of consumer, where money is authorized to be paid out of a consumer's bank account or credit card account to a business, in exchange for goods and services. Please also see "Payment Agreement" in these defintions.
+**Automatic Payment** - payment that is automatic and electronic, according to prior consent of consumer, where money is authorized to be paid out of a consumer's bank account or credit card account to a business, in exchange for goods and services.
 
 **Automatic Renewal** - with a consumer's prior consent, any voluntary reestablishment of a legal relationship created by a previously agreed upon but recently expired contract for a service.
 
@@ -1187,8 +1192,6 @@ The company aixeno inc. has the right to refuse service to any person(s) or enti
 **Bill to Pay** - any bill created by a person, entity, or company, which is presented, delivered, communicated, or electronically sent to a consumer, customer, or end-user, for payment.
 
 **Bill, Billed, Billing, Invoice, Invoicing** - a written (physical or electronic) detailed list of items, services, goods, products or other things, detailed by quantity and description and cost or price, that is delivered by a provider or seller to a buyer/consumer with the seller’s expectation that a buyer/consumer will pay for those things delivered to the consumer or made available for the consumer to use. The phrase "made available" includes electronic access to allow a consumer to use the electronic features, functions, information, data and other interactive elements of any digital solution and digital technology that is provided to consumers by this company.
-
-**Billed By The Character** -
 
 **Billed By The Data Transfer** -
 
@@ -1294,13 +1297,7 @@ The company aixeno inc. has the right to refuse service to any person(s) or enti
 
 **CFAA - Computer Fraud and Abuse Act** - the Computer Fraud and Abuse Act (“CFAA”), codified at Title 18, United States Code, Section 1030. Please also see the U.S. Federal Statutes: Electronic Communications Protection Act (“ECPA”) - 18 U.S.C. § 2702; Economic Espionage Act of 1996: 18 U.S.C. §§ 1831–1839; Wire Fraud statute: 18 U.S.C. § 1343; Identity Theft: 18 U.S.C. § 1028; Electronic Theft CFAA, 18 U.S.C. § 1030(a)(2); Access Device Fraud: 18 U.S.C. § 1029.
 
-**Challenge, Security Challenge** -
-
 **Change Password** -
-
-**Character, ascii Character** -
-
-**Character Limit, Character Limit Per Prompt (ai)** -
 
 **Charges Posted To Your Account** -
 
@@ -1311,8 +1308,6 @@ The company aixeno inc. has the right to refuse service to any person(s) or enti
 **Chatbot Service - AI Chatbot Service** - (ChatGPT1, ChatGPT2, ChatGPT3, ChatGPT4, Bing Chat, Google Bard, Apple GPT, Meta Llama, Watson Assistant, AutoGPT)
 
 **Chat Completion Model (ai)** -
-
-**Chat Dialog (ai)** -
 
 **Chat Endpoint (ai)** -
 
@@ -1327,8 +1322,6 @@ The company aixeno inc. has the right to refuse service to any person(s) or enti
 **Class** - a group of persons, services, or goods, which have some facts, characteristics, elements, legal status, or activities, in common.
 
 **Close Account** - an existing account with the company (online or otherwise) is ended, terminated, shut-down, stopped, and/or made inactive, by: ( a ) the company, ( b ) operation of law, or ( c ) by any existing and authorized client, customer, end-user, person, or entity.
-
-**Cloud Platform As A Service - cPAAS** -
 
 **Code** - software code, software application code.
 
@@ -1358,7 +1351,7 @@ The company aixeno inc. has the right to refuse service to any person(s) or enti
 
 **Company Property** - any type of property, assets, rights, title, interests, rents, profits, income, financial gains, and any other thing(s) of value that can be owned, possessed, used, and enjoyed for lawful business use, which is either partially or entirely owned and/or controlled by the corporation aixeno inc.
 
-**Company** - the words "company," "the company," and "this company," are words and phrases meaning and referring to aixeno inc., acting through the website [https://aixeno.com](https://aixeno.com/ "click or tap to go to aixeno.com - https://aixeno.com").  "The company" also means the corporation aixeno inc., and includes (without limitation) its directors, officers, managers, employees, agents, vendors, consumers,customers, end-users, affiliates, successors, assigns, partners, shareholders, or any other related and interested parties of the company.
+**Company** - the words "company," "the company," and "this company," are words and phrases meaning and referring to aixeno inc., acting through the website [https://aixeno.com](https://aixeno.com/ "click or tap to go to aixeno.com - https://aixeno.com").  "The company" also means the corporation aixeno inc., and includes (without limitation) its directors, officers, managers, employees, agents, vendors, consumers, end-users, affiliates, successors, assigns, partners, shareholders, or any other related and interested parties of the company.
 
 **Compile** - convert human created language and instructions into computer code(s) that can be read, understood, and processed by a computer.
 
@@ -1374,7 +1367,7 @@ The company aixeno inc. has the right to refuse service to any person(s) or enti
 
 **Computerize** - the actions of encoding raw data and/or raw data gathering (scanning, downloading, uploading, copying, and pasting) and then converting and transcribing that raw data into a digitized, structured, and systematic electronic information format that can be read by a computer for electronic information processing, storage, or retrieval.
 
-**Conditional Approval, Conditionally Approved,** \- temporary approval of something that is agreeable, acceptable, allowed, OK; which will become permanent approval if and only after a condition or conditions are met and fulfilled.
+**Conditional Approved** - temporary approval of something that is agreeable, acceptable, allowed, OK; which will become permanent approval if and only after a condition or conditions are met and fulfilled.
 
 **Conditions** - requirements in a contract, agreement, legal document, referring to: promises, covenants, factors, events, transactions, actions, payments, performances, deliveries, that altogether when they are met, fulfilled, or completed, then affects and changes the legal rights of persons involved with those conditions described in the legal documents or transaction requirements.
 
@@ -1418,8 +1411,6 @@ The company aixeno inc. has the right to refuse service to any person(s) or enti
 
 **Contract** - a written agreement between two or more parties, including promises, terms, conditions, created when an offer is accepted, consideration is defined, and performance is agreed to by the parties. Washington State Law defines a contract as a legally enforceable promise or set of promises. \[In order for a promise or set of promises to be legally enforceable, there must be mutual assent and consideration. “A contract is a promise or set of promises for the breach of which the law gives a remedy, or the performance of which the law recognizes as a duty.” An agreement, on the other hand, “is a manifestation of mutual assent by two or more persons to one another,” and “has a wider meaning than contract, bargain or promise.” Corbit v. J. I. Case Co., 70 Wn.2d 522, 531, 424 P.2d 290 (1967), quoting Restatement (Second) of Contracts § 3 and comment (a).
 
-**Conversational ai Chatbot** -
-
 **Cookie, Cookie Policy** - the cookie policy of aixeno.com describes and explains cookies and their use on the website aixeno.com  Please see this weblink:  [aixeno cookie policy](https://aixeno.com/cookiepolicy.html "aixeno cookie policy").
 
 **CoPilot, Co-Pilot (Microsoft)** - one of the Microsoft Artificial Intelligence Products and Services. Please see this weblink:  [website - Microsoft Copilot](https://www.microsoft.com/en-us/microsoft-copilot "Microsoft Copilot").
@@ -1444,13 +1435,9 @@ The company aixeno inc. has the right to refuse service to any person(s) or enti
 
 **Counterfeit** - illegal document(s), data, information, or anything mis-represented as valuable, that has been illegally forged, illegally copied, illegally imitated, or illegally created.
 
-**Country Restrictions, Geography Restrictions** -
-
 **Court, Court of Competent Jurisdiction** - any court (and its judges) that serves as a lawfully authorized tribunal to administer justice and resolve controversies and claims; a court of law or equity that has the legal authority to do a particular act and has the legally defined right(s) to accept the legal controversy, claim(s) or other disputes within its jurisdiction to adjudicate a resolution according to applicable law(s).
 
 **Covenants** - a formal promise or agreement in a deed, contract, compact, or other written stipulation to freely choose to act or to freely and deliberately not act, according to some principle, condition, promise, term, or legal requirement.
-
-**cPAAS - Cloud Platform As A Service** -
 
 **Create Account, Create a New Account** - a new account (online or otherwise) is created and opened with the company by the company, or any new and authorized: client, customer, consumer, end-user, person, or entity.
 
@@ -1736,8 +1723,6 @@ The company aixeno inc. has the right to refuse service to any person(s) or enti
 
 **Estimated Use** - a good faith forecast of total quantifiable "use" of a digital resource by end-users, at a specific time in the future when something is able to be used, i.e., "the average data transferred per user each month is 1 Gig of data" based upon calculations of actual quantifiable use in the present, combined with analyses, calculations, and probabilities.
 
-**ETL - E.T.L.** - Extract, Transform, Load data from several sources into one electronic database for further use, processing, reference, analysis, and other computer processing.
-
 **EULA, End-User License Agreement, License Agreement** - the license agreement that the end-user consumer agrees to be bound by, while using any digital solutions and digital technologies of the company aixeno inc. and while using any technology through any of the company's websites. (The words "consumer," and "customer," and "end-user" are used as synonyms. A "consumer," means any person or entity that uses any solutions, services or products created or provided by aixeno inc. A "consumer" includes (without limitation), any persons, and entities commonly referred to as: businesses, non-profits, governments, non-government organizations, charitable organizations, educational institutions, and scientific organizations).
 
 **Exceeding Authorized Access** - also described as: “exceeds authorized access,” sometimes also phrased “exceeding authorized access,” is the accessing a protected computer that goes beyond any scope of authorized access known by a person before the access occurred, please see the Computer Fraud and Abuse Act (“CFAA”) at 18 U.S.C. §§ 1030(a)(1), (a)(2), and (a)(4). (See also, the definitions of: "access," and "scope of access," and "authorized access" and "unauthorized access" and "unpaid access" and "fraudulent access.")
@@ -1782,8 +1767,6 @@ The company aixeno inc. has the right to refuse service to any person(s) or enti
 
 **Firewall** - a network security system that monitors and controls incoming and outgoing electronic digital network traffic by applying cybersecurity rules.  [Please see weblink: computer network firewall](https://en.wikipedia.org/wiki/Firewall_(computing) "computer network firewall").
 
-**Firewall Restrictions** -
-
 **Fitness for a Particular Purpose** - seller and buyer are aware of the intended use(s) of goods and/or services before any transaction.
 
 **Fixed Costs** - charges or payments given in exchange for goods or services, at a fixed rate of Costs. Please also see "Costs," "Variable Costs," "Recurring Costs," and "Other Costs" in these definitions.
@@ -1803,8 +1786,6 @@ The company aixeno inc. has the right to refuse service to any person(s) or enti
 **Foreign Exchange Rate** -
 
 **Forgot Password, Forgotten Password** -
-
-**FOSS, F.O.S.S.** - free and open source software.
 
 **Fraud** - a knowingly reckless concealment of facts, or a knowing misrepresentation of facts known by the bad actor to be false, or an outright deliberate false representation, or an unconscionable transaction, made in order to induce another person to act or commit an act that results in their harm. See also the definition of: "wire fraud."
 
@@ -1890,17 +1871,13 @@ The company aixeno inc. has the right to refuse service to any person(s) or enti
 
 **Image** -
 
-**Image Generation** -
-
-**Image Inputs** -
-
 **Impersonation (false impersonation)** - the crime of falsely representing oneself as another person for the purpose of deceiving and/or defrauding and/or stealing.
 
 **Implied, Implied Contract** -
 
 **Impossibility** - “Impossible” or “Impossibility” means that the promise cannot be performed or can only be performed with extreme and unreasonable difficulty, expense, or risk of injury or loss.
 
-**Inactive (account, license, payent method, or subscription)** -
+**Inactive (license or subscription)** -
 
 **Inactive Account** -
 
@@ -1930,13 +1907,9 @@ The company aixeno inc. has the right to refuse service to any person(s) or enti
 
 **Information Processing (computer data and information)** -
 
-**Infrastructure Cost** -
-
 **Infringement, Copyright Infringement, Patent Infringement, Trademark Infringement** - any action that interferes unlawfully with the exclusive rights of the owner(s) of any copyright, patent, or trademark.
 
 **Install** -
-
-**Instruction-Tuned (ai model)** - Please also see "Pretrained" ai model, in these definitions.
 
 **Insurance** - a contract whereby one undertakes to indemnify another or pay a specified amount upon determinable contingencies RCW 48.01.040.
 
@@ -1984,21 +1957,13 @@ The company aixeno inc. has the right to refuse service to any person(s) or enti
 
 **Invoice Date** -
 
-**Invoice Number** -
-
 **IP - I.P.** - Internet Protocol.
-
-**IP Restrictions, I.P. Restrictions** -
 
 **IT - I.T. - Information Technology** - information technology is the use of any type of digital computer technologies to deal with data; to create, update, store, retrieve, analyze, transmit, display, process, and communicate data.
 
 **Jurisdiction** - a geographic area covered by a recognized government with lawful authority over political executive, legislative and judicial actions within that geographic area, and/or a court of “competent jurisdiction” having the lawful power and purpose of hearing and adjudicating legal disputes and issuing court orders and decrees within a geographic area.
 
 **Key Refreshing** -
-
-**Knowledge Limit (ai model)** -
-
-**Knowledge Specialty (ai model)** -
 
 **Kyber-512 (cryptography & encryption)** -
 
@@ -2018,16 +1983,6 @@ The company aixeno inc. has the right to refuse service to any person(s) or enti
 
 **Lawful Use** -
 
-**Layer-wise Scaling** -
-
-**Legal Document** -
-
-**Legal Information** -
-
-**Legal Notice** -
-
-**Legal Requirements** -
-
 **Lend, Lending** - lend, lending a password or other access to digital solutions and/or digital technologies.
 
 **Liability** - the quality, state, condition, or legal status of being legally obligated, indebted, responsible, or able to be held accountable, for performance, action, payment, compliance with or answerable to a legal requirement.
@@ -2044,13 +1999,9 @@ The company aixeno inc. has the right to refuse service to any person(s) or enti
 
 **Limitation of Liability** - a restriction, boundary, or category of exclusion that defines the extent that any liability may be imposed upon a person or property.
 
-**Linking To Sources (ai)** -
-
 **Llama-2 LLM** -  [Meta AI - Llama](https://llama.meta.com/ "Meta AI - Llama").
 
-**LLM - L.L.M. - Large Language Model** - human interaction with a computer using natural human language for questions and answers from an enormous data source. An LLM is often made from a software program, database, and a vast dataset of text information, which is evaluated by machine learning algorithms to examine and analyze language data through several artificial neural network matrices to discover statistical patterns of word frequencies, which could be used to form statistically plausible answers to questions given to the computer as prompts. A Large Language Model often requires reinforcement training from humans, significant computer processing and network resources, and several million dollars in total research and development costs to produce a functional LLM. The artificial intelligence of a Large Language Model is its software program code acting on language model data by relying on machine learning results to simulate human intelligence during the "chat-based" exchange of information. Examples of ai models and ai technologies, products, and services, may be found on this list:    [ai list - ai from other vendors](https://aixeno.com/ailist.html "ai list - ai from other vendors").
-
-**Load Balancing** -
+**LLM - L.L.M. - Large Language Model** - human interaction with a computer using natural human language for questions and answers from an enormous data source. An LLM is often made from a software program, database, and a vast dataset of text information, which is evaluated by machine learning algorithms to examine and analyze language data through several artificial neural network matrices to discover statistical patterns of word frequencies, which could be used to form statistically plausible answers to questions given to the computer as prompts. A Large Language Model often requires reinforcement training from humans, significant computer processing and network resources, and several million dollars in total research and development costs to produce a functional LLM. The artificial intelligence of a Large Language Model is its software program code acting on language model data by relying on machine learning results to simulate human intelligence during the "chat-based" exchange of information. Examples of LLMs include (without limitation):  "Chat-GPT-4" Large Language Model used in several technologies available to consumers from [https://openai.com/](https://openai.com/ "https://openai.com/").  Another example of artificial intelligence is Google's "Bard" [https://bard.google.com/](https://bard.google.com/ "https://bard.google.com/")  Several additional ChatBots exist: [Microsoft - Bing Chat](https://www.bing.com/new "Microsoft - Bing Chat")  [IBM - Watson Assistant](https://www.ibm.com/products/watson-assistant "IBM - Watson Assistant")  [G2 - list of ChatBots](https://www.g2.com/products/chatgpt/competitors/alternatives "G2 - list of ChatBots").
 
 **Lock** -
 
@@ -2064,11 +2015,7 @@ The company aixeno inc. has the right to refuse service to any person(s) or enti
 
 **Log, Logs, Log Files** - records of the events occurring within any entity's computer, website, computer systems and computer networks. Log files contain data, and each entry contains information related to a specific event that has occurred within a computer, website, system or network.
 
-**MAU, M.A.U.** - monthly average users.
-
 **Machine Learning** -
-
-**Machine Learning Model - MLM (ai)** -
 
 **Make A Payment, Make A Payment On Your Account** -
 
@@ -2077,8 +2024,6 @@ The company aixeno inc. has the right to refuse service to any person(s) or enti
 **Malware** -
 
 **Manage Account, Manage Your Account** -
-
-**Manage Preferences** -
 
 **Market, Marketplace** -
 
@@ -2110,10 +2055,6 @@ The company aixeno inc. has the right to refuse service to any person(s) or enti
 
 **Misuse** - use that is improper, unintended by the original designer or manufacturer, used in an unforeseeably harmful manner.
 
-**Model, MLM - Machine Learning Model (ai)** -
-
-**Model Weights, MLMW - Machine Learning Model Weights (ai)** -
-
 **Modify, Modification** - (See also the definitions of "copy," and "distribute.")
 
 **Money, Currency** -
@@ -2121,8 +2062,6 @@ The company aixeno inc. has the right to refuse service to any person(s) or enti
 **Monitor, Monitoring** - unauthorized and/or unauthorized intrusive monitoring without the end-user's prior consent or permission.
 
 **Monthly** - a time interval of something occurring: one time during a standard calendar month, or something occurring once each thirty (30) days on a billing schedule of a 360 day billing year schedule, often a term used to describe recurring transactions over multiple months during a year which a consumer pays for one-time every month, as in a recurring monthly paid subscription for thirty (30) days of service.
-
-**Multimodal, Multi-Modal (ai)** -
 
 **Network Demarcation, Demarcation** -
 
@@ -2150,19 +2089,15 @@ The company aixeno inc. has the right to refuse service to any person(s) or enti
 
 **NIL - N.I.L. - Name Image Likeness** - legal rights of publicity applying to a person or entity.
 
-**NL - N.L.** -
-
 **NLP - N.L.P.** - Natural Language Processing.
 
 **NLU - N.L.U.** - Natural Language Understanding.
 
 **Non-Cash Payment** - a payment of something of value that is not cash money.
 
-**Non-Exclusive** - when granting any technology license(s) to customers, consumers, and end-users, the company does **not** grant exclusive license(s): meaning that the company does **not** exclude doing business with simultaneous or subsequent competitors of customers, consumers, and end-users.
-
 **Non-Refundable** -
 
-**Non-Transferable** - (Please see "Transferable" in these definitions).
+**Non-Transferable** - (Please see "Transferable" definition below).
 
 **Notice of Data Breach** - Please also see definition: DBN - data breach notice.
 
@@ -2176,13 +2111,9 @@ The company aixeno inc. has the right to refuse service to any person(s) or enti
 
 **Offer** - the action of a person or entity presenting to another person or entity, and/or making a promise to another person or entity, of something to be accepted or rejected. It is also a promise to do something or a promise to not do something (forbearance) in the future.
 
-**Off-Device AI Processing** -
-
 **OTP - One Time Password** -
 
 **OTPD - One Time Password Device** -
-
-**On-Device AI Processing** -
 
 **One-Time Payment** -
 
@@ -2228,8 +2159,6 @@ The company aixeno inc. has the right to refuse service to any person(s) or enti
 
 **Paperless, Paperless Billing, Paperless Payment** -
 
-**Parameters** -
-
 **Partial Payment** - a payment by a consumer or end user that is an amount less than the full amount billed.
 
 **Party** - someone or some entity who is part of or participates in and is directly interested in, a transaction, promise, contract, and/or exchange of products, goods, services, money, something of value, or a person or entity who signs a contract, agrees to terms and conditions, agrees to license terms and conditions, and is bound by the terms and conditions of the contract, agreement, or license.
@@ -2260,7 +2189,7 @@ The company aixeno inc. has the right to refuse service to any person(s) or enti
 
 **Pay Invoice** -
 
-**Payment Agreement, Online Payment Agreement, Automatic-Payment Agreement** -
+**Payment Agreement, Online Payment Agreement** -
 
 **Payment Authorization Failure** - a business using electronic pre-approval with a bank card issuer to confirm, verify, and validate that the consumer's or end user's bank card is valid, active, and has sufficient funds or credit authorization to pay the money required in exchange for goods and services purchases, and where the bank card issuer declines approval and authorization for payment to proceed.
 
@@ -2287,8 +2216,6 @@ The company aixeno inc. has the right to refuse service to any person(s) or enti
 **Payment Method** - the source of funds to be used for payments: bank card, credit card, debit card, check, electronic funds transfer.
 
 **Payment Options** - a choice for payment from available payment method(s): bank card, credit card, debit card, check, electronic funds transfer.
-
-**Payment Posted** -
 
 **Payment Processed In Foreign Country** -
 
@@ -2364,11 +2291,7 @@ The company aixeno inc. has the right to refuse service to any person(s) or enti
 
 **PQC** - post-quantum computing.
 
-**Prediction Creation (ai)** -
-
 **Prepaid Card** -
-
-**Pretrained, Pre-Trained (ai model)** - Please also see "Instruction-Tuned" in these definitions.
 
 **Price Changes** -
 
@@ -2458,7 +2381,7 @@ The company aixeno inc. has the right to refuse service to any person(s) or enti
 
 **Ratchet (encryption)** - See also "X3DH Ratchet," and "ECDH Ratchet."
 
-**Rate Limit, Rate Limiting** - a maximum number of requests, processes, transactions, messages, queries, quantities of service, quantities of digital services, or access uses, over a network or digital system.
+**Rate Limit** - a maximum number of requests, processes, transactions, messages, queries, quantities of service, quantities of digital services, or access uses, over a network or digital system.
 
 **RCW or R.C.W.** - the Revised Code of Washington ("RCW") is the compilation of all permanent laws now in force. It is a collection of Session Laws (enacted by the Legislature, and signed by the Governor, or enacted via the initiative process), arranged by topic, with amendments added and repealed laws removed. It does not include temporary laws such as appropriations acts. The official version of the RCW is published by the Statute Law Committee and the Code Reviser. https://apps.leg.wa.gov/rcw/
 
@@ -2502,7 +2425,7 @@ The company aixeno inc. has the right to refuse service to any person(s) or enti
 
 **Register and Create a New Account** -
 
-**Reinforcement Learning** - the use of machine learning algorithms and decision science by an Artificial Intelligence model (with human verification of data, generation transformations, and answers/replies compared to real world facts), to find the most accurate answer based upon facts, to find the most optimal solution to a problem, or to find the best possible outcome given available data.
+**Reinforcement Learning** - the use of machine learning algorithms and decision science by an Artificial Intelligence model to find the most optimal solution to a problem or to find the best possible decision given available data.
 
 **Reinstall - Re-Install** - to install again into a computer, an app, software program, or other technology, after the first installation of the app, software program, or other technology was attempted or completed.
 
@@ -2521,8 +2444,6 @@ The company aixeno inc. has the right to refuse service to any person(s) or enti
 **Renewal Policy** -
 
 **Replace** - to move something tangible into its original position and location, or to substitute and exchange one thing for another thing.
-
-**Reply Limit (ai)** - an ai usage limit programmed into a machine learning model that limits the quantity of how many answers (replies) the model produces to your queries and prompts
 
 **Report A Problem (technology problem)** -
 
@@ -2574,15 +2495,11 @@ The company aixeno inc. has the right to refuse service to any person(s) or enti
 
 **SAAS, S.A.A.S.** ( Software As A Service ) - apps delivered to end-users from an internet cloud-based app server, usually provided through a subscription.  [Definition of SAAS - Software As A Service](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-saas "Definition of Software As A Service").
 
-**SLM, S.L.M. (ai)** - small language model. Please also see "LLM - Large Language Model," in these defintions.
-
 **Sales Tax Exemption, Sales Tax Exempt** - in a transaction of money paid for goods or services, a sales tax does not apply to the transaction and sales tax is not legally required to be paid, based upon specific laws and tax regulations.
 
 **SBOM, S.B.O.M. (Software Bill of Materials)** - a document that shows the ingredients that went into making software and the details of any external third-party sources of code, open-source code, and any supply chain relationship(s) for content delivery or other services used to make the software function.
 
 **Scam, Scamming** - intentionally and knowingly deceiving a victim by misrepresenting, concealing, or omitting facts about promised goods, services, or other benefits and consequences that are nonexistent, unnecessary, never intended to be provided, or deliberately distorted for the purpose of monetary gain.  [Please also see the definitions of financial fraud at the U.S. Dept. of Justice](https://bjs.ojp.gov/taxonomy/term/financial-fraud "financial fraud definition - https://bjs.ojp.gov/taxonomy/term/financial-fraud").
-
-**Schedule A Payment** -
 
 **Scheduled Payment** -
 
@@ -2630,8 +2547,6 @@ The company aixeno inc. has the right to refuse service to any person(s) or enti
 
 **SLA - S.L.A.** \- service level agreement. A contract dealing with specific terms of an electronic service provided to an end-user, which may contain terms and conditions of: service availability, data speed, quality of service, monitoring of normal operations, fault reporting and response/resolution, division of responsibilities between company versus end-user, failover response systems, backup and recovery, upgrades, maintenance downtime schedules, cybersecurity risk management, security audit procedures and schedules, and several other terms and conditions. Please also see "Service(s) Agreement," and "Master Services Agreement" above in these legal definitions.
 
-**Small Language Model, SLM, S.L.M. (ai)** - small language model. Please also see "LLM - Large Language Model," in these defintions.
-
 **Smishing** -
 
 **Social Engineering Scams** -
@@ -2639,8 +2554,6 @@ The company aixeno inc. has the right to refuse service to any person(s) or enti
 **Social Media** -
 
 **Software** -
-
-**Software Cost** -
 
 **Solutions** - the word "solutions" and the phrase "digital solutions" refers to anything created by aixeno inc. that is made available to consumers through the website [https://aixeno.com](https://aixeno.com/ "click or tap to go to aixeno.com</b> - https://aixeno.com") including (but not limited to): apps, software, data, information, technology, digital services, digital products, websites, web applications delivered by software as a service "web app saas," artificial intelligence "ai," digital data, digital information, networks, technology contracts, technology services, quantum computing software, intellectual property created and owned by the company, and any company property used to provide consumers any digital services or digital products.
 
@@ -2738,10 +2651,6 @@ The company aixeno inc. has the right to refuse service to any person(s) or enti
 
 **Texas Data Privacy and Security Act, TDSPA** - please see this weblink:  [Texas Legislature - Text of Privacy Law](https://capitol.texas.gov/tlodocs/88R/billtext/pdf/HB00004F.pdf#navpanes=0 "Texas Data Privacy and Security Act, TDSPA").
 
-**Text Generation** -
-
-**Text-To-Image Generation** -
-
 **The Company** - "the company" means the corporation aixeno inc., and includes (without limitation) its directors, officers, managers, employees, agents, vendors, consumers, end-users, affiliates, successors, assigns, partners, shareholders, or any other related and interested parties of the company.
 
 **Theft of a Computer Service** - Please see Washington Law RCW 9A.56:  [Theft and Robbery](https://app.leg.wa.gov/rcw/default.aspx?cite=9a.56 "Theft and Robbery").  In addition to Washington State, several other U.S. States have their own cybersecurity laws (civil and criminal). Please also see the U.S. Federal Statutes: Computer Fraud and Abuse Act (“CFAA”) - 18 U.S.C. § 1030; Electronic Communications Protection Act (“ECPA”) - 18 U.S.C. § 2702; Economic Espionage Act of 1996: 18 U.S.C. §§ 1831–1839; Wire Fraud statute: 18 U.S.C. § 1343; Identity Theft: 18 U.S.C. § 1028; Electronic Theft CFAA, 18 U.S.C. § 1030(a)(2); Access Device Fraud: 18 U.S.C. § 1029.
@@ -2806,25 +2715,19 @@ The company aixeno inc. has the right to refuse service to any person(s) or enti
 
 **Trademark** - words, symbols, or designs that identify a distinctive and unique brand specific to a product or service.
 
-**Training Data** -
-
-**Training Data Cutoff Date** -
-
-**Training Materials, Training Data, Training Model Data** -
-
-**Transaction** - any business or personal activity between two or more persons or entities which is an exchange of goods, services, assets, liabilities, equity, property, rights, titles, economic interests, financial interests, debts, obligations, money, for valuable payment, exchange, transfer, negotiation, promise, bargain, trade, auction, sale, assumption of debt, payment of a price or cost, issuance or creation of a financial instrument, sale or purchase of an asset or property, or any other thing of value.
+**Transaction** -
 
 **Transactions Are Charged in US Dollars (USD)** -
 
 **Transaction Limit** - a quantified maximum amount of a transaction that cannot be exceeded. A transaction limit can be a maximum dollar amount, total number of transaction(s) within a specific time (24 hours), or any other limiting factor or characteristic, where the transaction limits and conditions are often pre-determined by a bank, credit union, or other financial institution, which processes financial transactions.
+
+**Transaction** - any business or personal activity between two or more persons or entities which is an exchange of goods, services, assets, liabilities, equity, property, rights, titles, economic interests, financial interests, debts, obligations, money, for valuable payment, exchange, transfer, negotiation, promise, bargain, trade, auction, sale, assumption of debt, payment of a price or cost, issuance or creation of a financial instrument, sale or purchase of an asset or property, or any other thing of value.
 
 **Transaction Number** -
 
 **Transfer** - to move something from one location to another location. The action of taking something to another location by moving, sending, communicating, conveying, selling, giving, sharing, delivering, removing, or otherwise changing its original location and possessor/owner over to a different location or possessor/owner.
 
 **Transferable** - something that may be moved, sent, communicated, conveyed, sold, given, shared, delivered, removed, or otherwise changed from its original location and possessor/owner over to a different location or possessor/owner.
-
-**Transformer Model** -
 
 **Transmission** - the action of transmitting information, or the contents, information, and data within a transmission.
 
@@ -2841,8 +2744,6 @@ The company aixeno inc. has the right to refuse service to any person(s) or enti
 **Trial** - a test or experiment; "try before you buy." Please also see "Trial License" and "Trial Use" in the legal definitions on this webpage.
 
 **Troll, Trolling** - speech in any form or format online, on the internet, in email, in text messages, or on social media, that contains words, phrases, symbols and imagery that are individually or altogether: abusive, attacking, accusatory, malicious, confrontational, taunting, baiting, lying, provoking, griefing, spamming, deceitful, fraudulent, insulting, hateful, hostile, harassing, bullying, punishing, exploitative, manipulative, misleading, malevolent, threatening, illegal, sabotaging, fighting words to provoke a fight, defamatory and/or libelous, incendiary, deliberately containing false information, and/or false accusations. Trolling speech deliberately and recklessly disregards truth and verifiable facts and instead, uses words and phrases that are intended to cause: harm, anger, rage, chaos, disruption, social unrest, cancelation of a person's membership in a social group or enjoyment of their good reputation, incitement to an illegal act, incitement to violence, and overall it is speech that seeks to target in a negative and hurtful way any person, place or thing with a goal of showing harm, diminishment, disrepute, disruptions, delays, and/or actual destruction of a person, place, or thing. Often the intention of a troll that actively engages in trolling someone (or some entity, i.e. a business entity), is to cause the permanent loss of something beneficial that is used or is enjoyed as a legal right of use, and is affected by or through the use of the internet, use of a social media platform, or use of another type of communication through any technology (emails, text messages), or access to and use of any marketplace and online marketplace. Any troll's hate speech may cause loss or destruction to a person's reputation, social standing, market position, or membership in any social group, and the victim of trolling often suffers financial losses and business opportunity losses directly or indirectly caused by an internet troll's hate speech that was published on the internet, through messages, or was published on social media. In the pursuit of a perverse goal to cause irreparable harm a troll's hate speech may also aim to cause the harms of a person or entity suffering from the expressed hatred, contempt, ridicule, or other types of damage (i.e. financial losses) from other people in society, participants in a marketplace, or from others online avoiding, abandoning, expelling, refusing to do business with, or canceling a person or entity. A troll's hate speech may also be directed toward a group of persons or entities.
-
-**Tuning, Instruction Tuning, Instruction Tuned Model (ai)** -
 
 **UA - U.A.** - user agent: a computer program representing a person, for example, a web browser, such as Microsoft Edge, Google Chrome, or Mozilla Firefox.
 
@@ -2891,8 +2792,6 @@ The company aixeno inc. has the right to refuse service to any person(s) or enti
 **URL - U.R.L.** - uniform resource locator: website address on the world wide web (internet) that is typed into a web browser to find websites, webpages, and webapps.
 
 **Usage** -
-
-**Usage Cap** -
 
 **Usage Costs** - charges or payments given in exchange for goods or services where costs are incurred on a quantity per-unit basis. Please also see "Costs," "Fixed Costs," "Variable Costs," "Recurring Costs," and "Other Costs" in these definitions.
 
@@ -3008,13 +2907,9 @@ The company aixeno inc. has the right to refuse service to any person(s) or enti
 
 **Vishing** - voice phishing that uses voice communication to try and trick a consumer into giving up sensitive information: it is also a type of cyberattack.
 
-**Voice Inputs** -
-
 **Void** - a transaction, rule, policy, law, requirement, request, offer, acceptance, payment, promise, debt, or any other thing, which has been cancelled, nullified, stopped, retracted, withdrawn, repudiated, renounced, disclaimed, or otherwise ceased. The consequence and result of something being void is that it has no legal existence or legal requirement to be performed, fulfilled, delivered, paid, acted upon, or complied with.
 
 **WAF - W.A.F.** - web application firewall. Please click on this weblink:  [explanation of a web application firewall at cloudflare.com](https://www.cloudflare.com/learning/ddos/glossary/web-application-firewall-waf/ "explanation of a web application firewall at cloudflare.com").
-
-**WAF Restrictions, W.A.F. Restrictions** -
 
 **WAN - W.A.N.** - wide area network. Several computers in different physical locations over a large geographic area (wide area) which are connected by an electronic digital network.
 
