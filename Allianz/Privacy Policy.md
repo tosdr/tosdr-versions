@@ -35,11 +35,11 @@
         * [Brand in action](https://www.allianz.com/en/about-us/brand/brand-in-action.html)
         * [Acting sustainably](https://www.allianz.com/en/about-us/brand/acting-sustainably.html)
         * [Partnerships](https://www.allianz.com/en/about-us/brand/partnerships.html)
-    * [![](/content/experience-fragments/onemarketing/azcom/Allianz_com/en_GB/azcom_header/flyout_teaser/about-us/master3/_jcr_content/root/teaser-horizontal/image.img.jpeg/1715751813842/ir-results-stage.jpeg)
+    * [![](/content/experience-fragments/onemarketing/azcom/Allianz_com/en_GB/azcom_header/flyout_teaser/about-us/master/_jcr_content/root/teaser-horizontal/image.img.jpeg/1712667217487/sustainability-in-the-spotlight-flyout-teaser.jpeg)
         
-        ### Earnings Release: 1Q 2024
+        ### Sustainability in the Spotlight
         
-        More](https://www.allianz.com/en/press/news/financials/business_results/240515-allianz-1q-2024-earnings-release.html)
+        More](https://www.allianz.com/en/sustainability/sustainability-report-and-other-publications/spotlight-on-sustainability.html)
         
     
 * [Investor Relations](https://www.allianz.com/en/investor_relations.html)
@@ -107,13 +107,12 @@
     * [Topics](https://www.allianz.com/en/press/topics.html)
         * [About IFRS 9 & 17](https://www.allianz.com/en/press/topics/about-ifrs-9-and-17.html)
         * [Financial Literacy](https://www.allianz.com/en/economic_research/sustainability-research/financialliteracy.html)
-        * [Road to Paris 2024](https://www.allianz.com/en/about-us/brand/partnerships/olympic-paralympic-movements/road-to-paris-2024.html)
-        * [Floods in southern Germany](https://www.allianz.com/en/press/topics/floods-in-southern-germany.html)
-    * [![](/content/experience-fragments/onemarketing/azcom/Allianz_com/en_GB/azcom_header/flyout_teaser/about-us/master3/_jcr_content/root/teaser-horizontal/image.img.jpeg/1715751813842/ir-results-stage.jpeg)
+        * [Road to Paris](https://www.allianz.com/en/about-us/brand/partnerships/olympic-paralympic-movements/road-to-paris-2024.html)
+    * [![](/content/experience-fragments/onemarketing/azcom/Allianz_com/en_GB/azcom_header/flyout_teaser/about-us/master2/_jcr_content/root/teaser-horizontal/image.img.jpeg/1701349122679/bgb-2023-flyout.jpeg)
         
-        ### Earnings Release: 1Q 2024
+        ### Allianz is the #1 insurance brand globally
         
-        More](https://www.allianz.com/en/press/news/financials/business_results/240515-allianz-1q-2024-earnings-release.html)
+        Visit the brand value page](https://www.allianz.com/en/about-us/brand/brand-value.html)
         
     
 * [Careers](https://careers.allianz.com/)
@@ -179,6 +178,7 @@
     * [Interactive tools](https://www.allianz.com/en/economic_research/interactive-tools.html)
         * [Allianz Global Wealth Map](https://www.allianz.com/en/economic_research/interactive-tools/interactive-wealth-map.html)
         * [Allianz Global Insurance Map](https://www.allianz.com/en/economic_research/interactive-tools/global-insurance-map.html)
+        * [Interest Income Calculator](https://www.allianz.com/en/economic_research/interactive-tools/interest-income-calculator.html)
     * [![](/content/experience-fragments/onemarketing/azcom/Allianz_com/en_GB/azcom_header/flyout_teaser/Economic-Research/master/_jcr_content/root/teaser-horizontal/image.img.jpeg/1708695164085/flyoutteaserer.jpeg)
         
         ### SAMEpath
@@ -260,13 +260,13 @@ Allianz SE
 
 The Group Chief Privacy Officer reports directly to a Board Member and is supported by a team of 42 privacy professionals.
 
-128 Privacy FTEs
+172 Privacy FTEs
 
-To ensure compliance throughout the organization, Allianz has 128 Privacy FTEs all over the world.
+To ensure compliance throughout the organization, Allianz has 172 Privacy FTEs all over the world.
 
-2,500 Privacy champions
+2,049 Privacy champions
 
-To further embed Privacy principles in the organization, the Privacy function is supported by 2,500 Privacy Champions
+To further embed Privacy principles in the organization, the Privacy function is supported by 2,049 Privacy Champions
 
 **4\. Allianz Sharing of Personal Data**
 ----------------------------------------
@@ -293,7 +293,7 @@ To further embed Privacy principles in the organization, the Privacy function is
 **7\. Achievements**
 --------------------
 
-* Allianz has been ranked in the 100-percentile of the Dow Jones Sustainability Index for three consecutive years, achieving highest possible marks for its privacy protection.  
+* Allianz achieved 100 out of 100 points in the Dow Jones Sustainability Report in 2022 – 2 years in a row.  
     
 * In its German key market, Allianz has successfully attained the TÜV data protection certification for sale of [Property & Casualty](https://www.tuev-saar.de/zertifikat/tk45019/)\*, [Life\*](https://www.tuev-saar.de/zertifikat/tk45021/) and [Health](https://www.tuev-saar.de/zertifikat/tk45020/) products on [www.allianz.de](http://www.allianz.de/)\*. The TÜV also certified the job applicant process in Germany via [careers.allianz.com](https://careers.allianz.com/).
 
@@ -330,11 +330,11 @@ Privacy notice
 **We care about your personal data**
 ------------------------------------
 
-Allianz appreciates your visit to this Allianz group corporate website ("Allianz Website") and your interest in our services and products. Your privacy is important to us and we want you to feel comfortable visiting our site. This privacy notice explains how and what type of personal will be collected, processed and used during and following your visits to the Allianz Website, why it is collected, with whom it is shared and your rights in this regards. Please read this notice carefully.
+Allianz appreciates your visit to this website ("Allianz Website") and your interest in our services and products. Your privacy is important to us and we want you to feel comfortable visiting our site. This privacy notice explains how and what type of personal will be collected, processed and used during and following your visits to the Allianz Website, why it is collected, with whom it is shared and your rights in this regards. Please read this notice carefully.
 
 This privacy notice applies to any information obtained by Allianz through your use of the Allianz Website. It does not apply to any websites controlled by third parties not affiliated with Allianz that the Allianz Website may link to ("Third Party Sites"). Please review the privacy statements of Third Party Sites as Allianz is not responsible for and has no influence on the content or the privacy practices of Third Party Sites.
 
-The terms of this privacy notice are subjected to any additional terms, disclaimers or other contractual terms you have entered into with Allianz such as client privacy statements or notices, and any appliable mandatory laws and regulations. It is important to note that Allianz companies maintain local product-related websites with their own privacy statements about how and what type of personal data will be collected by those Allianz companies and the purposes for which they may collect, share or disclose the data. More information about our Allianz companies can be found [here](https://www.allianz.com/en/about-us/company/contact.html#allianz-worldwide).
+The terms of this privacy notice are subjected to any additional terms, disclaimers or other contractual terms you have entered into with Allianz such as client privacy statements or notices, and any appliable mandatory laws and regulations.
 
 This privacy notice may be updated from time to time, please do check it on a regular basis.
 
@@ -343,8 +343,8 @@ This privacy notice may be updated from time to time, please do check it on a re
 
 A data controller is the individual or legal person who controls and is responsible to keep and use personal data in paper or electronic files. Allianz SE (Allianz) is the data controller as defined by relevant data protection laws and regulations.
 
-**2\. What personal data will be collected?**
----------------------------------------------
+**2\. What personal data will be collected**
+--------------------------------------------
 
 When you visit the Allianz Website, our web server automatically records details about your visit including:
 
@@ -379,12 +379,7 @@ Allianz will use your personal data for the following purposes:
 
 For the purposes indicated above, we will process personal data we receive about you from public and commercial databases.
 
-We will inform you where we require your consent to process your personal data prior to collection.  Allianz will collect, use and / or disclose your personal data based on consent for the following purposes on this Allianz Website:
-
-* For the use of individual tracking technologies, such as performance or targeting cookies, to develop and improve the services of Allianz, other companies within the Allianz group, business partners and / or other third parties. For more details, please see Sections 4, 5 and 6 below.
-* For surveys or newsletter subscriptions to comply with ePrivacy and Competition regulations.
-
-Otherwise, we will process your personal data based on other lawful bases, such as to meet our legitimate business interests (including maintaining contact with clients, providing updates and information about Allianz, organizing and hosting events, and conducting market research and analysis) or where it is needed to comply with a legal obligation. In addition, we may also process your personal data to enter into a contract with you, or to perform our obligations under an existing contract with you.
+We will inform you where we require your consent to process your personal data. Otherwise, we will process your personal data to meet our legitimate business interests (including maintaining contact with clients, providing updates and information about Allianz, organizing and hosting events, and conducting market research and analysis) or where it is needed to comply with a legal obligation. In addition, we may also process your personal data to enter into a contract with you, or to perform our obligations under an existing contract with you.
 
 Allianz respects applicable laws and regulations in its use of personal data.
 
@@ -393,9 +388,9 @@ Allianz respects applicable laws and regulations in its use of personal data.
 
 Tracking technology helps us manage and improve the usability of the Allianz Website, for example by detecting whether there has been any contact between your computer and us in the past and to identify the most popular sections of the Allianz Website.
 
-Based on a more detailed description on the usage of cookies our Cookies Management Tool helps you to manage your cookies preferences including providing consent. The link to the respective Cookies Management Tool you find below. You can withdraw   your consent to the usage of certain cookies any time using the before mentioned tool.
+Based on a more detailed description on the usage of cookies our Cookies Management Tool helps you to manage your cookies preferences including providing consent. The link to the respective Cookies Management Tool you find below. You can withdraw your consent to the usage of certain cookies any time using the before mentioned tool.
 
-When you save your cookie settings, they should also apply to your future visits to the Allianz Website. However, for technical reasons beyond the control of Allianz, this cannot be guaranteed. For example, if you reset your browser, delete your cookies or access the Allianz Website from another browser or device, your cookie settings may be lost. To comply with applicable laws and regulations, in some countries you may be asked to confirm your cookie settings   when you first visit the Allianz Website. If you are in a country where you are automatically required to set your cookie settings, you may be asked to set them again on a future visit.
+When you save your cookie settings, they should also apply to your future visits to the Allianz Website. However, for technical reasons beyond the control of Allianz, this cannot be guaranteed. For example, if you reset your browser, delete your cookies or access the Allianz Website from another browser or device, your cookie settings may be lost. To comply with applicable laws and regulations, in some countries you may be asked to confirm your cookie settings when you first visit the Allianz Website. If you are in a country where you are automatically required to set your cookie settings, you may be asked to set them again on a future visit.
 
 In many cases you can also control tracking technologies using your browser. Please ensure that your browser setting reflects whether you wish to be warned about and/or accept tracking technologies (such as cookies) where possible. The specific capabilities of your browser and instructions on how to use them can usually be found in the manual or help file of your browser.
 
@@ -421,7 +416,7 @@ Only if you grant your consent to the data transfer in the cookie consent prefer
 
 If you interact with the plug-in, e.g. by playing an imbedded YouTube video, the data will be transferred directly from your browser to the Provider and saved by the Provider. 
 
-For more information on the purpose and scope of data collection, processing and use, please refer to the privacy statements below:  
+For more information on the purpose and scope of data collection, processing and use, please refer to the privacy statements below:
 
 Facebook: [https://de-de.facebook.com/about/privacy/](https://de-de.facebook.com/about/privacy/)
 
@@ -440,8 +435,7 @@ Tiktok: [https://tiktok.com/legal/page/eea/privacy-policy/en](https://tiktok.com
 **6\. Who will have access to personal data collected through the Allianz Website?**
 ------------------------------------------------------------------------------------
 
-We will ensure that your personal data is processed in a manner that is compatible with the purposes specified above. For these specified purposes, Allianz may disclose your Personal Data to a third party with your consent or criteria permitted by law. Your personal data may be disclosed to the following parties who operate as third party data controllers:  
- 
+We will ensure that your personal data is processed in a manner that is compatible with the purposes specified above. For the specified purposes, your personal data may be disclosed to the following parties who operate as third party data controllers:
 
 * Other Allianz Group companies
 * Authorized agents and third party service providers
@@ -461,7 +455,7 @@ Finally, we may share your personal data in the following instances:
 
 Your personal data may be processed both inside and outside of the European Economic Area (EEA) by the parties specified above, subject always to contractual restrictions regarding confidentiality and security in line with applicable data protection laws and regulations. We will not disclose your personal data to parties who are not authorized to process them.
 
-Whenever we transfer your personal data for processing outside of the EEA by another Allianz company, we will do so on the basis of the binding corporate rules (BCRs) of Allianz which establish adequate protection for personal data and are legally binding on Allianz Group companies. The public version of the BCRs and the list of Allianz Group companies that comply with them can be accessed [here](https://www.allianz.com/en/privacy-statement.html#bcrcompanies).
+Whenever we transfer your personal data for processing outside of the EEA by another Allianz Group company, we will do so on the basis of the binding corporate rules (BCRs) of Allianz which establish adequate protection for personal data and are legally binding on Allianz Group companies. The public version of the BCRs and the list of Allianz Group companies that comply with them can be accessed here.
 
 Where the BCRs do not apply, we will instead take steps to ensure that the transfer of your personal data outside of the EEA receives an adequate level of protection as it does in the EEA. You can find out what safeguards we rely upon for such transfers (for example, Standard Contractual Clauses) by contacting us as detailed below.
 
@@ -477,7 +471,7 @@ Where permitted by applicable law or regulation, you have the right to:
 * Restrict the processing of your personal data in certain circumstances, e.g. where you have contested the accuracy of your personal data, for the period enabling us to verify its accuracy
 * Obtain your personal data in an electronic format
 * File a complaint with us and/or the relevant data protection authority
-* Object to us processing your personal data, or tell us to stop processing it (including for purposes of direct marketing)
+* object to us processing your personal data, or tell us to stop processing it (including for purposes of direct marketing)
 
 ### **9\. What security measures have we implemented to protect your information collected through the Allianz Website?**
 
@@ -507,11 +501,11 @@ Koeniginstrasse 28
 80802 Munich  
 Germany
 
-[\[email protected\]](https://www.allianz.com/cdn-cgi/l/email-protection)
+[goodprivacy@allianz.com](mailto:goodprivacy@allianz.com)
 
 ### **14\. How often is this notice updated?**
 
-We regularly review this privacy notice. We will ensure the most up to date version is published here. This privacy notice was last updated on 2 May 2024.
+We regularly review this privacy notice. We will ensure the most up to date version is published here. This privacy notice was last updated on 1 March 2023.
 
 Binding Corporate Rules (BCRs)
 
@@ -532,7 +526,7 @@ BCRs companies
 Allianz Group companies are required to implement the Allianz Binding Corporate Rules (BCRs). An up-to-date list of Allianz Group companies who have committed to comply with the Allianz BCRs is available here:  
  
 
-[BCRs companies as of April 23, 2024](https://www.allianz.com/content/dam/onemarketing/azcom/Allianz_com/info/04-23-2024-Allianz-Group-Companies-participating-in-ICA.pdf)
+[BCRs companies as of October 5, 2023](https://www.allianz.com/content/dam/onemarketing/azcom/Allianz_com/info/231005_AllianzGroupCompanies_participating_ICA.pdf)
 
 Main pages
 
