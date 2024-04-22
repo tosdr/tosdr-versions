@@ -173,6 +173,8 @@ If a user encounters content they believe to be inappropriate or in violat
 
 © BuildStore 2024
 
+[](https://www.reddit.com/r/builds_io/)
+
 [](https://www.facebook.com/buildstoreng)
 
 [](https://twitter.com/builds_io/)
