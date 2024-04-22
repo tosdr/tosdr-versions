@@ -106,14 +106,14 @@ For further information regarding the applicable laws, regulations, and policies
 
 * Recent:
 
-* ![AeroBase Group, Inc.](/public/images/logo.png "AeroBase Group, Inc. Logo")
+* ![AeroBase Group, Inc.](/public/images/140xNxlogo.png.pagespeed.ic.on3YSwSbvO.png "AeroBase Group, Inc. Logo")
 * ISO 9001:2015 + AS9120B Phone: 1 (321) 802-5889  
     Fax: 1 (321) 733-7477
     
     3555 Agricultural Center Dr.  
     St. Augustine, FL  32092
     
-     [![facebook](/public/images/social/facebook.png "Connect on facebook")](https://facebook.com/AeroBaseGroup)[![twitter](/public/images/social/twitter.png "Connect on twitter")](https://twitter.com/aerobasegroup)[![linkedin](/public/images/social/linkedin.png "Connect on LinkedIn")](https://www.linkedin.com/company/aerobase-group-inc/about/)[![YouTube](/public/images/social/youtube.png "Watch on YouTube")](https://www.youtube.com/user/AeroBaseGroup/)
+     [![facebook](/public/images/social/xfacebook.png.pagespeed.ic.X5PbMiXunI.png "Connect on facebook")](https://facebook.com/AeroBaseGroup)[![twitter](/public/images/social/xtwitter.png.pagespeed.ic.uP_XWz6uhv.png "Connect on twitter")](https://twitter.com/aerobasegroup)[![linkedin](/public/images/social/xlinkedin.png.pagespeed.ic.jlFzLPVQZ9.png "Connect on LinkedIn")](https://www.linkedin.com/company/aerobase-group-inc/about/)[![YouTube](/public/images/social/24xNxyoutube.png.pagespeed.ic.FFKLi-lyj0.png "Watch on YouTube")](https://www.youtube.com/user/AeroBaseGroup/)
     
 
 * **Company**
@@ -146,40 +146,40 @@ For further information regarding the applicable laws, regulations, and policies
 * [Recently Updated RSS](https://aerobasegroup.com/rss/)
 * [New Images RSS](https://aerobasegroup.com/rss-images/)
 
-[![ISO 9001:2015 + AS9120B Certified Supplier](https://aerobasegroup.com/public/images/AS9120_ISO_9001.png "ISO 9001:2015 + AS9120B")](https://aerobasegroup.com/quality)
+[![ISO 9001:2015 + AS9120B Certified Supplier](https://aerobasegroup.com/public/images/Nx140xAS9120_ISO_9001.png.pagespeed.ic.nX4Ln2t01K.png "ISO 9001:2015 + AS9120B")](https://aerobasegroup.com/quality)
 
 #### Defense News
 
-* [Lockheed running out of parking space amid F-35 delays, says watchdog](https://www.defensenews.com/air/2024/05/16/lockheed-running-out-of-parking-space-amid-f-35-delays-says-watchdog/)  
-    05/16/24 04:55pm  
+* [US Air Force stages dogfights with AI-flown fighter jet](https://www.defensenews.com/air/2024/04/19/us-air-force-stages-dogfights-with-ai-flown-fighter-jet/)  
+    04/19/24 04:57pm  
     
-    A U.S. Air Force F-35A jet flies at Hill Air Force Base, Utah, on Jan. 11, 2024. A group of upgrades to the F-35's cockpit displays and computers is about a year late. (Staff Sgt. Kaitlyn Ergish/U.S. Air Force)
+    The U.S. Air Force Test Pilot School's X-62A VISTA jet -- a heavily modified F-16 fighter that can fly autonomously -- carried out the first ever dogfights with an artificial intelligence-flown jet last September. The service and DARPA hope it will help build trust in autonomous flight and lead to the creation of aircraft such as Collaborative Combat Aircraft. (Alex Lloyd/Air Force)
     
-* [House bill: Time to put Air Force’s ‘flying car’ concept into action](https://www.defensenews.com/air/2024/05/15/house-bill-time-to-put-air-forces-flying-car-concept-into-action/)  
-    05/15/24 12:16pm  
+* [Nigeria expects first batch of Leonardo M-346 fighter jets this year](https://www.defensenews.com/global/europe/2024/04/19/nigeria-expects-first-batch-of-leonardo-m-346-fighter-jets-this-year/)  
+    04/19/24 12:12pm  
     
-    Joby Aviation on Sept. 25 delivered the first electric vertical take-off and landing air taxi to Edwards Air Force Base to use in day-to-day cargo and passenger transportation. A House defense policy bill unveiled this week would require the military to set up a group to figure out how to transition these Agility Prime concepts into systems the Air Force and other services could use in day-to-day operations. (Joby Aviation)
+    Italian firm Leonardo produces the M-346 trainer jet and a fighter attack version. (Courtesy of Leonardo)
     
-* [Australia unveils record $37 billion defense budget](https://www.defensenews.com/global/asia-pacific/2024/05/15/australia-unveils-record-37-billion-defense-budget/)  
-    05/15/24 10:19am  
+* [India proffers HAL its largest-ever tender: 97 Tejas fighters](https://www.defensenews.com/global/asia-pacific/2024/04/19/india-proffers-hal-its-largest-ever-tender-97-tejas-fighters/)  
+    04/19/24 11:32am  
     
-    The Royal Australian Navy submarine HMAS Sheean, a Collins-class boat, arrives in Hobart, Australia, on April 1, 2021. (LSIS Leo Baumgartner/Australian Defence Force via Getty Images)
+    An Indian Air Force Tejas rolls inverted during its aerial display at the 2022 Singapore Airshow. (Mike Yeo/Staff)
     
-* [House bill would block F-22 retirements, keep buying Air Force F-15EXs](https://www.defensenews.com/air/2024/05/14/house-bill-would-block-f-22-retirements-keep-buying-air-force-f-15exs/)  
-    05/14/24 04:11pm  
+* [From customer to sanctioned ‘proliferator,’ drones extend Iran’s reach](https://www.defensenews.com/unmanned/2024/04/19/from-customer-to-sanctioned-proliferator-drones-extend-irans-reach/)  
+    04/19/24 11:13am  
     
-    The Air Force wants to retire 32 older F-22A Raptors that it says would cost too much to get ready for combat, but House lawmakers appear poised to keep blocking those retirements. (Airman 1st Class Jasmyne Bridgers-Matos/U.S. Air Force)
+    A truck carries Iranian drones during an annual military parade in Tehran on Sept. 22, 2023. (AFP/Getty Images)
     
 
 Recent parts by keyword  
 
-* [MIL-V-7899](https://aerobasegroup.com/search/?term=MIL-V-7899)
-* [MS20995C47](https://aerobasegroup.com/search/?term=MS20995C47)
-* [7555932P1](https://aerobasegroup.com/search/?term=7555932P1)
-* [m792](https://aerobasegroup.com/search/?term=m792)
-* [rtv 108](https://aerobasegroup.com/search/?term=rtv+108)
-* [stm](https://aerobasegroup.com/search/?term=stm)
-* [ktx](https://aerobasegroup.com/search/?term=ktx)
+* [MD8251A/B](https://aerobasegroup.com/search/?term=MD8251A%2FB)
+* [500-BW](https://aerobasegroup.com/search/?term=500-BW)
+* [BACB30NE3-4](https://aerobasegroup.com/search/?term=BACB30NE3-4)
+* [MIL-I-631-G](https://aerobasegroup.com/search/?term=MIL-I-631-G)
+* [40mm](https://aerobasegroup.com/search/?term=40mm)
+* [100-C](https://aerobasegroup.com/search/?term=100-C)
+* [A122-6B-9Q8-0400](https://aerobasegroup.com/search/?term=A-1226B+9Q+8040-00-290-4301)
 
 The AeroBase Group Family ..
 
