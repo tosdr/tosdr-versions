@@ -20,14 +20,14 @@ This privacy notice explains how entities of the Auction Technology Group, use p
     If you require further information or wish to make a request:
     
     1. Contact us by phone on
-        1. [+1 866 597 2437](tel:+1%20866%20597%202437) for Bidspotter
-        2. [+1 877 505 7770](tel:+1%20877%20505%207770) for Proxibid
+        1. [+1 866 597 2437](tel:+1 866 597 2437) for Bidspotter
+        2. [+1 877 505 7770](tel:+1 877 505 7770) for Proxibid
     2. Contact us electronically via the Contact Us forms on this website.
     3. Contact us by post via the address provided on this website.
     4. Send us a message via your account.
     5. Escalate the matter to our European Representative Office and Group Data Protection Office at
-        * Email: [DPO@AuctionTechnologyGroup.com](mailto:DPO@auctiontechnologygroup.com)
-        * Phone: [+44 (0)203 725 5500](tel:+44%20(0)203%20725%205500)
+        * Email: [DPO@AuctionTechnologyGroup.com](mailto:DPO@AuctionTechnologyGroup.com)
+        * Phone: [+44 (0)203 725 5500](tel:+44 (0)203 725 5500)
         * Letter: 65 Southwark Street London SE1 0HR, UK.
 2. How do we use personal data?
     ----------------------------
@@ -141,7 +141,7 @@ This privacy notice explains how entities of the Auction Technology Group, use p
     
     To exercise any of these rights, please contact our Customer Service teams, using the contact details provided on this website, highlighting that you are raising a Data Subject Request.
     
-    If you are ever not happy with the way we have handled your data, you have the right to escalate the matter to our Group independent Data Protection Office ([DPO@AuctionTechnologyGroup.com](mailto:DPO@auctiontechnologygroup.com)), to our supervisory authority (the Information Commissioner's Office at ico.org.uk) or to initiate legal action. However, if you ever have any problems, we ask that you contact our Customer Service teams first, so that we can help to resolve the issue directly, using the contact details provided above.
+    If you are ever not happy with the way we have handled your data, you have the right to escalate the matter to our Group independent Data Protection Office ([DPO@AuctionTechnologyGroup.com](mailto:DPO@AuctionTechnologyGroup.com)), to our supervisory authority (the Information Commissioner's Office at ico.org.uk) or to initiate legal action. However, if you ever have any problems, we ask that you contact our Customer Service teams first, so that we can help to resolve the issue directly, using the contact details provided above.
     
 4. Data Retention
     --------------
