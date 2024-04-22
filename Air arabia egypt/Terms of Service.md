@@ -25,7 +25,6 @@ Main menu
     * [Book flight + hotel](https://holidays.airarabia.com/)
     * [Book hotel](http://hotels.airarabia.com/)
     * [Rent a car](https://cars.airarabia.com/?clientID=811616)
-    * [Fare types](https://www.airarabia.com/fare-types)
     
     * [Groups & Charters](#)
     * [Group travel requests](https://www.airarabia.com/group-travel-requests)
