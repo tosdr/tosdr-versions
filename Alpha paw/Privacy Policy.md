@@ -50,7 +50,7 @@ Checkout
 
 Error
 
-Save 15% today with code: GIFT15
+Save 20% today with code: MOM
 
        
 
@@ -103,7 +103,7 @@ Save 15% today with code: GIFT15
     * [Our Impact](https://www.alphapaw.com/pages/our-impact)
     * [Reviews](https://www.alphapaw.com/pages/reviews)
     
-* [Login](http://www.alphapaw.com/customer_identity/redirect?locale=en)
+* [Login](https://www.alphapaw.com/customer_identity/redirect?locale=en)
 * [Terms of Service](https://www.alphapaw.com/policies/terms-of-service)
 * [Refund policy](https://www.alphapaw.com/policies/refund-policy)[![Alpha Paw](//www.alphapaw.com/cdn/shop/files/logo_2.png?v=1628247872&width=500)](https://www.alphapaw.com/)
 
@@ -161,7 +161,7 @@ Search
 
 Searching
 
-[Login](http://www.alphapaw.com/customer_identity/redirect?locale=en) [Cart](https://www.alphapaw.com/cart)
+[Login](https://www.alphapaw.com/customer_identity/redirect?locale=en) [Cart](https://www.alphapaw.com/cart)
 
 Privacy Policy
 ==============
