@@ -85,7 +85,7 @@ Not open for further replies.
 
 Messages
 
-3,478
+3,453
 
 * Feb 14, 2008
 
@@ -133,8 +133,8 @@ Deliberately making yourself incontinent counts as self harm.
   
 **7\. No Personal Ads**  
   
-No posts that read like personal ads on a dating site, especially "looking for mommy" type posts.  
-In the Buddy Bench subforum, this rule is relaxed to allow people to look for friends, people to game with, etc, but "hookup" type posts are still not allowed.  
+No threads which are entirely about who you’re looking for. E.g: “looking for a mommy”. We are not a dating site.  
+Threads which simply ask “anyone in (location)” are allowed.  
   
   
 **8\. Use Readable English**  
@@ -192,13 +192,11 @@ Any member who displays a habit of sending others unwelcome conversation message
 As with the rest of ADISC, if you encounter a conversation message that breaks our rules, it is your duty to report it, using the 'report' button. Moderators may review conversation messages (whether reported, or not) to ensure they comply with our rules.  
 If you wish to control who is allowed to start a conversation with you, use your [account privacy settings](https://www.adisc.org/forum/account/privacy) page to do that.  
   
+**16\. "Best Interests" Rule**  
   
-**16\. Admin Judgement**  
-  
-ADISC admins may remove content and/or individuals as they see fit when the admin judges it to be in the best interests of ADISC to do so.  
-For example, an admin may remove an individual who makes other members feel unsafe, even if they haven't clearly broken any other listed rule.  
-Ultimately, ADISC is like a house party. You're a guest in someone else's house, so please conduct yourself accordingly.  
-  
+ADISC is a community built on honesty, support and friendship.  
+We reserve the right to remove content and/or individuals whenever this action is in the best interests of ADISC as a whole.  
+For example, we reserve the right to remove individuals whose presence or behavior puts other members, or ADISC itself, at risk.  
   
   
 **17\. Company Reps**  
@@ -230,7 +228,7 @@ This document is not an exhaustive list of terms. Other terms, such as our priva
 These terms may be changed at any time without notice.  
 If you do not agree with these rules/terms, you may not use our service.
 
-Last edited: May 12, 2024
+Last edited: Sep 20, 2023
 
 * ![Like](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Like")
 
@@ -248,7 +246,6 @@ X (Twitter) Reddit Pinterest Tumblr WhatsApp Email Share Link
 * [About Us](https://www.adisc.org/forum/#about-us.65) 
 * [Rules & Policies](https://www.adisc.org/forum/forums/rules-policies.69/) 
 
-* [Cookies](https://www.adisc.org/forum/misc/cookies "Cookie consent")
 * [Default Light Style](https://www.adisc.org/forum/misc/style "Style chooser")
 
 * [Terms and rules](https://www.adisc.org/forum/threads/the-rules.697/)
@@ -259,33 +256,6 @@ X (Twitter) Reddit Pinterest Tumblr WhatsApp Email Share Link
 [Community platform by XenForo® © 2010-2024 XenForo Ltd.](https://xenforo.com/) | [Xenforo Add-ons © by ©XenTR](https://xentr.net/)
 
 [Discord Integration](https://xenforo.com/community/resources/6058/) © Jason Axelrod of [8WAYRUN](https://8wayrun.com/)
-
-* Cookies
-    -------
-    
-    We use essential [cookies](https://www.adisc.org/forum/help/cookies) to make this site work, and third party cookies for purposes such as web analytics.
-    
-    [See further information and configure your preferences](#)
-    
-    [Accept all cookies](https://www.adisc.org/forum/misc/cookies?update=1&accept=1&t=1716230600%2C24291da1d58d507619ec2399eb3db466) [Reject optional cookies](https://www.adisc.org/forum/misc/cookies?update=1&reject=1&t=1716230600%2C24291da1d58d507619ec2399eb3db466)
-    
-    * Essential cookies
-    
-    These cookies are required to enable core functionality such as logging in, security, network management, and accessibility. You may not reject these.
-    
-    * Optional cookies
-    
-    In future, we may add enhanced functionality that depends on optional cookies. Accepting or rejecting these cookies determines if that functionality will be available to you, or not.
-    
-    * Third-party cookies
-    
-    These cookies are used by third-party service providers we use, such as Google Analytics, a statistical tool that helps us identify problems with, and improve, our website. It is possible we add other services providers (e.g: for performance optimization, statistics, ads, etc) in future.
-    
-    * [Detailed cookie usage](https://www.adisc.org/forum/help/cookies)
-    * [Privacy policy](https://www.adisc.org/forum/threads/privacy-policy.116261/)
-    
-    Save cookie preferences
-    
 
 [Back](javascript:)
 
