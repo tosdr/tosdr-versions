@@ -316,7 +316,7 @@ We disclose your Personal Data to service providers and other parties for the fo
 
 Subject to the terms of this Privacy Policy, we may disclose information to our employees, contractors, affiliates, distributors, dealers, vendors, partners and suppliers who process information on our behalf, participate with us in the provision or operation of our site or provide you with services.
 
-We may email you about products and services that we believe may be of interest to you if you’ve provided us the means to do so. Also, we may receive a confirmation when you open an email from us, which helps us improve our Services. If you wish to opt-out of receiving marketing materials from us, please follow the instructions at the bottom of each email for opting out or send a request via email to [privacy@boingo.com](mailto:%20privacy@boingo.com). Please note that if you do not want to receive legal notices from us, those legal notices will still govern your use of the Services, and you are responsible for reviewing such legal notices for changes.
+We may email you about products and services that we believe may be of interest to you if you’ve provided us the means to do so. Also, we may receive a confirmation when you open an email from us, which helps us improve our Services. If you wish to opt-out of receiving marketing materials from us, please follow the instructions at the bottom of each email for opting out or send a request via email to [privacy@boingo.com](mailto: privacy@boingo.com). Please note that if you do not want to receive legal notices from us, those legal notices will still govern your use of the Services, and you are responsible for reviewing such legal notices for changes.
 
 We allow advertisers and/or merchant partners (“Advertisers”) to choose the demographic information of users who will see their advertisements and/or promotional offers and you agree that we may provide any of the information we have collected from you in non-personally identifiable form to an Advertiser, in order for that Advertiser to select the appropriate audience for those advertisements and/or offers. For example, we might use the fact you are located in San Francisco to show you ads or offers for San Francisco businesses, but we will not tell such businesses who you are.
 
@@ -391,7 +391,7 @@ As a Boingo customer, you are in full control of the information that we maintai
 
 Information about a customer may be withheld or exempted from deletion if this is required by law, is part of a fraud investigation or is required for accounting and audit purposes.
 
-Under California Civil Code Sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of Personal Information which we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to: [privacy@boingo.com](mailto:%20privacy@boingo.com).
+Under California Civil Code Sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of Personal Information which we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to: [privacy@boingo.com](mailto: privacy@boingo.com).
 
  
 
@@ -409,7 +409,7 @@ Please note that if you do not want to receive legal notices from us, those lega
 
 #### **Personal Data of Children**
 
-We do not knowingly collect or solicit Personal Data from children under the age of 16. In the event that we learn that we have collected Personal Data from a child under age 16, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 16, please contact us at [privacy@boingo.com](mailto:%20privacy@boingo.com).
+We do not knowingly collect or solicit Personal Data from children under the age of 16. In the event that we learn that we have collected Personal Data from a child under age 16, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 16, please contact us at [privacy@boingo.com](mailto: privacy@boingo.com).
 
  
 
@@ -443,7 +443,7 @@ In certain situations, businesses or third party websites we’re affiliated wit
 
 #### **California Resident Rights**
 
-If you are a California resident, you have the rights outlined in this section. Please see the “Exercising Your Rights” section below for instructions regarding how to exercise these rights. If there are any conflicts between this section and any other provision of this Privacy Policy and you are a California resident, the portion that is more protective of Personal Data shall control to the extent of such conflict. If you have any questions about this section or whether any of the following applies to you, please contact us at [privacy@boingo.com](mailto:%20privacy@boingo.com).
+If you are a California resident, you have the rights outlined in this section. Please see the “Exercising Your Rights” section below for instructions regarding how to exercise these rights. If there are any conflicts between this section and any other provision of this Privacy Policy and you are a California resident, the portion that is more protective of Personal Data shall control to the extent of such conflict. If you have any questions about this section or whether any of the following applies to you, please contact us at [privacy@boingo.com](mailto: privacy@boingo.com).
 
  
 
@@ -476,7 +476,7 @@ We will work to respond to your Valid Request within forty five (45) days of rec
 You may submit a Valid Request using the following methods:
 
 * Call us at: +1-800-880-4117
-* Email us at: [privacy@boingo.com](mailto:%20privacy@boingo.com)
+* Email us at: [privacy@boingo.com](mailto: privacy@boingo.com)
 
  
 
@@ -488,7 +488,7 @@ As described in our Cookie Policy, we have incorporated cookies from certain thi
 
 You have the right to opt-out of the sale of your Personal Data. You can opt-out using the following methods:
 
-* Email us at: [privacy@boingo.com](mailto:%20privacy@boingo.com)
+* Email us at: [privacy@boingo.com](mailto: privacy@boingo.com)
 
 Once you have submitted an opt-out request, we will not ask you to reauthorize the sale of your Personal Data for at least 12 months.
 
@@ -502,7 +502,7 @@ We will not discriminate against you for exercising your rights under the CCPA. 
 
 #### **Nevada Resident Rights**
 
-If you are a resident of Nevada, you have the right to opt-out of the sale of certain Personal Data to third parties who intend to license or sell that Personal Data. You can exercise this right by contacting us at [privacy@boingo.com](mailto:%20privacy@boingo.com) with the subject line “Nevada Do Not Sell Request” and providing us with your name and the email address associated with your account. Please note that we do not currently sell your Personal Data as sales are defined in Nevada Revised Statutes Chapter 603A.
+If you are a resident of Nevada, you have the right to opt-out of the sale of certain Personal Data to third parties who intend to license or sell that Personal Data. You can exercise this right by contacting us at [privacy@boingo.com](mailto: privacy@boingo.com) with the subject line “Nevada Do Not Sell Request” and providing us with your name and the email address associated with your account. Please note that we do not currently sell your Personal Data as sales are defined in Nevada Revised Statutes Chapter 603A.
 
  
 
@@ -519,7 +519,7 @@ Boingo reserves the right to change this policy at any time. By using our Servic
 If you have any questions regarding this policy statement, please do not hesitate to contact us at:
 
 * Call us at: +1-800-880-4117
-* Email us at: [privacy@boingo.com](mailto:%20privacy@boingo.com)
+* Email us at: [privacy@boingo.com](mailto: privacy@boingo.com)
 
 This privacy and security pledge is part of our contract with you. Thank you for choosing Boingo Wireless, Inc.
 
