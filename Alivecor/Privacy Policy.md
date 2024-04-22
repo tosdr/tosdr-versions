@@ -460,20 +460,20 @@ Mountain View, CA 94043
 Herschel House  
 58 Herschel Street  
 Slough SL1 1PG  
-**E-mail:** [Privacy@AliveCor.com](mailto:Privacy@alivecor.com)
+**E-mail:** [Privacy@AliveCor.com](mailto:Privacy@AliveCor.com)
 
 **For Indian Users**  
 AliveCor India Private Limited  
 05-155, WeWork Management Private Ltd, DLF FORUM,  
 DLF Cyber City, Phase-III, Gurugram Gurgaon HR  
 122002 IN  
-**E-mail:** [Privacy@AliveCor.com](mailto:Privacy@alivecor.com)
+**E-mail:** [Privacy@AliveCor.com](mailto:Privacy@AliveCor.com)
 
 **For Korean Users**  
 AliveCor Korea Inc.,  
 (Cheongdam-don) 37, Dosan-daero 81-gil,  
 Gangnam-gu, Seoul KR  
-**E-mail:** [Privacy@AliveCor.com](mailto:Privacy@alivecor.com)
+**E-mail:** [Privacy@AliveCor.com](mailto:Privacy@AliveCor.com)
 
 [](https://kardia.com/)
 
