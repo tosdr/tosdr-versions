@@ -2,8 +2,8 @@
 
   ![](/images/search.svg)
 
-08:48 pm  
-Mon 05/20/2024
+08:50 pm  
+Mon 04/22/2024
 
 ![ Abflug](/images/header-background-right.png)
 
@@ -12,7 +12,7 @@ Mon 05/20/2024
 * [FR](https://airportinfo.live/fr/confidentialite)
 * [ES](https://airportinfo.live/es/privacidad)
 
-[Airportinfo.live](https://airportinfo.live/) [Flight Statistics](https://airportinfo.live/flight-statistics) [Airport Statistics](https://airportinfo.live/airport-statistics) [Flughäfen weltweit](https://airportinfo.live/worldairports) [Shop](https://shop.airportinfo.live/)[](javascript:void(0);)
+[Airportinfo.live](https://airportinfo.live/) [Flight Statistics](https://airportinfo.live/flight-statistics) [Airport Statistics](https://airportinfo.live/airport-statistics) [Flughäfen weltweit](https://airportinfo.live/worldairports)[](javascript:void(0);)
 
 [Home](https://airportinfo.live/) > [Privacy](https://airportinfo.live/privacy "Privacy")
 
@@ -343,7 +343,7 @@ How do you rate Airportinfo.live?
 ☆☆☆☆☆
 
 Thank you!  
-Would you support us by rating us at Google? Of course No thanks
+Would you support us by rating us at Trustpilot? Of course No thanks
 
 **Thank you!**  
 What can we do to improve your rating? Send Close
