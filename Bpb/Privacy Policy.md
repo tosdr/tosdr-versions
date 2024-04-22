@@ -167,7 +167,7 @@ Datenschutzerklärung für bpb.de gemäß Art 13 und 14 DSGVO
 
 16.10.2023 / 32 Minuten zu lesen
 
-* [](https://twitter.com/intent/tweet?text=Datenschutzerkl%C3%A4rung+f%C3%BCr+bpb.de&url=https%3A%2F%2Fwww.bpb.de%2Fdie-bpb%2Fueber-uns%2Fservice%2F269718%2Fdatenschutzerklaerung-fuer-bpb-de%2F&via=bpb_de)[](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.bpb.de%2Fdie-bpb%2Fueber-uns%2Fservice%2F269718%2Fdatenschutzerklaerung-fuer-bpb-de%2F)[](mailto:?subject=Datenschutzerkl%C3%A4rung%20f%C3%BCr%20bpb.de%20%20%7C%20bpb.de&body=%0AIhnen%20wird%20der%20folgende%20Inhalt%20empfohlen:%20https://www.bpb.de/die-bpb/ueber-uns/service/269718/datenschutzerklaerung-fuer-bpb-de/%0A%0ADatenschutzerkl%C3%A4rung%20f%C3%BCr%20bpb.de%0A-------%0A%0AAuf%20dieser%20Seite%20finden%20Sie%20die%20Datenschutzerkl%C3%A4rung%20f%C3%BCr%20bpb.de.%0A)
+* [](https://twitter.com/intent/tweet?text=Datenschutzerkl%C3%A4rung+f%C3%BCr+bpb.de&url=https%3A%2F%2Fwww.bpb.de%2Fdie-bpb%2Fueber-uns%2Fservice%2F269718%2Fdatenschutzerklaerung-fuer-bpb-de%2F&via=bpb_de)[](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.bpb.de%2Fdie-bpb%2Fueber-uns%2Fservice%2F269718%2Fdatenschutzerklaerung-fuer-bpb-de%2F)[](mailto:?subject=Datenschutzerkl%C3%A4rung%20f%C3%BCr%20bpb.de%20%20|%20bpb.de&body=%0AIhnen%20wird%20der%20folgende%20Inhalt%20empfohlen:%20https://www.bpb.de/die-bpb/ueber-uns/service/269718/datenschutzerklaerung-fuer-bpb-de/%0A%0ADatenschutzerkl%C3%A4rung%20f%C3%BCr%20bpb.de%0A-------%0A%0AAuf%20dieser%20Seite%20finden%20Sie%20die%20Datenschutzerkl%C3%A4rung%20f%C3%BCr%20bpb.de.%0A)
 
 [Interner Link: Read in English](https://www.bpb.de/die-bpb/ueber-uns/federal-agency-for-civic-education/315478/privacy-statement-for-bpb-de/)
 
