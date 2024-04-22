@@ -2,7 +2,7 @@ Cookie Policy
 
 
 
-Policy was last reviewed or updated: May 15, 2024
+Last Updated: November 20, 2023
 
 
 
@@ -36,21 +36,15 @@ First-party and Third-party Cookies
 
 
 
-“First-party Cookies” are cookies that belong to Alpaca, that can only be read by our Sites, and are placed on your device whereas “Third-party Cookies” are cookies that Third-parties places on your device as you visit our site. Alpaca may contract with third-party serviceproviders to send messages to users who have provided us with their contact information. To help measure and improve the effectiveness ofour e-mail communications, and/or to determine whether messages have been opened and links clicked on, the third-party’s may placecookies on the devices of these users.
+“First-party Cookies” are cookies that belong to Alpaca, that can only be read by our Sites, and are placed on your device whereas “Third-party Cookies” are cookies that Third-parties places on your device as you visit our site. Alpaca may contract with third-party serviceproviders to send messages to users who have provided us with their contact information. To help measure and improve the effectivenessof our e-mail communications, and/or to determine whether messages have been opened and links clicked on, the third-party’s may placecookies on the devices of these users.
 
 For more information on how these companies collect and use the information on our behalf, please refer to their respective privacy policiesbelow.
 
-We use the following types of cookies:
+We use the following types of cookies:We use strictly necessary cookies as they allow us to operate our Sites so you have access to them as requested.
 
-We use strictly necessary cookies as they allow us to operate our Sites so you have access to them as requested.
+We use persistent cookies to improve the experience of using our Sites which includes recording your acceptance of our Cookie Policy.These are cookies that are stored on your computer and are not automatically deleted when you exit the browser (unlike sessioncookies, which are deleted when you exit the browser or delete your cache.We use session cookies to help us track your usage as described and are temporary and deleted from your machine when your webbrowser is closed.
 
-We use persistent cookies to improve the experience of using our Sites which includes recording your acceptance of our Cookie Policy.These are cookies that are stored on your computer and are not automatically deleted when you exit the browser (unlike sessioncookies, which are deleted when you exit the browser or delete your cache.
-
-We use session cookies to help us track your usage as described and are temporary and deleted from your machine when your webbrowser is closed.
-
-We use advertising cookies (or targeting cookies) to collect information about browsing habits associated with your device and used bythird parties for services such as ‘Like’ or ‘Share’ buttons in addition to providing the requested functionality. Third parties provide these
-
-services in return for recognizing that your device visited a certain site. These third parties put down advertising cookies both when youvisit our site and when you use their services and navigate away from our site.
+We use advertising cookies (or targeting cookies) to collect information about browsing habits associated with your device and used bythird parties for services such as ‘Like’ or ‘Share’ buttons in addition to providing the requested functionality. Third parties provide theseservices in return for recognizing that your device visited a certain site. These third parties put down advertising cookies both when youvisit our site and when you use their services and navigate away from our site.
 
 The data collected by cookies that have been placed on your device will be kept for as long as necessary to fulfill the purposes mentionedabove.
 
@@ -82,7 +76,7 @@ LinkedIn Used to store guest consent to theuse of cookies for non-essentialpurpo
 
 Used to store information aboutthe time a sync with thelms_analytics cookie took placefor users in the DesignatedCountries
 
-\__cf_bm Hubspot/Cloudflare This cookie is used to distinguishbetween humans and bots.
+\__cf_bm Hubspot This cookie is used to distinguishbetween humans and bots.
 
 
 
@@ -104,11 +98,13 @@ atform - Unified Advertising and A
 
 nalytics
 
-amplitude_testalpaca.markets
+bcookie
 
-amp_555479
+AnalyticsSyncHistory
 
-Amplitude Collect information to measureand understand how visitors useour site. Privacy Notice
+li_gc
+
+LinkedIn This cookie is set by LinkedIn. Thepurpose of the cookie is to enableLinkedIn functionalities on thepage.https://www.linkedin.com/legal/privacy-policy
 
 
 
@@ -119,14 +115,6 @@ We use the following session cookies:
 We use the following advertisement cookies:
 
 
-
-bcookie
-
-AnalyticsSyncHistory
-
-li_gc
-
-LinkedIn This cookie is set by LinkedIn. Thepurpose of the cookie is to enableLinkedIn functionalities on thepage.https://www.linkedin.com/legal/privacy-policy
 
 lidc LinkedIn This cookie is set by LinkedIn andused for routing.https://www.linkedin.com/legal/privacy-policy
 
@@ -150,8 +138,6 @@ hubspotutk
 
 messagesUtk
 
-\_cfuvid
-
 Hubspot The cookie is used with Hubspotfor site analytics.
 
 
@@ -171,6 +157,18 @@ bcookie
 UserMatchHistory
 
 LinkedIn This cookie is a browser ID cookieset by Linked share Buttons andad tags.https://www.linkedin.com/legal/privacy-policy
+
+test_cookie
+
+IDE
+
+doubleclick.net This cookie is set by Enterprise
+
+Advertising \& Analytics Solutions
+
+\- Google Marketing Platform .The purpose of the cookie is todetermine if the user's browsersupports cookies.
+
+\_gcl_au Google Adsense Used by Google AdSense forexperimenting with advertisement
 
 
 
@@ -212,31 +210,7 @@ How do we use Other Tracking Technologies in our communications?
 
 Alpaca may collect information about whether you open or click any links in the communications that we send to you through web beacons.
 
-A web beacon is a graphic image placed on a site or in an email that alone or in conjunction with cookies compiles information about yourinteraction with an Alpaca site or email. For example, we may add web beacons to the communications that we send to you to determine
-
-
-
-test_cookie
-
-IDE
-
-doubleclick.net This cookie is set by Enterprise
-
-Advertising \& Analytics Solutions
-
-\- Google Marketing Platform .The purpose of the cookie is todetermine if the user's browsersupports cookies.
-
-\_gcl_au Google Adsense Used by Google AdSense forexperimenting with advertisementefficiency across websites usingtheir services
-
-\_fbp Meta Used by Meta to deliver a seriesof advertisement products
-
-personalization_id
-
-muc_ads
-
-Twitter/X This cookie carries out informationabout how the end user uses thewebsite and any advertising thatthe end user may have seenbefore visiting the site
-
-whether you have opened our email or clicked a link. The analysis gathered helps us improve the effectiveness of the content and format ofour Sites and communications.
+A web beacon is a graphic image placed on a site or in an email that alone or in conjunction with cookies compiles information about yourinteraction with an Alpaca site or email. For example, we may add web beacons to the communications that we send to you to determinewhether you have opened our email or clicked a link. The analysis gathered helps us improve the effectiveness of the content and format ofour Sites and communications.
 
 
 
@@ -247,6 +221,12 @@ How do I refuse or withdraw my consent to the use of Web Beacons?
 You may avoid web beacons by configuring your email program to disable the functionality that enables remote images to load and by notclicking on any links in email messages.
 
 
+
+efficiency across websites usingtheir services
+
+\_fbp Meta Used by Meta to deliver a seriesof advertisement products
+
+personalization_id Twitter/X This cookie carries out informationabout how the end user uses thewebsite and any advertising thatthe end user may have seenbefore visiting the site
 
 Contact us
 
