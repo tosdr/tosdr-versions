@@ -64,7 +64,7 @@ Search
 
 [Write a Review](https://bestcompany.com/review-lander/standard)
 
-[For Businesses](https://snoball.com/?src=bc)
+[For Businesses](https://snoball.com/)
 
 [Login](https://bestcompany.com/login)
 
@@ -94,7 +94,7 @@ Categories chevron\_right expand\_more
 
 [home Home Products & Services](https://bestcompany.com/category/home-products-services) [work Business Services](https://bestcompany.com/category/business-services) [school Career & Education](https://bestcompany.com/category/career-education) [monetization\_on Financial Services](https://bestcompany.com/category/financial-services) [accessibility Health & Lifestyle](https://bestcompany.com/category/health-lifestyle) [account\_balance Insurance & Legal Services](https://bestcompany.com/category/insurance-legal-services)
 
-[Write a Review](https://bestcompany.com/review-lander/standard) [For Businesses](https://snoball.com/?src=bc) [Login](https://bestcompany.com/login)
+[Write a Review](https://bestcompany.com/review-lander/standard) [For Businesses](https://snoball.com/) [Login](https://bestcompany.com/login)
 
 Terms & Conditions
 ==================
@@ -129,7 +129,7 @@ You are granted a limited, non-sublicensable license to access and use the Site 
 
 If you believe that any material on the Site infringes upon any copyright, which you own or control, you may file a notification of such infringement with our Office as set forth below.
 
-Email Address of Designated Agent: [support@bestcompany.com](mailto:support@bestcompany.com)
+Email Address of Designated Agent: [\[email protected\]](https://bestcompany.com/cdn-cgi/l/email-protection)
 
 bestCompany.com, LLC
 
