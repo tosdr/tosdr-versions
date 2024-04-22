@@ -170,16 +170,16 @@ Upgrades Opens in a New Window
 
 [](javascript: void(0))
 
-[](javascript: void(0))[Special Offers](https://www.aircanada.com/en-ca/?icid=INT:INTR:specialoffer:spOffer:071719::tobanneracdotcom%7Ccaen)
+[](javascript: void(0))[Special Offers](https://www.aircanada.com/en-ca/?icid=INT:INTR:specialoffer:spOffer:071719::tobanneracdotcom|caen)
 
 **Popular Destinations:**
 
-* [Toronto](https://www.aircanada.com/en-ca/flights-to-toronto/?icid=INT:INTR:torontoHPSO:spOffer:071719::tobanneracdotcom%7Ccaen)
-* [Montreal](https://www.aircanada.com/en-ca/flights-to-montreal/?icid=INT:INTR:montrealHPSO:spOffer:071719::tobanneracdotcom%7Ccaen)
-* [Vancouver](https://www.aircanada.com/en-ca/flights-to-vancouver/?icid=INT:INTR:vancouverHPSO:spOffer:071719::tobanneracdotcom%7Ccaen)
-* [Flights to Canada](https://www.aircanada.com/en-ca/flights-to-canada/?icid=INT:INTR:canadaHPSO:spOffer:071719::tobanneracdotcom%7Ccaen)
-* [Flights to U.S.](https://www.aircanada.com/en-ca/flights-to-united-states/?icid=INT:INTR:usHPSO:spOffer:071719::tobanneracdotcom%7Ccaen)
-* [Flights to U.K.](https://www.aircanada.com/en-ca/flights-to-united-kingdom/?icid=INT:INTR:ukHPSO:spOffer:071719::tobanneracdotcom%7Ccaen)
+* [Toronto](https://www.aircanada.com/en-ca/flights-to-toronto/?icid=INT:INTR:torontoHPSO:spOffer:071719::tobanneracdotcom|caen)
+* [Montreal](https://www.aircanada.com/en-ca/flights-to-montreal/?icid=INT:INTR:montrealHPSO:spOffer:071719::tobanneracdotcom|caen)
+* [Vancouver](https://www.aircanada.com/en-ca/flights-to-vancouver/?icid=INT:INTR:vancouverHPSO:spOffer:071719::tobanneracdotcom|caen)
+* [Flights to Canada](https://www.aircanada.com/en-ca/flights-to-canada/?icid=INT:INTR:canadaHPSO:spOffer:071719::tobanneracdotcom|caen)
+* [Flights to U.S.](https://www.aircanada.com/en-ca/flights-to-united-states/?icid=INT:INTR:usHPSO:spOffer:071719::tobanneracdotcom|caen)
+* [Flights to U.K.](https://www.aircanada.com/en-ca/flights-to-united-kingdom/?icid=INT:INTR:ukHPSO:spOffer:071719::tobanneracdotcom|caen)
 
 Close
 
