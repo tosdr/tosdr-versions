@@ -1,4 +1,4 @@
-   [![Anonymous Ads](/assets/a-ads-logo-f2c75e582ea7e3261ef9aecbce54a5350060abbddd70020863282e1b1b93d150.svg "Bitcoin Advertising") ![Anonymous Ads](/assets/white-logo-7d7ddcdf6524fe36de88a5de9e76e6c6a6401b5e78910c27c1f0e7213cdc97bb.svg "Bitcoin Advertising") ![Anonymous Ads](/assets/logo-small-white-0a55f38689249cbc539a7511dde3a8db6d05550fa534b3d28a1e6d0275238bd9.svg "Bitcoin Advertising") ![Anonymous Ads](/assets/logo-small-780ad6aeb2795d1835653ea30b358ebe3d1886cf5efb092597f642f6f34ecb2b.svg "Bitcoin Advertising")](https://a-ads.com/)
+   [![Anonymous Ads](/assets/A-ads-logo-20362ecd46ae23cc01deabc3a7274ec3a3c1adcee3e7a0a870fb9031d9039d8e.svg "Bitcoin Advertising") ![Anonymous Ads](/assets/white-logo-7d7ddcdf6524fe36de88a5de9e76e6c6a6401b5e78910c27c1f0e7213cdc97bb.svg "Bitcoin Advertising") ![Anonymous Ads](/assets/logo-small-white-0a55f38689249cbc539a7511dde3a8db6d05550fa534b3d28a1e6d0275238bd9.svg "Bitcoin Advertising") ![Anonymous Ads](/assets/logo-small-aac4ebb9080878ace2ebd25018730f14db223c9ea778eee0c6b09eea5a714598.svg "Bitcoin Advertising")](https://a-ads.com/)
 
 [Advertise](javascript:void(0))
 
@@ -7,38 +7,38 @@ Create
 * [![Become an Influencer](/assets/icons/banner-campaign-07fbbb1061fbe1e9c3a81df210a751d3e254035ce6fa47cd73870e3e3b2ead9b.svg)
     
     Banner ad campaign  
-    Target your audience worldwide](https://a-ads.com/beta/campaigns/new/)
+    Target your audience worldwide](https://a-ads.com/en/beta/campaigns/new/)
     
     [![Become an Influencer](/assets/icons/publication-order-040058bd93f5491bfca1341442bf0033ec91eccd5cefa4f8ef52f05c0c8eab50.svg)
     
     Content Publication order  
-    Choose from different ad formats](https://a-ads.com/marketplace/)
+    Choose from different ad formats](https://a-ads.com/en/marketplace/)
     
     [![Become an Influencer](/assets/icons/affiliate-program-11ef6ef00d09852efeceddfecd9064d07322a5af202949eb19ae7bc6358f6393.svg)
     
     Affiliate program  
-    Pay for useful actions with CPA model](https://a-ads.com/crypto-affiliate-program/)
+    Pay for useful actions with CPA model](https://a-ads.com/en/crypto-affiliate-program/)
     
 
 Learn about
 
 * [Advertising with A-ADS  
-    Ad technologies for your promotion](https://a-ads.com/advertise/)
+    Ad technologies for your promotion](https://a-ads.com/en/advertise/)
     
     [Catalog of Banner Ad Units  
     Choose from 1000s of websites](https://a-ads.com/catalog)
     
     [Ad Formats  
-    Discover available banner formats](https://a-ads.com/ad-formats/)
+    Discover available banner formats](https://a-ads.com/en/ad-formats/)
     
 * [Content Ad publication  
-    Place ad at a fixed price](https://a-ads.com/marketplace/advertiser/)
+    Place ad at a fixed price](https://a-ads.com/en/marketplace/advertiser/)
     
     [Catalog of Publication offers  
-    Publish ad in a few simple steps](https://a-ads.com/marketplace/)
+    Publish ad in a few simple steps](https://a-ads.com/en/marketplace/)
     
     [CPA advertising campaigns  
-    Reward publishers for targeted actions](https://a-ads.com/crypto-affiliate-program/)
+    Reward publishers for targeted actions](https://a-ads.com/en/crypto-affiliate-program/)
     
 
 [Earn](javascript:void(0))
@@ -53,22 +53,22 @@ Create
     [![Become an Influencer](/assets/icons/publication-order-040058bd93f5491bfca1341442bf0033ec91eccd5cefa4f8ef52f05c0c8eab50.svg)
     
     Content publication offer  
-    Allow to place ad in your media](https://a-ads.com/marketplace/become_publisher/)
+    Allow to place ad in your media](https://a-ads.com/en/marketplace/become_publisher/)
     
 
 Learn about
 
 * [Banner ad traffic monetization  
-    Earn crypto on your website traffic](https://a-ads.com/earn/)
+    Earn crypto on your website traffic](https://a-ads.com/en/earn/)
     
     [Earning from ad placement  
-    Get more paying advertisers](https://a-ads.com/marketplace/publisher/)
+    Get more paying advertisers](https://a-ads.com/en/marketplace/publisher/)
     
     [A-ADS Referral program  
-    Attract advertisers to A-ADS for a fee](https://a-ads.com/crypto-referral-program/)
+    Attract advertisers to A-ADS for a fee](https://a-ads.com/en/crypto-referral-program/)
     
 
-[Stats](https://a-ads.com/statistics/) [Help](#)
+[Stats](https://a-ads.com/en/statistics/) [Help](#)
 
 [Sign In](https://a-ads.com/user/sign_in) [Sign Up](https://a-ads.com/user/sign_up)
 
@@ -83,29 +83,29 @@ Learn about
     [![Become an Influencer](/assets/icons/banner-campaign-07fbbb1061fbe1e9c3a81df210a751d3e254035ce6fa47cd73870e3e3b2ead9b.svg)
     
     Banner ad campaign  
-    Target your audience worldwide](https://a-ads.com/beta/campaigns/new/)
+    Target your audience worldwide](https://a-ads.com/en/beta/campaigns/new/)
 * [![Become an Influencer](/assets/icons/publication-order-040058bd93f5491bfca1341442bf0033ec91eccd5cefa4f8ef52f05c0c8eab50.svg)
     
     Content Publication order  
-    Choose from different ad formats](https://a-ads.com/marketplace/)
+    Choose from different ad formats](https://a-ads.com/en/marketplace/)
 * [![Become an Influencer](/assets/icons/affiliate-program-11ef6ef00d09852efeceddfecd9064d07322a5af202949eb19ae7bc6358f6393.svg)
     
     Affiliate program  
-    Pay for useful actions with CPA model](https://a-ads.com/crypto-affiliate-program/)
+    Pay for useful actions with CPA model](https://a-ads.com/en/crypto-affiliate-program/)
 * Learn about
     
     [Advertising with A-ADS  
-    Ad technologies for your promotion](https://a-ads.com/advertise/)
+    Ad technologies for your promotion](https://a-ads.com/en/advertise/)
 * [Catalog of Banner Ad Units  
     Choose from 1000s of websites](https://a-ads.com/catalog)
 * [Ad Formats  
-    Discover available banner formats](https://a-ads.com/ad-formats/)
+    Discover available banner formats](https://a-ads.com/en/ad-formats/)
 * [Content Ad publication  
-    Place ad at a fixed price](https://a-ads.com/marketplace/advertiser/)
+    Place ad at a fixed price](https://a-ads.com/en/marketplace/advertiser/)
 * [Catalog of Publication offers  
-    Publish ad in a few simple steps](https://a-ads.com/marketplace/)
+    Publish ad in a few simple steps](https://a-ads.com/en/marketplace/)
 * [CPA advertising campaigns  
-    Reward publishers for targeted actions](https://a-ads.com/crypto-affiliate-program/)
+    Reward publishers for targeted actions](https://a-ads.com/en/crypto-affiliate-program/)
 
 [Earn](javascript:void(0))
 
@@ -118,17 +118,17 @@ Learn about
 * [![Become an Influencer](/assets/icons/publication-order-040058bd93f5491bfca1341442bf0033ec91eccd5cefa4f8ef52f05c0c8eab50.svg)
     
     Content publication offer  
-    Allow to place ad in your media](https://a-ads.com/marketplace/become_publisher/)
+    Allow to place ad in your media](https://a-ads.com/en/marketplace/become_publisher/)
 * Learn about
     
     [Banner ad traffic monetization  
-    Earn crypto on your website traffic](https://a-ads.com/earn/)
+    Earn crypto on your website traffic](https://a-ads.com/en/earn/)
 * [Earning from ad placement  
-    Get more paying advertisers](https://a-ads.com/marketplace/publisher/)
+    Get more paying advertisers](https://a-ads.com/en/marketplace/publisher/)
 * [A-ADS Referral program  
-    Attract advertisers to A-ADS for a fee](https://a-ads.com/crypto-referral-program/)
+    Attract advertisers to A-ADS for a fee](https://a-ads.com/en/crypto-referral-program/)
 
-[Stats](https://a-ads.com/statistics/)
+[Stats](https://a-ads.com/en/statistics/)
 
 Privacy Policy
 ==============
@@ -289,32 +289,32 @@ A-ADS crypto ad network has been working with crypto and non-crypto websites sin
 
 Advertising
 
-* [Banner advertising](https://a-ads.com/advertise/)
-* [Content ad publication](https://a-ads.com/marketplace/advertiser/)
-* [Affiliate program](https://a-ads.com/crypto-affiliate-program/)
+* [Banner advertising](https://a-ads.com/en/advertise/)
+* [Content ad publication](https://a-ads.com/en/marketplace/advertiser/)
+* [Affiliate program](https://a-ads.com/en/crypto-affiliate-program/)
 
 Earning
 
-* [Banner ad traffic monetization](https://a-ads.com/earn/)
-* [Earning from ad publication](https://a-ads.com/marketplace/publisher/)
-* [Referral program](https://a-ads.com/crypto-referral-program/)
+* [Banner ad traffic monetization](https://a-ads.com/en/earn/)
+* [Earning from ad publication](https://a-ads.com/en/marketplace/publisher/)
+* [Referral program](https://a-ads.com/en/crypto-referral-program/)
 
 Collaborations
 
-* [Marketing agencies](https://a-ads.com/advertising-agencies/)
-* [Startups](https://a-ads.com/crypto-startups/)
-* [Bug bounty program](https://a-ads.com/bug-bounty/)
+* [Marketing agencies](https://a-ads.com/en/advertising-agencies/)
+* [Startups](https://a-ads.com/blog/elevate-your-startups-global-fame/)
+* [Bug bounty program](https://a-ads.com/en/bug-bounty/)
 
 Service
 
-* [Network Statistics](https://a-ads.com/statistics/)
+* [Network Statistics](https://a-ads.com/en/statistics/)
 * [System Status](https://status.a-ads.com/en/)
 * [Help Center](#)
 
 Company
 
-* [About Us](https://a-ads.com/about-us/)
-* [Our Team](https://a-ads.com/team/)
+* [About Us](https://a-ads.com/en/about-us/)
+* [Our Team](https://a-ads.com/en/team/)
 * [Blog](https://a-ads.com/blog/)
 
  [![earth](/assets/earth-icon-56b521a1a96c8065bede3f933c15b151ae66e6d863ef4393f6d99edf1fd678ec.svg)English](javascript:void(0))
