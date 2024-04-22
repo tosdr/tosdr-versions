@@ -2,7 +2,7 @@
 
 We ship worldwide
 
-Dealer Locations
+Our Offices
 
 [](https://www.agragps.com/our-offices/)
 
@@ -99,27 +99,27 @@ Close
     
     [CRG – GPS receiver](https://www.agragps.com/product/crg-gps-receiver/)
     
-    $3,900.00 – $4,400.00
+    4,800.00€ – 5,550.00€
     
      [![CRG – GPS receiver + Bridge](https://www.agragps.com/wp-content/uploads/2022/03/xCRG-5371-scaled-thegem-product-justified-square-xxs.jpg.pagespeed.ic.9ct3xFsbXm.jpg)](https://www.agragps.com/product/crg-chameleon-rtk-guidance/)
     
     [CRG – GPS receiver + Bridge](https://www.agragps.com/product/crg-chameleon-rtk-guidance/)
     
-    $3,900.00 – $5,500.00
+    5,500.00€ – 6,150.00€
     
     BRIDGE
     
-     [![Claas Jaguar (2012&newer)](https://www.agragps.com/wp-content/uploads/2022/04/xjaguar-thegem-product-justified-square-xxs.jpg.pagespeed.ic.YLYbHZfYuT.jpg)](https://www.agragps.com/product/class-jaguar-2012newer/)
+     [![VALTRA Bridge compatible with John Deere Receiver](https://www.agragps.com/wp-content/uploads/2021/10/xValtra-thegem-product-justified-square-xxs.jpg.pagespeed.ic.r_EDAVTIOR.jpg)](https://www.agragps.com/product/valtra-jd-n-t/)
     
-    [Claas Jaguar (2012&newer)](https://www.agragps.com/product/class-jaguar-2012newer/)
+    [VALTRA Bridge compatible with John Deere Receiver](https://www.agragps.com/product/valtra-jd-n-t/)
     
-    $3,380.00
+    3,150.00€
     
-     [![CNH-JD Magnum/T8/Analog 2012-2019](https://www.agragps.com/wp-content/uploads/2022/02/xDSC00162-scaled-thegem-product-justified-square-xxs.jpg.pagespeed.ic.A6FkpPuYj7.jpg)](https://www.agragps.com/product/cnh-jd-magnum-t8-analog-2012-2019/)
+     [![New Holland-JD Bridge](https://www.agragps.com/wp-content/uploads/2022/04/xdieAckerknipser-212-thegem-product-justified-square-xxs.jpg.pagespeed.ic.fWUE9YZbg5.jpg)](https://www.agragps.com/product/new-holland-combine/)
     
-    [CNH-JD Magnum/T8/Analog 2012-2019](https://www.agragps.com/product/cnh-jd-magnum-t8-analog-2012-2019/)
+    [New Holland-JD Bridge](https://www.agragps.com/product/new-holland-combine/)
     
-    $3,380.00
+    3,149.00€ – 3,150.00€
     
     ITC Extend
     
@@ -129,27 +129,27 @@ Close
     
     Rated **5.00** out of 5
     
-    $620.00
+    620.00€
     
     Accessories
     
-     [![CLAAS LEXION ROOF MOUNT](https://www.agragps.com/wp-content/uploads/2021/10/x20220403_112336-thegem-product-justified-square-xxs.jpg.pagespeed.ic.VUNyWe8Xy5.jpg)](https://www.agragps.com/product/claas-lexion-mount/)
+     [![CRG EXTERNAL MODEM](https://www.agragps.com/wp-content/uploads/2022/05/xmicrohard-modem-thegem-product-justified-square-xxs.jpg.pagespeed.ic.gNS8Wfiy0g.jpg)](https://www.agragps.com/product/crg-external-modem/)
     
-    [CLAAS LEXION ROOF MOUNT](https://www.agragps.com/product/claas-lexion-mount/)
+    [CRG EXTERNAL MODEM](https://www.agragps.com/product/crg-external-modem/)
     
-    $120.00
+    ~660.00€~ 650.00€
     
-     [![Emlid Reach RS2+ Base station](https://www.agragps.com/wp-content/uploads/2022/03/xemlid2-2-thegem-product-justified-square-xxs.jpg.pagespeed.ic.-uOYn_Xix2.jpg)](https://www.agragps.com/product/emlid-reach-rs2-base-station/)
+     [![CAB-RAM Display mount](https://www.agragps.com/wp-content/uploads/2022/10/x20220403_114913-scaled-thegem-product-justified-square-xxs.jpg.pagespeed.ic.uPk0t3qePx.jpg)](https://www.agragps.com/product/cab-ram/)
     
-    [Emlid Reach RS2+ Base station](https://www.agragps.com/product/emlid-reach-rs2-base-station/)
+    [CAB-RAM Display mount](https://www.agragps.com/product/cab-ram/)
     
-    $2,690.00
+    120.00€
     
-     [![FENDT ROOF MOUNT 7XX-10XX](https://www.agragps.com/wp-content/uploads/2021/10/xfendtmount7xx-thegem-product-justified-square-xxs.jpg.pagespeed.ic.vVGCq-_fUN.jpg)](https://www.agragps.com/product/fendt-mount-2/)
+     [![CLAAS AXION ROOF MOUNT](https://www.agragps.com/wp-content/uploads/2021/10/x20220403_112800-thegem-product-justified-square-xxs.jpg.pagespeed.ic.QTLZ2ADK9U.jpg)](https://www.agragps.com/product/claas-axion-roof-mount/)
     
-    [FENDT ROOF MOUNT 7XX-10XX](https://www.agragps.com/product/fendt-mount-2/)
+    [CLAAS AXION ROOF MOUNT](https://www.agragps.com/product/claas-axion-roof-mount/)
     
-    $120.00
+    130.00€
     
 * [About CRG](https://www.agragps.com/about-crg/)
 * [Become a Dealer](https://www.agragps.com/dealer-request/)
@@ -241,27 +241,27 @@ Menu
     
     [CRG – GPS receiver](https://www.agragps.com/product/crg-gps-receiver/)
     
-    $3,900.00 – $4,400.00
+    4,800.00€ – 5,550.00€
     
      [![CRG – GPS receiver + Bridge](https://www.agragps.com/wp-content/uploads/2022/03/xCRG-5371-scaled-thegem-product-justified-square-xxs.jpg.pagespeed.ic.9ct3xFsbXm.jpg)](https://www.agragps.com/product/crg-chameleon-rtk-guidance/)
     
     [CRG – GPS receiver + Bridge](https://www.agragps.com/product/crg-chameleon-rtk-guidance/)
     
-    $3,900.00 – $5,500.00
+    5,500.00€ – 6,150.00€
     
     BRIDGE
     
-     [![New Holland-JD Bridge](https://www.agragps.com/wp-content/uploads/2022/04/xdieAckerknipser-212-thegem-product-justified-square-xxs.jpg.pagespeed.ic.fWUE9YZbg5.jpg)](https://www.agragps.com/product/new-holland-combine/)
+     [![CNH-JD Magnum/T8/Analog 2012-2019](https://www.agragps.com/wp-content/uploads/2022/02/xDSC00162-scaled-thegem-product-justified-square-xxs.jpg.pagespeed.ic.A6FkpPuYj7.jpg)](https://www.agragps.com/product/cnh-jd-magnum-t8-analog-2012-2019/)
     
-    [New Holland-JD Bridge](https://www.agragps.com/product/new-holland-combine/)
+    [CNH-JD Magnum/T8/Analog 2012-2019](https://www.agragps.com/product/cnh-jd-magnum-t8-analog-2012-2019/)
     
-    $3,380.00
+    ~3,380.00€~ 3,150.00€
     
-     [![CLAAS-JD LEXION 5XX](https://www.agragps.com/wp-content/uploads/2022/02/xIMG_8699-thegem-product-justified-square-xxs.jpg.pagespeed.ic.Ws1dVbcogA.jpg)](https://www.agragps.com/product/claas-jd-lexion-5xx/)
+     [![AGCO-JD Rogator 932-937 SERIES](https://www.agragps.com/wp-content/uploads/2023/05/x20230525_163159-scaled-thegem-product-justified-square-xxs.jpg.pagespeed.ic.R81JYgTrln.jpg)](https://www.agragps.com/product/agco-jd-rogator-932-937-series/)
     
-    [CLAAS-JD LEXION 5XX](https://www.agragps.com/product/claas-jd-lexion-5xx/)
+    [AGCO-JD Rogator 932-937 SERIES](https://www.agragps.com/product/agco-jd-rogator-932-937-series/)
     
-    $3,380.00
+    ~3,380.00€~ 3,150.00€
     
     ITC Extend
     
@@ -271,27 +271,27 @@ Menu
     
     Rated **5.00** out of 5
     
-    $620.00
+    620.00€
     
     Accessories
     
-     [![FENDT ROOF MOUNT 7XX-10XX](https://www.agragps.com/wp-content/uploads/2021/10/xfendtmount7xx-thegem-product-justified-square-xxs.jpg.pagespeed.ic.vVGCq-_fUN.jpg)](https://www.agragps.com/product/fendt-mount-2/)
+     [![CLAAS LEXION ROOF MOUNT](https://www.agragps.com/wp-content/uploads/2021/10/x20220403_112336-thegem-product-justified-square-xxs.jpg.pagespeed.ic.VUNyWe8Xy5.jpg)](https://www.agragps.com/product/claas-lexion-mount/)
     
-    [FENDT ROOF MOUNT 7XX-10XX](https://www.agragps.com/product/fendt-mount-2/)
+    [CLAAS LEXION ROOF MOUNT](https://www.agragps.com/product/claas-lexion-mount/)
     
-    $120.00
-    
-     [![FENDT ROOF MOUNT 8XX-9XX](https://www.agragps.com/wp-content/uploads/2021/10/x20220403_112521-thegem-product-justified-square-xxs.jpg.pagespeed.ic.Wy_jGbrCQj.jpg)](https://www.agragps.com/product/fendt-mount/)
-    
-    [FENDT ROOF MOUNT 8XX-9XX](https://www.agragps.com/product/fendt-mount/)
-    
-    $120.00
+    130.00€
     
      [![DELUXE John Deere MOUNT](https://www.agragps.com/wp-content/uploads/2021/10/x20220403_112348-thegem-product-justified-square-xxs.jpg.pagespeed.ic.W1Rlnb1kuW.jpg)](https://www.agragps.com/product/deluxe-jd-mount/)
     
     [DELUXE John Deere MOUNT](https://www.agragps.com/product/deluxe-jd-mount/)
     
-    $80.00
+    80.00€
+    
+     [![FENDT ROOF MOUNT 8XX-9XX](https://www.agragps.com/wp-content/uploads/2021/10/x20220403_112521-thegem-product-justified-square-xxs.jpg.pagespeed.ic.Wy_jGbrCQj.jpg)](https://www.agragps.com/product/fendt-mount/)
+    
+    [FENDT ROOF MOUNT 8XX-9XX](https://www.agragps.com/product/fendt-mount/)
+    
+    170.00€
     
 * [About CRG](https://www.agragps.com/about-crg/)
 * [Become a Dealer](https://www.agragps.com/dealer-request/)
@@ -308,27 +308,27 @@ _English
     
     ![fr](https://www.agragps.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/fr.svg)
     
-    _Français](https://www.agragps.com/fr/privacy-statement-au/)
+    _Français](https://www.agragps.com/privacy-statement-au/)
 * [_
     
     ![de](https://www.agragps.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/de.svg)
     
-    _Deutsch](https://www.agragps.com/de/privacy-statement-au/)
+    _Deutsch](https://www.agragps.com/privacy-statement-au/)
 * [_
     
     ![pl](https://www.agragps.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/pl.svg)
     
-    _Polski](https://www.agragps.com/pl/privacy-statement-au/)
+    _Polski](https://www.agragps.com/privacy-statement-au/)
 * [_
     
     ![pt-br](https://www.agragps.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/pt-br.svg)
     
-    _Português](https://www.agragps.com/pt-br/privacy-statement-au/)
+    _Português](https://www.agragps.com/privacy-statement-au/)
 * [_
     
     ![es](https://www.agragps.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/es.svg)
     
-    _Español](https://www.agragps.com/es/privacy-statement-au/)
+    _Español](https://www.agragps.com/privacy-statement-au/)
 
 [](#)
 
