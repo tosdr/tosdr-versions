@@ -1,12 +1,12 @@
 [Skip to main content](#content)
 
-* [Visit Beano Shop](https://www.beano.com/external-link-warning-shop?verify=b63bd540ce&to=https%3A%2F%2Fshop.beano.com%2F%3Futm_source%3Dbeano%26utm_campaign%3DCP%26utm_medium%3Dreferral "Visit Beano Shop")
+* [Visit Beano Shop](https://www.beano.com/external-link-warning-shop?verify=6dbe3eb5cc&to=https%3A%2F%2Fshop.beano.com%2F%3Futm_source%3Dbeano%26utm_campaign%3DCP%26utm_medium%3Dreferral "Visit Beano Shop")
 
 Subscribe
 
 Open Search
 
-[![Beano](https://www.beano.com/app/themes/beano/assets/images/logo.svg)](https://www.beano.com/ "Beano")
+[![Beano](https://www.beano.com/wp-content/themes/beano/assets/images/logo.svg)](https://www.beano.com/ "Beano")
 
 * [Home](https://www.beano.com/)
 * [Quizzes](https://www.beano.com/categories/quizzes)
@@ -19,21 +19,21 @@ Open Search
 
 Subscribe to Beano
 
-[![Beano](https://www.beano.com/app/themes/beano/assets/images/logo.svg)](https://www.beano.com/ "Beano")
+[![Beano](https://www.beano.com/wp-content/themes/beano/assets/images/logo.svg)](https://www.beano.com/ "Beano")
 
 Subscribe
 
 Open Search
 
-[![Beano](https://www.beano.com/app/themes/beano/assets/images/burger-menu.svg)](https://www.beano.com/ "Open mobile menu")
+[![Beano](https://www.beano.com/wp-content/themes/beano/assets/images/burger-menu.svg)](https://www.beano.com/ "Open mobile menu")
 
-[![Beano](https://www.beano.com/app/themes/beano/assets/images/burger-menu-close.svg)](https://www.beano.com/ "Close mobile menu")
+[![Beano](https://www.beano.com/wp-content/themes/beano/assets/images/burger-menu-close.svg)](https://www.beano.com/ "Close mobile menu")
 
-[![Beano](https://www.beano.com/app/themes/beano/assets/images/logo.svg)](https://www.beano.com/ "Beano")
+[![Beano](https://www.beano.com/wp-content/themes/beano/assets/images/logo.svg)](https://www.beano.com/ "Beano")
 
-[![Beano](https://www.beano.com/app/themes/beano/assets/images/burger-menu.svg)](https://www.beano.com/ "Open mobile menu")
+[![Beano](https://www.beano.com/wp-content/themes/beano/assets/images/burger-menu.svg)](https://www.beano.com/ "Open mobile menu")
 
-[![Beano](https://www.beano.com/app/themes/beano/assets/images/burger-menu-close.svg)](https://www.beano.com/ "Close mobile menu")
+[![Beano](https://www.beano.com/wp-content/themes/beano/assets/images/burger-menu-close.svg)](https://www.beano.com/ "Close mobile menu")
 
 * [Home](https://www.beano.com/)
 * [Subscribe to comic](https://www.beano.com/subscribe)
@@ -43,7 +43,7 @@ Open Search
 * [Facts](https://www.beano.com/categories/fun-facts)
 * [Comic](https://www.beano.com/categories/beanotown)
 * [Fun Stuff](https://www.beano.com/categories/fun-stuff)
-* [Shop](https://www.beano.com/external-link-warning-shop?verify=b63bd540ce&to=https%3A%2F%2Fshop.beano.com%2F%3Futm_source%3Dbeano%26utm_campaign%3DCP%26utm_medium%3Dreferral)
+* [Shop](https://www.beano.com/external-link-warning-shop?verify=6dbe3eb5cc&to=https%3A%2F%2Fshop.beano.com%2F%3Futm_source%3Dbeano%26utm_campaign%3DCP%26utm_medium%3Dreferral)
 
 * [Home](https://www.beano.com/)
 * [Quizzes](https://www.beano.com/categories/quizzes)
@@ -181,7 +181,7 @@ Most browsers allow you to refuse to accept cookies. For example:
 
 ### Control Google Analytics Cookies
 
-A lot of sites use special types of cookies from Google Analytics to track the traffic on a site and what users do on the site. You can stop being tracked by ALL Google Analytics cookies across ALL sites on your computer or mobile device by visiting [https://tools.google.com/dlpage/gaoptout](https://www.beano.com/external-link-warning?verify=f326aa1d51&to=https%3A%2F%2Ftools.google.com%2Fdlpage%2Fgaoptout).
+A lot of sites use special types of cookies from Google Analytics to track the traffic on a site and what users do on the site. You can stop being tracked by ALL Google Analytics cookies across ALL sites on your computer or mobile device by visiting [https://tools.google.com/dlpage/gaoptout](https://www.beano.com/external-link-warning?verify=5fe3f930af&to=https%3A%2F%2Ftools.google.com%2Fdlpage%2Fgaoptout).
 
 ### One last thing…
 
@@ -193,17 +193,15 @@ Whoopee cushion...
 
  
 
-* [Beano Shop](https://www.beano.com/external-link-warning-shop?verify=b63bd540ce&to=https%3A%2F%2Fshop.beano.com%2F%3Futm_source%3Dbeano%26utm_campaign%3DCP%26utm_medium%3Dreferral)
+* [Beano Shop](https://www.beano.com/external-link-warning-shop?verify=6dbe3eb5cc&to=https%3A%2F%2Fshop.beano.com%2F%3Futm_source%3Dbeano%26utm_campaign%3DCP%26utm_medium%3Dreferral)
 * [Subscription Offers](https://www.beano.com/subscribe)
 * [Parent Zone](https://www.beano.com/parent-zone)
 
-[![KidAware Certified](https://www.beano.com/app/themes/beano/assets/images/footer/footer-kidawarelogo.png)](https://www.beano.com/external-link-warning?verify=6f9b39b236&to=https%3A%2F%2Fwww.superawesome.com%2Fkidaware%2F)
+[![KidAware Certified](https://www.beano.com/wp-content/themes/beano/assets/images/footer/footer-kidawarelogo.png)](https://www.beano.com/external-link-warning?verify=3741ef814d&to=https%3A%2F%2Fwww.superawesome.com%2Fkidaware%2F)
 
-[![COPPA - Safe Harbor Certification (Kids' Privacy Assured Privo)](https://www.beano.com/app/themes/beano/assets/images/footer/coppa.png)](https://www.beano.com/external-link-warning?verify=cd18f6b4e3&to=https%3A%2F%2Fcert.privo.com%2F%23%2Fcompanies%2Fbeano_studios)
+[![COPPA - Safe Harbor Certification (Kids' Privacy Assured Privo)](https://www.beano.com/wp-content/themes/beano/assets/images/footer/coppa.png)](https://www.beano.com/external-link-warning?verify=c250d10639&to=https%3A%2F%2Fcert.privo.com%2F%23%2Fcompanies%2Fbeano_studios)
 
-[![GDPR - General Data Protection (Kids' Privacy Assured Privo)](https://www.beano.com/app/themes/beano/assets/images/footer/gdpr.png)](https://www.beano.com/external-link-warning?verify=cd18f6b4e3&to=https%3A%2F%2Fcert.privo.com%2F%23%2Fcompanies%2Fbeano_studios)
-
-[![Kids' Privacy Assured Privo](https://www.beano.com/app/themes/beano/assets/images/footer/seal.png)](https://www.beano.com/external-link-warning?verify=cd18f6b4e3&to=https%3A%2F%2Fcert.privo.com%2F%23%2Fcompanies%2Fbeano_studios)
+[![Kids' Privacy Assured Privo](https://www.beano.com/wp-content/themes/beano/assets/images/footer/seal.png)](https://www.beano.com/external-link-warning?verify=c250d10639&to=https%3A%2F%2Fcert.privo.com%2F%23%2Fcompanies%2Fbeano_studios)
 
 * [Home](https://www.beano.com/)
 * [Quizzes](https://www.beano.com/categories/quizzes)
@@ -218,8 +216,9 @@ Whoopee cushion...
 * [Contact Us](https://www.beano.com/contact-us)
 * [Cookie Policy](https://www.beano.com/cookie-policy)
 * [Terms and Conditions](https://www.beano.com/terms-and-conditions)
-* [Careers](https://www.beano.com/external-link-warning?verify=aa611b615d&to=https%3A%2F%2Fwww.beanostudios.com%2Fcareers)
+* [Careers](https://www.beano.com/external-link-warning?verify=eddca4c742&to=https%3A%2F%2Fwww.beanostudios.com%2Fcareers)
 * [Privacy Policy](https://www.beano.com/privacy-policy)
 * [Update Cookie Preferences](https://www.beano.com/)
+* [![Powered by WordPress.com VIP](https://www.beano.com/wp-content/mu-plugins/vip-helpers/images/vip-powered-light-small.png)](https://www.beano.com/external-link-warning?verify=9311df37d1&to=https%3A%2F%2Fwpvip.com%2F%3Futm_source%3Dvip_powered_wpcom%26amp%3Butm_medium%3Dweb%26amp%3Butm_campaign%3DVIP%2520Footer%2520Credit%26amp%3Butm_term%3Dbeano.com)
 
 Cookie Settings
