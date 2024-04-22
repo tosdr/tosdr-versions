@@ -142,15 +142,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to clean a backup](https://www.backup4all.com/how-to-clean-a-backup-kb.html)  
-    
-* [How to backup your data to Scality](https://www.backup4all.com/how-to-backup-your-data-to-scality-kb.html)  
-    
-* [How to use the command line application](https://www.backup4all.com/how-to-use-the-command-line-application-kb.html)  
-    
 * [How to restore a backup job created with a Ba ...](https://www.backup4all.com/how-to-restore-a-backup-job-created-with-a-backup4all-plugin-kb.html)  
     
-* [Install Backup4all using the command line par ...](https://www.backup4all.com/how-to-install-backup4all-using-the-command-line-parameters-kb.html)  
+* [How to create a differential backup](https://www.backup4all.com/how-to-create-a-differential-backup-kb.html)  
+    
+* [Backup from FTP](https://www.backup4all.com/backup-from-ftp-kb.html)  
+    
+* [How to use the Scheduler](https://www.backup4all.com/how-to-use-the-scheduler-kb.html)  
+    
+* [What is cloud backup](https://www.backup4all.com/what-is-cloud-backup-kb.html)  
     
 
 Choose language:
