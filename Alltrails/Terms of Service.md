@@ -12,7 +12,7 @@
 
 [Help](https://support.alltrails.com/hc/en-us)
 
-Get the app[Log in](https://www.alltrails.com/login)
+[Try AllTrails+ for free](https://www.alltrails.com/plus)[Log in](https://www.alltrails.com/login)
 
 Terms of Service
 ----------------
@@ -465,7 +465,7 @@ Connect with us
 
 ALLTRAILS® and the AllTrails Mountain Design are registered trademarks of AllTrails, LLC in the United States as well as certain other jurisdictions.
 
-FIND YOUR OUTSIDE™ is a trademark of AllTrails, LLC.
+FIND YOUR WAY OUTSIDE™ is a trademark of AllTrails, LLC.
 
 Select a languageEnglish (US)English (UK)Dansk (Danmark)Deutsch (Deutschland)Español (España)Español (Latinoamérica)Français (France)Italiano (Italia)Nederlands (Nederland)Norsk bokmål (Norge)Polski (Polska)Português (Brasil)Português (Portugal)Svenska (Sverige)
 
