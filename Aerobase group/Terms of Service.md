@@ -106,14 +106,14 @@ For further information regarding the applicable laws, regulations, and policies
 
 * Recent:
 
-* ![AeroBase Group, Inc.](/public/images/logo.png "AeroBase Group, Inc. Logo")
+* ![AeroBase Group, Inc.](/public/images/140xNxlogo.png.pagespeed.ic.on3YSwSbvO.png "AeroBase Group, Inc. Logo")
 * ISO 9001:2015 + AS9120B Phone: 1 (321) 802-5889  
     Fax: 1 (321) 733-7477
     
     3555 Agricultural Center Dr.  
     St. Augustine, FL  32092
     
-     [![facebook](/public/images/social/facebook.png "Connect on facebook")](https://facebook.com/AeroBaseGroup)[![twitter](/public/images/social/twitter.png "Connect on twitter")](https://twitter.com/aerobasegroup)[![linkedin](/public/images/social/linkedin.png "Connect on LinkedIn")](https://www.linkedin.com/company/aerobase-group-inc/about/)[![YouTube](/public/images/social/youtube.png "Watch on YouTube")](https://www.youtube.com/user/AeroBaseGroup/)
+     [![facebook](/public/images/social/xfacebook.png.pagespeed.ic.X5PbMiXunI.png "Connect on facebook")](https://facebook.com/AeroBaseGroup)[![twitter](/public/images/social/xtwitter.png.pagespeed.ic.uP_XWz6uhv.png "Connect on twitter")](https://twitter.com/aerobasegroup)[![linkedin](/public/images/social/xlinkedin.png.pagespeed.ic.jlFzLPVQZ9.png "Connect on LinkedIn")](https://www.linkedin.com/company/aerobase-group-inc/about/)[![YouTube](/public/images/social/24xNxyoutube.png.pagespeed.ic.FFKLi-lyj0.png "Watch on YouTube")](https://www.youtube.com/user/AeroBaseGroup/)
     
 
 * **Company**
@@ -146,40 +146,40 @@ For further information regarding the applicable laws, regulations, and policies
 * [Recently Updated RSS](https://aerobasegroup.com/rss/)
 * [New Images RSS](https://aerobasegroup.com/rss-images/)
 
-[![ISO 9001:2015 + AS9120B Certified Supplier](https://aerobasegroup.com/public/images/AS9120_ISO_9001.png "ISO 9001:2015 + AS9120B")](https://aerobasegroup.com/quality)
+[![ISO 9001:2015 + AS9120B Certified Supplier](https://aerobasegroup.com/public/images/Nx140xAS9120_ISO_9001.png.pagespeed.ic.nX4Ln2t01K.png "ISO 9001:2015 + AS9120B")](https://aerobasegroup.com/quality)
 
 #### Defense News
 
-* [US Army debates path to buy long-range precision munitions](https://www.defensenews.com/industry/techwatch/2024/06/07/us-army-debates-path-to-buy-long-range-precision-munitions/)  
-    06/07/24 03:22pm  
+* [US Air Force stages dogfights with AI-flown fighter jet](https://www.defensenews.com/air/2024/04/19/us-air-force-stages-dogfights-with-ai-flown-fighter-jet/)  
+    04/19/24 04:57pm  
     
-    An air-launched effects system is fired from a UH-60L Black Hawk helicopter as testing commences during Project Convergence in September 2020. (Spc. Javion Siders/U.S. Army)
+    The U.S. Air Force Test Pilot School's X-62A VISTA jet -- a heavily modified F-16 fighter that can fly autonomously -- carried out the first ever dogfights with an artificial intelligence-flown jet last September. The service and DARPA hope it will help build trust in autonomous flight and lead to the creation of aircraft such as Collaborative Combat Aircraft. (Alex Lloyd/Air Force)
     
-* [France to supply Mirage 2000-5 jets to Ukraine, train pilots](https://www.defensenews.com/air/2024/06/07/france-to-supply-mirage-2000-5-jets-to-ukraine-train-pilots/)  
-    06/06/24 08:18pm  
+* [Nigeria expects first batch of Leonardo M-346 fighter jets this year](https://www.defensenews.com/global/europe/2024/04/19/nigeria-expects-first-batch-of-leonardo-m-346-fighter-jets-this-year/)  
+    04/19/24 12:12pm  
     
-    A Mirage 2000-5F fighter jet takes off from an air base in France on March 13, 2022. (Sebastien Bozon/AFP via Getty Images)
+    Italian firm Leonardo produces the M-346 trainer jet and a fighter attack version. (Courtesy of Leonardo)
     
-* [US Air Force says it’s on verge of rapid electronic warfare updates](https://www.defensenews.com/battlefield-tech/2024/06/06/us-air-force-says-its-on-verge-of-rapid-electronic-warfare-updates/)  
-    06/06/24 02:31pm  
+* [India proffers HAL its largest-ever tender: 97 Tejas fighters](https://www.defensenews.com/global/asia-pacific/2024/04/19/india-proffers-hal-its-largest-ever-tender-97-tejas-fighters/)  
+    04/19/24 11:32am  
     
-    U.S. Air Force Col. Joshua Koslov at Eglin Air Force Base, Florida. (Samuel King Jr/U.S. Air Force)
+    An Indian Air Force Tejas rolls inverted during its aerial display at the 2022 Singapore Airshow. (Mike Yeo/Staff)
     
-* [Airbus, Diehl aim at future air war with drone wingman, remote carrier](https://www.defensenews.com/global/europe/2024/06/06/airbus-diehl-aim-at-future-air-war-with-drone-wingman-remote-carrier/)  
-    06/06/24 09:41am  
+* [From customer to sanctioned ‘proliferator,’ drones extend Iran’s reach](https://www.defensenews.com/unmanned/2024/04/19/from-customer-to-sanctioned-proliferator-drones-extend-irans-reach/)  
+    04/19/24 11:13am  
     
-    An Airbus Wingman air combat drone is on display at the 2024 ILA Berlin Air Show on June 05, 2024, in Schoenefeld, Germany. (Photo by Sean Gallup/Getty Images)
+    A truck carries Iranian drones during an annual military parade in Tehran on Sept. 22, 2023. (AFP/Getty Images)
     
 
 Recent parts by keyword  
 
-* [nas1190e04p4](https://aerobasegroup.com/search/?term=nas1190e04p4)
-* [spectrum](https://aerobasegroup.com/search/?term=spectrum)
-* [AN832](https://aerobasegroup.com/search/?term=AN832)
-* [aspff-v08-2](https://aerobasegroup.com/search/?term=aspff-v08-2)
-* [AN832-10](https://aerobasegroup.com/search/?term=AN832-10)
-* [g19231](https://aerobasegroup.com/search/?term=g19231)
-* [tm 11-5855](https://aerobasegroup.com/search/?term=tm+11-5855)
+* [MD8251A/B](https://aerobasegroup.com/search/?term=MD8251A%2FB)
+* [500-BW](https://aerobasegroup.com/search/?term=500-BW)
+* [BACB30NE3-4](https://aerobasegroup.com/search/?term=BACB30NE3-4)
+* [MIL-I-631-G](https://aerobasegroup.com/search/?term=MIL-I-631-G)
+* [40mm](https://aerobasegroup.com/search/?term=40mm)
+* [100-C](https://aerobasegroup.com/search/?term=100-C)
+* [A122-6B-9Q8-0400](https://aerobasegroup.com/search/?term=A-1226B+9Q+8040-00-290-4301)
 
 The AeroBase Group Family ..
 
