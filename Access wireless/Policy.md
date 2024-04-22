@@ -16,7 +16,7 @@
 
 Access Wireless Terms and Conditions and Agreement to Arbitrate Disputes and Judge or Jury Trial Waiver  
 
-**Last Updated:** May 1, 2024  
+**Last Updated:** March 11, 2024  
   
 
 This Agreement governs the provision of the Services by Access Wireless (“Access Wireless” the “Company,” “we,” “us,” or “our”) to you (“your,” “applicant,” “customer,” “subscriber,” “participant,” or “user”) and your use of the Services and Devices. As used in this Agreement, the term: (A) “Services” means voice telephony (“talk”), text messaging (“text”), broadband Internet access services (“data”), and any other services provided to you by Access Wireless, services and devices subject to federal and state Lifeline discounts and Affordable Connectivity Program discounts, and prepaid wireless service; (B) “Device” means any phone, smartphone, accessory, or other device provided or sold to you by Access Wireless or that you activate or use with our Services (note that certain functions are only available when using a voice enabled Device; tablets provided or sold to you by Access Wireless are not voice enabled); and (C) “Underlying Carrier” means the wireless provider whose facilities we use to provide you wireless Services. The complete Agreement between you and Access Wireless consists of:
@@ -359,21 +359,52 @@ Access Wireless wireless subscribers can purchase “Top up” Plans to receive 
 
 **ACCESS WIRELESS RATES**
 
-******Effective 5/1/2024 for all Access Wireless Subscribers  
-  
-**Top-up Options** listed below are are **valid for 30 days:******  
+******Effective ~ 5/1/2024 for all Access Wireless Subscribers****  
 **
 
 |     |     |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Top Up Amount | $5  | $10 | $15\* | $25 | $35 | $50 | $70 | $110 |
+| Top Up Amount | $5  | $10 | $15 | $25 | $35 | $50 | $70 | $110 |
 | Minutes | 250 | 500 | 1000 | Unlimited | Unlimited | Unlimited | Unlimited | Unlimited |
 | Data | 500MB | 1 GB | 3 GB | 5 GB | 7 GB | 10 GB | 20 GB | 50 GB |
 
   
-\* The $15 top-up is a promotional top-up and available for a limited time. As stated above, the $15 top-up is valid for 30 days.  
-  
- 
+Rate plan(s) in States participating in the Federal Lifeline Program and NOT supplementing the federal reimbursement with states funds:
+
+**Access Wireless Broadband/Data Plan:** Available after 12/1/2021. Includes 1000 voice minutes, Unlimited Text Messages and 4.5 GB of data each month.
+
+Rate plan(s) in states participating in the Federal Lifeline Program and supplementing the federal reimbursement with state funds of at least $3.50:
+
+**Access Wireless Broadband/Data Plan+:** Available after 12/1/2021. Includes Unlimited Voice Minutes, Unlimited Text Messages and 4.5 GB of data each month.
+
+**Top-up Options** listed below are available to the above rate plans and are **valid for 30 days unless otherwise stated:**
+
+|     |     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Top Up Amount | $5  | $10 | $25 | $35 | $50 | $70 | $110 |
+| Minutes | 250 | 500 | Unlimited | Unlimited | Unlimited | Unlimited | Unlimited |
+| Data | 250MB for 10 days | 500 MB | 2 GB | 3 GB | 10 GB | 20 GB | 50 GB |
+
+Rate plans(s) for Tribal Land Enhanced Tribal Support (**NOTE**: Access Wireless is approved to offer Enhanced Tribal Support in a limited number of states) and rate plans participating in the Affordable Connectivity Program:
+
+**Access Wireless Enhanced Tribal Broadband Plan:** Available after 12/1/2021. Includes Unlimited Voice Minutes, Unlimited Text Messages and 5.5 GB of data each month.
+
+**Top-up Options** listed below are available to the above rate plans and are **valid for 30 days unless otherwise stated:**
+
+|     |     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Top Up Amount | $5  | $10 | $25 | $35 | $50 | $70 | $110 |
+| Data | 500 MB for 10 days | 1 GB | 7.5 GB | 8.5 GB | 10 GB | 20 GB | 50 GB |
+
+Subscribers No Longer Approved for Lifeline Benefits with Access Wireless
+
+**Top-Up Options** listed below are available to subscribers on the Access Basic Non-Lifeline Plan and are **valid for 30 days unless otherwise stated:**
+
+|     |     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Top Up Amount | $5  | $10 | $25 | $35 | $50 | $70 | $110 |
+| Minutes | 250 | 500 | Unlimited | Unlimited | Unlimited | Unlimited | Unlimited |
+| Data | 250MB for 10 days | 500 MB | 2 GB | 3 GB | 10 GB | 20 GB | 50 GB |
 
 **3.3. Talk, Text, and Data Allotments**
 
