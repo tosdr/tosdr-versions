@@ -2,15 +2,15 @@
 
 * Trading Bots
     
-    * [Signal Bot
-        
-        Designed for TradingView users](https://3commas.io/signal-bot)
     * [DCA Bot
         
         Purchase at opportune moments](https://3commas.io/dca-bots)
     * [GRID Bot
         
         Trade in sideways markets](https://3commas.io/grid-bot)
+    * [Signal Bot
+        
+        Designed for TradingView users](https://3commas.io/signal-bot)
     
     * [Binance Bot](https://3commas.io/trading-bot-for-binance)
     * [OKX Bot](https://3commas.io/trading-bot-for-okx)
@@ -92,7 +92,7 @@
         Learn more about us and our story](https://3commas.io/about)
     * [Careers
         
-        We are hiring! Apply now](https://3commas-bf8aa341f252.breezy.hr/)
+        We are hiring! Apply now](https://careers.3commas.io/)
     * [Knowledge base
         
         Get answers to any question](https://help.3commas.io/en)
@@ -202,6 +202,8 @@ Trading Bots
 
 For Developers
 
+* [3Commas Apps](https://3commas.io/apps/dev)
+* [Apps Chat](https://t.me/+S7ESdFhs5aI3MGJi)
 * [API Git](https://github.com/3commas-io/3commas-official-api-docs)
 * [API Chat](https://t.me/xcommas_api)
 
@@ -215,7 +217,7 @@ Legal Information
 Company
 
 * [About us](https://3commas.io/about)
-* [Careers](https://3commas-bf8aa341f252.breezy.hr/)
+* [Careers](https://careers.3commas.io/)
 * [Affiliate program](https://3commas.io/affiliate)
 * [3Commas & Binance](https://3commas.io/binance)
 * [Blog](https://3commas.io/blog)
@@ -228,7 +230,6 @@ Company
 * [Price Charts](https://3commas.io/coin-price-chart)
 * [Sitemap](https://3commas.io/sitemap)
 * [Security](https://3commas.io/security)
-* [Predictions](https://3commas.io/predictions)
 
 **[DeCommas](https://decommas.io/)** is part of the 3Commas ecosystem
 
