@@ -1,11 +1,3 @@
-![](https://www.facebook.com/tr?id=167901609887021&ev=PageView&noscript=1)
-
-![](https://www.facebook.com/tr?id=128242077872939&ev=PageView&noscript=1)
-
-![](https://www.facebook.com/tr?id=1619539764955780&ev=PageView&noscript=1)
-
-![](https://www.facebook.com/tr?id=264308648709278&ev=PageView&noscript=1)
-
 [![Barstool Sports](https://chumley.barstoolsports.com/union/2023/11/03/logo.b8652ed3.png?width=3840&auto=webp&quality=85%2C75&format=pjpg)](https://www.barstoolsports.com/)[![Greenie at Barstool](https://chumley.barstoolsports.com/union/2023/11/03/logo-greenie.adbf6ba4.png?width=3840&auto=webp&quality=85%2C75&format=pjpg)](https://www.barstoolsports.com/greenie)
 
 * [Blogs](https://www.barstoolsports.com/blogs)
@@ -26,7 +18,7 @@
     
 * [Topics](https://www.barstoolsports.com/privacy-policy#topics)
     
-    [![Barstool Golf Time](https://chumley.barstoolsports.com/union/2024/05/17/blog_896x694.43c2ca5b.jpg?crop=896%3A672%2Csmart&format=pjpg&width=3840&auto=webp&quality=85%2C75)](https://apps.apple.com/app/apple-store/id1550158305?pt=1548021&ct=bsdisplay&mt=8)
+    [![SKLZ Trending Topics](https://chumley.barstoolsports.com/union/2024/04/19/SKLZ_BarstoolGolf_240319_MegaMenu.0365ffd4.jpg?crop=896%3A672%2Csmart&format=pjpg&width=3840&auto=webp&quality=85%2C75)](https://store.barstoolsports.com/collections/sklz-x-barstool-golf?utm_source=barstoolsports&utm_medium=referral&utm_campaign=referral_barstoolsports_site_placement_trending_topics_bar_sklz)
     
     #### Featured
     
@@ -63,7 +55,7 @@
     
 * [Store](https://store.barstoolsports.com/)
     
-    [![4th of July Store Hover](https://chumley.barstoolsports.com/union/2024/06/05/FourthOfJuly2024_896x694.eec58883.jpg?crop=896%3A672%2Csmart&format=pjpg&width=3840&auto=webp&quality=85%2C75)](https://store.barstoolsports.com/collections/4th-of-july?utm_source=barstoolsports&utm_medium=referral&utm_campaign=referral_barstoolsports_site_placement_hover_state_image_4thofjuly)
+    [![Barstool Golf x PGA Championship](https://chumley.barstoolsports.com/union/2024/04/19/BSGxPGAChamp2024_896x694.7951c18f.jpg?crop=896%3A672%2Csmart&format=pjpg&width=3840&auto=webp&quality=85%2C75)](https://store.barstoolsports.com/collections/barstool-golf-x-pga-championship)
     
     #### Barstool Brands
     
@@ -103,9 +95,8 @@
     
     * [New](https://store.barstoolsports.com/collections/new-arrivals?utm_source=barstoolsports&utm_medium=referral&utm_campaign=referral_barstoolsports_site_placement_trending_topics_hover_newarrivals)
     * [Best Sellers](https://store.barstoolsports.com/collections/best-sellers-page)
-    * [Shady Rays](https://store.barstoolsports.com/collections/shady-rays?utm_source=barstoolsports&utm_medium=referral&utm_campaign=referral_barstoolsports_site_placement_trending_topics_hover_shadyrays)
     * [SKLZ](https://store.barstoolsports.com/collections/sklz-x-barstool-golf?utm_source=barstoolsports&utm_medium=referral&utm_campaign=referral_barstoolsports_site_placement_trending_topics_bar_sklz)
-    * [4th of July](https://store.barstoolsports.com/collections/4th-of-july)
+    * [PGA Championship](https://store.barstoolsports.com/collections/barstool-golf-x-pga-championship)
     * [Miss Peaches](https://store.barstoolsports.com/collections/miss-peaches)
     * [Barstool Golf](https://store.barstoolsports.com/collections/golf)
     * [Stella Blue Coffee](https://stellabluecoffee.com/?utm_source=stellabluecoffee.com&utm_medium=referral&utm_campaign=referral_stellabluecoffee.com_site_placement_trending_topics_hover_stellabluecoffee)
@@ -123,7 +114,7 @@
     * [Barstool Bets](https://www.barstoolbets.com/)
     * [Chicks](https://www.barstoolsports.com/shows/57/chicks-at-barstool)
     
-    [Facebook Icon](https://www.facebook.com/barstoolsports/)[Twitter Icon](https://www.twitter.com/barstoolsports/)[Snapchat Icon](https://www.snapchat.com/add/barstoolsports)[Instagram Icon](https://www.instagram.com/barstoolsports/)
+    [Facebook](https://www.facebook.com/barstoolsports/)[Twitter](https://www.twitter.com/barstoolsports/)[Snapchat](https://www.snapchat.com/add/barstoolsports)[Instagram](https://www.instagram.com/barstoolsports/)
     
     [![Download The Barstool App From The iTunes App Store](https://chumley.barstoolsports.com/union/2023/11/03/download-app-store.31b8cc33.svg?width=3840&auto=webp&quality=85%2C75&format=pjpg)](https://itunes.apple.com/us/app/barstool-sports/id456805313)[![Download The Barstool App From The Google Play Store](https://chumley.barstoolsports.com/union/2023/11/03/download-play-store.8e08c55c.svg?width=3840&auto=webp&quality=85%2C75&format=pjpg)](https://play.google.com/store/apps/details?id=com.DesignMenace.BarstoolSports)
     
@@ -144,9 +135,9 @@
 [My Feed!My Feed](https://www.barstoolsports.com/favorites)[App](https://www.barstoolsports.com/download)
 
 * Trending Topics
-* [4th of July Collection](https://store.barstoolsports.com/collections/4th-of-july?utm_source=barstoolsports&utm_medium=referral&utm_campaign=referral_barstoolsports_site_placement_trending_topics_bar_4thofjuly)
-* [Barstool Golf Time](https://apps.apple.com/app/apple-store/id1550158305?pt=1548021&ct=bsdisplay&mt=8)
-* [MLB Coverage](https://www.barstoolsports.com/topics/mlb)
+* [Rough N' Rowdy 24](https://www.roughnrowdybrawl.com/events)
+* [Stool Scenes](https://www.barstoolsports.com/video/3511061/tommy-and-joey-fight-over-the-montana-boyz-or-stool-scenes)
+* [Barstool Golf x PGA Championship](https://store.barstoolsports.com/collections/barstool-golf-x-pga-championship)
 * [NHL Coverage](https://www.barstoolsports.com/topics/nhl)
 * [NBA Coverage](https://www.barstoolsports.com/topics/nba)
 
@@ -538,27 +529,23 @@ We will respond to your request as quickly as we can. The content of our respons
 
 #### More From Barstool
 
+* [Best Sports Betting App](https://www.barstoolbets.com/)
 * [Barstool Store](https://store.barstoolsports.com/)
 * [Barstool Sports NFT & One Bite NFT](https://bsnft.io/)
 * [Podcasts](https://www.barstoolsports.com/podcasts)
+* [Erika Nardini](https://www.barstoolsports.com/erika-nardini)
 * [Engineering Blog](https://barstool.engineering/)
 * [Rough N Rowdy](https://buyrnr.com/)
 * [Stella Blue Coffee by Big Cat](https://stellabluecoffee.com/)
 * [Daily Dozen Trivia](https://www.dailydozentrivia.com/)
-* [Miss Peaches Peaches](https://misspeachespeaches.com/)
 
-![Barstool Sports logo](https://chumley.barstoolsports.com/union/2023/11/03/logo.b8652ed3.png?width=3840&auto=webp&quality=85%2C75&format=pjpg)
+![Barstool Sports - Barstool Gambling](https://chumley.barstoolsports.com/union/2023/11/03/logo.b8652ed3.png?width=3840&auto=webp&quality=85%2C75&format=pjpg)
 
-#### Follow Us
-
-* [Facebook Icon](https://www.facebook.com/barstoolsports/)
-* [Twitter Icon](https://twitter.com/barstoolsports)
-* [Instagram Icon](https://www.instagram.com/barstoolsports/)
-* [YouTube Icon](https://www.youtube.com/user/itsthebroshowyo)
-
-#### Accessibility
-
-[Level Access website accessibility icon](https://www.levelaccess.com/a/barstoolsports)
+* Follow Us
+* [Facebook](https://www.facebook.com/barstoolsports/)
+* [Twitter](https://twitter.com/barstoolsports)
+* [Instagram](https://www.instagram.com/barstoolsports/)
+* [YouTube](https://www.youtube.com/user/itsthebroshowyo)
 
 [App](https://www.barstoolsports.com/download)[Advertising Inquiries](https://www.barstoolsports.com/partnerships)[Terms of Use](https://www.barstoolsports.com/terms-of-use)[Privacy Policy](https://www.barstoolsports.com/privacy-policy)[Content Policy](https://www.barstoolsports.com/content-policy)[Cookie Policy](https://www.barstoolsports.com/cookie-policy)[Messaging Terms](https://www.barstoolsports.com/messaging-terms)[Subscription Terms](https://www.barstoolsports.com/subscription-terms)
 
