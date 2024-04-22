@@ -6,7 +6,7 @@ menu
 
 [Log In](https://www.buzzsprout.com/login) [Get Started Free](https://www.buzzsprout.com/sign_up)
 
-[Summary](https://www.buzzsprout.com/policies_summary) | [Terms of Service](https://www.buzzsprout.com/tos) | [Refunds](https://www.buzzsprout.com/refunds) | [Privacy Policy](https://www.buzzsprout.com/privacy) | [DPF Privacy Policy](https://www.buzzsprout.com/privacy_shield) | [GDPR](https://www.buzzsprout.com/gdpr) | [DMCA](https://www.buzzsprout.com/dmca)
+[Summary](https://www.buzzsprout.com/policies_summary) | [Terms of Service](https://www.buzzsprout.com/tos) | [Refunds](https://www.buzzsprout.com/refunds) | [Privacy Policy](https://www.buzzsprout.com/privacy) | [Privacy Shield](https://www.buzzsprout.com/privacy_shield) | [GDPR](https://www.buzzsprout.com/gdpr) | [DMCA](https://www.buzzsprout.com/dmca)
 
 Buzzsprout Terms of Service
 ===========================
@@ -112,10 +112,11 @@ General Conditions
 Buzzsprout Ads
 --------------
 
-1. Buzzsprout Ads allows qualifying podcasts to easily run advertisements within their episodes. Participation in the Buzzsprout Ads program is optional and only available to select podcasts. Buzzsprout reserves the right to remove any podcast from the program at any time at our sole discretion.
-2. By opting in to the Buzzsprout Ads program you agree to share your podcast download statistics with advertisers. This information is made available to advertisers only after they have purchased an ad that matches your podcast.
-3. Podcasts that utilize AI generated content or copyrighted material are prohibited.
-4. Any person or podcast suspected of fraud against Buzzsprout or our advertisers will be banned from Buzzsprout Ads participation and possibly the closure of their Buzzsprout account.
+Buzzsprout Ads allows qualifying podcasts to easily run advertisements within their episodes. Participation in the Buzzsprout Ads program is optional and only available to select podcasts. Buzzsprout reserves the right to remove any podcast from the program at any time at our sole discretion.
+
+Podcasts that utilize AI generated content or copyrighted material are prohibited.
+
+Any person or podcast suspected of fraud against Buzzsprout or our advertisers will be banned from Buzzsprout Ads participation and possibly the closure of their Buzzsprout account.
 
 [Start a Podcast. Free for 90 Days!](https://www.buzzsprout.com/sign_up)
 
