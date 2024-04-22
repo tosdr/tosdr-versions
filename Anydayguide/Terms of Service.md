@@ -197,4 +197,8 @@ I Agree
 
 We use [cookies](https://anydayguide.com/cookies "Cookie Policy") on our website to improve your user experience while respecting your [privacy](https://anydayguide.com/privacy "AnydayGuide Privacy Policy"). By continuing to use our site you are giving your consent for us to use cookies.
 
+![AnyDayGuide Logo](https://anydayguide.com/uploads/tools/apple-touch-icon-57x57-precomposed.png)  
+
+  
+
 ×
