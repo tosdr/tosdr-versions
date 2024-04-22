@@ -168,14 +168,14 @@ This Agreement constitutes the entire agreement between the parties related to g
 
 This Agreement is made in Chinese. In case of any dispute as to the interpretation between the translated version and Chinese version, the Chinese version shall prevail.
 
-* [About us](https://www.17track.net/en/about "About us")
+* [About us](https://www.17track.net/en/about/index "About us")
 * [Contact us](https://www.17track.net/en/about/contactus "Contact us")
 * [Help](https://help.17track.net/hc/en-us "Help")
 * [Terms](https://www.17track.net/en/about/licensing "Terms")
 * [Privacy](https://www.17track.net/en/about/privacy "Privacy")
 * [Copyright](https://www.17track.net/en/about/copyright "Copyright")
 
-* [About us](https://www.17track.net/en/about "About us")
+* [About us](https://www.17track.net/en/about/index "About us")
 * [Contact us](https://www.17track.net/en/about/contactus "Contact us")
 * [Help](https://help.17track.net/hc/en-us "Help")
 * [Terms](https://www.17track.net/en/about/licensing "Terms")
