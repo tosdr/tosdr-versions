@@ -514,7 +514,7 @@ National 4-H Newsletter
 
  Receive news about 4-h
 
-Name
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
@@ -565,17 +565,13 @@ First Name\*
 
 Last Name\*
 
-Title
-
-Mr.Mrs.Miss,Ms.Dr.Other
-
 Email\*
 
 Terms and Conditions\*
 
  I have read and agree to National 4-H Council's [terms and conditions](https://4-h.org/terms-and-conditions) and [privacy policy](https://4-h.org/privacy-policy)\*
 
-Email
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
