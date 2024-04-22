@@ -1,4 +1,4 @@
-[![What's your question?](/static/logos/allresultsweb.com.svg)](https://www.allresultsweb.com/?ueid=BAA9137B-E72F-48C7-BABB-7A49D897BF99&ad=dirN&debug=0 "https://www.allresultsweb.com/?ueid=BAA9137B-E72F-48C7-BABB-7A49D897BF99&ad=dirN&debug=0")
+[![What's your question?](/static/logos/allresultsweb.com.svg)](https://www.allresultsweb.com/?ueid=2437516C-65B1-4ACF-A46A-F1C9390422B4&ad=dirN&debug=0&locale=en_US "https://www.allresultsweb.com/?ueid=2437516C-65B1-4ACF-A46A-F1C9390422B4&ad=dirN&debug=0&locale=en_US")
 
 Ask Media Group, LLC Terms of Service
 
@@ -240,8 +240,8 @@ The section titles in these Terms of Service are for convenience only and have n
 
 If you have any questions or concerns with respect to these Terms of Service or Sites and Services, please contact us[here](https://help.askmediagroup.com/hc/en-us).
 
-* [Privacy Policy](https://www.allresultsweb.com/privacy?ueid=BAA9137B-E72F-48C7-BABB-7A49D897BF99&ad=dirN&debug=0 "Privacy Policy")
-* [Terms of Service](https://www.allresultsweb.com/terms?ueid=BAA9137B-E72F-48C7-BABB-7A49D897BF99&ad=dirN&debug=0 "Terms of Service")
-* [Help](https://help.askmediagroup.com/hc/en-us?ueid=BAA9137B-E72F-48C7-BABB-7A49D897BF99&ad=dirN&debug=0 "Help")
+* [Privacy Policy](https://www.allresultsweb.com/privacy?ueid=2437516C-65B1-4ACF-A46A-F1C9390422B4&ad=dirN&debug=0&locale=en_US "Privacy Policy")
+* [Terms of Service](https://www.allresultsweb.com/terms?ueid=2437516C-65B1-4ACF-A46A-F1C9390422B4&ad=dirN&debug=0&locale=en_US "Terms of Service")
+* [Help](https://help.askmediagroup.com/hc/en-us?ueid=2437516C-65B1-4ACF-A46A-F1C9390422B4&ad=dirN&debug=0&locale=en_US "Help")
 * Manage Privacy
 * © 2024 Ask Media Group, LLC
