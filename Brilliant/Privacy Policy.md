@@ -1,4 +1,6 @@
-[](https://brilliant.org/home/)
+[![Brilliant](/site_media/version-0/images/brilliant-wordmark-black.svg)](https://brilliant.org/)
+
+[Courses](https://brilliant.org/courses/) [Sign up](https://brilliant.org/welcome/) [Log in](https://brilliant.org/account/login/#login)
 
 1\. Brilliant.org Privacy Statement
 ===================================
@@ -24,7 +26,7 @@ _Do Not Track Policy._ Through cookies we place on your browser or device, we ma
 4\. What about children?
 ------------------------
 
-The safety and privacy of children is extremely important to us. If you are a resident of the EU, United Kingdom, Lichtenstein, Norway, or Iceland, then you must be 16 years old or older to use the Services in any way. Otherwise, every user of the Service must be 13 years of age or older. Any person that does not meet the foregoing age requirements is a "Minor". Minors are prohibited from signing up or using the Service in any way. If you are a Minor, please do not attempt to register for the Services or send any personal information about yourself to us. If we learn that we have collected personal information from a Minor, we will delete that information as quickly as possible. If you believe that a Minor may have provided us personal information, please contact us at [privacy@brilliant.org](mailto: mailto:privacy@brilliant.org). We reserve the right to require any user to verify that the user is not a Minor, and if a user does not provide such verification in a timely manner, we will terminate the user's account and delete all personally identifiable information displaying on the site and collected from such user.
+The safety and privacy of children is extremely important to us. If you are a resident of the EU, United Kingdom, Lichtenstein, Norway, or Iceland, then you must be 16 years old or older to use the Services in any way. Otherwise, every user of the Service must be 13 years of age or older. Any person that does not meet the foregoing age requirements is a "Minor". Minors are prohibited from signing up or using the Service in any way. If you are a Minor, please do not attempt to register for the Services or send any personal information about yourself to us. If we learn that we have collected personal information from a Minor, we will delete that information as quickly as possible. If you believe that a Minor may have provided us personal information, please contact us at [privacy@brilliant.org](mailto:privacy@brilliant.org). We reserve the right to require any user to verify that the user is not a Minor, and if a user does not provide such verification in a timely manner, we will terminate the user's account and delete all personally identifiable information displaying on the site and collected from such user.
 
 5\. How does Brilliant use the information it collects?
 -------------------------------------------------------
@@ -66,11 +68,11 @@ If you would like to stop receiving email from Brilliant, simply visit the Email
 10\. Privacy Shield
 -------------------
 
-The Services are hosted and operated in the United States ("U.S.") through Brilliant and its service providers, and if you do not reside in the U.S., laws in the U.S. may differ from the laws where you reside. By using the Services, you acknowledge that any Personal Data about you, regardless of whether provided by you or obtained from a third party, is being provided to Brilliant in the U.S. and will be hosted on U.S. servers, and you authorize Brilliant to transfer, store and process your information to and in the U.S., and possibly other countries. You hereby consent to the transfer of your data to the U.S. pursuant to EU-U.S. and Swiss-U.S. Privacy Shield Framework, the details of which are further set forth below.\`
+The Services are hosted and operated in the United States ("U.S.") through Brilliant and its service providers, and if you do not reside in the U.S., laws in the U.S. may differ from the laws where you reside. By using the Services, you acknowledge that any Personal Data about you, regardless of whether provided by you or obtained from a third party, is being provided to Brilliant in the U.S. and will be hosted on U.S. servers, and you authorize Brilliant to transfer, store and process your information to and in the U.S., and possibly other countries. You hereby consent to the transfer of your data to the U.S. pursuant to EU-U.S. and Swiss-U.S. Privacy Shield Framework, the details of which are further set forth below.
 
-Brilliant has certified to the EU.-U.S. and Swiss-U.S. Privacy Shield Framework set forth by the U.S. Department of Commerce regarding the collection and use of Personal Data transferred from the EU and Switzerland. For more information about the Privacy Shield Program, and to view Brilliant&abpos;s certification, please visit [www.privacyshield.gov](https://www.privacyshield.gov/). Brilliant is committed to the Privacy Shield Principles of (1) notice, (2) consent, (3) accountability for onward transfer, (4) security, (5) data integrity and purpose limitation, (6) access and (7) recourse, enforcement and liability with respect to all Personal Data received from within the EU and Switzerland in reliance on the Privacy Shield. The Privacy Shield Principles require that we remain potentially liable if any third party processing subject Personal Data on our behalf fails to comply with these Privacy Shield Principles (except to the extent we are not responsible for the event giving rise to any alleged damage). Brilliant&abpos;s compliance with the Privacy Shield is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission.
+Brilliant has certified to the EU.-U.S. and Swiss-U.S. Privacy Shield Framework set forth by the U.S. Department of Commerce regarding the collection and use of Personal Data transferred from the EU and Switzerland. For more information about the Privacy Shield Program, and to view Brilliant's certification, please visit [www.privacyshield.gov](https://www.privacyshield.gov/). Brilliant is committed to the Privacy Shield Principles of (1) notice, (2) consent, (3) accountability for onward transfer, (4) security, (5) data integrity and purpose limitation, (6) access and (7) recourse, enforcement and liability with respect to all Personal Data received from within the EU and Switzerland in reliance on the Privacy Shield. The Privacy Shield Principles require that we remain potentially liable if any third party processing subject Personal Data on our behalf fails to comply with these Privacy Shield Principles (except to the extent we are not responsible for the event giving rise to any alleged damage). Brilliant's compliance with the Privacy Shield is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission.
 
-Please contact us at [privacy+gdpr@brilliant.org](mailto: mailto:privacy+gdpr@brilliant.org) with any questions or concerns relating to our Privacy Shield Certification. If you do not receive timely acknowledgment of your Privacy Shield-related complaint from us, or if we have not resolved your complaint, you may also resolve a Privacy Shield-related complaint through JAMS, an alternative dispute resolution provider located in the United States. You can visit [https://www.jamsadr.com/file-an-eu-us-privacy-shield-claim](https://www.jamsadr.com/file-an-eu-us-privacy-shield-claim) for more information or to file a complaint, at no cost to you. Under certain conditions, you may also be entitled to invoke binding arbitration for complaints not resolved by other means.
+Please contact us at [privacy+gdpr@brilliant.org](mailto:privacy+gdpr@brilliant.org) with any questions or concerns relating to our Privacy Shield Certification. If you do not receive timely acknowledgment of your Privacy Shield-related complaint from us, or if we have not resolved your complaint, you may also resolve a Privacy Shield-related complaint through JAMS, an alternative dispute resolution provider located in the United States. You can visit [https://www.jamsadr.com/file-an-eu-us-privacy-shield-claim](https://www.jamsadr.com/file-an-eu-us-privacy-shield-claim) for more information or to file a complaint, at no cost to you. Under certain conditions, you may also be entitled to invoke binding arbitration for complaints not resolved by other means.
 
 11\. California Privacy Rights
 ------------------------------
@@ -82,7 +84,7 @@ If you are a California resident please [click here](https://brilliant.org/ccpa-
 
 For this GDPR section, we use the terms "Personal Data" and "processing" as they are defined in the GDPR, but "Personal Data" generally means information that can be used to individually identify a person, and "processing" generally covers actions that can be performed in connection with data such as collection, use, storage and disclosure. Brilliant will be the controller of your Personal Data processed in connection with the Sites. Note that we may also process Personal Data of our customers' end users or employees in connection with our provision of services to customers, in which case we are the processor of Personal Data. If we are the processor of your Personal Data (i.e., not the controller), please contact the controller party in the first instance to address your rights with respect to such data.
 
-If there are any conflicts between this section and any other provision of this Privacy Policy, the policy or portion that is more protective of Personal Data shall control to the extent of such conflict. If you have any questions about this section or whether any of the following applies to you, please contact us at [privacy+gdpr@brilliant.org](mailto: mailto:privacy+gdpr@brilliant.org).
+If there are any conflicts between this section and any other provision of this Privacy Policy, the policy or portion that is more protective of Personal Data shall control to the extent of such conflict. If you have any questions about this section or whether any of the following applies to you, please contact us at [privacy+gdpr@brilliant.org](mailto:privacy+gdpr@brilliant.org).
 
 **What Personal Data Do We Collect From You?** We collect Personal Data about you when you provide such information directly to us, when third parties such as our business partners or service providers provide us with Personal Data about you, or when Personal Data about you is automatically collected in connection with your use of our Sites.
 
@@ -116,7 +118,7 @@ Information we automatically collect when you use our Sites: Some Personal Data 
 * Location inferred from your IP address
 * Log data (e.g. access times, hardware and software information)
 
-**How Do We Use Your Personal Data?**We process Persona Data to operate, improve, understand and personalize our Sites. For example, we use Personal Data to:
+**How Do We Use Your Personal Data?** We process Persona Data to operate, improve, understand and personalize our Sites. For example, we use Personal Data to:
 
 * Create and manage user profiles
 * Communicate with you about the Sites
@@ -186,12 +188,12 @@ Furthermore, if we choose to buy or sell assets, user information is typically o
 
 **What Security Measures Do We Use?** We seek to protect Personal Data using appropriate technical and organizational measures based on the type of Personal Data and applicable processing activity. For example, we encrypt all data in-transit, obfuscate and anonymize data that we share with processors like analytics services, and maintain all services with security patches in a timely manner. We also require that our suppliers protect such information from unauthorized access, use, and disclosure.
 
-**Personal Data of Children:** We do not knowingly collect or solicit Personal Data from anyone under the age of 16. If you are under 16, please do not attempt to register for the Sites or send any Personal Data about yourself to us. If we learn that we have collected Personal Data from a child under age 16, we will delete that information as quickly as possible. If you believe that a child under 16 may have provided us Personal Data, please contact us at [privacy+gdpr@brilliant.org](mailto: mailto:privacy+gdpr@brilliant.org).
+**Personal Data of Children:** We do not knowingly collect or solicit Personal Data from anyone under the age of 16. If you are under 16, please do not attempt to register for the Sites or send any Personal Data about yourself to us. If we learn that we have collected Personal Data from a child under age 16, we will delete that information as quickly as possible. If you believe that a child under 16 may have provided us Personal Data, please contact us at [privacy+gdpr@brilliant.org](mailto:privacy+gdpr@brilliant.org).
 
-**What Rights Do You Have Regarding Your Personal Data?** You have certain rights with respect to your Personal Data, including those set forth below. For more information about these rights, or to submit a request, please email [privacy+gdpr@brilliant.org](mailto: mailto:privacy+gdpr@brilliant.org). Please note that in some circumstances, we may not be able to fully comply with your request, such as if it is frivolous or extremely impractical, if it jeopardizes the rights of others, or if it is not required by law, but in those circumstances, we will still respond to notify you of such a decision. In some cases, we may also need you to provide us with additional information, which may include Personal Data, if necessary, to verify your identity and the nature of your request.
+**What Rights Do You Have Regarding Your Personal Data?** You have certain rights with respect to your Personal Data, including those set forth below. For more information about these rights, or to submit a request, please email [privacy+gdpr@brilliant.org](mailto:privacy+gdpr@brilliant.org). Please note that in some circumstances, we may not be able to fully comply with your request, such as if it is frivolous or extremely impractical, if it jeopardizes the rights of others, or if it is not required by law, but in those circumstances, we will still respond to notify you of such a decision. In some cases, we may also need you to provide us with additional information, which may include Personal Data, if necessary, to verify your identity and the nature of your request.
 
-* **Access:** You can request more information about the Personal Data we hold about you and request a copy of such Personal Data. You can also access your Personal Data by visiting [Account settings > Export your data](https://brilliant.org/account/settings/data-portal/personal-data-export/).
-* **Rectification:** If you believe that any Personal Data we are holding about you is incorrect or incomplete, you can request that we correct or supplement such data. In certain circumstances, you can correct some of this information directly by either updating directly in the relevant[Account settings](https://brilliant.org/account/settings/).
+* **Access:** You can request more information about the Personal Data we hold about you and request a copy of such Personal Data. You can also access your Personal Data by visiting [Account settings > Export your data](https://brilliant.org/account/settings/data-portal/personal-data-export/) .
+* **Rectification:** If you believe that any Personal Data we are holding about you is incorrect or incomplete, you can request that we correct or supplement such data. In certain circumstances, you can correct some of this information directly by either updating directly in the relevant [Account settings](https://brilliant.org/account/settings/) .
 * **Erasure:** You can request that we erase some or all of your Personal Data from our systems.
 * **Withdrawal of Consent:** If we are processing your Personal Data based on your consent (as indicated at the time of collection of such data), you have the right to withdraw your consent at any time. Please note, however, that if you exercise this right, you may have to then provide express consent on a case-by-case basis for the use or disclosure of certain of your Personal Data, if such use or disclosure is necessary to enable you to utilize some or all of our Sites.
 * **Portability:** You can ask for a copy of your Personal Data in a machine-readable format. You can also request that we transmit the data to another controller where technically feasible.
@@ -200,46 +202,28 @@ Furthermore, if we choose to buy or sell assets, user information is typically o
 
 **Right to File Complaint:** You have the right to lodge a complaint about Brilliant's practices with respect to your Personal Data with the supervisory authority of your country or EU Member State.
 
-13\. Changes to this Privacy Statement
+12\. Changes to this Privacy Statement
 --------------------------------------
 
 Brilliant may amend this Privacy Statement from time to time. Use of information we collect now is subject to the Privacy Statement in effect at the time such information is used. If we make changes in the way we use Personal Information, we will notify you by posting an announcement on our website, or via the Service, or sending you an email. Users are bound by any changes to the Privacy Statement when he or she uses the Service after such changes have been first posted.
 
-14\. Questions or Concerns
+13\. Questions or Concerns
 --------------------------
 
-If you have any questions or concerns regarding privacy, please send us a detailed message at [privacy@brilliant.org](mailto: mailto:privacy@brilliant.org). We will make every effort to resolve your concerns.
+If you have any questions or concerns regarding privacy, please send us a detailed message at [privacy@brilliant.org](mailto:privacy@brilliant.org). We will make every effort to resolve your concerns.
 
-_Effective Date: Jan 1, 2020_
-
+_Effective Date: Jan 1, 2020_  
 _The previous version of this document is located [here](https://brilliant.org/privacy/05-21-2018/)._
 
-[](https://brilliant.org/)
+[Practice math and science questions on the Brilliant iOS app.](https://itunes.apple.com/app/apple-store/id913335252?pt=105095803&ct=brilliant_website_footer&mt=8) [Practice math and science questions on the Brilliant Android app.](https://play.google.com/store/apps/details?id=org.brilliant.android&referrer=utm_source%3Dbrilliant%26utm_medium%3Dsite%26utm_campaign%3Dplaystore_full_footer_icon)
 
-Product
-
-[Courses](https://brilliant.org/courses/)
-
-[Pricing](https://brilliant.org/premium/)
-
-[Testimonials](https://brilliant.org/testimonials/)
-
-[Help](https://brilliant.org/help/)
-
-Company
-
-[About us](https://brilliant.org/about/)
-
-[Careers](https://brilliant.org/careers/)
-
-[Educators](https://brilliant.org/educators/)
-
-[](https://www.facebook.com/brilliantorg)[](https://www.instagram.com/brilliantorg)[](https://twitter.com/brilliantorg)[](https://www.linkedin.com/company/brilliant-org/)
-
-[Terms of service](https://brilliant.org/terms-of-use/)
-
-[Privacy policy](https://brilliant.org/privacy/)
-
-[California privacy policy](https://brilliant.org/ccpa-policy/)
-
-© 2024 Brilliant Worldwide, Inc., Brilliant and the Brilliant Logo are trademarks of Brilliant Worldwide, Inc.
+* [Twitter](https://twitter.com/brilliantorg)
+* [Facebook](https://www.facebook.com/brilliantorg)
+* [About](https://brilliant.org/about/)
+* [Careers](https://brilliant.org/careers/)
+* [Testimonials](https://brilliant.org/testimonials/)
+* [Help](https://brilliant.org/help/)
+* [Terms](https://brilliant.org/terms-of-use/)
+* [Privacy](https://brilliant.org/privacy/)
+* [California Privacy Policy](https://brilliant.org/ccpa-policy/)
+* © Brilliant 2024
