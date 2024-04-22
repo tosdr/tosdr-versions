@@ -7,7 +7,7 @@
         * [Agency Tech Stackmake revenue from your own adtech ecosystem](https://admixer.com/agency-tech-stack/)
         * [In-House DSPfor enterprise to bring programmatic in-house](https://admixer.com/adtech-stack-for-advertisers/)
     * For publishers
-        * [Header Biddingsmart way to monetize websites](https://hb.admixer.com/)
+        * [Header Biddingsmart way to monetize websites](https://admixer.com/header-bidding/)
         * [Supply Side Platformdrive more revenue to your website, app, and SSP](https://admixer.com/ssp/)
         * [Network Platformfor advertising networks creation and management](https://admixer.com/adnetwork/)
         * [Google AdManager 360](https://admixer.com/google-admanager-360/)
@@ -260,7 +260,7 @@ Our products
     * [Network](https://admixer.com/adnetwork/)
     * [App Monetization](https://admixer.com/ssp-for-android-and-ios-app-developers/)
     * [Monetization Approach](https://admixer.com/monetization/)
-    * [Header Bidding](https://hb.admixer.com/)
+    * [Header Bidding](https://admixer.com/header-bidding/)
     * [Player.Best](https://player.best/)
     * [Admixer ID](https://admixer.com/user-id-sso/)
     * [Google AdManager 360](https://admixer.com/google-admanager-360/)
