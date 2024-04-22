@@ -909,7 +909,7 @@ Some terms are defined throughout this Policy. Simply click on the terms in bold
     
     You can also contact Bain’s Global Data Protection Officer:
     
-    **Email:**  [DataPrivacy@Bain.com](mailto:DataPrivacy@bain.com)
+    **Email:**  [DataPrivacy@Bain.com](mailto:DataPrivacy@Bain.com)
     
     **Post:** Global Data Protection Officer, Legal Department, Bain & Company, Inc. United Kingdom, 40 Strand, London WC2N 5RW, United Kingdom.
     
@@ -944,11 +944,11 @@ Some terms are defined throughout this Policy. Simply click on the terms in bold
     
     We will obtain your consent prior to sending you any marketing material or conducting any direct marketing activities. You may also withdraw your consent to our processing of your personal data, unsubscribe from receiving marketing information at any time, request to de-register your account, or send us complaints or inquiries about our processing of your personal data.
     
-    Please complete the [data subject request form](https://privacyportal-de.onetrust.com/webform/0ea9b6b4-9f39-441a-ad8c-05b2ae8f175c/aa3576c0-30dd-4d2e-b49b-5fdd7bfb9fe5) or contact us at [DataPrivacy@Bain.com](mailto:DataPrivacy@bain.com) if you would like to make such requests, or if you have any further questions about your rights and this Privacy Policy.
+    Please complete the [data subject request form](https://privacyportal-de.onetrust.com/webform/0ea9b6b4-9f39-441a-ad8c-05b2ae8f175c/aa3576c0-30dd-4d2e-b49b-5fdd7bfb9fe5) or contact us at [DataPrivacy@Bain.com](mailto:DataPrivacy@Bain.com) if you would like to make such requests, or if you have any further questions about your rights and this Privacy Policy.
     
     **Children**
     
-    Our Sites are not intended for minors under the age of 16. If you are under the age of 16 you may not use this Site. If you have concerns about your child’s privacy, or if you believe that your child may have provided us with their personal data, please contact us by completing the [data subject request form](https://privacyportal-de.onetrust.com/webform/0ea9b6b4-9f39-441a-ad8c-05b2ae8f175c/aa3576c0-30dd-4d2e-b49b-5fdd7bfb9fe5) or at [DataPrivacy@Bain.com](mailto:DataPrivacy@bain.com). We will take steps to delete the information as soon as possible should we learn that we have collected the personal data of a child without first receiving verifiable parental consent.
+    Our Sites are not intended for minors under the age of 16. If you are under the age of 16 you may not use this Site. If you have concerns about your child’s privacy, or if you believe that your child may have provided us with their personal data, please contact us by completing the [data subject request form](https://privacyportal-de.onetrust.com/webform/0ea9b6b4-9f39-441a-ad8c-05b2ae8f175c/aa3576c0-30dd-4d2e-b49b-5fdd7bfb9fe5) or at [DataPrivacy@Bain.com](mailto:DataPrivacy@Bain.com). We will take steps to delete the information as soon as possible should we learn that we have collected the personal data of a child without first receiving verifiable parental consent.
     
     **Changes**
     
@@ -978,7 +978,7 @@ Some terms are defined throughout this Policy. Simply click on the terms in bold
     
     You may also have the right to request that we delete your personal data subject to the limitations of the CCPA.
     
-    If you wish to exercise your rights, please submit your request using our [data subject request form](https://privacyportal-de.onetrust.com/webform/0ea9b6b4-9f39-441a-ad8c-05b2ae8f175c/aa3576c0-30dd-4d2e-b49b-5fdd7bfb9fe5). You may also submit your request by sending an email to [DataPrivacy@Bain.com](mailto:DataPrivacy@bain.com). We may have to request additional information to verify your identity.
+    If you wish to exercise your rights, please submit your request using our [data subject request form](https://privacyportal-de.onetrust.com/webform/0ea9b6b4-9f39-441a-ad8c-05b2ae8f175c/aa3576c0-30dd-4d2e-b49b-5fdd7bfb9fe5). You may also submit your request by sending an email to [DataPrivacy@Bain.com](mailto:DataPrivacy@Bain.com). We may have to request additional information to verify your identity.
     
     Bain will not discriminate against you because you have exercised your rights under the CCPA.
     
