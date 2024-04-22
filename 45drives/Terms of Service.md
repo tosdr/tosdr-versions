@@ -11,7 +11,7 @@ All quotes and purchase agreements provided by 45Drives shall remain valid for a
 
 ### CANCELLATION POLICY
 
-We strive to offer our customers maximum flexibility. Orders may be cancelled by customers if they havenot entered production. A fee of 20% of the value of the order will apply. We also will accommodate cancellation of orders that are in production, and the customer will be charged a cancellation fee determined by the value of the order times the percentage of work completed at the time of cancellation.
+We strive to offer our customers maximum flexibility. Orders may be cancelled by customers if they have not entered production. A fee of 20% of the value of the order will apply. We also will accommodate cancellation of orders that are in production, and the customer will be charged a cancellation fee determined by the value of the order times the percentage of work completed at the time of cancellation.
 
 ### TAXES
 
@@ -35,7 +35,7 @@ Once it is determined that a part is defective, we will send you the new part al
 
 ### SUPPORT
 
-Call us anytime. We are here to help ensure your success. We offer telephone or email support Monday through Friday 8:00AM EST – 7:00PM EST. Support services are available for purchase during installation and ongoing operation. 45Drives offers a 24/7 Emergency Service program for hours outside of normal support. Additional terms and conditions will apply. 45Drives provides annual support plans, prepaid hourly support and have a flexible pay-as-you-go support offerings. To help your company get on its way we are here to answer any questions or assistance you may need.
+Call us anytime. We are here to help ensure your success. We offer telephone or email support Monday through Friday 8:00AM EST – 7:00PM EST. Support services are available for purchase during install ationand ongoing operation. 45Drives offers a 247 Emergency Service program for hours outside of normal support. Additional terms and conditions will apply. 45Drives provides annual support plans, prepaid hourly support and have a flexible pay-as-you-go support offerings. To help your company get on its way we are here to answer any questions or assistance you may need.
 
 ### PREPAID SUPPORT HOURS
 
@@ -43,11 +43,11 @@ Prepaid support hours are valid for a period of one (1) year from date of purcha
 
 ### ANNUAL SUPPORT PLANS
 
-45Drives' annual support plans provide application support for the customer’s storage solution for the period defined within their purchase agreement. 45Drives reserves the right to amend the support plan pricing based on customer consumption rate.
+45Drive’s annual support plans provide application support for the customer’s storage solution for the period defined within their purchase agreement. 45Drives reserves the right to amend the support plan pricing based on customer consumption rate.
 
 ### SUPPORT SERVICE CALL RECORDING
 
-The customer consents to the recording and monitoring of all support calls between the customer and 45Drives for quality and training purposes. The recording and monitoring may include audio and/or video recordings of the support calls. 45Drives may use the recorded support calls for quality assurance and training purposes to evaluate the performance of the support resources and improve the quality of our services. 45Drives shall maintain the confidentiality of all recorded support calls and shall use reasonable efforts to protect the privacy and security of the customer’s personal information contained therein. The customer has the right to request access to their recorded support calls, to request that the recordings be deleted by contacting 45Drives in writing. The customer has the right to refuse recording during the support call, and must simply express this request to halt and/or prevent the support call recording. 45Drives shall not be liable for any damages, losses, or expenses arising out of or in connection with the recording and use of the support calls, except to the extent caused by 45Drives’ gross negligence or willful misconduct.
+The customer consents to the recording and monitoring of all support calls between the customer and 45Drives for quality and training purposes. The recording and monitoring may include audio and/or video recordings of the support calls. 45Drives may use the recorded support calls for quality assurance and training purposes to evaluate the performance of the support resources and improve the quality of ourservices. 45Drives shall maintain the confidentiality of all recorded support calls and shall use reasonable efforts to protect the privacy and security of the customer’s personal information contained therein. The customer has the right to request access to their recorded support calls, to request that the recordings be deleted by contacting 45Drives in writing. The customer has the right to refuse recording during the support call, and must simply express this request to halt and/or prevent the support call recording. 45Drives shall not be liable for any damages, losses, or expenses arising out of or in connection with the recording and use of the support calls, except to the extent caused by 45Drives’ gross negligence or willful misconduct.
 
 ### LEAD TIME
 
@@ -55,7 +55,7 @@ Refers to time of production, starting from receipt of order to when the unit is
 
 ### LATE PAYMENT PENALTY
 
-For customers with credit terms, there shall be a late payment penalty for any payment that is not timely made by the due date, in an amount equal to one percent (1%) of the payment due for each 30 days after the date due through and including the date paid. If any payment remains unpaid for a period of thirty (30) days following the due date, 45Drives reserves the right to cancel all warranty and application support hours applicable.
+For customers with credit terms, there shall be a late payment penalty for any payment that is not timely made by the due date, in an amount equal to one percent (1%) of the payment due for each 30 days after the date due through and including the date paid. If any payment remains unpaid for a period of thirty (30) days following the due date, 45Drives reserves the right to cancel all warranty and application suppor thours applicable.
 
 ### GOOD STANDING
 
@@ -71,11 +71,11 @@ Unless otherwise agreed to in writing by both parties, these Terms and Condition
 
 ### DISPUTES
 
-In the event of a dispute, the laws of Nova Scotia, Canada will apply. Any litigation shall take place in that jurisdiction.
+In the event of a dispute the laws of Nova Scotia, Canada will apply. Any litigation shall take place in that jurisdiction.
 
 ### INCURRED COSTS
 
-Under any circumstances, 45Drives or its employees are not responsible for any costs incurred due to the loss of Data or server downtime.
+Under any circumstances 45Drives or its employees are not responsible for any costs incurred due to the loss of Data or server downtime.
 
 ### RESELLERS
 
