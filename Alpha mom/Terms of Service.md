@@ -68,7 +68,7 @@
     * [Bounce Back](https://alphamom.com/category/your-life/postpartum/)
     * [Guide to Everything](https://alphamom.com/tag/guide-to-everything/)
     
-* [Alpha Mom TV](https://alphamom.com/alpha-mom-tv/)
+* [Spring](https://alphamom.com/tag/spring/)
 
 [](javascript:void(0))
 
@@ -117,7 +117,7 @@
     * [Advice to My Daughter](https://alphamom.com/author/ejl/)
     * [Bounce Back](https://alphamom.com/category/your-life/postpartum/)
     * [Guide to Everything](https://alphamom.com/tag/guide-to-everything/)
-* [Alpha Mom TV](https://alphamom.com/alpha-mom-tv/)
+* [Spring](https://alphamom.com/tag/spring/)
 
 [](#)
 
