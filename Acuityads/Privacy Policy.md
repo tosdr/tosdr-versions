@@ -1,6 +1,6 @@
-Webinar: Gaining more creative ad units with social - May 21
+Power your ad campaigns with first-party email audiences
 
-[Sign up](https://illumin.com/insights/podcasts-webinars/webinar-social-is-outgrowing-the-walled-gardens/)
+[Find out more](https://go.illumin.com/illumin-email-audiences)
 
 [![logo](https://illumin.com/wp-content/themes/illumin/images/logo.svg)](https://illumin.com/)
 
@@ -29,9 +29,9 @@ Webinar: Gaining more creative ad units with social - May 21
         * [Guides](https://illumin.com/insights/guides/)
         * [Events](https://illumin.com/insights/events/)
         * [Podcasts & Webinars](https://illumin.com/insights/podcasts-webinars/)
-    * ![Brand Innovators - New Eras for Brands with a Legacy](https://illumin.com/wp-content/uploads/2024/05/BI-New-Eras-263x300.jpg)
+    * ![Best ads of March Madness 2024](https://illumin.com/wp-content/uploads/2024/04/march-madness-2024-263x300.jpg)
         
-        Brand Innovators - New Eras for Brands with a Legacy[Read More](https://illumin.com/insights/events/brand-innovators-new-eras-for-brands-with-a-legacy/)
+        Best ads of March Madness 2024[Read More](https://illumin.com/insights/blog/best-ads-of-march-madness-2024/)
         
 * [Company](#)
     * [Company](#)
@@ -51,9 +51,9 @@ Webinar: Gaining more creative ad units with social - May 21
         * [Investor Information](https://illumin.com/investor-information/)
         * [Stock Performance](https://illumin.com/stock-performance/)
         * [News & Press](https://illumin.com/news-press/)
-    * ![illumin Reports First Quarter 2024 Financial Results](https://illumin.com/wp-content/uploads/2023/07/Whats-new-with-illumin-263x300.jpg)
+    * ![illumin Holdings Inc. announces date for First Quarter 2024 Financial and Operating Results](https://illumin.com/wp-content/uploads/2023/07/Whats-new-with-illumin-263x300.jpg)
         
-        illumin Reports First Quarter 2024 Financial Results[Read More](https://illumin.com/news-press/illumin-reports-first-quarter-2024-financial-results/)
+        illumin Holdings Inc. announces date for First Quarter 2024 Financial and Operating Results[Read More](https://illumin.com/news-press/illumin-announces-date-q1-2024-financial-results/)
         
 * [Request a Demo](https://illumin.com/product/request-a-demo/)
 
