@@ -1,8 +1,8 @@
 src="https://www.googletagmanager.com/ns.html?id=GTM-TLZVJ35" height="0" width="0" style="display:none;visibility:hidden">
 
-[Last chance to save! Ebike prices increase June 10th](https://www.aventon.com/blogs/aventon_bikes/ebike-tariff)
+[Free Extra Battery with Select Ebike Purchase](https://www.aventon.com/collections/sale)
 
-——
+— —
 
 View All Offers 6
 
@@ -12,27 +12,17 @@ SUPPORT
 
 Send us a message
 
-Have a question about something not found in our support links? Mon-Fri 9am-4pm PST
+Have a question about something not found in our support links?
 
 [Send us a message](https://rideaventon.zendesk.com/hc/en-us/requests/new)[(866) 300-3311](tel:8663003311)
 
-[FIND A BIKE SHOP](https://www.aventon.com/pages/electric-bike-shop-dealer-locator)
+[FIND A DEALER](https://www.aventon.com/pages/electric-bike-shop-dealer-locator)
 
 US/EN 
 
 YOUR OFFERS
 
-![](https://aventon-images.imgix.net/files/65d7ccf93a605798c18c21dc_Promo-Side-Drawer-Aventure2-Free-Battery_67214d35-9d52-4d3f-8287-4dea58d9a74b.jpg?v=1714157335&auto=compress,format&w=10&blur=10)
-
-![](https://aventon-images.imgix.net/files/7584c06f-d73c-42cc-9f1a-0dbf71008c0d_Promo-Side-Drawer-Free-Extra-Battery_1_d14c339e-ebcb-4488-8a32-25958b0ed7cd.jpg?v=1714157335&auto=compress,format&w=10&blur=10)
-
-![](https://aventon-images.imgix.net/files/d2a969e6-023a-4a7c-aadf-5c48a99ac3cd_Promo-Side-Drawer-Pace5003-Extra-Battery_1_e2628bfe-9ecd-4286-ba13-5baf62766c7c.jpg?v=1714157346&auto=compress,format&w=10&blur=10)
-
-![](https://aventon-images.imgix.net/files/2ea46349-70e3-48fe-94ed-331bea68ba28_Promo-Side-Drawer-Sinch-Extra-Battery-1.jpg?v=1717013713&auto=compress,format&w=10&blur=10)
-
-![](https://aventon-images.imgix.net/files/57eb89b3-6ec2-4d11-ad67-cb71bf85dd0b_promo-free-shipping-all-bikes-2_6862aff3-6291-4154-8340-73832a16587f.jpg?v=1714157335&auto=compress,format&w=10&blur=10)
-
-![](https://aventon-images.imgix.net/files/47507d4c-ba48-47b4-a079-687e4691b4b9_Promo-Side-Drawer-Abound-Free-Battery_96c824c3-7310-466a-a97a-e0c1ffe96d5a.jpg?v=1714157346&auto=compress,format&w=10&blur=10)
+[![Free Battery and Accessories with Abound purchase](https://images.prismic.io/aventon/47507d4c-ba48-47b4-a079-687e4691b4b9_Promo-Side-Drawer-Abound-Free-Battery.png?auto=compress,format&w=10)](https://www.aventon.com/products/abound-ebike)[![Free Battery with Pace 500.3](https://images.prismic.io/aventon/d2a969e6-023a-4a7c-aadf-5c48a99ac3cd_Promo-Side-Drawer-Pace5003-Extra-Battery+1.png?auto=compress,format&w=10)](https://www.aventon.com/products/pace500-3-ebike)[![Free Battery with Sinch](https://images.prismic.io/aventon/cba9ed35-64fa-44a4-8911-9fb20c69328b_Promo-Side-Drawer-Sinch-Extra-Battery+2.png?auto=compress,format&w=10)](https://www.aventon.com/products/sinch2-ebike)[![Free Battery with Level.2](https://images.prismic.io/aventon/7584c06f-d73c-42cc-9f1a-0dbf71008c0d_Promo-Side-Drawer-Free-Extra-Battery+%281%29.png?auto=compress,format&w=10)](https://www.aventon.com/products/aventon-level-commuter-ebike)[![Free battery with Aventure.2](https://images.prismic.io/aventon/65d7ccf93a605798c18c21dc_Promo-Side-Drawer-Aventure2-Free-Battery.png?auto=format,compress&w=10)](https://www.aventon.com/products/aventure2-ebike)[![Free Shipping](https://images.prismic.io/aventon/57eb89b3-6ec2-4d11-ad67-cb71bf85dd0b_promo-free-shipping-all-bikes-2.webp?auto=compress,format&w=10)](https://www.aventon.com/collections/ebikes)
 
 [Aventon](https://www.aventon.com/)
 
@@ -149,6 +139,7 @@ YOUR OFFERS
     * [Best Sellers](https://www.aventon.com/collections/best-selling-collection)
     * [Sale](https://www.aventon.com/collections/sale)
     * [Financing Available](https://www.aventon.com/pages/affirm-product-financing)
+    * [Gift Cards](https://www.aventon.com/products/gift-card)
     * [Compare Ebikes](https://www.aventon.com/pages/compare-aventon-ebikes)
     
     ![1k+ Bike Shops](//www.aventon.com/cdn/shop/files/key-diff-1k-bike_1024x1024.png?v=1695249841)
@@ -163,7 +154,7 @@ YOUR OFFERS
     
     Dedicated to your safety
     
-    [![promo](//www.aventon.com/cdn/shop/files/Promo-PLP-AntiSale.png?v=1717089974&width=720)](https://www.aventon.com/blogs/aventon_bikes/ebike-tariff)
+    [![promo](//www.aventon.com/cdn/shop/files/Promo-PLP-Free-Battery_1.png?v=1713311745&width=720)](https://www.aventon.com/collections/sale)
     
 * [EQUIPMENT](https://www.aventon.com/collections/all-equipment)
     
@@ -172,49 +163,48 @@ YOUR OFFERS
     * Accessories
     * Components
     
-    * [Air Pumps](https://www.aventon.com/collections/pumps)
-    * [Apparel](https://www.aventon.com/collections/cycling-gear)
+    * [Shop All Accessories](https://www.aventon.com/collections/all-accessories)
+    * [Sale](https://www.aventon.com/collections/accessory-and-components-sale)
     * [Bags](https://www.aventon.com/collections/bags)
+    * [Bar Tape & Grips](https://www.aventon.com/collections/bar-tape)
     * [Baskets](https://www.aventon.com/collections/baskets)
-    * [Batteries & Chargers](https://www.aventon.com/collections/batteries)
     * [Bells](https://www.aventon.com/collections/bicycle-bells)
     * [Bike & Spoke Covers](https://www.aventon.com/collections/bike-covers)
-    * [Bike Locks](https://www.aventon.com/collections/locks)
+    * [Chargers](https://www.aventon.com/products/aventon-charger)
     * [Fenders](https://www.aventon.com/collections/fenders)
-    * [Handlebar & Grips](https://www.aventon.com/collections/handlebars)
     * [Helmets](https://www.aventon.com/collections/helmets)
-    * [Lights & Reflectors](https://www.aventon.com/collections/lights)
+    * [Lights](https://www.aventon.com/collections/lights)
+    * [Locks](https://www.aventon.com/collections/locks)
     * [Mirrors](https://www.aventon.com/collections/bicycle-mirrors)
     * [Phone Mounts](https://www.aventon.com/collections/bike-phone-holders)
+    * [Pumps](https://www.aventon.com/collections/pumps)
     * [Racks](https://www.aventon.com/collections/bicycle-racks)
-    * [Tools & Maintenance](https://www.aventon.com/collections/bike-tools)
-    * [Trailers & Child Carriers](https://www.aventon.com/collections/bike-trailers)
+    * [Tools](https://www.aventon.com/collections/bike-tools)
+    * [Trailers](https://www.aventon.com/collections/bike-trailers)
     * [Vehicle Racks](https://www.aventon.com/collections/vehicle-racks)
     * [Water Bottles](https://www.aventon.com/collections/water-bottle-holders)
     
-    * [Batteries & Chargers](https://www.aventon.com/collections/batteries)
+    * [Shop All Components](https://www.aventon.com/collections/components)
+    * [Sale](https://www.aventon.com/collections/accessories-sale)
+    * [Batteries](https://www.aventon.com/collections/batteries)
+    * [Bottom Brackets](https://www.aventon.com/collections/bottom-brackets)
     * [Brakes](https://www.aventon.com/collections/brakes)
-    * [Drivetrain](https://www.aventon.com/collections/drivetrain)
-    * [E-Parts](https://www.aventon.com/collections/e-bike-service-parts)
-    * [Fenders](https://www.aventon.com/collections/fenders)
+    * [Chains](https://www.aventon.com/collections/chains)
+    * [Displays](https://www.aventon.com/collections/displays)
+    * [E-Bike Service Parts](https://www.aventon.com/collections/e-bike-service-parts)
     * [Forks](https://www.aventon.com/collections/forks)
-    * [Hardware](https://www.aventon.com/collections/hardware)
-    * [Handlebar & Grips](https://www.aventon.com/collections/handlebars)
+    * [Groupsets](https://www.aventon.com/collections/group-sets)
+    * [Handlebars](https://www.aventon.com/collections/handlebars)
     * [Headsets & Spacers](https://www.aventon.com/collections/headsets-and-spacers)
-    * [Kickstands](https://www.aventon.com/collections/kickstands)
-    * [Lights & Reflectors](https://www.aventon.com/collections/lights)
-    * [Lock Assembly](https://www.aventon.com/collections/lock-assembly)
+    * [Lockrings](https://www.aventon.com/collections/track-cog-lockrings)
     * [Pedals](https://www.aventon.com/collections/pedals)
-    * [Racks](https://www.aventon.com/collections/bicycle-racks)
     * [Saddles](https://www.aventon.com/collections/saddles)
     * [Seatposts](https://www.aventon.com/collections/seatposts)
-    * [Stems](https://www.aventon.com/collections/stems)
-    * [Tools & Maintenance](https://www.aventon.com/collections/bike-tools)
-    * [Wheels & Tires](https://www.aventon.com/collections/wheels)
+    * [Tires & Tubes](https://www.aventon.com/collections/tires-tubes)
+    * [Track Cogs](https://www.aventon.com/collections/track-cogs)
+    * [Wheels](https://www.aventon.com/collections/wheels)
     
-    * [Shop All](https://www.aventon.com/collections/all-equipment)
-    * [Shop All Accessories](https://www.aventon.com/collections/all-accessories)
-    * [Shop All Components](https://www.aventon.com/collections/components)
+    * [Shop All Equipment](https://www.aventon.com/collections/all-equipment)
     * [Sale](https://www.aventon.com/collections/sale)
     
     ![1k+ Bike Shops](//www.aventon.com/cdn/shop/files/key-diff-1k-bike_1024x1024.png?v=1695249841)
@@ -257,6 +247,13 @@ YOUR OFFERS
         Earn points for gear
         
         Start Earning >](https://www.aventon.com/pages/rewards)
+    * [![](//www.aventon.com/cdn/shop/files/nav_videos.png?v=1672262874&width=128)
+        
+        Videos
+        
+        Check out our videos
+        
+        Videos >](https://www.aventon.com/pages/video)
     * [![](//www.aventon.com/cdn/shop/files/nav_reviews.png?v=1672262891&width=128)
         
         Reviews
@@ -316,17 +313,17 @@ YOUR OFFERS
     
     Send us a message
     
-    Have a question about something not found in our support links? Mon-Fri 9am-4pm PST
+    Have a question about something not found in our support links?
     
     [Send us a message](https://rideaventon.zendesk.com/hc/en-us/requests/new)
     
     [(866) 300-3311](tel:8663003311)
     
-* [FIND A BIKE SHOP](https://www.aventon.com/pages/electric-bike-shop-dealer-locator)
+* [FIND A DEALER](https://www.aventon.com/pages/electric-bike-shop-dealer-locator)
 
 Send us a message
 
-Have a question about something not found in our support links? Mon-Fri 9am-4pm PST
+Have a question about something not found in our support links?
 
 [Send us a message](https://rideaventon.zendesk.com/hc/en-us/requests/new)
 
@@ -352,6 +349,7 @@ Open menu
     * [Best Sellers](https://www.aventon.com/collections/best-selling-collection)
     * [Sale](https://www.aventon.com/collections/sale)
     * [Financing Available](https://www.aventon.com/pages/affirm-product-financing)
+    * [Gift Cards](https://www.aventon.com/products/gift-card)
     * [Compare Ebikes](https://www.aventon.com/pages/compare-aventon-ebikes)
     
     ![1k+ Bike Shops](//www.aventon.com/cdn/shop/files/key-diff-1k-bike_1024x1024.png?v=1695249841)
@@ -381,7 +379,7 @@ Open menu
         
         eMTB Mid-Drive NEW
         
-        Nowhere it can’t go.](https://www.aventon.com/collections/emtb)
+        Nowhere it can’t go.](https://www.aventon.com/products/ramblas-electric-mountain-bike)
     * [![](//www.aventon.com/cdn/shop/files/level-2-ebike-glacier-nav.jpg?v=1684877765&width=288)
         
         Commuter
@@ -411,7 +409,7 @@ Open menu
         
         Cargo
         
-        Hauls what most won’t.](https://www.aventon.com/collections/cargo-ebikes)
+        Hauls what most won’t.](https://www.aventon.com/products/abound-ebike)
     * [![Light weight ebike](//www.aventon.com/cdn/shop/files/light-weight-ebike-nav.jpg?v=1692137504&width=288)
         
         Lightweight
@@ -454,7 +452,7 @@ Open menu
         
         Lightweight City Ebike](https://www.aventon.com/collections/ebikes?constraint=__soltera)
     
-    [![promo](//www.aventon.com/cdn/shop/files/Promo-PLP-AntiSale.png?v=1717089974&width=720)](https://www.aventon.com/blogs/aventon_bikes/ebike-tariff)
+    [![promo](//www.aventon.com/cdn/shop/files/Promo-PLP-Free-Battery_1.png?v=1713311745&width=720)](https://www.aventon.com/collections/sale)
     
 * [EQUIPMENT](javascript:void(0))
     
@@ -462,55 +460,54 @@ Open menu
     
     * ### Our Equipment
         
-    * [Shop All](https://www.aventon.com/collections/all-equipment)
-    * [Shop All Accessories](https://www.aventon.com/collections/all-accessories)
-    * [Shop All Components](https://www.aventon.com/collections/components)
+    * [Shop All Equipment](https://www.aventon.com/collections/all-equipment)
     * [Sale](https://www.aventon.com/collections/sale)
     
     * Accessories
     * Components
     
-    * [Air Pumps](https://www.aventon.com/collections/pumps)
-    * [Apparel](https://www.aventon.com/collections/cycling-gear)
+    * [Shop All Accessories](https://www.aventon.com/collections/all-accessories)
+    * [Sale](https://www.aventon.com/collections/accessory-and-components-sale)
     * [Bags](https://www.aventon.com/collections/bags)
+    * [Bar Tape & Grips](https://www.aventon.com/collections/bar-tape)
     * [Baskets](https://www.aventon.com/collections/baskets)
-    * [Batteries & Chargers](https://www.aventon.com/collections/batteries)
     * [Bells](https://www.aventon.com/collections/bicycle-bells)
     * [Bike & Spoke Covers](https://www.aventon.com/collections/bike-covers)
-    * [Bike Locks](https://www.aventon.com/collections/locks)
+    * [Chargers](https://www.aventon.com/products/aventon-charger)
     * [Fenders](https://www.aventon.com/collections/fenders)
-    * [Handlebar & Grips](https://www.aventon.com/collections/handlebars)
     * [Helmets](https://www.aventon.com/collections/helmets)
-    * [Lights & Reflectors](https://www.aventon.com/collections/lights)
+    * [Lights](https://www.aventon.com/collections/lights)
+    * [Locks](https://www.aventon.com/collections/locks)
     * [Mirrors](https://www.aventon.com/collections/bicycle-mirrors)
     * [Phone Mounts](https://www.aventon.com/collections/bike-phone-holders)
+    * [Pumps](https://www.aventon.com/collections/pumps)
     * [Racks](https://www.aventon.com/collections/bicycle-racks)
-    * [Tools & Maintenance](https://www.aventon.com/collections/bike-tools)
-    * [Trailers & Child Carriers](https://www.aventon.com/collections/bike-trailers)
+    * [Tools](https://www.aventon.com/collections/bike-tools)
+    * [Trailers](https://www.aventon.com/collections/bike-trailers)
     * [Vehicle Racks](https://www.aventon.com/collections/vehicle-racks)
     * [Water Bottles](https://www.aventon.com/collections/water-bottle-holders)
     
-    * [Batteries & Chargers](https://www.aventon.com/collections/batteries)
+    * [Shop All Components](https://www.aventon.com/collections/components)
+    * [Sale](https://www.aventon.com/collections/accessories-sale)
+    * [Batteries](https://www.aventon.com/collections/batteries)
+    * [Bottom Brackets](https://www.aventon.com/collections/bottom-brackets)
     * [Brakes](https://www.aventon.com/collections/brakes)
-    * [Drivetrain](https://www.aventon.com/collections/drivetrain)
-    * [E-Parts](https://www.aventon.com/collections/e-bike-service-parts)
-    * [Fenders](https://www.aventon.com/collections/fenders)
+    * [Chains](https://www.aventon.com/collections/chains)
+    * [Displays](https://www.aventon.com/collections/displays)
+    * [E-Bike Service Parts](https://www.aventon.com/collections/e-bike-service-parts)
     * [Forks](https://www.aventon.com/collections/forks)
-    * [Hardware](https://www.aventon.com/collections/hardware)
-    * [Handlebar & Grips](https://www.aventon.com/collections/handlebars)
+    * [Groupsets](https://www.aventon.com/collections/group-sets)
+    * [Handlebars](https://www.aventon.com/collections/handlebars)
     * [Headsets & Spacers](https://www.aventon.com/collections/headsets-and-spacers)
-    * [Kickstands](https://www.aventon.com/collections/kickstands)
-    * [Lights & Reflectors](https://www.aventon.com/collections/lights)
-    * [Lock Assembly](https://www.aventon.com/collections/lock-assembly)
+    * [Lockrings](https://www.aventon.com/collections/track-cog-lockrings)
     * [Pedals](https://www.aventon.com/collections/pedals)
-    * [Racks](https://www.aventon.com/collections/bicycle-racks)
     * [Saddles](https://www.aventon.com/collections/saddles)
     * [Seatposts](https://www.aventon.com/collections/seatposts)
-    * [Stems](https://www.aventon.com/collections/stems)
-    * [Tools & Maintenance](https://www.aventon.com/collections/bike-tools)
-    * [Wheels & Tires](https://www.aventon.com/collections/wheels)
+    * [Tires & Tubes](https://www.aventon.com/collections/tires-tubes)
+    * [Track Cogs](https://www.aventon.com/collections/track-cogs)
+    * [Wheels](https://www.aventon.com/collections/wheels)
     
-    [![promo](//www.aventon.com/cdn/shop/files/Promo-PLP-AntiSale.png?v=1717089974&width=720)](https://www.aventon.com/blogs/aventon_bikes/ebike-tariff)
+    [![promo](//www.aventon.com/cdn/shop/files/Promo-PLP-Free-Battery_1.png?v=1713311745&width=720)](https://www.aventon.com/collections/sale)
     
 
 * [SUPPORT](javascript:void(0))
@@ -521,7 +518,7 @@ Open menu
     
     Send us a message
     
-    Have a question about something not found in our support links? Mon-Fri 9am-4pm PST
+    Have a question about something not found in our support links?
     
     [Send us a message](https://rideaventon.zendesk.com/hc/en-us/requests/new)
     
@@ -565,7 +562,7 @@ Open menu
         
         View Warranty Details >](https://www.aventon.com/pages/warranty)
     
-* [FIND A BIKE SHOP](https://www.aventon.com/pages/electric-bike-shop-dealer-locator)
+* [FIND A DEALER](https://www.aventon.com/pages/electric-bike-shop-dealer-locator)
 
 Search
 
@@ -934,13 +931,13 @@ Footer
 
 * [Affirm Financing](https://www.aventon.com/pages/affirm-product-financing)
 * [Students](https://www.aventon.com/pages/student-beans)
-* [Cancelation Policy](https://www.aventon.com/pages/terms-of-service#cancelations)
+* [Cancellation Policy](https://www.aventon.com/pages/terms-of-service#cancellations)
 * [Cookie Preferences](https://www.aventon.com/pages/cookie-managment)
 * [Register My Bike](https://www.aventon.com/pages/bike-registration)
 * [Return Policy](https://www.aventon.com/pages/terms-of-service#returns)
 * [Shipping Info](https://www.aventon.com/pages/terms-of-service#shipping)
 * [Support](https://rideaventon.zendesk.com/hc/en-us)
-* [Warranty](https://www.aventon.com/pages/warranty)
+* [Warranty](https://www.aventon.com/pages/warranty-form)
 * [FAQ](https://rideaventon.zendesk.com/hc/en-us)
 * [Accessibility](https://www.aventon.com/)
 
@@ -961,6 +958,7 @@ Footer
 * [Events](https://www.aventon.com/pages/events)
 * [Electric Bike Safety](https://www.aventon.com/pages/electric-bike-safety)
 * [Beyond The Bike](https://www.youtube.com/playlist?list=PL2mDpTsM1UtG0f3aUHyH7954hQunCgqBw)
+* [Videos](https://www.aventon.com/pages/video)
 * [Reviews](https://www.aventon.com/pages/reviews)
 * [Blog](https://www.aventon.com/blogs/aventon_bikes)
 * [Press](https://www.aventon.com/pages/press)
@@ -973,6 +971,8 @@ Footer
 * [Careers](https://www.aventon.com/pages/careers)
 * [Affiliate Program](https://www.aventon.com/pages/affiliate-program)
 * [Referrals](https://www.aventon.com/pages/share?traffic_source=site_footer)
+* [Dealer Portal](https://b2b.aventon.com/)
+* [International Distributors](https://www.aventon.com/pages/distributors)
 * [Contact Us](https://rideaventon.zendesk.com/hc/en-us/requests/new)
 * [Recall Information](https://www.aventon.com/pages/recalls)
 
@@ -984,13 +984,13 @@ Footer
 
 * [Affirm Financing](https://www.aventon.com/pages/affirm-product-financing)
 * [Students](https://www.aventon.com/pages/student-beans)
-* [Cancelation Policy](https://www.aventon.com/pages/terms-of-service#cancelations)
+* [Cancellation Policy](https://www.aventon.com/pages/terms-of-service#cancellations)
 * [Cookie Preferences](https://www.aventon.com/pages/cookie-managment)
 * [Register My Bike](https://www.aventon.com/pages/bike-registration)
 * [Return Policy](https://www.aventon.com/pages/terms-of-service#returns)
 * [Shipping Info](https://www.aventon.com/pages/terms-of-service#shipping)
 * [Support](https://rideaventon.zendesk.com/hc/en-us)
-* [Warranty](https://www.aventon.com/pages/warranty)
+* [Warranty](https://www.aventon.com/pages/warranty-form)
 * [FAQ](https://rideaventon.zendesk.com/hc/en-us)
 * [Accessibility](https://www.aventon.com/)
 
@@ -1011,6 +1011,7 @@ Footer
 * [Events](https://www.aventon.com/pages/events)
 * [Electric Bike Safety](https://www.aventon.com/pages/electric-bike-safety)
 * [Beyond The Bike](https://www.youtube.com/playlist?list=PL2mDpTsM1UtG0f3aUHyH7954hQunCgqBw)
+* [Videos](https://www.aventon.com/pages/video)
 * [Reviews](https://www.aventon.com/pages/reviews)
 * [Blog](https://www.aventon.com/blogs/aventon_bikes)
 * [Press](https://www.aventon.com/pages/press)
@@ -1023,6 +1024,8 @@ Footer
 * [Careers](https://www.aventon.com/pages/careers)
 * [Affiliate Program](https://www.aventon.com/pages/affiliate-program)
 * [Referrals](https://www.aventon.com/pages/share?traffic_source=site_footer)
+* [Dealer Portal](https://b2b.aventon.com/)
+* [International Distributors](https://www.aventon.com/pages/distributors)
 * [Contact Us](https://rideaventon.zendesk.com/hc/en-us/requests/new)
 * [Recall Information](https://www.aventon.com/pages/recalls)
 
