@@ -126,7 +126,7 @@ Code
 
 Contact Us
 
-[![](/img/theme/bungienet/logos/bungie_logo_footer.png?cv=3983621215&av=3854427994)](https://www.bungie.net/7)
+[![](/img/theme/bungienet/logos/bungie_logo_footer.png?cv=3983621215&av=1050484795)](https://www.bungie.net/7)
 
 * [Destiny 2](https://www.bungie.net/7/en/Destiny/NewLight)
 * [News](https://www.bungie.net/en/News/Index)
@@ -183,22 +183,22 @@ Follow Us
 * [](https://www.youtube.com/user/Bungie "Bungie on YouTube")
 * [](https://www.twitch.tv/bungie "Bungie on Twitch")
 
-[![Rated T For Teen](/img/theme/bungienet/img/rating_esrb_t_dest2.png?cv=3983621215&av=3854427994)](http://www.esrb.org/ratings/Synopsis.aspx?Certificate=35008&Title=Destiny+2)
+[![Rated T For Teen](/img/theme/bungienet/img/rating_esrb_t_dest2.png?cv=3983621215&av=1050484795)](http://www.esrb.org/ratings/Synopsis.aspx?Certificate=35008&Title=Destiny+2)
 
 Download the Destiny Companion App
 
 [Download on the AppStore](http://itunes.apple.com/us/app/bungie-mobile/id441444902) [Get it on Google play](http://play.google.com/store/apps/details?id=com.bungieinc.bungiemobile)
 
-![rating image](/img/theme/bungienet/placeholders/blank.gif?cv=3983621215&av=3854427994)
+![rating image](/img/theme/bungienet/placeholders/blank.gif?cv=3983621215&av=1050484795)
 
 * I am over the age of #AGE
 
 You are not allowed to view this content.
 
-![preload icon](/img/theme/bungienet/icons/icon_loading_gray.gif?cv=3983621215&av=3854427994)
+![preload icon](/img/theme/bungienet/icons/icon_loading_gray.gif?cv=3983621215&av=1050484795)
 
-![preload icon](/img/theme/bungienet/icons/icon_loading_gray.gif?cv=3983621215&av=3854427994)
+![preload icon](/img/theme/bungienet/icons/icon_loading_gray.gif?cv=3983621215&av=1050484795)
 
-![preload icon](/img/theme/bungienet/icons/icon_loading_gray.gif?cv=3983621215&av=3854427994)
+![preload icon](/img/theme/bungienet/icons/icon_loading_gray.gif?cv=3983621215&av=1050484795)
 
-![preload icon](/img/theme/bungienet/icons/icon_loading_gray.gif?cv=3983621215&av=3854427994)
+![preload icon](/img/theme/bungienet/icons/icon_loading_gray.gif?cv=3983621215&av=1050484795)
