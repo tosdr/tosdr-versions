@@ -1,6 +1,6 @@
 [Skip navigation](#skip-nav)
 
-[![Bank of Montreal logo](https://www.bmo.com/dist/images/logos/bmo-blue-on-transparent-pride.svg)](https://www.bmo.com/en-ca/main/personal/)
+[![Bank of Montreal logo](https://www.bmo.com/dist/images/logos/bmo-blue-on-transparent-en.svg)](https://www.bmo.com/en-ca/main/personal/)
 
 ![](/dist/icons/lock-blue.svg)![](/dist/icons/close-blue.svg)closeSign In![](/dist/icons/chevron-down-blue.svg)
 
@@ -61,7 +61,7 @@ ENEnglish
     * [Bank Accounts Overview](https://www.bmo.com/main/personal/bank-accounts/?icid=tl-FEAT2953BRND4-AJBMOH32)
     * Chequing Accounts
         
-        * [All chequing accounts](https://www.bmo.com/en-ca/main/personal/bank-accounts/chequing-accounts/?icid=ba-FEAT1907EDB4-ATBMO14)
+        * [All chequing accounts](https://www.bmo.com/main/personal/bank-accounts/chequing-accounts/?icid=ba-FEAT1907EDB4-ATBMO14)
         * [Plus Chequing](https://www.bmo.com/main/personal/bank-accounts/chequing-accounts/plus/?icid=tl-FEAT2953BRND4-AJBMOH372)
         * [Performance Chequing](https://www.bmo.com/en-ca/main/personal/bank-accounts/chequing-accounts/performance/)
         * [Practical Chequing](https://www.bmo.com/main/personal/bank-accounts/chequing-accounts/practical/?icid=tl-FEAT2953BRND4-AJBMOH373)
@@ -179,7 +179,6 @@ ENEnglish
         * [Variable or Fixed Rate Calculator](https://www.bmo.com/main/personal/mortgages/mortgage-rates/compare/?icid=tl-FEAT2953BRND4-AJBMOH389)
         * [Mortgage Pre-Payment Calculator](https://www.bmo.com/main/personal/mortgages/calculators/prepayment-calculator/?icid=tl-FEAT2953BRND4-AJBMOH387)
         * [Homeowner ReadiLine® Calculator](https://www.bmo.com/main/personal/mortgages/calculators/homeowner-readiline-calculator/)
-        * [Mortgage Renewal Calculator](https://bmomortgagerenewalcalculator.paralucent.com/en)
         
     * Tips and Advice
         
@@ -441,13 +440,13 @@ ENEnglish
 * [简体中文](https://www.bmo.com/chinese/)
 * [繁體中文](https://www.bmo.com/chinese/)
 
-[![Bank of Montreal logo](https://www.bmo.com/dist/images/logos/bmo-blue-on-transparent-pride.svg)](https://www.bmo.com/en-ca/main/personal/)
+[![Bank of Montreal logo](https://www.bmo.com/dist/images/logos/bmo-blue-on-transparent-en.svg)](https://www.bmo.com/en-ca/main/personal/)
 
 * Bank Accounts
     
     * [Bank Accounts Overview](https://www.bmo.com/main/personal/bank-accounts/?icid=tl-FEAT2953BRND4-AJBMOH32)
     * Chequing Accounts![](/dist/icons/chevron-right.svg)
-        * [![](/dist/icons/all-layers.svg)All chequing accountsExplore your options](https://www.bmo.com/en-ca/main/personal/bank-accounts/chequing-accounts/?icid=ba-FEAT1907EDB4-ATBMO14)
+        * [![](/dist/icons/all-layers.svg)All chequing accountsExplore your options](https://www.bmo.com/main/personal/bank-accounts/chequing-accounts/?icid=ba-FEAT1907EDB4-ATBMO14)
         * [![](/dist/icons/plus-circle.svg)Plus ChequingFlexible, budget-friendly](https://www.bmo.com/main/personal/bank-accounts/chequing-accounts/plus/?icid=tl-FEAT2953BRND4-AJBMOH372)
         * [![](/dist/icons/speedometer.svg)Performance ChequingMost popular](https://www.bmo.com/en-ca/main/personal/bank-accounts/chequing-accounts/performance/)
         * [![](/dist/icons/hand-gear.svg)Practical ChequingLowest fee](https://www.bmo.com/main/personal/bank-accounts/chequing-accounts/practical/?icid=tl-FEAT2953BRND4-AJBMOH373)
@@ -549,7 +548,6 @@ ENEnglish
         * [![](/dist/icons/house-speedometer-plus.svg)Variable or Fixed Rate CalculatorStart comparing your mortgage payments](https://www.bmo.com/main/personal/mortgages/mortgage-rates/compare/?icid=tl-FEAT2953BRND4-AJBMOH389)
         * [![](/dist/icons/house-money-bag-plus.svg)Mortgage Pre-Payment CalculatorEstimate your pre-payment charge](https://www.bmo.com/main/personal/mortgages/calculators/prepayment-calculator/?icid=tl-FEAT2953BRND4-AJBMOH387)
         * [![](/dist/icons/readiLine-calculator.svg)Homeowner ReadiLine® CalculatorExplore a flexible borrowing option](https://www.bmo.com/main/personal/mortgages/calculators/homeowner-readiline-calculator/)
-        * [![](/dist/icons/readiLine-calculator.svg)Mortgage Renewal CalculatorEstimate your payment at renewal](https://bmomortgagerenewalcalculator.paralucent.com/en)
     * Tips and Advice![](/dist/icons/chevron-right.svg)
         * [![](/dist/icons/house-moneybag.svg)Buying a homeTips for your home-buying journey](https://www.bmo.com/main/personal/mortgages/buying-a-home/?icid=tl-FEAT2953BRND4-AJBMOH92)
         * [![](/dist/icons/house-one-cycle.svg)Renew vs. refinanceCompare your options](https://www.bmo.com/main/personal/mortgages/renewal-vs-refinance/?icid=tl-FEAT2953BRND4-AJBMOH98)
@@ -726,7 +724,7 @@ Navigation skipped
 
 [canada deposit insurance corporation
 
-![](/dist/icons/cdic.svg)](https://www.cdic.ca/depositors/list-of-members/)[cdic protecting your deposits pdf
+![](/dist/icons/cdic.svg)](https://www.cdic.ca/your-coverage/list-of-member-institutions/)[cdic protecting your deposits pdf
 
 ![](/dist/icons/cdic-online-badge.svg)](https://www.cdic.ca/wp-content/uploads/cdic-abbreviated-brochure-en.pdf)
 
