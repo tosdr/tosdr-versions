@@ -97,7 +97,7 @@ PRIVACY POLICY
 
   
 
-Please review our [privacy policy](https://www.brainpop.com/about/privacy_policy/) ("Privacy Policy"), which is incorporated into, and considered part of, these Terms of Use. The Privacy Policy explains our privacy practices for the Services. By visiting our Services, you also consent to our Privacy Policy, so please read them carefully. As stated in the Privacy Policy, we provide prominent notice to users and send out email notices to customers before making any material changes. Should we make material changes to the Terms of Use or Privacy Policy, we will provide notice and request your consent.
+Please review our [privacy policy](https://www.brainpop.com/about/privacy_policy/) ("Privacy Policy"), which is incorporated into, and considered part of, these Terms of Use. The Privacy Policy explains our privacy practices for the Services. By visiting our Services, you also consent to our Privacy Policy, so please read them carefully.
 
   
 
