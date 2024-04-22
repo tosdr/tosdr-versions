@@ -8,7 +8,6 @@
     * [Friends & Neighbors](https://www.987thebull.com/events/category/friends-and-neighbors/)
     * [Recently Played](https://www.987thebull.com/recently-played/)
     * [Contact](https://www.987thebull.com/contact/)
-    * [Wall Of Winners](https://www.987thebull.com/winners/)
 * [Concerts & Events](https://www.987thebull.com/events/)
 * [Watch](https://www.987thebull.com/videos/)
     * [Bull Sessions](https://www.987thebull.com/category/bull-tv/pdx-live-studio/)
@@ -45,7 +44,6 @@
     * [Friends & Neighbors](https://www.987thebull.com/events/category/friends-and-neighbors/)
     * [Recently Played](https://www.987thebull.com/recently-played/)
     * [Contact](https://www.987thebull.com/contact/)
-    * [Wall Of Winners](https://www.987thebull.com/winners/)
 * [Concerts & Events](https://www.987thebull.com/events/)
 * [Watch](https://www.987thebull.com/videos/)
     
@@ -326,11 +324,11 @@ Recently Played
 
 |     |
 | --- |
-| I Had Some HelpPost Malone Ft Morgan Wallen<br><br>11:35am |
-| Hey DriverZach Bryan Ft The War And Treaty<br><br>11:31am |
-| The Thunder RollsGarth Brooks<br><br>11:28am |
-| Where The Wild Things AreLuke Combs<br><br>11:24am |
-| She's Somebodys DaughterDrew Baldridge<br><br>11:21am |
+| 23Chayce Beckham<br><br>11:34am |
+| Where The Wild Things AreLuke Combs<br><br>11:30am |
+| Half Of MeThomas Rhett Ft Riley Green<br><br>11:27am |
+| Last NightMorgan Wallen<br><br>11:24am |
+| AustinDasha<br><br>11:21am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -339,21 +337,21 @@ Recently Played
 You Might Also Like
 -------------------
 
-![Disney Pixarfest Official CONTEST RULES -](https://www.987thebull.com/wp-content/uploads/2024/05/Screenshot-2024-05-14-094738.png)
+![](https://s3.amazonaws.com/syndication.abcaudio.com/files/2024-04-15/M_JellyRollAmericanIdol2024DisneyEricMcCandless.jpg)
 
-[### Disney Pixarfest Official CONTEST RULES -](https://www.987thebull.com/disney-pixarfest-official-contest-rules/)
-
-* * *
-
-![](https://s3.amazonaws.com/syndication.abcaudio.com/files/2024-05-09/M_LukeBryanCMAFest2023performanceABC.jpg)
-
-[Country News](https://www.987thebull.com/category/country/)[### Farm Tour's more than a concert for Luke Bryan: "We’re helping people feed Americans"](https://www.987thebull.com/farm-tours-more-than-a-concert-for-luke-bryan-were-helping-people-feed-americans/)
+[Country News](https://www.987thebull.com/category/country/)[### Jelly Roll on how he lost 70 pounds and plans to lose more](https://www.987thebull.com/jelly-roll-on-how-he-lost-70-pounds-and-plans-to-lose-more/)
 
 * * *
 
-![](https://s3.amazonaws.com/syndication.abcaudio.com/files/2024-05-09/M_KeithUrbanCMAAWards2023DisneyFrankMicelotta.jpg)
+![](https://s3.amazonaws.com/syndication.abcaudio.com/files/2024-04-12/M_Jellyrollonidol_mccandless_041224.jpg)
 
-[Country News](https://www.987thebull.com/category/country/)[### Keith Urban had an exciting full-circle moment](https://www.987thebull.com/keith-urban-had-an-exciting-full-circle-moment/)
+[Country News](https://www.987thebull.com/category/country/)[### Jelly Roll sued by Philadelphia musician Jellyroll for trademark infringement](https://www.987thebull.com/jelly-roll-sued-by-philadelphia-musician-jellyroll-for-trademark-infringement/)
+
+* * *
+
+![](https://s3.amazonaws.com/syndication.abcaudio.com/files/2024-04-12/M_ChrisStapletonDisneyFrankMicelotta.jpg)
+
+[Country News](https://www.987thebull.com/category/country/)[### Chris Stapleton rocks with Slash on early Fleetwood Mac cover, "Oh Well"](https://www.987thebull.com/chris-stapleton-rocks-with-slash-on-early-fleetwood-mac-cover-oh-well/)
 
 * * *
 
@@ -501,17 +499,17 @@ Featured Brands
 
 News Talk • Eastern
 
-[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
-
-Country • Western
-
-[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
-
-Top 40 • Pacific NW
-
 [![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
 
 Spanish • Western
+
+[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
+
+Top 40 • Eastern
+
+[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
+
+Country • Western
 
 [](https://www.alphamediausa.com/)
 
