@@ -475,7 +475,7 @@ Appendix 1: Additional Terms for EEA and UK Customers
 -----------------------------------------------------
 
 The information below is required pursuant to EEA law regarding privacy and data protection. The terms below apply to our EEA and UK customers and Website visitors, in addition to the terms in the rest of the Policy.  
-For the purposes of the General Data Protection Regulation (“**GDPR**”), the data controller is ApplyBoard of 101 Frederick Street, Suite 600, Kitchener, ON N2H 6R3, Canada. If you have any questions about this Policy, please contact our Data Protection Officer (DPO) at [DPO@ApplyBoard.com](mailto:DPO@applyboard.com).
+For the purposes of the General Data Protection Regulation (“**GDPR**”), the data controller is ApplyBoard of 101 Frederick Street, Suite 600, Kitchener, ON N2H 6R3, Canada. If you have any questions about this Policy, please contact our Data Protection Officer (DPO) at [DPO@ApplyBoard.com](mailto:DPO@ApplyBoard.com).
 
 If you are unhappy about how we are processing your data or how we have responded to a request or complaint, you have the right to make a complaint to your local supervisory authority.
 
@@ -492,7 +492,7 @@ Please note that where data is transferred outside of the EEA, non-EEA countries
 * having monitoring, reporting and resolution procedures in place with regard to ongoing security; and
 * only transferring your data via an appropriate safeguard as described in Article 46 of GDPR, including Standard Contractual Clauses adopted by the European Commission (Article 46.2)
 
-Please contact us at [DPO@ApplyBoard.com](mailto:DPO@applyboard.com). if you require more detailed information about international transfers of your personal data, and the particular safeguards used.
+Please contact us at [DPO@ApplyBoard.com](mailto:DPO@ApplyBoard.com). if you require more detailed information about international transfers of your personal data, and the particular safeguards used.
 
 **LEGAL BASES FOR PROCESSING YOUR PERSONAL DATA**
 
@@ -513,7 +513,7 @@ Sometimes we process data about you which the law considers to fall within speci
 
 If you would like more information about the legal grounds used to process your information, or about the legitimate interests referred to above, please contact us.
 
-In cases where we have asked for, and you have given, your consent to our processing of your personal data, you have the right to withdraw such consent at any time. You can do this by contacting our DPO at [DPO@ApplyBoard.com](mailto:DPO@applyboard.com).
+In cases where we have asked for, and you have given, your consent to our processing of your personal data, you have the right to withdraw such consent at any time. You can do this by contacting our DPO at [DPO@ApplyBoard.com](mailto:DPO@ApplyBoard.com).
 
 **DO YOU HAVE TO GIVE US YOUR PERSONAL INFORMATION?**
 
@@ -549,7 +549,7 @@ The entity, student or institutional partner which has uploaded the document(s) 
 
 **YOUR RIGHTS UNDER GDPR**
 
-You have several rights in relation to your personal data which are described in more detail below. You can exercise your rights at any time by contacting us at [DPO@ApplyBoard.com](mailto:DPO@applyboard.com).
+You have several rights in relation to your personal data which are described in more detail below. You can exercise your rights at any time by contacting us at [DPO@ApplyBoard.com](mailto:DPO@ApplyBoard.com).
 
 Accessing your data
 -------------------
@@ -558,7 +558,7 @@ You can ask us to:
 
 * Confirm whether we are processing your personal data.
 * Give you a copy of that personal data.
-* Provide you with other information about your personal data such as what data we have, what we use it for, who we disclose it to, whether we transfer it outside of the EEA and how we protect it, how long we keep it for, what rights you have, how you can make a complaint, where we got your data from and whether we carry out any automated decision making or profiling. We aim to give you all this information in this Policy, although if anything is unclear, please contact our Data Protection Officer at [DPO@ApplyBoard.com](mailto:DPO@applyboard.com).
+* Provide you with other information about your personal data such as what data we have, what we use it for, who we disclose it to, whether we transfer it outside of the EEA and how we protect it, how long we keep it for, what rights you have, how you can make a complaint, where we got your data from and whether we carry out any automated decision making or profiling. We aim to give you all this information in this Policy, although if anything is unclear, please contact our Data Protection Officer at [DPO@ApplyBoard.com](mailto:DPO@ApplyBoard.com).
 
 You do not have to pay a fee for a copy of your personal data unless your request is unfounded, repetitive or excessive, in which case we will charge a reasonable amount in the circumstances. We will let you know of any charges before completing your request.
 
