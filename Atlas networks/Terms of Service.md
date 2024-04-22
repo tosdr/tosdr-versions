@@ -1,23 +1,3 @@
-##### Promotion Restriction Explained
-
-Ok, so what gives? You're living in a building with the latest and greatest fiber optic Internet but you can't get Atlas' promotional pricing or slower speed tiers. It's a complicated story but we'll try to keep it simple.
-
-First, the actual Internet service in your building is 100% home-grown Seattle from a team that lives and works right here. No additives or corn syrup... just pure Atlas net-neutrality Internet.
-
-However, Atlas and your building partnered with a third-party company that fronted all the dollars to retrofit your building with fiber optic cabling. Fiber is way better than the old crummy coax those cable guys installed decades ago; or even the ancient DSL the phone company offers. But here's the catch, retrofitting buildings with fiber is expensive. Atlas shares some of the revenue with our partner and if we offered our promo pricing or slower (and less expensive) speed tiers it would take way too long to recoup their investment and then older buildings like this one would stay stuck forever with outdated tech.
-
-So, here you are, faced with the facts. Get kick-ass reliable Seattle Internet at true Gigabit fiber speeds or go with the out-of-town big guys where you're just a number. Try us out, I think you'll love us! No contracts, no gimmicks, no BS.
-
-Local. Reliable. Honest. Atlas.
-
-Current Fiber Buildings With Pricing Restrictions:
-
-* [Crosspointe Vista](https://gigabit.io/mdu/crosspointe)
-* [Lucille](https://gigabit.io/mdu/lucille)
-* [Waterfront Landing](https://gigabit.io/mdu/waterfront%20landing)
-
-Close
-
 You have been redirected to our new site [atlasnet.com](https://atlasnet.com/)
 
  [![Atlas Networks](/img/logo.svg) ![Atlas Networks](/img/mobile-logo.png)](https://gigabit.io/)
