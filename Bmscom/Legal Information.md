@@ -1,6 +1,6 @@
 ![](https://secure.intelligentdatawisdom.com/788945.png)              
 
-![](https://www.bms.com/assets/bms/us/en-us/images/bristol-myers-squibb-new-logo.png)
+![](https://www.bms.com/assets/bms/us/en-us/images/bms-logo-social-default-card.jpg)
 
 [Our medicines](https://www.bms.com/patient-and-caregivers/our-medicines.html) [Our stories](https://www.bms.com/life-and-science.html) [Investors](https://www.bms.com/investors.html)
 
@@ -214,7 +214,7 @@ Patients & caregivers _Next Page Icon_
 
 [Patient resources](https://www.bms.com/patient-and-caregivers/patient-resources-by-condition.html)
 
-[Risk evaluation and mitigation strategies (REMS)](https://www.bms.com/patient-and-caregivers/risk-evaluation-and-mitigation-strategies.html)
+[Risk evaluation and mitigation strategies (REMS)](https://www.bms.com/patient-and-caregivers/risk-evaluation-and-mitigation-strategies-rems.html)
 
 QUICK LINKS
 
@@ -334,6 +334,8 @@ Business development _Next Page Icon_
 
 [Begin a discussion](https://www.bms.com/business-development/begin-discussion.html)
 
+[Global alliances leadership team](https://www.bms.com/business-development/alliance-management-leadership-team.html)
+
 [Early innovation at BMS](https://www.bms.com/business-development/early-innovation.html)
 
 QUICK LINKS
@@ -349,6 +351,8 @@ News _Next Page Icon_
 [Press releases](https://www.bms.com/media/press-releases.html)
 
 [Our stories](https://www.bms.com/life-and-science.html)
+
+[Medical meetings](https://www.bms.com/media/medical-meetings.html)
 
 [Media library](https://www.bms.com/media/media-library.html)
 
@@ -1758,7 +1762,7 @@ If you have questions about this notice, or you want to obtain more information 
 | [Ireland](https://www.bms.com/ie/privacy-policy.html) | [Israel](https://www.bms.com/il/he/privacy-policy.html) | [Italy](https://www.bms.com/it/privacy-policy.html) | [Japan](https://www.bms.com/jp/privacy-policy.html) | [Korea](https://www.bms.com/kr/privacy-policy.html) | [Luxembourg EN](https://www.bms.com/lu/privacy-policy.html)  <br>[Luxembourg FR](https://www.bms.com/content/bms/lu/fr_lu/home/privacy-policy.html) |
 | [Mexico](https://www.bms.com/mx/privacy-policy.html) | [Netherlands NL](https://www.bms.com/nl/privacy-policy.html)  <br>[Netherlands EN](https://www.bms.com/nl/en/privacy-policy.html) | [New Zealand](https://www.bms.com/nz/privacy-policy.html) | [Norway](https://www.bms.com/no/privacy-policy.html) | [Peru](https://www.bms.com/pe/privacy-policy.html) | [Poland](https://www.bms.com/pl/privacy-policy.html) |
 | [Portugal](https://www.bms.com/pt/privacy-policy.html) | [Romania](https://www.bms.com/ro/privacy-policy.html) | [Saudi Arabia EN](https://www.bms.com/sa/en/privacy-policy.html)  <br>[Saudi Arabia AR](https://www.bms.com/sa/ar/privacy-policy.html) | [Singapore](https://www.bms.com/sg/privacy-policy.html) | [Spain](https://www.bms.com/es/privacy-policy.html) | [Sweden](https://www.bms.com/se/privacy-policy.html) |
-| [Switzerland DE](https://www.bms.com/ch/privacy-policy.html)  <br>[Switzerland FR](https://www.bms.com/ch/fr/privacy-policy.html) | [Taiwan](https://www.bms.com/tw/privacy-policy.html) | [Thailand](https://www.bms.com/th/en/privacy-policy.html) | [Turkey](https://www.bms.com/tr/privacy-policy.html) | [United Arab Emirates](https://www.bms.com/ae/en/privacy-policy.html) | [United Kingdom](https://www.bms.com/gb/privacy-policy.html) |
+| [Switzerland DE](https://www.bms.com/ch/privacy-policy.html)  <br>[Switzerland FR](https://www.bms.com/ch/fr/privacy-policy.html) | [Taiwan](https://www.bms.com/tw/privacy-policy.html) | [Thailand](https://www.bms.com/tw/privacy-policy.html) | [Turkey](https://www.bms.com/tr/privacy-policy.html) | [United Arab Emirates](https://www.bms.com/ae/en/privacy-policy.html) | [United Kingdom](https://www.bms.com/gb/privacy-policy.html) |
 
 * * *
 
@@ -1797,6 +1801,6 @@ Follow us
 * [Contact us](https://www.bms.com/about-us/contact-us.html)
 * [Worldwide locations](https://www.bms.com/about-us/our-company/worldwide-facilities.html)
 
-May 13, 2024
+April 17, 2024
 
 © 2024 [Bristol-Myers Squibb Company](https://www.bms.com/)
