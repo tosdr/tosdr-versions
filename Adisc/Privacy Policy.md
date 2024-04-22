@@ -81,7 +81,7 @@ Privacy Policy
 
 Messages
 
-3,483
+3,453
 
 * May 26, 2018
 
@@ -226,7 +226,6 @@ X (Twitter) Reddit Pinterest Tumblr WhatsApp Email Share Link
 * [About Us](https://www.adisc.org/forum/#about-us.65) 
 * [Rules & Policies](https://www.adisc.org/forum/forums/rules-policies.69/) 
 
-* [Cookies](https://www.adisc.org/forum/misc/cookies "Cookie consent")
 * [Default Light Style](https://www.adisc.org/forum/misc/style "Style chooser")
 
 * [Terms and rules](https://www.adisc.org/forum/threads/the-rules.697/)
@@ -237,33 +236,6 @@ X (Twitter) Reddit Pinterest Tumblr WhatsApp Email Share Link
 [Community platform by XenForo® © 2010-2024 XenForo Ltd.](https://xenforo.com/) | [Xenforo Add-ons © by ©XenTR](https://xentr.net/)
 
 [Discord Integration](https://xenforo.com/community/resources/6058/) © Jason Axelrod of [8WAYRUN](https://8wayrun.com/)
-
-* Cookies
-    -------
-    
-    We use essential [cookies](https://www.adisc.org/forum/help/cookies) to make this site work, and third party cookies for purposes such as web analytics.
-    
-    [See further information and configure your preferences](#)
-    
-    [Accept all cookies](https://www.adisc.org/forum/misc/cookies?update=1&accept=1&t=1717902657%2C835eb6ffb3d69e4a79ca087c070afd36) [Reject optional cookies](https://www.adisc.org/forum/misc/cookies?update=1&reject=1&t=1717902657%2C835eb6ffb3d69e4a79ca087c070afd36)
-    
-    * Essential cookies
-    
-    These cookies are required to enable core functionality such as logging in, security, network management, and accessibility. You may not reject these.
-    
-    * Optional cookies
-    
-    In future, we may add enhanced functionality that depends on optional cookies. Accepting or rejecting these cookies determines if that functionality will be available to you, or not.
-    
-    * Third-party cookies
-    
-    These cookies are used by third-party service providers we use, such as Google Analytics, a statistical tool that helps us identify problems with, and improve, our website. It is possible we add other services providers (e.g: for performance optimization, statistics, ads, etc) in future.
-    
-    * [Detailed cookie usage](https://www.adisc.org/forum/help/cookies)
-    * [Privacy policy](https://www.adisc.org/forum/threads/privacy-policy.116261/)
-    
-    Save cookie preferences
-    
 
 [Back](javascript:)
 
