@@ -106,13 +106,13 @@ Categories
 
 Recent Articles
 
-* [Codeforces Yogurt Sale Problem in Python and C++](https://aruljohn.com/blog/yogurt-sale-problem/)
-* [How to Automate Facebook Posts to Page using Python and Graph API](https://aruljohn.com/blog/python-automate-facebook-posts/)
 * [Existing Terms and Update Scam](https://aruljohn.com/blog/existing-terms-and-update-scam/)
 * [Scammed? How to complain if you are a victim of fraud on the Internet.](https://aruljohn.com/blog/complaint/)
 * [Which websites use Ezoic, Mediavine and Raptive ad networks?](https://aruljohn.com/blog/websites-using-ezoic-mediavine-raptive/)
 * [How to Make DNS Queries over HTTPS using Curl](https://aruljohn.com/blog/dns-over-https/)
 * [How to install Python 3.12.2 on Debian 11 bullseye](https://aruljohn.com/blog/install-python-debian/)
+* [How to Download and Extract URLs from Sitemaps using the Command Line](https://aruljohn.com/blog/download-extract-urls-sitemaps/)
+* [How to Shorten Amazon Product Links](https://aruljohn.com/blog/how-to-shorten-amazon-links/)
 
 Popular Articles
 
