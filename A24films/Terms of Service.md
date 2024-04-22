@@ -116,7 +116,7 @@ You represent and warrant that you own or have the necessary rights, licenses, c
 
 Certain products or services may be available for purchase through the Service. By making a purchase through the Service, you represent that you are at least the age of majority in your state of residence. You are solely responsible for any taxes applicable to your transaction. Products purchased through the Service may only be used for individual, personal use. It is prohibited to re-sell or re-distribute any product or service. You are strictly prohibited from using any product or service for any illegal or unauthorized purpose.
 
-We do not accept returns. If you have an issue, please email us at [shop@a24films.com](mailto:%20shop@a24films.com) within 30 days of placing your order, and we will try our best to find a solution. Please include your order number in the subject line. Exchanges can generally be made within 30 days of placing your order, so long as your item remains unopened. Please understand that our items are limited, and we might not have your desired size. We cannot exchange one item for a different item. Email [shop@a24films.com](mailto:%20shop@a24films.com) and include your order number and the size you would like.
+We do not accept returns. If you have an issue, please email us at [shop@a24films.com](mailto: shop@a24films.com) within 30 days of placing your order, and we will try our best to find a solution. Please include your order number in the subject line. Exchanges can generally be made within 30 days of placing your order, so long as your item remains unopened. Please understand that our items are limited, and we might not have your desired size. We cannot exchange one item for a different item. Email [shop@a24films.com](mailto: shop@a24films.com) and include your order number and the size you would like.
 
 We reserve the right, but are not obligated, to limit the sales of our products or services to any person, geographic region, or jurisdiction. We may exercise this right on a case-by-case basis. We reserve the right to limit the quantities of any products or services that we offer. We reserve the right to refuse any order you place with us. We may, in our sole discretion, limit or cancel quantities purchased per person, per household, or per order. These restrictions may include orders placed by or under the same customer account, the same credit card, and/or orders that use the same billing and/or shipping address. We reserve the right to limit or prohibit orders that, in our sole judgment, appear to be placed by dealers, resellers, or distributors. We may choose to limit product availability only to individuals who have a current Membership (as defined and described in Section 9), or we may offer discounts, exclusive “first look” shopping windows, or other incentives only to individuals who have a current Membership.
 
@@ -132,7 +132,7 @@ You are responsible for providing an accurate and current delivery address each 
 
 6\. Customer Support
 
-If you have any questions or comments, please send an e-mail to us at [info@a24films.com](mailto:%20info@a24films.com). You acknowledge that the provision of support is at A24’s sole discretion and that we have no obligation to provide you with customer support of any kind. When you communicate with us electronically, you consent to receive communications from us electronically in relation to your communications. You agree that all agreements, notices, disclosures, and other communications that we provide to you electronically satisfy any legal requirement that such communications be in writing.
+If you have any questions or comments, please send an e-mail to us at [info@a24films.com](mailto: info@a24films.com). You acknowledge that the provision of support is at A24’s sole discretion and that we have no obligation to provide you with customer support of any kind. When you communicate with us electronically, you consent to receive communications from us electronically in relation to your communications. You agree that all agreements, notices, disclosures, and other communications that we provide to you electronically satisfy any legal requirement that such communications be in writing.
 
 7\. Third Party Services
 
@@ -146,7 +146,7 @@ The Service may offer features that are available to you via your wireless Devic
 
 **B. Communications.**
 
-You can opt out of receiving promotional e-mails from us at any time by following the instructions in the e-mails to click on the unsubscribe link, or by sending an e-mail to us at [info@a24films.com](mailto:%20info@a24films.com), with the word UNSUBSCRIBE in the subject field of the e-mail. Please note that your opt out is limited to the e-mail address used and will not affect subsequent subscriptions or non-promotional communications, such as those about your account, transactions, servicing, or A24’s ongoing business relations. You can opt out of receiving text messages from us at any time by responding STOP to any text message we send you.
+You can opt out of receiving promotional e-mails from us at any time by following the instructions in the e-mails to click on the unsubscribe link, or by sending an e-mail to us at [info@a24films.com](mailto: info@a24films.com), with the word UNSUBSCRIBE in the subject field of the e-mail. Please note that your opt out is limited to the e-mail address used and will not affect subsequent subscriptions or non-promotional communications, such as those about your account, transactions, servicing, or A24’s ongoing business relations. You can opt out of receiving text messages from us at any time by responding STOP to any text message we send you.
 
 9\. Premium Memberships
 
@@ -227,7 +227,7 @@ It is possible that the Platform and/or some or all Digital Content may not be a
 
 **G. Refund Requests.**
 
-Refunds may be requested if you did not authorize a purchase, you did not mean to make a purchase, you purchased the wrong item, the item didn't download correctly, or the item isn't playing correctly. Refunds for web purchases are processed at the discretion of A24 and may be requested by emailing [support@a24films.com](mailto:%20support@a24films.com). Refunds for in-app purchases are processed by Apple and may be requested at [https://reportaproblem.apple.com.](https://reportaproblem.apple.com/)
+Refunds may be requested if you did not authorize a purchase, you did not mean to make a purchase, you purchased the wrong item, the item didn't download correctly, or the item isn't playing correctly. Refunds for web purchases are processed at the discretion of A24 and may be requested by emailing [support@a24films.com](mailto: support@a24films.com). Refunds for in-app purchases are processed by Apple and may be requested at [https://reportaproblem.apple.com.](https://reportaproblem.apple.com/)
 
 **H. Entertainment Content Only; Non-Reliance.**
 
@@ -323,7 +323,7 @@ Also, be advised that A24 is continuously developing projects independently and 
 
 17\. Contact Us.
 
-If you have any questions or comments about these Terms, please email us at [info@a24films.com](mailto:%20info@a24films.com). All legal notices to us must be mailed to: 1245 Broadway, 10th Floor, New York, New York 10001, ATTN: A24 Legal. You agree that all agreements, notices, disclosures, and other communications that we provide to you electronically satisfy any legal requirement that such communications be in writing.
+If you have any questions or comments about these Terms, please email us at [info@a24films.com](mailto: info@a24films.com). All legal notices to us must be mailed to: 1245 Broadway, 10th Floor, New York, New York 10001, ATTN: A24 Legal. You agree that all agreements, notices, disclosures, and other communications that we provide to you electronically satisfy any legal requirement that such communications be in writing.
 
 * [Jobs](https://a24films.com/jobs)
 * [Shop](https://shop.a24films.com/)
