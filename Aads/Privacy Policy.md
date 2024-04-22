@@ -1,4 +1,4 @@
-   [![AADS](/assets/a-ads-logo-f2c75e582ea7e3261ef9aecbce54a5350060abbddd70020863282e1b1b93d150.svg "Bitcoin Advertising") ![AADS](/assets/white-logo-f5adfd46705cccf78a98cac0ab21c1e96c5eddd4735cf045d451e0e30f57b79c.svg "Bitcoin Advertising") ![AADS](/assets/logo-small-white-3e05637c0192b94b00cc628243b21f7fe274128514c5e4fed1dfbd6cdc75cc14.svg "Bitcoin Advertising") ![AADS](/assets/logo-small-780ad6aeb2795d1835653ea30b358ebe3d1886cf5efb092597f642f6f34ecb2b.svg "Bitcoin Advertising")](https://a-ads.com/)
+   [![Anonymous Ads](/assets/A-ads-logo-20362ecd46ae23cc01deabc3a7274ec3a3c1adcee3e7a0a870fb9031d9039d8e.svg "Bitcoin Advertising") ![Anonymous Ads](/assets/white-logo-7d7ddcdf6524fe36de88a5de9e76e6c6a6401b5e78910c27c1f0e7213cdc97bb.svg "Bitcoin Advertising") ![Anonymous Ads](/assets/logo-small-white-0a55f38689249cbc539a7511dde3a8db6d05550fa534b3d28a1e6d0275238bd9.svg "Bitcoin Advertising") ![Anonymous Ads](/assets/logo-small-aac4ebb9080878ace2ebd25018730f14db223c9ea778eee0c6b09eea5a714598.svg "Bitcoin Advertising")](https://a-ads.com/)
 
 [Advertise](javascript:void(0))
 
@@ -7,38 +7,38 @@ Create
 * [![Become an Influencer](/assets/icons/banner-campaign-07fbbb1061fbe1e9c3a81df210a751d3e254035ce6fa47cd73870e3e3b2ead9b.svg)
     
     Banner ad campaign  
-    Target your audience worldwide](https://a-ads.com/beta/campaigns/new/)
+    Target your audience worldwide](https://a-ads.com/en/beta/campaigns/new/)
     
     [![Become an Influencer](/assets/icons/publication-order-040058bd93f5491bfca1341442bf0033ec91eccd5cefa4f8ef52f05c0c8eab50.svg)
     
     Content Publication order  
-    Choose from different ad formats](https://a-ads.com/marketplace/)
+    Choose from different ad formats](https://a-ads.com/en/marketplace/)
     
     [![Become an Influencer](/assets/icons/affiliate-program-11ef6ef00d09852efeceddfecd9064d07322a5af202949eb19ae7bc6358f6393.svg)
     
     Affiliate program  
-    Pay for useful actions with CPA model](https://a-ads.com/crypto-affiliate-program/)
+    Pay for useful actions with CPA model](https://a-ads.com/en/crypto-affiliate-program/)
     
 
 Learn about
 
-* [Advertising with AADS  
-    Ad technologies for your promotion](https://a-ads.com/advertise/)
+* [Advertising with A-ADS  
+    Ad technologies for your promotion](https://a-ads.com/en/advertise/)
     
     [Catalog of Banner Ad Units  
     Choose from 1000s of websites](https://a-ads.com/catalog)
     
     [Ad Formats  
-    Discover available banner formats](https://a-ads.com/ad-formats/)
+    Discover available banner formats](https://a-ads.com/en/ad-formats/)
     
 * [Content Ad publication  
-    Place ad at a fixed price](https://a-ads.com/marketplace/advertiser/)
+    Place ad at a fixed price](https://a-ads.com/en/marketplace/advertiser/)
     
     [Catalog of Publication offers  
-    Publish ad in a few simple steps](https://a-ads.com/marketplace/)
+    Publish ad in a few simple steps](https://a-ads.com/en/marketplace/)
     
     [CPA advertising campaigns  
-    Reward publishers for targeted actions](https://a-ads.com/crypto-affiliate-program/)
+    Reward publishers for targeted actions](https://a-ads.com/en/crypto-affiliate-program/)
     
 
 [Earn](javascript:void(0))
@@ -53,22 +53,22 @@ Create
     [![Become an Influencer](/assets/icons/publication-order-040058bd93f5491bfca1341442bf0033ec91eccd5cefa4f8ef52f05c0c8eab50.svg)
     
     Content publication offer  
-    Allow to place ad in your media](https://a-ads.com/marketplace/become_publisher/)
+    Allow to place ad in your media](https://a-ads.com/en/marketplace/become_publisher/)
     
 
 Learn about
 
 * [Banner ad traffic monetization  
-    Earn crypto on your website traffic](https://a-ads.com/earn/)
+    Earn crypto on your website traffic](https://a-ads.com/en/earn/)
     
     [Earning from ad placement  
-    Get more paying advertisers](https://a-ads.com/marketplace/publisher/)
+    Get more paying advertisers](https://a-ads.com/en/marketplace/publisher/)
     
-    [AADS Referral program  
-    Attract advertisers to AADS for a fee](https://a-ads.com/crypto-referral-program/)
+    [A-ADS Referral program  
+    Attract advertisers to A-ADS for a fee](https://a-ads.com/en/crypto-referral-program/)
     
 
-[Stats](https://a-ads.com/statistics/) [Help](#)
+[Stats](https://a-ads.com/en/statistics/) [Help](#)
 
 [Sign In](https://a-ads.com/user/sign_in) [Sign Up](https://a-ads.com/user/sign_up)
 
@@ -83,29 +83,29 @@ Learn about
     [![Become an Influencer](/assets/icons/banner-campaign-07fbbb1061fbe1e9c3a81df210a751d3e254035ce6fa47cd73870e3e3b2ead9b.svg)
     
     Banner ad campaign  
-    Target your audience worldwide](https://a-ads.com/beta/campaigns/new/)
+    Target your audience worldwide](https://a-ads.com/en/beta/campaigns/new/)
 * [![Become an Influencer](/assets/icons/publication-order-040058bd93f5491bfca1341442bf0033ec91eccd5cefa4f8ef52f05c0c8eab50.svg)
     
     Content Publication order  
-    Choose from different ad formats](https://a-ads.com/marketplace/)
+    Choose from different ad formats](https://a-ads.com/en/marketplace/)
 * [![Become an Influencer](/assets/icons/affiliate-program-11ef6ef00d09852efeceddfecd9064d07322a5af202949eb19ae7bc6358f6393.svg)
     
     Affiliate program  
-    Pay for useful actions with CPA model](https://a-ads.com/crypto-affiliate-program/)
+    Pay for useful actions with CPA model](https://a-ads.com/en/crypto-affiliate-program/)
 * Learn about
     
-    [Advertising with AADS  
-    Ad technologies for your promotion](https://a-ads.com/advertise/)
+    [Advertising with A-ADS  
+    Ad technologies for your promotion](https://a-ads.com/en/advertise/)
 * [Catalog of Banner Ad Units  
     Choose from 1000s of websites](https://a-ads.com/catalog)
 * [Ad Formats  
-    Discover available banner formats](https://a-ads.com/ad-formats/)
+    Discover available banner formats](https://a-ads.com/en/ad-formats/)
 * [Content Ad publication  
-    Place ad at a fixed price](https://a-ads.com/marketplace/advertiser/)
+    Place ad at a fixed price](https://a-ads.com/en/marketplace/advertiser/)
 * [Catalog of Publication offers  
-    Publish ad in a few simple steps](https://a-ads.com/marketplace/)
+    Publish ad in a few simple steps](https://a-ads.com/en/marketplace/)
 * [CPA advertising campaigns  
-    Reward publishers for targeted actions](https://a-ads.com/crypto-affiliate-program/)
+    Reward publishers for targeted actions](https://a-ads.com/en/crypto-affiliate-program/)
 
 [Earn](javascript:void(0))
 
@@ -118,32 +118,32 @@ Learn about
 * [![Become an Influencer](/assets/icons/publication-order-040058bd93f5491bfca1341442bf0033ec91eccd5cefa4f8ef52f05c0c8eab50.svg)
     
     Content publication offer  
-    Allow to place ad in your media](https://a-ads.com/marketplace/become_publisher/)
+    Allow to place ad in your media](https://a-ads.com/en/marketplace/become_publisher/)
 * Learn about
     
     [Banner ad traffic monetization  
-    Earn crypto on your website traffic](https://a-ads.com/earn/)
+    Earn crypto on your website traffic](https://a-ads.com/en/earn/)
 * [Earning from ad placement  
-    Get more paying advertisers](https://a-ads.com/marketplace/publisher/)
-* [AADS Referral program  
-    Attract advertisers to AADS for a fee](https://a-ads.com/crypto-referral-program/)
+    Get more paying advertisers](https://a-ads.com/en/marketplace/publisher/)
+* [A-ADS Referral program  
+    Attract advertisers to A-ADS for a fee](https://a-ads.com/en/crypto-referral-program/)
 
-[Stats](https://a-ads.com/statistics/)
+[Stats](https://a-ads.com/en/statistics/)
 
 Privacy Policy
 ==============
 
-**AADS is a bitcoin advertising network that respects your privacy.**
+**A-ADS is a bitcoin advertising network that respects your privacy.**
 
-This Privacy Policy ("Policy") describes how AADS.com ("A-ads.com" or "AADS" or "we" or "our" or "us") collects, stores, shares, and uses information and your choices about privacy when you use our website, products and services (collectively, "Services"). If you see an undefined term in this Privacy Policy, it has the exact definition as in our Terms and Conditions [https://a-ads.com/terms\_of\_service](https://a-ads.com/terms_of_service). Your privacy is important to us, and we ask that you read this Policy carefully to be informed about our practices.
+This Privacy Policy ("Policy") describes how A-ads.com ("A-ADS" or "we" or "our" or "us") collects, stores, shares, and uses information and your choices about privacy when you use our website, products and services (collectively, "Services"). If you see an undefined term in this Privacy Policy, it has the exact definition as in our Terms and Conditions [https://a-ads.com/terms\_of\_service](https://a-ads.com/terms_of_service). Your privacy is important to us, and we ask that you read this Policy carefully to be informed about our practices.
 
   
 
-This Policy is part of our T&Cs. Any capitalized terms used but not defined in this Policy have the same meaning in our Terms and Conditions ("T&Cs"). By accessing or using our Services in any way, you agree that your information may be collected, stored, shared, and used as described in this Policy and our Terms and Conditions. By submitting any Personal Information through our site or by using our Services, you agree to the terms of this Privacy Policy and expressly consent to the collection, use, and disclosure of your Personal Information by this Policy. The use and disclosure of your Personal Information by this Policy is essential to the proper functioning of AADS and our provision of Services to you.
+This Policy is part of our T&Cs. Any capitalized terms used but not defined in this Policy have the same meaning in our Terms and Conditions ("T&Cs"). By accessing or using our Services in any way, you agree that your information may be collected, stored, shared, and used as described in this Policy and our Terms and Conditions. By submitting any Personal Information through our site or by using our Services, you agree to the terms of this Privacy Policy and expressly consent to the collection, use, and disclosure of your Personal Information by this Policy. The use and disclosure of your Personal Information by this Policy is essential to the proper functioning of A-ADS and our provision of Services to you.
 
 ### WHEN THIS PRIVACY POLICY APPLIES
 
-This Policy applies to all of our Services, regardless of how you use them and whether or not you register for an AADS account. This Policy applies to how we collect, store, share, and use information. This Policy does not apply to any entity we do not own or control or to any person we do not employ or manage. If you are directed to a third-party site at any time while using our Services, you understand and agree that the third-party site's policies govern.
+This Policy applies to all of our Services, regardless of how you use them and whether or not you register for an A-ADS account. This Policy applies to how we collect, store, share, and use information. This Policy does not apply to any entity we do not own or control or to any person we do not employ or manage. If you are directed to a third-party site at any time while using our Services, you understand and agree that the third-party site's policies govern.
 
 ### TYPES OF INFORMATION WE PROCESS
 
@@ -169,17 +169,17 @@ To contact you (by e-mail or as otherwise authorized by you) to send you marketi
 
 To facilitate your participation in contests, sweepstakes, or other promotional events sponsored or conducted by us or by others in conjunction with us (reason: performance of a contract);
 
-To comply with our legal obligations, resolve disputes, or enforce our T&Cs or any other AADS policies or agreements with Users (reason: compliance with a legal obligation); and to perform different functions as described when the information is collected or requested, or for other purposes with your prior consent (reason: legitimate business purpose).
+To comply with our legal obligations, resolve disputes, or enforce our T&Cs or any other A-ADS policies or agreements with Users (reason: compliance with a legal obligation); and to perform different functions as described when the information is collected or requested, or for other purposes with your prior consent (reason: legitimate business purpose).
 
 ### COMMUNICATION PREFERENCES
 
-We provide registered Users with settings on our Services to control whether they receive certain communications from us. Suppose you do not want to receive a marketing e-mail from us. In that case, you can unsubscribe by following the unsubscribe link in the e-mail you received, changing your preferences in your profile and account settings (if you have registered for an AADS account), or contacting us via [https://a-ads.com/contact\_us](https://a-ads.com/contact_us). You may not be able to opt-out of receiving communications from us, such as e-mails about your account, your relationship with us, or your transactions with us or other Users. For further information, please don't hesitate to contact us via [https://a-ads.com/contact\_us](https://a-ads.com/contact_us). Please note that unsubscribing from receiving marketing e-mails from us may result in a less robust experience of our Services.
+We provide registered Users with settings on our Services to control whether they receive certain communications from us. Suppose you do not want to receive a marketing e-mail from us. In that case, you can unsubscribe by following the unsubscribe link in the e-mail you received, changing your preferences in your profile and account settings (if you have registered for an A-ADS account), or contacting us via [https://a-ads.com/contact\_us](https://a-ads.com/contact_us). You may not be able to opt-out of receiving communications from us, such as e-mails about your account, your relationship with us, or your transactions with us or other Users. For further information, please don't hesitate to contact us via [https://a-ads.com/contact\_us](https://a-ads.com/contact_us). Please note that unsubscribing from receiving marketing e-mails from us may result in a less robust experience of our Services.
 
 ### ACCOUNTS AND USER PROFILES
 
 ### Registration, Access, and Records
 
-To register for an AADS account, you may be asked to provide your username, valid e-mail address, social network profile, cryptocurrency wallet address, and/or other data. If you have received our permission to use our Services as a business, you may need to complete an additional registration process and provide further information. If you have an AADS account, you may access, add, remove, or update certain information about you in your profile and account settings, as indicated on our Services. You are responsible for updating all such information as necessary to keep it accurate and current. When you update your account or profile information, we may keep a record of the unrevised information for purposes consistent with this Policy. If you wish to cancel your account, you may use the tools provided in your profile and account settings ([https://a-ads.com/user/deletion/new](https://a-ads.com/user/deletion/new)), subject to any other agreements between you and us and any transactions which have not yet been completed. If you terminate your account, we may keep a record of any or all information associated with you or your account, as required or permitted by law, for purposes consistent with this Policy. Any such data shall be attached to a unique identifier that cannot be used to identify you; specific account data that includes Personal Information, including your name, e-mail, contact information, and certain other records such as settings and collector profiles will be removed at such termination. For further information, please get in touch with us via [https://a-ads.com/contact\_us](https://a-ads.com/contact_us).
+To register for an A-ADS account, you may be asked to provide your username, valid e-mail address, social network profile, cryptocurrency wallet address, and/or other data. If you have received our permission to use our Services as a business, you may need to complete an additional registration process and provide further information. If you have an A-ADS account, you may access, add, remove, or update certain information about you in your profile and account settings, as indicated on our Services. You are responsible for updating all such information as necessary to keep it accurate and current. When you update your account or profile information, we may keep a record of the unrevised information for purposes consistent with this Policy. If you wish to cancel your account, you may use the tools provided in your profile and account settings ([https://a-ads.com/user/deletion/new](https://a-ads.com/user/deletion/new)), subject to any other agreements between you and us and any transactions which have not yet been completed. If you terminate your account, we may keep a record of any or all information associated with you or your account, as required or permitted by law, for purposes consistent with this Policy. Any such data shall be attached to a unique identifier that cannot be used to identify you; specific account data that includes Personal Information, including your name, e-mail, contact information, and certain other records such as settings and collector profiles will be removed at such termination. For further information, please get in touch with us via [https://a-ads.com/contact\_us](https://a-ads.com/contact_us).
 
 ### Profile and Account Information
 
@@ -199,9 +199,9 @@ As described in our T&Cs, some Services may enable you to provide User Materials
 
 ### USER COMMUNICATIONS
 
-Connecting with Publishers: We aim to provide a platform where Users can discover and engage with a wide range of Publishers worldwide. Advertisers may target ad units upon applying to use the AADS services.
+Connecting with Publishers: We aim to provide a platform where Users can discover and engage with a wide range of Publishers worldwide. Advertisers may target ad units upon applying to use the A-Ads services.
 
-Sharing Information with Other Users: currently, AADS.com does not facilitate communication between users via the AADS platform. However, some information is available publicly, such as the statistics of specific campaigns and ad units.
+Sharing Information with Other Users: currently, A-Ads.com does not facilitate communication between users via the A-Ads platform. However, some information is available publicly, such as the statistics of specific campaigns and ad units.
 
 ### TO WHOM DO WE SHARE PERSONAL INFORMATION?
 
@@ -215,9 +215,9 @@ For conducting certain cryptocurrency transactions, we use third-party cryptocur
 
 If there are any errors you may make when using third-party cryptocurrency payment processors (such as sending the wrong cryptocurrency to a specific cryptocurrency standard wallet address), we may communicate directly with third-party cryptocurrency payment processors to ensure we receive your payment. You hereby authorize us to communicate with third-party cryptocurrency payment processors to solve any cryptocurrency payment errors on your behalf.
 
-Business Transfers: If we are involved in a merger, acquisition, or sale of assets, your Personal Information may be one of the assets transferred. In this event, we will inform the AADS Users about a change of ownership of their Personal Information by updating this document or announcing it on the AADS website or through the AADS social media channels.
+Business Transfers: If we are involved in a merger, acquisition, or sale of assets, your Personal Information may be one of the assets transferred. In this event, we will inform the A-ADS Users about a change of ownership of their Personal Information by updating this document or announcing it on the A-ADS website or through the A-ADS social media channels.
 
-Legal Purposes: We may access, preserve, and disclose your Personal Information and/or other information if we believe that such access, preservation, or disclosure is reasonably necessary to: (i) comply with any law, regulation, legal process, or governmental request (such as search warrants, subpoenas or court orders), which may include responding to legal requests; (ii) enforce our T&Cs or our other policies or agreements with Users, or investigate potential violations; (iii) detect, prevent or otherwise address fraud, security or technical issues; (iv) protect or enforce the rights or property of AADS, you, or any other person or entity; or (v) prevent physical harm to any person, including situations involving possible violence or self-harm.
+Legal Purposes: We may access, preserve, and disclose your Personal Information and/or other information if we believe that such access, preservation, or disclosure is reasonably necessary to: (i) comply with any law, regulation, legal process, or governmental request (such as search warrants, subpoenas or court orders), which may include responding to legal requests; (ii) enforce our T&Cs or our other policies or agreements with Users, or investigate potential violations; (iii) detect, prevent or otherwise address fraud, security or technical issues; (iv) protect or enforce the rights or property of A-ADS, you, or any other person or entity; or (v) prevent physical harm to any person, including situations involving possible violence or self-harm.
 
 ### AGGREGATED AND NON-PERSONAL INFORMATION
 
@@ -225,17 +225,17 @@ We may aggregate and/or make anonymous any Personal Information that we have obt
 
 ### OTHER WEBSITES AND SERVICES
 
-Our Services may include links to other websites or services we do not own or control, and other websites or services that we do not own or control may contain links to our Services. Our Services may also include features that enable you to link your AADS account to your account on other social media services. For example, you may be able to sign up for (or sign in to) our Services through another social media service. Our Services may also include features that enable you to share Content on other websites and social media services. However, these links and features are not an endorsement by us of any other websites or services or any of their privacy policies or practices. When you visit or use other websites or services, they may collect information from you, including through the use of cookies, web beacons, or similar technologies. We encourage you to read the privacy policies of other websites and services that you visit or use to be informed of their practices.
+Our Services may include links to other websites or services we do not own or control, and other websites or services that we do not own or control may contain links to our Services. Our Services may also include features that enable you to link your A-ADS account to your account on other social media services. For example, you may be able to sign up for (or sign in to) our Services through another social media service. Our Services may also include features that enable you to share Content on other websites and social media services. However, these links and features are not an endorsement by us of any other websites or services or any of their privacy policies or practices. When you visit or use other websites or services, they may collect information from you, including through the use of cookies, web beacons, or similar technologies. We encourage you to read the privacy policies of other websites and services that you visit or use to be informed of their practices.
 
 ### INTERNATIONAL PROCESSING
 
-AADS is headquartered in Hong Kong. Our Users, service providers, and other third parties you may interact with in connection with our Services, may be located in different countries around the world, including countries that may not offer the same level of protection for Personal Information as that offered in Hong Kong. By accessing or using our Services in Hong Kong or any other country or jurisdiction, you agree that your information may be transferred and processed in Hong Kong and any other country or jurisdiction.
+A-ADS is headquartered in Anguilla. Our Users, service providers, and other third parties you may interact with in connection with our Services, may be located in different countries around the world, including countries that may not offer the same level of protection for Personal Information as that offered in Anguilla. By accessing or using our Services in Anguilla or any other country or jurisdiction, you agree that your information may be transferred and processed in Anguilla and any other country or jurisdiction.
 
 Our Services are not directed to anyone under 18, and we do not knowingly collect Personal Information from people in this age group. If you believe we may have collected Personal Information from anyone under the age of 18, please get in touch with us.
 
 ### SECURITY
 
-Every AADS account is protected to help maintain privacy and security on our Services. If you register for an account, we urge you to use a strong password containing unique numbers, letters, and special characters and to protect the confidentiality of your password at all times. If you suspect or become aware of any unauthorized access to or use of your account or password, you agree to immediately notify us and change your password. We take reasonable technical and organizational measures to guard against unauthorized or unlawful processing of your personal data and accidental loss or destruction of, or damage to, your Personal Information. While no system is entirely secure, we believe the measures implemented by the site reduce our vulnerability to security problems to a level appropriate to the type of data involved. We have security measures to protect our user database, and access to this database is restricted internally. However, it remains your responsibility:
+Every A-ADS account is protected to help maintain privacy and security on our Services. If you register for an account, we urge you to use a strong password containing unique numbers, letters, and special characters and to protect the confidentiality of your password at all times. If you suspect or become aware of any unauthorized access to or use of your account or password, you agree to immediately notify us and change your password. We take reasonable technical and organizational measures to guard against unauthorized or unlawful processing of your personal data and accidental loss or destruction of, or damage to, your Personal Information. While no system is entirely secure, we believe the measures implemented by the site reduce our vulnerability to security problems to a level appropriate to the type of data involved. We have security measures to protect our user database, and access to this database is restricted internally. However, it remains your responsibility:
 
 To protect against unauthorized access to your use of the site and/or Services;
 
@@ -277,47 +277,47 @@ Opting-Out: Third-party providers may offer a way to opt-out of receiving cookie
 
 Changes to this Cookie Policy: As part of our Privacy Policy, we may update it at any time as described in our Privacy Policy. Please review this Cookie Policy regularly to be informed of any updates.
 
-### CONTACTING AADS
+### CONTACTING A-ADS
 
-If you have questions or comments about our Privacy Policy or our privacy practices, or you would like to know what Personal Information we hold about you or would like to update, delete, or request access to such Personal Information, you may contact us via [https://a-ads.com/contact\_us](https://a-ads.com/contact_us). We will use commercially reasonable efforts to honor your request. We may retain an archived copy of your records as required by law or for legitimate business purposes, such as information stored in blockchain technology to verify the authenticity and value of digital assets. If you delete all your Personal Information, your AADS account may become deactivated.
+If you have questions or comments about our Privacy Policy or our privacy practices, or you would like to know what Personal Information we hold about you or would like to update, delete, or request access to such Personal Information, you may contact us via [https://a-ads.com/contact\_us](https://a-ads.com/contact_us). We will use commercially reasonable efforts to honor your request. We may retain an archived copy of your records as required by law or for legitimate business purposes, such as information stored in blockchain technology to verify the authenticity and value of digital assets. If you delete all your Personal Information, your A-ADS account may become deactivated.
 
-You may access, correct, amend, or delete your User Materials by accessing your AADS account (including any imported contacts). You control all User Materials you upload. User Materials that you delete (including User Materials containing personal information) may be retained in archived or backup copies to enable you to use certain features like revision history and base snapshots. For instructions on permanently deleting User Materials from your account, please get in touch with us via [https://a-ads.com/contact\_us](https://a-ads.com/contact_us). Please note that permanent deletion of your User Materials through this process will impair or disable those features concerning that User Materials.
+You may access, correct, amend, or delete your User Materials by accessing your A-ADS account (including any imported contacts). You control all User Materials you upload. User Materials that you delete (including User Materials containing personal information) may be retained in archived or backup copies to enable you to use certain features like revision history and base snapshots. For instructions on permanently deleting User Materials from your account, please get in touch with us via [https://a-ads.com/contact\_us](https://a-ads.com/contact_us). Please note that permanent deletion of your User Materials through this process will impair or disable those features concerning that User Materials.
 
 You may access, correct, amend, or delete the Personal Information we have about you by logging into your account and navigating your account page. If you wish to cancel your account, you may do so through your account page. If you do, personally identifiable information associated with your account will be deleted as soon as is reasonably practical or as required by applicable law. Please note that we may retain information that is otherwise deleted in anonymized and aggregated form, in archived or backup copies as needed under records retention obligations, or otherwise as required by law.
 
-AADS crypto ad network has been working with crypto and non-crypto websites since 2011, providing banner ad solutions. As a trusted Bitcoin advertising network, we prioritize delivering high-quality crypto ads to amplify your campaign's impact
+A-ADS crypto ad network has been working with crypto and non-crypto websites since 2011, providing banner ad solutions. As a trusted Bitcoin advertising network, we prioritize delivering high-quality crypto ads to amplify your campaign's impact
 
 Advertising
 
-* [Banner advertising](https://a-ads.com/advertise/)
-* [Content ad publication](https://a-ads.com/marketplace/advertiser/)
-* [Affiliate program](https://a-ads.com/crypto-affiliate-program/)
+* [Banner advertising](https://a-ads.com/en/advertise/)
+* [Content ad publication](https://a-ads.com/en/marketplace/advertiser/)
+* [Affiliate program](https://a-ads.com/en/crypto-affiliate-program/)
 
 Earning
 
-* [Banner ad traffic monetization](https://a-ads.com/earn/)
-* [Earning from ad publication](https://a-ads.com/marketplace/publisher/)
-* [Referral program](https://a-ads.com/crypto-referral-program/)
+* [Banner ad traffic monetization](https://a-ads.com/en/earn/)
+* [Earning from ad publication](https://a-ads.com/en/marketplace/publisher/)
+* [Referral program](https://a-ads.com/en/crypto-referral-program/)
 
 Collaborations
 
-* [Marketing agencies](https://a-ads.com/advertising-agencies/)
-* [Startups](https://a-ads.com/crypto-startups/)
-* [Bug bounty program](https://a-ads.com/bug-bounty/)
+* [Marketing agencies](https://a-ads.com/en/advertising-agencies/)
+* [Startups](https://a-ads.com/blog/elevate-your-startups-global-fame/)
+* [Bug bounty program](https://a-ads.com/en/bug-bounty/)
 
 Service
 
-* [Network Statistics](https://a-ads.com/statistics/)
+* [Network Statistics](https://a-ads.com/en/statistics/)
 * [System Status](https://status.a-ads.com/en/)
 * [Help Center](#)
 
 Company
 
-* [About Us](https://a-ads.com/about-us/)
-* [Our Team](https://a-ads.com/team/)
+* [About Us](https://a-ads.com/en/about-us/)
+* [Our Team](https://a-ads.com/en/team/)
 * [Blog](https://a-ads.com/blog/)
 
- [![earth](/assets/earth-icon-98d06ad93ed623e1ef541a44f38b3232444ff8f935ca56f500e41146b8f3c453.svg)English](javascript:void(0))
+ [![earth](/assets/earth-icon-56b521a1a96c8065bede3f933c15b151ae66e6d863ef4393f6d99edf1fd678ec.svg)English](javascript:void(0))
 
 * [English](https://a-ads.com/en/privacy_policy)
 * [Русский](https://a-ads.com/ru/privacy_policy)
@@ -325,6 +325,6 @@ Company
 
   [![twitter](/assets/twitter-social-icon-302a4cee758db338a58e4cd3093b8d54dee98e740c9148447b2c752a320f045b.svg) ![twitter](/assets/twitter-social-icon-hover-2ef07d48d33075274a093b6abb8118da13c40ddba200790f669c15ec32823298.svg)](https://twitter.com/aads_network)[![telegram](/assets/telegram-social-icon-602506776e27bb367f8991aa46f76ea04842996ac607736c53f33f1ba673fdef.svg) ![telegram](/assets/telegram-social-icon-hover-87b2ef8d71fce6c0e381a6b79664ac30dfdd69b0823784d6d563d552dec54e4a.svg)](https://t.me/aads_network)[![reddit](/assets/reddit-social-icon-bacd928bfac0b3f07bc572f6742dcfc0d07d7fe8a606629183c7f2416ed75286.svg) ![reddit](/assets/reddit-social-icon-hover-7b8e52cef6973cea2b8cf09af521ce62076d3f09b3b6100cc5bacf7d1690c3e4.svg)](https://www.reddit.com/r/aadsnetwork)[![bitcoin](/assets/bitcoin-social-icon-1bde23c87b3203c0a8fc88154961886eb59c0f46249d8ca53e1a34682e8ac1db.svg) ![bitcoin](/assets/bitcoin-social-icon-hover-9743536d8ef226b6c6e7eb7de69801efe6eabe26ba301b6d0d3242aa8466b0e8.svg)](https://bitcointalk.org/index.php?topic=140822)[![instagram](/assets/instagram-social-icon-4398c34c2fc212012a78dd19e77617f6473b6a00ec3f9e8188fc5f53d48be5bf.svg) ![instagram](/assets/instagram-social-icon-hover-63113d6dff19c23df35c62aeffe22538a297cadf7dba4e3877c3ab77688b116e.svg)](https://www.instagram.com/aads.network/)[![facebook](/assets/fb-social-icon-6d7212a8ca35be73e9e9802f7faf166f0f541e8325e462a7f55239a8faf9f5f9.svg) ![facebook](/assets/fb-social-icon-hover-27d6c135a25ea999aa8ec53a94f357fcf82ef7048c1ca98e92dacb344c2154d8.svg)](https://www.facebook.com/aads.network)[![linkedin](/assets/linkedin-social-icon-c05593589f2fd7cef5b644953a0b5cc918e1adc70982e7bf2802aff45b64a8e9.svg) ![linkedin](/assets/linkedin-social-icon-hover-9d3110295969d896234447b17bc4d733834641d17bc69c199b53ca472f7332ed.svg)](https://www.linkedin.com/company/aads-network)
 
-© AADS 2011-2024 [Terms of Service](https://a-ads.com/terms_of_service) [Privacy Policy](https://a-ads.com/privacy_policy)
+© A-ADS 2011-2024 [Terms of Service](https://a-ads.com/terms_of_service) [Privacy Policy](https://a-ads.com/privacy_policy)
 
 Please enable JavaScript, disable ad blocking software and refresh the page.
