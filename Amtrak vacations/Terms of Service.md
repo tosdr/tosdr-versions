@@ -27,7 +27,7 @@ Main navigation
     * [Most Popular](https://www.amtrakvacations.com/destinations/top-10-destinations?nav=)
         
         * [Boston, MA](https://www.amtrakvacations.com/destinations/boston-ma?nav=)
-        * [Canada](https://www.amtrakvacations.com/destinations/canada?nav=)
+        * [Canadian Rockies](https://www.amtrakvacations.com/canadian-rockies?nav=)
         * [Chicago, IL](https://www.amtrakvacations.com/destinations/chicago-il?nav=)
         * [Denver, CO](https://www.amtrakvacations.com/destinations/denver-co?nav=)
         * [Charleston, SC](https://www.amtrakvacations.com/destinations/charleston-sc?nav=)
