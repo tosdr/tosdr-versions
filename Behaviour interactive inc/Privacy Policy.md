@@ -235,7 +235,7 @@ If you have any questions regarding the Policy or if you want to exercise your l
 * [http://support.bhvr.com](http://support.bhvr.com/) or;
 * by mail: Attn: Legal Department, Behaviour Interactive Inc., 500-6666 Saint-Urbain Street, Montreal, Quebec H2S 3H1, Canada.
 
-Privacy Officer contact information: [privacy@BHVR.com](mailto:privacyofficer@bhvr.com).
+Privacy Officer contact information: [privacy@BHVR.com](mailto:privacyofficer@BHVR.com).
 
 **15\. California Privacy Rights**
 
