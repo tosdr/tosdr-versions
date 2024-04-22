@@ -2,8 +2,6 @@
 
 [Skip to content](#content)
 
-🇺🇸 **Memorial Weekend Holiday Hours** | [**Learn More**](#MD) 🇺🇸
-
 ✨ **Nurture Your Mind Event | [Save $30 on the Smart Assessment](https://adhdonline.com/)** ✨
 
 **🚧** Important Notice for Today’s Zoom Provider Visits: **[Mobile Service Outage Alert](#mobile-service-outage)**.
@@ -290,16 +288,6 @@ If you have a concern about the safety and quality of care, please contact ADHD 
 © 2024 Mentavi Health, Inc. All Rights Reserved. | [Privacy policy](https://adhdonline.com/privacy-policy/) | [Notice of privacy practices](https://adhdonline.com/notice-of-privacy-practices/) | [Terms & conditions](https://adhdonline.com/terms-conditions/) | [No Show & Refund policy](https://adhdonline.com/refund-policy/)
 
 **If you are having suicidal thoughts please immediately call or text the National Suicide Prevention Hotline at [988](tel:988)**
-
-![](https://adhdonline.com/wp-content/uploads/2024/05/Holiday-Hours-Sign-2024.png)
-
-##### **Looking to take our assessment? That’s available all day, every day, whenever and wherever is best for you!**
-
-ADHD Online will be closed on Monday, May 27, 2024, in observance of the Memorial Day holiday.
-
-Live support will be unavailable on Monday, May 27. Send us an email or leave a message, and we’ll get back to you as soon as possible when we return on Tuesday, May 28.
-
-Please note that each clinician sets their holiday hours and may be processing your requests during this time or may also be out.
 
 ![](https://adhdonline.com/wp-content/uploads/2023/10/Portal-outage-sign.png)
 
