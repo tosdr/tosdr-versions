@@ -1,8 +1,6 @@
 Close
 
-Box Hubs is here! Enable secure, intelligent portals — and surface great content faster.
-
-[Learn more](https://www.box.com/hubs)
+See new innovations that empower every line of business. Join us May 15 at Content Cloud Summit! [Register now](https://events.box.com/series/content-cloud-summit-2024/landing_page)
 
 [](https://www.box.com/home)Main Navigation
 
@@ -67,15 +65,13 @@ Box Hubs is here! Enable secure, intelligent portals — and surface great conte
     
     [See all products & features](https://www.box.com/products-and-features)
     
-    ![Box Hubs](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    ![Box AI](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    BETA
+    ###### Speed up work with Box AI
     
-    ###### Box Hubs is here
+    Ask anything and get instant answers, or create content in seconds, with Box AI for Notes and Box AI for Documents.
     
-    Curate, organize, and publish great content faster with secure, intelligent portals.
-    
-    [Learn more](https://www.box.com/hubs)
+    [Learn more](https://www.box.com/ai)
     
 * Solutions
     
@@ -357,7 +353,7 @@ Should you have any questions or to inquire further about the Cookie Notice plea
         * [Demos](https://www.box.com/events/live-demos)
         * [Downloads](https://www.box.com/resources/downloads)
         * [Resource center](https://www.box.com/resources)
-* * * [United States (English)](https://www.box.com/home)
+* * * [United States (English)](https://www.box.com/en-us/home)
         * [United Kingdom (English)](https://www.box.com/en-gb/home)
         * [India (English)](https://www.box.com/en-in/home)
         * [Netherlands (English)](https://www.box.com/en-nl/home)
