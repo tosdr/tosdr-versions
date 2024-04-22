@@ -74,7 +74,7 @@ Connaître l'Assemblée
 
 [Statistiques et chiffres clés](https://www2.assemblee-nationale.fr/16/statistiques-de-l-activite-parlementaire) [Transparence et déontologie](https://www.assemblee-nationale.fr/dyn/transparence-et-deontologie) [Documents de référence( Constitution | Règlement de l'Assemblée ... )](https://www.assemblee-nationale.fr/dyn/documents-de-reference)
 
-[Histoire](https://www.assemblee-nationale.fr/dyn/histoire-et-patrimoine) [Juniors](https://www2.assemblee-nationale.fr/decouvrir-l-assemblee/juniors) [Anciennes législatures](http://archives.assemblee-nationale.fr/) [Liens vers les sites publics](https://www.assemblee-nationale.fr/liens.asp)
+[Histoire](https://www.assemblee-nationale.fr/dyn/histoire) [Juniors](https://www2.assemblee-nationale.fr/decouvrir-l-assemblee/juniors) [Anciennes législatures](http://archives.assemblee-nationale.fr/) [Liens vers les sites publics](https://www.assemblee-nationale.fr/liens.asp)
 
 Découvrir les lieux
 
@@ -82,7 +82,7 @@ Découvrir les lieux
 
 [Visiter l'Assemblée](https://www.assemblee-nationale.fr/dyn/visite) [Visite virtuelle du palais Bourbon](https://www.assemblee-nationale.fr/dyn/visite-virtuelle) [Assister à une séance](https://www2.assemblee-nationale.fr/informations-pratiques/assister-a-une-seance-publique) [Accès des chercheurs à l’Assemblée](https://www2.assemblee-nationale.fr/decouvrir-l-assemblee/ouverture-de-l-assemblee-aux-chercheurs2)
 
-[Patrimoine](https://www.assemblee-nationale.fr/dyn/histoire-et-patrimoine) [Bibliothèque et archives](https://www2.assemblee-nationale.fr/informations-pratiques/bibliotheque-et-archives) [Contacts et plan d'accès](https://www.assemblee-nationale.fr/dyn/visite/contact) [Photos libres de droit](https://www.assemblee-nationale.fr/presse/photos.asp)
+[Patrimoine](https://www2.assemblee-nationale.fr/decouvrir-l-assemblee/patrimoine) [Bibliothèque et archives](https://www2.assemblee-nationale.fr/informations-pratiques/bibliotheque-et-archives) [Contacts et plan d'accès](https://www.assemblee-nationale.fr/dyn/visite/contact) [Photos libres de droit](https://www.assemblee-nationale.fr/presse/photos.asp)
 
 Connexion & inscription
 
@@ -281,11 +281,11 @@ Connaître l'Assemblée
 
 * * *
 
-[Histoire](https://www.assemblee-nationale.fr/dyn/histoire-et-patrimoine) [Juniors](https://www2.assemblee-nationale.fr/decouvrir-l-assemblee/juniors) [Anciennes législatures](http://archives.assemblee-nationale.fr/) [Liens vers les sites publics](https://www.assemblee-nationale.fr/liens.asp)
+[Histoire](https://www.assemblee-nationale.fr/dyn/histoire) [Juniors](https://www2.assemblee-nationale.fr/decouvrir-l-assemblee/juniors) [Anciennes législatures](http://archives.assemblee-nationale.fr/) [Liens vers les sites publics](https://www.assemblee-nationale.fr/liens.asp)
 
 ![](/dyn/assets/images/icons/icon_connaissance.png)
 
 Découvrir les lieux
 
 [Visiter l'Assemblée](https://www.assemblee-nationale.fr/dyn/visite) [Visite virtuelle du palais Bourbon](https://www.assemblee-nationale.fr/dyn/visite-virtuelle) [Assister à une séance](https://www2.assemblee-nationale.fr/informations-pratiques/assister-a-une-seance-publique) [Accès des chercheurs à l’Assemblée](https://www2.assemblee-nationale.fr/decouvrir-l-assemblee/ouverture-de-l-assemblee-aux-chercheurs2)  
-[Patrimoine](https://www.assemblee-nationale.fr/dyn/histoire-et-patrimoine) [Bibliothèque et archives](https://www2.assemblee-nationale.fr/informations-pratiques/bibliotheque-et-archives) [Contacts et plan d'accès](https://www.assemblee-nationale.fr/dyn/visite/contact) [Photos libres de droit](https://www.assemblee-nationale.fr/presse/photos.asp)
+[Patrimoine](https://www2.assemblee-nationale.fr/decouvrir-l-assemblee/patrimoine) [Bibliothèque et archives](https://www2.assemblee-nationale.fr/informations-pratiques/bibliotheque-et-archives) [Contacts et plan d'accès](https://www.assemblee-nationale.fr/dyn/visite/contact) [Photos libres de droit](https://www.assemblee-nationale.fr/presse/photos.asp)
