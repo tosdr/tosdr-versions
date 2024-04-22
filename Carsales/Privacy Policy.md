@@ -127,7 +127,7 @@ Privacy Policy
 What is a privacy policy and what is personal information?
 ----------------------------------------------------------
 
-This policy sets out how CAR Group Limited (formerly carsales.com Limited), CS Marketplace Pty Ltd, carsales Services Pty Ltd, Tyresales Pty Ltd, Tyreconnect Pty Ltd and Appraisal Solutions Pty Ltd (“carsales”) collect, use, disclose and manage your personal information. Other group companies of carsales have their own privacy policies which can be found on their websites.
+This policy sets out how CAR Group Limited (formerly carsales.com Limited), CS Marketplace Pty Ltd, Tyresales Pty Ltd, Tyreconnect Pty Ltd and Appraisal Solutions Pty Ltd (“carsales”) collect, use, disclose and manage your personal information. Other group companies of carsales have their own privacy policies which can be found on their websites.
 
 Personal information is information or an opinion about an identified individual, or an individual who is reasonably identifiable.
 
@@ -154,7 +154,7 @@ If, through using a carsales Network website, app or our services you disclose p
 How does carsales protect my privacy?
 -------------------------------------
 
-carsales respects the importance of your privacy and is bound by the Privacy Act (1988) (Cth) (“Privacy Act”) including the Australian Privacy Principles (“APPs”), and applicable privacy regulations. carsales is committed to protecting your privacy when managing your personal information and has policies and procedures to ensure that personal information is handled in accordance with the Privacy Act and the APPs.
+carsales respects the importance of your privacy and is bound by the Privacy Act (1988) (Cth) (“Privacy Act”) including the Australian Privacy Principles (APPs), and applicable privacy regulations. carsales is committed to protecting your privacy when managing your personal information and has policies and procedures to ensure that personal information is handled in accordance with the Privacy Act and the APPs.
 
 What personal information about me is collected?
 ------------------------------------------------
@@ -196,9 +196,9 @@ carsales collects personal information in a number of ways, including:
 * from social networks where you choose to share that information when creating an account;
 * from third party data providers and other entities where you have directed or otherwise consented to the collecting entity (or a service provider on its behalf) sending us data;
 * through use of carsales’ proprietary software in which personal information is stored;
-* from organisations identified or described under the heading ‘How is personal information shared’, which include carsales’ global group of companies, our service providers and other third parties so that we may provide an enhanced and more relevant user experience, service or product to you.
+* from organisations identified or described under the heading ‘How is personal information disclosed’, which include carsales’ global group of companies, our service providers and other third parties so that we may provide an enhanced and more relevant user experience, service or product to you.
 
-carsales may also collect personal information about you if you are a CAR Group Limited shareholder. This information may be collected from you directly or from third parties such as CAR Group Limited’s share registry.
+carsales may also collect personal information about you if you are a carsales shareholder. This information may be collected from you directly when you subscribe to receive email alerts via the carsales website or from third parties such as carsales’ share registry.
 
 How is my personal information used?
 ------------------------------------
@@ -210,7 +210,6 @@ More specifically, your personal information may be used for purposes including:
 * to maintain appropriate business records or manage our relationship with you;
 * to research, develop and provide carsales’ products and services and by carsales’ outsourced service providers to provide and improve their services;
 * to facilitate transactions between you and third party sellers, including third party retailers;
-* to verify your identity and bank account details in order to provide carsales’ products and services to you;
 * to respond to an enquiry or provide services, products or assistance that you request from us;
 * to enhance user experience, for example to pre-populate, customise, and provide shortcuts on our websites;
 * to conduct surveys, such as to determine use and satisfaction with carsales Network services or to gauge industry trends;
@@ -228,7 +227,6 @@ How is my personal information shared?
 carsales may disclose personal information to individuals and organisations other than carsales in accordance with the terms of this privacy policy and where such disclosure is authorised by law. The organisations to which we may disclose personal information include:
 
 * carsales’ global group of companies and their personnel;
-* verification of identity service providers;
 * the public if you advertise with carsales or use publicly available communications services facilitated by carsales;
 * third party sellers to facilitate transactions between you and these third party sellers. Third party sellers may in turn share your information with parties who provide services to them (such as courier or delivery service providers) in order to provide goods and services to you;
 * individuals and organisations that advertise with carsales if you submit an enquiry or seek or acquire certain services through carsales - or a third party supplier working with that advertiser to provide those services. Depending on your enquiry or the services being sought or acquired, these may include:
@@ -242,7 +240,7 @@ carsales may disclose personal information to individuals and organisations othe
     * vehicle inspection service providers;
     * transportation service providers;
     * payment service providers; and
-    * outsourced service providers who assist any of the above persons to provide services.If you do not want carsales to disclose your personal information to these individuals and organisations, you should not submit an enquiry or acquire those services.
+    * outsourced service providers who assist any of the above persons to provide services;If you do not want carsales to disclose your personal information to these individuals and organisations, you should not submit an enquiry or acquire those services.
 * outsourced service providers who assist carsales to provide its services including:
     * information technology providers;
     * marketing and market research advisers and survey providers;
@@ -280,7 +278,7 @@ carsales takes reasonable steps to protect personal information collected from m
 Is my personal information shared outside of Australia?
 -------------------------------------------------------
 
-Some of carsales’ service providers are located outside Australia, including in the United States of America, Chile, Mexico, India, South Korea, Brazil, Ireland and Singapore. It may be necessary to disclose your personal information to those service providers for some of the purposes listed above. carsales uses reasonable endeavours to ensure that overseas service providers comply with the Privacy Act and APPs. By providing carsales with your personal information, you consent to the disclosure and transfer of your personal information outside Australia as set out in this privacy policy.
+Some of carsales’ service providers are located outside Australia, including in the United States of America, Chile, Mexico, India, South Korea and Singapore. It may be necessary to disclose your personal information to those service providers for some of the purposes listed above. carsales uses reasonable endeavours to ensure that overseas service providers comply with the Privacy Act and APPs. By providing carsales with your personal information, you consent to the disclosure and transfer of your personal information outside Australia as set out in this privacy policy.
 
 Can I deal with carsales anonymously?
 -------------------------------------
@@ -338,7 +336,7 @@ Does this policy change?
 
 This policy may change over time. All changes will be published on this website and will only apply to personal information that has been collected after the date you accept the new privacy policy. If the changes will impact personal information collected prior to the date the changes are made then we will provide 30 days’ written notice to you of the relevant changes, where reasonably possible.
 
-_Version 12.0 (May 2024)_
+_Version 11.0 (January 2024)_
 
 Contact
 
