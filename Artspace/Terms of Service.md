@@ -25,8 +25,8 @@ GET 10% OFF YOUR FIRST ORDER](https://www.artspace.com/account_creation)
     
     * [ART](https://www.artspace.com/art)
         
-        * [New and Now](https://www.artspace.com/tags/june-featured-new-now/)
-        * [Best Sellers](https://www.artspace.com/tags/may-featured-best-sellers/)
+        * [New and Now](https://www.artspace.com/tags/april-featured-new-now/)
+        * [Best Sellers](https://www.artspace.com/tags/january-2024-featured-best-sellers/)
         * [Iconic Artists](https://www.artspace.com/collections/iconic-artists)
         * [Curated Collections](https://www.artspace.com/collections/curated-collections)
         * [Shop by Medium](https://www.artspace.com/collections/shop-by-medium)
@@ -37,7 +37,9 @@ GET 10% OFF YOUR FIRST ORDER](https://www.artspace.com/account_creation)
         
     * [Design](https://www.artspace.com/collections/designed-living)
         
-        * [Spring Refresh](https://www.artspace.com/tags/spring-refresh-new-arrivals/)
+        * [For Your Home](https://www.artspace.com/tags/designed-living-for-your-home)
+        * [For Entertaining](https://www.artspace.com/tags/designed-living-for-entertaining)
+        * [Apparel And Accessories](https://www.artspace.com/tags/designed-living-apparel-and-accessories)
         * [Julian Opie Collection](https://www.artspace.com/tags/julian-opie-collection)
         * [Shop All Designs](https://www.artspace.com/designstore?page=1)
         
@@ -50,17 +52,17 @@ GET 10% OFF YOUR FIRST ORDER](https://www.artspace.com/account_creation)
     * [Magazine](https://www.artspace.com/magazine)
         
         * [Interviews & Features](https://www.artspace.com/magazine/interviews_features)
+        * [From a Phaidon Editor](https://www.artspace.com/magazine/from-a-phaidon-editor)
+        * [Instant Expert](https://www.artspace.com/magazine/instant-expert)
         * [News & Events](https://www.artspace.com/magazine/news_events)
         * [Art 101](https://www.artspace.com/magazine/art_101)
         * [Contributors](https://www.artspace.com/magazine/contributors)
         
-    * [How To Collect Art](https://www.artspace.com/collections/how-to-collect-art)
-        
     
 * [ART](https://www.artspace.com/art)
     
-    * [New and Now](https://www.artspace.com/tags/june-featured-new-now/)
-    * [Best Sellers](https://www.artspace.com/tags/may-featured-best-sellers/)
+    * [New and Now](https://www.artspace.com/tags/april-featured-new-now/)
+    * [Best Sellers](https://www.artspace.com/tags/january-2024-featured-best-sellers/)
     * [Iconic Artists](https://www.artspace.com/collections/iconic-artists)
     * [Curated Collections](https://www.artspace.com/collections/curated-collections)
     * [Shop by Medium](https://www.artspace.com/collections/shop-by-medium)
@@ -71,7 +73,9 @@ GET 10% OFF YOUR FIRST ORDER](https://www.artspace.com/account_creation)
     
 * [Design](https://www.artspace.com/collections/designed-living)
     
-    * [Spring Refresh](https://www.artspace.com/tags/spring-refresh-new-arrivals/)
+    * [For Your Home](https://www.artspace.com/tags/designed-living-for-your-home)
+    * [For Entertaining](https://www.artspace.com/tags/designed-living-for-entertaining)
+    * [Apparel And Accessories](https://www.artspace.com/tags/designed-living-apparel-and-accessories)
     * [Julian Opie Collection](https://www.artspace.com/tags/julian-opie-collection)
     * [Shop All Designs](https://www.artspace.com/designstore?page=1)
     
@@ -84,11 +88,11 @@ GET 10% OFF YOUR FIRST ORDER](https://www.artspace.com/account_creation)
 * [Magazine](https://www.artspace.com/magazine)
     
     * [Interviews & Features](https://www.artspace.com/magazine/interviews_features)
+    * [From a Phaidon Editor](https://www.artspace.com/magazine/from-a-phaidon-editor)
+    * [Instant Expert](https://www.artspace.com/magazine/instant-expert)
     * [News & Events](https://www.artspace.com/magazine/news_events)
     * [Art 101](https://www.artspace.com/magazine/art_101)
     * [Contributors](https://www.artspace.com/magazine/contributors)
-    
-* [How To Collect Art](https://www.artspace.com/collections/how-to-collect-art)
     
 
 TERMS OF USE
