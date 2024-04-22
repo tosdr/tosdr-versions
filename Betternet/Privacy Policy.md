@@ -1,54 +1,73 @@
 [Skip to main content](#skip-content)
 
-[](https://aura.com/)
+[Pricing](https://aura.com/pricing)
+
+Features
+
+[Financial Fraud Protection](https://aura.com/credit-monitoring)[Identity Theft Protection](https://aura.com/identity-theft-protection)[VPN & Online Privacy](https://aura.com/vpn)[Antivirus](https://aura.com/antivirus)[Password Manager & Smart Vault](https://aura.com/password-manager)[Parental Controls & Safe Gaming](https://aura.com/parental-controls)[Spam Call Protection](https://aura.com/spam-call-message-protection)
+
+Resources
+
+[Customer Service](https://aura.com/customer-service)[FAQ](https://aura.com/faq)[Help](https://aura.com/help)[Digital Security 101](https://aura.com/digital-security-101)[Newsroom](https://aura.com/press)[Partnerships](https://aura.com/partnerships)[Resolution Resources](https://aura.com/resolution-resources)
+
+[How Aura Works](https://aura.com/aura101)
+
+[Login](https://my.aura.com/sign-in)
+
+[![](https://assets-global.website-files.com/607724b2ae76e535db9552ff/62166e52daff624dc62126e8_call.svg)
+
+Call Us](tel:+1844.918.0658)[844.918.0658](tel:+1844.918.0658)
+
+[Help](https://aura.com/help)
 
 [Pricing](https://aura.com/pricing)
 
 Features
 
-![](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/6217a7163eefc57e4be4c560_chevron_down_small%20(1).svg)
+[](#)[](#)
+
+Resources
+
+[](#)[](#)
+
+[How Aura Works](https://aura.com/aura101)
+
+[![Aura Logo](https://assets-global.website-files.com/607724b2ae76e535db9552ff/62165f4202d10a77b94fae6f_name_new.svg)![Aura Logo](https://assets-global.website-files.com/607724b2ae76e535db9552ff/60a19bbfdfec461bee8cfd0b_aura-logo-footer-white.svg)](https://aura.com/)
+
+[Sign in](https://my.aura.com/sign-in)
+
+[Help](https://aura.com/help)
+
+[Start Free Trial](https://aura.com/pricing)[Start Free Trial](https://aura.com/pricing)
+
+[Start Free Trial](https://aura.com/pricing)
+
+[![](https://assets-global.website-files.com/607724b2ae76e535db9552ff/62166e128912883765dd66e1_close.svg)](#)
 
 [Financial Fraud Protection](https://aura.com/credit-monitoring)[Identity Theft Protection](https://aura.com/identity-theft-protection)[VPN & Online Privacy](https://aura.com/vpn)[Antivirus](https://aura.com/antivirus)
 
-[Password Manager & Vault](https://aura.com/password-manager)[Parental Controls & Safe Gaming](https://aura.com/parental-controls)[Spam Call Protection](https://aura.com/spam-call-message-protection)
+[Password Manager & Vault](https://aura.com/password-manager)[Parental Controls &  
+Safe Gaming](https://aura.com/parental-controls)[Spam Call Protection](https://aura.com/spam-call-message-protection)
 
-![](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/64e64cdf63f9ecf823fa0f0f_Frame%206960196.svg)
+![](https://assets-global.website-files.com/607724b2ae76e535db9552ff/6602a99f5e5fa99549542e82_gift-aura.svg)
 
 Digital Security 101
 
 Gift Aura
 
-New
-
 Give the gift of safety to your loved ones or a business
 
 [Learn More](https://aura.com/gift-aura)
 
-Resources
+[Customer Service](https://aura.com/customer-service)[Digital Security 101](https://aura.com/digital-security-101)[FAQ](https://aura.com/faq)[Newsroom](https://aura.com/press)[Help](https://aura.com/help)[Partnerships](https://aura.com/partnerships)[Resolution Resources](https://aura.com/resolution-resources)
 
-![](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/6217a7163eefc57e4be4c560_chevron_down_small%20(1).svg)
+![](https://assets-global.website-files.com/607724b2ae76e535db9552ff/64e64dd636f9a574249300d7_DT-image.webp)
 
-[Customer Service](https://aura.com/customer-service)[FAQ](https://aura.com/faq)[Help](https://aura.com/help)[Resolution Resources](https://aura.com/resolution-resources)
+The Digital Talk
 
-[Digital Security 101](https://aura.com/digital-security-101)[Newsroom](https://aura.com/press)[Partnerships](https://aura.com/partnerships)[Aura & AI](https://aura.com/ai)[Digital Parenthood](https://aura.com/digital-parenthood)
+Your guide to navigating online safety with your kids is here.
 
-![](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/663b6ca7f6a1e13713bfad78_digital-parenthood-img.webp)
-
-Digital Parenthood
-
-Expert advice and community support for parents.
-
-[Learn more](https://aura.com/digital-parenthood)
-
-[How Aura Works](https://aura.com/aura101)
-
-[](https://aura.com/)
-
-[Sign in](https://my.aura.com/sign-in)[Help](https://aura.com/help)
-
-[Start Free Trial](https://aura.com/pricing)
-
-[Start Free Trial](https://aura.com/pricing)[Start Free Trial](https://aura.com/pricing)
+[Read more](https://aura.com/thedigitaltalk)
 
 Privacy Policy
 ==============
@@ -61,13 +80,13 @@ Dernière mise à jour: 
 
 April 8, 2024
 
-![](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/65ae9b3c2f932577d43e4144_globe.svg)[English](http://www.aura.com/legal/privacy-policy)
+![](https://assets-global.website-files.com/607724b2ae76e535db9552ff/65ae9b3c2f932577d43e4144_globe.svg)[English](http://www.aura.com/legal/privacy-policy)
 
 —
 
 [Français](http://www.aura.com/legal/privacy-policy-fr)
 
-![](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/65ae9b3c2f932577d43e4144_globe.svg)[English](http://www.aura.com/legal/privacy-policy)
+![](https://assets-global.website-files.com/607724b2ae76e535db9552ff/65ae9b3c2f932577d43e4144_globe.svg)[English](http://www.aura.com/legal/privacy-policy)
 
 —
 
@@ -421,25 +440,25 @@ September 1, 2023: Reflected new capabilities of the Aura services
 
 [September 8, 2020](https://www.aura.com/archived/2020-09-privacy-policy)
 
-[![Aura](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/633afc8cd7b5a7236e1564e3_Logo.svg)](https://aura.com/)
+[![Aura](https://assets-global.website-files.com/607724b2ae76e535db9552ff/633afc8cd7b5a7236e1564e3_Logo.svg)](https://aura.com/)
 
-[![Download on the App Store](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/621ed13afc9b66f951f246ef_appstore.svg)](https://apps.apple.com/us/app/aura-protect-your-identity/id1547735089)[![Get it on Google Play](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/621ed13af2bd35b1e7edf2ec_googleplay.svg)](https://play.google.com/store/apps/details?id=com.aura.suite)
+[![Download on the App Store](https://assets-global.website-files.com/607724b2ae76e535db9552ff/621ed13afc9b66f951f246ef_appstore.svg)](https://apps.apple.com/us/app/aura-protect-your-identity/id1547735089)[![Get it on Google Play](https://assets-global.website-files.com/607724b2ae76e535db9552ff/621ed13af2bd35b1e7edf2ec_googleplay.svg)](https://play.google.com/store/apps/details?id=com.aura.suite)
 
 [Help](https://aura.com/help)[Digital Security 101](https://aura.com/digital-security-101)[Contact](https://aura.com/contact)[Corporate Responsibility](https://aura.com/aura-cares)
 
 Corporate Responsibility
 
-![](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/628a3e1d2cc6d58e9c333b6f_plus.svg)![](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/628a3e438b652b3e2361fce0_minus.svg)
+![](https://assets-global.website-files.com/607724b2ae76e535db9552ff/628a3e1d2cc6d58e9c333b6f_plus.svg)![](https://assets-global.website-files.com/607724b2ae76e535db9552ff/628a3e438b652b3e2361fce0_minus.svg)
 
 [Aura Cares
 
-![](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/630e808571b88b5ecf16dd90_shape.svg)](https://aura.com/aura-cares#Aura-Cares-Home)[Military Program
+![](https://assets-global.website-files.com/607724b2ae76e535db9552ff/630e808571b88b5ecf16dd90_shape.svg)](https://aura.com/aura-cares#Aura-Cares-Home)[Military Program
 
-![](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/630e808571b88b5ecf16dd90_shape.svg)](https://aura.com/aura-cares?tab=id1#anchor)[Climate Action
+![](https://assets-global.website-files.com/607724b2ae76e535db9552ff/630e808571b88b5ecf16dd90_shape.svg)](https://aura.com/aura-cares?tab=id1#anchor)[Climate Action
 
-![](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/630e8085c64bf7f5e7ad14ad_Union.svg)![](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/630e808571b88b5ecf16dd90_shape.svg)](https://aura.com/aura-cares?tab=id2#anchor)[Innovation
+![](https://assets-global.website-files.com/607724b2ae76e535db9552ff/630e8085c64bf7f5e7ad14ad_Union.svg)![](https://assets-global.website-files.com/607724b2ae76e535db9552ff/630e808571b88b5ecf16dd90_shape.svg)](https://aura.com/aura-cares?tab=id2#anchor)[Innovation
 
-![](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/630e8085c64bf7f5e7ad14ad_Union.svg)![](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/630e808571b88b5ecf16dd90_shape.svg)](https://aura.com/aura-cares?tab=id3#anchor)
+![](https://assets-global.website-files.com/607724b2ae76e535db9552ff/630e8085c64bf7f5e7ad14ad_Union.svg)![](https://assets-global.website-files.com/607724b2ae76e535db9552ff/630e808571b88b5ecf16dd90_shape.svg)](https://aura.com/aura-cares?tab=id3#anchor)
 
 [support@aura.com](mailto:support@aura.com)[833.552.2123](tel:+18335522123)
 
@@ -447,15 +466,15 @@ Corporate Responsibility
 
 Partner with Us
 
-![](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/628a3e1d2cc6d58e9c333b6f_plus.svg)![](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/628a3e438b652b3e2361fce0_minus.svg)
+![](https://assets-global.website-files.com/607724b2ae76e535db9552ff/628a3e1d2cc6d58e9c333b6f_plus.svg)![](https://assets-global.website-files.com/607724b2ae76e535db9552ff/628a3e438b652b3e2361fce0_minus.svg)
 
 [Partnerships
 
-![](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/630e808571b88b5ecf16dd90_shape.svg)](https://aura.com/partnerships)[Affiliate Program
+![](https://assets-global.website-files.com/607724b2ae76e535db9552ff/630e808571b88b5ecf16dd90_shape.svg)](https://aura.com/partnerships)[Affiliate Program
 
-![](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/630e808571b88b5ecf16dd90_shape.svg)](https://aura.com/affiliate-program)[Influencer Program
+![](https://assets-global.website-files.com/607724b2ae76e535db9552ff/630e808571b88b5ecf16dd90_shape.svg)](https://aura.com/affiliate-program)[Influencer Program
 
-![](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/630e8085c64bf7f5e7ad14ad_Union.svg)![](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/630e808571b88b5ecf16dd90_shape.svg)](https://aura.com/influencer-program)
+![](https://assets-global.website-files.com/607724b2ae76e535db9552ff/630e8085c64bf7f5e7ad14ad_Union.svg)![](https://assets-global.website-files.com/607724b2ae76e535db9552ff/630e808571b88b5ecf16dd90_shape.svg)](https://aura.com/influencer-program)
 
 [support@aura.com](mailto:support@aura.com)[855.443.7748](tel:+18554437748)
 
@@ -465,9 +484,9 @@ Partner with Us
 
 [Legal](https://aura.com/legal)[Privacy Policy](https://aura.com/legal/privacy-policy)[Your Privacy Choices
 
-![](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/645e57713319559e19d53f11_privacy-choices.svg)](https://aura.com/legal/your-privacy-choices)
+![](https://assets-global.website-files.com/607724b2ae76e535db9552ff/645e57713319559e19d53f11_privacy-choices.svg)](https://aura.com/legal/your-privacy-choices)
 
-[![Logo of LinkedIn](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/621668587edc51bed2521952_Facebook.svg)](https://www.linkedin.com/company/auracompany/)[![Logo of X](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/65970cca766c2513dd0a31e5_x-logo.svg)](https://twitter.com/Aura_Protects)[![Logo of Instagram](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/62166858e8e5608c38e472f5_Instagram.svg)](https://www.instagram.com/aura_protects/)[![Logo of Facebook](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/62166855daff62955d20fc1f_Facebook-1.svg)](https://www.facebook.com/AuraProtects)[![Logo of YouTube](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/65422e863a42a95d6e9c6782_youtube.svg)](https://www.youtube.com/@AuraProtects)
+[![Logo of LinkedIn](https://assets-global.website-files.com/607724b2ae76e535db9552ff/621668587edc51bed2521952_Facebook.svg)](https://www.linkedin.com/company/auracompany/)[![Logo of X](https://assets-global.website-files.com/607724b2ae76e535db9552ff/65970cca766c2513dd0a31e5_x-logo.svg)](https://twitter.com/Aura_Protects)[![Logo of Instagram](https://assets-global.website-files.com/607724b2ae76e535db9552ff/62166858e8e5608c38e472f5_Instagram.svg)](https://www.instagram.com/aura_protects/)[![Logo of Facebook](https://assets-global.website-files.com/607724b2ae76e535db9552ff/62166855daff62955d20fc1f_Facebook-1.svg)](https://www.facebook.com/AuraProtects)[![Logo of YouTube](https://assets-global.website-files.com/607724b2ae76e535db9552ff/65422e863a42a95d6e9c6782_youtube.svg)](https://www.youtube.com/@AuraProtects)
 
 \*The Identity Theft Insurance is underwritten and administered by American Bankers Insurance Company of Florida, an Assurant company. Please refer to the actual policies for terms, conditions, and exclusions of coverage. Coverage may not be available in all jurisdictions. Review the [Summary of Benefits](https://www.aura.com/legal/insurance-summary-of-benefits).
 
