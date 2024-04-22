@@ -12,11 +12,11 @@ Close menu
             
         * [National Advertising Division](https://bbbprograms.org/programs/advertising/national-advertising-division2)
             
-        * [Children's Advertising Review Unit](https://bbbprograms.org/programs/advertising/children%27s-advertising-review-unit)
+        * [Children's Advertising Review Unit](https://bbbprograms.org/programs/advertising/children's-advertising-review-unit)
             
-        * [Children's Food & Beverage Advertising Initiative](https://bbbprograms.org/programs/advertising/children%27s-food-beverage-advertising-initiative3)
+        * [Children's Food & Beverage Advertising Initiative](https://bbbprograms.org/programs/advertising/children's-food-beverage-advertising-initiative3)
             
-        * [Children's Confection Advertising Initiative](https://bbbprograms.org/programs/advertising/children%27s-confection-advertising-initiative3)
+        * [Children's Confection Advertising Initiative](https://bbbprograms.org/programs/advertising/children's-confection-advertising-initiative3)
             
         * [Direct Selling Self-Regulatory Council](https://bbbprograms.org/programs/advertising/direct-selling-self-regulatory-council2)
             
@@ -44,7 +44,7 @@ Close menu
             
         * [Data Privacy Framework Services](https://bbbprograms.org/programs/privacy/privacy-shield-2)
             
-        * [Children's Advertising Review Unit](https://bbbprograms.org/programs/privacy/children%27s-advertising-review-unit)
+        * [Children's Advertising Review Unit](https://bbbprograms.org/programs/privacy/children's-advertising-review-unit)
             
         * [Digital Advertising Accountability Program](https://bbbprograms.org/programs/privacy/digital-advertising-accountability-program3)
             
