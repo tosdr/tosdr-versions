@@ -136,21 +136,21 @@ _This privacy policy was last updated on 24th May 2018, with minor clarification
 
 ### See also
 
-[The Army Game. Image shows left to right: Cpl 'Flogger' Hoskins (Harry Fowler), Pte Leonard Bone (Ted Lune), Pte 'Chubby' Catchpole (Dick Emery), L/Cpl Ernest 'Moosh' Merryweather (Mario Fabrizi)](https://www.comedy.co.uk/features/comedy-rewind/the-army-game/)Features
+[Deryck Guyler](https://www.comedy.co.uk/features/comedy_chronicles/deryck-guyler/)Features
 
-[Comedy Rewind: The Army Game on parade](https://www.comedy.co.uk/features/comedy-rewind/the-army-game/)
+[Comedy Chronicles: Oh yes! - The comic guile of Deryck Guyler](https://www.comedy.co.uk/features/comedy_chronicles/deryck-guyler/)
 
-[Red Raw at The Stand Edinburgh. Credit: Bobby Carroll](https://www.comedy.co.uk/live/features/bobby-carroll-diary-edinburgh-new-act-night-special/)Live
+[In The Doghouse. James Fox-Upton (Leslie Phillips). Credit: Rank Organisation](https://www.comedy.co.uk/people/leslie_phillips/features/ding-dong-leslie-phillips-at-100/)People
 
-[Edinburgh New Act Night Special - Bobby Carroll's Live Comedy Diary](https://www.comedy.co.uk/live/features/bobby-carroll-diary-edinburgh-new-act-night-special/)
+[Ding dong!: Leslie Phillips at 100](https://www.comedy.co.uk/people/leslie_phillips/features/ding-dong-leslie-phillips-at-100/)
 
-[Louise Atkinson](https://www.comedy.co.uk/live/fgwg/louise-atkinson/)Live
+[Kathy Maniura](https://www.comedy.co.uk/live/fgwg/kathy-maniura/)Live
 
-[First Gig, Worst Gig: Louise Atkinson](https://www.comedy.co.uk/live/fgwg/louise-atkinson/)
+[First Gig, Worst Gig: Kathy Maniura](https://www.comedy.co.uk/live/fgwg/kathy-maniura/)
 
-[Taskmaster: The Live Experience. Image shows left to right: Greg Davies, Alex Horne](https://www.comedy.co.uk/tv/taskmaster/features/taskmaster-is-neurodivergent-friendly/)TV
+[Consolevania. Image shows left to right: Robert Florence, Ryan MacLeod](https://www.comedy.co.uk/online/features/consolevania-at-20/)Online
 
-[Taskmaster is one of the most neurodivergent friendly comedy formats](https://www.comedy.co.uk/tv/taskmaster/features/taskmaster-is-neurodivergent-friendly/)
+[Consolevania turns 20: Robert Florence and Ryan Macleod on making comedy out of video games](https://www.comedy.co.uk/online/features/consolevania-at-20/)
 
 #### [Donate to British Comedy Guide](https://www.comedy.co.uk/donate/)
 
@@ -193,7 +193,7 @@ Privacy settings
 
 * * *
 
-Monkey Tennis?[Alan Partridge](https://www.comedy.co.uk/tv/im_alan_partridge/)
+Geoooooooooorge![Mildred Roper](https://www.comedy.co.uk/tv/george_and_mildred/)
 
 © British Comedy Guide
 
