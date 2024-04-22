@@ -68,73 +68,147 @@ Your Torchlight product key has been emailed to your Arc registered email addres
 Cookie Policy
 =============
 
-**Cookie Policy**
+Summary
 
-This Cookie Policy provides information on how Arc Games Inc. and Arc Games B.V. (collectively “Arc Games”, “we”, “us”, or “our”) use cookies on our websites located at [www.arcgames.com](https://www.arcgames.com/), [www.torchlight1.com](https://www.torchlight1.com/), [www.torchlight2.com](https://www.torchlight2.com/), [www.torchlight3.com](https://www.torchlight3.com/), [www.haveanicedeath.com](https://www.haveanicedeath.com/), [www.hyperlightbreaker.com](https://www.hyperlightbreaker.com/), [www.iplayufogame.com](https://www.iplayufogame.com/), [www.playstartrekonline.com](https://www.playstartrekonline.com/), [www.playneverwinter.com](https://www.playneverwinter.com/), [www.playchampionsonline.com](https://www.playchampionsonline.com/), [www.playpwi.com](https://www.playpwi.com/), [www.gogigantic.com](https://www.gogigantic.com/), and [www.remnantgame.com](https://www.remnantgame.com/) and any micro-site or subdomains of such sites (collectively, the “Website” or our “site”). We encourage you to read the policy in full so that you can understand what information we collect using cookies and how that information is used.
+This cookie policy explains what cookies are and how Gearbox Publishing San Francisco Inc. and Gearbox Publishing Amsterdam BV (collectively “Gearbox,” “we,” “us” or “our”) uses them on our websites located at [sf.gearboxpublishing.com](https://sf.gearboxpublishing.com/), [www.arcgames.com](https://www.arcgames.com/en/games), [www.torchlight1.com](http://www.torchlight1.com/), [www.torchlight2.com](http://www.torchlight2.com/), [www.torchlight3.com](http://www.torchlight3.com/), [www.haveanicedeath.com](http://www.haveanicedeath.com/), [www.hyperlightbreaker.com](http://www.hyperlightbreaker.com/), [www.iplayufogame.com](https://www.iplayufogame.com/), [www.playpwi.com](https://www.playpwi.com/), [www.playneverwinter.com](https://www.playneverwinter.com/), [www.playstartrekonline.com](https://www.playstartrekonline.com/), [www.playchampionsonline.com](https://www.playchampionsonline.com/), [www.remnantgame.com](http://www.remnantgame.com/) and any micro-site or subdomains of such sites (our “site”).  We encourage you to read the policy in full so that you can understand what information we collect using cookies and how that information is used.  By using our site you are agreeing that we can use cookies in accordance with this policy.
 
-To the extent that any personal information is collected through cookies, our [Privacy Policy](https://www.arcgames.com/en/about/privacy) applies and complements this Cookie Policy.
+What are cookies?
 
-This Cookie Policy does not apply to any third-party websites, services, or applications, even if they are accessible through our site. We advise to consult their respective privacy and cookie policies to learn more about how they process your personal information.
+Cookies are text files, containing small amounts of information, which are downloaded to your browsing device (such as a computer or smartphone) when you visit a website.  Cookies can be recognized by the website that downloaded them — or other websites that use the same cookies.  This helps websites know if the browsing device has visited them before. 
 
-**What are cookies?**
+What are cookies used for?
 
-Cookies are small data files that are stored on a user’s hard drive at the request of a Website or the Service (as defined in our [Privacy Policy](https://www.arcgames.com/en/about/privacy)) to enable the Website or the Service to recognize users who have previously visited them and retain certain information such as customer preferences and history. If we combine cookies with or link them to any of the personally identifying information, we would treat this information as personal information. Clear gifs (also known as web bugs or web beacons) are small, invisible graphic images that may be used on the Website or Service or in emails relating to the Website or Service to collect certain information and monitor user activity on the Website or Service. When you receive email from us, we may use web beacons, customized links or similar technologies to determine whether the email has been opened and which links you click in order to provide you more focused email communications or other information. If you wish to block, erase, or be warned of cookies, please refer to your browser or mobile device’s instructions or help screen to learn about these functions. You may not be able to delete or disable cookies on certain mobile devices and/or certain browsers. Remember, if a browser or mobile device is set not to accept cookies or if a user rejects a cookie, some portions of the Website or Service may not function properly. For example, you may not be able to sign in and may not be able to access certain Website or Service features or services. You can find out more information about how to change your browser cookie settings at [www.allaboutcookies.org](http://www.allaboutcookies.org/). To manage Flash cookies, please [click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html).
+Cookies do lots of different jobs, like helping us understand how our website is being used, letting you navigate between pages efficiently, remembering your preferences, and generally improving your browsing experience. Cookies can also help ensure marketing you see online is more relevant to you and your interests.
 
-We may also use third party vendors to serve ads on our Website using cookies. These third parties may place cookies to collect information, and information provided by these devices may be used, among other things, to deliver advertising targeted to your interests and to better understand the usage and visitation of our Service and the other sites tracked by these third parties.  This policy does not apply to, and we are not responsible for, cookies in third party ads or for compliance with such third parties’ privacy policies or data collection practices.
+What types of cookies are used by Gearbox?
 
-**Our use of cookies in the European Union**
-
-The advertising industries in EU have developed schemes to help you opt-out of receiving cookies used for these purposes. You can find out more about the EU scheme from [www.youronlinechoices.eu](http://www.youronlinechoices.eu/). If you would like more information about cookies and targeted advertisements or to opt out of having this information used by companies that are part of the Network Advertising Initiative, please visit [www.networkadvertising.org/choices](http://www.networkadvertising.org/choices). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
-
-Notwithstanding the above, if you are based in the European Union, we will only use, where applicable, strictly necessary, performance, functional, targeting, and social media cookies when you have given your consent for this, as described herein. You can choose whether to accept the use of cookies by indicating your cookie preferences in our cookie management tool located at the footer of each Website.
-
-**What are cookies used for?**
-
-Cookies do lots of different jobs, like helping us understand how our site is being used, letting you navigate between pages efficiently, remembering your preferences, and generally improving your browsing experience. Cookies can also help ensure marketing you see online is more relevant to you and your interests.
-
-**What types of cookies are used by Arc Games?**
-
-The types of cookies used on our site can generally be put into one of the following categories as described below:
+The types of cookies used on our site can generally be put into one of the following categories: strictly necessary; analytics; functionality; and advertising.  You can find out more about each of the cookie categories in the table below.
 
 Strictly Necessary Cookies
 
-These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
+These cookies are essential to make our website work. They enable you to move around the site and use its features. Without these cookies, services that are necessary for you to be able to use our site such as accessing secure areas cannot be provided.
 
-Performance Cookies
+Analytics Cookies    
 
-These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+These cookies collect information about how people are using our website, for example which pages are visited the most often, how people are moving from one link to another and if they get error messages from certain pages. These cookies don’t gather information that identifies you. All information these cookies collect is grouped together with information from other people’s use of our site on an anonymous basis. Overall, these cookies provide us with analytical information about how our site is performing and how we can improve it.
 
-Functional Cookies
+Functionality Cookies
 
-These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
+These cookies allow us to remember choices you make and tailor our site to provide enhanced features and content to you. For example, these cookies can be used to remember your user name, language choice or country selection, they can also be used to remember changes you’ve made to text size, font and other parts of pages that you can customise.       
 
-Targeting Cookies
+Advertising Cookies
 
-These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+These cookies are used to deliver advertisements that are more relevant to you and your interests. They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign. They remember that you have visited a website and this information may be shared with other organisations such as advertising partners. This means after you have been to our site you may see some advertisements about our services elsewhere on the Internet.
 
-Social Media Cookies
+You can see a list of some of the specific cookies which are most frequently used by us in the section below entitled “Cookies used by Gearbox.”
 
-These cookies are set by a range of social media services that we have added to the site to enable you to share our content with your friends and networks. They are capable of tracking your browser across other sites and building up a profile of your interests. This may impact the content and messages you see on other websites you visit. If you do not allow these cookies you may not be able to use or see these sharing tools.
+How long will cookies stay on my browsing Device?
 
-You can see a list of the relevant cookies by way of our cookie management tool located at the footer of each Website.
+The length of time a cookie will stay on your browsing device depends on whether it is a “persistent” or “session” cookie.  Session cookies will only stay on your device until you stop browsing.  Persistent cookies stay on your browsing device after you have finished browsing until they expire or are deleted.  Details of “persistent” and “session” cookies set through our website can be found in the section below entitled “Cookies used by Gearbox.”
 
-**How long will cookies stay on my browsing** **device****?**
+First and third-party cookies               
 
-The length of time a cookie will stay on your browsing device depends on whether it is a “persistent” or “session” cookie. Session cookies will only stay on your device until you stop browsing. Persistent cookies stay on your browsing device after you have finished browsing until they expire or are deleted.
+“First party cookies” are cookies that belong to us and that we place on your device.  “Third-party cookies” are cookies that another party places on your browsing device when you visit our site.
 
-**How** **you can manage cookies from this** **site**
+Third parties setting cookies from our website will be providing a service to us or a function of the site but we do not always control how third party cookies are used.  You should check the third party’s website for more information about how they use cookies.  Details of third parties that set cookies through our website can be found in the section below entitled “Cookies used by Gearbox.”
 
-You can choose whether to accept the use of certain cookies by indicating your cookie preferences on our cookie management tool to activate cookies. Please note that if certain cookies are disabled, not all Website features may operate as intended.
+How to manage cookies from this website
 
-**Changes**
+You can usually use the browser that you are viewing this website through to enable, disable or delete cookies. To do this, follow the instructions provided by your browser (usually located within the “Help,” “Tools” or “Edit” settings).  Please note that if you set your browser to disable cookies, you may not be able to access secure areas of the website and other parts of the website may also not work properly.
+
+You can find out more information about how to change your browser cookie settings at [www.allaboutcookies.org](https://www.allaboutcookies.org/).
+
+Some third parties may use Advertising Cookies to help gather information about your browsing activity so that they can deliver website advertising to you that is relevant to your interests.  The advertising industries in EU have developed schemes to help you opt-out of receiving cookies used for these purposes.  You can find out more about the EU scheme from [www.youronlinechoices.eu](https://www.youronlinechoices.eu/). If you would like more information about cookies and targeted advertisements or to opt out of having this information used by companies that are part of the Network Advertising Initiative, please visit [www.networkadvertising.org/choices](https://www.networkadvertising.org/choices).
+
+Cookies used by Gearbox
+
+The following tables and information set out the cookies which are most frequently used on our website. It also provides details of third parties that set cookies through our website.
+
+Strictly necessary
+
+Session Cookies
+
+* \- First Party
+* \- Session
+* \- Holds user session information, to provide basic functionality
+
+Analytics/Performance cookies
+
+* \- Third Party
+* \- Persistent,session
+* \- Analytics/Tracking.  Provides anonymous/aggregated information about where you go and what you do on Gearbox sites.
+
+Gearbox uses the following analytics cookies and web beacons:
+
+**Google Analytics:** For more [information about Google Analytics click here](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage)
+
+**YouTube Tracking :** For more [information about YouTube click here](https://youtube.com/static?gl=US&template=privacy_guidelines)
+
+**Hasoffers :** For more [information about Hasoffers click here](https://www.hasoffers.com/privacy-policy)
+
+Authentication Cookies
+
+* \- First Party
+* \- Persistent,session
+* \- Gearbox uses cookies to recognize you if you are logged in to Gearbox websites and games, so that we can show you the right information and personalize your experience.
+
+Security cookies
+
+* \- First Party
+* \- Persistent,session
+* \- Gearbox uses cookies to support or enable security features we have deployed, and to help us detect malicious activity and violations of our Terms of Service.
+
+Preferences, features and services cookies
+
+* \- First Party
+* \- Persistent,session
+* \- Gearbox uses cookies to know which language you prefer, what your communications preferences are, and they help you fill out forms on Gearbox.  Plus they provide you with features, insights, and customized content through plugins.
+
+First Visit Cookie
+
+* \- First  Party
+* \- Persistent,session
+* \- Determines if it is the user’s first visit to Gearbox’s website, or portions of a website.
+
+Language Cookie
+
+* \- First Party
+* \- Persistent,session
+* \- Sets the user’s language preference.
+
+Social Cookies
+
+**Facebook :** For more information about Facebook, [Click Here](https://www.facebook.com/about/privacy/your-info-on-other).
+
+**Twitter :** For more information about Twitter, [Click Here](https://twitter.com/en/privacy).
+
+**Tiktok :** For more information about Tiktok, [Click Here](https://www.tiktok.com/legal/cookie-policy?lang=en).
+
+**Snapchat :** For more information about Snapchat, [Click Here](https://www.snap.com/en-US/privacy/privacy-policy).
+
+**YouTube :** For more information about YouTube, [Click Here](https://www.youtube.com/howyoutubeworks/user-settings/privacy/).
+
+* \- Third Party
+* \- Persistent,session
+* \- Social Media / sharing.  Allows you to share comments / ratings / pages / bookmarks and helps to provide access to social networks and social online tools more easily.
+
+Offers/Providers
+
+YouTube cookies
+
+* \- Third Party
+* \- Persistent,session
+* \- Gearbox may embed videos from our official YouTube channel using YouTube’s privacy-enhanced mode. This mode may set cookies on your computer once you click on the YouTube video player, but YouTube will not store personally-identifiable cookie information for playbacks of embedded videos using the privacy-enhanced mode. To find out more please visit YouTube’s embedding videos information page at [https://support.google.com/youtube/bin/answer.py?hl=en-GB&answer=171780](https://support.google.com/youtube/answer/171780?hl=en-GB)
+
+Changes
 
 Information about the cookies used by us may be updated from time to time, so please check back on a regular basis for any changes. The last modification date of this document is shown at the bottom of this page.
 
-**Questions**
+Questions
 
-If you have any questions about this Cookie Policy, please contact us by email at [privacy@arcgames.com](mailto:privacy@arcgames.com).
+If you have any questions about this cookie policy, please contact us by email at [privacy@gearboxsf.com](mailto:privacy@gearboxsf.com).
 
-Last updated: May 30, 2024.
+Last modified June 19, 2023
 
 [](https://www.arcgames.com/en/)
 
