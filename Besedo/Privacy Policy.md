@@ -19,7 +19,7 @@
         
         Discover the power of AI and human moderators – unmatched precision, efficiency, and safety.](https://besedo.com/offers/customized-solution/)
 * [Use Cases](https://besedo.com/use-cases/)
-* [Blog](https://besedo.com/blog/)
+* [Blog](https://besedo.com/knowledge-hub/blog/)
 * [Resources](https://besedo.com/knowledge-hub/)[](#)
     * [Webinars](https://besedo.com/knowledge-hub/library-overview/webinars/)
     * [eBooks](https://besedo.com/knowledge-hub/library-overview/ebooks/)
@@ -190,7 +190,7 @@ The Operator’s business changes constantly, and the Policy will thereby also c
 
 #### [Resources](https://besedo.com/knowledge-hub/)
 
-* [Blog](https://besedo.com/blog/)
+* [Blog](https://besedo.com/knowledge-hub/blog/)
 * [Library Overview](https://besedo.com/knowledge-hub/library-overview/)
 * [Case Studies](https://besedo.com/knowledge-hub/library-overview/case-studies/)
 * [Knowledge Base](https://help.besedo.com/)
