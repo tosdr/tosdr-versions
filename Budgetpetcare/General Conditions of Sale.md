@@ -1,10 +1,10 @@
-SUMMER SUPER SALE!
+PRE-SUMMER SALE!
 
 10% Off + 10% **Cashback**
 
 on all orders -
 
-Use Code : SUMMER10
+Use Code : PRESMR10
 
 * [![Free Shipping](https://budgetpetcare.b-cdn.net/images/truck.png)FREE SHIPPING\* | Guaranteed Delivery](https://www.budgetpetcare.com/ship_returns.aspx)
     
@@ -22,7 +22,7 @@ Use Code : SUMMER10
 
  [![Icon-Cart](https://budgetpetcare.b-cdn.net/images/icon-d/d-Icon-cart.png) 0 Item](https://www.budgetpetcare.com/my_cart.aspx)
 
- [![Icon-heart](https://budgetpetcare.b-cdn.net/images/icon-d/d-Icon-heart1.png) 116193](https://www.budgetpetcare.com/reviews.aspx)
+ [![Icon-heart](https://budgetpetcare.b-cdn.net/images/icon-d/d-Icon-heart1.png) 116172](https://www.budgetpetcare.com/reviews.aspx)
 
  ![Icon-Search](https://budgetpetcare.b-cdn.net/images/icon-d/d-Icon-search1.png)
 
@@ -52,14 +52,11 @@ Use Code : SUMMER10
 * [Horse](https://www.budgetpetcare.com/horse-supplies-104.aspx)
     * [Bots](https://www.budgetpetcare.com/horse-bots-treatment-128.aspx)
     * [Tapewormers](https://www.budgetpetcare.com/horse-tapewormers-treatment-129.aspx)
-    * [Redwormers](https://www.budgetpetcare.com/horse-redwormers-treatment-130.aspx)
     * [Roundwormers](https://www.budgetpetcare.com/horse-roundwormers-treatment-131.aspx)
     * [Skin Care](https://www.budgetpetcare.com/horse-skin-care-treatment-144.aspx)
     * [Joint Care](https://www.budgetpetcare.com/horse-joint-care-treatment-167.aspx)
 * [Bird](https://www.budgetpetcare.com/bird-supplies-110.aspx)
     * [Racing Pigeons](https://www.budgetpetcare.com/bird-racing-pigeons-treatment-143.aspx)
-    * [Mite & Lice](https://www.budgetpetcare.com/bird-mite-and-lice-treatment-171.aspx)
-    * [Wormers](https://www.budgetpetcare.com/bird-wormers-treatment-172.aspx)
 * [Homeopathic](https://www.budgetpetcare.com/homeopathic-supplies-102.aspx)
     * [Anxiety](https://www.budgetpetcare.com/homeopathic-anxiety-treatment-116.aspx)
     * [Joint Pain](https://www.budgetpetcare.com/homeopathic-joint-pain-treatment-117.aspx)
@@ -69,14 +66,13 @@ Use Code : SUMMER10
     * [Vitamins & Supplements](https://www.budgetpetcare.com/homeopathic-vitamins-and-supplements-treatment-165.aspx)
     * [Dental](https://www.budgetpetcare.com/homeopathic-dental-treatment-166.aspx)
 * [Supplements](https://www.budgetpetcare.com/supplements-supplies-108.aspx)
-    * [Dietary & Medication](https://www.budgetpetcare.com/supplements-dietary-and-medication-treatment-138.aspx)
     * [Nutrition](https://www.budgetpetcare.com/supplements-nutrition-treatment-136.aspx)
     * [Vitamins & Minerals](https://www.budgetpetcare.com/supplements-vitamins-and-minerals-treatment-137.aspx)
 * [Hygiene](https://www.budgetpetcare.com/hygiene-supplies-109.aspx)
     * [Oral](https://www.budgetpetcare.com/hygiene-oral-treatment-141.aspx)
     * [Aural](https://www.budgetpetcare.com/hygiene-aural-treatment-142.aspx)
 * Special Offer
-    * [**Prevent Fleas & Ticks**](https://www.budgetpetcare.com/seasonal-offers.aspx)
+    * [**Heartworm Awareness Month**](https://www.budgetpetcare.com/seasonal-offers.aspx)
     * [**Latest Offers**](https://www.budgetpetcare.com/sale.aspx)
     * [New Arrivals](https://www.budgetpetcare.com/new-arrivals.aspx)
     * [**Flash Sale**](https://www.budgetpetcare.com/flash-offers.aspx)
