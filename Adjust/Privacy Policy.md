@@ -619,6 +619,7 @@ Resources
 * [Ebooks](https://www.adjust.com/resources/ebooks/)
 * [Guides](https://www.adjust.com/resources/guides/)
 * [Glossary](https://www.adjust.com/glossary/)
+* [Partner Benchmarks](https://insights.adjust.com/)
 * [Adjust Help Center](https://help.adjust.com/en)
 
 [](https://www.facebook.com/adjustcom)[](https://www.linkedin.com/company/adjustcom/)[](https://twitter.com/adjustcom)[](https://www.instagram.com/adjustcom/)[](https://www.youtube.com/channel/UCLxY21pzKyjTuODjUytJIsA)
