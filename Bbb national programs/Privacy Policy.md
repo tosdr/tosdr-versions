@@ -12,11 +12,11 @@ Close menu
             
         * [National Advertising Division](https://bbbprograms.org/programs/advertising/national-advertising-division2)
             
-        * [Children's Advertising Review Unit](https://bbbprograms.org/programs/advertising/children%27s-advertising-review-unit)
+        * [Children's Advertising Review Unit](https://bbbprograms.org/programs/advertising/children's-advertising-review-unit)
             
-        * [Children's Food & Beverage Advertising Initiative](https://bbbprograms.org/programs/advertising/children%27s-food-beverage-advertising-initiative3)
+        * [Children's Food & Beverage Advertising Initiative](https://bbbprograms.org/programs/advertising/children's-food-beverage-advertising-initiative3)
             
-        * [Children's Confection Advertising Initiative](https://bbbprograms.org/programs/advertising/children%27s-confection-advertising-initiative3)
+        * [Children's Confection Advertising Initiative](https://bbbprograms.org/programs/advertising/children's-confection-advertising-initiative3)
             
         * [Direct Selling Self-Regulatory Council](https://bbbprograms.org/programs/advertising/direct-selling-self-regulatory-council2)
             
@@ -44,7 +44,7 @@ Close menu
             
         * [Data Privacy Framework Services](https://bbbprograms.org/programs/privacy/privacy-shield-2)
             
-        * [Children's Advertising Review Unit](https://bbbprograms.org/programs/privacy/children%27s-advertising-review-unit)
+        * [Children's Advertising Review Unit](https://bbbprograms.org/programs/privacy/children's-advertising-review-unit)
             
         * [Digital Advertising Accountability Program](https://bbbprograms.org/programs/privacy/digital-advertising-accountability-program3)
             
@@ -178,11 +178,11 @@ Other organizations that make use of the BBB brand are governed by their own pri
 
 **Children**
 
-BBB National Programs’ websites are not designed with the purpose of attracting any person under age 16. BBB National Programs does not knowingly collect or maintain any personal information from children under the age of 16. If we learn that we have collected personal information from a child under age 16, we will delete that information. Parents, if you believe your child has provided personal information to us, you can request that the information be deleted by contacting us at [privacy@BBBNP.org](mailto:privacy@bbbnp.org).
+BBB National Programs’ websites are not designed with the purpose of attracting any person under age 16. BBB National Programs does not knowingly collect or maintain any personal information from children under the age of 16. If we learn that we have collected personal information from a child under age 16, we will delete that information. Parents, if you believe your child has provided personal information to us, you can request that the information be deleted by contacting us at [privacy@BBBNP.org](mailto:privacy@BBBNP.org).
 
 **Contact**
 
-If you have an inquiry about BBB National Programs’ privacy practices, please contact us at [privacy@BBBNP.org](mailto:privacy@bbbnp.org)  or by postal mail:
+If you have an inquiry about BBB National Programs’ privacy practices, please contact us at [privacy@BBBNP.org](mailto:privacy@BBBNP.org)  or by postal mail:
 
   
 ATTN: Privacy Compliance  
@@ -303,7 +303,7 @@ III. Choices about your information.
 
 ##### **A. Mailing Lists**
 
-You may unsubscribe from our mailing lists or other routine email communications using the link included at the end of each message or by sending an email to [privacy@BBBNP.org](mailto:privacy@bbbnp.org).
+You may unsubscribe from our mailing lists or other routine email communications using the link included at the end of each message or by sending an email to [privacy@BBBNP.org](mailto:privacy@BBBNP.org).
 
 ##### **B. Individual Usage Information**
 
@@ -342,7 +342,7 @@ We recognize our ongoing responsibility with regard to the privacy of individual
 VIII. Inquiries about BBB National Programs’ Privacy Policy and Practices
 -------------------------------------------------------------------------
 
-If you have comments or concerns about this privacy policy or our privacy practices, you may contact us at [privacy@BBBNP.org](mailto:privacy@bbbnp.org) or by postal mail:
+If you have comments or concerns about this privacy policy or our privacy practices, you may contact us at [privacy@BBBNP.org](mailto:privacy@BBBNP.org) or by postal mail:
 
 ATTN: Privacy Compliance  
 BBB National Programs  
@@ -421,7 +421,7 @@ Subject to some limits, individuals in the EU and EEA countries have a number of
 * **Right to restriction.** The right to obtain the restriction of the processing undertaken by us on your personal information in certain circumstances, such as where the accuracy of the personal information is contested by you, for a period enabling us to verify the accuracy of that personal information; or where BBB National Programs no longer needs to retain the personal data, but you would like us to keep it in order to establish, exercise or defend a legal claim.
 * **Right to object.** The right to object, on grounds relating to your particular situation, to the processing of your personal information.
 
-If you need further assistance regarding the above rights, please contact us at [privacy@BBBNP.org](mailto:privacy@bbbnp.org) and we will consider your request in accordance with applicable law.
+If you need further assistance regarding the above rights, please contact us at [privacy@BBBNP.org](mailto:privacy@BBBNP.org) and we will consider your request in accordance with applicable law.
 
 In some cases, our ability to uphold one or more of these rights for you may be limited, in light of BBB National Programs' role as a private organization providing ADR services through DPF Services in the public interest, or for security, safety, fraud prevention reasons, compliance with regulatory or legal requirements, or because processing is necessary to deliver the services you have requested. Where this is the case, we will inform you of specific details in response to your request.
 
