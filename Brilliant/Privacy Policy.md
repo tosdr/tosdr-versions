@@ -1,8 +1,6 @@
 [![Brilliant](/site_media/version-0/images/brilliant-wordmark-black.svg)](https://brilliant.org/)
 
-[Courses](https://brilliant.org/courses/)
-
-Sign up [Log in](https://brilliant.org/account/login/#login)
+[Courses](https://brilliant.org/courses/) [Sign up](https://brilliant.org/welcome/) [Log in](https://brilliant.org/account/login/#login)
 
 1\. Brilliant.org Privacy Statement
 ===================================
@@ -204,12 +202,12 @@ Furthermore, if we choose to buy or sell assets, user information is typically o
 
 **Right to File Complaint:** You have the right to lodge a complaint about Brilliant's practices with respect to your Personal Data with the supervisory authority of your country or EU Member State.
 
-13\. Changes to this Privacy Statement
+12\. Changes to this Privacy Statement
 --------------------------------------
 
 Brilliant may amend this Privacy Statement from time to time. Use of information we collect now is subject to the Privacy Statement in effect at the time such information is used. If we make changes in the way we use Personal Information, we will notify you by posting an announcement on our website, or via the Service, or sending you an email. Users are bound by any changes to the Privacy Statement when he or she uses the Service after such changes have been first posted.
 
-14\. Questions or Concerns
+13\. Questions or Concerns
 --------------------------
 
 If you have any questions or concerns regarding privacy, please send us a detailed message at [privacy@brilliant.org](mailto:privacy@brilliant.org). We will make every effort to resolve your concerns.
@@ -219,7 +217,7 @@ _The previous version of this document is located [here](https://brilliant.org/p
 
 [Practice math and science questions on the Brilliant iOS app.](https://itunes.apple.com/app/apple-store/id913335252?pt=105095803&ct=brilliant_website_footer&mt=8) [Practice math and science questions on the Brilliant Android app.](https://play.google.com/store/apps/details?id=org.brilliant.android&referrer=utm_source%3Dbrilliant%26utm_medium%3Dsite%26utm_campaign%3Dplaystore_full_footer_icon)
 
-* [![Twitter](/site_media/version-01/images/icon-twitter-x-blue-2.svg)](https://twitter.com/brilliantorg)
+* [Twitter](https://twitter.com/brilliantorg)
 * [Facebook](https://www.facebook.com/brilliantorg)
 * [About](https://brilliant.org/about/)
 * [Careers](https://brilliant.org/careers/)
