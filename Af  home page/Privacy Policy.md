@@ -1,0 +1,1 @@
+This sites collects no data. There are no cookies, and the server logs are deleted daily.
