@@ -14,7 +14,7 @@ If you need to make a warranty claim, please contact us. Alza mobile app and “
 
 ![Telephone](/img/i-tel.svg)
 
-[+44 (0)203 514 4411](tel:+44%20(0)203%20514%204411)
+[+44 (0)203 514 4411](tel:+44 (0)203 514 4411)
 
 ![Mail](/img/i-mail.svg)
 
