@@ -254,7 +254,7 @@ You are here:
 
 * [Home](https://www.amplifiedit.com/home-old-2-2/)
 * [Contact Us](https://www.amplifiedit.com/contact-us/)
-* [Privacy Notice](https://www.cdw.com/content/cdw/en/terms-conditions/privacy-notice/education-privacy-disclosures.html)
+* [Privacy Notice](https://www.amplifiedit.com/privacy-policy/)
 
 © 2023 by Amplified IT LLC
 
