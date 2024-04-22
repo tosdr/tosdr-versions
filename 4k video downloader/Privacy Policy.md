@@ -2,7 +2,7 @@
 
 [](https://www.4kdownload.com/-54 "Home page")
 
-* [4K Video Downloader Plus
+* [4K Video Downloader+
     
     Download videos from YouTube and other sites](https://www.4kdownload.com/products/videodownloader-42)
 * [4K Image Compressor
@@ -296,7 +296,7 @@ We use cookies to ensure you get the best experience on our website. If you cont
 
 Products
 
-[4K Video Downloader Plus](https://www.4kdownload.com/products/videodownloader-42) [4K Tokkit](https://www.4kdownload.com/products/tokkit/17) [4K Stogram](https://www.4kdownload.com/products/stogram-8) [4K YouTube to MP3](https://www.4kdownload.com/products/youtubetomp3-72) [4K Image Compressor](https://www.4kdownload.com/products/imagecompressor) [4K Video to MP3](https://www.4kdownload.com/products/videotomp3/27) [4K Slideshow Maker](https://www.4kdownload.com/products/slideshowmaker/3) [Download](https://www.4kdownload.com/downloads/34)
+[4K Video Downloader+](https://www.4kdownload.com/products/videodownloader-42) [4K Tokkit](https://www.4kdownload.com/products/tokkit/17) [4K Stogram](https://www.4kdownload.com/products/stogram-8) [4K YouTube to MP3](https://www.4kdownload.com/products/youtubetomp3-72) [4K Image Compressor](https://www.4kdownload.com/products/imagecompressor) [4K Video to MP3](https://www.4kdownload.com/products/videotomp3/27) [4K Slideshow Maker](https://www.4kdownload.com/products/slideshowmaker/3) [Download](https://www.4kdownload.com/downloads/34)
 
 Help
 
