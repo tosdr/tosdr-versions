@@ -11,7 +11,7 @@
         Tidal Music ConverterDownload Tidal Music to MP3, FLAC](https://www.audkit.com/tidizer-music-converter.html)
     * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E)
         
-        Audible Audible ConverterConvert Audible Audiobooks to MP3](https://www.audkit.com/audible-aax-converter.html)
+        Audible AAX ConverterConvert Audible Audiobooks to MP3](https://www.audkit.com/audible-aax-converter.html)
     * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E)
         
         Apple Music ConverterConvert Apple Music to MP3](https://www.audkit.com/apple-music-converter.html)
@@ -78,7 +78,7 @@ Follow us
 * Products
     * [Spotify Music Converter](https://www.audkit.com/spotilab-music-converter.html)
     * [Tidal Music Converter](https://www.audkit.com/tidizer-music-converter.html)
-    * [Audible Audible Converter](https://www.audkit.com/audible-aax-converter.html)
+    * [Audible AAX Converter](https://www.audkit.com/audible-aax-converter.html)
     * [Apple Music Converter](https://www.audkit.com/apple-music-converter.html)
 * Store & Support
     * [Store](https://www.audkit.com/store.html)
