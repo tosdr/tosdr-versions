@@ -10,7 +10,7 @@
             
              ![](https://boomi.com/wp-content/uploads/Atomsphere-4.png)
             
-            Boomi Enterprise Platform
+            Boomi Platform
             
             Discover the complete integration platform for digital transformation.](https://boomi.com/platform/)
         * [Platform Architecture
@@ -69,13 +69,6 @@
             Boomi AI
             
             Integrate and automate with generative AI.](https://boomi.com/platform/ai/)
-        * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E)
-            
-            ![](https://boomi.com/wp-content/uploads/Task-Automation-Icon.svg)
-            
-            Task Automation
-            
-            Automate repetitive tasks with no-code.](https://boomi.com/platform/task-automation/)
     * [Learn More](#)
         * [Pricing
             
@@ -157,7 +150,7 @@
             
             Why Boomi
             
-            See why more than 20,000 customers trust Boomi](https://boomi.com/why-boomi/)
+            See why approximately 20,000 customers trust Boomi](https://boomi.com/why-boomi/)
     * [Company](#)
         * [About Us](https://boomi.com/company/)
         * [Leadership Team](https://boomi.com/company/leadership-team/)
@@ -268,7 +261,7 @@
         
          ![](https://boomi.com/wp-content/uploads/Untitled-2.png)
         
-        Boomi Enterprise Platform
+        Boomi Platform
         
         Discover the complete integration platform for digital transformation.](https://boomi.com/platform/)
     * [Platform Architecture
@@ -329,13 +322,6 @@
             Boomi AI
             
             Integrate and automate with generative AI.](https://boomi.com/platform/ai/)
-        * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E)
-            
-            ![](https://boomi.com/wp-content/uploads/Task-Automation-Icon.svg)
-            
-            Task Automation
-            
-            Automate repetitive tasks with no-code.](https://boomi.com/platform/task-automation/)
 * [Solutions](#)
     * [BY INDUSTRY](#)
         * [Healthcare and Life Sciences](https://boomi.com/solutions/industries/healthcare-and-lifesciences/)
@@ -650,13 +636,13 @@ Conshohocken PA 19428
 ![boomi logo](https://boomi.com/wp-content/themes/bsphere/images/boomi-logo-hp.svg)](https://boomi.com/)
 
 * [Platform](#)
-    * [Boomi Enterprise Platform](https://boomi.com/platform/)
+    * [Boomi platform](https://boomi.com/platform/)
     * [Integration Security](https://boomi.com/platform/integration/)
     * [Supported Connectors](https://boomi.com/connectors/)
 * [Company](#)
     * [About us](https://boomi.com/company/)
     * [Leadership Team](https://boomi.com/company/leadership-team/)
-    * [Awards](https://boomi.com/awards/)
+    * [Awards](https://boomi.com/news-and-events/awards/)
     * [Careers](https://boomi.com/company/careers/)
     * [Resources](https://resources.boomi.com/resources)
 * [Get started](#)
