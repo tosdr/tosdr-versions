@@ -10,7 +10,6 @@
 
 * [**Hosting**](https://hosting.aruba.it/en/home.aspx)
 * [**Cloud**](https://www.arubacloud.com/)
-* [**Servers**](https://serverdedicati.aruba.it/en/home?utm_campaign=barra-cross-sites&utm_source=arubacloud&utm_medium=internal-link)
 
 * Country :
 * [International](#top-language-bar)  
@@ -27,36 +26,14 @@
 [](https://www.arubacloud.com/home.aspx)SERVICES  
 
 * [Public Cloud](https://www.arubacloud.com/)
-    * [Cloud VPS](https://www.arubacloud.com/vps.aspx)
+    * [Cloud computing](https://www.arubacloud.com/virtual-servers.aspx)
         
-        [![Aruba Cloud VPS](/images/main-menu/banner-menu-cloud-vps-en.aspx;)](https://www.arubacloud.com/vps.aspx)
+        [![Cloud computing](/images/main-menu/cloud-computing-en.aspx)](https://www.arubacloud.com/virtual-servers.aspx)
         
-        * [Aruba Cloud VPS  
-            Wide selection of settings, latest generation technology and value for money.](https://www.arubacloud.com/vps.aspx)
-        * [Knowledge base  
-            Guide on using the Cloud VPS service](https://kb.arubacloud.com/en/computing/cloud-servers/creating-and-configuring-a-cloud-server/creating-a-cloud-server-smart.aspx)
-        
-    * [Compute](https://www.arubacloud.com/cloud-server.aspx)
-        
-        [![Aruba Cloud Server](/images/main-menu/banner-menu-aruba-cloud-server-en.aspx;)](https://www.arubacloud.com/cloud-server.aspx)
-        
-        * [Aruba Cloud Server  
-            Maximum scalability, unlimited traffic and costs kept under control.](https://www.arubacloud.com/cloud-server.aspx)
-        * [Knowledge base  
-            Guide on using Aruba Cloud Server](https://kb.arubacloud.com/en/computing/cloud-servers.aspx)
-        
-    * [Container](https://www.arubacloud.com/kubernetes.aspx)
-        
-        [![Aruba Managed Kubernetes](/images/main-menu/banner-menu-kubernetes-com.aspx;)](https://www.arubacloud.com/managed-kubernetes.aspx)
-        
-        * [Aruba Managed Kubernetes  
-            The simplest way to manage your Kubernetes clusters](https://www.arubacloud.com/managed-kubernetes.aspx)
-        * [Managed Hybrid Cloud  
-            The cloud native flexibility of Red Hat OpenShift](https://www.arubacloud.com/managed-hybrid-cloud-red-hat-openshift.aspx)
-        * [Application Platform  
-            Maximum scalability thanks to container technology](https://www.arubacloud.com/application-platform.aspx)
-        * [Kubernetes Solutions  
-            Simplicity, scalability and security for your containers](https://www.arubacloud.com/kubernetes.aspx)
+        * [Cloud PRO  
+            3 hypervisors, unlimited traffic and guaranteed resources in public cloud](https://www.arubacloud.com/cloud-pro.aspx)
+        * [Cloud VPS  
+            Numerous configurations, state-of-the-art technology and value for money](https://www.arubacloud.com/vps.aspx)
         
     * [Database as a Service](https://www.arubacloud.com/database-as-a-service.aspx)
         
@@ -130,6 +107,19 @@
             Get the advantage of a .CLOUD domain](https://www.arubacloud.com/domain-center/register-new-cloud-domain-gtld-top-level-domain.aspx)
         * [Knowledge Base  
             Guides on how to use all the tools for managing the Domains and the DNS Control Panel](https://kb.arubacloud.com/en/domain-center.aspx)
+        
+    * [Container](https://www.arubacloud.com/kubernetes.aspx)
+        
+        [![Aruba Managed Kubernetes](/images/main-menu/banner-menu-kubernetes-com.aspx;)](https://www.arubacloud.com/managed-kubernetes.aspx)
+        
+        * [Aruba Managed Kubernetes  
+            The simplest way to manage your Kubernetes clusters](https://www.arubacloud.com/managed-kubernetes.aspx)
+        * [Managed Hybrid Cloud  
+            The cloud native flexibility of Red Hat OpenShift](https://www.arubacloud.com/managed-hybrid-cloud-red-hat-openshift.aspx)
+        * [Application Platform  
+            Maximum scalability thanks to container technology](https://www.arubacloud.com/application-platform.aspx)
+        * [Kubernetes Solutions  
+            Simplicity, scalability and security for your containers](https://www.arubacloud.com/kubernetes.aspx)
         
 * [Tutorials](https://www.arubacloud.com/tutorials.aspx)
 * [Infrastructure](https://www.arubacloud.com/infrastructures.aspx)
@@ -224,7 +214,7 @@ Data protection code of conduct that allows customers to process and save their 
 
 [Cancellation form](https://www.aruba.it/documents/tc-files/en/03_cancellation-form.aspx)  
 
-[Cloud Server](https://www.arubacloud.com/cloud-server.aspx) [Object Storage](https://www.arubacloud.com/object-storage.aspx) [Cloud Monitoring](https://www.arubacloud.com/cloud-monitoring.aspx)
+[Cloud PRO](https://www.arubacloud.com/cloud-computing/cloud-computing-by-aruba.aspx) [Object Storage](https://www.arubacloud.com/object-storage/tech-specs.aspx) [Cloud Monitoring](https://www.arubacloud.com/cloud-monitoring/service-features.aspx)
 
 **Become a Partner**
 
@@ -254,15 +244,14 @@ Are you a new customer? Try our services with up to €100 of free credit
 
 #### PRODUCTS & SOLUTIONS
 
-* [Cloud VPS](https://www.arubacloud.com/vps.aspx)
-* [Compute](https://www.arubacloud.com/cloud-server.aspx)
-* [Container](https://www.arubacloud.com/kubernetes.aspx)
+* [Cloud computing](https://www.arubacloud.com/virtual-servers.aspx)
 * [Database as a Service](https://www.arubacloud.com/database-as-a-service.aspx)
 * [Virtual Private Cloud](https://www.arubacloud.com/virtual-private-cloud.aspx)
 * [Data protection & Backup](https://www.arubacloud.com/cloud-backup.aspx)
 * [Storage](https://www.arubacloud.com/object-storage.aspx)
 * [Cloud Monitoring](https://www.arubacloud.com/cloud-monitoring.aspx)
 * [Domain Center](https://www.arubacloud.com/domain-center/domain-center-by-aruba.aspx)
+* [Container](https://www.arubacloud.com/kubernetes.aspx)
 
 #### COMPANY
 
@@ -306,15 +295,14 @@ CLOUD WORLD
 
 #### PRODUCTS & SOLUTIONS
 
-* [Cloud VPS](https://www.arubacloud.com/vps.aspx)
-* [Compute](https://www.arubacloud.com/cloud-server.aspx)
-* [Container](https://www.arubacloud.com/kubernetes.aspx)
+* [Cloud computing](https://www.arubacloud.com/virtual-servers.aspx)
 * [Database as a Service](https://www.arubacloud.com/database-as-a-service.aspx)
 * [Virtual Private Cloud](https://www.arubacloud.com/virtual-private-cloud.aspx)
 * [Data protection & Backup](https://www.arubacloud.com/cloud-backup.aspx)
 * [Storage](https://www.arubacloud.com/object-storage.aspx)
 * [Cloud Monitoring](https://www.arubacloud.com/cloud-monitoring.aspx)
 * [Domain Center](https://www.arubacloud.com/domain-center/domain-center-by-aruba.aspx)
+* [Container](https://www.arubacloud.com/kubernetes.aspx)
 
 #### COMPANY
 
