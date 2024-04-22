@@ -1,4 +1,4 @@
-![null](https://www.facebook.com/tr?id=1010709999020775&ev=PageView&noscript=1&a=plbigcommerce1.2&eid=store-1-prd-us-central1-181767542785)                              
+![null](https://www.facebook.com/tr?id=1010709999020775&ev=PageView&noscript=1&a=plbigcommerce1.2&eid=store-1-prd-us-central1-179184722213)                              
 
 [Toggle Menu](#)
 
@@ -99,11 +99,6 @@ close
     * [Advanced Puzzles](https://buffalogames.com/jigsaw-puzzles/by-difficulty/advanced-puzzles/)
     
 * [Games](https://buffalogames.com/buffalos-games/games/)
-    
-    * [Shop All Games](https://buffalogames.com/buffalos-games/games/)
-    * [Pop It Pets](https://buffalogames.com/games/pop-it-pets/)
-    * [Tinkertar](https://buffalogames.com/games/tinkertar/)
-    
 * [New Arrivals](https://buffalogames.com/shop-puzzles/?sort=newest)
 * [Best Selling](https://buffalogames.com/shop-puzzles/?sort=bestselling)
 * [Subscriptions](https://buffalogames.com/shop-puzzles/puzzle-subscriptions/)
@@ -166,7 +161,7 @@ We currently only process orders for the USA, we apologize to all of our interna
   
 **Puzzles Shipping & Handling:**
 
-$0 to $20.00 order = $7.97 shipping and handling
+$0 to $20.00 order = $6.97 shipping and handling
 
 $20.01 to $30.00 order = $9.97 shipping and handling  
 $30.01 to $50.00 = $11.97 shipping and handling
@@ -232,8 +227,6 @@ Check out our job openings at [Indeed](https://www.indeed.com/cmp/Buffalo-Games,
 
 * ###### [Games](https://buffalogames.com/buffalos-games/games/)
     
-* [Pop It Pets](https://buffalogames.com/games/pop-it-pets/)
-* [Tinkertar](https://buffalogames.com/games/tinkertar/)
 
 ##### Customers
 
@@ -241,7 +234,6 @@ Check out our job openings at [Indeed](https://www.indeed.com/cmp/Buffalo-Games,
 * [About us](https://buffalogames.com/our-story/)
 * [Blog](https://buffalogames.com/blog/)
 * [FAQ](https://buffalogames.com/faq/)
-* [Customer Reviews](https://buffalogames.com/reviews/)
 * [Shipping & Returns](https://buffalogames.com/shipping-and-returns/)
 * [Retailers](https://buffalogames.com/retailers/)
 * [Privacy Policy](https://buffalogames.com/privacy-policy/)
