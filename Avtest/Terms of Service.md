@@ -17,13 +17,13 @@ MENU
     * [Press](https://www.av-test.org/en/press/)
     * [Jobs](https://www.av-test.org/en/about-the-institute/jobs/)
 * [News](https://www.av-test.org/en/news/)
-    * [Cybersecurity: Defense Against the Latest Attacking Techniques in the...](https://www.av-test.org/en/news/cybersecurity-defense-against-the-latest-attacking-techniques-in-the-atp-test/ "Cybersecurity: Defense Against the Latest Attacking Techniques in the ATP Test") [](https://www.av-test.org/en/news/cybersecurity-defense-against-the-latest-attacking-techniques-in-the-atp-test/ "Cybersecurity: Defense Against the Latest Attacking Techniques in the ATP Test")
-        
-        [Test: More Protection for Mobile Devices with Android](https://www.av-test.org/en/news/test-more-protection-for-mobile-devices-with-android/ "Test: More Protection for Mobile Devices with Android") [](https://www.av-test.org/en/news/test-more-protection-for-mobile-devices-with-android/ "Test: More Protection for Mobile Devices with Android")
+    * [Test: More Protection for Mobile Devices with Android](https://www.av-test.org/en/news/test-more-protection-for-mobile-devices-with-android/ "Test: More Protection for Mobile Devices with Android") [](https://www.av-test.org/en/news/test-more-protection-for-mobile-devices-with-android/ "Test: More Protection for Mobile Devices with Android")
         
         [AV-TEST Awards 2023: shining the spotlight on the best IT security](https://www.av-test.org/en/news/av-test-awards-2023-shining-the-spotlight-on-the-best-it-security/ "AV-TEST Awards 2023: shining the spotlight on the best IT security") [](https://www.av-test.org/en/news/av-test-awards-2023-shining-the-spotlight-on-the-best-it-security/ "AV-TEST Awards 2023: shining the spotlight on the best IT security")
         
         [AV-TEST Award 2023 for Acronis](https://www.av-test.org/en/news/av-test-award-2023-for-acronis/ "AV-TEST Award 2023 for Acronis") [](https://www.av-test.org/en/news/av-test-award-2023-for-acronis/ "AV-TEST Award 2023 for Acronis")
+        
+        [AV-TEST Awards 2023 for AhnLab](https://www.av-test.org/en/news/av-test-awards-2023-for-ahnlab/ "AV-TEST Awards 2023 for AhnLab") [](https://www.av-test.org/en/news/av-test-awards-2023-for-ahnlab/ "AV-TEST Awards 2023 for AhnLab")
         
     * News by category
         
