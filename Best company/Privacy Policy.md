@@ -64,7 +64,7 @@ Search
 
 [Write a Review](https://bestcompany.com/review-lander/standard)
 
-[For Businesses](https://snoball.com/?src=bc)
+[For Businesses](https://snoball.com/)
 
 [Login](https://bestcompany.com/login)
 
@@ -94,7 +94,7 @@ Categories chevron\_right expand\_more
 
 [home Home Products & Services](https://bestcompany.com/category/home-products-services) [work Business Services](https://bestcompany.com/category/business-services) [school Career & Education](https://bestcompany.com/category/career-education) [monetization\_on Financial Services](https://bestcompany.com/category/financial-services) [accessibility Health & Lifestyle](https://bestcompany.com/category/health-lifestyle) [account\_balance Insurance & Legal Services](https://bestcompany.com/category/insurance-legal-services)
 
-[Write a Review](https://bestcompany.com/review-lander/standard) [For Businesses](https://snoball.com/?src=bc) [Login](https://bestcompany.com/login)
+[Write a Review](https://bestcompany.com/review-lander/standard) [For Businesses](https://snoball.com/) [Login](https://bestcompany.com/login)
 
 Privacy Policy
 ==============
@@ -169,7 +169,7 @@ We use information that we collect about you or that you provide to us, includin
 * In any other way we may describe when you provide the information.
 * For any other purpose with your consent.
 
-We may also use your information to contact you about our goods and services that may be of interest to you. If you do not want us to use your information in this way, please let us know at [support@bestcompany.com](mailto:support@bestcompany.com).
+We may also use your information to contact you about our goods and services that may be of interest to you. If you do not want us to use your information in this way, please let us know at [\[email protected\]](https://bestcompany.com/cdn-cgi/l/email-protection).
 
 We may use information that does not identify you (including information that has been de-identified) without obligation to you except as prohibited by applicable law.
 
@@ -217,7 +217,7 @@ Right to delete your information. You may request, at any time, that we delete y
 
 Opting out of Sale of Personal Information. You can request that we not sell your personal information that we have collected from you.
 
-You may make a request by writing us at the following address: 1064 S N County Blvd #300, Pleasant Grove, Utah 84062, calling us at 801-899-0023, or emailing us at [support@bestcompany.com](mailto:support@bestcompany.com). For all requests, please include your name, street address, city, state, and zip code. To ensure the privacy and protection of individuals, we are required to verify your identity (or that of your authorized agent) or otherwise authenticate your request(s), which we will do in accordance with the applicable privacy regulations. We will respond to your request within 15 days of receiving a verifiable consumer request.
+You may make a request by writing us at the following address: 1064 S N County Blvd #300, Pleasant Grove, Utah 84062, calling us at 801-899-0023, or emailing us at [\[email protected\]](https://bestcompany.com/cdn-cgi/l/email-protection). For all requests, please include your name, street address, city, state, and zip code. To ensure the privacy and protection of individuals, we are required to verify your identity (or that of your authorized agent) or otherwise authenticate your request(s), which we will do in accordance with the applicable privacy regulations. We will respond to your request within 15 days of receiving a verifiable consumer request.
 
 Please note that, under the CCPA in particular, we are not required to grant a request to access/know or a request to delete with respect to personal information obtained from you in your role as an employee, owner, director, officer or contractor of a company and within the context of BestCompany.com providing its services to such company.
 
@@ -246,7 +246,7 @@ We do not expressly provide the Site, App, or Services to users that reside in t
 * The right to object to our processing of your information for direct marketing purposes.
 * The right to receive your information from us in a structured, commonly used and machine-readable format, and the right to transmit your information to another controller without hindrance from us (data portability).
 
-If you believe that our processing of your information is inconsistent with your data protection rights, please contact us at [support@bestcompany.com](mailto:support@bestcompany.com) so we can address your concerns. In the case that we have not adequately addressed your concerns under GDPR, you have the right to lodge a complaint with the data protection supervisory authority of your country.
+If you believe that our processing of your information is inconsistent with your data protection rights, please contact us at [\[email protected\]](https://bestcompany.com/cdn-cgi/l/email-protection) so we can address your concerns. In the case that we have not adequately addressed your concerns under GDPR, you have the right to lodge a complaint with the data protection supervisory authority of your country.
 
 #### Users of Our Services Outside the United States
 
@@ -254,7 +254,7 @@ BestCompany.com is a U.S.-based company. If you are a non-U.S. resident and prov
 
 #### Children's Privacy
 
-Our Site, App, and Services is not intended for children under 18 years of age. No one under age 18 may provide any information to or on the Site, App, or Services. We do not knowingly collect personal information from children under 18. If you are under 18, do not use or provide any information on this Site, App, or Services. If we learn we have collected or received personal information from a child under 18, we will delete that information. If you believe we might have any information from or about a child under 18, please contact us at [support@bestcompany.com](mailto:support@bestcompany.com).
+Our Site, App, and Services is not intended for children under 18 years of age. No one under age 18 may provide any information to or on the Site, App, or Services. We do not knowingly collect personal information from children under 18. If you are under 18, do not use or provide any information on this Site, App, or Services. If we learn we have collected or received personal information from a child under 18, we will delete that information. If you believe we might have any information from or about a child under 18, please contact us at [\[email protected\]](https://bestcompany.com/cdn-cgi/l/email-protection).
 
 #### Data Security
 
@@ -273,7 +273,7 @@ If you have any questions or comments about this Privacy Policy or our privacy p
 BestCompany.com, LLC  
 1064 S N County Blvd #300  
 Pleasant Grove, UT 84062  
-[support@bestcompany.com](mailto:support@bestcompany.com)
+[\[email protected\]](https://bestcompany.com/cdn-cgi/l/email-protection)
 
 We're on a mission to empower consumers to make the best decisions and connect confidently with companies that deserve their business.
 
