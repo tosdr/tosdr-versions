@@ -1,4 +1,4 @@
-![null](https://www.facebook.com/tr?id=1010709999020775&ev=PageView&noscript=1&a=plbigcommerce1.2&eid=store-1-prd-us-central1-180751595844)                              
+![null](https://www.facebook.com/tr?id=1010709999020775&ev=PageView&noscript=1&a=plbigcommerce1.2&eid=store-1-prd-us-central1-179184720893)                              
 
 [Toggle Menu](#)
 
@@ -492,7 +492,6 @@ Check out our job openings at [Indeed](https://www.indeed.com/cmp/Buffalo-Games,
 * [About us](https://buffalogames.com/our-story/)
 * [Blog](https://buffalogames.com/blog/)
 * [FAQ](https://buffalogames.com/faq/)
-* [Customer Reviews](https://buffalogames.com/reviews/)
 * [Shipping & Returns](https://buffalogames.com/shipping-and-returns/)
 * [Retailers](https://buffalogames.com/retailers/)
 * [Privacy Policy](https://buffalogames.com/privacy-policy/)
