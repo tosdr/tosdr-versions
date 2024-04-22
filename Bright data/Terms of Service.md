@@ -63,9 +63,8 @@
         * [Proxy Browser ExtensionChange location to collect Web data](https://brightdata.com/products/proxy-browser-extension)
 * Scraping Solutions
     
-    * [Web Scraper APICustom endpoint APIs for simplified web scraping.](https://brightdata.com/products/web-scraper)
-    * [Serverless FunctionsUse Javascript functions and existing code templates to build web scrapers](https://brightdata.com/products/web-scraper/functions)
     * [Scraping BrowserScale scraping browsers with built-in unblocking and hosting](https://brightdata.com/products/scraping-browser)
+    * [Web Scraper IDEUse Javascript functions and existing code templates to build web scrapers](https://brightdata.com/products/web-scraper)
     * [SERP APIQuick and easy search engine scraping on demand](https://brightdata.com/products/serp-api)
     * [Web UnlockerSay goodbye to blocks and CAPTCHAs with a single API](https://brightdata.com/products/web-unlocker)
 * Web Data
@@ -114,112 +113,6 @@
         
         * [Datasets](https://brightdata.com/pricing/datasets)
         * [Bright Insights](https://brightdata.com/pricing/insights)
-
-* Products
-    
-    * [Proxy infrastructure](https://brightdata.com/proxy-types)
-        * [Residential Proxies72 million+ IPs rotated from real-peer devices in 195 countries](https://brightdata.com/proxy-types/residential-proxies)
-        * [Datacenter ProxiesHigh-speed, reliable proxies for efficient data extraction](https://brightdata.com/proxy-types/datacenter-proxies)
-        * [ISP Proxies700,000+ fully-compliant static residential proxies](https://brightdata.com/proxy-types/isp-proxies)
-        * [Mobile ProxiesGlobal mobile IPs for targeted, mobile-focused collection](https://brightdata.com/proxy-types/mobile-proxies)
-        * [Proxy Manager (OSS)Centralized control and optimization of proxy usage](https://brightdata.com/products/proxy-manager)
-    * Scraping automation
-        
-        * [Web UnlockerSay goodbye to blocks and CAPTCHAs with a single API](https://brightdata.com/products/web-unlocker)
-        * [Scraping BrowserScale scraping browsers with built-in unblocking and hosting](https://brightdata.com/products/scraping-browser)
-        * [SERP APIQuick and easy search engine scraping on demand](https://brightdata.com/products/serp-api)
-        * [Scraping FunctionsRun your scrapers as serverless functions](https://brightdata.com/products/web-scraper)
-    * Data
-        
-        * [Dataset Marketplace](https://brightdata.com/products/datasets/marketplace)
-            * [Amazon](https://brightdata.com/products/datasets/amazon)
-            * [LinkedIn](https://brightdata.com/products/datasets/linkedin)
-            * [Zillow](https://brightdata.com/products/datasets/zillow)
-            * [Crunchbase](https://brightdata.com/products/datasets/crunchbase)
-            * [Facebook](https://brightdata.com/products/datasets/facebook)
-        * [Custom DatasetsGenerate custom datasets with an automatic dataset creation platform.](https://brightdata.com/products/datasets/custom)
-        * [Retail InsightsGet actionable market intelligence powered by machine learning](https://brightdata.com/products/insights)
-* Solutions
-    
-    * By industry
-        
-        * [Ecommerce](https://brightdata.com/use-cases/ecommerce)
-        * [Real Estate](https://brightdata.com/use-cases/real-estate)
-        * [Data for AI](https://brightdata.com/use-cases/data-for-ai)
-        * [Travel](https://brightdata.com/use-cases/travel)
-        * [Financial Services](https://brightdata.com/use-cases/financial)
-        * [Healthcare](https://brightdata.com/use-cases/healthcare)
-    * By domain
-        
-        * [LinkedIn](https://brightdata.com/products/datasets/linkedin)
-        * [Instagram](https://brightdata.com/products/datasets/instagram)
-        * [Crunchbase](https://brightdata.com/products/datasets/crunchbase)
-        * [Facebook](https://brightdata.com/products/datasets/facebook)
-        * [Zillow](https://brightdata.com/products/datasets/zillow)
-        * [Amazon](https://brightdata.com/products/datasets/amazon)
-* Resources
-    
-    * Tools
-        
-        * [Integrations](https://brightdata.com/integration)
-        * [Proxy Manager (OSS)](https://brightdata.com/products/proxy-manager)
-        * [Browser Extension](https://brightdata.com/products/proxy-browser-extension)
-        * [Network Status](https://brightdata.com/network-status)
-    * Learning Hub
-        
-        * [Blog](https://brightdata.com/blog)
-        * [Videos](https://www.youtube.com/@BrightData)
-        * [Webinars](https://brightdata.com/webinar)
-        * [Case Studies](https://brightdata.com/case-studies)
-        * [Tutorials](https://brightdata.com/web-data-masterclass)
-        * [Proxy Locations](https://brightdata.com/locations)
-    * Company
-        
-        * [Partner Program](https://brightdata.com/partners)
-        * [Trust Center](https://brightdata.com/trustcenter)
-        * [Bright SDK](https://bright-sdk.com/)
-        * [Bright Initiative](https://brightinitiative.com/)
-* [Docs](https://docs.brightdata.com/introduction)
-* Pricing
-    
-    * [Proxy infrastructure](https://brightdata.com/pricing/proxy-network)
-        * [Residential Proxies
-            
-            Starts from$5.04/GB](https://brightdata.com/pricing/proxy-network?plan=yearly&type=res_rotating)
-        * [Datacenter Proxies
-            
-            Starts from$0.066/GB](https://brightdata.com/pricing/proxy-network?plan=yearly&type=dc)
-        * [ISP Proxies
-            
-            Starts from$9/GB](https://brightdata.com/pricing/proxy-network?plan=yearly&type=res_static)
-        * [Mobile Proxies
-            
-            Starts from$5.04/GB](https://brightdata.com/pricing/proxy-network?plan=yearly&type=mobile)
-    * Scraping automation
-        
-        * [Web Unlocker
-            
-            Starts from$1.8/CPM](https://brightdata.com/pricing/web-unlocker)
-        * [Scraping Browser
-            
-            Starts from$5.7/GB](https://brightdata.com/pricing/scraping-browser)
-        * [SERP API
-            
-            Starts from$1.8/CPM](https://brightdata.com/pricing/serp)
-        * [Scraping Functions
-            
-            Starts from$2.4/CPM](https://brightdata.com/pricing/web-scraper)
-    * Data
-        
-        * [Dataset Marketplace
-            
-            Starts from$300/mo](https://brightdata.com/pricing/datasets)
-        * [Custom Datasets
-            
-            Starts from$300/mo](https://brightdata.com/pricing/datasets)
-        * [Retail Insights
-            
-            Starts from$1,000/mo](https://brightdata.com/pricing/insights)
 
 * [Log in](https://brightdata.com/cp/start)
 * [User Dashboard](https://brightdata.com/cp/start)
@@ -385,8 +278,7 @@ Service Agreement
 * [Miscellaneous](#toc_1_11)
 
 * [Products](https://brightdata.com/products)
-    * [Datasets Marketplace](https://brightdata.com/products/datasets/marketplace)
-    * [Custom Datasets](https://brightdata.com/products/datasets/custom)
+    * [Datasets](https://brightdata.com/products/datasets)
     * [Web Scraper IDE](https://brightdata.com/products/web-scraper)
     * [Scraping Browser](https://brightdata.com/products/scraping-browser)
     * [SERP API](https://brightdata.com/products/serp-api)
@@ -425,11 +317,9 @@ Service Agreement
     * [Data Documentary](https://brightdata.com/web-data-revolution)
     * [Iron Analyst](https://brightdata.com/iron-analyst)
     * [Web Data Masterclass](https://brightdata.com/web-data-masterclass)
-    * [Common Proxy Questions](https://brightdata.com/faqs)
     * [FAQ](https://docs.brightdata.com/introduction)
     * [Webinars](https://brightdata.com/webinar)
     * [Data for Journalists](https://brightdata.com/products/datasets/for-journalists)
-    * [The State of Public Web Data](https://brightdata.com/state-of-public-web-data)
 * [Legal](https://brightdata.com/legal-governance)
     * [Patents](https://brightdata.com/patent-marking)
     * [Legal Governance](https://brightdata.com/legal-governance)
