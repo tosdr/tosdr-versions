@@ -280,10 +280,6 @@ Email: [support@adguard.com](mailto:support@adguard.com) Website: [https://adgua
 
 © 2024 ADGUARD SOFTWARE LIMITED. All Rights Reserved. The Services and any accompanying documentation are copyrighted and protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties.
 
-We use essential cookies only. No ads or trackers. [Privacy Policy](https://adguard.com/privacy/dns.html)
-
-I agree
-
 © 2016–2024 AdGuard DNS
 
 Site map
@@ -303,3 +299,7 @@ Support Center FAQ Knowledge base Version history Report an issue AdGuard Status
 Legal documents
 
 EULA Privacy Policy Terms of sale Refund policy
+
+We use essential cookies only. No ads or trackers. [Privacy Policy](https://adguard.com/privacy/dns.html)
+
+I agree
