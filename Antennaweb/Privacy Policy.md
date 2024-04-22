@@ -119,7 +119,7 @@ If you are a California resident, California law may provide you with additional
 
 ### 9\. Children
 
-If you are under 13 years of age, please do not access TitanTV.com, AntennaWeb.org or download, install or use the TitanTV.com Mobile Application. The Services are not intended for children under 13, and TITANTV will not knowingly collect any information from any children under the age of 13. If we discover that we have collected any personally-identifying information from a child under the age of 13, we will promptly remove that information from our database. If you believe we might have any information from or about a child under 13, please contact us at [privacy@TitanTV.com](mailto:privacy@titantv.com).
+If you are under 13 years of age, please do not access TitanTV.com, AntennaWeb.org or download, install or use the TitanTV.com Mobile Application. The Services are not intended for children under 13, and TITANTV will not knowingly collect any information from any children under the age of 13. If we discover that we have collected any personally-identifying information from a child under the age of 13, we will promptly remove that information from our database. If you believe we might have any information from or about a child under 13, please contact us at [privacy@TitanTV.com](mailto:privacy@TitanTV.com).
 
 ### 10\. Do Not Track
 
@@ -143,7 +143,7 @@ For international users, please note that it may be necessary to transfer your i
 
 ### 14\. Questions
 
-If you have any questions or comments concerning our Privacy Policy regarding TitanTV.com, please contact us at [privacy@TitanTV.com](mailto:privacy@titantv.com).
+If you have any questions or comments concerning our Privacy Policy regarding TitanTV.com, please contact us at [privacy@TitanTV.com](mailto:privacy@TitanTV.com).
 
   
   
