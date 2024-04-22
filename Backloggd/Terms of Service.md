@@ -124,7 +124,7 @@ Last Updated: 04/04/2023
 
 © Backloggd 2024 •
 
-[v1.12.2](https://backloggd.com/changelog/)
+[v1.12.1](https://backloggd.com/changelog/)
 
 • Powered by
 
