@@ -1,8 +1,8 @@
-[![byutv](/_nuxt/img/byutv-logo.f8c9916.svg)](https://www.byutv.org/)  Privacy Policy[](https://www.byutv.org/search)
+[![byutv](/_nuxt/img/byutv-logo.c79f47d.svg)](https://www.byutv.org/)  Privacy Policy[](https://www.byutv.org/search)
 
 [home](https://www.byutv.org/) [shows](https://www.byutv.org/shows) [live](https://www.byutv.org/live) [my byutv](https://www.byutv.org/favorites)
 
-![search](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIzIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJmZWF0aGVyIGZlYXRoZXItc2VhcmNoIiBzdHlsZT0iaW1hZ2UtcmVuZGVyaW5nOm9wdGltaXplUXVhbGl0eTtzaGFwZS1yZW5kZXJpbmc6Z2VvbWV0cmljUHJlY2lzaW9uO3RleHQtcmVuZGVyaW5nOmdlb21ldHJpY1ByZWNpc2lvbiI+PGNpcmNsZSBjeD0iMTEiIGN5PSIxMSIgcj0iOCI+PC9jaXJjbGU+PGxpbmUgeDE9IjIxIiB5MT0iMjEiIHgyPSIxNi42NSIgeTI9IjE2LjY1Ij48L2xpbmU+PC9zdmc+Cg==) [sign up / in](https://www.byutv.org/signin?next=%2Fprivacy)
+![search](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIzIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJmZWF0aGVyIGZlYXRoZXItc2VhcmNoIiBzdHlsZT0iaW1hZ2UtcmVuZGVyaW5nOm9wdGltaXplUXVhbGl0eTtzaGFwZS1yZW5kZXJpbmc6Z2VvbWV0cmljUHJlY2lzaW9uO3RleHQtcmVuZGVyaW5nOmdlb21ldHJpY1ByZWNpc2lvbiI+PGNpcmNsZSBjeD0iMTEiIGN5PSIxMSIgcj0iOCI+PC9jaXJjbGU+PGxpbmUgeDE9IjIxIiB5MT0iMjEiIHgyPSIxNi42NSIgeTI9IjE2LjY1Ij48L2xpbmU+PC9zdmc+Cg==) [Sign In](https://www.byutv.org/signin?next=%2Fprivacy)
 
 Privacy Policy
 ==============
@@ -82,7 +82,7 @@ The mission of BYUtv is to create purposeful, engaging viewing and listening exp
 
 A Service of Brigham Young University.
 
-5.60.26
+5.33.333
 
 * [About Us](https://www.byutv.org/about)
 * [Contact Us](https://www.byutv.org/contact)
@@ -105,12 +105,6 @@ A Service of Brigham Young University.
 
 * captions off
 
-Menu
-
-0:00
-
-0:00/0:00
-
 * Details
 * Like
 * Share
@@ -125,6 +119,12 @@ Speed
 * 1.25
 * 1
 * 0.75
+
+Menu
+
+0:00
+
+0:00/0:00
 
 0%
 
