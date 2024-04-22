@@ -1,6 +1,6 @@
 * [Privacy & Legal](https://www.nationalguard.com/privacy)
 * [Technical Support](https://www.nationalguard.com/tech-support)
-* [1-800-GO-GUARD](tel:1-800-go-guard)
+* [1-800-GO-GUARD](tel:1-800-GO-GUARD)
 * [Contact Us](https://www.nationalguard.com/contact-us)
 
 © 2024 United States National Guard
