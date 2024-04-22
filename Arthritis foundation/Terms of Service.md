@@ -6,7 +6,7 @@
 
 Popular Search
 
-[gout](https://www.arthritis.org/search?query=gout) [ja](https://www.arthritis.org/search?query=ja) [drug](https://www.arthritis.org/search?query=drug) [event](https://www.arthritis.org/search?query=event)
+[arthritis](https://www.arthritis.org/search?query=arthritis) [gout](https://www.arthritis.org/search?query=gout) [home](https://www.arthritis.org/search?query=home) [ja](https://www.arthritis.org/search?query=ja)
 
 Suggested Content
 
@@ -383,7 +383,7 @@ _Revised April 27, 2021_
 
 Atlanta, GA
 
-73° Arthritis Index Beneficial
+67° Arthritis Index Beneficial
 
 [See More Details](https://www.arthritis.org/weather)
 
