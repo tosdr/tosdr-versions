@@ -1,0 +1,1 @@
+This app works best with JavaScript enabled.
