@@ -1,430 +1,925 @@
 [Skip to content](#main)
 
-[United States](javascript:;) [USA](javascript:;)
+[United Kingdom](javascript:;) [UK](javascript:;)
 
-[My Background Check](https://www.accurate.com/my-background-check/) [Client Login](https://www.accurate.com/client-login/)
+[![Go back to home page](https://www.accurate.com/uk/wp-content/uploads/sites/2/2024/02/logo-1.svg)](https://www.accurate.com/uk/)
 
-[![Go back to home page](https://www.accurate.com/wp-content/uploads/2023/08/logo-1.svg)](https://www.accurate.com/)
+* [Services](https://www.accurate.com/uk/pre-employment-screening/)
+    * * * #### SERVICES
+                
+                Employment screening is the process of determining whether or not an individual is suitable for a given position. This includes individuals who are moving between job roles within an organisation.
+                
+        * * [Pre-Employment Screening](https://www.accurate.com/uk/pre-employment-screening/)
+            * [Pay-As-You-Go Screening](https://www.accurate.com/uk/pre-employment-screening/pay-as-you-go/)
+            * [International Employee Screening](https://www.accurate.com/uk/international-employee-screening/)
+            * [Criminal Record Checks](https://www.accurate.com/uk/pre-employment-screening/criminal-record-checks/)
+            * [SMCR & Employment Screening](https://www.accurate.com/uk/pre-employment-screening/smcr/)
+            * [Ministry of Manpower Singapore](https://www.accurate.com/uk/work-pass-ministry-of-manpower-singapore/)
+            * [BS7858](https://www.accurate.com/uk/pre-employment-screening/bs7858/)
+* [Technology](https://www.accurate.com/uk/technology/)
+    * * * #### TECHNOLOGY
+                
+                Embrace innovative, industry-leading technology with our reporting tools. Accurate’s dynamic, interactive interface will lead you through your search findings in an easy to use format.
+                
+        * * [Information Security](https://www.accurate.com/uk/technology/information-security/)
+            * [Candidate Portal](https://www.accurate.com/uk/candidate-portal/)
+* [Candidates](https://www.accurate.com/uk/candidates/)
+    * * * #### Candidates
+                
+                Now that you are at the employment screening stage of the recruitment process, our expert team will take you through this part of your on boarding journey in the most comprehensive way possible. Use our tools and resources to guide you through.
+                
+        * * [Candidates](https://www.accurate.com/uk/candidates/)
+            * [Candidate FAQs](https://www.accurate.com/uk/candidates/faqs/)
+* [Resources](https://www.accurate.com/uk/resources/)
+    * * * #### RESOURCES
+                
+                We know that you seek up-to-date, expert information on the screening industry and all of its relative realms. Click here for a range of resources and content for Clients, Candidates, and Human Resources teams alike.
+                
+        * * [Latest News & Blog](https://www.accurate.com/uk/blog/)
+            * [Client FAQs](https://www.accurate.com/uk/resources/client-faq/)
+* [About Us](https://www.accurate.com/uk/about/)
+    * * * #### About Us
+                
+                With 20 years behind us, you can depend on Accurate. Our trustworthy and dependable professionals work dynamically with HR teams to protect from risk and provide candidates with the best possible experience.
+                
+        * * [The Accurate Difference](https://www.accurate.com/uk/about/the-accurate-uk-difference/)
+            * [Vero Green](https://www.accurate.com/uk/vero-green/)
+            * [Careers at Accurate](https://www.accurate.com/uk/careers/)
+            * [Gender Pay Gap Report](https://www.accurate.com/uk/wp-content/uploads/sites/2/2023/12/Gender-Pay-Gap-Report-2022-PDF.pdf)
 
-* [Services](https://www.accurate.com/employment-screening/)
-    * * * [Employee Screening Services](https://www.accurate.com/employment-screening/)
-                * [Business Intelligence (BI)](https://www.accurate.com/employment-screening/business-intelligence/)
-                * [Credit Checks](https://www.accurate.com/employment-screening/credit-checks/)
-                * [Criminal Background Checks](https://www.accurate.com/employment-screening/criminal-background-checks/)
-                * [Driving History](https://www.accurate.com/employment-screening/driving-history/)
-                * [Drug & Health Screening](https://www.accurate.com/employment-screening/drug-testing-health-services/)
-                * [Form I-9 & E-Verify](https://www.accurate.com/employment-screening/form-i-9-e-verify/)
-                * [Global Searches](https://www.accurate.com/employment-screening/global-searches/)
-                * [Monitoring Services](https://www.accurate.com/employment-screening/monitoring-services/)
-                * [Identity Management](https://www.accurate.com/employment-screening/identity-management/)
-                * [Sanctions](https://www.accurate.com/employment-screening/sanctions/)
-                * [Social Media Searches](https://www.accurate.com/employment-screening/social-media-searches/)
-                * [Verifications](https://www.accurate.com/employment-screening/verifications/)
-        * * [How We Help](https://www.accurate.com/how-we-help/)
-                * [Compliance](https://www.accurate.com/how-we-help/background-check-compliance/)
-                * [Candidate Experience](https://www.accurate.com/how-we-help/candidate-experience/)
-                * [Client Experience](https://www.accurate.com/how-we-help/client-experience/)
-* [Solutions](https://www.accurate.com/solutions/)
-    * * * [Industries](https://www.accurate.com/solutions/industries/)
-                * [Gig & Marketplaces](https://www.accurate.com/solutions/gig-economy-marketplaces/)
-                * [Healthcare](https://www.accurate.com/solutions/healthcare/)
-                * [Insurance](https://www.accurate.com/solutions/insurance/)
-                * [Retail](https://www.accurate.com/solutions/retail/)
-                * [Staffing](https://www.accurate.com/solutions/staffing/)
-                * [Transportation](https://www.accurate.com/solutions/transportation/)
-        * * [Technology](https://www.accurate.com/solutions/technology/)
-                * [Integrations](https://www.accurate.com/solutions/ats-integrations/)
-                * [Background Check API](https://www.accurate.com/solutions/background-check-api/)
-                * [Automated Court Access](https://www.accurate.com/solutions/automated-court-access/)
-                * [Candidate Portal](https://www.accurate.com/solutions/candidate-portal/)
-                * [Client Ordering Platform](https://www.accurate.com/solutions/client-ordering-platform/)
-        * * [Company Size](https://www.accurate.com/solutions/company-size/)
-                * [Small Business](https://www.accurate.com/solutions/small-and-mid-sized-businesses/)
-                * [Large Organization](https://www.accurate.com/solutions/large-organization-background-checks/)
-* [Resources](https://www.accurate.com/resources)
-    * * * [Resources](https://www.accurate.com/resources)
-                * [Blog](https://www.accurate.com/blog/)
-                * [Marijuana Laws](https://www.accurate.com/marijuana-laws/)
-                * [Ban the Box](https://www.accurate.com/ban-the-box/)
-                * [eBooks](https://www.accurate.com/resources/ebooks)
-                * [Legislative Updates](https://www.accurate.com/resources/legislative-updates)
-                * [Sample Forms](https://www.accurate.com/resources/sample-forms)
-                * [White Papers](https://www.accurate.com/resources/white-papers)
-                * [Webinars](https://www.accurate.com/resources/webinars)
-                * [All Resources](https://www.accurate.com/resources)
-* [About Us](https://www.accurate.com/about-us/)
-    * * * [About Accurate](https://www.accurate.com/about-us/about-accurate/)
-                * [Careers](https://www.accurate.com/about-us/careers/)
-                * [Events](https://www.accurate.com/about-us/events/)
-                * [Leadership](https://www.accurate.com/about-us/leadership/)
-                * [News](https://www.accurate.com/about-us/news/)
-                * [Partners](https://www.accurate.com/about-us/partners/)
+[Get Support](https://www.accurate.com/uk/support/)
 
-[Get Support](https://www.accurate.com/support/)
-
-[Contact Sales](https://www.accurate.com/contact-us/)
+[Contact Sales](https://www.accurate.com/uk/contact-us/)
 
 * 
 
-Last Updated 9/29/2023
+Privacy Policy.
+===============
+
+Introduction.
+-------------
+
+### Please select below the relevant privacy policy for your area of interest
+
+The way in which Accurate handles your personal data will vary dependent upon whether you are: a Client or a visitor to our website; a Candidate currently going through a screening process with us; an employee of Accurate; or an applicant for a role with Accurate. Please select the relevant privacy policy from the menu below for further information.
+
+#### General privacy policy
 
 **Introduction**
 
-This privacy policy applies to www.accurate.com (“Website”) and services owned and operated by Accurate Background, LLC and its subsidiaries (“Accurate”, “we”, “us” or “our”).  Accurate is a background screening company that provides employment screening, background checks, occupational health screening and reports for its customers who have a legal purpose for conducting such screening (“Services”). Accurate’s principal location and headquarters is 200 Spectrum Center Drive, Suite 1100, Irvine, CA  92618.
+Vero Screening Ltd trading as Accurate (Accurate) is a limited company incorporated in England and Wales (Company number 05392085).
 
-Accurate understands each individual’s privacy concerns and is committed to protecting personal information and personal data of our customers, clients, Website users, employees, prospective employees, and other individuals. The use of “you” or “your” within this policy refers to the person reading this policy, your organization, or the individual (“data subject”) whose personal information/data is being collected and processed.
+We provide pre-engagement and in-engagement screening services to our clients.  
+This privacy policy is aimed at prospective or existing clients and visitors to the company website. All references to our ‘website’ throughout the privacy policy refers to the company  
+website https://accurate.com/uk. This privacy policy does not apply to personal data we collect on Accurate employees or on individuals going through the screening process at the instruction of our client.
 
-Our privacy policy describes how Accurate will treat information collected, processed, disclosed, transferred, used, and retained by Accurate when you are interacting with us, including visiting our Website, using our services, going through the background screening process or applying for employment with Accurate. It also describes the choices available regarding the use of, access to, deletion of, and how to update and correct personal information.   The way in which Accurate handles or processes your personal data is dependent upon whether you are (i) a customer utilizing our Services, (ii) an individual who has consented to a background check with an Accurate customer, (iii) a prospective Accurate employee, (iv) a current Accurate employee, or (v) just browsing our Website and do not otherwise fall in one of the other categories. This policy is intended to address our privacy with regard to each of the foregoing.
+If you are currently being screened by Accurate and would like further details regarding the handling of your personal data in this context, please refer to our ‘Privacy policy for Candidates’.
 
-The use of Accurate’s Website and Services indicates your agreement to Accurate’s privacy policy.  This policy will change from time to time. Please check the privacy policy each time you use our Website for the most current information.
+If you are an employee of Accurate please refer to our ‘Privacy policy for employees’
 
-**Contents**
+If you have questions regarding your personal data and how we use it, please contact our Data Protection Officer using the contact details below:
 
-* [What personal data and information do we collect?](#PersonalDataInformationCollected)
-* [How do we collect and use your personal data and information?](#HowWeCollectUsePersonalDataInformation)
-* [How do we share your personal information and data?](#HowWeSharePersonalInformationData)
-* [How do we store your personal information and data?](#HowWeStorePersonalInformationData)
-* [What are your data protection rights?](#WhatAreYourDataProtectionRights)
-* [Marketing](#Marketing)
-* [Third Party Websites/Links](#ThirdPartyWebsitesLinks)
-* [Cookies](#Cookies)
-* [What other important privacy information is applicable?](#WhatOtherImportantPrivacyInformation)
-* [How do we transfer personal data and information globally or across borders?](#HowWeTransferPersonalDataInformation)
-* [Changes to our privacy policy](#ChangestoourPrivacyPolicy)
-* [How to contact us](#HowtoContactUs)
-* [How to contact the appropriate authorities](#HowContactAppropriateAuthorities)
+Data Protection Officer  
+Vero Screening Ltd trading as Accurate  
+Princes House  
+Brighton  
+East Sussex  
+BN1 3XB  
+United Kingdom  
+Tel: +44 (0) 1273 840 800  
+Email: dpo@veroscreening.com
 
-**What personal data and information do we collect****?**
+* * *
 
-We collect personal data for multiple reasons based upon the nature of your relationship, transaction, or interaction with us. You may interact with Accurate in more than one way or may fall into more than one of the following categories:
+### Overview
 
-Website Users
+* How we collect your personal data;
+* The types of personal data we collect on our website;
+* Information gathered to manage our relationship with our clients;
+* Information gathered as part of sales and direct marketing activity;
+* Information gathered during employment screening on behalf of our clients;
+* Automated decision making or profiling using personal data;
+* Data security; Data retention; Data transfer; Data sharing; Data subject rights.
 
-* When you visit this Website, we initially collect general internet data, including your domain name, computer ID, your internet protocol address, your location, the web page from which you entered our Website, which of our web pages you visited, how long you spend on each page and other behavior while visiting our Websites and third-party links. To collect this information, when you visit our Website, a “cookie” will be set on your computer. Cookies contain information that allows our web servers to recognize you whenever you visit. Cookies are explained in more detail below.
+### How we collect your personal data
 
-* In addition to the general internet information collected when you visit our Website, we may also collect other information that you provide directly to us. This information may include: your name, job title, organization, contact information (name, phone number, email and/or mailing address), your subscription preferences for Website newsletters or notices.
+We collect your personal data in a number of ways which are listed below:
 
-Customer/Vendor
+* When we have contact with you:
+* When we speak to you on the phone;
+* When you email us;
+* When you send information to us through the post
+* When you visit our website
+* From our clients, in the delivery of our contractually agreed services
+* From third parties (eg accredited providers of direct marketing lists)
+* From publicly available sources
 
-* Customers are those individuals or organizations that contract with us to procure background screening information and utilize our Services (“customer” or “client”). They may also be referred to as the end user of the background report.
+* * *
 
-* Vendors, consultants, or other service providers are those individuals or organizations that Accurate contracts with to provide certain services to Accurate, perform certain business-related functions or provide certain data.
+#### When we collect your data
 
-* _Type of Information:_
-    * Contact information such as name, email address, phone number, address, or other contact information necessary to provide the Services.
-    * Commercial business information such as payment and billing information, contacts, banking or credit card information, account numbers, email addresses and payment or financial information.
-    * Organizational information such as the products you order, your company information, size, credit information and other non-personal information.
+* When we collect your data
+* When you navigate around our website
+* When you contact us via the ‘Contact Us’ form on our website
+* When you communicate to us through instant messaging (eg Tawk)
+* When you sign up to our newsletter
+* When you apply to one of our advertised positions
 
-Candidate or Data Subject of our Customer
+#### Personal data we obtain from you or your personal computer
 
-* A candidate or data subject is an individual for whom one of Accurate’s customers has requested Accurate to procure and prepare a background screening report.
-* In addition to information collected as a Website user, Accurate may collect the following regarding data subjects/candidates:
-    * Contact information including: name (including prior names and AKAs), email address, address, phone number, and location
-    * Identifying Information – social security or other government identification number, driver’s license number, date of birth, mother’s maiden name, place of birth, or other identifying information necessary to determine your identity and provide accurate background screening reports
-    * Adress history
-    * Criminal record history and information, police records, arrest records, and/or convictions.
-    * Driver’s history
-        * Credit history information, credit(s), debits, judgments, payment history or patterns, or other credit characteristics
-        * Education history and information.
-        * Employment history and information
-        * Professional licenses
-        * Right to work information
-        * Occupational health and drug test screening results
-        * Opinions and references
-        * Directorship and corporate governance, corporate affiliations
-        * Publicly available media (social, print or online)
-        * Billing or financial information if utilizing AccurateNow’s volunteer services.
-        * Other information that may requested by the customer
+* **Cookies.**
+* Name; email; company; contact number; reason for contact.
+* Any information provided by the data subject in the free text box; IP address/location; Referral URL
+* **Email address**
+* Contact information; address information; CV attached / cover letter; employment status; right to work; optional equality and diversity questions for the purpose of establishing special arrangements or equal opportunities monitoring.
 
-Prospective Accurate Employees
+* * *
 
-* Accurate may collect the same information we collect from our customer’s candidates or data subjects in order to evaluate your eligibility as an employee and/or to perform a background check. In addition to the data subject information, you may provide other information to us during an interview which you feel is necessary for Accurate to know.
+#### Why we collect this data
 
-Accurate Employee
+* To improve user experience.
+* To contact you in response to your question. To understand your question and reply to you.
+* To understand your question and reply to you. To better understand use of our website.
+* To send you our newsletter.
+* To contact you in relation to the position, or similar positions. To review your experience for suitability for a role. To confirm potential notice periods. To comply with legislation.
 
-* In addition to the foregoing information collected during your application process, Accurate will collect the following information:
-    * Interests and other personal information you’re willing share with us
-    * Professional background information
-    * Identity information (DOB; identity documents, nationality, citizenship, immigration information or other identifying information to ensure you are authorized to work in the location you are being placed).
-    * Diversity information or other information (sex, gender, ethnicity, disability information, veteran status, race or other information) – this is for statistical purposes and will not be connected to your identifying information
-    * Your work history, progress, job performance, productivity and other information that can help manage your work product
-    * Your tax and payroll information, financial information, benefits, insurance information, medical information if needed to provide benefits, and other personal characteristics
+#### Lawful basis for gathering information
 
-**How do we collect and use your personal data and information****?**
+* Our legitimate interests to improve website performance.
+* Your consent to be contacted in respect to your query.
+* Our legitimate interests to improve website performance, and user experience.
+* Our legitimate interests to market/ advertise our services to customers. Your consent by signing-up to our newsletter.
+* Our legitimate interests to advertise for open opportunities at Accurate. Your consent by applying for an open position or expressing interest in a role.
 
-Accurate collects the foregoing information in a number of different ways depending on your interaction with Accurate and the purpose of collecting the personal information.  You may fall into more than one of the categories. The use of your personal information is limited (i) to providing the Service for which it was collected; (ii) to respond to requests for information or to facilitate transactions or communications for customers who have a legitimate interest and lawful basis for using such information; (iii) to fulfill a contract with you or our customer; (iv) based on your consent; (v) to comply with the law and legal process; or (vi) for our legitimate interest.
+* * *
 
-* Website users – Personal data and information may be automatically collected through technology and interaction with our Website. As is true of most websites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We do not link this automatically collected data to personal information. Our Website uses cookies to collect, track, store, and analyze data about you and your visit. See below for more information regarding cookies. We collect this information to ensure our Websites are working properly, to improve Website performance and functionality, monitor security, to market and advertise services you find helpful and provide a more customer and user-centric experience.
+### Third party website applications
 
-* Data subjects or candidates – If you are a data subject or candidate of a customer, a potential Accurate employee, or a current Accurate employee, we collect personal information for the purpose of processing and conducting the background screening. In most instances you will be notified beforehand and will provide your authorization and _consent_\* to collect and use your personal information.  We will collect your information from the following sources:
-    * From you
-    * From our customer(s)
-    * Public records
-    * Publicly available media; social media or other sources
-    * Schools, employers, credit reporting agencies, law enforcement agencies, courts or other governmental agencies, references or third parties you provided us to contact for information regarding your character
+Accurate use a messaging tool allowing for instant communication between users of our website and Accurate. The provider of this service is ‘Tawk’ and their privacy policy can be viewed at [https://www.tawk.to/privacy-policy/](https://www.tawk.to/privacy-policy/). The type of data processed and lawful basis for processing are expressed in the previous table ‘When you communicate to us through instant messaging’.
 
-\*Accurate does not rely on consent outside of the US for utilizing personal information to conduct the background screening. Our customers are required to have a lawful basis for ordering background checks.
+### Information gathered as part of sales and direct marketing activity
 
-* Accurate employees – For current Accurate employees, we may collect personal information necessary for processing human resource functions and may collect information from:
-    * Any of the foregoing
-    * Insurance company
-    * Benefits providers
-    * Your supervisor
-    * Your co-workers
+Accurate maintain a marketing list and occasionally send direct marketing communications to relevant parties (such as HR, procurement) at businesses who might be interested in the services we provide, or updates relevant to the screening industry. The personal information that is maintained to facilitate direct marketing is typically limited to full name and email address.
 
-* Customers – For Accurate customers we collect personal information directly from you or from our Website or service platform. We collect your data so that we can process your order and provide Services; manage your account; provide results, reports, and other information.
-    * In addition to the uses above and to provide better services, Accurate may aggregate personal information and data for analysis of trends and user statistics. Any personal information aggregated no longer identifies any specific individual or user, and personal data is anonymized.
+The lawful basis for Accurate’s direct marketing activity is the express consent of the individual to receive such communications. Where you no longer wish to receive such communications from Accurate you can either select the unsubscribe option (which is present on all marketing emails), or request to be removed from Accurate’s direct marketing lists. To be removed from Accurate’s direct marketing list please notify the Sales Team and ask for your information to be removed from our records [here.](https://www.accurate.com/uk/contact-us/)
 
-**How do we share your personal information and data****?**
+Accurate uses marketing functionality on third-party websites/apps (see Links to other websites), the lawful basis for such activity is Accurate’s legitimate interests.
 
-Accurate Background will only transfer personal information to affiliates, partners, vendors, customers and other third parties  as needed to provide our Service. Transfers to third parties are covered by the provisions in this policy regarding notice and choice and by the service agreements with our clients.  We will not release your personal information to third parties except as necessary for us to process the Service.
+* * *
 
-**How do we store your personal information and data****?**
+### Information during screening on behalf of our clients
 
-How long we keep personal information depends on the type of information and purposes for which it is collected. We retain personal information (i) as long as it is needed to provide our Services, (ii) long enough to meet our and our clients’ contractual, legal, and business needs, or (iii) as long as we have an ongoing legitimate business or legal purpose to do so. Once we no longer need your personal information, it is deleted or anonymized, meaning you can no longer be identified from any remaining information.
+If you are undergoing screening on behalf of one of our clients, please refer to our ‘Privacy policy for Candidates’
 
-Third parties with whom we partner to provide certain features on our Website or to display advertising based on your web browsing activity, use Local Storage (HTML5) to store content information and preferences. Various browsers may offer their own management tools for removing HTML5.
+### Automated decision making or profiling using personal data
 
-**What are your data protection rights****?**
+Accurate do not carry out automated decision making, or profiling using personal data.
 
-You have certain data protection rights under various privacy laws. You are entitled to the following rights:
+* * *
 
-* **The right to access** – You have the right to request that Accurate provide copies of your personal data. We may charge you a small fee for this service.
-* **The right to rectification** – You have the right to request that Accurate correct any information you believe is inaccurate. You also have the right to request that Accurate complete information you believe is incomplete.
-* **The right to erasure** – You have the right to request that Accurate erase your personal data, under certain conditions.
-* **The right to restrict processing** – You have the right to request that Accurate restrict the processing of your personal data under certain conditions.
-* **The right to object to processing** – You have the right to object to Accurate’s processing of your personal data, under certain conditions.
-* **The right to data portability** – You have the right to request that Accurate transfer the data that we have collected to another organization, or directly to you, under certain conditions.
+### Data security
 
-Access to Data Controlled by our Clients
+Accurate takes its obligation to maintain the privacy of your personal data seriously and are certified to both ISO27001:2013 and Cyber Essentials. As a UK based company (acting as a Data Processor on behalf of our Clients) we are compliant with the General Data Protection Regulation (GDPR) and UK Data Protection legislation. We observe strict technical and organisational measures to safeguard the secure collection, processing, use and storage of personal data, in line with relevant legislation.
 
-In some cases, Accurate processes personal information on behalf of our clients.  If you are seeking access, correction, or deletion of inaccurate data, you should direct your query to our client (the data controller).  If you are a data subject or candidate of one of our clients and would no longer like to be contacted by our clients or wish to withdrawal your consent to use our service, please contact the client that you interact with directly.
+### Data retention
 
-**Marketing**
+Accurate will only retain personal data for as long as necessary to fulfil the purposes it was collected for, including for the purposes of satisfying any legal, accounting, or reporting requirements. Following this all personal information will be securely deleted from our records.
 
-We partner with a third party to display advertising on our Website or to manage our advertising on other sites. Our third-party partner may use technologies such as cookies to gather information about your activities on this Website and other sites to provide you advertising based upon your browsing activities and interests.  Cookies are discussed in more detail below.
+* * *
 
-If you supply us with your postal address online, you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by emailing, calling, or writing to us at the address below.
+### Links to other websites
 
-If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. You may choose to stop receiving our newsletter or marketing emails by: (i) following the unsubscribe instructions included in these emails, (ii) accessing the email preferences in your account settings page, or (iii) you can contact us at [customer\_service@accurate.com](mailto:customer_service@accurate.com). If you do not want to receive e-mails from us in the future, please let us know by emailing, calling, or writing to us at the address below.
+Our website may contain links and icons which enable you to visit other websites which may be of interest. However, once you have used these to leave our website, we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites. You should exercise caution and look at the privacy statement (see below) applicable to the website in question.
 
-We display personal testimonials and other endorsements of satisfied customers on our Website. With your consent, we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can [contact us](#HowtoContactUs) by using the contact information provided below.
+* Linkedin: [https://www.linkedin.com/legal/privacy-policy](https://www.linkedin.com/legal/privacy-policy)
+* Facebook: [https://www.facebook.com/about/privacy](https://www.facebook.com/about/privacy)
+* Twitter: [https://twitter.com/privacy](https://twitter.com/privacy)
+* Addthis: [https://www.addthis.com/privacy/privacy-policy](https://www.addthis.com/privacy/privacy-policy)
+* EasyWeb ATS: [https://www.easywebgroup.co.uk/privacypolicy](https://www.easywebgroup.co.uk/privacypolicy)
 
-User Access and Choice
+* * *
 
-If your personal information changes, or if you no longer desire our newsletters or similar marketing services, you may correct, update, amend or delete/remove it by making the change on our member information page or by [contacting us](#HowtoContactUs) by email, telephone or postal mail at the contact information listed below. We will respond to your request within 30 days. Accurate Background will retain your information for as long as your account is active or as needed to provide our marketing services.
+### Data Transfer
 
-Social Media Widgets
+Accurate’s servers are based within the United Kingdom. No personal data that is processed or collected by using this website will be transferred or stored outside the United Kingdom by Accurate.
 
-Our Website includes social media features such as the ‘Share this’ button, Facebook ‘Like’ button, or interactive mini programs that run on our Website. These features may collect your IP address, information about which page you are visiting on our Website and will set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our Website. Your interactions with these features are governed by the privacy policy of the company providing it.
+### Data sharing
 
-Blog with Comments
+Accurate do not share the personal data that is processed or collected by using this website with any third parties or use such data for any purposes other than what is outlined in this privacy policy.
 
-Our Website offers publicly accessible blogs. You should be aware that any information you provide in this area can be read, collected, and used by others. To request removal of your personal information from our blog or community forum, [contact us](#HowtoContactUs) by using the contact information provided below. In some cases, we are not able to remove your personal information. We will notify you if we are unable to do so.
+* * *
 
-**Third Party Websites/Links**
+### Data subject rights
 
-Our Website includes links to other websites whose privacy practices may differ from those of Accurate Background. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any website you visit.
+UK and European Data Protection legislation gives you (as a data subject) rights which include:
 
-**Cookies**
+* the right to information;
+* the right to rectification;
+* the right to erasure;
+* the right to restrict processing;
+* the right to request data portability; and
+* the right to object to processing.
 
-What is a Cookie?
+You also have the right to withdraw consent at any time where we are relying on consent to process your personal data. However, this will not affect the lawfulness of any processing carried out before you withdraw your consent. If you withdraw your consent, we may not be able to provide certain products or services to you. We will advise you if this is the case at the time you withdraw your consent.
 
-Cookies are text files placed on your computer to collect standard internet log information and visitor behavior information. When you visit our Website, we may collect information from you automatically through cookies or similar technology. Cookies help us make your experience better and more efficient.
+Please note some restrictions may apply to the applications of the rights. For further details, please refer to the information provided on the website of The Information Commissioner [https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/). Should you wish to exercise one of your rights under UK and European Law please direct your request to our Data Protection Officer whose contact details are provided in the Introduction of this privacy policy for website users.
 
-For further information, visit [allaboutcookies.org](http://www.allaboutcookies.org/).
+Accurate has appointed DataRep as Data Protection Representative in the European Union, should you have a question about the processing of your data in the EU please contact ukdpo@accurate.com or datarequest@datarep.com. The lead supervisory authority in the European Union for Accurate related matters is www.dataprotection.ie.
 
-When you visit this Website, we collect general internet data, including your domain name, the web page from which you entered our Website, which of our web pages you visited, and how long you spend on each page. To collect this information, when you visit our Website , a “cookie” will be set on your computer. Cookies contain information that allows our web servers to recognize you whenever you visit.
+### Right to Complain
 
-How do we use Cookies?
+You have the right to lodge a complaint with the supervisory authority, the Information Commissioner’s Office, please refer to its website at www.ico.org.uk. You may contact the Information Commissioner’s Office as follows:
 
-Accurate uses cookies in a range of ways to improve your experience on our Website, including:
+By email: Please complete the form at [https://ico.org.uk/global/contact-us/email/](https://ico.org.uk/global/contact-us/email/)
 
-* Keeping you signed in
-* Understanding how you use our Website
-* Employing tracking technologies such as cookies, beacons, scripts, and tags that we, our partners, affiliates, or analytics and service providers use to analyze trends, to administer the Website, to track users’ movements around the Website and to gather demographic information about our user base as a whole
-* Utilizing cookies to record session information, passwords, and the profile of subscribed clients at a site to provide better service when visitors return to our Website
-* Using the information we collect to study how this Website is used, so that we may improve and enhance your experience on our Website
+By phone: 0303 123 1113
 
-What types of Cookies do we use?
+By post: Information Commissioner’s Office, Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF
 
-There are a number of different types of cookies. Session cookies last only as long as you remain on the Website; others, called persistent cookies, may be stored for longer periods of time.  These cookies can make browsing easier by storing your password or your preferences regarding how you use the Website.
+### Updates and Further Information
 
-* Essential/Strictly Necessary Cookies – Essential cookies are necessary to enable us to provide our services. They are also required for you to navigate through the Website and web application and benefit from all the available functions. These cookies cannot be switched off.
-* Analytical Cookies – Analytical cookies aid us in understanding how you interact with our Website. This helps us create statistics of usage on the Website to help us understand how the Website is performing and whether there are any technical issues.
-* Functional/Personalization Cookies – We use functional cookies so that we recognize you on our Website and remember your previously selected preferences to provide a more personalized experience. These could include what language you prefer and location you are in.
-* Advertising Cookies – Advertising cookies collect information about your visit to our Website, the content you viewed, the links you followed and information about your browser, device. Our Company sometimes shares limited aspects of this data with third parties for advertising purposes.
+This Privacy Policy was updated on 2022-12-31. It may be updated to take into account changes at Accurate or for example to reflect changes to regulation or legislation.
 
-How to Manage Cookies
+Updates to this Privacy Policy will be posted on this page – please check back from time to time.
 
-In certain jurisdictions, when you access our Website, you will be prompted with a cookie banner which will permit you to adjust your cookie settings. In addition to the banner, you may change your cookie settings by clicking on the cookie icon found on our Website.
+**Vero Screening Ltd trading as Accurate**
 
-You can set your browser not to accept cookies.  If you would like to learn how to opt out of cookies using your browser settings, click [here](https://www.aboutcookies.org/). To learn how to manage privacy and storage settings for cookies, click [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118).
+31 December 2022
 
-If you reject cookies, you may still use our Website, although it is possible that some areas of our Website will not function properly if you do so. Particularly, you may not be able to place orders or review results without accepting cookies. We do not provide this information to outside parties other than for such reasons. No personal information is stored in cookies.
+#### Privacy policy for Candidates (applicants or employees of Accurate’s clients)
 
-**What other important privacy information is applicable****?**
+**Introduction**
 
-Policy Regarding Children
+Vero Screening Ltd trading as Accurate (Accurate) is a limited company incorporated in England and Wales (Company number 05392085). We provide pre-engagement and in-engagement screening services to our clients. Full details of the services we provide can be found in the Service Descriptions section of our website https://accurate.com/uk/pre-employment-screening/services/descriptions/.
 
-Our Website is not directed toward nor intended for the use of children. We do not knowingly collect or solicit personal information from children without parental consent, unless permitted by law.  If we become aware that we have collected personal information from children without parental consent (or as permitted by law), we will delete it.  If you believe that a child may have provided us with personal information without such parental consent, please [contact us](#HowtoContactUs).
+This Privacy policy for Candidates gives you detailed information on when and why we collect your personal data, how we use it and how we keep it secure. Accurate processes your personal data on behalf of our client. Any client of Accurate that engages Accurate to perform screening services in relation to you is the data controller of your personal data. Accurate is the data processor of your personal data and is committed to protecting your personal data.
 
-Accuracy
+If you have questions regarding your personal data and how we use it, please contact our Data Protection Officer using the contact details below:
 
-We understand the importance of accurate data, and we have legal obligations to ensure our screening results are accurate. Most of the personal information collected will come directly from you, so we deem such information accurate.  When we collect personal information from other sources, each source is responsible for the accuracy of the information. If we find out your personal information/data is inaccurate we will correct any inaccuracies. To ask for correction of your personal information, [contact us](#HowtoContactUs).
+Data Protection Officer  
+Vero Screening Ltd trading as Accurate  
+Princes House  
+Brighton  
+East Sussex  
+BN1 3XB  
+United Kingdom
 
-Disclosure of your Information
+Tel: +44 (0) 1273 840 800  
+Email: dpo@veroscreening.com
 
-In certain situations, Accurate may disclose information to third parties in response to a legal request. If we are required by a court order, warrant, subpoena, or other enforceable demand to produce personal information we will comply as required by law. Prior to providing any personal information, we will make reasonable efforts, if permitted by law, to notify you and obtain your consent prior to providing such information.  If personal information was collected from or on behalf of a client, we will consult with the client if permitted by law.
+### Overview
 
-Security
+* Lawful basis for processing
+* How we collect your personal data
+* The types of personal data we collect
+* Why we collect your personal data and how we use it
+* Change of purpose
+* How we handle your personal data
+* How we protect your personal data
+* Your rights as a data subject
+* Updates and further information
 
-We maintain physical, electronic, and procedural safeguards to guard the personal information you provide to us. Our products and/or services online are transmitted through a secured socket layer (SSL) transmission. Furthermore, we have security protocols and measures in place to protect the personal information we maintain about you from unauthorized access or alteration. These measures include internal and external firewalls, physical and technological security measures, and encryption of certain information (including login credentials). No method of transmission over the internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Website, please [contact us](#HowtoContactUs).
+### We collect your personal data in a number of ways which are listed below:
 
-**How do we transfer personal data and information globally or across borders****?**
+* When you provide personal information to us through our online Candidate portal
 
-Accurate Background, LLC complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce.  Accurate Background has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) regarding the processing of personal data received from the European Union in reliance on the EU-U.S. DPF and from the United Kingdom (and Gibraltar) in reliance on the UK Extension to the EU-U.S. DPF.  Accurate Background has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) regarding the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF.  If there is any conflict between the terms in this privacy policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern.  To learn more about the Data Privacy Framework (DPF) program, and to view our certification, please visit [www.dataprivacyframework.gov](http://www.dataprivacyframework.gov/).
+* When we have contact with you:
+    * When we speak to you on the phone;
+    * When you email us;
+    * When you send information to us through the post
 
-Accurate is responsible for the processing of personal data we receive, under the DPF, and subsequent transfers to a third party acting as an agent on our behalf. Accurate complies with the DPF for all onward transfers of personal data and processes such data consistent with the DPF.
+* When you visit our website. From our client who requires your screening to be conducted
+* We may also get personal data about you from third parties – please see the ‘Why we collect your personal data and how we use it’ section for more details.
 
-Please contact us  should you have a Data Privacy Framework related (or general privacy-related) complaint.  If you have an unresolved privacy or data use concern that we have not addressed satisfactorily or we have not timely responded or acknowledged your concerns, please contact our  U.S.-based third-party dispute resolution provider, [JAMS](https://www.jamsadr.com/eu-us-data-privacy-framework). (free of charge).
+### Lawful basis for processing
 
-If you have complaints regarding the DPF that have not been resolved by other DPF mechanisms, you have the possibility to invoke binding [arbitration](https://www.dataprivacyframework.gov/s/).
+Our client is responsible for determining the lawful basis for your screening. The collection of your personal data is done in accordance with their instructions. Separately, Accurate will ask for your signed authorisation. This authorisation is required to facilitate the screening process by enabling us to process your data and procure information from relevant parties. Typically these relevant parties (organisations and referees) will not share your information unless we can demonstrate our request is made with your knowledge and agreement. This authorisation does not alter the lawful basis for processing determined by our client. Furthermore, should you withdraw or withhold this authorisation it will have no bearing on our client’s lawful basis for screening.
 
-Additional Information for Individuals in the European Economic Area (EEA), Switzerland and the United Kingdom
+If your offer of a role is dependent upon successfully undergoing screening (or if screening is required under your existing contract) then failure to authorise Accurate to process your personal data for screening purposes may have implications on your contractual relationship with our client. Accurate are not involved in any decisions relating to your contractual relationship with our client and can take no responsibility for any actions taken by our client in connection with the screening process.
 
-In addition to the disclosures made elsewhere in this privacy policy with respect to our privacy practices, our legal basis for processing personal data we collect in the EEA, Switzerland and the UK, can vary depending on the manner in which you use our Website or otherwise engage with us. Our legal basis for processing information that we collect about you through our Website is our legitimate interest as a data controller to administer our Website.  In cases where you are asked to provide your consent, you can withdraw your consent at any time, although this will not affect the lawfulness of our processing prior to your withdrawal of consent.  In the case of processing involving passive data collection and other processing for the administration of our Website, such processing is undertaken pursuant to our legitimate interests as a data controller, including the operation of our Website. We may process personal data where necessary for our compliance with a legal obligation to which we are subject. We also reserve the right to process personal data in the event we believe doing so is necessary to protect the rights of the data subject or another person.
+Should you have any questions in relation to the consequences of withholding your personal data and / or withholding or withdrawing your authorisation in connection with the screening process you should make contact with your HR Representative at our client.
 
-Additional Information for Individuals in United Kingdom (UK)
+* * *
 
-As an organization using Disclosure and Barring Service (DBS) to provide our services, Accurate Background complies fully with the codes of practice regarding the correct handling, use, storage, retention and disposal of certificate information. Certificate information is only used for the specific purpose for which it was requested and for which the applicant’s full consent has been given. Certificate information is stored securely. Once the retention period has elapsed, we will ensure that any DBS certificate information is immediately destroyed by secure means. Certificate information is only passed to those who are authorized to receive the information. We maintain a record of all those to whom the certificate information has been revealed, and it is a criminal offense to pass this information to anyone who is not entitled to receive it.
+### The types of personal data we collect
 
-Additional Information for Individuals in Brazil
+The type of personal data we collect depends on where and when it is gathered and for what purposes we have gathered it:
 
-In addition to the disclosures made elsewhere in this privacy policy with respect to our privacy practices, our legal basis for processing personal data we collect in Brazil can vary depending on the way you use our Website or otherwise engage with us. Our legal basis for processing information that we collect about you through our Website is our legitimate interest as a data controller to administer our Website.  In the case of processing involving passive data collection and other processing for the administration of our Website, such processing is undertaken pursuant to our legitimate interests as a data controller, including the operation of our Website. We may process personal data where necessary for our compliance with a legal obligation to which we are subject. We also reserve the right to process personal data in the event we believe doing so is necessary to protect the rights of the data subject or another person.  In cases where you are asked to provide your consent, you can decline to provide it, although you may not be able to proceed with your application or other activity for which consent was requested.  In cases where you provide consent, you can withdraw your consent at any time, although processing carried out under previously given consent remains valid unless you request deletion of the data.
+**Personal data we obtain from you**
 
-Under Article 18 of Brazil’s General Law for Data Protection (LGPD), individuals have certain rights with respect to personal data about them that is being processed by controllers, including: confirmation of the existence of processing; access to personal data about them; correction of incomplete, inaccurate or out of date data; anonymization, blocking or deletion of data that is unnecessary, excessive or not processed in accordance with the LGPD; data portability; deletion of personal data; and information about third parties with whom the controller has shared personal data to the extent these are required by law.  In cases where we are acting as a processor, rather than a controller, we may need to refer your request to the controller.
+When you complete your screening questionnaire via our online Candidate portal we will collect information from you in order to provide our services to our clients.
 
-If you have any questions about our privacy practices, please contact our Vice-President of Compliance using the contact information below.  You have the right to object to the processing of personal data about you and the right to file a complaint with Brazilian data protection and consumer defense authorities if you have concern about the way we are processing your personal data.
+Subject to the level of screening and types of checks required by our client, we may collect the following information (and/or relevant documentation to evidence the following information):
 
-Additional Information for Individuals in California
+* Prefix and name (current and former)
+* Gender
+* Contact email address
+* Date of Birth
+* Place of birth
+* Nationality
+* Contact phone number(s)
 
-The California Consumer Privacy Act and California Privacy Rights Act  provide certain rights to California residents(collectively referred to as “CCPA” for the purposes of this privacy policy).  However, the CCPA provides an exception for information gathered and processed under the Fair Credit Reporting Act (“FCRA”).  Most of the personal information we collect is for the purpose of providing a background report under the FCRA.  In those circumstances, we will process and store your information in accordance with our obligations under the FCRA (or the equivalent state law).   The FCRA provides you with the opportunity to request a disclosure and/or reinvestigation when applicable.
+* Education details (including gaps)
+* Employment details (including gaps)
+* Current address
+* Address history
+* Photographic proof of identity
+* Financial integrity information
+* Criminal history
+* Civil court record
 
-While the CCPA provides the exception for data collected under the FCRA, the CCPA will still apply to California residents who are users of our Website, Accurate employees or Accurate customers.  Accurate does not sell your personal information, although Accurate may share your information.  Please refer to the sections regarding how we collect, use, share, and store your information for more information regarding the use of personal information.
+* Professional qualifications
+* Regulatory information
+* References
+* Government-issued identity records/numbers
+* Right to work information
+* Directorship information
+* Driving history/and insurance details
+* Fitness and propriety questions
 
-Unless there is an FCRA exemption or Accurate is acting as a service provider or processor, California residents have the following rights:
+* * *
 
-* Right to know what categories of personal data have been collected and disclosed, sold or shared within the past 12 months
-* Right to access your personal data
-* Right to request a deletion of certain personal data unless such data is subject to an exemption or Accurate is acting as service provider or processor
-* Right to equal services and non-discrimination
-* Request we do not sell or share your information
+#### Personal data collected when you visit our website
 
-**Changes to our privacy policy**
+Full details of the personal data Accurate collects and processes when you visit our website are provided in our General Privacy Policy
 
-Accurate Background will revise or update this privacy policy on occasion to reflect changes to our practices. If we make any material changes, we will provide notification through our Website prior to the change taking effect. You should refer back to this page for the latest information. The date at the start of this privacy policy will be updated any time a change is made.
+#### **Information we obtain independently from you**
 
-**How to contact us**
+As part of the screening process our client requires Accurate to verify the information that you have provided to us and conduct the checks (services) required for the screening. Accurate has a services description page which can be seen at www.accurate.com/uk/resources/services-descriptions/.
 
-If you have any questions about Accurate’s privacy policy, the personal data we have stored, or you would like to exercise one of your data protection rights, please do not hesitate to contact us.
+It is important to note that not all screenings require the same levels of checks and verifications. Should you wish to know more as to the required checks or verifications relating to your screening, we recommend you contact the relevant HR contact at the client who instructed Accurate to carry out the screening exercise.
 
-Email us at:  customer\_service@accurate.com
+Accurate has no control as to the exact information returned during a screening, and as a result cannot anticipate what information may be returned from a third-party source. As a data processor Accurate does not provide any opinion or make any decisions on what to report to our client, and therefore only provides the information in an objective manner. Our client (as data controller) is responsible for how it interprets the information.
 
-Call us: 800.784.3911
+The sources of information Accurate might use as part of a screening could include:
 
-Or write to us at:  200 Spectrum Center Drive, Suite 1100, Irvine, CA 92618
+* Our client;
+* Publicly available registers/sources of information such as print media archives, government watch or sanctions lists;
+* Referees (including reference providers) such as previous institutions where you have studied, worked, are currently (or were previously) a director, obtained a professional qualification, have a professional membership with, your accountant to confirm periods of self-employment, job agencies to confirm periods of non-employment;
+* Regulatory bodies who can confirm periods of registration, approval or disciplinary history;
+* Credit reference agencies, bankruptcy databases or lists for the purposes of establishing financial integrity;
+* Civil court records (to confirm whether you have has been subject to adverse proceedings);
+* Directorship registers or holders of such information;
+* Relevant government agencies such as licensing authorities who can confirm details pertinent to the employment screening process;
+* Law enforcement agencies or bodies who maintain criminal history information (such as the Disclosure Barring Service for the UK), courts, police departments;
+* Our trusted network of third party suppliers to enable your personal data checks to be completed in jurisdictions outside of the UK or in areas outside of our expertise.
 
-If you have any questions about our privacy practices, please contact our Vice-President of Compliance using the contact information below.  You also have the right to file a complaint with your data protection authority if you have a concern about the way we are processing your personal data.
+* * *
 
-Vice President Compliance
+### Why we collect your personal data and how we use it
 
-Accurate Background
+As previously stated in the ‘Lawful basis for processing’ section of this policy, our primary function is as a service provider to our clients, conducting the following types of services:
 
-200 Spectrum Center Drive, Suite 1100
+* Background screening of individuals before and during employment, volunteer or contractual relationships.
+* Collection, validation and storage of on-boarding and other human resources documents.
 
-Irvine, CA 92618
+We use your personal data in the following ways:
 
-800.784.3911
+* To carry out our business and to provide our services to our clients.
+* To keep the client updated of the progress of your screening or produce relevant reports for the client in relation to the screenings they have requested.
+* To enable you to maintain a profile on your account which you can amend or delete
 
-[customer\_service@accurate.com](mailto:customer_service@accurate.com)
+Where applicable we may share your personal data with our trusted network of third party suppliers, to enable your personal data checks to be completed in jurisdictions outside of the UK or in areas outside of our expertise.
 
-**How to contact the appropriate authorities?**
+### Change of purpose
 
-Should you wish to report a complaint or if you feel that Accurate has not addressed your concern in a satisfactory manner, you may contact your relevant supervisory authority, local data protection authority, or the Federal Trade Commission.
+We will only use your personal data for the purposes for which we collected it (ie screening purposes as instructed by our client). Please note we may process your personal data without your knowledge or consent, where this is required by law.
 
-* [Services](https://www.accurate.com/employment-screening/)
-    * [Business Intelligence](https://www.accurate.com/employment-screening/business-intelligence/)
-    * [Candidate Experience](https://www.accurate.com/how-we-help/candidate-experience/)
-    * [Client Experience](https://www.accurate.com/how-we-help/client-experience/)
-    * [Compliance](https://www.accurate.com/how-we-help/background-check-compliance/)
-    * [Credit Checks](https://www.accurate.com/employment-screening/credit-checks/)
-    * [Criminal Background Checks](https://www.accurate.com/employment-screening/criminal-background-checks/)
-    * [Driving History](https://www.accurate.com/employment-screening/driving-history/)
-    * [Drug & Health Screening](https://www.accurate.com/employment-screening/drug-testing-health-services/)
-    * [Form I-9 & E-Verify](https://www.accurate.com/employment-screening/form-i-9-e-verify/)
-    * [Monitoring Services](https://www.accurate.com/employment-screening/monitoring-services/)
-    * [Global Searches](https://www.accurate.com/employment-screening/global-searches/)
-    * [Identity Management](https://www.accurate.com/employment-screening/identity-management/)
-    * [Sanctions](https://www.accurate.com/employment-screening/sanctions/)
-    * [Social Media Searches](https://www.accurate.com/employment-screening/social-media-searches/)
-    * [Verifications](https://www.accurate.com/employment-screening/verifications/)
-* [Solutions](https://www.accurate.com/solutions/)
-    * [Integrations](https://www.accurate.com/solutions/ats-integrations/)
-    * [Automated Court Access](https://www.accurate.com/solutions/automated-court-access/)
-    * [Background Check API](https://www.accurate.com/solutions/background-check-api/)
-    * [Candidate Portal](https://www.accurate.com/solutions/candidate-portal/)
-    * [Client Ordering Platform](https://www.accurate.com/solutions/client-ordering-platform/)
-    * [Gig & Marketplaces](https://www.accurate.com/solutions/gig-economy-marketplaces/)
-    * [Healthcare](https://www.accurate.com/solutions/healthcare/)
-    * [Insurance](https://www.accurate.com/solutions/insurance/)
-    * [Retail](https://www.accurate.com/solutions/retail/)
-    * [Staffing](https://www.accurate.com/solutions/staffing/)
-    * [Transportation](https://www.accurate.com/solutions/transportation/)
-    * [Small Business](https://www.accurate.com/solutions/small-and-mid-sized-businesses/)
-    * [Large Organization](https://www.accurate.com/solutions/large-organization-background-checks/)
+### How we handle your personal data
 
-* [Blog](https://www.accurate.com/blog/)
-* [Resources](https://www.accurate.com/resources/)
-* [About Us](https://www.accurate.com/about-us/)
-    * [Careers](https://www.accurate.com/about-us/careers/)
-    * [Partners](https://www.accurate.com/about-us/partners/)
-    * [Events](https://www.accurate.com/about-us/events/)
-    * [News](https://www.accurate.com/about-us/news/)
-    * [Leadership](https://www.accurate.com/about-us/leadership/)
-* [Contact](https://www.accurate.com/contact-us/)
-* [Support](https://www.accurate.com/support/)
-* [My Background Check](https://www.accurate.com/my-background-check/)
-* [Client Login](https://www.accurate.com/client-login/)
+We may share your personal data with some of our suppliers who perform services on our behalf. We make sure anyone who provides a service for Accurate enters into an agreement with us and meets our standards for data security. They will not use your personal data for anything other than the clearly defined purpose relating to the service that they are providing. We may share your details with:
 
-![](https://www.accurate.com/wp-content/uploads/2023/09/Image-4.svg)
+* Suppliers who work on behalf of Accurate for the performance of any contract we enter into with them (eg to check your credentials and references in countries outside the UK).
+* Where required to do so, for example when requested by the police or a regulatory or government authority investigating illegal activities.
 
-![](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%201%201%22%3E%3C/svg%3E)
+* * *
 
-##### Accurate Headquarters
+### How we protect your personal data
 
-200 Spectrum Center Drive Suite 1100 Irvine, CA 92618
+Accurate is committed to protecting the personal data you entrust to us. We adopt robust and appropriate technologies and policies, so the information we have about you is protected from unauthorised access and improper use.
+
+| Data security |
+| --- |
+| We have put in place appropriate security measures to prevent your personal data from being accidentally lost, used or accessed in an unauthorised way, altered or disclosed. For further details please see our ‘Data Protection Guide for Candidates’. In addition, we limit access to your personal data to those employees, agents, contractors and other third parties who have a business need to know. They will only process your personal data on our instructions and they are subject to a duty of confidentiality.<br><br>We have put in place procedures to deal with any suspected personal data breach and will notify our clients and any applicable regulator of a breach where we are legally required to do so.<br><br>As part of the services we offer to our clients, the personal data you provide may be transferred to countries outside the European Economic Area (EEA). By way of example, this may happen if we are asked by our client to check your references for time spent working outside of the EEA and we engage a service provider based in the appropriate jurisdiction to perform the checks on our behalf. If Accurate transfers your personal data outside of the EEA in this way, we will take steps to ensure that your privacy rights continue to be protected as outlined in this Privacy Policy.<br><br>Accurate recognises that some countries do not have the same standard of data protection afforded in most EU States, for this reason Accurate has a strict supplier management policy which includes the screening of all new suppliers, annual security questionnaires and reviews, and the use of formal processing agreements. Our processing agreements also include terms dictating that the suppliers:<br><br>* are only permitted to process your personal data for employment screening purposes;<br>* can only retain your personal data for a maximum period of 90 days (unless they are restricted by law from doing this) following which they must securely delete such records;<br>* must immediately notify Accurate of any suspected or actual data breach of your personal data;<br>* shall take all appropriate technical and security measures to safeguard your personal data; and<br>* will only transfer your personal data in accordance with approved data transfer provisions. |
+
+| Data retention |
+| --- |
+| We will only retain your personal data for as long as necessary to fulfil the purposes we collected it for, as determined by our client, including for the purposes of satisfying any legal, accounting, or reporting requirements.<br><br>In relation to the screening report and information gathered during the course of the screening, our client specifies the required data retention period for electronic/paper records. Subject to our legal and regulatory requirements, our screening platform will securely delete your personal data. In the case of disposal of hard copy papers (typically pertaining to UK criminal record checks) these are managed by way of secure confidential waste bins installed on-site and secure on-site shredding; the destruction of all confidential waste is carried out to BS15713:2009 security shredding standard by appropriately vetted members of staff.<br><br>Should you wish to request further information relating to the relevant retention period of your records please contact the relevant HR contact at the client who instructed Accurate to undertake the screening exercise. |
+
+* * *
+
+### Candidate portal screening form – Export-Import
+
+You can download a copy of the data you input into your Candidate portal screening form in a machine-readable pdf format. Please note, your Candidate portal account will be scheduled for automatic purging 30 days after the screening exercise has been completed regardless of whether you have exported your data or not. However, the Client portal copy of your screening (including screening form, report and attachments) will be retained in accordance with the data controller’s chosen retention period. This is typically 12 months from screening completion.
+
+* * *
+
+### Your rights as a data subject
+
+UK and European Data Protection legislation gives you (as a data subject) a number of rights which include:
+
+* the right to information;
+* the right to rectification;
+* the right to erasure;
+* the right to restrict processing;
+* the right to request data portability; and
+* the right to object to processing.
+
+Please note some restrictions may apply to the applications of the rights. For further details, please refer to the information provided on the website of The Information Commissioner [https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/).
+
+Please also note Accurate is a data processor acting on instructions to process your personal data from our client (the data controller). Accurate therefore advises you contact the HR representative at the client who instructed us to undertake your screening, should you wish to exercise any of your rights as a data subject. Accurate will assist our client to comply with fulfilling and evidencing such rights.
+
+Accurate has appointed DataRep as Data Protection Representative in the European Union, should you have a question about the processing of your data in the EU please contact ukdpo@accurate.com or datarequest@datarep.com (please quote Vero Screening Ltd trading as Accurate in the subject line). The lead supervisory authority in the European Union for Accurate related matters is [www.dataprotection.ie.](http://www.dataprotection.ie/)
+
+### Right to Complain
+
+You have the right to lodge a complaint with the supervisory authority, the Information Commissioner’s Office – please refer to its website at www.ico.org.uk. You may contact the Information Commissioner’s Office as follows:
+
+By email: Please complete the form at [https://ico.org.uk/global/contact-us/email/](https://ico.org.uk/global/contact-us/email/)
+
+By phone: 0303 123 1113
+
+By post: Information Commissioner’s Office, Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF
+
+* * *
+
+### Withdrawal of consent
+
+Where you have been advised by our client that the lawful basis for processing your personal data for screening purposes is consent, you have the right to withdraw this consent at any time. You can do this by contacting the client who instructed us to undertake your screening.
+
+As previously stated, Accurate is not involved in any decisions relating to your prospective or continuing contractual relationship with our client. Accurate can therefore take no responsibility for any action resulting from being unable to complete our client’s requested screening procedure, as a result of you withdrawing your consent.
+
+### Updates and further information
+
+This Privacy Policy was updated on 2020-12-31. It may be updated to take into account changes at Accurate or for example to reflect changes to regulation or legislation.
+
+Updates to this Privacy Policy will be posted on this page – please check back from time to time.
+
+**  
+Vero Screening Ltd trading as Accurate  
+****  
+31 December 2020**
+
+#### Privacy policy for Accurate candidates
+
+**Introduction**
+
+Vero Screening Ltd trading as Accurate (Accurate) is a limited company incorporated in England and Wales (Company number 05392085).
+
+As part of any recruitment process, Accurate collects and processes personal data relating to job applicants. The organisation is committed to being transparent about how it collects and uses that data and to meeting its data protection obligations.
+
+This Privacy policy for Candidates gives you detailed information on when and why we collect your personal data, how we use it and how we keep it secure.
+
+If you have questions regarding your personal data and how we use it, please contact our Data Protection Officer using the contact details below:
+
+**Data Protection Officer**  
+Vero Screening Ltd trading as Accurate  
+Princes House  
+Brighton  
+East Sussex  
+BN1 3XB  
+United Kingdom
+
+Tel: +44 (0) 1273 840 800  
+Email: dpo@veroscreening.com
+
+* * *
+
+### Overview
+
+* Lawful basis for processing;
+* The types of personal data we collect;
+* How we collect your personal data;
+
+* Why we collect your personal data and how we use it;
+* Change of purpose;
+* How we handle your personal data;
+
+* How we protect your personal data;
+* Your rights as a data subject;
+* Updates and further information.
+
+* * *
+
+### Lawful basis for processing
+
+We need to process data to take steps at your request prior to entering into a contract with you. We may also need to process your data to enter into a contract with you.
+
+In some cases, we need to process data to ensure that we are complying with legal obligations. For example, it is mandatory to check a successful applicant’s eligibility to work in the UK before employment starts.
+
+Accurate has a legitimate interest in processing personal data during the recruitment process and for keeping records of the process. Processing data from job applicants allows us to manage the recruitment process, assess and confirm a candidate’s suitability for employment and decide to whom to offer a job.
+
+We may also need to process data from job applicants to respond to and defend against legal claims.
+
+Accurate may process special categories of data, such as information about ethnic origin, sexual orientation or religion or belief, to monitor recruitment statistics. We may also collect information about whether or not applicants are disabled to make reasonable adjustments for candidates who have a disability.
+
+* * *
+
+### The types of personal data we collect
+
+**Accurate collects a range of information about you. This includes:**
+
+* Personal information such as your name, date of birth, address and contact details, including email address and telephone number;
+* Details of your qualifications, skills, experience and employment history;
+* Information about your current level of remuneration;
+* Whether or not you have a disability for which the organisation needs to make reasonable adjustments during the recruitment process;
+* Information about your entitlement to work in the UK.
+* If your successful in your application, information to enable us to undertake our [pre-employment screening](https://veroscreening.com/pre-employment-screening/ "pre-employment screening") process.
+
+**We may obtain your personal data from the following sources (please note that this list is not exhaustive):**
+
+* You (e.g. a Curriculum Vitae, application or registration form);
+* Other candidates or employees (e.g. through employee referral scheme);
+* Online jobsites;
+* The public domain;
+* Social Media;
+* At interview or attendance at assessment days;
+* Conversations on the telephone or video conferencing (which may be recorded);
+* Notes following a conversation or meeting;
+* Our websites and software applications
+
+Data will be stored in a range of different places, including on your application record, in HR management systems and on other IT systems (including email).
+
+* * *
+
+### Who has access to your data
+
+Your information may be shared internally for the purposes of the recruitment exercise. This includes members of the HR and recruitment team, interviewers involved in the recruitment process, managers in the business area with a vacancy and IT staff if access to the data is necessary for the performance of their roles.
+
+We will not share your data with third parties, unless your application for employment is successful and we make you an offer of employment. We will then share your data with third parties as part of our background screening procedures. During this process you will be required to provide information into our candidate portal and will be provided with the privacy policy for candidates undergoing background screening.
+
+* * *
+
+### How we protect your personal data
+
+Accurate is committed to protecting the personal data you entrust to us. We adopt robust and appropriate technologies and policies, so the information we have about you is protected from unauthorised access and improper use.
+
+We have put in place appropriate security measures to prevent your personal data from being accidentally lost, used or accessed in an unauthorised way, altered or disclosed.
+
+In addition, we limit access to your personal data to those employees, agents, contractors and other third parties who have a business need to know. They will only process your personal data on our instructions and they are subject to a duty of confidentiality.
+
+We have put in place procedures to deal with any suspected personal data breach and will notify any applicable regulator of a breach where we are legally required to do so.
+
+The personal data you provide may be transferred to countries outside the European Economic Area (EEA). By way of example, this may happen if we are asked by your (potential) employer to check your references for time spent working outside of the EEA and we engage a service provider based in the appropriate jurisdiction to perform the checks on our behalf. If Accurate transfers your personal data outside of the EEA in this way, we will take steps to ensure that your privacy rights continue to be protected as outlined in this Privacy Policy.
+
+Accurate recognises that some countries do not have the same standard of data protection afforded in most EU States, for this reason Accurate has a strict supplier management policy which includes the screening of all new suppliers, annual security questionnaires and reviews, and the use of formal processing agreements. Our processing agreements also include terms dictating that the suppliers:
+
+* Are only permitted to process your personal data for recruitment;
+* Can only retain your personal data for a maximum period of 90 days (unless they are restricted by law from doing this);
+* Must immediately notify Accurate of any suspected or actual data breach of your personal data;
+* Shall take all appropriate technical and security measures to safeguard your personal data;
+* Will only transfer your personal data in accordance with approved data transfer provisions.
+
+* * *
+
+### For how long does Vero Screening Ltd trading as Accurate keep data?
+
+We will only retain your personal data for as long as necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements.
+
+If your application for employment is unsuccessful, the organisation will hold your data on file for 3 (three) months after the end of the relevant recruitment process. If we wish to hold your data on file for longer, we will obtain your consent before doing so. If you agree to allow us to keep your personal data for longer, we will hold it for a further 6 (six) months for consideration for future employment opportunities. At the end of that period, or once you withdraw your consent, your data is deleted or destroyed.
+
+If your application for employment is successful, personal data gathered during the recruitment process will be transferred to your Human Resources file (electronic and paper based) and retained during your employment. The periods for which your data will be held will be provided to you in a new privacy notice on commencement of employment.
+
+* * *
+
+### Candidate portal screening form – Export-Import
+
+You can download a copy of the data you input into your Candidate portal screening form in a machine-readable pdf format. Please note, your Candidate portal account will be scheduled for automatic purging 30 days after the screening exercise has been completed regardless of whether you have exported your data or not. However, the Client portal copy of your screening (including screening form, report and attachments) will be retained in accordance with the data controller’s chosen retention period. This is typically 12 months from screening completion.
+
+* * *
+
+### Change of purpose
+
+We will only use your personal data for the purposes for which we collected it. Please note we may process your personal data without your knowledge or consent, where this is required by law.
+
+* * *
+
+#### How we handle your personal data
+
+We may share your personal data with some of our suppliers who perform services on our behalf. We make sure anyone who provides a service for Accurate enters into an agreement with us and meets our standards for data security. They will not use your personal data for anything other than the clearly defined purpose relating to the service that they are providing. We may share your details with:
+
+* Suppliers who work on behalf of Accurate for the performance of any contract we enter into with them (eg to check your credentials and references in countries outside the UK).
+* Where required to do so, for example when requested by the police or a regulatory or government authority investigating illegal activities.
+
+#### Your rights as a data subject
+
+UK and European Data Protection legislation gives you (as a data subject) a number of rights which include:
+
+* the right to information;
+* the right to rectification;
+* the right to erasure;
+* the right to restrict processing;
+* the right to request data portability;
+* the right to object to processing.
+
+Please note some restrictions may apply to the applications of the rights. For further details, please refer to the information provided on the website of **The Information Commissioner** [https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/) .
+
+#### Right to Complain
+
+You have the right to lodge a complaint with the supervisory authority, the Information Commissioner’s Office – please refer to its website at www.ico.org.uk. You may contact the Information Commissioner’s Office as follows:
+
+By email: Please complete the form at [https://ico.org.uk/global/contact-us/email/](https://ico.org.uk/global/contact-us/email/)
+
+By phone: 0303 123 1113
+
+By post: Information Commissioner’s Office, Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF
+
+* * *
+
+#### What if you do not provide personal data?
+
+You are under no statutory or contractual obligation to provide data to Vero Screening Ltd trading as Accurate during the recruitment process. However, if you do not provide the information, we may not be able to process your application properly or at all.
+
+#### Right to withdraw consent
+
+In the limited circumstances where you may have provided your consent to the collection, processing and transfer of your personal information for a specific purpose, you have the right to withdraw your consent for that specific processing at any time. To withdraw your consent, please contact our **Data Protection Officer** at [dpo@veroscreening.com](mailto:dpo@veroscreening.com "Contact Vero")
+
+Once we have received notification that you have withdrawn your consent, we will no longer process your information for the purpose or purposes you originally agreed to, unless we have another legitimate basis for doing so in law.
+
+#### Updates and further information
+
+This Privacy Policy was updated on 21 November 2018. It may be updated to take into account changes at Accurate or for example to reflect changes to regulation or legislation.
+
+Updates to this Privacy Policy will be posted on this page – please check back from time to time.
+
+**  
+Vero Screening Ltd trading as Accurate  
+21 November 2018**
+
+#### Privacy policy for Accurate employees
+
+**Introduction**
+
+Vero Screening Ltd trading as Accurate **(Accurate)** is a limited company incorporated in England and Wales (Company number 05392085). Accurate is committed to protecting the privacy and security of your personal information.
+
+This privacy notice describes how we collect and use personal information about you during and after your working relationship with us, in accordance with the **General Data Protection Regulation (GDPR)**.
+
+Accurate is a _“data controller”_. This means that we are responsible for deciding how we hold and use personal information about you. We are required under data protection legislation to notify you of the information contained in this privacy notice.
+
+This notice applies to current and former employees, workers and contractors. This notice does not form part of any contract of employment or other contract to provide services. We may update this notice at any time.
+
+It is important that you read this notice, together with any other privacy notice we may provide on specific occasions when we are collecting or processing personal information about you, so that you are aware of how and why we are using such information.
+
+If you have questions regarding your personal data and how we use it, please contact our Data Protection Officer using the contact details below:
+
+**Data Protection Officer**  
+Vero Screening Ltd trading as Accurate  
+Princes House  
+Brighton  
+East Sussex  
+BN1 3XB  
+United Kingdom
+
+Tel: +44 (0) 1273 840 800  
+Email: dpo@veroscreening.com
+
+* * *
+
+### Overview
+
+* Lawful basis for processing;
+* The types of personal data we collect;
+* How we collect your personal data;
+
+* Why we collect your personal data and how we use it;
+* Change of purpose;
+* How we handle your personal data;
+
+* How we protect your personal data;
+* Your rights as a data subject;
+* Updates and further information.
+
+* * *
+
+### Lawful basis for processing
+
+We will only use your personal information when the law allows us to. Most commonly, we will use your personal information in the following circumstances:
+
+* **Where we need to perform the contract we have entered into with you**
+    
+    Accurate’s contractual responsibilities include those arising from the contract of employment. The data processed to meet contractual responsibilities includes, but is not limited to, data relating to: payroll; bank account; postal address; sick pay; leave; maternity pay; and pension and emergency contacts.
+    
+* **Where we need to comply with a statutory or legal obligation**
+    
+    Our statutory responsibilities are those imposed on the company by legislation. The data processed to meet statutory responsibilities includes, but is not limited to, data relating to: tax; national insurance; statutory sick pay; statutory maternity pay; family leave; work permits; and equal opportunities monitoring.
+    
+* **Where it is necessary for our legitimate interests (or those of a third party) and your interests and fundamental rights do not override those interests:**  
+    Accurate has a legitimate interest in processing personal data during employment. Processing data from employees allows us to manage the employment relationship. Our management responsibilities are those necessary for the organisational functioning of the company. The data processed to meet management responsibilities includes, but is not limited to, data relating to: recruitment and employment; training and development; absence; disciplinary matters; health and safety; security, e-mail address and telephone number; and criminal convictions. We may also need to process data from employees to respond to and defend against legal claims.
+* **We may also use your personal information in the following situations, which are likely to be rare:**  
+    – Where we need to protect your interests (or someone else’s interests)- Where it is needed in the public interest (or for official purposes)
+
+* * *
+
+### How we use personal sensitive information
+
+‘Special categories’ of particularly sensitive personal information requires high levels of protection. We need to have further justification for collecting, storing and using this type of personal information.
+
+Accurate may process special categories of data, such as information about ethnic origin, sexual orientation or religion or belief, physical and mental health, disability, criminal allegations, proceedings or convictions, in the following circumstances:
+
+* In limited circumstances, with your explicit written consent.
+* Where we need to carry out our legal obligations in line with our data protection policy.
+* Where it is needed in public interest, such as for equal opportunities mointioring or in relation to our occupational pension scheme, and in line with our data protection policy.
+* Where it is needed to assess your working capacity on health grounds, subject to appropriate safeguards.
+
+Less commonly, we may process this type of information where it is needed in relation to legal claims or where is is needed to protect your interests (or someone elses interests) and you are not capable of giving your consent, or where you have already made the information public.
+
+We will use your particulary sensitieve personal information in the following ways:
+
+* We will use information relating to leaves of absence, which may include sickness absence or family related leave, to comply with employment and other laws.
+* We will use information about your physical or mental health, or disability status, to ensure your health and safety in the workplace and to assess your fitness to work, to provide appropriate workplace adjustments, to monitor and management sickness abnsence and to administer benefits.
+* We will use information about your race, national or ethnic origin, religious, philosophical or moral believes, or your sexual life or secual orientation, to ensure meaningful equal opportunity monitoring and reporting.
+* We may only use information relating to criminal convictions where the law allows us to do so. This will usually be where such processing is necessary to carry out our obligations and provided we do so in line with our data protection policy.
+
+In limited circumstances, we may approach you for your written consent to allow us to process certain particularly sensitive data. If we do so, we will provide you with full details of the information that we would like and the reason we need it, so that you can carefully consider whether you wish to consent. You should be aware that it is not a condition of your contract with us that you agree to any request for consent for us.
+
+* * *
+
+### How we collect your personal data
+
+* when you access our candidate portal for screening purposes;
+* when you contact our HR department via telephone or email;
+* when we collect data through our HR and benefit systems;
+* when we collect data through the implementation of any HR Employee Relations Policies e.g. Disciplinary;
+* in the course of managing your employment, for example performance reviews, Payroll;
+* when you complete staff surveys;
+* when you apply for a vacancy internally or externally;
+* when we receive your Personal Data from third parties, for example security screening and recruitment agencies.
+
+* * *
+
+### The types of personal data we collect
+
+|     |     |
+| --- | --- |
+| Information about you | name, address, date of birth, marital status, nationality, race, gender, religion, and preferred language, details of any disabilities, work restrictions and/or required accommodations |
+| Information to contact you at work or home | name, address, telephone, and e-mail addresses. |
+| Information about who to contact in a case of emergency (yours or ours) | name, address, telephone, e-mail addresses and their relationship to you. |
+| Information to identify you | Photographs, passport and/or driving license details, proof of residence, electronic signatures. |
+| Information about your suitability to work for us | References, interview notes, work visas ID information such as passport details and driving licence information, records/results of preemployment checks, including criminal record checks, credit and fraud checks. |
+| Information about your skills and experience | CVs, resumes and/or application forms, references, records of skills and experience: qualifications, skills, training and other compliance requirements. |
+| Information about your terms of employment with Accurate | Letters of offer and acceptance of employment, your employment contract. |
+| Information that we need to pay you | Bank account details, national insurance or social security numbers (where applicable). |
+| Information that we need to provide you with benefits and other entitlements | Length of service information, health information, leave requests. |
+| Information to allow you to access our buildings and systems | Employee identification number (UIN), computer or facilities access and authentication information, identification codes, passwords, answers to security questions, photographs, video images. |
+| Information relating to your performance at work | Performance ratings, leadership ratings, targets, objectives, records of performance reviews, records and/or notes of 1 to 1s and other meetings, personal development plans, personal improvement plans, correspondence and reports. |
+| Information relating to discipline, grievance and other employment related processes | Interview/meeting notes or recordings, correspondence. |
+| Information relating to your work travel and expenses | Bank account details, passport, driving licence, vehicle registration |
+
+* * *
+
+### Why do we collect and use your information?
+
+|     |     |
+| --- | --- |
+| Recruitment | To assess your suitability to workTo perform vacancy and applicant management activities<br><br>To conduct screening, assessments and interviews;<br><br>To maintain a library of correspondence;<br><br>To make offers and provide contracts of employment<br><br>To conduct pre-employment checks, including determining your legal right to work and carrying out criminal record and credit checks where applicable – for more information about Accurate’s preemployment checks see our Personnel Screening procedure. |
+| Human Resources (“HR”), finance and other business administration purposes | Staffing, including resource planning, recruitment, termination, and succession planning;Budgetary and financial planning and administration; Organisational planning and development and workforce management<br><br>Compensation, payroll, and benefit planning and administration, including salary, tax calculations, reward and recognition payments, insurance and pensions<br><br>Workforce development, education, training and certification<br><br>Performance management;<br><br>Problem resolution, including carrying out internal reviews, grievances, investigations, audits;<br><br>Business travel and expense management<br><br>To conduct business reporting and analytics Administration of flexible work arrangements Administration of employee enrolment and participation in activities and programmes offered to eligible employees<br><br>Work-related injury and illness, including the management of employee Health & Safety, and disabilities<br><br>To communicate with you and to facilitate communication between you and other people Compliance and compliance reporting, including conflict of interest and gifts and hospitality reporting<br><br>Risk management, Project Management, Training and quality purposes. |
+| Security purposes | Physical access control authorizing, granting, administering, monitoring and terminating access to or use of our facilities, records, property and infrastructure including communications services such as business telephones and email/internet use  <br>Prevention and detection of crime. |
+| Information Technology (“IT”) administration purposes: | IT Systems access control and use monitoring IT fault reporting, management and resolution systems administration, support, development, management and maintenance. |
+| Legal purposes | To comply with our legal obligations. |
+
+* * *
+
+#### Who has access to your data
+
+Your information may be shared internally for the purposes of managing the employment relationship. This includes members of the HR and recruitment team, training team, managers and IT staff if access to the data is necessary for the performance of their roles.
+
+We may share your personal information with third parties where required by law, where it is necessary to administer the working relationship with you or where we have another legitimate interest in doing so. We require third parties to respect the security of your data and to treat it in accordance with the law.
+
+We may also share your personal information with other third parties, for example in the context of the possible sale or restructuring of the business. We may also need to share your personal information with a regulator or to otherwise comply with the law.
+
+All our third-party service providers are required to take appropriate security measures to protect your personal information in line with our policies. We do not allow our third-party service providers to use your personal data for their own purposes. We only permit them to process your personal data for specified purposes and in accordance with our instructions.
+
+#### For how long does Vero Screening Ltd trading as Accurate keep data?
+
+We will only retain your personal data for as long as necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements.
+
+Details of retention periods for different aspects of your personal information are available in our retention policy which is available from Human Resources. To determine the appropriate retention period for personal data, we consider the amount, nature, and sensitivity of the personal data, the potential risk of harm from unauthorised use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal requirements.
+
+In some circumstances we may anonymise your personal information so that it can no longer be associated with you, in which case we may use such information without further notice to you. Once you are no longer an employee, worker or contractor of the company we will retain and securely destroy your personal information in accordance with applicable laws and regulations.
+
+* * *
+
+### How we protect your personal data
+
+Accurate is committed to protecting the personal data you entrust to us. We adopt robust and appropriate technologies and policies, so the information we have about you is protected from unauthorised access and improper use.
+
+We have put in place appropriate security measures to prevent your personal data from being accidentally lost, used or accessed in an unauthorised way, altered or disclosed. For further details please email [dpo@veroscreening.com](mailto:dpo@veroscreening.com "Contact Vero"). In addition, we limit access to your personal data to those employees, agents, contractors and other third parties who have a business need to know. They will only process your personal data on our instructions and they are subject to a duty of confidentiality.
+
+We have put in place procedures to deal with any suspected personal data breach and will notify any applicable regulator of a breach where we are legally required to do so.
+
+The personal data you provide may be transferred to countries outside the European Economic Area (EEA). By way of example, this may happen if we are checking your references for time spent working outside of the EEA and we engage a service provider based in the appropriate jurisdiction to perform the checks on our behalf. If Accurate transfers your personal data outside of the EEA in this way, we will take steps to ensure that your privacy rights continue to be protected as outlined in this Privacy Policy.
+
+Accurate recognises that some countries do not have the same standard of data protection afforded in most EU States, for this reason Accurate has a strict supplier management policy which includes the screening of all new suppliers, annual security questionnaires and reviews, and the use of formal processing agreements. Our processing agreements also include terms dictating that the suppliers:
+
+* are only permitted to process your personal data for recruitment;
+* can only retain your personal data for a maximum period of 90 days (unless they are restricted by law from doing this);
+* must immediately notify Accurate of any suspected or actual data breach of your personal data;
+* shall take all appropriate technical and security measures to safeguard your personal data;
+* will only transfer your personal data in accordance with approved data transfer provisions.
+
+* * *
+
+### Change of purpose
+
+We will only use your personal data for the purposes for which we collected it. Please note we may process your personal data without your knowledge or consent, where this is required by law.
+
+#### How we handle your personal data
+
+We may share your personal data with some of our suppliers who perform services on our behalf. We make sure anyone who provides a service for Accurate enters into an agreement with us and meets our standards for data security. They will not use your personal data for anything other than the clearly defined purpose relating to the service that they are providing. We may share your details with:
+
+* Suppliers who work on behalf of Accurate for the performance of any contract we enter into with them (eg supply of benefits).
+* Where required to do so, for example when requested by the police or a regulatory or government authority investigating illegal activities.
+
+#### Your rights as a data subject
+
+UK and European Data Protection legislation gives you (as a data subject) a number of rights which include:
+
+* the right to information;
+* the right to rectification;
+* the right to erasure;
+* the right to restrict processing;
+* the right to request data portability;
+* the right to object to processing.
+
+If you want to review, verify, correct or request erasure of your personal information, object to the processing of your personal data, or request that we transfer a copy of your personal information to another party, please our **Data Protection Officer** at [dpo@veroscreening.com](mailto:dpo@veroscreening.com "Contact Vero")
+
+Please note some restrictions may apply to the applications of the rights. For further details, please refer to the information provided on the website of **The Information Commissioner** https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/ .
+
+#### Right to Complain
+
+You have the right to lodge a complaint with the supervisory authority, the Information Commissioner’s Office – please refer to its website at www.ico.org.uk. You may contact the Information Commissioner’s Office as follows:
+
+By email: Please complete the form at [https://ico.org.uk/global/contact-us/email/](https://ico.org.uk/global/contact-us/email/)
+
+By phone: 0303 123 1113
+
+By post: Information Commissioner’s Office, Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF
+
+* * *
+
+### What if you do not provide personal data?
+
+You are under no statutory or contractual obligation to provide data to Vero Screening Ltd trading as Accurate during employment. However, if you do not provide required information, we may not be able to manage some or all aspects of the employment relationship.
+
+* * *
+
+#### Right to withdraw consent
+
+In the limited circumstances where you may have provided your consent to the collection, processing and transfer of your personal information for a specific purpose, you have the right to withdraw your consent for that specific processing at any time. To withdraw your consent, please contact our **Data Protection Officer** at [dpo@veroscreening.com](mailto:dpo@veroscreening.com "Contact Vero")
+
+Once we have received notification that you have withdrawn your consent, we will no longer process your information for the purpose or purposes you originally agreed to, unless we have another legitimate basis for doing so in law.
+
+#### Updates and further information
+
+This Privacy Policy was updated on 21 November 2018. It may be updated to take into account changes at Accurate or for example to reflect changes to regulation or legislation.
+
+Updates to this Privacy Policy will be posted on this page – please check back from time to time.
+
+**  
+Vero Screening Ltd trading as Accurate  
+21 November 2018**
+
+* [Services](https://www.accurate.com/uk/pre-employment-screening/)
+    * [Pre-Employment Screening](https://www.accurate.com/uk/pre-employment-screening/)
+    * [Pay-As-You-Go Screening](https://www.accurate.com/uk/pre-employment-screening/pay-as-you-go/)
+    * [International Employee Screening](https://www.accurate.com/uk/international-employee-screening/)
+    * [Criminal Record Checks](https://www.accurate.com/uk/pre-employment-screening/criminal-record-checks/)
+    * [SMCR & Employment Screening](https://www.accurate.com/uk/pre-employment-screening/smcr/)
+    * [Ministry of Manpower Singapore](https://www.accurate.com/uk/work-pass-ministry-of-manpower-singapore/)
+    * [BS7858](https://www.accurate.com/uk/pre-employment-screening/bs7858/)
+* [Technology](https://www.accurate.com/uk/technology/)
+    * [Candidate Portal](https://www.accurate.com/uk/candidate-portal/)
+    * [Information Security](https://www.accurate.com/uk/technology/information-security/)
+* [Candidates](https://www.accurate.com/uk/candidates/)
+    * [Candidates](https://www.accurate.com/uk/candidates/)
+    * [Candidate FAQs](https://www.accurate.com/uk/candidates/faqs/)
+
+* [About Us](https://www.accurate.com/uk/about/)
+    * [The Accurate Difference](https://www.accurate.com/uk/about/the-accurate-uk-difference/)
+    * [Vero Green](https://www.accurate.com/uk/vero-green/)
+    * [Careers at Accurate](https://www.accurate.com/uk/careers/)
+* [Resources](https://www.accurate.com/uk/resources/)
+    * [Latest News & Blog](https://www.accurate.com/uk/blog/)
+    * [Client FAQs](https://www.accurate.com/uk/resources/client-faq/)
+
+##### Vero Screening Limited trading as Accurate
+
+Princes House, 53-54 Queens Road, Brighton, BN1 3XB, UK.
 
 ###### Main Office
 
-[800.784.3911](tel:800.784.3911)
+[+44(0)1273 840800](tel:+4401273840800)
 
-###### Sales
+[Contact](https://www.accurate.com/uk/contact-us/)
 
-[888.316.2110](tel:888.316.2110)
+* [twitter Link to Twitter](https://twitter.com/veroscreening)
+* [linkedin Link to LinkedIn](https://www.linkedin.com/company/vero-screening-limited/)
 
-[Contact](https://www.accurate.com/contact-us/)
-
-* [linkedin Link to LinkedIn](https://www.linkedin.com/company/accurate-background/)
-* [facebook Link to Facebook](https://www.facebook.com/AccurateBackground/)
-* [twitter Link to Twitter](https://twitter.com/accuratebg)
-* [youtube Link to YouTube](https://www.youtube.com/@accuratebackground6512)
-
-© 2024 Accurate Background. All Rights Reserved  | [Privacy Policy](https://www.accurate.com/privacy-policy/) | [UK Modern Slavery Act Statement](https://www.accurate.com/uk-modern-slavery-act-statement/) | [Supplier Code of Conduct](https://www.accurate.com/wp-content/uploads/2023/09/AB-Supplier-Code-of-Conduct-October-2022.pdf) | [Code of Conduct and Ethics Policy](https://www.accurate.com/wp-content/uploads/2023/09/AB-Business-Conduct-and-Ethics-Policy-March-2023-v2.pdf)
+© 2024 Accurate Background. All Rights Reserved. ‘Accurate’ is a trading name of Vero Screening Limited, registered in England and Wales no. 05392085  | [Privacy Policy](https://www.accurate.com/uk/privacy-policy/) | [UK Modern Slavery Act Statement](https://www.accurate.com/uk/modern-slavery-statement/) | [Supplier Code of Conduct](https://www.accurate.com/wp-content/uploads/2023/09/AB-Supplier-Code-of-Conduct-October-2022.pdf) | [Code of Conduct and Ethics Policy](https://www.accurate.com/wp-content/uploads/2023/09/AB-Business-Conduct-and-Ethics-Policy-March-2023-v2.pdf) | [Cookie Policy](https://www.accurate.com/uk/cookies-policy/)
 
 ×
 
-![logo](https://www.accurate.com/wp-content/uploads/2023/08/logo-1.svg)
+![logo](https://www.accurate.com/uk/wp-content/uploads/2023/08/logo-1.svg)
 
 ![logo](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E)
 
@@ -434,58 +929,49 @@ Should you wish to report a complaint or if you feel that Accurate has not addre
 
 close
 
-* [Services](https://www.accurate.com/employment-screening/)
-    * Employee Screening Services
-        * [Business Intelligence (BI)](https://www.accurate.com/employment-screening/business-intelligence/)
-        * [Credit Checks](https://www.accurate.com/employment-screening/credit-checks/)
-        * [Criminal Background Checks](https://www.accurate.com/employment-screening/criminal-background-checks/)
-        * [Driving History](https://www.accurate.com/employment-screening/driving-history/)
-        * [Drug & Health Screening](https://www.accurate.com/employment-screening/drug-testing-health-services/)
-        * [Form I-9 & E-Verify](https://www.accurate.com/employment-screening/form-i-9-e-verify/)
-        * [Global Searches](https://www.accurate.com/employment-screening/global-searches/)
-        * [Monitoring Services](https://www.accurate.com/employment-screening/criminal-record-monitoring/)
-        * [Identity Management](https://www.accurate.com/employment-screening/identity-management/)
-        * [Sanctions](https://www.accurate.com/employment-screening/sanctions/)
-        * [Social Media Searches](https://www.accurate.com/employment-screening/social-media-searches/)
-        * [Verifications](https://www.accurate.com/employment-screening/verifications/)
-    * How We Help
-        * [Compliance](https://www.accurate.com/how-we-help/background-check-compliance/)
-        * [Candidate Experience](https://www.accurate.com/how-we-help/candidate-experience/)
-        * [Client Experience](https://www.accurate.com/how-we-help/client-experience/)
-* [Solutions](https://www.accurate.com/solutions/)
-    * Industries
-        * [Gig & Marketplaces](https://www.accurate.com/solutions/gig-economy-marketplaces/)
-        * [Healthcare](https://www.accurate.com/solutions/healthcare/)
-        * [Insurance](https://www.accurate.com/solutions/insurance/)
-        * [Retail](https://www.accurate.com/solutions/retail/)
-        * [Staffing](https://www.accurate.com/solutions/staffing/)
-        * [Transportation](https://www.accurate.com/solutions/transportation/)
-    * Technology
-        * [Integrations](https://www.accurate.com/solutions/ats-integrations/)
-        * [Background Check API](https://www.accurate.com/solutions/background-check-api/)
-        * [Automated Court Access](https://www.accurate.com/solutions/automated-court-access/)
-        * [Candidate Portal](https://www.accurate.com/solutions/candidate-portal/)
-        * [Client Ordering Platform](https://www.accurate.com/solutions/client-ordering-platform/)
-    * Company Size
-        * [Small Business](https://www.accurate.com/solutions/small-and-mid-sized-businesses/)
-        * [Large Organization](https://www.accurate.com/solutions/large-organization-background-checks/)
-* [Resources](https://www.accurate.com/resources)
-    * [Blog](https://www.accurate.com/blog/)
-    * [Marijuana Laws](https://www.accurate.com/marijuana-laws/)
-    * [Ban the Box](https://www.accurate.com/ban-the-box/)
-    * [eBooks](https://www.accurate.com/resources/ebooks)
-    * [Legislative Updates](https://www.accurate.com/resources/legislative-updates)
-    * [Sample Forms](https://www.accurate.com/resources/sample-forms)
-    * [White Papers](https://www.accurate.com/resources/white-papers)
-    * [Webinars](https://www.accurate.com/resources/webinars)
-    * [All Resources](https://www.accurate.com/resources)
-* [About Us](https://www.accurate.com/about-us/)
-    * [Careers](https://www.accurate.com/about-us/careers/)
-    * [Events](https://www.accurate.com/about-us/events/)
-    * [Leadership](https://www.accurate.com/about-us/leadership/)
-    * [News](https://www.accurate.com/about-us/news/)
-    * [Partners](https://www.accurate.com/about-us/partners/)
+* [Services](https://www.accurate.com/uk/pre-employment-screening/)
+    * * * #### SERVICES
+                
+                Employment screening is the process of determining whether or not an individual is suitable for a given position. This includes individuals who are moving between job roles within an organisation.
+                
+        * * [Pre-Employment Screening](https://www.accurate.com/uk/pre-employment-screening/)
+            * [Pay-As-You-Go Screening](https://www.accurate.com/uk/pre-employment-screening/pay-as-you-go/)
+            * [International Employee Screening](https://www.accurate.com/uk/international-employee-screening/)
+            * [Criminal Record Checks](https://www.accurate.com/uk/pre-employment-screening/criminal-record-checks/)
+            * [SMCR & Employment Screening](https://www.accurate.com/uk/pre-employment-screening/smcr/)
+            * [Ministry of Manpower Singapore](https://www.accurate.com/uk/work-pass-ministry-of-manpower-singapore/)
+            * [BS7858](https://www.accurate.com/uk/pre-employment-screening/bs7858/)
+* [Technology](https://www.accurate.com/uk/technology/)
+    * * * #### TECHNOLOGY
+                
+                Embrace innovative, industry-leading technology with our reporting tools. Accurate’s dynamic, interactive interface will lead you through your search findings in an easy to use format.
+                
+        * * [Information Security](https://www.accurate.com/uk/technology/information-security/)
+            * [Candidate Portal](https://www.accurate.com/uk/candidate-portal/)
+* [Candidates](https://www.accurate.com/uk/candidates/)
+    * * * #### Candidates
+                
+                Now that you are at the employment screening stage of the recruitment process, our expert team will take you through this part of your on boarding journey in the most comprehensive way possible. Use our tools and resources to guide you through.
+                
+        * * [Candidates](https://www.accurate.com/uk/candidates/)
+            * [Candidate FAQs](https://www.accurate.com/uk/candidates/faqs/)
+* [Resources](https://www.accurate.com/uk/resources/)
+    * * * #### RESOURCES
+                
+                We know that you seek up-to-date, expert information on the screening industry and all of its relative realms. Click here for a range of resources and content for Clients, Candidates, and Human Resources teams alike.
+                
+        * * [Latest News & Blog](https://www.accurate.com/uk/blog/)
+            * [Client FAQs](https://www.accurate.com/uk/resources/client-faq/)
+* [About Us](https://www.accurate.com/uk/about/)
+    * * * #### About Us
+                
+                With 20 years behind us, you can depend on Accurate. Our trustworthy and dependable professionals work dynamically with HR teams to protect from risk and provide candidates with the best possible experience.
+                
+        * * [The Accurate Difference](https://www.accurate.com/uk/about/the-accurate-uk-difference/)
+            * [Vero Green](https://www.accurate.com/uk/vero-green/)
+            * [Careers at Accurate](https://www.accurate.com/uk/careers/)
+            * [Gender Pay Gap Report](https://www.accurate.com/uk/wp-content/uploads/sites/2/2023/12/Gender-Pay-Gap-Report-2022-PDF.pdf)
 
-[Get Support](https://www.accurate.com/support/)
+[Get Support](https://www.accurate.com/uk/support/)
 
-[Contact Sales](https://www.accurate.com/contact-us/)
+[Contact Sales](https://www.accurate.com/uk/contact-us/)
