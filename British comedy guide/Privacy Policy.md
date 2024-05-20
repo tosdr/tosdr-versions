@@ -136,21 +136,21 @@ _This privacy policy was last updated on 24th May 2018, with minor clarification
 
 ### See also
 
-[Deryck Guyler](https://www.comedy.co.uk/features/comedy_chronicles/deryck-guyler/)Features
+[Image shows left to right: John Junkin, Barry Cryer](https://www.comedy.co.uk/features/comedy_chronicles/inside-the-writing-room/)Features
 
-[Comedy Chronicles: Oh yes! - The comic guile of Deryck Guyler](https://www.comedy.co.uk/features/comedy_chronicles/deryck-guyler/)
+[Comedy Chronicles: Taking on the tabula rasa: Inside the writing room](https://www.comedy.co.uk/features/comedy_chronicles/inside-the-writing-room/)
 
-[In The Doghouse. James Fox-Upton (Leslie Phillips). Credit: Rank Organisation](https://www.comedy.co.uk/people/leslie_phillips/features/ding-dong-leslie-phillips-at-100/)People
+[Fawlty Towers: The Play. Image shows left to right: Adam Jackson-Smith, Anna-Jane Casey. Credit: Hugo Glendinning](https://www.comedy.co.uk/live/features/mark-muldoon-comedy-diary-45/)Live
 
-[Ding dong!: Leslie Phillips at 100](https://www.comedy.co.uk/people/leslie_phillips/features/ding-dong-leslie-phillips-at-100/)
+[Fawlty Towers, Jo Koy, Sukh Ojla, Alex Horne's Football Match - Mark Muldoon's Comedy Diary](https://www.comedy.co.uk/live/features/mark-muldoon-comedy-diary-45/)
 
-[Kathy Maniura](https://www.comedy.co.uk/live/fgwg/kathy-maniura/)Live
+[Matt Bragg](https://www.comedy.co.uk/live/fgwg/matt-bragg/)Live
 
-[First Gig, Worst Gig: Kathy Maniura](https://www.comedy.co.uk/live/fgwg/kathy-maniura/)
+[First Gig, Worst Gig: Matt Bragg](https://www.comedy.co.uk/live/fgwg/matt-bragg/)
 
-[Consolevania. Image shows left to right: Robert Florence, Ryan MacLeod](https://www.comedy.co.uk/online/features/consolevania-at-20/)Online
+[Nick Helm](https://www.comedy.co.uk/live/features/bobby-carroll-diary-nick-helm-martin-angolo-julian-clary/)Live
 
-[Consolevania turns 20: Robert Florence and Ryan Macleod on making comedy out of video games](https://www.comedy.co.uk/online/features/consolevania-at-20/)
+[Nick Helm / Martin Angolo / Julian Clary - Bobby Carroll's Live Comedy Diary](https://www.comedy.co.uk/live/features/bobby-carroll-diary-nick-helm-martin-angolo-julian-clary/)
 
 #### [Donate to British Comedy Guide](https://www.comedy.co.uk/donate/)
 
@@ -193,7 +193,7 @@ Privacy settings
 
 * * *
 
-Geoooooooooorge![Mildred Roper](https://www.comedy.co.uk/tv/george_and_mildred/)
+He's not going to sell much ice cream going at that speed.[Eric Morecambe](https://www.comedy.co.uk/tv/the_morecambe_wise_show/)
 
 © British Comedy Guide
 
