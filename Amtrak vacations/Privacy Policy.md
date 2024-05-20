@@ -27,7 +27,7 @@ Main navigation
     * [Most Popular](https://www.amtrakvacations.com/destinations/top-10-destinations?nav=)
         
         * [Boston, MA](https://www.amtrakvacations.com/destinations/boston-ma?nav=)
-        * [Canadian Rockies](https://www.amtrakvacations.com/canadian-rockies?nav=)
+        * [Canada](https://www.amtrakvacations.com/destinations/canada?nav=)
         * [Chicago, IL](https://www.amtrakvacations.com/destinations/chicago-il?nav=)
         * [Denver, CO](https://www.amtrakvacations.com/destinations/denver-co?nav=)
         * [Charleston, SC](https://www.amtrakvacations.com/destinations/charleston-sc?nav=)
@@ -251,10 +251,9 @@ Close
 
 [×](#)
 
-### USA Rail Sale Happening Now
+### FLASH SALE!
 
-Sign up to save $600 on your next rail vacation!
-------------------------------------------------
+Sign up and gain access to limited-time savings on our most popular vacations!
 
 First Name 
 
