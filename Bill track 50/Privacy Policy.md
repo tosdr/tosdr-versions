@@ -47,7 +47,7 @@ Circumstances may arise where we are required to disclose your personal informat
 You Can Opt Out Of Receiving Further Marketing From LegiNation At Any Time
 --------------------------------------------------------------------------
 
-We will send you information about our various products and services, or other products and services we feel may be of interest to you. Only LegiNation (or agents or contractors working on behalf of LegiNation and under confidentiality agreements) will send you these direct mailings. If you do not want to receive such mailings, simply tell us when you give us your personal information. Or, at any time you can easily opt out of receiving further marketing from LegiNation by emailing us at [info@LegiNation.com](mailto:info@legination.com) or by clicking unsubscribe at the bottom of our marketing email.
+We will send you information about our various products and services, or other products and services we feel may be of interest to you. Only LegiNation (or agents or contractors working on behalf of LegiNation and under confidentiality agreements) will send you these direct mailings. If you do not want to receive such mailings, simply tell us when you give us your personal information. Or, at any time you can easily opt out of receiving further marketing from LegiNation by emailing us at [info@LegiNation.com](mailto:info@LegiNation.com) or by clicking unsubscribe at the bottom of our marketing email.
 
 Our Commitment to Data Security
 -------------------------------
@@ -64,7 +64,7 @@ You can request a copy of the personally-identifiable information that LegiNatio
 
 If you would like to contact us for any reason regarding our privacy practices, please write us at the following address:
 
-[Info@LegiNation.com](mailto:Info@legination.com)  
+[Info@LegiNation.com](mailto:Info@LegiNation.com)  
 or  
 LegiNation, Inc.  
 6050 Greenwood Plaza Blvd, Suite 110  
