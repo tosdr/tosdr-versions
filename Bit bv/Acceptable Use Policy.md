@@ -71,7 +71,6 @@ Acceptable Use Policy
     * [GGZ Oost Brabant](https://www.bit.nl/ggz-oost-brabant)
     * [Missing Piece](https://www.bit.nl/missing-piece)
     * [Sensing Clues](https://www.bit.nl/sensing-clues)
-    * [Solimas](https://www.bit.nl/solimas)
     * [Techni Team](https://www.bit.nl/techniteam)
     * [DiVault](https://www.bit.nl/divault)
     * [Laposta](https://www.bit.nl/laposta)
@@ -135,13 +134,13 @@ BIT behoudt zich het recht voor aan de hand van maatschappelijke en technische o
 
 ### [Nieuws](https://www.bit.nl/nieuws)
 
-#### [Nieuw bij BIT: GPU hosting](https://www.bit.nl/news/3526/88/Nieuw-bij-BIT-GPU-hosting)
+#### [Status.bit.nl in nieuw jasje!](https://www.bit.nl/news/3527/88/Status.bit.nl-in-nieuw-jasje)
 
 [](https://www.bit.nl/nieuws)
 
 ### [Blogs](https://www.bit.nl/blogs)
 
-#### [Echte mensen, echte service: bereikbaarheid bij BIT](https://www.bit.nl/news/3523/293/Echte-mensen-echte-service-bereikbaarheid-bij-BIT)
+#### [Certificaatvrijheid met Let’s Encrypt](https://www.bit.nl/news/3540/293/Certificaatvrijheid-met-Lets-Encrypt)
 
 [](https://www.bit.nl/blogs)
 
@@ -155,7 +154,7 @@ BIT behoudt zich het recht voor aan de hand van maatschappelijke en technische o
 
 #### [Onderhoud](https://www.bit.nl/onderhoud)
 
-[15-04-24 Periodiek onderhoud koeling BIT-1](https://www.bit.nl/news/3517/92/Periodiek-onderhoud-koeling-BIT-1) [22-04-24 Periodiek onderhoud koeling BIT-2A](https://www.bit.nl/news/3521/92/Periodiek-onderhoud-koeling-BIT-2A) [25-04-24 Periodiek onderhoud koeling BIT-2BCD](https://www.bit.nl/news/3524/92/Periodiek-onderhoud-koeling-BIT-2BCD)
+[22-05-24 Onderhoud UPS'en BIT-2A](https://www.bit.nl/news/3532/92/Onderhoud-UPSen-BIT-2A) [28-05-24 Onderhoud UPS'en BIT-1](https://www.bit.nl/news/3530/92/Onderhoud-UPSen-BIT-1) [29-05-24 Onderhoud UPS'en BIT-2C](https://www.bit.nl/news/3536/92/Onderhoud-UPSen-BIT-2C) [30-05-24 Onderhoud UPS'en BIT-2D](https://www.bit.nl/news/3538/92/Onderhoud-UPSen-BIT-2D) [31-05-24 Onderhoud UPS'en BIT-2B](https://www.bit.nl/news/3534/92/Onderhoud-UPSen-BIT-2B) [04-06-24 Blackbuilding noodstroomtest BIT-1](https://www.bit.nl/news/3541/92/Blackbuilding-noodstroomtest-BIT-1)
 
 [](https://www.bit.nl/onderhoud)
 
@@ -179,10 +178,8 @@ e.
     * [Stroomvoorziening](https://www.bit.nl/stroomvoorziening)
     * [Technische specificaties](https://www.bit.nl/technische-specificaties)
     * [De datacenters in beeld](https://www.bit.nl/video-datacenters)
-    * * [](https://www.facebook.com/bitnl)
-        * [](https://twitter.com/bitnl)
+    * * [](https://mastodon.bit.nl/@bit)
         * [](https://www.linkedin.com/company/bitnl/)
-        * [](https://www.instagram.com/bit_nl/)
         * [](https://www.youtube.com/channel/UC8zB0RY1MWZrJrGVGTjUaDQ)
 * * [Netwerk](https://www.bit.nl/algemeen-netwerk)
     * [Carriers](https://www.bit.nl/carriers)
@@ -238,7 +235,6 @@ e.
     * [GGZ Oost Brabant](https://www.bit.nl/ggz-oost-brabant)
     * [Missing Piece](https://www.bit.nl/missing-piece)
     * [Sensing Clues](https://www.bit.nl/sensing-clues)
-    * [Solimas](https://www.bit.nl/solimas)
     * [Techni Team](https://www.bit.nl/techniteam)
     * [DiVault](https://www.bit.nl/divault)
     * [Laposta](https://www.bit.nl/laposta)
