@@ -149,7 +149,7 @@ Please review our [Privacy Policy](https://www.benefithub.com/privacy-policy-glo
 If you no longer wish to use the Services, receive Communications, or otherwise desire us to cease processing and storing your data, then you must terminate your Account by taking the following steps:
 
 * Uninstall the Mobile App and SavingsScout browser extension;
-* Contact [customer support](https://benefithubsupporthelp.zendesk.com/hc/en-us) and submit a request to terminate your Account, or email [DPO@BenefitHub.com](mailto:DPO@benefithub.com) and exercise your right to be forgotten.
+* Contact [customer support](https://benefithubsupporthelp.zendesk.com/hc/en-us) and submit a request to terminate your Account, or email [DPO@BenefitHub.com](mailto:DPO@BenefitHub.com) and exercise your right to be forgotten.
 
 You may be required to provide additional information, including a copy of a government issued photo identification, to enable us to verify your identity prior to the termination of your Account. Once terminated, we will delete your Account Registration Information, and any other data we are required to delete in accordance with applicable law, and you will no longer have access to the Services.
 
