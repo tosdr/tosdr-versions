@@ -130,7 +130,7 @@ It is the policy of Company to expeditiously respond to clear notices of alleged
 
 Atlas Networks Corporation  
 206.395.7222  
-[abuse@gigabit.io](mailto:%20abuse@gigabit.io)  
+[abuse@gigabit.io](mailto: abuse@gigabit.io)  
 3131 Western Ave Suite M330, Seattle WA 98121
 
 For further information, see [www.gigabit.io](https://gigabit.io/)
@@ -244,8 +244,8 @@ I started Atlas knowing that I wanted to do things differently. To me, the custo
 Suite 300  
 Seattle, WA 98104](https://www.google.com/maps/place/307+3rd+Ave+S,+Seattle,+WA+98104)
 
-E: [support@atlasnet.com](mailto:%20support@atlasnet.com)  
-T: [206.395.7222](tel:%202063957222)
+E: [support@atlasnet.com](mailto: support@atlasnet.com)  
+T: [206.395.7222](tel: 2063957222)
 
 [](https://www.facebook.com/AtlasNetworks)[](https://twitter.com/atlasnetworks)[](https://www.yelp.com/biz/atlas-networks-seattle)[](https://www.linkedin.com/company/atlas-networks)[](https://www.instagram.com/atlasnetworks/)
 
