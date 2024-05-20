@@ -1,6 +1,6 @@
 [Skip to content](#MainContent)
 
-25% OFF SITEWIDE USE CODE EARTHDAY24 25% OFF SITEWIDE USE CODE EARTHDAY24
+FREE STANDARD SHIPPING ON ORDERS $100+
 
     
 
@@ -17,13 +17,7 @@
     * [MAX MULTI MOUNT](https://www.airestech.com/products/max-multi-mount)
     
 * [SHOP BUNDLES](https://www.airestech.com/collections/bundles)
-* OUR TECHNOLOGY
-    
-    [OUR TECHNOLOGY](https://www.airestech.com/pages/tech)
-    
-    * [LEARN OUR TECH](https://www.airestech.com/pages/tech)
-    * [PEER-REVIEW VS 3RD PARTY TESTING](https://www.airestech.com/pages/peer-reviewed-studies-vs-third-party-testing)
-    
+* [OUR TECHNOLOGY](https://www.airestech.com/pages/tech)
 * [BLOG: THE WAVE](https://wave.airestech.com/)
 * AIRES ATHLETES
     
@@ -41,9 +35,9 @@ Update country/region
 
 Country/region
 
-France (EUR €)
+United Kingdom (GBP £)
 
-* [France (EUR €)](#)
+* [United Kingdom (GBP £)](#)
 * [Afghanistan (AFN ؋)](#)
 * [Åland Islands (EUR €)](#)
 * [Albania (ALL L)](#)
@@ -118,6 +112,7 @@ France (EUR €)
 * [Faroe Islands (DKK kr.)](#)
 * [Fiji (FJD $)](#)
 * [Finland (EUR €)](#)
+* [France (EUR €)](#)
 * [French Guiana (EUR €)](#)
 * [French Polynesia (XPF Fr)](#)
 * [French Southern Territories (EUR €)](#)
@@ -267,7 +262,6 @@ France (EUR €)
 * [Uganda (UGX USh)](#)
 * [Ukraine (UAH ₴)](#)
 * [United Arab Emirates (AED د.إ)](#)
-* [United Kingdom (GBP £)](#)
 * [United States (USD $)](#)
 * [Uruguay (UYU $)](#)
 * [Uzbekistan (UZS )](#)
@@ -297,9 +291,9 @@ Update country/region
 
 Country/region
 
-France (EUR €)
+United Kingdom (GBP £)
 
-* [France (EUR €)](#)
+* [United Kingdom (GBP £)](#)
 * [Afghanistan (AFN ؋)](#)
 * [Åland Islands (EUR €)](#)
 * [Albania (ALL L)](#)
@@ -374,6 +368,7 @@ France (EUR €)
 * [Faroe Islands (DKK kr.)](#)
 * [Fiji (FJD $)](#)
 * [Finland (EUR €)](#)
+* [France (EUR €)](#)
 * [French Guiana (EUR €)](#)
 * [French Polynesia (XPF Fr)](#)
 * [French Southern Territories (EUR €)](#)
@@ -523,7 +518,6 @@ France (EUR €)
 * [Uganda (UGX USh)](#)
 * [Ukraine (UAH ₴)](#)
 * [United Arab Emirates (AED د.إ)](#)
-* [United Kingdom (GBP £)](#)
 * [United States (USD $)](#)
 * [Uruguay (UYU $)](#)
 * [Uzbekistan (UZS )](#)
@@ -551,10 +545,6 @@ France (EUR €)
     
 * [SHOP BUNDLES](https://www.airestech.com/collections/bundles)
 * [OUR TECHNOLOGY](https://www.airestech.com/pages/tech)
-    
-    * [LEARN OUR TECH](https://www.airestech.com/pages/tech)
-    * [PEER-REVIEW VS 3RD PARTY TESTING](https://www.airestech.com/pages/peer-reviewed-studies-vs-third-party-testing)
-    
 * [BLOG: THE WAVE](https://wave.airestech.com/)
 * [AIRES ATHLETES](https://www.airestech.com/pages/aires-athletes)
     
@@ -780,9 +770,9 @@ Update country/region
 
 Country/region
 
-France (EUR €)
+United Kingdom (GBP £)
 
-* [France (EUR €)](#)
+* [United Kingdom (GBP £)](#)
 * [Afghanistan (AFN ؋)](#)
 * [Åland Islands (EUR €)](#)
 * [Albania (ALL L)](#)
@@ -857,6 +847,7 @@ France (EUR €)
 * [Faroe Islands (DKK kr.)](#)
 * [Fiji (FJD $)](#)
 * [Finland (EUR €)](#)
+* [France (EUR €)](#)
 * [French Guiana (EUR €)](#)
 * [French Polynesia (XPF Fr)](#)
 * [French Southern Territories (EUR €)](#)
@@ -1006,7 +997,6 @@ France (EUR €)
 * [Uganda (UGX USh)](#)
 * [Ukraine (UAH ₴)](#)
 * [United Arab Emirates (AED د.إ)](#)
-* [United Kingdom (GBP £)](#)
 * [United States (USD $)](#)
 * [Uruguay (UYU $)](#)
 * [Uzbekistan (UZS )](#)
