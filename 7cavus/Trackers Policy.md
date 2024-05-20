@@ -58,8 +58,6 @@ Install
 
 More options
 
-[Contact us](mailto:imo@7cav.us)
-
 Close Menu
 
 ### 7th Cavalry Gaming
@@ -82,7 +80,7 @@ Help
 
 * [Help](https://7cav.us/help/) 
 
-[Facebook](https://www.facebook.com/7thCavalryGaming/) [Twitter](https://twitter.com/7Cav) [youtube](https://www.youtube.com/@7CavGaming) [Discord](https://discord.7cav.us/) [Steam](https://steamcommunity.com/groups/7Cav) [Instagram](https://www.instagram.com/7thcavgaming/) [GitHub](https://github.com/7cav) [Contact us](mailto:imo@7cav.us) [RSS](https://7cav.us/forums/-/index.rss)
+[Facebook](https://www.facebook.com/7thCavalryGaming/) [Twitter](https://twitter.com/7Cav) [youtube](https://www.youtube.com/@7CavGaming) [Discord](https://discord.7cav.us/) [Steam](https://steamcommunity.com/groups/7Cav) [Instagram](https://www.instagram.com/7thcavgaming/) [GitHub](https://github.com/7cav) [RSS](https://7cav.us/forums/-/index.rss)
 
 Cookie usage
 ============
@@ -166,11 +164,10 @@ To learn more about cookies, and find more information about blocking certain ty
 
 * [Help](https://7cav.us/help/) 
 
-[Facebook](https://www.facebook.com/7thCavalryGaming/) [Twitter](https://twitter.com/7Cav) [youtube](https://www.youtube.com/@7CavGaming) [Discord](https://discord.7cav.us/) [Steam](https://steamcommunity.com/groups/7Cav) [Instagram](https://www.instagram.com/7thcavgaming/) [GitHub](https://github.com/7cav) [Contact us](mailto:imo@7cav.us) [RSS](https://7cav.us/forums/-/index.rss)
+[Facebook](https://www.facebook.com/7thCavalryGaming/) [Twitter](https://twitter.com/7Cav) [youtube](https://www.youtube.com/@7CavGaming) [Discord](https://discord.7cav.us/) [Steam](https://steamcommunity.com/groups/7Cav) [Instagram](https://www.instagram.com/7thcavgaming/) [GitHub](https://github.com/7cav) [RSS](https://7cav.us/forums/-/index.rss)
 
 * Change width
 
-* [Contact us](mailto:imo@7cav.us)
 * [Terms and rules](https://7cav.us/help/terms/)
 * [Privacy policy](https://7cav.us/help/privacy-policy/)
 * [Help](https://7cav.us/help/)
