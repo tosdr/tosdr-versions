@@ -1,0 +1,266 @@
+![](data:image/svg+xml;charset=utf-8,%3Csvg height='14' width='14' xmlns='http://www.w3.org/2000/svg' version='1.1'%3E%3C/svg%3E)
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsTAAALEwEAmpwYAAAA9klEQVQ4y6XTwQ7BQBAG4OVId0tExBEHiQOH7vTQzKQX3kjcXcXVI4jXcCCIeAgSibcgLRWRlt3pHtvsl5ns/wshREECTV2NbcE8tSCQSuO86XklITWNFdBdAp05aIwBbmND41JUvaErAQ9PFC/KCzqmWKM/KiugdXRXabw5PvbiHxw0E0uODfoXs0GNMRPUGvuFsrHkuIOwIjUdk0gpTbsYA7pKHXRZgf2clD1Z5gMwcprSANq81wQ8vRvlU4s/2WvNaH0FtLee9NdrWqMm0TBGbXL2t1Gc0GaieRqQijo+TvI04KtRq+hbUQHO2HVKUKBFvRc6Dy8buyYd50QkAAAAAElFTkSuQmCC)
+
+![Close](https://d38muu3h4xeqr1.cloudfront.net/website/static/DG-9735/static/46c0bf42877f5e5b204d022d2830429d/00715/cross-new.svg)
+
+**Please note:** We use cookies on our site to give you the best experience. Please accept these cookies, or change your settings here:
+
+Cookie preferences.
+
+I acceptI refuse
+
+[Skip to main content](#main-content)
+
+[Contact Sales](https://www.dashlane.com/business-password-manager/enterprise)
+
+Icon of a computer, with a checkmark on the screen[Request Demo](https://www.dashlane.com/business-password-manager/request-demo)
+
+[](https://www.dashlane.com/ "Dashlane Password Manager")
+
+[](https://www.dashlane.com/ "Dashlane Password Manager")
+
+* [Business](https://www.dashlane.com/business-password-manager "Business Password Manager")
+* [Personal](https://www.dashlane.com/personal-password-manager "Personal Password Manager")
+* [Pricing](https://www.dashlane.com/pricing "Password Manager Prices")
+* Resources
+    
+    [Resource library](https://www.dashlane.com/resources)[Help center](https://support.dashlane.com/)[Blog](https://www.dashlane.com/blog)[Success Stories](https://www.dashlane.com/resources#SuccessStories)[Passkeys](https://www.dashlane.com/passkeys)
+    
+* [Start a Trial](https://www.dashlane.com/business-password-manager/try "Start a Trial")
+
+[Log In](https://app.dashlane.com/)[Get Dashlane](https://www.dashlane.com/pricing)
+
+* [Business](https://www.dashlane.com/business-password-manager "Business Password Manager")
+* [Personal](https://www.dashlane.com/personal-password-manager "Personal Password Manager")
+* [Pricing](https://www.dashlane.com/pricing "Password Manager Prices")
+* Resources
+    
+    * [Resource library](https://www.dashlane.com/resources)
+    * [Help center](https://support.dashlane.com/)
+    * [Blog](https://www.dashlane.com/blog)
+    * [Success Stories](https://www.dashlane.com/resources#SuccessStories)
+    * [Passkeys](https://www.dashlane.com/passkeys)
+* [Start a Trial](https://www.dashlane.com/business-password-manager/try "Start a Trial")
+* [Log In](https://app.dashlane.com/ "Log In")
+* [Contact Sales](https://www.dashlane.com/business-password-manager/enterprise "Contact Sales")
+* [Icon of a computer, with a checkmark on the screenRequest Demo](https://www.dashlane.com/business-password-manager/request-demo "Request Demo")
+* [Get Dashlane](https://www.dashlane.com/pricing)
+
+Hamburger Menu Icon
+
+Terms of Service
+================
+
+Welcome to Dashlane, where our mission is to make your digital life simpler, safer, and more secure. We believe that your identity should be just that—yours—and are dedicated to creating software that lets you control your information online.  
+  
+Dashlane's current Terms of Service are available for you to download or read below. We include plain-language summaries to make the legalese easier to understand, but if you still have questions, please visit our [Help Center](https://support.dashlane.com/hc/en-us/requests/new).
+
+[Download our Terms of Service](https://www.dashlane.com/documents/terms/en/9YZcNUMdS5iTvs3ssWiZ.pdf)
+
+Loading PDF…
+
+### Business
+
+* [Features](https://www.dashlane.com/business-password-manager "Enterprise Password Manager for Business")
+* [Pricing](https://www.dashlane.com/pricing?page=business "Password Manager Pricing")
+* [Contact Us](https://www.dashlane.com/business-password-manager/enterprise "Contact Dashlane")
+* [Request a Demo](https://www.dashlane.com/business-password-manager/request-demo "Request a Demo")
+
+### Personal
+
+* [How it works](https://www.dashlane.com/personal-password-manager "Personal Password Manager")
+* [Pricing](https://www.dashlane.com/pricing?page=personal "Password Manager Pricing")
+* [Password Generator](https://www.dashlane.com/features/password-generator "Password Generator")
+* [Username Generator](https://www.dashlane.com/features/username-generator "Create unique usernames with our Username Generator")
+* [Dark Web Monitoring](https://www.dashlane.com/darkwebinsights "Dark Web Monitoring")
+
+### Plans
+
+* [Business](https://www.dashlane.com/pricing?page=business "Password Manager Pricing")
+* [Individual](https://www.dashlane.com/pricing?page=personal "Password Manager Pricing")
+* [Family](https://www.dashlane.com/family-password-manager "Family Password Manager")
+
+### Resources
+
+* [Resource Library](https://www.dashlane.com/resources "Password Management Resources")
+* [Help Center](https://support.dashlane.com/ "Dashlane Help Center")
+* [White Papers](https://www.dashlane.com/download/whitepaper-en.pdf "Password Manager Solutions")
+* [Blog](https://www.dashlane.com/blog "Dashlane Blog")
+* [Brand Kit](https://brandfolder.com/dashlane/brand-kit "Dashlane Brand Kit")
+* [System Status](https://status.dashlane.com/)
+* [Security](https://www.dashlane.com/security "Secure Password Manager")
+
+### Company
+
+* [About Us](https://www.dashlane.com/about "About Dashlane")
+* [Leadership](https://www.dashlane.com/about/leadership "Dashlane Executive Leaders")
+* [Careers](https://www.dashlane.com/about/careers "Dashlane Jobs")
+* [Partners](https://www.partners.dashlane.com/English/)
+
+### Features
+
+* [Passkeys](https://www.dashlane.com/passkeys)
+* [Autofill](https://www.dashlane.com/personal-password-manager/autofill)
+* [Digital Wallet](https://www.dashlane.com/personal-password-manager/digital-wallet)
+* [Passwordless](https://www.dashlane.com/passwordless)
+* [Security Alerts](https://www.dashlane.com/personal-password-manager/security-alerts)
+* [SSO](https://www.dashlane.com/sso)
+* [VPN](https://www.dashlane.com/marketing/vpn)
+
+### Try Dashlane
+
+* [Business](https://www.dashlane.com/business-password-manager/try)
+* [Personal](https://www.dashlane.com/download)
+* [iOS App](https://app.adjust.com/jq0xdf)
+* [Android App](https://app.adjust.com/8n9sd4)
+
+### Buy Dashlane
+
+* [For your Business](https://www.dashlane.com/business-password-manager/buy "Business Password Manager Free Trial")
+* [For You](https://www.dashlane.com/getpremium "Personal Password Manager Free Trial")
+* [Buy for a Friend](https://www.dashlane.com/getpremium/for-a-friend "Give Password Manager as a Gift")
+
+### Log In
+
+* [Personal App](https://app.dashlane.com/)
+* [Admin Console](https://console.dashlane.com/)
+
+### Stay In Touch
+
+* [![Facebook Logo](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzYiIGhlaWdodD0iMzYiIHZpZXdCb3g9IjAgMCAzNiAzNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTM1LjUgMThDMzUuNSAyNy42NjUgMjcuNjY1IDM1LjUgMTggMzUuNUM4LjMzNTAyIDM1LjUgMC41IDI3LjY2NSAwLjUgMThDMC41IDguMzM1MDIgOC4zMzUwMiAwLjUgMTggMC41QzI3LjY2NSAwLjUgMzUuNSA4LjMzNTAyIDM1LjUgMThaIiBzdHJva2U9IiM5RkFFQjEiLz4KPHBhdGggZD0iTTE4LjkwMzQgMjZMMTguOTAzNCAxOC45MzYzSDIxLjE4OTFMMjEuNTUgMTYuMDQ5MUgxOC45MDM0VjE0LjM2NDlDMTguOTAzNCAxMy41MjI4IDE5LjE0NCAxMy4wNDE2IDIwLjIyNjcgMTMuMDQxNkgyMS42NzAzVjEwLjM5NUMyMS40Mjk3IDEwLjM5NSAyMC41ODc2IDEwLjI3NDcgMTkuNjI1MiAxMC4yNzQ3QzE3LjU4MDEgMTAuMjc0NyAxNi4xMzY1IDExLjU5OCAxNi4xMzY1IDE0LjAwNFYxNi4wNDkxSDEzLjczMDVWMTguOTM2M0gxNi4xMzY1TDE2LjEzNjUgMjZIMTguOTAzNFoiIGZpbGw9IiNGNUY3RjciLz4KPC9zdmc+Cg==)](https://www.facebook.com/GetDashlane "Facebook page")
+* [![Twitter Logo](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzYiIGhlaWdodD0iMzYiIHZpZXdCb3g9IjAgMCAzNiAzNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGcgY2xpcC1wYXRoPSJ1cmwoI2NsaXAwXzExOTJfMTc4MykiPgo8cGF0aCBkPSJNMzUuNSAxOEMzNS41IDI3LjY2NSAyNy42NjUgMzUuNSAxOCAzNS41QzguMzM1MDIgMzUuNSAwLjUgMjcuNjY1IDAuNSAxOEMwLjUgOC4zMzUwMiA4LjMzNTAyIDAuNSAxOCAwLjVDMjcuNjY1IDAuNSAzNS41IDguMzM1MDIgMzUuNSAxOFoiIHN0cm9rZT0iIzlGQUVCMSIvPgo8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTE2LjA0MiAxOC40NDhMMTAuMTg3NSAxMUgxNC44MjQ3TDE4LjQzODYgMTUuNjAzNEwyMi4yOTk1IDExLjAyMDdIMjQuODUzNEwxOS42NzM0IDE3LjE3NjNMMjUuODE1NCAyNUgyMS4xOTIxTDE3LjI3OSAyMC4wMjE3TDEzLjEwMTMgMjQuOTg2MkgxMC41MzM2TDE2LjA0MiAxOC40NDhaTTIxLjg2NiAyMy42MkwxMy4wMzA4IDEyLjM4SDE0LjE1MDNMMjIuOTc0MyAyMy42MkgyMS44NjZaIiBmaWxsPSIjRjVGN0Y3Ii8+CjwvZz4KPGRlZnM+CjxjbGlwUGF0aCBpZD0iY2xpcDBfMTE5Ml8xNzgzIj4KPHJlY3Qgd2lkdGg9IjM2IiBoZWlnaHQ9IjM2IiBmaWxsPSJ3aGl0ZSIvPgo8L2NsaXBQYXRoPgo8L2RlZnM+Cjwvc3ZnPgo=)](https://www.x.com/dashlane "Twitter page")
+* [![Youtube logo](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzYiIGhlaWdodD0iMzYiIHZpZXdCb3g9IjAgMCAzNiAzNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTM1LjUgMThDMzUuNSAyNy42NjUgMjcuNjY1IDM1LjUgMTggMzUuNUM4LjMzNTAyIDM1LjUgMC41IDI3LjY2NSAwLjUgMThDMC41IDguMzM1MDIgOC4zMzUwMiAwLjUgMTggMC41QzI3LjY2NSAwLjUgMzUuNSA4LjMzNTAyIDM1LjUgMThaIiBzdHJva2U9IiM5RkFFQjEiLz4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xMy41NTg5IDEyLjM1NzRDMTUuNjU5IDEyLjIxNDUgMjAuMzQzMiAxMi4yMTM5IDIyLjQ0NjMgMTIuMzU3NEMyNC43MjI3IDEyLjUxMzMgMjQuOTg4MiAxMy44OTI4IDI1LjAwNTEgMTcuNTAyQzI0Ljk4ODIgMjEuMTE3NiAyNC43MjAzIDIyLjQ5MTMgMjIuNDQ2MyAyMi42NDY1QzIwLjM0MzIgMjIuNzkwMSAxNS42NTk2IDIyLjc4OTUgMTMuNTU4OSAyMi42NDY1QzExLjI4MjQgMjIuNDkwNyAxMS4wMTY5IDIxLjExMTIgMTEgMTcuNTAyQzExLjAxNjkgMTMuODg2MyAxMS4yODQ4IDEyLjUxMjcgMTMuNTU4OSAxMi4zNTc0Wk0xNi4yNTE5IDE1LjE2NzhWMTkuODM2MkwyMC45MjAzIDE3LjQ5NzlMMTYuMjUxOSAxNS4xNjc4WiIgZmlsbD0iI0Y1RjdGNyIvPgo8L3N2Zz4K)](https://www.youtube.com/channel/UC29QiP0ZFzBVTnCeLytXXCg "Youtube page")
+* [![Instagram Logo](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzYiIGhlaWdodD0iMzYiIHZpZXdCb3g9IjAgMCAzNiAzNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTM1LjUgMThDMzUuNSAyNy42NjUgMjcuNjY1IDM1LjUgMTggMzUuNUM4LjMzNTAyIDM1LjUgMC41IDI3LjY2NSAwLjUgMThDMC41IDguMzM1MDIgOC4zMzUwMiAwLjUgMTggMC41QzI3LjY2NSAwLjUgMzUuNSA4LjMzNTAyIDM1LjUgMThaIiBzdHJva2U9IiM5RkFFQjEiLz4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xNCAxOEMxNCAxNS43OTE0IDE1Ljc5MTcgMTQgMTggMTRDMjAuMjA4MyAxNCAyMiAxNS43OTE0IDIyIDE4QzIyIDIwLjIwODYgMjAuMjA4MyAyMiAxOCAyMkMxNS43OTE3IDIyIDE0IDIwLjIwODYgMTQgMThaTTE4IDIwLjdDMTYuNTA5NCAyMC43IDE1LjMgMTkuNDkwOSAxNS4zIDE4QzE1LjMgMTYuNTA5MSAxNi41MDk0IDE1LjMgMTggMTUuM0MxOS40OTA5IDE1LjMgMjAuNyAxNi41MDkxIDIwLjcgMThDMjAuNyAxOS40OTA5IDE5LjQ5MDkgMjAuNyAxOCAyMC43WiIgZmlsbD0iI0Y1RjdGNyIvPgo8cGF0aCBkPSJNMjIuNjMxNSAxNC4yMTA1QzIyLjYzMTUgMTQuNjc1NCAyMi4yNTQ1IDE1LjA1MjYgMjEuNzg5NCAxNS4wNTI2QzIxLjMyNDUgMTUuMDUyNiAyMC45NDczIDE0LjY3NTcgMjAuOTQ3MyAxNC4yMTA1QzIwLjk0NzMgMTMuNzQ1NCAyMS4zMjQyIDEzLjM2ODQgMjEuNzg5NCAxMy4zNjg0QzIyLjI1NDUgMTMuMzY4NyAyMi42MzE1IDEzLjc0NTQgMjIuNjMxNSAxNC4yMTA1WiIgZmlsbD0iI0Y1RjdGNyIvPgo8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTI1LjU4NzIgMTIuNzYzMkMyNS43ODQyIDEzLjI2OTUgMjUuOTIxNyAxMy44NTQxIDI1Ljk1OTMgMTQuNzA0MkMyNS45OTY5IDE1LjU1NzQgMjYgMTUuODI5NSAyNiAxOC4wMDE2QzI2IDIwLjE3MzYgMjUuOTkwNiAyMC40NDU3IDI1Ljk1MyAyMS4yOTg5QzI1LjkxNTQgMjIuMTQ5IDI1Ljc3OCAyMi43MzA1IDI1LjU4MSAyMy4yMzk5QzI1LjE2NTEgMjQuMzE1MSAyNC4zMTQ4IDI1LjE2NTIgMjMuMjM5NCAyNS41ODExQzIyLjczMyAyNS43NzggMjIuMTQ4MyAyNS45MTU1IDIxLjI5OCAyNS45NTNDMjAuNDQ0NiAyNS45OTA2IDIwLjE3MjUgMjYgMTggMjZDMTUuODI3NSAyNiAxNS41NTU0IDI1Ljk5MDYgMTQuNzAyIDI1Ljk1M0MxMy44NTE3IDI1LjkxNTUgMTMuMjcwMiAyNS43NzggMTIuNzYwNiAyNS41ODExQzEyLjIyOTIgMjUuMzgxIDExLjc0NDcgMjUuMDY1NCAxMS4zNDQ1IDI0LjY1ODlDMTAuOTM4IDI0LjI1ODggMTAuNjIyMyAyMy43Nzc1IDEwLjQxOSAyMy4yMzk5QzEwLjIyMiAyMi43MzM2IDEwLjA4NDYgMjIuMTQ5IDEwLjA0NyAyMS4yOTg5QzEwLjAwOTQgMjAuNDQ1NyAxMCAyMC4xNzM5IDEwIDE4LjAwMTZDMTAgMTUuODI5MiAxMC4wMDk0IDE1LjU1NzQgMTAuMDUwMSAxNC43MDA3QzEwLjA4NzcgMTMuODUwNiAxMC4yMjUyIDEzLjI2OTUgMTAuNDIyMiAxMi43NjAxQzEwLjYyMjMgMTIuMjI4NyAxMC45MzggMTEuNzQ0IDExLjM0NDEgMTEuMzQzOUMxMS43NDQ0IDEwLjkzNDYgMTIuMjI1NyAxMC42MjE4IDEyLjc2MzggMTAuNDE4OUMxMy4yNzAyIDEwLjIyMiAxMy44NTQ4IDEwLjA4NDUgMTQuNzA1MSAxMC4wNDdDMTUuNTU4NSAxMC4wMDk0IDE1LjgzMDMgMTAgMTguMDAzMSAxMEMyMC4xNzU5IDEwIDIwLjQ0NzggMTAuMDA5NCAyMS4zMDQ2IDEwLjA1MDFDMjIuMTU0OSAxMC4wODc3IDIyLjczNjQgMTAuMjI1MSAyMy4yNDU2IDEwLjQyMjFDMjMuNzc3MSAxMC42MjIyIDI0LjI2MTYgMTAuOTM3OCAyNC42NjE4IDExLjM0NDJDMjUuMDcxNCAxMS43NDQzIDI1LjM4NCAxMi4yMjU2IDI1LjU4NzIgMTIuNzYzMlpNMjQuNjUyIDIxLjMwMDRDMjQuNjE2OCAyMi4wOTkyIDI0LjQ4MjcgMjIuNTMwNCAyNC4zNzA4IDIyLjgxODFDMjQuMDk1OSAyMy41MzA1IDIzLjUzMDggMjQuMDk2MSAyMi44MTgzIDI0LjM3MUMyMi41MzA5IDI0LjQ4MjcgMjIuMDk2NCAyNC42MTcxIDIxLjMwMSAyNC42NTJDMjAuNDM4NiAyNC42OTA0IDIwLjE3OTggMjQuNyAxNy45OTgyIDI0LjdDMTUuODE2NyAyNC43IDE1LjU1NDYgMjQuNjkwNCAxNC42OTU1IDI0LjY1MkMxMy44OTY5IDI0LjYxNjggMTMuNDY1OSAyNC40ODI3IDEzLjE3ODIgMjQuMzcxQzEyLjgyMzcgMjQuMjQwMSAxMi41MDEyIDI0LjAzMjQgMTIuMjM5MSAyMy43NjA2QzExLjk2NzUgMjMuNDk1MyAxMS43NjAxIDIzLjE3NTkgMTEuNjI4OSAyMi44MjEzQzExLjUxNzMgMjIuNTMzOSAxMS4zODI5IDIyLjA5OTIgMTEuMzQ4IDIxLjMwMzZDMTEuMzA5NiAyMC40NDExIDExLjMgMjAuMTgyMSAxMS4zIDE4QzExLjMgMTUuODE3OSAxMS4zMDk2IDE1LjU1NTggMTEuMzQ4IDE0LjY5NjRDMTEuMzgzMiAxMy44OTc2IDExLjUxNzMgMTMuNDY2NCAxMS42Mjg5IDEzLjE3ODdDMTEuNzU5OCAxMi44MjQxIDExLjk2NzUgMTIuNTAxNSAxMi4yNDIzIDEyLjIzOTRDMTIuNTA3MiAxMS45Njc2IDEyLjgyNjYgMTEuNzYwMiAxMy4xODE0IDExLjYyOTNDMTMuNDY4OCAxMS41MTc2IDEzLjkwMzMgMTEuMzgzMiAxNC42OTg3IDExLjM0OEMxNS41NjEgMTEuMzA5NiAxNS44MTk5IDExLjMgMTguMDAxNCAxMS4zQzIwLjE4NjIgMTEuMyAyMC40NDUgMTEuMzA5NiAyMS4zMDQyIDExLjM0OEMyMi4xMDI4IDExLjM4MzIgMjIuNTMzOCAxMS41MTczIDIyLjgyMTUgMTEuNjI5M0MyMy4xNzYgMTEuNzYwMiAyMy40OTg1IDExLjk2OCAyMy43NjA2IDEyLjIzOTRDMjQuMDMyMiAxMi41MDQ3IDI0LjIzOTYgMTIuODI0MSAyNC4zNzA4IDEzLjE3ODdDMjQuNDgyNCAxMy40NjYxIDI0LjYxNjggMTMuOTAwOCAyNC42NTIgMTQuNjk2NEMyNC42OTA0IDE1LjU1OSAyNC43IDE1LjgxNzkgMjQuNyAxOEMyNC43IDIwLjE4MjEgMjQuNjkwMSAyMC40Mzc5IDI0LjY1MiAyMS4zMDA0WiIgZmlsbD0iI0Y1RjdGNyIvPgo8L3N2Zz4K)](https://www.instagram.com/dashlane "Instagram page")
+* [![Reddit Logo](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzYiIGhlaWdodD0iMzYiIHZpZXdCb3g9IjAgMCAzNiAzNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTM1LjUgMThDMzUuNSAyNy42NjUgMjcuNjY1IDM1LjUgMTggMzUuNUM4LjMzNTAyIDM1LjUgMC41IDI3LjY2NSAwLjUgMThDMC41IDguMzM1MDIgOC4zMzUwMiAwLjUgMTggMC41QzI3LjY2NSAwLjUgMzUuNSA4LjMzNTAyIDM1LjUgMThaIiBzdHJva2U9IiM5RkFFQjEiLz4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0yNyAxOEMyNyAyMi45NzA2IDIyLjk3MDYgMjcgMTggMjdDMTMuMDI5NCAyNyA5IDIyLjk3MDYgOSAxOEM5IDEzLjAyOTQgMTMuMDI5NCA5IDE4IDlDMjIuOTcwNiA5IDI3IDEzLjAyOTQgMjcgMThaTTIyLjY4NDIgMTYuNjg0MkMyMy40MTA1IDE2LjY4NDIgMjQgMTcuMjczNyAyNCAxOEMyNCAxOC41MzY4IDIzLjY3MzYgMTkgMjMuMjQyMSAxOS4yMTA1QzIzLjI2MzEgMTkuMzM2OCAyMy4yNzM2IDE5LjQ2MzIgMjMuMjczNiAxOS42QzIzLjI3MzYgMjEuNjIxMSAyMC45MjYzIDIzLjI1MjYgMTguMDIxIDIzLjI1MjZDMTUuMTE1NyAyMy4yNTI2IDEyLjc2ODQgMjEuNjIxMSAxMi43Njg0IDE5LjZDMTIuNzY4NCAxOS40NjMyIDEyLjc3ODkgMTkuMzI2MyAxMi44IDE5LjJDMTIuMzM2OCAxOC45ODk1IDEyLjAyMSAxOC41MzY4IDEyLjAyMSAxOEMxMi4wMjEgMTcuMjczNyAxMi42MTA1IDE2LjY4NDIgMTMuMzM2OCAxNi42ODQyQzEzLjY4NDIgMTYuNjg0MiAxNC4wMTA1IDE2LjgzMTYgMTQuMjQyMSAxNy4wNTI2QzE1LjE0NzMgMTYuMzg5NSAxNi40IDE1Ljk3ODkgMTcuOCAxNS45MzY4TDE4LjQ2MzEgMTIuOEMxOC40ODQyIDEyLjczNjggMTguNTE1NyAxMi42ODQyIDE4LjU2ODQgMTIuNjUyNkMxOC42MjEgMTIuNjIxMSAxOC42ODQyIDEyLjYxMDUgMTguNzQ3MyAxMi42MjExTDIwLjkyNjMgMTMuMDg0MkMyMS4wNzM2IDEyLjc2ODQgMjEuMzg5NCAxMi41NTc5IDIxLjc1NzkgMTIuNTU3OUMyMi4yNzM2IDEyLjU1NzkgMjIuNjk0NyAxMi45Nzg5IDIyLjY5NDcgMTMuNDk0N0MyMi42OTQ3IDE0LjAxMDUgMjIuMjczNiAxNC40MzE2IDIxLjc1NzkgMTQuNDMxNkMyMS4yNTI2IDE0LjQzMTYgMjAuODQyMSAxNC4wMzE2IDIwLjgyMSAxMy41MzY4TDE4Ljg3MzYgMTMuMTI2M0wxOC4yNzM2IDE1LjkzNjhDMTkuNjQyMSAxNS45ODk1IDIwLjg4NDIgMTYuNDEwNSAyMS43Nzg5IDE3LjA1MjZDMjIuMDEwNSAxNi44MjExIDIyLjMyNjMgMTYuNjg0MiAyMi42ODQyIDE2LjY4NDJaTTE1LjkzNjggMThDMTUuNDIxIDE4IDE1IDE4LjQyMTEgMTUgMTguOTM2OEMxNSAxOS40NTI2IDE1LjQyMSAxOS44NzM3IDE1LjkzNjggMTkuODczN0MxNi40NTI2IDE5Ljg3MzcgMTYuODczNiAxOS40NTI2IDE2Ljg3MzYgMTguOTM2OEMxNi44NzM2IDE4LjQyMTEgMTYuNDUyNiAxOCAxNS45MzY4IDE4Wk0xOC4wMTA1IDIyLjA5NDdDMTguMzY4NCAyMi4wOTQ3IDE5LjU4OTQgMjIuMDUyNiAyMC4yMzE1IDIxLjQxMDVDMjAuMzI2MyAyMS4zMTU4IDIwLjMyNjMgMjEuMTY4NCAyMC4yNTI2IDIxLjA2MzJDMjAuMTU3OSAyMC45Njg0IDIwIDIwLjk2ODQgMTkuOTA1MiAyMS4wNjMyQzE5LjQ5NDcgMjEuNDYzMiAxOC42NDIxIDIxLjYxMDUgMTguMDIxIDIxLjYxMDVDMTcuNCAyMS42MTA1IDE2LjUzNjggMjEuNDYzMiAxNi4xMzY4IDIxLjA2MzJDMTYuMDQyMSAyMC45Njg0IDE1Ljg4NDIgMjAuOTY4NCAxNS43ODk0IDIxLjA2MzJDMTUuNjk0NyAyMS4xNTc5IDE1LjY5NDcgMjEuMzE1OCAxNS43ODk0IDIxLjQxMDVDMTYuNDIxIDIyLjA0MjEgMTcuNjUyNiAyMi4wOTQ3IDE4LjAxMDUgMjIuMDk0N1pNMTkuMTI2MyAxOC45MzY4QzE5LjEyNjMgMTkuNDUyNiAxOS41NDczIDE5Ljg3MzcgMjAuMDYzMSAxOS44NzM3QzIwLjU3ODkgMTkuODczNyAyMSAxOS40NTI2IDIxIDE4LjkzNjhDMjEgMTguNDIxMSAyMC41Nzg5IDE4IDIwLjA2MzEgMThDMTkuNTQ3MyAxOCAxOS4xMjYzIDE4LjQyMTEgMTkuMTI2MyAxOC45MzY4WiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+Cg==)](https://www.reddit.com/r/Dashlane/ "Reddit page")
+* [![Linkedin Logo](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzYiIGhlaWdodD0iMzYiIHZpZXdCb3g9IjAgMCAzNiAzNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTM1LjUgMThDMzUuNSAyNy42NjUgMjcuNjY1IDM1LjUgMTggMzUuNUM4LjMzNTAyIDM1LjUgMC41IDI3LjY2NSAwLjUgMThDMC41IDguMzM1MDIgOC4zMzUwMiAwLjUgMTggMC41QzI3LjY2NSAwLjUgMzUuNSA4LjMzNTAyIDM1LjUgMThaIiBzdHJva2U9IiM5RkFFQjEiLz4KPHBhdGggZD0iTTEzLjUgMTMuNUgxMFYyNUgxMy41VjEzLjVaIiBmaWxsPSIjRjVGN0Y3Ii8+CjxwYXRoIGQ9Ik0yMi4wMDE1IDEzLjVDMjAgMTMuNSAxOS40NDUgMTQuMTU2IDE5IDE1VjEzLjVIMTUuNVYyNUgxOVYxOC41QzE5IDE3LjUgMTkgMTYuNSAyMC43NSAxNi41QzIyLjUgMTYuNSAyMi41IDE3LjUgMjIuNSAxOC41VjI1SDI2VjE4LjVDMjYgMTUuNSAyNS41IDEzLjUgMjIuMDAxNSAxMy41WiIgZmlsbD0iI0Y1RjdGNyIvPgo8cGF0aCBkPSJNMTEuNzUgMTIuNUMxMi43MTY1IDEyLjUgMTMuNSAxMS43MTY1IDEzLjUgMTAuNzVDMTMuNSA5Ljc4MzUgMTIuNzE2NSA5IDExLjc1IDlDMTAuNzgzNSA5IDEwIDkuNzgzNSAxMCAxMC43NUMxMCAxMS43MTY1IDEwLjc4MzUgMTIuNSAxMS43NSAxMi41WiIgZmlsbD0iI0Y1RjdGNyIvPgo8L3N2Zz4K)](https://www.linkedin.com/company/dashlane "Linkedin page")
+
+© 2024 Dashlane Inc. All rights reserved.
+
+Dashlane and the Dashlane logo are trademarks of Dashlane SAS, registered in the U.S. and other countries.
+
+[Essential Accessibility Icon](https://www.levelaccess.com/dashlane?utm_source=dashlanehomepage&utm_medium=iconlarge&utm_term=eachannelpage&utm_content=header&utm_campaign=dashlane "Essential Accessibility website")
+
+English
+
+* [Terms](https://www.dashlane.com/terms "Dashlane Terms & Conditions")
+* [Privacy](https://www.dashlane.com/privacy/overview "Privacy")
+* [Legal](https://www.dashlane.com/legal "Dashlane Legal Contact Information")
+* [Cookie Preferences](https://www.dashlane.com/privacy/cookiepreferences "Website Cookie Information")
+* [Do Not Sell or Share My Personal Information](https://www.dashlane.com/privacy/donotsell "Do Not Sell or Share My Personal Information Page")
+* [Accessibility Statement](https://www.dashlane.com/accessibility-statement "Accessibility Statement")
+
+Business
+
+[Features](https://www.dashlane.com/business-password-manager "Enterprise Password Manager for Business")
+
+[Pricing](https://www.dashlane.com/pricing?page=business "Password Manager Pricing")
+
+[Contact Us](https://www.dashlane.com/business-password-manager/enterprise "Contact Dashlane")
+
+[Request a Demo](https://www.dashlane.com/business-password-manager/request-demo "Request a Demo")
+
+Personal
+
+[How it works](https://www.dashlane.com/personal-password-manager "Personal Password Manager")
+
+[Pricing](https://www.dashlane.com/pricing?page=personal "Password Manager Pricing")
+
+[Password Generator](https://www.dashlane.com/features/password-generator "Password Generator")
+
+[Username Generator](https://www.dashlane.com/features/username-generator "Create unique usernames with our Username Generator")
+
+[Dark Web Monitoring](https://www.dashlane.com/darkwebinsights "Dark Web Monitoring")
+
+Plans
+
+[Business](https://www.dashlane.com/pricing?page=business "Password Manager Pricing")
+
+[Individual](https://www.dashlane.com/pricing?page=personal "Password Manager Pricing")
+
+[Family](https://www.dashlane.com/family-password-manager "Family Password Manager")
+
+Resources
+
+[Resource Library](https://www.dashlane.com/resources "Password Management Resources")
+
+[Help Center](https://support.dashlane.com/ "Dashlane Help Center")
+
+[White Papers](https://www.dashlane.com/download/whitepaper-en.pdf "Password Manager Solutions")
+
+[Blog](https://www.dashlane.com/blog "Dashlane Blog")
+
+[Brand Kit](https://brandfolder.com/dashlane/brand-kit "Dashlane Brand Kit")
+
+[System Status](https://status.dashlane.com/)
+
+[Security](https://www.dashlane.com/security "Secure Password Manager")
+
+Company
+
+[About Us](https://www.dashlane.com/about "About Dashlane")
+
+[Leadership](https://www.dashlane.com/about/leadership "Dashlane Executive Leaders")
+
+[Careers](https://www.dashlane.com/about/careers "Dashlane Jobs")
+
+[Partners](https://www.partners.dashlane.com/English/)
+
+Features
+
+[Passkeys](https://www.dashlane.com/passkeys)
+
+[Autofill](https://www.dashlane.com/personal-password-manager/autofill)
+
+[Digital Wallet](https://www.dashlane.com/personal-password-manager/digital-wallet)
+
+[Passwordless](https://www.dashlane.com/passwordless)
+
+[Security Alerts](https://www.dashlane.com/personal-password-manager/security-alerts)
+
+[SSO](https://www.dashlane.com/sso)
+
+[VPN](https://www.dashlane.com/marketing/vpn)
+
+Try Dashlane
+
+[Business](https://www.dashlane.com/business-password-manager/try)
+
+[Personal](https://www.dashlane.com/download)
+
+[iOS App](https://app.adjust.com/jq0xdf)
+
+[Android App](https://app.adjust.com/8n9sd4)
+
+Buy Dashlane
+
+[For your Business](https://www.dashlane.com/business-password-manager/buy "Business Password Manager Free Trial")
+
+[For You](https://www.dashlane.com/getpremium "Personal Password Manager Free Trial")
+
+[Buy for a Friend](https://www.dashlane.com/getpremium/for-a-friend "Give Password Manager as a Gift")
+
+Log In
+
+[Personal App](https://app.dashlane.com/)
+
+[Admin Console](https://console.dashlane.com/)
+
+Stay In Touch
+
+[![Facebook Logo](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyLjkwMzQgMTkuNzI1NEwxMi45MDM0IDEyLjY2MTdIMTUuMTg5MUwxNS41NSA5Ljc3NDQ0SDEyLjkwMzRWOC4wOTAyM0MxMi45MDM0IDcuMjQ4MTIgMTMuMTQ0IDYuNzY2OTIgMTQuMjI2NyA2Ljc2NjkySDE1LjY3MDNWNC4xMjAzQzE1LjQyOTcgNC4xMjAzIDE0LjU4NzYgNCAxMy42MjUyIDRDMTEuNTgwMSA0IDEwLjEzNjUgNS4zMjMzMSAxMC4xMzY1IDcuNzI5MzJWOS43NzQ0NEg3LjczMDQ3VjEyLjY2MTdIMTAuMTM2NUwxMC4xMzY1IDE5LjcyNTRIMTIuOTAzNFoiIGZpbGw9IndoaXRlIi8+Cjwvc3ZnPgo=)](https://www.facebook.com/GetDashlane "Facebook page")[![Twitter Logo](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjMiIHZpZXdCb3g9IjAgMCAyNCAyMyIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik04Ljk5MDggMTIuMzEzMUwwIDAuODc1SDcuMTIxMzNMMTIuNjcxMyA3Ljk0NDUzTDE4LjYwMDUgMC45MDY4MzNIMjIuNTIyNkwxNC41Njc2IDEwLjM2MDFMMjQgMjIuMzc1SDE2Ljg5OTlMMTAuODkwNSAxNC43Mjk4TDQuNDc0NzUgMjIuMzUzOEgwLjUzMTQ0NEw4Ljk5MDggMTIuMzEzMVpNMTcuOTM0OCAyMC4yNTU3TDQuMzY2NTcgMi45OTQyN0g2LjA4NTY1TDE5LjYzNjggMjAuMjU1N0gxNy45MzQ4WiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+Cg==)](https://www.x.com/dashlane "Twitter page")[![Youtube logo](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik02LjkyNTE2IDYuMzcyODNDOS4zMjU5OSA2LjIwOTM5IDE0LjY4MDcgNi4yMDg3MiAxNy4wODQ4IDYuMzcyODNDMTkuNjg3MSA2LjU1MDk0IDE5Ljk5MDcgOC4xMjc5MiAyMC4wMSAxMi4yNTM4QzE5Ljk5MDcgMTYuMzg3MSAxOS42ODQ1IDE3Ljk1NzQgMTcuMDg0OCAxOC4xMzQ4QzE0LjY4MDcgMTguMjk4OSA5LjMyNjY2IDE4LjI5ODMgNi45MjUxNiAxOC4xMzQ4QzQuMzIyODcgMTcuOTU2NyA0LjAxOTM1IDE2LjM3OTcgNCAxMi4yNTM4QzQuMDE5MzUgOC4xMjA1OSA0LjMyNTU0IDYuNTUwMjcgNi45MjUxNiA2LjM3MjgzWk0xMC4wMDM4IDkuNTg1NVYxNC45MjIyTDE1LjM0MDQgMTIuMjQ5MkwxMC4wMDM4IDkuNTg1NVoiIGZpbGw9IndoaXRlIi8+Cjwvc3ZnPgo=)](https://www.youtube.com/channel/UC29QiP0ZFzBVTnCeLytXXCg "Youtube page")[![Instagram Logo](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik04IDEyQzggOS43OTE0MiA5Ljc5MTczIDggMTIgOEMxNC4yMDgzIDggMTYgOS43OTE0MiAxNiAxMkMxNiAxNC4yMDg2IDE0LjIwODMgMTYgMTIgMTZDOS43OTE3MyAxNiA4IDE0LjIwODYgOCAxMlpNMTIgMTQuN0MxMC41MDk0IDE0LjcgOS4zIDEzLjQ5MDkgOS4zIDEyQzkuMyAxMC41MDkxIDEwLjUwOTQgOS4zIDEyIDkuM0MxMy40OTA5IDkuMyAxNC43IDEwLjUwOTEgMTQuNyAxMkMxNC43IDEzLjQ5MDkgMTMuNDkwOSAxNC43IDEyIDE0LjdaIiBmaWxsPSJ3aGl0ZSIvPgo8cGF0aCBkPSJNMTYuNjMxNSA4LjIxMDUxQzE2LjYzMTUgOC42NzUzOSAxNi4yNTQ1IDkuMDUyNjIgMTUuNzg5NCA5LjA1MjYyQzE1LjMyNDUgOS4wNTI2MiAxNC45NDczIDguNjc1NjYgMTQuOTQ3MyA4LjIxMDUxQzE0Ljk0NzMgNy43NDUzNiAxNS4zMjQyIDcuMzY4NDEgMTUuNzg5NCA3LjM2ODQxQzE2LjI1NDUgNy4zNjg2OCAxNi42MzE1IDcuNzQ1MzYgMTYuNjMxNSA4LjIxMDUxWiIgZmlsbD0id2hpdGUiLz4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xOS41ODcyIDYuNzYzMjFDMTkuNzg0MiA3LjI2OTUxIDE5LjkyMTcgNy44NTQwOSAxOS45NTkzIDguNzA0MTlDMTkuOTk2OSA5LjU1NzQyIDIwIDkuODI5NTEgMjAgMTIuMDAxNkMyMCAxNC4xNzM2IDE5Ljk5MDYgMTQuNDQ1NyAxOS45NTMgMTUuMjk4OUMxOS45MTU0IDE2LjE0OSAxOS43NzggMTYuNzMwNSAxOS41ODEgMTcuMjM5OUMxOS4xNjUxIDE4LjMxNTEgMTguMzE0OCAxOS4xNjUyIDE3LjIzOTQgMTkuNTgxMUMxNi43MzMgMTkuNzc4IDE2LjE0ODMgMTkuOTE1NSAxNS4yOTggMTkuOTUzQzE0LjQ0NDYgMTkuOTkwNiAxNC4xNzI1IDIwIDEyIDIwQzkuODI3NTIgMjAgOS41NTUzNyAxOS45OTA2IDguNzAxOTggMTkuOTUzQzcuODUxNzEgMTkuOTE1NSA3LjI3MDE1IDE5Ljc3OCA2Ljc2MDYyIDE5LjU4MTFDNi4yMjkxNiAxOS4zODEgNS43NDQ2OSAxOS4wNjU0IDUuMzQ0NDUgMTguNjU4OUM0LjkzNzk1IDE4LjI1ODggNC42MjIyNyAxNy43Nzc1IDQuNDE5MDMgMTcuMjM5OUM0LjIyMjA0IDE2LjczMzYgNC4wODQ1NiAxNi4xNDkgNC4wNDY5OCAxNS4yOTg5QzQuMDA5NCAxNC40NDU3IDQgMTQuMTczOSA0IDEyLjAwMTZDNCA5LjgyOTIgNC4wMDk0IDkuNTU3NDIgNC4wNTAxMSA4LjcwMDc0QzQuMDg3NjkgNy44NTA2NSA0LjIyNTE3IDcuMjY5NTEgNC40MjIxNiA2Ljc2MDA4QzQuNjIyMjcgNi4yMjg3MyA0LjkzNzk1IDUuNzQ0MDMgNS4zNDQxNCA1LjM0Mzg3QzUuNzQ0MzcgNC45MzQ2NCA2LjIyNTcyIDQuNjIxODQgNi43NjM3NSA0LjQxODk0QzcuMjcwMTUgNC4yMjIgNy44NTQ4NCA0LjA4NDU0IDguNzA1MTEgNC4wNDY5N0M5LjU1ODUxIDQuMDA5MzkgOS44MzAzNCA0IDEyLjAwMzEgNEMxNC4xNzU5IDQgMTQuNDQ3OCA0LjAwOTM5IDE1LjMwNDYgNC4wNTAxQzE2LjE1NDkgNC4wODc2NyAxNi43MzY0IDQuMjI1MTMgMTcuMjQ1NiA0LjQyMjA3QzE3Ljc3NzEgNC42MjIxNSAxOC4yNjE2IDQuOTM3NzcgMTguNjYxOCA1LjM0NDE5QzE5LjA3MTQgNS43NDQzNCAxOS4zODQgNi4yMjU2IDE5LjU4NzIgNi43NjMyMVpNMTguNjUyIDE1LjMwMDRDMTguNjE2OCAxNi4wOTkyIDE4LjQ4MjcgMTYuNTMwNCAxOC4zNzA4IDE2LjgxODFDMTguMDk1OSAxNy41MzA1IDE3LjUzMDggMTguMDk2MSAxNi44MTgzIDE4LjM3MUMxNi41MzA5IDE4LjQ4MjcgMTYuMDk2NCAxOC42MTcxIDE1LjMwMSAxOC42NTJDMTQuNDM4NiAxOC42OTA0IDE0LjE3OTggMTguNyAxMS45OTgyIDE4LjdDOS44MTY2OSAxOC43IDkuNTU0NjMgMTguNjkwNCA4LjY5NTUyIDE4LjY1MkM3Ljg5Njg3IDE4LjYxNjggNy40NjU4NyAxOC40ODI3IDcuMTc4MjIgMTguMzcxQzYuODIzNjkgMTguMjQwMSA2LjUwMTE3IDE4LjAzMjQgNi4yMzkxMSAxNy43NjA2QzUuOTY3NDYgMTcuNDk1MyA1Ljc2MDEyIDE3LjE3NTkgNS42Mjg5MyAxNi44MjEzQzUuNTE3MjYgMTYuNTMzOSA1LjM4Mjg3IDE2LjA5OTIgNS4zNDggMTUuMzAzNkM1LjMwOTYgMTQuNDQxMSA1LjMgMTQuMTgyMSA1LjMgMTJDNS4zIDkuODE3ODggNS4zMDk2IDkuNTU1NzUgNS4zNDggOC42OTY0MUM1LjM4MzE5IDcuODk3NTYgNS41MTcyNiA3LjQ2NjQ1IDUuNjI4OTMgNy4xNzg3MkM1Ljc1OTggNi44MjQxIDUuOTY3NDYgNi41MDE0OCA2LjI0MjMxIDYuMjM5MzZDNi41MDcyNCA1Ljk2NzYzIDYuODI2NTcgNS43NjAyNCA3LjE4MTQyIDUuNjI5MzRDNy40Njg3NSA1LjUxNzY0IDcuOTAzMjcgNS4zODMyMiA4LjY5ODcyIDUuMzQ4MDFDOS41NjEwMyA1LjMwOTYgOS44MTk4OSA1LjMgMTIuMDAxNCA1LjNDMTQuMTg2MiA1LjMgMTQuNDQ1IDUuMzA5NiAxNS4zMDQyIDUuMzQ4MDFDMTYuMTAyOCA1LjM4MzIyIDE2LjUzMzggNS41MTczMiAxNi44MjE1IDUuNjI5MzRDMTcuMTc2IDUuNzYwMjQgMTcuNDk4NSA1Ljk2Nzk1IDE3Ljc2MDYgNi4yMzkzNkMxOC4wMzIyIDYuNTA0NjggMTguMjM5NiA2LjgyNDEgMTguMzcwOCA3LjE3ODcyQzE4LjQ4MjQgNy40NjYxMyAxOC42MTY4IDcuOTAwNzYgMTguNjUyIDguNjk2NDFDMTguNjkwNCA5LjU1ODk2IDE4LjcgOS44MTc4OCAxOC43IDEyQzE4LjcgMTQuMTgyMSAxOC42OTAxIDE0LjQzNzkgMTguNjUyIDE1LjMwMDRaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K)](https://www.instagram.com/dashlane "Instagram page")[![Reddit Logo](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xOC4yNDU2IDEwLjI0NTZDMTkuMjE0IDEwLjI0NTYgMjAgMTEuMDMxNiAyMCAxMkMyMCAxMi43MTU3IDE5LjU2NDggMTMuMzMzMyAxOC45ODk1IDEzLjYxNEMxOS4wMTc1IDEzLjc4MjQgMTkuMDMxNSAxMy45NTA5IDE5LjAzMTUgMTQuMTMzM0MxOS4wMzE1IDE2LjgyODEgMTUuOTAxNyAxOS4wMDM1IDEyLjAyOCAxOS4wMDM1QzguMTU0MjcgMTkuMDAzNSA1LjAyNDUzIDE2LjgyODEgNS4wMjQ1MyAxNC4xMzMzQzUuMDI0NTMgMTMuOTUwOSA1LjAzODUzIDEzLjc2ODQgNS4wNjY2NyAxMy42QzQuNDQ5MDcgMTMuMzE5MyA0LjAyOCAxMi43MTU3IDQuMDI4IDEyQzQuMDI4IDExLjAzMTYgNC44MTQgMTAuMjQ1NiA1Ljc4MjQgMTAuMjQ1NkM2LjI0NTYgMTAuMjQ1NiA2LjY4MDY3IDEwLjQ0MjEgNi45ODk0NyAxMC43MzY4QzguMTk2NCA5Ljg1MjY3IDkuODY2NjcgOS4zMDUyIDExLjczMzMgOS4yNDkwN0wxMi42MTc1IDUuMDY2NjdDMTIuNjQ1NiA0Ljk4MjQgMTIuNjg3NiA0LjkxMjI3IDEyLjc1NzkgNC44NzAxM0MxMi44MjggNC44MjgxMyAxMi45MTIzIDQuODE0IDEyLjk5NjQgNC44MjgxM0wxNS45MDE3IDUuNDQ1NkMxNi4wOTgxIDUuMDI0NTMgMTYuNTE5MiA0Ljc0Mzg3IDE3LjAxMDUgNC43NDM4N0MxNy42OTgxIDQuNzQzODcgMTguMjU5NiA1LjMwNTIgMTguMjU5NiA1Ljk5MjkzQzE4LjI1OTYgNi42ODA2NyAxNy42OTgxIDcuMjQyMTMgMTcuMDEwNSA3LjI0MjEzQzE2LjMzNjggNy4yNDIxMyAxNS43ODk1IDYuNzA4OCAxNS43NjEzIDYuMDQ5MDdMMTMuMTY0OCA1LjUwMTczTDEyLjM2NDggOS4yNDkwN0MxNC4xODk1IDkuMzE5MzMgMTUuODQ1NiA5Ljg4MDY3IDE3LjAzODUgMTAuNzM2OEMxNy4zNDczIDEwLjQyODEgMTcuNzY4NCAxMC4yNDU2IDE4LjI0NTYgMTAuMjQ1NlpNOCAxMy4yNDkxQzggMTIuNTYxNSA4LjU2MTMzIDEyIDkuMjQ5MDcgMTJDOS45MzY4IDEyIDEwLjQ5ODEgMTIuNTYxNSAxMC40OTgxIDEzLjI0OTFDMTAuNDk4MSAxMy45MzY4IDkuOTM2OCAxNC40OTgzIDkuMjQ5MDcgMTQuNDk4M0M4LjU2MTMzIDE0LjQ5ODMgOCAxMy45MzY4IDggMTMuMjQ5MVpNMTQuOTc1MyAxNi41NDczQzE0LjExOTIgMTcuNDAzNSAxMi40OTEyIDE3LjQ1OTYgMTIuMDE0IDE3LjQ1OTZDMTEuNTM2OCAxNy40NTk2IDkuODk0NjcgMTcuMzg5NSA5LjA1MjUzIDE2LjU0NzNDOC45MjYyNyAxNi40MjExIDguOTI2MjcgMTYuMjEwNSA5LjA1MjUzIDE2LjA4NDNDOS4xNzg5MyAxNS45NTc5IDkuMzg5NDcgMTUuOTU3OSA5LjUxNTczIDE2LjA4NDNDMTAuMDQ5MSAxNi42MTc2IDExLjIgMTYuODE0IDEyLjAyOCAxNi44MTRDMTIuODU2MSAxNi44MTQgMTMuOTkyOSAxNi42MTc2IDE0LjU0MDMgMTYuMDg0M0MxNC42NjY3IDE1Ljk1NzkgMTQuODc3MiAxNS45NTc5IDE1LjAwMzUgMTYuMDg0M0MxNS4xMDE3IDE2LjIyNDUgMTUuMTAxNyAxNi40MjExIDE0Ljk3NTMgMTYuNTQ3M1pNMTQuNzUwOCAxNC40OTgzQzE0LjA2MzEgMTQuNDk4MyAxMy41MDE3IDEzLjkzNjggMTMuNTAxNyAxMy4yNDkxQzEzLjUwMTcgMTIuNTYxNSAxNC4wNjMxIDEyIDE0Ljc1MDggMTJDMTUuNDM4NSAxMiAxNiAxMi41NjE1IDE2IDEzLjI0OTFDMTYgMTMuOTM2OCAxNS40Mzg1IDE0LjQ5ODMgMTQuNzUwOCAxNC40OTgzWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+Cg==)](https://www.reddit.com/r/Dashlane/ "Reddit page")[![Linkedin Logo](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTYuOTM3NSA4LjA2MjVIM1YyMUg2LjkzNzVWOC4wNjI1WiIgZmlsbD0iI0ZGRkZGRiIgZmlsbC1vcGFjaXR5PSIwLjkiLz4KPHBhdGggZD0iTTE2LjUwMTcgOC4wNjI1QzE0LjI1IDguMDYyNSAxMy42MjU2IDguODAwNSAxMy4xMjUgOS43NVY4LjA2MjVIOS4xODc1VjIxSDEzLjEyNVYxMy42ODc1QzEzLjEyNSAxMi41NjI1IDEzLjEyNSAxMS40Mzc1IDE1LjA5MzggMTEuNDM3NUMxNy4wNjI1IDExLjQzNzUgMTcuMDYyNSAxMi41NjI1IDE3LjA2MjUgMTMuNjg3NVYyMUgyMVYxMy42ODc1QzIxIDEwLjMxMjUgMjAuNDM3NSA4LjA2MjUgMTYuNTAxNyA4LjA2MjVaIiBmaWxsPSIjRkZGRkZGIiBmaWxsLW9wYWNpdHk9IjAuOSIvPgo8cGF0aCBkPSJNNC45Njg3NSA2LjkzNzVDNi4wNTYwNiA2LjkzNzUgNi45Mzc1IDYuMDU2MDYgNi45Mzc1IDQuOTY4NzVDNi45Mzc1IDMuODgxNDQgNi4wNTYwNiAzIDQuOTY4NzUgM0MzLjg4MTQ0IDMgMyAzLjg4MTQ0IDMgNC45Njg3NUMzIDYuMDU2MDYgMy44ODE0NCA2LjkzNzUgNC45Njg3NSA2LjkzNzVaIiBmaWxsPSIjRkZGRkZGIiBmaWxsLW9wYWNpdHk9IjAuOSIvPgo8L3N2Zz4K)](https://www.linkedin.com/company/dashlane "Linkedin page")
+
+English
+
+© 2024 Dashlane Inc. All rights reserved.
+
+Dashlane and the Dashlane logo are trademarks of Dashlane SAS, registered in the U.S. and other countries.
+
+[Essential Accessibility Icon](https://www.levelaccess.com/dashlane?utm_source=dashlanehomepage&utm_medium=iconlarge&utm_term=eachannelpage&utm_content=header&utm_campaign=dashlane "Essential Accessibility website")
+
+* [Terms](https://www.dashlane.com/terms "Dashlane Terms & Conditions")
+* [Privacy](https://www.dashlane.com/privacy/overview "Privacy")
+* [Legal](https://www.dashlane.com/legal "Dashlane Legal Contact Information")
+* [Cookie Preferences](https://www.dashlane.com/privacy/cookiepreferences "Website Cookie Information")
+* [Do Not Sell or Share My Personal Information](https://www.dashlane.com/privacy/donotsell "Do Not Sell or Share My Personal Information Page")
+* [Accessibility Statement](https://www.dashlane.com/accessibility-statement "Accessibility Statement")
