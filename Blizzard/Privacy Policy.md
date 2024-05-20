@@ -428,7 +428,7 @@ It is very important for you to understand that you control the security of your
 13\. Help for People with Disabilities
 --------------------------------------
 
-If you have a disability that makes exercising any of your rights in this Privacy Policy difficult, we want to help you through alternative means. Please contact us and let us know how we may best help you, at [DataPrivacy@Blizzard.com](mailto:DataPrivacy@blizzard.com) or 877-566-3886 or Blizzard Entertainment, One Blizzard Way, Irvine, CA 92618-3616, USA, Attention: Data Protection Team.
+If you have a disability that makes exercising any of your rights in this Privacy Policy difficult, we want to help you through alternative means. Please contact us and let us know how we may best help you, at [DataPrivacy@Blizzard.com](mailto:DataPrivacy@Blizzard.com) or 877-566-3886 or Blizzard Entertainment, One Blizzard Way, Irvine, CA 92618-3616, USA, Attention: Data Protection Team.
 
 14\. What if you have a question or complaint?
 ----------------------------------------------
