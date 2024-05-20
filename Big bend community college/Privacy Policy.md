@@ -251,11 +251,11 @@ We are committed to conducting our business in accordance with these principles 
 
 [](javascript:;)[7662 Chanute Street N.E. Moses Lake](https://www.google.com/maps/place/7662+Chanute+St+NE,+Moses+Lake,+WA+98837)
 
-[](javascript:;)[(509) 793-2222](tel:(509)%20793-2222)
+[](javascript:;)[(509) 793-2222](tel:(509) 793-2222)
 
-[](javascript:;)[(877) 745-1212](tel:%20(877)%20745-1212)
+[](javascript:;)[(877) 745-1212](tel: (877) 745-1212)
 
-[](javascript:;)[TDD (509) 793-2325](tel:%20(509)%20793-2325)
+[](javascript:;)[TDD (509) 793-2325](tel: (509) 793-2325)
 
 [Home](https://www.bigbend.edu/)  
 [I Am](https://www.bigbend.edu/i-am/)  
