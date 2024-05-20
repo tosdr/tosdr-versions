@@ -110,6 +110,10 @@
 
 [Описание функциональных характеристик Программного продукта 2ГИС Онлайн-версия](http://law.2gis.ru/functional-characteristics)
 
+[Описание функциональных характеристик Программного продукта Сервис Data.2gis](http://law.2gis.ru/functional-characteristics-data2gis)
+
+[Описание функциональных характеристик Программного продукта 2ГИС Про](http://law.2gis.ru/functional-characteristics-2gispro)
+
 [Порядок определения стоимости использования Программного комплекса 2ГИС](http://law.2gis.ru/software-package)
 
 [Информация о деятельности 2ГИС в области информационных технологий](http://law.2gis.ru/about-2gis)
