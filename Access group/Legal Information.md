@@ -72,6 +72,54 @@ United Kingdom Australia & New Zealand Singapore Malaysia United States Ireland
     
     Latest  News
     
+    ![](/media/pb3hdpt0/news-card_acquisitions_lightyear.png?anchor=center&mode=crop&width=350&height=450&rnd=133598265400430000)
+    
+    Posted 10th May 2024
+    
+    The Access Group has entered into an agreement to acquire pioneering AP automation provider, Lightyear
+    
+    [Read more](https://www.theaccessgroup.com/en-gb/about/news/the-access-group-has-entered-into-an-agreement-to-acquire-pioneering-ap-automation-provider-lightyear/)
+    
+    ![](/media/cv3ediz4/news-card_acquisitions_incase.png?center=0.30818089430894308,0.49989111498257838&mode=crop&width=350&height=450&rnd=133597478084700000)
+    
+    Posted 9th May 2024
+    
+    Access Legal makes landmark acquisition of pioneering mobile app provider, inCase – to transform lawyer client experience
+    
+    [Read more](https://www.theaccessgroup.com/en-gb/about/news/access-legal-makes-landmark-acquisition-of-pioneering-mobile-app-provider-incase/)
+    
+    ![](/media/ijmh1rzb/news-card_acquisitions_elay-1.png?anchor=center&mode=crop&width=350&height=450&rnd=133597175815400000)
+    
+    Posted 8th May 2024
+    
+    The Access Group acquires cutting edge CRM and outreach platform elay
+    
+    [Read more](https://www.theaccessgroup.com/en-gb/about/news/the-access-group-acquires-elay-a-multi-channel-engagement-automation-platform/)
+    
+    ![](/media/2rxbxbbe/conor_whelan-07-min.jpg?center=0.34138843211553582,0.52115782512788777&mode=crop&width=350&height=450&rnd=133585228329030000)
+    
+    Posted 25 April 2024
+    
+    The Access Group Appoints New Chief Information Officer
+    
+    [Read more](https://www.theaccessgroup.com/en-gb/about/news/the-access-group-appoints-new-chief-information-officer/)
+    
+    ![](/media/1blpb1ba/cupcake-1.jpg?center=0.698937827164025,0.54158957727227741&mode=crop&width=350&height=450&rnd=133582746682030000)
+    
+    Posted 22 April 2024
+    
+    Air pollution is biggest climate concern for school children
+    
+    [Read more](https://www.theaccessgroup.com/en-gb/about/news/air-pollution-is-biggest-climate-concern-for-school-children/)
+    
+    ![](/media/ljqddr1q/27440622_group_lbh_access_wear_pitch_to_uni_students_denoised.jpeg?anchor=center&mode=crop&width=350&height=450&rnd=133567166396400000)
+    
+    Posted 4 April 2024
+    
+    The Access group launches workwear design competition for Loughborough University students
+    
+    [Read more](https://www.theaccessgroup.com/en-gb/about/news/the-access-group-launches-workwear-design-competition-for-loughborough-university-students/)
+    
     ![](/media/ronbf2fs/jonah-headshoot-2.jpg?center=0.36686475279396924,0.63034064927740152&mode=crop&width=350&height=450&rnd=133558489737830000)
     
     Posted 25 March 2024
@@ -87,38 +135,6 @@ United Kingdom Australia & New Zealand Singapore Malaysia United States Ireland
     Access Hospitality announces acquisition of leading Wi-Fi provider Wireless Social
     
     [Read more](https://www.theaccessgroup.com/en-gb/about/news/access-hospitality-announces-acquisition-of-leading-wi-fi-provider-wireless-social/)
-    
-    ![](/media/h0dke00y/tag-loughborough.jpg?anchor=center&mode=crop&width=350&height=450&rnd=133504846661800000)
-    
-    Posted 23rd January 2024
-    
-    The Access Group makes new appointments to lead on customer experience, people and sustainability
-    
-    [Read more](https://www.theaccessgroup.com/en-gb/about/news/the-access-group-makes-new-appointments-to-lead-on-customer-experience-people-and-sustainability/)
-    
-    ![](/media/2s5hg0lh/romania-recruitment.jpeg?center=0.66171275493899173,0.49131417540434941&mode=crop&width=350&height=450&rnd=133497919859830000)
-    
-    Posted 15th January 2024
-    
-    Hundreds of new jobs created by Access with the opening of new global operations centre in Romania
-    
-    [Read more](https://www.theaccessgroup.com/en-gb/about/news/hundreds-of-new-jobs-created-by-access-with-the-opening-of-new-global-operations-centre-in-romania/)
-    
-    ![](/media/aqnacezk/tech-company.jpg?anchor=center&mode=crop&width=350&height=450&rnd=133444314219230000)
-    
-    Posted 14 November 2023
-    
-    The access group celebrates a hat-trick of award wins
-    
-    [Read more](https://www.theaccessgroup.com/en-gb/about/news/the-access-group-celebrates-a-hat-trick-of-award-wins/)
-    
-    ![](/media/cz5bsogq/news-card_acquisitions_oysta.jpg?anchor=center&mode=crop&width=350&height=450&rnd=133364854566730000)
-    
-    Posted 17 August 2023
-    
-    The Access Group extends its health and social care proposition in the provision of technology enabled care through the acquisition of Oysta
-    
-    [Read more](https://www.theaccessgroup.com/en-gb/about/news/access-group-newest-health-and-social-care-acquisition-oysta/)
     
     Access software lets you work the way you want, giving your organisation the power to thrive and grow
     
