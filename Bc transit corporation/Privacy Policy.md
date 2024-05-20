@@ -108,7 +108,7 @@ BC Transit
 520 Gorge Rd East  
 Victoria BC V8W 9T5 250-385-2551
 
-[Privacy@BCTransit.com](mailto:Privacy@bctransit.com)
+[Privacy@BCTransit.com](mailto:Privacy@BCTransit.com)
 
 **WHAT IS PERSONAL INFORMATION?**
 
