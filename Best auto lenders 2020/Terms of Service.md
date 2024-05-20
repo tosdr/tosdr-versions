@@ -14,7 +14,7 @@ Unless explicitly stated otherwise, any future offer(s) made available to you on
 
 BestAutoLenders2020.com is paid a marketing lead generation fee by our partners for the products and services provided. Your use of the websites and/or BestAutoLenders2020.com's services constitutes your agreement with this. BestAutoLenders2020.com does not charge you a fee for its service in matching you with lending partners.
 
-When you "submit" information, create an account or otherwise register for services through BestAutoLenders2020.com and its affiliates, partners or lending partners website or otherwise, you understand and agree that you have established a business relationship between you and BestAutoLenders2020.com and their partners. Accordingly, BestAutoLenders2020.com will send your information to its affiliates. You agree that BestAutoLenders2020.com and/or its Companies may contact you using information you provided with information and offers of services available through BestAutoLenders2020.com and the Websites. You hereby consent to any such communication or phone calls even if your phone number is on any Do Not Call list .If at any time you do not wish to continue to receive communications from BestAutoLenders2020.com, please contact us at [info@BestAutoLenders2020.com](mailto:info@bestautolenders2020.com). To cancel communications from lending partners or affiliates we work with, please contact that company directly**.**
+When you "submit" information, create an account or otherwise register for services through BestAutoLenders2020.com and its affiliates, partners or lending partners website or otherwise, you understand and agree that you have established a business relationship between you and BestAutoLenders2020.com and their partners. Accordingly, BestAutoLenders2020.com will send your information to its affiliates. You agree that BestAutoLenders2020.com and/or its Companies may contact you using information you provided with information and offers of services available through BestAutoLenders2020.com and the Websites. You hereby consent to any such communication or phone calls even if your phone number is on any Do Not Call list .If at any time you do not wish to continue to receive communications from BestAutoLenders2020.com, please contact us at [info@BestAutoLenders2020.com](mailto:info@BestAutoLenders2020.com). To cancel communications from lending partners or affiliates we work with, please contact that company directly**.**
 
 **4****. Affiliate Offers**
 
@@ -26,11 +26,11 @@ Introduction. To the extent permitted by law, BestAutoLenders2020.com will provi
 
 _Hardware and Software Requirements._ The Records will be provided to you either on the BestAutoLenders2020.com website, in an email message, or as an attachment to an email message sent to the email address you provide as part of your request, application, or registration. To access the Records, you will need Adobe Acrobat Reader version 7 or higher, and a personal computer or other access device which is capable of accessing the Internet. To retain the Record, your access device must have the ability to either download the Records to your computers hard drive or print the Records.
 
-_Right to Withdraw Consent, Procedures for Withdrawal and Updating Information._ You may withdraw your consent to receive the Records electronically at any time, or update your contact information at any time by emailing [info@BestAutoLenders2020.com](mailto:info@bestautolenders2020.com) and withdrawing your consent or providing your updated contact information.
+_Right to Withdraw Consent, Procedures for Withdrawal and Updating Information._ You may withdraw your consent to receive the Records electronically at any time, or update your contact information at any time by emailing [info@BestAutoLenders2020.com](mailto:info@BestAutoLenders2020.com) and withdrawing your consent or providing your updated contact information.
 
 _Consent Applies to Transaction._ Your Consent to Electronic Records applies to the transaction you've requested which may give rise to the obligation to provide the Records and to any other dealings or transactions you may have with BestAutoLenders2020.com.
 
-_Right to Paper Records and Copies of Records._ You have the right to have the Records provided to you in paper form, rather than electronic form. If you wish to obtain the Records in paper form, contact BestAutoLenders2020.com by emailing [info@BestAutoLenders2020.com](mailto:info@bestautolenders2020.com). A paper copy of the Record will be provided to you at no charge.
+_Right to Paper Records and Copies of Records._ You have the right to have the Records provided to you in paper form, rather than electronic form. If you wish to obtain the Records in paper form, contact BestAutoLenders2020.com by emailing [info@BestAutoLenders2020.com](mailto:info@BestAutoLenders2020.com). A paper copy of the Record will be provided to you at no charge.
 
 **5\. License Grant**
 
@@ -70,7 +70,7 @@ The Agreement shall be treated as though it were executed and performed in Tenne
 
 **14\. Contact Us**
 
-If you have any questions regarding the Agreement, or would like more information from us, please contact us at [info@BestAutoLenders2020.com](mailto:info@bestautolenders2020.com).
+If you have any questions regarding the Agreement, or would like more information from us, please contact us at [info@BestAutoLenders2020.com](mailto:info@BestAutoLenders2020.com).
 
 _Updated October 24th, 2016_
 
