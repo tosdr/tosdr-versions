@@ -343,7 +343,7 @@ The Bletchley Park privacy policy explains what information Bletchley Park colle
 
 The Mansion, Bletchley Park, Sherwood Drive, Bletchley, Milton Keynes, MK3 6EB
 
-[+44 (0) 1908 640404](tel:+44%20(0)%201908%20640404)
+[+44 (0) 1908 640404](tel:+44 (0) 1908 640404)
 
 * [](https://twitter.com/bletchleypark)
 * [](https://www.facebook.com/Bletchleypark1/)
