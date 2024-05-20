@@ -424,7 +424,7 @@ Current version, April 8, 2024: Updated to reflect new capabilities of the Aura 
 
 September 1, 2023: Reflected new capabilities of the Aura services
 
-[August 22, 2023: Reorganized provisions for better readability](http://august/%2022,%202023:%20Reorganized%20provisions%20for%20better%20readability)
+[August 22, 2023: Reorganized provisions for better readability](http://August 22, 2023: Reorganized provisions for better readability)
 
 [April 28, 2023: Correcting the description of our products](https://www.aura.com/archived/2023-04-28-privacy-policy)
 
