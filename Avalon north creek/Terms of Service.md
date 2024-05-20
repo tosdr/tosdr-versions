@@ -10,7 +10,7 @@
 
 [For Residents](https://www.avalonaccess.com/UserProfile/LogOn)
 
-Create AccountLogin
+[Create Account](#)[Login](#)
 
 Terms of Use
 ------------
