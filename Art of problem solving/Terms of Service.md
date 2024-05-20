@@ -61,7 +61,7 @@ Middle & High School
 
 [Online Classes: AoPS Online](https://artofproblemsolving.com/) [In-person: AoPS Academy](https://aopsacademy.org/)
 
-New classes are starting soon - [secure your spot](https://artofproblemsolving.com/school/schedule) today!
+Avoid summer slump with our math, science, competition training, and computer science courses - [schedule today](https://artofproblemsolving.com/school/schedule)!
 
 JavaScript is not enabled. JavaScript is required to fully utilize the site.
 
