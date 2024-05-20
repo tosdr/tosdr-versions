@@ -1136,7 +1136,7 @@ El envío de del Resumen se enviará al correo electrónico denunciado al moment
 
 [Depósitos y extracciones](https://www.brubank.com/depositos-y-extracciones)
 
-[Transferencias](https://#transferencia)
+[Transferencias](//#transferencia)
 
 [BruPlus 👑](https://www.brubank.com/bruplus)
 
