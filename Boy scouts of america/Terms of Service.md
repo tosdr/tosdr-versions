@@ -161,7 +161,7 @@ Except as set forth in this paragraph, you may not copy, distribute, display, pu
 **Request for Consent to Use Content**
 --------------------------------------
 
-If you wish to use any of this Site’s Content for any purpose other than your individual review and individual educational purposes, please send a request with your proposed use to [Admin@Scouting.org](mailto:Admin@scouting.org) so that we may evaluate your proposed use.
+If you wish to use any of this Site’s Content for any purpose other than your individual review and individual educational purposes, please send a request with your proposed use to [Admin@Scouting.org](mailto:Admin@Scouting.org) so that we may evaluate your proposed use.
 
 Unless required by law, the BSA will not be obligated to grant such requests and may approve or deny them at its sole discretion. Any approval of your request by BSA will be limited to a specific, enumerated use and conditioned upon your acceptance of additional reasonable terms and conditions, which will be established at the time of your request based on your intended use of the Content. In any event, you may not copy or mimic the design elements, “look and feel,” or layout of the Site. No approval or permission to use this Site’s Content will be effective unless made in writing by a duly authorized representative of BSA. Furthermore, BSA reserves the right to revoke its consent any at time.
 
