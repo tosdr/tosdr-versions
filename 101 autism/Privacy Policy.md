@@ -180,11 +180,11 @@ Follow:
 
 ### Advertisement
 
-* [Signs of Autism in Girls: A Comprehensive Guide](https://101autism.com/signs-of-autism-in-girls-a-comprehensive-guide/)
-* [Understanding the Autism Diagnostic Observation Schedule (ADOS)](https://101autism.com/understanding-the-autism-diagnostic-observation-schedule-ados/)
-* [Understanding the IDRlabs Autism Spectrum Disorder Test: An In-Depth Look](https://101autism.com/title-understanding-the-idrlabs-autism-spectrum-disorder-test-an-in-depth-look/)
-* [Autism conferences in 2024 By state and dates](https://101autism.com/688552-2/)
-* [Unlock the Ocean’s Wonders: The Ultimate Gift Guide for Autistic Children Enthralled by Marine Life](https://101autism.com/unlock-the-oceans-wonders-the-ultimate-gift-guide-for-autistic-children-enthralled-by-marine-life/)
+* [Worst States for Autism Services: A Comprehensive Analysis](https://101autism.com/worst-states-for-autism-services-a-comprehensive-analysis/)
+* [Measuring Camouflaging in Autism with the CAT-Q](https://101autism.com/measuring-camouflaging-in-autism-with-the-cat-q/)
+* [How to Find an Autism Therapist for Your Child in New York](https://101autism.com/how-to-find-an-autism-therapist-for-your-child-in-new-york/)
+* [Finding Our Place: The Great American City Hunt for Families Like Ours](https://101autism.com/finding-our-place-the-great-american-city-hunt-for-families-like-ours/)
+* [Discover the Top 18 Autism Schools in New York: Services, Facilities, and Contact Information](https://101autism.com/discover-the-top-18-autism-schools-in-new-york-services-facilities-and-contact-information/)
 
 [![weighted blankets for autism](https://static.shareasale.com/image/64644/littlegirlinpink.jpeg)](https://shareasale.com/r.cfm?b=1905074&u=475781&m=64644&urllink=&afftrack=)
 
