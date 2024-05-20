@@ -41,8 +41,7 @@ FREE Shipping On Orders $199+ | Balance Board 30 Day Money Back Guarantee
     
     Shop
     
-    * [Shop All Products](https://60up.com/collections/60up-balance-products)
-    * [60uP® Balance Boards](https://60up.com/collections/60up%C2%AE-balance-boards-1)
+    * [60uP® Balance Board](https://60up.com/products/60up-balance-board-system)
     * [Resistance Bands](https://60up.com/collections/resistance-bands)
     * [60uP® Exercise DVD](https://60up.com/products/excercise-videos-dvd)
     * [Accessories](https://60up.com/collections/accessories-1)
@@ -73,8 +72,7 @@ FREE Shipping On Orders $199+ | Balance Board 30 Day Money Back Guarantee
 
 * Shop
     
-    * [Shop All Products](https://60up.com/collections/60up-balance-products)
-    * [60uP® Balance Boards](https://60up.com/collections/60up%C2%AE-balance-boards-1)
+    * [60uP® Balance Board](https://60up.com/products/60up-balance-board-system)
     * [Resistance Bands](https://60up.com/collections/resistance-bands)
     * [60uP® Exercise DVD](https://60up.com/products/excercise-videos-dvd)
     * [Accessories](https://60up.com/collections/accessories-1)
@@ -171,7 +169,7 @@ Contact Us
 
 Hours: Mon-Fri, 9am - 3pm PST
 
-Subscribe To Save 10% OFF Your First Board
+Subscribe To Save $35 OFF Your First Board
 ------------------------------------------
 
  Email
