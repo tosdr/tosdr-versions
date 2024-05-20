@@ -26,7 +26,7 @@
         
         View All
         
-        [Compare](https://www.bitdefender.com/solutions/antivirus-comparison.html)
+        [Compare](https://www.bitdefender.com/solutions/)
         
         Try Bitdefender
         
