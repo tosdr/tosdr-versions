@@ -24,7 +24,7 @@
     * [Press Room](https://media.bhvr.com/)
     * [Blog](https://www.bhvr.com/blog/)
     * [Podcast](https://www.bhvr.com/podcast/)
-* [Business Solutions](https://www.bhvr.com/business-solutions/)
+* [Immersive Entertainment](https://www.bhvr.com/immersiveentertainment/)
 * [En](https://www.bhvr.com/privacy-policy/ "En")
 * [Fr](https://www.bhvr.com/fr/vie-privee/ "Fr")
 
@@ -382,7 +382,7 @@ California’s “Shine the Light” law (Civil Code Section § 1798.83) permits
     * [Press Room](https://media.bhvr.com/)
     * [Blog](https://www.bhvr.com/blog/)
     * [Podcast](https://www.bhvr.com/podcast/)
-* [Business Solutions](https://www.bhvr.com/business-solutions/)
+* [Immersive Entertainment](https://www.bhvr.com/immersiveentertainment/)
 * [En](https://www.bhvr.com/privacy-policy/ "En")
 * [Fr](https://www.bhvr.com/fr/vie-privee/ "Fr")
 
