@@ -407,7 +407,7 @@ Occasionally, we may update this privacy policy (or other documents in the Adobe
 
 If you have a privacy question, concern, or request, please fill out a [privacy inquiry form](http://www.adobe.com/go/privacyinquiry). 
 
-If you are outside North America, you can also get in touch with Adobe Ireland's data protection officer at [DPO@Adobe.com](mailto:DPO@adobe.com) or by postal mail at 4-6 Riverwalk, Citywest Business Park, Dublin 24, Ireland.
+If you are outside North America, you can also get in touch with Adobe Ireland's data protection officer at [DPO@Adobe.com](mailto:DPO@Adobe.com) or by postal mail at 4-6 Riverwalk, Citywest Business Park, Dublin 24, Ireland.
 
 For practices that are covered by our [PRP Certification](http://privacy.truste.com/privacy-seal/validation?rid=b3086843-045e-494d-a02e-115cead7bce7), if you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at [https://feedback-form.truste.com/watchdog/request](https://feedback-form.truste.com/watchdog/request).  
 
