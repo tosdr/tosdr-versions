@@ -123,7 +123,7 @@ This Privacy Policy does not apply to the practices of other businesses that Bit
 
 Please note that our privacy practices are subject to the applicable laws of the regions in which we operate. Accordingly, some additional region-specific terms will only apply to individuals in those locations, or as required by applicable laws. _**If you are a United States resident of California, Virginia, Colorado, Connecticut or certain other U.S. states**_, please see the sections titled **California Privacy Rights**, and **Virginia/Colorado/Connecticut and certain other U.S. State Privacy Rights** for specific disclosures with respect to our collection, use, and disclosure of your information and additional rights you have under applicable U.S. laws.
 
-**ACCESSIBILITY:** IF YOU ARE HAVING ANY TROUBLE ACCESSING THIS PRIVACY POLICY, PLEASE CONTACT US AT [PRIVACY@BIT.LY](mailto:PRIVACY@bit.ly).
+**ACCESSIBILITY:** IF YOU ARE HAVING ANY TROUBLE ACCESSING THIS PRIVACY POLICY, PLEASE CONTACT US AT [PRIVACY@BIT.LY](mailto:PRIVACY@BIT.LY).
 
 ##### Contact Information
 
