@@ -79,7 +79,7 @@ The mission of BYUtv is to create purposeful, engaging viewing and listening exp
 
 A Service of Brigham Young University.
 
-5.33.333
+5.59.28
 
 * [About Us](https://www.byutv.org/about)
 * [Contact Us](https://www.byutv.org/contact)
@@ -102,6 +102,12 @@ A Service of Brigham Young University.
 
 * captions off
 
+Menu
+
+0:00
+
+0:00/0:00
+
 * Details
 * Like
 * Share
@@ -116,12 +122,6 @@ Speed
 * 1.25
 * 1
 * 0.75
-
-Menu
-
-0:00
-
-0:00/0:00
 
 0%
 
