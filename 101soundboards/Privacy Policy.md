@@ -1,5 +1,7 @@
 * [Skip to content](#content-anchor)
 
+Install App
+
 * [Search](https://www.101soundboards.com/search) Find a sound
 * [Funny](https://www.101soundboards.com/?sort=funny#sort_filters) Funny sounds
 * [Topics](#collapseCategoriesSidebar) Topics
@@ -110,7 +112,7 @@ You can upload files in any format, including MP3, WAV, OGG, MKV and MP4. They w
 
 ##### How do I edit sound files before uploading?
 
-You can edit audio files without any download for free with the [online audio editor](https://www.101soundboards.com/pages/editor), or with the free software '[Audacity©](https://www.audacityteam.org/)' (recommended) which you can [download for free](https://www.audacityteam.org/download/) for Windows, Mac OS X, Linux and other operating systems.
+You can edit audio files without any download for free with the [online audio editor](https://www.101soundboards.com/pages/editor), or with the free software '[Audacity](https://www.audacityteam.org/)' (recommended) which you can [download for free](https://www.audacityteam.org/download/) for Windows, Mac OS X, Linux and other operating systems.
 
 ##### Downloading a sound with the app failed
 
@@ -150,7 +152,7 @@ Yes! You can [add the Discord bot for free to your server](https://www.101soundb
 
 ##### How do I stop getting notifications?
 
-[Click here for a guide on how to unsubscribe from web push notifications](https://intercom.help/push-monkey/en/articles/1646571-how-to-unsubscribe-from-web-push-notifications).
+[Click here for a guide on how to unsubscribe from web push notifications](https://segmentify.com/blog/how-to-unsubscribe-from-push-notifications).
 
 ##### I have a question
 
