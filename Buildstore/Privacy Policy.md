@@ -36,8 +36,6 @@ You can review, correct, update, or delete your personal information, as well 
 
 © BuildStore 2024
 
-[](https://www.reddit.com/r/builds_io/)
-
 [](https://www.facebook.com/buildstoreng)
 
 [](https://twitter.com/builds_io/)
