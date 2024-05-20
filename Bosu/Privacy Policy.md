@@ -40,7 +40,6 @@ BOSU® OFFICIAL GLOBAL HEADQUARTERS
         * [Hydro Balls](https://www.bosu.com/collections/hydro-trainers/Water-Filled-Kettlebell)
         * [Surge](https://www.bosu.com/collections/hydro-trainers/Surge+Storm)
         * [Storage](https://www.bosu.com/collections/storage/Hydro-Trainer)
-        * [Surge Handles & Endcap kits](https://www.bosu.com/products/surge%C2%AE-storm-accessory-kit)
     * [Balance Pods](https://www.bosu.com/collections/balance-pods)
     * [Helm](https://www.bosu.com/collections/the-helm)
     * [Gym Must-Haves](https://www.bosu.com/collections/gym-must-haves)
@@ -116,7 +115,6 @@ Back
     * [Hydro Balls](https://www.bosu.com/collections/hydro-trainers/Water-Filled-Kettlebell)
     * [Surge](https://www.bosu.com/collections/hydro-trainers/Surge+Storm)
     * [Storage](https://www.bosu.com/collections/storage/Hydro-Trainer)
-    * [Surge Handles & Endcap kits](https://www.bosu.com/products/surge%C2%AE-storm-accessory-kit)
     
 * [Balance Pods](https://www.bosu.com/collections/balance-pods)
 * [Helm](https://www.bosu.com/collections/the-helm)
@@ -166,26 +164,26 @@ United States (USD $)
 * [YouTube](https://www.youtube.com/channel/UCb3qBl6yySVqSVD9HxiMtyQ)
 
 * Free shipping over $100 📦
-* ⭐ LIMITED TIME OFFER - TAKE 20% OFF ALL [SURGE HYDRO TRAINER](https://www.bosu.com/collections/hydro-trainers "Hydro Trainers")S ⭐
+* NOw ACCEPTING HSA/FSA - SEE [HOW IT WORKS](https://www.bosu.com/pages/truemed-hsa-fsa "TrueMed HSA/FSA")
 * Free shipping over $100 📦
-* ⭐ LIMITED TIME OFFER - TAKE 20% OFF ALL [SURGE HYDRO TRAINER](https://www.bosu.com/collections/hydro-trainers "Hydro Trainers")S ⭐
+* NOw ACCEPTING HSA/FSA - SEE [HOW IT WORKS](https://www.bosu.com/pages/truemed-hsa-fsa "TrueMed HSA/FSA")
 * Free shipping over $100 📦
-* ⭐ LIMITED TIME OFFER - TAKE 20% OFF ALL [SURGE HYDRO TRAINER](https://www.bosu.com/collections/hydro-trainers "Hydro Trainers")S ⭐
+* NOw ACCEPTING HSA/FSA - SEE [HOW IT WORKS](https://www.bosu.com/pages/truemed-hsa-fsa "TrueMed HSA/FSA")
 * Free shipping over $100 📦
-* ⭐ LIMITED TIME OFFER - TAKE 20% OFF ALL [SURGE HYDRO TRAINER](https://www.bosu.com/collections/hydro-trainers "Hydro Trainers")S ⭐
+* NOw ACCEPTING HSA/FSA - SEE [HOW IT WORKS](https://www.bosu.com/pages/truemed-hsa-fsa "TrueMed HSA/FSA")
 * Free shipping over $100 📦
-* ⭐ LIMITED TIME OFFER - TAKE 20% OFF ALL [SURGE HYDRO TRAINER](https://www.bosu.com/collections/hydro-trainers "Hydro Trainers")S ⭐
+* NOw ACCEPTING HSA/FSA - SEE [HOW IT WORKS](https://www.bosu.com/pages/truemed-hsa-fsa "TrueMed HSA/FSA")
 
 * Free shipping over $100 📦
-* ⭐ LIMITED TIME OFFER - TAKE 20% OFF ALL [SURGE HYDRO TRAINER](https://www.bosu.com/collections/hydro-trainers "Hydro Trainers")S ⭐
+* NOw ACCEPTING HSA/FSA - SEE [HOW IT WORKS](https://www.bosu.com/pages/truemed-hsa-fsa "TrueMed HSA/FSA")
 * Free shipping over $100 📦
-* ⭐ LIMITED TIME OFFER - TAKE 20% OFF ALL [SURGE HYDRO TRAINER](https://www.bosu.com/collections/hydro-trainers "Hydro Trainers")S ⭐
+* NOw ACCEPTING HSA/FSA - SEE [HOW IT WORKS](https://www.bosu.com/pages/truemed-hsa-fsa "TrueMed HSA/FSA")
 * Free shipping over $100 📦
-* ⭐ LIMITED TIME OFFER - TAKE 20% OFF ALL [SURGE HYDRO TRAINER](https://www.bosu.com/collections/hydro-trainers "Hydro Trainers")S ⭐
+* NOw ACCEPTING HSA/FSA - SEE [HOW IT WORKS](https://www.bosu.com/pages/truemed-hsa-fsa "TrueMed HSA/FSA")
 * Free shipping over $100 📦
-* ⭐ LIMITED TIME OFFER - TAKE 20% OFF ALL [SURGE HYDRO TRAINER](https://www.bosu.com/collections/hydro-trainers "Hydro Trainers")S ⭐
+* NOw ACCEPTING HSA/FSA - SEE [HOW IT WORKS](https://www.bosu.com/pages/truemed-hsa-fsa "TrueMed HSA/FSA")
 * Free shipping over $100 📦
-* ⭐ LIMITED TIME OFFER - TAKE 20% OFF ALL [SURGE HYDRO TRAINER](https://www.bosu.com/collections/hydro-trainers "Hydro Trainers")S ⭐
+* NOw ACCEPTING HSA/FSA - SEE [HOW IT WORKS](https://www.bosu.com/pages/truemed-hsa-fsa "TrueMed HSA/FSA")
 
 Privacy policy
 ==============
