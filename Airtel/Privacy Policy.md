@@ -268,7 +268,7 @@ k. to share your Personal Data with Airtel’s affiliates and group companies fo
 
 l. to transfer user information to Airtel owned domains including but not limited to
 
-[https://sndgateway.airtel.com](https://sndgateway.airtel.com/) , [https://retailerapp.airtelbank.com](https://retailerapp.airtelbank.com/), [https:// nwexp.airtel.com](https://www.airtel.in/privacy-policy/%20nwexp.airtel.com) over HTTPS.
+[https://sndgateway.airtel.com](https://sndgateway.airtel.com/) , [https://retailerapp.airtelbank.com](https://retailerapp.airtelbank.com/), [https:// nwexp.airtel.com](https:// nwexp.airtel.com) over HTTPS.
 
 We may also encrypt and/or aggregate your data with other users’ data in order to create statistics about the general use of the Software and related websites, which helps us to develop new products and services. You understand that we may also share this aggregated data with our business partners and third party advertisers.
 
@@ -340,7 +340,7 @@ k. to share your Personal Data with Airtel’s affiliates and group companies fo
 
 l. to transfer user information to Airtel owned domains including but not limited to
 
-[https://sndgateway.airtel.com](https://sndgateway.airtel.com/), [https://retailerapp.airtelbank.com](https://retailerapp.airtelbank.com/), [https:// nwexp.airtel.com](https://www.airtel.in/privacy-policy/%20nwexp.airtel.com) over HTTPS.
+[https://sndgateway.airtel.com](https://sndgateway.airtel.com/), [https://retailerapp.airtelbank.com](https://retailerapp.airtelbank.com/), [https:// nwexp.airtel.com](https:// nwexp.airtel.com) over HTTPS.
 
 We may also encrypt and/or aggregate your data with other users’ data in order to create statistics about the general use of the Software and related websites, which helps us to develop new products and services. You understand that we may also share this aggregated data with our business partners and third party advertisers.
 
