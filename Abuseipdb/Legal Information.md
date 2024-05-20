@@ -210,6 +210,3 @@ Close Banner
 Characters left: 200/200
 
   Cancel   Send Feedback
-
-\*\* This Document Provided By **AbuseIP**DB**** \*\*  
-_**Source:** https://www.abuseipdb.com_
