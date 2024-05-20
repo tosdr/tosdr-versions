@@ -107,10 +107,10 @@ Los Angeles, CA 90044
 * [Request Appointment](https://www.amorkidsdentistry.com/request-appointment)
     
     [Los Angeles  
-    **323.759.1523**](tel:%20323.759.1523)  
+    **323.759.1523**](tel: 323.759.1523)  
       
     [Huntington Park  
-    **323.776.1300**](tel:%20323.776.1300)
+    **323.776.1300**](tel: 323.776.1300)
     
 
 Pediatric Conscious Oral Sedation Certified
