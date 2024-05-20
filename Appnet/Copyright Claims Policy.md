@@ -128,7 +128,7 @@ In accordance with the Digital Millennium Copyright Act (DMCA) and other applica
 * [](https://fb.me/xappnet "Facebook Page")
 * [](https://twitter.com/xappnet "Twitter Page")
 * [](https://www.youtube.com/channel/UC9DIMtX8_QrlO6haEnNdo_w "Youtube Channel")
-* [+1 (425) 999-3303 6AM - 3PM PST](tel:+1%20(425)%20999-3303)
+* [+1 (425) 999-3303 6AM - 3PM PST](tel:+1 (425) 999-3303)
 
 * * *
 
