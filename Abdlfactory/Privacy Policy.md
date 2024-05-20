@@ -1,6 +1,6 @@
   
 
-We use cookies to improve our services, make personal offers, and enhance your experience. If you do not accept optional cookies below, your experience may be affected. If you want to know more, please, read the [Cookie Policy](https://abdlfactory.com/privacy-policy-cookie-restriction-mode "Cookie Policy")
+This website uses cookies to improve your experience. By clicking "Accept" you agree to the use of ALL cookies. However, you can visit the Cookie Settings to give a controlled consent. WARNING! If you do not give any permission, the webshop will not work properly and you will not be able to order.
 
 Accept Cookies Custom Settings
 
@@ -258,12 +258,14 @@ Contact details person for privacy matters: M. Vos
 
 **Useful Links**  
   
-[My Account](https://abdlfactory.com/customer/account/login/)  
-[Shipping information](https://abdlfactory.com/deliveryinfo)  
+[My Account](https://abdlfactory.com/en/customer/account/login/)  
+[Shipping information](https://abdlfactory.com/en/deliveryinfo)  
 [Payment information](https://abdlfactory.com/payment-methods)  
 [FAQ](https://abdlfactory.com/faq/)  
 [Privacy and Cookie Policy](https://abdlfactory.com/privacy/)  
 [Terms of Use](https://abdlfactory.com/terms-and-conditions/)  
+[New Products](https://abdlfactory.com/last-products-added/)  
+[Discounted Products](https://abdlfactory.com/on-sale/)  
 [Wishlist](https://abdlfactory.com/wishlist)  
 [Search terms](https://abdlfactory.com/search/term/popular/)  
 [Advanced Search](https://abdlfactory.com/catalogsearch/advanced/)  
@@ -272,7 +274,7 @@ Contact details person for privacy matters: M. Vos
 **Categories**
 
   
-[Sitemap](https://abdlfactory.com/sitemap/)
+[Sitemap](https://abdlfactory.com/en/sitemap/)
 
 * [Clothings](https://abdlfactory.com/clothings)
 * [Disposable](https://abdlfactory.com/disposable)
@@ -301,7 +303,7 @@ Newsletter
 
 Email Address  
 
- I agree to my email being stored and used to receive information and commercial offers about your products and services
+ I agree to my email being stored and used to receive information and commercial offers about our products and services
 
 Subscribe
 
