@@ -601,4 +601,4 @@ Our Statement may change from time to time. We will post updated versions of thi
 
 ### Questions about this Statement
 
-If you have any questions regarding this Privacy Statement or our privacy and data governance practices, you can reach our Privacy and Data Governance team by emailing [Privacy@ACLU.org](mailto:Privacy@aclu.org).
+If you have any questions regarding this Privacy Statement or our privacy and data governance practices, you can reach our Privacy and Data Governance team by emailing [Privacy@ACLU.org](mailto:Privacy@ACLU.org).
