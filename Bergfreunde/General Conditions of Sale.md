@@ -1,8 +1,10 @@
+[Zum Hauptinhalt wechseln](#main-section)
+
 ### Neu?
 
-![Bergfreund Hannes](https://www.bergfreunde.de/out/pictures/img/avatar/avatar-hannes.png)
+![Bergfreund Robert](https://www.bergfreunde.de/out/pictures/img/avatar/avatar-robert.png)
 
-Bergfreund Hannes
+Bergfreund Robert
 
 "Herzlich willkommen bei den Bergfreunden!"
 
@@ -55,6 +57,8 @@ Portofrei ab € 69 (DE)
 100 Tage Rückgaberecht
 
 HINWEIS: Um bei uns bestellen zu können musst Du [» Bitte aktiviere Javascript!» Javascript aktivieren!](https://www.bergfreunde.de/javascript-aktivieren/ "Anleitung zum Aktivieren von Javascript")
+
+ FEIERTAG! Wir sind ab Dienstag wieder da! Feiertag –  Wir sind ab Dienstag wieder da!
 
 Menü
 
@@ -190,7 +194,7 @@ Menü
         * [3-Personen Zelte](https://www.bergfreunde.de/3-personen-zelte/ "3-Personen Zelte anzeigen")
         * [» mehr anzeigen](https://www.bergfreunde.de/zelte/ "Zelte anzeigen")
     * [Outdoor Küche](https://www.bergfreunde.de/outdoor-kueche/ "Outdoor Küche anzeigen")
-        * [Outdoor Kocher](https://www.bergfreunde.de/outdoor-kocher/ "Outdoor Kocher anzeigen")
+        * [Campingkocher](https://www.bergfreunde.de/campingkocher/ "Campingkocher anzeigen")
         * [Trinkflaschen & Wasserträger](https://www.bergfreunde.de/trinkflaschen-wassertraeger/ "Trinkflaschen & Wasserträger anzeigen")
         * [Töpfe & Geschirr](https://www.bergfreunde.de/toepfe-geschirr/ "Töpfe & Geschirr anzeigen")
         * [» mehr anzeigen](https://www.bergfreunde.de/outdoor-kueche/ "Outdoor Küche anzeigen")
@@ -480,7 +484,7 @@ Menü
         * [Trekkingschuhe](https://www.bergfreunde.de/wanderschuhe/ "Trekkingschuhe anzeigen")
         * [Trekkingausrüstung](https://www.bergfreunde.de/outdoor-ausruestung/einsatzbereich--trekking/ "Trekkingausrüstung anzeigen")
         * [Trekkingzelte](https://www.bergfreunde.de/zelte/einsatzbereich--trekking/ "Trekkingzelte anzeigen")
-        * [Energieriegel](https://www.bergfreunde.de// "Energieriegel anzeigen")
+        * [Riegel](https://www.bergfreunde.de/riegel/ "Riegel anzeigen")
         * [» mehr anzeigen](https://www.bergfreunde.de/trekking/ "mehr anzeigen")
     * [Fitness & Yoga](https://www.bergfreunde.de/fitness/ "Fitness & Yoga")
         * [Fitnessbekleidung](https://www.bergfreunde.de/outdoor-bekleidung/einsatzbereich--fitness/ "Fitnessbekleidung anzeigen")
@@ -533,6 +537,7 @@ Menü
     Highlights der Saison
     
     * [Jack Wolfskin: We Live to Discover](https://www.bergfreunde.de/jack-wolfskin-cp/ "Jack")
+    * [Maloja: The Story](https://www.bergfreunde.de/maloja-story-cp/ "Maloja'")
     
     [Alle Marken loader](https://www.bergfreunde.de/marken/ "Alle Outdoor Marken & Hersteller anzeigen")
     
@@ -571,9 +576,9 @@ schließen
 
 Wonach suchst Du?
 
-* [](https://www.bergfreunde.de/ "zur Startseite klettern")
-* /[Rechtliches](https://www.bergfreunde.de/rechtliches/ "Rechtliches")
-* /AGB
+1. [](https://www.bergfreunde.de/ "zur Startseite klettern")
+2. /[Rechtliches](https://www.bergfreunde.de/rechtliches/ "Rechtliches")
+3. /AGB
 
 Rechtliches
 -----------
@@ -753,7 +758,7 @@ Die in diesem Absatz genannten Modalitäten sind nicht Voraussetzung für die wi
 
 Die Rücksendung muss an folgende Adresse erfolgen:
 
-Bergfreunde GmbH C/O Rhenus Warehousing Solutions, Colemannstrasse 11, 35394 Gießen - Deutschland
+Bergfreunde GmbH, c/o Rhenus Warehousing Solutions, Colemanstrasse 11, 35394 Gießen - Deutschland
 
 (2) Rücksendekosten:  
 Für Verbraucher aus Deutschland und Österreich bieten wir kostenlose Rücksendungen an, anderenfalls trägt der Verbraucher die Kosten der Rücksendung. Der Verkäufer bietet einen bequemen Retourenlabelservice an. Informationen hierzu sowie zu den ggf. anfallenden Rücksendekosten findest du [hier](https://www.bergfreunde.de/rueckgabe/ "Zur Rückgabe-Seite"). Die Erstattung des Kaufpreises erfolgt über die für die ursprüngliche Zahlungsart verwendete Zahlungsmethode spätestens innerhalb von 30 Tagen nach Eingang der zurückgesandten Ware bei uns.
@@ -817,9 +822,9 @@ Weiterführende Informationen:
 
 Stand März 2024
 
-![Bergfreundin Johanna - Nachhaltigkeitsmanagement](https://www.bergfreunde.de/out/pictures/img/avatar/avatar-johanna.png) Bergfreundin Johanna - Nachhaltigkeitsmanagement
+![Bergfreund Ronny - Geschäftsführung](https://www.bergfreunde.de/out/pictures/img/avatar/avatar-ronny.png) Bergfreund Ronny - Geschäftsführung
 
-"Ich suche nach kleinen und großen Ideen, wie die Bergfreunde nachhaltiger werden können."
+"In Sachen Klimaschutz gilt für uns: Die Zeit zu handeln ist jetzt!"
 
 [Portofrei ab € 69 (DE)](https://www.bergfreunde.de/versandkosten/ "Portofrei bei den Bergfreunden")
 
@@ -827,11 +832,11 @@ Stand März 2024
 
 [100 Tage Rückgaberecht](https://www.bergfreunde.de/rueckgabe/ "Informationen Rückgabe")
 
-[![So bewerten uns 44712 Kunden](https://www.bergfreunde.de/out/pictures/img/trust/trusted-shops-logo-big.png)](https://www.trustedshops.com/shop/certificate.php?shop_id=X8E9EAFD7E40A46630552D4A3F123CA67 "Wir sind Trusted Shops zertifiziert - Alle Infos hier!")
+[![So bewerten uns 44561 Kunden](https://www.bergfreunde.de/out/pictures/img/trust/trusted-shops-logo-big.png)](https://www.trustedshops.com/shop/certificate.php?shop_id=X8E9EAFD7E40A46630552D4A3F123CA67 "Wir sind Trusted Shops zertifiziert - Alle Infos hier!")
 
 [( 0 )
 
-So bewerten uns 44.712 Kunden](https://www.trustedshops.com/shop/certificate.php?shop_id=X8E9EAFD7E40A46630552D4A3F123CA67 "Wir sind Trusted Shops zertifiziert - Alle Infos hier!")
+So bewerten uns 44.561 Kunden](https://www.trustedshops.com/shop/certificate.php?shop_id=X8E9EAFD7E40A46630552D4A3F123CA67 "Wir sind Trusted Shops zertifiziert - Alle Infos hier!")
 
 holt 3x am Tag die Pakete bei uns ab
 
@@ -879,6 +884,7 @@ Kundenservice
 * [AGB](https://www.bergfreunde.de/agb/ "Mehr zu den Allgemeinen Geschäftsbedingungen") | [Datenschutz](https://www.bergfreunde.de/datenschutz/ "Informationen zum Datenschutz bei den Bergfreunde")
 * Cookie-Einstellungen
 * [Widerruf / Kundeninformationen](https://www.bergfreunde.de/kundeninformationen/ "Widerruf / Kundeninformationen der Bergfreunde")
+* [Campz Kunden](https://www.bergfreunde.de/campz-kundeninformationen/ "Campz Kunden")
 
 Über die Bergfreunde
 
