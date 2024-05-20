@@ -149,7 +149,7 @@ Footer
 * [Investors](https://investors.23andme.com/)
 * [About Us](https://www.23andme.com/en-int/about/)
 * [Stories](https://www.23andme.com/en-int/stories/)
-* [Reporter Inquiries](mailto:press@23andme.com)
+* [Reporter Inquiries](mailto:press@23andMe.com)
 * [Blog](https://blog.23andme.com/)
 * [Careers](https://www.23andme.com/en-int/careers/)
 * [Return & Refund Policy](https://int.customercare.23andme.com/hc/en-us/articles/214810808)
