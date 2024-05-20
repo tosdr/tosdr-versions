@@ -86,7 +86,7 @@ This policy is effective January 30, 2013. We reserve the right to alter this po
 
 Should you have questions about this Policy or our information-handling practices, or if you would like to know how we disclose personal information to third parties in connection with their direct marketing purposes, please don't hesitate to e-mail or post mail using the information stated below:
 
-**E-mail**[info@BestAutoLenders.com](mailto:info@bestautolenders.com)
+**E-mail**[info@BestAutoLenders.com](mailto:info@BestAutoLenders.com)
 
 **Address**  
 BestAutoLenders2020.com  
