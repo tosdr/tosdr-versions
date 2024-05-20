@@ -7,18 +7,16 @@ You are using a browser that will not provide the best experience on our website
 Utility Navigation
 ------------------
 
-* [About Us](https://www.nacha.org/content/about-us)
-* [Careers](https://www.nacha.org/jobs)
+* [About](https://www.nacha.org/content/about-us)
 * [Store](https://www.nacha.org/store)
 * [Events](https://www.nacha.org/events)
 * [News](https://www.nacha.org/news)
-* [Media Kit](https://www.nacha.org/content/promotional-opportunities)
 * [Consulting](https://www.nacha.org/content/nacha-elevation-consulting)
+* [Contact](https://www.nacha.org/form/contact)
 * [Search](https://www.nacha.org/search)
-* [Contact Us](https://www.nacha.org/form/contact)
-* [Help Center](https://www.nacha.org/help-center)
+* [Risk Resources](https://www.nacha.org/risk-resource)
 
-[![Payments 2024](/sites/default/files/2023-11/2024-AN-RGB%20copy.png)](https://payments.nacha.org/)
+[![TPI OnCampus 2024](/sites/default/files/2024-04/2024-TPIOC.png)](https://tpi.nacha.org/oc-experience)
 
 [Nacha](https://www.nacha.org/ "Nacha")
 =======================================
@@ -215,6 +213,19 @@ Main navigation
         * [Membership List](https://www.nacha.org/content/nacha-direct-member#pageContent-532)
             
         
+    * [Volunteer Opportunities](https://www.nacha.org/content/volunteer-opportunities)
+        
+        * [Governance Opportunities](https://www.nacha.org/content/volunteer-opportunities#governance)
+            
+        * [ACH-Related Opportunities](https://www.nacha.org/content/volunteer-opportunities#ACH-related)
+            
+        * [Government Relations Opportunities](https://www.nacha.org/content/volunteer-opportunities#government-relations)
+            
+        * [Accreditation Opportunities](https://www.nacha.org/content/volunteer-opportunities#accreditation)
+            
+        * [Education Opportunities](https://www.nacha.org/content/volunteer-opportunities#education)
+            
+        
     
 * [Payments Enablement](https://www.nacha.org/content/payments-enablement)
     
@@ -288,7 +299,7 @@ Legal Information
     * [Privacy Policy](#pageContent-2626)
     * [Terms and Conditions of Use](#pageContent-2627)
 
-_Updated: September 26, 2023_
+_Updated: May 1, 2024_
 
 Privacy Policy
 
@@ -311,7 +322,7 @@ Our Legal Department is responsible for overseeing questions in relation to this
 
 ##### **HOW TO CONTACT US**
 
-If you have any questions or concerns about this Notice, please contact us using the [Contact Us](http://www.nacha.org/form/contact) section on the Site. Alternatively, you can contact us by phone at 703-561-1100, by sending an email to [dataprotection@nacha.org](mailto:dataprotection@nacha.org), or by mail to 2550 Wasser Terrace, Suite 400, Herndon, VA 20171.
+If you have any questions or concerns about this Notice, please contact us using the [Contact](http://www.nacha.org/form/contact) section on the Site. Alternatively, you can contact us by phone at 703-561-1100, by sending an email to [dataprotection@nacha.org](mailto:dataprotection@nacha.org), or by mail to 2550 Wasser Terrace, Suite 400, Herndon, VA 20171.
 
 If you have a specific question on a Nacha Operating Rule, complete the [Rules Information Request form](https://asigwg.atlassian.net/servicedesk/customer/portal/5) and a Nacha Rules expert will respond back to you.
 
@@ -414,7 +425,7 @@ We will never sell or rent your Personal Data to third parties. We do provide th
 ##### **SECURITY**
 
 Our policies and procedures limit access to your personal information to those with a business reason to know such information.  
-Your privacy is very important to Nacha and we are committed to protecting your personal information from unauthorized access, loss, misuse or alterations. We will use reasonable organizational, physical, technical and administrative measures to protect personal information within our organization. Unfortunately, no data transmission or storage system can be guaranteed to be 100% secure. If you have reason to believe that your interaction with us is no longer secure, please immediately notify us in accordance with the “Contact Us” on our Site or contacting us at [dataprotection@nacha.org](mailto:dataprotection@nacha.org).
+Your privacy is very important to Nacha and we are committed to protecting your personal information from unauthorized access, loss, misuse or alterations. We will use reasonable organizational, physical, technical and administrative measures to protect personal information within our organization. Unfortunately, no data transmission or storage system can be guaranteed to be 100% secure. If you have reason to believe that your interaction with us is no longer secure, please immediately notify us in accordance with the “Contact” on our Site or contacting us at [dataprotection@nacha.org](mailto:dataprotection@nacha.org).
 
 Access to your nonpublic personally identifiable financial information is limited, through password protection devices and physical safeguards, to authorized employees as necessary to perform the requested transaction. We reveal only partial digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing. However, we cannot guarantee the confidentiality or security of your browser or any communication transmitted or accessible over the Internet. It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer.
 
@@ -424,7 +435,7 @@ We are headquartered in the United States. Your Personal Data may be accessed by
 
 ##### **HOW LONG WE STORE YOUR PERSONAL DATA**
 
-We will retain your information for as long as your account is active, or as needed to provide you with access to our Site, or as required by law. If you wish to cancel your account or request that we no longer use your information to provide you service, you may contact us by using the **[Contact Us](https://www.nacha.org/contact)** section on our Site or contacting us at [dataprotection@nacha.org](mailto:dataprotection@nacha.org).
+We will retain your information for as long as your account is active, or as needed to provide you with access to our Site, or as required by law. If you wish to cancel your account or request that we no longer use your information to provide you service, you may contact us by using the **[Contact](https://www.nacha.org/contact)** section on our Site or contacting us at [dataprotection@nacha.org](mailto:dataprotection@nacha.org).
 
 ##### **WHERE WE STORE YOUR PERSONAL DATA**
 
@@ -473,10 +484,13 @@ Terms and Conditions of Use
 
 -------------------------------
 
-_Updated: March 3, 2023_
+_Updated: May 1, 2024_
 
 THIS WEBSITE IS OWNED AND OPERATED BY THE NATIONAL AUTOMATED CLEARING HOUSE ASSOCIATION (“Nacha”). NACHA PROVIDES THIS WEB SITE (THE "SITE") TO YOU SUBJECT TO THESE TERMS AND CONDITIONS OF USE (THESE "TERMS OF USE"). PLEASE READ THESE TERMS OF USE CAREFULLY BEFORE USING THIS WEB SITE. BY ACCESSING OR USING THIS WEB SITE, YOU EXPLICITLY AGREE TO COMPLY WITH AND BE BOUND BY THESE TERMS OF USE AND ALL TERMS, POLICIES AND GUIDELINES INCORPORATED BY REFERENCE HEREIN. IF YOU DO NOT AGREE TO ALL PROVISIONS OF THESE TERMS OF USE, DO NOT USE THIS WEB SITE.
 
+For Terms of Use for Nacha Operating Rules & Guidelines, see [2024 Nacha Operating Rules Online](https://www.nachaoperatingrulesonline.org/event-data/pages/terms?ads=true).
+
+  
 Nacha reserves the right to change or modify any of the terms and conditions contained in these Terms of Use at any time and in its sole discretion. Unless otherwise specified, any changes or modifications will be effective immediately upon posting of the revisions on the Site, and your continued use of the Site will constitute your acceptance of such changes or modifications. If you do not agree to any amended terms, you must stop using the Site.
 
 **1\. Privacy Policy**
@@ -645,10 +659,10 @@ Nacha
 Footer
 ------
 
-* [About Nacha](https://www.nacha.org/content/about-us)
+* [About](https://www.nacha.org/content/about-us)
 * [Code of Conduct](https://www.nacha.org/resources/nacha-code-conduct)
 * [Consulting](https://www.nacha.org/consulting)
-* [Contact Us](https://www.nacha.org/form/contact)
+* [Contact](https://www.nacha.org/form/contact)
 * [Email Preferences](https://www.nacha.org/manage-email-subscriptions)
 * [Events](https://www.nacha.org/events)
 * [Legal](https://www.nacha.org/content/legal-information)
