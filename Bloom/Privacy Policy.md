@@ -11,8 +11,6 @@ top of page
 * [The Science](https://www.enjoybloom.com/science)
 * [Support](https://www.enjoybloom.com/support)
 
-[Try for Free](http://get.enjoybloom.com/onboarding)
-
 Privacy Policy
 ==============
 
@@ -348,12 +346,6 @@ Help
 
 [Terms](https://www.enjoybloom.com/terms)
 
-Get the app
-
-[](https://apps.apple.com/us/app/bloom-self-care-classes/id1475128511?ls=1)
-
-[](https://www.enjoybloom.com/android)
-
 [](https://www.instagram.com/enjoybloom/)
 
 [](https://www.facebook.com/dailybloomapp)
@@ -362,7 +354,7 @@ Get the app
 
 [](https://www.linkedin.com/company/enjoybloom/)
 
-Copyright © 2023 Bloom. All rights reserved.
+Copyright © 2024 Bloom. All rights reserved.
 
 Meemo Media Inc.
 
