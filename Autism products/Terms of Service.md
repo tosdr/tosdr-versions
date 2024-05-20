@@ -2,7 +2,8 @@
 
 [Skip to content](#content)
 
-[FREE SHIPPING on Orders Over $99\*](https://www.autism-products.com/shipping/)
+[FREE SHIPPING Over $99\*](https://www.autism-products.com/shipping/)  
+Call Us (888) 890-3288
 
 * [Support](https://autism-productscom.helpscoutdocs.com/#)
 * [My Account](https://www.autism-products.com/my-account)
@@ -289,13 +290,13 @@ Please SelectABCAbilitationsABILITATIONSABLENETACTION ALPHABETActivity\_SetAdvan
 9420 E Doubletree Ranch Rd. Suite 110  
 Scottsdale, AZ 85258
 
-Phone: [541-652-6368](tel:541-652-6368)
+Phone: [(888) 890-3288](tel:(888) 890-3288)
 
 Fax: [815-550- 1819](fax:815-550- 1819)
 
 Email: [\[email protected\]](https://www.autism-products.com/cdn-cgi/l/email-protection)
 
-Web: [www.autism-products.com](https://www.autism-products.com/)
+Web: [Autism-Products.com](https://www.autism-products.com/)
 
 © Copyright 2018 -  Autism Products LLC | All Rights Reserved |
 
@@ -303,6 +304,6 @@ Web: [www.autism-products.com](https://www.autism-products.com/)
 
 ![fbpx](https://www.facebook.com/tr?id=990838791019188&ev=PageView&noscript=1)
 
-                                                                                                 
+                                                                                                  
 
 [Go to Top](#)
