@@ -341,7 +341,7 @@ It should be noted that the Data Controller has allowed the associated company M
     
     Personal Data processed: Cookies and Usage Data.
     
-    Place of processing: United Kingdom – [Privacy Policy](https://www.webgains.com/public/de/datenschutzerklaerung/) – [Opt out](mailto:https//www.webgains.com/public/en/privacy/).
+    Place of processing: United Kingdom – [Privacy Policy](https://www.webgains.com/public/de/datenschutzerklaerung/) – [Opt out](mailto:https://www.webgains.com/public/en/privacy/).
     
     #### Yahoo App Publishing Advertising ( Oath Inc.)
     
