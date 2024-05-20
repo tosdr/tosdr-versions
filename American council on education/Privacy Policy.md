@@ -66,13 +66,13 @@ Professional Learning & Communities
 
 Spotlight
 
-NOW AVAILABLE: _The American College President Study: 2023 Edition_
+_Race and Ethnicity in Higher Education: 2024 Status Report_
 
-The ninth edition of the American College President Study (ACPS) analyzes data from a survey of over 1,000 presidents, and profiles women presidents and presidents of color.
+Join ACE on May 21 in Washington, DC or virtually for the release of _Race and Ethnicity in Higher Education: 2024 Status Report._ 
 
-[Learn More](https://www.acenet.edu/Research-Insights/Pages/American-College-President-Study-2023.aspx)
+[Register Now](https://www.acenet.edu/Events/Pages/Race-Ethnicity-Higher-Ed-2024.aspx)
 
-![Photo of a professional woman smiling and talking with two others across her desk](/PublishingImages/Interior-Page-Heroes/acps-executive-summary.jpg?RenditionID=12)
+![A group of students sit outside on stone steps, smiling and laughing.](/PublishingImages/Interior-Page-Heroes/REHE_coverimage.jpg?RenditionID=12)
 
 Diversity & Inclusion
 
@@ -94,11 +94,11 @@ Senior Leaders & Teams
 
 Spotlight
 
-dotEDU Live: Budget Battles, FAFSA Fails, and Biden's New Loan Forgiveness Plan
+Generating the Future: Exploring AI in Higher Education
 
-Our hosts look at what's on the agenda in DC, including the House Education and the Workforce Committee hearing on “FAFSA Fail."
+In the latest episode: our hosts are joined by the chief information officer of Arizona State University, and ACE's Derrick Anderson, to discuss AI's role in higher education.
 
-[Read more](https://www.acenet.edu/Pages/dotedu/109-Budget-Battles-FAFSA-Fails.aspx)
+[Read more](https://www.acenet.edu/Pages/dotedu/110-Generating-the-Future.aspx)
 
 ![A green graphic with a column and the words "dotEDU" in white.](/PublishingImages/branding/dotEDU_Spotlight.png?RenditionID=12)
 
