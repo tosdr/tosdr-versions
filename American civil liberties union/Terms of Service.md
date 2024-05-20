@@ -39,7 +39,7 @@ All distributed copies, whether of text or non-text materials, must display the 
 **Copyright \[2023 or other year indicated\] American Civil Liberties Union. Originally posted by the ACLU at \[complete address of source page\].**
 
 **Distribution Requiring Advance Written Permission**  
-You must obtain written permission in advance if you wish to reproduce ACLU Content in any manner not listed in the previous section. You can request this permission by sending us an email at [Permissions@ACLU.org](mailto:Permissions@aclu.org) that contains the information listed below:
+You must obtain written permission in advance if you wish to reproduce ACLU Content in any manner not listed in the previous section. You can request this permission by sending us an email at [Permissions@ACLU.org](mailto:Permissions@ACLU.org) that contains the information listed below:
 
 * a complete description of the ACLU Content requested, such as the URL of the web page that contains the ACLU Content, a description of the sections or paragraphs that will be distributed, and, where applicable, the title and date of the ACLU Content;
 * a description of the intended audience;
