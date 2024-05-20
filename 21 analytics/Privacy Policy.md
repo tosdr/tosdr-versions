@@ -26,11 +26,7 @@ Verify proof of address ownership in 1-click with AOPP's 100% accuracy.](https:/
 
 Travel Rule Automation
 
-Set up business rules and free your team from manual work.](https://www.21analytics.ch/travel-rule-automation/)[Multiprotocol Icon
-
-Multiprotocol
-
-Keep transacting with any business by connecting to all Travel Rule protocols.](https://www.21analytics.ch/multiprotocol/)[Security Icon
+Set up business rules and free your team from manual work.](https://www.21analytics.ch/travel-rule-automation/)[Security Icon
 
 Data Security
 
@@ -112,7 +108,9 @@ Liechtenstein’s Travel Rule Overview](https://www.21analytics.ch/liechtenstein
 
 TRP Addresses the Travel Rule](https://www.21analytics.ch/trp-addresses-travel-rule-challenges/)[Article Icon
 
-Dubai Travel Rule Overview](https://www.21analytics.ch/dubai-travel-rule/)[The FATF's Travel Rule for Virtual Assets](https://www.21analytics.ch/rec16-travel-rule/)[Travel Rule in the European Union (EU)](https://www.21analytics.ch/eu-travel-rule-explained/)
+Dubai Travel Rule Overview](https://www.21analytics.ch/dubai-travel-rule/)[Article Icon
+
+The TFR and the German Travel Rule by KPMG and 21 Analytics](https://www.21analytics.ch/german-travel-rule/)[Travel Rule in the European Union (EU)](https://www.21analytics.ch/eu-travel-rule-explained/)
 
 [Blog](https://www.21analytics.ch/blog/)
 
@@ -188,7 +186,7 @@ We store the data which you enter into the contact form until you ask us to dele
 
 ##### 6\. Cookies
 
-No cookies are used by default.
+Cookies are used to collect information about how you interact with our website and allow us to remember you. We use this information in order to improve and customize your browsing experience and for analytics and metrics about our visitors both on this website and other media.
 
 ##### 7\. Analytics information
 
@@ -204,6 +202,6 @@ Poststrasse 22, Zug, Switzerland     |     [info@21analytics.ch](mailto:info
 
 [Linkedin Logo](https://www.linkedin.com/company/21analytics/)
 
-Just like our Travel Rule solution, our website also respects your privacy. That is why we don't use any tracking cookies.
+Cookies are used to collect information about how you interact with our website and allow us to remember you. We use this information in order to improve and customize your browsing experience and for analytics and metrics about our visitors both on this website and other media. To find out more about the cookies we use, see our [Privacy Policy](https://www.21analytics.ch/privacy-policy/).
 
-Ok, nice!
+Accept
