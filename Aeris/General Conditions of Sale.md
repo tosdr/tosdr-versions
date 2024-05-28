@@ -263,6 +263,8 @@ This field is for validation purposes and should be left unchanged.
 
 * [Services and Support](https://www.aeris.com/services-and-support/)
     * [Essential Support](https://www.aeris.com/services-and-support/essential-support/)
+* [Neo](https://www.aeris.com/neo/)
+    * [Buy SIMs](https://store.aeris.com/)
 * [About Aeris](https://www.aeris.com/about-aeris/)
     * [Leadership Team](https://www.aeris.com/about-aeris/#mgmtteam)
     * [Locations](https://www.aeris.com/about-aeris/locations/)
