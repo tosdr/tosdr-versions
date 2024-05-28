@@ -28,27 +28,6 @@ on the home page or go to:
 +     Build Royale - Game Version History     +
 + ------------------------------------------- +
 
-1.9.2 - ( 23/04/2024 ) ( Apr 23rd, 2024 ):
-
-Balance Changes:
-	- Tweaked Gravity Grenade and Inverse Gravity Grenade
-		- Decreased the gravity strength 7500 => 5500
-		- Hits now cause 3 sliding ticks
-		- This should increase the consistency of the pull and push
-	- Decreased crossbow recoil recovery amount 0.15 => 0.1
-	- Increased crossbow reload time 1.5s => 2.5s
-	- Crossbow now loses 15 damage per pierce
-		- 0 pierces = 80 damage
-		- 1 pierces = 65 damage
-		- 2 pierces = 50 damage
-
-Fixes:
-	- Car hitboxes no longer linger past the explosion
-	- Fixed chests and airdrops dropping glitched mats
-	- Fixed landmines appearing differently when loaded in
-	- Loot not taking priority over vehicles
-	- Moving near airdrops / crates would stop healing
-
 1.9.1 - ( 15/04/2024 ) ( Apr 15th, 2024 ):
 
 Fixes
