@@ -131,4 +131,4 @@ Site currently displayed in العربية (Arabic) Български (Bulgaria
 
 [About BeWelcome](https://bewelcome.org/about) • [Help support our work](https://bewelcome.org/donations) • [Terms of use](https://bewelcome.org/terms) • [Privacy policy](https://bewelcome.org/privacy) • [Data rights](https://bewelcome.org/datarights) • [Legal note](https://bewelcome.org/impressum) • [FAQ](https://bewelcome.org/about/faq) • [Contact us](https://bewelcome.org/feedback) • [Report a bug](https://bewelcome.org/feedback?IdCategory=1&RequestURI=https://bewelcome.org/)
 
-© 2007 — 2024 [BeVolunteer](https://www.bevolunteer.org/) and contributors - _Running on open source [BW Rox](https://github.com/bewelcome/rox) rev. [23aae920e](https://github.com/BeWelcome/rox/commit/23aae920e) (2024-04-13 15:56:38)_
+© 2007 — 2024 [BeVolunteer](https://www.bevolunteer.org/) and contributors - _Running on open source [BW Rox](https://github.com/bewelcome/rox) rev. [4f3446d88](https://github.com/BeWelcome/rox/commit/4f3446d88) (2023-12-28 18:32:48)_
