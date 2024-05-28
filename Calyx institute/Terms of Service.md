@@ -39,7 +39,7 @@ IF YOU DO NOT ACCEPT THESE TERMS OF SERVICE, YOU MAY NOT USE THE SERVICE.
 
 Subject to the terms and conditions herein and any additional conditions imposed by Calyx, the Mobile Citizen Parties hereby grant you a Subscription to use the Service during the Subscription Term.
 
-### 3\. T-Mobile Acceptable Use Policy
+### 3\. Sprint Acceptable Use Policy
 
 Your use of the Service is subject to the T-Mobile Terms and Conditions located at [https://www.t-mobile.com/responsibility/legal/terms-and-conditions](https://www.t-mobile.com/responsibility/legal/terms-and-conditions) (“TOS”) and you must comply with such TOS, as well as all applicable laws and regulations, at all times in your use of the Service.
 
