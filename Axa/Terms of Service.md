@@ -350,7 +350,7 @@ Menu Close
 
 Car insurance
 
-Get AXA Car Insurance from as little as £319 (10% of AXA Comprehensive Car Insurance customers paid this or less between 1 February and 30 April 2024). We pay out 99.8% of car insurance claims (Data relates to personal car insurance claims for policies underwritten by AXA Insurance UK plc from January to December 2023).
+Get AXA Car Insurance from as little as £311 (10% of AXA Comprehensive Car Insurance customers paid this or less between 1 January and 31 March 2024). We pay out 99.8% of car insurance claims (Data relates to personal car insurance claims for policies underwritten by AXA Insurance UK plc from January to December 2023).
 
 [Find out more](https://www.axa.co.uk/car-insurance/ "Car insurance")
 
@@ -396,7 +396,7 @@ Tips and FAQs
 
 Home insurance
 
-Get AXA Home Insurance from as little as £189 (10% of AXA Plus Home Insurance customers paid this or less between 1 February and 30 April 2024). We pay out 88.2% of home insurance claims (Data relates to home insurance claims for policies underwritten by AXA Insurance UK plc from January to December 2023).
+Get AXA Home Insurance from as little as £181 (10% of AXA Plus Home Insurance customers paid this or less between 1 January and 31 March 2024). We pay out 88.2% of home insurance claims (Data relates to home insurance claims for policies underwritten by AXA Insurance UK plc from January to December 2023).
 
 [Find out more](https://www.axa.co.uk/home-insurance/ "Home insurance")
 
@@ -726,7 +726,7 @@ We won’t accept aggressive, threatening or abusive behaviour over the phone, o
 
 * Threats of physical violence.  
 * Behaviour or language that may cause someone to feel threatened or distressed.  
-* Comments or remarks which are sexual, racial, or about religious beliefs or culture.��� 
+* Comments or remarks which are sexual, racial, or about religious beliefs or culture.  
 * Bullying or swearing.
 
 If you (or someone acting on your behalf) are abusive when speaking to or messaging us or our trusted suppliers, we may:
