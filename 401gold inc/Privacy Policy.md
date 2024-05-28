@@ -1,6 +1,6 @@
 [![](https://ec73dbywy54.exactdn.com/wp-content/uploads/2021/10/401gold.svg)](https://www.401gold.ca/)
 
-Search:    
+Search for:   
 
 [Home](https://www.401gold.ca/)
 
@@ -78,7 +78,7 @@ FAQ
 
 [(416) 756-0401](tel:4167560401)
 
-Search:    
+Search for:   
 
 [](https://www.401gold.ca/my-account/)
 
