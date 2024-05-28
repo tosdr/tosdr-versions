@@ -36,7 +36,7 @@ Personalities shine at A+E Networks EMEA. Our culture embraces individuals, in a
 
 [Our culture](https://www.aenetworks.com/our-culture)
 
-[![The EMEA Creative Team collaborating ](https://aetncorporate.s3.eu-west-2.amazonaws.com/s3fs-public/styles/battenberg_image/public/2024-04/PHOTOGRUL%20-%20A%2BE%20Networks%202048px-52.jpg?VersionId=C4Ii8TUeUwFj0nbbM_6vGjclrcI0Zsua&itok=bk1TECjn)](https://www.aenetworks.com/our-culture)
+[![](https://aetncorporate.s3.eu-west-2.amazonaws.com/s3fs-public/styles/battenberg_image/public/2022-06/culture%20image%20copy.jpg?itok=rUuPZMgi)](https://www.aenetworks.com/our-culture)
 
 [![Our Purpose - A+E Networks EMEA](https://aetncorporate.s3.eu-west-2.amazonaws.com/s3fs-public/styles/battenberg_image/public/2024-02/History%27s_Greatest_Mysteries_2.jpg?VersionId=7JWUsnqErzpBnc1B.0QV7h8ZOFgbYRI5&itok=vPVdyaOp)](https://www.aenetworks.com/our-purpose)
 
@@ -54,9 +54,9 @@ With our diverse line-up of original, high-quality programming, our distribution
 
 [Our partnerships](https://www.aenetworks.com/partnerships)
 
-[![](https://aetncorporate.s3.eu-west-2.amazonaws.com/s3fs-public/styles/battenberg_image/public/2024-05/Dean%40Wavelength_0.jpg?VersionId=rK7q_Rc1SgC9qd1.6pGZWstwKJF0rHIR&itok=KFdwlTly)](https://www.aenetworks.com/partnerships)
+[![](https://aetncorporate.s3.eu-west-2.amazonaws.com/s3fs-public/styles/battenberg_image/public/2022-07/Partnerships%20-%20Dean%20edited.jpg?itok=5qkbnEp5)](https://www.aenetworks.com/partnerships)
 
-[![A photograph of VAL Awards trophies, hosted every year at A+E Networks EMEA](https://aetncorporate.s3.eu-west-2.amazonaws.com/s3fs-public/styles/battenberg_image/public/2024-04/PHOTOGRUL%20-%20A%2BE%20Networks%202048px-80.jpg?VersionId=xJyLtvP4jX5XLc4c3R_MvBQDjl.TvtZL&itok=458VkpHt)](https://www.aenetworks.tv/careers)
+[![A photograph of VAL Awards trophies, hosted every year at A+E Networks EMEA](https://aetncorporate.s3.eu-west-2.amazonaws.com/s3fs-public/styles/battenberg_image/public/2022-07/careers%20image%20-%20homepage%20edited.jpg?itok=ZCaENyDs)](https://www.aenetworks.tv/careers)
 
 Careers
 -------
@@ -70,29 +70,29 @@ Latest news
 
 [All articles](https://www.aenetworks.com/news)
 
-    [![Dermot Murnaghan ](/s3/files/styles/card_tablet/public/2024-05/Dermot%20Murnaghan%20RX%201-8%20%282%29%20copy%202.jpg?itok=fY0pqwLC)
-
-20 May 2024
-
-### ICONIC SERIES CRIMES THAT SHOOK BRITAIN RETURNS TO CRIME+INVESTIGATION WITH DERMOT MURNAGHAN](https://www.aenetworks.com/news/iconic-series-crimes-shook-britain-returns-crimeinvestigation-dermot-murnaghan)
-
-    [![Mademoiselle Holmes](https://aetncorporate.s3.eu-west-2.amazonaws.com/s3fs-public/styles/card_tablet/public/2024-05/LONDRES_MADEMOISELLEsmall.jpg?VersionId=66Mcs9MuqoHcCvrwVqvEypKUoY8Nw47A&itok=bDcbMD7v)
-
-16 May 2024
-
-### COSMO PREMIERES HIT FRENCH SERIES MADEMOISELLE HOLMES](https://www.aenetworks.com/news/cosmo-premieres-hit-french-series-mademoiselle-holmes)
-
-    [![Blaze App](https://aetncorporate.s3.eu-west-2.amazonaws.com/s3fs-public/styles/card_tablet/public/2024-05/BlazeAppPromo_KA_Landscape_ART_NO_CTA.jpg?VersionId=qGITWwb40m9SDnGhMYaNYJ6zTsN2SCJR&itok=m0rsVgrb)
-
-15 May 2024
-
-### A+E NETWORKS EMEA ENHANCES ITS BLAZE STREAMING SERVICE WITH SIMPLESTREAM](https://www.aenetworks.com/news/ae-networks-emea-enhances-its-blaze-streaming-service-simplestream)
-
-    [![COSMO logo ](https://aetncorporate.s3.eu-west-2.amazonaws.com/s3fs-public/styles/card_tablet/public/2024-04/NOTA_DE_PRENSA_1200X800.jpg?VersionId=.HduGHmcjt.wKXAb99KXt_SwvJB7f1hk&itok=DhMTaYVP)
+    [![COSMO logo ](/s3/files/styles/card_tablet/public/2024-04/NOTA_DE_PRENSA_1200X800.jpg?itok=DhMTaYVP)
 
 22 April 2024
 
 ### COSMO REVAMPS ITS CORPORATE IMAGE AND LOGO](https://www.aenetworks.com/news/cosmo-revamps-its-corporate-image-and-logo)
+
+    [![Talent Hunters Romania](https://aetncorporate.s3.eu-west-2.amazonaws.com/s3fs-public/styles/card_tablet/public/2024-04/Vanatorii%20de%20Comori%20-%20Echipa.jpg?VersionId=YVg45gpd.3RjxvZVGcLXmSjrOOuU6aMr&itok=PdtalAJD)
+
+11 April 2024
+
+### A+E NETWORKS EMEA COMMISSIONS NEW SERIES FOR ROMANIA](https://www.aenetworks.com/news/ae-networks-emea-commissions-new-series-romania)
+
+    [![Logos](https://aetncorporate.s3.eu-west-2.amazonaws.com/s3fs-public/styles/card_tablet/public/2024-04/Sales%20House%20copy.jpg?VersionId=UHCuNz4mp0SL6d_1QRfVOiQHYYFBAwGj&itok=kv-IN5CT)
+
+9 April 2024
+
+### A+E NETWORKS EMEA LAUNCHES ADSALES IN BULGARIA](https://www.aenetworks.com/news/ae-networks-emea-launches-adsales-bulgaria)
+
+    [![Victims Leah Ware (L) and Alex Morgan (R) (Kent Police/Sussex Police)](https://aetncorporate.s3.eu-west-2.amazonaws.com/s3fs-public/styles/card_tablet/public/2024-03/Leah%20and%20Alex2.jpg?VersionId=mr1bKwV95wFzQbmy6VTJc5qF.CmCFIqQ&itok=ThIis-MY)
+
+21 March 2024
+
+### A+E NETWORKS EMEA COMMISSIONS AVALON TO MAKE TWO-PART SPECIAL MURDERS AT LITTLE BRIDGE FARM FOR CRIME+INVESTIGATION](https://www.aenetworks.com/news/ae-networks-emea-commissions-avalon-make-two-part-special-murders-little-bridge-farm)
 
 Corporate
 ---------
