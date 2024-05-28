@@ -1,6 +1,6 @@
-![](https://www.facebook.com/tr?id=781049163457265&ev=PageView&noscript=1)       
+![](https://www.facebook.com/tr?id=781049163457265&ev=PageView&noscript=1)         
 
-          
+           
 
 [Skip to content](#MainContent)
 
@@ -61,7 +61,7 @@
         * [Goat Cheese](https://aadvikfoods.com/collections/goat-cheese)
         * [Camel Cheese](https://aadvikfoods.com/collections/camel-cheese)
         
-    * [Camel Milk Benefits](https://aadvikfoods.com/blogs/blog/top-10-surprising-benefits-of-camel-milk)
+    * [Camel Milk Benefits](https://aadvikfoods.com/pages/camel-milk)
     * [Goat Milk Benefits](https://aadvikfoods.com/pages/goat-milk-benefits)
     * [Camel Milk Guide Book](https://aadvikfoods.com/camel-milk-guide-book)
     * [Corporate Gifting](https://aadvikfoods.com/pages/gifitng)
@@ -112,7 +112,7 @@
         * [Goat Cheese](https://aadvikfoods.com/collections/goat-cheese)
         * [Camel Cheese](https://aadvikfoods.com/collections/camel-cheese)
         
-    * [Camel Milk Benefits](https://aadvikfoods.com/blogs/blog/top-10-surprising-benefits-of-camel-milk)
+    * [Camel Milk Benefits](https://aadvikfoods.com/pages/camel-milk)
     * [Goat Milk Benefits](https://aadvikfoods.com/pages/goat-milk-benefits)
     * [Camel Milk Guide Book](https://aadvikfoods.com/camel-milk-guide-book)
     * [Corporate Gifting](https://aadvikfoods.com/pages/gifitng)
