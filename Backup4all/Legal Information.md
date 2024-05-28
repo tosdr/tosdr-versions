@@ -142,15 +142,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to create a shortcut](https://www.backup4all.com/how-to-create-a-shortcut-kb.html)  
+* [How to restore a backup job created with a Ba ...](https://www.backup4all.com/how-to-restore-a-backup-job-created-with-a-backup4all-plugin-kb.html)  
     
-* [How to create a backup plugin](https://www.backup4all.com/how-to-create-a-backup-plugin-kb.html)  
+* [How to create a differential backup](https://www.backup4all.com/how-to-create-a-differential-backup-kb.html)  
     
-* [How to backup your data to vCloud Air](https://www.backup4all.com/how-to-backup-your-data-to-vcloud-air-kb.html)  
+* [Backup from FTP](https://www.backup4all.com/backup-from-ftp-kb.html)  
     
-* [How do I use the history](https://www.backup4all.com/how-do-i-use-the-history-kb.html)  
+* [How to use the Scheduler](https://www.backup4all.com/how-to-use-the-scheduler-kb.html)  
     
-* [How to back up data files from Minio using Ba ...](https://www.backup4all.com/how-to-back-up-data-files-from-minio-using-backup4all-kb.html)  
+* [What is cloud backup](https://www.backup4all.com/what-is-cloud-backup-kb.html)  
     
 
 Choose language:
