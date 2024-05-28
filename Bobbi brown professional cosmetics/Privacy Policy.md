@@ -2,7 +2,7 @@
 
 Previous
 
-[Get a free Crushed Lip Set on $85+. Plus, get a free Lip Pencil Sharpener on $100+. Use code: bblip at checkout.](https://www.bobbibrowncosmetics.com/products/14358/best-sellers)
+[Choose a mini Shadow Stick on $95+. Plus, get a free Lip Balm SPF with orders $115+. No code needed. Applies at checkout.](https://www.bobbibrowncosmetics.com/products/14358/best-sellers)
 
 [Join our mailing list and get 15% off your first order.](https://www.bobbibrowncosmetics.com/account/signin.tmpl)
 
@@ -27,6 +27,10 @@ Shop By
  [BESTSELLERS](https://www.bobbibrowncosmetics.com/products/14358/best-sellers) BESTSELLERS 
 
 BESTSELLERS
+
+[Shop All Bestsellers](https://www.bobbibrowncosmetics.com/products/14358/best-sellers "Shop All Bestsellers") Shop All Bestsellers
+
+  [![](/media/export/cms/GNAV/Redesign_2022/Navigation-Bestsellers.jpg)](https://www.bobbibrowncosmetics.com/products/14358/best-sellers)
 
 [Shop All Bestsellers](https://www.bobbibrowncosmetics.com/products/14358/best-sellers "Shop All Bestsellers")
 
@@ -214,15 +218,43 @@ Fragrance
 
 [Beach Fragrance](https://www.bobbibrowncosmetics.com/product/5896/20499/fragrance/fragrance/bobbi-brown-beach/ss12 "Beach Fragrance")
 
- [THE ESSENTIALS EDIT](https://www.bobbibrowncosmetics.com/products/38559/essentialsedit)
-
  [MINI BAR](https://www.bobbibrowncosmetics.com/mini-bar)
 
  [PALETTES & SETS](https://www.bobbibrowncosmetics.com/products/13996/palettes-and-sets)
 
 Trending
 
- [Online Exclusives](https://www.bobbibrowncosmetics.com/products/39349/evergreengifting/exclusive_online)
+ [NEW](https://www.bobbibrowncosmetics.com/products/14460/new) New 
+
+New
+
+[Shop All New](https://www.bobbibrowncosmetics.com/products/14460/new "Shop All New")
+
+[Mother's Day Kit](https://www.bobbibrowncosmetics.com/custom-kits "Mother's Day Kit") Mother's Day Kit
+
+[Lathering Tube Soap](https://www.bobbibrowncosmetics.com/product/14013/7748/skincare/cleansers-toners/lathering-tube-soap/fh21 "Lathering Tube Soap") Lathering Tube Soap
+
+  [![](/media/export/cms/GNAV/BB_PC_FY24_LTS_SCO_Repromote_GNAV_Cleansers_01.jpg)](https://www.bobbibrowncosmetics.com/product/14013/7748/skincare/cleansers-toners/lathering-tube-soap/fh21)
+
+[Shop Lathering Tube Soap](https://www.bobbibrowncosmetics.com/product/14013/7748/skincare/cleansers-toners/lathering-tube-soap/fh21 "Shop Lathering Tube Soap")
+
+[Glow with Luck Collection](https://www.bobbibrowncosmetics.com/products/34891/holiday/lunar-new-year "Glow with Luck Collection") Glow with Luck Collection
+
+  [![](/media/export/cms/GNAV/BB_FY24_LNY_GNAV_Collection_Group_2_01.jpg)](https://www.bobbibrowncosmetics.com/products/34891/holiday/lunar-new-year)
+
+[Shop the collection](https://www.bobbibrowncosmetics.com/products/34891/holiday/lunar-new-year "Shop the collection")
+
+[Vitamin Enriched Smoothing Serum](https://www.bobbibrowncosmetics.com/product/14006/124182/skincare/vitamin-enriched-smoothing-serum "Vitamin Enriched Smoothing Serum") Vitamin Enriched Smoothing Serum
+
+  [![](/media/export/cms/GNAV/BB_FY24_VESS_VEFB_Repromote_GNAV_Tile_VE_Serum_SLICE.jpg)](https://www.bobbibrowncosmetics.com/product/14006/124182/skincare/vitamin-enriched-smoothing-serum)
+
+[Shop **NEW Vitamin Enriched Smoothing Serum**](https://www.bobbibrowncosmetics.com/product/14006/124182/skincare/vitamin-enriched-smoothing-serum "Shop <span><strong>NEW Vitamin Enriched Smoothing Serum</strong></span>")
+
+[Soothing Cleansing Oil](https://www.bobbibrowncosmetics.com/product/14006/123703/skincare/soothing-cleansing-oil "Soothing Cleansing Oil") Soothing Cleansing Oil
+
+  [![](/media/export/cms/GNAV/BB_FY24_SCO_Reform_GNAV_SCO_Ingredients_Waterlight_Texture_SLICE_01.jpg)](https://www.bobbibrowncosmetics.com/product/14006/123703/skincare/soothing-cleansing-oil)
+
+[Shop Soothing Cleansing Oil](https://www.bobbibrowncosmetics.com/product/14006/123703/skincare/soothing-cleansing-oil "Shop Soothing Cleansing Oil")
 
  [VITAMIN ENRICHED COLLECTION](https://www.bobbibrowncosmetics.com/vitamin-enriched-collection)
 
@@ -237,8 +269,6 @@ SPECIAL OFFERS
 [Up to 30% off Last Chance](https://www.bobbibrowncosmetics.com/products/16111/Makeup/last-call "Up to 30% off Last Chance")
 
 [Auto Replenishment](https://www.bobbibrowncosmetics.com/products/15597/makeup/auto-replenishment "Auto Replenishment")
-
- [GIFT GUIDE](https://www.bobbibrowncosmetics.com/gift-guide)
 
  [BRIDAL BEAUTY](https://www.bobbibrowncosmetics.com/bride-wedding-makeup)
 
@@ -279,7 +309,7 @@ PERSONALIZED SERVICES
 [Book a Virtual Artistry  
 Consultation](https://www.bobbibrowncosmetics.com/virtual-services)
 
-[Chat with an Artist](https://www.bobbibrowncosmetics.com/beauty-chat)
+[Chat with an Artist](https://www.bobbibrowncosmetics.com/digital-services)
 
 [Watch Bobbi Brown Live](https://www.bobbibrowncosmetics.com/live-videos)
 
