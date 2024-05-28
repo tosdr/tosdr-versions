@@ -152,35 +152,16 @@ Do Not Track Notices. You are also advised that Company does not respond to “D
 
 BUFF.GAME isn’t endorsed by Riot Games and doesn’t reflect the views or opinions of Riot Games or anyone officially involved in producing or managing League of Legends and or Valorant. League of Legends, Valorant and Riot Games are trademarks or registered trademarks of Riot Games, Inc. League of Legends, Valorant © Riot Games, Inc.
 
-[Manage consent](javascript:void(0))
-
 © 2024 Buff. All Rights Reserved.  
 [Terms of Use](https://www.buff.game/website-terms-of-use/) | [Privacy Policy](https://www.buff.game/buff-privacy-policy/)
 
+[Manage Cookie Settings](#)
+
 [](#)
-
-![](https://www.buff.game/wp-content/uploads/2023/04/Pop.png)
-
-Don't Miss This Special Offer:
-------------------------------
-
-Triple Welcome Bonus 90 Buff Points Instead of 30
-
-Time Left:
-
-H
-
-M
-
-S
-
-[Download Now](https://download.overwolf.com/install/Download?PartnerId=3762&utm_term=exitpop90)
 
 We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking “Accept All”, you consent to the use of ALL the cookies. However, you may visit "Cookie Settings" to provide a controlled consent.
 
-NecessaryFunctionalPerformanceAnalyticsAdvertisementOthers
-
-Cookie SettingsAccept
+Cookie SettingsAccept All
 
 Manage consent
 
@@ -213,19 +194,19 @@ Necessary cookies are absolutely essential for the website to function properly.
 
 Functional
 
- functional
+ Functional
 
 Functional cookies help to perform certain functionalities like sharing the content of the website on social media platforms, collect feedbacks, and other third-party features.
 
 Performance
 
- performance
+ Performance
 
 Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors.
 
 Analytics
 
- analytics
+ Analytics
 
 Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics the number of visitors, bounce rate, traffic source, etc.
 
@@ -240,7 +221,7 @@ Analytical cookies are used to understand how visitors interact with the website
 
 Advertisement
 
- advertisement
+ Advertisement
 
 Advertisement cookies are used to provide visitors with relevant ads and marketing campaigns. These cookies track visitors across websites and collect information to provide customized ads.
 
@@ -262,7 +243,7 @@ Advertisement cookies are used to provide visitors with relevant ads and marketi
 
 Others
 
- others
+ Others
 
 Other uncategorized cookies are those that are being analyzed and have not been classified into a category as yet.
 
@@ -274,3 +255,24 @@ Other uncategorized cookies are those that are being analyzed and have not been 
 | buff-908 | 10 years | No description |
 | outbrain\_cid\_fetch | 5 minutes | No description available. |
 | trustedsite\_tm\_float\_seen | 5 minutes | No description available. |
+
+SAVE & ACCEPT
+
+Powered by [![CookieYes Logo](https://www.buff.game/wp-content/plugins/cookie-law-info/legacy/public/images/logo-cookieyes.svg)](https://www.cookieyes.com/)
+
+![](https://www.buff.game/wp-content/uploads/2023/04/Pop.png)
+
+Don't Miss This Special Offer:
+------------------------------
+
+Triple Welcome Bonus 90 Buff Points Instead of 30
+
+Time Left:
+
+H
+
+M
+
+S
+
+[Download Now](https://download.overwolf.com/install/Download?PartnerId=3762&utm_term=exitpop90)
