@@ -23,8 +23,8 @@ Popular Games
 
 Latest game news
 
-* [ARMORED CORE VI FIRES OF RUBICON - Ranked Match Season Update Notice (May 2024)](https://en.bandainamcoent.eu/armored-core/news/armored-core-vi-fires-of-rubicon-ranked-match-season-update-notice-may-2024)
-* [‘EACH PAC FOR THEMSELVES’ MULTIPLAYER GAME PAC-MAN MEGA TUNNEL BATTLE: CHOMP CHAMPS IS AVAILABLE NOW](https://en.bandainamcoent.eu/pac-man/news/each-pac-themselves-multiplayer-game-pac-man-mega-tunnel-battle-chomp-champs-available)
+* [SAND LAND - Global Release Timings](https://en.bandainamcoent.eu/sand-land/news/sand-land-global-release-timings)
+* [SWORD ART ONLINE LAST RECOLLECTION DLC: Ritual of Bonds Vol.2 is available now](https://en.bandainamcoent.eu/sword-art-online/news/sword-art-online-last-recollection-dlc-ritual-of-bonds-vol2-available-now)
 
    ![](/themes/custom/bne_main/images/newsletter/banner-newsletter.jpg?1648764000)
 
