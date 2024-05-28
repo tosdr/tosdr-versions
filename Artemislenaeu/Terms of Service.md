@@ -16,11 +16,7 @@ JavaScript doit être activé pour effectuer le chiffrement dans votre navigateu
 
 JavaScript harus diaktifkan untuk melakukan enkripsi dalam peramban Anda
 
-JavaScript deve essere abilitato per eseguire la crittografia nel browser
-
 ブラウザーで暗号化を行うにはJavaScriptが有効になっている必要があります
-
-JavaScript musi być włączony, aby wykonać szyfrowanie w przeglądarce
 
 O JavaScript deve estar ativado para executar a criptografia em seu navegador
 
