@@ -139,15 +139,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to move a backup from a failing hard driv ...](https://www.backup4all.com/how-to-move-a-backup-from-a-failing-hard-drive-to-a-new-one-kb.html)  
+* [How to back up data files from Cloudian using ...](https://www.backup4all.com/how-to-back-up-data-files-from-cloudian-using-backup4all-kb.html)  
     
-* [How to activate Backup4all online](https://www.backup4all.com/how-to-activate-kb.html)  
+* [How to back up data files from Dropbox using ...](https://www.backup4all.com/how-to-back-up-data-files-from-dropbox-using-backup4all-kb.html)  
     
-* [How to clear the backup](https://www.backup4all.com/how-to-clear-the-backup-kb.html)  
+* [How to backup your data to Dunkel](https://www.backup4all.com/how-to-backup-your-data-to-dunkel-kb.html)  
     
-* [Downloading - FAQ](https://www.backup4all.com/downloading-faq-kb.html)  
+* [How to backup your data to vCloud Air](https://www.backup4all.com/how-to-backup-your-data-to-vcloud-air-kb.html)  
     
-* [How to back up data files from Walrus using B ...](https://www.backup4all.com/how-to-back-up-data-files-from-walrus-using-backup4all-kb.html)  
+* [How to backup your data to Caringo Swarm](https://www.backup4all.com/how-to-backup-your-data-to-caringo-swarm-kb.html)  
     
 
 Choose language:
