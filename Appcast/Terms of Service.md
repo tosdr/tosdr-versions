@@ -1,8 +1,8 @@
-![](https://ws.zoominfo.com/pixel/lxUaNKjbDeMIXSIuozxr)                            [Skip to content](#content)
+![](https://ws.zoominfo.com/pixel/lxUaNKjbDeMIXSIuozxr)                           [Skip to content](#content)
 
-[![](https://www.appcast.io/wp-content/uploads/2023/08/appcast-logo.svg)](https://www.appcast.io/)
+[![Appcast Logo](https://www.appcast.io/wp-content/uploads/2020/09/appcast_logo.svg)](https://www.appcast.io/)
 
-[![](https://www.appcast.io/wp-content/uploads/2023/08/appcast-logo.svg)](https://www.appcast.io/)
+[![Appcast Logo](https://www.appcast.io/wp-content/uploads/2020/09/appcast_logo.svg)](https://www.appcast.io/)
 
 Solutions
 
@@ -905,48 +905,58 @@ Any employee who breaches this policy will face disciplinary action, which could
   
 We may terminate our relationship with other individuals and organizations working on our behalf if they breach this policy.
 
-![](https://www.appcast.io/wp-content/uploads/2024/05/footer-10-years@2x.png)
+###### Just Released
 
-We’re celebrating our 10th anniversary. A decade of award-winning programmatic job advertising technology.
+#### 2024 Recruitment  
+Marketing Benchmark  
+Report
 
-[read more](https://www.prweb.com/releases/appcast-marks-a-decade-of-innovation-and-growth-celebrating-10-years-of-leadership-in-recruitment-marketing-302145721.html)
+##### Appcast’s 8th annual Recruitment Marketing Benchmark Report has the data you need to help meet your hiring goals in any economic climate. 
 
-[![](https://www.appcast.io/wp-content/uploads/2024/05/Logo-Primary.svg)](https://www.appcast.io/)
+[Download Now](https://info.appcast.io/whitepaper/2024-recruitment-marketing-benchmark-report?lead_source__n_=Appcast%20Website&utm_medium=Website&utm_source=Website&utm_campaign=&utm_content=&utm_term=)
 
-Keep up to date with all the latest from Appcast:
-
-[](https://www.linkedin.com/company/appcast-io/)
-
-[](https://www.instagram.com/appcastinc)
-
-[](https://www.facebook.com/appcast.io/)
-
-[](https://www.youtube.com/channel/UCWBYkHfhXajj7vFSRc6VFEw)
-
-[](https://twitter.com/appcast_io)
-
-get in touch
+##### CONTACT
 
 * [contact@appcast.io](mailto:contact@appcast.io)
 * [1 (800) 570-5430](tel:%201%20(800)%20570-5430)
 
-partners
+##### FOLLOW US
+
+* [X.com](https://twitter.com/appcast_io)
+* [LinkedIn](https://www.linkedin.com/company/appcast-io/)
+* [Facebook](https://www.facebook.com/appcast.io/)
+* [Instagram](https://www.instagram.com/appcastinc)
+* [YouTube](https://www.youtube.com/channel/UCWBYkHfhXajj7vFSRc6VFEw)
+
+##### PARTNERS
 
 * [Our Partners](https://www.appcast.io/partners/)
 * [ATS & CRM](https://www.appcast.io/partners/ats-and-crm/)
 * [Job Sites](https://www.appcast.io/partners/jobsites/)
 * [Agencies](https://www.appcast.io/partners/solutions-for-agencies/)
-* [Login](https://xcelerate.appcast.io/user_sessions/new)
 
-* [Privacy Policy](https://www.appcast.io/privacy-policy/)
-* [Anti-Slavery Policy](https://www.appcast.io/legal/#anti-slavery-policy)
-* [Sitemap](https://www.appcast.io/sitemap/)
-* [Legal](https://www.appcast.io/legal/)
-* [Do not sell or share my  
-    personal information](https://www.appcast.io/appcast-privacy-webform/)
+[Log In](https://xcelerate.appcast.io/user_sessions/new)
 
-[![](https://www.appcast.io/wp-content/uploads/2024/05/Logo-Primary.svg)](https://www.appcast.io/)
+[PRIVACY](https://www.appcast.io/privacy-policy/)
 
-[Web design by Something Familiar](https://somethingfamiliar.co.uk/)
+[LEGAL](https://www.appcast.io/legal/)
+
+[SITEMAP](https://www.appcast.io/sitemap/)
+
+[Log In](https://xcelerate.appcast.io/user_sessions/new)
+
+[PRIVACY](https://www.appcast.io//privacy-policy/)
+
+[LEGAL](https://www.appcast.io/legal/)
+
+[SITEMAP](https://www.appcast.io//sitemap/)
+
+[Log In](https://xcelerate.appcast.io/user_sessions/new)
+
+Web design by
+
+[![Something Familiar](https://www.appcast.io/wp-content/uploads/2020/09/Something-Familiar-_-Design-Studio-Bristol-0-4.svg)](https://www.somethingfamiliar.co.uk/)
 
 © 2024 Appcast All Rights Reserved
+
+[Do Not Sell or Share my Personal Information](https://www.appcast.io/appcast-privacy-webform)
