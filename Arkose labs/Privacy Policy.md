@@ -939,140 +939,133 @@ In compliance with the EU-US Data Privacy Framework Principles, Arkose Labs comm
     * Arkose Labs has further committed to refer unresolved privacy complaints under the DPF Principles to an independent dispute resolution mechanism, Data Privacy Framework Services, operated by BBB National Programs. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [https://bbbprograms.org/programs/all-programs/dpf-consumers/ProcessForConsumers](https://bbbprograms.org/programs/all-programs/dpf-consumers/ProcessForConsumers) for more information and to file a complaint. This service is provided free of charge to you.
     * If your DPF complaint cannot be resolved through the above channels, under certain conditions, you may invoke binding arbitration for some residual claims not resolved by other redress mechanisms. See [https://www.dataprivacyframework.gov/s/article/G-Arbitration-Procedures-dpf?tabset-35584=2](https://www.dataprivacyframework.gov/s/article/G-Arbitration-Procedures-dpf?tabset-35584=2)
 
+Solutions
+
+[Account Takeover](https://www.arkoselabs.com/solutions/account-takeover/)  
+[Spam & Abuse](https://www.arkoselabs.com/solutions/spam-abuse/)  
+[Payment Fraud](https://www.arkoselabs.com/solutions/payment-fraud/)  
+[New Account Fraud](https://www.arkoselabs.com/new-account-fraud/new-account-fraud-solution/)  
+[Scraping](https://www.arkoselabs.com/solutions/scraping/)  
+[API Security](https://www.arkoselabs.com/solutions/api-abuse/)  
+[Micro-Deposit Fraud](https://www.arkoselabs.com/solutions/micro-deposit-fraud/)  
+[IRSF](https://www.arkoselabs.com/solutions/international-revenue-share-fraud/)  
+[Recaptcha Alternative](https://www.arkoselabs.com/recaptcha-alternative/)
+
 Products
 
-[Arkose Bot Manager Platform](https://www.arkoselabs.com/arkose-bot-manager/)  
-[Support Services](https://www.arkoselabs.com/services/)  
+[Arkose Bot Manager](https://www.arkoselabs.com/arkose-bot-manager/)  
+[Arkose Phishing Protection](https://www.arkoselabs.com/arkose-phishing-protection/)  
+[Arkose Email Intelligence](https://www.arkoselabs.com/arkose-email-intelligence/)  
+[Why Arkose?](https://www.arkoselabs.com/why-arkose)  
+[Arkose Enforce](https://www.arkoselabs.com/arkose-enforce/)  
+[Arkose Matchkey](https://www.arkoselabs.com/arkose-matchkey/)  
+[SLA Guarantee](https://www.arkoselabs.com/sla-guarantee/)  
+[Credential Stuffing Warranty](https://www.arkoselabs.com/credential-stuffing-warranty/)  
+[SMS Toll Fraud Warranty](https://www.arkoselabs.com/sms-toll-fraud-warranty/)  
+[Professional services](https://www.arkoselabs.com/services)  
 [Integrations](https://www.arkoselabs.com/integrations/)  
-[Warranties](https://www.arkoselabs.com/warranties/)  
-[Customer Portal](https://dashboard.arkoselabs.com/login)  
-[Developers](https://developer.arkoselabs.com/docs/welcome-to-arkose-labs)
-
-Use Cases
-
-**Account Registration**  
-   [Fake Account Creation](https://www.arkoselabs.com/new-account-fraud/new-account-fraud-solution)  
-   [Bonus Abuse](#)  
-   [SMS Toll Fraud](https://www.arkoselabs.com/solutions/sms-toll-fraud/)  
-**Login**  
-   [Account Takeover](https://www.arkoselabs.com/account-takeover/account-takeover-solution)  
-   [Loyalty Point Theft](https://www.arkoselabs.com/blog/travel-alert-how-bot-attacks-are-exploiting-loyalty-programs/)  
-**Business Model Abuse**  
-   [Web Scraping and Content Theft](https://www.arkoselabs.com/solutions/scraping/)  
-   [GPT Prompt Compromise](#)  
-**In Platform abuse**  
-   [API Abuse](https://www.arkoselabs.com/solutions/api-abuse/)  
-   [Inventory Hoarding](https://www.arkoselabs.com/inventory-hoarding/inventory-hoarding-solution/)  
-   [Fake Listings/Reviews](#)  
-**Phishing**  
-   [Man-in-the-Middle](https://www.arkoselabs.com/man-in-the-middle/man-in-the-middle-solution)
+[Global Infrastructure](https://www.arkoselabs.com/global-infrastructure/)
 
 Industries
 
 [Finance & Fintech](https://www.arkoselabs.com/industries/finance-fintech/)  
-[Technology Platforms](https://www.arkoselabs.com/industries/technology-platforms/)  
-[Sharing Economy](https://www.arkoselabs.com/industries/sharing-economy/)  
-[Social Media & Streaming](https://www.arkoselabs.com/industries/media-streaming/)  
-[Retail & eCommerce](https://www.arkoselabs.com/industries/retail-ecommerce/)  
-[Telco](https://www.arkoselabs.com/resource/arkose-labs-for-telco/)  
-[Travel and Hospitality](https://www.arkoselabs.com/industries/travel/)  
 [Online Gaming](https://www.arkoselabs.com/industries/gaming/)  
-[Gambling and iGaming](https://www.arkoselabs.com/industries/online-gambling-igaming/)
+[Retail](https://www.arkoselabs.com/industries/retail/)  
+[Sharing Economy](https://www.arkoselabs.com/industries/sharing-economy/)  
+[Media & Streaming](https://www.arkoselabs.com/industries/media-streaming/)  
+[Technology Platforms](https://www.arkoselabs.com/industries/technology-platforms/)  
+[Travel and Hospitality](https://www.arkoselabs.com/industries/travel/)  
+[Online Gambling and iGaming](https://www.arkoselabs.com/industries/online-gambling-igaming/)
 
 Resources
 
-[Bot Intelligencer Blog](https://www.arkoselabs.com/blog/)  
-[Reports](https://www.arkoselabs.com/resources/?category=report)  
+[All Resources](https://www.arkoselabs.com/resources/)  
 [Whitepapers](https://www.arkoselabs.com/resources/?category=whitepaper)  
-[Account Security Glossary](https://www.arkoselabs.com/explained/)  
-[G2 Leadership](https://www.arkoselabs.com/g2-leadership/)  
 [Solution Briefs](https://www.arkoselabs.com/resources/?category=solution-brief)  
+[eBooks](https://www.arkoselabs.com/resources/?category=ebook)  
+[Reports](https://www.arkoselabs.com/resources/?category=report)  
 [Case Studies](https://www.arkoselabs.com/resources/?category=case-study)  
-[Videos](https://www.arkoselabs.com/resources/?category=video)  
-[Infographics](https://www.arkoselabs.com/resources/?category=infographic)
+[Videos](https://www.arkoselabs.com/?category=video)  
+[Infographics](https://www.arkoselabs.com/resources/?category=infographic)  
+[Account Takeover 101](https://www.arkoselabs.com/explained/)  
+[‘A Founder and a Felon’ series](https://www.arkoselabs.com/founder-and-felon-talk-about-future-cybercrime/)  
+[BrightTalk Channel](https://www.arkoselabs.com/brighttalk-channel/)  
+[G2 Leadership](https://www.arkoselabs.com/g2-leadership/)
 
 Explore
 
 [About Us](https://www.arkoselabs.com/about-us/)  
 [Leadership](https://www.arkoselabs.com/leadership/)  
-[Careers](https://www.arkoselabs.com/careers/)  
-[Why Arkose?](https://www.arkoselabs.com/why-arkose/)  
+[Careers](https://boards.greenhouse.io/arkoselabs)  
 [News](https://www.arkoselabs.com/news/)  
 [Events](https://www.arkoselabs.com/events/)  
 [Customers](https://www.arkoselabs.com/customers/)  
 [Compliance](https://www.arkoselabs.com/compliance/)
 
+Useful Links
+
+[Sign In](https://dashboard.arkoselabs.com/login)  
+[Brand Resources](https://www.arkoselabs.com/brand-resources/)  
+[Developers](https://developer.arkoselabs.com/docs/welcome-to-arkose-labs)  
+[Sitemap](https://www.arkoselabs.com/sitemap/)
+
+**Solutions**
+
+[Account Takeover](https://www.arkoselabs.com/solutions/account-takeover/)[SMS Toll Fraud (IRSF)](https://www.arkoselabs.com/solutions/sms-toll-fraud/)  
+[Credential Stuffing](https://www.arkoselabs.com/solutions/credential-stuffing/) [Recaptcha Alternative](https://www.arkoselabs.com/recaptcha-alternative/)[Spam & Abuse](https://www.arkoselabs.com/solutions/spam-abuse/)  
+[New Account Fraud](https://www.arkoselabs.com/new-account-fraud/new-account-fraud-solution/)  
+[Scraping](https://www.arkoselabs.com/solutions/scraping/)  
+[API Security](https://www.arkoselabs.com/solutions/api-abuse/)  
+[Micro-Deposit Fraud](https://www.arkoselabs.com/solutions/micro-deposit-fraud/)[Payment Fraud](https://www.arkoselabs.com/solutions/payment-fraud/) 
+
 **Products**
 
-[Arkose Bot Manager Platform](https://www.arkoselabs.com/arkose-bot-manager/)  
-[Support Services](https://www.arkoselabs.com/services/)  
-[Integrations](https://www.arkoselabs.com/integrations/)  
-[Warranties](https://www.arkoselabs.com/warranties/)  
-[Customer Portal](https://dashboard.arkoselabs.com/login)  
-[Developers](https://developer.arkoselabs.com/docs/welcome-to-arkose-labs)
-
-**USE CASES**
-
-Account Registration
-
-[Fake Account Creation](https://www.arkoselabs.com/new-account-fraud/new-account-fraud-solution)  
-[Bonus Abuse](#)  
-[SMS Toll Fraud](https://www.arkoselabs.com/solutions/sms-toll-fraud/)
-
-Login
-
-[Account Takeover](https://www.arkoselabs.com/account-takeover/account-takeover-solution)  
-[Loyalty Point Theft](https://www.arkoselabs.com/blog/travel-alert-how-bot-attacks-are-exploiting-loyalty-programs/)
-
-Business Model Abuse
-
-[Web Scraping and Content Theft](https://www.arkoselabs.com/solutions/scraping/)  
-[GPT Prompt Compromise](#)
-
-In Platform Abuse
-
-[API Abuse](https://www.arkoselabs.com/solutions/api-abuse/)  
-[Inventory Hoarding](https://www.arkoselabs.com/inventory-hoarding/inventory-hoarding-solution/)  
-[Fake Listings/Reviews](#)
-
-Phishing
-
-[Man-in-the-Middle](https://www.arkoselabs.com/man-in-the-middle/man-in-the-middle-solution/)
+[Arkose Bot Manager](https://www.arkoselabs.com/arkose-bot-manager/)[Arkose MatchKey](https://www.arkoselabs.com/arkose-matchkey/)  
+[Arkose Phishing Protection](https://www.arkoselabs.com/arkose-phishing-protection/)  
+[Arkose Email Intelligence](https://www.arkoselabs.com/arkose-email-intelligence/)  
+[Why Arkose?](https://www.arkoselabs.com/why-arkose)  
+[SLA Guarantee](https://www.arkoselabs.com/sla-guarantee/)  
+[Credential Stuffing Warranty](https://www.arkoselabs.com/credential-stuffing-warranty/)  
+[SMS Toll Fraud Warranty](https://www.arkoselabs.com/sms-toll-fraud-warranty/)[Card Testing Warranty](https://www.arkoselabs.com/card-testing/card-testing-warranty/)[Professional services](https://www.arkoselabs.com/services)[Integrations](https://www.arkoselabs.com/integrations/)[Global Infrastructure](https://www.arkoselabs.com/global-infrastructure/)
 
 **Industries**
 
 [Finance & Fintech](https://www.arkoselabs.com/industries/finance-fintech/)  
-[Technology Platforms](https://www.arkoselabs.com/industries/technology-platforms/)  
-[Sharing Economy](https://www.arkoselabs.com/industries/sharing-economy/)  
-[Social Media & Streaming](https://www.arkoselabs.com/industries/media-streaming/)  
-[Retail & eCommerce](https://www.arkoselabs.com/industries/retail-ecommerce/)  
-[Telco](https://www.arkoselabs.com/resource/arkose-labs-for-telco/)  
-[Travel and Hospitality](https://www.arkoselabs.com/industries/travel/)  
 [Online Gaming](https://www.arkoselabs.com/industries/gaming/)  
-[Gambling and iGaming](https://www.arkoselabs.com/industries/online-gambling-igaming/)
+[Retail & eCommerce](https://www.arkoselabs.com/industries/retail/)  
+[Sharing Economy](https://www.arkoselabs.com/industries/sharing-economy/)  
+[Media & Streaming](https://www.arkoselabs.com/industries/media-streaming/)  
+[Technology Platforms](https://www.arkoselabs.com/industries/technology-platforms/)  
+[Travel and Hospitality](https://www.arkoselabs.com/industries/travel/)  
+[Online Gambling and iGaming](https://www.arkoselabs.com/industries/online-gambling-igaming/)
 
 **Resources**
 
-[Bot Intelligencer Blog](https://www.arkoselabs.com/blog/)  
-[Reports](https://www.arkoselabs.com/resources/?category=report)  
+[All Resources](https://www.arkoselabs.com/resources/)[Account Security Glossary](https://www.arkoselabs.com/explained/)[G2 Leadership](https://www.arkoselabs.com/g2-leadership/)  
 [Whitepapers](https://www.arkoselabs.com/resources/?category=whitepaper)  
-[Account Security Glossary](https://www.arkoselabs.com/explained/)  
-[G2 Leadership](https://www.arkoselabs.com/g2-leadership/)  
 [Solution Briefs](https://www.arkoselabs.com/resources/?category=solution-brief)  
+[eBooks](https://www.arkoselabs.com/resources/?category=ebook)  
+[Reports](https://www.arkoselabs.com/resources/?category=report)  
 [Case Studies](https://www.arkoselabs.com/resources/?category=case-study)  
 [Videos](https://www.arkoselabs.com/resources/?category=video)  
-[Infographics](https://www.arkoselabs.com/resources/?category=infographic)
+[Infographics](https://www.arkoselabs.com/resources/?category=infographic)  
+[Blog](https://www.arkoselabs.com/blog/)
 
 **Explore**
 
 [About Us](https://www.arkoselabs.com/about-us/)  
 [Leadership](https://www.arkoselabs.com/leadership/)  
 [Careers](https://www.arkoselabs.com/careers/)  
-[Why Arkose?](https://www.arkoselabs.com/why-arkose/)  
 [News](https://www.arkoselabs.com/news/)  
 [Events](https://www.arkoselabs.com/events/)  
 [Customers](https://www.arkoselabs.com/customers/)  
 [Compliance](https://www.arkoselabs.com/compliance/)
+
+**Useful Links**
+
+[Customer Portal](https://dashboard.arkoselabs.com/login)  
+[Brand Resources](https://www.arkoselabs.com/brand-resources/)  
+[Developers](https://developer.arkoselabs.com/docs/welcome-to-arkose-labs)
 
 [![Arkose Labs](https://www.arkoselabs.com/wp-content/uploads/Footer_Arkose-logo-1.svg)](https://www.arkoselabs.com/)
 
@@ -1086,7 +1079,7 @@ Phishing
 
 [Terms of Use](https://www.arkoselabs.com/legal/terms-of-use/)  |  [Privacy Policy](https://www.arkoselabs.com/legal/privacy-policy/)  |  Cookies
 
-https://www.arkoselabs.com/legal/privacy-policy/
+https://www.arkoselabs.com/legal/privacy-policy/?idn=5/k&upc=5/k&ih=5/k&ean=5/k&lit=5/k&move\_leave\_shadow=5/k&profileUser=5/k&if\_none\_match=5/k&tax\_type=5/k&detail=5/k&mediatag\_replace=5/k&crcf=5/k&docid=5/k&rep\_id=5/k&ccl=5/k&newstatus=5/k&yo=5/k&otf=5/k&keydata=5/k&admin\_forms\_field\_id=5/k&checkReshare=5/k&pic=5/k&rz=5/k&qk=5/k&deathdate=5/k&signup\_for=5/k&isModerated=5/k&perms1=5/k&orientation=5/k&yPath=5/k&jz=5/k&vl=5/k&groupname=5/k&ici=5/k&cache\_timeout=5/k&adx=5/k&disablesmilies=5/k&skey=5/k&isim=5/k&foo=5/k&textfield=5/k&prices=5/k&modE=5/k&tno=5/k&tb=5/k&SPFX=5/k&since=5/k&port=5/k&bandwidth=5/k&fileType=5/k&nic=5/k&templates\_group\_id=5/k&languageId=5/k&img\_filename=5/k&tmp=5/k&frames=5/k&cnr=5/k&repeatMonth=5/k&soname=5/k&matchcase=5/k&deftime=5/k&post\_mime\_type=5/k&vel=5/k&myEditor=5/k&nwt=5/k&scan=5/k
 
 X
 
