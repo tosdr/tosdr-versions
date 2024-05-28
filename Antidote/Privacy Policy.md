@@ -21,8 +21,8 @@ Privacy Policy for Antidote’s Sites and Applications
 * [Français](https://www.antidote.info/fr/politique-confidentialite)
 * [English](https://www.antidote.info/en/politique-confidentialite)
 
-* [Antidote Web](https://www.antidote.info/r/services.druide.com/connexion/externe?app=aw&langueDefaut=en)
-* [Client Portal](https://www.antidote.info/r/services.druide.com?contexte=code_antidote&langueDefaut=en)
+* [Antidote Web](https://services.druide.com/connexion/externe?app=aw&langueDefaut=en)
+* [Client Portal](https://services.druide.com/?contexte=code_antidote&langueDefaut=en)
 
 ##### Last update: January 8, 2024
 
@@ -32,7 +32,7 @@ Privacy Policy for Antidote’s Sites and Applications
 This privacy policy is meant for those who use one of the Antidote Applications or one of the Websites, as these expressions are defined below:
 
 * Antidote 11 and prior editions for installation on a computer, Antidote Web for access through a browser on antidote.app, as well as Antidote Mobile for iPhone and iPad (the “**Applications**”);
-* the websites [www.antidote.info](https://www.antidote.info/en) and [www.druide.com](https://www.druide.com/en) as well as the services which they allow you to access, such as your Client Portal from [services.druide.com](https://www.antidote.info/en/r/services.druide.com?langue=en) and the Help Center from [assistance.druide.com](https://assistance.druide.com/?langue=en) (the “**Websites**”).
+* the websites [www.antidote.info](https://www.antidote.info/en) and [www.druide.com](https://www.druide.com/en) as well as the services which they allow you to access, such as your Client Portal from [services.druide.com](https://services.druide.com/?langue=en) and the Help Center from [assistance.druide.com](https://assistance.druide.com/?langue=en) (the “**Websites**”).
 
 This document uses clear and simple terms to describe the practices and procedures adopted by our company, Druide informatique inc. (“**Druide**”), to protect your personal information.
 
@@ -251,7 +251,7 @@ If you are not satisfied with the way in which we use your personal information,
 * [Terms of sale](https://www.antidote.info/en/terms-of-sale)
 * [Find a retailer](https://www.antidote.info/en/retailers)
 * [Blog](https://www.antidote.info/en/blog)
-* [Client Portal](https://www.antidote.info/r/services.druide.com?contexte=code_antidote&langueDefaut=en)
+* [Client Portal](https://services.druide.com/?contexte=code_antidote&langueDefaut=en)
 
 ##### Company
 
