@@ -49,7 +49,9 @@ Menu
     * [Support](https://bigbluebutton.org/teachers/support/)
     * [Hosting](https://bigbluebutton.org/schools/hosting/)
 
-[![](https://bigbluebutton.org/wp-content/uploads/2021/01/BigBlueButton_icon.svg.png)](https://bigbluebutton.org/)
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](https://bigbluebutton.org/wp-content/uploads/2021/01/BigBlueButton_icon.svg.png)](https://bigbluebutton.org/)
 
 * [Resources](#)
     * [Events](https://bigbluebutton.org/events/)
