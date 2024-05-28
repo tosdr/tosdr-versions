@@ -1,6 +1,6 @@
    ![](/assets/templates/dd-menu-button/horizontal-bar-v1.svg) ![](/assets/templates/dd-menu-button/horizontal-bar-v1.svg) ![](/assets/templates/dd-menu-button/horizontal-bar-v1.svg) ![](/assets/templates/dd-menu-button/caret-v1.svg)
 
-[Home](https://www.adventureacademy.com/) [Log In](https://www.adventureacademy.com/login/) [Sign Up](https://www.adventureacademy.com/subscription/) [Terms & Conditions](https://www.ageoflearning.com/aa-tandc-current/) [Customer Support](https://www.adventureacademy.com/customer-support/) Log Out
+[Home](https://www.adventureacademy.com/) [Log In](https://www.adventureacademy.com/login/) [Sign Up](https://www.adventureacademy.com/subscription/) [Terms & Conditions](https://www.adventureacademy.com/terms-and-conditions/) [Customer Support](https://www.adventureacademy.com/customer-support/) Log Out
 
 [Skip Navigation](#previous-privacy-policy)
 
@@ -13,7 +13,7 @@ Privacy Policy
 
 Print This Page
 
-Effective Date: December 22nd, 2022 [Previous Privacy Policy](https://www.ageoflearning.com/aa-privacy-current/previous/): September 1st, 2020
+Effective Date: December 22nd, 2022 [Previous Privacy Policy](https://www.adventureacademy.com/privacy-policy/previous/): September 1st, 2020
 
 Welcome to Adventure Academy®, which is owned and operated by Age of Learning, Inc. We are committed to providing children with a learning environment where every activity is just as fun as it is educational and where you can feel confident that your children’s privacy is protected.
 
@@ -23,7 +23,7 @@ This Privacy Policy describes the ways in which Age of Learning, Inc., and its s
 
 #### **Summary of Key Points**
 
-You should read this entire Privacy Policy and also our [Terms & Conditions](https://www.ageoflearning.com/aa-tandc-current/) , but here are some key points:
+You should read this entire Privacy Policy and also our [Terms & Conditions](https://www.adventureacademy.com/terms-and-conditions/) , but here are some key points:
 
 * Adventure Academy is certified under kidSAFE’s FTC approved COPPA Safe Harbor program. This means that the product has been independently, reviewed, and certified by kidSAFE to meet certain standards of online safety and privacy.
 * **Personal Information**, or **PI**, is defined in this policy to mirror the text of the California Consumer Privacy Act (**CCPA**) and means information that identifies, relates to, describes, is capable of being associated with, or could reasonably be linked, directly or indirectly, with a particular consumer or household.
@@ -340,6 +340,6 @@ USA
 Telephone Number: 1-800-633-3331  
 Email address: [privacy@aofl.com](mailto:privacy@aofl.com)  
 
-TM & © 2007 - 2024 [Age of Learning, Inc.](https://www.ageoflearning.com/) Patents Pending [Terms & Conditions](https://www.ageoflearning.com/aa-tandc-current/) | [Privacy Policy](https://www.ageoflearning.com/aa-privacy-current) | [Customer Support](https://www.adventureacademy.com/customer-support/)
+TM & © 2007 - 2024 [Age of Learning, Inc.](https://www.ageoflearning.com/) Patents Pending [Terms & Conditions](https://www.adventureacademy.com/terms-and-conditions/) | [Privacy Policy](https://www.adventureacademy.com/privacy-policy/) | [Customer Support](https://www.adventureacademy.com/customer-support/)
 
 Debug Menu
