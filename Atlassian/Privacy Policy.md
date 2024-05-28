@@ -20,278 +20,168 @@ Choose your language
 * [Pусский](https://www.atlassian.com/ru/legal/privacy-policy)
 * [Polski](https://www.atlassian.com/pl/legal/privacy-policy)
 
-[![Atlassian](https://wac-cdn.atlassian.com/misc-assets/adg4-nav/AtlassianHeaderLogo.svg)](https://www.atlassian.com/)
+ [![Atlassian logo](https://wac-cdn.atlassian.com/dam/jcr:616e6748-ad8c-48d9-ae93-e49019ed5259/Atlassian-horizontal-blue-rgb.svg?cdnVersion=1571)](https://www.atlassian.com/)[Back](#)
 
-* * *
+[Products](#)
 
-* * *
+Featured
+--------
 
-* * *
+[![Jira Software](https://wac-cdn.atlassian.com/dam/jcr:826c97dc-1f5c-4955-bfcc-ea17d6b0c095/jira%20software-icon-gradient-blue.svg?cdnVersion=1571)
 
-* * *
+### Jira Software
 
-* Products Featured Developers Product Managers IT professionals
-    
-    Featured Developers Product Managers IT professionals
-    
-    [See all products](https://www.atlassian.com/software)
-    
-    ##### Featured
-    
-    [![](https://wac-cdn.atlassian.com/misc-assets/adg4-nav/prod-icon-Jira.svg)
-    
-    ### Jira
-    
-    Flexible project management](https://www.atlassian.com/software/jira)
-    
-    [![](https://wac-cdn.atlassian.com/misc-assets/adg4-nav/prod-icon-Confluence.svg)
-    
-    ### Confluence
-    
-    Knowledge, all in one place](https://www.atlassian.com/software/confluence)
-    
-    [![](https://wac-cdn.atlassian.com/misc-assets/adg4-nav/prod-icon-Jira-Service-Management.svg)
-    
-    ### Jira Service Management
-    
-    High-velocity service delivery](https://www.atlassian.com/software/jira/service-management)
-    
-    [![](https://wac-cdn.atlassian.com/misc-assets/adg4-nav/prod-icon-Trello.svg)
-    
-    ### Trello
-    
-    Organized & visualized work](https://trello.com/home)
-    
-    [![](https://wac-cdn.atlassian.com/misc-assets/adg4-nav/prod-icon-Jira-Product-Discovery.svg)
-    
-    ### Jira Product Discovery NEW
-    
-    Capture & prioritize ideas](https://www.atlassian.com/software/jira/product-discovery)
-    
-    [![](https://wac-cdn.atlassian.com/misc-assets/adg4-nav/prod-icon-Compass.svg)
-    
-    ### Compass NEW
-    
-    Optimize software health](https://www.atlassian.com/software/compass)
-    
-    [![](https://wac-cdn.atlassian.com/misc-assets/adg4-nav/prod-icon-Guard.svg)
-    
-    ### Guard NEW
-    
-    Enhanced cloud security](https://www.atlassian.com/software/access)
-    
-    [![](https://wac-cdn.atlassian.com/misc-assets/adg4-nav/prod-icon-Loom.svg)
-    
-    ### Loom NEW
-    
-    Quick, async video updates](https://loom.com/)
-    
-    ##### Developers
-    
-    [![](https://wac-cdn.atlassian.com/misc-assets/adg4-nav/prod-icon-Jira.svg)
-    
-    ### Jira
-    
-    Flexible project management](https://www.atlassian.com/software/jira)
-    
-    [![](https://wac-cdn.atlassian.com/misc-assets/adg4-nav/prod-icon-Bitbucket.svg)
-    
-    ### Bitbucket
-    
-    Collaborative code repos](https://www.atlassian.com/software/bitbucket)
-    
-    [![](https://wac-cdn.atlassian.com/misc-assets/adg4-nav/prod-icon-Compass.svg)
-    
-    ### Compass NEW
-    
-    Optimize software health](https://www.atlassian.com/software/compass)
-    
-    ##### Product Managers
-    
-    [![](https://wac-cdn.atlassian.com/misc-assets/adg4-nav/prod-icon-Jira.svg)
-    
-    ### Jira
-    
-    Flexible project management](https://www.atlassian.com/software/jira)
-    
-    [![](https://wac-cdn.atlassian.com/misc-assets/adg4-nav/prod-icon-Jira-Product-Discovery.svg)
-    
-    ### Jira Product Discovery NEW
-    
-    Capture & prioritize ideas](https://www.atlassian.com/software/jira/product-discovery)
-    
-    [![](https://wac-cdn.atlassian.com/misc-assets/adg4-nav/prod-icon-Guard.svg)
-    
-    ### Guard NEW
-    
-    Enhanced cloud security](https://www.atlassian.com/software/access)
-    
-    ##### IT professionals
-    
-    [![](https://wac-cdn.atlassian.com/misc-assets/adg4-nav/prod-icon-Jira-Service-Management.svg)
-    
-    ### Jira Service Management
-    
-    High-velocity service delivery](https://www.atlassian.com/software/jira/service-management)
-    
-    Back
-    
-* Teams
-    
-    ##### Teams
-    
-    [![](https://wac-cdn.atlassian.com/misc-assets/adg4-nav/nav-software.svg)
-    
-    ### Software
-    
-    Ship high-quality, innovative software faster
-    
-    ![](https://wac-cdn.atlassian.com/misc-assets/adg4-nav/nav-software-hover.svg)](https://www.atlassian.com/teams/software-development)
-    
-    [![](https://wac-cdn.atlassian.com/misc-assets/adg4-nav/nav-marketing.svg)
-    
-    ### Marketing
-    
-    Collaborative strategies for marketing success
-    
-    ![](https://wac-cdn.atlassian.com/misc-assets/adg4-nav/nav-marketing-hover.svg)](https://www.atlassian.com/teams/marketing)
-    
-    [![](https://wac-cdn.atlassian.com/misc-assets/adg4-nav/nav-it.svg)
-    
-    ### IT
-    
-    Deliver exceptional operations and support services.
-    
-    ![](https://wac-cdn.atlassian.com/misc-assets/adg4-nav/nav-it-hover.svg)](https://www.atlassian.com/software)
-    
-    ##### solution
-    
-    [Work Management](https://www.atlassian.com/software/jira/work-management)
-    
-    [IT Service Management](https://www.atlassian.com/software/jira/work-management)
-    
-    [Agile & DevOps](https://www.atlassian.com/solutions/devops)
-    
-    ##### By team size
-    
-    [Enterprise](https://www.atlassian.com/enterprise)
-    
-    [Small business](https://www.atlassian.com/software/small-business)
-    
-    [Startup](https://www.atlassian.com/software/startups)
-    
-    [Non-profit](https://www.atlassian.com/teams/nonprofits)
-    
-    ##### By industry
-    
-    [Retail](https://www.atlassian.com/industries/retail)
-    
-    [Telecommunications](https://www.atlassian.com/industries/telecom)
-    
-    [Professional services](https://www.atlassian.com/industries/professional-services)
-    
-    [Government](https://www.atlassian.com/government)
-    
-    Back
-    
-* Why Atlassian
-    
-    ##### Why Atlassian
-    
-    [### Integrations
-    
-    Connect thousands of apps to your Atlassian products](https://marketplace.atlassian.com/)
-    
-    [### Customers
-    
-    Case studies & stories powered by teamwork](https://www.atlassian.com/customers)
-    
-    [### FEDRamp
-    
-    Compliant solutions for the public sector](https://www.atlassian.com/trust/compliance/resources/fedramp)
-    
-    [### Resilience
-    
-    Enterprise-grade & highly performant infrastructure](https://www.atlassian.com/trust/resilience)
-    
-    [### Platform
-    
-    Our deeply integrated, reliable & secure platform](https://www.atlassian.com/platform)
-    
-    [### Trust center
-    
-    Ensure your data’s security, compliance & availability](https://www.atlassian.com/trust)
-    
-    Back
-    
-* Resources
-    
-    ##### Resources
-    
-    [### Customer Support
-    
-    Ask questions, report bugs & give us feedback](https://support.atlassian.com/)
-    
-    [### Find Partners
-    
-    Consulting, training & product customization support](https://partnerdirectory.atlassian.com/)
-    
-    [### Migration Program
-    
-    Step-by-step guidance for your Atlassian cloud migration](https://www.atlassian.com/migration)
-    
-    [### University
-    
-    Learn and expand your skill set for all things Atlassian](https://university.atlassian.com/)
-    
-    ##### support
-    
-    [General inquiries](https://www.atlassian.com/company/contact/general-inquiries)
-    
-    [Product Advice](https://www.atlassian.com/company/contact/product-evaluator-advice)
-    
-    [Partner support](https://www.atlassian.com/partners)
-    
-    [Enterprise support](https://www.atlassian.com/enterprise/services)
-    
-    [Technical Support](https://support.atlassian.com/contact/)
-    
-    [Pricing and Billing](https://www.atlassian.com/company/contact/purchasing-licensing)
-    
-    [Developer support](https://developer.atlassian.com/)
-    
-    [Purchasing & Licensing](https://www.atlassian.com/licensing/purchase-licensing)
-    
-    ##### learn
-    
-    [Project Management](https://www.atlassian.com/work-management/project-management)
-    
-    [Agile](https://www.atlassian.com/agile)
-    
-    [Community](https://www.atlassian.com/community)
-    
-    [Get Started](https://www.atlassian.com/get-started)
-    
-    [Project Collaboration](https://www.atlassian.com/work-management/project-collaboration)
-    
-    [Team Playbook](https://www.atlassian.com/team-playbook)
-    
-    [Product Documentation](https://confluence.atlassian.com/display/ALLDOC/Atlassian+Documentation)
-    
-    Back
-    
-* [Enterprise](https://www.atlassian.com/enterprise)
+Project and issue tracking](https://www.atlassian.com/software/jira)
 
-* More +
-* Less -
+[![Confluence](https://wac-cdn.atlassian.com/dam/jcr:5d1374c2-276f-4bca-9ce4-813aba614b7a/confluence-icon-gradient-blue.svg?cdnVersion=1571)
 
-Back
+### Confluence
 
-* * *
+Content collaboration](https://www.atlassian.com/software/confluence)
 
-* * *
+[![Jira Service Management](https://wac-cdn.atlassian.com/dam/jcr:8e0905be-0ee7-4652-ba3a-4e3db1143969/jira%20service%20desk-icon-gradient-blue.svg?cdnVersion=1571)
 
- [![Atlassian logo](/assets/img/icons/imkt/imkt-navbar__charlie-logo.svg?cdnVersion=1733)](https://www.atlassian.com/ "Visit the Atlassian homepage")[Legal](https://www.atlassian.com/legal)
+### Jira Service Management
+
+High-velocity ITSM](https://www.atlassian.com/software/jira/service-management)
+
+[![Trello](https://wac-cdn.atlassian.com/dam/jcr:b32a598a-e04e-4f21-a1b2-9f9096e58e40/trello-icon-gradient-blue.svg?cdnVersion=1571)
+
+### Trello
+
+Visual project management](https://trello.com/home)
+
+[View all products](https://www.atlassian.com/software)
+
+[### Marketplace
+
+Connect thousands of apps and integrations for all your Atlassian products](https://marketplace.atlassian.com/)
+
+* WHAT’S NEW
+    ----------
+    
+    [![Compass logo](https://wac-cdn.atlassian.com/dam/jcr:31d82122-14a3-4e28-9488-29fd5a58b6e3/compass-mark-gradient-blue.svg?cdnVersion=1571)
+    
+    ### Compass
+    
+    Developer Experience Platform](https://www.atlassian.com/software/compass)[![Jira Product Discovery logo](https://wac-cdn.atlassian.com/dam/jcr:05f55171-7d89-4cf9-85a5-2f332e084e06/Jira%20Product%20Discovery-icon-blue.svg?cdnVersion=1571)
+    
+    ### Jira Product Discovery
+    
+    Prioritization and roadmapping](https://www.atlassian.com/software/jira/product-discovery)
+    
+    [View all](https://www.atlassian.com/point-a)
+    
+* You might find helpful
+    ----------------------
+    
+    [![Map icon](https://wac-cdn.atlassian.com/dam/jcr:7511891f-68f3-47af-b3ec-446743df8b5d/Map.svg?cdnVersion=1571)
+    
+    Cloud Product Roadmap](https://www.atlassian.com/roadmap/cloud)[![Cloud Checkmark icon](https://wac-cdn.atlassian.com/dam/jcr:2adf49b9-7b72-49d5-a87a-787eb0ce6f38/CloudCheckmark.svg?cdnVersion=1571)
+    
+    Atlassian Migration Program](https://www.atlassian.com/migration)
+    
+
+[Close dropdown](#)
+
+[Solutions](#)
+
+Featured
+--------
+
+[### Work Management
+
+Manage projects and align goals across all teams to achieve deliverables](https://www.atlassian.com/solutions/work-management)
+
+[### IT Service Management
+
+Enable dev, IT ops, and business teams to deliver great service at high velocity](https://www.atlassian.com/solutions/itsm)
+
+[### Agile & DevOps
+
+Run a world-class agile software organization from discovery to delivery and operations](https://www.atlassian.com/solutions/devops)
+
+BY TEAM SIZE
+------------
+
+[Enterprise](https://www.atlassian.com/enterprise)[Small Business](https://www.atlassian.com/software/small-business)[Startup](https://www.atlassian.com/software/startups)[Non-profit](https://www.atlassian.com/teams/nonprofits)
+
+BY TEAM FUNCTION
+----------------
+
+[Software Development](https://www.atlassian.com/teams/software-development)[IT](https://www.atlassian.com/teams/it)[Finance](https://www.atlassian.com/teams/finance)[Marketing](https://www.atlassian.com/teams/marketing)[HR](https://www.atlassian.com/teams/hr)
+
+BY INDUSTRY
+-----------
+
+[Retail](https://www.atlassian.com/industries/retail)[Telecommunications](https://www.atlassian.com/industries/telecom)[Professional Services](https://www.atlassian.com/industries/professional-services)[Government](https://www.atlassian.com/government)
+
+* What's new
+    ----------
+    
+    [### Atlassian Together
+    
+    Get Atlassian work management products in one convenient package for enterprise teams.
+    
+    Learn more](https://www.atlassian.com/solutions/work-management/together)
+    
+* You might find helpful
+    ----------------------
+    
+    [![](https://wac-cdn.atlassian.com/dam/jcr:a2fe31de-ed4d-4900-8adc-ee8c84717e66/SecurityCheckmark.svg?cdnVersion=1571)
+    
+    Atlassian Trust & Security](https://www.atlassian.com/trust)[![](https://wac-cdn.atlassian.com/dam/jcr:2ce93988-9393-41a6-acce-b98827c800c6/Building.svg?cdnVersion=1571)
+    
+    Customer Case Studies](https://www.atlassian.com/customers)
+    
+
+[Close dropdown](#)
+
+[Resources](#)
+
+Learn
+-----
+
+[Atlassian University](https://university.atlassian.com/)[Atlassian Playbook](https://www.atlassian.com/team-playbook)[Product Documentation](https://confluence.atlassian.com/display/ALLDOC/Atlassian+Documentation)[Developer Resources](https://developer.atlassian.com/)
+
+Support
+-------
+
+[Atlassian Community](https://www.atlassian.com/community)[Atlassian Support](https://support.atlassian.com/)[Atlassian Migration Program](https://www.atlassian.com/migration)[Enterprise Services](https://www.atlassian.com/enterprise/services)[Partner Support](https://www.atlassian.com/partners)[Purchasing & Licensing](https://www.atlassian.com/licensing/purchase-licensing)
+
+Connect
+-------
+
+[About us](https://www.atlassian.com/company)[Careers](https://www.atlassian.com/company/careers)[Work Life Blog](https://www.atlassian.com/blog)[Events](https://www.atlassian.com/company/events)
+
+* What's new
+    ----------
+    
+    [![](https://wac-cdn.atlassian.com/dam/jcr:175bb96f-63a8-4b66-bd94-a3e5ea7e7d1d/Social%20Unleash%20193x122.png?cdnVersion=1571)](https://events.atlassian.com/unleash?ref=Unleash&utm_source=marketing&utm_campaign=acquisition&utm_content=global_subnav&utm_medium=web)
+    
+    [### Atlassian Presents: Unleash
+    
+    Product updates, hands-on training, and technical demos – catch all that and more at our biggest agile & DevOps event.
+    
+    Watch now](https://events.atlassian.com/unleash?ref=Unleash&utm_source=marketing&utm_campaign=acquisition&utm_content=global_subnav&utm_medium=web)
+    
+
+[Close dropdown](#)
+
+* [Support](https://www.atlassian.com/company)
+
+* [View all products](https://www.atlassian.com/software)
+* [Atlassian.com](https://www.atlassian.com/)
+
+[Search](#)
+
+[Toggle menu](#)
+
+Search atlassian.com 
+
+ [Close search](#)
+
+ [![Atlassian logo](/assets/img/icons/imkt/imkt-navbar__charlie-logo.svg?cdnVersion=1571)](https://www.atlassian.com/ "Visit the Atlassian homepage")[Legal](https://www.atlassian.com/legal)
 
 * [Legal information](https://www.atlassian.com/legal)
 * [Privacy Policy](https://www.atlassian.com/legal/privacy-policy)
@@ -301,7 +191,7 @@ Back
 Privacy Policy
 ==============
 
-_Effective starting: May 17, 2024_ ([view archived versions](https://www.atlassian.com/legal/archives))
+_Effective starting: April 1, 2024_ ([view archived versions](https://www.atlassian.com/legal/archives))
 
 What this policy covers
 -----------------------
@@ -327,7 +217,7 @@ Your privacy is important to us, and so is being transparent about how we collec
 * [Additional disclosures for California residents](#additional-disclosures-for-ca-residents)
     
 
-This Privacy Policy covers the information we collect about you when you use our products or services, or otherwise interact with us (for example, by attending our premises or events or by communicating with us), unless a different policy is displayed. For information about how we process applicant and former employee data, please see the [Atlassian Careers Privacy Notice](https://www.atlassian.com/legal/careers-privacy-notice) or the [Former Workplace Privacy Notice](https://www.atlassian.com/legal/formerworkforceprivacynotice). For information about how we process information submitted in a voluntary demographic survey during the application process, see our [Demographic Survey Privacy Notice](https://www.atlassian.com/legal/diversity-survey-privacy-notice). Atlassian, we and us refers to Atlassian Pty Ltd, Atlassian US, Inc. and any of our corporate affiliates. We offer a wide range of products, [including our cloud, server and data center products](https://www.atlassian.com/software).  We refer to all of these products, together with our other services and websites as "Services" in this policy.    
+This Privacy Policy covers the information we collect about you when you use our products or services, or otherwise interact with us (for example, by attending our premises or events or by communicating with us), unless a different policy is displayed. For information about how we process applicant and former employee data, please see the [Atlassian Careers Privacy Notice](https://www.atlassian.com/legal/careers-privacy-notice) or the [Former Workplace Privacy Notice](https://www.atlassian.com/legal/formerworkforceprivacynotice). For information about how we process information submitted in a voluntary diversity survey, see our [Diversity Survey Privacy Notice](https://www.atlassian.com/legal/diversity-survey-privacy-notice). Atlassian, we and us refers to Atlassian Pty Ltd, Atlassian US, Inc. and any of our corporate affiliates. We offer a wide range of products, [including our cloud, server and data center products](https://www.atlassian.com/software).  We refer to all of these products, together with our other services and websites as "Services" in this policy.    
 
 This policy also explains your choices surrounding how we use information about you, which include how you can object to certain uses of information about you and how you can access and update certain information about you.  **If you do not agree with this policy, do not access or use our Services or interact with any other aspect of our business**.  
 
@@ -490,7 +380,7 @@ Depending on which jurisdiction you live in, you may have the right to request i
 
 Your request and choices may be limited in certain cases: for example, if fulfilling your request would reveal information about another person, or if you ask to delete information which we or your administrator are permitted by law or have compelling legitimate interests to keep.  Where you have asked us to disclose data to third parties, for example, by installing third-party apps, you will need to contact those third-party service providers directly to have your information deleted or otherwise restricted.  If you have unresolved concerns, you may have the right to complain to a data protection authority in the country where you live, where you work or where you feel your rights were infringed. Where applicable under local law, you may also contact us as provided in the “Contact Us” section below to appeal any decision we make relating to your request to exercise your rights.
 
-_**Access and update your information**_: Our Services and related documentation (see [Atlassian Documentation](https://support.atlassian.com/atlassian-account/docs/update-your-profile-and-visibility-settings/), [Trello Help](https://support.atlassian.com/trello/docs/my-trello-account/), and [Loom Documentation](https://support.loom.com/hc/en-us/articles/360003473338-How-to-edit-your-personal-account-settings)) give you the ability to access and update certain information about you from within the Service. For example, you can access your profile information from your account and search for content containing information about you using key word searches in the Service.  You can update your profile information within your profile settings and modify content that contains information about you using the editing tools associated with that content.
+_**Access and update your information**_: Our Services and related documentation (see [Atlassian Documentation](https://support.atlassian.com/atlassian-account/docs/update-your-profile-and-visibility-settings/), [Trello Help](https://support.atlassian.com/trello/docs/my-trello-account/), and [Loom Documentation](https://www.loom.com/account-settings)) give you the ability to access and update certain information about you from within the Service. For example, you can access your profile information from your account and search for content containing information about you using key word searches in the Service.  You can update your profile information within your profile settings and modify content that contains information about you using the editing tools associated with that content.
 
 _**Deactivate your account**_:   If you no longer wish to use our Services, you or your administrator may be able to deactivate your Services account. If you can deactivate your own account, that setting is available to you in your account settings. Otherwise, please contact your administrator. If you are an administrator and are unable to deactivate an account through your administrator settings, please contact the appropriate support team through [Atlassian](https://support.atlassian.com/)’s support pages.  Please be aware that deactivating your account does not delete your information; your information remains visible to other Service users based on your past participation within the Services.  For more information on how to delete your information, see below.  
 
@@ -525,9 +415,14 @@ _**International transfers to third parties**_: Some of the third parties descri
 
 On July 10, 2023, the European Commission’s adequacy decision for the EU-U.S. Data Privacy Framework (EU-U.S. DPF) entered into force.
 
-Atlassian, Inc. and its U.S. subsidiaries (Atlassian Network Service, Inc., Dogwood Labs, Inc., AgileCraft LLC, Halp, Inc., Loom, Inc., Opsgenie, Inc., and Trello, Inc.) adhere to the Data Privacy Framework Principles regarding the collection, use, and retention of personal data that is transferred from the European Union and Switzerland to the U.S. 
+  
+Atlassian, Inc. and its U.S. subsidiaries (Atlassian Network Service, Inc., Dogwood Labs, Inc., AgileCraft LLC, Loom, Inc., Opsgenie, Inc., and Trello, Inc.) adhere to the Data Privacy Framework Principles regarding the collection, use, and retention of personal data that is transferred from the European Union and Switzerland to the U.S. 
 
-Atlassian complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce. Atlassian has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union and the United Kingdom in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF.  Atlassian has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF.  If there is any conflict between the terms in this privacy policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the DPF Principles shall govern. To learn more about the Data Privacy Framework Program, please visit the Data Privacy Framework Program website [here](https://www.dataprivacyframework.gov/). To view Atlassian’s certifications, search for “Atlassian” in the Data Privacy Framework List.
+Atlassian, Inc. has self-certified its commitment to comply with the EU-U.S. DPF Principles and relies on the European Commission’s adequacy decision for the EU-U.S. DPF to receive personal data transfers from the European Union/European Economic Area.
+
+Atlassian, Inc. has self-certified its commitment to comply with the UK Extension to the EU-U.S. DPF, and relies on the UK Extension to the EU-U.S. DPF to receive personal data transfers from the United Kingdom (and Gibraltar).
+
+To view Atlassian’s certifications, please visit [this page](http://www.dataprivacyframework.gov/) and search for ”Atlassian” and “Loom”.
 
 As required under the principles, when we receive information under the Data Privacy Framework and then transfer it to a third-party service provider acting as an agent on our behalf, we have certain liability under the Data Privacy Framework if the agent processes the information in a manner inconsistent with the Data Privacy Framework and we are responsible for the event giving rise to the damage.
 
@@ -640,10 +535,6 @@ E-Mail: [ukrepresentative@atlassian.com](mailto:ukrepresentative@atlassian.com)
 Key Changes
 -----------
 
-**Effective May 17, 2024**
-
-We have updated the section Data Privacy Framework Notice as part of our Data Privacy Framework certification.
-
 **Effective April 1, 2024**
 
 We have incorporated Loom into the Privacy Policy.  
@@ -701,72 +592,94 @@ Subscribe to receive notifications from us about updates to our legal terms (inc
 
 [Sign up for updates](https://privacy.atlassian.net/servicedesk/customer/portal/1/group/1/create/39)
 
-![](https://wac-cdn.atlassian.com/dam/jcr:9c4bf443-5045-4ff9-a48d-36ae466f3ced/logos-atlassian-mini-icon-onecolor-blue.svg?cdnVersion=1733)
+[![Atlassian](https://wac-cdn.atlassian.com/dam/jcr:bec8148d-b7dc-493f-bbba-7519b0637581/logos-atlassian-logo-gradient-horizontal-neutral.svg?cdnVersion=1571)](https://www.atlassian.com/)
 
-[Company](https://www.atlassian.com/company)
+### Products
 
-[Careers](https://www.atlassian.com/company/careers)
+* [Jira Software](https://www.atlassian.com/software/jira)
+    
+* [Jira Align](https://www.atlassian.com/software/jira/align)
+    
+* [Jira Service Management](https://www.atlassian.com/software/jira/service-management)
+    
+* [Jira Work Management](https://www.atlassian.com/software/jira/work-management)
+    
+* [Jira Product Discovery](https://www.atlassian.com/software/jira/product-discovery)
+    
+* [Confluence](https://www.atlassian.com/software/confluence)
+    
+* [Trello](https://trello.com/home)
+    
+* [Bitbucket](https://www.atlassian.com/software/bitbucket)
+    
+* [View all products](https://www.atlassian.com/software)
+    
 
-[Work Life blog](https://atlassian.com/blog)
+### Resources
 
-[Investor Relations](https://investors.atlassian.com/)
+* [Technical Support](https://support.atlassian.com/)
+    
+* [Purchasing & licensing](https://www.atlassian.com/licensing/purchase-licensing)
+    
+* [Atlassian Community](https://community.atlassian.com/)
+    
+* [Knowledge base](https://confluence.atlassian.com/kb)
+    
+* [Marketplace](https://marketplace.atlassian.com/)
+    
+* [My Account](https://my.atlassian.com/products/index)
+    
+* [Create support ticket](https://support.atlassian.com/contact/)
+    
 
-[Atlassian Foundation](https://www.atlassianfoundation.org/)
+### Expand & Learn
 
-[Contact us](https://www.atlassian.com/company/contact)
+* [Partners](https://www.atlassian.com/partners)
+    
+* [Training & Certification](https://www.atlassian.com/university)
+    
+* [Documentation](https://confluence.atlassian.com/display/ALLDOC/Atlassian+Documentation)
+    
+* [Developer Resources](https://www.atlassian.com/developers)
+    
+* [Enterprise services](https://www.atlassian.com/enterprise/services)
+    
+* [View all resources](https://www.atlassian.com/resources)
+    
 
-##### products
+### About Atlassian
 
-[Jira](https://www.atlassian.com/software/jira)
+* [Company](https://www.atlassian.com/company)
+    
+* [Careers](https://www.atlassian.com/company/careers)
+    
+* [Events](https://www.atlassian.com/company/events)
+    
+* [Blogs](https://www.atlassian.com/blog)
+    
+* [Atlassian Foundation](https://www.atlassianfoundation.org/)
+    
+* [Investor Relations](https://investors.atlassian.com/)
+    
+* [Trust & Security](https://www.atlassian.com/trust)
+    
 
-[Jira Align](https://www.atlassian.com/software/jira/align)
+* [Contact us](https://www.atlassian.com/company/contact)
+    
 
-[Jira Service Management](https://www.atlassian.com/software/jira/service-management)
+Choose your language Deutsch English Español Français Italiano 한국어 Magyar Nederlands 日本語 Polski Português русский 中文
 
-[Confluence](https://www.atlassian.com/software/confluence)
+[Privacy policy](https://www.atlassian.com/legal/privacy-policy)
 
-[Trello](https://www.atlassian.com/software/trello)
+[Notice at Collection](https://www.atlassian.com/legal/privacy-policy#additional-disclosures-for-ca-residents)
 
-[Bitbucket](https://bitbucket.org/product)
+[Terms](https://www.atlassian.com/legal/atlassian-customer-agreement)
 
-[See all products](https://www.atlassian.com/software)
-
-##### Resources
-
-[Technical support](https://support.atlassian.com/)
-
-[Purchasing & licensing](https://www.atlassian.com/licensing/purchase-licensing)
-
-[Atlassian Community](https://community.atlassian.com/)
-
-[Knowledge base](https://confluence.atlassian.com/kb)
-
-[Marketplace](https://marketplace.atlassian.com/)
-
-[My account](https://my.atlassian.com/products/index)
-
-[Create support ticket](https://support.atlassian.com/contact/)
-
-##### Learn
-
-[Partners](https://www.atlassian.com/partners)
-
-[Training & certification](https://www.atlassian.com/university)
-
-[Documentation](https://confluence.atlassian.com/display/ALLDOC/Atlassian+Documentation)
-
-[Developer resources](https://www.atlassian.com/developers)
-
-[Enterprise services](https://www.atlassian.com/enterprise/services)
-
-[See all resources](https://www.atlassian.com/resources)
+[Impressum](https://www.atlassian.com/legal/impressum)
 
 Copyright © 2024 Atlassian
 
-[Privacy Policy](https://www.atlassian.com/trust)
-
-[Terms](https://www.atlassian.com/trust)
-
-[Impressum](https://www.atlassian.com/trust)
-
-Choose language Deutsch English Español Français Italiano 한국어 Magyar Nederlands 日本語 Polski Português русский 中文
+* [](https://www.facebook.com/Atlassian "Atlassian on Facebook")
+* [](https://twitter.com/atlassian "Follow us on Twitter")
+* [](https://www.linkedin.com/company/atlassian "Atlassian on LinkedIn")
+* [](https://www.youtube.com/user/GoAtlassian "Atlassian on YouTube")
