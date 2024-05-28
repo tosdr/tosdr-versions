@@ -1,6 +1,6 @@
 * [](https://www.brycewray.com/ "Home page")
 * [About](https://www.brycewray.com/about/ "About me")
-* [Newest post](https://www.brycewray.com/posts/2024/05/hugo-0-126-x-speedy-pages-data/ "The most recently added post on the site")
+* [Newest post](https://www.brycewray.com/posts/2024/04/life-intrudes/ "The most recently added post on the site")
 * [All posts](https://www.brycewray.com/posts/ "Posts")
 * [Search](https://www.brycewray.com/search/ "Site search")
 * [Privacy](https://www.brycewray.com/privacy/ "Privacy policy")
