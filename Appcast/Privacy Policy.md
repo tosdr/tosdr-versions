@@ -1,10 +1,8 @@
-![](https://ws.zoominfo.com/pixel/lxUaNKjbDeMIXSIuozxr)                           
+![](https://ws.zoominfo.com/pixel/lxUaNKjbDeMIXSIuozxr)                           [Skip to content](#content)
 
-[Skip to content](#content)
+[![Appcast Logo](https://www.appcast.io/wp-content/uploads/2020/09/appcast_logo.svg)](https://www.appcast.io/)
 
-[![](https://www.appcast.io/wp-content/uploads/2023/08/appcast-logo.svg)](https://www.appcast.io/)
-
-[![](https://www.appcast.io/wp-content/uploads/2023/08/appcast-logo.svg)](https://www.appcast.io/)
+[![Appcast Logo](https://www.appcast.io/wp-content/uploads/2020/09/appcast_logo.svg)](https://www.appcast.io/)
 
 Solutions
 
@@ -137,9 +135,9 @@ We take data protection seriously and have built our platform using best practic
 
 ### Appcast’s Privacy Policy
 
-**Revised and Effective – April 29, 2024**
+**Revised and Effective – April 4, 2024**
 
-Appcast, Inc. and its subsidiary, Bayard Advertising Agency, Inc. (collectively referred to as “Appcast” or “we” or “us”) is a job advertising technology and recruitment marketing service. We also own and operate several websites (e.g., [www.appcast.io](http://www.appcast.io/ "http://www.appcast.io")).
+Appcast, Inc., and its subsidiary, Bayard Advertising Inc. (collectively referred to as “Appcast” or “we” or “us”) is a job advertising technology and recruitment marketing service. We also own and operate several websites (e.g., [www.appcast.io](http://www.appcast.io/ "http://www.appcast.io/")).
 
 This Privacy Policy describes (i) the types of information we collect when you use our websites (the “websites”), interact with our products, services, or applications (the “Service”) in any manner; (ii) how we use the information we collect; (iii) with whom and why we share it; and (iv) the choices we offer regarding our use of the information. We also describe the measures we take to protect the security of the information and how to contact us about our privacy practices.
 
@@ -308,29 +306,29 @@ If you would like to exercise your rights, please submit a written request via [
 
 [**EEA, UK, and Switzerland Resi****dents**](https://www.appcast.io/privacy-policy/#EU-UK)
 
-If you are a resident of the European Economic Area (EEA), the United Kingdom and Gibraltar (collectively the UK), or Switzerland, please see the section below headed “Transferring Personal Data to the United States” for further information about your privacy rights.
+If you are a resident of the European Economic Area, the United Kingdom, or Switzerland, please see the section below headed “Transferring Personal Data to the United States” for further information about your privacy rights. 
 
 **Transferring Personal Data to The United States**
 
-Appcast is located in the United States. Please be aware that any information you provide to us may be transferred to, processed, or accessed in the United States and other countries in which our service providers are located, and may be subject to United States law or other international law. The privacy and data protection laws in the United States and other countries may not be equivalent to the laws in your country of residence.
+Appcast is located in the United States. Please be aware that any information you provide to us may be transferred to, processed, or accessed in the United States and other countries in which our service providers are located, and may be subject to United States law or other international law. The privacy and data protection laws in the United States and other countries may not be equivalent to the laws in your country of residence. 
 
-When Appcast engages in such transfers of individuals in the EEA, Appcast may rely on (i) Articles 45 to 49 of the GDPR, or (ii) the EU Standard Contractual Clauses for international transfers of personal data. When Appcast engages in such transfers of individuals in the UK, Appcast may rely on (i) Articles 45,46 or 49 of the UK GDPR and Section 17A of the Data Protection Act 2018, or (ii) the EU Standard Contractual Clauses, as amended by the UK International Data Transfer Addendum to the EU Standard Contractual Clauses. When Appcast engages in such transfers of individuals in Switzerland, Appcast may rely on the EU Standard Contractual Clauses, as amended by the Swiss Addendum to the EU Standard Contractual Clauses. In particular, Appcast collects and transfers outside the EEA and UK personal data only: with your consent, to perform a contract with you, or to fulfill a legitimate interest of Appcast in a manner that does not outweigh your rights and freedoms. Appcast endeavors to apply suitable safeguards to protect the privacy and security of your personal data and to use it only consistent with your relationship with Appcast and the practices described in this Privacy Policy.  We acknowledge our liability for such data transfers to third parties.
+When Appcast engages in such transfers of individuals in the EEA, Appcast may rely on (i) Articles 45 to 49 of the GDPR, or (ii) the EU Standard Contractual Clauses for international transfers of personal data. When Appcast engages in such transfers of individuals in the UK, Appcast may rely on (i) Articles 45 and 46 of the UK GDPR and Section 17A of the Data Protection Act 2018, or (ii) the EU Standard Contractual Clauses, as amended by the UK International Data Transfer Addendum to the EU Standard Contractual Clauses. When Appcast engages in such transfers of individuals in Switzerland, Appcast may rely on the EU Standard Contractual Clauses, as amended by the Swiss Addendum to the EU Standard Contractual Clauses. In particular, Appcast collects and transfers outside the EEA and UK personal data only: with your consent, to perform a contract with you, or to fulfill a legitimate interest of Appcast in a manner that does not outweigh your rights and freedoms. Appcast endeavors to apply suitable safeguards to protect the privacy and security of your personal data and to use it only consistent with your relationship with Appcast and the practices described in this Privacy Policy.  We acknowledge our liability for such data transfers to third parties. 
 
-We will always give you an opportunity to choose opt out before your personal data is (1) disclosed to a third party (other than an agent doing work at our direction), or (2) to be used for a purpose that is materially different than that for which it was originally collected or subsequently authorized by you. The only exception to this choice would be where we are required to disclose your personal data pursuant to government or judicial order, law, or regulation to meet national security or law enforcement requirements.
+We will always give you an opportunity to choose opt out before your personal data is (1) disclosed to a third party (other than an agent doing work at our direction), or (2) to be used for a purpose that is materially different than that for which it was originally collected or subsequently authorized by you. The only exception to this choice would be where we are required to disclose your personal data pursuant to government or judicial order, law, or regulation to meet national security or law enforcement requirements. 
 
-Appcast complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce.  Appcast has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union and the United Kingdom in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF.  Appcast has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF.  If there is any conflict between the terms in this privacy policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern. To learn more about the DPF program, and to view our certification, please visit  [https://www.dataprivacyframework.gov/](https://www.dataprivacyframework.gov/)
+Appcast, Inc. complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF) and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce and has certified to the U.S. Department of Commerce that it adheres to the Data Privacy Framework Principles with respect to the processing of personal data received from the European Union and Switzerland in reliance on the Data Privacy Framework (DPF). If there is any conflict between the terms in this privacy policy and the DPF Principles, the DPF Principles shall govern. To learn more about the DPF program, and to view our certification, please visit [https://www.dataprivacyframework.gov/](https://www.dataprivacyframework.gov/ "https://www.dataprivacyframework.gov/"). 
 
-In compliance with the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF, Appcast commits to resolve DPF Principles-related complaints about our collection and use of your personal information. EU, UK, and Swiss individuals with inquiries or complaints regarding our handling of personal data received in reliance on the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF or the Swiss-U.S. DPF should first contact us at [dpo@appcast.io](mailto:dpo@appcast.io) or at 1-800-570-5430, extension 4. We will investigate your complaint, take appropriate action, and report back to you within 45 days.
+In compliance with the EU-U.S. DPF and the Swiss-U.S. DPF, Appcast commits to resolve DPF Principles-related complaints about our collection and use of your personal information. EU and Swiss individuals with inquiries or complaints regarding our handling of personal data received in reliance on the EU-U.S. DPF and the Swiss-U.S. DPF should first contact us at [dpo@appcast.io](mailto:dpo@appcast.io "mailto:dpo@appcast.io") or at 1-800-570-5430, extension 4. We will investigate your complaint, take appropriate action, and report back to you within 45 days. 
 
-If you are not satisfied with our response, Appcast, Inc. has agreed to participate in the dispute resolution procedures in compliance with the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF. Appcast commits to cooperate and comply respectively with the advice of the panel established by the EU data protection authorities (DPAs), the UK Information Commissioner’s Office (ICO) and the Gibraltar Regulatory Authority (GRA), and the Swiss Federal Data Protection and Information Commissioner (FDPIC) with regard to unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S. DPF, and the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF.
+If you are not satisfied with our response, Appcast, Inc. has agreed to participate in the dispute resolution procedures in compliance with the EU-U.S. DPF and the Swiss-U.S. DPF. A resident of the EU whose enquiry has not been satisfactorily addressed may contact either the EU DPAs panel or individual EU DPAs using the information provided at [https://edpb.europa.eu/about-edpb/about-edpb/members\_en](https://edpb.europa.eu/about-edpb/about-edpb/members_en "https://edpb.europa.eu/about-edpb/about-edpb/members_en") to resolve disputes pursuant to the EU-U.S. DPF. A resident of Switzerland whose enquiry has not been satisfactorily addressed may contact the Swiss FDPIC at [https://www.edoeb.admin.ch/edoeb/en/home/deredoeb.html](https://www.edoeb.admin.ch/edoeb/en/home/deredoeb.html "https://www.edoeb.admin.ch/edoeb/en/home/deredoeb.html") to resolve disputes pursuant to the Swiss-U.S. DPF. 
 
-Finally, as a last resort and in limited situations, EU, UK, and Swiss individuals may invoke binding Data Privacy Framework arbitration. To learn more about this mechanism and your eligibility, please visit [https://www.dataprivacyframework.gov/s/article/ANNEX-I-introduction-dpf?tabset-35584=2](https://www.dataprivacyframework.gov/s/article/ANNEX-I-introduction-dpf?tabset-35584=2%22%20\t%20%22_blank)
+Finally, as a last resort and in limited situations, EU and Swiss individuals may invoke binding Data Privacy Framework arbitration. To learn more about this mechanism and your eligibility, please visit [https://www.dataprivacyframework.gov/s/article/ANNEX-I-introduction-dpf?tabset-35584=2](https://www.dataprivacyframework.gov/s/article/ANNEX-I-introduction-dpf?tabset-35584=2%22%20\t%20%22_blank "https://www.dataprivacyframework.gov/s/article/ANNEX-I-introduction-dpf?tabset-35584=2%22%20\t%20%22_blank").  
 
-The Federal Trade Commission has jurisdiction over Appcast’ s compliance with the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF.
+Appcast, Inc. is under the jurisdiction as well as the investigatory and enforcement powers of the U.S. Federal Trade Commission for the purposes of the EU-U.S. DPF and Swiss-U.S. DPF. 
 
 **EU Representative**
 
-Appcast has appointed its parent company, Stepstone GmbH, as its representative in the EU for data protection matters.  In addition to Appcast, you may contact our Data Protection Officer on all issues related to our processing of personal data via email at [heiner.tent@stepstone.com](mailto:heiner.tent@stepstone.com) or via mail at Stepstone GmbH, Mr. Heiner Tent, Völklinger Str. 1, 40219 Düsseldorf, Germany.
+Appcast has appointed its parent company, StepStone GmbH, as its representative in the EU for data protection matters.  In addition to Appcast, you may contact our Data Protection Officer on all issues related to our processing of personal data via email at [heiner.tent@stepstone.com](mailto:heiner.tent@stepstone.com) or via mail at StepStone GmbH, Mr. Heiner Tent, Völklinger Str. 1, 40219 Düsseldorf, Germany. 
 
 **Enforceability; Non-waiver**
 
@@ -344,48 +342,58 @@ If you want to reach our Privacy Team or you have any questions about this Priva
 10 Water Street  
 Lebanon, NH, 03766, USA**
 
-![](https://www.appcast.io/wp-content/uploads/2024/05/footer-10-years@2x.png)
+###### Just Released
 
-We’re celebrating our 10th anniversary. A decade of award-winning programmatic job advertising technology.
+#### 2024 Recruitment  
+Marketing Benchmark  
+Report
 
-[read more](https://www.prweb.com/releases/appcast-marks-a-decade-of-innovation-and-growth-celebrating-10-years-of-leadership-in-recruitment-marketing-302145721.html)
+##### Appcast’s 8th annual Recruitment Marketing Benchmark Report has the data you need to help meet your hiring goals in any economic climate. 
 
-[![](https://www.appcast.io/wp-content/uploads/2024/05/Logo-Primary.svg)](https://www.appcast.io/)
+[Download Now](https://info.appcast.io/whitepaper/2024-recruitment-marketing-benchmark-report?lead_source__n_=Appcast%20Website&utm_medium=Website&utm_source=Website&utm_campaign=&utm_content=&utm_term=)
 
-Keep up to date with all the latest from Appcast:
-
-[](https://www.linkedin.com/company/appcast-io/)
-
-[](https://www.instagram.com/appcastinc)
-
-[](https://www.facebook.com/appcast.io/)
-
-[](https://www.youtube.com/channel/UCWBYkHfhXajj7vFSRc6VFEw)
-
-[](https://twitter.com/appcast_io)
-
-get in touch
+##### CONTACT
 
 * [contact@appcast.io](mailto:contact@appcast.io)
 * [1 (800) 570-5430](tel:%201%20(800)%20570-5430)
 
-partners
+##### FOLLOW US
+
+* [X.com](https://twitter.com/appcast_io)
+* [LinkedIn](https://www.linkedin.com/company/appcast-io/)
+* [Facebook](https://www.facebook.com/appcast.io/)
+* [Instagram](https://www.instagram.com/appcastinc)
+* [YouTube](https://www.youtube.com/channel/UCWBYkHfhXajj7vFSRc6VFEw)
+
+##### PARTNERS
 
 * [Our Partners](https://www.appcast.io/partners/)
 * [ATS & CRM](https://www.appcast.io/partners/ats-and-crm/)
 * [Job Sites](https://www.appcast.io/partners/jobsites/)
 * [Agencies](https://www.appcast.io/partners/solutions-for-agencies/)
-* [Login](https://xcelerate.appcast.io/user_sessions/new)
 
-* [Privacy Policy](https://www.appcast.io/privacy-policy/)
-* [Anti-Slavery Policy](https://www.appcast.io/legal/#anti-slavery-policy)
-* [Sitemap](https://www.appcast.io/sitemap/)
-* [Legal](https://www.appcast.io/legal/)
-* [Do not sell or share my  
-    personal information](https://www.appcast.io/appcast-privacy-webform/)
+[Log In](https://xcelerate.appcast.io/user_sessions/new)
 
-[![](https://www.appcast.io/wp-content/uploads/2024/05/Logo-Primary.svg)](https://www.appcast.io/)
+[PRIVACY](https://www.appcast.io/privacy-policy/)
 
-[Web design by Something Familiar](https://somethingfamiliar.co.uk/)
+[LEGAL](https://www.appcast.io/legal/)
+
+[SITEMAP](https://www.appcast.io/sitemap/)
+
+[Log In](https://xcelerate.appcast.io/user_sessions/new)
+
+[PRIVACY](https://www.appcast.io//privacy-policy/)
+
+[LEGAL](https://www.appcast.io/legal/)
+
+[SITEMAP](https://www.appcast.io//sitemap/)
+
+[Log In](https://xcelerate.appcast.io/user_sessions/new)
+
+Web design by
+
+[![Something Familiar](https://www.appcast.io/wp-content/uploads/2020/09/Something-Familiar-_-Design-Studio-Bristol-0-4.svg)](https://www.somethingfamiliar.co.uk/)
 
 © 2024 Appcast All Rights Reserved
+
+[Do Not Sell or Share my Personal Information](https://www.appcast.io/appcast-privacy-webform)
