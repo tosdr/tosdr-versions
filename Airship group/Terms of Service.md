@@ -36,7 +36,7 @@
     * [Performance Analytics](https://www.airship.com/platform/app-experience-platform/performance-analytics/)
     * [Real-Time Data Streaming](https://www.airship.com/platform/app-experience-platform/real-time-data-streaming/)
     
-    ![](https://www.airship.com/wp-content/uploads/2024/04/Screenshot-2023-06-01-at-2.44.24-PM-1-1.jpg)
+    ![](https://www.airship.com/wp-content/uploads/2024/04/Screenshot-2023-06-01-at-2.44.24-PM-1.jpg)
     
     Find out why and how to master MAX. And make life better with better mobile app experiences.
     
@@ -86,7 +86,6 @@
     * [About Airship](https://www.airship.com/company)
     * [Leadership](https://www.airship.com/company/leadership/)
     * [Events](https://www.airship.com/company/events/)
-    * [Mobile Leaders Forum](https://www.airship.com/mobile-leaders-forum-2024/)
     * [Careers](https://www.airship.com/company/careers/)
     * [Newsroom](https://www.airship.com/company/newsroom/)
     * [Contact Us](https://www.airship.com/contact-us)
