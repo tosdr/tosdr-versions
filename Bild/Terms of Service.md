@@ -42,32 +42,22 @@ Menü
 
 * [Berlin](https://www.bild.de/regional/berlin/berlin-regional/home-15823246.bild.html)
 * [Bremen](https://www.bild.de/regional/bremen/bremen-regional/home-16292312.bild.html)
-* [Bremerhaven](https://www.bild.de/regional/bremerhaven/home-vgj2JegftC8nPDIVWrmI)
 * [Chemnitz](https://www.bild.de/regional/chemnitz/chemnitz-regional/home-chemnitz-22539154.bild.html)
-* [Dortmund](https://www.bild.de/regional/dortmund/home-tEfE9FBcspDqbA9qV8Aj)
 * [Dresden](https://www.bild.de/regional/dresden/dresden-regional/home-16327670.bild.html)
 * [Düsseldorf](https://www.bild.de/regional/duesseldorf/duesseldorf-regional/home-16337628.bild.html)
-* [Essen](https://www.bild.de/regional/essen/home-oT8utEZvydYfTwFhRLD3)
 * [Frankfurt](https://www.bild.de/regional/frankfurt/frankfurt-regional/home-16342404.bild.html)
-* [Halle](https://www.bild.de/regional/halle/home-QFfdMl57JCWZY1WqT2hu)
 * [Hamburg](https://www.bild.de/regional/hamburg/hamburg-regional/home-16344102.bild.html)
 * [Hannover](https://www.bild.de/regional/hannover/hannover-regional/home-16344348.bild.html)
-* [Kiel](https://www.bild.de/regional/kiel/home-wBbzo0qvaDw8tcg5Qfr4)
 * [Köln](https://www.bild.de/regional/koeln/koeln-regional/home-16344378.bild.html)
 * [Leipzig](https://www.bild.de/regional/leipzig/leipzig-regional/startseite-16675698.bild.html)
-* [Lübeck](https://www.bild.de/regional/luebeck/home-yzcLW3eEcUyoTAtQNlAK)
-* [Magdeburg](https://www.bild.de/regional/magdeburg/home-2H0BFHdgnJ0Fh9otEPDv)
-* [Mainz](https://www.bild.de/regional/mainz/home-Z1txRuKqY7vBcKdlekHh)
+* [Meck-Pomm](https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern/home-62716054.bild.html)
 * [München](https://www.bild.de/regional/muenchen/muenchen-regional/home-16344438.bild.html)
-* [Nordsee](https://www.bild.de/regional/nordsee/home-otnBBVvz3VWQ7Ce7Z2oc)
 * [Nürnberg](https://www.bild.de/regional/nuernberg/nuernberg-regional/home-51164870.bild.html)
-* [Ostsee](https://www.bild.de/regional/ostsee/home-O1xq8oqQGpREURRHzcKl)
-* [Potsdam](https://www.bild.de/regional/potsdam/home-CIvtf1nPSufBzH0LdS5X)
-* [Rostock](https://www.bild.de/regional/rostock/home-iUxyyKsPlfCRTtIBo8zG)
 * [Ruhrgebiet](https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-regional/home-16344468.bild.html)
-* [Schwerin](https://www.bild.de/regional/schwerin/home-GC92it996TGnsT7PnZif)
+* [Saarland](https://www.bild.de/regional/saarland/saarland/home-35454542.bild.html)
+* [Sachsen-Anhalt](https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt/home-54527072.bild.html)
 * [Stuttgart](https://www.bild.de/regional/stuttgart/stuttgart-regional/home-16344498.bild.html)
-* [Sylt](https://www.bild.de/regional/sylt/home-oW0k4HPjKp0pbPVyUg33)
+* [Thüringen](https://www.bild.de/regional/thueringen/thueringen-regional/home-56970326.bild.html)
 
 * * *
 
@@ -150,7 +140,6 @@ Menü
 * [GetYourGuide Gutschein](https://gutscheine.bild.de/gutscheine/getyourguide)
 * [Autodoc Gutschein](https://gutscheine.bild.de/gutscheine/autodoc)
 * [Fressnapf Gutschein](https://gutscheine.bild.de/gutscheine/fressnapf)
-* [Dating & Singlebörsen](https://www.bild.de/dating/)
 
 * [Verbraucherportal](https://www.bild.de/ratgeber/leben-und-wissen-verbraucherportal/leben-und-wissen/das-bild-verbraucherportal-41002524.bild.html)
 * [Mein Geld](https://www.bild.de/geld/mein-geld/mein-geld/mein-geld-46332734.bild.html)
@@ -167,8 +156,6 @@ Menü
 * [BILD Kindergesundheitsgipfel](https://www.bild.de/ratgeber/gesundheit/kinder/bild-kindergesundheitsgipfel-83891608.bild.html)
 * [BILD Vorsorgegipfel](https://www.bild.de/ratgeber/bild-vorsorgegipfel/gesundheit/deutschland-sorgt-vor-77772934.bild.html)
 * [BILD Herzgipfel](https://www.bild.de/ratgeber/gesundheit/bild-herzgipfel-30ZW52dWRsfwdXQtdMe1)
-
-* [Serviceportal 50Plus](https://www.bild.de/leben-wissen/gesundheit/serviceportal-50Plus-miSYfgKr0Nem9mmOkBTP)
 
 * [Autobild.de](https://www.autobild.de/)
 * [Führerscheintest](https://fahrschule.bild.de/)
@@ -200,28 +187,6 @@ Menü
 4. AGB
     ===
     
-
-[BreakingNews
-
-Blitzeinschläge am Dresdner Elbufer! Zehn Verletzte, zwei Menschen reanimiert
-
-Blitzeinschläge am Dresdner Elbufer! Zehn Verletzte, zwei Menschen reanimiert
-
-Blitzeinschläge am Dresdner Elbufer! Zehn Verletzte, zwei Menschen reanimiert
-
-Blitzeinschläge am Dresdner Elbufer! Zehn Verletzte, zwei Menschen reanimiert
-
-Blitzeinschläge am Dresdner Elbufer! Zehn Verletzte, zwei Menschen reanimiert
-
-Blitzeinschläge am Dresdner Elbufer! Zehn Verletzte, zwei Menschen reanimiert
-
-Blitzeinschläge am Dresdner Elbufer! Zehn Verletzte, zwei Menschen reanimiert
-
-Blitzeinschläge am Dresdner Elbufer! Zehn Verletzte, zwei Menschen reanimiert
-
-Blitzeinschläge am Dresdner Elbufer! Zehn Verletzte, zwei Menschen reanimiert
-
-Blitzeinschläge am Dresdner Elbufer! Zehn Verletzte, zwei Menschen reanimiert](https://www.bild.de/regional/dresden/unwetter-zehn-verletzte-nach-blitzeinschlaegen-in-dresden-664b75cc1e258259cdd315f8)
 
 ![](https://bild.met.vgwort.de/na/vgzm.2150080-5d2dc01ff1d2cd00016421a8)
 
