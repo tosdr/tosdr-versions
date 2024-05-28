@@ -14,7 +14,7 @@ Information
 
 Units
 
-![](https://assets-global.website-files.com/5c68622246b367adf6f3041d/65e2f5e1061034866950fec6_Units-Armada_24.webp)
+![](https://assets-global.website-files.com/5c68622246b367adf6f3041d/65e2f5e1061034866950fec6_Units-Armada_24.png)
 
 Armada
 
@@ -30,7 +30,7 @@ CORTEX
 
 [Bots](https://www.beyondallreason.info/units/cortex-bots)[Vehicles](https://www.beyondallreason.info/units/cortex-vehicles)[Aircraft](https://www.beyondallreason.info/units/cortex-aircraft)[Ships](https://www.beyondallreason.info/units/cortex-ships)[Hovercraft](https://www.beyondallreason.info/units/cortex-hovercraft)[Factories](https://www.beyondallreason.info/units/cortex-factories)[Defenses](https://www.beyondallreason.info/units/cortex-defense-buildings)[Buildings](https://www.beyondallreason.info/units/cortex-buildings)
 
-![](https://assets-global.website-files.com/5c68622246b367adf6f3041d/65e2f5e107c381b94f5aded7_Units-Cortex_24.webp)
+![](https://assets-global.website-files.com/5c68622246b367adf6f3041d/65e2f5e107c381b94f5aded7_Units-Cortex_24.png)
 
 Cortex
 
