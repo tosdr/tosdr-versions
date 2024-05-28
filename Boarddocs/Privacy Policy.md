@@ -288,8 +288,6 @@ You may request a copy of this Privacy Policy from us using the contact details 
 
 If we materially change this Privacy Policy, we will notify you of the changes. Where changes to this Privacy Policy will have a fundamental impact on the nature of the processing or otherwise have a substantial impact on you, we will give you sufficient advance notice so that you have the opportunity to exercise your rights (e.g., to object to the processing).
 
-Last updated: April 18, 2024
-
 ![Diligent](/_next/image?url=%2Flogo%2Fdiligent_logo_reversed_rgb.svg&w=384&q=75)
 
 ### SolutionsSolutions
