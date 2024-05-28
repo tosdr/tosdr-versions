@@ -30,7 +30,7 @@ https://tube.cadence.moe/watch?v=BBBBBBBBBBB
 
 i.e., one URL per line, with no other information on those lines.
 
-[Contact information is here.](https://cadence.moe/contact)
+[Contact information is here.](https://cadence.moe/about/contact)
 
 Please allow 48 hours for a response.
 
