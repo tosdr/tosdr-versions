@@ -66,7 +66,7 @@ Quick Access
 * [![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661436259/ui-library/nav/rebrand-2022/partners-blue.svg)Partners](https://partners.algolia.com/)
 * [![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661429480/ui-library/nav/rebrand-2022/support-blue.svg)Support](https://support.algolia.com/)
 
-* ![globe](https://res.cloudinary.com/hilnmyskv/image/upload/v1715156912/ui-library/nav/rebrand-2022/globe-blue.svg)EnglishFrançaisDeutsch
+* ![globe](https://res.cloudinary.com/hilnmyskv/image/upload/v1711452135/ui-library/nav/rebrand-2022/globe-blue.svg)EnglishFrançaisDeutsch
     
     Eng
     
@@ -79,17 +79,11 @@ We got you covered!
 
 [Brand guidelines](https://algolia.frontify.com/)[Download logo pack](https://www.algolia.com/algolia-logo-pack.zip)
 
-[News:
-
-Join us at Shoptalk Europe 2024
-
-Learn more](https://www.algolia.com/lp/event-shoptalk-europe-2024/)
-
 * [Company](https://www.algolia.com/about/)
 * [Partners](https://partners.algolia.com/)
 * [Support](https://support.algolia.com/)
 
-* ![globe](https://res.cloudinary.com/hilnmyskv/image/upload/v1715156912/ui-library/nav/rebrand-2022/globe-blue.svg)EnglishFrançaisDeutsch
+* ![globe](https://res.cloudinary.com/hilnmyskv/image/upload/v1711452135/ui-library/nav/rebrand-2022/globe-blue.svg)EnglishFrançaisDeutsch
     
     Eng
     
@@ -219,10 +213,10 @@ Unless it is reasonably apparent to Algolia that the applicable subscriber has a
 
 Algolia’s Designated Copyright Agent to receive notifications of claimed copyright infringement is our Head of Legal, Algolia, Inc., with mailing address at 3790 El Camino Real, Unit #518, Palo Alto, CA 94306, United States, email: [abuse@algolia.com](mailto:abuse@algolia.com?subject=Copyright%20infringement).
 
-Get the AI search that shows users what they need
--------------------------------------------------
+Try the AI search that understands
+----------------------------------
 
-[Request demo](https://www.algolia.com/demorequest/)[Get started](https://www.algolia.com/users/sign_up)
+[Get a demo](https://www.algolia.com/demorequest/)[Start free](https://www.algolia.com/users/sign_up)
 
 #### Solutions
 
@@ -242,7 +236,7 @@ Get the AI search that shows users what they need
 
 #### Distributed & secure
 
-[Global infrastructure](https://www.algolia.com/distributed-secure/global-infrastructure/)[Security & compliance](https://www.algolia.com/distributed-secure/security-compliance/)[Azure](https://www.algolia.com/search-solutions/algolia-on-azure/)[AWS](https://www.algolia.com/search-solutions/algolia-on-aws/)
+[Global infrastructure](https://www.algolia.com/distributed-secure/global-infrastructure/)[Security & compliance](https://www.algolia.com/distributed-secure/security-compliance/)[Azure](https://www.algolia.com/search-solutions/algolia-on-azure/)
 
 #### Industries
 
@@ -282,7 +276,7 @@ Get the AI search that shows users what they need
 
 #### Distributed & secure
 
-[Global infrastructure](https://www.algolia.com/distributed-secure/global-infrastructure/)[Security & compliance](https://www.algolia.com/distributed-secure/security-compliance/)[Azure](https://www.algolia.com/search-solutions/algolia-on-azure/)[AWS](https://www.algolia.com/search-solutions/algolia-on-aws/)
+[Global infrastructure](https://www.algolia.com/distributed-secure/global-infrastructure/)[Security & compliance](https://www.algolia.com/distributed-secure/security-compliance/)[Azure](https://www.algolia.com/search-solutions/algolia-on-azure/)
 
 #### Company
 
