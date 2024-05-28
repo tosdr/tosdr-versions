@@ -12,8 +12,6 @@ Shop
 
 Support
 
-Blog
-
 Search
 
 Privacy and Cookie Policy
