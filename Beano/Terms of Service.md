@@ -1,12 +1,12 @@
 [Skip to main content](#content)
 
-* [Visit Beano Shop](https://www.beano.com/external-link-warning-shop?verify=b63bd540ce&to=https%3A%2F%2Fshop.beano.com%2F%3Futm_source%3Dbeano%26utm_campaign%3DCP%26utm_medium%3Dreferral "Visit Beano Shop")
+* [Visit Beano Shop](https://www.beano.com/external-link-warning-shop?verify=6dbe3eb5cc&to=https%3A%2F%2Fshop.beano.com%2F%3Futm_source%3Dbeano%26utm_campaign%3DCP%26utm_medium%3Dreferral "Visit Beano Shop")
 
 Subscribe
 
 Open Search
 
-[![Beano](https://www.beano.com/app/themes/beano/assets/images/logo.svg)](https://www.beano.com/ "Beano")
+[![Beano](https://www.beano.com/wp-content/themes/beano/assets/images/logo.svg)](https://www.beano.com/ "Beano")
 
 * [Home](https://www.beano.com/)
 * [Quizzes](https://www.beano.com/categories/quizzes)
@@ -19,21 +19,21 @@ Open Search
 
 Subscribe to Beano
 
-[![Beano](https://www.beano.com/app/themes/beano/assets/images/logo.svg)](https://www.beano.com/ "Beano")
+[![Beano](https://www.beano.com/wp-content/themes/beano/assets/images/logo.svg)](https://www.beano.com/ "Beano")
 
 Subscribe
 
 Open Search
 
-[![Beano](https://www.beano.com/app/themes/beano/assets/images/burger-menu.svg)](https://www.beano.com/ "Open mobile menu")
+[![Beano](https://www.beano.com/wp-content/themes/beano/assets/images/burger-menu.svg)](https://www.beano.com/ "Open mobile menu")
 
-[![Beano](https://www.beano.com/app/themes/beano/assets/images/burger-menu-close.svg)](https://www.beano.com/ "Close mobile menu")
+[![Beano](https://www.beano.com/wp-content/themes/beano/assets/images/burger-menu-close.svg)](https://www.beano.com/ "Close mobile menu")
 
-[![Beano](https://www.beano.com/app/themes/beano/assets/images/logo.svg)](https://www.beano.com/ "Beano")
+[![Beano](https://www.beano.com/wp-content/themes/beano/assets/images/logo.svg)](https://www.beano.com/ "Beano")
 
-[![Beano](https://www.beano.com/app/themes/beano/assets/images/burger-menu.svg)](https://www.beano.com/ "Open mobile menu")
+[![Beano](https://www.beano.com/wp-content/themes/beano/assets/images/burger-menu.svg)](https://www.beano.com/ "Open mobile menu")
 
-[![Beano](https://www.beano.com/app/themes/beano/assets/images/burger-menu-close.svg)](https://www.beano.com/ "Close mobile menu")
+[![Beano](https://www.beano.com/wp-content/themes/beano/assets/images/burger-menu-close.svg)](https://www.beano.com/ "Close mobile menu")
 
 * [Home](https://www.beano.com/)
 * [Subscribe to comic](https://www.beano.com/subscribe)
@@ -43,7 +43,7 @@ Open Search
 * [Facts](https://www.beano.com/categories/fun-facts)
 * [Comic](https://www.beano.com/categories/beanotown)
 * [Fun Stuff](https://www.beano.com/categories/fun-stuff)
-* [Shop](https://www.beano.com/external-link-warning-shop?verify=b63bd540ce&to=https%3A%2F%2Fshop.beano.com%2F%3Futm_source%3Dbeano%26utm_campaign%3DCP%26utm_medium%3Dreferral)
+* [Shop](https://www.beano.com/external-link-warning-shop?verify=6dbe3eb5cc&to=https%3A%2F%2Fshop.beano.com%2F%3Futm_source%3Dbeano%26utm_campaign%3DCP%26utm_medium%3Dreferral)
 
 * [Home](https://www.beano.com/)
 * [Quizzes](https://www.beano.com/categories/quizzes)
@@ -341,7 +341,7 @@ BEANO and/or third party promoters for the competition may use data supplied by 
 
 Entry into this Competition shall constitute consent to the uses of data contained in these Terms.
 
-If, at any time, entrants no longer wish to be contacted by BEANO, they should contact BEANO in accordance with our privacy policy. BEANO will always use and keep personal data in accordance with its [Privacy Policy](https://www.beano.com/privacy-policy). This outlines the basis on which BEANO will process any personal data it collects from entrants or that entrants provide to BEANO. Please read this carefully and if entrants or their parents/guardians have any questions, or would like to request a paper copy of the policy to be sent to them, contact BEANO at [\[email protected\]](https://www.beano.com/cdn-cgi/l/email-protection).
+If, at any time, entrants no longer wish to be contacted by BEANO, they should contact BEANO in accordance with our privacy policy. BEANO will always use and keep personal data in accordance with its [Privacy Policy](https://www.beano.com/privacy-policy). This outlines the basis on which BEANO will process any personal data it collects from entrants or that entrants provide to BEANO. Please read this carefully and if entrants or their parents/guardians have any questions, or would like to request a paper copy of the policy to be sent to them, contact BEANO at privacy@dcthomson.co.uk.
 
 User Generated Content (UGC)
 ----------------------------
@@ -398,17 +398,15 @@ Whoopee cushion...
 
  
 
-* [Beano Shop](https://www.beano.com/external-link-warning-shop?verify=b63bd540ce&to=https%3A%2F%2Fshop.beano.com%2F%3Futm_source%3Dbeano%26utm_campaign%3DCP%26utm_medium%3Dreferral)
+* [Beano Shop](https://www.beano.com/external-link-warning-shop?verify=6dbe3eb5cc&to=https%3A%2F%2Fshop.beano.com%2F%3Futm_source%3Dbeano%26utm_campaign%3DCP%26utm_medium%3Dreferral)
 * [Subscription Offers](https://www.beano.com/subscribe)
 * [Parent Zone](https://www.beano.com/parent-zone)
 
-[![KidAware Certified](https://www.beano.com/app/themes/beano/assets/images/footer/footer-kidawarelogo.png)](https://www.beano.com/external-link-warning?verify=6f9b39b236&to=https%3A%2F%2Fwww.superawesome.com%2Fkidaware%2F)
+[![KidAware Certified](https://www.beano.com/wp-content/themes/beano/assets/images/footer/footer-kidawarelogo.png)](https://www.beano.com/external-link-warning?verify=3741ef814d&to=https%3A%2F%2Fwww.superawesome.com%2Fkidaware%2F)
 
-[![COPPA - Safe Harbor Certification (Kids' Privacy Assured Privo)](https://www.beano.com/app/themes/beano/assets/images/footer/coppa.png)](https://www.beano.com/external-link-warning?verify=cd18f6b4e3&to=https%3A%2F%2Fcert.privo.com%2F%23%2Fcompanies%2Fbeano_studios)
+[![COPPA - Safe Harbor Certification (Kids' Privacy Assured Privo)](https://www.beano.com/wp-content/themes/beano/assets/images/footer/coppa.png)](https://www.beano.com/external-link-warning?verify=c250d10639&to=https%3A%2F%2Fcert.privo.com%2F%23%2Fcompanies%2Fbeano_studios)
 
-[![GDPR - General Data Protection (Kids' Privacy Assured Privo)](https://www.beano.com/app/themes/beano/assets/images/footer/gdpr.png)](https://www.beano.com/external-link-warning?verify=cd18f6b4e3&to=https%3A%2F%2Fcert.privo.com%2F%23%2Fcompanies%2Fbeano_studios)
-
-[![Kids' Privacy Assured Privo](https://www.beano.com/app/themes/beano/assets/images/footer/seal.png)](https://www.beano.com/external-link-warning?verify=cd18f6b4e3&to=https%3A%2F%2Fcert.privo.com%2F%23%2Fcompanies%2Fbeano_studios)
+[![Kids' Privacy Assured Privo](https://www.beano.com/wp-content/themes/beano/assets/images/footer/seal.png)](https://www.beano.com/external-link-warning?verify=c250d10639&to=https%3A%2F%2Fcert.privo.com%2F%23%2Fcompanies%2Fbeano_studios)
 
 * [Home](https://www.beano.com/)
 * [Quizzes](https://www.beano.com/categories/quizzes)
@@ -423,8 +421,9 @@ Whoopee cushion...
 * [Contact Us](https://www.beano.com/contact-us)
 * [Cookie Policy](https://www.beano.com/cookie-policy)
 * [Terms and Conditions](https://www.beano.com/terms-and-conditions)
-* [Careers](https://www.beano.com/external-link-warning?verify=aa611b615d&to=https%3A%2F%2Fwww.beanostudios.com%2Fcareers)
+* [Careers](https://www.beano.com/external-link-warning?verify=eddca4c742&to=https%3A%2F%2Fwww.beanostudios.com%2Fcareers)
 * [Privacy Policy](https://www.beano.com/privacy-policy)
 * [Update Cookie Preferences](https://www.beano.com/)
+* [![Powered by WordPress.com VIP](https://www.beano.com/wp-content/mu-plugins/vip-helpers/images/vip-powered-light-small.png)](https://www.beano.com/external-link-warning?verify=9311df37d1&to=https%3A%2F%2Fwpvip.com%2F%3Futm_source%3Dvip_powered_wpcom%26amp%3Butm_medium%3Dweb%26amp%3Butm_campaign%3DVIP%2520Footer%2520Credit%26amp%3Butm_term%3Dbeano.com)
 
 Cookie Settings
