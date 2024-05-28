@@ -164,7 +164,6 @@ Email: [\[email protected\]](https://www.applovin.com/cdn-cgi/l/email-protecti
 * [About AppLovin](https://www.applovin.com/about/)
 * [Leadership](https://www.applovin.com/leadership/)
 * [Press](https://www.applovin.com/press/)
-* [Brand Hub](https://www.applovin.com/brand-hub/)
 * [Partners](https://www.applovin.com/partners/)
 * [Studios](https://www.applovin.com/partner-studios/)
 * [Investors](https://investors.applovin.com/)
