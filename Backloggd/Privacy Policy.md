@@ -119,7 +119,7 @@ Last Updated: 07/01/2022
 
 © Backloggd 2024 •
 
-[v1.12.2](https://www.backloggd.com/changelog/)
+[v1.12.1](https://www.backloggd.com/changelog/)
 
 • Powered by
 
