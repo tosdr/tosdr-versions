@@ -476,6 +476,8 @@ IDEPersistent - 1 year.doubleclick.netLinking of anonymous data collected in Goo
 
 latestSecurityAlertPersistent.autotrader.co.ukCookie to determine if the customer has seen the latest security message on the home page which is shown as a yellow strip at the top of the screen. This cookie stops the message being shown continuously.
 
+leasing\_submissionSession/28 Days.autotrader.co.ukUsed to check whether a user has completed the leasing checkout journey in order to check whether to offer a survey based in their experience.
+
 leasing\_has\_viewed\_product\_pagePersistent - 2 hours.autotrader.co.ukUsed to check whether a user has viewed a leasing product page.
 
 leasing\_multiple\_product\_page\_viewsPersistent - 2 hours.autotrader.co.ukUsed to check whether a user has viewed multiple leasing product pages in order to check whether to offer a survey based on their experience.
