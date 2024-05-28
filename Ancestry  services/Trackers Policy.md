@@ -86,56 +86,18 @@ Loading
 
 [](https://www.ancestry.com/)
 
-[English](https://www.ancestry.com/content/ancestry/acom/language-masters/en.html) [Legal](https://www.ancestry.com/content/ancestry/acom/language-masters/en/legal.html) [aboutcookies](https://www.ancestry.com/content/ancestry/acom/language-masters/en/legal/aboutcookies.html) [Ancestry Cookie Policy](https://www.ancestry.com/content/ancestry/acom/language-masters/en/legal/aboutcookies/aboutcookies.html)
+[Legal](http://www.ancestry.com/c/legal) [privacy-center](http://www.ancestry.com/c/legal/privacy-center) [pages](http://www.ancestry.com/c/legal/privacy-center/pages) [Ancestry Cookie Policy](http://www.ancestry.com/c/legal/privacy-center/pages/aboutcookies)
 
 Ancestry Cookie Policy
 ======================
 
-Language
+This Cookie policy describes how Ancestry uses Cookies and other similar technologies in connection with its Services. Any capitalized term used and not otherwise defined below has the meaning assigned to it in our [Privacy Statement](https://www.ancestry.com/c/legal/privacystatement).
 
-* [English](https://www.ancestry.com/c/legal/aboutcookies-en)
-* [Česky](https://www.ancestry.com/c/legal/aboutcookies-cs)
-* [Dansk](https://www.ancestry.com/c/legal/aboutcookies-da)
-* [Deutsch](https://www.ancestry.com/c/legal/aboutcookies-de)
-* [Eesti](https://www.ancestry.com/c/legal/aboutcookies-et)
-* [Español](https://www.ancestry.com/c/legal/aboutcookies-es)
-* [Français](https://www.ancestry.com/c/legal/aboutcookies-fr)
-* [Hrvatski](https://www.ancestry.com/c/legal/aboutcookies-hr)
-* [Íslenska](https://www.ancestry.com/c/legal/aboutcookies-is)
-* [Italiano](https://www.ancestry.com/c/legal/aboutcookies-it)
-* [Latviešu](https://www.ancestry.com/c/legal/aboutcookies-lv)
-* [Lietuvių](https://www.ancestry.com/c/legal/aboutcookies-lt)
-* [Magyar](https://www.ancestry.com/c/legal/aboutcookies-hu)
-* [Malti](https://www.ancestry.com/c/legal/aboutcookies-mt)
-* [Nederlands](https://www.ancestry.com/c/legal/aboutcookies-nl)
-* [Norsk](https://www.ancestry.com/c/legal/aboutcookies-nb)
-* [Polskie](https://www.ancestry.com/c/legal/aboutcookies-pl)
-* [Português](https://www.ancestry.com/c/legal/aboutcookies-pt)
-* [Português (Brasil)](https://www.ancestry.com/c/legal/aboutcookies-pt)
-* [Română](https://www.ancestry.com/c/legal/aboutcookies-ro)
-* [Shqip](https://www.ancestry.com/c/legal/aboutcookies-sq)
-* [Slovenčina](https://www.ancestry.com/c/legal/aboutcookies-sk)
-* [Slovensko](https://www.ancestry.com/c/legal/aboutcookies-sl)
-* [Suomi](https://www.ancestry.com/c/legal/aboutcookies-fi)
-* [Svenska](https://www.ancestry.com/c/legal/aboutcookies-sv)
-* [Türkçe](https://www.ancestry.com/c/legal/aboutcookies-tr)
-* [Ελληνικά](https://www.ancestry.com/c/legal/aboutcookies-el)
-* [Български](https://www.ancestry.com/c/legal/aboutcookies-bg)
-* [Հայերեն](https://www.ancestry.com/c/legal/aboutcookies-hy)
-* [ქართული](https://www.ancestry.com/c/legal/aboutcookies-ka)
-* [한국어](https://www.ancestry.com/c/legal/aboutcookies-ko)
+**What is a Cookie?**  
+Cookies are small text files, stored in your browser or on your hard drive, that allow us to differentiate between you and all our other visitors. Most sites you visit use Cookies to improve your online experience—and we are no different. They help site providers with things like remembering a user’s login details, storing site preferences and understanding how a user interacts with a site.
 
-This Cookie policy describes how Ancestry uses cookies and other similar technologies, such as pixels and local storage objects (which we refer to collectively as “Cookies”) in connection with its Services. Any capitalized term used and not otherwise defined below has the meaning assigned to it in our [Privacy Statement](https://www.ancestry.com/c/legal/privacystatement).
-
-**What is a Cookie?**
----------------------
-
-Cookies are small text files, stored in your browser or on your hard drive, that allow us to differentiate between you and other visitors. Most sites you visit use Cookies to improve your online experience - and we are no different. They help site providers with things like remembering a user’s login details, storing site preferences and understanding how a user interacts with a site.
-
-**How does Ancestry use Cookies?**
-----------------------------------
-
-We use Cookies in accordance with our [Privacy Statement](https://www.ancestry.com/c/legal/privacystatement) to:
+**Does Ancestry use Cookies?**  
+Yes. We use Cookies in accordance with our [Privacy Statement](https://www.ancestry.com/c/legal/privacystatement) to:
 
 * ensure that our Services function properly;
 * detect and prevent fraud;
@@ -144,9 +106,7 @@ We use Cookies in accordance with our [Privacy Statement](https://www.ancestry.c
 * deliver relevant advertising; and
 * analyze and improve Services.
 
-**Who sets Cookies when I use Ancestry’s Services?**
-----------------------------------------------------
-
+**Who sets Cookies when I use Ancestry’s Services?**  
 There are two main types of Cookies that can be set:
 
 * First party Cookies: these Cookies are placed by Ancestry directly when you use our Services. First party Cookies may include Cookies from Service Providers.
@@ -155,76 +115,89 @@ There are two main types of Cookies that can be set:
 There are many benefits to using Cookies. For example, every time you visit our site we can log you in automatically, and remember your preferences. Plus, we can keep you logged in as you move around the site and give you a personal experience.
 
 **What Cookies does Ancestry use?**
------------------------------------
 
 | Categories of Use | Description |
 | --- | --- |
-| **Necessary** | Necessary Cookies are essential for the operation of our Services. These Cookies do things like ensure that your password works and you stay logged in when you move between pages on the website and help the website to remember details like what is in your shopping cart or how far you are through an order. Necessary Cookies cannot be removed or turned off.<br><br>We use those Cookies in a number of different ways, including:<br><br>* Authentication – To remember your login state so you don’t have to log in as you navigate through our websites.<br>* Fraud Prevention and Detection – To help us monitor for and detect potentially harmful or illegal use of our Services.<br>* Security – To protect your data from unauthorized access. |
-| **Analytics** | Analytics Cookies help us understand how users interact with our Services. We use those Cookies to analyze and improve our Services. Analytics Cookies help us understand how people reach our website and they give us insights into improvements or enhancements we need to make to our Services.<br><br>We use them to improve how our site works, understand what interests our users, and measure content effectiveness. |
-| **Advertising** | Advertising Cookies are used to better understand your interests and show you ads from Ancestry and our third-party advertising partners that are more relevant to you. Advertising Cookies may be used to share data with advertisers (also referred to as online behavioral advertising) allowing them to track your activity data across our websites and other sites, which may be used to build a profile of your interests and target content to you across third party sites.<br><br>Advertising Cookies also allow you to share certain pages with social networks (e.g. the “like”, “share” button on our website.)<br><br>These Cookies limit the number of times you see an advertisement. We work with third parties who do this for us and we may, in limited circumstances, also place ads around our related brands’ sites. |
-| **Functional / Preference** | These Cookies allow our site to operate at its best and remember your preferences when you have an account with us (such as your username, language or the region you are in). They also help us to understand how our site is used so that we can measure and improve its performance. |
+| **Necessary** | These Cookies are essential for the operation of our Services. These Cookies do things like ensure that your password works and you stay logged in when you move between pages on the website and help the website to remember details like what is in your shopping cart or how far you are through an order. Necessary Cookies cannot be removed or turned off.<br><br>We use those Cookies in a number of different ways, including:<br><br>* Authentication – To remember your login state so you don’t have to log in as you navigate through our websites.<br>* Fraud Prevention and Detection – Cookies and similar technologies that we deploy through our website help us learn things about computers and web browsers used to access the Services. This information helps us monitor for and detect potentially harmful or illegal use of our Services.<br>* Security – To protect your data from unauthorized access. |
+| **Analytics** | Analytics Cookies help us understand how users interact with our Services. We use those Cookies to analyze and improve our Services. Cookies help us understand how people reach our website and they give us insights into improvements or enhancements we need to make to our Services.<br><br>We use them to improve how our site works, understand what interests our users, and measure content effectiveness. |
+| **Advertising** | Advertising Cookies are used to better understand your interests and show you ads from Ancestry and our third-party advertising partners that are more relevant to you. Advertising Cookies may be used to share data with advertisers (also referred to as online behavioral advertising) so that the ads you see are more relevant to you, including from our partners, and allow you to share certain pages with social networks.<br><br>These Cookies limit the number of times you see an advertisement. We work with third parties who do this for us and we may, in limited circumstances, also place ads around our related brands’ sites. |
+| **Preference** | These Cookies allow our site to operate at its best and remember your preferences when you have an account with us (such as your username, language or the region you are in). They also help us to understand how our site is used so that we can measure and improve its performance. |
 
 **What other tracking technologies are used?**
-----------------------------------------------
 
-| Categories | Description |
+|     |     |
 | --- | --- |
 | **Pixels** | A pixel (a.k.a, web beacons, action tags) is a tiny image that may be found within web pages and emails, requiring a call (which provides device and visit information) to our servers in order for the pixel to be rendered in those web pages and emails. We use pixels to learn more about your interactions with email content or web content, such as whether you opened an email or interacted with ads. Pixels can also allow us and third parties to place Cookies on your browser. |
 | **Local Storage** | Local storage enables a website or application to store information locally on your device(s). Local storage may be used to improve the Ancestry experience, for example, by enabling features, remembering your preferences and speeding up site functionality. |
 | **SDKs** | A software development kit, or SDK, is a downloadable software package used in mobile applications. A typical SDK may contain APIs which are pre-defined pieces of code that help you perform common programming tasks on the platform or other tools that help us do things like debug, build, run, and test our mobile apps. |
 
-**What Cookies does Ancestry use?**
------------------------------------
-
-Ancestry’s Cookies [table](https://www.ancestry.com/c/legal/cookie-table) lists first and third-party Cookies on our sites, together with our partners. Please note that the names of Cookies, pixels and other technologies may change over time and we will update our resources when that happens.
+**What third-party Cookies does Ancestry use?**  
+Ancestry’s Cookies [table](https://www.ancestry.com/c/legal/cookie-table) lists the third-party Cookies on our sites. Please note that the names of Cookies, pixels and other technologies may change over time and we will update our resources when that happens.
 
 **How do I manage my Cookies?**
--------------------------------
 
 * You can use this link to manage your Ancestry Cookie preferences at any time. Depending on your location, you can review and manage your cookie preferences for Know Your Pet DNA, Newspapers.com, and similar Ancestry services by following the Do Not Sell or Share link or GDPR link at the bottom of the website for the relevant service.
-* Alternatively you can set your browser to block Cookies. Please check your browser for instructions on how to do this or follow the instructions below to understand your options. If you choose to disable Cookies, some features of our site and Services may not operate as intended. cookie. Each browser works differently, but here are instructions on how to manage your Cookies, using some of the browsers we support:
-    
-    * [Internet Explorer](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies)
-    * [Safari](https://support.apple.com/en-gb/guide/safari/sfri11471/mac)
-    * [Mozilla Firefox](https://support.mozilla.org/en-US/kb/disable-third-party-cookies)
-    * [Opera](https://help.opera.com/en/latest/web-preferences#cookies)
-    * [Google Chrome](https://support.google.com/chrome/answer/95647?hl=en)
-    * [Brave](https://support.brave.com/hc/en-us/articles/360022806212-How-do-I-use-Shields-while-browsing-)
-    * [Microsoft Edge](https://support.microsoft.com/en-ie/help/4468242/microsoft-edge-browsing-data-and-privacy)
-    
-    * You can use this link to manage your Cookie preferences at any time.
-    * Alternatively you can set your browser to block Cookies. Please check your browser for instructions on how to do this or follow the instructions below to understand your options. If you choose to disable Cookies, some features of our site and Services may not operate as intended. cookie. Each browser works differently, but here are instructions on how to manage your Cookies, using some of the browsers we support :
-        * Internet Explorer – [https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies)
-        * Safari – [https://support.apple.com/en-gb/guide/safari/sfri11471/mac](https://support.apple.com/en-gb/guide/safari/sfri11471/mac)
-        * Mozilla Firefox – [https://support.mozilla.org/en-US/kb/disable-third-party-cookies](https://support.mozilla.org/en-US/kb/disable-third-party-cookies)
-        * Opera – [https://help.opera.com/en/latest/web-preferences#cookies](https://help.opera.com/en/latest/web-preferences#cookies)
-        * Google Chrome – [https://support.google.com/chrome/answer/95647?hl=en](https://support.google.com/chrome/answer/95647?hl=en)
-        * Brave – [https://support.brave.com/hc/en-us/articles/360022806212-How-do-I-use-Shields-while-browsing-](https://support.brave.com/hc/en-us/articles/360022806212-How-do-I-use-Shields-while-browsing-)
-        * Microsoft Edge – [https://support.microsoft.com/en-ie/help/4468242/microsoft-edge-browsing-data-and-privacy](https://support.microsoft.com/en-ie/help/4468242/microsoft-edge-browsing-data-and-privacy)
-    * Third-party opt-out settings available in our [Cookie table](https://www.ancestry.com/c/legal/cookie-table).
-    
-    **Please note**: If you change your browser settings to block all Cookies, or if you switch off certain Cookies, you may not be able to access some or all parts of our site and the site may not work as intended.
-    
-    In addition, if you delete, block or otherwise restrict Cookies, or if you use a different device or internet browser, you may need to renew your preferences again.
-    
-    Generally, you can find out more about Cookies and get advice discovering what Cookies have been set and how you can manage and delete them at [http://www.allaboutCookies.org](http://www.allaboutcookies.org/).
-    
-    **Do-Not-Track Disclosure**
-    ---------------------------
-    
-    Ancestry notes that although we do our best to honor your privacy preferences, and have implemented industry standard safeguards as described above, we do not respond to Do-Not-Track signals from your browser at this time due to the lack of an established industry standard.
-    
-    **Other helpful resources**
-    ---------------------------
-    
-    To learn more about advertisers' use of Cookies we encourage you to view the following:
-    
-    * [https://thenai.org/about-online-advertising/](https://thenai.org/about-online-advertising)
-    * [https://youradchoices.com/control](https://youradchoices.com/control)
-    * [European Interactive Digital Advertising Alliance (EU)](https://www.youronlinechoices.eu/)
-    * [Internet Advertising Bureau (US)](https://www.iab.net/)
-    * [Internet Advertising Bureau (EU)](https://www.iabeurope.eu/)
-    
-    If you have any questions regarding Ancestry’s Cookie Policy please email [\[email protected\]](https://www.ancestry.com/cdn-cgi/l/email-protection).
-    
-    Date of last revision: 23 April 2024
+* Alternatively you can set your browser to block Cookies. Please check your browser for instructions on how to do this or follow the instructions below to understand your options. If you choose to disable Cookies, some features of our site and Services may not operate as intended. cookie. Each browser works differently, but here are instructions on how to manage your Cookies, using some of the browsers we support :
+    * Internet Explorer – [https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies)
+    * Safari – [https://support.apple.com/en-gb/guide/safari/sfri11471/mac](https://support.apple.com/en-gb/guide/safari/sfri11471/mac)
+    * Mozilla Firefox – [https://support.mozilla.org/en-US/kb/disable-third-party-cookies](https://support.mozilla.org/en-US/kb/disable-third-party-cookies)
+    * Opera – [https://help.opera.com/en/latest/web-preferences#cookies](https://help.opera.com/en/latest/web-preferences#cookies)
+    * Google Chrome – [https://support.google.com/chrome/answer/95647?hl=en](https://support.google.com/chrome/answer/95647?hl=en)
+    * Brave – [https://support.brave.com/hc/en-us/articles/360022806212-How-do-I-use-Shields-while-browsing-](https://support.brave.com/hc/en-us/articles/360022806212-How-do-I-use-Shields-while-browsing-)
+    * Microsoft Edge – [https://support.microsoft.com/en-ie/help/4468242/microsoft-edge-browsing-data-and-privacy](https://support.microsoft.com/en-ie/help/4468242/microsoft-edge-browsing-data-and-privacy)
+  
+* Third-party opt-out settings available in our [Cookie table](https://www.ancestry.com/c/legal/cookie-table).
+
+**Please note**: If you change your browser settings to block all Cookies, or if you switch off certain Cookies, you may not be able to access some or all parts of our site and the site may not work as intended.
+
+In addition, if you delete, block or otherwise restrict Cookies, or if you use a different device or internet browser, you will need to renew your preferences again.
+
+Generally, you can find out more about Cookies and get advice discovering what Cookies have been set and how you can manage and delete them at [http://www.allaboutCookies.org](http://www.allaboutcookies.org/).
+
+**Do-Not-Track Disclosure**  
+Ancestry notes that although we do our best to honor your privacy preferences, and have implemented industry standard safeguards as described above, we do not respond to Do-Not-Track signals from your browser at this time due to the lack of an established industry standard.
+
+**Other helpful resources**  
+To learn more about advertisers' use of Cookies we encourage you to view the following:
+
+* [https://www.networkadvertising.org/understanding-digital-advertising](https://www.networkadvertising.org/understanding-digital-advertising)
+* [https://youradchoices.com/control](https://youradchoices.com/control)
+* [European Interactive Digital Advertising Alliance (EU)](https://www.youronlinechoices.eu/)
+* [Internet Advertising Bureau (US)](https://www.iab.net/)
+* [Internet Advertising Bureau (EU)](https://www.iabeurope.eu/)
+
+If you have any questions regarding Ancestry’s Cookie Policy please email [\[email protected\]](https://www.ancestry.com/cdn-cgi/l/email-protection).
+
+Date of last revision: 15 Sep 2023
+
+Manage your information  
+and privacy on Ancestry
+
+* [Your Profile](https://www.ancestry.com/connect/profile)
+* [Your Account Options](https://www.ancestry.com/secure/account)
+* [Your Site Preferences](https://www.ancestry.com/secure/account/sitepreferences)
+* [Your Email Preferences](https://www.ancestry.com/secure/account/emailpreferences)
+* [Your Test Preferences](https://www.ancestry.com/dna)
+* [Your Alerts](https://www.ancestry.com/home/myancestry/myalerts)
+* [Your Family Trees Settings](https://www.ancestry.com/family-tree/tree)
+* [Nevada Residents Opt-Out](https://www.ancestry.com/c/legal/nevada-opt-out)
+* [CCPA Authorized Agent Request](https://www.ancestry.com/c/legal/privacystatement#authorized-agents)
+
+Manage your privacy on  
+our related business
+
+* [Fold3](https://www.fold3.com/account)
+* [Newspapers.com](https://www.newspapers.com/account)
+* [Archives](https://www.archives.com/account)
+
+Learn more from  
+important resources
+
+* [AncestryDNA Research and Collaboration](https://www.ancestry.com/c/collaborations)
+* [Cookies](https://www.ancestry.com/c/legal/AboutCookies)
+* [Transparency Report](https://www.ancestry.com/c/transparency)
+* [Guide for Law Enforcement](https://www.ancestry.com/c/legal/lawenforcement)
+* [View Archived Privacy Statement Versions](https://www.ancestry.com/c/legal/privacy-archive)
+* [View Archived Terms and Conditions Versions](https://www.ancestry.com/c/legal/terms-and-conditions-archive)
+* [Community Rules](https://www.ancestry.com/c/legal/community-rules)
+* [Security](https://www.ancestry.com/c/legal/security)
