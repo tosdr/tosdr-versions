@@ -1,6 +1,6 @@
 [Skip Navigation](#content)
 
-[![Bitly Logo](https://docrdsfx76ssb.cloudfront.net/static/1714684675/pages/wp-content/uploads/2021/08/bitly_logo.svg)](https://bitly.com/)
+[![Bitly Logo](https://docrdsfx76ssb.cloudfront.net/static/1712086357/pages/wp-content/uploads/2021/08/bitly_logo.svg)](https://bitly.com/)
 
 Menu
 
@@ -12,29 +12,29 @@ Menu
     
     ### Products
     
-    * ![](https://docrdsfx76ssb.cloudfront.net/static/1714684675/pages/wp-content/uploads/2024/01/short-link-1.svg)[URL Shortener  
+    * ![](https://docrdsfx76ssb.cloudfront.net/static/1712086357/pages/wp-content/uploads/2024/01/short-link-1.svg)[URL Shortener  
         **Customize, share and track links**](https://bitly.com/pages/products/url-shortener)
-    * ![QR code icon](https://docrdsfx76ssb.cloudfront.net/static/1714684675/pages/wp-content/uploads/2024/01/qr-code.svg)[QR Codes  
+    * ![QR code icon](https://docrdsfx76ssb.cloudfront.net/static/1712086357/pages/wp-content/uploads/2024/01/qr-code.svg)[QR Codes  
         **Dynamic solutions to fit every business need**](https://bitly.com/pages/products/qr-codes)
-    * ![](https://docrdsfx76ssb.cloudfront.net/static/1714684675/pages/wp-content/uploads/2024/01/link-in-bio.svg)[Link-in-bio  
+    * ![](https://docrdsfx76ssb.cloudfront.net/static/1712086357/pages/wp-content/uploads/2024/01/link-in-bio.svg)[Link-in-bio  
         **Curate and track links and content for social media profiles**](https://bitly.com/pages/products/link-in-bio)
-    * ![2D Barcode](https://docrdsfx76ssb.cloudfront.net/static/1714684675/pages/wp-content/uploads/2024/03/gs1.svg)[2D Barcodes  
+    * ![2D Barcode](https://docrdsfx76ssb.cloudfront.net/static/1712086357/pages/wp-content/uploads/2024/03/gs1.svg)[2D Barcodes  
         **Add a Global Trade Number (GTIN) to QR Codes designed for packaging**](https://bitly.com/pages/products/2d-barcodes)
-    * ![](https://docrdsfx76ssb.cloudfront.net/static/1714684675/pages/wp-content/uploads/2024/01/analytics.svg)[Analytics  
+    * ![](https://docrdsfx76ssb.cloudfront.net/static/1712086357/pages/wp-content/uploads/2024/01/analytics.svg)[Analytics  
         **A central place to track and analyze performance of all short links and QR Codes**](https://bitly.com/pages/products/analytics)
     
     ### Features
     
-    * ![](https://docrdsfx76ssb.cloudfront.net/static/1714684675/pages/wp-content/uploads/2024/03/create-branded-links.svg)[Branded Links  
+    * ![](https://docrdsfx76ssb.cloudfront.net/static/1712086357/pages/wp-content/uploads/2024/03/create-branded-links.svg)[Branded Links  
         **Customize links with your brand’s URL**](https://bitly.com/pages/features/branded-links)
-    * ![](https://docrdsfx76ssb.cloudfront.net/static/1714684675/pages/wp-content/uploads/2024/03/location-device.svg)[Mobile Links  
+    * ![](https://docrdsfx76ssb.cloudfront.net/static/1712086357/pages/wp-content/uploads/2024/03/location-device.svg)[Mobile Links  
         **Short links for SMS messages**](https://bitly.com/pages/features/mobile-links)
     
     ### Integrations
     
-    [![Bitly Hubspot Connector](https://docrdsfx76ssb.cloudfront.net/static/1714684675/pages/wp-content/uploads/2022/12/Hubspot-Logo-125x125.png)
+    [![Bitly Hubspot Connector](https://docrdsfx76ssb.cloudfront.net/static/1712086357/pages/wp-content/uploads/2022/12/Hubspot-Logo-125x125.png)
     
-    Bitly Hubspot Connector](https://bitly.com/pages/marketplace/hubspot-2)[![Bitly + Canva Integration](https://docrdsfx76ssb.cloudfront.net/static/1714684675/pages/wp-content/uploads/2023/08/canva-logo-app-connectors-125x125.png)
+    Bitly Hubspot Connector](https://bitly.com/pages/marketplace/hubspot-2)[![Bitly + Canva Integration](https://docrdsfx76ssb.cloudfront.net/static/1712086357/pages/wp-content/uploads/2023/08/canva-logo-app-connectors-125x125.png)
     
     Bitly + Canva Integration](https://bitly.com/pages/marketplace/canva)
     
@@ -72,7 +72,7 @@ Menu
     
     ### What’s new
     
-    [![QR Codes and the Future of Retail Webinar Recap](https://docrdsfx76ssb.cloudfront.net/static/1714684675/pages/wp-content/uploads/2023/11/site_resource_qr-future-1.png)
+    [![QR Codes and the Future of Retail Webinar Recap](https://docrdsfx76ssb.cloudfront.net/static/1712086357/pages/wp-content/uploads/2023/11/site_resource_qr-future-1.png)
     
     #### QR Codes and the Future of Retail Webinar Recap
     
@@ -101,7 +101,7 @@ Menu
     
     ### What's new
     
-    [![Creativity with QR Codes Webinar Recap](https://docrdsfx76ssb.cloudfront.net/static/1714684675/pages/wp-content/uploads/2023/09/Site_resource_explosion-qr.png)
+    [![Creativity with QR Codes Webinar Recap](https://docrdsfx76ssb.cloudfront.net/static/1712086357/pages/wp-content/uploads/2023/09/Site_resource_explosion-qr.png)
     
     #### Creativity with QR Codes Webinar Recap
     
@@ -763,7 +763,7 @@ We reserve the right to make changes to this Privacy Policy at any time. If we m
 [Reviews](https://bitly.com/pages/reviews)  
 [Accessibility Report](https://s17233.pcdn.co/blog/wp-content/uploads/2024/02/Bitly-Accessibility-Conformance-Report-2023-12-21.pdf)
 
-![Bitly Logo](https://docrdsfx76ssb.cloudfront.net/static/1714684675/pages/wp-content/uploads/2021/08/bitly_logo.svg)
+![Bitly Logo](https://docrdsfx76ssb.cloudfront.net/static/1712086357/pages/wp-content/uploads/2021/08/bitly_logo.svg)
 
 © 2024 Bitly | Handmade in New York City, Denver, Berlin, Bielefeld, and all over the world.
 
