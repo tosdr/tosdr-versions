@@ -2,8 +2,8 @@
 
 * [For Companies](https://www.usebraintrust.com/solutions) [ ] 
     * [Solutions](https://www.usebraintrust.com/solutions)
-    * [NEW: Braintrust AIR](https://www.usebraintrust.com/air)
     * [Why Braintrust](https://www.usebraintrust.com/why-braintrust)
+    * [How it Works](https://www.usebraintrust.com/braintrust-for-enterprise)
     * [Skills & Capabilities](https://www.usebraintrust.com/skills)
     * [Clients](https://www.usebraintrust.com/clients)
     * [Resources](https://www.usebraintrust.com/resources)
@@ -388,8 +388,7 @@ Your work. Your network. Your future.
 
 ##### Platform
 
-* [Solutions](https://www.usebraintrust.com/solutions)
-* [NEW: Braintrust AIR](https://www.usebraintrust.com/air)
+* [Enterprises](https://www.usebraintrust.com/solutions)
 * [Skills + Capabilities](https://www.usebraintrust.com/skills)
 * [Why Braintrust](https://www.usebraintrust.com/why-braintrust)
 * [Payments + Fees](https://www.usebraintrust.com/payments)
