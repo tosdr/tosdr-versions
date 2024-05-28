@@ -2,9 +2,9 @@
 
 * [Pricing](https://cal.com/pricing)
     
-* Products
+* plans
     
-* [Features](https://cal.com/resources/features)
+* [Products](https://cal.com/resources/features)
     
 * [Docs](https://cal.com/docs)
     
@@ -13,7 +13,7 @@
 
 [Login](https://app.cal.com/)
 
-[Pricing](https://cal.com/pricing)[Platform](https://cal.com/platform)[Enterprise](https://cal.com/enterprise)[Features](https://cal.com/resources/features)[Docs](https://cal.com/docs)[Blog](https://cal.com/blog)[Merch](https://cal.com/merch)
+[Pricing](https://cal.com/pricing)[Platform](https://cal.com/platform)[Enterprise](https://cal.com/enterprise)[Products](https://cal.com/resources/features)[Docs](https://cal.com/docs)[Blog](https://cal.com/blog)[Merch](https://cal.com/merch)
 
 Existing customer? [Login](https://app.cal.com/)
 
@@ -282,9 +282,9 @@ Let people book when it works for both of you
 
 -------------------------------------------------
 
-[Get Started](https://cal.com/signup)[Contact Sales](https://cal.com/sales)
+cal.com/
 
-![Product of the Day](/product-of-the-day.svg)![Product of the Week](/product-of-the-week.svg)![Product of the Month](/product-of-the-month.svg)![Cal.com on Product Hunt](/producthunt.svg)![Cal.com on Google](/google-reviews.svg)![Cal.com on G2](/g2.svg)
+Claim username
 
 ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
@@ -311,12 +311,10 @@ English
 * [SaaS Hosting](https://cal.com/pricing)
 * [Docs](https://cal.com/docs/)
 * [Cal.ai – AI Phone Agent](https://cal.com/ai)
+* [FAQ](https://cal.com/faq)
 * [Enterprise](https://cal.com/enterprise)
 * [Platform](https://cal.com/platform)
-* [Cal.com Atoms](https://cal.com/platform)
-* [Unified Calendar API](https://cal.com/unified)
 * [Desktop App](https://cal.com/download)
-* [FAQ](https://cal.com/faq)
 * [Enterprise API](https://cal.com/docs/enterprise-features/api)
 * [Github](https://github.com/calcom/cal.com)
 * [Docker](https://cal.com/docs/introduction/quick-start/self-hosting/docker)
