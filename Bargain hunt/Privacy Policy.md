@@ -2,7 +2,7 @@
 
 * [Online Auctions](https://www.bargainhunt.com/online-auctions)
     
-    * [Live Auctions](https://www.bidfta.com/items?pageId=1&locations=598&locations=618&locations=578&locations=599&locations=584&locations=589&locations=534&locations=476&locations=566&locations=588&locations=590)
+    * [Live Auctions](https://www.bidfta.com/category/all/1?location=566&location=476&location=534&location=590&location=588&location=584&location=589&location=598&location=578)
     * [How Does It Work?](https://www.bargainhunt.com/online-auctions)
     
 * [Bin Sales](https://www.bargainhunt.com/bin-sales)
@@ -16,7 +16,7 @@ Menu
 * [Online Auctions](#)
     
     * [Online Auctions](https://www.bargainhunt.com/online-auctions)
-    * [Live Auctions](https://www.bidfta.com/items?pageId=1&locations=598&locations=618&locations=578&locations=599&locations=584&locations=589&locations=534&locations=476&locations=566&locations=588&locations=590)
+    * [Live Auctions](https://www.bidfta.com/category/all/1?location=566&location=476&location=534&location=590&location=588&location=584&location=589&location=598&location=578)
     * [How Does It Work?](https://www.bargainhunt.com/online-auctions)
     
 * [Bin Sales](https://www.bargainhunt.com/bin-sales)
@@ -150,6 +150,6 @@ Antioch, TN 37013
 * [Careers](https://www.bargainhunt.com/careers)
 * [Essex Wholesale Group](https://www.bargainhunt.com/essex-wholesale-group)
 * [Employee Portal](https://www.bargainhunt.com/employee-contact-entry)
-* [Machine Readable Files](https://mrfstorageprod.blob.core.windows.net/public-mrf/2024-05-01/2024-05-01_ESSEX-TECHNOLOGY-GROUP-LLC_index.json)
+* [Machine Readable Files](https://uhc-tic-mrf.azureedge.net/public-mrf/2024-01-01/2024-01-01_ESSEX-TECHNOLOGY-GROUP-LLC_index.json)
 
 © 2024 All rights reserved.
