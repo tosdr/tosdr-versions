@@ -69,7 +69,7 @@ Menu
             * [Galapagos](https://bucketlistjourney.net/category/travelbucketlist/south-america/galapagos/)
     * [TRAVEL TIPS](https://bucketlistjourney.net/category/travel-tips/)
 * [CALIFORNIA BUCKET LIST](https://bucketlistjourney.net/category/travelbucketlist/north-america-travel/california-north-america-travel/)
-* [FACING FEAR](https://bucketlistjourney.net/category/fear-anxiety/)
+* [FEAR & ANXIETY](https://bucketlistjourney.net/category/fear-anxiety/)
 * [SHOP buck & co.](https://buckandco.net/)
 
 [](#)
@@ -125,7 +125,7 @@ Menu
             * [Galapagos](https://bucketlistjourney.net/category/travelbucketlist/south-america/galapagos/)
     * [TRAVEL TIPS](https://bucketlistjourney.net/category/travel-tips/)
 * [CALIFORNIA BUCKET LIST](https://bucketlistjourney.net/category/travelbucketlist/north-america-travel/california-north-america-travel/)
-* [FACING FEAR](https://bucketlistjourney.net/category/fear-anxiety/)
+* [FEAR & ANXIETY](https://bucketlistjourney.net/category/fear-anxiety/)
 * [SHOP buck & co.](https://buckandco.net/)
 
 [](#)
@@ -216,6 +216,10 @@ Are you ready to start facing your fear and living your bucket list?
 **Join us to get 2,000 Bucket List Ideas Free**
 ===============================================
 
+Name:
+
+Email:
+
 ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='0'%20height='0'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
 ![](https://forms.aweber.com/form/displays.htm?id=TKwMHOxMTGxM)
@@ -237,8 +241,8 @@ I’m a goal obsessed mid-lifer, traveler, experience collector, fear crusher, d
 
 [BLOG](https://bucketlistjourney.net/blog/)
 
-**GET MY 2,000 free bucket list ideas**
----------------------------------------
+**Want 2,000 free bucket list ideas?**
+--------------------------------------
 
 Jump right in and you will get your printable ideas by email:
 
