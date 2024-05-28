@@ -21,9 +21,7 @@ account
 * [plus
     
     Bible Gateway  
-    Plus
-    
-    Save 20% / Year](https://www.biblegateway.com/plus/?utm_source=bg&utm_medium=topnav&utm_campaign=bgplus&promo=GOSTUDY20)
+    Plus](https://www.biblegateway.com/plus/?utm_source=bg&utm_medium=topnav&utm_campaign=bgplus)
 * explore
     
     Explore  
@@ -40,11 +38,11 @@ account
     * [Deals](https://faithgateway.com/collections/biblegateway-special-deals?utm_source=bg&utm_medium=referral&utm_campaign=nav_deals)
     * [More](https://faithgateway.com/?utm_source=bg&utm_medium=referral&utm_campaign=nav_more)
 
-[Want the Verse of the Day sent to your inbox?](https://www.biblegateway.com/landing/verse-of-the-day/?utm_source=bg&utm_medium=alert_mobile&utm_campaign=alert_votdinbox1010)
+[Love C.S. Lewis? Sign up for daily inspiration today!](https://www.biblegateway.com/landing/cslewis/?utm_source=bg&utm_medium=alert_mobile&utm_campaign=alert_cslewis20221006)
 
 close
 
-[Save 20% FOR LIFE on annual plans! Get Bible Gateway Plus while it's on sale!](https://www.biblegateway.com/plus/?utm_source=bg&utm_medium=alert&utm_campaign=bgplus_alert_may24sale_save20)
+[Find answers to your Bible questions with Bible Gateway Plus. Try it free today!](https://www.biblegateway.com/plus/?utm_source=bg&utm_medium=alert&utm_campaign=bgplus_alert_answerquestions0516)
 
 close
 
