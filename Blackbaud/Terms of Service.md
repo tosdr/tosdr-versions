@@ -153,11 +153,11 @@ Main Navigation
         
         Best practices and the latest learning for social good professionals](https://blog.blackbaud.com/)
     
-    ![](https://www.blackbaud.com/wp-content/uploads/2024/05/GenZ_280X185_MegaMenu.png)
+    ![](https://www.blackbaud.com/wp-content/uploads/2024/04/bbcon-2024-open-reg-resources-megamenu-275X135.png)
     
-    Gen Z at the Table | Report
+    bbcon 2024 | Sept. 24-26
     
-    [Tap into Gen Z's generosity with insights from our free report.](https://institute.blackbaud.com/resources/gen-z-at-the-table/?ICID=bbwebsite-mega-menu-tile-bbi-genzattable-tl-24-gl)
+    [bbcon Early-Bird Registration Is Open: Lock in Your Rate by June 13!](https://www.bbconference.com/?ICID=bbwebsite-mega-menu-tile-cb-2024-q2-tl-conf-bbcon-openreg)
     
     * * *
     
