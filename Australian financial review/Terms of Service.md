@@ -2,6 +2,9 @@
 
 * Today's Paper
 
+* [Subscribe](https://subscribe.afr.com/?promote_channel=HI_HL_GNL&utm_source=afr.com&utm_medium=HouseInventory&utm_campaign=General&utm_content=HDR)
+    
+
 * Today's Paper
 * [Markets Data](https://www.afr.com/markets-data)
 * [Events](https://www.afr.com/afrlive)
@@ -319,58 +322,59 @@ Advertise
 [The Australian Financial Review Magazine](https://www.afr.com/afr-magazine)
 ----------------------------------------------------------------------------
 
-[![ ](https://static.ffx.io/images/$zoom_0.6622%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/95c1784f3af293e57d0d7c6494120b8ae5dac9ab)](https://www.afr.com/life-and-luxury/food-and-wine/first-look-inside-the-new-home-of-cult-restaurant-saint-peter-20240308-p5fasd)
+[![ ](https://static.ffx.io/images/$zoom_0.3417%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_286%2C$y_237/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/d12791f021cd18c6003afaf4636d3b7ecf0b1cf5)](https://www.afr.com/wealth/people/philanthropy-50-which-australians-gave-away-the-most-in-2023-20240308-p5favg)
 
-### [First look inside the new home of cult restaurant Saint Peter](https://www.afr.com/life-and-luxury/food-and-wine/first-look-inside-the-new-home-of-cult-restaurant-saint-peter-20240308-p5fasd)
+### [Philanthropy 50: Which Australians gave away the most in 2023?](https://www.afr.com/wealth/people/philanthropy-50-which-australians-gave-away-the-most-in-2023-20240308-p5favg) 
 
-* Jill Dupleix
+* 12 mins ago
+* Lisa Murray
 
-* ### [Fashion is a way to stand out. But sometimes camouflage is better](https://www.afr.com/life-and-luxury/fashion-and-style/fashion-is-a-way-to-stand-out-but-sometimes-camouflage-is-better-20240308-p5fav4)
+* ### [What women want: more colour, bigger watches](https://www.afr.com/life-and-luxury/fashion-and-style/what-women-want-more-colour-bigger-watches-20240308-p5favf)
     
-* ### [A simple recipe for baba ghanoush with a twist](https://www.afr.com/life-and-luxury/food-and-wine/a-simple-recipe-for-baba-ghanoush-with-a-twist-20240308-p5fav1)
+* ### [Say nay to beige – the best new interiors are awash in vibrant colour](https://www.afr.com/life-and-luxury/design/say-nay-to-beige-the-best-new-interiors-are-awash-in-vibrant-colour-20240308-p5fav3)
     
 
 [BOSS Financial Review](https://www.afr.com/boss)
 -------------------------------------------------
 
-[![Kmart and Target managing director Ian Bailey: “The journey we’ve been on for many years is really moving from being a retailer to being a product company.”](https://static.ffx.io/images/$zoom_0.1366%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_17/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/7e67ecffa127838edae93c8ace22c4fed3c3c928)](https://www.afr.com/work-and-careers/leaders/how-kmart-is-now-more-product-maker-than-retailer-20240513-p5jd4m)
+[![Woodside Energy chairman Richard Goyder has already indicated to some shareholders that this will be his last term.](https://static.ffx.io/images/$zoom_0.1966%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_154%2C$y_53/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/0ecc6288bf2a487cbaf5ab151fee6e5d864f7a68)](https://www.afr.com/policy/energy-and-climate/richard-goyder-counts-down-the-days-at-woodside-qantas-and-the-afl-20240418-p5fkxy)
 
-### [How Kmart is now more product maker than retailer](https://www.afr.com/work-and-careers/leaders/how-kmart-is-now-more-product-maker-than-retailer-20240513-p5jd4m)
+### [Richard Goyder counts down the days at Woodside, Qantas and the AFL](https://www.afr.com/policy/energy-and-climate/richard-goyder-counts-down-the-days-at-woodside-qantas-and-the-afl-20240418-p5fkxy)
 
 * Patrick Durkin
 
-* ### [Why this event maestro takes a bath every single morning](https://www.afr.com/life-and-luxury/fashion-and-style/why-this-event-maestro-takes-a-bath-every-single-morning-20240507-p5fpkk)
+* ### [Why this CEO keeps Fridays for thinking](https://www.afr.com/work-and-careers/leaders/why-this-ceo-keeps-fridays-for-thinking-20240415-p5fjwj)
     
-* ### [Why so many top executives start in accounting, consulting](https://www.afr.com/work-and-careers/careers/why-so-many-top-executives-start-in-accounting-consulting-20240501-p5fo24)
+* ### [Why this top 100 CEO gets his executives to swap jobs](https://www.afr.com/work-and-careers/leaders/why-techone-s-ceo-gets-his-executives-to-swap-jobs-20240415-p5fjw8)
     
 
 [Life & Leisure](https://www.afr.com/life-and-leisure)
 ------------------------------------------------------
 
-[![GME’s XRS-660: With an unobstructed line of sight, the range can be 10 kilometres or more.](https://static.ffx.io/images/$zoom_0.65%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_161/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/f05d836dfc1d797ce6e5f5ea9228db8603f1ad03)](https://www.afr.com/technology/how-to-lose-yourself-in-the-wild-without-getting-lost-20240424-p5fm6u)
+[![Bonsai expert Hugh Grant at his Mount Victoria workshop. ](https://static.ffx.io/images/$zoom_0.1331%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_109/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/6b986cb7ecb2174edd44c9ceb45ebee335aae3c4)](https://www.afr.com/life-and-luxury/design/mastering-the-little-things-how-bonsai-got-so-big-20240422-p5fln6)
 
-### [How to lose yourself in the wild without getting lost](https://www.afr.com/technology/how-to-lose-yourself-in-the-wild-without-getting-lost-20240424-p5fm6u)
+### [Mastering the little things: How bonsai got so big](https://www.afr.com/life-and-luxury/design/mastering-the-little-things-how-bonsai-got-so-big-20240422-p5fln6)
 
-* 14 mins ago
-* John Davidson
+* 12 mins ago
+* Stephen Todd
 
-* ### [This week’s edit of lovely luxuries for travellers at heart](https://www.afr.com/life-and-luxury/fashion-and-style/this-week-s-edit-of-lovely-luxuries-for-travellers-at-heart-20240409-p5fiht)
+* ### [Samsung’s new OLED TV is the best TV ever. Or is it?](https://www.afr.com/technology/samsung-s-new-oled-tv-is-the-best-tv-ever-or-is-it-20240418-p5fkuq)
     
-* ### [How to quit the treadmill and travel for six months - yes really](https://www.afr.com/life-and-luxury/travel/how-to-quit-the-treadmill-and-travel-for-six-months-yes-really-20240311-p5fbjg)
+* ### [This exec chills out by listening to white noise below the waves](https://www.afr.com/life-and-luxury/health-and-wellness/this-exec-chills-out-by-listening-to-white-noise-below-the-waves-20240416-p5fkb5)
     
 
 [Rich List](https://www.afr.com/rich-list)
 ------------------------------------------
 
-[![ ](https://static.ffx.io/images/$zoom_0.6623%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/2c1e4f0ba4c40e2e9be0b07d9cbeee6aab5ae93e)](https://www.afr.com/wealth/people/how-a-uni-dropout-went-from-maccas-to-building-a-100m-company-20240518-p5jeo2)
+[![ ](https://static.ffx.io/images/$zoom_0.6623%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/e9da06a760247fbbc34c3401ae5d3c11f12f1911)](https://www.afr.com/wealth/people/the-homeschooled-billionaire-who-built-a-fortune-before-turning-40-20240419-p5fl9b)
 
-### [How a uni dropout went from Maccas to building a $100m company](https://www.afr.com/wealth/people/how-a-uni-dropout-went-from-maccas-to-building-a-100m-company-20240518-p5jeo2)
+### [The homeschooled billionaire who built a fortune before turning 40](https://www.afr.com/wealth/people/the-homeschooled-billionaire-who-built-a-fortune-before-turning-40-20240419-p5fl9b)
 
 * Julie-anne Sprague
 
-* ### [Mall war: Kevin Seymour accuses Dexus of anticompetitive conduct](https://www.afr.com/property/commercial/mall-war-kevin-seymour-accuses-dexus-of-anticompetitive-conduct-20240513-p5jd65)
+* ### [Goldman eyes local banking licence to grow ultrarich lending business](https://www.afr.com/companies/financial-services/goldman-eyes-local-banking-licence-to-grow-ultrarich-lending-business-20240419-p5fl4e)
     
-* ### [On Hamilton, a family dynasty bets there’s more money in islands](https://www.afr.com/companies/tourism/on-hamilton-a-family-dynasty-bets-there-s-more-money-in-islands-20240509-p5jce5)
+* ### [$650 for RM’s? ‘People want handcrafted,’ says Nicola Forrest](https://www.afr.com/companies/manufacturing/800-for-a-pair-of-rm-s-not-a-problem-for-women-says-nicola-forrest-20240415-p5fjwr)
     
 
 [The Australian Financial Review](https://www.afr.com/)
