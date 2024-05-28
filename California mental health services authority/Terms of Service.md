@@ -11,8 +11,8 @@
 * Health IT
     * [Electronic Health Record](https://www.calmhsa.org/electronic-health-records/)
     * Interoperability
-        * [Overview](https://www.calmhsa.org/interoperability-overview/)
-        * [CalMHSA Connex](https://www.calmhsa.org/interoperability-api/)
+        * [Planning](https://www.calmhsa.org/interoperability-planning/)
+        * [CalMHSA Connex APIs](https://www.calmhsa.org/interoperability-api/)
         * [Patient/Client Opt Out](https://www.calmhsa.org/interoperability-optout/)
 * Managed Care
     * [Authorizations](https://www.calmhsa.org/psychiatric-inpatient-concurrent-review/)
@@ -64,8 +64,8 @@
 * Health IT
     * [Electronic Health Record](https://www.calmhsa.org/electronic-health-records/)
     * Interoperability
-        * [Overview](https://www.calmhsa.org/interoperability-overview/)
-        * [CalMHSA Connex](https://www.calmhsa.org/interoperability-api/)
+        * [Planning](https://www.calmhsa.org/interoperability-planning/)
+        * [CalMHSA Connex APIs](https://www.calmhsa.org/interoperability-api/)
         * [Patient/Client Opt Out](https://www.calmhsa.org/interoperability-optout/)
 * Managed Care
     * [Authorizations](https://www.calmhsa.org/psychiatric-inpatient-concurrent-review/)
