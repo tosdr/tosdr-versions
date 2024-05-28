@@ -28,8 +28,10 @@ Bitcoin ETF](https://www.acorns.com/bitcoin-etf/)
 
 [Log in](https://app.acorns.com/)[Get started](https://app.adjust.com/s1mjg4g_4oq5ari?fallback=https://www.acorns.com/tier-signup?key=GOLD)
 
-LIMITED TIME: Start investing with Acorns,  
-get a [$20 bonus investment](https://app.adjust.com/1b9w1j80_1btst749?fallback=https%3A%2F%2Fsignup.acorns.com%2F)
+DWAYNE JOHNSON X ACORNS
+
+Help grow your money with  
+the [Mighty Oak card](https://www.acorns.com/mighty-oak-card/)
 
   [![Acorns Logo](https://sqy7rm.media.zestyio.com/Acorns-Logo-With-Text-2022.svg) ![Acorns Logo Icon](https://sqy7rm.media.zestyio.com/Acorns-Logo-No-Text-Updt-2022.svg)](https://www.acorns.com/)[Get the app](https://app.adjust.com/2bfkli_luqqxi?fallback=https://www.acorns.com/tier-signup?key=GOLD)
 
@@ -53,8 +55,10 @@ Bitcoin ETF](https://www.acorns.com/bitcoin-etf/)
 
 [Log in](https://app.acorns.com/)
 
-LIMITED TIME: Start investing with Acorns,  
-get a [$20 bonus investment](https://app.adjust.com/1b9w1j80_1btst749?fallback=https%3A%2F%2Fsignup.acorns.com%2F)
+DWAYNE JOHNSON X ACORNS
+
+Help grow your money with  
+the [Mighty Oak card](https://www.acorns.com/mighty-oak-card/)
 
 The Fine Print of Acorns
 ------------------------
@@ -71,6 +75,7 @@ The Fine Print of Acorns
 * [Mighty Oak Card](https://www.acorns.com/mighty-oak-terms-and-conditions/)
 * [Long Game Sweepstakes Terms](https://www.acorns.com/longgamesweepstakes/)
 * [Premium Tier Tunsgten Promotions Terms](https://www.acorns.com/tungsten-promotions-terms/)
+* [100 Thieves Sweepstakes Terms](https://www.acorns.com/100-thieves-terms/)
 * [Referral Promotion Terms](https://www.acorns.com/ref-terms/)
 * [Earn Rewards Match](https://sqy7rm.media.zestyio.com/Earn-Rewards-Match-TC--9_25-Update-.pdf)
 * [Program Agreement](https://www.acorns.com/program-agreement/)
