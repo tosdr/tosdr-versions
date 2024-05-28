@@ -200,6 +200,7 @@ Get the app
 * [Invest In Us](https://invest.atlasobscura.com/)
 * [Advertise With Us](https://studio-obscura.atlasobscura.com/)
 * [Advertising Guidelines](https://www.atlasobscura.com/advertising-acceptability-guidelines)
+* [Press](https://press.atlasobscura.com/)
 * [Privacy Policy](https://www.atlasobscura.com/privacy)
 * [Cookie Policy](https://www.atlasobscura.com/cookies)
 * [Terms of Use](https://www.atlasobscura.com/terms)
