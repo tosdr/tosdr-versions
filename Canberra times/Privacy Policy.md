@@ -2,15 +2,15 @@ Ad
 
 [Privacy](https://www.canberratimes.com.au/privacy/)
 
-[![The Canberra Times](/static/1716169246/sites/canberratimes/images/masthead/masthead-only.svg)](https://www.canberratimes.com.au/)
+[![The Canberra Times](/static/1713509319/sites/canberratimes/images/masthead/masthead-only.svg)](https://www.canberratimes.com.au/)
 
 [Privacy](https://www.canberratimes.com.au/privacy/)
 
-[![The Canberra Times](/static/1716169246/sites/canberratimes/images/masthead/masthead-only.svg)](https://www.canberratimes.com.au/)
+[![The Canberra Times](/static/1713509319/sites/canberratimes/images/masthead/masthead-only.svg)](https://www.canberratimes.com.au/)
 
-[![The Canberra Times](/static/1716169246/sites/canberratimes/images/masthead/masthead-square.svg)](https://www.canberratimes.com.au/)
+[![The Canberra Times](/static/1713509319/sites/canberratimes/images/masthead/masthead-square.svg)](https://www.canberratimes.com.au/)
 
-[![The Canberra Times](/static/1716169246/sites/canberratimes/images/masthead/masthead-only.svg)](https://www.canberratimes.com.au/)
+[![The Canberra Times](/static/1713509319/sites/canberratimes/images/masthead/masthead-only.svg)](https://www.canberratimes.com.au/)
 
 SectionsMy Region
 
@@ -40,13 +40,13 @@ SectionsMy Region
 
 [Life & Style](https://www.canberratimes.com.au/life-style/)
 
-[Life](https://www.canberratimes.com.au/life-style/life/)[Money](https://www.canberratimes.com.au/life-style/money/)[Books](https://www.canberratimes.com.au/life-style/books/)[Puzzles](https://www.canberratimes.com.au/life-style/puzzles/)[Recipes](https://www.canberratimes.com.au/life-style/recipes/)[Celebrity](https://www.canberratimes.com.au/life-style/celebrity/)[Social photos](https://www.canberratimes.com.au/life-style/photos/)
+[Life](https://www.canberratimes.com.au/life-style/life/)[Money](https://www.canberratimes.com.au/life-style/money/)[Puzzles](https://www.canberratimes.com.au/life-style/puzzles/)[Books](https://www.canberratimes.com.au/life-style/books/)[Recipes](https://www.canberratimes.com.au/life-style/recipes/)[Celebrity](https://www.canberratimes.com.au/life-style/celebrity/)[Social photos](https://www.canberratimes.com.au/life-style/photos/)
 
 [Jobs](https://www.canberratimes.com.au/jobs/)
 
 [Classifieds](https://www.canberratimes.com.au/classifieds/)
 
-[Tributes](https://tributes.canberratimes.com.au/obituaries/canberratimes-au)[Celebrations](https://celebrations.canberratimes.com.au/celebration/canberratimes-au)[Allhomes](https://www.allhomes.com.au/sale/?gclid=EAIaIQobChMI_9DjxMSh4QIVVRiPCh1ZjwbWEAAYASAAEgJyU_D_BwE)[Place a Classifieds Ad](https://addirect.com.au/)[Place a Job Ad](https://viewjobs.com.au/)[Garage Sales](https://garagesales.acmcloud.io/?lat=-35.282071&lng=149.128667)
+[Tributes](https://tributes.canberratimes.com.au/obituaries/canberratimes-au)[Celebrations](https://celebrations.canberratimes.com.au/celebration/canberratimes-au)[Allhomes](https://www.allhomes.com.au/sale/?gclid=EAIaIQobChMI_9DjxMSh4QIVVRiPCh1ZjwbWEAAYASAAEgJyU_D_BwE)[Place a Job Ad](https://viewjobs.com.au/)[Place a Classifieds Ad](https://addirect.com.au/)[Garage Sales](https://garagesales.acmcloud.io/?lat=-35.282071&lng=149.128667)
 
 [Recommended](https://www.canberratimes.com.au/recommended/)
 
@@ -67,9 +67,9 @@ Today’s Paper](https://www.canberratimes.com.au/digital-print-edition/)[![](ht
 
 Download our app](https://www.canberratimes.com.au/app/)[![](https://cdn.newsnow.io/XNYkXiBdsC832Jm3ku2C9g/d818b395-f698-4c32-9c2e-6435ec1582ab.svg)
 
-Interactive Puzzles](https://www.canberratimes.com.au/life-style/puzzles/)[![](https://cdn.newsnow.io/b5N3njmU7ggEmuQMNaxVEM/fe6c0fae-3a24-4ec7-a6f4-faee4d56d6d8.svg)
+Interactive Puzzles](https://www.canberratimes.com.au/life-style/puzzles/)[![](https://cdn.newsnow.io/XNYkXiBdsC832Jm3ku2C9g/27ab4a38-900d-4dc7-b197-75b5c84ddae8.svg)
 
-ViewJobs](https://www.canberratimes.com.au/jobs)
+Newsletters](https://www.canberratimes.com.au/newsletters/)
 
 Network
 -------
@@ -292,7 +292,7 @@ Tracking and Targeting
 
 [Tracking and Targeting Policy](https://www.canberratimes.com.au/tracking-and-targeting/)
 
-[![The Canberra Times](/static/1716169246/sites/canberratimes/images/masthead/masthead-alt.png)](https://www.canberratimes.com.au/)
+[![The Canberra Times](/static/1713509319/sites/canberratimes/images/masthead/masthead-alt.png)](https://www.canberratimes.com.au/)
 
 [](https://www.facebook.com/CanberraTimes/)[](https://twitter.com/canberratimes)[](https://www.instagram.com/canberratimes)
 
