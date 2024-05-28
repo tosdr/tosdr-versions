@@ -1,6 +1,6 @@
-By clicking 'Accept All', you agree to the use of all types of cookies to enhance site navigation. For more information, please visit our [cookie policy](https://www.browserstack.com/cookie-policy).
+We use cookies to enhance user experience. By continuing to browse or closing this banner, you agree to our [Privacy Policy](https://www.browserstack.com/privacy) & [Terms of Service](https://www.browserstack.com/terms).
 
-Accept All Reject All
+Accept All
 
 [Skip to main content](#main-content)
 
@@ -520,9 +520,3 @@ Social
 ![](https://browserstack.wpenginepowered.com/wp-content/uploads/2021/03/chat-icon.svg "chat-icon")
 
 Talk to an Expert
-
-Your business email\*
-
- 
-
-Provide your business email to continue
