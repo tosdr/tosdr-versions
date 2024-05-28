@@ -1,14 +1,116 @@
-AI that works. Coming June 5, Asana redefines work management—again.[Get early access](https://asana.com/product/ai?utm_medium=web&utm_source=top-banner&utm_campaign=ai25-waitlist#form)
+###### Discover how today’s most successful IT leaders stand out from the rest. [Read the report](https://asana.com/resources/state-of-it?utm_medium=web&utm_source=banner&utm_campaign=SOIT25)
 
 x icon
 
 [Asana Home](https://asana.com/?noredirect)
 
-* Features chevron-down icon
-* Solutions chevron-down icon
-* Resources chevron-down icon
+### Navigation Instructions
+
+Use left and right arrow keys to navigate between columns.Use up and down arrow keys to move between submenu items.Use Escape to close the menu.
+
+* Features 
+    
+    ### PLATFORM
+    
+    * [Product overview](https://asana.com/product)
+    * [All features](https://asana.com/features)
+    * [App integrations](https://asana.com/apps)
+    
+    ### CAPABILITIES
+    
+    * [Project management](https://asana.com/features/project-management)
+    * [Projects](https://asana.com/features/project-management/projects)
+    * [Project views](https://asana.com/features/project-management/project-views)
+    * [Tasks](https://asana.com/features/project-management/tasks)
+    * [Custom fields](https://asana.com/features/project-management/custom-fields)
+    * [Status updates](https://asana.com/features/project-management/status-updates)
+    * [Goals and reporting](https://asana.com/features/goals-reporting)
+    * [Goals](https://asana.com/features/goals-reporting/goals)
+    * [Reporting dashboards](https://asana.com/features/goals-reporting/reporting-dashboards)
+    * [Portfolios](https://asana.com/features/goals-reporting/portfolios)
+    
+    * [Workflows and automation](https://asana.com/features/workflow-automation)
+    * [Rules](https://asana.com/features/workflow-automation/rules)
+    * [Forms](https://asana.com/features/workflow-automation/forms/)
+    * [Bundles](https://asana.com/features/workflow-automation/workflow-bundles)
+    * [Resource management](https://asana.com/features/resource-management)
+    * [Workload](https://asana.com/features/resource-management/workload)
+    * [Time tracking](https://asana.com/features/resource-management/time-tracking)
+    * [Admin and security](https://asana.com/features/admin-security/)
+    * [Admin console](https://asana.com/features/admin-security/admin-console)
+    * [Asana Intelligence](https://asana.com/product/ai)
+    
+    ### ALL PLANS
+    
+    * [Personal](https://asana.com/pricing)
+    * [Starter](https://asana.com/plan/starter)
+    * [Advanced](https://asana.com/plan/advanced)
+    
+* Solutions 
+    
+    ### Teams
+    
+    * [Operations](https://asana.com/teams/operations)
+    * [Marketing](https://asana.com/teams/marketing)
+    * [IT](https://asana.com/teams/it)
+    * [Leaders](https://asana.com/teams/leaders)
+    
+    ### Uses
+    
+    * [Goal management](https://asana.com/uses/goal-management)
+    * [Organizational planning](https://asana.com/uses/organizational-planning)
+    * [Campaign management](https://asana.com/uses/campaign-management)
+    * [Creative production](https://asana.com/uses/creative-production)
+    * [Marketing strategic planning](https://asana.com/uses/marketing-strategic-planning)
+    
+    * [Request tracking](https://asana.com/uses/work-request-tracking)
+    * [Resource planning](https://asana.com/uses/resource-planning)
+    * [Project intake](https://asana.com/uses/project-intake)
+    * [View all uses](https://asana.com/uses)
+    
+    ### Templates
+    
+    * [Project plans](https://asana.com/templates/for/other/cross-functional-project-plan)
+    * [Team goals & objectives](https://asana.com/templates/for/other/team-goals-planning-example)
+    * [Team continuity](https://asana.com/templates/for/other/business-continuity-plan)
+    * [Meeting agenda](https://asana.com/templates/for/other/qbr-meeting-agenda)
+    * [View all templates](https://asana.com/templates)
+    
+* Resources 
+    
+    ### Learn
+    
+    * [Work management resources](https://asana.com/resources)Discover best practices, watch webinars, get insights
+    * [What's new](https://asana.com/whats-new)Learn about the latest and greatest from Asana
+    * [Help Center](https://asana.com/guide)Get lots of tips, tricks, and advice to get the most from Asana
+    * [Asana Academy](https://academy.asana.com/)Sign up for interactive courses and webinars to learn Asana
+    
+    ### Connect
+    
+    * [Events](https://events.asana.com/)Find out about upcoming events near you
+    * [Community programs](https://asana.com/community)Connect with and learn from Asana customers around the world
+    * [Support](https://asana.com/support)Need help? Contact the Asana support team
+    * [Partners](https://asana.com/partners)Learn more about our partner programs
+    
+    * [Developers](https://asana.com/developers)Learn more about building apps on the Asana platform
+    * [Asana for nonprofits](https://asana.com/nonprofit)Get more information on our nonprofit discount program, and apply.
+    
+    ### Featured Reads
+    
+    * [Meet Asana Intelligence:  
+        AI has joined the team  
+        ,DemoWatch now](https://resources.asana.com/asana-intelligence-demo?utm_medium=web&utm_source=megamenu&utm_campaign=ai24-demo)
+    * [Drive employee impact: New tools to empower resilient leadership,ReportRead more](https://blog.asana.com/2022/06/impact)
+    * [The Anatomy of Work: Global Index 2023,ReportRead more](http://asana.com/resources/anatomy-of-work)
+    
 * [Enterprise](https://asana.com/enterprise)
 * [Pricing](https://asana.com/pricing)
+
+[Get started](https://asana.com/create-account "Get started")[Get started](https://asana.com/create-account "Get started")[Log In](https://app.asana.com/)[Launch Asana](https://app.asana.com/)
+
+* [Contact sales](https://asana.com/sales "Contact sales")
+* [View demo](https://asana.com/go/demo "View demo")
+* [Download App](https://asana.com/download "Download App")
 
 Bahasa IndonesiaDeutschEnglishEspañolFrançaisItaliano日本語한국어NederlandsPolskiPortuguêsРусскийSvenska繁體中文
 
@@ -17,270 +119,6 @@ Bahasa IndonesiaDeutschEnglishEspañolFrançaisItaliano日本語한국어Nederla
 [Log In](https://app.asana.com/-/login)
 
 [Get started](https://asana.com/create-account "Get started")
-
-Featureschevron-down icon
-
-### PLATFORM
-
-* [Product overview](https://asana.com/product)
-* [All features](https://asana.com/features)
-* [App integrations](https://asana.com/apps)
-
-### CAPABILITIES
-
-* [project iconProject management](https://asana.com/features/project-management)
-* [Projects](https://asana.com/features/project-management/projects)
-* [Project views](https://asana.com/features/project-management/project-views)
-* [Tasks](https://asana.com/features/project-management/tasks)
-* [Custom fields](https://asana.com/features/project-management/custom-fields)
-* [Status updates](https://asana.com/features/project-management/status-updates)
-* [goal iconGoals and reporting](https://asana.com/features/goals-reporting)
-* [Goals](https://asana.com/features/goals-reporting/goals)
-* [Reporting dashboards](https://asana.com/features/goals-reporting/reporting-dashboards)
-* [Portfolios](https://asana.com/features/goals-reporting/portfolios)
-* [workflow iconWorkflows and automation](https://asana.com/features/workflow-automation)
-* [Rules](https://asana.com/features/workflow-automation/rules)
-* [Forms](https://asana.com/features/workflow-automation/forms/)
-* [Bundles](https://asana.com/features/workflow-automation/workflow-bundles)
-* [portfolio iconResource management](https://asana.com/features/resource-management)
-* [Workload](https://asana.com/features/resource-management/workload)
-* [Time tracking](https://asana.com/features/resource-management/time-tracking)
-* [my-task iconAdmin and security](https://asana.com/features/admin-security/)
-* [Admin console](https://asana.com/features/admin-security/admin-console)
-* [asana-intelligence iconAsana Intelligence](https://asana.com/product/ai)
-
-### ALL PLANS
-
-* [list iconPersonal](https://asana.com/pricing)
-* [premium iconStarter](https://asana.com/plan/starter)
-* [briefcase iconAdvanced](https://asana.com/plan/advanced)
-
-Solutionschevron-down icon
-
-### Teams
-
-* [Operations](https://asana.com/teams/operations)
-* [Marketing](https://asana.com/teams/marketing)
-* [IT](https://asana.com/teams/it)
-* [Leaders](https://asana.com/teams/leaders)
-
-### Uses
-
-* [Goal management](https://asana.com/uses/goal-management)
-* [Organizational planning](https://asana.com/uses/organizational-planning)
-* [Campaign management](https://asana.com/uses/campaign-management)
-* [Creative production](https://asana.com/uses/creative-production)
-* [Content calendars](https://asana.com/uses/content-calendar)
-* [Marketing strategic planning](https://asana.com/uses/marketing-strategic-planning)
-* [Resource planning](https://asana.com/uses/resource-planning)
-* [Project intake](https://asana.com/uses/project-intake)
-* [Product launches](https://asana.com/uses/product-launch)
-* [Employee onboarding](https://asana.com/uses/employee-onboarding)
-* [View all usesarrow-right icon](https://asana.com/uses)
-
-### Templates
-
-* [Project plans](https://asana.com/templates/for/other/cross-functional-project-plan)
-* [Team goals & objectives](https://asana.com/templates/for/other/team-goals-planning-example)
-* [Team continuity](https://asana.com/templates/for/other/business-continuity-plan)
-* [Meeting agenda](https://asana.com/templates/for/other/qbr-meeting-agenda)
-* [View all templatesarrow-right icon](https://asana.com/templates)
-
-Resourceschevron-down icon
-
-### Explore
-
-* [Work management resources
-    
-    Discover best practices, watch webinars, get insights](https://asana.com/resources)
-* [What's new
-    
-    Learn about the latest and greatest from Asana](https://asana.com/whats-new)
-* [Customer stories
-    
-    See how the world's best organizations drive work innovation with Asana](https://asana.com/customers)
-
-### Learn
-
-* [Help Center
-    
-    Get lots of tips, tricks, and advice to get the most from Asana](https://asana.com/guide)
-* [Asana Academy
-    
-    Sign up for interactive courses and webinars to learn Asana](https://academy.asana.com/)
-* [Developers
-    
-    Learn more about building apps on the Asana platform](https://asana.com/developers)
-* [Community programs
-    
-    Connect with and learn from Asana customers around the world](https://asana.com/community)
-
-### Connect
-
-* [Events
-    
-    Find out about upcoming events near you](https://events.asana.com/)
-* [Partners
-    
-    Learn more about our partner programs](https://asana.com/partners)
-* [Support
-    
-    Need help? Contact the Asana support team](https://asana.com/support)
-* [Asana for nonprofits
-    
-    Get more information on our nonprofit discount program, and apply.](https://asana.com/nonprofit)
-
-### Featured Reads
-
-* [![](https://assets.asana.biz/m/3c783c71ef817d3e/original/WEBINAR-PNG-24AI-ON_DEMAND-800x512-v2.png)
-    
-    DemoMeet Asana Intelligence:  
-    AI has joined the team  
-    Watch nowarrow-right icon](https://resources.asana.com/asana-intelligence-demo?utm_medium=web&utm_source=megamenu&utm_campaign=ai24-demo)
-* [![](https://assets.asana.biz/m/64d1a4e336c4ad0c/original/EMIM23_BLOG_CONCEPTUAL_HERO_803x533_EN.png)
-    
-    ReportDrive employee impact: New tools to empower resilient leadershipRead morearrow-right icon](https://blog.asana.com/2022/06/impact)
-* [![](https://assets.asana.biz/transform/f00a3f86-0802-42ae-a948-41d2936b99e8/web-aow24-nav-thumbnail_aow-cover)
-    
-    ReportThe Anatomy of Work: Global Index 2023Read morearrow-right icon](http://asana.com/resources/anatomy-of-work)
-
-[Enterprise](https://asana.com/enterprise)[Pricing](https://asana.com/pricing)
-
-[Get started](https://asana.com/create-account "Get started")[Get started](https://asana.com/create-account "Get started")[Log In](https://app.asana.com/)[Launch Asana](https://app.asana.com/)
-
-[Contact sales](https://asana.com/sales)
-
-[View demo](https://asana.com/go/demo)
-
-[Download App](https://asana.com/download)
-
-PLATFORM
-
-* [Product overview](https://asana.com/product)
-* [All features](https://asana.com/features)
-* [App integrations](https://asana.com/apps)
-
-CAPABILITIES
-
-* [project iconProject management](https://asana.com/features/project-management)
-* [Projects](https://asana.com/features/project-management/projects)
-* [Project views](https://asana.com/features/project-management/project-views)
-* [Tasks](https://asana.com/features/project-management/tasks)
-* [Custom fields](https://asana.com/features/project-management/custom-fields)
-* [Status updates](https://asana.com/features/project-management/status-updates)
-* [goal iconGoals and reporting](https://asana.com/features/goals-reporting)
-* [Goals](https://asana.com/features/goals-reporting/goals)
-* [Reporting dashboards](https://asana.com/features/goals-reporting/reporting-dashboards)
-* [Portfolios](https://asana.com/features/goals-reporting/portfolios)
-
-* [workflow iconWorkflows and automation](https://asana.com/features/workflow-automation)
-* [Rules](https://asana.com/features/workflow-automation/rules)
-* [Forms](https://asana.com/features/workflow-automation/forms/)
-* [Bundles](https://asana.com/features/workflow-automation/workflow-bundles)
-* [portfolio iconResource management](https://asana.com/features/resource-management)
-* [Workload](https://asana.com/features/resource-management/workload)
-* [Time tracking](https://asana.com/features/resource-management/time-tracking)
-* [my-task iconAdmin and security](https://asana.com/features/admin-security/)
-* [Admin console](https://asana.com/features/admin-security/admin-console)
-* [asana-intelligence iconAsana Intelligence](https://asana.com/product/ai)
-
-ALL PLANS
-
-* [list iconPersonal](https://asana.com/pricing)
-* [premium iconStarter](https://asana.com/plan/starter)
-* [briefcase iconAdvanced](https://asana.com/plan/advanced)
-
-Teams
-
-* [Operations](https://asana.com/teams/operations)
-* [Marketing](https://asana.com/teams/marketing)
-* [IT](https://asana.com/teams/it)
-* [Leaders](https://asana.com/teams/leaders)
-
-Uses
-
-* [Goal management](https://asana.com/uses/goal-management)
-* [Organizational planning](https://asana.com/uses/organizational-planning)
-* [Campaign management](https://asana.com/uses/campaign-management)
-* [Creative production](https://asana.com/uses/creative-production)
-* [Content calendars](https://asana.com/uses/content-calendar)
-
-* [Marketing strategic planning](https://asana.com/uses/marketing-strategic-planning)
-* [Resource planning](https://asana.com/uses/resource-planning)
-* [Project intake](https://asana.com/uses/project-intake)
-* [Product launches](https://asana.com/uses/product-launch)
-* [Employee onboarding](https://asana.com/uses/employee-onboarding)
-* [View all usesarrow-right icon](https://asana.com/uses)
-
-Templates
-
-* [Project plans](https://asana.com/templates/for/other/cross-functional-project-plan)
-* [Team goals & objectives](https://asana.com/templates/for/other/team-goals-planning-example)
-* [Team continuity](https://asana.com/templates/for/other/business-continuity-plan)
-* [Meeting agenda](https://asana.com/templates/for/other/qbr-meeting-agenda)
-* [View all templatesarrow-right icon](https://asana.com/templates)
-
-Explore
-
-* [Work management resources
-    
-    Discover best practices, watch webinars, get insights](https://asana.com/resources)
-* [What's new
-    
-    Learn about the latest and greatest from Asana](https://asana.com/whats-new)
-* [Customer stories
-    
-    See how the world's best organizations drive work innovation with Asana](https://asana.com/customers)
-
-Learn
-
-* [Help Center
-    
-    Get lots of tips, tricks, and advice to get the most from Asana](https://asana.com/guide)
-* [Asana Academy
-    
-    Sign up for interactive courses and webinars to learn Asana](https://academy.asana.com/)
-* [Developers
-    
-    Learn more about building apps on the Asana platform](https://asana.com/developers)
-* [Community programs
-    
-    Connect with and learn from Asana customers around the world](https://asana.com/community)
-
-Connect
-
-* [Events
-    
-    Find out about upcoming events near you](https://events.asana.com/)
-* [Partners
-    
-    Learn more about our partner programs](https://asana.com/partners)
-* [Support
-    
-    Need help? Contact the Asana support team](https://asana.com/support)
-* [Asana for nonprofits
-    
-    Get more information on our nonprofit discount program, and apply.](https://asana.com/nonprofit)
-
-Featured Reads
-
-* [![](https://assets.asana.biz/m/3c783c71ef817d3e/original/WEBINAR-PNG-24AI-ON_DEMAND-800x512-v2.png)
-    
-    DemoMeet Asana Intelligence:  
-    AI has joined the team  
-    Watch nowarrow-right icon](https://resources.asana.com/asana-intelligence-demo?utm_medium=web&utm_source=megamenu&utm_campaign=ai24-demo)
-* [![](https://assets.asana.biz/m/64d1a4e336c4ad0c/original/EMIM23_BLOG_CONCEPTUAL_HERO_803x533_EN.png)
-    
-    ReportDrive employee impact: New tools to empower resilient leadershipRead morearrow-right icon](https://blog.asana.com/2022/06/impact)
-* [![](https://assets.asana.biz/transform/f00a3f86-0802-42ae-a948-41d2936b99e8/web-aow24-nav-thumbnail_aow-cover)
-    
-    ReportThe Anatomy of Work: Global Index 2023Read morearrow-right icon](http://asana.com/resources/anatomy-of-work)
-
-[Contact sales](https://asana.com/sales)
-
-[View demo](https://asana.com/go/demo)
-
-[Download App](https://asana.com/download)
 
 ### User Terms of Service
 
@@ -481,6 +319,7 @@ If you have any questions about these Terms, please contact us at [terms-questi
 * Asana
 * [Home](https://asana.com/?noredirect)
 * [Product](https://asana.com/product)
+* [What's New](https://asana.com/whats-new)
 * [Pricing](https://asana.com/pricing)
 * [Starter](https://asana.com/plan/starter)
 * [Advanced](https://asana.com/plan/advanced)
