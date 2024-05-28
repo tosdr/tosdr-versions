@@ -12,9 +12,9 @@
 
 Listen To My Latest Podcast Episode:
 
-_#680: Experiencing Content Creation Burnout? 5 Powerful Strategies I Swear By_
+_#672: The One Word That Led Me to Have My Best Year in Business Yet_
 
-Listen To My Latest Podcast Episode:_#680: Experiencing Content Creation Burnout? 5 Powerful Strategies I Swear By_
+Listen To My Latest Podcast Episode:_#672: The One Word That Led Me to Have My Best Year in Business Yet_
 
 [Amy Porterfield](https://www.amyporterfield.com/)
 
