@@ -13,11 +13,11 @@ All purchases sold by 2DollarWave is sold as is without any guarantee. By making
 
   
 
-[![](https://giftcashexpress.com/img/banner/662182e9d20ce_logo2.png)](https://www.2dollarwave.com/trr.php?id=235)
+[![](https://www.xrpmax.pro/images/banner02.gif)](https://www.2dollarwave.com/trr.php?id=4)
 
   
 
-[![](https://spillovermatrix.com/img/best468.gif)](https://www.2dollarwave.com/trr.php?id=13)
+[![](http://pays4ever.com/b468.gif)](https://www.2dollarwave.com/trr.php?id=3)
 
   
   
