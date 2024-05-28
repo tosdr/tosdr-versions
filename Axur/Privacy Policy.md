@@ -28,7 +28,7 @@ View dashboard
     
     [Conheça](#)
     
-    * [**Brand Protection**](https://axur.com/en-us/brand-protection)
+    * [**Digital Fraud**](https://axur.com/en-us/digital-frauds)
     * [**Data Leakage**](https://axur.com/en-us/data-leakage)
     * [**Online Piracy**](https://axur.com/en-us/online-piracy)
     * [**Deep & Dark Web Intelligence**](https://axur.com/en-us/deep-and-dark-web-monitoring)
@@ -41,9 +41,9 @@ View dashboard
     
     ##### DIGITAL RISK PREVENTION & CYBER THREAT INTELLIGENCE[](https://www.axur.com/en-us/digital-frauds)
     
-    [**Brand Protection**
+    [**Digital Fraud**
     
-    Search and response to phishings, fake social profiles and fake apps](https://axur.com/en-us/brand-protection)[**Data Leakage**
+    Search and response to phishings, fake social profiles and fake apps](https://axur.com/en-us/digital-frauds)[**Data Leakage**
     
     Detect unauthorized access points to sensitive data and leaked data on the Internet](https://axur.com/en-us/data-leakage)[**Online Piracy**
     
@@ -66,18 +66,12 @@ View dashboard
     * [Watchdog
         
         Remova conteúdos infratores, golpes e fraudes da internet](https://watchdog.axur.io/)
-    * [Threat Report
-        
-        Remova conteúdos infratores, golpes e fraudes da internet](https://axur.com/en-us/threat-report)
     
     Tools
     
     * [Watchdog
         
         Monitor the creation of fake domains using your company’s name](https://watchdog.axur.io/)
-    * [Threat Report
-        
-        Discover the risks that may be exposing your organization](https://axur.com/en-us/threat-report)
     
 * About Us
     
@@ -345,7 +339,7 @@ Previous versions**:** To access previous versions, please email [privacy@axur.c
 
 ##### Digital Risk Protection
 
-[Data Leakage](https://axur.com/en-us/data-leakage)[Online Piracy](https://axur.com/en-us/online-piracy)[Digital Fraud](https://axur.com/en-us/brand-protection)[Deep & Dark Web Intelligence](https://axur.com/en-us/deep-and-dark-web-monitoring)[Executives and VIPs](https://axur.com/en-us/executives-vips)
+[Data Leakage](https://axur.com/en-us/data-leakage)[Online Piracy](https://axur.com/en-us/online-piracy)[Digital Fraud](https://axur.com/en-us/digital-frauds)[Deep & Dark Web Intelligence](https://axur.com/en-us/deep-and-dark-web-monitoring)[Executives and VIPs](https://axur.com/en-us/executives-vips)
 
 ##### INCIDENT RESPONSE
 
@@ -353,7 +347,7 @@ Previous versions**:** To access previous versions, please email [privacy@axur.c
 
 ##### About Us
 
-[Why Axur?](https://axur.com/en-us/about-axur)[Contact](https://start.axur.com/en-us/)[Partners](https://axur.com/en-us/partners)[Talents](https://start.axur.com/en-us/talents)[Privacy Notice](https://axur.com/en-us/privacy-policy)
+[Why Axur?](https://axur.com/en-us/about-axur)[Contact](https://start.axur.com/en-us/)[Partners](https://axur.com/en-us/partners-old)[Talents](https://start.axur.com/en-us/talents)[Privacy Notice](https://axur.com/en-us/privacy-policy)
 
 [![linkedin logo](https://assets-global.website-files.com/61e1949f83dad6619067b896/61fd284190785d66a7fa8127_linkedin.svg)](https://www.linkedin.com/company/axur/)[![facebook logo](https://assets-global.website-files.com/61e1949f83dad6619067b896/61fd28401e06892b05b5afb3_facebook.svg)](https://www.facebook.com/AxurBrasil/)[![instagram logo](https://assets-global.website-files.com/61e1949f83dad6619067b896/61fd284170547b7125ca036b_instagram.svg)](https://www.instagram.com/axurbr/)[![youtube logo](https://assets-global.website-files.com/61e1949f83dad6619067b896/61fd28412e938635f22881e9_youtube.svg)](https://www.youtube.com/c/AxurBrasil)[![twitter logo](https://assets-global.website-files.com/61e1949f83dad6619067b896/61fd28411c1f072f3a0b50be_twitter.svg)](https://twitter.com/AxurBrasil/)
 
