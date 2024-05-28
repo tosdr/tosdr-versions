@@ -6,6 +6,7 @@ Shop All
 
 Devices
 
+* [Sonic Scalp Scrubber](https://blackwolfnation.com/pages/specialoffer-fb-sonicscalp2in1)
 * [Sonic Scrubber](https://blackwolfnation.com/pages/specialoffer-fb-sonicscrubber3)
 * [WUSH™ PRO Ear Cleaner](https://blackwolfnation.com/pages/specialoffer-fb-v19)
 
@@ -28,6 +29,8 @@ Bundles + Sets
 [NEW! Shower Caddy](https://blackwolfnation.com/products/shower-caddy)
 
 Best Sellers
+
+[Sonic Scalp Scrubber](https://blackwolfnation.com/pages/specialoffer-fb-sonicscalp2in1)
 
 [Sonic Scrubber](https://blackwolfnation.com/pages/specialoffer-fb-sonicscrubber3)
 
@@ -52,6 +55,8 @@ Bundles & Sets
 [Sonic Scrubber](https://blackwolfnation.com/pages/specialoffer-fb-sonicscrubber3)
 
 [Wush Pro Ear Cleaner](https://blackwolfnation.com/pages/specialoffer-fb-v19)
+
+[Sonic Scalp Scrubber](https://blackwolfnation.com/pages/specialoffer-fb-sonicscalp2in1)
 
 * [Rewards](https://blackwolfnation.com/pages/rewards-information#smile-referral-program-details)
 * [Subscriptions](https://blackwolfnation.com/pages/subscriptions)
@@ -85,6 +90,7 @@ Free Shower Caddy On Orders Over $80 | Free Shipping On All Orders Over $55
     
     * [Devices](https://blackwolfnation.com/collections/device-collection)
         
+        * [Sonic Scalp Scrubber](https://blackwolfnation.com/pages/specialoffer-fb-sonicscalp2in1)
         * [Sonic Scrubber](https://blackwolfnation.com/pages/specialoffer-fb-sonicscrubber3)
         * [WUSH™ PRO Ear Cleaner](https://blackwolfnation.com/pages/specialoffer-fb-v19)
         
@@ -106,6 +112,7 @@ Free Shower Caddy On Orders Over $80 | Free Shipping On All Orders Over $55
     
 * [Best Sellers](https://blackwolfnation.com/collections/best-sellers)
     
+    * [Sonic Scalp Scrubber](https://blackwolfnation.com/pages/specialoffer-fb-sonicscalp2in1)
     * [Sonic Scrubber](https://blackwolfnation.com/pages/specialoffer-fb-sonicscrubber3)
     * [WUSH™ PRO Ear Cleaner](https://blackwolfnation.com/pages/specialoffer-fb-v19)
     * [Charcoal Body Wash Liter](https://blackwolfnation.com/products/charcoal-body-wash-liter)
@@ -121,6 +128,7 @@ Free Shower Caddy On Orders Over $80 | Free Shipping On All Orders Over $55
     
 * [Sonic ScrubberSonic Scrubber](https://blackwolfnation.com/pages/specialoffer-fb-sonicscrubber3)
 * [Wush Pro Ear CleanerWush Pro Ear Cleaner](https://blackwolfnation.com/pages/specialoffer-fb-v19)
+* [Sonic Scalp ScrubberSonic Scalp Scrubber](https://blackwolfnation.com/pages/specialoffer-fb-sonicscalp2in1)
 
 * [REFER A FRIEND](https://blackwolfnation.com/pages/rewards-information#smile-referral-program-details)
 * [SUBSCRIPTIONS](https://blackwolfnation.com/pages/subscriptions)
