@@ -1,10 +1,13 @@
 [![Cameyo](https://cameyo.com/wp-content/uploads/2018/12/Cameyo-Black.png)](https://cameyo.com/)
 
 * [Solutions](https://cameyo.com/solutions/)
-    * [Cameyo for Remote Work](https://cameyo.com/cameyo-for-remote-work/)
-    * [The Leading Citrix Alternative Solution](https://cameyo.com/citrix-replacement/)
+    * [Hybrid/Remote Work](https://cameyo.com/cameyo-for-remote-work/)
+    * [VDI Replacement](https://cameyo.com/citrix-replacement/)
     * [ChromeOS Virtual App Delivery](https://cameyo.com/chromeos-virtual-app-delivery/)
+    * [ISVs](https://cameyo.com/cameyo-for-isvs/)
     * [MSPs](https://cameyo.com/cameyo-for-msps/)
+    * [GPUs](https://cameyo.com/cameyo-for-gpu/)
+    * [Education](https://cameyo.com/education/)
     * [Business Continuity](https://cameyo.com/cameyo-rapid-recovery/)
 * [Products](https://cameyo.com/products/)
     * [Fully Hosted](https://cameyo.com/cameyo-cloud/)
@@ -151,6 +154,11 @@ Unsolicited User Submissions
 
 Neither Cameyo nor any of its employees accept or consider unsolicited submissions of ideas of any kind from outside parties. Therefore, please do not send any unsolicited original materials, concepts or ideas to anyone at Cameyo either through this website or via any other means of communication. However, should you choose to ignore this request, please be advised that any unsolicited information or material sent to Cameyo or any Cameyo employee will be deemed NOT to be confidential. Your submission of any unsolicited information or material grants to Cameyo an unrestricted, irrevocable license to use, reproduce, display, perform, modify, transmit and distribute that information or material and any underlying intellectual property. In addition Cameyo is free to use, without restriction, any unsolicited ideas, concepts, know-how or techniques that you send Cameyo for any purposes. The Cameyo Privacy Statement will govern the disclosure of your name or any other personal information related to any such submissions.
 
+Governing Law and Jurisdiction
+------------------------------
+
+This website is controlled by Cameyo from its offices in Cary, North Carolina, United States of America. All matters relating to your access to, or use of, this website shall be governed by U.S. federal law or the laws of the State of North Carolina. Any legal action or proceeding relating to your access to, or use of, this website shall be instituted in a state or federal court in Raleigh or Wake County, North Carolina. You and Cameyo agree to submit to the jurisdiction of, and agree that venue is proper in, these courts in any such legal action or proceeding.
+
 Trademark Information
 ---------------------
 
@@ -173,9 +181,9 @@ United States export laws and regulations apply to this website and Cameyo. You 
 Legal Contacts
 --------------
 
-If you have any questions concerning the usage or licensing of Cameyo trademarks, questions regarding Cameyo copyrighted materials or any other questions regarding these Terms and Conditions, contact the Cameyo Legal Department by e-mail at [\[email protected\]](https://cameyo.com/cdn-cgi/l/email-protection). 
+If you have any questions concerning the usage or licensing of Cameyo trademarks, questions regarding Cameyo copyrighted materials or any other questions regarding these Terms and Conditions, contact the Cameyo Legal Department by e-mail at [\[email protected\]](https://cameyo.com/cdn-cgi/l/email-protection). Cameyo is a private company devoted to the support and further development of its software and related services.
 
-**Updated May 2024**
+**Updated December 2023**
 
 #### Buy Now
 
@@ -192,17 +200,23 @@ If you have any questions concerning the usage or licensing of Cameyo trademarks
 
 #### Products
 
-* [Fully Hosted](https://cameyo.com/cameyo-cloud/)
 * [Self Hosted](https://cameyo.com/cameyo-server/)
+* [Fully Hosted](https://cameyo.com/cameyo-cloud/)
 * [Cameyo for Linux](https://cameyo.com/cameyo-for-linux/)
 * [Bring Your Own Cloud](https://cameyo.com/bring-your-own-cloud/)
 * [Cameyo Rapid Recovery](https://cameyo.com/cameyo-rapid-recovery/)
+* [NoVPN](https://cameyo.com/novpn/)
 * [Automated Trial Service](https://cameyo.com/automated-trial-service/)
 
 #### Solutions
 
+* [For Remote Work](https://cameyo.com/cameyo-for-remote-work/)
+* [For VDI Replacement](https://cameyo.com/citrix-replacement/)
 * [For Chromebook](https://cameyo.com/chromeos-virtual-app-delivery/)
+* [For ISVs](https://cameyo.com/cameyo-for-isvs/)
 * [For MSPs](https://cameyo.com/cameyo-for-msps/)
+* [For GPUs](https://cameyo.com/cameyo-for-gpu/)
+* [For Education](https://cameyo.com/education/)
 
 #### Resources
 
@@ -233,7 +247,7 @@ If you have any questions concerning the usage or licensing of Cameyo trademarks
     
     ▼](https://cameyo.com/solutions/)
     * [Hybrid/Remote Work](https://cameyo.com/cameyo-for-remote-work/)
-    * [The Leading Citrix Alternative Solution](https://cameyo.com/citrix-replacement/)
+    * [VDI Replacement](https://cameyo.com/citrix-replacement/)
     * [ChromeOS Virtual App Delivery](https://cameyo.com/chromeos-virtual-app-delivery/)
     * [ISVs](https://cameyo.com/cameyo-for-isvs/)
     * [MSPs](https://cameyo.com/cameyo-for-msps/)
