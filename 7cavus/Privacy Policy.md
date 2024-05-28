@@ -58,6 +58,8 @@ Install
 
 More options
 
+[Contact us](mailto:imo@7cav.us)
+
 Close Menu
 
 ### 7th Cavalry Gaming
@@ -80,12 +82,12 @@ Help
 
 * [Help](https://7cav.us/help/) 
 
-[Facebook](https://www.facebook.com/7thCavalryGaming/) [Twitter](https://twitter.com/7Cav) [youtube](https://www.youtube.com/@7CavGaming) [Discord](https://discord.7cav.us/) [Steam](https://steamcommunity.com/groups/7Cav) [Instagram](https://www.instagram.com/7thcavgaming/) [GitHub](https://github.com/7cav) [RSS](https://7cav.us/forums/-/index.rss)
+[Facebook](https://www.facebook.com/7thCavalryGaming/) [Twitter](https://twitter.com/7Cav) [youtube](https://www.youtube.com/@7CavGaming) [Discord](https://discord.7cav.us/) [Steam](https://steamcommunity.com/groups/7Cav) [Instagram](https://www.instagram.com/7thcavgaming/) [GitHub](https://github.com/7cav) [Contact us](mailto:imo@7cav.us) [RSS](https://7cav.us/forums/-/index.rss)
 
 Privacy policy
 ==============
 
-We are 7th Cavalry Gaming ("we", "our", "us"). We’re committed to protecting and respecting your privacy. If you have questions about your personal information please contact us.
+We are 7th Cavalry Gaming ("we", "our", "us"). We’re committed to protecting and respecting your privacy. If you have questions about your personal information please [contact us](mailto:imo@7cav.us).
 
 What information we hold about you
 ----------------------------------
@@ -136,9 +138,9 @@ We have a detailed cookie policy and more information about the cookies that we 
 Rights
 ------
 
-You have a right to access the personal data we hold about you or obtain a copy of it. To do so please contact us. If you believe that the information we hold for you is incomplete or inaccurate, you may contact us to ask us to complete or correct that information.
+You have a right to access the personal data we hold about you or obtain a copy of it. To do so please [contact us](mailto:imo@7cav.us). If you believe that the information we hold for you is incomplete or inaccurate, you may [contact us](mailto:imo@7cav.us) to ask us to complete or correct that information.
 
-You do not have the right to request the erasure of your personal data. Please contact us if you wish to discuss specific data deletion queries.
+You do not have the right to request the erasure of your personal data. Please [contact us](mailto:imo@7cav.us) if you wish to discuss specific data deletion queries.
 
 Acceptance of this policy
 -------------------------
@@ -152,10 +154,11 @@ We may make changes to this policy at any time. You may be asked to review and r
 
 * [Help](https://7cav.us/help/) 
 
-[Facebook](https://www.facebook.com/7thCavalryGaming/) [Twitter](https://twitter.com/7Cav) [youtube](https://www.youtube.com/@7CavGaming) [Discord](https://discord.7cav.us/) [Steam](https://steamcommunity.com/groups/7Cav) [Instagram](https://www.instagram.com/7thcavgaming/) [GitHub](https://github.com/7cav) [RSS](https://7cav.us/forums/-/index.rss)
+[Facebook](https://www.facebook.com/7thCavalryGaming/) [Twitter](https://twitter.com/7Cav) [youtube](https://www.youtube.com/@7CavGaming) [Discord](https://discord.7cav.us/) [Steam](https://steamcommunity.com/groups/7Cav) [Instagram](https://www.instagram.com/7thcavgaming/) [GitHub](https://github.com/7cav) [Contact us](mailto:imo@7cav.us) [RSS](https://7cav.us/forums/-/index.rss)
 
 * Change width
 
+* [Contact us](mailto:imo@7cav.us)
 * [Terms and rules](https://7cav.us/help/terms/)
 * [Privacy policy](https://7cav.us/help/privacy-policy/)
 * [Help](https://7cav.us/help/)
