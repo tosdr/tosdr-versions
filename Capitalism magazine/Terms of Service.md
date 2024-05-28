@@ -115,10 +115,10 @@ User represents, warrants, and covenants (a) that no materials of any kind submi
 
 #### [![RSS](https://www.capitalismmagazine.com/wp-includes/images/rss.png)](https://review.capitalismmagazine.com/feed/) [CAPITALISM REVIEW](https://review.capitalismmagazine.com/)
 
-* [Biden Administration’s Appeasement of Iran Is Driving The World To a Nuclear Holocaust](https://review.capitalismmagazine.com/2024/05/biden-administrations-appeasement-of-iran-is-driving-the-world-to-a-nuclear-holocaust/)
-* [Distrupt Tesla: The Assault on Tesla Factory and Ayn Rand’s Atlas Shrugged](https://review.capitalismmagazine.com/2024/05/distrupt-tesla-the-assault-on-tesla-factory-and-ayn-rands-atlas-shrugged/)
-* [Pride is No Sin](https://review.capitalismmagazine.com/2024/05/pride-is-no-sin/)
-* [Anti-Israel: The Gradual Transformation of the Democratic Party](https://review.capitalismmagazine.com/2024/05/anti-israel-the-gradual-transformation-of-the-democratic-party/)
+* [Justice for Elon Musk: Tesla Asks Shareholders to Reapprove Elon’s $47B Stock Bonus](https://review.capitalismmagazine.com/2024/04/justice-for-elon-musk-tesla-asks-shareholders-to-reapprove-elons-47b-stock-bonus/)
+* [Stossel: How the Law Protects Squatters](https://review.capitalismmagazine.com/2024/03/stossel-how-the-law-protects-squatters/)
+* [Antitrust: Defend Apple Against the DOJ](https://review.capitalismmagazine.com/2024/03/antitrust-defend-apple-against-the-doj/)
+* [“States Rights” Are Actually Delegated Powers](https://review.capitalismmagazine.com/2024/03/states-rights-are-actually-delegated-powers/)
 
 #### Recommended Reading
 
