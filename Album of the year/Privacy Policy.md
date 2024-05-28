@@ -93,35 +93,35 @@ Advertisement
 
 [New Album Releases](https://www.albumoftheyear.org/releases/this-week/)
 
-87
-
-[Billie Eilish
-
-HIT ME HARD AND SOFT](https://www.albumoftheyear.org/album/924853-billie-eilish-hit-me-hard-and-soft.php)
-
-86
-
-[Beth Gibbons
-
-Lives Outgrown](https://www.albumoftheyear.org/album/863906-beth-gibbons-lives-outgrown.php)
-
-NR
-
-[Mach-Hommy
-
-#RICHAXXHAITIAN](https://www.albumoftheyear.org/album/676662-mach-hommy-richaxxhaitian.php)
-
-NR
-
-[ian
-
-Valedictorian](https://www.albumoftheyear.org/album/956489-ian-valedictorian.php)
-
 73
 
-[Cage the Elephant
+[Taylor Swift
 
-Neon Pill](https://www.albumoftheyear.org/album/889181-cage-the-elephant-neon-pill.php)
+THE TORTURED POETS DEPARTMENT](https://www.albumoftheyear.org/album/867088-taylor-swift-the-tortured-poets-department.php)
+
+77
+
+[Taylor Swift
+
+THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY](https://www.albumoftheyear.org/album/934464-taylor-swift-the-tortured-poets-department-the-anthology.php)
+
+NR
+
+[Drake
+
+Push Ups](https://www.albumoftheyear.org/album/929329-drake-push-ups.php)
+
+82
+
+[Pearl Jam
+
+Dark Matter](https://www.albumoftheyear.org/album/873510-pearl-jam-dark-matter.php)
+
+NR
+
+[Kanye West
+
+LIKE THAT REMIX](https://www.albumoftheyear.org/album/936141-kanye-west-like-that-remix.php)
 
 [More Releases](https://www.albumoftheyear.org/releases/this-week/)
 
@@ -131,27 +131,27 @@ Neon Pill](https://www.albumoftheyear.org/album/889181-cage-the-elephant-neon-pi
 
 [![Aaron West & The Roaring Twenties - In Lieu of Flowers](https://cdn.albumoftheyear.org/images/clear.gif)](https://www.albumoftheyear.org/album/842292-aaron-west-the-roaring-twenties-in-lieu-of-flowers.php "Aaron West & The Roaring Twenties - In Lieu of Flowers")
 
-[![Knocked Loose - You Won't Go Before You're Supposed To](https://cdn.albumoftheyear.org/images/clear.gif)](https://www.albumoftheyear.org/album/887049-knocked-loose-you-wont-go-before-youre-supposed-to.php "Knocked Loose - You Won't Go Before You're Supposed To")
-
-[![Mdou Moctar - Funeral For Justice](https://cdn.albumoftheyear.org/images/clear.gif)](https://www.albumoftheyear.org/album/888230-mdou-moctar-funeral-for-justice.php "Mdou Moctar - Funeral For Justice")
+[![Charles Lloyd - The Sky Will Still Be There Tomorrow](https://cdn.albumoftheyear.org/images/clear.gif)](https://www.albumoftheyear.org/album/852731-charles-lloyd-the-sky-will-still-be-there-tomorrow.php "Charles Lloyd - The Sky Will Still Be There Tomorrow")
 
 [![English Teacher - This Could Be Texas](https://cdn.albumoftheyear.org/images/clear.gif)](https://www.albumoftheyear.org/album/850250-english-teacher-this-could-be-texas.php "English Teacher - This Could Be Texas")
 
-[![Shellac - To All Trains](https://cdn.albumoftheyear.org/images/clear.gif)](https://www.albumoftheyear.org/album/907210-shellac-to-all-trains.php "Shellac - To All Trains")
-
-[![Billie Eilish - HIT ME HARD AND SOFT](https://cdn.albumoftheyear.org/images/clear.gif)](https://www.albumoftheyear.org/album/924853-billie-eilish-hit-me-hard-and-soft.php "Billie Eilish - HIT ME HARD AND SOFT")
-
-[![Jessica Pratt - Here in the Pitch](https://cdn.albumoftheyear.org/images/clear.gif)](https://www.albumoftheyear.org/album/874771-jessica-pratt-here-in-the-pitch.php "Jessica Pratt - Here in the Pitch")
-
-[![A. G. Cook - Britpop](https://cdn.albumoftheyear.org/images/clear.gif)](https://www.albumoftheyear.org/album/878112-a-g-cook-britpop.php "A. G. Cook - Britpop")
+[![Can - Live in Paris 1973](https://cdn.albumoftheyear.org/images/clear.gif)](https://www.albumoftheyear.org/album/840385-can-live-in-paris-1973.php "Can - Live in Paris 1973")
 
 [![Beyoncé - COWBOY CARTER](https://cdn.albumoftheyear.org/images/clear.gif)](https://www.albumoftheyear.org/album/873803-beyonce-cowboy-carter.php "Beyoncé - COWBOY CARTER")
+
+[![Hamferð - Men Gu​ð​s Hond Er Sterk](https://cdn.albumoftheyear.org/images/clear.gif)](https://www.albumoftheyear.org/album/867017-hamferd-men-gus-hond-er-sterk.php "Hamferð - Men Gu​ð​s Hond Er Sterk")
+
+[![BIG|BRAVE - A Chaos of Flowers](https://cdn.albumoftheyear.org/images/clear.gif)](https://www.albumoftheyear.org/album/843183-big-brave-a-chaos-of-flowers.php "BIG|BRAVE - A Chaos of Flowers")
+
+[![Adrianne Lenker - Bright Future](https://cdn.albumoftheyear.org/images/clear.gif)](https://www.albumoftheyear.org/album/848518-adrianne-lenker-bright-future.php "Adrianne Lenker - Bright Future")
+
+[![Waxahatchee - Tigers Blood](https://cdn.albumoftheyear.org/images/clear.gif)](https://www.albumoftheyear.org/album/841361-waxahatchee-tigers-blood.php "Waxahatchee - Tigers Blood")
 
 Advertisement
 
   
 
-[April Playlist](https://open.spotify.com/playlist/6wgHjnYdtmDqWroFGPReZE?si=bedf614fb6f849b9)
+[March Playlist](https://open.spotify.com/playlist/1wOW4KGZLLLrmFwD213R0E?si=560a608e348542b4)
 
 [Go Ad-Free](https://www.albumoftheyear.org/donate/)
 
@@ -170,6 +170,8 @@ Advertisement
 [Random](https://www.albumoftheyear.org/random/)
 
 **ARTISTS**
+
+[Overview](https://www.albumoftheyear.org/artists/)
 
 [Highest Rated](https://www.albumoftheyear.org/bands/top-artists/)
 
