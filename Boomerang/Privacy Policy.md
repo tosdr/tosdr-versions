@@ -232,7 +232,7 @@ Our website uses cookies and by using the site you agree to this. [Learn more he
         * [18](http://www.boomerangrentals.co.uk/search_results.php?search=1&Console=SWITCH&certificate=18)
     
     * * [![](/images/library/homeimages/SuperMarioBrosWonderDropdownBanner.png)](https://www.boomerangrentals.co.uk/game-rental-details/rent-super-mario-bros-wonder-switch/g1172switch)
-        * [![](/images/library/homeimages/PaperMarioWebsiteBanner.png)](https://www.boomerangrentals.co.uk/game-rental-details/rent-paper-mario-the-thousand-year-door-switch/g1293switch)
+        * [![](/images/library/homeimages/MariovsDonkeyKongBanner.png)](https://www.boomerangrentals.co.uk/search_results.php?search=1&Console=&category=&certificate=&phrase=mario+vs+donkey+kong)
         * [![](/images/library/homeimages/PrincessPeachShowtimeWebsiteBanner.png)](https://www.boomerangrentals.co.uk/game-rental-details/rent-princess-peach-showtime-switch/g1275switch)
     
 * [Xbox 360](#)
