@@ -217,10 +217,6 @@ Menu Close
     
     Benefits designed for you
     
-    * [Promotions](https://www.acronis.com/en-us/partners/promotions/)
-        
-        Active
-        
     * [Service providers](https://www.acronis.com/en-us/partners/service-providers/)
     * [Resellers](https://www.acronis.com/en-us/partners/resellers/)
     * [Affiliates](https://www.acronis.com/en-us/partners/affiliates/)
@@ -234,7 +230,7 @@ Menu Close
         
         Partners now have access to all sales and technical training — a $999 annual value per partner
         
-    * [MSP Academy](https://academy.acronis.com/en-us/catalogue/)
+    * [MSP Academy](https://www.acronis.com/en-us/academy/msp/)
         
         Vendor-neutral training, covering the A-Z of managing an MSP business
         
@@ -308,7 +304,7 @@ Menu Close
         
         Partners now have access to all sales and technical training — a $999 annual value per partner
         
-    * [MSP Academy](https://academy.acronis.com/en-us/catalogue/)
+    * [MSP Academy](https://www.acronis.com/en-us/academy/msp/)
         
         Vendor-neutral training, covering the A-Z of managing an MSP business
         
@@ -645,7 +641,7 @@ Engage with Acronis
 * [](https://www.acronis.com/en-us/cyber-protection-center/feed.xml)
 * [](https://www.youtube.com/user/Acronis)
 * [](https://www.linkedin.com/company/acronis)
-* [](https://community.spiceworks.com/t/about-vendor-acronis/1014518)
+* [](https://community.spiceworks.com/pages/acronis)
 * [](https://www.reddit.com/r/acronis)
 * [](https://www.facebook.com/acronis)
 
