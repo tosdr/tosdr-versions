@@ -1,12 +1,24 @@
-[![Logo Amboss](https://assets-global.website-files.com/64f59b196c6b3f1ee358eb8c/65379f02e88836f0f27bc091_ambossLogoDefault.svg)](https://www.amboss.com/us)
+[![Logo Amboss](https://assets-global.website-files.com/64f59b196c6b3f1ee358eb8c/65379f02e88836f0f27bc091_ambossLogoDefault.svg)](https://www.amboss.com/)
 
 Students
 
 [AMBOSS for Students](https://www.amboss.com/us/students)[Study Aid](https://www.amboss.com/us/students/study)[Exam Preparation](https://www.amboss.com/us/students/exams)[Clerkships](https://www.amboss.com/us/students/clerkships)[Student Scores](https://www.amboss.com/us/usmle/scores)[Group Discounts](https://www.amboss.com/us/group-discounts)
 
-[USMLE](https://www.amboss.com/us/usmle)[Step 1](https://www.amboss.com/us/usmle/step1)[Step 2 CK](https://www.amboss.com/us/usmle/step2)[Self-assessment](https://www.amboss.com/us/usmle/self-assessment)[Score Predictor](https://www.amboss.com/us/usmle/score-predictor)
+[USMLE](https://www.amboss.com/us/usmle)[Step 1](https://www.amboss.com/us/usmle/step1)[Step 2 CK](https://www.amboss.com/us/usmle/step2)[Self-assessment](https://www.amboss.com/us/usmle/self-assessment/step2)[Score Predictor](https://www.amboss.com/us/usmle/score-predictor)
 
-[Shelf Exams](https://www.amboss.com/us/shelf)[Surgery](https://www.amboss.com/us/shelf/surgery)[Neurology](https://www.amboss.com/us/shelf/neurology-shelf-exam)[Medicine](https://www.amboss.com/us/shelf/medicine)[Obstetrics & Gynecology](https://www.amboss.com/us/shelf/ob-gyn)[Pediatrics](https://www.amboss.com/us/shelf/pediatrics)[Psychiatry](https://www.amboss.com/us/shelf/psychiatry)
+[Shelf Exams](https://www.amboss.com/us/shelf)
+
+[Psychiatry](https://www.amboss.com/us/shelf/psychiatry)
+
+[Obstetrics & Gynecology](https://www.amboss.com/us/shelf/ob-gyn)
+
+[Pediatrics](https://www.amboss.com/us/shelf/pediatrics)
+
+[Medicine](https://www.amboss.com/us/shelf/medicine)
+
+[Surgery](https://www.amboss.com/us/shelf/surgery)
+
+[Neurology](https://www.amboss.com/us/shelf/neurology)
 
 [Anki](https://www.amboss.com/us/anki)[Anki meets Qbank](https://www.amboss.com/us/anki/qbank)[Crash Course](https://www.amboss.com/us/anki/crash-course)
 
@@ -18,7 +30,7 @@ Clinicians
 
 [Differential Diagnosis](https://www.amboss.com/us/clinicians/differential-diagnosis)[Drug Database](https://www.amboss.com/us/clinicians/drug-database)
 
-[Clinical Calculators](https://www.amboss.com/us/clinicians/clinical-calculators)[USMLE Step 3](https://www.amboss.com/us/clinicians/step3)
+[Clinical Calculators](https://www.amboss.com/us/clinicians/clinical-calculators)[Step 3](https://www.amboss.com/us/clinicians/step3)
 
 [One Minute Telegram](https://www.amboss.com/us/clinicians/one-minute-telegram)[NEJM Knowledge+](https://www.amboss.com/us/clinicians/nejm-knowledge-plus)
 
@@ -30,7 +42,7 @@ Platform
 
 [Mobile Apps](https://www.amboss.com/us/mobile-app)
 
-[Free Chrome Extension](https://chromewebstore.google.com/detail/amboss-medical-knowledge/hnlpidgbnmikgkmccephgaljihheckii?hl=en&pli=1)
+[Love Notes](https://www.amboss.com/us/love-notes)
 
 [Institutions](https://www.amboss.com/us/institutions)[Pricing](https://www.amboss.com/us/pricing)
 
@@ -708,7 +720,7 @@ AMBOSS
 
 Company
 
-[About Us](https://www.amboss.com/us/about)[Advisory Board](https://www.amboss.com/us/advisory-board)[Careers](https://careers.amboss.com/)[Blog](https://blog.amboss.com/us)[Love Notes](https://www.amboss.com/us/love-notes)
+[About Us](https://www.amboss.com/us/about)[Advisory Board](https://www.amboss.com/us/advisory-board)[Careers](https://careers.amboss.com/)[Blog](https://blog.amboss.com/us)
 
 LEGAL
 
