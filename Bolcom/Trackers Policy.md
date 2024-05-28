@@ -83,8 +83,8 @@ Cadeaus & Inspiratie
 * Inspiratie
     
 * **Inspiratie**
-* [Tuininspiratie](https://www.bol.com/nl/nl/sf/tuininspiratie/)
 * [Wooninspiratie](https://www.bol.com/nl/nl/sf/wooninspiratie/)
+* [Tuininspiratie](https://www.bol.com/nl/nl/sf/tuininspiratie/)
 * [Boeken inspiratie](https://www.bol.com/nl/nl/sf/lees/)
 * [Kinderboeken inspiratie](https://www.bol.com/nl/nl/sf/kinderboeken/)
 * Meer categorieën
@@ -107,7 +107,6 @@ Cadeaus & Inspiratie
 * [NK Allround Gaming 2024](https://www.bol.com/nl/nl/inf/nk-allround-gaming-2024/76204/)
 * [Koffiewinkel](https://www.bol.com/nl/nl/sf/koffiewinkel/)
 * [Energiezuinig witgoed](https://www.bol.com/nl/nl/sf/energiezuinig-witgoed/)
-* [Merchandise](https://www.bol.com/nl/nl/sf/merchandise/)
 
 Aanbiedingen
 
@@ -126,29 +125,28 @@ Aanbiedingen
 * [Retourdeals: tot 15% goedkoper \*](https://www.bol.com/nl/nl/i/-/192305/)
 * [Speelgoed aanbiedingen](https://www.bol.com/nl/nl/m/speelgoed-aanbiedingen/)
 * [Film & Muziek Acties](https://www.bol.com/nl/nl/m/games-film-muziek-acties/)
-* [Exclusieve Select-Deals](https://www.bol.com/nl/nl/cmp/select-deal/1826/)
-* [Gaming deals](https://www.bol.com/nl/nl/cmp/gamingdeals/1906/)
-* [Vakantiegeld deals](https://www.bol.com/nl/nl/cmp/vakantiegeld-deals/1957/)
+* [Exclusieve Select-Deals](https://www.bol.com/nl/nl/cmp/select-deal/1955/)
+
+* Select-Deals
+    
+* **[Select-Deals](https://www.bol.com/nl/nl/cmp/select-deal/1955/)**
+* [Select-korting op spellen en breinbrekers](https://www.bol.com/nl/nl/ra/select-korting-op-spellen-en-breinbrekers/318529/)
+* [Hoge Select-korting op koffie](https://www.bol.com/nl/nl/ra/hoge-korting-op-koffie/306636/)
+* [Voordelige Select-Deals op wasmiddelen & wasverzachters](https://www.bol.com/nl/nl/ra/voordelige-select-deals-op-wasmiddelen-wasverzachters/326597/)
+
+* Mid-season sale
+    
+* **[Mid-season sale](https://www.bol.com/nl/nl/cmp/Midseasonsale/1952/)**
+* [Tot 30% korting\* op damesmode](https://www.bol.com/nl/nl/ra/korting-op-damesmode/326467+47198/)
+* [Tot 30% korting\* op herenmode](https://www.bol.com/nl/nl/ra/korting-op-herenmode/326470+47410/)
+* [Tot 30% korting\* op damesschoenen](https://www.bol.com/nl/nl/ra/tot-30-korting-op-dames-schoenen/321778+37400/)
 
 * Alles voor buiten
     
 * **[Alles voor buiten](https://www.bol.com/nl/nl/cmp/naarbuitencampagne/1951/)**
-* [Korting\* op Exotan](https://www.bol.com/nl/nl/ra/korting-op-exotan/327174/)
-* [Korting\* op zonwerende en isolerende raamfolie](https://www.bol.com/nl/nl/ra/korting-op-zonwerende-en-isolerende-raamfolie/320654)
-
-* Vakantiegeld deals
-    
-* **[Vakantiegeld deals](https://www.bol.com/nl/nl/cmp/vakantiegeld-deals/1957/)**
-* [Hoge korting\* op televisies](https://www.bol.com/nl/nl/ra/hoge-korting-op-televisies/329747+7291+58334)
-* [Hoge korting\* op MacBooks](https://www.bol.com/nl/nl/ra/hoge-korting-op-macbooks/327278)
-* [Hoge korting\* op huishoudelijke gadgets](https://www.bol.com/nl/nl/ra/hoge-korting-op-huishoudelijke-gadgets/329925)
-
-* Voorraaddeals
-    
-* **[Voorraaddeals](https://www.bol.com/nl/nl/cmp/voorraaddeals/1916/)**
-* [Tot 50% korting\* op wasmiddelen & wasverzachters](https://www.bol.com/nl/nl/ra/korting-op-wasmiddelen-en-wasverzachters/316431)
-* [Tot 40% korting\* op zonbescherming](https://www.bol.com/nl/nl/ra/hoge-korting-op-zonbescherming/309537)
-* [Tot 50% korting\* op Veet en Wilkinson](https://www.bol.com/nl/nl/ra/hoge-korting-op-veet-en-wilkinson/309542)
+* [Tot 25% korting\* op tuinmeubelen en opbergers](https://www.bol.com/nl/nl/ra/tot-25-korting-op-tuinmeubelen-en-opbergers/314877/)
+* [Korting\* op de mooiste werkkleding en bescherming](https://www.bol.com/nl/nl/ra/korting-op-de-mooiste-werkkleding-en-bescherming/314776/)
+* [Korting\* op tuinverlichting van Philips](https://www.bol.com/nl/nl/ra/korting-op-buitenverlichting-van-philips/316736/)
 
 \* op de adviesprijs
 
@@ -158,7 +156,7 @@ Aanbiedingen
 * [Klantenservice](https://www.bol.com/nl/klantenservice/index.html)
 * NL[](https://www.bol.com/nl/rnwy/country-language)
 
-[Vakantiegeld deals](https://www.bol.com/nl/nl/cmp/vakantiegeld-deals/1957/?promo=HEAD_907_Mnav_1_CRS_vakantiegeld_1) [E-bike weken](https://www.bol.com/nl/nl/sf/elektrische-fietsen/?promo=HEAD_907_Mnav_1_CRS_ebikeweken_2) [bol 10-daagse](https://www.bol.com/nl/nl/sf/bol10daagse-vooraankondiging-web/?promo=HEAD_907_Mnav_1_CRS_vooraankondigingb10d_3) [Voorraaddeals](https://www.bol.com/nl/nl/cmp/voorraaddeals/1916/?promo=HEAD_907_Mnav_1_CRS_voorraaddeals_4) [Alles voor buiten](https://www.bol.com/nl/nl/cmp/naarbuitencampagne/1951/?promo=HEAD_907_Mnav_1_CRS_naarbuiten_5)
+[Mid-season sale](https://www.bol.com/nl/nl/cmp/Midseasonsale/1952/?promo=HEAD_907_Mnav_1_CRS_mss_1) [Koningsdag](https://www.bol.com/nl/nl/ra/koningsdag/325508/?promo=HEAD_907_Mnav_1_CRS_koningsdag_2) [Voorraaddeals](https://www.bol.com/nl/nl/cmp/voorraaddeals/1916/?promo=HEAD_907_Mnav_1_CRS_voorraaddeals_3) [Alles voor buiten](https://www.bol.com/nl/nl/cmp/naarbuitencampagne/1951/?promo=HEAD_907_Mnav_1_CRS_naarbuiten_4) [Select-Deals](https://www.bol.com/nl/nl/cmp/select-deal/1955/?promo=HEAD_907_Mnav_1_CRS_selectflight_5)
 
 * [Mijn account](https://www.bol.com/nl/account/abonnement.html)
 * [Meer gemak en voordeel met **Select**
@@ -327,11 +325,6 @@ Als je niet wilt dat websites cookies op jouw computer kunnen opslaan, kun je je
 * [Internet Explorer Edge](https://privacy.microsoft.com/nl-nl/windows-10-microsoft-edge-and-privacy)
 
 Wil je cookies van specifieke partijen uitzetten, dan kan dat via [www.youronlinechoices.com](https://www.youronlinechoices.com/).
-
-  
-  
-  
-  
 
 Cookiehistorie verwijderen
 --------------------------
