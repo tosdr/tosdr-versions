@@ -1,4 +1,4 @@
-[![AURA Technologies](https://aura.company/wp-content/uploads/2024/05/AURA_Header_4.svg)](https://aura.company/)
+[![AURA Technologies](https://aura.company/wp-content/uploads/2021/06/mobile-logo.svg)](https://aura.company/)
 
 * [About](https://aura.company/about/)
     * [About AURA](https://aura.company/about/)
@@ -18,9 +18,9 @@
 
 ![](https://aura.company/wp-content/themes/aura-technologies/images/burger-menu-icon.svg)
 
-[![AURA Technologies](https://aura.company/wp-content/uploads/2024/05/AURA_Header_4.svg)](https://aura.company/)
+[![AURA Technologies](https://aura.company/wp-content/uploads/2021/06/mobile-logo.svg)](https://aura.company/)
 
-[![AURA Technologies](https://aura.company/wp-content/uploads/2024/05/AURA_Header_5.svg)](https://aura.company/)
+[![AURA Technologies](https://aura.company/wp-content/uploads/2021/05/header-logo.svg)](https://aura.company/)
 
 * [About](https://aura.company/about/)
     * [About AURA](https://aura.company/about/)
@@ -114,7 +114,7 @@ This website is controlled by AURA.company. It can be accessed by most countries
 
 Furthermore, any action to enforce this User Agreement shall be brought in the federal or state courts You hereby agree to personal jurisdiction by such courts, and waive any jurisdictional, venue, or inconvenient forum objections to such courts.
 
-[![AURA Technologies](https://aura.company/wp-content/uploads/2024/05/AURA_Logo_Black.svg)](https://aura.company/)
+[![AURA Technologies](https://aura.company/wp-content/uploads/2021/05/footer-logo.svg)](https://aura.company/)
 
 * [Home](https://aura.company/)
 * [About](https://aura.company/about/)
