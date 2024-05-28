@@ -1,10 +1,13 @@
 [![Cameyo](https://cameyo.com/wp-content/uploads/2018/12/Cameyo-Black.png)](https://cameyo.com/)
 
 * [Solutions](https://cameyo.com/solutions/)
-    * [Cameyo for Remote Work](https://cameyo.com/cameyo-for-remote-work/)
-    * [The Leading Citrix Alternative Solution](https://cameyo.com/citrix-replacement/)
+    * [Hybrid/Remote Work](https://cameyo.com/cameyo-for-remote-work/)
+    * [VDI Replacement](https://cameyo.com/citrix-replacement/)
     * [ChromeOS Virtual App Delivery](https://cameyo.com/chromeos-virtual-app-delivery/)
+    * [ISVs](https://cameyo.com/cameyo-for-isvs/)
     * [MSPs](https://cameyo.com/cameyo-for-msps/)
+    * [GPUs](https://cameyo.com/cameyo-for-gpu/)
+    * [Education](https://cameyo.com/education/)
     * [Business Continuity](https://cameyo.com/cameyo-rapid-recovery/)
 * [Products](https://cameyo.com/products/)
     * [Fully Hosted](https://cameyo.com/cameyo-cloud/)
@@ -189,17 +192,23 @@ We may update this Privacy Policy from time to time. Please consult the “Effec
 
 #### Products
 
-* [Fully Hosted](https://cameyo.com/cameyo-cloud/)
 * [Self Hosted](https://cameyo.com/cameyo-server/)
+* [Fully Hosted](https://cameyo.com/cameyo-cloud/)
 * [Cameyo for Linux](https://cameyo.com/cameyo-for-linux/)
 * [Bring Your Own Cloud](https://cameyo.com/bring-your-own-cloud/)
 * [Cameyo Rapid Recovery](https://cameyo.com/cameyo-rapid-recovery/)
+* [NoVPN](https://cameyo.com/novpn/)
 * [Automated Trial Service](https://cameyo.com/automated-trial-service/)
 
 #### Solutions
 
+* [For Remote Work](https://cameyo.com/cameyo-for-remote-work/)
+* [For VDI Replacement](https://cameyo.com/citrix-replacement/)
 * [For Chromebook](https://cameyo.com/chromeos-virtual-app-delivery/)
+* [For ISVs](https://cameyo.com/cameyo-for-isvs/)
 * [For MSPs](https://cameyo.com/cameyo-for-msps/)
+* [For GPUs](https://cameyo.com/cameyo-for-gpu/)
+* [For Education](https://cameyo.com/education/)
 
 #### Resources
 
@@ -230,7 +239,7 @@ We may update this Privacy Policy from time to time. Please consult the “Effec
     
     ▼](https://cameyo.com/solutions/)
     * [Hybrid/Remote Work](https://cameyo.com/cameyo-for-remote-work/)
-    * [The Leading Citrix Alternative Solution](https://cameyo.com/citrix-replacement/)
+    * [VDI Replacement](https://cameyo.com/citrix-replacement/)
     * [ChromeOS Virtual App Delivery](https://cameyo.com/chromeos-virtual-app-delivery/)
     * [ISVs](https://cameyo.com/cameyo-for-isvs/)
     * [MSPs](https://cameyo.com/cameyo-for-msps/)
