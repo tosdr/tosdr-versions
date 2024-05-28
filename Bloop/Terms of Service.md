@@ -128,6 +128,6 @@ Socials
 
 [Join Discord](https://discord.com/invite/kZEgj5pyjm)[Follow us on X](https://twitter.com/bloopdotai)
 
-[GitHub · 8589](https://github.com/BloopAI/bloop)
+[GitHub · 8542](https://github.com/BloopAI/bloop)
 
 [T&Cs](https://bloop.ai/terms)[Privacy](https://bloop.ai/privacy)
