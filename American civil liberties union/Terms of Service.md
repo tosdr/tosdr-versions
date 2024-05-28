@@ -1,13 +1,11 @@
-[Skip navigation](#content)
-
-About ›
+[Jump to navigation](#about-submenu) [Skip navigation](#content)
 
 ACLU Site User Agreement
 ========================
 
-_**Effective as of: June 30, 2023**_
+**Effective as of: June 30, 2023**
 
-Welcome to a website operated by the American Civil Liberties Union, Inc. (“ACLU, Inc.” or “Union”) and/or the American Civil Liberties Union Foundation, Inc. (“ACLUF” or “Foundation”) (collectively, “ACLU,” “National,” “we,” “our,” “us”). Each such website is referred to as an ACLU “Site.” The Sites include the Union’s website at aclu.org, which may host Foundation content, including all web pages whose domain name contains aclu.org, peoplepower.org, and any other ACLU-operated Site that links to this User Agreement. In addition to the Sites, this User Agreement may also apply and govern your use of any mobile application, online service, or platform operated by ACLU (together with the Sites, ACLU “Digital Services”) that link to this User Agreement. link to this User Agreement.
+Welcome to a website operated by the American Civil Liberties Union, Inc. (“ACLU, Inc.” or "Union") and/or the American Civil Liberties Union Foundation, Inc. (“ACLUF” or “Foundation”) (collectively, “ACLU,” “National,” “we,” “our,” “us”). Each such website is referred to as an ACLU “Site.” The Sites include the Union’s website at aclu.org, which may host Foundation content, including all web pages whose domain name contains aclu.org, peoplepower.org, and any other ACLU-operated Site that links to this User Agreement. In addition to the Sites, this User Agreement may also apply and govern your use of any mobile application, online service, or platform operated by ACLU (together with the Sites, ACLU “Digital Services”) that link to this User Agreement. link to this User Agreement.
 
 This User Agreement also does not apply to websites that the ACLU does not operate where an ACLU entity has a presence, such as ACLU pages on Facebook.
 
@@ -24,7 +22,9 @@ ACLU, Inc.) and its affiliated organization, ACLUF), are separate organizations 
 Please review our [Privacy Statement](https://www.aclu.org/about/privacy/statement), which is part of this User Agreement and describes how we handle personal information collected and stewarded by the ACLU. You have a number of choices in relation to your personal information stewarded by the ACLU. To learn more, see [Your Choices & Rights](https://www.aclu.org/about/privacy/statement#your-choices-and-rights).
 
 **Copyright**  
-Except where otherwise indicated, ACLU owns or licenses the copyright in all the materials on the ACLU Digital Services, including text, graphics, logos, button icons, audio clips, video clips, photographs, and software, and those rights are protected by United States and international copyright laws and other intellectual property laws (“ACLU Content”). To the extent your use of material on our Site does not constitute “fair use” for which you do not need our permission, the following rules apply to use of the material:
+Except where otherwise indicated, ACLU owns or licenses the copyright in all the materials on the ACLU Digital Services, including text, graphics, logos, button icons, audio clips, video clips, photographs, and software, and those rights are protected by United States and international copyright laws and other
+
+intellectual property laws ("ACLU Content"). To the extent your use of material on our Site does not constitute "fair use" for which you do not need our permission, the following rules apply to use of the material:
 
 **Automatically Permitted Distribution**  
 Unless the specific web page from which ACLU text material is available indicates you may not do so, you may copy or distribute text materials that appear on the ACLU Digital Services, in print or digital format, subject to three limitations:
@@ -49,23 +49,25 @@ You must obtain written permission in advance if you wish to reproduce ACLU Cont
 * a reply fax number or email address and a phone number.
 
 **Information You Post to the ACLU Site**  
-To the extent you voluntarily post material to the ACLU Site for display on the ACLU Site itself, you automatically grant to ACLU an irrevocable, perpetual worldwide license for the ACLU to display such material on the ACLU Site, except to the extent we have indicated otherwise on the portion of the ACLU Site that permits you to post such information (e.g., if a particular blog or forum on the ACLU Site posts any specific terms of use that applies to that particular blog or forum). Additionally, unless otherwise explicitly agreed upon in writing by you and ACLU, by posting any material to the ACLU Site for display on the ACLU Site, you are representing, warranting, and covenanting to the ACLU that those materials are original to you or you have obtained permissions, releases, rights, or licenses, if any are required (including where use of that material does not constitute “fair use”), that you assume full responsibility for the posting of such material vis-à-vis third parties, including but not limited to making any payments to third parties with respect to displaying such third party material. By posting material for display on a portion of the ACLU Site that contains specific terms of use applicable to that portion of the ACLU Site, you agree you have read, understand, agree to, and accept such specific terms of use.
+To the extent you voluntarily post material to the ACLU Site for display on the ACLU Site itself, you automatically grant to ACLU an irrevocable, perpetual worldwide license for the ACLU to display such material on the ACLU Site, except to the extent we have indicated otherwise on the portion of the ACLU Site that permits you to post such information (e.g., if a particular blog or forum on the ACLU Site posts any specific terms of use that applies to that particular blog or forum). Additionally, unless otherwise
+
+explicitly agreed upon in writing by you and ACLU, by posting any material to the ACLU Site for display on the ACLU Site, you are representing, warranting, and covenanting to the ACLU that those materials are original to you or you have obtained permissions, releases, rights, or licenses, if any are required (including where use of that material does not constitute "fair use"), that you assume full responsibility for the posting of such material vis-à-vis third parties, including but not limited to making any payments to third parties with respect to displaying such third party material. By posting material for display on a portion of the ACLU Site that contains specific terms of use applicable to that portion of the ACLU Site, you agree you have read, understand, agree to, and accept such specific terms of use.
 
 **Trademarks (Including Logos)**  
-AMERICAN CIVIL LIBERTIES UNION, AMERICAN CIVIL LIBERTIES UNION FOUNDATION, ACLU, ACLU logos, and any other trademarks on the ACLU Site (collectively “ACLU Trademarks”) are trademarks of ACLU in the United States and other countries unless it is explicitly stated on the ACLU Site where a trademark appears that the trademark is the trademark of a third party (or it is obvious from the context that it is the trademark of a third party; e.g., where we include on the ACLU Site the name or logo of a coalition partner) (“Third-Party Trademarks”). To the extent your use of ACLU Trademarks does not constitute “fair use” for which you do not need our permission, the following rules apply to use of the material:
+AMERICAN CIVIL LIBERTIES UNION, AMERICAN CIVIL LIBERTIES UNION FOUNDATION, ACLU, ACLU logos, and any other trademarks on the ACLU Site (collectively "ACLU Trademarks") are trademarks of ACLU in the United States and other countries unless it is explicitly stated on the ACLU Site where a trademark appears that the trademark is the trademark of a third party (or it is obvious from the context that it is the trademark of a third party; e.g., where we include on the ACLU Site the name or logo of a coalition partner) ("Third-Party Trademarks"). To the extent your use of ACLU Trademarks does not constitute "fair use" for which you do not need our permission, the following rules apply to use of the material:
 
 You may not use the ACLU Trademarks for any product or service that does not belong to ACLU, nor in any manner that is likely to cause confusion about whether we are the source, affiliated with, sponsor of, or endorser of any product,service, event or organization. Further, you will not use ACLU Trademarks in connection with any content that makes direct or indirect reference to, features or otherwise depicts any candidate for elective office. In addition, you may not use ACLU Trademarks in any manner that illegally disparages or discredits us.
 
-Your ability to use a Third-Party Trademark that appears on the ACLU Site is limited to the manner, if any, in which the ACLU Site explicitly states on the page on which such Third-Party Trademark appears that such use in such manner is authorized by the third-party owner of that Third-Party Trademark (unless your use is permissible under the law \[e.g., it is “fair use”\] or the owner of such Third-Party Trademark has specifically granted you the right to such use in such manner).
+Your ability to use a Third-Party Trademark that appears on the ACLU Site is limited to the manner, if any, in which the ACLU Site explicitly states on the page on which such Third-Party Trademark appears that such use in such manner is authorized by the third-party owner of that Third-Party Trademark (unless your use is permissible under the law \[e.g., it is "fair use"\] or the owner of such Third-Party Trademark has specifically granted you the right to such use in such manner).
 
 **Frames and Metatags**  
-You may not frame the content of the ACLU Site. You may not use metatags or any other “hidden text” that incorporates ACLU Trademarks or our name without our express written consent.
+You may not frame the content of the ACLU Site. You may not use metatags or any other "hidden text" that incorporates ACLU Trademarks or our name without our express written consent.
 
 **Links to Other Websites**  
 The ACLU Site contains links to other websites that we think may be of interest to you. We are not responsible for and have no control over these other sites or their content. Remember that when you link to another site, that other site is governed by its own user agreement and privacy statement, which you should be sure to read.
 
 **Disclaimers and Limitation of Liability**  
-ALTHOUGH WE TAKE REASONABLE STEPS TO PREVENT THE INTRODUCTION OF VIRUSES, WORMS, “TROJAN HORSES,” OR OTHER DESTRUCTIVE MATERIALS TO THE ACLU SITE, WE DO NOT GUARANTEE OR WARRANT THAT THE ACLU SITE OR MATERIALS THAT MAY BE DOWNLOADED FROM THE ACLU SITE ARE
+ALTHOUGH WE TAKE REASONABLE STEPS TO PREVENT THE INTRODUCTION OF VIRUSES, WORMS, "TROJAN HORSES," OR OTHER DESTRUCTIVE MATERIALS TO THE ACLU SITE, WE DO NOT GUARANTEE OR WARRANT THAT THE ACLU SITE OR MATERIALS THAT MAY BE DOWNLOADED FROM THE ACLU SITE ARE
 
 FREE FROM SUCH DESTRUCTIVE FEATURES. WE ARE NOT LIABLE FOR ANY DAMAGES OR HARM ATTRIBUTABLE TO SUCH FEATURES.
 
@@ -75,31 +77,15 @@ WE ARE NOT LIABLE FOR ANY CLAIM, LOSS, OR INJURY BASED ON ERRORS, OMISSIONS, INT
 We reserve the right to terminate the ACLU Site and this User Agreement at any time without notice for any reason, including, in the case of the User Agreement, for your violation of any of its provisions. The Limitation of Liability and Governing Law Sections of this User Agreement survive any such termination.
 
 **Governing Law**  
-This User Agreement is governed by the laws of the State of New York applicable to contracts made and performed there without regard to its conflicts of law principles. You agree to submit to the exclusive jurisdiction of the state and federal courts in the State and County of New York and waive any jurisdictional, venue, or inconvenient forum objections to such courts.
+This User Agreement is governed by the laws of the State of New York applicable to contracts made and performed there without regard to its conflicts of law principles. You agree to submit to the exclusive jurisdiction of the state and federal courts in the State and County of New York and waive any jurisdictional, venue, or inconvenient forum objections to such courts
 
-Links to other resources about the ACLU
----------------------------------------
+Stay Informed
+-------------
 
-[History
+Email Address \* 
 
-Defending civil liberties since 1920](https://www.aclu.org/about/aclu-history)
+ZIP Code \* 
 
-[Careers
+   
 
-Full-time positions and internships](https://www.aclu.org/careers)
-
-[Shop
-
-Apparel, books, and more](https://shop.aclu.org/)
-
-[State Affiliates
-
-Our 54 local ACLU offices](https://www.aclu.org/affiliates)
-
-[FAQs
-
-Membership and donation questions](https://www.aclu.org/about/faqs)
-
-[Contact
-
-Thanks for your interest in the ACLU](https://www.aclu.org/about/contact-us)
+Leave this field blank
