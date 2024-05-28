@@ -10,7 +10,7 @@
     * [Refill Packs](https://www.blueland.com/collections/refills)
     * [Subscribe & Save
         
-        Save up to 20%](https://www.blueland.com/collections/subscriptions)
+        Save up to 30%](https://www.blueland.com/collections/subscriptions)
     
     Offset
     
@@ -42,7 +42,7 @@ Toggle navigation menu
 * [Shop All](https://www.blueland.com/collections/all)
 * [Subscribe & Save
     
-    Up to 20% off](https://www.blueland.com/collections/subscriptions)
+    Up to 30% off](https://www.blueland.com/collections/subscriptions)
 * [Bestsellers](https://www.blueland.com/collections/bestsellers)
 * [Starter Kits](https://www.blueland.com/collections/starter-kits)
 * [Refills](https://www.blueland.com/collections/refills)
@@ -315,9 +315,6 @@ Oops, something went wrong
 * * [hello@blueland.com](https://help.blueland.com/en-US/contact)
     * [Terms & Conditions](https://www.blueland.com/terms-and-conditions)
     * [Privacy Policy](https://www.blueland.com/privacy-policy)
-    
-    * Your Privacy Choices
-        
 * ### Good Stuff
     
     * ![B Corp Certification](https://cdn.sanity.io/images/d864s8gp/production/abd9e30d9f0f3d79d061f4c297ff3fe94b858a6c-261x400.png)
@@ -356,9 +353,6 @@ Help
 * [Terms & Conditions](https://www.blueland.com/terms-and-conditions)
 * [Privacy Policy](https://www.blueland.com/privacy-policy)
 
-* Your Privacy Choices
-    
-
 Copyright 2024 Blueland
 
 * Copyright 2024 Blueland
@@ -366,9 +360,6 @@ Copyright 2024 Blueland
 * [hello@blueland.com](https://help.blueland.com/en-US/contact)
 * [Terms & Conditions](https://www.blueland.com/terms-and-conditions)
 * [Privacy Policy](https://www.blueland.com/privacy-policy)
-
-* Your Privacy Choices
-    
 
 * ![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2760%27%20height=%2791%27/%3e)![B Corp Certification](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
@@ -400,12 +391,12 @@ Explore Our Bestsellers
 
 Bestseller
 
-25% Kit Savings](https://www.blueland.com/products/the-clean-suite)
+35% Kit Savings](https://www.blueland.com/products/the-clean-suite)
 
-[Clean Suite Kit](https://www.blueland.com/products/the-clean-suite)$112
+[Clean Suite Kit](https://www.blueland.com/products/the-clean-suite)$98
 
 
-----------------------------------------------------------------------------
+---------------------------------------------------------------------------
 
 No Reviews Yet
 
