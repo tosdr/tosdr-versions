@@ -153,7 +153,7 @@ You have the right to delete your data if the following conditions are met:
     
 * You have a Free plan.
     
-    You can cancel your Non-Free plan at any time under the [Plans](https://my.aidlab.com/plans).
+    You can cancel your Non-Free plan at any time under the [Plans](http://my.aidlab.com/plans).
     
 
-You can delete the data by deleting your account. Firstly you need to click on [Settings](https://my.aidlab.com/settings) and then "Delete account". When you delete your account the whole data that you provided before will be automatically deleted. The deletion of data means the anonymization of data allowing for the identification of the User.
+You can delete the data by deleting your account. Firstly you need to click on [Settings](http://my.aidlab.com/settings) and then "Delete account". When you delete your account the whole data that you provided before will be automatically deleted. The deletion of data means the anonymization of data allowing for the identification of the User.
