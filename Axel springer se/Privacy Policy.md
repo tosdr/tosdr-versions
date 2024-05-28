@@ -2,15 +2,31 @@
 
 * [Deutsch](https://www.axelspringer.com/de/datenschutzerklaerung)
 
-* [Who We Are](https://www.axelspringer.com/en/who-we-are)
+* [Company](https://www.axelspringer.com/en/company)
     
-* [What Defines Us](https://www.axelspringer.com/en/what-defines-us)
+    * [Executive Board](https://www.axelspringer.com/en/company/executive-board)
+        
+    * [Supervisory Board](https://www.axelspringer.com/en/company/supervisory-board)
+        
+    * [History](https://www.axelspringer.com/en/company/history)
+        
+    * [Axel Springer Award](https://www.axelspringer.com/en/axel-springer-award)
+        
+* [Values](https://www.axelspringer.com/en/values)
     
+    * [Freedom](https://www.axelspringer.com/en/values/freedom)
+        
+    * [Sustainability](https://www.axelspringer.com/en/values/sustainability)
+        
+    * [Diversity](https://www.axelspringer.com/en/values/diversity)
+        
+    * [Downloads](https://www.axelspringer.com/en/values/downloads)
+        
 * [Stories](https://www.axelspringer.com/en/stories)
     
-* [Our Brands](https://www.axelspringer.com/en/brands)
+* [Brands](https://www.axelspringer.com/en/brands)
     
-* [Careers With Us](https://career.axelspringer.com/en/)
+* [Career](https://career.axelspringer.com/en/)
     
 * [Press](https://www.axelspringer.com/en/press)
     
