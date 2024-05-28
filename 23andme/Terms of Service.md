@@ -1,106 +1,61 @@
 [Skip to main content](#main)
 
-* [![23andMe Home](/_next/static/media/mobile-gray.5c8acbea.svg)](https://www.23andme.com/en-gb/)
+* [![23andMe Home](/_next/static/media/mobile-gray.5c8acbea.svg)](https://www.23andme.com/en-int/)
     
-* Shop![](/_next/static/media/caret.d8c670e4.svg)
-    
-    * ![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27240%27%20height=%27178%27/%3e)![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-        
-        ![](/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Fancestry.c4158c43.png&w=640&q=100)
-        
-        [Ancestry  
-        Service](https://www.23andme.com/en-gb/dna-ancestry/)
-    * ![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27240%27%20height=%27178%27/%3e)![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-        
-        ![](/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Fhealth-ancestry.e39301b0.png&w=640&q=100)
-        
-        [Health +plus Ancestry  
-        Service](https://www.23andme.com/en-gb/dna-health-ancestry/)
-    * ![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27240%27%20height=%27178%27/%3e)![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-        
-        ![](/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Fpremium-uk.03a9cb8a.png&w=640&q=100)
-        
-        [![23andMe plus](/_next/static/media/ttam-plus.e477b869.svg)  
-        Premium](https://www.23andme.com/en-gb/membership/)
-    
-    [Compare our services](https://www.23andme.com/en-gb/compare-dna-tests/)
-    
+* [Our Service](https://www.23andme.com/en-int/dna-ancestry/)
 * Learn![](/_next/static/media/caret.d8c670e4.svg)
     
-    * [How it works](https://www.23andme.com/en-gb/howitworks/)
-    * [Genetics Learning Hub](https://www.23andme.com/en-gb/topics/)
+    * [How it works](https://www.23andme.com/en-int/howitworks/)
+    * [Genetics Learning Hub](https://www.23andme.com/en-int/topics/)
     * [Blog](https://blog.23andme.com/)
     
 * About![](/_next/static/media/caret.d8c670e4.svg)
     
-    * [Our story](https://www.23andme.com/en-gb/about/)
-    * [Science](https://www.23andme.com/en-gb/genetic-science/)
-    * [Privacy](https://www.23andme.com/en-gb/privacy/)
-    * [Research](https://www.23andme.com/en-gb/research/)
-    * [Diversity, Equity & Inclusion](https://www.23andme.com/en-gb/diversity-equity-inclusion/)
+    * [Our story](https://www.23andme.com/en-int/about/)
+    * [Science](https://www.23andme.com/en-int/genetic-science/)
+    * [Privacy](https://www.23andme.com/en-int/privacy/)
+    * [Research](https://www.23andme.com/en-int/research/)
     * [Investors](https://investors.23andme.com/)
     
 
 * [Sign In](https://you.23andme.com/)
-* [Register Kit](https://www.23andme.com/en-gb/start/)
-* [Help](https://eu.customercare.23andme.com/hc/en-us/)
-* [Shop](https://www.23andme.com/en-gb/compare-dna-tests/)
+* [Register Kit](https://www.23andme.com/en-int/start/)
+* [Help](https://int.customercare.23andme.com/hc/en-us/)
+* [Shop](https://store.23andme.com/en-int/cart/?ancestrykit=1)
 
 Open Menu
 
 ![close](/_next/static/media/x-gray7.2bb6bad1.svg)Close
 
-[![23andMe Home](/_next/static/media/mobile-gray.5c8acbea.svg)](https://www.23andme.com/en-gb/)
+[![23andMe Home](/_next/static/media/mobile-gray.5c8acbea.svg)](https://www.23andme.com/en-int/)
 
-[Shop](https://www.23andme.com/en-gb/compare-dna-tests/)
+[Shop](https://store.23andme.com/en-int/cart/?ancestrykit=1)
 
-* Shop![](/_next/static/media/caret.d8c670e4.svg)
-    
-    * ![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27240%27%20height=%27178%27/%3e)![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-        
-        ![](/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Fancestry.c4158c43.png&w=640&q=100)
-        
-        [Ancestry  
-        Service](https://www.23andme.com/en-gb/dna-ancestry/)
-    * ![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27240%27%20height=%27178%27/%3e)![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-        
-        ![](/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Fhealth-ancestry.e39301b0.png&w=640&q=100)
-        
-        [Health +plus Ancestry  
-        Service](https://www.23andme.com/en-gb/dna-health-ancestry/)
-    * ![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27240%27%20height=%27178%27/%3e)![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-        
-        ![](/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Fpremium-uk.03a9cb8a.png&w=640&q=100)
-        
-        [![23andMe plus](/_next/static/media/ttam-plus.e477b869.svg)  
-        Premium](https://www.23andme.com/en-gb/membership/)
-    
-    [Compare our services](https://www.23andme.com/en-gb/compare-dna-tests/)
-    
+* [Our Service](https://www.23andme.com/en-int/dna-ancestry/)
 * Learn![](/_next/static/media/caret.d8c670e4.svg)
     
-    * [How it works](https://www.23andme.com/en-gb/howitworks/)
-    * [Genetics Learning Hub](https://www.23andme.com/en-gb/topics/)
+    * [How it works](https://www.23andme.com/en-int/howitworks/)
+    * [Genetics Learning Hub](https://www.23andme.com/en-int/topics/)
     * [Blog](https://blog.23andme.com/)
     
 * About![](/_next/static/media/caret.d8c670e4.svg)
     
-    * [Our story](https://www.23andme.com/en-gb/about/)
-    * [Science](https://www.23andme.com/en-gb/genetic-science/)
-    * [Privacy](https://www.23andme.com/en-gb/privacy/)
-    * [Research](https://www.23andme.com/en-gb/research/)
-    * [Diversity, Equity & Inclusion](https://www.23andme.com/en-gb/diversity-equity-inclusion/)
+    * [Our story](https://www.23andme.com/en-int/about/)
+    * [Science](https://www.23andme.com/en-int/genetic-science/)
+    * [Privacy](https://www.23andme.com/en-int/privacy/)
+    * [Research](https://www.23andme.com/en-int/research/)
+    * [Diversity, Equity & Inclusion](https://www.23andme.com/en-int/diversity-equity-inclusion/)
     * [Investors](https://investors.23andme.com/)
     
 * [Sign In](https://you.23andme.com/)
-* [Register Kit](https://www.23andme.com/en-gb/start/)
-* [Help](https://eu.customercare.23andme.com/hc/en-us/)
+* [Register Kit](https://www.23andme.com/en-int/start/)
+* [Help](https://int.customercare.23andme.com/hc/en-us/)
 
-[![23andMe Home](/_next/static/media/mobile-gray.5c8acbea.svg)](https://www.23andme.com/en-gb/)
+[![23andMe Home](/_next/static/media/mobile-gray.5c8acbea.svg)](https://www.23andme.com/en-int/)
 
-[Shop](https://www.23andme.com/en-gb/compare-dna-tests/)
+[Shop](https://store.23andme.com/en-int/cart/?ancestrykit=1)
 
-[Full Terms of Service](https://www.23andme.com/en-gb/legal/terms-of-service/full-version/)
+[Full Terms of Service](https://www.23andme.com/en-int/legal/terms-of-service/full-version/)
 
 Terms of Service
 ================
@@ -110,11 +65,11 @@ Last Updated: June 8, 2022
 Welcome to 23andMe Terms of Service
 -----------------------------------
 
-Like the As, Ts, Cs, and Gs that make up your DNA, our Terms of Service (what we call the “Terms”) make up the agreement between 23andMe, Inc. (“23andMe”) and you. These Terms govern your use and access to 23andMe’s products, software, services, and website (including but not limited to text, graphics, images, and other material and information) as accessed from time to time by you, regardless if the use is in connection with an account or not (collectively, the “Services”).
+Like the As, Ts, Cs, and Gs that make up your DNA, our Terms of Service (what we call the “Terms”) make up the agreement between 23andMe, Inc. (“23andMe”) and you. These Terms govern your use and access to 23andMe's products, software, services, and website (including but not limited to text, graphics, images, and other material and information) as accessed from time to time by you, regardless if the use is in connection with an account or not (collectively, the “Services”).
 
 Please read the Terms carefully, and any policies, guidelines or rules applicable to such Services, as they constitute a legal agreement between 23andMe and you. We also encourage you to review our Privacy Statement for additional information. Of course, if you do not agree with our Terms or any other policies, then do not use the Services. You can delete your account from your Account Settings at any time.
 
-These Terms apply to you if you live in the European Economic Area (inclusive of the European Union) (“EEA”), United Kingdom (“UK”), or Switzerland or if you access our Services in the EEA, UK, or Switzerland. If you live outside the EEA, UK, or Switzerland, please review the Terms available in the respective region specific to the 23andMe Services you access.
+These Terms apply to you if you live outside of the United States, Canada, European Economic Area (“EEA”), United Kingdom (“UK”) or Switzerland or if you access our Services outside of the United States, Canada, EEA, UK or Switzerland. Please review the Terms available in the respective region specific to the 23andMe Services you access.
 
 1\. Who Can Use the Services
 ----------------------------
@@ -125,19 +80,14 @@ We believe everyone should be able to access, understand, and benefit from their
 * You are not a person barred from receiving the Services under the laws of the jurisdiction from which you use the Services;
 * You are at least 18 years old;
 * Any sample you provide to 23andMe is either your own, or the sample of a minor for whom you are a parent or legal guardian, or the sample of a person for whom you are a legally authorized representative;
-* The sample you provide is not from a bone marrow or stem cell recipient (Why? Click [here](https://eu.customercare.23andme.com/hc/en-us/articles/204622620-I-Received-a-Bone-Marrow-Transplant-Can-I-Use-the-23andMe-Personal-Genome-Service) more information);
+* The sample you provide is not from a bone marrow or stem cell recipient (Why? Click [here](https://int.customercare.23andme.com/hc/en-us/articles/214754818-I-Received-a-Bone-Marrow-Transplant-Can-I-Use-the-23andMe-Personal-Genome-Service) more information);
 * You are not an insurance company or an employer; and
 * You will not use the Services for any investigative forensic genealogy uses.
 
 Other Terms and Conditions
 --------------------------
 
-If you choose to use or purchase additional Services for a business or commercial purpose, or any purpose other than personal use, they may have their own terms and conditions. The specific terms and conditions associated with the use or purchase of additional Services are made a part of these Terms by this reference. Just like you agree to these Terms, you agree to abide by those additional terms and conditions too. If there is a conflict between these Terms and the additional terms for a specific portion of the Services, the additional terms will govern your use or purchase of the additional Services. 23andMe’s obligations, if any, with regard to Services are governed solely by the agreements according to which they are provided, and nothing presented through the Services should be construed to alter such agreements.
-
-The following terms also govern and apply to your use of the Site, and they are incorporated herein by this reference:
-
-* [Membership Terms](https://www.23andme.com/en-gb/about/tos/subscription/) (Applicable to UK customers only)
-* [Important Test Info](https://www.23andme.com/en-gb/test-info/)
+If you choose to use or purchase additional Services, they may have their own terms and conditions. The specific terms and conditions associated with the use or purchase of additional Services are made a part of these Terms by this reference. Just like you agree to these Terms, you agree to abide by those additional terms and conditions too. If there is a conflict between these Terms and the additional terms for a specific portion of the Services, the additional terms will govern your use or purchase of the additional Services. 23andMe’s obligations, if any, with regard to Services are governed solely by the agreements according to which they are provided, and nothing presented through the Services should be construed to alter such agreements.
 
 Each of these terms and conditions may be changed from time to time. Once we post changes on the Services, they are effective immediately.
 
@@ -158,7 +108,7 @@ Here’s our policy on re-processing failed samples:
 * If the second attempt to process the same sample fails, we will offer to send another sample collection kit to the user to collect a second sample at no charge.
 * If the second attempt to process the sample is unsuccessful, (up to 0.65% of all samples fail the second attempt at testing according to 23andMe data obtained in 2019 for all genotype testing),\* 23andMe will not send additional sample collection kits and the user will be entitled solely and exclusively to a complete refund of the amount paid to 23andMe, less shipping and handling, provided the user shall not resubmit another sample through a future purchase of the Service.
 
-Note: If the user breaches this policy agreement and resubmits another sample through a future purchase of the Service and processing is not successful, 23andMe will not offer to reprocess the sample or provide the user a refund. Even for processing that meets our high standards, a small, unknown fraction of the data generated during the laboratory process may be un-interpretable or incorrect (referred to as “Errors”). As this possibility is known in advance, users are not entitled to refunds where these Errors occur.
+Note: If the user breaches this policy agreement and resubmits another sample through a future purchase of the Service and processing is not successful, 23andMe will not offer to reprocess the sample or provide the user a refund. Even for processing that meets our high standards, a small, unknown fraction of the data generated during the laboratory process may be un-interpretable or incorrect (referred to as "Errors"). As this possibility is known in advance, users are not entitled to refunds where these Errors occur.
 
 You should not change your health behaviors solely on the basis of Genetic Information received from 23andMe.
 
@@ -168,68 +118,62 @@ You should not change your health behaviors solely on the basis of Genetic Infor
 * The Services are not intended to tell you anything about your current state of health, or to be used to make medical decisions, including whether or not you should take a medication, how much of a medication you should take, or determine any treatment.
 * If you have concerns or questions about what you learn through 23andMe, you should contact your physician or other healthcare provider before making any lifestyle changes. Please note that genetic risk assessment is not applicable to results of carrier screening tests.
 
-23andMe Services are for research, informational, and educational use only. We do not provide medical advice. Please note: the Genetic Information provided by 23andMe is for research, informational, and educational use only. This means two things.
+23andMe Services are for research, informational, and educational use only. We do not provide medical advice. Please note:the Genetic Information provided by 23andMe is for research, informational, and educational use only. This means two things.
 
 1. Many of the genetic discoveries that we report have not been clinically validated, and the technology we use, which is the same technology used by the research community, to date has not been widely used for clinical testing.
 2. Talk to your Healthcare provider. 23andMe does not endorse, warrant or guarantee the effectiveness of any specific course of action, resources, tests, physician or other healthcare providers, drugs, biologics, medical devices or other products, procedures, opinions, or other information that may be mentioned on our website. If we provide any recommendations and/or potential ways to take action, this information is intended for informational purposes only and for discussion with your physician or other healthcare provider. The Services are not intended to be used by the customer for any diagnostic purpose and are not a substitute for professional medical advice. Reliance on any information provided by 23andMe, 23andMe employees, others appearing on our website at the invitation of 23andMe, or other visitors to our website is solely at your own risk.
 
-While we are licensed in the State of California as a clinical laboratory and do have a license to provide our Services in the United Kingdom, Ireland, Denmark, Finland, the Netherlands, and Sweden, not all jurisdictions require our Services to be subject to license. Therefore, we are not universally licensed by all state, federal, or international authorities for genetic testing conducted for health and disease-related purposes. In addition, there are certain jurisdictions in which we do not offer our Services because we do not have the required licenses.
+While we are licensed in the State of California as a clinical laboratory, not all jurisdictions require our Services to be subject to license. Therefore, we are not universally licensed by all state, federal, or international authorities for genetic testing conducted for health and disease-related purposes. In addition, there are certain jurisdictions in which we do not offer our Services because we do not have the required licenses.
 
-Furthermore, to expand and accelerate the understanding and practical application of genetic knowledge in healthcare, we invite all eligible genotyped users to participate in 23andMe Research. When we use the term “Product Development”, it means research performed for the purpose of new product development and new product development activities performed by 23andMe on De-identified Information. These activities may include, among other things, improving our Services and/or offering new products or services to you; performing quality control activities; conducting data analysis that may lead to and/or include commercialization with a third party. Participation in such research is voluntary and based upon an Institutional Review Board-approved consent document.
+Furthermore, to expand and accelerate the understanding and practical application of genetic knowledge in healthcare, we invite all eligible genotyped users to participate in 23andMe Research. When we use the term “Product Development", it means research performed for the purpose of new product development and new product development activities performed by 23andMe on De-identified Information. These activities may include, among other things, improving our Services and/or offering new products or services to you; performing quality control activities; conducting data analysis that may lead to and/or include commercialization with a third party. Participation in such research is voluntary and based upon an Institutional Review Board-approved consent document.
 
 \*23andMe data on file.
 
 Next Page: 2\. Using the Services![](/assets/svg/posi/arrow-right.svg)
 
 Last Updated: June 8, 2022.  
-[Read the previous version](https://www.23andme.com/en-gb/legal/terms-of-service/full-version/1.7/)
+[Read the previous version](https://www.23andme.com/en-int/legal/terms-of-service/full-version/3.5/)
 
 Footer
 ------
 
-[](https://www.23andme.com/en-gb/)
+[](https://www.23andme.com/en-int/)
 
 ### Services
 
-* [Health +plus Ancestry](https://www.23andme.com/en-gb/dna-health-ancestry/)
-* [Ancestry Service](https://www.23andme.com/en-gb/dna-ancestry/)
-* [23andMe+plus Premium](https://www.23andme.com/en-gb/membership/)
-* [Gifts](https://www.23andme.com/en-gb/gifts/)
+* [Ancestry Service](https://www.23andme.com/en-int/dna-ancestry/)
+* 
 
 ### Company
 
 * [Investors](https://investors.23andme.com/)
-* [About Us](https://www.23andme.com/en-gb/about/)
-* [Stories](https://www.23andme.com/en-gb/stories/)
-* [Diversity, Equity & Inclusion](https://www.23andme.com/en-gb/diversity-equity-inclusion/)
+* [About Us](https://www.23andme.com/en-int/about/)
+* [Stories](https://www.23andme.com/en-int/stories/)
 * [Reporter Inquiries](mailto:press@23andMe.com)
 * [Blog](https://blog.23andme.com/)
-* [Genetics Learning Hub](https://www.23andme.com/en-gb/topics/)
-* [Careers](https://www.23andme.com/en-gb/careers/)
-* [Return & Refund Policy](https://eu.customercare.23andme.com/hc/en-us/articles/204704750)
-* [Customer Care](https://eu.customercare.23andme.com/hc/en-us/)
-* [Site Map](https://www.23andme.com/en-gb/sitemap/)
+* [Careers](https://www.23andme.com/en-int/careers/)
+* [Return & Refund Policy](https://int.customercare.23andme.com/hc/en-us/articles/214810808)
+* [Customer Care](https://int.customercare.23andme.com/hc/en-us/)
+* [Site Map](https://www.23andme.com/en-int/sitemap/)
 * [Business Development](https://therapeutics.23andme.com/contact/)
 
 ### Legal
 
-* [Important Test Info](https://www.23andme.com/en-gb/test-info/)
-* [Terms of Service](https://www.23andme.com/en-gb/legal/terms-of-service/)
-* [Privacy Statement](https://www.23andme.com/en-gb/legal/privacy/)
-* [Data Protection](https://www.23andme.com/en-gb/gdpr/)
-* [Family Considerations](https://eu.customercare.23andme.com/hc/en-us/articles/204380504)
-* [Research Consent](https://www.23andme.com/en-gb/about/consent/)
-* [Biobanking Consent](https://www.23andme.com/en-gb/about/biobanking/)
-* [Cookie Policy](https://www.23andme.com/en-gb/about/cookies/)
+* [Terms of Service](https://www.23andme.com/en-int/legal/terms-of-service/)
+* [Privacy Statement](https://www.23andme.com/en-int/legal/privacy/)
+* [Data Protection](https://www.23andme.com/en-int/gdpr/)
+* [Research Consent](https://www.23andme.com/en-int/about/consent/)
+* [Biobanking Consent](https://www.23andme.com/en-int/about/biobanking/)
+* [Cookie Policy](https://www.23andme.com/en-int/about/cookies/)
 * Cookie Settings
-* [Report a Security Issue](https://www.23andme.com/en-gb/security-report/)
+* [Report a Security Issue](https://www.23andme.com/en-int/security-report/)
 
 ### Download App
 
-* [](https://apps.apple.com/gb/app/23andme/id952516687?ls=1)
-* [](https://play.google.com/store/apps/details?id=com.twentythreeandme.app&hl=en_GB)
+* [](https://apps.apple.com/app/23andme/id952516687?ls=1)
+* [](https://play.google.com/store/apps/details?id=com.twentythreeandme.app&hl=en)
 
-United Kingdom | Change
+International | Change
 
 ### Change location
 
