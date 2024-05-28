@@ -37,7 +37,7 @@
 Be smart and check in advance. CARFAX — Your Vehicle History.
 =============================================================
 
-![Carfox looking down](/static/images/vin-fox-looking-ahead-248x185-2x.png "Carfox looking down")
+![Carfox looking down](/_next/static/images/vin-fox-looking-down-248x185-2x-496ddb6b81b102c1995d3eb6bba6ce90.png "Carfox looking down")
 
 Where can I find the Vehicle Identification Number (VIN)?
 
