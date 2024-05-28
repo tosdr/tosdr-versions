@@ -286,10 +286,6 @@ Changes To This Privacy Policy
 
 We may change this Privacy Policy from time to time. Laws, regulations and industry standards evolve, which may make those changes necessary, or we may make changes to our business. We will post the changes to this page and encourage you to review our Privacy Policy to stay informed.
 
-We use essential cookies only. No ads or trackers. [Privacy Policy](https://adguard.com/privacy/dns.html)
-
-I agree
-
 © 2016–2024 AdGuard DNS
 
 Site map
@@ -309,3 +305,7 @@ Support Center FAQ Knowledge base Version history Report an issue AdGuard Status
 Legal documents
 
 EULA Privacy Policy Terms of sale Refund policy
+
+We use essential cookies only. No ads or trackers. [Privacy Policy](https://adguard.com/privacy/dns.html)
+
+I agree
