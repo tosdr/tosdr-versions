@@ -1,8 +1,8 @@
  [![](/static/icons/globe.svg) www.alviy.com](https://alviy.com/)
 
-* [Products](#)
+* [DNS services](#)
     
-    [DNS Hosting](https://alviy.com/en/dns-hosting) [Dynamic DNS](https://alviy.com/en/blog/ddns) [Backup DNS](https://alviy.com/en/secondary)
+    [DNS Hosting](https://alviy.com/en/dns-hosting) [DNS Secondary](https://alviy.com/en/secondary)
     
 * [Prices](https://alviy.com/en/price)
 * [Info](#)
@@ -49,6 +49,7 @@ Any questions or suggestions regarding this Policy should be sent to the Alviy s
 © 2021 LLC Alviy
 
 * [![](\static\images\face-black.png)](https://www.facebook.com/alviy.DNS)
+* [![](\static\images\vkon-black.png)](https://vk.com/alviy_dns)
 
 * Features
 * [Premium](https://alviy.com/en/premium)
@@ -67,7 +68,7 @@ Any questions or suggestions regarding this Policy should be sent to the Alviy s
 * [About DDNS](https://alviy.com/en/blog/ddns)
 * [DDNS service comparison](https://alviy.com/en/blog/ddns-net)
 
-© www.alviy.com All Rights Reserved
+© www.alviy.com All Rights Reserved.
 
 We use cookies to make your experience of our websites better. By using and further navigating this website you accept this. Detailed information about the use of cookies on this website is available by clicking on [more information](https://alviy.com/privacy).
 
