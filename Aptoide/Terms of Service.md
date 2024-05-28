@@ -248,6 +248,22 @@ Aptoide App Store[FAQs](https://en.aptoide.com/company/faq)[Support](https://apt
 
 [Legal Informations](https://en.aptoide.com/company/legal)[Cookie Policy](https://en.aptoide.com/company/legal?section=cookie)[Privacy Policy](https://en.aptoide.com/company/legal?section=privacy)[Report DMCA](https://aptoide.zendesk.com/hc/en-us/requests/new?tf_24177375=sto_dev_dmca)
 
-Aptoide S.A[The Company](https://en.aptoide.com/company/)[Products](https://en.aptoide.com/company/our-products)[About us](https://en.aptoide.com/company/about-us)[Careers](https://careers.aptoide.com/)
+Aptoide S.A[The Company](https://en.aptoide.com/)[Products](https://en.aptoide.com/company/our-products)[About us](https://en.aptoide.com/company/about-us)[Careers](https://careers.aptoide.com/)
 
 Aptoide S.A Products[Aptoide App Store](https://en.aptoide.com/company)[Aptoide for iOS](https://ios.store.aptoide.com/)[Aptoide TV](https://tv.aptoide.com/)[Catappult](https://catappult.io/)[AppCoins Wallet](https://wallet.appcoins.io/)[e-Skills](https://en.aptoide.com/company/our-products/e-skills)
+
+![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+)
+
+![aptoide-cookie-logo](/company/static/images/aptoide-logo.svg)
+
+![aptoide-cookie-logo](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+
+Cookie Preferences
+
+We use cookies to personalise content, to provide social media features and to analyse our traffic. We also share information about how you use our site with our social media and analytics partners who may combine it with other information that you may have already provided to them or that they've collected from your use of their services. You can accept these cookies by clicking on "Allow All" or you can choose which ones you want to install by clicking on "Manage Cookies".
+
+Manage Cookies
+
+Decline All
+
+Allow All
