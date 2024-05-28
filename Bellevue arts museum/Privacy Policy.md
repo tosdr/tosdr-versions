@@ -42,7 +42,7 @@
 
 * [Arts Fair](https://www.bellevuearts.org/artsfair)
 * [Participant Info](https://www.bellevuearts.org/artsfair/participant-info)
-* [2023 Sponsors](https://www.bellevuearts.org/artsfair/2023-sponsors)
+* [Sponsors](https://www.bellevuearts.org/artsfair/sponsors)
 * [History](https://www.bellevuearts.org/artsfair/history)
 * [BAMboozle Stage](https://www.bellevuearts.org/artsfair/bamboozle-stage)
 
