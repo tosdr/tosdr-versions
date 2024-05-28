@@ -710,10 +710,10 @@ The following products, apps and services are covered by the Microsoft Services 
 
 What's new
 
-* [Surface Pro](https://www.microsoft.com/en-us/surface/devices/surface-pro-11th-edition)
-* [Surface Laptop](https://www.microsoft.com/en-us/surface/devices/surface-laptop-7th-edition)
 * [Surface Laptop Studio 2](https://www.microsoft.com/en-us/d/Surface-Laptop-Studio-2/8rqr54krf1dz)
 * [Surface Laptop Go 3](https://www.microsoft.com/en-us/d/Surface-Laptop-Go-3/8p0wwgj6c6l2)
+* [Surface Pro 9](https://www.microsoft.com/en-us/d/surface-pro-9/93VKD8NP4FVK)
+* [Surface Laptop 5](https://www.microsoft.com/en-us/d/surface-laptop-5/8XN49V61S1BN)
 * [Microsoft Copilot](https://www.microsoft.com/en-us/microsoft-copilot)
 * [Copilot in Windows](https://www.microsoft.com/en-us/windows/copilot-ai-features)
 * [Explore Microsoft products](https://www.microsoft.com/en-us/microsoft-products-and-apps)
