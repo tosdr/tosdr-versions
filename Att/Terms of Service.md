@@ -12,7 +12,7 @@ By activating, using, or paying for any AT&T products or services (“AT&T Servi
 
 In this Agreement, unless otherwise specified, “AT&T” and “we” mean the AT&T affiliated companies and their successors and assigns.
 
-AT&T offers many products and services. This Agreement includes a set of universal terms (“General Terms”) and specific Service terms (“Service Terms”). You’re bound by the General Terms and the Service Terms for each AT&T Service you purchase or use. In addition, your Agreement incorporates AT&T’s Privacy Notice (at [att.com/privacy](https://www.att.com/privacy)), Acceptable Use Policy (at [att.com/legal/terms.aup.html](https://www.att.com/legal/terms.aup.html)), any Customer Service Summary provided to you, and any other documents or terms specifically referenced in the applicable General Terms and Service Terms. In the event of a conflict between the General Terms and the applicable Service Terms, the Service Terms will govern our relationship with you.
+AT&T offers many products and services. This Agreement includes a set of universal terms (“General Terms”) and specific Service terms (“Service Terms”). You’re bound by the General Terms and the Service Terms for each AT&T Service you purchase or use. In addition, your Agreement incorporates AT&T’s Privacy Policy (at [att.com/privacy](https://www.att.com/privacy)), Acceptable Use Policy (at [att.com/legal/terms.aup.html](https://www.att.com/legal/terms.aup.html)), any Customer Service Summary provided to you, and any other documents or terms specifically referenced in the applicable General Terms and Service Terms. In the event of a conflict between the General Terms and the applicable Service Terms, the Service Terms will govern our relationship with you.
 
 Please use these links to view the Service Terms for each specific Service:
 
@@ -29,7 +29,7 @@ You may need to set up one or more accounts (“AT&T Account(s)” or “Account
 
 You’re responsible for any activity that occurs on or through your AT&T Accounts. We do not guarantee the security of your AT&T Accounts. You must ensure that your Account information and password(s) for accessing your Accounts and personal information are secure. If you learn of any unauthorized use of any AT&T Account, please contact us immediately.
 
-**You agree that all users of your AT&T Services (including minors), are subject to the limitations and obligations of this Agreement, including its arbitration provision and Privacy Notice.** It’s your duty to inform them of their limitations and obligations and to provide this Agreement to them.
+**You agree that all users of your AT&T Services (including minors), are subject to the limitations and obligations of this Agreement, including its arbitration provision and privacy policy.** It’s your duty to inform them of their limitations and obligations and to provide this Agreement to them.
 
 You may designate individuals (such as family members) to act on your behalf (“Authorized Users”). Authorized Users can manage your AT&T Accounts, including changing or adding Services. You’re responsible for all actions and changes made by any Authorized Users, including purchases of products and additional AT&T Services.
 
@@ -168,7 +168,7 @@ You further agree that any calls or messages sent to numbers or email addresses 
 
 **Please review your bill for messages and inserts.** We will send important messages to you through bill messages and/or bill inserts. If you have electronic billing, you are considered to have received these notices once your electronic bill is available for viewing. If you get a paper bill, you are considered to have received these notices three days after we mail the bill to you.
 
-Communications to you may include, but are not limited to, emergency alerts, updates to this Agreement, communications regarding payments or past-due balances, and information concerning promotions regarding any AT&T Services or products or services offered by our third-party partners. You are not required to agree to receive promotional communications to purchase any AT&T Services. **You can unsubscribe from promotional emails, calls, or messages by following the unsubscribe options** in the promotional communication itself or in the AT&T Privacy Notice. For more information about your rights and choices regarding how we communicate with you, visit [about.att.com/privacy/privacy-notice.html#privacy-choices](https://about.att.com/privacy/privacy-notice.html#privacy-choices).
+Communications to you may include, but are not limited to, emergency alerts, updates to this Agreement, communications regarding payments or past-due balances, and information concerning promotions regarding any AT&T Services or products or services offered by our third-party partners. You are not required to agree to receive promotional communications to purchase any AT&T Services. **You can unsubscribe from promotional emails, calls, or messages by following the unsubscribe options** in the promotional communication itself or in the AT&T Privacy Policy. For more information about your rights and choices regarding how we communicate with you, visit [att.com/sites/privacy\_policy/rights\_choices](https://www.att.com/sites/privacy_policy/rights_choices).
 
 ### 1.5 Termination or Suspension of AT&T Services
 
@@ -297,9 +297,9 @@ If you believe that there’s something wrong with your bill, please contact cus
 
 ### 1.11 Privacy
 
-#### 1.11.1 Privacy Notice:
+#### 1.11.1 Privacy Policy:
 
-We take your privacy seriously. For more information about how we collect, use, and protect your personal information, including your location information, please see the AT&T Privacy Notice located at [att.com/privacy](https://www.att.com/privacy). FirstNet individual users should review the FirstNet Privacy Notice at [firstnet.com](https://www.firstnet.com/).
+We take your privacy seriously. For more information about how we collect, use, and protect your personal information, including your location information, please see the AT&T Privacy Policy located at [att.com/privacy](https://www.att.com/privacy). FirstNet individual users should review the FirstNet Privacy Policy at [firstnet.com](https://www.firstnet.com/).
 
 #### 1.11.2 Use by Children:
 
@@ -623,7 +623,7 @@ Your Device may have been programmed with a SIM lock which prevents it from oper
 
 AT&T collects information about the location of your Device from our network and from your Device. We monitor, collect, and use this location information, together with other information we get from our network and your Device, to provide Wireless Service to you. We also use it to maintain and improve our network and the quality of your wireless experience.
 
-**For more information about the how we may collect and use information, including location, please refer to the AT&T Privacy Notice at [att.com/privacy](https://www.att.com/privacy). FirstNet individual users should review the FirstNet Privacy Notice at [firstnet.com](https://www.firstnet.com/).**
+**For more information about the how we may collect and use information, including location, please refer to the AT&T Privacy Policy at [att.com/privacy](https://www.att.com/privacy). FirstNet individual users should review the FirstNet Privacy Policy at [firstnet.com](https://www.firstnet.com/).**
 
 ### 2.13 NOTICE REGARDING TRANSMISSION OF WIRELESS EMERGENCY ALERTS (Commercial Mobile Alert Service)
 
@@ -1543,7 +1543,7 @@ With respect to your Wireless Home Internet Services, you agree that AT&T has th
 * AT&T may modify, without advance notice, the permitted and prohibited activities by this Agreement;
 * AT&T may engage in any reasonable network management practice to enhance customer service, to reduce network congestion, to adapt to advances and changes in technology, and/or to respond to the availability of wireless bandwidth and spectrum, including by taking any actions authorized by subsections 2.7 and 6.9;
 * AT&T will provide you with advance notice of the usage threshold applicable to your data plan, or any changes to the applicable usage threshold either by a bill insert, email, text message or other appropriate means; and
-* AT&T may use reasonable methods to monitor and collect customer usage information to better optimize the operation of the network. Details concerning the information that AT&T collects about its customers, and how it uses and protects that information are addressed in the AT&T Privacy Notice (see [att.com/privacy](https://www.att.com/privacy)).
+* AT&T may use reasonable methods to monitor and collect customer usage information to better optimize the operation of the network. Details concerning the information that AT&T collects about its customers, and how it uses and protects that information are addressed in the AT&T Privacy Policy (see [att.com/privacy](https://www.att.com/privacy)).
 
 #### 6.14.2 Fixed Wireless Internet Service
 
