@@ -252,6 +252,8 @@ Last Edited on 2016-09-13
 * [Subscribe](https://amaze.org/subscribe/)
 * [Links](https://amaze.org/links/)
 
+### Pin It on Pinterest
+
 COOKIES
 
 We use cookies to ensure that we give the best experience on our web site. You may configure your browser to refuse cookies although some features might not work properly. Read more in our [Terms & Privacy.](https://amaze.org/terms-and-privacy/)
