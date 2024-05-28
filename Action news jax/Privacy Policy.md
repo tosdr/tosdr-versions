@@ -1,4 +1,4 @@
-[![Action News Jax Logo](/pf/resources/images/sites/cmg-tv-10050/station-logo.png?d=831)](https://www.actionnewsjax.com/ "Action News Jax Logo")
+[![Action News Jax Logo](/pf/resources/images/sites/cmg-tv-10050/station-logo.png?d=827)](https://www.actionnewsjax.com/ "Action News Jax Logo")
 
 * [Family](https://www.actionnewsjax.com/family/)
 * [News](https://www.actionnewsjax.com/news/)
