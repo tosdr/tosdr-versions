@@ -31,7 +31,6 @@
     * [Action](https://www.bluestacks.com/apps/action.html)
     * [Role Playing](https://www.bluestacks.com/apps/role-playing.html)
     * [Strategy](https://www.bluestacks.com/apps/strategy.html)
-    * [Gamepad & Controller](https://www.bluestacks.com/apps/gamepad-controller.html)
     * [Adventure](https://www.bluestacks.com/apps/adventure.html)
     * [Arcade](https://www.bluestacks.com/apps/arcade.html)
     * [Card](https://www.bluestacks.com/apps/card.html)
@@ -734,7 +733,7 @@ Unlock your PC's gaming potential. And yours too.
     
     [YouTube
     
-    126K](https://www.youtube.com/channel/UC9eB0Ysv4UcKgjEy47zcZ5A?sub_confirmation=1)
+    125K](https://www.youtube.com/channel/UC9eB0Ysv4UcKgjEy47zcZ5A?sub_confirmation=1)
     
 
 © 2024 BlueStacks name and logo are registered trademarks of now.gg, inc
