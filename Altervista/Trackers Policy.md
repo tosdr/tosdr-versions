@@ -435,11 +435,9 @@ It should be noted that the Data Controller has allowed the associated company M
     Google Analytics (Universal Analytics) is a web analysis service provided by Google Ireland Limited (“Google”). Google utilizes the Data collected to track and examine the use of this Application, to prepare reports on its activities and share them with other Google services.  
     Google may use the Data collected to contextualize and personalize the ads of its own advertising network.
     
-    In order to understand Google's use of Data, consult [Google's partner policy](https://www.google.com/policies/privacy/partners/).
-    
     Personal Data processed: Cookies and Usage Data.
     
-    Place of processing: Ireland – [Opt Out](https://tools.google.com/dlpage/gaoptout?hl=en).
+    Place of processing: Ireland – [Privacy Policy](https://policies.google.com/privacy) – [Opt Out](https://tools.google.com/dlpage/gaoptout?hl=en).
     
     #### Nielsen Audience Measurement (The Nielsen Company, LLC)
     
