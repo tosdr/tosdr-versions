@@ -481,7 +481,7 @@ Fax: +49 (0) 5241-80-62321
 
 ##### Bertelsmann Network
 
-[](http://www.facebook.com/Bertelsmann)[](http://twitter.com/Bertelsmann_com)[](http://www.instagram.com/bertelsmann_erleben/)[](http://www.linkedin.com/company/bertelsmann)[](http://www.xing.com/pages/bertelsmann)[](http://www.youtube.com/Bertelsmann)
+[](http://www.facebook.com/Bertelsmann)[](http://twitter.com/Bertelsmann_com)[](http://www.youtube.com/Bertelsmann)[](http://www.instagram.com/bertelsmann_erleben/)[](http://www.linkedin.com/company/bertelsmann)[](http://www.xing.com/company/bertelsmann)
 
 [![](/media/layout/images/logos/footer-und-vita/rtl-logo-website-footer-154x90px-082021_footer_logo_gt_1200_grid.png)](https://www.bertelsmann.com/divisions/rtl-group/)
 
