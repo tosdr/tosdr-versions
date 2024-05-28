@@ -1,4 +1,4 @@
-[![](/static/logos/ask.com.svg)](https://www.ask.com/?ueid=F0C2CFF0-59B4-47D0-AC08-4D2EF5213E7F&ad=dirN&debug=0 "https://www.ask.com/?ueid=F0C2CFF0-59B4-47D0-AC08-4D2EF5213E7F&ad=dirN&debug=0")
+[![](/static/logos/ask.com.svg)](https://www.ask.com/?ueid=860FD375-1C04-4286-9AD7-A79B4130DEA3&ad=dirN&locale=en_US "https://www.ask.com/?ueid=860FD375-1C04-4286-9AD7-A79B4130DEA3&ad=dirN&locale=en_US")
 
 Ask Media Group, LLC Terms of Service
 
@@ -240,8 +240,8 @@ The section titles in these Terms of Service are for convenience only and have n
 
 If you have any questions or concerns with respect to these Terms of Service or Sites and Services, please contact us[here](https://help.askmediagroup.com/hc/en-us).
 
-* [Privacy Policy](https://www.ask.com/privacy?ueid=F0C2CFF0-59B4-47D0-AC08-4D2EF5213E7F&ad=dirN&debug=0 "Privacy Policy")
-* [Terms of Service](https://www.ask.com/terms?ueid=F0C2CFF0-59B4-47D0-AC08-4D2EF5213E7F&ad=dirN&debug=0 "Terms of Service")
-* [Help](https://help.askmediagroup.com/hc/en-us?ueid=F0C2CFF0-59B4-47D0-AC08-4D2EF5213E7F&ad=dirN&debug=0 "Help")
+* [Privacy Policy](https://www.ask.com/privacy?ueid=860FD375-1C04-4286-9AD7-A79B4130DEA3&ad=dirN&locale=en_US "Privacy Policy")
+* [Terms of Service](https://www.ask.com/terms?ueid=860FD375-1C04-4286-9AD7-A79B4130DEA3&ad=dirN&locale=en_US "Terms of Service")
+* [Help](https://help.askmediagroup.com/hc/en-us?ueid=860FD375-1C04-4286-9AD7-A79B4130DEA3&ad=dirN&locale=en_US "Help")
 * Manage Privacy
 * © 2024 Ask Media Group, LLC
