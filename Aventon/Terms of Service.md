@@ -16,13 +16,13 @@ Have a question about something not found in our support links?
 
 [Send us a message](https://rideaventon.zendesk.com/hc/en-us/requests/new)[(866) 300-3311](tel:8663003311)
 
-[FIND A BIKE SHOP](https://www.aventon.com/pages/electric-bike-shop-dealer-locator)
+[FIND A DEALER](https://www.aventon.com/pages/electric-bike-shop-dealer-locator)
 
 US/EN 
 
 YOUR OFFERS
 
-[![Free Battery and Accessories with Abound purchase](https://images.prismic.io/aventon/47507d4c-ba48-47b4-a079-687e4691b4b9_Promo-Side-Drawer-Abound-Free-Battery.png?auto=compress,format&w=10&blur=10)](https://www.aventon.com/products/abound-ebike)[![Free Battery with Pace 500.3](https://images.prismic.io/aventon/d2a969e6-023a-4a7c-aadf-5c48a99ac3cd_Promo-Side-Drawer-Pace5003-Extra-Battery+1.png?auto=compress,format&w=10&blur=10)](https://www.aventon.com/products/pace500-3-ebike)[![Free Battery with Sinch](https://images.prismic.io/aventon/cba9ed35-64fa-44a4-8911-9fb20c69328b_Promo-Side-Drawer-Sinch-Extra-Battery+2.png?auto=compress,format&w=10&blur=10)](https://www.aventon.com/products/sinch2-ebike)[![Free Battery with Level.2](https://images.prismic.io/aventon/7584c06f-d73c-42cc-9f1a-0dbf71008c0d_Promo-Side-Drawer-Free-Extra-Battery+%281%29.png?auto=compress,format&w=10&blur=10)](https://www.aventon.com/products/aventon-level-commuter-ebike)[![Free battery with Aventure.2](https://images.prismic.io/aventon/65d7ccf93a605798c18c21dc_Promo-Side-Drawer-Aventure2-Free-Battery.png?auto=format,compress&w=10&blur=10)](https://www.aventon.com/products/aventure2-ebike)[![Free Shipping](https://images.prismic.io/aventon/57eb89b3-6ec2-4d11-ad67-cb71bf85dd0b_promo-free-shipping-all-bikes-2.webp?auto=compress,format&w=10&blur=10)](https://www.aventon.com/collections/ebikes)
+[![Free Battery and Accessories with Abound purchase](https://images.prismic.io/aventon/47507d4c-ba48-47b4-a079-687e4691b4b9_Promo-Side-Drawer-Abound-Free-Battery.png?auto=compress,format&w=10)](https://www.aventon.com/products/abound-ebike)[![Free Battery with Pace 500.3](https://images.prismic.io/aventon/d2a969e6-023a-4a7c-aadf-5c48a99ac3cd_Promo-Side-Drawer-Pace5003-Extra-Battery+1.png?auto=compress,format&w=10)](https://www.aventon.com/products/pace500-3-ebike)[![Free Battery with Sinch](https://images.prismic.io/aventon/cba9ed35-64fa-44a4-8911-9fb20c69328b_Promo-Side-Drawer-Sinch-Extra-Battery+2.png?auto=compress,format&w=10)](https://www.aventon.com/products/sinch2-ebike)[![Free Battery with Level.2](https://images.prismic.io/aventon/7584c06f-d73c-42cc-9f1a-0dbf71008c0d_Promo-Side-Drawer-Free-Extra-Battery+%281%29.png?auto=compress,format&w=10)](https://www.aventon.com/products/aventon-level-commuter-ebike)[![Free battery with Aventure.2](https://images.prismic.io/aventon/65d7ccf93a605798c18c21dc_Promo-Side-Drawer-Aventure2-Free-Battery.png?auto=format,compress&w=10)](https://www.aventon.com/products/aventure2-ebike)[![Free Shipping](https://images.prismic.io/aventon/57eb89b3-6ec2-4d11-ad67-cb71bf85dd0b_promo-free-shipping-all-bikes-2.webp?auto=compress,format&w=10)](https://www.aventon.com/collections/ebikes)
 
 [Aventon](https://www.aventon.com/)
 
@@ -247,6 +247,13 @@ YOUR OFFERS
         Earn points for gear
         
         Start Earning >](https://www.aventon.com/pages/rewards)
+    * [![](//www.aventon.com/cdn/shop/files/nav_videos.png?v=1672262874&width=128)
+        
+        Videos
+        
+        Check out our videos
+        
+        Videos >](https://www.aventon.com/pages/video)
     * [![](//www.aventon.com/cdn/shop/files/nav_reviews.png?v=1672262891&width=128)
         
         Reviews
@@ -312,7 +319,7 @@ YOUR OFFERS
     
     [(866) 300-3311](tel:8663003311)
     
-* [FIND A BIKE SHOP](https://www.aventon.com/pages/electric-bike-shop-dealer-locator)
+* [FIND A DEALER](https://www.aventon.com/pages/electric-bike-shop-dealer-locator)
 
 Send us a message
 
@@ -372,7 +379,7 @@ Open menu
         
         eMTB Mid-Drive NEW
         
-        Nowhere it can’t go.](https://www.aventon.com/collections/emtb)
+        Nowhere it can’t go.](https://www.aventon.com/products/ramblas-electric-mountain-bike)
     * [![](//www.aventon.com/cdn/shop/files/level-2-ebike-glacier-nav.jpg?v=1684877765&width=288)
         
         Commuter
@@ -402,7 +409,7 @@ Open menu
         
         Cargo
         
-        Hauls what most won’t.](https://www.aventon.com/collections/cargo-ebikes)
+        Hauls what most won’t.](https://www.aventon.com/products/abound-ebike)
     * [![Light weight ebike](//www.aventon.com/cdn/shop/files/light-weight-ebike-nav.jpg?v=1692137504&width=288)
         
         Lightweight
@@ -555,7 +562,7 @@ Open menu
         
         View Warranty Details >](https://www.aventon.com/pages/warranty)
     
-* [FIND A BIKE SHOP](https://www.aventon.com/pages/electric-bike-shop-dealer-locator)
+* [FIND A DEALER](https://www.aventon.com/pages/electric-bike-shop-dealer-locator)
 
 Search
 
@@ -930,7 +937,7 @@ Footer
 * [Return Policy](https://www.aventon.com/pages/terms-of-service#returns)
 * [Shipping Info](https://www.aventon.com/pages/terms-of-service#shipping)
 * [Support](https://rideaventon.zendesk.com/hc/en-us)
-* [Warranty](https://www.aventon.com/pages/warranty)
+* [Warranty](https://www.aventon.com/pages/warranty-form)
 * [FAQ](https://rideaventon.zendesk.com/hc/en-us)
 * [Accessibility](https://www.aventon.com/)
 
@@ -951,6 +958,7 @@ Footer
 * [Events](https://www.aventon.com/pages/events)
 * [Electric Bike Safety](https://www.aventon.com/pages/electric-bike-safety)
 * [Beyond The Bike](https://www.youtube.com/playlist?list=PL2mDpTsM1UtG0f3aUHyH7954hQunCgqBw)
+* [Videos](https://www.aventon.com/pages/video)
 * [Reviews](https://www.aventon.com/pages/reviews)
 * [Blog](https://www.aventon.com/blogs/aventon_bikes)
 * [Press](https://www.aventon.com/pages/press)
@@ -963,6 +971,8 @@ Footer
 * [Careers](https://www.aventon.com/pages/careers)
 * [Affiliate Program](https://www.aventon.com/pages/affiliate-program)
 * [Referrals](https://www.aventon.com/pages/share?traffic_source=site_footer)
+* [Dealer Portal](https://b2b.aventon.com/)
+* [International Distributors](https://www.aventon.com/pages/distributors)
 * [Contact Us](https://rideaventon.zendesk.com/hc/en-us/requests/new)
 * [Recall Information](https://www.aventon.com/pages/recalls)
 
@@ -980,7 +990,7 @@ Footer
 * [Return Policy](https://www.aventon.com/pages/terms-of-service#returns)
 * [Shipping Info](https://www.aventon.com/pages/terms-of-service#shipping)
 * [Support](https://rideaventon.zendesk.com/hc/en-us)
-* [Warranty](https://www.aventon.com/pages/warranty)
+* [Warranty](https://www.aventon.com/pages/warranty-form)
 * [FAQ](https://rideaventon.zendesk.com/hc/en-us)
 * [Accessibility](https://www.aventon.com/)
 
@@ -1001,6 +1011,7 @@ Footer
 * [Events](https://www.aventon.com/pages/events)
 * [Electric Bike Safety](https://www.aventon.com/pages/electric-bike-safety)
 * [Beyond The Bike](https://www.youtube.com/playlist?list=PL2mDpTsM1UtG0f3aUHyH7954hQunCgqBw)
+* [Videos](https://www.aventon.com/pages/video)
 * [Reviews](https://www.aventon.com/pages/reviews)
 * [Blog](https://www.aventon.com/blogs/aventon_bikes)
 * [Press](https://www.aventon.com/pages/press)
@@ -1013,6 +1024,8 @@ Footer
 * [Careers](https://www.aventon.com/pages/careers)
 * [Affiliate Program](https://www.aventon.com/pages/affiliate-program)
 * [Referrals](https://www.aventon.com/pages/share?traffic_source=site_footer)
+* [Dealer Portal](https://b2b.aventon.com/)
+* [International Distributors](https://www.aventon.com/pages/distributors)
 * [Contact Us](https://rideaventon.zendesk.com/hc/en-us/requests/new)
 * [Recall Information](https://www.aventon.com/pages/recalls)
 
