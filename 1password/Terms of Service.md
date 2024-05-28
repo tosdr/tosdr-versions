@@ -298,9 +298,8 @@ In addition, 1Password and the Customer shall comply with all applicable laws, r
 
 [Archived revisions](https://1password.com/legal/terms-of-service-archive/)
 
-* Product
+* 1Password
 * [Pricing](https://1password.com/teams/pricing/)
-* [Extended Access Management](https://1password.com/xam/)
 * [Families](https://1password.com/families/)
 * [Teams](https://1password.com/teams/)
 * [Business](https://1password.com/business/)
