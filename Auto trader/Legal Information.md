@@ -52,8 +52,8 @@ Privacy notice
     
 * [Terms of use](https://www.autotrader.co.uk/terms-of-use)
 
-Auto Trader Privacy Notice (“Notice”) (last updated 2 May 2024)
-===============================================================
+Auto Trader Privacy Notice (“Notice”) (last updated 20th February 2024)
+=======================================================================
 
 Auto Trader is a UK digital automotive marketplace that offers a vehicle buying and selling process. To provide you with the full range of Auto Trader products and services, we need to collect and process certain information about you.
 
@@ -194,9 +194,9 @@ Information collected by us and how we use it?
     
     **Vehicle Provence Check**
     
-    If you are performing a Vehicle Check, you will first need to register for an Auto Trader account. To complete a Vehicle Check, we will need to process the **Vehicle Registration Mark** for the vehicle.
+    If you are performing a Vehicle Check, you will first need to register for an Auto Trader account. To complete a Vehicle Check, we will need to process the Vehicle Registration Mark for the vehicle.
     
-    You may also be required to supply **payment card details** to perform a Vehicle Check. We may use third party payment providers to manage online card payment transactions. Payment card information is collected over a secure online payment gateway provided by:
+    You may also be required to supply payment card details to perform a Vehicle Check. We may use third party payment providers to manage online card payment transactions. Payment card information is collected over a secure online payment gateway provided by:
     
     * Stripe – processed in accordance with their privacy policy:[https://stripe.com/gb/privacy](https://stripe.com/gb/privacy)
     
@@ -204,9 +204,9 @@ Information collected by us and how we use it?
     
     To submit a Vehicle Check Data Guarantee claim, we may ask you to provide some additional information to help us investigate your claim.
     
-    * As part of our validation process, we will request a copy of **photographic identification (such as your passport or driving licence), facial images, ID numbers** **and proof of your home or trading address** (as applicable) in order to validate your claim.
-    * We may ask for original copies of the **vehicles V5C, insurance information, invoice, receipt and MOT Certificate.**
-    * We will ask for details relating to your claim, which may include (where relevant) **details relating to the purchase of the vehicle and the seller, any crime reference number and a copy of your insurance certificate.**
+    * As part of our validation process, we will request a copy of photographic identification (such as your passport or driving licence), facial images, ID numbers and proof of your home or trading address (as applicable) in order to validate your claim.
+    * We may ask for original copies of the vehicles V5C, insurance information, invoice, receipt and MOT Certificate.
+    * We will ask for details relating to your claim, which may include (where relevant) details relating to the purchase of the vehicle and the seller, any crime reference number and a copy of your insurance certificate.
     * To verify your identity, we may disclose your personal information (including your name and address) with GB Group plc and/or Credas Technologies Ltd.
     
     If you are performing a Vehicle Check, you will first need to register for an Auto Trader account. To complete a Vehicle Check, we will need to process the Vehicle Registration Mark for the vehicle.
@@ -220,16 +220,6 @@ Information collected by us and how we use it?
     **Chat Service** - If you use the chat service, available on some dealer adverts, to communicate with dealers (“Chat Service”), you may disclose your **name, email address and other personal information** to a dealer while using the service. The Chat service is provided by Live Person Automotive or other third party provider chosen by the retailer, who may also have access to the content of your live chat messages (including any personal data contained in them). Please refer to the relevant Chat Service provider’s privacy policy for information about how they process your personal data.
     
     All conversations and email exchanges are recorded. Any personal information that you disclose during a live chat or via an online form will be accessible to and processed by the relevant Chat Service provider, the dealer with whom you communicate, and will be made available to Auto Trader. Additionally, the Chat Service provider may use computer infrastructure which is situated outside of the EEA. By using the Chat Service, you acknowledge and agree that any personal data disclosed by you while using the Chat Service may be processed and stored by the Chat Service provider on its systems outside the EEA and will be protected by adequate safeguards
-    
-    **Request a quote for insurance** – We have partnered with MoneySuperMarket Limited (“MSM”) to provide you with insurance comparison services.
-    
-    If you request an insurance quote for a motorbike, we will pass you to MSM’s website. Please refer to MSM’s [privacy notice](https://www.moneysupermarket.com/legal/privacy-policy/) for motorbikes for further information about how they process your personal data.
-    
-    If you request an insurance quote for a car, we will pass you to a website powered by MSM on our behalf. Where you are signed into your Auto Trader account and you give us consent to share your details, we will share your first name, surname, email address, your account ID, and the vehicle registration with MSM, to allow MSM to pre-populate fields on the website.
-    
-    You will also be given the option to either log-in to your existing MSM account or register an account with them. If you register an account with MSM, MSM will share insurance quotes with us (based on the data you inputted for your most recent car insurance quote on their site) so that we can display the quotes to you when you revisit our car adverts.
-    
-    Please refer to MSM’s [privacy notice](https://autotrader.motor.moneysupermarket.insure/privacy-policy) for cars for further information about how they process your personal data.
     
     **Online Orders** - If you place an online order and reservation of a vehicle on the Website, you will need to provide your **name, email address and (at your option) telephone number**. We will use this information to send you an email confirmation of your order and keep you updated as your order progresses. If you don’t complete your order, we will save the details you have already entered in your account and use your email address to remind you to complete your order.
     
@@ -251,7 +241,7 @@ Information collected by us and how we use it?
     
     **Assessing Suitability for Finance and Completing a Soft Search**
     
-    In order for us to assess your suitability for finance and to provide you with a personalised quote, we initially use your personal data to complete a soft search which involves checking the information you provide against one or both of the credit reference agencies referred to below and against the lender and/or broker criteria held by Auto Trader and/or its service providers. The information you provide may include the following information about you (and any joint applicants):
+    In order for us to assess your suitability for finance and to provide you with a personalised quote, we initially use your personal data to complete a soft search which involves checking the information you provide against the credit reference agencies referred to below and against the lender and/or broker criteria held by Auto Trader and/or its service providers. The information you provide may include the following information about you (and any joint applicants):
     
     * personal details (for example, **name, date of birth and marital status**);
     * contact details (for example, **address, email address and phone number**);
@@ -261,14 +251,12 @@ Information collected by us and how we use it?
     
     As a result of an **automated process**, which uses credit history from the credit reference agencies and filters this information against lender and/or broker lending criteria, you will be presented with the details of lenders and/or brokers who you may be able to obtain a loan from. Please note that this does not guarantee that you will be able to obtain a loan from these lenders and/or brokers.
     
-    This will not have any adverse effect on your credit rating and the soft search(s) on your credit file will only be visible to you. However, you are only able to proceed to a full finance application on our Website or App with one of the lenders or brokers for whom our processes deem that you might be eligible. This may also mean that you are unable to proceed to a full finance application on our Website or App where there are no lenders or brokers whose criteria are met using the soft check process.
+    This will not have any adverse effect on your credit rating and the soft search on your credit file will only be visible to you. However, you are only able to proceed to a full finance application on our Website or App with one of the lenders or brokers for whom our processes deem that you might be eligible. This may also mean that you are unable to proceed to a full finance application on our Website or App where there are no lenders or brokers whose criteria are met using the soft check process.
     
     To complete a soft search we share personal data relating to you (and, as applicable, any joint applicant) with the credit reference agencies Equifax and/or Experian (acting as controllers in their own right) and you should ensure you are happy with their privacy notices:
     
     * Equifax: [https://www.equifax.co.uk/ein.html](https://www.equifax.co.uk/ein.html)
     * Experian: [https://www.experian.co.uk/privacy/consumer-information-portal](https://www.experian.co.uk/privacy/consumer-information-portal)
-    
-    The credit reference agencies will run a soft search each time you view a quote saved in your account, so that you always see the most up-to-date quote.
     
     The credit reference agencies will share only necessary details from your credit file, including your credit score. They may also share information relating to any joint applicants or individuals who appear to be financially linked or associated with you (“**Financial Associate(s)**“). For example, if you have a joint mortgage with your spouse, the financial details of your spouse may be made available to us as their financial standing may directly impact your finance application. You must ensure you have the consent of any Financial Associate(s) prior to completing the form at the “soft search“ stage. You must also bring this Privacy Notice to their attention.
     
@@ -447,10 +435,8 @@ The Legal Basis we rely on for processing your information
     
     * We may share your personal information with the Auto Trader Group companies.
     * The Auto Trader Group operates a shared IT infrastructure and, as a result, your personal data may be shared with other companies in the Auto Trader Group. We ensure that our shared IT infrastructure is subject to appropriate security measures and internal controls, to ensure that your personal data is kept secure and in accordance with Data Protection Legislation. Your data may be used and analysed in order to improve products and services across the Auto Trader Group.
-    * We will send your personal information to our partners, dealers, vehicle manufacturers, bike manufacturers, finance providers, auction houses and other relevant third parties to enable them to provide you with the services and products that you have requested or consented to receive details of via the Website or the Apps. In certain circumstances, vehicle manufacturers (including, amongst others, Ford Motor Company Limited) or bike manufacturers and other relevant third parties may subsequently transfer, process and store your personal information outside of the UK for their business and administration purposes, in accordance with their own privacy policies. If you have queries or require more information on how these third parties use information, including transfers outside of the UK, please read their privacy policies or contact them.
-    * If you request an insurance quote, for the vehicle you want to buy, we will redirect you to a website powered by Moneysupermarket.com Limited (“MSM”), who we have partnered with to provide insurance comparison services. Where you are signed into your Auto Trader account and you give us consent to share your details, we will share your first name, surname, email address, your account ID and the vehicle registration with MSM, to allow MSM to pre-populate fields on the website. You will also be given the option to either log-in to your existing MSM account or register an account with them. MSM will process your personal data as a controller in their own right in accordance with their [privacy notice.](https://autotrader.motor.moneysupermarket.insure/privacy-policy)
-    * Sometimes we may need to share and/or process your personal data outside the UK, for example where we use service providers who are based outside the UK. We will only share and/or process your personal data outside the UK where we have taken steps to fully comply with Data Protection Legislation and ensure that your personal data is fully protected.
-    * Some of our webpages use plugins from thirdparty platforms (such as the ‘Facebook Recommend‘ or ‘Facebook Gestures‘ function). Information about your visit to the Website may be collected by these third-party providers on these pages. If you browse these pages whilst still also logged in to your account on the third-party platform, information collected by the third party may be connected to your account on the third party platform. If you have queries or require more information on how these third parties use information, including transfers outside of the UK, please read their privacy policies or contact them.
+    * We will send your personal information to our partners, dealers, vehicle manufacturers, bike manufacturers, finance providers, auction houses and other relevant third parties to enable them to provide you with the services and products that you have requested or consented to receive details of via the Website or the Apps. In certain circumstances, vehicle manufacturers (including Ford Motor Company Limited) or bike manufacturers and other relevant third parties may subsequently transfer, process and store your personal information outside of the European Economic Area (“EEA”) for their business and administration purposes. In accordance with their own privacy policies. If you have queries or require more information on how these third parties use information, including transfers outside of the EEA, please read their privacy policies or contact them.
+    * We may use service providers to help us run the Website or services available on the Website, some of whom may be based outside the EEA. Some of our webpages use plugins from thirdparty platforms (such as the ‘Facebook Recommend‘ or ‘Facebook Gestures‘ function). Information about your visit to the Website may be collected by these third-party providers on these pages. If you browse these pages whilst still also logged in to your account on the third-party platform, information collected by the third party may be connected to your account on the third party platform. If you have queries or require more information on how these third parties use information, including transfers outside of the EEA, please read their privacy policies or contact them.
     * As a security measure we use 2 factor verification when you login to your account We send your mobile number and a code to a third party provider (IOVOX or Clickatel) who will send you a code to enable you to login.
     * If you submit a Vehicle Check Data Guarantee Claim, we may share your personal data with our partners to help us to verify your claim. This may include, without limitation, police, insurers, finance houses and the DVLA. If you have queries or require more information on how these third parties use information, please read their privacy policies or contact them.
     * The Chat service is provided by a third party, LivePerson Automotive and data they receive is processed in accordance with [their privacy policy](http://www.livepersonautomotive.com/policies/privacy-policy/).
