@@ -214,10 +214,10 @@ Homepage](https://atos.net/en)
         * [Media Resources](https://atos.net/en/newsroom/media-resources)
         * [Media Contacts](https://atos.net/en/newsroom#contacts)
         
-        16 May 2024
+        17 April 2024
         
-        Eviden introduces the Lifelink Hoox T40, its next-generation secure phone solution
-        ----------------------------------------------------------------------------------
+        CEA and Eviden Launch Phase 2 of the EXA1 Supercomputer Program
+        ---------------------------------------------------------------
         
     * [Blog](https://atos.net/en/atos-blog)˅
         
