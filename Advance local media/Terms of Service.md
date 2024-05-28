@@ -1,7 +1,7 @@
 USER AGREEMENT
 ==============
 
-Last updated: April 18, 2024
+Last updated: April 4, 2023
 
 1. [INTRODUCTION, ARBITRATION NOTICE & CLASS ACTION WAIVER](https://www.advancelocal.com/advancelocalUserAgreement/user-agreement.html#introduction)
 2. [MONITORING AND COMPLAINTS AGAINST OTHER USERS](https://www.advancelocal.com/advancelocalUserAgreement/user-agreement.html#monitor_top)
@@ -246,8 +246,8 @@ Last updated: April 18, 2024
         
         1. A. You agree that in the event you have any Claim against us, you will first contact us and make a good faith sustained effort to resolve the Claim before resorting to more formal means of resolution, including without limitation arbitration or any court action. You may contact us through the means described on the Service, if available (for example, in the "Contact Us" section), or if no such means are specified, contact our Privacy Policy Coordinator as described in our [Privacy Policy.](https://www.advancelocal.com/advancelocalUserAgreement/user-agreement.html/privacy-policy/)
         2. IN THE EVENT ANY CLAIM CANNOT BE INFORMALLY RESOLVED, YOU AND WE AGREE TO ARBITRATE ALL CLAIMS ON AN INDIVIDUAL BASIS IN ACCORDANCE WITH THE TERMS OF THE ARBITRATION PROVISIONS OF THIS AGREEMENT, RATHER THAN LITIGATE THE CLAIM IN COURT, EXCEPT FOR THE CLAIMS EXCLUDED FROM ARBITRATION LISTED BELOW IN PARAGRAPH 4. ARBITRATION MEANS YOU WILL HAVE A FAIR HEARING BEFORE A NEUTRAL ARBITRATOR INSTEAD OF IN A COURT BY A JUDGE OR JURY. BY ENTERING INTO THIS AGREEMENT, YOU AND WE EACH AGREE TO WAIVE THE RIGHT TO A TRIAL BY JURY FOR ALL CLAIMS, EXCEPT FOR THE CLAIMS EXCLUDED FROM ARBITRATION LISTED BELOW IN PARAGRAPH 4.
-            1. The arbitration will be administered by the National Arbitration and Mediation (“NAM”) in accordance with the NAM Comprehensive Dispute Resolution Rules and Procedures. For more information about NAM and the arbitration process, please visit the NAM website at [www.namadr.org](https://www.namadr.org/).
-            2. Payment of all filing, administration, and arbitrator fees will be governed by NAM’s rules, except as follows: if your total Claims seek less than $10,000, we will reimburse you for filing fees you pay to NAM.
+            1. The arbitration will be administered by the American Arbitration Association (“AAA”) in accordance with its Consumer Arbitration Rules. For more information about the AAA and the arbitration process, please visit the AAA website at [www.adr.org](https://www.adr.org/).
+            2. Payment of all filing, administration, and arbitrator fees will be governed by the AAA’s rules, except as follows: if your total Claims seek less than $10,000, we will reimburse you for filing fees you pay to the AAA.
             3. All issues are for the arbitrator to decide, except those issues relating to the scope, application, and enforceability of this arbitration provision are for the court to decide.
             4. The Federal Arbitration Act governs the interpretation and enforcement of this arbitration provision. The laws of the United States, State of New York, without regard to any principles of conflict of laws, applies to any arbitration under this section.
             5. Unless you and we agree otherwise, any in-person hearings for the arbitration shall take place either in your county of principal residence or New York, New York.
