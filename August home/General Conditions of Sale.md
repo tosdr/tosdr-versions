@@ -219,9 +219,15 @@ Excluding tax and shipping
 
 ### Complete your smart home
 
-![](//august.com/cdn/shopifycloud/shopify/assets/no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_400x.gif)
+![August Smart Keypad](//august.com/cdn/shop/products/Unknown-3_400x.jpg?v=1544734321)
 
-$
+August Smart Keypad
+
+ 
+
+Pair an August Smart Keypad with your current August Smart Lock to grant secure, keyless access codes to your guests! Discover a more convenient home with August today.  
+
+$59.99
 
 Add to cart
 
@@ -388,8 +394,8 @@ By signing up for the August Home US and Canada email newsletter, you agree with
 
 * [Shop All Smart Locks & More](https://august.com/pages/shop-all-products)
 * [Wi-Fi Smart Lock](https://august.com/products/august-wifi-smart-lock)
+* [Smart Lock Pro](https://august.com/products/august-smart-lock-pro-connect)
 * [Smart Lock](https://august.com/products/august-smart-lock-connect)
-* [Yale Approach™ Lock with Wi-Fi](https://august.com/products/yale-approach-lock-with-wi-fi)
 * [Bundles](https://august.com/pages/smart-door-bundle)
 * [Accessories](https://august.com/pages/accessories)
 * [Smarter Hosting](https://august.com/products/august-smarter-hosting-bundle)
