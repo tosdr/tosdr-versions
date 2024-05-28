@@ -33,9 +33,9 @@
         * [Atari x Artovision](https://www.atari.com/collections/artovision-dimensional-artworks)
         * [Atari x Blue Kazoo](https://www.atari.com/collections/blue-kazoo-puzzles)
         * [Atari x Cariuma](https://www.atari.com/collections/atari-x-cariuma)
+        * [Atari x MobyGames](https://www.atari.com/collections/mobygames)
         * [Atari x My Arcade](https://www.atari.com/collections/atari-x-my-arcade)
         * [Atari x Retro Arcade](https://www.atari.com/collections/reproduction-pcbs)
-        * [RCT x errornogo](https://www.atari.com/collections/rct-x-errornogo)
         * [RCT 25th Anniversary Collection](https://www.atari.com/collections/rollercoaster-tycoon-25th-anniversary)
         
     
@@ -75,7 +75,6 @@
         * [Atari X](https://www.atari.com/pages/atari-x)
         
     
-* [SALE](https://www.atari.com/collections/sale)
 
 [Sign in](https://www.atari.com/account/login) [Help + FAQ](https://www.atari.com/pages/faq) [Investors](https://atari-investisseurs.fr/en/)
 
@@ -113,9 +112,9 @@
         * [Atari x Artovision](https://www.atari.com/collections/artovision-dimensional-artworks)
         * [Atari x Blue Kazoo](https://www.atari.com/collections/blue-kazoo-puzzles)
         * [Atari x Cariuma](https://www.atari.com/collections/atari-x-cariuma)
+        * [Atari x MobyGames](https://www.atari.com/collections/mobygames)
         * [Atari x My Arcade](https://www.atari.com/collections/atari-x-my-arcade)
         * [Atari x Retro Arcade](https://www.atari.com/collections/reproduction-pcbs)
-        * [RCT x errornogo](https://www.atari.com/collections/rct-x-errornogo)
         * [RCT 25th Anniversary Collection](https://www.atari.com/collections/rollercoaster-tycoon-25th-anniversary)
     
     [![](files/atari-50th-t-shirt-1080x1080-02.jpg)
@@ -226,10 +225,6 @@
     
     Atari S/S 2024 Collection
     
-    ![](files/13.jpg)
-    
-    RCT x errornogo
-    
 * [Games](https://www.atari.com/collections/games)
     
     * ###### Games
@@ -302,7 +297,6 @@
     
     Since 1972
     
-* [SALE](https://www.atari.com/collections/sale)
 
  [Log in](https://www.atari.com/account/login)
 
@@ -321,12 +315,48 @@ Continue shopping
 
  
 
-Memorial Day Sale
-=================
+Yars Rising
+===========
 
-Get ready for Summer with a week of deals—up to 30% off sitewide!
+New Metroidvania from Atari and WayForward
 
-[Shop Now](https://www.atari.com/collections/sale)
+[Coming Soon](https://www.atari.com/products/yars-rising)
+
+ 
+
+RollerCoaster Tycoon 25th Anniversary
+=====================================
+
+This 25th Anniversary collection celebrates Chris Sawyer's genre-defining RollerCoaster Tycoon.
+
+[Shop Now](https://www.atari.com/collections/rollercoaster-tycoon-25th-anniversary)
+
+ 
+
+Introducing the Atari 2600+
+===========================
+
+Just dropped: new games and accessories, including the all new CX78+ Gamepad!
+
+[Shop Now](https://www.atari.com/collections/atari-2600-plus)
+
+ 
+
+Atari 400 Mini
+==============
+
+Includes 25 8-bit classic games. Act fast, supplies are limited!
+
+[Join Waitlist](https://www.atari.com/collections/atari-400-mini-collection)
+
+ 
+
+CARIUMA x ATARI
+===============
+
+Designed for the future, crafted with care. Pre-order the limited collection now.
+
+[Shop Now](https://www.atari.com/collections/atari-x-cariuma)
 
 [![](files/Atari_VCS.jpg)
 
@@ -343,34 +373,6 @@ Shop Now](https://www.atari.com/collections/gear)[![](files/atari-games.webp)
 Shop Now](https://www.atari.com/collections/games)
 
 ### Popular Right Now
-
-[![Atari 2600+](files/ProductImage-AV2.jpg)
-
-![Atari 2600+](files/ProductImage-B_0f8f2edb-45f7-40a3-8a45-abb110968be5.jpg)
-
-Available Worldwide
-
-##### Atari 2600+
-
-Regular price $116.99
-
-Regular price $129.99 Sale price $116.99
-
-Unit price /  per](https://www.atari.com/products/atari-2600-plus) 
-
-[![VCS All-In Bundle](products/Atari_VCS_Black_Walnut_Product_Group.jpg)
-
-![VCS All-In Bundle](products/Atari_VCS_Black_Walnut_Product_Front.jpg)
-
-USA Exclusive
-
-##### VCS All-In Bundle
-
-Regular price $209.99
-
-Regular price $299.99 Sale price $209.99
-
-Unit price /  per](https://www.atari.com/products/atari-vcs-onyx-all-in)     
 
 [![Oversized Retro Tee](files/TeeTemplate-1_695b79bd-5f11-4215-8e0f-219415ecbad3.jpg)
 
@@ -390,45 +392,13 @@ Add to cart
 
  3XL
 
-15% off
-
 ##### Oversized Retro Tee
 
-Regular price $29.75
+Regular price $35
 
-Regular price $35 Sale price $29.75
+Regular price Sale price $35.00
 
 Unit price /  per](https://www.atari.com/products/oversized-retro-tee)         
-
-[![Classic Katakana Tee](files/AtariKatakanaLogoTee-2.jpg)
-
-![Classic Katakana Tee](files/AtariKatakanaLogoTee-1.jpg)
-
-Add to cart
-
- S
-
- M
-
- L
-
- XL
-
- 2XL
-
- 3XL
-
- 4XL
-
-15% off
-
-##### Classic Katakana Tee
-
-Regular price $23.80
-
-Regular price $28 Sale price $23.80
-
-Unit price /  per](https://www.atari.com/products/atari-katakana-logo-tee)       
 
 [![Retro Trucker Hat](files/RCT25thAnniversaryDadHat18.jpg)
 
@@ -436,13 +406,11 @@ Unit price /  per](https://www.atari.com/products/atari-katakana-logo-tee)   
 
 Add to cart
 
-15% off
-
 ##### Retro Trucker Hat
 
-Regular price $25.50
+Regular price $30
 
-Regular price $30 Sale price $25.50
+Regular price Sale price $30.00
 
 Unit price /  per](https://www.atari.com/products/retro-trucker-hat) 
 
@@ -480,13 +448,11 @@ Add to cart
 
  4XL
 
-15% off
-
 ##### RCT 25th Anniversary Tour Tee
 
-Regular price $23.80
+Regular price $28
 
-Regular price $28 Sale price $23.80
+Regular price Sale price $28.00
 
 Unit price /  per](https://www.atari.com/products/rct-25th-anniversary-tour-tee)     
 
@@ -503,20 +469,6 @@ Regular price $24.99
 Regular price Sale price $24.99
 
 Unit price /  per](https://www.atari.com/products/cx78-gamepad) 
-
-[![RollerCoaster Tycoon x errornogo Smile Tote Bag](files/tote_pdp_01.webp)
-
-![RollerCoaster Tycoon x errornogo Smile Tote Bag](files/tote_pdp_02.webp)
-
-Add to cart
-
-##### RollerCoaster Tycoon x errornogo Smile Tote Bag
-
-Regular price $32
-
-Regular price $32 Sale price $32.00
-
-Unit price /  per](https://www.atari.com/products/rollercoaster-tycoon-x-errornogo-smile-tote-bag) 
 
 [![RCT 25th Anniversary Retro Pixel Art Tee](files/TeeTemplate_ed5abc0e-df80-45c7-aae3-bea21c1ce8ac.jpg)
 
@@ -538,19 +490,31 @@ Add to cart
 
  4XL
 
-15% off
-
 ##### RCT 25th Anniversary Retro Pixel Art Tee
 
-Regular price $23.80
+Regular price $28
 
-Regular price $28 Sale price $23.80
+Regular price Sale price $28.00
 
 Unit price /  per](https://www.atari.com/products/rct-25th-anniversary-retro-pixel-art-tee)     
 
-[![RollerCoaster Tycoon x errornogo Disc Tee](files/disc_t_pdp_01.webp)
+[![RCT 25th Anniversary Water Bottle](files/RCT25thAnniversaryWaterBottle1.jpg)
 
-![RollerCoaster Tycoon x errornogo Disc Tee](files/disc_t_pdp_02.webp)
+![RCT 25th Anniversary Water Bottle](files/RCT25thAnniversaryWaterBottle2.jpg)
+
+Add to cart
+
+##### RCT 25th Anniversary Water Bottle
+
+Regular price $26
+
+Regular price Sale price $26.00
+
+Unit price /  per](https://www.atari.com/products/rct-25th-anniversary-water-bottle) 
+
+[![Atari Katakana Logo Tee](files/AtariKatakanaLogoTee-1.jpg)
+
+![Atari Katakana Logo Tee](files/AtariKatakanaLogoTee-2.jpg)
 
 Add to cart
 
@@ -562,15 +526,19 @@ Add to cart
 
  XL
 
- XXL
+ 2XL
 
-##### RollerCoaster Tycoon x errornogo Disc Tee
+ 3XL
 
-Regular price $52
+ 4XL
 
-Regular price $52 Sale price $52.00
+##### Atari Katakana Logo Tee
 
-Unit price /  per](https://www.atari.com/products/rollercoaster-tycoon-x-errornogo-disc-tee) 
+Regular price $28
+
+Regular price Sale price $28.00
+
+Unit price /  per](https://www.atari.com/products/atari-katakana-logo-tee)       
 
 [![Atari VCS 480GB M.2 Drive](files/ProductImage-A_f22f4779-3ae1-441c-bdad-a3f127637791.jpg)
 
@@ -586,6 +554,20 @@ Regular price Sale price $69.99
 
 Unit price /  per](https://www.atari.com/products/atari-vcs-480gb-m2-drive) 
 
+[![VCS All-In Bundle](products/Atari_VCS_Black_Walnut_Product_Group.jpg)
+
+![VCS All-In Bundle](products/Atari_VCS_Black_Walnut_Product_Front.jpg)
+
+USA Exclusive
+
+##### VCS All-In Bundle
+
+Regular price $299.99
+
+Regular price Sale price $299.99
+
+Unit price /  per](https://www.atari.com/products/atari-vcs-onyx-all-in)     
+
 [![Ninja Golf 7800](files/7800-ninjagolf-011.jpg)
 
 Available Worldwide
@@ -597,6 +579,34 @@ Regular price $29.99
 Regular price Sale price $29.99
 
 Unit price /  per](https://www.atari.com/products/ninja-golf-7800) 
+
+[![Atari 2600+](files/ProductImage-AV2.jpg)
+
+![Atari 2600+](files/ProductImage-B_0f8f2edb-45f7-40a3-8a45-abb110968be5.jpg)
+
+Available Worldwide
+
+##### Atari 2600+
+
+Regular price $129.99
+
+Regular price Sale price $129.99
+
+Unit price /  per](https://www.atari.com/products/atari-2600-plus) 
+
+[![Atari 400 Mini](files/ProductImage-A-0_0cdb70cb-b9e2-4c9f-a4c2-dd8b4a46ff14.jpg)
+
+![Atari 400 Mini](files/ProductImage-A-1_0c6882d2-5112-4f6f-b5b4-04844b7cca19.jpg)
+
+Available Worldwide
+
+##### Atari 400 Mini
+
+Regular price $119.99
+
+Regular price Sale price $119.99
+
+Unit price /  per](https://www.atari.com/products/atari-400-mini-1) 
 
 ![](//atari.com/cdn/shop/files/atari-symbol.svg?v=1692708467)
 
@@ -643,19 +653,11 @@ FEATURED GAMES
 
 [View All](https://www.atari.com/collections/games)
 
-![Lunar Lander: Beyond](files/lunarlander-gamebox.webp)
-
-Available on
-
-[](https://store.steampowered.com/app/2376270/Lunar_Lander_Beyond/)[](https://store.playstation.com/concept/10005702)[](https://www.nintendo.com/us/store/products/lunar-lander-beyond-switch/)[](https://www.xbox.com/games/store/lunar-lander-beyond/9NXSBLM4MBP6)[](https://store.epicgames.com/p/lunar-lander-beyond-30b7a0)[](https://atari.com/pages/atari-vcs)
-
-#### Lunar Lander: Beyond
-
 ![Yars Rising](files/535px_742px_Game_Box.webp)
 
 Available on
 
-[](https://store.steampowered.com/app/2534370/Yars_Rising)[](https://www.nintendo.com/us/store/)[](https://store.playstation.com/concept/10010102)[](https://www.xbox.com/games/store/yars-rising/9nm99mvp8qt9)[](https://store.epicgames.com/p/yars-rising-e591ca)[](https://atari.com/pages/atari-vcs)
+[](https://store.steampowered.com/app/2534370/Yars_Rising)[](https://www.nintendo.com/us/store/)[](https://store.playstation.com/concept/10010102)[](https://www.xbox.com/)[](https://store.epicgames.com/p/yars-rising-e591ca)[](https://atari.com/pages/atari-vcs)
 
 #### Yars Rising
 
@@ -674,6 +676,14 @@ Available on
 [](https://store.steampowered.com/app/2243510/qomp_2)[](https://store.playstation.com/concept/10007565)[](https://www.nintendo.com/store/products/qomp2-switch/)[](https://www.xbox.com/games/store/qomp-2/9NSRM6LC5LFN)[](https://store.epicgames.com/p/qomp-2-f3ee6d)[](https://atari.com/pages/atari-vcs)
 
 #### qomp2
+
+![Lunar Lander: Beyond](files/lunarlander-gamebox.webp)
+
+Available on
+
+[](https://store.steampowered.com/app/2376270/Lunar_Lander_Beyond/)[](https://store.playstation.com/concept/10005702)[](https://www.nintendo.com/store/)[](https://www.xbox.com/games/store/lunar-lander-beyond/9NXSBLM4MBP6)[](https://store.epicgames.com/p/lunar-lander-beyond-30b7a0)[](https://atari.com/pages/atari-vcs)
+
+#### Lunar Lander: Beyond
 
 ![RollerCoaster Tycoon Adventures Deluxe](files/rctad-gamebox.webp)
 
@@ -711,19 +721,19 @@ Available on
 
 [View all](https://www.atari.com/blogs/newsroom)
 
-[![Atari Revives Infogrames as a Publishing Label](articles/Infogrames_1920px_1080px.webp)
-
-Announcements 04.23.2024
-
-#### Atari Revives Infogrames as a Publishing Label
-
-Read More](https://www.atari.com/blogs/newsroom/atari-revives-infogrames-as-a-publishing-label)[![Atari Acquires Rollercoaster Tycoon 3](articles/rct3-logo-red-bg-lowrez.webp)
+[![Atari Acquires Rollercoaster Tycoon 3](articles/rct3-logo-red-bg-lowrez.webp)
 
 Acquisitions 04.02.2024
 
 #### Atari Acquires Rollercoaster Tycoon 3
 
-Read More](https://www.atari.com/blogs/newsroom/atari-acquires-rollercoaster-tycoon-3)[![An Icon Returns: The Atari 2600+ is Out Today](articles/atari-2600-plus-featured.webp)
+Read More](https://www.atari.com/blogs/newsroom/atari-acquires-rollercoaster-tycoon-3)[![Atari 50: The Anniversary Celebration Gets a Free Holiday Update](articles/2840x2160-atari50-update_d88e0c66-a7a3-4ba7-b2df-73b7b89d8e9f.webp)
+
+Updates 12.05.2023
+
+#### Atari 50: The Anniversary Celebration Gets a Free Holiday Update
+
+Read More](https://www.atari.com/blogs/newsroom/atari-50-the-anniversary-celebration-gets-a-free-holiday-update)[![An Icon Returns: The Atari 2600+ is Out Today](articles/atari-2600-plus-featured.webp)
 
 New Releases 11.17.2023
 
@@ -751,9 +761,9 @@ Available Worldwide
 
 ##### CX30+ Paddle Controller Bundle
 
-Regular price $35.99
+Regular price $39.99
 
-Regular price $39.99 Sale price $35.99
+Regular price Sale price $39.99
 
 Unit price /  per](https://www.atari.com/products/cx30-paddle-controller-bundle) [![Atari Distressed Logo Tee](products/ATRI103D-AT.png)
 
@@ -763,9 +773,9 @@ USA Exclusive
 
 ##### Atari Distressed Logo Tee
 
-Regular price $25.50
+Regular price $30
 
-Regular price $30 Sale price $25.50
+Regular price Sale price $30.00
 
 Unit price /  per](https://www.atari.com/products/atari-distressed-logo-tee)       [![Atari Katakana Logo Hoodie](products/ATRI189-AFTH.png)
 
@@ -773,13 +783,11 @@ USA Exclusive
 
 ##### Atari Katakana Logo Hoodie
 
-Regular price $40.80
+Regular price $48
 
-Regular price $48 Sale price $40.80
+Regular price Sale price $48.00
 
 Unit price /  per](https://www.atari.com/products/atari-kanji-logo-hoodie) 
-
-##### Anything Else ?
 
 #### Bag (0)
 
@@ -821,9 +829,9 @@ Available Worldwide
 
 ##### CX30+ Paddle Controller Bundle
 
-Regular price $35.99
+Regular price $39.99
 
-Regular price $39.99 Sale price $35.99
+Regular price Sale price $39.99
 
 Unit price /  per](https://www.atari.com/products/cx30-paddle-controller-bundle) 
 
@@ -835,9 +843,9 @@ USA Exclusive
 
 ##### Atari Distressed Logo Tee
 
-Regular price $25.50
+Regular price $30
 
-Regular price $30 Sale price $25.50
+Regular price Sale price $30.00
 
 Unit price /  per](https://www.atari.com/products/atari-distressed-logo-tee)       
 
@@ -847,9 +855,9 @@ USA Exclusive
 
 ##### Atari Katakana Logo Hoodie
 
-Regular price $40.80
+Regular price $48
 
-Regular price $48 Sale price $40.80
+Regular price Sale price $48.00
 
 Unit price /  per](https://www.atari.com/products/atari-kanji-logo-hoodie) 
 
@@ -886,17 +894,7 @@ Newsletters from the future
 
   
 
-* American Express
-* Apple Pay
-* Diners Club
-* Discover
-* Meta Pay
-* Google Pay
-* Mastercard
-* Shop Pay
-* Visa
-
-United Kingdom
+France
 
 * [Afghanistan (USD $)](#)
 * [Åland Islands (USD $)](#)
@@ -1139,15 +1137,5 @@ United Kingdom
 © 2024 Atari, Inc. Atari and the Atari logo are registered trademarks owned by Atari Interactive, Inc. All rights reserved.
 
 [Privacy Policy](https://atari.com/pages/privacy-cookies) [Terms of Use](https://atari.com/pages/terms-conditions)
-
-* American Express
-* Apple Pay
-* Diners Club
-* Discover
-* Meta Pay
-* Google Pay
-* Mastercard
-* Shop Pay
-* Visa
 
 * Choosing a selection results in a full page refresh.
