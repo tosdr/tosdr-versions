@@ -104,9 +104,9 @@
     * [Developer Hub](https://dev.appsflyer.com/)
     * [Learning portal](https://elevate.appsflyer.com/learn/signin)
     
-    [![](/wp-content/uploads/2024/05/image-1-1.png)](https://www.appsflyer.com/resources/reports/creative-optimization)
+    [![](/wp-content/uploads/2024/03/52676.-DMA-hub_header-menu-img.png)](https://www.appsflyer.com/hubs/dma/)
     
-    [New data on AI-driven creative](https://www.appsflyer.com/resources/reports/creative-optimization)
+    [Keep up with the new EU regulation](https://www.appsflyer.com/hubs/dma)
     
 * [Company](# "Company")
     
