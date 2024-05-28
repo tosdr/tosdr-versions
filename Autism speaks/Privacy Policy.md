@@ -12,7 +12,7 @@
 * [Common misconceptions](https://www.autismspeaks.org/autism-speaks-controversy)
 * [Blog](https://www.autismspeaks.org/blog "Autism Speaks Blogs")
 * [Events](https://www.autismspeaks.org/events "Events")
-* [Careers](https://www.autismspeaks.org/autism-speaks-careers "Join our team!")
+* [Careers](https://www.autismspeaks.org/careers "Join our team!")
 * Set Your Location
 
 * [What is autism?](https://www.autismspeaks.org/what-autism "What is autism?")
@@ -62,6 +62,7 @@
     * [Fundraising & events](https://www.autismspeaks.org/fundraising-events "Fundraise for Autism Speaks")
     * [Walk](https://act.autismspeaks.org/site/SPageServer?pagename=walk_homepage&s_src=AutismSpeaks.org&s_subsrc=MainNav "Autism Speaks Walk")
     * [TeamUp](https://act.autismspeaks.org/site/SPageNavigator/teamup_home.html "TeamUp with Autism Speaks")
+    * [World Autism Month](https://www.autismspeaks.org/world-autism-month)
     * [Social fundraising](https://www.autismspeaks.org/social-fundraising "Fundraise or donate on social media")
     
     * [Ways to give](https://www.autismspeaks.org/donate-to-autism-speaks "Ways to give to Autism Speaks")
@@ -133,6 +134,7 @@
     * [Fundraising & events](https://www.autismspeaks.org/fundraising-events "Fundraise for Autism Speaks")
     * [Walk](https://act.autismspeaks.org/site/SPageServer?pagename=walk_homepage&s_src=AutismSpeaks.org&s_subsrc=MainNav "Autism Speaks Walk")
     * [TeamUp](https://act.autismspeaks.org/site/SPageNavigator/teamup_home.html "TeamUp with Autism Speaks")
+    * [World Autism Month](https://www.autismspeaks.org/world-autism-month)
     * [Social fundraising](https://www.autismspeaks.org/social-fundraising "Fundraise or donate on social media")
     
     * [Ways to give](https://www.autismspeaks.org/donate-to-autism-speaks "Ways to give to Autism Speaks")
@@ -159,7 +161,7 @@
 * [Common misconceptions](https://www.autismspeaks.org/autism-speaks-controversy)
 * [Blog](https://www.autismspeaks.org/blog)
 * [Events](https://www.autismspeaks.org/events)
-* [Careers](https://www.autismspeaks.org/autism-speaks-careers)
+* [Careers](https://www.autismspeaks.org/careers)
 * [My Autism Guide](https://guide.autismspeaks.org/?utm_source=autismspeaks.org&utm_medium=text-link&utm_campaign=global-nav&utm_term=myautismguide)
 * [Walk](https://act.autismspeaks.org/site/SPageServer?pagename=walk_homepage&s_src=GlobalNav&s_subsrc=AutismSpeaks.org&utm_source=autismspeaks.org&utm_medium=text-link&utm_campaign=global-nav&utm_term=walk)
 * [Donate](https://autismspeaks.donorsupport.co/-/XHGEUVBH)
@@ -286,17 +288,16 @@ To contact us in accordance with Section 7 of this policy, or if you have any fu
 
 _**This policy was updated: February 2024**_
 
-* [What Is autism?](https://www.autismspeaks.org/what-autism "What is autism?")
 * [Help & information](https://www.autismspeaks.org/autism-help-and-information)
 * [Our work](https://www.autismspeaks.org/our-work "Our work")
 * [Get involved](https://www.autismspeaks.org/get-involved)
 * [Community stories](https://www.autismspeaks.org/profile)
 
-* [About us](https://www.autismspeaks.org/about-autism-speaks "About Autism Speaks")
+* [About as](https://www.autismspeaks.org/about-autism-speaks "About Autism Speaks")
 * [Offices](https://www.autismspeaks.org/autism-speaks-locations "Office locations")
-* [Careers](https://www.autismspeaks.org/autism-speaks-careers "Work for Autism Speaks")
+* [Careers](https://www.autismspeaks.org/careers "Work for Autism Speaks")
 * [News](https://www.autismspeaks.org/news "News & Events")
-* [Shop](https://shop.autismspeaks.org/)
+* [Shop](https://shop.autismspeaks.org/?utm_source=shop.autismspeaks.org&utm_medium=partner&utm_campaign=autism%20speaks%20website&utm_term=&utm_content=footer%20banner)
 
 * [Corporate partners](https://www.autismspeaks.org/corporate-partner)
 * [State fundraising notices](https://www.autismspeaks.org/attorney-general-mandated-state-disclosure "Attorney General mandated state disclosures")
@@ -325,8 +326,7 @@ Follow Us
 * [Privacy policy](https://www.autismspeaks.org/privacy-policy "Autism Speaks privacy policy")
 * [Terms of service](https://www.autismspeaks.org/terms-service "Autism Speaks terms of service")
 * [RSS](https://www.autismspeaks.org/rss.xml "Subscribe to RSS Feed")
-* [Careers](https://www.autismspeaks.org/autism-speaks-careers "Careers at Autism Speaks")
-* [Grants](https://www.autismspeaks.org/autism-speaks-grants "Autism Speaks Grants")
+* [Grants](https://www.autismspeaks.org/grants-0 "Autism Speaks Grants")
 
 © 2024 Autism Speaks Inc. 501(c)(3) organization, EIN: 20-2329938.
 
