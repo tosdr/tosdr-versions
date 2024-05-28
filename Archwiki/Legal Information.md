@@ -98,8 +98,6 @@ Retrieved from "[https://wiki.archlinux.org/index.php?title=ArchWiki:General\_di
 * [Privacy policy](https://terms.archlinux.org/docs/privacy-policy/)
 * [About ArchWiki](https://wiki.archlinux.org/title/ArchWiki:About)
 * [Disclaimers](https://wiki.archlinux.org/title/ArchWiki:General_disclaimer)
-* [Code of conduct](https://terms.archlinux.org/docs/code-of-conduct/ "archlinux-service-agreements:code-of-conduct")
-* [Terms of service](https://terms.archlinux.org/docs/terms-of-service/ "archlinux-service-agreements:terms-of-service")
 
 * [![GNU Free Documentation License 1.3 or later](/resources/assets/licenses/gnu-fdl.png)](https://www.gnu.org/copyleft/fdl.html)
 * ![](/resources/assets/poweredby_mediawiki_88x31.png)
