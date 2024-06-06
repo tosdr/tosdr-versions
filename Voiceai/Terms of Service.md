@@ -1,0 +1,63 @@
+[](https://voice.ai/)
+
+[AI Voice Changer](https://voice.ai/ai-voice-changer) [Soundboard](https://voice.ai/soundboard) [Supported Apps](https://voice.ai/apps) [Platforms](https://voice.ai/platforms) [Support](https://support.voice.ai/hc/en-us) [Online Tools](https://voice.ai/tools/)
+
+Pro
+
+Online Tools Voice Universe Account Logout
+
+[](https://voice.ai/)The Most Powerful AI Voice Changer Get Started for Free AI Voice Changer Soundboard Apps Platforms Soundboard Support Online Tools Voice Universe Account Log out Sign up
+
+Already user? [Login now](https://voice.ai/login)
+
+Terms of Service
+================
+
+The Voice Universe Beta Testing Terms are made by and between the entity accepting these Testing Terms ("you") and Voice.ai unless otherwise indicated below (as applicable, "we" or "us"), and are effective as of the date you first accept them (whether via an online click-through agreement, signed agreement or by using the Voice Universe Beta Product) (the "Effective Date").
+
+1. **General Terms.** Voice Universe allows you to create a voice clone and upload it to our platform. Any voice you upload may be publicly available. We may test Voice.ai products and make them available to you under these Beta Testing Terms (each, the "Beta Product"). These products are not for commercial use. For purposes of these Terms, Voice.ai Products may also include software, features, services, APIs, and other products created for businesses (as we make them available under these Beta Testing Terms, each, a “Voice.ai Product” and, also the Beta Product). You agree these Beta Testing Terms are separate and independent agreements for each such Beta Product.
+  
+3. **Beta Testers.** The Beta Product is in a testing phase and may contain errors. You agree the Beta Product is provided "AS IS" and also "AS AVAILABLE." We reserve the right to modify or terminate the software or your access to the Software or the participation in our Beta Testers Program for any reason, without notice, at any time, and without liability to you. Under these Beta Testing Terms, you agree to use reasonable efforts to provide suggestions or comments and report any bugs or issues related to your use of the Beta Product in a timely basis or as otherwise agreed between the parties in writing via email or contact form. You agree not to disclose feedback to any third party and hereby assign to us all right, title and interest in and to any feedback, without any right to compensation or other obligation from us.
+  
+5. **Use Restrictions.** You acknowledge and agree you may not abuse the Voice.ai platform, including creating more than one account in order to obtain free credits, promotions of any kind or to do additional training. If we suspect any such misuse, we may terminate your account without notice. We reserve the right to remove any voice from the Beta Product for any reason including if we are uncertain about their intentions, conduct or feel they are in breach of our Terms. You may only upload audio to our platform with authorization from the person whose voice was used. Voices may only be uploaded to our platform for the purpose of parody or satire. You are responsible for all files you upload to and generate on the platform, and for the consequences of publishing those files elsewhere. If you are unsure about whether you can publish content featuring a cloned voice, we advise that you consider your domestic law’s stance on copyright before publishing any such content. The products under these Beta Testing Terms are not available to rent, lease, distribute, or resell the Beta Product(s), or use the Beta Product(s) as the basis for or in conjunction with developing a competitive solution (or contract with a third party to do so), or remove or alter any of the logos, trademark, patent or copyright notices, confidentiality or proprietary legends or other notices or markings that are on or in the Beta Product(s). Premium versions of Voice.ai may allow users to unlock one or more voices daily, free. This offer will expire each day and unused days will not accrue additional unlocks.
+  
+7. **Branding.** In accordance with the Brand Use Guidelines, you agree to provide proper credit to Voice.ai for any use of its products.
+  
+9. **Warranty Disclaimer & Performance Liability.** With regard to the Voice Universe, all voices are user-generated and we are not liable for any such voices uploaded to our platform. The Beta Product and any related Software are test products and may contain prerelease code. They do not have any guaranteed level of performance, accuracy or compatibility. Software may not operate correctly and may be substantially modified prior to public availability or withdrawn at any time. Accordingly, access to and use of the Beta Product(s) is entirely at your own risk. In no event shall we be responsible for any loss or direct, indirect, special, incidental or consequential damage whatsoever arising out of the use of or inability to use the Beta Product(s), or in any other way caused by Software, either to Beta Testers or third parties, or their property even if we have been advised of the possibility of such damages. You are advised to safeguard important data, to use caution and not to rely in any way on the correct functioning or performance of any Beta Product.  
+    You agree to waive any and all claims against us arising out of the performance or nonperformance of a Beta Product or Software and acknowledge and agree such products and Software are provided AS IS and we disclaim any and all representations or warranties of any kind, whether expressed or implied, with respect to it, including any implied warranties of merchant ability or fitness for a particular purpose. The entire risk arising out of the use or performance of Software remains with you.
+  
+11. **Indemnification.** You agree to indemnify, defend and hold harmless Voice.ai and any parent, subsidiaries, affiliates, partners, officers, directors, agents, contractors, licensors, service providers, subcontractors, suppliers, interns and employees, from any claim or demand, including reasonable attorneys’ fees, made by any third-party due to or arising out of your breach of these Terms of Service or arising from the creation or use of documents and/or files created using any Voice.ai software including, but not limited to, any statements or images included in your content, the posting of any content created using Voice.ai software on any platform or distributed electronically to any party, and/or your violation of any law or the rights of a third-party.
+  
+13. **Injunctive Relief.** You agree that irreparable harm would occur in the event that any of the provisions of this Agreement are not performed in accordance with their specific terms or were otherwise breached for which money damages would not be an adequate remedy at law. It is accordingly agreed that the we shall be entitled to an injunction or injunctions and other equitable relief to prevent breaches of this Agreement, any requirement for the securing or posting of any bond in connection with the obtaining of any such injunctive or other equitable relief hereby being waived.
+  
+15. **Proprietary Rights.** We retain all right, title and ownership to the Beta product. You agree the Beta Product is for personal use only. You may not sell, transfer, assign, pledge or in any way encumber or convey the Beta product or any portion or component thereof to any third party or use it in any manner to produce, market or support your own products. You shall not copy, sell or market Beta product to any third party; or modify, reuse, disassemble, decompile, reverse engineer or otherwise translate the beta product or any portion thereof.
+  
+17. **Digital Rights Protection.** We recognize the importance of protecting the Digital Rights and the Intellectual Property of a voice owner and will make our best effort to support such rights in accordance with the law.
+  
+19. **Confidentiality.** "Confidential Information" means all non-public information including any information disclosed by us to you, or accessed or provided by you, relating to the Beta Product, including your use, feedback, and the Beta Product Terms (defined below). You agree not to use any Confidential Information except as needed to use or test the Beta Product hereunder; to maintain Confidential Information with the reasonable level of care you use to protect your own and you will not disclose any such information to any person or entity aside from those who require access under these Beta Testing Terms and who are bound by written confidentiality obligations similar to those under these Beta Testing Terms; provided, however, that you will remain responsible for each such person's or entity's compliance with and breach of the confidentiality terms herein. This confidentiality provision supersedes any prior agreements between the parties solely with respect to Confidential Information hereunder.
+  
+21. **Beta Product Terms.** Specific terms and policies related to the Product may apply to your use of the Beta Product (the "Product Terms"). These Terms, in this case, will be made available to you and will also apply to your use of the Beta Product. Once these Product Terms are available, the online version of such Product Terms will supersede any prior versions provided to you. By continuing to access, test, or use the Beta Product after any modification to the applicable Product Terms, you agree to be bound by them.
+  
+23. **Platform.** The following applies to your use of any Beta Product that is part of the Voice.ai Platform. You agree that you: (a) will comply with such Terms and Policies and any documentation made available to you relating to the Beta Product.
+  
+25. **Term.** For each Beta Product, the term of these Beta Testing Terms will begin on the Effective Date and, unless terminated earlier in accordance with the Applicable Terms, will continue until the earlier of (i) the date specified by us in our sole discretion (after which you will cease use of such Beta Product), (ii) the date we (in our sole discretion) make such Beta Product generally publicly available (after which any permitted use is subject to our Online Terms and not these Testing Terms), or (iii) the date we discontinue such Beta Product. These Testing Terms, as applied to each Beta Product, may be terminated by either party: (a) with cause immediately upon written notice to the other party; or (b) without cause upon thirty (30) days' prior written notice to the other party. Sections 2, 3, 10, and 11 of these Testing Terms, and the provisions of the Online Terms, will survive any termination or expiration of these Testing Terms.
+  
+27. **Governing Law.** These terms are governed and construed by the laws and venue of The Commonwealth of Puerto Rico without regard to choice of law rules. You irrevocably submit to the exclusive jurisdiction of the courts therein.
+  
+29. **Miscellaneous.** Any participation by you as a Beta Tester does not create a partnership, agency relationship, or joint venture between the parties. You agree that your use of the Beta Product is subject to all of our other applicable online terms and policies. These Beta Testing Terms are supplemental terms under our Terms and other policies. In the case these Beta Testing Terms conflict with other Terms, these Beta Testing Terms will govern your use of the Beta Product to the extent of any conflict. We retain exclusive ownership of the Beta Product. Notwithstanding the foregoing, any Terms available online continue to apply to your use of any Voice.ai Products other than the Beta Product. We reserve the right to modify these Beta Testing Terms any time, and by continuing to access, test, or use the Beta Product after any modification to these Beta Testing Terms, you agree to be bound by them.
+
+ [](https://voice.ai/)fab fa-discord fab fa-linkedin fab fa-youtube Get Started for Free
+
+#### About
+
+Career Who We Are Voice Cloning Voice Universe Ethics Branding Guidelines Supported Apps Support
+
+#### Info
+
+Affiliate Partner Resource Hub FAQ Is it safe? Terms of Service Privacy Policy Refund Policy DMCA#### [Online Audio Tools](https://voice.ai/tools/)
+
+Online Voice Changer Online Vocal Remover Online Echo Remover AI Stem Splitter Song & Key BPM Finder Online Reverb Remover Online Audio Converter © 2024 Voice AI. All rights reserved.#### Not available on {{ unsupportedSystemName }}
+
+[Try on Web](https://voice.ai/tools#register) or Download installer anyway.
+
+ ![voice.ai](/img/static/logo-new.svg)
