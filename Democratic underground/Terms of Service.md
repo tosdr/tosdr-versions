@@ -54,8 +54,6 @@ Search](https://www.democraticunderground.com/?com=search)
 
 [Home](https://www.democraticunderground.com/index.php)»[Terms of Service](https://www.democraticunderground.com/?com=termsofservice)
 
-[This Monday-Friday: Kick in to the DU tip jar!](https://www.democraticunderground.com/?com=tipjar)
-
 Welcome to DU! The truly grassroots left-of-center political community where regular people, not algorithms, drive the discussions and set the standards. Join the community: [Create a free account](https://www.democraticunderground.com/?com=login&create=1) Support DU (and get rid of ads!): [Become a Star Member](https://www.democraticunderground.com/star) [Latest Breaking News](https://www.democraticunderground.com/?com=forum&id=1014) [General Discussion](https://www.democraticunderground.com/?com=forum&id=1002) [The DU Lounge](https://www.democraticunderground.com/?com=forum&id=1018) [All Forums](https://www.democraticunderground.com/?com=forums) [Issue Forums](https://www.democraticunderground.com/?com=forum&id=1311) [Culture Forums](https://www.democraticunderground.com/?com=forum&id=1312) [Alliance Forums](https://www.democraticunderground.com/?com=forum&id=1313) [Region Forums](https://www.democraticunderground.com/?com=forum&id=1314) [Support Forums](https://www.democraticunderground.com/?com=forum&id=1315) [Help & Search](https://www.democraticunderground.com/?com=search)
 
 Terms of Service
@@ -190,5 +188,3 @@ Members may opt to make use of an avatar or signature line that is appended to a
 [In Memoriam](https://www.democraticunderground.com/?com=inmemoriam)  
   
 © 2001 - 2024 Democratic Underground, LLC. Thank you for visiting.
-
-![Quantcast](//pixel.quantserve.com/pixel/p-31iz6hfFutd16.gif?labels=Domain.democraticunderground_com,DomainId.201914)
