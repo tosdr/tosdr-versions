@@ -15,4 +15,4 @@
 
 For questions or comments concerning this web page please contact [info@cocorahs.org](mailto:info@cocorahs.org).  
 Unless otherwise noted, all content on the CoCoRaHS website is released under a [Creative Commons Attribution 3.0 License](http://creativecommons.org/licenses/by/3.0/).  
-[Privacy Policy](https://www.cocorahs.org/Content.aspx?page=privacypolicy)  [Data Usage Policy](https://www.cocorahs.org/Content.aspx?page=datausagepolicy) _Copyright © 1998-2023, Colorado Climate Center, All rights reserved._
+[Privacy Policy](https://www.cocorahs.org/Content.aspx?page=privacypolicy)  [Data Usage Policy](https://www.cocorahs.org/Content.aspx?page=datausagepolicy) _Copyright © 1998-2024, Colorado Climate Center, All rights reserved._
