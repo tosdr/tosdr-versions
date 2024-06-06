@@ -1,0 +1,1 @@
+[![](images/lgd%20studio_def.png?crc=415806701)](http://lgdstudio.com/index.html)
