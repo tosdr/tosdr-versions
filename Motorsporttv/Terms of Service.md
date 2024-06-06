@@ -1,0 +1,156 @@
+[Motorsport.tv](https://motorsport.tv/)
+
+![motorsport-tv-icon-header-search](/client/2c908237.svg)
+
+![motorsport-tv-icon-app-menu-o](/client/552389ba.svg)
+
+[Log In](https://motorsport.tv/login)[Join](https://motorsport.tv/join)
+
+[Home](https://motorsport.tv/)[Live](https://motorsport.tv/livestream)[Channels](https://motorsport.tv/channel)[Programs](https://motorsport.tv/program)[Racing series](https://motorsport.tv/racing)
+
+FOLLOWING
+
+[My feed](https://motorsport.tv/newsfeed)
+
+ABOUT MOTORSPORT.TV
+
+[Сontact us](https://motorsport.tv/contact)[About](https://motorsport.tv/about-us)[Subscribe](https://motorsport.tv/join)[Motorsport.tv Apps](https://motorsport.tv/download-app)
+
+[![motorsport-tv-icon-facebook](/client/970b88e3.svg)](https://www.facebook.com/Motorsport.tvUK)
+
+[![motorsport-tv-icon-instagram](/client/4c4428f0.svg)](https://www.instagram.com/motorsporttv)
+
+[![motorsport-tv-icon-threads](/client/538afc86.svg)](https://www.threads.net/@motorsporttv)
+
+[![motorsport-tv-icon-x](/client/59c37528.svg)](https://twitter.com/MotorsportTV_UK)
+
+[![motorsport-tv-icon-tiktok](/client/07dc5411.svg)](https://www.tiktok.com/@motorsport.tv_official)
+
+[![motorsport-tv-icon-youtube](/client/a9633c3b.svg)](https://www.youtube.com/c/MotorsporttvGlobal)
+
+MOTORSPORT NETWORK
+
+[Motorsport.com](https://motorsport.com/)[Autosport.com](https://www.autosport.com/)[Motor1.com](https://www.motor1.com/)[Motorsportjobs.com](https://motorsportjobs.com/)[Motorsportstats.com](https://www.motorsportstats.com/)
+
+[Terms & Conditions](https://motorsport.tv/terms-of-use)[Privacy Policy](https://motorsport.tv/privacy-policy)
+
+© 2024
+
+Motorsport.tv Digital, LLC.
+
+All rights reserved.
+
+[MOTORSPORT NETWORK](https://www.motorsportnetwork.com/#about-us)
+
+More
+
+terms of service - motorsport.tv
+--------------------------------
+
+Effective July 1st, 2018
+
+### 1\. Your Acceptance
+
+By using and/or visiting this website, including all content, including over-the-top content, products, software and services offered by Motorsport.tv Digital, LLC (“Motorsport.tv,” “us” or “we”) via the motorsport.tv website (www.motorsport.tv) and related applications (hereinafter collectively referred to as the "Motorsport.tv Platform"), you signify your agreement to these terms and conditions (the "Terms of Service"). Motorsport.tv may, in its sole discretion, modify or revise these Terms of Service at any time, and you agree to be bound by such modifications or revisions. Nothing in this Agreement shall be deemed to confer any third-party rights or benefits.
+
+### 2\. Motorsport.tv Platform
+
+1. These Terms of Service govern your use of the Motorsport.tv Platform. By using, visiting, or browsing the Motorsport.tv Platform you accept and agree to these Terms of Service. If you do not agree to these Terms of Service, do not use the Motorsport.tv Platform.
+2. The Motorsport.tv Platform may contain links to third party websites that are not owned or controlled by us. We have no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party websites. In addition, Motorsport.tv will not and cannot censor or edit the content of any third-party site. By using the Motorsport.tv Platform, you expressly release Motorsport.tv from any and all liability arising from your use of any third-party website.
+
+### 3\. Motorsport.tv Accounts
+
+1. In order to access some features of the Motorsport.tv Platform, you will have to create a Motorsport.tv member account. When creating your account, you must provide accurate and complete information. You are solely responsible for the activity that occurs on your account, and you must keep your account password secure. You must notify Motorsport.tv immediately of any breach of security or unauthorized use of your account.
+2. Although Motorsport.tv will not be liable for your losses caused by any unauthorized use of your account; you may be liable for the losses of Motorsport.tv or others due to such unauthorized use.
+
+### 4\. Use of the Motorsport.tv Platform - Permissions and Restrictions
+
+Motorsport.tv hereby grants you permission to access and use the Motorsport.tv Platform as set forth in these Terms of Service, provided that:
+
+1. You agree not to distribute in any medium any part of the Motorsport.tv Platform without Motorsport.tv’s prior written authorization.
+2. You agree not to alter or modify any part of the Motorsport.tv Platform, including but not limited to the technologies it utilizes.
+3. You agree not to use the Motorsport.tv Platform, including the Motorsport.tv's video player for any commercial use, without the prior written authorization of Motorsport.tv. Prohibited commercial uses include any of the following actions taken without Motorsport.tv's express approval:
+    * sale of access to the Motorsport.tv Platform or its related services on another website;
+    * use of the Motorsport.tv Platform or its related services for the primary purpose of gaining advertising or subscription revenue;
+    * any use of the Motorsport.tv Platform or its related services that Motorsport.tv finds, in its sole discretion, to use Motorsport.tv's resources with the effect of competing with or displacing the market for Motorsport.tv or Motorsport.tv content.
+4. In your use of the Motorsport.tv Platform, you will otherwise comply with the terms and conditions of these Terms of Service, and all applicable local, national, and international laws and regulations.
+5. Motorsport.tv reserves the right to discontinue any aspect of the Motorsport.tv Platform at any time.
+
+### 5\. Your Use of Content on the Site
+
+In addition to the general restrictions above, the following restrictions and conditions apply specifically to your use of content on the Motorsport.tv Platform:
+
+1. The content on the Motorsport.tv Platform, including without limitation, the text, software, scripts, graphics, photos, sounds, music, videos, interactive features and the like ("Content") and the trademarks, service marks and logos contained therein ("Marks"), are owned by or licensed to Motorsport.tv, subject to copyright and other intellectual property rights under the law. Content on the Motorsport.tv Platform is provided to you AS IS for your information and personal use only and may not be downloaded, copied, reproduced, distributed, transmitted, broadcast, displayed, sold, licensed, or otherwise exploited for any other purposes whatsoever without the prior written consent of the respective owners. Motorsport.tv reserves all rights not expressly granted in and to the Motorsport.tv Platform and its contents.
+2. user comments are made available to you for your information and personal use solely as intended through the normal functionality of the Motorsport.tv Platform. user comments are made available "as is", and may not be used, copied, reproduced, distributed, transmitted, broadcast, displayed, sold, licensed, downloaded, or otherwise exploited in any manner not intended by the normal functionality of the Motorsport.tv Platform or otherwise as prohibited under this Agreement.
+3. You may access Motorsport.tv content only as permitted under this agreement. Motorsport.tv reserves all rights not expressly granted in and to the Motorsport.tv content and the Motorsport.tv Platform.
+4. You agree to not engage in the use, copying, or distribution of any of the content other than as expressly permitted herein, including any use, copying, or distribution of user submissions of third parties obtained through the Motorsport.tv Platform for any commercial purposes.
+5. You understand that when using the Motorsport.tv Platform, you may be exposed to user submissions from a variety of sources, and that Motorsport.tv is not responsible for the accuracy, functionality, safety, or intellectual property rights of or relating to such user submissions. You further understand and acknowledge that you may be exposed to user submissions that are inaccurate, offensive, indecent, or objectionable, and you agree to waive, and hereby do waive, any legal or equitable rights or remedies you have or may have against Motorsport.tv with respect thereto, and agree to indemnify and hold Motorsport.tv, its owners/operators, affiliates, and/or licensors, harmless to the fullest extent allowed by law regarding all matters related to your use of the Motorsport.tv Platform.
+
+### 6\. Motorsport.tv Service
+
+1. You must be 18 years of age, or the age of majority in your province, territory or country, to become a member of the Motorsport.tv service. Individuals under the age of 18, or applicable age of majority, may utilize the service only with the involvement of a parent or legal guardian, under such person's account and otherwise subject to these Terms of Service.
+2. The Motorsport.tv Platform and any content viewed through our service are for your personal and non-commercial use only. During your Motorsport.tv membership, we grant you a limited, non-exclusive, non-transferable, license to access the Motorsport.tv service and view Motorsport.tv content through the service. Except for the foregoing limited license, no right, title or interest shall be transferred to you. You agree not to use the service for public performances.
+3. You may view Motorsport.tv content through the Motorsport.tv service primarily within the country in which you have established your account and only in geographic locations where we offer our service and have licensed such Motorsport.tv content. The content that may be available to watch will vary by geographic location. Motorsport.tv will use technologies to verify your geographic location. THE NUMBER OF DEVICES ON WHICH YOU MAY SIMULTANEOUSLY WATCH IS LIMITED. The number of devices available for use and the simultaneous streams may change from time to time at our discretion.
+4. We continually update the Motorsport.tv content, including the content library. In addition, we continually test various aspects of our service, including our website, user interfaces, service levels, plans, promotional features, availability of Motorsport.tv content, delivery and pricing. We reserve the right to, and by using our service you agree that we may, include you in or exclude you from these tests without notice. We reserve the right in our sole and absolute discretion to make changes from time to time and without notice in how we offer and operate our service.
+5. You agree to use the Motorsport.tv service, including all features and functionalities associated therewith, in accordance with all applicable laws, rules and regulations, or other restrictions on use of the service or content therein. Except as explicitly authorized in these Terms of Service, you agree not to archive, download (other than through caching necessary for personal use), reproduce, distribute, modify, display, perform, publish, license, create derivative works from, offer for sale, or use content and information contained on or obtained from or through the Motorsport.tv service without express written permission from Motorsport.tv and its licensors. You also agree not to: circumvent, remove, alter, deactivate, degrade or thwart any of the content protections in the Motorsport.tv service; use any robot, spider, scraper or other automated means to access the Motorsport.tv service; decompile, reverse engineer or disassemble any software or other products or processes accessible through the Motorsport.tv service; insert any code or product or manipulate the content of the Motorsport.tv service in any way; or, use any data mining, data gathering or extraction method. In addition, you agree not to upload, post, e-mail or otherwise send or transmit any material designed to interrupt, destroy or limit the functionality of any computer software or hardware or telecommunications equipment associated with the Motorsport.tv service, including any software viruses or any other computer code, files or programs.
+6. The availability of Motorsport.tv content to watch will change from time to time, and from country to country. The quality of the display of the Motorsport.tv content may vary from device to device, and may be affected by a variety of factors, such as your location, the bandwidth available through and/or speed of your Internet connection. You are responsible for all Internet access charges. Please check with your Internet provider for information on possible Internet data usage charges. Motorsport.tv makes no representations or warranties about the quality of your watching experience on your display. The time it takes to begin watching Motorsport.tv content will vary based on a number of factors, including your location, available bandwidth at the time, the Motorsport.tv content you have selected and the configuration of your Motorsport.tv ready device.
+7. Motorsport.tv software is developed by, or for, Motorsport.tv and is designed to enable streaming and viewing of content from Motorsport.tv through Motorsport.tv ready devices. This software may vary by device and medium, and functionalities may also differ between devices. By using our service, you agree to look solely to the entity that manufactured and/or sold you the device for any issues related to the device and its compatibility with the Motorsport.tv service. If your Motorsport.tv ready device is sold, lost or stolen, please deactivate the Motorsport.tv ready device. If you fail to log out or deactivate your device, subsequent users may access the Motorsport.tv service through your account and may be able to access certain of your account information.
+8. We may terminate or restrict your use of our service, without compensation or notice if you are, or if we suspect that you are (i) in violation of any of these Terms of Service or (ii) engaged in illegal or improper use of the service.
+
+### 7\. Account Termination Policy
+
+Motorsport.tv may terminate a user's access to the Motorsport.tv Platform without prior notice if Motorsport.tv determines that the user has acted in contravention of these Terms of Service.
+
+### 8\. Payments, Billing; Subscriptions
+
+1. Subscriptions and other services requiring payment generally require use of a valid credit card. Motorsport.tv and its business partners reserve the right, in their sole discretion, to establish other acceptable alternative payment methods for specific services or products. You are solely responsible for charges owed for all goods and services purchased through this site, including, but not limited to, applicable taxes, shipping charges, insurance, and any other costs.
+2. While Motorsport.tv may offer Content from time to time for free, Motorsport.tv charges a fee to access the Motorsport.tv services that require a subscription in order to offer Content that Motorsport.tv would not otherwise be able to make available without charging a fee.
+3. You can find the specific details regarding your subscription at any time by logging in on the Motorsport.tv Platform and clicking on Account under your name. You agree that your subscription is for individual use only and your subscription is limited to only one simultaneous stream at a time.
+4. Because the Service is offered in multiple time zones, for consistency, a “day” for purposes of these TOS begins at 12:00 a.m. Eastern Time and ends at 11:59 p.m. Eastern Time of that same calendar day.
+5. Billing. By providing a credit card or other payment method accepted by Motorsport.tv (“Payment Method”) for your subscription, you are expressly agreeing that Motorsport.tv is authorized to charge you a subscription fee, any other fees for additional services you may purchase, and any applicable taxes in connection with your use of your subscription to the Payment Method. If you want to use a different Payment Method than the one you signed up to use during registration, or if there is a change in your credit card validity or expiration date, you may edit your Payment Method information by logging in on the Motorsport.tv Platform and clicking on Account under your name. When you provide a Payment Method to access a subscription, including in connection with a free trial offer (if applicable), our system will attempt to verify the information you entered. Motorsport.tv does this by processing an authorization hold, which is a standard practice. Motorsport.tv does not charge you in connection with this authorization hold. If your Payment Method expires and you do not edit your Payment Method information or cancel your account, you authorize Motorsport.tv to continue billing, and you will remain responsible for any uncollected amounts.
+6. As used in these TOS “billing” shall indicate either a charge or debit, as applicable, against your Payment Method. The subscription fee will be billed at the beginning of your subscription or expiration of your free trial period, if any, whichever is earlier, and on each renewal date thereafter (monthly or annually as applicable) unless and until you cancel your subscription or the account or service is otherwise suspended or discontinued pursuant to these TOS. To see the commencement date for your next renewal period, log in on the applicable Motorsport.tv Platform and click on Account under your name.
+7. Motorsport.tv automatically bills your Payment Method each month or year (depending on the subscription) on the calendar day corresponding to the commencement of your subscription. As in the case with monthly subscriptions, in the event your subscription began on a day not contained in a given month, we bill your Payment Method on the last day of such month. For example, if you became a paying subscriber on January 31, your Payment Method would next be billed on February 28. If you change your Payment Method, this could result in changing the calendar day upon which you are billed. You acknowledge that the amount billed each monthly or annual period may vary due to promotional offers, changes in your subscription, and changes in applicable taxes, and you authorize Motorsport.tv to charge your Payment Method for the corresponding amounts. If Motorsport.tv changes the subscription fee or other charges for your subscription, Motorsport.tv will give you advance notice of these changes by email. However, Motorsport.tv will not be able to notify you of changes in any applicable taxes.
+8. Very rarely, if there are special circumstances where Motorsport.tv determines it is appropriate (e.g., your subscription service is unavailable for days due to technical difficulties), Motorsport.tv may provide credits to affected subscribers. The amount and form of such credits, and the decision to provide them, are at Motorsport.tv’s sole and absolute discretion, and the provision of credits in one instance does not entitle anyone to credits in the future under similar or different circumstances.
+9. Ongoing Subscription and Cancellation. Your subscription will continue in effect on a month-to-month or annual basis (depending on subscription selected) unless and until you cancel your subscription or the account or Service is otherwise suspended or discontinued pursuant to these TOS. You must cancel your subscription at least twenty-four hours before your monthly or annual renewal date in order to avoid the next billing period. Motorsport.tv will bill the monthly or annual subscription fee plus any applicable taxes to the Payment Method you provide to Motorsport.tv during registration (or to a different Payment Method if you change your account information). If you cancel your subscription, cancellation will be effective at the end of the current monthly period or annual period – this means that you will have continued access to your subscription for the remainder of that period, but you will not receive a refund. You can cancel your subscription by logging into your Account either on a Motorsport.tv Platform or the third party website hosting your Account and subscription (as applicable, e.g., iTunes, Google Play, etc.) and clicking “Cancel Subscription” or any other similarly identifiable selection to effectively cancel the subscription.
+10. Unpaid Amounts. It is important that each subscriber honor the payment obligations to which the subscriber agreed. Accordingly, Motorsport.tv reserves the right to pursue any amounts you fail to pay in connection with your subscription. You will remain liable for all such amounts and all costs incurred in connection with the collection of these amounts, including, without limitation, bank overdraft fees, collection agency fees, reasonable attorneys’ fees, and arbitration or court costs.
+
+### 9\. Digital Millennium Copyright Act
+
+1. If you are a copyright owner or an agent thereof and believe that any user Submission or other content infringes upon your copyrights, you may submit a notification pursuant to the Digital Millennium Copyright Act ("DMCA") by providing Motorsport.tv's copyright department with the following information in writing:
+    * A physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed;
+    * Identification of the copyrighted work claimed to have been infringed, or, if multiple copyrighted works at a single online site are covered by a single notification, a representative list of such works at that site;
+    * Identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled and information reasonably sufficient to permit the service provider to locate the material;
+    * Information reasonably sufficient to permit the service provider to contact you, such as an address, telephone number, and, if available, an electronic mail;
+    * A statement that you have a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law; and
+    * A statement that the information in the notification is accurate, and under penalty of perjury, that you are authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
+    * Notifications of claimed infringement should be emailed to copyright@motorsport.com. You acknowledge that if you fail to comply with all of the requirements of this Section 8(A), your DMCA notice may not be valid.
+2. Counter-Notice. If you believe that your user Submission that was removed (or to which access was disabled) is not infringing, or that you have the authorization from the copyright owner, the copyright owner's agent, or pursuant to the law, to post and use the content in your user Submission, you may send a counter-notice containing the following information to the Copyright Agent:
+    * Your physical or electronic signature;
+    * Identification of the content that has been removed or to which access has been disabled and the location at which the content appeared before it was removed or disabled;
+    * A statement that you have a good faith belief that the content was removed or disabled as a result of mistake or a misidentification of the content; and
+    * Your name, address, telephone number, and e-mail address, a statement that you consent to the jurisdiction of the federal court in Miami, Florida, and a statement that you will accept service of process from the person who provided notification of the alleged infringement.
+    * If a counter-notice is received by Motorsport.tv copyright department, Motorsport.tv may send a copy of the counter-notice to the original complaining party informing that person that it may replace the removed content or cease disabling it in 10 business days. Unless the copyright owner files an action seeking a court order against the content provider, member or user, the removed content may be replaced, or access to it restored, in 10 to 14 business days or more after receipt of the counter-notice, at Motorsport.tv's sole discretion.
+
+### 10\. Warranty Disclaimer
+
+YOU AGREE THAT YOUR USE OF THE MOTORSPORT.TV PLATFORM SHALL BE AT YOUR SOLE RISK. TO THE FULLEST EXTENT PERMITTED BY LAW, MOTORSPORT.TV, ITS OFFICERS, DIRECTORS, EMPLOYEES, AND AGENTS DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, IN CONNECTION WITH THE MOTORSPORT.TV PLATFORM AND YOUR USE THEREOF. MOTORSPORT.TV MAKES NO WARRANTIES OR REPRESENTATIONS ABOUT THE ACCURACY OR COMPLETENESS OF THIS SITE'S CONTENT OR THE CONTENT OF ANY SITES LINKED TO THIS SITE AND ASSUMES NO LIABILITY OR RESPONSIBILITY FOR ANY (I) ERRORS, MISTAKES, OR INACCURACIES OF CONTENT, (II) PERSONAL INJURY OR PROPERTY DAMAGE, OF ANY NATURE WHATSOEVER, RESULTING FROM YOUR ACCESS TO AND USE OF THE MOTORSPORT.TV PLATFORM, (III) ANY UNAUTHORIZED ACCESS TO OR USE OF OUR SECURE SERVERS AND/OR ANY AND ALL PERSONAL INFORMATION AND/OR FINANCIAL INFORMATION STORED THEREIN, (IV) ANY INTERRUPTION OR CESSATION OF TRANSMISSION TO OR FROM THE MOTORSPORT.TV PLATFORM, (IV) ANY BUGS, VIRUSES, TROJAN HORSES, OR THE LIKE WHICH MAY BE TRANSMITTED TO OR THROUGH THE MOTORSPORT.TV PLATFORM BY ANY THIRD PARTY, AND/OR (V) ANY ERRORS OR OMISSIONS IN ANY CONTENT OR FOR ANY LOSS OR DAMAGE OF ANY KIND INCURRED AS A RESULT OF THE USE OF ANY CONTENT POSTED, EMAILED, TRANSMITTED, OR OTHERWISE MADE AVAILABLE VIA THE MOTORSPORT.TV PLATFORM. MOTORSPORT.TV DOES NOT WARRANT, ENDORSE, GUARANTEE, OR ASSUME RESPONSIBILITY FOR ANY PRODUCT OR SERVICE ADVERTISED OR OFFERED BY A THIRD PARTY THROUGH THE MOTORSPORT.TV PLATFORM OR ANY HYPERLINKED WEBSITE OR FEATURED IN ANY BANNER OR OTHER ADVERTISING, AND MOTORSPORT.TV WILL NOT BE A PARTY TO OR IN ANY WAY BE RESPONSIBLE FOR MONITORING ANY TRANSACTION BETWEEN YOU AND THIRD-PARTY PROVIDERS OF PRODUCTS OR SERVICES. AS WITH THE PURCHASE OF A PRODUCT OR SERVICE THROUGH ANY MEDIUM OR IN ANY ENVIRONMENT, YOU SHOULD USE YOUR BEST JUDGMENT AND EXERCISE CAUTION WHERE APPROPRIATE.
+
+### 11\. Limitation of Liability
+
+IN NO EVENT SHALL MOTORSPORT.TV, ITS OFFICERS, DIRECTORS, EMPLOYEES, OR AGENTS, BE LIABLE TO YOU FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, PUNITIVE, OR CONSEQUENTIAL DAMAGES WHATSOEVER RESULTING FROM ANY (I) ERRORS, MISTAKES, OR INACCURACIES OF CONTENT, (II) PERSONAL INJURY OR PROPERTY DAMAGE, OF ANY NATURE WHATSOEVER, RESULTING FROM YOUR ACCESS TO AND USE OF THE MOTORSPORT.TV PLATFORM, (III) ANY UNAUTHORIZED ACCESS TO OR USE OF OUR SECURE SERVERS AND/OR ANY AND ALL PERSONAL INFORMATION AND/OR FINANCIAL INFORMATION STORED THEREIN, (IV) ANY INTERRUPTION OR CESSATION OF TRANSMISSION TO OR FROM THE MOTORSPORT.TV PLATFORM, (IV) ANY BUGS, VIRUSES, TROJAN HORSES, OR THE LIKE, WHICH MAY BE TRANSMITTED TO OR THROUGH THE MOTORSPORT.TV PLATFORM BY ANY THIRD PARTY, AND/OR (V) ANY ERRORS OR OMISSIONS IN ANY CONTENT OR FOR ANY LOSS OR DAMAGE OF ANY KIND INCURRED AS A RESULT OF YOUR USE OF ANY CONTENT POSTED, EMAILED, TRANSMITTED, OR OTHERWISE MADE AVAILABLE VIA THE MOTORSPORT.TV PLATFORM, WHETHER BASED ON WARRANTY, CONTRACT, TORT, OR ANY OTHER LEGAL THEORY, AND WHETHER OR NOT THE COMPANY IS ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. THE FOREGOING LIMITATION OF LIABILITY SHALL APPLY TO THE FULLEST EXTENT PERMITTED BY LAW IN THE APPLICABLE JURISDICTION. YOU SPECIFICALLY ACKNOWLEDGE THAT MOTORSPORT.TV SHALL NOT BE LIABLE FOR USER SUBMISSIONS OR THE DEFAMATORY, OFFENSIVE, OR ILLEGAL CONDUCT OF ANY THIRD PARTY AND THAT THE RISK OF HARM OR DAMAGE FROM THE FOREGOING RESTS ENTIRELY WITH YOU. The Motorsport.tv Platform is controlled and offered by Motorsport TV, LLC from its facilities in the United States of America. Motorsport TV, LLC makes no representations that the Motorsport.tv Platform is appropriate or available for use in other locations. Those who access or use the Motorsport.tv Platform from other jurisdictions do so at their own volition and are responsible for compliance with local law.
+
+### 12\. Indemnity
+
+You agree to defend, indemnify and hold harmless Motorsport.tv, its parent corporation, officers, directors, employees and agents, from and against any and all claims, damages, obligations, losses, liabilities, costs or debt, and expenses (including but not limited to attorney's fees) arising from: (i) your use of and access to the Motorsport.tv Platform; (ii) your violation of any term of these Terms of Service; (iii) your violation of any third party right, including without limitation any copyright, property, or privacy right; or (iv) any claim that one of your user submissions caused damage to a third party. This defense and indemnification obligation will survive these Terms of Service and your use of the Motorsport.tv Platform.
+
+### 13\. Ability to Accept Terms of Service
+
+You affirm that you are either more than 18 years of age, or possess legal parental or guardian consent, and are fully able and competent to enter into the terms, conditions, obligations, affirmations, representations, and warranties set forth in these Terms of Service, and to abide by and comply with these Terms of Service.
+
+### 14\. Assignment
+
+These Terms of Service, and any rights and licenses granted hereunder, may not be transferred or assigned by you, but may be assigned by Motorsport.tv without restriction.
+
+### 15\. General
+
+You agree that: (i) the Motorsport.tv Platform shall be deemed solely based in Florida; and (ii) the Motorsport.tv Platform shall be deemed a passive website that does not give rise to personal jurisdiction over Motorsport.tv, either specific or general, in jurisdictions other than Florida. These Terms of Service shall be governed by the internal substantive laws of the State of Florida, without respect to its conflict of laws principles. Any claim or dispute between you and Motorsport.tv that arises in whole or in part from the Motorsport.tv Platform shall be decided exclusively by a court of competent jurisdiction located in Miami-Dade County, Florida. These Terms of Service, together with any other legal notices published by Motorsport.tv on the Motorsport.tv Platform, shall constitute the entire agreement between you and Motorsport.tv concerning the Motorsport.tv Platform. If any provision of these Terms of Service is deemed invalid by a court of competent jurisdiction, the invalidity of such provision shall not affect the validity of the remaining provisions of these Terms of Service, which shall remain in full force and effect. No waiver of any term of this these Terms of Service shall be deemed a further or continuing waiver of such term or any other term, and Motorsport.tv's failure to assert any right or provision under these Terms of Service shall not constitute a waiver of such right or provision. Motorsport.tv reserves the right to amend these Terms of Service at any time and without notice, and it is your responsibility to review these Terms of Service for any changes. Your use of the Motorsport.tv Platform following any amendment of these Terms of Service will signify your assent to and acceptance of its revised terms. YOU AND MOTORSPORT.TV AGREE THAT ANY CAUSE OF ACTION ARISING OUT OF OR RELATED TO THE MOTORSPORT.TV PLATFORM MUST COMMENCE WITHIN ONE (1) YEAR AFTER THE CAUSE OF ACTION ACCRUES. OTHERWISE, SUCH CAUSE OF ACTION IS PERMANENTLY BARRED.
