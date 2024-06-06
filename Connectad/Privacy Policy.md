@@ -1,4 +1,4 @@
-[![](https://assets-global.website-files.com/5d5676a39a649a743bb84c38/656447970d42980cae7e9dd1_cad_white.png)](https://www.connectadrealtime.com/)
+[![](https://cdn.prod.website-files.com/5d5676a39a649a743bb84c38/656447970d42980cae7e9dd1_cad_white.png)](https://www.connectadrealtime.com/)
 
 [Why Connectad?](https://www.connectadrealtime.com/why)[News](https://www.connectadrealtime.com/blog-2/news)[Privacy](https://www.connectadrealtime.com/privacy)[career](https://connectad-demand-gmbh.jobs.personio.com/?language=en)[Contact](https://www.connectadrealtime.com/contacts)[Chronicles](https://www.connectadrealtime.com/contacts)[Support](https://wiki.connectad.io/)
 
@@ -87,7 +87,7 @@ Upon request, ConnectAd will provide you with information about whether we hold 
 
 For any questions about this Privacy Policy or data practices, you can contact us anytime:
 
-ConnectAd Realtime GmbH  
+ConnectAd Demand GmbH  
 Niederhofstrasse 37  
 1120 Vienna  
 Austria
@@ -96,7 +96,7 @@ Austria
 
 ‍
 
-[![](https://assets-global.website-files.com/5d5676a39a649a743bb84c38/5d5935a71e139881261fcfbc_20190812_ConnectAd_Minimal_color.png)](https://www.connectadrealtime.com/)
+[![](https://cdn.prod.website-files.com/5d5676a39a649a743bb84c38/5d5935a71e139881261fcfbc_20190812_ConnectAd_Minimal_color.png)](https://www.connectadrealtime.com/)
 
 Niederhofstraße 37  
 1120 Vienna  
@@ -109,7 +109,7 @@ connect@connectad.io
 +49 40 743 05 162  
 +1 (305) 459 3619
 
-![](https://assets-global.website-files.com/5d5676a39a649a743bb84c38/642c43458ad1d35e3f77fa46_2023-04-03_Logos_493x65.jpg)
+![](https://cdn.prod.website-files.com/5d5676a39a649a743bb84c38/642c43458ad1d35e3f77fa46_2023-04-03_Logos_493x65.jpg)
 
 [legal mentions](https://www.connectadrealtime.com/legal-metions)  
 © Copyright 2024 ConnectAd. All rights reserved
