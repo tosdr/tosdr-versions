@@ -1,28 +1,28 @@
 Cryptos: [2.4M+](https://coinmarketcap.com/)
 
-Exchanges: [765](https://coinmarketcap.com/rankings/exchanges/)
+Exchanges: [777](https://coinmarketcap.com/rankings/exchanges/)
 
 Market Cap: 
 
-[$2.27T](https://coinmarketcap.com/charts/#market-cap)
+[$2.64T](https://coinmarketcap.com/charts/#market-cap)
 
-0.03%
+0.14%
 
 24h Vol: 
 
-[$71.15B](https://coinmarketcap.com/charts/#volume-24h)
+[$76.06B](https://coinmarketcap.com/charts/#volume-24h)
 
-7.11%
+18.91%
 
-Dominance: [BTC: 54.3% ETH: 15.3%](https://coinmarketcap.com/charts/#bitcoin-dominance)
+Dominance: [BTC: 53.1% ETH: 17.5%](https://coinmarketcap.com/charts/#bitcoin-dominance)
 
  ETH Gas: 
 
-7 Gwei
+21 Gwei
 
  Fear & Greed: 
 
-[52/100](https://coinmarketcap.com/charts/#fear-and-greed-index)
+[66/100](https://coinmarketcap.com/charts/#fear-and-greed-index)
 
 [](https://coinmarketcap.com/ "Go to homepage")
 
@@ -30,19 +30,19 @@ Dominance: [BTC: 54.3% ETH: 15.3%](https://coinmarketcap.com/charts/#bitcoin-d
 
 Cryptocurrencies
 
-[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuCmcIcon.svg)Ranking](https://coinmarketcap.com/)[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuCategoriesIcon.svg)Categories](https://coinmarketcap.com/cryptocurrency-category/)[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuGlobalChartsIcon.svg)Global Charts](https://coinmarketcap.com/charts/)[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuHistoryIcon.svg)Historical Snapshots](https://coinmarketcap.com/historical/)[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuBitcoinETFsIcon.svg)Bitcoin ETFs](https://coinmarketcap.com/bitcoin-etf/)
+[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuCmcIconV2.svg)Ranking](https://coinmarketcap.com/)[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuCategoriesIconV2.svg)Categories](https://coinmarketcap.com/cryptocurrency-category/)[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuGlobalChartsIconV2.svg)Global Charts](https://coinmarketcap.com/charts/)[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuHistoryIconV2.svg)Historical Snapshots](https://coinmarketcap.com/historical/)[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuBitcoinETFsIconV2.svg)Bitcoin ETFs](https://coinmarketcap.com/etf/bitcoin/)[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuTokenUnlocksIcon.svg)Token unlocks](https://coinmarketcap.com/token-unlocks/)
 
 Leaderboards
 
-[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuTrendingIcon.svg)Trending](https://coinmarketcap.com/trending-cryptocurrencies/)[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuRecentlyAddedIcon.svg)Recently Added](https://coinmarketcap.com/new/)[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuGainersLosersIcon.svg)Gainers & Losers](https://coinmarketcap.com/gainers-losers/)[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuMostVisited.svg)Most Visited](https://coinmarketcap.com/most-viewed-pages/)
+[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuTrendingIconV2.svg)Trending](https://coinmarketcap.com/trending-cryptocurrencies/)[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuRecentlyAddedIconV2.svg)Recently Added](https://coinmarketcap.com/new/)[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuGainersLosersIconV2.svg)Gainers & Losers](https://coinmarketcap.com/gainers-losers/)[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuMostVisitedV2.svg)Most Visited](https://coinmarketcap.com/most-viewed-pages/)
 
 NFT
 
-[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuNFTOverviewV2.svg)Overall NFT Stats](https://coinmarketcap.com/nft/)[Upcoming Sales](https://coinmarketcap.com/nft/upcoming/)
+[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuNFTOverviewV2.svg)Overall NFT Stats](https://coinmarketcap.com/nft/)[![](https://s2.coinmarketcap.com/static/cloud/img/menu/UpComingSalesV2.svg)Upcoming Sales](https://coinmarketcap.com/nft/upcoming/)
 
 On Chain Data
 
-[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuDexscan.svg)DEX Pairs](https://coinmarketcap.com/dexscan/trending/all/)[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuChainRanking.svg)Chain Ranking](https://coinmarketcap.com/chain-ranking/)[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuHottestDexPairs.svg)Hot DEX Pairs](https://coinmarketcap.com/hot-dex-pairs/)
+[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuDexscanV2.svg)DEX Pairs](https://coinmarketcap.com/dexscan/trending/all/)[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuChainRankingV2.svg)Chain Ranking](https://coinmarketcap.com/chain-ranking/)[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuHottestDexPairsV2.svg)Hot DEX Pairs](https://coinmarketcap.com/hot-dex-pairs/)
 
 [Exchanges](https://coinmarketcap.com/rankings/exchanges/)
 
@@ -86,29 +86,29 @@ Search
 
 Cryptos: [2.4M+](https://coinmarketcap.com/)
 
-Exchanges: [765](https://coinmarketcap.com/rankings/exchanges/)
+Exchanges: [777](https://coinmarketcap.com/rankings/exchanges/)
 
 Market Cap: 
 
-[$2.27T](https://coinmarketcap.com/charts/#market-cap)
+[$2.64T](https://coinmarketcap.com/charts/#market-cap)
 
-0.03%
+0.14%
 
 24h Vol: 
 
-[$71.15B](https://coinmarketcap.com/charts/#volume-24h)
+[$76.06B](https://coinmarketcap.com/charts/#volume-24h)
 
-7.11%
+18.91%
 
-Dominance: [BTC: 54.3% ETH: 15.3%](https://coinmarketcap.com/charts/#bitcoin-dominance)
+Dominance: [BTC: 53.1% ETH: 17.5%](https://coinmarketcap.com/charts/#bitcoin-dominance)
 
  ETH Gas: 
 
-7 Gwei
+21 Gwei
 
  Fear & Greed: 
 
-[52/100](https://coinmarketcap.com/charts/#fear-and-greed-index)
+[66/100](https://coinmarketcap.com/charts/#fear-and-greed-index)
 
 CoinMarketCap.com Terms of Use
 ==============================
