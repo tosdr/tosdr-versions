@@ -1,0 +1,19 @@
+[](https://twitter.com/uploadcare "Twitter")[](https://github.com/uploadcare "GitHub")[](https://stackoverflow.com/questions/tagged/uploadcare "Stack Overflow")[](https://stackshare.io/uploadcare "StackShare")[](https://discord.gg/mKWRgRsVz8 "Discord")
+
+Products[Platform](https://uploadcare.com/features/)[File uploader](https://uploadcare.com/products/file-uploader/)[Image CDN](https://uploadcare.com/cdn/image-cdn/)[Proxy](https://uploadcare.com/docs/delivery/proxy/)[API](https://uploadcare.com/api/)[Image processing](https://uploadcare.com/cdn/image-processing/)[Adaptive delivery](https://uploadcare.com/products/adaptive-delivery/)[Speed optimization](https://uploadcare.com/cdn/speed-optimization/)[GIF to video](https://uploadcare.com/docs/transformations/gif-to-video/)[Video processing](https://uploadcare.com/docs/transformations/video-encoding/)[Document conversion](https://uploadcare.com/products/document-conversion/)[Recognition](https://uploadcare.com/products/intelligence/)[Security](https://uploadcare.com/products/security/)[Demo](https://uploadcare.com/demo/)[Pricing](https://uploadcare.com/pricing/)[JS upload library](https://uploadcare.com/products/file-uploader/js/)
+
+Resources[Case studies](https://uploadcare.com/customers/)[Community](https://community.uploadcare.com/)[Blog](https://uploadcare.com/blog/)[Learning Center](https://uploadcare.com/learning/)[E-learning solutions](https://uploadcare.com/solutions/elearning/)[E-commerce solutions](https://uploadcare.com/solutions/ecommerce/)[Agencies solutions](https://uploadcare.com/solutions/devshops/)[Marketplace solutions](https://uploadcare.com/solutions/marketplaces/)[Healthcare solutions](https://uploadcare.com/solutions/healthcare/)
+
+About[Company](https://uploadcare.com/company/)[Awards](https://uploadcare.com/company/awards/)[Careers](https://community.uploadcare.com/c/jobs/l/latest)[Partnership](https://uploadcare.com/partners/)[Contact sales](https://uploadcare.com/schedule-demo/)[Bug bounty](https://uploadcare.com/about/bug-bounty/)
+
+Developers[Quick start](https://uploadcare.com/docs/start/quickstart/)[API references](https://uploadcare.com/docs/start/api/)[Documentation](https://uploadcare.com/docs/)[Integrations](https://uploadcare.com/docs/integrations/)[Migration guide](https://uploadcare.com/docs/guides/migro/)[Help center](https://help.uploadcare.com/)[Changelog](https://uploadcare.com/docs/changelog/)[Status page](https://status.uploadcare.com/)
+
+Legal[Terms of Service](https://uploadcare.com/about/terms/)[Privacy Policy](https://uploadcare.com/about/privacy-policy/)[Trust Center](https://uploadcare.com/about/trust/)[SLA](https://uploadcare.com/about/sla/)[DMCA](https://uploadcare.com/about/terms/#10-copyright-infringement-and-dmca-policy)
+
+© 2011–2024 Uploadcare Inc.
+
+Burrard St, Vancouver, BC V7X 1M8, Canada
+
+[Request status](https://status.uploadcare.com/)
+
+[![SOC 2 Type 2 compliant](https://ucarecdn.com/402d1802-7c6f-4a1f-9512-c2c8c9f51cdd/)![GDPR compliant](https://ucarecdn.com/a3026d29-db41-4218-b264-3cf778a9ae3a/)![HIPAA-compliant environment](https://ucarecdn.com/458f86e5-eeed-4222-95b8-5207116aa579/)](https://uploadcare.com/about/trust/)
