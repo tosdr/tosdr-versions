@@ -38,7 +38,7 @@
     * [IAB TCF v2.2](https://www.cookieyes.com/iab-tcf-compliance/)
     * [PDPA Singapore](https://www.cookieyes.com/pdpa-singapore-compliance/)
     * [PDPA Thailand](https://www.cookieyes.com/pdpa-thailand-compliance/)
-    * [PDPL Saudi Arabia](https://www.cookieyes.com/saudi-arabia-pdpl-cookie-compliance/)
+    * [PDPL Saudi Arabia](https://www.cookieyes.com/saudi-arabia-pdpl-compliance/)
     * [PIPEDA Canada](https://www.cookieyes.com/pipeda-compliance/)
     * [POPIA South Africa](https://www.cookieyes.com/popia-compliance/)
     * [Quebec Law 25](https://www.cookieyes.com/quebec-law-25-compliance/)
@@ -188,7 +188,7 @@ I agree to receive newsletters from CookieYes and accept the [Privacy Policy.](
 
 * [GDPR (EU)](https://www.cookieyes.com/product/cookie-consent/)
 * [CCPA (California)](https://www.cookieyes.com/ccpa-compliance/)
-* [PDPL (Saudi Arabia)](https://www.cookieyes.com/saudi-arabia-pdpl-cookie-compliance/)
+* [PDPL (Saudi Arabia)](https://www.cookieyes.com/saudi-arabia-pdpl-compliance/)
 
 ##### Resources
 
@@ -243,7 +243,7 @@ I agree to receive newsletters from CookieYes and accept the [Privacy Policy.](
 
 * [GDPR (EU)](https://www.cookieyes.com/product/cookie-consent/)
 * [CCPA (California)](https://www.cookieyes.com/ccpa-compliance/)
-* [PDPL (Saudi Arabia)](https://www.cookieyes.com/saudi-arabia-pdpl-cookie-compliance/)
+* [PDPL (Saudi Arabia)](https://www.cookieyes.com/saudi-arabia-pdpl-compliance/)
 
 ##### PartnersJoin us!
 
