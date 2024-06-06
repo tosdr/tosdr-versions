@@ -89,6 +89,10 @@ We reserve the right to reject, delete or remove any content we deem unacceptabl
 
 In the event that any provision or part of this Terms of service is determined to be unenforceable by a court of competent jurisdiction, the remaining provisions of this contract shall continue to be valid and enforceable to the fullest extent permitted by law, and the unenforceable provision shall be modified or reformed to the extent necessary to make it enforceable while preserving the parties' original intent to the greatest extent possible.
 
+### 15\. Automated Access:
+
+Access to this website through automated means, such as bots, crawlers, or any other form of software or technology, is expressly forbidden without the pre-authorized consent of the website owner. Unauthorized automated access may result in the immediate termination of access and legal action. To request permission for automated access, please contact [\[email protected\]](https://controlc.com/cdn-cgi/l/email-protection)
+
   
   
   
