@@ -5,7 +5,7 @@ Log inGet Started
 Privacy Policy
 ==============
 
-Last updated on 01.01.2024
+Last updated on 2024-06-01
 
 
 =============================================================
@@ -30,9 +30,13 @@ When you use ControlD, we keep the following data associated with your account:
 
 **This only applies to Premium resolvers that enforce custom DNS profiles. Free resolvers listed on the homepage do not store this or any other data including but not limited to IP addresses, timestamps or DNS queries themselves.**
 
+We use a custom implementation of EDNS Client Subnet which does not expose the source IP address to authoritative DNS servers. Query Name Minimisation is enforced.
+
 3.1 Source IP Storage JustificationUnlike a VPN, ControlD operates at the DNS layer, which means there is no way for you to supply your authentication credentials along with the request. In order for the DNS server to know who you are, so it can apply the correct rules, the only anchor we have is the source IP the request came from. This requirement is mitigated if you're using DNS-over-HTTPS or DNS-over-TLS resolvers. However, your source IP is still needed when communicating with our transparent proxies as it must be known to our firewall so access can be granted.
 
 3.2 Privacy ImplicationsEven though we store the IP address associated with each account, the threat to user privacy is very limited. Typically, 3rd parties will supply a timestamp + IP address when requesting user data. The IP address will be that of the proxy that was used at the time (if one was using a proxy). At any given moment, there are hundreds or thousands of people that could be sharing the same IP address. Since ControlD does not keep logs of which proxy server IPs were used by which user, nor do we even have access to this data, we have no way to trace any activity to any individual account.
+
+3.3 Sale or Transfer of DataWe prioritize user privacy by not retaining, selling, or transferring personal information, IP addresses, user identifiers, or user query patterns to any third party. We do not combine collected data in a manner that can identify individual users, and we strictly prohibit the sale, licensing, sublicensing, or granting of user data rights to any other entity.
 
 4\. When you leave
 ------------------
