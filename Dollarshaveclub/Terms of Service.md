@@ -1,4 +1,4 @@
-[![Dollar Shave Club logo](/cdn-cgi/image/quality=100,width=3840/https://attachments.gorgias.help/uploads.gorgias.io/MdAV17qv0yxZWgaX/LOGO-orangestacked-31863378-1b0c-492c-b68f-6fb4218bdcce.png)](https://ask.dollarshaveclub.com/en-US)
+[![Dollar Shave Club logo](/cdn-cgi/image/quality=100,width=3840/https://attachments.gorgias.help/uploads.gorgias.io/MdAV17qv0yxZWgaX/LOGO-orangestacked-31863378-1b0c-492c-b68f-6fb4218bdcce.png)](https://us.dollarshaveclub.com/)
 
 [Home](https://www.dollarshaveclub.com/)[Shop](https://www.dollarshaveclub.com/shop)[Account](https://www.dollarshaveclub.com/account)[Contact](https://ask.dollarshaveclub.com/en-US/how-do-i-contact-you-192340)
 
@@ -22,8 +22,8 @@ Terms of Service
 
 All articles
 
-Terms of ServiceUpdated a month ago
-===================================
+Terms of ServiceUpdated 2 months ago
+====================================
 
 Last updated: April 10, 2024
 
