@@ -338,11 +338,11 @@ Coursera sees headcount decrease and faces lawsuit in 2023, invests in proprieta
 
 ##### Latest
 
-1. [10 Best Quantum Mechanics Courses for 2024](https://www.classcentral.com/report/best-quantum-mechanics-courses/)
-2. [5 Best Social Media Marketing Courses for 2024](https://www.classcentral.com/report/best-social-media-marketing-courses/)
-3. [9 Best Free Astronomy Courses for 2024](https://www.classcentral.com/report/best-astronomy-courses/)
-4. [9 Best Free Spanish Courses for 2024](https://www.classcentral.com/report/best-spanish-courses/)
-5. [Open edX Conference 2024: Program & Speakers](https://www.classcentral.com/report/open-edx-conference-2024/)
+1. [10 Best Android Development Courses for 2024](https://www.classcentral.com/report/best-android-development-courses/)
+2. [9 Best Relativity Courses for 2024: Special and General Relativity](https://www.classcentral.com/report/best-relativity-courses/)
+3. [1200+ Physics Online Courses You Can Take for Free](https://www.classcentral.com/report/physics-free-online-courses/)
+4. [6 Best Free Prolog Courses for 2024](https://www.classcentral.com/report/best-free-prolog-courses/)
+5. [15 Best React Courses for 2024: Hooks and Components](https://www.classcentral.com/report/best-react-courses/)
 
 [Visit _The Report_](https://www.classcentral.com/report/)
 
@@ -353,9 +353,9 @@ Coursera sees headcount decrease and faces lawsuit in 2023, invests in proprieta
 Most common
 -----------
 
-1. java
+1. sql
     
-2. graphic design
+2. finance
     
 3. trading
     
@@ -363,28 +363,28 @@ Most common
 Popular subjects
 ----------------
 
-1. [Computer Networking
+1. [Management & Leadership
     
-    1,006 courses](https://www.classcentral.com/subject/computer-networking)
-2. [Digital Skills
+    1,462 courses](https://www.classcentral.com/subject/management-and-leadership)
+2. [Language Learning
     
-    285 courses](https://www.classcentral.com/subject/digital-skills)
-3. [Graphic Design
+    1,544 courses](https://www.classcentral.com/subject/language-learning)
+3. [Web Development
     
-    3,135 courses](https://www.classcentral.com/subject/graphic-design)
+    9,268 courses](https://www.classcentral.com/subject/web-development)
 
 Popular courses
 ---------------
 
-1. [Functional Foods and Nutraceuticals
+1. [Happier Employees and Return-On-Investment Course
     
-    Rashtrasant Tukadoji Maharaj Nagpur University, Nagpur](https://www.classcentral.com/course/swayam-functional-foods-and-nutraceuticals-14069)
-2. [Industrial Pharmacy-I
+    The University of Texas at Austin](https://www.classcentral.com/course/workplace-wellness-the-university-of-texas-at-aus-17121)
+2. [Learn to Program: The Fundamentals
     
-    H.N.B Garhwal University (A Central University) Srinagar Garhwal](https://www.classcentral.com/course/swayam-industrial-pharmacy-i-14123)
-3. [Supporting Successful Learning in Primary School
+    University of Toronto](https://www.classcentral.com/course/programming1-385)
+3. [Inspiring Leadership through Emotional Intelligence
     
-    University of Reading](https://www.classcentral.com/course/supporting-learning-primary-13229)
+    Case Western Reserve University](https://www.classcentral.com/course/lead-ei-710)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
