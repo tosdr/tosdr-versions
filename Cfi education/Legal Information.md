@@ -15,6 +15,7 @@ Menu
         * [**FTIP™**FinTech Industry Professional](https://corporatefinanceinstitute.com/certifications/fintech-industry-professional/)
     * [Master a Specialization](#)
         * [CFI Specializations](#)
+        * [**Financial Planning & Analysis (FP&A)**](https://corporatefinanceinstitute.com/certifications/financial-planning-and-analysis-program/)
         * [**Environmental, Social, & Governance(ESG)**](https://corporatefinanceinstitute.com/certifications/environmental-social-governance-specialist/)
         * [**Leadership Effectiveness**](https://corporatefinanceinstitute.com/certifications/leadership-effectiveness-program/)
         * [**Data Analyst in Excel**](https://corporatefinanceinstitute.com/certifications/excel-data-analysis-specialist/)
@@ -176,6 +177,7 @@ Menu
     
 * [Specializations](#)
     
+    * [Financial Planning & Analysis (FP&A) Specialization](https://corporatefinanceinstitute.com/certifications/financial-planning-and-analysis-program/)
     * [Commercial Real Estate Finance Specialization](https://corporatefinanceinstitute.com/certifications/commercial-real-estate-finance-specialist/)
     * [Environmental, Social & Governance Specialization](https://corporatefinanceinstitute.com/certifications/environmental-social-governance-specialist/)
     * [Data Analysis in Excel Specialization](https://corporatefinanceinstitute.com/certifications/excel-data-analysis-specialist/)
@@ -420,7 +422,7 @@ Return to [All Legal Notices](https://corporatefinanceinstitute.com/about-cfi/le
     * [What’s New](https://corporatefinanceinstitute.com/whats-new/)
     * [NetLearnings](https://corporatefinanceinstitute.com/shows/net-learnings/)
     * [Resources](https://corporatefinanceinstitute.com/resources/)
-    * [Podcast](https://podcast.corporatefinanceinstitute.com/)
+    * [Podcast](https://corporatefinanceinstitute.com/resources/finpod/)
 
 [Logo](https://corporatefinanceinstitute.com/about-cfi/about-macabacus/) 
 
@@ -455,7 +457,7 @@ Return to [All Legal Notices](https://corporatefinanceinstitute.com/about-cfi/le
 
 0 search results for ‘’
 
-People also search for: Free courses excel esg accounting real estate Financial analysis TEMPLATE
+People also search for: excel esg Free courses accounting Free fmva private equity
 
 Explore Our Certifications
 
