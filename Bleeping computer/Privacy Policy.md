@@ -23,31 +23,31 @@
     * [Featured](#nfeatured)
     * [Latest](#nlatest)
     
-    * [![GitHub comments abused to push malware via Microsoft repo URLs](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![FBI recovers 7,000 LockBit keys, urges ransomware victims to reach out](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        GitHub comments abused to push malware via Microsoft repo URLs](https://www.bleepingcomputer.com/news/security/github-comments-abused-to-push-malware-via-microsoft-repo-urls/)
-    * [![HelloKitty ransomware rebrands, releases CD Projekt and Cisco data](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        FBI recovers 7,000 LockBit keys, urges ransomware victims to reach out](https://www.bleepingcomputer.com/news/security/fbi-recovers-7-000-lockbit-keys-urges-ransomware-victims-to-reach-out/)
+    * [![Club Penguin fans breached Disney Confluence server, stole 2.5GB of data](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        HelloKitty ransomware rebrands, releases CD Projekt and Cisco data](https://www.bleepingcomputer.com/news/security/hellokitty-ransomware-rebrands-releases-cd-projekt-and-cisco-data/)
-    * [![MITRE says state hackers breached its network via Ivanti zero-days](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Club Penguin fans breached Disney Confluence server, stole 2.5GB of data](https://www.bleepingcomputer.com/news/security/club-penguin-fans-breached-disney-confluence-server-stole-25gb-of-data/)
+    * [![Kali Linux 2024.2 released with 18 new tools, Y2038 changes](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        MITRE says state hackers breached its network via Ivanti zero-days](https://www.bleepingcomputer.com/news/security/mitre-says-state-hackers-breached-its-network-via-ivanti-zero-days/)
-    * [![CrushFTP warns users to patch exploited zero-day “immediately”](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Kali Linux 2024.2 released with 18 new tools, Y2038 changes](https://www.bleepingcomputer.com/news/linux/kali-linux-20242-released-with-18-new-tools-y2038-changes/)
+    * [![Linux version of TargetCompany ransomware focuses on VMware ESXi](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        CrushFTP warns users to patch exploited zero-day “immediately”](https://www.bleepingcomputer.com/news/security/crushftp-warns-users-to-patch-exploited-zero-day-immediately/)
+        Linux version of TargetCompany ransomware focuses on VMware ESXi](https://www.bleepingcomputer.com/news/security/linux-version-of-targetcompany-ransomware-focuses-on-vmware-esxi/)
     
-    * [![Microsoft: APT28 hackers exploit Windows flaw reported by NSA](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![Linux version of TargetCompany ransomware focuses on VMware ESXi](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Microsoft: APT28 hackers exploit Windows flaw reported by NSA](https://www.bleepingcomputer.com/news/security/microsoft-apt28-hackers-exploit-windows-flaw-reported-by-nsa/)
-    * [![Synlab Italia suspends operations following ransomware attack](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Linux version of TargetCompany ransomware focuses on VMware ESXi](https://www.bleepingcomputer.com/news/security/linux-version-of-targetcompany-ransomware-focuses-on-vmware-esxi/)
+    * [![FBI recovers 7,000 LockBit keys, urges ransomware victims to reach out](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Synlab Italia suspends operations following ransomware attack](https://www.bleepingcomputer.com/news/security/synlab-italia-suspends-operations-following-ransomware-attack/)
-    * [![GitLab affected by GitHub-style CDN flaw allowing malware hosting](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        FBI recovers 7,000 LockBit keys, urges ransomware victims to reach out](https://www.bleepingcomputer.com/news/security/fbi-recovers-7-000-lockbit-keys-urges-ransomware-victims-to-reach-out/)
+    * [![Google Chrome reduced cookie requests to improve performance](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        GitLab affected by GitHub-style CDN flaw allowing malware hosting](https://www.bleepingcomputer.com/news/security/gitlab-affected-by-github-style-cdn-flaw-allowing-malware-hosting/)
-    * [![Criminal IP Partners with Sumo Logic on Threat Intelligence Data Enrichment](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Google Chrome reduced cookie requests to improve performance](https://www.bleepingcomputer.com/news/google/google-chrome-reduced-cookie-requests-to-improve-performance/)
+    * [![Advance Auto Parts stolen data for sale after Snowflake attack](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Criminal IP Partners with Sumo Logic on Threat Intelligence Data Enrichment](https://www.bleepingcomputer.com/news/security/criminal-ip-partners-with-sumo-logic-on-threat-intelligence-data-enrichment/)
+        Advance Auto Parts stolen data for sale after Snowflake attack](https://www.bleepingcomputer.com/news/security/advance-auto-parts-stolen-data-for-sale-after-snowflake-attack/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
@@ -439,26 +439,26 @@ Tel: +1-646-980-4190
 
 Popular Stories
 
-* [![GitHub](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* [![Windows](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    GitHub comments abused to push malware via Microsoft repo URLs](https://www.bleepingcomputer.com/news/security/github-comments-abused-to-push-malware-via-microsoft-repo-urls/)
-* [![WordPress](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    Microsoft deprecates Windows NTLM authentication protocol](https://www.bleepingcomputer.com/news/microsoft/microsoft-deprecates-windows-ntlm-authentication-protocol/)
+* [![Amateur radio ham radio](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    Critical Forminator plugin flaw impacts over 300k WordPress sites](https://www.bleepingcomputer.com/news/security/critical-forminator-plugin-flaw-impacts-over-300k-wordpress-sites/)
+    ARRL says it was hacked by an "international cyber group"](https://www.bleepingcomputer.com/news/security/american-radio-relay-league-says-it-was-hacked-by-an-international-cyber-group/)
 
 Latest forum topics
 
-* [No access to windows 11 login - byproduct of original virus issue](https://www.bleepingcomputer.com/forums/t/796712/no-access-to-windows-11-login-byproduct-of-original-virus-issue/)
+* [Hi there !](https://www.bleepingcomputer.com/forums/t/797999/hi-there/)
     
-    [debanning](https://www.bleepingcomputer.com/forums/u/1312581/debanning/) in [Virus, Trojan, Spyware, and Malware Removal Help](https://www.bleepingcomputer.com/forums/f/22/virus-trojan-spyware-and-malware-removal-help/)
+    [ipc](https://www.bleepingcomputer.com/forums/u/1315553/ipc/) in [Introductions](https://www.bleepingcomputer.com/forums/f/64/introductions/)
     
-* [Hi, I came here to learn](https://www.bleepingcomputer.com/forums/t/796711/hi-i-came-here-to-learn/)
+* [Character Design Search](https://www.bleepingcomputer.com/forums/t/797996/character-design-search/)
     
-    [dlbs](https://www.bleepingcomputer.com/forums/u/1312582/dlbs/) in [Introductions](https://www.bleepingcomputer.com/forums/f/64/introductions/)
+    [RedPhoenix12](https://www.bleepingcomputer.com/forums/u/1315519/redphoenix12/) in [Graphics Design and Photo Editing](https://www.bleepingcomputer.com/forums/f/37/graphics-design-and-photo-editing/)
     
-* [How can I Improve my Laptop Performance?](https://www.bleepingcomputer.com/forums/t/796710/how-can-i-improve-my-laptop-performance/)
+* [Is my system completely disinfected?](https://www.bleepingcomputer.com/forums/t/797995/is-my-system-completely-disinfected/)
     
-    [jessicarose](https://www.bleepingcomputer.com/forums/u/1312385/jessicarose/) in [General Chat](https://www.bleepingcomputer.com/forums/f/5/general-chat/)
+    [alva121](https://www.bleepingcomputer.com/forums/u/1315648/alva121/) in [Virus, Trojan, Spyware, and Malware Removal Help](https://www.bleepingcomputer.com/forums/f/22/virus-trojan-spyware-and-malware-removal-help/)
     
 
 Latest virus removal guides
@@ -491,45 +491,45 @@ Latest virus removal guides
 
 Latest Downloads
 
-* ![ESET Uninstaller Logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* ![PuTTY Logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    [ESET Uninstaller](https://www.bleepingcomputer.com/download/eset-uninstaller/)
+    [PuTTY](https://www.bleepingcomputer.com/download/putty/)
     
-    Version: 9.0.3.0
+    Version: 0.81
     
-    **106,356 _Downloads_**
-    
-* ![Display Driver Uninstaller Logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    [Display Driver Uninstaller](https://www.bleepingcomputer.com/download/display-driver-uninstaller/)
-    
-    Version: 18.0.7.5
-    
-    **62,862 _Downloads_**
-    
-* ![AdwCleaner Logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    [AdwCleaner](https://www.bleepingcomputer.com/download/adwcleaner/)
-    
-    Version: 8.4.0.0
-    
-    **56M+ _Downloads_**
+    **41,582 _Downloads_**
     
 * ![Malwarebytes Anti-Malware Logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     [Malwarebytes Anti-Malware](https://www.bleepingcomputer.com/download/malwarebytes-anti-malware/)
     
-    Version: 5.1.2
+    Version: 5.1.4.112
     
     **5M+ _Downloads_**
     
-* ![Windows Repair (All In One) Logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* ![BitDefender Uninstall Tool Logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    [Windows Repair (All In One)](https://www.bleepingcomputer.com/download/windows-repair-all-in-one/)
+    [BitDefender Uninstall Tool](https://www.bleepingcomputer.com/download/bitdefender-uninstall-tool/)
     
-    Version: 4.14.1
+    Version: NA
     
-    **2M+ _Downloads_**
+    **102,949 _Downloads_**
+    
+* ![Malwarebytes Support Tool Logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    [Malwarebytes Support Tool](https://www.bleepingcomputer.com/download/malwarebytes-support-tool/)
+    
+    Version: NA
+    
+    **150,089 _Downloads_**
+    
+* ![FilesLockerDecrypter Logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    [FilesLockerDecrypter](https://www.bleepingcomputer.com/download/fileslockerdecrypter/)
+    
+    Version: NA
+    
+    **48,892 _Downloads_**
     
 
 ##### Follow us:
