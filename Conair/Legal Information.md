@@ -2,7 +2,7 @@
 
 **Enjoy Free Shipping on All Orders Over $100!**
 
- [![Conair](/on/demandware.static/Sites-us-conair-sfra-Site/-/default/dwd03db11e/images/logo.png) ![Conair](/on/demandware.static/Sites-us-conair-sfra-Site/-/default/dwd03db11e/images/logo.png)](https://www.conair.com/en "Conair Home")
+ [![Conair](/on/demandware.static/Sites-us-conair-sfra-Site/-/default/dw8c574bf9/images/logo.png) ![Conair](/on/demandware.static/Sites-us-conair-sfra-Site/-/default/dw8c574bf9/images/logo.png)](https://www.conair.com/en "Conair Home")
 
 ☰
 
@@ -16,7 +16,7 @@ https://www.conair.com/en/cart?lang=en\_US
 
 **Enjoy Free Shipping on All Orders Over $100!**
 
-[![Conair](/on/demandware.static/Sites-us-conair-sfra-Site/-/default/dwd03db11e/images/logo.png)](https://www.conair.com/en "Conair Home")
+[![Conair](/on/demandware.static/Sites-us-conair-sfra-Site/-/default/dw8c574bf9/images/logo.png)](https://www.conair.com/en "Conair Home")
 
 ☰
 
@@ -26,7 +26,7 @@ https://www.conair.com/en/cart?lang=en\_US
 
 0
 
-* [![BeautyBar](/on/demandware.static/Sites-us-conair-sfra-Site/-/default/dw60ebb5f6/images/beautybar.png)](https://www.conair.com/en/BeautyBar?lang=en_US)
+* [![BeautyBar](/on/demandware.static/Sites-us-conair-sfra-Site/-/default/dw8fa869df/images/beautybar.png)](https://www.conair.com/en/BeautyBar?lang=en_US)
 * [Hair](https://www.conair.com/en/hair?lang=en_US)
     
     * [Hair Dryers](https://www.conair.com/en/dryers?lang=en_US)
@@ -767,7 +767,7 @@ https://www.conair.com/en/cart?lang=en\_US
         * [RFID Blocking Assortment](https://www.conair.com/en/rfid-blocking-assortment?lang=en_US)
 * [Featured](https://www.conair.com/en/featured?lang=en_US)
 * [Sale](https://www.conair.com/en/sale?lang=en_US)
-* [![HomeTrends](/on/demandware.static/Sites-us-conair-sfra-Site/-/default/dw326c5f9a/images/hometrends.png)](https://www.conair.com/en/hometrends?lang=en_US)
+* [![HomeTrends](/on/demandware.static/Sites-us-conair-sfra-Site/-/default/dw27228378/images/hometrends.png)](https://www.conair.com/en/hometrends?lang=en_US)
 
    
 
@@ -1129,7 +1129,7 @@ Global Sites
 * [![Instagram Logo Icon](https://www.conair.com/on/demandware.static/-/Library-Sites-usConairShared/default/dw669ed6ca/icons-instagram-logo.png)](https://www.instagram.com/conair/)
 * [![Facebook Logo Icon](https://www.conair.com/on/demandware.static/-/Library-Sites-usConairShared/default/dw1488495c/icons-facebook-logo.png)](https://www.facebook.com/conairbeauty)
 * [![Youtube logo icon](https://www.conair.com/on/demandware.static/-/Library-Sites-usConairShared/default/dw31db2175/icons-youtube-logo.png)](https://www.youtube.com/user/convideo123)
-* [![Twitter logo icon](https://www.conair.com/on/demandware.static/-/Library-Sites-usConairShared/default/dw9dd70d94/icons-twitter-logo.png)](https://twitter.com/conairbeauty)
+* [![Twitter logo icon](https://www.conair.com/on/demandware.static/-/Library-Sites-usConairShared/default/dwecb9c0db/X-logo-34x34.png)](https://twitter.com/conairbeauty)
 * [![Pinterest logo icon](https://www.conair.com/on/demandware.static/-/Library-Sites-usConairShared/default/dw1722e7ae/icons-pinterest-logo.png)](https://www.pinterest.com/conairbeauty/)
 *  [![TikTok Logo Icon](https://www.conair.com/on/demandware.static/-/Library-Sites-usConairShared/default/dwa419830f/contentImages/footer/TikTok-Logo.jpeg)](https://www.tiktok.com/@conair) 
 
