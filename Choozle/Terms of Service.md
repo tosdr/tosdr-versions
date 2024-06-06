@@ -927,9 +927,9 @@ Choozle provides a digital advertising software platform that leverages detailed
 
 ### FROM THE BLOG
 
+* [Taking a full-funnel approach to paid search](https://choozle.com/blog/taking-a-full-funnel-approach-to-paid-search/)
+* [Unlocking the Power of Walmart DSP with Choozle](https://choozle.com/blog/walmart-dsp-with-choozle/)
 * [The Choozle Platform: Your Programmatic Advertising Powerhouse](https://choozle.com/blog/choozle-platform-programmatic-advertising-powerhouse/)
-* [Driving Results with Paid Media: 6 Key Trends for 2024](https://choozle.com/blog/driving-results-with-paid-media-6-key-trends-for-2024/)
-* [Fostering Inclusivity: The Power of Inclusive Language in the Workplace](https://choozle.com/blog/fostering-inclusivity-the-power-of-inclusive-language-in-the-workplace/)
 
 ### CONTACT
 
@@ -937,7 +937,7 @@ Choozle provides a digital advertising software platform that leverages detailed
 
 Denver, Colorado
 
-© Choozle, Inc. 2023    |    [Terms of Service](https://choozle.com/terms-of-service/)    |    [Privacy Policy](https://choozle.com/privacy-policy/)    |    [Opt Out](https://choozle.com/opt-out/)
+© Choozle, Inc. 2024    |    [Terms of Service](https://choozle.com/terms-of-service/)    |    [Privacy Policy](https://choozle.com/privacy-policy/)    |    [Opt Out](https://choozle.com/opt-out/)
 
 * [](https://www.facebook.com/choozle "Facebook")
 * [](https://www.instagram.com/choozle/ "Instagram")
