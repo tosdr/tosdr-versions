@@ -1,4 +1,4 @@
-[![](https://assets-global.website-files.com/628288c5cd3e8411b90a36a4/659e8f4c92a0028e36e42623_logo_kerning-fix.svg)](https://www.copy.ai/)
+[![](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/659e8f4c92a0028e36e42623_logo_kerning-fix.svg)](https://www.copy.ai/)
 
 Product
 
@@ -12,11 +12,11 @@ AI Sales OS
 
 An all-in-one marketing solution, purpose-built to scale your campaigns.  
 
-![](https://assets-global.website-files.com/628288c5cd3e8411b90a36a4/657c415daadb6b6d8960c25a_mos-normal.svg)![](https://assets-global.website-files.com/628288c5cd3e8411b90a36a4/657c415d3f94c84212222d06_mos-hover.svg)](https://copy.ai/ai-marketing-os)[AI Sales OS
+![](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/657c415daadb6b6d8960c25a_mos-normal.svg)![](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/657c415d3f94c84212222d06_mos-hover.svg)](https://copy.ai/ai-marketing-os)[AI Sales OS
 
 An end-to-end solution for sales teams looking to crush quotas.  
 
-![](https://assets-global.website-files.com/628288c5cd3e8411b90a36a4/657c4dd2f1395352ac724369_sales-normal.svg)![](https://assets-global.website-files.com/628288c5cd3e8411b90a36a4/657c4dd2a818b0d862ef1e1c_sales-hover.svg)](https://copy.ai/ai-sales-os)
+![](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/657c4dd2f1395352ac724369_sales-normal.svg)![](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/657c4dd2a818b0d862ef1e1c_sales-hover.svg)](https://copy.ai/ai-sales-os)
 
 Platform overview
 
@@ -26,7 +26,7 @@ The only Enterprise AI solution you need to take your business to the next level
 
 [Brand voice](https://copy.ai/features/brand-voice)[Infobase](https://copy.ai/features/infobase)[Security](https://copy.ai/security)[Chat](https://copy.ai/chat)
 
-[![](https://assets-global.website-files.com/628288c5cd3e8411b90a36a4/65f1c0b283a86af87f265384_image.webp)
+[![](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/65f1c0b283a86af87f265384_image.webp)
 
 Learn about the AI Marketing OS
 
@@ -50,9 +50,9 @@ Summarizes a person's LinkedIn profile and recommends use cases](https://copy.ai
 
 Given a target url and a persona, generate 4 variations of Facebook Ad copy](https://copy.ai/workflows/facebook-ad-copy-variations)
 
-![](https://assets-global.website-files.com/628288c5cd3e8411b90a36a4/658059e5c2ae3614d904ed7a_%2B200%20card-min.png)
+![](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/658059e5c2ae3614d904ed7a_%2B200%20card-min.png)
 
-[![](https://assets-global.website-files.com/628288c5cd3e8411b90a36a4/65f1c0c59b740c252dc46d1e_image%20(1).webp)
+[![](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/65f1c0c59b740c252dc46d1e_image%20(1).webp)
 
 Learn about the AI Sales OS
 
@@ -72,7 +72,7 @@ Summarizes a person's LinkedIn profile and recommends use cases](https://copy.ai
 
 Competitor Analysis: Uncover Their Value, Customer Sentiment and Winning Strategy](https://copy.ai/workflows/competitive-analysis-g2-review)
 
-![](https://assets-global.website-files.com/628288c5cd3e8411b90a36a4/658059e5c2ae3614d904ed7a_%2B200%20card-min.png)
+![](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/658059e5c2ae3614d904ed7a_%2B200%20card-min.png)
 
 Use cases
 
@@ -100,7 +100,7 @@ By Role
 
 Learn
 
-[Blog](https://copy.ai/blog)[Copy.ai Guides](https://copy.ai/guides)[Community](https://community.copy.ai/)[Webinars](https://copy.ai/webinars)[Workflow Tutorials](https://learn.copy.ai/)
+[Blog](https://copy.ai/blog)[Copy.ai Guides](https://copy.ai/guides)[Community](https://community.copy.ai/)[Webinars](https://copy.ai/webinars)[Workflow Tutorials](https://community.copy.ai/workflows-84/workflow-foundations-part-1-197)
 
 Get Support
 
@@ -136,11 +136,11 @@ Platform
 
 An all-in-one marketing solution, purpose-built to scale your campaigns.  
 
-![](https://assets-global.website-files.com/628288c5cd3e8411b90a36a4/657c415daadb6b6d8960c25a_mos-normal.svg)![](https://assets-global.website-files.com/628288c5cd3e8411b90a36a4/657c415d3f94c84212222d06_mos-hover.svg)](https://copy.ai/ai-marketing-os)[AI Sales OS
+![](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/657c415daadb6b6d8960c25a_mos-normal.svg)![](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/657c415d3f94c84212222d06_mos-hover.svg)](https://copy.ai/ai-marketing-os)[AI Sales OS
 
 An end-to-end solution for sales teams looking to crush quotas.  
 
-![](https://assets-global.website-files.com/628288c5cd3e8411b90a36a4/657c4dd2f1395352ac724369_sales-normal.svg)![](https://assets-global.website-files.com/628288c5cd3e8411b90a36a4/657c4dd2a818b0d862ef1e1c_sales-hover.svg)](https://copy.ai/ai-sales-os)
+![](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/657c4dd2f1395352ac724369_sales-normal.svg)![](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/657c4dd2a818b0d862ef1e1c_sales-hover.svg)](https://copy.ai/ai-sales-os)
 
 Platform overview
 
@@ -152,7 +152,7 @@ The only Enterprise AI solution you need to take your business to the next level
 
 AI Marketing OS
 
-[![](https://assets-global.website-files.com/628288c5cd3e8411b90a36a4/65f1c0b283a86af87f265384_image.webp)
+[![](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/65f1c0b283a86af87f265384_image.webp)
 
 Learn about the AI Marketing OS
 
@@ -176,11 +176,11 @@ Summarizes a person's LinkedIn profile and recommends use cases](https://copy.ai
 
 Given a target url and a persona, generate 4 variations of Facebook Ad copy](https://copy.ai/workflows/facebook-ad-copy-variations)
 
-![](https://assets-global.website-files.com/628288c5cd3e8411b90a36a4/658059e5c2ae3614d904ed7a_%2B200%20card-min.png)
+![](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/658059e5c2ae3614d904ed7a_%2B200%20card-min.png)
 
 AI Sales OS
 
-[![](https://assets-global.website-files.com/628288c5cd3e8411b90a36a4/65f1c0c59b740c252dc46d1e_image%20(1).webp)
+[![](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/65f1c0c59b740c252dc46d1e_image%20(1).webp)
 
 Learn about the AI Sales OS
 
@@ -200,7 +200,7 @@ Summarizes a person's LinkedIn profile and recommends use cases](https://copy.ai
 
 Competitor Analysis: Uncover Their Value, Customer Sentiment and Winning Strategy](https://copy.ai/workflows/competitive-analysis-g2-review)
 
-![](https://assets-global.website-files.com/628288c5cd3e8411b90a36a4/658059e5c2ae3614d904ed7a_%2B200%20card-min.png)
+![](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/658059e5c2ae3614d904ed7a_%2B200%20card-min.png)
 
 [Use Cases](#)
 
@@ -236,7 +236,7 @@ By Role
 
 Learn
 
-[Blog](https://copy.ai/blog)[Copy.ai Guides](https://copy.ai/guides)[Community](https://community.copy.ai/)[Webinars](https://copy.ai/webinars)[Workflow Tutorials](https://learn.copy.ai/)
+[Blog](https://copy.ai/blog)[Copy.ai Guides](https://copy.ai/guides)[Community](https://community.copy.ai/)[Webinars](https://copy.ai/webinars)[Workflow Tutorials](https://community.copy.ai/workflows-84/workflow-foundations-part-1-197)
 
 Get Support
 
@@ -538,7 +538,7 @@ To the extent provided for by local law and subject to applicable exceptions, in
 
 The following table provides additional information about the categories of Personal Data we collect and how we disclose that information. You can read more about the categories of Personal Data we collect in “Personal Data we collect” above, how we use Personal Data in “The purposes of use of the Personal Data” above, and how we retain Personal Data in “Data Retention and Deletion” below.
 
-![](https://assets-global.website-files.com/628288c5cd3e8411b90a36a4/651da9de23ff82a3d691d9c4_pp%20table.png)
+![](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/651da9de23ff82a3d691d9c4_pp%20table.png)
 
 We don’t “sell” Personal Data or “share” Personal Data for cross-contextual behavioral advertising (as those terms are defined under applicable local law). We also don’t process sensitive Personal Data for the purposes of inferring characteristics about a consumer.
 
@@ -643,7 +643,7 @@ By Role
 
 Learn
 
-[What is GTM AI?](https://copy.ai/blog/gtm-ai)[Blog](https://copy.ai/blog)[Copy.ai Community](https://community.copy.ai/)[Copy.ai Guides](https://copy.ai/guides)[Webinars](https://copy.ai/webinars)[Workflow Tutorials](https://learn.copy.ai/)[Security](https://copy.ai/security)[Careers](https://jobs.lever.co/CopyAI)[Tools (Chat Lib)](https://copy.ai/tools)[Press](https://copy.ai/press)
+[What is GTM AI?](https://copy.ai/blog/gtm-ai)[Blog](https://copy.ai/blog)[Copy.ai Community](https://community.copy.ai/)[Copy.ai Guides](https://copy.ai/guides)[Webinars](https://copy.ai/webinars)[Workflow Tutorials](https://community.copy.ai/workflows-84/workflow-foundations-part-1-197)[Security](https://copy.ai/security)[Careers](https://jobs.lever.co/CopyAI)[Tools (Chat Lib)](https://copy.ai/tools)[Press](https://copy.ai/press)
 
 Get Support
 
@@ -663,10 +663,10 @@ Get Support
 
 [Live Training](#)[Help Docs](https://support.copy.ai/)[Community](#)
 
-![](https://assets-global.website-files.com/628288c5cd3e8411b90a36a4/659e8fa99080372ee502cfcc_logo_white_kerning-fix.svg)
+![](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/659e8fa99080372ee502cfcc_logo_white_kerning-fix.svg)
 
 © 2024 CopyAI, Inc
 
 [Careers](https://jobs.lever.co/CopyAI)[Privacy Notice](https://copy.ai/privacy-notice)[Terms of Service](https://copy.ai/terms-of-service)[Status](https://status.copy.ai/)
 
-[![](https://assets-global.website-files.com/628288c5cd3e8411b90a36a4/656088bfb2e826ea15790b1b_Frame%20316126176.svg)](https://www.linkedin.com/company/copyai/)[![](https://assets-global.website-files.com/628288c5cd3e8411b90a36a4/656088bf82cf41a39803d531_Frame%20316126177.svg)](https://www.facebook.com/groups/887950931991543/)[![](https://assets-global.website-files.com/628288c5cd3e8411b90a36a4/65822605bd3609a56a231a75_x.svg)](https://www.twitter.com/copy_ai)
+[![](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/656088bfb2e826ea15790b1b_Frame%20316126176.svg)](https://www.linkedin.com/company/copyai/)[![](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/656088bf82cf41a39803d531_Frame%20316126177.svg)](https://www.facebook.com/groups/887950931991543/)[![](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/65822605bd3609a56a231a75_x.svg)](https://www.twitter.com/copy_ai)
