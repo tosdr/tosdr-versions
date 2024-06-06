@@ -1,0 +1,1 @@
+**We're sorry but qubewallet-app doesn't work properly without JavaScript enabled. Please enable it to continue.**
