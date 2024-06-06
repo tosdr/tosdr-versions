@@ -4,11 +4,11 @@
 
 ![cart-icon](https://a.storyblok.com/f/183125/36x37/f362efabc5/cart-icon.svg)](https://www.doctorbox.de/apo/cart)[![](https://a.storyblok.com/f/183125/18x18/ccdc95351a/login.svg?v15082023)](https://www.doctorbox.de/apo/mein-konto/login)
 
-* Meine App
-* Meine Heimtests
-* Meine Gesundheit
-* Unsere Firma
-* Unsere Partner
+* App
+* Gesundheitstest
+* Leistungen
+* Gesundheitsportal
+* Über uns
 
 [![Hilfe](https://a.storyblok.com/f/183125/18x18/06c83f484b/help-icon.svg?v15082023)](https://www.doctorbox.de/hilfe/)
 
