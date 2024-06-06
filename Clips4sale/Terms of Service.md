@@ -252,10 +252,6 @@ It is important to us that you and other visitors have the best experience while
     **The Platform is operated in the US by Tropical Sun Corp., 253 Main Street #222, Matawan, New Jersey 07747, and in the EEA/UK by Tropical Sun Ltd., Gladstonos & Evangelistrias, 1, Agathangelou Business Center, 3032, Limassol, Cyprus. You can write to us at the preceding addresses, email us at** [\[email protected\]](https://www.clips4sale.com/cdn-cgi/l/email-protection)**, or otherwise contact us through our support page at** [**https://www.clips4sale.com/clips/page/support**](https://www.clips4sale.com/clips/page/support)**. All notices of copyright infringement claims should be sent to the copyright agent designated in our** [**DMCA Policy**](https://www.clips4sale.com/en/clips/page/dmca) **in the manner and by the means set out in it.**
     
 
-Join thousands of Creators already selling on Clips4Sale and turn your passion into profit!
-
-[Learn More](https://www.clips4sale.com/clips/page/openastudio)
-
 Discover
 
 [Clips](https://www.clips4sale.com/clips/search)[Stores](https://www.clips4sale.com/clips/page/studios)[Categories](https://www.clips4sale.com/clips/categories)[C4S Blog](https://blog.clips4sale.com/b/)[Creator Login](https://admin.clips4sale.com/login/)
