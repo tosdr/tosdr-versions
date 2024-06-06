@@ -38,7 +38,7 @@ account
     * [Deals](https://faithgateway.com/collections/biblegateway-special-deals?utm_source=bg&utm_medium=referral&utm_campaign=nav_deals)
     * [More](https://faithgateway.com/?utm_source=bg&utm_medium=referral&utm_campaign=nav_more)
 
-[Love C.S. Lewis? Sign up for daily inspiration today!](https://www.biblegateway.com/landing/cslewis/?utm_source=bg&utm_medium=alert_mobile&utm_campaign=alert_cslewis20221006)
+[NOW AN EVEN BETTER VALUE in digital Bible study. Start for FREE.](https://www.biblegateway.com/plus/?utm_source=bg&utm_medium=alert_mobile&utm_campaign=bgplus_alert_value1010)
 
 close
 
