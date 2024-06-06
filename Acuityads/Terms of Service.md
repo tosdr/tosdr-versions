@@ -1,6 +1,6 @@
-Webinar: Gaining more creative ad units with social - May 21
+Partner Webinar: The cookieless marketing future with SVP Tony Vlismas - June 11
 
-[Sign up](https://illumin.com/insights/podcasts-webinars/webinar-social-is-outgrowing-the-walled-gardens/)
+[Register](https://www.rockerbox.com/webinars?utm_medium=referral&utm_source=partner&utm_campaign=illumin)
 
 [![logo](https://illumin.com/wp-content/themes/illumin/images/logo.svg)](https://illumin.com/)
 
@@ -29,9 +29,9 @@ Webinar: Gaining more creative ad units with social - May 21
         * [Guides](https://illumin.com/insights/guides/)
         * [Events](https://illumin.com/insights/events/)
         * [Podcasts & Webinars](https://illumin.com/insights/podcasts-webinars/)
-    * ![Brand Innovators - New Eras for Brands with a Legacy](https://illumin.com/wp-content/uploads/2024/05/BI-New-Eras-263x300.jpg)
+    * ![Voicing out on voice-activated ads](https://illumin.com/wp-content/uploads/2024/04/voice-activated-263x300.png)
         
-        Brand Innovators - New Eras for Brands with a Legacy[Read More](https://illumin.com/insights/events/brand-innovators-new-eras-for-brands-with-a-legacy/)
+        Voicing out on voice-activated ads[Read More](https://illumin.com/insights/blog/voicing-out-on-voice-activated-ads/)
         
 * [Company](#)
     * [Company](#)
@@ -57,7 +57,7 @@ Webinar: Gaining more creative ad units with social - May 21
         
 * [Request a Demo](https://illumin.com/product/request-a-demo/)
 
-[Sign In](https://illumin.acuityads.com/login/) [Sign In](https://illumin.acuityads.com/login/)
+[Sign In](https://illumin.acuityads.com/) [Sign In](https://illumin.acuityads.com/)
 
  ![illumin](https://illumin.com/wp-content/uploads/2023/03/case-study-banner-mobile@2x.png)
 
@@ -488,7 +488,7 @@ A platform that provides the perfect space for journey planning, execution, and 
 * [Technology Policy](https://illumin.com/legal/technology/)
 * [Data Subject Access Request](https://illumin.com/legal/subject-access-request/)
 * [Privacy Policy](https://illumin.com/legal/privacy/)
-* [Opt Out/Do Not Sell or Share My Info](https://privacy.acuityads.com/opt-out.html)
+* [Opt Out/Do Not Sell or Share My Info](https://illumin.com/opt-out.html)
 
 ![](https://www.facebook.com/tr?id=791746128738564&ev=PageView&noscript=1&cd%5Bpage_title%5D=Terms+and+Conditions&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=1682&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=illumin.com%2Flegal%2Fterms-and-conditions%2F)
 
