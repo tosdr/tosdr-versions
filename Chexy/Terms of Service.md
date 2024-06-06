@@ -203,7 +203,7 @@ All credit products and services included in the content on our Website or throu
   
 10.2 |Termination. Termination by Chexy. Chexy may, at any given time and in our sole discretion, terminate your access to the Services, in whole or in part, for any reason and at any time, upon electronic notice to you at your registered email address, including, but not limited to, violation of these Terms.  
   
-Notwithstanding the rights of Chexy to terminate your access to Services, Users and Creators may submit a request for the reasons as to why access was terminated to support@chexy.co.  
+Notwithstanding the rights of Chexy to terminate your access to Services, Users and Creators may submit a request for the reasons as to why access was terminated to [\[email protected\]](https://www.chexy.co/cdn-cgi/l/email-protection).  
   
 You agree that we are not liable to you or any third party for any termination of your access to our Services.  
   
@@ -235,7 +235,7 @@ Upon termination of your account, your right to use the Services will immediatel
 12\. Support
 ============
 
-12.1 | If you have any questions about these Terms, please contact us at support@chexy.co.
+12.1 | If you have any questions about these Terms, please contact us at [\[email protected\]](https://www.chexy.co/cdn-cgi/l/email-protection).
 
 ![](https://framerusercontent.com/images/QxdK4VugqG6hNAuVeBwoaVRgxo.png)
 
