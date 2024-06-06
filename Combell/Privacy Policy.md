@@ -36,6 +36,7 @@
     
     * [SSL certificates](https://www.combell.com/en/ssl-certificates "Purchase an SSL certificate.") for HTTPS
     * [Protect your brand online](https://www.combell.com/en/online-brand-protection "Online trademark protection by Combell")
+    * [Generate original domain names](https://www.combell.com/en/business-name-generator "Generate original domain names")
     
 * [Hosting](https://www.combell.com/en/hosting "Hosting")
     
@@ -232,6 +233,7 @@
     
     * [SSL certificates](https://www.combell.com/en/ssl-certificates "Purchase an SSL certificate.")
     * [Protect your brand online](https://www.combell.com/en/online-brand-protection "Online trademark protection by Combell")
+    * [Generate original domain names](https://www.combell.com/en/business-name-generator "Generate original domain names")
     
 * [Hosting](https://www.combell.com/en/hosting "Hosting")
     
