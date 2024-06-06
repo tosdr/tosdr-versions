@@ -15,6 +15,7 @@ Menu
         * [**FTIP™**FinTech Industry Professional](https://corporatefinanceinstitute.com/certifications/fintech-industry-professional/)
     * [Master a Specialization](#)
         * [CFI Specializations](#)
+        * [**Financial Planning & Analysis (FP&A)**](https://corporatefinanceinstitute.com/certifications/financial-planning-and-analysis-program/)
         * [**Environmental, Social, & Governance(ESG)**](https://corporatefinanceinstitute.com/certifications/environmental-social-governance-specialist/)
         * [**Leadership Effectiveness**](https://corporatefinanceinstitute.com/certifications/leadership-effectiveness-program/)
         * [**Data Analyst in Excel**](https://corporatefinanceinstitute.com/certifications/excel-data-analysis-specialist/)
@@ -176,6 +177,7 @@ Menu
     
 * [Specializations](#)
     
+    * [Financial Planning & Analysis (FP&A) Specialization](https://corporatefinanceinstitute.com/certifications/financial-planning-and-analysis-program/)
     * [Commercial Real Estate Finance Specialization](https://corporatefinanceinstitute.com/certifications/commercial-real-estate-finance-specialist/)
     * [Environmental, Social & Governance Specialization](https://corporatefinanceinstitute.com/certifications/environmental-social-governance-specialist/)
     * [Data Analysis in Excel Specialization](https://corporatefinanceinstitute.com/certifications/excel-data-analysis-specialist/)
@@ -298,7 +300,7 @@ Corporate Finance Institute® Privacy Policy
 
 Please read CFI's privacy policy.
 
-_Last Updated: January 23, 2023._
+_Last Updated: May 29, 2024._
 
 Your privacy is important to CFI Education Inc. (“**CFI**”). This Privacy Policy explains how CFI collects, uses, discloses, and retains personal information, including information collected through websites, blogs, apps (including but not limited to messaging services), and our correspondence with you (for example, by e-mail) and when providing you with our products and services.
 
@@ -349,6 +351,8 @@ CFI may automatically collect certain information regarding your use of CFI’s 
 CFI’s websites, email messages, and advertisements may use technologies (e.g. cookies, web beacons, tokens, pixels, or tags) to collect information that assists CFI to improve its products, services, customer communications, and advertising and to prevent fraud. CFI may use information collected through technological means to recognize you as a user of CFI’s websites, to facilitate and improve your use of CFI’s websites, to confirm that messages have been delivered to and opened by you, and to provide you with targeted advertisements. You may choose to decline or disable cookies in your web browser or device permits, but doing so may affect your ability to access or use certain features of a website. More information about cookies used for interest-based advertising is set out in section 4(c) below.
 
 Some of the information automatically collected by technological means is non-personal information (because the information does not identify you), and CFI will deal with that non-personal information as explained below in this Privacy Policy unless applicable law requires otherwise.
+
+CFI shall have a royalty-free, worldwide, transferable, sublicenseable, irrevocable, perpetual, unrestricted license to use or incorporate into the Services, any suggestions, enhancement requests, recommendations, or other feedback provided by you relating to the operation of the Services, including but not limited to beta offerings, or products or features that are provided at no cost.
 
 **(c)**            **Cookies**  
 Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the website’s or service provider’s systems to recognize your browser and capture and remember certain information. For instance, we may use cookies to help us remember and process the items in your shopping cart and to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We may also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. [Find out more about how to manage cookies](https://allaboutcookies.org/how-to-manage-cookies).
@@ -547,7 +551,7 @@ Read all of [CFI’s Legal Information](https://corporatefinanceinstitute.com/a
     * [What’s New](https://corporatefinanceinstitute.com/whats-new/)
     * [NetLearnings](https://corporatefinanceinstitute.com/shows/net-learnings/)
     * [Resources](https://corporatefinanceinstitute.com/resources/)
-    * [Podcast](https://podcast.corporatefinanceinstitute.com/)
+    * [Podcast](https://corporatefinanceinstitute.com/resources/finpod/)
 
 [Logo](https://corporatefinanceinstitute.com/about-cfi/about-macabacus/) 
 
@@ -582,7 +586,7 @@ Read all of [CFI’s Legal Information](https://corporatefinanceinstitute.com/a
 
 0 search results for ‘’
 
-People also search for: Free courses excel esg accounting Financial analysis TEMPLATE real estate
+People also search for: excel esg Free courses accounting private equity fmva Free
 
 Explore Our Certifications
 
@@ -612,7 +616,7 @@ Resources
 
 Popular Courses
 
- [Free! FMVA® Prep Course 3.5h Excel Fundamentals - Formulas for Finance](https://corporatefinanceinstitute.com/course/excel-fundamentals-formulas-for-finance/)
+ [FMVA® Prep Course 3.5h Excel Fundamentals - Formulas for Finance](https://corporatefinanceinstitute.com/course/excel-fundamentals-formulas-for-finance/)
 
  [FMVA® Required 6.5h 3-Statement Modeling](https://corporatefinanceinstitute.com/course/3-statement-modeling/)
 
