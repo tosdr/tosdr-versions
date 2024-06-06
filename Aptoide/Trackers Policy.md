@@ -23,7 +23,7 @@ Billing Terms of Use of Aptoide S.A - DT GamesHub
 Terms of Service
 ================
 
-Last updated on November 2020
+Last updated on May 2024
 
 1. 1\. Your Relationship with Aptoide
     ==================================
@@ -53,31 +53,35 @@ Last updated on November 2020
     
     1. By creating a user account for one of the Services provided by Aptoide, you will have automatic access to all other Services made available by Aptoide by logging-in into such Services using your account details (username and password). As referred above, the use of each specific Service may be subject to specific Terms which you will have to accept and comply with in order to use such Service.
     2. Aptoide Services enable you to access, browse, download and purchase applications and other digital products for devices running the Android operative system ("Apps"). Apps include any content, ads, services, technology, data, in-app products and other digital materials included in or made available through an App (including after you download it). Apps also include any updates, upgrades and other changes and versions that you later use or download from us. The party that provides an App to us for distribution is the "Developer" of the App, which may be the developer, owner or - the person authorised to distribute such App.
-    3. Aptoide may have subsidiaries and affiliated legal entities around the world ("Subsidiaries and Affiliates"). Sometimes, these companies will be providing the Services to you on behalf of Aptoide. You acknowledge and agree that Subsidiaries and Affiliates will be entitled to provide the Services to you.
-    4. Aptoide is constantly innovating in order to provide the best possible experience for its users. You acknowledge and agree that the form and nature of the Services which Aptoide provides may change from time to time without prior notice to you.
-    5. As part of this continuing innovation, you acknowledge and agree that Aptoide may stop (permanently or temporarily) providing the Services (or any features within the Services) to you or to users generally at Aptoide’s sole discretion, without prior notice to you. You may stop using the Services at any time. You do not need to specifically inform Aptoide when you stop using the Services.
-    6. The software which you use to have access to the Services may automatically download and install updates from time to time from Aptoide. These updates are designed to improve, enhance and further develop the Services and may take the form of bug fixes, enhanced functions, new software modules and completely new versions. You agree to receive such updates (and permit Aptoide to deliver these to you) as part of your use of the Services.
-    7. You acknowledge and agree that if Aptoide disables access to your account, you may be prevented from accessing the Services, your account details or any files or other content which is contained in your account.
-    8. You acknowledge and agree that while Aptoide may not currently have set a fixed upper limit on the number of transmissions you may send or receive through the Services or on the amount of storage space used for the provision of any Service, such fixed upper limits may be set by Aptoide at any time, at Aptoide’s discretion.
+    3. Aptoide is constantly innovating in order to provide the best possible experience for its users. You acknowledge and agree that the form and nature of the Services which Aptoide provides may change from time to time without prior notice to you.
+    4. As part of this continuing innovation, you acknowledge and agree that Aptoide may stop (permanently or temporarily) providing the Services (or any features within the Services) to you or to users generally at Aptoide’s sole discretion, without prior notice to you. You may stop using the Services at any time. You do not need to specifically inform Aptoide when you stop using the Services.
+    5. The software which you use to have access to the Services may automatically download and install updates from time to time from Aptoide. These updates are designed to improve, enhance and further develop the Services and may take the form of bug fixes, enhanced functions, new software modules and completely new versions. You agree to receive such updates (and permit Aptoide to deliver these to you) as part of your use of the Services.
+    6. You acknowledge and agree that if Aptoide disables access to your account, you may be prevented from accessing the Services, your account details or any files or other content which is contained in your account.
+    7. You acknowledge and agree that while Aptoide may not currently have set a fixed upper limit on the number of transmissions you may send or receive through the Services or on the amount of storage space used for the provision of any Service, such fixed upper limits may be set by Aptoide at any time, at Aptoide’s discretion.
 5. 5\. Your passwords and account security
     =======================================
     
     1. You agree and understand that you are responsible for maintaining the confidentiality of passwords associated with any account you use to access the Services.
     2. Accordingly, you agree that you will be solely responsible to Aptoide for all activities that occur under your account.
     3. If you become aware of any unauthorized use of your password or of your account, you agree to notify Aptoide immediately at [support@aptoide.com](mailto:support@aptoide.com).
-6. 6\. Access to Apps
-    ==================
+6. 6\. Purchase of Apps and In-App Products
+    ========================================
     
     1. Apps may include offers for digital products that are intended to be accessed or used within an App, such as additional or enhanced functionality, media content, or subscription access to content or services ("In-App Products").
-    2. The Apps or In-App Products available via the Aptoide Services are provided by the Developer, who determines if they are made available at no charge or for a price. The Apps or In-App Products are sold to you by the Developer. When you complete a purchase using Aptoide Services, Aptoide acts in the capacity of an authorized commercial agent of the Developer to conclude the sale of the App or the In-App Product. Aptoide is not a party to, and has no responsibility for any payment or purchase transactions you make through an App.
-    3. Once you have purchased an App or an In-App Product, we encourage you to download (if applicable) and access it promptly to be sure you have received it. If you are unable to complete a download or access an App or an In-App Product, please contact Aptoide customer service for assistance. You bear responsibility for completing the download (if applicable) and for all risk of loss after downloading or accessing the App or the In-App Product, including any loss due to a mobile device malfunction. We will only accept refund requests made within 24 hours after a purchase.
-    4. The Developer of an App may provide an End-User License Agreement ("Developer’s EULA") with any App. Aptoide does not have any responsibility or liability related to compliance or non-compliance by you or the Developer under a Developer’s EULA. If the Developer does not make available a Developer’s EULA, the following will constitute the entire EULA between the Developer and you (the "Standard EULA"):
+    2. The Apps or In-App Products available via the Aptoide Services are provided by the Developer, who determines if they are made available at no charge or for a price. Prices and availability of all Apps and In-App Products displayed in the Aptoide App Store are subject to change at ay time prior to purchase.
+    3. When you buy Apps or In-App Products in the Aptoide App Store, you will enter into a separate sales agreement based on the Terms with the seller, which may be:
+        1. Aptoide; or
+        2. the Developer, including where Aptoide is acting in the capacity of an authorized commercial agent of the Developer, case in which Aptoide has no responsibility for any payment or purchase transactions you make through an App.
+    4. Once you have purchased an App or an In-App Product, we encourage you to download (if applicable) and access it promptly to be sure you have received it. If you are unable to complete a download or access an App or an In-App Product, please contact Aptoide customer service for assistance. You bear responsibility for completing the download (if applicable) and for all risk of loss after downloading or accessing the App or the In-App Product, including any loss due to a mobile device malfunction.
+    5. You are responsible for any taxes (other than income tax) and must pay for Apps or In-App Products without any reduction of taxes. If Aptoide is obligated to collect or pay taxes, the taxes will be charged to you. You must comply with any and all applicable tax laws, including the reporting and payment of any taxes arising in connection with your use of Aptoide App Store or the purchase of Apps or In-App Products on or through Aptoide App Store. The reporting and payment of any such applicable taxes are your responsibility.
+    6. All sales are final. As a courtesy, and only in case the purchase of the App or the In-App Product was made accidentaly, you can request a refund provided that the request is made within 2 hours since you bough the App or the In-App Product If you are purchasing Apps or In-App Products as a consumer, under the law you have an automatic statutory right of withdrawal from contracts for purchases of digital content on Aptoide App Store. However, when you make a purchase of digital content on Aptoide App Store you agree that the digital content will be available to you immediately, and you acknowledge that, as a result, you waive your automatic statutory right of withdrawal. If you find an Aptoide App Store purchase on your card or other payment method that you didn’t make and wasn’t made by anyone you know, you shall report it to your bank to initiate a chargeback procedure. In case chargeback is granted, the sale may be reversed and you will no longer have access to the App or In-App Product that you bought.
+    7. The Developer of an App may provide an End-User License Agreement ("Developer’s EULA") with any App. Aptoide does not have any responsibility or liability related to compliance or non-compliance by you or the Developer under a Developer’s EULA. If the Developer does not make available a Developer’s EULA, the following will constitute the entire EULA between the Developer and you (the "Standard EULA"):
         1. The Developer is the licensor of the App.
         2. If the App does not include a Developer’s EULA that specifies license rights, Developer grants the end user a limited, non-transferable license to download and use the App only for personal and non-commercial purposes.
         3. You may not modify, reverse engineer, decompile or disassemble the App in whole or in part, or create any derivative works from or sublicense any rights in the App, unless otherwise expressly authorized in writing by Developer.
         4. The App is protected by copyright and other intellectual property laws and treaties. Unless otherwise expressly stated in the Developer’s EULA, Developer or its licensors own all title, copyright and other intellectual property rights in the App, and the App is licensed, not sold.
         5. The end user acknowledges and agrees that Aptoide has no responsibility or liability with respect to your use of the App or any content or functionality in the App.
-    5. If there are any conflicts between the Developer’s EULA and the Standard EULA, then to the extent of such conflict, the Standard EULA will control.
+    8. If there are any conflicts between the Developer’s EULA and the Standard EULA, then to the extent of such conflict, the Standard EULA will control.
 7. 7\. Use of the Services by You
     ==============================
     
@@ -115,17 +119,8 @@ Last updated on November 2020
         5. create a spammy user experience, whether by posting repetitive content or misleading information about an App's purpose.
     5. In case Aptoide detects Content that does not comply with these Terms, Aptoide may, without prejudice of Aptoide’s rights to terminate any agreement with you, remove or disable access to such Content.
     6. We may report any activity that we suspect violates any law or regulation to appropriate law enforcement officials, regulators, or other appropriate third parties. Our reporting may include disclosing appropriate user information. We also may cooperate with appropriate law enforcement agencies, regulators, or other appropriate third parties to help with the investigation and prosecution of illegal conduct related to alleged violations of these Terms.
-9. 9\. AppCoins
-    ============
-    
-    1. Aptoide has developed an open and distributed protocol for App Stores based on the Ethereum blockchain and smart contracts, under which a specific cryptocurrency was created and issued: AppCoins tokens (“AppCoins”). AppCoins are ERC-20 compatible tokens distributed on the Ethereum blockchain pursuant to a related ERC-20 smart contract. AppCoins are meant for use in the AppCoins blockchain platform to perform transactions in the App store ecosystem.
-    2. You can acquire AppCoins and then use them to purchase Apps and In-App Products made available by Aptoide through the Services. For such effect, you shall keep and maintain a valid a digital wallet which supports AppCoins and which allow you to conclude transactions in the Services by paying in AppCoins (a “Wallet Account”). The use of the Wallet Account is subject to specific terms and conditions, which are made available to you when you access the AppCoins Wallet App.
-    3. You understand and agree that all amounts that shall be paid to you by Aptoide will be paid in AppCoins.
-    4. The prices of the products will be displayed in AppCoins and, in some cases, also in your native currency. Aptoide is not responsible for the accuracy of currency rates or conversion.
-    5. If you intend so, you may exchange AppCoins to other currencies. You are solely responsible for the exchange of AppCoins into any other currency and you will support all costs and taxes related with such conversion.
-    6. You undertake to keep valid a Wallet Account which is able to conclude transactions in AppCoins. You are also solely responsible to provide Aptoide or the Developers responsible for making available the Apps and the In-App Products, with the accurate Wallet Account address.
-10. 10\. Content in the Services
-    ============================
+9. 9\. Content in the Services
+    ===========================
     
     1. You understand that all information (such as data files, written text, computer software, music, audio files or other sounds, photographs, videos or other images) which you may have access to as part of, or through your use of, the Services are the sole responsibility of the person from which such content originated. All such information is referred to below as the “Content”.
     2. You should be aware that Content presented to you as part of the Services, including but not limited to Apps, advertisements in the Services and sponsored Content within the Services may be protected by intellectual property rights which are owned by the Developer, sponsors or advertisers who provide that Content to Aptoide (or by other persons or companies on their behalf). You may not modify, rent, lease, loan, sell, distribute or create derivative works based on this Content (either in whole or in part) unless you have been specifically told that you may do so by Aptoide or by the owners of that Content, in a separate agreement.
@@ -147,12 +142,12 @@ Last updated on November 2020
         7. Deliver this Notice, with all items completed, to Aptoide’s Designated Copyright Agent:
             1. Copyright Agent: Aptoide Team Organization: Aptoide, S.A. Address: Rua Soeiro Pereira Gomes, Lote 1, 3D, 1649-031 Lisboa, Portugal E-mail: [abuse.report@aptoide.com](mailto:abuse.report@aptoide.com?subject=Abuse%20Report) Telephone: +351 913423006
             2. We may, in appropriate circumstances, disable or terminate the accounts of users who may be repeat infringers. This process does not limit our ability to pursue any other remedies we may have to address suspected infringement.
-11. 11\. Personal Data
+10. 10\. Personal Data
     ==================
     
     1. In order to access certain Services, you may be required to provide information about yourself (such as identification or contact details), or we may collect such information as part of the registration process for the Service, or as part of your continued use of the Services. You agree that any registration information you give to Aptoide will always be accurate, correct and up to date. For more information about the collection, processing and storing of your personal data, please consult our Privacy Notice, available [here](https://en.aptoide.com/company/legal?section=privacy).
     2. You also agree that the information collected, processed and stored by Aptoide in relation to you may be used by Aptoide as a consideration of the provision of Services to you.
-12. 12\. Proprietary rights
+11. 11\. Proprietary rights
     =======================
     
     1. You acknowledge and agree that Aptoide (or Aptoide’s licensors) own all legal right, title and interest in and to the Services, including any intellectual property rights which subsist in the Services (whether those rights happen to be registered or not, and wherever in the world those rights may exist). You further acknowledge that the Services may contain information which is designated confidential by Aptoide and that you shall not disclose such information without Aptoide’s prior written consent.
@@ -161,24 +156,24 @@ Last updated on November 2020
     4. Other than the limited license set forth in Section 10, Aptoide acknowledges and agrees that it obtains no right, title or interest from you (or your licensors) under these Terms in or to any Content that you submit, post, transmit or display on, or through, the Services, including any intellectual property rights which subsist in that Content (whether those rights happen to be registered or not, and wherever in the world those rights may exist). Unless you have agreed otherwise in writing with Aptoide, you agree that you are responsible for protecting and enforcing those rights and that Aptoide has no obligation to do so on your behalf.
     5. You agree that you shall not remove, obscure, or alter any proprietary rights notices (including copyright and trade mark notices) which may be affixed to or contained within the Services.
     6. Unless you have been expressly authorised to do so in writing by Aptoide, you agree that in using the Services, you will not use any trademark, service mark, trade name, logo of any company or organization in a way that is likely or intended to cause confusion about the owner or authorised user of such marks, names or logos.
-13. 13\. License from Aptoide
+12. 12\. License from Aptoide
     =========================
     
     1. Aptoide gives you a personal, worldwide, royalty-free, non-assignable and non-exclusive licence to use the software provided to you by Aptoide as part of the Services as provided to you by Aptoide (referred to as the “Software” below). This licence is for the sole purpose of enabling you to use and enjoy the benefit of the Services as provided by Aptoide, in the manner permitted by the Terms.
     2. You may not (and you may not permit anyone else to) copy, modify, create a derivative work of, reverse engineer, decompile or otherwise attempt to extract the source code of the Software or any part thereof, unless this is expressly permitted or required by law, by an open source license in Software being distributed according with such license or unless you have been specifically told that you may do so by Aptoide, in writing.
     3. Unless Aptoide has given you specific written permission to do so, you may not assign (or grant a sub-licence of) your rights to use the Software, grant a security interest in or over your rights to use the Software, or otherwise transfer any part of your rights to use the Software.
-14. 14\. Content license from you
+13. 13\. Content license from you
     =============================
     
     1. You retain copyright and any other rights you already hold in Content which you submit, post or display on or through, the Services. By submitting, posting or displaying the content you give Aptoide a perpetual, irrevocable, worldwide, royalty-free, and non-exclusive license to reproduce, adapt, modify, translate, publish, publicly perform, publicly display and distribute any Content which you submit, post or display on or through, the Services. This license is for the sole purpose of enabling Aptoide to display, distribute and promote the Services and may be revoked for certain Services as defined in the Additional Terms of those Services.
     2. You agree that this licence includes a right for Aptoide to make such Content available to other companies, organizations or individuals with whom Aptoide has relationships for the provision of syndicated services, and to use such Content in connection with the provision of those services.
     3. You understand that Aptoide, in performing the required technical steps to provide the Services to our users, may: (a) transmit or distribute your Content over various public networks and in various media; and (b) make such changes to your Content as are necessary to conform and adapt that Content to the technical requirements of connecting networks, devices, services or media. You agree that this licence shall permit Aptoide to take these actions.
     4. You confirm and warrant to Aptoide that you have all the rights, power and authority necessary to grant the above licence.
-15. 15\. Ending your relationship with Aptoide
+14. 14\. Ending your relationship with Aptoide
     ==========================================
     
     1. The Terms will continue to apply until terminated by either you or Aptoide as set out below.
-    2. If you want to terminate your legal agreement with Aptoide, you may do so by: (a) notifying Aptoide at any time, by sending a notice to the e-mail address [support@aptoide.com](mailto:support@aptoide.com), and (b) closing your accounts for all of the Services which you use, by sending a notice to the e-mail address [personal-data@aptoide.com](mailto:personal-data@aptoide.com).
+    2. If you want to terminate your legal agreement with Aptoide, you may do so by: (a) notifying Aptoide at any time, by sending a notice to the e-mail address [support@aptoide.com](mailto:support@aptoide.com), and (b) closing your accounts for all of the Services which you use, by sending a notice to the e-mail address [support@aptoide.com](mailto:personal-data@aptoide.com).
     3. Aptoide may at any time, terminate its legal agreement with you if:
         1. You have breached any provision of the Terms (or have acted in manner which clearly shows that you do not intend to, or are unable to comply with the provisions of the Terms); or
         2. Aptoide is required to do so by law (for example, where the provision of the Services to you is, or becomes, unlawful); or
@@ -187,7 +182,7 @@ Last updated on November 2020
         5. The provision of the Services to you by Aptoide is, in Aptoide’s opinion, no longer commercially viable.
     4. Nothing in this Section shall affect Aptoide’s rights regarding provision of Services under Section 4 of the Terms.
     5. When these Terms come to an end, all legal rights, obligations and liabilities that you and Aptoide have benefited from, been subject to (or which have accrued over time whilst the Terms have been in force) or which are expressed to continue indefinitely, shall be unaffected by this cessation.
-16. 16\. EXCLUSION OF WARRANTIES
+15. 15\. EXCLUSION OF WARRANTIES
     ============================
     
     1. NOTHING IN THESE TERMS, INCLUDING SECTIONS 13 AND 14, SHALL EXCLUDE OR LIMIT APTOIDE’S WARRANTY OR LIABILITY FOR LOSSES WHICH MAY NOT BE LAWFULLY EXCLUDED OR LIMITED BY APPLICABLE LAW. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF CERTAIN WARRANTIES OR CONDITIONS OR THE LIMITATION OR EXCLUSION OF LIABILITY FOR LOSS OR DAMAGE CAUSED BY NEGLIGENCE, BREACH OF CONTRACT OR BREACH OF IMPLIED TERMS, OR INCIDENTAL OR CONSEQUENTIAL DAMAGES. ACCORDINGLY, ONLY THE LIMITATIONS WHICH ARE LAWFUL IN YOUR JURISDICTION WILL APPLY TO YOU AND OUR LIABILITY WILL BE LIMITED TO THE MAXIMUM EXTENT PERMITTED BY LAW.
@@ -200,10 +195,10 @@ Last updated on November 2020
     4. ANY MATERIAL DOWNLOADED OR OTHERWISE OBTAINED THROUGH THE USE OF THE SERVICES IS DONE AT YOUR OWN DISCRETION AND RISK AND THAT YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR COMPUTER SYSTEM OR OTHER DEVICE OR LOSS OF DATA THAT RESULTS FROM THE DOWNLOAD OF ANY SUCH MATERIAL.
     5. NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED BY YOU FROM APTOIDE OR THROUGH OR FROM THE SERVICES SHALL CREATE ANY WARRANTY NOT EXPRESSLY STATED IN THE TERMS.
     6. APTOIDE FURTHER EXPRESSLY DISCLAIMS ALL WARRANTIES AND CONDITIONS OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO THE IMPLIED WARRANTIES AND CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
-17. 17\. LIMITATION OF LIABILITY
+16. 16\. LIMITATION OF LIABILITY
     ============================
     
-    1. SUBJECT TO OVERALL PROVISION IN PARAGRAPH 15.1 ABOVE, YOU EXPRESSLY UNDERSTAND AND AGREE THAT APTOIDE, ITS SUBSIDIARIES AND AFFILIATES, AND ITS LICENSORS SHALL NOT BE LIABLE TO YOU FOR:
+    1. TO THE MAXIMUM EXTENT PERMITTED BY LAW, SUBJECT TO OVERALL PROVISION IN PARAGRAPH 15.1 ABOVE, YOU EXPRESSLY UNDERSTAND AND AGREE THAT APTOIDE, ITS SUBSIDIARIES AND AFFILIATES, AND ITS LICENSORS SHALL NOT BE LIABLE TO YOU FOR:
         1. ANY INDIRECT, INCIDENTAL, SPECIAL CONSEQUENTIAL OR EXEMPLARY DAMAGES WHICH MAY BE INCURRED BY YOU, HOWEVER CAUSED AND UNDER ANY THEORY OF LIABILITY. THIS SHALL INCLUDE, BUT NOT BE LIMITED TO, ANY LOSS OF PROFIT (WHETHER INCURRED DIRECTLY OR INDIRECTLY), ANY LOSS OF GOODWILL OR BUSINESS REPUTATION, ANY LOSS OF DATA SUFFERED, COST OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES, OR OTHER INTANGIBLE LOSS;
         2. ANY LOSS OR DAMAGE WHICH MAY BE INCURRED BY YOU, INCLUDING BUT NOT LIMITED TO LOSS OR DAMAGE AS A RESULT OF:
             1. ANY RELIANCE PLACED BY YOU ON THE COMPLETENESS, ACCURACY OR EXISTENCE OF ANY ADVERTISING, OR AS A RESULT OF ANY RELATIONSHIP OR TRANSACTION BETWEEN YOU AND ANY ADVERTISER OR SPONSOR WHOSE ADVERTISING APPEARS ON THE SERVICES;
@@ -212,18 +207,18 @@ Last updated on November 2020
             4. THE DELETION OF, CORRUPTION OF, OR FAILURE TO STORE, ANY CONTENT AND OTHER COMMUNICATIONS DATA MAINTAINED OR TRANSMITTED BY OR THROUGH YOUR USE OF THE SERVICES;
             5. YOUR FAILURE TO PROVIDE APTOIDE WITH ACCURATE ACCOUNT INFORMATION;(V) YOUR FAILURE TO KEEP YOUR PASSWORD OR ACCOUNT DETAILS SECURE AND CONFIDENTIAL.
     2. THE LIMITATIONS ON APTOIDE’S LIABILITY TO YOU IN PARAGRAPH 16.1 ABOVE SHALL APPLY WHETHER OR NOT APTOIDE HAS BEEN ADVISED OF OR SHOULD HAVE BEEN AWARE OF THE POSSIBILITY OF ANY SUCH LOSSES ARISING.
-18. 18\. Advertisements
+17. 17\. Advertisements
     ===================
     
     1. Some of the Services are supported by advertising revenue and may display advertisements and promotions. These advertisements may be targeted to the content of information stored on the Services, queries made through the Services or other information. For more information about targeted advertisements, please consult our Privacy Notice.
     2. The manner, mode and extent of advertising by Aptoide on the Services are subject to change without specific notice to you.
-19. 19\. Other content
+18. 18\. Other content
     ==================
     
     1. The Services may include hyperlinks to other web sites or content or resources. Aptoide may have no control over any web sites or resources which are provided by companies or persons other than Aptoide.
     2. You acknowledge and agree that Aptoide is not responsible for the availability of any such external sites or resources, and does not endorse any advertising, products or other materials on or available from such web sites or resources.
     3. You acknowledge and agree that Aptoide is not liable for any loss or damage which may be incurred by you as a result of the availability of those external sites or resources, or as a result of any reliance placed by you on the completeness, accuracy or existence of any advertising, products or other materials on, or available from, such web sites or resources.
-20. 20\. General legal terms
+19. 19\. General legal terms
     ========================
     
     1. Sometimes when you use the Services, you may (as a result of, or through your use of the Services) use a service or download a piece of software, or purchase goods, which are provided by another person or company. Your use of these other services, software or goods may be subject to separate terms between you and the company or person concerned. If so, the Terms do not affect your legal relationship with these other companies or individuals.
@@ -248,22 +243,6 @@ Aptoide App Store[FAQs](https://en.aptoide.com/company/faq)[Support](https://apt
 
 [Legal Informations](https://en.aptoide.com/company/legal)[Cookie Policy](https://en.aptoide.com/company/legal?section=cookie)[Privacy Policy](https://en.aptoide.com/company/legal?section=privacy)[Report DMCA](https://aptoide.zendesk.com/hc/en-us/requests/new?tf_24177375=sto_dev_dmca)
 
-Aptoide S.A[The Company](https://en.aptoide.com/)[Products](https://en.aptoide.com/company/our-products)[About us](https://en.aptoide.com/company/about-us)[Careers](https://careers.aptoide.com/)
+Aptoide S.A[The Company](https://en.aptoide.com/company/)[Products](https://en.aptoide.com/company/our-products)[About us](https://en.aptoide.com/company/about-us)[Careers](https://careers.aptoide.com/)
 
-Aptoide S.A Products[Aptoide App Store](https://en.aptoide.com/company)[Aptoide for iOS](https://ios.store.aptoide.com/)[Aptoide TV](https://tv.aptoide.com/)[Catappult](https://catappult.io/)[AppCoins Wallet](https://wallet.appcoins.io/)[e-Skills](https://en.aptoide.com/company/our-products/e-skills)
-
-![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+)
-
-![aptoide-cookie-logo](/company/static/images/aptoide-logo.svg)
-
-![aptoide-cookie-logo](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-
-Cookie Preferences
-
-We use cookies to personalise content, to provide social media features and to analyse our traffic. We also share information about how you use our site with our social media and analytics partners who may combine it with other information that you may have already provided to them or that they've collected from your use of their services. You can accept these cookies by clicking on "Allow All" or you can choose which ones you want to install by clicking on "Manage Cookies".
-
-Manage Cookies
-
-Decline All
-
-Allow All
+Aptoide S.A Products[Aptoide App Store](https://en.aptoide.com/company)[Aptoide for iOS](https://ios.store.aptoide.com/en)[Aptoide TV](https://tv.aptoide.com/)[Catappult](https://catappult.io/)[AppCoins Wallet](https://wallet.appcoins.io/)[e-Skills](https://en.aptoide.com/company/our-products/e-skills)
