@@ -156,14 +156,14 @@ This document was last updated on January 1, 2014
 
 * Recent:
 
-* ![AeroBase Group, Inc.](/public/images/140xNxlogo.png.pagespeed.ic.on3YSwSbvO.png "AeroBase Group, Inc. Logo")
+* ![AeroBase Group, Inc.](/public/images/logo.png "AeroBase Group, Inc. Logo")
 * ISO 9001:2015 + AS9120B Phone: 1 (321) 802-5889  
     Fax: 1 (321) 733-7477
     
     3555 Agricultural Center Dr.  
     St. Augustine, FL  32092
     
-     [![facebook](/public/images/social/xfacebook.png.pagespeed.ic.X5PbMiXunI.png "Connect on facebook")](https://facebook.com/AeroBaseGroup)[![twitter](/public/images/social/xtwitter.png.pagespeed.ic.uP_XWz6uhv.png "Connect on twitter")](https://twitter.com/aerobasegroup)[![linkedin](/public/images/social/xlinkedin.png.pagespeed.ic.jlFzLPVQZ9.png "Connect on LinkedIn")](https://www.linkedin.com/company/aerobase-group-inc/about/)[![YouTube](/public/images/social/24xNxyoutube.png.pagespeed.ic.FFKLi-lyj0.png "Watch on YouTube")](https://www.youtube.com/user/AeroBaseGroup/)
+     [![facebook](/public/images/social/facebook.png "Connect on facebook")](https://facebook.com/AeroBaseGroup)[![twitter](/public/images/social/twitter.png "Connect on twitter")](https://twitter.com/aerobasegroup)[![linkedin](/public/images/social/linkedin.png "Connect on LinkedIn")](https://www.linkedin.com/company/aerobase-group-inc/about/)[![YouTube](/public/images/social/youtube.png "Watch on YouTube")](https://www.youtube.com/user/AeroBaseGroup/)
     
 
 * **Company**
@@ -196,40 +196,40 @@ This document was last updated on January 1, 2014
 * [Recently Updated RSS](https://aerobasegroup.com/rss/)
 * [New Images RSS](https://aerobasegroup.com/rss-images/)
 
-[![ISO 9001:2015 + AS9120B Certified Supplier](https://aerobasegroup.com/public/images/Nx140xAS9120_ISO_9001.png.pagespeed.ic.nX4Ln2t01K.png "ISO 9001:2015 + AS9120B")](https://aerobasegroup.com/quality)
+[![ISO 9001:2015 + AS9120B Certified Supplier](https://aerobasegroup.com/public/images/AS9120_ISO_9001.png "ISO 9001:2015 + AS9120B")](https://aerobasegroup.com/quality)
 
 #### Defense News
 
-* [US Air Force stages dogfights with AI-flown fighter jet](https://www.defensenews.com/air/2024/04/19/us-air-force-stages-dogfights-with-ai-flown-fighter-jet/)  
-    04/19/24 04:57pm  
+* [Germany leans into Eurofighter with new order of 20 jets](https://www.defensenews.com/global/europe/2024/06/05/germany-leans-into-eurofighter-with-new-order-of-20-jets/)  
+    06/05/24 01:42pm  
     
-    The U.S. Air Force Test Pilot School's X-62A VISTA jet -- a heavily modified F-16 fighter that can fly autonomously -- carried out the first ever dogfights with an artificial intelligence-flown jet last September. The service and DARPA hope it will help build trust in autonomous flight and lead to the creation of aircraft such as Collaborative Combat Aircraft. (Alex Lloyd/Air Force)
+    German Chancellor Olaf Scholz, center, walks past a Eurofighter Typhoon fighter jet as he chats with Airbus CEO Guillaume Faury, left, at the Berlin Air Show on June 5, 2024. (Sean Gallup/Getty Images)
     
-* [Nigeria expects first batch of Leonardo M-346 fighter jets this year](https://www.defensenews.com/global/europe/2024/04/19/nigeria-expects-first-batch-of-leonardo-m-346-fighter-jets-this-year/)  
-    04/19/24 12:12pm  
+* [Proposed House spending bill would add more F-35s](https://www.defensenews.com/air/2024/06/04/proposed-house-spending-bill-would-add-more-f-35s/)  
+    06/04/24 04:40pm  
     
-    Italian firm Leonardo produces the M-346 trainer jet and a fighter attack version. (Courtesy of Leonardo)
+    The House Appropriations Committee's proposed defense spending bill would allow the military to buy eight more F-35 Joint Strike Fighters than it originally planned in 2025. This differs from the House's proposed National Defense Authorization Act, which would cut F-35 purchases by at least 10. (Senior Airman Zachary Rufus/Air Force)
     
-* [India proffers HAL its largest-ever tender: 97 Tejas fighters](https://www.defensenews.com/global/asia-pacific/2024/04/19/india-proffers-hal-its-largest-ever-tender-97-tejas-fighters/)  
-    04/19/24 11:32am  
+* [For stealth bomber pilots, a new test in agility](https://www.defensenews.com/news/your-air-force/2024/06/04/for-stealth-bomber-pilots-a-new-test-in-agility/)  
+    06/04/24 07:00am  
     
-    An Indian Air Force Tejas rolls inverted during its aerial display at the 2022 Singapore Airshow. (Mike Yeo/Staff)
+    U.S. Air Force Maj. Bo Bateman (left), 393rd Bomb Squadron B-2 Spirit pilot, carries a grounding-cable while preparing to refuel his aircraft at Offutt Air Force Base, Neb., May 28, 2024. (Master Sgt. Kenneth W. Norman/Air Force)
     
-* [From customer to sanctioned ‘proliferator,’ drones extend Iran’s reach](https://www.defensenews.com/unmanned/2024/04/19/from-customer-to-sanctioned-proliferator-drones-extend-irans-reach/)  
-    04/19/24 11:13am  
+* [DIU, Air Force pick four firms to prototype modular testing drone](https://www.defensenews.com/air/2024/06/03/diu-air-force-pick-four-firms-to-prototype-modular-testing-drone/)  
+    06/03/24 01:33pm  
     
-    A truck carries Iranian drones during an annual military parade in Tehran on Sept. 22, 2023. (AFP/Getty Images)
+    The Defense Innovation Unit and Air Force Armament Directorate have selected four companies to prototype a modular drone known as the Enterprise Test Vehicle. The companies working on ETV are Anduril Industries, Leidos Dynetics, Zone 5 Technologies and Integrated Solutions for Systems Inc., whose design is shown here. (Integrated Solutions for Systems Inc.)
     
 
 Recent parts by keyword  
 
-* [MD8251A/B](https://aerobasegroup.com/search/?term=MD8251A%2FB)
-* [500-BW](https://aerobasegroup.com/search/?term=500-BW)
-* [BACB30NE3-4](https://aerobasegroup.com/search/?term=BACB30NE3-4)
-* [MIL-I-631-G](https://aerobasegroup.com/search/?term=MIL-I-631-G)
-* [40mm](https://aerobasegroup.com/search/?term=40mm)
-* [100-C](https://aerobasegroup.com/search/?term=100-C)
-* [A122-6B-9Q8-0400](https://aerobasegroup.com/search/?term=A-1226B+9Q+8040-00-290-4301)
+* [C554](https://aerobasegroup.com/search/?term=C554)
+* [FMC-M](https://aerobasegroup.com/search/?term=FMC-M)
+* [PDG0377](https://aerobasegroup.com/search/?term=PDG0377)
+* [ms51849-2](https://aerobasegroup.com/search/?term=ms51849-2)
+* [PDG0326](https://aerobasegroup.com/search/?term=PDG0326)
+* [PDG0325](https://aerobasegroup.com/search/?term=PDG0325)
+* [adjustable](https://aerobasegroup.com/search/?term=adjustable)
 
 The AeroBase Group Family ..
 
