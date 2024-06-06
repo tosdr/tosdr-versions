@@ -136,7 +136,7 @@ For more information on our data security practices, you can access our data sec
 Products
 --------
 
-* [Chartbeat For Publising](https://chartbeat.com/product/chartbeat-for-publishing/)
+* [Chartbeat For Publishing](https://chartbeat.com/product/chartbeat-for-publishing/)
 * [Datastream](https://chartbeat.com/datastream/)
 
 Resources
