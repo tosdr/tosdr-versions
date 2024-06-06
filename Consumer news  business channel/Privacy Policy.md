@@ -32,7 +32,7 @@ For the best experience, turn your mobile device portrait mode.
 Do Not Sell or Share/Process My Personal Information for Targeted Advertising
 =============================================================================
 
-Last Updated: March 7, 2024
+Last Updated: June 4, 2024
 
 * English
 * Español (Americas)
@@ -49,7 +49,7 @@ NBCUniversal offers our customers certain choices about how we use their informa
 
 **Targeted Advertising Opt-Outs**
 
-Certain NBCUniversal brands feature targeted advertising. Advertising, including targeted-based advertising, enables these NBCUniversal brands to provide you certain content for free and offers that are more relevant to you. To provide this advertising on NBCUniversal Services and on other online services, NBCUniversal allows third parties to receive certain information to add to a profile about your device, browser, or you.
+Certain NBCUniversal brands feature targeted advertising. Advertising, including targeted-based advertising, enables these NBCUniversal brands to provide you certain content for free or at a low cost and offers that are more relevant to you. To provide this advertising on NBCUniversal Services and on other online services, NBCUniversal allows third parties to receive certain information to add to a profile about your device, browser, or you.
 
 Certain laws broadly define “sale” of personal information in a way that may include allowing third parties to receive some information to add to a profile about your device, browser, or you. In addition, this activity may be defined by law to be sharing or processing personal information for targeted advertising. Residents of California, Colorado, Connecticut, Utah, and Virginia may opt out of certain of these activities.
 
