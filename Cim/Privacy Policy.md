@@ -44,7 +44,7 @@ Cookie Consent by [Free Privacy Policy Generator website](https://www.freeprivac
 
 ← Back
 
-[![CIM Logo](https://assets-global.website-files.com/63863c593fd9ef206df105ac/63863c593fd9ef3325f105b8_cim-logo.png)](https://www.cimgroup.com/)
+[![CIM Logo](https://cdn.prod.website-files.com/63863c593fd9ef206df105ac/63863c593fd9ef3325f105b8_cim-logo.png)](https://www.cimgroup.com/)
 
 [About Us](https://www.cimgroup.com/about)
 
@@ -112,15 +112,15 @@ Transact
 
 [Careers](https://www.cimgroup.com/careers)
 
-![](https://assets-global.website-files.com/63863c593fd9ef206df105ac/63863c593fd9efa131f105b3_icon-login-white.png)[Login](https://www.cimgroup.com/external-logins)
+![](https://cdn.prod.website-files.com/63863c593fd9ef206df105ac/63863c593fd9efa131f105b3_icon-login-white.png)[Login](https://www.cimgroup.com/external-logins)
 
 Login
 
-![](https://assets-global.website-files.com/63863c593fd9ef206df105ac/63863c593fd9efb15ef105b6_icon-login-black.png)
+![](https://cdn.prod.website-files.com/63863c593fd9ef206df105ac/63863c593fd9efb15ef105b6_icon-login-black.png)
 
 [Overview](https://www.cimgroup.com/external-logins)[Intralinks Login](https://services.intralinks.com/branding/3368377021/?clientID=3368377021)[Shareholders Login](https://www.secureaccountview.com/BFWeb/clients/cim/index)[Forms & Documents](https://www.cimgroup.com/shareholder-information)
 
-![](https://assets-global.website-files.com/63863c593fd9ef206df105ac/63863c593fd9efd030f105b4_icon-search-black.png)
+![](https://cdn.prod.website-files.com/63863c593fd9ef206df105ac/63863c593fd9efd030f105b4_icon-search-black.png)
 
 Privacy Policy
 --------------
@@ -749,7 +749,7 @@ You may have certain data privacy rights which may be subject to limitations and
 
 **_Please note that this form should only be used for data privacy related inquiries, and CIM will respond to all such inquiries for further verification information._**
 
-[![CIM Logo](https://assets-global.website-files.com/63863c593fd9ef206df105ac/63863c593fd9ef3325f105b8_cim-logo.png)](https://www.cimgroup.com/)
+[![CIM Logo](https://cdn.prod.website-files.com/63863c593fd9ef206df105ac/63863c593fd9ef3325f105b8_cim-logo.png)](https://www.cimgroup.com/)
 
 4700 Wilshire Boulevard  
 Los Angeles, CA 90010  
