@@ -24,7 +24,7 @@ Lesezeichen
 * [Wissen](https://www.zeit.de/wissen/index)
 * [ze.tt](https://www.zeit.de/zett/index)
 * [Gesundheit](https://www.zeit.de/gesundheit/index)
-* [Familie](https://www.zeit.de/zeit-magazin/familie/index)
+* [Familie](https://www.zeit.de/familie/index)
 * [Digital](https://www.zeit.de/digital/index)
 * [Entdecken](https://www.zeit.de/entdecken/index)
 * [Mobilität](https://www.zeit.de/mobilitaet/index)
@@ -66,6 +66,8 @@ Verlagsangebote
 
 Anzeigen
 
+* [Gemeinsam für Demokratie](https://cmk.zeit.de/cms/hub/13121/anzeige/dm-drogerie-markt-gmbh)
+* [Eine Reise nach Neuseeland](https://www.zeit.de/angebote/reisen-nach-neuseeland/index)
 * [congstar Fairnessheld\*innen](https://www.zeit.de/campus/angebote/congstar/fairnessheldinnen/index)
 * [How it works: Studium und Job](https://www.zeit.de/campus/angebote/howitworks/index)
 * [Buch-Entdeckungen](https://www.zeit.de/angebote/buchtipp/index)
@@ -105,8 +107,6 @@ Schließen
 ### Artikelzusammenfassung
 
 Die Zusammenfassung für diesen Artikel kann leider momentan nicht angezeigt werden.
-
-Merken
 
 Das Portal www.zeit.de sowie die über mobile Applikationen und in E-Paper bereitgestellten Inhalte dieser Portale (im Folgenden Portale & Dienste) werden betrieben bzw. zur Verfügung gestellt von der
 
