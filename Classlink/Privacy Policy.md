@@ -1,4 +1,4 @@
-![Cookie Icon](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/614c9cc7d22debbc02d11d41_cookie-icon.svg)
+![Cookie Icon](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/614c9cc7d22debbc02d11d41_cookie-icon.svg)
 
 Privacy Preferences
 -------------------
@@ -45,165 +45,165 @@ LIVE in ‘25! Join the VIP experience at CLON 2025 now.
 
 
 
-![USA Flag](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/62bda7afc15ed5599660398d_usa-flag-circle.svg)
+![USA Flag](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/62bda7afc15ed5599660398d_usa-flag-circle.svg)
 
 EN
 
-[![Spain Flag](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/62bda7ad9c082ab32135d790_spain-flag-circle.svg)
+[![Spain Flag](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/62bda7ad9c082ab32135d790_spain-flag-circle.svg)
 
-ES](#)[![France Flag](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/643d58aa4c4cfd6d097f10f0_france-flag-cirlce.svg)
+ES](#)[![France Flag](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/643d58aa4c4cfd6d097f10f0_france-flag-cirlce.svg)
 
-FR](#)[![Saudi Arabia Flag](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/62bda7add0d6156421615f37_saudi-arabia-flag-circle.svg)
+FR](#)[![Saudi Arabia Flag](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/62bda7add0d6156421615f37_saudi-arabia-flag-circle.svg)
 
-AR](#)[![Japan Flag](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/62bda7adf1e51193e1ab6592_japan-flag-circle.svg)
+AR](#)[![Japan Flag](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/62bda7adf1e51193e1ab6592_japan-flag-circle.svg)
 
-JA](#)[![China Flag](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/643d58aca8b9b0ac5a8d8786_china-flag-circle.svg)
+JA](#)[![China Flag](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/643d58aca8b9b0ac5a8d8786_china-flag-circle.svg)
 
 ZH](#)
 
 [Login](https://launchpad.classlink.com/)
 
-[![ClassLink](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/64415d0af743837527365f0c_classlink-logo_blue.svg)](https://www.classlink.com/)
+[![ClassLink](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/64415d0af743837527365f0c_classlink-logo_blue.svg)](https://www.classlink.com/)
 
 Solutions
 
-[![](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/62bde2ed27376a782c75b6b2_nav-k-12-icon.svg)
+[![](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/62bde2ed27376a782c75b6b2_nav-k-12-icon.svg)
 
-CL for K-12](https://www.classlink.com/solutions/k-12-overview)[![](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/64555a72e877c02655ca8672_nav-iam-icon.svg)
+CL for K-12](https://www.classlink.com/solutions/k-12-overview)[![](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/64555a72e877c02655ca8672_nav-iam-icon.svg)
 
 Identity & Access  
 Management
 
-Identity & Access Management](https://www.classlink.com/solutions/identity-and-access-management)[![](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/62bde319d787c4aa78d95136_nav-higher-ed-icon.svg)
+Identity & Access Management](https://www.classlink.com/solutions/identity-and-access-management)[![](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/62bde319d787c4aa78d95136_nav-higher-ed-icon.svg)
 
-CL for Higher Ed](https://www.classlink.com/solutions/higher-ed-overview)[![](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/6481eeeb87572fbd0095c698_nav-learning-analytics-icon.svg)
+CL for Higher Ed](https://www.classlink.com/solutions/higher-ed-overview)[![](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/6481eeeb87572fbd0095c698_nav-learning-analytics-icon.svg)
 
-Learning Analytics](https://www.classlink.com/solutions/learning-analytics)[![](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/65eb8bc3bf8bec88ebb17cff_nav-statewide-icon.svg)
+Learning Analytics](https://www.classlink.com/solutions/learning-analytics)[![](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/65eb8bc3bf8bec88ebb17cff_nav-statewide-icon.svg)
 
-CL for States](https://www.classlink.com/solutions/statewide-overview)[![](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/62bf2eea0be309ed43e76226_nav-mfa-icon_v2.svg)
+CL for States](https://www.classlink.com/solutions/statewide-overview)[![](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/62bf2eea0be309ed43e76226_nav-mfa-icon_v2.svg)
 
 Multi-Factor  
 Authentication
 
-Multi-Factor Authentication](https://www.classlink.com/solutions/multi-factor-authentication)[![](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/64a7231ee6065686c0308c32_nav-transparency-trust-icon.svg)
+Multi-Factor Authentication](https://www.classlink.com/solutions/multi-factor-authentication)[![](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/64a7231ee6065686c0308c32_nav-transparency-trust-icon.svg)
 
 Transparency  
 & Trust
 
-Transparency & Trust](https://www.classlink.com/solutions/transparency-and-trust)[![](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/6509b316986e1ac4a42a8a19_nav-sso-icon.svg)
+Transparency & Trust](https://www.classlink.com/solutions/transparency-and-trust)[![](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/6509b316986e1ac4a42a8a19_nav-sso-icon.svg)
 
 Single Sign-On  
 for Education
 
-Single Sign-On for Education](https://www.classlink.com/solutions/single-sign-on-for-education)[![](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/643582245301cc45e14906d6_nav-remote-learning-icon_v2.svg)
+Single Sign-On for Education](https://www.classlink.com/solutions/single-sign-on-for-education)[![](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/643582245301cc45e14906d6_nav-remote-learning-icon_v2.svg)
 
-Remote Learning](https://www.classlink.com/solutions/remote-learning)[![](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/62bde72551585bb7215cab1e_nav-apps-icon.svg)
+Remote Learning](https://www.classlink.com/solutions/remote-learning)[![](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/62bde72551585bb7215cab1e_nav-apps-icon.svg)
 
-View Our 6,000+ App Library](https://www.classlink.com/resources/sso)[![](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/62bde72551585bb7215cab1e_nav-apps-icon.svg)
+View Our 6,000+ App Library](https://www.classlink.com/resources/sso)[![](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/62bde72551585bb7215cab1e_nav-apps-icon.svg)
 
 View Our 6,000+ App Library](https://www.classlink.com/resources/sso)
 
 Products
 
-[![](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/6329dc1f1c3dac21c4e4fc02_launchpad-app-tile_blue.svg)
+[![](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/6329dc1f1c3dac21c4e4fc02_launchpad-app-tile_blue.svg)
 
-LaunchPad](https://www.classlink.com/products/launchpad)[![](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/6335b3fb068575389c348734_onesync-app-tile_blue.svg)
+LaunchPad](https://www.classlink.com/products/launchpad)[![](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/6335b3fb068575389c348734_onesync-app-tile_blue.svg)
 
-OneSync](https://www.classlink.com/products/onesync)[![](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/6335b3fb86e69a599c66b66b_analytics-app-tile_blue.svg)
+OneSync](https://www.classlink.com/products/onesync)[![](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/6335b3fb86e69a599c66b66b_analytics-app-tile_blue.svg)
 
-Analytics](https://www.classlink.com/products/analytics)[![](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/6335b3fba27ce82c430e6ee7_roster-server-app-tile_blue.svg)
+Analytics](https://www.classlink.com/products/analytics)[![](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/6335b3fba27ce82c430e6ee7_roster-server-app-tile_blue.svg)
 
-Roster Server](https://www.classlink.com/products/roster-server)[![](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/6335b5d05c674a556df4686b_analytics-plus-app-tile_blue.svg)
+Roster Server](https://www.classlink.com/products/roster-server)[![](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/6335b5d05c674a556df4686b_analytics-plus-app-tile_blue.svg)
 
-Analytics+](https://www.classlink.com/products/analytics-plus)[![](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/641dba272d06ad02f8efd906_dataguard-app-tile_blue.svg)
+Analytics+](https://www.classlink.com/products/analytics-plus)[![](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/641dba272d06ad02f8efd906_dataguard-app-tile_blue.svg)
 
-DataGuard](https://www.classlink.com/products/dataguard)[![](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/6564cab0c42f18519eef197d_audit-center-app-tile_blue.svg)
+DataGuard](https://www.classlink.com/products/dataguard)[![](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/6564cab0c42f18519eef197d_audit-center-app-tile_blue.svg)
 
-Audit Center](https://www.classlink.com/products/audit-center)[![](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/661d3f81c048a797f5e549aa_statelink-app-tile_blue.svg)
+Audit Center](https://www.classlink.com/products/audit-center)[![](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/661d3f81c048a797f5e549aa_statelink-app-tile_blue.svg)
 
-StateLink](https://www.classlink.com/products/statelink)[![](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/65aecabfae37292e923e1faf_security-center-app-tile_blue.svg)
+StateLink](https://www.classlink.com/products/statelink)[![](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/65aecabfae37292e923e1faf_security-center-app-tile_blue.svg)
 
-Security Center](https://www.classlink.com/products/security-center)[![](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/62bca2d93fa09cf90e79188d_nav-additional-icon.svg)
+Security Center](https://www.classlink.com/products/security-center)[![](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/62bca2d93fa09cf90e79188d_nav-additional-icon.svg)
 
-Additional Products](https://www.classlink.com/products)[![](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/62bca2d93fa09cf90e79188d_nav-additional-icon.svg)
+Additional Products](https://www.classlink.com/products)[![](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/62bca2d93fa09cf90e79188d_nav-additional-icon.svg)
 
 Additional Products](https://www.classlink.com/products)
 
 Resources
 
-[![](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/628678c07b2cd73f1fc6539e_nav-blog-icon.svg)
+[![](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/628678c07b2cd73f1fc6539e_nav-blog-icon.svg)
 
-Blog](https://www.classlink.com/resources/blog)[![](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/628678c0647ffbe111b9c91e_nav-case-study-icon.svg)
+Blog](https://www.classlink.com/resources/blog)[![](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/628678c0647ffbe111b9c91e_nav-case-study-icon.svg)
 
-Case Studies](https://www.classlink.com/resources/case-studies)[![](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/628678c1afaf10a21ce63a5a_nav-videos-icon.svg)
+Case Studies](https://www.classlink.com/resources/case-studies)[![](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/628678c1afaf10a21ce63a5a_nav-videos-icon.svg)
 
-Videos](https://www.classlink.com/resources/videos)[![](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/628678c1ed25fbdb531d0536_nav-webinar-icon.svg)
+Videos](https://www.classlink.com/resources/videos)[![](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/628678c1ed25fbdb531d0536_nav-webinar-icon.svg)
 
-Webinars](https://www.classlink.com/resources/webinars)[![](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/628678c11764d924b3035039_nav-podcast-icon.svg)
+Webinars](https://www.classlink.com/resources/webinars)[![](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/628678c11764d924b3035039_nav-podcast-icon.svg)
 
 LinkedUp  
 Podcasts
 
-LinkedUp Podcasts](https://www.classlink.com/podcasts/linkedup)[![](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/628678c11764d924b3035039_nav-podcast-icon.svg)
+LinkedUp Podcasts](https://www.classlink.com/podcasts/linkedup)[![](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/628678c11764d924b3035039_nav-podcast-icon.svg)
 
 Perspectives  
 Podcasts
 
-Perspectives Podcasts](https://www.classlink.com/podcasts/perspectives)[![](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/6435b2f472616441bae28801_nav-bts-checklist-icon.svg)
+Perspectives Podcasts](https://www.classlink.com/podcasts/perspectives)[![](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/6435b2f472616441bae28801_nav-bts-checklist-icon.svg)
 
-BTS Checklist](https://www.classlink.com/resources/bts-checklist)[![](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/6435b5bf7ecc59309a58002f_nav-bts-report-icon.svg)
+BTS Checklist](https://www.classlink.com/resources/bts-checklist)[![](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/6435b5bf7ecc59309a58002f_nav-bts-report-icon.svg)
 
 BTS Resource  
 Toolkit
 
-BTS Resource Toolkit](https://www.classlink.com/bts-toolkit)[![ClassLink Academy Icon](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/626072acdb5ec22da34cbb23_cl-academy-icon.svg)
+BTS Resource Toolkit](https://www.classlink.com/bts-toolkit)[![ClassLink Academy Icon](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/626072acdb5ec22da34cbb23_cl-academy-icon.svg)
 
-ClassLink Academy](https://www.classlink.com/academy)[![ClassLink Academy Icon](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/626072acdb5ec22da34cbb23_cl-academy-icon.svg)
+ClassLink Academy](https://www.classlink.com/academy)[![ClassLink Academy Icon](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/626072acdb5ec22da34cbb23_cl-academy-icon.svg)
 
 Learn With ClassLink Academy](https://www.classlink.com/academy)
 
 Company
 
-[![](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/62bde7df981cf53534bb27bc_nav-about-icon.svg)
+[![](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/62bde7df981cf53534bb27bc_nav-about-icon.svg)
 
-About Us](https://www.classlink.com/company/about)[![](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/628678c0eba3c37f91dfa0ee_nav-news-icon.svg)
+About Us](https://www.classlink.com/company/about)[![](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/628678c0eba3c37f91dfa0ee_nav-news-icon.svg)
 
-News](https://www.classlink.com/company/news)[![](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/628678bffcf031acd5aed878_nav-award-icon.svg)
+News](https://www.classlink.com/company/news)[![](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/628678bffcf031acd5aed878_nav-award-icon.svg)
 
-Awards](https://www.classlink.com/company/awards)[![](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/62bca0b1af48b74982e53e29_nav-partners-icon.svg)
+Awards](https://www.classlink.com/company/awards)[![](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/62bca0b1af48b74982e53e29_nav-partners-icon.svg)
 
-Partners](https://www.classlink.com/company/partners)[![](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/6435b7108c74a96ca5cb70ae_nav-mpact-icon.svg)
+Partners](https://www.classlink.com/company/partners)[![](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/6435b7108c74a96ca5cb70ae_nav-mpact-icon.svg)
 
-MPACT Program](https://www.classlink.com/company/mpact)[![](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/65148b2856194f53c747f6fe_nav-cr-icon.svg)
+MPACT Program](https://www.classlink.com/company/mpact)[![](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/65148b2856194f53c747f6fe_nav-cr-icon.svg)
 
 Cybersecurity  
 Rubric
 
-Cybersecurity Rubric](https://www.cybersecurityrubric.org/)[![](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/6436ec1f41241d29fd9e4c63_nav-deal-icon.svg)
+Cybersecurity Rubric](https://www.cybersecurityrubric.org/)[![](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/6436ec1f41241d29fd9e4c63_nav-deal-icon.svg)
 
-Deal Registration](https://www.classlink.com/deal-registration)[![](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/64d3ae81829349e93d1b313e_nav-pledge-icon.svg)
+Deal Registration](https://www.classlink.com/deal-registration)[![](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/64d3ae81829349e93d1b313e_nav-pledge-icon.svg)
 
-Secure by Design](https://www.classlink.com/company/secure-by-design)[![](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/62fc073027953a33ad01b63a_nav-contact-icon_v2.svg)
+Secure by Design](https://www.classlink.com/company/secure-by-design)[![](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/62fc073027953a33ad01b63a_nav-contact-icon_v2.svg)
 
-Contact Us](https://www.classlink.com/contact)[![](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/62bde5babacb017d10377954_nav-careers-icon.svg)
+Contact Us](https://www.classlink.com/contact)[![](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/62bde5babacb017d10377954_nav-careers-icon.svg)
 
-Careers](https://www.classlink.com/company/careers)[![](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/62bde5babacb017d10377954_nav-careers-icon.svg)
+Careers](https://www.classlink.com/company/careers)[![](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/62bde5babacb017d10377954_nav-careers-icon.svg)
 
 Join the ClassLink Team](https://www.classlink.com/company/careers)
 
 Help
 
-[![](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/62bc98930df40f3d5da7105b_nav-support-icon.svg)
+[![](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/62bc98930df40f3d5da7105b_nav-support-icon.svg)
 
-Support](https://help.classlink.com/s/technical-support)[![](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/62bc989371e0066fb6b00d63_nav-status-icon.svg)
+Support](https://help.classlink.com/s/technical-support)[![](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/62bc989371e0066fb6b00d63_nav-status-icon.svg)
 
-Status](https://status.classlink.com/)[![](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/62bc9890a4c18ac89223eeeb_nav-security-icon.svg)
+Status](https://status.classlink.com/)[![](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/62bc9890a4c18ac89223eeeb_nav-security-icon.svg)
 
-Security](https://www.classlink.com/company/security)[![](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/62bc989393cbb8be1d7b7cf9_nav-privacy-icon.svg)
+Security](https://www.classlink.com/company/security)[![](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/62bc989393cbb8be1d7b7cf9_nav-privacy-icon.svg)
 
-Privacy](https://www.classlink.com/company/privacy)[![](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/62bc98f6391fbdb1777213af_nav-help-center-icon.svg)
+Privacy](https://www.classlink.com/company/privacy)[![](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/62bc98f6391fbdb1777213af_nav-help-center-icon.svg)
 
-Help Center](https://help.classlink.com/s/)[![](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/62bc98f6391fbdb1777213af_nav-help-center-icon.svg)
+Help Center](https://help.classlink.com/s/)[![](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/62bc98f6391fbdb1777213af_nav-help-center-icon.svg)
 
 ClassLink Help Center](https://help.classlink.com/s/)
 
@@ -215,7 +215,7 @@ Privacy
 
 ==========
 
-![](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/62b4db319778cd42aebf1c1c_2022-banner-line-gradient.png)
+![](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/62b4db319778cd42aebf1c1c_2022-banner-line-gradient.png)
 
 ClassLink is committed to ensuring data privacy  
 Updated March 2024  
@@ -244,7 +244,7 @@ Our Guiding Principles on Personal Data
 
 [International](#international)[USA](#usa)[Individual States](#states)
 
-![Student Privacy Pledge Badge](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/5e7e411e93c0d73383b3c3b6_student-privacy-pledge.jpg)
+![Student Privacy Pledge Badge](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/5e7e411e93c0d73383b3c3b6_student-privacy-pledge.jpg)
 
 International – [Student Privacy Pledge](https://studentprivacypledge.org/), introduced by Future of Privacy Forum (FPF) and The Software & Information Industry Association (SIIA)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -276,7 +276,7 @@ ClassLink is a signatory to the Student Privacy Pledge and abides by the commitm
 12. Allow a successor entity to maintain the student personal information, in the case of our merger or acquisition by another entity, provided the successor entity is subject to these same commitments for the previously collected student personal information.  
     
 
-![Student Data Privacy Consortium Badge](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/5e84da8122bd01817f803dda_SDPC%20Member%20Badge%20-%20PNG.PNG)
+![Student Data Privacy Consortium Badge](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/5e84da8122bd01817f803dda_SDPC%20Member%20Badge%20-%20PNG.PNG)
 
 Student Data Privacy Consortium ([SDPC](https://privacy.a4l.org/))
 ------------------------------------------------------------------
@@ -292,7 +292,7 @@ The Student Data Privacy Consortium is:
 * Leverages the work ongoing by various organizations already providing guidance to schools and states regarding student data privacy. Its main focus is on issues being faced by “on-the-ground” practitioners.  
     
 
-[![SOC 2 Type II Badge](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/5d6db64572061d285381ac9d_SOC2-TypeII-Compliant_logo%20(003).png)](https://kirkpatrickprice.com/)
+[![SOC 2 Type II Badge](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/5d6db64572061d285381ac9d_SOC2-TypeII-Compliant_logo%20(003).png)](https://kirkpatrickprice.com/)
 
 SOC 2 Type II Audit
 -------------------
@@ -301,7 +301,7 @@ A SOC 2 Type II audit provides evidence that a company has a strong commitment t
 
 ClassLink has successfully completed a SOC 2 Type II audit which was performed by the licensed CPA firm KirkpatrickPrice.  The SOC 2 audit is based on the AICPA's Trust Services Criteria, and focuses on ClassLink's controls as they relate to security, availability, and confidentiality.  A successful SOC 2 audit assures our customers of their reliance on ClassLink's controls to protect their data.  
 
-[![Privacy Shield Icon](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/5d72c64f4f28ea0bea39724d_security_badge.svg)](https://kirkpatrickprice.com/)
+[![Privacy Shield Icon](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/5d72c64f4f28ea0bea39724d_security_badge.svg)](https://kirkpatrickprice.com/)
 
 Data Sovereignty
 ----------------
@@ -319,7 +319,7 @@ ClassLink software and systems are designed to comply with these various regulat
 * ClassLink software and system processes can only transmit personal data with the express instruction of the customer.  
     
 
-![GDPR Badge](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/5d6db64572061db7b581ac7f_Privacy-Shield-Logo-02-300x206-002_0003_Layer-2%5B1%5D.png)
+![GDPR Badge](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/5d6db64572061db7b581ac7f_Privacy-Shield-Logo-02-300x206-002_0003_Layer-2%5B1%5D.png)
 
 European Union – General Data Protection Regulation ([GDPR](http://www.privacy-regulation.eu/en/index.htm))
 -----------------------------------------------------------------------------------------------------------
@@ -342,7 +342,7 @@ GDPR includes 11 chapters and nearly 100 articles. Below are some of the most re
     
 * Article 44: “General principle for transfers”: To promote data sovereignty/data residency in GDPR, the regulation authorizes the [European Commission](https://ec.europa.eu/commission/index_en) to decide if a third country or territory, where data may be transferred, meets adequate levels of protection. As GDPR is new, no third country or territory has yet been approved by the Commission. ClassLink customers are always in control over the storage and transmission of their personal data. Customers located in the EU or UK utilize a secure data center located within the EU zone (Frankfurt, Germany). No servers, outside of these options, are used to store data for EU or UK based customers.
 
-![European Union Privacy Shield Badge](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/5e7e4426017d75d60b0ce839_privacy_shield.png)
+![European Union Privacy Shield Badge](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/5e7e4426017d75d60b0ce839_privacy_shield.png)
 
 European Union – Privacy Shield
 -------------------------------
@@ -380,7 +380,7 @@ ClassLink is subject to the investigatory and enforcement powers of the Federal 
 
 ClassLink recognizes the possibility for an individual to invoke binding arbitration pursuant to the Privacy Shield.  
 
-![WCAG Badge](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/5d6db64572061d420481ab5a_ADA-Security-Badge.png)
+![WCAG Badge](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/5d6db64572061d420481ab5a_ADA-Security-Badge.png)
 
 United States – Section 508 & ADA Compliance
 --------------------------------------------
@@ -388,14 +388,14 @@ United States – Section 508 & ADA Compliance
 **Web Content Accessibility Guidelines**  
 ClassLink complies with the web content accessibility guidelines of [WCAG 2.1 Level AA](https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.w3.org%2FTR%2FWCAG21%2F&data=05%7C02%7Cmdearaujo%40classlink.com%7C53eac95da9fa4be6ca4e08dc3c63e41a%7Cb5598d85e4124848a74be5f5a1528984%7C0%7C0%7C638451646932538766%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=ybRWe15wq%2BNOOGaGwOe1s7%2FcXdfsig%2Fhv%2Bklr26fafI%3D&reserved=0) as accepted by [Section 508 of the Rehabilitation Act of 1973](https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.section508.gov%2F&data=05%7C02%7Cmdearaujo%40classlink.com%7C53eac95da9fa4be6ca4e08dc3c63e41a%7Cb5598d85e4124848a74be5f5a1528984%7C0%7C0%7C638451646932546511%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=AwfxGtA1daAwfu8BRAHeXv5AmHYIuwHpxWy%2FjUQ%2Fkkc%3D&reserved=0) and the [Americans with Disabilities Act (ADA)](https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.ada.gov%2F&data=05%7C02%7Cmdearaujo%40classlink.com%7C53eac95da9fa4be6ca4e08dc3c63e41a%7Cb5598d85e4124848a74be5f5a1528984%7C0%7C0%7C638451646932554340%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=qMSY1sLpzkqhVh%2FTXulj60OCzNtrsRIYMmG4TQVAaN4%3D&reserved=0).  
 
-![CSA Star Badge](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/5faebc3133b578915c4d326a_csa-star-logo.PNG)
+![CSA Star Badge](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/5faebc3133b578915c4d326a_csa-star-logo.PNG)
 
 United States – Cloud Security Alliance (CSA) Star Recipient
 ------------------------------------------------------------
 
 ClassLink is proud to hold the [Cloud Security Alliance (CSA) STAR](https://cloudsecurityalliance.org/). CSA enables solution providers to validate their cloud security and offer proof to current and future customers of the controls in place. The CSA STAR Certification is a rigorous third-party independent assessment of the security of a cloud service provider. The technology-neutral certification leverages the requirements of the ISO/IEC 27001:2013 management system standard together with the CSA Cloud Controls Matrix. Certification certificates follow normal ISO/IEC27001 protocol and expire after three years unless updated.  
 
-![Privacy Shield Icon](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/5d72c64f4f28ea0bea39724d_security_badge.svg)
+![Privacy Shield Icon](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/5d72c64f4f28ea0bea39724d_security_badge.svg)
 
 United States – Children’s Internet Protection Act ([CIPA](https://www.fcc.gov/consumers/guides/childrens-internet-protection-act))
 -----------------------------------------------------------------------------------------------------------------------------------
@@ -415,7 +415,7 @@ United States – Children’s Internet Protection Act ([CIPA](https://www.fcc.g
 
 Although ClassLink does not itself prevent access to inappropriate websites, that burden belongs to the school or library, ClassLink can help create an intentional internet experience for young students by enabling instant access to positive online resources from any device.  
 
-![COPPA Badge](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/5d6db64572061d494081ab8e_iKS_COPPA2-e1522876563962.png)
+![COPPA Badge](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/5d6db64572061d494081ab8e_iKS_COPPA2-e1522876563962.png)
 
 United States – Children’s Online Privacy Protection Act ([COPPA](https://www.ftc.gov/enforcement/rules/rulemaking-regulatory-reform-proceedings/childrens-online-privacy-protection-rule))
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -424,7 +424,7 @@ ClassLink is compliant with the regulations put forth by the Children’s Online
 
 ClassLink is [iKeepSafe Certified](https://ikeepsafe.org/certification/coppa/): _The iKeepSafe COPPA Safe Harbor Certification program ensures that practices surrounding collection, use, maintenance and disclosure of personal information from children under the age of 13 are consistent with principles and requirements of the Children’s Online Privacy Protection Act (COPPA). Companies that comply with the guidelines are awarded a badge, making it easy for parents and schools to identify products that are compliant with COPPA._  
 
-![FERPA Badge](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/5d6db64572061db15c81ab5c_iKS_FERPA2-e1522875912267.png)
+![FERPA Badge](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/5d6db64572061db15c81ab5c_iKS_FERPA2-e1522875912267.png)
 
 United States – Family Educational Rights and Privacy Act ([FERPA](https://ed.gov/policy/gen/guid/fpco/ferpa/index.html))
 -------------------------------------------------------------------------------------------------------------------------
@@ -433,7 +433,7 @@ The Family Educational Rights and Privacy Act (FERPA) (20 U.S.C. § 1232g; 34 CF
 
 ClassLink is [iKeepSafe Certified](https://ikeepsafe.org/certification/ferpa/): _The iKeepSafe FERPA Certification demonstrates compliance with the federal mandates as well as iKeepSafe’s rigorous guidelines through the published Product Profile._
 
-![CSPC Badge](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/5d6db64572061d879a81ac58_iKS_CSPC2.png)
+![CSPC Badge](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/5d6db64572061d879a81ac58_iKS_CSPC2.png)
 
 California – California Student Privacy Certification (CSPC) issued by iKeepSafe
 --------------------------------------------------------------------------------
@@ -462,14 +462,14 @@ In addition to the above guiding principles on personal data:
 * _Location: ClassLink contracts with educational agencies in California are governed by and construed in accordance with the laws of the State of California. Additionally, educational agencies in the United States are serviced by ClassLink servers and database infrastructure that are based in the United States._  
     
 
-![Colorado Student Data Transparency and Security Badge](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/5e84a53c2643556777b26f9f_colorado-doe.png)
+![Colorado Student Data Transparency and Security Badge](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/5e84a53c2643556777b26f9f_colorado-doe.png)
 
 Colorado - The Student Data Transparency and Security Act
 ---------------------------------------------------------
 
 ClassLink is compliant with the regulations put forth by the Colorado Department of Education. Effective August 10, 2016, the [Student Data Transparency and Security Act (PDF)](https://www.cde.state.co.us/dataprivacyandsecurity/crs22-16-101) (HB16-1423; C.R.S.22-16-101 et seq.), brought statewide attention to Student Data Privacy. The purpose of this Law is to increase the transparency and security of all Student Personally Identifiable Information (Student PII) that the Colorado Department of Education (CDE) and [Local Education Providers](https://www.cde.state.co.us/dataprivacyandsecurity/definitionspage) (LEPs) collect and maintain. The Law aims to maximize trust in the use of student data in the elementary and secondary education system, by having vendors contracting with schools or educational agencies in Colorado contractually agree to comply with certain requirements if they are to collect information from students.  
 
-![Privacy Shield Icon](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/5d72c64f4f28ea0bea39724d_security_badge.svg)
+![Privacy Shield Icon](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/5d72c64f4f28ea0bea39724d_security_badge.svg)
 
 Connecticut – § [10-234aa](https://www.cga.ct.gov/current/pub/chap_170.htm#sec_10-234aa) through § [10-234dd](https://www.cga.ct.gov/current/pub/chap_170.htm#sec_10-234dd), Student Data Privacy
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -481,7 +481,7 @@ In addition to the above guiding principles on personal data:
 * Location: ClassLink contracts with educational agencies in Connecticut are governed by and construed in accordance with the laws of the State of Connecticut. Additionally, educational agencies in the United States are serviced by ClassLink servers and database infrastructure that are based in the United States.  
     
 
-![Privacy Shield Icon](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/5d72c64f4f28ea0bea39724d_security_badge.svg)
+![Privacy Shield Icon](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/5d72c64f4f28ea0bea39724d_security_badge.svg)
 
 Florida – Fla. Stat. § 1002.22, Education records and reports of K-12 students; rights of parents and students; notification; penalty ([§1002.22](http://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&Search_String=&URL=1000-1099/1002/Sections/1002.22.html)); and Fla. Stat. § 1002.222, Limitations on collection of information and disclosure of confidential and exempt student records ([§1002.222](http://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&Search_String=&URL=1000-1099/1002/Sections/1002.222.html))
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -495,7 +495,7 @@ In addition to the above guiding principles on personal data:
 * Location: ClassLink contracts with educational agencies in Florida are governed by and construed in accordance with the laws of the State of Florida. Additionally, educational agencies in the United States are serviced by ClassLink servers and database infrastructure that are based in the United States.  
     
 
-![Privacy Shield Icon](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/5d72c64f4f28ea0bea39724d_security_badge.svg)
+![Privacy Shield Icon](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/5d72c64f4f28ea0bea39724d_security_badge.svg)
 
 New York State – Education Law §2-d ([Section 2-d](https://www.nysenate.gov/legislation/laws/EDN/2-D)) and the Personal Privacy Protection Law, Article 6-A of the Public Officers Law ([PPPL](https://www.nysenate.gov/legislation/laws/PBO/A6-A))
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -509,7 +509,7 @@ In addition to the above guiding principles on personal data:
 * [Parents’ Bill of Rights](http://www.nysed.gov/common/nysed/files/programs/data-privacy-security/parents-bill-of-rights_1.pdf): ClassLink includes the Parents’ Bill of Rights with every ClassLink contract in New York State.  
     
 
-![Utah DPA Badge](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/5e554622cedd80bdb3811ed2_Utah%20DPA%20Badge.png)
+![Utah DPA Badge](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/5e554622cedd80bdb3811ed2_Utah%20DPA%20Badge.png)
 
 Utah – Data Privacy Agreement
 -----------------------------
@@ -563,7 +563,7 @@ Overall, cookies help us provide you with a better website by enabling us to mon
 
 You can choose to accept or decline cookies. Please use our [Privacy Manager](#) to set your preferred cookie settings. This may prevent you from taking full advantage of the website.  
 
-![ClassLink](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/5d6db64572061dfa3081aaf9_classlink%20white.svg)
+![ClassLink](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/5d6db64572061dfa3081aaf9_classlink%20white.svg)
 
 [45 E Madison Ave, Ste 7  
 Clifton, NJ 07011](https://goo.gl/maps/xFLuqKPoRGaoyvd96)
