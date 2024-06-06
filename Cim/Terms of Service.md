@@ -44,7 +44,7 @@ Cookie Consent by [Free Privacy Policy Generator website](https://www.freeprivac
 
 ← Back
 
-[![CIM Logo](https://assets-global.website-files.com/63863c593fd9ef206df105ac/63863c593fd9ef3325f105b8_cim-logo.png)](https://www.cimgroup.com/)
+[![CIM Logo](https://cdn.prod.website-files.com/63863c593fd9ef206df105ac/63863c593fd9ef3325f105b8_cim-logo.png)](https://www.cimgroup.com/)
 
 [About Us](https://www.cimgroup.com/about)
 
@@ -112,15 +112,15 @@ Transact
 
 [Careers](https://www.cimgroup.com/careers)
 
-![](https://assets-global.website-files.com/63863c593fd9ef206df105ac/63863c593fd9efa131f105b3_icon-login-white.png)[Login](https://www.cimgroup.com/external-logins)
+![](https://cdn.prod.website-files.com/63863c593fd9ef206df105ac/63863c593fd9efa131f105b3_icon-login-white.png)[Login](https://www.cimgroup.com/external-logins)
 
 Login
 
-![](https://assets-global.website-files.com/63863c593fd9ef206df105ac/63863c593fd9efb15ef105b6_icon-login-black.png)
+![](https://cdn.prod.website-files.com/63863c593fd9ef206df105ac/63863c593fd9efb15ef105b6_icon-login-black.png)
 
 [Overview](https://www.cimgroup.com/external-logins)[Intralinks Login](https://services.intralinks.com/branding/3368377021/?clientID=3368377021)[Shareholders Login](https://www.secureaccountview.com/BFWeb/clients/cim/index)[Forms & Documents](https://www.cimgroup.com/shareholder-information)
 
-![](https://assets-global.website-files.com/63863c593fd9ef206df105ac/63863c593fd9efd030f105b4_icon-search-black.png)
+![](https://cdn.prod.website-files.com/63863c593fd9ef206df105ac/63863c593fd9efd030f105b4_icon-search-black.png)
 
 Terms of Use
 ------------
@@ -171,7 +171,7 @@ Date Uploaded
 
 Download
 
-[Form 20-2 (CIM Urban II Offshore GP, LLC (May 2022).pdf](https://assets-global.website-files.com/63bc7b3aba1a611ddd3766a4/63c98c7def12178f3dcf8a31_Form%2020-2%20(CIM%20Urban%20II%20Offshore%20GP%2C%20LLC%20(May%202022).pdf)
+[Form 20-2 (CIM Urban II Offshore GP, LLC (May 2022).pdf](https://cdn.prod.website-files.com/63bc7b3aba1a611ddd3766a4/63c98c7def12178f3dcf8a31_Form%2020-2%20(CIM%20Urban%20II%20Offshore%20GP%2C%20LLC%20(May%202022).pdf)
 
 Description
 
@@ -183,7 +183,7 @@ Date Uploaded
 
 Download
 
-[Form 20-2 (CIM UII ONSHORE GP, LLC (May 2022).pdf](https://assets-global.website-files.com/63bc7b3aba1a611ddd3766a4/63c98cb1b8312216247d5fb4_Form%2020-2%20(CIM%20UII%20ONSHORE%20GP%2C%20LLC%20(May%202022).pdf)
+[Form 20-2 (CIM UII ONSHORE GP, LLC (May 2022).pdf](https://cdn.prod.website-files.com/63bc7b3aba1a611ddd3766a4/63c98cb1b8312216247d5fb4_Form%2020-2%20(CIM%20UII%20ONSHORE%20GP%2C%20LLC%20(May%202022).pdf)
 
 Description
 
@@ -195,7 +195,7 @@ Date Uploaded
 
 Download
 
-[Form 20-2 (CMMT Partners GP, LLC (May 2022).pdf](https://assets-global.website-files.com/63bc7b3aba1a611ddd3766a4/63c98d274b9a2a1652cf7d5a_Form%2020-2%20(CMMT%20Partners%20GP%2C%20LLC%20(May%202022).pdf)
+[Form 20-2 (CMMT Partners GP, LLC (May 2022).pdf](https://cdn.prod.website-files.com/63bc7b3aba1a611ddd3766a4/63c98d274b9a2a1652cf7d5a_Form%2020-2%20(CMMT%20Partners%20GP%2C%20LLC%20(May%202022).pdf)
 
 Description
 
@@ -207,7 +207,7 @@ Date Uploaded
 
 Download
 
-[Form 20-2 (CIM Distressed Opportunities Fund X GP, LLC (May 2022).pdf](https://assets-global.website-files.com/63bc7b3aba1a611ddd3766a4/63dad6beca064384ea1477e7_Form%2020-2%20(CIM%20Distressed%20Opportunities%20Fund%20X%20GP%2C%20LLC%20(May%202022).pdf)
+[Form 20-2 (CIM Distressed Opportunities Fund X GP, LLC (May 2022).pdf](https://cdn.prod.website-files.com/63bc7b3aba1a611ddd3766a4/63dad6beca064384ea1477e7_Form%2020-2%20(CIM%20Distressed%20Opportunities%20Fund%20X%20GP%2C%20LLC%20(May%202022).pdf)
 
 Description
 
@@ -219,7 +219,7 @@ Date Uploaded
 
 Download
 
-[Form 20-2 (CIM Infrastructure Fund III GP, LLC (May 2022).pdf](https://assets-global.website-files.com/63bc7b3aba1a611ddd3766a4/63dad732fbc4dfd16755e49e_Form%2020-2%20(CIM%20Infrastructure%20Fund%20III%20GP%2C%20LLC%20(May%202022).pdf)
+[Form 20-2 (CIM Infrastructure Fund III GP, LLC (May 2022).pdf](https://cdn.prod.website-files.com/63bc7b3aba1a611ddd3766a4/63dad732fbc4dfd16755e49e_Form%2020-2%20(CIM%20Infrastructure%20Fund%20III%20GP%2C%20LLC%20(May%202022).pdf)
 
 Description
 
@@ -231,7 +231,7 @@ Date Uploaded
 
 Download
 
-[Form 20-2 (CIM URBAN INCOME INVESTMENTS GP, LLC) (May 2022).pdf](https://assets-global.website-files.com/63bc7b3aba1a611ddd3766a4/63dad76aa31041755899be39_Form%2020-2%20(CIM%20URBAN%20INCOME%20INVESTMENTS%20GP%2C%20LLC)%20(May%202022).pdf)
+[Form 20-2 (CIM URBAN INCOME INVESTMENTS GP, LLC) (May 2022).pdf](https://cdn.prod.website-files.com/63bc7b3aba1a611ddd3766a4/63dad76aa31041755899be39_Form%2020-2%20(CIM%20URBAN%20INCOME%20INVESTMENTS%20GP%2C%20LLC)%20(May%202022).pdf)
 
 Description
 
@@ -243,7 +243,7 @@ Date Uploaded
 
 Download
 
-[Form 20-2 (CMCT 4750 GP, LLC) (February 2023).pdf](https://assets-global.website-files.com/63bc7b3aba1a611ddd3766a4/640f6142794b61142eeae246_Form%2020-2%20(CMCT%204750%20GP%2C%20LLC)%20(February%202023).pdf)
+[Form 20-2 (CMCT 4750 GP, LLC) (February 2023).pdf](https://cdn.prod.website-files.com/63bc7b3aba1a611ddd3766a4/640f6142794b61142eeae246_Form%2020-2%20(CMCT%204750%20GP%2C%20LLC)%20(February%202023).pdf)
 
 Description
 
@@ -255,7 +255,7 @@ Date Uploaded
 
 Download
 
-[Filing Financials (CIM Urban II Offshore GP LLC).pdf](https://assets-global.website-files.com/63bc7b3aba1a611ddd3766a4/6626a7a7e4e38b6838df58da_Financials%20(Urban%20II%20Offshore%20GP).pdf)
+[Filing Financials (CIM Urban II Offshore GP LLC).pdf](https://cdn.prod.website-files.com/63bc7b3aba1a611ddd3766a4/6626a7a7e4e38b6838df58da_Financials%20(Urban%20II%20Offshore%20GP).pdf)
 
 Description
 
@@ -267,7 +267,7 @@ Date Uploaded
 
 Download
 
-[Filing Financials (CIM UII ONSHORE GP LLC).pdf](https://assets-global.website-files.com/63bc7b3aba1a611ddd3766a4/6626a7daed5d33e6c4b774ed_Financials%20(UII%20Onshore%20GP).pdf)
+[Filing Financials (CIM UII ONSHORE GP LLC).pdf](https://cdn.prod.website-files.com/63bc7b3aba1a611ddd3766a4/6626a7daed5d33e6c4b774ed_Financials%20(UII%20Onshore%20GP).pdf)
 
 Description
 
@@ -279,7 +279,7 @@ Date Uploaded
 
 Download
 
-[Filing Financials (CMMT Partners GP LLC).pdf](https://assets-global.website-files.com/63bc7b3aba1a611ddd3766a4/6626a7fccbc196b7a679eb28_Financials%20(CMMT%20Partners%20GP).pdf)
+[Filing Financials (CMMT Partners GP LLC).pdf](https://cdn.prod.website-files.com/63bc7b3aba1a611ddd3766a4/6626a7fccbc196b7a679eb28_Financials%20(CMMT%20Partners%20GP).pdf)
 
 Description
 
@@ -291,7 +291,7 @@ Date Uploaded
 
 Download
 
-[Filing Financials (CIM Distressed Opportunities Fund X GP, LLC).pdf](https://assets-global.website-files.com/63bc7b3aba1a611ddd3766a4/6626a8271d1d4cbbc099b62a_Financials%20(Distressed%20Opp%20Fund%20X%20GP).pdf)
+[Filing Financials (CIM Distressed Opportunities Fund X GP, LLC).pdf](https://cdn.prod.website-files.com/63bc7b3aba1a611ddd3766a4/6626a8271d1d4cbbc099b62a_Financials%20(Distressed%20Opp%20Fund%20X%20GP).pdf)
 
 Description
 
@@ -303,7 +303,7 @@ Date Uploaded
 
 Download
 
-[Filing Financials (CIM Infrastructure Fund III GP, LLC).pdf](https://assets-global.website-files.com/63bc7b3aba1a611ddd3766a4/6626a84951e38462bb0fb687_Financials%20(Infra%20Fund%20III%20GP).pdf)
+[Filing Financials (CIM Infrastructure Fund III GP, LLC).pdf](https://cdn.prod.website-files.com/63bc7b3aba1a611ddd3766a4/6626a84951e38462bb0fb687_Financials%20(Infra%20Fund%20III%20GP).pdf)
 
 Description
 
@@ -315,7 +315,7 @@ Date Uploaded
 
 Download
 
-[Filing Financials (CIM URBAN INCOME INVESTMENT GP,LLC).pdf](https://assets-global.website-files.com/63bc7b3aba1a611ddd3766a4/6626a87563e7f5012f48e92e_Financials%20(Urban%20Income%20Investments%20GP).pdf)
+[Filing Financials (CIM URBAN INCOME INVESTMENT GP,LLC).pdf](https://cdn.prod.website-files.com/63bc7b3aba1a611ddd3766a4/6626a87563e7f5012f48e92e_Financials%20(Urban%20Income%20Investments%20GP).pdf)
 
 Description
 
@@ -327,7 +327,7 @@ Date Uploaded
 
 Download
 
-[Filing FInancials (CMCT 4750 GP LLC).pdf](https://assets-global.website-files.com/63bc7b3aba1a611ddd3766a4/6626a8a88f7290054ff2fed8_FInancials%20(CMCT%204750%20GP).pdf)
+[Filing FInancials (CMCT 4750 GP LLC).pdf](https://cdn.prod.website-files.com/63bc7b3aba1a611ddd3766a4/6626a8a88f7290054ff2fed8_FInancials%20(CMCT%204750%20GP).pdf)
 
 Description
 
@@ -339,7 +339,7 @@ Date Uploaded
 
 Download
 
-[Explanatory Document for FY2023 (CIM Urban II Offshore GP, LLC).pdf](https://assets-global.website-files.com/63bc7b3aba1a611ddd3766a4/6626a032dc894b4bc37ef22f_Explanatory%20Document%20for%20FY2023(CIM%20Urban%20II%20Offshore%20GP%20LLC).pdf)
+[Explanatory Document for FY2023 (CIM Urban II Offshore GP, LLC).pdf](https://cdn.prod.website-files.com/63bc7b3aba1a611ddd3766a4/6626a032dc894b4bc37ef22f_Explanatory%20Document%20for%20FY2023(CIM%20Urban%20II%20Offshore%20GP%20LLC).pdf)
 
 Description
 
@@ -351,7 +351,7 @@ Date Uploaded
 
 Download
 
-[Explanatory Document for FY2023 (CIM UII ONSHORE GP, LLC).pdf](https://assets-global.website-files.com/63bc7b3aba1a611ddd3766a4/6626a1437590f7027e083760_Explanatory%20Document%20for%20FY2023(CIM%20UII%20ONSHORE%20GP%20LLC).pdf)
+[Explanatory Document for FY2023 (CIM UII ONSHORE GP, LLC).pdf](https://cdn.prod.website-files.com/63bc7b3aba1a611ddd3766a4/6626a1437590f7027e083760_Explanatory%20Document%20for%20FY2023(CIM%20UII%20ONSHORE%20GP%20LLC).pdf)
 
 Description
 
@@ -363,7 +363,7 @@ Date Uploaded
 
 Download
 
-[Explanatory Document for FY2023 (CMMT Partners GP, LLC).pdf](https://assets-global.website-files.com/63bc7b3aba1a611ddd3766a4/6626a0d659dee2ca70e97d92_Explanatory%20Document%20for%20FY2023(CMMT%20Partners%20GP%20LLC).pdf)
+[Explanatory Document for FY2023 (CMMT Partners GP, LLC).pdf](https://cdn.prod.website-files.com/63bc7b3aba1a611ddd3766a4/6626a0d659dee2ca70e97d92_Explanatory%20Document%20for%20FY2023(CMMT%20Partners%20GP%20LLC).pdf)
 
 Description
 
@@ -375,7 +375,7 @@ Date Uploaded
 
 Download
 
-[Explanatory Document for FY2023 (CIM Distressed Opportunities Fund X GP, LLC).pdf](https://assets-global.website-files.com/63bc7b3aba1a611ddd3766a4/6626a0ada4cd5fcfab95f942_Explanatory%20Document%20for%20FY2023(CIM%20Distressed%20Opportunities%20Fund%20X%20GP%2C%20LLC).pdf)
+[Explanatory Document for FY2023 (CIM Distressed Opportunities Fund X GP, LLC).pdf](https://cdn.prod.website-files.com/63bc7b3aba1a611ddd3766a4/6626a0ada4cd5fcfab95f942_Explanatory%20Document%20for%20FY2023(CIM%20Distressed%20Opportunities%20Fund%20X%20GP%2C%20LLC).pdf)
 
 Description
 
@@ -387,7 +387,7 @@ Date Uploaded
 
 Download
 
-[Explanatory Document for FY2023 (CIM Infrastructure Fund III GP, LLC).pdf](https://assets-global.website-files.com/63bc7b3aba1a611ddd3766a4/6626a083861953950802f64b_Explanatory%20Document%20for%20FY2023(CIM%20Infrastructure%20Fund%20III%20GP%2C%20LLC).pdf)
+[Explanatory Document for FY2023 (CIM Infrastructure Fund III GP, LLC).pdf](https://cdn.prod.website-files.com/63bc7b3aba1a611ddd3766a4/6626a083861953950802f64b_Explanatory%20Document%20for%20FY2023(CIM%20Infrastructure%20Fund%20III%20GP%2C%20LLC).pdf)
 
 Description
 
@@ -399,7 +399,7 @@ Date Uploaded
 
 Download
 
-[Explanatory Document for FY2023 (CIM URBAN INCOME INVESTMENTS GP, LLC).pdf](https://assets-global.website-files.com/63bc7b3aba1a611ddd3766a4/6626a032dc894b4bc37ef22f_Explanatory%20Document%20for%20FY2023(CIM%20Urban%20II%20Offshore%20GP%20LLC).pdf)
+[Explanatory Document for FY2023 (CIM URBAN INCOME INVESTMENTS GP, LLC).pdf](https://cdn.prod.website-files.com/63bc7b3aba1a611ddd3766a4/6626a032dc894b4bc37ef22f_Explanatory%20Document%20for%20FY2023(CIM%20Urban%20II%20Offshore%20GP%20LLC).pdf)
 
 Description
 
@@ -411,9 +411,9 @@ Date Uploaded
 
 Download
 
-[Explanatory Document for FY2023 (CMCT 4750 GP, LLC).pdf](https://assets-global.website-files.com/63bc7b3aba1a611ddd3766a4/6626a42d9170f906334bef65_Explanatory%20Document%20for%20FY2023(CMCT%204750%20GP%20LLC).pdf)
+[Explanatory Document for FY2023 (CMCT 4750 GP, LLC).pdf](https://cdn.prod.website-files.com/63bc7b3aba1a611ddd3766a4/6626a42d9170f906334bef65_Explanatory%20Document%20for%20FY2023(CMCT%204750%20GP%20LLC).pdf)
 
-[![CIM Logo](https://assets-global.website-files.com/63863c593fd9ef206df105ac/63863c593fd9ef3325f105b8_cim-logo.png)](https://www.cimgroup.com/)
+[![CIM Logo](https://cdn.prod.website-files.com/63863c593fd9ef206df105ac/63863c593fd9ef3325f105b8_cim-logo.png)](https://www.cimgroup.com/)
 
 4700 Wilshire Boulevard  
 Los Angeles, CA 90010  
