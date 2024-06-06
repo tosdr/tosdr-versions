@@ -20,12 +20,14 @@ Donate Today
 
 OpenSecrets Launches New State and Federal Lobbying Tool [Read the press release  ›](#)[](https://www.opensecrets.org/news/2024/01/press-release-opensecrets-launches-first-of-its-kind-tool-to-track-spending-on-state-and-federal-lobbying/)
 
-Would you miss us?
+As little as $1...
 ------------------
 
-As a 501c3 nonprofit, we need your support to operate. If every visitor to our site donated just $1 annually, we would never worry about funding again. Can you help us in 2024?
+If each of the 7 million annual visitors to this website donated just $1 a year, we'd never worry about funding again.
 
-[Donate Now](https://action.opensecrets.org/a/donate?utm_campaign=donate&utm_medium=miss_us_1&utm_source=/open-data/api-terms-of-service&oa_utm_campaign=donate&oa_utm_medium=miss_us_1&oa_utm_source=/open-data/api-terms-of-service)
+[Donate Now](https://action.opensecrets.org/a/donate?utm_campaign=donate&utm_medium=$1%20Scrim&utm_source=/open-data/api-terms-of-service&oa_utm_campaign=donate&oa_utm_medium=$1%20Scrim&oa_utm_source=/open-data/api-terms-of-service)
+
+We are 100% donation funded.
 
 [Open Secrets following the money in politics](https://www.opensecrets.org/) Menu
 
