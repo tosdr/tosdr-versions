@@ -379,7 +379,7 @@ Learning Resources
 
 [Practice Problems](https://www.codechef.com/practice)
 
-[CodeChef Discuss](https://discuss.codechef.com/)
+[CodeChef Blogs](https://www.codechef.com/blogs)
 
 [FAQ's](https://www.codechef.com/wiki/faq)
 
