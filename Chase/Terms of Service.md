@@ -46,7 +46,7 @@ OPEN AN ACCOUNT
 * [Mortgage](https://www.chase.com/personal/mortgage)
 * [Home Equity](https://www.chase.com/personal/home-equity/)
 * [Invest with a J.P. Morgan Advisor](https://www.chase.com/personal/investments/advisor-services)
-* [Online Investing with J.P. Morgan](https://account.chase.com/investing/self-directedoffer)
+* [Online Investing with J.P. Morgan](https://account.chase.com/investing/sdifracshare)
 * [Chase for Business](https://www.chase.com/business)
 * [Commercial Banking](https://www.jpmorgan.com/commercial-banking)
 * [See all](https://www.chase.com/digital/resources/sitemap)
