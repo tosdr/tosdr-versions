@@ -23,8 +23,8 @@ Popular Games
 
 Latest game news
 
-* [SAND LAND - Global Release Timings](https://en.bandainamcoent.eu/sand-land/news/sand-land-global-release-timings)
-* [SWORD ART ONLINE LAST RECOLLECTION DLC: Ritual of Bonds Vol.2 is available now](https://en.bandainamcoent.eu/sword-art-online/news/sword-art-online-last-recollection-dlc-ritual-of-bonds-vol2-available-now)
+* [MY HERO ULTRA RUMBLE - Maintenance adjustments made on June 5th, 2024](https://en.bandainamcoent.eu/my-hero-academia/news/my-hero-ultra-rumble-maintenance-adjustments-made-june-5th-2024)
+* [DRAGON BALL FighterZ World Tour 2024/2025 begins on June 28th, 2024](https://en.bandainamcoent.eu/dragon-ball/news/dragon-ball-fighterz-world-tour-20242025-begins-june-28th-2024)
 
    ![](/themes/custom/bne_main/images/newsletter/banner-newsletter.jpg?1648764000)
 
