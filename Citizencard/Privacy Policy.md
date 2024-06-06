@@ -22,7 +22,7 @@
     * [Contact Us](https://support.citizencard.com/new-ticket)
 * VERIFY CARD
     * [Service Details](https://verify.citizencard.com/)
-    * [Download Free Verify App](https://verify.citizencard.com/get-the-verify-app)
+    * [Download Free PASS Card Verify App](https://verify.citizencard.com/get-the-verify-app)
     * [Quick Web-Check: Scan QR Code](https://verify.citizencard.com/verify/scan)
     * [Full Web-Check: Enter Card Details](https://verify.citizencard.com/verify/manual)
 * [LOGIN | REGISTER](https://online.citizencard.com/)
@@ -65,7 +65,7 @@
 * VERIFY CARD
     
     * [Service Details](https://verify.citizencard.com/)
-    * [Download Free Verify App](https://verify.citizencard.com/get-the-verify-app)
+    * [Download Free PASS Card Verify App](https://verify.citizencard.com/get-the-verify-app)
     * [Quick Web-Check: Scan QR Code](https://verify.citizencard.com/verify/scan)
     * [Full Web-Check: Enter Card Details](https://verify.citizencard.com/verify/manual)
     
@@ -74,7 +74,7 @@
 Privacy Policy
 ==============
 
-Last Updated 10 July 2023
+Last Updated 28 May 2024
 
 We are committed to safeguarding the privacy of our website visitors. This Privacy Policy describes the ways we collect information from and about you, and what we do with the information, so that you may decide whether or not to provide information to us. By accessing our website or purchasing our services you agree to this Privacy Policy in addition to CitizenCard [Terms and Conditions](https://www.citizencard.com/terms-and-conditions).
 
@@ -93,7 +93,7 @@ If you act as our **customer**, the information we collect may include your titl
 * when you use our services and apply for a Proof of Age and ID card using a postal (paper) form or using our online application process for individuals at [online.citizencard.com](https://online.citizencard.com/) or by using our paperless application scheme for registered organisations\* at [ebulk.citizencard.com](https://ebulk.citizencard.com/) (\* registered schools, universities, councils, prisons and charities)
 * when you contact us either via email or via our Support Centre - [support.citizencard.com](https://support.citizencard.com/)
 * when the site sends us error reports or application analytics data
-* when we attempt to verify that a card has been issued by us at [verify.citizencard.com](https://verify.citizencard.com/) or using the PoA Card Verify app available on the [Google Play Store](https://play.google.com/store/apps/details?id=com.citizencard.verify&hl=en_GB&gl=US&pli=1) and the [Apple App Store](https://apps.apple.com/gb/app/poa-card-verify/id1586349026)
+* when we attempt to verify that a card has been issued by us at [verify.citizencard.com](https://verify.citizencard.com/) or using the PASS Card Verify app available on the [Google Play Store](https://play.google.com/store/apps/details?id=com.citizencard.verify&hl=en_GB&gl=US&pli=1) and the [Apple App Store](https://apps.apple.com/gb/app/pass-card-verify/id1586349026)
 * when you use our e-IDVT (Electronic ID Validation Technology) service you will have to agree to your data (photo ID document, liveness check and selfies) being assessed by [Yoti Identity Verification](https://www.yoti.com/business/identity-verification/) for the purpose of document and identity validation
 * when you buy third party products or services from SimpleSavings Offers hosted at [online.citizencard.com/discounts](https://online.citizencard.com/discounts) on behalf of third parties; CitizenCard Limited will never receive or hold financial information from those transactions
 * when you interact with our social media, for example via comments, shares and likes on our social media posts, or when you visit [www.citizencard.com](https://www.citizencard.com/) by following a link from social media
@@ -116,7 +116,7 @@ If you act as a **referee** to support an application for a CitizenCard, the inf
 CitizenCard may use information that we collect about you to:
 
 * deliver the products and services that you have requested as our customer e.g. verify your identity to issue you with an ID card or confirm applicant's identity if you acted as a referee to support an application
-* confirm that you are a legitimate cardholder if a retailer or other organisation needs to verify your card as valid or confirm your age and likeness at [verify.citizencard.com](https://verify.citizencard.com/) or using the PoA Card Verify app available on the [Google Play Store](https://play.google.com/store/apps/details?id=com.citizencard.verify&hl=en_GB&gl=US&pli=1) and the [Apple App Store](https://apps.apple.com/gb/app/poa-card-verify/id1586349026)
+* confirm that you are a legitimate cardholder if a retailer or other organisation needs to verify your card as valid or confirm your age and likeness at [verify.citizencard.com](https://verify.citizencard.com/) or using the PASS Card Verify app available on the [Google Play Store](https://play.google.com/store/apps/details?id=com.citizencard.verify&hl=en_GB&gl=US&pli=1) and the [Apple App Store](https://apps.apple.com/gb/app/pass-card-verify/id1586349026)
 * manage your customer relationship and provide you with customer support
 * help improve our products and services and customise user experience
 * perform research and analysis about your use of, or interest in, our products, services, or content
@@ -135,9 +135,9 @@ We may share your personal data with third parties only in the ways that are des
 
 * we provide [Yoti](https://www.yoti.com/business/identity-verification/), a digital identity company, and [1Account](https://www.1account.net/), an online age verification company, with the ability to confirm electronically the validity of a cardholder provided that the cardholder has given Yoti or 1Account their consent to this
 * we use [Yoti Identity Verification](https://www.yoti.com/business/identity-verification/) to power our e-IDVT (Electronic ID Validation Technology) service which enables Yoti to submit the ID documents and selfies of suspected fraudsters to law enforcement bodies to help authorities in detection and prevention of fraud
-* we provide retailers and other organisations with the ability to confirm that you are a legitimate cardholder at [verify.citizencard.com](https://verify.citizencard.com/) or by using the PoA Card Verify app available on the [Google Play Store](https://play.google.com/store/apps/details?id=com.citizencard.verify&hl=en_GB&gl=US&pli=1) and the [Apple App Store](https://apps.apple.com/gb/app/poa-card-verify/id1586349026), provided that you have given them your consent either by sharing your card details with them, letting them scan the QR code on your card reverse or take a photo of the front of your card
+* we provide retailers and other organisations with the ability to confirm that you are a legitimate cardholder at [verify.citizencard.com](https://verify.citizencard.com/) or by using the PASS Card Verify app available on the [Google Play Store](https://play.google.com/store/apps/details?id=com.citizencard.verify&hl=en_GB&gl=US&pli=1) and the [Apple App Store](https://apps.apple.com/gb/app/pass-card-verify/id1586349026), provided that you have given them your consent either by sharing your card details with them, letting them scan the QR code on your card reverse or take a photo of the front of your card
 * we use Google Cloud Vision API together with our own machine learning technology to make sure a photo you upload to support your online application complies with passport quality standards; Google does not use an anonymous photo it receives for any other purpose nor share it with third-parties and the photo is deleted right after the processing is done
-* we use Google Cloud Vision API to extract full card details from photos taken by the PoA Card Verify app to verify whether the card is genuine or not; Google does not use a photo of a card it receives for any other purpose nor share it with third-parties and the photo is deleted right after the processing is done
+* we use Google Cloud Vision API to extract full card details from photos taken by the PASS Card Verify app to verify whether the card is genuine or not; Google does not use a photo of a card it receives for any other purpose nor share it with third-parties and the photo is deleted right after the processing is done
 * we share your full name and address with our delivery provider, Royal Mail, who deliver your card to you
 * we may disclose your personal information to law enforcement agencies to the extent that we are required to do so by law
 
@@ -216,11 +216,11 @@ Paper records are retained for the following maximum periods after which time th
 
 Digital records are retained for:
 
-* Customers and their digital applications containing applicant's personal data and their referees - 20 years after record creation so customers can apply for replacement cards without being re-verified, applicants can continue pending applications and we can verify cards as valid either at [verify.citizencard.com](https://verify.citizencard.com/) or when the PoA Card Verify app is used; after 20 years the data is moved to a Secure Archive with restricted access so we can collaborate with law enforcement agencies when necessary
+* Customers and their digital applications containing applicant's personal data and their referees - 20 years after record creation so customers can apply for replacement cards without being re-verified, applicants can continue pending applications and we can verify cards as valid either at [verify.citizencard.com](https://verify.citizencard.com/) or when the PASS Card Verify app is used; after 20 years the data is moved to a Secure Archive with restricted access so we can collaborate with law enforcement agencies when necessary
 * Electronic communications such as emails - 10 years following the most recent contact made by an applicant or a referee after which the data is deleted
-* Photos of cards processed by the PoA Card Verify mobile app - 90 days following image creation after which the data is deleted
+* Photos of cards processed by the PASS Card Verify mobile app - 90 days following image creation after which the data is deleted
 * Card verification web-page for a card check made at [verify.citizencard.com](https://verify.citizencard.com/) - 2 minutes following page creation after which the page is deleted
-* Card Verification results for checks made at [verify.citizencard.com](https://verify.citizencard.com/) and via the PoA Card Verify app - 5 years following a check after which the data is anonymised (all personal information removed)
+* Card Verification results for checks made at [verify.citizencard.com](https://verify.citizencard.com/) and via the PASS Card Verify app - 5 years following a check after which the data is anonymised (all personal information removed)
 * Yoti Identity Verification, our Electronic ID Validation Technology supplier, retains the data for 28 days following the completion of the Identity Verification session
 * Royal Mail, our delivery provider, retains the data only for as long as they need to use it to provide the service requested.
 
