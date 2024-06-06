@@ -7,6 +7,7 @@
 * [Home](https://chrisglass.com/)
 * [Favorites](https://chrisglass.com/favorites/)
 * [About](https://chrisglass.com/about/)
+* [Random](https://chrisglass.com/random)
 * [Search](https://chrisglass.com/site-search/)
 
 Search for:  Submit
@@ -30,11 +31,11 @@ I do not do any tracking, but I have been known to embed videos from time to tim
 * [Links](https://chrisglass.com/links/)
 * [Folks](https://chrisglass.com/characters/)
 * [Projects](https://chrisglass.com/projects/)
-* [Soundtracks](https://chrisglass.com/previously-listened/)
 * [About](https://chrisglass.com/about/)
-* [Now](https://chrisglass.com/about/now/)
+* [Now](https://chrisglass.com/now/)
 * [Blogroll](https://chrisglass.com/blogroll/)
-* [Contact](https://chrisglass.com/about/contact/)
+* [Random](https://chrisglass.com/random)
+* [Contact](https://chrisglass.com/contact/)
 * [RSS](https://chrisglass.com/feeds)
 
 [Up](#page)
