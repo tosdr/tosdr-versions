@@ -137,51 +137,50 @@ Provider ID# 317924
 
 [### decisionsindentistry](https://www.instagram.com/decisionsindentistry/ "@decisionsindentistry")
 
-[Delta Dental’s 2024 State of America’s Oral He ![Delta Dental’s 2024 State of America’s Oral Health and Wellness Report underscores a growing understanding of oral health’s significance in overall well-being. With 91% of adults valuing dental visits as crucial as annual physicals, awareness of oral health’s impact on conditions like respiratory illnesses and diabetes is rising, especially among younger generations. Link in bio.⁠
+[Veterans with post-traumatic stress disorder (PTSD ![Veterans with post-traumatic stress disorder (PTSD) often experience poor oral health as well. Unfortunately, these veterans do not always have access to professional dental care services. The Department of Veterans Affairs’ (VA) limitations on dental coverage, governed by legislative constraints, leave many veterans without essential services. Link in bio.⁠
 ⁠
 ⁠
 ---⁠
 ⁠
-#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C7MV9nFNn8O/) 
+#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C71iohEMS1t/) 
 
-[Earn 2 CEUs with Bone Grafting Materials for Ridge ![Earn 2 CEUs with Bone Grafting Materials for Ridge Preservation⁠
-By Douglas W. Beals, DDS, MS⁠
-⁠
-Choosing the most appropriate graft material is key to successful outcomes. Link in bio.⁠
+[Pac-Dent’s iMatrix™ Clear Sectional Matrix Sys ![Pac-Dent’s iMatrix™ Clear Sectional Matrix System provides high-quality restorations while saving time and money. Learn more via the link in bio.⁠
 ⁠
 ⁠
 ---⁠
-⁠
-#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C7JxJTLt1eJ/) 
+⁠@pac_dent⁠
+#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C7zEtCrNxjb/) 
 
-[A study published in BMC Oral Health underscores t ![A study published in BMC Oral Health underscores the correlation between adverse childhood experiences (ACEs) and poor dental health among young people, shedding light on the importance of integrating this knowledge into dental health services. Read more via the link in bio.⁠
+[The University of Missouri-Kansas City (UMKC) Scho ![The University of Missouri-Kansas City (UMKC) School of Dentistry has initiated an advanced standing dental education program, offering a pathway for international dentists to practice in the United States. Link in bio.⁠
 ⁠
 ⁠
 ---⁠
 ⁠
-#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C7HTL7utblg/) 
+#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C7wSLOatDVC/) 
 
-[The realm of dentistry is rapidly changing with ad ![The realm of dentistry is rapidly changing with advancements in techniques and technology. Milling machines are one arena where innovation has led to improved efficiency and outcomes. You won’t want to miss this month’s “Tips on Technique” column in which Aaron Haah, DDS, delves into the pros and cons of in-house milling workflows. Read the latest issue online at decisionsindentistry.com or by clicking the link in bio.⁠
+[In this episode of The Art of Dental Finance and M ![In this episode of The Art of Dental Finance and Management,” Art is joined by nationally renowned dental practice management coach, speaker, and author Penny Reed. Penny shares her five key strategies for growing your dental business, from increasing your new and active patient load to improving office efficiency. Plus, she explains how running a dental practice is just like staging a Broadway show — after all, “there’s no business like smile business.” Link in bio.⁠
 ⁠
 ⁠
 ---⁠
 ⁠
-#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C7FW6P8vMbN/) 
+#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C7ttYC1MjW3/) 
 
-[The United States Food and Drug Administration (FD ![The United States Food and Drug Administration (FDA) recently approved pivmecillinam, marketed as Pivya, for treating uncomplicated urinary tract infections (uUTIs), marking the first FDA-approved antibiotic for uUTIs in more than two decades. Despite its long-standing use internationally, pivmecillinam provides a new option for millions of American women, 50% of whom will experience an uUTI during their lifetime. Read more via the link in bio.⁠
+[The Colorado Dental Association lobbied hard to ge ![The Colorado Dental Association lobbied hard to get state legislators to increase Medicaid reimbursement for dental procedures and those efforts recently came to fruition. Link in bio.⁠
 ⁠
 ⁠
 ---⁠
 ⁠
-#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C7CCvkft_9k/) 
+#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C7rWUsEM5dc/) 
 
-[Learn about the unique challenges clinicians face ![Learn about the unique challenges clinicians face in treating periodontally involved furcations and effective strategies for optimal patient outcomes. Link in bio.⁠
+[“Each condition has a unique etiology, pathogene ![“Each condition has a unique etiology, pathogenesis, clinical presentation, diagnostic work-up, treatment, prognosis, and patient considerations.” - ⁠
+Roopali Kulkarni, DMD, MPH (@rkulkarni711_)⁠
 ⁠
+Read:  Common Oral Lesions in the Dental Setting via the link in bio.⁠
 ⁠
 ⁠
 ---⁠
 ⁠
-#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C6_kzKKtudh/) 
+#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C7oxo-Ltjqg/) 
 
 [Load More](javascript:void(0);) [Follow on Instagram](https://www.instagram.com/decisionsindentistry/)
 
