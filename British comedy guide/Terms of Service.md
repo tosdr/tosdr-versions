@@ -172,21 +172,21 @@ See also: [BCG's privacy policy](https://www.comedy.co.uk/info/privacy/)
 
 ### See also
 
-[Deryck Guyler](https://www.comedy.co.uk/features/comedy_chronicles/deryck-guyler/)Features
+[Nick Helm. Credit: Ed Moore](https://www.comedy.co.uk/live/features/nick-helm-2024-interview/)Live
 
-[Comedy Chronicles: Oh yes! - The comic guile of Deryck Guyler](https://www.comedy.co.uk/features/comedy_chronicles/deryck-guyler/)
+[Nick Helm talks about his Super Fun Good Time Show](https://www.comedy.co.uk/live/features/nick-helm-2024-interview/)
 
-[In The Doghouse. James Fox-Upton (Leslie Phillips). Credit: Rank Organisation](https://www.comedy.co.uk/people/leslie_phillips/features/ding-dong-leslie-phillips-at-100/)People
+[Hi-De-Hi!. Ted Bovis (Paul Shane)](https://www.comedy.co.uk/quiz/309/)Quiz
 
-[Ding dong!: Leslie Phillips at 100](https://www.comedy.co.uk/people/leslie_phillips/features/ding-dong-leslie-phillips-at-100/)
+[British Comedy Quiz #309](https://www.comedy.co.uk/quiz/309/)
 
-[Kathy Maniura](https://www.comedy.co.uk/live/fgwg/kathy-maniura/)Live
+[The Queen and Bernard Delfont](https://www.comedy.co.uk/features/comedy_chronicles/bernard-delfont/)Features
 
-[First Gig, Worst Gig: Kathy Maniura](https://www.comedy.co.uk/live/fgwg/kathy-maniura/)
+[Comedy Chronicles: Bernard Delfont's theatrical reign](https://www.comedy.co.uk/features/comedy_chronicles/bernard-delfont/)
 
-[Consolevania. Image shows left to right: Robert Florence, Ryan MacLeod](https://www.comedy.co.uk/online/features/consolevania-at-20/)Online
+[Brighton Fringe 2024. Credit: Si Hawkins](https://www.comedy.co.uk/live/features/brighton-fringe-2024-report/)Live
 
-[Consolevania turns 20: Robert Florence and Ryan Macleod on making comedy out of video games](https://www.comedy.co.uk/online/features/consolevania-at-20/)
+[Day Tripper: a top dash around the Brighton Fringe, and beyond](https://www.comedy.co.uk/live/features/brighton-fringe-2024-report/)
 
 #### [Donate to British Comedy Guide](https://www.comedy.co.uk/donate/)
 
@@ -229,7 +229,7 @@ Privacy settings
 
 * * *
 
-Monkey Tennis?[Alan Partridge](https://www.comedy.co.uk/tv/im_alan_partridge/)
+Get your titters out![Frankie Howerd](https://www.comedy.co.uk/people/frankie_howerd/)
 
 © British Comedy Guide
 
