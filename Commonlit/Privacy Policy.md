@@ -1,4 +1,4 @@
-**CommonLit does more so that you can spend less.** Maximize growth and minimize costs with a partnership at just **$3,850 / year**! [Get a quote for your school](https://www.commonlit.org/en/contact/get-a-quote-se-pro?channel=In-Product%3A%20CL%20Banner).  Dismiss Announcement Dismiss Announcement
+_Announcing_: **CommonLit 360 for Middle School earns all-green EdReports rating!** [Get a quote](https://www.commonlit.org/en/contact/get-a-quote-se-pro-plus?channel=In-Product%3A%20CL%20Banner) to roll out the full curriculum for just $6,500 / year. Dismiss Announcement Dismiss Announcement
 
                                                                        
 
