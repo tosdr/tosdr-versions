@@ -1,0 +1,196 @@
+![](https://ct.pinterest.com/v3/?event=init&tid=2612633412795&pd[em]=<hashed_email_address>&noscript=1)
+
+       
+
+![](https://www.facebook.com/tr?id=131559183702839&ev=PageView&noscript=1)
+
+[Skip to content](#main)
+
+[![Yowie World](https://yowieworld.com/wp-content/uploads/2022/05/Yowie-Primary-Logo-1.png)![Yowie World](https://yowieworld.com/wp-content/uploads/2022/05/Yowie-Primary-Logo-1.png)](https://yowieworld.com/ "Yowie World - The sweet way to learn about saving our natural world")
+
+* [](https://yowieworld.com/cart/ "Cart")
+    
+    Cart
+    
+    No products in the cart.
+    
+    [Return to shop](https://yowieworld.com/shop/)
+    
+
+* [](#)
+    
+
+* [](https://yowieworld.com/)
+* [Meet the Yowie](https://yowieworld.com/the-yowie/)
+    * [Rumble](https://yowieworld.com/the-yowie/rumble/)
+    * [Crag](https://yowieworld.com/the-yowie/crag/)
+    * [Squish](https://yowieworld.com/the-yowie/squish/)
+    * [Ditty](https://yowieworld.com/the-yowie/ditty/)
+    * [Boof](https://yowieworld.com/the-yowie/boof/)
+    * [Nap](https://yowieworld.com/the-yowie/nap/)
+* [Collect](https://yowieworld.com/collect/)
+* [Yowasis](https://yowieworld.com/yowasis/)
+    * [Parties](https://yowieworld.com/parties/)
+    * [Rewards](https://yowieworld.com/rewards/)
+    * [Cartoons](https://yowieworld.com/cartoons/)
+    * [Coloring In](https://yowieworld.com/yowasis/)
+    * [Trivia](https://yowieworld.com/yowasis/)
+    * [Downloads](https://yowieworld.com/yowasis/)
+    * [Videos](https://yowieworld.com/yowasis/)
+    * [Puzzles & Games](https://yowieworld.com/yowasis/)
+    * [DIY](https://yowieworld.com/yowasis/)
+    * [Recipes](https://yowieworld.com/yowasis/)
+* [Educator Zone](https://yowieworld.com/educator-zone/)
+* [Products](https://yowieworld.com/products/)
+    * [Where To Buy](https://yowieworld.com/where-to-find-yowie/)
+    * [We Want Yowie](https://yowieworld.com/we-want-yowie/)
+    * [Our Products](https://yowieworld.com/products/)
+    * [Nutritional Information](https://yowieworld.com/yowie-nutritional-information/)
+* [Win](https://yowieworld.com/win/)
+    
+* [Merch](https://yowieworld.com/shop/)
+    
+
+Privacy Policy
+==============
+
+![Yowie Section Curve 15](https://yowieworld.com/wp-content/uploads/2023/06/yowie-section-curve-15.svg)
+
+### This website, YowieWorld.com, (Website) is operated by Yowie Group Ltd. (“we”, “us” and “our”).
+
+By using the Website, you agree to our privacy policy (Privacy Policy).
+
+This Privacy Policy is a contract between you and us and applies to all users of this Website. In this Privacy Policy “you” or “your” means any person or entity using the Website, provided that if such person is under 18 years of age (or the age of majority in the jurisdiction in which the person resides), whichever is older, it also includes such person’s parent or legal guardian.
+
+The Privacy Policy sets out our practices in relation to the collection, use and disclosure of your personal information, which you may disclose to us through your conduct on the Website.
+
+We may change this Privacy Policy at any time. Please check this page periodically to inform yourself of any changes. Your continued use of the Website will be deemed acceptance of the updated or amended Privacy Policy. If you do not agree to the changes, you should cease using the Website.
+
+The Privacy Policy should be read together with the User Agreement, which is also available on this Website.
+
+### Information Sharing and Disclosure
+
+We do not disclose, share, rent or trade information about the registered users of Yowie World, Yowieworld.com or any mobile application of Yowie World with any third parties.
+
+We reserve the right to disclose your personal information (including your name, title, date of birth and contact details) in special circumstances where we have reason to believe it is necessary, including when we are required by law to make such a disclosure, when we believe that disclosure is necessary to protect or enforce our rights or the rights of our related companies, if we are engaged in a dispute or a court proceeding, or where there is a court order in place which requires us to disclose such information.
+
+We reserve the right to use personal information about you in connection with:
+
+* monitoring and evaluating our products and services;
+* assisting you with queries about your account;
+* taking measures to detect and prevent fraudulent conduct;
+* to monitor who is accessing the Website or using services offered on the Website;
+* to send you information about the products and services offered on the Website and other products and services we offer;
+* to personalize the products and services offered on the Website;
+* for statistical analysis; and
+* for security purposes.
+
+We reserve the right to communicate your email address to social networks in order to identify whether you are already a user of the concerned social network and in order to post personalised, relevant adverts on your social network account if appropriate.
+
+Our website integrates and links with social media sites such as Facebook, Instagram and others. You should review the privacy policy of these sites if you wish to share or like content on these services. If you are a member of (or sign up with) a social media site, the interfaces with
+
+We may also arrange for contractors to provide hosting and operational services in relation to the Website. We will take reasonable steps to ensure that those contractors will comply with the terms of this Privacy Policy and all applicable laws relating to privacy of personal information.
+
+### Confidentiality and Security
+
+We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Further, submissions made via email are not protected by encryption and may be vulnerable to interception during transmissions. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. We will not be held responsible for events arising from unauthorized access to your personal information. To the fullest extent permitted by law, we disclaim all responsibility for all negligent acts that may result in disclosure of your personal information.
+
+If we decide to change our Privacy Policy, we will post the amended version on this Website and to the parental email address as appropriate.
+
+### Links to Other Websites
+
+You may be able to link to third party websites from the Website. It is your responsibility to review the privacy policies and any other terms and conditions which may apply in respect of any such third-party websites.
+
+We do not accept any responsibility and shall not be held liable for any issues, including privacy issues, arising from your access to or use of any third-party websites. You acknowledge that you access and use all third-party websites at your own risk.
+
+### Information Collected
+
+The information that we collect is dependent on how you use the facilities offered on the Website. If you visit an unsecure area of the Website (that is, an area where you are not required to log on) to read, browse or download information, our system will record the date and time of your visit, the pages viewed, and any information downloaded. However, our systems will not record any personal information.
+
+If you use any of the games available on the Website, we generally do not capture any personal information that you may enter when playing those games. An exception to this may be when a game allows you to suspend play and return to the same point in the game at a later time. In that case the information is stored on our systems to allow you to rejoin the game at the same point.
+
+If you decide to complete an online form, we will only collect the information that you enter into the online form if you submit the form. If at any stage you cancel the entry before submitting it, or you log out prior to submitting the form, the information you have entered up to that point will automatically be deleted.
+
+### Cookies
+
+Our Website uses “cookies” to interact with your Internet browser. The purpose is to provide you with better and more customized service and with a more effective website.
+
+A “cookie” is a small text file that our web server places on the web browser on your computer. The web server can retrieve that cookie at a later time. Cookies are frequently used on websites. You can choose if and how a cookie will be accepted by configuring the preferences and options in your web browser.
+
+If you wish to make full use of the Website, it will be necessary for your web browser to accept cookies.
+
+### Contact Details
+
+If you have any question about our Website, including any questions in relation to the security of your information, please email us at [\[email protected\]](https://yowieworld.com/cdn-cgi/l/email-protection).
+
+### How we Handle Email
+
+We will preserve the content of any e-mail that you send us, if we believe that we have a legal requirement to do so. Your e-mail message content may be monitored for security issues including where e-mail abuse is suspected. Our response to you may also be monitored for quality assurance issues.
+
+![Yowie Section Curve Purple 03](https://yowieworld.com/wp-content/uploads/2023/03/yowie-section-curve-purple-03.svg)
+
+[![Yowie Primary Logo](https://yowieworld.com/wp-content/uploads/2022/05/Yowie-Primary-Logo-1.png)](https://yowieworld.com/)
+
+[](https://www.facebook.com/YowieWorld/ "Follow on Facebook")[](https://www.instagram.com/yowieworld/ "Follow on Instagram")[](https://www.tiktok.com/@yowieworld?is_copy_url=1&is_from_webapp=v1&lang=en "Follow on TikTok")[](https://twitter.com/yowieworld "Follow on Twitter")[](https://www.pinterest.com.au/yowieworld/_created/ "Follow on Pinterest")[](https://www.youtube.com/user/YowieWorld/ "Follow on YouTube")
+
+* [News](https://yowieworld.com/news/)
+* [Blog](https://yowieworld.com/blog/)
+* [Making a Difference](https://yowieworld.com/making-a-difference/)
+* [Nutritional Information](https://yowieworld.com/yowie-nutritional-information/)
+* [For Media](https://yowieworld.com/press-kit/)
+* [For Investors](https://yowieworld.com/investors-and-corporate/)
+* [Privacy](https://yowieworld.com/privacy-policy/)
+* [Terms & Conditions](https://yowieworld.com/terms-conditions/)
+* [Contact Us](https://yowieworld.com/contact-us/)
+
+Copyright 2023 © Yowie | Website built by [Social Tap](https://www.socialtap.com.au/)  
+Google Analytics & reCAPTCHA are used on this site - view [Privacy & Terms](https://policies.google.com/privacy?hl=en) | [Opt Out](https://tools.google.com/dlpage/gaoptout)
+
+Website built by [Social Tap](https://www.socialtap.com.au/)
+
+Copyright 2024 © **Yowie**
+
+[](#top)
+
+* [](https://yowieworld.com/)
+* [Meet the Yowie](https://yowieworld.com/the-yowie/)
+    * [Rumble](https://yowieworld.com/the-yowie/rumble/)
+    * [Crag](https://yowieworld.com/the-yowie/crag/)
+    * [Squish](https://yowieworld.com/the-yowie/squish/)
+    * [Ditty](https://yowieworld.com/the-yowie/ditty/)
+    * [Boof](https://yowieworld.com/the-yowie/boof/)
+    * [Nap](https://yowieworld.com/the-yowie/nap/)
+* [Collect](https://yowieworld.com/collect/)
+* [Yowasis](https://yowieworld.com/yowasis/)
+    * [Parties](https://yowieworld.com/parties/)
+    * [Rewards](https://yowieworld.com/rewards/)
+    * [Cartoons](https://yowieworld.com/cartoons/)
+    * [Coloring In](https://yowieworld.com/yowasis/)
+    * [Trivia](https://yowieworld.com/yowasis/)
+    * [Downloads](https://yowieworld.com/yowasis/)
+    * [Videos](https://yowieworld.com/yowasis/)
+    * [Puzzles & Games](https://yowieworld.com/yowasis/)
+    * [DIY](https://yowieworld.com/yowasis/)
+    * [Recipes](https://yowieworld.com/yowasis/)
+* [Educator Zone](https://yowieworld.com/educator-zone/)
+* [Products](https://yowieworld.com/products/)
+    * [Where To Buy](https://yowieworld.com/where-to-find-yowie/)
+    * [We Want Yowie](https://yowieworld.com/we-want-yowie/)
+    * [Our Products](https://yowieworld.com/products/)
+    * [Nutritional Information](https://yowieworld.com/yowie-nutritional-information/)
+* [Win](https://yowieworld.com/win/)
+    
+* [](https://www.facebook.com/YowieWorld/ "Follow on Facebook")[](https://www.instagram.com/yowieworld/ "Follow on Instagram")[](https://www.tiktok.com/@yowieworld?is_copy_url=1&is_from_webapp=v1&lang=en "Follow on TikTok")[](https://twitter.com/yowieworld "Follow on Twitter")[](https://www.pinterest.com.au/yowieworld/_created/ "Follow on Pinterest")[](https://www.youtube.com/user/YowieWorld/ "Follow on YouTube")
+    
+
+### Login
+
+Username or email address \* 
+
+Password \* 
+
+ Remember me  Log in
+
+[Lost your password?](https://yowieworld.com/my-account/lost-password/)
+
+We use cookies to ensure that we give you the best experience on our website. By continuing to use this site you are accepting the [terms and conditions](https://yowieworld.com/terms-conditions/), [Privacy policy](https://yowieworld.com/privacy-policy/) and the use of cookies.[Close](#)
