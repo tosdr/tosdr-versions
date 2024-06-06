@@ -1,7 +1,7 @@
 [craigslist](https://www.craigslist.org/) > [about](https://www.craigslist.org/about/) > privacy policy
 
-craigslist Privacy Policy (updated September 15, 2020)
-------------------------------------------------------
+craigslist Privacy Policy (updated May 29, 2024)
+------------------------------------------------
 
 [terms of use](https://www.craigslist.org/about/terms.of.use)  |   [feedback](https://forums.craigslist.org/?forumID=8)
 
@@ -28,7 +28,7 @@ Below is a list of all the types of data we have collected in the last 12 months
 | --- | --- | --- | --- |
 | **Data type** | **Where we got it** | **Why collected** | **Disclosed to** |
 | First and last name | User entry | Facilitating transactions and personalizing your use of CL | Payment processors |
-| Email address | User entry | Account creation, user-to-user and CL-to-user communications and combatting fraud/abuse | No one |
+| Email | User entry | Account creation, user-to-user and CL-to-user communications and combatting fraud/abuse | No one |
 | Phone number | User entry | User-to-user communications, combatting fraud/abuse, personalizing your use of CL | Payment processors and phone verification service providers |
 | Mailing or street address | User entry | Account and post creation, CL communicating with corporate users, facilitating transactions and personalizing your use of CL | Payment processors |
 | Credit card data | User entry | Facilitating your transactions | Payment processors |
