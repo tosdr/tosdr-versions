@@ -1,7 +1,7 @@
 [](https://airportinfo.live/)
 
 Uhrzeit:  
-Mon 04/22/2024
+Thu 06/06/2024
 
   ![](/images/search.svg)
 
@@ -12,7 +12,7 @@ Mon 04/22/2024
 * [FR](https://airportinfo.live/fr)
 * [ES](https://airportinfo.live/es)
 
-[Airportinfo.live](https://airportinfo.live/) [Flight Statistics](https://airportinfo.live/flight-statistics) [Airport Statistics](https://airportinfo.live/airport-statistics) [Flughäfen weltweit](https://airportinfo.live/worldairports)[](javascript:void(0);)
+[Airportinfo.live](https://airportinfo.live/) [Flight Statistics](https://airportinfo.live/flight-statistics) [Airport Statistics](https://airportinfo.live/airport-statistics) [Flughäfen weltweit](https://airportinfo.live/worldairports) [Shop](https://shop.airportinfo.live/)[](javascript:void(0);)
 
 [Home](https://airportinfo.live/) > [Terms of Service](https://airportinfo.live/terms%20of%20service "Terms of Service")
 
