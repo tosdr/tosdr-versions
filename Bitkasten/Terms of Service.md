@@ -262,6 +262,7 @@ bitkasten App herunterladen
 * [Transparenzerklärung](https://www.bitkasten.de/transparenzerklaerung/)
 * [AGB](https://www.bitkasten.de/agb/)
 * [Impressum](https://www.bitkasten.de/impressum/)
+* [Barrierefreiheit](https://www.bitkasten.de/barrierefrei/)
 
 * [Datenschutzerklärung](https://www.bitkasten.de/datenschutzerklaerung/)
 * [Nutzungsbedingungen](https://www.bitkasten.de/nutzungsbedingungen/)
@@ -269,5 +270,6 @@ bitkasten App herunterladen
 * [Transparenzerklärung](https://www.bitkasten.de/transparenzerklaerung/)
 * [AGB](https://www.bitkasten.de/agb/)
 * [Impressum](https://www.bitkasten.de/impressum/)
+* [Barrierefreiheit](https://www.bitkasten.de/barrierefrei/)
 
 Nach oben scrollen
