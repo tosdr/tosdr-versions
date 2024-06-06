@@ -69,8 +69,8 @@ The ROAS Trap: Discover 11 metrics that prove the value of retail media beyond R
     * [Consumer Trends The latest consumer data for 20 countries and 600+ product categories](https://www.criteo.com/consumer-insights-dashboard/)
     * [Glossary Definitions of the most common digital advertising terminology](https://www.criteo.com/digital-advertising-glossary/)
     * [Addressability Learn about our multi-pronged addressability strategy for the ecosystem](https://www.criteo.com/solutions/addressability/)
-    * [Support Center FAQs, guides, and more to help you maximize your Criteo campaigns](https://help.criteo.com/)
-    * [Events See where Criteo will be next](https://www.criteo.com/events)
+    * [Help Center FAQs, guides, and more to help you maximize your Criteo campaigns](https://www.criteo.com/help-center/)
+    * [Events See where Criteo will be next](https://www.criteo.com/events/)
     
     Creative Formats
     
@@ -203,8 +203,8 @@ Search for:
     * [Consumer Trends The latest consumer data for 20 countries and 600+ product categories](https://www.criteo.com/consumer-insights-dashboard/)
     * [Glossary Definitions of the most common digital advertising terminology](https://www.criteo.com/digital-advertising-glossary/)
     * [Addressability Learn about our multi-pronged addressability strategy for the ecosystem](https://www.criteo.com/solutions/addressability/)
-    * [Support Center FAQs, guides, and more to help you maximize your Criteo campaigns](https://help.criteo.com/)
-    * [Events See where Criteo will be next](https://www.criteo.com/events)
+    * [Help Center FAQs, guides, and more to help you maximize your Criteo campaigns](https://www.criteo.com/help-center/)
+    * [Events See where Criteo will be next](https://www.criteo.com/events/)
     
     Back
     
@@ -401,6 +401,21 @@ Please note that we may update or change this privacy policy. If we revise our p
 
 Last updated : 11/03/2022
 
+![](/wp-content/themes/criteo2017/img/close_btn_black.svg)
+
+![](https://www.criteo.com/wp-content/uploads/2024/05/card-8-1.png)
+
+![](https://www.criteo.com/wp-content/uploads/2024/05/card-5.png)
+
+![](https://www.criteo.com/wp-content/uploads/2024/05/card-7.png)
+
+![](https://www.criteo.com/wp-content/uploads/2024/05/card-6.png)
+
+Criteo Trend Tracker
+--------------------
+
+Data & Insights to Know and Share
+
 [![Criteo logo](/wp-content/themes/criteo2017/img/criteo-logo-orange.svg)](https://www.criteo.com/)
 
 [Contact Sales](https://www.criteo.com/talk-to-an-expert/)
@@ -419,7 +434,7 @@ Privacy
 * [Privacy Policy](https://www.criteo.com/privacy/)
 * [CCPA Privacy Policy](https://www.criteo.com/privacy/ccpa-privacy-policy/)
 * [Website Privacy Policy](https://www.criteo.com/privacy/corporate-privacy-policy/)
-* [Do Not Sell or Share My Personal Information](https://www.criteo.com/ccpa-website-privacy-policy/)
+* [Do Not Sell or Share My Personal Information](https://www.criteo.com/privacy/ccpa-privacy-policy/)
 * [Cookie Management](javascript:Cookiebot.renew())
 * [Privacy Guidelines for Clients and Publisher Partners](https://www.criteo.com/criteo-privacy-guidelines-for-clients-and-publisher-partners/)
 
