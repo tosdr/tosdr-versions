@@ -9,7 +9,7 @@
 * [Services](https://www.allsides.com/services)
 * [About](https://www.allsides.com/about)
 
-[](https://www.allsides.com/user/login "Log In")
+[](https://www.allsides.com/user/register "register")
 
 Balanced Search  Submit Search
 
@@ -242,6 +242,8 @@ We may update this Policy from time to time in order to provide clarification or
 [About AllSides](https://www.allsides.com/about) [Press](https://www.allsides.com/about/press-bias-ratings-school-programs) [Ownership](https://www.allsides.com/about/ownership) [Terms of Use](https://www.allsides.com/content/terms-use) [Privacy Notice](https://www.allsides.com/privacy) [Cookie Policy](https://www.allsides.com/cookie-policy) [California Notice](https://www.allsides.com/california-notice) [Support AllSides](https://www.allsides.com/support)
 
 [](https://www.facebook.com/AllSidesNow "Like us on Facebook")[](https://twitter.com/AllSidesNow "Follow us on Twitter")[](https://www.instagram.com/allsidesnow/ "Follow us on Instagram")[](https://www.tiktok.com/@allsidesnow "Follow us on TikTok")[](https://www.allsides.com/rss/news "Follow our RSS News Feed")
+
+ [![Download on the App Store](https://www.allsides.com/sites/default/files/download-app-store.svg)](https://apps.apple.com/us/app/allsides-balanced-news/id1535521873?platform=iphone "Download the AllSides App on the App Store")[![Get it on Google Play](https://www.allsides.com/sites/default/files/download-google-play.svg)](https://play.google.com/store/apps/details?id=com.allsides&pcampaignid=web_share "Get it on Google Play")
 
 © AllSides
 
