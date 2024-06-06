@@ -1,0 +1,885 @@
+<img src="https://pixel62ce5556d21c1d3.advangelists.com/v1/audiences?account\_id=488&amp;segment\_key=62ce5556d21c1d3&amp;vars\[advid\]=2427" width="1" height="1">        
+
+[](https://www.perimeterx.com/)
+
+* Platform
+    
+    * * [Human Defense Platform
+            
+            Comprehensive detection, decisioning, and protection for today’s customer journey](https://www.humansecurity.com/platform)
+            
+            [Comprehensive detection, decisioning, and protection for today’s customer journey](https://www.humansecurity.com/platform)
+            
+        * Platform Packages
+            
+            [Advertising
+            
+            Comprehensive, purpose-built solutions for ad tech platforms and digital publishers.](https://www.humansecurity.com/platform/packages/advertising-platforms)
+            
+            [Comprehensive, purpose-built solutions for ad tech platforms and digital publishers.](https://www.humansecurity.com/platform/packages/advertising-platforms)
+            
+        * [Applications
+            
+            Cybersecurity solutions to protect web and mobile applications from fraud and abuse.](https://www.humansecurity.com/platform/packages/applications)
+            
+            [Cybersecurity solutions to protect web and mobile applications from fraud and abuse.](https://www.humansecurity.com/platform/packages/applications)
+            
+        * [Account
+            
+            Stop fraudsters from exploiting your valuable online accounts on apps and websites.](https://www.humansecurity.com/platform/packages/accounts)
+            
+            [Stop fraudsters from exploiting your valuable online accounts on apps and websites.](https://www.humansecurity.com/platform/packages/accounts)
+            
+    * * [Ad Fraud Sensor](https://www.humansecurity.com/platform/solutions/ad-fraud-sensor)
+            
+            [](https://www.humansecurity.com/platform/solutions/ad-fraud-sensor)
+            
+        * [Scraping](https://www.humansecurity.com/platform/solutions/scraping)
+            
+            [](https://www.humansecurity.com/platform/solutions/scraping)
+            
+        * [PCI DSS Compliance](https://www.humansecurity.com/platform/solutions/pci-dss-compliance)
+            
+            [](https://www.humansecurity.com/platform/solutions/pci-dss-compliance)
+            
+        * [Ad Fraud Defense](https://www.humansecurity.com/platform/solutions/ad-fraud)
+            
+            [](https://www.humansecurity.com/platform/solutions/ad-fraud)
+            
+        * [Data Contamination](https://www.humansecurity.com/platform/solutions/data-contamination)
+            
+            [](https://www.humansecurity.com/platform/solutions/data-contamination)
+            
+        * [Account Takeover](https://www.humansecurity.com/platform/solutions/account-takeover)
+            
+            [](https://www.humansecurity.com/platform/solutions/account-takeover)
+            
+        * [Malvertising](https://www.humansecurity.com/platform/solutions/malvertising)
+            
+            [](https://www.humansecurity.com/platform/solutions/malvertising)
+            
+        * [Transaction Abuse](https://www.humansecurity.com/platform/solutions/transaction-abuse)
+            
+            [](https://www.humansecurity.com/platform/solutions/transaction-abuse)
+            
+        * [Fake Accounts](https://www.humansecurity.com/platform/solutions/fake-accounts)
+            
+            [](https://www.humansecurity.com/platform/solutions/fake-accounts)
+            
+        * [Ad Quality](https://www.humansecurity.com/platform/solutions/ad-quality)
+            
+            [](https://www.humansecurity.com/platform/solutions/ad-quality)
+            
+        * [Client-Side](https://www.humansecurity.com/platform/solutions/client-side)
+            
+            [](https://www.humansecurity.com/platform/solutions/client-side)
+            
+        * [Compromised Accounts](https://www.humansecurity.com/platform/solutions/compromised-accounts)
+            
+            [](https://www.humansecurity.com/platform/solutions/compromised-accounts)
+            
+    
+* Learn
+    
+    * * [Blog
+            
+            HUMAN Insight and Research from our team](https://www.humansecurity.com/learn/blog)
+            
+            [HUMAN Insight and Research from our team](https://www.humansecurity.com/learn/blog)
+            
+        * [Case Studies
+            
+            See what customers have to say about HUMAN](https://www.humansecurity.com/learn/resources?content=Case-Studies)
+            
+            [See what customers have to say about HUMAN](https://www.humansecurity.com/learn/resources?content=Case-Studies)
+            
+        * [Webinars
+            
+            Videos and content about HUMAN expertise and industry intelligence](https://www.humansecurity.com/learn/webinars)
+            
+            [Videos and content about HUMAN expertise and industry intelligence](https://www.humansecurity.com/learn/webinars)
+            
+    * * [Resource Center
+            
+            Blogs, whitepapers, research, videos, articles—all in one place](https://www.humansecurity.com/learn/resources)
+            
+            [Blogs, whitepapers, research, videos, articles—all in one place](https://www.humansecurity.com/learn/resources)
+            
+        * [Documentation
+            
+            Details about HUMAN's products and interfaces.](https://docs.humansecurity.com/)
+            
+            [Details about HUMAN's products and interfaces.](https://docs.humansecurity.com/)
+            
+        * [Security
+            
+            HUMAN's data security & privacy FAQ](https://www.humansecurity.com/data-security-and-privacy-faq)
+            
+            [HUMAN's data security & privacy FAQ](https://www.humansecurity.com/data-security-and-privacy-faq)
+            
+    * * [Satori Threat Intelligence Research Team
+            
+            HUMAN’s Satori Threat Intelligence and Research Team proactively uncovers and disrupts bot-driven threats.](https://www.humansecurity.com/company/satori-threat-intelligence)
+            
+            [HUMAN’s Satori Threat Intelligence and Research Team proactively uncovers and disrupts bot-driven threats.](https://www.humansecurity.com/company/satori-threat-intelligence)
+            
+        * [Bot Insights
+            
+            Get the insights you need to protect your business from bots](https://www.humansecurity.com/products/human-insights/bot-insights-services)
+            
+            [Get the insights you need to protect your business from bots](https://www.humansecurity.com/products/human-insights/bot-insights-services)
+            
+    * * [Account Takeover](https://www.humansecurity.com/learn/topics/what-is-account-takeover)
+            
+            [](https://www.humansecurity.com/learn/topics/what-is-account-takeover)
+            
+        * [Ad Fraud](https://www.humansecurity.com/topics/what-is-ad-fraud)
+            
+            [](https://www.humansecurity.com/topics/what-is-ad-fraud)
+            
+        * [Application Security](https://www.humansecurity.com/learn/topics/what-is-application-security)
+            
+            [](https://www.humansecurity.com/learn/topics/what-is-application-security)
+            
+        * [Blocking Bots](https://www.humansecurity.com/learn/topics/what-is-bot-traffic)
+            
+            [](https://www.humansecurity.com/learn/topics/what-is-bot-traffic)
+            
+        * [Bots](https://www.humansecurity.com/learn/topics/what-is-a-bot)
+            
+            [](https://www.humansecurity.com/learn/topics/what-is-a-bot)
+            
+        * [Bot Detection](https://www.humansecurity.com/learn/topics/what-is-bot-detection)
+            
+            [](https://www.humansecurity.com/learn/topics/what-is-bot-detection)
+            
+        * [Brute Force Attack](https://www.humansecurity.com/learn/topics/what-is-a-brute-force-attack)
+            
+            [](https://www.humansecurity.com/learn/topics/what-is-a-brute-force-attack)
+            
+        * [Captcha](https://www.humansecurity.com/learn/topics/what-is-a-captcha)
+            
+            [](https://www.humansecurity.com/learn/topics/what-is-a-captcha)
+            
+        * [Carding](https://www.humansecurity.com/learn/topics/what-is-carding)
+            
+            [](https://www.humansecurity.com/learn/topics/what-is-carding)
+            
+        * [Credential Stuffing](https://www.humansecurity.com/learn/topics/what-is-credential-stuffing)
+            
+            [](https://www.humansecurity.com/learn/topics/what-is-credential-stuffing)
+            
+        * [E-commerce Security](https://www.humansecurity.com/learn/topics/what-is-e-commerce-security)
+            
+            [](https://www.humansecurity.com/learn/topics/what-is-e-commerce-security)
+            
+        * [Fake Account Creation](https://www.humansecurity.com/learn/topics/what-is-fake-account-creation)
+            
+            [](https://www.humansecurity.com/learn/topics/what-is-fake-account-creation)
+            
+        * [PCI DSS Compliance](https://www.humansecurity.com/learn/topics/what-is-pci-dss-compliance)
+            
+            [](https://www.humansecurity.com/learn/topics/what-is-pci-dss-compliance)
+            
+        * [PII Harvesting](https://www.humansecurity.com/learn/topics/what-is-pii-harvesting)
+            
+            [](https://www.humansecurity.com/learn/topics/what-is-pii-harvesting)
+            
+        * [Shadow Code](https://www.humansecurity.com/learn/topics/what-is-shadow-code)
+            
+            [](https://www.humansecurity.com/learn/topics/what-is-shadow-code)
+            
+        * [Supply Chain Attack](https://www.humansecurity.com/learn/topics/what-are-supply-chain-attacks)
+            
+            [](https://www.humansecurity.com/learn/topics/what-are-supply-chain-attacks)
+            
+        * [Web Scraping](https://www.humansecurity.com/learn/topics/what-is-scraping)
+            
+            [](https://www.humansecurity.com/learn/topics/what-is-scraping)
+            
+    
+* Company
+    
+    * * [About
+            
+            HUMAN safeguards against bot attacks and fraud](https://www.humansecurity.com/company/about)
+            
+            [HUMAN safeguards against bot attacks and fraud](https://www.humansecurity.com/company/about)
+            
+        * [News
+            
+            HUMAN in the News](https://www.humansecurity.com/learn/newsroom)
+            
+            [HUMAN in the News](https://www.humansecurity.com/learn/newsroom)
+            
+        * [Careers
+            
+            Find your next career move with HUMAN](https://www.humansecurity.com/company/careers)
+            
+            [Find your next career move with HUMAN](https://www.humansecurity.com/company/careers)
+            
+    * * [Leadership
+            
+            Meet the elite bot threat hunters dedicated to making the internet a safer place](https://www.humansecurity.com/company/leadership)
+            
+            [Meet the elite bot threat hunters dedicated to making the internet a safer place](https://www.humansecurity.com/company/leadership)
+            
+        * [Board of Directors
+            
+            Meet the minds behind HUMAN’s mission](https://www.humansecurity.com/company/board-of-directors)
+            
+            [Meet the minds behind HUMAN’s mission](https://www.humansecurity.com/company/board-of-directors)
+            
+        * [The Human Collective
+            
+            Collective protection to fight ad-based fraud](https://www.humansecurity.com/company/the-human-collective)
+            
+            [Collective protection to fight ad-based fraud](https://www.humansecurity.com/company/the-human-collective)
+            
+    * * [Satori Threat Intelligence Research Team
+            
+            HUMAN’S Satori Threat Intelligence and Research Team proactively uncover and disrupt bot-driven threats](https://www.humansecurity.com/company/satori-threat-intelligence)
+            
+            [HUMAN’S Satori Threat Intelligence and Research Team proactively uncover and disrupt bot-driven threats](https://www.humansecurity.com/company/satori-threat-intelligence)
+            
+    
+* Partners
+    
+    * * [The Human Collective
+            
+            Collective protection to fight ad-based fraud](https://www.humansecurity.com/company/the-human-collective)
+            
+            [Collective protection to fight ad-based fraud](https://www.humansecurity.com/company/the-human-collective)
+            
+        * [Partnerships and Integrations
+            
+            HUMAN integrates with several technology partners, ensuring bot mitigation success in any environment.](https://www.humansecurity.com/partners)
+            
+            [HUMAN integrates with several technology partners, ensuring bot mitigation success in any environment.](https://www.humansecurity.com/partners)
+            
+        * [Resellers
+            
+            Explore HUMAN's technology through channel partners, combining bot mitigation and other security solutions.](https://www.humansecurity.com/partners/channel)
+            
+            [Explore HUMAN's technology through channel partners, combining bot mitigation and other security solutions.](https://www.humansecurity.com/partners/channel)
+            
+    * * [Become a Partner
+            
+            HUMAN collaborates with the world's leading technology companies](https://www.humansecurity.com/partners/technology)
+            
+            [HUMAN collaborates with the world's leading technology companies](https://www.humansecurity.com/partners/technology)
+            
+        * [Partner Portal
+            
+            Log into the HUMAN Partner Portal for collateral, documentation, and other partnership needs.](https://partners.humansecurity.com/English/?ReturnUrl=%2fEnglish%2fPartners%2fhome.aspx)
+            
+            [Log into the HUMAN Partner Portal for collateral, documentation, and other partnership needs.](https://partners.humansecurity.com/English/?ReturnUrl=%2fEnglish%2fPartners%2fhome.aspx)
+            
+    
+
+[](https://www.perimeterx.com/hs-search-results)
+
+* [Request a Demo](https://www.humansecurity.com/demo-request)
+
+   
+
+* Platform
+    
+    * * [Human Defense Platform
+            
+            Comprehensive detection, decisioning, and protection for today’s customer journey](https://www.humansecurity.com/platform)
+            
+            [Comprehensive detection, decisioning, and protection for today’s customer journey](https://www.humansecurity.com/platform)
+            
+        * Platform Packages
+            
+            [Advertising
+            
+            Comprehensive, purpose-built solutions for ad tech platforms and digital publishers.](https://www.humansecurity.com/platform/packages/advertising-platforms)
+            
+            [Comprehensive, purpose-built solutions for ad tech platforms and digital publishers.](https://www.humansecurity.com/platform/packages/advertising-platforms)
+            
+        * [Applications
+            
+            Cybersecurity solutions to protect web and mobile applications from fraud and abuse.](https://www.humansecurity.com/platform/packages/applications)
+            
+            [Cybersecurity solutions to protect web and mobile applications from fraud and abuse.](https://www.humansecurity.com/platform/packages/applications)
+            
+        * [Account
+            
+            Stop fraudsters from exploiting your valuable online accounts on apps and websites.](https://www.humansecurity.com/platform/packages/accounts)
+            
+            [Stop fraudsters from exploiting your valuable online accounts on apps and websites.](https://www.humansecurity.com/platform/packages/accounts)
+            
+    * * [Ad Fraud Sensor](https://www.humansecurity.com/platform/solutions/ad-fraud-sensor)
+            
+            [](https://www.humansecurity.com/platform/solutions/ad-fraud-sensor)
+            
+        * [Scraping](https://www.humansecurity.com/platform/solutions/scraping)
+            
+            [](https://www.humansecurity.com/platform/solutions/scraping)
+            
+        * [PCI DSS Compliance](https://www.humansecurity.com/platform/solutions/pci-dss-compliance)
+            
+            [](https://www.humansecurity.com/platform/solutions/pci-dss-compliance)
+            
+        * [Ad Fraud Defense](https://www.humansecurity.com/platform/solutions/ad-fraud)
+            
+            [](https://www.humansecurity.com/platform/solutions/ad-fraud)
+            
+        * [Data Contamination](https://www.humansecurity.com/platform/solutions/data-contamination)
+            
+            [](https://www.humansecurity.com/platform/solutions/data-contamination)
+            
+        * [Account Takeover](https://www.humansecurity.com/platform/solutions/account-takeover)
+            
+            [](https://www.humansecurity.com/platform/solutions/account-takeover)
+            
+        * [Malvertising](https://www.humansecurity.com/platform/solutions/malvertising)
+            
+            [](https://www.humansecurity.com/platform/solutions/malvertising)
+            
+        * [Transaction Abuse](https://www.humansecurity.com/platform/solutions/transaction-abuse)
+            
+            [](https://www.humansecurity.com/platform/solutions/transaction-abuse)
+            
+        * [Fake Accounts](https://www.humansecurity.com/platform/solutions/fake-accounts)
+            
+            [](https://www.humansecurity.com/platform/solutions/fake-accounts)
+            
+        * [Ad Quality](https://www.humansecurity.com/platform/solutions/ad-quality)
+            
+            [](https://www.humansecurity.com/platform/solutions/ad-quality)
+            
+        * [Client-Side](https://www.humansecurity.com/platform/solutions/client-side)
+            
+            [](https://www.humansecurity.com/platform/solutions/client-side)
+            
+        * [Compromised Accounts](https://www.humansecurity.com/platform/solutions/compromised-accounts)
+            
+            [](https://www.humansecurity.com/platform/solutions/compromised-accounts)
+            
+    
+* Learn
+    
+    * * [Blog
+            
+            HUMAN Insight and Research from our team](https://www.humansecurity.com/learn/blog)
+            
+            [HUMAN Insight and Research from our team](https://www.humansecurity.com/learn/blog)
+            
+        * [Case Studies
+            
+            See what customers have to say about HUMAN](https://www.humansecurity.com/learn/resources?content=Case-Studies)
+            
+            [See what customers have to say about HUMAN](https://www.humansecurity.com/learn/resources?content=Case-Studies)
+            
+        * [Webinars
+            
+            Videos and content about HUMAN expertise and industry intelligence](https://www.humansecurity.com/learn/webinars)
+            
+            [Videos and content about HUMAN expertise and industry intelligence](https://www.humansecurity.com/learn/webinars)
+            
+    * * [Resource Center
+            
+            Blogs, whitepapers, research, videos, articles—all in one place](https://www.humansecurity.com/learn/resources)
+            
+            [Blogs, whitepapers, research, videos, articles—all in one place](https://www.humansecurity.com/learn/resources)
+            
+        * [Documentation
+            
+            Details about HUMAN's products and interfaces.](https://docs.humansecurity.com/)
+            
+            [Details about HUMAN's products and interfaces.](https://docs.humansecurity.com/)
+            
+        * [Security
+            
+            HUMAN's data security & privacy FAQ](https://www.humansecurity.com/data-security-and-privacy-faq)
+            
+            [HUMAN's data security & privacy FAQ](https://www.humansecurity.com/data-security-and-privacy-faq)
+            
+    * * [Satori Threat Intelligence Research Team
+            
+            HUMAN’s Satori Threat Intelligence and Research Team proactively uncovers and disrupts bot-driven threats.](https://www.humansecurity.com/company/satori-threat-intelligence)
+            
+            [HUMAN’s Satori Threat Intelligence and Research Team proactively uncovers and disrupts bot-driven threats.](https://www.humansecurity.com/company/satori-threat-intelligence)
+            
+        * [Bot Insights
+            
+            Get the insights you need to protect your business from bots](https://www.humansecurity.com/products/human-insights/bot-insights-services)
+            
+            [Get the insights you need to protect your business from bots](https://www.humansecurity.com/products/human-insights/bot-insights-services)
+            
+    * * [Account Takeover](https://www.humansecurity.com/learn/topics/what-is-account-takeover)
+            
+            [](https://www.humansecurity.com/learn/topics/what-is-account-takeover)
+            
+        * [Ad Fraud](https://www.humansecurity.com/topics/what-is-ad-fraud)
+            
+            [](https://www.humansecurity.com/topics/what-is-ad-fraud)
+            
+        * [Application Security](https://www.humansecurity.com/learn/topics/what-is-application-security)
+            
+            [](https://www.humansecurity.com/learn/topics/what-is-application-security)
+            
+        * [Blocking Bots](https://www.humansecurity.com/learn/topics/what-is-bot-traffic)
+            
+            [](https://www.humansecurity.com/learn/topics/what-is-bot-traffic)
+            
+        * [Bots](https://www.humansecurity.com/learn/topics/what-is-a-bot)
+            
+            [](https://www.humansecurity.com/learn/topics/what-is-a-bot)
+            
+        * [Bot Detection](https://www.humansecurity.com/learn/topics/what-is-bot-detection)
+            
+            [](https://www.humansecurity.com/learn/topics/what-is-bot-detection)
+            
+        * [Brute Force Attack](https://www.humansecurity.com/learn/topics/what-is-a-brute-force-attack)
+            
+            [](https://www.humansecurity.com/learn/topics/what-is-a-brute-force-attack)
+            
+        * [Captcha](https://www.humansecurity.com/learn/topics/what-is-a-captcha)
+            
+            [](https://www.humansecurity.com/learn/topics/what-is-a-captcha)
+            
+        * [Carding](https://www.humansecurity.com/learn/topics/what-is-carding)
+            
+            [](https://www.humansecurity.com/learn/topics/what-is-carding)
+            
+        * [Credential Stuffing](https://www.humansecurity.com/learn/topics/what-is-credential-stuffing)
+            
+            [](https://www.humansecurity.com/learn/topics/what-is-credential-stuffing)
+            
+        * [E-commerce Security](https://www.humansecurity.com/learn/topics/what-is-e-commerce-security)
+            
+            [](https://www.humansecurity.com/learn/topics/what-is-e-commerce-security)
+            
+        * [Fake Account Creation](https://www.humansecurity.com/learn/topics/what-is-fake-account-creation)
+            
+            [](https://www.humansecurity.com/learn/topics/what-is-fake-account-creation)
+            
+        * [PCI DSS Compliance](https://www.humansecurity.com/learn/topics/what-is-pci-dss-compliance)
+            
+            [](https://www.humansecurity.com/learn/topics/what-is-pci-dss-compliance)
+            
+        * [PII Harvesting](https://www.humansecurity.com/learn/topics/what-is-pii-harvesting)
+            
+            [](https://www.humansecurity.com/learn/topics/what-is-pii-harvesting)
+            
+        * [Shadow Code](https://www.humansecurity.com/learn/topics/what-is-shadow-code)
+            
+            [](https://www.humansecurity.com/learn/topics/what-is-shadow-code)
+            
+        * [Supply Chain Attack](https://www.humansecurity.com/learn/topics/what-are-supply-chain-attacks)
+            
+            [](https://www.humansecurity.com/learn/topics/what-are-supply-chain-attacks)
+            
+        * [Web Scraping](https://www.humansecurity.com/learn/topics/what-is-scraping)
+            
+            [](https://www.humansecurity.com/learn/topics/what-is-scraping)
+            
+    
+* Company
+    
+    * * [About
+            
+            HUMAN safeguards against bot attacks and fraud](https://www.humansecurity.com/company/about)
+            
+            [HUMAN safeguards against bot attacks and fraud](https://www.humansecurity.com/company/about)
+            
+        * [News
+            
+            HUMAN in the News](https://www.humansecurity.com/learn/newsroom)
+            
+            [HUMAN in the News](https://www.humansecurity.com/learn/newsroom)
+            
+        * [Careers
+            
+            Find your next career move with HUMAN](https://www.humansecurity.com/company/careers)
+            
+            [Find your next career move with HUMAN](https://www.humansecurity.com/company/careers)
+            
+    * * [Leadership
+            
+            Meet the elite bot threat hunters dedicated to making the internet a safer place](https://www.humansecurity.com/company/leadership)
+            
+            [Meet the elite bot threat hunters dedicated to making the internet a safer place](https://www.humansecurity.com/company/leadership)
+            
+        * [Board of Directors
+            
+            Meet the minds behind HUMAN’s mission](https://www.humansecurity.com/company/board-of-directors)
+            
+            [Meet the minds behind HUMAN’s mission](https://www.humansecurity.com/company/board-of-directors)
+            
+        * [The Human Collective
+            
+            Collective protection to fight ad-based fraud](https://www.humansecurity.com/company/the-human-collective)
+            
+            [Collective protection to fight ad-based fraud](https://www.humansecurity.com/company/the-human-collective)
+            
+    * * [Satori Threat Intelligence Research Team
+            
+            HUMAN’S Satori Threat Intelligence and Research Team proactively uncover and disrupt bot-driven threats](https://www.humansecurity.com/company/satori-threat-intelligence)
+            
+            [HUMAN’S Satori Threat Intelligence and Research Team proactively uncover and disrupt bot-driven threats](https://www.humansecurity.com/company/satori-threat-intelligence)
+            
+    
+* Partners
+    
+    * * [The Human Collective
+            
+            Collective protection to fight ad-based fraud](https://www.humansecurity.com/company/the-human-collective)
+            
+            [Collective protection to fight ad-based fraud](https://www.humansecurity.com/company/the-human-collective)
+            
+        * [Partnerships and Integrations
+            
+            HUMAN integrates with several technology partners, ensuring bot mitigation success in any environment.](https://www.humansecurity.com/partners)
+            
+            [HUMAN integrates with several technology partners, ensuring bot mitigation success in any environment.](https://www.humansecurity.com/partners)
+            
+        * [Resellers
+            
+            Explore HUMAN's technology through channel partners, combining bot mitigation and other security solutions.](https://www.humansecurity.com/partners/channel)
+            
+            [Explore HUMAN's technology through channel partners, combining bot mitigation and other security solutions.](https://www.humansecurity.com/partners/channel)
+            
+    * * [Become a Partner
+            
+            HUMAN collaborates with the world's leading technology companies](https://www.humansecurity.com/partners/technology)
+            
+            [HUMAN collaborates with the world's leading technology companies](https://www.humansecurity.com/partners/technology)
+            
+        * [Partner Portal
+            
+            Log into the HUMAN Partner Portal for collateral, documentation, and other partnership needs.](https://partners.humansecurity.com/English/?ReturnUrl=%2fEnglish%2fPartners%2fhome.aspx)
+            
+            [Log into the HUMAN Partner Portal for collateral, documentation, and other partnership needs.](https://partners.humansecurity.com/English/?ReturnUrl=%2fEnglish%2fPartners%2fhome.aspx)
+            
+    
+
+* [Request a Demo](https://www.humansecurity.com/demo-request)
+
+[#### Contact Sales
+
+Connect with a HUMAN bot protection expert to find out how our products can help you meet your project deadline and security needs](https://www.humansecurity.com/contact-sales)
+
+[#### Blog
+
+HUMAN Insight and Research from our team](https://www.humansecurity.com/learn/blog)
+
+[#### This is a title
+
+This is a subtitle
+
+Some content goes here..](https://www.facebook.com/secure_with_human)
+
+[#### This is a title
+
+This is a subtitle
+
+Some content goes here..](https://twitter.com/SecureWithHUMAN)
+
+[#### This is a title
+
+This is a subtitle
+
+Some content goes here..](https://www.linkedin.com/company/humansecurityinc/)
+
+Comprehensive protection for today's customer journey
+=====================================================
+
+Unmatched detection, decisioning, and protection to safeguard against automated threats and fraud.
+
+[Explore the Platform](https://www.humansecurity.com/platform-old)
+
+[Connect With a Human](https://www.humansecurity.com/contact-sales)
+
+Combat tomorrow’s cybersecurity threats today.
+
+
+--------------------------------------------------
+
+Secure every touchpoint along your customer journey against advertising fraud, sophisticated bot attacks, account fraud and abuse, and client-side threats.
+
+### Advertising
+
+##### Reach real humans from the start
+
+Deliver quality digital ad experiences that drive genuine performance. Eliminate wasteful spending on fake bot impressions and prevent malicious ads from redirecting audience attention.
+
+[Ad Fraud Sensor](https://www.humansecurity.com/platform/solutions/ad-fraud-sensor)
+
+[Ad Fraud Defense](https://www.humansecurity.com/platform/solutions/ad-fraud)
+
+[Malvertising Defense](https://www.humansecurity.com/platform/solutions/malvertising)
+
+[Ad Quality Defense](https://www.humansecurity.com/platform/solutions/ad-quality)
+
+[Explore Advertising Protection](https://www.humansecurity.com/platform/packages/advertising-platforms)
+
+![Human_Homepage_Advertising-V2-min](https://www.humansecurity.com/hubfs/Human_Homepage_Advertising-V2-min.jpg)
+
+### Applications
+
+##### Create a safe haven for your users
+
+Preserve privacy, compliance, and trust as users arrive at and navigate your digital experience. Prevent bots from stealing your content, ensure data integrity, and avoid compliance penalties.
+
+[Scraping Defense](https://www.humansecurity.com/platform/solutions/scraping)
+
+[Data Contamination Defense](https://www.humansecurity.com/platform/solutions/data-contamination)
+
+[Transaction Abuse Defense](https://www.humansecurity.com/platform/solutions/transaction-abuse)
+
+[Client-Side Defense](https://www.humansecurity.com/platform/solutions/client-side)
+
+[PCI DSS Compliance](https://www.humansecurity.com/platform/solutions/pci-dss-compliance)
+
+[Explore Application Protection](https://www.humansecurity.com/platform/packages/applications)
+
+![Human_Homepage_Applications-min](https://www.humansecurity.com/hubfs/Human_Homepage_Applications-min.jpg)
+
+### Accounts
+
+##### Secure frictionless login and new user sign-up
+
+Decrease account fraud losses and prevent sensitive data exfiltration. Block unauthorized logins and synthetic new signups by automated bots and neutralize post-login fraud.
+
+[Account Takeover Defense](https://www.humansecurity.com/platform/solutions/account-takeover)
+
+[Fake Account Defense](https://www.humansecurity.com/platform/solutions/fake-accounts)
+
+[Compromised Account Defense](https://www.humansecurity.com/platform/solutions/compromised-accounts)
+
+[Explore Account Protection](https://www.humansecurity.com/platform/packages/accounts)
+
+![Human_Homepage_Accounts-min](https://www.humansecurity.com/hubfs/Human_Homepage_Accounts-min.jpg)
+
+THE HUMAN DEFENSE PLATFORM
+
+### One platform for safer ads, interactions, and transactions.
+
+Our suite of modular solutions provides advanced analytics and drill-down paths to identify emerging threats. Fine-tune your security posture and fraud prevention with controls specifically tailored to meet your policy and compliance requirements.
+
+[Explore the Platform](https://www.humansecurity.com/platform-old)
+
+THE HUMAN ADVANTAGE
+
+##### Make a trusted customer experience your competitive advantage.
+
+HUMAN’s visibility generates unique telemetry data at every touchpoint  
+along the customer journey to protect your most critical attack surfaces.
+
+![](https://www.humansecurity.com/hubfs/Scale4.png)
+
+###### Scale
+
+We verify more than 20 trillion digital interactions weekly across 3 billion unique devices, the world's largest threat network, providing unrivaled threat telemetry.
+
+![](https://www.humansecurity.com/hubfs/Speed%203.png)
+
+###### Speed
+
+Our Decision Engine examines 2,500+ signals per interaction, connecting disparate data to detect anomalies in mere milliseconds.
+
+![](https://www.humansecurity.com/hubfs/Decision%20Precision2.png)
+
+###### Decision Precision
+
+Signals from across the customer journey are analyzed by 400+ algorithms and adaptive machine learning models to enable high-fidelity decisioning.
+
+![](https://www.humansecurity.com/hubfs/Homepage_Satori_v2-min.png)
+
+### Satori Threat Intelligence and Research Team
+
+The Satori team are the detectives of the internet, disrupting and taking down cybercrime at the highest level, leveraging the full capabilities of the HUMAN Advantage.
+
+[Learn More](https://www.humansecurity.com/company/satori-threat-intelligence)
+
+OUR CUSTOMERS
+
+Protecting industry-leading internet platforms and market makers
+----------------------------------------------------------------
+
+HUMAN combines the power of great technology, people, and service and flips the script on bad actors with the Human Defense Platform.
+
+![Human Security-Enterprise Logos-Priceline@2x](https://www.humansecurity.com/hs-fs/hubfs/Safety%20In%20Numbers%20Company%20Logos/Human%20Security-Enterprise%20Logos-Priceline@2x.png?width=500&height=160&name=Human%20Security-Enterprise%20Logos-Priceline@2x.png)
+
+![Human Security-Enterprise Logos-Fanduel@2x](https://www.humansecurity.com/hs-fs/hubfs/Safety%20In%20Numbers%20Company%20Logos/Human%20Security-Enterprise%20Logos-Fanduel@2x.png?width=500&height=160&name=Human%20Security-Enterprise%20Logos-Fanduel@2x.png)
+
+![Human Security-Enterprise Logos-theTradeDesk@2x](https://www.humansecurity.com/hs-fs/hubfs/Human%20Security-Enterprise%20Logos-theTradeDesk@2x.png?width=500&height=160&name=Human%20Security-Enterprise%20Logos-theTradeDesk@2x.png)
+
+![Human Security-Enterprise Logos-Wayfair@2x](https://www.humansecurity.com/hs-fs/hubfs/Safety%20In%20Numbers%20Company%20Logos/Human%20Security-Enterprise%20Logos-Wayfair@2x.png?width=500&height=160&name=Human%20Security-Enterprise%20Logos-Wayfair@2x.png)
+
+![Human Security-Enterprise Logos-Xandr@2x](https://www.humansecurity.com/hs-fs/hubfs/Human%20Security-Enterprise%20Logos-Xandr@2x.png?width=500&height=160&name=Human%20Security-Enterprise%20Logos-Xandr@2x.png)
+
+![Human Security-CBS Interactive logo@2x](https://www.humansecurity.com/hs-fs/hubfs/Human%20Security-CBS%20Interactive%20logo@2x.png?width=500&height=160&name=Human%20Security-CBS%20Interactive%20logo@2x.png)
+
+![Human Security-Enterprise Logos-Alaska@2x](https://www.humansecurity.com/hs-fs/hubfs/Safety%20In%20Numbers%20Company%20Logos/Human%20Security-Enterprise%20Logos-Alaska@2x.png?width=500&height=160&name=Human%20Security-Enterprise%20Logos-Alaska@2x.png)
+
+![Human Security-Enterprise Logos-Airtable@2x](https://www.humansecurity.com/hs-fs/hubfs/Safety%20In%20Numbers%20Company%20Logos/Human%20Security-Enterprise%20Logos-Airtable@2x.png?width=500&height=160&name=Human%20Security-Enterprise%20Logos-Airtable@2x.png)
+
+![Human Security-Enterprise Logos-Zillow@2x](https://www.humansecurity.com/hs-fs/hubfs/Safety%20In%20Numbers%20Company%20Logos/Human%20Security-Enterprise%20Logos-Zillow@2x.png?width=500&height=160&name=Human%20Security-Enterprise%20Logos-Zillow@2x.png)
+
+![Human Security-Newsweek logo@2x](https://www.humansecurity.com/hs-fs/hubfs/Human%20Security-Newsweek%20logo@2x.png?width=500&height=160&name=Human%20Security-Newsweek%20logo@2x.png)
+
+![OneView_Roku](https://www.humansecurity.com/hs-fs/hubfs/OneView_Roku.png?width=1000&height=320&name=OneView_Roku.png)
+
+![Human-About-Logo-Yeti](https://www.humansecurity.com/hs-fs/hubfs/Human-About-Logo-Yeti.png?width=360&height=100&name=Human-About-Logo-Yeti.png)
+
+HUMAN Named a Leader on G2 in Bot Mitigation and Detection by Real Customers
+
+[Learn Why](https://www.g2.com/reports/grid-report-for-bot-detection-and-mitigation-spring-2024.embed?secure%5Bgated_consumer%5D=05a7a6dc-35e6-4e01-89c6-5c73e715f19c&secure%5Btoken%5D=e1ce7265d69f08f42ec56049a07e3efbf6dc41b6662bebc715a420469f5ab89c&tab=grid)
+
+![](https://www.humansecurity.com/hubfs/G2%20Grid-Spring%202024%20(1).svg)
+
+\[With HUMAN\], we enjoyed a three-order of magnitude reduction in bad actor traffic, and that takes a lot of the heat off in fraud terms. Furthermore, I really love that HUMAN is evolving the product. There's a well-charted roadmap of features directly relevant to customers dealing with fraud.
+
+[Read Case Study](https://www.humansecurity.com/learn/case-studies/fanduel)
+
+Senior Director, Architecture
+
+FanDuel
+
+![](https://www.humansecurity.com/hubfs/Human-About-Logo-Fanduel.png)
+
+We use the data and insights from HUMAN in the management of our partnerships as a deciding factor in turning off, pausing, or whatever we need to do to ensure our marketplace quality remains premium.
+
+[Read Case Study](https://www.humansecurity.com/learn/case-studies/triplelift)
+
+Senior Director, Business Development
+
+TripleLift
+
+![](https://www.humansecurity.com/hubfs/Human%20Security-Members-Triple%20Lift.png)
+
+Your customers are counting on you to safeguard their digital journey.  
+Your business needs protection from fraud, bot attacks, and account abuse.
+
+##### HUMAN enables you to do it all.
+
+[Get to know HUMAN](https://www.humansecurity.com/company/about-old)
+
+[Explore the Platform](https://www.humansecurity.com/platform-old)
+
+[Talk to a Human](https://www.humansecurity.com/contact-sales)
+
+[](https://www.perimeterx.com/)
+
+[Request a Demo](https://www.humansecurity.com/demo-request)
+
+Platform
+
+* [Human Defense Platform](https://www.humansecurity.com/platform)
+
+Packages
+
+* [Advertising](https://www.humansecurity.com/platform/packages/advertising-platforms)
+* [Applications](https://www.humansecurity.com/platform/packages/applications)
+* [Accounts](https://www.humansecurity.com/platform/packages/accounts)
+
+* SOLUTIONS
+    
+    * [Ad Fraud Sensor](https://www.humansecurity.com/platform/solutions/ad-fraud-sensor)
+    * [Ad Fraud Defense](https://www.humansecurity.com/platform/solutions/ad-fraud)
+    * [Malvertising](https://www.humansecurity.com/platform/solutions/malvertising)
+    * [Ad Quality](https://www.humansecurity.com/platform/solutions/ad-quality)
+    * [Scraping](https://www.humansecurity.com/platform/solutions/scraping)
+    * [Client-Side](https://www.humansecurity.com/platform/solutions/client-side)
+    * [Data Contamination](https://www.humansecurity.com/platform/solutions/data-contamination)
+    * [Transaction Abuse](https://www.humansecurity.com/platform/solutions/transaction-abuse)
+    * [PCI DSS Compliance](https://www.humansecurity.com/platform/solutions/pci-dss-compliance)
+    * [Account Takeover](https://www.humansecurity.com/platform/solutions/account-takeover)
+    * [Fake Accounts](https://www.humansecurity.com/platform/solutions/fake-accounts)
+    * [Compromised Accounts](https://www.humansecurity.com/platform/solutions/compromised-accounts)
+    
+* INDUSTRIES
+    
+    * [Digital Advertising](https://www.humansecurity.com/solutions/industry/digital-advertising)
+    * [Healthcare & Insurance](https://www.humansecurity.com/solutions/industry/healthcare-insurance)
+    * [Public Sector](https://www.humansecurity.com/solutions/industry/public-sector)
+    * [Streaming & Media](https://www.humansecurity.com/solutions/industry/streaming-media)
+    * [Travel & Entertainment](https://www.humansecurity.com/solutions/industry/travel-entertainment)
+    * [Finance](https://www.humansecurity.com/solutions/industry/finance)
+    * [Marketplaces](https://www.humansecurity.com/solutions/industry/marketplaces)
+    * [Retail & E-commerce](https://www.humansecurity.com/solutions/industry/retail-ecommerce)
+    * [Technology Platforms](https://www.humansecurity.com/solutions/industry/technology-platforms)
+    * [FinTech](https://www.humansecurity.com/solutions/industry/fintech)
+    
+
+Products
+
+* [HUMAN Bot Defender](https://www.humansecurity.com/products/human-bot-defender)
+* [BotGaurd for Growth Marketing](https://www.humansecurity.com/products/botguard-growth-marketing)
+* [MediaGuard](https://www.humansecurity.com/products/mediaguard)
+* [cleanAD](https://www.humansecurity.com/products/cleanad)
+* [Account Defender](https://www.humansecurity.com/products/account-defender)
+* [Code Defender](https://www.humansecurity.com/products/code-defender)
+* [Credential Intelligence](https://www.humansecurity.com/products/credential-intelligence)
+
+Company
+
+* [About](https://www.humansecurity.com/company/about)
+* [News](https://www.humansecurity.com/learn/blog)
+* [Careers](https://www.humansecurity.com/company/careers)
+* [Leadership](https://www.humansecurity.com/company/leadership)
+* [Satori Threat Intelligence  Research Team](https://www.humansecurity.com/company/satori-threat-intelligence)
+* [Board of Directors](https://www.humansecurity.com/company/board-of-directors)
+* [What is The Human Collective?](https://www.humansecurity.com/company/the-human-collective)
+
+Partners
+
+* [The Human Collective](https://www.humansecurity.com/company/the-human-collective)
+* [Integrations](https://www.humansecurity.com/partners)
+* [Resellers](https://www.humansecurity.com/partners/channel)
+* [Technology](https://www.humansecurity.com/partners/technology)
+* [Partner Portal](https://partners.humansecurity.com/English/?ReturnUrl=%2fEnglish%2fPartners%2fhome.aspx&__hstc=233546881.7f9124919ef436acf331cc4180a46d72.1635342799936.1648671054706.1648675289816.112&__hssc=233546881.12.1648738104896&__hsfp=1741684099)
+
+ROLES
+
+* [For Security](https://www.humansecurity.com/products/security-teams)
+* [For Fraud](https://www.humansecurity.com/products/fraud-teams)
+* [For AdTech](https://www.humansecurity.com/products/ad-tech-teams)
+* [For Marketing](https://www.humansecurity.com/products/growth-marketing-teams)
+* [For Product](https://www.humansecurity.com/for-product-teams)
+
+Learn
+
+* [Blog](https://www.humansecurity.com/learn/blog)
+* [Case Studies](https://www.humansecurity.com/learn/resources?content=Case-Studies)
+* [Webinars](https://www.humansecurity.com/learn/webinars)
+* [Resources Center](https://www.humansecurity.com/learn/resources)
+* [Docs](https://support.humansecurity.com/hc/en-us)
+* [Tech & Engineering Blog](https://www.humansecurity.com/tech-engineering-blog)
+* [Patents](https://www.humansecurity.com/patents)
+
+Contact Us
+
+* [Talk to an Expert](https://www.humansecurity.com/contact-us)
+
+[Request a Free Bot Risk Assessment](https://www.humansecurity.com/offer/bot-risk-assessment)
+
+Locations
+
+* New York City
+* Miami
+* Dallas
+* Washington DC
+* Tel Aviv
+* London
+* Victoria
+
+[](https://twitter.com/SecureWithHUMAN)
+
+[](https://www.linkedin.com/company/humansecurityinc)
+
+[](https://www.facebook.com/secure_with_human)
+
+© 2024 Human
+
+* [Sitemap](https://www.humansecurity.com/sitemap)
+* [Privacy Policy](https://www.humansecurity.com/privacy)
+* [Notice to California Residents](https://www.humansecurity.com/privacy#notice-to-california-residents)
+* Cookie Settings
+* [Data Security & Privacy FAQ](https://www.humansecurity.com/data-security-and-privacy-faq)
