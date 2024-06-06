@@ -1,0 +1,319 @@
+[![img](https://www.soundpublishing.com/wp-content/themes/sound-publishing-inc/images/scroll.png)](javascript:) 
+
+* [Our Company](#)
+    * [About Us](https://www.soundpublishing.com/about/)
+    * [Leadership](https://www.soundpublishing.com/executives/)
+    * [Our History](https://www.soundpublishing.com/history/)
+* [Our Brands](https://www.soundpublishing.com/titles/our-titles/)
+* [Media Solutions](https://www.soundpublishing.com/media-solutions/)
+* [Journalism Funds](https://www.soundpublishing.com/journalism-fund/)
+* [Careers](https://www.soundpublishing.com/current-openings/)
+* [Contact](https://www.soundpublishing.com/contact/)
+* [iServices Login](https://iservices.soundpublishing.com/)
+
+[](https://www.soundpublishing.com/index.php)
+
+[](#)
+
+* [Our Company](# "Our Company")
+    * [About Us](https://www.soundpublishing.com/about/ "About Us")
+    * [Leadership](https://www.soundpublishing.com/executives/ "Leadership")
+    * [Our History](https://www.soundpublishing.com/history/ "Our History")
+* [Our Brands](https://www.soundpublishing.com/titles/our-titles/ "Our Brands")
+* [Media Solutions](https://www.soundpublishing.com/media-solutions/ "Media Solutions")
+* [Journalism Funds](https://www.soundpublishing.com/journalism-fund/ "Journalism Funds")
+* [Careers](https://www.soundpublishing.com/current-openings/ "Careers")
+* [Contact](https://www.soundpublishing.com/contact/ "Contact")
+* [iServices Login](https://iservices.soundpublishing.com/ "iServices Login")
+
+Terms of Use
+============
+
+Terms of Use
+============
+
+_Last updated: March 10, 2023_
+
+_Please read these terms and conditions carefully before using Our Service._
+
+### **Interpretation and Definitions**
+
+##### Interpretation
+
+The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in the singular or in the plural.
+
+##### Definitions
+
+For the purposes of these Terms and Conditions:
+
+* Affiliate means an entity that controls, is controlled by, or is under common control with a party, where “control” means ownership of 50% or more of the shares, equity interest, or other securities entitled to vote for the election of directors or other managing authority.
+* Country refers to the United States
+* Company (referred to as either “the Company”, “We”, “Us” or “Our” in this Agreement) refers to Sound Publishing Inc, PO Box 930, Everett, WA 98206-0920.
+* Device means any device that can access the Service such as a computer, a cellphone, or a digital tablet.
+* Service refers to the Website.
+* Subscriptions refer to the services or access to the Service offered on a subscription basis by the Company to You.
+* Terms and Conditions (also referred to as “Terms”) mean these Terms and Conditions that form the entire agreement between You and the Company regarding the use of the Service.
+* Third-party Social Media Service means any services or content (including data, information, products, or services) provided by a third party that may be displayed, included, or made available by the Service.
+* Website refers to:
+* Herald Net, accessible from HeraldNet.com
+* Peninsula Daily News, accessible from PeninsulaDailyNews.com
+* Juneau Empire, accessible from JuneauEmpire.com
+* The Daily World, accessible from TheDailyWorld.com
+* Kent Reporter, accessible from KentReporter.com
+* Whidbey News-Times, accessible from WhidbeyNewsTimes.com
+* Kitsap Daily News, accessible from KitsapDailyNews.com
+* Peninsula Clarion, accessible from PeninsulaClarion.com
+* Seattle Weekly, accessible from SeattleWeekly.com
+* Federal Way Mirror, accessible from FederalWayMirror.com
+* Bellevue Reporter, accessible from BellevueReporter.com
+* Vashon-Maury Island Beachcomber, accessible from VashonBeachcomber.com
+* Bainbridge Island Review, accessible from BainbridgeReview.com
+* South Whidbey Record, accessible from SouthWhidbeyRecord.com
+* Kirkland Reporter, accessible from KirklandReporter.com
+* Auburn Reporter, accessible from Auburn-Reporter.com
+* The Journal of the San Juan Islands, accessible from SanJuanJournal.com
+* Islands’ Sounder, accessible from IslandsSounder.com
+* Redmond Reporter, accessible from Redmond-Reporter.com
+* Renton Reporter, accessible from RentonReporter.com
+* Bothell-Kenmore Reporter, accessible from Bothell-Reporter.com
+* Issaquah Reporter, accessible from IssaquahReporter.com
+* Sequim Gazette, accessible from SequimGazette.com
+* Homer News, accessible from HomerNews.com
+* Enumclaw Courier-Herald, accessible from CourierHerald.com
+* Mercer Island Reporter, accessible from MI-Reporter.com
+* The Covington Reporter, accessible from CovingtonReporter.com
+* Snoqualmie Valley Record, accessible from ValleyRecord.com
+* Forks Forum, accessible from ForksForum.com
+* La Raza del Noroeste, accessible from LaRazaNW.com
+* Gazette-Tribune, accessible from Gazette-Tribune.com
+* Islands’ Weekly, accessible from IslandsWeekly.com
+* Daily Index, accessible from TacomaDailyIndex.com
+* ‘You’ means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
+
+##### Acknowledgment
+
+These are the Terms and Conditions governing the use of this Service and the agreement that operates between You and the Company. These Terms and Conditions set out the rights and obligations of all users regarding the use of the Service.
+
+Your access to and use of the Service is conditioned on Your acceptance of and compliance with these Terms and Conditions. These Terms and Conditions apply to all visitors, users, and others who access or use the Service.
+
+By accessing or using the Service You agree to be bound by these Terms and Conditions. If You disagree with any part of these Terms and Conditions, then You may not access the Service.
+
+You represent that you are over the age of 18. The Company does not permit those under 18 to use the Service.
+
+Your access to and use of the Service is also conditioned on Your acceptance of and compliance with the Privacy Policy of the Company. Our Privacy Policy describes Our policies and procedures on the collection, use, and disclosure of Your personal information when You use the Application or the Website and tells You about Your privacy rights and how the law protects You. Please read Our Privacy Policy carefully before using Our Service.
+
+### **Subscriptions**
+
+##### Subscription period
+
+The Service or some parts of the Service are available only with a paid Subscription. You will be billed in advance on a recurring and periodic basis (such as daily, weekly, monthly, or annually), depending on the type of Subscription plan you select when purchasing the Subscription.
+
+At the end of each period, Your Subscription will automatically renew under the same conditions unless You cancel it, or the Company cancels it.
+
+##### Subscription cancellations
+
+You may cancel Your Subscription renewal either through Your Account settings page or by contacting the Company. You will not receive a refund for the fees You already paid for Your current Subscription period, and You will be able to access the Service until the end of Your current Subscription period.
+
+### **Billing**
+
+You shall provide the Company with accurate and complete billing information including full name, address, state, zip code, telephone number, and valid payment method information.
+
+Should automatic billing fail to occur for any reason, the Company will issue an electronic invoice indicating that you must proceed manually, within a certain deadline date, with the full payment corresponding to the billing period as indicated on the invoice.
+
+### **Fee Changes**
+
+The Company, in its sole discretion and at any time, may modify the Subscription fees. Any Subscription fee change will become effective at the end of the then-current Subscription period.
+
+The Company will provide You with reasonable prior notice of any change in Subscription fees to allow You to terminate Your Subscription before such change becomes effective.
+
+Your continued use of the Service after the Subscription fee change comes into effect constitutes Your agreement to pay the modified Subscription fee amount.
+
+### **Refunds**
+
+Except when required by law, paid Subscription fees are non-refundable.
+
+Certain refund requests for Subscriptions may be considered by the Company on a case-by-case basis and granted at the sole discretion of the Company.
+
+### **Intellectual Property**
+
+The Service and its original content (excluding Content provided by You or other users), features, and functionality are and will remain the exclusive property of the Company and its licensors.
+
+The Service is protected by copyright, trademark, and other laws of both the Country and foreign countries.
+
+Our trademarks and trade dress may not be used in connection with any product or service without the prior written consent of the Company.
+
+### **Links to Other Websites**
+
+Our Service may contain links to third-party websites or services that are not owned or controlled by the Company.
+
+The Company has no control over and assumes no responsibility for, the content, privacy policies, or practices of any third-party websites or services. You further acknowledge and agree that the Company shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any such content, goods, or services available on or through any such web sites or services.
+
+We strongly advise You to read the terms and conditions and privacy policies of any third-party websites or services that You visit.
+
+### **Termination**
+
+We may terminate or suspend Your access immediately, without prior notice or liability, for any reason whatsoever, including without limitation if You breach these Terms and Conditions.
+
+Upon termination, Your right to use the Service will cease immediately.
+
+### **Limitation of Liability**
+
+Notwithstanding any damages that You might incur, the entire liability of the Company and any of its suppliers under any provision of this Terms and Your exclusive remedy for all of the foregoing shall be limited to the amount paid by You through the Service or 100 USD if You have not purchased anything through the Service.
+
+To the maximum extent permitted by applicable law, in no event shall the Company or its suppliers be liable for any special, incidental, indirect, or consequential damages whatsoever (including, but not limited to, damages for loss of profits, loss of data or other information, for business interruption, for personal injury, loss of privacy arising out of or in any way related to the use of or inability to use the Service, third-party software and/or third-party hardware used with the Service, or otherwise in connection with any provision of this Terms), even if the Company or any supplier has been advised of the possibility of such damages and even if the remedy fails of its essential purpose.
+
+Some states do not allow the exclusion of implied warranties or limitation of liability for incidental or consequential damages, which means that some of the above limitations may not apply. In these states, each party’s liability will be limited to the greatest extent permitted by law.
+
+### **“AS IS” and “AS AVAILABLE” Disclaimer**
+
+The Service is provided to You “AS IS” and “AS AVAILABLE” and with all faults and defects without warranty of any kind. To the maximum extent permitted under applicable law, the Company, on its own behalf and on behalf of its Affiliates and their respective licensors and service providers, expressly disclaims all warranties, whether express, implied, statutory or otherwise, with respect to the Service, including all implied warranties of merchantability, fitness for a particular purpose, title and non-infringement, and warranties that may arise out of a course of dealing, course of performance, usage or trade practice. Without limitation to the foregoing, the Company provides no warranty or undertaking, and makes no representation of any kind that the Service will meet Your requirements, achieve any intended results, be compatible or work with any other software, applications, systems, or services, operate without interruption, meet any performance or reliability standards or be error free or that any errors or defects can or will be corrected.
+
+Without limiting the foregoing, neither the Company nor any of the company’s providers make any representation or warranty of any kind, express or implied: (i) as to the operation or availability of the Service, or the information, content, and materials or products included thereon; (ii) that the Service will be uninterrupted or error-free; (iii) as to the accuracy, reliability, or currency of any information or content provided through the Service; or (iv) that the Service, its servers, the content, or e-mails sent from or on behalf of the Company are free of viruses, scripts, trojan horses, worms, malware, timebombs or other harmful components.
+
+Some jurisdictions do not allow the exclusion of certain types of warranties or limitations on applicable statutory rights of a consumer, so some or all of the above exclusions and limitations may not apply to You. But in such a case the exclusions and limitations outlined in this section shall be applied to the greatest extent enforceable under applicable law.
+
+### **Governing Law**
+
+The laws of the Country, excluding its conflicts of law rules, shall govern these Terms and Your use of the Service. Your use of the Application may also be subject to other local, state, national, or international laws.
+
+### **Disputes Resolution**
+
+If You have any concerns or disputes about the Service, You agree to first try to resolve the dispute informally by contacting the Company.
+
+### **For European Union (EU) Users**
+
+If You are a European Union consumer, you will benefit from any mandatory provisions of the law of the country in which you are resident.
+
+### **United States Federal Government End-Use Provisions**
+
+If You are a U.S. federal government end user, our Service is a “Commercial Item” as that term is defined at 48 C.F.R. §2.101.
+
+### **United States Legal Compliance**
+
+You represent and warrant that (i) You are not located in a country that is subject to the United States government embargo, or that has been designated by the United States government as a “terrorist supporting” country, and (ii) You are not listed on any United States government list of prohibited or restricted parties.
+
+### **Severability and Waiver**
+
+##### Severability
+
+If any provision of these Terms is held to be unenforceable or invalid, such provision will be changed and interpreted to accomplish the objectives of such provision to the greatest extent possible under applicable law and the remaining provisions will continue in full force and effect.
+
+##### Waiver
+
+Except as provided herein, the failure to exercise a right or to require the performance of an obligation under this Terms shall not affect a party’s ability to exercise such right or require such performance at any time thereafter nor shall the waiver of a breach constitute a waiver of any subsequent breach.
+
+### **Translation Interpretation**
+
+These Terms and Conditions may have been translated if We have made them available to You on our Service. You agree that the original English text shall prevail in the case of a dispute.
+
+### **Changes to These Terms and Conditions**
+
+We reserve the right, at Our sole discretion, to modify or replace these Terms at any time. If a revision is material We will make reasonable efforts to provide at least 30 days’ notice before any new terms take effect. What constitutes a material change will be determined at Our sole discretion.
+
+By continuing to access or use Our Service after those revisions become effective, You agree to be bound by the revised terms. If You do not agree to the new terms, in whole or in part, please stop using the website and the Service.
+
+### **Contact Us**
+
+If you have any questions about these Terms and Conditions, You can contact us by phone number (360) 394-5800.
+
+* Newsletter
+
+Subscribe Today To Receive Free Marketing Tips!
+
+   
+
+Email 
+
+Subscribe
+
+[](https://www.soundpublishing.com/)
+
+Founded in 1987, Sound Publishing, Inc. is the largest community news organization in Washington State, with dailies and community news outlets in Washington and Alaska. Our parent company, Black Press, and Sound Publishing believe that independent, fact-based reporting and holding those in power accountable are essential to healthy communities and a healthy democracy.
+
+[**read more**](https://www.soundpublishing.com/about/terms-of-use/about)
+
+#### Carpenter Media Group
+
+* [Sound Publishing, Inc](#spPubs)
+    * ##### Alaskan media outlets
+        
+    * [Homer News](https://www.homernews.com/)
+    * [(Kenai) Peninsula Clarion](https://www.peninsulaclarion.com/)
+    * [Juneau Empire](https://www.juneauempire.com/)
+    
+    * ##### Washington media outlets
+        
+    * **Clallam & Jefferson counties**
+    * [Forks Forum](https://www.forksforum.com/)
+    * [Peninsula Daily News](https://www.peninsuladailynews.com/)
+    * [Sequim Gazette](https://www.sequimgazette.com/)
+    
+    * **Grays Harbor County**
+    * [(Aberdeen) Daily World](https://www.thedailyworld.com/)
+    
+    * **Island County**
+    * [South Whidbey Record](https://www.southwhidbeyrecord.com/)
+    * [Whidbey Crosswind (Military)](https://www.whidbeynewstimes.com/crosswind/)
+    * [Whidbey News-Times](https://www.whidbeynewstimes.com/)
+    
+    * **North King County**
+    * [Bellevue Reporter](https://www.bellevuereporter.com/)
+    * [Bothell/Kenmore Reporter](https://www.bothell-reporter.com/)
+    * [Kirkland Reporter](https://www.bothell-reporter.com/)
+    * [Issaquah Reporter](https://www.issaquahreporter.com/)
+    * [Mercer Island Reporter](https://www.mi-reporter.com/)
+    * [Redmond Reporter](https://www.redmond-reporter.com/)
+    * [Seattle Weekly](https://www.seattleweekly.com/)
+    * [Snoqualmie Valley Record](https://www.valleyrecord.com/)
+    
+    * **South King County**
+    * [Auburn Reporter](https://www.auburn-reporter.com/)
+    * [(Enumclaw) Courier-Herald](https://www.courierherald.com/)
+    * [Federal Way Mirror](https://www.federalwaymirror.com/)
+    * [Kent Reporter](https://www.kentreporter.com/)
+    * [Covington Reporter](https://www.covingtonreporter.com/)
+    * [Renton Reporter](https://www.rentonreporter.com/)
+    * [Tacoma Daily Index](https://www.tacomadailyindex.com/)
+    * [Vashon-Maury Island Beachcomber](https://www.vashonbeachcomber.com/)
+    
+    * **Kitsap County**
+    * [Kitsap Daily News](https://www.kitsapdailynews.com/) (Central Kitsap Reporter, Kingston Community News, Central Kitsap Reporter, North Kitsap Herald, & Port Orchard Independent)
+    * [Bainbridge Island Review](https://www.bainbridgereview.com/)
+    
+    * **Okanogan County**
+    * [Okanogan Valley Gazette-Tribune](https://www.gazette-tribune.com/)
+    
+    * **San Juan County**
+    * [Islands’ Sounder](https://www.islandssounder.com/)
+    * [Islands’ Weekly](https://www.islandsweekly.com/)
+    * [Journal of the San Juans](https://www.sanjuanjournal.com/)
+    
+    * **Snohomish County**
+    * [(Everett) Daily Herald](https://www.heraldnet.com/)
+    * [La Raza](https://www.larazanw.com/)
+* [BlackPressMedia.com](https://www.blackpressmedia.com/)
+* [Used.ca](http://www.used.ca/)
+* [StarAdvertiser.com](http://www.staradvertiser.com/)
+* [CarpenterMediaGroup.com](https://www.carpentermediagroup.com/)
+
+#### Legal
+
+* [Privacy Policy](https://www.soundpublishing.com/about/privacy-policy/)
+* [Terms of Service](https://www.soundpublishing.com/about/terms-of-use/)
+
+#### contact info
+
+* 1800 41st St.  
+    S-300,  
+    Everett, WA 98203
+    
+* **Remittance/Mailing Address**  
+    PO Box 930,  
+    Everett, WA 98206-0930
+    
+* +1(360) 394-5800
+    
+
+[**CONTACT US**](https://www.soundpublishing.com/contact/)
+
+© 2024, Sound Publishing, Inc.
