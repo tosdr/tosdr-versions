@@ -60,7 +60,7 @@ Enter
 
 Back
 
-🎉[Click here to watch how to withdraw!](https://youtu.be/M5L-at3_sRw%E2%80%9Dtarget=)🎉
+Yoursurvey offers are now working again! If you are missing robux from when it didn't work, the robux will be added shortly!
 
 ### 50% BONUS ACTIVATED!
 
