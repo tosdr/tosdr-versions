@@ -64,7 +64,7 @@ Open/close complete footer
 
 A service of the Confederation, cantons and communes
 
-[About chch](https://www.ch.ch/en/about-chch) [Terms and conditions](https://www.ch.ch/en/terms-and-conditions)
+[About ch.ch](https://www.ch.ch/en/about-chch) [Terms and conditions](https://www.ch.ch/en/terms-and-conditions)
 
 [YouTube link](https://www.youtube.com/channel/UCDW3tdOJ_Z7ZS4AFHfReI0g) [Twitter link](https://twitter.com/ch_portal)
 
@@ -74,7 +74,7 @@ A service of the Confederation, cantons and communes
 
 A service of the Confederation, cantons and communes
 
-[About chch](https://www.ch.ch/en/about-chch) [Terms and conditions](https://www.ch.ch/en/terms-and-conditions)
+[About ch.ch](https://www.ch.ch/en/about-chch) [Terms and conditions](https://www.ch.ch/en/terms-and-conditions)
 
 [YouTube link](https://www.youtube.com/channel/UCDW3tdOJ_Z7ZS4AFHfReI0g) [Twitter link](https://twitter.com/ch_portal)
 
