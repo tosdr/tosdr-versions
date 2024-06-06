@@ -61,6 +61,7 @@
         * [5G Option](https://www.congstar.de/handytarife/5g/)
     
     * [Tarifvorteile bei congstar](#)
+        * [YOUNG Vorteil](https://www.congstar.de/young/)
         * [Handytarife Angebote - Angebote und Aktionen](https://www.congstar.de/handytarife/angebote/)
         * [Rufnummernmitnahme](https://www.congstar.de/hilfe-service/auftrag-lieferung/rufnummernmitnahme/)
         * [Zweit- und Partnerkarte mit Kundenrabatt](https://www.congstar.de/partnerkarte/)
@@ -89,7 +90,7 @@
         * [Handys](https://www.congstar.de/geraete/handy/)
         * [Neuwertige & gebrauchte Smartphones](https://www.congstar.de/geraete/neuwertig)
         * [Tablets](https://www.congstar.de/geraete/tablet/)
-        * [Wearables & Gadgets](https://www.congstar.de/geraete/gadget/)
+        * [Wearables & Gadgets](https://www.congstar.de/geraete/?category=Wearable%2CGadget)
     
     * [Tipps & Aktuelles](#)
         * [Handytrends & Funktionen 2024](https://www.congstar.de/handys/technik-news-trends/)
@@ -142,7 +143,7 @@
         * [Datenvolumen zubuchen](https://www.congstar.de/hilfe-service/mein-vertrag/datenvolumen-zubuchen/)
         * [Optionen zubuchen](https://www.congstar.de/hilfe-service/mein-vertrag/zubuchbare-optionen/)
         * [Handy verloren](https://www.congstar.de/hilfe-service/mein-handy/handy-verloren-karte-sperren/)
-        * [Vertrag kündigen - Kündigung](https://www.congstar.de/hilfe-service/mein-vertrag/kuendigen/)
+        * [Kündigung](https://www.congstar.de/hilfe-service/mein-vertrag/kuendigen/)
         * [Neue SIM-Karte](https://www.congstar.de/hilfe-service/mein-handy/sim-karte-tauschen/)
     
     * [Tipps für dich](#)
@@ -166,7 +167,6 @@
     [Übersicht](https://www.congstar.de/das-ist-congstar/)
     
     * [congstar](#)
-        * [Über Uns](https://www.congstar.de/das-ist-congstar/ueber-uns/)
         * [Jobs & Karriere](https://www.congstar.de/das-ist-congstar/jobs-karriere/)
         * [Newsroom](http://newsroom.congstar.de/)
         * [Auszeichnungen](https://www.congstar.de/das-ist-congstar/auszeichnungen/)
@@ -364,8 +364,8 @@ Rückgabe
 * [Support Forum](http://forum.congstar.de/community)
 * [Roaming](https://www.congstar.de/hilfe-service/roaming/)
 
-* [Über congstar](https://www.congstar.de/das-ist-congstar/ueber-uns/)
-* [Das ist congstar](https://www.congstar.de/das-ist-congstar/ueber-uns/)
+* [Über congstar](https://www.congstar.de/das-ist-congstar/)
+* [Das ist congstar](https://www.congstar.de/das-ist-congstar/)
 * [Jobs & Karriere](https://www.congstar.de/das-ist-congstar/jobs-karriere/)
 * [Freund\*innen einladen](https://www.congstar.de/freundeskreis/)
 
@@ -376,12 +376,12 @@ Haupt\-
 sponsor des  
 FC St. Pauli
 
-* [Facebook](https://www.facebook.com/congstar)
+* [Facebook](https://www.facebook.com/congstarhilfe/)
+* [X](https://x.com/congstar_hilfe)
 * [LinkedIn](https://www.linkedin.com/company/congstar/)
-* [Twitter](https://twitter.com/congstar_hilfe)
 * [TikTok](https://www.tiktok.com/@congstar)
-* [Instagram](https://www.instagram.com/congstar_de/)
 * [Youtube](https://www.youtube.com/user/congstar)
+* [Instagram](https://www.instagram.com/congstar_de/)
 
 * [Impressum](https://www.congstar.de/impressum/)
 * [AGB](https://www.congstar.de/agb/)
