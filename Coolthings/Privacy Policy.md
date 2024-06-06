@@ -15,20 +15,20 @@
     
     [See All](https://www.coolthings.com/gadgets/)
     
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/myrow-tablet-for-concept2-rower-rowing-machine-peloton-style/)
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/shokz-openswim-pro-swim-headphones-bluetooth-connectivity/)
     
-    [MyRow Brings Peloton-Style Content Library to Concept2’s Popular Rowing Machines](https://www.coolthings.com/myrow-tablet-for-concept2-rower-rowing-machine-peloton-style/)
-    ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    [Shokz OpenSwim Pro Adds Bluetooth Connectivity to the Standalone Swim Headphones](https://www.coolthings.com/shokz-openswim-pro-swim-headphones-bluetooth-connectivity/)
+    -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/the-best-portable-dac-amps-to-level-up-the-sound-of-your-phone-tablet-or-laptop/)
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/the-best-streaming-devices-to-bring-smart-features-to-your-tv/)
     
-    [The Best Portable DAC Amps to Level Up the Sound of Your Phone, Tablet, or Laptop](https://www.coolthings.com/the-best-portable-dac-amps-to-level-up-the-sound-of-your-phone-tablet-or-laptop/)
-    ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    [The Best Streaming Devices to Bring Smart Features to Your TV](https://www.coolthings.com/the-best-streaming-devices-to-bring-smart-features-to-your-tv/)
+    ----------------------------------------------------------------------------------------------------------------------------------------------------------
     
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/xencelabs-pen-display-16-oled-drawing-tablet/)
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/8bitdo-retro-18-mechanical-numpad-vintage-theme-number-pad-gaming-computing/)
     
-    [Xencelabs Pen Display 16 Offers Creatives an Even Bigger OLED Drawing Tablet](https://www.coolthings.com/xencelabs-pen-display-16-oled-drawing-tablet/)
-    --------------------------------------------------------------------------------------------------------------------------------------------------------
+    [8BitDo Retro 18 Mechanical Numpad Brings Vintage Themes to Your Spreadsheet Input Device](https://www.coolthings.com/8bitdo-retro-18-mechanical-numpad-vintage-theme-number-pad-gaming-computing/)
+    ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
 * [GIFTS](http://www.coolthings.com/gifts/)
     
@@ -43,20 +43,20 @@
     
     [See All](https://www.coolthings.com/gear/)
     
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/myrow-tablet-for-concept2-rower-rowing-machine-peloton-style/)
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/yeti-flask-stealthy-drinking-vessel-stainless-steel/)
     
-    [MyRow Brings Peloton-Style Content Library to Concept2’s Popular Rowing Machines](https://www.coolthings.com/myrow-tablet-for-concept2-rower-rowing-machine-peloton-style/)
-    ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    [Yeti Flask Adds a Stealthy Drinking Vessel to the Outfit’s Drinkware Lineup](https://www.coolthings.com/yeti-flask-stealthy-drinking-vessel-stainless-steel/)
+    --------------------------------------------------------------------------------------------------------------------------------------------------------------
     
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/travelbird-skynest-all-in-one-hammock-tent-simpler-modular/)
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/shokz-openswim-pro-swim-headphones-bluetooth-connectivity/)
     
-    [TravelBird SkyNest Makes the Hammock Tent Simpler and More Modular](https://www.coolthings.com/travelbird-skynest-all-in-one-hammock-tent-simpler-modular/)
-    ------------------------------------------------------------------------------------------------------------------------------------------------------------
+    [Shokz OpenSwim Pro Adds Bluetooth Connectivity to the Standalone Swim Headphones](https://www.coolthings.com/shokz-openswim-pro-swim-headphones-bluetooth-connectivity/)
+    -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/the-best-portable-dac-amps-to-level-up-the-sound-of-your-phone-tablet-or-laptop/)
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/ifootage-cobra-3-strike-monopod-fast-adjustments-length-angle-accessories/)
     
-    [The Best Portable DAC Amps to Level Up the Sound of Your Phone, Tablet, or Laptop](https://www.coolthings.com/the-best-portable-dac-amps-to-level-up-the-sound-of-your-phone-tablet-or-laptop/)
-    ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    [iFootage Cobra 3 Strike Monopod Offers Ultra-Fast Length, Angle, and Accessory Adjustments](https://www.coolthings.com/ifootage-cobra-3-strike-monopod-fast-adjustments-length-angle-accessories/)
+    ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
     * [OUTDOOR GEAR](http://www.coolthings.com/tag/outdoor-gear/)
     * [CAMPING GEAR](http://www.coolthings.com/tag/camping-gear/)
@@ -95,20 +95,20 @@
     
     [See All](https://www.coolthings.com/house/)
     
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/the-best-charcoal-grills-to-bring-smoky-flavor-to-your-backyard-cookouts/)
+    
+    [The Best Charcoal Grills to Bring Smoky Flavor to Your Backyard Cookouts](https://www.coolthings.com/the-best-charcoal-grills-to-bring-smoky-flavor-to-your-backyard-cookouts/)
+    --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/the-best-tv-stands-for-your-home-entertainment-setup/)
+    
+    [The Best TV Stands for Your Home Entertainment Setup](https://www.coolthings.com/the-best-tv-stands-for-your-home-entertainment-setup/)
+    ----------------------------------------------------------------------------------------------------------------------------------------
+    
     [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/burnhard-fat-tony-pizza-oven-preheats-20-minutes-cooks-90-seconds/)
     
     [Burnhard Fat Tony Pizza Oven Preheats in 20 Minutes, Cooks in 90 Seconds](https://www.coolthings.com/burnhard-fat-tony-pizza-oven-preheats-20-minutes-cooks-90-seconds/)
     -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/the-best-dual-coffee-makers-for-more-versatile-home-brewing-options/)
-    
-    [The Best Dual Coffee Makers for More Versatile Home Brewing Options](https://www.coolthings.com/the-best-dual-coffee-makers-for-more-versatile-home-brewing-options/)
-    ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/the-best-blenders-for-smoothies-nut-butters-and-other-slushy-recipes/)
-    
-    [The Best Blenders for Smoothies, Nut Butters, and Other Slushy Recipes](https://www.coolthings.com/the-best-blenders-for-smoothies-nut-butters-and-other-slushy-recipes/)
-    --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
     * [FURNITURE](https://www.coolthings.com/house/furniture/)
     * [KITCHEN](https://www.coolthings.com/kitchen-dining/)
