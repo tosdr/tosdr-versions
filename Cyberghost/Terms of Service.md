@@ -1,13 +1,13 @@
 [Your IP Your Status](https://www.cyberghostvpn.com/hide-ip "Do you want to hide your IP?")
 
-[![CyberGhost VPN](https://assets.cyberghostvpn.com/img/frontend/cg/navigation/icons/logo-cyberghost.svg?v=13007)](https://www.cyberghostvpn.com/en_US/)* * [![](https://assets.cyberghostvpn.com/img/frontend/cg/navigation/icons/globe-lang-v2.svg?v=13007)en](https://www.cyberghostvpn.com/en_US/terms) 
-        * [English](https://www.cyberghostvpn.com/en_US/terms)
+[![CyberGhost VPN](https://assets.cyberghostvpn.com/img/frontend/cg/navigation/icons/logo-cyberghost.svg?v=13100)](https://www.cyberghostvpn.com/)* * [![](https://assets.cyberghostvpn.com/img/frontend/cg/navigation/icons/globe-lang-v2.svg?v=13100)en](https://www.cyberghostvpn.com/terms) 
+        * [English](https://www.cyberghostvpn.com/terms)
         * [Čeština](https://www.cyberghostvpn.com/cs/terms)
         * [Dansk](https://www.cyberghostvpn.com/da/terms)
-        * [Deutsch](https://www.cyberghostvpn.com/de_DE/agbs)
+        * [Deutsch](https://www.cyberghostvpn.com/de/agbs)
         * [Español](https://www.cyberghostvpn.com/es/terms)
         * [Finnish](https://www.cyberghostvpn.com/fi/terms)
-        * [Français](https://www.cyberghostvpn.com/fr_FR/termes)
+        * [Français](https://www.cyberghostvpn.com/fr/termes)
         * [Indonesian](https://www.cyberghostvpn.com/id/terms)
         * [Italiano](https://www.cyberghostvpn.com/it/terms)
         * [Magyar](https://www.cyberghostvpn.com/hu/terms)
@@ -25,52 +25,52 @@
         * [简体中文](https://www.cyberghostvpn.com/zh/terms)
         * [한국어](https://www.cyberghostvpn.com/ko/terms)
 
-![Close](https://assets.cyberghostvpn.com/img/frontend/cg/navigation/icons/btn-close.svg?v=13007)
+![Close](https://assets.cyberghostvpn.com/img/frontend/cg/navigation/icons/btn-close.svg?v=13100)
 
-* [What Is VPN](https://www.cyberghostvpn.com/en_US/what-is-a-vpn)
+* [What Is VPN](https://www.cyberghostvpn.com/what-is-a-vpn)
     
-    * [VPN Features](https://www.cyberghostvpn.com/en_US/features)
-    * [Stream Sports](https://www.cyberghostvpn.com/en_US/sport-vpn)
-    * [Access Content](https://www.cyberghostvpn.com/en_US/unblock-streaming)
-    * [Gaming VPN](https://www.cyberghostvpn.com/en_US/gaming-vpn)
-    * [VPN Free Trial](https://www.cyberghostvpn.com/en_US/vpn-free-trial)
-    * [Dedicated IP](https://www.cyberghostvpn.com/en_US/dedicated-ip-vpn)
-    * [No Logs VPN](https://www.cyberghostvpn.com/en_US/features/no-logs-vpn)
+    * [VPN Features](https://www.cyberghostvpn.com/features)
+    * [Stream Sports](https://www.cyberghostvpn.com/sport-vpn)
+    * [Access Content](https://www.cyberghostvpn.com/unblock-streaming)
+    * [Gaming VPN](https://www.cyberghostvpn.com/gaming-vpn)
+    * [VPN Free Trial](https://www.cyberghostvpn.com/vpn-free-trial)
+    * [Dedicated IP](https://www.cyberghostvpn.com/dedicated-ip-vpn)
+    * [No Logs VPN](https://www.cyberghostvpn.com/features/no-logs-vpn)
     
-* [Download VPN](https://www.cyberghostvpn.com/en_US/download)
+* [Download VPN](https://www.cyberghostvpn.com/download)
     
-    * [Windows VPN](https://www.cyberghostvpn.com/en_US/download/windows-vpn)
-    * [Mac VPN](https://www.cyberghostvpn.com/en_US/download/macos-vpn)
-    * [iOS VPN](https://www.cyberghostvpn.com/en_US/download/ios-vpn)
-    * [Android VPN](https://www.cyberghostvpn.com/en_US/download/android-vpn)
-    * [Chrome VPN](https://www.cyberghostvpn.com/en_US/download/chrome-vpn)
-    * [Router VPN](https://www.cyberghostvpn.com/en_US/download/vpn-router)
-    * [Smart TV VPN](https://www.cyberghostvpn.com/en_US/download/vpn-smart-tv)
-    * [Windows Security Suite](https://www.cyberghostvpn.com/en_US/download/windows-privacy-suite)
+    * [Windows VPN](https://www.cyberghostvpn.com/download/windows-vpn)
+    * [Mac VPN](https://www.cyberghostvpn.com/download/macos-vpn)
+    * [iOS VPN](https://www.cyberghostvpn.com/download/ios-vpn)
+    * [Android VPN](https://www.cyberghostvpn.com/download/android-vpn)
+    * [Chrome VPN](https://www.cyberghostvpn.com/download/chrome-vpn)
+    * [Router VPN](https://www.cyberghostvpn.com/download/vpn-router)
+    * [Smart TV VPN](https://www.cyberghostvpn.com/download/vpn-smart-tv)
+    * [Windows Security Suite](https://www.cyberghostvpn.com/download/windows-privacy-suite)
     
-* [VPN Servers](https://www.cyberghostvpn.com/en_US/vpn-server)
+* [VPN Servers](https://www.cyberghostvpn.com/vpn-server)
     
-    * [USA VPN](https://www.cyberghostvpn.com/en_US/vpn-server/usa-vpn)
-    * [Australia VPN](https://www.cyberghostvpn.com/en_US/vpn-server/vpn-australia)
-    * [Canada VPN](https://www.cyberghostvpn.com/en_US/vpn-server/canada-vpn)
-    * [UK VPN](https://www.cyberghostvpn.com/en_US/vpn-server/uk-vpn)
-    * [France VPN](https://www.cyberghostvpn.com/en_US/vpn-server/vpn-france)
-    * [Germany VPN](https://www.cyberghostvpn.com/en_US/vpn-server/best-vpn-germany)
-    * [Spain VPN](https://www.cyberghostvpn.com/en_US/vpn-server/vpn-spain)
+    * [USA VPN](https://www.cyberghostvpn.com/vpn-server/usa-vpn)
+    * [Australia VPN](https://www.cyberghostvpn.com/vpn-server/vpn-australia)
+    * [Canada VPN](https://www.cyberghostvpn.com/vpn-server/canada-vpn)
+    * [UK VPN](https://www.cyberghostvpn.com/vpn-server/uk-vpn)
+    * [France VPN](https://www.cyberghostvpn.com/vpn-server/vpn-france)
+    * [Germany VPN](https://www.cyberghostvpn.com/vpn-server/best-vpn-germany)
+    * [Spain VPN](https://www.cyberghostvpn.com/vpn-server/vpn-spain)
     
 
-* [Pricing](https://www.cyberghostvpn.com/en_US/buy)
-* [Privacy Hub](https://www.cyberghostvpn.com/en_US/privacyhub/)
+* [Pricing](https://www.cyberghostvpn.com/buy)
+* [Privacy Hub](https://www.cyberghostvpn.com/privacyhub/)
 * [Help](https://support.cyberghostvpn.com/hc/en-us)
 
-* * [![](https://assets.cyberghostvpn.com/img/frontend/cg/navigation/icons/globe-lang-v2.svg?v=13007)en](https://www.cyberghostvpn.com/en_US/terms) 
-        * [English](https://www.cyberghostvpn.com/en_US/terms)
+* * [![](https://assets.cyberghostvpn.com/img/frontend/cg/navigation/icons/globe-lang-v2.svg?v=13100)en](https://www.cyberghostvpn.com/terms) 
+        * [English](https://www.cyberghostvpn.com/terms)
         * [Čeština](https://www.cyberghostvpn.com/cs/terms)
         * [Dansk](https://www.cyberghostvpn.com/da/terms)
-        * [Deutsch](https://www.cyberghostvpn.com/de_DE/agbs)
+        * [Deutsch](https://www.cyberghostvpn.com/de/agbs)
         * [Español](https://www.cyberghostvpn.com/es/terms)
         * [Finnish](https://www.cyberghostvpn.com/fi/terms)
-        * [Français](https://www.cyberghostvpn.com/fr_FR/termes)
+        * [Français](https://www.cyberghostvpn.com/fr/termes)
         * [Indonesian](https://www.cyberghostvpn.com/id/terms)
         * [Italiano](https://www.cyberghostvpn.com/it/terms)
         * [Magyar](https://www.cyberghostvpn.com/hu/terms)
@@ -87,61 +87,61 @@
         * [日本語](https://www.cyberghostvpn.com/ja/terms)
         * [简体中文](https://www.cyberghostvpn.com/zh/terms)
         * [한국어](https://www.cyberghostvpn.com/ko/terms)
-* [My Account](https://my.cyberghostvpn.com/en_US/login)
+* [My Account](https://my.cyberghostvpn.com/login)
     
-* [Get OFF](https://www.cyberghostvpn.com/en_US/buy)
-    
-
-![Back](https://assets.cyberghostvpn.com/img/frontend/cg/navigation/icons/btn-right-arrow.svg?v=13007)
-
-* [What Is VPN](https://www.cyberghostvpn.com/en_US/what-is-a-vpn)
-    
-    * [VPN Features](https://www.cyberghostvpn.com/en_US/features)
-    * [Stream Sports](https://www.cyberghostvpn.com/en_US/sport-vpn)
-    * [Access Content](https://www.cyberghostvpn.com/en_US/unblock-streaming)
-    * [Gaming VPN](https://www.cyberghostvpn.com/en_US/gaming-vpn)
-    * [VPN Free Trial](https://www.cyberghostvpn.com/en_US/vpn-free-trial)
-    * [Dedicated IP](https://www.cyberghostvpn.com/en_US/dedicated-ip-vpn)
-    * [No Logs VPN](https://www.cyberghostvpn.com/en_US/features/no-logs-vpn)
-    
-* [Download VPN](https://www.cyberghostvpn.com/en_US/download)
-    
-    * [Windows VPN](https://www.cyberghostvpn.com/en_US/download/windows-vpn)
-    * [Mac VPN](https://www.cyberghostvpn.com/en_US/download/macos-vpn)
-    * [iOS VPN](https://www.cyberghostvpn.com/en_US/download/ios-vpn)
-    * [Android VPN](https://www.cyberghostvpn.com/en_US/download/android-vpn)
-    * [Chrome VPN](https://www.cyberghostvpn.com/en_US/download/chrome-vpn)
-    * [Router VPN](https://www.cyberghostvpn.com/en_US/download/vpn-router)
-    * [Smart TV VPN](https://www.cyberghostvpn.com/en_US/download/vpn-smart-tv)
-    * [Windows Security Suite](https://www.cyberghostvpn.com/en_US/download/windows-privacy-suite)
-    
-* [VPN Servers](https://www.cyberghostvpn.com/en_US/vpn-server)
-    
-    * [USA VPN](https://www.cyberghostvpn.com/en_US/vpn-server/usa-vpn)
-    * [Australia VPN](https://www.cyberghostvpn.com/en_US/vpn-server/vpn-australia)
-    * [Canada VPN](https://www.cyberghostvpn.com/en_US/vpn-server/canada-vpn)
-    * [UK VPN](https://www.cyberghostvpn.com/en_US/vpn-server/uk-vpn)
-    * [France VPN](https://www.cyberghostvpn.com/en_US/vpn-server/vpn-france)
-    * [Germany VPN](https://www.cyberghostvpn.com/en_US/vpn-server/best-vpn-germany)
-    * [Spain VPN](https://www.cyberghostvpn.com/en_US/vpn-server/vpn-spain)
+* [Get OFF](https://www.cyberghostvpn.com/buy)
     
 
-* [Pricing](https://www.cyberghostvpn.com/en_US/buy)
-* [Privacy Hub](https://www.cyberghostvpn.com/en_US/privacyhub/)
+![Back](https://assets.cyberghostvpn.com/img/frontend/cg/navigation/icons/btn-right-arrow.svg?v=13100)
+
+* [What Is VPN](https://www.cyberghostvpn.com/what-is-a-vpn)
+    
+    * [VPN Features](https://www.cyberghostvpn.com/features)
+    * [Stream Sports](https://www.cyberghostvpn.com/sport-vpn)
+    * [Access Content](https://www.cyberghostvpn.com/unblock-streaming)
+    * [Gaming VPN](https://www.cyberghostvpn.com/gaming-vpn)
+    * [VPN Free Trial](https://www.cyberghostvpn.com/vpn-free-trial)
+    * [Dedicated IP](https://www.cyberghostvpn.com/dedicated-ip-vpn)
+    * [No Logs VPN](https://www.cyberghostvpn.com/features/no-logs-vpn)
+    
+* [Download VPN](https://www.cyberghostvpn.com/download)
+    
+    * [Windows VPN](https://www.cyberghostvpn.com/download/windows-vpn)
+    * [Mac VPN](https://www.cyberghostvpn.com/download/macos-vpn)
+    * [iOS VPN](https://www.cyberghostvpn.com/download/ios-vpn)
+    * [Android VPN](https://www.cyberghostvpn.com/download/android-vpn)
+    * [Chrome VPN](https://www.cyberghostvpn.com/download/chrome-vpn)
+    * [Router VPN](https://www.cyberghostvpn.com/download/vpn-router)
+    * [Smart TV VPN](https://www.cyberghostvpn.com/download/vpn-smart-tv)
+    * [Windows Security Suite](https://www.cyberghostvpn.com/download/windows-privacy-suite)
+    
+* [VPN Servers](https://www.cyberghostvpn.com/vpn-server)
+    
+    * [USA VPN](https://www.cyberghostvpn.com/vpn-server/usa-vpn)
+    * [Australia VPN](https://www.cyberghostvpn.com/vpn-server/vpn-australia)
+    * [Canada VPN](https://www.cyberghostvpn.com/vpn-server/canada-vpn)
+    * [UK VPN](https://www.cyberghostvpn.com/vpn-server/uk-vpn)
+    * [France VPN](https://www.cyberghostvpn.com/vpn-server/vpn-france)
+    * [Germany VPN](https://www.cyberghostvpn.com/vpn-server/best-vpn-germany)
+    * [Spain VPN](https://www.cyberghostvpn.com/vpn-server/vpn-spain)
+    
+
+* [Pricing](https://www.cyberghostvpn.com/buy)
+* [Privacy Hub](https://www.cyberghostvpn.com/privacyhub/)
 * [Help](https://support.cyberghostvpn.com/hc/en-us)
 
-* [Get OFF](https://www.cyberghostvpn.com/en_US/buy)
+* [Get OFF](https://www.cyberghostvpn.com/buy)
     
-* [My Account](https://my.cyberghostvpn.com/en_US/login)
+* [My Account](https://my.cyberghostvpn.com/login)
     
 
-* [English](https://www.cyberghostvpn.com/en_US/terms)
+* [English](https://www.cyberghostvpn.com/terms)
 * [Čeština](https://www.cyberghostvpn.com/cs/terms)
 * [Dansk](https://www.cyberghostvpn.com/da/terms)
-* [Deutsch](https://www.cyberghostvpn.com/de_DE/agbs)
+* [Deutsch](https://www.cyberghostvpn.com/de/agbs)
 * [Español](https://www.cyberghostvpn.com/es/terms)
 * [Finnish](https://www.cyberghostvpn.com/fi/terms)
-* [Français](https://www.cyberghostvpn.com/fr_FR/termes)
+* [Français](https://www.cyberghostvpn.com/fr/termes)
 * [Indonesian](https://www.cyberghostvpn.com/id/terms)
 * [Italiano](https://www.cyberghostvpn.com/it/terms)
 * [Magyar](https://www.cyberghostvpn.com/hu/terms)
@@ -162,9 +162,9 @@
 Terms and Conditions
 --------------------
 
-[Refer A Friend Terms and Conditions](https://www.cyberghostvpn.com/en_US/ref-terms)
+[Refer A Friend Terms and Conditions](https://www.cyberghostvpn.com/ref-terms)
 
-[Imprint](https://www.cyberghostvpn.com/en_US/imprint)
+[Imprint](https://www.cyberghostvpn.com/imprint)
 
 ### General Business Terms for CyberGhost Products
 
@@ -199,7 +199,7 @@ You agree that you and any other user that you have provided access to will not 
 
 #### 3\. Data
 
-CyberGhost values your privacy and strives to maintain it. We only collect the bear minimum information for the provision of our Products. CyberGhost collects and uses no personal data to make CyberGhost Products available, other than your log-in details. If you want to find out more about the way in which CyberGhost collects and uses data, please read our [Privacy Policy](https://www.cyberghostvpn.com/en_US/privacypolicy).
+CyberGhost values your privacy and strives to maintain it. We only collect the bear minimum information for the provision of our Products. CyberGhost collects and uses no personal data to make CyberGhost Products available, other than your log-in details. If you want to find out more about the way in which CyberGhost collects and uses data, please read our [Privacy Policy](https://www.cyberghostvpn.com/privacypolicy).
 
 CyberGhost does not store data within CyberGhost Products which permit interference with your personal data. For all operations, which imply the storage of personal data, such as for example payment operations, CyberGhost cooperates with third party providers, who undertake the **separate** storage of data; for more information we recommend you review Clause 5 below and our Privacy Policy.
 
@@ -213,7 +213,7 @@ CyberGhost may, at its sole discretion, provide limited technical support, upgra
 
 #### 5\. External service providers
 
-In order to make the service CyberGhost Products available, CyberGhost Products cooperates with third party providers (such as Digital Commerce Providers for payment operations or Data Processing Centers for our VPN servers). If you want to find out more about the third party providers with whom CyberGhost cooperates, please read our [Privacy Policy](https://www.cyberghostvpn.com/en_US/privacypolicy).
+In order to make the service CyberGhost Products available, CyberGhost Products cooperates with third party providers (such as Digital Commerce Providers for payment operations or Data Processing Centers for our VPN servers). If you want to find out more about the third party providers with whom CyberGhost cooperates, please read our [Privacy Policy](https://www.cyberghostvpn.com/privacypolicy).
 
 We make best efforts to monitor and choose our partners and secure the services provided to you. WE DISCLAIM ALL REPRESENTATIONS AND WARRANTIES REGARDING CONTENT, GOODS, SOFTWARE OR SERVICES YOU OBTAIN FROM THIRD PARTY PROVIDERS. We are not responsible for the availability or compliance of the content provided by Third Party Providers.
 
@@ -251,9 +251,9 @@ Subscription plans renew automatically by default at the completion of the billi
 
 You can terminate a subscription at any time by following the process below:
 
-[How can I cancel my subscription](https://support.cyberghostvpn.com/hc/en-us)
+[How can I cancel my subscription](https://support.cyberghostvpn.com/hc/en-us/articles/360017373799-How-Can-I-Cancel-or-Reactivate-My-Subscription)
 
-In case you terminate your subscription within the below specified timeframe (depending on the type of your subscription) and contact support (support@cyberghost.ro or support@cyberghost.com) to request a refund, we shall refund the full amount paid in accordance with our money-back warranty: [Refund Policy 45 Days Money Back Guarantee.](https://support.cyberghostvpn.com/hc/en-us) Note: If you purchased a CyberGhost VPN subscription via the App Store or iTunes, your account is subject to Apple’s terms of service. You will need to request a refund through the App Store. Similarly, if you purchased a CyberGhost VPN subscription through a third-party seller, you will need to contact the seller for their respective refund policy.
+In case you terminate your subscription within the below specified timeframe (depending on the type of your subscription) and contact support (support@cyberghost.ro or support@cyberghost.com) to request a refund, we shall refund the full amount paid in accordance with our money-back warranty: [Refund Policy 45 Days Money Back Guarantee.](https://support.cyberghostvpn.com/hc/en-us/articles/213834369-CyberGhost-VPN-s-Refund-Policy) Note: If you purchased a CyberGhost VPN subscription via the App Store or iTunes, your account is subject to Apple’s terms of service. You will need to request a refund through the App Store. Similarly, if you purchased a CyberGhost VPN subscription through a third-party seller, you will need to contact the seller for their respective refund policy.
 
 |     |     |
 | --- | --- |
@@ -328,7 +328,7 @@ If any provision in the Agreement is held invalid or unenforceable, that provisi
 
 Not 100% satisfied with CyberGhost VPN? Contact us within 45 days of purchase and we will send you a full refund.
 
-[**Get CyberGhost Risk-Free**](https://www.cyberghostvpn.com/en_US/buy)
+[**Get CyberGhost Risk-Free**](https://www.cyberghostvpn.com/buy)
 
 {"styleType":"light","containerType":"horizontal"}
 
@@ -338,23 +338,23 @@ Not 100% satisfied with CyberGhost VPN? Contact us within 45 days of purchase an
 
 ##### Products
 
-[VPN for PC](https://www.cyberghostvpn.com/en_US/download/windows-vpn) [VPN for Chrome](https://www.cyberghostvpn.com/en_US/download/chrome-vpn) [VPN for Mac](https://www.cyberghostvpn.com/en_US/download/macos-vpn) [VPN for Android](https://www.cyberghostvpn.com/en_US/download/android-vpn) [VPN for Firefox](https://www.cyberghostvpn.com/en_US/download/firefox-vpn) [Apple TV VPN](https://www.cyberghostvpn.com/en_US/download/apple-tv-vpn) [VPN for Linux](https://www.cyberghostvpn.com/en_US/download/linux-vpn) [Router VPN](https://www.cyberghostvpn.com/en_US/download/vpn-router) [VPN for Smart TV](https://www.cyberghostvpn.com/en_US/download/vpn-smart-tv) [VPN for iOS](https://www.cyberghostvpn.com/en_US/download/ios-vpn)
+[VPN for PC](https://www.cyberghostvpn.com/download/windows-vpn) [VPN for Chrome](https://www.cyberghostvpn.com/download/chrome-vpn) [VPN for Mac](https://www.cyberghostvpn.com/download/macos-vpn) [VPN for Android](https://www.cyberghostvpn.com/download/android-vpn) [VPN for Firefox](https://www.cyberghostvpn.com/download/firefox-vpn) [Apple TV VPN](https://www.cyberghostvpn.com/download/apple-tv-vpn) [VPN for Linux](https://www.cyberghostvpn.com/download/linux-vpn) [Router VPN](https://www.cyberghostvpn.com/download/vpn-router) [VPN for Smart TV](https://www.cyberghostvpn.com/download/vpn-smart-tv) [VPN for iOS](https://www.cyberghostvpn.com/download/ios-vpn)
 
 ##### Resources
 
-[What Is a VPN](https://www.cyberghostvpn.com/en_US/what-is-a-vpn) [Privacy Hub](https://www.cyberghostvpn.com/privacyhub/) [Transparency Report](https://www.cyberghostvpn.com/en_US/transparency-report) [Privacy Tools](https://www.cyberghostvpn.com/en_US/privacy-tools) [Money-Back Guarantee](https://www.cyberghostvpn.com/en_US/features/money-back-guarantee) [VPN Features](https://www.cyberghostvpn.com/en_US/features) [VPN Servers](https://www.cyberghostvpn.com/en_US/vpn-server) [Glossary](https://www.cyberghostvpn.com/en_US/glossary)
+[What Is a VPN](https://www.cyberghostvpn.com/what-is-a-vpn) [Privacy Hub](https://www.cyberghostvpn.com/privacyhub/) [Transparency Report](https://www.cyberghostvpn.com/transparency-report) [Privacy Tools](https://www.cyberghostvpn.com/privacy-tools) [Money-Back Guarantee](https://www.cyberghostvpn.com/features/money-back-guarantee) [VPN Features](https://www.cyberghostvpn.com/features) [VPN Servers](https://www.cyberghostvpn.com/vpn-server) [Glossary](https://www.cyberghostvpn.com/glossary)
 
 ##### Popular
 
-[CyberGhost VPN Reviews](https://www.cyberghostvpn.com/en_US/reviews) [VPN Free Trial](https://www.cyberghostvpn.com/en_US/vpn-free-trial) [Download Now](https://www.cyberghostvpn.com/en_US/download) [Unblock Websites](https://www.cyberghostvpn.com/en_US/unblock-websites) [Dedicated IP VPN](https://www.cyberghostvpn.com/en_US/dedicated-ip-vpn) [Stream with VPN](https://www.cyberghostvpn.com/en_US/unblock-streaming)
+[CyberGhost VPN Reviews](https://www.cyberghostvpn.com/reviews) [VPN Free Trial](https://www.cyberghostvpn.com/vpn-free-trial) [Download Now](https://www.cyberghostvpn.com/download) [Unblock Websites](https://www.cyberghostvpn.com/unblock-websites) [Dedicated IP VPN](https://www.cyberghostvpn.com/dedicated-ip-vpn) [Stream with VPN](https://www.cyberghostvpn.com/unblock-streaming)
 
 ##### About CyberGhost
 
-[About CyberGhost](https://www.cyberghostvpn.com/en_US/about) [The Team](https://www.cyberghostvpn.com/en_US/team) [Careers](https://www.cyberghostvpn.com/en_US/careers) [Contact](https://www.cyberghostvpn.com/en_US/contact) [Privacy Policy](https://www.cyberghostvpn.com/en_US/privacypolicy) [Terms and Conditions](https://www.cyberghostvpn.com/en_US/terms) [Refer a friend T&C](https://www.cyberghostvpn.com/en_US/ref-terms) [Imprint](https://www.cyberghostvpn.com/en_US/imprint)
+[About CyberGhost](https://www.cyberghostvpn.com/about) [The Team](https://www.cyberghostvpn.com/team) [Careers](https://www.cyberghostvpn.com/careers) [Contact](https://www.cyberghostvpn.com/contact) [Privacy Policy](https://www.cyberghostvpn.com/privacypolicy) [Terms and Conditions](https://www.cyberghostvpn.com/terms) [Refer a friend T&C](https://www.cyberghostvpn.com/ref-terms) [Imprint](https://www.cyberghostvpn.com/imprint)
 
 ##### Programs
 
-[Affiliates](https://www.cyberghostvpn.com/en_US/affiliate) [Refer a Friend](https://www.cyberghostvpn.com/en_US/refer-a-friend) [Freedom](https://www.cyberghostvpn.com/en_US/freedom) [Vulnerability Disclosure Program](https://www.cyberghostvpn.com/en_US/vulnerability-disclosure-program) [Partnerships](https://www.cyberghostvpn.com/en_US/partnerships)
+[Affiliates](https://www.cyberghostvpn.com/affiliate) [Refer a Friend](https://www.cyberghostvpn.com/refer-a-friend) [Freedom](https://www.cyberghostvpn.com/freedom) [Vulnerability Disclosure Program](https://www.cyberghostvpn.com/vulnerability-disclosure-program) [Partnerships](https://www.cyberghostvpn.com/partnerships)
 
 ##### Support & Help
 
@@ -368,14 +368,30 @@ Connect with us
 
 ×
 
-![](https://assets.cyberghostvpn.com/photos/cg/campaigns/july2022/ei-default-image.png)
+![](https://assets.cyberghostvpn.com/photos/cg/campaigns/sport24/exit-intent/eisport24-cg-goalkeeper.svg)
 
-### Time to Step up Your Digital Protection
+### Score Big with Online Privacy
 
-The 2-Year Plan Is Now  
-Available for only /mo
------------------------------------------------
+Enjoy 2 Years  
+\+ 4 Months Free
+--------------------------------
 
-**Save Now**
+**Get It Now | Off**
 
-![undefined](https://assets.cyberghostvpn.com/photos/cg/campaigns/july2022/cg-fp-small-shield.svg) 45-Day Money-Back Guarantee
+![undefined](https://assets.cyberghostvpn.com/photos/cg/Custom-Checked-Shield.svg) 45-Day Money-Back Guarantee
+
+×
+
+A WINNING OFFER
+
+OFF
+---
+
+Defend your data like a goalkeeper:  
+**4 months FREE!**
+
+**Get It Now | Off**
+
+![undefined](https://assets.cyberghostvpn.com/photos/cg/Custom-Checked-Shield.svg) 45-Day Money-Back Guarantee
+
+![](https://assets.cyberghostvpn.com/photos/cg/experiments/exit-intent/ei-cg-sport24-experiment.svg)
