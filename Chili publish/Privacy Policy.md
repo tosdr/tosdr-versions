@@ -17,7 +17,7 @@
 
 Why CHILI GraFx ?
 
-[Impact](https://www.chili-publish.com/grafx/impact/)[Multichannel Graphics Production](https://www.chili-publish.com/grafx/impact/one-stop-shop-for-all-creative-production/)[Integrated Data Operations](https://www.chili-publish.com/grafx/impact/ready-to-connect-to-your-data-and-tech-stacks/)[Brand Enablement At Scale](https://www.chili-publish.com/grafx/impact/enable-non-designers-to-self-serve-design-assets/)[API-First Development & Metrics](https://www.chili-publish.com/grafx/impact/produce-graphics-at-scale-and-remain-in-control/)
+[Impact](https://www.chili-publish.com/grafx/impact/)[Multichannel Graphics Production](https://www.chili-publish.com/grafx/impact/one-stop-shop-for-all-creative-production/)[Integrated Data Operations](https://www.chili-publish.com/grafx/impact/ready-to-connect-to-your-data-and-tech-stacks/)[Brand Enablement At Scale](https://www.chili-publish.com/grafx/impact/enable-non-designers-to-self-serve-design-assets/)[API-First Development & Metrics](https://www.chili-publish.com/grafx/impact/produce-graphics-at-scale-and-remain-in-control/)[Watch our Demo Videos](https://www.chili-publish.com/chili-grafx-powering-creative-automation-at-scale/)
 
 [Platform](https://www.chili-publish.com/grafx/platform/)[CHILI GraFx boosts your digital and print media creation at any scale](https://www.chili-publish.com/grafx/platform/)
 
@@ -67,7 +67,7 @@ Changes in the retail landscape are shifting how agencies and retailers work tog
 
 Read more](https://www.chili-publish.com/solution/business-type/agencies/)
 
-[Partners](https://www.chili-publish.com/partners/technology-isv-partners/)[Customers](https://www.chili-publish.com/customers/)Resources
+PartnersCustomersResources
 
 Get Started
 
@@ -261,15 +261,15 @@ For specific services, apps or events, we may collect other types of data and us
     
     Would you like to view or improve your data?
     
-    You may adjust your personal data. Contact us at [privacy@chili-publish.com](mailto:&#x70;&#x72;&#105;&#x76;&#97;&#99;&#x79;&#x40;&#99;&#104;&#105;&#108;&#x69;&#x2d;&#112;&#117;&#x62;&#x6c;&#x69;&#115;&#104;&#x2e;&#99;&#111;&#109;)
+    You may adjust your personal data. Contact us at [privacy@chili-publish.com](mailto:&#x70;&#114;&#x69;&#x76;&#x61;&#99;&#x79;&#64;&#99;&#104;&#105;&#x6c;&#x69;&#x2d;&#x70;&#117;&#98;&#108;&#x69;&#x73;&#x68;&#x2e;&#x63;&#111;&#x6d;)
     
     Would you like to unsubscribe from the CHILI publish newsletter?
     
     This is possible using the link at the bottom of each mail or via this preference page.
     
-    If you are not successful in removing your data via the preference page, or if you would like to invoke any other right you hold according to the General Data Protection Regulation (such as the removal of your data), you can submit a written request for this purpose via [privacy@chili-publish.com](mailto:&#x70;&#114;&#x69;&#118;&#97;&#99;&#121;&#64;&#99;&#x68;&#105;&#x6c;&#105;&#45;&#x70;&#x75;&#98;&#x6c;&#x69;&#x73;&#104;&#46;&#x63;&#111;&#109;) or CHILI publish NV, att Privacy, Korte Keppestraat 9, bus 11, 9320 Erembodegem, Belgium. To be certain that only you receive access to your data, we ask that you include a copy of your identification (front only).
+    If you are not successful in removing your data via the preference page, or if you would like to invoke any other right you hold according to the General Data Protection Regulation (such as the removal of your data), you can submit a written request for this purpose via [privacy@chili-publish.com](mailto:&#x70;&#x72;&#105;&#118;&#x61;&#99;&#x79;&#64;&#x63;&#104;&#x69;&#108;&#x69;&#45;&#112;&#117;&#x62;&#x6c;&#x69;&#115;&#x68;&#x2e;&#99;&#111;&#109;) or CHILI publish NV, att Privacy, Korte Keppestraat 9, bus 11, 9320 Erembodegem, Belgium. To be certain that only you receive access to your data, we ask that you include a copy of your identification (front only).
     
-    You can also contact us via [privacy@chili-publish.com](mailto:&#112;&#114;&#x69;&#118;&#97;&#99;&#121;&#64;&#x63;&#x68;&#105;&#x6c;&#x69;&#x2d;&#x70;&#x75;&#x62;&#x6c;&#x69;&#115;&#104;&#x2e;&#x63;&#111;&#109;) if you have any questions, comments or complaints concerning this privacy statement.
+    You can also contact us via [privacy@chili-publish.com](mailto:&#112;&#x72;&#105;&#118;&#97;&#x63;&#121;&#64;&#x63;&#104;&#105;&#108;&#x69;&#x2d;&#112;&#117;&#x62;&#108;&#105;&#115;&#104;&#x2e;&#99;&#x6f;&#x6d;) if you have any questions, comments or complaints concerning this privacy statement.
     
 8. How will this privacy statement be maintained?
     
