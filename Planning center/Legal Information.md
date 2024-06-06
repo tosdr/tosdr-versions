@@ -1,0 +1,293 @@
+[](https://www.planningcenter.com/)Menu
+
+[](https://www.planningcenter.com/)
+
+Products
+
+[Calendar
+
+Event & Facility Scheduling](https://www.planningcenter.com/calendar)[Check-Ins
+
+Child & Volunteer Attendance](https://www.planningcenter.com/check-ins)[Giving
+
+Donation Processing & Reporting](https://www.planningcenter.com/giving)[Groups
+
+Community Organization & Communication](https://www.planningcenter.com/groups)[People
+
+Membership Management
+
+Included free with all apps](https://www.planningcenter.com/people)[Publishing
+
+Custom Web & App Content](https://www.planningcenter.com/publishing)[Registrations
+
+Event Signups & Payments](https://www.planningcenter.com/registrations)[Services
+
+Service Planning & Volunteer Scheduling](https://www.planningcenter.com/services)[Music Stand
+
+Mobile Music Reader](https://www.planningcenter.com/music-stand)[Church Center
+
+A Mobile App for Your Congregants](https://www.planningcenter.com/church-center)
+
+Use Cases
+
+[![use case icon](/images/icons/icon-use-case.svg)
+
+Planning Center as a ChMS
+
+Equip your team, connect your church](https://www.planningcenter.com/use-cases/chms)[![use case children-s-ministry icon](/images/icons/icon-use-case-cm.svg)
+
+Planning Center for Children's Ministry
+
+Care for families, support volunteers](https://www.planningcenter.com/use-cases/childrens-ministry)[![use case church planters](/images/icons/icon-use-case-cp.svg)
+
+Planning Center for Church Planters
+
+Set the culture for a growing church](https://www.planningcenter.com/use-cases/church-planters)
+
+Learn
+
+[![support icon](/images/icons/icon-support.svg)
+
+Support
+
+Helpful responses in ~1 hour](https://www.planningcenter.com/support)[![map icon](/images/icons/icon-map.svg)
+
+Getting Started
+
+A roadmap to transition](https://www.planningcenter.com/getting-started)[![cog icon](/images/icons/icon-integrations.svg)
+
+Integrations
+
+Tools that work with our products](https://www.planningcenter.com/integrations)[![about us icon](/images/icons/icon-about-us.svg)
+
+About Us
+
+Our story and our values](https://www.planningcenter.com/about)[![grad hat icon](/images/icons/icon-grad-hat.svg)
+
+Training
+
+Become a Planning Center scholar](https://www.planningcenter.com/training)
+
+[Pricing](https://www.planningcenter.com/pricing)[Blog](https://www.planningcenter.com/blog)
+
+[Sign up](https://www.planningcenter.com/pricing)[Log in](https://login.planningcenteronline.com/)
+
+[](https://www.planningcenter.com/)
+
+Products
+
+[Calendar
+
+Event & Facility Scheduling](https://www.planningcenter.com/calendar)[Check-Ins
+
+Child & Volunteer Attendance](https://www.planningcenter.com/check-ins)[Giving
+
+Donation Processing & Reporting](https://www.planningcenter.com/giving)[Groups
+
+Community Organization & Communication](https://www.planningcenter.com/groups)[People
+
+Membership Management
+
+Included free with all apps](https://www.planningcenter.com/people)[Publishing
+
+Custom Web & App Content](https://www.planningcenter.com/publishing)[Registrations
+
+Event Signups & Payments](https://www.planningcenter.com/registrations)[Services
+
+Service Planning & Volunteer Scheduling](https://www.planningcenter.com/services)[Music Stand
+
+Mobile Music Reader](https://www.planningcenter.com/music-stand)[Church Center
+
+A Mobile App for Your Congregants](https://www.planningcenter.com/church-center)
+
+Learn
+
+[![support icon](/images/icons/icon-support.svg)
+
+Support
+
+Helpful responses in ~1 hour](https://www.planningcenter.com/support)[![Map icon](/images/icons/icon-map.svg)
+
+Getting Started
+
+A roadmap to transition](https://www.planningcenter.com/getting-started)[![cog icon](/images/icons/icon-integrations.svg)
+
+Integrations
+
+Tools that work with our products](https://www.planningcenter.com/integrations)[![about us icon](/images/icons/icon-about-us.svg)
+
+About Us
+
+Our story and our values](https://www.planningcenter.com/about)[![grad hat icon](/images/icons/icon-grad-hat.svg)
+
+Training
+
+Become a Planning Center scholar](https://www.planningcenter.com/training)
+
+Use Cases
+
+[![use case icon](/images/icons/icon-use-case.svg)
+
+Planning Center as a ChMS
+
+Equip your team, connect your church](https://www.planningcenter.com/use-cases/chms)[![use case children-s-ministry icon](/images/icons/icon-use-case-cm.svg)
+
+Planning Center for Children's Ministry
+
+Care for families, support volunteers](https://www.planningcenter.com/use-cases/childrens-ministry)[![use case church planters icon](/images/icons/icon-use-case-cp.svg)
+
+Planning Center for Church Planters
+
+Set the culture for a growing church](https://www.planningcenter.com/use-cases/church-planters)
+
+[Pricing](https://www.planningcenter.com/pricing)[Blog](https://www.planningcenter.com/blog)
+
+[Sign up](https://www.planningcenter.com/pricing)[Log in](https://login.planningcenteronline.com/)
+
+Security
+========
+
+Artboard 8
+
+[Terms of Service](https://www.planningcenter.com/terms)[Privacy Policy](https://www.planningcenter.com/privacy)[Congregant Privacy](https://www.planningcenter.com/congregant-privacy)[GDPR](https://www.planningcenter.com/gdpr)[Security](https://www.planningcenter.com/security)
+
+* [Overview](#overview)
+* [SOC 2 Type 2 Certified](#section1)
+* [PCI Compliance](#section2)
+* [Technical Security and Encryption](#section3)
+* [Secure Coding Practices](#section4)
+* [Data Durability and Recovery](#data-durability-and-recovery)
+* [Security Bug Bounty](#section5)
+* [Physical Security](#section6)
+* [Local Equipment Security](#section7)
+* [Personnel Security](#section8)
+* [Security Culture](#section9)
+* [Questions](#section10)
+
+### Security, Compliance, Practices, and Procedures at Planning Center
+
+The security of your data and the personal information of your congregation matters deeply to us, and we’re committed to protecting it. Here we outline the physical and technical procedures we use to ensure your data is kept safe, and the external certifications and audits we comply with to verify our practices.
+
+SOC 2 Type 2 Certified
+----------------------
+
+Planning Center is SOC 2 Type 2 certified. The American Institute of Certified Public Accountants (AICPA) created the Service Organization Control (SOC 2) framework to test organizations’ ability to protect data from potential threats.
+
+To pass SOC 2, we worked with an AICPA-approved auditor, [Johanson Group](https://www.johansonllp.com/), to critique our company based on five areas: security, availability, processing integrity, confidentiality, and privacy. This audit included a review of our policies, backup and disaster recovery, incident response, firewall configurations, and other critical areas of our business. After completing the audit, we received an Auditor’s Report, proving Planning Center meets and exceeds the SOC 2 criteria. [We can provide the full report upon request.](https://pcoprivacy.churchcenter.com/people/forms/411901)
+
+PCI Compliance
+--------------
+
+The [Payment Card Industry Data Security Standards](https://en.wikipedia.org/wiki/Payment_Card_Industry_Data_Security_Standard) (PCI DSS, or more commonly, PCI) are a set of standards set forth by the four major card associations to protect cardholder data. All merchants and processors need to have physical, electronic, and procedural controls in place to ensure that cardholder data is stored and handled securely at all times.
+
+**Planning Center is a PCI Level One compliant merchant.**
+
+Our payment processor, [Stripe](https://stripe.com/), is one of the largest, most advanced payment processors in the world. They handle payment processing for services like Kickstarter, Lyft, Shopify, Pinterest, Twitter, Heroku, SurveyMonkey, and [many other](https://stripe.com/gallery) companies. Stripe is also [a certified](https://www.visa.com/splisting/searchGrsp.do?companyNameCriteria=stripe,%20inc) "PCI Service Provider Level 1" payment processor.
+
+Technical Security and Encryption
+---------------------------------
+
+Whenever your data is in transit between you and us, everything is sent encrypted over HTTPS, and our databases utilize encryption at rest. We limit brute force attacks with rate limiting, and all passwords are filtered from all our logs and are one-way encrypted using industry standard bcrypt.
+
+Secure Coding Practices
+-----------------------
+
+We hire the best developers we can find. Since so many security exploits take advantage of coding errors, part of security is having well-tested, well-reviewed code. At Planning Center, code changes are reviewed by teammates, ran against an automated testing framework, and in most cases, manually QA’d. By the time new code is running on our production environments it has had lots of eyeballs on it. Developing this way means that it takes more time to get things done, but it also means that fewer mistakes get by.
+
+Data Durability and Recovery
+----------------------------
+
+We employ a multilayered backup strategy that is designed to be resilient to hardware failure, regional disasters, and malicious acts. Both point in time backups and daily snapshots are available for use in recovery.
+
+Security Bug Bounty
+-------------------
+
+We run an ongoing bounty program through [HackerOne](https://hackerone.com/) to provide penetration testing across all of our products. These security researchers are some of the best in the world at finding vulnerabilities and responsibly disclosing them.
+
+Our bounty program is open to anyone who finds a security vulnerability. To report a vulnerability, please start by requesting an invite to our program by email at [hackerone@planningcenter.com](mailto:hackerone@planningcenter.com). Our average response time is less than one day.
+
+Physical Security
+-----------------
+
+All of your data is stored in AWS data centers, which use industry leading practices in physical security, redundancy, and availability. You can learn more about Amazon's data centers [here](https://aws.amazon.com/compliance/data-center/controls/).
+
+Local Equipment Security
+------------------------
+
+At the most basic level, our main physical space is locked and alarmed during off hours. In the event of a break-in, we may lose some expensive monitors, but since our servers don't reside in our buildings, they aren't vulnerable to smash-and-grab robberies. Local computers are password protected and encrypted. In the course of conducting customer support, employees access customer data using an encrypted connection and must invoke a time-based one-time password upon connection.
+
+Personnel Security
+------------------
+
+Planning Center is a small company, so thankfully we are able to hire some brilliant people who care about its success. Our employee turnover is extremely low (especially for the tech industry). To protect company data, including customer data, all employees sign a non-disclosure agreement when hired.
+
+Security Culture
+----------------
+
+Lastly, a word about the culture here in general. Most of us who work at Planning Center are also users of our software. Our personal data is in the same database as our customers. We've checked-in our children using [Planning Center Check-Ins](https://www.planningcenter.com/check-ins/) at our own churches. We've donated to our churches using [Planning Center Giving](https://www.planningcenter.com/giving/). We protect your data like it’s our data because it is our data.
+
+Questions
+---------
+
+If you have any questions that weren't addressed on this page, please don't hesitate to ask by emailing us at [support@planningcenter.com](mailto:support@planningcenter.com).
+
+[![planning center logo](/images/icons/icon-planning-center.svg)](https://www.planningcenter.com/)
+
+Get updates delivered to your inbox!
+
+* [](https://twitter.com/PlanningCenter)
+* [](https://www.facebook.com/PlanningCenter)
+* [](https://www.instagram.com/PlanningCenter)
+* [](https://youtube.com/PlanningCenter)
+
+* Products
+    
+    * [Calendar](https://www.planningcenter.com/calendar)
+    * [Check-ins](https://www.planningcenter.com/check-ins)
+    * [Giving](https://www.planningcenter.com/giving)
+    * [Groups](https://www.planningcenter.com/groups)
+    * [People](https://www.planningcenter.com/people)
+    * [Publishing](https://www.planningcenter.com/publishing)
+    * [Registrations](https://www.planningcenter.com/registrations)
+    * [Services](https://www.planningcenter.com/services)
+    * [Music Stand](https://www.planningcenter.com/music-stand)
+    * [Church Center](https://www.planningcenter.com/church-center)
+
+* Learn
+    
+    * [Getting Started](https://www.planningcenter.com/getting-started)
+    * [Integrations](https://www.planningcenter.com/integrations)
+    * [About Us](https://www.planningcenter.com/about)
+    * [Training](https://www.planningcenter.com/training)
+    * [Planning Center University](https://www.planningcenter.com/university)
+
+* Use Cases
+    
+    * [Planning Center as a ChMS](https://www.planningcenter.com/use-cases/chms)
+    * [Planning Center for Children’s Ministry](https://www.planningcenter.com/use-cases/childrens-ministry)
+    * [Planning Center for Church Planters](https://www.planningcenter.com/use-cases/church-planters)
+
+* Compare
+    
+    * [Planning Center vs. Tithely](https://www.planningcenter.com/compare-planning-center-vs-tithely)
+    * [Planning Center vs. Pushpay](https://www.planningcenter.com/compare-planning-center-vs-pushpay)
+
+* [Pricing](https://www.planningcenter.com/pricing)
+* [Blog](https://www.planningcenter.com/blog)
+* [Developers](https://www.planningcenter.com/developers)
+* [Careers](https://www.planningcenter.com/careers)
+* [Logos](https://www.planningcenter.com/logos)
+* [Support](https://www.planningcenter.com/support)
+* [Community](https://www.planningcenter.com/community)
+* [Security](https://www.planningcenter.com/security)
+* [Status](https://status.planningcenter.com/)
+* [![giving badge](/images/giving/giving-badge.svg)Apply for a free  
+    Giving subscription](https://www.planningcenter.com/giving/free)
+
+![Soc icon](/_next/static/media/soc.83c91224.svg)
+
+![Gdpr icon](/_next/static/media/gdpr.df8aebde.svg)
+
+![Ccpa icon](/_next/static/media/ccpa.bf921d43.svg)
+
+[Terms of Service](https://www.planningcenter.com/terms)[Privacy Policy](https://www.planningcenter.com/privacy)
