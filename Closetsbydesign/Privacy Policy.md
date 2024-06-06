@@ -6,11 +6,29 @@ Search for:
 
 [Français](https://fr.closetsbydesign.ca/)
 
-[**Choose a location near you**](javascript:void(0);)
+[**Choose a location near you**](#)
 
  
 
-    [![Logo](https://www.closetsbydesign.com/wp-content/uploads/2018/08/logo_large.png) ![Logo](https://www.closetsbydesign.com/wp-content/uploads/2018/08/logo_large.png) ![Logo](https://www.closetsbydesign.com/wp-content/uploads/2018/08/logo_large.png) ![Logo](https://www.closetsbydesign.com/wp-content/uploads/2018/08/logo_large.png) ![Logo](https://www.closetsbydesign.com/wp-content/uploads/2018/08/logo_large.png)](https://www.closetsbydesign.com/)
+    [![Logo](https://www.closetsbydesign.com/wp-content/uploads/2018/08/logo_large.png)
+
+![Logo](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E) 
+
+![Logo](https://www.closetsbydesign.com/wp-content/uploads/2018/08/logo_large.png)
+
+![Logo](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E) 
+
+![Logo](https://www.closetsbydesign.com/wp-content/uploads/2018/08/logo_large.png)
+
+![Logo](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E) 
+
+![Logo](https://www.closetsbydesign.com/wp-content/uploads/2018/08/logo_large.png)
+
+![Logo](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E) 
+
+![Logo](https://www.closetsbydesign.com/wp-content/uploads/2018/08/logo_large.png)
+
+![Logo](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E)](https://www.closetsbydesign.com/)
 
 Follow us:
 
@@ -18,8 +36,6 @@ Follow us:
 * [](https://www.youtube.com/channel/UCCdjd9ErW3iz2qUAfRjfHKA)
 * [](https://www.instagram.com/closetsbydesign/)
 * [](https://www.facebook.com/closetsbydesign)
-
-INTERNET OFFER: 40% + 15% Off. Free Installation [Click here to learn more.](https://www.closetsbydesign.com/ScheduleRequests/)
 
 [Call Closet by Design 1-800-500-9210](tel:+18005009210) [Let's Get Started](https://www.closetsbydesign.com/ScheduleRequests/)
 
@@ -106,7 +122,9 @@ Privacy Policy
 
 [Home](https://www.closetsbydesign.com/) > Privacy Policy
 
-![](https://www.closetsbydesign.com/wp-content/uploads/2018/09/fewReasons.jpg)Closets by Design respects the privacy of our customers, partners and suppliers of products or services and clients. The purpose of this Privacy Statement is to provide you with information concerning how we collect personal information; how we use, handle and disclose collected information; and choices you may have about the ways we collect and use that information. Our goal in handling personal information provided to us is to comply with applicable data protection and privacy laws and to offer our customers and other users of this website notice, choice and consent regarding communications for direct marketing purposes, security, data integrity, access, and enforcement with regard to personal information. “Personal information” means information that identifies you personally, either alone or in combination with other information available to us.
+![](https://www.closetsbydesign.com/wp-content/uploads/2018/09/fewReasons.jpg)
+
+![](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E)Closets by Design respects the privacy of our customers, partners and suppliers of products or services and clients. The purpose of this Privacy Statement is to provide you with information concerning how we collect personal information; how we use, handle and disclose collected information; and choices you may have about the ways we collect and use that information. Our goal in handling personal information provided to us is to comply with applicable data protection and privacy laws and to offer our customers and other users of this website notice, choice and consent regarding communications for direct marketing purposes, security, data integrity, access, and enforcement with regard to personal information. “Personal information” means information that identifies you personally, either alone or in combination with other information available to us.
 
 This privacy notice discloses the privacy practices for www.closetsbydesign.com This privacy notice applies solely to information collected by this website and in other communications with the company, except where stated otherwise. It will notify you of the following:
 
@@ -174,7 +192,13 @@ Join our email list
 
       
 
-[![](https://www.closetsbydesign.com/wp-content/uploads/2018/08/logo_large-300x49.png)](https://www.closetsbydesign.com/)
+Closets By Design
+
+[![Closet By Design logo](https://www.closetsbydesign.com/wp-content/uploads/2018/08/logo_large-300x49.png)
+
+![Closet By Design logo](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20300%2049%22%3E%3C/svg%3E)](https://www.closetsbydesign.com/)
+
+[Accessibility](#)
 
 ##### Our Company
 
@@ -268,4 +292,4 @@ Thank you for your interest in a career opportunity with Closets by Design. To f
 
  
 
-![](https://www.facebook.com/tr?id=212947752425996&ev=PageView&noscript=1&eid=212947752425996ec59a576-6eba-430d-9864-2c293f3fcbe4&cd%5Bpage_title%5D=Privacy+Policy&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=15906&cd%5Bplugin%5D=PixelYourSite&cd%5Bevent_url%5D=www.closetsbydesign.com%2Fprivacy-policy%2F&cd%5Buser_role%5D=guest)
+![](https://www.facebook.com/tr?id=212947752425996&ev=PageView&noscript=1&eid=21294775242599613e059d1-86c1-49f5-a65a-e16307f47bbc&cd%5Bpage_title%5D=Privacy+Policy&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=15906&cd%5Bplugin%5D=PixelYourSite&cd%5Bevent_url%5D=www.closetsbydesign.com%2Fprivacy-policy%2F&cd%5Buser_role%5D=guest)
