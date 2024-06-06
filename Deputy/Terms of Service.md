@@ -45,7 +45,7 @@ Start my free trial
 Product Specific Terms
 ----------------------
 
-### Last updated on April 30, 2024
+### Last updated on June 03, 2024
 
 **1\. Product Specific Terms**
 
@@ -134,6 +134,25 @@ Deputy may, in a separate professional services agreement, produce one or more c
 **8\. Updates to the Pay Rule Engine**
 
 Deputy is continuously evolving and improving its Pay Rule Engine and may modify, update, make corrections and/or enhance it from time to time (**Updates**). Updates will be reflected in the help documents and are not separately notified to individual customers.  
+  
+
+##### **Face Unlock for iPad Kiosk and Android Time Clock**
+
+**9\. About Deputy’s Face Unlock Feature**
+
+9.1 Deputy allows users to clock in and out of shifts, as well as start and end breaks, on Deputy’s iPad Kiosk app and Deputy’s Android Time Clock app using either a pin or a contactless face scan and voice-activated commands (**Face Unlock**).
+
+9.2 For more information on Face Unlock for iPad Kiosk see [here](https://help.deputy.com/hc/en-au/articles/4754361296527-Touchless-clock-in-with-Deputy-Kiosk-for-iPad) and for Android Time Clock see [here](https://help.deputy.com/hc/en-au/articles/4754524694031-Touchless-clock-in-with-Deputy-Time-Clock-for-Android). 
+
+9.3 Face Unlock is not available for iPad Kiosks or Android Time Clocks located in the following US states: Illinois, Maryland and Oregon, nor may you use it or permit your users to access it in violation of applicable laws in any region (collectively, **Prohibited Regions**). If your iPad Kiosk/s or Android Time Clock/s is/are located in the Prohibited Regions you will need to provide your users in these locations with the pin only option to clock in and out of shifts, as well as start and end breaks. 
+
+**10\. Warranty**
+
+If you provide the Face Unlock feature to your users (or permit them to use Face Unlock), you represent and warrant to Deputy that your iPad Kiosk/s or Android Time Clock/s is/are not located in any of the Prohibited Regions and that your and your users’ use of Face Unlock is not otherwise in violation of applicable laws. 
+
+**11\. Indemnity**
+
+You will defend Deputy against any claim, demand, suit or proceeding made or brought against Deputy by a third-party arising as a result of or in connection with the use of or access to Face Unlock in breach of the warranty in section 10 above  (**Claim**) and you will indemnify Deputy from any damages, fines, penalties, attorney fees and costs awarded against or incurred by Deputy as a result of a Claim.  
   
   
 
