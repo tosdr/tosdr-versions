@@ -1,4 +1,4 @@
-[![Codewars by Andela](https://assets-global.website-files.com/62e3ee10882dc50bcae8d07a/64c17e87883a17f4153b301f_codewars-by-andela-dark.svg)](https://www.codewars.com/)
+[![Codewars by Andela](https://cdn.prod.website-files.com/62e3ee10882dc50bcae8d07a/64c17e87883a17f4153b301f_codewars-by-andela-dark.svg)](https://www.codewars.com/)
 
 Dojo
 
@@ -10,29 +10,7 @@ Achieve honor and move up the leaderboards](https://www.codewars.com/users/leade
 
 Learn about all of the different aspects of Codewars](https://docs.codewars.com/)
 
-For developers
-
-[Career opportunities
-
-Find meaningful and exciting software development jobs](https://jobs.qualified.io/?utm_source=codewars)[Blog
-
-Deepen your knowledge with resources and insights from the Codewars team](https://www.codewars.com/blog)[Partner schools
-
-Jumpstart your development career with one of our bootcamp partners](https://www.codewars.com/partner-schools)[Missions
-
-Preview
-
-Challenge yourself with coding events that go beyond kata](#)
-
 [Blog](https://www.codewars.com/blog)[For Educators](https://www.codewars.com/partnerships)[For Companies](https://www.qualified.io/?utm_source=codewars&utm_campaign=companies-header)
-
-For Companies
-
-[Assessments & interviews
-
-Upgrade your recruiting process to find the most qualified candidates](https://www.qualified.io/?utm_source=codewars&utm_campaign=companies-header)[Job postings
-
-Tap into our global developer talent community](https://jobs.qualified.io/post?utm_source=codewars&utm_campaign=companies-header)
 
 [Log in](https://www.codewars.com/users/sign_in)[Join](https://www.codewars.com/join)
 
@@ -130,7 +108,7 @@ Updates to this policy
 
 We regularly review and, if appropriate, update this privacy policy from time to time, and as our services and use of personal data evolves. If we want to make use of your personal data in a way that we haven’t previously identified, we will contact you to provide information about this and, if necessary, to ask for your consent.
 
-[![](https://assets-global.website-files.com/62e3ee10882dc50bcae8d07a/631aaf6b1a176ea0525b6983_codewars-logomark.svg)](#)
+[![](https://cdn.prod.website-files.com/62e3ee10882dc50bcae8d07a/631aaf6b1a176ea0525b6983_codewars-logomark.svg)](#)
 
 Achieve mastery  
 through challenge.
