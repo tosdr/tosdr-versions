@@ -1,0 +1,82 @@
+[![recrypt](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+
+![recrypt](https://recrypt.app/wp-content/uploads/recrypt_logo.svg)](https://recrypt.app/)
+
+* [Our Story](https://recrypt.app/our-story/)
+* [How It Works](https://recrypt.app/password-manager-how-it-works/)
+* [For Teams](https://recrypt.app/for-teams/)
+* [Plans](https://recrypt.app/plans/)
+* [Security](https://recrypt.app/security/)
+* [Insights](https://recrypt.app/insights/)
+* [Create Free Account](https://my.recrypt.app/register)
+* [Log In](https://my.recrypt.app/login)
+
+End User License Agreement
+==========================
+
+This End-User License Agreement (“EULA”) is a legal agreement between you, The Licensee, (either an individual or a single entity, referred to as ‘Customer’, ‘User’ or ‘Licensee’) and Yozu Ltd, the parent company of Recrypt, and any derivative software products, which includes associated media and all Recrypt Internet-based services (“Software”) (“Application”) or (“App”). BY CLICKING SIGN-UP, GET STARTED, UPGRADE OR BY USING THE SOFTWARE IN ANY WAY, YOU AGREE TO BE BOUND BY THE TERMS OF THIS EULA. IF YOU DO NOT AGREE, DO NOT USE THE SOFTWARE, YOU MAY REQUEST A CANCELATION OF YOUR  
+SUBSCRIPTION AND ANY ASSOCIATED REFUND.
+
+1. GRANT OF LICENSE. Recrypt grants You the following rights provided that you comply with all terms and conditions of this EULA:
+    1. Use. You may assign up to the maximum number of users as per your license agreement as permitted within your purchased license of Recrypt. During the initial trail period, usage restrictions may not apply.
+    2. Subscription Plan. The prices, features, and options of the Recrypt Services depend on the Licensees selected plan. Recrypt does not represent or warrant that a particular Subscription Plan will be offered indefinitely and reserves the right to change the prices for or alter the features and options in a particular Subscription Plan without prior notice. During the initial trail period, usage restrictions will not apply
+    3. Renewal Term. Unless Recrypt is notified in writing at least thirty business (30) days before the end of the current Term, that You do not intend to renew Your subscription plan, You will be enrolled into an automatic renewing cycle for the same term at the conclusion of the Term (the “Renewal Term”). Any written notice of Your intention not to renew shall be provided to the following email address: support@recrypt.app The email must come from the registered Recrypt Account owner.
+    4. Recurring Charges. When you enter into a Subscription Plan, you must provide a valid payment method, such as a credit card, that you are authorized to use. Licensee must promptly notify Recrypt of any change in its invoicing address and must update its Account with any changes related to its payment method. By completing the Licensee registration for a Subscription Plan, the Licensee authorises Recrypt or it’s agents to charge the appropriate fees on a recurring basis for its use of Recrypt. During the initial trail period, usage restrictions will not apply and the user will not be required to enter payment details.
+    5. Alternative Rights for Storage/Network Use. In the event Recrypt offer a ‘Local Version’ of the Software – As an alternative to Section 1.1, you may install a copy of the Software on a server, virtual server or network storage device. You may assign rights as per your license agreement.
+    6. License Grant for Documentation. Any documentation that accompanies the Software is licensed for internal, reference purposes only.
+    7. Responsible use. The Recrypt software is intended for use as an analytics tool for mobile application analysis, it is not to be used for illegal purposes, and as such should not be abused or misused in any way or for any dangerous or illicit practices.
+    8. Correspondence. We may record any/all correspondence with Customers, including telephone calls. Recordings of all calls are saved within our CRM system and only accessed in the unlikely event we should need to refer to them. You agree to us recording conversations for training and monitoring purposes.
+    9. Disclaimer. Recrypt makes no warranties or representations whatsoever regarding the suitability, adequacy, sequence, accuracy, or timeliness of information and data supplied. By using Recrypt you agree that you accept these terms and take full responsibility in the event of any incidents which may occur. Recrypt gathers and collates data from sources outside of It’s control and as such expressly disclaims any warranties of fitness of this data for any particular purpose. The Recrypt Reports, are based upon information that we consider reliable, but we do not represent that it is accurate, complete, valid or timely and it should not be relied on as such for any particular purpose.
+2. DESCRIPTION OF OTHER RIGHTS AND LIMITATIONS
+    1. THERE ARE TECHNOLOGICAL MEASURES IN THIS SOFTWARE THAT ARE DESIGNED TO PREVENT UNLICENSED USE OF THE SOFTWARE. You may not be able to exercise your rights to the Software under this EULA unless you activate your copy of the Software in the manner described during the launch sequence and accept the terms and conditions of use. Recrypt will use measures to confirm you have a legally licensed copy of the Software. If you are not using a licensed copy of the Software, you are not allowed to use the Software or future Software updates. The Licensee accepts that they will not share the user name or password with any third party and will be responsible and liable for the acts or omissions of any person who accesses the Services via such account. Licensee will (a) provide accurate, current, and complete information when setting up such account; (b) maintain and promptly update any account information; (c) maintain the security of any password and accept all risks of unauthorized access to its account; and (d) promptly notify Yozu Ltd if it discovers or otherwise suspects any security breaches related to such account.
+    2. Reference Services. You may not use any Recrypt or any services associated with the Software in any manner that could intentionally damage, disable, overburden, or impair such services or interfere with any other party’s use of them. You may not attempt to gain unauthorized access to any service, account, computer systems or networks associated with the Reference services.
+3. RESERVATION OF RIGHTS AND OWNERSHIP. Recrypt reserves all rights not expressly granted to you in this EULA. The Software is protected by intellectual property laws and treaties. Recrypt or its suppliers own the title, copyright, and other intellectual property rights in the Software. The Software is licensed, not sold. This EULA does not grant you any rights to trademarks or service marks of Recrypt.
+4. LIMITATIONS ON REVERSE ENGINEERING, DECOMPILATION, AND DISASSEMBLY. You may not reverse engineer, decompile, or disassemble the Software, except and only to the extent that such activity is expressly permitted by applicable law notwithstanding this limitation.
+5. NO RENT You may not rent, lease or lend the Software, without prior written consent from Recrypt.
+6. CONSENT TO USE OF DATA. The Licensee retains full ownership and rights to the Licensees data. You agree that Recrypt and its affiliates may collect store and process your Data. Licensee agrees that they will not provide any sensitive data to Recrypt (including sensitive financial data) and Recrypt agree it will only use Data as set forth in this agreement. Recrypt agree it will not disclose any such data unless it is legally required to do so by the appropriate local or international authority. A copy of the Recrypt Privacy Policy is attached to this EULA in appendix 1.
+7. LINKS TO THIRD PARTY DATA. Recrypt is not responsible for the contents of any third-party services, any links contained in third-party sites or services, or any changes or updates to third-party sites or services. Recrypt is providing these links and access to third-party sites and services to you only as a convenience, and the inclusion of any link or access does not imply an endorsement or warranties by Recrypt of the third-party site or service.
+8. ADDITIONAL SOFTWARE/SERVICES. This EULA applies to any future updates, supplements, add-on components, or Internet-based services components, of the Software that RECRYPT may provide to you or make available to you after the date you use your initial copy Recrypt, unless such updates are accompanied by separate terms
+9. UPGRADES. To use Software identified as an upgrade, you must first be licensed for the software identified by Recrypt as eligible for the upgrade. After installing the upgrade, you may no longer use the original software that formed the basis for your upgrade eligibility, except as part of the upgraded software.
+10. NOT FOR RESALE SOFTWARE. Recrypt Software is “Not for Resale” or “NFR,” may not be sold or otherwise transferred for value, or used for any purpose other than demonstration, test or evaluation.
+11. EXPORT RESTRICTIONS. You acknowledge that the Software is subject to UK export jurisdiction. You agree to comply with all applicable international and national laws that apply to the Software, including the U.K. Export Administration Regulations, as well as end-user, end-use, and destination restrictions issued by this government.
+12. SEPARATION OF COMPONENTS. The Software is licensed as a single product. Its component parts may not be separated for use.
+13. TERMINATION. Without prejudice to any other rights, Recrypt may terminate this EULA if you fail to comply with the terms and conditions contained herein. In such event, you must, if applicable, remove and destroy any copies of the Software and any component parts. USER TERMINATION OF SUBSCRIPTION LICENSE; The licensee of the Recrypt SOFTWARE may terminate their subscription at any time during the term subject to 30 days written notification.
+14. LIMITED WARRANTY FOR SOFTWARE LICENSED IN THE UK. Recrypt warrants that the Software will perform substantially in accordance with any accompanying materials for a period of thirty (30) days from the date of license.
+15. DISCLAIMER OF WARRANTIES. The Limited Warranty that appears above is the only express warranty made to you and is provided in lieu of any other express warranties or similar obligations (if any) created by any advertising, documentation, packaging, or other communications. Except for the Limited Warranty and to the maximum extent permitted by applicable law, Recrypt and its suppliers provide the Software and support services (if any) AS IS AND WITH ALL FAULTS, and hereby disclaim all other warranties and conditions, whether express, implied or statutory, including, but not limited to, any (if any) implied warranties, duties or conditions of merchantability, of fitness for a particular purpose, of reliability or availability, of accuracy or completeness of responses, of results, of workmanlike effort, of lack of viruses, and of lack of negligence, all with regard to the Software, and the provision of or failure to provide support or other services, information, software, and related content through the Software or otherwise arising out of the use of the Software.
+16. EXCLUSION OF INCIDENTAL, CONSEQUENTIAL AND CERTAIN OTHER DAMAGES. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL RECRYPT OR ITS SUPPLIERS BE LIABLE FOR ANY SPECIAL, INCIDENTAL, PUNITIVE, INDIRECT, OR CONSEQUENTIAL DAMAGES WHATSOEVER (INCLUDING, BUT NOT LIMITED TO, DAMAGES FOR LOSS OF PROFITS OR CONFIDENTIAL OR OTHER INFORMATION, FOR BUSINESS INTERRUPTION, FOR PERSONAL INJURY, FOR LOSS OF PRIVACY, FOR FAILURE TO MEET ANY DUTY INCLUDING OF GOOD FAITH OR OF REASONABLE CARE, FOR NEGLIGENCE, AND FOR ANY OTHER PECUNIARY OR OTHER LOSS WHATSOEVER) ARISING OUT OF OR IN ANY WAY RELATED TO THE USE OF OR INABILITY TO USE THE SOFTWARE, THE PROVISION OF OR FAILURE TO PROVIDE SUPPORT OR OTHER SERVICES, INFORMATON, SOFTWARE, AND RELATED CONTENT THROUGH THE SOFTWARE OR OTHERWISE ARISING OUT OF THE USE OF THE SOFTWARE, OR OTHERWISE UNDER OR IN CONNECTION WITH ANY PROVISION OF THIS EULA, EVEN IN THE EVENT OF THE FAULT, TORT (INCLUDING NEGLIGENCE), MISREPRESENTATION, STRICT LIABILITY, BREACH OF CONTRACT OR BREACH OF WARRANTY OF RECRYPT OR ANY SUPPLIER, AND EVEN IF RECRYPT OR ANY SUPPLIER HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+17. LIMITATION OF LIABILITY AND REMEDIES. Notwithstanding any damages that you might incur for any reason whatsoever (including, without limitation, all damages referenced herein and all direct or general damages in contract or anything else), the entire liability of Recrypt and any of its suppliers under any provision of this EULA and your exclusive remedy hereunder (except for any remedy of repair or replacement elected by Recrypt with respect to any breach of the Limited Warranty) shall be limited to the greater of the actual damages you incur in reasonable reliance on the Software up to a maximum of the amount actually paid by you for the Software over a One (1) month period or £100 whichever is the smaller. The foregoing limitations, exclusions and disclaimers (including Sections 15, 16 and 17) shall apply to the maximum extent permitted by applicable law, even if any remedy fails its essential purpose.
+18. APPLICABLE LAW. If you acquired this Software in the UK this EULA is governed by the laws of England and Wales. If you acquired this Software in the European Union, Iceland, Norway, or Switzerland, then the laws of England & Wales apply. If you acquired this Software in any other country, then local law may apply.
+19. ENTIRE AGREEMENT; SEVERABILITY. This EULA (including any addendum, appendix or amendment to this EULA which is included with the Software) is the entire agreement between you and Recrypt relating to the Software and the support services (if any) and they supersede all prior or contemporaneous oral or written communications, proposals and representations with respect to the Software or any other subject matter covered by this EULA. To the extent the terms of any Recrypt policies or programs for support services conflict with the terms of this EULA, the terms of this EULA shall control. If any provision of this EULA is held to be void, invalid, unenforceable or illegal, the other provisions shall continue in full force and effect.
+
+Should you have any questions concerning this EULA, or if you need to contact Recrypt for any reason, please use the address information enclosed in this Software to contact RECRYPT serving your country or visit Recrypt on the World Wide Web at http://www.Recrypt.com.
+
+![recrypt](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+
+![recrypt](https://recrypt.app/wp-content/uploads/recrypt_footer_logo.svg)
+
+Interested in our product?
+
+[hello@recrypt.app](mailto:hello@recrypt.app)
+
+Follow us on social media
+
+* [![Facebook](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+    
+    ![Facebook](https://recrypt.app/wp-content/uploads/facebook-icon.svg)](https://www.facebook.com/RecryptApp "Facebook")
+* [![Instagram](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+    
+    ![Instagram](https://recrypt.app/wp-content/uploads/instagram-icon.svg)](https://www.instagram.com/recryptapp/ "Instagram")
+* [![Twitter](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+    
+    ![Twitter](https://recrypt.app/wp-content/uploads/twitter-icon.svg)](https://twitter.com/RecryptApp "Twitter")
+
+* [Plans](https://recrypt.app/plans/)
+* [For Teams](https://recrypt.app/for-teams/)
+* [Security](https://recrypt.app/security/)
+* [Our Story](https://recrypt.app/our-story/)
+* [How It Works](https://recrypt.app/password-manager-how-it-works/)
+* [Help Centre](https://recrypt.tawk.help/)
+* [Privacy Policy](https://recrypt.app/privacy-policy/)
+* [End User License Agreement](https://recrypt.app/end-user-license-agreement/)
+
+Copyright © 2024 Recrypt
