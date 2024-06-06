@@ -565,6 +565,10 @@ First Name\*
 
 Last Name\*
 
+Title
+
+Mr.Mrs.Miss,Ms.Dr.Other
+
 Email\*
 
 Terms and Conditions\*
