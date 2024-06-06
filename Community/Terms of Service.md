@@ -1,4 +1,4 @@
-[![](https://assets-global.website-files.com/60b03728e9361e401b234d0b/6127ee03d77eea22ed11d4ff_community-logo-black.svg)](https://www.community.com/)
+[![](https://cdn.prod.website-files.com/60b03728e9361e401b234d0b/6127ee03d77eea22ed11d4ff_community-logo-black.svg)](https://www.community.com/)
 
 [See Who's Texting](https://www.community.com/phone-book)
 
@@ -33,13 +33,13 @@ February 11, 2024
   
 PAGE contents
 
-![](https://assets-global.website-files.com/5d167f1e2daf2f6f192d3fc7/5d167f1e2daf2fac1d2d4139_help-icon-color-1.svg)
+![](https://cdn.prod.website-files.com/5d167f1e2daf2f6f192d3fc7/5d167f1e2daf2fac1d2d4139_help-icon-color-1.svg)
 
 ##### Learn the platform
 
 [Knowledge base
 
-![](https://assets-global.website-files.com/60b03728e9361e401b234d0b/6123fe296ece8030ab794a72_arrow-right-small-icon-blue.svg)](https://university.webflow.com/)
+![](https://cdn.prod.website-files.com/60b03728e9361e401b234d0b/6123fe296ece8030ab794a72_arrow-right-small-icon-blue.svg)](https://university.webflow.com/)
 
 This terms of service agreement (“**Terms**”) sets forth the terms under which Community.com, Inc. (“**we**,” “**our**,” or “**us**”) provides our messaging services, including our apps, features, software, and website (“**Community**”).
 
@@ -232,7 +232,7 @@ A rich text element can be used with static or dynamic content. For static conte
 
 Headings, paragraphs, blockquotes, figures, images, and figure captions can all be styled after a class is added to the rich text element using the "When inside of" nested selector [system](http://google.com/).
 
-![](https://assets-global.website-files.com/60b03728e9361e401b234d0b/6109b7981fe2e4326ba8dbac_Logo-black.svg)
+![](https://cdn.prod.website-files.com/60b03728e9361e401b234d0b/6109b7981fe2e4326ba8dbac_Logo-black.svg)
 
 #### Product
 
@@ -255,4 +255,4 @@ Reporting](https://www.community.com/product/results-reporting)[Integrations](ht
 
 © 2024  Community    |    [Privacy Policy](https://www.community.com/legal/privacy-policy) • [Terms of Service](https://www.community.com/legal/terms)
 
-[![](https://assets-global.website-files.com/60b03728e9361e401b234d0b/61244b92e1deec8d9d03a6a7_instagram%2Bnew%2Bdesign%2Blogo%2Bsocial%2Bmedia%2Bicon-1320184016721987115.png)](http://instagram.com/incommunity)[![](https://assets-global.website-files.com/60b03728e9361e401b234d0b/61244d12de2a26370709a6e0_YouTube_dark_icon_(2017).svg)](https://www.youtube.com/channel/UCekrl1D0-W_IjxGT2hdhNCg)[![](https://assets-global.website-files.com/60b03728e9361e401b234d0b/61244d9a0e7aef6d3d4de207_iconmonstr-linkedin-3.svg)](https://www.linkedin.com/company/communitydotcom/)
+[![](https://cdn.prod.website-files.com/60b03728e9361e401b234d0b/61244b92e1deec8d9d03a6a7_instagram%2Bnew%2Bdesign%2Blogo%2Bsocial%2Bmedia%2Bicon-1320184016721987115.png)](http://instagram.com/incommunity)[![](https://cdn.prod.website-files.com/60b03728e9361e401b234d0b/61244d12de2a26370709a6e0_YouTube_dark_icon_(2017).svg)](https://www.youtube.com/channel/UCekrl1D0-W_IjxGT2hdhNCg)[![](https://cdn.prod.website-files.com/60b03728e9361e401b234d0b/61244d9a0e7aef6d3d4de207_iconmonstr-linkedin-3.svg)](https://www.linkedin.com/company/communitydotcom/)
