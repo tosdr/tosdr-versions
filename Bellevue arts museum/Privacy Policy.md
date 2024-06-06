@@ -42,7 +42,7 @@
 
 * [Arts Fair](https://www.bellevuearts.org/artsfair)
 * [Participant Info](https://www.bellevuearts.org/artsfair/participant-info)
-* [Sponsors](https://www.bellevuearts.org/artsfair/sponsors)
+* [2023 Sponsors](https://www.bellevuearts.org/artsfair/2023-sponsors)
 * [History](https://www.bellevuearts.org/artsfair/history)
 * [BAMboozle Stage](https://www.bellevuearts.org/artsfair/bamboozle-stage)
 
@@ -197,10 +197,9 @@ latest from BAM.
         * [Arts Fair](https://www.bellevuearts.org/artsfair)
         * [Summer Camps](https://www.bellevuearts.org/bam-summer-camps)
 * * [MUSEUM HOURS](https://www.bellevuearts.org/visit)  
-        Gallery & Store Hours:  
+        Museum Hours:  
         Mondays & Tuesdays: Closed  
-        Wednesdays – Sundays: 11am – 5pm  
-        Artful Evening (07/15): Closed
+        Wednesdays – Sundays: 11am – 5pm
     
     * [location](https://www.bellevuearts.org/visit)  
         510 Bellevue Way NE  
