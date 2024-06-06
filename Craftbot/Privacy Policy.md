@@ -373,7 +373,3 @@ Copyright © 2024 Craftbot. All rights reserved.
 ×
 
 Understood
-
-×
-
-[![](/assets/images/promos/new-extruder.jpg)](https://shop.craftbot.com/collections/upgraded-flow-generation-extruders)
