@@ -329,17 +329,19 @@ Coolors uses Trackers to measure traffic and analyze User behavior to improve th
 
 The services contained in this section allow the Owner, through the use of third-party Trackers, to collect and manage analytics in an anonymized form.
 
-#### Google Analytics with anonymized IP (Google Ireland Limited)
+#### Google Analytics (Universal Analytics) with anonymized IP (Google Ireland Limited)
 
-Google Analytics is a web analysis service provided by Google Ireland Limited (“Google”). Google utilizes the Data collected to track and examine the use of Coolors, to prepare reports on its activities and share them with other Google services.  
+Google Analytics (Universal Analytics) is a web analysis service provided by Google Ireland Limited (“Google”). Google utilizes the Data collected to track and examine the use of Coolors, to prepare reports on its activities and share them with other Google services.  
 Google may use the Data collected to contextualize and personalize the ads of its own advertising network.  
 This integration of Google Analytics anonymizes your IP address. It works by shortening Users' IP addresses within member states of the European Union or in other contracting states to the Agreement on the European Economic Area. Only in exceptional cases will the complete IP address be sent to a Google server and shortened within the US.
+
+In order to understand Google's use of Data, consult [Google's partner policy](https://www.google.com/policies/privacy/partners/).
 
 Personal Data processed: Trackers and Usage Data.
 
 Legal basis for processing: Contract.
 
-Place of processing: Ireland – [Privacy Policy](https://policies.google.com/privacy) – [Opt Out](https://tools.google.com/dlpage/gaoptout?hl=en).
+Place of processing: Ireland – [Privacy Policy](https://business.safety.google/privacy/) – [Opt Out](https://tools.google.com/dlpage/gaoptout?hl=en).
 
 Data retention period: Keeping the Data for the duration of the contract (upon termination of the contract, if applicable, as long as required by the applicable law).
 
