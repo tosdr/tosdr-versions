@@ -136,21 +136,21 @@ _This privacy policy was last updated on 24th May 2018, with minor clarification
 
 ### See also
 
-[Deryck Guyler](https://www.comedy.co.uk/features/comedy_chronicles/deryck-guyler/)Features
+[Taskmaster: The Live Experience. Image shows left to right: Greg Davies, Alex Horne](https://www.comedy.co.uk/tv/taskmaster/features/taskmaster-is-neurodivergent-friendly/)TV
 
-[Comedy Chronicles: Oh yes! - The comic guile of Deryck Guyler](https://www.comedy.co.uk/features/comedy_chronicles/deryck-guyler/)
+[Taskmaster is one of the most neurodivergent friendly comedy formats](https://www.comedy.co.uk/tv/taskmaster/features/taskmaster-is-neurodivergent-friendly/)
 
-[In The Doghouse. James Fox-Upton (Leslie Phillips). Credit: Rank Organisation](https://www.comedy.co.uk/people/leslie_phillips/features/ding-dong-leslie-phillips-at-100/)People
+[Nick Helm. Credit: Ed Moore](https://www.comedy.co.uk/live/features/nick-helm-2024-interview/)Live
 
-[Ding dong!: Leslie Phillips at 100](https://www.comedy.co.uk/people/leslie_phillips/features/ding-dong-leslie-phillips-at-100/)
+[Nick Helm talks about his Super Fun Good Time Show](https://www.comedy.co.uk/live/features/nick-helm-2024-interview/)
 
-[Kathy Maniura](https://www.comedy.co.uk/live/fgwg/kathy-maniura/)Live
+[Hi-De-Hi!. Ted Bovis (Paul Shane)](https://www.comedy.co.uk/quiz/309/)Quiz
 
-[First Gig, Worst Gig: Kathy Maniura](https://www.comedy.co.uk/live/fgwg/kathy-maniura/)
+[British Comedy Quiz #309](https://www.comedy.co.uk/quiz/309/)
 
-[Consolevania. Image shows left to right: Robert Florence, Ryan MacLeod](https://www.comedy.co.uk/online/features/consolevania-at-20/)Online
+[The Queen and Bernard Delfont](https://www.comedy.co.uk/features/comedy_chronicles/bernard-delfont/)Features
 
-[Consolevania turns 20: Robert Florence and Ryan Macleod on making comedy out of video games](https://www.comedy.co.uk/online/features/consolevania-at-20/)
+[Comedy Chronicles: Bernard Delfont's theatrical reign](https://www.comedy.co.uk/features/comedy_chronicles/bernard-delfont/)
 
 #### [Donate to British Comedy Guide](https://www.comedy.co.uk/donate/)
 
@@ -193,7 +193,7 @@ Privacy settings
 
 * * *
 
-Geoooooooooorge![Mildred Roper](https://www.comedy.co.uk/tv/george_and_mildred/)
+He's not going to sell much ice cream going at that speed.[Eric Morecambe](https://www.comedy.co.uk/tv/the_morecambe_wise_show/)
 
 © British Comedy Guide
 
