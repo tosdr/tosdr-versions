@@ -6,7 +6,7 @@ Reading mode: Light Dark
 
 [](https://www.dpreview.com/)
 
-[Login](https://signin.dpreview.com/login?client_id=3lr6v0p5ij9ijctbt4io7o7od5&response_type=code&scope=openid&redirect_uri=https%3a%2f%2fwww.dpreview.com%2fpost-login&state=https%253a%252f%252fwww.dpreview.com%252fmisc%252fprivacypolicy) | [Register](https://signin.dpreview.com/signup?client_id=3lr6v0p5ij9ijctbt4io7o7od5&response_type=code&scope=email+openid&redirect_uri=https%3a%2f%2fwww.dpreview.com%2fpost-login&state=https%253a%252f%252fwww.dpreview.com%252fmisc%252fprivacypolicy)
+[Login](https://signin.dpreview.com/login?client_id=3lr6v0p5ij9ijctbt4io7o7od5&response_type=code&scope=openid+aws.cognito.signin.user.admin&redirect_uri=https%3a%2f%2fwww.dpreview.com%2fpost-login&state=https%253a%252f%252fwww.dpreview.com%252fmisc%252fprivacypolicy) | [Register](https://signin.dpreview.com/signup?client_id=3lr6v0p5ij9ijctbt4io7o7od5&response_type=code&scope=email+openid+aws.cognito.signin.user.admin&redirect_uri=https%3a%2f%2fwww.dpreview.com%2fpost-login&state=https%253a%252f%252fwww.dpreview.com%252fmisc%252fprivacypolicy)
 
  
 
@@ -14,7 +14,7 @@ Reading mode: Light Dark
 
 Site update:
 
-We will be making some enhancements to our login process, [click here](https://www.dpreview.com/forums/post/67698210) for more information
+We have made some enhancements to our login process, [click here](https://www.dpreview.com/forums/post/67698210) for more information
 
 Privacy Notice of Digital Photography Review
 ============================================
@@ -250,9 +250,19 @@ We offer you choices about receiving interest-based ads. If you choose not to re
 
 You can also generally opt out of receiving personalized ads from third party advertisers and ad networks who are members of the [Network Advertising Initiative (NAI)](https://optout.networkadvertising.org/?c=1) or who follow the [Digital Advertising Alliance's Self-Regulatory Principles for Online Behavioral Advertising](https://optout.aboutads.info/?c=2&lang=EN) by visiting the opt out pages on the NAI website and DAA website.
 
-Featured Videos
-
 Latest reviews
+
+|     |     |
+| --- | --- |
+| [![Panasonic Lumix DC-GH7](https://4.img-dpreview.com/files/p/TS60x60PFFFFFF00~products/panasonic_dcgh7/390e1f4d37a0442a96986cc4e73f3524.png)](https://www.dpreview.com/reviews/panasonic-gh7-initial-review) | [Panasonic Lumix DC-GH7](https://www.dpreview.com/reviews/panasonic-gh7-initial-review) |
+
+|     |     |
+| --- | --- |
+| [![Panasonic Lumix DC-S9](https://4.img-dpreview.com/files/p/TS60x60PFFFFFF00~products/panasonic_dcs9/8f8ca7a0b2314f5b9aae9ba9fa6f196d.png)](https://www.dpreview.com/reviews/panasonic-s9-initial-review) | [Panasonic Lumix DC-S9](https://www.dpreview.com/reviews/panasonic-s9-initial-review) |
+
+|     |     |     |
+| --- | --- | --- |
+| [![Sony a9 III](https://1.img-dpreview.com/files/p/TS60x60PFFFFFF00~products/sony_a9iii/431c25348b5d4393a9ea8d1ac7a91bf5.png)](https://www.dpreview.com/reviews/sony-a9-iii-in-depth-review) | [Sony a9 III](https://www.dpreview.com/reviews/sony-a9-iii-in-depth-review) | 91% |
 
 |     |     |
 | --- | --- |
@@ -262,32 +272,20 @@ Latest reviews
 | --- | --- | --- |
 | [![Fujifilm X100VI](https://3.img-dpreview.com/files/p/TS60x60PFFFFFF00~products/fujifilm_x100vi/2f33982b080a46deb9b8b640776d5482.png)](https://www.dpreview.com/reviews/fujifilm-x100vi-review) | [Fujifilm X100VI review](https://www.dpreview.com/reviews/fujifilm-x100vi-review) | 87% |
 
-|     |     |     |
-| --- | --- | --- |
-| [![Panasonic Lumix DC-S5II](https://3.img-dpreview.com/files/p/TS60x60PFFFFFF00~products/panasonic_dcs5ii/9413e938276a4902b84ded356e1fda7d.png)](https://www.dpreview.com/reviews/panasonic-lumix-dc-s5ii-review) | [Panasonic Lumix DC-S5II review](https://www.dpreview.com/reviews/panasonic-lumix-dc-s5ii-review) | 90% |
-
-|     |     |     |
-| --- | --- | --- |
-| [![Panasonic Lumix DC-G9 II](https://1.img-dpreview.com/files/p/TS60x60PFFFFFF00~products/panasonic_dcg9ii/b60165dae2664a669836c4896a7a22d4.png)](https://www.dpreview.com/reviews/panasonic-lumix-dc-g9-ii-review) | [Panasonic Lumix DC-G9 II](https://www.dpreview.com/reviews/panasonic-lumix-dc-g9-ii-review) | 87% |
-
-|     |     |
-| --- | --- |
-| [![Leica SL3](https://2.img-dpreview.com/files/p/TS60x60PFFFFFF00~products/leica_sl3/87fdc736a75f46c7a068a5dd9e1ac09f.png)](https://www.dpreview.com/reviews/leica-sl3-initial-review) | [Leica SL3](https://www.dpreview.com/reviews/leica-sl3-initial-review) |
-
 [See all reviews](https://www.dpreview.com/reviews) »
 
 Finished challenges
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| [![Ready to Pounce](https://g3.img-dpreview.com/C147E0EF6BE8470BB6566B1139C221D3.jpg)](https://www.dpreview.com/challenges/Entry.aspx?ID=1246612) | [![american bald eagle with snow falling](https://g4.img-dpreview.com/07071C1C366C4F6BB6BE2CC5ECF6707D.jpg)](https://www.dpreview.com/challenges/Entry.aspx?ID=1246326) | [![GEICO Skytypers](https://g4.img-dpreview.com/49C2750858D84F3B930CDB53FD0566FD.jpg)](https://www.dpreview.com/challenges/Entry.aspx?ID=1246383) | [![Carnival](https://g2.img-dpreview.com/6319724BD1C048F2B2EBDA1B9D7BF441.jpg)](https://www.dpreview.com/challenges/Entry.aspx?ID=1246426) |
-| Ready to Pounce by ltphoto1  <br>from A Big Year 2024 | american bald eagle with snow falling by summicron  <br>from Birds - Wingspan | GEICO Skytypers by pcrossing  <br>from Your Favorite Two Photos and Why | Carnival by Marzio5  <br>from Masks #2 |
+| [![Supermarine Spitfire Mk IX](https://g2.img-dpreview.com/9BA0F2A3FAE24029AF6E51B662EE4B5B.jpg)](https://www.dpreview.com/challenges/Entry.aspx?ID=1247084) | [![Red](https://g2.img-dpreview.com/006F88E2CE204B1DB3D9492DF9A09381.jpg)](https://www.dpreview.com/challenges/Entry.aspx?ID=1247088) | [![grizzly bear cub salutes](https://g2.img-dpreview.com/216DF3B2F25049118185DD30229E951D.jpg)](https://www.dpreview.com/challenges/Entry.aspx?ID=1247133) | [![Zebra Fight](https://g4.img-dpreview.com/8B84E448B11E40CB93E45DE7E668FAAB.jpg)](https://www.dpreview.com/challenges/Entry.aspx?ID=1247008) |
+| Supermarine Spitfire Mk IX by jarud  <br>from Vintage cars or planes | Red by CarlosU  <br>from A Big Year 2024 | grizzly bear cub salutes by summicron  <br>from Baby Animals Unlimited | Zebra Fight by Mark B Willey  <br>from Ready...FIGHT! |
 
 [Discover more challenges](https://www.dpreview.com/challenges/) »
 
 Most popular cameras
 
-[Canon EOS R824.2%](https://www.dpreview.com/products/canon/slrs/canon_eosr8)[Fujifilm X-T505.3%](https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xt50)[Nikon Zf1.8%](https://www.dpreview.com/products/nikon/slrs/nikon_zf)[Fujifilm X100VI1.5%](https://www.dpreview.com/products/fujifilm/slrs/fujifilm_x100vi)[Sony a67001.4%](https://www.dpreview.com/products/sony/slrs/sony_a6700)[Sony a7CR1.4%](https://www.dpreview.com/products/sony/slrs/sony_a7cr)[Fujifilm X-S201.0%](https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xs20)[Canon EOS R6 Mark II1.0%](https://www.dpreview.com/products/canon/slrs/canon_eosr6ii)[Nikon Z81.0%](https://www.dpreview.com/products/nikon/slrs/nikon_z8)[Panasonic Lumix DC-S5II0.9%](https://www.dpreview.com/products/panasonic/slrs/panasonic_dcs5ii)
+[Panasonic Lumix DC-S914.1%](https://www.dpreview.com/products/panasonic/slrs/panasonic_dcs9)[Sony a670011.6%](https://www.dpreview.com/products/sony/slrs/sony_a6700)[Panasonic Lumix DC-GH71.8%](https://www.dpreview.com/products/panasonic/slrs/panasonic_dcgh7)[Nikon Zf1.5%](https://www.dpreview.com/products/nikon/slrs/nikon_zf)[Sony a7CR1.3%](https://www.dpreview.com/products/sony/slrs/sony_a7cr)[Fujifilm X100VI1.2%](https://www.dpreview.com/products/fujifilm/slrs/fujifilm_x100vi)[Fujifilm X-T501.2%](https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xt50)[Sony a9 III1.1%](https://www.dpreview.com/products/sony/slrs/sony_a9iii)[Canon EOS R6 Mark II0.9%](https://www.dpreview.com/products/canon/slrs/canon_eosr6ii)[Nikon Z80.9%](https://www.dpreview.com/products/nikon/slrs/nikon_z8)
 
 [Popular interchangable lens cameras](https://www.dpreview.com/products/slrs/statistics) »
 
@@ -295,32 +293,32 @@ Most popular cameras
 
 Features
 
-[![Latest Camera Reviews](https://1.img-dpreview.com/files/p/C0x6S590x315T300x160~feature_blocks/58e2660092d4420ea8e9ac3274fcccc6.jpeg?v=5672)In-depth testingLatest Camera Reviews](https://www.dpreview.com/reviews "Latest Camera Reviews")[![Feature Articles and Videos](https://1.img-dpreview.com/files/p/C0x0S300x160~feature_blocks/2c8e245a180e4829b503ba65449a8fb5.jpeg?v=5672)Beyond the studio testsFeature Articles and Videos](https://www.dpreview.com/features "Feature Articles and Videos")[![Sample Galleries](https://4.img-dpreview.com/files/p/C0x0S300x160~feature_blocks/b83d74dcb4244ea29979c36337c3b0f7.jpeg?v=5672)see how we seeSample Galleries](https://www.dpreview.com/sample-galleries "Sample Galleries")[![Classic Cameras from Days Past](https://2.img-dpreview.com/files/p/C63x10S786x419T300x160~feature_blocks/b48fabeaff8a41e59681ed18159e729e.jpeg?v=5672)Throwback ThursdayClassic Cameras from Days Past](https://www.dpreview.com/tag/throwback-thursday "Classic Cameras from Days Past")[![Shedding some light on the sources of noise](https://4.img-dpreview.com/files/p/C0x16S520x277T300x160~feature_blocks/e91e9bf455c84422a52627a12797e541.jpeg?v=5672)What's that Noise?Shedding some light on the sources of noise](https://www.dpreview.com/tag/noise "Shedding some light on the sources of noise")
+[![Latest Camera Reviews](https://4.img-dpreview.com/files/p/C0x6S590x315T300x160~feature_blocks/58e2660092d4420ea8e9ac3274fcccc6.jpeg?v=5675)In-depth testingLatest Camera Reviews](https://www.dpreview.com/reviews "Latest Camera Reviews")[![Feature Articles and Videos](https://4.img-dpreview.com/files/p/C0x0S300x160~feature_blocks/2c8e245a180e4829b503ba65449a8fb5.jpeg?v=5675)Beyond the studio testsFeature Articles and Videos](https://www.dpreview.com/features "Feature Articles and Videos")[![Sample Galleries](https://3.img-dpreview.com/files/p/C0x0S300x160~feature_blocks/b83d74dcb4244ea29979c36337c3b0f7.jpeg?v=5675)see how we seeSample Galleries](https://www.dpreview.com/sample-galleries "Sample Galleries")[![Classic Cameras from Days Past](https://1.img-dpreview.com/files/p/C63x10S786x419T300x160~feature_blocks/b48fabeaff8a41e59681ed18159e729e.jpeg?v=5675)Throwback ThursdayClassic Cameras from Days Past](https://www.dpreview.com/tag/throwback-thursday "Classic Cameras from Days Past")[![Shedding some light on the sources of noise](https://3.img-dpreview.com/files/p/C0x16S520x277T300x160~feature_blocks/e91e9bf455c84422a52627a12797e541.jpeg?v=5675)What's that Noise?Shedding some light on the sources of noise](https://www.dpreview.com/tag/noise "Shedding some light on the sources of noise")
 
 Top threads
 
 |     |     |
 | --- | --- |
-| 97  | [Is Fujifilm losing its way?](https://www.dpreview.com/forums/post/67713928) |
-| 37  | [\* The Weekly Image Thread 24 05 20 #870 \*](https://www.dpreview.com/forums/post/67716457) |
-| 28  | [Hi ISO never looked this good](https://www.dpreview.com/forums/post/67714777) |
-| 27  | [New to OMDS and rant](https://www.dpreview.com/forums/post/67714168) |
-| 27  | [When images can't be believed anymore,](https://www.dpreview.com/forums/post/67714346) |
-| 24  | [GF 100-200 vs XF 50-140](https://www.dpreview.com/forums/post/67714527) |
-| 22  | [OM1 Digital Teleconverter](https://www.dpreview.com/forums/post/67714661) |
-| 22  | [Carrying a body with heavy lens, basic questions](https://www.dpreview.com/forums/post/67715712) |
-| 21  | [Clear filters - yeah or nay?](https://www.dpreview.com/forums/post/67714357) |
-| 20  | [ASP-C mode. Who’s using it and why?](https://www.dpreview.com/forums/post/67714019) |
-| 20  | [Lucky walkabout](https://www.dpreview.com/forums/post/67715021) |
-| 20  | [Testing exposure](https://www.dpreview.com/forums/post/67715564) |
-| 18  | [Panasonic G90 - Battery Life, is this behaviour normal?](https://www.dpreview.com/forums/post/67714680) |
-| 18  | [How to get rid of cables / ropes?](https://www.dpreview.com/forums/post/67716537) |
-| 17  | [\*\* Weekly Sigma Photos Thread 20 May - 26 May 26 2024 \*\*](https://www.dpreview.com/forums/post/67715641) |
-| 17  | [last week (5) - various](https://www.dpreview.com/forums/post/67715261) |
-| 16  | [Stop me from buying refurb Z50 w/lens for $600.](https://www.dpreview.com/forums/post/67716758) |
-| 15  | [Is the new XF 16-50 f2.8-4.8 the best kit lens ever offered with an APS-C camera?](https://www.dpreview.com/forums/post/67715519) |
-| 15  | [Safari camera/lens suggestions](https://www.dpreview.com/forums/post/67714511) |
-| 14  | [Don’t ever take that first drink!](https://www.dpreview.com/forums/post/67714970) |
+| 103 | [\* The Weekly Image Thread 24 06 04 #878 \*](https://www.dpreview.com/forums/post/67743844) |
+| 67  | [Mr. Yamaki, when is the new Foveon camera coming please?](https://www.dpreview.com/forums/post/67744171) |
+| 39  | [R7 no flash onboard pop up what the heck ?](https://www.dpreview.com/forums/post/67743700) |
+| 39  | [Getting off the train now](https://www.dpreview.com/forums/post/67743304) |
+| 32  | [Simpler images](https://www.dpreview.com/forums/post/67744146) |
+| 30  | [Thoughts on a Z 35mm f/1.2?](https://www.dpreview.com/forums/post/67743127) |
+| 27  | [Nikon EVF vs Sony EVF in 2024](https://www.dpreview.com/forums/post/67743712) |
+| 27  | [Official launch of possible GH7](https://www.dpreview.com/forums/post/67745216) |
+| 25  | [New test coming](https://www.dpreview.com/forums/post/67743832) |
+| 25  | [Z50 for every day camera](https://www.dpreview.com/forums/post/67744629) |
+| 23  | [Do you guys really use the Tamron or Samyang 35-150 F2-2.8?](https://www.dpreview.com/forums/post/67744120) |
+| 21  | [Lens hood for M.Zuiko 60mm](https://www.dpreview.com/forums/post/67742932) |
+| 20  | [Help me decide, Pentax 645 or Mamiya 645 lenses for Fuji GFX?](https://www.dpreview.com/forums/post/67743329) |
+| 20  | [Anyone anxiously awaiting the Z50 Mark II?](https://www.dpreview.com/forums/post/67744822) |
+| 20  | [100-200 1.4 Hoya Close up +2 Helicon Focus Stack](https://www.dpreview.com/forums/post/67745031) |
+| 19  | [Recommend a Lens Hood for Panny 20mm f1.7?](https://www.dpreview.com/forums/post/67743898) |
+| 16  | [A7CR or A7R V?](https://www.dpreview.com/forums/post/67742914) |
+| 16  | [XF150-600 tripod](https://www.dpreview.com/forums/post/67744161) |
+| 15  | [OMDS “winter rewards” Australia and NZ](https://www.dpreview.com/forums/post/67744198) |
+| 15  | [Macro newbie](https://www.dpreview.com/forums/post/67743941) |
 
 [www.dpreview.com](https://www.dpreview.com/ "dpreview.com: Digital Photograhy Review")
 
