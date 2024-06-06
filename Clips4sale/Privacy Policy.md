@@ -455,10 +455,6 @@ Request the transfer of your personal data to you or to a third party. We will p
 
 Withdraw consent at any time where we are relying on consent to process your personal data. However, this will not affect the lawfulness of any processing carried out before you withdraw your consent. If you withdraw your consent, we may not be able to provide certain products or services to you. We will advise you if this is the case at the time you withdraw your consent.
 
-Join thousands of Creators already selling on Clips4Sale and turn your passion into profit!
-
-[Learn More](https://www.clips4sale.com/clips/page/openastudio)
-
 Discover
 
 [Clips](https://www.clips4sale.com/clips/search)[Stores](https://www.clips4sale.com/clips/page/studios)[Categories](https://www.clips4sale.com/clips/categories)[C4S Blog](https://blog.clips4sale.com/b/)[Creator Login](https://admin.clips4sale.com/login/)
