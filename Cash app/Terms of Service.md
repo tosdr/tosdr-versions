@@ -215,6 +215,8 @@ It is a condition of these General Terms that, in pre-contract negotiations and 
 
 [Point-of-Sale, SaaS and Services Terms](https://squareup.com/gb/legal/general/saas)
 
+[Square Buyer Account Terms of Use](https://squareup.com/gb/legal/general/buyer-account-terms)
+
 [E-Sign Consent](https://squareup.com/gb/legal/general/sign)
 
 [Clearpay Merchant Terms of Service](https://squareup.com/gb/legal/general/clearpay-merchant-terms)
