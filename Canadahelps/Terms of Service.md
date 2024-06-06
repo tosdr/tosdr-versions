@@ -1,3 +1,5 @@
+[It’s the 10th Annual Great Canadian Giving Challenge. Enter Today >>>](https://www.canadahelps.org/en/givingchallenge/?utm_source=skinny&utm_medium=banner&utm_campaign=GCGC)
+
  
 
 TERMS OF USE
