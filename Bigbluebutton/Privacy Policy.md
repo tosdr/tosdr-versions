@@ -1,5 +1,9 @@
 [Skip to content](#content)
 
+BigBlueButton World 2024  |  June 25th – 27th
+
+[**REGISTER NOW »**](https://conference.bigbluebutton.org/)
+
 [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
 ![](https://bigbluebutton.org/wp-content/uploads/2021/01/bigbluebutton-logo-p44ds2csv8278se0rpzkcti90c9n48cgkan8r8rhum.png)](https://bigbluebutton.org/)
@@ -8,15 +12,15 @@ Menu
 
 * [Teachers](#)
     
-    * [Features](https://bigbluebutton.org/teachers/features/)
-    * [Tutorials](https://bigbluebutton.org/teachers/tutorials/)
+    * [Features](https://bigbluebutton.org/features/)
+    * [Tutorials](https://bigbluebutton.org/tutorials/)
     * [Pedagogy](https://bigbluebutton.org/pedagogy/)
 * [Schools](#)
     
-    * [Accessibility](https://bigbluebutton.org/schools/accessibility/)
-    * [Integrations](https://bigbluebutton.org/schools/integrations/)
-    * [Support](https://bigbluebutton.org/teachers/support/)
-    * [Hosting](https://bigbluebutton.org/schools/hosting/)
+    * [Accessibility](https://bigbluebutton.org/accessibility/)
+    * [Integrations](https://bigbluebutton.org/integrations/)
+    * [Support](https://bigbluebutton.org/support/)
+    * [Hosting](https://bigbluebutton.org/hosting/)
 * [Resources](#)
     
     * [Blog](https://bigbluebutton.org/articles/)
@@ -28,30 +32,28 @@ Menu
 [Facebook](https://www.facebook.com/bigbluebutton) [Twitter](https://twitter.com/bigbluebutton) [Instagram](https://www.instagram.com/bigbluebutton.inc/)
 
 * [Teachers](#)
-    * [Tutorials](https://bigbluebutton.org/teachers/tutorials/)
-    * [Features](https://bigbluebutton.org/teachers/features/)
+    * [Tutorials](https://bigbluebutton.org/tutorials/)
+    * [Features](https://bigbluebutton.org/features/)
     * [Pedagogy](https://bigbluebutton.org/pedagogy/)
 * [Schools](#)
-    * [Accessibility](https://bigbluebutton.org/schools/accessibility/)
-    * [Integrations](https://bigbluebutton.org/schools/integrations/)
-    * [Support](https://bigbluebutton.org/teachers/support/)
-    * [Hosting](https://bigbluebutton.org/schools/hosting/)
+    * [Accessibility](https://bigbluebutton.org/accessibility/)
+    * [Integrations](https://bigbluebutton.org/integrations/)
+    * [Support](https://bigbluebutton.org/support/)
+    * [Hosting](https://bigbluebutton.org/hosting/)
 
 Menu
 
 * [Teachers](#)
-    * [Tutorials](https://bigbluebutton.org/teachers/tutorials/)
-    * [Features](https://bigbluebutton.org/teachers/features/)
+    * [Tutorials](https://bigbluebutton.org/tutorials/)
+    * [Features](https://bigbluebutton.org/features/)
     * [Pedagogy](https://bigbluebutton.org/pedagogy/)
 * [Schools](#)
-    * [Accessibility](https://bigbluebutton.org/schools/accessibility/)
-    * [Integrations](https://bigbluebutton.org/schools/integrations/)
-    * [Support](https://bigbluebutton.org/teachers/support/)
-    * [Hosting](https://bigbluebutton.org/schools/hosting/)
+    * [Accessibility](https://bigbluebutton.org/accessibility/)
+    * [Integrations](https://bigbluebutton.org/integrations/)
+    * [Support](https://bigbluebutton.org/support/)
+    * [Hosting](https://bigbluebutton.org/hosting/)
 
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://bigbluebutton.org/wp-content/uploads/2021/01/BigBlueButton_icon.svg.png)](https://bigbluebutton.org/)
+[![](https://bigbluebutton.org/wp-content/uploads/2021/01/BigBlueButton_icon.svg.png)](https://bigbluebutton.org/)
 
 * [Resources](#)
     * [Events](https://bigbluebutton.org/events/)
@@ -173,11 +175,11 @@ Menu
 
 Menu
 
-* [Tutorial Videos](https://bigbluebutton.org/teachers/tutorials/)
+* [Tutorial Videos](https://bigbluebutton.org/tutorials/)
 * [Knowledge Base](https://support.bigbluebutton.org/)
 * [Community Support](https://bigbluebutton.org/community-support/)
 * [Commercial Support](https://bigbluebutton.org/commercial-support/)
-* [Accessibility](https://bigbluebutton.org/accessibility/)
+* [Accessibility](https://bigbluebutton.org/accessibility-2023/)
 
 ### Subscribe to our Newsletter
 
