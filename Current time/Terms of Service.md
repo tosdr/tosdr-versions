@@ -1,4 +1,4 @@
-![analytics](https://bbg.d1.sc.omtrdc.net/b/ss/bbgprod-bbgentityrferl/1/G.4--NS/184409276?pageName=rfe-voa%3acten%3ar%3asection%20index%3aterms%20of%20use&c6=terms%20of%20use&pangea_version=8.31.0.0.339&v6=D=c6&g=https%3a%2f%2fen.currenttime.tv&c1=D=g&v1=D=g&events=event1&c16=current%20time%20english&v16=D=c16&c5=terms-of-use2&v5=D=c5&ch=english&v15=D=ch&c15=D=ch&c4=index&v4=D=c4&c20=no&c17=responsive&v17=D=c17)
+![analytics](https://ssc.currenttime.tv/b/ss/bbgprod,bbgentityrferl/1/G.4--NS/674399335?pageName=rfe-voa%3acten%3aw%3asection%20index%3aterms%20of%20use&c6=terms%20of%20use&v36=8.32.0.0.340&v6=D=c6&g=https%3a%2f%2fen.currenttime.tvterms-of-use&c1=D=g&v1=D=g&events=event1&c16=current%20time%20english&v16=D=c16&c5=terms-of-use2&v5=D=c5&ch=terms%20of%20use&c15=english&v15=D=c15&c4=index&v4=D=c4&v20=no&c17=web&v17=D=c17&mcorgid=518abc7455e462b97f000101%40adobeorg&server=en.currenttime.tv&pageType=D=c4&ns=bbg&v29=D=server&v25=rfe&v30=505&v105=D=User-Agent )
 
 Accessibility links
 -------------------
