@@ -1,0 +1,1 @@
+A weboldalunk cookie-k nélkül nem tud működni. Úgyhogy ha nem szeretnél cookie-kat használni, akkor sajnos az oldalunkat sem tudod használni.
