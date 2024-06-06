@@ -121,4 +121,4 @@ You can contact us at [support@disconnect.me](mailto:support@disconnect.me) if y
 * [Email](mailto:support@disconnect.me)
 * [Press inquiry](mailto:press@disconnect.me)
 
-©2011-2023 Disconnect, Inc. All rights reserved.
+©2011-2024 Disconnect, Inc. All rights reserved.
