@@ -61,7 +61,8 @@ We use the following third-party services for our Android app:
 **Google Analytics for Firebase (Google Inc.)**
 
 * This service helps us to collect and analyze usage data in order to understand usage patterns and to improve our Android app.
-* Data collected: various usage and device data such as cookies, unique device identifiers, Android Advertising ID, Firebase installation IDs, Analytics App Instance IDs, usage data, anonymized IP addresses, session durations, device models, operating systems, geography, in-app purchases, first launches, app opens, app updates
+* Data collected: various usage and device data such as cookies, Firebase installation IDs, Analytics App Instance IDs, usage data, anonymized IP addresses, session durations, device models, operating systems, geography, in-app purchases, first launches, app opens, app updates
+* Data collected (_optional_): We use Google Advertising ID only if you give us permission. We use it to measure the effectiveness of our ads and to detect fraudulent activities. The Google Advertising ID is a unique, user-resettable, and user-deletable ID, provided by Google Play services. It gives users better controls and provides developers with a simple, standard system to continue to monetize their apps. It enables users to reset or delete their identifier.
 * Data retention: 2 months
 
 **Firebase Crashlytics (Google Inc.)**
@@ -102,7 +103,7 @@ Yes No
 
 Still need help? [Contact Us](#) [Contact Us](#)
 
-Last updated on October 11, 2023
+Last updated on May 27, 2024
 
   Toggle Search
 
