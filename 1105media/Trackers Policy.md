@@ -8,26 +8,26 @@
     * [![](~/media/ECG/1105media/brands/agency1105.ashx)](https://agency1105.com/)
     * [![](~/media/ECG/1105media/brands/aiboardroom.ashx)](https://aiboardroom.com/)
     * [![](~/media/ECG/1105media/brands/awsinsider.ashx)](https://1105media.com/pages/ecg.aspx#awsinsider)
-    * [![](~/media/ECG/1105media/brands/campussecuritytoday.ashx)](https://1105media.com/pages/shs.aspx#campus_lifesafety)
-    * [![](~/media/ECG/1105media/brands/campustechnology.ashx)](https://1105media.com/pages/edu.aspx#campustechnology)
-    * [![](~/media/ECG/1105media/brands/environmentalprotection.ashx)](https://1105media.com/pages/shs.aspx#environmentalprotection)
+    * [![](~/media/ECG/1105media/brands/campussecuritytoday.ashx)](https://1105media.com/pages/ecg.aspx#campus_lifesafety)
+    * [![](~/media/ECG/1105media/brands/campustechnology.ashx)](https://1105media.com/pages/ecg.aspx#campustechnology)
+    * [![](~/media/ECG/1105media/brands/environmentalprotection.ashx)](https://1105media.com/pages/ecg.aspx#environmentalprotection)
     * [![](~/media/ECG/1105media/brands/live360.ashx)](https://1105media.com/pages/ecg.aspx#live360)
     * [![](~/media/ECG/1105media/brands/mcpmag.ashx)](https://1105media.com/pages/ecg.aspx#mcpmag)
     * [![](~/media/ECG/1105media/brands/medcloud.ashx)](https://medcloudinsider.com/Home.aspx)
-    * [![](~/media/ECG/1105media/brands/occupationalhealth.ashx)](https://1105media.com/pages/shs.aspx#occupationalhealth)
+    * [![](~/media/ECG/1105media/brands/occupationalhealth.ashx)](https://1105media.com/pages/ecg.aspx#occupationalhealth)
     * [![](~/media/ECG/1105media/brands/pureai.ashx)](https://1105media.com/pages/ecg.aspx#pureai)
     * [![](~/media/ECG/1105media/brands/redmondchannelpartner.ashx)](https://1105media.com/pages/ecg.aspx#redmondchannelpartner)
     * [![](~/media/ECG/1105media/brands/redmondmag.ashx)](https://1105media.com/pages/ecg.aspx#redmondmag)
-    * [![](~/media/ECG/1105media/brands/securitytoday.ashx)](https://1105media.com/pages/shs.aspx#securitytoday)
-    * [![](~/media/ECG/1105media/brands/spaces4learning.ashx)](https://1105media.com/pages/edu.aspx#spaceslearning)
+    * [![](~/media/ECG/1105media/brands/securitytoday.ashx)](https://1105media.com/pages/ecg.aspx#securitytoday)
+    * [![](~/media/ECG/1105media/brands/spaces4learning.ashx)](https://1105media.com/pages/ecg.aspx#spaceslearning)
     * [![](~/media/ECG/1105media/brands/tdwi.ashx)](https://tdwi.org/)
     * [![](~/media/ECG/1105media/brands/techmentorevents.ashx)](https://1105media.com/pages/ecg.aspx#techmentorevents)
-    * [![](~/media/ECG/1105media/brands/thejournal.ashx)](https://1105media.com/pages/edu.aspx#thejournal)
+    * [![](~/media/ECG/1105media/brands/thejournal.ashx)](https://1105media.com/pages/ecg.aspx#thejournal)
     * [![](~/media/ECG/1105media/brands/virtualizationreview.ashx)](https://1105media.com/pages/ecg.aspx#virtualizationreview)
     * [![](~/media/ECG/1105media/brands/visualstudiolive.ashx)](https://1105media.com/pages/ecg.aspx#visualstudiolive)
     * [![](~/media/ECG/1105media/brands/visualstudiomagazine.ashx)](https://1105media.com/pages/ecg.aspx#visualstudiomagazine)
 * [Marketing Services](https://agency1105.com/Home.aspx)
-* [Virtual Event Services](https://1105media.com/Pages/Virtual-Events.aspx)
+* [AI Solutions](https://1105media.com/Pages/AI-Solutions.aspx)
 * [About Us](javascript:void(0);)
     * [Groups](javascript:void(0);)
         * [Converge360](https://1105media.com/Pages/ECG.aspx)
@@ -57,11 +57,11 @@
 
   
 
-[![](~/media/ECG/1105Media/design/icon_linkedin_white_top.png)](https://www.linkedin.com/company/1105-media)
+[![](~/media/ECG/shared/img/socialmedia/linkedin_light.ashx)](https://www.linkedin.com/company/1105-media)
 
 ### 1105 Media Cookie Policy
 
-_**Effective January 1, 2021**_
+_**Effective January 1, 2024**_
 
 #### Cookies and IP Addresses
 
