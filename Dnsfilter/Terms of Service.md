@@ -40,7 +40,7 @@ REGISTER NOW](https://explore.dnsfilter.com/why-securing-public-wi-fi-is-more-im
     * [Blog](https://www.dnsfilter.com/blog)
     * [Webinars](https://www.dnsfilter.com/resources/webinars)
     * [Events](https://www.dnsfilter.com/events)
-    * [Support](https://help.dnsfilter.com/hc/en-us?_gl=1*1g8fbu4*_ga*ODA5MDI4OTU3LjE2ODAyMzcyNTA.*_ga_MMR27NNV7M*MTY4MDQ5MjEyMy42LjEuMTY4MDUwMDE2OC4wLjAuMA..)
+    * [Help Center](https://help.dnsfilter.com/hc/en-us?_gl=1*1g8fbu4*_ga*ODA5MDI4OTU3LjE2ODAyMzcyNTA.*_ga_MMR27NNV7M*MTY4MDQ5MjEyMy42LjEuMTY4MDUwMDE2OC4wLjAuMA..)
     * [Newsroom](https://www.dnsfilter.com/newsroom)
     * [View All Resources](https://www.dnsfilter.com/resources)
 * [Why DNSFilter](javascript:;)
@@ -93,7 +93,7 @@ REGISTER NOW](https://explore.dnsfilter.com/why-securing-public-wi-fi-is-more-im
     * [Blog](https://www.dnsfilter.com/blog)
     * [Webinars](https://www.dnsfilter.com/resources/webinars)
     * [Events](https://www.dnsfilter.com/events)
-    * [Support](https://help.dnsfilter.com/hc/en-us?_gl=1*1g8fbu4*_ga*ODA5MDI4OTU3LjE2ODAyMzcyNTA.*_ga_MMR27NNV7M*MTY4MDQ5MjEyMy42LjEuMTY4MDUwMDE2OC4wLjAuMA..)
+    * [Help Center](https://help.dnsfilter.com/hc/en-us?_gl=1*1g8fbu4*_ga*ODA5MDI4OTU3LjE2ODAyMzcyNTA.*_ga_MMR27NNV7M*MTY4MDQ5MjEyMy42LjEuMTY4MDUwMDE2OC4wLjAuMA..)
     * [Newsroom](https://www.dnsfilter.com/newsroom)
     * [View All Resources](https://www.dnsfilter.com/resources)
 * [Why DNSFilter](javascript:;)
@@ -352,35 +352,35 @@ For good and valuable consideration, the receipt and sufficiency of which is her
 
 [Archived ToS](https://www.dnsfilter.com/terms-of-service-archived)
 
-[![The Real Price of Free DNS Services: What You Need to Know](https://www.dnsfilter.com/hs-fs/hubfs/newsroom_thetruecostoffreednsrisks%26safetyinfo1.webp?width=500&height=190&name=newsroom_thetruecostoffreednsrisks%26safetyinfo1.webp)
+[![The Intersection of 5G, Public Wi-Fi, and Network Security: Who’s at Risk?](https://www.dnsfilter.com/hs-fs/hubfs/blog_theintersectionof5g_publicwi_fi_andnetworksecuritywho%E2%80%99satrisk%281%291.webp?width=500&height=190&name=blog_theintersectionof5g_publicwi_fi_andnetworksecuritywho%E2%80%99satrisk%281%291.webp)
 
-Posted on May 15, 2024 by Kory Underdown
-
- **
-
-The Real Price of Free DNS Services: What You Need to Know
-
-**](https://www.dnsfilter.com/blog/real-price-of-free-dns-services)
-
-[![RSAC 2024 Recap: The Start of a New Era with AI](https://www.dnsfilter.com/hs-fs/hubfs/newsroom_rsac2024recapthestartofanewerawithai1.webp?width=500&height=190&name=newsroom_rsac2024recapthestartofanewerawithai1.webp)
-
-Posted on May 14, 2024 by Greg Delaney
+Posted on June 3, 2024 by Kory Underdown
 
  **
 
-RSAC 2024 Recap: The Start of a New Era with AI
+The Intersection of 5G, Public Wi-Fi, and Network Security: Who’s at Risk?
 
-**](https://www.dnsfilter.com/blog/rsac-2024-recap)
+**](https://www.dnsfilter.com/blog/compare-5g-4g-public-wi-fi-security)
 
-[![Cisco Umbrella Pricing, Licensing, & Package FAQs](https://www.dnsfilter.com/hs-fs/hubfs/newsroom_ciscoumbrellapricing_licensing_%26packagefaqs1.webp?width=500&height=190&name=newsroom_ciscoumbrellapricing_licensing_%26packagefaqs1.webp)
+[![Revving up the Fun: DNSFilter's IndyCar Experience Recap —Indy 500 Edition](https://www.dnsfilter.com/hs-fs/hubfs/revvingupthefundnsfiltersindycarexperiencerecapindy5001.webp?width=500&height=190&name=revvingupthefundnsfiltersindycarexperiencerecapindy5001.webp)
 
-Posted on May 13, 2024 by Kory Underdown
+Posted on May 28, 2024 by Alina Gordilova
 
  **
 
-Cisco Umbrella Pricing, Licensing, & Package FAQs
+Revving up the Fun: DNSFilter's IndyCar Experience Recap —Indy 500 Edition
 
-**](https://www.dnsfilter.com/blog/cisco-umbrella-pricing-licensing-faqs)
+**](https://www.dnsfilter.com/blog/indycar-race-recap-indy-500-2024)
+
+[![DNS Price: Total Cost of Ownership Analysis](https://www.dnsfilter.com/hs-fs/hubfs/newsroom_masteringitbudgetshowtoconductathoroughtotalcostofownership%28tco%29analysisofyouritinfrastructure1.webp?width=500&height=190&name=newsroom_masteringitbudgetshowtoconductathoroughtotalcostofownership%28tco%29analysisofyouritinfrastructure1.webp)
+
+Posted on May 22, 2024 by Kory Underdown
+
+ **
+
+DNS Price: Total Cost of Ownership Analysis
+
+**](https://www.dnsfilter.com/blog/dns-price-total-cost-of-ownership-analysis)
 
 ![dnsfilter logo dark dns protection](https://www.dnsfilter.com/hubfs/raw_assets/public/Dnsfilter_March2023/images/5fda16a63a8939e688d5cc59_Layer%201.svg "dnsfilter logo dark dns protection")
 
