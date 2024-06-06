@@ -50,7 +50,7 @@
     
 * Get Involved
     
-    [Get Involved](https://www.covenanthouse.org/get-involved)
+    [How It Works](https://www.covenanthouseevents.org/index.cfm?fuseaction=donorDrive.event&eventID=1060)
     
     Ways to Give
     
@@ -66,6 +66,7 @@
     
     Take Action
     
+    * [Get Involved](https://www.covenanthouse.org/get-involved)
     * [Be an Advocate](https://www.covenanthouse.org/get-involved/take-action/advocate)
     * [Events](https://www.covenanthouse.org/get-involved/take-action/events)
     * [For Alumni](https://www.covenanthouse.org/get-involved/take-action/alumni-community)
@@ -148,11 +149,11 @@
     
 * Get Involved
     
-    Join the Movement to End Youth Homelessness
+    Strides for Pride: June 24-30
     
-    There are many ways to take action in support of youth facing homelessness.
+    Join us in a one-week challenge to log 40 minutes of activity per day - running! walking! biking! swimming! dancing! - in support of LGBTQ+ youth overcoming homelessness at Covenant House
     
-    [Get Involved](https://www.covenanthouse.org/get-involved)
+    [How It Works](https://www.covenanthouseevents.org/index.cfm?fuseaction=donorDrive.event&eventID=1060)
     
     Ways to Give
     
@@ -168,6 +169,7 @@
     
     Take Action
     
+    * [Get Involved](https://www.covenanthouse.org/get-involved)
     * [Be an Advocate](https://www.covenanthouse.org/get-involved/take-action/advocate)
     * [Events](https://www.covenanthouse.org/get-involved/take-action/events)
     * [For Alumni](https://www.covenanthouse.org/get-involved/take-action/alumni-community)
