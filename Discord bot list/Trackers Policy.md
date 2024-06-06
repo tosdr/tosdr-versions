@@ -95,7 +95,7 @@ This Website uses Trackers to measure traffic and analyze User behavior to impro
     
     Personal Data processed: Trackers and Usage Data.
     
-    Place of processing: Ireland – [Opt Out](https://tools.google.com/dlpage/gaoptout?hl=en).
+    Place of processing: Ireland – [Privacy Policy](https://business.safety.google/privacy/) – [Opt Out](https://tools.google.com/dlpage/gaoptout?hl=en).
     
     Storage duration:
     
