@@ -1,0 +1,1 @@
+[![](/legacy/Base/Includes/images/logos/green-wordmark-15px-stem.png)](https://www.irobot.com/)
