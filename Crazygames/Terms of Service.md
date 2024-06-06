@@ -1,18 +1,88 @@
 [Logo CrazyGames.com](https://www.crazygames.com/)
 
-[Home](https://www.crazygames.com/)
+[![Home icon](https://images.crazygames.com/icon/Home.svg)
+
+Home](https://www.crazygames.com/)
+
+![Recent icon](https://images.crazygames.com/icon/Recent.svg)
 
 Recently played
 
-[New](https://www.crazygames.com/new)[Trending now](https://www.crazygames.com/hot)[Updated](https://www.crazygames.com/updated)[Originals](https://www.crazygames.com/originals)
+[![New icon](https://images.crazygames.com/icon/New.svg)
+
+New](https://www.crazygames.com/new)[![Trending icon](https://images.crazygames.com/icon/Trending.svg)
+
+Trending now](https://www.crazygames.com/hot)[![Updated icon](https://images.crazygames.com/icon/Updated.svg)
+
+Updated](https://www.crazygames.com/updated)[![Originals icon](https://images.crazygames.com/icon/Originals.svg)
+
+Originals](https://www.crazygames.com/originals)
 
 * * *
 
-[2 Player](https://www.crazygames.com/t/2-player)[Action](https://www.crazygames.com/c/action)[Adventure](https://www.crazygames.com/c/adventure)[Basketball](https://www.crazygames.com/t/basketball)[Beauty](https://www.crazygames.com/c/beauty)[Bike](https://www.crazygames.com/t/bike)[Car](https://www.crazygames.com/t/car)[Card](https://www.crazygames.com/t/card)[Casual](https://www.crazygames.com/c/casual)[Clicker](https://www.crazygames.com/c/clicker)[Controller](https://www.crazygames.com/t/controller)[Dress Up](https://www.crazygames.com/t/dress-up)[Driving](https://www.crazygames.com/c/driving)[Escape](https://www.crazygames.com/t/escape)[Flash](https://www.crazygames.com/t/flash)[FPS](https://www.crazygames.com/t/first-person-shooter)[Horror](https://www.crazygames.com/t/horror)[.io](https://www.crazygames.com/c/io)[Mahjong](https://www.crazygames.com/t/mahjong)[Minecraft](https://www.crazygames.com/t/minecraft)[Multiplayer](https://www.crazygames.com/t/multiplayer)[Pool](https://www.crazygames.com/t/pool)[Puzzle](https://www.crazygames.com/c/puzzle)[Shooting](https://www.crazygames.com/c/shooting)[Soccer](https://www.crazygames.com/t/soccer)[Sports](https://www.crazygames.com/c/sports)[Stickman](https://www.crazygames.com/t/stick)[Tower Defense](https://www.crazygames.com/t/tower-defense)
+[![Two Players icon](https://images.crazygames.com/icon/2players.svg)
+
+2 Player](https://www.crazygames.com/t/2-player)[![Action icon](https://images.crazygames.com/icon/Action.svg)
+
+Action](https://www.crazygames.com/c/action)[![Adventure icon](https://images.crazygames.com/icon/Adventure.svg)
+
+Adventure](https://www.crazygames.com/c/adventure)[![Basketball icon](https://images.crazygames.com/icon/Basketball.svg)
+
+Basketball](https://www.crazygames.com/t/basketball)[![Beauty icon](https://images.crazygames.com/icon/Beauty.svg)
+
+Beauty](https://www.crazygames.com/c/beauty)[![Bike icon](https://images.crazygames.com/icon/Bike.svg)
+
+Bike](https://www.crazygames.com/t/bike)[![Car icon](https://images.crazygames.com/icon/Car.svg)
+
+Car](https://www.crazygames.com/t/car)[![Card icon](https://images.crazygames.com/icon/Card.svg)
+
+Card](https://www.crazygames.com/t/card)[![Casual icon](https://images.crazygames.com/icon/Casual.svg)
+
+Casual](https://www.crazygames.com/c/casual)[![Clicker icon](https://images.crazygames.com/icon/Clicker.svg)
+
+Clicker](https://www.crazygames.com/c/clicker)[![Controller icon](https://images.crazygames.com/icon/Controller.svg)
+
+Controller](https://www.crazygames.com/t/controller)[![DressUp icon](https://images.crazygames.com/icon/DressUp.svg)
+
+Dress Up](https://www.crazygames.com/t/dress-up)[![Driving icon](https://images.crazygames.com/icon/Driving.svg)
+
+Driving](https://www.crazygames.com/c/driving)[![Escape icon](https://images.crazygames.com/icon/Escape.svg)
+
+Escape](https://www.crazygames.com/t/escape)[![Flash icon](https://images.crazygames.com/icon/Flash.svg)
+
+Flash](https://www.crazygames.com/t/flash)[![FPS icon](https://images.crazygames.com/icon/FPS.svg)
+
+FPS](https://www.crazygames.com/t/first-person-shooter)[![Horror icon](https://images.crazygames.com/icon/Horror.svg)
+
+Horror](https://www.crazygames.com/t/horror)[![Io icon](https://images.crazygames.com/icon/io.svg)
+
+.io](https://www.crazygames.com/c/io)[![Mahjong icon](https://images.crazygames.com/icon/Mahjong.svg)
+
+Mahjong](https://www.crazygames.com/t/mahjong)[![Minecraft icon](https://images.crazygames.com/icon/Minecraft.svg)
+
+Minecraft](https://www.crazygames.com/t/minecraft)[![Multiplayer icon](https://images.crazygames.com/icon/Multiplayer.svg)
+
+Multiplayer](https://www.crazygames.com/t/multiplayer)[![Pool icon](https://images.crazygames.com/icon/Pool.svg)
+
+Pool](https://www.crazygames.com/t/pool)[![Puzzle icon](https://images.crazygames.com/icon/Puzzle.svg)
+
+Puzzle](https://www.crazygames.com/c/puzzle)[![Shooting icon](https://images.crazygames.com/icon/Shooting.svg)
+
+Shooting](https://www.crazygames.com/c/shooting)[![Soccer icon](https://images.crazygames.com/icon/Soccer.svg)
+
+Soccer](https://www.crazygames.com/t/soccer)[![Sports icon](https://images.crazygames.com/icon/Sports.svg)
+
+Sports](https://www.crazygames.com/c/sports)[![Stickman icon](https://images.crazygames.com/icon/Stickman.svg)
+
+Stickman](https://www.crazygames.com/t/stick)[![TowerDefense icon](https://images.crazygames.com/icon/TowerDefense.svg)
+
+Tower Defense](https://www.crazygames.com/t/tower-defense)
 
 * * *
 
-[Tags](https://www.crazygames.com/tags)
+[![Tags icon](https://images.crazygames.com/icon/Tags.svg)
+
+Tags](https://www.crazygames.com/tags)
 
 Contact us
 
@@ -41,7 +111,7 @@ English
 * [Українська](https://www.crazygames.com.ua/umovi-ta-polozhennya)
 * [عربي](https://ar.crazygames.com/%D8%A7%D9%84%D8%B4%D8%B1%D9%88%D8%B7%20%D9%88%D8%A7%D9%84%D8%A3%D8%AD%D9%83%D8%A7%D9%85)
 * [ไทย](https://th.crazygames.com/%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%95%E0%B8%81%E0%B8%A5%E0%B8%87-%E0%B9%81%E0%B8%A5%E0%B8%B0-%E0%B9%80%E0%B8%87%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%82%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99)
-* [한국인](https://www.crazygames.co.kr/%EC%9D%B4%EC%9A%A9%EC%95%BD%EA%B4%80)
+* [한국어](https://www.crazygames.co.kr/%EC%9D%B4%EC%9A%A9%EC%95%BD%EA%B4%80)
 
 [About](https://about.crazygames.com/)[Developers](https://developer.crazygames.com/)[Advertising](https://advertising.crazygames.com/)[Kids site](https://kids.crazygames.com/)[Jobs](https://crazygames.recruitee.com/)[Info for parents](https://www.crazygames.com/information-for-parents)[Terms & conditions](https://www.crazygames.com/terms-and-conditions)[Privacy](https://www.crazygames.com/privacy-policy)[All games](https://www.crazygames.com/sitemap/games)
 
