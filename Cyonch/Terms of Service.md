@@ -686,7 +686,7 @@ zu einem besseren Ort.
 #### Rechtliches
 
 * [AGB](https://www.cyon.ch/legal/agb)
-* [Code of Conduct](https://www.cyon.ch/legal/coc)
+* [Code of Conduct](https://www.cyon.ch/legal/coc/hosting)
 * [Technisches](https://www.cyon.ch/legal/technisches)
 * [Datenschutzerklärung](https://www.cyon.ch/legal/datenschutzerklaerung)
 * [Auftrags­verarbeitungs­vertrag](https://www.cyon.ch/legal/avv)
