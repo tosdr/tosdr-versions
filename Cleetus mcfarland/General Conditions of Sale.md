@@ -23,6 +23,7 @@
         * [Jackstand Jimmy](https://www.cleetusmcfarland.com/collections/james-collection)
         * [JH Diesel](https://www.cleetusmcfarland.com/collections/jh-collection)
         * [Tye Grade](https://www.cleetusmcfarland.com/collections/tye-collection)
+        * [Zack](https://www.cleetusmcfarland.com/collections/zack-collection)
         
     * [Accessories](https://www.cleetusmcfarland.com/collections/accessories)
     * [Sunglasses](https://www.cleetusmcfarland.com/collections/sunglasses)
@@ -74,6 +75,7 @@
         * [Jackstand Jimmy](https://www.cleetusmcfarland.com/collections/james-collection)
         * [JH Diesel](https://www.cleetusmcfarland.com/collections/jh-collection)
         * [Tye Grade](https://www.cleetusmcfarland.com/collections/tye-collection)
+        * [Zack](https://www.cleetusmcfarland.com/collections/zack-collection)
         
     * [Accessories](https://www.cleetusmcfarland.com/collections/accessories)
     * [Sunglasses](https://www.cleetusmcfarland.com/collections/sunglasses)
