@@ -139,10 +139,10 @@ _Products Purchased from Us and Subscriptions You Terminate for Notified Amendme
 * [Business products purchased from Avast](https://www.avast.com/en-us/business-support-contact-form.php)
 * [Business products purchased from AVG](https://support.avg.com/RefundFormSMB?l=en)
 * [Consumer products purchased from AVG](https://www.avg.com/refunds)
-* [All business products and consumer products purchased from CCleaner (including Defraggler, Recuva and Speccy)](https://piriform.zendesk.com/hc/en-us/requests/new)
+* [All business products and consumer products purchased from CCleaner (including Defraggler, Recuva and Speccy)](https://support.ccleaner.com/s/contact-form?form=general)
 * [All business products and consumer products purchased from HideMyAss!](https://support.hidemyass.com/hc/en-us/requests/new?ticket_form_id=669988)
 
-_Products Purchased from Google Play._ To request a cancellation and refund on a subscription and/or Solution you purchased from the Google Play app store, you must provide us with the email address you used in Google Play to purchase the subscription and/or Solution and the Transaction ID for the purchase. You can find the Transaction ID by: (i) finding the email sent to your Google Play account to confirm your purchase; or (ii) logging into the Google Payments portal at [http://payments.google.com](http://payments.google.com/) with the Google Play account you used for the purchase, and then finding the specific transaction in the Subscription and Services section. Once you have both the Google Play account email address and the Transaction ID, click [here to request a refund from Avast](https://www.avast.com/refunds), [here for AVG](https://www.avg.com/refunds), [here for CCleaner](https://piriform.zendesk.com/hc/en-us/requests/new), or [here for HideMyAss!](https://support.hidemyass.com/hc/en-us/requests/new?ticket_form_id=669988), and follow the instructions on the linked page.
+_Products Purchased from Google Play._ To request a cancellation and refund on a subscription and/or Solution you purchased from the Google Play app store, you must provide us with the email address you used in Google Play to purchase the subscription and/or Solution and the Transaction ID for the purchase. You can find the Transaction ID by: (i) finding the email sent to your Google Play account to confirm your purchase; or (ii) logging into the Google Payments portal at [http://payments.google.com](http://payments.google.com/) with the Google Play account you used for the purchase, and then finding the specific transaction in the Subscription and Services section. Once you have both the Google Play account email address and the Transaction ID, click [here to request a refund from Avast](https://www.avast.com/refunds), [here for AVG](https://www.avg.com/refunds), [here for CCleaner](https://support.ccleaner.com/s/contact-form?form=general), or [here for HideMyAss!](https://support.hidemyass.com/hc/en-us/requests/new?ticket_form_id=669988), and follow the instructions on the linked page.
 
 Restrictions and Limitations
 ----------------------------
@@ -178,8 +178,8 @@ _Dispute Resolution (EU Residents Only)._ If you are a consumer and live in the 
 * HMA!
     * [https://support.hidemyass.com/hc/en-us/articles/216120328-How-to-download-install-and-use-HMA-Pro-VPN-version-3](https://support.hidemyass.com/hc/en-us/articles/216120328-How-to-download-install-and-use-HMA-Pro-VPN-version-3)
 * CCleaner
-    * [https://piriform.zendesk.com/hc/en-us/articles/204043864-How-do-I-download-CCleaner](https://piriform.zendesk.com/hc/en-us/articles/204043864-How-do-I-download-CCleaner)
-    * [https://piriform.zendesk.com/hc/en-us/articles/204044234-Where-can-I-get-the-latest-versions-of-Piriform-products-](https://piriform.zendesk.com/hc/en-us/articles/204044234-Where-can-I-get-the-latest-versions-of-Piriform-products-)
+    * [https://www.ccleaner.com/download](https://www.ccleaner.com/download)
+    * [https://support.ccleaner.com/s/article/where-can-i-get-the-latest-versions-of-ccleaner-products](https://support.ccleaner.com/s/article/where-can-i-get-the-latest-versions-of-ccleaner-products)
 
 #### Activating my subscriptions
 
@@ -198,7 +198,7 @@ _Dispute Resolution (EU Residents Only)._ If you are a consumer and live in the 
 * AVG
     * [https://support.avg.com/SupportArticleView?urlName=Finding-your-Invoice-ID-and-Order-Number](https://support.avg.com/SupportArticleView?urlName=Finding-your-Invoice-ID-and-Order-Number)
 * CCleaner
-    * [https://piriform.zendesk.com/hc/en-us/articles/204044264-I-ve-lost-my-product-license-key](https://piriform.zendesk.com/hc/en-us/articles/204044264-I-ve-lost-my-product-license-key)
+    * [https://support.ccleaner.com/s/article/i-ve-lost-my-product-license-key](https://support.ccleaner.com/s/article/i-ve-lost-my-product-license-key)
 
 #### Cancelling my subscription
 
@@ -227,7 +227,7 @@ _Dispute Resolution (EU Residents Only)._ If you are a consumer and live in the 
 * HMA!
     * [https://support.hidemyass.com/hc/en-us](https://support.hidemyass.com/hc/en-us)
 * CCleaner
-    * [https://piriform.zendesk.com/hc/en-us/requests/new](https://piriform.zendesk.com/hc/en-us/requests/new)
+    * [https://support.ccleaner.com/s/contact-form?form=general](https://support.ccleaner.com/s/contact-form?form=general)
 
 ### Related Information Regarding Business Products
 
@@ -239,7 +239,7 @@ _Dispute Resolution (EU Residents Only)._ If you are a consumer and live in the 
 
 * [https://support.avg.com/business?l=en](https://support.avg.com/business?l=en)
 
-* About Piriform
+* [About Piriform](https://www.ccleaner.com/about)
 * [Press Releases](https://newsroom.gendigital.com/ccleaner)
 * Offices
 * [Partner Program](https://www.ccleaner.com/partners)
