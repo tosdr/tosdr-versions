@@ -1,8 +1,10 @@
-English
+💥 Our new & improved browser extension lets you manage your meetings, scheduling links, and contacts in a single click
+
+[Try it out](https://calendly.com/integrations?category=extensions_and_apps&utm_medium=referral&utm_source=calendly&utm_campaign=extension_adoption&content=web_banner)
 
 English
 
-[Talk to sales](https://calendly.com/contact)[Log In](https://calendly.com/login)
+English
 
 [![Calendly logo](https://marketing-assets.calendly.com/media/logo.svg)](https://calendly.com/)
 
