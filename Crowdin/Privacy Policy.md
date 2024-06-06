@@ -178,9 +178,11 @@ Information Security Policy
 
 ### Introduction
 
-Crowdin Information Security Policy (hereinafter the Policy) defines the objectives and basic principles of information security. Information security means implementation and maintenance of the appropriate level of its properties. The Policies requirements apply to the entire Crowdin organization and all business processes, and are available mandatory for all employees as well as those involved in these business processes. Compliance with the requirements of the Policy is an important aspect for achieving Crowdin’s strategic goals and objectives.
+Crowdin Information Security Policy (hereinafter the Policy) defines the objectives and basic principles of information security. Information security means implementation and maintenance of the appropriate level of its properties.
 
-Crowdin information security policy meets the requirements of ISO / IEC 27001: 2013 and DSTU ISO / IEC 27001: 2015.
+The Policies requirements apply to the entire Crowdin organization and all business processes, and are available mandatory for all employees as well as those involved in these business processes. Compliance with the requirements of the Policy is an important aspect for achieving Crowdin’s strategic goals and objectives.
+
+Crowdin information security policy meets the requirements of ISO / IEC 27001: 2022 and DSTU ISO / IEC 27001: 2015.
 
 This policy sets up:
 
@@ -193,19 +195,23 @@ This policy sets up:
 * Responsibilities for Information Security
 * Measurement
 
-Information security processes are described, formally defined and approved Crowdin’s guidance in the form of standards, policies, regulations and other internal regulatory documents.
+Information security processes are described, formally defined and approved, Crowdin’s guidance in the form of standards, policies, regulations and other internal regulatory documents.
 
 ### Context of the organization
 
 According to ISO, defining the context of an Organization is a “business environment”, “a combination of internal and external factors and conditions that may influence the organization’s approach to its products, services and investments and interested parties”.
 
-Crowdin is a product company with more than 1.5 million user accounts.
+Crowdin is a product company with more than 2 million user accounts.
 
-Crowdin’s software solution empowers companies of any shape and size to accelerate their growth by reaching people who speak different languages. Crowdin team works passionately toward a shared goal: to expand the potential of agile localization. From day one till now, Crowdin’s mission has always been to keep it simple and wow Crowdin’s customers with an outstanding user experience and the latest technology solutions.
+Crowdin’s software solution empowers companies of any shape and size to accelerate their growth by reaching people who speak different languages.
+
+Crowdin team works passionately toward a shared goal: to expand the potential of agile localization. From day one till now, Crowdin’s mission has always been to keep it simple and wow Crowdin’s customers with an outstanding user experience and the latest technology solutions.
 
 Crowdin’s main industrial sector is Software as a service.
 
-The purpose of the ISMS is to ensure that Crowdin is still able to meet its defined business objectives and comply with its policies in the face of potential and actual security incidents. Policies have been set by the organization in a variety of areas and these must be taken account of during the information security planning process to ensure that they are met.
+The purpose of the ISMS is to ensure that Crowdin is still able to meet its defined business objectives and comply with its policies in the face of potential and actual security incidents.
+
+Policies have been set by the organization in a variety of areas and these must be taken account of during the information security planning process to ensure that they are met.
 
 The main relevant policies are:
 
@@ -243,6 +249,8 @@ The main relevant policies are:
 * Maintaining confidentiality in the work
 * Management Review Procedure
 * User Access Management Procedure
+* Vulnerability Management Policy
+* Security in Customer Support Policy
 
 ### Internal and external issues
 
@@ -254,8 +262,8 @@ Internal issues:
 * Significant organizational changes
 * Governance and organizational structure
 * Contractual relationships
-* Resources and knowledge (e.g., capital, people, processes and technologies)
-* Relationship with your staff and stakeholders, including partners and suppliers
+* Resources and knowledge (e.g. capital, people, processes and technologies)
+* Relationship with staff and stakeholders, including partners and suppliers
 * etc.
 
 External issues:
@@ -270,14 +278,16 @@ External issues:
 * Data protection
 * Supporting technologies and infrastructure
 * Automation and artificial intelligence
-* Military and political shifts
+* Military conflicts and political changes
 * etc.
 
 These general internal and external issues will be considered in more detail as part of the risk assessment process and will be regularly reviewed and monitored.
 
 ### The interested parties that are relevant to the ISMS of Crowdin have been determined below with their individual expectations.
 
-An interested party is defined as a person or organization that can affect, be affected by, or perceive themselves to be affected by a decision or activity. The following are defined as interested parties that are relevant to the ISMS:
+An interested party is defined as a person or organization that can affect, be affected by, or perceive themselves to be affected by a decision or activity.
+
+The following are defined as interested parties that are relevant to the ISMS:
 
 * Business Owners
 * Governance
@@ -291,11 +301,12 @@ An interested party is defined as a person or organization that can affect, be a
 * Competitors
 * Investors
 * The media
+* Emergency Services
 * Auditor
 
 | Interested party | Expectations | Requirement |
 | --- | --- | --- |
-| Owners of the business | Effective information security influences the organisation’s financial success | Return on capital |
+| Owners of the business | Effective information security influences the organization’s financial success | Return on capital |
 | Governance | Organisational reputation must be protected | Documentary and practical confirmation of the implementation of ISMS |
 | Customers, Customer user groups | The confidentiality, integrity and availability of data is secured at all times | ISMS ISO 27001 Certificate |
 | Suppliers and partners | Adhering to agreements and payment terms | Evidence of adhering to agreements and payment terms |
@@ -310,52 +321,83 @@ An interested party is defined as a person or organization that can affect, be a
 
 ### Information security objectives:
 
-* Ensure the effective functioning of the ISMS in accordance with the requirements of ISO / IEC 27001: 2013, which will allow Crowdin to be a certified company and trusted supplier for its customers ([View Certificate](https://support.crowdin.com/assets/C1296-ISMS483-11-21.pdf)).
-* Ensure uninterrupted operation of the company and provision of services, regardless of external and internal issues.
-* Ensure the availability, integrity and confidentiality of both customer and employee data, confidentiality of internal business processes. Minimize the number and consequences of information security incidents and their impact.
-* The goals of information security correspond to the interests of the company.
+* Ensure compliance with the requirements of ISO / IEC 27001: 2022 which will allow Crowdin to be a certified company and trusted supplier for its customers. ([View Certificate](https://support.crowdin.com/assets/C1296-ISMS483-11-21.pdf)). Ensure compliance with relevant laws, regulations (legislation of Estonia, Ukraine), contractual agreements, and organizational policies related to information security.
+* Ensure the availability, integrity and confidentiality of both customer and employee data, confidentiality of internal business processes.
+* Continuously reduce risks within the organization’s ISMS.
+* Prevent or minimize potential IS incident damage.
 
-### Planning to achieve information security objectives
+This strategic objectives are supported by annual KPIs, described in more detail in the _ISMS-PL-Monitoring and evaluating the effectiveness of ISMS Policy_ policy:
 
-ISMS Committee, which is a collegial permanent body, CISO, should keep company policies in the actual state, ensure their integration into organizational processes.
+* Availability time of the service (>99,95% yearly)
+* Data confidentiality incidents count (goal: 0)
+* Data integrity incidents count (goal: 0)
+* Physical security incidents count (goal: 0)
+* Prioritized issues to be fixed immediately (goal: <100)
+* Vulnerabilities count found during pentest (security level: strong or very strong)
+* Vulnerabilities count found via reporting program (goal: no critical reports)
+* Planned ISMS tasks done in previous period (goal: 100%)
+* Quantity of unsuccessful or defective system updates (goal <25)
+* Active risks distribution (decrease or increase of identified risks number) (goal <10 risks classified as very high)
+* Phishing testing: percentage of compromised users (goal: 0%)
 
-For this purpose, ISMS committee members can make suggestions regarding the updating of documents, and approve them at the meetings of the committee. ISMS team considers security incidents, if they have occurred, creates a plan for ISMS improvements and do an analysis of what was done at the previous period.
+### What will be done
 
-Annual training is held on the content of information security policies, general principles of information security. In addition to annual training, people who start cooperation undergo training before they receive access to confidential data. Compliance with onboarding training requirements is monitored by the HR manager.
+Current policies, processes, and security measures will be continuously reviewed. Any gaps in alignment with ISO/IEC 27001:2022 standards will be identified and addressed.
 
-The system administrator provides control over the fulfillment of requirements for the use of information systems and equipment. It is described in more detail in the ISMS-PL Workstation security policy.
+A proactive risk management strategy will be maintained. This strategy includes conducting regular risk assessments, vulnerability scans, and security audits. Identified risks will be analyzed, and continuous mitigation measures will be implemented.
 
-The CISO organizes regular activities such as BCP plan testing, backups, and staff training, reassessment of risks, formation of a risk treatment plan, records all information security incidents, and is responsible for investigating suspected incidents.
+### What resources will be required
 
-The results of ISMS work are evaluated annually at the management review meeting, at internal and certification audits.
+* Professionals with expertise in information security, data protection, and risk management.
+* Security technologies, including secure data storage solutions, device management solutions, encryption technologies, vulnerability assessment tools.
+* Skilled auditors and analysts to assess the effectiveness of implemented security measures and identify areas for improvement.
+* Access to up-to-date threat intelligence sources
+* Adequate budget allocation to support investments in security technologies, personnel, training programs, and processes improvements.
 
-The company allocates the necessary resources to ensure business continuity in accordance with the BCP plan, the ISMS committee helps in ensuring its operability.
+### Who will be responsible
 
-### For ISMS establishment Crowdin is obliged to:
+The ISMS Committee has the final responsibility for Information Security Risks across Crowdin.
 
-* Comply with both the law and ISO / IEC 27001: 2013 requirements
-* Develop and adhere to all ISMS policies and procedures and ensure their integration into organizational processes
-* Satisfy applicable requirements related to information security
-* Review and continual improvement of the information security management system
-* Be open and honest with individuals whose data is held
-* Provide training and support for staff who handle ISMS, so that they can act confidently and consistently
-* Ensure the compatibility of information security policies and objectives with Crowdin’s strategic objectives
+Detailed information about the functions, regulation, duties and responsibilities of the ISMS Committee is in the Regulation on ISMS Committee.
 
-### Responsibilities for Information Security
+Managers/Head of Departments are responsible for information security within their departments/teams. They must ensure that the department/team has communicated their own informational security needs to the CISO.
 
-Crowdin governance clearly understands that information security is the foundation life of Crowdin. Crowdin management contributes to the creation, implementation, control and support of the Policy information security.
+CISO is clearly accountable for the provision of appropriate, timely advice to the management to ensure that an effective information risk management framework is implemented, operated and maintained in alignment with the business strategy, the business and the legal requirements.
 
-Information Security Policy documents are developed by the ISMS Committee and other departments according to the relevant areas of activity.
+All personnel, regardless of function, level and role, shall have explicit personal responsibilities for Information Security Management.
 
-The ISMS Committee is responsible for defining information security requirements and overseeing their implementation in Crowdin.
+Responsibilities are described in detail in the _ISMS-FR-Information Security Management Framework_, and in other corresponding policies.
 
-### Statutory, regulatory, and contractual requirements
+### When it will be completed
 
-Crowdin information security measures meet the business needs and the requirements legislation of Estonia, Ukraine, ISO / IEC 27001: 2013, internal regulations Crowdin.
+Continuous monitoring and improvement of ISMS will be an ongoing task to maintain compliance.
 
-The organization of any process or making changes to existing process is carried out taking into account information security. Evaluation of the effectiveness of the ISMS is carried out on a regular basis.
+Regular risk assessments and mitigation activities will be scheduled periodically. Vulnerability assessments will be conducted regularly as part of the organization’s ongoing security practices. Proactive measures will be implemented immediately upon identification of vulnerabilities to ensure continuous protection.
 
-Crowdin’s internal independent information security audit will be conducted annually during the ISMS functional cycle.
+The Incident Response Plan is annually reviewed, updated and tested to ensure its effectiveness in minimizing potential damage in the event of a security incident.
+
+### How the results will be evaluated
+
+Systems, processes and activities that can be monitored in the ISMS include, but are not limited to:
+
+* Audit;
+* Risk assessment process;
+* Risk management of third parties;
+* Business continuity management;
+* The maturity of implementation of ISMS processes;
+* Incident management;
+* Vulnerability management;
+* Configuration management;
+* Training and level of awareness raising activities;
+* Access control, firewall and other event logs;
+* Management of physical and environmental safety; and
+* System monitoring.
+
+The organization’s compliance with ISO/IEC 27001:2022 is evaluated through internal audit, management review, ISMS committee meetings. Annual external audits conducted by certification bodies will further validate our compliance status.
+
+Key performance indicators defined will be closely monitored. Any security breaches or incidents will trigger immediate investigation and corrective action to ensure the security of customer and employee data, as well as our internal business processes.
+
+Monitoring and evaluating the effectiveness of ISMS processes is described in the _ISMS-PL-Monitoring and evaluating the effectiveness of ISMS Policy_
 
 © 2024 Crowdin
 
