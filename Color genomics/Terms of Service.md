@@ -1,6 +1,6 @@
 [skip to content](#main)
 
-Read about our recent product expansion [here](https://www.prnewswire.com/news-releases/the-american-cancer-society-and-color-health-announce-expansion-of-a-comprehensive-cancer-care-solution-302090930.html).
+Read about Color’s new distributed screening partnerships with Bexa and SkinIO [here](https://www.prnewswire.com/news-releases/color-health-announces-at-home-and-at-work-cancer-screening-expansion-with-skinio-and-bexa-302158887.html).
 
  [![](https://www.color.com/wp-content/uploads/2024/04/Color-Wordmark-Logo-Registered.svg)](https://www.color.com/) Toggle Main Navigation Expanded Collapsed
 
@@ -17,6 +17,7 @@ Read about our recent product expansion [here](https://www.prnewswire.com/news-r
     * [Cardiometabolic disease](https://www.color.com/cardiometabolic-disease)
 * [Company](#)
     * [About Us](https://www.color.com/about-us)
+    * [Leadership](https://www.color.com/leadership)
     * [Research](https://www.color.com/research-platform)
     * [Careers](https://www.color.com/careers)
     * [Newsroom](https://www.color.com/newsroom)
