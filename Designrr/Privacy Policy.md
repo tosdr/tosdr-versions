@@ -244,6 +244,16 @@ Reporting Security Vulnerabilities
 
 If you identify a security vulnerability in any PageOneTraffic product including Designrr – please report it immediately by sending an email to: dpo@pageonetraffic.com.  Please explain in detail the issue, so we can expedite any response necessary.
 
+##### General Info
+
+* [Home](https://designrr.io/)
+* [Pricing](https://designrr.io/pricing/)
+* [About](https://designrr.io/about/)
+* [Blog](https://designrr.io/blog/)
+* [Ebook Creator](https://designrr.io/ebook-creator/)
+* [Flipbook Creator](https://designrr.io/flipbook-creator/)
+* [Video Transcription Software](https://designrr.io/video-to-text-transcription-software/)
+
 ##### Popular Posts
 
 * [How to Create a PDF Flipbook](https://designrr.io/how-to-create-a-pdf-flipbook-for-more-traffic/)
