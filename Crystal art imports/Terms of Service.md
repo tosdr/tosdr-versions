@@ -420,7 +420,7 @@ Join
 
 [![Crystal Art Imports, Inc.](https://d3l97e4uq59tzn.cloudfront.net/images/cc_logo2black100.jpg)](https://www.crystalclassics.com/)  
   
-© 2023 Crystal Art Imports, Inc. All Rights Reserved.
+© 2024 Crystal Art Imports, Inc. All Rights Reserved.
 
 ^ Back to Top
 
