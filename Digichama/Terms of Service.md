@@ -210,6 +210,8 @@ These Terms and Conditions constitute the entire agreement between the user and 
 
 ![logo](https://digichama.co.ke/assets/img/logo.png) ![logo](https://digichama.co.ke/assets/img/logo-xx.png)
 
+Designed to simplify management of table banking groups, also known as chamas.
+
 ###### Company
 
 * [About Us](https://razorinformatics.co.ke/about)
@@ -221,11 +223,11 @@ These Terms and Conditions constitute the entire agreement between the user and 
 
 ###### Product
 
+* [Guides](https://wiki.digichama.co.ke/)
+    
 * [Pricing](https://digichama.co.ke/pricing)
     
 * [Support](https://digichama.co.ke/contact)
-    
-* [Help Center](https://wiki.digichama.co.ke/)
     
 
 ###### Legal
