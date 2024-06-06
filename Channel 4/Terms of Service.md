@@ -73,7 +73,6 @@
         * [Love Triangle](https://www.channel4.com/4viewers/take-part/love-triangle)
         * [Married at First Sight UK](https://www.channel4.com/4viewers/takepart/married-at-first-sight)
         * [Naked Attraction](https://www.channel4.com/4viewers/take-part/naked-attraction)
-        * [New Channel 4 Show](https://www.channel4.com/4viewers/take-part/kids)
         * [A New Life in the Sun](https://www.channel4.com/4viewers/take-part/new-life-sun)
         * [Open House: The Great Sex Experiment](https://www.channel4.com/4viewers/take-part/open-house)
         * [The Piano](https://www.channel4.com/4viewers/take-part/the-piano)
@@ -88,8 +87,9 @@
         
         * [4Viewers Blog](https://www.channel4.com/4viewers/community/blog)
         * [Formula 1 on Channel 4](https://www.channel4.com/4viewers/blog/formula-1-2024)
-        * [Walter Presents](https://www.channel4.com/4viewers/blog/walter-presents)
+        * [Taskmaster: The Live Experience](https://www.channel4.com/4viewers/blog/taskmaster-experience)
         * [England International Football Games on Channel 4](https://www.channel4.com/4viewers/blog/uefa-league)
+        * [Walter Presents](https://www.channel4.com/4viewers/blog/walter-presents)
         * [Energy Tips from 4](https://www.channel4.com/4viewers/blog/energy-saving-tips)
         * [Help! I need somebody, not just anybody](https://www.channel4.com/4viewers/news/help-i-need-somebody-not-just-anybody)
         * [Banged Up: Stars Behind Bars](https://www.channel4.com/4viewers/blog/banged-up)
@@ -102,14 +102,14 @@
         * [The IT Crowd: The Speech](https://www.channel4.com/4viewers/blog/ITCrowd)
         
     
-* [Contact us](https://www.channel4.com/4viewers/contact-us)
 * [C4 Investigations](https://www.channel4.com/4viewers/c4IU)
 * [FAQs](https://www.channel4.com/4viewers/faqs)
     
-    * [Channel 4 - on demand website and apps](https://www.channel4.com/4viewers/faqs/category/36)
+    * [Channel 4 streaming - Website and Apps](https://www.channel4.com/4viewers/faqs/category/36)
     * [Other Channel 4 websites](https://www.channel4.com/4viewers/faqs/category/31)
     * [Our TV channels](https://www.channel4.com/4viewers/faqs/category/26)
     
+* [Contact us](https://www.channel4.com/4viewers/contact-us)
 
 * Our Policies
     * [Policies Overview](https://www.channel4.com/4viewers/policies-overview)
