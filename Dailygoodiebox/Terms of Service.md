@@ -239,5 +239,3 @@ Copyright © 2024
 * [Terms of Service](https://dailygoodiebox.com/terms)
 * [Privacy Policy](https://dailygoodiebox.com/privacy) [Advertising Disclosure](https://dailygoodiebox.com/disclosure)
 * [Contact Us](https://dailygoodiebox.com/contact)
-
-![Quantcast](//pixel.quantserve.com/pixel/p-31iz6hfFutd16.gif?labels=Domain.dailygoodiebox_com,DomainId.556592)
