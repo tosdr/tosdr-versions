@@ -1,4 +1,4 @@
-[![Common Crawl Logo](https://assets-global.website-files.com/6479b8d98bf5dcb4a69c4f31/649b5869af56f6df617cfb1f_CC_Logo_Blue_Auto.svg)](https://commoncrawl.org/)
+[![Common Crawl Logo](https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/649b5869af56f6df617cfb1f_CC_Logo_Blue_Auto.svg)](https://commoncrawl.org/)
 
 * The Data
     
@@ -252,7 +252,7 @@ or:
    9663 Santa Monica Blvd. #425,  
    Beverly Hills, CA 90210
 
-[![Common Crawl Logo](https://assets-global.website-files.com/6479b8d98bf5dcb4a69c4f31/649b5869af56f6df617cfb1f_CC_Logo_Blue_Auto.svg)](https://commoncrawl.org/)
+[![Common Crawl Logo](https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/649b5869af56f6df617cfb1f_CC_Logo_Blue_Auto.svg)](https://commoncrawl.org/)
 
 The Data
 --------
@@ -304,6 +304,6 @@ About
 
 ### [Terms of Use](https://commoncrawl.org/terms-of-use)
 
-[![Twitter Logo](https://assets-global.website-files.com/6479b8d98bf5dcb4a69c4f31/648ef3af9ae84f3d53350a14_twitter.svg)](https://twitter.com/commoncrawl)[![LinkedIn Logo](https://assets-global.website-files.com/6479b8d98bf5dcb4a69c4f31/6493999d57ad8123b314b6cf_linkedin%20(1).svg)](https://www.linkedin.com/company/common-crawl/)[![LinkedIn Logo](https://assets-global.website-files.com/6479b8d98bf5dcb4a69c4f31/6602100396780a14617cc8ab_discord.svg)](https://discord.gg/njaVFh7avF)
+[![Twitter Logo](https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/648ef3af9ae84f3d53350a14_twitter.svg)](https://twitter.com/commoncrawl)[![LinkedIn Logo](https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/6493999d57ad8123b314b6cf_linkedin%20(1).svg)](https://www.linkedin.com/company/common-crawl/)[![LinkedIn Logo](https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/6602100396780a14617cc8ab_discord.svg)](https://discord.gg/njaVFh7avF)
 
 © 2023 Common Crawl
