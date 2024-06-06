@@ -49,9 +49,9 @@
 
 ###### Featured posts
 
-[![Featured article](https://www.applovin.com/wp-content/uploads/2020/06/460x260_AppLovinxAdjust_gaming_app_report_2024.jpg)
+[![Featured article](https://www.applovin.com/wp-content/uploads/2020/06/CoffeeandCreative_Ai_Ad_Production_Web_Pop_up2x-ezgif.com-webp-to-jpg-converter-1.jpg)
 
-###### AppLovin + Adjust Gaming App Insights Report](https://www.applovin.com/blog/new-applovin-adjust-2024-gaming-insights-report/)
+###### Webinar: AI in Ad Production](https://try.applovin.com/coffee-creative-ai-webinar)
 
 [![Featured article](https://www.applovin.com/wp-content/uploads/2020/06/460x260_Blog-Header_Resource-Center-Launch-1.jpg)
 
@@ -164,6 +164,7 @@ Email: [\[email protected\]](https://www.applovin.com/cdn-cgi/l/email-protecti
 * [About AppLovin](https://www.applovin.com/about/)
 * [Leadership](https://www.applovin.com/leadership/)
 * [Press](https://www.applovin.com/press/)
+* [Brand Hub](https://www.applovin.com/brand-hub/)
 * [Partners](https://www.applovin.com/partners/)
 * [Studios](https://www.applovin.com/partner-studios/)
 * [Investors](https://investors.applovin.com/)
