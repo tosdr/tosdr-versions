@@ -90,5 +90,5 @@ Dutch law is applicable. Any disputes will be submitted to the court in Amsterda
 * [Horeca](https://www.countrhq.com/horeca)
 * [Retail](https://www.countrhq.com/retail)
 
-* [Licentieovereenkomst](https://www.countrhq.com/licentieovereenkomst)
+* [Licence Agreement](https://www.countrhq.com/licence-agreement)
 * [Terms & Conditions](https://www.countrhq.com/terms-conditions)
