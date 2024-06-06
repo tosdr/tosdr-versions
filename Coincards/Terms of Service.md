@@ -46,9 +46,9 @@
 
 STUFF TECHNOLOGIES INC. USER AGREEMENT (this **“Agreement”**)
 
-**This Agreement shall be effective starting on June 9, 2023**
+**This Agreement shall be effective starting on May 27, 2024**
 
-\* Last updated: June 9, 2023  
+\* Last updated: May 27, 2024  
 
 **STUFF TECHNOLOGIES INC. USER AGREEMENT**
 
@@ -266,9 +266,21 @@ We will provide these Communications to you by posting them on the Site, e-maili
 
 #### **Appendix 3: CONVERSION FEES AND LIMITS**
 
+**Australia:**
+
+Maximum purchasing limits: Up to 5000 \[local currency\] per card, up to 5000 \[local currency\] per day
+
+Maximum phone top-up limits: Up to 200 \[local currency\]  per pin/refill
+
 **Canada:**
 
 Maximum purchasing limits: Up to 9,999 \[local currency\] per card, up to 9,999 \[local currency\] per day
+
+Maximum phone top-up limits: Up to 200 \[local currency\]  per pin/refill
+
+**European Union Zone:**
+
+Maximum purchasing limits: Up to 999 \[local currency\] per card, up to 999 \[local currency\] per day
 
 Maximum phone top-up limits: Up to 200 \[local currency\]  per pin/refill
 
@@ -368,14 +380,11 @@ Email: [\[email protected\]](https://coincards.com/cdn-cgi/l/email-protection)
 
 ##### OUR LOCATIONS
 
+* [Australia](https://coincards.com/au)
 * [Canada](https://coincards.com/ca)
+* [Europe](https://coincards.com/eu)
 * [United Kingdom](https://coincards.com/uk)
 * [United States](https://coincards.com/us)
-
-##### COMING SOON
-
-* [Australia](https://coincards.com/)
-* [Europe](https://coincards.com/)
 
 ##### SOCIAL MEDIA
 
