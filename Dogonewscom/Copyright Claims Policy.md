@@ -70,25 +70,25 @@ e-mail: rdolasia@dogonews.com
 
 * Week
     
-    * [![Smart Orangutan Uses Medicinal Plant To Heal Wound](data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 48"%3E%3C/svg%3E)](https://www.dogonews.com/2024/5/10/smart-orangutan-uses-medicinal-plant-to-heal-wound)
+    * [![Japan's N-Ark Aspires To Build A Floating City To Combat Rising Sea Levels](data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 48"%3E%3C/svg%3E)](https://www.dogonews.com/2024/5/29/japans-n-ark-aspires-to-build-a-floating-city-to-combat-rising-sea-levels)
         
-        [Smart Orangutan Uses Medicinal Plant To Heal Wound](https://www.dogonews.com/2024/5/10/smart-orangutan-uses-medicinal-plant-to-heal-wound)
+        [Japan's N-Ark Aspires To Build A Floating City To Combat Rising Sea Levels](https://www.dogonews.com/2024/5/29/japans-n-ark-aspires-to-build-a-floating-city-to-combat-rising-sea-levels)
         
-    * [![2024 US Tornado Season On Track To Be One Of The Most Active In History](data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 48"%3E%3C/svg%3E)](https://www.dogonews.com/2024/5/13/2024-us-tornado-season-on-track-to-be-one-of-the-most-active-in-history)
+    * [![The Las Vegas Sphere Is Revolutionizing Entertainment](data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 48"%3E%3C/svg%3E)](https://www.dogonews.com/2024/6/3/the-las-vegas-sphere-is-revolutionizing-entertainment)
         
-        [2024 US Tornado Season On Track To Be One Of The Most Active In History](https://www.dogonews.com/2024/5/13/2024-us-tornado-season-on-track-to-be-one-of-the-most-active-in-history)
+        [The Las Vegas Sphere Is Revolutionizing Entertainment](https://www.dogonews.com/2024/6/3/the-las-vegas-sphere-is-revolutionizing-entertainment)
         
-    * [![Thieves Pull Off Daring $30 Million Heist In California](data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 48"%3E%3C/svg%3E)](https://www.dogonews.com/2024/5/3/thieves-pull-off-daring-30-dollars-million-heist-in-california)
+    * [![NASA's X-59 Aircraft Aims To Revolutionize Supersonic Flight](data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 48"%3E%3C/svg%3E)](https://www.dogonews.com/2024/5/23/nasas-x-59-aircraft-aims-to-revolutionize-supersonic-flight)
         
-        [Thieves Pull Off Daring $30 Million Heist In California](https://www.dogonews.com/2024/5/3/thieves-pull-off-daring-30-dollars-million-heist-in-california)
+        [NASA's X-59 Aircraft Aims To Revolutionize Supersonic Flight](https://www.dogonews.com/2024/5/23/nasas-x-59-aircraft-aims-to-revolutionize-supersonic-flight)
         
-    * [![Powerful Solar Storms Create Dazzling Auroras](data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 48"%3E%3C/svg%3E)](https://www.dogonews.com/2024/5/14/powerful-solar-storms-create-dazzling-auroras)
+    * [![This Armored Ancestor Of Modern Crocodiles Roamed Earth Over 200 Million Years Ago](data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 48"%3E%3C/svg%3E)](https://www.dogonews.com/2024/5/22/this-armored-ancestor-of-modern-crocodiles-roamed-earth-over-200-million-years-ago)
         
-        [Powerful Solar Storms Create Dazzling Auroras](https://www.dogonews.com/2024/5/14/powerful-solar-storms-create-dazzling-auroras)
+        [This Armored Ancestor Of Modern Crocodiles Roamed Earth Over 200 Million Years Ago](https://www.dogonews.com/2024/5/22/this-armored-ancestor-of-modern-crocodiles-roamed-earth-over-200-million-years-ago)
         
-    * [![Paris 2024 Olympics Will Feature Four Additional Sports](data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 48"%3E%3C/svg%3E)](https://www.dogonews.com/2024/5/9/paris-2024-olympics-will-feature-four-additional-sports)
+    * [![Dr. Catherine Wu Wants To Make Personalized Cancer Vaccines A Reality](data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 48"%3E%3C/svg%3E)](https://www.dogonews.com/2024/5/30/dr-catherine-wu-wants-to-make-personalized-cancer-vaccines-a-reality)
         
-        [Paris 2024 Olympics Will Feature Four Additional Sports](https://www.dogonews.com/2024/5/9/paris-2024-olympics-will-feature-four-additional-sports)
+        [Dr. Catherine Wu Wants To Make Personalized Cancer Vaccines A Reality](https://www.dogonews.com/2024/5/30/dr-catherine-wu-wants-to-make-personalized-cancer-vaccines-a-reality)
         
     
 * Month
