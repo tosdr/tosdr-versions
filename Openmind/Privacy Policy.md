@@ -1,0 +1,1 @@
+For the best experience, please make sure your browser is [up-to-date](https://browser-update.org/update.html) and javascript is enabled.
