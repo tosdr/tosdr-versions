@@ -43,7 +43,8 @@ That’s it!
 * [Newsletter](https://300trees.org/newsletter)
 * [Volunteer](https://300trees.org/volunteer)
 * [Donate](https://300trees.org/donate)
-* [Privacy policy](https://300trees.org/privacy)
+* [Privacy policy](https://300trees.org/privacy-policy)
+* [Terms of Service](https://300trees.org/terms-of-service)
 
 Copyright © 2024 300 Trees
 
