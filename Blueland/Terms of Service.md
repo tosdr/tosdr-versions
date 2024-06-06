@@ -10,7 +10,7 @@
     * [Refill Packs](https://www.blueland.com/collections/refills)
     * [Subscribe & Save
         
-        Save up to 30%](https://www.blueland.com/collections/subscriptions)
+        Save up to 20%](https://www.blueland.com/collections/subscriptions)
     
     Offset
     
@@ -42,7 +42,7 @@ Toggle navigation menu
 * [Shop All](https://www.blueland.com/collections/all)
 * [Subscribe & Save
     
-    Up to 30% off](https://www.blueland.com/collections/subscriptions)
+    Up to 20% off](https://www.blueland.com/collections/subscriptions)
 * [Bestsellers](https://www.blueland.com/collections/bestsellers)
 * [Starter Kits](https://www.blueland.com/collections/starter-kits)
 * [Refills](https://www.blueland.com/collections/refills)
@@ -63,8 +63,8 @@ Secondary navigation menu
 * [My Account](https://shop.blueland.com/account/login)
 * [Contact Us](https://help.blueland.com/en-US/contact)
 
-Terms & Conditions
-==================
+Blueland Terms & Conditions
+===========================
 
 * [Starter KitsStarter Kits](https://www.blueland.com/collections/starter-kits)
 * [RefillsRefills](https://www.blueland.com/collections/refills)
@@ -82,11 +82,7 @@ Terms of Service
 
 OVERVIEW
 
-This website is operated by One Home Brands, Inc. (dba "Blueland"). Throughout the site, the terms “we”, “us” and “our” refer to One Home Brands, Inc. One Home Brands, Inc. offers this website, including all information, tools and services available from this site to you, the user, conditioned upon your acceptance of all terms, conditions, policies and notices stated here. Find out more information on our[](https://www.blueland.com/terms-and-conditions-ca)
-
-[Terms & Conditions for Canada](https://www.blueland.com/terms-and-conditions-ca)
-
-.
+This website is operated by One Home Brands, Inc. (dba "Blueland"). Throughout the site, the terms “we”, “us” and “our” refer to One Home Brands, Inc. One Home Brands, Inc. offers this website, including all information, tools and services available from this site to you, the user, conditioned upon your acceptance of all terms, conditions, policies and notices stated here.
 
 By visiting our site and/ or purchasing something from us, you engage in our “Service” and agree to be bound by the following terms and conditions (“Terms of Service”, “Terms”), including those additional terms and conditions and policies referenced herein and/or available by hyperlink. These Terms of Service apply to all users of the site, including without limitation users who are browsers, vendors, customers, merchants, and/ or contributors of content.
 
@@ -315,6 +311,9 @@ Oops, something went wrong
 * * [hello@blueland.com](https://help.blueland.com/en-US/contact)
     * [Terms & Conditions](https://www.blueland.com/terms-and-conditions)
     * [Privacy Policy](https://www.blueland.com/privacy-policy)
+    
+    * Your Privacy Choices
+        
 * ### Good Stuff
     
     * ![B Corp Certification](https://cdn.sanity.io/images/d864s8gp/production/abd9e30d9f0f3d79d061f4c297ff3fe94b858a6c-261x400.png)
@@ -353,6 +352,9 @@ Help
 * [Terms & Conditions](https://www.blueland.com/terms-and-conditions)
 * [Privacy Policy](https://www.blueland.com/privacy-policy)
 
+* Your Privacy Choices
+    
+
 Copyright 2024 Blueland
 
 * Copyright 2024 Blueland
@@ -360,6 +362,9 @@ Copyright 2024 Blueland
 * [hello@blueland.com](https://help.blueland.com/en-US/contact)
 * [Terms & Conditions](https://www.blueland.com/terms-and-conditions)
 * [Privacy Policy](https://www.blueland.com/privacy-policy)
+
+* Your Privacy Choices
+    
 
 * ![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2760%27%20height=%2791%27/%3e)![B Corp Certification](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
@@ -381,9 +386,9 @@ Your cart is empty
 Explore Our Bestsellers
 -----------------------
 
-[![variant image](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+[![The Clean Suite](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-![variant image](https://cdn.sanity.io/images/d864s8gp/production/19839a6eb31009ffc3669f499a3e18f34e917f14-1790x1790.jpg?w=900&q=100&fit=clip&auto=format)
+![The Clean Suite](https://cdn.sanity.io/images/d864s8gp/production/19839a6eb31009ffc3669f499a3e18f34e917f14-1790x1790.jpg?w=900&q=100&fit=clip&auto=format)
 
 ![secondary image](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
@@ -391,39 +396,20 @@ Explore Our Bestsellers
 
 Bestseller
 
-35% Kit Savings](https://www.blueland.com/products/the-clean-suite)
+25% Kit Savings](https://www.blueland.com/products/the-clean-suite)
 
-[Clean Suite Kit](https://www.blueland.com/products/the-clean-suite)$98
-
-
----------------------------------------------------------------------------
-
-No Reviews Yet
-
-Quick Add
-
-[![variant image](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-
-![variant image](https://cdn.sanity.io/images/d864s8gp/production/2e46733af800be2cc09cc939f9830e73b4214878-1790x1790.jpg?w=900&q=100&fit=clip&auto=format)
-
-![secondary image](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-
-![secondary image](https://cdn.sanity.io/images/d864s8gp/production/910c33ef238743e5823dceb282897ab6a83c0434-1790x1790.jpg?w=900&q=100&fit=clip&auto=format)
-
-Bestseller](https://www.blueland.com/products/hand-soap-refill-packs)
-
-[Hand Soap Refill Packs](https://www.blueland.com/products/hand-soap-refill-packs)$12.50
+[Clean Suite Kit](https://www.blueland.com/products/the-clean-suite)$112
 
 
---------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------
 
 No Reviews Yet
 
 Quick Add
 
-[![variant image](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+[![Blueland Dishwasher Tablets Starter Set](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-![variant image](https://cdn.sanity.io/images/d864s8gp/production/f73028225df35b05bf6cca1e3f36556478c0e2f1-1790x1790.jpg?w=900&q=100&fit=clip&auto=format)
+![Blueland Dishwasher Tablets Starter Set](https://cdn.sanity.io/images/d864s8gp/production/f73028225df35b05bf6cca1e3f36556478c0e2f1-1790x1790.jpg?w=900&q=100&fit=clip&auto=format)
 
 ![secondary image](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
@@ -440,9 +426,9 @@ No Reviews Yet
 
 Quick Add
 
-[![variant image](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+[![Laundry Starter Set](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-![variant image](https://cdn.sanity.io/images/d864s8gp/production/7025db7b813ff428d0930a54bd5579603e9b2600-1790x1790.jpg?w=900&q=100&fit=clip&auto=format)](https://www.blueland.com/products/laundry-starter-set)
+![Laundry Starter Set](https://cdn.sanity.io/images/d864s8gp/production/7025db7b813ff428d0930a54bd5579603e9b2600-1790x1790.jpg?w=900&q=100&fit=clip&auto=format)](https://www.blueland.com/products/laundry-starter-set)
 
 [Laundry Starter Set](https://www.blueland.com/products/laundry-starter-set)$25
 
@@ -453,9 +439,9 @@ No Reviews Yet
 
 Quick Add
 
-[![variant image](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+[![Toilet Bowl Cleaner Starter Set](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-![variant image](https://cdn.sanity.io/images/d864s8gp/production/144dfa9bd95f9339c6944e054ed6e8943612eff6-1790x1790.jpg?w=900&q=100&fit=clip&auto=format)
+![Toilet Bowl Cleaner Starter Set](https://cdn.sanity.io/images/d864s8gp/production/144dfa9bd95f9339c6944e054ed6e8943612eff6-1790x1790.jpg?w=900&q=100&fit=clip&auto=format)
 
 ![secondary image](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
