@@ -1,4 +1,4 @@
-VPN IP check: 51.195.149.220 UNITED KINGDOM
+VPN IP check: 2001:41d0:801:1000::9de UNITED STATES
 
 English اللغه العربيه Русский 中國的 فارسی Türk اردو
 
@@ -187,10 +187,6 @@ TECHNICAL SUPPORT**
   
   
   
-
-**To provide a better user experience, we use cookies. By clicking or navigating the site, you agree to allow our collection of information.**
-
-X
 
 © 2014 bVPN: The Best VPN - Virtual private network Service Provider with Smoke Tunnel.
 
