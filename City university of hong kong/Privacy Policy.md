@@ -16,7 +16,7 @@ Search Keywords  Submit Search
 * [E-Resources](https://www.cityu.edu.hk/lib/eres/index.htm)
     * [E-Resources News](http://twitter.com/cityulib_eres)
     * Databases
-        * [By Title](https://lbsystem.lib.cityu.edu.hk/ereslist/index.php?type=db&alpha=a)
+        * [By Title](https://lbsystem.lib.cityu.edu.hk/ereslist/index.php?type=db&alltitle=y)
         * [By Subject](https://lbsystem.lib.cityu.edu.hk/ereslist/db_subject.htm)
         * [By Type](https://lbsystem.lib.cityu.edu.hk/ereslist/db_source.htm)
         * [New Titles](https://lbsystem.lib.cityu.edu.hk/ereslist/index.php?type=db&new=y)
@@ -267,7 +267,7 @@ The Run Run Shaw Library website contains links to other independently run websi
 
 * [E-Resources](https://www.cityu.edu.hk/lib/eres/index.htm)
     * [E-Resources News](http://twitter.com/cityulib_eres)
-    * [Databases](https://lbsystem.lib.cityu.edu.hk/ereslist/index.php?type=db&alpha=a)
+    * [Databases](https://lbsystem.lib.cityu.edu.hk/ereslist/index.php?type=db&alltitle=y)
     * [E-Books](https://lbsystem.lib.cityu.edu.hk/ereslist/index.php?type=db&format=srctype&srctype=ebook)
     * [E-Journals](https://julac.hosted.exlibrisgroup.com/primo-explore/jsearch?vid=CUH&lang=en_US)
     * [E-Theses](https://libguides.library.cityu.edu.hk/thes)
