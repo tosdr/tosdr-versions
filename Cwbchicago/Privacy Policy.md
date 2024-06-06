@@ -244,39 +244,39 @@ This privacy policy was created in party by using [Termly’s Privacy Policy Ge
 
 [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20326%20245'%3E%3C/svg%3E)
 
-![](https://cwbchicago.com/wp-content/uploads/2024/05/JH-223341-suspect-326x245.jpg)](https://cwbchicago.com/2024/05/south-loop-chicago-police-search-for-suspect.html "Suspect sought in violent South Loop attack")
+![](https://cwbchicago.com/wp-content/uploads/2024/06/2600-block-west-gunnison-chicago-citizen-326x245.jpg)](https://cwbchicago.com/2024/06/chicago-police-recruit-shot-while-driving-in-ravenswood.html "Chicago police recruit shot while driving in Ravenswood")
 
-South Loop
+Lincoln Square
 
-### [Suspect sought in violent South Loop attack](https://cwbchicago.com/2024/05/south-loop-chicago-police-search-for-suspect.html "Suspect sought in violent South Loop attack")
+### [Chicago police recruit shot while driving in Ravenswood](https://cwbchicago.com/2024/06/chicago-police-recruit-shot-while-driving-in-ravenswood.html "Chicago police recruit shot while driving in Ravenswood")
 
-[May 18, 2024 6:39 AM](https://cwbchicago.com/2024/05)
+[June 4, 2024 6:51 AM](https://cwbchicago.com/2024/06)
 
-A violent attack in the South Loop last month remains unsolved, and Chicago police are turning to the public for help.[](https://cwbchicago.com/2024/05/south-loop-chicago-police-search-for-suspect.html "Suspect sought in violent South Loop attack")
-
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20326%20245'%3E%3C/svg%3E)
-
-![](https://cwbchicago.com/wp-content/uploads/2024/05/Raphael-Hammond-case-3-326x245.jpg)](https://cwbchicago.com/2024/05/wrigleyville-chicago-shooting-federal-weapons-charge-filed.html "Federal gun charge filed against man targeted in Wrigleyville double-shooting")
-
-Wrigleyville
-
-### [Federal gun charge filed against man targeted in Wrigleyville double-shooting](https://cwbchicago.com/2024/05/wrigleyville-chicago-shooting-federal-weapons-charge-filed.html "Federal gun charge filed against man targeted in Wrigleyville double-shooting")
-
-[May 18, 2024 5:35 AM](https://cwbchicago.com/2024/05)
-
-The man who was apparently targeted, but not hurt, in a shooting that left two other people injured across from Wrigley Field this month has been charged with a federal firearms violation.[](https://cwbchicago.com/2024/05/wrigleyville-chicago-shooting-federal-weapons-charge-filed.html "Federal gun charge filed against man targeted in Wrigleyville double-shooting")
+A Chicago police recruit suffered a gunshot wound to his back while driving in Ravenswood overnight, police said. The victim’s 21-year-old passenger, also believed to be a male CPD recruit, was not injured.[](https://cwbchicago.com/2024/06/chicago-police-recruit-shot-while-driving-in-ravenswood.html "Chicago police recruit shot while driving in Ravenswood")
 
 [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20326%20245'%3E%3C/svg%3E)
 
-![](https://cwbchicago.com/wp-content/uploads/2024/05/Silvana-Tabares-and-Kim-Foxx-326x245.jpg)](https://cwbchicago.com/2024/05/chicago-alderman-blasts-kim-foxx-traffic-stop-plan.html "Kim Foxx is ‘the biggest pro-criminal advocate in the nation,’ alderman fumes as outgoing prosecutor plans to reject charges stemming from most traffic stops")
+![](https://cwbchicago.com/wp-content/uploads/2024/06/Jermaine-Fowlkes-326x245.jpg)](https://cwbchicago.com/2024/06/man-who-tried-to-sexually-assault-2-women-in-2-days-could-have-been-arrested-days-earlier-but-a-chicago-police-supervisor-decided-to-let-him-go-report.html "Man who tried to sexually assault 2 women in 2 days could have been arrested days earlier, but a Chicago police supervisor decided to let him go: report")
 
 Citywide
 
-### [Kim Foxx is ‘the biggest pro-criminal advocate in the nation,’ alderman fumes as outgoing prosecutor plans to reject charges stemming from most traffic stops](https://cwbchicago.com/2024/05/chicago-alderman-blasts-kim-foxx-traffic-stop-plan.html "Kim Foxx is ‘the biggest pro-criminal advocate in the nation,’ alderman fumes as outgoing prosecutor plans to reject charges stemming from most traffic stops")
+### [Man who tried to sexually assault 2 women in 2 days could have been arrested days earlier, but a Chicago police supervisor decided to let him go: report](https://cwbchicago.com/2024/06/man-who-tried-to-sexually-assault-2-women-in-2-days-could-have-been-arrested-days-earlier-but-a-chicago-police-supervisor-decided-to-let-him-go-report.html "Man who tried to sexually assault 2 women in 2 days could have been arrested days earlier, but a Chicago police supervisor decided to let him go: report")
 
-[May 17, 2024 10:01 AM](https://cwbchicago.com/2024/05)
+[June 3, 2024 8:11 PM](https://cwbchicago.com/2024/06)
 
-A Chicago alderman blasted Cook County State’s Attorney Kim Foxx as “the biggest pro-criminal advocate in the nation” after Foxx revealed plans not to prosecute crimes based on evidence police discover during most traffic stops.[](https://cwbchicago.com/2024/05/chicago-alderman-blasts-kim-foxx-traffic-stop-plan.html "Kim Foxx is ‘the biggest pro-criminal advocate in the nation,’ alderman fumes as outgoing prosecutor plans to reject charges stemming from most traffic stops")
+A Chicago man accused of trying to sexually assault two women in two days could have been arrested nearly two weeks before the attacks after three women accused him of grabbing them in Marquette Park. But a Chicago police sergeant decided not to take him into custody, a CPD report said[](https://cwbchicago.com/2024/06/man-who-tried-to-sexually-assault-2-women-in-2-days-could-have-been-arrested-days-earlier-but-a-chicago-police-supervisor-decided-to-let-him-go-report.html "Man who tried to sexually assault 2 women in 2 days could have been arrested days earlier, but a Chicago police supervisor decided to let him go: report")
+
+[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20326%20245'%3E%3C/svg%3E)
+
+![](https://cwbchicago.com/wp-content/uploads/2024/06/26-w-van-buren-326x245.jpg)](https://cwbchicago.com/2024/06/man-found-unresponsive-on-loop-sidewalk-died-from-combination-of-street-drugs-medical-examiner.html "Man found unresponsive on Loop sidewalk died from combination of street drugs: medical examiner")
+
+Loop
+
+### [Man found unresponsive on Loop sidewalk died from combination of street drugs: medical examiner](https://cwbchicago.com/2024/06/man-found-unresponsive-on-loop-sidewalk-died-from-combination-of-street-drugs-medical-examiner.html "Man found unresponsive on Loop sidewalk died from combination of street drugs: medical examiner")
+
+[June 3, 2024 7:13 AM](https://cwbchicago.com/2024/06)
+
+The man who died after being found unresponsive on a Loop sidewalk on April 10 died from a toxic combination of street drugs, according to the Cook County medical examiner’s office.[](https://cwbchicago.com/2024/06/man-found-unresponsive-on-loop-sidewalk-died-from-combination-of-street-drugs-medical-examiner.html "Man found unresponsive on Loop sidewalk died from combination of street drugs: medical examiner")
 
 Search
 
@@ -292,7 +292,7 @@ Email \*
 
 Message \*
 
-Email
+Comment
 
 Submit
 
