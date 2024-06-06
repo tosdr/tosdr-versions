@@ -1,0 +1,242 @@
+ [![TRUSTe](//privacy-policy.truste.com/privacy-seal/seal?rid=ce211316-dfd0-4abb-8bfb-9cb70de1e37c)](https://privacy.truste.com/privacy-seal/validation?rid=ce211316-dfd0-4abb-8bfb-9cb70de1e37c)[![TRUSTe](//privacy-policy.truste.com/privacy-seal/seal?rid=01b0263e-277d-4e52-9ddd-86550128ec1a)](https://privacy.truste.com/privacy-seal/validation?rid=01b0263e-277d-4e52-9ddd-86550128ec1a)
+
+Effective December 2023
+
+Humble Bundle, Inc., with its affiliates, subsidiaries, and parent company, Ziff Davis, Inc., (collectively, **"Humble Bundle"**) is a digital storefront for video games, acts as a video game publisher and owns, operates or provides access to interactive websites, mobile applications and other interactive features and services provides, which provide a community for developers and players. Humble Bundle values your privacy and is committed to protecting the privacy of your information.
+
+This Privacy Policy (or "policy") describes how Humble Bundle uses the personal information you provide and the rights you have. We have created this [privacy portal](https://dsar.humblebundle.com/) to help you exercise your rights.
+
+1. [Privacy Policy Overview](#policy-overview)
+2. [Information We Collect, Receive and Create About You](#policy-information)
+3. [Data Processing and Retention](#policy-processing)
+4. [Sensitive Personal Information](#policy-sensitive-information)
+5. [Direct Marketing](#policy-direct-marketing)
+6. [Behavioral Advertising](#policy-behavioral-advertising)
+7. [Cookies](#policy-cookies)
+8. [Information We Share With Third Parties](#policy-third-party)
+9. [International Transfers of Information](#policy-international-transfer)
+10. [Data Security and Breach Handling](#policy-data-security)
+11. [How to Control your Information](#policy-data-retention)
+12. [Your Rights with Respect to Your Personal Information](#policy-data-rights)
+13. [How to Change Your Preferences](#policy-data-preferences)
+14. [Contact Details](#policy-contact-details)
+15. [Children](#policy-children)
+16. [California Consumer Rights Metrics](#policy-california)
+17. [How this Privacy Policy May Change](#policy-changes)
+
+1\. Privacy Policy Overview
+---------------------------
+
+Humble Bundle owns and operates several interactive websites, mobile and connected applications, including their and other online interactive features and services (collectively "services" or "our services").
+
+This policy covers information collected through the following websites and mobile applications.
+
+* [Humble Bundle](https://www.humblebundle.com/)
+* [Humble Games](https://www.humblegames.com/)
+* [Black Game Developers Fund](https://blackgamedevfund.com/)
+* [Humble Collection App](https://www.humblebundle.com/membership/collection)
+
+In part, the purpose of this policy is to notify users of Humble Bundle’s policies and practices with respect to their data. By using the services provided you have agreed to the [Terms of Use](https://www.humblebundle.com/terms) (or ToU); and this policy is a part of the ToU.
+
+2\. Information We Collect, Receive and Create about You
+--------------------------------------------------------
+
+We may collect or obtain information about you when you sign up, when you create profiles, pages or contributions, when you use and interact with our services and when you make your personal information public. In some cases, we may also receive information about you from third parties.
+
+**Data you provide when you sign up:** This is, for example, name, username, password, subscription information, and basic information about any other accounts you choose to associate with your registration, like your Apple, Facebook, or Google account.
+
+**Data you provide when you create profiles, pages or contributions:** This is user generated contributions, such as the contents of profiles, including your profile name, contact details and any demographic information you choose to provide; as well as any comments and posts made about us on social platforms or in the services. We seek to provide users with an opportunity to be a part of an online community and communicate and share with others. This can include personal information that users choose to share. We encourage all of our users to make conscious choices about what they share online. Humble Bundle, including its affiliates, subsidiaries and parent company, is not responsible for the information you disclose to the public using our services.
+
+**Inferences:** We may infer data about you based on your interests, where you live, what language(s) you speak, and other data we have access to.
+
+**Data we collect through your use of our services:** We make and keep records when we provide you support or assistance on our services. We may also collect information about how you interact with our various services (or parts of our services) or third party content you see on our apps and sites. We also collect data on how you interact with the ads you see.
+
+**Data we receive from third parties:** In some cases, we may receive information about you from third parties, for example, social networking sites. Please note that this policy does not cover the practices of third parties, including those that may disclose information to us.
+
+3\. Data Processing and Retention
+---------------------------------
+
+We process your personal information in order to provide you the best experience of our services. We may also process your Information where the processing is necessary for the establishment, exercise or defense of legal rights.
+
+Below is a chart stating which categories of your personal information we process for which purposes specifically, and how long we retain that data. Our processing of your data is subject to your use of our service, your privacy preferences, and your account settings choices.
+
+|     |     |     |
+| --- | --- | --- |
+| **Personal Information**<br><br>We may process the following categories of personal Information about you. |     |     |
+| **Categories of personal information** | **Purpose of processing**<br><br>**\_\_\_\_\_\_\_\_\_\_**<br><br>**_legal basis_** | **Retention Period** |
+| **Account Information (Personal Details):** Information you provide to us such as, your name; postal address; telephone and/or mobile number; email address; login details, including username and password; and interests; public social media handles or profile(s). | Provide use of our services as agreed in the ToU.<br><br>Operating and improving our services.<br><br>Conducting surveys, contests & sweepstakes.<br><br>Communicating with users by any means.<br><br>Advertising.<br><br>Identification and development of audience engagement.<br><br>User engagement related to your purchases.<br><br>Fraud prevention.<br><br>Marketing with consent to customers.<br><br>Administration of HB’s information technology systems.<br><br>Electronic security measures.<br><br>Management of financial planning, reporting and development.<br><br>Investigating breaches of policy or criminal offenses in accordance with applicable law.<br><br>Legal proceedings.<br><br>Legal compliance.<br><br>Payment processing for third party developers’ games who do not have the ability to handle such operations.<br><br>_\_\_\_\_\_\_\_\_\_\__<br><br>_Legitimate interest_<br><br>_Consent_<br><br>_Performance of contract_<br><br>_Compliance with applicable law_ | For the life of the account and a reasonable and legally compliant time thereafter. |
+| **Consent Records:** records of any consents you may have given, together with the date and time, means of consent and any related information (e.g., the subject matter of the consent). | Provide use of our services as agreed in the ToU.<br><br>Operating and improving our services.<br><br>Conducting surveys, contests & sweepstakes.<br><br>Communicating with users by any means.<br><br>Advertising.<br><br>Identification and development of audience engagement.<br><br>User engagement related to your purchases.<br><br>Fraud prevention.<br><br>Marketing with consent to customers.<br><br>Administration of HB’s information technology systems.<br><br>Electronic security measures.<br><br>Management of financial planning, reporting and development.<br><br>Investigating breaches of policy or criminal offenses in accordance with applicable law.<br><br>Legal proceedings.<br><br>Legal compliance.<br><br>Payment processing for third party developers’ games who do not have the ability to handle such operations.<br><br>_\_\_\_\_\_\_\_\_\_\_\__<br><br>_Legitimate interest_<br><br>_Consent_<br><br>_Performance of contract_<br><br>_Compliance with applicable law_ | For the life of the account and a reasonable and legally compliant time thereafter. |
+| **Customer Records:** electronic customer records containing personal information, such as name, signature, address, telephone number, or any financial information. We may also collect Personal Data information about you through your communications with our customer support team.<br><br>  <br><br>NOTE: Please ensure that no sensitive personal data is submitted in connection with your requests for support (for example, health information, political or religious beliefs, information about minors, etc.). | Provide use of our services as agreed in the ToU.<br><br>Operating and improving our services.<br><br>Conducting surveys, contests & sweepstakes.<br><br>Communicating with users by any means.<br><br>Advertising.<br><br>Identification and development of audience engagement.<br><br>User engagement related to your purchases.<br><br>Fraud prevention.<br><br>Marketing with consent to customers.<br><br>Administration of HB’s information technology systems.<br><br>Electronic security measures.<br><br>Management of financial planning, reporting and development.<br><br>Investigating breaches of policy or criminal offenses in accordance with applicable law.<br><br>Legal proceedings.<br><br>Legal compliance.<br><br>Payment processing for third party developers’ games who do not have the ability to handle such operations.<br><br>\_\_\_\_\_\_\_\_\_\_\_\_<br><br>_Legitimate Interest_<br><br>_Consent_<br><br>_Performance of contract_<br><br>_Compliance with applicable law_ | Customer records will be kept in accordance with applicable laws. |
+| **Demographic Information:** Information such as, gender; age/date of birth; language preferences. | Provide use of our services as agreed in the ToU.<br><br>Operating and improving our services.<br><br>Conducting surveys, contests & sweepstakes.<br><br>Communicating with users by any means.<br><br>Advertising.<br><br>Identification and development of audience engagement.<br><br>User engagement related to your purchases.<br><br>Fraud prevention.<br><br>Marketing with consent to customers.<br><br>Administration of HB’s information technology systems.<br><br>Electronic security measures.<br><br>Management of financial planning, reporting and development.<br><br>Investigating breaches of policy or criminal offenses in accordance with applicable law.<br><br>Legal proceedings.<br><br>Legal compliance.<br><br>Payment processing for third party developers’ games who do not have the ability to handle such operations.<br><br>_\_\_\_\_\_\_\_\_\_\_\_\__<br><br>_Legitimate Interest_<br><br>_Consent_<br><br>_Performance of contract_<br><br>_Compliance with applicable law_ | For the life of the account and a reasonable and legally compliant time thereafter. |
+| **Location Information:** We collect your IP address from which we can derive imprecise location information, for example, at the city or zip code level, of a user’s computer or device. We may also have this type of location information if you provide it to us during sign up or in your profile, project page, or contributions. | Provide use of our services as agreed in the ToU.<br><br>Operating and improving our services.<br><br>Conducting surveys, contests & sweepstakes.<br><br>Communicating with users by any means.<br><br>Advertising.<br><br>Identification and development of audience engagement.<br><br>User engagement related to your purchases.<br><br>Fraud prevention.<br><br>Marketing with consent to customers.<br><br>Administration of HB’s information technology systems.<br><br>Electronic security measures.<br><br>Management of financial planning, reporting and development.<br><br>Investigating breaches of policy or criminal offenses in accordance with applicable law.<br><br>Legal proceedings.<br><br>Legal compliance.<br><br>Payment processing for third party developers’ games who do not have the ability to handle such operations.<br><br>\_\_\_\_\_\_\_\_\_\_\_\_<br><br>_Legitimate Interest_<br><br>_Consent_<br><br>_Performance of contract_<br><br>_Compliance with applicable law_ | For the life of the account and a reasonable and legally compliant time thereafter. |
+| **Inferences:** Inferences drawn from personal information reflecting your preferences, characteristics, predispositions, behavior, and attitudes. | Provide use of our services as agreed in the ToU.<br><br>Operating and improving our services.<br><br>Conducting surveys, contests & sweepstakes.<br><br>Communicating with users by any means.<br><br>Advertising.<br><br>Identification and development of audience engagement.<br><br>User engagement related to your purchases.<br><br>Fraud prevention.<br><br>Marketing with consent to customers.<br><br>Administration of HB’s information technology systems.<br><br>Electronic security measures.<br><br>Management of financial planning, reporting and development.<br><br>Investigating breaches of policy or criminal offenses in accordance with applicable law.<br><br>Legal proceedings.<br><br>Legal compliance.<br><br>Payment processing for third party developers’ games who do not have the ability to handle such operations.<br><br>_\_\_\_\_\_\_\_\_\_\_\_\__<br><br>_Legitimate Interest_<br><br>_Consent_<br><br>_Performance of contract_<br><br>_Compliance with applicable law_ | For the life of the account and a reasonable and legally compliant time thereafter. |
+| **Transaction Information:** information on how you interact with the Services, including records of products or services purchased, obtained or considered such as the coupons you view and redeem, the gift cards you purchase or sell via our Services, how much you choose to pay and which charities you designate as recipients of your money; invoice records; financial information related to your transactions, information about you as needed to administer your participation in our rewards programs; payment information, including payment card number, expiration date, and CVN; billing address, payment method, cardholder or account holder name, payment amount and payment date; other information about how you use our Services, email, or searches for and interactions with e-commerce opportunities, such as how you interact with our merchants, business partners, and service providers, including, in some cases and where your settings permit, the items you purchase from those merchants. | Provide use of our services as agreed in the ToU.<br><br>Operating and improving our services.<br><br>Conducting surveys, contests & sweepstakes.<br><br>Communicating with users by any means.<br><br>Advertising.<br><br>Identification and development of audience engagement.<br><br>User engagement related to your purchases.<br><br>Fraud prevention.<br><br>Marketing with consent to customers.<br><br>Administration of HB’s information technology systems.<br><br>Electronic security measures.<br><br>Management of financial planning, reporting and development.<br><br>Investigating breaches of policy or criminal offenses in accordance with applicable law.<br><br>Legal proceedings.<br><br>Legal compliance.<br><br>Payment processing for third party developers’ games who do not have the ability to handle such operations.<br><br>_\_\_\_\_\_\_\_\_\_\_\_\_\__<br><br>_Performance of a contract_<br><br>_Legitimate Interest Consent_<br><br>_Compliance with applicable law_ | For the life of the account and a reasonable and legally compliant time thereafter. |
+| **Device Information and Device ID:** Device ID, which is a distinctive number associated with a smartphone or similar handheld device. As well as, device information, including Device type, operating system and software information, and settings. | Provide use of our services as agreed in the ToU.<br><br>Operating and improving our services.<br><br>Conducting surveys, contests & sweepstakes.<br><br>Communicating with users by any means.<br><br>Advertising.<br><br>Identification and development of audience engagement.<br><br>User engagement related to your purchases.<br><br>Fraud prevention.<br><br>Marketing with consent to customers.<br><br>Administration of HB’s information technology systems.<br><br>Electronic security measures.<br><br>Management of financial planning, reporting and development.<br><br>Investigating breaches of policy or criminal offenses in accordance with applicable law.<br><br>Legal proceedings.<br><br>Legal compliance.<br><br>Payment processing for third party developers’ games who do not have the ability to handle such operations.<br><br>_\_\_\_\_\_\_\_\_\_\_\_\__<br><br>_Legitimate Interest_<br><br>_Consent_<br><br>_Performance of contract_<br><br>_Compliance with applicable law_ | For the life of the account and a reasonable and legally compliant time thereafter. |
+| **Advertising Identifiers:** A user-resettable identification number for advertising associated with a device (e.g., iOS uses the Identifier for Advertising (IDFA) and Android uses Google Advertising ID). | Provide use of our services as agreed in the ToU.<br><br>Operating and improving our services.<br><br>Conducting surveys, contests & sweepstakes.<br><br>Communicating with users by any means.<br><br>Advertising.<br><br>Identification and development of audience engagement.<br><br>User engagement related to your purchases.<br><br>Fraud prevention.<br><br>Marketing with consent to customers.<br><br>Administration of HB’s information technology systems.<br><br>Electronic security measures.<br><br>Management of financial planning, reporting and development.<br><br>Investigating breaches of policy or criminal offenses in accordance with applicable law.<br><br>Legal proceedings.<br><br>Legal compliance.<br><br>Payment processing for third party developers’ games who do not have the ability to handle such operations.<br><br>_\_\_\_\_\_\_\_\_\__<br><br>_Legitimate Interest_<br><br>_Consent_<br><br>_Performance of contract_<br><br>_Compliance with applicable law_ | For the life of the account and a reasonable and legally compliant time thereafter. |
+| **Cookies**: Information collected through the use of cookies, eTags, Javascript, pixel tags, web beacons, device ID tracking, anonymous identifiers and other technologies, including information collected using such methods and technologies about (i) your visits to, and interaction and engagement with, the Services, Subject to your privacy choices and settings, content and ads on third party websites, applications, platforms and other media channels (“**Channels**”), and (ii) your interaction with emails including the content and ads therein (collectively, “**Online Data**”). | Provide use of our services as agreed in the ToU.<br><br>Operating and improving our services.<br><br>Conducting surveys, contests & sweepstakes.<br><br>Communicating with users by any means.<br><br>Advertising.<br><br>Identification and development of audience engagement.<br><br>User engagement related to your purchases.<br><br>Fraud prevention.<br><br>Marketing with consent to customers.<br><br>Administration of HB's information technology systems.<br><br>Electronic security measures.<br><br>Management of financial planning, reporting and development.<br><br>Investigating breaches of policy or criminal offenses in accordance with applicable law.<br><br>Legal proceedings.<br><br>Legal compliance.<br><br>Payment processing for third party developers’ games who do not have the ability to handle such operations.<br><br>_\_\_\_\_\_\_\_\_\__<br><br>_Legitimate Interest_<br><br>_Consent_<br><br>_Performance of contract_<br><br>_Compliance with applicable law_ | In compliance with the Cookie Policy |
+| **Engagement Data:** Information about (i) your visits to, and interaction and engagement with the services, content and ads on third party websites, applications, platforms and other media channels (“**Channels**”), and (ii) your interaction with emails including the content and ads therein (collectively, “**Online Data**”), which are collected through the use of cookies and cookie like technologies. | Provide use of our services as agreed in the ToU.<br><br>Operating and improving our services.<br><br>Conducting surveys, contests & sweepstakes.<br><br>Communicating with users by any means.<br><br>Advertising.<br><br>Identification and development of audience engagement.<br><br>User engagement related to your purchases.<br><br>Fraud prevention.<br><br>Marketing with consent to customers.<br><br>Administration of HB’s information technology systems.<br><br>Electronic security measures.<br><br>Management of financial planning, reporting and development.<br><br>Investigating breaches of policy or criminal offenses in accordance with applicable law.<br><br>Legal proceedings.<br><br>Legal compliance.<br><br>Payment processing for third party developers’ games who do not have the ability to handle such operations.<br><br>\_\_\_\_\_\_\_\_\_\_\_\_<br><br>_Legitimate Interest_<br><br>_Consent_<br><br>_Performance of contract_<br><br>_Compliance with applicable law_ | In compliance with the Cookie Policy |
+
+4\. Sensitive Personal Information
+----------------------------------
+
+We do not seek to collect or process sensitive personal information, such as, race or ethnicity, political opinions, religious or philosophical beliefs, trade union membership, physical or mental health, or sex life. Where users choose to disclose sensitive personal information within profiles, contributions or other free-text fields available through Humble Bundle, we do not use the sensitive information for any additional purpose without consent, unless required to comply with laws, or prevent crimes.
+
+5\. Direct Marketing
+--------------------
+
+We may use the contact details you provided us to reach out to you with information regarding services that may be of interest to you, for example, upcoming promotions. You may unsubscribe from our newsletter lists at any time by following the unsubscribe instructions included in every email we send.
+
+6\. Behavioral Advertising
+--------------------------
+
+Humble Bundle and third parties, subject to your privacy choices and settings, may collect data about your behavior while using our services in order to provide you with more relevant interest-based advertising on other websites and applications, as well as our partners’ platforms and media channels. If you do not wish to receive this advertising, you can change your preferences by [clicking here](javascript:window.zdconsent.showConsentTool()). The specific providers we use for behavioral advertising may change from time to time.
+
+7\. Cookies
+-----------
+
+We may collect information about you through the use of cookies and similar technologies on our sites and apps, or your devices. In compliance with your privacy choices and settings, we also may permit our third-party service providers to perform various analytics functions and to provide you with more relevant or interest-based advertisements using cookies.
+
+Some third parties may choose to use their own cookies for the purposes of collecting information relating to the viewing of their advertising. To learn more about how we use cookies, and to manage your preferences, please see our [Cookie Policy](http://www.ziffdavis.com/cookie-policy). This policy, and our Cookie Policy, are only intended to cover the use of cookies as they relate to Humble Bundle businesses.
+
+8\. Information We Share with Third Parties
+-------------------------------------------
+
+**Ziff Davis Companies:** Humble Bundle is owned by Ziff Davis Inc. We share your information with other businesses owned by Ziff Davis, Inc. ("Ziff Davis Companies") to assist us in the operation of our services, improve them, and further develop them.
+
+We also share information with other Ziff Davis Companies for the purposes of targeted advertising. If you would like to opt out of the sale or sharing of your data with other Ziff Davis Companies, you can do so via our [privacy portal](https://dsar.humblebundle.com/).
+
+**Other Third Parties:** We may also share your personal information with the following:
+
+* Relevant third party provider, where our services use third party advertising, plugins or content, subject to your privacy choices and settings, and our ToU.
+* Merchants, business partners, or advertisers where you consented and chose to participate in offers, contests, or other activities.
+* third party Processors (such as analytic providers; data centers; etc.), located anywhere in the world, subject to the requirements and limitations;
+* legal and regulatory authorities, upon request, or for the purposes of reporting any actual or suspected breach of applicable law or regulation;
+* Any party as directed by a law enforcement agency or court, to the extent necessary for the establishment, exercise or defense of legal rights;
+* Law enforcement for the purposes of prevention, detection, or investigation of criminal offenses and any legal proceedings associated with them.
+* In the case of a full or partial acquisition, relevant third parties.
+
+9\. International Transfers of Information
+------------------------------------------
+
+We may transfer your information to recipients in other countries. Humble Bundle participates in the E.U.-U.S. Data Privacy Framework, the UK extension to the EU-U.S. DPF, the Swiss-U.S. Privacy Framework and the APEC Cross Border Privacy Rules System. Where we transfer information from the European Economic Area (“EEA”) to a recipient outside the EEA that is not in an adequate jurisdiction, we do so on the basis of standard contractual clauses.
+
+Because of the international nature of our business, we may need to transfer your information within the Ziff Davis Companies, and to third parties as noted above, in connection with the purposes set out in this Policy. For this reason, we may transfer your information to other countries that may have different laws and data protection compliance requirements to those that apply in the country in which you are located.
+
+Humble Bundle and its associated affiliates and subsidiaries complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF) and the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce. Humble Bundle has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union and the United Kingdom in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF. Humble Bundle has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF. If there is any conflict between the terms in this privacy policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern. To learn more about the Data Privacy Framework (DPF) program, and to view our certification, please visit [https://www.dataprivacyframework.gov](https://www.dataprivacyframework.gov/).
+
+We are committed to staying current with developments related to the Data Privacy Framework and may update our transfer mechanisms and safeguards as necessary to remain compliant. Any updates will be reflected in this Privacy Policy.
+
+If you are a European individual with a privacy related complaint, concern or question about Humble Bundle’s privacy practices, please contact us through our [privacy portal](https://dsar.humblebundle.com/). Under certain conditions, more fully described on the Data Privacy Framework website, European individuals may invoke binding arbitration when other dispute resolution procedures have been exhausted. Where we transfer your personal information from the EEA to recipients located outside the EEA who are not in a jurisdiction that has been formally designated by the European Commission as providing an adequate level of protection for information, we do so on the basis of standard contractual clauses. You may request a copy of the relevant standard contractual clauses using our [privacy portal](https://dsar.humblebundle.com/). Please note that when you transfer any personal information directly to an entity established outside the EEA, we are not responsible for that transfer of your information. We will nevertheless process your information, from the point at which we receive the data, in accordance with the provisions of this policy.
+
+**Enforcement Authority**
+
+The Federal Trade Commission has jurisdiction over our compliance with the EU-U.S. Data Privacy Framework (EU-U.S. DPF) and the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF).
+
+**Complaints Mechanism**
+
+In compliance with the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF, Humble Bundle commits to resolve DPF Principles-related complaints about our collection and use of your personal information. EU and UK individuals and Swiss individuals with inquiries or complaints regarding our handling of personal data received in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF should first contact Humble Bundle at [privacy@humblebundle.com](mailto:privacy@humblebundle.com).
+
+In compliance with the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF, Humble Bundle commits to refer unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF to TrustArc, an alternative dispute resolution provider. The services of Trustarc are provided at no cost to you. For further information please visit [https://trustarc.com/dispute-resolution/](https://trustarc.com/dispute-resolution/).
+
+Under certain conditions, a binding arbitration option may be available to you in order to address complaints not resolved by any other means. For further information, please see Annex I of the EU-U.S. Data Privacy Framework Principles at: [https://www.dataprivacyframework.gov/](https://www.dataprivacyframework.gov/).
+
+In compliance with the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF, Humble Bundle commits to cooperate and comply respectively with the advice of the panel established by the EU data protection authorities (DPAs) and the UK Information Commissioner’s Office (ICO) and the Swiss Federal Data Protection and Information Commissioner (FDPIC) with regard to unresolved complaints concerning our handling of human resources data received in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF in the context of the employment relationship.
+
+For a list of our subsidiaries and affiliates who also adhere to the DPF Principles, please click [here](https://www.ziffdavis.com/ziff-davis-inc-entities-self-certified-under-the-data-privacy-framework-dpf).
+
+Our privacy practices described in this Policy comply with the Asia-Pacific Economic Cooperation ("**APEC**") Cross Border Privacy Rules System. To learn more about this program, please click [here](https://cbprs.org/).
+
+10\. Data Security and Breach Handling
+--------------------------------------
+
+We implement appropriate technical and organizational security measures to protect your personal information against unlawful destruction, loss alteration, misuse, or unauthorized access while in our possession. All parties we contract with must agree to provide reasonable data security measures for the customer information we share with them, in compliance with applicable laws and regulations.
+
+If we learn of a security breach that affects our users, we may send an email or other direct communication to you, or post a blog to notify the public on our Help and Support Security Center. If you have any reason to believe that your data with us has been compromised (for example, there has been unauthorized access to your account), please contact us [privacy@humblebundle.com](mailto:privacy@humblebundle.com).
+
+11\. Data Retention
+-------------------
+
+We will retain your personal information for as long as is necessary in connection with the purposes set out in this policy, and in accordance with applicable laws. For more details on how long data is retained see the table in Section 3.
+
+12\. Your Rights With Respect to Your Personal Information
+----------------------------------------------------------
+
+Many privacy regulations afford consumers a number of specific rights. If you are a resident of the EU (under GDPR), UK (under the UK GDPR), Brazil (under the LGPD), several U.S. States, including California (CCPA), Virginia (under VCDPA), Colorado (under the CPA), and Connecticut (under the CTDPA), or another jurisdiction with similar privacy requirements, you have certain rights which may include those listed below.
+
+**Your rights:**
+
+* **Right to Withdraw Consent**: Where you are requested to consent to the processing of your personal information, you have the right to withdraw your consent at any time.
+* **Right to Know**: You have a right to know what personal information we collect, process, and share or sell. This policy is meant to provide transparency with regard to your data. If you have additional questions, you can email us at [privacy@humblebundle.com](mailto:privacy@humblebundle.com).
+* **Right of Access**: You can request a copy of the personal information we have collected about you from us.
+* **Right to Delete/Erase**: You can request us to delete all the information we have collected about you. It is important to note that by exercising your right to deletion you may lose access to your account and any purchases, points or features associated with it. If you wish to cancel your account or request that we no longer use some or all of your information to provide you services, contact us via the details in section 14.
+* **Right to Request Rectification**: If you find that any of your information that we are processing is inaccurate, you can contact us to have your information corrected. In response, we will cancel or remove your information but may retain and use copies of your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. For certain requests, we may require additional information.
+* **Right to Opt-out of the Sale or Sharing for Targeted Ads**: Where you are requested to consent to the processing of your personal information, you have the right to withdraw your consent at any time.
+* **Right to Withdraw Consent**: Under some circumstances we may sell or share the personal data you provide to us to provide ads to you that align with your interests. If you would prefer not to have your data sold or shared, you can opt-out of selling or sharing by submitting a request via [privacy portal](https://dsar.humblebundle.com/) or by emailing [privacy@humblebundle.com](mailto:privacy@humblebundle.com). We may ask for additional information to verify your request.
+* **Right to Object to the Processing**: You can object to our processing of your personal information via our [privacy portal](https://dsar.humblebundle.com/), under certain circumstances. By objecting to processing, you may not be able to access some or all of our services. This right is limited to personal data processed for commercial purposes.
+* **Right to Object to the Use of Sensitive Personal Information**: You have the right to object to our use of your sensitive personal information. Sensitive personal information is information about your health, race, religion, sexual orientation, gender identity, political opinions or philosophical beliefs. You should always be mindful about the personal information you share online, especially when it is sensitive in nature.
+* **Right to Object to Automated Processing**: You have a right to object to the processing of your data for the purposes of automated decision making about you.
+* **Right to Complain (EU,UK, Switzerland)**: Should you wish to raise a complaint about the collection or use of your information, you have the right to do so without prejudice to any other rights you may have. You may lodge a complaint with your local data protection authority.
+* **Right to an Authorized Agent (CA)**: If you would like to make a request on behalf of a California consumer who is a current or former customer, please provide an email from the email address we have on file for the customer authorizing the request. You may also make a request under the California Consumer Privacy Act on behalf of a California consumer if you provide (1) a signed, written permission from the consumer to act on your behalf, and the consumer verifies their own identity directly with us; or (2) proof that the consumer has provided you with power of attorney pursuant to Probate Code sections 4000 to 4465. We may deny a request from an agent that does not submit proof that they have been authorized by the consumer to act on their behalf.
+
+In order to make privacy requests please visit our [privacy portal](https://dsar.humblebundle.com/) and fill out the form. You can also email us at [privacy@humblebundle.com](mailto:privacy@humblebundle.com). Our contact information can be found in the "Contact Details" section below.
+
+You may be required to verify your identity before we can give effect to these rights. If you are making a request on behalf of a user, we require a signed authorization letter from the consumer.
+
+13\. How to Change Your Preferences
+-----------------------------------
+
+You can change your preferences at any time. Below is a list of some of the actions you can take.
+
+_Changing Your Own Information_: Keeping your personal information current helps ensure that we offer you the best information available about our merchants and business partners. You can do several things to help keep your personal information up-to-date. You can login to your Account via a desktop computer and go into your "Settings" to update or delete the information you provided us to use in your profile. We may retain and use copies of your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+_Your Newsletter and Email Subscriptions_. You can opt out or unsubscribe to a newsletter or other email list at any time by following the instructions at the end of the newsletters or emails you receive. Please allow five to ten business days for changes to take effect. On some parts of the Services, member service-related communications are an integral part of the service to which you subscribe and you may continue to receive emails as part of that particular portion of the services, even if you opt out of the newsletters or email list. In these cases, you cancel your account to cease communication. Also note that if you have provided more than one email address to us, you may continue to be contacted unless you request to unsubscribe each email address you have provided, or delete your accounts.
+
+_Direct Mailings, Push Notifications, and Unsubscribing_. Where you have consented to receive marketing communications from us, we will send you emails and/or push notifications (depending on what you have consented to). You may withdraw your consent for email marketing communications (i.e. unsubscribe) at any time by (i) clicking the "Unsubscribe" link in a marketing communication email we send you; or (ii) using the "Settings" page in your account area. You may unsubscribe from web-related notifications at any time through your browser settings. You may also unsubscribe by emailing our support team(s) at the email addresses below. Please allow two working days for this instruction to take effect in all of our systems.
+
+_Opting Out of Tracking_. Currently, our Services do not recognize browser do-not-track signals. However, you may manage how your browser handles cookies and related technologies by adjusting its privacy and security settings. Browsers are different, so refer to instructions related to your browser to learn about cookie-related and other privacy and security settings that may be available. The Help portion of the toolbar on most browsers will tell you how to prevent your computer from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether.
+
+_California Residents_. In accordance with the California Online Privacy Protection Act, we may collect Personal Information about your online activities when you use our services. California’s “Shine the Light” law permits our users who are California residents to request and obtain certain information about any Personal Information disclosed to third parties for direct marketing purposes. If you are a California resident and wish to make such a request or if you wish for us to refrain from gathering your Personal Information, please submit your request in writing to us using the contact details in Section 14.
+
+14\. Contact Details
+--------------------
+
+You can submit privacy related inquiries to our [privacy portal](https://dsar.humblebundle.com/).
+
+For any additional questions, you can contact us by emailing [privacy@humblebundle.com](mailto:privacy@humblebundle.com) or at the following address:
+
+Ziff Davis
+
+Attention: Legal Department
+
+114 Fifth Avenue, 15th Floor
+
+New York, NY 10011
+
+We have registered our DPO with the Irish Data Protection Commission. If you have any questions or concerns about our privacy practices, we encourage you to contact our DPO at the following email address [dpo@ziffdavis.com](mailto:dpo@ziffdavis.com) or at the following address:
+
+Ziff Davis
+
+Attention: Legal Department
+
+Unit. 3.1, Woodford Business Park
+
+Santry,
+
+Dublin 17
+
+Ireland
+
+15\. Children
+-------------
+
+We do not target children for the use of our services, especially those under 18. We reserve the right to remove a user’s account at any time, when necessary, if we discover that a user is under the required age limit for the service. If you have reason to believe we have collected personal information from someone under 18, please report it to us so we can take appropriate steps to rectify this.
+
+16\. California Consumer Rights Metrics
+---------------------------------------
+
+Pursuant to the California privacy regulations, our consumer rights metrics can be found on our [Regulatory Information Site](https://www.ziffdavis.com/regulatory-information).
+
+17\. How this Privacy Policy May Change
+---------------------------------------
+
+This policy may be amended or updated from time to time at our discretion. Any updates will be effective at the time of publication, unless specified otherwise. Your continued use of our services after the publication of a policy update constitutes your consent to the changes. We will notify you prior to making policy updates that materially change the way we treat your personal data, and will not use your data in a materially different manner without your consent.
