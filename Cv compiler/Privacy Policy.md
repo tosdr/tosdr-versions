@@ -19,24 +19,8 @@ Improve your resume Powered by Resume Worded, the #1 rated resume review platfor
 Featured on [](https://techcrunch.com/2018/11/21/cvcompiler-is-an-robot-that-fixes-your-resume-to-make-you-more-competitive/)[#1 Product of the Day  
 On ProductHunt](https://www.producthunt.com/posts/cv-compiler)
 
-Select your role to get started
--------------------------------
-
-[Android Developer](https://cvcompiler.com/checker/android-developer-resume-review)
-
-[Data Engineer](https://cvcompiler.com/checker/data-engineer-resume-review)
-
-[DevOps Engineer](https://cvcompiler.com/checker/devops-engineer-resume-review)
-
-[Frontend developer](https://cvcompiler.com/checker/frontend-developer-resume-review)
-
-[Java Developer](https://cvcompiler.com/checker/java-developer-resume-review)
-
-[Product Manager](https://cvcompiler.com/checker/product-manager-resume-review)
-
-[Software Engineer](https://cvcompiler.com/checker/software-engineer-resume-review)
-
-[UI/UX Designer](https://cvcompiler.com/checker/ui-ux-designer-resume-review)
+Learn more about our [ATS resume checker](https://cvcompiler.com/resume-checker) and our [resume fixer](https://cvcompiler.com/resume-fixer) tools.
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
 What do top resumes look like? Check out these expertly-written samples:
 ------------------------------------------------------------------------
@@ -820,6 +804,126 @@ What do top resumes look like? Check out these expertly-written samples:
 [Email Marketing Specialist](https://cvcompiler.com/email-marketing-specialist-resume-examples)
 
 [Territory Sales Manager](https://cvcompiler.com/territory-sales-manager-resume-examples)
+
+[Data Entry](https://cvcompiler.com/data-entry-resume-examples)
+
+[CNA](https://cvcompiler.com/cna-resume-examples)
+
+[Customer Service Representative](https://cvcompiler.com/customer-service-representative-resume-examples)
+
+[Consulting](https://cvcompiler.com/consulting-resume-examples)
+
+[Front-End Developer](https://cvcompiler.com/front-end-developer-resume-examples)
+
+[Computer Science](https://cvcompiler.com/computer-science-resume-examples)
+
+[Medical Assistant](https://cvcompiler.com/medical-assistant-resume-examples)
+
+[Teacher Assistant](https://cvcompiler.com/teacher-assistant-resume-examples)
+
+[Architect](https://cvcompiler.com/architect-resume-examples)
+
+[Front Desk Receptionist](https://cvcompiler.com/front-desk-receptionist-resume-examples)
+
+[Tutor](https://cvcompiler.com/tutor-resume-examples)
+
+[Entry-Level Sales Associate](https://cvcompiler.com/entry-level-sales-associate-resume-examples)
+
+[Sales Associate](https://cvcompiler.com/sales-associate-resume-examples)
+
+[Property Manager](https://cvcompiler.com/property-manager-resume-examples)
+
+[Virtual Assistant](https://cvcompiler.com/virtual-assistant-resume-examples)
+
+[Healthcare](https://cvcompiler.com/healthcare-resume-examples)
+
+[Entry-Level Receptionist](https://cvcompiler.com/entry-level-receptionist-resume-examples)
+
+[Entry-Level Sales Rep](https://cvcompiler.com/entry-level-sales-rep-resume-examples)
+
+[Certified Medical Assistant](https://cvcompiler.com/certified-medical-assistant-resume-examples)
+
+[Entry-Level Customer Service](https://cvcompiler.com/entry-level-customer-service-resume-examples)
+
+[Lawyer](https://cvcompiler.com/lawyer-resume-examples)
+
+[Retail Cashier](https://cvcompiler.com/retail-cashier-resume-examples)
+
+[Fashion Designer](https://cvcompiler.com/fashion-designer-resume-examples)
+
+[Artist](https://cvcompiler.com/artist-resume-examples)
+
+[Inbound Call Center](https://cvcompiler.com/inbound-call-center-resume-examples)
+
+[Childcare Worker](https://cvcompiler.com/childcare-worker-resume-examples)
+
+[Editor](https://cvcompiler.com/editor-resume-examples)
+
+[Substitute Teacher](https://cvcompiler.com/substitute-teacher-resume-examples)
+
+[Professional Teacher](https://cvcompiler.com/professional-teacher-resume-examples)
+
+[Hospitality](https://cvcompiler.com/hospitality-resume-examples)
+
+[Entry-Level Human Resources](https://cvcompiler.com/entry-level-human-resources-resume-examples)
+
+[Flight Attendant](https://cvcompiler.com/flight-attendant-resume-examples)
+
+[First-Year Teacher](https://cvcompiler.com/first-year-teacher-resume-examples)
+
+[Java Developer](https://cvcompiler.com/java-developer-resume-examples)
+
+[Secretary](https://cvcompiler.com/secretary-resume-examples)
+
+[Retail Manager](https://cvcompiler.com/retail-manager-resume-examples)
+
+[IT Support Specialist](https://cvcompiler.com/it-support-specialist-resume-examples)
+
+[HR Assistant](https://cvcompiler.com/hr-assistant-resume-examples)
+
+[Cybersecurity](https://cvcompiler.com/cybersecurity-resume-examples)
+
+[Entry-Level Virtual Assistant](https://cvcompiler.com/entry-level-virtual-assistant-resume-examples)
+
+[QA Engineer](https://cvcompiler.com/qa-engineer-resume-examples)
+
+[Retail Customer Service](https://cvcompiler.com/retail-customer-service-resume-examples)
+
+[Security Guard](https://cvcompiler.com/security-guard-resume-examples)
+
+[Event Manager](https://cvcompiler.com/event-manager-resume-examples)
+
+[Personal Trainer](https://cvcompiler.com/personal-trainer-resume-examples)
+
+[Registered Dental Assistant](https://cvcompiler.com/registered-dental-assistant-resume-examples)
+
+[Human Resources Generalist](https://cvcompiler.com/human-resources-generalist-resume-examples)
+
+[Pharmacy Tech](https://cvcompiler.com/pharmacy-tech-resume-examples)
+
+[Entry-Level Bookkeeper](https://cvcompiler.com/entry-level-bookkeeper-resume-examples)
+
+[Accounts Receivable](https://cvcompiler.com/accounts-receivable-resume-examples)
+
+[Tableau](https://cvcompiler.com/tableau-resume-examples)
+
+[Entry-Level Data Analyst](https://cvcompiler.com/entry-level-data-analyst-resume-examples)
+
+[Social Worker](https://cvcompiler.com/social-worker-resume-examples)
+
+[Remote Customer Service](https://cvcompiler.com/remote-customer-service-resume-examples)
+
+[Licensed Practical Nurse](https://cvcompiler.com/licensed-practical-nurse-resume-examples)
+
+[Public Relations](https://cvcompiler.com/public-relations-resume-examples)
+
+[Personal Assistant](https://cvcompiler.com/personal-assistant-resume-examples)
+
+[Mental Health Counselor](https://cvcompiler.com/mental-health-counselor-resume-examples)
+
+[Communications](https://cvcompiler.com/communications-resume-examples)
+
+[Journalist](https://cvcompiler.com/journalist-resume-examples)
 
 ![Upload resume illustration](uploads-pre-acq/img/upload-illustration.svg)
 
