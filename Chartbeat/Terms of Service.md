@@ -838,7 +838,7 @@ This United States Privacy Law Exhibit (“Exhibit”) supplements the DPA and i
 Products
 --------
 
-* [Chartbeat For Publising](https://chartbeat.com/product/chartbeat-for-publishing/)
+* [Chartbeat For Publishing](https://chartbeat.com/product/chartbeat-for-publishing/)
 * [Datastream](https://chartbeat.com/datastream/)
 
 Resources
