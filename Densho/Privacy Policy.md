@@ -212,3 +212,9 @@ This field is for validation purposes and should be left unchanged.
 * [](https://www.linkedin.com/company/densho/)
 
 Copyright © 2024 Densho
+
+Remembering the past, investing in our future
+
+Donations made throughout our spring campaign will be matched up to $50,000![![](https://densho.org/wp-content/uploads/2023/05/Button-1.png)](https://densho.donorsupport.co/-/XYJVGLUB)
+
+x
