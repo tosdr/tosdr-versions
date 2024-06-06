@@ -1,6 +1,6 @@
 ### Please [enable JavaScript](https://enable-javascript.com/) to use CodeHS
 
-                                      
+                                       
 
 Toggle navigation [![](https://static1.codehs.com/img/brand_logo.png)](https://codehs.com/)
 
@@ -519,7 +519,7 @@ To ask questions or comment on these Terms of Use, the Privacy Policy or our pri
 * [Data](https://codehs.com/progress_tracking)
 * [Write Code](https://codehs.com/explore/sandbox)
 * [Integrations](https://codehs.com/integrations)
-* [AI Tools](https://codehs.com/ai)
+* [AI Tools](https://codehs.com/ai_tools)
 
 #### [Curriculum](https://codehs.com/curriculum)
 
@@ -536,6 +536,7 @@ To ask questions or comment on these Terms of Use, the Privacy Policy or our pri
 * [Tutorials](https://codehs.com/tutorials)
 * [Digital Textbooks](https://codehs.com/textbooks)
 * [AP CSA Hub](https://codehs.com/curriculum/ap-csa)
+* [AI Curriculum](https://codehs.com/ai)
 
 #### [PD](https://codehs.com/pd)
 
