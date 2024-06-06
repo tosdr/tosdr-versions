@@ -1,12 +1,6 @@
 ![](https://www.facebook.com/tr?id=833439704982348&ev=PageView&noscript=1)   
 
-![](https://img.gg.deals/2b/46/36efa4539b68ae7eaaa4b2415cac07fdb6ff_1224cr120_Q100.jpg)
-
-![](https://img.gg.deals/af/5d/ed030f16bb3d5f2190d057f80cafe4cd2d38_2560xt1440_Q100.jpg)
-
-[](https://gg.deals/gb/redirect/f3fceb8824de2c0f798f63ca8b3126cba27f3d40/?utm_source=page%2Fpage)
-
-Region: United Kingdom
+Region: France
 
 * Australia
 * Belgium
@@ -99,14 +93,14 @@ Note: keyshop integration on GG.deals in not completed yet. We will gradually ex
 ### Trending Searches:
 
 * [Ghost of Tsushima](#)
-* [Minecraft](#)
-* [Hades II](#)
+* [Destiny 2 The Final Shape](#)
+* [The Elder Scrolls Online Gold Road](#)
 * [Assassin's Creed Shadows](#)
 * [Elden Ring Shadow of the Erdtree](#)
+* [Hades II](#)
+* [Soulmask](#)
 * [Helldivers 2](#)
-* [Escape from Tarkov](#)
-* [Gray Zone Warfare](#)
-* [GTA 5](#)
+* [Test Drive Unlimited Solar Crown](#)
 * [Xbox Game Pass](#)
 
 * [Sign in through **Steam**](https://gg.deals/user/login/?return=%2Fprivacy)
@@ -279,13 +273,13 @@ Storing the requests sent by the Users to the server does not require any person
 
 12.   In connection with the provided services, personal data may be provided to external entities that provide services to the Operator, including, in particular, to providers responsible for the operation of computer systems, entities that provide legal services and advertising agencies (regarding the marketing services provided for the Operator). In particular, personal data may be entrusted or provided to the following entities and to the following extent:
 
-1)      DigitalOcean ([GDPR](https://gg.deals/gb/redirect/92202a236e283240d6eb3b2c81d9fbafc369e569/?utm_source=page%2Fpage)) – website hosting service, keeping all the data of the Website.
+1)      DigitalOcean ([GDPR](https://gg.deals/fr/redirect/92202a236e283240d6eb3b2c81d9fbafc369e569/?utm_source=page%2Fpage)) – website hosting service, keeping all the data of the Website.
 
-2)      Google Analytics ([GDPR](https://gg.deals/gb/redirect/5e70c8780044fd299e48b0f322503328b6fbd42c/?utm_source=page%2Fpage)) – IP address, browser, location data and history of navigation on the website.
+2)      Google Analytics ([GDPR](https://gg.deals/fr/redirect/5e70c8780044fd299e48b0f322503328b6fbd42c/?utm_source=page%2Fpage)) – IP address, browser, location data and history of navigation on the website.
 
-3)      Hotjar ([GDPR](https://gg.deals/gb/redirect/93ba8073184666557737053eaaf0e5f6933b1533/?utm_source=page%2Fpage)) – data concerning the activity of Guests and the way they use the Website. The system records the way the User navigates the Website and generates maps of clicks on our Website. It also enables the Operator to send surveys to the Users.
+3)      Hotjar ([GDPR](https://gg.deals/fr/redirect/93ba8073184666557737053eaaf0e5f6933b1533/?utm_source=page%2Fpage)) – data concerning the activity of Guests and the way they use the Website. The system records the way the User navigates the Website and generates maps of clicks on our Website. It also enables the Operator to send surveys to the Users.
 
-4)      Disqus ([GDPR](https://gg.deals/gb/redirect/a1c1255cccd41e576e15d58928df2389ce77d768/?utm_source=page%2Fpage)) – IP address, forum account ID, name, address, e-mail and avatar
+4)      Disqus ([GDPR](https://gg.deals/fr/redirect/a1c1255cccd41e576e15d58928df2389ce77d768/?utm_source=page%2Fpage)) – IP address, forum account ID, name, address, e-mail and avatar
 
 5)      Gleam ([GDPR](https://gleam.io/privacy)) – user name, social media profiles, IP address, e-mail address.
 
@@ -329,7 +323,7 @@ Powered by Steam, a registered trademark of Valve Corporation. GG.deals is in no
 * [](https://www.facebook.com/GG.deals.site/)
 * [](https://twitter.com/GGdeals/)
 * [](https://steamcommunity.com/groups/gg_deals)
-* [](https://gg.deals/gb/news/feed/)
+* [](https://gg.deals/fr/news/feed/)
 
 * [Privacy policy](https://gg.deals/privacy/)
 * [Terms & conditions](https://gg.deals/terms/)
