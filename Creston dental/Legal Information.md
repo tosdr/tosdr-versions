@@ -1,6 +1,6 @@
 [skip to main content](#content)
 
-[x](javascript:void(0))
+x
 
 [Losing your Medicaid Coverage? Click HERE](https://www.crestondental.com/insurance-payment-options#insurance-bottom)
 
@@ -138,10 +138,10 @@ Our Locations
 Contact Us
 ----------
 
-* [Call us at 803-590-3054](tel:803-590-3054)
-* [Email us at contactcreston@crestondental.com](mailto:contactcreston@crestondental.com)
+* [803-590-3054](tel:803-590-3054)
+* [contactcreston@crestondental.com](mailto:contactcreston@crestondental.com)
 
-[Visit us on facebook](https://www.facebook.com/Creston-Dental-284145502441056/?__tn__=%2Cd%2CP-R&eid=ARClBjM7yPXRVUZvGMtNzo8qvoBt9p0PRjAXyPrakkE0uQ916ag-qdkdxdTX0ATHQraZx2dEB53i_o3-)
+[](https://www.facebook.com/Creston-Dental-284145502441056/?__tn__=%2Cd%2CP-R&eid=ARClBjM7yPXRVUZvGMtNzo8qvoBt9p0PRjAXyPrakkE0uQ916ag-qdkdxdTX0ATHQraZx2dEB53i_o3-)
 
 © 2024 Creston Dental. All Rights Reserved. [Privacy Policy](https://www.crestondental.com/privacy-policy/) | [Accessibility Policy](https://www.crestondental.com/ada-aca-notice/)
 
