@@ -423,29 +423,33 @@ You also have the right to lodge a complaint regarding the processing of your pe
 
 If you have any specific questions or concerns about privacy and data protection in South Korea, also with regard to previous versions of this privacy policy, please contact the privacy team of DeepL at privacy(at)deepl.com.
 
-### 21.2 Data Deletion and Retention Periods 
+### 21.2 Additional information for usage of DeepL's free service
+
+In addition to section 3, please note that if you enter personal data when using DeepL Translator / Write in the free version contrary to the terms of use, this data may be checked by a human.
+
+### 21.3 Data Deletion and Retention Periods 
 
 As described above, we will process your data for as long as is necessary for the stated purpose and if applicable, to the extent that you have consented to. Subsequently, we will delete your personal data without undue delay. We will permanently destroy any personal data saved in electronic format in a way that it cannot be restored and recovered. Personal information printed on paper will be destroyed by shredding thereof.
 
 However, as outlined above in section 6.2, DeepL is obliged to retain certain personal data of users as required by applicable laws. Relevant laws under Korean law include, in particular, the Act on the Consumer Protection in Electronic Commerce (Article 6) which provides for the retention of data on contract as well as withdrawals and revocations thereof for 5 years, data on the provision of services for 5 years and data on consumer complaints or consumer disputes for 3 years. The Protection of Communications Secrets Act provides in Article 15-2 to retain records of computer communication or internet log and trace data of access point for 3 months.
 
-### 21.3 Data Security and Pseudonymisation
+### 21.4 Data Security and Pseudonymisation
 
 In addition to the measures set out in section 19 of this privacy policy, under the Korean Personal Information Protection Act we take various technical, administrative and physical measures to ensure data security and the security of personal data. For example, we manage access rights to our systems that contain personal data as well as pseudonymized data in a traceable manner; we take various measures to prevent unauthorised access to personal and pseudonymized data, including maintaining a VPN network; we regularly train our employees in the handling of personal data, including pseudonymized data and data security. We regularly evaluate our data processing procedures and modify them as necessary. In addition, we work with strict physical access controls to e.g. our IT infrastructure and data storage systems as well as to documents that contain personal data. 
 
 As outlined above in section 9.2, we analyze pseudonymized data about our customers' use of DeepL Pro products to understand general usage habits and derive different target and user groups. Pseudonymized data is used only until the purpose of data analysis is fulfilled and is destroyed thereafter.
 
-### 21.4 Rights of Data Subject and Legal Representative
+### 21.5 Rights of Data Subject and Legal Representative
 
 As outlined above in section 19, you have the right to exercise your rights as a data subject by contacting us at privacy(at)deepl.com. DeepL Pro-customers can also reach out to support(at)deepl.com for assistance.
 
 You may exercise your rights through a legal representative or an authorized agent. In such cases, the legal representative or agent must present a signed power of attorney in writing to act on your behalf.
 
-### 21.5 Children’s Privacy 
+### 21.6 Children’s Privacy 
 
 Our service is not intended for children under the age of 14, and DeepL does not knowingly collect personal data from children under the age of 14. If you have any reason to believe that a child under the age of 14 has provided personal data to DeepL through the service, please contact us at privacy(at)deepl.com. We will investigate any such notification and if appropriate, delete the personal data from our systems.
 
-### 21.6 Overseas Transfer and Delegation of Personal Data Processing
+### 21.7 Overseas Transfer and Delegation of Personal Data Processing
 
 We may transfer personal data to the overseas delegatees listed below in order to provide services and enhance customer convenience. In order to deliver our services, we may store your personal data on DeepL servers located within the EEA and transfer it to the delegatees located abroad. The overseas transfer is conducted through telecommunication network from time to time as needed. The transferred data will be retained and used in accordance with our privacy policy's retention periods. This overseas transfer is essential for the provision of our services. Therefore, if you refuse the overseas transfer, it may restrict your access to our services.
 
@@ -453,7 +457,7 @@ We may transfer personal data to the overseas delegatees listed below in order t
 * Secure the use of website: Our website uses services of Cloudflare, Inc, 101 Townsend St, San Francisco, CA 94107, USA ("Cloudflare"). To protect our website, the data transfer between your browser and our servers is routed through Cloudflare's infrastructure in order to analyze whether it is an abusive attack. However, since your translation requests and other customer data are encrypted between your end device and the DeepL servers, Cloudflare does not have any access to this data, but only to meta-data (such as your IP address). You can contact the company through privacyquestions(at)cloudflare.com.
 * Support enquires: If you send us a support enquiry, your request. Is forwarded to the ticket system of the provider Zendesk Inc. ("Zendesk"), 1019 Market Street, San Francisco, CA 94103, USA. We use Zendesk to process your enquiry and your further communication with us, we also use the service to manage our customer database. You can contact the company through privacy(at)zendesk.com.
 * Manage customer database: We use the Customer Relationship Management System (CRM) of Salesforce.com Germany GmbH, Erika-Mann-Str. 31, 80636 München, Deutschland (“Salesforce CRM”) to manage our customer database, which includes our existing and potential customers, and to organize sales and communication processes. You can contact the company through privacy(at)salesforce.com.
-* Send newsletters and other marketing emails : For sending the newsletters and other marketing emails, we use a service provided by HubSpot, Inc. with headquarters at 25 First Street, 2nd Floor, Cambridge, MA 02141 USA. As part of this, your data may also be transferred to the USA. You can contact the company through privacy(at)hubspot.com.
+* Send newsletters and other marketing emails: For sending the newsletters and other marketing emails, we use a service provided by HubSpot, Inc. with headquarters at 25 First Street, 2nd Floor, Cambridge, MA 02141 USA. As part of this, your data may also be transferred to the USA. You can contact the company through privacy(at)hubspot.com.
 * Conduct the customer satisfaction surveys: To conduct the customer satisfaction surveys, we use a service of Typeform SL, Carrer Bac de Roda, 163, local, 08018 Barcelona, Spain ("Typeform"), on whose platform the surveys are stored. Typeform uses different subcontractors, which are also partly located in third countries outside the EU. Therefore, in certain cases, there may be a transfer of your data to the USA. You can contact the company through GDPR(at)typeform.com.
 * Conduct surveys: For the surveys we use a service of Qualtrics Ireland Limited, Costello House, 1 Clarendon Row, Dublin 2, DO2 TA43, Ireland ("Qualtrics"), on whose platform the surveys are stored. Qualtrics uses different subcontractors, which are also partly located in third countries outside the EU. Therefore, in certain cases, there may be a transfer of your data to the USA. You can contact the company through [\[email protected\]](https://www.deepl.com/cdn-cgi/l/email-protection).
 * Conduct surveys: We use a survey tool of Hotjar Ltd., Dragonara Business Centre, 5th Floor, Dragonara Road, Paceville St Julian's STJ 3141, Malta ("Hotjar"), on whose platform the surveys are stored. Hotjar uses different subcontractors, which are also partly located in third countries outside the EU.Therefore, in certain cases, there may be a transfer of your data to the USA. You can contact the company through [\[email protected\]](https://www.deepl.com/cdn-cgi/l/email-protection)
