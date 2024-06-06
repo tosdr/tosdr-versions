@@ -1,4 +1,4 @@
-[![](https://corpostatic.dailymotion.com/corporate-cms-release-assets-prod/1d486e8e/app/themes/dailymotion/front/build/images/logo.svg)](https://www.dailymotion.com/) [Legal](https://www.dailymotion.com/)
+[![](https://corpostatic.dailymotion.com/corporate-cms-release-assets-prod/8bb40080/app/themes/dailymotion/front/build/images/logo.svg)](https://www.dailymotion.com/) [Legal](https://www.dailymotion.com/)
 
 * [Home](https://legal.dailymotion.com/en/)
 * [Legal Terms](https://legal.dailymotion.com/en/terms-of-use/)
@@ -57,7 +57,7 @@ If you believe that the content you uploaded was removed in error, or that it do
 
 [Send a copyright counter-notification](https://faq.dailymotion.com/hc/en-us/requests/new?ticket_form_id=136048&request%5Bcustom_fields%5D%5B30150188%5D=copyrightform-counter_notification)
 
-[![](https://corpostatic.dailymotion.com/corporate-cms-release-assets-prod/1d486e8e/app/themes/dailymotion/front/build/images/logo.svg)](https://www.dailymotion.com/)
+[![](https://corpostatic.dailymotion.com/corporate-cms-release-assets-prod/8bb40080/app/themes/dailymotion/front/build/images/logo.svg)](https://www.dailymotion.com/)
 
 English
 
