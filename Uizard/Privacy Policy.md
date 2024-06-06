@@ -1,0 +1,298 @@
+![Magic icon](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGcgaWQ9Ikljb25zLTI0Ij4KPGcgaWQ9IlVuaW9uIj4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik02Ljc2ODc1IDQuMDQ0MDhDNi44MjE0MiA0LjEzOTc5IDYuOTM1ODEgNC4xNzk4NSA3LjAyODgxIDQuMjM3MTdMNy44NjUwNSA0Ljc1MjY2QzcuOTA2NDQgNC43NzkzIDcuOTQwNDkgNC44MTU5MSA3Ljk2NDA3IDQuODU5MTJDNy45ODc2NCA0LjkwMjMzIDggNC45NTA3NyA4IDVDOCA1LjA0OTIzIDcuOTg3NjQgNS4wOTc2NyA3Ljk2NDA3IDUuMTQwODhDNy45NDA0OSA1LjE4NDA5IDcuOTA2NDQgNS4yMjA3IDcuODY1MDUgNS4yNDczNEw2Ljg4OTA3IDUuNzgyMTJDNi44Mzc4OCA1LjgwMjkgNi43OTUzOSA1Ljg0MDY2IDYuNzY4NzUgNS44ODkwN0w2LjI0NzMzIDYuODY1MDVDNi4yMjA2OSA2LjkwNjQ0IDYuMTg0MDkgNi45NDA0OSA2LjE0MDg4IDYuOTY0MDdDNi4wOTc2NyA2Ljk4NzY0IDYuMDQ5MjMgNyA2IDdDNS45NTA3NyA3IDUuOTAyMzMgNi45ODc2NCA1Ljg1OTEyIDYuOTY0MDdDNS44MTU5MSA2Ljk0MDQ5IDUuNzc5MyA2LjkwNjQ0IDUuNzUyNjYgNi44NjUwNUw1LjIxNzg5IDUuODg5MDdDNS4xOTMyNyA1Ljg0Mzg3IDUuMTU2MTMgNS44MDY3MyA1LjExMDkzIDUuNzgyMTJMNC4xMzQ5NSA1LjI0NzM0QzQuMDkzNTYgNS4yMjA3IDQuMDU5NTEgNS4xODQwOSA0LjAzNTkzIDUuMTQwODhDNC4wMTIzNSA1LjA5NzY3IDQgNS4wNDkyMyA0IDVDNCA0Ljk1MDc3IDQuMDEyMzUgNC45MDIzMyA0LjAzNTkzIDQuODU5MTJDNC4wNTk1MSA0LjgxNTkxIDQuMDkzNTYgNC43NzkzIDQuMTM0OTUgNC43NTI2Nkw1LjExMDkzIDQuMjE3ODhDNS4xNTYxMyA0LjE5MzI3IDUuMTkzMjcgNC4xNTYxMyA1LjIxNzg5IDQuMTEwOTNMNS43NTI2NiAzLjEzNDk1QzUuNzc5MyAzLjA5MzU2IDUuODE1OTEgMy4wNTk1MSA1Ljg1OTEyIDMuMDM1OTNDNS45MDIzMyAzLjAxMjM1IDUuOTUwNzcgMyA2IDNDNi4wNDkyMyAzIDYuMDk3NjcgMy4wMTIzNSA2LjE0MDg4IDMuMDM1OTNDNi4xODQwOSAzLjA1OTUxIDYuMjIwNjkgMy4wOTM1NiA2LjI0NzMzIDMuMTM0OTVMNi43Njg3NSA0LjA0NDA4Wk05LjQyNzA0IDEyLjcyMzdMMTIuMzgzNSAxNC4yODkyQzEyLjUxOTUgMTQuMzY1OSAxMi42MzIgMTQuNDc4MiAxMi43MDg3IDE0LjYxNDFMMTQuMjc1NyAxNy41Njc4QzE0LjM0MjggMTcuNjk4IDE0LjQ0NDUgMTcuODA3MiAxNC41Njk3IDE3Ljg4MzRDMTQuNjk0OSAxNy45NTk3IDE0LjgzODYgMTggMTQuOTg1MiAxOEMxNS4xMzE4IDE4IDE1LjI3NTYgMTcuOTU5NyAxNS40MDA3IDE3Ljg4MzRDMTUuNTI1OSAxNy44MDcyIDE1LjYyNzYgMTcuNjk4IDE1LjY5NDggMTcuNTY3OEwxNy4yOTEzIDE0LjYxNDFDMTcuMzIxIDE0LjU0MSAxNy4zNjUxIDE0LjQ3NDUgMTcuNDIxIDE0LjQxODdDMTcuNDc2OCAxNC4zNjI5IDE3LjU0MzMgMTQuMzE4OSAxNy42MTY1IDE0LjI4OTJMMjAuNTcyOSAxMi43MjM3QzIwLjcwMjMgMTIuNjUyMiAyMC44MTAyIDEyLjU0NzMgMjAuODg1MyAxMi40MkMyMC45NjA0IDEyLjI5MjggMjEgMTIuMTQ3NyAyMSAxMkMyMSAxMS44NTIzIDIwLjk2MDQgMTEuNzA3MiAyMC44ODUzIDExLjU4QzIwLjgxMDIgMTEuNDUyNyAyMC43MDIzIDExLjM0NzkgMjAuNTcyOSAxMS4yNzYzTDE3LjYxNjUgOS43MTA4M0MxNy40ODA1IDkuNjM0MTQgMTcuMzY4IDkuNTIxNzkgMTcuMjkxMyA5LjM4NTkyTDE1LjY5NDggNi40MzIxNkMxNS42Mjc2IDYuMzAxOTggMTUuNTI1OSA2LjE5Mjc5IDE1LjQwMDcgNi4xMTY1NkMxNS4yNzU2IDYuMDQwMzMgMTUuMTMxOCA2IDE0Ljk4NTIgNkMxNC44Mzg2IDYgMTQuNjk0OSA2LjA0MDMzIDE0LjU2OTcgNi4xMTY1NkMxNC40NDQ1IDYuMTkyNzkgMTQuMzQyOCA2LjMwMTk4IDE0LjI3NTcgNi40MzIxNkwxMi44MTY1IDkuMTgyODFDMTIuNzQ1IDkuMzE3NDYgMTIuNjUzOSA5LjQ0MDY5IDEyLjU0NjEgOS41NDg0MkMxMi40MzgzIDkuNjU2MDkgMTIuMzE1MSA5Ljc0NzA4IDEyLjE4MDQgOS44MTgzNkw5LjQyNzA0IDExLjI3NjNDOS4yOTc2NiAxMS4zNDc5IDkuMTg5ODEgMTEuNDUyNyA5LjExNDcxIDExLjU4QzkuMDM5NjEgMTEuNzA3MiA5IDExLjg1MjMgOSAxMkM5IDEyLjE0NzcgOS4wMzk2MSAxMi4yOTI4IDkuMTE0NzEgMTIuNDJDOS4xODk4MSAxMi41NDczIDkuMjk3NjYgMTIuNjUyMiA5LjQyNzA0IDEyLjcyMzdaTTcuNTQzMjEgMTYuODU1OEM3LjQwMzcyIDE2Ljc2OTggNy4yMzIxMyAxNi43MDk3IDcuMTUzMTIgMTYuNTY2MUw2LjM3MSAxNS4yMDI0QzYuMzMxMDQgMTUuMTQwMyA2LjI3NjE0IDE1LjA4OTMgNi4yMTEzMiAxNS4wNTM5QzYuMTQ2NSAxNS4wMTg1IDYuMDczODQgMTUgNiAxNUM1LjkyNjE2IDE1IDUuODUzNSAxNS4wMTg1IDUuNzg4NjggMTUuMDUzOUM1LjcyMzg2IDE1LjA4OTMgNS42Njg5NSAxNS4xNDAzIDUuNjI4OTkgMTUuMjAyNEw0LjgyNjgzIDE2LjY2NjRDNC43ODk5IDE2LjczNDIgNC43MzQxOSAxNi43ODk5IDQuNjY2MzkgMTYuODI2OEwzLjIwMjQzIDE3LjYyOUMzLjE0MDM0IDE3LjY2OSAzLjA4OTI2IDE3LjcyMzkgMy4wNTM4OSAxNy43ODg3QzMuMDE4NTMgMTcuODUzNSAzIDE3LjkyNjIgMyAxOEMzIDE4LjA3MzggMy4wMTg1MyAxOC4xNDY1IDMuMDUzODkgMTguMjExM0MzLjA4OTI2IDE4LjI3NjEgMy4xNDAzNCAxOC4zMzEgMy4yMDI0MyAxOC4zNzFMNC42NjYzOSAxOS4xNzMyQzQuNzM0MTkgMTkuMjEwMSA0Ljc4OTkgMTkuMjY1OCA0LjgyNjgzIDE5LjMzMzZMNS42Mjg5OSAyMC43OTc2QzUuNjY4OTUgMjAuODU5NyA1LjcyMzg2IDIwLjkxMDcgNS43ODg2OCAyMC45NDYxQzUuODUzNSAyMC45ODE1IDUuOTI2MTYgMjEgNiAyMUM2LjA3Mzg0IDIxIDYuMTQ2NSAyMC45ODE1IDYuMjExMzIgMjAuOTQ2MUM2LjI3NjE0IDIwLjkxMDcgNi4zMzEwNCAyMC44NTk3IDYuMzcxIDIwLjc5NzZMNy4xNTMxMiAxOS4zMzM2QzcuMTkzMDggMTkuMjYxIDcuMjU2ODEgMTkuMjA0MyA3LjMzMzYxIDE5LjE3MzJMOC43OTc1NyAxOC4zNzFDOC44NTk2NiAxOC4zMzEgOC45MTA3MyAxOC4yNzYxIDguOTQ2MSAxOC4yMTEzQzguOTgxNDYgMTguMTQ2NSA5IDE4LjA3MzggOSAxOEM5IDE3LjkyNjIgOC45ODE0NiAxNy44NTM1IDguOTQ2MSAxNy43ODg3QzguOTEwNzMgMTcuNzIzOSA4Ljg1OTY2IDE3LjY2OSA4Ljc5NzU3IDE3LjYyOUw3LjU0MzIxIDE2Ljg1NThaIiBmaWxsPSJ1cmwoI3BhaW50MF9saW5lYXJfMjU4XzE0MTQpIi8+CjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNNi43Njg3NSA0LjA0NDA4QzYuODIxNDIgNC4xMzk3OSA2LjkzNTgxIDQuMTc5ODUgNy4wMjg4MSA0LjIzNzE3TDcuODY1MDUgNC43NTI2NkM3LjkwNjQ0IDQuNzc5MyA3Ljk0MDQ5IDQuODE1OTEgNy45NjQwNyA0Ljg1OTEyQzcuOTg3NjQgNC45MDIzMyA4IDQuOTUwNzcgOCA1QzggNS4wNDkyMyA3Ljk4NzY0IDUuMDk3NjcgNy45NjQwNyA1LjE0MDg4QzcuOTQwNDkgNS4xODQwOSA3LjkwNjQ0IDUuMjIwNyA3Ljg2NTA1IDUuMjQ3MzRMNi44ODkwNyA1Ljc4MjEyQzYuODM3ODggNS44MDI5IDYuNzk1MzkgNS44NDA2NiA2Ljc2ODc1IDUuODg5MDdMNi4yNDczMyA2Ljg2NTA1QzYuMjIwNjkgNi45MDY0NCA2LjE4NDA5IDYuOTQwNDkgNi4xNDA4OCA2Ljk2NDA3QzYuMDk3NjcgNi45ODc2NCA2LjA0OTIzIDcgNiA3QzUuOTUwNzcgNyA1LjkwMjMzIDYuOTg3NjQgNS44NTkxMiA2Ljk2NDA3QzUuODE1OTEgNi45NDA0OSA1Ljc3OTMgNi45MDY0NCA1Ljc1MjY2IDYuODY1MDVMNS4yMTc4OSA1Ljg4OTA3QzUuMTkzMjcgNS44NDM4NyA1LjE1NjEzIDUuODA2NzMgNS4xMTA5MyA1Ljc4MjEyTDQuMTM0OTUgNS4yNDczNEM0LjA5MzU2IDUuMjIwNyA0LjA1OTUxIDUuMTg0MDkgNC4wMzU5MyA1LjE0MDg4QzQuMDEyMzUgNS4wOTc2NyA0IDUuMDQ5MjMgNCA1QzQgNC45NTA3NyA0LjAxMjM1IDQuOTAyMzMgNC4wMzU5MyA0Ljg1OTEyQzQuMDU5NTEgNC44MTU5MSA0LjA5MzU2IDQuNzc5MyA0LjEzNDk1IDQuNzUyNjZMNS4xMTA5MyA0LjIxNzg4QzUuMTU2MTMgNC4xOTMyNyA1LjE5MzI3IDQuMTU2MTMgNS4yMTc4OSA0LjExMDkzTDUuNzUyNjYgMy4xMzQ5NUM1Ljc3OTMgMy4wOTM1NiA1LjgxNTkxIDMuMDU5NTEgNS44NTkxMiAzLjAzNTkzQzUuOTAyMzMgMy4wMTIzNSA1Ljk1MDc3IDMgNiAzQzYuMDQ5MjMgMyA2LjA5NzY3IDMuMDEyMzUgNi4xNDA4OCAzLjAzNTkzQzYuMTg0MDkgMy4wNTk1MSA2LjIyMDY5IDMuMDkzNTYgNi4yNDczMyAzLjEzNDk1TDYuNzY4NzUgNC4wNDQwOFpNOS40MjcwNCAxMi43MjM3TDEyLjM4MzUgMTQuMjg5MkMxMi41MTk1IDE0LjM2NTkgMTIuNjMyIDE0LjQ3ODIgMTIuNzA4NyAxNC42MTQxTDE0LjI3NTcgMTcuNTY3OEMxNC4zNDI4IDE3LjY5OCAxNC40NDQ1IDE3LjgwNzIgMTQuNTY5NyAxNy44ODM0QzE0LjY5NDkgMTcuOTU5NyAxNC44Mzg2IDE4IDE0Ljk4NTIgMThDMTUuMTMxOCAxOCAxNS4yNzU2IDE3Ljk1OTcgMTUuNDAwNyAxNy44ODM0QzE1LjUyNTkgMTcuODA3MiAxNS42Mjc2IDE3LjY5OCAxNS42OTQ4IDE3LjU2NzhMMTcuMjkxMyAxNC42MTQxQzE3LjMyMSAxNC41NDEgMTcuMzY1MSAxNC40NzQ1IDE3LjQyMSAxNC40MTg3QzE3LjQ3NjggMTQuMzYyOSAxNy41NDMzIDE0LjMxODkgMTcuNjE2NSAxNC4yODkyTDIwLjU3MjkgMTIuNzIzN0MyMC43MDIzIDEyLjY1MjIgMjAuODEwMiAxMi41NDczIDIwLjg4NTMgMTIuNDJDMjAuOTYwNCAxMi4yOTI4IDIxIDEyLjE0NzcgMjEgMTJDMjEgMTEuODUyMyAyMC45NjA0IDExLjcwNzIgMjAuODg1MyAxMS41OEMyMC44MTAyIDExLjQ1MjcgMjAuNzAyMyAxMS4zNDc5IDIwLjU3MjkgMTEuMjc2M0wxNy42MTY1IDkuNzEwODNDMTcuNDgwNSA5LjYzNDE0IDE3LjM2OCA5LjUyMTc5IDE3LjI5MTMgOS4zODU5MkwxNS42OTQ4IDYuNDMyMTZDMTUuNjI3NiA2LjMwMTk4IDE1LjUyNTkgNi4xOTI3OSAxNS40MDA3IDYuMTE2NTZDMTUuMjc1NiA2LjA0MDMzIDE1LjEzMTggNiAxNC45ODUyIDZDMTQuODM4NiA2IDE0LjY5NDkgNi4wNDAzMyAxNC41Njk3IDYuMTE2NTZDMTQuNDQ0NSA2LjE5Mjc5IDE0LjM0MjggNi4zMDE5OCAxNC4yNzU3IDYuNDMyMTZMMTIuODE2NSA5LjE4MjgxQzEyLjc0NSA5LjMxNzQ2IDEyLjY1MzkgOS40NDA2OSAxMi41NDYxIDkuNTQ4NDJDMTIuNDM4MyA5LjY1NjA5IDEyLjMxNTEgOS43NDcwOCAxMi4xODA0IDkuODE4MzZMOS40MjcwNCAxMS4yNzYzQzkuMjk3NjYgMTEuMzQ3OSA5LjE4OTgxIDExLjQ1MjcgOS4xMTQ3MSAxMS41OEM5LjAzOTYxIDExLjcwNzIgOSAxMS44NTIzIDkgMTJDOSAxMi4xNDc3IDkuMDM5NjEgMTIuMjkyOCA5LjExNDcxIDEyLjQyQzkuMTg5ODEgMTIuNTQ3MyA5LjI5NzY2IDEyLjY1MjIgOS40MjcwNCAxMi43MjM3Wk03LjU0MzIxIDE2Ljg1NThDNy40MDM3MiAxNi43Njk4IDcuMjMyMTMgMTYuNzA5NyA3LjE1MzEyIDE2LjU2NjFMNi4zNzEgMTUuMjAyNEM2LjMzMTA0IDE1LjE0MDMgNi4yNzYxNCAxNS4wODkzIDYuMjExMzIgMTUuMDUzOUM2LjE0NjUgMTUuMDE4NSA2LjA3Mzg0IDE1IDYgMTVDNS45MjYxNiAxNSA1Ljg1MzUgMTUuMDE4NSA1Ljc4ODY4IDE1LjA1MzlDNS43MjM4NiAxNS4wODkzIDUuNjY4OTUgMTUuMTQwMyA1LjYyODk5IDE1LjIwMjRMNC44MjY4MyAxNi42NjY0QzQuNzg5OSAxNi43MzQyIDQuNzM0MTkgMTYuNzg5OSA0LjY2NjM5IDE2LjgyNjhMMy4yMDI0MyAxNy42MjlDMy4xNDAzNCAxNy42NjkgMy4wODkyNiAxNy43MjM5IDMuMDUzODkgMTcuNzg4N0MzLjAxODUzIDE3Ljg1MzUgMyAxNy45MjYyIDMgMThDMyAxOC4wNzM4IDMuMDE4NTMgMTguMTQ2NSAzLjA1Mzg5IDE4LjIxMTNDMy4wODkyNiAxOC4yNzYxIDMuMTQwMzQgMTguMzMxIDMuMjAyNDMgMTguMzcxTDQuNjY2MzkgMTkuMTczMkM0LjczNDE5IDE5LjIxMDEgNC43ODk5IDE5LjI2NTggNC44MjY4MyAxOS4zMzM2TDUuNjI4OTkgMjAuNzk3NkM1LjY2ODk1IDIwLjg1OTcgNS43MjM4NiAyMC45MTA3IDUuNzg4NjggMjAuOTQ2MUM1Ljg1MzUgMjAuOTgxNSA1LjkyNjE2IDIxIDYgMjFDNi4wNzM4NCAyMSA2LjE0NjUgMjAuOTgxNSA2LjIxMTMyIDIwLjk0NjFDNi4yNzYxNCAyMC45MTA3IDYuMzMxMDQgMjAuODU5NyA2LjM3MSAyMC43OTc2TDcuMTUzMTIgMTkuMzMzNkM3LjE5MzA4IDE5LjI2MSA3LjI1NjgxIDE5LjIwNDMgNy4zMzM2MSAxOS4xNzMyTDguNzk3NTcgMTguMzcxQzguODU5NjYgMTguMzMxIDguOTEwNzMgMTguMjc2MSA4Ljk0NjEgMTguMjExM0M4Ljk4MTQ2IDE4LjE0NjUgOSAxOC4wNzM4IDkgMThDOSAxNy45MjYyIDguOTgxNDYgMTcuODUzNSA4Ljk0NjEgMTcuNzg4N0M4LjkxMDczIDE3LjcyMzkgOC44NTk2NiAxNy42NjkgOC43OTc1NyAxNy42MjlMNy41NDMyMSAxNi44NTU4WiIgZmlsbD0id2hpdGUiLz4KPC9nPgo8L2c+CjxkZWZzPgo8bGluZWFyR3JhZGllbnQgaWQ9InBhaW50MF9saW5lYXJfMjU4XzE0MTQiIHgxPSIxMiIgeTE9IjMiIHgyPSIxMiIgeTI9IjIxIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+CjxzdG9wIG9mZnNldD0iMC4wMjc5ODYzIiBzdG9wLWNvbG9yPSIjQ0NCMkZGIi8+CjxzdG9wIG9mZnNldD0iMC4yODExNTciIHN0b3AtY29sb3I9IiNBQTgxRkUiLz4KPHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjNjQxOUZGIi8+CjwvbGluZWFyR3JhZGllbnQ+CjwvZGVmcz4KPC9zdmc+Cg==)
+
+### [Autodesigner 1.5 - AI UI design is here! Generate editable mockups and screens from simple text](https://uizard.io/autodesigner/)
+
+[![Uizard logo](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIwIiBoZWlnaHQ9IjMyIiB2aWV3Qm94PSIwIDAgMTIwIDMyIiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgo8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTk3LjMwNDcgMTAuMjUwMUM5Ny41MDY1IDEwLjIwMTQgOTcuNzAwOSAxMC4zNTQxIDk3LjcwMDkgMTAuNTYxMVYyNC45NjA4Qzk3LjcwMDkgMjUuMTM3OCA5Ny41NTcyIDI1LjI4MDggOTcuMzgwMSAyNS4yODA4SDk0LjAxMTFDOTMuODM0IDI1LjI4MDggOTMuNjkwMiAyNS4xMzc4IDkzLjY5MDIgMjQuOTYwOFYxMS4zNzJDOTMuNjkwMiAxMS4yMjQxIDkzLjc5MTYgMTEuMDk1OCA5My45MzU3IDExLjA2MDlMOTcuMzA0NyAxMC4yNTAxWk0xMTkuNjA1IDEuOTI5NDZDMTE5LjgwNyAxLjg4MTc4IDEyMC4wMDEgMi4wMzQ0MiAxMjAuMDAxIDIuMjQxMTRWMjQuOTYwOEMxMjAuMDAxIDI1LjEzNzUgMTE5Ljg1NyAyNS4yODA4IDExOS42OCAyNS4yODA4SDExNy41MDFDMTE3LjQwNyAyNS4yODA4IDExNy4zMTggMjUuMjQwMiAxMTcuMjU3IDI1LjE2OTVMMTE2LjQ5NSAyNC4yODM3QzExNS4yNDcgMjUuMTE1MSAxMTMuNzQ5IDI1LjYwMDggMTEyLjE0IDI1LjYwMDhDMTA3LjUxNCAyNS42MDA4IDEwMy44MSAyMS41OTcgMTA0LjMyNyAxNi44ODI0QzEwNC43MTQgMTMuMzQ5MyAxMDcuNTE3IDEwLjQ3NDQgMTExLjA0OCA5Ljk5NTA2QzExMi44NTIgOS43NTAyNiAxMTQuNTU5IDEwLjEyNCAxMTUuOTkgMTAuOTI5NVYzLjAzOTIyQzExNS45OSAyLjg5MTA2IDExNi4wOTIgMi43NjIxIDExNi4yMzYgMi43MjgxOEwxMTkuNjA1IDEuOTI5NDZaTTExNS45NTggMTguMjYxOUMxMTYuMjc4IDE1Ljc1MzggMTE0LjE1MyAxMy42MzQ0IDExMS42MzggMTMuOTUyOEMxMDkuOTI0IDE0LjE2OTggMTA4LjUzOSAxNS41NTAzIDEwOC4zMjEgMTcuMjZDMTA4LjAwMSAxOS43NjgyIDExMC4xMjYgMjEuODg3NSAxMTIuNjQxIDIxLjU2OTFDMTE0LjM1NSAyMS4zNTIyIDExNS43NCAxOS45NzE3IDExNS45NTggMTguMjYxOVpNMTAxLjU1MSA5LjkyMDg1QzEwMi44MzYgOS45MjA4NSAxMDMuODc3IDEwLjk1OTYgMTAzLjg3NyAxMi4yNDA5QzEwMy44NzcgMTMuNTIyMSAxMDIuODM2IDE0LjU2MDkgMTAxLjU1MSAxNC41NjA5QzEwMC4yNjYgMTQuNTYwOSA5OS4yMjUgMTMuNTIyMSA5OS4yMjUgMTIuMjQwOUM5OS4yMjUgMTAuOTU5NiAxMDAuMjY2IDkuOTIwODUgMTAxLjU1MSA5LjkyMDg1Wk01OS4wMzc3IDEwLjI0MDlDNTkuMjE0OSAxMC4yNDA5IDU5LjM1ODYgMTAuMzg0MiA1OS4zNTg2IDEwLjU2MDlWMjQuOTYwOUM1OS4zNTg2IDI1LjEzNzggNTkuMjE0OSAyNS4yODA5IDU5LjAzNzcgMjUuMjgwOUg1NS42Njg4QzU1LjQ5MTYgMjUuMjgwOSA1NS4zNDc5IDI1LjEzNzggNTUuMzQ3OSAyNC45NjA5VjEwLjU2MDlDNTUuMzQ3OSAxMC4zODQyIDU1LjQ5MTYgMTAuMjQwOSA1NS42Njg4IDEwLjI0MDlINTkuMDM3N1pNNTcuMzUzMyAxLjkyMDg1QzU4LjYzOCAxLjkyMDg1IDU5LjY3OTUgMi45NTk1NyA1OS42Nzk1IDQuMjQwODVDNTkuNjc5NSA1LjUyMjEzIDU4LjYzOCA2LjU2MDg1IDU3LjM1MzMgNi41NjA4NUM1Ni4wNjg1IDYuNTYwODUgNTUuMDI3IDUuNTIyMTMgNTUuMDI3IDQuMjQwODVDNTUuMDI3IDIuOTU5NTcgNTYuMDY4NSAxLjkyMDg1IDU3LjM1MzMgMS45MjA4NVpNNzQuNjc5NSAxMC4yNDA5Qzc0Ljg1NjYgMTAuMjQwOSA3NS4wMDAzIDEwLjM4NDIgNzUuMDAwMyAxMC41NjA5VjEzLjYyMUM3NS4wMDAzIDEzLjcxIDc0Ljk2MjggMTMuNzk1NCA3NC44OTcgMTMuODU1OUw2Ni42NTgxIDIxLjQ0MDlINzMuNzg3MkM3My45MzQ0IDIxLjQ0MDkgNzQuMDYyOCAyMS41NDEgNzQuMDk4NCAyMS42ODM0TDc0LjkwMDUgMjQuODgzNEM3NC45NTEyIDI1LjA4NTMgNzQuNzk4MiAyNS4yODA5IDc0LjU4OTMgMjUuMjgwOUg3My4xNjVINjEuNTI0NEM2MS4zNDczIDI1LjI4MDkgNjEuMjAzNSAyNS4xMzc4IDYxLjIwMzUgMjQuOTYwOVYyMS45MDFDNjEuMjAzNSAyMS44MTE3IDYxLjI0MTEgMjEuNzI2NiA2MS4zMDY4IDIxLjY2NThMNjkuMjI0OSAxNC4wODA5SDYyLjQxNjdDNjIuMjY5NCAxNC4wODA5IDYyLjE0MTEgMTMuOTgxIDYyLjEwNTUgMTMuODM4Nkw2MS4zMDMzIDEwLjYzODZDNjEuMjUyNiAxMC40MzY3IDYxLjQwNTcgMTAuMjQwOSA2MS42MTQ1IDEwLjI0MDlINjMuNTM5NEg3NC42Nzk1Wk05MS4zNjg4IDEwLjI1MDFDOTEuNTcwOSAxMC4yMDE1IDkxLjc2NTEgMTAuMzU0MSA5MS43NjUxIDEwLjU2MTJWMjQuOTYwOUM5MS43NjUxIDI1LjEzNzggOTEuNjIxMyAyNS4yODA5IDkxLjQ0NDIgMjUuMjgwOUg4OS4yNjY5Qzg5LjE3MjUgMjUuMjgwOSA4OS4wODI3IDI1LjIzOTYgODkuMDIxNyAyNS4xNjc2TDg4LjI2ODQgMjQuMjc4Qzg3LjAxOSAyNS4xMTI5IDg1LjUxNzcgMjUuNjAwOSA4My45MDQxIDI1LjYwMDlDNzkuNTY5MyAyNS42MDA5IDc2LjA0MzEgMjIuMDgzNyA3Ni4wNDMxIDE3Ljc2MDlDNzYuMDQzMSAxMy40MzggNzkuNTY5MyA5LjkyMDg1IDgzLjkwNDEgOS45MjA4NUM4NS4zOTkzIDkuOTIwODUgODYuNzk4NSAxMC4zMzk3IDg3Ljk4OTUgMTEuMDY1NUM4Ny45OTM0IDExLjA2NDUgODcuOTk2MyAxMS4wNjIgODcuOTk5OCAxMS4wNjFMOTEuMzY4OCAxMC4yNTAxWk04My45MDQxIDIxLjYwMDlDODYuMDI3MiAyMS42MDA5IDg3Ljc1NDQgMTkuODc4MyA4Ny43NTQ0IDE3Ljc2MDlDODcuNzU0NCAxNS42NDM0IDg2LjAyNzIgMTMuOTIwOSA4My45MDQxIDEzLjkyMDlDODEuNzgxIDEzLjkyMDkgODAuMDUzOCAxNS42NDM0IDgwLjA1MzggMTcuNzYwOUM4MC4wNTM4IDE5Ljg3ODMgODEuNzgxIDIxLjYwMDkgODMuOTA0MSAyMS42MDA5Wk01My4xMDE5IDEwLjI0MDlDNTMuMjc5IDEwLjI0MDkgNTMuNDIyOCAxMC4zODQyIDUzLjQyMjggMTAuNTYwOVYxNy40NDA5QzUzLjQyMjggMjEuOTQwNCA0OS43MTYyIDI1LjYwMDkgNDUuMTYwNyAyNS42MDA5QzQwLjYwNTIgMjUuNjAwOSAzNi44OTg3IDIxLjk0MDQgMzYuODk4NyAxNy40NDA5VjEwLjU2MDlDMzYuODk4NyAxMC4zODQyIDM3LjA0MjQgMTAuMjQwOSAzNy4yMTk1IDEwLjI0MDlINDAuNTg4NUM0MC43NjU2IDEwLjI0MDkgNDAuOTA5NCAxMC4zODQyIDQwLjkwOTQgMTAuNTYwOVYxNy40NDA5QzQwLjkwOTQgMTkuNzM0NiA0Mi44MTY1IDIxLjYwMDkgNDUuMTYwNyAyMS42MDA5QzQ3LjUwNDkgMjEuNjAwOSA0OS40MTIxIDE5LjczNDYgNDkuNDEyMSAxNy40NDA5VjEwLjU2MDlDNDkuNDEyMSAxMC4zODQyIDQ5LjU1NTggMTAuMjQwOSA0OS43MzI5IDEwLjI0MDlINTMuMTAxOVoiIGZpbGw9IiMxMTExMTEiLz4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xMi44MzQyIDMySDE5LjI1MTRDMjYuMzM5NCAzMiAzMi4wODU2IDI2LjI2OTEgMzIuMDg1NiAxOS4yVjEyLjhDMzIuMDg1NiA1LjczMDg4IDI2LjMzOTQgMCAxOS4yNTE0IDBIMTIuODM0MkM1Ljc0NjIxIDAgMCA1LjczMDg4IDAgMTIuOFYxOS4yQzAgMjYuMjY5MSA1Ljc0NjIxIDMyIDEyLjgzNDIgMzJaTTIyLjAxMTMgMTAuODgwMUMyMS44ODIgMTAuODgwMSAyMS43NDkxIDEwLjg5NDIgMjEuNjE0NyAxMC45MjM5QzIwLjk3ODEgMTEuMDY0NyAyMC40NjQxIDExLjU3NzQgMjAuMzIyOSAxMi4yMTI2QzIwLjAxNTIgMTMuNTk2MyAyMS4zNzE1IDE0Ljc4NDEgMjIuNzgwNyAxNC4xN0MyMy4xMzQ5IDE0LjAxNTggMjMuNDIzIDEzLjcyODQgMjMuNTc3NCAxMy4zNzU1QzI0LjEzMzQgMTIuMTA2MyAyMy4yMTYxIDEwLjg4MDEgMjIuMDExMyAxMC44ODAxWk0xMS4yMzA1IDExLjEzNThIOC42NjM2NkM4LjQ4NjIzIDExLjEzNTggOC4zNDI4IDExLjI3OTQgOC4zNDI4IDExLjQ1NThWMTYuMTY2NUM4LjM0MjggMjAuMzA5MiAxMS43Njg2IDIzLjY4MDEgMTUuOTc5MiAyMy42ODAxQzIwLjA3NzggMjMuNjgwMSAyMy40MzMgMjAuNDg2MiAyMy42MDg1IDE2LjQ5NTFDMjMuNjE2MiAxNi4zMTUzIDIzLjQ2NjcgMTYuMTY2NSAyMy4yODYgMTYuMTY2NUgyMC43MjQ2QzIwLjU1NTkgMTYuMTY2NSAyMC40MDg2IDE2LjI5MzIgMjAuMzk2NyAxNi40NjEyQzIwLjI0MDggMTguNzAyOCAxOC4zMTg5IDIwLjQ4MDEgMTUuOTc5MiAyMC40ODAxQzEzLjUzNzUgMjAuNDgwMSAxMS41NTE0IDE4LjU0NTEgMTEuNTUxNCAxNi4xNjY1VjExLjQ1NThDMTEuNTUxNCAxMS4yNzk0IDExLjQwNzYgMTEuMTM1OCAxMS4yMzA1IDExLjEzNThaIiBmaWxsPSIjMTExMTExIi8+Cjwvc3ZnPgo=)](https://uizard.io/)
+
+* [Product![Submenu toggle](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAiIGhlaWdodD0iMjAiIHZpZXdCb3g9IjAgMCAyMCAyMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTQuOTk5OTYgOC4yNDk5MkM0Ljk5OTk2IDguMDY4OTIgNS4wNjM5NSA3Ljg4ODkyIDUuMTk1OTUgNy43NDM5MkM1LjQ3NTk1IDcuNDM3OTIgNS45NDg5NSA3LjQxNjkyIDYuMjU1OTUgNy42OTU5Mkw5Ljc5Nzk1IDEwLjkyNzlDOS45MDA5NSAxMS4wMjE5IDEwLjA5OSAxMS4wMjE5IDEwLjIwMiAxMC45Mjc5TDEzLjc0NCA3LjY5NTkyQzE0LjA1MSA3LjQxNjkyIDE0LjUyNCA3LjQzNzkyIDE0LjgwNCA3Ljc0MzkyQzE1LjA4NCA4LjA1MTkyIDE1LjA2MiA4LjUyNDkyIDE0Ljc1NiA4LjgwMjkyTDExLjIxNCAxMi4wMzM5QzEwLjUzMyAxMi42NTQ5IDkuNDY2OTYgMTIuNjU0OSA4Ljc4NTk2IDEyLjAzMzlMNS4yNDM5NSA4LjgwMjkyQzUuMDgxOTYgOC42NTQ5MiA0Ljk5OTk2IDguNDUyOTIgNC45OTk5NiA4LjI0OTkyWiIgZmlsbD0iIzAzMDMwMyIvPgo8L3N2Zz4K)](https://uizard.io/product/)
+    * [UI DesignAI-powered UI design](https://uizard.io/ui-design/)
+    * [UX DesignUX design simplified](https://uizard.io/ux-design/)
+    * [WireframingEasy online wireframing](https://uizard.io/wireframing/)
+    * [MockupsDigital product mockups](https://uizard.io/mockups/)
+    * [PrototypingPrototyping made easy](https://uizard.io/prototyping/)
+* [![Magic icon](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGcgaWQ9Ikljb25zLTI0Ij4KPHBhdGggaWQ9IlVuaW9uIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTYuNzY4NzUgNC4wNDQwOEM2LjgyMTQyIDQuMTM5NzkgNi45MzU4MSA0LjE3OTg1IDcuMDI4ODEgNC4yMzcxN0w3Ljg2NTA1IDQuNzUyNjZDNy45MDY0NCA0Ljc3OTMgNy45NDA0OSA0LjgxNTkxIDcuOTY0MDcgNC44NTkxMkM3Ljk4NzY0IDQuOTAyMzMgOCA0Ljk1MDc3IDggNUM4IDUuMDQ5MjMgNy45ODc2NCA1LjA5NzY3IDcuOTY0MDcgNS4xNDA4OEM3Ljk0MDQ5IDUuMTg0MDkgNy45MDY0NCA1LjIyMDcgNy44NjUwNSA1LjI0NzM0TDYuODg5MDcgNS43ODIxMkM2LjgzNzg4IDUuODAyOSA2Ljc5NTM5IDUuODQwNjYgNi43Njg3NSA1Ljg4OTA3TDYuMjQ3MzMgNi44NjUwNUM2LjIyMDY5IDYuOTA2NDQgNi4xODQwOSA2Ljk0MDQ5IDYuMTQwODggNi45NjQwN0M2LjA5NzY3IDYuOTg3NjQgNi4wNDkyMyA3IDYgN0M1Ljk1MDc3IDcgNS45MDIzMyA2Ljk4NzY0IDUuODU5MTIgNi45NjQwN0M1LjgxNTkxIDYuOTQwNDkgNS43NzkzIDYuOTA2NDQgNS43NTI2NiA2Ljg2NTA1TDUuMjE3ODkgNS44ODkwN0M1LjE5MzI3IDUuODQzODcgNS4xNTYxMyA1LjgwNjczIDUuMTEwOTMgNS43ODIxMkw0LjEzNDk1IDUuMjQ3MzRDNC4wOTM1NiA1LjIyMDcgNC4wNTk1MSA1LjE4NDA5IDQuMDM1OTMgNS4xNDA4OEM0LjAxMjM1IDUuMDk3NjcgNCA1LjA0OTIzIDQgNUM0IDQuOTUwNzcgNC4wMTIzNSA0LjkwMjMzIDQuMDM1OTMgNC44NTkxMkM0LjA1OTUxIDQuODE1OTEgNC4wOTM1NiA0Ljc3OTMgNC4xMzQ5NSA0Ljc1MjY2TDUuMTEwOTMgNC4yMTc4OEM1LjE1NjEzIDQuMTkzMjcgNS4xOTMyNyA0LjE1NjEzIDUuMjE3ODkgNC4xMTA5M0w1Ljc1MjY2IDMuMTM0OTVDNS43NzkzIDMuMDkzNTYgNS44MTU5MSAzLjA1OTUxIDUuODU5MTIgMy4wMzU5M0M1LjkwMjMzIDMuMDEyMzUgNS45NTA3NyAzIDYgM0M2LjA0OTIzIDMgNi4wOTc2NyAzLjAxMjM1IDYuMTQwODggMy4wMzU5M0M2LjE4NDA5IDMuMDU5NTEgNi4yMjA2OSAzLjA5MzU2IDYuMjQ3MzMgMy4xMzQ5NUw2Ljc2ODc1IDQuMDQ0MDhaTTkuNDI3MDQgMTIuNzIzN0wxMi4zODM1IDE0LjI4OTJDMTIuNTE5NSAxNC4zNjU5IDEyLjYzMiAxNC40NzgyIDEyLjcwODcgMTQuNjE0MUwxNC4yNzU3IDE3LjU2NzhDMTQuMzQyOCAxNy42OTggMTQuNDQ0NSAxNy44MDcyIDE0LjU2OTcgMTcuODgzNEMxNC42OTQ5IDE3Ljk1OTcgMTQuODM4NiAxOCAxNC45ODUyIDE4QzE1LjEzMTggMTggMTUuMjc1NiAxNy45NTk3IDE1LjQwMDcgMTcuODgzNEMxNS41MjU5IDE3LjgwNzIgMTUuNjI3NiAxNy42OTggMTUuNjk0OCAxNy41Njc4TDE3LjI5MTMgMTQuNjE0MUMxNy4zMjEgMTQuNTQxIDE3LjM2NTEgMTQuNDc0NSAxNy40MjEgMTQuNDE4N0MxNy40NzY4IDE0LjM2MjkgMTcuNTQzMyAxNC4zMTg5IDE3LjYxNjUgMTQuMjg5MkwyMC41NzI5IDEyLjcyMzdDMjAuNzAyMyAxMi42NTIyIDIwLjgxMDIgMTIuNTQ3MyAyMC44ODUzIDEyLjQyQzIwLjk2MDQgMTIuMjkyOCAyMSAxMi4xNDc3IDIxIDEyQzIxIDExLjg1MjMgMjAuOTYwNCAxMS43MDcyIDIwLjg4NTMgMTEuNThDMjAuODEwMiAxMS40NTI3IDIwLjcwMjMgMTEuMzQ3OSAyMC41NzI5IDExLjI3NjNMMTcuNjE2NSA5LjcxMDgzQzE3LjQ4MDUgOS42MzQxNCAxNy4zNjggOS41MjE3OSAxNy4yOTEzIDkuMzg1OTJMMTUuNjk0OCA2LjQzMjE2QzE1LjYyNzYgNi4zMDE5OCAxNS41MjU5IDYuMTkyNzkgMTUuNDAwNyA2LjExNjU2QzE1LjI3NTYgNi4wNDAzMyAxNS4xMzE4IDYgMTQuOTg1MiA2QzE0LjgzODYgNiAxNC42OTQ5IDYuMDQwMzMgMTQuNTY5NyA2LjExNjU2QzE0LjQ0NDUgNi4xOTI3OSAxNC4zNDI4IDYuMzAxOTggMTQuMjc1NyA2LjQzMjE2TDEyLjgxNjUgOS4xODI4MUMxMi43NDUgOS4zMTc0NiAxMi42NTM5IDkuNDQwNjkgMTIuNTQ2MSA5LjU0ODQyQzEyLjQzODMgOS42NTYwOSAxMi4zMTUxIDkuNzQ3MDggMTIuMTgwNCA5LjgxODM2TDkuNDI3MDQgMTEuMjc2M0M5LjI5NzY2IDExLjM0NzkgOS4xODk4MSAxMS40NTI3IDkuMTE0NzEgMTEuNThDOS4wMzk2MSAxMS43MDcyIDkgMTEuODUyMyA5IDEyQzkgMTIuMTQ3NyA5LjAzOTYxIDEyLjI5MjggOS4xMTQ3MSAxMi40MkM5LjE4OTgxIDEyLjU0NzMgOS4yOTc2NiAxMi42NTIyIDkuNDI3MDQgMTIuNzIzN1pNNy41NDMyMSAxNi44NTU4QzcuNDAzNzIgMTYuNzY5OCA3LjIzMjEzIDE2LjcwOTcgNy4xNTMxMiAxNi41NjYxTDYuMzcxIDE1LjIwMjRDNi4zMzEwNCAxNS4xNDAzIDYuMjc2MTQgMTUuMDg5MyA2LjIxMTMyIDE1LjA1MzlDNi4xNDY1IDE1LjAxODUgNi4wNzM4NCAxNSA2IDE1QzUuOTI2MTYgMTUgNS44NTM1IDE1LjAxODUgNS43ODg2OCAxNS4wNTM5QzUuNzIzODYgMTUuMDg5MyA1LjY2ODk1IDE1LjE0MDMgNS42Mjg5OSAxNS4yMDI0TDQuODI2ODMgMTYuNjY2NEM0Ljc4OTkgMTYuNzM0MiA0LjczNDE5IDE2Ljc4OTkgNC42NjYzOSAxNi44MjY4TDMuMjAyNDMgMTcuNjI5QzMuMTQwMzQgMTcuNjY5IDMuMDg5MjYgMTcuNzIzOSAzLjA1Mzg5IDE3Ljc4ODdDMy4wMTg1MyAxNy44NTM1IDMgMTcuOTI2MiAzIDE4QzMgMTguMDczOCAzLjAxODUzIDE4LjE0NjUgMy4wNTM4OSAxOC4yMTEzQzMuMDg5MjYgMTguMjc2MSAzLjE0MDM0IDE4LjMzMSAzLjIwMjQzIDE4LjM3MUw0LjY2NjM5IDE5LjE3MzJDNC43MzQxOSAxOS4yMTAxIDQuNzg5OSAxOS4yNjU4IDQuODI2ODMgMTkuMzMzNkw1LjYyODk5IDIwLjc5NzZDNS42Njg5NSAyMC44NTk3IDUuNzIzODYgMjAuOTEwNyA1Ljc4ODY4IDIwLjk0NjFDNS44NTM1IDIwLjk4MTUgNS45MjYxNiAyMSA2IDIxQzYuMDczODQgMjEgNi4xNDY1IDIwLjk4MTUgNi4yMTEzMiAyMC45NDYxQzYuMjc2MTQgMjAuOTEwNyA2LjMzMTA0IDIwLjg1OTcgNi4zNzEgMjAuNzk3Nkw3LjE1MzEyIDE5LjMzMzZDNy4xOTMwOCAxOS4yNjEgNy4yNTY4MSAxOS4yMDQzIDcuMzMzNjEgMTkuMTczMkw4Ljc5NzU3IDE4LjM3MUM4Ljg1OTY2IDE4LjMzMSA4LjkxMDczIDE4LjI3NjEgOC45NDYxIDE4LjIxMTNDOC45ODE0NiAxOC4xNDY1IDkgMTguMDczOCA5IDE4QzkgMTcuOTI2MiA4Ljk4MTQ2IDE3Ljg1MzUgOC45NDYxIDE3Ljc4ODdDOC45MTA3MyAxNy43MjM5IDguODU5NjYgMTcuNjY5IDguNzk3NTcgMTcuNjI5TDcuNTQzMjEgMTYuODU1OFoiIGZpbGw9InVybCgjcGFpbnQwX2xpbmVhcl8xXzE0MDgpIi8+CjwvZz4KPGRlZnM+CjxsaW5lYXJHcmFkaWVudCBpZD0icGFpbnQwX2xpbmVhcl8xXzE0MDgiIHgxPSIxMiIgeTE9IjMiIHgyPSIxMiIgeTI9IjIxIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+CjxzdG9wIG9mZnNldD0iMC4wMjc5ODYzIiBzdG9wLWNvbG9yPSIjQ0NCMkZGIi8+CjxzdG9wIG9mZnNldD0iMC4yODExNTciIHN0b3AtY29sb3I9IiNBQTgxRkUiLz4KPHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjNjQxOUZGIi8+CjwvbGluZWFyR3JhZGllbnQ+CjwvZGVmcz4KPC9zdmc+Cg==)AI Design![Submenu toggle](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAiIGhlaWdodD0iMjAiIHZpZXdCb3g9IjAgMCAyMCAyMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTQuOTk5OTYgOC4yNDk5MkM0Ljk5OTk2IDguMDY4OTIgNS4wNjM5NSA3Ljg4ODkyIDUuMTk1OTUgNy43NDM5MkM1LjQ3NTk1IDcuNDM3OTIgNS45NDg5NSA3LjQxNjkyIDYuMjU1OTUgNy42OTU5Mkw5Ljc5Nzk1IDEwLjkyNzlDOS45MDA5NSAxMS4wMjE5IDEwLjA5OSAxMS4wMjE5IDEwLjIwMiAxMC45Mjc5TDEzLjc0NCA3LjY5NTkyQzE0LjA1MSA3LjQxNjkyIDE0LjUyNCA3LjQzNzkyIDE0LjgwNCA3Ljc0MzkyQzE1LjA4NCA4LjA1MTkyIDE1LjA2MiA4LjUyNDkyIDE0Ljc1NiA4LjgwMjkyTDExLjIxNCAxMi4wMzM5QzEwLjUzMyAxMi42NTQ5IDkuNDY2OTYgMTIuNjU0OSA4Ljc4NTk2IDEyLjAzMzlMNS4yNDM5NSA4LjgwMjkyQzUuMDgxOTYgOC42NTQ5MiA0Ljk5OTk2IDguNDUyOTIgNC45OTk5NiA4LjI0OTkyWiIgZmlsbD0iIzAzMDMwMyIvPgo8L3N2Zz4K)](https://uizard.io/ai-design/)
+    * [Design AssistantExplore Uizard's magical AI features](https://uizard.io/design-assistant/)
+    * [Autodesigner 1.5
+        
+        NEW
+        
+        Generate projects, screens, and themes](https://uizard.io/autodesigner/)
+    * [Screenshot ScannerTurn screenshots into editable mockups](https://uizard.io/screenshot-scanner/)
+    * [Wireframe ScannerDigitize your hand-drawn wireframes](https://uizard.io/wireframe-scanner/)
+* [Templates![Submenu toggle](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAiIGhlaWdodD0iMjAiIHZpZXdCb3g9IjAgMCAyMCAyMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTQuOTk5OTYgOC4yNDk5MkM0Ljk5OTk2IDguMDY4OTIgNS4wNjM5NSA3Ljg4ODkyIDUuMTk1OTUgNy43NDM5MkM1LjQ3NTk1IDcuNDM3OTIgNS45NDg5NSA3LjQxNjkyIDYuMjU1OTUgNy42OTU5Mkw5Ljc5Nzk1IDEwLjkyNzlDOS45MDA5NSAxMS4wMjE5IDEwLjA5OSAxMS4wMjE5IDEwLjIwMiAxMC45Mjc5TDEzLjc0NCA3LjY5NTkyQzE0LjA1MSA3LjQxNjkyIDE0LjUyNCA3LjQzNzkyIDE0LjgwNCA3Ljc0MzkyQzE1LjA4NCA4LjA1MTkyIDE1LjA2MiA4LjUyNDkyIDE0Ljc1NiA4LjgwMjkyTDExLjIxNCAxMi4wMzM5QzEwLjUzMyAxMi42NTQ5IDkuNDY2OTYgMTIuNjU0OSA4Ljc4NTk2IDEyLjAzMzlMNS4yNDM5NSA4LjgwMjkyQzUuMDgxOTYgOC42NTQ5MiA0Ljk5OTk2IDguNDUyOTIgNC45OTk5NiA4LjI0OTkyWiIgZmlsbD0iIzAzMDMwMyIvPgo8L3N2Zz4K)](https://uizard.io/templates/)
+    * [Mobile App DesignMobile app design made easy](https://uizard.io/templates/mobile-app-templates/)
+    * [Website DesignWeb design simplified](https://uizard.io/templates/website-templates/)
+    * [Web App DesignDesign a web app in seconds](https://uizard.io/templates/web-app-templates/)
+    * [Tablet App DesignCreate stunning tablet designs](https://uizard.io/templates/tablet-templates/)
+    * [App WireframesKickstart an app wireframe](https://uizard.io/templates/app-wireframes/)
+    * [Website WireframesWebsite wireframing made easy](https://uizard.io/templates/website-wireframes/)
+* [Solutions![Submenu toggle](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAiIGhlaWdodD0iMjAiIHZpZXdCb3g9IjAgMCAyMCAyMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTQuOTk5OTYgOC4yNDk5MkM0Ljk5OTk2IDguMDY4OTIgNS4wNjM5NSA3Ljg4ODkyIDUuMTk1OTUgNy43NDM5MkM1LjQ3NTk1IDcuNDM3OTIgNS45NDg5NSA3LjQxNjkyIDYuMjU1OTUgNy42OTU5Mkw5Ljc5Nzk1IDEwLjkyNzlDOS45MDA5NSAxMS4wMjE5IDEwLjA5OSAxMS4wMjE5IDEwLjIwMiAxMC45Mjc5TDEzLjc0NCA3LjY5NTkyQzE0LjA1MSA3LjQxNjkyIDE0LjUyNCA3LjQzNzkyIDE0LjgwNCA3Ljc0MzkyQzE1LjA4NCA4LjA1MTkyIDE1LjA2MiA4LjUyNDkyIDE0Ljc1NiA4LjgwMjkyTDExLjIxNCAxMi4wMzM5QzEwLjUzMyAxMi42NTQ5IDkuNDY2OTYgMTIuNjU0OSA4Ljc4NTk2IDEyLjAzMzlMNS4yNDM5NSA4LjgwMjkyQzUuMDgxOTYgOC42NTQ5MiA0Ljk5OTk2IDguNDUyOTIgNC45OTk5NiA4LjI0OTkyWiIgZmlsbD0iIzAzMDMwMyIvPgo8L3N2Zz4K)](https://uizard.io/solutions/)
+    * [Product Managers & Product TeamsCreate mockups in seconds](https://uizard.io/solutions/product-managers/)
+    * [Designers & UX ProsDesign and iterate ideas in minutes](https://uizard.io/solutions/ux-professionals/)
+    * [MarketersDeliver for clients at speed](https://uizard.io/solutions/marketers/)
+    * [Startup FoundersBring your startup MVP to life](https://uizard.io/solutions/startup-founders/)
+    * [Consultants & AgenciesTurn ideas into interactive mockups](https://uizard.io/solutions/consultants/)
+    * [DevelopersThe perfect launchpad for your project](https://uizard.io/solutions/developers/)
+    * [EnterpriseUizard for large businesses](https://uizard.io/enterprise/)
+* [Blog](https://uizard.io/blog/)
+
+[Pricing](https://uizard.io/pricing/)Contact sales[Log in](https://app.uizard.io/login)
+
+[Sign up for free](https://app.uizard.io/sign-up/)
+
+[Sign up for free](https://app.uizard.io/sign-up/)
+
+![Navigation toggle](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTE5LjI1IDE2LjVDMTkuNjY0IDE2LjUgMjAgMTYuODM2IDIwIDE3LjI1QzIwIDE3LjY2NCAxOS42NjQgMTggMTkuMjUgMThINC43NUM0LjMzNiAxOCA0IDE3LjY2NCA0IDE3LjI1QzQgMTYuODM2IDQuMzM2IDE2LjUgNC43NSAxNi41SDE5LjI1Wk0xOS4yNSAxMS4yNUMxOS42NjQgMTEuMjUgMjAgMTEuNTg2IDIwIDEyQzIwIDEyLjQxNCAxOS42NjQgMTIuNzUgMTkuMjUgMTIuNzVINC43NUM0LjMzNiAxMi43NSA0IDEyLjQxNCA0IDEyQzQgMTEuNTg2IDQuMzM2IDExLjI1IDQuNzUgMTEuMjVIMTkuMjVaTTE5LjI1IDZDMTkuNjY0IDYgMjAgNi4zMzYgMjAgNi43NUMyMCA3LjE2NCAxOS42NjQgNy41IDE5LjI1IDcuNUg0Ljc1QzQuMzM2IDcuNSA0IDcuMTY0IDQgNi43NUM0IDYuMzM2IDQuMzM2IDYgNC43NSA2SDE5LjI1WiIgZmlsbD0iIzAzMDMwMyIvPgo8L3N2Zz4K)
+
+Privacy Policy
+==============
+
+Last updated on April the 6th of 2023Download
+
+All defined terms in this Privacy Policy shall have the meaning as assigned to them in the Terms of Service unless expressly provided herein to the contrary.
+
+1\. General
+-----------
+
+1.1. This Privacy Policy ("Policy") explains how UizardApp ApS and its affiliates ("Uizard", "we", "our", "us" or "our") processes personal data i) in connection with the use of our website, ii) of persons that direct inquiries to us, iii) of contact persons with suppliers and business partners, iv) in connection the provision of our online services found at [uizard.io](https://uizard.io/) ("Services") and as further defined in the Terms of Services to be found at [uizard.io/terms-of-service](https://uizard.io/terms-of-service/) to customers, and v) of visitors to our social media platforms, and vi) in connection with the Uizard Partner Program.
+
+1.2. In this Policy you can read more about the personal data we collect, how we handle your personal data and how long we will retain your personal data etc.
+
+2\. Data Controller
+-------------------
+
+2.1. The data controller responsible for the processing of your personal data is:
+
+* UizardApp Aps
+* Rosenørns Allé 31, 2
+* 1970 Frederiksberg C
+* Denmark
+* **tel.:** +45 5033 3445
+* **email:** [support@uizard.io](mailto:support@uizard.io)
+
+2.2. All questions concerning this Policy, the exercise of your rights or any suspected non-compliance should initially be directed to [support@uizard.io](mailto:support@uizard.io)
+
+2.3. The general legal processing framework is Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC, and the attendant rules (the "GDPR"). In addition, the Danish Act No. 502 of 23 May 2018 on supplementary provisions to the EU Regulation on the protection of natural persons with regard to the processing of personal data and on the free movement of such data will apply (the "Data Protection Act").
+
+3\. Categories of Personal Data, Processing Purpose, Legal Basis and Retention Periods
+--------------------------------------------------------------------------------------
+
+| Data Subject | Personal Data | Purpose | Legal Basis | Retention Period |
+| --- | --- | --- | --- | --- |
+| Visitors to the website. | IP address, operating system, language setting, browser type, equipment type, etc. | Make the website available, optimize the website and user experience, ensure the functionality of the website, compile statistics and conduct targeted, relevant marketing. | Consent subject to the Danish Cookie Regulation Section 3 (1) and GDPR Art 6 (1)(f) — Uizard's legitimate interests in delivering the website, compiling statistics and marketing. | 2 years for the purpose of understanding how visitors engage with the Uizard Services. |
+| Individuals that contact Uizard or otherwise communicate with us. | Contact details and content of any communication. | Communication, and customer support. | GDPR Art 6 (1)(f) — Uizard's legitimate interests in responding to inquiries, etc. | Up to 5 years after the year which the personal data were collected unless it is necessary to store the data for a longer period of time e.g., for purposes of defending any legal claims. |
+| Contact persons with suppliers and business partners. | Contact details, company name and content of any communication. | Communication, administration of business relationship, payment, documentation of orders, audit/records trail. | GDPR Art 6 (1)(f) — Uizard's legitimate interests in communication with the supplier or business partner. | Up to 5 years after the year which the personal data were collected unless it is necessary to store the data for a longer period of time e.g., for purposes of defending any legal claims. |
+| Potential customers / contact persons with potential customers. | Contact details and content of any communication. | Communication. | GDPR Art 6 (1)(f) — Uizard's legitimate interests in communication with the potential customers / contact persons with potential customers. | Up to 5 years after the year which the personal data were collected unless it is necessary to store the data for a longer period of time e.g., for purposes of defending any legal claims. |
+| Customers / contact persons with customers. | Contact details, company name, content of any communication and relevant billing details and credit card information. | Communication, administration and documentation of customer relationship, billing and dispute handling purposes. | GDPR Art 6(1)(b) — necessary for an agreement with private customer and GDPR Art 6(1)(f) — Uizard's legitimate interest in maintaining the customer relationship and communicating with contact persons, delivering the service, billing and establishment, exercise and defence of legal claims. | Up to 5 years after the year which the personal data were collected unless it is necessary to store the data for a longer period of time e.g., for purposes of defending any legal claims. |
+| Partner program contact persons. | Partner IP, contact details, company name and content of any communication, financial information; and/or certain information about Partner's end users (such as IP address and device identifier). | Communication, administration of business relationship, documentation of transactions, analytics purposes, audit/records trail. | GDPR Art 6 (1)(f) — Uizard's legitimate interests in communication with the supplier or business partner. | Up to 5 years after the year which the personal data were collected unless it is necessary to store the data for a longer period of time e.g., for purposes of defending any legal claims. |
+| All of the above. | All of the above. | Compliance with legal obligations, implementation and maintenance of organisational and technical security measures, handling enquiries or complaints, handling disputes and when necessary for the establishment, exercise or defence of legal claims. | GDPR Art 6 (1)(f) — Uizard's legitimate interests in compliance with legal obligations, implementation and maintenance of organisational and technical security measures, handling enquiries or complaints, handling disputes and when necessary for the establishment, exercise or defence of legal claims. | Up to 5 years after the year which the personal data were collected unless it is necessary to store the data for a longer period of time e.g., for purposes of defending any legal claims. |
+
+4\. Sharing Your Personal Data
+------------------------------
+
+4.1. We may share your personal data with our third-party service providers such as, for example, our IT hosting services providers, our providers of technical support, etc.
+
+4.2. We may also share your data with our group companies/entities to the extent that we are entitled to do so under the law.
+
+4.3. In addition, we will share your data to the extent that we are required to do so, for example as a result of requirements to report information to public authorities.
+
+5\. Sharing Your Personal Data With Non-EU/EEA Recipients
+---------------------------------------------------------
+
+5.1. Some of our service providers are located outside the EU/EEA. We therefore may share your personal data with non-EU/EEA recipients. However, this will require:
+
+* That an adequacy decision has been issued by the European Commission for the level of protection offered by the country or the international company in question;
+* That the standard contractual clauses on data protection adopted by the European Commission have been entered into between us and the recipient of your personal data;
+* That the recipient in question is certified in accordance with Article 42 of the GDPR; or
+* That the recipient in question has adopted a set of binding corporate rules.
+
+5.2. We may also sometimes ask for your consent to transfer your personal data to non-EU/EEA recipients, or such transfer may sometimes be necessary for the performance of an agreement with you, or the implementation of pre-contractual measures taken at your request. Such exemptions for specific situations are governed by Article 49 of the GDPR.
+
+5.3. You are entitled to information about or a copy of any appropriate safeguards which form the basis of the transfer of personal data to non-EU/EEA recipients or — in the case of exemptions provided under Article 49 of the GDPR — the exemptions which serve as the basis for such transfer.
+
+6\. Your Rights
+---------------
+
+6.1. The list below includes an overview of your rights.
+
+* **Access:** You have the right to access the personal data we process about you. You may request access to the personal data we hold about you, including the purposes for which the data were collected.
+* **Rectification and erasure:** You have the right to request rectification, supplementary processing, erasure or blocking of the personal data we process about you.
+* **Restriction of processing:** In certain circumstances, you have the right to restrict the processing of your personal data.
+* **Data portability:** You have the right to receive your personal data (only data about you which you yourself have provided to us) in a structured, commonly used and machine-readable format (data portability).
+* **Right to object:** You have the right to ask us not to process your personal data in cases where our processing is based on Article 6(1)(f) (legitimate interests). The extent to which we process your personal data for such purposes is described in this Policy.
+* **Withdrawal of consent:** If the processing of your personal data is based on your consent, you have the right to withdraw such consent at any time.
+
+6.2. Your exercise of the above rights may be subject to conditions or restrictions.
+
+7\. Secure Processing
+---------------------
+
+7.1. At Uizard, our processing of personal data is governed by our Information Security Requirements, which is implemented to ensure that all data is handled in a manner that complies with information security best practices.
+
+8\. Cookies Policy
+------------------
+
+8.1. Cookies are small text files that are placed on your computer or mobile device when you visit a website, mobile app or use an online product. We use cookies to enhance your user experience when using the Uizard Services, and to show you ads related to Uizard online.
+
+8.2. You can decide to delete non-essential cookies at any time. Deleting cookies or similar technologies means that any preference settings you have made on a particular website will be lost and the functionality of the Uizard Services may be impaired. You can use the preference settings in your web browser to:
+
+* See what cookies or other similar technologies have been stored on your device;
+* Block cookies or similar technologies;
+* Clear cookies or similar technologies from your browser.
+
+For more information on how to manage cookies on the most popular browsers, please see below:
+
+* [Google Chrome](https://support.google.com/chrome/answer/95647?hl=en/)
+* [Firefox](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer?/)
+* [Microsoft Edge](https://support.microsoft.com/en-us/microsoft-edge/delete-cookies-in-microsoft-edge-63947406-40ac-c3b8-57b9-2a946a29ae09/)
+* [Safari](https://support.apple.com/en-au/guide/safari/sfri11471/)
+
+Moreover, you may opt out of advertising partners' targeted advertising using the following links:
+
+* [http://www.aboutads.info/choices/](http://www.aboutads.info/choices/) and [http://www.networkadvertising.org/choices/](http://www.networkadvertising.org/choices/) if located in the United States
+* [http://www.youronlinechoices.eu/](http://www.youronlinechoices.eu/) if located in the European Union.
+
+| Provider | Name | Purpose | Expiration |
+| --- | --- | --- | --- |
+| Google Analytics | \_ga | We use Google Analytics, which is a web analytics tool that helps us understand how users engage with the Uizard Services. Like many services, Google Analytics uses cookies to track user interactions, as in our case, where they are used to collect information about how users use the Uizard Services. This information is used to compile reports and to help us improve our Services. The reports disclose website trends without identifying individual visitors. For more information on [Google Tag Manager, see here](https://support.google.com/tagmanager/answer/6102821?/). For more information on [Google Analytics, see here](https://policies.google.com/technologies/partner-sites/). If you want to opt out of [Google Analytics across all websites you use, see here](https://tools.google.com/dlpage/gaoptout?hl=en/). | 2 years |
+| Google Analytics | \_gat | Used by Google Analytics to throttle the request rate. | 1 day |
+| Google Analytics | \_gid | Used to generate statistical data on how the visitor uses the website. | 1 day |
+| Google AdWords | ads/ga-audiences | Used by Google AdWords to re-engage visitors that are likely to convert to customers based on the visitor's online behaviour across websites. | Session |
+| Meta (Facebook and Instagram) | tr  | We use the pixel function of Facebook Custom Audiences to identify users who have landed on certain pages for the purposes of target group-orientated remarketing and advertising. The Facebook pixel stores a cookie, which means that information about your visit to the Uizard Services will be shared with Facebook. These cookies, and the information collected, are used to help Facebook deliver advertising on our behalf to users who have previously visited our Services when they are on Facebook or another platform powered by Facebook Advertising, and to track advertising success. To modify your Facebook Ad settings to restrict these advertisements and to learn more, see [Facebook Ad settings here](https://www.facebook.com/policies/cookies/). | Session |
+| Facebook | \_fbp | Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers. | 3 months |
+| aedIn | bscookie | Used by the social networking service, aedIn, for tracking the use of embedded services. | 2 years |
+| aedIn | lang | Set by aedIn when a web page contains an embedded "Follow us" panel. | Session |
+| aedIn | lidc | Used by the social networking service, aedIn, for tracking the use of embedded services. | 1 day |
+| aedIn | bcookie | Used by the social networking service, aedIn, for tracking the use of embedded services. | 2 years |
+| aedIn | UserMatchHistory | Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences. | 29 days |
+| Twitter | personalization\_id | This cookie is set by Twitter — The cookie allows the visitor to share content from the website onto their Twitter profile. | 2 years |
+| Zendesk | \_\_zlcstore | This cookie is served by Zendesk, a service that we use in order to provide a customer support chat to the visitors of the website. This cookie is necessary for the chat-box function on the website to function. | Persistent |
+| Zendesk | \_\_cfruid | This cookie is served by Zendesk, a service that we use in order to provide a customer support chat to the visitors of the website. This cookie is a part of the services provided by Cloudflare — Including load-balancing, deliverance of web site content and serving DNS connection for website operators. | Session |
+| Zendesk | ZD-suid | Unique id that identifies the user's session when using the customer support chat on the website. | 20 minutes |
+| Zendesk | ZD-store | Registers whether the self-service-assistant Zendesk Answer Bot has been displayed to the website user. | Persistent |
+| Zendesk | ZD-buid | Unique id that identifies the user on recurring visits to provide customer support through a chat. | Persistent |
+| Intercom | intercom-id-\[app-id\] | Unique id to identify users anonymously. | 9 months |
+| Intercom | intercom-session-\[app-id\] | Identifier for each unique browser session. This session cookie is refreshed on each successful logged-in ping, extending it to 1 week from that moment. The user can access their conversations and have data communicated on logged out pages for 1 week, as long as the session isn't intentionally terminated upon logout. | 1 week |
+| Stripe | \_\_stripe\_mid | This cookie is necessary for making credit card transactions on the website. The service is provided by Stripe.com which allows online transactions without storing any credit card information. | 1 year |
+| Stripe | \_\_stripe\_sid | This cookie is necessary for making credit card transactions on the website. The service is provided by Stripe.com which allows online transactions without storing any credit card information. | 1 day |
+| Stripe | m   | Determines the device used to access the website. This allows the Stripe payment service content to be formatted accordingly. | 2 years |
+| Amazon Web Services | AWSALB | Registers which server-cluster is serving the visitor. This is used in context with load balancing, in order to optimize user experience. | 6 days |
+| Amazon Web Services | AWSALBCORS | Registers which server-cluster is serving the visitor. This is used in context with load balancing, in order to optimize user experience. | 6 days |
+| Pendo | \_pendo\_meta | We use Pendo to improve the website and optimize user experience. | Persistent |
+| Pendo | \_pendo\_visitorId | Unique id that identifies the user. We use Pendo to improve the website and optimize user experience. | Persistent |
+| Uizard | X-Experiment | Used to track which version of the website each visitor saw in order to optimize the website and perform A/B experiments. | Session |
+| Uizard | Locale | Used to track the preferred browser language of the visitor. | Session |
+| Uizard | cookie-disclaimer | Used to track if the cookie disclaimer has been shown to a user. | 20 years |
+| Uizard | referral | Used to track referrals from other users. | 20 years |
+| Uizard | ad-tracking-entries | Used for general ad tracking. | 20 years |
+| Uizard | ad-campaign | Used for ad campaign tracking. | 20 years |
+| Uizard | affiliate | Used for affiliate tracking. | 20 years |
+| Uizard | auth:redirect | Redirect users to their desired page after authentication. | 20 years |
+| Uizard | deviceId | Unique identifier for the browser used for tracking events. | 20 years |
+| Uizard | token | Authentication token used for user sessions. | 20 years |
+| Uizard | browserUpdateDialogShown | Keep track of whether the browser compatibility dialog has been shown to the user or not. | 20 years |
+| Uizard | noTrack | If set will prevent most user tracking. Used for development purposes. | 20 years |
+| Uizard | auth:email | Used to pre-populate the email field in the login form when a user logs in or signs up as a result of an invitation to join Uizard by another user. | 20 years |
+| Uizard | auth:action | Determines an action that the website should carry out after a user authenticates. | 20 years |
+
+9\. Complaints to Supervisory Authority
+---------------------------------------
+
+9.1. Any complaint about our processing of your personal data may be submitted to the Danish Data Protection Agency:
+
+* The Danish Data Protection Agency
+* Carl Jacobsensvej 35
+* 2500 Valby
+* Denmark
+* **tel.:** +45 3319 3200
+* **email:** [dt@datatilsynet.dk](mailto:dt@datatilsynet.dk)
+
+10\. Amendments and Updates
+---------------------------
+
+10.1. We reserve the right to amend this Policy as and when needed. We encourage you to periodically review this page for the latest information on the Policy.
+
+10.2. This version of the Policy is effective December the 21st of 2021.
+
+[![Uizard logo](/static/uizard-logo-icon-embossed-light-mode-1e432f6090148e645236f9f3ad44d69d.png)](https://uizard.io/)
+
+Uizard
+
+Visualize product ideas fast and easy with AI
+
+[Sign up for free](https://app.uizard.io/sign-up/)
+
+Uizard
+
+* [Product](https://uizard.io/product/)
+* [AI UI Design](https://uizard.io/ai-design/)
+* [Design Assistant](https://uizard.io/design-assistant/)
+* [Autodesigner 1.5
+    
+    NEW](https://uizard.io/autodesigner/)
+* [Screenshot Scanner](https://uizard.io/screenshot-scanner/)
+* [Wireframe Scanner](https://uizard.io/wireframe-scanner/)
+* [UI Design](https://uizard.io/ui-design/)
+* [UX Design](https://uizard.io/ux-design/)
+* [Wireframing](https://uizard.io/wireframing/)
+* [Mockups](https://uizard.io/mockups/)
+* [Prototyping](https://uizard.io/prototyping/)
+* [Uizard vs Other UI Tools](https://uizard.io/uizard-vs-design-tools/)
+* [Figma Alternative](https://uizard.io/figma-alternative/)
+
+Templates
+
+* [UI Design Templates](https://uizard.io/templates/)
+* [Mobile App Templates](https://uizard.io/templates/mobile-app-templates/)
+* [Website Templates](https://uizard.io/templates/website-templates/)
+* [Web App Templates](https://uizard.io/templates/web-app-templates/)
+* [Tablet App Templates](https://uizard.io/templates/tablet-templates/)
+* [UI Components Library](https://uizard.io/templates/component-templates/)
+
+Wireframes
+
+* [App Wireframe Templates](https://uizard.io/templates/app-wireframes/)
+* [Website Wireframe Templates](https://uizard.io/templates/website-wireframes/)
+
+Solutions
+
+* [Product Managers & Product Teams](https://uizard.io/solutions/product-managers/)
+* [Designers & UX Pros](https://uizard.io/solutions/ux-professionals/)
+* [Marketers](https://uizard.io/solutions/marketers/)
+* [Business Analysts](https://uizard.io/solutions/business-analysts/)
+* [Startup Founders](https://uizard.io/solutions/startup-founders/)
+* [Consultants & Agencies](https://uizard.io/solutions/consultants/)
+* [Developers](https://uizard.io/solutions/developers/)
+* [Enterprise](https://uizard.io/enterprise/)
+
+Resources
+
+* [Blog](https://uizard.io/blog/)
+* [Help Center](https://support.uizard.io/en/)
+* [Contact](https://uizard.io/contact/)
+* [About](https://uizard.io/about/)
+* [Pricing](https://uizard.io/pricing/)
+* [Careers](https://uizard.io/careers/)
+* [Affiliate
+    
+    NEW](https://uizard.io/affiliate/)
+* [Research](https://uizard.io/research/)
+* [Press](https://uizard.io/press/)
+* [Releases](https://updates.uizard.io/)
+
+Social Media
+
+* [Facebook](https://www.facebook.com/uizard.io/)
+* [Twitter](https://twitter.com/uizard/)
+* [LinkedIn](https://www.linkedin.com/company/uizard/)
+* [Instagram](https://www.instagram.com/uizard/)
+* [TikTok](https://www.tiktok.com/@uizardio/)
+* [YouTube](https://www.youtube.com/@uizardio/)
+
+Legal
+
+* [Privacy Policy](https://uizard.io/privacy/)
+* [Terms Of Service](https://uizard.io/terms-of-service/)
+* [Cookie Settings](#)
+
+2024 © Uizard Technologies. All rights reserved.
