@@ -1,6 +1,4 @@
-[![Classic Country Music | Legendary Stories and Songs Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-
-![Classic Country Music | Legendary Stories and Songs Logo](https://classiccountrymusic.com/wp-content/themes/brm-music-premium-rock/assets/images/ccm-desktop-logo.png)](https://classiccountrymusic.com/)
+[![Classic Country Music | Legendary Stories and Songs Logo](https://classiccountrymusic.com/wp-content/themes/brm-music-premium-rock/assets/images/ccm-desktop-logo.png)](https://classiccountrymusic.com/)
 
 * [Home](https://classiccountrymusic.com/)
 * [Artists](#)
@@ -98,9 +96,9 @@ Main Menu
 
  [](https://classiccountrymusic.com/genre/traditional) [See All](https://classiccountrymusic.com/genre/traditional)
 
-* [Wynonna Judd & Emmy Russell Hold...](https://classiccountrymusic.com/wynonna-judd-emmy-russell-hold-hands-while-singing-coal-miners-daughter-on-idol/)
-* [Jason Aldean Transforms Toby Keith’s “Should’ve...](https://classiccountrymusic.com/jason-aldean-transforms-toby-keiths-shouldve-been-a-cowboy-into-a-touching-ballad/)
-* [George Strait Releases First Song From...](https://classiccountrymusic.com/george-strait-releases-first-song-from-upcoming-album/)
+* [Reba McEntire Is Leaving “The Voice”...](https://classiccountrymusic.com/reba-mcentire-is-leaving-the-voice-which-country-star-is-her-replacement/)
+* [Title Of Lisa Marie Presley’s “Much-Anticipated”...](https://classiccountrymusic.com/title-of-lisa-marie-presleys-much-anticipated-memoir-revealed/)
+* [Alan Jackson’s Daughter, Mattie, Is Releasing...](https://classiccountrymusic.com/alan-jacksons-daughter-mattie-is-releasing-her-second-book/)
 
 ![bluegrass](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
@@ -110,9 +108,9 @@ Main Menu
 
  [](https://classiccountrymusic.com/genre/bluegrass) [See All](https://classiccountrymusic.com/genre/bluegrass)
 
+* [Alison Krauss Sings Angelic Version Of...](https://classiccountrymusic.com/alison-krauss-sings-amazing-grace-to-honor-memorial-day-during-pbs-2019-concert/)
 * [Lester Flatt & Earl Scruggs Bring...](https://classiccountrymusic.com/lester-flatt-earl-scruggs-bring-bluegrass-sound-with-the-ballad-of-jed-clampett/)
 * [LIST: Country Artists Inducted Into The...](https://classiccountrymusic.com/country-artists-inducted-into-the-rock-roll-hall-of-fame/)
-* [Beloved “Hee Haw” Star Roni Stoneman...](https://classiccountrymusic.com/beloved-hee-haw-star-roni-stoneman-dies-at-age-85/)
 
 ![Outlaw](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
@@ -122,9 +120,9 @@ Main Menu
 
  [](https://classiccountrymusic.com/genre/outlaw) [See All](https://classiccountrymusic.com/genre/outlaw)
 
-* [Chris Stapleton & Shooter Jennings Honor...](https://classiccountrymusic.com/chris-stapleton-shooter-jennings-honor-waylon-with-outlaw-bit-at-2014-show/)
-* [Willie Nelson Sings At Stagecoach Just...](https://classiccountrymusic.com/willie-nelson-sings-at-stagecoach-just-days-before-his-91st-birthday/)
-* [Luke Combs, Brantley Gilbert, & Michael...](https://classiccountrymusic.com/luke-combs-brantley-gilbert-michael-ray-team-up-for-simple-man-cover-in-2018/)
+* [Willie Nelson & Ray Charles Perform...](https://classiccountrymusic.com/willie-nelson-ray-charles-perform-seven-spanish-angels-duet/)
+* [Merle Haggard Honors Those Who Sacrificed...](https://classiccountrymusic.com/merle-haggard-honors-those-who-sacrificed-their-lives-in-soldiers-last-letter/)
+* [Kenny Chesney & Kid Rock Come...](https://classiccountrymusic.com/kenny-chesney-kid-rock-come-together-to-honor-waylon-jennings-with-luckenbach-texas/)
 
 Terms of Use
 ============
