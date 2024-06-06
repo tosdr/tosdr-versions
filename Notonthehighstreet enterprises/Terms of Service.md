@@ -1,0 +1,419 @@
+[Skip to content](#skip-content-target-id)
+
+Make time for Dad. [Shop Father's Day](https://www.notonthehighstreet.com/fathers-day)
+
+Make time for Dad with 1000s of unexpected gift ideas. [Shop Father's Day](https://www.notonthehighstreet.com/fathers-day)
+
+[![Not on the high street logo](https://static-files.notonthehighstreet.com/webapps/shared/img/logo/NOTHS_logo.svg)](https://www.notonthehighstreet.com/)
+
+Search
+
+search
+
+* [My Account](https://www.notonthehighstreet.com/u/sign-in)
+    
+* [Favourites](https://www.notonthehighstreet.com/u/favourites)
+* [Basket](https://www.notonthehighstreet.com/cart)
+* Open Navigation
+
+* [Father's Day](https://www.notonthehighstreet.com/fathers-day)
+    
+    [All Father's Day gifts](https://www.notonthehighstreet.com/fathers-day/view-all-fathers-day-gifts)[Best Father's Day gifts](https://www.notonthehighstreet.com/fathers-day/fathers-day-gifts/best-gifts-for-fathers)[Personalised Father's Day gifts](https://www.notonthehighstreet.com/fathers-day/personalised-gifts)[First Father's Day gifts](https://www.notonthehighstreet.com/fathers-day/fathers-day-gifts/gifts-for-new-dads)[Father's Day gifts from babies & children](https://www.notonthehighstreet.com/fathers-day/fathers-day-gifts/gifts-from-younger-children)[Father's Day gifts from adults](https://www.notonthehighstreet.com/fathers-day/fathers-day-gifts/gifts-from-grown-up-children)[Father's Day gifts for grandads](https://www.notonthehighstreet.com/fathers-day/fathers-day-gifts/gifts-for-grandfathers)[Father's Day gifts from the bump](https://www.notonthehighstreet.com/fathers-day/fathers-day-gifts/gifts-from-bump)[Father's Day gifts from pets](https://www.notonthehighstreet.com/fathers-day/fathers-day-gifts/gifts-from-pets)[See all Father's Day](https://www.notonthehighstreet.com/fathers-day)[Father's Day food & alcohol](https://www.notonthehighstreet.com/fathers-day/gifts-by-category/food-drink) [Father's Day books](https://www.notonthehighstreet.com/fathers-day/gifts-by-category/fathers-day-books)[Father's Day hampers & gift sets](https://www.notonthehighstreet.com/fathers-day/gifts-by-category/hampers)[Father's Day experience gifts](https://www.notonthehighstreet.com/experiences/view-all-experiences)[Father's day letterbox gifts](https://www.notonthehighstreet.com/fathers-day/gifts-by-category/letterbox-gifts)[Father's Day jewellery](https://www.notonthehighstreet.com/fathers-day/gifts-by-category/jewellery-cufflinks)[Father's Day clothing](https://www.notonthehighstreet.com/fathers-day/gifts-by-category/clothing)[Father's Day accessories](https://www.notonthehighstreet.com/fathers-day/gifts-by-category/accessories)[Father's Day socks](https://www.notonthehighstreet.com/fathers-day/gifts-by-category/socks)[Father's Day mugs](https://www.notonthehighstreet.com/fathers-day/gifts-by-category/mugs)[Father's Day chocolates & sweets treats](https://www.notonthehighstreet.com/fathers-day/gifts-by-category/chocolate-gifts)[Father's Day photo frames](https://www.notonthehighstreet.com/fathers-day/gifts-by-category/photo-frames)[See all Father's Day gifts by category](https://www.notonthehighstreet.com/fathers-day/gifts-by-category)[Father's Day cards](https://www.notonthehighstreet.com/fathers-day/cards-wrap/fathers-day-cards)[First Father's Day cards](https://www.notonthehighstreet.com/fathers-day/cards-wrap/first-fathers-day-cards)[Funny Father's Day cards](https://www.notonthehighstreet.com/fathers-day/cards-wrap/funny-cards)[Step Dad Father's Day cards](https://www.notonthehighstreet.com/fathers-day/cards-wrap/cards-for-step-dads)[Alternative Father's Day cards](https://www.notonthehighstreet.com/fathers-day/cards-wrap/alternative-cards)[Father's Day Cards from pets](https://www.notonthehighstreet.com/fathers-day/cards-wrap/from-pets)[Father's Day wrapping paper](https://www.notonthehighstreet.com/fathers-day/cards-wrap/wrapping)[See all Father's Day cards & wrap](https://www.notonthehighstreet.com/fathers-day/cards-wrap)[Louise Thompson’s Father’s Day edit](https://www.notonthehighstreet.com/fathers-day/louise-thompson)[Father's Day gifts under £25](https://www.notonthehighstreet.com/fathers-day/gifts-by-price/gifts-under-25)[Funny Father's Day gifts](https://www.notonthehighstreet.com/fathers-day/inspiration/funny-gifts)[Daddy & me gifts](https://www.notonthehighstreet.com/fathers-day/inspiration/dad-and-me)[Breakfast in bed](https://www.notonthehighstreet.com/themes/lifestyle/breakfast-in-bed)[Quest trend edit](https://www.notonthehighstreet.com/fathers-day/inspiration/quest)[Garden gifts](https://www.notonthehighstreet.com/gifts/shop-by-personality/inspired-by-the-garden)[Golf gifts](https://www.notonthehighstreet.com/themes/gifts/golf-gifts)[BBQ gifts](https://www.notonthehighstreet.com/themes/lifestyle/bbq-ideas)[See all gifts by interest](https://www.notonthehighstreet.com/campaign/shop-by-interest)
+    
+* [New in](https://www.notonthehighstreet.com/whats-new)
+    
+    [See all new in](https://www.notonthehighstreet.com/whats-new) [Top new picks](https://www.notonthehighstreet.com/whats-new/new-top-picks)[Trending now](https://www.notonthehighstreet.com/whats-new/most-wanted?sort=newest)[Spring shop](https://www.notonthehighstreet.com/campaign/spring-shop)[New in jewellery](https://www.notonthehighstreet.com/whats-new/new-in-jewellery)[New in prints & art](https://www.notonthehighstreet.com/whats-new/new-in-prints-art)[New in home](https://www.notonthehighstreet.com/whats-new/new-in-home)[New in garden](https://www.notonthehighstreet.com/whats-new/new-in-garden)[New in food & drink](https://www.notonthehighstreet.com/whats-new/new-in-food-drink)[New in wedding styling](https://www.notonthehighstreet.com/whats-new/new-in-wedding-styling)[New in cards](https://www.notonthehighstreet.com/whats-new/new-in-cards-wrap)[New in accessories](https://www.notonthehighstreet.com/whats-new/new-in-accessories)[New in clothing](https://www.notonthehighstreet.com/whats-new/new-in-clothing)[New in health & beauty](https://www.notonthehighstreet.com/whats-new/new-in-health-beauty)[New in stationery](https://www.notonthehighstreet.com/whats-new/new-in-stationery)[New in pets](https://www.notonthehighstreet.com/whats-new/new-in-pets)[See all new in by category](https://www.notonthehighstreet.com/whats-new/whatsnew) [New in gifts](https://www.notonthehighstreet.com/whats-new/new-in-gifts)[New in gifts for babies & kids](https://www.notonthehighstreet.com/whats-new/new-gifts-for-babies)[New in gifts for her](https://www.notonthehighstreet.com/whats-new/new-gifts-for-her)[New in gifts for him](https://www.notonthehighstreet.com/whats-new/new-gifts-for-him)[New in personalised gifts](https://www.notonthehighstreet.com/whats-new/new-personalised-gifts)[Docks Beers](https://www.notonthehighstreet.com/partners/docksbeers/products)[Shire Supply Company](https://www.notonthehighstreet.com/partners/shiresupplycompany/products)[Butler & Grace](https://www.notonthehighstreet.com/partners/butlerandgrace/products)[Louth Distillery](https://www.notonthehighstreet.com/partners/louthdistillery/products)[RLXD](https://www.notonthehighstreet.com/partners/rlxd/products)[What a Host](https://www.notonthehighstreet.com/partners/whatahost/products)[LionStory](https://www.notonthehighstreet.com/partners/lionstory/products)[Rachel Leary Ceramics](https://www.notonthehighstreet.com/partners/rachellearyceramics/products)[The Basket Room](https://www.notonthehighstreet.com/partners/thebasketroom/products)[Nebuluxe](https://www.notonthehighstreet.com/partners/nebuluxe/products)[Maddison Ball Creative](https://www.notonthehighstreet.com/partners/maddisonballcreative/products)[LivvyB](https://www.notonthehighstreet.com/partners/livvyb/products)[See all new partners](https://www.notonthehighstreet.com/whats-new/brand-new-partners)
+    
+* [Gifts](https://www.notonthehighstreet.com/gifts)
+    
+    [Anniversary gifts](https://www.notonthehighstreet.com/gifts/shop-by-occasion/anniversary)[Baby shower gifts](https://www.notonthehighstreet.com/gifts/shop-by-occasion/baby-shower-gifts)[Christening gifts](https://www.notonthehighstreet.com/christening-department/gifts-for-christenings)[Engagement gifts](https://www.notonthehighstreet.com/gifts/shop-by-occasion/engagement)[Father's Day gifts](https://www.notonthehighstreet.com/fathers-day)[Good luck gift](https://www.notonthehighstreet.com/gifts/shop-by-occasion/good-luck-gifts)[Housewarming gifts](https://www.notonthehighstreet.com/gifts/shop-by-occasion/new-home)[New baby gifts](https://www.notonthehighstreet.com/gifts/shop-by-occasion/new-baby)[Teacher gifts](https://www.notonthehighstreet.com/gifts/shop-by-recipient/for-teachers)[Thank you gifts](https://www.notonthehighstreet.com/gifts/shop-by-occasion/thank-you)[Thinking of you gifts](https://www.notonthehighstreet.com/gifts/shop-by-occasion/thinking-of-you)[Wedding gifts](https://www.notonthehighstreet.com/wedding-gifts-department)[See all big & small moments](https://www.notonthehighstreet.com/gifts/shop-by-occasion)[1st anniversary gifts](https://www.notonthehighstreet.com/gifts/shop-by-occasion/anniversary/by-year/1st-anniversary-paper)[2nd anniversary gifts](https://www.notonthehighstreet.com/gifts/shop-by-occasion/anniversary/by-year/2nd-anniversary-cotton)[5th anniversary gifts](https://www.notonthehighstreet.com/gifts/shop-by-occasion/anniversary/by-year/5th-anniversary-wood)[10th anniversary gifts](https://www.notonthehighstreet.com/gifts/shop-by-occasion/anniversary/by-year/10th-anniversary-tin)[See all anniversary gifts by year](https://www.notonthehighstreet.com/gifts/shop-by-occasion/anniversary/by-year)[Gifts for her](https://www.notonthehighstreet.com/gifts/shop-by-recipient/for-her)[Gifts for men](https://www.notonthehighstreet.com/gifts/shop-by-recipient/for-him)[Gifts for mums](https://www.notonthehighstreet.com/gifts/shop-by-recipient/for-mothers)[Gifts for dads](https://www.notonthehighstreet.com/gifts/shop-by-recipient/for-fathers)[Gifts for babies](https://www.notonthehighstreet.com/gifts/shop-by-recipient/for-babies)[Gifts for kids](https://www.notonthehighstreet.com/gifts/shop-by-recipient/for-children)[Gifts for teens](https://www.notonthehighstreet.com/gifts/shop-by-recipient/for-teenagers)[Gifts for sisters](https://www.notonthehighstreet.com/gifts/shop-by-recipient/for-sisters)[Gifts for brothers](https://www.notonthehighstreet.com/gifts/shop-by-recipient/for-brothers)[Gifts for friends](https://www.notonthehighstreet.com/gifts/shop-by-recipient/for-friends)[Gifts for couples](https://www.notonthehighstreet.com/gifts/shop-by-recipient/for-couples)[Gifts for grandparents](https://www.notonthehighstreet.com/gifts/shop-by-recipient/for-grandparents)[Gifts for mums to be](https://www.notonthehighstreet.com/gifts/shop-by-recipient/for-mums-to-be)[Gifts for new mums](https://www.notonthehighstreet.com/gifts/shop-by-recipient/for-new-parents/for-new-mums)[Gifts for new dads](https://www.notonthehighstreet.com/gifts/shop-by-recipient/for-new-parents/for-new-dads)[Gifts for bridesmaids](https://www.notonthehighstreet.com/weddings/wedding-party-thank-yous/wedding-party-gifts/bridesmaid-gifts)[Gifts for best man](https://www.notonthehighstreet.com/weddings/wedding-party-thank-yous/wedding-party-gifts/groomsmen-best-man-gifts)[See all gifts by recipient](https://www.notonthehighstreet.com/gifts/shop-by-recipient)[Beauty treats](https://www.notonthehighstreet.com/themes/lifestyle/press-pause)[Candles](https://www.notonthehighstreet.com/home/home-accessories/candles-candlesticks/candles)[Chocolates & confectionery](https://www.notonthehighstreet.com/food-drink/chocolates-confectionery)[Hampers & gift sets](https://www.notonthehighstreet.com/hampers-gift-sets)[Keyrings](https://www.notonthehighstreet.com/fashion/keyrings)[Mugs](https://www.notonthehighstreet.com/home/kitchen/tableware/mugs)[Letterbox gifts](https://www.notonthehighstreet.com/hampers-gift-sets/letterbox-gifts)[Subscription gifts](https://www.notonthehighstreet.com/gifts/shop-by-category/subscription-gifts)[Gift cards](https://www.notonthehighstreet.com/gift-cards)[Personalised gifts](https://www.notonthehighstreet.com/gifts/personalised-gifts)[Experience gifts](https://www.notonthehighstreet.com/experiences)[Photo gifts](https://www.notonthehighstreet.com/gifts/shop-by-category/photo-gifts)
+    
+* [Birthday](https://www.notonthehighstreet.com/birthday-gifts)
+    
+    [Birthday gifts for her](https://www.notonthehighstreet.com/themes/best-birthday-gifts/for-her)[Birthday gifts for him](https://www.notonthehighstreet.com/themes/best-birthday-gifts/for-him)[Birth year gifts](https://www.notonthehighstreet.com/themes/gifts/birth-year-gifts)[Birthstone gifts](https://www.notonthehighstreet.com/themes/gifts/birthstone-gifts)[Funny birthday gifts](https://www.notonthehighstreet.com/birthday-gifts/funny)[Personalised birthday gifts](https://www.notonthehighstreet.com/birthday-gifts/personalised)[1st birthday gifts](https://www.notonthehighstreet.com/gifts/shop-by-occasion/birthdays/1st-birthday-gifts)[18th birthday gifts](https://www.notonthehighstreet.com/gifts/shop-by-occasion/birthdays/18th-birthday-gifts)[21st birthday gifts](https://www.notonthehighstreet.com/gifts/shop-by-occasion/birthdays/21st-birthday-gifts)[30th birthday gifts](https://www.notonthehighstreet.com/gifts/shop-by-occasion/birthdays/30th-birthday-gifts)[40th birthday gifts](https://www.notonthehighstreet.com/gifts/shop-by-occasion/birthdays/40th-birthday-gifts)[50th birthday gifts](https://www.notonthehighstreet.com/gifts/shop-by-occasion/birthdays/50th-birthday-gifts)[60th birthday gifts](https://www.notonthehighstreet.com/gifts/shop-by-occasion/birthdays/60th-birthday-gifts)[70th birthday gifts](https://www.notonthehighstreet.com/gifts/shop-by-occasion/birthdays/70th-birthday-gifts)[80th birthday gifts](https://www.notonthehighstreet.com/gifts/shop-by-occasion/birthdays/80th-birthday-gifts)[90th birthday gifts](https://www.notonthehighstreet.com/birthday-gifts/90th)[Birthday cards](https://www.notonthehighstreet.com/cards-wrap/cards/shop-by-occasion/birthday)[Birthday decorations](https://www.notonthehighstreet.com/parties)[Cricket gifts](https://www.notonthehighstreet.com/themes/gifts/cricket-gifts)[Fishing gifts](https://www.notonthehighstreet.com/themes/gifts/fishing-gifts)[Football gifts](https://www.notonthehighstreet.com/themes/gifts/football-gifts)[F1 gifts](https://www.notonthehighstreet.com/gifts/shop-by-personality/for-f1-lovers)[Golf gifts](https://www.notonthehighstreet.com/themes/gifts/golf-gifts)[Rugby gifts](https://www.notonthehighstreet.com/themes/gifts/rugby-gifts)[Gifts for cat lovers](https://www.notonthehighstreet.com/themes/gifts/gifts-for-cat-lovers)[Gifts for dog lovers](https://www.notonthehighstreet.com/themes/gifts/gifts-for-dog-lovers)[See all gifts for animal lovers](https://www.notonthehighstreet.com/gifts/animal)[Foodie gifts](https://www.notonthehighstreet.com/gifts/shop-by-personality/gifts-for-foodies)[Garden gifts](https://www.notonthehighstreet.com/gifts/shop-by-personality/inspired-by-the-garden)[Gifts for book lovers](https://www.notonthehighstreet.com/gifts/shop-by-personality/gifts-for-book-lovers)[Gifts for music lovers](https://www.notonthehighstreet.com/gifts/shop-by-personality/music-lover)[Gin gifts](https://www.notonthehighstreet.com/themes/gifts/gin-gifts)[Travel gifts](https://www.notonthehighstreet.com/gifts/shop-by-personality/frequent-traveller)[See all gifts by interest](https://www.notonthehighstreet.com/gifts/shop-by-personality)[Gifts under £20](https://www.notonthehighstreet.com/gifts/gifts-by-price/gifts-under-20)[Gifts under £30](https://www.notonthehighstreet.com/gifts/gifts-by-price/gifts-under-30)[Gifts under £50](https://www.notonthehighstreet.com/gifts/gifts-by-price/gifts-25-50)
+    
+* [Cards](https://www.notonthehighstreet.com/cards-wrap)
+    
+    [Anniversary cards](https://www.notonthehighstreet.com/cards-wrap/cards/shop-by-occasion/anniversary)[Birthday cards](https://www.notonthehighstreet.com/cards-wrap/cards/shop-by-occasion/birthday)[Christening cards](https://www.notonthehighstreet.com/cards-wrap/cards/shop-by-occasion/christening)[Engagement cards](https://www.notonthehighstreet.com/cards-wrap/cards/shop-by-occasion/engagement)[Father's Day cards](https://www.notonthehighstreet.com/fathers-day/cards-wrap)[New baby cards](https://www.notonthehighstreet.com/cards-wrap/cards/shop-by-occasion/new-baby)[Wedding cards](https://www.notonthehighstreet.com/cards-wrap/cards/shop-by-occasion/wedding)[See all occasion cards](https://www.notonthehighstreet.com/cards-wrap/cards/shop-by-occasion)[Congratulations cards](https://www.notonthehighstreet.com/cards-wrap/cards/shop-by-category/congratulations)[Funny cards](https://www.notonthehighstreet.com/cards-wrap/cards/shop-by-category/funny)[Get well soon cards](https://www.notonthehighstreet.com/cards-wrap/cards/shop-by-category/get-well-soon)[Good luck cards](https://www.notonthehighstreet.com/cards-wrap/cards/shop-by-category/good-luck)[Leaving cards](https://www.notonthehighstreet.com/cards-wrap/cards/shop-by-category/leaving)[New home cards](https://www.notonthehighstreet.com/cards-wrap/cards/shop-by-occasion/new-home)[Personalised cards](https://www.notonthehighstreet.com/cards-wrap/cards/personalised-cards)[Sympathy cards](https://www.notonthehighstreet.com/cards-wrap/cards/shop-by-category/sympathy)[Teacher cards](https://www.notonthehighstreet.com/cards-wrap/cards/shop-by-recipient/for-teachers)[Thank you cards](https://www.notonthehighstreet.com/cards-wrap/cards/shop-by-category/thank-you)[Thinking of you cards](https://www.notonthehighstreet.com/cards-wrap/cards/shop-by-category/thinking-of-you)[1st birthday cards](https://www.notonthehighstreet.com/cards-wrap/cards/shop-by-occasion/birthday/special-age-birthday-cards/1st-birthday-cards)[18th birthday cards](https://www.notonthehighstreet.com/cards-wrap/cards/shop-by-occasion/birthday/special-age-birthday-cards/18th-birthday-cards)[21st birthday cards](https://www.notonthehighstreet.com/cards-wrap/cards/shop-by-occasion/birthday/special-age-birthday-cards/21st-birthday-cards)[30th birthday cards](https://www.notonthehighstreet.com/cards-wrap/cards/shop-by-occasion/birthday/special-age-birthday-cards/30th-birthday-cards)[40th birthday cards](https://www.notonthehighstreet.com/cards-wrap/cards/shop-by-occasion/birthday/special-age-birthday-cards/40th-birthday-cards)[50th birthday cards](https://www.notonthehighstreet.com/cards-wrap/cards/shop-by-occasion/birthday/special-age-birthday-cards/50th-birthday-cards)[60th birthday cards](https://www.notonthehighstreet.com/cards-wrap/cards/shop-by-occasion/birthday/special-age-birthday-cards/60th-birthday-cards)[70th birthday cards](https://www.notonthehighstreet.com/cards-wrap/cards/shop-by-occasion/birthday/special-age-birthday-cards/70th-birthday-cards)[See all milestone birthday cards](https://www.notonthehighstreet.com/cards-wrap/cards/shop-by-occasion/birthday/special-age-birthday-cards)
+    
+* [Jewellery](https://www.notonthehighstreet.com/jewellery)
+    
+    [Women's bracelets](https://www.notonthehighstreet.com/jewellery/womens-jewellery/bracelets-bangles)[Women's earrings](https://www.notonthehighstreet.com/jewellery/womens-jewellery/earrings)[Women's necklaces](https://www.notonthehighstreet.com/jewellery/womens-jewellery/necklaces-pendants)[Women's rings](https://www.notonthehighstreet.com/jewellery/womens-jewellery/rings)[Wedding jewellery](https://www.notonthehighstreet.com/weddings/wedding-jewellery)[Jewellery storage](https://www.notonthehighstreet.com/jewellery/jewellery-storage)[See all women's jewellery](https://www.notonthehighstreet.com/jewellery/womens-jewellery)[Men's bracelets](https://www.notonthehighstreet.com/jewellery/mens-jewellery/bracelets)[Men's cufflinks](https://www.notonthehighstreet.com/jewellery/mens-jewellery/cufflinks)[Men's necklaces](https://www.notonthehighstreet.com/jewellery/mens-jewellery/necklaces)[Men's rings](https://www.notonthehighstreet.com/jewellery/mens-jewellery/rings)[See all men's jewellery](https://www.notonthehighstreet.com/jewellery/mens-jewellery)[Kids' bracelets](https://www.notonthehighstreet.com/baby-child/childrens-accessories/childrens-jewellery/bracelets)[Kids' earrings](https://www.notonthehighstreet.com/baby-child/childrens-accessories/childrens-jewellery/earrings)[Christening jewellery](https://www.notonthehighstreet.com/christening-department/christening-jewellery) [See all kids' jewellery](https://www.notonthehighstreet.com/baby-child/childrens-accessories/childrens-jewellery)[Silver jewellery](https://www.notonthehighstreet.com/themes/jewellery/silver-jewellery)[Gold jewellery](https://www.notonthehighstreet.com/themes/jewellery/gold-jewellery)[Pearl jewellery](https://www.notonthehighstreet.com/themes/jewellery/pearl-jewellery)[Birthstone jewellery](https://www.notonthehighstreet.com/jewellery/birthstone-jewellery)[Huggie earrings](https://www.notonthehighstreet.com/themes/jewellery/huggie-earrings)[Stud earrings](https://www.notonthehighstreet.com/jewellery/womens-jewellery/earrings-by-style/stud-earrings)[Drop earrings](https://www.notonthehighstreet.com/jewellery/womens-jewellery/earrings-by-style/drop-earrings)[Climber earrings](https://www.notonthehighstreet.com/jewellery/womens-jewellery/earrings-by-style/climber-earrings)[Ear cuffs](https://www.notonthehighstreet.com/jewellery/womens-jewellery/earrings-by-style/ear-cuffs)[See all earrings by style](https://www.notonthehighstreet.com/jewellery/womens-jewellery/earrings-by-style)[Women's personalised jewellery](https://www.notonthehighstreet.com/jewellery/personalised/for-her)[Men's personalised jewellery](https://www.notonthehighstreet.com/jewellery/personalised/for-him)[See all personalised jewellery](https://www.notonthehighstreet.com/jewellery/personalised)[Bee jewellery](https://www.notonthehighstreet.com/themes/jewellery/bee-jewellery)[Evil eye jewellery](https://www.notonthehighstreet.com/themes/jewellery/evil-eye-jewellery)[Art Deco jewellery](https://www.notonthehighstreet.com/themes/jewellery/art-deco-jewellery)[St Christopher jewellery](https://www.notonthehighstreet.com/themes/jewellery/st-christopher-jewellery)[Locket necklaces](https://www.notonthehighstreet.com/jewellery/womens-jewellery/lockets)
+    
+* [Home](https://www.notonthehighstreet.com/home)
+    
+    [Bed & bath](https://www.notonthehighstreet.com/home/bed-bath-table-linen)[Furniture](https://www.notonthehighstreet.com/home/furniture)[Kitchen & dining](https://www.notonthehighstreet.com/home/kitchen)[Lighting](https://www.notonthehighstreet.com/home/lighting)[Storage & organisers](https://www.notonthehighstreet.com/home/storage-organisers)[Tableware](https://www.notonthehighstreet.com/home/kitchen/tableware)[Blankets & throws](https://www.notonthehighstreet.com/home/bed-bath-table-linen/blankets-throws)[Candles & fragrance](https://www.notonthehighstreet.com/home/home-accessories/candles-candlesticks)[Cushions](https://www.notonthehighstreet.com/home/cushions)[Decorative accessories](https://www.notonthehighstreet.com/home/home-accessories/decorative-accessories)[Drink & barware](https://www.notonthehighstreet.com/home/kitchen/drink-barware)[Home decorating](https://www.notonthehighstreet.com/home/home-accessories/home-decorating)[Lampshades](https://www.notonthehighstreet.com/home/lighting/lampshades)[Photo & picture frames](https://www.notonthehighstreet.com/home/home-accessories/picture-frames)[Prints & art](https://www.notonthehighstreet.com/art)[Spring wreaths](https://www.notonthehighstreet.com/home/home-accessories/flowers-plants/wreaths)[See all home accessories](https://www.notonthehighstreet.com/home/home-accessories)[Bathroom](https://www.notonthehighstreet.com/home/shop-by-room/bathroom)[Bedroom](https://www.notonthehighstreet.com/home/shop-by-room/bedroom)[Children's room](https://www.notonthehighstreet.com/home/shop-by-room/childrens-room)[Dining room](https://www.notonthehighstreet.com/home/shop-by-room/dining-room)[Hallway](https://www.notonthehighstreet.com/home/shop-by-room/hallway)[Kitchen](https://www.notonthehighstreet.com/home/shop-by-room/kitchen)[Living room](https://www.notonthehighstreet.com/home/shop-by-room/living-room)[Nursery](https://www.notonthehighstreet.com/home/shop-by-room/nursery)[Office & study](https://www.notonthehighstreet.com/home/shop-by-room/office-study)[See all home](https://www.notonthehighstreet.com/home)[Pots & planters](https://www.notonthehighstreet.com/garden/gardening/pots)[Sculptures & ornaments](https://www.notonthehighstreet.com/garden/art-decorations/sculptures-ornaments)[Signs & plaques](https://www.notonthehighstreet.com/garden/art-decorations/signs)[See all garden](https://www.notonthehighstreet.com/garden)[Collars, tags & charms](https://www.notonthehighstreet.com/pets/collars-tags-charms)[Food, feeding & treats](https://www.notonthehighstreet.com/pets/food-feeding)[Gifts for dog](https://www.notonthehighstreet.com/pets/shop-by-pet/dogs)[Gifts for cats](https://www.notonthehighstreet.com/pets/shop-by-pet/cats)[See all pets](https://www.notonthehighstreet.com/pets)
+    
+* [Food & drink](https://www.notonthehighstreet.com/food-drink)
+    
+    [Baking kits](https://www.notonthehighstreet.com/food-drink/food-kits-to-make-yourself/baking-kits)[Baking gifts](https://www.notonthehighstreet.com/themes/gifts/gifts-for-bakers)[Cocktail gifts](https://www.notonthehighstreet.com/themes/gifts/cocktail-gifts)[Cooking gifts](https://www.notonthehighstreet.com/gifts/shop-by-personality/aspirational-chef)[Cheese gifts](https://www.notonthehighstreet.com/themes/gifts/cheese-gifts)[Coffee gifts](https://www.notonthehighstreet.com/themes/gifts/coffee-gifts)[Gluten free gifts](https://www.notonthehighstreet.com/themes/gifts/gluten-free-gifts)[Food hampers](https://www.notonthehighstreet.com/hampers-gift-sets/food-drink/food-hampers)[Drink & alcohol hampers](https://www.notonthehighstreet.com/hampers-gift-sets/food-drink/drinks-hampers)[Sweet & chocolate hampers](https://www.notonthehighstreet.com/hampers-gift-sets/food-drink/sweet-chocolate-hampers)[See all food & drink hampers](https://www.notonthehighstreet.com/hampers-gift-sets/food-drink)[Biscuits](https://www.notonthehighstreet.com/food-drink/biscuits)[Cakes & sweet treats](https://www.notonthehighstreet.com/food-drink/cakes-sweet-treats)[Chocolates & confectionery](https://www.notonthehighstreet.com/food-drink/chocolates-confectionery)[Jams & condiments](https://www.notonthehighstreet.com/food-drink/jams-preserves)[Sauces & seasonings](https://www.notonthehighstreet.com/food-drink/sauces-seasonings)[Savoury hampers & snacks](https://www.notonthehighstreet.com/food-drink/savouries)[See all food](https://www.notonthehighstreet.com/food-drink)[Beer & cider](https://www.notonthehighstreet.com/food-drink/wines-beers-spirits/beer-cider)[Champagne & prosecco](https://www.notonthehighstreet.com/food-drink/wines-beers-spirits/champagne-prosecco)[Cocktail kits](https://www.notonthehighstreet.com/food-drink/wines-beers-spirits/cocktails)[Low & alcohol free](https://www.notonthehighstreet.com/food-drink/wines-beers-spirits/low-no-alcohol-drinks)[Soft drinks](https://www.notonthehighstreet.com/food-drink/soft-drinks)[Spirits](https://www.notonthehighstreet.com/food-drink/wines-beers-spirits/spirits)[Tea, coffee & infusions](https://www.notonthehighstreet.com/food-drink/teas-coffees-infusions)[Wine](https://www.notonthehighstreet.com/food-drink/wines-beers-spirits/wine)[See all drinks](https://www.notonthehighstreet.com/food-drink/wines-beers-spirits)
+    
+* [Weddings](https://www.notonthehighstreet.com/weddings)
+    
+    [Wedding Invitations](https://www.notonthehighstreet.com/weddings/wedding-stationery/invitations)[Wedding table plans](https://www.notonthehighstreet.com/weddings/wedding-stationery/table-plans)[Save the date cards](https://www.notonthehighstreet.com/weddings/wedding-stationery/save-the-date-cards)[Wedding planners](https://www.notonthehighstreet.com/weddings/wedding-stationery/planners)[Wedding place cards](https://www.notonthehighstreet.com/weddings/wedding-stationery/place-cards)[Wedding favours](https://www.notonthehighstreet.com/weddings/wedding-favours)[Wedding decorations](https://www.notonthehighstreet.com/weddings/wedding-decorations)[Wedding guest books & albums](https://www.notonthehighstreet.com/weddings/wedding-stationery/guest-books-albums)[Wedding table decorations](https://www.notonthehighstreet.com/weddings/wedding-table-decorations)[Wedding cake toppers](https://www.notonthehighstreet.com/weddings/wedding-cakes-accessories/wedding-cake-toppers)[Wedding cakes & accessories](https://www.notonthehighstreet.com/weddings/wedding-cakes-accessories)[Wedding keepsake boxes](https://www.notonthehighstreet.com/weddings/wedding-keepsakes/keepsake-boxes)[Something blue](https://www.notonthehighstreet.com/themes/weddings/something-blue) [Bridal hair accessories](https://www.notonthehighstreet.com/weddings/wedding-accessories/bridal-accessories/bridal-hair-accessories)[Bridal jewellery](https://www.notonthehighstreet.com/weddings/wedding-jewellery/bridal-jewellery)[Wedding veils](https://www.notonthehighstreet.com/weddings/wedding-accessories/bridal-accessories/wedding-veils)[Bridal shoes](https://www.notonthehighstreet.com/weddings/wedding-accessories/bridal-accessories/bridal-shoes)[Wedding dresses](https://www.notonthehighstreet.com/weddings/wedding-clothing/wedding-dresses)[Wedding rings](https://www.notonthehighstreet.com/weddings/wedding-jewellery/wedding-rings)[Engagement rings](https://www.notonthehighstreet.com/weddings/wedding-jewellery/engagement-rings)[Bridesmaid dresses](https://www.notonthehighstreet.com/weddings/wedding-clothing/bridesmaid-dresses)[Bridesmaid jewellery](https://www.notonthehighstreet.com/weddings/wedding-jewellery/bridesmaid-jewellery)[Bridesmaid & flower girl dresses](https://www.notonthehighstreet.com/weddings/wedding-clothing/childrens-bridesmaid-flower-girl-dresses)[Bridal party nightwear](https://www.notonthehighstreet.com/weddings/wedding-accessories/bridal-accessories/dressing-gowns-nightwear)[Bridesmaid thank you gifts](https://www.notonthehighstreet.com/weddings/wedding-party-thank-yous/wedding-party-gifts/bridesmaid-gifts)[Mother of the bride & groom thank you gifts](https://www.notonthehighstreet.com/weddings/wedding-party-thank-yous/wedding-party-gifts/mother-of-the-bride-groom-gifts)[Groomsmen & best man thank you gifts](https://www.notonthehighstreet.com/weddings/wedding-party-thank-yous/wedding-party-gifts/groomsmen-best-man-gifts)[Father of the bride & groom thank you gifts](https://www.notonthehighstreet.com/weddings/wedding-party-thank-yous/wedding-party-gifts/father-of-the-bride-groom-gifts)[Flower girl gIfts](https://www.notonthehighstreet.com/weddings/wedding-party-thank-yous/wedding-party-gifts/flower-girl-gifts)[Page boy gifts](https://www.notonthehighstreet.com/weddings/wedding-party-thank-yous/wedding-party-gifts/page-boy-gifts)[Bridesmaid cards](https://www.notonthehighstreet.com/weddings/wedding-party-thank-yous/wedding-party-cards/bridesmaid-cards)[Groomsmen & best man cards](https://www.notonthehighstreet.com/weddings/wedding-party-thank-yous/wedding-party-cards/groomsmen-best-man-cards)[Flower girl cards](https://www.notonthehighstreet.com/weddings/wedding-party-thank-yous/wedding-party-cards/flower-girl-cards)[Page boy cards](https://www.notonthehighstreet.com/weddings/wedding-party-thank-yous/wedding-party-cards/page-boy-cards)[Wedding party cards](https://www.notonthehighstreet.com/weddings/wedding-party-thank-yous/wedding-party-cards)[Spring wedding Ideas](https://www.notonthehighstreet.com/themes/weddings/spring-wedding)[Summer wedding Ideas](https://www.notonthehighstreet.com/themes/weddings/summer-wedding)[Autumn wedding Ideas](https://www.notonthehighstreet.com/themes/weddings/autumn-wedding)[Winter wedding Ideas](https://www.notonthehighstreet.com/themes/weddings/winter-wedding)[Hen party](https://www.notonthehighstreet.com/themes/weddings/hen-party-ideas)[Stag do](https://www.notonthehighstreet.com/themes/weddings/stag-do-ideas)[Experiences for her](https://www.notonthehighstreet.com/gifts/shop-by-recipient/for-her/experiences)[Experiences for him](https://www.notonthehighstreet.com/gifts/shop-by-recipient/for-him/experiences)
+    
+* [See more](https://www.notonthehighstreet.com/)
+    
+    [Women's scarves](https://www.notonthehighstreet.com/fashion/womens-accessories/hats-scarves-gloves/scarves)[Women's gloves](https://www.notonthehighstreet.com/fashion/womens-accessories/hats-scarves-gloves/gloves)[Women's bags](https://www.notonthehighstreet.com/fashion/womens-accessories/bags-purses)[Women's pyjamas & nightwear](https://www.notonthehighstreet.com/fashion/womens-fashion/lingerie-nightwear)[Women's sweatshirts & hoodies](https://www.notonthehighstreet.com/fashion/womens-fashion/hoodies-sweatshirts)[Women's slippers](https://www.notonthehighstreet.com/fashion/womens-fashion/shoes/slippers)[See all women's clothing & accessories](https://www.notonthehighstreet.com/fashion)[Men's wallets](https://www.notonthehighstreet.com/fashion/mens-accessories/wallets-money-clips/wallets)[Men's bags](https://www.notonthehighstreet.com/fashion/mens-accessories/bags-cases)[Men's scarves](https://www.notonthehighstreet.com/fashion/mens-accessories/hats-scarves-gloves/scarves)[Men's underwear & socks](https://www.notonthehighstreet.com/fashion/mens-fashion/underwear-socks)[Men's t-shirts & vests](https://www.notonthehighstreet.com/fashion/mens-fashion/t-shirts-vests)[Men's nightwear](https://www.notonthehighstreet.com/fashion/mens-fashion/nightwear)[See all men's clothing & accessories](https://www.notonthehighstreet.com/fashion)[Bath & body](https://www.notonthehighstreet.com/health-beauty/bath-body)[Beauty hampers](https://www.notonthehighstreet.com/hampers-gift-sets/health-beauty)[Hot water bottles & covers](https://www.notonthehighstreet.com/health-beauty/hot-water-bottles-covers)[Make-up bags & wash bags](https://www.notonthehighstreet.com/health-beauty/make-up-wash-bags)[Men's wash bags](https://www.notonthehighstreet.com/health-beauty/mens-grooming-toiletries/wash-toiletry-bags)[See all beauty & wellness](https://www.notonthehighstreet.com/health-beauty)[Travel wallets](https://www.notonthehighstreet.com/fashion/travel-accessories/travel-wallets)[Passport covers](https://www.notonthehighstreet.com/fashion/travel-accessories/passport-covers)[Luggage tags](https://www.notonthehighstreet.com/fashion/travel-accessories/luggage-tags)[See all travel accessories](https://www.notonthehighstreet.com/fashion/travel-accessories)[Creative kits](https://www.notonthehighstreet.com/hobbies-leisure/creative-kits)[Crochet kits](https://www.notonthehighstreet.com/hobbies-leisure/creative-kits/crochet-kits)[Music accessories](https://www.notonthehighstreet.com/hobbies-leisure/musical-instruments-accessories)[See all hobbies & leisure](https://www.notonthehighstreet.com/hobbies-leisure)[Bookmarks](https://www.notonthehighstreet.com/stationery-department/desk-accessories/bookmarks)[Diaries](https://www.notonthehighstreet.com/stationery-department/planning-organising/diaries)[Guestbooks](https://www.notonthehighstreet.com/stationery-department/albums-guestbooks/guest-books)[Notebooks & journals](https://www.notonthehighstreet.com/stationery-department/writing/notebooks-journals)[Photo albums](https://www.notonthehighstreet.com/stationery-department/albums-guestbooks/photo-albums)[See all stationery](https://www.notonthehighstreet.com/stationery-department)[Kids' books](https://www.notonthehighstreet.com/baby-child/toys-games/books)[Kids' gift sets](https://www.notonthehighstreet.com/baby-child/baby-care/gift-sets)[Kids' backpacks](https://www.notonthehighstreet.com/baby-child/childrens-accessories/bags-purses-wallets/backpacks)[Baby blankets](https://www.notonthehighstreet.com/baby-child/baby-care/blankets-comforters-throws)[Baby keepsake boxes](https://www.notonthehighstreet.com/baby-child/keepsakes/keepsake-boxes)[See all kids](https://www.notonthehighstreet.com/baby-child)[Experience gifts for her](https://www.notonthehighstreet.com/gifts/shop-by-recipient/for-her/experiences)[Experience gifts for him](https://www.notonthehighstreet.com/gifts/shop-by-recipient/for-him/experiences)[Experience gifts for couples](https://www.notonthehighstreet.com/experiences/for-couples)[Experience gifts for friends](https://www.notonthehighstreet.com/experiences/for-friends)[See all gift experiences](https://www.notonthehighstreet.com/experiences)
+    
+
+Customer Terms & Conditions
+---------------------------
+
+IMPORTANT NOTE: As well as reading the following Terms & Conditions to which you have agreed by using this Site, you should also refer to the terms and conditions of each individual seller ("Seller”) on their notonthehighstreet.com home or product pages before making any order.
+
+Acceptance of terms
+
+These provisions (including the [Privacy Policy](https://www.notonthehighstreet.com/about/privacy) together with any other documents referred to in these provisions) set out the terms and conditions on which you may make use of the notonthehighstreet.com website (the “Site”) or our mobile application service (the “App”) (together the "Service"), whether as a guest or registered user ("Customer Terms").
+
+We may update these Customer Terms (and the documents referred to in them) and any aspect of the Service from time to time and will notify such changes to you by uploading details of them on the Site. You should review the Customer Terms periodically for changes. By using the Site you agree to be bound by these Customer Terms. If you do not agree to these Customer Terms then please do not use the Services or any part of them.
+
+1\. About us
+
+The Services are operated by Notonthehighstreet Enterprises Limited ("we"). We are registered in England and Wales under company number 05591382 and with our registered office address at NOTHS, First Floor Templeback, 10 Temple Back, Bristol, BS1 6FL. Our VAT number is 872468392.
+
+2\. Accessing our Service
+
+Access to the Services is permitted on a temporary basis, and we reserve the right to withdraw or amend the services we provide through the Site without notice. We will not be liable if for any reason any of the Services are unavailable at any time or for any period.
+
+From time to time, we may restrict access to any or all of the Services, to users who have registered with us. Any personal data and other information provided by you is processed by us in accordance with our [Privacy Policy](https://www.notonthehighstreet.com/about/privacy). By providing any such personal data or other information you agree to the terms of our [Privacy Policy](https://www.notonthehighstreet.com/about/privacy).
+
+If you choose, or you are provided with, a user identification code, password or any other piece of information as part of our security procedures, you must treat such information as confidential, and you must not disclose it to any third party. We have the right to disable any user identification code or password, whether chosen by you or allocated by us, at any time, if in our opinion you have failed to comply with any of the provisions of these Customer Terms.
+
+It is your responsibility to ensure that all information (including your name and address) you upload to the Site, is correct and accurate. Ensure that you check all information before making a purchase.
+
+3\. Use of the App
+
+(a) We grant you the right to use the App only for your personal use on an iOS or Android product that you own or control. You may not: (a) modify, copy, publish, license, sell or otherwise commercialise the App or any information or software associated with it; (b) rent, lease or otherwise transfer rights to the App; or (c) use the App in any way that could impair our Site or Service in any way or interfere with any party’s use or enjoyment of our Site or Service.
+
+(b) Neither we nor any of our licensors or service providers has any obligation to provide any maintenance and support services with respect to the App or any other part of the Service.
+
+(c) In using the App through an iOS or Android product, you confirm that you have agreed to the applicable terms and conditions relating to such use.
+
+If you breach any of these Customer Terms, your right to use the Site and/or Service will cease immediately and you must, at our option, return and/or destroy any copies of the content you have made.
+
+4\. Intellectual property rights
+
+We own, or are the licensee to, all right, title and interest in and to the Service, including all rights under patent, copyright, trade secret or trademark law, and any and all other proprietary rights, including all applications, renewals, extensions and restorations thereof. You will not modify, adapt, translate, prepare derivative works from, decompile, reverse-engineer, disassemble or otherwise attempt to derive source code from the App or any other part of the Service.
+
+You must not extract or otherwise use any of the content on the Site and/or Service for commercial purposes without obtaining a licence to do so from us or our licensors.
+
+We respect the intellectual property rights of others and we ask our Sellers to do the same. If you are aware that any of your intellectual property rights have been infringed on the Site, please [contact us here](https://info.notonthehighstreet.com/hc/en-us/articles/207113987-How-do-I-contact-you-) to report the concern.
+
+5\. Description of notonthehighstreet.com's service
+
+Please note that when you decide to purchase goods and/or services the resulting legal contract is between you and that Seller and such contract shall compromise of these Customer Terms, the email confirmation of your order and the applicable details on the product page and you agree to be bound by all such provisions.
+
+You should carefully review the Customer Terms, the email confirmation of your order and the applicable details on the product page in relation to the order. If there is any conflict or inconsistency between these Customer Terms and the email confirmation of your order or the applicable details on the product page, these Customer Terms shall prevail to the extent of the conflict or inconsistency.
+
+We cannot give any undertaking, that goods and/or services you purchase from Sellers through the Site will be of satisfactory quality, and this and any other such warranties (whether express or implied) are disclaimed by us absolutely to the fullest extent permitted by law. This disclaimer does not affect your statutory rights against the Seller. Where you order goods and/or services through the Site we may disclose your customer information related to that transaction to the relevant Seller.
+
+We do not review or control, and are not responsible in any way for, listings provided by Sellers and at no time do we possess any items offered for sale by Sellers through the Site.
+
+6\. Disclaimer of Warranties and limitation of liability
+
+(a)To the fullest extent permitted by applicable laws, we disclaim responsibility for any harm resulting from your use of any part of the Service.
+
+(b) The Site and App are provided “as is” and “as available” and we expressly disclaim to the fullest extent permitted by law all express, implied and statutory warranties.
+
+(c) You download and use the App at your own discretion and risk, and you are solely responsible for any damages to your hardware device(s) or loss of data that results from the download or use of the App.
+
+(d) Neither we nor our licensors are liable to you or any user for any use or misuse of the App. Such limitation: (a) includes direct damages, whether such claim is based on warranty, contract, tort or otherwise (even if we have been advised of the possibility of such damages); (b) includes indirect, incidental, consequential, special, exemplary and punitive damages, whether such claim is based on warranty, contract, tort or otherwise (even if we have been advised of the possibility of such damages); (c) applies whether damages arise from use or misuse of and reliance on this App, from inability to use the App, or from the interruption, suspension or termination of the App (including any damages incurred by third parties).
+
+(e) Nothing in these Customer Terms shall limit or exclude our liability for fraudulent misrepresentation, for death or personal injury resulting from our negligence or the negligence of our agents or employees or for any other liability that cannot be limited or excluded by law.
+
+7\. How contracts are formed between you and Sellers
+
+Each order you place shall be deemed to be an offer by you to purchase the goods and/or services specified within it subject to the Customer Terms and the applicable details on the product page.
+
+No order shall be deemed to be accepted by the Seller until we (acting as the commercial agent of the Seller) issue an email acknowledgement of order. The contract between you and a Seller will relate only to those goods and/or services notified in the email acknowledgement of order.
+
+8\. Payment methods
+
+Purchases for goods and/or services you make with Sellers may only be paid for using the payment methods we make available from time to time through our payment facility or by redeeming an email gift voucher or physical gift card (individually a “Gift Card”, together “Gift Cards”) against us to put towards your purchase of goods and/or services on the Site. Except as otherwise described in the Gift Card special terms and conditions below, in accepting or otherwise processing your payments related to the purchase of items from sellers, we act in the capacity as commercial agent of the Seller. In respect of all payment methods including Gift Cards, the Seller acknowledges and agrees that the valid payment by you to us or redemption of a Gift Card for the purchase of item(s) between you and the Seller will satisfy your obligation to pay the Seller for the relevant item(s) and consequently, any debt obligations owed by you to the Seller for the purchase of such items shall be extinguished at that time. You acknowledge that these Customer Terms, and/or any transaction made by you via notothehighstreet.com, do not create or imply any partnership, joint venture or trust relationship between us, you and/or the Seller. The Seller further agrees that it will not seek recourse (legal or otherwise) against you for payment of items if you have validly paid us. All prices shall be shown in the applicable currency and payable in that currency. You accept that some banks may charge you an additional fee for certain transactions (for example, international transactions). You accept that item prices in the currencies displayed do not vary according to your location; delivery charges will vary depending on the destination to choose to have the item delivered. All prices shown on the Site are inclusive of VAT or other sales taxes due in the United Kingdom or the EU.  For delivery destinations outside of the United Kingdom, prices do not include other customs duties which will, if applicable, be payable by you. 
+
+9\. Refusal of transaction
+
+We may refuse to process a transaction for any reason or refuse service to anyone at any time at our sole discretion. We will not be liable to you or any third party by reason of so refusing or by reason of unwinding or suspending any transaction after processing has begun.
+
+10\. Delivery arrangements
+
+Your shopping basket on the Site displays the goods you have chosen, the Seller who shall provide them and details of postage and packing. The delivery costs for each Seller vary according to the delivery methods they offer. Any delivery times quoted are in working days.
+
+11\. Import regulations and duty
+
+If you order goods from our Site for delivery outside the UK, they may be subject to import duties and taxes which are levied when the delivery reaches the specified destination. You will be responsible for payment of any such import duties and taxes. Please note that we have no control over these charges and cannot predict their amount. Please contact your local customs office for further information before placing your order.
+
+12\. Returns
+
+Please see our [Returns & Refunds Policy](https://info.notonthehighstreet.com/hc/en-us/articles/206411168-What-is-your-returns-policy) if you wish to discuss or organise a return, replacement or refund of an item purchased through the Site. Unfortunately some items are non-cancelable and non-refundable, please see our [Returns & Refunds Policy](https://info.notonthehighstreet.com/hc/en-us/articles/206411168-What-is-your-returns-policy) for more information.
+
+13\. Links
+
+You may link to our home page on the Site, provided you do so in a way that is fair and legal and does not damage our reputation or take advantage of it, but you must not establish a link in such a way as to suggest any form of association, approval or endorsement on our part where none exists. The Company expressly reserves the right to revoke the right granted in this clause for breach of these Customer Terms and to take any action it deems appropriate.
+
+Our Site must not be framed on any other website, nor may you create a link to any part of our Site other than the home page. We reserve the right to withdraw linking permission at any time.
+
+The Site provides links to other websites for your information. If you use these links, you leave the Site. We have not reviewed these third party websites and we have no control over such sites or resources. We therefore do not endorse or make any representations about them, or any material found there, or any results that may be obtained from using them. If you decide to access any of the third party websites linked to the Site, you do so entirely at your own risk. We accept no responsibility for third party websites or for any loss or damage that may arise from your use of them including the group gifting application which is provided by a third party.
+
+14\. Uploading material to the Site
+
+Uploaded material must not: (i) be defamatory of any person; (ii) contain material which is obscene, discriminatory, offensive, hateful, threatening or inflammatory; (iii) infringe any copyright, database right or trade mark of any other person; (iv) be likely to deceive any person; (v) promote any illegal activity; (vi) be likely to harass, upset, embarrass, alarm or annoy any other person; or (vii) be used to impersonate any person, or to misrepresent your identity or affiliation with any person.
+
+Any material a user uploads to the Site will be considered non-confidential and non-proprietary, and we have the right to use, copy, distribute and disclose to third parties any such material for any purpose. We also have the right to disclose a user’s identity to any third party who is claiming that any material posted or uploaded by such user constitutes a violation of their intellectual property rights, or of their right to privacy. We will not be responsible, or liable to any third party, for the content or accuracy of any materials posted by users. We have the right to remove any material or posting a user makes on the Site.
+
+15\. Viruses, hacking and other offences
+
+You must not misuse our Site or any part of the Service by introducing viruses, Trojans, worms, logic bombs or other material which is malicious or technologically harmful. You must not attempt to gain unauthorised access to our Site, the server on which our Site is stored or any server, computer or database connected to our Site. You must not attack our Site via a denial-of-service attack or a distributed denial-of-service attack.
+
+By breaching this provision, you would commit a criminal offence under the Computer Misuse Act 1990. We will report any such breach to the relevant law enforcement authorities and we will co-operate with those authorities by disclosing your identity to them. In the event of such a breach, your right to use our Site will cease immediately.
+
+16\. Waiver
+
+If we fail at any time to insist upon strict performance of any of your obligations under these Customer Terms, or if we fail to exercise any of the rights or remedies to which we are entitled under them, this shall not constitute a waiver of such rights or remedies and shall not relieve you from compliance with such obligations. A waiver by us of any default shall not constitute a waiver of any subsequent default. No waiver by us of any of these Customer Terms shall be effective unless it is expressly stated to be a waiver and is communicated to you in writing.
+
+17\. Severability
+
+If any of these Customer Terms are determined by any competent authority to be invalid, unlawful or unenforceable to any extent, such term, condition or provision will to that extent be severed from the remaining terms, conditions and provisions which will continue to be valid to the fullest extent permitted by law.
+
+18\. Entire agreement
+
+These Customer Terms and any documents expressly referred to in them constitute the entire agreement between us and supersedes and extinguishes all previous drafts, agreements, arrangements and understandings between us, whether written or oral, relating to its subject matter. Each of us agrees that neither we nor you shall have any remedies in respect of any representation or warranty (whether made innocently or negligently) that is not set out in these Customer Terms or any documents expressly referred to in them. Neither of us shall have any claim for innocent or negligent misrepresentation based upon any statement in these Customer Terms and any documents expressly referred to in them.
+
+19\. Force majeure
+
+Where we or a Seller are prevented from or delayed in carrying out obligations under these Customer Terms due to circumstances beyond our or the Seller's reasonable control including, without limitation, acts of God, governmental actions, war or national emergency, riot, civil commotion, fire, explosion, flood, inclement weather, epidemic, lock-outs, strikes or other labour disputes (whether or not relating to the Seller's workforce), or restraints or delays affecting carriers or an inability or delay in obtaining supplies of adequate or suitable materials then either our or the Seller's (as the case may be) performance of its obligations shall be postponed for the period of time that the circumstances continue.
+
+20\. Rights of Third Parties
+
+No provision of these Customer Terms shall be enforceable by any third party (which includes for these purposes any third party: employee, officer, agent, representative or sub-contractor of either NOTHS or the Seller) under the Contracts (Rights of Third Parties) Act 1999 or otherwise. Nothing in this clause excludes the rights of NOTHS when acting as commercial agent of any Seller.
+
+21\. Law and jurisdiction
+
+Contracts for the purchase of goods or services through our Site or the App shall be governed by English law. Any dispute arising from, or related to, such contracts shall be subject to the exclusive jurisdiction of the courts of England.
+
+22\. Feedback and Complaints
+
+General comments about the Site are welcome, please [contact us here](https://info.notonthehighstreet.com/hc/en-us/requests/new). Complaints about a specific Seller, goods or services must be directed to the Seller concerned through the contact details provided on the order confirmation email that you receive for resolution directly with them. 
+
+23\. Other applicable terms and conditions
+
+Additional terms and conditions may apply to certain of our products and services. These products and services, and the terms and conditions which apply to them, are set out below.
+
+**Gift Card: special terms and conditions**
+
+When purchasing a Gift Card or using a Gift Card to make a purchase on notonthehighstreet.com, you agree to be bound by the Customer Terms above and also to be bound by the special conditions relating to Gift Cards below.
+
+How to purchase and redeem Gift Cards
+
+1\. When purchasing a Gift Card from notonthehighstreet.com the purchaser must choose a Card type and design.
+
+2\. Email Gift Cards will be dispatched by email to the designated email account as soon as payment for the email Gift Card has been cleared.
+
+3\. Physical Gift Cards will be posted to the recipient of the Gift Card within three (3) working days after payment for the Gift Card has been cleared.
+
+4\. It is the responsibility of the purchaser to ensure that the delivery email address or physical address entered is correct. We cannot be responsible for the incorrect delivery of Gift Cards due to an error by a customer (such as, a mis-typed email address or physical address).
+
+5\. Gift Cards are only available for purchase in pounds sterling using a credit, debit card or using PayPal.
+
+6\. When redeeming a Gift Card the unique code and pin (if applicable) stated on the Gift Card will need to be entered at the checkout. If the holder of the Gift Card does not have an account with us they will be required to open one in order to redeem the Gift Card.
+
+7\. The holder of a Gift Card can only redeem the value against us. The Gift Card cannot be redeemed against Sellers and are not accepted as a means of payment by Sellers featured on our Site.
+
+8\. Where a holder of a Gift Card redeems a Gift Card against us, we will show a credit on their online account with an equivalent sum. In turn we will apply the funds received by us as principal as payment for the Gift Card against the price to be paid for the goods or service selected for purchase on the Site and deduct this from the credit to the holder’s online account.
+
+9\. If the goods purchased total less than the value of the Gift Card, any remaining Gift Card balance will be held against your account on notonthehighstreet.com under 'my funds'.
+
+10\. If credit under a Gift Card is insufficient for us to meet the full cost of the goods purchased the balance must be paid by credit or debit card when the Gift Card is redeemed. You cannot redeem a Gift Card and make a PayPal payment in the same purchase.
+
+11\. Please note that the value of the Gift Card will be deducted by us from your online account and any top-up-payment will be debited, before the applicable Seller will have accepted your offer to purchase a product. As a consequence, if the Seller(s) does not accept your offer to purchase a product, we will reinstate the amount of the Gift Card used to your 'my funds' within your account and reverse any top up payment made in anticipation of such purchase to your credit or debit card respectively.
+
+12\. Our Customer Terms shall apply regarding the purchase of goods or services regardless of whether you redeemed a Gift Card as part of the purchasing process.
+
+General Gift Card terms and conditions
+
+13\. By purchasing and/or redeeming a Gift Card you will be deemed to have read and understood these terms and conditions and agree to be bound by them.
+
+14\. The Customer Terms on the Site shall apply to Gift Cards. If and to the extent there is a conflict or inconsistency between the Customer Terms and these General Gift Card terms and conditions or Gift Card terms and conditions featured on a Gift Card, the General Gift Card terms and conditions and Gift Card terms and conditions featured on a Gift Card (as applicable) shall prevail to the extent of the conflict or inconsistency. The defined terms used in the Customer Terms shall also apply to these General Gift Card terms and conditions.
+
+15\. notonthehighstreet.com Gift Cards can only be accepted by and redeemed against us on notonthehighstreet.com such that we apply our funds towards the purchase of items currently featured on our Site including postage and packaging (subject to availability).
+
+16\. Gift Cards are an arrangement between you and us or the Gift Card holder and not the sellers using notonthehighstreet.com. Sellers do not directly accept Gift Cards as payment for any goods and services sold on the Site and we will pay the Sellers a cash sum equivalent to the value of the Gift Card redeemed against us. Gift Cards cannot be redeemed on the individual websites of any Sellers on notonthehighstreet.com.
+
+17\. Gift Cards cannot be purchased in conjunction with any other goods on notonthehighstreet.com in the same transaction.
+
+18\. Gift Cards cannot be used to purchase other Gift Cards.
+
+19\. The maximum value of Gift Cards that can be purchased in any one order is £500.
+
+20\. One or more Gift Cards can be redeemed against a single order.
+
+21\. We shall not be responsible if a Gift Card is lost, stolen, damaged, impaired, corrupted, destroyed, deleted or used without permission. We reserve the right to refuse to accept a Gift Card which we deem to have been duplicated, or otherwise is suspected to be affected from fraud.
+
+22\. We cannot be held responsible for Gift Cards that cannot be delivered due to the recipient's spam filters, firewalls, capacity of the mailbox, any other factors outside of our control or incorrect physical address.
+
+23\. Gift Cards cannot be returned or refunded, except in accordance with your legal rights. Gift Cards cannot be exchanged for cash or transferred for value.
+
+24\. Gift Cards are valid for 12 months from date of issue.
+
+25\. Gift Cards are provided and operated by Notonthehighstreet Enterprises Limited, NOTHS House, 63 Kew Road, Richmond, Surrey, TW9 2NQ, UK with registered company number: 05591382 and its registered Gift Card agents.
+
+26\. We reserve the right to amend these Gift Card: special terms and conditions and General Gift Card terms and conditions at any time without notice and may take appropriate action, including the cancellation of a Gift Card if, in our absolute discretion, we deem such action necessary.
+
+Promotional code terms and conditions
+
+27\. By using a promotional code you will be deemed to have read and understood these terms and conditions and agree to be bound by them.
+
+28\. The terms and conditions on the Site shall apply to promotional codes. If and to the extent there is a conflict or inconsistency between the terms and conditions of the Site and these promotional code terms and conditions, the promotional code terms and conditions shall prevail to the extent of the conflict or inconsistency. The defined terms used in the Site terms and conditions shall also apply to these promotional code terms and conditions.
+
+29\. notonthehighstreet.com promotional codes can only be used on notonthehighstreet.com and towards the purchase of items currently featured on our Site, excluding delivery charges.
+
+30\. Promotional codes are an arrangement between you and us, and not between you and the Seller. Promotional codes cannot be used on the individual websites of any Sellers on notonthehighstreet.com.
+
+31\. Promotional codes cannot be used in conjunction with any other offer on notonthehighstreet.com, including (but not limited to) any other notonthehighstreet.com promotional code, in the same transaction, or for the purchase of Gift Cards.
+
+32\. The discount associated with a promotional code is applied to your entire basket, excluding any delivery charges. Promotional codes are a combination of letters and numbers, eg, SUKVST1234567, and should be entered on the payment page during checkout for the discount to apply.
+
+33\. Each promotional code will have a limited time period in which to be used and/or a maximum number of orders per code. The code will be invalid once these limits have been reached. Specific terms and conditions for each promotional code setting out any such limits can either be found in the communication you received with the code itself or on the specific promotional code terms and conditions page via the Site (eg, via an on-site banner).
+
+34\. notonthehighstreet.com reserves the right to suspend, change or cancel any promotional code, at any time, in the event of circumstances arising which make it necessary to do so. notonthehighstreet.com may update these terms from time to time and reserves the right to add additional terms and conditions for specific promotional codes as and where necessary. You should review the promotional code terms and conditions periodically for changes.
+
+35\. Promotional codes have no cash value, cannot be transferred and cannot be forwarded or reassigned.
+
+36\. Any refund you may be entitled to receive will not include the redemption value of the promotional code. You will receive no more than the amount you paid towards the final basket price.
+
+37\. These promotional codes are provided and operated by Notonthehighstreet Enterprises Limited, NOTHS House, 63 Kew Road , Richmond, Surrey, TW9 2NQ, UK with registered company number: 05591382
+
+New Seller Promotion terms and conditions
+
+1\. notonthehighstreet.com may from time to time introduce promotions relating to new Sellers, and/or the products of those new Sellers, on the Site
+
+2\. notonthehighstreet.com reserves the right to amend or suspend any new Seller promotion at any time, at its discretion.
+
+Buying corporate gifts: special terms and conditions
+
+1\. When you purchase a corporate gift (a “Corporate Gift Purchase”) you agree to be bound by these special terms and conditions that apply to the Corporate Gift Purchase (the “Corporate Gift Purchase Conditions”), together with the Customer Terms. If you do not agree to these Corporate Gift Purchase Conditions or the Customer Terms then please do not use the Site or the Corporate Gift Purchase. If and to the extent there is a conflict or inconsistency between the Customer Terms and the Corporate Gift Purchases Conditions relating to the Corporate Gift Purchases then the Corporate Gift Purchase Conditions shall prevail to the extent of the conflict or inconsistency.
+
+2\. Notonthehighstreet.com reserves the right to vary or update these Corporate Gift Purchase Conditions at any time. You should review the Customer Terms and these Corporate Gift Purchase Conditions periodically for changes.
+
+3\. In order to place an order for a Corporate Gift Purchase, you should do so through our customer service team, and over the telephone.
+
+4\. If you make a Corporate Gift Purchase you acknowledge and confirm that you are doing so in your capacity as a business, trade or profession and not as a consumer.
+
+5\. Any discount or promotion that we advertise in connection the Corporate Gift Purchase shall:
+
+(i) exclude any delivery costs payable for the goods purchased; and
+
+(ii) be subject to the confirmation by you (to our reasonable satisfaction) pursuant to clause 4 of these Corporate Gift Purchase Conditions that you are placing an order in your capacity as a business, trade or profession and not as a consumer.
+
+We may remove or amend any such promotion or discount at any time, at our sole discretion.
+
+6\. Pursuant to clause 4 of these Corporate Gift Purchase Conditions above, the rights of cancellation under the Consumer Contracts (Information, Cancellation and Additional Charges) Regulations 2013 (the “CCRs”) (including any legislation which succeed the CCRs) and the Customer Terms do not apply to any Corporate Gift Purchase, and such orders are, subject to clause 7 of these Corporate Gift Purchase Conditions, non-cancellable and non-refundable. Individual Sellers may, in their sole discretion, allow cancellation of specific orders.
+
+7\. The exclusions under clause 6 of these Corporate Gift Purchase Conditions above do not seek to exclude any rights you may have under the Sale of Goods Act 1979, the Supply of Goods and Services Act 1982 or any other applicable legislation which may apply to business to business purchases in respect of any Corporate Gift Purchase that you may make.
+
+**Last updated: 31 August 2023**
+
+### Get first dibs
+
+Sign up for sales, discounts and small business stuff
+
+Newsletter signup
+
+Subscribe
+
+See our [privacy policy](https://www.notonthehighstreet.com/about/privacy) to understand how we process your personal data to send you marketing emails
+
+### Get the app
+
+Discover the easiest way to shop
+
+[Learn more](https://www.notonthehighstreet.com/about/apps "Noths app")
+
+[](https://notonthehighstreet.onelink.me/XbOV/f42cf824 "App Store")
+
+[](https://notonthehighstreet.onelink.me/XbOV/19e5d1a0 "Google Play")
+
+### Get social
+
+Follow us for epic gifts and inspo
+
+[](http://www.facebook.com/notonthehighstreet/ "Facebook")[](http://twitter.com/notonthehighst/ "Twitter")[](http://pinterest.com/notonthehighst/ "Pinterest")[](http://instagram.com/notonthehighstreet/ "Instagram")
+
+#### Shopping with us
+
+* [Delivery information](https://info.notonthehighstreet.com/hc/en-us/articles/360007444693-Delivery-)
+* [Returns and cancellations](https://info.notonthehighstreet.com/hc/en-us/articles/206411168-What-is-your-returns-policy-)
+* [Gift cards](https://www.notonthehighstreet.com/gift-cards)
+* [Corporate gifts](https://www.notonthehighstreet.com/pages/corporate-gifts)
+* [Discount and promo codes](https://www.notonthehighstreet.com/about/discounts-promo-codes)
+* [Customer reviews](https://www.notonthehighstreet.com/reviews)
+
+#### Help
+
+* [Frequently asked questions](https://info.notonthehighstreet.com/hc/en-us)
+* [Where’s my order?](https://info.notonthehighstreet.com/hc/en-us/articles/115000990594-My-order-is-overdue-can-I-track-it-)
+* [My Account](https://www.notonthehighstreet.com/user)
+* [Contact us](https://info.notonthehighstreet.com/hc/en-us/articles/207113987-How-do-I-contact-you-)
+* [Contact Seller](https://info.notonthehighstreet.com/hc/en-us/articles/14040370112148-How-do-I-contact-the-Seller-)
+
+#### Useful stuff
+
+* [Who we are](https://www.notonthehighstreet.com/pages/our-story)
+* [Press centre](https://www.notonthehighstreet.com/pages/press-centre)
+* [Careers](https://notonthehighstreet.pinpointhq.com/)
+
+#### For sellers
+
+* [Why sell with us?](https://www.notonthehighstreet.com/pages/why-sell-with-us)
+* [Seller FAQs](https://www.notonthehighstreet.com/join/faqs)
+* [Apply to sell with us](https://www.notonthehighstreet.com/join/signup)
+* [Seller terms and policies](https://www.notonthehighstreet.com/about/seller-terms-and-policies)
+* [Seller privacy and cookies](https://www.notonthehighstreet.com/about/seller-privacy-and-cookies)
+* [Become an affiliate](https://www.notonthehighstreet.com/join/affiliates)
+
+* Shopping with us
+    * [Delivery information](https://info.notonthehighstreet.com/hc/en-us/articles/360007444693-Delivery-)
+    * [Returns and cancellations](https://info.notonthehighstreet.com/hc/en-us/articles/206411168-What-is-your-returns-policy-)
+    * [Gift cards](https://www.notonthehighstreet.com/gift-cards)
+    * [Corporate gifts](https://www.notonthehighstreet.com/pages/corporate-gifts)
+    * [Discount and promo codes](https://www.notonthehighstreet.com/about/discounts-promo-codes)
+    * [Customer reviews](https://www.notonthehighstreet.com/reviews)
+* Help
+    * [Frequently asked questions](https://info.notonthehighstreet.com/hc/en-us)
+    * [Where’s my order?](https://info.notonthehighstreet.com/hc/en-us/articles/115000990594-My-order-is-overdue-can-I-track-it-)
+    * [My Account](https://www.notonthehighstreet.com/user)
+    * [Contact us](https://info.notonthehighstreet.com/hc/en-us/articles/207113987-How-do-I-contact-you-)
+    * [Contact Seller](https://info.notonthehighstreet.com/hc/en-us/articles/14040370112148-How-do-I-contact-the-Seller-)
+* Useful stuff
+    * [Who we are](https://www.notonthehighstreet.com/pages/our-story)
+    * [Press centre](https://www.notonthehighstreet.com/pages/press-centre)
+    * [Careers](https://notonthehighstreet.pinpointhq.com/)
+* For sellers
+    * [Why sell with us?](https://www.notonthehighstreet.com/pages/why-sell-with-us)
+    * [Seller FAQs](https://www.notonthehighstreet.com/join/faqs)
+    * [Apply to sell with us](https://www.notonthehighstreet.com/join/signup)
+    * [Seller terms and policies](https://www.notonthehighstreet.com/about/seller-terms-and-policies)
+    * [Seller privacy and cookies](https://www.notonthehighstreet.com/about/seller-privacy-and-cookies)
+    * [Become an affiliate](https://www.notonthehighstreet.com/join/affiliates)
+
+#### Shopping in
+
+![Country: United Kingdom](https://static-files.notonthehighstreet.com/webapps/shared/img/flags/GB.png)£ GBPChange
+
+Available payment methods:
+
+* Visa logo
+* Mastercard logo
+
+* PayPal logo
+* Apple Pay logo
+* Klarna logo
+
+* [Sitemap](https://www.notonthehighstreet.com/sitemap)
+* [Anti-slavery statement](https://www.notonthehighstreet.com/about/modern-slavery-act)
+* [Privacy and cookies](https://www.notonthehighstreet.com/about/privacy-and-cookies)
+* [Terms and conditions](https://www.notonthehighstreet.com/about/shopper-terms)
+
+* Copyright © 2006-2024
+* Notonthehighstreet Enterprises Limited
