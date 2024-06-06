@@ -76,7 +76,7 @@
     
 * Special Offers ![More information icon](/content/dam/dish/navelements/carat-red.svg) 
     
-    * [All Special Offers](https://wwwprod.dish.com/special-offers)
+    * [All Special Offers](https://wwwprod.dish.com/offers)
     * [DISH & Hughesnet Internet Bundle](https://wwwprod.dish.com/internet/hughesnet)
     * [Boost Infinite Offer](https://wwwprod.dish.com/offers/boost-infinite1)
     * [55+ Offer](https://wwwprod.dish.com/offers/dish55-offer)
@@ -477,13 +477,13 @@ Sign Up
 
 ###### Dish Sites
 
-* [MyDISH](https://my.dish.com/?_ga=2.63157862.899106346.1663858127-1098007413.1661894342)
-* [DishLATINO](https://latino.dish.com/?_ga=2.45735142.353393156.1593444559-823769753.1583429430)
+* [MyDISH](https://my.dish.com/)
+* [DishLATINO](https://wwwprod.dish.com/programming/packages/add-ons/latino)
 * [DISH for Business](https://wwwprod.dish.com/business)
 * [Watch DISH Anywhere](https://www.dishanywhere.com/)
 * [OnTech Smart Services](https://www.ontechsmartservices.com/)
 * [DISH Careers](https://careers.dish.com/)
-* [Become a Retailer](https://wwwprod.dish.com/opportunity)
+* [Become a Retailer](https://webapps.dish.com/opportunity)
 * [The DISH Blog](https://wwwprod.dish.com/dig/)
 * [Wireless](https://www.dishwireless.com/)
     * [Office of Innovation](https://webapps.dish.com/innovation/)
@@ -493,7 +493,7 @@ Sign Up
 * [Service Agreements](https://wwwprod.dish.com/service-agreements)
 * [Terms & Conditions](https://wwwprod.dish.com/terms-conditions)
 * [Privacy Notice](https://wwwprod.dish.com/privacy-notice)
-* [Your Privacy Choices](https://wwwprod.dish.com/yourprivacychoices/)
+* [Your Privacy Choices](https://wwwprod.dish.com/yourprivacychoices)
 * [Accessibility](https://wwwprod.dish.com/accessibility)
 * [FAQs](https://wwwprod.dish.com/faqs)
 * [DISH Affiliate Program](https://webapps.dish.com/referral-program/)
@@ -515,7 +515,7 @@ Sign Up
         * [LinkedIn](https://www.linkedin.com/in/charlieergen/)
         * [Bloomberg](https://www.bloomberg.com/profile/person/1521412)
         * [Crunchbase](https://www.crunchbase.com/person/charlie-ergen)
-* [Investor Relations](https://ir.dish.com/)
+* [Investor Relations](https://ir.echostar.com/)
 
 © XXXX, DISH Network L.L.C. All rights reserved
 
