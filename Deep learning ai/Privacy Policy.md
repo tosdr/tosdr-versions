@@ -1,10 +1,8 @@
-🌟 New Course! Enroll in [Multi AI Agent Systems with crewAI](https://bit.ly/4bznaW8)
+🌟 New Course! Enroll in [AI Agents in LangGraph](https://bit.ly/453BeFi)
 
 [](https://www.deeplearning.ai/)
 
-* [Courses](https://www.deeplearning.ai/courses/)
-    * [Short Courses](https://www.deeplearning.ai/short-courses/)
-    * [Specializations](https://www.deeplearning.ai/courses/)
+* [Explore Courses](https://www.deeplearning.ai/courses/)
 * [AI Newsletter](https://www.deeplearning.ai/the-batch/)
     * [The Batch](https://www.deeplearning.ai/the-batch/)
     * [Andrew's Letter](https://www.deeplearning.ai/the-batch/tag/letters/)
@@ -624,8 +622,7 @@ If you have any questions about this Cookies Policy, You can contact us:
 
 *   By email: hello@deeplearning.ai
 
-* [Short Courses](https://www.deeplearning.ai/short-courses/)
-* [Specializations](https://www.deeplearning.ai/courses/)
+* [Courses](https://www.deeplearning.ai/courses/)
 * [The Batch](https://www.deeplearning.ai/the-batch/)
 * [Community](https://www.deeplearning.ai/community/)
 * [Careers](https://www.deeplearning.ai/careers/)
