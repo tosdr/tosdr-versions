@@ -303,15 +303,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [Install Backup4all using the command line par ...](https://www.backup4all.com/how-to-install-backup4all-using-the-command-line-parameters-kb.html)  
+* [How to restore a backup from OneDrive](https://www.backup4all.com/how-to-restore-a-backup-from-onedrive-kb.html)  
     
-* [How to schedule an existing backup job](https://www.backup4all.com/how-to-schedule-an-existing-backup-job-kb.html)  
+* [How to deactivate Backup4all Monitor](https://www.backup4all.com/how-to-deactivate-backup4all-monitor-kb.html)  
     
-* [How to monitor multiple Backup4all installati ...](https://www.backup4all.com/how-to-monitor-multiple-backup4all-installations-using-the-back-kb.html)  
+* [What to check when application does not start](https://www.backup4all.com/what-to-check-when-application-does-not-start-kb.html)  
     
-* [How to use the command line application](https://www.backup4all.com/how-to-use-the-command-line-application-kb.html)  
+* [How to erase a CD/DVD/Blu-ray with Backup4all](https://www.backup4all.com/how-to-erase-a-cd-dvd-blu-ray-with-backup4all-kb.html)  
     
-* [How to backup Yahoo! emails](https://www.backup4all.com/how-to-backup-yahoo-emails-kb.html)  
+* [Backup from network](https://www.backup4all.com/backup-from-network-kb.html)  
     
 
 Choose language:
