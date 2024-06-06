@@ -685,7 +685,7 @@ Křenová 313/79
 602 00 Brno  
 Česká republika  
 Web: [https://danielberanek.cz](https://danielberanek.cz/)  
-E-mail: moc.liamg@kenarebleinad  
+E-mail: danielberanek@gmail.com  
 Telefonní číslo: 724501041
 
 [SEO?](https://danielberanek.cz/seo/)
