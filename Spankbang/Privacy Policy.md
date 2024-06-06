@@ -1,0 +1,8 @@
+[![SpankBang](/static/desktop/Images/logo_desktop@2x.png)](https://spankbang.com/home) [Contact us](https://spankbang.com/info/contact) [Content removal/DMCA](https://spankbang.com/info/dmca) [Content protection](https://spankbang.com/info/protection) [Repeat infringer policy](https://spankbang.com/info/repeat) [Partnership program](https://spankbang.com/official/create_account) [Terms of Service](https://spankbang.com/info/tos) [Privacy policy](https://spankbang.com/info/privacy) [EU DSA](https://spankbang.com/info/eu_dsa) [2257 Statement](https://spankbang.com/info/s2257) [CSAM policy](https://spankbang.com/info/underage) [Questionable content policy](https://spankbang.com/info/questionable)
+
+SpankBang utilizes the industry standard and high accuracy content protection system operated by DigiRegs (www.digiregs.com). SpankBang’s incorporation of DigiRegs technology into the SpankBang website helps copyright owners remove unauthorized content from the website.
+
+  
+  
+
+If you are a content producer, SpankBang recommends that you visit DigiReg’s website (www.digiregs.com) for more information on how to add your content to its system, which will help remove your unauthorized content from SpankBang’s website. And while no content protection system is perfect, the sooner you add your content to the DigiRegs library, the sooner DigiRegs can help SpankBang remove your content from the SpankBang website.
