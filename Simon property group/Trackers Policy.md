@@ -1,0 +1,176 @@
+[Skip to content](#simon)
+
+[](https://www.simon.com/ "Simon")
+
+* [SHOPPERS](https://www.simon.com/ "Discover A Simon Mall®, The Mills® Or Premium Outlets® Shopping Center")
+* [BUSINESS](https://business.simon.com/ "Lease Space & Buy Advertising In A Simon Center")
+* [INVESTORS](https://investors.simon.com/ "Visit Simon Property Group's (NYSE: SPG) Investor Relations")
+* [CAREERS](https://careers.simon.com/ "Learn About Working At Simon & View Open Jobs")
+* [CONTACT](https://www.simon.com/contact "Contact The Simon Team")
+* 
+
+ 
+
+      Find Nearby Centers
+
+Quick Links
+
+Find Nearby Centers [See All Properties](https://www.simon.com/mall "See All Properties") [Mall Insider](https://www.simon.com/mall-insider "Mall Insider") [VIP Club](https://www.premiumoutlets.com/vip "VIP Club")
+
+[Brands](https://www.simon.com/brands "Brands") [Simon Giftcard®](https://www.simon.com/giftcard "Simon Giftcard®") [Travel & Tourism](https://www.simon.com/travel "Travel & Tourism")
+
+Suggested Results
+
+      
+
+Legal Information & Notices
+
+COOKIE  
+POLICY
+===============
+
+### LEGAL NOTICES
+
+Terms of Use Privacy Policy California Privacy Rights Canada Privacy Rights Colorado Privacy Rights Cookie Policy Web Accessibility Statement API Terms of Use Code of Conduct Code of Business Conduct & Ethics Digital Assets Terms of Use Directories & Screens Privacy Policy Diversity & Inclusion Policy Mobile Text Terms of Use Opt Out/Unsubscribe Assistance Retailer Showcase Terms of Use Social Media Guidelines Suppliers Code of Conduct Tax Documents Access Agreement User Generated Content Terms of Use VIP Passport Participation Agreement Wi-Fi Terms of Use
+
+* [Terms of Use](https://www.simon.com/legal)
+* [Privacy Policy](https://www.simon.com/legal/privacy)
+* [California Privacy Rights](https://www.simon.com/legal/privacy/california)
+* [Canada Privacy Rights](https://www.simon.com/legal/privacy/canada)
+* [Colorado Privacy Rights](https://www.simon.com/legal/privacy/colorado)
+* [Cookie Policy](https://www.simon.com/legal/cookies)
+* [Web Accessibility Statement](https://www.simon.com/legal/web-accessibility)
+
+* [API Terms of Use](https://www.simon.com/legal/api-terms-of-use)
+* [Code of Conduct](https://www.simon.com/legal/code-of-conduct)
+* [Code of Business Conduct & Ethics](https://investors.simon.com/corporate-governance/code-business-conduct-ethics)
+* [Digital Assets Terms of Use](https://www.simon.com/legal/digital-assets-terms-of-use)
+* [Directories & Screens Privacy Policy](https://www.simon.com/legal/directories-and-screens-privacy-policy)
+* [Diversity & Inclusion Policy](https://click.simon.com/diversity-inclusion-policy)
+* [Mobile Text Terms of Use](https://www.simon.com/legal/mobile-text-help)
+* [Opt Out/Unsubscribe Assistance](https://www.simon.com/legal/opt-outs)
+* [Retailer Showcase Terms of Use](https://www.simon.com/legal/retailer-showcase-terms-of-use)
+* [Social Media Guidelines](https://www.simon.com/legal/social-media-code-of-conduct)
+* [Suppliers Code of Conduct](https://www.simon.com/legal/suppliers-code-of-conduct)
+* [Tax Documents Access Agreement](https://www.simon.com/legal/tax-documents-access-agreement)
+* [User Generated Content Terms of Use](https://www.simon.com/legal/user-generated-content-terms-of-use)
+* [VIP Passport Participation Agreement](https://www.simon.com/legal/vip-offer-participation-agreement)
+* [Wi-Fi Terms of Use](https://www.simon.com/legal/wifi-terms-of-use)
+
+Last Updated: February 3, 2022
+
+The following supplements the [Terms of Use](https://www.simon.com/legal) and [Privacy Policy](https://www.simon.com/legal/privacy) and explains the use of cookies and related technologies on the websites (“Sites”) operated by Simon Property Group, L.P. and its affiliates (“Simon”), including the Sites at [simon.com](https://www.simon.com/), [premiumoutlets.com](https://www.premiumoutlets.com/), [premiumoutlets.ca](http://www.premiumoutlets.ca/), [retailersupport.simon.com](https://retailersupport.simon.com/), [helpme.simon.com](https://helpme.simon.com/), [business.simon.com](https://business.simon.com/), [investors.simon.com](https://investors.simon.com/), [careers.simon.com](https://careers.simon.com/), [said.simon.com](https://said.simon.com/), [dashboard.simon.com](https://dashboard.simon.com/portal/site/simoncentral/), [maintenance.simon.com](https://maintenance.simon.com/), [traveltrade.simon.com](https://traveltrade.simon.com/), [exit.simon.com](https://exit.simon.com/), [syf.org](https://syf.org/), [simon-tourism.force.com](https://simon-tourism.force.com/Tourism/CommunitiesLogin), [simonmuse.com](https://simonmuse.com/), [simonventures.co](https://simonventures.co/) and [simon.travel](http://www.simon.travel/) (including all of its subdomains). The Simon entity that operates a Site is identified at that Site. The words “user,” “you” and “your” mean users of the Site, and the words “we,” “our” and “us” mean the Simon entity that operates the Site.
+
+Cookies Used
+------------
+
+The Sites employ browser-based, HTTP and/or HTTPS cookies, which are small text files placed on your computer's hard drive or mobile device's onboard storage and subsequently read by the domain owner that placed them as you visit a website, as well as web beacons (also known as pixel tags), which are electronic images embedded into a webpage, and HTML5 storage which allows data to be stored locally within the browser, in lieu of cookies. Cookies are used for a number of purposes, such as authentication, providing security, maintaining your preferences, advertising, website improvement and analytics. We may also engage third party vendors to use these technologies on our behalf.
+
+We and/or our third party vendors utilize session cookies, which expire typically at the end of your visit to our Sites, and persistent cookies, which are cookies that remain within your computer or mobile device over a period of time. In addition to our creating and placing a cookie on your computer or mobile device, we have arrangements with third party vendors which may also create and place cookies on your computer or mobile device as you visit the Sites. These third parties collect and store information to provide services to us, will change from time to time, and may include Alphonso, AppNexus, Attentive, Clarity by Microsoft, ClickMeter, DoubleClick, Eyeota, Facebook, Google, IgniteOne, Intrado, LinkedIn, Mappedin, OneTrust, Pingdom, Pinterest, Placed, Qualtrics, Quantcast, Rackspace, Sizmek, Sojern, SplashThat, Strikingly, The Trade Desk, Yahoo, YouTube and Zeta Global.
+
+The first time you visit the Sites, we assign you a unique ID, which is stored in the cookie file on your computer or mobile device. This ID is used to identify you as you navigate the Sites, and when you return to the Sites after having visited elsewhere through the Internet. We collect and retain information regarding your visits to and navigation through the Sites, such as the webpages visited and the dates, times and duration of your visits.
+
+Disabling Cookies
+-----------------
+
+You may choose not to accept cookies through a setting on most browsers (which can also be set to notify you each time a cookie is set). If you choose to refuse cookies, or if you delete cookies, you may not be able to use all of the features of the Sites.
+
+Collection and Use of Information from Cookies
+----------------------------------------------
+
+### Sites Improvement and Analytics
+
+To help us improve and enhance the Sites, we use cookies and web beacons for record keeping, to track your movements when you visit the Sites and to help us and our authorized third party analytics vendors to understand how the Sites are utilized. We may use this information in aggregate form or, alternatively, we may keep the information in an individual profile.
+
+### Security and Fraud Detection
+
+We and/or the third party vendors we engage may use the information generated from cookies in a way for that information to be linked with information to authenticate you for security and fraud detection purposes.
+
+### Preferences
+
+We use cookies to maintain your preferences on the Sites, such as to keep you logged into your account or to save various states and decisions you make while browsing the Sites.
+
+### Compliance with Terms of Use
+
+We use IP addresses, MAC addresses and other computer or device identifying technologies to identify a user when we feel it is necessary to enforce compliance with our [Terms of Use](https://www.simon.com/legal) or to protect the Sites, our customers or other individuals.
+
+### Marketing and Advertising
+
+We use cookies and other technologies to identify that your web browser or mobile device has accessed areas of the Sites and may associate that information with your account, if you have one. We and/or our affiliates and/or the third party vendors we engage may use the information you provide and that is generated from cookies and other technologies in order to serve advertisements to you on our or our affiliates behalf and for our retailers, such as more relevant, interest-based advertising.
+
+Sharing Information from Cookies
+--------------------------------
+
+We may share information collected from cookies and other technologies with third parties that provide services on our behalf. We may share such information with social media outlets to which you subscribe. We may share such information with third parties that provide marketing and advertising for us and with our retailers. We may also share such information with our affiliates, as outlined in our [Privacy Policy](https://www.simon.com/legal/privacy).
+
+Insight About Cookies
+---------------------
+
+Simon also participates in a program administered by OneTrust, LLC (“OneTrust”) that enables users to see if cookies are placed on the Sites by Simon or third party vendors, and a means to opt-out of data collection through those cookies as permitted by the vendor. To submit any data or privacy request, please visit our [global online data & privacy portal](https://click.simon.com/privacy-portal). Simon offers this as a benefit to users and believes the information and program provided by OneTrust is accurate, but Simon does not assume any responsibility or liability for OneTrust’s program. You may learn more about [OneTrust here](https://www.onetrust.com/).
+
+Back To Top
+
+      [](https://app.cardless.com/simon?utm_source=simon_website)
+
+This is a dialog window which overlays the main content of the page. The modal begins with a heading 2 called "DEALS, EVENTS AND MORE". Pressing the Close Modal button at the bottom of the modal will close the modal and bring you back to where you were on the page.
+
+ ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+DEALS, EVENTS  
+AND MORE.  
+PLUS, IT’S FREE.
+--------------------------------------------
+
+Get the inside scoop (and a chance at a **$1,000 shopping spree**) today.
+
+EMAIL ADDRESS: Required  
+
+BECOME A MALL INSIDER
+
+* [BECOME A MALL INSIDER TODAY.](https://www.simon.com/mall-insider "Simon Mall Insider")
+
+#### DEALS. EVENTS.  
+EXCLUSIVE OFFERS!
+
+Become a Mall Insider today for the chance to win a $1,000 shopping spree!
+
+EMAIL ADDRESS: Required  JOIN
+
+* [](https://facebook.com/shopsimon.us)
+* [](https://said.simon.com/)
+* [](https://instagram.com/shopsimon)
+
+[FIND A SIMON CENTER](https://www.simon.com/search "Find A Simon Shopping Center Near You")
+
+* * *
+
+Learn More
+
+* [About Simon](https://business.simon.com/why-simon "Experience Shopping the Simon Way")
+* [See All Properties](https://www.simon.com/mall "Discover Simon Worldwide")
+* [Travel & Tourism](https://www.simon.com/travel "Discover Simon's Shopping Destinations")
+* [Brands](https://www.simon.com/brands "Exceptional Simon Brands")
+
+More From Simon
+
+* [Shop Premium Outlets](https://shoppremiumoutlets.com/?utm_source=PO&utm_medium=Footer&utm_campaign=PO_Footer_SHOPPREMIUMOUTLETS "Shop Premium Outlets")
+* [Simon SAID](https://said.simon.com/ "Discover the Simon Lifestyle")
+* [Simon Credit Card](https://www.cardless.com/cards/simon?utm_source=simon_website "Simon Credit Card")
+* [Simon Youth Foundation](https://syf.org/ "Creating Academic Opportunities")
+
+Simon Giftcards®
+
+* [Purchase a Giftcard](https://www.simon.com/giftcard/ "Give the Gift They Really Want")
+* [Register Your Card](https://www.simon.com/giftcard/account_register.aspx "Register Your Visa® Simon Giftcard®")
+* [Check Your Balance](https://www.simon.com/giftcard/card_balance.aspx "View Balance for Visa® Simon Giftcard®")
+* [Account Sales](https://www.simon.com/volume/ "Bulk Orders for Simon Giftcard®")
+
+For Businesses
+
+* [Advertising](https://business.simon.com/media-experiences-overview "Advertise at a Simon Property")
+* [Leasing](https://business.simon.com/leasing "Lease at a Simon Property")
+* [Portfolio](https://business.simon.com/search "Learn About Property Services")
+* [Retailer Marketing](https://business.simon.com/retailer-marketing "Learn About Retailer Marketing")
+
+COPYRIGHT© 1999-2024, SIMON MEDIA PROPERTIES, LLC ALL RIGHTS RESERVED.  
+By continuing past this page and/or using this site, you agree to abide by the [Terms of Use](https://www.simon.com/legal "View Our Website Terms Of Use") for this site, which prohibit commercial use of any information on this site. View our [Privacy Policy](https://www.simon.com/legal/privacy "Understand Our Privacy Policy"), [Cookie Policy](https://www.simon.com/legal/cookies "Understand Our Cookie Policy") & Cookie Settings
