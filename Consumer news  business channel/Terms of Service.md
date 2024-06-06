@@ -323,5 +323,3 @@ Data is a real-time snapshot \*Data is delayed at least 15 minutes. Global Busin
 [Market Data Terms of Use and Disclaimers](https://www.cnbc.com/market-data-terms-of-service/)
 
 Data also provided by[![Reuters logo](https://static-redesign.cnbcfm.com/dist/09c161b9810767a7849e.svg)](https://www.cnbc.com/market-data-terms-of-service/)
-
-![comscore](https://sb.scorecardresearch.com/p?c1=2&c2=1000004&cv=2.0&cj=1)
