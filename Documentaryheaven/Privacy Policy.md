@@ -108,59 +108,59 @@ Advertisement
 
 ###### Highest Rated This Month
 
-* [![Hillsborough Disaster](/wp-content/thumbnails/10009-100x70.jpg?x53432)
+* [![Occupation 101](/wp-content/thumbnails/766-100x70.png?x53432)
     
-    Hillsborough Disaster
+    Occupation 101
     
-    This ESPN 30 for 30 special examines the tragic events that took place on the 15th of April 1989, the Hillsborough Stadium disaster which resulted in the deaths of 96 people and 766 others being injur...](https://documentaryheaven.com/hillsborough-disaster/ "Hillsborough Disaster")
-* [![Louis Theroux: Drinking To Oblivion](/wp-content/thumbnails/16353-100x70.jpg?x53432)
-    
-    Louis Theroux: Drinking To Oblivion
-    
-    Drinking To Oblivion sees Louis Theroux set about spending some time in the world of extreme drinkers, getting to know people who consume alcohol not just to excess but to the point of total oblivio...](https://documentaryheaven.com/louis-theroux-drinking-to-oblivion/ "Louis Theroux: Drinking To Oblivion")
-* [![Syria’s Ticking Time Bomb](/wp-content/thumbnails/16713-100x70.jpg?x53432)
-    
-    Syria’s Ticking Time Bomb
-    
-    In the expanse of northern Syria, a multitude of former IS militants find themselves confined within heavily fortified prisons. Amidst this challenging environment, a burgeoning generation of potenti...](https://documentaryheaven.com/syrias-ticking-time-bomb/ "Syria’s Ticking Time Bomb")
-* [![Expelled: No Intelligence Allowed](/wp-content/thumbnails/2444-100x70.jpg?x53432)
-    
-    Expelled: No Intelligence Allowed
-    
-    Ben Stein shows us a world where Academia’s freedom of inquiry might not be so free. This should be a concern for anyone and everyone. This undermines the concept that we will be teaching facts and tr...](https://documentaryheaven.com/expelled-no-intelligence-allowed/ "Expelled: No Intelligence Allowed")
+    A thought-provoking and powerful documentary film on the current and historical root causes of the Israeli-Palestinian conflict. Unlike any other film ever produced on the conflict — ‘Occupation 101...](https://documentaryheaven.com/occupation-101/ "Occupation 101")
 * [![The Trouble With Atheism](/wp-content/thumbnails/3469-100x70.jpg?x53432)
     
     The Trouble With Atheism
     
     The Trouble with Atheism is an hour-long documentary on atheism, presented by Rod Liddle. It aired on Channel 4 in December 2006. The documentary focuses on criticizing atheism, as well as science, fo...](https://documentaryheaven.com/the-trouble-with-atheism/ "The Trouble With Atheism")
+* [![The End Of The World Cult](/wp-content/thumbnails/12046-100x70.jpg?x53432)
+    
+    The End Of The World Cult
+    
+    In this Channel 4 film British journalist Alex Hannaford sets out on a journey to visit The Lord Our Righteousness Church, also known as Strong City. Strong City is a community located near Clayton, U...](https://documentaryheaven.com/end-of-world-cult/ "The End Of The World Cult")
+* [![The new world order – Illuminati, Freemasons and other secret societies](/wp-content/thumbnails/116-100x70.png?x53432)
+    
+    The new world order – Illuminati, Freemasons and other secret societies
+    
+    Secret societies have been trying to influence politics ever since. With new methods of communication they are now globally connected and more powerful then ever before. The names of those secret soci...](https://documentaryheaven.com/the-new-world-order-illuminati-freemasons-and-other-secret-societies/ "The new world order – Illuminati, Freemasons and other secret societies")
+* [![Natural World: A Farm for the Future](/wp-content/thumbnails/2209-100x70.jpg?x53432)
+    
+    Natural World: A Farm for the Future
+    
+    Wildlife film maker Rebecca Hosking investigates how to transform her family’s farm in Devon into a low energy farm for the future, and discovers that nature holds the key. With her father close to re...](https://documentaryheaven.com/natural-world-a-farm-for-the-future/ "Natural World: A Farm for the Future")
 
 ###### Throwback Documentaries
 
-* [![James Gandolfini: Tribute to a Friend](/wp-content/thumbnails/12855-100x70.jpg?x53432)
+* [![The Bitcoin Gospel](/wp-content/thumbnails/10220-100x70.jpg?x53432)
     
-    James Gandolfini: Tribute to a Friend
+    The Bitcoin Gospel
     
-    The passing of James Gandolfini in 2013 took many by surprise, not only because he was just 51 years old but also because of the fact he was a larger than life character who came across as indestructi](https://documentaryheaven.com/james-gandolfini-tribute-to-friend/ "James Gandolfini: Tribute to a Friend")
-* [![NAWAPA 1964](/wp-content/thumbnails/7068-100x70.jpg?x53432)
+    In this film VPRO Backlight take us into a world where we can become our own bank. We tend to take it for granted that money creation is controlled by government and banks but there is a community of](https://documentaryheaven.com/bitcoin-gospel/ "The Bitcoin Gospel")
+* [![Extraordinary People: The Rainman Twins](/wp-content/thumbnails/5700-100x70.jpg?x53432)
     
-    NAWAPA 1964
+    Extraordinary People: The Rainman Twins
     
-    The true story of the fight to build the North American Water And Power Alliance, spanning the 1960s and early 1970s, as told through the words of Utah's Senator Frank Moss.This unique style of docu](https://documentaryheaven.com/nawapa-1964/ "NAWAPA 1964")
-* [![Mark Zuckerberg: Inside Facebook](/wp-content/thumbnails/6249-100x70.jpg?x53432)
+    The story of Flo and Kay, the worlds only female autistic savant twins. Savantism is a rare condition in which sufferers of developmental disorders, often autism, are capable of acts of genius that fa](https://documentaryheaven.com/extraordinary-people-the-rainman-twins/ "Extraordinary People: The Rainman Twins")
+* [![Meet The Burglars](/wp-content/thumbnails/7585-100x70.jpg?x53432)
     
-    Mark Zuckerberg: Inside Facebook
+    Meet The Burglars
     
-    In just seven years, Mark Zuckerberg has gone from his Harvard college dorm to running a business with 800 million users, and a possible value of $100 billion. His idea to make the world more open an](https://documentaryheaven.com/mark-zuckerberg-inside-facebook/ "Mark Zuckerberg: Inside Facebook")
-* [![Oscar Pistorius: The Truth](/wp-content/thumbnails/9286-100x70.jpg?x53432)
+    Victims of burglary and other crimes are increasingly being offered the opportunity to meet the criminals who offended against them, in a controversial scheme aimed at empowering victims and potential](https://documentaryheaven.com/meet-the-burglars/ "Meet The Burglars")
+* [![The Wehrmacht](/wp-content/thumbnails/6410-100x70.jpg?x53432)
     
-    Oscar Pistorius: The Truth
+    The Wehrmacht
     
-    A BBC film that goes behind the scenes of the recent Oscar Pistorius trial for murdering his partner Reeva Steenkamp and follows Reeva's parents as they prepare for the courts proceedings including in](https://documentaryheaven.com/oscar-pistorius-truth/ "Oscar Pistorius: The Truth")
-* [![Confessions of an Undercover Cop](/wp-content/thumbnails/6356-100x70.jpg?x53432)
+    Hitler's army thundered through Europe from 1939 to 1945 and brought needless death and destruction to the continent. What was it like to serve in this army? What was it like to conduct one of the blo](https://documentaryheaven.com/the-wehrmacht/ "The Wehrmacht")
+* [![The True Story of Black Hawk Down](/wp-content/thumbnails/695-100x70.png?x53432)
     
-    Confessions of an Undercover Cop
+    The True Story of Black Hawk Down
     
-    The inside story of Mark Kennedy, the police officer who spent eight years undercover as a dedicated activist, having infiltrated the environmental movement and Europe’s left-wing extremist political](https://documentaryheaven.com/confessions-of-an-undercover-cop/ "Confessions of an Undercover Cop")
+    Real footage is shown to prove that the film Black Hawk Down (2001) was very true to the real events that occurred in Mogadishu in 1993. Actual militia and US rangers are interviewed to tell us the di](https://documentaryheaven.com/the-true-story-of-black-hawk-down/ "The True Story of Black Hawk Down")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
