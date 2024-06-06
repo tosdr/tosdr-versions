@@ -1,6 +1,6 @@
 [Skip to main content](#main-content)
 
-[![Foot Locker](//theme.zdassets.com/theme_assets/9193528/919535444ba316c887c09a9cf819e5a6f3da88c5.svg)](https://www.champssports.com/)
+[![Foot Locker](/hc/theming_assets/01HZPQPJ4NED4YVY21F612NXG4)](https://www.champssports.com/)
 
 1. [Champs Sports](https://help.champssports.com/hc/en-us)
 2. [Privacy, Terms & Conditions](https://help.champssports.com/hc/en-us/categories/360002217533-Privacy-Terms-Conditions)
