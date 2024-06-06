@@ -32,6 +32,7 @@
         * [Project+](https://www.comptia.org/certifications/project)
         * [Server+](https://www.comptia.org/certifications/server)
         * [Security+](https://www.comptia.org/certifications/security)
+        * [Tech+](https://www.comptia.org/certifications/tech)
     * Exam Development
         * [Overview](https://www.comptia.org/certifications/become-a-subject-matter-expert)
         * [How to Apply](https://www.comptia.org/certifications/become-a-subject-matter-expert/apply-now)
@@ -62,6 +63,8 @@
     * For Groups
         * [Enterprise](https://www.comptia.org/training/enterprise-workforce-development/enterprise-solutions)
         * [Workforce Development Solutions](https://www.comptia.org/training/employers-workforce-development/workforce-development-training)
+        * [Academic Higher Ed](https://www.comptia.org/content/lp/academic-higher-education)
+        * [Academic K12](https://www.comptia.org/content/lp/k12)
         * [Academic/Government](https://www.comptia.org/training/employers-workforce-development/academic-government-solutions)
         * [Why CompTIA Training Solutions](https://www.comptia.org/training/employers-workforce-development/why-comptia-training-solutions)
     * [Training Resources](https://www.comptia.org/training/resources)
@@ -103,7 +106,7 @@
     * [](#0)[Events](https://www.comptia.org/events)
     * [Events](https://www.comptia.org/events/all-events/)
         * [All Events](https://www.comptia.org/events/all-events/)
-        * [CompTIA Communities & Councils Forum](https://www.comptia.org/ccf)
+        * [CompTIA Community Forum (CCF)](https://www.comptia.org/ccf)
         * [Partner Summit](https://www.comptia.org/partnersummit)
         * [ChannelCon](https://www.comptia.org/channelcon)
         * [EMEA Member & Partner Conference](https://www.comptia.org/emea)
@@ -113,7 +116,7 @@
         
         [Podcasts](https://www.comptia.org/events/podcasts)
     * [Channel Training](https://www.comptia.org/events/channel-training/) [Event Archives](https://www.comptia.org/events/archives/)
-    * [![CompTIA  Communities and Councils Forum](https://comptiacdn.azureedge.net/webcontent/images/default-source/landing-pages/navigation/2112be99-3bfd-4438-9bc5-7b5a2ed77036.png?sfvrsn=76166d4e_2 "CompTIA  Communities and Councils Forum")](https://connect.comptia.org/events/view/comptia-communities-councils-forum-(ccf)-2024?sfredirect=/ccf)
+    * [![CompTIA ChannelCon 2024](https://comptiacdn.azureedge.net/webcontent/images/default-source/events/image-20240528-151820.png?sfvrsn=fb5d43c5_2 "CompTIA ChannelCon 2024")](https://connect.comptia.org/channelcon)
         
 * [Resources](https://www.comptia.org/resources)
     * [](#0)[Resources](https://www.comptia.org/resources)
@@ -123,6 +126,7 @@
         * [Cybersecurity](https://www.comptia.org/resources/cybersecurity)
     *  
         * [Data and Analytics](https://www.comptia.org/resources/data-and-analytics)
+        * [Mental Health Resources](https://www.comptia.org/resources/mental-health-resources)
         * [IT Career Center](https://www.comptia.org/resources/it-career-center)
     *  
         * [IT Support and Help Desk](https://www.comptia.org/resources/it-support-and-help-desk)
