@@ -1,0 +1,1 @@
+[Terms](https://www.google.com/intl/en/policies/terms/)
