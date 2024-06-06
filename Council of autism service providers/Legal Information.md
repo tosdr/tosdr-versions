@@ -1,16 +1,18 @@
 [Skip to content](#content)
 
-URGENT: [CALIFORNIA ACTION ALERT: AB2449](https://www.casproviders.org/california)
-
-[![](https://assets-002.noviams.com/novi-file-uploads/casp/auto-files/image_1715735209817.jpg)](https://www.casproviders.org/asd-guidelines)
+[![](https://assets-002.noviams.com/novi-file-uploads/casp/auto-files/image_1717618805854.jpg)](https://www.casproviders.org/events/delegated-credentialing-and-facility-credentialing)
 
 [ACKNOWLEDGE](##)
 
 [**0 Items** in your cart View Cart](https://www.casproviders.org/products/checkout)
 
-[0 Cart](https://www.casproviders.org/products/checkout) [Join](#join-modal) [Login](https://www.casproviders.org/login) [Contact Us](https://www.casproviders.org/contact-us)[](#search-panel)
-
-[](https://www.casproviders.org/search)
+* [0 Cart](https://www.casproviders.org/products/checkout)
+* [Join](#join-modal)
+* [Login](https://www.casproviders.org/login)
+* [Contact Us](https://www.casproviders.org/contact-us)
+* [](#search-panel)
+* [](https://www.casproviders.org/search)
+    
 
 [![Council of Autism Service Providers Logo](https://assets-002.noviams.com/novi-file-uploads/casp/structure/casp_wide_color.png)](https://www.casproviders.org/)[](javascript:void(0);)
 
@@ -82,6 +84,7 @@ URGENT: [CALIFORNIA ACTION ALERT: AB2449](https://www.casproviders.org/californi
         * [Learn More/Apply](https://www.casproviders.org/casp-allied-affiliate)
         * [AA Benefits Portal](https://www.casproviders.org/allied-affiliate-benefits-portal)
         * [Community](https://community.casproviders.org/main/groups/69742/lounge)
+    * [Member Feedback](https://www.casproviders.org/affiliate-feedback)
 * [Events](https://www.casproviders.org/events/)
     * [Calendar](https://www.casproviders.org/events)
     * [Annual Conference](javascript:void(0);)
