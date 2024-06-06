@@ -371,8 +371,9 @@ You are the Data Subject as defined in the GDPR. In general, we are addressing â
 
 [Archived versions](https://1password.com/legal/privacy/privacy-archive/)
 
-* 1Password
+* Product
 * [Pricing](https://1password.com/teams/pricing/)
+* [Extended Access Management](https://1password.com/xam/)
 * [Families](https://1password.com/families/)
 * [Teams](https://1password.com/teams/)
 * [Business](https://1password.com/business/)
