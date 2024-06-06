@@ -8,7 +8,7 @@
     * [Arkansas News](https://www.arkansasonline.com/news/news/arkansas/?page=1)
     * [Election](https://www.arkansasonline.com/news/election/)
     * [Voter Guide](https://www.arkansasonline.com/2024voterguide/)
-    * [State Politics](https://www.arkansasonline.com/news/news/politics/arkansas/)
+    * [Politics](https://www.arkansasonline.com/news/news/politics/arkansas/)
     * [Education](https://www.arkansasonline.com/news/education/)
     * [Crime](https://www.arkansasonline.com/news/news/arkansas/crime/)
     * [LEARNS Guide](https://www.arkansasonline.com/learns_act/)
@@ -84,7 +84,7 @@
 * ### Extras
     
     * [Subscribe!](https://www.arkansasonline.com/subscribe/)
-    * [Advertise](https://www.arkansasonline.com/advertising/)
+    * [Advertise](https://www.adgadvertising.com/AO-landing-page)
     * [Subscriber Help](https://www.arkansasonline.com/settings/)
     * [ADG Staff List](https://www.arkansasonline.com/staff/)
     * [FAQ](https://www.arkansasonline.com/digital/faq/)
@@ -122,7 +122,6 @@ Open user options menu
 * [Business](https://www.arkansasonline.com/news/business/)
 * [Opinion](https://www.arkansasonline.com/news/opinions/)
 * [Lifestyle](https://www.arkansasonline.com/news/features/style/)
-* [Earth Day](https://www.arkansasonline.com/earth-day/)
 * [Podcasts](https://www.arkansasonline.com/news/podcasts/)
 * [Obits](https://www.arkansasonline.com/obituaries/)
 * [Newsletters](https://newsletters.arkansasonline.com/braze/signup/gni/)
@@ -329,7 +328,7 @@ Copyright Associated Press. All rights reserved. This material may not be publis
     * [Arkansas News](https://www.arkansasonline.com/news/news/arkansas/?page=1)
     * [Election](https://www.arkansasonline.com/news/election/)
     * [Voter Guide](https://www.arkansasonline.com/2024voterguide/)
-    * [State Politics](https://www.arkansasonline.com/news/news/politics/arkansas/)
+    * [Politics](https://www.arkansasonline.com/news/news/politics/arkansas/)
     * [Education](https://www.arkansasonline.com/news/education/)
     * [Crime](https://www.arkansasonline.com/news/news/arkansas/crime/)
     * [LEARNS Guide](https://www.arkansasonline.com/learns_act/)
@@ -405,7 +404,7 @@ Copyright Associated Press. All rights reserved. This material may not be publis
 * ### Extras
     
     * [Subscribe!](https://www.arkansasonline.com/subscribe/)
-    * [Advertise](https://www.arkansasonline.com/advertising/)
+    * [Advertise](https://www.adgadvertising.com/AO-landing-page)
     * [Subscriber Help](https://www.arkansasonline.com/settings/)
     * [ADG Staff List](https://www.arkansasonline.com/staff/)
     * [FAQ](https://www.arkansasonline.com/digital/faq/)
@@ -424,7 +423,7 @@ Copyright Associated Press. All rights reserved. This material may not be publis
     * [All Arkansas Preps](http://allarkansaspreps.com/)
 
 * [Contact Us](https://www.arkansasonline.com/contact/)
-* [Advertise With Us](https://www.arkansasonline.com/advertising/)
+* [Advertise With Us](https://www.adgadvertising.com/AO-landing-page)
 * [Terms of Use](https://www.arkansasonline.com/tools/termsofuse/)
 
 Copyright © 2024, Arkansas Democrat-Gazette, Inc.
