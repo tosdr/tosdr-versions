@@ -1,0 +1,1 @@
+You have to enable javascript in your browser to use an application built with Vaadin.
