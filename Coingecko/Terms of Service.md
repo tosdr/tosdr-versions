@@ -1,24 +1,24 @@
-📊 Now LIVE: [**2024 Q1 Crypto Industry Report**](https://bit.ly/2024-Q1-Report)
+We’ve updated our Privacy Policy! [**Learn more**](https://bit.ly/457gzQD)
 
-Coins: [14,341](https://www.coingecko.com/)
+Coins: [14,681](https://www.coingecko.com/)
 
-Exchanges: [1,099](https://www.coingecko.com/en/exchanges)
+Exchanges: [1,117](https://www.coingecko.com/en/exchanges)
 
-Market Cap: [$2.672T](https://www.coingecko.com/en/global-charts) 6.0%
+Market Cap: [$2.79T](https://www.coingecko.com/en/global-charts) 0.5%
 
-24h Vol: [$114.602B](https://www.coingecko.com/en/global-charts)
+24h Vol: [$79.642B](https://www.coingecko.com/en/global-charts)
 
 Dominance:
 
-[BTC 51.5%](https://www.coingecko.com/en/global-charts) [ETH 15.3%](https://www.coingecko.com/en/global-charts)
+[BTC 50.3%](https://www.coingecko.com/en/global-charts) [ETH 16.6%](https://www.coingecko.com/en/global-charts)
 
-Gas: 63 GWEI
+Gas: 21 GWEI
 
-Fast: 68 GWEI
+Fast: 26 GWEI
 
-Standard: 63 GWEI
+Standard: 21 GWEI
 
-Safe: 63 GWEI
+Safe: 21 GWEI
 
 Data by Etherscan
 
@@ -327,13 +327,13 @@ Donate Ethereum
 
 Support
 
-[Request Form](https://www.coingecko.com/request)[Advertising](https://gcko.io/coingeckoads)[Candy Rewards Listing](https://www.coingecko.com/en/candy/partners-getting-started)[Help Center](https://support.coingecko.com/)[Bug Bounty](https://hackenproof.com/coingecko/coingecko)[FAQ](https://www.coingecko.com/en/faq)
+[Request Form](https://www.coingecko.com/request-form?locale=en)[Advertising](https://gcko.io/coingeckoads)[Candy Rewards Listing](https://www.coingecko.com/en/candy/partners-getting-started)[Help Center](https://support.coingecko.com/)[Bug Bounty](https://hackenproof.com/coingecko/coingecko)[FAQ](https://www.coingecko.com/en/faq)
 
 About CoinGecko
 
 [About Us](https://www.coingecko.com/en/about)[Careers
 
-Join Us](https://careers.coingecko.com/)[Company Blog](https://blog.coingecko.com/)[Branding Guide](https://www.coingecko.com/en/branding)[Methodology](https://www.coingecko.com/en/methodology)[Disclaimer](https://www.coingecko.com/en/disclaimer)[Terms of Service](https://www.coingecko.com/en/terms)[Privacy Policy](https://www.coingecko.com/en/privacy)[Ad Policy](https://www.coingecko.com/en/ad_policy)
+Join Us](https://careers.coingecko.com/)[Company Blog](https://blog.coingecko.com/)[Branding Guide](https://brand.coingecko.com/)[Methodology](https://www.coingecko.com/en/methodology)[Disclaimer](https://www.coingecko.com/en/disclaimer)[Terms of Service](https://www.coingecko.com/en/terms)[Privacy Policy](https://www.coingecko.com/en/privacy)[Ad Policy](https://www.coingecko.com/en/ad_policy)
 
 Cookie Preferences
 
@@ -827,7 +827,7 @@ Resend confirmation instructions
 
 Get the CoinGecko app.
 
-Scan this QR code to download the app now ![App QR Code](https://static.coingecko.com/s/mobile_landing/mobile-app-qr-9d79bd00d0aad146ad845a9208341b0bfbd6d57cbbf60e6684842fffeedac18c.svg) Or check it out in the app stores
+Scan this QR code to download the app now ![App QR Code](https://static.coingecko.com/s/landing_pages/mobile_app_qr_code-503a3393ccc355a8c41ea1a4026c31db469665b66c47847b347e2447c80feea3.svg) Or check it out in the app stores
 
  [![Google Play Store Button](https://static.coingecko.com/s/coingecko_logos/google_play_store-cb1f298b04afa7f74639a948d9b2e22e4aa6eea9486a2b0442c2cf9bdcda63e8.svg)](https://coingecko.app.link/footer-android)[![Apple App Store Button](https://static.coingecko.com/s/coingecko_logos/apple_app_store-558245a688cc13737dfb861fd82b252d75d5afbaf343c06e3067a454675bbe05.svg)](https://coingecko.app.link/footer-ios)
 
