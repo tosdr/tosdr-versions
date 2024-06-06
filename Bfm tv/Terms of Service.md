@@ -24,9 +24,13 @@ DirectTV](https://www.bfmtv.com/en-direct/ "Direct tv")
 
 [![Regarder le direct](/assets/v5/images/BFMTV.848c19e09c92f3ced2163a1a0399be11.svg)
 
-Regarder le direct](https://www.bfmtv.com/en-direct/ "Regarder le direct")[![Écouter la radio](/assets/v5/images/BFM-Radio.2afb246578899c5f8d87d1f216c22953.svg)
+Regarder le direct](https://www.bfmtv.com/en-direct/ "Regarder le direct")
 
-Écouter la radio](https://www.bfmtv.com/en-direct/bfm-radio/ "Écouter la radio")[![Replay BFMTV](/assets/v5/images/RMC-BFM-Play-radio.62cafa0ab4419da4ac6039b204f52a3e.svg)
+![Écouter la radio](/assets/v5/images/BFM-Radio.2afb246578899c5f8d87d1f216c22953.svg)
+
+Écouter la radio
+
+[![Replay BFMTV](/assets/v5/images/RMC-BFM-Play-radio.62cafa0ab4419da4ac6039b204f52a3e.svg)
 
 Replay BFMTV](https://www.rmcbfmplay.com/chaine/bfm-tv?subMenuId=RefMenuItem::rmcgo_home_bfmtv "Replay BFMTV")
 
@@ -74,6 +78,7 @@ Suivant
 Rubriques
 
 * [News 24/7](https://www.bfmtv.com/news-24-7/ "News 24/7")
+* [Élections européennes](https://www.bfmtv.com/politique/elections/europeennes/ "Élections européennes")
 * [Politique](https://www.bfmtv.com/politique/ "Politique")
 * [Police-justice](https://www.bfmtv.com/police-justice/ " Police-justice ")
 * [International](https://www.bfmtv.com/international/ "International")
@@ -571,17 +576,15 @@ DANS TOUTE LA MESURE PERMISE PAR LA LOI, EN AUCUN CAS L'EDITEUR OU SES PARTENAIR
 Les plus lus
 ------------
 
-1. [![Le chanteur français Kendji Maille alias 'Kendji Girac' pose sur le tapis rouge avant la 23ème cérémonie des NRJ Music Awards le 20 novembre 2021.
-    ](https://images.bfmtv.com/nHYaigkWi_ne_Y-pmJ8lTYn0KIQ=/0x50:1824x1076/300x0/images/Le-chanteur-francais-Kendji-Maille-alias-Kendji-Girac-pose-sur-le-tapis-rouge-avant-la-23eme-ceremonie-des-NRJ-Music-Awards-le-20-novembre-2021-1848985.jpg)
+1. [![Un accident de la circulation impliquant un groupe de 12 enfants à vélo et un véhicule a eu lieu ce mercredi 5 juin à La Rochelle.](https://images.bfmtv.com/DxV-JaUDr7xERxRr8Ym3jDXys0w=/0x0:1920x1080/300x0/images/Un-accident-de-la-circulation-impliquant-un-groupe-de-12-enfants-a-velo-et-un-vehicule-a-eu-lieu-ce-mercredi-5-juin-a-La-Rochelle-1877405.jpg)
     
-    ![Le chanteur français Kendji Maille alias 'Kendji Girac' pose sur le tapis rouge avant la 23ème cérémonie des NRJ Music Awards le 20 novembre 2021.
-    ](https://images.bfmtv.com/nHYaigkWi_ne_Y-pmJ8lTYn0KIQ=/0x50:1824x1076/300x0/images/Le-chanteur-francais-Kendji-Maille-alias-Kendji-Girac-pose-sur-le-tapis-rouge-avant-la-23eme-ceremonie-des-NRJ-Music-Awards-le-20-novembre-2021-1848985.jpg)
+    ![Un accident de la circulation impliquant un groupe de 12 enfants à vélo et un véhicule a eu lieu ce mercredi 5 juin à La Rochelle.](https://images.bfmtv.com/DxV-JaUDr7xERxRr8Ym3jDXys0w=/0x0:1920x1080/300x0/images/Un-accident-de-la-circulation-impliquant-un-groupe-de-12-enfants-a-velo-et-un-vehicule-a-eu-lieu-ce-mercredi-5-juin-a-La-Rochelle-1877405.jpg)
     
-    ### Kendji Girac hospitalisé à Bordeaux: ce que l'on sait sur sa grave blessure par balle](https://www.bfmtv.com/police-justice/kendji-girac-hospitalise-a-bordeaux-ce-que-l-on-sait-sur-sa-grave-blessure-par-balle_AV-202404220326.html "Kendji Girac hospitalisé à Bordeaux: ce que l'on sait sur sa grave blessure par balle")
-2. [### "Pourquoi ne pas protéger l'espace aérien ukrainien?": Zelensky s'interroge après l'aide de la France en Israël](https://www.bfmtv.com/international/europe/ukraine/pourquoi-ne-pas-proteger-l-espace-aerien-ukrainien-zelensky-s-interroge-apres-l-aide-de-la-france-en-israel_AN-202404220341.html ""Pourquoi ne pas protéger l'espace aérien ukrainien?": Zelensky s'interroge après l'aide de la France en Israël")
-3. [### Donald Trump jugé au pénal: à quoi faut-il s'attendre après la sélection des jurés?](https://www.bfmtv.com/international/amerique-nord/etats-unis/donald-trump-juge-au-penal-a-quoi-faut-il-s-attendre-apres-la-selection-des-jures_AD-202404220304.html "Donald Trump jugé au pénal: à quoi faut-il s'attendre après la sélection des jurés?")
-4. [### Lieu, date, heure… sur Tinder, vous pouvez prévenir votre entourage de votre rendez-vous](https://www.bfmtv.com/tech/vie-numerique/lieu-date-heure-sur-tinder-vous-pouvez-prevenir-votre-entourage-de-votre-rendez-vous_AV-202404220446.html "Lieu, date, heure… sur Tinder, vous pouvez prévenir votre entourage de votre rendez-vous")
-5. [### MMA: la date du grand retour de Doumbè est connue (son adversaire également)](https://rmcsport.bfmtv.com/sports-de-combat/mma/pfl-bellator/mma-la-date-du-grand-retour-de-doumbe-est-connue-son-adversaire-egalement_AD-202404220310.html "MMA: la date du grand retour de Doumbè est connue (son adversaire également)")
+    ### "Elle n'a pas freiné": après l'accident de La Rochelle, des témoins évoquent "des enfants enchevêtrés"](https://www.bfmtv.com/police-justice/elle-n-a-pas-freine-apres-l-accident-de-la-rochelle-des-temoins-evoquent-des-enfants-enchevetres_AV-202406060310.html ""Elle n'a pas freiné": après l'accident de La Rochelle, des témoins évoquent "des enfants enchevêtrés"")
+2. [### Toux, traitement, vaccination... Quels sont les symptômes de la coqueluche et comment réagir?](https://www.bfmtv.com/sante/toux-traitement-vaccination-quels-sont-les-symptomes-de-la-coqueluche-et-comment-reagir_AV-202406060037.html "Toux, traitement, vaccination... Quels sont les symptômes de la coqueluche et comment réagir?")
+3. [### Stellantis: le scandale des airbags défectueux prend de l'ampleur, 8 millions de véhicules concernés](https://www.bfmtv.com/auto/stellantis-le-scandale-des-airbags-defectueux-prend-de-l-ampleur-8-millions-de-vehicules-concernes_AV-202406060234.html "Stellantis: le scandale des airbags défectueux prend de l'ampleur, 8 millions de véhicules concernés")
+4. [### Mort de Ben: la famille confirme que l'artiste s'est suicidé "quelques heures" après la mort de sa femme](https://www.bfmtv.com/cote-d-azur/mort-de-ben-la-famille-confirme-que-l-artiste-s-est-suicide-quelques-heures-apres-la-mort-de-sa-femme_AV-202406050974.html "Mort de Ben: la famille confirme que l'artiste s'est suicidé "quelques heures" après la mort de sa femme")
+5. [### Dématérialisation, plafonds, achats en supermarché... A quoi ressemblera le titre restaurant demain?](https://www.bfmtv.com/economie/consommation/dematerialisation-plafonds-achats-en-supermarche-a-quoi-ressemblera-le-titre-restaurant-demain_AV-202406050060.html "Dématérialisation, plafonds, achats en supermarché... A quoi ressemblera le titre restaurant demain?")
 
 ![BFMTV](/assets/v5/images/BFMTV.848c19e09c92f3ced2163a1a0399be11.svg "BFMTV")
 
@@ -633,6 +636,7 @@ en savoir plus
 * [Mentions légales](https://www.bfmtv.com/mentions-legales/ "Mentions légales")
 * [Données personnelles](https://www.bfmtv.com/politique-donnees-personnelles/ "Données personnelles")
 * [Cookies](https://www.bfmtv.com/cookies/ "Cookies")
+* [Gérer Utiq](https://www.bfmtv.com/cookies#utiq "Gérer Utiq")
 * [CGU](https://www.bfmtv.com/cgu/ "CGU")
 * [Charte de déontologie](https://www.bfmtv.com/charte-deontologie/ "Charte de déontologie")
 
