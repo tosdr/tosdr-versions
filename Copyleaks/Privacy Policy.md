@@ -1,9 +1,3 @@
-X
-
-Join us! AI Can't Do This: Mastering the Human Skills That Drive Success webinar May 21 @ 1 PM EST
-
-[Register Now](https://us02web.zoom.us/webinar/register/WN_-13AegqGRbOljMV4JC3CtA)
-
 [Skip to content](#content)
 
 [![logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20128%20128'%3E%3C/svg%3E)
@@ -25,7 +19,7 @@ Join us! AI Can't Do This: Mastering the Human Skills That Drive Success webinar
 * Products
     * * * #### Products
                 
-    * * * [AI Content DetectorThe only enterprise solution designed to verify whether content was written by a person or AI.](https://copyleaks.com/ai-content-detector)
+    * * * [AI DetectorThe only enterprise solution designed to verify whether content was written by a person or AI.](https://copyleaks.com/ai-content-detector)
         * * [Plagiarism DetectorInstantly detect direct plagiarism, paraphrased content, similar text, and verify originality.](https://copyleaks.com/plagiarism-detector)
         * * [CodeleaksThe only solution that detects AI-generated code, plagiarized and modified source code, and provides essential licensing details.](https://copyleaks.com/codeleaks)
         * * One Year Later: ChatGPT and Education Our Analysis Looks at AI & Plagiarism Use Among Students from Jan 2023 to Jan 2024
@@ -51,7 +45,7 @@ Join us! AI Can't Do This: Mastering the Human Skills That Drive Success webinar
             * [Customer Support](https://copyleaks.com/use-case-customer-support)
             * [Marketing](https://copyleaks.com/use-case-marketing)
             * [Publishing & Media](https://copyleaks.com/use-case-publishing-and-media)
-            * [Cyber Security](https://copyleaks.com/use-case-cyber-security)
+            * [Enterprise Security](https://copyleaks.com/use-case-enterprise-security)
 * [Pricing](https://copyleaks.com/pricing)
 * Resources
     * * * #### Resources
@@ -63,17 +57,17 @@ Join us! AI Can't Do This: Mastering the Human Skills That Drive Success webinar
     * * * [About usMeet the Copyleaks leadership team and learn about who we are.](https://copyleaks.com/about-us)
         * * [News & MediaThe go-to spot for recent Copyleaks announcements, updates, news, and other media features.](https://copyleaks.com/about-us/media)
         * * [Help CenterGet the support you need regarding integration, platforms, dashboards, and more.](https://help.copyleaks.com/)
-        * * [![Copyleaks AI Content Detector at the top of the Studies' Research](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20301'%3E%3C/svg%3E)
+        * * [![Copyleaks AI Content Detector at the top of the Studies' Research](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20300'%3E%3C/svg%3E)
                 
-                ![Copyleaks AI Content Detector at the top of the Studies' Research](https://copyleaks.com/wp-content/uploads/2023/10/Hero_Third_Party_Studies_Blog.png)](https://copyleaks.com/blog/ai-detector-continues-top-accuracy-third-party)
+                ![Copyleaks AI Content Detector at the top of the Studies' Research](https://copyleaks.com/wp-content/uploads/2024/05/Hero_Third_Party_Studies_Blog-qefwvda4ovg5nlirt4etv4xjf44iho5amm0edi97eg-1.png)](https://copyleaks.com/blog/ai-detector-continues-top-accuracy-third-party)
                 
                 [AI Content Detector Continues To Be Confirmed As Most Accurate By Third-Party Studies](https://copyleaks.com/blog/ai-detector-continues-top-accuracy-third-party)
                 
-                [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20300'%3E%3C/svg%3E)
+                [![Featured Image pen](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20300'%3E%3C/svg%3E)
                 
-                ![](https://copyleaks.com/wp-content/uploads/2024/04/HeaderArtboard-1.png)](https://copyleaks.com/blog/how-can-ai-help-you-today-genai-in-customer-support)
+                ![Featured Image pen](https://copyleaks.com/wp-content/uploads/2024/05/writing-tools.png)](https://copyleaks.com/blog/do-writing-assistants-get-flagged-as-ai)
                 
-                [How Can AI Help You Today?](https://copyleaks.com/blog/how-can-ai-help-you-today-genai-in-customer-support)
+                [Beyond The Red Pen: Writing Tools & GenAI](https://copyleaks.com/blog/do-writing-assistants-get-flagged-as-ai)
                 
     * * * #### Learn
                 
@@ -141,7 +135,7 @@ Join us! AI Can't Do This: Mastering the Human Skills That Drive Success webinar
     Portuguese](https://copyleaks.com/pt/privacy-policy/ "Portuguese")
     
 
-[Home](https://copyleaks.com/) 〉 **Privacy Policy**
+[Home](https://copyleaks.com/tr/) 〉 **Privacy Policy**
 
 Privacy Statement
 =================
@@ -247,7 +241,7 @@ Table of Content
 
 Products
 
-[AI Content Detector](https://copyleaks.com/ai-content-detector)
+[AI Detector](https://copyleaks.com/ai-content-detector)
 
 [Plagiarism Detector](https://copyleaks.com/plagiarism-detector)
 
