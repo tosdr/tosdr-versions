@@ -2,8 +2,6 @@
 
  
 
-[HAPPENING NOW: SPEND $75 AND GET A FREE LUCKY LARRY PATCH](https://www.deathwishcoffee.com/collections/coffee)
-
      
 
 * Coffee
@@ -277,7 +275,7 @@ Company
 -------
 
 * [Help + FAQ](https://www.deathwishcoffee.com/pages/help)
-* [Refund Policy](https://help.deathwishcoffee.com/category/43tiy5jdw6-returns-refunds-exchanges)
+* [Refund Policy](https://www.deathwishcoffee.com/pages/help#template--14643757121591__a28b5404-f121-486c-942a-77e688d3753e-heading)
 * [Careers](https://jobs.jobvite.com/deathwishcoffeecareers)
 * [Wholesale](https://www.dwccwholesale.com/)
 
@@ -285,16 +283,16 @@ Accounts + Orders
 -----------------
 
 * [Your Account](https://www.deathwishcoffee.com/account)
-* [Shipping + Delivery](https://help.deathwishcoffee.com/category/8kf4vi81nm-shipping-delivery)
+* [Shipping + Delivery](https://www.deathwishcoffee.com/pages/help#template--14643757121591__65175897-561c-4cb0-a24a-9bc42d194340-heading)
 * [Subscription](https://www.deathwishcoffee.com/pages/subscription)
 * [Track Your Order](https://www.deathwishcoffee.com/pages/track-your-order)
 
 Legal
 -----
 
-* [Terms + Conditions](https://help.deathwishcoffee.com/article/wxjs13rj9x-terms-conditions)
-* [Privacy Policy](https://help.deathwishcoffee.com/article/r2xbvz3cx1-what-is-your-privacy-policy)
-* [PROP 65](https://help.deathwishcoffee.com/article/wgnkw8sloq-prop-65-warning)
+* [Terms + Conditions](https://www.deathwishcoffee.com/pages/help#template--14643757121591__62f36be8-82d3-4a8f-b5bc-9fecad927952-heading)
+* [Privacy Policy](https://www.deathwishcoffee.com/pages/help#template--14643757121591__62f36be8-82d3-4a8f-b5bc-9fecad927952-heading)
+* [PROP 65](https://www.deathwishcoffee.com/pages/help#template--14643757121591__ba2e5966-0203-4df5-94ae-b69d0baa88ea-heading)
 
 GET WIRED WITH US
 -----------------
