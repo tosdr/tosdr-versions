@@ -96,6 +96,8 @@ Error
 * [Biometric Notice - FR](#contract-sjl9lwojr)
 * [Roomies Custom Criminal Consent](#contract-r13kih61a)
 * [Matt's New Contract](#contract-bkeqnnqlr)
+* [FCRA Authorization (Supernal,LLC)](#contract-jx9omk4aa)
+* [Canadian Criminal Record Consent Form NEW\*](#contract-s11zu-f7r)
 
 Test Contract 2
 ---------------
@@ -2629,7 +2631,7 @@ Disclosure Scotland specific Consent - HR - English
 
 ### Version 7.0
 
-##### Effective May 15th 2024
+##### Effective June 6th 2024
 
 [Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/640866a9a6f77e6f0a8de59b.pdf)
 
@@ -5676,6 +5678,140 @@ bla bla:
 {{/each}}
 
   
+
+FCRA Authorization (Supernal,LLC)
+---------------------------------
+
+### Version 1.0
+
+##### Effective May 22nd 2024
+
+[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/664e461b5905f6597b150dd7.pdf)
+
+* * *
+
+### Table of Contents
+
+* * *
+
+**AUTHORIZATION REGARDING BACKGROUND INVESTIGATION**
+
+By signing below, I acknowledge receipt of the following separate documents (and certify that I have read and understood them):
+
+* DISCLOSURE REGARDING BACKGROUND INVESTIGATION ON YOU;
+* A SUMMARY OF YOUR RIGHTS UNDER THE FAIR CREDIT REPORTING ACT;
+* ADDITIONAL NOTICE REGARDING INVESTIGATIVE CONSUMER REPORTS ON YOU;
+* ADDITIONAL STATE LAW NOTICES.(In California, this notice is entitled “Notice Regarding Background Investigation Pursuant To California Law.”)  
+    
+
+  
+
+By signing below, I also authorize law enforcement agencies, learning institutions (including public and private schools, colleges and universities), information service bureaus, credit bureaus, data repositories, courts (federal, state and local), motor vehicle records agencies, my past or present employers, the military, and other public or private individuals and institutions to furnish any and all information on me that is requested by Certn, the consumer reporting agency preparing reports about me for Supernal, LLC. The information that can be disclosed to Certn includes, but is not limited to, criminal history, national sex offender registry status, employment history, education history, a social security number check, a Global Sanctions and Terrorist Watchlist check, and other information about me as allowed by law.
+
+  
+
+By signing below, I also authorize **Supernal, LLC** to obtain "**consumer reports**" and "**investigative consumer reports**" about me for employment purposes in connection with my conditional offer of employment.
+
+  
+
+  
+
+Name: {{{first\_name}}} {{{last\_name}}}
+
+Date: {{{date}}}
+
+  
+
+\[END OF DOCUMENT\]
+
+  
+
+Canadian Criminal Record Consent Form NEW\*
+-------------------------------------------
+
+### Version 14.0
+
+##### Effective June 6th 2024
+
+[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/66619805ef457b594f7d02f9.pdf)
+
+* * *
+
+### Table of Contents
+
+* * *
+
+CANADIAN CRIMINAL RECORD CHECK CONSENT
+
+Personal Information on this form is collected under the authority of the Federal Privacy Act and any applicable Provincial privacy acts
+
+|     |
+| --- |
+| ID Type: {{id\_type}} |
+| Your Criminal Record Check will review all available law enforcement systems, including any local police records. This check will NOT include overseas or US records, traffic tickets, Motor Vehicle Act offences or municipal bylaw offences. The results of this check will not be forwarded to any third party without your prior written consent, subject to applicable privacy and data protection laws. |
+
+|     |     |
+| --- | --- |
+| Criminal Record Check | Criminal Record and Judicial Matters Check (Enhanced) |
+| The search will include: criminal convictions from CPIC and/or local databases; summary convictions (previous 5 years) when identified; and findings of guilt under the Youth Criminal Justice Act (YCJA) within the applicable disclosure period. Records for applicants under the age of 18 will only be provided to agencies that fall within Sec 119 (1)(o) of the YCJA. (e.g. Federal, Provincial and Municipal agencies)\*\* | The search will include: criminal convictions from CPIC and/or local databases; summary convictions (previous 5 years) when identified; outstanding entries uch as charges, warrants, judicial orders, probation and prohibition orders; findings of guilt under the Youth Criminal Justice Act (YCJA) within the applicable disclosure period; and Absolute and Conditional Discharges (for 1 or 3 years respectively). Records for applicants under the age of 18 will only be provided to agencies that fall within Sec 119 (1)(o) of the YCJA. (e.g. Federal, Provincial and Municipal agencies)\*\* |
+
+|     |     |
+| --- | --- |
+| PERSONAL INFORMATION |     |
+| LAST NAME: | {{last\_name}} |
+| FIRST NAME: | {{first\_name}} |
+| MIDDLE NAME(S): | {{middle\_names}} |
+| ALL PREVIOUS NAMES -LAST NAME, FIRST NAME: (including any name changes and birth/maiden name) | {{#each previous\_names}} {{this.last\_name}}, {{this.first\_name}}  <br>{{/each}} |
+| GENDER: | {{gender}} |
+| DATE OF BIRTH | {{date\_of\_birth}} |
+| PLACE OF BIRTH: | {{place\_of\_birth}} |
+| CURRENT ADDRESS: | {{current\_address.street\_address}} |
+| CITY: | {{current\_address.locality}} |
+| PROV: | {{current\_address.administrative\_division\_1}} |
+| POSTAL CODE: | {{current\_address.postal\_code}} |
+| PHONE NUMBER: | {{phone\_number}} |
+| E-MAIL ADDRESS: | {{email\_address}} |
+
+|     |     |
+| --- | --- |
+| PREVIOUS ADDRESSES: (LIST ALL ADDRESSES WITHIN THE LAST 5 YEARS - INCLUDING OUT OF COUNTRY) |     |
+| {{#each previous\_addresses}} |
+| ADDRESS:  <br>CITY:  <br>PROV:  <br>POSTAL CODE: | {{this.street\_address}}  <br>{{this.locality}}  <br>{{this.administrative\_division\_1}}  <br>{{this.postal\_code}} |
+| {{/each}} |
+
+|     |     |
+| --- | --- |
+| DECLARATION OF A CRIMINAL RECORD (if applicable) |     |
+| By declaring any offences of which you have been convicted, your criminal convictions record can be confirmed without needing to submit your fingerprints for verification of your identity and the processing delay that this causes.  <br>  <br>Please list below all offences of which a judge has convicted you (whether indictable or summary) and specifically identify the offence, date you were convicted, and place where the offence was committed.  <br>  <br>Do not disclose convictions for which you have received a pardon pursuant to the Criminal Records Act, or charges that were dismissed, stayed, or resulted in absolute or conditional discharges.  <br>  <br>Do not disclose offence convictions where you were found guilty of an offence committed while you were a “young person” (younger than eighteen years), pursuant to the Youth Criminal Justice Act. |     |
+| List convictions or write N/A if nothing to declare and sign below |     |
+| {{#each convictions}} |
+| DATE OF CONVICTION:  <br>NATURE OF OFFENCE:  <br>JURISDICTION: | {{this.date}}  <br>{{this.nature}}  <br>{{this.jurisdiction}} |
+| {{/each}} |
+
+|     |     |
+| --- | --- |
+| Signature: | {{first\_name}} {{last\_name}} |
+| Date: | {{todays\_date}} |
+| Name: | {{first\_name}} {{last\_name}} |
+| Date of Birth (YYYY/MM/DD): | {{date\_of\_birth}} |
+
+|     |     |
+| --- | --- |
+| REASON FOR APPLICATION:  <br>Volunteer / Employment/ \*Other | {{reason\_for\_application}} |
+| Key Contact Name: | {{key\_contact\_name}} |
+| Requesting Organization Name: | {{requesting\_organization\_name}} |
+| Requesting Organization Phone Number: | {{requesting\_organization\_phone\_number}} |
+| \*Other - Details: | {{other\_details}} |
+
+|     |
+| --- |
+| CONSENT TO SEARCH AND DISCLOSE AND LIABILITY RELEASE |     |
+| I request and consent to the police partner, and its employees (the “Police Partner”), designated by Certn (Canada) Inc. (“Certn”), as a third party agency, to search any policing agency or court databases based on the information I have provided in order to locate any records and information in which I am referred to, and to confirm and report any criminal convictions (summary and indictable) and, if an enhanced check is ordered, any other relevant records including: absolute and conditional discharges; cases of not criminally responsible for reasons of mental disorder; and outstanding entries such as charges, judicial orders, probation and prohibition orders.  <br>  <br>I understand that information collected as a result of this Criminal Record Check will only be released to Certn and the third party organization referenced above, if any. If applicable, I understand that the organization referenced above, and not the Police Partner, will determine the impact of any reported search results. I understand that the accuracy of the reported information to be disclosed to me is not and cannot be guaranteed and may include errors or omissions.  <br>  <br>By my signature below, and for and in consideration of this Criminal Record Check being completed for me, the receipt and sufficiency of which I hereby acknowledge, I agree not to bring any legal actions, claims or demands, for losses or damages, including indirect or consequential, that I might sustain by reason of the Criminal Record Check being performed for me, against the respective municipality or Police Partner that completed the Criminal Record Check, its associated Police Board and any employees thereof, and to release them each from any and all liability and any actions, claims or demands, even if arising from their negligence or even gross negligence.  <br>  <br>I understand that I may be required to provide my fingerprints to confirm my identity before I can obtain results of my Criminal Record Check.  <br>  <br>I have read and understood this form, and in particular this section, and by signing below I am consenting to the above terms. By signing, I also certify that the information that I have provided is true and correct to the best of my knowledge and belief.  <br>  <br>I authorize the Police Partner to provide the results of the Criminal Record Check directly to Certn and the organization or Person requesting the Criminal Record Check referenced above. |     |
+
+|     |     |
+| --- | --- |
+| Signature: | {{first\_name}} {{last\_name}} |
+| Date: | {{todays\_date}} |
 
 * * *
 
