@@ -1,31 +1,31 @@
-[](https://connexity.com/)
+[](https://www.connexity.com/)
 
 us
 
-* [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAMAAABBPP0LAAAAt1BMVEWSmb66z+18msdig8La3u+tYX9IaLc7W7BagbmcUW+kqMr/q6n+//+hsNv/lIr/jIGMnNLJyOP9/fyQttT/wb3/////aWn+YWF5kNT0oqz0i4ueqtIZNJjhvt/8gn//WVr/6+rN1+o9RKZwgcMPJpX/VFT9UEn+RUX8Ozv2Ly+FGzdYZrfU1e/8LS/lQkG/mbVUX60AE231hHtcdMb0mp3qYFTFwNu3w9prcqSURGNDaaIUMX5FNW5wYt7AAAAAjklEQVR4AR3HNUJEMQCGwf+L8RR36ajR+1+CEuvRdd8kK9MNAiRQNgJmVDAt1yM6kSzYVJUsPNssAk5N7ZFKjVNFAY4co6TAOI+kyQm+LFUEBEKKzuWUNB7rSH/rSnvOulOGk+QlXTBqMIrfYX4tSe2nP3iRa/KNK7uTmWJ5a9+erZ3d+18od4ytiZdvZyuKWy8o3UpTVAAAAABJRU5ErkJggg==)gb](https://connexity.com/gb/privacy-policy/)
-* [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAMAAABBPP0LAAAAbFBMVEVzldTg4ODS0tLxDwDtAwDjAADD0uz39/fy8vL3k4nzgna4yOixwuXu7u7s6+zn5+fyd2rvcGPtZljYAABrjNCpvOHrWkxegsqfs93NAADpUUFRd8THAABBa7wnVbERRKa8vLyxsLCoqKigoKClCvcsAAAAXklEQVR4AS3JxUEAQQAEwZo13Mk/R9w5/7UERJCIGIgj5qfRJZEpPyNfCgJTjMR1eRRnJiExFJz5Mf1PokWr/UztIjRGQ3V486u0HO55m634U6dMcf0RNPfkVCTvKjO16xHA8miowAAAAABJRU5ErkJggg==)fr](https://connexity.com/fr/politique-de-confidentialite/)
-* [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAIAAAD5gJpuAAABLElEQVR4AY2QgUZEQRSGz9ydmzbYkBWABBJYABHEFhJ6m0WP0DMEQNIr9AKrN8ne2Tt3Zs7MOdOZmRBEv+v34Tvub9R6fdNlAzU+snSME/wdjbjbbJ6EiEg6BA8102QbjKNpoMzw8v6qD/sOALbbT2MC1NgaAWOKOgxf5czY+4dbAX2G/THzcozLrvPV85IQyqVz0rvg2p9Pei4HjzSsiFbV4JgyhhxCjpGdZ0RhdikLB9/b8Qig7MkpSovR7Cp59q6CazaNFiTt4J82o6uvdMVwTsztKTXZod4jgOJJuqNAjFyGrBR8gM6XwKfIC4KanBSTZ0rClKh08D9DFh3egW7ebH7NcRDQWrz9rM2Ne+mDOXB2mZJ8agL19nwxR2iZXGm1gDbQKhDjd4yHb2oW/KR8xHicAAAAAElFTkSuQmCC)de](https://connexity.com/de/datenschutzrichtlinie/)
-* [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAMAAABBPP0LAAAAUVBMVEUAiQAAgADk5OTe3t7vAAB3yXf9/f36+vr5Vlb3RkZjwWNYvVj4+Pj1MzP1KChQuFD1GxviAABHtUf19fXzDw4/sT8AcAA2qzYAWgDLy8vDw8ObXclsAAAAVElEQVR4AQXBSwoCQRQEsNT70CC69P5XdCUMA2ISSAiBWAQScg8bN7GJWxFDrCivwhCLMipGx3LKUOi2HAZluy2HgXprxQGfGL6G63B5MJ5FCD/4A3DaCLvbBle5AAAAAElFTkSuQmCC)it](https://connexity.com/it/informativa-sulla-privacy/)
+* [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAMAAABBPP0LAAAAt1BMVEWSmb66z+18msdig8La3u+tYX9IaLc7W7BagbmcUW+kqMr/q6n+//+hsNv/lIr/jIGMnNLJyOP9/fyQttT/wb3/////aWn+YWF5kNT0oqz0i4ueqtIZNJjhvt/8gn//WVr/6+rN1+o9RKZwgcMPJpX/VFT9UEn+RUX8Ozv2Ly+FGzdYZrfU1e/8LS/lQkG/mbVUX60AE231hHtcdMb0mp3qYFTFwNu3w9prcqSURGNDaaIUMX5FNW5wYt7AAAAAjklEQVR4AR3HNUJEMQCGwf+L8RR36ajR+1+CEuvRdd8kK9MNAiRQNgJmVDAt1yM6kSzYVJUsPNssAk5N7ZFKjVNFAY4co6TAOI+kyQm+LFUEBEKKzuWUNB7rSH/rSnvOulOGk+QlXTBqMIrfYX4tSe2nP3iRa/KNK7uTmWJ5a9+erZ3d+18od4ytiZdvZyuKWy8o3UpTVAAAAABJRU5ErkJggg==)gb](https://www.connexity.com/gb/privacy-policy/)
+* [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAMAAABBPP0LAAAAbFBMVEVzldTg4ODS0tLxDwDtAwDjAADD0uz39/fy8vL3k4nzgna4yOixwuXu7u7s6+zn5+fyd2rvcGPtZljYAABrjNCpvOHrWkxegsqfs93NAADpUUFRd8THAABBa7wnVbERRKa8vLyxsLCoqKigoKClCvcsAAAAXklEQVR4AS3JxUEAQQAEwZo13Mk/R9w5/7UERJCIGIgj5qfRJZEpPyNfCgJTjMR1eRRnJiExFJz5Mf1PokWr/UztIjRGQ3V486u0HO55m634U6dMcf0RNPfkVCTvKjO16xHA8miowAAAAABJRU5ErkJggg==)fr](https://www.connexity.com/fr/politique-de-confidentialite/)
+* [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAIAAAD5gJpuAAABLElEQVR4AY2QgUZEQRSGz9ydmzbYkBWABBJYABHEFhJ6m0WP0DMEQNIr9AKrN8ne2Tt3Zs7MOdOZmRBEv+v34Tvub9R6fdNlAzU+snSME/wdjbjbbJ6EiEg6BA8102QbjKNpoMzw8v6qD/sOALbbT2MC1NgaAWOKOgxf5czY+4dbAX2G/THzcozLrvPV85IQyqVz0rvg2p9Pei4HjzSsiFbV4JgyhhxCjpGdZ0RhdikLB9/b8Qig7MkpSovR7Cp59q6CazaNFiTt4J82o6uvdMVwTsztKTXZod4jgOJJuqNAjFyGrBR8gM6XwKfIC4KanBSTZ0rClKh08D9DFh3egW7ebH7NcRDQWrz9rM2Ne+mDOXB2mZJ8agL19nwxR2iZXGm1gDbQKhDjd4yHb2oW/KR8xHicAAAAAElFTkSuQmCC)de](https://www.connexity.com/de/datenschutzrichtlinie/)
+* [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAMAAABBPP0LAAAAUVBMVEUAiQAAgADk5OTe3t7vAAB3yXf9/f36+vr5Vlb3RkZjwWNYvVj4+Pj1MzP1KChQuFD1GxviAABHtUf19fXzDw4/sT8AcAA2qzYAWgDLy8vDw8ObXclsAAAAVElEQVR4AQXBSwoCQRQEsNT70CC69P5XdCUMA2ISSAiBWAQScg8bN7GJWxFDrCivwhCLMipGx3LKUOi2HAZluy2HgXprxQGfGL6G63B5MJ5FCD/4A3DaCLvbBle5AAAAAElFTkSuQmCC)it](https://www.connexity.com/it/informativa-sulla-privacy/)
 
-[](https://connexity.com/login)
+[](https://www.connexity.com/login)
 
-* [Home](https://connexity.com/)
-* [FOR RETAILERS](https://connexity.com/retailers/)
-    * [Our Platform](https://connexity.com/our-platform/)
-* [FOR PUBLISHERS](https://connexity.com/publishers/)
+* [Home](https://www.connexity.com/)
+* [FOR RETAILERS](https://www.connexity.com/retailers/)
+    * [Our Platform](https://www.connexity.com/our-platform/)
+* [FOR PUBLISHERS](https://www.connexity.com/publishers/)
 * [FOR INFLUENCERS](https://shopyourlikes.com/)
 * [Resources](http://www.connexity.com/)
     * [Blog](http://www.connexity.com/blog)
-    * [Success Stories](https://connexity.com/success-stories/)
+    * [Success Stories](https://www.connexity.com/success-stories/)
     * [Publisher Resource Center](https://pubresources.connexity.com/)
     * [Merchant Resource Center](https://resources.connexity.com/hc/en-us)
 
-* [ABOUT](https://connexity.com/about/)
-    * [LEADERSHIP TEAM](https://connexity.com/leadership-team/)
-    * [CAREERS](https://connexity.com/careers/)
-    * [NEWS](https://connexity.com/blog/news/)
-* [CONTACT](https://connexity.com/contact/)
-* [LOGIN](https://connexity.com/login/)
+* [ABOUT](https://www.connexity.com/about/)
+    * [LEADERSHIP TEAM](https://www.connexity.com/leadership-team/)
+    * [CAREERS](https://www.connexity.com/careers/)
+    * [NEWS](https://www.connexity.com/blog/news/)
+* [CONTACT](https://www.connexity.com/contact/)
+* [LOGIN](https://www.connexity.com/login/)
 
 Privacy Policy
 ==============
@@ -60,7 +60,7 @@ We typically use this information to send you materials you have requested to re
 
 We may disclose this information to authorized third parties including our affiliates and third-party service providers for these purposes;
 
-Our websites use “cookies” although you can set your browser not to accept cookies if you so wish although this may affect your use of our Sites. We use cookies to analyze our traffic. For more information about our use of cookies, please see our [cookies policy](https://connexity.com/cookie-policy/);
+Our websites use “cookies” although you can set your browser not to accept cookies if you so wish although this may affect your use of our Sites. We use cookies to analyze our traffic. For more information about our use of cookies, please see our [cookies policy](https://www.connexity.com/cookie-policy/);
 
 We encrypt any information you input using Secure Sockets Layer (SSL) software and take security measures to safeguard information in accordance with industry practice;
 
@@ -71,7 +71,7 @@ If you have any questions or concerns about privacy at Connexity, please contact
 Our Sites are not designed or intended for use by children under 16;
 
 This Privacy Policy may change from time to time so please check this policy regularly. Any material changes will be notified to you by email as appropriate; and  
-If you are based in the EU, you may have certain additional rights which are set out in section X below. If you are a resident of a U.S. State with an applicable U.S. State Privacy Law granting you privacy rights, please see our U.S. State Privacy Notice at [https://connexity.com/USStatePrivacyNotice](https://connexity.com/USStatePrivacyNotice).
+If you are based in the EU, you may have certain additional rights which are set out in section X below. If you are a resident of a U.S. State with an applicable U.S. State Privacy Law granting you privacy rights, please see our U.S. State Privacy Notice at [https://www.connexity.com/USStatePrivacyNotice](https://www.connexity.com/USStatePrivacyNotice).
 
 #### I. What information do we collect about you and from where do we collect it?
 
@@ -117,7 +117,7 @@ We work with third parties, including website analysis firms  and advertising n
 
 You may be able to direct your internet browser not to allow cookies and you can delete existing cookies from your computer.
 
-For more information about our use of cookies, please see our [cookies policy](https://connexity.com/cookie-policy/).
+For more information about our use of cookies, please see our [cookies policy](https://www.connexity.com/cookie-policy/).
 
 #### V. Preference Based Advertising
 
@@ -159,7 +159,7 @@ Where you are located in the European Union, in certain circumstances you are en
 
 **(e) Right to restriction of processing:** Where certain conditions apply to have a right to restrict the processing of your personal data.
 
-If you think you are entitled to exercise any of the above rights and would like to do so, please contact us by [clicking here.](https://connexity.com/your-rights/)
+If you think you are entitled to exercise any of the above rights and would like to do so, please contact us by [clicking here.](https://www.connexity.com/your-rights/)
 
 **Privacy Shield**
 
@@ -200,13 +200,15 @@ Ste. 400
 Santa Monica, CA 90404  
 (310) 571-1235
 
-* [Login](https://connexity.com/login/)
-* [Contact Us](https://connexity.com/contact/)
-* [Careers](https://connexity.com/careers/)
+* [Login](https://www.connexity.com/login/)
+* [Contact Us](https://www.connexity.com/contact/)
+* [Careers](https://www.connexity.com/careers/)
 
- [![](https://connexity.com/wp-content/uploads/2019/10/twitter-orange.svg)](https://twitter.com/Connexity)[![](https://connexity.com/wp-content/uploads/2019/10/in-orange.svg)](https://www.linkedin.com/company/connexity/)[![](https://connexity.com/wp-content/uploads/2019/10/facebook-orange.svg)](https://www.facebook.com/ConnexityInc)[![](https://connexity.com/wp-content/uploads/2020/01/insta2.svg)](https://www.instagram.com/connexitylife/)
+ [![](/wp-content/uploads/2019/10/twitter-orange.svg)](https://twitter.com/Connexity)[![](/wp-content/uploads/2019/10/in-orange.svg)](https://www.linkedin.com/company/connexity/)[![](/wp-content/uploads/2019/10/facebook-orange.svg)](https://www.facebook.com/ConnexityInc)[![](/wp-content/uploads/2020/01/insta2.svg)](https://www.instagram.com/connexitylife/)
 
-[Privacy Policy /](https://connexity.com/privacy-policy/) [Cookie policy /](https://connexity.com/cookie-policy/) [U.S. State Privacy Notice /](https://connexity.com/usstateprivacynotice/) [Ad Opt-Out /](https://connexity.com/opt-out/) [DO NOT SELL OR SHARE MY PERSONAL INFORMATION /](https://connexity.com/opt-out/) [ACCESSIBILITY /](https://connexity.com/accessibility/) [Connexity is a Taboola company /](https://www.taboola.com/)
+[Privacy Policy /](https://www.connexity.com/privacy-policy/) [Cookie policy /](https://www.connexity.com/cookie-policy/) [U.S. State Privacy Notice /](https://www.connexity.com/usstateprivacynotice/) [Ad Opt-Out /](https://www.connexity.com/opt-out/) [DO NOT SELL OR SHARE MY PERSONAL INFORMATION /](https://www.connexity.com/opt-out/) [ACCESSIBILITY /](https://www.connexity.com/accessibility/) [Connexity is a Taboola company /](https://www.taboola.com/)
+
+![Quantcast](//pixel.quantserve.com/pixel/p-nAjcWP98EpUDz.gif)
 
 ![](https://www.facebook.com/tr?id=915551385188750&ev=PageView&noscript=1)
 
