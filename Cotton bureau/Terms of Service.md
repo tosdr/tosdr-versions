@@ -28,7 +28,7 @@
 
 [All Products](https://cottonbureau.com/shop) [Our Faves](https://cottonbureau.com/shop?menu%5Bproduct__collections__names%5D=Our%20Favorites) [Featured Partners](https://cottonbureau.com/shop?menu%5Bproduct__collections__names%5D=Featured%20Partners) [Submit a Design](https://cottonbureau.com/submit-designs)
 
-[🌸  **Spend $99, get free shipping! Use code FREE99 at checkout.**](https://cottonbureau.com/discounts?discount=FREE99)
+[☀️  **Spend $99, get free shipping! Use code FREE99 at checkout.**](https://cottonbureau.com/discounts?discount=FREE99)
 
 Need help? Email [support@cottonbureau.com](mailto:support@cottonbureau.com)Need help? [Email](mailto:support@cottonbureau.com)
 
