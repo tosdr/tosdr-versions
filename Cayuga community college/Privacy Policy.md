@@ -143,9 +143,11 @@ Personal Data is collected for the following purposes and using the following se
     Google may use the Data collected to contextualize and personalize the ads of its own advertising network.  
     In Google Analytics 4, IP addresses are used at collection time and then discarded before Data is logged in any data center or server. Users can learn more by consulting [Google’s official documentation](https://support.google.com/analytics/answer/12017362?hl=en&ref_topic=2919631).
     
+    In order to understand Google's use of Data, consult [Google's partner policy](https://www.google.com/policies/privacy/partners/).
+    
     Personal Data processed: number of Users; session statistics; Trackers; Usage Data.
     
-    Place of processing: United States – [Privacy Policy](https://policies.google.com/privacy) – [Opt Out](https://tools.google.com/dlpage/gaoptout?hl=en).
+    Place of processing: United States – [Privacy Policy](https://business.safety.google/privacy/) – [Opt Out](https://tools.google.com/dlpage/gaoptout?hl=en).
     
     Category of personal information collected according to the CCPA: internet or other electronic network activity information.
     
@@ -519,7 +521,7 @@ Personal Data is collected for the following purposes and using the following se
     
     Personal Data processed: Tracker; Usage Data.
     
-    Place of processing: United States .
+    Place of processing: United States – [Privacy Policy](https://business.safety.google/privacy/).
     
     Category of personal information collected according to the CCPA: internet or other electronic network activity information.
     
