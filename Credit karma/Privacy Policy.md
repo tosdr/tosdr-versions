@@ -1077,7 +1077,7 @@ Select Country
 * [Canada (French)](https://www.intuit.com/fr-ca/)
 * [India](https://www.intuit.com/in/)
 
-[![Facebook](https://quickbooks.intuit.com/oidam/intuit/ic/en_us/logos/gwp-footer/social-fb-blue.svg)](https://www.facebook.com/intuit)[![Twitter](https://quickbooks.intuit.com/oidam/intuit/ic/en_us/logos/gwp-footer/social-x-blue.svg)](https://twitter.com/Intuit)[![YouTube](https://quickbooks.intuit.com/oidam/intuit/ic/en_us/logos/gwp-footer/social-yt-blue.svg)](https://www.youtube.com/user/intuit)[![LinkedIn](https://quickbooks.intuit.com/oidam/intuit/ic/en_us/logos/gwp-footer/social-li-blue.svg)](https://www.linkedin.com/company/intuit)
+[![Facebook](https://quickbooks.intuit.com/oidam/intuit/ic/en_us/logos/gwp-footer/social-fb-gray.svg)](https://www.facebook.com/intuit)[![Twitter](https://quickbooks.intuit.com/oidam/intuit/ic/en_us/logos/gwp-footer/social-x-gray.svg)](https://twitter.com/Intuit)[![YouTube](https://quickbooks.intuit.com/oidam/intuit/ic/en_us/logos/gwp-footer/social-yt-gray.svg)](https://www.youtube.com/user/intuit)[![LinkedIn](https://quickbooks.intuit.com/oidam/intuit/ic/en_us/logos/gwp-footer/social-li-gray.svg)](https://www.linkedin.com/company/intuit)
 
 [![intuit](https://quickbooks.intuit.com/oidam/intuit/ic/en_us/logos/gwp-footer/intuit-rebrand-logo-dark.svg)](https://www.intuit.com/)
 
