@@ -6,7 +6,6 @@
 * Search for:  
     
 * [](https://www.bitsoffreedom.nl/cart/ "Winkelwagen")
-* [Vacatures (3)](https://www.bitsoffreedom.nl/kom-bij-ons-werken/)
 * [Shop](https://www.bitsoffreedom.nl/shop/)
 * [Doneer](https://www.bitsoffreedom.nl/doneren/)
 * Menu
@@ -16,7 +15,6 @@
 Alle resultaten
 
 * [](https://www.bitsoffreedom.nl/cart/ "Winkelwagen")
-* [Vacatures (3)](https://www.bitsoffreedom.nl/kom-bij-ons-werken/)
 * [Shop](https://www.bitsoffreedom.nl/shop/)
 * [Doneer](https://www.bitsoffreedom.nl/doneren/)
 
@@ -28,7 +26,6 @@ Alle resultaten
     * [Tech onderzoek](https://tech.bitsoffreedom.nl/)
 * [Contact](https://www.bitsoffreedom.nl/contact/)
     * [Pers](https://www.bitsoffreedom.nl/pers/)
-    * [Vacatures (3)](https://www.bitsoffreedom.nl/kom-bij-ons-werken/)
     * [Donateursomgeving](https://donateurs.bitsoffreedom.nl/)
 * [Kom in actie](https://www.bitsoffreedom.nl/kom-in-actie/)
     * [Projecten & campagnes](https://www.bitsoffreedom.nl/tips-en-tools/)
