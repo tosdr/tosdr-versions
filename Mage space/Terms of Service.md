@@ -1,0 +1,1 @@
+![Mage Logo](/logo.png)
