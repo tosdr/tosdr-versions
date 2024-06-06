@@ -112,7 +112,7 @@ Register your account and start the journey. It is 100% free!
 
 ![money](https://cdn.cuty.io/images/public/money-tree.png)
 
-![bitcoin-logo](https://cdn.cuty.io/images/public/bitcoin.png) ![payeer-logo](https://cdn.cuty.io/images/public/payeer.png) ![paypal-logo](https://cdn.cuty.io/images/public/paypal.png) ![perfectMoney-logo](https://cdn.cuty.io/images/public/perfectMoney.png) ![advcash-logo](https://cdn.cuty.io/images/public/advcash.png) ![airtm-logo](https://cdn.cuty.io/images/public/airtm.png) ![usdt-logo](https://cdn.cuty.io/images/public/usdt.png)
+![bitcoin-logo](https://cdn.cuty.io/images/public/bitcoin.png) ![usdt-logo](https://cdn.cuty.io/images/public/usdt.png) ![payeer-logo](https://cdn.cuty.io/images/public/payeer.png) ![paypal-logo](https://cdn.cuty.io/images/public/paypal.png) ![perfectMoney-logo](https://cdn.cuty.io/images/public/perfectMoney.png)
 
 ![logo](https://cdn.cuty.io/images/shared/logo.svg)
 
