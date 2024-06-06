@@ -1,4 +1,4 @@
-[![](https://assets-global.website-files.com/65fde10e62e6a7603e9221cc/660190120ed591c2ca6658f4_clearco-logo-black.png)](https://clear.co/)
+[![](https://cdn.prod.website-files.com/65fde10e62e6a7603e9221cc/660190120ed591c2ca6658f4_clearco-logo-black.png)](https://clear.co/)
 
 [How it Works](https://clear.co/ecommerce-funding)
 
@@ -6,27 +6,27 @@ Solutions
 
 **We fund all ecommerce businesses**
 
-[![](https://assets-global.website-files.com/65fde10e62e6a7603e9221cc/6615a6650bd42bea7a444e85_icon_shopify_purple.svg)
+[![](https://cdn.prod.website-files.com/65fde10e62e6a7603e9221cc/6615a6650bd42bea7a444e85_icon_shopify_purple.svg)
 
 Shopify Merchants
 
-Shopify merchants use Clearco to fund their invoices.](https://clear.co/ecommerce-funding/shopify)[![](https://assets-global.website-files.com/65fde10e62e6a7603e9221cc/6615a6659a2a98870571e777_icon_amazon_purple.svg)
+Shopify merchants use Clearco to fund their invoices.](https://clear.co/ecommerce-funding/shopify)[![](https://cdn.prod.website-files.com/65fde10e62e6a7603e9221cc/6615a6659a2a98870571e777_icon_amazon_purple.svg)
 
 Amazon Sellers
 
-Amazon sellers use Clearco to fund their invoices.](https://clear.co/ecommerce-funding/amazon)[![](https://assets-global.website-files.com/65fde10e62e6a7603e9221cc/6615a665558401f5a88e041b_icon_big_commerce_purple.svg)
+Amazon sellers use Clearco to fund their invoices.](https://clear.co/ecommerce-funding/amazon)[![](https://cdn.prod.website-files.com/65fde10e62e6a7603e9221cc/6615a665558401f5a88e041b_icon_big_commerce_purple.svg)
 
 BigCommerce
 
-BigCommerce merchants use Clearco to fund their invoices.](https://clear.co/ecommerce-funding/bigcommerce)[![](https://assets-global.website-files.com/65fde10e62e6a7603e9221cc/6615a66531c7094dc9802104_icon_square_purple.svg)
+BigCommerce merchants use Clearco to fund their invoices.](https://clear.co/ecommerce-funding/bigcommerce)[![](https://cdn.prod.website-files.com/65fde10e62e6a7603e9221cc/6615a66531c7094dc9802104_icon_square_purple.svg)
 
 Square
 
-Businesses using Square use Clearco to fund their invoices.](https://clear.co/ecommerce-funding/square)[![](https://assets-global.website-files.com/65fde10e62e6a7603e9221cc/6615a6658b7015c0e60b8d41_icon_stripe_purple.svg)
+Businesses using Square use Clearco to fund their invoices.](https://clear.co/ecommerce-funding/square)[![](https://cdn.prod.website-files.com/65fde10e62e6a7603e9221cc/6615a6658b7015c0e60b8d41_icon_stripe_purple.svg)
 
 Stripe
 
- Businesses using Stripe use Clearco to fund their invoices.](https://clear.co/ecommerce-funding/stripe)[![](https://assets-global.website-files.com/65fde10e62e6a7603e9221cc/6615a665988e4493cf241e3b_icon_paypal_purple.svg)
+ Businesses using Stripe use Clearco to fund their invoices.](https://clear.co/ecommerce-funding/stripe)[![](https://cdn.prod.website-files.com/65fde10e62e6a7603e9221cc/6615a665988e4493cf241e3b_icon_paypal_purple.svg)
 
 PayPal
 
@@ -34,21 +34,21 @@ Businesses using PayPal use Clearco to fund their invoices.](https://clear.co/ec
 
 **Popular DTC sectors we fund:**
 
-[![](https://assets-global.website-files.com/65fde10e62e6a7603e9221cc/6615a42a077518fa89ba330a_apparel.svg)
+[![](https://cdn.prod.website-files.com/65fde10e62e6a7603e9221cc/6615a42a077518fa89ba330a_apparel.svg)
 
-Apparel](https://clear.co/ecommerce-funding/apparel)[![](https://assets-global.website-files.com/65fde10e62e6a7603e9221cc/6615a42ae628bbd020e69a88_jewelry.svg)
+Apparel](https://clear.co/ecommerce-funding/apparel)[![](https://cdn.prod.website-files.com/65fde10e62e6a7603e9221cc/6615a42ae628bbd020e69a88_jewelry.svg)
 
-Jewelry](https://clear.co/ecommerce-funding/jewelry)[![](https://assets-global.website-files.com/65fde10e62e6a7603e9221cc/6615a42a0bd42bea7a42684f_beauty.svg)
+Jewelry](https://clear.co/ecommerce-funding/jewelry)[![](https://cdn.prod.website-files.com/65fde10e62e6a7603e9221cc/6615a42a0bd42bea7a42684f_beauty.svg)
 
-Beauty](https://clear.co/ecommerce-funding/beauty)[![heart icon](https://assets-global.website-files.com/65fde10e62e6a7603e9221cc/660a01b60a3868d8df2cb6fc_heart.svg)
+Beauty](https://clear.co/ecommerce-funding/beauty)[![heart icon](https://cdn.prod.website-files.com/65fde10e62e6a7603e9221cc/660a01b60a3868d8df2cb6fc_heart.svg)
 
-Health and Wellness](https://clear.co/ecommerce-funding/health-and-wellness)[![](https://assets-global.website-files.com/65fde10e62e6a7603e9221cc/6615a42a6b77c788c95124ad_home_garden.svg)
+Health and Wellness](https://clear.co/ecommerce-funding/health-and-wellness)[![](https://cdn.prod.website-files.com/65fde10e62e6a7603e9221cc/6615a42a6b77c788c95124ad_home_garden.svg)
 
-Home and Garden](https://clear.co/ecommerce-funding/home-and-garden)[![](https://assets-global.website-files.com/65fde10e62e6a7603e9221cc/6615a42a2c99909fc75be1e1_technology.svg)
+Home and Garden](https://clear.co/ecommerce-funding/home-and-garden)[![](https://cdn.prod.website-files.com/65fde10e62e6a7603e9221cc/6615a42a2c99909fc75be1e1_technology.svg)
 
-Technology](https://clear.co/ecommerce-funding/technology)[![](https://assets-global.website-files.com/65fde10e62e6a7603e9221cc/6615a42a43e48a7d5869889a_pets.svg)
+Technology](https://clear.co/ecommerce-funding/technology)[![](https://cdn.prod.website-files.com/65fde10e62e6a7603e9221cc/6615a42a43e48a7d5869889a_pets.svg)
 
-Pets](https://clear.co/ecommerce-funding/pet)[![cart icon](https://assets-global.website-files.com/65fde10e62e6a7603e9221cc/660a014ca2dd5862e91fbcbf_cart.svg)
+Pets](https://clear.co/ecommerce-funding/pet)[![cart icon](https://cdn.prod.website-files.com/65fde10e62e6a7603e9221cc/660a014ca2dd5862e91fbcbf_cart.svg)
 
 Food and Beverage](https://clear.co/ecommerce-funding/food-and-beverage)
 
@@ -56,11 +56,11 @@ Company
 
 **About Clearco**
 
-[![building icon](https://assets-global.website-files.com/65fde10e62e6a7603e9221cc/660ae6bd0bd3d436f7bf590e_building.svg)
+[![building icon](https://cdn.prod.website-files.com/65fde10e62e6a7603e9221cc/660ae6bd0bd3d436f7bf590e_building.svg)
 
 About
 
-About Clearco: the company that is working to modernize funding for ecommerce.](https://clear.co/about-us)[![users icon](https://assets-global.website-files.com/65fde10e62e6a7603e9221cc/660a04e1b03e95120f9b8ae6_uesers.svg)
+About Clearco: the company that is working to modernize funding for ecommerce.](https://clear.co/about-us)[![users icon](https://cdn.prod.website-files.com/65fde10e62e6a7603e9221cc/660a04e1b03e95120f9b8ae6_uesers.svg)
 
 Careers
 
@@ -68,43 +68,47 @@ Join us on our mission to accelerate ecommerce growth.](https://clear.co/careers
 
 Announcements
 
-[![arrow right icon](https://assets-global.website-files.com/65fde10e62e6a7603e9221cc/660a05ee5156940ff5767f63_arrow_right.svg)
+[![arrow right icon](https://cdn.prod.website-files.com/65fde10e62e6a7603e9221cc/660a05ee5156940ff5767f63_arrow_right.svg)
 
 **Letter from our CEO**](http://clear.co/blog/clearco-2-is-open-for-business)
 
 [Follow Clearco](#)
 
-[![](https://assets-global.website-files.com/65fde10e62e6a7603e9221cc/6606e9118802fde55bfc4ae3_icon_linked_in_purple.svg)](https://www.linkedin.com/company/getclearco/)[![](https://assets-global.website-files.com/65fde10e62e6a7603e9221cc/6606e9114ebf7ede564c7c21_icon_x_purple.svg)](https://twitter.com/getclearco)[![](https://assets-global.website-files.com/65fde10e62e6a7603e9221cc/6606e9117698026d6419d005_icon_facebook_purple.svg)](https://www.facebook.com/getclearco)[![](https://assets-global.website-files.com/65fde10e62e6a7603e9221cc/6606e911cf922c6cd3fa9416_icon_instagram_purple.svg)](https://www.instagram.com/getclearco/)[![](https://assets-global.website-files.com/65fde10e62e6a7603e9221cc/6606e9111274fb170726ce15_icon_tiktok_purple.svg)](https://www.tiktok.com/@clearco)[![](https://assets-global.website-files.com/65fde10e62e6a7603e9221cc/6606e9116ad7eebc2336da71_icon_youtube_purple.svg)](https://www.youtube.com/@ClearcoOfficial)
+[![](https://cdn.prod.website-files.com/65fde10e62e6a7603e9221cc/6606e9118802fde55bfc4ae3_icon_linked_in_purple.svg)](https://www.linkedin.com/company/getclearco/)[![](https://cdn.prod.website-files.com/65fde10e62e6a7603e9221cc/6606e9114ebf7ede564c7c21_icon_x_purple.svg)](https://twitter.com/getclearco)[![](https://cdn.prod.website-files.com/65fde10e62e6a7603e9221cc/6606e9117698026d6419d005_icon_facebook_purple.svg)](https://www.facebook.com/getclearco)[![](https://cdn.prod.website-files.com/65fde10e62e6a7603e9221cc/6606e911cf922c6cd3fa9416_icon_instagram_purple.svg)](https://www.instagram.com/getclearco/)[![](https://cdn.prod.website-files.com/65fde10e62e6a7603e9221cc/6606e9111274fb170726ce15_icon_tiktok_purple.svg)](https://www.tiktok.com/@clearco)[![](https://cdn.prod.website-files.com/65fde10e62e6a7603e9221cc/6606e9116ad7eebc2336da71_icon_youtube_purple.svg)](https://www.youtube.com/@ClearcoOfficial)
 
 Resources
 
 **Clearco's resources**
 
-[![computer icon](https://assets-global.website-files.com/65fde10e62e6a7603e9221cc/660a04e15156940ff575bd89_computer.svg)
+[![computer icon](https://cdn.prod.website-files.com/65fde10e62e6a7603e9221cc/660a04e15156940ff575bd89_computer.svg)
 
 Clearco Blog
 
-Read top financial, operations, and marketing tips for ecommerce.](https://clear.co/blog)[![trophy icon](https://assets-global.website-files.com/65fde10e62e6a7603e9221cc/660a04e1b576d554dfb3ed5f_trophy.svg)
+Read top financial, operations, and marketing tips for ecommerce.](https://clear.co/blog)[![trophy icon](https://cdn.prod.website-files.com/65fde10e62e6a7603e9221cc/660a04e1b576d554dfb3ed5f_trophy.svg)
 
 Case Studies
 
-Learn how Clearco's ecommerce founders grew their businesses with funding.](https://clear.co/case-studies)[![rocket icon](https://assets-global.website-files.com/65fde10e62e6a7603e9221cc/660ae67bc787b93a080639c9_rocket.svg)
+Learn how Clearco's ecommerce founders grew their businesses with funding.](https://clear.co/case-studies)[![rocket icon](https://cdn.prod.website-files.com/65fde10e62e6a7603e9221cc/660ae67bc787b93a080639c9_rocket.svg)
 
 Partner with Clearco
 
-If you work with ecommerce businesses, partner to offer Clearco funding.](https://clear.co/partners)[![wallet icon](https://assets-global.website-files.com/65fde10e62e6a7603e9221cc/660a01696123cc5a78712c4c_wallet.svg)
+If you work with ecommerce businesses, partner to offer Clearco funding.](https://clear.co/partners)[![rocket icon](https://cdn.prod.website-files.com/65fde10e62e6a7603e9221cc/660ae67bc787b93a080639c9_rocket.svg)
 
-Support
+Partner with Clearco
 
-Review our help docs and get in touch with our amazing Customer Service team.](https://help.clear.co/s/?language=en_US&_gl=1*ik2uhi*_gcl_au*MTU3NjIzODY0My4xNzA5MzE1NTg1)
+If you work with ecommerce businesses, partner to offer Clearco funding.](https://clear.co/partners)[![wallet icon](https://cdn.prod.website-files.com/65fde10e62e6a7603e9221cc/660a01696123cc5a78712c4c_wallet.svg)
+
+Enterprise Sales
+
+Learn more about our enterprise solution and get a demo from our sales team.](https://clear.co/demo)
 
 **Read our latest content**
 
-![](https://assets-global.website-files.com/65fde10e62e6a7603e92222e/66460ee589fe09f221cbb729_hatlaunch-custom-hats-clearco-funding.jpeg)
+![](https://cdn.prod.website-files.com/65fde10e62e6a7603e92222e/6658e3609845baba1d89c29b_clearco-funding-fractional-cfo-growth-partners.png)
 
-###### HatLaunch generates 75% of revenue from digital advertising spend across Google and Facebook, which Clearco funds
+###### How Fractional CFOs Leverage Invoice and other Funding for Ecommerce Brands
 
-[Read now >](https://clear.co/blog/hatlaunch-revenue-advertising-google-facebook-invoice-funding)
+[Read now >](https://clear.co/blog/how-fractional-cfos-leverage-invoice-and-other-funding-for-ecommerce-brands)
 
 [Sign In](http://my.clearbanc.com/login)[Get Funding](http://my.clearbanc.com/signup)
 
@@ -431,7 +435,7 @@ We reserve the right, at our discretion, to make changes to this Policy from tim
 
 If you have any questions about this Policy or our privacy practices including any request to exercise your rights available under law, please email privacy@clear.co or by mail addressed to “Clearco”, Attention: Privacy & Compliance Department, 33 Yonge Street, Suite 1302, Toronto, Ontario, Canada M5E 1G4.
 
-[![](https://assets-global.website-files.com/65fde10e62e6a7603e9221cc/660190120ed591c2ca6658f4_clearco-logo-black.png)](#)
+[![](https://cdn.prod.website-files.com/65fde10e62e6a7603e9221cc/660190120ed591c2ca6658f4_clearco-logo-black.png)](#)
 
 **Clearco** provides working capital for ecommerce invoices and receipts. **Connecting ecommerce to funding.**
 
@@ -439,11 +443,11 @@ If you have any questions about this Policy or our privacy practices including a
 
 Get Started
 
-![Arrow](https://assets-global.website-files.com/65fde10e62e6a7603e9221cc/65fde10e62e6a7603e922245_Button%20Arrow%20Dark.svg)](http://my.clearbanc.com/login)[Sign Up
+![Arrow](https://cdn.prod.website-files.com/65fde10e62e6a7603e9221cc/65fde10e62e6a7603e922245_Button%20Arrow%20Dark.svg)](http://my.clearbanc.com/login)[Sign Up
 
 Discover More
 
-![Arrow](https://assets-global.website-files.com/65fde10e62e6a7603e9221cc/65fde10e62e6a7603e922243_Arrow%20(1).svg)](http://my.clearbanc.com/signup)
+![Arrow](https://cdn.prod.website-files.com/65fde10e62e6a7603e9221cc/65fde10e62e6a7603e922243_Arrow%20(1).svg)](http://my.clearbanc.com/signup)
 
 Email: support@clear.co  
 Press: press@clear.co  
@@ -467,4 +471,4 @@ Legal
 
 Clear Finance Technology Corporation | 2024
 
-[![](https://assets-global.website-files.com/65fde10e62e6a7603e9221cc/6606e9118802fde55bfc4ae3_icon_linked_in_purple.svg)](https://www.linkedin.com/company/getclearco/)[![](https://assets-global.website-files.com/65fde10e62e6a7603e9221cc/6606e9114ebf7ede564c7c21_icon_x_purple.svg)](https://twitter.com/getclearco)[![](https://assets-global.website-files.com/65fde10e62e6a7603e9221cc/6606e9117698026d6419d005_icon_facebook_purple.svg)](https://www.facebook.com/getclearco)[![](https://assets-global.website-files.com/65fde10e62e6a7603e9221cc/6606e911cf922c6cd3fa9416_icon_instagram_purple.svg)](https://www.instagram.com/getclearco/)[![](https://assets-global.website-files.com/65fde10e62e6a7603e9221cc/6606e9111274fb170726ce15_icon_tiktok_purple.svg)](https://www.tiktok.com/@clearco)[![](https://assets-global.website-files.com/65fde10e62e6a7603e9221cc/6606e9116ad7eebc2336da71_icon_youtube_purple.svg)](https://www.youtube.com/@ClearcoOfficial)
+[![](https://cdn.prod.website-files.com/65fde10e62e6a7603e9221cc/6606e9118802fde55bfc4ae3_icon_linked_in_purple.svg)](https://www.linkedin.com/company/getclearco/)[![](https://cdn.prod.website-files.com/65fde10e62e6a7603e9221cc/6606e9114ebf7ede564c7c21_icon_x_purple.svg)](https://twitter.com/getclearco)[![](https://cdn.prod.website-files.com/65fde10e62e6a7603e9221cc/6606e9117698026d6419d005_icon_facebook_purple.svg)](https://www.facebook.com/getclearco)[![](https://cdn.prod.website-files.com/65fde10e62e6a7603e9221cc/6606e911cf922c6cd3fa9416_icon_instagram_purple.svg)](https://www.instagram.com/getclearco/)[![](https://cdn.prod.website-files.com/65fde10e62e6a7603e9221cc/6606e9111274fb170726ce15_icon_tiktok_purple.svg)](https://www.tiktok.com/@clearco)[![](https://cdn.prod.website-files.com/65fde10e62e6a7603e9221cc/6606e9116ad7eebc2336da71_icon_youtube_purple.svg)](https://www.youtube.com/@ClearcoOfficial)
