@@ -1,0 +1,1 @@
+Redirecting to [https://www.uky.edu/privacy](https://www.uky.edu/privacy).
