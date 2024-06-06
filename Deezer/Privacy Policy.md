@@ -447,7 +447,7 @@ If you are not satisfied with our response, you can contact our Data Protection 
     
 * [Investors](https://www.deezer-investors.com/)
 * [Brand Partnerships](https://www.deezer-brandpartnerships.com/)
-* [Musicians and podcasters](https://www.deezer.com/explore/deezer_for_creators/)
+* [Musicians and podcasters](https://creators.deezer.com/)
 * [Developers](https://developers.deezer.com/)
 * [Press](https://www.deezer-blog.com/press/)
 * [Careers](https://www.deezerjobs.com/)
