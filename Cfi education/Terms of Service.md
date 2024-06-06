@@ -15,6 +15,7 @@ Menu
         * [**FTIP™**FinTech Industry Professional](https://corporatefinanceinstitute.com/certifications/fintech-industry-professional/)
     * [Master a Specialization](#)
         * [CFI Specializations](#)
+        * [**Financial Planning & Analysis (FP&A)**](https://corporatefinanceinstitute.com/certifications/financial-planning-and-analysis-program/)
         * [**Environmental, Social, & Governance(ESG)**](https://corporatefinanceinstitute.com/certifications/environmental-social-governance-specialist/)
         * [**Leadership Effectiveness**](https://corporatefinanceinstitute.com/certifications/leadership-effectiveness-program/)
         * [**Data Analyst in Excel**](https://corporatefinanceinstitute.com/certifications/excel-data-analysis-specialist/)
@@ -176,6 +177,7 @@ Menu
     
 * [Specializations](#)
     
+    * [Financial Planning & Analysis (FP&A) Specialization](https://corporatefinanceinstitute.com/certifications/financial-planning-and-analysis-program/)
     * [Commercial Real Estate Finance Specialization](https://corporatefinanceinstitute.com/certifications/commercial-real-estate-finance-specialist/)
     * [Environmental, Social & Governance Specialization](https://corporatefinanceinstitute.com/certifications/environmental-social-governance-specialist/)
     * [Data Analysis in Excel Specialization](https://corporatefinanceinstitute.com/certifications/excel-data-analysis-specialist/)
@@ -458,7 +460,7 @@ If you have any questions or comments regarding these Website Terms of Use, plea
     * [What’s New](https://corporatefinanceinstitute.com/whats-new/)
     * [NetLearnings](https://corporatefinanceinstitute.com/shows/net-learnings/)
     * [Resources](https://corporatefinanceinstitute.com/resources/)
-    * [Podcast](https://podcast.corporatefinanceinstitute.com/)
+    * [Podcast](https://corporatefinanceinstitute.com/resources/finpod/)
 
 [Logo](https://corporatefinanceinstitute.com/about-cfi/about-macabacus/) 
 
@@ -493,7 +495,7 @@ If you have any questions or comments regarding these Website Terms of Use, plea
 
 0 search results for ‘’
 
-People also search for: Free courses excel esg accounting Financial analysis TEMPLATE real estate
+People also search for: excel esg Free courses accounting private equity fmva Free
 
 Explore Our Certifications
 
@@ -523,7 +525,7 @@ Resources
 
 Popular Courses
 
- [Free! FMVA® Prep Course 3.5h Excel Fundamentals - Formulas for Finance](https://corporatefinanceinstitute.com/course/excel-fundamentals-formulas-for-finance/)
+ [FMVA® Prep Course 3.5h Excel Fundamentals - Formulas for Finance](https://corporatefinanceinstitute.com/course/excel-fundamentals-formulas-for-finance/)
 
  [FMVA® Required 6.5h 3-Statement Modeling](https://corporatefinanceinstitute.com/course/3-statement-modeling/)
 
