@@ -7,12 +7,12 @@ Overall [Current](https://www.defconlevel.com/current-level.php "Current Defcon 
 [FLASH](https://www.defconlevel.com/current-level.php#breaking "Breaking News") | [AFRICA](https://www.defconlevel.com/africa-command-news.php "Africa") | [MIDEAST](https://www.defconlevel.com/central-command-news.php "Middle East") | [CYBER](https://www.defconlevel.com/cyber-command-news.php "Cyber") | [EUROPE](https://www.defconlevel.com/european-command-news.php "Europe") | [ASIA](https://www.defconlevel.com/indo-pacific-command-news.php "Indo-Pacific") | [USA](https://www.defconlevel.com/northern-command-news.php "Middle East") | [LATAM](https://www.defconlevel.com/southern-command-news.php "South America") | [SPACE/NUCLEAR](https://www.defconlevel.com/space-command-news.php "Space") | [SPEC-OPS](https://www.defconlevel.com/special-operations-command-news.php "Special Ops")
 
 * [Home](https://www.defconlevel.com/ "Home")
-* [Current Level](https://www.defconlevel.com/current-level.php "Current level")
-* [Read Alerts](https://www.defconlevel.com/news-alerts.php "Defcon Level Alerts")
-* [Read News](https://www.ssj.news/ "Read news on our sister site The Standeford Journal")
-* [Raised Alerts](https://www.defconlevel.com/current-alerts.php#raised-levels "Currently Raised alerts")
-* [Defcon Levels](https://www.defconlevel.com/defcon-levels.php "Defcon levels")
-* [About Us](https://www.defconlevel.com/about.php "About Defcon Level")
+* [Current](https://www.defconlevel.com/current-level.php "Current level")
+* [Alerts](https://www.defconlevel.com/news-alerts.php "Defcon Level Alerts")
+* [News](https://www.ssj.news/ "Read news on our sister site The Standeford Journal")
+* [Raised](https://www.defconlevel.com/current-alerts.php#raised-levels "Currently Raised alerts")
+* [Levels](https://www.defconlevel.com/defcon-levels.php "Defcon levels")
+* [About](https://www.defconlevel.com/about.php "About Defcon Level")
 
 defconlevel.com
 ===============
