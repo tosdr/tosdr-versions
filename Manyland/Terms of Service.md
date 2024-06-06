@@ -1,0 +1,16 @@
+[![Manyland](images/logo.png)](https://manyland.com/)
+=====================================================
+
+![](images/green-mountain.png)
+
+All images on this site are by their respective creators, snapshotted as part of now closed multi-manyzen universe Manyland. Got any questions or want to report an image? Please [email us](mailto:info@manyland.com).
+
+Here's [more images on Instagram](https://www.instagram.com/manylandnews), and [more snapshot memories...](https://photos.google.com/share/AF1QipPAodkxjnZ96mxj95IoTuA0GsSilgkp2DYpiAfYcP1eNDC4as5OQLcjgjIvwh77Yg?key=SHJVVmg1ME9VaWtCZjFGdzJObWdscktjUEJwYzZn)
+
+Manyland developed by Scott Lowe & Philipp Lenssen, with world creation by all of you. Theme music of first video by Duncan MacKinnon featuring Johann Strauss II's The Blue Danube. Additional sound effects via FreeSound.org licensed under Creative Commons; thanks to all the sound makers. The music for the "In a universe" video is Raindrops and Waterfalls by Nicholas Pesci, with narration by Chuck Fresh. Thanks to Delco & Jinx for providing additional sounds, originally for Anyland. Manyland™ is or was a trademark by Scott Lowe and Philipp Lenssen. All our Manyland logos are in the public domain, feel free to use (just please don't make third-party sites etc. look like they're officially by us). Manyland blocks logo by Korikabu. Music for "Somewhere in infinity" is "Where's My Banjo" by Rimsky (Salvador Fornieles & Carla Olaortua). Music for "10 things" is My Very Own Hostage by Atomic Pop. Music for "Walk right in" is by Kevin MacLeod Music for "We're inventing a universe is "Heavy Traffic", CC-licensed by Three Chain Links and Cannon's Jug Stompers. Thanks to everyone who supports, inhabits, provides feedback to, spreads the word of, and shapes (or shaped) Manyland. Thanks to all curators, youtubers and reviewers who visited Manyland. Thanks SalzStange. Thanks Nikolai Kordulla for helping with the iOS wrapper. Thanks go out to the makers of Chrome, Firefox and all other nice browsers, PhotoPaint, PaintShop Pro, Audacity, Apple and GarageBand, ImpactJS by Dominic Szablewski, NodeJS, MongoDB, JavaScript, HTML, CSS and other cool web technologies. Thanks to the makers of devices we build on. Thanks to all of you. Thanks to civilization whose shoulders we stand on, coffee, tea, and the universe in general.
+
+### Privacy & Cookie Policy aka The Nobody-Ever-Reads-This-Section
+
+Our website uses Google Fonts for a consistent and attractive presentation. By using our site, Google may receive information such as your IP address. For details, see [Google's privacy policy](https://policies.google.com/privacy). We use Google Analytics to understand how our website is used, which involves cookies. Google collects data such as your IP address and website usage. You can opt-out by installing [the browser add-on](http://tools.google.com/dlpage/gaoptout?hl=en.%20For%20more,%20visit:%20https://support.google.com/analytics/answer/6004245?hl=en). You can set your browser to block cookies or alert you about them, but some parts of the site may not work then. Using our website indicates your consent to our use of Google services as described.
+
+[Home](https://manyland.com/)
