@@ -166,6 +166,7 @@
         * [Hatch Startup Program](https://www.digitalocean.com/hatch)
         * [Open Source Sponsorships](https://www.digitalocean.com/open-source)
         * [Hacktoberfest](https://hacktoberfest.com/)
+        * [Deploy 2024](https://www.digitalocean.com/deploy)
         * [DO Impact](https://www.digitalocean.com/impact)
         * [Nonprofits](https://www.digitalocean.com/impact/nonprofits)
         
@@ -188,8 +189,8 @@
             Work with a partner to get up and running in the cloud.](https://www.digitalocean.com/partners/directory)
         * [Become a partner  
             Join our Partner Pod to connect with SMBs and startups like yours.](https://www.digitalocean.com/partners/pod)
-        * [Marketplace  
-            Power up your app with pre-built solutions.](https://marketplace.digitalocean.com/)
+        * [Partner Services Program  
+            Service Program benefits and funding framework.](https://www.digitalocean.com/partners/services)
     * Resources
         
         * [Customer Stories](https://www.digitalocean.com/customers)
@@ -314,8 +315,9 @@ Consistent with the requirements of the DMCA, the Company will terminate, in app
 * [Write for DOnations](https://www.digitalocean.com/community/pages/write-for-digitalocean)
 * [Currents Research](https://www.digitalocean.com/currents)
 * [Hatch Startup Program](https://www.digitalocean.com/hatch)
+* [Deploy 2024](https://www.digitalocean.com/deploy)
 * [Shop Swag](http://store.digitalocean.com/)
-* [Research Program](https://www.digitalocean.com/research)
+* [Compass Council](https://www.digitalocean.com/research)
 * [Open Source](https://www.digitalocean.com/open-source)
 * [Code of Conduct](https://www.digitalocean.com/community/pages/code-of-conduct)
 * [Newsletter Signup](https://www.digitalocean.com/community/newsletter)
@@ -389,8 +391,9 @@ Consistent with the requirements of the DMCA, the Company will terminate, in app
 * [Write for DOnations](https://www.digitalocean.com/community/pages/write-for-digitalocean)
 * [Currents Research](https://www.digitalocean.com/currents)
 * [Hatch Startup Program](https://www.digitalocean.com/hatch)
+* [Deploy 2024](https://www.digitalocean.com/deploy)
 * [Shop Swag](http://store.digitalocean.com/)
-* [Research Program](https://www.digitalocean.com/research)
+* [Compass Council](https://www.digitalocean.com/research)
 * [Open Source](https://www.digitalocean.com/open-source)
 * [Code of Conduct](https://www.digitalocean.com/community/pages/code-of-conduct)
 * [Newsletter Signup](https://www.digitalocean.com/community/newsletter)
