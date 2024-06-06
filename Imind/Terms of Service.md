@@ -1,0 +1,118 @@
+Return to portrait mode to see the content
+
+[![To main page](/assets/page-logo/logo-without-bg.png)](https://imind.com/)
+
+[Support](https://support.imind.com/hc/en-us)
+
+[Login](https://imind.com/welcome)[My account](https://imind.com/dashboard/rooms)
+
+![](/assets/landing/mobile-menu-logo.png)
+
+[Login](https://imind.com/welcome)[My account](https://imind.com/dashboard/rooms)
+
+[Support](https://support.imind.com/hc/en-us)
+
+ENG
+
+![en](/assets/flags/us.png)
+
+![ru](/assets/flags/ru.png)
+
+Return to top ![](/assets/landing/cookie-bg-top-l.png)![](/assets/landing/terms-bg-left.png)![](/assets/landing/cookie-bg-right.png)
+
+Terms of Service
+================
+
+Date of Last Revision: November 15nd, 2020
+
+Please read carefully before using this website: The following Terms of Service (“Terms of Service”) govern your use of the iMind™ Website [https://imind.com](https://imind.com/) (the “Site”) and the iMind™ web-based, application accessed through the Site (“Service”), both of which are operated by UCaaS Provider OÜ, a company established and existing under the laws of the Republic of Estonia, (“Company”,”iMind™” or “we”). By using the Site and/or the Service, you irrevocably agree that such use is subject to these Terms of Service. If you do not agree to these Terms of Service, you may not use the Site or the Service. If you are entering into these Terms of Service on behalf of an entity, you are binding such entity to these Terms of Service, you represent that you have the actual authority to bind such entity to these Terms of Service, and references to “you” mean such entity. iMind™ expressly reserves the right to modify the Terms of Service at any time in its sole discretion by including such alteration and/or modification in these Terms of Service, along with a notice of the effective date of such modified Terms of Service. Actual Terms of Service is always on [https://imind.com/terms\_of\_service](https://imind.com/terms_of_service). If a revision meaningfully reduces your rights, we will use reasonable efforts to notify you (by, for example, sending an email to the billing contact you designate in your User Account (as defined below), through your User Account or in the Service itself). To the extent you have purchased a subscription to the Service, the modified terms will be effective as to such subscription Service upon your next subscription renewal. In this case, if you object to the updated terms, as your exclusive remedy, you may choose not to renew, deleting your User Account. In all other cases, any continued use by you of the Site or the Service after the posting of such modified Terms of Service shall be deemed to indicate your irrevocable agreement to such modified Terms of Service. Accordingly, if at any time you do not agree to be subject to any modified Terms of Service, you may no longer use the Site or Service.
+
+1\. User Account Registration; Passwords
+----------------------------------------
+
+(a) Account Registration and Use License: In order to access and use all of the features of the Service, you are required to open an account (“User Account”) by registering with iMind™. When you register for your User Account you must provide true, accurate, current and complete information (“Account Information”), and you agree to update the Account Information in order to ensure that it is current. Upon proper registration and opening of a User Account, and subject to all of the terms and conditions of these Terms of Service, iMind™ hereby grants to you the personal, non-transferable right and license to use the Service, solely for your own internal business purposes, until such time as either you or iMind™ elect to terminate such right in accordance with these Terms of Service.Accounts registered by “bots“, “robots“ or other automated methods are not permitted.(b) Eligibility: As an express condition of being permitted to open a User Account, you represent and warrant that you have the legal capacity (including, without limitation, being of sufficient age) to enter into contracts under the law of the jurisdiction in which you reside.(c) Passwords: Upon registration on the Site, you will provide iMind™ with a password to access your account. You are responsible for maintaining the confidentiality of your password and for all of your activities and those of any third party that occur through your account, whether or not authorized by you. You agree to immediately notify iMind™ of any suspected or actual unauthorized use of your User Account. You agree that iMind™ will not under any circumstances be liable for any cost, loss, damages or expenses arising out of a failure by you to maintain the security of your password.
+
+2\. Site Content
+----------------
+
+(a) iMind™ Content: The information, materials (including, without limitation, HTML, text, audio, video, white papers, press releases, data sheets, product descriptions, software and FAQs and other content) available on the Site and/or the Service, excluding Third Party Content (collectively, “iMind™ Content”), are the copyrighted works of iMind™, and iMind™ expressly retains all right title and interest in and to the iMind™ Content, including, without limitation, all intellectual property rights therein and thereto. Except as expressly permitted in these Terms of Service, any use of the iMind™ Content may violate copyright and/or other applicable laws.(b) Third Party Content: In addition to iMind™ Content, the Site and/or the Service may contain information and materials provided to iMind™ by third parties (collectively, “Third Party Content”). Third Party Content is the copyrighted work of its owner, who expressly retains all right title and interest in and to the Third Party Content, including, without limitation, all intellectual property rights therein and thereto. In addition to being subject to these Terms of Service, Third Party Content may also be subject to different and/or additional terms of use and/or privacy policies of such third parties. Please contact the appropriate third party for further information regarding any such different and/or additional terms of use applicable to Third Party Content.(c) Limited Site Content License: iMind™ grants you the limited, revocable, non-transferable, non-exclusive right to use the iMind™ Content and Third Party Content (collectively, “Site Content”) by displaying the Site Content on your computer, and downloading and printing pages from the Site containing Site Content, under the condition that(I) such activity is solely for your personal, education or other noncommercial use, (II) you do not modify or prepare derivative works from the Site Content, (III) you do not obscure, alter or remove any notice of copyright set forth on any Site pages or Site Content, (IV) you do not otherwise reproduce, re-distribute or publicly display any of the Site Content and(V) you do not copy any Site Content to any other media or other storage format.(d) Trademarks: All trademarks, service marks and logos included on the Site (“Marks”) are the property of iMind™ or third parties, and you may not use such Marks without the express, prior written consent of iMind™ or the applicable third party.(e) Monitoring of Site Content and use of Service: iMind™ reserves the right, but does not undertake the obligation, to monitor use of the Site and/or the Service, and to investigate and take appropriate legal action against any party that uses the Site in violation of these Terms of Service or applicable law.(f) Copyright Infringement: As a condition of your right to use the Site and the Service, you agree to respect the intellectual property rights of others. Accordingly, you agree not to upload or post to the Site or the Service any copyrighted materials, trademarks or other proprietary information belonging to any third party without the prior written consent of the applicable third party. You acknowledge that iMind™ will terminate your access to the Site and/or the Service if you repeatedly infringe the copyright of third parties. If you believe that your copyrighted work has been illegally uploaded or posted on the Site or the Service, you may send a written notice to iMind™ at [info@imind.com](mailto:info@mind.com), and iMind™ will respond pursuant to its Digital Millennium Copyright Act (“DMCA”) procedure. iMind™ reserves all rights to seek damages and fees associated with infringement and/or fraud.
+
+3\. Your Use of the Site and Service
+------------------------------------
+
+(a) Account and Use of Service: You may use your User Account for the Service only in accordance with these Terms of Service and only for lawful purposes. You are responsible for your own communications, including the upload, transmission and posting of information, and are responsible for the consequences of their posting on or through the Service.(b) Fees: Some features of the Service may only be accessed and used upon the payment of applicable fees (“Fees”). Fees may vary depending on usage in accordance with our current pricing policy.All Fees are exclusive of all taxes, levies, or duties imposed by taxing authorities, and you shall be responsible for payment of all such taxes, levies, or duties.(c) Termination: You may stop using our Service, by deleting your account in Settings on your personal account on the website. As a subscriber of a paid plan, you may terminate your subscription at any time, and will have access to the Service for the remaining (pre-paid) billing period.(d) Termination by iMind™: iMind™ may terminate your User Account and/or these Terms of Service at any time and for any reason upon notice to you. We may also suspend our Service to you at any time, with or without cause. If we terminate your User Account without cause, we will refund a prorated portion of your monthly prepayment. We will not refund or reimburse you if we terminate your User Account for cause, including (without limitation) for a violation of these Terms of Service. If you do not log in to your User Account for 12 or more months, we may treat your User Account as “inactive” and permanently delete the User Account and all the data associated with it. (e) Prohibited Conduct: You agree not to use the Site or the Service for: (I) posting any
+
+(1) information which is incomplete, false, inaccurate or not your own,
+
+(2) trade secrets or material that is copyrighted or otherwise owned by a third party unless you have a valid license from the owner which permits you to post it,
+
+(3) material that infringes on any other intellectual property, privacy or publicity right of another,
+
+(4) advertisement, promotional materials or solicitation related to any product or service that is competitive with iMind™ products or services or
+
+(5) software or programs which contain any harmful code, including, but not limited to, viruses, worms, time bombs or Trojan horses;
+
+(II) impersonating another person;(III) engaging in or encouraging conduct that would constitute a criminal offense, give rise to civil liability or otherwise violate any city, state, national or international law or regulation, or which fails to comply with accepted Internet protocol; or (IV) you agree not to violate or attempt to violate the security of the Site, the Service or iMind™ system or network security, including, without limitation, the following:
+
+(1) accessing data not intended for users of the Site or the Service, or gaining unauthorized access to an account, server or any other computer system;
+
+(2) attempting to probe, scan or test the vulnerability of a system or network or to breach security or authentication measures;
+
+(3) attempting to interfere with the function of the Site, the Service, host or network, including, without limitation, via means of submitting a virus to the Site, overloading, “flooding”, “mailbombing”, “crashing”, or sending unsolicited e-mail, including promotions and/or advertising of products or services; or
+
+(4) forging any TCP/IP packet header or any part of the header information in any e-mail or newsgroup posting.
+
+Violations of the Site’s, the Service’s or iMind™ system or network security may result in civil or criminal liability.In addition, you agree not to, directly or indirectly: (I) reverse engineer, decompile, disassemble or otherwise attempt to discover the source code, object code or underlying structure, ideas or algorithms of the Service or any software, documentation or data related to or provided with the Service (“Software”);(II) modify, translate, or create derivative works based on the Service or Software; or copy (except for archival purposes), rent, lease, distribute, pledge, assign, or otherwise transfer or encumber rights to the Service or Software;(III) use or access the Service to build or support, and/or assist a third party in building or supporting, products or services competitive to iMind™; (IV) remove any proprietary notices or labels from the Service or Software; or(V) otherwise use the Service or Software outside of the scope of the rights expressly granted herein. You agree to use the Service and Software only for your own internal business operations, and not to transfer, distribute, sell, republish, resell, lease, sublease, license, sub-license or assign the Service or use the Service for the operation of a service bureau or timesharing service.(f) Your Data:You will retain ownership of any data, information or material originated by you that you transmit through the Service (“User Content“) – for example, User Content from your accounts with third party services (e.g., Gmail or Dropbox) that passes through the Service. You shall be solely responsible for the accuracy, quality, content and legality of User Content, the means by which User Content is acquired and the transmission of User Content outside of the Service. You represent and warrant that you have all rights necessary to transmit User Content through the Service and to otherwise have User Content used as part of the Service or as otherwise contemplated herein.(g) Data Processing Addendum: when you use the Site and the Service, the provisions of the Personal Data Policy located at [https://imind.com/privacy\_policy.](https://imind.com/privacy_policy)(h) Aggregated and/or Anonymized Data: Notwithstanding anything to the contrary set forth herein or otherwise, iMind™ will have the right to collect and analyze data and other information relating to the provision, use or performance of the Site and/or Service and related systems and technologies (including information concerning User Data and data derived therefrom), and to aggregate and/or anonymize all such data and information. iMind™ will be free at any time to: (I) use such information and data to improve and enhance iMind™ offerings; and(II) disclose such data in aggregate or other de-identified form in connection with its business.
+
+4\. Charging for Use of the Services
+------------------------------------
+
+The Service is available as a Free plan for personal use, a paid Pro plan for professional use by individuals, and a Business plan for professional use by teams or organizations. As a Free user, you can at any time choose to upgrade your account, which will give you additional Pro features in the rooms you own. The Pro features will then be available to all guests visiting the room, even if they’re anonymous. We reserve the right to change the features included in our plans, the price of the paid plan and the structure of the plan at any time. The Business plan requires creation of a custom subdomain (company.imind.com). By signing up for a Business account, you confirm that you are a legal representative, or are acting on behalf of such person, of the company name used in the account subdomain. You may not set up an account that impersonates or infringes on other’s trademarks. If your content or actions in the service violate any laws, including but not limited to spam, phishing, copyright infringement, defamation, computer attacks or fraud, we will terminate your service as soon as we find out.You will find an updated overview of the content of the plans on our [Pricing page](https://imind.com/pricing). We will notify all paying users of material changes to the content, price and terms of the plan.All payments shall be made in advance or otherwise as laid out on the Pricing page. If your payment is not successful, your room will be downgraded to the Free plan with access to Pro features removed. If you have created more than one room during your Pro subscription, you will need to select one room to keep using with the Free plan. Upgrading to Pro or Business will start a recurring subscription, and you will be billed every month in advance, on the day of month the subscription was first created. You can cancel the subscription at any time in the billing page, and you will then have access to Pro features for the remainder of the month you have paid for. When that month ends, your account will automatically be downgraded to the Free plan. Should you choose to reactivate your subscription before the account is downgraded, you will continue to have Pro features uninterrupted. In the case where payment fails for Pro and Business customers, you will be notified by email and inside the service. If repeated attempts to collect the payment fails, we may disable or block access to the account until payment of all invoices are settled. If payment is not received within a reasonable time, the account will be downgraded to Free (for Pro) or deleted (for Business).Payment processing services for UCaaS Provider OÜ, including the processing and storing of credit card data, are provided by Stripe Payments Europe, Ltd. (“Stripe”) and are subject to the [Stripe Services Agreement — Estonia](https://stripe.com/en-ee/legal) (“Stripe Services Agreement”). By agreeing to these terms and continuing to operate as a customer of a paid iMind™ plan, you agree to be bound by the Stripe Services Agreement, as the same may be modified by Stripe from time to time. As a condition of iMind™ enabling payment processing services through Stripe, you agree to provide iMind™ accurate and complete information about you and your business, and you authorize iMind™ to share with Stripe Payments Europe, Ltd. this information and transaction information related to your use of the payment processing services provided by Stripe.
+
+5\. Linked Websites and Services
+--------------------------------
+
+The Site and Service contains links to and integrations with third party websites and services, and you agree that iMind™ provides links to and integrations with such websites and services solely as a convenience and has no responsibility for the content or availability of such websites or services, and that iMind™ does not endorse such websites or services (or any products or other services associated therewith). Your use of such websites and services will be subject to the terms applicable to each such website and service.
+
+6\. Disclaimer of warranty
+--------------------------
+
+iMind™ provides the Service to you “as is“. You acknowledge that the Service is not error-free. You use it at your own risk and discretion. That means the Service doesn’t come with any warranty. None express, none implied. The service will be continually developed, and you acknowledge that changes to functionality and layout may be carried out without advance notice. iMind™ makes no warranties, expressed or implied, with respect to the availability, merchantability, fitness for a particular purpose, non-infringement, accuracy, completeness, performance and quality of the Service. iMind™ will from time to time have to carry out updates and maintenance of the Service, due to technical, security or operational reasons, during which time the Service might be unavailable. iMind™ will make reasonable efforts to arrange updates and maintenance outside of peak usage hours.
+
+7\. LIMITATION OF LIABILITY
+---------------------------
+
+TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, YOU AGREE THAT iMind™ SHALL NOT BE LIABLE TO YOU FOR ANY(I) INDIRECT, INCIDENTAL, CONSEQUENTIAL, PUNITIVE, SPECIAL, EXEMPLARY OR STATUTORY DAMAGES (INCLUDING, WITHOUT LIMITATION, LOSS OF BUSINESS, LOSS OR PROFITS, LOSS OF REVENUE, LOSS OF DATA, LOSS OF GOODWILL OR FOR ANY COST OF COVER OR COST OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES), EVEN IF iMind™ HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, AND REGARDLESS OF THE LEGAL THEORY UNDER WHICH DAMAGES ARE SOUGHT, WHETHER IN BREACH OF CONTRACT OR IN TORT, INCLUDING NEGLIGENCE OR(II) AMOUNTS IN THE AGGREGATE THAT EXCEED THE FEES PAID BY YOU TO iMind™ HEREUNDER IN THE SIX (6) MONTHS PRECEDING THE DATE THE CLAIM AROSE.
+
+8\. Privacy Policy
+------------------
+
+You acknowledge that you have read, understand and agree to iMind™ Privacy Policy located at [https://imind.com/privacy\_policy](https://imind.com/privacy_policy), which is hereby incorporated into and made a part of these Terms of Service by this reference.
+
+9\. Notices
+-----------
+
+iMind™ may give notice applicable to iMind™ general Service customer base by means of a general notice on the Site, and notices specific to you by electronic mail to your e-mail address on record in your User Account.If you have a dispute with UCaaS Provider OÜ, wish to provide a notice under these Terms of Service, or become subject to insolvency or other similar legal proceedings, you must promptly send written notice to Republic of Estonia, Harju maakond, Tallinn, Lasnamäe linnaosa, Punane tn 56, 13619; Attn: Legal.
+
+10\. Miscellaneous
+------------------
+
+Partial invalidity. If any provision of the Terms is declared invalid or unenforceable by a court or other binding authority, the remaining terms (or parts), conditions and provisions shall continue to be valid and enforceable to the fullest extent permitted by law.Force majeure. Force Majeure means any circumstances beyond the reasonable control of either party, including, without limitation, fire, explosion, strikes or other labor disputes, riots or other civil disturbances, voluntary or involuntary compliance with any law, order regulation, recommendation or request of any governmental authority, and errors or downtime in networks, power supply, gateway or similar failures of communication. Neither party will have any liability, other than for the payment of money owing, for their failure to perform any of their contractual obligations arising out of or in connection with events of force majeure.Assignment. iMind™ is entitled, in whole or in part, to assign its rights and obligations under the Terms to a third party at its own discretion.Choice of Law and Dispute Resolution. The Terms shall be governed by and interpreted in accordance with Estonian law. Any dispute, controversy or claim arising out of or in connection with the Terms shall be subject to the jurisdiction of the Estonian courts with the Tallinn administrative court, Estonia, as the legal venue.
+
+iMind
+
+[Confidential meetings](https://imind.com/features)
+
+[Cookies](https://support.imind.com/hc/en-us/articles/6646363872669-Cookie-Policy%7B%7B%20query%20%7D%7D)[Terms of Service](https://support.imind.com/hc/en-us/articles/6646046857245-Terms-of-Service%7B%7B%20query%20%7D%7D)[Privacy Policy](https://support.imind.com/hc/en-us/articles/6646550702621-Privacy-Policy%7B%7B%20query%20%7D%7D)
+
+© 2024
+
+ENG
+
+![en](/assets/flags/us.png)
+
+![ru](/assets/flags/ru.png)
+
+Platform
+
+Support[Getting started](https://support.imind.com/hc/en-us/sections/5477371010589-Getting-started)[Contact Support](https://support.imind.com/hc/en-us)
