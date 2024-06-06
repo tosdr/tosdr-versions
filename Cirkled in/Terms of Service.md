@@ -233,10 +233,8 @@ How can Cirkled In help you?
 ### Learn More
 
 * [Home](https://www.cirkledin.com/ "Home")
-* [Notebook](https://www.cirkledin.com/notebook/ "notebook")
 * [Blog](https://blog.cirkledin.com/ "Blog")
 * [FAQ](https://www.cirkledin.com/faq/ "FAQ")
-* [Press Release](https://www.cirkledin.com/press-release/ "Press Release")
 * [Privacy Policy](https://www.cirkledin.com/privacy-policy/ "Privacy Policy")
 * [Terms of Use](https://www.cirkledin.com/terms-of-use/ "Terms of Use")
 
@@ -272,6 +270,7 @@ How can Cirkled In help you?
 * [](https://www.pinterest.com/cirkledin/pins/ "pinterest")
 * [](https://www.instagram.com/cirkledin/ "instagram")
 * [](https://www.youtube.com/channel/UC_RPKdPArwd1M3r-ISXzBhA "youtube")
+* [](https://www.tiktok.com/@cirkledin "tiktok")
 
 Copyright Cirkledin. All Rights Reserved
 
