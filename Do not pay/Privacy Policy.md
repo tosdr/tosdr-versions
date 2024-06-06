@@ -259,7 +259,7 @@ Get Started
 
 #### Categories
 
-[Sue Anyone in Small Claims Court](https://donotpay.com/learn/small-claims-court/)
+[Fight Corporations](https://donotpay.com/learn/fight-corporations/)
 
 [Frozen Crypto Funds](https://donotpay.com/learn/frozen-crypto-funds/)
 
