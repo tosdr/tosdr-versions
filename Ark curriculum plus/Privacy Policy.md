@@ -2,7 +2,6 @@
 
 * [Search](https://www.arkcurriculumplus.org.uk/search)
 * [Contact Us](https://www.arkcurriculumplus.org.uk/contact-us)
-* [Support for parents](https://www.arkcurriculumplus.org.uk/support-for-parents)
 
 [](https://www.arkcurriculumplus.org.uk/ "Ark Curriculum Plus")
 
