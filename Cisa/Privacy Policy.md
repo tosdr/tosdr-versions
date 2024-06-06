@@ -295,7 +295,7 @@ An official website of the U.S. Department of Homeland Security
 * [DHS.gov](https://www.dhs.gov/ "Department of Homeland Security")
 * [Equal Opportunity & Accessibility](https://www.cisa.gov/oedia "Equal Opportunity & Accessibility")
 * [FOIA Requests](https://www.dhs.gov/foia "FOIA Requests")
-* [No FEAR Act](https://www.cisa.gov/cisa-no-fear-act-reporting "No FEAR Act Reporting")
+* [No FEAR Act](https://www.cisa.gov/no-fear-act "No FEAR Act Reporting")
 * [Office of Inspector General](https://www.oig.dhs.gov/ "Office of Inspector General")
 * [Privacy Policy](https://www.cisa.gov/privacy-policy "Privacy Policy")
 * [Subscribe](https://public.govdelivery.com/accounts/USDHSCISA/subscriber/new?topic_id=USDHSCISA_138 "Subscribe to Email Updates")
