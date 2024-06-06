@@ -113,6 +113,16 @@ Terms of Use
     The names of actual companies and products mentioned herein may be the trademarks of their respective owners. The example companies, organizations, products, domain names, email addresses, logos, people and events depicted herein are fictitious. No association with any real company, organization, product, domain name, email address, logo, person, or event is intended or should be inferred. Any rights not expressly granted herein are reserved.
     
 
+##### General Info
+
+* [Home](https://designrr.io/)
+* [Pricing](https://designrr.io/pricing/)
+* [About](https://designrr.io/about/)
+* [Blog](https://designrr.io/blog/)
+* [Ebook Creator](https://designrr.io/ebook-creator/)
+* [Flipbook Creator](https://designrr.io/flipbook-creator/)
+* [Video Transcription Software](https://designrr.io/video-to-text-transcription-software/)
+
 ##### Popular Posts
 
 * [How to Create a PDF Flipbook](https://designrr.io/how-to-create-a-pdf-flipbook-for-more-traffic/)
