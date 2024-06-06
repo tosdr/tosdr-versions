@@ -1,4 +1,4 @@
-[![](https://corpostatic.dailymotion.com/corporate-cms-release-assets-prod/1d486e8e/app/themes/dailymotion/front/build/images/logo.svg)](https://www.dailymotion.com/) [Legal](https://www.dailymotion.com/)
+[![](https://corpostatic.dailymotion.com/corporate-cms-release-assets-prod/8bb40080/app/themes/dailymotion/front/build/images/logo.svg)](https://www.dailymotion.com/) [Legal](https://www.dailymotion.com/)
 
 * [Home](https://legal.dailymotion.com/en/)
 * [Legal Terms](https://legal.dailymotion.com/en/terms-of-use/)
@@ -457,7 +457,7 @@ However, we draw your attention to the fact that it cannot be guaranteed that t
 
 The European Digital Advertising Alliance (EDAA), a group of advertising professionals, has developed a tool allowing you to accept or refuse trackers used by companies participating in that EDAA initiative. Note that this initiative is designed for the advertising sector only. Companies that do not participate in it will not receive any information about your decision regarding trackers and consequently may continue to use them. Therefore, used on its own, this option does not represent an efficient solution for refusing all trackers. To consult the list of participants and set your choices, please visit the EDAA platform available at [**http://www.youronlinechoices.com**](http://www.youronlinechoices.com/). 
 
-[![](https://corpostatic.dailymotion.com/corporate-cms-release-assets-prod/1d486e8e/app/themes/dailymotion/front/build/images/logo.svg)](https://www.dailymotion.com/)
+[![](https://corpostatic.dailymotion.com/corporate-cms-release-assets-prod/8bb40080/app/themes/dailymotion/front/build/images/logo.svg)](https://www.dailymotion.com/)
 
 English
 
