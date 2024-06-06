@@ -1,10 +1,10 @@
-   
+  
 
   
 
 [![Bitdefender Cybersecurity](/adobe/dynamicmedia/deliver/dm-aid--ff62d212-3a6d-4993-841c-7458d12cdf2f/bitdefender-blue-logo-png.png?quality=85&preferwebp=true)](https://www.bitdefender.com/)
 
-* [For Home](https://www.bitdefender.com/solutions/)
+* [For Consumer](https://www.bitdefender.com/solutions/)
     
     * All-in-one plans
         
@@ -12,6 +12,7 @@
         
         * [Ultimate Security](https://www.bitdefender.com/solutions/ultimate-security.html)
         * [Premium Security](https://www.bitdefender.com/solutions/premium-security.html)
+        * [Ultimate Small Business Security](https://www.bitdefender.com/solutions/small-business-security.html)
         
         Device Security
         
@@ -26,7 +27,7 @@
         
         View All
         
-        [Compare](https://www.bitdefender.com/solutions/antivirus-comparison.html)
+        [Compare](https://www.bitdefender.com/solutions/)
         
         Try Bitdefender
         
@@ -62,7 +63,11 @@
         * [Identity Theft Protection](https://www.bitdefender.com/solutions/identity-theft-protection.html)
         
     
-* [For Business](https://www.bitdefender.com/business/)
+* [For Small Business](https://www.bitdefender.com/small-business/)
+    
+    * [Small Business](https://www.bitdefender.com/small-business/)
+    
+* [For Enterprise](https://www.bitdefender.com/business/)
     
     * [Platform](https://www.bitdefender.com/business/gravityzone-platform/)
         
@@ -228,7 +233,8 @@
         
         Quick Links
         
-        * [Log In To PAN Portal](https://pan.bitdefender.com/)
+        * [Log in to the Business Solutions Partners portal](https://pan.bitdefender.com/)
+        * [Log in to the Consumer / VSB Solutions Partners portal](https://www.bitdefender.com/crp.html)
         * [Find a Reseller](https://www.bitdefender.com/partners/partner-locator.html)
         * [Already a Partner?](https://pan.bitdefender.com/)
         * [Join our Affiliates Program](https://app.impact.com/campaign-promo-signup/Bitdefender.brand?execution=e1s1)
