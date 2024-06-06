@@ -1,0 +1,1 @@
+Mozilla accounts requires JavaScript.
