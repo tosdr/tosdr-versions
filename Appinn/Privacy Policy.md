@@ -107,7 +107,14 @@
 来这里看看
 -----
 
-[![](https://www.appinn.com/wp-content/uploads/2024/03/ibiling-sidebar.jpg)](https://ibiling.cn/paper?from=xzrjpaper)
+[![](https://www.appinn.com/wp-content/uploads/2024/05/biling5.avif)](https://ibiling.cn/ppt-zone?from=xzrjppt)
+
+[![](https://www.appinn.com/wp-content/uploads/2024/05/ibiling.pic_.avif)](https://baoyueai.com/channel?utm_id=227201)
+
+[![](https://www.appinn.com/wp-content/uploads/2024/05/wetab.avif)](https://www.wetab.link/?utm_source=xzrj)
+
+2023年度 TOP 榜单
+-------------
 
 * [小众软件 2023 年度精选【1】](https://www.appinn.com/appinn-2023-top-15-list-1/)
 * [小众软件 2023 年度精选【2】](https://www.appinn.com/appinn-2023-top-15-list-2/)
@@ -115,7 +122,7 @@
 
 [![](https://www.appinn.com/wp-content/uploads/2023/04/windows.jpg)](https://www.appinn.com/windows-11-and-office-2021/)
 
-[![](https://www.appinn.com/wp-content/uploads/2024/04/41712456248_.pic_.jpg)](https://www.houdeyun.cn/?from=appinn.com)
+[![](https://www.appinn.com/wp-content/uploads/2024/06/upyun63.avif)](https://www.houdeyun.cn/?from=appinn.com)
 
 ### 精选推荐
 
@@ -135,7 +142,7 @@
     
     [开源跨平台文件传输工具 LocalSend 已支持「通过链接分享」，接收端可以不用装 App 了](https://www.appinn.com/localsend-sharing-via-link/ "开源跨平台文件传输工具 LocalSend 已支持「通过链接分享」，接收端可以不用装 App 了")
     
-    3 月 30, 2024 0
+    3 月 30, 2024 2
     
 * [![Photopea - 老牌免费在线 PS 工具，支持 PSD、AI 和 Sketch 等文件 4](https://www.appinn.com/wp-content/uploads/2024/03/Appinn-feature-images-2024-03-01T120946.562-115x115.jpg "Photopea - 老牌免费在线 PS 工具，支持 PSD、AI 和 Sketch 等文件 4")](https://www.appinn.com/photopea/ "Photopea – 老牌免费在线 PS 工具，支持 PSD、AI 和 Sketch 等文件")
     
@@ -152,35 +159,35 @@
 
 ### 最近 30 天的热门内容
 
-* [![微软即将删除 E3 订阅？来数码荔枝优惠 Microsoft 365 拼车 6](https://www.appinn.com/wp-content/uploads/2024/03/Appinn-feature-images-2024-03-29T113847.909-115x115.jpg "微软即将删除 E3 订阅？来数码荔枝优惠 Microsoft 365 拼车 6")](https://www.appinn.com/microsoft-365-lizhi/ "微软即将删除 E3 订阅？来数码荔枝优惠 Microsoft 365 拼车")
+* [![siftrss - 二次过滤处理 RSS，并生成新的 RSS 地址[在线工具] 6](https://www.appinn.com/wp-content/uploads/2024/05/Appinn-feature-images-2024-05-25T155342.642-115x115.jpg "siftrss - 二次过滤处理 RSS，并生成新的 RSS 地址[在线工具] 6")](https://www.appinn.com/siftrss/ "siftrss – 二次过滤处理 RSS，并生成新的 RSS 地址[在线工具]")
     
-    [微软即将删除 E3 订阅？来数码荔枝优惠 Microsoft 365 拼车](https://www.appinn.com/microsoft-365-lizhi/ "微软即将删除 E3 订阅？来数码荔枝优惠 Microsoft 365 拼车")
+    [siftrss – 二次过滤处理 RSS，并生成新的 RSS 地址\[在线工具\]](https://www.appinn.com/siftrss/ "siftrss – 二次过滤处理 RSS，并生成新的 RSS 地址[在线工具]")
     
-    3 月 29, 2024 14
+    5 月 25, 2024 4
     
-* [![Parallels Desktop 19 - macOS 虚拟机工具，2024春季 8 折限时优惠[截止2024年5月1日] 7](https://www.appinn.com/wp-content/uploads/2024/04/Appinn-feature-images-2024-04-16T152943.133-115x115.jpg "Parallels Desktop 19 - macOS 虚拟机工具，2024春季 8 折限时优惠[截止2024年5月1日] 7")](https://www.appinn.com/parallels-desktop-19-coupon-code/ "Parallels Desktop 19 – macOS 虚拟机工具，2024春季 8 折限时优惠[截止2024年5月1日]")
+* [![Elmo Chat - 快速总结网站内容、在线视频，与 PDF 聊天、翻译等，免费 Chrome 扩展 7](https://www.appinn.com/wp-content/uploads/2024/05/Appinn-feature-images-2024-05-11T122231.164-115x115.jpg "Elmo Chat - 快速总结网站内容、在线视频，与 PDF 聊天、翻译等，免费 Chrome 扩展 7")](https://www.appinn.com/elmo-chat/ "Elmo Chat – 快速总结网站内容、在线视频，与 PDF 聊天、翻译等，免费 Chrome 扩展")
     
-    [Parallels Desktop 19 – macOS 虚拟机工具，2024春季 8 …](https://www.appinn.com/parallels-desktop-19-coupon-code/ "Parallels Desktop 19 – macOS 虚拟机工具，2024春季 8 折限时优惠[截止2024年5月1日]")
+    [Elmo Chat – 快速总结网站内容、在线视频，与 PDF 聊天、翻译等，免费 Chrome …](https://www.appinn.com/elmo-chat/ "Elmo Chat – 快速总结网站内容、在线视频，与 PDF 聊天、翻译等，免费 Chrome 扩展")
     
-    4 月 16, 2024 9
+    5 月 11, 2024 3
     
-* [![Delta - 新鲜上架：iPhone 游戏模拟器，支持 NES 红白机、Game Boy 系列、任天堂 DS/64 系列、世嘉MD 8](https://www.appinn.com/wp-content/uploads/2024/04/Appinn-feature-images-2024-04-18T114456.304-115x115.jpg "Delta - 新鲜上架：iPhone 游戏模拟器，支持 NES 红白机、Game Boy 系列、任天堂 DS/64 系列、世嘉MD 8")](https://www.appinn.com/delta-game-emulator/ "Delta – 新鲜上架：iPhone 游戏模拟器，支持 NES 红白机、Game Boy 系列、任天堂 DS/64 系列、世嘉MD")
+* [![Lima - macOS 上的 Linux 虚拟机、Docker 容器，像 WSL2 一样 8](https://www.appinn.com/wp-content/uploads/2024/05/Appinn-feature-images-2024-05-29T200128.051-115x115.jpg "Lima - macOS 上的 Linux 虚拟机、Docker 容器，像 WSL2 一样 8")](https://www.appinn.com/lima-vm/ "Lima – macOS 上的 Linux 虚拟机、Docker 容器，像 WSL2 一样")
     
-    [Delta – 新鲜上架：iPhone 游戏模拟器，支持 NES 红白机、Game Boy …](https://www.appinn.com/delta-game-emulator/ "Delta – 新鲜上架：iPhone 游戏模拟器，支持 NES 红白机、Game Boy 系列、任天堂 DS/64 系列、世嘉MD")
+    [Lima – macOS 上的 Linux 虚拟机、Docker 容器，像 …](https://www.appinn.com/lima-vm/ "Lima – macOS 上的 Linux 虚拟机、Docker 容器，像 WSL2 一样")
     
-    4 月 18, 2024 2
+    5 月 29, 2024 2
     
-* [![AfuseKt - 安卓端在线视频播放器：阿里云盘、Alist、WebDAV、Emby、Jellyfin，自带刮削、海报墙 9](https://www.appinn.com/wp-content/uploads/2024/04/Appinn-feature-images-2024-04-15T162556.243-115x115.jpg "AfuseKt - 安卓端在线视频播放器：阿里云盘、Alist、WebDAV、Emby、Jellyfin，自带刮削、海报墙 9")](https://www.appinn.com/afusekt/ "AfuseKt – 安卓端在线视频播放器：阿里云盘、Alist、WebDAV、Emby、Jellyfin，自带刮削、海报墙")
+* [![Link Map - 在侧边栏管理 Chrome 标签页：与 Arc 浏览器的标签页管理十分相似 9](https://www.appinn.com/wp-content/uploads/2024/05/Appinn-feature-images-2024-05-08T150013.581-115x115.jpg "Link Map - 在侧边栏管理 Chrome 标签页：与 Arc 浏览器的标签页管理十分相似 9")](https://www.appinn.com/link-map/ "Link Map – 在侧边栏管理 Chrome 标签页：与 Arc 浏览器的标签页管理十分相似")
     
-    [AfuseKt – 安卓端在线视频播放器：阿里云盘、Alist、WebDAV、Emby、Jellyfin，自带刮削、海报墙](https://www.appinn.com/afusekt/ "AfuseKt – 安卓端在线视频播放器：阿里云盘、Alist、WebDAV、Emby、Jellyfin，自带刮削、海报墙")
+    [Link Map – 在侧边栏管理 Chrome 标签页：与 Arc …](https://www.appinn.com/link-map/ "Link Map – 在侧边栏管理 Chrome 标签页：与 Arc 浏览器的标签页管理十分相似")
     
-    4 月 15, 2024 2
+    5 月 8, 2024 1
     
-* [![VxKex - 让 Windows 7 系统支持仅能在 Win8、10 上运行的程序，包括 Chromium、MPV、Python、VSCode 等 10](https://www.appinn.com/wp-content/uploads/2024/04/Appinn-feature-images-2024-04-03T214323.354-115x115.jpg "VxKex - 让 Windows 7 系统支持仅能在 Win8、10 上运行的程序，包括 Chromium、MPV、Python、VSCode 等 10")](https://www.appinn.com/vxkex/ "VxKex – 让 Windows 7 系统支持仅能在 Win8、10 上运行的程序，包括 Chromium、MPV、Python、VSCode 等")
+* [![OFGB - 一键关闭 Windows 11 广告，9 处 10](https://www.appinn.com/wp-content/uploads/2024/05/Appinn-feature-images-2024-05-09T124321.774-115x115.jpg "OFGB - 一键关闭 Windows 11 广告，9 处 10")](https://www.appinn.com/ofgb-oh-frick-go-back/ "OFGB – 一键关闭 Windows 11 广告，9 处")
     
-    [VxKex – 让 Windows 7 系统支持仅能在 Win8、10 …](https://www.appinn.com/vxkex/ "VxKex – 让 Windows 7 系统支持仅能在 Win8、10 上运行的程序，包括 Chromium、MPV、Python、VSCode 等")
+    [OFGB – 一键关闭 Windows 11 广告，9 处](https://www.appinn.com/ofgb-oh-frick-go-back/ "OFGB – 一键关闭 Windows 11 广告，9 处")
     
-    4 月 4, 2024 1
+    5 月 9, 2024 1
     
 
 ### 分类
@@ -235,6 +242,9 @@
 -------------
 
 [![](https://www.appinn.com/wp-content/uploads/2024/03/ibiling-sidebar.jpg)](https://ibiling.cn/paper?from=xzrjpaper)
+
+2023年度 TOP 榜单
+-------------
 
 2023年度 TOP 榜单
 -------------
