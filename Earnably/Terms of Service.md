@@ -1,0 +1,1 @@
+Sorry, Earnably doesn't work without JavaScript enabled.
