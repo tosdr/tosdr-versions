@@ -142,15 +142,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to restore a backup job created with a Ba ...](https://www.backup4all.com/how-to-restore-a-backup-job-created-with-a-backup4all-plugin-kb.html)  
+* [How to backup your data to Box](https://www.backup4all.com/how-to-backup-your-data-to-box-kb.html)  
     
-* [How to create a differential backup](https://www.backup4all.com/how-to-create-a-differential-backup-kb.html)  
+* [How to force Backup4all to copy again some mi ...](https://www.backup4all.com/how-to-force-backup4all-to-copy-again-some-missing-files-in-destination-kb.html)  
     
-* [Backup from FTP](https://www.backup4all.com/backup-from-ftp-kb.html)  
+* [How to change the backup job name, tag or ico ...](https://www.backup4all.com/how-to-change-the-backup-job-name-group-or-icon-kb.html)  
     
-* [How to use the Scheduler](https://www.backup4all.com/how-to-use-the-scheduler-kb.html)  
+* [How to use independent zip splits in Backup4a ...](https://www.backup4all.com/how-to-use-independent-zip-splits-in-backup4all-kb.html)  
     
-* [What is cloud backup](https://www.backup4all.com/what-is-cloud-backup-kb.html)  
+* [How to backup your data to OneDrive](https://www.backup4all.com/how-to-backup-your-data-to-onedrive-kb.html)  
     
 
 Choose language:
