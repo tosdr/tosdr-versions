@@ -190,6 +190,16 @@ You are responsible for maintaining the confidentiality of your account and pass
 
 We reserve the right to refuse service, terminate accounts, remove or edit content, or cancel orders at our sole discretion.
 
+**Acceptable Use**
+
+You agree that you will not take any action that imposes an unreasonable or disproportionately large load on the infrastructure of the Service’s systems or networks, or any systems or networks connected to the Service. This includes but is not limited to use of the Service in a way that requires unreasonable commercial efforts on Service’s part or creates a burden with regard to network, support, technical or staffing resources.
+
+You agree not to use any device, software or routine to interfere or attempt to interfere with the proper working of the Site or any transaction being conducted on the Site, or with any other person’s use of the Site.
+
+If it is determined that your use of the Service is unwarranted, or used in a way contrary to the designs of the Service we may at any time suspend or terminate your account, or inact changes to the billing structure associated with your account.
+
+You may not use the Service or any Content for any purpose that is unlawful or prohibited by these Terms of Service, or to solicit the performance of any illegal activity or other activity which infringes the rights of Seriously Simple Podcasting, Castos, or others.
+
 **Privacy**
 
 Your privacy is very important to us, which is why we’ve created a separate Privacy Policy in order to explain in detail how we collect, manage, process, secure, and store your private information. Our privacy policy is included under the scope of this User Agreement. To read our privacy policy in its entirety, [click here](https://castos.com/privacy/). This information further details our commitment to your privacy under GDPR.
