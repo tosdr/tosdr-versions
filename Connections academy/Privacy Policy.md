@@ -77,7 +77,7 @@
                 * [High School Courses](https://www.connectionsacademy.com/program/curriculum/online-high-school/)
                 * [Summer Courses](https://www.connectionsacademy.com/program/curriculum/online-summer-school/)
             * [Sample Lessons](https://www.connectionsacademy.com/program/sample-lessons/)
-            * [College and Career Prep](https://www.connectionsacademy.com/program/college-careers/)
+            * [College & Career Readiness](https://www.connectionsacademy.com/program/college-career-readiness/)
             * [Student Success](https://www.connectionsacademy.com/program/student-stories/)
             * [Socialization](https://www.connectionsacademy.com/program/community/)
             * [Parent Involvement](https://www.connectionsacademy.com/program/parents/)
@@ -125,9 +125,9 @@
         
         [![College and Career Prep icon](/content/dam/pvs/ca/icons/college.svg)
         
-        ###### College and Career Prep
+        ###### College & Career Readiness
         
-        How we help students prepare for the future.](https://www.connectionsacademy.com/program/college-careers/)
+        How we help students prepare for the future.](https://www.connectionsacademy.com/program/college-career-readiness/)
         
         [![Student Success icon](/content/dam/pvs/ca/icons/success.svg)
         
@@ -500,11 +500,11 @@ We have online K-12 schools across the United States. Enter your zip code to be 
 
 Please enter 5-digit ZIP code.
 
-Clear
+X
 
 [Use my current location](#)
 
-[List of Schools](https://www.connectionsacademy.com/schools-near-me/)
+[See All Schools](https://www.connectionsacademy.com/schools-near-me/)
 
 Close Find your school dialog
 
