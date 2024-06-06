@@ -1,95 +1,162 @@
-[![CurrentWare logo](https://cdn-aogbe.nitrocdn.com/LYdLTjFVvLmCmiqbCPnUYWCzZdgiptoK/assets/images/optimized/rev-7bb1774/www.currentware.com/wp-content/uploads/2022/05/currentware-webconsole-logo-white-bg.svg#34740)![CurrentWare logo](https://cdn-aogbe.nitrocdn.com/LYdLTjFVvLmCmiqbCPnUYWCzZdgiptoK/assets/images/optimized/rev-7bb1774/www.currentware.com/wp-content/uploads/2022/05/currentware-webconsole-logo-white-bg.svg#34740)![CurrentWare logo](https://cdn-aogbe.nitrocdn.com/LYdLTjFVvLmCmiqbCPnUYWCzZdgiptoK/assets/images/optimized/rev-7bb1774/www.currentware.com/wp-content/uploads/2022/05/currentware-webconsole-logo-white-bg.svg#34740)![CurrentWare logo](https://cdn-aogbe.nitrocdn.com/LYdLTjFVvLmCmiqbCPnUYWCzZdgiptoK/assets/images/optimized/rev-7bb1774/www.currentware.com/wp-content/uploads/2022/05/currentware-webconsole-logo-white-bg.svg#34740)](https://www.currentware.com/ "CurrentWare")
-
-[](#)
+[![](data:image/gif;nitro-empty-id=MTkwOjE0Mw==-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.currentware.com/)
 
 * Products
-    * * * [CurrentWare Suite](https://www.currentware.com/products/currentware-suite/)
-                
-                * * *
-                
-            * [AccessPatrolData Loss Prevention](https://www.currentware.com/products/accesspatrol/)
-            * [BrowseControlWeb Filtering](https://www.currentware.com/products/browsecontrol/)
-            * [BrowseReporterUser Monitoring](https://www.currentware.com/products/browsereporter/)
-            * [enPowerManagerPower Management](https://www.currentware.com/products/enpowermanager/)
-        * * Overview
-                
-                * * *
-                
-            * [Buy Now](https://www.currentware.com/checkout/)
-            * [Case Studies](https://www.currentware.com/customers/)
-            * [Comparisons](https://www.currentware.com/comparisons/)
-            * [Find a Reseller](https://support.currentware.com/portal/en/kb/articles/find-a-reseller/)
-            * [Platform Security](https://www.currentware.com/products/currentware-suite/security-features/)
-            * [Request a Demo](https://www.currentware.com/request-demo/)
-            * [Self-Guided Demo](https://www.currentware.com/demo/)
-            * [Reviews & Awards](https://www.currentware.com/customers/#reviews)
+    
+    * [CurrentWare Suite](https://www.currentware.com/products/currentware-suite/)
+        * [AccessPatrol
+            
+            USB Device Control](https://www.currentware.com/products/accesspatrol/)
+        * [BrowseControl
+            
+            Web Filtering](https://www.currentware.com/products/browsecontrol/)
+        * [BrowseReporter
+            
+            Employee Monitoring](https://www.currentware.com/products/browsereporter/)
+        * [enPowerManager
+            
+            Power Management](https://www.currentware.com/products/enpowermanager/)
+    * Overview
+        
+        * [Buy Now](https://www.currentware.com/checkout/)
+        * [Case Studies](https://www.currentware.com/customers/)
+        * [Find a Reseller](https://support.currentware.com/portal/en/kb/articles/find-a-reseller/)
+        * [Platform Security](https://www.currentware.com/products/currentware-suite/security-features/)
+        * [Request a Demo](https://www.currentware.com/request-demo/)
+        * [Self-Guided Demo](https://www.currentware.com/demo/)
+        * [Reviews & Awards](https://www.currentware.com/customers/#reviews)
 * Solutions
-    * * * [By Use Case](https://www.currentware.com/solutions/#use-case)
-                
-                * * *
-                
-            * [Computer Monitoring](https://www.currentware.com/solutions/computer-monitoring/)
-            * [Data Loss Prevention](https://www.currentware.com/solutions/data-loss-prevention/)
-            * [Employee Investigations](https://www.currentware.com/solutions/employee-investigation/)
-            * [Employee Productivity](https://www.currentware.com/solutions/employee-productivity/)
-            * [Endpoint Security](https://www.currentware.com/solutions/endpoint-security/)
-            * [Insider Threats](https://www.currentware.com/solutions/insider-threat-detection/)
-            * [Internet Management](https://www.currentware.com/solutions/workplace-internet-filtering-monitoring-software/)
-            * [Remote Workforce](https://www.currentware.com/solutions/remote-workforce/)
-            * [Security Compliance](https://www.currentware.com/solutions/compliance/)
-            * [User Activity Monitoring](https://www.currentware.com/solutions/user-activity-monitoring/)
-        * * [By Industry](https://www.currentware.com/solutions/#industry)
-                
-                * * *
-                
-            * [Financial Services](https://www.currentware.com/industries/financial-services/)
-            * [Government](https://www.currentware.com/industries/government/)
-            * [Healthcare](https://www.currentware.com/industries/healthcare-dlp-hipaa/)
-            * [Legal Services](https://www.currentware.com/industries/legal-services/)
-            * [Manufacturing](https://www.currentware.com/industries/manufacturing/)
-            * [Schools & Libraries](https://www.currentware.com/industries/web-filtering-in-schools/)
-            * [Small Business](https://www.currentware.com/industries/small-business-employee-productivity/)
+    
+    * [By Use Case](https://www.currentware.com/solutions/#use-case)
+        * [Computer Monitoring](https://www.currentware.com/solutions/computer-monitoring/)
+        * [Data Loss Prevention](https://www.currentware.com/solutions/data-loss-prevention/)
+        * [Employee Investigations](https://www.currentware.com/solutions/employee-investigation/)
+        * [Employee Productivity](https://www.currentware.com/solutions/employee-productivity/)
+        * [Endpoint Security](https://www.currentware.com/solutions/endpoint-security/)
+        * [Insider Threats](https://www.currentware.com/solutions/insider-threat-detection/)
+        * [Internet Management](https://www.currentware.com/solutions/workplace-internet-filtering-monitoring-software/)
+        * [Remote Workforce](https://www.currentware.com/solutions/remote-workforce/)
+        * [Security Compliance](https://www.currentware.com/solutions/compliance/)
+        * [User Activity Monitoring](https://www.currentware.com/solutions/user-activity-monitoring/)
+    * [By Industry](https://www.currentware.com/solutions/#industry)
+        * [Financial Services](https://www.currentware.com/industries/financial-services/)
+        * [Government](https://www.currentware.com/industries/government/)
+        * [Healthcare](https://www.currentware.com/industries/healthcare-dlp-hipaa/)
+        * [Legal Services](https://www.currentware.com/industries/legal-services/)
+        * [Manufacturing](https://www.currentware.com/industries/manufacturing/)
+        * [Schools & Libraries](https://www.currentware.com/industries/web-filtering-in-schools/)
+        * [Small Business](https://www.currentware.com/industries/small-business-employee-productivity/)
 * Customers
-    * * * Our Customers
-                
-                * * *
-                
-            * [Case Studies](https://www.currentware.com/customers/)
-            * [Reviews & Awards](https://www.currentware.com/customers/#reviews)
-        * * Customer Success
-                
-                * * *
-                
-            * [Onboarding Guide](https://www.currentware.com/get-started/)
-            * [Knowledge Base](https://support.currentware.com/portal/en/kb/currentware)
-            * [Contact Support](https://www.currentware.com/contact/)
-            * [System Requirements](https://support.currentware.com/portal/en/kb/articles/system-requirements/)
-* [Resources](#)
-    * * * Featured Resources
-                
-                * * *
-                
-            * [Employee Monitoring Starter Kit](https://www.currentware.com/employee-monitoring-starter-kit-sign-up/)
-            * [Offboarding Data Security Guide](https://www.currentware.com/how-to-keep-data-safe-when-offboarding-employees-sign-up/)
-            * [Internet Use Policy Template](https://www.currentware.com/internet-usage-policy-template-sign-up/)
-            * [Removable Media Policy Template](https://www.currentware.com/removable-media-policy-template-sign-up/)
-            * [Workplace Monitoring Policy Template](https://www.currentware.com/workplace-monitoring-policy-sign-up/)
-        * * More Resources
-                
-                * * *
-                
-            * [Knowledge Base](https://support.currentware.com/portal/en/kb/currentware)
-            * [Upgrade Deployment](https://support.currentware.com/portal/en/kb/articles/upgrade/)
-            * [Release Notes](https://support.currentware.com/portal/en/kb/articles/release-notes)
-            * [Blog Articles](https://www.currentware.com/blog/)
-            * [CurrentWare Videos](https://www.currentware.com/tag/video/)
-            * [More Templates](https://www.currentware.com/tag/template/)
+    
+    * Our Customers
+        
+        * [Case Studies](https://www.currentware.com/customers/)
+        * [Reviews & Awards](https://www.currentware.com/customers/#reviews)
+    * Customer Success
+        
+        * [Onboarding Guide](https://www.currentware.com/get-started/)
+        * [Knowledge Base](https://support.currentware.com/portal/en/kb/currentware)
+        * [Contact Support](https://www.currentware.com/contact/)
+        * [System Requirements](https://support.currentware.com/portal/en/kb/articles/system-requirements/)
+* Resources
+    
+    * Featured Resources
+        
+        * [Employee Monitoring Starter Kit](https://www.currentware.com/employee-monitoring-starter-kit-sign-up/)
+        * [Offboarding Data Security Guide](https://www.currentware.com/how-to-keep-data-safe-when-offboarding-employees-sign-up/)
+        * [Internet Use Policy Template](https://www.currentware.com/internet-usage-policy-template-sign-up/)
+        * [Removable Media Policy Template](https://www.currentware.com/removable-media-policy-template-sign-up/)
+        * [User Monitoring Policy Template](https://www.currentware.com/workplace-monitoring-policy-sign-up/)
+    * More Resources
+        
+        * [Knowledge Base](https://support.currentware.com/portal/en/kb/currentware)
+        * [Upgrade Deployment](https://support.currentware.com/portal/en/kb/articles/upgrade/)
+        * [Release Notes](https://support.currentware.com/portal/en/kb/articles/release-notes)
+        * [Blog Articles](https://www.currentware.com/blog/)
+        * [CurrentWare Videos](https://www.currentware.com/tag/video/)
+        * [More Templates](https://www.currentware.com/tag/template/)
 * [Pricing](https://www.currentware.com/store/)
 * [1-888-912-9619](tel:1-888-912-9619)
 * [Contact Sales](https://www.currentware.com/sales/)
 * [Free Trial](https://www.currentware.com/download/?product=BC,BR,AP,EN)
 
-✕  
+* Products
+    
+    * [CurrentWare Suite](https://www.currentware.com/products/currentware-suite/)
+        * [AccessPatrol
+            
+            USB Device Control](https://www.currentware.com/products/accesspatrol/)
+        * [BrowseControl
+            
+            Web Filtering](https://www.currentware.com/products/browsecontrol/)
+        * [BrowseReporter
+            
+            Employee Monitoring](https://www.currentware.com/products/browsereporter/)
+        * [enPowerManager
+            
+            Power Management](https://www.currentware.com/products/enpowermanager/)
+    * Overview
+        
+        * [Buy Now](https://www.currentware.com/checkout/)
+        * [Case Studies](https://www.currentware.com/customers/)
+        * [Find a Reseller](https://support.currentware.com/portal/en/kb/articles/find-a-reseller/)
+        * [Platform Security](https://www.currentware.com/products/currentware-suite/security-features/)
+        * [Request a Demo](https://www.currentware.com/request-demo/)
+        * [Self-Guided Demo](https://www.currentware.com/demo/)
+        * [Reviews & Awards](https://www.currentware.com/customers/#reviews)
+* Solutions
+    
+    * [By Use Case](https://www.currentware.com/solutions/#use-case)
+        * [Computer Monitoring](https://www.currentware.com/solutions/computer-monitoring/)
+        * [Data Loss Prevention](https://www.currentware.com/solutions/data-loss-prevention/)
+        * [Employee Investigations](https://www.currentware.com/solutions/employee-investigation/)
+        * [Employee Productivity](https://www.currentware.com/solutions/employee-productivity/)
+        * [Endpoint Security](https://www.currentware.com/solutions/endpoint-security/)
+        * [Insider Threats](https://www.currentware.com/solutions/insider-threat-detection/)
+        * [Internet Management](https://www.currentware.com/solutions/workplace-internet-filtering-monitoring-software/)
+        * [Remote Workforce](https://www.currentware.com/solutions/remote-workforce/)
+        * [Security Compliance](https://www.currentware.com/solutions/compliance/)
+        * [User Activity Monitoring](https://www.currentware.com/solutions/user-activity-monitoring/)
+    * [By Industry](https://www.currentware.com/solutions/#industry)
+        * [Financial Services](https://www.currentware.com/industries/financial-services/)
+        * [Government](https://www.currentware.com/industries/government/)
+        * [Healthcare](https://www.currentware.com/industries/healthcare-dlp-hipaa/)
+        * [Legal Services](https://www.currentware.com/industries/legal-services/)
+        * [Manufacturing](https://www.currentware.com/industries/manufacturing/)
+        * [Schools & Libraries](https://www.currentware.com/industries/web-filtering-in-schools/)
+        * [Small Business](https://www.currentware.com/industries/small-business-employee-productivity/)
+* Customers
+    
+    * Our Customers
+        
+        * [Case Studies](https://www.currentware.com/customers/)
+        * [Reviews & Awards](https://www.currentware.com/customers/#reviews)
+    * Customer Success
+        
+        * [Onboarding Guide](https://www.currentware.com/get-started/)
+        * [Knowledge Base](https://support.currentware.com/portal/en/kb/currentware)
+        * [Contact Support](https://www.currentware.com/contact/)
+        * [System Requirements](https://support.currentware.com/portal/en/kb/articles/system-requirements/)
+* Resources
+    
+    * Featured Resources
+        
+        * [Employee Monitoring Starter Kit](https://www.currentware.com/employee-monitoring-starter-kit-sign-up/)
+        * [Offboarding Data Security Guide](https://www.currentware.com/how-to-keep-data-safe-when-offboarding-employees-sign-up/)
+        * [Internet Use Policy Template](https://www.currentware.com/internet-usage-policy-template-sign-up/)
+        * [Removable Media Policy Template](https://www.currentware.com/removable-media-policy-template-sign-up/)
+        * [User Monitoring Policy Template](https://www.currentware.com/workplace-monitoring-policy-sign-up/)
+    * More Resources
+        
+        * [Knowledge Base](https://support.currentware.com/portal/en/kb/currentware)
+        * [Upgrade Deployment](https://support.currentware.com/portal/en/kb/articles/upgrade/)
+        * [Release Notes](https://support.currentware.com/portal/en/kb/articles/release-notes)
+        * [Blog Articles](https://www.currentware.com/blog/)
+        * [CurrentWare Videos](https://www.currentware.com/tag/video/)
+        * [More Templates](https://www.currentware.com/tag/template/)
+* [Pricing](https://www.currentware.com/store/)
+* [1-888-912-9619](tel:1-888-912-9619)
+* [Contact Sales](https://www.currentware.com/sales/)
+* [Free Trial](https://www.currentware.com/download/?product=BC,BR,AP,EN)
 
 **Note:** This Software End User Licence Agreement (EULA) applies to the use of the CurrentWare software. You may also be interested in [CurrentWare’s Applications Privacy Policy](https://www.currentware.com/software-privacy-policy/).
 
@@ -509,80 +576,80 @@ Original SSLeay License
 \* \[including the GNU Public Licence.\]  
 \*/
 
-[![CurrentWare Logo](data:image/svg+xml;nitro-empty-id=NTc4OjQ1Mg==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTcxNCAzMzciIHdpZHRoPSIxNzE0IiBoZWlnaHQ9IjMzNyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://www.currentware.com/)
-
-[](https://www.currentware.com/)
+![](data:image/gif;nitro-empty-id=NzA1OjEwOQ==-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==)
 
 CurrentWare's data loss prevention, productivity, and security software gives you advanced control and visibility over technology use in your organization
 
 [1-888-912-9619](tel:1-888-912-9619)
 
-### Products
+* [Products](https://www.currentware.com/products/currentware-suite/)
+    * [CurrentWare Suite](https://www.currentware.com/products/currentware-suite/)
+    * [AccessPatrol](https://www.currentware.com/products/accesspatrol/)
+    * [BrowseControl](https://www.currentware.com/products/browsecontrol/)
+    * [BrowseReporter](https://www.currentware.com/products/browsereporter/)
+    * [enPowerManager](https://www.currentware.com/products/enpowermanager/)
+* [Solutions](https://www.currentware.com/solutions/)
+    * [Data Loss Prevention](https://www.currentware.com/solutions/data-loss-prevention/)
+    * [Employee Monitoring](https://www.currentware.com/solutions/computer-monitoring/)
+    * [Endpoint Security](https://www.currentware.com/solutions/endpoint-security/)
+    * [Insider Threats](https://www.currentware.com/solutions/insider-threat-detection/)
+    * [Monitor Productivity](https://www.currentware.com/solutions/employee-productivity/)
+    * [Remote Workers](https://www.currentware.com/solutions/remote-workforce/)
+    * [Security Compliance](https://www.currentware.com/solutions/compliance/)
+    * [Staff Investigations](https://www.currentware.com/solutions/employee-investigation/)
+    * [User Activity Monitoring](https://www.currentware.com/solutions/user-activity-monitoring/)
+    * [Web Filtering](https://www.currentware.com/web-filter/)
+    * [Web Management](https://www.currentware.com/solutions/workplace-internet-filtering-monitoring-software/)
+    * [More Solutions](https://www.currentware.com/solutions/)
+* Learn
+    * [Block Internet Access](https://www.currentware.com/how-to-block-websites/)
+    * [Block USB](https://www.currentware.com/products/accesspatrol/block-usb/)
+    * [Monitoring Guide](https://www.currentware.com/employee-monitoring-starter-kit-sign-up/)
+    * [Monitor Web Use](https://www.currentware.com/how-to-monitor-internet-usage/)
+    * [Monitor WFH Staff](https://www.currentware.com/blog/how-to-monitor-employees-working-from-home/)
+        * [COMPARISONS](https://www.currentware.com/comparisons/)
+    * [ActivTrak Alternative](https://www.currentware.com/comparisons/activtrak-alternative/)
+    * [Teramind Alternative](https://www.currentware.com/comparisons/teramind-alternative/)
+    * [Insightful Alternative](https://www.currentware.com/comparisons/workpuls-alternative/)
+    * [More Comparisons](https://www.currentware.com/comparisons/)
+* Resources
+    * [Cloud Deployment](https://support.currentware.com/portal/en/kb/articles/cloud-setup/)
+    * [Find a Reseller](https://support.currentware.com/portal/en/kb/articles/find-a-reseller)
+    * [Knowledge Base](https://support.currentware.com/portal/en/kb/currentware)
+    * [Onboarding](https://www.currentware.com/get-started/)
+    * [Release Notes](https://support.currentware.com/portal/en/kb/articles/release-notes/)
+    * [System Requirements](https://support.currentware.com/portal/en/kb/articles/system-requirements)
+        * DEMOS
+    * [Free Trial](https://www.currentware.com/download/)
+    * [Overview Video](https://www.currentware.com/watch-demo/)
+    * [Request Demo](https://www.currentware.com/request-demo/)
+    * [Self-Guided Demo](https://www.currentware.com/demo/)
+* Company
+    * [About Us](https://www.currentware.com/about-currentware/)
+    * [Case Studies](https://www.currentware.com/customers/)
+    * [Be a Reseller](https://www.currentware.com/resellers/)
+    * [MSP Program](https://www.currentware.com/managed-service-provider/)
+    * [Get a Quote](https://www.currentware.com/sales/)
+    * [Contact Us](https://www.currentware.com/contact/)
+    * [Platform Security](https://www.currentware.com/products/currentware-suite/security-features/)
 
-[CurrentWare Suite](https://www.currentware.com/products/currentware-suite/)
+©2024 CurrentWare. All Rights Reserved. Based in North America
 
-* [AccessPatrol](https://www.currentware.com/products/accesspatrol/)
-* [BrowseControl](https://www.currentware.com/products/browsecontrol/)
-* [BrowseReporter](https://www.currentware.com/products/browsereporter/)
-* [enPowerManager](https://www.currentware.com/products/enpowermanager/)
+|
 
-### Solutions
+[Sitemap](https://www.currentware.com/sitemap_index.xml)
 
-* [Data Loss Prevention](https://www.currentware.com/solutions/data-loss-prevention/)
-* [Employee Monitoring](https://www.currentware.com/solutions/computer-monitoring/)
-* [Endpoint Security](https://www.currentware.com/solutions/endpoint-security/)
-* [Insider Threats](https://www.currentware.com/solutions/insider-threat-detection/)
-* [Monitor Productivity](https://www.currentware.com/solutions/employee-productivity/)
-* [Remote Workers](https://www.currentware.com/solutions/remote-workforce/)
-* [Security Compliance](https://www.currentware.com/solutions/compliance/)
-* [Staff Investigations](https://www.currentware.com/solutions/employee-investigation/)
-* [User Activity Monitoring](https://www.currentware.com/solutions/user-activity-monitoring/)
-* [Web Filtering](https://www.currentware.com/web-filter/)
-* [Web Management](https://www.currentware.com/solutions/workplace-internet-filtering-monitoring-software/)
-* [More Solutions](https://www.currentware.com/solutions/)
+|
 
-### Learn
+[Privacy Policy](https://www.currentware.com/privacy-policy/)
 
-* [Block Internet Access](https://www.currentware.com/how-to-block-websites/)
-* [Block USB](https://www.currentware.com/products/accesspatrol/block-usb/)
-* [Monitoring Guide](https://www.currentware.com/employee-monitoring-starter-kit-sign-up/)
-* [Monitor Web Use](https://www.currentware.com/how-to-monitor-internet-usage/)
-* [Monitor WFH Staff](https://www.currentware.com/blog/how-to-monitor-employees-working-from-home/)
+|
 
-COMPARISONS* [ActivTrak Alternative](https://www.currentware.com/comparisons/activtrak-alternative/)
-* [Teramind Alternative](https://www.currentware.com/comparisons/teramind-alternative/)
-* [Insightful Alternative](https://www.currentware.com/comparisons/workpuls-alternative/)
-* [More Comparisons](https://www.currentware.com/comparisons/)
+[Terms of Service](https://www.currentware.com/terms-of-service/)
 
-### Resources
+ [![](data:image/gif;nitro-empty-id=Nzk1OjIzMw==-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.facebook.com/CurrentWareInc/)[![](data:image/gif;nitro-empty-id=Nzk2OjIzNw==-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.linkedin.com/company/currentware)[![](data:image/gif;nitro-empty-id=Nzk3OjIzMg==-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.youtube.com/user/Currentware)[![](data:image/gif;nitro-empty-id=Nzk4OjIyMw==-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==)](https://twitter.com/CurrentWare)
 
-PRODUCT* [Cloud Deployment](https://support.currentware.com/portal/en/kb/articles/cloud-setup/)
-* [Find a Reseller](https://support.currentware.com/portal/en/kb/articles/find-a-reseller)
-* [Knowledge Base](https://support.currentware.com/portal/en/kb/currentware)
-* [Onboarding](https://www.currentware.com/get-started/)
-* [Release Notes](https://support.currentware.com/portal/en/kb/articles/release-notes/)
-* [System Requirements](https://support.currentware.com/portal/en/kb/articles/system-requirements)
-
-DEMOS* [Free Trial](https://www.currentware.com/download/)
-* [Overview Video](https://www.currentware.com/watch-demo/)
-* [Request Demo](https://www.currentware.com/request-demo/)
-* [Self-Guided Demo](https://www.currentware.com/demo/)
-
-### Company
-
-* [About Us](https://www.currentware.com/about-currentware/)
-* [Case Studies](https://www.currentware.com/customers/)
-* [Be a Reseller](https://www.currentware.com/resellers/)
-* [MSP Program](https://www.currentware.com/managed-service-provider/)
-* [Get a Quote](https://www.currentware.com/sales/)
-* [Contact Us](https://www.currentware.com/contact/)
-* [Platform Security](https://www.currentware.com/products/currentware-suite/security-features/)
-
-©2024 CurrentWare. All Rights Reserved. Based in North America [Sitemap](https://www.currentware.com/sitemap_index.xml) [Privacy Policy](https://www.currentware.com/privacy-policy/) [Terms of Service](https://www.currentware.com/terms-of-service/)
-
- [![](data:image/svg+xml;nitro-empty-id=Njg0OjIyNw==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://www.facebook.com/CurrentWareInc/)[![](data:image/svg+xml;nitro-empty-id=Njg2OjIzMQ==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://www.linkedin.com/company/currentware)[![](data:image/svg+xml;nitro-empty-id=Njg4OjIyNg==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://www.youtube.com/user/Currentware)[![](data:image/svg+xml;nitro-empty-id=NjkwOjIxNw==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://twitter.com/CurrentWare)
-
-![CurrentWare Software End User Licence Agreement (EULA)](data:image/svg+xml;nitro-empty-id=NzE2OjI2Ng==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTI5IDEyOCIgd2lkdGg9IjEyOSIgaGVpZ2h0PSIxMjgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
+![CurrentWare Software End User Licence Agreement (EULA)](data:image/svg+xml;nitro-empty-id=ODE1OjI2Ng==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTI5IDEyOCIgd2lkdGg9IjEyOSIgaGVpZ2h0PSIxMjgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
 
 This website uses cookies to improve your user experience. By using our website, you consent to all cookies in accordance with our [Privacy Policy](https://www.currentware.com/privacy-policy/)
 
