@@ -4,142 +4,142 @@
 * [Careers](https://www.consumeraffairs.com/careers/)
 * More
 
-* Trending
+Trending
+
+Trending
+
+* [Best Pet Insurance Companies](https://www.consumeraffairs.com/pets/pet-insurance/)
     
-    * Trending
-        
-        * [Best Pet Insurance Companies](https://www.consumeraffairs.com/pets/pet-insurance/)
-        
-        * [Best Tax Relief Companies](https://www.consumeraffairs.com/finance/tax-relief/)
-        
-        * [Best Pest Control Companies](https://www.consumeraffairs.com/homeowners/aaa_pest_control.html)
-        
-        * [Best Gold IRA Companies](https://www.consumeraffairs.com/finance/gold-ira/)
-        
-        * [Solar Panel Cost](https://www.consumeraffairs.com/solar-energy/how-much-do-solar-panels-cost.html)
-        
-        * [Safest US States](https://www.consumeraffairs.com/homeowners/safest-states-in-the-us.html)
-        
-        * [Most Expensive Cities](https://www.consumeraffairs.com/finance/most-expensive-cities-in-the-us.html)
-        
-        * [View all Topics](https://www.consumeraffairs.com/resources/)
-        
+* [Best Tax Relief Companies](https://www.consumeraffairs.com/finance/tax-relief/)
     
-* Buyers Guides
+* [Best Pest Control Companies](https://www.consumeraffairs.com/homeowners/aaa_pest_control.html)
     
-    * Auto
-        
-        * [Best Extended Car Warranties](https://www.consumeraffairs.com/auto_warranty/)
-        
-        * [Best Car Shipping](https://www.consumeraffairs.com/automotive/auto-transport/)
-        
-        * [View all Auto](https://www.consumeraffairs.com/automotive/automotive.htm)
-        
+* [Best Gold IRA Companies](https://www.consumeraffairs.com/finance/gold-ira/)
     
-    * Home
-        
-        * [Best Home Warranties](https://www.consumeraffairs.com/homeowners/aaa_warranties.html)
-        
-        * [Best Solar Companies](https://www.consumeraffairs.com/solar-energy/)
-        
-        * [Best Movers](https://www.consumeraffairs.com/movers/)
-        
-        * [Best Home Security Systems](https://www.consumeraffairs.com/homeowners/aaa_alarm_systems.html)
-        
-        * [View all Home](https://www.consumeraffairs.com/homeowners/)
-        
+* [Solar Panel Cost](https://www.consumeraffairs.com/solar-energy/how-much-do-solar-panels-cost.html)
     
-    * Finance
-        
-        * [Best Personal Loans](https://www.consumeraffairs.com/finance/personal-loans/)
-        
-        * [Best Mortgage Lenders](https://www.consumeraffairs.com/finance/finance__companies.htm)
-        
-        * [Best HELOC Lenders](https://www.consumeraffairs.com/finance/heloc/)
-        
-        * [Best Gold Dealers](https://www.consumeraffairs.com/finance/gold-dealers/)
-        
-        * [Best Debt Settlement](https://www.consumeraffairs.com/finance/debt-settlement/)
-        
-        * [View all Finance](https://www.consumeraffairs.com/finance/financial_services.htm)
-        
+* [Safest US States](https://www.consumeraffairs.com/homeowners/safest-states-in-the-us.html)
     
-    * Senior
-        
-        * [Best Walk-in Tubs](https://www.consumeraffairs.com/homeowners/walk-in-bathtubs/)
-        
-        * [Best Walk-in Showers](https://www.consumeraffairs.com/homeowners/walk-in-showers/)
-        
-        * [Best Medical Alert Systems](https://www.consumeraffairs.com/medical-alert-systems/)
-        
-        * [Best Stair Lifts](https://www.consumeraffairs.com/homeowners/stairlifts/)
-        
-        * [Best Reverse Mortgages](https://www.consumeraffairs.com/reverse-mortgages/)
-        
-        * [View all Senior](https://www.consumeraffairs.com/elder-care-planning/)
-        
+* [Most Expensive Cities](https://www.consumeraffairs.com/finance/most-expensive-cities-in-the-us.html)
     
-* Customer Reviews
+* [View all Topics](https://www.consumeraffairs.com/resources/)
     
-    * Auto
-        
-        * [Endurance Warranty Reviews](https://www.consumeraffairs.com/auto_warranty/endurance-warranty.html)
-        
-        * [CarShield Reviews](https://www.consumeraffairs.com/auto_warranty/carshield.html)
-        
-        * [CARCHEX Reviews](https://www.consumeraffairs.com/auto_warranty/carchex.html)
-        
-        * [View all Auto](https://www.consumeraffairs.com/automotive/automotive.htm)
-        
+
+Buyers Guides
+
+Auto
+
+* [Best Extended Car Warranties](https://www.consumeraffairs.com/auto_warranty/)
     
-    * Home
-        
-        * [SunPower Reviews](https://www.consumeraffairs.com/solar-energy/sunpower.html)
-        
-        * [Sunrun Reviews](https://www.consumeraffairs.com/solar-energy/sunrun.html)
-        
-        * [American Home Shield Reviews](https://www.consumeraffairs.com/insurance/am_home.html)
-        
-        * [Choice Home Warranty Reviews](https://www.consumeraffairs.com/homeowners/choice_home_warranty.html)
-        
-        * [ADT Reviews](https://www.consumeraffairs.com/homeowners/adt.htm)
-        
-        * [Vivint Smart Home Reviews](https://www.consumeraffairs.com/homeowners/apx_alarm.html)
-        
-        * [View all Home](https://www.consumeraffairs.com/homeowners/)
-        
+* [Best Car Shipping](https://www.consumeraffairs.com/automotive/auto-transport/)
     
-    * Finance
-        
-        * [Rocket Mortgage Reviews](https://www.consumeraffairs.com/finance/rocket-mortgage.html)
-        
-        * [Quicken Loans Reviews](https://www.consumeraffairs.com/finance/quicken_loans_mortgage.html)
-        
-        * [New American Funding Reviews](https://www.consumeraffairs.com/finance/new-american-funding.html)
-        
-        * [Patriot Gold Group Reviews](https://www.consumeraffairs.com/finance/patriot-gold.html)
-        
-        * [AmeriSave Mortgage Reviews](https://www.consumeraffairs.com/finance/amerisave_mortgage.html)
-        
-        * [View all Finance](https://www.consumeraffairs.com/finance/financial_services.htm)
-        
+* [View all Auto](https://www.consumeraffairs.com/automotive/automotive.htm)
     
-    * Senior
-        
-        * [Safe Step Walk-in Tubs Reviews](https://www.consumeraffairs.com/homeowners/safe-step-walk-in-tubs.html)
-        
-        * [American Standard Walk-in Baths Reviews](https://www.consumeraffairs.com/homeowners/american-standard-walk-in-baths.html)
-        
-        * [ADT Medical Alert Reviews](https://www.consumeraffairs.com/medical-alert-systems/adt.html)
-        
-        * [Medical Guardian Reviews](https://www.consumeraffairs.com/medical-alert-systems/medical-guardian.html)
-        
-        * [View all Senior](https://www.consumeraffairs.com/elder-care-planning/)
-        
+
+Home
+
+* [Best Home Warranties](https://www.consumeraffairs.com/homeowners/aaa_warranties.html)
     
-* [News](https://www.consumeraffairs.com/news04/)
-* [Write a review](https://www.consumeraffairs.com/review/write/)
+* [Best Solar Companies](https://www.consumeraffairs.com/solar-energy/)
     
+* [Best Movers](https://www.consumeraffairs.com/movers/)
+    
+* [Best Home Security Systems](https://www.consumeraffairs.com/homeowners/aaa_alarm_systems.html)
+    
+* [View all Home](https://www.consumeraffairs.com/homeowners/)
+    
+
+Finance
+
+* [Best Personal Loans](https://www.consumeraffairs.com/finance/personal-loans/)
+    
+* [Best Mortgage Lenders](https://www.consumeraffairs.com/finance/finance__companies.htm)
+    
+* [Best HELOC Lenders](https://www.consumeraffairs.com/finance/heloc/)
+    
+* [Best Gold Dealers](https://www.consumeraffairs.com/finance/gold-dealers/)
+    
+* [Best Debt Settlement](https://www.consumeraffairs.com/finance/debt-settlement/)
+    
+* [View all Finance](https://www.consumeraffairs.com/finance/financial_services.htm)
+    
+
+Senior
+
+* [Best Walk-in Tubs](https://www.consumeraffairs.com/homeowners/walk-in-bathtubs/)
+    
+* [Best Walk-in Showers](https://www.consumeraffairs.com/homeowners/walk-in-showers/)
+    
+* [Best Medical Alert Systems](https://www.consumeraffairs.com/medical-alert-systems/)
+    
+* [Best Stair Lifts](https://www.consumeraffairs.com/homeowners/stairlifts/)
+    
+* [Best Reverse Mortgages](https://www.consumeraffairs.com/reverse-mortgages/)
+    
+* [View all Senior](https://www.consumeraffairs.com/elder-care-planning/)
+    
+
+Customer Reviews
+
+Auto
+
+* [Endurance Warranty Reviews](https://www.consumeraffairs.com/auto_warranty/endurance-warranty.html)
+    
+* [CarShield Reviews](https://www.consumeraffairs.com/auto_warranty/carshield.html)
+    
+* [CARCHEX Reviews](https://www.consumeraffairs.com/auto_warranty/carchex.html)
+    
+* [View all Auto](https://www.consumeraffairs.com/automotive/automotive.htm)
+    
+
+Home
+
+* [SunPower Reviews](https://www.consumeraffairs.com/solar-energy/sunpower.html)
+    
+* [Sunrun Reviews](https://www.consumeraffairs.com/solar-energy/sunrun.html)
+    
+* [American Home Shield Reviews](https://www.consumeraffairs.com/insurance/am_home.html)
+    
+* [Choice Home Warranty Reviews](https://www.consumeraffairs.com/homeowners/choice_home_warranty.html)
+    
+* [ADT Reviews](https://www.consumeraffairs.com/homeowners/adt.htm)
+    
+* [Vivint Smart Home Reviews](https://www.consumeraffairs.com/homeowners/apx_alarm.html)
+    
+* [View all Home](https://www.consumeraffairs.com/homeowners/)
+    
+
+Finance
+
+* [Rocket Mortgage Reviews](https://www.consumeraffairs.com/finance/rocket-mortgage.html)
+    
+* [Quicken Loans Reviews](https://www.consumeraffairs.com/finance/quicken_loans_mortgage.html)
+    
+* [New American Funding Reviews](https://www.consumeraffairs.com/finance/new-american-funding.html)
+    
+* [Patriot Gold Group Reviews](https://www.consumeraffairs.com/finance/patriot-gold.html)
+    
+* [AmeriSave Mortgage Reviews](https://www.consumeraffairs.com/finance/amerisave_mortgage.html)
+    
+* [View all Finance](https://www.consumeraffairs.com/finance/financial_services.htm)
+    
+
+Senior
+
+* [Safe Step Walk-in Tubs Reviews](https://www.consumeraffairs.com/homeowners/safe-step-walk-in-tubs.html)
+    
+* [American Standard Walk-in Baths Reviews](https://www.consumeraffairs.com/homeowners/american-standard-walk-in-baths.html)
+    
+* [ADT Medical Alert Reviews](https://www.consumeraffairs.com/medical-alert-systems/adt.html)
+    
+* [Medical Guardian Reviews](https://www.consumeraffairs.com/medical-alert-systems/medical-guardian.html)
+    
+* [View all Senior](https://www.consumeraffairs.com/elder-care-planning/)
+    
+
+[News](https://www.consumeraffairs.com/news04/)
+
+[Write a review](https://www.consumeraffairs.com/review/write/)
 
 [Log in](https://accounts.consumeraffairs.com/?next=https%3A//www.consumeraffairs.com/about/privacy_policy/)
 
@@ -153,140 +153,140 @@ or sign up
 
 [](https://accounts.consumeraffairs.com/?next=https%3A//www.consumeraffairs.com/about/privacy_policy/)
 
-* Trending
+Trending
+
+* [Best Pet Insurance Companies](https://www.consumeraffairs.com/pets/pet-insurance/)
     
-    * * [Best Pet Insurance Companies](https://www.consumeraffairs.com/pets/pet-insurance/)
-        
-        * [Best Tax Relief Companies](https://www.consumeraffairs.com/finance/tax-relief/)
-        
-        * [Best Pest Control Companies](https://www.consumeraffairs.com/homeowners/aaa_pest_control.html)
-        
-        * [Best Gold IRA Companies](https://www.consumeraffairs.com/finance/gold-ira/)
-        
-        * [Solar Panel Cost](https://www.consumeraffairs.com/solar-energy/how-much-do-solar-panels-cost.html)
-        
-        * [Safest US States](https://www.consumeraffairs.com/homeowners/safest-states-in-the-us.html)
-        
-        * [Most Expensive Cities](https://www.consumeraffairs.com/finance/most-expensive-cities-in-the-us.html)
-        
-        * [View all Topics](https://www.consumeraffairs.com/resources/)
-        
+* [Best Tax Relief Companies](https://www.consumeraffairs.com/finance/tax-relief/)
     
-* Buyers Guides
+* [Best Pest Control Companies](https://www.consumeraffairs.com/homeowners/aaa_pest_control.html)
     
-    * Auto
-        
-        * [Best Extended Car Warranties](https://www.consumeraffairs.com/auto_warranty/)
-        
-        * [Best Car Shipping](https://www.consumeraffairs.com/automotive/auto-transport/)
-        
-        * [View all Auto](https://www.consumeraffairs.com/automotive/automotive.htm)
-        
+* [Best Gold IRA Companies](https://www.consumeraffairs.com/finance/gold-ira/)
     
-    * Home
-        
-        * [Best Home Warranties](https://www.consumeraffairs.com/homeowners/aaa_warranties.html)
-        
-        * [Best Solar Companies](https://www.consumeraffairs.com/solar-energy/)
-        
-        * [Best Movers](https://www.consumeraffairs.com/movers/)
-        
-        * [Best Home Security Systems](https://www.consumeraffairs.com/homeowners/aaa_alarm_systems.html)
-        
-        * [View all Home](https://www.consumeraffairs.com/homeowners/)
-        
+* [Solar Panel Cost](https://www.consumeraffairs.com/solar-energy/how-much-do-solar-panels-cost.html)
     
-    * Finance
-        
-        * [Best Personal Loans](https://www.consumeraffairs.com/finance/personal-loans/)
-        
-        * [Best Mortgage Lenders](https://www.consumeraffairs.com/finance/finance__companies.htm)
-        
-        * [Best HELOC Lenders](https://www.consumeraffairs.com/finance/heloc/)
-        
-        * [Best Gold Dealers](https://www.consumeraffairs.com/finance/gold-dealers/)
-        
-        * [Best Debt Settlement](https://www.consumeraffairs.com/finance/debt-settlement/)
-        
-        * [View all Finance](https://www.consumeraffairs.com/finance/financial_services.htm)
-        
+* [Safest US States](https://www.consumeraffairs.com/homeowners/safest-states-in-the-us.html)
     
-    * Senior
-        
-        * [Best Walk-in Tubs](https://www.consumeraffairs.com/homeowners/walk-in-bathtubs/)
-        
-        * [Best Walk-in Showers](https://www.consumeraffairs.com/homeowners/walk-in-showers/)
-        
-        * [Best Medical Alert Systems](https://www.consumeraffairs.com/medical-alert-systems/)
-        
-        * [Best Stair Lifts](https://www.consumeraffairs.com/homeowners/stairlifts/)
-        
-        * [Best Reverse Mortgages](https://www.consumeraffairs.com/reverse-mortgages/)
-        
-        * [View all Senior](https://www.consumeraffairs.com/elder-care-planning/)
-        
+* [Most Expensive Cities](https://www.consumeraffairs.com/finance/most-expensive-cities-in-the-us.html)
     
-* Customer Reviews
+* [View all Topics](https://www.consumeraffairs.com/resources/)
     
-    * Auto
-        
-        * [Endurance Warranty Reviews](https://www.consumeraffairs.com/auto_warranty/endurance-warranty.html)
-        
-        * [CarShield Reviews](https://www.consumeraffairs.com/auto_warranty/carshield.html)
-        
-        * [CARCHEX Reviews](https://www.consumeraffairs.com/auto_warranty/carchex.html)
-        
-        * [View all Auto](https://www.consumeraffairs.com/automotive/automotive.htm)
-        
+
+Buyers Guides
+
+Auto
+
+* [Best Extended Car Warranties](https://www.consumeraffairs.com/auto_warranty/)
     
-    * Home
-        
-        * [SunPower Reviews](https://www.consumeraffairs.com/solar-energy/sunpower.html)
-        
-        * [Sunrun Reviews](https://www.consumeraffairs.com/solar-energy/sunrun.html)
-        
-        * [American Home Shield Reviews](https://www.consumeraffairs.com/insurance/am_home.html)
-        
-        * [Choice Home Warranty Reviews](https://www.consumeraffairs.com/homeowners/choice_home_warranty.html)
-        
-        * [ADT Reviews](https://www.consumeraffairs.com/homeowners/adt.htm)
-        
-        * [Vivint Smart Home Reviews](https://www.consumeraffairs.com/homeowners/apx_alarm.html)
-        
-        * [View all Home](https://www.consumeraffairs.com/homeowners/)
-        
+* [Best Car Shipping](https://www.consumeraffairs.com/automotive/auto-transport/)
     
-    * Finance
-        
-        * [Rocket Mortgage Reviews](https://www.consumeraffairs.com/finance/rocket-mortgage.html)
-        
-        * [Quicken Loans Reviews](https://www.consumeraffairs.com/finance/quicken_loans_mortgage.html)
-        
-        * [New American Funding Reviews](https://www.consumeraffairs.com/finance/new-american-funding.html)
-        
-        * [Patriot Gold Group Reviews](https://www.consumeraffairs.com/finance/patriot-gold.html)
-        
-        * [AmeriSave Mortgage Reviews](https://www.consumeraffairs.com/finance/amerisave_mortgage.html)
-        
-        * [View all Finance](https://www.consumeraffairs.com/finance/financial_services.htm)
-        
+* [View all Auto](https://www.consumeraffairs.com/automotive/automotive.htm)
     
-    * Senior
-        
-        * [Safe Step Walk-in Tubs Reviews](https://www.consumeraffairs.com/homeowners/safe-step-walk-in-tubs.html)
-        
-        * [American Standard Walk-in Baths Reviews](https://www.consumeraffairs.com/homeowners/american-standard-walk-in-baths.html)
-        
-        * [ADT Medical Alert Reviews](https://www.consumeraffairs.com/medical-alert-systems/adt.html)
-        
-        * [Medical Guardian Reviews](https://www.consumeraffairs.com/medical-alert-systems/medical-guardian.html)
-        
-        * [View all Senior](https://www.consumeraffairs.com/elder-care-planning/)
-        
+
+Home
+
+* [Best Home Warranties](https://www.consumeraffairs.com/homeowners/aaa_warranties.html)
     
-* [News](https://www.consumeraffairs.com/news04/)
-* [Write a review](https://www.consumeraffairs.com/review/write/)
+* [Best Solar Companies](https://www.consumeraffairs.com/solar-energy/)
     
+* [Best Movers](https://www.consumeraffairs.com/movers/)
+    
+* [Best Home Security Systems](https://www.consumeraffairs.com/homeowners/aaa_alarm_systems.html)
+    
+* [View all Home](https://www.consumeraffairs.com/homeowners/)
+    
+
+Finance
+
+* [Best Personal Loans](https://www.consumeraffairs.com/finance/personal-loans/)
+    
+* [Best Mortgage Lenders](https://www.consumeraffairs.com/finance/finance__companies.htm)
+    
+* [Best HELOC Lenders](https://www.consumeraffairs.com/finance/heloc/)
+    
+* [Best Gold Dealers](https://www.consumeraffairs.com/finance/gold-dealers/)
+    
+* [Best Debt Settlement](https://www.consumeraffairs.com/finance/debt-settlement/)
+    
+* [View all Finance](https://www.consumeraffairs.com/finance/financial_services.htm)
+    
+
+Senior
+
+* [Best Walk-in Tubs](https://www.consumeraffairs.com/homeowners/walk-in-bathtubs/)
+    
+* [Best Walk-in Showers](https://www.consumeraffairs.com/homeowners/walk-in-showers/)
+    
+* [Best Medical Alert Systems](https://www.consumeraffairs.com/medical-alert-systems/)
+    
+* [Best Stair Lifts](https://www.consumeraffairs.com/homeowners/stairlifts/)
+    
+* [Best Reverse Mortgages](https://www.consumeraffairs.com/reverse-mortgages/)
+    
+* [View all Senior](https://www.consumeraffairs.com/elder-care-planning/)
+    
+
+Customer Reviews
+
+Auto
+
+* [Endurance Warranty Reviews](https://www.consumeraffairs.com/auto_warranty/endurance-warranty.html)
+    
+* [CarShield Reviews](https://www.consumeraffairs.com/auto_warranty/carshield.html)
+    
+* [CARCHEX Reviews](https://www.consumeraffairs.com/auto_warranty/carchex.html)
+    
+* [View all Auto](https://www.consumeraffairs.com/automotive/automotive.htm)
+    
+
+Home
+
+* [SunPower Reviews](https://www.consumeraffairs.com/solar-energy/sunpower.html)
+    
+* [Sunrun Reviews](https://www.consumeraffairs.com/solar-energy/sunrun.html)
+    
+* [American Home Shield Reviews](https://www.consumeraffairs.com/insurance/am_home.html)
+    
+* [Choice Home Warranty Reviews](https://www.consumeraffairs.com/homeowners/choice_home_warranty.html)
+    
+* [ADT Reviews](https://www.consumeraffairs.com/homeowners/adt.htm)
+    
+* [Vivint Smart Home Reviews](https://www.consumeraffairs.com/homeowners/apx_alarm.html)
+    
+* [View all Home](https://www.consumeraffairs.com/homeowners/)
+    
+
+Finance
+
+* [Rocket Mortgage Reviews](https://www.consumeraffairs.com/finance/rocket-mortgage.html)
+    
+* [Quicken Loans Reviews](https://www.consumeraffairs.com/finance/quicken_loans_mortgage.html)
+    
+* [New American Funding Reviews](https://www.consumeraffairs.com/finance/new-american-funding.html)
+    
+* [Patriot Gold Group Reviews](https://www.consumeraffairs.com/finance/patriot-gold.html)
+    
+* [AmeriSave Mortgage Reviews](https://www.consumeraffairs.com/finance/amerisave_mortgage.html)
+    
+* [View all Finance](https://www.consumeraffairs.com/finance/financial_services.htm)
+    
+
+Senior
+
+* [Safe Step Walk-in Tubs Reviews](https://www.consumeraffairs.com/homeowners/safe-step-walk-in-tubs.html)
+    
+* [American Standard Walk-in Baths Reviews](https://www.consumeraffairs.com/homeowners/american-standard-walk-in-baths.html)
+    
+* [ADT Medical Alert Reviews](https://www.consumeraffairs.com/medical-alert-systems/adt.html)
+    
+* [Medical Guardian Reviews](https://www.consumeraffairs.com/medical-alert-systems/medical-guardian.html)
+    
+* [View all Senior](https://www.consumeraffairs.com/elder-care-planning/)
+    
+
+[News](https://www.consumeraffairs.com/news04/)
+
+[Write a review](https://www.consumeraffairs.com/review/write/)
 
 [Log in](https://accounts.consumeraffairs.com/?next=https%3A//www.consumeraffairs.com/about/privacy_policy/)
 
