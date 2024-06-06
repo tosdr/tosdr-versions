@@ -1,24 +1,24 @@
-📊 Now LIVE: [**2024 Q1 Crypto Industry Report**](https://bit.ly/2024-Q1-Report)
+We’ve updated our Privacy Policy! [**Learn more**](https://bit.ly/457gzQD)
 
-Coins: [14,341](https://www.coingecko.com/)
+Coins: [14,681](https://www.coingecko.com/)
 
-Exchanges: [1,099](https://www.coingecko.com/en/exchanges)
+Exchanges: [1,117](https://www.coingecko.com/en/exchanges)
 
-Market Cap: [$2.672T](https://www.coingecko.com/en/global-charts) 6.0%
+Market Cap: [$2.79T](https://www.coingecko.com/en/global-charts) 0.5%
 
-24h Vol: [$114.602B](https://www.coingecko.com/en/global-charts)
+24h Vol: [$79.642B](https://www.coingecko.com/en/global-charts)
 
 Dominance:
 
-[BTC 51.5%](https://www.coingecko.com/en/global-charts) [ETH 15.3%](https://www.coingecko.com/en/global-charts)
+[BTC 50.3%](https://www.coingecko.com/en/global-charts) [ETH 16.6%](https://www.coingecko.com/en/global-charts)
 
-Gas: 63 GWEI
+Gas: 21 GWEI
 
-Fast: 68 GWEI
+Fast: 26 GWEI
 
-Standard: 63 GWEI
+Standard: 21 GWEI
 
-Safe: 63 GWEI
+Safe: 21 GWEI
 
 Data by Etherscan
 
@@ -139,7 +139,7 @@ Close
 CoinGecko Web Site Privacy Policy
 =================================
 
-_Latest Version: 1 September 2022_
+_Latest Version: 24 May 2024_
 
 This Privacy Policy ("**Privacy Policy**") sets out the terms and conditions under which Gecko Labs Pte. Ltd. (“**Company**”, “**CoinGecko**”, “**we**”, “**our**”, or “**us**”) collects information via our website [www.coingecko.com](https://www.coingecko.com/) (“**Website**”), our associated mobile application and other applications made available by our Company (collectively “**App**”). Through our Website and App (collectively, “**Site**”), CoinGecko provides information on cryptocurrency, utility tokens, digital coins/currency, initial coin offerings that do not amount to an offering of securities or securities-tokens (“**ICO**”) and other digital currency related information, as well as APIs (including but not limited to the CoinGecko API), widgets, plugins, extensions, patches, decentralized token swaps, coin purchases, listing of coins, ICO, new exchange listing, and/or events listing (“**Activity Post**”), features for online subscription, registration of account, registration of interest for any of our services or events, our messaging services, update functions, loyalty rewards program (currently known as “CoinGecko Candy” but which may be amended from time to time in our Company’s sole discretion), and/or any other services and products provided by our Company whether by itself or in conjunction with other third parties (individually and collectively, our “**Site Services**”). As such, this Privacy Policy applies to any person (hereinafter referred to as “**you**” or “**user**”) who accesses, reads, participates in, or uses our Website, App and APIs (including any variations, updates, support patches or successors), forums, blogs, any of our Site Services, and/or any charts, rankings, pricing, trading volume, articles, news, press release, analysis, reports, information, write-ups, photographs, pictures, profiles, testimonials, tips, advertisements, media files and other content on our Website, our App, and our Site Services (collectively, “**Site Content**”), as well as to any person who receives our news updates, news summaries, press release updates, reports, analysis, newsletters, EDMs, marketing materials, promotional updates, support patches, technical updates, new version releases (whether for our APIs or App), messages (via any channels), or other emails (collectively, "Updates"). “Site Content” and “**Updates**” collectively shall be referred to as “**Content**”. For the avoidance of doubt, all Content and Site Services pertain only to cryptocurrency, and not any products or instruments that can be classified as “securities” thereunder the Securities and Futures Act (Cap. 289).
 
@@ -149,7 +149,7 @@ A. Please note that your access to and use of our Site is subject to our [Websit
 
 B. In order to maximise your utility of our Website, our Content, our Site Services, App, our products, our other services, and respective content thereto, request information from us (whether online or offline, via App, the telephone, exhibitions, road shows or other events), use our CoinGecko API, list your Activity Post on our Website, take-part in our promotions (online or offline), subscribe and/or receive our Updates, and other related matters, your Personal Data (as defined in clause 1.2 below) has to be provided to us, and we will need to keep and use your Personal Data in order to fulfil the purpose for which you have contacted us, subscribed to our Updates and/or other services.
 
-For expediency and for compliance with any changes in the law, we reserve the right to amend this Privacy Policy in our sole discretion at any time without prior notice to you, and you agree that your continued access to and/or use of our Website, App, our Site Services (including but not limited to our CoinGecko API), and/or other associated platforms, your continued desire to view our Content, receive our Updates, check for our news, cryptocurrency trading-related information and articles online or offline, keep in contact with us via email, and/or take-part in our promotions (whether notified to you or made available online or offline, via email, telephone, road shows or other events) constitutes your unconditional acceptance of our amended Privacy Policy, the date of the latest version that is in force being indicated by the “Latest Version” date shown at the start of the Privacy Policy. You agree that it is your sole responsibility to keep yourself updated of any amendments by reviewing this [Privacy Policy](https://www.coingecko.com/en/privacy) at our Website regularly.
+For expediency and for compliance with any changes in the law, we reserve the right to amend this Privacy Policy in our sole discretion at any time (without prior notice to you where such amendments are immaterial and/or not required by applicable law), and you agree that your continued access to and/or use of our Website, App, our Site Services (including but not limited to our CoinGecko API), and/or other associated platforms, your continued desire to view our Content, receive our Updates, check for our news, cryptocurrency trading-related information and articles online or offline, keep in contact with us via email, and/or take-part in our promotions (whether notified to you or made available online or offline, via email, telephone, road shows or other events) constitutes your unconditional acceptance of our amended Privacy Policy, the date of the latest version that is in force being indicated by the “Latest Version” date shown at the start of the Privacy Policy. You agree that it is your sole responsibility to keep yourself updated of any amendments by reviewing this [Privacy Policy](https://www.coingecko.com/en/privacy) at our Website regularly. Nonetheless, for material amendments or where advance notice is required by law, we will notify you before such amendments to this Privacy Policy take effect.
 
 #### **1\. Types of Data Collected**
 
@@ -278,7 +278,7 @@ Without limiting the generality of the abovegoing, your ETH Address will be expo
 
 14.6 As we are a business based in Singapore, your Personal Data will be transferred to countries that are not members of the European Union, including countries such as Singapore which may not mandate the same obligations of data protection as the European Union. Nonetheless, please be assured that we adopt appropriate measures to ensure that recipients (as described in Section 4 above) of your Personal Data are bound to obligations of protection, security and confidentiality similar to the obligations hereunder this Privacy Policy, including but not limited to the use of contractual clauses in our contracts/terms and conditions with such recipients.
 
-14.7 As a citizen of, or resident in, any members of the European Union, you can exercise your following data protection rights at any time by contacting us via the details provided in Clause 14.8:- § You have the right to request access to, correction of, updating or deleting of your Personal Data held with us; § You have the right to object to processing of your Personal Data based on our legitimate interests, and also the separate right to object to direct marketing activities and communications from us; § You have the right to request that in certain situations, to restrict processing of your Personal Data; § You have the right to request for your Personal Data in electronic format for portability; § You are entitled at any time to opt-out of marketing communications. Please opt out by clicking on the “opt-out” or “unsubscribe” hyperlink in the marketing e-mails that you may receive. To opt-out of other forms of marketing (such as letters via post, SMSes, Whatsapp, or telemarketing), please notify us using the contact details as set out in Clause 14.8. § You are entitled to withdraw your consent to our collection and processing of your Personal Data at any time. However, there may be consequences (such as your inability to receive Updates that you may have requested or paid for) arising from such withdrawal which we will inform you at the appropriate juncture. For the avoidance of doubt, your withdrawal of consent will not render our prior processing of your Personal Data unlawful, nor will your consent withdrawal impede the processing of your Personal Data performed based on lawful processing grounds other than consent. § You may at any time submit a complain to a data protection regulatory authority about our collection and use of your Personal Data. Please check with your local data protection regulatory authority for more details in submitting such complaints. § We will respond to all requests we receive pertaining to the exercise of an individual’s data protection rights in accordance with applicable data protection laws. In the event that you become aware of changes or inaccuracies in your Personal Data, please notify us promptly for the updating and correction of our records.
+14.7 As a citizen of, or resident in, any members of the European Union, you can exercise your following data protection rights at any time by contacting us via the details provided in Clause 14.8:- § You have the right to request access to, correction of, updating or deleting of your Personal Data held with us; § You have the right to object to processing of your Personal Data based on our legitimate interests, and also the separate right to object to direct marketing activities and communications from us; § You have the right to request that in certain situations, to restrict processing of your Personal Data; § You have the right to request for your Personal Data in electronic format for portability; § You are entitled at any time to opt-out of e-marketing communications (if you had previously consented to them). Please opt out by clicking on the “opt-out” or “unsubscribe” hyperlink in the marketing e-mails that you may receive. To opt-out of other forms of marketing (such as letters via post, SMSes, Whatsapp, or telemarketing), please notify us using the contact details as set out in Clause 14.8. § You are entitled to withdraw your consent to our collection and processing of your Personal Data at any time. However, there may be consequences (such as your inability to receive Updates that you may have requested or paid for) arising from such withdrawal which we will inform you at the appropriate juncture. For the avoidance of doubt, your withdrawal of consent will not render our prior processing of your Personal Data unlawful, nor will your consent withdrawal impede the processing of your Personal Data performed based on lawful processing grounds other than consent. § You may at any time submit a complain to a data protection regulatory authority about our collection and use of your Personal Data. Please check with your local data protection regulatory authority for more details in submitting such complaints. § We will respond to all requests we receive pertaining to the exercise of an individual’s data protection rights in accordance with applicable data protection laws. In the event that you become aware of changes or inaccuracies in your Personal Data, please notify us promptly for the updating and correction of our records.
 
 14.8 Should you have any queries, concerns or requests pertaining to the legal basis pursuant to which we collect, use and process your Personal Data, your Personal Data held with us, this Privacy Policy or any other matters related to your privacy associated with our Company and our services, please contact our Data Protection Officer at:-
 
@@ -315,13 +315,13 @@ Donate Ethereum
 
 Support
 
-[Request Form](https://www.coingecko.com/request)[Advertising](https://gcko.io/coingeckoads)[Candy Rewards Listing](https://www.coingecko.com/en/candy/partners-getting-started)[Help Center](https://support.coingecko.com/)[Bug Bounty](https://hackenproof.com/coingecko/coingecko)[FAQ](https://www.coingecko.com/en/faq)
+[Request Form](https://www.coingecko.com/request-form?locale=en)[Advertising](https://gcko.io/coingeckoads)[Candy Rewards Listing](https://www.coingecko.com/en/candy/partners-getting-started)[Help Center](https://support.coingecko.com/)[Bug Bounty](https://hackenproof.com/coingecko/coingecko)[FAQ](https://www.coingecko.com/en/faq)
 
 About CoinGecko
 
 [About Us](https://www.coingecko.com/en/about)[Careers
 
-Join Us](https://careers.coingecko.com/)[Company Blog](https://blog.coingecko.com/)[Branding Guide](https://www.coingecko.com/en/branding)[Methodology](https://www.coingecko.com/en/methodology)[Disclaimer](https://www.coingecko.com/en/disclaimer)[Terms of Service](https://www.coingecko.com/en/terms)[Privacy Policy](https://www.coingecko.com/en/privacy)[Ad Policy](https://www.coingecko.com/en/ad_policy)
+Join Us](https://careers.coingecko.com/)[Company Blog](https://blog.coingecko.com/)[Branding Guide](https://brand.coingecko.com/)[Methodology](https://www.coingecko.com/en/methodology)[Disclaimer](https://www.coingecko.com/en/disclaimer)[Terms of Service](https://www.coingecko.com/en/terms)[Privacy Policy](https://www.coingecko.com/en/privacy)[Ad Policy](https://www.coingecko.com/en/ad_policy)
 
 Cookie Preferences
 
@@ -815,7 +815,7 @@ Resend confirmation instructions
 
 Get the CoinGecko app.
 
-Scan this QR code to download the app now ![App QR Code](https://static.coingecko.com/s/mobile_landing/mobile-app-qr-9d79bd00d0aad146ad845a9208341b0bfbd6d57cbbf60e6684842fffeedac18c.svg) Or check it out in the app stores
+Scan this QR code to download the app now ![App QR Code](https://static.coingecko.com/s/landing_pages/mobile_app_qr_code-503a3393ccc355a8c41ea1a4026c31db469665b66c47847b347e2447c80feea3.svg) Or check it out in the app stores
 
  [![Google Play Store Button](https://static.coingecko.com/s/coingecko_logos/google_play_store-cb1f298b04afa7f74639a948d9b2e22e4aa6eea9486a2b0442c2cf9bdcda63e8.svg)](https://coingecko.app.link/footer-android)[![Apple App Store Button](https://static.coingecko.com/s/coingecko_logos/apple_app_store-558245a688cc13737dfb861fd82b252d75d5afbaf343c06e3067a454675bbe05.svg)](https://coingecko.app.link/footer-ios)
 
