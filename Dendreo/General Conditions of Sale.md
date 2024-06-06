@@ -1,4 +1,4 @@
-[![Dendreo](https://assets-global.website-files.com/5e723ebc919755a129931937/66014fda86a29efd17415288_logo-dendreo-alt.svg)](https://www.dendreo.com/)
+[![Dendreo](https://cdn.prod.website-files.com/5e723ebc919755a129931937/66014fda86a29efd17415288_logo-dendreo-alt.svg)](https://www.dendreo.com/)
 
 Fonctionnalités
 
@@ -44,7 +44,7 @@ Ressources
 
 [Se connecter](https://pro.dendreo.com/login)[Voir une démo](https://www.dendreo.com/decouvrez-dendreo-demonstration-en-webinar)[Créez mon compte](https://cta-redirect.hubspot.com/cta/redirect/8934096/a929254c-8051-40fa-8ed0-f490c75c5700)
 
-[![Dendreo](https://assets-global.website-files.com/5e723ebc919755a129931937/66014fda86a29efd17415288_logo-dendreo-alt.svg)](https://www.dendreo.com/)
+[![Dendreo](https://cdn.prod.website-files.com/5e723ebc919755a129931937/66014fda86a29efd17415288_logo-dendreo-alt.svg)](https://www.dendreo.com/)
 
 Fonctionnalités
 
@@ -623,7 +623,7 @@ Ressources
 
 © 2011-2024 Dendreo. Tous droits réservés.
 
-[![Facebook](https://assets-global.website-files.com/5e723ebc919755a129931937/5e85e36e8a9713459d000d3b_icon-facebook.svg)](https://www.facebook.com/dendreo/)[![LinkedIn](https://assets-global.website-files.com/5e723ebc919755a129931937/5e85e36ffcf9a708d4bae7cb_icon-linkedin.svg)](https://www.linkedin.com/company/dendreo/)[![Twitter](https://assets-global.website-files.com/5e723ebc919755a129931937/5e85e36e1ad657121b48af8d_icon-twitter.svg)](https://twitter.com/dendreo)
+[![Facebook](https://cdn.prod.website-files.com/5e723ebc919755a129931937/5e85e36e8a9713459d000d3b_icon-facebook.svg)](https://www.facebook.com/dendreo/)[![LinkedIn](https://cdn.prod.website-files.com/5e723ebc919755a129931937/5e85e36ffcf9a708d4bae7cb_icon-linkedin.svg)](https://www.linkedin.com/company/dendreo/)[![Twitter](https://cdn.prod.website-files.com/5e723ebc919755a129931937/5e85e36e1ad657121b48af8d_icon-twitter.svg)](https://twitter.com/dendreo)
 
 Salut, c'est nous... les Cookies ! 👋 🍪
 
@@ -660,5 +660,3 @@ Essential
 Outils permettant la mesure de l'audience
 
 [Confirmer mes préférences](#)
-
-![](https://px.ads.linkedin.com/collect/?pid=5084154&fmt=gif)
