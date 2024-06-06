@@ -2,9 +2,6 @@
 
 * Today's Paper
 
-* [Subscribe](https://subscribe.afr.com/?promote_channel=HI_HL_GNL&utm_source=afr.com&utm_medium=HouseInventory&utm_campaign=General&utm_content=HDR)
-    
-
 * Today's Paper
 * [Markets Data](https://www.afr.com/markets-data)
 * [Events](https://www.afr.com/afrlive)
@@ -322,59 +319,57 @@ Advertise
 [The Australian Financial Review Magazine](https://www.afr.com/afr-magazine)
 ----------------------------------------------------------------------------
 
-[![ ](https://static.ffx.io/images/$zoom_0.3417%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_286%2C$y_237/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/d12791f021cd18c6003afaf4636d3b7ecf0b1cf5)](https://www.afr.com/wealth/people/philanthropy-50-which-australians-gave-away-the-most-in-2023-20240308-p5favg)
+[![ ](https://static.ffx.io/images/$zoom_0.6623%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/564b64b88c5f2f146c87e486b3837b6a3eb44f84)](https://www.afr.com/life-and-luxury/food-and-wine/it-s-like-a-little-chef-s-secret-an-easy-recipe-for-pasta-and-squid-20240319-p5fdov)
 
-### [Philanthropy 50: Which Australians gave away the most in 2023?](https://www.afr.com/wealth/people/philanthropy-50-which-australians-gave-away-the-most-in-2023-20240308-p5favg) 
+### [An easy pasta with flavour-bomb of XO sauce that many don’t know about](https://www.afr.com/life-and-luxury/food-and-wine/it-s-like-a-little-chef-s-secret-an-easy-recipe-for-pasta-and-squid-20240319-p5fdov)
 
-* 12 mins ago
-* Lisa Murray
+* Jill Dupleix
 
-* ### [What women want: more colour, bigger watches](https://www.afr.com/life-and-luxury/fashion-and-style/what-women-want-more-colour-bigger-watches-20240308-p5favf)
+* ### [Max Allen reviews three top drops from a shiraz-obsessed former chef](https://www.afr.com/life-and-luxury/food-and-wine/max-allen-reviews-three-top-drops-from-a-shiraz-obsessed-former-chef-20240319-p5fdou)
     
-* ### [Say nay to beige – the best new interiors are awash in vibrant colour](https://www.afr.com/life-and-luxury/design/say-nay-to-beige-the-best-new-interiors-are-awash-in-vibrant-colour-20240308-p5fav3)
+* ### [Tag Heuer relaunches the ’80s watches that made it famous](https://www.afr.com/life-and-luxury/fashion-and-style/tag-heuer-relaunches-the-80s-watches-that-made-it-famous-20240319-p5fdow)
     
 
 [BOSS Financial Review](https://www.afr.com/boss)
 -------------------------------------------------
 
-[![Woodside Energy chairman Richard Goyder has already indicated to some shareholders that this will be his last term.](https://static.ffx.io/images/$zoom_0.1966%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_154%2C$y_53/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/0ecc6288bf2a487cbaf5ab151fee6e5d864f7a68)](https://www.afr.com/policy/energy-and-climate/richard-goyder-counts-down-the-days-at-woodside-qantas-and-the-afl-20240418-p5fkxy)
+[![Nathan Damm is one of four AI prompt engineers at KPMG. ](https://static.ffx.io/images/$zoom_0.4771%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_943%2C$y_130/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/e87ebc8c8437ff54b7e2881ee8b2bc3b65da9cfd)](https://www.afr.com/work-and-careers/workplace/why-kpmg-employs-four-full-time-prompt-engineers-20240503-p5fonu)
 
-### [Richard Goyder counts down the days at Woodside, Qantas and the AFL](https://www.afr.com/policy/energy-and-climate/richard-goyder-counts-down-the-days-at-woodside-qantas-and-the-afl-20240418-p5fkxy)
+### [Why KPMG employs four full-time ‘prompt engineers’](https://www.afr.com/work-and-careers/workplace/why-kpmg-employs-four-full-time-prompt-engineers-20240503-p5fonu)
 
-* Patrick Durkin
+* Euan Black
 
-* ### [Why this CEO keeps Fridays for thinking](https://www.afr.com/work-and-careers/leaders/why-this-ceo-keeps-fridays-for-thinking-20240415-p5fjwj)
+* ### [Olympian Grant Hackett’s rise from rock bottom to top 500 CEO](https://www.afr.com/companies/financial-services/olympian-grant-hackett-s-rise-from-rock-bottom-to-top-500-ceo-20240523-p5jg3r)
     
-* ### [Why this top 100 CEO gets his executives to swap jobs](https://www.afr.com/work-and-careers/leaders/why-techone-s-ceo-gets-his-executives-to-swap-jobs-20240415-p5fjw8)
+* ### [How Geoff Wilson assembled his investment dream team](https://www.afr.com/work-and-careers/workplace/how-geoff-wilson-assembled-his-investment-dream-team-20240510-p5jcnn)
     
 
 [Life & Leisure](https://www.afr.com/life-and-leisure)
 ------------------------------------------------------
 
-[![Bonsai expert Hugh Grant at his Mount Victoria workshop. ](https://static.ffx.io/images/$zoom_0.1331%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_109/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/6b986cb7ecb2174edd44c9ceb45ebee335aae3c4)](https://www.afr.com/life-and-luxury/design/mastering-the-little-things-how-bonsai-got-so-big-20240422-p5fln6)
+[![Adam Poole on the set of ‘The Lisbon Traviata’ at the Garrick Theatre in Perth.](https://static.ffx.io/images/$zoom_0.3876%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_1118%2C$y_838/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/97e934cf96a32f845fb96339a0da7fec32f3e206)](https://www.afr.com/life-and-luxury/health-and-wellness/juggling-your-day-job-with-a-hobby-after-hours-this-exec-pulls-it-off-20240529-p5jhj8)
 
-### [Mastering the little things: How bonsai got so big](https://www.afr.com/life-and-luxury/design/mastering-the-little-things-how-bonsai-got-so-big-20240422-p5fln6)
+### [Juggling your day job with a hobby after hours? This exec pulls it off](https://www.afr.com/life-and-luxury/health-and-wellness/juggling-your-day-job-with-a-hobby-after-hours-this-exec-pulls-it-off-20240529-p5jhj8)
 
-* 12 mins ago
-* Stephen Todd
+* Life & Leisure
 
-* ### [Samsung’s new OLED TV is the best TV ever. Or is it?](https://www.afr.com/technology/samsung-s-new-oled-tv-is-the-best-tv-ever-or-is-it-20240418-p5fkuq)
+* ### [Great escapes: Solo kayaking along Bali’s northern coastline](https://www.afr.com/life-and-luxury/travel/great-escapes-solo-kayaking-along-bali-s-northern-coastline-20240423-p5fm0c)
     
-* ### [This exec chills out by listening to white noise below the waves](https://www.afr.com/life-and-luxury/health-and-wellness/this-exec-chills-out-by-listening-to-white-noise-below-the-waves-20240416-p5fkb5)
+* ### [The new rock stars of the wine industry might surprise you](https://www.afr.com/life-and-luxury/food-and-wine/the-new-rock-stars-of-the-wine-industry-might-surprise-you-20240529-p5jhp2)
     
 
 [Rich List](https://www.afr.com/rich-list)
 ------------------------------------------
 
-[![ ](https://static.ffx.io/images/$zoom_0.6623%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/e9da06a760247fbbc34c3401ae5d3c11f12f1911)](https://www.afr.com/wealth/people/the-homeschooled-billionaire-who-built-a-fortune-before-turning-40-20240419-p5fl9b)
+[![The hotel is part of the Roche family’s Calypso Bay master-planned estate.](https://static.ffx.io/images/$zoom_0.3531%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_110/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/a714d219bf38553f1ba979e5116cc029eda30bb3)](https://www.afr.com/property/commercial/rich-listers-list-gold-coast-waterfront-tavern-20240604-p5jj5e)
 
-### [The homeschooled billionaire who built a fortune before turning 40](https://www.afr.com/wealth/people/the-homeschooled-billionaire-who-built-a-fortune-before-turning-40-20240419-p5fl9b)
+### [Rich Listers list Gold Coast waterfront tavern](https://www.afr.com/property/commercial/rich-listers-list-gold-coast-waterfront-tavern-20240604-p5jj5e)
 
-* Julie-anne Sprague
+* Larry Schlesinger
 
-* ### [Goldman eyes local banking licence to grow ultrarich lending business](https://www.afr.com/companies/financial-services/goldman-eyes-local-banking-licence-to-grow-ultrarich-lending-business-20240419-p5fl4e)
+* ### [Boost for Afterpay as Block drops plans for Cash App in Australia](https://www.afr.com/companies/financial-services/block-to-expand-afterpay-not-cash-app-in-australia-nick-molnar-20240604-p5jj3l)
     
-* ### [$650 for RM’s? ‘People want handcrafted,’ says Nicola Forrest](https://www.afr.com/companies/manufacturing/800-for-a-pair-of-rm-s-not-a-problem-for-women-says-nicola-forrest-20240415-p5fjwr)
+* ### [A Young Rich Lister’s advice for founders wanting social media success](https://www.afr.com/wealth/people/a-young-rich-lister-s-advice-for-founders-wanting-social-media-success-20240530-p5ji3r)
     
 
 [The Australian Financial Review](https://www.afr.com/)
