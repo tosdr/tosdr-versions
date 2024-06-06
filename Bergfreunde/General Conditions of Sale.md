@@ -1,8 +1,10 @@
+[Zum Hauptinhalt wechseln](#main-section)
+
 ### Neu?
 
-![Bergfreund Hannes](https://www.bergfreunde.de/out/pictures/img/avatar/avatar-hannes.png)
+![Bergfreundin Hannah](https://www.bergfreunde.de/out/pictures/img/avatar/avatar-hannah.png)
 
-Bergfreund Hannes
+Bergfreundin Hannah
 
 "Herzlich willkommen bei den Bergfreunden!"
 
@@ -189,11 +191,11 @@ Menü
         * [2-Personen Zelte](https://www.bergfreunde.de/2-personen-zelte/ "2-Personen Zelte anzeigen")
         * [3-Personen Zelte](https://www.bergfreunde.de/3-personen-zelte/ "3-Personen Zelte anzeigen")
         * [» mehr anzeigen](https://www.bergfreunde.de/zelte/ "Zelte anzeigen")
-    * [Outdoor Küche](https://www.bergfreunde.de/outdoor-kueche/ "Outdoor Küche anzeigen")
-        * [Outdoor Kocher](https://www.bergfreunde.de/outdoor-kocher/ "Outdoor Kocher anzeigen")
+    * [Kochen & Verpflegung](https://www.bergfreunde.de/kochen-verpflegung/ "Kochen & Verpflegung anzeigen")
+        * [Campingkocher](https://www.bergfreunde.de/campingkocher/ "Campingkocher anzeigen")
         * [Trinkflaschen & Wasserträger](https://www.bergfreunde.de/trinkflaschen-wassertraeger/ "Trinkflaschen & Wasserträger anzeigen")
         * [Töpfe & Geschirr](https://www.bergfreunde.de/toepfe-geschirr/ "Töpfe & Geschirr anzeigen")
-        * [» mehr anzeigen](https://www.bergfreunde.de/outdoor-kueche/ "Outdoor Küche anzeigen")
+        * [» mehr anzeigen](https://www.bergfreunde.de/kochen-verpflegung/ "Kochen & Verpflegung anzeigen")
     * [Stöcke](https://www.bergfreunde.de/stoecke/ "Stöcke anzeigen")
         * [Trekkingstöcke](https://www.bergfreunde.de/trekkingstoecke/ "Trekkingstöcke anzeigen")
         * [Trailrunning Stöcke](https://www.bergfreunde.de/trailrunning-stoecke/ "Trailrunning Stöcke anzeigen")
@@ -224,11 +226,11 @@ Menü
         * [Uhren](https://www.bergfreunde.de/uhren/ "Uhren anzeigen")
         * [Kompasse](https://www.bergfreunde.de/kompasse/ "Kompasse anzeigen")
         * [» mehr anzeigen](https://www.bergfreunde.de/navigation-uhren/ "Navigation & Uhren anzeigen")
-    * [Training & Fitness](https://www.bergfreunde.de/training-fitness/ "Training & Fitness anzeigen")
+    * [Yoga & Training](https://www.bergfreunde.de/yoga-training/ "Yoga & Training anzeigen")
         * [Trainingsgeräte](https://www.bergfreunde.de/trainingsgeraete/ "Trainingsgeräte anzeigen")
         * [Yoga- & Gymnastikmatten](https://www.bergfreunde.de/yoga-gymnastikmatten/ "Yoga- & Gymnastikmatten anzeigen")
         * [Yogazubehör](https://www.bergfreunde.de/yogazubehoer/ "Yogazubehör anzeigen")
-        * [» mehr anzeigen](https://www.bergfreunde.de/training-fitness/ "Training & Fitness anzeigen")
+        * [» mehr anzeigen](https://www.bergfreunde.de/yoga-training/ "Yoga & Training anzeigen")
     * [Schwimm- & Strandzubehör](https://www.bergfreunde.de/schwimm-strandzubehoer/ "Schwimm- & Strandzubehör anzeigen")
         * [Schwimmhilfen](https://www.bergfreunde.de/schwimmhilfen/ "Schwimmhilfen anzeigen")
         * [Schwimmflossen](https://www.bergfreunde.de/schwimmflossen/ "Schwimmflossen anzeigen")
@@ -369,22 +371,22 @@ Menü
     
 * [Winter](https://www.bergfreunde.de/winterausruestung/)
     
-    * [Skibekleidung](https://www.bergfreunde.de/outdoor-bekleidung/einsatzbereich--ski/ "Skibekleidung anzeigen")
+    * [Skibekleidung](https://www.bergfreunde.de/outdoor-bekleidung/einsatzbereich--/ "Skibekleidung anzeigen")
         * [Skijacken](https://www.bergfreunde.de/skijacken/ "Skijacken anzeigen")
         * [Skihosen](https://www.bergfreunde.de/skihosen/ "Skihosen anzeigen")
         * [Skiunterwäsche](https://www.bergfreunde.de/skiunterwaesche/ "Skiunterwäsche anzeigen")
         * [Skisocken](https://www.bergfreunde.de/skisocken/ "Skisocken anzeigen")
-        * [Skihandschuhe](https://www.bergfreunde.de/handschuhe/einsatzbereich--ski/ "Skihandschuhe anzeigen")
-        * [Skipullover](https://www.bergfreunde.de/pullover-hoodies/einsatzbereich--ski/ "Skipullover anzeigen")
-        * [» mehr anzeigen](https://www.bergfreunde.de/outdoor-bekleidung/einsatzbereich--ski/ "Skibekleidung anzeigen")
-    * [Winterbekleidung](https://www.bergfreunde.de/outdoor-bekleidung/einsatzbereich--ski/?bfc-einsatzbereich[]=snowboard&bfc-einsatzbereich[]=langlauf&bfc-einsatzbereich[]=eisklettern&bfc-einsatzbereich[]= "Winterbekleidung anzeigen")
+        * [Skihandschuhe](https://www.bergfreunde.de/handschuhe/einsatzbereich--/ "Skihandschuhe anzeigen")
+        * [Skipullover](https://www.bergfreunde.de/pullover-hoodies/einsatzbereich--/ "Skipullover anzeigen")
+        * [» mehr anzeigen](https://www.bergfreunde.de/outdoor-bekleidung/einsatzbereich--/ "Skibekleidung anzeigen")
+    * [Winterbekleidung](https://www.bergfreunde.de/outdoor-bekleidung/einsatzbereich--/?bfc-einsatzbereich[]=snowboard&bfc-einsatzbereich[]=langlauf&bfc-einsatzbereich[]=eisklettern&bfc-einsatzbereich[]= "Winterbekleidung anzeigen")
         * [Winterjacken](https://www.bergfreunde.de/winterjacken/ "Winterjacken anzeigen")
         * [Daunenjacken](https://www.bergfreunde.de/daunenjacken/ "Daunenjacken anzeigen")
         * [Winterhosen](https://www.bergfreunde.de/winterhosen/ "Winterhosen anzeigen")
         * [Merinounterwäsche](https://www.bergfreunde.de/merinounterwaesche/ "Merinounterwäsche anzeigen")
         * [Merinosocken](https://www.bergfreunde.de/merinosocken/ "Merinosocken anzeigen")
         * [Handschuhe](https://www.bergfreunde.de/handschuhe/ "Handschuhe anzeigen")
-        * [» mehr anzeigen](https://www.bergfreunde.de/outdoor-bekleidung/einsatzbereich--ski/?bfc-einsatzbereich[]=snowboard&bfc-einsatzbereich[]=langlauf&bfc-einsatzbereich[]=eisklettern&bfc-einsatzbereich[]= "Winterbekleidung anzeigen")
+        * [» mehr anzeigen](https://www.bergfreunde.de/outdoor-bekleidung/einsatzbereich--/?bfc-einsatzbereich[]=snowboard&bfc-einsatzbereich[]=langlauf&bfc-einsatzbereich[]=eisklettern&bfc-einsatzbereich[]= "Winterbekleidung anzeigen")
     * [Ski-Ausrüstung](https://www.bergfreunde.de/ski-ausruestung/ "Ski-Ausrüstung anzeigen")
         * [Skihelme](https://www.bergfreunde.de/skihelme/ "Skihelme anzeigen")
         * [Skibrillen](https://www.bergfreunde.de/skibrillen/ "Skibrillen anzeigen")
@@ -419,77 +421,77 @@ Menü
     
 * [Alle Sportarten](https://www.bergfreunde.de/aktivitaeten/)
     
-    * [Wandern](https://www.bergfreunde.de/wandern/ "Wandern")
+    * [Wandern](https://www.bergfreunde.de/wandern/ "Wandern anzeigen")
         * [Wanderbekleidung](https://www.bergfreunde.de/outdoor-bekleidung/einsatzbereich--wandern/ "Wanderbekleidung anzeigen")
         * [Wanderschuhe](https://www.bergfreunde.de/wanderschuhe/ "Wanderschuhe anzeigen")
         * [Wandersocken](https://www.bergfreunde.de/wandersocken/ "Wandersocken anzeigen")
         * [Wanderrucksäcke](https://www.bergfreunde.de/wanderrucksaecke/ "Wanderrucksäcke anzeigen")
         * [Wanderstöcke](https://www.bergfreunde.de/trekkingstoecke/ "Wanderstöcke anzeigen")
         * [» mehr anzeigen](https://www.bergfreunde.de/wandern/ "mehr anzeigen")
-    * [Bike](https://www.bergfreunde.de/fahrrad/ "Bike")
+    * [Bike](https://www.bergfreunde.de/fahrrad/ "Bike anzeigen")
         * [Fahrradbekleidung](https://www.bergfreunde.de/outdoor-bekleidung/einsatzbereich--bike/ "Fahrradbekleidung anzeigen")
         * [Fahrradschuhe](https://www.bergfreunde.de/fahrradschuhe/ "Fahrradschuhe anzeigen")
         * [Fahrradhelme](https://www.bergfreunde.de/fahrradhelme/ "Fahrradhelme anzeigen")
         * [Fahrradbrillen](https://www.bergfreunde.de/fahrradbrillen/ "Fahrradbrillen anzeigen")
         * [Fahrradzubehör](https://www.bergfreunde.de/fahrradzubehoer/ "Fahrradzubehör anzeigen")
         * [» mehr anzeigen](https://www.bergfreunde.de/fahrrad/ "mehr anzeigen")
-    * [Klettern & Bouldern](https://www.bergfreunde.de/klettern-bouldern/ "Klettern & Bouldern")
+    * [Klettern & Bouldern](https://www.bergfreunde.de/klettern-bouldern/ "Klettern & Bouldern anzeigen")
         * [Kletterbekleidung](https://www.bergfreunde.de/outdoor-bekleidung/einsatzbereich--klettern/ "Kletterbekleidung anzeigen")
         * [Kletterschuhe](https://www.bergfreunde.de/kletterschuhe/ "Kletterschuhe anzeigen")
         * [Klettergurte](https://www.bergfreunde.de/klettergurte/ "Klettergurte anzeigen")
         * [Karabiner & Express-Sets](https://www.bergfreunde.de/karabiner-express-sets/ "Karabiner & Express-Sets anzeigen")
         * [Kletter- & Boulderzubehör](https://www.bergfreunde.de/kletter-boulderzubehoer/ "Kletter- & Boulderzubehör anzeigen")
         * [» mehr anzeigen](https://www.bergfreunde.de/klettern-bouldern/ "mehr anzeigen")
-    * [Running](https://www.bergfreunde.de/running/ "Running")
+    * [Running](https://www.bergfreunde.de/running/ "Running anzeigen")
         * [Laufbekleidung](https://www.bergfreunde.de/outdoor-bekleidung/einsatzbereich--running/ "Laufbekleidung anzeigen")
         * [Laufschuhe](https://www.bergfreunde.de/laufschuhe/ "Laufschuhe anzeigen")
         * [Trailrunningschuhe](https://www.bergfreunde.de/trailrunningschuhe/ "Trailrunningschuhe anzeigen")
         * [Laufausrüstung](https://www.bergfreunde.de/outdoor-ausruestung/einsatzbereich--running/ "Laufausrüstung anzeigen")
         * [Pulsuhren](https://www.bergfreunde.de/uhren/einsatzbereich--running/ "Pulsuhren anzeigen")
         * [» mehr anzeigen](https://www.bergfreunde.de/running/ "mehr anzeigen")
-    * [Wintersport](https://www.bergfreunde.de/wintersport/ "Wintersport")
-        * [Skibekleidung](https://www.bergfreunde.de/outdoor-bekleidung/einsatzbereich--ski/ "Skibekleidung anzeigen")
+    * [Wintersport](https://www.bergfreunde.de/wintersport/ "Wintersport anzeigen")
+        * [Skibekleidung](https://www.bergfreunde.de/outdoor-bekleidung/einsatzbereich--/ "Skibekleidung anzeigen")
         * [Ski-Ausrüstung](https://www.bergfreunde.de/ski-ausruestung/ "Ski-Ausrüstung anzeigen")
         * [Winterschuhe](https://www.bergfreunde.de/winterschuhe/ "Winterschuhe anzeigen")
         * [Schneeschuhe](https://www.bergfreunde.de/schneeschuhe/ "Schneeschuhe anzeigen")
         * [Lawinenrucksäcke](https://www.bergfreunde.de/lawinenrucksaecke/ "Lawinenrucksäcke anzeigen")
         * [» mehr anzeigen](https://www.bergfreunde.de/wintersport/ "mehr anzeigen")
-    * [Camping & Reisen](https://www.bergfreunde.de/camping/ "Camping & Reisen")
+    * [Camping & Reisen](https://www.bergfreunde.de/camping/ "Camping & Reisen anzeigen")
         * [Zelte](https://www.bergfreunde.de/zelte/ "Zelte anzeigen")
-        * [Outdoor-Küche](https://www.bergfreunde.de/outdoor-kueche/ "Outdoor-Küche anzeigen")
+        * [Outdoor-Küche](https://www.bergfreunde.de/kochen-verpflegung/ "Outdoor-Küche anzeigen")
         * [Campingstühle](https://www.bergfreunde.de/campingstuehle/ "Campingstühle anzeigen")
         * [Kulturbeutel](https://www.bergfreunde.de/kulturbeutel/ "Kulturbeutel anzeigen")
         * [Reisetaschen](https://www.bergfreunde.de/reisetaschen/ "Reisetaschen anzeigen")
         * [» mehr anzeigen](https://www.bergfreunde.de/camping/ "mehr anzeigen")
-    * [Urban Outdoor](https://www.bergfreunde.de/urban-outdoor/ "Urban Outdoor")
+    * [Urban Outdoor](https://www.bergfreunde.de/urban-outdoor/ "Urban Outdoor anzeigen")
         * [Alltagsbekleidung](https://www.bergfreunde.de/outdoor-bekleidung/einsatzbereich--freizeit/ "Alltagsbekleidung anzeigen")
         * [Freizeitschuhe](https://www.bergfreunde.de/outdoor-schuhe/einsatzbereich--freizeit/ "Freizeitschuhe anzeigen")
         * [Daypacks](https://www.bergfreunde.de/daypacks/ "Daypacks anzeigen")
         * [Freizeitjacken](https://www.bergfreunde.de/freizeitjacken/ "Freizeitjacken anzeigen")
         * [Caps](https://www.bergfreunde.de/caps/ "Caps anzeigen")
         * [» mehr anzeigen](https://www.bergfreunde.de/urban-outdoor/ "mehr anzeigen")
-    * [Hochtouren & Expedition](https://www.bergfreunde.de/hochtouren/ "Hochtouren & Expedition")
+    * [Hochtouren & Expedition](https://www.bergfreunde.de/hochtouren/ "Hochtouren & Expedition anzeigen")
         * [Hochtourenbekleidung](https://www.bergfreunde.de/outdoor-bekleidung/einsatzbereich--hochtouren/ "Hochtourenbekleidung anzeigen")
         * [Hochtouren- & Gletscherschuhe](https://www.bergfreunde.de/outdoor-schuhe/einsatzbereich--hochtouren/ "Hochtouren- & Gletscherschuhe anzeigen")
         * [Hochtourenausrüstung](https://www.bergfreunde.de/hochtouren-eisklettern/ "Hochtourenausrüstung anzeigen")
         * [Steigeisen](https://www.bergfreunde.de/steigeisen/ "Steigeisen anzeigen")
         * [Outdoor Lebensmittel](https://www.bergfreunde.de/outdoor-lebensmittel/ "Outdoor Lebensmittel anzeigen")
         * [» mehr anzeigen](https://www.bergfreunde.de/hochtouren/ "mehr anzeigen")
-    * [Trekking](https://www.bergfreunde.de/trekking/ "Trekking")
+    * [Trekking](https://www.bergfreunde.de/trekking/ "Trekking anzeigen")
         * [Trekkingbekleidung](https://www.bergfreunde.de/outdoor-bekleidung/einsatzbereich--trekking/ "Trekkingbekleidung anzeigen")
         * [Trekkingschuhe](https://www.bergfreunde.de/wanderschuhe/ "Trekkingschuhe anzeigen")
         * [Trekkingausrüstung](https://www.bergfreunde.de/outdoor-ausruestung/einsatzbereich--trekking/ "Trekkingausrüstung anzeigen")
         * [Trekkingzelte](https://www.bergfreunde.de/zelte/einsatzbereich--trekking/ "Trekkingzelte anzeigen")
-        * [Energieriegel](https://www.bergfreunde.de// "Energieriegel anzeigen")
+        * [Riegel](https://www.bergfreunde.de/riegel/ "Riegel anzeigen")
         * [» mehr anzeigen](https://www.bergfreunde.de/trekking/ "mehr anzeigen")
-    * [Fitness & Yoga](https://www.bergfreunde.de/fitness/ "Fitness & Yoga")
+    * [Fitness & Yoga](https://www.bergfreunde.de/fitness/ "Fitness & Yoga anzeigen")
         * [Fitnessbekleidung](https://www.bergfreunde.de/outdoor-bekleidung/einsatzbereich--fitness/ "Fitnessbekleidung anzeigen")
         * [Fitnessschuhe](https://www.bergfreunde.de/outdoor-schuhe/einsatzbereich--fitness/ "Fitnessschuhe anzeigen")
         * [Yogabekleidung](https://www.bergfreunde.de/outdoor-bekleidung/einsatzbereich--yoga/ "Yogabekleidung anzeigen")
-        * [Fitness-Ausrüstung](https://www.bergfreunde.de/training-fitness/ "Fitness-Ausrüstung anzeigen")
+        * [Fitness-Ausrüstung](https://www.bergfreunde.de/yoga-training/ "Fitness-Ausrüstung anzeigen")
         * [Trinkflaschen](https://www.bergfreunde.de/trinkflaschen/ "Trinkflaschen anzeigen")
         * [» mehr anzeigen](https://www.bergfreunde.de/fitness/ "mehr anzeigen")
-    * [Wassersport](https://www.bergfreunde.de/schwimmen-wassersport/ "Wassersport")
+    * [Wassersport](https://www.bergfreunde.de/schwimmen-wassersport/ "Wassersport anzeigen")
         * [Bademode](https://www.bergfreunde.de/bademode/ "Bademode anzeigen")
         * [Wassersportschuhe](https://www.bergfreunde.de/wassersportschuhe/ "Wassersportschuhe anzeigen")
         * [Packsäcke](https://www.bergfreunde.de/packsaecke/ "Packsäcke anzeigen")
@@ -533,6 +535,7 @@ Menü
     Highlights der Saison
     
     * [Jack Wolfskin: We Live to Discover](https://www.bergfreunde.de/jack-wolfskin-cp/ "Jack")
+    * [Maloja: The Story](https://www.bergfreunde.de/maloja-story-cp/ "Maloja'")
     
     [Alle Marken loader](https://www.bergfreunde.de/marken/ "Alle Outdoor Marken & Hersteller anzeigen")
     
@@ -571,9 +574,9 @@ schließen
 
 Wonach suchst Du?
 
-* [](https://www.bergfreunde.de/ "zur Startseite klettern")
-* /[Rechtliches](https://www.bergfreunde.de/rechtliches/ "Rechtliches")
-* /AGB
+1. [](https://www.bergfreunde.de/ "zur Startseite klettern")
+2. /[Rechtliches](https://www.bergfreunde.de/rechtliches/ "Rechtliches")
+3. /AGB
 
 Rechtliches
 -----------
@@ -753,7 +756,7 @@ Die in diesem Absatz genannten Modalitäten sind nicht Voraussetzung für die wi
 
 Die Rücksendung muss an folgende Adresse erfolgen:
 
-Bergfreunde GmbH C/O Rhenus Warehousing Solutions, Colemannstrasse 11, 35394 Gießen - Deutschland
+Bergfreunde GmbH, c/o Rhenus Warehousing Solutions, Colemanstrasse 11, 35394 Gießen - Deutschland
 
 (2) Rücksendekosten:  
 Für Verbraucher aus Deutschland und Österreich bieten wir kostenlose Rücksendungen an, anderenfalls trägt der Verbraucher die Kosten der Rücksendung. Der Verkäufer bietet einen bequemen Retourenlabelservice an. Informationen hierzu sowie zu den ggf. anfallenden Rücksendekosten findest du [hier](https://www.bergfreunde.de/rueckgabe/ "Zur Rückgabe-Seite"). Die Erstattung des Kaufpreises erfolgt über die für die ursprüngliche Zahlungsart verwendete Zahlungsmethode spätestens innerhalb von 30 Tagen nach Eingang der zurückgesandten Ware bei uns.
@@ -817,9 +820,9 @@ Weiterführende Informationen:
 
 Stand März 2024
 
-![Bergfreundin Johanna - Nachhaltigkeitsmanagement](https://www.bergfreunde.de/out/pictures/img/avatar/avatar-johanna.png) Bergfreundin Johanna - Nachhaltigkeitsmanagement
+![Bergfreundin Lisa - Versand](https://www.bergfreunde.de/out/pictures/img/avatar/avatar-lisa.png) Bergfreundin Lisa - Versand
 
-"Ich suche nach kleinen und großen Ideen, wie die Bergfreunde nachhaltiger werden können."
+"Wir geben alles, damit Dein Paket schnell bei Dir ankommt."
 
 [Portofrei ab € 69 (DE)](https://www.bergfreunde.de/versandkosten/ "Portofrei bei den Bergfreunden")
 
@@ -827,11 +830,11 @@ Stand März 2024
 
 [100 Tage Rückgaberecht](https://www.bergfreunde.de/rueckgabe/ "Informationen Rückgabe")
 
-[![So bewerten uns 44712 Kunden](https://www.bergfreunde.de/out/pictures/img/trust/trusted-shops-logo-big.png)](https://www.trustedshops.com/shop/certificate.php?shop_id=X8E9EAFD7E40A46630552D4A3F123CA67 "Wir sind Trusted Shops zertifiziert - Alle Infos hier!")
+[![So bewerten uns 44501 Kunden](https://www.bergfreunde.de/out/pictures/img/trust/trusted-shops-logo-big.png)](https://www.trustedshops.com/shop/certificate.php?shop_id=X8E9EAFD7E40A46630552D4A3F123CA67 "Wir sind Trusted Shops zertifiziert - Alle Infos hier!")
 
 [( 0 )
 
-So bewerten uns 44.712 Kunden](https://www.trustedshops.com/shop/certificate.php?shop_id=X8E9EAFD7E40A46630552D4A3F123CA67 "Wir sind Trusted Shops zertifiziert - Alle Infos hier!")
+So bewerten uns 44.501 Kunden](https://www.trustedshops.com/shop/certificate.php?shop_id=X8E9EAFD7E40A46630552D4A3F123CA67 "Wir sind Trusted Shops zertifiziert - Alle Infos hier!")
 
 holt 3x am Tag die Pakete bei uns ab
 
@@ -879,6 +882,7 @@ Kundenservice
 * [AGB](https://www.bergfreunde.de/agb/ "Mehr zu den Allgemeinen Geschäftsbedingungen") | [Datenschutz](https://www.bergfreunde.de/datenschutz/ "Informationen zum Datenschutz bei den Bergfreunde")
 * Cookie-Einstellungen
 * [Widerruf / Kundeninformationen](https://www.bergfreunde.de/kundeninformationen/ "Widerruf / Kundeninformationen der Bergfreunde")
+* [Campz Kunden](https://www.bergfreunde.de/campz-kundeninformationen/ "Campz Kunden")
 
 Über die Bergfreunde
 
