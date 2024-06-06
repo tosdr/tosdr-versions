@@ -40,18 +40,6 @@ From $18.99](https://coromega.com/products/omega-3)
 
 From $24.99](https://coromega.com/products/max-omega-3)
 
-[![](//coromega.com/cdn/shop/products/DigitalShelf_1024x1024.png?v=1654707311)](https://coromega.com/products/copy-of-coromega%C2%AE-pup-packets-joint-muscle-mobility-support)[](#)[](#)
-
-[Pet Joint & Muscle Mobility Support
-
-$19.99 Sold Out](https://coromega.com/products/copy-of-coromega%C2%AE-pup-packets-joint-muscle-mobility-support)
-
-[![](//coromega.com/cdn/shop/products/Addaheading_2_311460af-5c84-4d16-b274-788fe204b077_1024x1024.png?v=1650991477)](https://coromega.com/products/coromega-pup-skin-immune-support)[](#)[](#)
-
-[Pet Skin & Immune Support
-
-$19.99 Sold Out](https://coromega.com/products/coromega-pup-skin-immune-support)
-
 [![Turmeric Front of Pack Image](//coromega.com/cdn/shop/products/DigitalShelf_5_1024x1024.png?v=1660080032)](https://coromega.com/products/turmeric-max)[](#)[](#)
 
 [Turmeric MAX
