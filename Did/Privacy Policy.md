@@ -1,8 +1,6 @@
-Want to elevate your CX with Gen AI? Join our webinar to learn how>> [Register now](https://us02web.zoom.us/webinar/register/3017126489961/WN_0oeVd_p9T7-BMjVYLU-0kg)
+Want to learn how OUR team uses GenAI to create engaging marketing campaigns? Join our webinar>> [Register now!](https://us02web.zoom.us/webinar/register/1217126465034/WN_m4C9Sp1iT4OJlmiNjtGtKg)
 
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2066%2053'%3E%3C/svg%3E)
-
-![](https://www.d-id.com/wp-content/uploads/2023/11/d-id-logo.svg)](https://www.d-id.com/)
+[![](https://www.d-id.com/wp-content/uploads/2023/11/d-id-logo.svg)](https://www.d-id.com/)
 
 * Products
     * [Creative Reality™ Studio](https://www.d-id.com/creative-reality-studio/)
