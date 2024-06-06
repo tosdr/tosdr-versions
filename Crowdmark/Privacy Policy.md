@@ -1,6 +1,6 @@
 ![](https://www.facebook.com/tr?id=484230559344334&ev=PageView&noscript=1)               [Skip to content](#content)
 
-[Need help getting ready for finals? **Click here to learn more!**](https://crowdmark.com/help/training-webinars/)
+[Want to learn about the Crowdmark advantage in your classroom? **Click here for training, tool tips and more!**](https://crowdmark.com/help/training-webinars/)
 
 [![](https://crowdmark.com/wp-content/uploads/2022/10/logo.svg)](http://crowdmark.com/)
 
