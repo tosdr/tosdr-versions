@@ -1,13 +1,17 @@
-[![Bark](https://d12jofbmgge65s.cloudfront.net/wp-content/themes/bark/dist/img/primary-logo.svg)](https://www.bark.us/) [![Bark](https://d12jofbmgge65s.cloudfront.net/wp-content/themes/bark/dist/img/bark-logo-icon.svg)](https://www.bark.us/)
+[![Bark](https://d12jofbmgge65s.cloudfront.net/wp-content/themes/bark/dist/img/primary-logo.svg)](https://www.bark.us/)
 
 * [Products](#)
     
+    Products
+    
     * [Bark Phone](https://www.bark.us/bark-phone/)
-    * [Bark Premium](https://www.bark.us/bark-premium/)
-    * [Bark Jr](https://www.bark.us/bark-jr/)
+    * [Bark Premium](https://bark.us/bark-premium)
+    * [Bark Jr](https://bark.us/bark-jr)
     * [Bark Home](https://www.bark.us/learn/bark-home/)
     
 * [Parental Controls](#)
+    
+    Parental Controls
     
     * [How Bark Works](https://www.bark.us/how)
     * [What Bark Monitors](https://www.bark.us/what-bark-monitors/)
@@ -19,13 +23,13 @@
 * [Pricing](https://www.bark.us/pricing/)
 * [Reviews](https://www.bark.us/learn/bark-reviews-and-testimonials/)
 * [Resources](https://www.bark.us/learn/resources/)
-* [Blog](https://www.bark.us/blog/)
+* [Blog](https://bark.us/blog)
 
-[Login](https://www.bark.us/login) [Start free trial](https://www.bark.us/signup/)
+[Start free trial](https://www.bark.us/signup/) [Already a Bark Parent? Log in](https://www.bark.us/login)
 
 [Start free trial](https://www.bark.us/signup/)
 
-[Login](https://www.bark.us/login) [Start free trial](https://www.bark.us/signup/)
+[Log in](https://www.bark.us/login) [Start free trial](https://www.bark.us/signup/)
 
 Bark Privacy Policy
 -------------------
