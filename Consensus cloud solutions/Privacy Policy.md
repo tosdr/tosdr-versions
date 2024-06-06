@@ -73,6 +73,7 @@
     
     Better Insights For Improved Data Coordination
     
+    * [Resource Hub](https://resources.consensus.com/)
     * [News](https://www.consensus.com/news/)
     * [Blog](https://www.consensus.com/blog/)
     * [Events](https://www.consensus.com/events/)
@@ -81,8 +82,8 @@
     
     Connect
     
-    * [Support](https://www.consensus.com/contact-us/)
     * [Careers](https://www.consensus.com/careers/)
+    * [Support](https://www.consensus.com/contact-us/)
     * [About Consensus](https://www.consensus.com/about-us/)
     * [Leadership](https://www.consensus.com/leadership/)
     * [Investor Relations](https://investor.consensus.com/overview/default.aspx)
@@ -93,11 +94,11 @@
         
         [![featured event](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
         
-        ![featured event](https://www.consensus.com/wp-content/uploads/2024/04/MGMA-Graphic-1.svg)](https://info.museweb.org/Events/2024-inspire-Conference)
+        ![featured event](https://www.consensus.com/wp-content/uploads/2024/05/Civitas-Website-Banner.svg)](https://www.civitasforhealth.org/event/2024-civitas-networks-for-health-annual-conference/)
         
-        [MUSE Inspire Conference
+        [2024 Civitas Networks for Health Annual Conference
         
-        Learn More](https://info.museweb.org/Events/2024-inspire-Conference)
+        Learn More](https://www.civitasforhealth.org/event/2024-civitas-networks-for-health-annual-conference/)
         
     
 * Learn
@@ -106,7 +107,7 @@
     
     * [What is Artificial Intelligence?](https://www.consensus.com/artificial-intelligence/)
     * [What is Blockchain Technology?](https://www.consensus.com/blockchain/)
-    * [What is Clinical Documentation Improvement?](https://www.consensus.com/clinical-documentation-improvement/)
+    * [What is Clinical Documentation Improvement(CDI)?](https://www.consensus.com/clinical-documentation-improvement/)
     * [What is the Cloud?](https://www.consensus.com/cloud/)
     * [What is Cloud Computing?](https://www.consensus.com/cloud/computing/)
     
@@ -126,7 +127,7 @@
     
 * [Partners](https://www.consensus.com/partners/)
 
-[Contact Us](https://www.consensus.com/request-a-demo/)
+[Request a Demo](https://www.consensus.com/request-a-demo/)
 
 Privacy Policy
 ==============
@@ -528,7 +529,7 @@ In accordance with the California Consumer Privacy Act, if you are a consumer re
 ###### Company
 
 * [About](https://www.consensus.com/about-us/)
-* [Contact](https://www.consensus.com/contact-us/)
+* [Support](https://www.consensus.com/contact-us/)
 * [Leadership](https://www.consensus.com/leadership/)
 * [Careers](https://www.consensus.com/careers/)
 * [Billing FAQs](https://www.consensus.com/faq/#billing-faq)
