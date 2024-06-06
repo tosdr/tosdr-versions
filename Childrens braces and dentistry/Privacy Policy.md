@@ -87,17 +87,17 @@ Schedule an appointment for a beautiful, healthy smile.
 Recent Blog Posts
 -----------------
 
+##### [Understanding the Role of Pedodontists](https://sandiegokidsdentist.com/understanding-the-role-of-pedodontists/)
+
+Jun 4, 2024 7 Comments Off on Understanding the Role of Pedodontists
+
 ##### [Should My Teen Get Braces or Invisalign?](https://sandiegokidsdentist.com/should-my-teen-get-braces-or-invisalign/)
 
-Mar 13, 2024 323 Comments Off on Should My Teen Get Braces or Invisalign?
+Mar 13, 2024 376 Comments Off on Should My Teen Get Braces or Invisalign?
 
 ##### [Guardians of Grins: Unveiling Common Pediatric Dental Emergencies](https://sandiegokidsdentist.com/common-pediatric-dental-emergencies/)
 
-Dec 28, 2023 512 Comments Off on Guardians of Grins: Unveiling Common Pediatric Dental Emergencies
-
-##### [Smile Heroes: Disclosing the Secrets for Selecting the Perfect Children’s Dentist! A Parent’s Guide to Healthy Grins for Little Superheroes-in-the-Making!](https://sandiegokidsdentist.com/the-secrets-of-choosing-the-perfect-pediatric-dentist/)
-
-Nov 14, 2023 581 Comments Off on Smile Heroes: Disclosing the Secrets for Selecting the Perfect Children’s Dentist! A Parent’s Guide to Healthy Grins for Little Superheroes-in-the-Making!
+Dec 28, 2023 563 Comments Off on Guardians of Grins: Unveiling Common Pediatric Dental Emergencies
 
 Quick Links
 -----------
@@ -132,6 +132,6 @@ CA 91942.
 * [Yelp](https://www.yelp.com/biz/childrens-braces-and-dentistry-la-mesa-2)
 * [Instagram](https://www.instagram.com/childrensbracesanddentistry/)
 
-© 2017. Children's Braces and Dentistry (San Diego Kids Dentist) | [Privacy Policy](https://sandiegokidsdentist.com/the-secrets-of-choosing-the-perfect-pediatric-dentist/)
+© 2017. Children's Braces and Dentistry (San Diego Kids Dentist) | [Privacy Policy](https://sandiegokidsdentist.com/common-pediatric-dental-emergencies/)
 
 [Website Designed & Developed by: Houmanity](https://www.houmanity.com/)
