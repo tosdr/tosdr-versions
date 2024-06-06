@@ -1,0 +1,320 @@
+ 
+
+Hello!
+
+You’re about to visit our web page in **English**  
+Would you like to continue?
+
+Yes, I want to visit the web page in English No, I want to visit the web page in
+
+If this is not what you’re looking for,
+
+[Visit our Welcome Page!](https://www.pandasecurity.com/)
+
+* Protection
+* [Panda Dome](https://www.pandasecurity.com/en/homeusers/)
+* [Panda Dome Essential](https://www.pandasecurity.com/en/dome/essential/)
+* [Panda Dome Advanced](https://www.pandasecurity.com/en/dome/advanced/)
+* [Panda Dome Complete](https://www.pandasecurity.com/en/dome/complete/)
+* [Panda Dome Premium](https://www.pandasecurity.com/en/dome/premium/)
+* [Panda Dome Family](https://www.pandasecurity.com/en/homeusers/dome-family/)
+* [Panda Dome for Android](https://www.pandasecurity.com/en/homeusers/android-antivirus/)
+* [Panda Dome Free](https://www.pandasecurity.com/en/homeusers/free-antivirus/)
+
+* Privacy
+* [Panda VPN](https://www.pandasecurity.com/en/homeusers/vpn/)
+* [Panda Dome Passwords](https://www.pandasecurity.com/en/homeusers/dome-passwords/)
+* [Free password generator](https://www.pandasecurity.com/en/homeusers/password-generator/)
+* [Dark Web Scanner](https://www.pandasecurity.com/en/dark-web-scanner/)
+
+* Performance
+* [Panda Cleanup](https://www.pandasecurity.com/en/homeusers/cleanup/)
+* [Panda Cloud Cleaner](https://www.pandasecurity.com/en/homeusers/cloud-cleaner/)
+* [Panda Total Care](https://www.pandasecurity.com/en/homeusers/premium-services/)
+
+* Protection
+* [Anti-malware](https://www.pandasecurity.com/en/features/antimalware/)
+* [Anti-ransomware](https://www.pandasecurity.com/en/features/antiransomware/)
+* [Antivirus](https://www.pandasecurity.com/en/features/antivirus/)
+* [Antivirus for Mac](https://www.pandasecurity.com/en/homeusers/antivirus-for-mac/)
+* [Antivirus for Windows](https://www.pandasecurity.com/en/homeusers/windows-antivirus/)
+* [Firewall](https://www.pandasecurity.com/en/features/firewall/)
+* [Parental Control](https://www.pandasecurity.com/en/features/parental-control/)
+* [Safe Browsing](https://www.pandasecurity.com/en/features/safe-browsing/)
+
+* Privacy
+* [File Encryptor](https://www.pandasecurity.com/en/features/file-encryptor/)
+* [File Shredder](https://www.pandasecurity.com/en/features/file-shredder/)
+* [Password Manager](https://www.pandasecurity.com/en/features/password-manager/)
+* [VPN for Android](https://www.pandasecurity.com/en/homeusers/android-vpn/)
+* [Wi-fi Protection](https://www.pandasecurity.com/en/features/wifi-protection/)
+
+* Performance
+* [Gaming/Multimedia Mode](https://www.pandasecurity.com/en/features/gaming-multimedia-mode/)
+* [Perfomance Optimization](https://www.pandasecurity.com/en/features/performance-optimization/)
+* [Update Manager](https://www.pandasecurity.com/en/features/update-manager/)
+
+* Protection
+* [Cybersecurity solutions for Windows](https://www.pandasecurity.com/en/platforms/windows/)
+* [Cybersecurity solutions for Android](https://www.pandasecurity.com/en/platforms/android/)
+* [Cybersecurity solutions for Mac](https://www.pandasecurity.com/en/platforms/mac/)
+* [Cybersecurity solutions for iOS](https://www.pandasecurity.com/en/platforms/ios/)
+
+[![Panda Dome](/rfilescms/Logos/panda/panda_watchguard.webp)](https://www.pandasecurity.com/)
+
+* [Windows Antivirus](https://www.pandasecurity.com/en/homeusers/windows-antivirus/)
+* [Mac Antivirus](https://www.pandasecurity.com/en/homeusers/antivirus-for-mac/)
+* [Downloads](https://www.pandasecurity.com/en/homeusers/downloads/)
+* [Partners](https://www.pandasecurity.com/en/partners/)
+* 
+
+* [Products](https://www.pandasecurity.com/en/homeusers/)
+* [Features](javascript:;)
+* [Platforms](javascript:;)
+* [Blog](https://www.pandasecurity.com/en/mediacenter/)
+* [Security Info](https://www.pandasecurity.com/en/security-info/)
+* [Support](https://www.pandasecurity.com/en/support/#homeusers)
+* [Compare our plans](https://www.pandasecurity.com/en/homeusers/)
+
+My Account
+
+[![Panda Dome](/rfilescms/Logos/panda/panda_watchguard.webp)](https://www.pandasecurity.com/)
+
+[Compare our plans](https://www.pandasecurity.com/en/homeusers/)
+
+[Products](#)
+
+[Features](#)
+
+[Platforms](#)
+
+[Blog](https://www.pandasecurity.com/en/mediacenter/)
+
+[Security Info](https://www.pandasecurity.com/en/security-info/)
+
+[Support](https://www.pandasecurity.com/en/support/#homeusers)
+
+[Windows Antivirus](https://www.pandasecurity.com/en/homeusers/windows-antivirus/)
+
+[Mac Antivirus](https://www.pandasecurity.com/en/homeusers/antivirus-for-mac/)
+
+[Downloads](https://www.pandasecurity.com/en/homeusers/downloads/)
+
+[Partners](https://www.pandasecurity.com/en/partners/)
+
+Products
+
+[Protection](#)
+
+[Privacy](#)
+
+[Performance](#)
+
+Features
+
+[Protection](#)
+
+[Privacy](#)
+
+[Performance](#)
+
+Platforms
+
+[Protection](#)
+
+Protection
+
+[Panda Dome](https://www.pandasecurity.com/en/homeusers/) [Panda Dome Essential](https://www.pandasecurity.com/en/dome/essential/) [Panda Dome Advanced](https://www.pandasecurity.com/en/dome/advanced/) [Panda Dome Complete](https://www.pandasecurity.com/en/dome/complete/) [Panda Dome Premium](https://www.pandasecurity.com/en/dome/premium/) [Panda Dome Family](https://www.pandasecurity.com/en/homeusers/dome-family/) [Panda Dome for Android](https://www.pandasecurity.com/en/homeusers/android-antivirus/) [Panda Dome Free](https://www.pandasecurity.com/en/homeusers/free-antivirus/)
+
+Privacy
+
+[Panda VPN](https://www.pandasecurity.com/en/homeusers/vpn/) [Panda Dome Passwords](https://www.pandasecurity.com/en/homeusers/dome-passwords/) [Free password generator](https://www.pandasecurity.com/en/homeusers/password-generator/) [Dark Web Scanner](https://www.pandasecurity.com/en/dark-web-scanner/)
+
+Performance
+
+[Panda Cleanup](https://www.pandasecurity.com/en/homeusers/cleanup/) [Panda Cloud Cleaner](https://www.pandasecurity.com/en/homeusers/cloud-cleaner/) [Panda Total Care](https://www.pandasecurity.com/en/homeusers/premium-services/)
+
+Protection
+
+[Anti-malware](https://www.pandasecurity.com/en/features/antimalware/) [Anti-ransomware](https://www.pandasecurity.com/en/features/antiransomware/) [Antivirus](https://www.pandasecurity.com/en/features/antivirus/) [Antivirus for Mac](https://www.pandasecurity.com/en/homeusers/antivirus-for-mac/) [Antivirus for Windows](https://www.pandasecurity.com/en/homeusers/windows-antivirus/) [Firewall](https://www.pandasecurity.com/en/features/firewall/) [Parental Control](https://www.pandasecurity.com/en/features/parental-control/) [Safe Browsing](https://www.pandasecurity.com/en/features/safe-browsing/)
+
+Privacy
+
+[File Encryptor](https://www.pandasecurity.com/en/features/file-encryptor/) [File Shredder](https://www.pandasecurity.com/en/features/file-shredder/) [Password Manager](https://www.pandasecurity.com/en/features/password-manager/) [VPN for Android](https://www.pandasecurity.com/en/homeusers/android-vpn/) [Wi-fi Protection](https://www.pandasecurity.com/en/features/wifi-protection/)
+
+Performance
+
+[Gaming/Multimedia Mode](https://www.pandasecurity.com/en/features/gaming-multimedia-mode/) [Perfomance Optimization](https://www.pandasecurity.com/en/features/performance-optimization/) [Update Manager](https://www.pandasecurity.com/en/features/update-manager/)
+
+Protection
+
+[Cybersecurity solutions for Windows](https://www.pandasecurity.com/en/platforms/windows/) [Cybersecurity solutions for Android](https://www.pandasecurity.com/en/platforms/android/) [Cybersecurity solutions for Mac](https://www.pandasecurity.com/en/platforms/mac/) [Cybersecurity solutions for iOS](https://www.pandasecurity.com/en/platforms/ios/)
+
+Special offer: Renew and get 50% off\*
+
+![image](/rfilescms/Teaser/RET/pandasecurity-girl-modal-desktop.webp)
+
+Only available for 48 hours!
+
+: :
+
+Email 
+
+Customer ID 
+
+Renew at a discount
+
+Renew and get 50% off\*
+
+![image](/rfilescms/Teaser/RET/pandasecurity-generic-modal-desktop.webp)
+
+Only available for 72 hours!
+
+: :
+
+: :
+
+: :
+
+Email 
+
+Customer ID 
+
+Renew at a discount
+
+Special offer: Renew and get 50% off\*
+
+![image]( /rfilescms/Teaser/RET/ojos.gif)
+
+Only available for 48 hours!
+
+: :
+
+Email 
+
+Customer ID 
+
+Renew at a discount
+
+Special offer: Renew and get 50% off\*
+
+![image](/rfilescms/Teaser/RET/teaser_rnw_misterysale.png)
+
+Only available for 48 hours!
+
+: :
+
+Email 
+
+Customer ID 
+
+Renew at a discount
+
+Special offer: Renew and get 60% off\*
+
+![image](/rfilescms/Teaser/RET/pandasecurity_teaser_modal_back_to_security_desktop.webp)
+
+Only available for 48 hours!
+
+: :
+
+\*For home users only
+
+Email 
+
+Customer ID 
+
+Renew at a discount
+
+Special offer: Renew and get 50% off\*
+
+![image](/rfilescms/Teaser/RET/pandasecurity_paid_sales_teaser_b.webp)
+
+Only available for 48 hours!
+
+: :
+
+\*For home users only
+
+Email 
+
+Customer ID 
+
+Renew at a discount
+
+TERMINATION OF THE AGREEMENT
+============================
+
+The User will have a period of thirty (30) days, as of the date of receipt of the product, within which time he or she may terminate the contract subscribed with Panda Security without specifying the reason and without any penalty whatsoever. Notwithstanding the foregoing, in the case of support and/or technical assistance products, no refund will be made once the service has been used regardless of the time passed. Additionally, no refunds will be made, under any circumstances, of the Money-Back Guarantee service should the User have purchased it. In the case of subscription services, the User may cancel his/her subscription at any time, which will become effective at the end of his/her current billing period (monthly or annual, depending on the subscription plan selected).
+
+To exercise the aforementioned right, the User must inform Panda Security in writing, either by fax, registered postal mail or by email sent to the Customer Service email address at [customer.service@pandasecurity.com](mailto:customer.service@pandasecurity.com), within the appropriate time period.
+
+In this event, Panda Security will reimburse the User the amount paid within fourteen (14) days of the receipt of the written notification from the User. Such reimbursement will be made using the same means of payment as used by the User for the initial transaction, unless the User has expressly agreed otherwise; in any event the User shall not incur any costs as a result of such reimbursement.
+
+![logo](/rfilescms/Logos/pandasecurity-logo-panda-watchguard-alternative.svg)
+
+##### About Panda
+
+[Company Info](https://www.pandasecurity.com/en/company-profile/)
+
+[Panda Security Technology](https://www.pandasecurity.com/en/technologies/)
+
+[Support for Innovation](https://www.pandasecurity.com/en/inno-support/)
+
+[Panda Worldwide](https://www.pandasecurity.com/en/office-locator/)
+
+[Support](https://www.pandasecurity.com/en/support/)
+
+[Blog](https://www.pandasecurity.com/en/mediacenter/)
+
+[Security Info](https://www.pandasecurity.com/en/security-info/)
+
+##### Home Users
+
+[Products](https://www.pandasecurity.com/en/homeusers/)
+
+[Downloads](https://www.pandasecurity.com/en/homeusers/downloads/)
+
+[Free Antivirus](https://www.pandasecurity.com/en/homeusers/free-antivirus/)
+
+[Free VPN](https://www.pandasecurity.com/en/homeusers/vpn/)
+
+[Online Antivirus](https://www.pandasecurity.com/en/homeusers/online-antivirus/)
+
+[Reviews](https://www.pandasecurity.com/en/reviews/)
+
+[Already a Customer](https://www.pandasecurity.com/en/renewal/)
+
+##### Business - WatchGuard Technologies
+
+[WatchGuard](https://www.watchguard.com/)
+
+[Endpoint Security](https://www.watchguard.com/wgrd-products/endpoint-security)
+
+[Network Security](https://www.watchguard.com/wgrd-products/network-security)
+
+[AuthPoint MFA](https://www.watchguard.com/wgrd-products/authpoint)
+
+[Secure Wi-Fi](https://www.watchguard.com/wgrd-products/secure-wifi)
+
+[Partners](https://www.watchguard.com/wgrd-partners)
+
+[Privacy Policy](https://www.pandasecurity.com/en/homeusers/media/legal-notice/#e10)
+
+[Legal Notice](https://www.pandasecurity.com/en/homeusers/media/legal-notice/)
+
+[Cookie Policy](https://www.pandasecurity.com/en/homeusers/media/cookies-policy/)
+
+[Return Policy](https://www.pandasecurity.com/en/homeusers/media/legal-notice/refund.htm)
+
+[](https://www.pandasecurity.com/en/office-locator/)
+
+[](https://www.linkedin.com/company/panda-security)
+
+[](https://www.youtube.com/user/PandaSecurity1)
+
+[](https://www.facebook.com/PandaSecurity)
+
+[](https://twitter.com/#!/Panda_Security)
+
+[](https://www.instagram.com/pandasecurity/)
