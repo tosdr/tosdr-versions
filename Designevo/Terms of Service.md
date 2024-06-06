@@ -263,8 +263,6 @@ DesignEvo is an easy logo maker developed by PearlMountain Limited. It makes log
 
 English
 
-Polygon 2 Created with Sketch.
-
 * [English](https://www.designevo.com/en/)
 * [Español](https://www.designevo.com/es/)
 * [Português](https://www.designevo.com/pt/)
