@@ -1,6 +1,4 @@
-[![1000Pip Builder logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-
-![1000Pip Builder logo](https://www.1000pipbuilder.com/wp-content/plugins/new-modules/images/logo.png)](javascript:void(0))
+[![1000Pip Builder logo](https://www.1000pipbuilder.com/wp-content/plugins/new-modules/images/logo.png)](javascript:void(0))
 
 * [Home](https://www.1000pipbuilder.com/#home-bnr)
 * [About us](https://www.1000pipbuilder.com/#about-us)
@@ -60,7 +58,8 @@ Cookies from third parties - Cookies from third parties may track the success of
 * [HOW IT WORKS](https://www.1000pipbuilder.com/#how-it-works)
 * [PERFORMANCE](https://www.1000pipbuilder.com/#performance)
 * [BLOG](https://www.1000pipbuilder.com/blog/)
-* [CONTACT US](https://www.1000pipbuilder.com/#contact-now)
+* [FAQ](https://1000pipbuilder.freshdesk.com/)
+* [CONTACT US](https://1000pipbuilder.freshdesk.com/support/tickets/new)
 * [Trading Tips](https://www.1000pipbuilder.com/forex-trading-tips/)
 
 * [JOIN US](https://www.1000pipbuilder.com/#join-now)
@@ -74,11 +73,11 @@ London, United Kingdom
 
 EMAIL US
 
-[traderbob@1000pipbuilder.com](mailto:someone@example.com)
+[support@1000pipbuilder.com](mailto:support@1000pipbuilder.com)
 
 For Product Support, please contact the seller
 
-[HERE](mailto:someone@example.com)
+[HERE](https://1000pipbuilder.freshdesk.com/support/tickets/new)
 
 For Order Support, please contact ClickBank
 
@@ -98,10 +97,10 @@ Any information communicated by 1000PipBuilder is solely for educational purpose
   
 All results and performance figures stated by us are estimates, hypothetical in nature and do not represent evidence of actual results achieved. It is recommended that any person taking investment decisions consults with an independent financial advisor. 1000PipBuilder is for educational purposes only, it is not a financial advisory service, and does not give financial advice or make general recommendations on investment. Please click on the link to read our full terms and disclaimer.  
   
-Warning: It has come to our attention that some people are posing as representatives of 1000pipBuilder. 1000pipBuilder will never contact you directly through Telegram or any social media platform. We communicate with our members via traderbob@1000pipbuilder.com . We only have a private Telegram grop that can be accesses through our website. We do not offer ANY free Telegram channels nor do we offer any investment programs. If you are contacted by any one claiming to be from 1000pipBuilder please report them and do not enter into any arrangement with them - this is not 1000pipBuilder.  
+Warning: It has come to our attention that some people are posing as representatives of 1000pipBuilder. 1000pipBuilder will never contact you directly through Telegram or any social media platform. We communicate with our members via support@1000pipbuilder.com . We only have a private Telegram grop that can be accesses through our website. We do not offer ANY free Telegram channels nor do we offer any investment programs. If you are contacted by any one claiming to be from 1000pipBuilder please report them and do not enter into any arrangement with them - this is not 1000pipBuilder.  
   
 The 1000pipBuilder.com website uses cookies in order to provide you with the best experience. By visiting our website with your browser set to allow cookies, or by accepting our Cookie Policy notification you consent to our Privacy Policy, which details our Cookie Policy.
 
-© 2023 All Rights Reserved
+© 2024 All Rights Reserved
 
 [](https://www.facebook.com/ForexSignalsPB/)[](https://www.linkedin.com/company/1000pip-builder/)[](https://twitter.com/TopForexSignal1)
