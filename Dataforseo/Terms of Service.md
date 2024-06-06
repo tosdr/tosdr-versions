@@ -1,12 +1,4 @@
-[![logo](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAa0AAAA/AQMAAABpQQWIAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAABpJREFUGBntwTEBAAAAwiD7p14LL2AAAAB8BQ2JAAFxXrwWAAAAAElFTkSuQmCC)
-
-![logo](https://dataforseo.com/wp-content/uploads/2022/04/ukr-logo_429.png)
-
-![dark logo](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAa0AAAA/AQMAAABpQQWIAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAABpJREFUGBntwTEBAAAAwiD7p14LL2AAAAB8BQ2JAAFxXrwWAAAAAElFTkSuQmCC)
-
-![dark logo](https://dataforseo.com/wp-content/uploads/2022/04/ukr-logo_429.png)
-
-![light logo](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAa0AAAA/AQMAAABpQQWIAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAABpJREFUGBntwTEBAAAAwiD7p14LL2AAAAB8BQ2JAAFxXrwWAAAAAElFTkSuQmCC)
+  [![logo](https://dataforseo.com/wp-content/uploads/2022/04/ukr-logo_429.png) ![dark logo](https://dataforseo.com/wp-content/uploads/2022/04/ukr-logo_429.png) ![light logo](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAa0AAAA/AQMAAABpQQWIAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAABpJREFUGBntwTEBAAAAwiD7p14LL2AAAAB8BQ2JAAFxXrwWAAAAAElFTkSuQmCC)
 
 ![light logo](https://dataforseo.com/wp-content/uploads/2022/04/ukr-logo-light_429.png)](https://dataforseo.com/)
 
@@ -25,7 +17,6 @@
         * [Reviews API](https://dataforseo.com/apis/reviews-api)
             * [Google Reviews API](https://dataforseo.com/apis/reviews-api/google-reviews-api)
             * [Google Shopping Reviews API](https://dataforseo.com/apis/reviews-api/google-shopping-api)
-            * [Yelp Reviews API](https://dataforseo.com/apis/reviews-api/yelp-reviews-api)
             * [Trustpilot Reviews API](https://dataforseo.com/apis/reviews-api/trustpilot-reviews-api)
             * [Amazon Reviews API](https://dataforseo.com/apis/reviews-api/amazon-reviews-api)
             * [Tripadvisor Reviews API](https://dataforseo.com/apis/reviews-api/tripadvisor-reviews-api)
@@ -43,7 +34,6 @@
             * [Google Hotels API](https://dataforseo.com/apis/business-data-api/google-hotels-api)
             * [Trustpilot API](https://dataforseo.com/apis/business-data-api/trustpilot-api)
             * [Tripadvisor API](https://dataforseo.com/apis/business-data-api/tripadvisor-api)
-            * [Yelp API](https://dataforseo.com/apis/business-data-api/yelp-api)
             * [Business Listings API](https://dataforseo.com/apis/business-data-api/business-listings-api)
         * [Merchant API](https://dataforseo.com/apis/merchant-api)
             * [Amazon](https://dataforseo.com/apis/merchant-api-amazon)
@@ -101,15 +91,7 @@
 * [Try for free](https://app.dataforseo.com/register)
 * [Login](https://app.dataforseo.com/signin)
 
-[![logo](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAa0AAAA/AQMAAABpQQWIAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAABpJREFUGBntwTEBAAAAwiD7p14LL2AAAAB8BQ2JAAFxXrwWAAAAAElFTkSuQmCC)
-
-![logo](https://dataforseo.com/wp-content/uploads/2022/04/ukr-logo_429.png)
-
-![dark logo](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAa0AAAA/AQMAAABpQQWIAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAABpJREFUGBntwTEBAAAAwiD7p14LL2AAAAB8BQ2JAAFxXrwWAAAAAElFTkSuQmCC)
-
-![dark logo](https://dataforseo.com/wp-content/uploads/2022/04/ukr-logo_429.png)
-
-![light logo](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAa0AAAA/AQMAAABpQQWIAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAABpJREFUGBntwTEBAAAAwiD7p14LL2AAAAB8BQ2JAAFxXrwWAAAAAElFTkSuQmCC)
+  [![logo](https://dataforseo.com/wp-content/uploads/2022/04/ukr-logo_429.png) ![dark logo](https://dataforseo.com/wp-content/uploads/2022/04/ukr-logo_429.png) ![light logo](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAa0AAAA/AQMAAABpQQWIAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAABpJREFUGBntwTEBAAAAwiD7p14LL2AAAAB8BQ2JAAFxXrwWAAAAAElFTkSuQmCC)
 
 ![light logo](https://dataforseo.com/wp-content/uploads/2022/04/ukr-logo-light_429.png)](https://dataforseo.com/)
 
@@ -128,7 +110,6 @@
         * [Reviews API](https://dataforseo.com/apis/reviews-api)
             * [Google Reviews API](https://dataforseo.com/apis/reviews-api/google-reviews-api)
             * [Google Shopping Reviews API](https://dataforseo.com/apis/reviews-api/google-shopping-api)
-            * [Yelp Reviews API](https://dataforseo.com/apis/reviews-api/yelp-reviews-api)
             * [Trustpilot Reviews API](https://dataforseo.com/apis/reviews-api/trustpilot-reviews-api)
             * [Amazon Reviews API](https://dataforseo.com/apis/reviews-api/amazon-reviews-api)
             * [Tripadvisor Reviews API](https://dataforseo.com/apis/reviews-api/tripadvisor-reviews-api)
@@ -146,7 +127,6 @@
             * [Google Hotels API](https://dataforseo.com/apis/business-data-api/google-hotels-api)
             * [Trustpilot API](https://dataforseo.com/apis/business-data-api/trustpilot-api)
             * [Tripadvisor API](https://dataforseo.com/apis/business-data-api/tripadvisor-api)
-            * [Yelp API](https://dataforseo.com/apis/business-data-api/yelp-api)
             * [Business Listings API](https://dataforseo.com/apis/business-data-api/business-listings-api)
         * [Merchant API](https://dataforseo.com/apis/merchant-api)
             * [Amazon](https://dataforseo.com/apis/merchant-api-amazon)
@@ -206,9 +186,7 @@
 
 [](javascript:void(0))
 
-[![mobile-logo](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAa0AAAA/AQMAAABpQQWIAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAABpJREFUGBntwTEBAAAAwiD7p14LL2AAAAB8BQ2JAAFxXrwWAAAAAElFTkSuQmCC)
-
-![mobile-logo](https://dataforseo.com/wp-content/uploads/2022/04/ukr-logo_429.png)](https://dataforseo.com/)
+[![mobile-logo](https://dataforseo.com/wp-content/uploads/2022/04/ukr-logo_429.png)](https://dataforseo.com/)
 
 * #### Products
     
@@ -225,7 +203,6 @@
         * [Reviews API](https://dataforseo.com/apis/reviews-api)
             * [Google Reviews API](https://dataforseo.com/apis/reviews-api/google-reviews-api)
             * [Google Shopping Reviews API](https://dataforseo.com/apis/reviews-api/google-shopping-api)
-            * [Yelp Reviews API](https://dataforseo.com/apis/reviews-api/yelp-reviews-api)
             * [Trustpilot Reviews API](https://dataforseo.com/apis/reviews-api/trustpilot-reviews-api)
             * [Amazon Reviews API](https://dataforseo.com/apis/reviews-api/amazon-reviews-api)
             * [Tripadvisor Reviews API](https://dataforseo.com/apis/reviews-api/tripadvisor-reviews-api)
@@ -243,7 +220,6 @@
             * [Google Hotels API](https://dataforseo.com/apis/business-data-api/google-hotels-api)
             * [Trustpilot API](https://dataforseo.com/apis/business-data-api/trustpilot-api)
             * [Tripadvisor API](https://dataforseo.com/apis/business-data-api/tripadvisor-api)
-            * [Yelp API](https://dataforseo.com/apis/business-data-api/yelp-api)
             * [Business Listings API](https://dataforseo.com/apis/business-data-api/business-listings-api)
         * [Merchant API](https://dataforseo.com/apis/merchant-api)
             * [Amazon](https://dataforseo.com/apis/merchant-api-amazon)
