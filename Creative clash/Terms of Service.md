@@ -10,7 +10,7 @@
 
 [Want to help keep us running? Donate!](https://xcreativeclashx.net/announcement/9-want-to-help-keep-us-running-donate/) [×](#)
 
-[Emails are working again](https://xcreativeclashx.net/announcement/18-emails-are-working-again/) [×](#)
+[Voting Time for Teams and Dates!](https://xcreativeclashx.net/forums/topic/913-clash24-voting-time-for-teams-and-dates/)
 
 Registration Terms
 ==================
