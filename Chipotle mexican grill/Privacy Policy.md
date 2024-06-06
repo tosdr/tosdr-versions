@@ -24,7 +24,7 @@ CHIPOTLE’S U.S. PRIVACY POLICY, INCLUDING CALIFORNIA PRIVACY RIGHTS
 
 ###### _**PARA VER NUESTRA POLÍTICA DE PRIVACIDAD EN ESPAÑOL, [HAGA CLIC AQUÍ](https://www.chipotle.com/about-us/privacy-policy-es)**_
 
-This “Privacy Policy” describes how Chipotle Mexican Grill, Inc. and its subsidiaries and affiliates in the United States (“Chipotle”, “we”, “our”, “us”) may collect, use, and disclose personal information of visitors who access or interact with our mobile application (“App”) or our websites (“Websites”) that link to this Privacy Policy, as well as other personal information about our customers.  The App, those Websites, our restaurants, and our related service offerings are referred to in this Privacy Policy as our “Services.”  Please note, this Privacy Policy is applicable to consumers in the United States (US). We maintain separate privacy policies for our US employees, [job applicants](https://www.chipotle.com/recruitingnotice), and contractors and for customers, employees, contractors and job applicants in the European Union, United Kingdom, and Canada. This Privacy Policy also does not apply to our former employees and their family members, dependents, and beneficiaries; if you are a California resident who is a current or former employee of Chipotle or a family member, dependent, or beneficiary of any of our current or former employees, you may request access to our Employee Privacy Policy by sending an email to [privacy@chipotle.com](mailto:privacy@chipotle.com).
+This “Privacy Policy” describes how Chipotle Mexican Grill, Inc. and its subsidiaries and affiliates in the United States (“Chipotle”, “we”, “our”, “us”) may collect, use, and disclose personal information of visitors who access or interact with our mobile application (“App”) or our websites (“Websites”) that link to this Privacy Policy, as well as other personal information about our customers.  The App, those Websites, our restaurants, and our related service offerings are referred to in this Privacy Policy as our “Services.”  Please note, this Privacy Policy is applicable to consumers in the United States (US). We maintain separate privacy policies for our US employees, job applicants, and contractors and for customers, employees, contractors and job applicants in the European Union, United Kingdom, and Canada. This Privacy Policy also does not apply to our former employees and their family members, dependents, and beneficiaries; if you are a California resident who is a current or former employee of Chipotle or a family member, dependent, or beneficiary of any of our current or former employees, you may request access to our Employee Privacy Policy by sending an email to [privacy@chipotle.com](mailto:privacy@chipotle.com).
 
 **Notice at Collection**
 
@@ -380,11 +380,11 @@ Newport Beach, CA 92660
 
 ### CONNECT WITH US
 
-[![](/adobe/dynamicmedia/deliver/dm-aid--66cfe770-ad76-4a66-a07c-e6b3111e2371/social-icon-insta.png?quality=85&preferwebp=true)](https://www.instagram.com/chipotle/)
+ [![instagram social icon ](/adobe/dynamicmedia/deliver/dm-aid--66cfe770-ad76-4a66-a07c-e6b3111e2371/social-icon-insta.png?quality=85&preferwebp=true "instagram image")](https://www.instagram.com/chipotle/)
 
-[![](/adobe/dynamicmedia/deliver/dm-aid--1ca1feab-ec90-4002-8fee-88c10766910b/social-icon-twitter.png?quality=85&preferwebp=true)](https://www.twitter.com/chipotletweets)
+ [![twitter x social icon ](/adobe/dynamicmedia/deliver/dm-aid--1ca1feab-ec90-4002-8fee-88c10766910b/social-icon-twitter.png?quality=85&preferwebp=true "twitter x image")](https://www.twitter.com/chipotletweets)
 
-[![](/adobe/dynamicmedia/deliver/dm-aid--5ddd6649-c2c5-455b-932b-0ceb4f8e2546/social-icon-facebook.png?quality=85&preferwebp=true)](https://www.facebook.com/chipotle)
+ [![facebook social icon](/adobe/dynamicmedia/deliver/dm-aid--5ddd6649-c2c5-455b-932b-0ceb4f8e2546/social-icon-facebook.png?quality=85&preferwebp=true "facebook image")](https://www.facebook.com/chipotle)
 
 © 2024 Chipotle Mexican Grill
 
