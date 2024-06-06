@@ -107,7 +107,7 @@ rev. 13SEPT2018
     * [Investors](https://investors.delltechnologies.com/)
     * [About Dell Technologies](https://www.dell.com/en-us/dt/corporate/about-us.htm)
     * [Social Impact](https://www.dell.com/en-us/dt/corporate/social-impact.htm)
-    * [Anti-Slavery & Human Trafficking](https://www.dell.com/learn/us/en/uscorp1/legal_docs/dell-modern-slavery-statement.pdf)
+    * [Anti-Slavery & Human Trafficking](https://www.delltechnologies.com/asset/en-us/solutions/business-solutions/legal-pricing/statement-against-modern-slavery-human-trafficking-and-child-labor.pdf)
     * [Customer Engagement](https://www.dell.com/en-us/dt/what-we-do/customer-engagement-programs/index.htm)
     * [Careers](https://jobs.dell.com/)
     * [Dell Newsroom](https://www.dell.com/en-us/dt/corporate/newsroom.htm)
