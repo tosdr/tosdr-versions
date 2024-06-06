@@ -1,0 +1,1 @@
+![](https://mc.yandex.ru/watch/88184725)
