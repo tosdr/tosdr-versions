@@ -272,8 +272,7 @@ DRF.com News Search
  Horse/Trainer/Jockey name
 
 * Horse Racing Events
-    * [Preakness Stakes](https://www.drf.com/preakness)
-    * [Keeneland](https://www.drf.com/horse-racing-tracks/keeneland)
+    * [Belmont Stakes](https://www.drf.com/belmont-stakes)
     * [More](https://www.drf.com/race-entries)
 * Horse Racing News
     * [Race of the Day](https://www.drf.com/race-of-the-day)
@@ -286,7 +285,7 @@ DRF.com News Search
     * [Belmont at the Big A](https://www.drf.com/horse-racing-tracks/belmont-at-the-big-a)
     * [Churchill Downs](https://www.drf.com/horse-racing-tracks/churchill-downs)
     * [Gulfstream Park](https://www.drf.com/horse-racing-tracks/gulfstream-park)
-    * [Pimlico](https://www.drf.com/horse-racing-tracks/pimlico)
+    * [Saratoga](https://www.drf.com/horse-racing-tracks/saratoga)
     * [Santa Anita](https://www.drf.com/horse-racing-tracks/santa-anita)
     * [Woodbine](https://www.drf.com/horse-racing-tracks/woodbine)
 * Handicapping & PPs
@@ -318,7 +317,6 @@ Sign Up for Newsletter
 * [Site Policies](http://www1.drf.com/about/about_privacy.html)
 * [Sitemap](https://www.drf.com/sitemap.xml)
 * [DRF Form Finder](https://www1.drf.com/formFinder.do)
-* [Affiliates](https://promos.drf.com/affiliate)
 * [Careers](https://recruiting2.ultipro.com/AFF1007AFFI/JobBoard/1b6d2bf5-cbb0-42aa-a4fd-70ea874ebe77/?q=&o=postedDateDesc)
 
 © 2024 Daily Racing Form. All rights reserved
