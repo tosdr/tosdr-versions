@@ -1,4 +1,4 @@
-[![Dollar Shave Club logo](/cdn-cgi/image/quality=100,width=3840/https://attachments.gorgias.help/uploads.gorgias.io/MdAV17qv0yxZWgaX/LOGO-orangestacked-31863378-1b0c-492c-b68f-6fb4218bdcce.png)](https://ask.dollarshaveclub.com/en-US)
+[![Dollar Shave Club logo](/cdn-cgi/image/quality=100,width=3840/https://attachments.gorgias.help/uploads.gorgias.io/MdAV17qv0yxZWgaX/LOGO-orangestacked-31863378-1b0c-492c-b68f-6fb4218bdcce.png)](https://us.dollarshaveclub.com/)
 
 [Home](https://www.dollarshaveclub.com/)[Shop](https://www.dollarshaveclub.com/shop)[Account](https://www.dollarshaveclub.com/account)[Contact](https://ask.dollarshaveclub.com/en-US/how-do-i-contact-you-192340)
 
@@ -22,10 +22,10 @@ Privacy Policy
 
 All articles
 
-Privacy PolicyUpdated a month ago
-=================================
+Privacy PolicyUpdated a day ago
+===============================
 
-Last updated: April 10, 2024
+Last updated: June 3, 2024
 
 This Privacy Policy applies to information collected by Dollar Shave Club, Inc. (“DSC,” “we,” “our” or “us”) in connection with the products and services that DSC offers.  This includes information collected online through our websites, branded pages on third party platforms (i.e., social networking services), our mobile applications, and through our direct marketing campaigns or other online communications, as well as offline through our Dollar Shave Club employees, events, and mobile messaging services (collectively, “DSC Services”). If you are a DSC employee, contractor, or job applicant, please refer to the [Employee, Contractor, and Job Applicant Privacy Notice.](https://drive.google.com/file/d/1c2cfXqy4QCVLfUsRgjuYXDw-JKdWH10P/view)
 
@@ -83,10 +83,11 @@ More information, including a description of your legal rights, can be found bel
 7. [CHILDREN'S PRIVACY](https://ask.dollarshaveclub.com/en-US/privacy-policy-195939#children)
 8. [SECURITY OF YOUR PERSONAL INFORMATION](https://ask.dollarshaveclub.com/en-US/privacy-policy-195939#security)
 9. [INFORMATION RETENTION](https://ask.dollarshaveclub.com/en-US/privacy-policy-195939#retention)
-10. [OTHER SITES](https://ask.dollarshaveclub.com/en-US/privacy-policy-195939#other)
-11. [INTERNATIONAL TRANSFERS](https://ask.dollarshaveclub.com/en-US/privacy-policy-195939#transfers)
-12. [CHANGES TO THIS PRIVACY POLICIES](https://ask.dollarshaveclub.com/en-US/privacy-policy-195939#changes)
-13. [CONTACT US](https://ask.dollarshaveclub.com/en-US/privacy-policy-195939#us)
+10. [NOTICE OF FINANCIAL INCENTIVE](https://ask.dollarshaveclub.com/en-US/privacy-policy-195939#incentive)
+11. [OTHER SITES](https://ask.dollarshaveclub.com/en-US/privacy-policy-195939#other)
+12. [INTERNATIONAL TRANSFERS](https://ask.dollarshaveclub.com/en-US/privacy-policy-195939#transfers)
+13. [CHANGES TO THIS PRIVACY POLICIES](https://ask.dollarshaveclub.com/en-US/privacy-policy-195939#changes)
+14. [CONTACT US](https://ask.dollarshaveclub.com/en-US/privacy-policy-195939#us)
 
 1. **PERSONAL INFORMATION COLLECTION**
 
@@ -138,7 +139,7 @@ The types of information that we (and our partners and service providers) may au
 
 **_Third Party Service Providers_**. We may use third party service providers to support the DSC Services.  Some of these service providers may use technologies, such as cookies, web beacons, pixel tags, log files, or other technologies to receive, collect, and store Personal Information on our behalf.
 
-**_Third Party Services and Technologies._** We may use third party services, such as Google Analytics, Adobe Marketing Cloud services, and Meta Conversations API, Pixel, and Custom Audiences to help us track, segment, and analyze usage of the DSC Services, and to help us or those third parties serve more targeted advertising to you on the DSC Services, on third party platforms and across the Internet. For these purposes, we share certain identifying information about you or your interactions with the DSC Services with these third parties. These third parties may also use technologies, such as cookies, web beacons, pixel tags, log files, Flash cookies, or other technologies to track online activity. They may also combine information they collect from your interaction with the DSC Services with information they collect from other sources. We may not have access to information these third parties collect using cookies or other tracking technologies.
+**_Third Party Services and Technologies._** We may use third party services, such as Google Analytics, Adobe Marketing Cloud services, and Meta Conversations API, Pixel, and Custom Audiences to help us track, segment, and analyze usage of the DSC Services, and to help us or those third parties serve more targeted advertising to you on the DSC Services, on third party platforms and across the Internet. For these purposes, we share certain identifying information about you or your interactions with the DSC Services with these third parties. These third parties may also use technologies, such as cookies, web beacons, pixel tags, log files, Flash cookies, or other technologies to track online activity. They may also combine information they collect from your interaction with the DSC Services with information they collect from other sources. We may not have access to information these third parties collect using cookies or other tracking technologies.
 
 To learn more about your  targeted advertising choices, please see the [Your Choices](https://ask.dollarshaveclub.com/hc/en-us/articles/360000381907-Privacy-Policy#choice) section below.
 
@@ -290,7 +291,7 @@ If you exercise any of the foregoing rights, we will not discriminate against yo
 
 **How to Submit a Request**
 
-To take advantage of your right to know, delete, correct, or portability under California, Colorado, Connecticut, Utah, or Virginia law, or to submit an appeal of a denial of your privacy rights, please head to [https://us.dollarshaveclub.com/?ketch\_show=preferences](https://us.dollarshaveclub.com/?ketch_show=preferences). You may also contact us by email at [\[email protected\]](https://ask.dollarshaveclub.com/cdn-cgi/l/email-protection), or by mail at Attn: Member Services/Privacy Officer, 13335 Maxella Ave, Marina del Rey, CA 90292.  We may request certain information about your interactions with DSC to verify your identity before we can respond to your access, deletion, correction, or portability requests.  DSC will confirm receipt of your request within 10 business days and will respond to your request within 45 calendar days, after proper verification, unless we need additional time, in which case we will let you know.
+To take advantage of your right to know, delete, correct, or portability under California, Colorado, Connecticut, Utah, or Virginia law, or to submit an appeal of a denial of your privacy rights, please head to [https://us.dollarshaveclub.com/?ketch\_show=preferences](https://us.dollarshaveclub.com/?ketch_show=preferences). You may also contact us by email at [\[email protected\]](https://ask.dollarshaveclub.com/cdn-cgi/l/email-protection), or by mail at Attn: Member Services/Privacy Officer, 13335 Maxella Ave, Marina del Rey, CA 90292.  We may request certain information about your interactions with DSC to verify your identity before we can respond to your access, deletion, correction, or portability requests.  DSC will confirm receipt of your request within 10 business days and will respond to your request within 45 calendar days, after proper verification, unless we need additional time, in which case we will let you know.
 
 To take advantage of your right to opt out of the sale or sharing of Personal Information or to opt out of targeted advertising, please click on the [Do Not Sell or Share My Personal Information link](https://us.dollarshaveclub.com/?ketch_show=preferences) which also is on our website footer or email us at [\[email protected\]](https://ask.dollarshaveclub.com/cdn-cgi/l/email-protection). We will work to comply with your opt-out request within 15 business days. 
 
@@ -314,13 +315,13 @@ The following chart details which categories of Personal Information we have col
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| **Category** **of  <br> Personal Information** | **Categories  <br> of Sources** | **Disclosures of Personal Information for a  <br> Business Purpose** | **Sale or Sharing of  <br> Personal Information** |
-| **Identifiers**, including your name, postal and email address, IP address, username, unique identifiers, or other similar identifiers. | Directly from consumers<br><br>Through automated means<br><br>Third-party sources | We have disclosed this category of information for a business purpose in the past 12 months to the following categories of third parties:<br><br>·  Our Service Providers<br><br>·  Our Business Partners<br><br>·  Our Research Partners<br><br>·  Our Analytics Partners | We have sold or shared this category of information in the past 12 months to or with the following categories of third parties:<br><br>·  Business Partners<br><br>·  Analytics Partners<br><br>·  Marketing and Advertising Partners (including Media Partners, social media companies) |
-| **Personal information categories listed in the** [](https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=CIV&division=3.&title=1.81.&part=4.&chapter=&article=)[**California Customer Records statute**](https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=CIV&division=3.&title=1.81.&part=4.&chapter=&article=), including email address. | Directly from consumers | We have disclosed this category of information for a business purpose in the past 12 months to the following categories of third parties:<br><br>·  Our Service Providers<br><br>·  Our Business Partners<br><br>·  Our Research Partners<br><br>·  Our Analytics Partners | We have sold or shared this category of information in the past 12 months to or with the following categories of third parties:<br><br>·           Business Partners<br><br>·           Analytics Partners<br><br>·           Marketing and Advertising Partners (including Media Partners, social media companies) |
-| **Protected classification characteristics under California or federal law,** including your gender, age, and parental status. | Directly from consumers | We have disclosed this category of information for a business purpose in the past 12 months to the following categories of third parties:<br><br>·  Our Service Providers<br><br>·  Our Business Partners<br><br>·  Our Research Partners<br><br>·  Our Analytics Partners | N/A |
-| **Commercial information**, including your purchase and usage history, goods and services preferences, payment and account information, wallet balance, and billing dates. | Directly from consumers<br><br>Through automated means | We have disclosed this category of information for a business purpose in the past 12 months to the following categories of third parties:<br><br>·  Our Service Providers<br><br>·  Our Business Partners<br><br>·  Our Research Partners<br><br>·  Our Analytics Partners | We have sold or shared this category of information in the past 12 months to or with the following categories of third parties:<br><br>·  Business Partners<br><br>·  Analytics Partners<br><br>·  Marketing and Advertising Partners (including Media Partners, social media companies) |
-| **Internet or other electronic network activity information,** including your web/app browsing history, search history related to the DSC Services, and information regarding your interactions with the DSC Services, including via an application, chat bot, or advertisement. | Directly from consumers<br><br>Through automated means | We have disclosed this category of information for a business purpose in the past 12 months to the following categories of third parties:<br><br>·  Our Service Providers<br><br>·  Our Business Partners<br><br>·  Our Research Partners<br><br>·  Our Analytics Partners | We have sold or shared this category of information in the past 12 months to or with the following categories of third parties:<br><br>·  Business Partners<br><br>·  Analytics Partners<br><br>·  Marketing and Advertising Partners (including Media Partners, social media companies) |
-| **Geolocation data,** including the location of the device you use to access the DSC Services. | Directly from consumers<br><br>Through automated means | N/A | N/A |
+| **Category** **of  <br> Personal Information** | **Categories  <br> of Sources** | **Disclosures of Personal Information for a  <br> Business Purpose** | **Sale or Sharing of  <br> Personal Information** |
+| **Identifiers**, including your name, postal and email address, IP address, username, unique identifiers, or other similar identifiers. | Directly from consumers<br><br>Through automated means<br><br>Third-party sources | We have disclosed this category of information for a business purpose in the past 12 months to the following categories of third parties:<br><br>·  Our Service Providers<br><br>·  Our Business Partners<br><br>·  Our Research Partners<br><br>·  Our Analytics Partners | We have sold or shared this category of information in the past 12 months to or with the following categories of third parties:<br><br>·  Business Partners<br><br>·  Analytics Partners<br><br>·  Marketing and Advertising Partners (including Media Partners, social media companies) |
+| **Personal information categories listed in the** [](https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=CIV&division=3.&title=1.81.&part=4.&chapter=&article=)[**California Customer Records statute**](https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=CIV&division=3.&title=1.81.&part=4.&chapter=&article=), including email address. | Directly from consumers | We have disclosed this category of information for a business purpose in the past 12 months to the following categories of third parties:<br><br>·  Our Service Providers<br><br>·  Our Business Partners<br><br>·  Our Research Partners<br><br>·  Our Analytics Partners | We have sold or shared this category of information in the past 12 months to or with the following categories of third parties:<br><br>·           Business Partners<br><br>·           Analytics Partners<br><br>·           Marketing and Advertising Partners (including Media Partners, social media companies) |
+| **Protected classification characteristics under California or federal law,** including your gender, age, and parental status. | Directly from consumers | We have disclosed this category of information for a business purpose in the past 12 months to the following categories of third parties:<br><br>·  Our Service Providers<br><br>·  Our Business Partners<br><br>·  Our Research Partners<br><br>·  Our Analytics Partners | N/A |
+| **Commercial information**, including your purchase and usage history, goods and services preferences, payment and account information, wallet balance, and billing dates. | Directly from consumers<br><br>Through automated means | We have disclosed this category of information for a business purpose in the past 12 months to the following categories of third parties:<br><br>·  Our Service Providers<br><br>·  Our Business Partners<br><br>·  Our Research Partners<br><br>·  Our Analytics Partners | We have sold or shared this category of information in the past 12 months to or with the following categories of third parties:<br><br>·  Business Partners<br><br>·  Analytics Partners<br><br>·  Marketing and Advertising Partners (including Media Partners, social media companies) |
+| **Internet or other electronic network activity information,** including your web/app browsing history, search history related to the DSC Services, and information regarding your interactions with the DSC Services, including via an application, chat bot, or advertisement. | Directly from consumers<br><br>Through automated means | We have disclosed this category of information for a business purpose in the past 12 months to the following categories of third parties:<br><br>·  Our Service Providers<br><br>·  Our Business Partners<br><br>·  Our Research Partners<br><br>·  Our Analytics Partners | We have sold or shared this category of information in the past 12 months to or with the following categories of third parties:<br><br>·  Business Partners<br><br>·  Analytics Partners<br><br>·  Marketing and Advertising Partners (including Media Partners, social media companies) |
+| **Geolocation data,** including the location of the device you use to access the DSC Services. | Directly from consumers<br><br>Through automated means | N/A | N/A |
 | **Professional or employment-related information**, including information relating to your income level. | Third-party sources | N/A | N/A |
 | **Education information,** including information relating to your education level | Third-party sources | N/A | N/A |
 | **Inferences**, meaning inferences that we draw from the above categories of Personal Information to create a personalized profile so we can better identify goods and services that may be of interest to you. | Directly from consumers<br><br>Through automated means<br><br>Third-party sources | N/A | N/A |
@@ -359,7 +360,7 @@ You have the right to request that we:
 
 We will not discriminate against you if you decide to exercise your rights under the CCPA.
 
-If you are interested in exercising any of the above-listed rights, please head to [https://us.dollarshaveclub.com/?ketch\_show=preferences.](https://us.dollarshaveclub.com/?ketch_show=preferences.) You may also contact us by email at [\[email protected\]](https://ask.dollarshaveclub.com/cdn-cgi/l/email-protection), or by mail at Attn: Member Services/Privacy Officer, 13335 Maxella Ave, Marina del Rey, CA 90292.  
+If you are interested in exercising any of the above-listed rights, please head to [https://us.dollarshaveclub.com/?ketch\_show=preferences.](https://us.dollarshaveclub.com/?ketch_show=preferences.) You may also contact us by email at [\[email protected\]](https://ask.dollarshaveclub.com/cdn-cgi/l/email-protection), or by mail at Attn: Member Services/Privacy Officer, 13335 Maxella Ave, Marina del Rey, CA 90292.  
 
 To protect your privacy, we may require the matching of up to three pieces of Personal Information provided with your request with information we maintain to verify that it is you making the request. Where applicable, we will use the requested information for verification purposes only. Please note that we may decline a request where we are unable to verify your identity and confirm the Personal Information we maintain relates to you.
 
@@ -405,15 +406,38 @@ To determine the appropriate retention period for Personal Information, we consi
 
 If we de-identify information, we will maintain and use the information in de-identified form and not attempt to re-identify the information except as required or permitted by law.
 
-10. **OTHER SITES** 
+  
+
+**10.** ****NOTICE OF FINANCIAL INCENTIVE**** 
+
+We may offer financial incentives to promote our products and services. These may include:
+
+* Razor Rewards, where you earn points for certain actions or purchases. You will receive perks for such point earnings, including, but not limited to:
+    * Shipping benefits 
+    * Early access to new products 
+    * Invites to IRL events
+    * Testing new products before launch 
+    * Enhanced customer service
+
+We may ask you to provide Personal Information in connection with these promotions, including the following Personal Information: your name, birthday, contact information (such as email address and telephone number), and zip code. Because these promotions involve the collection of Personal Information, they may be interpreted as “financial incentive” programs under California law or “bona fide loyalty programs” under Colorado law. We use this information for the purposes described above under the section titled “HOW WE USE THE PERSONAL INFORMATION COLLECTED,” including for targeted advertising. We may share your Personal Information with third parties as described in our “DISCLOSURE OF PERSONAL INFORMATION” section, including data analytics providers, advertising technology vendors, and social media platforms. 
+
+Participation in any financial incentive is optional. To enroll, please click here [https://us.dollarshaveclub.com/pages/rewards.](https://us.dollarshaveclub.com/pages/rewards)You may withdraw from the program at any time by emailing [\[email protected\]](https://ask.dollarshaveclub.com/cdn-cgi/l/email-protection). If you ask us to delete your Personal Information, we will not be able to provide you with access to these programs.
+
+The value of any financial incentive we offer is reasonably related to the value of any Personal Information you provide to us. We estimate the value of your Personal Information by considering, without limitation, the expenses we incur from collecting your Personal Information and/or providing the financial incentive to you, the revenue generated by your use of the financial incentive, and any improvements we can make to our products and services based on aggregating information obtained through the financial incentive program.
+
+Please note that we may provide additional terms that apply to a particular financial incentive. If applicable, those terms will be presented to you at sign up.
+
+  
+
+**11\. OTHER SITES** 
+
+  
 
 The DSC Services may contain links to other sites that we do not own or operate. This includes links from service providers, fulfillment companies, advertisers, sponsors, or other business partners that may use our logo(s) as part of a co-branding agreement. We are not responsible for these sites or their content, products, services, or privacy policies or practices. These other sites may place their own cookies on your Device and independently collect or solicit Personal Information from you. We encourage you to review the privacy policies of any third parties with which you engage. You should also assess the authenticity of any site which appears or claims that it is one of the DSC Services (including those linked to through an email or social networking page).
 
   
 
-  
-
-**11\. INTERNATIONAL TRANSFERS**
+**12\. INTERNATIONAL TRANSFERS**
 
   
 
@@ -421,13 +445,13 @@ DSC is a global business and it, or its service providers, may process, transfer
 
 If you are located in the European Economic Area, Switzerland, or the United Kingdom, please note that we may need to transfer your Personal Information to countries that have not been recognized as providing an adequate level of data protection. We generally use EU Standard Contractual Clauses (or other government-approved contracts) or other lawful data transfer mechanisms that provide appropriate safeguards for Personal Information that is transferred to countries that have not been recognized as providing an adequate level of protection. To learn more about the cross-border transfer of your Personal Information or the transfer mechanism we use to lawfully carry out such transfers, you can contact us as set forth in the “Contact Information” section below.
 
-**12\. CHANGES TO THIS PRIVACY POLICY**
+**13\.  CHANGES TO THIS PRIVACY POLICY**
 
 Any changes we may make to this Privacy Policy will be posted on this page. Please check back frequently to see any updates or changes to this Privacy Policy. If you do not agree or consent to these updates or changes, do not continue to use the DSC Services. If we make a material change to this Privacy Policy, we will provide appropriate notice to you. 
 
   
 
-**13.**           **CONTACT US** 
+**14.** **CONTACT US** 
 
 If you have any questions or concerns regarding this Privacy Policy or our information handling and privacy practices, please contact us at:
 
