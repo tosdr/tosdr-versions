@@ -1,0 +1,1 @@
+**We're sorry but FreeTaxUSA doesn't work properly without JavaScript enabled. Please enable it to continue.**
