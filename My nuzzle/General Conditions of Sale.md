@@ -1,0 +1,1 @@
+90-Day Money Back Guarantee (less P&H). Please contact customer service for return authorization information. Please include your complete name, address, daytime telephone number and email address inside the return package when returning your item.
