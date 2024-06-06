@@ -428,24 +428,14 @@ Build website templates online visually using the Bootstrap builder.
 
 [![](https://designmodo.com/wp-content/themes/designmodo/assets/svg/siter-fav.svg)siter.io Design in the cloud and create websites seamlessly, without any coding skills.](https://siter.io/) [![](https://designmodo.com/wp-content/themes/designmodo/assets/svg/pulsetic-fav.svg)pulsetic.com Get alerts by phone, SMS, email, Slack, etc. when website goes down.](https://pulsetic.com/) [![](https://designmodo.com/wp-content/themes/designmodo/assets/svg/static-fav.svg)static.app Quickly host your static website with SSL using our drag-n-drop solution.](https://static.app/) [![](https://designmodo.com/wp-content/themes/designmodo/assets/svg/mailpost-fav.svg)mailpost.io Quickly and easily send email marketing campaigns to your audience.](https://mailpost.io/)
 
-* [Website](https://designmodo.com/website/)
 * [Website Design](https://designmodo.com/website/website-design/)
-* [Website Examples](https://designmodo.com/website/website-examples/)
-* [Website Tools](https://designmodo.com/website/website-tools/)
-* [UX Design](https://designmodo.com/website/ux-design/)
-* [Email](https://designmodo.com/email/)
 * [Email Design](https://designmodo.com/email/email-design/)
+* [Website Examples](https://designmodo.com/website/website-examples/)
 * [Email Marketing](https://designmodo.com/email/email-marketing/)
+* [Website Tools](https://designmodo.com/website/website-tools/)
 * [Email Tools](https://designmodo.com/email/email-tools/)
-* [Resources](https://designmodo.com/resources/)
-* [Design](https://designmodo.com/resources/design/)
-* [Coding](https://designmodo.com/resources/coding/)
-* [Adobe Tools](https://designmodo.com/resources/adobe-tools/)
-* [App Design](https://designmodo.com/resources/app-design/)
-* [Interviews](https://designmodo.com/resources/interviews/)
-* [Freebies](https://designmodo.com/resources/freebies/)
 * [Bootstrap](https://designmodo.com/resources/bootstrap/)
-* [WordPress](https://designmodo.com/resources/wordpress/)
+* [Resources](https://designmodo.com/resources/)
 * [View All Articles](https://designmodo.com/articles/)
 
 * [Log In](https://designmodo.com/my-account/sign-in/)
@@ -496,7 +486,7 @@ Create an amazing static website in minutes and export ready-to-use template.
 
 ### Articles
 
-[Website](https://designmodo.com/website/)[Website Design](https://designmodo.com/website/website-design/)[Website Examples](https://designmodo.com/website/website-examples/)[Website Tools](https://designmodo.com/website/website-tools/)[UX Design](https://designmodo.com/website/ux-design/)[Email](https://designmodo.com/email/)[Email Design](https://designmodo.com/email/email-design/)[Email Marketing](https://designmodo.com/email/email-marketing/)[Email Tools](https://designmodo.com/email/email-tools/)[Resources](https://designmodo.com/resources/)[Design](https://designmodo.com/resources/design/)[Coding](https://designmodo.com/resources/coding/)[Adobe Tools](https://designmodo.com/resources/adobe-tools/)[App Design](https://designmodo.com/resources/app-design/)[Interviews](https://designmodo.com/resources/interviews/)[Freebies](https://designmodo.com/resources/freebies/)[Bootstrap](https://designmodo.com/resources/bootstrap/)[WordPress](https://designmodo.com/resources/wordpress/)
+[Website Design](https://designmodo.com/website/website-design/)[Email Design](https://designmodo.com/email/email-design/)[Website Examples](https://designmodo.com/website/website-examples/)[Email Marketing](https://designmodo.com/email/email-marketing/)[Website Tools](https://designmodo.com/website/website-tools/)[Email Tools](https://designmodo.com/email/email-tools/)[Bootstrap](https://designmodo.com/resources/bootstrap/)[Resources](https://designmodo.com/resources/)
 
 ### Account
 
