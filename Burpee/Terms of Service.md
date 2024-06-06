@@ -10,7 +10,9 @@ Ok
 
 [Skip to Content](#contentarea)
 
-**Extended! Order today for [50% off seeds](https://www.burpee.com/vegetables/direct-sow-vegetable-seeds/) with code SEEDS424   \*Exclusions Apply**
+**Shop now for [50% off seeds!](https://www.burpee.com/vegetables/direct-sow-vegetable-seeds/) Use code SEEDS624   \*Exclusions Apply**
+
+[Shipping Schedule](https://www.burpee.com/shipping-information/)
 
 [Support](https://support.burpee.com/support/home "Support")
 
@@ -21,7 +23,7 @@ Sign in
 * [Retail](https://www.burpee.com/customer/account/login/)
 * [Create an Account](https://www.burpee.com/customer/account/create/)
 
-[![Burpee](https://www.burpee.com/static/version1711620551/frontend/Burpee/default/en_US/images/logo.svg "Burpee")](https://www.burpee.com/ "Burpee")
+[![Burpee](https://www.burpee.com/static/version1715236761/frontend/Burpee/default/en_US/images/logo.svg "Burpee")](https://www.burpee.com/ "Burpee")
 
 Close
 
@@ -38,6 +40,7 @@ Close
 * [Sign In](https://www.burpee.com/customer/account/login/)
 * [Create An Account](https://www.burpee.com/customer/account/create/)
 * [Support](https://support.burpee.com/support/home "Support")
+* [Shipping Schedule](https://www.burpee.com/shipping-information/ "Shipping Schedule")
 
 * [Home](https://www.burpee.com/ "Go to Home Page")
 * **Terms & Conditions**
@@ -357,7 +360,7 @@ Sign up
 * [Shop Digital Catalog](https://catalogs.burpee.com/books/yryq/index.html "Shop Digital Catalog")
 * [**Request a Catalog**](https://www.burpee.com/catalogrequest/ "Request a Catalog")
 
-[![Burpee electronic gift card](https://www.burpee.com/media/wysiwyg/BP23_EGift_HomePage.jpg?optimize=medium)![Burpee electronic gift card](https://www.burpee.com/media/wysiwyg/BP23_EGift_HomePage.jpg?optimize=medium)](https://www.burpee.com/e-gift-card.html)
+[![Burpee electronic gift card](https://www.burpee.com/media/wysiwyg/BP24_MD_Gift-Card_footer.png?optimize=medium)![Burpee electronic gift card](https://www.burpee.com/media/wysiwyg/BP24_MD_Gift-Card_footer.png?optimize=medium)](https://www.burpee.com/e-gift-card.html)
 
 **[Gift Cards](https://www.burpee.com/e-gift-card.html/ "Gift Cards")**
 
