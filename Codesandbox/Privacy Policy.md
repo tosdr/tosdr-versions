@@ -18,9 +18,9 @@
         
         Try frameworks and experiment new tools.](https://codesandbox.io/learn-and-experiment)
 * [Resources](https://codesandbox.io/resources)
-    * [languageDiscover
+    * [codeTemplates
         
-        Find inspiration for your next project.](https://codesandbox.io/discover)
+        Find inspiration for your next project.](https://codesandbox.io/templates)
     * [articleBlog
         
         Read news and insights from our team.](https://codesandbox.io/blog)
