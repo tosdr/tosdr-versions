@@ -113,7 +113,7 @@
     * Partner Programs
         * [Implementation Partners](https://www.coupa.com/partners/partner-connect-program/implementation-partners)
         * [Payment Partners](https://www.coupa.com/partners/pay-partners)
-        * [CoupaLink Technology Partners](https://www.coupa.com/partners/coupalink)
+        * [Coupa App Marketplace Partners](https://www.coupa.com/partners/coupalink)
         * [Managed Services Provider Partners](https://www.coupa.com/partners/partner-connect-program/managed-service-partners)
         * [Application Management Partners](https://www.coupa.com/partners/partner-connect-program/application-management-partners)
         * [Management Consulting Partners](https://www.coupa.com/partners/partner-connect-program/management-consulting-partners)
@@ -465,7 +465,7 @@ To see Coupa’s full DPF Statement and learn about how Coupa complies with the 
         * [Partner Login](https://partnerconnect.coupa.com/s/)
         * [Implementation Partners](https://www.coupa.com/partners/partner-connect-program/implementation-partners)
         * [Payment Partners](https://www.coupa.com/partners/pay-partners)
-        * [CoupaLink Technology Partners](https://www.coupa.com/partners/coupalink)
+        * [Coupa App Marketplace Partners](https://www.coupa.com/partners/coupalink)
         * [Managed Services Provider Partners](https://www.coupa.com/partners/partner-connect-program/managed-service-partners)
         * [Application Management Partners](https://www.coupa.com/partners/partner-connect-program/application-management-partners)
         * [Management Consulting Partners](https://www.coupa.com/partners/partner-connect-program/management-consulting-partners)
@@ -494,7 +494,7 @@ To see Coupa’s full DPF Statement and learn about how Coupa complies with the 
     * News
         * [Press Releases](https://www.coupa.com/company/press-releases)
         * [News Articles](https://www.coupa.com/company/news-articles)
-        * [Awards](https://www.coupa.com/empresa/premios)
+        * [Awards](https://www.coupa.com/company/awards)
         * [Press Kit](https://www.coupa.com/company/press-kit)
         * [Blog](https://www.coupa.com/blog)
     * Initiatives
