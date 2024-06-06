@@ -15,7 +15,7 @@ Jump to:
 * [Where does CDCK store data about me?](#heading--locality)
 * [Does CDCK comply with the EU General Data Protection Regulation?](#heading--gdpr)
 * [How does CDCK safeguard international data transfers after Schrems II?](#heading--schrems-ii)
-* [Does CDCK comply with the California Consumer Privacy Act?](#heading--ccpa)
+* [Does CDCK comply with the California Consumer Privacy Act and other US state comprehensive privacy laws?](#heading--ccpa)
 * [Where can I access data about me?](#heading--access)
 * [How can I change or erase data about me?](#heading--change)
 * [Does CDCK make automated decisions based on data about me?](#heading--automated-decisions)
@@ -253,12 +253,14 @@ Currently:
 * CDCK has adopted a policy for how we will respond to those orders and requests, in case we ever receive one. CDCK will suspend processing, notify any customer for forums we host for others, minimize disclosure, and resist disclosure of personal data, all as the law allows.
     
 
-Does CDCK comply with the California Consumer Privacy Act?
-----------------------------------------------------------
+Does CDCK comply with the California Consumer Privacy Act and other US state comprehensive privacy laws?
+--------------------------------------------------------------------------------------------------------
 
-CDCK complies with its obligations under the California Consumer Privacy Act (CCPA). CDCK [does _not_ sell](#heading--ccpa-sale) your personal information within the meaning of that law. Information on CCPA user rights — such as [accessing](#heading--access) or [deleting](#heading--access) your personal information — can be found throughout this privacy notice. So can information about specific CCPA consumer rights, like [requesting disclosure about information CDCK collects](#heading--access) and [requesting deletion of your personal information](#heading--change).
+CDCK is not presently a “business” for the purposes of the California Consumer Privacy Act (CCPA) or a “controller” directly subject to other US state comprehensive privacy laws. But we may act as a service provider for CCPA “businesses” or as a processor for “controllers” subject to other US state comprehensive privacy laws when we host forums on behalf of customers. We offer standard data processing terms for customers who are CCPA “businesses” or “controllers” subject to other US state comprehensive privacy laws.
 
-CDCK is not presently a “business” for the purposes of the CCPA, but we may act as a service provider for CCPA businesses when we host forums on behalf of customers. We offer a standard [Service Provider Agreement](#heading--customers) for CCPA business customers.
+Where we process personal information for our customers, CDCK complies with its obligations as a service provider under the CCPA and as a processor under other US state comprehensive privacy laws. CDCK [does _not_ sell](#heading--ccpa-sale) your personal information.
+
+If we process your personal information on behalf of one of our customers and you would like to make a related inquiry or exercise choices that customer may provide, please contact the customer that you interact with directly. Information on features that our customers may offer, depending on their settings, with respect to your personal information — such as [accessing](#heading--access) personal information, [requesting disclosure about information CDCK collects](#heading--access), and [requesting deletion of your personal information](#heading--change) — can be found throughout this privacy notice.
 
 Where can I access data about me?
 ---------------------------------
@@ -341,7 +343,7 @@ For complaints under GDPR, European Union users may lodge complaints with their 
 How can I find out about changes?
 ---------------------------------
 
-This version of CDCK’s privacy questions and answers took effect April 4, 2024.
+This version of CDCK’s privacy questions and answers took effect May 30, 2024.
 
 CDCK will post the next version at [https://meta.discourse.org/privacy](https://meta.discourse.org/privacy). CDCK may change how it announces changes in future versions.
 
