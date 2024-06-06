@@ -1,8 +1,8 @@
 Une question ? Besoin d'aide ?
 
-Consultez notre aide en ligne ou contactez-nous
+Consultez notre Centre d'aide ou contactez-nous
 
-[Consulter le Centre d'aide](https://doctolibpatient.zendesk.com/hc/fr?source=help_button)
+[Ouvrir le Centre d'aide](https://doctolibpatient.zendesk.com/hc/fr?source=help_button)
 
 ![Doctolib](https://assets.doctolib.fr/img/cms/logo-blue.png)
 
@@ -28,7 +28,7 @@ Pour les praticiens
 -------------------
 
 * [Logiciel de gestion Doctolib Pro](https://info.doctolib.fr/?origin=home-footer&utm_button=footer&utm_content-group=faq&utm_website=doctolib_patients)
-* [Doctolib Community](https://community.doctolib.com/)
+* [Communauté Doctolib](https://community.doctolib.com/)
 
 Trouvez votre spécialiste
 -------------------------
