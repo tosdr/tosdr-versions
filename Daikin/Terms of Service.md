@@ -63,7 +63,8 @@ GLOBAL
 * [Corporate Information](https://www.daikin.com/corporate/overview)
     
     * [Message from Management](https://www.daikin.com/corporate/overview/message)
-    * [Our Group Philosophy](https://www.daikin.com/corporate/overview/philosophy)
+    * [Daikin Group Philosophy](https://www.daikin.com/corporate/overview/philosophy)
+    * [Behaviors](https://www.daikin.com/corporate/overview/pcmbehaviors)
     * [Daikin's Vision](https://www.daikin.com/corporate/overview/vision)
     * [Management Overview](https://www.daikin.com/corporate/overview/summary)
     * [Initiatives For Intellectual Properties](https://www.daikin.com/corporate/ip)
@@ -200,29 +201,15 @@ PRODUCTS & SERVICES
 
 SUSTAINABILITY
 
-* [Sustainability Top](https://www.daikin.com/errors/40x?item=web%3a%7b424058E2-9531-4624-BD9F-E8D0DBB1684E%7d%40en)
-* [Daikin CSR at a Glance](https://www.daikin.com/errors/40x?item=web%3a%7bA61B78D4-1826-4865-84E8-7E7BC0D18649%7d%40en)
-* [Daikin’s Sustainability](https://www.daikin.com/errors/40x?item=web%3a%7b530C537C-0CD1-48F2-92DE-AE86F24C5167%7d%40en)
-* [CSR and Strategy](https://www.daikin.com/errors/40x?item=web%3a%7bEFB08486-DBA6-4995-B2BA-25318A4BEA73%7d%40en)
-* [Environment](https://www.daikin.com/errors/40x?item=web%3a%7b6CE79752-8498-4248-AAF9-FC6A7C1D57FA%7d%40en)
-* [New Value Creation](https://www.daikin.com/errors/40x?item=web%3a%7b2A7BA755-BCF8-4D7E-81D2-07C82D458F7E%7d%40en)
-* [Customer Satisfaction](https://www.daikin.com/errors/40x?item=web%3a%7b7E83AA6B-8F1A-45E5-9C22-149DEF189DF1%7d%40en)
-* [Human Resources](https://www.daikin.com/errors/40x?item=web%3a%7b188A6BEB-4195-48FF-88DE-362466EBF2BA%7d%40en)
-* [Corporate Governance](https://www.daikin.com/errors/40x?item=web%3a%7b0634599B-F3CD-4921-9AC6-B3B13C9D8841%7d%40en)
-* [Respect for Human Rights](https://www.daikin.com/errors/40x?item=web%3a%7bDDFD62F5-A2E1-4802-8780-6974A29BE6A8%7d%40en)
-* [Supply Chain Management](https://www.daikin.com/errors/40x?item=web%3a%7bEC44F8C8-332D-40C2-B60A-950853E03362%7d%40en)
-* [Stakeholder Engagement](https://www.daikin.com/errors/40x?item=web%3a%7b853CDA19-1F9E-40E8-A287-CEB03125AFD4%7d%40en)
-* [Communities](https://www.daikin.com/errors/40x?item=web%3a%7b084A6F6E-7EBE-47AA-8CFC-733C0D0D5311%7d%40en)
-* [Key Activities](https://www.daikin.com/errors/40x?item=web%3a%7bF96D288B-B5B4-4541-A287-C74B41C116D4%7d%40en)
-* [Sustainability Report](https://www.daikin.com/errors/40x?item=web%3a%7bF062F279-2C38-4E29-8876-E4228B5C3614%7d%40en)
-* [Environment-Related Content](https://www.daikin.com/errors/40x?item=web%3a%7b20D8A7B3-71EB-46AD-A11C-4BA6792C4EE8%7d%40en)
-* [Search for CSR Contents](https://www.daikin.com/errors/40x?item=web%3a%7bFCCA5006-A628-4537-8B59-7F462493FF05%7d%40en)
 * [INTRODUCTION](https://www.daikin.com/csr/about)
 * [MANAGEMENT](https://www.daikin.com/csr/management)
 * [FEATURE](https://www.daikin.com/csr/feature)
+* [ENVIRONMENT](https://www.daikin.com/csr/environment)
 * [SOCIAL](https://www.daikin.com/csr/social)
 * [GOVERNANCE](https://www.daikin.com/csr/governance)
 * [DATA](https://www.daikin.com/csr/data)
+* [SUSTAINABILITY REPORT](https://www.daikin.com/csr/report)
+* [ENVIRONMENT-RELATED CONTENT](https://www.daikin.com/csr/environment_special)
 
 CAREERS
 
@@ -332,7 +319,8 @@ Find out more in your region.
 
 * [Corporate Information](https://www.daikin.com/corporate/overview)
 * [Message from Management](https://www.daikin.com/corporate/overview/message)
-* [Our Group Philosophy](https://www.daikin.com/corporate/overview/philosophy)
+* [Daikin Group Philosophy](https://www.daikin.com/corporate/overview/philosophy)
+* [Behaviors](https://www.daikin.com/corporate/overview/pcmbehaviors)
 * [Daikin's Vision](https://www.daikin.com/corporate/overview/vision)
 * [Management Overview](https://www.daikin.com/corporate/overview/summary)
 * [Business Guide](https://www.daikin.com/corporate/overview/business)
@@ -390,11 +378,15 @@ Find out more in your region.
 
 [SUSTAINABILITY](https://www.daikin.com/csr)
 
+* [Introduction](https://www.daikin.com/csr/about)
 * [Management](https://www.daikin.com/csr/management)
+* [Feature](https://www.daikin.com/csr/feature)
 * [Environment](https://www.daikin.com/csr/environment)
 * [Social](https://www.daikin.com/csr/social)
 * [Governance](https://www.daikin.com/csr/governance)
+* [Data](https://www.daikin.com/csr/data)
 * [Sustainability Report](https://www.daikin.com/csr/report)
+* [Environment-Related Content](https://www.daikin.com/csr/environment_special)
 
 [CAREERS](https://www.daikin.com/careers)
 
