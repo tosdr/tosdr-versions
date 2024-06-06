@@ -1,0 +1,1 @@
+Your browser has Javascript disabled. Please go to your browser preferences and enable Javascript in order to use Scratch.
