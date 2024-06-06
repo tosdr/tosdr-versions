@@ -1,0 +1,135 @@
+[![SimpleLogin logo](https://simplelogin.io/logo.svg)](https://simplelogin.io/)
+
+* [Community](javascript:;)
+    
+    * [Blog
+        
+        Stories about our journey to build an open-source tool to protect your privacy, what we've learnt and tips to take control of your privacy.](https://simplelogin.io/blog/)
+    * [Documentation
+        
+        How to get the most from SimpleLogin.](https://simplelogin.io/docs/)
+    * [GitHub Repo
+        
+        Read, review our code, share ideas. Make sure that SimpleLogin is doing what it says.](https://github.com/simple-login/app)
+    * [Forum
+        
+        Discuss about new features, ask questions, share best practices, etc.](https://forum.simplelogin.io/)
+    
+    ##### Comparisons
+    
+    * [vs Plus Sign (+) Trick](https://simplelogin.io/blog/email-alias-vs-plus-sign/)
+    * [vs Firefox Relay](https://simplelogin.io/blog/vs-firefox-relay/)
+    * [vs Apple's Hide My Email](https://simplelogin.io/vs-apple-hide-my-email/)
+    
+* [Pricing](https://simplelogin.io/pricing/)
+* [Login](https://app.simplelogin.io/auth/login)
+* [Sign Up](https://app.simplelogin.io/auth/register)
+
+Terms and Conditions
+====================
+
+**Last updated: 2024-03-01**
+
+Thanks for using our products and services (“Services”). The Services are provided by Proton AG, located at Route de la Galaise 32, 1228 Plan-les-Ouates.
+
+By using our Services, you are agreeing to these terms. Please read them carefully.
+
+In the rare case that additional terms or product requirements (including age requirements) are added, additional terms will be available with the relevant Services, and those additional terms become part of your agreement with us if you use those Services.
+
+1\. Using our services
+----------------------
+
+You must follow any policies made available to you within the Services.
+
+Don’t misuse our Services. For example, don’t interfere with our Services or try to access them using a method other than the interface and the instructions that we provide. Any kind of reverse-engineering, without prior agreement, is prohibited. You may use our Services only as permitted by law, including applicable export and re-export control laws and regulations.
+
+Do not use any resource created within the Services for illegal activity. Using SimpleLogin email alias on illegal website is therefore prohibited.
+
+We may suspend or stop providing our Services to you if you do not comply with our terms or policies or if we are investigating suspected misconduct.
+
+It is prohibited to use the Services to send spams, junk mail, bulk emails. It is also forbidden to use your aliases to forward spams from “spambots”. Any activity that aims to deteriorate the Services email delivery capability is prohibited and can lead to immediate account suspension.
+
+It is prohibited to use a disposable or forwarding email address as SimpleLogin “mailbox”.
+
+The Services are provided exclusively to persons. Accounts registered by bots or any automated methods are not authorized and will be terminated.
+
+Having multiple accounts on SimpleLogin is not considered an acceptable use of our service. Accounts must also only be created and maintained by their effective users (e.g. it is not acceptable to create accounts in somebody else’s name and later transfer credentials to that third party).
+
+Abusive usage of aliases for third-party services is prohibited. For example, you shouldn’t use email aliases for bulk signups on a third party website.
+
+We reserve the right to terminate or suspend access to the Services immediately, without prior notice or liability, for any harmful behavior that includes but not limited to: sending spams, spreading viruses, repeatedly marking emails from SimpleLogin as spam.
+
+### A. Personal Data that we collect about you.
+
+Personal Data is any information that relates to an identified or identifiable individual. The Personal Data that you provide directly to us through our Sites will be apparent from the context in which you provide the data. In particular:
+
+When you register for a SimpleLogin account we collect your full name, email address, and account log-in credentials. When you fill-in our online form to subscribe to our newsletter, we collect your full name and email. When you respond to SimpleLogin emails we collect your email address, name and any other information you choose to include in the body of your email or responses.
+
+### B. Information that we collect automatically on our Sites.
+
+We use [Plausible](https://plausible.io/), an open-source and privacy-aware web statistics service. Plausible does not collect any personal data or personally identifiable information (PII), does not use cookies and respect the privacy of the website visitors. Plausible data policy is available at [https://plausible.io/data-policy](https://plausible.io/data-policy)
+
+2\. Privacy
+-----------
+
+SimpleLogin’s privacy policies explain how we treat your personal data and protect your privacy when you use our Services. By using our Services, you agree that SimpleLogin can use such data in accordance with our privacy policies.
+
+[![SimpleLogin logo](https://simplelogin.io/logo-white.svg)](https://simplelogin.io/)
+
+SimpleLogin is an [open source](https://github.com/simple-login) **email alias** solution to protect your email address.
+
+SimpleLogin is the product of [Proton AG](https://proton.me/), registered in Switzerland under number CHE-354.686.492.
+
+### Developer
+
+* [Sign in with SimpleLogin](https://simplelogin.io/developer/)
+
+* [GitHub ![GitHub](https://img.shields.io/github/stars/simple-login/app?style=social)](https://github.com/simple-login/app) 
+
+* [API Docs](https://github.com/simple-login/app/blob/master/docs/api.md)
+
+* [Status](https://status.simplelogin.io/)
+
+### Company
+
+* [Pricing](https://simplelogin.io/pricing/)
+
+* [Blog](https://simplelogin.io/blog/)
+
+* [About Us](https://simplelogin.io/about/)
+
+* [Contact Us](https://simplelogin.io/contact/)
+
+* [Press](https://simplelogin.io/press/)
+
+* [Terms](https://simplelogin.io/terms/)
+
+* [Privacy](https://simplelogin.io/privacy/)
+
+* [Security](https://simplelogin.io/security/)
+
+### Resources
+
+* [FAQ](https://simplelogin.io/faq/)
+* [Forum](https://forum.simplelogin.io/)
+* [Documentation](https://simplelogin.io/docs/)
+* [Report abuse](https://simplelogin.io/docs/report-abuse/)
+* [Report blocking website](https://simplelogin.io/docs/report-blocking-website/)
+* [Why SimpleLogin isn't disposable mail](https://simplelogin.io/docs/why-simplelogin-is-not-disposable-mail/)
+
+### Downloads
+
+* [Chrome Extension](https://chrome.google.com/webstore/detail/dphilobhebphkdjbpfohgikllaljmgbn)
+* [Firefox Add-on](https://addons.mozilla.org/firefox/addon/simplelogin/)
+* [Edge Add-on](https://microsoftedge.microsoft.com/addons/detail/simpleloginreceive-sen/diacfpipniklenphgljfkmhinphjlfff)
+* [Safari Extension](https://apps.apple.com/app/id6475835429)
+* [iOS (App Store)](https://apps.apple.com/app/id1494359858)
+* [Android (Play Store)](https://play.google.com/store/apps/details?id=io.simplelogin.android)
+* [Android (F-Droid)](https://f-droid.org/en/packages/io.simplelogin.android.fdroid/)
+
+* [](https://twitter.com/SimpleLogin)
+* [](https://www.reddit.com/r/Simplelogin/)
+* [](https://www.producthunt.com/posts/simplelogin)
+* [](https://fosstodon.org/@simplelogin)
+
+[](#)
