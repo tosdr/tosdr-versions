@@ -4,13 +4,15 @@
     
 * Filament
     
-[* Accessories](https://eu.store.bambulab.com/fr-fr/collections/accessories?skr=yes)* Software
+[* Accessories](https://store.bambulab.com/collections/accessories?skr=yes)* Software
     
-[* Support](https://bambulab.com/en/support)* Company
+* Support
+    
+* Company
     
 [* MakerWorld](https://makerworld.com/?from=bambulab.com)
 
-[Store](https://eu.store.bambulab.com/fr-fr/?skr=yes)
+[Store](https://store.bambulab.com/?skr=yes)
 
 Sign In
 
@@ -106,7 +108,7 @@ Most devices and browsers provide a way to set your cookie preferences. These se
 
 If you have any comments or questions about the use of cookies on our website, please do not hesitate to Contact us. Our contact details are listed below. You can also see our [**Privacy Policy**](https://bambulab.com/en/policies/privacy) for general information and details on the types of information. We collect about you and how you can exercise your privacy rights.
 
-Email：[support@bambulab.com](mailto:support@bambulab.com).
+Email: [privacy@bambulab.com](mailto:privacy@bambulab.com).
 
 Be the first to receive our latest product updates, newest offerings, and free product trials.
 
@@ -116,7 +118,7 @@ By signing up, you agree to Bambu Lab’s [Privacy Policy](https://bambulab.com/
 
 Product
 
-[3D Printers](https://eu.store.bambulab.com/fr-fr/collections/3d-printer?skr=yes)[Filament](https://eu.store.bambulab.com/fr-fr/collections/bambu-lab-3d-printer-filament?skr=yes)[Accessories](https://eu.store.bambulab.com/fr-fr/collections/accessories?skr=yes)
+[3D Printers](https://store.bambulab.com/collections/3d-printer?skr=yes)[Filament](https://store.bambulab.com/collections/bambu-lab-3d-printer-filament?skr=yes)[Accessories](https://store.bambulab.com/collections/accessories?skr=yes)
 
 Community
 
@@ -124,7 +126,7 @@ Community
 
 Support
 
-[Visit our Support Center](https://bambulab.com/en/support)[Official Wiki](https://wiki.bambulab.com/)[System Status](https://status.bambulab.com/)
+[Visit our Support Center](https://bambulab.com/en/support)[Official Wiki](https://wiki.bambulab.com/)[System Status](https://status.bambulab.com/)[Security](https://bambulab.com/en/security)
 
 Software
 
