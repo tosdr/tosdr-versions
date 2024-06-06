@@ -8,7 +8,7 @@ English
 
 What is Cookiebot
 
-[Cookiebot™ Consent Solution](https://www.cookiebot.com/en/cookie-consent-solution/) [Cookiebot CMP Features](https://www.cookiebot.com/en/cookiebot-cmp-features/) [WordPress Plugin](https://www.cookiebot.com/en/new-wp-cookie-plugin/)
+[Cookiebot™ Consent Solution](https://www.cookiebot.com/en/cookie-consent-solution/) [Cookiebot CMP Features](https://www.cookiebot.com/en/cookiebot-cmp-features/) [Cookiebot™ for Wix by Usercentrics](https://www.cookiebot.com/en/cookiebot-for-wix-by-usercentrics-app/) [WordPress Plugin](https://www.cookiebot.com/en/new-wp-cookie-plugin/)
 
 Regulations
 
@@ -490,9 +490,11 @@ Subscribe By clicking on “Subscribe” I confirm that I want to subscribe to t
 
  Age\* 
 
-**Make your website’s use of cookies and online tracking compliant today**
+**Download Cookiebot for your preferred CMS**
 
-[TRY FOR FREE](https://admin.cookiebot.com/signup)
+[![wordpress.svg](https://www.cookiebot.com/en/wp-content/uploads/sites/7/2023/02/wordpress.svg)Cookiebot™ WordPress Plugin](https://wordpress.org/plugins/cookiebot/)
+
+[![wix_20x20.svg](https://www.cookiebot.com/en/wp-content/uploads/sites/7/2024/05/wix_20x20.svg)Cookiebot™ for Wix by Usercentrics](https://www.wix.com/app-market/cookiebot-for-wix?utm_source=cb_footer_cta&utm_medium=referral)
 
 ![usercentrics-cookiebot-logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20110%2032'%3E%3C/svg%3E)
 
@@ -521,8 +523,6 @@ By clicking on “Sign up” I confirm that I want to subscribe to the Usercentr
 [Cookiebot Legal Notice](https://www.cookiebot.com/en/legal-notice/) [About](https://www.cookiebot.com/en/about/) [Resellers](https://www.cookiebot.com/en/resellers/) [Cookiebot Reseller Agreement](https://www.cookiebot.com/en/reseller-agreement/) [Sitemap](https://www.cookiebot.com/en/sitemap/)
 
 [Book a trial consultation](https://www.cookiebot.com/en/trial-guide-consultation/) [Request a quote](https://www.cookiebot.com/en/quote-input/) [Cookiebot™ Cookie Checker](https://www.cookiebot.com/en/cookie-checker/) [Help Center](https://support.cookiebot.com/hc/en-us/)
-
-[Get the Cookiebot WordPress Plugin](https://wordpress.org/plugins/cookiebot/)
 
 **Cookiebot CMP is a Consent Management Platform that helps businesses make their websites compliant with data privacy regulations.**©2024 Cookiebot. All rights reserved. Cookiebot is a trademark of [Usercentrics](https://usercentrics.com/?utm_source=cookiebot&utm_medium=referral&utm_campaign=trademark) A/S. Usercentrics A/S is registered in Denmark. Company reg. no.: 34624607.
 
