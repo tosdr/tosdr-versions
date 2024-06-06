@@ -1,0 +1,213 @@
+[![Lemon.io](https://lemon.io/wp-content/uploads/2020/02/logo-lemon@2x.png)
+
+![Lemon.io](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20390%20100%22%3E%3C/svg%3E)](https://lemon.io/)
+
+* [Blog](https://lemon.io/blog/)
+* [For devs](https://lemon.io/for-developers/)
+* [About Us](https://lemon.io/about-us/)
+* Resources
+    * [faq for clients](https://lemon.io/support-help-faq/)
+    * [faq for developers](https://lemon.io/faq-for-devs/)
+    * Freelance Websites Review
+        * [Lemon Review](https://lemon.io/lemon-io-review/)
+        * [Upwork Review](https://lemon.io/upwork-review/)
+        * [Top 10 Freelance Websites to Hire from](https://lemon.io/top-ten-freelancing-websites/)
+        * [Best Sites to Hire Devs](https://lemon.io/best-sites-to-hire-freelance-developers/)
+        * [Sites Like Upwork — Reviews Of Top 5 Upwork Alternatives](https://lemon.io/upwork-alternatives/)
+        * [Freelancer Review](https://lemon.io/freelancer-review/)
+        * [Freelancer Alternatives](https://lemon.io/freelancer-alternatives/)
+    * Hire Developers
+        * [Hire Remote Developers](https://lemon.io/hire-remote-developers/)
+        * [Hire iOS Developers](https://lemon.io/hire-ios-developers/)
+        * [Hire Ruby Developers](https://lemon.io/hire-ruby-on-rails-developers/)
+        * [Hire part-time Developers](https://lemon.io/?page_id=9918)
+        * [Hire Angular Developers](https://lemon.io/hire-angular-developers/)
+        * [Hire DevOps Engineer](https://lemon.io/hire-devops-engineers/)
+        * [Hire Vue.js Developers](https://lemon.io/hire-vue-js-developers/)
+        * [Hire React Native Developers](https://lemon.io/hire-react-native-developers/)
+        * [Hire Node.js Developers](https://lemon.io/hire-node-js-developers/)
+        * [Hire Flutter Developers](https://lemon.io/hire-flutter-developers/)
+        * [Hire TypeScript Developers](https://lemon.io/hire-typescript-developers/)
+        * [Hire Startup Developers](https://lemon.io/hire-startup-developers/)
+        * [Hire Senior Android Developers](https://lemon.io/hire-senior-android-developers/)
+        * [Hire Full Stack Developers](https://lemon.io/hire-full-stack-developers/)
+        * [Hire Senior Software Developers](https://lemon.io/hire-senior-software-developers/)
+        * [Hire Machine Learning engineers](https://lemon.io/hire-machine-learning-engineers/)
+        * [Hire Offshore Developers](https://lemon.io/hire-offshore-developers/)
+        * [Hire iPhone Developers](https://lemon.io/hire-iphone-developers/)
+        * [Hire jQuery Developers](https://lemon.io/hire-jquery-developers/)
+        * [Hire Spring Developers](https://lemon.io/hire-spring-developers/)
+        * [Hire Software Developers](https://lemon.io/hire-software-developers/)
+        * [Hire Software Architects](https://lemon.io/hire-software-architects/)
+        * [Hire Swift Developers](https://lemon.io/hire-swift-developers/)
+        * [Hire Kotlin Developers](https://lemon.io/hire-kotlin-developers/)
+        * [Hire Data Science Developers](https://lemon.io/hire-data-scientists-developers/)
+        * [Hire Software Tech Lead Developers](https://lemon.io/hire-software-tech-leads/)
+        * [Hire Back-end Developers](https://lemon.io/hire-backend-developers/)
+
+* [apply as a dev](https://me.lemon.io/escape-the-matrix)
+* [hire talent](https://magic.lemon.io/welcome?from=hire-talent)
+
+* [login](https://app.lemon.io/auth/login)
+
+* [apply as a dev](https://me.lemon.io/escape-the-matrix)
+* [hire talent](https://magic.lemon.io/welcome)
+
+[home/](https://lemon.io/) TERMS OF USE
+
+TERMS OF USE
+============
+
+Last updated 06/16/2023
+
+These terms of use (“Terms of Use”) set forth the terms and conditions of Coding Ninjas Inc. d/b/a Lemon.io (“us”, “our”, and "Lemon.io") applicable to your (“you”, “your” and “yourself”) use of the Lemon.io website located at [https://lemon.io](https://lemon.io/), and any related software, applications, services and/or products (collectively the “Platform”), including without limitation your use of the Platform: (A) to obtain development services as a "Client” (B) to perform development services as a "Developer" and/or (C) to partner with us to provide developers to clients as a “Partner.” Your use of the Platform constitutes your agreement to all of the terms and conditions in the Terms of Use, and Lemon.io encourages you to read the Terms of Use carefully. In the event of a conflict between these Terms of Use and any other agreement, whether written or oral, between Lemon.io and you, whether in your individual capacity or as the representative of a Client, Developer, or Partner, these Terms of Use shall supersede and control. **_IF YOU OBJECT TO ANYTHING IN THE TERMS OF USE, INCLUDING THE JURY WAIVER AND CLASS ACTION WAIVER IN SECTION 25, OR OTHERWISE DO NOT UNDERSTAND OR AGREE TO BE BOUND BY THESE TERMS OF USE, DO NOT USE THE PLATFORM AND EXIT IMMEDIATELY, AS YOU ARE NOT AUTHORIZED TO USE THE PLATFORM._**
+
+For purposes of the Terms of Use, “Lemon.io” means and includes Lemon.io and its subsidiaries and affiliates, and its and their investors, officers, directors, employees, agents, representatives and assigns. “User” means each person who accesses or uses the Platform, including Clients, Developers and Partners. 
+
+You understand and agree that Lemon.io may revise, modify and/or supplement the Terms of Use (the “Revised Terms of Use”) at any time. Any Revised Terms of Use will be effective immediately after notice is sent to you via email. If you do not agree to the Revised Terms of Use, you must stop using the Platform and close your account. You can deactivate your account by emailing us at support@lemon.io. By continuing to use the Platform following notice, or by failing to deactivate your account, you hereby expressly agree to be bound by the Revised Terms of Use and acknowledge that your continued use of the Platform is valid consideration for the Revised Terms of Use.
+
+**General Terms**  
+
+1. **Privacy Policy**. Refer to the Lemon.io Privacy Policy at [https://lemon.io/privacy-policy/](https://lemon.io/privacy-policy/) for information on how Lemon.io collects, uses and discloses information about you. 
+2. **License**. Subject to the terms and conditions set forth in the Terms of Use, Lemon.io grants you a personal, nonexclusive, nontransferable, revocable license to access and use the Platform solely for your personal, noncommercial use. Rights not expressly granted to you in the Terms of Use are reserved by Lemon.io.
+3. **Platform Eligibility**. To be eligible to use the Platform, you represent, warrant and covenant that you: (A) Are eighteen (18) years of age or older; (B) Have full power and authority to enter into the Terms of Use and to be bound by the Terms of Use; (C) Will not violate any other agreement to which you are a party by agreeing to the Terms of Use; (D) Are not restricted from using the Platform in any way or for any reason; (E) Are not using the Platform for reasons that are in competition with or adverse to Lemon.io; and (F) Will only maintain one account at any given time.
+4. **Platform is a Venue**. The Platform offers a venue where Clients and Developers connect for the performance of development services (“Services”). Clients and Developers contract directly with each other and Lemon.io is not a party to any contracts or agreements between them. By using the Platform, you understand and agree that no joint venture, partnership, employment, franchise or agency relationship exists between you and Lemon.io or Lemon.io and any other User. 
+5. **Independent Contractors**. Lemon.io is not an employment service or employment agency, and Lemon.io does not employ Developers. In all cases, Developers are independent contractors and not employees of Lemon.io. That means Developers are free to accept or reject any Services, perform Services free from the supervision and control of Lemon.io, and provide their own tools and equipment. It is the obligation of Clients to supervise and control the Services performed by Developers. All contracts, agreements and arrangements for the completion of Services are between Clients and Developers, and Lemon.io is not a party to that relationship. As such, Lemon.io does not withhold taxes including, without limitation, unemployment insurance, workers’ compensation, employer’s liability, social security or other payroll withholdings. You understand and agree that if Lemon.io is found liable for any taxes, other than on Lemon.io’ income, you will immediately reimburse and pay to Lemon.io an equivalent amount, including any interest and penalties thereon. 
+6. **Connecting Users; No Control**. The Platform leverages a proprietary algorithm to connect Users for Services based on numerous factors including, without limitation, Client criteria and Developer skills. Notwithstanding the foregoing, Lemon.io does not have control over any aspect of any Services including, without limitation, the legality, timing, quality, performance or non-performance thereof. Further, Lemon.io does not supervise or control any aspect of the Services performed by Developers, and Clients are responsible for supervising and controlling the Services performed by Developers. As such, Lemon.io makes no representations, warranties or covenants about any aspect of any Services performed.
+7. **Client Subscription Fees**. Clients agree to pay Lemon.io the subscription fees associated with the selected subscription for the Services of Developers (“Subscription Fee”). All Subscription Fees must be paid directly to Lemon.io in advance through the Platform. Clients agree that it shall maintain a positive balance of an amount equal to not less than: (A) one (1) week’s worth of the Services of Developers for weekly Subscription Fees paid by debit card or credit card for the subsequent week’s Services; and, (B) one (1) month’s worth of the Services of Developers for monthly Subscription Fees invoiced and/or paid by ACH or wire transfer for the subsequent month’s Services. For Subscription Fees paid by debit card or credit card, Clients hereby authorize Lemon.io to charge the credit card or debit card for the Subscription Fees associated with the selected subscription plus any amounts owed for Services of Developers that exceed the selected subscription. Clients may request to pause their subscription at any time by using the “Request to pause” feature in Client’s account.
+8. **Developer Placement Fees**. In the event that Clients hire or contract with Developers directly, or pay Developers off the Platform, Clients agree to pay Lemon.io an amount equal to fourteen thousand U.S. dollars ($14,000 USD) as a direct placement fee and not as a penalty (“Placement Fee”). Clients agree to pay such Placement Fee within five (5) days of such direct hire, contract or payment, as applicable. Clients hereby authorize Lemon.io to charge the credit card or debit card on file for the Placement Fee associated with such direct hire, contract or payment, as applicable. In the event that such credit card or debit card cannot be charged for the Placement Fee, such Client agrees that it shall pay the Placement Fee pursuant to the invoice therefor.
+9. **Late or Non Payment**. For any payment due to Lemon.io that is more than three (3) business days past due including, without limitation, Subscription Fees and Placement Fees, fifteen percent (15%) interest will be added to the total amount due, compounded each thirty (30) days after payment is due, in addition to collections costs and fees incurred including, without limitation, attorneys’ fees, court costs and other related collection expenses.
+10. **Developer Payments**. Developers are paid for Services on a “time and materials” basis, which means that Developers are paid for the time spent performing Services, the tools and equipment required to perform the Services and approved expenses (if applicable). Developers are paid by the 10th of the month following the month in which such Services are performed. 
+11. **Partner Payments**. Partners are paid by Lemon.io for the Services of Partner-sourced Developers on a “time and materials” basis, which means that Developers are paid for the time spent performing Services, the tools and equipment required to perform the Services and approved expenses (if applicable). In the event that Clients hire or contract with Partner-sourced Developers directly, or pay Partner-sourced Developers off the Platform, Lemon.io shall pay Partner fifty percent (50%) of Placement Fees received by Lemon.io for such Developers. Partners are paid for the Services of Partner-sourced Developers by the 10th of the month following the month in which such Services are performed by such Developers. Partners are paid their portion of the Placement Fees received by Lemon.io and owed to Partners by the 10th of the month following the month in which such Placement Fee was received by Lemon.io.
+12. **Developer Restrictions**. As a Developer, you represent, warrant and covenant that you are not: (A) a citizen or resident of, or located in, a geographic area that is subject to U.S. sanctions or embargoes; (B) an individual, or an individual employed by or associated with an entity, identified on the U.S. Department of Commerce Denied Persons or Entity List, the U.S. Department of Treasury’s Specially Designated Nationals or Blocked Persons Lists, or the U.S. Department of State’s Debarred Parties List or otherwise ineligible to receive items subject to U.S. export control laws and regulations or other economic sanction rules.
+13. **Disputes Between Clients and Developers**. Clients understand and agree that it is their obligation to communicate directly with Developers and to supervise and control the Services performed by Developers. In the event of any disputes between Clients and Developers including, without limitation, disputes related to the quality of Services performed by Developers, Clients agree that such disputes must be brought to Lemon.io within ten (10) business days following the month in which such disputed Services were performed. All disputes must be reported using the “Report a problem” feature in Clients’ account. Clients understand and agree that the only remedy for such dispute is the reperformance of the Services that are the subject of such dispute and, where such Services cannot reasonably and adequately be reperformed, the maximum remedy is the refund of an amount equal to the hours paid for the disputed Services up to a maximum of forty (40) hours. 
+14. **Account Security**. You represent, warrant and covenant that at all times you will: (A) Maintain the security and confidentiality of your account information, including, without limitation, your username and password; (B) Be responsible for all activity that occurs under your account, whether by you or by others; (C) Notify us immediately of any unauthorized use of your profile, the need to deactivate your profile due to security concerns, or any other breach of security; (D) Be liable for all charges, damages and losses incurred or suffered by you and/or by Lemon.io as a result of activity under your account; and, (E) Ensure that you log out of your account at the end of each session. 
+15. **Your Responsibilities**. You represent, warrant and covenant that at all times you will: (A) Be solely responsible for your online and offline interactions with other Users; (B) Not disclose confidential information and/or ideas on or through the Platform that you do not want used or shared by others; (C) Comply with all applicable laws, rules and regulations, including, without limitation, privacy laws, intellectual property laws, export control laws, tax laws, and applicable regulatory requirements; (D) Provide accurate information in your profile, and update such information as necessary; (E) Use the Platform in an honest, respectful and professional manner; and, (F) Use the Platform solely for permitted purposes as it is intended to be used.
+16. **Prohibited Uses**. In connection with your use of the Platform, you represent, warrant and covenant that at all times you will not: (A) Act dishonestly or unprofessionally by engaging in unprofessional behavior or by posting inappropriate, inaccurate, or objectionable information and/or content to the Platform; (B) Duplicate, license, sublicense, publish, broadcast, transmit, distribute, perform, display, sell, rebrand, or otherwise transfer information found on the Platform; (C) Reverse engineer, decompile, disassemble, decipher or otherwise attempt to derive the source code for any underlying intellectual property used in connection with the Platform; (D) Include information that is confidential in nature or that reveals your identity or sensitive personal information such as an email address, phone number or address; (E) Create a user profile for anyone other than yourself or otherwise use or attempt to use another's account without our authorization; (F) Utilize information and/or content you view on and/or obtain from the Platform to provide any service that is competitive with the Platform or our business; (G) Imply or state, directly or indirectly, that you are affiliated with or endorsed by Lemon.io; (H) Adapt, modify or create derivative works based on the Platform or the technology underlying the Platform, or other User’s information and/or content; (H) Rent, lease, loan, trade or sell/resell access to the Platform or any information therein; (I) Deep-link to the Platform for any purpose; (J) Use manual or automated software, devices, scripts, robots, or other means or processes to access, “scrape,” “crawl” or “spider” the Platform; (K) Use bots or other automated methods to add or download contacts, send or redirect messages or perform any other activities; (L) Repeatedly access, via automated or manual means or processes, the Platform for purposes of monitoring its availability, performance or functionality or for any competitive purpose; (M) Engage in “framing,” “mirroring,” or otherwise simulating the appearance or function of the Platform; (N) Attempt to or actually access the Platform by any means other than through the interfaces provided by us; (O) Attempt to or actually override any security component included in or underlying the Platform; (P) Engage in any action that directly or indirectly interferes with the proper working of or places an unreasonable load on our infrastructure, including but not limited to sending unsolicited communications to other Users or our personnel, attempting to gain unauthorized access, or transmitting or activating computer viruses; (Q) Remove any copyright, trademark or other proprietary rights notices contained in or on the Platform; (R) Remove, cover or otherwise obscure any form of advertisement included on the Platform; (S) Harass, abuse or harm another person, including sending unwelcome communications to Users; (T) Collect, use or transfer any information, including but not limited to, personally identifiable information obtained from the Platform except as expressly permitted in the Terms of Use or as the owner of such information may expressly permit; (U) Share non-Users’ information without their express consent; (V) Interfere with or disrupt the Platform, including but not limited to any servers or networks connected to the Platform; (W) Upload a cartoon, symbol, drawing or any information and/or content other than a head-shot photograph of yourself in your profile photo (if applicable); (X) Participate, directly or indirectly, in the setting up or development of a network that seeks to create a pyramid scheme or other similar practice; (Y) Infringe on or use our brand, logos and/or trademarks, or words likely to be confused with those words, in any business name, email, or URL; or (Z) upload, post to the Platform, email, transmit or otherwise make available or initiate any information and/or content that: (i) Falsely states, impersonates or otherwise misrepresents your identity, including but not limited to the use of a pseudonym, or misrepresenting your current or previous positions and qualifications, or your affiliations with a person or entity, past or present; (ii) Is unlawful, libelous, abusive, obscene, discriminatory or otherwise objectionable; (iii) Adds to a content field information and/or content that is not intended for such field (e.g, submitting a telephone number in the “title” or any other field, or including telephone numbers, email addresses, street addresses or any personally identifiable information for which there is not a field provided by us); (iv) Includes information that you do not have the right to disclose or make available under any law or under contractual or fiduciary relationships (such as insider information, or proprietary and confidential information learned or disclosed as part of employment relationships or under nondisclosure agreements); (v) Infringes upon patents, trademarks, trade secrets, copyrights or other proprietary rights; (vi) Includes any unsolicited or unauthorized advertising, promotional materials, “junk mail,” “spam,” “chain letters,” “pyramid schemes,” or any other form of solicitation including, without limitation: (a) using the Platform to send messages to people who do not know you or who are unlikely to recognize you as a known contact; (b) using the Platform to connect to people who do not know you and then sending unsolicited promotional messages to those connections without their permission; and (c) sending messages to distribution lists, newsgroup aliases or group aliases; (vii) Contains software viruses, worms, or any other computer code, files or programs that interrupt, destroy or limit the functionality of any computer software or hardware or telecommunications equipment of ours or any User; and/or (viii) Forges headers or otherwise manipulates identifiers in order to disguise the origin of any communication transmitted through the Platform.
+17. **Suspension and Termination**. Lemon.io may suspend or remove you from the Platform at any time for any or no reason at all, and suspension or removal will be effective immediately upon delivery of such notice. If Lemon.io suspends or removes you from the Platform, you may not be entitled to rejoin. In addition to suspension or removal, Lemon.io reserves the right to take appropriate legal action, including without limitation pursuing civil, criminal, and injunctive relief. Even after your suspension or removal, the Terms of Use will remain enforceable against you. 
+18. **Developer Content**. Developer hereby grants Lemon.io a royalty-free, perpetual, irrevocable, non-exclusive, fully paid, transferable right and license to use, reproduce, modify, adapt, publish, distribute, translate, communicate to the public, create derivative works from, distribute, perform and display any messages, information, data, text, images, or other materials submitted to or transmitted through the Platform (in whole or part) (collectively, “Developer Content”) worldwide, or to incorporate it in other works in any form, media, or technology now known or later developed (for the full term of any rights that may exist to such Developer Content), without restriction or compensation, and to grant and authorize sublicenses thereof. In addition, you warrant that you have waived all so-called "moral rights" in the Developer Content. Lemon.io and its designees shall have the right, but not the obligation, in their sole discretion to edit, refuse to post, or remove any Developer Content posted on the Platform that violates the Terms of Use or is otherwise objectionable in Lemon.io sole and exclusive discretion. By submitting Developer Content to or through the Platform, you represent and warrant that: (A) You own the Developer Content; (B) You are entitled to submit the Developer Content; and, (C) the Developer Content is accurate, truthful, not confidential, and not in violation of any contractual restrictions or other third party rights.
+19. **Third-Party Websites**. The Platform may link to websites and/or applications operated by third parties, including, without limitation, licensors or advertisers (“Third-Party Website”). Lemon.io does not control Third-Party Websites and is not responsible for them, their availability, their information and/or content or any viruses that may be accessed through them. The inclusion of hyperlinks or other connections to Third-Party Websites does not imply any endorsement of them or any association with their owners or operators. You are solely responsible for reviewing and evaluating whether you want to access or use such Third-Party Websites, including any applicable terms and/or privacy practices.
+20. **Lemon.io Intellectual Property**. All of the design, text, and graphics of the Platform, as well as the selection and arrangement thereof, are proprietary and copyrighted works of Lemon.io, with all rights reserved. Lemon, Lemon.io and the lemon/eyeball logo are registered trademarks of Lemon.io. The Platform images and text, and all page headers, graphics, HTML based computer programs used to generate pages on the Platform, and icons are our trademarks, service marks and/or trade dress, and may not be used without our prior written permission. All uses thereof inure to our benefit. All other trademarks, product names and company names or logos included on the Platform are the property of their respective owners.
+21. **Ownership of Developers Work Product**. All deliverables, if any, and portions thereof, and all intermediate and partial versions thereof (the “Work Product”) created by a Developer for a Client shall be works-made-for-hire owned by such Client upon full payment of all amounts due therefor. In the event the Work Product or any portion thereof is found by a court of competent jurisdiction not to be a “work-made-for-hire” within the meaning of the Copyright Act of 1976, as amended, Developer hereby expressly assigns to Client all exclusive right, title and interest in and to the Work Product without further consideration, and free from any claim or rights of retention on the part of Developer. Developer agrees to execute all documents that may, in Client’s reasonable discretion, be required to perfect such assignment.
+22. **Confidentiality**. Any information and/or content not generally known by or disclosed to the public including, without limitation, information and/or content: (A) disclosed by Clients to Lemon.io and/or Developers; (B) created by Developers for Clients; and, (C) any information and/or content disclosed pursuant to a mutually executed confidentiality and/or nondisclosure agreement (collectively, “Confidential Information”) shall be maintained in strict confidence by the recipient of such Confidential Information (“Recipient”) including, without limitation, Lemon.io and Developer. Recipients shall not use or disclose any Confidential Information and access to and use of any Confidential Information shall be restricted by Recipient to those persons with known discretion and with a need to use the information, provided that such persons have executed a confidentiality and/or nondisclosure agreement. Notwithstanding anything herein to the contrary, Confidential Information shall not include information and/or content that is: (a) already known to or otherwise in the possession of a person at the time of receipt from the other party and that was not known or received as the result of violation of any obligation of confidentiality; (b) publicly available or otherwise in the public domain prior to disclosure by a party; (c) rightfully obtained by a party from any third party having a right to disclose such information without restriction and without breach of any confidentiality obligation by such third party; (d) developed by a party independent of any disclosure hereunder, as evidenced by written records; or (e) disclosed pursuant to the order of a court or administrative body of competent jurisdiction or a government agency, provided that the party receiving such order shall notify the other prior to such disclosure and shall cooperate with the other party in the event such party elects to legally contest, request confidential treatment, or otherwise avoid such disclosure. 
+23. **DMCA Claims**. If you believe, in good faith, that any materials on the Platform infringe upon your copyrights, please send the following information to Lemon.io’ Copyright Agent at: 340 S Lemon Ave, #7065, Walnut, CA 91789, USA: (A) A description of the copyrighted work that you claim has been infringed, including the URL (Internet address) or other specific location on the Platform where the material you claim is infringed is located; (B) Include enough information to allow us to locate the material, and explain why you think an infringement has taken place; (C) Your name, address, telephone number, and e-mail address; (D) A statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law; (E) A statement by you, made under penalty of perjury, that the information in your notice is accurate, and that you are the copyright owner or authorized to act on the copyright owner's behalf; and (F) An electronic or physical signature of the owner of the copyright or the person authorized to act on behalf of the owner of the copyright interest.
+24. **Jurisdiction; Venue**. Any dispute, demand, claim, controversy, cause of action, lawsuit or proceeding (collectively, “Dispute”) arising out of or in any way related to the Platform and/or the Terms of Use shall be governed by and construed in accordance with the laws of the State of Delaware, without regard to its provisions regarding conflicts of law. You submit to the exclusive jurisdiction of the state and federal courts of Delaware. 
+25. **No Jury; Class Action Waiver**. **_YOU HEREBY IRREVOCABLY WAIVE YOUR RIGHT TO TRIAL BY JURY IN ANY DISPUTE INVOLVING LEMON.IO._ _YOU FURTHER AGREE TO WAIVE ANY RIGHT TO RESOLVE ANY DISPUTE INVOLVING LEMON.IO AS A REPRESENTATIVE OR MEMBER IN ANY CLASS OR REPRESENTATIVE ACTION, EXCEPT WHERE SUCH WAIVER IS PROHIBITED BY LAW OR DEEMED BY A COURT OF LAW TO BE AGAINST PUBLIC POLICY. TO THE EXTENT YOU ARE PERMITTED BY LAW OR COURT OF LAW TO PROCEED WITH A CLASS OR REPRESENTATIVE ACTION, YOU AGREE THAT: (I) THE PREVAILING PARTY SHALL NOT BE ENTITLED TO RECOVER ATTORNEYS’ FEES OR COSTS ASSOCIATED WITH PURSUING THE CLASS OR REPRESENTATIVE ACTION; AND (II) YOU WILL NOT SUBMIT A CLAIM OR OTHERWISE PARTICIPATE IN ANY RECOVERY SECURED THROUGH THE CLASS OR REPRESENTATIVE ACTION_**. 
+26. **Disclaimer of Warranties**. **THE PLATFORM IS PROVIDED ON AN "AS IS" AND “AS AVAILABLE” BASIS WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, WARRANTIES OF TITLE, CUSTOM, USAGE, MERCHANTABILITY, NONINFRINGEMENT OR FITNESS FOR A PARTICULAR PURPOSE. YOU HEREBY EXPRESSLY AGREE THAT USE OF THE PLATFORM IS AT YOUR SOLE AND EXCLUSIVE RISK. FURTHER, LEMON.IO DOES NOT REPRESENT OR WARRANT THAT THE PLATFORM IS FREE FROM VIRUSES, TROJAN HORSES, WORMS, TIME BOMBS, SPIDERS, CANCEL BOTS, CORRUPTED FILES, OR ANY OTHER SIMILAR SOFTWARE, MALWARE OR MATERIALS THAT MAY DAMAGE, INTERFERE WITH, DISRUPT, IMPAIR, DISABLE OR OTHERWISE OVERBURDEN THE OPERATION OF ANY DEVICE, COMPUTER SYSTEM OR NETWORK.** 
+27. **Release. TO THE EXTENT PERMITTED BY LAW, LEMON.IO HEREBY EXPRESSLY DISCLAIMS, AND YOU HEREBY EXPRESSLY RELEASE LEMON.IO FROM, ANY AND ALL DISPUTES FOR DAMAGES, INJURIES, LOSSES AND LIABILITIES ASSOCIATED WITH THE FOLLOWING: (A) LEMON.IO’S OWN NEGLIGENCE; (B) THAT USE OF THE PLATFORM WILL BE UNINTERRUPTED OR ERROR-FREE; (C) THAT ANY SERVICES WILL BE RELIABLE, ACCURATE, SAFE, TIMELY OR COMPLETE; (D) THE INACCURACY, UNTIMELINESS OR INCOMPLETENESS OF ANY INFORMATION AND/OR CONTENT INCLUDING, WITHOUT LIMITATION, ANY RELIANCE UPON SUCH INFORMATION AND/OR CONTENT; (E) ANY MISSTATEMENTS OR MISREPRESENTATIONS MADE BY ANY USER; (F) THIRD-PARTY WEBSITES INCLUDING, WITHOUT LIMITATION, RELATED TO AVAILABILITY, TERMS OF USE, PRIVACY PRACTICES, INFORMATION, CONTENT, MATERIALS, ADVERTISING, CHARGES, PAYMENT, PRODUCTS AND/OR SERVICES; (G) THE CONDUCT OF ANY USER ONLINE OR OFFLINE INCLUDING, WITHOUT LIMITATION, HARASSMENT, ABUSE, DEFAMATION, INJURY, AND DAMAGE TO OR DESTRUCTION OF PROPERTY; (G) THE CONDUCT OF THIRD PARTIES INCLUDING, WITHOUT LIMITATION, HACKERS OR OTHERS WHO ENGAGE IN THE UNAUTHORIZED ACCESS, USE OR MISAPPROPRIATION OF ANY INFORMATION AND/OR CONTENT; AND (H) ANY INFORMATION AND/OR CONTENT THAT MAY BE MISAPPROPRIATED, INTERCEPTED, DELETED, DESTROYED OR USED BY OTHERS.** 
+28. **Limitation of Liability**. **TO THE EXTENT PERMITTED BY LAW, UNDER NO CIRCUMSTANCES WILL LEMON.IO BE LIABLE TO ANY USER OR ANY THIRD PARTY FOR DIRECT, INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, PUNITIVE OR EXEMPLARY DAMAGES ARISING FROM, IN CONNECTION WITH OR IN ANY WAY RELATED TO THE SERVICES OR THE PLATFORM, EVEN IF ADVISED OF THE POSSIBILITY OF THE SAME. NOTWITHSTANDING ANYTHING IN THE TERMS OF USE TO THE CONTRARY, IF IT IS DETERMINED THAT LEMON.IO IS LIABLE TO YOU, IN NO EVENT WILL THE AGGREGATE LIABILITY, WHETHER ARISING IN CONTRACT, TORT, STRICT LIABILITY OR OTHERWISE, EXCEED FIVE-HUNDRED DOLLARS ($500).**
+29. **Indemnity**. You agree to defend, indemnify and hold Lemon.io harmless from and against any and all Disputes, including without limitation for damages, injuries, losses, liabilities and reasonable legal and accounting fees (collectively, “Indemnified Claims”), resulting from, or alleged to result from: (A) Your breach of the Terms of Use; (B) Any information and/or content you submit to or transmit through the Platform, (C) Your or misuse of the Platform including, without limitation, your unauthorized or unlawful use of the Platform; (D) Your violation of any applicable law, rule or regulation pertaining to your use of the Platform; (E) The use of the Platform by any other person using your account. We will use reasonable efforts to provide you with prompt notice of any such Indemnified Claims, and may assist you, at our expense and option, in defending any such Indemnified Claims.
+30. **Waiver; Severability**. Failure by Lemon.io to enforce any provision(s) of the Terms of Use will not be construed as a waiver of any provision or right. The Terms of Use constitute the entire agreement between you and Lemon.io. If any provision of the Terms of Use is found to be invalid or unenforceable, the remaining provisions will be enforced to the fullest extent possible, and the remaining provisions will remain in full force and effect. The Terms of Use will inure to the benefit of Lemon.io, its successors and assigns.
+
+* [company](http://no/)
+    * [about us](https://lemon.io/about-us/)
+    * [for devs](https://lemon.io/for-developers/)
+    * [careers](https://lemonio.bamboohr.com/careers/)
+* community
+    * [blog](https://lemon.io/blog/)
+    * [events](https://events.lemon.io/)
+* resources
+    * [faq for business](https://lemon.io/support-help-faq/)
+    * [faq for developers](https://lemon.io/faq-for-devs/)
+    * case studies
+        
+        * [all case studies](https://lemon.io/case-studies)
+        * [skyfi — space photos for everyone](https://lemon.io/case-studies/lemonio-meets-skyfi/)
+        * [savr — saving money with savr](http://lemon.io/case-studies/lemonyeo-meets-savr/)
+        * [tvscientific — peek inside the ctv ad world](https://lemon.io/case-studies/lemoneyeo-meets-tvscientific/)
+        * [hello.fathom.fm — Search engine for podcasts](https://lemon.io/case-studies/lemonyeo-meets-fathom/)
+        * [peptalkr — ai-based pep talks for patients](https://lemon.io/case-studies/lemonyeo-meets-peptalkr/)
+        * [currents – plug & play debugging platform](https://lemon.io/case-studies/currents/)
+        * [scrumbly – platform for community restaurants](https://lemon.io/case-studies/scrumbly/)
+        
+* important links
+    * job descriptions
+        
+        * [JavaScript developer](https://lemon.io/job-descriptions/javascript-developer/)
+        * [ReactJS developer](https://lemon.io/job-descriptions/reactjs-developer/)
+        * [NET developer](https://lemon.io/job-descriptions/net-developer/)
+        * [Android developer](https://lemon.io/job-descriptions/android-developer/)
+        * [AWS developer](https://lemon.io/job-descriptions/aws-developer/)
+        * [TypeScript developer](https://lemon.io/job-descriptions/typescript-developer/)
+        * [Java developer](https://lemon.io/job-descriptions/java-developer/)
+        * [Node.js developer](https://lemon.io/job-descriptions/nodejs-developer/)
+        * [Python developer](https://lemon.io/job-descriptions/python-developer/)
+        * [Ruby on Rails developer](https://lemon.io/job-descriptions/ruby-on-rails-developer/)
+        * [Vue.js developer](https://lemon.io/job-descriptions/vuejs-developer/)
+        * [React Native developer](https://lemon.io/job-descriptions/react-native-developer/)
+        * [Data scientist](https://lemon.io/job-descriptions/data-scientist/)
+        * [DevOps](https://lemon.io/job-descriptions/devops-engineer/)
+        * [HTML developer](https://lemon.io/job-descriptions/html-developer/)
+        * [AI engineer](https://lemon.io/job-descriptions/artificial-intelligence-engineer/)
+        * [Angular developer](https://lemon.io/job-descriptions/angular-developer/)
+        * [iOS developer](https://lemon.io/job-descriptions/ios-developer/)
+        * [Senior Software developer](https://lemon.io/job-descriptions/senior-software-developer/)
+        * [Unity3D developer](https://lemon.io/job-descriptions/unity3d-developer/)
+        * [UI/UX designer](https://lemon.io/job-descriptions/ui-ux-designer/)
+        * [QA engineer](https://lemon.io/job-descriptions/qa-engineer/)
+        * [Flutter developer](https://lemon.io/job-descriptions/flutter-developer/)
+        * [Machine Learning engineer](https://lemon.io/job-descriptions/machine-learning-engineer/)
+        * [Blockchain developer](https://lemon.io/job-descriptions/blockchain-developer/)
+        * [Senior Java developer](https://lemon.io/job-descriptions/senior-java-developer/)
+        
+    * hire developers
+        
+        * [Hire remote developers](https://lemon.io/hire-remote-developers/)
+        * [Hire android developers](https://lemon.io/hire-android-app-developers/)
+        * [Hire app developers](https://lemon.io/hire-app-developers/)
+        * [Hire aws developers](https://lemon.io/hire-aws-developers/)
+        * [Hire ecommerce developers](https://lemon.io/hire-ecommerce-developers/)
+        * [Hire front end developers](https://lemon.io/hire-front-end-developers/)
+        * [Hire ios developers](https://lemon.io/hire-ios-developers/)
+        * [Hire php developers](https://lemon.io/hire-php-developers/)
+        * [Hire Python Developer](https://lemon.io/hire-python-developers/)
+        * [Hire react developers](https://lemon.io/hire-react-developers/)
+        * [Hire ruby developers](https://lemon.io/hire-ruby-on-rails-developers/)
+        * [Hire saas developers](https://lemon.io/hire-saas-developers/)
+        * [hire .net developers](https://lemon.io/hire-net-developers/)
+        * [hire part-time developers](https://lemon.io/hire-part-time-developers/)
+        * [hire javascript developers](https://lemon.io/hire-javascript-developers/)
+        * [hire angular developers](https://lemon.io/hire-angular-developers/)
+        * [Hire DevOps Engineer](https://lemon.io/hire-devops-engineers/)
+        * [hire blockchain developers](https://lemon.io/hire-blockchain-developers/)
+        * [hire vue.js developers](https://lemon.io/hire-vue-js-developers/)
+        * [hire react native developers](https://lemon.io/hire-react-native-developers/)
+        * [hire node.js developers](https://lemon.io/hire-node-js-developers/)
+        * [hire flutter developers](https://lemon.io/hire-flutter-developers/)
+        * [hire typescript developers](https://lemon.io/hire-typescript-developers/)
+        * [hire senior android developers](https://lemon.io/hire-senior-android-developers/)
+        * [hire full stack developers](https://lemon.io/hire-full-stack-developers/)
+        * [hire senior software developers](https://lemon.io/hire-senior-software-developers/)
+        * [hire startup developers](https://lemon.io/hire-startup-developers/)
+        * [hire machine learning engineers](https://lemon.io/hire-machine-learning-engineers/)
+        * [hire offshore developers](https://lemon.io/hire-offshore-developers/)
+        * [hire iphone developers](https://lemon.io/hire-iphone-developers/)
+        * [hire jquery developers](https://lemon.io/hire-jquery-developers/)
+        * [hire spring developers](https://lemon.io/hire-spring-developers/)
+        * [hire software developers](https://lemon.io/hire-software-developers/)
+        * [hire software architects](https://lemon.io/hire-software-architects/)
+        * [hire swift developers](https://lemon.io/hire-swift-developers/)
+        * [hire kotlin developers](https://lemon.io/hire-kotlin-developers/)
+        * [hire data science developers](https://lemon.io/hire-data-scientists-developers/)
+        * [hire software tech lead developers](https://lemon.io/hire-software-tech-leads/)
+        * [hire back-end developers](https://lemon.io/hire-backend-developers/)
+        
+    * reviews
+        
+        * [Lemon.io review](https://lemon.io/lemon-io-review/)
+        * [Upwork review](https://lemon.io/upwork-review/)
+        * [Best freelance websites](https://lemon.io/top-ten-freelancing-websites/)
+        * [Best sites to hire devs](https://lemon.io/best-sites-to-hire-freelance-developers/)
+        * [Upwork alternatives](https://lemon.io/upwork-alternatives/)
+        * [Freelancer review](https://lemon.io/freelancer-review/)
+        * [Freelancer alternatives](https://lemon.io/freelancer-alternatives/)
+        
+* terms
+    * [terms of use](https://lemon.io/terms-of-use/)
+    * [privacy policy](https://lemon.io/privacy-policy/)
+
+[](https://lemon.io/)
+
+[](https://www.facebook.com/lemoneyeo)[](https://twitter.com/lemoneyeo)[](https://www.instagram.com/lemoneyeo)[](https://www.linkedin.com/company/lemoneyeo/)
+
+© 2024 lemon.io
