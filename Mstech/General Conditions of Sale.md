@@ -1,0 +1,463 @@
+[Skip to content](#content "Skip to content")
+
+[![MSTECH GLOBAL](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20263%2070'%3E%3C/svg%3E)
+
+![MSTECH GLOBAL](https://mstechglobal.com/wp-content/uploads/2021/12/HeaderFinal.png)](https://mstechglobal.com/)
+
+* [Products](#)
+    * [MG Easy Desktop Organizer](https://mstechglobal.com/easy-desktop-organizer/)
+    * [MG Folder Icon](https://mstechglobal.com/mg-folder-icon/)
+    * [MG Image Resize](https://mstechglobal.com/mg-image-resize/)
+    * [MG Office Suite](https://mstechglobal.com/mg-office/)
+    * [MG PDF Split Merge](https://mstechglobal.com/mg-pdf-split-merge/)
+    * [MG QR Code Generator](https://mstechglobal.com/mg-qr-code-generator/)
+    * [MG Search in Contents](https://mstechglobal.com/search-in-contents/)
+* [Downloads](#)
+    * [Download Products](https://mstechglobal.com/download-products/)
+    * [Folder Icon](#)
+        * [Free Icon Packs](https://mstechglobal.com/free-icon-packs/)
+        * [Premium Icon Packs](https://mstechglobal.com/icon-packs/)
+        * [Folder Icon Mockups​](https://mstechglobal.com/folder-icon-mockups/)
+        * [Icon Merge Packs](https://mstechglobal.com/icon-merge-packs/)
+    * [Easy Desktop Organizer](#)
+        * [Premium Wallpapers](https://mstechglobal.com/premium-wallpapers/)
+        * [Folder Structure Download](https://mstechglobal.com/folder-structure-download/)
+    * [Office Templates](https://mstechglobal.com/office-templates/)
+* [Shop](https://mstechglobal.com/store/)
+* [Support](#)
+    * [New Ticket](https://mstechglobal.com/my-account/create-new-ticket/)
+    * [My Tickets](https://mstechglobal.com/my-account/my-tickets/)
+* [Register](#register)
+* [Log In](https://mstechglobal.com/wp-login.php)
+* [0 items0.00 $](https://mstechglobal.com/store/ "Start shopping")
+
+[](https://mstechglobal.com/)
+
+X
+
+* [Products](#)
+    * [MG Easy Desktop Organizer](https://mstechglobal.com/easy-desktop-organizer/)
+    * [MG Folder Icon](https://mstechglobal.com/mg-folder-icon/)
+    * [MG Image Resize](https://mstechglobal.com/mg-image-resize/)
+    * [MG Office Suite](https://mstechglobal.com/mg-office/)
+    * [MG PDF Split Merge](https://mstechglobal.com/mg-pdf-split-merge/)
+    * [MG QR Code Generator](https://mstechglobal.com/mg-qr-code-generator/)
+    * [MG Search in Contents](https://mstechglobal.com/search-in-contents/)
+* [Downloads](#)
+    * [Download Products](https://mstechglobal.com/download-products/)
+    * [Folder Icon](#)
+        * [Free Icon Packs](https://mstechglobal.com/free-icon-packs/)
+        * [Premium Icon Packs](https://mstechglobal.com/icon-packs/)
+        * [Folder Icon Mockups​](https://mstechglobal.com/folder-icon-mockups/)
+        * [Icon Merge Packs](https://mstechglobal.com/icon-merge-packs/)
+    * [Easy Desktop Organizer](#)
+        * [Premium Wallpapers](https://mstechglobal.com/premium-wallpapers/)
+        * [Folder Structure Download](https://mstechglobal.com/folder-structure-download/)
+    * [Office Templates](https://mstechglobal.com/office-templates/)
+* [Shop](https://mstechglobal.com/store/)
+* [Support](#)
+    * [New Ticket](https://mstechglobal.com/my-account/create-new-ticket/)
+    * [My Tickets](https://mstechglobal.com/my-account/my-tickets/)
+* [Register](#register)
+* [Log In](https://mstechglobal.com/wp-login.php)
+* [0 items0.00 $](https://mstechglobal.com/store/ "Start shopping")
+
+Menu
+
+* [Products](#)
+    * [MG Easy Desktop Organizer](https://mstechglobal.com/easy-desktop-organizer/)
+    * [MG Folder Icon](https://mstechglobal.com/mg-folder-icon/)
+    * [MG Image Resize](https://mstechglobal.com/mg-image-resize/)
+    * [MG Office Suite](https://mstechglobal.com/mg-office/)
+    * [MG PDF Split Merge](https://mstechglobal.com/mg-pdf-split-merge/)
+    * [MG QR Code Generator](https://mstechglobal.com/mg-qr-code-generator/)
+    * [MG Search in Contents](https://mstechglobal.com/search-in-contents/)
+* [Downloads](#)
+    * [Download Products](https://mstechglobal.com/download-products/)
+    * [Folder Icon](#)
+        * [Free Icon Packs](https://mstechglobal.com/free-icon-packs/)
+        * [Premium Icon Packs](https://mstechglobal.com/icon-packs/)
+        * [Folder Icon Mockups​](https://mstechglobal.com/folder-icon-mockups/)
+        * [Icon Merge Packs](https://mstechglobal.com/icon-merge-packs/)
+    * [Easy Desktop Organizer](#)
+        * [Premium Wallpapers](https://mstechglobal.com/premium-wallpapers/)
+        * [Folder Structure Download](https://mstechglobal.com/folder-structure-download/)
+    * [Office Templates](https://mstechglobal.com/office-templates/)
+* [Shop](https://mstechglobal.com/store/)
+* [Support](#)
+    * [New Ticket](https://mstechglobal.com/my-account/create-new-ticket/)
+    * [My Tickets](https://mstechglobal.com/my-account/my-tickets/)
+* [Register](#register)
+* [Log In](https://mstechglobal.com/wp-login.php)
+* [0 items0.00 $](https://mstechglobal.com/store/ "Start shopping")
+
+Experience Efficiency  
+With MSTECH Solutions And  
+Time-saving Tools!
+======================================================================
+
+![MSTECH Products](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201304%20596'%3E%3C/svg%3E)
+
+![MSTECH Products](https://mstechglobal.com/wp-content/uploads/2024/02/HomeHeader.png)
+
+![MSTECH Products](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201004%201024'%3E%3C/svg%3E)
+
+![MSTECH Products](https://mstechglobal.com/wp-content/uploads/2024/02/MSTECH-Main-Page_Mobile_01-copy-1004x1024.png)
+
+Easy Computer Organizer
+-----------------------
+
+### Don't Wait to Get Organized Discover EDO Now!
+
+[Read More](https://mstechglobal.com/easy-desktop-organizer/)
+
+Do you struggle to locate specific folder quickly?
+--------------------------------------------------
+
+### Easily locate specific files and documents with improved visual organization
+
+[Read More](https://mstechglobal.com/mg-folder-icon/)
+
+Don't Want to Share Your Personal Information?
+----------------------------------------------
+
+### Generate, Personalize, and Print: MG QR Code Generator Delivers!
+
+[Read More](https://mstechglobal.com/mg-qr-code-generator/)
+
+Shrink Your Photos Not Your Memories
+------------------------------------
+
+### Reduce your image file size without losing quality!  
+Resize, convert image format, Edit, and add watermark.
+
+[Read More](https://mstechglobal.com/mg-image-resize/)
+
+[![Office Home](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E)
+
+![Office Home](https://mstechglobal.com/wp-content/uploads/2023/11/OfficeHomeThumb.png)](https://mstechglobal.com/mg-office/)
+
+### [MG Office Home](https://mstechglobal.com/mg-office/)
+
+An Alternative to Microsoft Office  
+Spreadsheet, Word, Diagrams, and PDF  
+  
+[Read More](https://mstechglobal.com/mg-office/)
+
+[![Office Home](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E)
+
+![Office Home](https://mstechglobal.com/wp-content/uploads/2023/11/OfficeHomeThumb.png)](https://mstechglobal.com/mg-office/)
+
+### [MG Office Home](https://mstechglobal.com/mg-office/)
+
+An Alternative to Microsoft Office  
+Spreadsheet, Word, Diagrams, and PDF  
+  
+[Read More](https://mstechglobal.com/mg-office/)
+
+[![PDF Split Merge](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E)
+
+![PDF Split Merge](https://mstechglobal.com/wp-content/uploads/2022/10/PDFThumb.png)](https://mstechglobal.com/mg-pdf-split-merge/)
+
+### [MG PDF Split Merge](https://mstechglobal.com/mg-pdf-split-merge/)
+
+Split, Merge PDFs or Extract Your Desired Page(s)  
+Simple & Fast  
+  
+[Read More](https://mstechglobal.com/mg-pdf-split-merge/)
+
+[![PDF Split Merge](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E)
+
+![PDF Split Merge](https://mstechglobal.com/wp-content/uploads/2022/10/PDFThumb.png)](https://mstechglobal.com/mg-pdf-split-merge/)
+
+### [MG PDF Split Merge](https://mstechglobal.com/mg-pdf-split-merge/)
+
+Split, Merge PDFs or Extract Your Desired Page(s)  
+Simple & Fast  
+  
+[Read More](https://mstechglobal.com/mg-pdf-split-merge/)
+
+Latest from Our Videos & Tutorials​
+-----------------------------------
+
+[Click here to go to our tutorial center](https://mstechglobal.com/video-tutorials/)
+
+[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20768%20430'%3E%3C/svg%3E)
+
+![](https://mstechglobal.com/wp-content/uploads/2024/01/Image-Resize-poster_05_16x9Thumb-768x430.jpg)](https://mstechglobal.com/how-to-reduce-image-file-size-jpg-etc-without-losing-quality-in-windows-10-and-windows-11/)
+
+[![vCard QR Code](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20768%20432'%3E%3C/svg%3E)
+
+![vCard QR Code](https://mstechglobal.com/wp-content/uploads/2024/01/My-vCard-copy02-768x432.jpg.webp)](https://mstechglobal.com/how-to-create-a-vcard-qr-code-with-mg-qr-code-generator/)
+
+Client Testimonials
+-------------------
+
+Don’t Take our word for it – here’s what our clients say
+
+Thank you very much, MSTech Support! A company that cares about its customers and its products is certain to be successful. That’s also the best way to get my recommendation when people ask me how to get things done.
+
+DaveMSTECH Customer
+
+Hi, I downloaded your software and found something really high quality and surprisingly simple. thanks
+
+EliSearch in Contents
+
+I don't know if any human sees this or not, but if so, THANK YOU so much! WOW! I LOVE this software! Well done! Thank You!
+
+M. AransonSearch in Contents
+
+Very good software. One of the best compressors.
+
+SONImage Resize
+
+THIS IS REALLY GREAT! Before, I used …. software; but yours is much better. Thanks again!
+
+CORDIALLYSearch in Contents
+
+Tested the app with several singles first, reducing some JSPlacement Texture images, then I did a quick batch image reduction of three JSPlacement Dot Grid images. All tests came out excellent.
+
+L. MajorSearch in Contents
+
+Previous
+
+Next
+
+MSTECH Blog!
+------------
+
+our latest posts, news, and updates ([read more…](https://mstechglobal.com/blog/))
+
+[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20600%20450'%3E%3C/svg%3E)
+
+![](https://mstechglobal.com/wp-content/uploads/2023/12/Changelog_Thumb_03.png)](https://mstechglobal.com/mg-folder-icon-lite-changelog/)
+
+### [MG Folder Icon Lite Changelog](https://mstechglobal.com/mg-folder-icon-lite-changelog/)
+
+May 28, 2024 No Comments
+
+[Read More »](https://mstechglobal.com/mg-folder-icon-lite-changelog/)
+
+[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20600%20450'%3E%3C/svg%3E)
+
+![](https://mstechglobal.com/wp-content/uploads/2023/12/Changelog_Thumb_01.png)](https://mstechglobal.com/mg-folder-icon-pro-changelog/)
+
+### [MG Folder Icon Pro Changelog 2024](https://mstechglobal.com/mg-folder-icon-pro-changelog/)
+
+May 28, 2024 No Comments
+
+[Read More »](https://mstechglobal.com/mg-folder-icon-pro-changelog/)
+
+[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20600%20450'%3E%3C/svg%3E)
+
+![](https://mstechglobal.com/wp-content/uploads/2023/12/Changelog_Thumb_02.png)](https://mstechglobal.com/mg-folder-icon-basic-changelog/)
+
+### [MG Folder Icon Basic Changelog](https://mstechglobal.com/mg-folder-icon-basic-changelog/)
+
+May 27, 2024 No Comments
+
+[Read More »](https://mstechglobal.com/mg-folder-icon-basic-changelog/)
+
+Copyright © 2024 MSTECH GLOBAL | Powered by [Astra WordPress Theme](https://wpastra.com/)
+
+#### MSTECH
+
+* [Home](https://mstechglobal.com/)
+* [My Account](https://mstechglobal.com/my-account/)
+* [MSTECH Shop](https://mstechglobal.com/shop/)
+* [Become Affiliate](https://mstechglobal.com/become-an-affiliate/)
+* [Affiliate Dashboard](https://mstechglobal.com/affiliate-area/)
+
+#### About
+
+* [About Us](https://mstechglobal.com/about-us/)
+* [Contact Us](https://mstechglobal.com/contact-us/)
+* [MSTECH Blog](https://mstechglobal.com/blog/)
+* [Privacy Policy](https://mstechglobal.com/privacy-policy/)
+* [Refund Policy](https://mstechglobal.com/refund-policy/)
+
+#### HELP
+
+* [New Ticket](https://mstechglobal.com/my-account/create-new-ticket/)
+* [Video Tutorials](https://mstechglobal.com/video-tutorials/)
+* [Submit Request File](https://mstechglobal.com/submit-request-file/)
+* [Refund / Deactivate](https://mstechglobal.com/refund/)
+
+#### Follow Us
+
+* [Facebook](https://www.facebook.com/MSTechGlobal-105132128998685/)
+* [Instagram](https://www.instagram.com/mstechglobal/)
+* [LinkedIn](https://www.linkedin.com/company/83524929/)
+* [reddit](https://www.reddit.com/user/MSTechGlobal)
+* [X (Twitter)](https://twitter.com/MSTechGlobal)
+* [YouTube](https://www.youtube.com/c/MSTechGlobal)
+
+##### Join Us Now!
+
+to Receive Our Latest News & Offers
+
+    
+
+Email \*
+
+ I agree to the privacy policy and terms. ([Link](https://mstechglobal.com/privacy-policy/))
+
+![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20167%2042'%3E%3C/svg%3E)
+
+![](https://mstechglobal.com/wp-content/uploads/2021/12/positivessl_trust_seal_md_167x42.png)
+
+![Stripe](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20100'%3E%3C/svg%3E)
+
+![Stripe](https://mstechglobal.com/wp-content/uploads/2023/11/Stripe.png)
+
+![PayPal](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20100'%3E%3C/svg%3E)
+
+![PayPal](https://mstechglobal.com/wp-content/uploads/2023/11/Paypal.png)
+
+![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20100'%3E%3C/svg%3E)
+
+![](https://mstechglobal.com/wp-content/uploads/2023/11/Visa.png)
+
+![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20100'%3E%3C/svg%3E)
+
+![](https://mstechglobal.com/wp-content/uploads/2023/11/MasterCard.png)
+
+[![MSTECH GLOBAL](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20263%2070'%3E%3C/svg%3E)
+
+![MSTECH GLOBAL](https://mstechglobal.com/wp-content/uploads/2021/12/Footer_Final.png)](https://mstechglobal.com/)
+
+Copyright 2024 © All rights reserved. Design by MSTECH GLOBAL
+
+* [Sign in](#0)
+* [New account](#0)
+
+Remember me 
+
+Log in
+
+      
+
+[Forgot your password?](#0)
+
+I agree with the [Terms](https://mstechglobal.com/privacy-policy/). 
+
+Create account
+
+      
+
+Lost your password? Please enter your email address. You will receive mail with link to set new password.
+
+  
+
+Reset password
+
+[Back to login](#0)
+
+[](#0 "close")
+
+We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking “Accept All”, you consent to the use of ALL the cookies. However, you may visit "Cookie Settings" to provide a controlled consent.
+
+Cookie SettingsAccept All
+
+Manage consent
+
+Close
+
+#### Privacy Overview
+
+This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience.
+
+Necessary
+
+ Necessary
+
+Always Enabled
+
+Necessary cookies are absolutely essential for the website to function properly. These cookies ensure basic functionalities and security features of the website, anonymously.
+
+| Cookie | Duration | Description |
+| --- | --- | --- |
+| cookielawinfo-checkbox-analytics | 11 months | This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Analytics". |
+| cookielawinfo-checkbox-functional | 11 months | The cookie is set by GDPR cookie consent to record the user consent for the cookies in the category "Functional". |
+| cookielawinfo-checkbox-necessary | 11 months | This cookie is set by GDPR Cookie Consent plugin. The cookies is used to store the user consent for the cookies in the category "Necessary". |
+| cookielawinfo-checkbox-others | 11 months | This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Other. |
+| cookielawinfo-checkbox-performance | 11 months | This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Performance". |
+| viewed\_cookie\_policy | 11 months | The cookie is set by the GDPR Cookie Consent plugin and is used to store whether or not user has consented to the use of cookies. It does not store any personal data. |
+
+Functional
+
+ Functional
+
+Functional cookies help to perform certain functionalities like sharing the content of the website on social media platforms, collect feedbacks, and other third-party features.
+
+Performance
+
+ Performance
+
+Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors.
+
+Analytics
+
+ Analytics
+
+Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics the number of visitors, bounce rate, traffic source, etc.
+
+Advertisement
+
+ Advertisement
+
+Advertisement cookies are used to provide visitors with relevant ads and marketing campaigns. These cookies track visitors across websites and collect information to provide customized ads.
+
+Others
+
+ Others
+
+Other uncategorized cookies are those that are being analyzed and have not been classified into a category as yet.
+
+SAVE & ACCEPT
+
+![Loading...](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E)
+
+![Loading...](https://mstechglobal.com/wp-content/plugins/supportcandy/asset/images/loader-white.gif)
+
+### MG Folder Icon Collection
+
+![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20187%20230'%3E%3C/svg%3E)
+
+![](https://mstechglobal.com/wp-content/uploads/2024/03/Ic.png.webp)
+
+**MG Folder Icon Pro v7.0**  
+\+ 141 Icon Packs, Icon Merges and Folder Mockups  
+**~$1403.65~** now $19.9
+
+[Buy Now](https://mstechglobal.com/wp-content/plugins/mstech_widget/includes/addToCart.php?product=13303&coupon=fip80yahoo&quantity=1&ref=1&campaign=popup)
+
+Or get Folder Icon Pro v7.0 for  
+**~$55.00~** now $9.99
+
+[Buy Now](https://mstechglobal.com/wp-content/plugins/mstech_widget/includes/addToCart.php?product=487&coupon=fip82upgradeyahoo&quantity=1&ref=1&campaign=popup)
+
+×
+
+                                                                                                      
+
+Insert/edit link
+================
+
+Close
+
+Enter the destination URL
+
+URL 
+
+Link Text 
+
+ Open link in a new tab
+
+Or link to existing content
+
+Search 
+
+_No search term specified. Showing recent items._ _Search or use up and down arrow keys to select an item._
+
+Cancel
