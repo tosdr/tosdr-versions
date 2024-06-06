@@ -1,0 +1,109 @@
+[![TechCrunch Logo](https://techcrunch.com/wp-content/themes/tc-23/dist/svg/tc-logo.svg)](https://techcrunch.com/)
+
+[Login](https://oidc.techcrunch.com/login/?dest=https%3A%2F%2Ftechcrunch.com%2Fcode-of-conduct%2F) [](https://techcrunch.com/my-account/)
+
+* [Search](#)
+* [Startups](https://techcrunch.com/category/startups/)
+* [Venture](https://techcrunch.com/category/venture/)
+* [Security](https://techcrunch.com/category/security/)
+* [AI](https://techcrunch.com/category/artificial-intelligence/)
+* [Crypto](https://techcrunch.com/category/cryptocurrency/)
+* [Apps](https://techcrunch.com/category/apps/)
+* [Events](https://techcrunch.com/events/)
+* [Startup Battlefield](https://techcrunch.com/startup-battlefield/)
+* More
+    * [Fintech](https://techcrunch.com/category/fintech/)
+    * [Hardware](https://techcrunch.com/category/hardware/)
+    * [Transportation](https://techcrunch.com/category/transportation/)
+    * [Media & Entertainment](https://techcrunch.com/category/media-entertainment/)
+    * [Newsletters](https://techcrunch.com/newsletters/)
+    * [Podcasts](https://techcrunch.com/podcasts/)
+    * [Partner Content](https://techcrunch.com/sponsored/)
+    * [Crunchboard Jobs](https://www.crunchboard.com/)
+    * [Contact Us](https://techcrunch.com/contact-us/)
+
+Search
+
+Code of Conduct
+---------------
+
+![](https://techcrunch.com/wp-content/uploads/2016/02/16758204214_218dd14c1c_o.jpg "TechCrunch Disrupt NY 2015 - Day 2")
+
+#### **Report incidents to TechCrunch staff by calling +1 (415) 579-3838 or emailing [codeofconduct@techcrunch.com](mailto:codeofconduct@techcrunch.com). If you are experiencing an emergency, dial 911.**
+
+**TechCrunch will not tolerate any type of harassment of attendees, including the following but not limited to:**
+
+* Inappropriate physical contact
+* Unwelcome sexual attention
+* Display of sexual images in public spaces
+* Deliberate verbal or physical intimidation
+* Sustained disruption of talks or other events
+* Advocating for or encouraging any of the above behaviors
+
+**Because of the following but not limited to:**
+
+* Race
+* Ethnicity
+* Gender
+* Gender identity and expression
+* Sexual orientation
+* Disability
+* Physical appearance
+* Body size
+* Age
+* Religion
+
+**As an attendee, you are expected to abide by the guidelines set above.** At TechCrunch’s discretion, those deemed in violation will be removed from the venue immediately without a refund and barred from future TechCrunch events.
+
+If you experience or witness a Code of Conduct violation, report it to TechCrunch staff by calling +1 (415) 579-3838 or emailing [codeofconduct@techcrunch.com](mailto:codeofconduct@techcrunch.com). You may also report it directly to:
+
+* Security staff stationed throughout the venue
+* TechCrunch volunteers, identifiable by their TechCrunch T-shirts
+* TechCrunch employees
+
+We base the TechCrunch Code of Conduct on the principles of inclusion, equality, diversity and respect. These guidelines are necessary to ensure that everyone can safely enjoy TechCrunch events. By purchasing a ticket to, working for, vending at or sponsoring any TechCrunch event, conference and conference-related social event, you agree to the policies set forth above.
+
+About
+-----
+
+* [TechCrunch](https://techcrunch.com/)
+* [Staff](https://techcrunch.com/about-techcrunch/)
+* [Contact Us](https://techcrunch.com/contact-us/)
+* [Advertise](https://techcrunch.com/advertise/)
+* [Crunchboard Jobs](https://www.crunchboard.com/)
+* [Site Map](https://techcrunch.com/site-map/)
+
+Legal
+-----
+
+* [Terms of Service](https://guce.techcrunch.com/terms)
+* [Privacy Policy](https://guce.techcrunch.com/privacy-policy)
+* [RSS Terms of Use](https://techcrunch.com/rss-terms-of-use/)
+* [Privacy Placeholder 1](#)
+* [Privacy Placeholder 2](#)
+* [Privacy Placeholder 3](#)
+* [Privacy Placeholder 4](#)
+* [Code of Conduct](https://techcrunch.com/code-of-conduct/)
+* [About Our Ads](https://legal.yahoo.com/us/en/yahoo/privacy/adinfo/index.html)
+
+Trending Tech Topics
+--------------------
+
+* [WWDC 2024](https://techcrunch.com/2024/06/03/watch-apple-kick-off-wwdc-2024-right-here/)
+* [SpaxeX Launch](https://techcrunch.com/2024/06/06/spacex-launches-mammoth-starship-rocket-and-brings-it-back-for-the-first-time/)
+* [Robinhood Buys Bitstamp](https://techcrunch.com/2024/06/06/robinhood-acquires-global-crypto-exchange-bitstamp-for-200m/)
+* [Rivian R1S And R1T](https://techcrunch.com/2024/06/06/rivian-refresh-r1t-r1s-second-generation-speed-range-apple/)
+* [Tech Layoffs](https://techcrunch.com/2024/05/22/tech-layoffs-2023-list)
+* [ChatGPT](https://techcrunch.com/2024/06/04/chatgpt-everything-to-know-about-the-ai-chatbot)
+
+* [Facebook](https://www.facebook.com/techcrunch)
+* [X](https://twitter.com/techcrunch)
+* [YouTube](https://www.youtube.com/user/techcrunch)
+* [Instagram](https://instagram.com/techcrunch)
+* [LinkedIn](https://www.linkedin.com/company/techcrunch)
+* [Mastodon](https://mstdn.social/@TechCrunch)
+* [Threads](https://www.threads.net/@techcrunch)
+
+© 2024 Yahoo. All rights reserved.
+
+Powered by [WordPress VIP](https://vip.wordpress.com/?utm_source=vip_powered_wpcom&utm_medium=web&utm_campaign=VIP%20Footer%20Credit)
