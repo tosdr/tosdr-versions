@@ -249,7 +249,7 @@ Breadcrumb
 ----------
 
 1. [Home](https://www.dewalt.com/)
-2. Legal
+2. legal
 3. Terms of Use
 
 DEWALT LEGAL
@@ -496,16 +496,6 @@ The following are trademarks for one or more DEWALT power tools, accessories, an
 * [Travel Safety with Cordless Tools](https://www.phmsa.dot.gov/safe-travel/batteries)
 * [DEWALT Patent Information](https://www.dewalt.com/legal/dewalt-patent-information)
 * [Shop Safe](https://www.dewalt.com/support/shop-safe)
-
-![](https://holastanley.zendesk.com/system/brands/360000099157/Live_Chat-_DW_thumb.jpg)
-
-DEWALT® Support
-
-Hi there 👋Welcome to DeWalt! Stanley Black & Decker and its vendors use your communications here to provide technical support services and improve customer support. This chat uses an automated bot to respond. By continuing, you consent to the collection, use and sharing of the communications in this chat for the purposes mentioned above and as provided in our Privacy Policy.
-
-!['s avatar](https://holastanley.zendesk.com/system/brands/360000099157/Live_Chat-_DW_thumb.jpg)
-
-I agree to the terms above and want to proceed Please, choose an option no yes
 
 ### Notice
 
