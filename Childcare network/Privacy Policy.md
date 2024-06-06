@@ -8,7 +8,7 @@ Search
 
 [Careers](https://careers.childdevelopmentschools.com/creative/childcare-network "careers")
 
-[![Childcare Network](data:image/svg+xml;nitro-empty-id=Mjg5OjIyOQ==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzc0IDQyIiB3aWR0aD0iMzc0IiBoZWlnaHQ9IjQyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==)](https://childcarenetwork.com/)
+[![Childcare Network](https://childcarenetwork.com/wp-content/uploads/2023/08/Childcare-Network_Vertical_White_RGB-cropped.svg)](https://childcarenetwork.com/)
 
 * [About Us](https://childcarenetwork.com/about/)
     * [Mission](https://childcarenetwork.com/about/mission/)
@@ -114,7 +114,7 @@ In addition to using encryption to protect your sensitive information transmitte
   
 **5.**     **Integrity of Your Personal Information**  
   
-The Company has safeguards in place to keep your personal information accurate, complete, and up to date for the purposes for which it is used. You always have the right to access and correct the personal information you have provided and can help us ensure that your contact information and preferences are accurate, complete, and up to date by reaching out to contact@childcarenetwork.com. In addition, you can request a copy of your personal information and your interactions with our sales and support agents by contacting us at the email address below.  
+The Company has safeguards in place to keep your personal information accurate, complete, and up to date for the purposes for which it is used. You always have the right to access and correct the personal information you have provided and can help us ensure that your contact information and preferences are accurate, complete, and up to date by reaching out to [\[email protected\]](https://www.childcarenetwork.com/cdn-cgi/l/email-protection). In addition, you can request a copy of your personal information and your interactions with our sales and support agents by contacting us at the email address below.  
   
 **6.**     **Do our websites collect personal information of children?**  
   
@@ -156,7 +156,7 @@ Our website has links to the sites of other companies. We are not responsible fo
   
 **12.**  **Further Questions Regarding Privacy**  
   
-If your questions are not answered online through this Policy, you may email us at [privacy@childcarenetwork.com](mailto:privacy@childcarenetwork.com) or contact us as follows and we will respond within 30 days:
+If your questions are not answered online through this Policy, you may email us at [\[email protected\]](https://www.childcarenetwork.com/cdn-cgi/l/email-protection) or contact us as follows and we will respond within 30 days:
 
 Child Development Schools, Inc.  
   
@@ -170,7 +170,7 @@ Child Development Schools, Inc. reserves the right to revise, amend, or modify t
   
 Revised and Effective as of 09/07/2023.
 
-![Childcare Network](data:image/svg+xml;nitro-empty-id=NDk4OjIzOQ==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjUyIDEyNCIgd2lkdGg9IjI1MiIgaGVpZ2h0PSIxMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
+![Childcare Network](https://childcarenetwork.com/wp-content/uploads/2023/08/Childcare-Network_Vertical_White_RGB-1.svg)
 
 * [Acquisitions](https://childcarenetwork.com/acquisitions/)
 * [Careers](https://careers.childdevelopmentschools.com/creative/childcare-network)
@@ -185,7 +185,7 @@ Please enable JavaScript in your browser to complete this form.
 
 Email \*
 
-Subscribe![Loading](data:image/svg+xml;nitro-empty-id=NTA3OjIxODY=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTAgNTAiIHdpZHRoPSI1MCIgaGVpZ2h0PSI1MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)
+Subscribe![Loading](https://childcarenetwork.com/wp-content/plugins/wpforms/assets/images/submit-spin.svg)
 
 Connect With Us
 
