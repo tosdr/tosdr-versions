@@ -1,3 +1,5 @@
+[Skip to main](#)
+
 [](https://keys.casa/)
 
 learn more
@@ -411,11 +413,11 @@ Contact Information
 
 **Effective Date: June 21, 2023**
 
-[![](https://assets-global.website-files.com/64931939e37b1297d83d6938/64931939e37b1297d83d6bd5_Casa_logo_black.svg)](https://keys.casa/)
+[![](https://cdn.prod.website-files.com/64931939e37b1297d83d6938/64931939e37b1297d83d6bd5_Casa_logo_black.svg)](https://keys.casa/)
 
 Take control of your digital future.
 
-[![](https://assets-global.website-files.com/64931939e37b1297d83d6938/64931939e37b1297d83d6c2e_icon-linkedin.svg)](https://www.linkedin.com/company/casa-inc/)[![](https://assets-global.website-files.com/64931939e37b1297d83d6938/64931939e37b1297d83d6c30_icon-instagram.svg)](https://www.instagram.com/casa_keys/)[![](https://assets-global.website-files.com/64931939e37b1297d83d6938/64e8ec49352a4de5fbeadf1e_twitter-x-seeklogo.com-4.svg)](https://twitter.com/CasaHODL/)
+[![](https://cdn.prod.website-files.com/64931939e37b1297d83d6938/64931939e37b1297d83d6c2e_icon-linkedin.svg)](https://www.linkedin.com/company/casa-inc/)[![](https://cdn.prod.website-files.com/64931939e37b1297d83d6938/64931939e37b1297d83d6c30_icon-instagram.svg)](https://www.instagram.com/casa_keys/)[![](https://cdn.prod.website-files.com/64931939e37b1297d83d6938/64e8ec49352a4de5fbeadf1e_twitter-x-seeklogo.com-4.svg)](https://twitter.com/CasaHODL/)
 
 LearN
 
@@ -431,4 +433,4 @@ resources
 
 GET THE APP
 
-[![](https://assets-global.website-files.com/64931939e37b1297d83d6938/64931939e37b1297d83d6ac7_appstore.png)](https://apps.apple.com/us/app/casa-keymaster/id1314586706)[![](https://assets-global.website-files.com/64931939e37b1297d83d6938/64931939e37b1297d83d6b01_playstore.png)](https://play.google.com/store/apps/details?id=casa.keymaster&hl=en_US)
+[![](https://cdn.prod.website-files.com/64931939e37b1297d83d6938/64931939e37b1297d83d6ac7_appstore.png)](https://apps.apple.com/us/app/casa-keymaster/id1314586706)[![](https://cdn.prod.website-files.com/64931939e37b1297d83d6938/64931939e37b1297d83d6b01_playstore.png)](https://play.google.com/store/apps/details?id=casa.keymaster&hl=en_US)
