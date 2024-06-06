@@ -58,7 +58,10 @@ Pricing
 Resources
 =========
 
-* Documentation
+* Library
+    -------
+    
+    Documentation
     -------------
     
     * ### Getting Started
@@ -79,9 +82,6 @@ Resources
         
         ### AI
         
-    
-    Resource hub
-    ------------
     
     Learning
     --------
@@ -132,18 +132,6 @@ Why Cloudflare
         
     
     Why trust Cloudflare
-    --------------------
-    
-    Resource hub
-    ------------
-    
-    Blog
-    ----
-    
-    Enterprise level services
-    -------------------------
-    
-    Explore case studies
     --------------------
     
 * [Contact sales](https://www.cloudflare.com/plans/enterprise/contact/)
