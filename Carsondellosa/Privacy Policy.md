@@ -1,12 +1,10 @@
-![null](https://www.facebook.com/tr?id=1565747026990890&ev=PageView&noscript=1&a=plbigcommerce1.2&eid=store-2-prd-us-central1-179998316436)                                                        [Skip to main content](#main-content)
+![null](https://www.facebook.com/tr?id=1565747026990890&ev=PageView&noscript=1&a=plbigcommerce1.2&eid=store-2-prd-us-central1-180870591188)                                                        [Skip to main content](#main-content)
 
 Just For You–Free Shipping on Online Orders $40+
 
 SPARK EXCLUSIVE–Extra 20% OFF Clearance | [SHOP](https://www.carsondellosa.com/sale/clearance/)
 
-BOGO Free Desk Essentials & Labels | [SHOP](https://www.carsondellosa.com/teaching-supplies/categories/desk-essentials-labels/)
-
-Buy 2 Borders, Get 1 Free | [SHOP](https://www.carsondellosa.com/classroom-decorations/categories/bulletin-board-borders/)
+BOGO Free Puzzles & Games | [SHOP](https://www.carsondellosa.com/learn-at-home/categories/puzzles-games/)
 
 [Toggle menu](#)
 
@@ -155,6 +153,7 @@ Search  search
 * [School Solutions](https://www.carsondellosa.com/school-orders/)
     
     * [Our School Solutions](https://www.carsondellosa.com/school-solutions/our-school-solutions/)
+        * [Spotlight on Reading](https://www.carsondellosa.com/school-solutions/our-school-solutions/spotlight-on-reading/)
         * [Elementary Classroom Kits](https://www.carsondellosa.com/school-solutions/our-school-solutions/elementary-classroom-kits/)
         * [Diversity, Equity, and Inclusion](https://www.carsondellosa.com/school-solutions/our-school-solutions/diversity-equity-and-inclusion/)
         * [Literacy](https://www.carsondellosa.com/school-solutions/our-school-solutions/literacy/)
