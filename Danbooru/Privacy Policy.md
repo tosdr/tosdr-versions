@@ -1,3 +1,7 @@
+[🎉 Happy 19th Birthday to Danbooru! 🎉](https://danbooru.donmai.us/posts/1)
+
+[](#)
+
 [![](/packs/static/public/images/danbooru-logo-128x128-ea111b6658173e847734.png)](https://danbooru.donmai.us/) [Danbooru](https://danbooru.donmai.us/)
 
 [](#)[](#)
@@ -162,4 +166,4 @@ We may update this Privacy Policy from time to time. The updated policy will be 
 
 Changes to this Privacy Policy will go into effect as soon as the updated Privacy Policy is accessible. By continuing to use our Services after changes to our Privacy Policy go into effect, you agree to be bound by the revised policy.
 
-[Terms](https://danbooru.donmai.us/terms_of_service) / [Privacy](https://danbooru.donmai.us/privacy) / [Upgrade](https://danbooru.donmai.us/upgrade) / [Contact](https://danbooru.donmai.us/contact) / [![](/packs/static/public/images/github-logo-c932001442ab985405de.png)](https://github.com/danbooru/danbooru "Running commit: 57931c9e3")[![](/packs/static/public/images/twitter-logo-bccaea8aa96a35b97733.png)](https://twitter.com/danboorubot)[![](/packs/static/public/images/discord-logo-5c40c3a6f162a826276b.png)](https://discord.gg/danbooru)
+[Terms](https://danbooru.donmai.us/terms_of_service) / [Privacy](https://danbooru.donmai.us/privacy) / [Upgrade](https://danbooru.donmai.us/upgrade) / [Contact](https://danbooru.donmai.us/contact) / [![](/packs/static/public/images/github-logo-c932001442ab985405de.png)](https://github.com/danbooru/danbooru "Running commit: 10ea4e9ac")[![](/packs/static/public/images/twitter-logo-bccaea8aa96a35b97733.png)](https://twitter.com/danboorubot)[![](/packs/static/public/images/discord-logo-5c40c3a6f162a826276b.png)](https://discord.gg/danbooru)
