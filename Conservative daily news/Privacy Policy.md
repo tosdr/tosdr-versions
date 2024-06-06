@@ -1,15 +1,15 @@
-Monday, May 20 2024
+Thursday, June 6 2024
 
 Breaking News
 
-* [Michael Cohen Admits On Witness Stand He Stole From Trump Organization](https://www.conservativedailynews.com/2024/05/michael-cohen-admits-on-witness-stand-he-stole-from-trump-organization/)
-* [Federal Judge Blocks Biden ATF Rule Expanding Gun Background Checks](https://www.conservativedailynews.com/2024/05/federal-judge-blocks-biden-atf-rule-expanding-gun-background-checks/)
-* [Biden Races To Add One Trillion In New Regs As Election Looms](https://www.conservativedailynews.com/2024/05/biden-races-to-add-one-trillion-in-new-regs-as-election-looms/)
-* [Medal of Honor Monday: Army Col. Van T. Barfoot](https://www.conservativedailynews.com/2024/05/medal-of-honor-monday-army-col-van-t-barfoot/)
-* [Watch As Middle America Becomes The Middle East](https://www.conservativedailynews.com/2024/05/watch-as-middle-america-becomes-the-middle-east/)
-* [President Joe Biden’s Schedule for Monday, May 20, 2024](https://www.conservativedailynews.com/2024/05/president-joe-bidens-schedule-for-monday-may-20-2024/)
-* [Biden’s Budget Bomb](https://www.conservativedailynews.com/2024/05/bidens-budget-bomb/)
-* [Democrats Kill Effort to Make It Harder For China-Linked Companies to Reap Taxpayer Cash](https://www.conservativedailynews.com/2024/05/democrats-kill-effort-to-make-it-harder-for-china-linked-companies-to-reap-taxpayer-cash/)
+* [Israeli Officials’ Latest Comments Indicate Middle East Powder Keg May Be On Verge Of Blowing Up](https://www.conservativedailynews.com/2024/06/israeli-officials-latest-comments-indicate-middle-east-powder-keg-may-be-on-verge-of-blowing-up/)
+* [A Broken Border Is Not The Same As A Broken Immigration System](https://www.conservativedailynews.com/2024/06/a-broken-border-is-not-the-same-as-a-broken-immigration-system/)
+* [After the Bragg Verdict in New York Biden cannot Possibly Unite America](https://www.conservativedailynews.com/2024/06/after-the-bragg-verdict-in-new-york-biden-cannot-possibly-unite-america/)
+* [President Joe Biden’s Schedule for Thursday, June 6, 2024](https://www.conservativedailynews.com/2024/06/president-joe-bidens-schedule-for-thursday-june-6-2024/)
+* [MSNBC Analyst Suggests Silencing Trump To ‘Protect Voters’](https://www.conservativedailynews.com/2024/06/msnbc-analyst-suggests-silencing-trump-to-protect-voters/)
+* [Biden Says He Wants To Cut Down On Illegal Immigration — But ‘Bidenomics’ Depends On It](https://www.conservativedailynews.com/2024/06/biden-says-he-wants-to-cut-down-on-illegal-immigration-but-bidenomics-depends-on-it/)
+* [UN Chief Calls For Governments To Censor Fossil Fuel Advertisements](https://www.conservativedailynews.com/2024/06/un-chief-calls-for-governments-to-censor-fossil-fuel-advertisements/)
+* [Can Russian And Chinese Agents Legally Vote In DC?](https://www.conservativedailynews.com/2024/06/can-russian-and-chinese-agents-legally-vote-in-dc/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -103,82 +103,82 @@ Support Conservative Daily News with a small donation via [Paypal or credit card
 * [Twitter](https://twitter.com/CDNPosts)
 * [Telegram](https://t.me/CDNMedia)
 
-* [![Joe Biden Kamala Harris](https://www.conservativedailynews.com/wp-content/uploads/2023/09/mrz090823dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/05/bidens-budget-bomb/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/11/gavel-justice-220x150.jfif)](https://www.conservativedailynews.com/2024/06/elon-musks-x-asks-supreme-court-to-weigh-in-on-jack-smiths-trump-search-warrant/)
     
-    [Biden’s Budget Bomb](https://www.conservativedailynews.com/2024/05/bidens-budget-bomb/)
+    [Elon Musk’s X Asks Supreme Court To Weigh In On Jack Smith’s Trump Search Warrant](https://www.conservativedailynews.com/2024/06/elon-musks-x-asks-supreme-court-to-weigh-in-on-jack-smiths-trump-search-warrant/)
     
-    May 19, 2024
+    June 4, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/08/shock-ashamed-questioning-embarrassed-judgemental-1-220x150.jpg)](https://www.conservativedailynews.com/2024/05/heres-a-fatal-mistake-republicans-should-avoid-at-all-costs-heading-into-november/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/04/Judge-with-Gavel-220x150.jpg)](https://www.conservativedailynews.com/2024/06/theres-a-long-list-of-reasons-to-toss-trumps-conviction-but-his-appeal-venue-isnt-the-friendliest/)
     
-    [Here’s A Fatal Mistake Republicans Should Avoid At All Costs Heading Into November](https://www.conservativedailynews.com/2024/05/heres-a-fatal-mistake-republicans-should-avoid-at-all-costs-heading-into-november/)
+    [There’s A Long List Of Reasons To Toss Trump’s Conviction — But His Appeal Venue Isn’t The Friendliest](https://www.conservativedailynews.com/2024/06/theres-a-long-list-of-reasons-to-toss-trumps-conviction-but-his-appeal-venue-isnt-the-friendliest/)
     
-    May 19, 2024
+    June 4, 2024
     
 
 Recent Posts
 
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/02/Michael-Cohen-4.jpg)](https://www.conservativedailynews.com/2024/05/michael-cohen-admits-on-witness-stand-he-stole-from-trump-organization/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/01/hollis-feat-220x150-1.jpg)](https://www.conservativedailynews.com/2024/06/it-isnt-fashion-its-filth/)
     
-    [Michael Cohen Admits On Witness Stand He Stole From Trump Organization](https://www.conservativedailynews.com/2024/05/michael-cohen-admits-on-witness-stand-he-stole-from-trump-organization/)
+    [It Isn’t Fashion — It’s Filth](https://www.conservativedailynews.com/2024/06/it-isnt-fashion-its-filth/)
     
-    May 20, 2024
+    June 6, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/11/gavel-justice-220x150.jfif)](https://www.conservativedailynews.com/2024/05/federal-judge-blocks-biden-atf-rule-expanding-gun-background-checks/)
+* [![Joe Biden Israel Hamas](https://www.conservativedailynews.com/wp-content/uploads/2024/05/stg051824dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/06/israeli-officials-latest-comments-indicate-middle-east-powder-keg-may-be-on-verge-of-blowing-up/)
     
-    [Federal Judge Blocks Biden ATF Rule Expanding Gun Background Checks](https://www.conservativedailynews.com/2024/05/federal-judge-blocks-biden-atf-rule-expanding-gun-background-checks/)
+    [Israeli Officials’ Latest Comments Indicate Middle East Powder Keg May Be On Verge Of Blowing Up](https://www.conservativedailynews.com/2024/06/israeli-officials-latest-comments-indicate-middle-east-powder-keg-may-be-on-verge-of-blowing-up/)
     
-    May 20, 2024
+    June 6, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/05/Regulations-220x150.webp)](https://www.conservativedailynews.com/2024/05/biden-races-to-add-one-trillion-in-new-regs-as-election-looms/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/06/gv060624dAPR-1-1-220x150.jpg)](https://www.conservativedailynews.com/2024/06/bidens-broken-border/)
     
-    [Biden Races To Add One Trillion In New Regs As Election Looms](https://www.conservativedailynews.com/2024/05/biden-races-to-add-one-trillion-in-new-regs-as-election-looms/)
+    [Biden’s Broken Border](https://www.conservativedailynews.com/2024/06/bidens-broken-border/)
     
-    May 20, 2024
+    June 6, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/05/stg052024dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/05/a-bad-call/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/12/Saving-piggy-bank-money-220x150.png)](https://www.conservativedailynews.com/2024/06/clever-ways-to-use-this-for-that-to-save-time-and-money/)
     
-    [A Bad Call](https://www.conservativedailynews.com/2024/05/a-bad-call/)
+    [Clever Ways to Use This for That to Save Time and Money](https://www.conservativedailynews.com/2024/06/clever-ways-to-use-this-for-that-to-save-time-and-money/)
     
-    May 20, 2024
+    June 6, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/09/Birthday-cake-candles-220x150.png)](https://www.conservativedailynews.com/2024/05/erase-the-miles-with-a-birthday-cake-kit-plus-more-great-tips/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/06/IMG_5100-220x150.jpeg)](https://www.conservativedailynews.com/2024/06/a-broken-border-is-not-the-same-as-a-broken-immigration-system/)
     
-    [Erase the Miles with a Birthday Cake Kit, Plus More Great Tips](https://www.conservativedailynews.com/2024/05/erase-the-miles-with-a-birthday-cake-kit-plus-more-great-tips/)
+    [A Broken Border Is Not The Same As A Broken Immigration System](https://www.conservativedailynews.com/2024/06/a-broken-border-is-not-the-same-as-a-broken-immigration-system/)
     
-    May 20, 2024
+    June 6, 2024
     
-* [![A split-screen of photos shows a younger person in combat uniform wearing a medal, then an older version of the same person posing for a photo in a dress uniform.](https://www.conservativedailynews.com/wp-content/uploads/2024/05/230210-Z-A3554-1005Y-220x150.jpg)](https://www.conservativedailynews.com/2024/05/medal-of-honor-monday-army-col-van-t-barfoot/)
+* [![Joe Biden democrats lawfare Donald Trump](https://www.conservativedailynews.com/wp-content/uploads/2024/06/01gun-smoke-dt-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/06/after-the-bragg-verdict-in-new-york-biden-cannot-possibly-unite-america/)
     
-    [Medal of Honor Monday: Army Col. Van T. Barfoot](https://www.conservativedailynews.com/2024/05/medal-of-honor-monday-army-col-van-t-barfoot/)
+    [After the Bragg Verdict in New York Biden cannot Possibly Unite America](https://www.conservativedailynews.com/2024/06/after-the-bragg-verdict-in-new-york-biden-cannot-possibly-unite-america/)
     
-    May 20, 2024
+    June 6, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/05/IMG_5068-220x150.jpeg)](https://www.conservativedailynews.com/2024/05/watch-as-middle-america-becomes-the-middle-east/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/02/Joe-Biden-checking-watch-220x150.jpg)](https://www.conservativedailynews.com/2024/06/president-joe-bidens-schedule-for-thursday-june-6-2024/)
     
-    [Watch As Middle America Becomes The Middle East](https://www.conservativedailynews.com/2024/05/watch-as-middle-america-becomes-the-middle-east/)
+    [President Joe Biden’s Schedule for Thursday, June 6, 2024](https://www.conservativedailynews.com/2024/06/president-joe-bidens-schedule-for-thursday-june-6-2024/)
     
-    May 20, 2024
+    June 6, 2024
     
-* [![Bidenomics](https://www.conservativedailynews.com/wp-content/uploads/2023/08/stg082123dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/05/bidenomics-has-lowered-americans-standard-of-living/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/09/MSDNC-MSNBC-Media-Bias-220x150.png)](https://www.conservativedailynews.com/2024/06/msnbc-analyst-suggests-silencing-trump-to-protect-voters/)
     
-    [Bidenomics Has Lowered Americans’ Standard of Living](https://www.conservativedailynews.com/2024/05/bidenomics-has-lowered-americans-standard-of-living/)
+    [MSNBC Analyst Suggests Silencing Trump To ‘Protect Voters’](https://www.conservativedailynews.com/2024/06/msnbc-analyst-suggests-silencing-trump-to-protect-voters/)
     
-    May 20, 2024
+    June 6, 2024
     
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
-* [Federal Judge Blocks Biden ATF Rule Expanding Gun Background Checks](https://www.thegunpage.com/federal-judge-blocks-biden-atf-rule-expanding-gun-background-checks/10608620)
-* [New: Silencer Central BANISH Speed K Ti Suppressor](https://www.thegunpage.com/new-silencer-central-banish-speed-k-ti-suppressor/10608621)
-* [Mike Blaisdell Wins ATA Empire Grand American Doubles Event](https://www.thegunpage.com/mike-blaisdell-wins-ata-empire-grand-american-doubles-event/10608619)
-* [Mason Lane Joins SIG Sauer Pro Team](https://www.thegunpage.com/mason-lane-joins-sig-sauer-pro-team/10608613)
-* [Review: Crosman 3622 PCP](https://www.thegunpage.com/review-crosman-3622-pcp/10608612)
-* [Greg Abbott Pardons Army Vet Convicted Of Shooting Armed BLM Rioter](https://www.thegunpage.com/greg-abbott-pardons-army-vet-convicted-of-shooting-armed-blm-rioter/10608586)
-* [Your civil rights shouldn’t depend on your address or your judge](https://www.thegunpage.com/your-civil-rights-shouldnt-depend-on-your-address-or-your-judge/10608584)
-* [USPSA: Learning The Rules](https://www.thegunpage.com/uspsa-learning-the-rules/10608581)
-* [Pro-gun safe firearm storage nonprofit in serious financial crisis](https://www.thegunpage.com/pro-gun-safe-firearm-storage-nonprofit-in-serious-financial-crisis/10608575)
-* [NRA Promotes Civilian Participation: 1935 National Matches](https://www.thegunpage.com/nra-promotes-civilian-participation-1935-national-matches/10608574)
+* [Private school founder destroys every argument against arming teachers](https://www.thegunpage.com/private-school-founder-destroys-every-argument-against-arming-teachers/10608771)
+* [USPSA’s Staci Pulver: 25 Years And Counting](https://www.thegunpage.com/uspsas-staci-pulver-25-years-and-counting/10608770)
+* [NRA Introduces Pistol And Smallbore Classifications: 1939 National Matches](https://www.thegunpage.com/nra-introduces-pistol-and-smallbore-classifications-1939-national-matches/10608769)
+* [Federal Ammunition Renews Support Of Minnesota High School Trap Championship](https://www.thegunpage.com/federal-ammunition-renews-support-of-minnesota-high-school-trap-championship/10608764)
+* [Team Winchester & White Flyer’s Eric Harvey Wins Main Event At 2024 NSCA North Central Regional](https://www.thegunpage.com/team-winchester-white-flyers-eric-harvey-wins-main-event-at-2024-nsca-north-central-regional/10608763)
+* [New: 1791 Gunleather Holsters For Optics-Ready, Light-Bearing Pistols](https://www.thegunpage.com/new-1791-gunleather-holsters-for-optics-ready-light-bearing-pistols/10608758)
+* [New: Cabot Guns 80th Anniversary D-Day Tribute Pistols](https://www.thegunpage.com/new-cabot-guns-80th-anniversary-d-day-tribute-pistols/10608756)
+* [Six Solid Tips For Speedy Reloads In Action Shooting](https://www.thegunpage.com/six-solid-tips-for-speedy-reloads-in-action-shooting/10608757)
+* [Media fact check: How fake mass-shooting data produces fake news](https://www.thegunpage.com/media-fact-check-how-fake-mass-shooting-data-produces-fake-news/10608746)
+* [Walther Arms Reintroduces PPK/S Chambered In .32 ACP](https://www.thegunpage.com/walther-arms-reintroduces-ppk-s-chambered-in-32-acp/10608748)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -220,15 +220,15 @@ Contact Us
 
 Recent Comments
 
-* EMG on [The Tale Of Two Chiefs](https://www.conservativedailynews.com/2024/05/the-tale-of-two-chiefs/#comment-774407)
-* David Ruesch on [Why Joe Biden lies so Shamelessly](https://www.conservativedailynews.com/2024/05/why-joe-biden-lies-so-shamelessly/#comment-774286)
-* puddintame tellyathesame on [Major Auto Union Handed Huge Defeat By Alabama Workers](https://www.conservativedailynews.com/2024/05/major-auto-union-handed-huge-defeat-by-alabama-workers/#comment-774280)
-* Jerry Gros on [America’s Power Grid Could Buckle Under Sweltering Summer Heat, Watchdog Warns](https://www.conservativedailynews.com/2024/05/americas-power-grid-could-buckle-under-sweltering-summer-heat-watchdog-warns/#comment-774227)
-* Will Delito on [New Report Reveals Just How Energy Rich America Really Is](https://www.conservativedailynews.com/2024/05/new-report-reveals-just-how-energy-rich-america-really-is/#comment-774190)
-* Stanley on [Chilling](https://www.conservativedailynews.com/2024/05/chilling/#comment-774077)
-* J.D. Zack on [Greg Abbott Pardons Army Vet Convicted Of Shooting Armed BLM Rioter](https://www.conservativedailynews.com/2024/05/greg-abbott-pardons-army-vet-convicted-of-shooting-armed-blm-rioter/#comment-774076)
-* Stan on [Election Interference VS Election Manipulation](https://www.conservativedailynews.com/2024/05/election-interference-vs-election-manipulation/#comment-773831)
-* J.D. Zack on [Burning Mail Is Never a Good Thing](https://www.conservativedailynews.com/2024/05/burning-mail-is-never-a-good-thing/#comment-773584)
+* MeMyself&I on [United Launch Alliance Successfully Launches First Crewed Starliner](https://www.conservativedailynews.com/2024/06/united-launch-alliance-successfully-launches-first-crewed-starliner/#comment-775289)
+* Richard McDonough on [Bill Maher’s Trump Derangement Syndrome](https://www.conservativedailynews.com/2024/06/bill-mahers-trump-derangement-syndrome/#comment-775278)
+* Jeff L. on [Jill Biden Calls to vote for Good over Evil in November](https://www.conservativedailynews.com/2024/06/jill-biden-calls-to-vote-for-good-over-evil-in-november/#comment-775271)
+* Kennedy on [Of ‘Convicted Felons’ and Lying Frauds](https://www.conservativedailynews.com/2024/06/of-convicted-felons-and-lying-frauds/#comment-775269)
+* TMann on [Nearly Half Of Independents Think Trump Should Drop Out Following Guilty Verdict: POLL](https://www.conservativedailynews.com/2024/06/nearly-half-of-independents-think-trump-should-drop-out-following-guilty-verdict-poll/#comment-775238)
+* KayCee on [Biden Promised To Build Half A Million EV Charging Stations. So far, There Are A Grand Total Of 8](https://www.conservativedailynews.com/2024/06/biden-promised-to-build-half-a-million-ev-charging-stations-so-far-there-are-a-grand-total-of-8/#comment-775226)
+* Kaycee on [New York DA Bragg took a “Dangerous Step further than Stalin Ever did”](https://www.conservativedailynews.com/2024/06/new-york-da-bragg-took-a-dangerous-step-further-than-stalin-ever-did/#comment-775225)
+* Deacon JIm Martin on [New York DA Bragg took a “Dangerous Step further than Stalin Ever did”](https://www.conservativedailynews.com/2024/06/new-york-da-bragg-took-a-dangerous-step-further-than-stalin-ever-did/#comment-775203)
+* Will Delito on [Nearly Half Of Independents Think Trump Should Drop Out Following Guilty Verdict: POLL](https://www.conservativedailynews.com/2024/06/nearly-half-of-independents-think-trump-should-drop-out-following-guilty-verdict-poll/#comment-775195)
 
 ![sponsored](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
