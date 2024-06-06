@@ -1,4 +1,4 @@
-[![](https://corpostatic.dailymotion.com/corporate-cms-release-assets-prod/1d486e8e/app/themes/dailymotion/front/build/images/logo.svg)](https://www.dailymotion.com/) [Legal](https://www.dailymotion.com/)
+[![](https://corpostatic.dailymotion.com/corporate-cms-release-assets-prod/8bb40080/app/themes/dailymotion/front/build/images/logo.svg)](https://www.dailymotion.com/) [Legal](https://www.dailymotion.com/)
 
 * [Home](https://legal.dailymotion.com/en/)
 * [Legal Terms](https://legal.dailymotion.com/en/terms-of-use/)
@@ -828,7 +828,7 @@ To help our Help Center team identify the applicable procedures, we strongly rec
 
 In case of translation of all or part of this Privacy Policy, you acknowledge and agree that only the English version of this Privacy Policy shall prevail in any event, including where such translation is provided by DAILYMOTION.
 
-[![](https://corpostatic.dailymotion.com/corporate-cms-release-assets-prod/1d486e8e/app/themes/dailymotion/front/build/images/logo.svg)](https://www.dailymotion.com/)
+[![](https://corpostatic.dailymotion.com/corporate-cms-release-assets-prod/8bb40080/app/themes/dailymotion/front/build/images/logo.svg)](https://www.dailymotion.com/)
 
 English
 
