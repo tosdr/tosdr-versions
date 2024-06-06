@@ -11,7 +11,7 @@ Toggle navigation [![tiny logo](/images/cs-tiny-logo.png)](https://cryptostorm.i
 * [blog](https://cryptostorm.is/blog/)
 * You are NOT connected to cryptostorm
     
-    Your IP address is: 51.195.149.220
+    Your IP address is: 2001:41d0:801:1000::9de
 
 * [sitemap](https://cryptostorm.is/map)
 
