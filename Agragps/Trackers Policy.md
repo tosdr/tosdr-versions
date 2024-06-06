@@ -2,9 +2,9 @@
 
 We ship worldwide
 
-Our Offices
+Dealer Locations
 
-[](https://www.agragps.com/our-offices/)
+[](https://www.agragps.com/dealer-locations/)
 
 Contact Us
 
@@ -32,10 +32,6 @@ Wishlist
     * [![](https://www.agragps.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/es.svg)
         
         Español](https://www.agragps.com/es/cookie-policy-au/)
-
-USDCADEUR
-
-Change Currency
 
 [Social-facebook](https://www.facebook.com/agragps/) [Social-linkedin](https://www.linkedin.com/company/agra-gps/) [Instagram](https://www.instagram.com/agragps/) [Youtube](https://www.youtube.com/channel/UCF5voQj8AkbW0hH2vNsaDCw)
 
@@ -99,27 +95,27 @@ Close
     
     [CRG – GPS receiver](https://www.agragps.com/product/crg-gps-receiver/)
     
-    4,800.00€ – 5,550.00€
+    EUR € 4,800.00 – € 5,550.00
     
      [![CRG – GPS receiver + Bridge](https://www.agragps.com/wp-content/uploads/2022/03/xCRG-5371-scaled-thegem-product-justified-square-xxs.jpg.pagespeed.ic.9ct3xFsbXm.jpg)](https://www.agragps.com/product/crg-chameleon-rtk-guidance/)
     
     [CRG – GPS receiver + Bridge](https://www.agragps.com/product/crg-chameleon-rtk-guidance/)
     
-    5,500.00€ – 6,150.00€
+    EUR € 5,500.00 – € 6,150.00
     
     BRIDGE
     
-     [![GLEANER-JD S9 COMBINE](https://www.agragps.com/wp-content/uploads/2022/04/xgleanerS9-thegem-product-justified-square-xxs.jpg.pagespeed.ic.tm4SgcRzdA.jpg)](https://www.agragps.com/product/gleaner-jd-s9-combine/)
+     [![CRG – GPS receiver + Bridge](https://www.agragps.com/wp-content/uploads/2022/03/xCRG-5371-scaled-thegem-product-justified-square-xxs.jpg.pagespeed.ic.9ct3xFsbXm.jpg)](https://www.agragps.com/product/crg-chameleon-rtk-guidance/)
     
-    [GLEANER-JD S9 COMBINE](https://www.agragps.com/product/gleaner-jd-s9-combine/)
+    [CRG – GPS receiver + Bridge](https://www.agragps.com/product/crg-chameleon-rtk-guidance/)
     
-    ~3,380.00€~ 3,150.00€
+    EUR € 5,500.00 – € 6,150.00
     
-     [![MASSEY-8S.XXX-JD](https://www.agragps.com/wp-content/uploads/2022/07/xMassey-8s.265-thegem-product-justified-square-xxs.jpg.pagespeed.ic.ur41Qhk1s2.jpg)](https://www.agragps.com/product/massey-8s-jd-bridge/)
+     [![VALTRA Bridge compatible with John Deere Receiver](https://www.agragps.com/wp-content/uploads/2021/10/xValtra-thegem-product-justified-square-xxs.jpg.pagespeed.ic.r_EDAVTIOR.jpg)](https://www.agragps.com/product/valtra-jd-n-t/)
     
-    [MASSEY-8S.XXX-JD](https://www.agragps.com/product/massey-8s-jd-bridge/)
+    [VALTRA Bridge compatible with John Deere Receiver](https://www.agragps.com/product/valtra-jd-n-t/)
     
-    ~3,380.00€~ 3,150.00€
+    EUR € 3,150.00
     
     ITC Extend
     
@@ -129,27 +125,27 @@ Close
     
     Rated **5.00** out of 5
     
-    620.00€
+    € 620.00
     
     Accessories
+    
+     [![CLAAS AXION ROOF MOUNT – REAR](https://www.agragps.com/wp-content/uploads/2021/10/x20240521_143714-scaled-thegem-product-justified-square-xxs.jpg.pagespeed.ic.zeGSqvCAt2.jpg)](https://www.agragps.com/product/claas-axion-roof-mount/)
+    
+    [CLAAS AXION ROOF MOUNT – REAR](https://www.agragps.com/product/claas-axion-roof-mount/)
+    
+    € 130.00
     
      [![TRION CLAAS LEXION ROOF MOUNT](https://www.agragps.com/wp-content/uploads/2023/06/xTRION-MOUNT-1-1-e1688003197417-thegem-product-justified-square-xxs.jpg.pagespeed.ic.fVGd8dRxhJ.jpg)](https://www.agragps.com/product/trion-claas-lexion-roof-mount/)
     
     [TRION CLAAS LEXION ROOF MOUNT](https://www.agragps.com/product/trion-claas-lexion-roof-mount/)
     
-    ~90.00€~ 83.88€
-    
-     [![FENDT ROOF MOUNT 8XX-9XX](https://www.agragps.com/wp-content/uploads/2021/10/x20220403_112521-thegem-product-justified-square-xxs.jpg.pagespeed.ic.Wy_jGbrCQj.jpg)](https://www.agragps.com/product/fendt-mount/)
-    
-    [FENDT ROOF MOUNT 8XX-9XX](https://www.agragps.com/product/fendt-mount/)
-    
-    170.00€
+    € 90.00
     
      [![MTG POWER CABLE 12POS](https://www.agragps.com/wp-content/uploads/2022/04/x20220403_112225-thegem-product-justified-square-xxs.jpg.pagespeed.ic.G7AFfIV5DV.jpg)](https://www.agragps.com/product/mtg-power-cable-12pos/)
     
     [MTG POWER CABLE 12POS](https://www.agragps.com/product/mtg-power-cable-12pos/)
     
-    ~140.00€~ 130.00€
+    ~€ 140.00~ Original price was: € 140.00.€ 130.00Current price is: € 130.00.
     
 * [About CRG](https://www.agragps.com/about-crg/)
 * [Become a Dealer](https://www.agragps.com/dealer-request/)
@@ -241,27 +237,27 @@ Menu
     
     [CRG – GPS receiver](https://www.agragps.com/product/crg-gps-receiver/)
     
-    4,800.00€ – 5,550.00€
+    EUR € 4,800.00 – € 5,550.00
     
      [![CRG – GPS receiver + Bridge](https://www.agragps.com/wp-content/uploads/2022/03/xCRG-5371-scaled-thegem-product-justified-square-xxs.jpg.pagespeed.ic.9ct3xFsbXm.jpg)](https://www.agragps.com/product/crg-chameleon-rtk-guidance/)
     
     [CRG – GPS receiver + Bridge](https://www.agragps.com/product/crg-chameleon-rtk-guidance/)
     
-    5,500.00€ – 6,150.00€
+    EUR € 5,500.00 – € 6,150.00
     
     BRIDGE
     
-     [![CRG – GPS receiver + Bridge](https://www.agragps.com/wp-content/uploads/2022/03/xCRG-5371-scaled-thegem-product-justified-square-xxs.jpg.pagespeed.ic.9ct3xFsbXm.jpg)](https://www.agragps.com/product/crg-chameleon-rtk-guidance/)
+    [](https://www.agragps.com/product/goldacres-jd-crop-cruiser/)
     
-    [CRG – GPS receiver + Bridge](https://www.agragps.com/product/crg-chameleon-rtk-guidance/)
+    [GOLDACRES-JD CROP CRUISER](https://www.agragps.com/product/goldacres-jd-crop-cruiser/)
     
-    5,500.00€ – 6,150.00€
+    ~€ 3,380.00~ Original price was: € 3,380.00.€ 3,150.00Current price is: € 3,150.00.
     
-     [![New Holland-JD Bridge](https://www.agragps.com/wp-content/uploads/2022/04/xdieAckerknipser-212-thegem-product-justified-square-xxs.jpg.pagespeed.ic.fWUE9YZbg5.jpg)](https://www.agragps.com/product/new-holland-combine/)
+     [![AGCO-JD Rogator 932-937 SERIES](https://www.agragps.com/wp-content/uploads/2023/05/x20230525_163159-scaled-thegem-product-justified-square-xxs.jpg.pagespeed.ic.R81JYgTrln.jpg)](https://www.agragps.com/product/agco-jd-rogator-932-937-series/)
     
-    [New Holland-JD Bridge](https://www.agragps.com/product/new-holland-combine/)
+    [AGCO-JD Rogator 932-937 SERIES](https://www.agragps.com/product/agco-jd-rogator-932-937-series/)
     
-    3,149.00€ – 3,150.00€
+    ~€ 3,380.00~ Original price was: € 3,380.00.€ 3,150.00Current price is: € 3,150.00.
     
     ITC Extend
     
@@ -271,27 +267,27 @@ Menu
     
     Rated **5.00** out of 5
     
-    620.00€
+    € 620.00
     
     Accessories
     
-     [![CRG – GPS receiver](https://www.agragps.com/wp-content/uploads/2022/03/xCRG-5371-scaled-thegem-product-justified-square-xxs.jpg.pagespeed.ic.9ct3xFsbXm.jpg)](https://www.agragps.com/product/crg-gps-receiver/)
+     [![MTG POWER CABLE 12POS](https://www.agragps.com/wp-content/uploads/2022/04/x20220403_112225-thegem-product-justified-square-xxs.jpg.pagespeed.ic.G7AFfIV5DV.jpg)](https://www.agragps.com/product/mtg-power-cable-12pos/)
     
-    [CRG – GPS receiver](https://www.agragps.com/product/crg-gps-receiver/)
+    [MTG POWER CABLE 12POS](https://www.agragps.com/product/mtg-power-cable-12pos/)
     
-    4,800.00€ – 5,550.00€
+    ~€ 140.00~ Original price was: € 140.00.€ 130.00Current price is: € 130.00.
+    
+     [![CRG EXTERNAL MODEM](https://www.agragps.com/wp-content/uploads/2022/05/xmicrohard-modem-thegem-product-justified-square-xxs.jpg.pagespeed.ic.gNS8Wfiy0g.jpg)](https://www.agragps.com/product/crg-external-modem/)
+    
+    [CRG EXTERNAL MODEM](https://www.agragps.com/product/crg-external-modem/)
+    
+    ~€ 660.00~ Original price was: € 660.00.€ 650.00Current price is: € 650.00.
     
      [![CAB-RAM Display mount](https://www.agragps.com/wp-content/uploads/2022/10/x20220403_114913-scaled-thegem-product-justified-square-xxs.jpg.pagespeed.ic.uPk0t3qePx.jpg)](https://www.agragps.com/product/cab-ram/)
     
     [CAB-RAM Display mount](https://www.agragps.com/product/cab-ram/)
     
-    120.00€
-    
-     [![CLAAS AXION ROOF MOUNT](https://www.agragps.com/wp-content/uploads/2021/10/x20220403_112800-thegem-product-justified-square-xxs.jpg.pagespeed.ic.QTLZ2ADK9U.jpg)](https://www.agragps.com/product/claas-axion-roof-mount/)
-    
-    [CLAAS AXION ROOF MOUNT](https://www.agragps.com/product/claas-axion-roof-mount/)
-    
-    130.00€
+    € 120.00
     
 * [About CRG](https://www.agragps.com/about-crg/)
 * [Become a Dealer](https://www.agragps.com/dealer-request/)
@@ -308,27 +304,27 @@ _English
     
     ![fr](https://www.agragps.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/fr.svg)
     
-    _Français](https://www.agragps.com/cookie-policy-au/)
+    _Français](https://www.agragps.com/fr/cookie-policy-au/)
 * [_
     
     ![de](https://www.agragps.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/de.svg)
     
-    _Deutsch](https://www.agragps.com/cookie-policy-au/)
+    _Deutsch](https://www.agragps.com/de/cookie-policy-au/)
 * [_
     
     ![pl](https://www.agragps.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/pl.svg)
     
-    _Polski](https://www.agragps.com/cookie-policy-au/)
+    _Polski](https://www.agragps.com/pl/cookie-policy-au/)
 * [_
     
     ![pt-br](https://www.agragps.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/pt-br.svg)
     
-    _Português](https://www.agragps.com/cookie-policy-au/)
+    _Português](https://www.agragps.com/pt-br/cookie-policy-au/)
 * [_
     
     ![es](https://www.agragps.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/es.svg)
     
-    _Español](https://www.agragps.com/cookie-policy-au/)
+    _Español](https://www.agragps.com/es/cookie-policy-au/)
 
 [](#)
 
@@ -1659,6 +1655,70 @@ sbjs\_session
 
 ##### Function
 
+##### Name
+
+wf-scan-issue-expanded-2546
+
+##### Expiration
+
+##### Function
+
+##### Name
+
+wf-scan-issue-expanded-2617
+
+##### Expiration
+
+##### Function
+
+##### Name
+
+wf-scan-issue-expanded-2491
+
+##### Expiration
+
+##### Function
+
+##### Name
+
+wf-scan-issue-expanded-2539
+
+##### Expiration
+
+##### Function
+
+##### Name
+
+wf-scan-issue-expanded-2543
+
+##### Expiration
+
+##### Function
+
+##### Name
+
+wf-scan-issue-expanded-2620
+
+##### Expiration
+
+##### Function
+
+##### Name
+
+aelia\_customer\_country
+
+##### Expiration
+
+##### Function
+
+##### Name
+
+\_gcl\_au
+
+##### Expiration
+
+##### Function
+
 8\. Enabling/disabling and deleting cookies
 -------------------------------------------
 
@@ -1691,7 +1751,7 @@ Website: [https://www.agragps.com](https://www.agragps.com/)
 Email: moc.spgarga@lepuehj  
 Phone number: +1 7809904052
 
-This Cookie Policy was synchronised with [cookiedatabase.org](https://cookiedatabase.org/) on April 22, 2024.
+This Cookie Policy was synchronised with [cookiedatabase.org](https://cookiedatabase.org/) on June 3, 2024.
 
 ![ARGO GPS](https://www.agragps.com/wp-content/uploads/2023/04/xlogo_white.png.pagespeed.ic.Zn8vpQ_ISw.png)
 
