@@ -53,7 +53,7 @@
 * [Sign in](https://cookie-script.com/login "Sign in")
 *  [![English](/templates/uber/images/langs/en.svg "English") English](javascript:void(0) "/templates/uber/images/langs/en.svg")
     
-    *  [![English](/templates/uber/images/langs/en.svg "English") English](https://cookie-script.com/cookie-report?identifier=3ef25741df9bab1b06fe59ee9cf284bf "/templates/uber/images/langs/en.svg")
+    *  [![English](/templates/uber/images/langs/en.svg "English") English](https://cookie-script.com/index.php?option=com_scanner&task=.screenshotCallback&identifier=8cba98c49f56ee8493811df3b9e74edc "/templates/uber/images/langs/en.svg")
     *  [![Deutsch](/templates/uber/images/langs/de.svg "Deutsch") Deutsch](https://cookie-script.com/de/ "/templates/uber/images/langs/de.svg")
     *  [![Français](/templates/uber/images/langs/fr.svg "Français") Français](https://cookie-script.com/fr/ "/templates/uber/images/langs/fr.svg")
     *  [![Italiano](/templates/uber/images/langs/it.svg "Italiano") Italiano](https://cookie-script.com/it/ "/templates/uber/images/langs/it.svg")
