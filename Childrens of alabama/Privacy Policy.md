@@ -32,7 +32,7 @@ Close
     * [Immunization Schedule](https://www.cdc.gov/vaccines/schedules/hcp/imz/child-adolescent-shell.html)
     * [Immunization Catch-up Schedule](https://www.cdc.gov/vaccines/schedules/hcp/imz/catchup-shell.html)
 * [Find a Provider](https://www.childrensal.org/providers)
-* Ways to Help[](javascript:void(0) "Expand menu")
+* Ways to Give[](javascript:void(0) "Expand menu")
     * [Support Children's](https://www.childrensal.org/foundation)
     * [Volunteer Services](https://www.childrensal.org/services/volunteer-services)
 * [Donate Now](https://secure.childrensal.org/site/Donation2?idb=0&2500_donation=form1&DONATION_LEVEL_ID_SELECTED=1&df_id=2500&mfc_pref=T)
@@ -66,7 +66,7 @@ Close
 
 [Clinics](https://www.childrensal.org/patients-visitors/clinics) [Visitation](https://www.childrensal.org/patients-visitors/visitation) [Planning Your Visit](https://www.childrensal.org/patients-visitors/planning-your-visit) Online Pre-Registration [Patient Billing Information](https://www.childrensal.org/patients-visitors/patient-billing-information) [Patient Name Change Request Form](https://childrensal-iszsn.formstack.com/forms/namechangerequest) [Financial Assistance](https://www.childrensal.org/patients-visitors/financial-assistance) [Request Medical Records](https://childrensal-iszsn.formstack.com/forms/requestcopyofmedicalrecord) [Request Medical Records (PDF)- English](https://www.childrensal.org/sites/default/files/2023-08/Authorization_for_Release_of_Information_764_Eng.pdf) [Request Medical Records (PDF)-Spanish](https://www.childrensal.org/sites/default/files/2023-08/Authorization_for_Release_of_Information_764_Sp.pdf) [Immunization Schedule](https://www.cdc.gov/vaccines/schedules/hcp/imz/child-adolescent-shell.html) [Immunization Catch-up Schedule](https://www.cdc.gov/vaccines/schedules/hcp/imz/catchup-shell.html)
 
-### Ways to Help
+### Ways to Give
 
 [Support Children's](https://www.childrensal.org/foundation) [Volunteer Services](https://www.childrensal.org/services/volunteer-services)
 
@@ -76,7 +76,7 @@ Close
 * [Programs & Services](https://www.childrensal.org/services)
 * [Patients & Visitors](javascript:void(0);)
 * [Find a Provider](https://www.childrensal.org/providers)
-* [Ways to Help](javascript:void(0);)
+* [Ways to Give](javascript:void(0);)
 * [Donate Now](https://secure.childrensal.org/site/Donation2?idb=0&2500_donation=form1&DONATION_LEVEL_ID_SELECTED=1&df_id=2500&mfc_pref=T)
 
 [search](javascript:void(0); "Click to search") [show off canvas menu](javascript:void(0);)
@@ -207,7 +207,7 @@ Fax: 205-638-2743
 
 [Financial Assistance](https://www.childrensal.org/patients-visitors/financial-assistance "Financial Assistance")
 
-[Health and Safety Tips](https://www.childrensal.org/health-safety-tips "Health and Safety Tips")
+Health and Safety Tips
 
 [PIRC](https://www.childrensal.org/services/behavioral-health-ireland-center/pirc-psychiatric-intake-response-center " Psychiatric Intake Response Center ")
 
