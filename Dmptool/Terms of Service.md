@@ -66,10 +66,10 @@ In order to help identify and administer your account with the DMP Tool, we need
 
 * * *
 
-Privacy policy
---------------
+Privacy statement
+-----------------
 
-The information you enter into this system can be seen by you, people you have chosen to share access with, and—solely for the purposes of maintaining the service—system administrators at the CDL. We compile anonymized, automated, and aggregated information from plans, but we will not directly access, make use of, or share your content with anyone beyond CDL and your home institution without your permission. Authorized users at your home institution may access your plans for specific purposes—for example, to track compliance with funder/institutional requirements, to calculate storage requirements, or to assess demand for data management services across disciplines. For a detailed description of what information (other than the plans) we collect from visitors to this website and how it is used and managed, please see the CDL Privacy Policy and Baseline Supporting Practices listed at [https://cdlib.org/about/policies-and-guidelines/privacy-policy/](https://cdlib.org/about/policies-and-guidelines/privacy-policy/)
+The information you enter into this system can be seen by you, people you have chosen to share access with, and—solely for the purposes of maintaining the service—system administrators at the CDL. We compile anonymized, automated, and aggregated information from plans, but we will not directly access, make use of, or share your content with anyone beyond CDL and your home institution without your permission. Authorized users at your home institution may access your plans for specific purposes—for example, to track compliance with funder/institutional requirements, to calculate storage requirements, or to assess demand for data management services across disciplines. For a detailed description of what information (other than the plans) we collect from visitors to this website and how it is used and managed, please see the CDL Privacy Statement and Baseline Supporting Practices listed at [https://cdlib.org/about/policies-and-guidelines/privacy-statement/](https://cdlib.org/about/policies-and-guidelines/privacy-statement/)
 
 * * *
 
@@ -140,5 +140,5 @@ This statement was last revised on December 19, 2023 and may be revised at any t
 
 ![CDL](/assets/logo-cdl-bcf0b0f9a801df5e34d7127fc76f15111852dd880dd5e0e1734fc2c7c985b130.png)
 
-DMP Tool is a service of the California Digital Library, a division of the University of California Office of the President. Version: v5.15  
+DMP Tool is a service of the California Digital Library, a division of the University of California Office of the President. Version: v5.16  
 © 2024 The Regents of the University of California
