@@ -4,9 +4,7 @@ Crunched for time, but want a demo? Watch our pre-recorded demo instead!
 
 ### Fill out the info below to get the best demo for your business!
 
-Leave this field blank
-
-     
+    
 
 First Name 
 
@@ -224,13 +222,13 @@ Submit
     
     [Explore All Classes](https://companycam.com/classes)
     
+    * ![](https://companycam.imgix.net/images/advanced-features-you-need-to-know.png)
+        
+        [Advanced Features You Need to Know](https://companycam.com/classes/advanced-features-you-need-to-know)
+        
     * ![](https://companycam.imgix.net/images/April_Craft-Header.png)
         
         [CompanyCam Feature Refresher](https://companycam.com/classes/feature-refresher)
-        
-    * ![](https://companycam.imgix.net/images/Request-Access-Payments-Craft.jpg)
-        
-        [How to Request Access to Payments](https://companycam.com/classes/how-to-request-access-to-payments)
         
     
     ### Contact Support
@@ -520,13 +518,13 @@ Menu
     
     [Explore All Classes](https://companycam.com/classes)
     
+    * ![](https://companycam.imgix.net/images/advanced-features-you-need-to-know.png)
+        
+        [Advanced Features You Need to Know](https://companycam.com/classes/advanced-features-you-need-to-know)
+        
     * ![](https://companycam.imgix.net/images/April_Craft-Header.png)
         
         [CompanyCam Feature Refresher](https://companycam.com/classes/feature-refresher)
-        
-    * ![](https://companycam.imgix.net/images/Request-Access-Payments-Craft.jpg)
-        
-        [How to Request Access to Payments](https://companycam.com/classes/how-to-request-access-to-payments)
         
     
     ### Contact Support
@@ -619,6 +617,8 @@ Menu
 ![close popup icon](https://companycam.imgix.net/icons-logos/icons/grey-close.png)
 
 [We'll Show You](https://companycam.com/demo)
+
+![image of construction worker](https://companycam.imgix.net/images/cta-luke.png)
 
 **CompanyCam Privacy Policy**
 =============================
