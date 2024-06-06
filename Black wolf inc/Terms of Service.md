@@ -1,4 +1,4 @@
-![](https://www.facebook.com/tr?id=240619853652024&ev=PageView&noscript=1)                      
+![](https://www.facebook.com/tr?id=240619853652024&ev=PageView&noscript=1)                           
 
 [Skip to content](#main)
 
@@ -6,9 +6,8 @@ Shop All
 
 Devices
 
-* [Sonic Scalp Scrubber](https://blackwolfnation.com/pages/specialoffer-fb-sonicscalp2in1)
-* [Sonic Scrubber](https://blackwolfnation.com/pages/specialoffer-fb-sonicscrubber3)
-* [WUSH™ PRO Ear Cleaner](https://blackwolfnation.com/pages/specialoffer-fb-v19)
+* [Sonic Scrubber](https://blackwolfnation.com/products/sonic-scrubber)
+* [WUSH™ PRO Ear Cleaner](https://blackwolfnation.com/products/wush)
 
 Haircare
 
@@ -20,7 +19,7 @@ Haircare
 
 Bundles + Sets
 
-* [Acne Fighting System](https://blackwolfnation.com/pages/specialoffer-fb-acne-1)
+* [Acne Fighting System](https://blackwolfnation.com/products/level-1-body-acne-bundle-toiletry-bag)
 * [Device Collection](https://blackwolfnation.com/collections/device-collection)
 * [Haircare Bundles](https://blackwolfnation.com/collections/hair-products)
 
@@ -30,11 +29,9 @@ Bundles + Sets
 
 Best Sellers
 
-[Sonic Scalp Scrubber](https://blackwolfnation.com/pages/specialoffer-fb-sonicscalp2in1)
+[Sonic Scrubber](https://blackwolfnation.com/products/sonic-scrubber)
 
-[Sonic Scrubber](https://blackwolfnation.com/pages/specialoffer-fb-sonicscrubber3)
-
-[WUSH™ PRO Ear Cleaner](https://blackwolfnation.com/pages/specialoffer-fb-v19)
+[WUSH™ PRO Ear Cleaner](https://blackwolfnation.com/products/wush)
 
 [Charcoal Body Wash Liter](https://blackwolfnation.com/products/charcoal-body-wash-liter)
 
@@ -44,7 +41,7 @@ Best Sellers
 
 Bundles & Sets
 
-[Acne Fighting System](https://blackwolfnation.com/pages/specialoffer-fb-acne-1)
+[Acne Fighting System](https://blackwolfnation.com/products/level-1-body-acne-bundle-toiletry-bag)
 
 [Device Bundles](https://blackwolfnation.com/collections/device-collection)
 
@@ -52,11 +49,9 @@ Bundles & Sets
 
 [Sonic Scrubber Bundles](https://blackwolfnation.com/collections/sonic-scrubber-bundles)
 
-[Sonic Scrubber](https://blackwolfnation.com/pages/specialoffer-fb-sonicscrubber3)
+[Sonic Scrubber](https://blackwolfnation.com/products/sonic-scrubber)
 
-[Wush Pro Ear Cleaner](https://blackwolfnation.com/pages/specialoffer-fb-v19)
-
-[Sonic Scalp Scrubber](https://blackwolfnation.com/pages/specialoffer-fb-sonicscalp2in1)
+[Wush Pro Ear Cleaner](https://blackwolfnation.com/products/wush)
 
 * [Rewards](https://blackwolfnation.com/pages/rewards-information#smile-referral-program-details)
 * [Subscriptions](https://blackwolfnation.com/pages/subscriptions)
@@ -90,9 +85,8 @@ Free Shower Caddy On Orders Over $80 | Free Shipping On All Orders Over $55
     
     * [Devices](https://blackwolfnation.com/collections/device-collection)
         
-        * [Sonic Scalp Scrubber](https://blackwolfnation.com/pages/specialoffer-fb-sonicscalp2in1)
-        * [Sonic Scrubber](https://blackwolfnation.com/pages/specialoffer-fb-sonicscrubber3)
-        * [WUSH™ PRO Ear Cleaner](https://blackwolfnation.com/pages/specialoffer-fb-v19)
+        * [Sonic Scrubber](https://blackwolfnation.com/products/sonic-scrubber)
+        * [WUSH™ PRO Ear Cleaner](https://blackwolfnation.com/products/wush)
         
     * [Haircare](https://blackwolfnation.com/collections/hair-products)
         
@@ -103,7 +97,7 @@ Free Shower Caddy On Orders Over $80 | Free Shipping On All Orders Over $55
     * [Bodycare](https://blackwolfnation.com/collections/face-body)
     * [Bundles + Sets](https://blackwolfnation.com/pages/bundle-shop)
         
-        * [Acne Fighting System](https://blackwolfnation.com/pages/specialoffer-fb-acne-1)
+        * [Acne Fighting System](https://blackwolfnation.com/products/level-1-body-acne-bundle-toiletry-bag)
         * [Device Collection](https://blackwolfnation.com/collections/device-collection)
         * [Haircare Bundles](https://blackwolfnation.com/collections/hair-products)
         
@@ -112,23 +106,21 @@ Free Shower Caddy On Orders Over $80 | Free Shipping On All Orders Over $55
     
 * [Best Sellers](https://blackwolfnation.com/collections/best-sellers)
     
-    * [Sonic Scalp Scrubber](https://blackwolfnation.com/pages/specialoffer-fb-sonicscalp2in1)
-    * [Sonic Scrubber](https://blackwolfnation.com/pages/specialoffer-fb-sonicscrubber3)
-    * [WUSH™ PRO Ear Cleaner](https://blackwolfnation.com/pages/specialoffer-fb-v19)
+    * [Sonic Scrubber](https://blackwolfnation.com/products/sonic-scrubber)
+    * [WUSH™ PRO Ear Cleaner](https://blackwolfnation.com/products/wush)
     * [Charcoal Body Wash Liter](https://blackwolfnation.com/products/charcoal-body-wash-liter)
     * [Charcoal Face Wash](https://blackwolfnation.com/products/activated-charcoal-facewash)
     * [Shampoo & Conditioner - 1 Liter Combo Pack](https://blackwolfnation.com/products/shampoo-conditioner-1-liter-combo-pack-1)
     
 * [Bundles & Sets](https://blackwolfnation.com/pages/bundle-shop)
     
-    * [Acne Fighting System](https://blackwolfnation.com/pages/specialoffer-fb-acne-1)
+    * [Acne Fighting System](https://blackwolfnation.com/products/level-1-body-acne-bundle-toiletry-bag)
     * [Device Bundles](https://blackwolfnation.com/collections/device-collection)
     * [Haircare Bundles](https://blackwolfnation.com/collections/hair-products)
     * [Sonic Scrubber Bundles](https://blackwolfnation.com/collections/sonic-scrubber-bundles)
     
-* [Sonic ScrubberSonic Scrubber](https://blackwolfnation.com/pages/specialoffer-fb-sonicscrubber3)
-* [Wush Pro Ear CleanerWush Pro Ear Cleaner](https://blackwolfnation.com/pages/specialoffer-fb-v19)
-* [Sonic Scalp ScrubberSonic Scalp Scrubber](https://blackwolfnation.com/pages/specialoffer-fb-sonicscalp2in1)
+* [Sonic ScrubberSonic Scrubber](https://blackwolfnation.com/products/sonic-scrubber)
+* [Wush Pro Ear CleanerWush Pro Ear Cleaner](https://blackwolfnation.com/products/wush)
 
 * [REFER A FRIEND](https://blackwolfnation.com/pages/rewards-information#smile-referral-program-details)
 * [SUBSCRIPTIONS](https://blackwolfnation.com/pages/subscriptions)
