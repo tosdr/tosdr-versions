@@ -1,0 +1,1 @@
+![stackadapt](https://tags.srv.stackadapt.com/rt?sid=32hWL5C9iLcgcuWfuspGCn)
