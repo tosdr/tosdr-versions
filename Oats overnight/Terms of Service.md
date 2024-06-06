@@ -1,0 +1,350 @@
+[33% OFF FIRST TIME SUBSCRIPTION
+
+\+ FREE SHAKER + FREE SHIPPING](https://www.oatsovernight.com/products/custom-bundle)
+
+ [![Facebook](//www.oatsovernight.com/cdn/shop/t/399/assets/static.icon-social-facebook.svg?v=124701003547319029441717623407)](https://www.facebook.com/oatsovernight)[![Instagram](//www.oatsovernight.com/cdn/shop/t/399/assets/static.icon-social-instagram.svg?v=7169954617462814191717623407)](https://www.instagram.com/oatsovernight/)[![TikTok](//www.oatsovernight.com/cdn/shop/t/399/assets/static.icon-social-tiktok.svg?v=115922296173650386951717623407)](https://www.tiktok.com/@oatsovernight)
+
+[Shop](https://www.oatsovernight.com/collections) [Build a Box](https://www.oatsovernight.com/products/custom-bundle) [Subscribe](https://www.oatsovernight.com/pages/subscribe)
+
+[![Oats Overnight](//www.oatsovernight.com/cdn/shop/t/399/assets/static.logo.svg?v=153990944445211779791717623407)](https://www.oatsovernight.com/)
+
+[About Us](https://www.oatsovernight.com/pages/about-us) [Reviews](https://www.oatsovernight.com/pages/reviews) [FAQ](https://www.oatsovernight.com/pages/frequently-asked-questions)
+
+[](https://app.oatsovernight.com/)
+
+Terms
+=====
+
+TERMS OF SERVICE  
+  
+\----  
+  
+OVERVIEW  
+  
+This website is operated by Oats Overnight. Throughout the site, the terms “we”, “us” and “our” refer to Oats Overnight. Oats Overnight offers this website, including all information, tools and services available from this site to you, the user, conditioned upon your acceptance of all terms, conditions, policies and notices stated here.  
+  
+By visiting our site and/ or purchasing something from us, you engage in our “Service” and agree to be bound by the following terms and conditions (“Terms of Service”, “Terms”), including those additional terms and conditions and policies referenced herein and/or available by hyperlink. These Terms of Service apply to all users of the site, including without limitation users who are browsers, vendors, customers, merchants, and/ or contributors of content.  
+  
+Please read these Terms of Service carefully before accessing or using our website. By accessing or using any part of the site, you agree to be bound by these Terms of Service. If you do not agree to all the terms and conditions of this agreement, then you may not access the website or use any services. If these Terms of Service are considered an offer, acceptance is expressly limited to these Terms of Service.  
+  
+Any new features or tools which are added to the current store shall also be subject to the Terms of Service. You can review the most current version of the Terms of Service at any time on this page. We reserve the right to update, change or replace any part of these Terms of Service by posting updates and/or changes to our website. It is your responsibility to check this page periodically for changes. Your continued use of or access to the website following the posting of any changes constitutes acceptance of those changes.  
+  
+Our store is hosted on Shopify Inc. They provide us with the online e-commerce platform that allows us to sell our products and services to you.  
+  
+  
+SECTION 1 - ONLINE STORE TERMS  
+  
+By agreeing to these Terms of Service, you represent that you are at least the age of majority in your state or province of residence, or that you are the age of majority in your state or province of residence and you have given us your consent to allow any of your minor dependents to use this site.  
+  
+You may not use our products for any illegal or unauthorized purpose nor may you, in the use of the Service, violate any laws in your jurisdiction (including but not limited to copyright laws).  
+  
+You must not transmit any worms or viruses or any code of a destructive nature.  
+  
+A breach or violation of any of the Terms will result in an immediate termination of your Services.  
+  
+  
+SECTION 2 - GENERAL CONDITIONS  
+  
+We reserve the right to refuse service to anyone for any reason at any time.  
+  
+You understand that your content (not including credit card information), may be transferred unencrypted and involve (a) transmissions over various networks; and (b) changes to conform and adapt to technical requirements of connecting networks or devices. Credit card information is always encrypted during transfer over networks.  
+  
+You agree not to reproduce, duplicate, copy, sell, resell or exploit any portion of the Service, use of the Service, or access to the Service or any contact on the website through which the service is provided, without express written permission by us.  
+  
+The headings used in this agreement are included for convenience only and will not limit or otherwise affect these Terms.  
+  
+  
+SECTION 3 - ACCURACY, COMPLETENESS AND TIMELINESS OF INFORMATION  
+  
+We are not responsible if information made available on this site is not accurate, complete or current. The material on this site is provided for general information only and should not be relied upon or used as the sole basis for making decisions without consulting primary, more accurate, more complete or more timely sources of information. Any reliance on the material on this site is at your own risk.  
+  
+This site may contain certain historical information. Historical information, necessarily, is not current and is provided for your reference only. We reserve the right to modify the contents of this site at any time, but we have no obligation to update any information on our site. You agree that it is your responsibility to monitor changes to our site.  
+  
+  
+SECTION 4 - MODIFICATIONS TO THE SERVICE AND PRICES  
+  
+Prices for our products are subject to change without notice.  
+  
+We reserve the right at any time to modify or discontinue the Service (or any part or content thereof) without notice at any time.  
+  
+We shall not be liable to you or to any third-party for any modification, price change, suspension or discontinuance of the Service.  
+  
+  
+SECTION 5 - PRODUCTS OR SERVICES (if applicable)  
+  
+Certain products or services may be available exclusively online through the website. These products or services may have limited quantities and are subject to return or exchange only according to our Return Policy.  
+  
+We have made every effort to display as accurately as possible the colors and images of our products that appear at the store. We cannot guarantee that your computer monitor's display of any color will be accurate.  
+  
+We reserve the right, but are not obligated, to limit the sales of our products or Services to any person, geographic region or jurisdiction. We may exercise this right on a case-by-case basis. We reserve the right to limit the quantities of any products or services that we offer. All descriptions of products or product pricing are subject to change at anytime without notice, at the sole discretion of us. We reserve the right to discontinue any product at any time. Any offer for any product or service made on this site is void where prohibited.  
+  
+We do not warrant that the quality of any products, services, information, or other material purchased or obtained by you will meet your expectations, or that any errors in the Service will be corrected.  
+  
+  
+SECTION 6 - ACCURACY OF BILLING AND ACCOUNT INFORMATION  
+  
+We reserve the right to refuse any order you place with us. We may, in our sole discretion, limit or cancel quantities purchased per person, per household or per order. These restrictions may include orders placed by or under the same customer account, the same credit card, and/or orders that use the same billing and/or shipping address. In the event that we make a change to or cancel an order, we may attempt to notify you by contacting the e-mail and/or billing address/phone number provided at the time the order was made. We reserve the right to limit or prohibit orders that, in our sole judgment, appear to be placed by dealers, resellers or distributors.  
+  
+You agree to provide current, complete and accurate purchase and account information for all purchases made at our store. You agree to promptly update your account and other information, including your email address and credit card numbers and expiration dates, so that we can complete your transactions and contact you as needed.  
+  
+For more detail, please review our Returns Policy.  
+  
+  
+SECTION 7 - OPTIONAL TOOLS  
+  
+We may provide you with access to third-party tools over which we neither monitor nor have any control nor input.  
+  
+You acknowledge and agree that we provide access to such tools ”as is” and “as available” without any warranties, representations or conditions of any kind and without any endorsement. We shall have no liability whatsoever arising from or relating to your use of optional third-party tools.  
+  
+Any use by you of optional tools offered through the site is entirely at your own risk and discretion and you should ensure that you are familiar with and approve of the terms on which tools are provided by the relevant third-party provider(s).  
+  
+We may also, in the future, offer new services and/or features through the website (including, the release of new tools and resources). Such new features and/or services shall also be subject to these Terms of Service.  
+  
+  
+SECTION 8 - THIRD-PARTY LINKS  
+  
+Certain content, products and services available via our Service may include materials from third-parties.  
+  
+Third-party links on this site may direct you to third-party websites that are not affiliated with us. We are not responsible for examining or evaluating the content or accuracy and we do not warrant and will not have any liability or responsibility for any third-party materials or websites, or for any other materials, products, or services of third-parties.  
+  
+We are not liable for any harm or damages related to the purchase or use of goods, services, resources, content, or any other transactions made in connection with any third-party websites. Please review carefully the third-party's policies and practices and make sure you understand them before you engage in any transaction. Complaints, claims, concerns, or questions regarding third-party products should be directed to the third-party.  
+  
+  
+SECTION 9 - USER COMMENTS, FEEDBACK AND OTHER SUBMISSIONS  
+  
+If, at our request, you send certain specific submissions (for example contest entries) or without a request from us you send creative ideas, suggestions, proposals, plans, or other materials, whether online, by email, by postal mail, or otherwise (collectively, 'comments'), you agree that we may, at any time, without restriction, edit, copy, publish, distribute, translate and otherwise use in any medium any comments that you forward to us. We are and shall be under no obligation (1) to maintain any comments in confidence; (2) to pay compensation for any comments; or (3) to respond to any comments.  
+  
+We may, but have no obligation to, monitor, edit or remove content that we determine in our sole discretion are unlawful, offensive, threatening, libelous, defamatory, pornographic, obscene or otherwise objectionable or violates any party’s intellectual property or these Terms of Service.  
+  
+You agree that your comments will not violate any right of any third-party, including copyright, trademark, privacy, personality or other personal or proprietary right. You further agree that your comments will not contain libelous or otherwise unlawful, abusive or obscene material, or contain any computer virus or other malware that could in any way affect the operation of the Service or any related website. You may not use a false e-mail address, pretend to be someone other than yourself, or otherwise mislead us or third-parties as to the origin of any comments. You are solely responsible for any comments you make and their accuracy. We take no responsibility and assume no liability for any comments posted by you or any third-party.  
+  
+  
+SECTION 10 - PERSONAL INFORMATION  
+  
+Your submission of personal information through the store is governed by our Privacy Policy. To view our Privacy Policy.  
+  
+  
+SECTION 11 - ERRORS, INACCURACIES AND OMISSIONS  
+  
+Occasionally there may be information on our site or in the Service that contains typographical errors, inaccuracies or omissions that may relate to product descriptions, pricing, promotions, offers, product shipping charges, transit times and availability. We reserve the right to correct any errors, inaccuracies or omissions, and to change or update information or cancel orders if any information in the Service or on any related website is inaccurate at any time without prior notice (including after you have submitted your order).  
+  
+We undertake no obligation to update, amend or clarify information in the Service or on any related website, including without limitation, pricing information, except as required by law. No specified update or refresh date applied in the Service or on any related website, should be taken to indicate that all information in the Service or on any related website has been modified or updated.  
+  
+  
+  
+SECTION 12 - PROHIBITED USES  
+  
+In addition to other prohibitions as set forth in the Terms of Service, you are prohibited from using the site or its content: (a) for any unlawful purpose; (b) to solicit others to perform or participate in any unlawful acts; (c) to violate any international, federal, provincial or state regulations, rules, laws, or local ordinances; (d) to infringe upon or violate our intellectual property rights or the intellectual property rights of others; (e) to harass, abuse, insult, harm, defame, slander, disparage, intimidate, or discriminate based on gender, sexual orientation, religion, ethnicity, race, age, national origin, or disability; (f) to submit false or misleading information; (g) to upload or transmit viruses or any other type of malicious code that will or may be used in any way that will affect the functionality or operation of the Service or of any related website, other websites, or the Internet; (h) to collect or track the personal information of others; (i) to spam, phish, pharm, pretext, spider, crawl, or scrape; (j) for any obscene or immoral purpose; or (k) to interfere with or circumvent the security features of the Service or any related website, other websites, or the Internet. We reserve the right to terminate your use of the Service or any related website for violating any of the prohibited uses.  
+  
+  
+SECTION 13 - DISCLAIMER OF WARRANTIES; LIMITATION OF LIABILITY  
+  
+We do not guarantee, represent or warrant that your use of our service will be uninterrupted, timely, secure or error-free.  
+  
+We do not warrant that the results that may be obtained from the use of the service will be accurate or reliable.  
+  
+You agree that from time to time we may remove the service for indefinite periods of time or cancel the service at any time, without notice to you.  
+  
+You expressly agree that your use of, or inability to use, the service is at your sole risk. The service and all products and services delivered to you through the service are (except as expressly stated by us) provided 'as is' and 'as available' for your use, without any representation, warranties or conditions of any kind, either express or implied, including all implied warranties or conditions of merchantability, merchantable quality, fitness for a particular purpose, durability, title, and non-infringement.  
+  
+In no case shall Oats Overnight, our directors, officers, employees, affiliates, agents, contractors, interns, suppliers, service providers or licensors be liable for any injury, loss, claim, or any direct, indirect, incidental, punitive, special, or consequential damages of any kind, including, without limitation lost profits, lost revenue, lost savings, loss of data, replacement costs, or any similar damages, whether based in contract, tort (including negligence), strict liability or otherwise, arising from your use of any of the service or any products procured using the service, or for any other claim related in any way to your use of the service or any product, including, but not limited to, any errors or omissions in any content, or any loss or damage of any kind incurred as a result of the use of the service or any content (or product) posted, transmitted, or otherwise made available via the service, even if advised of their possibility. Because some states or jurisdictions do not allow the exclusion or the limitation of liability for consequential or incidental damages, in such states or jurisdictions, our liability shall be limited to the maximum extent permitted by law.  
+  
+
+SECTION 14 - Oats Overnight Monthly Giveaway - OFFICIAL RULES  
+  
+NO PURCHASE NECESSARY TO ENTER OR WIN. MAKING A PURCHASE OR PAYMENT OF ANY KIND WILL NOT INCREASE YOUR CHANCES OF WINNING. VOID WHERE PROHIBITED OR RESTRICTED BY LAW.  
+  
+  
+A.  PROMOTION DESCRIPTION: The Monthly Giveaway ("Sweepstakes") begins on the 1st of each month and ends the last day of each month at midnight (the "Promotion Period").  
+  
+    The sponsor of this Sweepstakes is Oats Overnight ("Sponsor"). By participating in the Sweepstakes, each Entrant unconditionally accepts and agrees to comply with and abide by these Official Rules and the decisions of Sponsor, which shall be final and binding in all respects. Sponsor is responsible for the collection, submission or processing of Entries and the overall administration of the Sweepstakes. Entrants should look solely to Sponsor with any questions, comments or problems related to the Sweepstakes. Sponsor may be reached by email at support@oatsovernight.com during the Promotion Period.  
+  
+  
+B.  ELIGIBILITY: Open to legal residents of the United States who are 18 years or older (the "Entrant"). Sponsor, and their respective parents, subsidiaries, affiliates, distributors, retailers, sales representatives, advertising and promotion agencies and each of their respective officers, directors and employees (the "Promotion Entities"), are ineligible to enter the Sweepstakes or win a prize. Household Members and Immediate Family Members of such individuals are also not eligible to enter or win. "Household Members" shall mean those people who share the same residence at least three months a year. "Immediate Family Members" shall mean parents, step-parents, legal guardians, children, step-children, siblings, step-siblings, or spouses. This Sweepstakes is subject to all applicable federal, state and local laws and regulations and is void where prohibited or restricted by law.  
+  
+  
+C. PRIZES:  
+  
+            Grand Prize: Ten (10) winners will receive \[one (1) Eight Pack of Oats Overnight\] (approximate retail value or "ARV": $29)  
+      
+  
+    Only one prize per person and per household will be awarded. Gift cards and gift certificates are subject to the terms and conditions of the issuer. Prizes cannot be transferred, redeemed for cash or substituted by winner. Sponsor reserves the right in its sole and absolute discretion to award a substitute prize of equal or greater value if a prize described in these Official Rules is unavailable or cannot be awarded, in whole or in part, for any reason. The ARV of the prize represents Sponsor's good faith determination. That determination is final and binding and cannot be appealed. If the actual value of the prize turns out to be less than the stated ARV, the difference will not be awarded in cash. Sponsor makes no representation or warranty concerning the appearance, safety or performance of any prize awarded. Restrictions, conditions, and limitations may apply. Sponsor will not replace any lost or stolen prize items.  
+     
+    This Sweepstakes is open to legal residents of the United States and Prize will only be awarded and/or delivered to addresses within said locations. All federal, state and/or local taxes, fees, and surcharges are the sole responsibility of the prize winner. Failure to comply with the Official Rules will result in forfeiture of the prize.  
+     
+  
+D. HOW TO ENTER: Enter the Sweepstakes during the Promotion Period online by visiting the entry form, which can be found on the following website at www.oatsovernight.com.  
+  
+    Automated or robotic Entries submitted by individuals or organizations will be disqualified. Internet entry must be made by the Entrant. Any attempt by Entrant to obtain more than the stated number of Entries by using multiple/different email addresses, identities, registrations, logins or any other methods, including, but not limited to, commercial contest/sweepstakes subscription notification and/or entering services, will void Entrant's Entries and that Entrant may be disqualified. Final eligibility for the award of any prize is subject to eligibility verification as set forth below. All Entries must be posted by the end of the Promotion Period in order to participate. Sponsor's database clock will be the official timekeeper for this Sweepstakes.  
+     
+  
+E. WINNER SELECTION: The Winner(s) of the Sweepstakes will be selected in a random drawing from among all eligible Entries received throughout the Promotion Period. The random drawing will be conducted about five (5) days after the Promotion Period each month by Sponsor or its designated representatives, whose decisions are final. Odds of winning will vary depending on the number of eligible Entries received.  
+  
+  
+F. WINNER NOTIFICATION: Winner will be notified by email at the email address provided in the Entry Information approximately five (5) days after the random drawing. Potential Winner must accept a prize by email as directed by Sponsor within thirty (30) days of notification. Sponsor is not responsible for any delay or failure to receive notification for any reason, including inactive email account(s), technical difficulties associated therewith, or Winner’s failure to adequately monitor any email account.  
+  
+    Any winner notification not responded to or returned as undeliverable may result in prize forfeiture. The potential prize winner may be required to sign and return an affidavit of eligibility and release of liability, and a Publicity Release (collectively "the Prize Claim Documents"). No substitution or transfer of a prize is permitted except by Sponsor.  
+  
+  
+G. PRIVACY: Any personal information supplied by you will be subject to the privacy policy of the Sponsor posted at [https://www.oatsovernight.com/pages/privacy/](https://www.oatsovernight.com/pages/privacy/). By entering the Sweepstakes, you grant Sponsor permission to share your email address and any other personally identifiable information with the other Sweepstakes Entities for the purpose of administration and prize fulfillment, including use in a publicly available Winners list.  
+  
+  
+H. LIMITATION OF LIABILITY: Sponsor assumes no responsibility or liability for (a) any incorrect or inaccurate entry information, or for any faulty or failed electronic data transmissions; (b) any unauthorized access to, or theft, destruction or alteration of entries at any point in the operation of this Sweepstakes; (c) any technical malfunction, failure, error, omission, interruption, deletion, defect, delay in operation or communications line failure, regardless of cause, with regard to any equipment, systems, networks, lines, satellites, servers, camera, computers or providers utilized in any aspect of the operation of the Sweepstakes; (d) inaccessibility or unavailability of any network or wireless service, the Internet or website or any combination thereof; (e) suspended or discontinued Internet, wireless or landline phone service; or (f) any injury or damage to participant's or to any other person’s computer or mobile device which may be related to or resulting from any attempt to participate in the Sweepstakes or download of any materials in the Sweepstakes.  
+  
+    If, for any reason, the Sweepstakes is not capable of running as planned for reasons which may include without limitation, infection by computer virus, tampering, unauthorized intervention, fraud, technical failures, or any other causes which may corrupt or affect the administration, security, fairness, integrity or proper conduct of this Sweepstakes, the Sponsor reserves the right at its sole discretion to cancel, terminate, modify or suspend the Sweepstakes in whole or in part. In such event, Sponsor shall immediately suspend all drawings and prize awards, and Sponsor reserves the right to award any remaining prizes (up to the total ARV as set forth in these Official Rules) in a manner deemed fair and equitable by Sponsor. Sponsor and Released Parties shall not have any further liability to any participant in connection with the Sweepstakes.  
+  
+  
+I. WINNER LIST/OFFICIAL RULES: To obtain a copy of the Winner List or a copy of these Official Rules, send your request along with a stamped, self-addressed envelope to Oats Overnight cc: Monthly Giveaway at 2420 W 14th Street, Suite B, Tempe, AZ 85281. Requests for the names of the winners must be received no later than ten (10) days after the Promotion Period has ended.  
+  
+  
+J. SPONSOR: Oats Overnight, 2420 W 14th Street, Suite B, Tempe, AZ 85281, AND [support@oatsovernight.com](mailto:support@oatsovernight.com)  
+  
+K. ADMINISTRATOR: Oats Overnight, 2420 W 14th Street, Suite B, Tempe, AZ 85281, AND [support@oatsovernight.com](mailto:support@oatsovernight.com)  
+  
+SECTION 15 - INDEMNIFICATION  
+  
+You agree to indemnify, defend and hold harmless Oats Overnight and our parent, subsidiaries, affiliates, partners, officers, directors, agents, contractors, licensors, service providers, subcontractors, suppliers, interns and employees, harmless from any claim or demand, including reasonable attorneys’ fees, made by any third-party due to or arising out of your breach of these Terms of Service or the documents they incorporate by reference, or your violation of any law or the rights of a third-party.  
+  
+Governing Law and Jurisdiction; Arbitration  
+  
+Except as otherwise restricted by applicable law, you agree than any claim or dispute arising out of or relating in any way to the Services provided by Oats Overnight will be resolved solely and exclusively by binding arbitration, rather than in court, except that you may assert claims in small claims court if your claims qualify. The Federal Arbitration Act and deferral arbitration law apply to this agreement. The laws of the State of Arizona shall govern this Agreement, and shall be used in any Arbitration proceeding.  
+  
+To begin an arbitration proceeding, you must send a letter requesting arbitration and describing your claim to the following address: Oats Overnight, 2420 W 14th Street, Suite B, Tempe, AZ 85281  
+  
+Arbitration under this Agreement will be conducted by the American Arbitration Association (AAA) under its rule then in effect, shall be conducted in English, and shall be located in Phoenix, Arizona. Payment of all filing, administration and arbitrator fees will be governed by the AAA's rules. All aspects of the arbitration proceeding, and any ruling, decision or award by the arbitrators, will be strictly confidential for the benefit of all parties.  
+  
+You and Oats Overnight agree that any dispute resolution proceeding will be conducted only on an individual basis and not in a class, consolidated or representative action. If for any reason a claim proceeds in court rather than in arbitration, both you and Oats Overnight agree that each have waived any right to a jury trial.  
+  
+SECTION 16 - SEVERABILITY  
+  
+In the event that any provision of these Terms of Service is determined to be unlawful, void or unenforceable, such provision shall nonetheless be enforceable to the fullest extent permitted by applicable law, and the unenforceable portion shall be deemed to be severed from these Terms of Service, such determination shall not affect the validity and enforceability of any other remaining provisions.  
+  
+  
+SECTION 17 - TERMINATION  
+  
+The obligations and liabilities of the parties incurred prior to the termination date shall survive the termination of this agreement for all purposes.  
+  
+These Terms of Service are effective unless and until terminated by either you or us. You may terminate these Terms of Service at any time by notifying us that you no longer wish to use our Services, or when you cease using our site.  
+  
+If in our sole judgment you fail, or we suspect that you have failed, to comply with any term or provision of these Terms of Service, we also may terminate this agreement at any time without notice and you will remain liable for all amounts due up to and including the date of termination; and/or accordingly may deny you access to our Services (or any part thereof).  
+  
+  
+SECTION 18 - ENTIRE AGREEMENT  
+  
+The failure of us to exercise or enforce any right or provision of these Terms of Service shall not constitute a waiver of such right or provision.  
+  
+These Terms of Service and any policies or operating rules posted by us on this site or in respect to The Service constitutes the entire agreement and understanding between you and us and govern your use of the Service, superseding any prior or contemporaneous agreements, communications and proposals, whether oral or written, between you and us (including, but not limited to, any prior versions of the Terms of Service).  
+  
+Any ambiguities in the interpretation of these Terms of Service shall not be construed against the drafting party.  
+  
+  
+SECTION 19 - GOVERNING LAW  
+  
+These Terms of Service and any separate agreements whereby we provide you Services shall be governed by and construed in accordance with the laws of Arizona without regards to principles of conflicts of law. Any action brought by either party against the other concerning the Services or purchased product shall be brought only in the state courts of Arizona or in the federal courts located in the state of Arizona.  
+  
+  
+SECTION 20 - CHANGES TO TERMS OF SERVICE  
+  
+You can review the most current version of the Terms of Service at any time at this page.  
+  
+We reserve the right, at our sole discretion, to update, change or replace any part of these Terms of Service by posting updates and changes to our website. It is your responsibility to check our website periodically for changes. Your continued use of or access to our website or the Service following the posting of any changes to these Terms of Service constitutes acceptance of those changes.  
+  
+  
+SECTION 21 - CONTACT INFORMATION  
+  
+Questions about the Terms of Service should be sent to us at support@oatsovernight.com.
+
+![Join the Rumor Mill](//www.oatsovernight.com/cdn/shop/t/399/assets/static.mill_logo.png?v=173123316556213718451717623407)
+
+Special Offers, Flavor Releases, and More.
+------------------------------------------
+
+Get the inside scoop on sneak previews, flash discounts, and exclusive flavor access. Plus, scandalous oatmeal pics.
+
+ Yes!
+
+[![Oats Overnight](//www.oatsovernight.com/cdn/shop/t/399/assets/static.logo.svg?v=153990944445211779791717623407)](https://www.oatsovernight.com/)
+
+Explore
+
+![expand section](//www.oatsovernight.com/cdn/shop/t/399/assets/static.chevron-right.svg?v=154321127048796272031717623407)
+
+[Shop](https://www.oatsovernight.com/collections)
+
+[Build a Box](https://www.oatsovernight.com/products/custom-bundle)
+
+[Subscribe](https://www.oatsovernight.com/pages/subscribe)
+
+[Store Locator](https://www.oatsovernight.com/pages/store-locator)
+
+[Account](https://app.oatsovernight.com/)
+
+Learn More
+
+![expand section](//www.oatsovernight.com/cdn/shop/t/399/assets/static.chevron-right.svg?v=154321127048796272031717623407)
+
+[About Us](https://www.oatsovernight.com/pages/about-us)
+
+[Reviews](https://www.oatsovernight.com/pages/reviews)
+
+[FAQ](https://www.oatsovernight.com/pages/frequently-asked-questions)
+
+[Careers](https://www.oatsovernight.com/pages/careers)
+
+[Contact](https://www.oatsovernight.com/pages/contact-us)
+
+Contact
+
+[support@oatsovernight.com](mailto:support@oatsovernight.com)
+
+Are you #teamoats?
+
+Join the squad, follow along, share your experience. We can't wait to meet you.
+
+ [![Facebook](//www.oatsovernight.com/cdn/shop/t/399/assets/static.icon-social-facebook.svg?v=124701003547319029441717623407)](https://www.facebook.com/oatsovernight)[![Instagram](//www.oatsovernight.com/cdn/shop/t/399/assets/static.icon-social-instagram.svg?v=7169954617462814191717623407)](https://www.instagram.com/oatsovernight/)[![TikTok](//www.oatsovernight.com/cdn/shop/t/399/assets/static.icon-social-tiktok.svg?v=115922296173650386951717623407)](https://www.tiktok.com/@oatsovernight)[![Twitter](//www.oatsovernight.com/cdn/shop/t/399/assets/static.icon-social-twitter.svg?v=68042637314731628141717623407)](https://twitter.com/oatsovernight)[![Twitter Gaming](//www.oatsovernight.com/cdn/shop/t/399/assets/static.icon-social-twitter-gaming.svg?v=4902550041283541551717623407)](https://twitter.com/oats_gaming)
+
+© 2024 Oats Overnight · All rights Reserved.
+
+[Privacy Policy](https://www.oatsovernight.com/pages/privacy) [Terms & Conditions](https://www.oatsovernight.com/pages/terms) [Sweepstakes Rules](https://www.oatsovernight.com/pages/sweepstakes)
+
+![Payment Providers Icons](//www.oatsovernight.com/cdn/shop/t/399/assets/static.payment-logos.png?v=169429374746822108801717623407)
+
+[![Oats Overnight](//www.oatsovernight.com/cdn/shop/t/399/assets/static.logo.svg?v=153990944445211779791717623407)](https://www.oatsovernight.com/)
+
+#### Category
+
+[Shop](https://www.oatsovernight.com/collections) [Build a Box](https://www.oatsovernight.com/products/custom-bundle) [Subscribe](https://www.oatsovernight.com/pages/subscribe) [About Us](https://www.oatsovernight.com/pages/about-us) [Reviews](https://www.oatsovernight.com/pages/reviews) [FAQ](https://www.oatsovernight.com/pages/frequently-asked-questions) [Account](https://app.oatsovernight.com/)
+
+ [![Facebook](//www.oatsovernight.com/cdn/shop/t/399/assets/static.icon-social-facebook.svg?v=124701003547319029441717623407)](https://www.facebook.com/oatsovernight)[![Instagram](//www.oatsovernight.com/cdn/shop/t/399/assets/static.icon-social-instagram.svg?v=7169954617462814191717623407)](https://www.instagram.com/oatsovernight/)[![TikTok](//www.oatsovernight.com/cdn/shop/t/399/assets/static.icon-social-tiktok.svg?v=115922296173650386951717623407)](https://www.tiktok.com/@oatsovernight)[![Twitter](//www.oatsovernight.com/cdn/shop/t/399/assets/static.icon-social-twitter.svg?v=68042637314731628141717623407)](https://twitter.com/oatsovernight)[![Twitter Gaming](//www.oatsovernight.com/cdn/shop/t/399/assets/static.icon-social-twitter-gaming.svg?v=4902550041283541551717623407)](https://twitter.com/oats_gaming)    
+
+### Your Cart
+
+Continue Shopping
+
+ Proceed to Checkout
+
+Monthly delivery, cancel anytime, fully customizable. ![cards](//www.oatsovernight.com/cdn/shop/t/399/assets/static.re_pay.png?v=142688920584801949061717623407)
+
+![Money-Back Guarantee](//www.oatsovernight.com/cdn/shop/t/399/assets/static.money_pro.svg?v=40594498175223938001717623407)
+
+100% Money-Back Guarantee
+
+![Free BlenderBottle on First Order](//www.oatsovernight.com/cdn/shop/t/399/assets/static.blender_pro.svg?v=125674187687777439211717623407)
+
+Free BlenderBottle® First Order
+
+![Free, Fast Shipping in the USA](//www.oatsovernight.com/cdn/shop/t/399/assets/static.ship_pro.svg?v=68638650091773209391717623407)
+
+Free, Fast Shipping in the USA
+
+Discounted Pricing. Always.
+
+Free Unreleased Flavors
+
+Mix and Match Flavors
+
+Customize Shipping Intervals
+
+Lifetime BlenderBottle® Replacement
+
+Hold, Modify, or Cancel Anytime
