@@ -37,7 +37,7 @@ Social media management tool](https://login.circleboom.com/oauth2/register?tenan
 Privacy Policy
 ==============
 
-Last revised on: January 1, 2020
+Last revised on: June 5, 2024
 
 Your privacy is of the utmost importance to us. At Circleboom, we want to make your experience online satisfying and safe.
 
@@ -68,6 +68,8 @@ Information Circleboom Gather and Tracks
     You can, at any time, revoke Circleboom's access to your Twitter account from your settings page on Twitter. You can also contact us and request we remove any information we have cached about you.  
       
     
+* Google  
+    Circleboom’s use and transfer to any other app of information received from Google APIs will adhere to [Google API Services User Data Policy](https://developers.google.com/terms/api-services-user-data-policy), including the Limited Use requirements.
 * Competitions  
     We may offer optional voluntary competitions where we will collect explicit information which you provide. If you are currently logged into Circleboom we may track your entry to the competition with its connection to the Circleboom account.
 * Surveys  
@@ -91,6 +93,13 @@ Circleboom uses any information voluntarily given by our users to enhance their 
 As stated above, we use information that users voluntarily provide in order to send out electronic newsletters and to enable users to participate in polls, surveys, message boards, and forums. We send out newsletters to subscribers on a regular schedule (depending on the newsletter), and occasionally send out special editions when we think subscribers might be particularly interested in something we are doing. Circleboom never shares newsletter mailing lists with any third parties, including advertisers, sponsors or partners.
 
 When we use tracking information to determine which areas of our sites users like and don't like based on traffic to those areas. We track search terms entered in Search function as one of many measures of what interests our users. Circleboom creates aggregate reports on user demographics and traffic patterns for advertisers, sponsors and partners. This allows our advertisers to advertise more effectively, and allows our users to receive advertisements that are pertinent to their needs. Because we don't track the usage patterns of individual users, an advertiser or sponsor will never know that a specific user clicked their ad. We may also disclose information about any individual user to comply with applicable law or valid legal process or to protect the personal safety of our users or the public.
+
+Disclosure of Data to Third-Party Tools
+---------------------------------------
+
+As part of providing our services, we may share certain data with third-party tools, including AI models, analytics tools, and other services. These third-party tools help us to enhance the functionality of our platform, improve user experience, and perform essential services such as data analysis, customer support, and personalized recommendations.
+
+We ensure that any third-party tool we integrate with complies with applicable data protection laws and maintains high standards of data security and privacy. The types of data shared and the purposes for which they are used are always limited to what is necessary to deliver our services effectively.
 
 SHARING OF THE INFORMATION
 --------------------------
