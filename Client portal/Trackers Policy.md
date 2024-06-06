@@ -1,31 +1,31 @@
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20769%20150'%3E%3C/svg%3E)
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
 ![](https://i0.wp.com/client-portal.io/wp-content/uploads/fly-images/58444/CP-Logo-Dark-0x0.png)](https://client-portal.io/)
 
 * [Who we help](#)
     * Who we help [View pricing](https://client-portal.io/pricing)
         
-        * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20108%20110'%3E%3C/svg%3E)
+        * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
             
             ![](https://client-portal.io/wp-content/uploads/2022/10/card-icon01.svg)
             
             Agencies See how Client Portal can help give your agency the edge.](https://client-portal.io/example-web-agency)
-        * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20118%20109'%3E%3C/svg%3E)
+        * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
             
             ![](https://client-portal.io/wp-content/uploads/2022/10/card-icon04.svg)
             
             Accountants See how accountants and CPA’s use Client Portal to keep everything together.](https://client-portal.io/example-accounting/)
-        * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20118%20109'%3E%3C/svg%3E)
+        * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
             
             ![](https://client-portal.io/wp-content/uploads/2022/10/card-icon02.svg)
             
             Schools Client Portal helps schools give parents their own](https://client-portal.io/school-portal)
-        * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20108%20108'%3E%3C/svg%3E)
+        * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
             
             ![](https://client-portal.io/wp-content/uploads/2022/10/card-icon05.svg)
             
             Coaches From lifestyle coaching to business consulting, keep your clients on track.](https://client-portal.io/example-coaching/)
-        * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20118%20109'%3E%3C/svg%3E)
+        * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
             
             ![](https://client-portal.io/wp-content/uploads/2022/10/card-icon03.svg)
             
@@ -85,7 +85,7 @@ If you browse websites from multiple devices, you may need to update your settin
 
 Although some cookies can be blocked with little impact on your experience of a website, blocking all cookies may mean you are unable to access certain features and content across the sites you visit.
 
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20508%2098'%3E%3C/svg%3E)
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
 ![](https://i0.wp.com/client-portal.io/wp-content/uploads/fly-images/54795/logo-dark-footer01@2x-0x0.png)](https://client-portal.io/)A super simple way to store your clients' deliverables
 
@@ -100,7 +100,7 @@ Although some cookies can be blocked with little impact on your experience of a 
 
 * ##### RESOURCES
     
-* [Log in](https://client-portal.io/your-account/)
+* [Log in](https://client-portal.io/login/)
 * [Roadmap](https://trello.com/b/0RR4pPuC/client-portal-roadmap)
 * [Support](https://client-portal.io/client/client-portal-support)
 * [Inspiration](https://client-portal.io/inspiration/)
