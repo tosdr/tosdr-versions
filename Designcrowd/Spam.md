@@ -27,10 +27,6 @@
     
     No products in the cart.
     
-    cart
-    
-    ![](https://www.hleatherjackets.com/wp-content/uploads/2022/09/payment-iconss.png)
-    
 
 * [](https://www.hleatherjackets.com/cart/ "Cart")
     
