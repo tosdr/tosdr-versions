@@ -142,14 +142,11 @@ Email: [\[email protected\]](https://coincards.com/cdn-cgi/l/email-protection)
 
 ##### OUR LOCATIONS
 
+* [Australia](https://coincards.com/au)
 * [Canada](https://coincards.com/ca)
+* [Europe](https://coincards.com/eu)
 * [United Kingdom](https://coincards.com/uk)
 * [United States](https://coincards.com/us)
-
-##### COMING SOON
-
-* [Australia](https://coincards.com/)
-* [Europe](https://coincards.com/)
 
 ##### SOCIAL MEDIA
 
