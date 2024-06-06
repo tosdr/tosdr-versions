@@ -8,7 +8,7 @@
     * [Credit Repair](https://creditnerds.com/credit/)
     * [Funding](https://creditnerds.com/funding/)
     * [Debt Relief](https://creditnerds.com/upside/)
-    * [Partner with Us](https://creditnerds.com/partners/)
+    * [Partner with Us](https://creditnerds.com/affiliates/)
 * [Results](https://creditnerds.com/results/)
 * [The Nerds](https://creditnerds.com/team/)
 * [Blog](https://creditnerds.com/blog-page/)
@@ -21,7 +21,7 @@
     * [Credit Repair](https://creditnerds.com/credit/)
     * [Funding](https://creditnerds.com/funding/)
     * [Debt Relief](https://creditnerds.com/upside/)
-    * [Partner with Us](https://creditnerds.com/partners/)
+    * [Partner with Us](https://creditnerds.com/affiliates/)
 * [Results](https://creditnerds.com/results/)
 * [The Nerds](https://creditnerds.com/team/)
 * [Blog](https://creditnerds.com/blog-page/)
@@ -38,7 +38,7 @@
     * [Credit Repair](https://creditnerds.com/credit/)
     * [Funding](https://creditnerds.com/funding/)
     * [Debt Relief](https://creditnerds.com/upside/)
-    * [Partner with Us](https://creditnerds.com/partners/)
+    * [Partner with Us](https://creditnerds.com/affiliates/)
 * [Results](https://creditnerds.com/results/)
 * [The Nerds](https://creditnerds.com/team/)
 * [Blog](https://creditnerds.com/blog-page/)
@@ -287,113 +287,113 @@ PARAGOULD, AR 72450
 Check Out Our Blog
 ------------------
 
-[![A semi-realistic cartoon-style illustration of a parent with glasses sitting at a home office desk, teaching their young child about saving money. The parent shows the child a piggy bank and a colorful chart labeled "College Savings Plan." Surrounding them are educational books, a calculator, and a laptop open to a financial planning website. The child appears curious and excited. The parent is dressed in a comfortable sweater, and the child wears playful casual clothes. The background shows a cozy room with a window overlooking a garden, symbolizing a secure and bright future.](https://creditnerds.com/wp-content/uploads/2024/05/College-Savings-Plan-30x30.webp)](https://creditnerds.com/securing-your-childs-financial-future-comprehensive-strategies-to-save-for-college/)
+[![A semi-realistic cartoony image of a worried character wearing glasses, looking at their credit card with a shocked expression. The background includes subtle hints of hacking elements like binary codes and warning symbols. The character is in a home setting with a laptop open on a desk, displaying a warning message on the screen, reflecting the theme of credit card hacking.](https://creditnerds.com/wp-content/uploads/2024/06/Card-Fraud-30x30.webp)](https://creditnerds.com/11-signs-your-credit-card-has-been-hacked/)
 
 [Credit](https://creditnerds.com/category/credit/)
 
-May 16, 2024
+May 28, 2024
 
-#### [Securing Your Child’s Financial Future: Comprehensive Strategies to Save for College](https://creditnerds.com/securing-your-childs-financial-future-comprehensive-strategies-to-save-for-college/)
+#### [11 Signs Your Credit Card Has Been Hacked](https://creditnerds.com/11-signs-your-credit-card-has-been-hacked/)
 
-As a parent, investing in your child's education is one of the most significant financial commitments you'll make. While financial aid can provide valuable assistance, it may not always cover the full cost of college. In this comprehensive guide, we'll explore a range of saving strategies to help you bridge the gap and ensure your …
+11 Signs Your Credit Card Has Been Hacked Credit card fraud is prevalent. In 2023, it was the most common type of identity theft, according to the Federal Trade Commission (FTC). With so much information stored and transmitted digitally, your credit card information can be hacked and used without your card ever leaving your wallet. …
 
-[Read More](https://creditnerds.com/securing-your-childs-financial-future-comprehensive-strategies-to-save-for-college/)
+[Read More](https://creditnerds.com/11-signs-your-credit-card-has-been-hacked/)
 
-[![A semi-realistic cartoon-style illustration of a thoughtful student with glasses sitting at a desk filled with books, a laptop, and a piggy bank. The student is jotting down notes from a book titled "College Cost Strategies." Surrounding the student are symbols like dollar signs, a graduation cap, and scholarship certificates, indicating various funding options. The character is dressed casually in a sweater and jeans, in a warm, inviting study room with a bookshelf and a window showing a sunny day, symbolizing optimism and a bright future.](https://creditnerds.com/wp-content/uploads/2024/05/Covering-College-Costs-30x30.webp)](https://creditnerds.com/strategies-for-covering-college-costs/)
-
-[Credit](https://creditnerds.com/category/credit/)
-
-May 15, 2024
-
-#### [Strategies for Covering College Costs](https://creditnerds.com/strategies-for-covering-college-costs/)
-
-Navigating the financial landscape of college expenses can be challenging, especially when financial aid isn't enough. In this comprehensive guide, we'll delve into various strategies to help you bridge the gap and manage the costs of higher education effectively. Understanding the Financial ChallengeTransition: Despite the availability of financial aid, many students find themselves facing a …
-
-[Read More](https://creditnerds.com/strategies-for-covering-college-costs/)
-
-[![A semi-realistic cartoon-style illustration of a concerned young adult with glasses sitting at a computer desk. The computer screen shows an alert symbol and the words "Identity Theft Detected!" The character, dressed in casual office attire, appears worried yet determined, holding a phone and ready to make a call. On the desk are notes and a guide titled "How to Report Identity Theft." The background is a soft gradient from warm orange to cream, creating a sense of urgency and focus.](https://creditnerds.com/wp-content/uploads/2024/05/How-to-Report-Identity-Theft-30x30.webp)](https://creditnerds.com/how-to-report-identity-theft-a-comprehensive-guide/)
+[![Cartoon-style image of a young man wearing glasses, standing in a park with American flags and memorial wreaths, smiling and holding a small American flag, with people in the background paying respects at a memorial.](https://creditnerds.com/wp-content/uploads/2024/05/Memorial-Day-30x30.webp)](https://creditnerds.com/honoring-our-heroes-financial-stability-for-veterans/)
 
 [Credit](https://creditnerds.com/category/credit/)
 
-May 14, 2024
+May 27, 2024
 
-#### [How to Report Identity Theft: A Comprehensive Guide](https://creditnerds.com/how-to-report-identity-theft-a-comprehensive-guide/)
+#### [Honoring Our Heroes: Financial Stability for Veterans](https://creditnerds.com/honoring-our-heroes-financial-stability-for-veterans/)
 
-Reporting identity theft effectively is crucial for halting fraudsters and recovering your stolen identity. While you cannot retrieve your compromised personal information, you can secure your accounts and limit fraudulent use of your details. Immediate Steps to Take 1. Report the Fraud to Your Creditors Act quickly if you discover unauthorized activities on your credit …
+As we celebrate Memorial Day, we take time to honor and remember the brave men and women who have made the ultimate sacrifice for our country. At Credit Nerds, we understand that the best way to honor their legacy is by supporting the veterans and families who continue to serve our nation in countless ways. …
 
-[Read More](https://creditnerds.com/how-to-report-identity-theft-a-comprehensive-guide/)
+[Read More](https://creditnerds.com/honoring-our-heroes-financial-stability-for-veterans/)
 
-[![A colorful, semi-realistic cartoon depiction of a young adult with glasses, sitting at a desk filled with symbols of loan collateral such as a miniature car, house model, and jewelry. The person is looking at a laptop showing graphs and the phrase 'Understanding Collateral', surrounded by various financial documents, a calculator, and a cup of coffee. The scene includes a bookshelf with finance books and a large window that reveals a sprawling city skyline.](https://creditnerds.com/wp-content/uploads/2024/05/What-is-Collateral-30x30.webp)](https://creditnerds.com/understanding-collateral-in-loans/)
-
-[Credit](https://creditnerds.com/category/credit/)
-
-May 13, 2024
-
-#### [Understanding Collateral in Loans](https://creditnerds.com/understanding-collateral-in-loans/)
-
-Collateral is anything you use to secure a loan, serving as a lender's safety net. If you fail to repay, the lender can seize the collateral to recoup losses. This asset can be physical, like a car, or financial, like cash in a bank account. Often, the item you're financing is the collateral itself. For …
-
-[Read More](https://creditnerds.com/understanding-collateral-in-loans/)
-
-[![An images about tax lien management for better credit. It features a financial advisor character with glasses, working at a desk surrounded by relevant documents and displays, set in an organized office space. This semi-realistic cartoon style effectively conveys the theme of diligent financial management.](https://creditnerds.com/wp-content/uploads/2024/05/Tax-Lien-30x30.webp)](https://creditnerds.com/tax-lien-management-for-better-credit/)
+[![A semi-realistic cartoon-style illustration of a thoughtful person with glasses sitting at a desk, looking at a computer screen displaying "Account Balances Impact Credit". The character is holding a financial statement and is surrounded by icons like credit scores, dollar signs, and bar graphs. The character is dressed in casual clothes, appearing focused and contemplative. The background shows a home office setting with a bulletin board and a window displaying a neutral sky, emphasizing the importance of managing finances.](https://creditnerds.com/wp-content/uploads/2024/05/Credit-Balances-30x30.webp)](https://creditnerds.com/how-account-balances-impact-your-credit/)
 
 [Credit](https://creditnerds.com/category/credit/)
 
-May 10, 2024
+May 27, 2024
 
-#### [Tax Lien Management for Better Credit](https://creditnerds.com/tax-lien-management-for-better-credit/)
+#### [How Account Balances Impact Your Credit](https://creditnerds.com/how-account-balances-impact-your-credit/)
 
-Tax liens can have significant implications for your credit health. In this guide, we'll explore strategies for handling tax liens and mitigating their impact on your credit score. Understanding Tax Liens Let's start by understanding what tax liens are and how they affect your credit. Tax liens are legal claims by government entities against your …
+Understanding how your account balances affect your credit is crucial in managing your financial health. This article explores the dynamics between your balances and credit scores, detailing strategies for optimal management. The Influence of Account Balances on Credit Scores Account balances directly impact your credit if they are reported to credit bureaus. The way these …
 
-[Read More](https://creditnerds.com/tax-lien-management-for-better-credit/)
+[Read More](https://creditnerds.com/how-account-balances-impact-your-credit/)
 
-[![](https://creditnerds.com/wp-content/uploads/2024/05/Credit-Repair-Scams-30x30.webp)](https://creditnerds.com/protecting-your-finances-identifying-credit-repair-scams/)
-
-[Credit](https://creditnerds.com/category/credit/)
-
-May 9, 2024
-
-#### [Protecting Your Finances: Identifying Credit Repair Scams](https://creditnerds.com/protecting-your-finances-identifying-credit-repair-scams/)
-
-Safeguarding yourself from credit repair scams is vital for financial security. In this guide, we'll uncover warning signs and red flags to help you avoid falling victim to fraudulent schemes. Understanding Credit Repair Scams Let's begin by understanding the nature of credit repair scams. Credit repair scams involve dishonest companies or individuals promising to improve …
-
-[Read More](https://creditnerds.com/protecting-your-finances-identifying-credit-repair-scams/)
-
-[![A western cartoon-style illustration of a young adult with glasses, showing a disappointed and confused expression while looking at a credit card that reads "No Rewards!" in a comic bubble. The character is dressed in a trendy outfit with a T-shirt, jeans, and sneakers, holding a shopping bag and a receipt. Whimsical symbols like a crossed-out star, dollar signs, and question marks float around the character. The background is a soft, pastel gradient from light blue to pale pink.](https://creditnerds.com/wp-content/uploads/2024/05/Credit-Card-Rewards-30x30.webp)](https://creditnerds.com/transactions-that-dont-earn-credit-card-rewards/)
+[![A somewhat realistic cartoon-style image of a surprised character wearing glasses, holding an empty wallet with money flying out. The background includes various everyday items and services such as coffee cups, streaming subscription logos, takeout food containers, shopping bags, and a car, representing hidden expenses. The character has a confused and startled expression, realizing the different ways they are unknowingly spending money.](https://creditnerds.com/wp-content/uploads/2024/06/Spending-money-30x30.webp)](https://creditnerds.com/5-ways-youre-spending-money-without-realizing-it/)
 
 [Credit](https://creditnerds.com/category/credit/)
 
-May 8, 2024
+May 24, 2024
 
-#### [Transactions That Don’t Earn Credit Card Rewards](https://creditnerds.com/transactions-that-dont-earn-credit-card-rewards/)
+#### [5 Ways You’re Spending Money Without Realizing It](https://creditnerds.com/5-ways-youre-spending-money-without-realizing-it/)
 
-Using a rewards credit card is a savvy way to maximize the value of your purchases. However, not all transactions will earn you cash back, rewards points, or miles. Let's dive into the types of purchases that won't net you any rewards. 1. Cash Advances Taking a cash advance means borrowing against your credit limit …
+Finding ways to reduce your spending can help you save more or keep more in your pocket. If you're feeling financial pressure, you might be consciously limiting everyday spending or cutting back on discretionary areas in your budget. However, what about the spending you do unconsciously? "Budget leaks" are money you spend without thinking or …
 
-[Read More](https://creditnerds.com/transactions-that-dont-earn-credit-card-rewards/)
+[Read More](https://creditnerds.com/5-ways-youre-spending-money-without-realizing-it/)
 
-[![A semi-realistic cartoon-style illustration of a concerned person with glasses, sitting at a desk cluttered with documents labeled "Bankruptcy" and a checklist titled "8 Things to Consider." The character is holding their head in one hand, looking stressed and deep in thought. Around them are icons like a calculator, a clock, dollar signs, and question marks, symbolizing financial considerations and urgency. The character is dressed in casual clothes, creating a relatable and personal touch. The background shows a simple home office with shelves and a window displaying an overcast sky, emphasizing a serious mood.](https://creditnerds.com/wp-content/uploads/2024/05/Things-to-Consider-Bankruptcy-30x30.webp)](https://creditnerds.com/navigating-bankruptcy-8-critical-considerations-before-taking-the-plunge/)
-
-[Credit](https://creditnerds.com/category/credit/)
-
-May 7, 2024
-
-#### [Navigating Bankruptcy: 8 Critical Considerations Before Taking the Plunge](https://creditnerds.com/navigating-bankruptcy-8-critical-considerations-before-taking-the-plunge/)
-
-Dealing with overwhelming debt can lead many to consider bankruptcy, a legal process that offers relief but also comes with significant repercussions. It's crucial to carefully weigh these eight key factors before deciding whether bankruptcy is the right path for you: 1. Exhausting Alternatives: Exploring All Options Before filing for bankruptcy, exhaust all possible alternatives. …
-
-[Read More](https://creditnerds.com/navigating-bankruptcy-8-critical-considerations-before-taking-the-plunge/)
-
-[![A semi-realistic cartoon-style illustration of a thoughtful businessperson with glasses, holding two large cards. One card is labeled "Benefits" with icons like rewards and cash back, and the other is labeled "Drawbacks" with icons like high interest and fees. The businessperson is standing at a desk with a laptop and financial documents, dressed in business casual attire. The background shows a modern office setting with a cityscape view from the window, symbolizing a professional environment.](https://creditnerds.com/wp-content/uploads/2024/05/Business-Credit-Pros-and-Cons-30x30.webp)](https://creditnerds.com/exploring-the-benefits-and-drawbacks-of-business-credit-cards/)
+[![A semi-realistic cartoon-style illustration of a determined person with glasses sitting at a desk, looking at a laptop screen displaying the text "Find Investors". The character is holding a document titled "Business Proposal" and is surrounded by icons like dollar signs, handshake symbols, and graphs. The character, dressed in business casual attire, appears focused and confident. The background features a modern office setting with a whiteboard and a window showing a cityscape, symbolizing business growth and opportunities.](https://creditnerds.com/wp-content/uploads/2024/05/Business-Investors-30x30.webp)](https://creditnerds.com/how-to-find-investors-to-help-buy-a-business/)
 
 [Credit](https://creditnerds.com/category/credit/)
 
-May 6, 2024
+May 23, 2024
 
-#### [Exploring the Benefits and Drawbacks of Business Credit Cards](https://creditnerds.com/exploring-the-benefits-and-drawbacks-of-business-credit-cards/)
+#### [How to Find Investors to Help Buy a Business](https://creditnerds.com/how-to-find-investors-to-help-buy-a-business/)
 
-Running a business requires careful financial management, and one tool that many entrepreneurs turn to is the business credit card. These cards offer a range of benefits, but they also come with their own set of drawbacks. Let's take a closer look at the pros and cons of using business credit cards to finance your …
+When you're on the hunt for investors to help purchase a business, you're seeking more than just capital; you're searching for individuals who trust your judgment and share your vision. This search can seem daunting, but with the right approach, you can connect with many investors eager to support a person like you. In this …
 
-[Read More](https://creditnerds.com/exploring-the-benefits-and-drawbacks-of-business-credit-cards/)
+[Read More](https://creditnerds.com/how-to-find-investors-to-help-buy-a-business/)
+
+[![A semi-realistic cartoon-style illustration of a frustrated person with glasses, reviewing auto insurance documents. The character is holding a checklist titled 8 common auto insurance mistakes and has a worried expression. Surrounding them are icons like a car, a broken piggy bank, exclamation marks, and a notepad, symbolizing financial concerns and mistakes. The character is dressed in casual clothes, appearing stressed but determined. The background shows a simple home office setting with shelves and a window displaying a cloudy sky, highlighting the seriousness of the topic.](https://creditnerds.com/wp-content/uploads/2024/05/Car-Insurance-Mistakes-30x30.webp)](https://creditnerds.com/avoid-costly-errors-8-common-auto-insurance-mistakes-and-how-to-avoid-them/)
+
+[Credit](https://creditnerds.com/category/credit/)
+
+May 22, 2024
+
+#### [Avoid Costly Errors: 8 Common Auto Insurance Mistakes and How to Avoid Them](https://creditnerds.com/avoid-costly-errors-8-common-auto-insurance-mistakes-and-how-to-avoid-them/)
+
+Navigating auto insurance can be complex and confusing, but understanding common pitfalls can save you money and enhance your coverage. Let’s explore eight typical mistakes people make when buying or maintaining auto insurance and how you can steer clear of them. 1. Failing to Shop Around A significant mistake that can impact your budget is …
+
+[Read More](https://creditnerds.com/avoid-costly-errors-8-common-auto-insurance-mistakes-and-how-to-avoid-them/)
+
+[![A somewhat realistic cartoon-style image of a worried character wearing glasses, standing in front of a large sign that reads "Bankruptcy." The background includes financial documents, charts, and a broken piggy bank, symbolizing financial distress. The character has a thoughtful expression, contemplating the decision of filing for bankruptcy.](https://creditnerds.com/wp-content/uploads/2024/06/Bankruptcy-30x30.webp)](https://creditnerds.com/is-filing-for-bankruptcy-bad/)
+
+[Credit](https://creditnerds.com/category/credit/)
+
+May 21, 2024
+
+#### [Is Filing for Bankruptcy Bad?](https://creditnerds.com/is-filing-for-bankruptcy-bad/)
+
+Bankruptcy can shield you from financial ruin when debts become insurmountable. However, it has severe, long-lasting negative impacts on your credit and is best considered a last-resort option. How Does Bankruptcy Work? Bankruptcy protects individuals who can't pay their debts from losing everything to creditors. In the U.S., special federal courts oversee bankruptcy, providing a …
+
+[Read More](https://creditnerds.com/is-filing-for-bankruptcy-bad/)
+
+[![A semi-realistic cartoon-style illustration of a worried person with glasses sitting at a desk, looking at a computer screen displaying a warning message that says "Credit Card Hacked". The character is holding a credit card and a list titled "11 Signs". Around them are icons like a padlock, exclamation marks, and a magnifying glass, symbolizing security and vigilance. The character is dressed in casual clothes, appearing stressed but alert. The background shows a home office setting with a bulletin board and a window displaying a stormy sky, highlighting the urgency of the situation.](https://creditnerds.com/wp-content/uploads/2024/05/Credit-Card-Hacked-30x30.webp)](https://creditnerds.com/staying-vigilant-11-signs-your-credit-card-has-been-hacked/)
+
+[Credit](https://creditnerds.com/category/credit/)
+
+May 20, 2024
+
+#### [Staying Vigilant: 11 Signs Your Credit Card Has Been Hacked](https://creditnerds.com/staying-vigilant-11-signs-your-credit-card-has-been-hacked/)
+
+Credit card fraud was the most common type of identity theft in 2023, according to the Federal Trade Commission (FTC). With digital storage and transmission of information, hackers can use your credit card without physically stealing it. In fact, fraud on existing credit cards increased by 14% last year, reports the FTC. It's crucial to …
+
+[Read More](https://creditnerds.com/staying-vigilant-11-signs-your-credit-card-has-been-hacked/)
+
+[![A semi-realistic cartoon-style illustration of a confused person with glasses sitting at a desk, looking at a credit report on a computer screen displaying an alert symbol and the text "Incorrect SSN". The character is holding a document with a highlighted Social Security Number. Around them are icons like a magnifying glass, a question mark, and an exclamation mark, symbolizing investigation and confusion. The character is dressed in casual attire. The background shows a simple home office with a bulletin board and a window showing a neutral sky, emphasizing the seriousness of the situation.](https://creditnerds.com/wp-content/uploads/2024/05/Incorrect-SSN-30x30.webp)](https://creditnerds.com/understanding-incorrect-social-security-numbers-on-your-credit-report/)
+
+[Credit](https://creditnerds.com/category/credit/)
+
+May 17, 2024
+
+#### [Understanding Incorrect Social Security Numbers on Your Credit Report](https://creditnerds.com/understanding-incorrect-social-security-numbers-on-your-credit-report/)
+
+When you apply for a new credit account or update your personal information on an existing one, the creditor typically sends this information to the three major credit bureaus: TransUnion, Equifax, and Experian. This process is how your Social Security Number (SSN), whether correct or incorrect, gets included in your credit reports. Why Might an …
+
+[Read More](https://creditnerds.com/understanding-incorrect-social-security-numbers-on-your-credit-report/)
 
 ![](https://creditnerds.com/wp-content/uploads/2023/12/small-logo-white-30x30.png)
 
