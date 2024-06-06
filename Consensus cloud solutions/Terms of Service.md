@@ -73,6 +73,7 @@
     
     Better Insights For Improved Data Coordination
     
+    * [Resource Hub](https://resources.consensus.com/)
     * [News](https://www.consensus.com/news/)
     * [Blog](https://www.consensus.com/blog/)
     * [Events](https://www.consensus.com/events/)
@@ -81,8 +82,8 @@
     
     Connect
     
-    * [Support](https://www.consensus.com/contact-us/)
     * [Careers](https://www.consensus.com/careers/)
+    * [Support](https://www.consensus.com/contact-us/)
     * [About Consensus](https://www.consensus.com/about-us/)
     * [Leadership](https://www.consensus.com/leadership/)
     * [Investor Relations](https://investor.consensus.com/overview/default.aspx)
@@ -93,11 +94,11 @@
         
         [![featured event](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
         
-        ![featured event](https://www.consensus.com/wp-content/uploads/2024/04/MGMA-Graphic-1.svg)](https://info.museweb.org/Events/2024-inspire-Conference)
+        ![featured event](https://www.consensus.com/wp-content/uploads/2024/05/Civitas-Website-Banner.svg)](https://www.civitasforhealth.org/event/2024-civitas-networks-for-health-annual-conference/)
         
-        [MUSE Inspire Conference
+        [2024 Civitas Networks for Health Annual Conference
         
-        Learn More](https://info.museweb.org/Events/2024-inspire-Conference)
+        Learn More](https://www.civitasforhealth.org/event/2024-civitas-networks-for-health-annual-conference/)
         
     
 * Learn
@@ -106,7 +107,7 @@
     
     * [What is Artificial Intelligence?](https://www.consensus.com/artificial-intelligence/)
     * [What is Blockchain Technology?](https://www.consensus.com/blockchain/)
-    * [What is Clinical Documentation Improvement?](https://www.consensus.com/clinical-documentation-improvement/)
+    * [What is Clinical Documentation Improvement(CDI)?](https://www.consensus.com/clinical-documentation-improvement/)
     * [What is the Cloud?](https://www.consensus.com/cloud/)
     * [What is Cloud Computing?](https://www.consensus.com/cloud/computing/)
     
@@ -126,7 +127,7 @@
     
 * [Partners](https://www.consensus.com/partners/)
 
-[Contact Us](https://www.consensus.com/request-a-demo/)
+[Request a Demo](https://www.consensus.com/request-a-demo/)
 
 Terms of Service
 ================
@@ -260,7 +261,7 @@ If you elect to use any Cloud Fax Services or Clarity/Clarity CD services made a
 Services. There are two services, as follows:
 
 * Cloud Fax Services. Cloud Fax Services will begin on the date they are provisioned by the Company to you (the “Cloud Fax Services Commencement Date”). The Cloud Fax Services shall be provided to you in accordance with your instructions that are properly formatted and transmitted by you in accordance with the Company’s then current published documentation. The Cloud Fax Services shall commence upon the Cloud Fax Services Commencement Date.
-* Clarity CD Services: Clarity Clinical Documentation is a turnkey application that is focused on the business process of ingesting incoming faxes so that an Electronic Health Record (EHR) system can receive and route the received faxes to the patient record.  Clarity CD extracts a defined set of Patient demographic data, that is used to create a properly formatted Continuity of Care (CCD) document.  The Continuity of Care Document and the original fax image is routed as a Direct Secure Message (DSM) to the customer’s Electronic Health Record.
+* Clarity CD Services: Clarity Clinical Documentation is a customizable application that is focused on the business process of ingesting incoming faxes so that an Electronic Health Record (EHR) system can receive and route the received faxes to the patient record.  Clarity CD extracts a defined set of Patient demographic data, that is used to create a properly formatted Continuity of Care (CCD) document.  The Continuity of Care Document and the original fax image is routed as a Direct Secure Message (DSM) to the customer’s Electronic Health Record.
 
 Payment Terms. You will be billed exclusively by the Company per the Billing Terms (the “Billing Terms Agreement”) to be executed by the parties and agree to pay for the Services each period in accordance with such Billing Terms Agreement. Charges for the use of the Services are processed through the Company and billed directly to you per the Billing Terms Agreement. You must notify the Company of any charge disputed in good faith, with supporting documentation, per the Billing Terms Agreement, or you will be deemed to agree to such charges and no adjustments to charges or invoices will be made. If past-due amounts remain outstanding for a period of thirty (30) days beyond the due date, the Company reserves the unilateral right to suspend or terminate the Service until such undisputed past-due amounts are satisfied. You shall pay any collection costs, including reasonable attorney’s fees, and other expenses incurred by the Company to collect any such sums. All charges will be exclusive of sales or other taxes, except as required by law.
 
@@ -331,7 +332,7 @@ If you elect to use the Company’s Carequality Connection capability, in additi
 ###### Company
 
 * [About](https://www.consensus.com/about-us/)
-* [Contact](https://www.consensus.com/contact-us/)
+* [Support](https://www.consensus.com/contact-us/)
 * [Leadership](https://www.consensus.com/leadership/)
 * [Careers](https://www.consensus.com/careers/)
 * [Billing FAQs](https://www.consensus.com/faq/#billing-faq)
