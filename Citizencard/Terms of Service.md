@@ -22,7 +22,7 @@
     * [Contact Us](https://support.citizencard.com/new-ticket)
 * VERIFY CARD
     * [Service Details](https://verify.citizencard.com/)
-    * [Download Free Verify App](https://verify.citizencard.com/get-the-verify-app)
+    * [Download Free PASS Card Verify App](https://verify.citizencard.com/get-the-verify-app)
     * [Quick Web-Check: Scan QR Code](https://verify.citizencard.com/verify/scan)
     * [Full Web-Check: Enter Card Details](https://verify.citizencard.com/verify/manual)
 * [LOGIN | REGISTER](https://online.citizencard.com/)
@@ -65,7 +65,7 @@
 * VERIFY CARD
     
     * [Service Details](https://verify.citizencard.com/)
-    * [Download Free Verify App](https://verify.citizencard.com/get-the-verify-app)
+    * [Download Free PASS Card Verify App](https://verify.citizencard.com/get-the-verify-app)
     * [Quick Web-Check: Scan QR Code](https://verify.citizencard.com/verify/scan)
     * [Full Web-Check: Enter Card Details](https://verify.citizencard.com/verify/manual)
     
@@ -74,11 +74,11 @@
 Terms and Conditions
 ====================
 
-Last Updated 01 January 2024 © CitizenCard Limited
+Last Updated 28 May 2024 © CitizenCard Limited
 
 The Terms and Conditions set out below are important and affect your rights as a customer of CitizenCard Limited. They apply to anyone applying for a CitizenCard.
 
-[Download a PDF version of these Terms & Conditions](https://www.citizencard.com/files/citizencard-terms-and-conditions-01-january-2024.pdf "Download CitizenCard T&Cs")
+[Download a PDF version of these Terms & Conditions](https://www.citizencard.com/files/citizencard-terms-and-conditions-28-may-2024.pdf "Download CitizenCard T&Cs")
 
 We draw your attention in particular to the fact that your purchase and payment is of our Application Processing and Validation Service. If you complete the Application process successfully we will issue you with a CitizenCard, subject to conditions of use, which remains at all times Our legal property.
 
@@ -210,7 +210,7 @@ CitizenCard, 7 Prescott Place, London SW4 6BS
 4\. PROTECTION OF DATA
 ----------------------
 
-4.1 CitizenCard Limited is registered as a Data Processor (Reg.No. Z7733342) under the Data Protection Act 2018 and is compliant with the UK General Data Protection Regulation (UK GDPR).
+4.1 CitizenCard Limited is registered as a Data Controller (Reg.No. Z7733342) under the Data Protection Act 2018 and is compliant with the UK General Data Protection Regulation (UK GDPR).
 
 4.2 The Data which is processed by Us in connection with an Application include:
 
@@ -220,13 +220,13 @@ CitizenCard, 7 Prescott Place, London SW4 6BS
 
 4.3 We provide Yoti, a digital identity company, and 1Account, an online identity verification company, with the ability to confirm electronically the validity of a cardholder provided that the cardholder has given Yoti or 1Account their consent to do this check.
 
-4.4 When using the e-IDVT process, the Applicant has to agree to their data (photo ID document, liveness check and selfies) being assessed by Yoti Identity Verification ([www.yoti.com/business/identity-verification/](https://www.yoti.com/business/identity-verification/ "View Yoti Doc Scan page")) for the purpose of document and identity validation. Yoti Identity Verification can submit the ID documents and selfies of suspected fraudsters to law enforcement bodies to help authorities in detection and prevention of fraud.
+4.4 When using the e-IDVT process, the Applicant has to agree to their data (photo ID document, liveness check and selfies) being assessed by Yoti Identity Verification ([www.yoti.com/business/identity-verification](https://www.yoti.com/business/identity-verification/ "Yoti Identity Verification")) for the purpose of document and identity validation. Yoti Identity Verification can submit the ID documents and selfies of suspected fraudsters to law enforcement bodies to help authorities in detection and prevention of fraud.
 
-4.5 We provide retailers and other organisations with the ability to confirm that you are a legitimate cardholder at [verify.citizencard.com](https://verify.citizencard.com/) or by using the PoA Card Verify app available on the [Google Play Store](https://play.google.com/store/apps/details?id=com.citizencard.verify&hl=en_GB&gl=US&pli=1) and the [Apple App Store](https://apps.apple.com/gb/app/poa-card-verify/id1586349026), provided that you have given them your consent either by sharing your card details with them, letting them scan the QR code on your card reverse or take a photo of the front of your card.
+4.5 We provide retailers and other organisations with the ability to confirm that you are a legitimate cardholder at [verify.citizencard.com](https://verify.citizencard.com/) or by using the PASS Card Verify app available on the [Google Play Store](https://play.google.com/store/apps/details?id=com.citizencard.verify&hl=en_GB&gl=US&pli=1) and the [Apple App Store](https://apps.apple.com/gb/app/pass-card-verify/id1586349026), provided that you have given them your consent either by sharing your card details with them, letting them scan the QR code on your card reverse or take a photo of the front of your card.
 
 4.6 We use Google Cloud Vision API together with our own machine learning technology to make sure a photo you upload to support your online application complies with passport quality standards; Google does not use an anonymous photo it receives for any other purpose nor share it with third-parties and the photo is deleted right after the processing is done.
 
-4.7 We use Google Cloud Vision API to extract full card details from photos taken by the PoA Card Verify app to verify whether the card is genuine or not; Google does not use a photo of a card it receives for any other purpose nor share it with third-parties and the photo is deleted right after the processing is done.
+4.7 We use Google Cloud Vision API to extract full card details from photos taken by the PASS Card Verify app to verify whether the card is genuine or not; Google does not use a photo of a card it receives for any other purpose nor share it with third-parties and the photo is deleted right after the processing is done.
 
 4.8 We share your full name and address with our delivery provider, Royal Mail, who deliver your card to you.
 
@@ -249,7 +249,7 @@ Users of our services registered at [online.citizencard.com](https://online.citi
 * Customer relations, service recovery and assisting Us in future dealings with You;
 * Marketing and market research analysis;
 * Communicating to You information about CitizenCard, including information about CitizenCard Card scheme developments, programmes and initiatives, using the Communications Preferences you have selected in your account at [online.citizencard.com](https://online.citizencard.com/) or on a paper application form (email, letter and/or SMS);
-* Validating that a Card has been issued by Us at [verify.citizencard.com](https://verify.citizencard.com/) or using the PoA Card Verify app available on the [Google Play Store](https://play.google.com/store/apps/details?id=com.citizencard.verify&hl=en_GB&gl=US&pli=1) and the [Apple App Store](https://apps.apple.com/gb/app/poa-card-verify/id1586349026);
+* Validating that a Card has been issued by Us at [verify.citizencard.com](https://verify.citizencard.com/) or using the PASS Card Verify app available on the [Google Play Store](https://play.google.com/store/apps/details?id=com.citizencard.verify&hl=en_GB&gl=US&pli=1) and the [Apple App Store](https://apps.apple.com/gb/app/pass-card-verify/id1586349026);
 * Conducting market research; and
 * Any other purpose which is obvious or is communicated to You.
 
