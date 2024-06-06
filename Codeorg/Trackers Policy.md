@@ -22,7 +22,9 @@ App Lab](https://studio.code.org/projects/applab/new)[![](/shared/images/fill-70
 
 Game Lab](https://studio.code.org/projects/gamelab/new)[![](/shared/images/fill-70x70/courses/logo_dance.png)
 
-Dance Party](https://studio.code.org/projects/dance/new)[View all projects...](https://studio.code.org/projects)
+Dance Party](https://studio.code.org/projects/dance/new)[![](/shared/images/fill-70x70/courses/logo_music.png)
+
+Music Lab](https://studio.code.org/s/music-intro-2024/reset)[View all projects...](https://studio.code.org/projects)
 
 [Sign in](https://studio.code.org/users/sign_in)
 
