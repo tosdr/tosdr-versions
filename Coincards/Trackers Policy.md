@@ -31,7 +31,7 @@ Coincards.com uses so-called “technical” Cookies and other similar Trackers 
     
     Personal Data processed: Cookies and Usage Data.
     
-    Place of processing: United States ; Ireland .
+    Place of processing: United States – [Privacy Policy](https://business.safety.google/privacy/); Ireland – [Privacy Policy](https://business.safety.google/privacy/).
     
     Storage duration:
     
@@ -259,7 +259,7 @@ Coincards.com uses Trackers to measure traffic and analyze User behavior to impr
     
     Personal Data processed: Cookies and Usage Data.
     
-    Place of processing: United States – [Opt Out](https://tools.google.com/dlpage/gaoptout?hl=en); Ireland – [Opt Out](https://tools.google.com/dlpage/gaoptout?hl=en).
+    Place of processing: United States – [Privacy Policy](https://business.safety.google/privacy/) – [Opt Out](https://tools.google.com/dlpage/gaoptout?hl=en); Ireland – [Privacy Policy](https://business.safety.google/privacy/) – [Opt Out](https://tools.google.com/dlpage/gaoptout?hl=en).
     
     Storage duration:
     
