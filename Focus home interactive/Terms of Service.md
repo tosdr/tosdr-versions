@@ -1,0 +1,595 @@
+End user license agreement
+==========================
+
+END USER LICENCE AGREEMENT - FOCUS ENTERTAINMENT
+
+This End User Licence Agreement (hereinafter the "Licence Agreement") provides the terms under which you are authorised to install and/or use the Multimedia Program published by Focus Entertainment Publishing ("Focus Entertainment"), a company registered with the RCS of Paris under number 898 472 170, and whose registered office is located at Parc du Pont de Flandre, Bâtiment 28 "Le Beauvaisis", 11 Rue de Cambrai, 75019 Paris, France.
+
+YOU MUST CAREFULLY READ THE LICENCE AGREEMENT BEFORE PURCHASING, DOWNLOADING OR INSTALLING THIS MULTIMEDIA PROGRAM. IN ADDITION, CERTAIN MULTIMEDIA PROGRAMS MAY PROVIDE CONDITIONS OF USE SPECIFIC TO THEM (HEREINAFTER THE "SPECIFIC CONDITIONS OF USE"), THE TERMS OF WHICH SHOULD BE REFERRED TO AND ACCEPTED BEFORE PURCHASING, DOWNLOADING OR INSTALLING SAID MULTIMEDIA PROGRAMS ASSOCIATED THEREWITH.
+
+You hereby acknowledge that you have read and understood the Licence Agreement and have agreed that the action of installing the Multimedia Program is a confirmation of your agreement to be contractually bound by the following provisions. You acknowledge and agree that this Licence Agreement states the completeness and exclusivity of the agreement between you and Focus Entertainment and that the Licence Agreement supersedes any prior or current agreement, oral or written, and any other communication between you and Focus Entertainment, including any written licence agreement accompanying the Multimedia Program that is inconsistent with and/or contrary to this Agreement.
+
+IF YOU DO NOT AGREE TO THE TERMS OF THIS LICENCE AGREEMENT, AS WELL AS THE SPECIFIC TERMS OF USE WHERE APPLICABLE, YOU ARE NOT AUTHORISED TO DOWNLOAD OR INSTALL THE MULTIMEDIA PROGRAM.
+
+"Multimedia Program" refers to: any video game published by Focus Entertainment: game software, all of their components (including in particular characters, scenario, universe, computer codes, images, animations, videos, music, text, etc.), any downloadable content for said games (including but not limited to DLC, expansion pack, battle pass, add-ons, add-on software, any other game extension, etc.), as well as their documentation.                                                                                    
+
+"Seller" means the online sales platform on which you have purchased the Multimedia Program. The provisions applicable to the contract of sale of the Multimedia Program between the Seller and you, in particular in terms of legal guarantee of compliance, guarantee against hidden defects, right of withdrawal, and updates must be communicated to you by the Seller.
+
+The Multimedia Program is protected by intellectual property rights and in particular by copyright and is the exclusive property of Focus Entertainment, its subsidiaries, its licensors or its suppliers (hereinafter "Focus Entertainment"). The use of the Multimedia Program is subject to the terms of the Licence Agreement.
+
+1.  Limited use licence
+=======================
+
+The Multimedia Program is not sold, but rather is licensed to you by Focus Entertainment. As such, your licence does not grant you any title or right to ownership of the Multimedia Program.
+
+Subject to your acceptance of and compliance with this Licence Agreement and the restrictions referred to in Article 3, Focus Entertainment grants you the right to download, install, execute, display and more broadly use one (1) copy of the Multimedia Program on one (1) device only, for personal and non-commercial use. The licence granted is revocable, personal, non-exclusive, non-commercial and assignable under the conditions of Article 7.
+
+This Licence Agreement is strictly limited to the Multimedia Program, to the exclusion  of  any remastered version, any remake or reboot, any sequel (e.g. prequel, sequel, spin-off), any portage or any other version of the Multimedia Program.
+
+2.  Owned by Focus Entertainment
+================================
+
+Focus Entertainment is the exclusive owner and/or licensee of all rights, titles and interests relating to the Multimedia Program, as well as all Intellectual Property Rights relating to or connected to the Multimedia Program and all of its features and components.
+
+"Intellectual Property Rights" means all intellectual and/or industrial property rights relating to the Multimedia Program, such as in particular all copyright, related rights, patents, patent applications, rights in databases, designs, trademarks, domain names, know-how, and trade secrets, relating to the following elements, listed in a non-limiting manner:
+
+o                   All content of the Multimedia Program (such as, in particular, themes, objects, characters, character names, plots, texts, dialogues, hooks, places, illustrations, concepts, graphics, animations, sounds, musical compositions and recordings, audiovisual effects);
+
+o                   All data and communications generated by the Multimedia Program;
+
+o                   All software, computer codes (source code and object code), titles, modes of operation, all related documentation, applications, integrated interfaces, and any work of the mind, contained and integrated in the Multimedia Program.
+
+3.  Restrictions
+================
+
+The licence referred to in Article 1 is granted to you subject to the following reservations:
+
+o                   You may not copy, reproduce, translate, reverse engineer, reverse compile, retrieve source code, attempt to extract or use source code, modify, adapt, merge, convert, disassemble, decompile the Multimedia Program or create derivative works based on the Multimedia Program, in whole or in part, or delete an intellectual property notice or mention of the Multimedia Program, without the prior written consent of Focus Entertainment;
+
+o                   The Multimedia Program is licensed to you as a single product. Its components must not be dissociated to be used on several computers.
+
+Under the terms of the licence granted to you, you may use the Multimedia Program for personal and non-commercial use. As such, you are not authorised to:
+
+o                   Sell, distribute or assign copies or reproductions of the Multimedia Program to third parties in any way whatsoever, nor to rent, lease or license the Multimedia Program to third parties, without the prior written consent of Focus Entertainment and/or subject to the provisions of Article 7 of this Licence Agreement;
+
+o                   Operate the Multimedia Program in whole or in part for commercial or promotional purposes or in any way whatsoever;
+
+o                   Use the Multimedia Program for illegal or immoral purposes;
+
+o                   Use the Multimedia Program for purposes other than those provided by Focus Entertainment under this Licence Agreement;
+
+o                   Use the Multimedia Program or allow the use of the Multimedia Program on several computers, games consoles, handhelds, mobile devices or PDAs at the same time, without an additional licence (this licence may be provided by an authorised third party (for example a Seller), provided that you have accepted the terms and conditions of sale or service);
+
+o                   Use the Multimedia Program or allow the use of the Multimedia Program in a network, as part of a multi-user system or a remote access system, including any online use, unless otherwise expressly stipulated by Focus Entertainment and subject to the acceptance of the terms and conditions of use of the Multimedia Program;
+
+o                   Use any third-party software not expressly authorised by Focus Entertainment that interacts with the Multimedia Program, regardless of the purpose;
+
+o                   Delete, disable or circumvent a notice or mention of ownership or copy the protection software contained in the Multimedia Program;
+
+o                   Export or re-export the Multimedia Program, a copy or an adaptation, in violation of applicable laws or regulations;
+
+o                   Create executable data or Multimedia Programs that reproduce the data or features of the Multimedia Program.
+
+The Multimedia Program can only be downloaded from an authorised source. You may not make the Multimedia Program available on a network where it may be downloaded by others.
+
+4.  Third-party intellectual property, software and tools
+=========================================================
+
+The Multimedia Program may contain elements licensed to Focus Entertainment by third parties. As such, the latter may take all measures to assert their rights in the event of a violation, on your part, of this Licence Agreement.
+
+As such, third-party software and tools (the "**Third-Party Software**") have been used in particular for the development of the Multimedia Program and/or are likely to be integrated, as an inseparable element, into the Multimedia Program. Third-Party Software may also be made available to you to enable you to create User-Generated Content (see Article 11).
+
+All rights to the Third-Party Software are reserved and remain the full property of the relevant third parties.
+
+Nothing in this licence has the purpose or effect of transferring to you, in any way whatsoever, the ownership of such Third-Party Software or of granting you any right or authorisation over such Third-Party Software.
+
+Third-Party Software may be subject to specific additional conditions specific to them. This applies in particular to the _Unreal® Engine_ developed by Epic Games, Inc., the conditions of use of which can be consulted at the following link [https://unrealengine.com/fr/eula-reference/unreal-fr](https://unrealengine.com/fr/eula-reference/unreal-fr) and according to the conditions of the Epic Marketplace ([https://www.epicgames.com/site/en-US/tos?lang=en-US](https://www.epicgames.com/site/en-US/tos?lang=en-US)). By accepting this Licence Agreement, you accept the specific terms and conditions of all Third-Party Software. In the event of inconsistency or contradiction between the provisions relating to a Third-Party Software contained in the terms of this Licence Agreement and in the specific terms and conditions of said Third-Party Software, the specific provisions of the latter shall prevail over that of this Licence Agreement with regard to the aforementioned Third-Party Software.
+
+Third-Party Software is not sold to you or provided with the Multimedia Program and is only an inseparable component thereof. No guarantee is given in relation to the Third-Party Software and no responsibility can be held in this respect.
+
+5.  Updates, patches and changes
+================================
+
+**5.1** Focus Entertainment, or an authorised third party, may make improvements, updates, modifications or corrections (hereinafter the "**Updates**") to the Multimedia Program.
+
+Focus Entertainment reserves the right to modify the Multimedia Program code at any time at its sole discretion. Such modifications may have an impact on the functionality of the Multimedia Program or its content (e.g. adding or removing features or content, fixing bugs or errors, modifications intended for balancing the game, etc.).
+
+**5.2** If you are subject to a national law other than that of a Member State of the European Union, these Updates may be downloaded automatically in order to allow the execution of the Multimedia Program and may be likely to modify various aspects of the Multimedia Program. You expressly consent to such downloads.
+
+**5.3** If you are subject to a national law of a Member State of the European Union, the terms of downloading these Updates will be specified by the Seller.
+
+The information relating to the nature of these Updates and the duration for which these Updates are available for download are communicated to you by the Seller in the general conditions of sale made available by the Seller or any other contractual document of its choice.
+
+Information relating to the essential characteristics of each Update (i.e. purpose of the Update, version of the operating system of the Hardware concerned by the Update, storage space required, possible consequences of the Update on the functioning of the Multimedia Program) is communicated to the User before downloading the Update.
+
+You will also be informed by the Seller if the Update is necessary to maintain the compliance of the Multimedia Program and why. Focus Entertainment strongly encourages you to download and install all Updates necessary to maintain the compliance of the Multimedia Program and cannot be held responsible in the event of malfunction of the Multimedia Program resulting from the failure to download and install this type of Update.
+
+**5.4** The access and download of these Updates require an active internet connection. Insufficient connection due to your Internet or telecommunications provider may affect access to and downloading of Updates. Focus Entertainment is not responsible for any operating problem resulting from an insufficient connection or correction that is not working and which would be beyond the control of Focus Entertainment.
+
+6.   Technical protection devices
+=================================
+
+The Multimedia Program may be protected by technical protection devices. As such, you acknowledge that:
+
+\-        The number of installations or activations of the Multimedia Program may be limited;
+
+\-        Certain files and/or data may be downloaded to your device and certain information may be collected for the purpose of authenticating the Multimedia Program;
+
+\-        An internet connection may be required;
+
+  If necessary, additional information may be communicated to you by the Seller.
+
+7.  Assignment of the Multimedia Program
+========================================
+
+You are authorised to permanently assign all your rights under this Licence Agreement, provided however that the recipient of the transfer agrees to be subject to the terms of this Licence Agreement and that you agree to remove the Multimedia Program from the medium on which it was downloaded/used/copied.
+
+8.  Duration/Termination
+========================
+
+This Licence Agreement shall remain in force until terminated. You may terminate the Licence Agreement at any time by removing or uninstalling the Multimedia Program from your media and destroying the copy of the Multimedia Program in your possession.
+
+In the event that you do not comply with the terms of the Licence Agreement, Focus Entertainment may, depending on whether it is a minor breach (any breach of a legal or regulatory obligation or not constituting a serious breach) or a serious breach (breach of Articles 3 - Restrictions, 4 – Intellectual Property, third-party software and tools, 11 – User-Generated Content, 12 – Code of Conduct and Appendix 2 – Code of Conduct of the Licence Agreement) terminate the Licence Agreement. In the event of a minor breach, Focus Entertainment will ask you in writing to cease any breach within 48 hours of the request. If it is not remedied within the deadlines, Focus Entertainment may automatically terminate the Licence Agreement. In the event of a serious breach, Focus Entertainment may immediately and automatically terminate the Licence Agreement by informing you in writing (an email is sufficient).
+
+In all cases of termination, you must immediately destroy and delete the Multimedia Program and all or part of the copies in your possession or under your control and stored in any medium whatsoever, and, at the request of Focus Entertainment, certify that you have carried out this destruction.
+
+9.  Warranty limitations
+========================
+
+**9.1** To the fullest extent permitted by applicable law, Focus Entertainment does not guarantee the continued or error-free operation of the Multimedia Program or the correction of any error in the Multimedia Program. The Multimedia Program is provided without any guarantee, except those where applicable expressly stipulated in this license and to the extent permitted by applicable law. The warranties set forth below define the scope of Focus Entertainment's liability and warranties and your remedies.
+
+TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, FOCUS ENTERTAINMENT EXPRESSLY DISCLAIMS ANY WARRANTY WITH RESPECT TO THE MULTIMEDIA PROGRAM. THE MULTIMEDIA PROGRAM IS PROVIDED 'AS IS' AND WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES AND/OR CONDITIONS OF MERCHANTABILITY OF THE MULTIMEDIA PROGRAM, FITNESS FOR A PARTICULAR PURPOSE, SUFFICIENT QUALITY, PERFORMANCE OR NON-INFRINGEMENT OF INTELLECTUAL PROPERTY RIGHTS.
+
+It is your responsibility to take responsibility for all risks resulting from the use or execution of the Multimedia Program. However, Focus Entertainment guarantees that the physical medium on which the Multimedia Program is installed shall, under normal conditions of use, be free from hidden defects and manufacturing defects for ninety (90) days from the date of purchase of the Multimedia Program.
+
+**9.2** This limited warranty shall not affect your legal rights, which cannot be excluded or limited in any way under the national law applicable to you.
+
+**9.3** If you are subject to a national law of a Member State of the European Union, the legal guarantees of compliance are communicated to the User by the Seller.
+
+For all purposes, it is specified that if you reside in France, you benefit in relation to the Multimedia Program from the legal guarantee of compliance provided for by the French Consumer Code and the guarantee of hidden defects provided for by the French Civil Code. These provisions are recalled in Appendix 1.
+
+If you reside in another country of the European Union, similar provisions specific to your country of residence may apply under Directive (EU) 2019/770.
+
+10\. Limitation of liability
+============================
+
+Focus Entertainment takes all reasonable measures to ensure the operation of the Multimedia Program and to restore it without delay in the event of disruptions. However, Focus Entertainment is not responsible for disruptions or reductions in performance caused by force majeure events (for example, armed conflicts, epidemics, pandemics (including the Covid-19 pandemic), natural disasters, strikes) or by maintenance, repair or other work on its technical facilities or by third parties providing data, content, information or transmission capabilities.
+
+TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, FOCUS ENTERTAINMENT SHALL IN NO EVENT BE LIABLE FOR ANY DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, ANY DIRECT, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES RELATING TO BUSINESS INTERRUPTION, CUSTOMER LOSS, LOSS OF PROFIT, LOSS OF DATA, OR ANY ECONOMIC OR FINANCIAL LOSS) ARISING FROM THE USE OF THE MULTIMEDIA PROGRAM, OR THE INABILITY TO USE THE MULTIMEDIA PROGRAM, OR ITS MALFUNCTION, OR EVEN ITS SOLE POSSESSION, AND EVEN IF FOCUS ENTERTAINMENT HAS BEEN INFORMED OF THE EVENTUALITY OF SUCH DAMAGES.
+
+Focus Entertainment shall not be liable for any damage, injury or loss resulting from your negligence, accident or misuse or modification of the Multimedia Program in any way whatsoever, after its purchase. In any event and insofar as the aforementioned limitations were not applicable under certain legislations, the liability of Focus Entertainment may not exceed the purchase price of the Multimedia Program.
+
+Nothing in this Licence Agreement limits or excludes Focus Entertainment's liability to you for death or personal injury resulting from its negligence, or any other liability that cannot be excluded or limited under the terms of applicable law.
+
+To the extent permitted by applicable law, you agree to indemnify, defend and hold Focus Entertainment harmless against all claims, costs and expenses (including attorney's fees), arising, directly or indirectly, from your actions and omissions during use of the Multimedia Program, which are illegal or not in accordance with the terms of this Licence Agreement.
+
+11\. User-Generated Content
+===========================
+
+Certain Multimedia Programs allow you, by means of tools or Third-Party Software made available by Focus Entertainment or Focus Entertainment licensors (the "Licensors") to choose a pseudonym, create an avatar, exchange and communicate with other players, transmit and share messages, sounds, voices, recordings, texts, images, drawings, photos, documents as well as create and customise games, levels, maps, scenarios, and any other content (hereinafter "UGC"s), which may be used and shared as part of the Multimedia Program. UGCs may be a creation of your imagination (an "Original UGC") or a creation made from pre-existing creations (a "Derivative UGC"), to which Focus Entertainment and Focus Entertainment Licensors may have rights.
+
+When the Multimedia Program allows the sharing of UGCs or interaction with other third-party websites and/or online services ("Third-Party Sites"), you agree to comply with the conditions of use of the Third-Party Sites in question. Focus Entertainment is not responsible for their content. The links made available to you are for convenience, without the liability of Focus Entertainment being engaged in this respect. It is your responsibility to ensure that you comply with the conditions of use of the Third-Party Sites and that they are appropriate for your profile. You undertake to relieve and hold harmless Focus Entertainment from all liability relating to a possible violation of the conditions of use of the aforementioned site by you, as well as all damages, direct or indirect, which could result from it.                                                                                                          
+
+More generally, you are solely responsible for the use and sharing of the UGC that you create and must in any event comply with the terms of this Licence Agreement when creating/using/sharing a UGC.
+
+As such, Focus Entertainment can in no way be held responsible, without any limitation: for any alteration of the quality of the Multimedia Program, for any alteration or loss of one of your UGCs during the creation/use/sharing of a UGC, or for the infringement of an intellectual property right held by a third party.
+
+You agree not to use the UGCs outside the Multimedia Program in which they were generated, regardless of the purpose or means of extracting them from the program. In general, you are prohibited from extracting any component of the Multimedia Program from the latter.
+
+To the fullest extent permitted by applicable law, you hereby grant Focus Entertainment and Focus Entertainment Licensors a non-exclusive licence, free of charge, for the entire world, and where applicable for the duration of the rights, irrevocable, fully transferable and sub-licensable, in any way whatsoever, of your UGC, whether Original UGCs or Derivative UGCs, and your contributions to them, as they are created and/or shared, including, but not limited to, the rights to use, copy, modify, reproduce in whole or in part, adapt, evolve, translate, carry on any medium, incorporate in other works, extract elements in whole or in part and/or add elements and remove, distribute, display, publish, communicate in any way whatsoever, distribute, sell and market the UGCs, without any restriction, on all media, formats and forms, currently known or subsequently designed, which may be licensed, transferred, rented, made available to the public, or performed publicly and globally, without any prior notice or compensation.
+
+This operating licence is granted for the purposes of the distribution activities of the Multimedia Program, creations of derivative works of the Multimedia Program, the sharing of UGCs within the framework of the Multimedia Program and the promotion of the Multimedia Program and the derivative works of the Multimedia Program,
+
+You may terminate this operating licence in the event of a breach by Focus Entertainment of this Licence Agreement, if it has not remedied the breach following the sending of a letter of formal notice to execute the remedy within one (1) month, which has remained without effect.
+
+Hereby and to the fullest extent permitted by applicable law, you agree never to claim any moral rights of authorship, publication, reputation or attribution over the use of the Terms of Use, by Focus Entertainment, the Focus Entertainment Licensor or other players. Specific conditions of our Licensors may apply to your UGCs and will be communicated to you if necessary.
+
+Notwithstanding the foregoing, you acknowledge and agree that the Derivative UGCs that you create include content, goods and materials owned by Focus Entertainment and/or its licensors. Such UGCs are derivative works of pre-existing works whose rights are owned by Focus or its Licensors. Nothing in this Licence Agreement, or any other document applicable to this contractual relationship, grants or bestows on you an assignment or transfer of rights (including any Intellectual Property Rights) to these pre-existing works used to create Derivative UGCs, which shall remain the property of Focus Entertainment and/or its Licensors. As a result, UGCs resulting from pre-existing creations may not be used without the express authorisation of Focus and/or its Licensors.
+
+12.  Code of Conduct
+====================
+
+Focus Entertainment is not required to exercise any control or evaluation of the UGCs.  As such, you declare and accept that you have full and complete responsibility for the UGCs that you create or generate and that Focus Entertainment cannot be held responsible for the latter.
+
+You are solely responsible for the comments, opinions or remarks expressed in a Terms of Use, which do not represent in any way those of Focus Entertainment. In particular, and without limiting the scope of the previous provision, Focus Entertainment cannot be held responsible for comments, opinions or remarks expressed in a UGC and it excludes any liability in this regard within the limit of applicable laws and regulations.
+
+In addition, you agree and undertake not to create and share a UGC that, in a non-limiting manner:
+
+o                   May be illegal or likely to result in civil or criminal liability;
+
+o                   May infringe the copyrights, trademarks, patents or any other intellectual and/or industrial property rights of a third party;
+
+o                   May facilitate piracy, including any request for keys, CDs or pirated software;
+
+o                   May include computer viruses, worms, logic bombs or other malicious software or harmful data;
+
+o                   May be abusive, seditious, pornographic, offensive, homophobic, defamatory, insulting, slanderous, inaccurate, discriminatory, obscene, provocative or racist;
+
+o                   May be likely to harass a person;
+
+o                   Could be considered marketing or commercial communication or promotion of products or services from someone other than Focus Entertainment;
+
+o                   Would be likely to encourage illegal or unlawful activities, including but not limited
+
+to: solicitation, gambling or the sale of prescription drugs;
+
+o                   May be aimed at minors or attempting to arrange meetings with minors with the intention of sexually abusing them, or whose object or effect would be to obtain such a meeting;
+
+o                   May contain restricted material, including but not limited to passwords, medical information or confidential information about any person;
+
+o                   In general, may contravene any law or regulation in force
+
+in the country of use of the Multimedia Program;
+
+o                   May solicit, invite, encourage, recommend, incite or trigger any of the
+
+previous actions.
+
+More generally, you agree to comply with the provisions of the Code of Conduct set out in Appendix 2.
+
+Focus Entertainment reserves the right to delete, restrict, suspend or modify any UGC (as well as the possibility of sharing or creating the UGC online) as well as to terminate the Licence Agreement, in particular in the event that a UGC is reported to it by a third party, if it appears that such a UGC does not comply with the applicable laws or regulations or the provisions of this Licence Agreement and more particularly Articles 11 and 12 and Appendix 2. 
+
+13.  Personal data
+==================
+
+Focus Entertainment may collect, as a data controller, certain personal data through its Multimedia Programs. Regardless of the methods of discrimination, personal data is information that relates directly or indirectly to an identified or identifiable natural person.
+
+Focus Entertainment primarily collects this data to:
+
+·       provide the products and services you have requested;
+
+·       provide you with improved products, services and gaming experiences (in-game tools and technologies, including telemetry, as appropriate);
+
+·       to provide you with technical support;
+
+·       control your use of the Multimedia Program in relation to acquired rights (in particular the fight against cheating in the context of the Multimedia Programs);
+
+·       ensure the proper functioning and security of the Multimedia Program in general.
+
+These data are mainly:
+
+·       identifying information (such as your name, nickname, etc.) ;
+
+·       demographic data (such as your language, country, city, etc.) ;
+
+·       game data (such as your score, your statistics, the number of solo and/or multiplayer games, etc.) ;
+
+·       any other data relating to your use of the Multimedia Program (such as your IP address, hardware configuration, connection history, error reports, etc.).
+
+You have the right to access, rectify and delete your personal data, the right to limit their processing, to oppose it and the right to the portability of this data. You may exercise your rights at any time by contacting our Data Protection Officer ("DPO") at the following address [personaldata@focusent.com](mailto:personaldata@focusent.com), or at the registered office of the Company indicated in the header of this licence. If, after contacting us, you consider that your data protection rights are not respected, you also have the right to lodge a complaint with the French Data Protection Authority ("CNIL"). When processing of your personal data is based on your consent, you have the right to withdraw your consent at any time.
+
+This clause corresponds to first-level information, for more information about the data we collect in the context of your use of the Multimedia Program, the corresponding purposes and legal bases, the retention period of the processed data, as well as your data protection rights, you can refer to our [General Data Protection Policy](https://www.focus-entmt.com/fr/privacy-policy).
+
+14.  Special conditions of use
+==============================
+
+**14.1.1.**  Anti-cheat software
+
+Focus Entertainment may use any other anti-cheat software of its choice, and in particular the Easy Anti-Cheat service implemented by the company Kamu, via client software ("Client Software") integrated into the Multimedia Program.
+
+In the case of the Easy Anti-Cheat service, when you start a new game session, the latest version of the Client Software is automatically loaded and installed on your computer or any other machine that may read the Multimedia Program ("Unit"). When you use the Multimedia Program on your Unit, it is monitored by Easy Anti-Cheat, which analyses the binary codes of the game and scans the memory for the purpose of detecting and preventing any cheating within the game ("Purpose"). For the requirements of this Purpose, Easy Anti-Cheat retains and processes information relating to the cheating methods used in the game ("Data"). This Data may contain personal data about you, as detailed in the [Kamu privacy](https://www.easy.ac/r/privacy/statement) [statement](https://www.easy.ac/r/privacy/statement).
+
+Easy Anti-Cheat's processing activities include automated decision-making, which can have a significant impact on your gaming experience, including game blocking in the event of a proven cheat. The Data will only be used for the Purposes referred to in this Article 9.5.1, including but not limited to the identification and blocking of the accounts of players cheating during a game session, the analysis of cheat codes and behaviour as well as the sharing of Cheat Data with Easy Anti-Cheat affiliates.
+
+For more information on the management of your personal data, see article 10.2 hereof.
+
+The use of anti-cheat software is likely to lead to malfunctions or disruptions in the use of the Multimedia Program that do not fall within the competence and responsibility of Focus Entertainment, but rather the publisher of the Customer Software. In the event of a malfunction or disruption in the use of the Multimedia Program related to the use of anti-cheat software, you may choose to terminate the Licence Agreement under the conditions provided for in Article 8.
+
+**14.1.2.**  Additional paid servers
+
+Certain Multimedia Programs may offer you, on a fee-paying or free basis, the option to create your own server, allowing you in particular to administer games (public or private), to invite or refuse other players, and to set rules specific to each game (hereinafter "Dedicated Servers").
+
+You are solely responsible for the administration and/or use of a Dedicated Server, and shall guarantee and exempt Focus Entertainment against any damage of any kind whatsoever resulting from the administration and/or use of a Dedicated Server.
+
+As such, Focus Entertainment shall in no way be held responsible in the event of a temporary or definitive incident relating to the Dedicated Server.
+
+**14.1.3.**  Additional Content - "Virtual" Currency
+
+When a Multimedia Program offers this feature, you can acquire the following additional items:
+
+o                   Additional content such as characters, costumes or levels;
+
+o                   Consumables in connection with the use of the Multimedia Program;
+
+o                   "Virtual" currency that can only be used as part of the Multimedia Program.
+
+The modes of acquisition of "virtual" currency may vary according to the Multimedia Program; the Specific Terms of Use of said Multimedia Program shall be specified in the provisions of this article.
+
+In general, and unless otherwise stipulated in the Specific Terms of Use:
+
+o                   "Virtual" currency may be directly generated by your use of the Multimedia Program, without any financial consideration on your part;
+
+o                   You can also buy "virtual" currency directly on the Multimedia Program platform;
+
+o                   "Virtual" currency is not a currency and cannot be exchanged or converted into a currency.
+
+o                   "Virtual" currency may also not be resold and may only be used as part of the Multimedia Program where it was purchased.
+
+In any event, you may use the "virtual" currency to acquire additional content to the Multimedia Program, to enable faster progress in the Multimedia Program, or any other feature offered by the Multimedia Program, in accordance with the Specific Terms of Use defined by the Seller from which you purchased the Multimedia Program.
+
+Focus Entertainment can in no way be held responsible for a partial or total loss of currency during the procedure of acquisition of "virtual" currency or during its use.
+
+**14.1.4.**  Sony PlayStation® users
+
+For residents of America:
+
+The purchase and use of the items are subject to Network's Terms of Use and User Agreement. A sublicense to use this online service has been granted to you by Sony Interactive Entertainment America.
+
+For residents of Europe, Oceania and EMEA:
+
+Any content purchased from a game store is purchased from Sony Interactive Entertainment Network Europe Limited ("SIENE") and is subject to the PlayStation™ Network Terms of Use and User Agreement available on the PlayStation™ Store. Check the rights of use during each purchase as these may vary from one item to another. Unless otherwise stated, the classification of content available in a game store is identical to that of the game itself.
+
+15.  General provisions
+=======================
+
+**15.1**   Export controls
+
+You are not authorised to export, download or re-export the Multimedia Program to
+
+any country (citizen or resident) subject to an embargo in force.
+
+**15.2** Equitable remedies
+
+You hereby acknowledge that Focus Entertainment shall suffer irreparable damage if the terms of this Licence Agreement are not strictly enforced and, as a result, you agree that Focus Entertainment may, without obligation, warranty or proof of damage, legitimately assert appropriate equitable remedies with respect to violations of this Licence Agreement, in addition to such other remedies as Focus Entertainment may have, under applicable laws.
+
+**15.3** Comprehensiveness
+
+This Licence Agreement may be modified unilaterally by Focus Entertainment if necessary (i) to take into account the technical evolution of the Multimedia Program or the medium on which it is used, (ii) for legal, regulatory, technical or security reasons or (iii) if the modifications made are not to your disadvantage and respect the initial contractual balance.
+
+Changes to the main obligations of this Licence Agreement that may modify the subject of the Agreement, as described in Article 1, are excluded from the right to unilateral modification.
+
+You will be informed at least four (4) weeks in advance of changes to the Licence Agreement by email to the address sent to the Seller when purchasing the Multimedia Program. If you do not object to the changes within four (4) weeks of receipt of the notification, the changes shall be considered accepted with future effect.  If, on the other hand, you oppose the modifications, Focus Entertainment shall reserve the right to terminate this contractual relationship with two (2) weeks' notice, provided that you have been informed of the consequences of refusing the modifications and this right of termination. In this case, you will no longer be able to download and/or use the Multimedia Program.
+
+**15.4**  Nullity
+
+If one or more provisions of the Licence Agreement are or become null and void, in whole or in part, pursuant to a law, a regulation or following a final decision of a competent court, the other provisions shall remain in full force and effect.
+
+**15.5**  Force majeure
+
+Focus Entertainment shall in no way be liable in the event of force majeure or fortuitous events, as defined by Article 1148 of the French Civil Code and the jurisprudence of the French courts, making it impossible for Focus Entertainment to fulfil its obligations under this Licence Agreement.
+
+**15.6** Applicable law
+
+The Multimedia Program is intended for use and should only be used in countries where such use is legal.
+
+To the extent permitted by the local law applicable in the country where you use and/or have acquired the Multimedia Program, this Licence Agreement is governed by French law.
+
+In the event that the French law cannot be applied in the country where you use and/or have acquired the Multimedia Program, the following provisions shall apply:
+
+o                   If the acquisition of your Multimedia Program took place in the United States: this Licence Agreement is governed by the laws of the State of Pennsylvania;
+
+o                   If the acquisition of this Multimedia Program has taken place in Canada: this Licence Agreement is governed in accordance with the laws in force in the Province of Ontario, Canada, unless expressly prohibited by local law; and, in connection with any dispute arising hereunder, you expressly agree to submit to the jurisdiction of the federal and provincial courts sitting in Toronto, Ontario;
+
+o                   If the acquisition of your Multimedia Program took place in a completely different country: the local law shall apply.
+
+Appendix 1
+==========
+
+Legal guarantees applicable to French consumers
+
+**I.                Appendix to Article D. 211-3 of the French Consumer Code**
+
+"The consumer has a period of two years from the supply of the digital content or digital service to obtain the implementation of the legal guarantee of compliance in the event of the appearance of a lack of compliance. During a period of one year from the date of supply, the consumer is only required to establish the existence of the lack of compliance and not the date of its appearance."  
+"The legal guarantee of compliance entails the obligation to provide all the updates necessary to maintain the compliance of the digital content or digital service."  
+"The legal guarantee of compliance gives the consumer the right to bring the digital content or digital service into compliance without undue delay following the consumer's request, at no cost or major inconvenience to them."
+
+"The consumer may obtain a price reduction by retaining the digital content or the digital service or they may terminate the contract by being refunded in full against renunciation of the digital content or the digital service, if:
+
+  
+1\. The trader refuses to bring the digital content or digital service into compliance;
+
+2\. Bringing the digital content or digital service into compliance is unjustifiably delayed;
+
+3\. Bringing the digital content or digital service into compliance may not take place without costs imposed on the consumer;
+
+4\. Bringing the digital content or digital service into compliance causes a major disadvantage for the consumer;
+
+5\. The non-compliance of the digital content or digital service persists, despite the trader's attempt to bring them into compliance which has remained unsuccessful.
+
+"The consumer is also entitled to a price reduction or to the termination of the contract when the lack of compliance is so serious that it justifies that the price reduction or the termination of the contract is immediate. The consumer is then not required to request the bringing into compliance of the digital content or digital service beforehand."
+
+"In cases where the lack of compliance is minor, the consumer is only entitled to the cancellation of the contract if the contract does not provide for the payment of a price."
+
+"Any period of unavailability of the digital content or digital service with a view to bringing it back into compliance suspends the guarantee that remained to run until the supply of the digital content or digital service is once again compliant."
+
+"The rights mentioned above result from the application of Articles L. 224-25-1 to L. 224-25-31 of the French Consumer Code."
+
+"Any trader who obstructs in bad faith the implementation of the legal guarantee of compliance is liable to a civil fine of a maximum amount of 300,000 euros, which may be increased to 10% of the average annual turnover ([Article L. 242-18-1 of the French Consumer Code](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006069565&idArticle=LEGIARTI000044138681&dateTexte=&categorieLien=cid)).
+
+"The consumer also benefits from the legal guarantee of hidden defects pursuant to [Articles 1641 to 1649 of the French Civil Code](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006070721&idArticle=LEGIARTI000006441924&dateTexte=&categorieLien=cid), for a period of two years from the discovery of the defect. This guarantee gives the right to a price reduction if the digital content or the digital service is retained, or to a full refund against renunciation of the digital content or the digital service.”
+
+**II.              Appendix legal guarantee against hidden defects**
+
+Pursuant to Articles 1641 to 1649 of the French Civil Code, consumers and non-specialist professional customers also benefit from the guarantee against hidden defects that occurs when the property is unfit for the use for which it is intended, or that reduces this use so much that you would not have acquired it or would have given only a lower price, if you had known thereof. A defect is said to be hidden when you do not detect it during a simple examination. You have 2 years from its discovery to make a claim in line with the guarantee. In any case, you must provide proof of the hidden defect (i.e. an expert report). This guarantee gives you the right to a price reduction if the Digital Service is retained, or to a full refund in exchange for the waiver of the Digital Service.
+
+**III.             Legal provisions - Legal guarantees of compliance applicable to the one-off supply of digital content or a digital service or to a series of separate supply operations:**
+
+Art. L. 224-25-12 of the French Consumer Code:
+
+_"_The trader provides digital content or a digital service in accordance with the contract as well as the criteria set out in Article L. 224-25-14.
+
+Where the contract provides for a one-off supply of the digital content or digital service, or a series of separate supply operations, the trader shall be liable for any lack of compliance existing at the time of supply and which appears within two years of the supply.
+
+Where the contract provides for the digital content or digital service to be supplied on a continuous basis, the trader shall be liable for any lack of compliance that appears during the period during which the digital content or digital service is supplied under the contract.
+
+The applicable period does not deprive the consumer of their right to updates in accordance with the provisions of Article L. 224-25-25.
+
+The trader shall also be liable, within the same time limits, for any lack of compliance resulting from the incorrect integration of the digital content or digital service into the digital environment of the consumer where this has been carried out by the trader or under their responsibility, or where the incorrect integration carried out by the consumer results from shortcomings in the instructions provided by the trader.
+
+This guarantee period applies without prejudice to Articles 2224 et seq. of the French Civil Code. The starting point for the prescription of the consumer's action is the day of the consumer's knowledge of the lack of compliance.”
+
+Art. L. 224-25-13 of the French Consumer Code:
+
+"The digital content or digital service complies with the contract if it meets, in particular, the following criteria:  
+1\. It corresponds to the description, type, quantity and quality, in particular with regard to functionality, compatibility, interoperability, or any other characteristic provided for in the contract;  
+2\. It is suitable for any special use sought by the consumer, brought to the attention of the trader at the latest at the time of the conclusion of the contract and which the latter has accepted;  
+3\. It is provided with all accessories, including packaging, installation instructions, as well as customer assistance, to be provided in accordance with the contract;  
+4\. It is updated in accordance with the contract.”
+
+Art. L. 224-25-14 of the French Consumer Code:
+
+"I.-In addition to the compliance criteria set out in the contract, the digital content or digital service complies if it meets the following criteria:  
+1\. It is suitable for the usual expected use of digital content or a digital service of the same type, taking into account, where appropriate, any provisions of European Union law and national law as well as all technical standards, or in the absence of such technical standards, the specific codes of conduct applicable to the sector concerned;  
+2\. Where applicable, it has the qualities that the trader has presented to the consumer in the form of a trial version or an overview, before the conclusion of the contract;  
+3\. It is provided in the most recent version available at the time of the conclusion of the contract, unless the parties agree otherwise;  
+4\. In the case of continuous supply of digital content or a digital service during a given period, it is provided without interruption throughout this period;  
+5\. If necessary, it is provided with all accessories and installation instructions as well as customer assistance, which the consumer can legitimately expect;  
+6\. If applicable, it is provided with the updates that the consumer can legitimately expect, in accordance with the provisions of Article [L. 224-25-25](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006069565&idArticle=LEGIARTI000044132899&dateTexte=&categorieLien=cid);  
+7\. It corresponds to the quantity, quality and other characteristics, including in terms of functionality, compatibility, accessibility, continuity and security, that the consumer can legitimately expect for digital content or digital services of the same type, having regard to the nature of these contents or services, as well as public statements made by the trader, by any person upstream in the chain of transactions, or by a person acting on their behalf, including in advertising or on labelling.
+
+  
+II.-However, the trader is not bound by any public statements mentioned in the last paragraph of I if they demonstrate:  
+1\. That they did not know of them and were not legitimately able to know of them;  
+2\. That at the time of the conclusion of the contract, the public statements had been corrected under conditions comparable to the initial statements; or  
+3\. That public statements could not have had an influence on the decision to contract.
+
+  
+III.-The consumer may not contest the compliance by invoking a defect concerning one or more particular characteristics of the digital content or digital service, of which they have been specifically informed that they deviate from the compliance criteria set out in this article, a deviation to which they have expressly and separately consented at the time of the conclusion of the contract.”
+
+**Art. L. 224-25-15 of the French Consumer Code:**
+
+"When at the time of the contract, a processing of personal data is carried out by the trader, a failure on their part to comply with the obligations incumbent on them under Regulation (EU) 2016/679 of 27 April 2016 and Law No. 78-17 of 6 January 1978 on data processing, files and freedoms, when this failure results in the non-compliance of one or more compliance criteria set out in this section, is assimilated to a lack of compliance, without prejudice to the other remedies provided for by these texts.”
+
+**Art. L. 224-25-16 of the French Consumer Code:**
+
+"I.-Defects of compliance that appear within a period of twelve months from the supply of the digital content or digital service are presumed to exist at the time of such supply, unless proven otherwise.
+
+Where the contract provides for the continuous supply of the digital content or digital service during a given period, the burden of proof as to whether the digital content or digital service was compliant during the contractual period of supply shall be on the trader in the event of a lack of compliance appearing during that period.
+
+II.-The trader is not responsible for the lack of compliance if they demonstrate that it is directly attributable to the incompatibility between the digital content or the digital service and the digital environment of the consumer, and that the consumer had been informed by the trader of the technical requirements of compatibility of this content or service before the conclusion of the contract.
+
+The consumer is required to cooperate with the trader, to the extent that is reasonably possible, necessary and least intrusive for them, to determine whether the lack of compliance is caused by this incompatibility. Otherwise, the burden of proof referred to in the first or second paragraph of I of this article is on the consumer, on the condition that the consumer has been informed in a clear and understandable way of their obligation to cooperate before the conclusion of the contract.”
+
+**Art. L. 224-25-17 of the French Consumer Code:**
+
+"In the event of lack of compliance, the consumer has the right to bring the digital content or digital service into compliance or, failing that, to reduce the price or to terminate the contract, under the conditions set out in this paragraph.
+
+The consumer has, moreover, the right to suspend the payment of all or part of the price or the delivery of the benefit provided for in the contract until the trader has met the obligations incumbent on them under this subsection, under the conditions of Articles 1219 and 1220 of the French Civil Code.
+
+The provisions of this subsection are without prejudice to the award of damages.”
+
+**Art. L. 224-25-18 of the French Consumer Code:**
+
+"In the event of lack of compliance, the consumer is entitled to require the digital content or digital service to comply with the criteria set out in paragraph 1 of this subsection.
+
+The compliance shall take place at no cost to the consumer, without undue delay following the consumer's request and without major inconvenience to the consumer, taking into account the nature of the digital content or digital service concerned and the use sought by the consumer.
+
+The consumer is not required to pay for the use they have made of the digital content or digital service during the period, prior to the termination of the contract, during which this content or service was not compliant.”
+
+**Art. L. 224-25-19 of the French Consumer Code:**
+
+"The trader may refuse compliance if it proves impossible or entails disproportionate costs, in particular in view of the importance of the lack of compliance and the value of the digital content or digital service in the absence of a defect.
+
+If these conditions are not met, the consumer may, after formal notice, continue the forced execution in kind of the compliance requested in accordance with Articles 1221 et seq. of the French Civil Code.
+
+Any refusal by the trader to bring the digital content or digital service into compliance shall be justified in writing or on a durable medium.”
+
+**Art. L. 224-25-20 of the French Consumer Code:**
+
+"The consumer has the right to a price reduction or to the termination of the contract in the following cases:
+
+1\. When the trader refuses to bring the digital content or digital service into compliance;  
+2\. When the bringing into compliance of the digital content or digital service is unjustifiably delayed, or if it causes costs or a major inconvenience for the consumer;  
+3\. The non-compliance of the digital content or digital service persists despite the attempt to bring the trader into compliance remaining unsuccessful.
+
+The consumer is also entitled to a price reduction or to the termination of the contract when the lack of compliance is so serious that it justifies that the price reduction or the termination of the contract is immediate. The consumer is then not required to request the bringing into compliance of the digital content or digital service beforehand.
+
+However, the termination of the contract cannot be pronounced if the lack of compliance is minor, which it is the responsibility of the trader to demonstrate. This paragraph does not apply to contracts in which the consumer does not pay a price.”
+
+**IV.            Legal provisions - Legal guarantee against hidden defects**
+
+Article 1641 of the French Civil Code:
+
+"The seller must guarantee against hidden defects in the thing sold which render it unfit for the use for which it was intended, or that reduce this use to the point that the buyer would not have acquired it, or would have paid a lower price, if they had known about their existence.”
+
+Article 1648 paragraph 1 of the French Civil Code
+
+"Any action resulting from latent defects must be brought by the buyer within two years from discovery of the defect.”
+
+**Appendix 2**
+==============
+
+Code of Conduct
+===============
+
+**Video and content online Guidelines**
+
+**Introduction**
+
+If you are reading these Guidelines, it means you are a player of our games (thank you for your interest!) and you enjoy creating online content (referred hereafter as a “Creative Content”) using game footage, videos, images and screenshots captured from our games and promotional materials used in connection with them (such as trailers) (referred hereafter as a “Our Game Content”).
+
+We encourage your creativity, as long as you respect the following guidelines. In short, it’s ok for you to use Our Game Content as much as you respect the hard work and large investments we made in their development and publishing.
+
+Please note that these guidelines only apply to assets protected by intellectual property rights owned or held by Focus Entertainment. If you want to use some works protected by intellectual property rights owned by third parties (including some music or audio elements featured in Our Game Content), you must contact the proper right(s) holder(s) to secure their permission.
+
+**Authorized use**
+
+You may make comments, walkthroughs, tutorials, speedruns, reviews, reactions, and other “commentary” style videos, uploads, streaming and/or even livestreams, using our Game Content to be shared on your website and video and content sharing platforms. We encourage you to make dynamic and constructive comments and creative inputs in your Creative Content.
+
+You shall use our Game Content in your Creative Content only and strictly for **non-commercial purposes.** You cannot sell, license or provide a paid access to your Creative Content.
+
+This means that you can share and monetize your Creative Content online on video and content sharing platforms via partner programs such as Youtube and Twitch, to the extent that visitors have the opportunity to freely access this Creative Content. In all event, we ask you to credit the creators of our games without whom your Creative Content would not exist. To do so, please mention the official website of the game in your Creative Content or in its description.
+
+These Guidelines are only applicable to individuals (and not corporate entities, which can reach out to us at [communication@focusent.com](mailto:communication@focusent.com)).
+
+**Restrictions**
+
+Your Creative Content shall only use Game Content as officially released by Focus Entertainment. Any leaks or unauthorized disclosure of Our Game Content prior to official release is strictly prohibited. After the release of any of our game, you shall not post spoilers that would ruin the experience for others without a “Spoiler Alert” mention.
+
+You shall not promote your Creative Content, even implicitly, as official, sponsored, or approved content by Focus Entertainment unless you have been expressly endorsed by Focus Entertainment.
+
+Desynchronized audio assets taken from Our Game Content such as soundtracks, items, and voices  shall not be used separately from the images of Our Game Content. Besides, soundtrack, music and songs used in Our Game Content may not be owned by us, but licensed to Focus Entertainment by a third party. The latter may therefore take all measures to enforce their rights in the event that, in particular, you put a video online reproducing the soundtrack in whole or in part on a video and content sharing site, without having obtained prior special authorization.  Note that if you upload a video on a video and content sharing website reproducing the soundtrack as a whole or partially, your Creative Content may be the subject to a copyright/DMCA strike.
+
+Your Creative Content shall not encourage piracy of our games and/or other products.
+
+Your Creative Content must also not be a slavish copy of the Content in our Games - mere duplication of the Content in our Games without input from you does not comply with these guidelines.
+
+Your Creative Content shall not be abusive, seditious, pornographic, offensive, homophobic, defamatory, slanderous, inaccurate, discriminatory, obscene, provocative or racist.
+
+**Reservations**  
+  
+We reserve the right to remove or have removed any of your Creative Content using our Game Content to the extent that we believe it to be unlawful, infringing, inappropriate or not in line with these guidelines.  If you have any questions, please [contact us](mailto:communication@focus-home.com) at [communication@focusent.com](mailto:communication@focusent..com)   
+
+**Code of Conduct**
+
+We’d like to offer you the best gaming experience and friendliest atmosphere possible. In order to achieve that,  we need  you to respect the values and observe the rules set forth herein. the “Code of Conduct”). If you don’t we reserve the right to apply any of the sanctions provided by this Code of Conduct at our discretion.
+
+**Community values**
+
+By playing our games, we encourage you to adopt a respectful and friendly behavior for other players (regardless of whether they are teammates or opponents). It’s easy, all you have to do is respect, and to show tolerance with, your teammates and opponents in the way that you play with or against them, as well as when you interact and communicate with them. 
+
+We also expect all players to remain positive and show fair play and team spirit in matches and battles, whether you are winning or losing, to maintain the friendliness of our community.
+
+**Behavior**
+
+You are responsible for your words when you communicate with other players (whether in writing or as well as in speaking ). In this regard, you shall respect the following rules:
+
+\-          **No offensive language**: Do not use any language or expressions that upset, embarrass, insult or discriminate people with regards, notably, to their gender, age, origin, ethnicity, physical ability, socioeconomic status, sexual orientation, religion, or political leanings.
+
+\-          **No violent language**: Do not use any  violent, threatening, intimidating, invasive, degrading language or expressions and/or induce fear, shame or blame in other players.
+
+\-          **Harassment**: Any forms of psychological or sexual harassment, attempted intimidation, threats, obscene or inappropriate behavior especially towards minors are strictly prohibited.
+
+\-          **Private Information**:  For your own safety, do not publicly share any of your private information, such as your account logs or any other personal information (postal or email address; ID number; telephone number,etc.), with other players on social media or any content sharing platforms.
+
+\-          **Cheating**: No cheating, which includes (without limitation) the exploitation of in-game bugs, use of third-party software or any other methods to create an advantage beyond normal gameplay, will be tolerated
+
+\-          **Account or Identity Theft**: Do not pretend to be someone other than yourself. You may not hack into another player's account or impersonate them on social media, during a competition or while playing one of our games. Similarly, you may not impersonate a representative of Focus Entertainment or speak on our behalf without our express prior consent.
+
+If you notice or have questions about any conduct that may violate this Code of Conduct, please contact us at: [communication@focusent.com](mailto:communication@focus-home.com).
+
+**Sanctions**
+
+Any violation of this Code of Conduct is the responsibility of the account holder used to commit it and exposes the perpetrator to any of the following sanctions:
+
+\-          **Ban from all communication systems of Focus Entertainment (such as text and /or audio chat in-game or not, forums and social networks)**: we may temporarily or permanently remove all access to any of our communication systems/platforms.
+
+\-          **Ban from the online mode of the game**: We may restrict or completely remove all access to the online/competitive mode of our Games, suspend participation in a competition for a specified period or permanently depending on the severity of the violations.
+
+\-          **Ban from our marketing operations:**  We may suspend, temporarily or permanently, any participation in any of the leagues, tournaments, playtests or any other marketing operations.
+
+At our sole discretion, the sanctions may be temporary or permanent, alternative or cumulative,  depending on the severity of your behavior.
+
+In addition, we reserve the right or give such right to any online service), in our sole discretion, to delete, restrict, suspend or modify your account and Creative Content (as well as the ability to share or create Creative Content online), due to use of your account and/or Creative Content that does not comply with the provisions of this Code of Conduct
+
+If you have any question or if you want to obtain more information about these Code of Conduct or any peculiar sanction applied to you, you can contact our [Community Management](mailto:community@focusent.com) team at communication@focusent.com.
