@@ -173,7 +173,7 @@ Open site navigation
 
 [Start your job search](https://www.search.co.uk/jobs/)
 
-123 Legal jobs
+122 Legal jobs
 ==============
 
 [Create job alert](https://www.search.co.uk/legal_documents/privacy_policy?specialism=legal&jobTitle=&location=)
@@ -188,7 +188,7 @@ Filter jobs
 
 * ### Specialism
     
-    * [Legal 123](https://www.search.co.uk/jobs/)
+    * [Legal 122](https://www.search.co.uk/jobs/)
         
     * [Business Support 3](https://www.search.co.uk/jobs/legal/?spec=business%20support)
         
@@ -199,9 +199,9 @@ Filter jobs
     
 * ### Location
     
-    * [London 75](https://www.search.co.uk/jobs/legal/london/)
+    * [London 73](https://www.search.co.uk/jobs/legal/london/)
         
-    * [City of London 38](https://www.search.co.uk/jobs/legal/city-of-london/)
+    * [City of London 36](https://www.search.co.uk/jobs/legal/city-of-london/)
         
     * [Hampshire 10](https://www.search.co.uk/jobs/legal/hampshire/)
         
@@ -245,9 +245,9 @@ Filter jobs
     * * [Annum](https://www.search.co.uk/jobs/legal/?salaryPer=Annum)
         * [£20,000 - £30,000 8](https://www.search.co.uk/jobs/legal/?salaryPer=Annum&salaryRange=%C2%A320,000%20-%20%C2%A330,000)
             
-        * [£30,000 - £40,000 10](https://www.search.co.uk/jobs/legal/?salaryPer=Annum&salaryRange=%C2%A330,000%20-%20%C2%A340,000)
+        * [£30,000 - £40,000 11](https://www.search.co.uk/jobs/legal/?salaryPer=Annum&salaryRange=%C2%A330,000%20-%20%C2%A340,000)
             
-        * [£40,000 - £50,000 32](https://www.search.co.uk/jobs/legal/?salaryPer=Annum&salaryRange=%C2%A340,000%20-%20%C2%A350,000)
+        * [£40,000 - £50,000 33](https://www.search.co.uk/jobs/legal/?salaryPer=Annum&salaryRange=%C2%A340,000%20-%20%C2%A350,000)
             
         * [£50,000 - £60,000 46](https://www.search.co.uk/jobs/legal/?salaryPer=Annum&salaryRange=%C2%A350,000%20-%20%C2%A360,000)
             
@@ -255,14 +255,14 @@ Filter jobs
             
         * [£70,000 - £100,000 34](https://www.search.co.uk/jobs/legal/?salaryPer=Annum&salaryRange=%C2%A370,000%20-%20%C2%A3100,000)
             
-        * [£100,000 - £150,000 40](https://www.search.co.uk/jobs/legal/?salaryPer=Annum&salaryRange=%C2%A3100,000%20-%20%C2%A3150,000)
+        * [£100,000 - £150,000 38](https://www.search.co.uk/jobs/legal/?salaryPer=Annum&salaryRange=%C2%A3100,000%20-%20%C2%A3150,000)
             
         * [Day](https://www.search.co.uk/jobs/legal/?salaryPer=Day)
         * [Hour](https://www.search.co.uk/jobs/legal/?salaryPer=Hour)
     
 * ### Contract Type
     
-    * [Permanent 120](https://www.search.co.uk/jobs/legal/?contType=permanent)
+    * [Permanent 119](https://www.search.co.uk/jobs/legal/?contType=permanent)
         
     * [Contract 2](https://www.search.co.uk/jobs/legal/?contType=contract)
         
@@ -271,14 +271,14 @@ Filter jobs
     
 * ### Working Pattern
     
-    * [Full Time 93](https://www.search.co.uk/jobs/legal/?workPat=full%20time)
+    * [Full Time 92](https://www.search.co.uk/jobs/legal/?workPat=full%20time)
         
     * [Flexi Working 30](https://www.search.co.uk/jobs/legal/?workPat=flexi%20working)
         
     
 * ### Working Arrangement
     
-    * [Hybrid 95](https://www.search.co.uk/jobs/legal/?workAr=hybrid)
+    * [Hybrid 94](https://www.search.co.uk/jobs/legal/?workAr=hybrid)
         
     * [On-Site 27](https://www.search.co.uk/jobs/legal/?workAr=on-site)
         
@@ -293,7 +293,7 @@ Filter jobs
         
     
 
-123 jobs found
+122 jobs found
 
 Sort by
 
@@ -310,6 +310,45 @@ Not sure where to start? let us help.
 * [Remote working](https://www.search.co.uk/jobs/?workAr=remote%20working)
 * [Hybrid](https://www.search.co.uk/jobs/?workAr=hybrid)
 
+* [Executry Paralegal](https://www.search.co.uk/job/executry-paralegal/24080/)
+    ----------------------------------------------------------------------------
+    
+    £35000.00 - £40000.00 per annum + annual bonus
+    
+    ### Aberdeen
+    
+    Posted 07 Jun 24
+    
+    * Permanent
+    * Legal
+    * Full Time
+    * Hybrid
+    
+    Due to growth we are looking for an Executry Paralegal to join a busy Private Client team of 13. You'll report directly into the Executries Manager and have access to 3 Secretaries for support.  
+      
+    Full-time, part time might be considered for the right candidate.  
+      
+    Salary depending on experience: £35,000 - £40,000  
+      
+    Day to day you will be tasked with the below:  
+    \* Handling own case load of varying degrees of complexity  
+    \* Initial instructions, investigation of family trees, investigation of assets and liabilities  
+    \* Preparation of relevant insurance, HMRC and court documents  
+    \* Submission of documents to the necessary agencies  
+    \* Gathering of assets, payment of liabilities and legacies  
+    \* Preparation of the final account and distribution to beneficiaries  
+    \* Ensuring executors are kept up to date and informed of their options at key points throughout the process  
+      
+    What you'll come with to be successful in securing an interview:  
+    \* Previous experience working as Paralegal, highly knowable on executry work  
+    \* Ability to work in a fast paced environment  
+    \* Excellent customer service skills and communication skills  
+    \* Drive to work to a high standard and manage own caseload efficiently within timelines set
+    
+    **Search is an equal opportunities recruiter and we welcome applications from all suitably skilled or qualified applicants, regardless of their race, sex, disability, religion/beliefs, sexual orientation or age.**
+    
+    [View Job](https://www.search.co.uk/job/executry-paralegal/24080/)
+    
 * [Environment Solicitor](https://www.search.co.uk/job/environment-solicitor/24055/)
     ----------------------------------------------------------------------------------
     
@@ -1404,39 +1443,6 @@ Not sure where to start? let us help.
     **Search is an equal opportunities recruiter and we welcome applications from all suitably skilled or qualified applicants, regardless of their race, sex, disability, religion/beliefs, sexual orientation or age.**
     
     [View Job](https://www.search.co.uk/job/corporate-sport-solicitor-1-3pqe/23840/)
-    
-* [Employee Incentives Solicitor 5+PQE](https://www.search.co.uk/job/employee-incentives-solicitor-5pluspqe/23839/)
-    -----------------------------------------------------------------------------------------------------------------
-    
-    Negotiable
-    
-    ### City of London, London
-    
-    Posted 29 May 24
-    
-    * Permanent
-    * Legal
-    * Full Time
-    * Hybrid
-    
-    **International Law Firm**  
-    **Employee Benefits/Incentives**  
-    **Senior Associate**  
-    **London**  
-      
-    This global law firm boasting over 5,000 lawyers across more than 30 countries and are known for their quality legal advice and ability to service complex, multijurisdictional mandates and for its focus on client service. Clients include many members of the US Fortune 100, 50+ of the TSE 100, and over half of the Fortune 200.  
-      
-    The firm's established employee benefits/incentives team advise upon the tax aspects and practical implementation of employee incentive schemes across multiple jurisdictions. The team's lawyers advise on all aspects of share/cash-based employee incentives and regularly advises clients ranging from FTSE100 to AIM listed companies on a broad range of incentives projects.  
-      
-    They advise on the implementation of LTIPs, tax-advantaged arrangements, SAYE Schemes, restricted stock awards, cash bonus plans and numerous bespoke arrangements. They also advise on any issues relating to employee incentives generally, in takeover/MBO situations and on IPO. Clients include both domestic and international listed companies, AIM companies, private companies, private equity houses and trust companies.  
-      
-    The team are now seeking an experienced senior associate to join their team in London. The ideal candidate will have at least 5 years of experience in Employee Incentives gained from a top-tier City or international law firm and will be adept at both advisory and transactional matters.  
-      
-    Please apply as directed or confidentially contact Aidan McAvinue at Search Legal for more information. Alternatively, if this role is not for you, I am working a variety of other Employment opportunities with ranked teams in the City of London so would be interested to talk to any Employment lawyer.
-    
-    **Search is an equal opportunities recruiter and we welcome applications from all suitably skilled or qualified applicants, regardless of their race, sex, disability, religion/beliefs, sexual orientation or age.**
-    
-    [View Job](https://www.search.co.uk/job/employee-incentives-solicitor-5pluspqe/23839/)
     
 
 * [1](https://www.search.co.uk/legal_documents/%22/jobs/legal/?page=1%22)
