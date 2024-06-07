@@ -46,7 +46,7 @@ Shop
 * [Extended Service Plans](https://www.harborfreight.com/extended-service-protection)
 * [Replacement Parts](https://www.harborfreight.com/parts)
 
-* * [Coupons](https://www.harborfreight.com/coupons)
+* * [Parking Lot Sale](https://www.harborfreight.com/collections/huge-parking-lot-sale.html)
     * [New Tools](https://www.harborfreight.com/collections/new-tools.html)
     * [Deals](https://www.harborfreight.com/deals.html)
     * [Member-Only Deals](https://www.harborfreight.com/collections/inside-track-club-deals.html)
@@ -111,7 +111,7 @@ Submit search
     * [Extended Service Plans](https://www.harborfreight.com/extended-service-protection)
     * [Replacement Parts](https://www.harborfreight.com/parts)
     
-* * [Coupons](https://www.harborfreight.com/coupons)
+* * [Parking Lot Sale](https://www.harborfreight.com/collections/huge-parking-lot-sale.html)
     * [New Tools](https://www.harborfreight.com/collections/new-tools.html)
     * [Deals](https://www.harborfreight.com/deals.html)
     * [Member-Only Deals](https://www.harborfreight.com/collections/inside-track-club-deals.html)
