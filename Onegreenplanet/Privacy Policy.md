@@ -539,8 +539,8 @@ No products in the cart.
     * [ ] N/A
     * [ ] N/A
     * [ ] N/A
-    * [ ] N/A
     * [ ] n/a
+    * [ ] N/A
     * [ ] Pet Food
     * [ ] Plant-Based Nutrition
     * [ ] Plant-Based Protein Guides
@@ -736,8 +736,8 @@ No products in the cart.
     * [ ] N/A
     * [ ] N/A
     * [ ] N/A
-    * [ ] N/A
     * [ ] n/a
+    * [ ] N/A
     * [ ] Pet Food
     * [ ] Plant-Based Nutrition
     * [ ] Plant-Based Protein Guides
