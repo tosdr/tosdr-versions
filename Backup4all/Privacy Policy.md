@@ -303,15 +303,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to restore a backup from OneDrive](https://www.backup4all.com/how-to-restore-a-backup-from-onedrive-kb.html)  
+* [Backup software](https://www.backup4all.com/backup-software-kb.html)  
     
-* [How to deactivate Backup4all Monitor](https://www.backup4all.com/how-to-deactivate-backup4all-monitor-kb.html)  
+* [How to backup your data to Dropbox](https://www.backup4all.com/how-to-backup-your-data-to-dropbox-kb.html)  
     
-* [What to check when application does not start](https://www.backup4all.com/what-to-check-when-application-does-not-start-kb.html)  
+* [How to backup your data to Wasabi](https://www.backup4all.com/how-to-backup-your-data-to-wasabi-kb.html)  
     
-* [How to erase a CD/DVD/Blu-ray with Backup4all](https://www.backup4all.com/how-to-erase-a-cd-dvd-blu-ray-with-backup4all-kb.html)  
+* [How to restore a backup from Cloudflare R2 us ...](https://www.backup4all.com/how-to-restore-a-backup-from-cloudflare-r2-using-backup4all-kb.html)  
     
-* [Backup from network](https://www.backup4all.com/backup-from-network-kb.html)  
+* [How to restore your backup from Dropbox](https://www.backup4all.com/how-to-restore-your-backup-from-dropbox-kb.html)  
     
 
 Choose language:
