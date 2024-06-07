@@ -492,7 +492,7 @@ Search
     * [Reports, Publications and National Policies](https://www.tennis.com.au/about-tennis-australia/reports-and-policies)
     * [Partners](https://www.tennis.com.au/about-tennis-australia/our-partners)
     * [Media](https://www.tennis.com.au/about-tennis-australia/media)
-    * [Charities](https://www.tennis.com.au/about-tennis-australia/charities)
+    * [Tennis Australia Board and Executive Team](https://www.tennis.com.au/about-tennis-australia/organisation-structure)
 
 © Copyright 2024 Tennis Australia
 
