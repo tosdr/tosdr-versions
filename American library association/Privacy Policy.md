@@ -54,7 +54,6 @@ Main navigation
     * [Conferences & Events Home](https://www.ala.org/conferencesevents "Conferences & Events")
     * [Events Calendar](https://www.ala.org/events "Conferences & Events")
     * [Past & Future ALA Conferences](https://www.ala.org/conferencesevents/past "Conferences & Events")
-    * [Criteria for Conference Site Selection](https://www.ala.org/conferencesevents/ala-conference-site-selection "Conferences & Events")
     * [Library Celebration Days](https://www.ala.org/conferencesevents/celebrationdays "Conferences & Events")
     
 * [Awards & Grants](https://www.ala.org/awards "Awards & Grants")
