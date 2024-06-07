@@ -120,7 +120,7 @@ En acceptant les cookies, vous aideriez et contribueriez à la gratuité du Crab
 
 Si vous changez d'avis et que **vous avez envie de nous donner un coup de pince**, cliquez ici : J'accepte les cookies 🍪️
 
-##### 640 utilisateurs actifs
+##### 517 utilisateurs actifs
 
 Chargement en cours
 
@@ -130,9 +130,9 @@ Chargement en cours
 
 ### À la une
 
+* [WingetUI : installer et mettre à jour ses applications Windows, en un clic !](https://lecrabeinfo.net/wingetui-installer-et-mettre-a-jour-ses-applications-windows.html)
 * [Windows 11 : restaurer l’ancien ruban dans l’Explorateur de fichiers](https://lecrabeinfo.net/windows-11-restaurer-lancien-ruban-dans-lexplorateur-de-fichiers.html)
 * [Windows 11 : changer le lecteur PDF par défaut](https://lecrabeinfo.net/windows-11-changer-le-lecteur-pdf-par-defaut.html)
-* [4 méthodes pour faire une capture d'écran sur un PC Windows](https://lecrabeinfo.net/4-methodes-pour-faire-une-capture-decran-sur-pc-windows.html)
 
 ### Tendance
 
@@ -151,9 +151,9 @@ Chargement en cours
 
 ### Statistiques
 
-* 68 235 membres
-* 835 articles
-* 26 147 commentaires
+* 68 237 membres
+* 836 articles
+* 26 146 commentaires
 * [2 015 abonnés Facebook](https://www.facebook.com/lecrabeinfo)
 
 * [BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr "CC BY-NC-SA")
@@ -161,4 +161,4 @@ Chargement en cours
 * Le Crabe Info
 * [Quelle est mon adresse IP ?](https://mon-ip.info/)
 
-[Le Crabe Info](https://lecrabeinfo.net/wp/?blackhole=5b4228dddc "NE PAS suivre ce lien ou vous serez banni du site!")
+[Le Crabe Info](https://lecrabeinfo.net/wp/?blackhole=9e596e1072 "NE PAS suivre ce lien ou vous serez banni du site!")
