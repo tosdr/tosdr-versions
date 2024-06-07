@@ -21,7 +21,7 @@
 * [Reddit](https://www.reddit.com/r/PinballFX3/)
 * [Twitch](https://www.twitch.tv/zenstudios)
 
-[![Universal Pinball: TV Classics](https://zensite.wpenginepowered.com/wp-content/uploads/2024/04/Zenstudios_keyart-scaled.jpg)](https://zenstudios.com/games/universal-pinball-tv-classics/)
+[![Texas Chainsaw Massacre Pinball](https://zensite.wpenginepowered.com/wp-content/uploads/2024/05/Zen_web_background_TCM-scaled.jpg)](https://zenstudios.com/games/texas-chainsaw-massacre-pinball/)
 
 * [YouTube](http://www.youtube.com/user/zenstudiosgames)
 * [Instagram](http://instagram.com/zen_studios)
