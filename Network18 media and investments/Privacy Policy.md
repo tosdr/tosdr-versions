@@ -223,6 +223,11 @@ Network18 provides you with all information that Network18 maintains about you s
 
 If you have questions or concerns about this Policy, please contact Network18 at [dpo@nw18.com](mailto:dpo@nw18.com)
 
+[![](https://images.news18.com/dlxczavtqcctuei/news18/static/images/english/Impactshorts.svg?impolicy=website&amp;width=140&amp;height=50)](https://www.news18.com/short-news?utm_source=rhs&utm_medium=desktop_widget&utm_campaign=impact_shorts_discovery)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[VIEW ALL](https://www.news18.com/short-news/?utm_source=rhs&utm_medium=desktop_widget_viewall&utm_campaign=impact_shorts_discovery)
+
 [Latest News](https://www.news18.com/news/ "Latest News")
 ---------------------------------------------------------
 
