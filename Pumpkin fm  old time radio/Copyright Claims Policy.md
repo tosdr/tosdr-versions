@@ -10,10 +10,6 @@
 
 The Spirit of Radio Past
 
-### Support Pumpkin FM
-
-[![3-2-paypal-donate-button-png-image-thumb](https://pumpkinfm.com/wp-content/uploads/2022/06/3-2-paypal-donate-button-png-image-thumb-150x150.png "Support Pumpkin FM")](https://www.paypal.com/donate?campaign_id=EDD5N72RWV4E6)
-
 Menu
 
 * [Home](https://pumpkinfm.com/old-time-radio-stations-from-pumpkin-fm-the-vintage-radio-network/)
@@ -79,10 +75,6 @@ We take copyright infringement very seriously. Pursuant to the repeat infringer 
 
 We reserve the right to modify the contents of this page and its policy for handling DMCA claims at any time for any reason. You are encouraged to check back to review this policy frequently for any changes.
 
-### Support Pumpkin FM
-
-[![3-2-paypal-donate-button-png-image-thumb](https://pumpkinfm.com/wp-content/uploads/2022/06/3-2-paypal-donate-button-png-image-thumb.png)](https://www.paypal.com/donate?campaign_id=EDD5N72RWV4E6)
-
 [![](https://adbuzz.website123.live/adserver/www/delivery/avw.php?zoneid=6&n=01bdecc)](https://adbuzz.website123.live/adserver/www/delivery/ck.php?n=01bdecc)
 
 ### AD
@@ -116,11 +108,11 @@ We reserve the right to modify the contents of this page and its policy for hand
 
 [![Listen on myTuner radio!](https://static2.mytuner.mobi/static/widgets/mytuner-radio.png)![Listen of myTuner Radio!](https://static2.mytuner.mobi/static/widgets/mytuner-logo-90.png)](https://mytuner-radio.com/?utm_source=widget&utm_medium=button&utm_campaign=64x64 "Listen on myTuner radio!")[![RadioPlug.co.uk](https://radioplug.co.uk/LOGO.png)](https://www.radioplug.co.uk/)
 
+### Support Pumpkin FM
+
+[![3-2-paypal-donate-button-png-image-thumb](https://pumpkinfm.com/wp-content/uploads/2022/06/3-2-paypal-donate-button-png-image-thumb.png)](https://www.paypal.com/donate?campaign_id=F74RPZBEKZWZ6)
+
 ### Search Pumpkin FM
-
-### Help Pumpkin FM
-
-[![Appeal600](https://pumpkinfm.com/wp-content/uploads/2023/11/Appeal600-240x300.jpg)](https://www.paypal.com/donate?campaign_id=EDD5N72RWV4E6)
 
 ### Tags
 
