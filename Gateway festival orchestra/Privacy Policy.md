@@ -1,6 +1,12 @@
 [Skip to content](#content)
 
-[![Gateway Festival Orchestra](https://www.gatewayfestivalorchestra.org/wp-content/uploads/2024/02/Logo-white-minus-DA-e1707332300645.png)](https://www.gatewayfestivalorchestra.org/)
+[![](https://www.gatewayfestivalorchestra.org/wp-content/uploads/2024/02/Logo-white-minus-DA-e1707332300645-2.png)](https://www.gatewayfestivalorchestra.org/)
+
+* [](https://www.facebook.com/gatewayfestivalorchestra)
+* [](https://www.youtube.com/channel/UCZAQL4sg1wwau65B3LFZvcw)
+
+[Newsletter  
+Sign-up](https://www.gatewayfestivalorchestra.org/newsletter-sign-up/)
 
 * [Home](https://www.gatewayfestivalorchestra.org/)
 * [Upcoming Events](https://www.gatewayfestivalorchestra.org/calendar-events/)
@@ -11,6 +17,7 @@
     * [Board of Directors](https://www.gatewayfestivalorchestra.org/board-of-directors/)
 * [Outreach](https://www.gatewayfestivalorchestra.org/programs/)
 * [Volunteer](https://www.gatewayfestivalorchestra.org/volunteer/)
+* [GFO Journal](https://www.gatewayfestivalorchestra.org/gfo-journal/)
 * [Donate](https://www.gatewayfestivalorchestra.org/donate/)
 * [Contact](https://www.gatewayfestivalorchestra.org/contact/)
 
@@ -25,6 +32,7 @@ Menu
     * [Board of Directors](https://www.gatewayfestivalorchestra.org/board-of-directors/)
 * [Outreach](https://www.gatewayfestivalorchestra.org/programs/)
 * [Volunteer](https://www.gatewayfestivalorchestra.org/volunteer/)
+* [GFO Journal](https://www.gatewayfestivalorchestra.org/gfo-journal/)
 * [Donate](https://www.gatewayfestivalorchestra.org/donate/)
 * [Contact](https://www.gatewayfestivalorchestra.org/contact/)
 
