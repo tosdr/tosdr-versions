@@ -18,8 +18,8 @@
     * [IP Defense](https://www.threatstop.com/solutions/ip-firewall-protection?hsLang=en)
     * [ThreatSTOP for AWS](#)
         * [IP Defense for AWS WAF](https://www.threatstop.com/solutions/aws-waf?hsLang=en)
-        * [DNS Defense for Route 53](https://www.threatstop.com/solutions/aws-route-53-dns-firewall-pdns?hsLang=en)
-        * [OFAC and ITAR Compliance](https://www.threatstop.com/solutions/one-click-sanctions-compliance?hsLang=en)
+        * [DNS Defense for Route53](https://www.threatstop.com/solutions/aws-route-53-dns-firewall-pdns?hsLang=en)
+        * [OFAC & ITAR Compliance](https://www.threatstop.com/solutions/one-click-sanctions-compliance?hsLang=en)
 * [Resources](https://www.threatstop.com/resources?hsLang=en)
     * [Blog](https://www.threatstop.com/blog?hsLang=en)
     * [Collateral](https://www.threatstop.com/resources?hsLang=en#datasheet)
@@ -233,9 +233,9 @@ Customer shall use DHS AIS Targets via ThreatSTOP Services only in accordance wi
 
 ★★★★★
 
-ThreatSTOP’s IP reputation service provides invaluable protection for Cirrus Tech and our customers against threats that other solutions fail to address.
+By automating the process and providing the reports, ThreatSTOP provides me a peace of mind and saves me time.
 
-Ehsan Mirdamadi - CEO, Cirrus Tech
+Carol Maffitt - CIO
 
 * [Solutions](https://www.threatstop.com/case-studies?hsLang=en)
 * [Products](https://www.threatstop.com/threatstop-platform?hsLang=en)
