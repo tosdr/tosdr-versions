@@ -129,28 +129,32 @@ If you want to delete cookies follow the instructions at: [How to Clear Your Bro
 
 Save settings
 
+[Click here to review or change your personal data consent.](javascript:googlefc.callbackQueue.push(googlefc.showRevocationMessage))
+
 [](#)Cookies make wikiHow better. By continuing to use our site, you agree to our [cookie policy](https://www.wikihow.com/wikiHow:Cookie-Policy).
 
 [Random Article](https://www.wikihow.com/Special:Randomizer)[Write An Article](https://www.wikihow.com/Special:CreatePage)
 
 ### Featured Articles
 
-[![Does My Crush Like Me Quiz](https://www.wikihow.com/images/thumb/4/45/Does_my_crush_like_me_quiz.png/-crop-126-120-126px-Does_my_crush_like_me_quiz.png)
+[![Learn Speed Reading](https://www.wikihow.com/images/thumb/5/5d/Learn-Speed-Reading-Step-13-Version-5.jpg/-crop-126-120-126px-Learn-Speed-Reading-Step-13-Version-5.jpg)
 
-Does My Crush Like Me Quiz](https://www.wikihow.com/Relationships/Does-My-Crush-Like-Me-Quiz)
+The Best Ways to Speed Read & Become a Faster Reader](https://www.wikihow.com/Learn-Speed-Reading)
 
-[![Feel Comfortable in High Heels](https://www.wikihow.com/images/thumb/8/84/Feel-Comfortable-in-High-Heels-Step-14-Version-2.jpg/-crop-126-120-126px-Feel-Comfortable-in-High-Heels-Step-14-Version-2.jpg)
-
-How to Feel Comfy in Any Pair of Heels](https://www.wikihow.com/Feel-Comfortable-in-High-Heels)
-
-[![Wake Up a Newborn](https://www.wikihow.com/images/thumb/2/28/Wake-Up-a-Newborn-Step-14.jpg/-crop-126-120-126px-Wake-Up-a-Newborn-Step-14.jpg)
-
-Tips & Tricks for Waking Up a Sleeping Baby](https://www.wikihow.com/Wake-Up-a-Newborn)
-
-[![Feel Calm and Relaxed](https://www.wikihow.com/images/thumb/b/b0/Feel-Calm-and-Relaxed-Step-18-Version-2.jpg/-crop-126-120-126px-Feel-Calm-and-Relaxed-Step-18-Version-2.jpg)
+[![Be Better at Something](https://www.wikihow.com/images/thumb/d/d9/Be-Better-at-Something-Step-13.jpg/-crop-126-120-126px-Be-Better-at-Something-Step-13.jpg)
 
 How to  
-Feel Calm and Relaxed](https://www.wikihow.com/Feel-Calm-and-Relaxed)
+Be Better at Something](https://www.wikihow.com/Be-Better-at-Something)
+
+[![Care for Fine Hair](https://www.wikihow.com/images/thumb/c/ce/Care-for-Fine-Hair-Step-14-Version-3.jpg/-crop-126-120-126px-Care-for-Fine-Hair-Step-14-Version-3.jpg)
+
+How to  
+Care for Fine Hair](https://www.wikihow.com/Care-for-Fine-Hair)
+
+[![Express Your Feelings](https://www.wikihow.com/images/thumb/c/c8/Express-Your-Feelings-Step-17-Version-2.jpg/-crop-126-120-126px-Express-Your-Feelings-Step-17-Version-2.jpg)
+
+How to  
+Express Your Feelings](https://www.wikihow.com/Express-Your-Feelings)
 
   
 
@@ -191,4 +195,4 @@ Follow Us
 
 \-
 
-136
+793
