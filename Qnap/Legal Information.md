@@ -473,7 +473,8 @@ QTS is the operating system for entry- and mid-level QNAP NAS. WIth Linux and ex
 
 ##### System
 
-* [QTS 5.2](https://www.qnap.com/go/qts/5.2.0/)
+* [QTS Overview](https://www.qnap.com/go/operating-system/qts)
+* [QTS 5.2 New Features](https://www.qnap.com/go/qts/5.2.0/)
 * [Storage & Snapshot](https://www.qnap.com/go/solution/storage-management/)
 * [Network & Virtual Switch](https://www.qnap.com/go/software/network-virtual-switch)
 * [Notification Center](https://www.qnap.com/go/solution/notification-center/)
