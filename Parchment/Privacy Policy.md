@@ -141,6 +141,13 @@
         InstructureCon 2024](https://www.parchment.com/resources/events-webinars/)
         
     *  [![Chat icon](https://www.parchment.com/wp-content/uploads/2023/04/resources3.svg) Podcast](https://www.parchment.com/resources/podcast/)
+        
+        [Podcast
+        
+        ![Parchment Podcast - Credentials Unscripted - Episode-15](https://www.parchment.com/wp-content/uploads/2024/06/Parchment-Podcast-Credentials-Unscripted-Episode-15-320x192.jpg)
+        
+        State Initiatives on Skills-Based Hiring](https://www.parchment.com/resources/podcast/)
+        
     *  [![Computer-eLearning - icon (1)](https://www.parchment.com/wp-content/uploads/2023/10/Computer-eLearning-icon-1-40x40.png) Training](https://www.parchment.com/resources/training/)
     
 * Company
