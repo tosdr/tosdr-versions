@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [The Eternal Tuesday (1,353)](https://forum.nationstates.net/viewtopic.php?t=551362&f=20&view=unread#unread ""The Eternal Tuesday" (1,353 posts)")
-* [Christian Discussion: No more Fun wit… (3,620)](https://forum.nationstates.net/viewtopic.php?t=523262&f=20&view=unread#unread ""Christian Discussion: No more Fun with Pope Puns" (3,620 posts)")
-* [Your Favorite Part of AN’s Forum Sig,… (4,023)](https://forum.nationstates.net/viewtopic.php?t=549593&f=25&view=unread#unread ""Your Favorite Part of AN’s Forum Sig, part X" (4,023 posts)")
-* [Agree or Disagree III (9,855)](https://forum.nationstates.net/viewtopic.php?t=516044&f=25&view=unread#unread ""Agree or Disagree III" (9,855 posts)")
-* [American Politics: The Final Four..VP… (7,054)](https://forum.nationstates.net/viewtopic.php?t=548141&f=20&view=unread#unread ""American Politics: The Final Four..VP Choices" (7,054 posts)")
+* [UK Politics Thread: General Election… (6,316)](https://forum.nationstates.net/viewtopic.php?t=538053&f=20&view=unread#unread ""UK Politics Thread: General Election on July 4th" (6,316 posts)")
+* [2023 Israel–Hamas War Thread mk3 (2,637)](https://forum.nationstates.net/viewtopic.php?t=549839&f=20&view=unread#unread ""2023 Israel–Hamas War Thread mk3" (2,637 posts)")
+* [The Writers' Block (8,638)](https://forum.nationstates.net/viewtopic.php?t=159868&f=13&view=unread#unread ""The Writers' Block" (8,638 posts)")
+* [Out of the 2 above nations: Which one… (11,328)](https://forum.nationstates.net/viewtopic.php?t=529718&f=25&view=unread#unread ""Out of the 2 above nations: Which one has the better flag?" (11,328 posts)")
+* [Christian Discussion: No more Fun wit… (3,645)](https://forum.nationstates.net/viewtopic.php?t=523262&f=20&view=unread#unread ""Christian Discussion: No more Fun with Pope Puns" (3,645 posts)")
 
 Advertisement
 
