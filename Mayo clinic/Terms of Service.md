@@ -425,16 +425,16 @@ If you have any questions about the service, please contact us at [mayoclinicsup
 
 [Privacy policy](https://www.mayoclinic.org/about-this-site/privacy-policy)
 
-![](https://assets.mayoclinic.org/content/dam/media/global/images/2023/11/14/giving-charity.svg)
+![](https://assets.mayoclinic.org/content/dam/media/global/images/2024/05/31/globe-international.svg)
 
-Your gift holds great power – donate today!
--------------------------------------------
+We’re transforming healthcare
+-----------------------------
 
-[Donate](https://philanthropy.mayoclinic.org/page.aspx?pid=1523&sourcecode=24R001WG1MWV90Z24B&utm_source=devorgtilead&utm_medium=devweb&utm_campaign=devevergreen)
+[Give Today](https://philanthropy.mayoclinic.org/page.aspx?pid=1829&sourcecode=24R061WG1MWV90Z24B&utm_source=devorgtilead&utm_medium=devweb&utm_campaign=devbythenumbers)
 
-Make your tax-deductible gift and be a part of the cutting-edge research and care that's changing medicine.
+Make a gift now and help create new and better solutions for more than 1.3 million patients who turn to Mayo Clinic each year.
 
-[Donate](https://philanthropy.mayoclinic.org/page.aspx?pid=1523&sourcecode=24R001WG1MWV90Z24B&utm_source=devorgtilead&utm_medium=devweb&utm_campaign=devevergreen)
+[Give Today](https://philanthropy.mayoclinic.org/page.aspx?pid=1829&sourcecode=24R061WG1MWV90Z24B&utm_source=devorgtilead&utm_medium=devweb&utm_campaign=devbythenumbers)
 
 * [Find a doctor](https://www.mayoclinic.org/appointments/find-a-doctor)
     
