@@ -2,6 +2,8 @@
 
 [Creator Accelerator Program](https://nasacademy.com/cap)
 
+[Challenges](https://nasacademy.com/challenges)
+
 [AI](https://nasacademy.com/ai)
 
 [###### Connect with us](https://nasacademy.com/nas-academy#contact-form)
