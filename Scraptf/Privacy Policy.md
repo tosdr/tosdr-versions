@@ -67,7 +67,7 @@ Toggle navigation [![Logo](/img/logo-pride.svg)](https://scrap.tf/)[![Logo](/img
 * [Forum](https://scrap.tf/forum)
 * [Servers](#)
     * [Server 1 - Custom Gamemodes \[0/24\]](steam://connect/172.104.16.244:27015)
-    * [Server 2 - Hangout/Chill \[1/24\]](steam://connect/198.74.56.8:27015)
+    * [Server 2 - Hangout/Chill \[0/24\]](steam://connect/198.74.56.8:27015)
     
     * [Discord Server](https://discord.scrap.tf/)
     * [Sourcebans](https://bans.scrap.tf/)
