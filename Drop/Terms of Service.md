@@ -3,13 +3,13 @@ Here are the [instructions on how to enable JavaScript in your web browser](http
 
 [Click to view our Accessibility Statement or contact us with accessibility-related questions](https://drop.com/accessibility)
 
-[Drop Signature Series Sapphire
+[Drop + The Lord of the Rings™
 
-Say hello to your desktop crown jewel.
+Barrowfield Knight desk mat.
 
-SHOP NOW
+Shop Now
 
-_keyboard\_arrow\_right_](https://drop.com/buy/drop-signature-series-sapphire-keyboard)
+_keyboard\_arrow\_right_](https://drop.com/buy/drop-the-lord-of-the-rings-barrowfield-knight-desk-mat)
 
 Free Standard Shipping in the US on orders over $99
 
