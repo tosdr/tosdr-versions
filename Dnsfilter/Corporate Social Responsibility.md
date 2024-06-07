@@ -1,6 +1,6 @@
-[Why Securing Public Wi-Fi is More Important Than Ever
+[Ready to see DNSFilter in action?
 
-REGISTER NOW](https://explore.dnsfilter.com/why-securing-public-wi-fi-is-more-important-than-ever)
+START FREE TRIAL](https://www.dnsfilter.com/free-trial)
 
 [![DNSFilter](https://www.dnsfilter.com/hs-fs/hubfs/Horizontal%20Logo%20-%20Dark%20-%20Blue%20Swoosh%202.png?width=500&height=117&name=Horizontal%20Logo%20-%20Dark%20-%20Blue%20Swoosh%202.png "DNSFilter")](https://www.dnsfilter.com/)
 
