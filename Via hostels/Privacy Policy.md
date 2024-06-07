@@ -68,20 +68,20 @@ travel • live • work • interact • share • repeat • 
 [fun from day one!](#)
 ----------------------
 
-* [fun from day one!](#tab_66620a3c3b017)
+* [fun from day one!](#tab_6663697dcac41)
     ---------------------------------------
     
-    [We are here to offer more than just accommodation. We are committed to provide you a home away from home, where you can instantly feel like a part of a community of likeminded people. We have events running at the hostel every day of the week, so that you can meet other travellers and have fun from day one!](#tab_66620a3c3b017)
+    [We are here to offer more than just accommodation. We are committed to provide you a home away from home, where you can instantly feel like a part of a community of likeminded people. We have events running at the hostel every day of the week, so that you can meet other travellers and have fun from day one!](#tab_6663697dcac41)
     
-* [fomo no more!](#tab_66620a3c3b025)
+* [fomo no more!](#tab_6663697dcac50)
     -----------------------------------
     
-    [We want you to experience Amsterdam in the best way possible, with no room for fomo. We’re here to give you the coolest tips and recommendations for your visit, from our many local perspectives. Our staff is an amazing mix of true Amsterdammers and international locals who are there for you 24/7.](#tab_66620a3c3b025)
+    [We want you to experience Amsterdam in the best way possible, with no room for fomo. We’re here to give you the coolest tips and recommendations for your visit, from our many local perspectives. Our staff is an amazing mix of true Amsterdammers and international locals who are there for you 24/7.](#tab_6663697dcac50)
     
-* [we’ve got you covered, dude](#tab_66620a3c3b030)
+* [we’ve got you covered, dude](#tab_6663697dcac5d)
     -------------------------------------------------
     
-    [You are part of the international and unique Via family as you check in. Our spaces just boost creativity and they are designed for all kinds of needs; make connections, have fun, eat & drink, join activities, sleep, connect online and offline, make memories, take cool photos… We come from all around the world just like our guests, so we really get you, dude.](#tab_66620a3c3b030)
+    [You are part of the international and unique Via family as you check in. Our spaces just boost creativity and they are designed for all kinds of needs; make connections, have fun, eat & drink, join activities, sleep, connect online and offline, make memories, take cool photos… We come from all around the world just like our guests, so we really get you, dude.](#tab_6663697dcac5d)
     
 
 ##### [view facilities](https://www.viahostels.com/facilities/)
@@ -158,24 +158,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 Cinema room  
 **Give yourself some self-love and kickstart the day with a yoga class with one of the YouTube Yogis! Mats and blocks available by the cinema room.
 
-#### Movie Night
-
-**Monday | 20:00  
-Cinema room**  
-Monday nights and movie are a mood. Vote for a movie on @viaamsterdam Instagram, and we’ll watch the winner tonight on the big screen.
-
-#### ACDC vibe
-
-**Wednesday | 20:00  
-The Dude bar**  
-Grab a drink and hype up before the ACDC concert tonight, we’re here to set the mood for a pre party! Not going? well, luckily you can join the vibe at via 🤘
-
-#### Game Night
-
-**Thursday | 19:00  
-The Dude Bar**  
-It’s play time! Bring your friends or meet a bunch of new ones and spend the evening playing some of the funnest (board) games.
-
 #### Karaoke party
 
 **Friday | 20:00  
@@ -187,6 +169,42 @@ Come rock and sing the night away with our all time favorite karaoke party! Head
 **Saturday | 19:00  
 The Dude bar**  
 The ultimate Saturday night pre-game! Our fresh local DJ Ethos sets the mood for a night of good music & great vibes. Grab a drink and tune in🪩
+
+#### Movie Night
+
+**Monday | 20:00  
+Cinema room**  
+Monday nights and movie are a mood. Vote for a movie on @viaamsterdam Instagram, and we’ll watch the winner tonight on the big screen.
+
+#### Game Night
+
+**Tuesday | 19:00  
+The Dude Bar**  
+It’s play time! Bring your friends or meet a bunch of new ones and spend the evening playing some of the funnest (board) games.
+
+#### Brushes ‘n Brews
+
+**Wednesday | 19:00  
+The Dude bar**  
+Grab a brush and paint your Amsterdam adventures while sipping on your favourite brew. Materials and Bob Ross videos are on us.
+
+#### Boozy bingo
+
+**Thursday | 20:00  
+The Dude Bar**  
+This isn’t your grandma’s bingo. We’ve spiced it up with music rounds, free shots and more. Don’t miss out 😉
+
+#### Euro Cup kickoff
+
+**Friday | 21:00  
+Cinema room**  
+Come cheer for your team in our cinema room tonight! Fun half-time activities and good vibes guaranteed.
+
+#### Beer pong olympics
+
+**Saturday | 20:00  
+The Dude bar**  
+Do you have the skills to become the next beer pong champion of Via? Let’s find out tonight, come and get those balls wet!
 
 Trusted by over 10,000 visitors worldwide
 -----------------------------------------
