@@ -63,7 +63,7 @@ About Us
 * [Apply: Real Estate](https://lafcu.loanproducer.com/User/Home)
 * [Apply: Personal](https://app.loanspq.com/pl/PersonalLoan.aspx?enc=Kw21Wblm1yxpjJabdoZaD6fiIlcQCfshxGII4o1pGb4K7IZT81fAzOYDBsL-GCUl-5KKMduIJnHHBMVztqdjXw)
 
-As of 6-6-24
+As of 6-7-24
 
 Privacy Policy
 ==============
