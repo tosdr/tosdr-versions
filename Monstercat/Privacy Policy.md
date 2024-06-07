@@ -26,6 +26,7 @@ Open Main Menu
     * [Code of Ethics](https://www.monstercat.com/code-of-ethics)
     * [Environmental](https://www.monstercat.com/environmental)
     * [Contact Us](https://www.monstercat.com/contact-us)
+    * [Careers](https://www.monstercat.com/careers)
 * [News](https://www.monstercat.com/news)
 * [Events](https://www.monstercat.com/events)
     * [Monstercat Events Experience](https://www.monstercat.com/events)
