@@ -143,14 +143,14 @@ Finished challenges
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| [![Supermarine Spitfire Mk IX](https://g2.img-dpreview.com/9BA0F2A3FAE24029AF6E51B662EE4B5B.jpg)](https://www.dpreview.com/challenges/Entry.aspx?ID=1247084) | [![Red](https://g2.img-dpreview.com/006F88E2CE204B1DB3D9492DF9A09381.jpg)](https://www.dpreview.com/challenges/Entry.aspx?ID=1247088) | [![grizzly bear cub salutes](https://g2.img-dpreview.com/216DF3B2F25049118185DD30229E951D.jpg)](https://www.dpreview.com/challenges/Entry.aspx?ID=1247133) | [![Zebra Fight](https://g4.img-dpreview.com/8B84E448B11E40CB93E45DE7E668FAAB.jpg)](https://www.dpreview.com/challenges/Entry.aspx?ID=1247008) |
-| Supermarine Spitfire Mk IX by jarud  <br>from Vintage cars or planes | Red by CarlosU  <br>from A Big Year 2024 | grizzly bear cub salutes by summicron  <br>from Baby Animals Unlimited | Zebra Fight by Mark B Willey  <br>from Ready...FIGHT! |
+| [![Endeavor's Last Flight-1](https://g1.img-dpreview.com/11A929494D504E24910D3A9371589E71.jpg)](https://www.dpreview.com/challenges/Entry.aspx?ID=1247320) | [![Supermarine Spitfire Mk IX](https://g2.img-dpreview.com/9BA0F2A3FAE24029AF6E51B662EE4B5B.jpg)](https://www.dpreview.com/challenges/Entry.aspx?ID=1247084) | [![Red](https://g2.img-dpreview.com/006F88E2CE204B1DB3D9492DF9A09381.jpg)](https://www.dpreview.com/challenges/Entry.aspx?ID=1247088) | [![grizzly bear cub salutes](https://g2.img-dpreview.com/216DF3B2F25049118185DD30229E951D.jpg)](https://www.dpreview.com/challenges/Entry.aspx?ID=1247133) |
+| Endeavor's Last Flight-1 by vbuhay  <br>from Exceptional transport/oversized load | Supermarine Spitfire Mk IX by jarud  <br>from Vintage cars or planes | Red by CarlosU  <br>from A Big Year 2024 | grizzly bear cub salutes by summicron  <br>from Baby Animals Unlimited |
 
 [Discover more challenges](https://www.dpreview.com/challenges/) »
 
 Most popular cameras
 
-[Panasonic Lumix DC-S914.1%](https://www.dpreview.com/products/panasonic/slrs/panasonic_dcs9)[Sony a670011.6%](https://www.dpreview.com/products/sony/slrs/sony_a6700)[Panasonic Lumix DC-GH71.8%](https://www.dpreview.com/products/panasonic/slrs/panasonic_dcgh7)[Nikon Zf1.5%](https://www.dpreview.com/products/nikon/slrs/nikon_zf)[Sony a7CR1.3%](https://www.dpreview.com/products/sony/slrs/sony_a7cr)[Fujifilm X100VI1.2%](https://www.dpreview.com/products/fujifilm/slrs/fujifilm_x100vi)[Fujifilm X-T501.2%](https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xt50)[Sony a9 III1.1%](https://www.dpreview.com/products/sony/slrs/sony_a9iii)[Canon EOS R6 Mark II0.9%](https://www.dpreview.com/products/canon/slrs/canon_eosr6ii)[Nikon Z80.9%](https://www.dpreview.com/products/nikon/slrs/nikon_z8)
+[Panasonic Lumix DC-S914.0%](https://www.dpreview.com/products/panasonic/slrs/panasonic_dcs9)[Sony a670010.6%](https://www.dpreview.com/products/sony/slrs/sony_a6700)[Panasonic Lumix DC-GH72.6%](https://www.dpreview.com/products/panasonic/slrs/panasonic_dcgh7)[Nikon Zf1.5%](https://www.dpreview.com/products/nikon/slrs/nikon_zf)[Sony a7CR1.3%](https://www.dpreview.com/products/sony/slrs/sony_a7cr)[Fujifilm X100VI1.2%](https://www.dpreview.com/products/fujifilm/slrs/fujifilm_x100vi)[Canon EOS Rebel SL3 (EOS 250D / EOS Kiss X10)1.2%](https://www.dpreview.com/products/canon/slrs/canon_eos250d)[Fujifilm X-T501.1%](https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xt50)[Sony a9 III1.1%](https://www.dpreview.com/products/sony/slrs/sony_a9iii)[Canon EOS R6 Mark II0.9%](https://www.dpreview.com/products/canon/slrs/canon_eosr6ii)
 
 [Popular interchangable lens cameras](https://www.dpreview.com/products/slrs/statistics) »
 
@@ -164,26 +164,26 @@ Top threads
 
 |     |     |
 | --- | --- |
-| 103 | [\* The Weekly Image Thread 24 06 04 #878 \*](https://www.dpreview.com/forums/post/67743844) |
-| 67  | [Mr. Yamaki, when is the new Foveon camera coming please?](https://www.dpreview.com/forums/post/67744171) |
-| 39  | [R7 no flash onboard pop up what the heck ?](https://www.dpreview.com/forums/post/67743700) |
-| 39  | [Getting off the train now](https://www.dpreview.com/forums/post/67743304) |
-| 32  | [Simpler images](https://www.dpreview.com/forums/post/67744146) |
-| 30  | [Thoughts on a Z 35mm f/1.2?](https://www.dpreview.com/forums/post/67743127) |
-| 27  | [Nikon EVF vs Sony EVF in 2024](https://www.dpreview.com/forums/post/67743712) |
-| 27  | [Official launch of possible GH7](https://www.dpreview.com/forums/post/67745216) |
-| 25  | [New test coming](https://www.dpreview.com/forums/post/67743832) |
-| 25  | [Z50 for every day camera](https://www.dpreview.com/forums/post/67744629) |
-| 23  | [Do you guys really use the Tamron or Samyang 35-150 F2-2.8?](https://www.dpreview.com/forums/post/67744120) |
-| 21  | [Lens hood for M.Zuiko 60mm](https://www.dpreview.com/forums/post/67742932) |
-| 20  | [Help me decide, Pentax 645 or Mamiya 645 lenses for Fuji GFX?](https://www.dpreview.com/forums/post/67743329) |
-| 20  | [Anyone anxiously awaiting the Z50 Mark II?](https://www.dpreview.com/forums/post/67744822) |
+| 91  | [Am I the only one with Z9 high ISO issue?](https://www.dpreview.com/forums/post/67746290) |
+| 75  | [Mr. Yamaki, when is the new Foveon camera coming please?](https://www.dpreview.com/forums/post/67744171) |
+| 46  | [Official launch of possible GH7](https://www.dpreview.com/forums/post/67745216) |
+| 42  | [If your main camera system is MFT: what is the brand of your main camera and main lens or lenses?](https://www.dpreview.com/forums/post/67746776) |
+| 34  | [Simpler images](https://www.dpreview.com/forums/post/67744146) |
+| 31  | [Do you guys really use the Tamron or Samyang 35-150 F2-2.8?](https://www.dpreview.com/forums/post/67744120) |
+| 30  | [Z50 for every day camera](https://www.dpreview.com/forums/post/67744629) |
+| 26  | [Anyone anxiously awaiting the Z50 Mark II?](https://www.dpreview.com/forums/post/67744822) |
+| 23  | [Latest on Nikon ℤ6 III](https://www.dpreview.com/forums/post/67746651) |
+| 22  | [Noob Discovery! In-Camera Sharpening Lies about Lenses!](https://www.dpreview.com/forums/post/67745138) |
+| 21  | [Panasonic Bluetooth remote/App?](https://www.dpreview.com/forums/post/67744300) |
+| 20  | [XF150-600 tripod](https://www.dpreview.com/forums/post/67744161) |
 | 20  | [100-200 1.4 Hoya Close up +2 Helicon Focus Stack](https://www.dpreview.com/forums/post/67745031) |
-| 19  | [Recommend a Lens Hood for Panny 20mm f1.7?](https://www.dpreview.com/forums/post/67743898) |
-| 16  | [A7CR or A7R V?](https://www.dpreview.com/forums/post/67742914) |
-| 16  | [XF150-600 tripod](https://www.dpreview.com/forums/post/67744161) |
+| 20  | [What I'm really liking about the G100D](https://www.dpreview.com/forums/post/67746857) |
+| 20  | [Nikon and Sigma should work together and bring DN lenses to Z-mount?](https://www.dpreview.com/forums/post/67746266) |
+| 18  | [How to access my files remotely?](https://www.dpreview.com/forums/post/67746350) |
+| 18  | [One telephoto lens or two?](https://www.dpreview.com/forums/post/67745879) |
+| 15  | [Auto-ISO settings](https://www.dpreview.com/forums/post/67745513) |
 | 15  | [OMDS “winter rewards” Australia and NZ](https://www.dpreview.com/forums/post/67744198) |
-| 15  | [Macro newbie](https://www.dpreview.com/forums/post/67743941) |
+| 15  | [For squirrel fans only](https://www.dpreview.com/forums/post/67744395) |
 
 [www.dpreview.com](https://www.dpreview.com/ "dpreview.com: Digital Photograhy Review")
 
