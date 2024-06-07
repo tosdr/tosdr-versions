@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/mind-control/fred-burks-en-de-verklaring-van-l/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/politiek/joe-biden-dementerend-president-hoe-lang-nog/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
