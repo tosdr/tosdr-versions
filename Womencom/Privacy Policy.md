@@ -41,58 +41,70 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
+*  [![Beach nails](https://www.women.com/img/gallery/5-beachy-nail-designs-for-the-perfect-summer-2024-mani/intro-1717188794.jpg)](https://www.women.com/1594898/beachy-nail-designs-summer-2024/)
+    
+    [Beauty](https://www.women.com/category/beauty/)
+    
+    [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
+    
+    [5 Beachy Nail Designs For The Perfect Summer 2024 Mani](https://www.women.com/1594898/beachy-nail-designs-summer-2024/)
+    ========================================================================================================================
+    
+    Looking for the perfect vacation nails? Embrace the relaxing vibes of the summer with these beachy manicure ideas.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1594898/beachy-nail-designs-summer-2024/)
+    
+* *  [![age-gap couple](https://www.women.com/img/gallery/is-your-age-gap-affecting-your-sex-life-we-asked-an-expert-how-to-deal/intro-1717419959.jpg)](https://www.women.com/1594459/age-gap-affecting-sex-life/)
+        
+        [Exclusives](https://www.women.com/category/exclusives/)
+        
+        [Exclusives](https://www.women.com/category/exclusives/) By Amanda Chatel
+        
+        ### [Is Your Age Gap Affecting Your Sex Life? We Asked An Expert How To Deal](https://www.women.com/1594459/age-gap-affecting-sex-life/)
+        
+        Couples with a big age gap can face unique challenges, including in the bedroom. A certified sex therapist told Women how age differences can impact sex life.
+        
+        By Amanda Chatel [Read More](https://www.women.com/1594459/age-gap-affecting-sex-life/)
+        
+    *  [![lady gaga](https://www.women.com/img/gallery/taylor-swifts-sharp-defense-of-lady-gaga-amid-pregnancy-rumors-has-everyone-saying-the-same-thing/intro-1717689518.jpg)](https://www.women.com/1597289/taylor-swift-defense-lady-gaga-pregnancy-rumors-everyone-saying-same-thing/)
+        
+        [Wellness](https://www.women.com/category/wellness/)
+        
+        [Wellness](https://www.women.com/category/wellness/) By Amanda Chatel
+        
+        ### [Taylor Swift's Sharp Defense Of Lady Gaga Amid Pregnancy Rumors Has Everyone Saying The Same Thing](https://www.women.com/1597289/taylor-swift-defense-lady-gaga-pregnancy-rumors-everyone-saying-same-thing/)
+        
+        Taylor Swift's takedown of Lady Gaga's body shamers reminds us of how much work we still need to do by way of promoting body neutrality.
+        
+        By Amanda Chatel [Read More](https://www.women.com/1597289/taylor-swift-defense-lady-gaga-pregnancy-rumors-everyone-saying-same-thing/)
+        
+
+More Stories
+------------
+
+*  [![age-gap couple](https://www.women.com/img/gallery/is-your-age-gap-affecting-your-sex-life-we-asked-an-expert-how-to-deal/intro-1717419959.jpg)](https://www.women.com/1594459/age-gap-affecting-sex-life/)
+    
+    [Exclusives](https://www.women.com/category/exclusives/)
+    
+    [Exclusives](https://www.women.com/category/exclusives/) By Amanda Chatel
+    
+    ### [Is Your Age Gap Affecting Your Sex Life? We Asked An Expert How To Deal](https://www.women.com/1594459/age-gap-affecting-sex-life/)
+    
+    Couples with a big age gap can face unique challenges, including in the bedroom. A certified sex therapist told Women how age differences can impact sex life.
+    
+    By Amanda Chatel [Read More](https://www.women.com/1594459/age-gap-affecting-sex-life/)
+    
 *  [![lady gaga](https://www.women.com/img/gallery/taylor-swifts-sharp-defense-of-lady-gaga-amid-pregnancy-rumors-has-everyone-saying-the-same-thing/intro-1717689518.jpg)](https://www.women.com/1597289/taylor-swift-defense-lady-gaga-pregnancy-rumors-everyone-saying-same-thing/)
     
     [Wellness](https://www.women.com/category/wellness/)
     
     [Wellness](https://www.women.com/category/wellness/) By Amanda Chatel
     
-    [Taylor Swift's Sharp Defense Of Lady Gaga Amid Pregnancy Rumors Has Everyone Saying The Same Thing](https://www.women.com/1597289/taylor-swift-defense-lady-gaga-pregnancy-rumors-everyone-saying-same-thing/)
-    ===============================================================================================================================================================================================================
+    ### [Taylor Swift's Sharp Defense Of Lady Gaga Amid Pregnancy Rumors Has Everyone Saying The Same Thing](https://www.women.com/1597289/taylor-swift-defense-lady-gaga-pregnancy-rumors-everyone-saying-same-thing/)
     
     Taylor Swift's takedown of Lady Gaga's body shamers reminds us of how much work we still need to do by way of promoting body neutrality.
     
     By Amanda Chatel [Read More](https://www.women.com/1597289/taylor-swift-defense-lady-gaga-pregnancy-rumors-everyone-saying-same-thing/)
-    
-* *  [![pregnant lesbian couple](https://www.women.com/img/gallery/how-long-after-giving-birth-can-you-have-sex/intro-1717433265.jpg)](https://www.women.com/1594706/how-long-after-giving-birth-can-have-sex/)
-        
-        [Sex](https://www.women.com/category/sex-life/)
-        
-        [Sex](https://www.women.com/category/sex-life/) By Amanda Chatel
-        
-        ### [How Long After Giving Birth Can You Have Sex?](https://www.women.com/1594706/how-long-after-giving-birth-can-have-sex/)
-        
-        Giving birth takes a physical and emotional toll, so how long should you wait before having sex again? If you feel ready, there are a few factors to consider.
-        
-        By Amanda Chatel [Read More](https://www.women.com/1594706/how-long-after-giving-birth-can-have-sex/)
-        
-    *  [![Hailey Bieber with feathered brows](https://www.women.com/img/gallery/natural-feathered-brows-are-going-to-be-your-go-to-look-for-summer-2024/intro-1717444445.jpg)](https://www.women.com/1595840/natural-feathered-brows-summer-2024-trend/)
-        
-        [Beauty](https://www.women.com/category/beauty/)
-        
-        [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
-        
-        ### [Natural Feathered Brows Are Going To Be Your Go-To Look For Summer 2024](https://www.women.com/1595840/natural-feathered-brows-summer-2024-trend/)
-        
-        Summer time is all about embracing no makeup-makeup, and there's no better way to do that than with soft, feathered eyebrows. Learn how to get the look here.
-        
-        By Emily Hutchinson [Read More](https://www.women.com/1595840/natural-feathered-brows-summer-2024-trend/)
-        
-
-More Stories
-------------
-
-*  [![pregnant lesbian couple](https://www.women.com/img/gallery/how-long-after-giving-birth-can-you-have-sex/intro-1717433265.jpg)](https://www.women.com/1594706/how-long-after-giving-birth-can-have-sex/)
-    
-    [Sex](https://www.women.com/category/sex-life/)
-    
-    [Sex](https://www.women.com/category/sex-life/) By Amanda Chatel
-    
-    ### [How Long After Giving Birth Can You Have Sex?](https://www.women.com/1594706/how-long-after-giving-birth-can-have-sex/)
-    
-    Giving birth takes a physical and emotional toll, so how long should you wait before having sex again? If you feel ready, there are a few factors to consider.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1594706/how-long-after-giving-birth-can-have-sex/)
     
 *  [![Hailey Bieber with feathered brows](https://www.women.com/img/gallery/natural-feathered-brows-are-going-to-be-your-go-to-look-for-summer-2024/intro-1717444445.jpg)](https://www.women.com/1595840/natural-feathered-brows-summer-2024-trend/)
     
@@ -105,6 +117,18 @@ More Stories
     Summer time is all about embracing no makeup-makeup, and there's no better way to do that than with soft, feathered eyebrows. Learn how to get the look here.
     
     By Emily Hutchinson [Read More](https://www.women.com/1595840/natural-feathered-brows-summer-2024-trend/)
+    
+*  [![pregnant lesbian couple](https://www.women.com/img/gallery/how-long-after-giving-birth-can-you-have-sex/intro-1717433265.jpg)](https://www.women.com/1594706/how-long-after-giving-birth-can-have-sex/)
+    
+    [Sex](https://www.women.com/category/sex-life/)
+    
+    [Sex](https://www.women.com/category/sex-life/) By Amanda Chatel
+    
+    ### [How Long After Giving Birth Can You Have Sex?](https://www.women.com/1594706/how-long-after-giving-birth-can-have-sex/)
+    
+    Giving birth takes a physical and emotional toll, so how long should you wait before having sex again? If you feel ready, there are a few factors to consider.
+    
+    By Amanda Chatel [Read More](https://www.women.com/1594706/how-long-after-giving-birth-can-have-sex/)
     
 *  [![Zendaya posing](https://www.women.com/img/gallery/zendaya-is-pioneering-the-low-rise-skirt-trend/intro-1717385207.jpg)](https://www.women.com/1594643/zendaya-low-rise-skirt-trend/)
     
@@ -364,7 +388,7 @@ More Stories
     
     [Exclusives](https://www.women.com/category/exclusives/) By Amanda Chatel
     
-    ### [Struggling With Receiving Oral Sex? Try These Expert-Backed Tips For Communicating With Your Partner](https://www.women.com/1586691/struggling-receiving-oral-sex-tips-communicate-partner/)
+    ### [Struggling With Receiving Oral Sex? Our Tips To Communicate With Your Partner](https://www.women.com/1586691/struggling-receiving-oral-sex-tips-communicate-partner/)
     
     For some people, receiving oral sex inspires more dread than pleasure. But, according to our expert, there are ways to make the experience more pleasant.
     
@@ -405,30 +429,6 @@ More Stories
     Need a few extra days with your eBook rental? No problem. This easy Kindle trick extends your library loan. Best of all, it doesn't interrupt the waitlist.
     
     By Emily Hutchinson [Read More](https://www.women.com/1586466/kindle-hack-extends-ebook-library-loans-without-holding-up-wait-time/)
-    
-*  [![woman putting oil in hand](https://www.women.com/img/gallery/can-cuticle-oil-help-your-nails-grow-heres-what-to-know/intro-1715786345.jpg)](https://www.women.com/1582825/can-cuticle-oil-help-nails-grow/)
-    
-    [Exclusives](https://www.women.com/category/exclusives/)
-    
-    [Exclusives](https://www.women.com/category/exclusives/) By Amanda Chatel
-    
-    ### [Can Cuticle Oil Actually Help Your Nails Grow? We Asked A Dermatologist To Find Out](https://www.women.com/1582825/can-cuticle-oil-help-nails-grow/)
-    
-    Cuticle oil is said to have many benefits, but does it help your nails grow? An expert dermatologist tells Women what you can expect from regular use.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1582825/can-cuticle-oil-help-nails-grow/)
-    
-*  [![martha stewart at SI ](https://www.women.com/img/gallery/x-trends-martha-stewart-proved-women-at-any-age-can-rock/intro-1715878705.jpg)](https://www.women.com/1583694/trends-martha-stewart-proved-woman-any-age-can-rock/)
-    
-    [Fashion](https://www.women.com/category/fashion/)
-    
-    [Fashion](https://www.women.com/category/fashion/) By Amanda Chatel
-    
-    ### [5 Trends Martha Stewart Proved Women At Any Age Can Rock](https://www.women.com/1583694/trends-martha-stewart-proved-woman-any-age-can-rock/)
-    
-    Martha Stewart has proved time and time again there is no age limit when it comes to fashion. Here are some fashion trends she's pulled off well into her 80s.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1583694/trends-martha-stewart-proved-woman-any-age-can-rock/)
     
 
 Back
