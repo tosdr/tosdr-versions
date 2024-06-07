@@ -30,127 +30,218 @@ Menu
 
 [Become a Customer](https://gfs.com/become-a-customer/)
 
-Delivering Culinary Excellence
-==============================
+Privacy Policy
+==============
 
-Serving our customers, employees, and communities.
+_Updated on: 5/1/24_
 
-[Become a Customer](https://gfs.com/become-a-customer/)
+Welcome to the Privacy Policy for our website operated by Gordon Food Service, Inc. and its related [entities](#entities) (collectively, “GFS”, “our”, “we” or “us”). GFS is committed to respecting and protecting the privacy of our website users, customers, and other individuals who interact with us (“User”, “you”, or “your”). The purpose of this Privacy Policy is to inform you how we collect, use, disclose, and protect your personal information in connection with your use of https://www.gfs.com and its related domains, platforms, social media channels, software application, mobile application, services, information, web postings, products and tools (collectively, “Website” or “Service(s)”), including any of the websites where this Privacy Policy appears (each a “Platform”). When we use the term “personal information”, it means any information about an identifiable individual. 
 
-[Shop Our Stores](https://gfsstore.com/)
+This Privacy Policy governs your use of the Website and Services. This Privacy Policy also governs how GFS and its related [entities](https://gfs.com/en-us/privacy-policy/#entities) collect, use, and disclose personal information. You can read more about how GFS uses automated data collection mechanisms to collect, use, and disclose personal information by reading our policy on [Cookies and Similar Technologies](https://gfs.com/en-us/gfs-cookies-policy/) (“Cookie Policy) or by accessing our [Privacy Center](https://gfs.com/en-us/your-privacy-choices/). By accessing or using any of our Platforms, or otherwise providing us personal information, you agree with the terms of this Privacy Policy, including our Cookie Policy, as it may be modified from time to time and consent to the collection, use and disclosure of personal information in accordance with the terms of this Privacy Policy.
 
-[Turn Up the Heat With Trade East](https://gfs.com/en-us/products/brands/trade-east-spices-seasonings/#melindas-liquid-spice)
+You also agree to the Website [Terms of Use Agreement](https://gfs.com/en-us/terms-of-use-agreement/) governing the Website and Service. If you do not agree to the Privacy Policy and Terms of Use, you are not authorized to use the Website and Services. As our business evolves, this Privacy Policy may change, so check back to this page periodically to make sure you understand how your personal information will be treated.
 
-[Manage Your Inventory](https://gfs.com/business/gordon-inventory/)
+If you have a question or concern about how GFS processes your personal information, please submit an inquiry to [privacy@gfs.com](mailto:privacy@gfs.com) or [submit a data subject access or rights request here](https://gfs.com/en-us/your-privacy-choices/).
 
-[Explore Career Opportunities](https://gfs.com/careers/)
+For more information about how we are processing your personal information, click on the sections below:
 
-[Discover Trends & Ideas](https://gfs.com/inspired/trends-ideas/)
+###### Important Information About Us and Our Platforms
 
-Delivering The Brands You Love
-------------------------------
+For 125 years, we’ve delivered the excellence, expertise, and quality products our customers need to design successful food operations and experiences. We’ve grown to become the largest family-operated broad-line food distribution company in North America by upholding the same business approach since 1897—being passionately committed to the people we serve.
 
-Your customers know what they like: high-quality brands that keep them coming back for more. Our signature brands ensure that you’re putting the best food on your tables.
+We know that having access to tools that can do everything you need in one place can make a huge impact. That is why we have developed various tools and platforms for you. GFS consists of the following related entities and platforms in the United States, including Gordon Food Service, Inc., [Gordon Food Service Store LLC](https://gfsstore.com/), [Relish Works, Inc.](https://www.relishworks.com/), [Back of House, LLC](https://backofhouse.io/), and [Halperns’](https://www.halperns.com/). By using our various Platforms, including without limitation Supplier Central, Inventory Manager (website, mobile), [Gordon Cycle Menu Management](https://gfs.com/en-us/business/gordon-cycle-menu-management/), [Gordon Go Rewards](https://gfsstore.com/gordon-go/), [Gordon NOW](https://gordonnow.com/) (website, mobile app, chat, voice assistant), [Gordon Ordering](https://gfs.com/en-us/business/gordon-ordering/), [Measur’d.biz](https://measurd.biz/), [Gordon Culinary Pro](https://gfs.com/en-us/business/gordon-culinary-pro/), [Gordon Restaurant Pro](https://gfs.com/business/gordon-restaurant-pro/), and other websites and services GFS may add from time to time. You may opt-out of these communications by following the unsubscribe link contained in the communications from these services. These Platforms and websites may also have their own Privacy Policies and Terms of Use that govern your use of those Platforms and websites. 
 
-[Learn More About Our Brands](https://gfs.com/products/brands/)
+If you are attempting to access the Canadian website for Gordon Food Service, click [here](https://gfs.ca/en-ca/).
 
-Play Video
+##### The Personal Information We Collect and How We Use It
 
-The Team Behind  
-Great Meals
------------------------------
+The personal information we collect from you is comprised of the information you provide to us and information provided to us through our service providers, cookies, pixels, web beacons, and other automated data collection mechanisms.
 
-Respect. Responsibility. Reliability. That’s what you deserve. That’s what we deliver.
+To website visitors under the age of 18, our Platforms are intended to be used by customers and potential customers of GFS. The Platforms are available for anyone to view, but please do not submit any personal information if you are not 18 years of age or older.
 
-At Gordon Food Service, we believe that great meals create great memories. We stand behind the teams delivering great meals everyday. That’s why we’re with you at every step. From delivering great products to solving the turbulence of the supply chain, you have a team that helps you continue to succeed, evolve, and grow.
+We may collect and use personal information from you as follows:
 
-[See how our values support your business](https://gfs.com/about-us/)
+| How & What We Collect | How We Use It |
+| --- | --- |
+| **Registering an Account:**When you register an account on one of our Platforms, we will collect your name, address, telephone number, e-mail address and the password you create. | We use this information to allow you to log-in to the Platform, which provides you access to certain features and functionalities, such as placing orders, viewing your order history and making payments. Once you register for a Platform we will provide your contact information to someone in our customer relations department who will log it in our client-relationship management (“CRM”) systems and will follow up with you about our products and services. We may use this information to send you information about our products and services unless you unsubscribe from such communications. In addition, we may also use this information to enhance and personalize your experience on our Platforms, for example, by storing your email so you can log in easily, keeping you logged onto the Platform after you have provided your password. |
+| **Online Purchases:** When you make a purchase on or through a Platform we will collect your name, shipping address, telephone number, email address and payment card information, including credit card number, expiration date, and security code. | We use this information to process your order, ship the product you purchased to you and communicate with you about your purchase. In addition, we may use this information to send you information about our products and services unless you unsubscribe from such communications. Please note that when you provide payment information to us, we may or may not collect that information directly. When we collect your payment information directly, we only use such information to process your payment and otherwise in compliance with all PCI-DSS requirements. Where we have engaged a third-party payment processor to process payments on our behalf, which includes all purchases made through a Platform, your payment information is sent directly to our third-party payment processor who will only use such information for the purpose of processing your payment. |
+| **Credit Applications:** GFS offers direct financing to businesses. If you elect to apply for financing for your business we will collect certain information from you about your business which may include personal information, particularly if your business is a sole proprietorship. Such information may include your name, address, telephone number, email, banking details and driver’s license number As part of the credit application you will be required to expressly consent to us conducting a credit check which may result in our collection of additional personal information about your creditworthiness. Please note that this may result in a hard inquiry on your credit report which may have a temporary negative impact to your credit score. You have the option of providing us your Social Security Number (SSN) as part of your credit application. The provision of your SSN is completely optional and will be used for identity verification. | We use this information to confirm your identity, assess your credit application and, if your application is approved, administer your credit arrangement, which may include communicating with you about your credit arrangement and withdrawing payments from the designated account. |
+| **Support and Customer Service:**If you call us, email us, or chat with us, we may collect your name, email address, and any other personal information you provide us to assist you. | We will use this information to assist you and respond to your inquiries, requests, and other customer service related activities. |
+| **Newsletters and marketing:** If you subscribe to our newsletters or marketing communications, subscribe to our text messaging service, or interact with our chatbots, we will collect your email address or other contact information. If you receive marketing materials directly from us, such as brochures, with your permission we will collect your name, email address, location, IP address, and track details related to your access and viewing of the materials, including the date and time you accessed the materials and the time spent viewing such materials. | We will use this information for the purpose of sending you our newsletter or marketing in accordance with the consent you provided and updating your customer profile. We track your time spent accessing the marketing materials we send to you to better understand your interests and preferences with respect to our products and services. Please note you may control this tracking and your privacy settings by clicking “My Privacy Settings” and you may unsubscribe from receiving marketing communications at any time. |
+| **Applicants for Employment:** If you are applying for employment with us we will collect certain personal information from you as part of the application process including your name, address, email address, and any information provided on your cover letter, resume or through the assessment and interview process. | **Applicants for Employment:** If you are applying for employment with us we will collect certain personal information from you as part of the application process including your name, address, email address, and any information provided on your cover letter, resume or through the assessment and interview process. |
+| **Employee Timekeeping:** As an employee or contractor of GFS, you may be asked to provide a scan of your finger or face by our timekeeping devices so that our service provider [UKG](https://www.ukg.com/) and its sub processors may process your biometric information (i.e., your finger scans and/or face scans) in connection with employee and contractor timekeeping, for example, punching in and out for work. | We use this information for employee and contractor onboarding, scheduling, punching in and out, building access, time clocks, accuracy in recording time entries, scheduling, security, and safety. Please click here for a [Summary of our Biometric Privacy Policy](https://docs.google.com/document/d/1bKHrcqNaaHY3nj7s9eMQiVDwxueDiR-GQzMSXYrWgsc/edit?usp=sharing) and click here to review our entire [Biometric Privacy Policy](https://gfs.com/wp-content/uploads/2023/11/IT038-Biometrics-Privacy-Retention-and-Destruction-Policy-1.pdf). |
 
-High-Tech & High-Touch Partner From End to End
-----------------------------------------------
+How & What We Collect
+---------------------
 
-Tools designed to make managing your business easier, and team members to help you from truck to table.
+**Registering an Account:**When you register an account on one of our Platforms, we will collect your name, address, telephone number, e-mail address and the password you create.
 
-![Bowtie pasta noodles with tomatoes and peas in a bowl](https://gfs.com/wp-content/uploads/2022/07/BG-bowtie-pasta-900x900-1.png)
+How We Use It
+-------------
 
-[Gordon Restaurant Pro](https://gfs.com/business/gordon-restaurant-pro/)
-------------------------------------------------------------------------
+We use this information to allow you to log-in to the Platform, which provides you access to certain features and functionalities, such as placing orders, viewing your order history and making payments. Once you register for a Platform we will provide your contact information to someone in our customer relations department who will log it in our client-relationship management (“CRM”) systems and will follow up with you about our products and services. We may use this information to send you information about our products and services unless you unsubscribe from such communications. In addition, we may also use this information to enhance and personalize your experience on our Platforms, for example, by storing your email so you can log in easily, keeping you logged onto the Platform after you have provided your password.
 
-Your all-in-one restaurant management tool. Track labor cost, food costs, manage inventory and more.
+How & What We Collect
+---------------------
 
-[Learn More](https://gfs.com/business/gordon-restaurant-pro/)
+**Online Purchases:** When you make a purchase on or through a Platform we will collect your name, shipping address, telephone number, email address and payment card information, including credit card number, expiration date, and security code.
 
-[Gordon Culinary Pro](https://gfs.com/business/gordon-culinary-pro/)
---------------------------------------------------------------------
+How We Use It
+-------------
 
-The recipe tool designed by Chefs, for Chefs. Manage your recipes, train efficiently, reduce food waste and more.
+We use this information to process your order, ship the product you purchased to you and communicate with you about your purchase. In addition, we may use this information to send you information about our products and services unless you unsubscribe from such communications. Please note that when you provide payment information to us, we may or may not collect that information directly. When we collect your payment information directly, we only use such information to process your payment and otherwise in compliance with all PCI-DSS requirements. Where we have engaged a third-party payment processor to process payments on our behalf, which includes all purchases made through a Platform, your payment information is sent directly to our third-party payment processor who will only use such information for the purpose of processing your payment.
 
-[Learn More](https://gfs.com/business/gordon-culinary-pro/)
+How & What We Collect
+---------------------
 
-[Gordon Now App](https://gfs.com/business/gordon-now-app/)
-----------------------------------------------------------
+**Credit Applications:** GFS offers direct financing to businesses. If you elect to apply for financing for your business we will collect certain information from you about your business which may include personal information, particularly if your business is a sole proprietorship. Such information may include your name, address, telephone number, email, banking details and driver’s license number As part of the credit application you will be required to expressly consent to us conducting a credit check which may result in our collection of additional personal information about your creditworthiness. Please note that this may result in a hard inquiry on your credit report which may have a temporary negative impact to your credit score. You have the option of providing us your Social Security Number (SSN) as part of your credit application. The provision of your SSN is completely optional and will be used for identity verification.
 
-With Gordon Now tools, you are able to manage your business whenever, wherever, and however you want.
+How We Use It
+-------------
 
-[Learn More](https://gfs.com/business/gordon-now-app/)
+We use this information to confirm your identity, assess your credit application and, if your application is approved, administer your credit arrangement, which may include communicating with you about your credit arrangement and withdrawing payments from the designated account.
 
-Grow Your Business
-------------------
+How & What We Collect
+---------------------
 
-Consumer demands keep evolving. Our business services help you stay ahead of a changing industry.
+**Support and Customer Service:** If you call us, email us, or chat with us, we may collect your name, email address, and any other personal information you provide us to assist you.
 
-[](https://gfs.com/our-markets/restaurants/)
+How We Use It
+-------------
 
-### [Restaurants](https://gfs.com/our-markets/restaurants/)
+We will use this information to assist you and respond to your inquiries, requests, and other customer service related activities.
 
-Products and tools to help restaurants deal with tight margins and changing demands.
+How & What We Collect
+---------------------
 
-[](https://gfs.com/our-markets/education/)
+**Newsletters and marketing:** If you subscribe to our newsletters or marketing communications, subscribe to our text messaging service, or interact with our chatbots, we will collect your email address or other contact information. If you receive marketing materials directly from us, such as brochures, with your permission we will collect your name, email address, location, IP address, and track details related to your access and viewing of the materials, including the date and time you accessed the materials and the time spent viewing such materials.
 
-### [Education](https://gfs.com/our-markets/education/)
+How We Use It
+-------------
 
-Broad selection and sustainable choices for changing consumer needs.
+We will use this information for the purpose of sending you our newsletter or marketing in accordance with the consent you provided and updating your customer profile. We track your time spent accessing the marketing materials we send to you to better understand your interests and preferences with respect to our products and services. Please note you may control this tracking and your privacy settings by clicking “My Privacy Settings” and you may unsubscribe from receiving marketing communications at any time.
 
-[](https://gfs.com/our-markets/healthcare/)
+How & What We Collect
+---------------------
 
-### [Healthcare](https://gfs.com/our-markets/healthcare/)
+**Applicants for Employment:** If you are applying for employment with us we will collect certain personal information from you as part of the application process including your name, address, email address, and any information provided on your cover letter, resume or through the assessment and interview process.
 
-Great food and regulatory expertise to cut through red tape and get to the table.
+How We Use It
+-------------
 
-![Gordon Ordering website on laptop](https://gfs.com/wp-content/uploads/2022/07/5050-app-laptop-900x600-1.png)
+We use this information only for the purpose of assessing suitability for employment at GFS. If you are hired by GFS, any personal information collected as part of your employment will be subject to GFS’s Employee Privacy Policy.
 
-[![Photo by gordonfoodservice](https://scontent-iad3-1.cdninstagram.com/v/t51.29350-15/447188027_825846922777528_2162077083190927031_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=18de74&_nc_ohc=0ZzdRhHBEYoQ7kNvgE7vSOQ&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AYBm10oC3z92atFFWlPXUgXQTQaM2kDnb1y1XF_YFCXGeg&oe=666773B6)](https://www.instagram.com/reel/C7uvEiBsmh-/)[![Photo by gordonfoodservice](https://scontent-iad3-2.cdninstagram.com/v/t51.2885-15/447439563_1511050719845322_2765187192099631548_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=18de74&_nc_ohc=_QqBm7CUstMQ7kNvgHHx4dx&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AYBnWjsxFwMosVv2_4ehG-cjzisOv8TJJFZwzeRNeHk52Q&oe=66678C27)](https://www.instagram.com/p/C7rl_ZiMxWO/)[![Photo by gordonfoodservice](https://scontent-iad3-2.cdninstagram.com/v/t51.29350-15/447168655_826935055964086_8798006800850620381_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=18de74&_nc_ohc=rK3kCdcmnycQ7kNvgFf99Iy&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AYDVoIjRNl9SF-w9WI7zwqind1SXYX4fh5nbR9dVd6OW6A&oe=66677ED5)](https://www.instagram.com/reel/C7mYGAlhrKI/)[![Photo by gordonfoodservice](https://scontent-iad3-1.cdninstagram.com/v/t51.29350-15/446346345_478106007914583_8949846443342192042_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=18de74&_nc_ohc=s__zdNA-18oQ7kNvgEhOcGv&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AYD97RZDq4qXWjS1APpNM7txcqnBiv6fDrUKbXkm4uItWQ&oe=666785C5)](https://www.instagram.com/reel/C7hXPfJK3zz/)[![Photo by gordonfoodservice](https://scontent-iad3-2.cdninstagram.com/v/t51.29350-15/446196768_1022498962774615_5196399679031152891_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=18de74&_nc_ohc=sxfFkjEG7WUQ7kNvgGgxdxi&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AYCtpVnNAJvEpEMgDZBaj8zaalZFDXcs93DmGK3VOncb2g&oe=66678529)](https://www.instagram.com/reel/C7Zir_pNlj6/)[![Photo by gordonfoodservice](https://scontent-iad3-1.cdninstagram.com/v/t51.29350-15/445985193_423741593762824_1573748956419328482_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=18de74&_nc_ohc=os0lKRpNSqoQ7kNvgF4dPg8&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AYDfrRCnxJ_76KIqPlW01peANGx-3gwGnYjRtLblz6-dGg&oe=666760C3)](https://www.instagram.com/reel/C7UUGNeucI5/)[![Photo by gordonfoodservice](https://scontent-iad3-1.cdninstagram.com/v/t51.2885-15/445961996_1396199511051872_9148287407003839303_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=18de74&_nc_ohc=kzihFz9NVrgQ7kNvgEFHScn&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AYAHsLwRxgYZrlpTtptZFfS9Jn_T_iZh59Nw3SaFkJ5ojA&oe=666789A0)](https://www.instagram.com/p/C7SDF1opnGN/)[![Photo by gordonfoodservice](https://scontent-iad3-2.cdninstagram.com/v/t51.29350-15/445929960_800057642090985_173878358850499845_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=18de74&_nc_ohc=IHoJE4juUGEQ7kNvgGmzkZ2&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AYDOdCp2DR3yQ0yflhAG1fbovhXrTHMzSJhIo_QVh1g-BA&oe=66676E0E)](https://www.instagram.com/reel/C7PN_mThhxn/)[![Photo by gordonfoodservice](https://scontent-iad3-2.cdninstagram.com/v/t51.29350-15/445365269_967469551702289_8813829546922257048_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=18de74&_nc_ohc=NugvAa0jnAQQ7kNvgFh2weo&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AYCx-a0W-PhmfKFqJiXLeiz2h0eP1ZNeKWQYij5jsnWjvw&oe=66677DE7)](https://www.instagram.com/reel/C7HjDJ5Anaj/)[![Photo by gordonfoodservice](https://scontent-iad3-2.cdninstagram.com/v/t51.29350-15/443698702_6922045991230209_1855137936375400162_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=18de74&_nc_ohc=xjU9E8ARvygQ7kNvgGOblyW&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AYDAeaFfrtLfbnTU8FyrJZ3PvAF9WswGOpP-fjVFhCIPHA&oe=66677CDD)](https://www.instagram.com/reel/C7E49H5gfJf/)[![Photo by gordonfoodservice](https://scontent-iad3-2.cdninstagram.com/v/t51.29350-15/442686308_2652562668258835_7138541453890369775_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=18de74&_nc_ohc=WDOGPXFYKkwQ7kNvgFMPU91&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AYA6qbjzoZWGbJPPl2Ojsrd3H2CxDqODD-p6pyHW7OzlDg&oe=66676020)](https://www.instagram.com/reel/C7ABFW0tGF1/)[![Photo by gordonfoodservice](https://scontent-iad3-2.cdninstagram.com/v/t51.29350-15/436344182_936928321506555_6153963467785323765_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=18de74&_nc_ohc=VFYNAB_gELAQ7kNvgHa3S-P&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AYAwpFlUceL87kwH6fqAoxtbLWsvA0TiTerEjlZjm8u_sQ&oe=666763D9)](https://www.instagram.com/reel/C61fggoIzWM/)[![Photo by gordonfoodservice](https://scontent-iad3-1.cdninstagram.com/v/t51.29350-15/436344182_1115750176206199_2413198961550196833_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=18de74&_nc_ohc=tTpmLCnFfRgQ7kNvgH-4R8F&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AYD5q3zENJSd5yuIUTQjcvoiw-PNnHRgYQ751oVOa1mNjw&oe=666772B0)](https://www.instagram.com/reel/C6uYaEWLCNn/)[![Photo by gordonfoodservice](https://scontent-iad3-2.cdninstagram.com/v/t51.29350-15/442233193_839698404856574_7999323900985864331_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=18de74&_nc_ohc=GdjBuCch1sEQ7kNvgGxfgA1&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AYBnhq9qbBGUMqRJvrAG4PM3Exg7e-NqfdAe5ZuIQGXcHw&oe=6667977E)](https://www.instagram.com/reel/C6pS7fssDZ_/)[![Photo by gordonfoodservice](https://scontent-iad3-2.cdninstagram.com/v/t51.2885-15/441374600_1135963294391383_5622259898034850678_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=18de74&_nc_ohc=QIMNo7DxJ18Q7kNvgHGsqQV&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AYBKc7EYwSApJNTrYZVNBXnTkastE6TDhmcaO-JxFzEQYw&oe=66676DB2)](https://www.instagram.com/p/C6hQdUQsSyN/)
+How & What We Collect
+---------------------
 
-Every Dish Tells a Savory Story
--------------------------------
+**Employee Timekeeping:** As an employee or contractor of GFS, you may be asked to provide a scan of your finger or face by our timekeeping devices so that our service provider [UKG](https://www.ukg.com/) and its sub processors may process your biometric information (i.e., your finger scans and/or face scans) in connection with employee and contractor timekeeping, for example, punching in and out for work.
 
-Follow our journey as we continue to grow in the foodservice industry.
+How We Use It
+-------------
 
-[Instagram](https://www.instagram.com/gordonfoodservice/) [Facebook-f](https://www.facebook.com/GordonFoodService) [Youtube](https://www.youtube.com/@GFSDelivers) [Linkedin-in](https://www.linkedin.com/company/gordon-food-service)
+We use this information for employee and contractor onboarding, scheduling, punching in and out, building access, time clocks, accuracy in recording time entries, scheduling, security, and safety. Please click here for a [Summary of our Biometric Privacy Policy](https://docs.google.com/document/d/1bKHrcqNaaHY3nj7s9eMQiVDwxueDiR-GQzMSXYrWgsc/edit?usp=sharing) and click here to review our entire [Biometric Privacy Policy](https://gfs.com/wp-content/uploads/2023/11/IT038-Biometrics-Privacy-Retention-and-Destruction-Policy-1.pdf).
 
-Food for Thought
-----------------
+##### How We Disclose Your Personal Information
 
-Thought Leadership To Feed Your Business Needs
+We will not disclose any personal information we collect from you to any third parties except as follows: 
 
-[Food Safety: The Impact of Cooking Techniques](https://gfs.com/en-us/ideas/food-safety-the-impact-of-cooking-techniques/)
+1. Our Affiliates. We may disclose your personal information to any of our affiliates within the Gordon Food Services corporate group to the extent that these affiliates require such personal information and only employees or service providers of these affiliates which require such personal information to perform their duties will have access to it. 
+2. Service Providers. We may disclose your personal information to our service providers who perform certain services necessary to run our business (for example, data hosting, CRM providers and payment processors) to the extent that they require such personal information to perform their duties. 
+3. When Reasonably Required. We may disclose your personal information when we believe in good faith that disclosure is necessary to protect our rights or property, protect your safety or the safety of others, investigate fraud or respond to a government, judicial or other legal request, or to comply with the law.
+4. Corporate Circumstances. We may disclose your personal information in connection with a corporate change or dissolution, including for example a merger, acquisition, reorganization, consolidation, bankruptcy, liquidation, sale of assets or wind down of business.
 
-Celebrate World Food Safety Day on June 7th! Discover simple kitchen practices and cooking methods to prevent foodborne illnesses and ensure safe, healthy meals.
+##### Use of Cookies and Tracking Technologies
 
-[Lean Thinking – Get More From Your Team With Small Changes](https://gfs.com/en-us/ideas/lean-thinking-get-more-from-your-team-with-small-changes/)
+As is commonly done on websites, we may use automated data collections mechanisms (“Cookies”) such as cookies, pixels, and web beacons to keep track of our customers and the Services they have elected. Our collection of data through the use of Cookies helps us to improve and market our Services and provide you with an enhanced user experience. We have partnered with select third parties that also place these tools on our Website to collect and process information about our users for various purposes, including for security, for analytics, and to facilitate targeted advertising.
 
-When you optimize workflow, it saves time and money while achieving peak performance from your foodservice operation.
+More information about our use of Cookies is available in our [Cookies and Similar Technologies Policy](https://gfs.com/en-us/gfs-cookies-policy/), which is a component of this Privacy Policy. To manage your experience with our Cookies, please click on “![](https://gfs.com/wp-content/uploads/2024/05/Privacy-Policy-Button-RED.png)Your Privacy Choices” to visit our [Privacy Center](https://gfs.com/en-us/your-privacy-choices/). To review the Cookies we use, please visit the Privacy Center’s “Preferences” tab, click the type of Cookies you would like to view, then click the “Cookies” link. You may also be able to adjust your Cookie settings via your browser or your device. Please note that limiting GFS’s ability to set Cookies may degrade your overall user experience, because the Services may no longer be personalized to you, you may not be able to save customized settings like login information, and the Website and Services may not function as intended.
 
-[Using “Lean Thinking” to Boost Efficiency and Reduce Waste in K-12 Nutrition Programs](https://gfs.com/en-us/ideas/using-lean-thinking-to-boost-efficiency-and-reduce-waste-in-k-12-nutrition-programs/)
+##### Transfers of Your Personal Information Outside of Your Jurisdiction
 
-Adopt lean thinking in K-12 food service to boost team efficiency, reduce waste, and streamline workflows. Empower your staff for a more productive school nutrition program.
+We are headquartered in the United States. Please be aware that information you provide to us or that we obtain as a result of your use of our Platforms may be collected in your country and subsequently transferred to, maintained and processed in the United States by us or our service providers for the purposes mentioned above in accordance with applicable law. The privacy laws of the United States may not always offer the same level of protection as in your country. While such information is outside of your jurisdiction of residence, it is subject to the laws of the jurisdiction in which it is held, and may be subject to disclosure to the governments, courts or law enforcement or regulatory agencies of such other jurisdictions, pursuant to local laws. By using our Platforms, you consent to the collection, international transfer, storage, and processing of your information. If you would like more information about such transfer, maintenance, or processing of your data, please contact our Privacy Officer at [privacy@gfs.com](mailto:privacy@gfs.com).
 
-Food Comes First
-----------------
+##### Withdrawing Your Consent to Our Processing
+
+Except for personal information which is required to be retained by law or which is needed to process a purchase, exchange or return, individuals may withdraw consent to all or part of the collection, use and disclosure of their personal information at any time by giving us reasonable notice. If you would prefer that we not collect, use, or disclose your personal information, or that we not use your personal information to contact you to promote our products or services, please contact us. We will act on your instructions as quickly as possible subject to contractual and legal restrictions, but there may be certain uses of your information that we may not be able to stop immediately. Please be advised that withdrawal of consent may make it impossible for us to provide certain services to you.
+
+##### How We Protect Your Data
+
+At GFS we take the protection of your personal information seriously. We make every reasonable effort to prevent unauthorized use, disclosure, loss or theft of your personal information. Employees who have access to your personal information are made aware of the importance of keeping it confidential. 
+
+Where we use service providers who might have access to your personal information, we select them carefully and require them to have privacy and security standards that are comparable to ours. We use contracts and other measures with our service providers to ensure that they maintain the confidentiality and security of your personal information and to prevent such information from being used for any other purpose.
+
+Please be aware that no data security measures can guarantee complete security. You should also take steps to protect against unauthorized access to your password, phone, and computer by, among other things, signing off after using a shared computer, choosing a robust password that nobody else knows or can easily guess and keeping your log-in and password private. If you do not want GFS to know any particular information about you, you should not include that information in anything you submit or post to the Platforms.
+
+##### Retention of Your Data
+
+We will only retain your personal information as long as is necessary for the fulfillment of the purposes for which it was collected or as required by law. Your personal information is securely stored until such time as it is no longer required, after which it is destroyed or rendered such that it is unable to identify you.
+
+##### Web Accessibility Statement
+
+We are committed to making the Website’s content accessible and user friendly to everyone. If you are having difficulty viewing or navigating the content on this website, or notice any content, feature, or functionality that you believe is not fully accessible to people with disabilities, please call us at (800) 968–4164 or email us at privacy@gfs.com with “Assist with Access” in the subject line and provide a description of the specific feature you feel is not fully accessible or a suggestion for improvement.
+
+##### Links to Third-Party Websites
+
+This Platform may contain links to other websites not affiliated with GFS. Also, you may have come to this Platform from a website that is not operated by GFS. We are not responsible for the operation of these other sites or the information that they collect from their visitors. If you’d like to know how another site collects and uses your information, please review its privacy policy.
+
+##### Text and Short Messaging Service (SMS Service)
+
+To sign up for our SMS or text and short messaging service and related marketing (“SMS Service”), you must provide us with your personal and other information, including your First Name, Restaurant Name, Mobile Phone Number, and Email Address. We use a third-party service provider to provide the SMS Service and your information involved in your use of the SMS Service will be shared with that provider, but not with other third parties. Through the use of the SMS Service, we will also receive the following information from our third-party service provider: the text of the messages you send, any user or screen name that you select in connection with the SMS Service, as well as any comments or feedback regarding the SMS Service that you send to us. By clicking “I agree to receive texts with the latest restaurant industry news and trends,” you are consenting to Gordon Food Service’s website Terms of Service and this Privacy Policy with respect to your information and data, and you consent to receive recurring text notifications, automated and manual text messages in response to your text messages, text marketing offers, and transactional texts, even if your mobile number is registered on any state or federal do-not-call list. Your consent to the SMS Service is not a condition of purchase of any goods or services. 
+
+For marketing SMS Services:
+
+* If you wish to sign up to receive our text message marketing campaigns, text“SIGNUP” to 43529. 
+* If you wish to opt-out or unsubscribe from the SMS Service, reply with “STOP”to any mobile message sent from us or use the unsubscribe link we provided you within any of our messages. You understand and agree that alternative methods of opting out, such as using alternative words or requests, will not be an effective means of opting out. 
+* For any questions, please text HELP to 43529 or the number you received the messages from. 
+
+For “Gordon NOW” ETA SMS Services: 
+
+* If you wish to sign up to receive our text message marketing campaigns, text “OPTIN” to 35171. 
+* If you wish to opt-out or unsubscribe from the SMS Service, reply with “STOP”to any mobile message sent from us or use the unsubscribe link we provided you within any of our messages. You understand and agree that alternative methods of opting out, such as using alternative words or requests, will not be an effective means of opting out. 
+* For any questions, please text HELP to 35171 or the number you received the messages from. 
+
+We do not charge for the SMS Service, but you are responsible for all charges and fees associated with text messaging imposed by your wireless provider. The SMS Service may not be available on certain wireless providers. Message frequency varies. Message and data rates may apply. You can also contact us at privacy@gfs.com for more information.
+
+##### Blogs and Other Social Networking Mediums
+
+If you use the blog feature on a Platform or if you communicate with us through any other social networking forum (for example, Twitter or Facebook), you should be aware that any personal information you submit through comments or posts to the blog or other social networking forum can be read, collected, or otherwise used by anyone with access to the forum or who visits the URL of the web page on which the post or comment is posted. We are not responsible for non-GFS use of this information.
+
+##### Exercising Your Privacy Rights
+
+Under certain circumstances, you have rights under data protection laws in relation to your personal information. Your employees, contractors, and/or agents may have similar rights. There may be situations where GFS cannot grant a request, for example to complete a transaction to you or comply with law. 
+
+GFS does not sell or share the personal information of consumers, as those terms are defined under privacy laws, and does not discriminate in response to privacy rights requests. GFS also does not use or disclose sensitive personal information for any purposes that would require a user to exercise a right to limit under privacy laws.
+
+* You have the right to request access to your personal information that GFS collects, uses, shares, or discloses to third parties.
+* You have the right to request the deletion of your personal information that GFS collects about you.
+* You have the right to correct inaccurate personal information that GFS has collected about you.
+* You have the right to opt-out of the selling or sharing of your personal information to third parties.
+* You have the right to opt-out of automated decision making including profiling against any information GFS has collected about you.
+* You have the right to appeal (i.e., ask us to reconsider) our initial response to your request should GFS be unable to take action on your Privacy Request.
+* Right to withdraw consent to us processing your personal information.
+
+As required or permitted by law, you may be entitled to additional rights, including: (i) the right to control the dissemination of your personal information; (ii) the right to receive computerized personal information collected from you in a structured, commonly used and technological format and to have this information transferred directly to another organization; (iii) the right to be informed of and submit observations regarding automated decision-making; and (iv) the right to request information about data processing.
+
+If you wish to exercise any of the rights set out above, or if you have a complaint please contact us at privacy@gfs.com or [submit a data subject access or rights request here](https://gfs.com/en-us/rights-intake-form/).
+
+To protect consumers’ personal information and to comply with privacy laws, GFS may use a verification process to confirm your identity before we act on your request. You or your authorized agent may make a verifiable consumer request related to your personal information. If you use an authorized agent to submit a request on your behalf, we may require that you (1) provide the authorized agent written permission to do so and (2) provide us a copy of the authorization or a copy of a power of attorney.
+
+##### California Residents Rights
+
+GFS does not respond to Do Not Track (DNT) signals.
+
+California’s “Shine the Light” law permits individual California residents to request certain information regarding our disclosure of certain categories of Personal Information to third parties for those third parties’ direct marketing purposes. To make such a request, please contact us at privacy@gfs.com.
+
+##### Contacting Us
+
+If you have any questions or complaints about our practices with respect to personal information, have questions about the practices of our third-party service providers located outside of the United States or wish to access their policies and practices, would like to request having your information removed from our database, want to withdraw your consent regarding the collection, use, and disclosure of your personal information, would like to access or correct your personal information or would like to opt out of receiving any future communications, please let us know by contacting our Privacy Officer either by email at [privacy@gfs.com](mailto:privacy@gfs.com), phone at (800) 968–4164 or post mail at 1300 Gezon Parkway SW, Wyoming, MI 49509.
+
+Food Comes First.
+-----------------
 
 We believe in the power of good food—to bring people together and make moments special.
 
-[Become a Customer](https://gfs.com/become-a-customer/)
+[Become a Customer](https://www.gfs.com/en-us/become-a-customer/)
 
 ![GFS Logo](https://gfs.com/wp-content/uploads/2023/01/logo.svg)
 
