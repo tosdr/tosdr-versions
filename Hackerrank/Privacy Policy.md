@@ -18,11 +18,11 @@ Stream HackerRank AI Day, featuring new innovations and industry thought leaders
     
     * Products
         
-        * [Screen](https://www.hackerrank.com/products/developer-skills-platform/screen/)
+        * [Screen](https://www.hackerrank.com/products/screen/)
             
             Save time and accelerate your hiring.
             
-        * [Interview](https://www.hackerrank.com/products/developer-skills-platform/interview/)
+        * [Interview](https://www.hackerrank.com/products/interview/)
             
             Conduct stellar technical interviews.
             
@@ -360,8 +360,8 @@ Relive an inspiring event with world-renowned AI experts and thousands of tech a
 [Watch now](https://ai-day.hackerrank.com/?utm_campaign=ai-day-invite&utm_source=web-promo-popup&utm_medium=web)
 
 * [Products](https://www.hackerrank.com/products)
-    * [Screen](https://www.hackerrank.com/products/developer-skills-platform/screen/)
-    * [Interview](https://www.hackerrank.com/products/developer-skills-platform/interview/)
+    * [Screen](https://www.hackerrank.com/products/screen/)
+    * [Interview](https://www.hackerrank.com/products/interview/)
     * [Certified Assessments](https://www.hackerrank.com/features/certified-assessments/)
     * [Plagiarism Detection](https://www.hackerrank.com/features/plagiarism-detection/)
     * [Real World Questions](https://www.hackerrank.com/features/real-world-questions/)
