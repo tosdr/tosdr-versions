@@ -106,13 +106,13 @@ Categories
 
 Recent Articles
 
+* [What to Pack When Traveling to The Philippines: The Ultimate Checklist](https://aruljohn.com/blog/philippines-packing-list/)
 * [10 Gallon Natural Planted Tank](https://aruljohn.com/blog/natural-planted-tank/)
 * [How to Identify Poison Ivy, Oak and Sumac and Protect Yourself](https://aruljohn.com/blog/poison-ivy-oak-sumac/)
 * [How to Install Python 3.12.3 on the Raspberry Pi](https://aruljohn.com/blog/python-raspberrypi/)
 * [Codeforces Yogurt Sale Problem in Python and C++](https://aruljohn.com/blog/yogurt-sale-problem/)
 * [How to Automate Facebook Posts to Page using Python and Graph API](https://aruljohn.com/blog/python-automate-facebook-posts/)
 * [Existing Terms and Update Scam](https://aruljohn.com/blog/existing-terms-and-update-scam/)
-* [Scammed? How to complain if you are a victim of fraud on the Internet.](https://aruljohn.com/blog/complaint/)
 
 Popular Articles
 
