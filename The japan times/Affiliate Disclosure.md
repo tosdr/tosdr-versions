@@ -20,7 +20,7 @@ link policy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[June 07, 2024](https://www.japantimes.co.jp/archive/2024/06/07/ "archive page")
+[June 08, 2024](https://www.japantimes.co.jp/archive/2024/06/08/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -134,21 +134,21 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![The Tokyo Metropolitan Government is launching its own dating app to support people who want to get married.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/05/401186.jpg&w=400&q=100&f=jpg&t=1.2 "The Tokyo Metropolitan Government is launching its own dating app to support people who want to get married.")](https://www.japantimes.co.jp/news/2024/06/05/japan/society/tokyo-dating-app/ "Tokyo government to launch dating app in bid to boost birth rate")
 
-[Japan’s birth rate hit new low in 2023](https://www.japantimes.co.jp/news/2024/06/05/japan/society/japan-birth-rate-2023/ "Japan’s birth rate hit new low in 2023")
+[Don’t look now but the Mount Fuji barrier is getting even higher](https://www.japantimes.co.jp/news/2024/06/06/japan/fuji-fence/ "Don’t look now but the Mount Fuji barrier is getting even higher")
 
-  [![Japan’s birth rate has been in decline for decades as more women choose to get married and start a family later in life.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/05/401342.jpeg&w=400&q=100&f=jpg&t=1.2 "Japan’s birth rate has been in decline for decades as more women choose to get married and start a family later in life.")](https://www.japantimes.co.jp/news/2024/06/05/japan/society/japan-birth-rate-2023/ "Japan’s birth rate hit new low in 2023")
+  [![A popular photo spot with a view of Mount Fuji in the town of Fujikawaguchiko, Yamanashi Prefecture, on May 21.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/06/401716.jpg&w=400&q=100&f=jpg&t=1.2 "A popular photo spot with a view of Mount Fuji in the town of Fujikawaguchiko, Yamanashi Prefecture, on May 21.")](https://www.japantimes.co.jp/news/2024/06/06/japan/fuji-fence/ "Don’t look now but the Mount Fuji barrier is getting even higher")
 
-[Strong quake shakes Japan's hard-hit Noto Peninsula area](https://www.japantimes.co.jp/news/2024/06/03/japan/noto-peninsula-earthquake-june-3/ "Strong quake shakes Japan's hard-hit Noto Peninsula area")
+['Ex-King of Toyoko' held for alleged indecent acts with 11-year-old](https://www.japantimes.co.jp/news/2024/06/06/japan/crime-legal/japan-man-lewd-acts-arrest/ "'Ex-King of Toyoko' held for alleged indecent acts with 11-year-old")
 
-  [![Satoshi Harada, an official at the Meteorological Agency, speaks at a news conference on Monday morning in Tokyo. The agency asked people in the area to remain vigilant for quakes of a similar level for a week.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/03/400802.jpg&w=400&q=100&f=jpg&t=1.2 "Satoshi Harada, an official at the Meteorological Agency, speaks at a news conference on Monday morning in Tokyo. The agency asked people in the area to remain vigilant for quakes of a similar level for a week.")](https://www.japantimes.co.jp/news/2024/06/03/japan/noto-peninsula-earthquake-june-3/ "Strong quake shakes Japan's hard-hit Noto Peninsula area")
+  [![The Kabukicho area in Tokyo's Shinjuku Ward, where Toyoko, the area next to Toho Cinemas cinema complex where lonely young people flock, is located.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/06/401698.jpg&w=400&q=100&f=jpg&t=1.2 "The Kabukicho area in Tokyo's Shinjuku Ward, where Toyoko, the area next to Toho Cinemas cinema complex where lonely young people flock, is located.")](https://www.japantimes.co.jp/news/2024/06/06/japan/crime-legal/japan-man-lewd-acts-arrest/ "'Ex-King of Toyoko' held for alleged indecent acts with 11-year-old")
 
-[Biden says he won't rule out use of U.S. military to defend Taiwan](https://www.japantimes.co.jp/news/2024/06/05/asia-pacific/politics/biden-defend-taiwan-china/ "Biden says he won't rule out use of U.S. military to defend Taiwan")
+[LDP's political funding bill clears Lower House](https://www.japantimes.co.jp/news/2024/06/06/japan/politics/political-funds-law-passes-lh/ "LDP's political funding bill clears Lower House")
 
-  [![U.S. President Joe Biden has said he has “made clear” to Chinese leader Xi Jinping long-standing U.S. policy that refrains from endorsing Taiwanese independence, but has said the U.S. will defend the island “if China unilaterally tries to change" the status quo.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/05/401444.jpg&w=400&q=100&f=jpg&t=1.2 "U.S. President Joe Biden has said he has “made clear” to Chinese leader Xi Jinping long-standing U.S. policy that refrains from endorsing Taiwanese independence, but has said the U.S. will defend the island “if China unilaterally tries to change" the status quo.")](https://www.japantimes.co.jp/news/2024/06/05/asia-pacific/politics/biden-defend-taiwan-china/ "Biden says he won't rule out use of U.S. military to defend Taiwan")
+  [![Amid low approval ratings since the Liberal Democratic Party slush funds scandal came to light, Prime Minister Fumio Kishida is making the political funding bill's passage his No. 1 priority for the current session of parliament.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/06/401636.jpg&w=400&q=100&f=jpg&t=1.2 "Amid low approval ratings since the Liberal Democratic Party slush funds scandal came to light, Prime Minister Fumio Kishida is making the political funding bill's passage his No. 1 priority for the current session of parliament.")](https://www.japantimes.co.jp/news/2024/06/06/japan/politics/political-funds-law-passes-lh/ "LDP's political funding bill clears Lower House")
 
-[Why the U.S. can’t win the trade war with China — and shouldn’t try](https://www.japantimes.co.jp/commentary/2024/06/05/world/us-china-trade-war/ "Why the U.S. can’t win the trade war with China — and shouldn’t try")
+[Japan looks to minimize economic fallout of auto-test falsifications](https://www.japantimes.co.jp/business/2024/06/06/companies/toyota-shutdown/ "Japan looks to minimize economic fallout of auto-test falsifications")
 
-  [![Despite the Sino-American trade war, China's export competitiveness has strengthened, with its share of global exports increasing in 2023 and its trade surplus reaching $823 billion.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/05/400253.jpg&w=400&q=100&f=jpg&t=1.2 "Despite the Sino-American trade war, China's export competitiveness has strengthened, with its share of global exports increasing in 2023 and its trade surplus reaching $823 billion.")](https://www.japantimes.co.jp/commentary/2024/06/05/world/us-china-trade-war/ "Why the U.S. can’t win the trade war with China — and shouldn’t try")
+  [![Toyota has temporarily stopped manufacturing its Corolla Fielder and Corolla Axio models following the data falsification scandal.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/06/401648.jpg&w=400&q=100&f=jpg&t=1.2 "Toyota has temporarily stopped manufacturing its Corolla Fielder and Corolla Axio models following the data falsification scandal.")](https://www.japantimes.co.jp/business/2024/06/06/companies/toyota-shutdown/ "Japan looks to minimize economic fallout of auto-test falsifications")
 
 Editors' Picks
 --------------
@@ -161,35 +161,33 @@ Editors' Picks
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Japan’s birth rate hit new low in 2023](https://www.japantimes.co.jp/news/2024/06/05/japan/society/japan-birth-rate-2023/ "Japan’s birth rate hit new low in 2023")
+[Don’t look now but the Mount Fuji barrier is getting even higher](https://www.japantimes.co.jp/news/2024/06/06/japan/fuji-fence/ "Don’t look now but the Mount Fuji barrier is getting even higher")
 
-By Kanako Takahara  
+By [Hiroshi Hiyama](https://www.japantimes.co.jp/author/2633/hiroshi-hiyama/ "Hiroshi Hiyama")  
 
-  [![Japan’s birth rate has been in decline for decades as more women choose to get married and start a family later in life.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/05/401342.jpeg&w=400&q=100&f=jpg&t=1.2 "Japan’s birth rate has been in decline for decades as more women choose to get married and start a family later in life.")](https://www.japantimes.co.jp/news/2024/06/05/japan/society/japan-birth-rate-2023/ "Japan’s birth rate hit new low in 2023")
+  [![A popular photo spot with a view of Mount Fuji in the town of Fujikawaguchiko, Yamanashi Prefecture, on May 21.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/06/401716.jpg&w=400&q=100&f=jpg&t=1.2 "A popular photo spot with a view of Mount Fuji in the town of Fujikawaguchiko, Yamanashi Prefecture, on May 21.")](https://www.japantimes.co.jp/news/2024/06/06/japan/fuji-fence/ "Don’t look now but the Mount Fuji barrier is getting even higher")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Strong quake shakes Japan's hard-hit Noto Peninsula area](https://www.japantimes.co.jp/news/2024/06/03/japan/noto-peninsula-earthquake-june-3/ "Strong quake shakes Japan's hard-hit Noto Peninsula area")
+['Ex-King of Toyoko' held for alleged indecent acts with 11-year-old](https://www.japantimes.co.jp/news/2024/06/06/japan/crime-legal/japan-man-lewd-acts-arrest/ "'Ex-King of Toyoko' held for alleged indecent acts with 11-year-old")
 
-By [Francis Tang](https://www.japantimes.co.jp/author/5450/francis-tang/ "Francis Tang")  
+  [![The Kabukicho area in Tokyo's Shinjuku Ward, where Toyoko, the area next to Toho Cinemas cinema complex where lonely young people flock, is located.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/06/401698.jpg&w=400&q=100&f=jpg&t=1.2 "The Kabukicho area in Tokyo's Shinjuku Ward, where Toyoko, the area next to Toho Cinemas cinema complex where lonely young people flock, is located.")](https://www.japantimes.co.jp/news/2024/06/06/japan/crime-legal/japan-man-lewd-acts-arrest/ "'Ex-King of Toyoko' held for alleged indecent acts with 11-year-old")
 
-  [![Satoshi Harada, an official at the Meteorological Agency, speaks at a news conference on Monday morning in Tokyo. The agency asked people in the area to remain vigilant for quakes of a similar level for a week.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/03/400802.jpg&w=400&q=100&f=jpg&t=1.2 "Satoshi Harada, an official at the Meteorological Agency, speaks at a news conference on Monday morning in Tokyo. The agency asked people in the area to remain vigilant for quakes of a similar level for a week.")](https://www.japantimes.co.jp/news/2024/06/03/japan/noto-peninsula-earthquake-june-3/ "Strong quake shakes Japan's hard-hit Noto Peninsula area")
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[ASIA PACIFIC](https://www.japantimes.co.jp/news/asia-pacific/ "ASIA PACIFIC")
+[LDP's political funding bill clears Lower House](https://www.japantimes.co.jp/news/2024/06/06/japan/politics/political-funds-law-passes-lh/ "LDP's political funding bill clears Lower House")
 
-[Biden says he won't rule out use of U.S. military to defend Taiwan](https://www.japantimes.co.jp/news/2024/06/05/asia-pacific/politics/biden-defend-taiwan-china/ "Biden says he won't rule out use of U.S. military to defend Taiwan")
+By [Gabriele Ninivaggi](https://www.japantimes.co.jp/author/4179/gabriele-ninivaggi/ "Gabriele Ninivaggi")  
 
-By [Jesse Johnson](https://www.japantimes.co.jp/author/141/jesse-johnson/ "Jesse Johnson")  
+  [![Amid low approval ratings since the Liberal Democratic Party slush funds scandal came to light, Prime Minister Fumio Kishida is making the political funding bill's passage his No. 1 priority for the current session of parliament.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/06/401636.jpg&w=400&q=100&f=jpg&t=1.2 "Amid low approval ratings since the Liberal Democratic Party slush funds scandal came to light, Prime Minister Fumio Kishida is making the political funding bill's passage his No. 1 priority for the current session of parliament.")](https://www.japantimes.co.jp/news/2024/06/06/japan/politics/political-funds-law-passes-lh/ "LDP's political funding bill clears Lower House")
 
-  [![U.S. President Joe Biden has said he has “made clear” to Chinese leader Xi Jinping long-standing U.S. policy that refrains from endorsing Taiwanese independence, but has said the U.S. will defend the island “if China unilaterally tries to change" the status quo.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/05/401444.jpg&w=400&q=100&f=jpg&t=1.2 "U.S. President Joe Biden has said he has “made clear” to Chinese leader Xi Jinping long-standing U.S. policy that refrains from endorsing Taiwanese independence, but has said the U.S. will defend the island “if China unilaterally tries to change" the status quo.")](https://www.japantimes.co.jp/news/2024/06/05/asia-pacific/politics/biden-defend-taiwan-china/ "Biden says he won't rule out use of U.S. military to defend Taiwan")
+[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
 
-[COMMENTARY](https://www.japantimes.co.jp/opinion/commentary/ "COMMENTARY")
+[Japan looks to minimize economic fallout of auto-test falsifications](https://www.japantimes.co.jp/business/2024/06/06/companies/toyota-shutdown/ "Japan looks to minimize economic fallout of auto-test falsifications")
 
-[Why the U.S. can’t win the trade war with China — and shouldn’t try](https://www.japantimes.co.jp/commentary/2024/06/05/world/us-china-trade-war/ "Why the U.S. can’t win the trade war with China — and shouldn’t try")
+By [Elizabeth Beattie](https://www.japantimes.co.jp/author/3993/elizabeth-beattie/ "Elizabeth Beattie") and [Karin Kaneko](https://www.japantimes.co.jp/author/4420/karin-kaneko/ "Karin Kaneko")  
 
-By [Xu Qiyuan](https://www.japantimes.co.jp/author/3833/xu-qiyuan/ "Xu Qiyuan")  
-
-  [![Despite the Sino-American trade war, China's export competitiveness has strengthened, with its share of global exports increasing in 2023 and its trade surplus reaching $823 billion.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/05/400253.jpg&w=400&q=100&f=jpg&t=1.2 "Despite the Sino-American trade war, China's export competitiveness has strengthened, with its share of global exports increasing in 2023 and its trade surplus reaching $823 billion.")](https://www.japantimes.co.jp/commentary/2024/06/05/world/us-china-trade-war/ "Why the U.S. can’t win the trade war with China — and shouldn’t try")
+  [![Toyota has temporarily stopped manufacturing its Corolla Fielder and Corolla Axio models following the data falsification scandal.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/06/401648.jpg&w=400&q=100&f=jpg&t=1.2 "Toyota has temporarily stopped manufacturing its Corolla Fielder and Corolla Axio models following the data falsification scandal.")](https://www.japantimes.co.jp/business/2024/06/06/companies/toyota-shutdown/ "Japan looks to minimize economic fallout of auto-test falsifications")
 
 Podcast
 -------
@@ -210,9 +208,9 @@ By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "A
 SUSTAINABLE JAPAN
 -----------------
 
-[A meat-based culinary community carries on Tokachi’s pioneer spirit](https://sustainable.japantimes.com/magazine/vol36/36-03?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "A meat-based culinary community carries on Tokachi’s pioneer spirit")
+[In Tokachi, a food supply chain for ‘receiving life’](https://sustainable.japantimes.com/magazine/vol36/36-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "In Tokachi, a food supply chain for ‘receiving life’")
 
-[![A meat-based culinary community carries on Tokachi’s pioneer spirit](https://wp.japantimes.co.jp/wp-content/uploads/2024/05/img_magazine_36_03_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol36/36-03?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "A meat-based culinary community carries on Tokachi’s pioneer spirit")
+[![In Tokachi, a food supply chain for ‘receiving life’](https://wp.japantimes.co.jp/wp-content/uploads/2024/05/img_magazine_36_04_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol36/36-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "In Tokachi, a food supply chain for ‘receiving life’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -252,25 +250,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Japan to build anti-tourist fence at Mount Fuji viewpoint](https://www.japantimes.co.jp/news/2024/06/06/japan/fuji-fence/ "Japan to build anti-tourist fence at Mount Fuji viewpoint")
+[U.K.'s Sunak apologizes for skipping main D-Day event](https://www.japantimes.co.jp/news/2024/06/07/world/politics/sunak-apologizes-dday-event/ "U.K.'s Sunak apologizes for skipping main D-Day event")
+
+6 hours ago
+
+[Suzuki to stop making cars in Thailand to focus on EV shift](https://www.japantimes.co.jp/business/2024/06/07/companies/suzuki-thailand-halt/ "Suzuki to stop making cars in Thailand to focus on EV shift")
+
+6 hours ago
+
+[Japan maintains goal of primary budget surplus from 2025 to 2030](https://www.japantimes.co.jp/business/2024/06/07/economy/japan-budget-goal-maintain/ "Japan maintains goal of primary budget surplus from 2025 to 2030")
 
 7 hours ago
 
-[Japan eyes partner hotels for national parks](https://www.japantimes.co.jp/news/2024/06/06/japan/park-hotel-partnership/ "Japan eyes partner hotels for national parks")
+[Japan growth strategy panel calls for vigilance to weak yen impact](https://www.japantimes.co.jp/business/2024/06/07/economy/growth-strategy-weak-yen/ "Japan growth strategy panel calls for vigilance to weak yen impact")
 
 7 hours ago
 
-[LDP's political funding bill clears Lower House](https://www.japantimes.co.jp/news/2024/06/06/japan/politics/political-funds-law-passes-lh/ "LDP's political funding bill clears Lower House")
+[Kishida maintains 2037 target for Tokyo-Osaka maglev line](https://www.japantimes.co.jp/news/2024/06/07/japan/society/maglev2037kishida/ "Kishida maintains 2037 target for Tokyo-Osaka maglev line")
 
-9 hours ago
-
-['Ex-King of Toyoko' held for alleged indecent acts with 11-year-old](https://www.japantimes.co.jp/news/2024/06/06/japan/crime-legal/japan-man-lewd-acts-arrest/ "'Ex-King of Toyoko' held for alleged indecent acts with 11-year-old")
-
-10 hours ago
-
-[As Japan's birthrate drops, runner freezes her eggs to sustain motherhood dream](https://www.japantimes.co.jp/news/2024/06/06/japan/science-health/japanese-women-egg-freeze/ "As Japan's birthrate drops, runner freezes her eggs to sustain motherhood dream")
-
-10 hours ago
+8 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
