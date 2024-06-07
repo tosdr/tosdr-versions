@@ -1118,6 +1118,7 @@ OR
 * [Cleaning](https://wheniwork.com/industries/cleaning-service-scheduling-software "Cleaning")
 * [Delivery](https://wheniwork.net/industries/delivery-scheduling-software "Delivery")
 * [Electricians](https://wheniwork.com/industries/electrician-scheduling-software "Electricians")
+* [Pharmacy](https://wheniwork.com/industries/pharmacy-scheduling-software "Pharmacy")
 
 * [Hotels / Resorts](https://wheniwork.com/industries/hotel-resort "Hotels / Resorts")
 * [Emergency / Law Enforcement](https://wheniwork.com/industries/emergency-worker "Emergency / Law Enforcement")
@@ -1126,6 +1127,7 @@ OR
 * [Field Services](https://wheniwork.com/industries/field-service-scheduling-software "Field Services")
 * [Lawn Care](https://wheniwork.com/industries/lawn-care-scheduling-app "Lawn Care")
 * [Nursing](https://wheniwork.com/industries/nurse-scheduling-software "Nursing")
+* [Logistics](https://wheniwork.com/industries/logistics-scheduling-software "Logistics")
 
 * [Volunteers / Non-Profit](https://wheniwork.com/industries/volunteer "Volunteers / Non-Profit")
 * [Franchises](https://wheniwork.com/industries/franchise "Franchises")
@@ -1134,6 +1136,7 @@ OR
 * [Pest Control](https://wheniwork.com/industries/pest-control-scheduling-software "Pest Control")
 * [Plumbers](https://wheniwork.com/industries/scheduling-software-for-plumbers "Plumbers")
 * [Veterinary Care](https://wheniwork.com/industries/veterinary-clinic-software "Veterinary Care")
+* [Dental Practice](https://wheniwork.com/industries/dental-office-scheduling-software "Dental Practice")
 
 #### Mobile Apps
 
