@@ -262,7 +262,7 @@ Partners
 * [Facebook](https://www.facebook.com/hubspot)
 * [Instagram](https://www.instagram.com/hubspot/)
 * [Youtube](https://youtube.com/user/HubSpot)
-* [Twitter](https://twitter.com/HubSpot)
+* [Twitter](https://x.com/HubSpot)
 * [Linkedin](https://www.linkedin.com/company/hubspot)
 * [Medium](https://medium.com/@HubSpot)
 * [Tiktok](https://www.tiktok.com/@hubspot)
