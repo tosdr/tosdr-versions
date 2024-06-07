@@ -511,7 +511,7 @@ Privacy Policy
 
 Updated 20 May 2024
 
-Share this guide Share Close
+Share Share Close
 
 * [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.moneysavingexpert.com%2Fsite%2Fprivacy-policy%2F "Facebook")
 * [Twitter](https://twitter.com/intent/tweet?text=MoneySavingExpert.com&url=https%3A%2F%2Fwww.moneysavingexpert.com%2Fsite%2Fprivacy-policy%2F "Twitter")
@@ -887,6 +887,12 @@ This Privacy Policy explains how we use your personal information, including the
     Nearly a million pensioners are missing out on pension credit, a vital benefit worth £1,000s a year for many, which tops up your income.
     
 
+* ### [How to multi-destination holiday like a MoneySaver](https://www.moneysavingexpert.com/deals/deals-hunter/2024/06/how-to-multi-destination-holiday-like-a-moneysaver/)
+    
+    7 June 2024
+    
+    [![](/content/dam/mse/deals/MSE-Deals-Logo.png.rendition.320.320.png)](https://www.moneysavingexpert.com/deals/deals-hunter/2024/06/how-to-multi-destination-holiday-like-a-moneysaver/)
+    
 * ### [How to keep fit for FREE](https://www.moneysavingexpert.com/deals/deals-hunter/2024/01/how-to-keep-fit-for-free/)
     
     4 June 2024
@@ -910,12 +916,6 @@ This Privacy Policy explains how we use your personal information, including the
     16 May 2024
     
     [![](/content/dam/mse/migrated/dealshunter/sun-cream-bottles.png.rendition.320.320.png)](https://www.moneysavingexpert.com/deals/deals-hunter/2024/05/free-17-organic-and-vegan-sunscreen/)
-    
-* ### [Perfume dupes at Home Bargains – would you double downshift to save up to 98%?](https://www.moneysavingexpert.com/deals/deals-hunter/2023/02/home-bargains-perfume-dupes/)
-    
-    14 May 2024
-    
-    [![](/content/dam/mse/migrated/dealshunter/oh-yes-vs-si-list-image-perfume-dupes-blog.jpg.rendition.320.320.jpg)](https://www.moneysavingexpert.com/deals/deals-hunter/2023/02/home-bargains-perfume-dupes/)
     
 
 MSE tools & calculators
