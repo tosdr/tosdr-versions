@@ -250,9 +250,7 @@ Search
         
         [More on ACM Awards](http://awards.acm.org/)
         
-    * [![2023 ACM A.M. Turing Award recipient Avi Wigderson](/binaries/ctaimagelarge/content/gallery/acm/ctas/people/avi-wigderson-bw.jpg)](https://awards.acm.org/about/2023-turing)
-        
-        [ACM Announces 2023 A.M. Turing Award Recipient](https://awards.acm.org/about/2023-turing)
+    * [Avi Wigderson Receives 2023 A.M. Turing Award](https://awards.acm.org/about/2023-turing)
         
         [![2023 ACM Prize recipient Amanda Randles](/binaries/ctaimagelarge/content/gallery/acm/ctas/people/amanda-randles-prize.jpg)](https://awards.acm.org/about/2023-acm-prize)
         
