@@ -203,6 +203,10 @@ Truyo is an Intel® Market Ready Solution.
 
 **RESOURCES**
 
+[Ale Johnson](https://truyo.com/author/ajohnson/ "Posts by Ale Johnson")2024-06-06T09:41:51-07:00
+
+#### [ChatGPT and GDPR: Navigating Regulatory Challenges](https://truyo.com/blog/chatgpt-and-gdpr-navigating-regulatory-challenges/)
+
 [Ale Johnson](https://truyo.com/author/ajohnson/ "Posts by Ale Johnson")2024-05-15T12:40:34-07:00
 
 #### [Colorado Artificial Intelligence Act Passes with Affirmative Defense Provision](https://truyo.com/blog/colorado-artificial-intelligence-act-passes-with-affirmative-defense-provision/)
@@ -210,10 +214,6 @@ Truyo is an Intel® Market Ready Solution.
 [Ale Johnson](https://truyo.com/author/ajohnson/ "Posts by Ale Johnson")2024-05-07T16:11:58-07:00
 
 #### [Another Step Towards Federal Privacy Legislation Has Bipartisan Cooperation](https://truyo.com/blog/another-step-towards-federal-privacy-legislation-has-bipartisan-cooperation/)
-
-[Ale Johnson](https://truyo.com/author/ajohnson/ "Posts by Ale Johnson")2024-05-10T10:19:55-07:00
-
-#### [The Current Landscape of Global AI Regulations](https://truyo.com/blog/the-current-landscape-of-global-ai-regulations/)
 
 [contact](https://truyocom.wpenginepowered.com/contact/)
 
