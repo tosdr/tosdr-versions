@@ -85,20 +85,20 @@ Top downloads
 
 Latest releases
 
-* [Chicken Chase](https://www.myabandonware.com/game/chicken-chase-4ov)
-* [Chicago 30's](https://www.myabandonware.com/game/chicago-30-s-4ou)
-* [Skiing](https://www.myabandonware.com/game/skiing-r1d)
-* [Raäka-Tū](https://www.myabandonware.com/game/raaeka-tu-r1c)
-* [Quix](https://www.myabandonware.com/game/quix-r1b)
+* [Gomoku / Renju](https://www.myabandonware.com/game/gomoku-renju-r1y)
+* [Klendathu](https://www.myabandonware.com/game/klendathu-r1x)
+* [Jungle Queen](https://www.myabandonware.com/game/jungle-queen-r1w)
+* [Labyrinth](https://www.myabandonware.com/game/labyrinth-r1v)
+* [Marathon](https://www.myabandonware.com/game/marathon-r1u)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
 
 Screenshots needed
 
-* [3D Pets: PC Pup](https://www.myabandonware.com/game/3d-pets-pc-pup-n10)
-* [Radiant Silvergun](https://www.myabandonware.com/game/radiant-silvergun-n75)
-* [World Advanced Daisenryaku: Sakusen File](https://www.myabandonware.com/game/world-advanced-daisenryaku-sakusen-file-p30)
+* [6\*Pak Vol. 3](https://www.myabandonware.com/game/6-pak-vol-3-knv)
+* [Daisuki](https://www.myabandonware.com/game/daisuki-pab)
+* [Madō Monogatari](https://www.myabandonware.com/game/mado-monogatari-p8g)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
