@@ -31,994 +31,942 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
-Quito tendrá este clima hoy, jueves 6 de junio
-==============================================
+La deuda: dos visiones contrapuestas
+====================================
 
-Según el Inamhi, el clima es cambiante debido a que atravesamos una época de transición a la temporada seca.
-------------------------------------------------------------------------------------------------------------
+Una faceta de la crisis es la imperiosa necesidad  de recursos para solventar los gastos corrientes.
+----------------------------------------------------------------------------------------------------
 
-![Este jueves 6 de junio, las temperaturas descenderán y la radiación se mantiene moderada.](https://www.elcomercio.com/wp-content/uploads/2024/06/lluvias.jpg)
+![Rodrigo Albuja Chaves, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/05/Rodrigo-Albuja-Chaves.jpg)
 
-Este jueves 6 de junio, **Quito** amaneció con bajas temperaturas y **lluvias** en varios sectores del Distrito Metropolitano.
+La **deuda externa** es una carga pesada para el país. Y se vuelve más pesada con la **aprobación del crédito** otorgado por el **Fondo Monetario Internacional**, FMI, equivalente a $ 4.000 millones de dólares desembolsables en 48 meses. Esto significa que en los próximos años se asignarán **recursos** en una alta proporción del **presupuesto del Estado** para pagar la obligación. Lejos está aquella iniciativa poco extendida, lanzada a finales del **siglo XIX** en Norteamérica, proponiendo no exigir a una población que salde una deuda contraída para esclavizarla.
 
-El Instituto Nacional de Meteorología (**Inamhi**) compartió el **pronóstico del clima** para este día y madrugada del 7 de junio.
+Las visiones sobre el contexto y las repercusiones que causaría la **suscripción del crédito** discrepan ostensiblemente entre el acreedor y los diferentes **sectores nacionales**.
 
-### Más noticias
-
-* [Así funciona el Pico y placa en Quito este jueves 6 de junio](https://www.elcomercio.com/actualidad/quito/asi-funciona-el-pico-y-placa-en-quito-este-jueves-6-de-junio.html "Así funciona el Pico y placa en Quito este jueves 6 de junio")
-* [Los estacionamientos de borde, una manera de evitar multas en Quito](https://www.elcomercio.com/actualidad/quito/estacionamientos-de-borde-quito-evitar-multas.html "Los estacionamientos de borde, una manera de evitar multas en Quito")
-* [¿Se quedará el sol o volverán las lluvias en Quito?](https://www.elcomercio.com/actualidad/se-quedara-el-sol-o-volveran-las-lluvias-en-quito.html "¿Se quedará el sol o volverán las lluvias en Quito?")
-
-Según el **Inamhi**, durante este jueves el cielo se mantendrá **nublado**, con claros ocasionales.
-
-Las lluvias se mantendrán **presentes** y en algunos sectores habrá presencia de **lloviznas dispersas.**
-
-Descenso de temperatura en Quito
---------------------------------
-
-Este jueves, la **temperatura** descendió a causa de la nubosidad y las **lluvias** presentes; Quito amaneció con temperaturas oscilantes entr**e 7 y 10 grados.**
-
-A lo largo del día, se espera **temperaturas máximas** de hasta 21 grados en zonas como Rumiñahui y **temperaturas mínimas** de hasta 14 grados en Mejía.
-
-La **radiación ultravioleta** se mantendrá en niveles **moderados**, gracias a la nubosidad presente.
-
-En la noche del **jueves y madrugada** del viernes, se prevén **lluvias** sobre Quito y Pichincha y cielos nublados.
-
-> [#PronósticoPichincha](https://twitter.com/hashtag/Pron%C3%B3sticoPichincha?src=hash&ref_src=twsrc%5Etfw) l Jueves, 06 de junio: [#Quito](https://twitter.com/hashtag/Quito?src=hash&ref_src=twsrc%5Etfw) Cielo nublado y nublado con claros, presencia de lluvias y lloviznas dispersas 🌦️🌧️ [pic.twitter.com/is01UWwjyU](https://t.co/is01UWwjyU)
-> 
-> — INAMHI Ecuador 🇪🇨 (@inamhi\_ec) [June 6, 2024](https://twitter.com/inamhi_ec/status/1798694936763900252?ref_src=twsrc%5Etfw)
-
-Cambio de clima
----------------
-
-El **[Inamhi](https://es.wikipedia.org/wiki/Instituto_Nacional_de_Meteorolog%C3%ADa_e_Hidrolog%C3%ADa "https://es.wikipedia.org/wiki/Instituto_Nacional_de_Meteorolog%C3%ADa_e_Hidrolog%C3%ADa")** señala que atravesamos una **época de transición** a la temporada seca y por ello el clima es cambiante.
-
-Desde la noche del 3 de junio hubo un ingreso mayor de **humedad** desde la Cuenca Amazónica, por lo que en los siguientes días habrá **cielos con más nubosidad** y una disminución de **radiación ultravioleta**.
-
-Impactantes resultados dejan los operativos de la Policía Nacional este 6 de junio
-==================================================================================
-
-Los operativos se ejecutaron en varias provincias, como Pichincha, Manabí, Santa Elena, etc. Estos dejaron detenidos y liberaciones.
-------------------------------------------------------------------------------------------------------------------------------------
-
-![Varios operativos se desarrollaron la madrugada de este jueves 6 de junio.](https://www.elcomercio.com/wp-content/uploads/2024/06/operativos.jpg)
-
-La **Policía Nacional** ejecuta operaciones, en conjunto con el bloque de seguridad, en **Manta**, Manabí, con el fin de contrarrestar los delitos cometidos por **grupos terroristas**.
-
-### Más noticias
-
-* [Autoridades de seguridad llegan a Manta, nuevo centro de operaciones militares y policiales](https://www.elcomercio.com/actualidad/seguridad/autoridades-seguridad-llegan-manta-para-convertirla-centro-operaciones.html "Autoridades de seguridad llegan a Manta, nuevo centro de operaciones militares y policiales")
-* [El desenlace de un intento de robo a policía en Quito](https://www.elcomercio.com/actualidad/seguridad/desenlace-intento-robo-policia-quito.html "El desenlace de un intento de robo a policía en Quito")
-* [En Quito, cinco integrantes de grupo terrorista fueron capturados por la Policía](https://www.elcomercio.com/actualidad/seguridad/quito-integrantes-grupo-terrorista-capturados-por-la-policia.html "En Quito, cinco integrantes de grupo terrorista fueron capturados por la Policía")
-
-Entre estos **delitos** están sicariato, asesinato, secuestro, robo de vehículos, **extorsión**, tráfico de sustancias sujetas a fiscalización, tenencia y porte de **armas de fuego,** entre otros.
-
-En este sentido, se realizan varios **allanamientos simultáneos** en esta ciudad de Manabí.
-
-La Policía busca dar una **respuesta activa y efectiva** a los hechos delictivos; esto se desarrolla en coordinación con Fiscalía.
-
-Se intervinieron 22 inmuebles en el cantón **Manta** como parte de las investigaciones y en respuesta a muertes violentas ocasionadas por riñas entre bandas.
-
-Incautación de droga
---------------------
-
-Esta madrugada, tras acciones operativas ante el cometimiento de un **delito flagrante** de sustancias sujetas a fiscalización, la **Policía Nacional** aprehendió a un ciudadano.
-
-Además, se incautó de **500 kilos de droga** en el sector Florida, Guayaquil.
-
-> INCAUTAMOS 500 KILOS DE DROGA Y APREHENDIMOS A UN CIUDADANO  
->   
-> Tras acciones operativas ante el cometimiento de un delito flagrante de sustancias sujetas a fiscalización, en el sector Florida, [#DMG](https://twitter.com/hashtag/DMG?src=hash&ref_src=twsrc%5Etfw).  
->   
-> En desarrollo…[#PolicíaEcuador](https://twitter.com/hashtag/Polic%C3%ADaEcuador?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/PydDUZa5JH](https://t.co/PydDUZa5JH)
-> 
-> — Policía Ecuador (@PoliciaEcuador) [June 6, 2024](https://twitter.com/PoliciaEcuador/status/1798662572020814026?ref_src=twsrc%5Etfw)
-
-Decomiso de explosivos
+Visiones contrapuestas
 ----------------------
 
-Tras labores de gestión investigativa, la **Policía allanó** un inmueble en el que encontró 405 tacos de **dinamita**, 69 cápsulas fulminantes, 1 500 metros de **cordón detonante** y 600 metros de mecha de seguridad.
+El **FMI** sostiene que la **aprobación del crédito** significa un respaldo al “**plan económico de las autoridades ecuatorianas**, que  han comenzado a tomar importantes **medidas políticas** para abordar la **situación fiscal** y de **liquidez**”. Alude a las acciones “rápidas y audaces” para abordar las crisis fiscal y de seguridad.
 
-Estas labores se ejecutaron en la provincia de **Santa Elena**.
+En el **Ecuador** se desconoce la existencia de un **plan económico** por el cual transite el país, ni de políticas de seguridad, en tiempo de agudizamiento del **crimen organizado**. La solidez, rapidez y audacia para abordar la **crisis fiscal** y de seguridad, que menciona el Fondo, podrían ser un paso adelante hacia la consolidación del modelo que se trata de imponer en el país, bajo la guía de los lineamientos propios de la **economía de mercado**, que no aborda nuestra particular realidad social.
 
-> DECOMISO DE MATERIAL EXPLOSIVO EN SANTA ELENA  
->   
-> Tras labores de gestión investigativa, en un inmueble se encontró: 405 tacos de dinamita, 69 cápsulas fulminantes, 1500 metros de cordón detonante y 600 metros de mecha de seguridad.[#PolicíaEcuador](https://twitter.com/hashtag/Polic%C3%ADaEcuador?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/CZYp0uLATR](https://t.co/CZYp0uLATR)
-> 
-> — Policía Ecuador (@PoliciaEcuador) [June 6, 2024](https://twitter.com/PoliciaEcuador/status/1798654684833710169?ref_src=twsrc%5Etfw)
+En el Ecuador hay fuga de capitales; sin embargo, se **otorga el crédito** y se deslegitima la importancia de controlar la **salida de divisas** calculada en el 54,6% del PIB, es decir, alrededor de 60 mil millones de dólares en 2023. Quiere esto decir que los **flujos de dinero** que ingresan al país, incluidos los préstamos internacionales, salen y merman la capacidad de realizar **inversiones productivas**, que podrían crear **crecimiento de la economía** y otros resultados beneficiosos, como el empleo.
 
-In
+Para frenar en parte este **drenaje** y también para registrar los orígenes de estos recursos en manos de **ecuatorianos y de extranjeros**, se creó el impuesto a la salida de divisas, ISD,  que es objeto de muchos intentos por eliminarlo. La justificación es deleznable: atraer la **inversión extranjera** en franca contradicción con los efectos favorables encontrados a partir de la creación de este impuesto, uno de ellos el ingreso de recursos a las **arcas fiscales** en plena **crisis de financiamiento**.
 
-Integrantes de Los Lobos fueron aprehendidos
---------------------------------------------
+Es una incógnita el destino que tendrá la **deuda contratada**, con la cual el total asciende a alrededor de  80 mil millones de dólares, duplicada en los últimos 3 gobiernos, a partir de 2017.  El desgaste de la **infraestructura del país** denota que no hay **inversión pública**, uno de los principales recursos para la creación de empleo. Tampoco hay atención a los problemas más graves derivados de la **pobreza** de una buena parte de la **población ecuatoriana**. Y la incógnita persiste en los momentos actuales, pues hay total opacidad sobre el destino que tendrán estos recursos, además de servir para pagar parte de la deuda.
 
-En un operativo de la [Policía Nacional](https://es.wikipedia.org/wiki/Polic%C3%ADa_Nacional_del_Ecuador "https://es.wikipedia.org/wiki/Polic%C3%ADa_Nacional_del_Ecuador") ejecutado en **Cayambe, Calderón** y Tumbaco, se **allanaron** varios inmuebles.
+Una **faceta de la crisis** es la imperiosa necesidad  de recursos para solventar los **gastos corrientes.** La **inversión pública** es prácticamente olvidada y la **inversión extranjera** no encuentra razones poderosas para venir al Ecuador. Las dos visiones que explican el **acuerdo de crédito** son las dos caras de un mismo problema: la trampa de la deuda, como resultado de la **falta de soberanía** en la actuación del país.
 
-Como resultado de ello se logró la **aprehensión** de ocho individuos por almacenamiento, **distribución** de sustancias ilícitas, pertenecientes al grupo terrorista Los **Lobos**.
+Donas caseras, la receta perfecta para endulzar tu día
+======================================================
 
-Además, se recolectaron los siguientes **indicios**:
+Las donas se pueden disfrutar de muchas maneras: simples, glaseadas, rellenas o con toppings variados
+-----------------------------------------------------------------------------------------------------
 
-* 22 000 dosis de cocaína y marihuana
-* Un arma de fuego
-* Cartuchos
-* 12 celulares
-* Dinero en efectivo
+![Las donas pueden proporcionar una sensación de felicidad y satisfacción.](https://www.elcomercio.com/wp-content/uploads/2024/06/EL-PLATO-FAVORITO-1200-x-920-px-1.jpg)
 
-> [#IMPORTANTE](https://twitter.com/hashtag/IMPORTANTE?src=hash&ref_src=twsrc%5Etfw) || 8 APREHENDIDOS POR ALMACENAMIENTO Y DISTRIBUCIÓN DE SUSTANCIAS ILÍCITAS, PERTENECIENTES AL GRUPO TERRORISTA ‘LOS LOBOS’  
->   
-> Tras el allanamiento a varios inmuebles de Cayambe, Calderón y Tumbaco, [#DMQ](https://twitter.com/hashtag/DMQ?src=hash&ref_src=twsrc%5Etfw), durante los operativos decomisamos:  
->   
-> ✅ 22.000 dosis de cocaína y… [pic.twitter.com/xrv9MEJCVl](https://t.co/xrv9MEJCVl)
-> 
-> — Policía Ecuador (@PoliciaEcuador) [June 6, 2024](https://twitter.com/PoliciaEcuador/status/1798508009955512708?ref_src=twsrc%5Etfw)
+El primer viernes de junio se celebra el **Día Mundial de la dona** en Estados Unidos. La jornada se creó con finalidad de agradecer el gesto de las mujeres voluntarias de la Primera Guerra Mundial, al apoyar a los soldados con este dulce alimento.
 
-Liberación de víctimas
-----------------------
+Hacer **donas caseras** puede parecer una tarea desafiante, pero con esta **receta fácil** y detallada, podrás disfrutar de estas **deliciosas golosinas** en la comodidad de tu hogar. Perfectas para una mañana de fin de semana, una tarde de antojos o una ocasión especial. Esta **receta de donas caseras**, son suaves, esponjosas y cubiertas con un **glaseado dulce** que las hace simplemente irresistibles. Prepárate para impresionar a tu familia y amigos con esta **receta** que convertirá tu cocina en la mejor panadería.  
+¡Vamos a comenzar!
 
-En otro operativo en **Quevedo**, Los Ríos, dos víctimas de **secuestro** fueron liberadas.
-
-Los **secuestrados** fueron interceptados por sujetos **armados** en la calle.
-
-Luego de su liberación, fueron puestos a buen recaudo. La **Policía** investiga para dar con los responsables.
-
-> [#ATENCIÓN](https://twitter.com/hashtag/ATENCI%C3%93N?src=hash&ref_src=twsrc%5Etfw) || LIBERAMOS A DOS VÍCTIMAS DE SECUESTRO  
->   
-> Quienes fueron interceptados por varios sujetos desconocidos con armas de fuego esta mañana, en [#Quevedo](https://twitter.com/hashtag/Quevedo?src=hash&ref_src=twsrc%5Etfw), [#LosRíos](https://twitter.com/hashtag/LosR%C3%ADos?src=hash&ref_src=twsrc%5Etfw).  
->   
-> Las víctimas fueron puestos a buen recaudo y continúa el despliegue operativo para identificar a los implicados… [pic.twitter.com/rkT8J4pDcc](https://t.co/rkT8J4pDcc)
-> 
-> — Policía Ecuador (@PoliciaEcuador) [June 6, 2024](https://twitter.com/PoliciaEcuador/status/1798559660255174662?ref_src=twsrc%5Etfw)
-
-Richard Carapaz confirma dos carreras en Suiza antes del Tour de Francia
-========================================================================
-
-El próximo reto de Richard Carapaz será este 7 de junio del 2024. Luego, se probará en una última carrera antes del Tour de Francia
------------------------------------------------------------------------------------------------------------------------------------
-
-![Richard Carapaz tendrá dos retos en Suiza antes del Tour de Francia 2024.](https://www.elcomercio.com/wp-content/uploads/2024/06/richard-carapazsuiza.jpg)
-
-El ciclista ecuatoriano **Richard Carapaz** volverá a competir este viernes 7 de junio del 2024, en Suiza, en una carrera de un día.
-
-La ‘Locomotora’ tiene confirmadas dos importantes pruebas antes del gran reto del **Tour de Francia** a finales de este mes de junio.
-
-### Más noticias:
-
-* [Jhonatan Narváez se refirió a Richard Carapaz y a Tadej Pogacar](https://www.elcomercio.com/deportes/juegos-olimpicos/johnatan-narvaez-carapaz-pogacar-prensa.html "Jhonatan Narváez se refirió a Richard Carapaz y a Tadej Pogacar")
-* [Richard Carapaz y Jhonatan Narváez correrán en el Tour de Suiza](https://www.elcomercio.com/deportes/ciclismo/carapaz-tour-suiza-jhonatan-narvaez.html "Richard Carapaz y Jhonatan Narváez correrán en el Tour de Suiza")
-* [Confiemos en Jhonatan Narváez y en Richard Carapaz](https://www.elcomercio.com/opinion/editorial/confiemos-jhonatan-narvaez-juegos-olimpicos.html "Confiemos en Jhonatan Narváez y en Richard Carapaz")
-
-Este viernes 7 de junio el campeón olímpico **Richard Carapaz** competirá en la **Grosser Preis des Kantons Aargau**, en Suiza.
-
-Se trata de una carrera de un día, que llega a su edición 60, con un recorrido de 173,8 km.
-
-El evento es parte del Europa Tour y el ecuatoriano parte entre los favoritos, según la organización del evento.
-
-Luego, para el 9 de junio, Carapaz tendrá otro importante reto. Se trata del **Tour de Suiza**, prueba de ocho etapas en la que el carchense ya fue campeón.
-
-El Tour de Suiza y luego el Tour de Francia
--------------------------------------------
-
-**Richard Carapaz, de 31 años,**  afrontará el **Tour de Suiza,** reto de ocho etapas que se realizará del 9 al 16 de junio.
-
-‘Richie’ ya supo ser el campeón de esta carrera en el 2021. En ese año además ganó en la etapa 5.
-
-Los organizadores también anuncian a Carapaz entre los grandes favoritos para buscar los primeros lugares.
-
-El Tour de Suiza “será su última carrera antes del Tour de Francia, principal objetivo del año”, se confirmó desde el equipo de apoyo de Richard Carapaz.
-
-Tour de Francia
----------------
-
-Más adelante, el ecuatoriano tomará su **bicicleta** para competir en el **Tour de Francia**, desde el 26 de junio.
-
-La gran prueba francesa, la más renombrada entre las tres grandes, se extenderá hasta el 11 de agosto.
-
-Desde el inicio de la temporada, el [Tour de Francia](https://es.wikipedia.org/wiki/Tour_de_Francia) ha sido el reto marcado por Carapaz en el calendario.
-
-En el 2023 pasó por un momento triste al lesionarse en la etapa 1, [tras una dura caída](https://www.elcomercio.com/deportes/richard-carapaz-retiro-tour-de-francia-ecuador.html). Golpeado y todo finalizó esa etapa, pero ya no pudo continuar con el reto.
-
-Es así que la edición de este 2024 es una revancha para el campeón olímpico ecuatoriano.
-
-Richard Carapaz en el Tour de Francia
--------------------------------------
-
-**Richard Carapaz** ya ha hecho historia para Ecuador en el Tour de Francia. Es, de momento, el único ecuatoriano que se ha probado en este reto.
-
-Ya estuvo antes en tres ediciones del **Tour,** la prueba a la que asisten los mejores del mundo en el ciclismo de ruta.
-
-En el 2020 se ubicó en el puesto 13. Luego, para el 2021, marcó un hito para el deporte ecuatoriano al alcanzar un histórico el tercer lugar.
-
-En el 2023 se vio obligado a retirarse por una lesión y este 2024 volverá a sumir ese reto, como parte del EF Education-EasyPost.
-
-Se declaró desierto el proceso de pautaje y publicidad del Municipio de Quito
-=============================================================================
-
-El Municipio de Quito tenía un presupuesto de dos millones de dólares para el contrato.
----------------------------------------------------------------------------------------
-
-![El proceso se declaró desierto el 30 de mayo de 2024. Foto: Municipio de Quito.](https://www.elcomercio.com/wp-content/uploads/2024/06/Pautaje-y-publicidad.jpg)
-
-El Municipio de Quito declaró desierto el proceso de contratación del servicio de **pautaje** y **publicidad** para comunicar la **gestión institucional** del cabildo, este 30 de mayo de 2024[.](https://es.wikipedia.org/wiki/Municipio_del_Distrito_Metropolitano_de_Quito "https://es.wikipedia.org/wiki/Municipio_del_Distrito_Metropolitano_de_Quito")
-
-Más noticias
+Ingredientes
 ------------
 
-* [Municipio de Quito tratará el hundimiento de las casas de Solanda](https://www.elcomercio.com/actualidad/quito/solanda-hundimiento-casas-concejo-metropolitano.html "Municipio de Quito tratará el hundimiento de las casas de Solanda")
-* [Municipio de Quito buscará contratar sistema de mantenimiento para el Metro](https://www.elcomercio.com/actualidad/quito/metro-de-quito-mantenimiento-municipio.html "Municipio de Quito buscará contratar sistema de mantenimiento para el Metro")
-* [Este es el criterio del Municipio sobre construir torres en los predios del Hotel Quito](https://www.elcomercio.com/actualidad/quito/propuesta-construir-torres-complejo-hotel-quito-tiene-criterio-desfavorable-municipio.html "Este es el criterio del Municipio sobre construir torres en los predios del Hotel Quito")
+2 1/4 cucharaditas de levadura seca activa (1 paquete)
 
-Este proceso de contratación tenía un presupuesto de dos millones de dólares, con un plazo de ejecución de un año, contando a partir desde el siguiente día de la suscripción del **contrato**.
+1/4 taza de agua tibia
 
-Santiago Aguilar, secretario de Comunicación del **Municipio de Quito** dijo el 29 de mayo que este contrato de **pauta** y **publicidad** tenía tres grandes fundamentos y que estaba en etapa precontractual.
+3/4 taza de leche tibia
 
-Los fundamentos a los que Aguilar se refería son:
+1/4 taza de azúcar
 
-* Ciudadanía informada de la gestión municipal. Además, el funcionario señaló la necesidad de “circular sentidos y valores a través de campañas que ayuden a modificar comportamientos”. Estas campañas estarán relacionadas con valores ciudadanos, prevención de incendios, regreso a clases, movilidad sostenible, salud mental, entre otras.
-* El presupuesto asignado a la Secretaría, aprobado por Concejo Metropolitano, debe ser ejecutarlo en los ámbitos que le competen a la entidad.
-* Es un ejercicio democrático y dinamizador de la economía, sobre todo de las esferas de la comunicación ya que propone una perspectiva de distribución más diversa, en la que se amplían los recursos para los medios digitales e independientes. El secretario ejemplificó cómo los estudiantes de comunicación salen de las universidades al desempleo o a levantar emprendimientos.
+1/2 cucharadita de sal
 
-Se declaró desierto el proceso de pautaje y publicidad
-------------------------------------------------------
+1/4 taza de mantequilla sin sal, derretida
 
-Durante el proceso de contratación del **pautaje y publicidad**, la comisión técnica calificó a la oferta presentada por el consorcio **Redlink**.  
+1 huevo
 
-Santiago Aguilar solicitó que se verifique el cumplimiento de la **experiencia específica** del consorcio, el 28 de mayo de 2024.
+3 1/2 tazas de harina de trigo (puedes necesitar un poco más o menos según la textura de la masa)
 
-Un día después, la **comisión** **técnica** recomendó que se declare desierto el proceso de contratación del servicio de **pautaje** y **publicad**. Esto tras revisar, analizar y observar lo dispuesto por **Aguilar**.
+Aceite vegetal para freír
 
-En el informe de la comisión se detalla que existen **inconvenientes técnicos** para los **intereses institucionales**.
+Ingredientes para el glaseado de la dona
+----------------------------------------
 
-Tras esto, **Santiago Aguilar** decidió acoger la recomendación de la **Comisión Técnica** en el informe de evaluación y declaró desierto el procedimiento, el 30 de mayo de 2024.
+2 tazas de azúcar en polvo
 
-El secretario Aguilar no se ha pronunciado en sus redes sociales.
+1/4 de taza de leche
 
-Selección de Ecuador no le gana a Argentina hace 8 años
-=======================================================
+1 cucharadita de extracto de vainilla
 
-Ecuador y Argentina se enfrentarán en un nuevo amistoso en Estados Unidos. La Copa América los espera.
-------------------------------------------------------------------------------------------------------
+* * *
 
-![Lionel Messi celebra el gol que le marcó a Ecuador en las eliminatorias al Mundial 2026.](https://www.elcomercio.com/wp-content/uploads/2024/06/ecuador_argentina.jpg)
+> Experimentar con diferentes sabores, rellenos y glaseados puede ser una excelente manera de expresar tu creatividad en la cocina.
 
-Hace un poco más de ocho años que la **Selección de Ecuador** no sabe lo que es ganarle a Argentina, tanto en partidos por eliminatorias mundialistas, Copa América o amistosos internacionales.
+![No hay  más irresistible que el aroma de unas donas frescas y calientes saliendo de la cocina.](https://www.elcomercio.com/wp-content/uploads/2024/06/SABORES14.jpg)
 
-El 8 de octubre de 2015 fue la última vez que la **Selección Ecuador le gano a Argentina**. Fue un 0-2 en el estadio Monumental de Buenos Aires por las eliminatorias al Mundial Rusia 2018.
+No hay más irresistible que el aroma de unas donas frescas y calientes saliendo de la cocina.
 
-### Más noticias:
+Preparación de las donas
+------------------------
 
-* [Antonio Valencia rememora el ‘Piso 17’ y otras anécdotas](https://www.elcomercio.com/deportes/antonio-valencia-confesiones-piso-17-nacional-liga.html "Antonio Valencia rememora el ‘Piso 17’ y otras anécdotas")
-* [Jeison Medina tiene tentadores ofertas tras dejar Aucas](https://www.elcomercio.com/deportes/jeison-medina-ofertas-aucas-independiente.html "Jeison Medina tiene tentadores ofertas tras dejar Aucas")
+* **Disolver** la levadura en el agua tibia en un tazón pequeño. Dejar reposar durante unos 5 a 10 minutos hasta que la mezcla esté espumosa.
+* **Mezclar e**n un tazón grande la leche tibia, el azúcar, la sal, la mantequilla derretida y el huevo. Añadir la mezcla de levadura.
+* **Añadir** la harina poco a poco, mezclar bien después de cada adición, hasta que la masa se despegue de los lados del tazón.
+* **Colocar** la masa en una superficie ligeramente enharinada y amasar durante unos 5 a 7 minutos hasta que esté suave y elástica. Si la masa está demasiado pegajosa, añadir un poco más de harina.
+* **Colocar** la masa en un tazón engrasado, cubrirlo con un paño húmedo y dejar reposar en un lugar cálido durante aproximadamente 1 a 2 horas, o hasta que la masa haya duplicado su tamaño.
+* **Formar** las donas**.** Una vez que la masa haya leudado, desinflar la masa y colocarla sobre una superficie ligeramente enharinada. Estirar hasta que tenga un grosor de aproximadamente 2 cm. Usar un cortador de donas circulares de diferentes tamaños para cortar las donas y los agujeros.
+* **Calentar** el aceite en una sartén grande o freidora a 190 °C. Freír las donas en lotes, cocinando cada lado durante unos 1 a 2 minutos hasta que estén doradas.
+* **Usar** una espátula para retirar las donas del aceite y colocarlas sobre toallas de papel para escurrir el exceso de aceite.
 
-Los goles del defensa central Frisckson Erazo, y el delantero Felipe Caicedo, sellaron la histórica victoria del combinado tricolor.
+Preparación del glaseado para la dona
+-------------------------------------
 
-En adelante se **jugaron seis partidos más**, y la Tri no pudo ganar ninguno. La albiceleste ganó cinco, y hubo un empate.
+* En un tazón mediano, mezclar el azúcar en polvo, la leche y el extracto de vainilla hasta obtener una mezcla suave.
+* Sumergir las donas calientes en el glaseado, asegurándose de cubrir ambos lados. Colocar las donas glaseadas sobre una rejilla para que el glaseado se endurezca y están listas para servir y acompañar con un café o un vaso de leche.
 
-En esas mismas eliminatorias a Rusia, Argentina se tomó la revancha y venció 1-3 en el Olímpico Atahualpa, con un triplete de Lionel Messi.
-
-El **resultado los clasificó al Mundial**, mientras que para Ecuador fue el cierre de unas eliminatorias que fueron de más a menos.
-
-En el 2019 se registra una **dolorosa goleada de 6-1 en España**. Lucas Alario, Jhon Espinoza en contra, Leandro Paredes, Germán Pezzella, Nicolás Domínguez y Lucas Ocampos anotaron en el abultado marcador.
-
-En las eliminatorias a **Catar 2022** en Buenos Aires ganaron los locales por 1-0, otra vez con tanto de Messi. La revancha en Guayaquil se saldó con un empate 1-1. Ambos cuadros ya estaban clasificados.
-
-En las eliminatorias al Mundial 2026 nuevamente se repitió el 1-0 en Buenos Aires. Sí, Messi marcó el gol.
-
-En la **Copa América de 2021** los argentinos no tuvieron problemas para vencer a los ecuatorianos por 3-0 en los cuartos de final, marcando el fin de su participación en el torneo. Desde luego, Messi volvió a gritar gol.
-
-¿Cuándo juegan Ecuador y Argentina en Estados Unidos?
------------------------------------------------------
-
-Las selecciones de **Ecuador y Argentina** se enfrentarán en un nuevo partido amistoso previo al arranque de la Copa América Estados Unidos 2024.
-
-El juego entre Ecuador y Argentina, vigente campeona del Mundial Catar 2022, de la Finalissima 2022, y de la Copa América Brasil 2021, será el **domingo 9 de junio, desde las 18:00** en Filadelfia.
-
-Este partido le sirve a Félix Sánchez Bas, entrenador español de Ecuador, y **Lionel Scaloni**, DT de Argentina, como parte de su preparación final para lo que será su participación en la Copa América.
-
-Argentina integra el grupo A junto a **Perú, Chile y Canadá**. Ante este último país hará su debut el 20 de junio desde las 19:00, en el Mercedes-Benz Stadium de Atlanta.
-
-Por su parte Ecuador forma parte del grupo B con **México, Jamaica y Venezuela**. El estreno está pactado para el 22 de junio en el Levi’s Stadium de Santa Clara, California ante la ‘Vinotinto’.
-
-Los 26 jugadores convocados por Ecuador para los amistosos contra **Argentina, Bolivia y Honduras** se entrenan desde el lunes pasado en Estados Unidos, donde permanecerán hasta que concluya su participación en la Copa América.
-
-Ecuador vs. Argentina
----------------------
-
-**2015 – Eliminatorias Rusia 2018: Argentina 0-2 Ecuador  
-**2017 – Eliminatorias Rusia 2018: Ecuador 1-3 Argentina  
-2019 – Amistoso internacional: Argentina 6-1 Ecuador  
-2020 – Eliminatorias Catar 2022: Argentina 1-0 Ecuador  
-2021 – Copa América Brasil: Argentina 3-0 Ecuador  
-2022 – Eliminatorias Catar 2022: Ecuador 1-1 Argentina  
-2023 – Eliminatorias 2026: Argentina 1-0 Argentina
-
-Así funciona el Pico y placa en Quito este jueves 6 de junio
-============================================================
-
-El Pico y placa sigue vigente en Quito, revisa tu placa. Recuerda que en junio deben matricular autos con placas terminadas en 5.
----------------------------------------------------------------------------------------------------------------------------------
-
-![Los agentes de tránsito se ubican en varios sitios de la ciudad para vigilar el cumplimiento de la medida.](https://www.elcomercio.com/wp-content/uploads/2024/06/Pico-y-placa1.jpg)
-
-La medida **Pico y placa** se aplica en todo Quito para tratar de regular el flujo vehicular en horas pico. La norma impide que determinados los **autos y motos** puedan circular un día a la semana, según el último dígito de la placa.
-
-El **Pico y placa** no afecta a vehículos de personas de la **tercera edad** o con **discapacidad**.
-
-### Más noticias
-
-* [Los estacionamientos de borde, una manera de evitar multas en Quito](https://www.elcomercio.com/actualidad/quito/estacionamientos-de-borde-quito-evitar-multas.html "Los estacionamientos de borde, una manera de evitar multas en Quito")
-* [¿Se quedará el sol o volverán las lluvias en Quito?](https://www.elcomercio.com/actualidad/se-quedara-el-sol-o-volveran-las-lluvias-en-quito.html "¿Se quedará el sol o volverán las lluvias en Quito?")
-* [Conoce qué calles están cerradas totalmente por trabajos, en Quito](https://www.elcomercio.com/actualidad/quito/quito-calles-cerradas-trabajos.html "Conoce qué calles están cerradas totalmente por trabajos, en Quito")
-
-El horario de aplicación de la norma es en la mañana de **06:00 a 09:30** y en la tarde de **16:00 a 20:00.**
-
-Este **jueves** no pueden circular las placas terminadas en **7 y 8.**
-
-Multas por infringir Pico y placa
----------------------------------
-
-La multa por incumplirla es del **15% del Salario Básico Unificado, es decir 69 dólares** la primera vez; la segunda vez será el 25%, es decir, **115 dólares**.
-
-Si incumples por tercera vez la multa asciende al 50% de un salario básico, es decir, **230 dólares**.
-
-Esquema de aplicación
----------------------
-
-El esquema de aplicación de [Pico y placa](https://es.wikipedia.org/wiki/Pico_y_placa "https://es.wikipedia.org/wiki/Pico_y_placa") es el siguiente:
-
-**Lunes**: placas terminadas en **1 y 2**.  
-**Martes**: los que finalizan en **3 y 4**.  
-**Miércoles**: los de dígitos **5 y 6**.  
-**Jueves**: los que tengan **7 y 8**.  
-**Viernes**: las placas **9 y 0**.
-
-También te recordamos estar atento a los canales oficiales y a nuestro sitio para informarte de cualquier **cierre vial imprevisto.**
-
-Matriculación vehicular
+Consejos para las donas
 -----------------------
 
-Recuerda que debes tener **licencia y matrícula vigentes** para poder circular. El mes de **junio** los automotores con placa terminada en **5** deben cumplir con el proceso de matriculación.
+* El secreto de la receta de donas está en la masa, la fermentación o el leudado. Es imprescindible si queremos conseguir unas donas bien esponjosas y tiernas. Por ello, hay que respetar los tiempos de reposo de la masa.
+* Puedes utilizar tanto un molde especial para cortar las donas caseras como cualquier otro objeto redondo, como un vaso o copa tequilera por ejemplo.
+* Si las haces fritas, utiliza una olla en lugar de una sartén porque las donas caseras necesitan flotar y no tocar el fondo.
+* Es importante recordar que, aunque la receta de donas tienen beneficios, deben ser consumidas con moderación como parte de una dieta equilibrada. Priorizar una alimentación rica en nutrientes y reservar las donas para ocasiones especiales o como un pequeño placer puede ayudarte a disfrutar de sus beneficios sin comprometer tu salud.
+* Son más deliciosas, si se consumen al momento, pero si sobran se pueden congelar sin problemas. 
 
-También pueden **adelantar el trámite** los que tienen **placa terminada en** 6\. Evita sanciones.
+¡Disfruta de tu receta de donas caseras!
 
-> 🗞️ [#BoletínAMT](https://twitter.com/hashtag/Bolet%C3%ADnAMT?src=hash&ref_src=twsrc%5Etfw) | ¡Atención conductores con placas terminadas en 5!  
-> 🗓️ ¡Junio es tu mes!  
-> 🚗🔧 Realiza la Revisión Técnica Vehicular.  
-> 🔎 Consulta los valores a pagar y obtén tu permiso de circulación 2024.  
-> Más detalles aquí 👇 [https://t.co/j9Nn7gxXYP](https://t.co/j9Nn7gxXYP) [pic.twitter.com/wBZOo4f6Nz](https://t.co/wBZOo4f6Nz)
-> 
-> — AMTQuito (@AMT\_Quito) [June 4, 2024](https://twitter.com/AMT_Quito/status/1798047689902604687?ref_src=twsrc%5Etfw)
-
-Falta comprender mejor las violencias en Ecuador
-================================================
-
-En 5 meses se registraron 1920 muertes violentas, una media diaria de 13 fallecidos, una cada dos horas.
---------------------------------------------------------------------------------------------------------
-
-![Imagen creada en Instagram con el prompt: Rastro de asesinato en el asfalto de una calle mojada.](https://www.elcomercio.com/wp-content/uploads/2024/06/Asesinatos-IA.jpg)
-
-El nivel de violencia que se vive en Manabí, Guayas, Los Ríos y otras localidades exige una revisión más profunda de las estrategias para mejorar la seguridad. La reducción de las masacres no puede depender únicamente de declaratorias de estado de excepción ni de operativos militares.
-
-De enero a abril de 2024, el Ministerio del Interior registró 1609 muertes violentas en las siete provincias bajo estado de excepción. Según el Ejecutivo aumentaron a 1920 hasta mayo, lo que equivale a un promedio diario de 13 personas fallecidas, una cada dos horas.
-
-Es imperativo replantear las estrategias para reducir la violencia generada por el narcoterrorismo, la delincuencia común, la violencia intrafamiliar y comunitaria.
-
-Solo basta alzar la mirada a México. Ahí también se cometió el mismo error de pensar que la fuerza armada es la solución a todo los males. 
-
-Jacobo Dayán, especialista en Derecho Penal Internacional y derechos humanos en México, lo advirtió en 2022. Falta comprender mejor las causas sociales, económicas y políticas de las violencias.
-
-En México, al igual que en Ecuador, se ha insistido en “visiones simplistas”. Una de ellas es que la violencia es producto de enfrentamientos entre poderosos grupos criminales.
-
-> **“El control político de estas narrativas ha buscado desviar la atención del fondo del problema, mantiene la impunidad e impide una articulación social. Esta visión monolítica de la realidad dificulta la comprensión y la búsqueda de alternativas para dar soluciones”**, **dice Jacobo Dayán**
-
-Los casos Metástasis y Purga subrayan la necesidad de investigar más el vínculo entre grupos criminales, empresas formales y autoridades locales. La ciudadanía está cansada de operativos que muestran hallazgos impactantes en medios y redes sociales, sin soluciones reales.
-
-El reciente decreto que declara estado de excepción en siete provincias argumenta la prevalencia de asesinatos en espacios públicos. Pero casos como el del asambleísta Cristhian Nieto y su pareja en un circo de Manta evidencian la persistencia de la violencia en lugares abiertos.
-
-El 90 % de muertes violentas ocurridas en cuatro meses involucraron armas de fuego, principalmente en espacios públicos de zonas urbanas.
-
-La economía local, el turismo y la vida cotidiana siguen afectados, cobrando vidas inocentes, incluyendo las de niños y adolescentes.
-
-Las soluciones —como dice Dayán— están lejos de llegar si se sigue explicando que la violencia es producto de enfrentamientos entre bandas o que la masacre “estaba direccionada” y dejó “daños colaterales”.
-
-Es crucial dejar atrás explicaciones vagas sobre la violencia y trabajar hacia soluciones concretas para los problemas estructurales de Ecuador.
-
-Ejercicio de autocrítica
-========================
-
-La autocrítica es un referente para construir espacios creativos de comunicación.
----------------------------------------------------------------------------------
-
-![Fausto Segovia Baus, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Fausto-Segovia-Baus.jpg)
-
-Nadie tiene el **patrimonio** de la verdad; sin embargo, en las **élites** y en el **estado** llano se insiste en pontificar, emitir **mensajes falaces** sin argumentos, denostar a los demás con injurias, y buscar errores para descalificar a los adversarios.
-
-Lo dicho acontece no solo en el **ámbito político**, sino **académico**, **profesional** y cotidiano. ¡Nos falta **autocrítica**! Es decir: mirarnos en el espejo y escucharnos -si es posible- nosotros mismos.
-
-Los profesores partimos de un principio rector: se aprende de los errores ajenos y propios. Esta pauta es clave para mejorar nuestras **relaciones personales y profesionales**. Y, por supuesto, para formarse y construir procesos de cambio posibles, sobre la base del ejercicio de la **tolerancia** y el respeto a las diferencias.
-
-En el **campo público** la falta de autocrítica es evidente. Menciono un caso patético: muy pocos presidentes, en sus **mensajes a la nación**, asumen con rigor sus responsabilidades; culpan a la naturaleza, a los **enemigos políticos** y a la oposición sus yerros y omisiones. Y los discursos quedan en sonoros aplausos, mientras el relato del país de las maravillas se repite en palabras sublimes y edulcoradas. Y la realidad sigue igual.
-
-Otros ejemplos -malos ejemplos, sería lo correcto- son los foros privados y televisivos que culminan casi siempre en las arenas del **desierto intelectual**: sobre las derechas y las izquierdas; sobre el **neoliberalismo y el socialismo del siglo XIX**; sobre el correísmo y el oficialismo. La **autocrítica** no aparece porque, en el fondo, subsiste el juego perverso de intereses, donde el espíritu de las leyes sucumbe y yace archivado en la memoria de la auto alabanza. Cunde, entonces, la **improvisación**, la **especulación**, la **mediocridad**, y en ese océano de ambigüedades descansa la **maltrecha democracia**.
-
-A propósito, la verdadera **democracia** merece una **autocrítica seria**, racional y argumentada; un **diálogo de saberes**, **doctrinas** y **jurisprudencias**; visiones no solo desde el poder, sino desde el **contrapoder** y los ciudadanos; una **comunicación asertiva** y fluida, donde se informe con la verdad y evidencie cambios verificables, inversiones -y también equivocaciones-, libres de malos entendidos y **malabares lingüísticos**.
-
-La **autocrítica** es un referente para construir **espacios creativos** de comunicación -cercanos a la ciudadanía- y **negociaciones transparentes** sobre la mesa y no en la trastienda. ¡Porque los buenos líderes saben escuchar de manera activa; son sencillos, sensibles y apasionados por la verdad y el **bien común!**
-
-Cartas a Quito / 6 de junio de 2024
+Cartas a Quito / 7 de junio de 2024
 ===================================
 
-Estas son las cartas a Quito de este jueves 6 de junio de 2024
---------------------------------------------------------------
+Estas son las cartas a Quito de este viernes 7 de junio de 2024
+---------------------------------------------------------------
 
 ![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
 
-El valle de Uravía: Yacimiento arqueológico
--------------------------------------------
-
-El valle de Uravía, joya paisajística natural de extraordinaria belleza, se encuentra ubicado en las faldas del cerro Puntas, en la parte baja de la parroquia de Checa, Distrito Metropolitano de Quito, a unos cincuenta kilómetros de la ciudad capital. El nombre de Uravía viene de la unión de dos vocablos distintos, en ese mestizaje lingüístico tan propio de nuestros pueblos; por un lado, ”ura”, que viene del quechua y significa abajo, y por otro, “vía” que está en español, por lo que Uravía significa “la vía o el camino de abajo”. El valle de Uravía es un gran yacimiento arqueológico que conserva parte de nuestra memoria histórica prehispánica, ya que albergó en sus cálidas y acogedoras playas a los Incas, hace más de quinientos años, cuando invadieron el valle, desplazando a la tribu de los Chilpes, que fueron los primeros habitantes de Checa. Para acceder al milenario valle, los aborígenes del sector construyeron parte del “camino real”, más conocido como Qhapaqñan, que fue la principal vía de comunicación del imperio inca, y que obligatoriamente debía cruzar todo el valle, para continuar en su viaje hacia el norte, hasta llegar a la ciudad de Pasto en Colombia, limite norte del Tahuantinsuyo. En la mitad de este hermoso valle, existe una loma o tola de gran tamaño, que es conocida desde tiempos inmemoriales por los lugareños, como “Culquiloma, o “loma de plata”, nombre que sugiere la existencia de un fabuloso tesoro en sus entrañas. A la loma se llega únicamente a través de un pequeño y sinuoso “chaquiñán”, lo que ha evitado su depredación por parte de los permanentes buscadores del tesoro perdido de Atahualpa. La parte alta de la loma fue utilizada ancestralmente como un cementerio indígena, que se conserva intacto hasta la actualidad, en el que existen muchas tumbas, distribuidas en forma de círculos, donde los aborígenes enterraban a sus seres queridos, junto con sus objetos de valor, sus mascotas y comida suficiente para el viaje final. Este camposanto inmemorial debe ser preservado en su integralidad, por respeto a nuestros ancestros, ya que forma parte de nuestra memoria histórica incaica y preincaica. A un costado de esta loma sagrada, hay una gigantesca piedra que está permanentemente custodiada ´por unos grandes árboles centenarios, y que, según las leyendas de los moradores del sector, cubre el túnel de acceso al interior de la loma que supuestamente es hueca y contiene muchos tesoros incaicos, que estarían guardados en estas enormes cuevas volcánicas, formadas por la gran erupción del cerro Puntas, ocurrida hace miles o millones de años. La ficha de inventario del valle de Uravía, elaborada por el Instituto Nacional de Patrimonio Cultural (INPC) en el año 2009 y actualizada en estos días, confirma que el valle es un yacimiento arqueológico, por lo que forma parte del Sistema de Información del Patrimonio Cultural del Ecuador, SIPCE, código no. AY-17-01-59-000-09-000005, por su gran concentración de restos arqueológicos y paleontológicos, y que, según los técnicos del INPC, corresponden al Periodo de Integración (500 d.C. a 1500 d.C.) y sugieren establecer un museo “in situ”, a fin de poner en valor las piezas arqueológicas encontradas en este valle inmemorial, para conocimiento de nuestras futuras generaciones.
-
-Alfonso López Jaramillo
-
-Señor Virgilio Hernández: ¡razone!!!
+La participación ciudadana (Parte 1)
 ------------------------------------
 
-Me parece que es mucho pedir, ya que usted pertenece a un grupo político que se ha caracterizado por mostrar claramente que está divorciado del razonamiento.
+Compatriotas. si no participas en las elecciones populares, nos vuelven a meter, como nuestros representantes de la Asamblea Nacional. Necesitamos vencer ese temor y prestar nuestro contingente personal, nuestros conocimientos, nuestra capacidad, amor a la patria y a representarla, con fervor cívico, con un verdadero anhelo de dar lo mejor, de servir y no de servirse del honor que le damos el resto de los ciudadanos con el voto.
 
-Todas las reacciones que muestran en público exhiben exactamente las mismas características: mucha alharaca, muy poco contenido, y una falta de razonamiento espantosa. Tenemos a doña Pamela Aguirre alardeando del funcionamiento de Coca Codo Sinclair al 100 por ciento, doña Sofía Espín vaticinando que la erosión regresiva del río Coca no afectaría a la Central Hidroeléctrica, o a Doña Paola Cabezas defendiendo a pandilleros argumentando que no querían delinquir. Todo dentro de un mismo concepto: ausencia de razonamiento.
+Ya basta de permanecer impávidos, sentados y con coraje, viendo desfilar a diferentes personas sin conocimiento académico de lo que significa ser un representante ante el máximo organismo del estado como es la Asamblea Nacional o las diferentes instituciones más representativas del estado ecuatoriano, sean amparados en organizaciones con fines protervos o solventados por el dueño del partido o movimiento político armado con este objetivo, que pone el dinero para las campañas y para cubrir los eventos y pancartas que llegan a todo el país, creyendo que con traer a la mejor agrupación musical o a artistas famosos es lo mejor y que con eso conquista el favor del pueblo que, en vez de buscarles la forma de solucionarles en sus necesidades básicas, necesita es darles rumba y trago. Pido a los intelectuales, empresarios honestos y a la ciudadanía toda que participe como candidato. Preste su conocimiento y tiempo, para hacer un país mejor. No creo se pueda cambiar de la noche a la mañana, pero, por lo menos, poner las bases que le sirva a la gente a salir de la pobreza y que las obras sean bien hechas, que dure por años y que cada centavo sea bien auditado, que cumplan con las especificaciones que la técnica aconseja.
 
-Por ejemplo, las menciones en redes sociales que “anticipa” un expresidente de su mismo grupo, que a Salcedo lo obligarán a involucrarlo, casi como las advertencias a algunos que se fugaron antes del caso metástasis, nos muestran con claridad la mentalidad de posibles culpables que pretenden ser “conocedores” de lo que va a suceder, en el un caso favoreciendo la fuga de implicados, y en el otro, tratando de ponerse a buen recaudo: otra muestra de carencia de razonamiento.
+No te puedes permitir, a costa de ser intelectual, inteligente, de hombre honesto o mujer digna, supuestamente exponerte a que te insulten, te inventen historias de tu vida o de tu familia. Y supuestamente las expones a un riesgo. Es la hora que tu ser no puede permitir que eso se siga dando en nuestro país. No somos de esa estirpe y nunca hemos permitido que nos sigan ofendiendo sin haber dado respuesta a este tipo de actitudes, de deshonestos personajes, que para lo único que sirven es para alzar la mano, leer lo que le dan escribiendo y exigir la coima por tal acción.
 
-Don Virgilio, de lo que se vio en las noticias, Daniel Salcedo nunca dijo que lo conocía a usted, dijo que Jorge Glas mencionó que un tal Virgilio ya estaba gestionando el tema de él. Su reacción más bien orienta a la opinión a que algo de lo que dijo el señor Glas es verdad.
+Me disculpan porque toda regla tiene su excepción, pero en lo que hemos visto hasta el que parecía más honesto se había dejado pintar.
 
-Me parece que el grupo político al que usted pertenece se ha empeñado en reunir a todos aquellos que por su condición intelectual son presa fácil del fanatismo, y esa condición es, indefectiblemente, la poca o nula capacidad de razonar.
+Lionel Efraín Romero Reyes
 
-José M. Jalil Haas
+> [Ver esta publicación en Instagram](https://www.instagram.com/p/C7ATpdWugsd/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida de Diario El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/p/C7ATpdWugsd/?utm_source=ig_embed&utm_campaign=loading)
 
-Cpccs descalificó a otros dos postulantes del concurso para Defensor Público
-============================================================================
+Carta al Presidente Noboa (parte 3)        
+===========================================
 
-El Pleno del Cpccs tomó la decisión en la noche de este miércoles 5 de junio.
------------------------------------------------------------------------------
+El incremento de la demanda de energía eléctrica es un proceso continuo, permanente y creciente.
+------------------------------------------------------------------------------------------------
 
-![El Cpccs es el encargado del concurso para elegir a la autoridad de la Defensoría Pública](https://www.elcomercio.com/wp-content/uploads/2024/06/concurso-defensor.jpg)
+![Kurt Freund Ruf, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Kurt-Freund-Ruf.jpg)
 
-El Consejo de Participación Ciudadana y Control Social (**Cpccs**) descalificó a **dos nuevos participantes** del concurso para **Defensor Público**.
+Parafraseando al presidente **John F. Kennedy** cuando asumió el poder en su **discurso inaugural**, señaló que los ciudadanos americanos, en lugar de preguntar qué debía hacer el país para ellos, que se pregunten qué pueden hacer ellos por el país. No voy a comentar sobre lo que se debe hacer para aumentar la **disponibilidad eléctrica** del **sector público**, ya que las autoridades tendrán suficientes propuestas de sus asesores.
 
-En la noche de este miércoles 5 de junio de 2024, la entidad detalló los nombres y las **razones** de las descalificaciones.
+Como usted **señor presidente** bien lo ha mencionado, se necesita la **participación de inversión** por parte del **sector privado** para superar la crisis de **escasez de energía**. En un artículo anterior se indicó las necesidades energéticas que superan los 8000 MW para la próxima década tanto para sustituir el uso de generadores de Diesel y el resto por el crecimiento de la demanda. Dentro de esto suponemos que por lo menos la mitad debería ser **hidráulica**, pero no estará disponible, sino desde el año 6 al año 10 a partir de ahora.
+
+El incremento de la **demanda de energía eléctrica** es un proceso continuo, permanente y creciente. Esta debe crecer para satisfacer sus necesidades y con ello cumplir con el **mandato constitucional** de la universalidad del servicio. En muchos lados, como solución a esto surgió el modelo denominado generación distribuida (GD) con instalaciones pequeñas en relación con las **grandes centrales** y que están conectadas a la **red de transmisión**.
+
+Por ello deseo mencionar que la alternativa es impulsar la (GD). Que incluya no solo **energías renovables** no convencionales en las líneas de 69 Kv y 46 Kv, pero también debe considerarse la (GD) en el área de **transmisión** conectada a 138 Kv y 230 Kv con **generación térmica** utilizando HFO u otros **combustibles**, con la aprobación de **interconexión** de Transelectric y CENACE en procura de menores pérdidas y asegurarle estabilidad al sistema nacional de **transmisión eléctrica**.  Esto debe incluir la **energía generada** con **residuos sólidos urbanos** (RSU) que ayudan a dar solución a la disposición de **desechos sólidos urbanos** (aportando al **saneamiento ambiental** sin vertederos y **rellenos sanitarios** que nadie los quiere en su vecindad) también con los residuos de la agricultura y agroindustria que constituye generación limpia con biomasa.
+
+Para esto la **generación** distribuida no debe estar limitada a 10 MW como la capacidad máxima de (GD) de autogeneración; pero en relación con el **sentido común** y la necesidad técnica requerida real.
+
+Bajo este esquema, a más de la **generación eólica y solar** debemos tomar en cuenta que el Ecuador en su proceso de refinación produce diariamente 70,000 bb/dia de HFO entre las tres **refinerías**; donde parte de esa producción se consume en la **generación eléctrica pública** que se la entrega a $0.39 el galón a nivel de terminal, y genera un subsidio a la **tarifa eléctrica** de $82 millones según el dato 2023.
+
+Nuestro país tiene una de las matrices de **generación eléctrica** más limpias del mundo, posiblemente a excepción de Costa Rica y Canadá en América.
+
+En lugar de vender este **combustible** a precio de huevo o de gallina flaca, como se ha mencionado múltiples veces, podría venderse sin subsidio al precio de exportación en el **mercado interno**. En este caso, el galón se vendería al precio actual del petróleo a $ 1.00 por galón. Con este precio el costo del **combustible** para la generación debería estar en aproximadamente $ 0.07 por KWH, mucho más barato que la alternativa de **compra internacional** donde hemos pagado hasta $ 0.60 por KWH a Colombia en el 2024 e incluso la opción de las barcazas que si el **Estado** quiere contratar o adquirir debe agregarle igual como lo haría el usuario privado el costo de CAPEX con una razonable utilidad que le permita tener los adecuados **superávits** para una continua expansión del sistema tanto en generación como **transmisión y reparación** o reemplazo de los equipos que vayan completando su **vida útil** y deban ser reemplazados por tecnologías actualizadas más eficientes.
+
+Esto conlleva un gran **ahorro de divisas**, y permite la transparencia sobre a qué **quintiles de la población** se debe **focalizar subsidios** y el resto de los usuarios tanto **privados como públicos** deben pagar tarifas reales. Esto se justifica recordando que el mayor costo de la energía es la no disponibilidad de este recurso en toda la **cadena productiva**, incluso del **sector público**. Cualquier apagón resulta oneroso al país.
+
+Cinco provincias sufrirán cortes de luz este viernes 7 de junio
+===============================================================
+
+La CNEL informó los horarios y los sectores en los que se aplicarán los cortes de luz este viernes.
+---------------------------------------------------------------------------------------------------
+
+![Los apagones no tienen relación con la crisis energética que vivió el país días atrás](https://www.elcomercio.com/wp-content/uploads/2024/06/cortes-junio.jpg)
+
+La Corporación Nacional de Electricidad (**CNEL)** informó los **cortes de luz** que se realizarán en cinco provincias del Ecuador, este viernes 7 de junio de 2024.
+
+Los apagones momentáneos se ejecutarán por **mantenimientos** y trabajos de limpieza.
 
 ### Más noticias:
 
-* [Daniel Noboa firmó veto total a ley para entrega oportuna de recursos a municipios y prefecturas](https://www.elcomercio.com/actualidad/politica/daniel-noboa-veto-total-ley-entrega-oportuna-recursos-municipios-prefecturas.html "Daniel Noboa firmó veto total a ley para entrega oportuna de recursos a municipios y prefecturas")
-* [Daniel Noboa y Rodrigo Chaves hablaron del tratado comercial bilateral](https://www.elcomercio.com/actualidad/daniel-noboa-rodrigo-chaves-hablaron-tratado-comercial-bilateral.html "Daniel Noboa y Rodrigo Chaves hablaron del tratado comercial bilateral")
-* [Ecuador y SolGold firmaron el contrato de explotación minera de Cascabel](https://www.elcomercio.com/actualidad/negocios/ecuador-solgold-firmaron-contrato-explotacion-minera-cascabel.html "Ecuador y SolGold firmaron el contrato de explotación minera de Cascabel")
+* [Planillas de luz con el 50% de reducción ya se emiten](https://www.elcomercio.com/actualidad/negocios/planillas-de-luz-con-el-50-de-reduccion-ya-se-emiten.html "Planillas de luz con el 50% de reducción ya se emiten")
+* [¿Cuánto dinero tienen las empresas eléctricas para evitar los cortes de luz?](https://www.elcomercio.com/actualidad/negocios/cuanto-dinero-tienen-empresas-electricas-para-evitar-cortes-luz.html "¿Cuánto dinero tienen las empresas eléctricas para evitar los cortes de luz?")
+* [Una provincia tendrá radiación ‘muy alta’, este viernes 7 de junio](https://www.elcomercio.com/actualidad/ecuador/provincia-ecuador-radiacion-solar-inamhi.html "Una provincia tendrá radiación ‘muy alta’, este viernes 7 de junio")
 
-La primera postulante en ser separada del concurso fue **Inés Romero Estévez**, por no probar su **probidad notoria**.
+Cortes de luz en Guayas
+-----------------------
 
-**Wilson Ortega Caicedo** fue el segundo descalificado, debido a un impedimento legal según el Código de la Democracia.
+En **Guayaquil**, los cortes de luz se deben a cambios de postes y transferencias de redes eléctricas que se realizarán en un tramo de la ciudad.
 
-Ortega es juez del Tribunal Contencioso Electoral **(TCE)**; la ley señala que “los jueces electorales que se encuentren en funciones no podrán presentarse a ningún concurso para otros cargos”.
+Durante las **00:30 a 03:30**, el servicio eléctrico no estará disponible en este sector:
 
-El Pleno del Cpccs, conformado por **siete consejeros**, votó en su mayoría a favor de la suspensión de Romero: cuatro votos positivos contra tres negativos. Nicole Bonifaz, Betsy Saltos y Augusto Verduga fueron quienes votaron en contra.
+* **La Prosperina**: tercera calle, entre la primera y quinta avenida
 
-En la decisión de suspender a Ortega, la **votación fue similar**, salvo que, en vez de votar en contra, los tres consejeros apegados al correísmo se abstuvieron.
+Apagones en Manabí
+------------------
 
-Otros participantes descalificados
-----------------------------------
+En Portoviejo los cortes de luz se realizarán por trabajos de mantenimiento para el cambio de materiales eléctricos en uno de los alimentadores de la subestación Playa Prieta; además se cambiarán postes deteriorados y se corregirán puntos calientes.
 
-Tras la descalificación de Romero y Ortega, en total suman **cinco** los separados del concurso.
+Durante las 06:00 a 09:00, el servicio eléctrico no estará disponible en este sector:
 
-Los postulantes que ya no están en el concurso para Defensor Público son: **Byron Guillen**, **Jorge Ballesteros y Daniel Frías**.
+* Abdón Calderón: San Placido, Chirijos y Alhajuela
 
-En el caso de Guillen y Ballesteros, su descalificación se realizó tras evidenciar una **transgresión del principio de probidad**. El primero tuvo problemas con los **certificados laborales**; mientras que el segundo presentó supuestos **documentos falsificados**, indicó el Cpccs.
+Cortes de energía en Santa Elena
+--------------------------------
 
-El principio de **probidad notoria** “demuestra la conducta del postulante en el desempeño de su campo profesional. Es decir, que debe tener un desempeño honesto y leal antes y durante la función o cargo que va a desempeñar”, indicó **Mishelle Calvache**, vicepresidenta de la entidad.
+En **Santa Elena**, los cortes de energía se realizarán debido a labores de limpieza de la vegetación cercana a las redes eléctricas.
 
-### Juez mencionado en declaración de Daniel Salcedo
+Durante las **07:00 a 10:00**, el servicio eléctrico no estará disponible en este sector:
 
-Sin embargo, el caso de Byron Guillen tiene un contexto mayor. El exjuez tiene una **investigación previa** iniciada por la Fiscalía General del Estado.
+* Vía a Santa Vicente de Loja
 
-Guillen fue mencionado en el testimonio anticipado de **Daniel Salcedo** en el caso Purga, el 3 de junio.
-
-Salcedo mencionó a varios jueces con los que conversó o se contactó a través de terceros para que le favorezcan en los procesos penales en su contra; entre estos nombres estaba el del exjuez nacional.
-
-Fiscalía comenzó una investigación contra Guillen por una **presunta participación en el delito de concusión**.
-
-“Por haber, presuntamente, solicitado dinero en el contexto de una causa de lavado de activos, en la que él participaba como Juez Nacional”, informó la Fiscalía en su cuenta de X.
-
-Por otra parte, **Daniel Frías**, que, constaba como el mejor puntuado del concurso, renunció el 20 de mayo. El Pleno del Cpccs aceptó su renuncia.
-
-> Inés Maritza Romero y Wilson Ortega fueron descalifcados del concurso para la designación de la primera autoridad de la Defensoría Pública.  
->   
-> Más información⬇️ [pic.twitter.com/WDUO7cg75l](https://t.co/WDUO7cg75l)
-> 
-> — Participa Ecuador (@CpccsEc) [June 6, 2024](https://twitter.com/CpccsEc/status/1798541251257733361?ref_src=twsrc%5Etfw)
-
-Cuatro participantes siguen en el concurso
-------------------------------------------
-
-Tras la exclusión de los cinco participantes, otros **cuatro postulantes** continúan en el concurso por Defensor Público.
-
-Se trata de: **Ricardo Morales**, **Yolanda Yerovi**, **Margarita Gualotuña** y **Jorge Torres**. Morales es el mejor posicionado.
-
-Hay más líneas de telefonía celular que habitantes en Ecuador
-=============================================================
-
-Las mesas de negociación de contratos entre el Estado y las operadoras Conecel (Claro) y Otecel (Movistar) tienen previsto empezar este jueves 6 de junio de 2024.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Ecuador importó 162 millones de dólares en teléfonos y celulares durante el primer trimestre de 2024. Cortesía: Freepik](https://www.elcomercio.com/wp-content/uploads/2024/06/telefonia-celular-Ecuador-.jpg)
-
-El mercado de la **telefonía móvil** está en crecimiento por el potencial que permite internet. En **Ecuador** estuvieron activas 18,17 millones de líneas telefónicas hasta marzo de 2024, según las últimas cifras publicadas por la **Agencia de Regulación y Control de las Telecomunicaciones**.
-
-Esa cantidad representa cerca un crecimiento de 570 000 si se compara con el mismo mes del 2023. Esta tendencia alza se mantiene desde junio de 2020, en plena pandemia.
-
-El **Instituto Nacional de Estadística y Censos (INEC)** proyectó que **Ecuador** tiene 17,9 millones de habitantes en 2024. Es decir, existen más líneas de **telefonía móvil** activas que población (todas las edades) en **Ecuador**. Por esta razón, el indicador de densidad de telefonía móvil llegó al 101,56%.
-
-### Más noticias
-
-* [Así está la renegociación con las operadoras de telefonía móvil](https://www.elcomercio.com/actualidad/asi-esta-la-renegociacion-con-las-operadoras-de-telefonia-movil.html "Así está la renegociación con las operadoras de telefonía móvil")
-* [Evita la filtración de datos personales de tu celular con estas configuraciones](https://www.elcomercio.com/tendencias/celular-configuraciones-seguridad.html "Evita la filtración de datos personales de tu celular con estas configuraciones")
-* [5.5G es más que solamente navegar más rápido](https://www.elcomercio.com/tendencias/tecnologia/5-5g-es-mas-que-solamente-navegar-mas-rapido.html "5.5G es más que solamente navegar más rápido")
-
-Las importaciones de celulares
-------------------------------
-
-El **Ministerio de Producción** publicó su análisis trimestral de **comercio exterior**. En este documento se destaca que los teléfonos y celulares ocupan el quinto lugar entre los principales productos importados en el primer trimestre de 2024.
-
-Este rubro representa el 3% del total de compras no petroleras al exterior. Solo le superan los automotores, medicinas, residuos de aceite de soya y manufacturas de metales.
-
-Las importaciones de **teléfonos y celulares** tuvieron un crecimiento de 155 millones en el primer trimestre de 2023 a 162 millones en el mismo período de 2024. Eso representó un crecimiento del 5%.
-
-El internet móvil en Ecuador 
+Cortes eléctricos en Los Ríos
 -----------------------------
 
-En **Ecuador** están habilitadas 14,37 millones de cuentas de internet en marzo de 2024. De este número, 11,42 millones corresponden a planes móviles, lo que representa el 79,47% del total. Esta información corresponde a la **Agencia de Regulación y Control de las Telecomunicaciones**.
+En **Babahoyo** el servicio eléctrico se suspenderá por trabajos correctivos y preventivos en los cambios de estructuras, puentes y aisladores en mal estado.
 
-En este indicador también hay un crecimiento. En marzo de 2023 habían 10,81 millones de cuentas de internet móvil.
+Durante las **07:00 a 10:00**, el servicio eléctrico no estará disponible en este sector:
 
-Según la presidenta ejecutiva de la **Asociación de Empresas de Telecomunicaciones (Asetel), Patricia Falconí,** el crecimiento del servicio, la oferta y demanda se da por el avance tecnológico que ha permitido Internet.
+* Hacienda Clementina, recintos: Tres Marías, Beldacos, Churute, San Felipe, La Esperanza, Palizada y La Maravilla
 
-**Falconí** destaca que las operadoras han invertido para ampliar la cobertura en las zonas urbanas y rurales y mejorar los servicios.
+Apagones en Esmeraldas
+----------------------
 
-Sobre el servicio **móvil avanzado**, la represente de Asetel indica que la llegada del **5G**, **Internet de las cosas**, desarrollo tecnológico y otros aspectos generan una interesante oportunidad para el sector.
+En **Esmeraldas**, los apagones se deberán a labores de mantenimiento integral en uno de los alimentadores, además de la limpieza de la vegetación cercana a las redes.
 
-La negociación con las operadoras
----------------------------------
+Durante las **10:30 A 13:30**, el servicio eléctrico no estará disponible en este sector:
 
-Las mesas de negociación para renovar los contratos con **Conecel** (**Claro**) y **Otecel** (**Movistar**) tienen previsto iniciar este jueves 6 de junio de 2024.
+* **Eloy Alfaro**: Cacahual, Tolita Pampa de Oro, Valdez (Limones) y Canchimalero
 
-Durante estas reuniones se abordarán aspectos fundamentales como las cláusulas de seguridad y la valoración económica del espectro radioeléctrico, según el **ministro de Telecomunicaciones, César Martín**.
+> Con el fin de garantizar la óptima distribución de energía en la ciudad de [#Guayaquil](https://twitter.com/hashtag/Guayaquil?src=hash&ref_src=twsrc%5Etfw), el viernes 07 de junio, se realizará labores de cambio de postes y transferencia de redes eléctricas en La Prosperina, lo que causará cortes de luz en el siguiente sector y horario: [pic.twitter.com/wzUBmz2de0](https://t.co/wzUBmz2de0)
+> 
+> — CNEL EP (@CNEL\_EP) [June 6, 2024](https://twitter.com/CNEL_EP/status/1798805940315046342?ref_src=twsrc%5Etfw)
 
-Según **Martín**, la renegociación con las operadoras de telefonía móvil en **Ecuador** no tendrá nuevas prórrogas y se espera que concluya en septiembre de 2024.
+Los cortes de luz en estas provincias no tienen relación alguna con los **racionamientos** que sufrió Ecuador, días atrás, por falta de energía eléctrica.
 
-SNAI busca solucionar los contratos de comida para las cárceles en Ecuador
-==========================================================================
+México reaccionó al comunicado de la OMS sobre un fallecido con gripe aviar en el país
+======================================================================================
 
-El SNAI se encuentra en la etapa precontractual de la adjudicación del servicio de alimentación en las cárceles.
-----------------------------------------------------------------------------------------------------------------
+México respondió a un comunicado difundido por la Organización Mundial de la Salud.
+-----------------------------------------------------------------------------------
 
-![La proveedora Lafattoria suspendió sus servicios en nueve provincias del Ecuador](https://www.elcomercio.com/wp-content/uploads/2024/06/carceles-alimentos.jpg)
+![El Gobierno de México, durante una rueda de prensa, habló sobre el posible fallecimiento de una persona con gripe aviar](https://www.elcomercio.com/wp-content/uploads/2024/06/griper-aviar-mexico.jpg)
 
-El Servicio Nacional de Atención Integral a Personas Adultas Privadas de la Libertad y Adolescentes Infractores (**SNAI**) busca solucionar la falta de proveedores de alimentos para las cárceles del Ecuador.
+El Gobierno de **México** se refirió al comunicado de la Organización Mundial de la Salud (**OMS**) en el que se informó que un hombre falleció por gripe aviar en el país.
 
-La entidad culminó el convenio que tenía con la anterior empresa proveedora de comida, Lafattoria S.A., por “posibles incumplimientos de **temas administrativos** ante el Servicio de Compras Públicas” (Sercop).
-
-### Más noticias:
-
-* [Fuerzas Armadas controlarán las armas en las cárceles, tras decreto de Daniel Noboa](https://www.elcomercio.com/actualidad/seguridad/fuerzas-armadas-controlaran-las-armas-en-las-carceles-tras-decreto-de-daniel-noboa.html "Fuerzas Armadas controlarán las armas en las cárceles, tras decreto de Daniel Noboa")
-* [Ministerio de Trabajo fija en 198 dólares la alimentación mensual de policías](https://www.elcomercio.com/actualidad/ministerio-de-trabajo-fija-en-usd-198-la-alimentacion-mensual-de-policias.html "Ministerio de Trabajo fija en 198 dólares la alimentación mensual de policías")
-* [Ecuador construirá una nueva cárcel contra el crimen organizado](https://www.elcomercio.com/actualidad/seguridad/ecuador-construira-nueva-carcel-contra-crimen-organizado.html "Ecuador construirá una nueva cárcel contra el crimen organizado")
-
-A través de un comunicado de prensa, **Lafattoria** anunció que suspendió sus servicios en las cárceles de **nueve provincias** del país, desde el 1 de junio de 2024.
-
-Según la compañía, el Estado le adeuda cerca de **30 millones de dólares**, motivo por el cual no continuarán distribuyendo alimentos a las personas privadas de libertad.
-
-“La falta de pago ha generado que la empresa no pueda cancelar sus obligaciones a cientos de proveedores, quienes, a su vez, han debido suspender los despachos de materia prima”, mencionó la empresa.
-
-La suspensión del servicio de alimentos se ejecutó en:
-
-* Esmeraldas
-* Carchi
-* Imbabura
-* Sucumbíos
-* Pichincha
-* Santo Domingo de los Tsáchilas
-* Napo
-* Cotopaxi
-* Guayas
-
-Los centros de rehabilitación de **Guayaquil** fueron los últimos en añadirse a la suspensión por parte de la proveedora, perjudicando alrededor de **12 600 ppl**.
-
-Este miércoles 5 de junio, la agencia de noticias API informó que, en el Centro de Privación de Libertad **El Rodeo** de Portoviejo, en Manabí, se comprobó que la empresa Lafattoria “aún provee de alimentos a esta cárcel”.
-
-La agencia detalló que un funcionario de la prisión confirmó que en “dos meses se terminaría el contrato con la empresa y pasarían a tener el mismo inconveniente que los otros recintos penitenciarios”.
-
-Hasta el cierre de esta nota Lafattoria no se ha pronunciado a través de sus redes sociales o canales oficiales.
-
-Adjudicación de proveedores de alimentos
-----------------------------------------
-
-El 2 de mayo, el Gobierno presentó un documento a la fiscal **Diana Salazar**, con el que se alertó sobre presunto ilícitos por parte de esta empresa.
-
-Estas alertas están relacionadas con sospechas de **presuntos actos ilícitos** de carácter penal.
-
-Tras esta diligencia, el Snai informó sobre un nuevo proceso de contratación público de los servicios de alimentos.
-
-La entidad encargada de las cárceles del país informó el 17 de mayo, que estaba trabajando en la etapa **precontractual** para adjudicar un contrato para **División Territorial 1**.
-
-Un comunicado similar emitió la Snai el 31 de mayo, informando sobre los trámites de adjudicación para para el servicio de **provisión de alimentos** en la **División Territorial 3**.
-
-Según la entidad, en esta ocasión se están implementando metodologías que no se consideraron en las pasadas administraciones, para eliminar riesgos de posibles **irregularidades**.
-
-Felipe Caicedo no juega desde hace un año, ¿Barcelona SC lo quiere?
-===================================================================
-
-Felipe Caicedo ha realizado toda su carrera fuera de Ecuador. Con 16 años fue contratado por el Basilea de Suiza.
------------------------------------------------------------------------------------------------------------------
-
-![Felipe Caicedo en el Abha de Arabia Saudita en octubre de 2022.](https://www.elcomercio.com/wp-content/uploads/2024/06/caicedo_barcelona.jpg)
-
-El nombre de **Felipe Caicedo** siempre ha estado ligado a Barcelona SC. Desde que empezó su carrera confesó ser hincha del club guayaquileño y más de una vez mencionó su deseo de en algún momento jugar ahí.
-
-La realidad es que Felipe Caicedo desde **hace un año no juega un partido oficial**. El  último fue el 31 de mayo de 2023 en la Liga Profesional Saudí con el Abha, según datos que registra el sitio especializado Transfermarkt.
+Este jueves 6 de junio de 2024, el secretario de Salud, **Jorge Alcocer**, acusó a la OMS de emitir un comunicado “**bastante malo**” en el que reportó la primera muerte humana del mundo por el virus AH5N2.
 
 ### Más noticias:
 
-* [¿Cuándo se inician las Finales de la NBA 2024?](https://www.elcomercio.com/deportes/baloncesto/cuando-inician-finales-nba-baloncesto.html "¿Cuándo se inician las Finales de la NBA 2024?")
-* [¿Cuándo empieza la Copa América?](https://www.elcomercio.com/deportes/futbol/cuando-empieza-copa-america-ecuador.html "¿Cuándo empieza la Copa América?")
+* [En Estados Unidos detectan alpacas infectadas con gripe aviar](https://www.elcomercio.com/actualidad/mundo/estados-unidos-alpacas-infectadas-gripe-aviar.html "En Estados Unidos detectan alpacas infectadas con gripe aviar")
+* [OMS pide estar alerta tras la primera muerte por gripe aviar](https://www.elcomercio.com/actualidad/mundo/oms-pide-estar-alerta-tras-la-primera-muerte-por-gripe-aviar.html "OMS pide estar alerta tras la primera muerte por gripe aviar")
+* [Día de las Aves Migratorias 2024 y su lema por la protección de los insectos](https://www.elcomercio.com/tendencias/ambiente/aves-migratorias-ecologia-medio-ambiente-efemeride.html "Día de las Aves Migratorias 2024 y su lema por la protección de los insectos ")
 
-Al 5 de junio de 2024, ha pasado exactamente un año y dos días. En la jornada 30 Caicedo jugó los 90 minutos en la derrota 3-1 ante el Al-Khaleej.
+“Puedo señalar que el comunicado que hizo la Organización Mundial de la Salud es bastante malo, ya que de entrada habla de un caso fatal, cosa que **no fue así**, murió por otra causa y sin que se haya dictaminado, y solo de manera marginal dice que el riesgo en este caso es bajo”, manifestó el funcionario.
 
-Otro dato que inquieta es que en Arabia Saudita **no tuvo la mejor campaña en cuanto a goles**, puesto que marcó tres en 24 presencias.
+En la conferencia matutina del Gobierno, el funcionario sostuvo que el **hombre de 59 años** al que se refirió la OMS murió el 24 de abril por complicaciones derivadas de la diabetes y una falla renal, pero no por el virus AH5N2, de gripe aviar.
 
-El último fue el 10 de marzo de 2023, es decir, hace un año, 2 meses y 21 días, o lo que equivale a 453 días de sequía.
+Muerte del paciente en investigación
+------------------------------------
 
-En su año de inactividad, el veterano delantero de 35 años **comparte en sus redes sociales** videos y fotos de la preparación física que realiza, más en el área de  gimnasio, complementada con otros circuitos con balón.
+El titular de la Secretaría de Salud aseveró que este jueves habría una reunión con el organismo internacional “para precisar” el comunicado que anunció el **deceso del hombre** “como el primer caso humano confirmado en un laboratorio de la infección del **virus de influenza AH5N2** reportado a nivel global”.
 
-¿Barcelona SC quiere a Felipe Caicedo?
+“Esta es una nota que hay tomar con **prudencia** porque no es precisa”, comentó Alcocer.
+
+El funcionario reconoció que “la causa” de muerte “no se ha precisado, pero que está relacionada con una falla renal y respiratoria que tuvo en cuestión de horas”.
+
+La víctima, según la información de la OMS, sería un hombre originario del **Estado de México** que falleció cuando recibió atención en el Instituto Nacional de Enfermedades Respiratorias (INER), en el sur de Ciudad de México, tras días de tener fiebre, dificultad para respirar, diarrea, náuseas y malestar general.
+
+Tras su deceso, “lo que se tomó fueron **muestras** y en una ellas se encontró el virus AH5N2, que está ligado a la gripe aviar”, indicó el secretario de Salud.
+
+“En este caso puede ser un **aviso epidemiológico**, en el caso de las acciones que se dan para los trabajadores que atienden aves y que trabajan con ellas, (pero) este paciente no tenía nada de esto, venía del Estado de México por esas manifestaciones de otro tipo”, argumentó.
+
+> 🔴 Niega titular de [@SSalud\_mx](https://twitter.com/SSalud_mx?ref_src=twsrc%5Etfw) que paciente con gripe aviar haya muerto por la infección del virus.  
+>   
+> Jorge Alcocer, secretario de Salud federal, señaló que el comunicado de la [@opsoms](https://twitter.com/opsoms?ref_src=twsrc%5Etfw), en donde se informó de la muerte de una persona por la gripe aviar AH5N2 en [#México](https://twitter.com/hashtag/M%C3%A9xico?src=hash&ref_src=twsrc%5Etfw), “es… [pic.twitter.com/joYFI1eJe9](https://t.co/joYFI1eJe9)
+> 
+> — Luis Alberto Medina (@elalbertomedina) [June 6, 2024](https://twitter.com/elalbertomedina/status/1798774018616725904?ref_src=twsrc%5Etfw)
+
+Contactos con el hombre son analizados
 --------------------------------------
 
-A finales de 2023 los rumores sobre que **Barcelona SC** quería contratar a Felipe Caicedo crecieron, más que en otros mercados de fichajes.
+El secretario sostuvo que “hasta ahora **no hay ninguna evidencia de transmisión de humano a humano**“, y que el paciente “no tiene antecedentes de contacto familiar” ni de su entorno cercano que expliquen la infección.
 
-Lo cierto es que desde el interior del cuadro canario no se animan a confirmar las noticias que surgen en torno a una eventual contratación del jugador que el **próximo 5 de septiembre cumplirá 36 años**, por lo que todo queda en un simple rumor.
+También aseveró que la Dirección de Epidemiología evaluó “todos esos **contactos**“.
 
-Carrera de Felipe Caicedo
--------------------------
+“Por lo tanto, y puntualizo, no existe ninguna razón para **evitar comer pollo** o sus derivados o estar preocupado por esto”, manifestó.
 
-La primera etapa de formación de ‘Felipao’ la realizó en Rocafuerte de Guayaquil desde los 10 años de edad.
+Horas antes, la OMS tuvo un seminario en **Ginebra**, donde especialistas pidieron una alerta ante posibles nuevos casos tras el caso en México, aunque subrayaron que el riesgo de contagio en humanos permanece bajo.
 
-En 2006, con 16 años, luego de ser la figura de la Selección de Ecuador en un **Campeonato Sudamericano sub-17 en Venezuela**, fue transferido al Basilea de Suiza.
+Emelec arrasó en la venta de boletos en la Liga Pro
+===================================================
 
-Ese fue el punto de partido de una carrera que lo llevó a ser parte del Manchester City de Inglaterra; Sporting Club de Portugal; Málaga, Levante y Espanyol de España; Lazio, Génova e Inter de Milán de Italia; Lokomotiv de Rusia; Al-Jazira de Emiratos Árabes Unidos; y, Abha de Arabia Saudita.
+Emelec no tuvo un buen rendimiento en lo futbolístico, pero sus hinchas no dejaron de alentar al equipo en la Liga Pro.
+-----------------------------------------------------------------------------------------------------------------------
 
-En toda su carrera ha jugado 512 partidos, **anotó 122 goles**, y entregó 36 asistencias.
+![Hinchas de Emelec en el Clásico del Astillero 2024 en el George Capwell.](https://www.elcomercio.com/wp-content/uploads/2024/06/hinchada_emelec.jpg)
 
-‘Felipao’ y la Selección de Ecuador
------------------------------------
+La hinchada de **Emelec** demostró que cuando se trata de acompañar a su equipo en el George Capwell son los más fieles y dicen presente en cualquier partido sin importar el día, la hora, el rival, el clima, o su situación en la tabla de posiciones.
 
-Con la Selección de Ecuador **jugó 80 partidos y anotó 22 goles**.
-
-Tuvo participaciones en las eliminatorias a los mundiales de Sudáfrica 2010; Brasil 2014, con clasificación y posterior participación incluida; y Rusia 2018.
-
-Para la Copa América de Venezuela 2007 y Argentina 2011 también fue considerado.
-
-En septiembre de 2017 **anunció que su retiro de la Tri**. Han existido pedidos para que se vuelva a poner la camiseta amarilla, pero nunca se concretó.
-
-Caso Purga: CNJ resolvió sobre la prisión preventiva para los 13 nuevos vinculados
-==================================================================================
-
-La CNJ vinculó a 13 personas al caso Purga esta semana. La etapa de instrucción fiscal se ampliará por 30 días.
----------------------------------------------------------------------------------------------------------------
-
-![Javier de la Cadena, juez de la Sala Penal de la CNJ, a cargo del caso Purga.](https://www.elcomercio.com/wp-content/uploads/2024/06/javier-web.jpg)
-
-En el caso Purga, la Corte Nacional de Justicia (CNJ) resolvió sobre la prisión y prohibición de enajenar bienes por 35 millones de dólares para los 13 nuevos vinculados al proceso.
-
-Los pedidos fueron realizados por la Fiscalía General del Estado, luego de que el juez Javier de la Cadena resolviera aceptar la vinculación de las 13 personas que pidió la Fiscalía.
+En toda la primera fase de la Liga Pro, **Emelec jugó ocho partidos de local**. De ese total,  siete fue con las puertas abiertas, y uno sin público, por la sanción que le impuso el Comité Disciplinario luego del Clásico del Astillero jugado en abril en el Capwell.
 
 ### Más noticias:
 
-* [Caso Purga: conoce las 25 personas que quiere procesar la Fiscalía General del Estado](https://www.elcomercio.com/actualidad/seguridad/caso-purga-conoce-25-personas-quiere-procesar-fiscalia-general-estado.html "Caso Purga: conoce las 25 personas que quiere procesar la Fiscalía General del Estado")
-* [Caso Purga: Diana Salazar va por más vinculados en la compra de jueces](https://www.elcomercio.com/actualidad/seguridad/caso-purga-diana-salazar-va-por-mas-vinculados-presunta-compra-jueces-cambio-sentencias-favorables.html "Caso Purga: Diana Salazar va por más vinculados en la compra de jueces")
+* [El Nacional se enfoca en su equipo de ciclismo](https://www.elcomercio.com/deportes/nacional-equipo-ciclismo-carrera.html "El Nacional se enfoca en su equipo de ciclismo")
+* [Roland Garros tendrá una final inédita en el tenis](https://www.elcomercio.com/deportes/tenis/roland-garros-final-tenis-alcaraz.html "Roland Garros tendrá una final inédita en el tenis")
 
-El juez de la Cadena manifestó que se han respetado los principio de tutela judicial y que, a partir de hoy, se agregan 30 días para la instrucción fiscal.
+Un total de **103 750 boletos** fueron los que Emelec vendió en la primera etapa. De largo lo convierte en el que más generó en este rubro. Su estadio tiene capacidad para 40 000 personas.
 
-El caso Purga investiga el delito de delincuencia organizada, tipificado en el artículo 369 del Código Orgánica Integral Penal (Coip), con 10 años de prisión.
+Como no podía ser de otra manera, el **Clásico del Astillero ante Barcelona SC** fue el que más expectativa generó con 25 140 boletos adquiridos por sus leales seguidores.
 
-El juez de la CNJ resolvió sobre la prisión preventiva para los 13 nuevos vinculados
-------------------------------------------------------------------------------------
+En el que menos vendió fue en la fecha 15 contra Libertad con 8 152.
 
-La tarde y noche de este miércoles 5 de junio de 2024, el juez Javier de la Cadena sustentó su resolución, señalando que la prisión preventiva es una medida cautelar de última ratio y una medida procesal de carácter preventivo para garantizar la comparecencia al proceso o el cumplimiento de la pena.
+En el segundo lugar el que sorprendió es **El Nacional que llegó a los 59 753** boletos en siete juegos en casa.
 
-El juez De la Cadena señaló que, aplicando el principio de proporcionalidad, se ha cumplido con los presupuestos legítimos y que existen los elementos de convicción suficientes sobre la existencia del delito de delincuencia organizada y se cumple con el requisito de que es un delito con pena de 7 a 10 años, para los 13 procesados.
+Ante Liga de Quito vendió 22 747 boletos. El segundo duelo con mayor interés fue contra Emelec con 14 261.
 
-Uno por uno, el juez de la CNJ emitió su dictamen respecto a la prisión y los bienes de los 13 procesados:
+Liga de Quito y Barcelona quedan debiendo
+-----------------------------------------
 
-* **Mercedes V.V.**, **exdirectora del Consejo de la Judicatura del Guayas** y exdirectora del ámbito disciplinario en esa provincia, en 2023, que salió del país el mismo día del operativo del caso Purga. El juez señaló que la medida de **prisión preventiva es idónea**.
+Sin dudas las hinchadas de **Liga de Quito y Barcelona SC** son las que quedan debiendo en este ítem en la primera fase de la Liga Pro.
 
-* **Tatiana V.M.**, exasesora parlamentaria de **Pablo Muentes**, en la Comisión de Fiscalización y ex jueza de la Unidad de la Mujer en la provincia de Bolívar. El juez consideró que existe un riesgo procesal y consideró que la medida de **prisión preventiva es idónea**.
+**LDU vendió 50 011 boletos** en siete partidos que disputó en el Rodrigo Paz Delgado (41 575 espectadores), mientras que **BSC llegó a los 47 021** en la misma cantidad de partidos en el Monumental (59 283 espectadores).
 
-* **Rubén D.V.**, se desempeñó como asistente de la expresidenta de la Corte de Justicia de Guayas, Fabiola Gallardo, también procesada en este caso; y ayudante judicial del Consejo de la Judicatura del Guayas (2022). El juez expresó que **no procede la prisión preventiva**.
+El primer semestre para ambos equipos estuvo marcado por la inestabilidad de resultados, dirigencial y de sus cuerpos técnicos.
 
-* **Hugo G.A.**, **expresidente de la Corte Provincial de Justicia del Guayas** (2024), el juez dijo que, si bien existen elementos sobre su campaña para llegar a la Presidencia de la Corte Provincial, en el análisis de los mismos, se establece que los indicios expuestos no son suficientes para acreditar su responsabilidad dentro de la organización criminal; por lo que, **no procede la prisión preventiva**.
+Quedaron eliminados en la fase de grupos de la **Copa Libertadores**. Su consuelo internacional será disputar los play-off de los octavos de final de la Copa Sudamericana después de la Copa América.
 
-* **José P.A.**, exjuez de la Corte del Guayas, quien fue destituido en 2022 por llamar a juicio en una causa prescrita, el juez estableció que, con la finalidad de impedir que se obstruya el proceso y por el riesgo de evadir la justicia, la **prisión preventiva es idónea**.
+En la parte dirigencial, en enero Liga se despidió de **Esteban Paz**, que estaba encargado de la Comisión Especial de Fútbol, lo que causó un remezón en la parte futbolística.
 
-* **Esteban Ch.P.**, asesor jurídico del Cuerpo de Ingenieros del Ejército, en los chats como ‘Andrés Militares’, el juez señaló que el riesgo de fuga es elevado y la **prisión preventiva es idónea**.
+Barcelona recién en **mayo eligió su presidente**. Este proceso se debió desarrollar en septiembre de 2023.
 
-* **Juan Xavier R.J.,** **comandante del Cuerpo de Ingenieros del Ejército**, el juez determinó que **no procede la prisión preventiva**, pero se le prohíbe ausentarse del país y obligación de presentarse semanalmente en la Fiscalía.
+La última coincidencia es que ambas instituciones **cambiaron sus entrenadores** por falta de resultados convincentes.
 
-* **Freddy J.C.,** excomandante del Cuerpo de Ingenieros del Ejército, el juez señaló que los elementos de convicción no son claros ni precisos; por lo que, **no procede la prisión preventiva**.
+IDV no despega con los hinchas
+------------------------------
 
-* **Andrea P.M.**, jueza de Durán, quien, a través de un hábeas data, ordenó anular la ficha catastral 401 de 12 hectáreas en Durán para inscribir unos lotes a favor de la familia Muentes. El juez dijo que, por encontrarse en período de gestación, **no procede la prisión preventiva.**
+Independiente del Valle ganó la primera etapa, pero donde no tuvo la misma suerte es a la hora de vender boletos.
 
-* **Susana B.L.**, técnico de ventanilla e información en el Consejo de la Judicatura del Guayas, en 2022, responsable del sorteo de causas, el juez **dictó prisión preventiva**.
+De los 16 equipos de la Serie A, ocupa el **séptimo puesto con 27 815** boletos comprados por su naciente hinchada.
 
-* **Jackeline D.P.**, coordinadora provincial de Talento Humano del Consejo de la Judicatura del Guayas, el juez manifestó que la medida de **prisión preventiva es idónea** por el riesgo procesal y para asegurar que la procesada no eluda la justicia.
+Un número poco atractivo para un equipo que en los últimos años supo ganar la Copa Sudamericana dos veces, una la Liga Pro, una Copa Ecuador, una Supercopa Ecuador y una Recopa Sudamericana.
 
-* **Miriam R.I.,** coordinadora provincial de Secretaría y Archivo del Consejo de la Judicatura del Guayas, el juez señaló que la **prisión preventiva es idónea**.
+Un dato preocupante es para la **Universidad Católica**. A falta del dato del juego ante Barcelona SC, los capitalinos solo vendieron 2 791 boletos, el más bajo de todo el semestre.
 
-* **Silvia O.V.**, jueza de la Unidad Judicial Civil, Mercantil e Inquilinato de Guayaquil, el juez estableció **prisión preventiva**.
+Una provincia tendrá radiación ‘muy alta’, este viernes 7 de junio
+==================================================================
 
-El juez de la CNJ resolvió sobre el pedido de la Fiscalía de prohibir enajenar bienes por 35 millones de dólares
-----------------------------------------------------------------------------------------------------------------
+El Inamhi dio su previsión de radiación solar para Ecuador.
+-----------------------------------------------------------
 
-El último punto tratado por el juez Javier de la Cadena en la audiencia del caso Purga fue el pedido de la Fiscalía para prohibir enajenar bienes por 35 millones de dólares a los procesados.
+![La radiación solar en Ecuador se reducirá este viernes](https://www.elcomercio.com/wp-content/uploads/2024/06/clima-ecuador-quito-s.jpg)
 
-Los **hechos principales** en los que la Fiscalía basa este **caso son:** los **préstamos del Banco del Pacífico** al exasambleísta del PSC, Pablo Muentes y su esposa Mónica, por el que salieron beneficiados con 3.9 millones de dólares; **la  apropiación ilegítima de tierras**, por la adquisición irregular de un terreno por 200.000 dólares.
+El Instituto Nacional de Meteorología e Hidrología (**Inamhi**) detalló los niveles de **radiación ultravioleta** (UV) que tendrá Ecuador para este viernes 7 de junio de 2024.
 
-Además, un caso judicial del **Cuerpo de Ingenieros del Ejército** por 30 millones de dólares; el pago de un total de 1 485 dólares para el **cambio de piso de la Corte de Justicia de Guayas;** y el **traslado de Adolfo Macías, alias Fito,** desde la cárcel regional de Guayaquil hacia La Roca.
+Según informó la entidad, los índices de **rayos solares** en el país oscilarán entre moderados, altos y muy altos.
 
-El juez De la Cadena manifestó que el **monto individual por el que le correspondería responder a cada uno de los 25 procesados** es de 159 381 dólares.
+### Más noticias:
 
-Por ello, ordenó la retención de cuentas bancarias, pólizas e inversiones; excepto lo relativo a alimentos, jubilación y otros.
+* [La CorteIDH analiza el impacto de la crisis climática](https://www.elcomercio.com/actualidad/mundo/corteidh-impacto-crisis-climatica.html "La CorteIDH analiza el impacto de la crisis climática ")
+* [Aeropuerto de Quito reprograma estos vuelos](https://www.elcomercio.com/actualidad/ecuador/aeropuerto-de-quito-reprograma-estos-vuelos.html "Aeropuerto de Quito reprograma estos vuelos")
+* [Choques en varias vías de Quito complican el tránsito este jueves 6 de junio](https://www.elcomercio.com/actualidad/quito/choque-simon-bolivar-quito-transito.html "Choques en varias vías de Quito complican el tránsito este jueves 6 de junio")
 
-Además, ordenó la prohibición de enajenar bienes.
+La Amazonía será la región con menos radiación UV este viernes. Los índices en esta región serán moderados (5).
 
-Ecuador y SolGold firmaron el contrato de explotación minera de Cascabel
-========================================================================
+La **Sierra** y **Costa** tendrán niveles superiores. En estas regiones los índices variarán entre 6 y 7, niveles altos.
 
-El documento compromete una inversión cercana a los 4 200 millones de dólares durante los 28 años de vida útil del proyecto.
-----------------------------------------------------------------------------------------------------------------------------
+Galápagos será la provincia con los niveles más altos de rayos ultravioleta, la región Insular tendrá índices muy altos (8).
 
-![El proyecto minero está ubicado en la parroquia Lila, en la provincia de Imbabura. Cortesía: SolGold](https://www.elcomercio.com/wp-content/uploads/2024/06/Cascabel-Ecuador-mineria.jpg)
+En esta última provincia, el Inamhi recomienda a la ciudadanía evitar la exposición prolongada al sol entre las **10:00** y las **15:00**.
 
-El **Gobierno de Ecuador** y la compañía minera **SolGold** firmaron el denominado **Contrato de Explotación** Minera. La intención es viabilizar el desarrollo del proyecto minero **Cascabel**, ubicado en **Imbabura**.
+Se aconseja el uso de ropa larga, gorras, gafas, parasoles y **bloqueador solar** para evitar daños a la salud.
 
-La firma se realizó este miércoles 5 de junio de 2024 entre el **viceministro de Minas**, Diego Ocampo; y el presidente de la empresa, **Scott Cadwell.** **SolGold** es una compañía australiana que enfoca en el descubrimiento y definición de depósitos de cobre y oro de clase mundial.
+> [#RadiacionMaximaUVEC](https://twitter.com/hashtag/RadiacionMaximaUVEC?src=hash&ref_src=twsrc%5Etfw) l Pronóstico del Índice Máximo de Radiación Ultravioleta (IUV) previsto el viernes, 07 de junio de 2024. Se esperan menores Índices en la Amazonía ☁️🌥️. [pic.twitter.com/R6LN2aSsz7](https://t.co/R6LN2aSsz7)
+> 
+> — INAMHI Ecuador 🇪🇨 (@inamhi\_ec) [June 6, 2024](https://twitter.com/inamhi_ec/status/1798830912018289097?ref_src=twsrc%5Etfw)
 
-Este documento compromete una inversión cercana a los 4 200 millones de dólares destinado a gastos de capital durante los 28 años de vida útil del proyecto **Cascabel**.
+Clima cambiante en Quito
+------------------------
 
-Este proyecto generará más de 2 500 plazas de empleo en la fase de construcción de la mina.
+La entidad encargada del clima en Ecuador informó las razones para los cambios de clima bruscos que tiene Quito.
+
+El Inamhi señaló que el país atraviesa una **época de transición** a la temporada seca y por ello el clima es cambiante.
+
+Mónica Oñate, analista de **Pronósticos del Inamhi**, señala que en días pasados hubo el ingreso de masas de aire seco, lo que ocasiona que haya **disminución de la humedad** en la atmósfera.
+
+Este fenómeno provoca **menor formación de nubes**, cielos más despejados y **radiación** mucho más alta.
+
+Sin embargo, desde la noche del 3 de junio hubo un ingreso mayor de **humedad** desde la Cuenca Amazónica, por lo que en los siguientes días habrá **cielos con más nubosidad** y una disminución de **radiación ultravioleta**.
+
+Durante las mañanas, aún habrá **episodios de sol**, pero no tan intensos como en días anteriores.
+
+Según Oñate, existe la probabilidad de **lluvias ocasionales**, sobre todo al sur de la capital, en horas de la tarde.
+
+En esta temporada de **transición a la época seca,** ya no se presentarían con mucha frecuencia las **lluvias**.
+
+Estudiantes de colegios municipales recibieron homenaje, en Quito
+=================================================================
+
+El evento de reconocimiento se realizó en el Teatro de la Casa de las Culturas.
+-------------------------------------------------------------------------------
+
+![Los mejores estudiantes de los colegios municipales de Quito fueron homenajeados](https://www.elcomercio.com/wp-content/uploads/2024/06/homenaje-estudiantes.jpg)
+
+Los abanderados del **Pabellón Nacional** de los colegios municipales fueron **homenajeados** este jueves 6 de junio de 2024.
+
+En la ceremonia desarrollada en el Teatro Nacional de la Casa de las Culturas, en el centro norte de Quito, los estudiantes con las **mejores calificaciones** recibieron el reconocimiento del Municipio.
+
+### Más noticias:
+
+* [Se estableció fecha límite de inscripción en colegios y escuelas municipales de Quito](https://www.elcomercio.com/actualidad/quito/fecha-limite-inscripciones-colegios-municipales-quito.html "Se estableció fecha límite de inscripción en colegios y escuelas municipales de Quito")
+* [Se declaró desierto el proceso de pautaje y publicidad del Municipio de Quito](https://www.elcomercio.com/actualidad/quito/pautaje-publicidad-desierto-municipio-quito.html "Se declaró desierto el proceso de pautaje y publicidad del Municipio de Quito")
+* [Así funciona el Pico y placa en Quito este jueves 6 de junio](https://www.elcomercio.com/actualidad/quito/asi-funciona-el-pico-y-placa-en-quito-este-jueves-6-de-junio.html "Así funciona el Pico y placa en Quito este jueves 6 de junio")
+
+En total, 474 abanderados fueron premiados con la Mención de Honor Estudiantil **Abdón Calderón**.
+
+Los alumnos recibieron una **medalla** y un **diploma** por su destacado desempeño académico.
+
+Oferta educativa municipal
+--------------------------
+
+Las unidades educativas municipales en Quito son **34**, entre escuelas y colegios. En estos centros estudian alrededor de **25 mil niños** y **jóvenes** a cargo de **1 300 profesores**.
+
+**Pabel Muñoz**, alcalde de la ciudad, manifestó que “es importante incrementar la oferta educativa” en la capital, pese a ser una competencia del Gobierno Nacional.
+
+El funcionario aseguró que para ello, el Municipio trabajar junto al sector privado. Por ejemplo, “en la creación del **Instituto Tecnológico** para que los jóvenes tengan otras opciones a parte de las universidades”, dijo Muñoz.
+
+La secretaria de Educación, **María Isabel Salvador**, motivó a los alumnos a enfrentar los nuevos desafíos con cercanía a la tecnología y a los idiomas, “de acuerdo a las exigencias de las empresas y las industrias”.
+
+Muñoz se sumó al mensaje: “Mientras más leamos, seremos mejores personas y mejor sociedad. Si a esto se suma la recuperación de valores como honestidad, transparencia y solidaridad (…) vamos por buen camino”, añadió.
+
+**Eilen Ponce**, abanderada del colegio Marvin Minsky, en la modalidad en línea, agradeció el homenaje: “Felicitaciones a los abanderados, es un gran orgullo representar a todo Quito y ser futuros estudiantes de las universidades”, comentó.
+
+> 🏅 [#EducaciónQuito](https://twitter.com/hashtag/Educaci%C3%B3nQuito?src=hash&ref_src=twsrc%5Etfw) | Realizamos la entrega de la Mención de Honor Estudiantil “Abdón Calderón”. 474 abanderados del Pabellón Nacional, de todos los sostenimientos, recibieron la medalla y diploma por su destacado desempeño académico. [pic.twitter.com/tQAu0aEjSX](https://t.co/tQAu0aEjSX)
+> 
+> — Secretaría de Educación, Recreación y Deporte (@EducacionQuito) [June 6, 2024](https://twitter.com/EducacionQuito/status/1798817164209881276?ref_src=twsrc%5Etfw)
+
+Daniel Noboa realiza cambios en la CFN
+======================================
+
+Daniel Noboa firmó el Decreto Ejecutivo No. 868 con el que reforma dos decretos más de 2015 y 2022.
+---------------------------------------------------------------------------------------------------
+
+![Daniel Noboa reformó dos decretos sobre la CFN.](https://www.elcomercio.com/wp-content/uploads/2024/06/daniel-noboa-azin.jpg)
+
+El presidente **Daniel Noboa** firmó el **Decreto Ejecutivo No. 868** en el que reforma dos decretos referentes a la **Corporación Financiera Nacional (CFN)**.
+
+El primer decreto reformado se refiere a la reorganización de la CFN y el segundo decreto reformado trata sobre la fusión con **BanEcuador**.
+
+El Decreto Ejecutivo No. 868, firmado por Daniel Noboa el 3 de junio de 2024, señala que el proceso de fusión no podrá realizarse.
+
+### Más noticias:
+
+* [Así es el nuevo decreto de Daniel Noboa para pagar deuda pública con bonos](https://www.elcomercio.com/actualidad/politica/daniel-noboa-decreto-deuda-publica-bonos.html "Así es el nuevo decreto de Daniel Noboa para pagar deuda pública con bonos")
+* [Daniel Noboa firmó veto total a ley para entrega oportuna de recursos a municipios y prefecturas](https://www.elcomercio.com/actualidad/politica/daniel-noboa-veto-total-ley-entrega-oportuna-recursos-municipios-prefecturas.html "Daniel Noboa firmó veto total a ley para entrega oportuna de recursos a municipios y prefecturas")
+
+“Como parte del proceso de fortalecimiento de la Corporación Financiera Nacional BP y BanEcuador B.P.; **el proceso de fusión no podrá ejecutarse** durante la vigencia de programas proyectos financiados con organismos multilaterales de crédito a favor de las mencionadas entidades financieras públicas”, señala el texto.
+
+La Junta de Política y Regulación Financiera, en el plazo de 90 días, procederá a actualizar las disposiciones relativas al programa de crédito para la Corporación Financiera Nacional B.P. como **banca de segundo piso**, de acuerdo a lo establecido en el presente Decreto Ejecutivo.
+
+La Corporación Financiera Nacional B.P. mantendrá calidad de acreedora de las **operaciones de crédito de primer piso** que se encontraren vigentes, debiendo por ello administrarlas, hasta su cancelación por los mecanismos legales vigentes.
+
+_NDLR: P_u_blicamos una nota en la que se tituló: Daniel Noboa fusiona la CFN y BanEcuador, lo que es un error, ofrecemos una disculpa._
+
+Ecuador le ganó por última vez a Argentina en Buenos Aires
+==========================================================
+
+El domingo 9 de junio de 2024 las selecciones de Argentina y Ecuador jugarán un amistoso en Estados Unidos.
+-----------------------------------------------------------------------------------------------------------
+
+![Felipe Caicedo (c) celebra el gol marcado a Argentina en el 2015 en Buenos Aires.](https://www.elcomercio.com/wp-content/uploads/2024/06/argentina_ecuador_2015.jpg)
+
+El 8 de octubre de 2015 la **Selección de Ecuador** dio una sorpresa inesperada al vencer por 0-2 a la de Argentina en el estadio Monumental de River Plate, en Buenos Aires.
+
+El partido entre **Argentina y Ecuador** correspondió a la primera fecha de las eliminatorias al Mundial Rusia 2018.
+
+En el banco de suplente de los locales **estuvo Gerardo Martino**, quien en 1996 tuvo un breve paso por Barcelona SC como jugador, mientras que Ecuador contaba con el argentino boliviano Gustavo Quintero, con pasado en Emelec como entrenador.
+
+### Más noticias:
+
+* [San Diego FC presentó a Hirving Lozano a lo Dragon Ball Z](https://www.elcomercio.com/deportes/futbol/san-diegofc-presento-a-hirving-lozano-dragon-ballz.html "San Diego FC presentó a Hirving Lozano a lo Dragon Ball Z")
+* [Luis Alfonso Chango responde con dureza a ‘insinuaciones’ de Michel Deller](https://www.elcomercio.com/deportes/futbol/luis-alfonso-chango-michel-deller.html "Luis Alfonso Chango responde con dureza a ‘insinuaciones’ de Michel Deller")
+
+La albicelestes llegaba como flamante **subcampeona del mundo**. En Brasil 2014 perdió la final ante Alemania con el recordado gol de Mario Götze en el tiempo suplementario, en el Maracaná.
+
+También habían perdido la **final de la Copa América 2015** a manos de Chile, en el Nacional de Santiago.
+
+La Tri por su parte quedó eliminada en la fase de grupos del Mundial a manos de Suiza y Francia, que  avanzaron a los octavos de final. Honduras fue el otro eliminado. En la Copa América también cayó en la fase de grupos.
+
+Los goles de Ecuador en Buenos Aires
+------------------------------------
+
+La selección de Ecuador pegó en los momentos justos en el marcador. Tras resistir los desordenados ataques de los locales, que no contaron con Lionel Messi, su respuesta fue contundente.
+
+A los 81 minutos el defensa central **Frickson Erazo** anotó con golpe de cabeza. La jugada se gestó con un tiro de esquina cobrado por Fidel Martínez. El balón fue desviado y llegó al esmeraldeño que lo envió al fondo del arco rival.
+
+A minuto seguido y cuando los ecuatorianos aún seguían celebrando llegó el 0-2 definitivo.
+
+En la jugada intervinieron **Christian Noboa y Miller Bolaños**, que habilitó a Antonio Valencia, que como un verdadero ‘Tren amazónico’, recorrió la banda derecha dejando en el camino a  cuanto argentino se le puso en el camino.
+
+El pase le llegó a **Felipe Caicedo** que con el arco a su disposición anotó a los 82 minutos.
+
+Al final de las eliminatorias Argentina logró una dramática clasificación al Mundial al vencer a los tricolores por 1-3 en el **Olímpico Atahualpa**, con un triplete de Messi.
+
+La Tri **cerró una proceso que no le alcanzó** para clasificar. Jorge Célico asumió como interino. Quinteros fue cesado del cargo por la cadena de malos resultados.
+
+Alineación de Argentina
+-----------------------
+
+Sergio Romero; Nicolás Otamendi, Ezequiel Garay, Emmanuel Más, Facundo Roncaglia; Javier Mascherano, Javier Pastore (Ezequiel Lavezzi), **Lucas Biglia, Sergio Agüero (Carlos Tévez)**; Ángel Correa y Ángel Di María.
+
+DT: Gerardo Martino.
+
+Alineación de Ecuador
+---------------------
+
+Alexander Domínguez; Frickson Erazo, Gabriel Achilier, Walter Ayoví, Juan Carlos Paredes; Pedro Quiñónez, **Christian Noboa (Segundo Alejandro Castillo)**, Jefferson Montero (Fidel Martínez), Antonio Valencia; Miller Bolaños y Felipe Caicedo.
+
+DT. Gustavo Quinteros.
+
+Bradley Salazar deja en alto a Ecuador en rally
+===============================================
+
+Con el Lumenia Racing Team, Bradley Salazar y su copiloto Marco Guerrón finalizaron en el Top 10 del Baja 500.
+--------------------------------------------------------------------------------------------------------------
+
+![Bradley Salazar y Marco Guerrón en el Baja 500 de rally con la bandera de Ecuador. Foto: Cortesía](https://www.elcomercio.com/wp-content/uploads/2024/06/Diseno-sin-titulo-48.jpg)
+
+Después de seis días de haber debutado en el circuito de rally Baja 500, el piloto ecuatoriano **Bradley Salazar** finalizó su participación. Su compatriota **Marco Guerrón** lo acompañó como copiloto y tuvieron una destacada participación.
+
+Semanas de entrenamiento en el poblado Casas Viejas, Guayas, dieron resultado para los deportistas, quienes realizaban alrededor de **80 kilómetros diarios** de ruta hasta llegar a Olón. Rutas de segundo y tercer orden fueron las ideales para cumplir una preparación que no solo fue física, sino mental debido a las condiciones que enfrentarían en la carrera.
+
+### Más noticias:
+
+* [El ecuatoriano Bradley Salazar sueña con Rally Dakar e irá a Baja 500](https://www.elcomercio.com/deportes/bradley-salazar-rally-dakar-bajas.html "El ecuatoriano Bradley Salazar sueña con Rally Dakar e irá a Baja 500")
+* [Volkswagen triunfa en el Rally Nacional Caminos de Imbabura](https://www.elcomercio.com/empresariales/volkswagen-triunfa-rally-nacional-caminos-imbabura.html "Volkswagen triunfa en el Rally Nacional Caminos de Imbabura")
+* [¿Cuándo será el Gran Premio de Emilia-Romagna de Fórmula 1?](https://www.elcomercio.com/deportes/formula-1/cuando-gran-premio-emilia-romagna-formula1.html "¿Cuándo será el Gran Premio de Emilia-Romagna de Fórmula 1?")
+
+Más allá de haber considerado que el terminar ya sería un logro, la meta inicial de **Salazar y Guerrón** había sido ubicarse entre los 10 mejores de la competencia y no fallaron en el cálculo ni en las expectativas. El equipo de los tricolores logró cumplir y se ubicó en la décima posición de la carrera.
+
+Con un tiempo acumulado de **18 horas, 32 minutos y 28 segundos**, durante nueve etapas celebradas, los ecuatorianos se adjudicaron su puesto en recorrido de 500 millas. El líder fue Phil Blurton del CAN-AM, quien finalizó con un tiempo de 12 horas, cinco minutos y 51 segundos.
+
+Entre los desafíos adicionales, el equipo debió lidiar con temperaturas entre **44 y 18 grados** **centígrados** en un territorio desértico.
+
+La categoría en la que compitió la dupla fue la de UTV Forced Induction y el circuito del Baja 500 se lo realizó en Ensanda, sector fronterizo entre México y Estados Unidos. Con el número 2980 y con el **Lumenia Racing Team**, los ecuatorianos cruzaron la meta.
+
+¿Qué le espera a Bradley Salazar y a su equipo?
+-----------------------------------------------
+
+Esta fue la primera participación de Bradley Salazar y Marco Guerrón en el **Baja 500.** Tras la participación, los objetivos no cambian y los pilotos se prepararán para una nueva carrera que está por confirmarse.
+
+Antes de su última participación, Salazar estuvo en el Baja Jail de Arabia Saudita. Previo a partir hacia su más reciente evento, este había anticipado que irá al **Baja Dubai** en noviembre de 2024, aunque también espera llegar a Italia en septiembre.
+
+El objetivo máximo es retornar al **Rally Dakar de 2026**. La fecha apuntada para tal competencia se da debido a que, según Salazar, es necesaria una preparación mínima de dos años. Ante ello también debe equilibrar presupuestos y mantener su preparación.
+
+El Rally Dakar ya tuvo su participación
+---------------------------------------
+
+En 2023, Bradley Salazar debutó en el Rally Dakar. Este compitió en la categoría T3 Prototipo Ligero y ocupo el **puesto 20.**
+
+Durante aquella oportunidad, el argentino **Eugenio ‘Pachu’ Arrieta** lo acompañó como copiloto. El ecuatoriano Sebastián Guayasamín también tuvo participación en tal edición y finalizó en el top 10 de la categoría T4 SSV de serie modificado.
+
+Razones de la Asamblea para archivar el proyecto de Seguridad Digital
+=====================================================================
+
+El proyecto de Seguridad Digital era de iniciativa del bloque oficialista, Acción Democrática Nacional.
+-------------------------------------------------------------------------------------------------------
+
+![Carlos Vera Mora (PSC) expuso las razones para proponer el archivo del proyecto de Ley de Seguridad Digital.](https://www.elcomercio.com/wp-content/uploads/2024/06/vera-web.jpg)
+
+El **Pleno de la Asamblea** fue convocado la mañana de este 6 de junio de 2024 para conocer y resolver respecto al informe para segundo debate del **proyecto de Ley Orgánica de Seguridad Digital**.
+
+El proyecto de Ley Orgánica de Seguridad Digital nació de la bancada oficialista, **Acción Democrática Nacional (ADN).**
+
+### Más noticias:
+
+* [Maridaje entre Gobierno de Daniel Noboa y Asamblea se acaba](https://www.elcomercio.com/actualidad/politica/daniel-noboa-asamblea-maridaje-acaba.html "Maridaje entre Gobierno de Daniel Noboa y Asamblea se acaba")
+* [Correísmo tendrá que esperar para plantear moción a favor de Verónica Abad en la Asamblea](https://www.elcomercio.com/actualidad/politica/correismo-esperar-plantear-mocion-favor-veronica-abad-asamblea.html "Correísmo tendrá que esperar para plantear moción a favor de Verónica Abad en la Asamblea")
+
+El proyecto proponía **regulaciones** para hacer frente a las amenazas, riesgos e incidentes en el ciberespacio u otros entornos digitales mediante el **Sistema Nacional de Seguridad y sus subsistemas**.
+
+Además, creaba procesos para la prevención, identificación, mitigación, respuesta y resiliencia frente a las **amenazas, riesgos e incidentes en el ciberespacio** u otros entornos digitales.
+
+El proyecto fue archivado en el Pleno de la Asamblea por **75 asambleístas**. El proponente del archivo fue el asambleísta socialcristiano, Carlos Vera Mora.
+
+Razones para archivar proyecto de Ley de Seguridad Digital en la Asamblea
+-------------------------------------------------------------------------
+
+Carlos Vera Mora, proponente del archivo, manifestó que, si bien la norma cuenta con aspectos positivos, también **genera dudas en la conformación de protocolos para su aplicabilidad en materia de protección de los datos ciudadanos**.
+
+Sin embargo, **Valentina Centeno**, de la bancada oficialista ADN, expresó que todas las observaciones al proyecto de ley fueron acogidas y que la razón del archivo fue otra.
+
+Sin embargo, por el **veto total** del presidente Daniel Noboa, al proyecto de ley para la entrega “oportuna” de recursos, ahora se oponen a una ley de Seguridad Digital, aseguró Centeno.
+
+En la Asamblea, Carlos Vera Mora es presidente de la **Comisión Multipartidista que se encarga de tratar los cinco proyectos de reformas de la consulta popular 2024**, que fue de iniciativa de Daniel Noboa.
+
+En caso de asumir la presidencia, Verónica Abad, ¿a quién podría dar un indulto?
+================================================================================
+
+Varias hipótesis se han creado alrededor de la posible posesión de Verónica Abad como Presidenta de la República en reemplazo de Daniel Noboa.
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+![Verónica Abad en su posesión como Vicepresidenta de la República en la Asamblea Nacional.](https://www.elcomercio.com/wp-content/uploads/2024/06/vero-abad-vicepresidenta.jpg)
+
+En un escenario hipotético donde **Verónica Abad** asumiera la presidencia del Ecuador, la discusión sobre la posibilidad de otorgar **indultos presidenciales**, especialmente a figuras controversiales como **Rafael Correa y Jorge Glas**, cobró relevancia.
 
 ### Más noticias
 
+* [Correísmo se acerca a Verónica Abad y su deseo de asumir la Presidencia](https://www.elcomercio.com/actualidad/politica/correismo-se-acerca-veronica-abad-deseo-asumir-presidencia.html)
+* [Correísmo tendrá que esperar para plantear moción a favor de Verónica Abad en la Asamblea](https://www.elcomercio.com/actualidad/politica/correismo-esperar-plantear-mocion-favor-veronica-abad-asamblea.html)
+* [Caso Nene: Verónica Abad respondió al llamado de la Fiscalía](https://www.elcomercio.com/actualidad/politica/caso-nene-veronica-abad-respondio-llamado-fiscalia.html)
+
+La vicepresidenta Verónica Abad mantuvo un discurso contra la **izquierda y el correísmo** en campaña electoral.
+
+Ahora, ella, al ser consultada sobre un posible **indulto** al expresidente **Rafael Correa**, sentenciado en el **caso Sobornos**, líder del correísmo y ahora prófugo, no dio **respuestas tajantes**, al contrario, dejó abierta la posibilidad a analizar si la justicia actuó o no bien.
+
+“En realidad ahí tiene que funcionar la justicia (…) **Lo que tenemos que ver es si esa justicia actuó bien o mal**“, dijo en una entrevista en Ecuavisa.
+
+“Esto no se trata del expresidente Rafael Correa, no se trata del **expresidente Lasso**, de Moreno. Esto se trata de que funcione la justicia para todos los ecuatorianos”, agregó Abad.
+
+¿Qué dice el COIP sobre el indulto presidencial?
+------------------------------------------------
+
+Según el artículo 74 del Código Orgánico Integral Penal (COIP) menciona lo siguiente sobre el indulto presidencial:
+
+* La o el Presidente de la República podrá conceder indulto, conmutación o rebaja de las penas impuestas en sentencia ejecutoriada.
+* Se concederá a la persona sentenciada que se encuentra privada de libertad y que observe buena conducta posterior al delito.
+* La solicitud se dirigirá a la o al Presidente de la República o a la autoridad que designe para el efecto, quien evaluará si la solicitud es o no procedente.
+
+**Indulto: extinción de la pena, no del delito**
+------------------------------------------------
+
+**Edison Guarango**, abogado constitucionalista, explicó que el **indulto es una figura jurídica** que extingue la pena, pero no el delito. Es decir, aunque una persona indultada deje de cumplir su condena, **sigue siendo responsable del delito cometido**.
+
+“Cuando una persona se le indulta no implica que no existió el cometimiento de un delito. El indulto genera la **extinción de la pena**, más no la extinción o el **desconocimiento del delito**“, aclaró Guarango.
+
+Guarango subrayó que el indulto se concede por **razones humanitarias** y no aplica a todos los delitos. S**egún el Código Orgánico Integral Penal (COIP)**, delitos como los **cometidos contra la administración pública**, genocidio, tortura, desaparición forzada, secuestro y homicidio por razones políticas, **no pueden ser indultados**.
+
+“En el caso de **Rafael Correa**, quien fue sentenciado por un delito contra la administración pública, **no sería posible otorgarle un indulto**“, afirmó Guarango.
+
+Además, añadió que uno de los requisitos para el indulto es que la persona esté **privada de libertad** y mantenga buena conducta. Correa, quien se encuentra en **Bélgica**, **no cumple con esta condición**, ya que no está purgando su pena en un **centro de rehabilitación social**.
+
+**Jurídicamente, no es viable**
+-------------------------------
+
+Por su parte, **David Nicolalde**, abogado constitucionalista, coincidió en que **jurídicamente no es viable un indulto para Rafael Correa**. Resaltó que el indulto se aplica en **casos excepcionales**, como enfermedades catastróficas comprobadas, y que la persona beneficiada debe estar privada de libertad y cumpliendo su condena.
+
+“Desde el punto de vista jurídico, no procede un indulto para Rafael Correa o Jorge Glas, ya que **ambos fueron sentenciados por delitos contra la administración pública** y no cumplen con los requisitos establecidos en la ley”, indicó Nicolalde.
+
+**Condiciones específicas: sentencias ejecutoriadas y penas cumplidas**
+-----------------------------------------------------------------------
+
+**Nicolalde** enfatizó que la sentencia debe estar **ejecutoriada** y la persona debe estar purgando su **pena en prisión**. En el caso de Correa, aunque la **sentencia está ejecutoriada**, no está siendo cumplida debido a su estancia en el extranjero, lo que impide la **aplicación del indulto**.
+
+Las declaraciones de **ambos especialistas** coinciden en que, bajo las actuales disposiciones legales y las condiciones específicas de los casos de **Rafael Correa y Jorge Glas**, Verónica Abad no podría otorgarles un indulto presidencial. La **normativa ecuatoriana** es clara en limitar esta prerrogativa a ciertos casos excepcionales y humanitarios, excluyendo **delitos graves** como los cometidos contra la administración pública.
+
+¿Cuáles son los réditos para Ecuador de explotar la sexta mina de cobre más grande del mundo?
+=============================================================================================
+
+La empresa minera SolGold construirá la mina de explotación de Cascabel, luego de cumplir los requisitos ambientales.
+---------------------------------------------------------------------------------------------------------------------
+
+![El proyecto Cascabel se encuentra en la parroquia Lita, del cantón Imbabura, en el norte de Ecuador](https://www.elcomercio.com/wp-content/uploads/2024/06/CASCABEL-LITA.jpg)
+
+La construcción de la mina del **proyecto Cascabel** no será de inmediato. Pero, los **réditos económicos** son cuantiosos para Ecuador, al tener la sexta mina de cobre más grande del mundo.
+
+### Más noticias
+
+* [Ecuador y SolGold firmaron el contrato de explotación minera de Cascabel](https://www.elcomercio.com/actualidad/negocios/ecuador-solgold-firmaron-contrato-explotacion-minera-cascabel.html "Ecuador y SolGold firmaron el contrato de explotación minera de Cascabel")
 * [¿Cuáles son los destinos del oro y cobre que exporta Ecuador?](https://www.elcomercio.com/actualidad/negocios/cuales-destinos-oro-cobre-exporta-ecuador.html "¿Cuáles son los destinos del oro y cobre que exporta Ecuador?")
-* [Presidente Noboa crea tres agencias para control de hidrocarburos, minería y electricidad](https://www.elcomercio.com/actualidad/negocios/presidente-noboa-tres-agencias-control-hidrocarburos-mineria-electricidad.html "Presidente Noboa crea tres agencias para control de hidrocarburos, minería y electricidad")
-* [Banco Mundial encuentra oportunidades para un crecimiento inclusivo y sostenible en Ecuador](https://www.elcomercio.com/actualidad/negocios/banco-mundial-encuentra-oportunidades-para-un-crecimiento-inclusivo-y-sostenible-en-ecuador.html "Banco Mundial encuentra oportunidades para un crecimiento inclusivo y sostenible en Ecuador")
+* [Empresas de Ecuador y Canadá se unirán para explorar áreas con potencial minero en Morona Santiago](https://www.elcomercio.com/actualidad/negocios/empresas-ecuador-canada-exploracion-areas-con-potencial-minero-morona-santiago.html "Empresas de Ecuador y Canadá se unirán para explorar áreas con potencial minero en Morona Santiago")
 
-La inversión minera
--------------------
+**Scott Caldwell, CEO y presidente de SolGold Ecuador**, se expresa de esta manera al firmar el **Contrato de Explotación con Ecuador.** 
 
-De acuerdo con la información del **Ministerio de Energía y Minas**, se prevé un pago anticipado de USD 75 millones al Estado por concepto de **regalías**. Los fondos serán asignados de forma paulatina.
+Para su empresa, es un logro significativo. “Este proyecto no solo representa un avance importante en la minería responsable en Ecuador, sino que también es una promesa de valor duradero y un legado sostenible para el país”.
 
-Es decir, **25 millones de dólares** a la fecha de inicio de construcción. La misma cantidad un año después. Otros 25 millones de dólares serán entregados a los dos años.
+Cascabel es considerada una mina de clase mundial, debido a sus enormes depósitos de cobre, oro y plata. El proyecto se ubica entre las parroquias **Lita y Carolina, en la provincia de Imbabura**.
 
-Para el Gobierno, la construcción de la mina Cascabel es fundamental en el cumplimiento de los objetivos del Plan Nacional de Desarrollo (Plan para el Nuevo Ecuador 2024–2025) y para lograr los indicadores establecidos en el Plan Estratégico Institucional del **Ministerio de Energía y Minas.**
+La firma del contrato de explotación con el Estado ecuatoriano es una buena noticia para el país y, por supuesto, para el sector minero.
 
-El potencial de Cascabel 
--------------------------
+Así lo siente **María Eulalia Silva, presidenta Ejecutiva de la Cámara de Minería del Ecuador**. 
 
-El proyecto minero **Cascabel** generará más de 6 700 millones de dólares de **ingresos** para el Estado, por concepto de impuestos sectoriales y generales, según el **Ministerio de Energía y Minas**. Además, regalías por otros 1 611 millones de dólares.
+En términos de inversión, es el proyecto más grande del país, luego del OCP y el puerto de Posorja. En ambos se invirtieron entre 1 000 y 1 500 millones de dólares.
 
-“Los recursos serán distribuidos a los gobiernos autónomos descentralizados, según lo establece la **Ley de Minería**”, aseguró el Gobierno.
+La inversión en la mina Cascabel será de **4 200 millones de dólares** durante los 28 años de vida de explotación del proyecto.
 
-Según detalla el artículo 93 de la Ley de Minería, el **60% de los ingresos por regalías** se canalizan a los Gobiernos Autónomos Descentralizados (GADs) del área de influencia, “para cubrir necesidades básicas insatisfechas y desarrollo territorial o productivo”.
+La construcción de la mina
+--------------------------
 
-**SolGold** estima que Cascabel se ubique entre las 20 mejores minas del mundo por su potencial. El proyecto tiene una superficie de 4979 hectáreas
+Las obras de construcción de la **mina de Cascabel** no comenzarán inmediatamente, aclara Silva.
 
-Las estimaciones de **las reservas minerales** alcanzan los 10,9 millones de toneladas de cobre y más de 23 millones de onzas de oro.
+Esta etapa comenzará de aquí a 12 o 24 meses, porque previamente se deben cumplir varios requisitos.
+
+Después vendrá la construcción como tal, que posiblemente tomará unos cuatro años. La empresa **SolGold** aún no detalla el proceso de estos trabajos. 
+
+Pero, informa que las obras de ejecución emplearán a **2 500 personas** y muchas de las cuales serán del área de influencia del proyecto minero.
+
+Antes de la construcción, la **empresa SolGold** debe realizar la consulta ambiental, para obtener la licencia ambiental y así empezar a levantar las obras.
+
+En Cascabel solo se hará la consulta ambiental, ya que no existen pueblos indígenas en sus alrededores. En esos casos se desarrolla la consulta previa.
+
+¿Cuáles son los cuantiosos réditos de la explotación de Cascabel?
+-----------------------------------------------------------------
+
+La **Cámara de Minería del Ecuador** explica que la firma de este contrato marca un hito para el sector minero y los ecuatorianos.
+
+El desarrollo de este proyecto implica ingresos por **6 700 millones de dólares**, por concepto de impuestos durante toda la etapa de vida.
+
+Adicionalmente, **1 600 millones de dólares en los 28 años**. De ese monto, **75 millones** se entregarán por anticipado al Estado ecuatoriano.
+
+La construcción de la mina llega en un momento crucial para el mundo, debido a que se prevé que exista escasez de cobre para avanzar con la transición energética limpia, dice Silva.
+
+Ese déficit mundial está previsto que se produzca entre **2025 y 2030.**
+
+Esto hace la empresa SolGold
+----------------------------
+
+SolGold es una compañía australiana que enfoca en el descubrimiento y definición de depósitos de cobre y oro de clase mundial.
 
 La empresa australiana SolGold es accionista de BHP Billiton, una de las compañías mineras más grandes del mundo.
 
-¿Qué sucedió con el conductor del bus que arrolló a personas en una vía de Quinindé?
-====================================================================================
+El VAR no será eliminado de la Premier League
+=============================================
 
-El lamentable hecho ocurrió en la vía Quinindé-Esmeraldas, el lunes 3 de junio de 2024.
----------------------------------------------------------------------------------------
+El VAR se utilizó por primera vez en la Premier League en el partido entre Liverpool vs. Norwich en el curso 2019-20.
+---------------------------------------------------------------------------------------------------------------------
 
-![El siniestro de tránsito ocurrió mientras se atendía una emergencia en la vía](https://www.elcomercio.com/wp-content/uploads/2024/06/bus-esmeraldas.jpg)
+![Imagen referencial del VAR utilizado en la Premier League.](https://www.elcomercio.com/wp-content/uploads/2024/06/var_premier_league.jpg)
 
-El video del suceso que involucró a un bus interprovincial en **Quinindé**, en Esmeraldas, provocó consternación en la ciudadanía debido a sus fuertes imágenes.
+Es oficial. El jueves 6 de junio de 2024 los 20 equipos de la **Premier League** decidieron mantener el VAR para la próxima temporada. La iniciativa de eliminarlo fue presentada por el Wolverhampton Wanderers.
+
+La votación salió favorable **por 19 a 1 para mantener el VAR**. El único club que votó a favor de su eliminación fue el Wolverhampton. Sin embargo, la Premier League sí confirmó que se llevarán a cabo mejoras para que se utilice de mejor manera en la competición.
 
 ### Más noticias:
 
-* [Fallecido en accidente de Reina del Camino era asesor de un asambleísta](https://www.elcomercio.com/actualidad/ecuador/reina-camino-asesor-asambleista.html "Fallecido en accidente de Reina del Camino era asesor de un asambleísta")
-* [Comisión de Tránsito del Ecuador suspende las multas con radares de velocidad](https://www.elcomercio.com/actualidad/ecuador/multas-transito-radares-suspension.html "Comisión de Tránsito del Ecuador suspende las multas con radares de velocidad")
-* [Ocho heridos tras choque de bus contra la puerta de un cementerio](https://www.elcomercio.com/actualidad/quito/ocho-heridos-tras-choque-bus-contra-puerta-cementerio.html "Ocho heridos tras choque de bus contra la puerta de un cementerio")
+* [Damián Manso, el ‘rey’ de Liga de Quito, cumple 45 años](https://www.elcomercio.com/deportes/futbol/damian-manso-cumpleanios-liga-quito.html "Damián Manso, el ‘rey’ de Liga de Quito, cumple 45 años")
+* [Reconocimiento para Neisi Dajomes y Daniel Pintado en París 2024](https://www.elcomercio.com/deportes/otros/neisi-dajomes-paris2024-abanderada-daniel-pintado.html "Reconocimiento para Neisi Dajomes y Daniel Pintado en París 2024")
 
-El hecho ocurrió en la mañana del lunes 3 de junio de 2024, mientras un grupo de paramédicos socorrían otra emergencia en la vía que conecta Quinindé con la ciudad de Esmeraldas.
+Los ‘Wolves’ criticaron al VAR por sus errores**, por restar emoción al juego**, por aumentar el tiempo de los partidos y por las interrupciones que produce, además de por la falta de decisión que transmite a los árbitros.
 
-Cronología de los hechos
-------------------------
+Las mejoras que plantea la Premier al VAR
+-----------------------------------------
 
-* Dos motociclistas se chocaron en una de las curvas de la vía, a la altura del sector Zapotal, en Quinindé.
-* Tras recibir la alerta pasadas las 09:00, el ECU 911 coordinó a la Policía Nacional y a los paramédicos del Ministerio de Salud.
-* Agentes de la Policía ubicaron conos de tránsito en el carril donde ocurrió la emergencia para cerrar la vía parcialmente; además controlaban el desvío vehicular.
-* Mientras, los paramédicos atendían a los afectados de las motocicletas en el piso.
-* Cerca de las 11:00, las personas que se encontraban en los alrededores de la vía observan a un bus que no se percata del cierre del carril; intentan alertar al conductor.
-* El chofer de la unidad no logró detener su vehículo y pasó sobre los conos de tránsito.
-* Seis personas que se encontraban en la vía, entre ellos los paramédicos y los afectados, reciben el impacto del autobús.
-* Tras arrollar a las personas, el bus se paró luego de impactarse contra una ambulancia que se encontraba estacionada.
-* En su intento por retroceder, el chofer del bus estuvo a punto de atropellar a una tercera persona, quien fue socorrida hacia el costado de la vía por otros ciudadanos.
+* Mantener un alto estándar para las intervenciones, que suponga una mejor regularidad y menos interrupciones en el transcurso de los partidos”.
+* Reducir el tiempo de las decisiones del VAR, gracias en parte a la introducción del fuera de juego semiautomático que ya se utiliza en competiciones UEFA
+* Mejorar la experiencia del aficionado con anuncios en el estadio por parte del árbitro tras una decisión.
+* Cuando sea posible, repetición de la jugada en las pantallas.
+* Mejorar los cursos de preparación sobre el VAR, enfatizando en la velocidad del proceso, siempre y cuando se mantenga la precisión.
 
-Esto se conoce tras el suceso
+La premier se preocupa por los aficionados
+------------------------------------------
+
+La Premier pretende realizar **campañas con los aficionados** para aclarar el papel del VAR y también aumentar la transparencia y comunicación de lo que ocurre entre la sala VAR y el árbitro, mediante su reproducción en programas de televisión.
+
+Según datos de la Premier League, la **eliminación del VAR provocaría más de 100 errores** por temporada, al tiempo que aseguró que la tecnología, la campaña pasada, solo cometió cinco fallos, lo que supone una mejoría respecto al curso 2022-2023, cuando se realizaron 11 intervenciones incorrectas del VAR.
+
+Inmigrantes protestan en New York por medidas que los discriminan
+=================================================================
+
+A la manifestación de New York acudieron personas de estados como California, Nevada, Texas, entre otros.
+---------------------------------------------------------------------------------------------------------
+
+![Las manifestaciones en Estados Unidos se dan por las medidas antiinmigrantes.](https://www.elcomercio.com/wp-content/uploads/2024/06/protestas-new-york-.jpg)
+
+Más de **500 inmigrantes** jornaleros de varios estados se manifestaron este jueves 6 de junio de 2024 en **Nueva York** contra las **medidas antiinmigrantes** promulgadas en **Estados Unidos**. Incluida la orden emitida por la Casa Blanca que restringe las solicitudes de asilo y que, según los asistentes, impulsan la discriminación.
+
+### Más noticias:
+
+* [Alcalde de New York cifra en 282 los detenidos en protestas](https://www.elcomercio.com/actualidad/mundo/alcalde-new-york-282-detenidos-protestas.html "Alcalde de New York cifra en 282 los detenidos en protestas")
+* [¿Qué posibilidades tiene Donald Trump de ir a la cárcel?](https://www.elcomercio.com/actualidad/mundo/posibilidades-trump-carcel-juicio.html "¿Qué posibilidades tiene Donald Trump de ir a la cárcel?")
+* [Migrantes abandonan puntos de cruce irregular en Juárez tras anuncio de Biden](https://www.elcomercio.com/actualidad/mundo/migrantes-puntos-cruce-irregular-juarez-biden.html "Migrantes abandonan puntos de cruce irregular en Juárez tras anuncio de Biden")
+
+La manifestación convocada por la Red Nacional de Jornaleros (NDLON, por sus siglas en inglés) tuvo participantes que viajaron desde **California, Nevada, Arizona, Texas, Utah, Florida, Wisconsin, Illinois**, entre otros estados, y se reunieron en la **Plaza Herald** en Manhattan, para después marchar hacia un refugio de inmigrantes.
+
+Pablo Alvarado, director de la NDLON, dijo que las diferentes políticas aprobadas en Texas, Arizona, Oklahoma y otros estados republicanos están creando “**un ambiente hostil**” hacia los inmigrantes y en especial aumenta la discriminación contra los **trabajadores** que ganan bajos salarios.
+
+Estrictos estándares de asilo
 -----------------------------
 
-* En el lamentable suceso se registraron dos personas fallecidas y una herida.
-* El bus interprovincial involucrado en el siniestro es el número 41 de la cooperativa Gilberto Zambrano.
-* El bus rojo registrado para servicio de transporte público es del año 2019 y estaba con matrícula 2024; no registraba multas de tránsito en la Agencia Nacional de Tránsito ni en la Empresa Tránsito, Transporte Terrestre y Seguridad Vial (Esvial).
-* El **conductor de la unidad fue detenido por la Policía Nacional en el mismo lugar del hecho**.
-* Ni la cooperativa G. Zambrano, ni la Federación Nacional de Cooperativas de Transporte Interprovincial de Pasajeros del Ecuador (Fenacotip) se han pronunciado sobre el hecho.
+El activista también criticó al presidente Joe Biden, que firmó una **orden ejecutiva** que permitirá a las autoridades estadounidenses deportar a quienes no cumplan unos **estrictos estándares de asilo** cuando se supere la cifra de **2 500 detenciones diarias** en la frontera durante un promedio de siete días.
 
-Antonio Valencia rememora el ‘Piso 17’ y otras anécdotas
-========================================================
+La orden es la más dura proclamada por el mandatario demócrata desde que llegó al poder en enero de 2021 y supone un cambio importante en la manera de entender el **asilo en EE.UU..**
 
-Antonio Valencia se confesó con EL COMERCIO e hizo revelaciones en torno a distintos aspectos de su carrera.
-------------------------------------------------------------------------------------------------------------
+“Lo hizo por cobardía política y eso es una debilidad. Si él (Biden) cree que haciendo esto va a obtener más votos o a convencer a los **republicanos extremistas** se equivocó”, subrayó Alvarado en un discurso al inicio de la manifestación.
 
-![Antonio Valencia en el complejo de su equipo AV25.](https://www.elcomercio.com/wp-content/uploads/2024/06/g-2024-06-05T194534.234.jpg)
+Aseguró que la orden emitida por el mandatario demócrata “ni es un buen mensaje político ni es un buen mensaje para los inmigrantes”.
 
-**Antonio Valencia** se alejó de las canchas en 2021 y ahora se encuentra en una nueva faceta como DT de su club, el AV25. En diálogo con El Confesionario de EL COMERCIO, este recordó algunos de los momentos que marcaron su carrera como futbolística.
+Para **Salvador Sarmiento**, que viajó desde la capital de EE.UU. para **participar en la protesta**, este es un momento en que los inmigrantes que buscan trabajos en las esquinas “están enfrentando fuerzas de odio y exclusión que no se han visto en décadas”.
 
-Desde su visión y su rol en el camerino de la Selección de Ecuador hasta la polémica entre **[El Nacional](https://x.com/elnacionalec?lang=es "https://x.com/elnacionalec?lang=es") y Liga de Quito** y el ‘Piso 17’, Valencia hizo revelaciones y sin temor abordó los temas. Sereno y aún con energía tras terminar su entrenamiento, recordó los momentos entre sonrisas, nostalgia y críticas.
+“Queremos enviar un mensaje claro a los **políticos locales y nacionales**: No nos vamos a quedar callados, vamos a desafiar su deseo de división y nos mantendremos unidos”, dijo Sarmiento.
+
+La manifestación hace parte de la Novena Asamblea Nacional de esta red de trabajadores.
+
+Esta mañana los trabajadores también protestaron frente a una tienda **Home Depot**, en New Rochelle, al norte de la ciudad de New York. Los trabajadores denunciaron que fueron arrestados. Según ellos, por ingresar al establecimiento comercial para entrar al baño.
+
+“No podemos permitir esta clase de atropellos, no puede ser justo que lo arresten a uno por entrar al baño cuando los trabajadores compran materiales en estas tiendas”, valoró Sarmiento.
+
+Piero Hincapié puede ser compañero de Moisés Caicedo en Chelsea
+===============================================================
+
+Después de una destacada temporada con el Bayer Leverkusen, Piero Hincapié interesa en Europa.
+----------------------------------------------------------------------------------------------
+
+![Piero Hincapié celebra su título de la Bundesliga con el Bayer Leverkusen.](https://www.elcomercio.com/wp-content/uploads/2024/06/Diseno-sin-titulo-47.jpg)
+
+Luego de ganar el doblete de la Bundesliga y la Copa de Alemania, más de un equipo busca tener a **Piero Hincapié** como refuerzo. El defensa central del Bayer Leverkusen se consolidó como una figura del elenco teutón e hizo historia.
+
+El campeonato que obtuvo el central ecuatoriano en la **[Bundesliga](https://www.bundesliga.com/es/bundesliga "https://www.bundesliga.com/es/bundesliga")** fue el primer de su club en tal competición. Asimismo, el hecho de levantar dos trofeos en la misma temporada también constituyó un logro inédito.
 
 ### Más noticias:
 
-* [Antonio Valencia, de leyenda en la cancha a un proyecto integral con AV25](https://www.elcomercio.com/deportes/antonio-valencia-proyecto-av25.html "Antonio Valencia, de leyenda en la cancha a un proyecto integral con AV25")
-* [(Video) ¿Por qué Iván Kaviedes visitó a Antonio Valencia?](https://www.elcomercio.com/deportes/futbol/anotnio-valencia-recibe-ivan-kaviedes.html "(Video) ¿Por qué Iván Kaviedes visitó a Antonio Valencia?")
-* [Antonio Valencia recordó su último partido con el Manchester United](https://www.elcomercio.com/deportes/futbol/antonio-valencia-recordo-ultimo-partido-manchester-united.html "Antonio Valencia recordó su último partido con el Manchester United")
+* [La Selección de Ecuador se completó para Copa América con Piero Hincapié](https://www.elcomercio.com/deportes/seleccion-ecuador-copa-america-hincapie-convocatoria.html "La Selección de Ecuador se completó para Copa América con Piero Hincapié")
+* [El valor de mercado de Piero Hincapié se actualizó y subió](https://www.elcomercio.com/deportes/futbol/piero-hincapie-valor-mercado-ecuador.html "El valor de mercado de Piero Hincapié se actualizó y subió")
+* [Piero Hincapié campeón de la Copa de Alemania](https://www.elcomercio.com/deportes/futbol/piero-hincapie-campeon-copa-alemania-leverkusen.html "Piero Hincapié campeón de la Copa de Alemania")
 
-Antonio Valencia no se arrepiente y repetiría el ‘Piso 17’
-----------------------------------------------------------
+Las preseas, sin embargo, no fueron lo único que consiguió, pues encadenó un invicto de 51 partidos que terminó con una derrota en la final de la **UEFA Europa League**. Aquel rendimiento ha llevado a que la mirada del Chelsea se pose en el futbolista.
 
-Uno de los aspectos que marcaron el cierre de su carrera fue la polémica del ‘**Piso 17**‘ en la Copa América de 2019. Aquel acto se dio después de que finalizase el torneo y se trató de una reunión entre un grupo de los seleccionados, entre los cuales se encontraba Valencia.
+De acuerdo al Diario Bild de Alemania, el **Chelsea** de Inglaterra está interesado en fichar al futbolista esmeraldeño para la temporada 2024-2025. A tales intenciones se le suman las del Liverpool, también de la Premier League.
 
-Cuando la **Federación Ecuatoriana de Fútbol** (FEF) dio a conocer el hecho, su presidente Francisco Egas señaló que la entidad se encontraba en investigación de lo que, consideró, fue un acto de indisciplina. Carlos Manzur, dirigente de la entidad, a su vez agregó que en aquella reunión hubo alcohol.
+Moisés Caicedo y Kendry Páez ya son del Chelsea
+-----------------------------------------------
 
-En el momento en que se reveló uno de los videos de la concentración, **Valencia se pronunció** sobre el hecho. “La verdad es la mejor noticia! Gracias a Dios publicaron el video! Nadie en estado etílico, nadie externo a la selección, pedimos comida. El ánimo de una derrota del país jamás, para un ecuatoriano ha sido, ni será motivo de fiesta, es de reflexión como lo hicimos con los compañeros” dijo en redes sociales.
+De concretarse el traspaso entre alemanes y británicos, Piero Hincapié coincidirá en la escuadra con **Moisés Caicedo**. El volante tricolor tuvo su primera experiencia con el plantel de Londres durante el ciclo 2023-2024.
 
-Al recordar el acto, este mencionó a EL COMERCIO que se intentó dañar su imagen. Pese a ello, no se arrepiente. “**Lo volvería a repetir mil veces. Compartí con mis compañeros y eso nadie me lo va a quitar**“, señaló.
+Con el cuadro inglés, Caicedo se consolidó como uno de los mejores del **mediocampo**. El único gol que marcó, en la última fecha del campeonato, fue elegido por la escuadra como el mejor de la temporada.
 
-El Nacional y Liga de Quito
----------------------------
+La opción de que llegue el tricolor, además, luce viable en función de la defensa con la que cuenta el equipo. Dentro de su campaña, las rotaciones en la zaga fueron abundantes y el equipo recibió **63 goles** en 38 compromisos.
 
-Otro de los puntos que tocó el ‘Toño’ fue el no haber retornado a El Nacional tras su último paso por el Manchester United. En 2019, el futbolista volvió al país para jugar en Liga de Quito.
+Caicedo, sin embargo, no es el único futbolista de Ecuador con el que cuenta el Chelsea. El club adquirió a **Kendry Páez**, quien, de momento, milita en Independiente del Valle y podrá vincularse al equipo cuando cumpla 18 años.
 
-“No me arrepiento porque me encontré con una hinchada buena”, señaló el ahora director técnico.
+Piero Hincapié, con sus compañeros en Copa América
+--------------------------------------------------
 
-En torno a no volver y retirarse en **El Nacional**, el ‘Expreso Amazónico’ recalcó que no lo hizo porque en la época en que retornó al país, la escuadra no tenía ni presidente.
+Mientras se define su futuro, **Piero Hincapié** se encuentra con sus compañeros-mismos con los que potencialmente podría coincidir- en la Selección de Ecuador. Tanto el defensor, como Caicedo y Páez, fueron incluidos en la nómina de la Copa América.
 
-Después de lo suscitado, las críticas de los hinchas criollos se posaron en **Antonio Valencia** debido al suceso. A pocos días del hecho, en un mural del Complejo de El Sauce donde este se encontraba en un once histórico, su figura fue vandalizada.
+La Tri debutará en el máximo torneo de selecciones del continente durante el 22 de junio de 2024. Su rival inicial será Venezuela y le seguirán **Jamaica y México**.
 
-En torno a la situación, el ‘Toño’ se refirió a qué le provocó aquello. “**No sentí nada porque lo tengo todo junto a mi hija y mi mujer**“, manifestó. A su vez, recalcó que estaría dispuesto a volver al equipo.
+Daniel Noboa entregó equipamiento de seguridad a la Policía Nacional
+====================================================================
 
-> [Ver esta publicación en Instagram](https://www.instagram.com/reel/C7ZalncsIOQ/?utm_source=ig_embed&utm_campaign=loading)
+El presidente Daniel Noboa también visitó a las Fuerzas Armadas, en Guayaquil
+-----------------------------------------------------------------------------
+
+![La Policía Nacional recibió los chalecos antibalas durante una ceremonia realizada en Guayaquil](https://www.elcomercio.com/wp-content/uploads/2024/06/policia-chalecos.jpg)
+
+El presidente Daniel Noboa visitó a la **Policía Nacional** y a las **Fuerzas Armadas**, este jueves 6 de junio de 2024, en Guayaquil.
+
+En su encuentro con los agentes policiales, el primer mandatario entregó **chalecos antibalas** para reforzar la protección de los uniformes.
+
+### Más noticias:
+
+* [Impactantes resultados dejan los operativos de la Policía Nacional este 6 de junio](https://www.elcomercio.com/actualidad/seguridad/impactantes-resultados-operativos-policia-nacional-junio.html "Impactantes resultados dejan los operativos de la Policía Nacional este 6 de junio")
+* [Autoridades de seguridad llegan a Manta, nuevo centro de operaciones militares y policiales](https://www.elcomercio.com/actualidad/seguridad/autoridades-seguridad-llegan-manta-para-convertirla-centro-operaciones.html "Autoridades de seguridad llegan a Manta, nuevo centro de operaciones militares y policiales")
+* [Policía de Ecuador decomisa 11 fusiles y detiene una persona en operativo](https://www.elcomercio.com/actualidad/seguridad/policia-ecuador-fusiles-y-detiene-persona-operativo.html "Policía de Ecuador decomisa 11 fusiles y detiene una persona en operativo")
+
+En total, la Policía de la **Zona 8** recibió **10 500 chalecos** de protección balística. Esta zona comprende Guayaquil, Samborondón y Durán.
+
+Según la Presidencia, los chalecos son de “altísima resistencia balística”.
+
+Durante su intervención, **Noboa** manifestó: “Fortaleceremos los operativos, las tareas de inteligencia y continuaremos equipando a nuestras fuerzas de seguridad”.
+
+La ministra del Interior, **Mónica Palencia**, habló sobre la entrega del equipamiento a la Institución. “Hay un esfuerzo de cuidar a nuestros cuidadores (…) vendrán muchas otras entregas, ojalá contemos con todo el equipamiento que necesitamos”, comentó.
+
+Cifras de operativos recientes
+------------------------------
+
+El Comandante de la Policía Nacional, **César Zapata**, agradeció el respaldo de la Presidencia y mostró cifras de los trabajos realizados en los operativos de seguridad.
+
+Zapata afirmó que, en la última semana, la Fuerza Investigativa Contra la Extorsión (**FICE**) liberó a **13 secuestrados**, detuvo a 70 personas y realizó 21 operativos.
+
+Mientras que la Fuerza Investigativa Anticriminal (**FIAC**) detuvo a 135 personas y decomisó 25 armas de fuego, dijo el representante de la Policía.
+
+> 10.500 chalecos balísticos para enfrentar con mejores equipos a la delincuencia. 🇪🇨[#ElNuevoEcuadorResuelve](https://twitter.com/hashtag/ElNuevoEcuadorResuelve?src=hash&ref_src=twsrc%5Etfw) [#EcuadorContraElCrimen](https://twitter.com/hashtag/EcuadorContraElCrimen?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/36KRy13UQU](https://t.co/36KRy13UQU)
 > 
-> [Una publicación compartida de Bendito Fútbol (@benditofutbol)](https://www.instagram.com/reel/C7ZalncsIOQ/?utm_source=ig_embed&utm_campaign=loading)
+> — Presidencia Ecuador 🇪🇨 (@Presidencia\_Ec) [June 7, 2024](https://twitter.com/Presidencia_Ec/status/1798878957984760163?ref_src=twsrc%5Etfw)
 
-Moisés Caicedo, el sucesor de Antonio Valencia
-----------------------------------------------
+Visita a las Fuerzas Armadas
+----------------------------
 
-Con respeto a la **Selección de Ecuador**, equipo del cual en su momento fue capitán, este señaló que ve un sucesor para él dentro del equipo. A su vez, este cree que puede superar su legado, el cual lo puso como uno de los mejores jugadores de la historia del país.
+También en Guayaquil, en la **Base Naval San Eduardo**, Daniel Noboa visitó a las Fuerzas Armadas.
 
-“**Tenía la esperanza de que (me supere) Gonzalo Plata, pero veo a Moisés Caicedo muy concentrado en lo que está haciendo**“, puntualizó.
+El primer mandatario mostró su apoyo a la entidad y al trabajo que realizan sus miembros.
 
-Deportivo Cuenca pidió los audios del VAR de dos partidos
-=========================================================
+En su discurso, Noboa se refirió a las medidas de seguridad, que buscan detener la **violencia en Ecuador**.
 
-Deportivo Cuenca terminó en la mitad de la tabla en la primera fase de la Liga Pro. Su primer semestre fue flojo.
------------------------------------------------------------------------------------------------------------------
+Para el funcionario, “los ataques terroristas de los últimos días responden a los operativos y acciones del Gobierno” contra las organizaciones criminales.
 
-![Jugadores del Deportivo Cuenca (c) y Liga de Quito en un partido de la Liga Pro 2024.](https://www.elcomercio.com/wp-content/uploads/2024/06/cuenca_arbitros.jpg)
+“Hoy están amedrentados con los golpes que están recibiendo de un gobierno al que no pueden someter”, señaló Noboa.
 
-El **Deportivo Cuenca** no está satisfecho con el trabajo de los árbitros. Por tal motivo, Nataly Villavicencio, presidenta del club, remitió una cartas en donde pido los audios y videos del VAR de dos encuentros.
+Medidas de seguridad del Gobierno
+---------------------------------
 
-La misiva del Deportivo Cuenca está dirigida a **Francisco Egas**, presidente de la Federación Ecuatoriana de Fútbol (FEF), Néstor Pitana, presidente de la Comisión Nacional de Árbitros de la FEF, Miguel Ángel Loor, presidente de la Liga Pro, y David Constante, director de Competiciones de la Liga Pro.
+Ante los altos índices de **violencia** registrados en ciudades como Manta, el Gobierno implementó algunas medidas de seguridad.
+
+El 22 de mayo, el presidente **Daniel Noboa** anunció el estado de excepción por 60 días en **siete provincias**: Manabí, Los Ríos, Guayas, Santa Elena, El Oro, Sucumbíos y Orellana; se sumó el cantón Ponce Enríquez de Azuay.
+
+Días después, el 3 de junio, el Gobierno decidió trasladar el Centro de Operaciones de las **FF.AA.** y la **Policía** Nacional a Manta y Guayaquil.
+
+Según detalló la alcaldesa de esta ciudad, **Marciana Valdiviezo**, en Manabí operan alrededor de 1 500 militares, de los cuales 400 están en Manta.
+
+A esta cifra se le suman **500 policías** que llegarán a reforzar los controles durante estos días.
+
+Más allá de la diplomacia, Ecuador y México se enfrentan en Copa América
+========================================================================
+
+El enfrentamiento de Ecuador y México en la Copa América estará cargado de morbo por las tensiones diplomáticas entre los dos países.
+-------------------------------------------------------------------------------------------------------------------------------------
+
+![Kendry Páez durante un partido con la Selección de Ecuador en la Eliminatorias Sudamericanas 2026.](https://www.elcomercio.com/wp-content/uploads/2024/06/ENDRICK-PALMEIRAS-2024-06-06T143450.428.jpg)
+
+Las **relaciones diplomáticas entre Ecuador y México** no están en su mejor momento por diversos factores. De hecho, el país norteamericano rompió las relaciones con Ecuador. 
+
+Pese a todo eso, hay un lugar donde no existe tal tensión y es un partido de fútbol y, justamente, Ecuador y México se enfrentarán nada más ni nada menos que en la **Copa América**. 
 
 ### Más noticias:
 
-* [La Selección de Ecuador espera ganar todo antes de Copa América](https://www.elcomercio.com/deportes/seleccion-ecuador-alan-minda-copa-america.html "La Selección de Ecuador espera ganar todo antes de Copa América")
-* [Aucas asegura a un delantero estrella para Liga Pro](https://www.elcomercio.com/deportes/aucas-renovacion-luis-angel-cano.html "Aucas asegura a un delantero estrella para Liga Pro")
+* [Antonio Valencia cree que la Selección de Ecuador puede ganar Copa América](https://www.elcomercio.com/deportes/seleccion-ecuador-antonio-valencia-copa-america.html "Antonio Valencia cree que la Selección de Ecuador puede ganar Copa América")
+* [México, rival de Ecuador en Copa América, fue humillado por Uruguay](https://www.elcomercio.com/deportes/futbol/mexico-rival-ecuador-copa-america-humillado-uruguay.html "México, rival de Ecuador en Copa América, fue humillado por Uruguay")
 
-Villavicencio asegura que en la fecha 14 y 15 las “**decisiones arbitrales han provocado un perjuicio** **deportivo**” al Cuenca, por faltas dentro del área que, a su consideración, debieron ser sancionadas como penales por el juez central, o por el VAR, que no intervino.
+Ambos integran el **Grupo B** del torneo continental que se llevará a cabo desde el 20 de junio hasta el 14 de julio de 2024, en Estados Unidos. Los otros integrantes del grupo son Jamaica y Venezuela. 
 
-El cuadro del sur del país terminó la primera fase de la Liga Pro en la décima casilla con 16 puntos, fruto de tres victorias, siete empates y cinco derrotas.
+Historial de Ecuador vs. México en Copa América
+-----------------------------------------------
 
-La campaña irregular provocó que el entrenador argentino Luis García sea cesado del cargo. En su lugar llegó el español Igor Oca, con pasado reciente en la Universidad Católica de Quito.
+La Selección de Ecuador no la pasa muy bien ante México en Copa América, ya que el país norteamericano le saca una amplia ventaja.
 
-Los partidos de la discordia del Cuenca
+Se enfrentaron cinco veces en el torneo, con cuatro victorias para ‘El Tri’ y un solo triunfo para ‘La Tri’. 
+
+La única victoria de Ecuador fue en la Copa América  de Chile en junio de 2015. El partido terminó 1-2, con goles de Miller Bolaños y Enner Valencia. 
+
+Por otra parte, las derrotas, dos, fueron en fase de grupos, ambas por el mismo marcador 2-1 en 2004 y 2007. 
+
+Las derrotas más dolorosas fueron las de 1993 y 1997. En la Copa América Ecuador 1993, México privó a la ‘Tri’ de llegar a su primera final en el torneo. Los aztecas ganaron 0-2 en el Estadio Olímpico Atahualpa. 
+
+Mientras que en la edición de 1997, que se celebró en Bolivia, el combinado mexicano eliminó a la Selección de Ecuador en cuartos de final en penales, tras empatar 1-1.
+
+¿Cuándo se juega el Ecuador vs. México?
 ---------------------------------------
 
-En la fecha 14 el Deportivo Cuenca viajó a **Loja para visitar a Libertad** en el estadio Reina del Cisne.
+**Competición**: Copa América.
 
-Kleber Aroca es el árbitro central apuntado por la directiva del Cuenca. En el VAR estuvo Kevin Pazmiño.
+**Fecha**: Domingo 30 de junio de 2024. 
 
-El marcador final fue 0-0. El juego fue parejo y no tuvo un dominador claro en los 90 minutos.
+**Hora**: 19:00 (hora Ecuador). 
 
-En la fecha 15 recibieron en el Alejandro Serrano Aguilar a **Liga de Quito**. El empate 2-2 no dejó contentos a los cuencanos.
+**Estadio**: State Farm, Arizona
 
-LDU se puso en ventaja con goles de Michael Estrada (17′) y Lisandro Alzugaray (41). Los locales reaccionaron y nivelaron el marcador con los tantos de Pablo Magnín (45′) desde el punto penal, y Lucas Mancinelli (76′).
-
-En esa jornada [Guillermo Guerrero](https://clubdeportivocuenca.com/2024/06/03/audios-var/) fue el juez central. En el VAR fue designado Diego Lara.
-
-Daniel Noboa firmó veto total a ley para entrega oportuna de recursos a municipios y prefecturas
-================================================================================================
-
-Daniel Noboa veta totalmente por segunda vez una ley aprobada por la Asamblea Nacional.
----------------------------------------------------------------------------------------
-
-![Daniel Noboa firmó un veto total por segunda ocasión.](https://www.elcomercio.com/wp-content/uploads/2024/05/Daniel-Noboa-veto-de-ley.jpg)
-
-**Daniel Noboa**, presidente de la República, firmó un **veto total** a la ley para la entrega oportuna de recursos a **municipios**, **prefecturas** y **juntas parroquiales**.
-
-Daniel Noboa vetó totalmente la **Ley Orgánica Reformatoria a Varias Leyes Orgánicas para Asegurar la Asignación Directa y Oportuna de Recursos de los Ingresos Permanentes y No Permanentes a los Gobiernos Autónomos Descentralizados**.
-
-### Más noticias:
-
-* [Las razones por las que Daniel Noboa vetó las polémicas reformas judiciales](https://www.elcomercio.com/actualidad/politica/daniel-noboa-veto-total-ley-funcion-judicial.html "Las razones por las que Daniel Noboa vetó las polémicas reformas judiciales")
-* [¿Qué implica la nueva ley de transferencias automáticas para los GAD?](https://www.elcomercio.com/actualidad/negocios/implicaciones-nueva-ley-de-transferencias-automaticas-para-gad.html "¿Qué implica la nueva ley de transferencias automáticas para los GAD?")
-
-El mandatario señala que la iniciativa legislativa “pretendía la entrega de asignaciones automáticas a las prefecturas, municipios y juntas parroquiales, desde el Banco Central, en perjuicio de otros sectores de gasto como seguridad, salud o educación, afectando a las finanzas públicas y con grave riesgo para la estabilidad económica”.
-
-La normativa aprobada por la Asamblea establecía que los recursos se entreguen los primeros cinco días de cada mes.
-
-Con un veto total, la Asamblea Nacional no podrá volver a tratar este proyecto en el lapso de un año.
-
-“El proyecto de ley aprobado por la Asamblea Nacional no consideró con responsabilidad elementos que estén acordes a la realidad fiscal del país, lo que pudo ocasionar un desfinanciamiento en el Presupuesto General del Estado”, agregó el Gobierno, en un comunicado.
-
-Daniel Noboa firma un veto total por segunda vez
-------------------------------------------------
-
-Daniel Noboa firma un veto total por segunda vez.
-
-La primera ley vetada totalmente fue el proyecto de **reformas al Código Orgánico de la Func**ión Judicial.
-
-En estas reformas, la Asamblea incluía un artículo que permitía que los vocales del **Consejo de la Judicatura**, bajo prisión preventiva o arresto domiciliario, se acojan a una licencia sin sueldo.
-
-‘Cara Sucia’, el sicario adolescente que sufrió dos ataques armados en Manabí
-=============================================================================
-
-'Cara Sucia' se dedicó a la actividad de sicario desde los 13 años en Chone, Manabí
------------------------------------------------------------------------------------
-
-![Los vecinos de El Bejuco, cerca de Chone, alertaron sobre el atentado a 'Cara Sucia'.](https://www.elcomercio.com/wp-content/uploads/2024/06/Cara-sucia-vale.jpg)
-
-Sujetos armados asesinaron a **‘Cara Sucia’** en el sitio El Bejuco, perteneciente al cantón Chone, **provincia de Manabí[.](https://es.wikipedia.org/wiki/Provincia_de_Manab%C3%AD)**
-
-### Más noticias
-
-* [Siete asesinados en Manabí, uno es el tío de alias Fito](https://www.elcomercio.com/actualidad/siete-asesinados-en-manabi-una-es-el-tio-de-alias-fito.html "Siete asesinados en Manabí, uno es el tío de alias Fito")
-* [Siete personas asesinadas y dos heridas en menos de 24 horas en Manabí](https://www.elcomercio.com/actualidad/seguridad/siete-personas-asesinadas-y-dos-heridas-en-menos-de-24-horas-en-manabi.html "Siete personas asesinadas y dos heridas en menos de 24 horas en Manabí")
-
-El hecho violento se reportó la noche de este martes 4 de junio, cuando **Ángel Menéndez**, de 18 años de edad, estaba **dentro de una casa**.
-
-Los criminales de alias **‘Cara Sucia’** no le perdonaron la vida y fueron por él hasta el **inmueble** en el que se encontraba.
-
-De acuerdo con ciertas versiones de lugareños, **Menéndez** estaba en el interior de la casa y sus asesinos ingresaron para matarlo. Los sujetos le propinaron varios **balazos**.
-
-Tras el ataque, al herido lo trasladaron a una **casa de salud del cantón Chone**. Pero este miércoles 5 de junio, **los médicos confirmaron su muerte**.
-
-Alias ‘Cara Sucia’ sobrevivió a un primer ataque
-------------------------------------------------
-
-El 26 de noviembre del 2022, cuando tenía **16 años**, a **‘Cara Sucia’** lo atacaron sujetos armados. Tras el atentado en su contra, lo llevaron a un **hospital**.
-
-Sin embargo, sus **criminales** querían rematarlo e ingresaron a la casa de salud para cumplir con el objetivo un día después del **ataque**.
-
-Código plata
-------------
-
-El hospital Napoleón Dávila contó con un amplio despliegue de policías. En ese entonces surgió el **Código Plata**. Este protocolo se estableció para que las áreas en las que haya riesgo por la posible presencia de personas armadas.
-
-En su momento, las autoridades policiales indicaron que alias ‘Cara Sucia’ era un **sicario** que inició su vida criminal desde los **13 años de edad**.
+**¿Dónde ver?** Streaming.
