@@ -139,15 +139,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [Backup videos with Backup4all](https://www.backup4all.com/backup-videos-with-backup4all-kb.html)  
+* [Backup4all appears to be open in taskbar but ...](https://www.backup4all.com/backup4all-appears-to-be-open-in-taskbar-but-you-cannot-see-kb.html)  
     
-* [How to restore a backup using WinRar](https://www.backup4all.com/how-to-restore-a-backup-using-winrar-kb.html)  
+* [Packet writing software](https://www.backup4all.com/packet-writing-software-kb.html)  
     
-* [How to get a daily report with all backup exe ...](https://www.backup4all.com/how-to-get-a-daily-report-with-all-backup-executions-kb.html)  
+* [Backup software](https://www.backup4all.com/backup-software-kb.html)  
     
-* [How to restore a backup from OneDrive](https://www.backup4all.com/how-to-restore-a-backup-from-onedrive-kb.html)  
+* [How to use the Getting started window](https://www.backup4all.com/how-to-use-the-getting-started-window-kb.html)  
     
-* [How to encrypt the files in Backup4all](https://www.backup4all.com/how-to-encrypt-the-files-in-backup4all-kb.html)  
+* [How to backup your data to HiDrive](https://www.backup4all.com/how-to-backup-your-data-to-hidrive-kb.html)  
     
 
 Choose language:
