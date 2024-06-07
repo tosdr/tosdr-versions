@@ -272,7 +272,7 @@ X (Twitter) Reddit Pinterest Tumblr WhatsApp Email Share Link
     
     [See further information and configure your preferences](#)
     
-    [Accept all cookies](https://www.adisc.org/forum/misc/cookies?update=1&accept=1&t=1717677790%2Ce0d6e6c671c4e369a27ffcaaa62ff9d8) [Reject optional cookies](https://www.adisc.org/forum/misc/cookies?update=1&reject=1&t=1717677790%2Ce0d6e6c671c4e369a27ffcaaa62ff9d8)
+    [Accept all cookies](https://www.adisc.org/forum/misc/cookies?update=1&accept=1&t=1717722347%2Cd271bc418f7dcce44e1bfcbbdeb6daa0) [Reject optional cookies](https://www.adisc.org/forum/misc/cookies?update=1&reject=1&t=1717722347%2Cd271bc418f7dcce44e1bfcbbdeb6daa0)
     
     * Essential cookies
     
