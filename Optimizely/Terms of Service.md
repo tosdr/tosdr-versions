@@ -10,7 +10,7 @@
 
 Login
 
-[Create account](https://accounts.welcomesoftware.com/signup)
+[Get started](https://www.optimizely.com/get-started/)
 
 [](#skipNav)
 
