@@ -1,4 +1,4 @@
-Friday, June 7 2024
+Saturday, June 8 2024
 
 * [About](https://fifthperson.com/about/)
 * [Charity](https://fifthperson.com/charity/)
@@ -131,11 +131,19 @@ Quick Guides
 
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
+    ![](https://fifthperson.com/wp-content/uploads/2018/05/carlsberg.jpg)](https://fifthperson.com/2024-carlsberg-malaysia-agm/)
+    
+    [7 things I learned from the 2024 Carlsberg Malaysia AGM](https://fifthperson.com/2024-carlsberg-malaysia-agm/)
+    
+    13 hours ago
+    
+* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
     ![](https://fifthperson.com/wp-content/uploads/2024/06/wingstop-220x150.jpg)](https://fifthperson.com/wingstop-soared-this-year-and-whether-it-can-continue-rising/)
     
     [Why Wingstop has soared 1,100% since IPO and whether it can continue rising](https://fifthperson.com/wingstop-soared-this-year-and-whether-it-can-continue-rising/)
     
-    3 days ago
+    4 days ago
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -143,7 +151,7 @@ Quick Guides
     
     [Gold bars vs. Big Macs: A tale of purchasing power and value](https://fifthperson.com/gold-bars-big-macs-purchasing-power-value/)
     
-    7 days ago
+    1 week ago
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -198,14 +206,6 @@ Quick Guides
     ![](https://fifthperson.com/wp-content/uploads/2020/05/SunwayCityKL.jpg)](https://fifthperson.com/2024-sunway-reit-agm/)
     
     [8 things I learned from the 2024 Sunway REIT AGM](https://fifthperson.com/2024-sunway-reit-agm/)
-    
-    4 weeks ago
-    
-* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](https://fifthperson.com/wp-content/uploads/2022/06/disney-220x150.jpg)](https://fifthperson.com/disney-q2-2024-earnings-call/)
-    
-    [Disney Q2 2024 earnings call: Streaming turns profitable, but challenges remain](https://fifthperson.com/disney-q2-2024-earnings-call/)
     
     4 weeks ago
     
