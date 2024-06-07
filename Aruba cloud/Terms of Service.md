@@ -104,6 +104,8 @@
         
         * [Object Storage  
             Reliable, high performance solution for managing your data in the Cloud.](https://www.arubacloud.com/object-storage.aspx)
+        * [Block storage  
+            Create scalable, flexible block storage volumes to use as extra disks.](https://www.arubacloud.com/block-storage.aspx)
         * [Knowledge Base  
             Guides on how to manage Object Storage](https://kb.arubacloud.com/en/object-storage.aspx)
         
