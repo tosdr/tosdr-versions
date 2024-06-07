@@ -5,8 +5,8 @@
 | ### [Sicherheit](https://forum.kuketz-blog.de/c/sicherheit/5)<br><br>Allgemeine Diskussionen zu Verschlüsselung, Schutzmaßnahmen, Sicherheitslücken und Co. | 350 |
 | ### [Datenschutz](https://forum.kuketz-blog.de/c/datenschutz/6)<br><br>Allgemeine Diskussionen zu Datenschutz, DSGVO, TTDSG, Datenleaks, Überwachung und Co. | 513 |
 | ### [Betriebssysteme](https://forum.kuketz-blog.de/c/betriebssysteme/7)<br><br>Diskussionen zu den mobilen Systemen Android und iOS. Aber auch Server- und Desktop-Systemen wie Linux/UNIX (RaspberryPi), macOS und Windows. | 368 |
-| ### [Software](https://forum.kuketz-blog.de/c/software/10)<br><br>Diskussionen über mobile Apps, Messenger, Browser, E-Mail-Clients und weitere Software wie Firewalls, NAS und Router-Konfiguration. | 759 |
-| ### [Hardware](https://forum.kuketz-blog.de/c/hardware/14)<br><br>Diskussionen über Hardware wie Firewalls, Router, mobile Endgeräte und Desktops/Notebooks. | 143 |
+| ### [Software](https://forum.kuketz-blog.de/c/software/10)<br><br>Diskussionen über mobile Apps, Messenger, Browser, E-Mail-Clients und weitere Software wie Firewalls, NAS und Router-Konfiguration. | 761 |
+| ### [Hardware](https://forum.kuketz-blog.de/c/hardware/14)<br><br>Diskussionen über Hardware wie Firewalls, Router, mobile Endgeräte und Desktops/Notebooks. | 144 |
 | ### [Blog/Microblog](https://forum.kuketz-blog.de/c/blog/15)<br><br>Blog-Beiträge ([www.kuketz-blog.de](http://www.kuketz-blog.de/)) werden ins Forum gespiegelt, um hier die Möglichkeit zu bieten, über das Thema zu diskutieren bzw. Support zu erhalten. | 79  |
 | ### [Gastbeiträge](https://forum.kuketz-blog.de/c/gastbeitraege/16)<br><br>Ausgewählte Autorinnen und Autoren veröffentlichen in dieser Kategorie Gastbeiträge. | 24  |
 | ### [Tutorials](https://forum.kuketz-blog.de/c/tutorials/4)<br><br>Erstelle hier Tutorials für die Foren-Teilnehmer. Alle Themen in dieser Kategorie fungieren automatisch als »Wiki«, d.h. jeder kann sie bearbeiten. | 21  |
