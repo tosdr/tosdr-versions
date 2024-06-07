@@ -66,7 +66,7 @@
 
 [Putin outlines response to long-range strikes: Russia-Ukraine conflict](https://www.rt.com/trends/russia-ukraine-conflict/)
 
-[Scott Ritter to take part in RT discussion panel at SPIEF 2024](https://www.rt.com/russia/598859-scott-ritter-spief-rt-panel/)
+[Russia will win – Putin](https://www.rt.com/russia/598966-russia-win-ukraine-conflict/)
 
 [Home](https://www.rt.com/)
 
