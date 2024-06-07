@@ -1,6 +1,6 @@
-[![SN Plus Graduation Exam Season ](https://img.sparknotes.com/house-ad/728x90_Grad.ExamSeason@2x.png)](https://www.sparknotes.com/plus/?inHouse=plusgradexam)
+[![Audiobook: Top 15 Titles PLUS](https://img.sparknotes.com/house-ad/728x90_Top15Audiobook@2x.jpg)](https://www.sparknotes.com/lit/?scr=1&contentSelected=NoFearAudio)
 
-[![SN Plus Graduation Exam Season ](https://img.sparknotes.com/house-ad/728x90_Grad.ExamSeason@2x.png)](https://www.sparknotes.com/plus/?inHouse=plusgradexam)
+[![Audiobook: Top 15 Titles PLUS](https://img.sparknotes.com/house-ad/728x90_Top15Audiobook@2x.jpg)](https://www.sparknotes.com/lit/?scr=1&contentSelected=NoFearAudio)
 
 Search all of SparkNotes  Search
 
@@ -8,11 +8,11 @@ Suggestions
 
 Use up and down arrows to review and enter to select.
 
-* Don Quixote
-* Macbeth
-* The Adventures of Huckleberry Finn
+* 1984
+* A Tale of Two Cities
+* Much Ado About Nothing
 * The Crucible
-* Wuthering Heights
+* The Taming of the Shrew
 
 Menu[](https://www.sparknotes.com/ "← Back to the homepage")[](https://www.sparknotes.com/ "← Back to the homepage")
 
@@ -206,7 +206,7 @@ You'll be billed after your free trial ends.
 
 Not Applicable
 
-Renews June 13, 2024 June 6, 2024
+Renews June 14, 2024 June 7, 2024
 
 Discounts (applied to next billing)
 
@@ -266,11 +266,11 @@ Suggestions
 
 Use up and down arrows to review and enter to select.
 
-* Don Quixote
-* Macbeth
-* The Adventures of Huckleberry Finn
+* 1984
+* A Tale of Two Cities
+* Much Ado About Nothing
 * The Crucible
-* Wuthering Heights
+* The Taming of the Shrew
 
 * Log in Sign Up for  PLUS
 * My Account white
