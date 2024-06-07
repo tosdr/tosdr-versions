@@ -26,7 +26,7 @@ Company
 * [Markets](https://www.morningstar.com/markets)
 * [Stocks](https://www.morningstar.com/stocks)
 * [Funds](https://www.morningstar.com/funds)
-* [ETFs](https://www.morningstar.com/etfs)
+* [ETFs](https://www.morningstar.com/topics/etfs)
 * [Bonds](https://www.morningstar.com/bonds)
 * Investing Ideas
 * [Best Investments](https://www.morningstar.com/best-investments)
