@@ -72,6 +72,14 @@ United Kingdom Australia & New Zealand Singapore Malaysia United States Ireland
     
     Latest  News
     
+    ![](/media/o2upanwf/business-staff-around-a-tablet.jpg?center=0.293344183718311,0.42627484575985103&mode=crop&width=350&height=450&rnd=133620760539800000)
+    
+    Posted 6th June 2024
+    
+    The Access Group acquires global hotel tech specialist SHR Group 
+    
+    [Read more](https://www.theaccessgroup.com/en-gb/about/news/the-access-group-expands-in-north-america-with-acquisition-of-hotel-tech-specialist-shr-group/)
+    
     ![](/media/pb3hdpt0/news-card_acquisitions_lightyear.png?anchor=center&mode=crop&width=350&height=450&rnd=133598265400430000)
     
     Posted 10th May 2024
