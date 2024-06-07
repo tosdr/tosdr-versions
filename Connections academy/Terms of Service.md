@@ -224,7 +224,7 @@
 [Login
 -----
 
-Login](https://classroom.pearson.com/login.aspx?partner=connectionsAcademy)
+Login](https://www.connectionsacademy.com/school-login/)
 
 [Call Us
 -------
