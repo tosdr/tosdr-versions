@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/corona-kwestie/de-balans-3000-miljard-niet-werkende-wegwerpmondkapjes/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/op-termijn-geen-plaats-meer-voor-tolken-in-de-eu/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
