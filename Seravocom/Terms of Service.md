@@ -42,7 +42,7 @@
 Terms of Service
 ================
 
-_Our Terms are currently in the process of being updated, below you will find our new Terms of Service which will enter into force on January 1, 2024. To read the Terms of Service currently in effect before this date, [please click here.](https://seravo.com/en/terms-2018/)_ _Please also read the [Privacy Policy](https://seravo.com/en/privacy-policy/) and the [Data Protection Appendix](https://seravo.com/en/dpa/)._
+_Effective as of January 1, 2024. To read the Terms of Service in effect before this date, [please click here.](https://seravo.com/en/terms-2018/)_ _Please also read the [Privacy Policy](https://seravo.com/en/privacy-policy/) and the [Data Protection Appendix](https://seravo.com/en/dpa/)._
 
 Version: 2023-10-01. 7ac87c7d93a61dc030055ffbb0206590265f675c
 
