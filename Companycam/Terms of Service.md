@@ -85,7 +85,7 @@ Submit
     
     [See CompanyCam in Action](https://companycam.com/demo)
     
-    ![](https://companycam.imgix.net/images/global-nav/DemoNavImage.png)
+    ![](https://companycam.imgix.net/images/global-nav/DemoNavImage.png?auto=format&w=400)
     
     * ![schedule icon](https://companycam.imgix.net/images/global-nav/schedule.svg)
         
@@ -173,7 +173,7 @@ Submit
     
     * [Advanced Features](#)
     
-    ![Project Template example](https://companycam.imgix.net/images/global-nav/project-templates-min.png)
+    ![Project Template example](https://companycam.imgix.net/images/global-nav/project-templates-min.png?auto=format&w=280)
     
     [Project Templates](https://companycam.com/project-templates)
     
@@ -189,7 +189,7 @@ Submit
     
     [Explore AI](https://companycam.com/features/ai)
     
-    ![](https://companycam.imgix.net/images/global-nav/FeatureHighlightsAI.png)
+    ![](https://companycam.imgix.net/images/global-nav/FeatureHighlightsAI.png?auto=format&w=400)
     
     * ![schedule icon](https://companycam.imgix.net/images/global-nav/schedule.svg)
         
@@ -222,11 +222,11 @@ Submit
     
     [Explore All Classes](https://companycam.com/classes)
     
-    * ![](https://companycam.imgix.net/images/advanced-features-you-need-to-know.png)
+    * ![advanced features thumbnail](https://companycam.imgix.net/images/advanced-features-you-need-to-know.png?auto=format&w=280)
         
         [Advanced Features You Need to Know](https://companycam.com/classes/advanced-features-you-need-to-know)
         
-    * ![](https://companycam.imgix.net/images/April_Craft-Header.png)
+    * ![advanced features thumbnail](https://companycam.imgix.net/images/April_Craft-Header.png?auto=format&w=280)
         
         [CompanyCam Feature Refresher](https://companycam.com/classes/feature-refresher)
         
@@ -235,7 +235,7 @@ Submit
     
     [Talk to Real People](https://help.companycam.com/en/?_gl=1*pbhkbz*_ga*MTk4NTU1MDc2NS4xNzA5Njc0MzA2*_ga_J48HTRJMG3*MTcxNDU5NTc2My4yMzguMS4xNzE0NTk3NzMzLjI2LjAuMA..*_ga_9EHVFEZKVX*MTcxNDU5NTc2My4xMTUuMS4xNzE0NTk3NzMzLjYwLjAuMA)
     
-    ![](https://companycam.imgix.net/images/global-nav/SupportNavImage.png)
+    ![](https://companycam.imgix.net/images/global-nav/SupportNavImage.png?auto=format&w=440)
     
     * ![schedule icon](https://companycam.imgix.net/images/global-nav/schedule.svg)
         
@@ -301,7 +301,7 @@ Submit
     
     [Start Saving Today](https://companycam.com/calculator)
     
-    ![](https://companycam.imgix.net/images/global-nav/SavingCalcNav.png)
+    ![](https://companycam.imgix.net/images/global-nav/SavingCalcNav.png?auto=format&w=440)
     
     * ![schedule icon](https://companycam.imgix.net/images/global-nav/schedule.svg)
         
@@ -381,7 +381,7 @@ Menu
     
     [See CompanyCam in Action](https://companycam.com/demo)
     
-    ![](https://companycam.imgix.net/images/global-nav/DemoNavImage.png)
+    ![](https://companycam.imgix.net/images/global-nav/DemoNavImage.png?auto=format&w=400)
     
     * ![schedule icon](https://companycam.imgix.net/images/global-nav/schedule.svg)
         
@@ -469,7 +469,7 @@ Menu
     
     * [Advanced Features](#)
     
-    ![Project Template example](https://companycam.imgix.net/images/global-nav/project-templates-min.png)
+    ![Project Template example](https://companycam.imgix.net/images/global-nav/project-templates-min.png?auto=format&w=280)
     
     [Project Templates](https://companycam.com/project-templates)
     
@@ -485,7 +485,7 @@ Menu
     
     [Explore AI](https://companycam.com/features/ai)
     
-    ![](https://companycam.imgix.net/images/global-nav/FeatureHighlightsAI.png)
+    ![](https://companycam.imgix.net/images/global-nav/FeatureHighlightsAI.png?auto=format&w=400)
     
     * ![schedule icon](https://companycam.imgix.net/images/global-nav/schedule.svg)
         
@@ -518,11 +518,11 @@ Menu
     
     [Explore All Classes](https://companycam.com/classes)
     
-    * ![](https://companycam.imgix.net/images/advanced-features-you-need-to-know.png)
+    * ![advanced features thumbnail](https://companycam.imgix.net/images/advanced-features-you-need-to-know.png?auto=format&w=280)
         
         [Advanced Features You Need to Know](https://companycam.com/classes/advanced-features-you-need-to-know)
         
-    * ![](https://companycam.imgix.net/images/April_Craft-Header.png)
+    * ![advanced features thumbnail](https://companycam.imgix.net/images/April_Craft-Header.png?auto=format&w=280)
         
         [CompanyCam Feature Refresher](https://companycam.com/classes/feature-refresher)
         
@@ -531,7 +531,7 @@ Menu
     
     [Talk to Real People](https://help.companycam.com/en/?_gl=1*pbhkbz*_ga*MTk4NTU1MDc2NS4xNzA5Njc0MzA2*_ga_J48HTRJMG3*MTcxNDU5NTc2My4yMzguMS4xNzE0NTk3NzMzLjI2LjAuMA..*_ga_9EHVFEZKVX*MTcxNDU5NTc2My4xMTUuMS4xNzE0NTk3NzMzLjYwLjAuMA)
     
-    ![](https://companycam.imgix.net/images/global-nav/SupportNavImage.png)
+    ![](https://companycam.imgix.net/images/global-nav/SupportNavImage.png?auto=format&w=440)
     
     * ![schedule icon](https://companycam.imgix.net/images/global-nav/schedule.svg)
         
@@ -597,7 +597,7 @@ Menu
     
     [Start Saving Today](https://companycam.com/calculator)
     
-    ![](https://companycam.imgix.net/images/global-nav/SavingCalcNav.png)
+    ![](https://companycam.imgix.net/images/global-nav/SavingCalcNav.png?auto=format&w=440)
     
     * ![schedule icon](https://companycam.imgix.net/images/global-nav/schedule.svg)
         
