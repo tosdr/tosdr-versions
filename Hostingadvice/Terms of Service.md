@@ -43,8 +43,8 @@ We interview executives, engineers, and early adopters of cutting-edge technolog
 
 Latest Posts
 
+* [Create No-Code, AI-Powered Mobile Apps for Your Wix Site »](https://www.hostingadvice.com/blog/no-code-ai-powered-mobile-app-builder-wix/)
 * [A Tailored, Affordable eCommerce Solution for African SMBs »](https://www.hostingadvice.com/blog/tailored-affordable-ecommerce-solution-african-smbs/)
-* [wpDataTables Helps WordPress Users Visualize Data »](https://www.hostingadvice.com/blog/wpdatatables-helps-wordpress-users-visualize-data/)
 
 [Go to Today in Tech »](https://www.hostingadvice.com/blog/)
 
@@ -259,7 +259,7 @@ $
 
 |     |     |
 | --- | --- |
-| [![Jordan Sprogis](https://www.hostingadvice.com/images/uploads/2023/06/jordan-quare.jpg?width=45&height=45 "Jordan Sprogis")](https://www.hostingadvice.com/blog/tailored-affordable-ecommerce-solution-african-smbs/) | [A Tailored, Affordable eCommerce Solution for African SMBs](https://www.hostingadvice.com/blog/tailored-affordable-ecommerce-solution-african-smbs/)<br><br>[Jordan Sprogis](https://www.hostingadvice.com/author/jordan/) , 6/6/24 |
+| [![Jordan Sprogis](https://www.hostingadvice.com/images/uploads/2023/06/jordan-quare.jpg?width=45&height=45 "Jordan Sprogis")](https://www.hostingadvice.com/blog/no-code-ai-powered-mobile-app-builder-wix/) | [Create No-Code, AI-Powered Mobile Apps for Your Wix Site](https://www.hostingadvice.com/blog/no-code-ai-powered-mobile-app-builder-wix/)<br><br>[Jordan Sprogis](https://www.hostingadvice.com/author/jordan/) , 6/6/24 |
 | [![Jon McDonald](https://www.hostingadvice.com/images/uploads/2020/08/jon-HA-190x190-1.jpg?width=45&height=45 "Jon McDonald")](https://www.hostingadvice.com/blog/hostafrica-offers-cloud-and-web-hosting-for-smbs/) | [HOSTAFRICA Offers Cloud and Web Hosting for SMBs](https://www.hostingadvice.com/blog/hostafrica-offers-cloud-and-web-hosting-for-smbs/)<br><br>[Jon McDonald](https://www.hostingadvice.com/author/jon/) , 6/5/24 |
 | [![Lynn Cadet](https://www.hostingadvice.com/images/uploads/2021/11/Lynn-190.png?width=45&height=45 "Lynn Cadet")](https://www.hostingadvice.com/blog/wpdatatables-helps-wordpress-users-visualize-data/) | [wpDataTables Helps WordPress Users Visualize Data](https://www.hostingadvice.com/blog/wpdatatables-helps-wordpress-users-visualize-data/)<br><br>[Lynn Cadet](https://www.hostingadvice.com/author/lynn/) , 6/5/24 |
 
