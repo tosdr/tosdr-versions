@@ -320,8 +320,6 @@ We will not store or collect your card details. Information is provided directly
 
 [Intellectual Property Policy](https://www.tiktok.com/legal/copyright-policy?lang=en)
 
-[Impressum](https://www.tiktok.com/legal/impressum?lang=en)
-
 [TikTok Law Enforcement Guidelines](https://www.tiktok.com/legal/law-enforcement?lang=en)
 
 © 2024 TikTok
