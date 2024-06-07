@@ -64,6 +64,8 @@ Quick Escape
 
 [Level Up! Pitch Competition](https://www.ywca.org/what-we-do/programs/level-up-pitch-competition)
 
+[Our Mission](https://www.ywca.org/what-we-do/our-mission)
+
 [Advocacy](https://www.ywca.org/menu-advocacy)
 
 [Advocacy Overview](https://www.ywca.org/advocacy)
@@ -169,6 +171,8 @@ Open Menu Close Menu
 [YW WE360°](https://www.ywca.org/what-we-do/programs/women-empowerment-360)
 
 [Level Up! Pitch Competition](https://www.ywca.org/what-we-do/programs/level-up-pitch-competition)
+
+[Our Mission](https://www.ywca.org/what-we-do/our-mission)
 
 [Advocacy](https://www.ywca.org/menu-advocacy)
 
@@ -277,6 +281,8 @@ Open Menu Close Menu
 [YW WE360°](https://www.ywca.org/what-we-do/programs/women-empowerment-360)
 
 [Level Up! Pitch Competition](https://www.ywca.org/what-we-do/programs/level-up-pitch-competition)
+
+[Our Mission](https://www.ywca.org/what-we-do/our-mission)
 
 [Folder: Advocacy](https://www.ywca.org/menu-advocacy)
 
