@@ -12,9 +12,9 @@ x icon
 
 Bahasa IndonesiaDeutschEnglishEspañolFrançaisItaliano日本語한국어NederlandsPolskiPortuguêsРусскийSvenska繁體中文
 
-[Contact sales](https://asana.com/sales)
-
 [Log In](https://app.asana.com/-/login)
+
+[Contact sales](https://asana.com/sales)
 
 [Get started](https://asana.com/create-account "Get started")
 
@@ -477,6 +477,7 @@ If you have any questions about these Terms, please contact us at [terms-questi
 * Asana
 * [Home](https://asana.com/?noredirect)
 * [Product](https://asana.com/product)
+* [What's New](https://asana.com/whats-new)
 * [Pricing](https://asana.com/pricing)
 * [Starter](https://asana.com/plan/starter)
 * [Advanced](https://asana.com/plan/advanced)
@@ -496,7 +497,7 @@ If you have any questions about these Terms, please contact us at [terms-questi
 * [Wavelength](https://wavelength.asana.com/)
 * [Inside Asana](https://asana.com/inside-asana)
 * [Investor Relations](https://investors.asana.com/)
-* [Sitemap](https://asana.com/inside-asana/inside-asana/inside-asana/site-map)
+* [Sitemap](https://asana.com/inside-asana/inside-asana/inside-asana/inside-asana/site-map)
 * [Modern Slavery Transparency Statement](https://asana.com/terms/modern-slavery-statement)
 
 * Workflow Solutions
