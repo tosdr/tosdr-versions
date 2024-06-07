@@ -205,23 +205,24 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Gotdamn baby dem cakes sho is clappin!](https://www.somethingawful.com/awfulvision/michael-jackson-hackers/1/)
-* [No one spergs like Gaston!](https://www.somethingawful.com/awfulvision/icp-gaston-paint/1/)
-* [Miiverse Highlights!](https://www.somethingawful.com/comedy-goldmine/nintendo-posts-preteens/)
-* [Turn that frown upside down, art!](https://www.somethingawful.com/comedy-goldmine/turn-that-frown/1/)
+* [Auto-Fellatio, Wrestling, and Time Travel](https://www.somethingawful.com/weekend-web/autofellatio-wrestling-time/1/)
+* [Let's improve landmarks](https://www.somethingawful.com/photoshop-phriday/lets-improve-landmarks/)
+* [Slavoj Zizek Writes the Episode Guide for 2 Broke Girls on Wikipedia](https://www.somethingawful.com/news/broke-slavoj-girls/1/)
+* [Microsoft Streets & Trips 2008](https://www.somethingawful.com/game-reviews/streets-trips-review/1/)
+* [AwfulVision: The Movie!](https://www.somethingawful.com/awfulvision/movie-effort-awfulvision/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/photoshop.png) [What's goin' on over there...?](http://forums.somethingawful.com/showthread.php?threadid=4062283 "What's goin' on over there...?")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/goonmeet.png) [Bug catching](http://forums.somethingawful.com/showthread.php?threadid=4062249 "Bug catching")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/sex.png) [what was the moment you knew you were queer](http://forums.somethingawful.com/showthread.php?threadid=4062355 "what was the moment you knew you were queer")
+* ![](https://fi.somethingawful.com/forums/posticons/samartd-organs.gif) [do any goons donate plasma](http://forums.somethingawful.com/showthread.php?threadid=4062330 "do any goons donate plasma")
 
 ### Random Articles
 
-* [Everything You Need To Know About The World](https://www.somethingawful.com/news/everything-you-need/)
-* [Photoshop Hitler into Movie Posters!](https://www.somethingawful.com/photoshop-phriday/hitler-movie-posters/1/)
-* [What about socks for horses???](https://www.somethingawful.com/mooflogs/what-about-socks/)
-* [Daily SWAT: "Udder Insanity"](https://www.somethingawful.com/daily-dirt/daily-swat-udderly/)
-* [Face Swap 2011! (Part One of Two)](https://www.somethingawful.com/photoshop-phriday/face-swap-2011/1/)
+* [Album Cover Or Video Card Box?](https://www.somethingawful.com/garbage-day/album-video-card/)
+* [President Trump Compliments Video Game Villains](https://www.somethingawful.com/video-game-article/trump-villain-compliments/)
+* [Memorable Moments From the Film "Bad Leftenant"](https://www.somethingawful.com/news/bad-lieutenant-uk/)
+* [Monstergeddon Forum: Anyone see Indian Jones 4?](https://www.somethingawful.com/news/monstergeddon-indiana-jones/1/)
+* [Transmeta's Crusoe Announcement](https://www.somethingawful.com/news/transmetas-crusoe-announcement/)
 
 [Random!](https://www.somethingawful.com/random/)
 
