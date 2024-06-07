@@ -135,12 +135,12 @@ Just in
 
 * [The growth of Australia's flexible office in 2024](https://independentaustralia.net/article-display/the-growth-of-australias-flexible-office-in-2024,18626 "Permanent Link : The growth of Australia's flexible office in 2024")
 * [Laura Tingle and aliens at the ABC](https://independentaustralia.net/article-display/laura-tingle-and-aliens-at-the-abc,18660 "Permanent Link : Laura Tingle and aliens at the ABC")
+* [Lockheed Martin hides Australia's complicity in Gaza bombings](https://independentaustralia.net/article-display/lockheed-martin-hides-australias-complicity-in-gaza-bombings,18666 "Permanent Link : Lockheed Martin hides Australia's complicity in Gaza bombings")
+* [ABBA: Knight time for Sweden's pop royalty](https://independentaustralia.net/article-display/abba-knight-time-for-swedens-pop-royalty,18665 "Permanent Link : ABBA: Knight time for Sweden's pop royalty")
+* [Violence against women a global scourge](https://independentaustralia.net/article-display/violence-against-women-a-global-scourge,18664 "Permanent Link : Violence against women a global scourge")
 * [EU Elections a chance to push out warmongers](https://independentaustralia.net/article-display/eu-elections-a-chance-to-push-out-warmongers,18662 "Permanent Link : EU Elections a chance to push out warmongers")
 * [Joe Biden making America green again](https://independentaustralia.net/article-display/joe-biden-making-america-green-again,18661 "Permanent Link : Joe Biden making America green again")
 * [EDITORIAL: Laura Tingle and aliens at the ABC](https://independentaustralia.net/article-display/editorial-laura-tingle-and-aliens-at-the-abc,18659 "Permanent Link : EDITORIAL: Laura Tingle and aliens at the ABC")
-* [Vic Government's Registry sell-off plan inflates debt hysteria](https://independentaustralia.net/article-display/vic-governments-registry-sell-off-plan-inflates-debt-hysteria,18658 "Permanent Link : Vic Government's Registry sell-off plan inflates debt hysteria")
-* [Media stifles Gaza narrative](https://independentaustralia.net/article-display/media-stifles-gaza-narrative,18657 "Permanent Link : Media stifles Gaza narrative")
-* [High demand sees NBN market booming](https://independentaustralia.net/article-display/high-demand-sees-nbn-market-booming,18656 "Permanent Link : High demand sees NBN market booming")
 
 [![](https://independent-australia.myshopify.com/cdn/shop/files/2024MagCover1_aff90a98-8997-4ca5-8e59-d49c1b50ea32_large.jpg?v=1698989656)](https://independent-australia.myshopify.com/collections/magazines-and-newspapers/products/copy-of-2024-ia-print-magazine-subscriber-advance-order-discounted-price-1)
 
