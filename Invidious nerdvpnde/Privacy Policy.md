@@ -12,6 +12,9 @@ dark
 
 Maintaining a big Invidious instance has it's costs. Please consider [donating](https://ko-fi.com/weidenwiesel) in order to help me keep this instance up and running.
 
+ATTENTION: There is another ongoing attack from YouTube. This instance might be down temporarly in the near future.  
+I recommend DOWNLOADING videos you wanna watch before its too late!
+
 Privacy
 -------
 
