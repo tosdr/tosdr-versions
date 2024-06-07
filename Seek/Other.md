@@ -344,7 +344,7 @@ Sign in to manage your SEEK Profile, save searches and view your recommended job
   
  
 
-[Better job matches than ever before. It's no myth.](https://www.seek.com.au/jobmyths?tracking=DAC-ONS-BAN-CandiAU_WS_SEEKRET-34632&utm_campaign=CandiAU_WS_SEEKRET&utm_content=CandiAU_WS_SEEKRET_Onsite_DIS_970x250_Homepage_MB_BETTERMATCHES&utm_medium=Display&utm_source=Onsite)
+Better job matches than ever before.
 
 Job seekers
 
