@@ -117,25 +117,25 @@ We welcome feedback from our viewers and readers. If readers/viewers have a conc
 Top of Today
 ------------
 
-1. [![Tighe Scott faces charges in the Jan. 6, 2021, riots at the U.S. Capitol. (Photos from court documents)](https://lawandcrime.com/wp-content/uploads/2024/06/Tighe-Scott-432x243.jpeg)](https://lawandcrime.com/high-profile/retired-nascar-driver-arrested-for-confronting-cops-on-jan-6-feds-say/)
+1. [![Seraya Aung Harmon, left, was last seen with her father, Aaron Daniel Aung, far right. Nadia Cole, Aaron Aung's fiancee, next to him above, is believed to be traveling with him. (Pullman Police - Washington state)](https://lawandcrime.com/wp-content/uploads/2024/06/Missing-Daughter-432x243.jpeg)](https://lawandcrime.com/crime/i-physically-felt-my-heart-hit-the-floor-father-believed-to-be-with-missing-daughter-2-and-fiancee-after-failing-to-show-up-for-custody-exchange/)
     
-    ### [Retired NASCAR driver arrested for confronting cops on Jan. 6, feds say](https://lawandcrime.com/high-profile/retired-nascar-driver-arrested-for-confronting-cops-on-jan-6-feds-say/)
+    ### ['I physically felt my heart hit the floor': Father believed to be with missing daughter, 2, and fiancee after failing to show up for custody exchange](https://lawandcrime.com/crime/i-physically-felt-my-heart-hit-the-floor-father-believed-to-be-with-missing-daughter-2-and-fiancee-after-failing-to-show-up-for-custody-exchange/)
     
-2. [![Alex Jones speaks on the East Front of the U.S. Capitol Wednesday, Jan. 6, 2021, in Washington, as rioters breach the Capitol. (AP Photo/Jose Luis Magana)](https://lawandcrime.com/wp-content/uploads/2024/06/ALEX-JONES-432x243.jpg)](https://lawandcrime.com/high-profile/bankruptcy-judge-spares-alex-jones-media-empire-for-now-as-sandy-hook-families-pursue-liquidation-of-infowars-parent-company/)
+2. [![Mousa Hawa and Holly Back (Chester County DA) and Hunter Hawa (GoFundMe)](https://lawandcrime.com/wp-content/uploads/2024/06/Mousa-Hawa-and-Holly-Back-Chester-County-DA-and-Hunter-Hawa-GoFundMe-432x243.jpg)](https://lawandcrime.com/crime/parents-of-8-year-old-who-overdosed-say-boy-knew-not-to-touch-their-drugs-because-they-called-it-daddys-medicine-police/)
     
-    ### [Bankruptcy judge spares Alex Jones' media empire for now as Sandy Hook families pursue liquidation of Infowars parent company](https://lawandcrime.com/high-profile/bankruptcy-judge-spares-alex-jones-media-empire-for-now-as-sandy-hook-families-pursue-liquidation-of-infowars-parent-company/)
+    ### [Parents of 8-year-old who overdosed say boy knew not to touch their drugs because they called it 'daddy's medicine': Police](https://lawandcrime.com/crime/parents-of-8-year-old-who-overdosed-say-boy-knew-not-to-touch-their-drugs-because-they-called-it-daddys-medicine-police/)
     
-3. [![Yosemite rape](https://lawandcrime.com/wp-content/uploads/2024/06/Yosemite-rape-432x243.jpg)](https://lawandcrime.com/crime/random-girls-saying-whatever-they-wanted-convicted-rock-climber-rapist-sentenced-to-life-in-prison-shows-no-remorse-says-victims-are-setting-back-metoo-movement/)
+3. [![Popular post image](https://lawandcrime.com/wp-content/uploads/2023/09/Worrell-DeSantis-432x243.jpg)](https://lawandcrime.com/high-profile/suspended-florida-prosecutor-slams-ruling-by-desantis-packed-court-as-endorsing-governors-political-stunt/)
     
-    ### ['Random girls saying whatever they wanted': Convicted rock climber rapist sentenced to life in prison shows no remorse, says victims are 'setting back' #MeToo movement](https://lawandcrime.com/crime/random-girls-saying-whatever-they-wanted-convicted-rock-climber-rapist-sentenced-to-life-in-prison-shows-no-remorse-says-victims-are-setting-back-metoo-movement/)
+    ### [Suspended Florida prosecutor slams ruling by DeSantis-packed court as endorsing governor's 'political stunt'](https://lawandcrime.com/high-profile/suspended-florida-prosecutor-slams-ruling-by-desantis-packed-court-as-endorsing-governors-political-stunt/)
     
-4. [![Jesse James Hall appears in body-worn camera footage and a booking photo](https://lawandcrime.com/wp-content/uploads/2024/06/Jesse-James-Hall-432x243.jpg)](https://lawandcrime.com/crime/what-did-i-do-sir-woman-thought-cats-set-off-her-car-alarm-and-opened-door-to-find-escaped-florida-inmate-inside-who-allegedly-grabbed-her-arm-made-her-cry-hysterically/)
+4. [![Brandon Perry (Aware Foundation missing person alert)](https://lawandcrime.com/wp-content/uploads/2024/06/Brandon-Perry-Aware-Foundation-missing-person-alert-432x243.jpg)](https://lawandcrime.com/crime/it-popped-off-17-year-old-killed-father-sealed-body-in-trash-can-and-dumped-it-in-river-police-say/)
     
-    ### ['What did I do sir?': Woman thought cats set off her car alarm and opened door to find escaped Florida inmate inside who allegedly grabbed her arm, made her cry 'hysterically'](https://lawandcrime.com/crime/what-did-i-do-sir-woman-thought-cats-set-off-her-car-alarm-and-opened-door-to-find-escaped-florida-inmate-inside-who-allegedly-grabbed-her-arm-made-her-cry-hysterically/)
+    ### ['It popped off': 17-year-old killed father, sealed body in trash can and dumped it in river, police say](https://lawandcrime.com/crime/it-popped-off-17-year-old-killed-father-sealed-body-in-trash-can-and-dumped-it-in-river-police-say/)
     
-5. [![Fulton County Superior Judge Scott McAfee flanked by inset images of Fani Willis, on the left, and Donald Trump, on the right](https://lawandcrime.com/wp-content/uploads/2024/03/McAfee-Willis-Trump-Disqualify-432x243.jpg)](https://lawandcrime.com/high-profile/trump-georgia-rico-trial-halted-over-da-fani-willis-disqualification-issues/)
+5. [![Elizabeth Nikki Wilhoite and Andrew Nathan Wilhoite appear in images supplied by the local sheriff's office.](https://lawandcrime.com/wp-content/uploads/2022/05/Elizabeth-Nikki-Wilhoite-and-Andrew-Nathan-Wilhoite-432x243.jpg)](https://lawandcrime.com/crime/man-who-killed-cancer-stricken-wife-with-flower-pot-one-week-after-she-filed-for-divorce-sentenced/)
     
-    ### [Trump Georgia RICO trial halted over DA Fani Willis disqualification issues](https://lawandcrime.com/high-profile/trump-georgia-rico-trial-halted-over-da-fani-willis-disqualification-issues/)
+    ### [Man who killed cancer-stricken wife with flower pot one week after she filed for divorce sentenced](https://lawandcrime.com/crime/man-who-killed-cancer-stricken-wife-with-flower-pot-one-week-after-she-filed-for-divorce-sentenced/)
     
 
 [](http://eepurl.com/c89Jdb)
