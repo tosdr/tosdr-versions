@@ -503,9 +503,7 @@ OTHER
 
 Discover our tools:
 
-[Effortless time tracking](https://toggl.com/)[Beautifully simple team planning](https://toggl.com/plan/)[Skills-based hiring](https://toggl.com/hire/)[Coming Soon
-
-Efficient expense management](https://toggl.com/work/)
+[Effortless time tracking](https://toggl.com/)[Beautifully simple team planning](https://toggl.com/plan/)[Skills-based hiring](https://toggl.com/hire/)[Efficient expense management](https://toggl.com/work/)
 
 [Legal Center](https://toggl.com/legal/)
 
