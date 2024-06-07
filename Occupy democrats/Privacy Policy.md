@@ -23,7 +23,7 @@
 
 Please check your username.](https://instagram.com/occupydemocrats)
 
-June 6, 2024
+June 7, 2024
 
 * [Home](https://occupydemocrats.com/)
 * [News](https://occupydemocrats.com/category/news/)
@@ -203,7 +203,7 @@ Occupy Democrats is a political organization and information website that provid
 
 [Instagram](https://instagram.com/occupydemocrats)
 
-June 6, 2024
+June 7, 2024
 
 Scroll To Top
 
@@ -222,6 +222,6 @@ Scroll To Top
 
 [Instagram](https://instagram.com/occupydemocrats)
 
-June 6, 2024
+June 7, 2024
 
 PRESS ESC TO CLOSE
