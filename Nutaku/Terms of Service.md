@@ -6,7 +6,7 @@ We use cookies and similar technologies that are necessary to run our Websites (
 
 Accept All Cookies Accept Only Essential Cookies Customize Cookies
 
-[![](/images/nutaku-logo-icon.svg?20220511170941)![Nutaku.net : Best Hentai and Porn Games](/images/nutaku-logo-text.svg?20220511170941 "Nutaku.net")](https://www.nutaku.net/home/)
+[![](/images/nutaku-logo-icon.svg?20220511170233)![Nutaku.net : Best Hentai and Porn Games](/images/nutaku-logo-text.svg?20220511170233 "Nutaku.net")](https://www.nutaku.net/home/)
 
 [Home](https://www.nutaku.net/home/) [Games](https://www.nutaku.net/games/) [Events](https://www.nutaku.net/events/) [News](https://www.nutaku.net/news-updates/) [Support](https://www.nutaku.net/support/)
 
@@ -308,7 +308,7 @@ All models appearing on this website are 18 years or older. Access the required 
 
 [](https://www.rtalabel.org/index.php?content=parents)
 
-![](/images/nutaku-logo-icon.svg?20220511170941)![Nutaku.net : Best Hentai and Porn Games](/images/nutaku-logo-text.svg?20220511170941 "Nutaku.net")
+![](/images/nutaku-logo-icon.svg?20220511170233)![Nutaku.net : Best Hentai and Porn Games](/images/nutaku-logo-text.svg?20220511170233 "Nutaku.net")
 
 Customize Cookies
 
