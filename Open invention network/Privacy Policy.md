@@ -188,10 +188,6 @@ This website contains links to other sites. Please be aware that we are not resp
 
 Welcome to our Newest Members!
 
-![WSO2 | OIN Community Member](https://openinventionnetwork.com/wp-content/uploads/2024/01/ws02-oin-community-member.jpg)
-
-![FoxConn | OIN Community Member](https://openinventionnetwork.com/wp-content/uploads/2023/12/foxconn-oin-community-member.jpg)
-
 ![Muratec Machinery | OIN Community Member](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20250'%3E%3C/svg%3E)
 
 ![Muratec Machinery | OIN Community Member](https://openinventionnetwork.com/wp-content/uploads/2024/01/muratec-machinery-oin-community-member-1.jpg)
@@ -208,47 +204,55 @@ Welcome to our Newest Members!
 
 ![Newlink | OIN Community Member](https://openinventionnetwork.com/wp-content/uploads/2024/04/newlink-china-energy-oin-community-member.png)
 
+![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20250'%3E%3C/svg%3E)
+
+![](https://openinventionnetwork.com/wp-content/uploads/2024/04/naas-logo.jpg)
+
+![Vizio | OIN Community Member](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20250'%3E%3C/svg%3E)
+
+![Vizio | OIN Community Member](https://openinventionnetwork.com/wp-content/uploads/2024/06/vizio-oin-community-member.jpg)
+
 Testimonials
-
-> We remain focused on leveraging the best technologies for our platforms and are excited to join the Open Invention Network (OIN), that supports protection from patent infringement claims for the greater good of the wider innovation community.  
-
-Josh DeathIP & Patentable Innovations LeadTD Bank
-
-> _Having OpenStack in the core of our product, FishOS,_  _we highly appreciate the value and importance of shared knowledge, experience, and technology of open source communities. Joining OIN emphasizes our commitment to developing and distributing open source technology. Thanks to expertise, software companies can mitigate the global patent risk to open source software like FishOS for all the market players – developers, vendors, customers, and end-users._
-
-Kenneth TanCEO, Sardina Systems
-
-> Open Invention Network is a unique organization. For 15 years, it has protected the Linux and open source community from patent aggression, while fostering a community that understands that value of shared technological development. It has been an honor to have worked with the OIN team, and fellow OIN Board members, to plan and implement the strategic initiatives that have provided protection for open source.  
-
-Tim KowalskiChairman of the BoardOpen Invention Network
-
-> Embecosm has joined OIN, an industry consortium with an ever-growing patent pool that facilitates cross-licensing, for mutual defense against those who would use patents against the Linux ecosystem. All members are protected, even companies like Embecosm which bring no patents to the table. I don’t like the world we are in, but at least Embecosm is now in a stronger position to protect free software.  
-
-Jeremy BennettFounder and Chief ExecutiveEmbecosm
-
-> _As we build a better experience for our clients, open source can be a significant innovation enabler for the platforms and applications we build and integrate. We’re proud to join the Open Invention Network and support its role in protecting open source software from patent risk._
-
-Michael SpringsChief Intellectual Property Counsel, Truist
-
-> As a global leader in open source, SUSE enables innovation from the largest data centers in the world to cloud environments, and our technology is embedded in every day devices like cars, points of sale and MRIs. Open source infrastructure is the power behind the cloud and digital transformation, and our customers rely on us for mission critical business outcomes and for innovation. As a leader in bringing open source solutions to enterprises, including enterprise Linux, we see firsthand why … [Read more](https://openinventionnetwork.com/testimonial/thomas-di-giacomo-suse/ "Complete testimonial by Thomas Di Giacomo")
-
-Thomas Di GiacomoPresident of Engineering & InnovationSUSE
-
-> At Shopify, we’ve built our platform on Ruby on Rails. We view open source software as a key foundation for our business. By joining the Open Invention Network, we have committed to patent non-aggression in core Linux and adjacent open source software. We believe that this commitment will promote innovation and help enable entrepreneurs and developers to build on open source foundations without focusing on the threat of litigation. We strongly encourage all forward-looking ecommerce platforms,… [Read more](https://openinventionnetwork.com/testimonial/shopify/ "Complete testimonial by Robert Guay")
-
-Robert GuaySenior Counsel, Intellectual PropertyShopify
 
 > _We have an unrelenting focus to put customers at the center of what we do. Incorporating Open Source software is one of the ways we implement the best technologies in our systems to deliver services and experiences that our customers value and trust. At U.S. Bank, we are committed to technology innovation, and we are proud to join the Open Invention Network and support its role in protecting Open Source software._
 
 Don RelyeaChief Innovation Officer, U.S. Bank
 
+> _“For us, joining OIN is a statement. Linux has given MTU added value that can’t be expressed in euros. We have powerful software available for designing, configuring, and producing engines and for fleet management. One especially valuable aspect is the freedom to continuously further develop and refine perfectly tailored tools and methods to design and configure our high-tech products ourselves.”_
+
+Nadia ZerelliHead of Engineering Systems, MTU Aero Engines
+
+> OIN has created a safe space of innovation in a world which has become increasingly dependent on Linux and open source software technologies. Participation in the OIN community has enabled Microsoft to further enhance our partnerships with developers around the world.  
+
+Jennifer YokoyamaVP & Chief IP CounselMicrosoft
+
+> We believe the protection OIN offers the open source community helps increase global contributions to and adoption of open source technologies. We are honored to stand with OIN as an active participant in its program to protect against patent aggression in core Linux and other important OSS technologies.  
+
+Erich AndersenCorporate Vice President and Chief IP CounselMicrosoft
+
 > The OIN membership supports Kontron on many levels. With our focus on building out our IoT framework, it makes perfect sense to be a part of an open source community that protects the rights of all members within the community, especially to reduce our patent risk around Linux related technology.  
 
 Jens WiegandCTO / EVP Software & ElectronicsKontron
 
-> For more than two decades, we have been a steadfast supporter of open source and the numerous benefits it provides. We have and continue to support the OIN and the Linux Foundation. IBM and Red Hat believe this is a key initiative to significantly deter non-practicing entities from asserting patents against the open source community.  
+> Tencent is committed to offering high-quality, Internet-based services from social, games and digital content to mobile payment, cloud services, Internet financial services and smart retail solutions, among many others. Linux and open source are critical elements in the technologies that we are developing to provide these services. By joining the Open Invention Network, we are demonstrating our continued commitment to innovation, and supporting it with patent non-aggression in Linux.  
 
-Todd MooreCTO, Developer EcosystemsIBM
+Xu YanSenior Account ManagerTencent Holdings Limited
+
+> The OpenChain Project is part of a broad global community engaging with all aspects of intellectual property around open source.  
+
+Shane CoughlanProgram ManagerOpenChain Project
+
+> Today, with open source software, we are quickly creating robust and long-lasting solutions for our customers. In addition to the technical implementation, we also take care that our customers do not worry about potential license violations.  
+
+Andreas PfeifferHead of Customer Advice and MarketingGinzinger
+
+> At Rakuten, our businesses continue to evolve as we address new market opportunities. Because of this, we are a user and strong advocate of open source software. We are building the first 100% fully virtualized mobile network, enabling us to scale rapidly and offer the best Quality-of-Service (QoS) available. By joining OIN, we are demonstrating our commitment to Open Source Software (OSS) and supporting it with a pledge of patent non-aggression.  
+
+Tareq AminCAO, Group Executive Vice PresidentRakuten, Inc.
+
+> UnionPay focuses on Fintech innovation and is committed to building an open platform that provides integrated payment services with global influence. Under the frame of legal and regulatory compliance, we are pleased to provide service and conduct active cooperation. We look forward to working with OIN and community members to protect our global business and the open source projects that encourage innovation.  
+
+UnionPayIntellectual Property ManagerUnionPay
 
 [![Open Invention Network](https://openinventionnetwork.com/wp-content/uploads/2024/01/oin-website-logo.png)](https://openinventionnetwork.com/)
 
@@ -262,7 +266,7 @@ Your Name\*
 
 Email\*
 
-Comments
+Email
 
 This field is for validation purposes and should be left unchanged.
 
@@ -320,7 +324,7 @@ This field is for validation purposes and should be left unchanged.
     * [ ]  I agree to join OIN's INSIDER eNews and to receive other relevant OIN communications.
     
 * You may unsubscribe from OIN's communications at any time. For more information on how to unsubscribe, our privacy practices, and how we are committed to protecting and respecting your privacy, please review our [Privacy Policy](https://openinventionnetwork.com/privacy-policy).
-* Email
+* Phone
     
     This field is for validation purposes and should be left unchanged.
     
