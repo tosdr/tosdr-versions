@@ -329,8 +329,6 @@ Compassion, Dignity, Justice, Excellence, Integrity, Safety. [Learn more about o
 
 * [About Us](https://www.swedish.org/about)
     
-* [Help us improve health care](https://www.collaboratingforbetterhealthcare.com/c/a/62g1OpEWK4O9ZckbK4vI08)
-    
 * [Annual Report to Our Communities](https://www.swedish.org/about/community-health-investment)
     
 * [Community Health Needs Assessments and Improvement Plans](https://www.swedish.org/about/community-health-investment)
