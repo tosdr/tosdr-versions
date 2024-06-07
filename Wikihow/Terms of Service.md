@@ -368,22 +368,24 @@ This Agreement was last modified on 4, December 2012.
 
 ### Featured Articles
 
+[![Express Your Feelings](https://www.wikihow.com/images/thumb/c/c8/Express-Your-Feelings-Step-17-Version-2.jpg/-crop-126-120-126px-Express-Your-Feelings-Step-17-Version-2.jpg)
+
+How to  
+Express Your Feelings](https://www.wikihow.com/Express-Your-Feelings)
+
+[![Choose a Wedding Dress](https://www.wikihow.com/images/thumb/9/91/Choose-a-Wedding-Dress-Step-36-Version-2.jpeg/-crop-126-120-126px-Choose-a-Wedding-Dress-Step-36-Version-2.jpeg)
+
+How to  
+Choose a Wedding Dress](https://www.wikihow.com/Choose-a-Wedding-Dress)
+
+[![Grow a Goatee](https://www.wikihow.com/images/thumb/9/98/Grow-a-Goatee-Step-13-Version-2.jpg/-crop-126-120-126px-Grow-a-Goatee-Step-13-Version-2.jpg)
+
+How to  
+Grow a Goatee](https://www.wikihow.com/Grow-a-Goatee)
+
 [![Does My Crush Like Me Quiz](https://www.wikihow.com/images/thumb/4/45/Does_my_crush_like_me_quiz.png/-crop-126-120-126px-Does_my_crush_like_me_quiz.png)
 
 Does My Crush Like Me Quiz](https://www.wikihow.com/Relationships/Does-My-Crush-Like-Me-Quiz)
-
-[![Feel Comfortable in High Heels](https://www.wikihow.com/images/thumb/8/84/Feel-Comfortable-in-High-Heels-Step-14-Version-2.jpg/-crop-126-120-126px-Feel-Comfortable-in-High-Heels-Step-14-Version-2.jpg)
-
-How to Feel Comfy in Any Pair of Heels](https://www.wikihow.com/Feel-Comfortable-in-High-Heels)
-
-[![Wake Up a Newborn](https://www.wikihow.com/images/thumb/2/28/Wake-Up-a-Newborn-Step-14.jpg/-crop-126-120-126px-Wake-Up-a-Newborn-Step-14.jpg)
-
-Tips & Tricks for Waking Up a Sleeping Baby](https://www.wikihow.com/Wake-Up-a-Newborn)
-
-[![Feel Calm and Relaxed](https://www.wikihow.com/images/thumb/b/b0/Feel-Calm-and-Relaxed-Step-18-Version-2.jpg/-crop-126-120-126px-Feel-Calm-and-Relaxed-Step-18-Version-2.jpg)
-
-How to  
-Feel Calm and Relaxed](https://www.wikihow.com/Feel-Calm-and-Relaxed)
 
   
 
@@ -424,4 +426,4 @@ Follow Us
 
 \-
 
-207
+175
