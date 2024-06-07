@@ -330,40 +330,66 @@ Full access to the Student Area, Group Activities, and any linked songs or resou
 i. contact the Sing Up Friend user or Membership account administrator to investigate why excessive streaming or allowance usage is occurring and whether a solution can be found.  
 ii. in extreme cases, where a solution cannot be found, suspend, until the matter can be resolved, or terminate, without refund of monies paid, the Sing Up Friend user account or Membership account.
 
-A resolution for excessive streaming and allowance usage may include, but is not limited to, purchasing an additional streaming or allowance top-up to cover the usage over and above the limit, changing the Membership account type to one which aligns with the higher streaming or song download allowance need.  
- 
+A resolution for excessive streaming and allowance usage may include, but is not limited to, purchasing an additional streaming or allowance top-up to cover the usage over and above the limit, changing the Membership account type to one which aligns with the higher streaming or song download allowance need.
 
-### [14\. Sing Up Training](https://www.singup.org/terms-and-conditions)
+### [14\. Licensing Requirements and Reporting Obligations](https://www.singup.org/terms-and-conditions)
 
-**14.1.  Sing Up virtual training events and webinars.** From time to time Sing Up may offer training in the form of virtual training events or webinars. The event topic, delivery staff, date, time, price, access depending on Sing Up account type, and other event attributes, are as advertised with the event. The event’s terms and conditions will apply.
+**14.1. Your responsibility.** Depending on the nature of your school or organisation and your intended use of Sing Up, the songs, resources, or other content, you may be required by law to obtain certain licences. It is your responsibility to ensure that all necessary licences are in place before you begin using Sing Up and the content and that you comply with your obligations under those licences.
+
+**14.2. Licensing bodies.** Your use of Sing Up, the songs, resources, or other content may require a licence from some or all of the following third-party licensing bodies in the UK or their foreign equivalent outside of the UK. This information is non-exhaustive. It is your responsibility to ensure that all necessary licences are in place before you begin using Sing Up and the content and that you comply with your obligations under those licences.
+
+i. Copyright Licensing Agency (CLA) licenses the copying and sharing of certain content;  
+ii. Printed Music Licensing Limited (PMLL) licenses the photocopying of printed music and digitally downloaded printed music;  
+iii. Christian Copyright Licensing International (CCLI) provides licences to churches and schools for various uses of certain content;  
+iv. Performing Right Society (PRS) licenses performances of music in a public venue.
+
+**14.3. UK Schools.** Schools in the UK may already have the following licences in place. These licenses allow UK schools to use copyright content within the school’s normal educational activities. This information is non-exhaustive. It is your responsibility to ensure that all necessary licences are in place before you begin using Sing Up and the content and that you comply with your obligations under those licences.
+
+i. Education Licence from the [CLA](https://cla.co.uk/),  
+ii. Schools Printed Music Licence (SPML) from [PMLL](https://www.pmll.org.uk/),  
+iii. Collective Worship Copyright Licence (CWCL) and a Collective Worship Music Reproduction Licence (CWMRL) from [CCLI](https://uk.ccli.com/).
+
+**14.4. Reporting obligations.** License holders are required to report the following to the appropriate third-party licensing bodies in the UK or other applicable country. This information is non-exhaustive. It is your responsibility to ensure that all necessary licences are in place before you begin using Sing Up and the content and that you comply with your obligations under those licences.
+
+i. all displaying of song lyrics in assemblies and collective worship;  
+ii. all printing and copying (including digital copying) of music scores and lyrics;  
+iii. all printing and copying (including digital copying) of content other than music scores and lyrics (such as teaching materials, scripts, lesson and assembly plans);  
+iv. all performances of content in public;  
+v. any other usage required to be reported by the applicable licensing body.
+
+**14.5. Usage reports available on Sing Up.** Sing Up may provide access to usage reports to assist with reporting to third-party licensing bodies. These reports are non-exhaustive, may contain more or less than the information required, and should not be solely relied upon to fulfil reporting obligations. It is your responsibility to ensure that you regularly record and collect the appropriate information to comply with your obligations under any applicable licences.
+
+### [15\. Sing Up Training](https://www.singup.org/terms-and-conditions)
+
+**15.1.  Sing Up virtual training events and webinars.** From time to time Sing Up may offer training in the form of virtual training events or webinars. The event topic, delivery staff, date, time, price, access depending on Sing Up account type, and other event attributes, are as advertised with the event. The event’s terms and conditions will apply.
 
 Sing Up reserve the right to cancel, reschedule, or make amends to virtual training events or webinars, including but not limited to the date, timings, content, access and delivery staff. It is the participant's responsibility to ascertain whether a virtual training event or webinar has been amended, rescheduled, or cancelled, and to rebook for any new dates, if provided. Sing Up will use reasonable endeavours to notify participants in good time of changes to virtual training events or webinars.
 
-**14.2.  Training videos.** Access to high quality video content is provided in the form of training videos, documentaries, and how-to guides through the Site. Assess to training videos is provided as stated on the Site and may depend on the Sing Up account type. Sing Up will endeavour to provide the highest quality content. Sing Up reserves the right to change, modify, or discontinue any aspect or feature of our video content at any time.
+**15.2.  Training videos.** Access to high quality video content is provided in the form of training videos, documentaries, and how-to guides through the Site. Assess to training videos is provided as stated on the Site and may depend on the Sing Up account type. Sing Up will endeavour to provide the highest quality content. Sing Up reserves the right to change, modify, or discontinue any aspect or feature of our video content at any time.
 
-**14.3.  Face-to-face training events.** From time to time Sing Up may offer face-to-face training events. The event topic, delivery staff, date, time, price, access depending on Sing Up account type, and other event attributes, are as advertised with the event. The event’s terms and conditions will apply. 
+**15.3.  Face-to-face training events.** From time to time Sing Up may offer face-to-face training events. The event topic, delivery staff, date, time, price, access depending on Sing Up account type, and other event attributes, are as advertised with the event. The event’s terms and conditions will apply. 
 
 Where Sing Up provides training directly, Sing Up reserve the right to cancel, reschedule, or make amends to face-to-face training events, including but not limited to the venue, location, timings, content, delivery staff, etc. It is the participant's responsibility to ascertain whether a face-to-face training event has been amended, rescheduled, or cancelled, and to rebook for any new dates, if provided. Sing Up will use reasonable endeavours to notify participants of changes to face-to-face training events in good time.
 
 Where Sing Up promotes or endorses training delivered by, or in conjunction with, a third party, Sing Up will not be held responsible for the content or any changes, amendments or cancellations..  
  
 
-### [15\. Governing Law and Jurisdiction](https://www.singup.org/terms-and-conditions)
+### [16\. Governing Law and Jurisdiction](https://www.singup.org/terms-and-conditions)
 
-**15.1.**  All of the Terms are governed by English Law and any disputes arising out of any transaction with Sing Up are subject to the exclusive jurisdiction of the English Courts. 
+**16.1.**  All of the Terms are governed by English Law and any disputes arising out of any transaction with Sing Up are subject to the exclusive jurisdiction of the English Courts. 
 
-**15.2.**  If any of these terms are determined to be illegal, invalid or otherwise unenforceable, then to the extent in which that term is illegal, invalid, or otherwise unenforceable it shall be severed and deleted from these terms and the remaining terms shall survive, remain in full force and effect and continue to be binding and enforceable.  
+**16.2.**  If any of these terms are determined to be illegal, invalid or otherwise unenforceable, then to the extent in which that term is illegal, invalid, or otherwise unenforceable it shall be severed and deleted from these terms and the remaining terms shall survive, remain in full force and effect and continue to be binding and enforceable.  
  
 
-### [16\. Registered Office](https://www.singup.org/terms-and-conditions)
+### [17\. Registered Office](https://www.singup.org/terms-and-conditions)
 
-**16.1.**  Sing Up Group Limited, Gateshead International Business Centre, Mulgrave Terrace, Gateshead, NE8 1AN, United Kingdom
+**17.1.**  Sing Up Group Limited, Gateshead International Business Centre, Mulgrave Terrace, Gateshead, NE8 1AN, United Kingdom
 
-**16.2.**  Sing Up is registered in England as a company limited by guarantee. Company number: 10201901. 
+**17.2.**  Sing Up is registered in England as a company limited by guarantee. Company number: 10201901. 
 
-**16.3.**  Sing Up is registered for VAT. VAT registration number: GB 301 784 226.
+**17.3.**  Sing Up is registered for VAT. VAT registration number: GB 301 784 226.
 
-Last updated: 23 March 2023
+Last updated: 07 June 2024
 
 ##### 1.  [Acceptance of Terms](https://www.singup.org/terms-and-conditions/#Acceptance_of_terms "Opens internal link in same window")  
 2.  [Changes and Updates](https://www.singup.org/terms-and-conditions/#Changes_updates "Opens internal link in same window")  
@@ -378,9 +404,10 @@ Last updated: 23 March 2023
 11\. [Students, Groups, and Group Activities](https://www.singup.org/terms-and-conditions/#student_area "Opens internal link in same window")  
 12\. [Sing Up Allowance](https://www.singup.org/terms-and-conditions/#Allowance "Opens internal link in same window")  
 13\. [Allowance and Streaming Fair Usage](https://www.singup.org/terms-and-conditions/#Fair_usage "Opens internal link in same window")  
-14\. [Sing Up Training](https://www.singup.org/terms-and-conditions/#Training "Opens internal link in same window")  
-15\. [Governing Law and Jurisdiction](https://www.singup.org/terms-and-conditions/#Governing_law_jurisdiction "Opens internal link in same window")  
-16\. [Registered Office](https://www.singup.org/terms-and-conditions/#Registered_office "Opens internal link in same window")  
+14\. [Licensing Requirements and Reporting Obligations](https://www.singup.org/terms-and-conditions/#Licensing "Opens internal link in same window")  
+15\. [Sing Up Training](https://www.singup.org/terms-and-conditions/#Training "Opens internal link in same window")  
+16\. [Governing Law and Jurisdiction](https://www.singup.org/terms-and-conditions/#Governing_law_jurisdiction "Opens internal link in same window")  
+17\. [Registered Office](https://www.singup.org/terms-and-conditions/#Registered_office "Opens internal link in same window")  
  
 
 ### Additional Terms:
