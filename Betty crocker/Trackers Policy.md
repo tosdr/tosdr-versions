@@ -168,10 +168,10 @@ Menu
 
 ### Weekly Whisks
 
+* [Stuffed Peppers](https://www.bettycrocker.com/recipes/stuffed-peppers/63e29e18-903e-467c-aec5-fba4ce3a138f)
 * [Chocolate Milkshakes](https://www.bettycrocker.com/recipes/chocolate-milkshakes/7b7f7d41-4e3f-4bfa-b148-f29cc2a6b135)
 * [Betty Crocker OREO Brownie Mix](https://www.bettycrocker.com/products/betty-crocker-brownies-and-dessert-bars/betty-crocker-oreo-brownie-mix)
 * [Betty Crocker Lower Sugar Brownie Mix](https://www.bettycrocker.com/products/betty-crocker-brownies-and-dessert-bars/betty-crocker-lower-sugar-double-chocolate-fudge-brownie-mix)
-* [Stuffed Peppers](https://www.bettycrocker.com/recipes/stuffed-peppers/63e29e18-903e-467c-aec5-fba4ce3a138f)
 
 * Save
     
