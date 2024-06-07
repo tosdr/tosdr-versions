@@ -198,9 +198,9 @@ Terms of use
 
 ![](https://px.ads.linkedin.com/collect/?pid=4027457&fmt=gif)
 
-[$66.27
+[$67.14
 
-ASX: +1.01%](https://www.wesfarmers.com.au/investor-centre/your-shareholding/share-price "Investor Centre")
+ASX: +1.31%](https://www.wesfarmers.com.au/investor-centre/your-shareholding/share-price "Investor Centre")
 
 * [Investor Centre](https://www.wesfarmers.com.au/investor-centre)
 * [Annual Report](https://www.wesfarmers.com.au/docs/default-source/reports/2023-wesfarmers-annual-report---interactive.pdf?sfvrsn=a048e0bb_3)
