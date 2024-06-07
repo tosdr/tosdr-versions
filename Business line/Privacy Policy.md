@@ -650,10 +650,10 @@ The Courts in Chennai in India shall have the exclusive jurisdiction to the excl
 
 ##### Trending on businessline
 
+*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Stock Market Live Today](https://www.thehindubusinessline.com/markets/share-market-nifty-sensex-live-updates-06-june-2024/article68255199.ece)
+*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Adani Power Stocks Price Live](https://www.thehindubusinessline.com/markets/stock-markets/bhel-adani-power-stocks-live-update-06-june-2024/article68257893.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Election Results Live Updates](https://www.thehindubusinessline.com/news/elections/india-general-election-results-2024-live-updates/article68246360.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Election Results Analysis Live](https://www.thehindubusinessline.com/news/elections/lok-sabha-elections-2024-live-news/article68252733.ece)
-*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Stock Market Live Today](https://www.thehindubusinessline.com/markets/share-market-nifty-sensex-live-updates-31-may-2024/article68232562.ece)
-*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Adani Stocks Price Live Updates](https://www.thehindubusinessline.com/markets/stock-markets/adani-group-stocks-live-updates-stocks-soar-on-bjp-led-nda-win-predictions-several-hit-52-week-highs/article68245485.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) RBI Monetary Policy Live](https://www.thehindubusinessline.com/money-and-banking/rbi-monetary-policy-committee-mpc-meeting-april-2024-live-news-updates/article68028551.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Budget 2024 Highlights](https://www.thehindubusinessline.com/economy/budget/union-budget-2024-live-news-updates-highlights-fm-nirmala-sitharaman-to-present-interim-budget-today/article67796388.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Reliance Share Price](https://www.thehindubusinessline.com/stocks/reliance-industries-ltd/)
