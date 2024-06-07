@@ -310,7 +310,7 @@ We may use information we obtain about you to:
 If you have any questions about this Policy or the practices of this Site, please contact:
 
 Digital Communications  
-1055 W. 7th Street, 10th Floor  
+1200 W. 7th Street  
 Los Angeles, CA 90017  
 [communications-request@lacare.org](mailto:%C3%A2%C2%80%C2%8Bcommunications-request@lacare.org)
 
