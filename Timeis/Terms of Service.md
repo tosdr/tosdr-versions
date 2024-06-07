@@ -21,16 +21,14 @@ We allow third-party companies to serve ads and/or collect certain anonymous inf
 
 Share this page!
 
-19:46:45
+19:59:24
 
 The clock will update automatically if you turn on JavaScript in your browser.
 ------------------------------------------------------------------------------
 
-Thursday, 6 June, 2024, week 23
+Friday, 7 June, 2024, week 23
 
-[National Day of Sweden](https://en.wikipedia.org/wiki/National_Day_of_Sweden) / [D-Day](https://en.wikipedia.org/wiki/Normandy_landings)
-
-Sun: ↑ 04:44 ↓ 21:16 (16h 32m) - [More info](https://time.is/Brentford#time_zone) - [Make Brentford time default](https://time.is/h/288243) - [Add to favorite locations](https://time.is/)
+Sun: ↑ 04:43 ↓ 21:17 (16h 34m) - [More info](https://time.is/Brentford#time_zone) - [Make Brentford time default](https://time.is/h/288243) - [Add to favorite locations](https://time.is/)
 
 ×
 
