@@ -2,6 +2,16 @@ My Account
 
 Personal
 
+Mobile
+
+Broadband
+
+Telecel Cash
+
+Telecel Play
+
+Support
+
 Business
 
 Explore
