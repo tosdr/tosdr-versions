@@ -96,25 +96,13 @@ Search site
 
 [River Flood Warning
 
-until FRI 7:00 AM CDT, Kaufman County, Ellis County](https://www.fox4news.com/weather-alerts)
+until FRI 8:48 AM CDT, Kaufman County, Ellis County](https://www.fox4news.com/weather-alerts)
 
-7
-
-[River Flood Warning
-
-until THU 7:57 PM CDT, Dallas County](https://www.fox4news.com/weather-alerts)
+4
 
 [River Flood Warning
 
-until THU 11:00 PM CDT, Hunt County, Rockwall County](https://www.fox4news.com/weather-alerts)
-
-[River Flood Warning
-
-until THU 11:39 PM CDT, Hunt County](https://www.fox4news.com/weather-alerts)
-
-[River Flood Warning
-
-until FRI 2:23 AM CDT, Collin County](https://www.fox4news.com/weather-alerts)
+until FRI 5:46 AM CDT, Collin County](https://www.fox4news.com/weather-alerts)
 
 [River Flood Warning
 
@@ -418,35 +406,35 @@ _**Consumer Rights under Virginia, Colorado, Connecticut, and other similar laws
 
 [View More](https://www.fox4news.com/news)
 
- [![SpaceX Starship survives "toasty" fourth test flight – barely](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/starship-4-8-copy.jpg?ve=1&tl=1)
+ [![Brown has 22, Porzingis returns with 20 as Celtics open NBA Finals with 107-89 win over Mavericks](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/GettyImages-2156420161.jpg?ve=1&tl=1)
 
- ![SpaceX Starship survives "toasty" fourth test flight – barely](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/592/333/starship-4-8-copy.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/spacex-starship-launch-fourth-test-flight-060624)
+ ![Brown has 22, Porzingis returns with 20 as Celtics open NBA Finals with 107-89 win over Mavericks](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/592/333/GettyImages-2156420161.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-mavericks-boston-celtics-game-1)
 
-### [SpaceX Starship survives "toasty" fourth test flight – barely](https://www.fox4news.com/news/spacex-starship-launch-fourth-test-flight-060624)
+### [Brown has 22, Porzingis returns with 20 as Celtics open NBA Finals with 107-89 win over Mavericks](https://www.fox4news.com/news/dallas-mavericks-boston-celtics-game-1)
 
- [![Man who rammed vehicles during Granbury police chase facing multiple charges](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/Harrell-Barry-Lalane.jpeg?ve=1&tl=1)
+ [![FEMA opens resource center in Denton County for storm victims](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/P-PEYTON-FEMA-DISASTER-RECOVERY-CENTERS-9P_00.00.49.30.jpg?ve=1&tl=1)
 
- ![Man who rammed vehicles during Granbury police chase facing multiple charges](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/592/333/Harrell-Barry-Lalane.jpeg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/granbury-hwy-377-chase-barry-harrell)
+ ![FEMA opens resource center in Denton County for storm victims](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/592/333/P-PEYTON-FEMA-DISASTER-RECOVERY-CENTERS-9P_00.00.49.30.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fema-opens-resource-center-denton-county-storm-victims)
 
-### [Man who rammed vehicles during Granbury police chase facing multiple charges](https://www.fox4news.com/news/granbury-hwy-377-chase-barry-harrell)
+### [FEMA opens resource center in Denton County for storm victims](https://www.fox4news.com/news/fema-opens-resource-center-denton-county-storm-victims)
 
- [![Chipotle giving away free burritos during NBA Finals: How the deal works](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/GettyImages-1005309342.jpg?ve=1&tl=1)
+ [![Experts say Red Lobster's shrimp excuse is 'smoke screen' for real problems](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/GettyImages-94959561.jpg?ve=1&tl=1)
 
- ![Chipotle giving away free burritos during NBA Finals: How the deal works](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/592/333/GettyImages-1005309342.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/chipotle-free-burritos-nba-finals-2024-how-it-works)
+ ![Experts say Red Lobster's shrimp excuse is 'smoke screen' for real problems](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/592/333/GettyImages-94959561.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/experts-say-red-lobsters-shrimp-excuse-smoke-screen-real-problems)
 
-### [Chipotle giving away free burritos during NBA Finals: How the deal works](https://www.fox4news.com/news/chipotle-free-burritos-nba-finals-2024-how-it-works)
+### [Experts say Red Lobster's shrimp excuse is 'smoke screen' for real problems](https://www.fox4news.com/news/experts-say-red-lobsters-shrimp-excuse-smoke-screen-real-problems)
 
- [![Ureña's perfect-game bid ends with homer but Rangers top Detroit 9-1 to avoid a sweep](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/GettyImages-2155620854.jpg?ve=1&tl=1)
+ [![Fossil Rim Wildlife Center changes visitor policies after viral video of giraffe grabbing toddler](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/giraffe.png?ve=1&tl=1)
 
- ![Ureña's perfect-game bid ends with homer but Rangers top Detroit 9-1 to avoid a sweep](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/592/333/GettyImages-2155620854.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/urenas-perfect-game-bid-ends-homer-rangers-top-detroit-9-1-avoid-sweep)
+ ![Fossil Rim Wildlife Center changes visitor policies after viral video of giraffe grabbing toddler](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/592/333/giraffe.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fossil-rim-wildlife-center-change-visitor-policies-after-viral-video-giraffe-grabbing-toddler)
 
-### [Ureña's perfect-game bid ends with homer but Rangers top Detroit 9-1 to avoid a sweep](https://www.fox4news.com/sports/urenas-perfect-game-bid-ends-homer-rangers-top-detroit-9-1-avoid-sweep)
+### [Fossil Rim Wildlife Center changes visitor policies after viral video of giraffe grabbing toddler](https://www.fox4news.com/news/fossil-rim-wildlife-center-change-visitor-policies-after-viral-video-giraffe-grabbing-toddler)
 
- [![Valley View family facing long recovery after deadly tornado](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/valley-view-family.jpg?ve=1&tl=1)
+ [![11-year-old dies after trying to save younger sister from drowning, police say](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/Pool.jpg?ve=1&tl=1)
 
- ![Valley View family facing long recovery after deadly tornado](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/592/333/valley-view-family.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/valley-view-family-facing-long-recovery-after-deadly-tornado)
+ ![11-year-old dies after trying to save younger sister from drowning, police say](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/592/333/Pool.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/11-year-old-dies-trying-save-younger-sister-from-drowning-police-say)
 
-### [Valley View family facing long recovery after deadly tornado](https://www.fox4news.com/news/valley-view-family-facing-long-recovery-after-deadly-tornado)
+### [11-year-old dies after trying to save younger sister from drowning, police say](https://www.fox4news.com/news/11-year-old-dies-trying-save-younger-sister-from-drowning-police-say)
 
 ###### [News](https://www.fox4news.com/news)
 
