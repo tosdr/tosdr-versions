@@ -1,7 +1,7 @@
 [KBH Games](https://kbhgames.com/)
 
 * [New](https://kbhgames.com/new)
-* [Friday Night Funkin](https://kbhgames.com/tag/friday-night-funkin)
+* [FNF](https://kbhgames.com/tag/friday-night-funkin)
 * [Action](https://kbhgames.com/tag/action)
 * [Puzzle](https://kbhgames.com/tag/puzzle)
 * [2 Players](https://kbhgames.com/tag/2-player)
@@ -102,6 +102,10 @@ The user may not engage in antisocial, disruptive, or destructive acts, includin
 **Contact**
 
 For more on how to contact us using the [contact page](https://kbhgames.com/game/contact).
+
+**Other Sites and Social Media**
+
+KBHGAMES only have one website and is KBHGAMES.COM. We DON’T any Social Media Account. If you see other kbhgames sites or kbhgames on Social Media, they are NOT us.
 
 **Submit Games to Website**
 
