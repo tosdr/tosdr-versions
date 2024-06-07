@@ -389,7 +389,7 @@ Get to know us
 
 Alimentation Jean-Pierre Durette Inc.
 
-Close at 08:00 PMOpen
+Closed
 
 [Business hours and directions](https://www.metro.ca/en/find-a-grocery/6)
 
