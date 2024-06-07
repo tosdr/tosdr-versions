@@ -91,15 +91,6 @@
     Featured Post Container
     
     * Featured
-        
-        [![featured event](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-        
-        ![featured event](https://www.consensus.com/wp-content/uploads/2024/05/Civitas-Website-Banner.svg)](https://www.civitasforhealth.org/event/2024-civitas-networks-for-health-annual-conference/)
-        
-        [2024 Civitas Networks for Health Annual Conference
-        
-        Learn More](https://www.civitasforhealth.org/event/2024-civitas-networks-for-health-annual-conference/)
-        
     
 * Learn
     
@@ -107,7 +98,7 @@
     
     * [What is Artificial Intelligence?](https://www.consensus.com/artificial-intelligence/)
     * [What is Blockchain Technology?](https://www.consensus.com/blockchain/)
-    * [What is Clinical Documentation Improvement(CDI)?](https://www.consensus.com/clinical-documentation-improvement/)
+    * [What is Clinical Documentation Improvement (CDI)?](https://www.consensus.com/clinical-documentation-improvement/)
     * [What is the Cloud?](https://www.consensus.com/cloud/)
     * [What is Cloud Computing?](https://www.consensus.com/cloud/computing/)
     
