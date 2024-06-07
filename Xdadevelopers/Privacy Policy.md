@@ -114,7 +114,7 @@ We use pixel tags, which are small graphic files that allow us and our trusted t
 
 ##### ADVERTISERS
 
-We use third-party advertising companies to serve ads when you visit our Sites. These companies may use information (such information does not include your name, address, email address or telephone number) about your visits to our Sites and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies,  [click here](http://www.networkadvertising.org/managing/opt_out.asp)
+We use third-party advertising companies to serve ads when you visit our Sites. These companies may use information (such information does not include your name, address, email address or telephone number) about your visits to our Sites and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies,  [click here.](http://www.networkadvertising.org/managing/opt_out.asp)
 
 Advertisers, as third-party vendors, use cookies to collect usage and demographic data in order to serve ads on our Sites. For example, Google’s use of the DART cookie enables it to serve ads to our users based on their visit to our Sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
@@ -270,7 +270,9 @@ If users have any questions or suggestions regarding our Privacy Policy, please 
 
 [Facebook](https://www.facebook.com/ValnetInc/) [LinkedIn](https://linkedin.com/company/valnet) [Telegram](mailto:info@valnetinc.com)
 
-![](https://www.valnetinc.com//images/BBB_ABSeal_H_StencilWhite.png)
+![Comscore Logo](/images/brand/comscore.png)
+
+![BBB Logo](/images/BBB_ABSeal_H_StencilWhite.png)
 
 Copyright © 2024 Valnet Inc.  
 [Terms of Use](https://www.valnetinc.com/en/terms-of-use) | [Privacy Policy](https://www.valnetinc.com/en/privacy-policy)
