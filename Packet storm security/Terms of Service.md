@@ -1,6 +1,6 @@
 [![packet storm](https://packetstatic.com/img1514015884/ps_logo.png)](https://packetstormsecurity.com/)
 
-what you don't know can hurt you
+exploit the possibilities
 
 [Register](https://packetstormsecurity.com/account/register/) | [Login](https://packetstormsecurity.com/account/login/)
 
@@ -53,21 +53,53 @@ Any claim relating to Packet Storm Security's web site shall be governed by the 
 Top Authors In Last 30 Days
 ---------------------------
 
-* [Red Hat](https://packetstormsecurity.com/files/authors/4676) 266 files
-* [Ubuntu](https://packetstormsecurity.com/files/authors/3695) 54 files
-* [Debian](https://packetstormsecurity.com/files/authors/2821) 23 files
+* [Red Hat](https://packetstormsecurity.com/files/authors/4676) 299 files
+* [Ubuntu](https://packetstormsecurity.com/files/authors/3695) 67 files
+* [Debian](https://packetstormsecurity.com/files/authors/2821) 25 files
 * [Gentoo](https://packetstormsecurity.com/files/authors/3417) 16 files
 * [Ahmet Umit Bayram](https://packetstormsecurity.com/files/authors/14177) 10 files
 * [Apple](https://packetstormsecurity.com/files/authors/2397) 9 files
-* [malvuln](https://packetstormsecurity.com/files/authors/15382) 7 files
+* [malvuln](https://packetstormsecurity.com/files/authors/15382) 8 files
 * [Google Security Research](https://packetstormsecurity.com/files/authors/11596) 5 files
+* [nu11secur1ty](https://packetstormsecurity.com/files/authors/14758) 5 files
 * [Jann Horn](https://packetstormsecurity.com/files/authors/10455) 5 files
-* [nu11secur1ty](https://packetstormsecurity.com/files/authors/14758) 4 files
 
 Recent News
 -----------
 
 [![News RSS Feed](https://packetstatic.com/img1514015884/bt_rss.gif)](https://rss.packetstormsecurity.com/news/)  
+
+[US Proposes To Boost Internet Security, Citing Chinese Carrier Action](https://packetstormsecurity.com/news/view/35970/US-Proposes-To-Boost-Internet-Security-Citing-Chinese-Carrier-Action.html)
+
+Posted [Jun 6, 2024](https://packetstormsecurity.com/news/date/2024-06-06/ "18:46:13 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [usa](https://packetstormsecurity.com/news/tags/usa), [china](https://packetstormsecurity.com/news/tags/china), [cyberwar](https://packetstormsecurity.com/news/tags/cyberwar)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/35970/) | [View](https://www.reuters.com/technology/us-proposes-boost-internet-security-citing-chinese-carrier-action-2024-06-06/)
+
+[Why Hackers Love Logs](https://packetstormsecurity.com/news/view/35968/Why-Hackers-Love-Logs.html)
+
+Posted [Jun 6, 2024](https://packetstormsecurity.com/news/date/2024-06-06/ "18:46:06 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/35968/) | [View](https://www.securityweek.com/why-hackers-love-logs/)
+
+[Webex Bugs Patched Post Exposure Of German Govt Meetings](https://packetstormsecurity.com/news/view/35964/Webex-Bugs-Patched-Post-Exposure-Of-German-Govt-Meetings.html)
+
+Posted [Jun 5, 2024](https://packetstormsecurity.com/news/date/2024-06-05/ "23:08:56 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [privacy](https://packetstormsecurity.com/news/tags/privacy), [data loss](https://packetstormsecurity.com/news/tags/data_loss), [flaw](https://packetstormsecurity.com/news/tags/flaw), [germany](https://packetstormsecurity.com/news/tags/germany), [cisco](https://packetstormsecurity.com/news/tags/cisco)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/35964/) | [View](https://www.securityweek.com/cisco-patches-webex-bugs-following-exposure-of-german-government-meetings/)
+
+[Ransomware Attack Disrupting London Hospitals](https://packetstormsecurity.com/news/view/35963/Ransomware-Attack-Disrupting-London-Hospitals.html)
+
+Posted [Jun 5, 2024](https://packetstormsecurity.com/news/date/2024-06-05/ "23:08:52 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [malware](https://packetstormsecurity.com/news/tags/malware), [britain](https://packetstormsecurity.com/news/tags/britain), [russia](https://packetstormsecurity.com/news/tags/russia), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime), [fraud](https://packetstormsecurity.com/news/tags/fraud), [cryptography](https://packetstormsecurity.com/news/tags/cryptography)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/35963/) | [View](https://www.scmagazine.com/news/qilin-ransomware-group-blamed-for-attack-disrupting-london-hospitals)
 
 [Emergency Patches Released For Critical Vulns Impacting EOL Zyxel NAS Boxes](https://packetstormsecurity.com/news/view/35962/Emergency-Patches-Released-For-Critical-Vulns-Impacting-EOL-Zyxel-NAS-Boxes.html)
 
@@ -76,6 +108,22 @@ Posted [Jun 5, 2024](https://packetstormsecurity.com/news/date/2024-06-05/ "23:0
 tags | [headline](https://packetstormsecurity.com/news/tags/headline), [flaw](https://packetstormsecurity.com/news/tags/flaw), [patch](https://packetstormsecurity.com/news/tags/patch)
 
 [Favorite](https://packetstormsecurity.com/news/favorite/35962/) | [View](https://www.theregister.com/2024/06/05/zyxel_emergency_patches_nas/)
+
+[TikTok Hackers Target Paris Hilton, CNN, And Other High Profile Users](https://packetstormsecurity.com/news/view/35961/TikTok-Hackers-Target-Paris-Hilton-CNN-And-Other-High-Profile-Users.html)
+
+Posted [Jun 5, 2024](https://packetstormsecurity.com/news/date/2024-06-05/ "23:08:45 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [password](https://packetstormsecurity.com/news/tags/password), [social](https://packetstormsecurity.com/news/tags/social)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/35961/) | [View](https://www.theguardian.com/technology/article/2024/jun/05/tiktok-hackers-target-cnn-paris-hilton-cyber-attack)
+
+[Windows Recall Demands An Extraordinary Level Of Trust That Microsoft Hasn't Earned](https://packetstormsecurity.com/news/view/35960/Windows-Recall-Demands-An-Extraordinary-Level-Of-Trust-That-Microsoft-Hasnt-Earned.html)
+
+Posted [Jun 5, 2024](https://packetstormsecurity.com/news/date/2024-06-05/ "23:08:40 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [privacy](https://packetstormsecurity.com/news/tags/privacy), [microsoft](https://packetstormsecurity.com/news/tags/microsoft), [data loss](https://packetstormsecurity.com/news/tags/data_loss), [spyware](https://packetstormsecurity.com/news/tags/spyware)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/35960/) | [View](https://arstechnica.com/ai/2024/06/windows-recall-demands-an-extraordinary-level-of-trust-that-microsoft-hasnt-earned/)
 
 [Vulnerabilities Exposed Millions Of Cox Modems To Remote Hacking](https://packetstormsecurity.com/news/view/35959/Vulnerabilities-Exposed-Millions-Of-Cox-Modems-To-Remote-Hacking.html)
 
@@ -100,54 +148,6 @@ Posted [Jun 4, 2024](https://packetstormsecurity.com/news/date/2024-06-04/ "13:3
 tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [usa](https://packetstormsecurity.com/news/tags/usa), [flaw](https://packetstormsecurity.com/news/tags/flaw)
 
 [Favorite](https://packetstormsecurity.com/news/favorite/35957/) | [View](https://www.theregister.com/2024/06/03/nist_cve_backlog/)
-
-[Cybercrooks Get Cozy With BoxedApp To Dodge Detection](https://packetstormsecurity.com/news/view/35956/Cybercrooks-Get-Cozy-With-BoxedApp-To-Dodge-Detection.html)
-
-Posted [Jun 4, 2024](https://packetstormsecurity.com/news/date/2024-06-04/ "13:34:10 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/35956/) | [View](https://www.theregister.com/2024/06/04/cybercriminals_abusing_boxedapp/)
-
-[Snowflake Data Breach Impacts Ticketmaster, Other Organizations](https://packetstormsecurity.com/news/view/35955/Snowflake-Data-Breach-Impacts-Ticketmaster-Other-Organizations.html)
-
-Posted [Jun 3, 2024](https://packetstormsecurity.com/news/date/2024-06-03/ "13:02:42 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [privacy](https://packetstormsecurity.com/news/tags/privacy), [data loss](https://packetstormsecurity.com/news/tags/data_loss), [flaw](https://packetstormsecurity.com/news/tags/flaw)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/35955/) | [View](https://www.securityweek.com/snowflake-hack-impacts-ticketmaster-other-organizations/)
-
-[Baidu Robo-Cars Crashed With Tinfoil And Paint Daubed On Cardboard](https://packetstormsecurity.com/news/view/35954/Baidu-Robo-Cars-Crashed-With-Tinfoil-And-Paint-Daubed-On-Cardboard.html)
-
-Posted [Jun 3, 2024](https://packetstormsecurity.com/news/date/2024-06-03/ "13:02:38 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [china](https://packetstormsecurity.com/news/tags/china), [flaw](https://packetstormsecurity.com/news/tags/flaw)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/35954/) | [View](https://www.theregister.com/2024/06/03/baidu_robotaxi_attack/)
-
-[Secrets Exposed In Hugging Face Attack](https://packetstormsecurity.com/news/view/35953/Secrets-Exposed-In-Hugging-Face-Attack.html)
-
-Posted [Jun 3, 2024](https://packetstormsecurity.com/news/date/2024-06-03/ "13:02:31 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [data loss](https://packetstormsecurity.com/news/tags/data_loss), [flaw](https://packetstormsecurity.com/news/tags/flaw), [password](https://packetstormsecurity.com/news/tags/password)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/35953/) | [View](https://www.securityweek.com/secrets-exposed-in-hugging-face-hack/)
-
-[OpenAI Report Reveals Threat Actors Using ChatGPT In Influence Operations](https://packetstormsecurity.com/news/view/35952/OpenAI-Report-Reveals-Threat-Actors-Using-ChatGPT-In-Influence-Operations.html)
-
-Posted [Jun 3, 2024](https://packetstormsecurity.com/news/date/2024-06-03/ "13:02:26 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime), [botnet](https://packetstormsecurity.com/news/tags/botnet), [fraud](https://packetstormsecurity.com/news/tags/fraud)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/35952/) | [View](https://www.scmagazine.com/news/openai-report-reveals-threat-actors-using-chatgpt-in-influence-operations)
-
-[Information Of Hundreds Of European Politicians Found On Dark Web](https://packetstormsecurity.com/news/view/35951/Information-Of-Hundreds-Of-European-Politicians-Found-On-Dark-Web.html)
-
-Posted [May 31, 2024](https://packetstormsecurity.com/news/date/2024-05-31/ "15:39:21 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [government](https://packetstormsecurity.com/news/tags/government), [privacy](https://packetstormsecurity.com/news/tags/privacy)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/35951/) | [View](https://www.securityweek.com/information-of-hundreds-of-european-politicians-found-on-dark-web/)
 
 [View More News →](https://packetstormsecurity.com/news/)
 
@@ -193,4 +193,4 @@ Hosting By
 
 ![close](https://packetstatic.com/img1514015884/o_close.png)
 
-![](https://ssl.google-analytics.com/__utm.gif?utmwv=1.3&utmn=1778000507&utmcs=ISO-8859-1&utmsr=31337x31337&utmsc=32-bit&utmul=en-us&utmje=0&utmfl=-&utmcn=1&utmdt=Terms%20of%20Service%u2248%20Packet%20Storm&utmhn=packetstormsecurity.com&utmr=-&utmp=%2Flegal%2Ftos.html&utmac=UA-18885198-1&utmcc=__utma%3D32867617.1778000507.1717692629.1717692629.1717692629.1%3B%2B__utmz%3D32867617.1717692629.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none))
+![](https://ssl.google-analytics.com/__utm.gif?utmwv=1.3&utmn=2211485454&utmcs=ISO-8859-1&utmsr=31337x31337&utmsc=32-bit&utmul=en-us&utmje=0&utmfl=-&utmcn=1&utmdt=Terms%20of%20Service%u2248%20Packet%20Storm&utmhn=packetstormsecurity.com&utmr=-&utmp=%2Flegal%2Ftos.html&utmac=UA-18885198-1&utmcc=__utma%3D32867617.2211485454.1717766762.1717766762.1717766762.1%3B%2B__utmz%3D32867617.1717766762.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none))
