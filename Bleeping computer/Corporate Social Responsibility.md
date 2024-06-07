@@ -36,18 +36,18 @@
         
         Linux version of TargetCompany ransomware focuses on VMware ESXi](https://www.bleepingcomputer.com/news/security/linux-version-of-targetcompany-ransomware-focuses-on-vmware-esxi/)
     
-    * [![Linux version of TargetCompany ransomware focuses on VMware ESXi](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![Hackers exploit 2018 ThinkPHP flaws to install ‘Dama’ web shells](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Linux version of TargetCompany ransomware focuses on VMware ESXi](https://www.bleepingcomputer.com/news/security/linux-version-of-targetcompany-ransomware-focuses-on-vmware-esxi/)
-    * [![FBI recovers 7,000 LockBit keys, urges ransomware victims to reach out](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Hackers exploit 2018 ThinkPHP flaws to install ‘Dama’ web shells](https://www.bleepingcomputer.com/news/security/hackers-exploit-2018-thinkphp-flaws-to-install-dama-web-shells/)
+    * [![Ukraine says hackers abuse SyncThing data sync tool to steal data](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        FBI recovers 7,000 LockBit keys, urges ransomware victims to reach out](https://www.bleepingcomputer.com/news/security/fbi-recovers-7-000-lockbit-keys-urges-ransomware-victims-to-reach-out/)
-    * [![Google Chrome reduced cookie requests to improve performance](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Ukraine says hackers abuse SyncThing data sync tool to steal data](https://www.bleepingcomputer.com/news/security/ukraine-says-hackers-abuse-syncthing-data-sync-tool-to-steal-data/)
+    * [![New Fog ransomware targets US education sector via breached VPNs](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Google Chrome reduced cookie requests to improve performance](https://www.bleepingcomputer.com/news/google/google-chrome-reduced-cookie-requests-to-improve-performance/)
-    * [![Advance Auto Parts stolen data for sale after Snowflake attack](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        New Fog ransomware targets US education sector via breached VPNs](https://www.bleepingcomputer.com/news/security/new-fog-ransomware-targets-us-education-sector-via-breached-vpns/)
+    * [![Get Dad the cloud backups he needs with $690 off 1TB of Koofr Cloud](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Advance Auto Parts stolen data for sale after Snowflake attack](https://www.bleepingcomputer.com/news/security/advance-auto-parts-stolen-data-for-sale-after-snowflake-attack/)
+        Get Dad the cloud backups he needs with $690 off 1TB of Koofr Cloud](https://www.bleepingcomputer.com/offer/deals/get-dad-the-cloud-backups-he-needs-with-690-off-1tb-of-koofr-cloud/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
@@ -302,7 +302,7 @@ BleepingComputer.com has partnered with [StackCommerce](https://stackcommerce.co
 
 If you have any questions or concerns regarding these policies, please free to contact us here: [https://www.bleepingcomputer.com/contact/](https://www.bleepingcomputer.com/contact/)
 
-[![Mandiant mWise Conference 2024](https://www.bleepstatic.com/c/m/mandiant/mwise-registration-early_craggiest-peaks.jpg)](https://www.bleepingcomputer.com/mgo/41/)
+[![Mandiant mWise Conference 2024](https://www.bleepstatic.com/c/m/mandiant/mwise-registration-early_deepened-understanding.jpg)](https://www.bleepingcomputer.com/mgo/42/)
 
 Popular Stories
 
@@ -321,7 +321,7 @@ Latest Downloads
     
     Version: 0.81
     
-    **41,582 _Downloads_**
+    **41,602 _Downloads_**
     
 * ![Malwarebytes Anti-Malware Logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -337,7 +337,7 @@ Latest Downloads
     
     Version: NA
     
-    **102,949 _Downloads_**
+    **102,956 _Downloads_**
     
 * ![Malwarebytes Support Tool Logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -345,7 +345,7 @@ Latest Downloads
     
     Version: NA
     
-    **150,089 _Downloads_**
+    **150,094 _Downloads_**
     
 * ![FilesLockerDecrypter Logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -353,7 +353,7 @@ Latest Downloads
     
     Version: NA
     
-    **48,892 _Downloads_**
+    **48,901 _Downloads_**
     
 
 ##### Follow us:
