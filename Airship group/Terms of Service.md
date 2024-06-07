@@ -46,7 +46,7 @@
         
     * [Email](https://www.airship.com/product/channels/email)
         
-    * [Web Notification](https://www.airship.com/product/channels/web-notifications/)
+    * [Web Notifications](https://www.airship.com/product/channels/web-notifications/)
         
     * [Mobile Wallet](https://www.airship.com/product/channels/mobile-wallet/)
         
@@ -128,6 +128,7 @@ Legal
     * [Privacy Statement](https://www.airship.com/legal/privacy/)
     * [California Privacy Rights Notice](https://www.airship.com/legal/california-privacy-rights-notice/)
     * [California Employee and Candidate Privacy Notice](https://www.airship.com/legal/california-employee-and-candidate-privacy-notice/)
+    * [Singapore Job Applicant and Employee Data Protection Policy](https://www.airship.com/legal/singapore-job-applicant-and-employee-data-protection-policy/)
 * Airship Products and Services
     * [Terms of Subscription Service](https://www.airship.com/legal/subscription-terms/)
     * [Support Services Description](https://www.airship.com/legal/support-services/)
