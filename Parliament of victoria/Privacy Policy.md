@@ -96,17 +96,17 @@ Hamburger [Parliament of Victoria logo](https://parliament.vic.gov.au/)
     
     * [Next
         
+        Greater accountability proposed for councils
+        
+        Next](https://parliament.vic.gov.au/news/general-news/council-governance)[Next
+        
         New horizons for youth leadership
         
         Next](https://parliament.vic.gov.au/news/general-news/youth-summit)[Next
         
         Farmers urged to have say on food supply
         
-        Next](https://parliament.vic.gov.au/news/society/farmersurvey)[Next
-        
-        Commercial stamp duty reform passes
-        
-        Next](https://parliament.vic.gov.au/news/economy/stamp-duty)
+        Next](https://parliament.vic.gov.au/news/society/farmersurvey)
     
 * Visit Chevron-down
     
