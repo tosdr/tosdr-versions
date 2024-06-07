@@ -208,13 +208,7 @@ If you have questions concerning this Agreement, the Privacy Policy, and/or the 
 Recently Played
 ---------------
 
-|     |
-| --- |
-| Everything I NeedChayce Beckham<br><br>4:58am |
-| Most People Are GoodLuke Bryan<br><br>4:55am |
-| Wind Up Missing YouTucker Wetmore<br><br>4:52am |
-| Mama's Broken HeartMiranda Lambert<br><br>4:49am |
-| Drinkin' BuddiesLee Brice Ft Hailey Whitters & Nat<br><br>4:39am |
+No playlist data.
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -235,9 +229,9 @@ You Might Also Like
 
 * * *
 
-![](https://s3.amazonaws.com/syndication.abcaudio.com/files/2024-05-24/M_ZachBryanPinkSkiesBeltingBroncoRecordsWarnerRecords.jpg)
+![](https://s3.amazonaws.com/syndication.abcaudio.com/files/2024-05-29/M_LukeCombs2022CMAFestPerformanceABC.jpg)
 
-[Country News](https://www.987thebull.com/category/country/)[### Zach Bryan spotlights a family funeral in "Pink Skies"](https://www.987thebull.com/zach-bryan-spotlights-a-family-funeral-in-pink-skies/)
+[Country News](https://www.987thebull.com/category/country/)[### Luke Combs' unreleased "Plant a Seed" might tug at your heartstrings](https://www.987thebull.com/luke-combs-unreleased-plant-a-seed-might-tug-at-your-heartstrings/)
 
 * * *
 
@@ -381,21 +375,21 @@ State
 Featured Brands
 ---------------
 
-[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
+[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
 
-Country • Western
-
-[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
-
-News Talk • Eastern
-
-[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
-
-Spanish • Western
+Top 40 • Pacific NW
 
 [![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
 
 Country • Western
+
+[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
+
+Country • Western
+
+[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
+
+Spanish • Western
 
 [](https://www.alphamediausa.com/)
 
