@@ -197,63 +197,61 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Impossible to run our businesses without IO
-> -------------------------------------------
+> Support even on Sundays!
+> ------------------------
 > 
-> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
->   
-> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
->   
-> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
->   
-> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
+> Thanks Adriaan...
+> 
+> You guys even work on Sundays?
+> 
+> I’m impressed!!
 
-Kobus Venter
+Johan Botha - Brand Xplosion
 
-![valued client Winfields Great Getaways](https://www.invoicesonline.co.za/scripts/image.php?bid=6995&file=logo_300_100&type=&fe=b0b41e13f1c58f38d9a675012345e257a5a6803f38cad77a067c951171c592cc&c=32738892)  
-Winfields Great Getaways
+![valued client Griffon Solutions and Communications](https://www.invoicesonline.co.za/scripts/image.php?bid=7799&file=logo_300_100&type=&fe=81ea9c52e89c102426ed9c91f1a7b68f494c35ac74fce79680c0607018ba7a66&c=152544924)  
+Griffon Solutions and Communications
 
-![valued client Fox Alarms & Security](https://www.invoicesonline.co.za/scripts/image.php?bid=4937&file=logo_300_100&type=&fe=b0b41e13f1c58f38d9a675012345e257a5a6803f38cad77a067c951171c592cc&c=115733703)  
-Fox Alarms & Security
+![valued client SafeTclip](https://www.invoicesonline.co.za/scripts/image.php?bid=8368&file=logo_300_100&type=&fe=81ea9c52e89c102426ed9c91f1a7b68f494c35ac74fce79680c0607018ba7a66&c=95452593)  
+SafeTclip
 
-![valued client McKaynine Mobility](https://www.invoicesonline.co.za/scripts/image.php?bid=8229&file=logo_300_100&type=&fe=b0b41e13f1c58f38d9a675012345e257a5a6803f38cad77a067c951171c592cc&c=132864066)  
-McKaynine Mobility
-
-![valued client VerdanTech Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5389&file=logo_300_100&type=&fe=b0b41e13f1c58f38d9a675012345e257a5a6803f38cad77a067c951171c592cc&c=89937396)  
-VerdanTech Pty Ltd
-
-![valued client SLOANE STAR MEAT MARKET](https://www.invoicesonline.co.za/scripts/image.php?bid=1748&file=logo_300_100&type=&fe=b0b41e13f1c58f38d9a675012345e257a5a6803f38cad77a067c951171c592cc&c=167512363)  
-SLOANE STAR MEAT MARKET
-
-![valued client OXYAIDER (PTY) LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7574&file=logo_300_100&type=&fe=b0b41e13f1c58f38d9a675012345e257a5a6803f38cad77a067c951171c592cc&c=101150890)  
-OXYAIDER (PTY) LTD
-
-![valued client ELLIE'S CLEANING CHICKS](https://www.invoicesonline.co.za/scripts/image.php?bid=6490&file=logo_300_100&type=&fe=b0b41e13f1c58f38d9a675012345e257a5a6803f38cad77a067c951171c592cc&c=31527904)  
-ELLIE'S CLEANING CHICKS
-
-![valued client Stories4Kids (Pty) Ltd t/a Storietyd](https://www.invoicesonline.co.za/scripts/image.php?bid=2162&file=logo_300_100&type=&fe=b0b41e13f1c58f38d9a675012345e257a5a6803f38cad77a067c951171c592cc&c=81213408)  
-Stories4Kids (Pty) Ltd t/a Storietyd
-
-![valued client NWET Pty LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=5929&file=logo_300_100&type=&fe=b0b41e13f1c58f38d9a675012345e257a5a6803f38cad77a067c951171c592cc&c=18096642)  
-NWET Pty LTD
-
-![valued client Vplay Letsheng Mall](https://www.invoicesonline.co.za/scripts/image.php?bid=8358&file=logo_300_100&type=&fe=b0b41e13f1c58f38d9a675012345e257a5a6803f38cad77a067c951171c592cc&c=24921779)  
-Vplay Letsheng Mall
-
-![valued client United Paintball Federation](https://www.invoicesonline.co.za/scripts/image.php?bid=7016&file=logo_300_100&type=&fe=b0b41e13f1c58f38d9a675012345e257a5a6803f38cad77a067c951171c592cc&c=162269271)  
+![valued client United Paintball Federation](https://www.invoicesonline.co.za/scripts/image.php?bid=7016&file=logo_300_100&type=&fe=81ea9c52e89c102426ed9c91f1a7b68f494c35ac74fce79680c0607018ba7a66&c=80264996)  
 United Paintball Federation
 
-![valued client MOSELA GROUP Pty(ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=7624&file=logo_300_100&type=&fe=b0b41e13f1c58f38d9a675012345e257a5a6803f38cad77a067c951171c592cc&c=97978772)  
-MOSELA GROUP Pty(ltd)
+![valued client MR Compressors& Industrial Supplies](https://www.invoicesonline.co.za/scripts/image.php?bid=7893&file=logo_300_100&type=&fe=81ea9c52e89c102426ed9c91f1a7b68f494c35ac74fce79680c0607018ba7a66&c=147913223)  
+MR Compressors& Industrial Supplies
 
-![valued client Digifax (Pty) Ltd T/A SecurityHyper](https://www.invoicesonline.co.za/scripts/image.php?bid=3135&file=logo_300_100&type=&fe=b0b41e13f1c58f38d9a675012345e257a5a6803f38cad77a067c951171c592cc&c=178369114)  
-Digifax (Pty) Ltd T/A SecurityHyper
+![valued client Alliance Energy](https://www.invoicesonline.co.za/scripts/image.php?bid=2000&file=logo_300_100&type=&fe=81ea9c52e89c102426ed9c91f1a7b68f494c35ac74fce79680c0607018ba7a66&c=39781772)  
+Alliance Energy
 
-![valued client Minnaar Plumbing and Services (Pty) Ltd ](https://www.invoicesonline.co.za/scripts/image.php?bid=8325&file=logo_300_100&type=&fe=b0b41e13f1c58f38d9a675012345e257a5a6803f38cad77a067c951171c592cc&c=42763250)  
-Minnaar Plumbing and Services (Pty) Ltd
+![valued client J.M. HUMAN RESOURCES](https://www.invoicesonline.co.za/scripts/image.php?bid=4626&file=logo_300_100&type=&fe=81ea9c52e89c102426ed9c91f1a7b68f494c35ac74fce79680c0607018ba7a66&c=138797008)  
+J.M. HUMAN RESOURCES
 
-![valued client Qothiphango Mining ](https://www.invoicesonline.co.za/scripts/image.php?bid=8487&file=logo_300_100&type=&fe=b0b41e13f1c58f38d9a675012345e257a5a6803f38cad77a067c951171c592cc&c=191277707)  
-Qothiphango Mining
+![valued client Henry's Home Renovations](https://www.invoicesonline.co.za/scripts/image.php?bid=1221&file=logo_300_100&type=&fe=81ea9c52e89c102426ed9c91f1a7b68f494c35ac74fce79680c0607018ba7a66&c=176423384)  
+Henry's Home Renovations
+
+![valued client AquariumSmiths](https://www.invoicesonline.co.za/scripts/image.php?bid=7183&file=logo_300_100&type=&fe=81ea9c52e89c102426ed9c91f1a7b68f494c35ac74fce79680c0607018ba7a66&c=15456057)  
+AquariumSmiths
+
+![valued client Zwashu Bed Manufacturing](https://www.invoicesonline.co.za/scripts/image.php?bid=8380&file=logo_300_100&type=&fe=81ea9c52e89c102426ed9c91f1a7b68f494c35ac74fce79680c0607018ba7a66&c=37703101)  
+Zwashu Bed Manufacturing
+
+![valued client Dr V Naik Consult](https://www.invoicesonline.co.za/scripts/image.php?bid=4810&file=logo_300_100&type=&fe=81ea9c52e89c102426ed9c91f1a7b68f494c35ac74fce79680c0607018ba7a66&c=45309589)  
+Dr V Naik Consult
+
+![valued client CrossRoads Pregnancy Help Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=5466&file=logo_300_100&type=&fe=81ea9c52e89c102426ed9c91f1a7b68f494c35ac74fce79680c0607018ba7a66&c=27546689)  
+CrossRoads Pregnancy Help Centre
+
+![valued client Tiny Cuddles Photography](https://www.invoicesonline.co.za/scripts/image.php?bid=5167&file=logo_300_100&type=&fe=81ea9c52e89c102426ed9c91f1a7b68f494c35ac74fce79680c0607018ba7a66&c=75730972)  
+Tiny Cuddles Photography
+
+![valued client Gemini-IT Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8156&file=logo_300_100&type=&fe=81ea9c52e89c102426ed9c91f1a7b68f494c35ac74fce79680c0607018ba7a66&c=206411566)  
+Gemini-IT Group
+
+![valued client VA AND M BUSINESSES (PTY)LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8454&file=logo_300_100&type=&fe=81ea9c52e89c102426ed9c91f1a7b68f494c35ac74fce79680c0607018ba7a66&c=129841367)  
+VA AND M BUSINESSES (PTY)LTD
+
+![valued client Wiselink Broadband Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4072&file=logo_300_100&type=&fe=81ea9c52e89c102426ed9c91f1a7b68f494c35ac74fce79680c0607018ba7a66&c=139065641)  
+Wiselink Broadband Pty Ltd
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
