@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-25fc854cd669b35145a3a785f2529e08
+3ade0f3a40f7f3ecff7ae9fc06125256
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![Hand-made silk rug number five](https://sojourner.biz/images/cache/RG0005.200.jpg)](https://sojourner.biz/bohemian-chic-decor/hand-made-silk-rug-number-five.html "Hand-made silk rug number five")
+[![9 mm black faceted glass beads](https://sojourner.biz/images/cache/glass/GL0362.200.jpg)](https://sojourner.biz/beads/glass/9-mm-black-faceted-glass-beads.html "9 mm black faceted glass beads")
 
-#### [Hand-made silk rug number five](https://sojourner.biz/bohemian-chic-decor/hand-made-silk-rug-number-five.html "Hand-made silk rug number five")
+#### [9 mm black faceted glass beads](https://sojourner.biz/beads/glass/9-mm-black-faceted-glass-beads.html "9 mm black faceted glass beads")
 
-$25.00
+$6.00
 
 ### Best Sellers
 
