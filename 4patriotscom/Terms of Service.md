@@ -45,7 +45,7 @@ We Champion Freedom & Self-Reliance
         
         ###### 3-Month Survival Food Kit
         
-        3268 reviews](https://4patriots.com/products/3-month-survival-food-kit)
+        3273 reviews](https://4patriots.com/products/3-month-survival-food-kit)
         
     
 * [New Arrivals](https://4patriots.com/collections/newly-added)
@@ -69,7 +69,7 @@ We Champion Freedom & Self-Reliance
         
         ###### Ultimate Portable Power Station Package + 2 Solar Panels
         
-        4 reviews](https://4patriots.com/products/ultimate-portable-power-station-package-2-solar-panels)
+        5 reviews](https://4patriots.com/products/ultimate-portable-power-station-package-2-solar-panels)
         
         [![ 4Patriots 3-Month PlatinumXL Survival Food Kit shown with all pouches.](//4patriots.com/cdn/shop/files/ARRAY-3MO-PLAT-1024x1024_360x.png?v=1716225013)
         
@@ -101,7 +101,7 @@ We Champion Freedom & Self-Reliance
         
         ###### 3-Month Survival Food Kit
         
-        3268 reviews](https://4patriots.com/products/3-month-survival-food-kit)
+        3273 reviews](https://4patriots.com/products/3-month-survival-food-kit)
         
         [![ 4Patriots 4-Week Survival Food Kits individual pouches. 196 servings.](//4patriots.com/cdn/shop/products/4WK-ARRAY-192-SERVINGS-WHITE_360x.png?v=1680541659)
         
@@ -132,7 +132,7 @@ We Champion Freedom & Self-Reliance
         
         ###### Portable Power Station - Patriot Power Cell CX
         
-        1625 reviews](https://4patriots.com/products/patriot-power-cell)
+        1631 reviews](https://4patriots.com/products/patriot-power-cell)
         
         [![ HaloXT Tactical Solar Flashlight 1 pack as featured on fox & friends](//4patriots.com/cdn/shop/products/HXT-1PACK-STOREFRONT-ARRAY_360x.jpg?v=1706224939)
         
@@ -167,7 +167,7 @@ We Champion Freedom & Self-Reliance
         
         ###### Patriot Pure Nanomesh™ Water Filter
         
-        23 reviews](https://4patriots.com/products/patriot-pure-nanomesh-water-filter)
+        26 reviews](https://4patriots.com/products/patriot-pure-nanomesh-water-filter)
         
     
 * [RV & Camping](https://4patriots.com/collections/camping-outdoor)
@@ -192,13 +192,13 @@ We Champion Freedom & Self-Reliance
         
         ###### Freedom Fridge
         
-        97 reviews](https://4patriots.com/products/freedom-fridge-1)
+        99 reviews](https://4patriots.com/products/freedom-fridge-1)
         
         [![ BugOUT Solar Lantern](//4patriots.com/cdn/shop/products/ARRAY-1BUG-1024x1024_360x.jpg?v=1664803167)
         
         ###### BugOUT Solar Lantern
         
-        147 reviews](https://4patriots.com/products/bugout-solar-lantern)
+        148 reviews](https://4patriots.com/products/bugout-solar-lantern)
         
     
 * [Home & Health](https://4patriots.com/collections/home-garden)
@@ -227,7 +227,7 @@ We Champion Freedom & Self-Reliance
         
         ###### Patriot Power Greens - Double Size
         
-        29 reviews](https://4patriots.com/products/patriot-power-greens-1-double-size-can)
+        32 reviews](https://4patriots.com/products/patriot-power-greens-1-double-size-can)
         
     
 * [Deals](https://4patriots.com/collections/deal-of-the-week)
@@ -255,7 +255,7 @@ We Champion Freedom & Self-Reliance
         
         ###### Ultimate Portable Power Station Package + 2 Solar Panels
         
-        4 reviews](https://4patriots.com/products/ultimate-portable-power-station-package-2-solar-panels)
+        5 reviews](https://4patriots.com/products/ultimate-portable-power-station-package-2-solar-panels)
         
         [![ The Ultimate Car Safety Kit. Power, Food & Safety All-In-1. Array of Patriot Power All-in-1 Emergency Car Kit with bonuses.](//4patriots.com/cdn/shop/files/STOREFRONT-ARRAY-CAR-ALL-BONUSES_647x547_a32bfc2b-f129-4331-b5b1-f38e3d1f5464_360x.png?v=1717437588)
         
