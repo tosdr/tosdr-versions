@@ -199,7 +199,7 @@ Changes to this section will otherwise apply prospectively only to claims arisin
 
 ### Lumosity
 
-[Get Started](https://www.lumosity.com/sign_up)[Log In](https://www.lumosity.com/login)[Our Science](https://www.lumosity.com/en/science/)[Our Games](https://www.lumosity.com/en/brain-games/)
+[Get Started](https://www.lumosity.com/sign_up)[Log In](https://www.lumosity.com/login)[Try Games](https://www.lumosity.com/games-lp/speed-match-mini/)[Our Science](https://www.lumosity.com/en/science/)[Our Games](https://www.lumosity.com/en/brain-games/)
 
 ### Lumos Labs
 
@@ -242,3 +242,9 @@ Changes to this section will otherwise apply prospectively only to claims arisin
 Copyright © 2024 Lumos Labs, Inc. All rights reserved. Lumosity and the Lumosity logo are registered trademarks of Lumos Labs, Inc. in the United States and elsewhere.
 
 ![Scoll to Top](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyOCIgaGVpZ2h0PSIyOCIgdmlld0JveD0iMCAwIDI4IDI4Ij4KICA8cGF0aCBmaWxsPSIjRjE2OTNDIiBkPSJNMTIuOTkyODkzMiw5LjgyMTMyMDcxIEw3LjI5OTk5OTk0LDE1LjUxNDIxNDIgQzYuOTA5NDc1NjYsMTUuOTA0NzM4NSA2LjI3NjMxMDY4LDE1LjkwNDczODUgNS44ODU3ODYzOCwxNS41MTQyMTQyIEM1LjQ5NTI2MjA4LDE1LjEyMzY4OTkgNS40OTUyNjIwNywxNC40OTA1MjUgNS44ODU3ODYzNiwxNC4xMDAwMDA3IEwxMy45OTI4OTM1LDUuOTkyODkzMjQgTDIyLjEwMDAwMDIsMTQuMTAwMDAwNyBDMjIuNDkwNTI0NCwxNC40OTA1MjUgMjIuNDkwNTI0NCwxNS4xMjM2OSAyMi4xMDAwMDAxLDE1LjUxNDIxNDIgQzIxLjcwOTQ3NTgsMTUuOTA0NzM4NSAyMS4wNzYzMTA4LDE1LjkwNDczODUgMjAuNjg1Nzg2NSwxNS41MTQyMTQyIEwxNC45OTI4OTMyLDkuODIxMzIwMzQgTDE0Ljk5Mjg5MzIsMjIuMDA3MTA2OCBMMTIuOTkyODkzMiwyMi4wMDcxMDY4IEwxMi45OTI4OTMyLDkuODIxMzIwNzEgWiIvPgo8L3N2Zz4K)
+
+![](https://www.facebook.com/tr?id=816173455082135&ev=PageView&noscript=1)
+
+![](/lumos_events/new.js?event%5Bname%5D=page_view&event%5Bproperties%5D%5Bpage%5D=%2Fen%2Flegal%2Fterms_of_service%2F&event%5Bproperties%5D%5Bdomain%5D=lumos-ssg.netlify.app&event%5Bproperties%5D%5Bprevious_page%5D=%2F&event%5Bcb%5D=0.5228026975465216)
+
+![](https://bat.bing.com/action/0?ti=20122019&tm=gtm002&Ver=2&mid=1389b9f7-fd78-4e34-9696-9c164d139148&sid=5533c160246011efb7e9cbab61c98f22&vid=553437f0246011efad87993b05242d47&vids=1&msclkid=N&pi=0&lg=en-US&sw=1440&sh=718&sc=24&nwd=1&tl=Lumosity%20-%20Terms%20of%20Service&p=https%3A%2F%2Flumos-ssg.netlify.app%2Fen%2Flegal%2Fterms_of_service%2F&r=&lt=221&evt=pageLoad&sv=1&rn=551971)
