@@ -273,17 +273,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Can you diagnose lung cancer with a pet scan?](https://www.pintas.com/wp-content/uploads/2020/11/can-you-diagnose-lung-cancer-with-a-PET-scan.jpg "Can You Diagnose Lung Cancer with a PET Scan?")](https://www.pintas.com/practice-areas/lung-cancer/can-you-diagnose-lung-cancer-with-a-pet-scan/ "Can You Diagnose Lung Cancer with a PET Scan?")
+[![Can i file a claim against roundup for a loved one’s death?](https://www.pintas.com/wp-content/uploads/2020/11/can-i-file-a-claim-against-roundup-for-a-loved-ones-death.jpg "Can I File a Claim Against Roundup for a Loved One’s Death?")](https://www.pintas.com/lawsuit/roundup-weed-killer/can-i-file-a-claim-against-roundup-for-a-loved-ones-death/ "Can I File a Claim Against Roundup for a Loved One’s Death?")
 
-[#### Can You Diagnose Lung Cancer with a PET Scan?](https://www.pintas.com/practice-areas/lung-cancer/can-you-diagnose-lung-cancer-with-a-pet-scan/)
+[#### Can I File a Claim Against Roundup for a Loved One’s Death?](https://www.pintas.com/lawsuit/roundup-weed-killer/can-i-file-a-claim-against-roundup-for-a-loved-ones-death/)
 
-[![Power outages: nursing homes’ temperature safety](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-why-do-nursing-homes-have-to-maintain-safe-temperatures-during-power-outages-scaled.jpg "Power Outages: Nursing Homes’ Temperature Safety")](https://www.pintas.com/faq/why-do-nursing-homes-have-to-maintain-safe-temperatures-during-power-outages/ "Power Outages: Nursing Homes’ Temperature Safety")
+[![Have mormon church officials sexually abused children?](https://www.pintas.com/wp-content/uploads/2023/04/general-mormom-3-300x225.jpg "Have Mormon Church Officials Sexually Abused Children?")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/has-the-mormon-church-sexually-abused-children/ "Have Mormon Church Officials Sexually Abused Children?")
 
-[#### Power Outages: Nursing Homes’ Temperature Safety](https://www.pintas.com/faq/why-do-nursing-homes-have-to-maintain-safe-temperatures-during-power-outages/)
+[#### Have Mormon Church Officials Sexually Abused Children?](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/has-the-mormon-church-sexually-abused-children/)
 
-[![Can a ct scan detect cancer in a lung?](https://www.pintas.com/wp-content/uploads/2020/05/lung-cancer-can-a-ct-scan-detect-cancer-in-lung.jpg "Can a CT Scan Detect Cancer in a Lung?")](https://www.pintas.com/practice-areas/lung-cancer/can-a-ct-scan-detect-cancer-in-lungs/ "Can a CT Scan Detect Cancer in a Lung?")
+[![How much money is a nursing home abuse settlement?](https://www.pintas.com/wp-content/uploads/2023/04/sad-woman-senior-living-bed-300x200.jpeg "How Much Money Is a Nursing Home Abuse Settlement?")](https://www.pintas.com/faq/how-much-money-is-a-nursing-home-abuse-settlement/ "How Much Money Is a Nursing Home Abuse Settlement?")
 
-[#### Can a CT Scan Detect Cancer in a Lung?](https://www.pintas.com/practice-areas/lung-cancer/can-a-ct-scan-detect-cancer-in-lungs/)
+[#### How Much Money Is a Nursing Home Abuse Settlement?](https://www.pintas.com/faq/how-much-money-is-a-nursing-home-abuse-settlement/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -306,7 +306,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by my email or telephone (including phone calls, text messages, autodialed / auto-selected or pre-recorded calls). My own message and data rates may apply. I know my consent to such contact is not required for use of these services.
 
-Email
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
