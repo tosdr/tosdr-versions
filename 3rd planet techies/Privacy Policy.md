@@ -243,10 +243,10 @@ Email Address
 
 #### Recent Posts
 
+* [The key capabilities to look out for in your Cloud cost optimization partner](https://www.3ptechies.com/cloud-cost-optimization-partner-capabilities.html)
+* [5 Differences between businesses that do and do not fair well against hackers](https://www.3ptechies.com/fair-well-against-hackers.html)
 * [Is AWS EDP the answer to your cloud spending woes?](https://www.3ptechies.com/aws-edp.html)
 * [Wondershare Introduces Filmora V13.4: Leading the way for AI-Powered Video Editing](https://www.3ptechies.com/wondershare-filmora-v13-intro.html)
-* [Stellar OST to PST Converter Software Review and How To Use](https://www.3ptechies.com/stellar-ost-to-pst-converter-software.html)
-* [How to Login to txrhlive (A detailed guide)](https://www.3ptechies.com/how-to-login-to-txrhlive.html)
 
 * [About](https://www.3ptechies.com/about)
     * [All](https://www.3ptechies.com/mobile)[Android](https://www.3ptechies.com/mobile/android)[Blackberry](https://www.3ptechies.com/mobile/blackberry)[iPhone](https://www.3ptechies.com/mobile/iphone)[Nokia](https://www.3ptechies.com/mobile/nokia)[Tablets](https://www.3ptechies.com/mobile/tablets)[Telecommunication](https://www.3ptechies.com/mobile/telecomm)[Wearable Gadgets](https://www.3ptechies.com/mobile/wearable-gadgets)
