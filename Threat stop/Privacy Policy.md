@@ -18,8 +18,8 @@
     * [IP Defense](https://www.threatstop.com/solutions/ip-firewall-protection?hsLang=en)
     * [ThreatSTOP for AWS](#)
         * [IP Defense for AWS WAF](https://www.threatstop.com/solutions/aws-waf?hsLang=en)
-        * [DNS Defense for Route 53](https://www.threatstop.com/solutions/aws-route-53-dns-firewall-pdns?hsLang=en)
-        * [OFAC and ITAR Compliance](https://www.threatstop.com/solutions/one-click-sanctions-compliance?hsLang=en)
+        * [DNS Defense for Route53](https://www.threatstop.com/solutions/aws-route-53-dns-firewall-pdns?hsLang=en)
+        * [OFAC & ITAR Compliance](https://www.threatstop.com/solutions/one-click-sanctions-compliance?hsLang=en)
 * [Resources](https://www.threatstop.com/resources?hsLang=en)
     * [Blog](https://www.threatstop.com/blog?hsLang=en)
     * [Collateral](https://www.threatstop.com/resources?hsLang=en#datasheet)
@@ -128,9 +128,9 @@ If you have any additional questions or concerns about this Policy, please feel 
 
 ★★★★★
 
-ThreatSTOP has solved a big headache for us. Now we have no service stoppages, no escalations with the ISP, and no manual cleanups.
+ThreatSTOP was able to help us rapidly identify and remediate a spam botnet that was putting one of our customer’s business at risk.
 
-Nikola Nicolic - Contracts and Services Manager
+John Verbrugge - Principal, NonLinear Tech
 
 * [Solutions](https://www.threatstop.com/case-studies?hsLang=en)
 * [Products](https://www.threatstop.com/threatstop-platform?hsLang=en)
