@@ -34,7 +34,7 @@
                 
         * * #### Use Cases
                 
-    * * * [AI Content Detector API](https://copyleaks.com/ai-content-detector-api)
+    * * * [AI Detector API](https://copyleaks.com/ai-content-detector-api)
             * [Plagiarism Checker API](https://copyleaks.com/plagiarism-checker-api)
             * [Writing Assistant](https://copyleaks.com/writing-assistant)
             * [LMS Integration](https://copyleaks.com/learning-management-systems)
@@ -54,24 +54,24 @@
                 
                 [See All](https://copyleaks.com/blog)
                 
-    * * * [About usMeet the Copyleaks leadership team and learn about who we are.](https://copyleaks.com/about-us)
+    * * * [About usMeet the Copyleaks leadership team and learn about who we are, our mission and history.](https://copyleaks.com/about-us)
         * * [News & MediaThe go-to spot for recent Copyleaks announcements, updates, news, and other media features.](https://copyleaks.com/about-us/media)
         * * [Help CenterGet the support you need regarding integration, platforms, dashboards, and more.](https://help.copyleaks.com/)
-        * * [![Copyleaks AI Content Detector at the top of the Studies' Research](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20300'%3E%3C/svg%3E)
+        * * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%20628'%3E%3C/svg%3E)
+                
+                ![](https://copyleaks.com/wp-content/uploads/2024/06/Featured-Image-2.webp)](https://copyleaks.com/blog/establishing-ai-policies-in-education-a-copyleaks-guide)
+                
+                [Establishing AI Policies in Education: A Copyleaks Guide](https://copyleaks.com/blog/establishing-ai-policies-in-education-a-copyleaks-guide)
+                
+                [![Copyleaks AI Content Detector at the top of the Studies' Research](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20300'%3E%3C/svg%3E)
                 
                 ![Copyleaks AI Content Detector at the top of the Studies' Research](https://copyleaks.com/wp-content/uploads/2024/05/Hero_Third_Party_Studies_Blog-qefwvda4ovg5nlirt4etv4xjf44iho5amm0edi97eg-1.png)](https://copyleaks.com/blog/ai-detector-continues-top-accuracy-third-party)
                 
-                [AI Content Detector Continues To Be Confirmed As Most Accurate By Third-Party Studies](https://copyleaks.com/blog/ai-detector-continues-top-accuracy-third-party)
-                
-                [![Featured Image pen](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20300'%3E%3C/svg%3E)
-                
-                ![Featured Image pen](https://copyleaks.com/wp-content/uploads/2024/05/writing-tools.png)](https://copyleaks.com/blog/do-writing-assistants-get-flagged-as-ai)
-                
-                [Beyond The Red Pen: Writing Tools & GenAI](https://copyleaks.com/blog/do-writing-assistants-get-flagged-as-ai)
+                [AI Detector Continues To Be Confirmed As Most Accurate By Third-Party Studies](https://copyleaks.com/blog/ai-detector-continues-top-accuracy-third-party)
                 
     * * * #### Learn
                 
-    * * * [Case StudiesLearn how Copyleaks has helped various industries identify plagiarism, safeguard content, ensure originality, and find solutions.](https://copyleaks.com/case-studies)
+    * * * [Success StoriesLearn how Copyleaks has helped clients successfully safeguard content, ensure originality, and adopt AI in a responsible manner.](https://copyleaks.com/case-studies)
         * * [TestimonialsEach day, some of the world’s largest businesses, educational institutes, and millions of individuals trust Copyleaks.](https://copyleaks.com/testimonials)
         * * [The Original Source PodcastCopyleaks COO, Shouvik Paul, speaks with leading industry experts on the latest in AI, EdTech, plagiarism, and more.](https://copyleaks.com/the-original-source-podcast)
         * * [BlogYour resource for learning about the best plagiarism practices, latest findings, and more.](https://copyleaks.com/blog)
@@ -135,7 +135,7 @@
     Portuguese](https://copyleaks.com/pt/privacy-policy/ "Portuguese")
     
 
-[Home](https://copyleaks.com/tr/) 〉 **Privacy Policy**
+[Home](https://copyleaks.com/) 〉 **Privacy Policy**
 
 Privacy Statement
 =================
@@ -145,7 +145,9 @@ Last revised December 13, 2022
 INTRODUCTION
 ------------
 
-This Privacy Statement (“Statement”) is incorporated into and is a part of the Copyleaks Ltd. Terms of Use (“Terms”). Capitalized terms used herein and not defined shall have the meanings set forth in the Terms. We have developed the following Statement to protect our customers and inform everyone how personal information is collected, used, disclosed and protected with respect to your use of our Website located at http://copyleaks.com and any other website we use or shall use in the future, in connection with the Service (“Site”). We at Copyleaks strongly respect the right to privacy of our customers. We collect and process information in computerized systems for the purposes set out below, including to provide our Services and to protect our legitimate interests. Our collection and processing of your information is in accordance with the Israeli Privacy Protection Law, 5741-1981 (the “Protection of Privacy Law”) and any other legal and regulatory provisions that apply to us. By using the Service (the “Service” or “We/Us/Our”), you (“you” or “user”) consent to the privacy practices described in this Statement. We reserve the right to change this privacy statement and we may update it from time to time, as necessary and according to the changes in any applicable law.
+This Privacy Statement (“Statement”) is incorporated into and is a part of the Copyleaks Ltd. Terms of Use (“Terms”). Capitalized terms used herein and not defined shall have the meanings set forth in the Terms. We have developed the following Statement to protect our customers and inform everyone how personal information is collected, used, disclosed and protected with respect to your use of our Website located at http://copyleaks.com and any other website we use or shall use in the future, in connection with the Service (“Site”). We at Copyleaks strongly respect the right to privacy of our customers. We collect and process information in computerized systems for the purposes set out below, including to provide our Services and to protect our legitimate interests. Our collection and processing of your information is in accordance with the Israeli Privacy Protection Law, 5741-1981 (the “Protection of Privacy Law”) and any other legal and regulatory provisions that apply to us. By using the Service (the “Service” or “We/Us/Our”), you (“you” or “user”) consent to the privacy practices described in this Statement.
+
+We reserve the right to change this privacy statement and we may update it from time to time, as necessary and according to the changes in any applicable law.
 
 PERSONAL INFORMATION THAT WE MAY COLLECT ABOUT THE USER
 -------------------------------------------------------
@@ -211,8 +213,8 @@ Our provision of the Service which enables you to access third party services or
 CONTACT US
 ----------
 
-If you have any questions or comments about this Statement or the practices relating to the Site, or wish to correct, delete, or update any Personal Information we have collected, please contact us at [\[email protected\]](https://copyleaks.com/cdn-cgi/l/email-protection) and we will make an effort to reasonably respond to your inquiry, or to update or remove any personal information you have provided us as indicated by you.  
-  
+If you have any questions or comments about this Statement or the practices relating to the Site, or wish to correct, delete, or update any Personal Information we have collected, please contact us at [\[email protected\]](https://copyleaks.com/cdn-cgi/l/email-protection) and we will make an effort to reasonably respond to your inquiry, or to update or remove any personal information you have provided us as indicated by you.
+
 Our assigned Data Protection Officer is Alon Yamin.  
 Any notifications of claimed copyright infringement must be sent to our Data Protection Officer:  
 Alon Yamin  
@@ -221,7 +223,7 @@ Copyleaks Inc
 Stamford CT, 06902  
 Email: [\[email protected\]](https://copyleaks.com/cdn-cgi/l/email-protection)
 
-Table of Content
+Table of Contents
 
 ![logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E)
 
@@ -257,9 +259,9 @@ Integrations
 
 [LMS Integration](https://copyleaks.com/learning-management-systems)
 
-[AI Content Detector API](https://copyleaks.com/ai-content-detector-api)
+[AI Detector API](https://copyleaks.com/ai-content-detector-api)
 
-[AI Content Detector Extension](https://copyleaks.com/ai-content-detector/extension)
+[AI Detector Extension](https://copyleaks.com/ai-content-detector/extension)
 
 [Plagiarism Detector API](https://copyleaks.com/plagiarism-checker-api)
 
@@ -287,7 +289,7 @@ Resources
 
 [Blog](https://copyleaks.com/blog)
 
-[Case Studies](https://copyleaks.com/case-studies)
+[Success Stories](https://copyleaks.com/case-studies)
 
 [Plagiarism Resources](https://copyleaks.com/plagiarism-resources)
 
