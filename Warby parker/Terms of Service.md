@@ -1,42 +1,160 @@
 [Limited time! 25% off your first contacts order ›](https://www.warbyparker.com/contacts)
 
-[Save 25% on your first contacts order](https://www.warbyparker.com/contacts)
+[](https://www.warbyparker.com/)
+
+1. Home Try-On
+2. Eyeglasses
+3. Sunglasses
+4. [Contacts](https://www.warbyparker.com/contacts)
+5. [Accessories](https://www.warbyparker.com/accessories)
+6. Get a prescription
+7. [Find a store](https://www.warbyparker.com/retail)
+
+* [![](https://img.warbyparker.com/Global%20Navigation/03.18.24%20Redesign%20Experiment/account%20icon.jpg?originWidth=96&originHeight=96)Sign in](https://www.warbyparker.com/my-account)
+
+* [![Sign in](https://img.warbyparker.com/Global%20Navigation/03.18.24%20Redesign%20Experiment/account%20icon.jpg?originWidth=96&originHeight=96)](https://www.warbyparker.com/my-account)
+
+* [![Search](https://img.warbyparker.com/Global%20Navigation/03.18.24%20Redesign%20Experiment/search.svg?originWidth=24&originHeight=24)](https://www.warbyparker.com/search)
+
+* [![Favorites](https://img.warbyparker.com/Global%20Navigation/03.18.24%20Redesign%20Experiment/favorite.svg?originWidth=25&originHeight=24)](https://www.warbyparker.com/favorites)
+
+* [![Cart](https://img.warbyparker.com/Global%20Navigation/03.18.24%20Redesign%20Experiment/cart.svg?originWidth=25&originHeight=24)](https://www.warbyparker.com/cart)
+
+[Home Try-On](https://www.warbyparker.com/eyeglasses/hto)[Eyeglasses](https://www.warbyparker.com/eyeglasses)[Contacts](https://www.warbyparker.com/contacts)
 
 [](https://www.warbyparker.com/)
 
-* [Locations](https://www.warbyparker.com/retail)
-* [Sign in](https://www.warbyparker.com/my-account)
-* [](https://www.warbyparker.com/favorites)
-* [](https://www.warbyparker.com/cart)
+1. Home Try-On
+2. Eyeglasses
+3. Sunglasses
+4. [Contacts](https://www.warbyparker.com/contacts)
+5. [Accessories](https://www.warbyparker.com/accessories)
+6. Get a prescription
+7. [Find a store](https://www.warbyparker.com/retail)
 
-* Home Try-On
-* Eyeglasses
-* Sunglasses
-* [Contacts](https://www.warbyparker.com/contacts)
-* [Accessories](https://www.warbyparker.com/accessories)
-* [Get a prescription](https://www.warbyparker.com/get-a-prescription)
+* [![](https://img.warbyparker.com/Global%20Navigation/03.18.24%20Redesign%20Experiment/account%20icon.jpg?originWidth=96&originHeight=96)Sign in](https://www.warbyparker.com/my-account)
 
-[](https://www.warbyparker.com/)
+* [![Sign in](https://img.warbyparker.com/Global%20Navigation/03.18.24%20Redesign%20Experiment/account%20icon.jpg?originWidth=96&originHeight=96)](https://www.warbyparker.com/my-account)
 
-* [](https://www.warbyparker.com/retail)
-* [](https://www.warbyparker.com/my-account)
-* [](https://www.warbyparker.com/favorites)
-* [](https://www.warbyparker.com/cart)
+* [![Search](https://img.warbyparker.com/Global%20Navigation/03.18.24%20Redesign%20Experiment/search.svg?originWidth=24&originHeight=24)](https://www.warbyparker.com/search)
 
-* Home Try-On
-* Eyeglasses
-* Sunglasses
-* [Contacts](https://www.warbyparker.com/contacts)
-* [Accessories](https://www.warbyparker.com/accessories)
-* [Get a prescription](https://www.warbyparker.com/get-a-prescription)
+* [![Favorites](https://img.warbyparker.com/Global%20Navigation/03.18.24%20Redesign%20Experiment/favorite.svg?originWidth=25&originHeight=24)](https://www.warbyparker.com/favorites)
 
-[](https://www.warbyparker.com/)
+* [![Cart](https://img.warbyparker.com/Global%20Navigation/03.18.24%20Redesign%20Experiment/cart.svg?originWidth=25&originHeight=24)](https://www.warbyparker.com/cart)
 
-[](https://www.warbyparker.com/favorites)[](https://www.warbyparker.com/cart)
+1. Home Try-On
+    -----------
+    
+2. Eyeglasses
+    ----------
+    
+3. Sunglasses
+    ----------
+    
+4. [Contacts
+    --------](https://www.warbyparker.com/contacts)
+5. [Accessories
+    -----------](https://www.warbyparker.com/accessories)
+6. Get a prescription
+    ------------------
+    
+7. [Find a store
+    ------------](https://www.warbyparker.com/retail)
 
-* Home Try-On
-* Eyeglasses
-* [Contacts](https://www.warbyparker.com/contacts)
+My account
+----------
+
+Sign in or create an account to shop, view orders, manage prescriptions and more.
+
+[Sign in](https://www.warbyparker.com/my-account/)
+
+Don’t have an account?
+
+ [Sign up](https://www.warbyparker.com/my-account/)
+
+1. [![](https://img.warbyparker.com/Global%20Navigation/03.18.24%20Redesign%20Experiment/search.svg?originWidth=24&originHeight=24)
+    
+    Search
+    ------](https://www.warbyparker.com/search)
+
+3. [![](https://img.warbyparker.com/Global%20Navigation/03.18.24%20Redesign%20Experiment/apple.svg?originWidth=24&originHeight=24)
+    
+    Download our app
+    ----------------](https://www.warbyparker.com/app)
+
+### Eyeglasses
+
+* [Shop All](https://www.warbyparker.com/eyeglasses/hto)
+* [Shop Women](https://www.warbyparker.com/eyeglasses/women/hto)
+* [Shop Men](https://www.warbyparker.com/eyeglasses/men/hto)
+
+### Sunglasses
+
+* [Shop All](https://www.warbyparker.com/sunglasses/hto)
+* [Shop Women](https://www.warbyparker.com/sunglasses/women/hto)
+* [Shop Men](https://www.warbyparker.com/sunglasses/men/hto)
+
+![](https://img.warbyparker.com/Global%20Navigation/03.18.24%20Redesign%20Experiment/Navigation_HTO_01.jpg?originWidth=504&originHeight=504)
+
+[![](https://img.warbyparker.com/Global%20Navigation/03.18.24%20Redesign%20Experiment/Navigation_HTO_01.jpg?originWidth=504&originHeight=504)](https://www.warbyparker.com/home-try-on)
+
+[How it works](https://www.warbyparker.com/home-try-on)
+
+![](https://img.warbyparker.com/Global%20Navigation/03.18.24%20Redesign%20Experiment/Navigation_HTO_02.jpg?originWidth=504&originHeight=504)
+
+[![](https://img.warbyparker.com/Global%20Navigation/03.18.24%20Redesign%20Experiment/Navigation_HTO_02.jpg?originWidth=504&originHeight=504)](https://www.warbyparker.com/quiz?active=true)
+
+[Take a style quiz](https://www.warbyparker.com/quiz?active=true)
+
+* [Shop All](https://www.warbyparker.com/eyeglasses)
+* [Shop Women](https://www.warbyparker.com/eyeglasses/women)
+* [Shop Men](https://www.warbyparker.com/eyeglasses/men)
+* [Available for Home Try-On](https://www.warbyparker.com/eyeglasses/hto)
+* [Bestsellers](https://www.warbyparker.com/eyeglasses?merch=best-seller)
+* [New Arrivals](https://www.warbyparker.com/eyeglasses?merch=new-arrival)
+* [$95 Frames](https://www.warbyparker.com/eyeglasses?prices=95)
+
+![](https://img.warbyparker.com/Global%20Navigation/03.18.24%20Redesign%20Experiment/Navigation_Eyeglasses_Women_Desktop.jpg?originWidth=504&originHeight=504)
+
+[![](https://img.warbyparker.com/Global%20Navigation/03.18.24%20Redesign%20Experiment/Navigation_Eyeglasses_Women_Desktop.jpg?originWidth=504&originHeight=504)](https://www.warbyparker.com/eyeglasses/women)
+
+[Shop Women](https://www.warbyparker.com/eyeglasses/women)
+
+![](https://img.warbyparker.com/Global%20Navigation/03.18.24%20Redesign%20Experiment/Navigation_Eyeglasses_Men_Desktop.jpg?originWidth=504&originHeight=504)
+
+[![](https://img.warbyparker.com/Global%20Navigation/03.18.24%20Redesign%20Experiment/Navigation_Eyeglasses_Men_Desktop.jpg?originWidth=504&originHeight=504)](https://www.warbyparker.com/eyeglasses/men)
+
+[Shop Men](https://www.warbyparker.com/eyeglasses/men)
+
+* [Shop All](https://www.warbyparker.com/sunglasses)
+* [Shop Women](https://www.warbyparker.com/sunglasses/women)
+* [Shop Men](https://www.warbyparker.com/sunglasses/men)
+* [Available for Home Try-On](https://www.warbyparker.com/sunglasses/hto)
+* [Bestsellers](https://www.warbyparker.com/sunglasses?merch=best-seller)
+* [New Arrivals](https://www.warbyparker.com/sunglasses?merch=new-arrival)
+* [$95 Frames](https://www.warbyparker.com/sunglasses?prices=95)
+
+![](https://img.warbyparker.com/Global%20Navigation/03.18.24%20Redesign%20Experiment/Navigation_Sunglasses_Women_Desktop.jpg?originWidth=504&originHeight=504)
+
+[![](https://img.warbyparker.com/Global%20Navigation/03.18.24%20Redesign%20Experiment/Navigation_Sunglasses_Women_Desktop.jpg?originWidth=504&originHeight=504)](https://www.warbyparker.com/sunglasses/women)
+
+[Shop Women](https://www.warbyparker.com/sunglasses/women)
+
+![](https://img.warbyparker.com/Global%20Navigation/03.18.24%20Redesign%20Experiment/Navigation_Sunglasses_Men_Desktop.jpg?originWidth=504&originHeight=504)
+
+[![](https://img.warbyparker.com/Global%20Navigation/03.18.24%20Redesign%20Experiment/Navigation_Sunglasses_Men_Desktop.jpg?originWidth=504&originHeight=504)](https://www.warbyparker.com/sunglasses/men)
+
+[Shop Men](https://www.warbyparker.com/sunglasses/men)
+
+* [Book an eye exam](https://www.warbyparker.com/appointments/eye-exams/booking)
+* [Renew from home](https://www.warbyparker.com/virtual-vision-test)
+* [Measure your PD in our app](https://www.warbyparker.com/app)
+
+![](https://img.warbyparker.com/Global%20Navigation/03.18.24%20Redesign%20Experiment/Navigation_GetAPrescription_Desktop.jpg?originWidth=668&originHeight=504)
+
+[![](https://img.warbyparker.com/Global%20Navigation/03.18.24%20Redesign%20Experiment/Navigation_GetAPrescription_Desktop.jpg?originWidth=668&originHeight=504)](https://www.warbyparker.com/get-a-prescription)
+
+[How to get a prescription](https://www.warbyparker.com/get-a-prescription)
 
 Terms of Use
 ============
