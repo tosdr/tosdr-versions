@@ -10,7 +10,7 @@ Customer Service: [\+ 31 88 0531000](tel:+3188 0531000)
 
 [![Go to homepage](https://msp-medical.com/media/2c/48/82/1639650665/msp-logo.svg)](https://www.medicalspareparts.com/ "Go to homepage")
 
-![language flag](https://msp-medical.com/theme/a8836e05a2694e89855145d497ca3d13/assets/images/flag.svg?1717422220)
+![language flag](https://msp-medical.com/theme/a8836e05a2694e89855145d497ca3d13/assets/images/flag.svg?1717747527)
 
 EN
 
@@ -37,8 +37,6 @@ Nederlands
  [![Go to homepage](https://msp-medical.com/media/2c/48/82/1639650665/msp-logo.svg)](https://www.medicalspareparts.com/ "Go to homepage")
 
 Search
-
-My account
 
 Close menu
 
@@ -411,7 +409,7 @@ We are your partner in Reliable Spare Parts
 
 Close menu
 
-![language flag](https://msp-medical.com/theme/a8836e05a2694e89855145d497ca3d13/assets/images/flag.svg?1717422220)
+![language flag](https://msp-medical.com/theme/a8836e05a2694e89855145d497ca3d13/assets/images/flag.svg?1717747527)
 
 Language: EN
 
@@ -521,7 +519,7 @@ incl. VAT €211.69 Excl. VAT €174.95
 
         
 
-Add to shopping cart
+In shopping cart
 
 [![Handcontrol 4-button replaces 8560004](https://msp-medical.com/media/34/58/aa/1650459648/MSP-HH-AH-10900-2.jpg "Handcontrol 4-button replaces 8560004")](https://msp-medical.com/handcontrol-4-button-replaces-8560004/msp-hh-ah-10910/ "Handcontrol 4-button replaces 8560004")
 
@@ -535,7 +533,7 @@ incl. VAT €136.67 Excl. VAT €112.95
 
         
 
-Add to shopping cart
+In shopping cart
 
 [![Battery Pack Li-Ion 25,9V/DC 2250mAh for Noa](https://msp-medical.com/media/bd/7b/06/1649963940/MSP-A-MP-01600%204.png "Battery Pack Li-Ion 25,9V/DC 2250mAh for Noa")](https://msp-medical.com/battery-pack-li-ion-25-9v-dc-2250mah-for-noa/msp-a-mp-01600/ "Battery Pack Li-Ion 25,9V/DC 2250mAh for Noa")
 
@@ -549,7 +547,7 @@ incl. VAT €359.31 Excl. VAT €296.95
 
         
 
-Add to shopping cart
+In shopping cart
 
 [![Battery Pack 24V/DC 4Ah - MSP-A-AH-00100](https://msp-medical.com/media/f7/da/ba/1635860589/MSP-A-AH-00100-1.jpg "Battery Pack 24V/DC 4Ah - MSP-A-AH-00100")](https://msp-medical.com/battery-pack-24v-dc-4ah-msp-a-ah-00100/msp-a-ah-00100/ "Battery Pack 24V/DC 4Ah - MSP-A-AH-00100")
 
@@ -563,7 +561,7 @@ incl. VAT €210.48 Excl. VAT €173.95
 
         
 
-Add to shopping cart
+In shopping cart
 
 [![Standard Sling | Visual Safety Clip | Size L](https://msp-medical.com/media/d4/f9/e7/1635860588/MSP-TB-SD-001X0-1.jpg "Standard Sling | Visual Safety Clip | Size L")](https://msp-medical.com/standard-sling-visual-safety-clip-size-l/msp-tb-sd-00150/ "Standard Sling | Visual Safety Clip | Size L")
 
@@ -577,7 +575,7 @@ incl. VAT €465.85 Excl. VAT €385.00
 
         
 
-Add to shopping cart
+In shopping cart
 
   
 
@@ -611,7 +609,7 @@ incl. VAT €60.50 Excl. VAT €50.00
 
         
 
-Add to shopping cart
+In shopping cart
 
 [![Handcontrol 4-button High/Low + Legspread - MSP-HH-AH-10100](https://msp-medical.com/media/a2/ca/2f/1649965712/MSP-HH-AH-10100%202.jpg "Handcontrol 4-button High/Low + Legspread - MSP-HH-AH-10100")](https://msp-medical.com/handcontrol-4-button-high-low-legspread-msp-hh-ah-10100/msp-hh-ah-10100/ "Handcontrol 4-button High/Low + Legspread - MSP-HH-AH-10100")
 
@@ -625,7 +623,7 @@ incl. VAT €139.09 Excl. VAT €114.95
 
         
 
-Add to shopping cart
+In shopping cart
 
 [![Power Supply 12V/DC 6W for KERN](https://msp-medical.com/media/c6/d4/a8/1635860589/PS020001.jpg "Power Supply 12V/DC 6W for KERN")](https://msp-medical.com/power-supply-12v-dc-6w-for-kern/msp-ps-ke-00100/ "Power Supply 12V/DC 6W for KERN")
 
@@ -639,7 +637,7 @@ incl. VAT €96.74 Excl. VAT €79.95
 
         
 
-Add to shopping cart
+In shopping cart
 
 [![Battery Pack 24V/DC 2.9Ah BAJ1 - MSP-A-LN-00200](https://msp-medical.com/media/01/95/a3/1648556502/MSP-A-LN-00200-1.jpg "Battery Pack 24V/DC 2.9Ah BAJ1 - MSP-A-LN-00200")](https://msp-medical.com/battery-pack-24v-dc-2.9ah-baj1-msp-a-ln-00200/msp-a-ln-00200/ "Battery Pack 24V/DC 2.9Ah BAJ1 - MSP-A-LN-00200")
 
@@ -653,7 +651,7 @@ incl. VAT €202.01 Excl. VAT €166.95
 
         
 
-Add to shopping cart
+In shopping cart
 
 Where are we
 
