@@ -81,7 +81,7 @@ Just like the website, WiGLE WiFi Wardriving doesn't require real identifying in
 
 **/dev/random**
 
-* [Cafepress Gear](http://www.cafepress.com/wiglenet)
+* [Cafepress Gear](http://www.cafepress.com/shop/wiglenet)
 * [Links](https://wigle.net/wiki/index.cgi?Links)
 
 **user management**
