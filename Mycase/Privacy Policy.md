@@ -155,7 +155,7 @@
     [See how MyCase works for all practice areas](https://www.mycase.com/solutions/)
     
 * [Pricing](https://www.mycase.com/pricing/)
-* [Why MyCase](https://www.mycase.com/why-mycase/)
+* [Bar Associations](https://www.mycase.com/associations/)
 * [Resources](#)
     
     Resources by Topic
