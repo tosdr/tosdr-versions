@@ -392,9 +392,9 @@ Available Worldwide
 
 ##### Atari 2600+
 
-Regular price $124.99
+Regular price $129.99
 
-Regular price $124.99 Sale price $124.99
+Regular price $129.99 Sale price $129.99
 
 Unit price /  per](https://www.atari.com/products/atari-2600-plus) 
 
@@ -406,9 +406,9 @@ USA Exclusive
 
 ##### VCS All-In Bundle
 
-Regular price $288.45
+Regular price $299.99
 
-Regular price $288.45 Sale price $288.45
+Regular price $299.99 Sale price $299.99
 
 Unit price /  per](https://www.atari.com/products/atari-vcs-onyx-all-in)     
 
@@ -432,9 +432,9 @@ Add to cart
 
 ##### Oversized Retro Tee
 
-Regular price $33.65
+Regular price $35
 
-Regular price $33.65 Sale price $33.65
+Regular price $35 Sale price $35.00
 
 Unit price /  per](https://www.atari.com/products/oversized-retro-tee)         
 
@@ -460,9 +460,9 @@ Add to cart
 
 ##### Classic Katakana Tee
 
-Regular price $26.92
+Regular price $28
 
-Regular price $26.92 Sale price $26.92
+Regular price $28 Sale price $28.00
 
 Unit price /  per](https://www.atari.com/products/atari-katakana-logo-tee)       
 
@@ -474,9 +474,9 @@ Add to cart
 
 ##### Retro Trucker Hat
 
-Regular price $28.85
+Regular price $30
 
-Regular price $28.85 Sale price $28.85
+Regular price $30 Sale price $30.00
 
 Unit price /  per](https://www.atari.com/products/retro-trucker-hat) 
 
@@ -488,9 +488,9 @@ Add to cart
 
 ##### RCT 25th Anniversary Shadowbox Art (Signed Limited Edition)
 
-Regular price $191.35
+Regular price $199
 
-Regular price Sale price $191.35
+Regular price Sale price $199.00
 
 Unit price /  per](https://www.atari.com/products/rollercoaster-tycoon-25th-anniversary-shadowbox-art-limited-edition) 
 
@@ -516,9 +516,9 @@ Add to cart
 
 ##### RCT 25th Anniversary Tour Tee
 
-Regular price $26.92
+Regular price $28
 
-Regular price $26.92 Sale price $26.92
+Regular price $28 Sale price $28.00
 
 Unit price /  per](https://www.atari.com/products/rct-25th-anniversary-tour-tee)     
 
@@ -530,9 +530,9 @@ Available Worldwide
 
 ##### CX78+ Gamepad
 
-Regular price $24.03
+Regular price $24.99
 
-Regular price Sale price $24.03
+Regular price Sale price $24.99
 
 Unit price /  per](https://www.atari.com/products/cx78-gamepad) 
 
@@ -544,9 +544,9 @@ Add to cart
 
 ##### RollerCoaster Tycoon x errornogo Smile Tote Bag
 
-Regular price $30.77
+Regular price $32
 
-Regular price $30.77 Sale price $30.77
+Regular price $32 Sale price $32.00
 
 Unit price /  per](https://www.atari.com/products/rollercoaster-tycoon-x-errornogo-smile-tote-bag) 
 
@@ -572,9 +572,9 @@ Add to cart
 
 ##### RCT 25th Anniversary Retro Pixel Art Tee
 
-Regular price $26.92
+Regular price $28
 
-Regular price $26.92 Sale price $26.92
+Regular price $28 Sale price $28.00
 
 Unit price /  per](https://www.atari.com/products/rct-25th-anniversary-retro-pixel-art-tee)     
 
@@ -596,9 +596,9 @@ Add to cart
 
 ##### RollerCoaster Tycoon x errornogo Disc Tee
 
-Regular price $50
+Regular price $52
 
-Regular price $50 Sale price $50.00
+Regular price $52 Sale price $52.00
 
 Unit price /  per](https://www.atari.com/products/rollercoaster-tycoon-x-errornogo-disc-tee) 
 
@@ -610,9 +610,9 @@ USA Exclusive
 
 ##### Atari VCS 480GB M.2 Drive
 
-Regular price $67.30
+Regular price $69.99
 
-Regular price $67.30 Sale price $67.30
+Regular price $69.99 Sale price $69.99
 
 Unit price /  per](https://www.atari.com/products/atari-vcs-480gb-m2-drive) 
 
@@ -622,9 +622,9 @@ Available Worldwide
 
 ##### Ninja Golf 7800
 
-Regular price $28.84
+Regular price $29.99
 
-Regular price Sale price $28.84
+Regular price Sale price $29.99
 
 Unit price /  per](https://www.atari.com/products/ninja-golf-7800) 
 
@@ -781,9 +781,9 @@ Available Worldwide
 
 ##### CX30+ Paddle Controller Bundle
 
-Regular price $38.45
+Regular price $39.99
 
-Regular price $38.45 Sale price $38.45
+Regular price $39.99 Sale price $39.99
 
 Unit price /  per](https://www.atari.com/products/cx30-paddle-controller-bundle) [![Atari Distressed Logo Tee](products/ATRI103D-AT.png)
 
@@ -793,9 +793,9 @@ USA Exclusive
 
 ##### Atari Distressed Logo Tee
 
-Regular price $28.85
+Regular price $30
 
-Regular price $28.85 Sale price $28.85
+Regular price $30 Sale price $30.00
 
 Unit price /  per](https://www.atari.com/products/atari-distressed-logo-tee)       [![Atari Katakana Logo Hoodie](products/ATRI189-AFTH.png)
 
@@ -803,9 +803,9 @@ USA Exclusive
 
 ##### Atari Katakana Logo Hoodie
 
-Regular price $46.15
+Regular price $48
 
-Regular price $46.15 Sale price $46.15
+Regular price $48 Sale price $48.00
 
 Unit price /  per](https://www.atari.com/products/atari-kanji-logo-hoodie) 
 
@@ -837,9 +837,9 @@ Available Worldwide
 
 ##### CX40+ Joystick
 
-Regular price $24.03
+Regular price $24.99
 
-Regular price Sale price $24.03
+Regular price Sale price $24.99
 
 Unit price /  per](https://www.atari.com/products/cx40-joystick) 
 
@@ -851,9 +851,9 @@ Available Worldwide
 
 ##### CX30+ Paddle Controller Bundle
 
-Regular price $38.45
+Regular price $39.99
 
-Regular price $38.45 Sale price $38.45
+Regular price $39.99 Sale price $39.99
 
 Unit price /  per](https://www.atari.com/products/cx30-paddle-controller-bundle) 
 
@@ -865,9 +865,9 @@ USA Exclusive
 
 ##### Atari Distressed Logo Tee
 
-Regular price $28.85
+Regular price $30
 
-Regular price $28.85 Sale price $28.85
+Regular price $30 Sale price $30.00
 
 Unit price /  per](https://www.atari.com/products/atari-distressed-logo-tee)       
 
@@ -877,9 +877,9 @@ USA Exclusive
 
 ##### Atari Katakana Logo Hoodie
 
-Regular price $46.15
+Regular price $48
 
-Regular price $46.15 Sale price $46.15
+Regular price $48 Sale price $48.00
 
 Unit price /  per](https://www.atari.com/products/atari-kanji-logo-hoodie) 
 
