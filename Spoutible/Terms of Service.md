@@ -162,11 +162,11 @@ Trending Splashtags
 
 [#dailypicturetheme](https://spoutible.com/search/posts?q=%23dailypicturetheme)
 
-[#thirsttrapthursday](https://spoutible.com/search/posts?q=%23thirsttrapthursday)
+[#celebrate](https://spoutible.com/search/posts?q=%23celebrate)
 
-[#music](https://spoutible.com/search/posts?q=%23music)
+[#fresh](https://spoutible.com/search/posts?q=%23fresh)
 
-[#bike](https://spoutible.com/search/posts?q=%23bike)
+[#spoutingmusic](https://spoutible.com/search/posts?q=%23spoutingmusic)
 
 [#dribble](https://spoutible.com/search/posts?q=%23dribble)
 
