@@ -21,13 +21,13 @@
     [Sell Your Work](https://zenfolio.com/features/selling/)
     
     * [E-Commerce](https://zenfolio.com/features/selling/ "E-Commerce")
-    * [Smart Pricing](https://zenfolio.com/features/smart-pricing/ "Smart Pricing")
+    * [Smart PricingNEW](https://zenfolio.com/features/smart-pricing/ "Smart Pricing")
     * [Marketing](https://zenfolio.com/features/marketing/ "Marketing")
     
     [Run Your Business](https://zenfolio.com/features/photorefine-photo-culling/)
     
     * [Automated Workflows](https://zenfolio.com/features/automated-workflows/ "Automated Workflows")
-    * [Photo Culling](https://zenfolio.com/features/photorefine-photo-culling/ "Photo Culling")
+    * [Photo CullingNEW](https://zenfolio.com/features/photorefine-photo-culling/ "Photo Culling")
     * [Booking / Scheduling](https://zenfolio.com/features/online-scheduling/ "Booking/Scheduling")
     
 * [Templates NEW](# "Templates")
@@ -45,32 +45,7 @@
     [Stunning photography website templates to beautifully showcase and sell your work online.NEW](https://zenfolio.com/templates/websites/ "Stunning photography website templates to beautifully showcase and sell your work online.")
     
 * [Selling](https://zenfolio.com/features/selling/)
-* [Shoot Types](# "Shoot Types")
-    
-    * [Aerial](https://zenfolio.com/shoot-types/aerial-photographer-portfolio-website/ "Aerial")
-    * [Commercial](https://zenfolio.com/shoot-types/commercial-photographer-portfolio-website/ "Commercial")
-    * [Dance](https://zenfolio.com/shoot-types/dance-photographer-portfolio-website/ "Dance")
-    * [Equestrian](https://zenfolio.com/shoot-types/equestrian-photographer-portfolio-website/ "Equestrian")
-    * [Event](https://zenfolio.com/shoot-types/event-photographer-portfolio-website/ "Event")
-    
-    * [Fashion](https://zenfolio.com/shoot-types/fashion-photographer-portfolio-website/ "Fashion")
-    * [Fine Art](https://zenfolio.com/shoot-types/fine-art-photographer-portfolio-website/ "Fine Art")
-    * [Landscape](https://zenfolio.com/shoot-types/landscape-photographer-portfolio-website/ "Landscape")
-    * [Motorsports](https://zenfolio.com/shoot-types/motorsports-photographer-portfolio-website/ "Motorsports")
-    * [Pet](https://zenfolio.com/shoot-types/pet-photographer-portfolio-website/ "Pet")
-    
-    * [Portrait](https://zenfolio.com/shoot-types/portrait-photographer-portfolio-website/ "Portrait")
-    * [Real Estate](https://zenfolio.com/shoot-types/real-estate-photographer-portfolio-website/ "Real Estate")
-    * [School](https://zenfolio.com/shoot-types/school-photographer-portfolio-website/ "School")
-    * [Sports](https://zenfolio.com/shoot-types/sports-photographer-portfolio-website/ "Sports")
-    * [Street](https://zenfolio.com/shoot-types/street-photographer-portfolio-website/ "Street")
-    
-    * [Travel](https://zenfolio.com/shoot-types/travel-photographer-portfolio-website/ "Travel")
-    * [Wave Pool](https://zenfolio.com/shoot-types/wave-pool-photographer-portfolio-website/ "Wave Pool")
-    * [Wedding](https://zenfolio.com/shoot-types/wedding-photographer-portfolio-website/ "Wedding")
-    * [Wildlife](https://zenfolio.com/shoot-types/wildlife-photographer-portfolio-website/ "Wildlife")
-    * [Other](https://zenfolio.com/shoot-types/other-photographer-portfolio-website/ "Other")
-    
+* [Sports & Events](https://zenfolio.com/sports-and-events/)
 * [Pricing](https://zenfolio.com/plans-pricing/ "Pricing")
 
 * [Log In](https://app.zenfolio.com/welcome)
