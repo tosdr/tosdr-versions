@@ -22,6 +22,7 @@ Go to previous offer
 *  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Buy a ticket to Illumination’s Despicable Me 4** Chance to win a Universal theme park vacation
 *  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Buy a ticket to Inside Out 2** Win a Pixar Fest trip for 4 at Pixar Place Hotel
 *  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Save $8 on Despicable Me and Minions Films** When you buy a ticket to Despicable Me 4
+*  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Buy a ticket to Deadpool & Wolverine** Get $12 off Deadpool 2-Film Collection
 *  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Get any select horror titles for $5 each** When you buy a ticket to Tarot
 *  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Gift, Give or Receive a ticket to The Forge** With The Kingdom Builders Gifted Ticket Program
 
@@ -72,14 +73,6 @@ Offers
     
     [BUY NOW](https://deadpoolandwolverine.fandango.egifter.com/?cmp=TARS~FANDANGO~DeadpoolMicrosite_Footer)
     
-* [CHANCE TO WIN A UNIVERSAL THEME PARK VACATION image link ![CHANCE TO WIN A UNIVERSAL THEME PARK VACATION](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/e909ccd0-22c5-11ef-a07e-5b03d6159fe4--fan-globalofferunit-homepage-despicableme4-sweepstakes-292x118.png)](https://www.fandangomovietickets.com/fandangotriptouniversalsweepstakesDM4?cmp=TARS~FANDANGO~DM4ParksSweeps_Footer) 
-    
-    ### CHANCE TO WIN A UNIVERSAL THEME PARK VACATION
-    
-    Buy a ticket to watch Illumination’s Despicable Me 4 and you could win a Universal theme park vacation in Hollywood or Orlando
-    
-    [BUY TICKETS](https://www.fandangomovietickets.com/fandangotriptouniversalsweepstakesDM4?cmp=TARS~FANDANGO~DM4ParksSweeps_Footer)
-    
 * [SAVE $8 ON SELECT FANDANGO AT HOME DESPICABLE ME AND MINIONS FILMS image link ![SAVE $8 ON SELECT FANDANGO AT HOME DESPICABLE ME AND MINIONS FILMS](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/0a787470-22c6-11ef-ab6e-6bc4e16d49df--fan-globalofferunit-homepage-despicableme4gwp-292x118.png)](https://www.fandangomovietickets.com/DM4FAHGWPOffer?cmp=TARS~FANDANGO~DM4GWP_Footer) 
     
     ### SAVE $8 ON SELECT FANDANGO AT HOME DESPICABLE ME AND MINIONS FILMS
@@ -87,6 +80,14 @@ Offers
     Buy a Ticket, Save $8 on Select Fandango at Home Despicable Me and Minions Films to stream at home.
     
     [BUY TICKETS](https://www.fandangomovietickets.com/DM4FAHGWPOffer?cmp=TARS~FANDANGO~DM4GWP_Footer)
+    
+* [SAVE $12 ON DEADPOOL 2-FILM COLLECTION image link ![SAVE $12 ON DEADPOOL 2-FILM COLLECTION](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/edee52f0-22c7-11ef-ab6e-6bc4e16d49df--fan-globalofferunit-homepage-deadpoolgwp-292x118.png)](https://www.fandangomovietickets.com/DeadpoolFAHGWP?cmp=TARS~FANDANGO~DeadpoolFAHGWP_Footer) 
+    
+    ### SAVE $12 ON DEADPOOL 2-FILM COLLECTION
+    
+    Buy a ticket to Deadpool & Wolverine on Fandango and get $12 off the Deadpool 2-Movie Collection
+    
+    [BUY TICKETS](https://www.fandangomovietickets.com/DeadpoolFAHGWP?cmp=TARS~FANDANGO~DeadpoolFAHGWP_Footer)
     
 
 New & Coming soon
@@ -235,6 +236,16 @@ Close
 #### Buy a ticket to Despicable Me 4 from June 5 - July 15 for $8 off t $8 off Despicable Me, Despicable Me 2, Despicable Me 3, Minions, & Minions: The Rise of Gru. Promo code expires on July 20, 2024.
 
 \*Limited time offer. Purchase one or more movie tickets to see ‘Despicable Me 4’ using your account on Fandango.com or the Fandango app between 9:00am PT on 6/5/24 and 11:59pm PT on 7/15/24 (the “Offer Period”) and receive a post-purchase email containing one (1) Fandango at Home Promotional Code (“Code”) that, once activated, is good for $8 off the purchase (and not the rental) of the Despicable Me and Minions films (including Despicable Me, Despicable Me 2, Despicable Me 3, Minions, & Minions: The Rise of Gru) in My Offers in your account on http://fandangoathome.com and via participating Fandango at Home apps. Code expires on (and must be used by) 7/20/24 at 11:59pm PT. You must have, and be logged into, your Fandango account at time of ticket purchase to receive a Code. Fandango is free to join; you must be 18 years of age to open a Fandango account. Limit one Code per movie ticket purchase. You may have to pay taxes additionally. Void where prohibited. Offer is non-transferable and cannot be combined with any other offer or discount. No cash value, except as required by law. Not for resale; void if sold or exchanged. Offer valid in the U.S. only. You must have a Fandango at Home account to redeem your Code on Fandango at Home. Fandango at Home is free to join; you must be 18 years of age or older to open a Fandango at Home account. Credit card may be required for transactions on fandangoathome.com. Fandango reserves the right to modify or cancel this offer at any time and without notice. This offer and redemption of the Code is subject to Fandango’s Terms and Policies and Privacy Policy at https://www.fandango.com/policies/terms-and-policies. [Buy Tickets](https://www.fandangomovietickets.com/DM4FAHGWPOffer?cmp=TARS~FANDANGO~DM4GWP_GlobalNav)
+
+### Special Offer
+
+Close
+
+![Buy a ticket to Deadpool & Wolverine](https://images.fandango.com/cms/assets/41c25130-2442-11ef-ab6e-6bc4e16d49df--fan-globalnavbar-deadpoolgwp-343x362.jpg)
+
+#### Buy a ticket to Deadpool & Wolverine on Fandango and get $12 off the Deadpool 2-Movie Collection
+
+Limited time offer. Fandango movie ticket purchase to ‘Deadpool & Wolverine’ must be made between 12:01am PT on 6/7/24 and 11:59pm PT on 6/20/24 (the “Offer Period”). Purchaser will receive a post purchase email containing 1 Fandango at Home Promotional Code (“Code”) that is good for the purchase (and not the rental) of Deadpool 2-Movie Collection for $17.99 in My Offers in your account on https://FandangoatHome.com and via participating Fandango at Home apps. Code expires on (and must be used by) 6/25/24 at 11:59pm PT. Limit one per transaction. You may have to pay taxes additionally. One-time use only. Void where prohibited. Offer is non-transferable and cannot be combined with any other offer or discount. No cash value, except as required by law. Not for resale; void if sold or exchanged. Offer valid in the U.S. only. You must have a Fandango at Home account to redeem your Code on Fandango at Home. Fandango at Home is free to join; you must be 18 years of age or older to open a Fandango at Home account. Credit card may be required for transactions on FandangoatHome.com. Fandango at Home reserves the right to modify or cancel this offer at any time and without notice. This offer is subject to Fandango at Home Terms and Policies and Privacy Policy at Terms and Policies at http://www.fandango.com/terms-and-policies. [Buy Tickets](https://www.fandangomovietickets.com/DeadpoolFAHGWP?cmp=TARS~FANDANGO~DeadpoolFAHGWP_GlobalNav)
 
 ### Special Offer
 
