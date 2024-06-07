@@ -1,6 +1,6 @@
 * [Home](http://www.private-eye.co.uk/)
     
-    [Issue 1624](https://www.private-eye.co.uk/) [1623](https://www.private-eye.co.uk/issue-1623) [1622](https://www.private-eye.co.uk/issue-1622)
+    [Issue 1625](https://www.private-eye.co.uk/) [1624](https://www.private-eye.co.uk/issue-1624) [1623](https://www.private-eye.co.uk/issue-1623)
 * [Subscribe](http://www.subsonline.co.uk/)
     
     [Log-In](https://account.private-eye.co.uk/) [Renew](https://checkout.private-eye.co.uk/renewal/login?item=PEY) [Open Account](https://account.private-eye.co.uk/)  
@@ -48,8 +48,8 @@
 [Home](http://www.private-eye.co.uk/) [Subscribe](https://checkout.private-eye.co.uk/singleitem?item=PEY&prom=W37AAPEA) [Shop](http://www.private-eye.co.uk/shop) [Current Issue](http://www.private-eye.co.uk/current-issue) [Books](http://www.private-eye.co.uk/books) [Covers](http://www.private-eye.co.uk/covers) [Extras](http://www.private-eye.co.uk/extras) [About](http://www.private-eye.co.uk/about)
 
 * [Home](https://www.private-eye.co.uk/)
+    * [Issue 1624](https://www.private-eye.co.uk/issue-1624)
     * [Issue 1623](https://www.private-eye.co.uk/issue-1623)
-    * [Issue 1622](https://www.private-eye.co.uk/issue-1622)
 * [Subscribe](http://www.subsonline.co.uk/)
     * [Subscribe](http://www.subsonline.co.uk/)
     * [Log-In](https://account.private-eye.co.uk/)
@@ -336,58 +336,58 @@ However, the GDPR and the DPA contain an exemption which allows us not to apply 
 
 MORE TOP STORIES ONLINE
 
-[![Closing act  ](https://www.private-eye.co.uk/pictures/hp_sauce/small/nadhim-zahawi-2.jpg)](http://www.private-eye.co.uk/hp-sauce)
+[![Friendly fire ](https://www.private-eye.co.uk/pictures/street_of_shame/small/andrew-neill.jpg)](http://www.private-eye.co.uk/issue-1623/street-of-shame)
 
-[Closing act](http://www.private-eye.co.uk/hp-sauce)  
-Nadhim Zahawi's theatrical exit
+[Friendly fire](http://www.private-eye.co.uk/issue-1623/street-of-shame)  
+Certain media are closer to government
 
-HP Sauce, Issue 1624
+Street Of Shame, Issue 1623
 
-[![Ring of steel  ](https://www.private-eye.co.uk/pictures/news/small/vote-houchen.jpg)](http://www.private-eye.co.uk/issue-1622/news)
+[![Praise the Lord!  ](https://www.private-eye.co.uk/pictures/street_of_shame/small/doctor-who.jpg)](http://www.private-eye.co.uk/issue-1624/street-of-shame)
 
-[Ring of steel](http://www.private-eye.co.uk/issue-1622/news)  
-A cosy arrangement on the Tees
+[Praise the Lord!](http://www.private-eye.co.uk/issue-1624/street-of-shame)  
+How the Mail is trolling Doctor Who's showrunner
 
-News, Issue 1622
+Street Of Shame, Issue 1624
 
-[![Treasurer island  ](https://www.private-eye.co.uk/pictures/hp_sauce/small/mo-mansour.jpg)](http://www.private-eye.co.uk/issue-1622/hp-sauce)
+[![Crime wave ](https://www.private-eye.co.uk/pictures/street_of_shame/small/lord-lucan.jpg)](http://www.private-eye.co.uk/street-of-shame)
 
-[Treasurer island](http://www.private-eye.co.uk/issue-1622/hp-sauce)  
-How the Tory party rewards its biggest donors
+[Crime wave](http://www.private-eye.co.uk/street-of-shame)  
+The Mail's approach to true crime
 
-HP Sauce, Issue 1622
+Street Of Shame, Issue 1625
 
 ALSO IN THIS ISSUE
+
+[![In The Back](https://www.private-eye.co.uk/pictures/in_the_back/thumb/thumb.gif)](https://www.private-eye.co.uk/in-the-back) [In The Back](https://www.private-eye.co.uk/in-the-back)  
+[The latest stories](https://www.private-eye.co.uk/in-the-back)  
+[more »](https://www.private-eye.co.uk/in-the-back)
+
+[![HP Sauce](https://www.private-eye.co.uk/pictures/hp_sauce/thumb/thumb.gif)](https://www.private-eye.co.uk/hp-sauce) [HP Sauce](https://www.private-eye.co.uk/hp-sauce)  
+[Latest stories](https://www.private-eye.co.uk/hp-sauce)  
+[more »](https://www.private-eye.co.uk/hp-sauce)
 
 [![News](https://www.private-eye.co.uk/pictures/news/thumb/thumb.gif)](https://www.private-eye.co.uk/news) [News](https://www.private-eye.co.uk/news)  
 [Top Stories](https://www.private-eye.co.uk/news)  
 [more »](https://www.private-eye.co.uk/news)
 
-[![Top Stories](https://www.private-eye.co.uk/pictures/street_of_shame/thumb/thumb.gif)](https://www.private-eye.co.uk/street-of-shame) [Top Stories](https://www.private-eye.co.uk/street-of-shame)  
-[Street Of Shame](https://www.private-eye.co.uk/street-of-shame)  
-[more »](https://www.private-eye.co.uk/street-of-shame)
-
-[![Number](https://www.private-eye.co.uk/pictures/number_crunching/thumb/thumb.gif)](https://www.private-eye.co.uk/number-crunching) [Number](https://www.private-eye.co.uk/number-crunching)  
-[Crunching](https://www.private-eye.co.uk/number-crunching)  
-[more »](https://www.private-eye.co.uk/number-crunching)
-
 ONLY IN THE MAGAZINE
 
-[![Private Eye Issue 1624](https://www.private-eye.co.uk/pictures/covers/full/1624_big.jpg)](http://www.subsonline.co.uk/)
+[![Private Eye Issue 1625](https://www.private-eye.co.uk/pictures/covers/full/1625_big.jpg)](http://www.subsonline.co.uk/)
 
 In This Issue
 
-Shock as liar in liar case calls key witness 'a liar'… Rishi list proves that the economy has finally turned the corner… Gyles Brandreth admits, 'I am the Grim Reaper'… Noah tells God, 'Drop the rainbow nonsense'… Mortgages to become merely 'ruinous'… Me and my Spoon: Dominic Cummings… Why Starmer's government is already failing Britain… 'I was stalked by Baby Reindeer' – member of public tells all… The National Gallery at 200: my favourite painting, as told to Craig Brown
+That all-purpose letter of resignation from a sinking ship… Blond liar who should be in jail defends blond liar who's heading for jail… Israel rejects Israel peace plan… TV highlights: Ms Vennells versus the Post Office… The Conversion of Saint Paula… Public desperate for election already sick of the election… A list of things you should boycott because they involve fossil fuels… Cleo Watson: general erection!, as told to Craig Brown.
 
   
-[![](https://www.private-eye.co.uk/pictures/plus/cummings.png)](http://www.subsonline.co.uk/) Currency affairs  
-Nigeria's crypto concerns  
+[![](https://www.private-eye.co.uk/pictures/plus/gove.png)](http://www.subsonline.co.uk/) Taking a flyer  
+Yes, it's another onslaught of campaign leaflets…  
   
-Burning issue  
-Old Sparky on the government's "irrational" net zero plan  
+Mind the gap  
+How the Sun offered Rupert Murdoch helpful tips  
   
-Legal get-out  
-More dodging of responsibility at the Post Office
+Tears of a clown  
+Paula Vennells' Post Office inquiry appearance in depth
 
   
 [Read these stories and much more - only in the magazine. Subscribe here to get delivery direct to your home and never miss an issue!](http://www.subsonline.co.uk/)
@@ -395,46 +395,46 @@ More dodging of responsibility at the Post Office
  [![](https://www.private-eye.co.uk/grfx/stuff/gnitty-subs.png)](http://www.subsonline.co.uk/)[ONLY £2.99](http://www.subsonline.co.uk/)  
 [SUBSCRIBE HERE](http://www.subsonline.co.uk/)  
 NEXT ISSUE ON SALE  
-6th June 2024
+19th June 2024
 
 WHY SUBSCRIBE?
 
-[![Private Eye Issue 1623](https://www.private-eye.co.uk/pictures/covers/full/1623_big.jpg)](http://www.subsonline.co.uk/) 
+[![Private Eye Issue 1624](https://www.private-eye.co.uk/pictures/covers/full/1624_big.jpg)](http://www.subsonline.co.uk/) 
 
-[![](https://www.private-eye.co.uk/pictures/covers/full/1624_big.jpg)](https://www.private-eye.co.uk/current-issue)
+[![](https://www.private-eye.co.uk/pictures/covers/full/1625_big.jpg)](https://www.private-eye.co.uk/current-issue)
 
-VIEWING ISSUE 1624
+VIEWING ISSUE 1625
 
-[ISSUE 1623](https://www.private-eye.co.uk/issue-1623) [ISSUE 1622](https://www.private-eye.co.uk/issue-1622)
+[ISSUE 1624](https://www.private-eye.co.uk/issue-1624) [ISSUE 1623](https://www.private-eye.co.uk/issue-1623)
 
 [SUBSCRIBE](http://www.subsonline.co.uk/) [GIFT SUBSCRIPTIONS](http://www.subsonline.co.uk/)
 
 [![](https://www.private-eye.co.uk/grfx/stuff/twitter_header.gif)](https://twitter.com/PrivateEyeNews) [Tweets by PrivateEyeNews](https://twitter.com/PrivateEyeNews?ref_src=twsrc%5Etfw) [![](https://www.private-eye.co.uk/grfx/stuff/twitter_footer.gif)](https://twitter.com/PrivateEyeNews)
 
-[![](https://www.private-eye.co.uk/pictures/adverts/mpu/justice-lost-in-the-post.jpg)](http://www.private-eye.co.uk/special-reports/justice-lost-in-the-post) 
+[![](https://www.private-eye.co.uk/pictures/adverts/mpu/overseas.png)](http://www.subsonline.co.uk/) 
 
 MORE FROM PRIVATE EYE
-
-[![](https://www.private-eye.co.uk/pictures/boxes/subscriptions.png)](http://www.subsonline.co.uk/)[Subscriptions](http://www.subsonline.co.uk/)
 
 [![](https://www.private-eye.co.uk/pictures/boxes/gift.png)](http://www.subsonline.co.uk/)[Gift Subscriptions](http://www.subsonline.co.uk/)
 
 [![](https://www.private-eye.co.uk/pictures/boxes/paul-foot.png)](http://www.private-eye.co.uk/paul-foot-award)[Paul Foot Award](http://www.private-eye.co.uk/paul-foot-award)
+
+[![](https://www.private-eye.co.uk/pictures/boxes/subscriptions.png)](http://www.subsonline.co.uk/)[Subscriptions](http://www.subsonline.co.uk/)
 
 [![](https://www.private-eye.co.uk/pictures/boxes/page-94.png)](https://www.private-eye.co.uk/podcast)[Page 94 Podcast](https://www.private-eye.co.uk/podcast)
 
   
   
 
-[![](https://www.private-eye.co.uk/grfx/logos/page-94-text.png)](http://www.private-eye.co.uk/podcast)
+[SPECIAL REPORTS](http://www.private-eye.co.uk/special-reports)
 
-[![](https://www.private-eye.co.uk/grfx/stuff/arrow-soundcloud.png)](https://www.private-eye.co.uk/podcast/103)[Sexual Politics](https://www.private-eye.co.uk/podcast/103)
+[![London's Closed Courts](https://www.private-eye.co.uk/pictures/special_reports/v-closed-courts.jpg)](https://www.private-eye.co.uk/special-reports/londons-closed-courts) [London's Closed Courts](https://www.private-eye.co.uk/special-reports/londons-closed-courts)
 
-[![](https://www.private-eye.co.uk/grfx/stuff/arrow-soundcloud.png)](https://www.private-eye.co.uk/podcast/105)[Defection, Dwellings and Domesticated Animals](https://www.private-eye.co.uk/podcast/105)
+[![Justice Lost In The Post](https://www.private-eye.co.uk/pictures/special_reports/v-justice-lost-in-the-post.jpg)](https://www.private-eye.co.uk/special-reports/justice-lost-in-the-post) [Justice Lost In The Post](https://www.private-eye.co.uk/special-reports/justice-lost-in-the-post)
 
-[![](https://www.private-eye.co.uk/grfx/stuff/arrow-soundcloud.png)](https://www.private-eye.co.uk/podcast/104)[Councils of Despair](https://www.private-eye.co.uk/podcast/104)
+[![Tax Havens](https://www.private-eye.co.uk/pictures/special_reports/v-tax-havens.jpg)](https://www.private-eye.co.uk/special-reports/tax-havens) [Tax Havens](https://www.private-eye.co.uk/special-reports/tax-havens)
 
-[![](https://www.private-eye.co.uk/grfx/stuff/arrow-soundcloud.png)](https://www.private-eye.co.uk/podcast/106)[A Washed Up Government](https://www.private-eye.co.uk/podcast/106)
+[![Profits Of Doom](https://www.private-eye.co.uk/pictures/special_reports/v-profits-of-doom.jpg)](https://www.private-eye.co.uk/special-reports/profits-of-doom) [Profits Of Doom](https://www.private-eye.co.uk/special-reports/profits-of-doom)
 
 [![gnitty](https://www.private-eye.co.uk/grfx/logos/gnitty-footer.png)](http://www.private-eye.co.uk/contact)
 
