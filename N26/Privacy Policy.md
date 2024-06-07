@@ -2,7 +2,7 @@ Privacy Policy
 
 
 
-(Version 9.1., Date 31.05.2024)
+(Version 9.2., Date 06.06.2024)
 
 
 
@@ -1732,21 +1732,23 @@ users online and to measure and optimise their performance. We only process pers
 
 advertising purposes if you consent to such processing, in accordance with Art. 6 (1) a) GDPR and Section 25 (1)
 
-of the German Telecommunications-Telemedia Data Protection Act (TTDSG) together with Art. 5 (3) of the EU
+of the German Act on Data Protection and Privacy in Telecommunications and Digital Services (TDDDG)
 
-Directive on Privacy and Electronic Communications (Directive 2002/58/EC) and the respective national act of
+together with Art. 5 (3) of the EU Directive on Privacy and Electronic Communications (Directive 2002/58/EC) and
 
-implementation. You can revoke your consent at any time in the N26 App via My Account \> App-Settings \>
+the respective national act of implementation. You can revoke your consent at any time in the N26 App via My
 
-Marketing Communications \> “Advertising Partners” (disable toggle) or in the N26 Web App under My Account \>
+Account \> App-Settings \> Marketing Communications \> “Advertising Partners” (disable toggle) or in the N26 Web
 
-Personal Details \> “Advertising Partners” (disable toggle). The data processing for online advertising purposes is
+App under My Account \> Personal Details \> “Advertising Partners” (disable toggle). The data processing for
 
-described in more detail further down in each section.
+online advertising purposes is described in more detail further down in each section.
 
 
 
-1\. Custom and lookalike audiences
+1. Custom and lookalike audiences
+
+
 
 We process your data to create so-called custom and lookalike audiences. Custom audiences consist of N26
 
@@ -1760,27 +1762,43 @@ enables us to define target groups that are more similar to N26 customers than t
 
 deliver more relevant advertisements to them.
 
+
+
 To create custom and lookalike audiences, we use the services of our Advertising Partners below:
 
-● Google Ireland Ltd, Google Building Gordon House, 4 Barrow St, Dublin, Ireland (“Google”);
 
-● Meta Platforms Ireland Ltd, 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Ireland ("Meta").
 
-For the purposes described above, we transfer your pseudonymised email address to Google and Meta. They
-
-then match this email address against a potential account you might have on their services. For this purpose,
-
-and regardless of whether the matching is successful or not, the data is retained by Google for up to 48 hours
-
-and by Meta for up to 8 hours, after which it is deleted. Google and Meta do not share these data with third
-
-parties. You can find further information on how these technologies work under How Google uses Customer
-
-Match data and in the terms of Facebook Custom Audiences.
+● Google Ireland Ltd, Google Building Gordon House, 4 Barrow St, dublin, Ireland (“Google”);
 
 
 
-2\. Conversion tracking
+● Meta Platforms Ireland Ltd, 4 Grand Canal Square, Grand Canal Harbour, dublin 2, Ireland ("Meta");
+
+
+
+● TikTok Technology Ltd, 10 Earlsfort Terrace, dublin, D02 T380, Ireland (“TikTok”).
+
+
+
+For the purposes described above, we transfer your pseudonymised email address to Google, Meta and TikTok.
+
+Furthermore we transfer your IDFA (advertising identifier) and phone number to TikTok. They then match this
+
+data against a potential account you might have on their services. For this purpose, and regardless of whether
+
+the matching is successful or not, the data is retained by Google for up to 48 hours, by Meta for up to 8 hours
+
+and by TikTok for up to 14 days, after which it is deleted. You can find further information on how these
+
+technologies work under How Google uses Customer Match data, in the terms of Facebook Custom Audiences
+
+and in the terms of TikTok Custom Audiences.
+
+
+
+2. Conversion tracking
+
+
 
 We process your data to capture specific actions that take place inside the N26 App and Web App, specifically
 
@@ -1792,23 +1810,35 @@ advertisements and to deliver them to internet users that we infer are more like
 
 conversions.
 
-For the purposes described above, we use the services of Google and Meta (as identified in the previous
 
-section). We transfer conversion data, including date and time, to Google and Meta together with the following
 
-personal data, which is transmitted with encryption: email address, first name, last name, phone number,
+For the purposes described above, we use the services of Google, Meta and TikTok (as identified in the previous
 
-gender, city, zip code and country of residence, IP address, customer ID and predicted customer lifetime value.
+section). We transfer conversion data, including date and time, to
+
+
+
+● Google and Meta together with the following personal data, which is transmitted with encryption: email
+
+address, first name, last name, phone number, gender, city, zip code and country of residence, IP
+
+address, customer ID and predicted customer lifetime value.
+
+● TikTok together with the following personal data, which is transmitted with encryption: Event, Event-ID,
+
+Timestamp, Click-ID, URL, Page Referrer, hashed email address, hashed phone number, hashed
+
+shadow id, IP-Address, User Agent.
+
+
 
 These data points are associated with other personal data collected on our website (see the section on
 
-Personalisation/Targeting Cookies in our Cookie Policies for N26 websites). Google and Meta are able to
+Personalisation/Targeting Cookies in our Cookie Policies for N26 websites and apps). Google, Meta and TikTok
 
-associate these data with your account on their services, if existent. The data is deleted by Google after a
+are able to associate these data with your account on their services, if existent. The data is deleted by Google
 
-maximum of 18 months and by Meta after a maximum of 2 years.
-
-
+and TikTok after a maximum of 18 months and by Meta after a maximum of 2 years.
 
 VIII. International transfers of personal data
 
@@ -1822,15 +1852,11 @@ safeguards in accordance with the international data transfer impact assessment 
 
 transfer, if applicable:
 
+
+
 ● A decision of the European Commission deciding that the third country ensures an adequate level of
 
-protection, pursuant to Art. 45 (1) GDPR - the existing adequacy decisions can be found here. This
-
-includes the certification under the Data Privacy Framework Program developed by the U.S.
-
-Department of Commerce and the European Commission - self certified entities can be found here;
-
-● Binding Corporate Rules (“BCRs”) approved as per Art. 47 GDPR, pursuant to Art. 46 (2) b) GDPR;
+protection, pursuant to Art. 45 (1) GDPR - the existing adequacy decisions can be found here;
 
 ● Standard data protection clauses for the transfer of personal data to third countries (“SCCs”), as
 
@@ -1838,11 +1864,19 @@ adopted by the European Commission, pursuant to Art. 46 (2) c) GDPR - the most r
 
 SCCs can be found here.
 
+
+
 You can obtain a detailed copy of the transfer mechanism and more information in this regard by sending a
 
-request to N26 to the addresses indicated in section XII. below.
+request to N26 to the addresses indicated in section XI. below.
 
 
+
+Insofar as we transmit data to entities located outside the European Economic and in third countries that do
+
+not provide an adequate level of protection of personal data in the terms of the GDPR, we do so upon your
+
+explicit consent under Art. 49 (1) a) GDPR.
 
 IX. Data collected in the framework of phone call recordings
 
@@ -1987,8 +2021,6 @@ legitimate reasons to continue the processing, which exceed your interests, righ
 when the processing is necessary to enforce, exercise or defend legal claims. The processing of your
 
 personal data remains justified until the date of your objection.
-
-
 
 You can exercise your right to revoke your consent and your right of objection, as mentioned above, either via
 
