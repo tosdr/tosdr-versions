@@ -39,9 +39,9 @@ editorial \_
 
 coverstory \_
 
-[![Restored 1968 Barracuda Formula S Is a Rare 383-V8 Mopar Jewel and Costs How Much?](https://s1.cdn.autoevolution.com/images/news/restored-1968-barracuda-formula-s-is-a-rare-383-v8-mopar-jewel-and-costs-how-much-235054-5.jpg "Restored 1968 Barracuda Formula S Is a Rare 383-V8 Mopar Jewel and Costs How Much?")
+[![Google Maps vs. Apple Maps: Their Strengths and Weaknesses](https://s1.cdn.autoevolution.com/images/news/google-maps-vs-apple-maps-their-strengths-and-weaknesses-235034-5.jpg "Google Maps vs. Apple Maps: Their Strengths and Weaknesses")
 
-Restored 1968 Barracuda Formula S Is a Rare 383-V8 Mopar Jewel and Costs How Much?](https://www.autoevolution.com/news/restored-1968-barracuda-formula-s-is-a-rare-383-v8-mopar-jewel-and-costs-how-much-235054.html)
+Google Maps vs. Apple Maps: Their Strengths and Weaknesses](https://www.autoevolution.com/news/google-maps-vs-apple-maps-their-strengths-and-weaknesses-235034.html)
 
 how-to \_
 
