@@ -25,13 +25,13 @@ The store will not work correctly in the case when cookies are disabled.
     * [NEW
         
         Liberty 2](https://www.womanizer.com/eu/liberty-2)
-    * [LIBERTY](https://www.womanizer.com/eu/liberty)
     * [Golden Moments Collection 2](https://www.womanizer.com/eu/golden-moments-collection-2)
     * [Premium 2 Lilac Special Edition](https://www.womanizer.com/eu/premium2-lilac-special-edition)
     * [CLASSIC 2](https://www.womanizer.com/eu/classic-2)
     * [STARLET 3](https://www.womanizer.com/eu/starlet-3)
     * [Starlet Snow](https://www.womanizer.com/eu/starlet)
     * [Wave](https://www.womanizer.com/eu/wave-womanizer)
+    * [OG](https://www.womanizer.com/eu/womanizer-og)
     * [All Sex Toys](https://www.womanizer.com/eu/sex-toys)
     
     [All Sex Toys](https://www.womanizer.com/eu/sex-toys)
@@ -50,23 +50,23 @@ The store will not work correctly in the case when cookies are disabled.
     * [Golden Moments Collection 2](https://www.womanizer.com/eu/golden-moments-collection-2)
     * [Premium 2 Lilac Special Edition](https://www.womanizer.com/eu/premium2-lilac-special-edition)
     * [Marilyn Monroe™ Special Edition](https://www.womanizer.com/eu/marilyn-monroe-special-edition)
-    * [LIBERTY](https://www.womanizer.com/eu/liberty)
     * [OG](https://www.womanizer.com/eu/womanizer-og)
+    * [PREMIUM eco](https://www.womanizer.com/eu/eco)
     * [All Bestsellers](https://www.womanizer.com/eu/bestseller)
     
     [All Bestsellers](https://www.womanizer.com/eu/bestseller)
     
 * [Sale](https://www.womanizer.com/eu/sale)
     
-    * [LIBERTY](https://www.womanizer.com/eu/liberty)
     * [Premium](https://www.womanizer.com/eu/premium)
     * [DUO](https://www.womanizer.com/eu/duo)
     * [Pro40](https://www.womanizer.com/eu/pro-40)
     * [InsideOut](https://www.womanizer.com/eu/insideout)
     * [Starlet Snow](https://www.womanizer.com/eu/starlet)
     * [Pro / W500](https://www.womanizer.com/eu/w500)
-    * [STARLET 2](https://www.womanizer.com/eu/starlet-2)
     * [Classic - Muse Edition](https://www.womanizer.com/eu/classic-muse-edition)
+    * [STARLET 2](https://www.womanizer.com/eu/starlet-2)
+    * [Silver Delights Collection](https://www.womanizer.com/eu/silver-delights-collection)
     * [All Sale Items](https://www.womanizer.com/eu/sale)
     
     [All Sale Items](https://www.womanizer.com/eu/sale)
@@ -79,10 +79,10 @@ The store will not work correctly in the case when cookies are disabled.
     * [Next Stimulation Heads](https://www.womanizer.com/eu/next-stimulation-heads)
     * [Lovehoney Enjoy Water-Based Lubricant-100ml](https://www.womanizer.com/eu/catalog/product/view/id/205/)
     * [Magnetic Charging Cable](https://www.womanizer.com/eu/charging-cable-magnetic)
+    * [Pin Charging Cable](https://www.womanizer.com/eu/charging-cable)
     * [Lovehoney Fresh Toy Cleaner 250ml](https://www.womanizer.com/eu/lovehoney-fresh-toy-cleaner-250ml)
     * [Lovehoney Fresh Toy Cleaner 100ml](https://www.womanizer.com/eu/lovehoney-fresh-toy-cleaner-100m)
     * [Type B Stimulation Heads](https://www.womanizer.com/eu/heads-w500-size-pro40-starlet-one)
-    * [Type A Stimulation Heads](https://www.womanizer.com/eu/heads-premium-classic-liberty-starlet2)
     * [All Accessories](https://www.womanizer.com/eu/accessories)
     
     [All Accessories](https://www.womanizer.com/eu/accessories)
