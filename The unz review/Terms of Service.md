@@ -256,7 +256,7 @@ Translate?
 
 [Current Events](https://www.unz.com/news/)
 
-[Newslinks](https://www.unz.com/news/) • [6 Today](https://www.unz.com/news/)
+[Newslinks](https://www.unz.com/news/) • [9 Today](https://www.unz.com/news/)
 
 + 
 
@@ -277,23 +277,25 @@ Featured Articles
 
 ![](/IMAGES/ostar.gif)
 
-[Blights on Whites: HBD, Headlines and the Violation of Western Norms](https://www.unz.com/article/blights-on-whites-hbd-headlines-and-the-violation-of-western-norms/)
+[Land of the Free?](https://www.unz.com/pgiraldi/land-of-the-free/)
 
-[Tobias Langdon](https://www.unz.com/author/tobias-langdon/ "Articles, Columns, and Major Blog Posts by Tobias Langdon") • June 4, 2024
+Better watch what you say and to whom
 
-• 2,600 Words • [41 Comments](https://www.unz.com/article/blights-on-whites-hbd-headlines-and-the-violation-of-western-norms/#comments) • [Reply](https://www.unz.com/article/blights-on-whites-hbd-headlines-and-the-violation-of-western-norms/#respond)
+[Philip Giraldi](https://www.unz.com/author/philip-giraldi/ "Articles, Columns, and Major Blog Posts by Philip Giraldi") • June 6, 2024
 
-[![](//www.theoccidentalobserver.net/wp-content/uploads/2024/06/pic1-4.jpg)](https://www.unz.com/article/blights-on-whites-hbd-headlines-and-the-violation-of-western-norms/)
+• 2,400 Words • [121 Comments](https://www.unz.com/pgiraldi/land-of-the-free/#comments) • [Reply](https://www.unz.com/pgiraldi/land-of-the-free/#respond)
+
+[![scott-ritter3](//www.unz.com/wp-content/uploads/2024/06/Scott-Ritter3-100x68.jpg)](https://www.unz.com/pgiraldi/land-of-the-free/)
 
 ![](/IMAGES/ostar.gif)
 
-[Deaf and Blind: The Maladies of American Diplomats](https://www.unz.com/article/deaf-and-blind-the-maladies-of-american-diplomats/)
+[Israel Prepares to Open a Second Front in the North](https://www.unz.com/mwhitney/israel-prepares-to-open-a-second-front-in-the-north/)
 
-[Patrick Lawrence](https://www.unz.com/author/patrick-lawrence/ "Articles, Columns, and Major Blog Posts by Patrick Lawrence") • June 2, 2024
+[Mike Whitney](https://www.unz.com/author/mike-whitney/ "Articles, Columns, and Major Blog Posts by Mike Whitney") • June 6, 2024
 
-• 1,800 Words • [49 Comments](https://www.unz.com/article/deaf-and-blind-the-maladies-of-american-diplomats/#comments) • [Reply](https://www.unz.com/article/deaf-and-blind-the-maladies-of-american-diplomats/#respond)
+• 1,900 Words • [59 Comments](https://www.unz.com/mwhitney/israel-prepares-to-open-a-second-front-in-the-north/#comments) • [Reply](https://www.unz.com/mwhitney/israel-prepares-to-open-a-second-front-in-the-north/#respond)
 
-[![shahleavingpatricklawrence](//www.unz.com/wp-content/uploads/2024/06/ShahLeavingPatrickLawrence-100x68.jpg)](https://www.unz.com/article/deaf-and-blind-the-maladies-of-american-diplomats/)
+[![screenshot-2024-06-06-155312](//www.unz.com/wp-content/uploads/2024/06/Screenshot-2024-06-06-155312-100x68.png)](https://www.unz.com/mwhitney/israel-prepares-to-open-a-second-front-in-the-north/)
 
 [What is _The Unz Review?_](https://www.unz.com/masthead/)
 
@@ -356,49 +358,49 @@ Columnists
 
 P[B](https://www.unz.com/aanglin/ "Blog View")[Andrew Anglin / The World's Most Censored Writer](https://www.unz.com/author/andrew-anglin/ "Teaser Archive")
 
-[Bibi Says Jews Ready for “Very Strong Action” Against Lebanon](https://www.unz.com/aanglin/bibi-says-jews-ready-for-very-strong-action-against-lebanon/) • [13 Comments](https://www.unz.com/aanglin/bibi-says-jews-ready-for-very-strong-action-against-lebanon/#comments)
+[Bibi Says Jews Ready for “Very Strong Action” Against Lebanon](https://www.unz.com/aanglin/bibi-says-jews-ready-for-very-strong-action-against-lebanon/) • [44 Comments](https://www.unz.com/aanglin/bibi-says-jews-ready-for-very-strong-action-against-lebanon/#comments)
 
-[Poll: Majority of Young People in the UK Think Israel Shouldn’t Even Exist at All](https://www.unz.com/aanglin/poll-majority-of-young-people-in-the-uk-think-israel-shouldnt-even-exist-at-all/) • [34 Comments](https://www.unz.com/aanglin/poll-majority-of-young-people-in-the-uk-think-israel-shouldnt-even-exist-at-all/#comments)
+[Poll: Majority of Young People in the UK Think Israel Shouldn’t Even Exist at All](https://www.unz.com/aanglin/poll-majority-of-young-people-in-the-uk-think-israel-shouldnt-even-exist-at-all/) • [56 Comments](https://www.unz.com/aanglin/poll-majority-of-young-people-in-the-uk-think-israel-shouldnt-even-exist-at-all/#comments)
 
-[House Passes Legislation Sanctioning “Illegitimate” ICC Over Bibi Arrest Warrant](https://www.unz.com/aanglin/house-passes-legislation-sanctioning-illegitimate-icc-over-bibi-arrest-warrant/) • [8 Comments](https://www.unz.com/aanglin/house-passes-legislation-sanctioning-illegitimate-icc-over-bibi-arrest-warrant/#comments)
+[House Passes Legislation Sanctioning “Illegitimate” ICC Over Bibi Arrest Warrant](https://www.unz.com/aanglin/house-passes-legislation-sanctioning-illegitimate-icc-over-bibi-arrest-warrant/) • [14 Comments](https://www.unz.com/aanglin/house-passes-legislation-sanctioning-illegitimate-icc-over-bibi-arrest-warrant/#comments)
 
-[Columbia University to Provide Special Police to Escort Every Jew Student Around Campus](https://www.unz.com/aanglin/columbia-university-to-provide-special-police-to-escort-every-jew-student-around-campus/) • [46 Comments](https://www.unz.com/aanglin/columbia-university-to-provide-special-police-to-escort-every-jew-student-around-campus/#comments)
+[Columbia University to Provide Special Police to Escort Every Jew Student Around Campus](https://www.unz.com/aanglin/columbia-university-to-provide-special-police-to-escort-every-jew-student-around-campus/) • [49 Comments](https://www.unz.com/aanglin/columbia-university-to-provide-special-police-to-escort-every-jew-student-around-campus/#comments)
 
-[KKK Antisemite Biden Tells Time Magazine Bibi Is Prolonging the Gaza Slaughter for Political Gain](https://www.unz.com/aanglin/kkk-antisemite-biden-tells-time-magazine-bibi-is-prolonging-the-gaza-slaughter-for-political-gain/) • [29 Comments](https://www.unz.com/aanglin/kkk-antisemite-biden-tells-time-magazine-bibi-is-prolonging-the-gaza-slaughter-for-political-gain/#comments)
+[KKK Antisemite Biden Tells Time Magazine Bibi Is Prolonging the Gaza Slaughter for Political Gain](https://www.unz.com/aanglin/kkk-antisemite-biden-tells-time-magazine-bibi-is-prolonging-the-gaza-slaughter-for-political-gain/) • [31 Comments](https://www.unz.com/aanglin/kkk-antisemite-biden-tells-time-magazine-bibi-is-prolonging-the-gaza-slaughter-for-political-gain/#comments)
 
-[Watch: Alex Jones Breaks Down as He Reveals Eminent Fed Attack on Infowars](https://www.unz.com/aanglin/watch-alex-jones-breaks-down-as-he-reveals-eminent-fed-attack-on-infowars/) • [27 Comments](https://www.unz.com/aanglin/watch-alex-jones-breaks-down-as-he-reveals-eminent-fed-attack-on-infowars/#comments)
+[Watch: Alex Jones Breaks Down as He Reveals Eminent Fed Attack on Infowars](https://www.unz.com/aanglin/watch-alex-jones-breaks-down-as-he-reveals-eminent-fed-attack-on-infowars/) • [31 Comments](https://www.unz.com/aanglin/watch-alex-jones-breaks-down-as-he-reveals-eminent-fed-attack-on-infowars/#comments)
 
-[Brandon Won’t Go to Zelensky’s Fake “Peace Summit,” Sending Kamala](https://www.unz.com/aanglin/brandon-wont-go-to-zelenskys-fake-peace-summit-sending-kamala/) • [60 Comments](https://www.unz.com/aanglin/brandon-wont-go-to-zelenskys-fake-peace-summit-sending-kamala/#comments)
+[Brandon Won’t Go to Zelensky’s Fake “Peace Summit,” Sending Kamala](https://www.unz.com/aanglin/brandon-wont-go-to-zelenskys-fake-peace-summit-sending-kamala/) • [62 Comments](https://www.unz.com/aanglin/brandon-wont-go-to-zelenskys-fake-peace-summit-sending-kamala/#comments)
 
 [San Francisco: Brutal Militarized Cops Arrest 70 Anti-Genocide Activists at Israeli Consulate](https://www.unz.com/aanglin/san-francisco-brutal-militarized-cops-arrest-70-anti-genocide-activists-at-israeli-consulate/) • [20 Comments](https://www.unz.com/aanglin/san-francisco-brutal-militarized-cops-arrest-70-anti-genocide-activists-at-israeli-consulate/#comments)
 
-[Singapore: Goof Trooper Zelensky Shows Up Uninvited, Makes Outrageous Threats Against China, Others](https://www.unz.com/aanglin/singapore-goof-trooper-zelensky-shows-up-uninvited-makes-outrageous-threats-against-china-others/) • [87 Comments](https://www.unz.com/aanglin/singapore-goof-trooper-zelensky-shows-up-uninvited-makes-outrageous-threats-against-china-others/#comments)
+[Singapore: Goof Trooper Zelensky Shows Up Uninvited, Makes Outrageous Threats Against China, Others](https://www.unz.com/aanglin/singapore-goof-trooper-zelensky-shows-up-uninvited-makes-outrageous-threats-against-china-others/) • [88 Comments](https://www.unz.com/aanglin/singapore-goof-trooper-zelensky-shows-up-uninvited-makes-outrageous-threats-against-china-others/#comments)
 
 [China Sends New Hawkish Defense Minister to Singapore to Declare Taiwan Traitors Will be Nailed to the Pillar of Shame](https://www.unz.com/aanglin/china-sends-new-hawkish-defense-minister-to-singapore-to-declare-taiwan-traitors-will-be-nailed-to-the-pillar-of-shame/) • [31 Comments](https://www.unz.com/aanglin/china-sends-new-hawkish-defense-minister-to-singapore-to-declare-taiwan-traitors-will-be-nailed-to-the-pillar-of-shame/#comments)
 
 P[Podcasts](https://www.unz.com/audio/channel/kbarrett/ "Blog View")[Kevin Barrett / Truth Jihadist](https://www.unz.com/author/kevin-barrett/ "Teaser Archive")
 
-[USS Liberty Massacre: A Pivotal Moment in the Hostile Takeover of America](https://www.unz.com/kbarrett/uss-liberty-massacre-a-pivotal-moment-in-the-hostile-takeover-of-america/) • [7 Comments](https://www.unz.com/kbarrett/uss-liberty-massacre-a-pivotal-moment-in-the-hostile-takeover-of-america/#comments)
+[USS Liberty Massacre: A Pivotal Moment in the Hostile Takeover of America](https://www.unz.com/kbarrett/uss-liberty-massacre-a-pivotal-moment-in-the-hostile-takeover-of-america/) • [35 Comments](https://www.unz.com/kbarrett/uss-liberty-massacre-a-pivotal-moment-in-the-hostile-takeover-of-america/#comments)
 
 [2024 Elections: There Is No Alternative](https://www.unz.com/kbarrett/2024-elections-there-is-no-alternative/) • [52 Comments](https://www.unz.com/kbarrett/2024-elections-there-is-no-alternative/#comments)
 
-[Fadi Lama on "Why the West Can’t Win"](https://www.unz.com/audio/kbarrett_fadi-lama-on-why-the-west-cant-win/) • [27 Comments](https://www.unz.com/audio/kbarrett_fadi-lama-on-why-the-west-cant-win/#comments)
+[Fadi Lama on "Why the West Can’t Win"](https://www.unz.com/audio/kbarrett_fadi-lama-on-why-the-west-cant-win/) • [29 Comments](https://www.unz.com/audio/kbarrett_fadi-lama-on-why-the-west-cant-win/#comments)
 
-[Kevin MacDonald on "Extreme Hyper-Ethnocentrism of Jews on Display in Israeli Attitudes Toward the Gaza War"](https://www.unz.com/audio/kbarrett_kevin-macdonald-on-extreme-hyper-ethnocentrism-of-jews-on-display-in-israeli-attitudes-toward-the-gaza-war/) • [38 Comments](https://www.unz.com/audio/kbarrett_kevin-macdonald-on-extreme-hyper-ethnocentrism-of-jews-on-display-in-israeli-attitudes-toward-the-gaza-war/#comments)
+[Kevin MacDonald on "Extreme Hyper-Ethnocentrism of Jews on Display in Israeli Attitudes Toward the Gaza War"](https://www.unz.com/audio/kbarrett_kevin-macdonald-on-extreme-hyper-ethnocentrism-of-jews-on-display-in-israeli-attitudes-toward-the-gaza-war/) • [40 Comments](https://www.unz.com/audio/kbarrett_kevin-macdonald-on-extreme-hyper-ethnocentrism-of-jews-on-display-in-israeli-attitudes-toward-the-gaza-war/#comments)
 
 P[B](https://www.unz.com/jcook/ "Blog View")[Jonathan Cook / Our Man from Nazareth](https://www.unz.com/author/jonathan-cook/ "Teaser Archive")
 
-[To Continue the Gaza Genocide, Israel and the US Must Destroy the Laws of War](https://www.unz.com/jcook/to-continue-the-gaza-genocide-israel-and-the-us-must-destroy-the-laws-of-war/) • [203 Comments](https://www.unz.com/jcook/to-continue-the-gaza-genocide-israel-and-the-us-must-destroy-the-laws-of-war/#comments)
+[To Continue the Gaza Genocide, Israel and the US Must Destroy the Laws of War](https://www.unz.com/jcook/to-continue-the-gaza-genocide-israel-and-the-us-must-destroy-the-laws-of-war/) • [205 Comments](https://www.unz.com/jcook/to-continue-the-gaza-genocide-israel-and-the-us-must-destroy-the-laws-of-war/#comments)
 
 P[B](https://www.unz.com/jderbyshire/ "Blog View")[John Derbyshire / Immigrant Doomsayer](https://www.unz.com/author/john-derbyshire/ "Teaser Archive")
 
-[MAY DIARY \[8 ITEMS\]: 12 O'Clock High; Trangressing Woman; Gadget Enstupidation; Thanatophobia—My Existential Issue; ETC.](https://www.unz.com/jderbyshire/may-diary-8-items-12-oclock-high-trangressing-woman-gadget-enstupidation-thanatophobia-my-existential-issue-etc/) • [22 Comments](https://www.unz.com/jderbyshire/may-diary-8-items-12-oclock-high-trangressing-woman-gadget-enstupidation-thanatophobia-my-existential-issue-etc/#comments)
+[MAY DIARY \[8 ITEMS\]: 12 O'Clock High; Trangressing Woman; Gadget Enstupidation; Thanatophobia—My Existential Issue; ETC.](https://www.unz.com/jderbyshire/may-diary-8-items-12-oclock-high-trangressing-woman-gadget-enstupidation-thanatophobia-my-existential-issue-etc/) • [24 Comments](https://www.unz.com/jderbyshire/may-diary-8-items-12-oclock-high-trangressing-woman-gadget-enstupidation-thanatophobia-my-existential-issue-etc/#comments)
 
-[Trump’s Verdict, Clinton’s Narcissism, and the Ruling Class’s “Wound That Will Not Heal”](https://www.unz.com/jderbyshire/trumps-verdict-clintons-narcissism-and-the-ruling-classs-wound-that-will-not-heal/) • [130 Comments](https://www.unz.com/jderbyshire/trumps-verdict-clintons-narcissism-and-the-ruling-classs-wound-that-will-not-heal/#comments)
+[Trump’s Verdict, Clinton’s Narcissism, and the Ruling Class’s “Wound That Will Not Heal”](https://www.unz.com/jderbyshire/trumps-verdict-clintons-narcissism-and-the-ruling-classs-wound-that-will-not-heal/) • [143 Comments](https://www.unz.com/jderbyshire/trumps-verdict-clintons-narcissism-and-the-ruling-classs-wound-that-will-not-heal/#comments)
 
 P[B](https://www.unz.com/pescobar/ "Blog View")[Pepe Escobar / A Roving Eye on Globalistan](https://www.unz.com/author/pepe-escobar/ "Teaser Archive")
 
-[Supporting Genocide to Halt Multipolarity](https://www.unz.com/pescobar/supporting-genocide-to-halt-multipolarity/) • [3 Comments](https://www.unz.com/pescobar/supporting-genocide-to-halt-multipolarity/#comments)
+[Supporting Genocide to Halt Multipolarity](https://www.unz.com/pescobar/supporting-genocide-to-halt-multipolarity/) • [11 Comments](https://www.unz.com/pescobar/supporting-genocide-to-halt-multipolarity/#comments)
 
 [Russia, SCO, BRICS: The Normalization of Afghanistan](https://www.unz.com/pescobar/russia-sco-brics-the-normalization-of-afghanistan/) • [15 Comments](https://www.unz.com/pescobar/russia-sco-brics-the-normalization-of-afghanistan/#comments)
 
@@ -406,9 +408,13 @@ P[B](https://www.unz.com/pescobar/ "Blog View")[Pepe Escobar / A Roving Eye on G
 
 P[B](https://www.unz.com/pgiraldi/ "Blog View")[Philip Giraldi / National Intelligence](https://www.unz.com/author/philip-giraldi/ "Teaser Archive")
 
-[What Has Israel Done for Americans in the Past Week?](https://www.unz.com/pgiraldi/what-has-israel-done-for-americans-in-the-past-week/) • [132 Comments](https://www.unz.com/pgiraldi/what-has-israel-done-for-americans-in-the-past-week/#comments)
+[Land of the Free?](https://www.unz.com/pgiraldi/land-of-the-free/) • [121 Comments](https://www.unz.com/pgiraldi/land-of-the-free/#comments)
+
+[What Has Israel Done for Americans in the Past Week?](https://www.unz.com/pgiraldi/what-has-israel-done-for-americans-in-the-past-week/) • [135 Comments](https://www.unz.com/pgiraldi/what-has-israel-done-for-americans-in-the-past-week/#comments)
 
 P[Podcasts](https://www.unz.com/audio/channel/ghood/ "Blog View")[Gregory Hood / For an American Renaissance](https://www.unz.com/author/gregory-hood/ "Teaser Archive")
+
+[Joe Biden Gets Religion on Border Control](https://www.unz.com/ghood/joe-biden-gets-religion-on-border-control/) • [Leave a Comment](https://www.unz.com/ghood/joe-biden-gets-religion-on-border-control/#comments)
 
 [Now More Than Ever](https://www.unz.com/ghood/now-more-than-ever/) • [21 Comments](https://www.unz.com/ghood/now-more-than-ever/#comments)
 
@@ -424,7 +430,7 @@ P[B](https://www.unz.com/jfreud/ "Blog View")[Jung-Freud / Culturalism](https://
 
 P[B](https://www.unz.com/emargolis/ "Blog View")[Eric Margolis / War Reporter at the Top of the World](https://www.unz.com/author/eric-margolis/ "Teaser Archive")
 
-[Wild, Wonderful New York](https://www.unz.com/emargolis/wild-wonderful-new-york/) • [2 Comments](https://www.unz.com/emargolis/wild-wonderful-new-york/#comments)
+[Wild, Wonderful New York](https://www.unz.com/emargolis/wild-wonderful-new-york/) • [11 Comments](https://www.unz.com/emargolis/wild-wonderful-new-york/#comments)
 
 P[B](https://www.unz.com/imercer/ "Blog View")[Ilana Mercer / The Paleolibertarian Perspective](https://www.unz.com/author/ilana-mercer/ "Teaser Archive")
 
@@ -440,13 +446,13 @@ P[B](https://www.unz.com/trall/ "Blog View")[Ted Rall / A Cartoonist Sketches Am
 
 P[B](https://www.unz.com/proberts/ "Blog View")[Paul Craig Roberts / American Regime Defector](https://www.unz.com/author/paul-craig-roberts/ "Teaser Archive")
 
+[The Beginning of Accountability for the Death-dealing Covid “vaccine”?](https://www.unz.com/proberts/the-beginning-of-accountability-for-the-death-dealing-covid-vaccine/)
+
+[Excess Deaths Explode Following Covid Vaccination](https://www.unz.com/proberts/excess-deaths-explode-following-covid-vaccination/)
+
 [Patriotism Has Destroyed America](https://www.unz.com/proberts/patriotism-has-destroyed-america/)
 
 [Normalizing War with Russia](https://www.unz.com/proberts/normalizing-war-with-russia/)
-
-[Americans Are an Abused People](https://www.unz.com/proberts/americans-are-an-abused-people/)
-
-[The Death of Truth Is at Hand](https://www.unz.com/proberts/the-death-of-truth-is-at-hand/)
 
 P[B](https://www.unz.com/ishamir/ "Blog View")[Israel Shamir / The Russian-Israeli-Russian Perspective](https://www.unz.com/author/israel-shamir/ "Teaser Archive")
 
@@ -454,19 +460,19 @@ P[B](https://www.unz.com/ishamir/ "Blog View")[Israel Shamir / The Russian-Israe
 
 P[B](https://www.unz.com/estriker/ "Blog View")[Eric Striker / Striking for National Justice](https://www.unz.com/author/eric-striker/ "Teaser Archive")
 
-[Yahya Sinwar's Impossible Resolve](https://www.unz.com/estriker/yahya-sinwars-impossible-resolve/) • [2 Comments](https://www.unz.com/estriker/yahya-sinwars-impossible-resolve/#comments)
+[Yahya Sinwar's Impossible Resolve](https://www.unz.com/estriker/yahya-sinwars-impossible-resolve/) • [15 Comments](https://www.unz.com/estriker/yahya-sinwars-impossible-resolve/#comments)
 
 P[Podcasts](https://www.unz.com/audio/channel/jtaylor/ "Blog View")[Jared Taylor / Mr. White Advocacy](https://www.unz.com/author/jared-taylor/ "Teaser Archive")
 
-[Haiti Devours White Missionaries](https://www.unz.com/jtaylor/haiti-devours-white-missionaries/) • [68 Comments](https://www.unz.com/jtaylor/haiti-devours-white-missionaries/#comments)
+[Haiti Devours White Missionaries](https://www.unz.com/jtaylor/haiti-devours-white-missionaries/) • [69 Comments](https://www.unz.com/jtaylor/haiti-devours-white-missionaries/#comments)
 
 [Babysitting Baton Rouge](https://www.unz.com/audio/jtaylor_babysitting-baton-rouge/) • [7 Comments](https://www.unz.com/audio/jtaylor_babysitting-baton-rouge/#comments)
 
 P[B](https://www.unz.com/runz/ "Blog View")[Ron Unz / Editor-in-Chief](https://www.unz.com/author/ron-unz/ "Teaser Archive")
 
-[Should Vladimir Putin Call His Shot on a NATO Brushback Pitch?](https://www.unz.com/runz/should-vladimir-putin-call-his-shot-on-a-nato-brushback-pitch/) • [390 Comments](https://www.unz.com/runz/should-vladimir-putin-call-his-shot-on-a-nato-brushback-pitch/#comments)
+[Should Vladimir Putin Call His Shot on a NATO Brushback Pitch?](https://www.unz.com/runz/should-vladimir-putin-call-his-shot-on-a-nato-brushback-pitch/) • [410 Comments](https://www.unz.com/runz/should-vladimir-putin-call-his-shot-on-a-nato-brushback-pitch/#comments)
 
-[American Pravda: The True Origin of the Jews as Khazars, Israelites, or Canaanites](https://www.unz.com/runz/american-pravda-the-true-origin-of-the-jews-as-khazars-israelites-or-canaanites/) • [626 Comments](https://www.unz.com/runz/american-pravda-the-true-origin-of-the-jews-as-khazars-israelites-or-canaanites/#comments)
+[American Pravda: The True Origin of the Jews as Khazars, Israelites, or Canaanites](https://www.unz.com/runz/american-pravda-the-true-origin-of-the-jews-as-khazars-israelites-or-canaanites/) • [643 Comments](https://www.unz.com/runz/american-pravda-the-true-origin-of-the-jews-as-khazars-israelites-or-canaanites/#comments)
 
 [American Pravda: Rosencrantz and Guildenstern Are Dead in San Bernardino](https://www.unz.com/runz/american-pravda-rosencrantz-and-guildenstern-are-dead-in-san-bernardino/) • [281 Comments](https://www.unz.com/runz/american-pravda-rosencrantz-and-guildenstern-are-dead-in-san-bernardino/#comments)
 
@@ -474,11 +480,11 @@ P[B](https://www.unz.com/runz/ "Blog View")[Ron Unz / Editor-in-Chief](https://w
 
 P[B](https://www.unz.com/mwhitney/ "Blog View")[Mike Whitney / Economic CounterPuncher](https://www.unz.com/author/mike-whitney/ "Teaser Archive")
 
-[Every Escalation Brings Washington Closer to Defeat in Ukraine](https://www.unz.com/mwhitney/every-escalation-brings-washington-closer-to-defeat-in-ukraine/) • [218 Comments](https://www.unz.com/mwhitney/every-escalation-brings-washington-closer-to-defeat-in-ukraine/#comments)
+[Israel Prepares to Open a Second Front in the North](https://www.unz.com/mwhitney/israel-prepares-to-open-a-second-front-in-the-north/) • [59 Comments](https://www.unz.com/mwhitney/israel-prepares-to-open-a-second-front-in-the-north/#comments)
 
-[To Avoid Nuclear War, Putin Needs to be a Little Crazier](https://www.unz.com/mwhitney/to-avoid-nuclear-war-putin-needs-to-be-a-little-crazier/) • [275 Comments](https://www.unz.com/mwhitney/to-avoid-nuclear-war-putin-needs-to-be-a-little-crazier/#comments)
+[Every Escalation Brings Washington Closer to Defeat in Ukraine](https://www.unz.com/mwhitney/every-escalation-brings-washington-closer-to-defeat-in-ukraine/) • [263 Comments](https://www.unz.com/mwhitney/every-escalation-brings-washington-closer-to-defeat-in-ukraine/#comments)
 
-[Ukraine Will Return to Neutrality or Face Partition or Annihilation](https://www.unz.com/mwhitney/ukraine-will-return-to-neutrality-or-face-partition-or-annihilation/) • [183 Comments](https://www.unz.com/mwhitney/ukraine-will-return-to-neutrality-or-face-partition-or-annihilation/#comments)
+[To Avoid Nuclear War, Putin Needs to be a Little Crazier](https://www.unz.com/mwhitney/to-avoid-nuclear-war-putin-needs-to-be-a-little-crazier/) • [276 Comments](https://www.unz.com/mwhitney/to-avoid-nuclear-war-putin-needs-to-be-a-little-crazier/#comments)
 
 Archived Blogs and Columns
 
@@ -636,49 +642,49 @@ Bloggers
 
 [National IQ Trends Over the Decades](https://www.unz.com/isteve/national-iq-trends-over-the-decades/)
 
-June 6, 2024 • [44 Comments](https://www.unz.com/isteve/national-iq-trends-over-the-decades/#comments)
+June 6, 2024 • [165 Comments](https://www.unz.com/isteve/national-iq-trends-over-the-decades/#comments)
 
 [Like I Said, Ibram X. Kendi Is Not Very Bright](https://www.unz.com/isteve/like-i-said-ibram-x-kendi-is-not-very-bright/)
 
-June 5, 2024 • [243 Comments](https://www.unz.com/isteve/like-i-said-ibram-x-kendi-is-not-very-bright/#comments)
+June 5, 2024 • [321 Comments](https://www.unz.com/isteve/like-i-said-ibram-x-kendi-is-not-very-bright/#comments)
 
 [Contra Mundum Podcast](https://www.unz.com/isteve/conundrum-podcast/)
 
-June 4, 2024 • [113 Comments](https://www.unz.com/isteve/conundrum-podcast/#comments)
+June 4, 2024 • [126 Comments](https://www.unz.com/isteve/conundrum-podcast/#comments)
 
 [Minneapolis Professor Explains to Jurors Why Somalis Are Just Like 19th Century Norwegians](https://www.unz.com/isteve/minneapolis-professor-explains-to-jurors-why-somalis-are-just-like-19th-century-norwegians/)
 
-June 3, 2024 • [160 Comments](https://www.unz.com/isteve/minneapolis-professor-explains-to-jurors-why-somalis-are-just-like-19th-century-norwegians/#comments)
+June 3, 2024 • [167 Comments](https://www.unz.com/isteve/minneapolis-professor-explains-to-jurors-why-somalis-are-just-like-19th-century-norwegians/#comments)
 
 [None Dare Call It Racism](https://www.unz.com/isteve/none-dare-call-it-racism/)
 
-June 2, 2024 • [345 Comments](https://www.unz.com/isteve/none-dare-call-it-racism/#comments)
+June 2, 2024 • [347 Comments](https://www.unz.com/isteve/none-dare-call-it-racism/#comments)
 
 [Conundrum](https://www.unz.com/isteve/conundrum/)
 
-June 2, 2024 • [121 Comments](https://www.unz.com/isteve/conundrum/#comments)
+June 2, 2024 • [123 Comments](https://www.unz.com/isteve/conundrum/#comments)
 
 [Victims Subdue Islamist Knife Terrorist Until Cops Liberate Him. You'll Never Guess What Happens Next!](https://www.unz.com/isteve/victims-subdue-islamist-knife-terrorist-until-cops-liberate-him-youll-never-guess-what-happens-next/)
 
-May 31, 2024 • [374 Comments](https://www.unz.com/isteve/victims-subdue-islamist-knife-terrorist-until-cops-liberate-him-youll-never-guess-what-happens-next/#comments)
+May 31, 2024 • [385 Comments](https://www.unz.com/isteve/victims-subdue-islamist-knife-terrorist-until-cops-liberate-him-youll-never-guess-what-happens-next/#comments)
 
 [Not Getting the Joke](https://www.unz.com/isteve/not-getting-the-joke-2/)
 
-May 30, 2024 • [231 Comments](https://www.unz.com/isteve/not-getting-the-joke-2/#comments)
+May 30, 2024 • [241 Comments](https://www.unz.com/isteve/not-getting-the-joke-2/#comments)
 
 [Trump Declared Guilty](https://www.unz.com/isteve/trump-declared-guilty/)
 
-May 30, 2024 • [500 Comments](https://www.unz.com/isteve/trump-declared-guilty/#comments)
+May 30, 2024 • [528 Comments](https://www.unz.com/isteve/trump-declared-guilty/#comments)
 
 [T](https://www.unz.com/author/anatoly-karlin/ "Teaser Archives")[Russian Reaction Community](https://www.unz.com/akarlin/ "Blog View")
 
 [Open Thread 251](https://www.unz.com/akarlin/open-thread-251/)
 
-June 6, 2024 • [4 Comments](https://www.unz.com/akarlin/open-thread-251/#comments)
+June 6, 2024 • [49 Comments](https://www.unz.com/akarlin/open-thread-251/#comments)
 
 [Open Thread 250](https://www.unz.com/akarlin/open-thread-250/)
 
-May 27, 2024 • [732 Comments](https://www.unz.com/akarlin/open-thread-250/#comments)
+May 27, 2024 • [796 Comments](https://www.unz.com/akarlin/open-thread-250/#comments)
 
 [Open Thread 249](https://www.unz.com/akarlin/open-thread-249/)
 
@@ -702,69 +708,73 @@ Categories
 
 [T](https://www.unz.com/category/foreign-policy/ "Teaser Archive")[Foreign Policy Articles](https://www.unz.com/tcategory/foreign-policy/ "Summary Page")
 
+[Land of the Free?](https://www.unz.com/pgiraldi/land-of-the-free/)
+
+Philip Giraldi • [121 Comments](https://www.unz.com/pgiraldi/land-of-the-free/#comments)
+
 [USS Liberty Massacre: A Pivotal Moment in the Hostile Takeover of America](https://www.unz.com/kbarrett/uss-liberty-massacre-a-pivotal-moment-in-the-hostile-takeover-of-america/)
 
-Kevin Barrett • [7 Comments](https://www.unz.com/kbarrett/uss-liberty-massacre-a-pivotal-moment-in-the-hostile-takeover-of-america/#comments)
+Kevin Barrett • [35 Comments](https://www.unz.com/kbarrett/uss-liberty-massacre-a-pivotal-moment-in-the-hostile-takeover-of-america/#comments)
 
 [Yahya Sinwar's Impossible Resolve](https://www.unz.com/estriker/yahya-sinwars-impossible-resolve/)
 
-Eric Striker • [2 Comments](https://www.unz.com/estriker/yahya-sinwars-impossible-resolve/#comments)
+Eric Striker • [15 Comments](https://www.unz.com/estriker/yahya-sinwars-impossible-resolve/#comments)
+
+[Israel Prepares to Open a Second Front in the North](https://www.unz.com/mwhitney/israel-prepares-to-open-a-second-front-in-the-north/)
+
+Mike Whitney • [59 Comments](https://www.unz.com/mwhitney/israel-prepares-to-open-a-second-front-in-the-north/#comments)
+
+[Why Is It Open Season on Gaza Civilians?](https://www.unz.com/article/why-is-it-open-season-on-gaza-civilians/)
+
+Michael Hoffman • [2 Comments](https://www.unz.com/article/why-is-it-open-season-on-gaza-civilians/#comments)
 
 [House Passes Legislation Sanctioning “Illegitimate” ICC Over Bibi Arrest Warrant](https://www.unz.com/aanglin/house-passes-legislation-sanctioning-illegitimate-icc-over-bibi-arrest-warrant/)
 
-Andrew Anglin • [8 Comments](https://www.unz.com/aanglin/house-passes-legislation-sanctioning-illegitimate-icc-over-bibi-arrest-warrant/#comments)
-
-[Supporting Genocide to Halt Multipolarity](https://www.unz.com/pescobar/supporting-genocide-to-halt-multipolarity/)
-
-Pepe Escobar • [3 Comments](https://www.unz.com/pescobar/supporting-genocide-to-halt-multipolarity/#comments)
-
-[Every Escalation Brings Washington Closer to Defeat in Ukraine](https://www.unz.com/mwhitney/every-escalation-brings-washington-closer-to-defeat-in-ukraine/)
-
-Mike Whitney • [218 Comments](https://www.unz.com/mwhitney/every-escalation-brings-washington-closer-to-defeat-in-ukraine/#comments)
-
-[Brandon Won’t Go to Zelensky’s Fake “Peace Summit,” Sending Kamala](https://www.unz.com/aanglin/brandon-wont-go-to-zelenskys-fake-peace-summit-sending-kamala/)
-
-Andrew Anglin • [60 Comments](https://www.unz.com/aanglin/brandon-wont-go-to-zelenskys-fake-peace-summit-sending-kamala/#comments)
+Andrew Anglin • [14 Comments](https://www.unz.com/aanglin/house-passes-legislation-sanctioning-illegitimate-icc-over-bibi-arrest-warrant/#comments)
 
 [T](https://www.unz.com/category/history/ "Teaser Archive")[History Articles](https://www.unz.com/tcategory/history/ "Summary Page")
 
 [USS Liberty Massacre: A Pivotal Moment in the Hostile Takeover of America](https://www.unz.com/kbarrett/uss-liberty-massacre-a-pivotal-moment-in-the-hostile-takeover-of-america/)
 
-Kevin Barrett • [7 Comments](https://www.unz.com/kbarrett/uss-liberty-massacre-a-pivotal-moment-in-the-hostile-takeover-of-america/#comments)
+Kevin Barrett • [35 Comments](https://www.unz.com/kbarrett/uss-liberty-massacre-a-pivotal-moment-in-the-hostile-takeover-of-america/#comments)
 
 [Yahya Sinwar's Impossible Resolve](https://www.unz.com/estriker/yahya-sinwars-impossible-resolve/)
 
-Eric Striker • [2 Comments](https://www.unz.com/estriker/yahya-sinwars-impossible-resolve/#comments)
-
-[Supporting Genocide to Halt Multipolarity](https://www.unz.com/pescobar/supporting-genocide-to-halt-multipolarity/)
-
-Pepe Escobar • [3 Comments](https://www.unz.com/pescobar/supporting-genocide-to-halt-multipolarity/#comments)
-
-[Every Escalation Brings Washington Closer to Defeat in Ukraine](https://www.unz.com/mwhitney/every-escalation-brings-washington-closer-to-defeat-in-ukraine/)
-
-Mike Whitney • [218 Comments](https://www.unz.com/mwhitney/every-escalation-brings-washington-closer-to-defeat-in-ukraine/#comments)
+Eric Striker • [15 Comments](https://www.unz.com/estriker/yahya-sinwars-impossible-resolve/#comments)
 
 [My Political Evolution While _Searching for Truth in the Empire of Lies_](https://www.unz.com/article/my-political-evolution-while-searching-for-truth-in-the-empire-of-lies/)
 
-A.J. Smuskiewicz • [1 Comment](https://www.unz.com/article/my-political-evolution-while-searching-for-truth-in-the-empire-of-lies/#comments)
+A.J. Smuskiewicz • [4 Comments](https://www.unz.com/article/my-political-evolution-while-searching-for-truth-in-the-empire-of-lies/#comments)
 
-[Should Vladimir Putin Call His Shot on a NATO Brushback Pitch?](https://www.unz.com/runz/should-vladimir-putin-call-his-shot-on-a-nato-brushback-pitch/)
+[Volokh Conspiracy’s Ilya Somin Smears 1924 Immigration Act—for Contemptibly Selfish Reasons](https://www.unz.com/article/volokh-conspiracys-ilya-somin-smears-1924-immigration-act-for-contemptibly-selfish-reasons/)
 
-Ron Unz • [390 Comments](https://www.unz.com/runz/should-vladimir-putin-call-his-shot-on-a-nato-brushback-pitch/#comments)
+Patrick Cleburne • [4 Comments](https://www.unz.com/article/volokh-conspiracys-ilya-somin-smears-1924-immigration-act-for-contemptibly-selfish-reasons/#comments)
+
+[Supporting Genocide to Halt Multipolarity](https://www.unz.com/pescobar/supporting-genocide-to-halt-multipolarity/)
+
+Pepe Escobar • [11 Comments](https://www.unz.com/pescobar/supporting-genocide-to-halt-multipolarity/#comments)
+
+[Every Escalation Brings Washington Closer to Defeat in Ukraine](https://www.unz.com/mwhitney/every-escalation-brings-washington-closer-to-defeat-in-ukraine/)
+
+Mike Whitney • [263 Comments](https://www.unz.com/mwhitney/every-escalation-brings-washington-closer-to-defeat-in-ukraine/#comments)
 
 [T](https://www.unz.com/category/ideology/ "Teaser Archive")[Ideology Articles](https://www.unz.com/tcategory/ideology/ "Summary Page")
 
 [House Passes Legislation Sanctioning “Illegitimate” ICC Over Bibi Arrest Warrant](https://www.unz.com/aanglin/house-passes-legislation-sanctioning-illegitimate-icc-over-bibi-arrest-warrant/)
 
-Andrew Anglin • [8 Comments](https://www.unz.com/aanglin/house-passes-legislation-sanctioning-illegitimate-icc-over-bibi-arrest-warrant/#comments)
+Andrew Anglin • [14 Comments](https://www.unz.com/aanglin/house-passes-legislation-sanctioning-illegitimate-icc-over-bibi-arrest-warrant/#comments)
 
 [Blights on Whites: HBD, Headlines and the Violation of Western Norms](https://www.unz.com/article/blights-on-whites-hbd-headlines-and-the-violation-of-western-norms/)
 
-Tobias Langdon • [41 Comments](https://www.unz.com/article/blights-on-whites-hbd-headlines-and-the-violation-of-western-norms/#comments)
+Tobias Langdon • [71 Comments](https://www.unz.com/article/blights-on-whites-hbd-headlines-and-the-violation-of-western-norms/#comments)
 
 [My Political Evolution While _Searching for Truth in the Empire of Lies_](https://www.unz.com/article/my-political-evolution-while-searching-for-truth-in-the-empire-of-lies/)
 
-A.J. Smuskiewicz • [1 Comment](https://www.unz.com/article/my-political-evolution-while-searching-for-truth-in-the-empire-of-lies/#comments)
+A.J. Smuskiewicz • [4 Comments](https://www.unz.com/article/my-political-evolution-while-searching-for-truth-in-the-empire-of-lies/#comments)
+
+[Volokh Conspiracy’s Ilya Somin Smears 1924 Immigration Act—for Contemptibly Selfish Reasons](https://www.unz.com/article/volokh-conspiracys-ilya-somin-smears-1924-immigration-act-for-contemptibly-selfish-reasons/)
+
+Patrick Cleburne • [4 Comments](https://www.unz.com/article/volokh-conspiracys-ilya-somin-smears-1924-immigration-act-for-contemptibly-selfish-reasons/#comments)
 
 [Now More Than Ever](https://www.unz.com/ghood/now-more-than-ever/)
 
@@ -772,21 +782,17 @@ Gregory Hood • [21 Comments](https://www.unz.com/ghood/now-more-than-ever/#co
 
 [Protestantism, Jews and Wokeness](https://www.unz.com/article/protestantism-jews-and-wokeness/)
 
-Keith Woods • [223 Comments](https://www.unz.com/article/protestantism-jews-and-wokeness/#comments)
-
-[Jason Kessler's CHARLOTTESVILLE: The DEATH of FREE SPEECH](https://www.unz.com/article/jason-kesslers-charlottesville-the-death-of-free-speech/)
-
-F. Roger Devlin • [6 Comments](https://www.unz.com/article/jason-kesslers-charlottesville-the-death-of-free-speech/#comments)
+Keith Woods • [227 Comments](https://www.unz.com/article/protestantism-jews-and-wokeness/#comments)
 
 [T](https://www.unz.com/category/raceethnicity/ "Teaser Archive")[Race/Ethnicity Articles](https://www.unz.com/tcategory/raceethnicity/ "Summary Page")
 
 [Blights on Whites: HBD, Headlines and the Violation of Western Norms](https://www.unz.com/article/blights-on-whites-hbd-headlines-and-the-violation-of-western-norms/)
 
-Tobias Langdon • [41 Comments](https://www.unz.com/article/blights-on-whites-hbd-headlines-and-the-violation-of-western-norms/#comments)
+Tobias Langdon • [71 Comments](https://www.unz.com/article/blights-on-whites-hbd-headlines-and-the-violation-of-western-norms/#comments)
 
 [Haiti Devours White Missionaries](https://www.unz.com/jtaylor/haiti-devours-white-missionaries/)
 
-Jared Taylor • [68 Comments](https://www.unz.com/jtaylor/haiti-devours-white-missionaries/#comments)
+Jared Taylor • [69 Comments](https://www.unz.com/jtaylor/haiti-devours-white-missionaries/#comments)
 
 ["Noticing" by Steve Sailer](https://www.unz.com/article/noticing-by-steve-sailer/)
 
@@ -808,7 +814,7 @@ John Derbyshire • [275 Comments](https://www.unz.com/jderbyshire/swept-away-b
 
 [Blights on Whites: HBD, Headlines and the Violation of Western Norms](https://www.unz.com/article/blights-on-whites-hbd-headlines-and-the-violation-of-western-norms/)
 
-Tobias Langdon • [41 Comments](https://www.unz.com/article/blights-on-whites-hbd-headlines-and-the-violation-of-western-norms/#comments)
+Tobias Langdon • [71 Comments](https://www.unz.com/article/blights-on-whites-hbd-headlines-and-the-violation-of-western-norms/#comments)
 
 ["Noticing" by Steve Sailer](https://www.unz.com/article/noticing-by-steve-sailer/)
 
@@ -820,7 +826,7 @@ Mark Gullick • [10 Comments](https://www.unz.com/article/britains-technocrats
 
 [Protestantism, Jews and Wokeness](https://www.unz.com/article/protestantism-jews-and-wokeness/)
 
-Keith Woods • [223 Comments](https://www.unz.com/article/protestantism-jews-and-wokeness/#comments)
+Keith Woods • [227 Comments](https://www.unz.com/article/protestantism-jews-and-wokeness/#comments)
 
 [Eurovision: The Sham](https://www.unz.com/ishamir/eurovision-the-sham/)
 
@@ -864,7 +870,7 @@ Robert Stark • [6 Comments](https://www.unz.com/article/distributism-needs-a-
 
 [American Pravda: The True Origin of the Jews as Khazars, Israelites, or Canaanites](https://www.unz.com/runz/american-pravda-the-true-origin-of-the-jews-as-khazars-israelites-or-canaanites/)
 
-Ron Unz • [626 Comments](https://www.unz.com/runz/american-pravda-the-true-origin-of-the-jews-as-khazars-israelites-or-canaanites/#comments)
+Ron Unz • [643 Comments](https://www.unz.com/runz/american-pravda-the-true-origin-of-the-jews-as-khazars-israelites-or-canaanites/#comments)
 
 [Rushton Vindicated: Intelligent People Learn to Walk Later, Just as He Predicted](https://www.unz.com/article/rushton-vindicated-intelligent-people-learn-to-walk-later-just-as-he-predicted/)
 
@@ -880,7 +886,7 @@ Nelson Rosit • [14 Comments](https://www.unz.com/article/will-post-modernity-
 
 [Update on Covid Risks vs. Vaccine Risks](https://www.unz.com/article/covid-risks-vs-vaccine-risks/)
 
-Eugene Kusmiak • [185 Comments](https://www.unz.com/article/covid-risks-vs-vaccine-risks/#comments)
+Eugene Kusmiak • [186 Comments](https://www.unz.com/article/covid-risks-vs-vaccine-risks/#comments)
 
 [T](https://www.unz.com/category/arts-letters/ "Teaser Archive")[Arts/Letters Articles](https://www.unz.com/tcategory/arts-letters/ "Summary Page")
 
@@ -914,7 +920,7 @@ Series & Chronic Topics
 
 [American Pravda: The True Origin of the Jews as Khazars, Israelites, or Canaanites](https://www.unz.com/runz/american-pravda-the-true-origin-of-the-jews-as-khazars-israelites-or-canaanites/)
 
-Ron Unz • [626 Comments](https://www.unz.com/runz/american-pravda-the-true-origin-of-the-jews-as-khazars-israelites-or-canaanites/#comments)
+Ron Unz • [643 Comments](https://www.unz.com/runz/american-pravda-the-true-origin-of-the-jews-as-khazars-israelites-or-canaanites/#comments)
 
 [9/11 Articles](https://www.unz.com/topic/9-11/feature/)
 
@@ -924,9 +930,9 @@ Laurent Guyénot • [619 Comments](https://www.unz.com/article/911-was-an-isra
 
 [Race/IQ Articles](https://www.unz.com/topic/race-iq/feature/)
 
-[The IQ Gap Is No Longer a Black and White Issue](https://www.unz.com/article/the-iq-gap-is-no-longer-a-black-and-white-issue/)
+[White Racialism in America, Then and Now](https://www.unz.com/runz/white-racialism-in-america-then-and-now/)
 
-Chanda Chisala • [585 Comments](https://www.unz.com/article/the-iq-gap-is-no-longer-a-black-and-white-issue/?showcomments#comments)
+Ron Unz • [1,067 Comments](https://www.unz.com/runz/white-racialism-in-america-then-and-now/?showcomments#comments)
 
 [Race/Crime Articles](https://www.unz.com/topic/race-crime/feature/)
 
@@ -936,9 +942,9 @@ John Derbyshire • [176 Comments](https://www.unz.com/jderbyshire/the-talk-non
 
 [World War II Articles](https://www.unz.com/topic/world-war-ii/feature/)
 
-[Which Way White Man?](https://www.unz.com/article/which-way-white-man/)
+[The Saddest Story Never Told](https://www.unz.com/article/the-saddest-story-never-told/)
 
-Pierre Simon • [208 Comments](https://www.unz.com/article/which-way-white-man/#comments)
+Pierre Simon • [993 Comments](https://www.unz.com/article/the-saddest-story-never-told/?showcomments#comments)
 
 [Holocaust Articles](https://www.unz.com/topic/holocaust/feature/)
 
@@ -948,9 +954,9 @@ Ron Unz and Mike Whitney • [1,700 Comments](https://www.unz.com/runz/why-ever
 
 [JFK Assassination Articles](https://www.unz.com/topic/jfk-assassination/feature/)
 
-[Israeli Assassinations and Public Scrutiny](https://www.unz.com/runz/israeli-assassinations-and-public-scrutiny/)
+[USS Liberty Massacre: A Pivotal Moment in the Hostile Takeover of America](https://www.unz.com/kbarrett/uss-liberty-massacre-a-pivotal-moment-in-the-hostile-takeover-of-america/)
 
-Ron Unz • [324 Comments](https://www.unz.com/runz/israeli-assassinations-and-public-scrutiny/?showcomments#comments)
+Kevin Barrett • [35 Comments](https://www.unz.com/kbarrett/uss-liberty-massacre-a-pivotal-moment-in-the-hostile-takeover-of-america/#comments)
 
 [Moon Landing Hoax Articles](https://www.unz.com/topic/moon-landing-hoax/feature/)
 
@@ -984,37 +990,37 @@ Ron Unz • [429 Comments](https://www.unz.com/runz/american-pravda-why-the-med
 
 Most PopularComments One DayOne WeekOne MonthSix Months
 
+Tobias Langdon  
+[Blights on Whites: HBD, Headlines and the Violation of Western Norms](https://www.unz.com/article/blights-on-whites-hbd-headlines-and-the-violation-of-western-norms/)
+
+Patrick Lawrence  
+[Deaf and Blind: The Maladies of American Diplomats](https://www.unz.com/article/deaf-and-blind-the-maladies-of-american-diplomats/)
+
+Steve Sailer  
+[National IQ trends over the decades](https://www.unz.com/isteve/national-iq-trends-over-the-decades/)
+
 Mike Whitney  
 [Every Escalation Brings Washington Closer to Defeat in Ukraine](https://www.unz.com/mwhitney/every-escalation-brings-washington-closer-to-defeat-in-ukraine/)
 
-John Derbyshire  
-[Trump’s Verdict, Clinton’s Narcissism, And The Ruling Class’s “Wound That Will Not Heal”](https://www.unz.com/jderbyshire/trumps-verdict-clintons-narcissism-and-the-ruling-classs-wound-that-will-not-heal/)
+Andrew Anglin  
+[Poll: Majority of Young People in the UK Think Israel Shouldn’t Even Exist at All](https://www.unz.com/aanglin/poll-majority-of-young-people-in-the-uk-think-israel-shouldnt-even-exist-at-all/)
+
+  
+
+Andrew Anglin  
+[Bibi Says Jews Ready for “Very Strong Action” Against Lebanon](https://www.unz.com/aanglin/bibi-says-jews-ready-for-very-strong-action-against-lebanon/)
 
 Steve Sailer  
 [Like I said, Ibram X. Kendi is not very bright](https://www.unz.com/isteve/like-i-said-ibram-x-kendi-is-not-very-bright/)
 
-Andrew Anglin  
-[Watch: Alex Jones Breaks Down as He Reveals Eminent Fed Attack on Infowars](https://www.unz.com/aanglin/watch-alex-jones-breaks-down-as-he-reveals-eminent-fed-attack-on-infowars/)
+Kevin Barrett  
+[USS Liberty Massacre: A Pivotal Moment in the Hostile Takeover of America](https://www.unz.com/kbarrett/uss-liberty-massacre-a-pivotal-moment-in-the-hostile-takeover-of-america/)
 
-Alastair Crooke  
-[The coming Novus Ordo Seclorum – Change we must; there is no choice!](https://www.unz.com/article/the-coming-novus-ordo-seclorum-change-we-must-there-is-no-choice/)
+Pepe Escobar  
+[Supporting genocide to halt multipolarity](https://www.unz.com/pescobar/supporting-genocide-to-halt-multipolarity/)
 
-  
-
-Ron Unz  
-[Should Vladimir Putin Call His Shot on a NATO Brushback Pitch?](https://www.unz.com/runz/should-vladimir-putin-call-his-shot-on-a-nato-brushback-pitch/)
-
-Andrew Anglin  
-[KKK Antisemite Biden Tells Time Magazine Bibi is Prolonging the Gaza Slaughter for Political Gain](https://www.unz.com/aanglin/kkk-antisemite-biden-tells-time-magazine-bibi-is-prolonging-the-gaza-slaughter-for-political-gain/)
-
-Andrew Anglin  
-[Columbia University to Provide Special Police to Escort Every Jew Student Around Campus](https://www.unz.com/aanglin/columbia-university-to-provide-special-police-to-escort-every-jew-student-around-campus/)
-
-Mike Whitney  
-[To Avoid Nuclear War, Putin Needs to be a Little Crazier](https://www.unz.com/mwhitney/to-avoid-nuclear-war-putin-needs-to-be-a-little-crazier/)
-
-Paul Craig Roberts  
-[Americans Are an Abused People](https://www.unz.com/proberts/americans-are-an-abused-people/)
+Philip Giraldi  
+[Land of the Free?](https://www.unz.com/pgiraldi/land-of-the-free/)
 
   
 
@@ -1027,50 +1033,50 @@ Mike Whitney
 Andrew Anglin  
 [Don’t Vote for the Child-Murderer Donald Trump. Don’t Vote for Anyone.](https://www.unz.com/aanglin/dont-vote-for-the-child-murderer-donald-trump-dont-vote-for-anyone/)
 
+Mike Whitney  
+[Every Escalation Brings Washington Closer to Defeat in Ukraine](https://www.unz.com/mwhitney/every-escalation-brings-washington-closer-to-defeat-in-ukraine/)
+
 Keith Woods  
 [Protestantism, Jews and Wokeness](https://www.unz.com/article/protestantism-jews-and-wokeness/)
-
-Ron Unz  
-[American Pravda: The True Origin of the Jews as Khazars, Israelites, or Canaanites](https://www.unz.com/runz/american-pravda-the-true-origin-of-the-jews-as-khazars-israelites-or-canaanites/)
 
   
 
 Alastair Crooke  
 [The coming Novus Ordo Seclorum – Change we must; there is no choice!](https://www.unz.com/article/the-coming-novus-ordo-seclorum-change-we-must-there-is-no-choice/)
 
-Mike Whitney  
-[Ukraine Will Return to Neutrality or Face Partition or Annihilation](https://www.unz.com/mwhitney/ukraine-will-return-to-neutrality-or-face-partition-or-annihilation/)
+John Derbyshire  
+[Trump’s Verdict, Clinton’s Narcissism, And The Ruling Class’s “Wound That Will Not Heal”](https://www.unz.com/jderbyshire/trumps-verdict-clintons-narcissism-and-the-ruling-classs-wound-that-will-not-heal/)
 
-Philip Giraldi  
-[What has Israel done for Americans in the past week?](https://www.unz.com/pgiraldi/what-has-israel-done-for-americans-in-the-past-week/)
-
-Mike Whitney  
-[Every Escalation Brings Washington Closer to Defeat in Ukraine](https://www.unz.com/mwhitney/every-escalation-brings-washington-closer-to-defeat-in-ukraine/)
+Ron Unz  
+[American Pravda: The True Origin of the Jews as Khazars, Israelites, or Canaanites](https://www.unz.com/runz/american-pravda-the-true-origin-of-the-jews-as-khazars-israelites-or-canaanites/)
 
 Steve Sailer  
 [Victims subdue Islamist knife terrorist until cops liberate him. You'll never guess what happens next!](https://www.unz.com/isteve/victims-subdue-islamist-knife-terrorist-until-cops-liberate-him-youll-never-guess-what-happens-next/)
 
-  
+Jonathan Cook  
+[To continue the Gaza genocide, Israel and the US must destroy the laws of war](https://www.unz.com/jcook/to-continue-the-gaza-genocide-israel-and-the-us-must-destroy-the-laws-of-war/)
 
-Pierre Simon  
-[The Saddest Story Never Told](https://www.unz.com/article/the-saddest-story-never-told/)
+  
 
 Ron Unz  
 [American Pravda: The True Origin of the Jews as Khazars, Israelites, or Canaanites](https://www.unz.com/runz/american-pravda-the-true-origin-of-the-jews-as-khazars-israelites-or-canaanites/)
 
 Pierre Simon  
-[The Jewish Plot to Enslave Humanity](https://www.unz.com/article/the-jewish-plot-to-enslave-humanity/)
+[The Saddest Story Never Told](https://www.unz.com/article/the-saddest-story-never-told/)
 
-Ron Unz  
-[Israel/Gaza: The Masks Come Off in American Society](https://www.unz.com/runz/israel-gaza-the-masks-come-off-in-american-society/)
+Pierre Simon  
+[The Jewish Plot to Enslave Humanity](https://www.unz.com/article/the-jewish-plot-to-enslave-humanity/)
 
 Pepe Escobar  
 [Russia and China have had enough](https://www.unz.com/pescobar/russia-and-china-have-had-enough/)
 
+Ron Unz  
+[American Pravda: Rosencrantz and Guildenstern are Dead in San Bernardino](https://www.unz.com/runz/american-pravda-rosencrantz-and-guildenstern-are-dead-in-san-bernardino/)
+
   
 
 Ron Unz  
-[American Pravda: Rosencrantz and Guildenstern are Dead in San Bernardino](https://www.unz.com/runz/american-pravda-rosencrantz-and-guildenstern-are-dead-in-san-bernardino/)
+[Israel/Gaza: The Masks Come Off in American Society](https://www.unz.com/runz/israel-gaza-the-masks-come-off-in-american-society/)
 
 Pepe Escobar  
 [De-Dollarization Bombshell](https://www.unz.com/pescobar/de-dollarization-bombshell/)
@@ -1078,11 +1084,11 @@ Pepe Escobar
 John Derbyshire  
 [Swept Away By Eva Vlaardingerbroek—And Samuel Huntington](https://www.unz.com/jderbyshire/swept-away-by-eva-vlaardingerbroek-and-samuel-huntington/)
 
+Ron Unz  
+[Should Vladimir Putin Call His Shot on a NATO Brushback Pitch?](https://www.unz.com/runz/should-vladimir-putin-call-his-shot-on-a-nato-brushback-pitch/)
+
 Kevin Barrett  
 [Raisi Martyred (by Zionists)](https://www.unz.com/kbarrett/raisi-martyred-by-zionists/)
-
-Ron Unz  
-[American Pravda: Gaza Protests and the Legend of the Tiananmen Square Massacre](https://www.unz.com/runz/american-pravda-gaza-protests-and-the-legend-of-the-tiananmen-square-massacre/)
 
   
 
@@ -1121,70 +1127,70 @@ E. Michael Jones
   
 
 Steve Sailer  
+[National IQ trends over the decades](https://www.unz.com/isteve/national-iq-trends-over-the-decades/)
+
+Philip Giraldi  
+[Land of the Free?](https://www.unz.com/pgiraldi/land-of-the-free/)
+
+Steve Sailer  
 [Like I said, Ibram X. Kendi is not very bright](https://www.unz.com/isteve/like-i-said-ibram-x-kendi-is-not-very-bright/)
+
+Karlin Community  
+[Open Thread 250](https://www.unz.com/akarlin/open-thread-250/)
 
 Mike Whitney  
 [Every Escalation Brings Washington Closer to Defeat in Ukraine](https://www.unz.com/mwhitney/every-escalation-brings-washington-closer-to-defeat-in-ukraine/)
 
-John Derbyshire  
-[Trump’s Verdict, Clinton’s Narcissism, And The Ruling Class’s “Wound That Will Not Heal”](https://www.unz.com/jderbyshire/trumps-verdict-clintons-narcissism-and-the-ruling-classs-wound-that-will-not-heal/)
-
-Karlin Community  
-[Open Thread 250](https://www.unz.com/akarlin/open-thread-250/)
-
-Andrew Anglin  
-[Columbia University to Provide Special Police to Escort Every Jew Student Around Campus](https://www.unz.com/aanglin/columbia-university-to-provide-special-police-to-escort-every-jew-student-around-campus/)
-
   
 
-Steve Sailer  
-[National IQ trends over the decades](https://www.unz.com/isteve/national-iq-trends-over-the-decades/)
+Mike Whitney  
+[Israel Prepares to Open a Second Front in the North](https://www.unz.com/mwhitney/israel-prepares-to-open-a-second-front-in-the-north/)
 
-Patrick Lawrence  
-[Deaf and Blind: The Maladies of American Diplomats](https://www.unz.com/article/deaf-and-blind-the-maladies-of-american-diplomats/)
-
-Ron Unz  
-[Should Vladimir Putin Call His Shot on a NATO Brushback Pitch?](https://www.unz.com/runz/should-vladimir-putin-call-his-shot-on-a-nato-brushback-pitch/)
+Andrew Anglin  
+[Poll: Majority of Young People in the UK Think Israel Shouldn’t Even Exist at All](https://www.unz.com/aanglin/poll-majority-of-young-people-in-the-uk-think-israel-shouldnt-even-exist-at-all/)
 
 Tobias Langdon  
 [Blights on Whites: HBD, Headlines and the Violation of Western Norms](https://www.unz.com/article/blights-on-whites-hbd-headlines-and-the-violation-of-western-norms/)
 
-Alastair Crooke  
-[The coming Novus Ordo Seclorum – Change we must; there is no choice!](https://www.unz.com/article/the-coming-novus-ordo-seclorum-change-we-must-there-is-no-choice/)
+Patrick Lawrence  
+[Deaf and Blind: The Maladies of American Diplomats](https://www.unz.com/article/deaf-and-blind-the-maladies-of-american-diplomats/)
+
+Karlin Community  
+[Open Thread 251](https://www.unz.com/akarlin/open-thread-251/)
 
   
 
 Karlin Community  
 [Open Thread 250](https://www.unz.com/akarlin/open-thread-250/)
 
-Steve Sailer  
-[Trump declared guilty](https://www.unz.com/isteve/trump-declared-guilty/)
+Ron Unz  
+[Should Vladimir Putin Call His Shot on a NATO Brushback Pitch?](https://www.unz.com/runz/should-vladimir-putin-call-his-shot-on-a-nato-brushback-pitch/)
 
 Andrew Anglin  
 [Don’t Vote for the Child-Murderer Donald Trump. Don’t Vote for Anyone.](https://www.unz.com/aanglin/dont-vote-for-the-child-murderer-donald-trump-dont-vote-for-anyone/)
 
-Ron Unz  
-[Should Vladimir Putin Call His Shot on a NATO Brushback Pitch?](https://www.unz.com/runz/should-vladimir-putin-call-his-shot-on-a-nato-brushback-pitch/)
-
 Steve Sailer  
 [Victims subdue Islamist knife terrorist until cops liberate him. You'll never guess what happens next!](https://www.unz.com/isteve/victims-subdue-islamist-knife-terrorist-until-cops-liberate-him-youll-never-guess-what-happens-next/)
-
-  
 
 Steve Sailer  
 [None Dare Call It Racism](https://www.unz.com/isteve/none-dare-call-it-racism/)
 
-Mike Whitney  
-[To Avoid Nuclear War, Putin Needs to be a Little Crazier](https://www.unz.com/mwhitney/to-avoid-nuclear-war-putin-needs-to-be-a-little-crazier/)
+  
 
-Ron Unz  
-[American Pravda: The True Origin of the Jews as Khazars, Israelites, or Canaanites](https://www.unz.com/runz/american-pravda-the-true-origin-of-the-jews-as-khazars-israelites-or-canaanites/)
+Steve Sailer  
+[Trump declared guilty](https://www.unz.com/isteve/trump-declared-guilty/)
 
 Steve Sailer  
 [Like I said, Ibram X. Kendi is not very bright](https://www.unz.com/isteve/like-i-said-ibram-x-kendi-is-not-very-bright/)
 
-Steve Sailer  
-[Not getting the joke](https://www.unz.com/isteve/not-getting-the-joke-2/)
+Mike Whitney  
+[To Avoid Nuclear War, Putin Needs to be a Little Crazier](https://www.unz.com/mwhitney/to-avoid-nuclear-war-putin-needs-to-be-a-little-crazier/)
+
+Mike Whitney  
+[Every Escalation Brings Washington Closer to Defeat in Ukraine](https://www.unz.com/mwhitney/every-escalation-brings-washington-closer-to-defeat-in-ukraine/)
+
+Keith Woods  
+[Protestantism, Jews and Wokeness](https://www.unz.com/article/protestantism-jews-and-wokeness/)
 
   
 
@@ -1200,13 +1206,10 @@ Karlin Community
 Ron Unz  
 [American Pravda: The True Origin of the Jews as Khazars, Israelites, or Canaanites](https://www.unz.com/runz/american-pravda-the-true-origin-of-the-jews-as-khazars-israelites-or-canaanites/)
 
-Karlin Community  
-[Open Thread 248](https://www.unz.com/akarlin/open-thread-248/)
-
-  
-
 Steve Sailer  
 [Jewish violence at UCLA](https://www.unz.com/isteve/jewish-violence-at-ucla/)
+
+  
 
 Steve Sailer  
 [UCLA Medical School's DEI admissions push is letting in incompetents](https://www.unz.com/isteve/ucla-medical-schools-dei-admissions-push-are-letting-in-incompetents/)
@@ -1214,11 +1217,14 @@ Steve Sailer
 Steve Sailer  
 [Trump declared guilty](https://www.unz.com/isteve/trump-declared-guilty/)
 
+Karlin Community  
+[Open Thread 248](https://www.unz.com/akarlin/open-thread-248/)
+
 Steve Sailer  
 [Bill Walton, RIP](https://www.unz.com/isteve/bill-walton-rip/)
 
-Kevin Barrett  
-[Raisi Martyred (by Zionists)](https://www.unz.com/kbarrett/raisi-martyred-by-zionists/)
+Ron Unz  
+[Should Vladimir Putin Call His Shot on a NATO Brushback Pitch?](https://www.unz.com/runz/should-vladimir-putin-call-his-shot-on-a-nato-brushback-pitch/)
 
   
 
