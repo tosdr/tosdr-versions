@@ -1,4 +1,4 @@
-[![](https://assets-global.website-files.com/5ffc384cb3a51a7b1c2d57ad/6239f62a33bc35909f6f9a87_rspace_logo_white.svg)](https://www.researchspace.com/)
+[![](https://cdn.prod.website-files.com/5ffc384cb3a51a7b1c2d57ad/6239f62a33bc35909f6f9a87_rspace_logo_white.svg)](https://www.researchspace.com/)
 
 Our product
 
@@ -160,11 +160,11 @@ Contact
 
 Have questions or concerns about RSpace, our Services and privacy? Contact us at [info@researchspace.com](mailto:info@researchspace.com).
 
-[![](https://assets-global.website-files.com/5ffc384cb3a51a7b1c2d57ad/6239f62a33bc35909f6f9a87_rspace_logo_white.svg)](https://www.researchspace.com/)
+[![](https://cdn.prod.website-files.com/5ffc384cb3a51a7b1c2d57ad/6239f62a33bc35909f6f9a87_rspace_logo_white.svg)](https://www.researchspace.com/)
 
-[![](https://assets-global.website-files.com/5ffc384cb3a51a7b1c2d57ad/62cc1399903d3470e02603a2_iconmonstr-twitter-3.svg)](https://twitter.com/TheConnectedLab)[![](https://assets-global.website-files.com/5ffc384cb3a51a7b1c2d57ad/62cc139ae819846cb3c9bf87_iconmonstr-youtube-8.svg)](https://www.youtube.com/c/Researchspace/featured)
+[![](https://cdn.prod.website-files.com/5ffc384cb3a51a7b1c2d57ad/62cc1399903d3470e02603a2_iconmonstr-twitter-3.svg)](https://twitter.com/TheConnectedLab)[![](https://cdn.prod.website-files.com/5ffc384cb3a51a7b1c2d57ad/62cc139ae819846cb3c9bf87_iconmonstr-youtube-8.svg)](https://www.youtube.com/c/Researchspace/featured)
 
-[![](https://assets-global.website-files.com/5ffc384cb3a51a7b1c2d57ad/6470abbec22911c855a839a2_SOC_cert.svg)
+[![](https://cdn.prod.website-files.com/5ffc384cb3a51a7b1c2d57ad/6470abbec22911c855a839a2_SOC_cert.svg)
 
 SOC 2 Type II Compliant](https://www.aicpa-cima.com/resources/download/get-description-criteria-for-your-organizations-soc-2-r-report)
 
