@@ -134,8 +134,8 @@
     
     * [United States](https://flightsim.to/by-country/US/)
     * [France](https://flightsim.to/by-country/FR/)
-    * [Germany](https://flightsim.to/by-country/DE/)
     * [United Kingdom](https://flightsim.to/by-country/GB/)
+    * [Germany](https://flightsim.to/by-country/DE/)
     * [Italy](https://flightsim.to/by-country/IT/)
     * [Australia](https://flightsim.to/by-country/AU/)
     * [Canada](https://flightsim.to/by-country/CA/)
