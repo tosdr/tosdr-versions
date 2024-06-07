@@ -174,17 +174,17 @@ By Theme
 
 Latest Real Weddings
 
-[![Kuvam and Naman](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
+[![Swastika and Karan](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
 
-![Kuvam and Naman](https://image.wedmegood.com/resized/250X/uploads/images/4a30b530f4cb47eca575346b0b280176realwedding/NAKU-4482Large.jpeg?crop=124,133,1013,569)
+![Swastika and Karan](https://image.wedmegood.com/resized/250X/uploads/images/e1a1344cd8f94b5c922bdf4a0b449cdfrealwedding/Image-3.jpg?crop=58,188,1626,914)
 
-Kuvam and Naman (Goa)](https://www.wedmegood.com/real_wedding/detail/kuvam-and-naman-goa-cross-culture-wedding-4303)
+Swastika and Karan (Karnal)](https://www.wedmegood.com/real_wedding/detail/swastika-and-karan-karnal-wedding-4310)
 
-[![Madhuri and Adithya](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
+[![Yasmin and Karan](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
 
-![Madhuri and Adithya](https://image.wedmegood.com/resized/250X/uploads/images/5be234b74eb64eb8bc3339337920ccc6realwedding/ARP06343_websize.jpg?crop=107,192,848,477)
+![Yasmin and Karan](https://image.wedmegood.com/resized/250X/uploads/images/a38526d81ffc47a59fd911f94ea67845realwedding/YasminSethi,KaranShrikent,hiraayabyaayushi,seasidesunsetwedding,kinocottage,bestweddingphotograhermumbai-60.jpg?crop=264,277,1588,893)
 
-Madhuri and Adithya (Hyderabad)](https://www.wedmegood.com/real_wedding/detail/madhuri-and-adithya-hyderabad-telugu-wedding-4301)
+Yasmin and Karan (Mumbai)](https://www.wedmegood.com/real_wedding/detail/yasmin-and-karan-mumbai-cross-culture-wedding-4304)
 
 Browse by Category
 
