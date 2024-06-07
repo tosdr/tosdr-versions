@@ -27,6 +27,7 @@
     * [Knives](https://shop.navysealmuseum.org/survival-tactical/knives-multi-tools/)
     * [Multi-Tools](https://shop.navysealmuseum.org/survival-tactical/multi-tools/)
     * [Combo/Gift Sets](https://shop.navysealmuseum.org/knives-multi-tools/combo-gift-sets/)
+    * [Backpacks and Totes](https://shop.navysealmuseum.org/backpacks_and_totes)
 * [Gifts](https://shop.navysealmuseum.org/gifts/)
     * [Children's](https://shop.navysealmuseum.org/childrens/)
         * [Apparel](https://shop.navysealmuseum.org/childrens/apparel/)
@@ -39,6 +40,7 @@
         * [Stickers](https://shop.navysealmuseum.org/stickers/)
         * [Gifts](https://shop.navysealmuseum.org/gifts-sets/)
         * [Lighters](https://shop.navysealmuseum.org/collectables/new-category/)
+* [Hats](https://shop.navysealmuseum.org/apparel/accessories/headwear/hats/)
 
 * [](https://shop.navysealmuseum.org/account.php)
     * [Sign in](https://shop.navysealmuseum.org/login.php)
@@ -79,6 +81,7 @@ Search
     * [Knives](https://shop.navysealmuseum.org/survival-tactical/knives-multi-tools/)
     * [Multi-Tools](https://shop.navysealmuseum.org/survival-tactical/multi-tools/)
     * [Combo/Gift Sets](https://shop.navysealmuseum.org/knives-multi-tools/combo-gift-sets/)
+    * [Backpacks and Totes](https://shop.navysealmuseum.org/backpacks_and_totes)
 * [Gifts](https://shop.navysealmuseum.org/gifts/)
     * [Children's](https://shop.navysealmuseum.org/childrens/)
         * [Apparel](https://shop.navysealmuseum.org/childrens/apparel/)
@@ -91,6 +94,7 @@ Search
         * [Stickers](https://shop.navysealmuseum.org/stickers/)
         * [Gifts](https://shop.navysealmuseum.org/gifts-sets/)
         * [Lighters](https://shop.navysealmuseum.org/collectables/new-category/)
+* [Hats](https://shop.navysealmuseum.org/apparel/accessories/headwear/hats/)
 
 ##### Quick Links
 
@@ -182,6 +186,7 @@ Fort Pierce, FL 34949
 * [Home & Office](https://shop.navysealmuseum.org/home-decor/)
 * [Survival & Tactical](https://shop.navysealmuseum.org/survival-tactical-accessories/)
 * [Gifts](https://shop.navysealmuseum.org/gifts/)
+* [Hats](https://shop.navysealmuseum.org/apparel/accessories/headwear/hats/)
 * [View All](https://shop.navysealmuseum.org/categories)
 
 ##### Connect With Us
