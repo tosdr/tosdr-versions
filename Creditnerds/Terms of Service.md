@@ -287,6 +287,18 @@ PARAGOULD, AR 72450
 Check Out Our Blog
 ------------------
 
+[![A semi-realistic cartoony style image of a person wearing glasses, looking at a calendar with important dates circled. The character is holding a document labeled 'Grace Period' and seems thoughtful, indicating they are considering the time allowed for payment. The background includes subtle office elements like a desk, computer, and bookshelf, with bright and engaging colors making the image visually appealing.](https://creditnerds.com/wp-content/uploads/2024/06/Grace-Period-30x30.webp)](https://creditnerds.com/what-is-a-grace-period/)
+
+[Credit](https://creditnerds.com/category/credit/)
+
+June 6, 2024
+
+#### [What is a Grace Period?](https://creditnerds.com/what-is-a-grace-period/)
+
+A grace period allows you to avoid interest or fees on borrowed money for a specified time. Grace periods differ by lender and loan type, but understanding them can save you money. Here’s what you need to know about periods. How Does a Grace Period Work? Lenders often provide grace periods, although they are not …
+
+[Read More](https://creditnerds.com/what-is-a-grace-period/)
+
 [![A semi-realistic cartoony image of a worried character wearing glasses, looking at their credit card with a shocked expression. The background includes subtle hints of hacking elements like binary codes and warning symbols. The character is in a home setting with a laptop open on a desk, displaying a warning message on the screen, reflecting the theme of credit card hacking.](https://creditnerds.com/wp-content/uploads/2024/06/Card-Fraud-30x30.webp)](https://creditnerds.com/11-signs-your-credit-card-has-been-hacked/)
 
 [Credit](https://creditnerds.com/category/credit/)
@@ -382,18 +394,6 @@ May 20, 2024
 Credit card fraud was the most common type of identity theft in 2023, according to the Federal Trade Commission (FTC). With digital storage and transmission of information, hackers can use your credit card without physically stealing it. In fact, fraud on existing credit cards increased by 14% last year, reports the FTC. It's crucial to …
 
 [Read More](https://creditnerds.com/staying-vigilant-11-signs-your-credit-card-has-been-hacked/)
-
-[![A semi-realistic cartoon-style illustration of a confused person with glasses sitting at a desk, looking at a credit report on a computer screen displaying an alert symbol and the text "Incorrect SSN". The character is holding a document with a highlighted Social Security Number. Around them are icons like a magnifying glass, a question mark, and an exclamation mark, symbolizing investigation and confusion. The character is dressed in casual attire. The background shows a simple home office with a bulletin board and a window showing a neutral sky, emphasizing the seriousness of the situation.](https://creditnerds.com/wp-content/uploads/2024/05/Incorrect-SSN-30x30.webp)](https://creditnerds.com/understanding-incorrect-social-security-numbers-on-your-credit-report/)
-
-[Credit](https://creditnerds.com/category/credit/)
-
-May 17, 2024
-
-#### [Understanding Incorrect Social Security Numbers on Your Credit Report](https://creditnerds.com/understanding-incorrect-social-security-numbers-on-your-credit-report/)
-
-When you apply for a new credit account or update your personal information on an existing one, the creditor typically sends this information to the three major credit bureaus: TransUnion, Equifax, and Experian. This process is how your Social Security Number (SSN), whether correct or incorrect, gets included in your credit reports. Why Might an …
-
-[Read More](https://creditnerds.com/understanding-incorrect-social-security-numbers-on-your-credit-report/)
 
 ![](https://creditnerds.com/wp-content/uploads/2023/12/small-logo-white-30x30.png)
 
