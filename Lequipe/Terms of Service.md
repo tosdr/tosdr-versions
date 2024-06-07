@@ -475,163 +475,165 @@ Les commentaires ont été désactivés.
 
 filtrer : tous les sports
 
-[17:50
+[12:16
 
 Rugby,
 
-Bleus
+Top 14
 
-Nouchi et Attissogbe, les nouvelles pépites de Galthié ?](https://www.lequipe.fr/Rugby/Article/Lenni-nouchi-et-theo-attissogbe-les-nouvelles-pepites-appelees-pour-la-tournee/1472771 "Nouchi et Attissogbe, les nouvelles pépites de Galthié ?")
+Castres veut encore y croire pour la qualification](https://www.lequipe.fr/Rugby/Article/Top-14-on-a-une-petite-opportunite-castres-veut-encore-y-croire-pour-la-qualification/1472972 "Castres veut encore y croire pour la qualification")
 
-[17:37
-
-Roland-Garros (M)
-
-Roger-Vasselin : «J'espère que j'ai marqué des points»](https://www.lequipe.fr/Tennis/Actualites/Edouard-roger-vasselin-vainqueur-de-roland-garros-en-double-mixte-j-espere-que-j-ai-marque-des-points/1472906 "Roger-Vasselin : «J'espère que j'ai marqué des points»")
-
-[17:33
-
-Médias
-
-TF1 recrute Parlakou pour Téléfoot](https://www.lequipe.fr/Medias/Actualites/Tf1-recrute-severine-parlakou-pour-telefoot/1472902 "TF1 recrute Parlakou pour Téléfoot")
-
-[17:33
-
-Foot,
-
-Top 30 des jeunes (3/3)
-
-And the winner is....](https://www.lequipe.fr/Football/Article/Top-30-des-jeunes-10e-1er-lamine-yamal-nouveau-roi-quatre-francais-dans-le-top-10/1472295 "And the winner is....")
-
-[17:30
-
-JO 2024,
-
-Basket 3x3
-
-Blessé, Vialaret forfait avec les Bleus](https://www.lequipe.fr/Jo-2024-paris/Basket-3x3/Actualites/Alex-vialaret-declare-forfait-pour-les-jeux-olympiques/1472901 "Blessé, Vialaret forfait avec les Bleus")
-
-[17:27
+[12:15
 
 Rugby,
 
-Pro D2
+Podcast
 
-Optimisme pour le maintien de Biarritz](https://www.lequipe.fr/Rugby/Actualites/Optimisme-pour-le-maintien-de-biarritz-en-pro-d2/1472900 "Optimisme pour le maintien de Biarritz")
+Vannes-Grenoble : deux destins pour une place en Top 14](https://www.lequipe.fr/collection/podcasts/serie/crunch/ "Vannes-Grenoble : deux destins pour une place en Top 14")
 
-[17:15
+[12:12
 
-JO 2024,
+Rugby
 
-Beach volley
+Des initiations à l'assaut des terrains oubliés](https://www.lequipe.fr/Rugby/Actualites/Au-tournoi-national-des-quartiers-et-campagnes-le-rugby-a-l-assaut-des-terrains-oublies/1473079 "Des initiations à l'assaut des terrains oubliés")
 
-Budinger, de la NBA aux Jeux de Paris](https://www.lequipe.fr/Beach-volley/Article/Chase-budinger-de-la-nba-aux-jo-de-paris-en-beach-volley/1472873 "Budinger, de la NBA aux Jeux de Paris")
+[12:00
 
-[17:09
+Le Magazine,
+
+Foot
+
+Entre les Bleus et la mode, une relation contrastée](https://www.lequipe.fr/Football/Article/Entre-l-equipe-de-france-de-foot-et-le-monde-de-la-mode-une-relation-contrastee/1472805 "Entre les Bleus et la mode, une relation contrastée")
+
+[11:58
+
+Tennis,
+
+Justice
+
+Le procès de Zverev conclu sur un accord à l'amiable](https://www.lequipe.fr/Tennis/Actualites/Le-proces-d-alexander-zverev-pour-violences-conjugales-se-conclut-sur-un-accord-a-l-amiable/1473075 "Le procès de Zverev conclu sur un accord à l'amiable")
+
+[11:57
 
 Foot,
-
-Euro,
 
 Angleterre
 
-Curtis Jones quitte à son tour le rassemblement](https://www.lequipe.fr/Football/Actualites/Apres-maddison-curtis-jones-quitte-a-son-tour-la-selection-anglaise-et-ne-disputera-pas-l-euro/1472895 "Curtis Jones quitte à son tour le rassemblement")
+Adarabioyo (Fulham) signe à Chelsea](https://www.lequipe.fr/Football/Actualites/Tosin-adarabioyo-signe-librement-a-chelsea/1473074 "Adarabioyo (Fulham) signe à Chelsea")
 
-[17:07
+[11:31
 
-Foot,
+Spécial transferts
 
-Qualif. CM 2026
+La défense brestoise, C1 chantier](https://www.lequipe.fr/Football/Article/A-brest-le-premier-chantier-du-mercato-concerne-la-defense-centrale/1472910 "La défense brestoise, C1 chantier")
 
-Doublé de Lee Kang-in (PSG) avec la Corée du Sud](https://www.lequipe.fr/Football/Actualites/Lee-kang-in-psg-auteur-d-un-double-avec-la-coree-du-sud-contre-singapour/1472893 "Doublé de Lee Kang-in (PSG) avec la Corée du Sud")
+[11:30
 
-[17:05
+Tennis de table,
 
-Foot,
+WTT
 
-PSG
+Entrée réussie pour Alexis Lebrun à Zagreb](https://www.lequipe.fr/Tennis-de-table/Actualites/Mise-en-jambes-reussie-pour-alexis-lebrun-au-wtt-contender-de-zagreb/1473068 "Entrée réussie pour Alexis Lebrun à Zagreb")
 
-Safonov, plus qu'un «simple» transferts](https://www.lequipe.fr/Football/Article/Safonov-de-la-russie-vers-le-psg-plus-qu-un-simple-transfert/1472803 "Safonov, plus qu'un «simple» transferts")
+[11:30
 
-[17:02
+JO 2024,
 
-Cyclisme,
+Ecologie
 
-Dauphiné
+Le COJOP en infraction sur la distribution de bouteilles en plastique ?](https://www.lequipe.fr/Jo-2024-paris/Tous-sports/Actualites/Bouteilles-en-plastique-pour-les-athletes-le-cojop-est-il-en-infraction-avec-la-loi-agec/1472999 "Le COJOP en infraction sur la distribution de bouteilles en plastique ?")
 
-Le Berre : «La meilleure décision à prendre»](https://www.lequipe.fr/Cyclisme-sur-route/Actualites/Mathis-le-berre-apres-la-neutralisation-de-la-5e-etape-du-dauphine-la-meilleure-decision-a-prendre/1472889 "Le Berre : «La meilleure décision à prendre»")
+[11:17
 
-[17:00
+Roland-Garros,
 
-Roland-Garros (F)
+L'oeil de Mats
 
-Swiatek, impitoyable face à Gauff, file en finale](https://www.lequipe.fr/Tennis/Actualites/Iga-swiatek-impitoyable-face-a-coco-gauff-file-en-finale-de-roland-garros/1472886 "Swiatek, impitoyable face à Gauff, file en finale")
+Alcaraz, Sinner et le sens de l'anticipation](https://www.lequipe.fr/Tennis/Article/L-oeil-de-mats-wilander-sur-la-demi-finale-alcaraz-sinner-ce-qui-me-bluffe-c-est-leur-sens-de-l-anticipation/1472986 "Alcaraz, Sinner et le sens de l'anticipation")
 
-[16:59
+[11:15
 
-Roland-Garros (F)
+Tennis,
 
-Andreeva, un hiver à Boulogne-Billancourt](https://www.lequipe.fr/Tennis/Article/Mirra-andreeva-un-hiver-a-boulogne-billancourt-avant-roland-garros/1472456 "Andreeva, un hiver à Boulogne-Billancourt")
+Podcast
 
-[16:58
+Alcaraz-Sinner, le choc qui ne déçoit jamais](https://www.lequipe.fr/Tennis/Actualites/Podcast-balle-neuve-pourquoi-vous-ne-pouvez-pas-manquer-alcaraz-sinner/1472948 "Alcaraz-Sinner, le choc qui ne déçoit jamais")
 
-Judo,
-
-spécial L'Équipe
-
-Découvrez la préparation de Clarisse Agbegnenou](https://bit.ly/3Ktqsie "Découvrez la préparation de Clarisse Agbegnenou")
-
-[16:39
-
-Basket,
-
-NBA,
-
-Dallas
-
-Irving : «Il n'y a aucune peur»](https://www.lequipe.fr/Basket/Actualites/Kyrie-irving-dallas-il-n-y-a-aucune-peur/1472882 "Irving : «Il n'y a aucune peur»")
-
-[16:35
-
-Athlé,
-
-ChE (H)
-
-Zézé, le coup de 100 après le couac](https://www.lequipe.fr/Athletisme/Article/Non-qualifie-sur-100-m-aux-championnats-d-europe-ryan-zeze-en-voulait-plus/1472799 "Zézé, le coup de 100 après le couac")
-
-[16:33
-
-Golf,
-
-LETAS
-
-Cinq choses à savoir sur le Montauban Ladies Open](https://www.lequipe.fr/Golf/Actualites/Histoire-favorites-nationalites-cinq-choses-a-savoir-sur-le-montauban-ladies-open/1472881 "Cinq choses à savoir sur le Montauban Ladies Open")
-
-[16:18
+[11:14
 
 Foot,
 
-Ballon d'or
+L1,
 
-La cérémonie aura lieu le 28 octobre](https://www.lequipe.fr/Football/Actualites/La-ceremonie-du-ballon-d-or-aura-lieu-le-28-octobre/1472879 "La cérémonie aura lieu le 28 octobre")
+Rennes
 
-[16:16
+Jeanuël Belocian vers Leverkusen](https://www.lequipe.fr/Football/Actualites/Jeanuel-belocian-rennes-vers-leverkusen/1473065 "Jeanuël Belocian vers Leverkusen")
 
-Tour de France
+[11:10
 
-Merckx : «J'étais persuadé de pouvoir en gagner un sixième»](https://www.lequipe.fr/Cyclisme-sur-route/Article/Eddy-merckx-sur-le-tour-de-france-j-etais-persuade-de-pouvoir-en-gagner-un-sixieme/1472795 "Merckx : «J'étais persuadé de pouvoir en gagner un sixième»")
+Spécial Transferts
 
-[16:15
+Et si Cardona restait à Saint-Étienne ?](https://www.lequipe.fr/Football/Article/Mercato-irvin-cardona-a-encore-une-petite-chance-de-rester-a-saint-etienne/1472947 "Et si Cardona restait à Saint-Étienne ?")
 
-Cyclisme,
+[11:09
 
-Dauphiné
+Foot,
 
-Gouvenou : « Une cinquantaine de coureurs pris »](https://www.lequipe.fr/Cyclisme-sur-route/Actualites/Thierry-gouvenou-directeur-du-dauphine-une-cinquantaine-de-coureurs-pris-dans-la-chute/1472878 "Gouvenou : « Une cinquantaine de coureurs pris »")
+Portugal,
+
+Porto
+
+Bruno remplace Conçeicao](https://www.lequipe.fr/Football/Actualites/Vitor-bruno-remplace-sergio-conceicao-sur-le-banc-du-fc-porto/1473063 "Bruno remplace Conçeicao")
+
+[10:55
+
+Foot,
+
+L2,
+
+Sochaux
+
+Ackra vers Clermont](https://www.lequipe.fr/Football/Actualites/Allan-ackra-sochaux-vers-clermont/1473061 "Ackra vers Clermont")
+
+[10:04
+
+Spécial transferts
+
+Thuram-Todibo-Bulka, le trio convoité de Nice](https://www.lequipe.fr/Football/Article/Khephren-thuram-jean-clair-todibo-et-marcin-bulka-le-trio-de-nice-convoite/1473020 "Thuram-Todibo-Bulka, le trio convoité de Nice")
+
+[10:03
+
+Rugby,
+
+Elite 1 (F)
+
+Bourgeois-Trémoulière : duel des fines gâchettes](https://www.lequipe.fr/Rugby/Actualites/Morgane-bourgeois-jessy-tremouliere-duel-des-fines-gachettes-en-finale-d-elite-1/1473039 "Bourgeois-Trémoulière : duel des fines gâchettes")
+
+[09:59
+
+JO 2024,
+
+Eau libre
+
+L'entraînement dans la Seine reporté](https://www.lequipe.fr/Jo-2024-paris/Natation/Actualites/L-entrainement-dans-la-seine-de-l-equipe-de-france-d-eau-libre-reporte/1473056 "L'entraînement dans la Seine reporté")
+
+[09:57
+
+Spécial Transferts
+
+Terrier, symbole d'un été rennais agité](https://www.lequipe.fr/Football/Article/A-rennes-l-avenir-de-martin-terrier-apparait-comme-le-symbole-d-un-ete-agite/1472829 "Terrier, symbole d'un été rennais agité")
+
+[09:56
+
+JO 2024,
+
+Equitation
+
+La France se teste sur l'herbe à La Baule](https://www.lequipe.fr/Jo-2024-paris/Equitation/Actualites/La-france-se-teste-sur-l-herbe-au-jumping-international-de-la-baule/1473055 "La France se teste sur l'herbe à La Baule")
 
 le journal
 
-![](https://eqp-eqp-webreader-production.twipemobile.com/data/672/covers/Preview-MEDIUM-32688.jpg?v=4)
+![](https://eqp-eqp-webreader-production.twipemobile.com/data/673/covers/Preview-MEDIUM-32724.jpg?v=4)
 
 lire l'édition
 
