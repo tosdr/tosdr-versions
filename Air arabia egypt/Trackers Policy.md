@@ -110,7 +110,7 @@ Main menu
     * [Kenya](https://www.airarabia.com/kenya)
     * [more...](http://holidays.airarabia.com/)
     
-* [AirRewards](https://www.airarabia.com/en/air-rewards-loyalty-program) [More](# )
+* [AirRewards](https://www.airarabia.com/en/airrewards) [More](# )
     
     * [About](https://www.airarabia.com/#)
     * [The AirRewards Program](https://www.airarabia.com/air-rewards-loyalty-program)
@@ -266,16 +266,12 @@ Download the Air Arabia app for free and enjoy great deals wherever you are!
 
 #### About Us
 
-* [About us](https://press.airarabia.com/air-arabia/about/)
 * [Media centre](https://press.airarabia.com/)
 * [Investor relations](https://www.airarabia.com/en/investor-relations)
 * [Company Information](https://www.airarabia.com/company-information)
+* [Environmental, Social, and Governance Report 2023](https://www.airarabia.com/sites/airarabia/files/gallery/AirArabia-ESG%20Report-English%20%281%29.pdf)
 * [Community](https://press.airarabia.com/air-arabia/csr/)
 * [Careers](https://careers.airarabia.com/)
-* [A320 Cadet Pilot (MPL)](https://www.airarabia.com/320-cadet-pilot-mpl)
-* [Gallery](https://press.airarabia.com/air-arabia/gallery/)
-* [Inflight magazine](https://www.airarabia.com/inflight-magazine)
-* [Engineering Brochure](https://www.airarabia.com/sites/airarabia/files/AA_Engineering_Brochure.pdf)
 
 #### Customer service
 
