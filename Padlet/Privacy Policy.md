@@ -48,7 +48,7 @@ Legal
 Privacy Policy
 ==============
 
-_Last Updated: Apr 25, 2024_
+_Last Updated: Jun 7, 2024_
 
 This Privacy Policy (“Policy”) applies to all products, services, and content offered by Wallwisher, Inc. DBA Padlet (“Padlet,” “we,” “us,” “our,” and our subsidiaries, affiliates, or holding company). For EU residents, when handling your information, Padlet may be acting as both a Controller and a Processor as those terms are defined under the European Union’s General Data Protection Regulation (“GDPR”). For California residents, when handling your information, Padlet shall act as a Service Provider under the California Consumer Privacy Act.
 
@@ -292,7 +292,7 @@ Data Privacy Framework
 
 Padlet has certified to the U.S. Department of Commerce that Padlet adheres to (1) the EU-U.S. Data Privacy Framework with regard to the processing of personal information received from the European Union, (2) the UK Extension to the EU-U.S. Data Privacy Framework, with regard to the processing of personal information received from the United Kingdom (and Gibraltar), and to (3) the Swiss-U.S. Data Privacy Framework with regard to the processing of personal information received from Switzerland (the “DPF”). The Federal Trade Commission has jurisdiction over our compliance with the DPF.
 
-If there is any conflict between the terms in this privacy policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern. To learn more about the Data Privacy Framework (DPF) Program, and to view our certification, please visit https://www.dataprivacyframework.gov/. Padlet is registered under the name Wallwisher, Inc.
+If there is any conflict between the terms in this privacy policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern. To learn more about the Data Privacy Framework (DPF) Program, and to view our certification, please visit [https://www.dataprivacyframework.gov/](https://www.dataprivacyframework.gov/). Padlet is registered under the name Wallwisher, Inc.
 
 We remain responsible for all the personal information we receive under the DPF and that we subsequently transfer to third parties acting as agents on our behalf if they process personal information in a manner inconsistent with the DPF principles, unless we prove we are not responsible for the event giving rise to the damage.
 
