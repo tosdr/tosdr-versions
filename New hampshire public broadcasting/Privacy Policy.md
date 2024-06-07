@@ -184,15 +184,15 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 
 ###### LATEST VIDEO
 
+* [**La Lucha Trailer** | Doc World](https://video.nhpbs.org/video/doc-world-la-lucha-trailer?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**News Wrap: Severe storms cause damage in several states** | PBS NewsHour](https://video.nhpbs.org/video/news-wrap-1717710148?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**at the Met: Carmen Preview** | Great Performances](https://video.nhpbs.org/video/great-performances-at-the-met-carmen-preview-fjwqzv?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Our Rocky Seacoast** | Windows to the Wild](https://video.nhpbs.org/video/windows-wild-our-rocky-seacoast?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Current, former employees call for OpenAI transparency** | PBS NewsHour](https://video.nhpbs.org/video/the-future-of-ai-1717616874?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**June 5, 2024** | Amanpour and Company](https://video.nhpbs.org/video/june-5-2024-itwluc?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Waste Not, Want Not** | The State We're In](https://video.nhpbs.org/video/waste-not-want-not-jtr2xd?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**June 4, 2024** | Amanpour and Company](https://video.nhpbs.org/video/june-4-2024-wcll1g?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**What's Ahead in Season 9** | Grantchester](https://video.nhpbs.org/video/whats-ahead-in-season-9-tk60ed?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Total Eclipse in the Heart of Texas Hill Country** | NOVA](https://video.nhpbs.org/video/total-eclipse-in-the-heart-of-texas-hill-country-um3hrt?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Love, Jamie** | American Masters](https://video.nhpbs.org/video/love-jamie-qxboe7?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**WWII Veteran Jack Moran - The Men We Lost (Full)** | National Memorial Day Concert](https://video.nhpbs.org/video/wwii-veteran-jack-moran-the-men-we-lost-feature?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 
 **FCC Public File Info**: [WENH](https://publicfiles.fcc.gov/tv-profile/wenh-tv) | [WLED](https://publicfiles.fcc.gov/tv-profile/wled-tv) | [WEKW](https://publicfiles.fcc.gov/tv-profile/wekw-tv) | [EEO Public File Report](https://publicfiles.fcc.gov/tv-profile/wenh-tv/equal-employment-opportunity-records/additional-documents/eeo-public-file-reports/5d0f4964-7b9d-41c3-c658-a55a34730f8a/) | For assistance, please email [themailbox@nhpbs.org](mailto:themailbox@nhpbs.org)
 
