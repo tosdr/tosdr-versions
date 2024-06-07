@@ -31,15 +31,15 @@ ADVERTISEMENT
     * [Editorials](https://freebeacon.com/author/washington-free-beacon-editors/)
     * [Men of the Year](https://freebeacon.com/men-of-the-year/)
 
+* [![](https://s1.freebeacon.com/up/2024/04/Columbia_Law_School_-_Arthur_W_Diamond_Library_48170366516-scaled-e1713965842848.jpg)
+    
+    The Real Story Behind Columbia’s Controversial Law Review Article—And Why It Matters](https://freebeacon.com/columns/the-real-story-behind-columbias-controversial-law-review-article-and-why-it-matters/) 
+* [![](https://s4.freebeacon.com/up/2024/06/president-biden-holds-campaign-rally-in-philadelphia-2-scaled-e1717700032284.jpg)
+    
+    Biden: Slip Slidin' Away](https://freebeacon.com/columns/biden-slip-slidin-away/)
 * [![](https://s2.freebeacon.com/up/2024/05/2024-05-16T102136Z_1_LYNXMPEK4F0CU_RTROPTP_4_CHINA-RUSSIA-PUTIN-scaled-e1717099488228.jpg)
     
     Now May We Defend Ourselves?](https://freebeacon.com/columns/now-may-we-defend-ourselves/)
-* [![](https://s4.freebeacon.com/up/2023/12/us-secretary-of-state-blinken-visits-israel-e1701894687911.jpg)
-    
-    Did Tony Blinken Just Kill International Law?](https://freebeacon.com/columns/did-tony-blinken-just-kill-international-law/)
-* [![](https://s2.freebeacon.com/up/2024/05/2024-05-23T100236Z_1_LYNXMPEK4M0E3_RTROPTP_4_USA-ELECTION-TRUMP-GUNS-e1716498505487.jpg)
-    
-    Trump's New New Majority](https://freebeacon.com/columns/trumps-new-new-majority/)
 
  Search
 
