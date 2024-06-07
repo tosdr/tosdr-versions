@@ -256,6 +256,12 @@ USA
 
 [Drop us a line](https://www.tunedglobal.com/contact?hsLang=en)
 
+![soc2-cetified-tunedglobal](https://www.tunedglobal.com/hs-fs/hubfs/soc2-cetified-tunedglobal.webp?width=39&height=50&name=soc2-cetified-tunedglobal.webp "soc2-cetified-tunedglobal")
+
+[![musictechUK](https://www.tunedglobal.com/hs-fs/hubfs/musictechUK.png?width=50&height=50&name=musictechUK.png "musictechUK")](https://musictechnology.uk/)
+
+[![FT-Music-Business-Association-Music-Biz-845x321](https://www.tunedglobal.com/hs-fs/hubfs/FT-Music-Business-Association-Music-Biz-845x321.jpeg?width=132&height=50&name=FT-Music-Business-Association-Music-Biz-845x321.jpeg "FT-Music-Business-Association-Music-Biz-845x321")](https://musicbiz.org/)
+
  [](https://twitter.com/intent/follow?screen_name=tunedglobal)[](http://www.linkedin.com/company/tunedglobal)[](http://www.youtube.com/user/tunedglobal)[](https://blog.tunedglobal.com/?hsLang=en)
 
 ### Subscribe to our Newsletter
