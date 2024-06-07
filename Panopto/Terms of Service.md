@@ -20,6 +20,7 @@ English Français Deutsch 日本語 한국어 Italiano Español
         * [Publish to Your Organization](https://www.panopto.com/features/publish-to-your-organization/)
         * [Engage Your Audience](https://www.panopto.com/features/engage-your-audience/)
         * [Integrations](https://www.panopto.com/features/integrations/)
+        * [\>> See all Features](https://www.panopto.com/features/)
     * Capabilities
         * [Accessibility](https://www.panopto.com/capabilities/accessibility/)
         * [Powered by AI](https://www.panopto.com/capabilities/powered-by-ai/)
