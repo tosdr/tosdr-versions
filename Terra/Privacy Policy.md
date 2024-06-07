@@ -277,14 +277,6 @@ Looking for practical guidance, real-world solutions and best practices for mana
 
 [SEE ALL WEBINARS](https://www.terrastaffinggroup.com/hr-hot-spot/)
 
-### Next Up:
-
-#### Purpose-Driven Priorities: On Time & On Purpose
-
-Join productivity expert Kristin Graham on HR HotSpot to learn how brain science can transform your productivity. Discover strategies to combat distractions, prioritize effectively, and achieve intentional productivity. …
-
-[Read More from Purpose-Driven Priorities: On Time & On Purpose](https://www.terrastaffinggroup.com/resources/hr-hot-spot/purpose-driven-priorities-on-time-on-purpose/)
-
 * [Privacy Policy](https://www.terrastaffinggroup.com/privacy-policy/)
 * [Careers at TERRA](https://www.terrastaffinggroup.com/about/join-our-team)
 * [Contact Us](https://www.terrastaffinggroup.com/contact)
