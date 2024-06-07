@@ -9,11 +9,11 @@
 
 [](https://www.softpedia.com/dyn-search.php)
 
-3,495,469,904 served downloads
+3,495,525,902 served downloads
 
-555 new items today
+468 new items today
 
-1,619,048 items total
+1,619,151 items total
 
 Terms and Conditions of Use
 ===========================
