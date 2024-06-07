@@ -12,7 +12,7 @@ Enter City and State or Zip Code
 
 Submit
 
-[![al’s Logo](https://www.al.com/pf/resources/images/al/logos/logo_main.svg?d=1313)![al’s Logo](https://www.al.com/pf/resources/images/al/logos/logo_main_sm.svg?d=1313)](https://www.al.com/)
+[![al’s Logo](https://www.al.com/pf/resources/images/al/logos/logo_main.svg?d=1314)![al’s Logo](https://www.al.com/pf/resources/images/al/logos/logo_main_sm.svg?d=1314)](https://www.al.com/)
 
 Alabama
 
@@ -341,7 +341,7 @@ Last updated: April 18, 2024
 Footer Navigation
 -----------------
 
-![Visit the al.com home page](/pf/resources/images/al/logos/logo_footer.png?d=1313)
+![Visit the al.com home page](/pf/resources/images/al/logos/logo_footer.png?d=1314)
 
 About Us
 
@@ -423,11 +423,11 @@ More on AL.com
 Disclaimer
 ----------
 
-[![Advance Local logo](/pf/resources/images/common/logos/AdvanceLocal_horizontal.svg?d=1313)](https://www.advancelocal.com/)
+[![Advance Local logo](/pf/resources/images/common/logos/AdvanceLocal_horizontal.svg?d=1314)](https://www.advancelocal.com/)
 
 Use of and/or registration on any portion of this site constitutes acceptance of our [User Agreement](https://www.al.com/user-agreement/) (updated 4/18/2024), [Privacy Policy and Cookie Statement](https://www.al.com/privacy-policy/), and [Your Privacy Choices and Rights](https://www.al.com/privacy-policy/#rights_top) (updated 12/31/2023).
 
-Cookie Settings/Do Not Sell My Personal Information![California Consumer Privacy Act (CCPA) Opt-Out Icon](/pf/resources/images/common/icons/privacyoptions29x14.png?d=1313)
+Cookie Settings/Do Not Sell My Personal Information![California Consumer Privacy Act (CCPA) Opt-Out Icon](/pf/resources/images/common/icons/privacyoptions29x14.png?d=1314)
 
 © 2024 Advance Local Media LLC. All rights reserved ([About Us](https://www.al.com/aboutus/)).  
 The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Advance Local.
@@ -436,4 +436,4 @@ The material on this site may not be reproduced, distributed, transmitted, cache
 
 **YouTube’s privacy policy** is available [here](https://policies.google.com/privacy "YouTube Privacy Policy") and **YouTube’s terms of service** is available [here](https://www.youtube.com/t/terms "YouTube Terms of Service").
 
-[![Ad Choices icon](/pf/resources/images/common/logos/ad-choices-arrow.png?d=1313)Ad Choices](https://www.al.com/privacy-policy/#oba_top)
+[![Ad Choices icon](/pf/resources/images/common/logos/ad-choices-arrow.png?d=1314)Ad Choices](https://www.al.com/privacy-policy/#oba_top)
