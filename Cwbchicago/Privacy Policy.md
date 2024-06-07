@@ -244,6 +244,30 @@ This privacy policy was created in party by using [Termly’s Privacy Policy Ge
 
 [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20326%20245'%3E%3C/svg%3E)
 
+![](https://cwbchicago.com/wp-content/uploads/2024/06/Zet-Rodriguez-Divonte-Calhoun-and-Justin-Redmond-326x245.jpg)](https://cwbchicago.com/2024/06/2-parolees-charged-with-murdering-young-father-during-a-robbery-on-the-nw-side.html "2 parolees charged with murdering young father during a robbery on the NW Side")
+
+Citywide
+
+### [2 parolees charged with murdering young father during a robbery on the NW Side](https://cwbchicago.com/2024/06/2-parolees-charged-with-murdering-young-father-during-a-robbery-on-the-nw-side.html "2 parolees charged with murdering young father during a robbery on the NW Side")
+
+[June 4, 2024 7:31 PM](https://cwbchicago.com/2024/06)
+
+Two men with extensive criminal records, both on parole, robbed and murdered a young father as he walked to work on the Northwest Side last month, prosecutors said Tuesday.[](https://cwbchicago.com/2024/06/2-parolees-charged-with-murdering-young-father-during-a-robbery-on-the-nw-side.html "2 parolees charged with murdering young father during a robbery on the NW Side")
+
+[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20326%20245'%3E%3C/svg%3E)
+
+![](https://cwbchicago.com/wp-content/uploads/2024/02/Justin-Slaughter-speak-326x245.jpg)](https://cwbchicago.com/2024/06/fairness-and-equity-illinois-drivers-can-get-3-unpaid-tickets-a-year-before-license-suspension-under-newly-passed-law.html "Fairness and equity? Illinois drivers can get 3 unpaid tickets a year before license suspension under newly-passed law")
+
+Citywide
+
+### [Fairness and equity? Illinois drivers can get 3 unpaid tickets a year before license suspension under newly-passed law](https://cwbchicago.com/2024/06/fairness-and-equity-illinois-drivers-can-get-3-unpaid-tickets-a-year-before-license-suspension-under-newly-passed-law.html "Fairness and equity? Illinois drivers can get 3 unpaid tickets a year before license suspension under newly-passed law")
+
+[June 4, 2024 7:07 AM](https://cwbchicago.com/2024/06)
+
+A bill that passed the Illinois General Assembly will allow traffic violators to get three unpaid traffic tickets per year before they have their license suspended. [](https://cwbchicago.com/2024/06/fairness-and-equity-illinois-drivers-can-get-3-unpaid-tickets-a-year-before-license-suspension-under-newly-passed-law.html "Fairness and equity? Illinois drivers can get 3 unpaid tickets a year before license suspension under newly-passed law")
+
+[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20326%20245'%3E%3C/svg%3E)
+
 ![](https://cwbchicago.com/wp-content/uploads/2024/06/2600-block-west-gunnison-chicago-citizen-326x245.jpg)](https://cwbchicago.com/2024/06/chicago-police-recruit-shot-while-driving-in-ravenswood.html "Chicago police recruit shot while driving in Ravenswood")
 
 Lincoln Square
@@ -253,30 +277,6 @@ Lincoln Square
 [June 4, 2024 6:51 AM](https://cwbchicago.com/2024/06)
 
 A Chicago police recruit suffered a gunshot wound to his back while driving in Ravenswood overnight, police said. The victim’s 21-year-old passenger, also believed to be a male CPD recruit, was not injured.[](https://cwbchicago.com/2024/06/chicago-police-recruit-shot-while-driving-in-ravenswood.html "Chicago police recruit shot while driving in Ravenswood")
-
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20326%20245'%3E%3C/svg%3E)
-
-![](https://cwbchicago.com/wp-content/uploads/2024/06/Jermaine-Fowlkes-326x245.jpg)](https://cwbchicago.com/2024/06/man-who-tried-to-sexually-assault-2-women-in-2-days-could-have-been-arrested-days-earlier-but-a-chicago-police-supervisor-decided-to-let-him-go-report.html "Man who tried to sexually assault 2 women in 2 days could have been arrested days earlier, but a Chicago police supervisor decided to let him go: report")
-
-Citywide
-
-### [Man who tried to sexually assault 2 women in 2 days could have been arrested days earlier, but a Chicago police supervisor decided to let him go: report](https://cwbchicago.com/2024/06/man-who-tried-to-sexually-assault-2-women-in-2-days-could-have-been-arrested-days-earlier-but-a-chicago-police-supervisor-decided-to-let-him-go-report.html "Man who tried to sexually assault 2 women in 2 days could have been arrested days earlier, but a Chicago police supervisor decided to let him go: report")
-
-[June 3, 2024 8:11 PM](https://cwbchicago.com/2024/06)
-
-A Chicago man accused of trying to sexually assault two women in two days could have been arrested nearly two weeks before the attacks after three women accused him of grabbing them in Marquette Park. But a Chicago police sergeant decided not to take him into custody, a CPD report said[](https://cwbchicago.com/2024/06/man-who-tried-to-sexually-assault-2-women-in-2-days-could-have-been-arrested-days-earlier-but-a-chicago-police-supervisor-decided-to-let-him-go-report.html "Man who tried to sexually assault 2 women in 2 days could have been arrested days earlier, but a Chicago police supervisor decided to let him go: report")
-
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20326%20245'%3E%3C/svg%3E)
-
-![](https://cwbchicago.com/wp-content/uploads/2024/06/26-w-van-buren-326x245.jpg)](https://cwbchicago.com/2024/06/man-found-unresponsive-on-loop-sidewalk-died-from-combination-of-street-drugs-medical-examiner.html "Man found unresponsive on Loop sidewalk died from combination of street drugs: medical examiner")
-
-Loop
-
-### [Man found unresponsive on Loop sidewalk died from combination of street drugs: medical examiner](https://cwbchicago.com/2024/06/man-found-unresponsive-on-loop-sidewalk-died-from-combination-of-street-drugs-medical-examiner.html "Man found unresponsive on Loop sidewalk died from combination of street drugs: medical examiner")
-
-[June 3, 2024 7:13 AM](https://cwbchicago.com/2024/06)
-
-The man who died after being found unresponsive on a Loop sidewalk on April 10 died from a toxic combination of street drugs, according to the Cook County medical examiner’s office.[](https://cwbchicago.com/2024/06/man-found-unresponsive-on-loop-sidewalk-died-from-combination-of-street-drugs-medical-examiner.html "Man found unresponsive on Loop sidewalk died from combination of street drugs: medical examiner")
 
 Search
 
@@ -372,8 +372,11 @@ Our coverage area has expanded to cover other North Side neighborhoods. But our 
 
 ###### Other Places of Interest
 
+**[Chicago Public Square](https://www.chicagopublicsquare.com/)**  
+Daily news roundup by Charlie Meyerson
+
 [**Crime is Down**](https://crimeisdown.com/map)  
-CPD and CFD reference site
+CPD and CFD reference sites
 
 [**HeyJackass!**](https://heyjackass.com/)  
 Independently compiled homicide and crime statistics for Chicago
