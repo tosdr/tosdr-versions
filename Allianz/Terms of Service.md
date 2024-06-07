@@ -108,6 +108,7 @@
         * [About IFRS 9 & 17](https://www.allianz.com/en/press/topics/about-ifrs-9-and-17.html)
         * [Financial Literacy](https://www.allianz.com/en/economic_research/sustainability-research/financialliteracy.html)
         * [Road to Paris 2024](https://www.allianz.com/en/about-us/brand/partnerships/olympic-paralympic-movements/road-to-paris-2024.html)
+        * [Floods in southern Germany](https://www.allianz.com/en/press/topics/floods-in-southern-germany.html)
     * [![](/content/experience-fragments/onemarketing/azcom/Allianz_com/en_GB/azcom_header/flyout_teaser/about-us/master3/_jcr_content/root/teaser-horizontal/image.img.jpeg/1715751813842/ir-results-stage.jpeg)
         
         ### Earnings Release: 1Q 2024
