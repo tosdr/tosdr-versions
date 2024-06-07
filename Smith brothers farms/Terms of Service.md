@@ -192,7 +192,7 @@ Hi
         
     * [New! (36)](https://www.smithbrothersfarms.com/featured-products)
         
-    * [On Sale (33)](https://www.smithbrothersfarms.com/on-special)
+    * [On Sale (31)](https://www.smithbrothersfarms.com/on-special)
         
     * [Milk & Cream (42)](https://www.smithbrothersfarms.com/milk-cream)
         
@@ -252,12 +252,12 @@ Hi
         * [Cottage Cheese (2)](https://www.smithbrothersfarms.com/cottage-cheese)
             
         
-    * [Produce (89)](https://www.smithbrothersfarms.com/produce-3)
+    * [Produce (88)](https://www.smithbrothersfarms.com/produce-3)
         
         * BACK
         * [Harvest Box (1)](https://www.smithbrothersfarms.com/bulk-boxes)
             
-        * [Fruit (26)](https://www.smithbrothersfarms.com/fruit)
+        * [Fruit (25)](https://www.smithbrothersfarms.com/fruit)
             
         * [Vegetables (33)](https://www.smithbrothersfarms.com/vegetables)
             
@@ -284,12 +284,12 @@ Hi
         * [Cookies (1)](https://www.smithbrothersfarms.com/cookie)
             
         
-    * [Meat (39)](https://www.smithbrothersfarms.com/meat-poultry)
+    * [Meat (36)](https://www.smithbrothersfarms.com/meat-poultry)
         
         * BACK
         * [Beef, Pork, & Poultry (10)](https://www.smithbrothersfarms.com/poultry)
             
-        * [Bacon & Breakfast Meat (9)](https://www.smithbrothersfarms.com/bacon-breakfast-meat)
+        * [Bacon & Breakfast Meat (6)](https://www.smithbrothersfarms.com/bacon-breakfast-meat)
             
         * [Sausage, Dogs & Brats (4)](https://www.smithbrothersfarms.com/bacon-and-sausage)
             
