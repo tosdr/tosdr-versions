@@ -1,18 +1,18 @@
 [Skip to main content](#main-content)
 
-Big 3 Day Sale: Save Up To 50% DETAILS
+Best Sellers BOGO Free! DETAILS
 
-BIG 3 DAY SALE
+BUY 1 GET 1 FREE
 
 Close the Modal
 
-#### Save Up To 50%!
+#### Best Sellers: Buy 1 Get 1 FREE!
 
-[SHOP NOW](https://www.tommiecopper.com/special/big-sale)
+[SHOP NOW](https://www.tommiecopper.com/special/best-sellers/)
 
-Offer valid 6/4/2024 8AM ET - 6/7/2024 6AM ET.
+Offer valid 6/7/2024 8AM ET - 6/10/2024 6AM ET.
 
-Big 3 Day Sale discounts priced as marked. Offer only valid on tommiecopper.com. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
+To receive Buy 1 Get 1 Free discount on all Best Sellers, must add two (2) eligible products to cart. Discount automatically applied on lowest priced item. Offer only valid on tommiecopper.com. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
 
 FREE GIFT WITH PURCHASE
 
