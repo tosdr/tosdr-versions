@@ -154,13 +154,11 @@ Ok](https://www.emp.co.uk/home?forceThisShop=1)
 
 Katalog durchsuchen  löschen Suchen
 
-[](https://www.emp.de/black-stuff-deals/)
+[](https://www.emp.de/sommer/?pmid=SAM-1003_promo_CYD)
 
-Back in Black!
+Bis zu -25%\*
 
-\-50%\*
-
-[Jetzt sparen!](https://www.emp.de/black-stuff-deals/ "Jetzt sparen!")
+[Jetzt bestellen!](https://www.emp.de/sommer/?pmid=SAM-1003_promo_CYD "Jetzt bestellen!") Code **CHOOSE** kopieren
 
 Die Javascript-Funktion Ihres Browsers ist deaktiviert.
 
