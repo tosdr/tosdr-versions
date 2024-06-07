@@ -791,21 +791,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Smartphones im Test: Gute Handys gibt es für weniger als 200 Euro](https://www.test.de/Handys-und-Smartphones-im-Test-4222793-0/ "Smartphones im Test - Gute Handys gibt es für weniger als 200 Euro")
 * [Entnahme­plan mit ETF: Mit dem Pantoffel-Portfolio die Rente aufpeppen](https://www.test.de/pantoffel-portfolio-entnahmeplan-5754765-0/ "Entnahmeplan mit ETF - Mit dem Pantoffel-Portfolio die Rente aufpeppen")
 * [Nach­haltige Banken im Vergleich: Zinsen und Konten im grünen Bereich](https://www.test.de/Nachhaltige-Banken-Vergleich-4590882-0/ "Nachhaltige Banken im Vergleich - Zinsen und Konten im grünen Bereich")
 * [Vergleich Kredite: Sparen Sie richtig viel Zinsen mit dem besten Darlehen](https://www.test.de/Kredite-Die-besten-Darlehen-fuer-Sie-1131971-0/ "Vergleich Kredite - Sparen Sie richtig viel Zinsen mit dem besten Darlehen")
 * [Tages­geld­vergleich: So finden Sie jetzt die besten Zinsen](https://www.test.de/Tagesgeldvergleich-Die-besten-Zinsen-4196794-0/ "Tagesgeldvergleich - So finden Sie jetzt die besten Zinsen")
 * [Fest­geld­vergleich: Hier bringt Ihr Spargeld die beste Rendite – und ist sicher](https://www.test.de/Festgeldvergleich-Die-besten-Zinsen-4196084-0/ "Festgeldvergleich - Hier bringt Ihr Spargeld die beste Rendite – und ist sicher")
-* [MSCI World Index: Das steckt hinter dem Welt-Index für ETF](https://www.test.de/MSCI-World-Index-5886867-0/ "MSCI World Index - Das steckt hinter dem Welt-Index für ETF")
 
 test.de entdecken
 
-* [Verpackungs­ärger: Erdnüsse gesalzen von Ültje](https://www.test.de/Verpackungsaerger-Erdnuesse-gesalzen-von-Ueltje-5919191-0/ "Verpackungsärger - Erdnüsse gesalzen von Ültje")
-* [Wohn­gebäude­versicherung: Enorme Preis­sprünge für Haus­besitzer](https://www.test.de/Wohngebaeudeversicherung-Enorme-Preisspruenge-fuer-Hausbesitzer-5935351-0/ "Wohngebäudeversicherung - Enorme Preissprünge für Hausbesitzer")
-* [Solar­thermiekollektoren im Test: Wärme vom Dach](https://www.test.de/solarthermie-flach-und-roehrenkollektoren-test-6011149-0/ "Solarthermiekollektoren im Test - Wärme vom Dach")
-* [Verpackungs­ärger: Vivani-Schokoriegel](https://www.test.de/Verpackungsaerger-Vivani-Schokoriegel-5970152-0/ "Verpackungsärger - Vivani-Schokoriegel")
-* [Fonds­gebundene Renten­versicherung von myPension: Günstig, aber unflexibel](https://www.test.de/Fondsgebundene-Rentenversicherung-von-myPension-Guenstig-aber-unflexibel-6035038-0/ "Fondsgebundene Rentenversicherung von myPension - Günstig, aber unflexibel")
-* [Solar­thermiekollektoren im Test: Wärme vom Dach](https://www.test.de/solarthermie-flach-und-roehrenkollektoren-test-6011149-0/ "Solarthermiekollektoren im Test - Wärme vom Dach")
+* [Krypto­handel: Angebote ablehnen](https://www.test.de/Kryptohandel-Angebote-ablehnen-6020308-0/ "Kryptohandel - Angebote ablehnen")
+* [Mikrobiom-Selbst­tests: Teure Analysen ohne Aussagekraft](https://www.test.de/Mikrobiom-Selbstests-Teure-Analysen-ohne-Aussagekraft-6115898-0/ "Mikrobiom-Selbsttests - Teure Analysen ohne Aussagekraft")
+* [Zins­angebote: Warnung vor Verzinst.com](https://www.test.de/Zinsangebote-Warnung-vor-Verzinstcom-5888806-0/ "Zinsangebote - Warnung vor Verzinst.com")
+* [Depot­wechsel zu Morgen­fund: Was DWS-Kunden wissen müssen](https://www.test.de/Depotwechsel-zu-Morgenfund-Was-DWS-Kunden-wissen-muessen-5943029-0/ "Depotwechsel zu Morgenfund - Was DWS-Kunden wissen müssen")
+* [Drucker im Test: Die Unterschiede bei den Druck­kosten sind enorm](https://www.test.de/Drucker-im-Test-4339831-0/ "Drucker im Test - Die Unterschiede bei den Druckkosten sind enorm")
+* [Check­liste Trauerfall: Was tun nach einem Todes­fall](https://www.test.de/Checkliste-Was-tun-im-Todesfall-5987995-0/ "Checkliste Trauerfall - Was tun nach einem Todesfall")
 
 Fußbereich
 
@@ -3774,59 +3774,59 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Smartphones im Test: Gute Handys gibt es für weniger als 200 Euro](https://www.test.de/Handys-und-Smartphones-im-Test-4222793-0/ "Smartphones im Test - Gute Handys gibt es für weniger als 200 Euro")
 * [Entnahme­plan mit ETF: Mit dem Pantoffel-Portfolio die Rente aufpeppen](https://www.test.de/pantoffel-portfolio-entnahmeplan-5754765-0/ "Entnahmeplan mit ETF - Mit dem Pantoffel-Portfolio die Rente aufpeppen")
 * [Nach­haltige Banken im Vergleich: Zinsen und Konten im grünen Bereich](https://www.test.de/Nachhaltige-Banken-Vergleich-4590882-0/ "Nachhaltige Banken im Vergleich - Zinsen und Konten im grünen Bereich")
 * [Vergleich Kredite: Sparen Sie richtig viel Zinsen mit dem besten Darlehen](https://www.test.de/Kredite-Die-besten-Darlehen-fuer-Sie-1131971-0/ "Vergleich Kredite - Sparen Sie richtig viel Zinsen mit dem besten Darlehen")
 * [Tages­geld­vergleich: So finden Sie jetzt die besten Zinsen](https://www.test.de/Tagesgeldvergleich-Die-besten-Zinsen-4196794-0/ "Tagesgeldvergleich - So finden Sie jetzt die besten Zinsen")
 * [Fest­geld­vergleich: Hier bringt Ihr Spargeld die beste Rendite – und ist sicher](https://www.test.de/Festgeldvergleich-Die-besten-Zinsen-4196084-0/ "Festgeldvergleich - Hier bringt Ihr Spargeld die beste Rendite – und ist sicher")
-* [MSCI World Index: Das steckt hinter dem Welt-Index für ETF](https://www.test.de/MSCI-World-Index-5886867-0/ "MSCI World Index - Das steckt hinter dem Welt-Index für ETF")
 
 test.de entdecken
 
-* [Verpackungs­ärger: Erdnüsse gesalzen von Ültje](https://www.test.de/Verpackungsaerger-Erdnuesse-gesalzen-von-Ueltje-5919191-0/ "Verpackungsärger - Erdnüsse gesalzen von Ültje")
-* [Wohn­gebäude­versicherung: Enorme Preis­sprünge für Haus­besitzer](https://www.test.de/Wohngebaeudeversicherung-Enorme-Preisspruenge-fuer-Hausbesitzer-5935351-0/ "Wohngebäudeversicherung - Enorme Preissprünge für Hausbesitzer")
-* [Solar­thermiekollektoren im Test: Wärme vom Dach](https://www.test.de/solarthermie-flach-und-roehrenkollektoren-test-6011149-0/ "Solarthermiekollektoren im Test - Wärme vom Dach")
-* [Verpackungs­ärger: Vivani-Schokoriegel](https://www.test.de/Verpackungsaerger-Vivani-Schokoriegel-5970152-0/ "Verpackungsärger - Vivani-Schokoriegel")
-* [Fonds­gebundene Renten­versicherung von myPension: Günstig, aber unflexibel](https://www.test.de/Fondsgebundene-Rentenversicherung-von-myPension-Guenstig-aber-unflexibel-6035038-0/ "Fondsgebundene Rentenversicherung von myPension - Günstig, aber unflexibel")
-* [Solar­thermiekollektoren im Test: Wärme vom Dach](https://www.test.de/solarthermie-flach-und-roehrenkollektoren-test-6011149-0/ "Solarthermiekollektoren im Test - Wärme vom Dach")
+* [Krypto­handel: Angebote ablehnen](https://www.test.de/Kryptohandel-Angebote-ablehnen-6020308-0/ "Kryptohandel - Angebote ablehnen")
+* [Mikrobiom-Selbst­tests: Teure Analysen ohne Aussagekraft](https://www.test.de/Mikrobiom-Selbstests-Teure-Analysen-ohne-Aussagekraft-6115898-0/ "Mikrobiom-Selbsttests - Teure Analysen ohne Aussagekraft")
+* [Zins­angebote: Warnung vor Verzinst.com](https://www.test.de/Zinsangebote-Warnung-vor-Verzinstcom-5888806-0/ "Zinsangebote - Warnung vor Verzinst.com")
+* [Depot­wechsel zu Morgen­fund: Was DWS-Kunden wissen müssen](https://www.test.de/Depotwechsel-zu-Morgenfund-Was-DWS-Kunden-wissen-muessen-5943029-0/ "Depotwechsel zu Morgenfund - Was DWS-Kunden wissen müssen")
+* [Drucker im Test: Die Unterschiede bei den Druck­kosten sind enorm](https://www.test.de/Drucker-im-Test-4339831-0/ "Drucker im Test - Die Unterschiede bei den Druckkosten sind enorm")
+* [Check­liste Trauerfall: Was tun nach einem Todes­fall](https://www.test.de/Checkliste-Was-tun-im-Todesfall-5987995-0/ "Checkliste Trauerfall - Was tun nach einem Todesfall")
 
 Weitere spannende Themen
 
 Neueste Tests
 
+* [Smartphones im Test: Gute Handys gibt es für weniger als 200 Euro](https://www.test.de/Handys-und-Smartphones-im-Test-4222793-0/ "Smartphones im Test - Gute Handys gibt es für weniger als 200 Euro")
 * [Entnahme­plan mit ETF: Mit dem Pantoffel-Portfolio die Rente aufpeppen](https://www.test.de/pantoffel-portfolio-entnahmeplan-5754765-0/ "Entnahmeplan mit ETF - Mit dem Pantoffel-Portfolio die Rente aufpeppen")
 * [Nach­haltige Banken im Vergleich: Zinsen und Konten im grünen Bereich](https://www.test.de/Nachhaltige-Banken-Vergleich-4590882-0/ "Nachhaltige Banken im Vergleich - Zinsen und Konten im grünen Bereich")
 * [Vergleich Kredite: Sparen Sie richtig viel Zinsen mit dem besten Darlehen](https://www.test.de/Kredite-Die-besten-Darlehen-fuer-Sie-1131971-0/ "Vergleich Kredite - Sparen Sie richtig viel Zinsen mit dem besten Darlehen")
 * [Tages­geld­vergleich: So finden Sie jetzt die besten Zinsen](https://www.test.de/Tagesgeldvergleich-Die-besten-Zinsen-4196794-0/ "Tagesgeldvergleich - So finden Sie jetzt die besten Zinsen")
 * [Fest­geld­vergleich: Hier bringt Ihr Spargeld die beste Rendite – und ist sicher](https://www.test.de/Festgeldvergleich-Die-besten-Zinsen-4196084-0/ "Festgeldvergleich - Hier bringt Ihr Spargeld die beste Rendite – und ist sicher")
-* [MSCI World Index: Das steckt hinter dem Welt-Index für ETF](https://www.test.de/MSCI-World-Index-5886867-0/ "MSCI World Index - Das steckt hinter dem Welt-Index für ETF")
 
 test.de entdecken
 
-* [Verpackungs­ärger: Erdnüsse gesalzen von Ültje](https://www.test.de/Verpackungsaerger-Erdnuesse-gesalzen-von-Ueltje-5919191-0/ "Verpackungsärger - Erdnüsse gesalzen von Ültje")
-* [Wohn­gebäude­versicherung: Enorme Preis­sprünge für Haus­besitzer](https://www.test.de/Wohngebaeudeversicherung-Enorme-Preisspruenge-fuer-Hausbesitzer-5935351-0/ "Wohngebäudeversicherung - Enorme Preissprünge für Hausbesitzer")
-* [Solar­thermiekollektoren im Test: Wärme vom Dach](https://www.test.de/solarthermie-flach-und-roehrenkollektoren-test-6011149-0/ "Solarthermiekollektoren im Test - Wärme vom Dach")
-* [Verpackungs­ärger: Vivani-Schokoriegel](https://www.test.de/Verpackungsaerger-Vivani-Schokoriegel-5970152-0/ "Verpackungsärger - Vivani-Schokoriegel")
-* [Fonds­gebundene Renten­versicherung von myPension: Günstig, aber unflexibel](https://www.test.de/Fondsgebundene-Rentenversicherung-von-myPension-Guenstig-aber-unflexibel-6035038-0/ "Fondsgebundene Rentenversicherung von myPension - Günstig, aber unflexibel")
-* [Solar­thermiekollektoren im Test: Wärme vom Dach](https://www.test.de/solarthermie-flach-und-roehrenkollektoren-test-6011149-0/ "Solarthermiekollektoren im Test - Wärme vom Dach")
+* [Krypto­handel: Angebote ablehnen](https://www.test.de/Kryptohandel-Angebote-ablehnen-6020308-0/ "Kryptohandel - Angebote ablehnen")
+* [Mikrobiom-Selbst­tests: Teure Analysen ohne Aussagekraft](https://www.test.de/Mikrobiom-Selbstests-Teure-Analysen-ohne-Aussagekraft-6115898-0/ "Mikrobiom-Selbsttests - Teure Analysen ohne Aussagekraft")
+* [Zins­angebote: Warnung vor Verzinst.com](https://www.test.de/Zinsangebote-Warnung-vor-Verzinstcom-5888806-0/ "Zinsangebote - Warnung vor Verzinst.com")
+* [Depot­wechsel zu Morgen­fund: Was DWS-Kunden wissen müssen](https://www.test.de/Depotwechsel-zu-Morgenfund-Was-DWS-Kunden-wissen-muessen-5943029-0/ "Depotwechsel zu Morgenfund - Was DWS-Kunden wissen müssen")
+* [Drucker im Test: Die Unterschiede bei den Druck­kosten sind enorm](https://www.test.de/Drucker-im-Test-4339831-0/ "Drucker im Test - Die Unterschiede bei den Druckkosten sind enorm")
+* [Check­liste Trauerfall: Was tun nach einem Todes­fall](https://www.test.de/Checkliste-Was-tun-im-Todesfall-5987995-0/ "Checkliste Trauerfall - Was tun nach einem Todesfall")
 
 Neueste Tests
 
+* [Smartphones im Test: Gute Handys gibt es für weniger als 200 Euro](https://www.test.de/Handys-und-Smartphones-im-Test-4222793-0/ "Smartphones im Test - Gute Handys gibt es für weniger als 200 Euro")
 * [Entnahme­plan mit ETF: Mit dem Pantoffel-Portfolio die Rente aufpeppen](https://www.test.de/pantoffel-portfolio-entnahmeplan-5754765-0/ "Entnahmeplan mit ETF - Mit dem Pantoffel-Portfolio die Rente aufpeppen")
 * [Nach­haltige Banken im Vergleich: Zinsen und Konten im grünen Bereich](https://www.test.de/Nachhaltige-Banken-Vergleich-4590882-0/ "Nachhaltige Banken im Vergleich - Zinsen und Konten im grünen Bereich")
 * [Vergleich Kredite: Sparen Sie richtig viel Zinsen mit dem besten Darlehen](https://www.test.de/Kredite-Die-besten-Darlehen-fuer-Sie-1131971-0/ "Vergleich Kredite - Sparen Sie richtig viel Zinsen mit dem besten Darlehen")
 * [Tages­geld­vergleich: So finden Sie jetzt die besten Zinsen](https://www.test.de/Tagesgeldvergleich-Die-besten-Zinsen-4196794-0/ "Tagesgeldvergleich - So finden Sie jetzt die besten Zinsen")
 * [Fest­geld­vergleich: Hier bringt Ihr Spargeld die beste Rendite – und ist sicher](https://www.test.de/Festgeldvergleich-Die-besten-Zinsen-4196084-0/ "Festgeldvergleich - Hier bringt Ihr Spargeld die beste Rendite – und ist sicher")
-* [MSCI World Index: Das steckt hinter dem Welt-Index für ETF](https://www.test.de/MSCI-World-Index-5886867-0/ "MSCI World Index - Das steckt hinter dem Welt-Index für ETF")
 
 test.de entdecken
 
-* [Verpackungs­ärger: Erdnüsse gesalzen von Ültje](https://www.test.de/Verpackungsaerger-Erdnuesse-gesalzen-von-Ueltje-5919191-0/ "Verpackungsärger - Erdnüsse gesalzen von Ültje")
-* [Wohn­gebäude­versicherung: Enorme Preis­sprünge für Haus­besitzer](https://www.test.de/Wohngebaeudeversicherung-Enorme-Preisspruenge-fuer-Hausbesitzer-5935351-0/ "Wohngebäudeversicherung - Enorme Preissprünge für Hausbesitzer")
-* [Solar­thermiekollektoren im Test: Wärme vom Dach](https://www.test.de/solarthermie-flach-und-roehrenkollektoren-test-6011149-0/ "Solarthermiekollektoren im Test - Wärme vom Dach")
-* [Verpackungs­ärger: Vivani-Schokoriegel](https://www.test.de/Verpackungsaerger-Vivani-Schokoriegel-5970152-0/ "Verpackungsärger - Vivani-Schokoriegel")
-* [Fonds­gebundene Renten­versicherung von myPension: Günstig, aber unflexibel](https://www.test.de/Fondsgebundene-Rentenversicherung-von-myPension-Guenstig-aber-unflexibel-6035038-0/ "Fondsgebundene Rentenversicherung von myPension - Günstig, aber unflexibel")
-* [Solar­thermiekollektoren im Test: Wärme vom Dach](https://www.test.de/solarthermie-flach-und-roehrenkollektoren-test-6011149-0/ "Solarthermiekollektoren im Test - Wärme vom Dach")
+* [Krypto­handel: Angebote ablehnen](https://www.test.de/Kryptohandel-Angebote-ablehnen-6020308-0/ "Kryptohandel - Angebote ablehnen")
+* [Mikrobiom-Selbst­tests: Teure Analysen ohne Aussagekraft](https://www.test.de/Mikrobiom-Selbstests-Teure-Analysen-ohne-Aussagekraft-6115898-0/ "Mikrobiom-Selbsttests - Teure Analysen ohne Aussagekraft")
+* [Zins­angebote: Warnung vor Verzinst.com](https://www.test.de/Zinsangebote-Warnung-vor-Verzinstcom-5888806-0/ "Zinsangebote - Warnung vor Verzinst.com")
+* [Depot­wechsel zu Morgen­fund: Was DWS-Kunden wissen müssen](https://www.test.de/Depotwechsel-zu-Morgenfund-Was-DWS-Kunden-wissen-muessen-5943029-0/ "Depotwechsel zu Morgenfund - Was DWS-Kunden wissen müssen")
+* [Drucker im Test: Die Unterschiede bei den Druck­kosten sind enorm](https://www.test.de/Drucker-im-Test-4339831-0/ "Drucker im Test - Die Unterschiede bei den Druckkosten sind enorm")
+* [Check­liste Trauerfall: Was tun nach einem Todes­fall](https://www.test.de/Checkliste-Was-tun-im-Todesfall-5987995-0/ "Checkliste Trauerfall - Was tun nach einem Todesfall")
 
 Service Stiftung Warentest
 
