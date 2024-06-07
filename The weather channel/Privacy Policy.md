@@ -71,7 +71,7 @@ Arrow Left
 
 Arrow Right
 
-[Today](#noloc_/weather/today/l/)[Hourly](#noloc_/weather/hourbyhour/l/)[10 Day](#noloc_/weather/tenday/l/)[Weekend](#noloc_/weather/weekend/l/)[Monthly](#noloc_/weather/monthly/l/)[Radar](#noloc_/weather/radar/interactive/l/)[VideoVideo](https://weather.com/nature/wild-animals/video/surfer-rides-the-waves-with-dozens-of-dolphins)
+[Today](#noloc_/weather/today/l/)[Hourly](#noloc_/weather/hourbyhour/l/)[10 Day](#noloc_/weather/tenday/l/)[Weekend](#noloc_/weather/weekend/l/)[Monthly](#noloc_/weather/monthly/l/)[Radar](#noloc_/weather/radar/interactive/l/)[VideoVideo](https://weather.com/pets/video/feline-soloist-takes-the-stage-during-beethoven-symphony)
 
 More ForecastsMoreArrow down
 
