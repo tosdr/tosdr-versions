@@ -92,10 +92,10 @@ Open menu
 
 [![](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693233221/static/logos/proton-blog-logo_ktossq.svg)](https://protonmail.com/blog)
 
+* Product updates
 * [Proton news](https://protonmail.com/blog/news)
 * [Privacy news](https://protonmail.com/blog/privacy-news)
-* [Privacy basics](https://protonmail.com/blog/privacy-basics)
-* [Privacy deep dives](https://protonmail.com/blog/privacy-deep-dives)
+* [Privacy guides](https://protonmail.com/blog/privacy-guides)
 * [Opinion](https://protonmail.com/blog/opinion)
 * [For business](https://protonmail.com/blog/business)
 
@@ -107,7 +107,8 @@ Search for blog posts
 
 ![](https://res.cloudinary.com/dbulfrlrz/images/f_auto,q_auto/v1707579590/wp-pme/blogpost-v2release-3-e1443574161580/blogpost-v2release-3-e1443574161580.?_i=AA)
 
-* [Proton news](https://protonmail.com/blog/news)
+* [Product updates](https://protonmail.com/blog/product-updates)
+* [Proton Mail](https://protonmail.com/blog/product-updates/proton-mail)
 
 Proton Mail is Open Source!
 ===========================
@@ -118,10 +119,10 @@ Proton Mail is Open Source!
 
 Share this page
 
-* [![](https://res.cloudinary.com/dbulfrlrz/image/upload/v1712065300/static/social/x-widestroke-gray_f2ti5x.svg)(new window)](https://twitter.com/share?url=https://proton.me/blog/protonmail-open-source&text=Proton%20Mail%20is%20Open%20Source!&via=ProtonPrivacy)
-* [![](https://res.cloudinary.com/dbulfrlrz/image/upload/v1711363892/static/social/reddit-gray.svg)(new window)](https://www.reddit.com/submit?url=https://proton.me/blog/protonmail-open-source&title=Proton%20Mail%20is%20Open%20Source!)
-* [![](https://res.cloudinary.com/dbulfrlrz/image/upload/v1711363891/static/social/facebook-gray.svg)(new window)](https://www.facebook.com/sharer/sharer.php?u=https://proton.me/blog/protonmail-open-source&quote=Proton%20Mail%20is%20Open%20Source!)
-* [![](https://res.cloudinary.com/dbulfrlrz/image/upload/v1711363892/static/social/linkedin-gray.svg)(new window)](https://www.linkedin.com/shareArticle?url=https://proton.me/blog/protonmail-open-source&mini=true&title=Proton%20Mail%20is%20Open%20Source!&summary=Free%20email%20accounts%20-%20now%20with%20open%20source%20code!&source=Proton "Proton Mail is Open Source!")
+* [![](https://res.cloudinary.com/dbulfrlrz/image/upload/v1712065300/static/social/x-widestroke-gray_f2ti5x.svg)(new window)](https://twitter.com/share?url=https://proton.me/blog/protonmail-open-source/&text=Proton%20Mail%20is%20Open%20Source!&via=ProtonPrivacy)
+* [![](https://res.cloudinary.com/dbulfrlrz/image/upload/v1711363892/static/social/reddit-gray.svg)(new window)](https://www.reddit.com/submit?url=https://proton.me/blog/protonmail-open-source/&title=Proton%20Mail%20is%20Open%20Source!)
+* [![](https://res.cloudinary.com/dbulfrlrz/image/upload/v1711363891/static/social/facebook-gray.svg)(new window)](https://www.facebook.com/sharer/sharer.php?u=https://proton.me/blog/protonmail-open-source/&quote=Proton%20Mail%20is%20Open%20Source!)
+* [![](https://res.cloudinary.com/dbulfrlrz/image/upload/v1711363892/static/social/linkedin-gray.svg)(new window)](https://www.linkedin.com/shareArticle?url=https://proton.me/blog/protonmail-open-source/&mini=true&title=Proton%20Mail%20is%20Open%20Source!&summary=Free%20email%20accounts%20-%20now%20with%20open%20source%20code!&source=Proton "Proton Mail is Open Source!")
 
 Last update on November 11, 2022 Published on August 13, 2015
 
@@ -143,10 +144,10 @@ Secure your emails, protect your privacy
 
 Share this page
 
-* [![](https://res.cloudinary.com/dbulfrlrz/image/upload/v1712065300/static/social/x-widestroke-gray_f2ti5x.svg)(new window)](https://twitter.com/share?url=https://proton.me/blog/protonmail-open-source&text=Proton%20Mail%20is%20Open%20Source!&via=ProtonPrivacy)
-* [![](https://res.cloudinary.com/dbulfrlrz/image/upload/v1711363892/static/social/reddit-gray.svg)(new window)](https://www.reddit.com/submit?url=https://proton.me/blog/protonmail-open-source&title=Proton%20Mail%20is%20Open%20Source!)
-* [![](https://res.cloudinary.com/dbulfrlrz/image/upload/v1711363891/static/social/facebook-gray.svg)(new window)](https://www.facebook.com/sharer/sharer.php?u=https://proton.me/blog/protonmail-open-source&quote=Proton%20Mail%20is%20Open%20Source!)
-* [![](https://res.cloudinary.com/dbulfrlrz/image/upload/v1711363892/static/social/linkedin-gray.svg)(new window)](https://www.linkedin.com/shareArticle?url=https://proton.me/blog/protonmail-open-source&mini=true&title=Proton%20Mail%20is%20Open%20Source!&summary=Free%20email%20accounts%20-%20now%20with%20open%20source%20code!&source=Proton "Proton Mail is Open Source!")
+* [![](https://res.cloudinary.com/dbulfrlrz/image/upload/v1712065300/static/social/x-widestroke-gray_f2ti5x.svg)(new window)](https://twitter.com/share?url=https://proton.me/blog/protonmail-open-source/&text=Proton%20Mail%20is%20Open%20Source!&via=ProtonPrivacy)
+* [![](https://res.cloudinary.com/dbulfrlrz/image/upload/v1711363892/static/social/reddit-gray.svg)(new window)](https://www.reddit.com/submit?url=https://proton.me/blog/protonmail-open-source/&title=Proton%20Mail%20is%20Open%20Source!)
+* [![](https://res.cloudinary.com/dbulfrlrz/image/upload/v1711363891/static/social/facebook-gray.svg)(new window)](https://www.facebook.com/sharer/sharer.php?u=https://proton.me/blog/protonmail-open-source/&quote=Proton%20Mail%20is%20Open%20Source!)
+* [![](https://res.cloudinary.com/dbulfrlrz/image/upload/v1711363892/static/social/linkedin-gray.svg)(new window)](https://www.linkedin.com/shareArticle?url=https://proton.me/blog/protonmail-open-source/&mini=true&title=Proton%20Mail%20is%20Open%20Source!&summary=Free%20email%20accounts%20-%20now%20with%20open%20source%20code!&source=Proton "Proton Mail is Open Source!")
 
 ![](https://res.cloudinary.com/dbulfrlrz/image/upload/v1691480337/static/avatars/Proton_Team_jxnkj0.png)
 
@@ -175,7 +176,8 @@ Today we’re announcing enhancements to our business plans, further enriching o
 
 ![Proton Pass brings secure and private password management to all devices](https://res.cloudinary.com/dbulfrlrz/images/f_auto,q_auto/v1717662396/wp-pme/gtm-mac-safari-linux-blog/gtm-mac-safari-linux-blog.?_i=AA)
 
-* Proton news
+* Product updates
+* Proton Pass
 
 [Proton Pass brings secure and private password management to all devices](https://protonmail.com/blog/proton-pass-all-devices)
 
@@ -183,7 +185,7 @@ Today, we’re excited to announce the launch of the Proton Pass macOS app and t
 
 ![](https://res.cloudinary.com/dbulfrlrz/images/f_auto,q_auto/v1717169464/wp-pme/surveillance_at_home_blog_cover/surveillance_at_home_blog_cover.?_i=AA)
 
-* Privacy deep dives
+* Privacy news
 
 [The spies in your home: How WiFi companies monitor your private life](https://protonmail.com/blog/wifi-surveillance)
 
@@ -199,7 +201,7 @@ Every year, we send a survey to the Proton community asking for your feedback an
 
 ![](https://res.cloudinary.com/dbulfrlrz/images/f_auto,q_auto/v1717193581/wp-pme/what_is_a_rainbow_table_attack_blog_cover2x/what_is_a_rainbow_table_attack_blog_cover2x.?_i=AA)
 
-* Privacy basics
+* Privacy guides
 
 [What is a rainbow table attack and how to prevent it?](https://protonmail.com/blog/what-is-rainbow-table-attack)
 
