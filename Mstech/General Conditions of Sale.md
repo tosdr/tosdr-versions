@@ -439,7 +439,7 @@ Or get Folder Icon Pro v7.0 for
 
 ×
 
-                                                                                                      
+                                                                                                         
 
 Insert/edit link
 ================
