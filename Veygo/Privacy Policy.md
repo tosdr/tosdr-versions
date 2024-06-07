@@ -9,7 +9,7 @@ Show mobile menu
 * [Learner drivers](https://www.veygo.com/learner-driver-insurance/)
 * [New drivers](https://www.veygo.com/new-driver/)
 * [Temporary insurance](https://www.veygo.com/temporary-car-insurance/)
-* [Refer A Friend](https://www.veygo.com/refer/)
+* [Refer a friend](https://www.veygo.com/refer/)
 
 * [Help](https://www.veygo.com/help/)
 * [Purchases](https://account.veygo.com/purchases%20)
