@@ -597,6 +597,15 @@ Previous Next
 Social impact insights & information
 ------------------------------------
 
+* ![A group of volunteer embrace after a successful event.](/sites/default/files/styles/card_image_short/public/2023-05/istock-1411288793-1.jpg?h=2b0deddb&itok=6-nlypOR)
+    
+    ### [4 techniques for turning volunteers into donors](https://www.everyaction.com/blog/turn-volunteers-to-donors)
+    
+    * Digital communications & marketing
+    * Fundraising ideas
+    * Nonprofits
+    * Mobilize
+    
 * ![A woman consults with a doctor online](/sites/default/files/styles/card_image_short/public/2024-05/427383288.jpg?h=140710cd&itok=O--6aXa_)
     
     ### [Battling stigma unlocks access to mental healthcare](https://www.everyaction.com/blog/battling-stigma-unlocks-access-mental-healthcare)
@@ -611,14 +620,6 @@ Social impact insights & information
     * Employee giving
     * Giving day
     * Corporations
-    * Giving & Matching
-    
-* ![Four employees pick up trash at a volunteer event while participating in an employee giving program.](/sites/default/files/styles/card_image_short/public/2024-05/employee-giving-.png?h=5fe7ed15&itok=sU0UCbCJ)
-    
-    ### [Employee giving guide for companies: How to get started](https://www.everyaction.com/blog/employee-giving)
-    
-    * Employee giving
-    * Philanthropists
     * Giving & Matching
     
 
