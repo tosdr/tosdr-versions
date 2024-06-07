@@ -584,4 +584,4 @@ Kopieren
 
 [](#)
 
-[![](/fileadmin/_processed_/1/9/csm_21bitcoin_ad_bannerjpg_a19f7b3cdb.jpg)](https://ref.blocktrainer.de/21bitcoin/ws/anbieter)
+[![](/fileadmin/_processed_/9/e/csm_blocktrainer_box_c2cf67b3db.png)](https://www.blocktrainer.de/unterstuetze-uns)
