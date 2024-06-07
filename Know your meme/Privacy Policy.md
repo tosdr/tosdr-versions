@@ -99,30 +99,30 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 * [Meme Insider](https://memeinsider.com/)
 * [Newsletter](https://knowyourmeme.com/newsletter)
 
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/024/553/jigsaw_explainer.jpg "What's The 'Your Final Challenge Let Yo Bih Go Through Your Phone' Meme? The 'Oh Hell Nah Yo Tweakin Jigsaw' Meme Explained")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/024/572/Brian_Peppers_explainer_banner_image.jpg "Who Is 'Brian Peppers'? The Infamous Ohio Criminal Whose Picture Has Baffled The Web Explained")
     
-    What's The 'Your Final Challenge Let Yo Bih Go Through Your Phone' Meme? The 'Oh Hell Nah Yo Tweakin Jigsaw' Meme Explained](https://knowyourmeme.com/editorials/guides/whats-the-your-final-challenge-let-yo-bih-go-through-your-phone-meme-the-oh-hell-nah-yo-ass-tweakin-jigsaw-meme-explained)
+    Who Is 'Brian Peppers'? The Infamous Ohio Criminal Whose Picture Has Baffled The Web Explained](https://knowyourmeme.com/editorials/guides/who-is-brian-peppers-and-what-syndrome-did-he-have-the-infamous-ohio-criminal-whose-picture-has-baffled-the-web-explained)
     
-* [![hot rodent man](https://i.kym-cdn.com/featured_items/icons/wide/000/024/552/cover4.jpg "The Apparent Rise Of 'Hot Rodent Boyfriends' Raises Eyebrows On Social Media")
+* [![Everyone Knows Exactly How The Wife Who Dies At The Start Of The Film Looks](https://i.kym-cdn.com/featured_items/icons/wide/000/024/571/cover1.jpg "Everyone Knows Exactly How The 'Wife Who Dies At The Start Of The Film' Looks")
     
-    The Apparent Rise Of 'Hot Rodent Boyfriends' Raises Eyebrows On Social Media](https://knowyourmeme.com/memes/hot-rodent-men-boyfriend)
+    Everyone Knows Exactly How The 'Wife Who Dies At The Start Of The Film' Looks](https://knowyourmeme.com/memes/wife-who-dies-at-the-beginning-of-the-movie)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/024/551/cover6.jpg "What's In 'Chainsaw Man' Chapter 167 And Why Are Fans Upset With Fujimoto? Memes About What Happened Between Denji And Asa Explained")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/024/570/Screenshot_2023-10-26_at_9.59.40_AM.jpg "Who Is Tanvir Sultan, MBA? The Satirical Facebook Page Explained")
     
-    What's In 'Chainsaw Man' Chapter 167 And Why Are Fans Upset With Fujimoto? Memes About What Happened Between Denji And Asa Explained](https://knowyourmeme.com/editorials/guides/whats-in-chainsaw-man-chapter-167-and-why-are-fans-upset-with-fujimoto-memes-about-what-happened-between-denji-and-asa-explained)
+    Who Is Tanvir Sultan, MBA? The Satirical Facebook Page Explained](https://knowyourmeme.com/editorials/guides/who-is-tanvir-sultan-mba-the-satirical-facebook-page-explained)
     
-* [![Old Rifftrax 'Star Wars' Prequel Joke Continues To See Use In Memes 17 Years Later](https://i.kym-cdn.com/featured_items/icons/wide/000/024/550/ea9.jpg "Old Rifftrax 'Star Wars' Prequel Joke Continues To See Use In Memes 17 Years Later")
+* [![Pikachu holding the LGBTQ+ flag and the "It's 'June' Which Means It's Illegal To Be Straight" meme caption; ](https://i.kym-cdn.com/featured_items/icons/wide/000/024/569/its_june_which_means_its_illgal_to_be_straight_cover.jpg "'It's June Which Means It's Illegal To Be Straight' Meme Inspires Parodies And A Copypasta On Reddit")
     
-    Old Rifftrax 'Star Wars' Prequel Joke Continues To See Use In Memes 17 Years Later](https://knowyourmeme.com/memes/your-pal-friendpatine)
+    'It's June Which Means It's Illegal To Be Straight' Meme Inspires Parodies And A Copypasta On Reddit](https://knowyourmeme.com/memes/its-fucking-pride-month-its-june-which-mean-its-illegal-to-be-straight)
     
-* [![Running Baby Animation refers to memes and jokes about an viral video animation from the Animal Planet show The Most Extreme. The meme shows a green animation of a human baby getting up and running at the speed of 32 miles per hour. The video grew popular online in early 2023.](https://i.kym-cdn.com/featured_items/icons/wide/000/024/549/running_baby.jpg "Here's The Context Behind The Animation Of A Baby Running At 32 MPH ")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/024/568/killdozer_rampage_cover.jpg "The 'Killdozer' Story and the Man Behind It Explained")
     
-    Here's The Context Behind The Animation Of A Baby Running At 32 MPH](https://knowyourmeme.com/memes/running-baby-animation)
+    The 'Killdozer' Story and the Man Behind It Explained](https://knowyourmeme.com/editorials/guides/whats-the-killdozer-meme-the-killdozer-story-and-the-man-behind-it-explained)
     
 
 ##### Also Trending:
 
-[Its Fing Pride Month Copypasta](https://knowyourmeme.com/memes/its-fucking-pride-month-its-june-which-mean-its-illegal-to-be-straight "Its Fing Pride Month Copypasta") [Running Baby Animation](https://knowyourmeme.com/memes/running-baby-animation "Running Baby Animation") [Disney "Primos" Racism Controversy](https://knowyourmeme.com/memes/events/disneys-primos-racism-controversy "Disney "Primos" Racism Controversy")
+[Biden Pooping Himself At Normandy Allegations](https://knowyourmeme.com/memes/biden-pooping-himself-at-normandy-allegations "Biden Pooping Himself At Normandy Allegations") [Giant Sun Over Playground](https://knowyourmeme.com/memes/its-not-always-a-great-day-for-the-playground-giant-sun-burning-over-playground "Giant Sun Over Playground")
 
 Privacy Policy
 ==============
@@ -318,7 +318,7 @@ Please be sure to include your information in any correspondence to us so that w
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Word Up! You must login or signup first!
+### O HAI! You must login or signup first!
 
 |     |     |
 | --- | --- |
