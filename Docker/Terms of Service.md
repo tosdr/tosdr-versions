@@ -498,7 +498,7 @@ This Cloud Service Addendum (“CSA”) supplements and is incorporated into the
     * [What is a Container](https://www.docker.com/resources/what-container/)
     * [Why Docker](https://www.docker.com/why-docker/)
     * [Trust](https://www.docker.com/trust/)
-    * [Customers](https://www.docker.com/customers/)
+    * [Customer Success](https://www.docker.com/customer-success/)
     * [Partners](https://www.docker.com/partners/)
     * [Events](https://www.docker.com/events/)
     * [Newsroom](https://www.docker.com/company/newsroom/)
