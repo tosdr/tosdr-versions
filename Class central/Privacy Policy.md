@@ -353,11 +353,11 @@ Coursera sees headcount decrease and faces lawsuit in 2023, invests in proprieta
 Most common
 -----------
 
-1. sql
+1. java
     
-2. finance
+2. javascript
     
-3. trading
+3. cyber security
     
 
 Popular subjects
