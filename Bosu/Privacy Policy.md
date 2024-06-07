@@ -66,6 +66,7 @@ BOSU® OFFICIAL GLOBAL HEADQUARTERS
         * [How-To](https://www.bosu.com/pages/how-to)
         * [On-Demand Education](https://bosu.inspire360.com/)
     * [Training Tips](https://www.bosu.com/blogs/all)
+    * [Getting Started](https://www.bosu.com/pages/get-started)
 * [Company](https://www.bosu.com/)
     * [Our Story](https://www.bosu.com/pages/about-us)
 
@@ -153,6 +154,7 @@ Back
     * [On-Demand Education](https://bosu.inspire360.com/)
     
 * [Training Tips](https://www.bosu.com/blogs/all)
+* [Getting Started](https://www.bosu.com/pages/get-started)
 
 Back
 
@@ -481,7 +483,7 @@ Payment methods
 * Discover
 * PayPal
 
-© 2024, [BOSU](https://www.bosu.com/) HEDSTROM® Fitness, LLC. is the licensee of BOSU® Fitness, LLC. and distributor of BOSU® products. BOSU® is a registered trademark of BOSU® Fitness, LLC. All rights reserved. © 2023
+HEDSTROM® Fitness, LLC. is the licensee of BOSU® Fitness, LLC. and distributor of BOSU® products. BOSU® is a registered trademark of BOSU® Fitness, LLC. All rights reserved. ©2024
 
 This website uses cookies to personalize and improve your experience. Read our [Privacy Policy](https://www.bosu.com/policies/privacy-policy "Privacy Policy").
 
