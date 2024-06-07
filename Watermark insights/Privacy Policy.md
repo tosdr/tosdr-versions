@@ -48,13 +48,14 @@
         * [Institutional effectiveness leaders](https://www.watermarkinsights.com/roles/institutional-effectiveness/)
         * [Deans](https://www.watermarkinsights.com/roles/dean/)
         * [Student success](https://www.watermarkinsights.com/roles/student-success/)
-    * * ### Be accreditation-ready
+    * * ### Demo Week:  
+            June 26-27
             
-            [Demo our tools](https://go.watermarkinsights.com/WBN-2024-06-11-Getting-accreditation-ready-demo-PSS-FS-CES_LPRegistration.html "Request Demo")
+            [Register now](https://www.watermarkinsights.com/resources/watermark-demo-week "Register now")
             
             ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20214%20210'%3E%3C/svg%3E)
             
-            ![](https://www.watermarkinsights.com/wp-content/uploads/2024/05/Regular-Promo-1.png)
+            ![](https://www.watermarkinsights.com/wp-content/uploads/2024/06/Demo-Week-Nav-Ad-Promo.png)
             
 * [Resources](https://www.watermarkinsights.com/resources)
     * * [Resource library](https://www.watermarkinsights.com/resources)
@@ -103,6 +104,8 @@
             ![](/wp-content/uploads/2024/01/Group-21334.png)
             
 * [Sign in](https://www.watermarkinsights.com/client-resources/signon/)
+* [Schedule a Demo](https://www.watermarkinsights.com/request-demo/ "Schedule a Demo")
+    
 
 [Request demo](https://www.watermarkinsights.com/request-demo/)
 
@@ -154,13 +157,14 @@
         * [Institutional effectiveness leaders](https://www.watermarkinsights.com/roles/institutional-effectiveness/)
         * [Deans](https://www.watermarkinsights.com/roles/dean/)
         * [Student success](https://www.watermarkinsights.com/roles/student-success/)
-    * * ### Be accreditation-ready
+    * * ### Demo Week:  
+            June 26-27
             
-            [Demo our tools](https://go.watermarkinsights.com/WBN-2024-06-11-Getting-accreditation-ready-demo-PSS-FS-CES_LPRegistration.html "Request Demo")
+            [Register now](https://www.watermarkinsights.com/resources/watermark-demo-week "Register now")
             
             ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20214%20210'%3E%3C/svg%3E)
             
-            ![](https://www.watermarkinsights.com/wp-content/uploads/2024/05/Regular-Promo-1.png)
+            ![](https://www.watermarkinsights.com/wp-content/uploads/2024/06/Demo-Week-Nav-Ad-Promo.png)
             
 * [Resources](https://www.watermarkinsights.com/resources)
     * * [Resource library](https://www.watermarkinsights.com/resources)
@@ -209,6 +213,8 @@
             ![](/wp-content/uploads/2024/01/Group-21334.png)
             
 * [Sign in](https://www.watermarkinsights.com/client-resources/signon/)
+* [Schedule a Demo](https://www.watermarkinsights.com/request-demo/ "Schedule a Demo")
+    
 
 * [Learn about EIS](https://www.watermarkinsights.com/explore/educational-impact-suite/)
 * [Request demo](https://www.watermarkinsights.com/request-demo/)
