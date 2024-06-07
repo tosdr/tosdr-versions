@@ -29,7 +29,6 @@
         * [GDPR Defense](https://www.securitymetrics.com/gdpr-defense "GDPR Defense")
     * [Managed Programs](https://www.securitymetrics.com/compliance-solutions "Managed Programs")
         * [Acquirer PCI Program](https://www.securitymetrics.com/pci-program "Acquirer PCI Program")
-        * [Managed Acquirer PCI Program](https://www.securitymetrics.com/managed-pci-program "Managed Acquirer PCI Program")
         * [HIPAA for Health Networks](https://www.securitymetrics.com/health-network-program "HIPAA for Health Networks")
     
     #### Cybersecurity
