@@ -69,7 +69,7 @@ ADD TO TOTE
 
 ### [Fruit Pigmented® Ultra Lengthening Mascara](https://www.100percentpure.com/products/fruit-pigmented-ultra-lengthening-mascara)
 
-3321 reviews (3322)
+5243 reviews (5243)
 
 $28.00 $28.00
 
@@ -371,7 +371,7 @@ ADD TO TOTE
 
 ### [Multi-Vitamin + Antioxidants PM Facial Oil](https://www.100percentpure.com/products/multi-vitamin-antioxidants-pm-facial-oil)
 
-205 reviews (205)
+206 reviews (206)
 
 $43.50 $58.00
 
