@@ -181,6 +181,13 @@ This Privacy Statement was last revised on and is effective as of September 1, 2
 
 [### decisionsindentistry](https://www.instagram.com/decisionsindentistry/ "@decisionsindentistry")
 
+[Discover how odontoplasty is changing the game in ![Discover how odontoplasty is changing the game in treating Class I furcation involvements, improving patient plaque control and oral health outcomes. Link in bio.⁠
+⁠
+⁠
+---⁠
+⁠
+#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C74HbPONZmA/) 
+
 [Veterans with post-traumatic stress disorder (PTSD ![Veterans with post-traumatic stress disorder (PTSD) often experience poor oral health as well. Unfortunately, these veterans do not always have access to professional dental care services. The Department of Veterans Affairs’ (VA) limitations on dental coverage, governed by legislative constraints, leave many veterans without essential services. Link in bio.⁠
 ⁠
 ⁠
@@ -215,16 +222,6 @@ This Privacy Statement was last revised on and is effective as of September 1, 2
 ---⁠
 ⁠
 #dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C7rWUsEM5dc/) 
-
-[“Each condition has a unique etiology, pathogene ![“Each condition has a unique etiology, pathogenesis, clinical presentation, diagnostic work-up, treatment, prognosis, and patient considerations.” - ⁠
-Roopali Kulkarni, DMD, MPH (@rkulkarni711_)⁠
-⁠
-Read:  Common Oral Lesions in the Dental Setting via the link in bio.⁠
-⁠
-⁠
----⁠
-⁠
-#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C7oxo-Ltjqg/) 
 
 [Load More](javascript:void(0);) [Follow on Instagram](https://www.instagram.com/decisionsindentistry/)
 
