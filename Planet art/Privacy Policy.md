@@ -470,5 +470,5 @@ We honor the sale and sharing preferences of users. You may exercise your right 
   
 For more information about our privacy practices, please review our [Privacy Policy](https://www.planetart.com/privacy-policy).
 
-[Privacy Policy](https://www.planetart.com/privacy-policy) | [Supplier Code of Conduct](https://www.planetart.com/coc.html) | [Manage Personal Information](https://privacyportal.onetrust.com/webform/4598626a-4210-4619-ad7d-305919e492b9/60beb590-0b2a-46d2-956d-3e3dab7075e6) | [Do Not Sell My Information](#do-not-sell-my-information)  
+[Privacy Policy](https://www.planetart.com/privacy-policy) | [Supplier Code of Conduct](https://www.planetart.com/coc.html) | [Manage Personal Information](https://privacyportal.onetrust.com/webform/4598626a-4210-4619-ad7d-305919e492b9/60beb590-0b2a-46d2-956d-3e3dab7075e6)  
 Copyright©. All Rights Reserved.
