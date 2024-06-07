@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/politiek/valse-vlag-operaties/george-van-houts-en-het-komplot/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/media/welcome-in-the-google-village/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
