@@ -124,19 +124,19 @@ last week
 Trending Apps
 =============
 
+[Pepper.ru - Скидки и Промокоды](https://pepper-ru.apps112.com/ "Continue to app")
+
+[Mobile Office for Genesys](https://mobile-office-for-genesys-ios.apps112.com/ "Continue to app")
+
 [Foxy Browser](https://foxy-browser.apps112.com/ "Continue to app")
 
-[Way2News Election News Updates](https://way2-way2sms-free-sms.apps112.com/ "Continue to app")
+[موارد (Mawared‪)‬](https://mawared-ios.apps112.com/ "Continue to app")
 
-[Jewelry Maker](https://bubble-shooter-jewelry-maker.apps112.com/ "Continue to app")
+[TikkUp Trends of Followers](https://tikkup-ios.apps112.com/ "Continue to app")
+
+[Vietnamese Catholic Bible +](https://vietnamese-catholic-bible.apps112.com/ "Continue to app")
 
 [Gif Your Game](https://gif-your-game.apps112.com/ "Continue to app")
-
-[carVertical: Check Car History](https://carvertical-check-car-history.apps112.com/ "Continue to app")
-
-[Tactical Assassin](https://tactical-assassin.apps112.com/ "Continue to app")
-
-[Xtreme Wheels Pro](https://xtreme-wheels-pro.apps112.com/ "Continue to app")
 
   
 
