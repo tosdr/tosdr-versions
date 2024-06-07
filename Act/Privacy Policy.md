@@ -272,7 +272,7 @@ _Last Updated: May 1, 2024_
 * [Sign In](https://www.act.org/content/act/en/sign-in.html)
 * [Contact](https://www.act.org/content/act/en/contact-act.html)
 
-© by Impact Asset Corp. All rights reserved. [Terms of Use](https://www.act.org/content/act/en/terms-of-use.html)
+© by ACT Education Corp. All rights reserved. [Terms of Use](https://www.act.org/content/act/en/terms-of-use.html)
 
 * [Instgram](https://www.instagram.com/actstudent/)
 * [Tik Tok](https://www.tiktok.com/@actstudent)
