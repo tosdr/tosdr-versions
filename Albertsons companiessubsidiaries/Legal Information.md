@@ -100,6 +100,7 @@ Complaint forms are available at [http://www.hhs.gov/ocr/office/file/index.html]
 * [Policies & Disclosures](https://www.albertsonscompanies.com/policies-and-disclosures/default.aspx)
 * [Social Media Standards & Guidelines](https://www.albertsonscompanies.com/policies-and-disclosures/social-media-standards-and-guidelines/default.aspx)
 * [Privacy Policy](https://www.albertsonscompanies.com/policies-and-disclosures/privacy-policy/default.aspx)
+* [Vulnerability Responsible Disclosure](https://albertsons.responsibledisclosure.com/hc/en-us)
 * [Do Not Sell or Share My Personal Information](https://privacyportal.onetrust.com/webform/ea30fd57-7c9b-4aa0-b3c2-5ff790e3550f/4235c968-b986-43b7-934a-ded2923a08ac)
 
 © Albertsons Companies. All rights reserved
