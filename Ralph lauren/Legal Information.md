@@ -212,7 +212,7 @@ Please select your shipping region
     
     [](https://www.ralphlauren.co.uk/en/men/brands/mens-golf/709452?webcat=content-brands-golf&ab=EU_navimage_men_brands_S4_IMAGE)
     
-    ![](https://cdn-fsly.yottaa.net/5f85aab3d93140f2cca82579/www.ralphlauren.co.uk/v~4b.9e/on/demandware.static/-/Library-Sites-RalphLauren_EU_Library/en_GB/v1717657917605/img/Brand_Logo_Library/RLX/2022_rlx_stacked_logo_white.svg?yocs=8I_8L_8M_8Q_)
+    ![](https://cdn-fsly.yottaa.net/5f85aab3d93140f2cca82579/www.ralphlauren.co.uk/v~4b.9e/on/demandware.static/-/Library-Sites-RalphLauren_EU_Library/en_GB/v1717743989818/img/Brand_Logo_Library/RLX/2022_rlx_stacked_logo_white.svg?yocs=8I_8L_8M_8Q_)
     
     * Brands [Brands](javascript:void(0))
         
@@ -1051,6 +1051,7 @@ Please select your shipping region
         
         Inspiration
         
+        * [How to Care for Your Polo](https://www.ralphlauren.co.uk/en/how-to-care-for-your-timeless-rl-polo-shirt/70702326?webcat=world%7cof-rl-inspiration%7ctimeless-polo-shirt-care-feat-rd&orignalCatID=timeless-polo-shirt-care-feat-rd&altrurlID=timeless-polo-shirt-care-feat-rd)
         * [The 7 Best Jackets For All Your Spring Outfits](https://www.ralphlauren.co.uk/en/spring-jacket-styling/70702322?webcat=world%7cof-rl-inspiration%7cwomen-spring-jacket-styling-feat-rd&orignalCatID=women-spring-jacket-styling-feat-rd&altrurlID=women-spring-jacket-styling-feat-rd)
         * [How To Wear A Polo Shirt: 6 Ways](https://www.ralphlauren.co.uk/en/how-to-style-a-polo-shirt/70702321?webcat=world%7cof-rl-inspiration%7cpolo-shirt-styling-feat-rd&orignalCatID=polo-shirt-styling-feat-rd&altrurlID=polo-shirt-styling-feat-rd)
         * [The Men's Suit Styles You Should Know And How To Wear Them](https://www.ralphlauren.co.uk/en/mens-occasionwear/70702319?webcat=world%7cof-rl-inspiration%7cmen-occasionwear-feat-rd&orignalCatID=men-occasionwear-feat-rd&altrurlID=men-occasionwear-feat-rd)
