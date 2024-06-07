@@ -1,4 +1,4 @@
-                               
+                              
 
 * [Products](https://pureratioswellness.com/collections/all)
 * [Our Story](https://pureratioswellness.com/pages/about)
