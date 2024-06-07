@@ -10,10 +10,6 @@
 
 The Spirit of Radio Past
 
-### Support Pumpkin FM
-
-[![3-2-paypal-donate-button-png-image-thumb](https://pumpkinfm.com/wp-content/uploads/2022/06/3-2-paypal-donate-button-png-image-thumb-150x150.png "Support Pumpkin FM")](https://www.paypal.com/donate?campaign_id=EDD5N72RWV4E6)
-
 Menu
 
 * [Home](https://pumpkinfm.com/old-time-radio-stations-from-pumpkin-fm-the-vintage-radio-network/)
@@ -176,11 +172,11 @@ If you have any questions or suggestions about our Privacy Policy, do not hesita
 
 [![Listen on myTuner radio!](https://static2.mytuner.mobi/static/widgets/mytuner-radio.png)![Listen of myTuner Radio!](https://static2.mytuner.mobi/static/widgets/mytuner-logo-90.png)](https://mytuner-radio.com/?utm_source=widget&utm_medium=button&utm_campaign=64x64 "Listen on myTuner radio!")[![RadioPlug.co.uk](https://radioplug.co.uk/LOGO.png)](https://www.radioplug.co.uk/)
 
+### Support Pumpkin FM
+
+[![3-2-paypal-donate-button-png-image-thumb](https://pumpkinfm.com/wp-content/uploads/2022/06/3-2-paypal-donate-button-png-image-thumb.png)](https://www.paypal.com/donate?campaign_id=F74RPZBEKZWZ6)
+
 ### Search Pumpkin FM
-
-### Help Pumpkin FM
-
-[![Appeal600](https://pumpkinfm.com/wp-content/uploads/2023/11/Appeal600-240x300.jpg)](https://www.paypal.com/donate?campaign_id=EDD5N72RWV4E6)
 
 ### Tags
 
