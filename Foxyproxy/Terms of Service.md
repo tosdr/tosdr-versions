@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-First of all, your service is awesome!!! It is fast and reliable. It works like charm on all of my devices. Frankly, this helps me using my country area restricted applications while I\`m traveling and that is a huge value for me. "I feel like being home...
+Thank you so much for your super fast support!
 
-Robert Tenczer
+Christoph Hahn
