@@ -78,7 +78,8 @@ Turn Your Curiosity Into Discovery
     * [Countries](https://facts.net/world/countries/)
     * [Landmarks](https://facts.net/world/landmarks/)
     * [US States](https://facts.net/world/us-states/)
-* [All](https://facts.net/tag/)
+* [All Categories](https://facts.net/tag/)
+* [Everything Else](https://facts.net/uncategorized/)
 * [Forum](https://discuss.facts.net/)
 * [Gallery](https://facts.net/gallery/)
 
@@ -198,25 +199,26 @@ Turn Your Curiosity Into Discovery
 * [Landmarks](https://facts.net/world/landmarks/)
 * [US States](https://facts.net/world/us-states/)
 
-* [All](https://facts.net/tag/)
+* [All Categories](https://facts.net/tag/)
+* [Everything Else](https://facts.net/uncategorized/)
 * [Forum](https://discuss.facts.net/)
 * [Gallery](https://facts.net/gallery/)
 
 Latest Facts
 
-[![20 Best Facts About Fruit Flies ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/earth-and-life-science/biology-earth-and-life-science/20-best-facts-about-fruit-flies/)
+[![13 Amazing Halloumi Nutrition Facts ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/nutrition/13-amazing-halloumi-nutrition-facts/)
 
-Biology
+Nutrition
 
-06 Jun 2024
+07 Jun 2024
 
-[20 Best Facts About Fruit Flies](https://facts.net/earth-and-life-science/biology-earth-and-life-science/20-best-facts-about-fruit-flies/)
+[13 Amazing Halloumi Nutrition Facts](https://facts.net/fitness-and-wellbeing/nutrition/13-amazing-halloumi-nutrition-facts/)
 
-[![22 Best Rosh Hashanah Facts ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2287%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/religion/22-best-rosh-hashanah-facts/)
+[![14 Amazing Caper Nutrition Facts ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/nutrition/14-amazing-caper-nutrition-facts/)
 
-Religion
+Nutrition
 
-[22 Best Rosh Hashanah Facts](https://facts.net/history/religion/22-best-rosh-hashanah-facts/)
+[14 Amazing Caper Nutrition Facts](https://facts.net/fitness-and-wellbeing/nutrition/14-amazing-caper-nutrition-facts/)
 
 [Home](https://facts.net/) [Terms](https://facts.net/terms/)
 
@@ -358,6 +360,7 @@ The Terms constitute the entire agreement between you and Facts.net relating t
 * [DMCA](https://facts.net/dmca/)
 * [Terms](https://facts.net/terms/)
 * [Privacy Policy](https://facts.net/privacy-policy/)
+* [Submit Facts](https://facts.net/fact-submission-page/)
 * [More Facts](https://facts.net/more-category/)
 
 Follow us [Subscribe to our channel](https://www.youtube.com/channel/UCkEWgtngMrn9AcsRTmDgPIQ)
