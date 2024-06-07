@@ -611,3 +611,5 @@ Phishing
 © Arkose Labs 2024. All rights reserved.
 
 [Terms of Use](https://www.arkoselabs.com/legal/terms-of-use/)  |  [Privacy Policy](https://www.arkoselabs.com/legal/privacy-policy/)  |  Cookies
+
+https://www.adsimple.at
