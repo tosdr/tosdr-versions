@@ -155,8 +155,8 @@ These terms and conditions are governed by and construed in accordance with the 
 * [Privacy](https://freespeech.org/privacy/)
 * [Contact](https://freespeech.org/contact-us/)
 
-Thank you for watching FSTV! While you’re here, will you pitch in a little bit, please? Every donation is being **matched dollar-for-dollar.** Unlock the full potential of this Match Day! 
+Thank you for watching FSTV! While you’re here, make your summer donation to triple its impact. Today’s Frontline Funders are **matching donations 2x over**. 
 
-[Pitch in Now!](https://freespeech.org/donate-all/?utm_source=popup)
+[Make Your Summer Gift Go Farther](https://freespeech.org/donate-all/?utm_source=popup)
 
 ×
