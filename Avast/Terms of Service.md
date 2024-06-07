@@ -755,9 +755,9 @@ the **FREE** Chrome™ internet browser.
 
 [Download Chrome](https://www.google.com/chrome/)
 
-[![Google Play Link](https://static3.avast.com/52649596/web/i/v2/components/store-badge/google-play/google-play-badge.svg)](https://play.google.com/store/apps/details/Google_Chrome_Fast_Secure?id=com.android.chrome "Download Chrome")
+[![Google Play Link](https://static3.avast.com/51188804/web/i/v2/components/store-badge/google-play/google-play-badge.svg)](https://play.google.com/store/apps/details/Google_Chrome_Fast_Secure?id=com.android.chrome "Download Chrome")
 
-[![Apple Store Link](https://static3.avast.com/64108945/web/i/v2/components/store-badge/app-store/app-store-badge.svg)](https://apps.apple.com/us/app/google-chrome/id535886823 "Download Chrome")
+[![Apple Store Link](https://static3.avast.com/33778341/web/i/v2/components/store-badge/app-store/app-store-badge.svg)](https://apps.apple.com/us/app/google-chrome/id535886823 "Download Chrome")
 
 ![](https://static3.avast.com/10003740/web/i/v2/components/logos/avast-logos/avast-logo-inverse.svg)
 
