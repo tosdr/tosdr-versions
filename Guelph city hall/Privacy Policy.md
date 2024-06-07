@@ -161,7 +161,6 @@ Menu
         Find out about learning and development opportunities, employee recognition, compensation and benefits, and more.
         
     * Close
-* [Visit Guelph](http://visitguelphwellington.ca/)
 * [Newsroom](https://guelph.ca/news/)
 * [How can we help you?](https://guelph.ca/how-can-we-help-you/)
 
