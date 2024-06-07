@@ -429,11 +429,3 @@ Socials
 [](https://www.linkedin.com/company/siteminder)
 
 [](https://www.youtube.com/c/siteminder)
-
-This page is not available in English
-
-Would you like to continue browsing in Spanish, or view the home page?
-
-Close
-
-[Home](https://www.siteminder.com/)
