@@ -96,9 +96,9 @@ Main Menu
 
  [](https://classiccountrymusic.com/genre/traditional) [See All](https://classiccountrymusic.com/genre/traditional)
 
+* [Wynonna Explains Why She’s “So Connected”...](https://classiccountrymusic.com/wynonna-explains-why-shes-so-connected-to-her-husband-cactus-moser/)
 * [Reba McEntire Is Leaving “The Voice”...](https://classiccountrymusic.com/reba-mcentire-is-leaving-the-voice-which-country-star-is-her-replacement/)
 * [Title Of Lisa Marie Presley’s “Much-Anticipated”...](https://classiccountrymusic.com/title-of-lisa-marie-presleys-much-anticipated-memoir-revealed/)
-* [Alan Jackson’s Daughter, Mattie, Is Releasing...](https://classiccountrymusic.com/alan-jacksons-daughter-mattie-is-releasing-her-second-book/)
 
 ![bluegrass](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
