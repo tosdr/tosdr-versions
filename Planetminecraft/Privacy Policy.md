@@ -36,7 +36,7 @@ Entertainment [Jams](https://www.planetminecraft.com/jams/ "Jams") [CFT Cards](h
 
 Support [Tickets](https://www.planetminecraft.com/tickets/ "Tickets") [Help](https://www.planetminecraft.com/forums/help/ "Help")
 
-[![PMC CFT Trading Cards](https://www.planetminecraft.com/images/special/pmc-cft-trading-cards.png)](https://www.planetminecraft.com/cfts/browse/ "CFT Trading Cards")
+[![Data Pack Series](https://www.planetminecraft.com/images/special/data-pack-tutorial.png)](https://www.planetminecraft.com/forums/minecraft/datapacks/function-data-packs-for-dummies-a-tutorial-blog-series-604217/ "Learn about Function Data Packs")
 
 [LOGIN](https://www.planetminecraft.com/account/sign_in/ "Sign In") [SIGN UP](https://www.planetminecraft.com/account/create/ "Create")
 
@@ -222,7 +222,7 @@ Welcome
 *  Dark mode
     
 
-//www.planetminecraft.com/css/fonts.css?v=iAIAFChsfiOXhFo1Q2xw8K3yBUtVao3WmHpU39GNnyc7p4lg,//www.planetminecraft.com/css/style.css?v=61p0M4LFTOj9udbRD3JupkTZMqAZfTckj9jxKasEiuni5GFm,//www.planetminecraft.com/css/editor.css?v=JXg2qF5v-S8uAfYd4r9DPF80sC4h3eHDH-K6Fyux5F5ZWhVm
+//www.planetminecraft.com/css/fonts.css?v=iAIAFChsfiOXhFo1Q2xw8K3yBUtVao3WmHpU39GNnyc7p4lg,//www.planetminecraft.com/css/style.css?v=T9kVa\_mNK4oqqiO\_-HxUaBfhD1IRVxgYoh1A2x5t8Ij5BGJm,//www.planetminecraft.com/css/editor.css?v=JXg2qF5v-S8uAfYd4r9DPF80sC4h3eHDH-K6Fyux5F5ZWhVm
 
 ![Quantcast](//pixel.quantserve.com/pixel/p-abZiFQSKf0Mh-.gif)
 
