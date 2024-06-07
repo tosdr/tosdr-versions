@@ -164,11 +164,10 @@ Rechercher sur Le Parisien
     * [Enseignement supérieur](https://www.leparisien.fr/etudiant/etudes/)
     * [Lycée](https://www.leparisien.fr/etudiant/lycee/)
     * [Collège](https://www.leparisien.fr/etudiant/college/)
-    * [Classements](https://www.leparisien.fr/etudiant/orientation/palmares-lycees/)
     * [Guide des métiers](https://www.leparisien.fr/etudiant/guide-metiers/)
     * [Vie étudiante](https://www.leparisien.fr/etudiant/vie-etudiante/)
-    * [Agenda sorties](https://www.leparisien.fr/etudiant/sortir/)
     * [Jobs Stages](https://www.leparisien.fr/etudiant/jobs-stages/)
+    * [Agenda sorties](https://www.leparisien.fr/etudiant/sortir/)
     
 * [Le Parisien Jardin](https://www.leparisien.fr/jardin/)
     
@@ -820,9 +819,9 @@ Profitez des avantages de l’offre numérique
 
 [Je m'abonne](#)
 
-![](/pf/resources/images/footer_img_abo_desktop.png?d=674)
+![](/pf/resources/images/footer_img_abo_desktop.png?d=676)
 
-![](/pf/resources/images/footer_img_abo_tablet.png?d=674)
+![](/pf/resources/images/footer_img_abo_tablet.png?d=676)
 
 [Centre Français d’Exploitation du Droit de Copie](http://www.cfcopies.com/contrat-autorisation2/)
 
