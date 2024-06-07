@@ -145,8 +145,8 @@ If you have any questions about our Privacy Policy, please contact us at .
     * [Digiwonk](https://digiwonk.gadgethacks.com/)
     * [Windows Tips](https://windows.gadgethacks.com/)
     * [Tablets](https://tablets.gadgethacks.com/)
-    * [The Hookup](https://the-hookup.gadgethacks.com/)
     * [Tech Pr0n](https://tech-pr0n.gadgethacks.com/)
+    * [The Hookup](https://the-hookup.gadgethacks.com/)
     * [Roku](https://roku.gadgethacks.com/)
     * [Chrome OS](https://chromeos.gadgethacks.com/)
 * Next Reality Sites
