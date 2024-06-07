@@ -644,6 +644,7 @@ Browse
 * Offers
     
     * [Offers](https://www.maplin.co.uk/collections/deals)
+    * [Father's Day Sale](https://www.maplin.co.uk/pages/fathers-day)
     * [New Products](https://www.maplin.co.uk/collections/new-products)
     * [Latest Offers](https://www.maplin.co.uk/collections/offers)
     * [Clearance](https://www.maplin.co.uk/collections/clearance)
@@ -1274,6 +1275,7 @@ Browse
     
 * [Offers](https://www.maplin.co.uk/collections/deals)
     
+    * [Father's Day Sale](https://www.maplin.co.uk/pages/fathers-day)
     * [New Products](https://www.maplin.co.uk/collections/new-products)
     * [Latest Offers](https://www.maplin.co.uk/collections/offers)
     * [Clearance](https://www.maplin.co.uk/collections/clearance)
