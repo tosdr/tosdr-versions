@@ -1,6 +1,6 @@
 [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-![](https://i0.wp.com/client-portal.io/wp-content/uploads/fly-images/58444/CP-Logo-Dark-0x0.png)](https://client-portal.io/)
+![](https://client-portal.io/wp-content/uploads/fly-images/58444/CP-Logo-Dark-0x0.png)](https://client-portal.io/)
 
 * [Who we help](#)
     * Who we help [View pricing](https://client-portal.io/pricing)
@@ -155,7 +155,7 @@ This policy is effective as of 25 June 2018.
 
 [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-![](https://i0.wp.com/client-portal.io/wp-content/uploads/fly-images/54795/logo-dark-footer01@2x-0x0.png)](https://client-portal.io/)A super simple way to store your clients' deliverables
+![](https://client-portal.io/wp-content/uploads/fly-images/54795/logo-dark-footer01@2x-0x0.png)](https://client-portal.io/)A super simple way to store your clients' deliverables
 
 * ##### INDUSTRIES
     
