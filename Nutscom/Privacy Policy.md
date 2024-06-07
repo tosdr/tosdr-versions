@@ -194,7 +194,7 @@ FREE shipping on orders over $59!
     
     [![Shop S'mores Image](https://cdn.builder.io/api/v1/image/assets%2Feffc3d0f04d349b0a5da8c78825f92a5%2F29520e45bef94a6c9dc557b17797d208)
     
-    Shop S'mores](https://nuts.com/summer)
+    Shop S'mores](https://nuts.com/snacks/by-flavor/smores/)
     
     [![Shop Candy By Color Image](https://cdn.builder.io/api/v1/image/assets%2Feffc3d0f04d349b0a5da8c78825f92a5%2F64ca4a7813234473a70397e1c0524644)
     
