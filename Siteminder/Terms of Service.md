@@ -99,11 +99,6 @@
         
         [Read now](https://www.siteminder.com/hotel-booking-trends/)
 * English
-    * [Français](https://www.siteminder.com/legal/website-terms/?lang-unavail=fr)
-    * [Deutsch](https://www.siteminder.com/legal/website-terms/?lang-unavail=de)
-    * [Español](https://www.siteminder.com/legal/website-terms/?lang-unavail=es)
-    * [Italiano](https://www.siteminder.com/legal/website-terms/?lang-unavail=it)
-    * [Português](https://www.siteminder.com/legal/website-terms/?lang-unavail=pt)
     * [ไทย](https://www.siteminder.com/th/legal/website-terms/)
 * [Start free trial](https://www.siteminder.com/start-free-trial/)[Login](https://authx.siteminder.com/login)
 
@@ -335,11 +330,3 @@ Socials
 [](https://www.linkedin.com/company/siteminder)
 
 [](https://www.youtube.com/c/siteminder)
-
-This page is not available in English
-
-Would you like to continue browsing in Spanish, or view the home page?
-
-Close
-
-[Home](https://www.siteminder.com/)
