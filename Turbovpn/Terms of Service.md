@@ -143,6 +143,8 @@ Refunds beyond the 30-day purchase window will be considered, at the sole discre
 
 (5) Your request will be processed without any unreasonable delay and the refund will be paid using the same payment method as the one used for the purchase, except as otherwise mutually agreed, unless applicable law prohibits us or payment service providers we rely on from processing the refund. For payments made in cryptocurrency, the refund will be made in USD. The amount to be refunded in cryptocurrency will be calculated based on the equivalent of the price paid in USD at the time of purchase. Payments made using prepaid cards or gift cards will not be refunded if such refund is not supported by the provider of the card. Once the refund is issued to you, you will lose access to the Services for which you were refunded.
 
+(6) If you want a refund or unsubscribe, please do not delete your account before completing the operation. Deleting your account will simultaneously delete all your information in our system, causing the system to be unable to find your order, making it impossible to refund or unsubscribe.
+
 If you have any additional questions or would like to request a refund, feel free to contact us via the in-app feedback system or email us.
 
 8\. Prohibited and restricted uses
