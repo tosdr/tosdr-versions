@@ -229,11 +229,11 @@ Games you might like
 
 [Bikini for Love](https://lagged.com/en/g/bikini-for-love) ![Bikini for Love Game](https://lagged.com/imgs/f0aad5c3-2650-4152-5be2-f7812367a200/w=220)
 
+[Elastic Man](https://lagged.com/en/g/elastic-man) ![Elastic Man Game](https://lagged.com/imgs/162b8481-9f87-4bde-b8f2-059e3747fc00/w=220)
+
 [Magic Piano Tiles](https://lagged.com/en/g/magic-piano-tiles) ![Magic Piano Tiles Game](https://lagged.com/imgs/eb88af9c-7f5b-46de-3cde-71d303dd9600/w=220)
 
 [Going Balls](https://lagged.com/en/g/going-balls19) ![Going Balls Game](https://lagged.com/imgs/4a73e91f-f6ec-4426-ec8c-0015c281d000/w=220)
-
-[Elastic Man](https://lagged.com/en/g/elastic-man) ![Elastic Man Game](https://lagged.com/imgs/162b8481-9f87-4bde-b8f2-059e3747fc00/w=220)
 
 [Cat Disco](https://lagged.com/en/g/cat-disco) ![Cat Disco Game](https://lagged.com/imgs/32307ae5-8fb5-4e50-06eb-23c56b80c500/w=220)
 
@@ -243,13 +243,13 @@ Games you might like
 
 [Scary Neighbor Online](https://lagged.com/en/g/scary-neighbor-online) ![Scary Neighbor Online Game](https://lagged.com/imgs/33149da7-adb3-47dc-12a9-8e738f273f00/w=220)
 
-[Shape Shifting Funny Racing](https://lagged.com/en/g/shape-shifting-funny-racing) ![Shape Shifting Funny Racing Game](https://lagged.com/imgs/b5ddfee2-6c03-47f2-49ce-f83f8f1ee800/w=220)
-
-[Stair Race 3D](https://lagged.com/en/g/stair-race-3d) ![Stair Race 3D Game](https://lagged.com/imgs/fecf592a-0609-4a27-a6a4-4555a9da3c00/w=220)
-
 [Choir](https://lagged.com/en/g/choir) ![Choir Game](https://lagged.com/imgs/b0d52620-578b-4391-03bc-f5bd8e580f00/w=220)
 
 [Lemon Opera](https://lagged.com/en/g/lemon-opera) ![Lemon Opera Game](https://lagged.com/imgs/3d4b54bf-6073-461d-02ab-b39292ff0000/w=220)
+
+[Stair Race 3D](https://lagged.com/en/g/stair-race-3d) ![Stair Race 3D Game](https://lagged.com/imgs/fecf592a-0609-4a27-a6a4-4555a9da3c00/w=220)
+
+[Shape Shifting Funny Racing](https://lagged.com/en/g/shape-shifting-funny-racing) ![Shape Shifting Funny Racing Game](https://lagged.com/imgs/b5ddfee2-6c03-47f2-49ce-f83f8f1ee800/w=220)
 
 [Minecraft Online](https://lagged.com/en/g/minecraft-online) ![Minecraft Online Game](https://lagged.com/imgs/c621b7a7-4b2f-40f6-4cec-498405934500/w=220)
 
