@@ -2,7 +2,7 @@
 
 **JavaScript seems to be disabled in your browser.** For the best experience on our site, be sure to turn on Javascript in your browser.
 
-**Discover Purity, Choose Apex Water Filters!**
+**SPECIAL OFFER | GET FREE SHIPPING FOR 20K & 10K GPD COMMERCIAL ROs**
 
 Toggle Nav [![Apex Water Filters](https://apexwaterfilters.com/pub/static/version1696670687/frontend/bluesky/bluesky_outstock_funiture_10/en_US/Rokanthemes_OptimizeSpeed/images/load_defaut.png "Apex Water Filters")](https://apexwaterfilters.com/ "Apex Water Filters")
 
