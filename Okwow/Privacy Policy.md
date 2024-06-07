@@ -17,6 +17,7 @@
 * [Instant Win](https://okwow.com/giftag/instant-win/)
 * [Expiring Soon](https://okwow.com/category/sweepstakes/expiring-soon/)
 * [Most Recent](https://okwow.com/category/sweepstakes/most-recent/)
+* [Blog](https://okwow.com/category/blog/)
 
 Privacy Policy
 ==============
@@ -66,7 +67,7 @@ We do not charge you for receiving mobile text messages, but message and data ra
 
 We might also use your phone number in an encrypted form of matching to verify if you have a current business relationship with another company.
 
-**IT IS IMPORTANT TO NOTE THAT, UNLESS YOU EXPLICITLY OPT IN AND AGREE TO RECEIVE SMS TEXT MESSAGES OR PHONE CALLS FROM OK WOW, ADVERTISERS OR OTHER PARTIES, WE DO NOT TRANSFER, LICENSE, OR SHARE YOUR PHONE INFORMATION WITH THIRD PARTIES FOR THE PURPOSE OF UNSOLICTED SMS MESSAGING OR PHONE CALLS.**
+**IT IS IMPORTANT TO NOTE THAT, UNLESS YOU EXPLICITLY OPT IN AND AGREE TO RECEIVE SMS TEXT MESSAGES OR PHONE CALLS FROM OK WOW, ADVERTISERS OR OTHER PARTIES, WE DO NOT TRANSFER, LICENSE, OR SHARE YOUR PHONE INFORMATION WITH THIRD PARTIES FOR THE PURPOSE OF UNSOLICITED SMS MESSAGING OR PHONE CALLS.**
 
 **Emails & Newsletters.** When submitting any information on our website you will see a disclaimer for receiving emails from OK WOW, companies owned by the same legal entity as OK WOW and third-party advertisers. You expressly authorize OK WOW, and its Associated Entities to use your personal information as explained in this privacy policy, and you consent to receiving commercial email from them as well. You can expect to receive offers regarding specific products and/or services, newsletters, sweepstakes announcements, promotions, and other similar offers.
 
