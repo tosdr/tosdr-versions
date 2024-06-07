@@ -200,6 +200,11 @@ This document was last updated on January 1, 2014
 
 #### Defense News
 
+* [US Army debates path to buy long-range precision munitions](https://www.defensenews.com/industry/techwatch/2024/06/07/us-army-debates-path-to-buy-long-range-precision-munitions/)  
+    06/07/24 03:22pm  
+    
+    An air-launched effects system is fired from a UH-60L Black Hawk helicopter as testing commences during Project Convergence in September 2020. (Spc. Javion Siders/U.S. Army)
+    
 * [France to supply Mirage 2000-5 jets to Ukraine, train pilots](https://www.defensenews.com/air/2024/06/07/france-to-supply-mirage-2000-5-jets-to-ukraine-train-pilots/)  
     06/06/24 08:18pm  
     
@@ -215,21 +220,16 @@ This document was last updated on January 1, 2014
     
     An Airbus Wingman air combat drone is on display at the 2024 ILA Berlin Air Show on June 05, 2024, in Schoenefeld, Germany. (Photo by Sean Gallup/Getty Images)
     
-* [Germany leans into Eurofighter with new order of 20 jets](https://www.defensenews.com/global/europe/2024/06/05/germany-leans-into-eurofighter-with-new-order-of-20-jets/)  
-    06/05/24 01:42pm  
-    
-    German Chancellor Olaf Scholz, center, walks past a Eurofighter Typhoon fighter jet as he chats with Airbus CEO Guillaume Faury, left, at the Berlin Air Show on June 5, 2024. (Sean Gallup/Getty Images)
-    
 
 Recent parts by keyword  
 
-* [mil-i-15126](https://aerobasegroup.com/search/?term=mil-i-15126)
-* [gb511gg-12](https://aerobasegroup.com/search/?term=gb511gg-12)
-* [an500-8-4](https://aerobasegroup.com/search/?term=an500-8-4)
-* [gb511ge](https://aerobasegroup.com/search/?term=gb511ge)
-* [j1220g11](https://aerobasegroup.com/search/?term=j1220g11)
-* [gb511gg](https://aerobasegroup.com/search/?term=gb511gg)
-* [BDS3115-130DH](https://aerobasegroup.com/search/?term=BDS3115-130DH)
+* [ss-42gf2](https://aerobasegroup.com/search/?term=ss-42gf2)
+* [shdp62ir](https://aerobasegroup.com/search/?term=shdp62ir)
+* [mil-t-904](https://aerobasegroup.com/search/?term=mil-t-904)
+* [ms51844-60](https://aerobasegroup.com/search/?term=ms51844-60)
+* [at256ss](https://aerobasegroup.com/search/?term=at256ss)
+* [qd3r250](https://aerobasegroup.com/search/?term=qd3r250)
+* [src3017](https://aerobasegroup.com/search/?term=src3017)
 
 The AeroBase Group Family ..
 
