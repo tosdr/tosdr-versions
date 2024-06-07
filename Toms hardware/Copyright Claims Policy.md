@@ -99,12 +99,13 @@
 * [![Support Independent Tech Journalism, Become A Patron!](/content/images/patreon-btn.svg)](https://www.patreon.com/HotHardware?fan_landing=true)
 
 * TRENDING:
-* [OnePlus 12](https://hothardware.com/reviews/oneplus-12-review)
-* [Galaxy S24 Ultra](https://hothardware.com/reviews/samsung-galaxy-s24-ultra-review)
-* [GeForce RTX Super](https://hothardware.com/tags/geforce-rtx-super)
-* [ASUS ROG Phone 8](https://hothardware.com/reviews/asus-rog-phone-8-pro-review)
-* [Radeon RX 7600 XT](https://hothardware.com/tags/radeon-rx-7600-xt)
-* [Intel Core Ultra](https://hothardware.com/reviews/intel-meteor-lake-review)
+* [Copilot + Laptops](https://hothardware.com/news/snapdragon-x-elite-laptops-hp-dell-lenovo-available-now)
+* [Lunar Lake](https://hothardware.com/reviews/intel-lunar-lake-deep-dive)
+* [Intel Sierra Forest](https://hothardware.com/reviews/intel-xeon-6-preview)
+* [Ryzen 9000](https://hothardware.com/news/amd-ryzen-9000-desktop-am5-announce)
+* [Snapdragon X Series](https://hothardware.com/news/snapdragon-x-elite-and-plus-ai-pcs-from-major-oems-to-drive-microsoft-copilot-experiences)
+* [AMD Strix Point](https://hothardware.com/news/amd-ryzen-ai-300-series-announce-computex)
+* [ASUS Zephyrus G14](https://hothardware.com/reviews/asus-rog-zephyrus-g14-2024-review)
 
 Privacy, Terms, Conditions And Copyright
 ========================================
