@@ -1,7 +1,5 @@
 [Skip to content](#content)
 
-Need immediate assistance? [Schedule a meeting with our Sales Team](https://www.knack.com/meet-sales/)
-
 [![Logo | Knack Purple](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
 ![Logo | Knack Purple](https://www.knack.com/wp-content/uploads/2023/06/knack-header-logo.svg)](https://www.knack.com/)
