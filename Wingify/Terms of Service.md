@@ -157,6 +157,10 @@
     
     Webinars
     
+    [![Jyoti Malik](https://static.wingify.com/gcp/uploads/2024/06/Photoleap_03_01_2024_20_40_13_pDujm-2.png?tr=w-60,h-50)
+    
+    Navigation Optimization: The Overlooked Path to Higher Conversions](https://vwo.com/webinars/navigation-optimization-overlooked-path-higher-conversions/)
+    
     [![Richard Joe](https://static.wingify.com/gcp/uploads/2024/06/Professional_Profile_Pic-copy-1-1.jpg?tr=w-60,h-50)
     
     The Crucial Role of Feedback Loops in A/B Testing](https://vwo.com/webinars/crucial-role-feedback-loops-a-b-testing/)
@@ -172,10 +176,6 @@
     [![Ben Labay](https://static.wingify.com/gcp/uploads/2019/08/Ben-Labay-Profile.png?tr=w-60,h-50)
     
     Benchmarking and Scaling Testing in 2024](https://vwo.com/webinars/benchmarking-scaling-testing-2024/)
-    
-    [![Brian Massey](https://static.wingify.com/vwo/uploads/2019/06/img-Brian-Massey.png?tr=w-60,h-50)
-    
-    The Science of Persuasive Messaging Using AI and A/B Testing](https://vwo.com/webinars/science-of-persuasive-messaging-using-ai-a-b-testing/)
     
     [View all webinars](https://vwo.com/webinars)
     
