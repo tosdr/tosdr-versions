@@ -106,23 +106,23 @@ If you believe that any information we are holding on you is incorrect or incomp
 
 [Why does UserBenchmark have a bad reputation on reddit?](#tff_1)
 
-Marketers operate countless reddit accounts. UserBenchmark challenges their narrative so they attack our reputation with a co-ordinated charade.
+Marketers operate a lot of reddit accounts. UserBenchmark exposes their spiel so they attack our reputation.
 
 [Why don’t PC brands endorse UserBenchmark?](#tff_2)
 
-PC brands make a lot of profit on flagships like the 4090, 14900KS, and 7950X3D. We help users get similar real-world performance for less money.
+PC brands make a lot on flagships like the 4090, 14900KS, and 7950X3D. We help users get similar real-world performance for less money.
 
 [Why don’t youtubers promote UserBenchmark?](#tff_3)
 
-We don't pay youtubers, so they don't praise us. Moreover, UserBenchmark's data exposes the youtubers that promote overpriced/inferior products.
+We don't pay youtubers, so they don't praise us. Moreover, our data exposes youtubers that promote overpriced/inferior products.
 
 [Why does UserBenchmark have negative trustpilot reviews?](#tff_4)
 
-[The 200+ reviews on trustpilot](https://www.trustpilot.com/review/www.userbenchmark.com) are mostly written by virgin marketing accounts. Real users aren't incentivized to back brands.
+[The 200+ reviews on trustpilot](https://www.trustpilot.com/review/www.userbenchmark.com) are written by virgin marketing accounts. Real users aren't incentivized to back brands.
 
 [Why is UserBenchmark popular with users?](#tff_5)
 
-Instead of chasing sponsorship with billion-dollar PC brands, we've dedicated 13 years to publishing real-world data which collectively saves our users millions.
+Instead of chasing sponsorship with billion-dollar brands, we've spent 13 years publishing real-world data which saves our users millions.
 
 The Best.
 
@@ -130,7 +130,7 @@ The Best.
 | --- | --- | --- |
 | [Intel Core i5-12600K](https://cpu.userbenchmark.com/Intel-Core-i5-12600K/Rating/4120) [€160](https://cpu.userbenchmark.com/Intel-Core-i5-12600K/Rating/4120#Prices "Hot Ebay price") | [Nvidia RTX 4060](https://gpu.userbenchmark.com/Nvidia-RTX-4060/Rating/4150) [€382](https://gpu.userbenchmark.com/Nvidia-RTX-4060/Rating/4150#Prices "Live Amazon price") | [Crucial MX500 250GB](https://ssd.userbenchmark.com/Crucial-MX500-250GB/Rating/3951) [€42](https://ssd.userbenchmark.com/Crucial-MX500-250GB/Rating/3951#Prices "Live Amazon price") |
 | [Intel Core i5-12400F](https://cpu.userbenchmark.com/Intel-Core-i5-12400F/Rating/4121) [€105](https://cpu.userbenchmark.com/Intel-Core-i5-12400F/Rating/4121#Prices "Hot Ebay price") | [Nvidia RTX 4060-Ti](https://gpu.userbenchmark.com/Nvidia-RTX-4060-Ti/Rating/4149) [€395](https://gpu.userbenchmark.com/Nvidia-RTX-4060-Ti/Rating/4149#Prices "Hot Amazon price") | [Samsung 850 Evo 120GB](https://ssd.userbenchmark.com/Samsung-850-Evo-120GB/Rating/3484) [€232](https://ssd.userbenchmark.com/Samsung-850-Evo-120GB/Rating/3484#Prices "Live Amazon price") |
-| [Intel Core i5-13600K](https://cpu.userbenchmark.com/Intel-Core-i5-13600K/Rating/4134) [€307](https://cpu.userbenchmark.com/Intel-Core-i5-13600K/Rating/4134#Prices "Live Amazon price") | [Nvidia RTX 4070](https://gpu.userbenchmark.com/Nvidia-RTX-4070/Rating/4148) [€596](https://gpu.userbenchmark.com/Nvidia-RTX-4070/Rating/4148#Prices "Live Amazon price") | [Samsung 870 Evo 250GB](https://ssd.userbenchmark.com/Samsung-870-Evo-250GB/Rating/4094) [€43](https://ssd.userbenchmark.com/Samsung-870-Evo-250GB/Rating/4094#Prices "Live Amazon price") |
+| [Intel Core i5-13600K](https://cpu.userbenchmark.com/Intel-Core-i5-13600K/Rating/4134) [€304](https://cpu.userbenchmark.com/Intel-Core-i5-13600K/Rating/4134#Prices "Live Amazon price") | [Nvidia RTX 4070](https://gpu.userbenchmark.com/Nvidia-RTX-4070/Rating/4148) [€596](https://gpu.userbenchmark.com/Nvidia-RTX-4070/Rating/4148#Prices "Live Amazon price") | [Samsung 870 Evo 250GB](https://ssd.userbenchmark.com/Samsung-870-Evo-250GB/Rating/4094) [€43](https://ssd.userbenchmark.com/Samsung-870-Evo-250GB/Rating/4094#Prices "Live Amazon price") |
 
 | [![](https://www.userbenchmark.com/resources/img/loading-transp.png)HDD](https://hdd.userbenchmark.com/) | [![](https://www.userbenchmark.com/resources/img/loading-transp.png)RAM](https://ram.userbenchmark.com/) | [![](https://www.userbenchmark.com/resources/img/loading-transp.png)USB](https://usb.userbenchmark.com/) |
 | --- | --- | --- |
@@ -148,7 +148,7 @@ Amazon Ebay
 
 deals
 
-[CPU](https://www.userbenchmark.com/Go/HotCPUAmazon/lbFMultiB/0) [GPU](https://www.userbenchmark.com/Go/HotGPUAmazon/lbFMultiB/0) [SSD](https://www.userbenchmark.com/Go/HotSSDAmazon/lbFMultiB/0) [HDD](https://www.userbenchmark.com/Go/HotHDDAmazon/lbFMultiB/0) [USB](https://www.userbenchmark.com/Go/HotUSBAmazon/lbFMultiB/0) [RAM](https://www.userbenchmark.com/Go/HotRAMAmazon/lbFMultiB/0) [MBD](https://www.userbenchmark.com/Go/HotWWWAmazon/lbFMultiB/0)
+[CPU](https://www.userbenchmark.com/Go/HotCPUAmazon/lbFMultiA/0) [GPU](https://www.userbenchmark.com/Go/HotGPUAmazon/lbFMultiA/0) [SSD](https://www.userbenchmark.com/Go/HotSSDAmazon/lbFMultiA/0) [HDD](https://www.userbenchmark.com/Go/HotHDDAmazon/lbFMultiA/0) [USB](https://www.userbenchmark.com/Go/HotUSBAmazon/lbFMultiA/0) [RAM](https://www.userbenchmark.com/Go/HotRAMAmazon/lbFMultiA/0) [MBD](https://www.userbenchmark.com/Go/HotWWWAmazon/lbFMultiA/0)
 
 [![](https://www.userbenchmark.com/resources/img/loading-transp.png)Build](https://www.userbenchmark.com/PCBuilder) [![](https://www.userbenchmark.com/resources/img/loading-transp.png)Test](https://www.userbenchmark.com/Software) [![](https://www.userbenchmark.com/resources/img/loading-transp.png)EFps](https://www.userbenchmark.com/EFps/Compare)
 
