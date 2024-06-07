@@ -62,6 +62,7 @@ Browser usage
     * [Usage with Server-side Rendering Frameworks](https://dev.fingerprintjs.com/docs/usage-with-server-side-rendering-frameworks)
 * [Identifying users in hybrid app frameworks](https://dev.fingerprintjs.com/docs/identifying-users-in-hybrid-app-frameworks)
 * [Zero Trust Mode](https://dev.fingerprintjs.com/docs/zero-trust-mode)
+* [Identifying in-app browsers for iOS](https://dev.fingerprintjs.com/docs/identifying-in-app-browsers-for-ios)
 
 Mobile devices
 --------------
