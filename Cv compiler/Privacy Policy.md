@@ -925,6 +925,10 @@ What do top resumes look like? Check out these expertly-written samples:
 
 [Journalist](https://cvcompiler.com/journalist-resume-examples)
 
+[Event Planner](https://cvcompiler.com/event-planner-resume-examples)
+
+[Brand Ambassador](https://cvcompiler.com/brand-ambassador-resume-examples)
+
 ![Upload resume illustration](uploads-pre-acq/img/upload-illustration.svg)
 
 ### Upload  
