@@ -1,4 +1,4 @@
-[![Sustain Life Logo](https://assets-global.website-files.com/6266b5e20215f61058171191/64b99aa6446fb290326a7679_logo_color_black.svg)](https://www.sustain.life/)
+[![Sustain Life Logo](https://cdn.prod.website-files.com/6266b5e20215f61058171191/64b99aa6446fb290326a7679_logo_color_black.svg)](https://www.sustain.life/)
 
 Product
 
@@ -106,7 +106,7 @@ Our weekly video podcast
 
 [Sign in](https://app.sustain.life/?_gl=1*q5i2pf*_ga*MTU1OTgxOTg0OC4xNjMzNzAyNzY1*_ga_4HH0ERCKY0*MTY1MTUwMjQ3OS4zMy4wLjE2NTE1MDI0NzkuNjA.&_ga=2.186069289.1438148479.1651502480-1559819848.1633702765#/signIn)[Demo](https://www.sustain.life/demo)
 
-![](https://assets-global.website-files.com/6266b5e20215f61058171191/6272db3e815058b85df6a3c1_close-aqua900.svg)![](https://assets-global.website-files.com/6266b5e20215f61058171191/6272db3e6d2d7fccd40e8a2e_menu-aqua900.svg)
+![](https://cdn.prod.website-files.com/6266b5e20215f61058171191/6272db3e815058b85df6a3c1_close-aqua900.svg)![](https://cdn.prod.website-files.com/6266b5e20215f61058171191/6272db3e6d2d7fccd40e8a2e_menu-aqua900.svg)
 
 #### LAST UPDATED FEBRUARY 15, 2022
 
@@ -346,7 +346,7 @@ Since we do not have an establishment in the European Union, we have appointed a
 
 ‍
 
-![](https://assets-global.website-files.com/6266b5e20215f61058171191/6376b70383994a1a568dde22_sl-logo-secondary.svg)
+![](https://cdn.prod.website-files.com/6266b5e20215f61058171191/6376b70383994a1a568dde22_sl-logo-secondary.svg)
 
 Your path to net-zero
 
@@ -383,6 +383,6 @@ We’re excited to help you on your journey.
 
 Oops! Something went wrong. Try again.
 
-![Certified B Corporation Certification Mark](https://assets-global.website-files.com/6266b5e20215f61058171191/63ea9e3f1b7ced34ffbd49a4_B-Corp-Logo-White-RGB.svg)[![](https://assets-global.website-files.com/6266b5e20215f61058171191/65846bbfada659711ad5aba2_CDP_ASP_2023_RED.svg)](https://www.cdp.net/en/partners/sustainlife)![GRI Software and Tools Partner 2024](https://assets-global.website-files.com/6266b5e20215f61058171191/65cbbb2a5b384ad653315069_gri_2024.svg)![](https://assets-global.website-files.com/6266b5e20215f61058171191/63c866cd648e7f661d5a747e_A-LIGN-SOC%20Badge.png)
+![Certified B Corporation Certification Mark](https://cdn.prod.website-files.com/6266b5e20215f61058171191/63ea9e3f1b7ced34ffbd49a4_B-Corp-Logo-White-RGB.svg)[![](https://cdn.prod.website-files.com/6266b5e20215f61058171191/65846bbfada659711ad5aba2_CDP_ASP_2023_RED.svg)](https://www.cdp.net/en/partners/sustainlife)![GRI Software and Tools Partner 2024](https://cdn.prod.website-files.com/6266b5e20215f61058171191/65cbbb2a5b384ad653315069_gri_2024.svg)![](https://cdn.prod.website-files.com/6266b5e20215f61058171191/63c866cd648e7f661d5a747e_A-LIGN-SOC%20Badge.png)
 
 © Copyright 2024 Sustain.Life  All rights reserved.
