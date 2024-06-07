@@ -34,7 +34,7 @@ Connexion
     * [Mieux acheter](https://www.marmiton.org/mieux-acheter/shopping-ssc20.html?utm_source=website&utm_medium=shopping_menu&utm_campaign=all_sous_categorie)
     * [Bien manger par](https://www.marmiton.org/dossier-bien-manger-par-electrolux)
     * [Promo](https://promo.marmiton.org/)
-    * [Vos recettes quotidiennes avec](https://www.marmiton.org/recettes/recette-meme-auteur.aspx?pseudo=recettesherta)
+    * [Vos apéros avec](https://www.marmiton.org/dossier-vos-aperos-avec-herta)
 * Mes aides à la cuisine
     * [Table de conversion](https://www.marmiton.org/pratique/table-conversion.aspx)
     * [Mon Frigo](https://www.marmiton.org/recettes)
