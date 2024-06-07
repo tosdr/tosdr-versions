@@ -361,16 +361,15 @@ Advertise
 [Rich List](https://www.afr.com/rich-list)
 ------------------------------------------
 
-[![The Light Brigade Hotel stands at the highest point in Paddington.](https://static.ffx.io/images/$zoom_0.223%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_110/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/ef127fc11680aaeeabbcb474d07b8303518127e6)](https://www.afr.com/property/commercial/laundys-add-sydney-s-light-brigade-hotel-to-pub-empire-20240607-p5jk1w)
+[![The first boat in production by Sam Beck’s KARVE Marine.](https://static.ffx.io/images/$zoom_0.5521%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/2a3289fe00d12555a1ced57cf6ce4335d9549fb7)](https://www.afr.com/rich-list/can-t-find-the-boat-you-want-for-2-3m-sam-will-help-you-build-it-20240604-p5jj3k)
 
-### [Laundys add Sydney’s Light Brigade Hotel to pub empire](https://www.afr.com/property/commercial/laundys-add-sydney-s-light-brigade-hotel-to-pub-empire-20240607-p5jk1w)
+### [Can’t find the boat you want? For $2.3m, Sam will help you build it](https://www.afr.com/rich-list/can-t-find-the-boat-you-want-for-2-3m-sam-will-help-you-build-it-20240604-p5jj3k)
 
-* 1 min ago
-* Larry Schlesinger
+* Yolanda Redrup
 
-* ### [Laurence Escalante’s Virtual Gaming Worlds delivers monster dividend](https://www.afr.com/companies/games-and-wagering/laurence-escalante-s-virtual-gaming-worlds-delivers-monster-dividend-20240606-p5jjwj)
+* ### [Rich Lister Geminder plans board shake-up if Pact bid falls short](https://www.afr.com/companies/manufacturing/rich-lister-geminder-plans-board-shake-up-if-pact-bid-falls-short-20240607-p5jk0e)
     
-* ### [Rich Listers list Gold Coast waterfront tavern](https://www.afr.com/property/commercial/rich-listers-list-gold-coast-waterfront-tavern-20240604-p5jj5e)
+* ### [Laundys add Sydney’s Light Brigade Hotel to pub empire](https://www.afr.com/property/commercial/laundys-add-sydney-s-light-brigade-hotel-to-pub-empire-20240607-p5jk1w)
     
 
 [The Australian Financial Review](https://www.afr.com/)
