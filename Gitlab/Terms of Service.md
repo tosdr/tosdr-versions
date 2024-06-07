@@ -605,6 +605,7 @@
             * [ ]  [Renewals Managers - How we do it](https://about.gitlab.com/handbook/customer-success/renewals-managers/how/)
             * [ ]  [Renewals Managers - What we do](https://about.gitlab.com/handbook/customer-success/renewals-managers/what/)
         * [ ]  [Resources to get started with GitLab](https://about.gitlab.com/handbook/customer-success/customer-content/)
+        * [ ]  [Success Services](https://about.gitlab.com/handbook/customer-success/success-services/)
         * [ ]  [Transitioning Accounts from Pre-Sales to Post-Sales](https://about.gitlab.com/handbook/customer-success/pre-sales-post-sales-transition/)
         * [ ]  [Using Salesforce within Customer Success](https://about.gitlab.com/handbook/customer-success/using-salesforce-within-customer-success/)
     * [ ]  [Editing the Handbook](https://about.gitlab.com/handbook/editing-handbook/)
