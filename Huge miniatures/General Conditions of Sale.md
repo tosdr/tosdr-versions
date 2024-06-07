@@ -10,7 +10,7 @@ SAME DAY SHIPPING MADE IN THE USA FREE US SHIPPING $79+
 
 Search
 
-[![](/wp-content/uploads/HM-header-logo.png)](https://hugeminis.com/)
+[![Logo](/wp-content/uploads/HM-header-logo.png)](https://hugeminis.com/)
 
 Search
 
@@ -127,13 +127,13 @@ free US shipping.
 
 **Free Shipping**Orders over $79 qualify for free US shipping.
 
-EST. 2017 ![](/wp-content/uploads/HM-footer-logo.png) ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20154%2034'%3E%3C/svg%3E)
+EST. 2017 ![Logo](/wp-content/uploads/HM-footer-logo.png) ![SSL icon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20154%2034'%3E%3C/svg%3E)
 
-![](/wp-content/uploads/SSL.png)
+![SSL icon](/wp-content/uploads/SSL.png)
 
 NEWS Stay informed about promotions and new product releases.
 
-Made in USA Our art and modeling products are made by hand in the USA. ![](/wp-content/uploads/USA.png)
+Made in USA Our art and modeling products are made by hand in the USA. ![Heart with USA flag decoration](/wp-content/uploads/USA.png)
 
 Programs
 
