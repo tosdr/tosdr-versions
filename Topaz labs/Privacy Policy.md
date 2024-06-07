@@ -16,6 +16,8 @@ K
 
 [What Are Seats?](https://topazlabs.com/sales-account-licensing/your-account/what-are-seats)[See and Download Products You Own](https://topazlabs.com/sales-account-licensing/your-account/see-what-products-you-own)[Reset Your Topaz Labs Password](https://topazlabs.com/sales-account-licensing/your-account/reset-your-topaz-labs-password)[Create A Topaz Labs Account](https://topazlabs.com/sales-account-licensing/your-account/how-to-create-a-topaz-labs-account)[Log In To Your Account](https://topazlabs.com/sales-account-licensing/your-account/log-in-to-your-account)[Log Out Of Your Account](https://topazlabs.com/sales-account-licensing/your-account/log-out-of-your-account)[Access Previous Orders And Invoices](https://topazlabs.com/sales-account-licensing/your-account/view-previous-orders)
 
+[Join Topaz Labs' Beta programs!](https://topazlabs.com/sales-account-licensing/join-topaz-labs-beta-programs)
+
 #### Photo AI
 
 [Quick Start](https://topazlabs.com/photo-ai/quick-start)
