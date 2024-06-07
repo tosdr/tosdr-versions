@@ -15,7 +15,7 @@
 * [Careers](https://www.autismspeaks.org/autism-speaks-careers "Join our team!")
 * Set Your Location
 
-* [What is autism?](https://www.autismspeaks.org/what-autism "What is autism?")
+* [What is autism?](https://www.autismspeaks.org/what-is-autism "What is autism?")
     
     * [Learn the signs](https://www.autismspeaks.org/signs-autism "Learn the signs of autism")
     * [Symptoms of autism](https://www.autismspeaks.org/autism-symptoms "What are the symptoms of autism?")
@@ -88,7 +88,7 @@
     
 * [Donate](https://autismspeaks.donorsupport.co/-/XHGEUVBH)
 
-* [What is autism?](https://www.autismspeaks.org/what-autism "What is autism?")
+* [What is autism?](https://www.autismspeaks.org/what-is-autism "What is autism?")
     
     * [Learn the signs](https://www.autismspeaks.org/signs-autism "Learn the signs of autism")
     * [Symptoms of autism](https://www.autismspeaks.org/autism-symptoms "What are the symptoms of autism?")
