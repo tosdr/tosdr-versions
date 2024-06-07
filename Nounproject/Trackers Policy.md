@@ -48,6 +48,14 @@ Cookies dropped by Company:
 | \_gat | Google analytics | Google analytics | * Type: Performance/Analytical<br>* Duration: persistent<br>* Expiration Period: 1 minute |
 | \_gid | Google analytics | Google analytics | * Type: Performance/Analytical<br>* Duration: persistent<br>* Expiration Period: 1 day |
 | IDE | Google DoubleClick | Google DoubleClick | * Type: Retargeting/Advertising<br>* Duration: persistent<br>* Expiration Period: 2 years |
+| \_hjSessionUser\_\* | Hotjar User ID | Hotjar | * Type: Performance/Analytical<br>* Duration: Persistent<br>* Expiration Period: 12 months |
+| \_hjHasCachedUserAttributes | Hotjar User Attributes | Hotjar | * Type: Performance/Analytical<br>* Duration: Session |
+| \_hjUserAttributesHash | Hotjar User Attributes | Hotjar | * Type: Performance/Analytical<br>* Duration: Persistent<br>* Expiration Period: 2 minutes |
+| \_hjSession\_\* | Hotjar Session | Hotjar | * Type: Performance/Analytical<br>* Duration: Session |
+| \_hjCookieTest | Hotjar Cookie Test | Hotjar | * Type: Performance/Analytical<br>* Duration: Session |
+| \_hjLocalStorageTest | Hotjar Local Storage Test | Hotjar | * Type: Performance/Analytical<br>* Duration: Session |
+| \_hjSessionStorageTest | Hotjar Session Storage Test | Hotjar | * Type: Performance/Analytical<br>* Duration: Session |
+| \_hjTLDTest | Hotjar Cookie Path | Hotjar | * Type: Performance/Analytical<br>* Duration: Session |
 
 Cookies dropped by third parties:
 
