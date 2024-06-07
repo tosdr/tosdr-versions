@@ -94,12 +94,12 @@ Hide Main Navigation Menu
 
 ### Featured
 
+* [![](https://www.unc.edu/wp-content/uploads/2024/06/Jasmine-King-250x141.jpg)
+    
+    Pharmacist reprograms cells to treat brain cancer](https://www.unc.edu/posts/2024/06/07/pharmacist-reprograms-cells-to-treat-brain-cancer/)
 * [![](https://www.unc.edu/wp-content/uploads/2024/06/Morgan-Pitelka-hero-250x141.jpg)
     
     Asian studies chair weighs in on ‘Shogun’](https://www.unc.edu/posts/2024/06/05/asian-studies-chair-weighs-in-on-shogun/)
-* [![](https://www.unc.edu/wp-content/uploads/2024/06/24-7517-UCM_TonuKalamRetires_d2-250x141.jpg)
-    
-    Tonu Kalam retires after 36 years of beautiful music](https://www.unc.edu/posts/2024/06/04/tonu-kalam-retires-after-36-years-of-beautiful-music/)
 
 About the University
 
@@ -477,7 +477,7 @@ Please contact [privacy@unc.edu](mailto:privacy@unc.edu) for more information on
 
  [LinkedIn](https://www.linkedin.com/sharing/share-offsite/?mini=true&url=%url%&title=%title%)
 
- [Email](https://www.unc.edu/wp-admin/admin-ajax.php?action=has_email_social_modal&permalink=%url%&nonce=2ee0d11849&text=%prefix%%text%%suffix%&post_id=0&type=%type%)
+ [Email](https://www.unc.edu/wp-admin/admin-ajax.php?action=has_email_social_modal&permalink=%url%&nonce=74b1dde139&text=%prefix%%text%%suffix%&post_id=0&type=%type%)
 
 ### Share on Mastodon
 
