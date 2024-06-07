@@ -42,7 +42,7 @@
     * [Clinical Supervision](https://www.calmhsa.org/clinical-supervision/)
     * [Staffing Needs](https://www.calmhsa.org/staffing-needs/)
     * [CalMHSA Loan Repayment Program](https://www.calmhsa.org/loan-repayment/)
-    * [Staff Training](https://www.calmhsa.org/staff-training/)
+    * [5150 Training](https://www.calmhsa.org/5150-training/)
 * CalAIM Training
     * [BHQIP Resources for Counties](https://www.calmhsa.org/bhqip/)
     * [CalAIM Support for Counties](https://www.calmhsa.org/calaim-support-for-counties/)
@@ -95,7 +95,7 @@
     * [Clinical Supervision](https://www.calmhsa.org/clinical-supervision/)
     * [Staffing Needs](https://www.calmhsa.org/staffing-needs/)
     * [CalMHSA Loan Repayment Program](https://www.calmhsa.org/loan-repayment/)
-    * [Staff Training](https://www.calmhsa.org/staff-training/)
+    * [5150 Training](https://www.calmhsa.org/5150-training/)
 * CalAIM Training
     * [BHQIP Resources for Counties](https://www.calmhsa.org/bhqip/)
     * [CalAIM Support for Counties](https://www.calmhsa.org/calaim-support-for-counties/)
