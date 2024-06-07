@@ -1,15 +1,15 @@
-Thursday, June 6 2024
+Friday, June 7 2024
 
 Breaking News
 
+* [In Remembrance of D-Day: Blame Innocent Victims of War On Christianity – NOT!](https://www.conservativedailynews.com/2024/06/in-remembrance-of-d-day-blame-innocent-victims-of-war-on-christianity-not/)
+* [Jonathan Turley Says ‘All Of’ Hunter Biden’s Trial ‘Defenses’ Quickly ‘Collapsed’](https://www.conservativedailynews.com/2024/06/jonathan-turley-says-all-of-hunter-bidens-trial-defenses-quickly-collapsed/)
+* [CNN’s Elie Honig Says Fani Willis’ Trump Case ‘May Not Get Tried Ever’ After ‘Surprising’ Decision](https://www.conservativedailynews.com/2024/06/cnns-elie-honig-says-fani-willis-trump-case-may-not-get-tried-ever-after-surprising-decision/)
+* [James Carville Calls On Media To Ramp Up ‘Slanted Coverage’ To Defeat Trump](https://www.conservativedailynews.com/2024/06/james-carville-calls-on-media-to-ramp-up-slanted-coverage-to-defeat-trump/)
+* [Can We Trust The Outcome In November](https://www.conservativedailynews.com/2024/06/can-we-trust-the-outcome-in-november/)
 * [Israeli Officials’ Latest Comments Indicate Middle East Powder Keg May Be On Verge Of Blowing Up](https://www.conservativedailynews.com/2024/06/israeli-officials-latest-comments-indicate-middle-east-powder-keg-may-be-on-verge-of-blowing-up/)
 * [A Broken Border Is Not The Same As A Broken Immigration System](https://www.conservativedailynews.com/2024/06/a-broken-border-is-not-the-same-as-a-broken-immigration-system/)
 * [After the Bragg Verdict in New York Biden cannot Possibly Unite America](https://www.conservativedailynews.com/2024/06/after-the-bragg-verdict-in-new-york-biden-cannot-possibly-unite-america/)
-* [President Joe Biden’s Schedule for Thursday, June 6, 2024](https://www.conservativedailynews.com/2024/06/president-joe-bidens-schedule-for-thursday-june-6-2024/)
-* [MSNBC Analyst Suggests Silencing Trump To ‘Protect Voters’](https://www.conservativedailynews.com/2024/06/msnbc-analyst-suggests-silencing-trump-to-protect-voters/)
-* [Biden Says He Wants To Cut Down On Illegal Immigration — But ‘Bidenomics’ Depends On It](https://www.conservativedailynews.com/2024/06/biden-says-he-wants-to-cut-down-on-illegal-immigration-but-bidenomics-depends-on-it/)
-* [UN Chief Calls For Governments To Censor Fossil Fuel Advertisements](https://www.conservativedailynews.com/2024/06/un-chief-calls-for-governments-to-censor-fossil-fuel-advertisements/)
-* [Can Russian And Chinese Agents Legally Vote In DC?](https://www.conservativedailynews.com/2024/06/can-russian-and-chinese-agents-legally-vote-in-dc/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -103,21 +103,57 @@ Support Conservative Daily News with a small donation via [Paypal or credit card
 * [Twitter](https://twitter.com/CDNPosts)
 * [Telegram](https://t.me/CDNMedia)
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/09/MSDNC-MSNBC-Media-Bias-220x150.png)](https://www.conservativedailynews.com/2024/06/msnbc-analyst-suggests-silencing-trump-to-protect-voters/)
+    
+    [MSNBC Analyst Suggests Silencing Trump To ‘Protect Voters’](https://www.conservativedailynews.com/2024/06/msnbc-analyst-suggests-silencing-trump-to-protect-voters/)
+    
+    June 6, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2021/11/gavel-justice-220x150.jfif)](https://www.conservativedailynews.com/2024/06/elon-musks-x-asks-supreme-court-to-weigh-in-on-jack-smiths-trump-search-warrant/)
     
     [Elon Musk’s X Asks Supreme Court To Weigh In On Jack Smith’s Trump Search Warrant](https://www.conservativedailynews.com/2024/06/elon-musks-x-asks-supreme-court-to-weigh-in-on-jack-smiths-trump-search-warrant/)
     
     June 4, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/04/Judge-with-Gavel-220x150.jpg)](https://www.conservativedailynews.com/2024/06/theres-a-long-list-of-reasons-to-toss-trumps-conviction-but-his-appeal-venue-isnt-the-friendliest/)
-    
-    [There’s A Long List Of Reasons To Toss Trump’s Conviction — But His Appeal Venue Isn’t The Friendliest](https://www.conservativedailynews.com/2024/06/theres-a-long-list-of-reasons-to-toss-trumps-conviction-but-his-appeal-venue-isnt-the-friendliest/)
-    
-    June 4, 2024
-    
 
 Recent Posts
 
+* [![A watercraft unloads troops on a beach.](https://www.conservativedailynews.com/wp-content/uploads/2024/05/440606-O-D0439-017-220x150.jpg)](https://www.conservativedailynews.com/2024/06/in-remembrance-of-d-day-blame-innocent-victims-of-war-on-christianity-not/)
+    
+    [In Remembrance of D-Day: Blame Innocent Victims of War On Christianity – NOT!](https://www.conservativedailynews.com/2024/06/in-remembrance-of-d-day-blame-innocent-victims-of-war-on-christianity-not/)
+    
+    June 6, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/11/Hunter-Biden-scaled.jpg)](https://www.conservativedailynews.com/2024/06/jonathan-turley-says-all-of-hunter-bidens-trial-defenses-quickly-collapsed/)
+    
+    [Jonathan Turley Says ‘All Of’ Hunter Biden’s Trial ‘Defenses’ Quickly ‘Collapsed’](https://www.conservativedailynews.com/2024/06/jonathan-turley-says-all-of-hunter-bidens-trial-defenses-quickly-collapsed/)
+    
+    June 6, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/11/gavel-justice-220x150.jfif)](https://www.conservativedailynews.com/2024/06/cnns-elie-honig-says-fani-willis-trump-case-may-not-get-tried-ever-after-surprising-decision/)
+    
+    [CNN’s Elie Honig Says Fani Willis’ Trump Case ‘May Not Get Tried Ever’ After ‘Surprising’ Decision](https://www.conservativedailynews.com/2024/06/cnns-elie-honig-says-fani-willis-trump-case-may-not-get-tried-ever-after-surprising-decision/)
+    
+    June 6, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2020/05/cropped-James-Carville.jpg)](https://www.conservativedailynews.com/2024/06/james-carville-calls-on-media-to-ramp-up-slanted-coverage-to-defeat-trump/)
+    
+    [James Carville Calls On Media To Ramp Up ‘Slanted Coverage’ To Defeat Trump](https://www.conservativedailynews.com/2024/06/james-carville-calls-on-media-to-ramp-up-slanted-coverage-to-defeat-trump/)
+    
+    June 6, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/06/01-toothless-sm-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/06/a-f-branco-cartoon-guard-on-duty/)
+    
+    [Guard Dog On Duty](https://www.conservativedailynews.com/2024/06/a-f-branco-cartoon-guard-on-duty/)
+    
+    June 6, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/06/IMG_5101-220x150.jpeg)](https://www.conservativedailynews.com/2024/06/can-we-trust-the-outcome-in-november/)
+    
+    [Can We Trust The Outcome In November](https://www.conservativedailynews.com/2024/06/can-we-trust-the-outcome-in-november/)
+    
+    June 6, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2022/01/hollis-feat-220x150-1.jpg)](https://www.conservativedailynews.com/2024/06/it-isnt-fashion-its-filth/)
     
     [It Isn’t Fashion — It’s Filth](https://www.conservativedailynews.com/2024/06/it-isnt-fashion-its-filth/)
@@ -130,46 +166,11 @@ Recent Posts
     
     June 6, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/06/gv060624dAPR-1-1-220x150.jpg)](https://www.conservativedailynews.com/2024/06/bidens-broken-border/)
-    
-    [Biden’s Broken Border](https://www.conservativedailynews.com/2024/06/bidens-broken-border/)
-    
-    June 6, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/12/Saving-piggy-bank-money-220x150.png)](https://www.conservativedailynews.com/2024/06/clever-ways-to-use-this-for-that-to-save-time-and-money/)
-    
-    [Clever Ways to Use This for That to Save Time and Money](https://www.conservativedailynews.com/2024/06/clever-ways-to-use-this-for-that-to-save-time-and-money/)
-    
-    June 6, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/06/IMG_5100-220x150.jpeg)](https://www.conservativedailynews.com/2024/06/a-broken-border-is-not-the-same-as-a-broken-immigration-system/)
-    
-    [A Broken Border Is Not The Same As A Broken Immigration System](https://www.conservativedailynews.com/2024/06/a-broken-border-is-not-the-same-as-a-broken-immigration-system/)
-    
-    June 6, 2024
-    
-* [![Joe Biden democrats lawfare Donald Trump](https://www.conservativedailynews.com/wp-content/uploads/2024/06/01gun-smoke-dt-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/06/after-the-bragg-verdict-in-new-york-biden-cannot-possibly-unite-america/)
-    
-    [After the Bragg Verdict in New York Biden cannot Possibly Unite America](https://www.conservativedailynews.com/2024/06/after-the-bragg-verdict-in-new-york-biden-cannot-possibly-unite-america/)
-    
-    June 6, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/02/Joe-Biden-checking-watch-220x150.jpg)](https://www.conservativedailynews.com/2024/06/president-joe-bidens-schedule-for-thursday-june-6-2024/)
-    
-    [President Joe Biden’s Schedule for Thursday, June 6, 2024](https://www.conservativedailynews.com/2024/06/president-joe-bidens-schedule-for-thursday-june-6-2024/)
-    
-    June 6, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/09/MSDNC-MSNBC-Media-Bias-220x150.png)](https://www.conservativedailynews.com/2024/06/msnbc-analyst-suggests-silencing-trump-to-protect-voters/)
-    
-    [MSNBC Analyst Suggests Silencing Trump To ‘Protect Voters’](https://www.conservativedailynews.com/2024/06/msnbc-analyst-suggests-silencing-trump-to-protect-voters/)
-    
-    June 6, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
 * [Private school founder destroys every argument against arming teachers](https://www.thegunpage.com/private-school-founder-destroys-every-argument-against-arming-teachers/10608771)
+* [Hornady Manufacturing Celebrates 75 Years Of Bullet Making](https://www.thegunpage.com/hornady-manufacturing-celebrates-75-years-of-bullet-making/10608774)
 * [USPSA’s Staci Pulver: 25 Years And Counting](https://www.thegunpage.com/uspsas-staci-pulver-25-years-and-counting/10608770)
 * [NRA Introduces Pistol And Smallbore Classifications: 1939 National Matches](https://www.thegunpage.com/nra-introduces-pistol-and-smallbore-classifications-1939-national-matches/10608769)
 * [Federal Ammunition Renews Support Of Minnesota High School Trap Championship](https://www.thegunpage.com/federal-ammunition-renews-support-of-minnesota-high-school-trap-championship/10608764)
@@ -178,7 +179,6 @@ Recent Posts
 * [New: Cabot Guns 80th Anniversary D-Day Tribute Pistols](https://www.thegunpage.com/new-cabot-guns-80th-anniversary-d-day-tribute-pistols/10608756)
 * [Six Solid Tips For Speedy Reloads In Action Shooting](https://www.thegunpage.com/six-solid-tips-for-speedy-reloads-in-action-shooting/10608757)
 * [Media fact check: How fake mass-shooting data produces fake news](https://www.thegunpage.com/media-fact-check-how-fake-mass-shooting-data-produces-fake-news/10608746)
-* [Walther Arms Reintroduces PPK/S Chambered In .32 ACP](https://www.thegunpage.com/walther-arms-reintroduces-ppk-s-chambered-in-32-acp/10608748)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -220,6 +220,8 @@ Contact Us
 
 Recent Comments
 
+* KayCee on [Can We Trust The Outcome In November](https://www.conservativedailynews.com/2024/06/can-we-trust-the-outcome-in-november/#comment-775325)
+* KayCee on [Of ‘Convicted Felons’ and Lying Frauds](https://www.conservativedailynews.com/2024/06/of-convicted-felons-and-lying-frauds/#comment-775317)
 * MeMyself&I on [United Launch Alliance Successfully Launches First Crewed Starliner](https://www.conservativedailynews.com/2024/06/united-launch-alliance-successfully-launches-first-crewed-starliner/#comment-775289)
 * Richard McDonough on [Bill Maher’s Trump Derangement Syndrome](https://www.conservativedailynews.com/2024/06/bill-mahers-trump-derangement-syndrome/#comment-775278)
 * Jeff L. on [Jill Biden Calls to vote for Good over Evil in November](https://www.conservativedailynews.com/2024/06/jill-biden-calls-to-vote-for-good-over-evil-in-november/#comment-775271)
@@ -227,8 +229,6 @@ Recent Comments
 * TMann on [Nearly Half Of Independents Think Trump Should Drop Out Following Guilty Verdict: POLL](https://www.conservativedailynews.com/2024/06/nearly-half-of-independents-think-trump-should-drop-out-following-guilty-verdict-poll/#comment-775238)
 * KayCee on [Biden Promised To Build Half A Million EV Charging Stations. So far, There Are A Grand Total Of 8](https://www.conservativedailynews.com/2024/06/biden-promised-to-build-half-a-million-ev-charging-stations-so-far-there-are-a-grand-total-of-8/#comment-775226)
 * Kaycee on [New York DA Bragg took a “Dangerous Step further than Stalin Ever did”](https://www.conservativedailynews.com/2024/06/new-york-da-bragg-took-a-dangerous-step-further-than-stalin-ever-did/#comment-775225)
-* Deacon JIm Martin on [New York DA Bragg took a “Dangerous Step further than Stalin Ever did”](https://www.conservativedailynews.com/2024/06/new-york-da-bragg-took-a-dangerous-step-further-than-stalin-ever-did/#comment-775203)
-* Will Delito on [Nearly Half Of Independents Think Trump Should Drop Out Following Guilty Verdict: POLL](https://www.conservativedailynews.com/2024/06/nearly-half-of-independents-think-trump-should-drop-out-following-guilty-verdict-poll/#comment-775195)
 
 ![sponsored](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
