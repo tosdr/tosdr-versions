@@ -6,11 +6,11 @@
 * Marketplace
 * [Enterprise](https://www.smartcat.com/enterprise/)
 * [Pricing](https://www.smartcat.com/pricing/)
-* [Get Started Free](https://smartcat.com/sign-up?main_nav=get-started-free&tmp=true&land=51314631)
-* [Sign in](https://smartcat.com/sign-in?tmp=true&land=51314631)
+* [Get Started Free](https://smartcat.com/sign-up?main_nav=get-started-free&tmp=true&land=51446749)
+* [Sign in](https://smartcat.com/sign-in?tmp=true&land=51446749)
 * [en](#)
 
-[en](#)[Sign in](https://smartcat.com/sign-in?land=51314631)[Get Started Free](https://smartcat.com/sign-up?main_nav=get-started-free&land=51314631)
+[en](#)[Sign in](https://smartcat.com/sign-in?land=51446749)[Get Started Free](https://smartcat.com/sign-up?main_nav=get-started-free&land=51446749)
 
 Smartcat legal
 
