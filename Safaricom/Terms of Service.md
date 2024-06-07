@@ -236,6 +236,20 @@ out of 5 based on
 
 ![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
+> Jun 6, 2024
+
+> Pascal is an outstanding Safari…
+
+> Pascal is an outstanding Safari consultant!!!  He's very personable, warm, professional, and very detailed. He made a perfect itinerary. for my trip to Victoira Falls. I would highly recommend him at Safari Travel Agency, will not be disappointed. They are a top-notch company, and Pascal is a great asset for sure. I have traveled the world and was surprised by the level of professionalism and knowledge that I gained working with him. Being a sales professional and world traveler, I'm very picky, but they checked all the boxes. Thank you so much, and all the best.
+
+Branka Bogdanich
+
+,
+
+US
+
+![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
 > Jun 5, 2024
 
 > :))))
@@ -345,20 +359,6 @@ Rudolf
 ,
 
 US
-
-![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> May 31, 2024
-
-> Helen Cotzee has been very helpful with…
-
-> Helen Cotzee has been very helpful with all my request, very professional a wonderful experience finding such a great person.
-
-Franca Valsesia
-
-,
-
-NA
 
 VIP service
 
