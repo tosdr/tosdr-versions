@@ -64,7 +64,7 @@ Sign Up for Saks Text Alerts | Text SAKS5 to 75283 | [**LEARN MORE**](https://ww
 
 ß
 
-[](https://www.saksfifthavenue.com/ "saks avenue/Home")
+[](https://www.saksfifthavenue.com/mens "saks avenue/Home")
 
 [](https://www.saksfifthavenue.com/wishlist "Wishlist")
 
@@ -89,7 +89,7 @@ WOMEN MEN
             * [Dolce&Gabbana](https://www.saksfifthavenue.com/brand/dolce-gabbana)
             * [Farm Rio](https://www.saksfifthavenue.com/brand/farm-rio)
             * [Givenchy](https://www.saksfifthavenue.com/brand/givenchy)
-            * [Gucci](https://www.saksfifthavenue.com/brand/gucci)
+            * [Khaite](https://www.saksfifthavenue.com/brand/khaite)
             * [LOEWE](https://www.saksfifthavenue.com/brand/loewe)
             * [Oscar de la Renta](https://www.saksfifthavenue.com/brand/oscar-de-la-renta)
             * [Prada](https://www.saksfifthavenue.com/brand/prada)
@@ -99,6 +99,7 @@ WOMEN MEN
             * [Veronica Beard](https://www.saksfifthavenue.com/brand/veronica-beard)
             * [Zimmermann](https://www.saksfifthavenue.com/brand/zimmermann)
         * [\-](https://www.saksfifthavenue.com/designers)
+            * [Gucci](https://www.saksfifthavenue.com/brand/gucci)
             * [Khaite](https://www.saksfifthavenue.com/brand/khaite)
             * [LOEWE](https://www.saksfifthavenue.com/brand/loewe)
             * [Oscar de la Renta](https://www.saksfifthavenue.com/brand/oscar-de-la-renta)
@@ -195,10 +196,10 @@ WOMEN MEN
             * [Summer Fashion](https://www.saksfifthavenue.com/c/custom/editorial-events/seasonal-fashion-trends/summer-fashion/women-s-summer-fashion)
             * [Quiet Luxury](https://www.saksfifthavenue.com/c/custom/email-events/elevated-essentials)
             * [Garden Party](https://www.saksfifthavenue.com/c/custom/email-events/in-bloom)
+            * [Bow Stacking](https://www.saksfifthavenue.com/c/custom/email-events/thelittlethings)
             * [Americana](https://www.saksfifthavenue.com/c/custom/editorial-events/american-dream)
             * [Ballpark Style](https://www.saksfifthavenue.com/c/custom/email-events/ballpark-style)
             * [Tenniscore](https://www.saksfifthavenue.com/c/wellness/shop-by-activity/tennis/women-s)
-            * [LGBTQ+ Led Brands](https://www.saksfifthavenue.com/c/custom/editorial-events/pride-month)
         * [The Edit](https://www.saksfifthavenue.com/c/the-edit)
             
             * [Why We're Planning a Southern Escape to Savannah](https://www.saksfifthavenue.com/c/the-edit-content/060424/visit-savannah)
@@ -224,7 +225,7 @@ WOMEN MEN
             * [Tops](https://www.saksfifthavenue.com/c/women-s-apparel/tops)
             * [Jeans](https://www.saksfifthavenue.com/c/women-s-apparel/jeans)
             * [Sweaters](https://www.saksfifthavenue.com/c/women-s-apparel/sweaters)
-            * [Coats](https://www.saksfifthavenue.com/c/women-s-apparel/coats)
+            * [Shorts](https://www.saksfifthavenue.com/c/women-s-apparel/shorts)
             * [Pants](https://www.saksfifthavenue.com/c/women-s-apparel/pants)
             * [Skirts](https://www.saksfifthavenue.com/c/women-s-apparel/skirts)
             * [Matching Sets](https://www.saksfifthavenue.com/c/custom/editorial-events/matching-sets)
@@ -247,8 +248,8 @@ WOMEN MEN
         * [Dresses](https://www.saksfifthavenue.com/c/women-s-apparel/dresses)
             
             * [Cocktail Dresses](https://www.saksfifthavenue.com/c/women-s-apparel/dresses/cocktail)
+            * [Day Dresses](https://www.saksfifthavenue.com/c/women-s-apparel/dresses/day-casual)
             * [Evening Gowns](https://www.saksfifthavenue.com/c/women-s-apparel/dresses/evening-gowns)
-            * [Mini Dresses](https://www.saksfifthavenue.com/c/women-s-apparel/dresses/mini)
             * [Midi Dresses](https://www.saksfifthavenue.com/c/women-s-apparel/dresses/midi)
             * [Mother of the Bride](https://www.saksfifthavenue.com/c/women-s-apparel/dresses/mother-of-the-bride)
             * [Wedding Guest Dresses](https://www.saksfifthavenue.com/c/the-wedding-shop/wedding-guest-attire/women-s-wedding-guest-attire?prefn1=refCategory&prefv1=Women%27s%20Apparel)
@@ -263,8 +264,8 @@ WOMEN MEN
             [New Arrivals](https://www.saksfifthavenue.com/c/women-s-apparel?prefn1=isNew&prefv1=New) [Best Sellers](https://www.saksfifthavenue.com/c/custom/email-events/best-sellers/women-s-clothing)
         * Curated Shops
             
-            * [Tenniscore](https://www.saksfifthavenue.com/c/wellness/shop-by-activity/tennis/women-s?prefn1=refCategory&prefv1=Women%27s%20Apparel)
-            * [It Girl's Closet](https://www.saksfifthavenue.com/c/custom/email-events/it-girls-closet)
+            * [Americana](https://www.saksfifthavenue.com/c/custom/editorial-events/american-dream?prefn1=refCategory&prefv1=Women%27s%20Apparel)
+            * [It Girl's Closet](https://www.saksfifthavenue.com/c/custom/email-events/it-girls-closet?prefn1=refCategory&prefv1=Women%27s%20Apparel)
             * [Western Inspired](https://www.saksfifthavenue.com/c/custom/email-events/western-inspired?prefn1=refCategory&prefv1=Women%27s%20Apparel)
             * [Garden Party](https://www.saksfifthavenue.com/c/custom/email-events/in-bloom?prefn1=refCategory&prefv1=Women%27s%20Apparel)
             * [Summer Fashion](https://www.saksfifthavenue.com/c/custom/editorial-events/seasonal-fashion-trends/summer-fashion/women-s-summer-fashion/summer-clothing)
@@ -273,7 +274,7 @@ WOMEN MEN
             
             * [Akris punto](https://www.saksfifthavenue.com/c/women-s-apparel/akris-punto/sale)
             * [Alice + Olivia](https://www.saksfifthavenue.com/c/women-s-apparel/alice-olivia/sale)
-            * [Etro](https://www.saksfifthavenue.com/c/women-s-apparel/etro/sale)
+            * [Burberry](https://www.saksfifthavenue.com/c/women-s-apparel/burberry/sale)
             * [Oscar de la Renta](https://www.saksfifthavenue.com/c/women-s-apparel/oscar-de-la-renta/sale)
             * [The Row](https://www.saksfifthavenue.com/c/women-s-apparel/the-row/sale)
             * [Zimmermann](https://www.saksfifthavenue.com/c/women-s-apparel/zimmermann/sale)
@@ -528,7 +529,6 @@ WOMEN MEN
             * [Eclectic Grandpa](https://www.saksfifthavenue.com/c/custom/email-events/men-s-eclectic-grandpa)
             * [Refined 'Fits](https://www.saksfifthavenue.com/c/custom/email-events/refined--fits)
             * [Utility-Inspired Style](https://www.saksfifthavenue.com/c/custom/email-events/men-s-utility-inspired-style)
-            * [LGBTQ+ Led Brands](https://www.saksfifthavenue.com/c/custom/editorial-events/pride-month)
         * [The Edit](https://www.saksfifthavenue.com/c/the-edit)
             
             * [Why We're Planning a Southern Escape to Savannah](https://www.saksfifthavenue.com/c/the-edit-content/060424/visit-savannah)
@@ -724,6 +724,7 @@ WOMEN MEN
             
             [Shoes](https://www.saksfifthavenue.com/c/kids/shoes)
             
+            * [Shop All](https://www.saksfifthavenue.com/c/kids/shoes)
             * [Boys'](https://www.saksfifthavenue.com/c/kids/shoes/boys--2-20-)
             * [Girls'](https://www.saksfifthavenue.com/c/kids/shoes/girls--2-16-)
             
