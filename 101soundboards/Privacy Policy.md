@@ -1,5 +1,7 @@
 * [Skip to content](#content-anchor)
 
+Install App
+
 * [Search](https://www.101soundboards.com/search) Find a sound
 * [Funny](https://www.101soundboards.com/?sort=funny#sort_filters) Funny sounds
 * [Topics](#collapseCategoriesSidebar) Topics
@@ -72,7 +74,15 @@ Help
 
 ##### How can I download sounds?
 
-To download a sound, right click on the sound and press 'download sound'. You can earn free download credits by waching an advert. Skipping the advert or using an advertising blocker may prevent receiving your free download credits. These adverts help fund this free site.
+To download a sound, right click on the sound and press 'download sound'. You can earn free download credits by waching an advert.
+
+Skipping the advert or using an advertising blocker may prevent receiving your free download credits. These adverts help fund this free site. It wouldn't exist otherwise. This site makes lots of people happy.
+
+Your AdBlocker status is: Unknown.
+
+Your AdBlocker status is: Active/Blocked.
+
+Your AdBlocker status is: Inactive/Not Blocked.
 
 ##### Do you have a smartphone or desktop app?
 
@@ -100,6 +110,14 @@ Read about the unexpected benefits of soundboards on the [Have Fun Playing Sound
 
 To make a soundboard, create an account, go to [My Soundboards](https://www.101soundboards.com/home), press 'Add New Board,' name your board, then upload sound files. Press 'Request Transcription' and within a few minutes your sounds will be automatically labelled using Speech to Text, or label them yourself.
 
+##### How do I edit sound files?
+
+These are three ways you can edit sound files:
+
+1. Use the free software '[Audacity](https://www.audacityteam.org/)' (recommended) which you can [download for free](https://www.audacityteam.org/download/), to edit your files before you upload them.
+2. Use the [online audio editor](https://www.101soundboards.com/pages/editor) to edit your files before you upload them.
+3. Trim your sounds after you upload them by pressing the icon next to the sound on your soundboard.
+
 ##### Can I make my own Favorites soundboard and share it with my friends?
 
 Yes you can. Sign up or log in to your account. Right-click any sound on any soundboard and press 'Add to Favorites.' Then find your public favorites soundboard on the [favorites soundboards list](https://www.101soundboards.com/favorites). The newest ones are at the end of the list.
@@ -108,13 +126,13 @@ Yes you can. Sign up or log in to your account. Right-click any sound on any sou
 
 You can upload files in any format, including MP3, WAV, OGG, MKV and MP4. They will be automatically converted.
 
-##### How do I edit sound files before uploading?
-
-You can edit audio files without any download for free with the [online audio editor](https://www.101soundboards.com/pages/editor), or with the free software '[Audacity©](https://www.audacityteam.org/)' (recommended) which you can [download for free](https://www.audacityteam.org/download/) for Windows, Mac OS X, Linux and other operating systems.
-
 ##### Downloading a sound with the app failed
 
 Please try uninstalling and reinstalling the app. There are frequent updates, and it is the easiest way to clear your cache and reset the app. Alternatively you can just download the sound from the web site.
+
+##### I want to play lots of sounds at the same time
+
+At the footer of the page, there is a button that can be switched between '1-Shot' and 'Multiplay' modes. 'Multiplay' plays multiple sounds at the same time, and 'One Shot' will stop the previous sound when you play a new one.
 
 ##### Can I install 101soundboards?
 
@@ -124,6 +142,10 @@ Yes! Just go to the menu in the top right (three dots) and press 'Install 101sou
 
 The colors of the sound buttons change as the initial letter of the sound title changes. This is to help you navigate through a soundboard, instead of a wall of identical buttons.
 
+##### How can I get support with autism?
+
+We recognize that many of our users are autistic. Here is a great [list of resources for Autism awareness and support](https://autismawarenesscentre.com/resource-regions/united-states/).
+
 ##### How do I hide the banner adverts?
 
 If you create and log in to a free account, the banner adverts will be hidden. The download adverts are still required for earning your free download credits.
@@ -131,6 +153,12 @@ If you create and log in to a free account, the banner adverts will be hidden. T
 ##### Why are there adverts when downloading?
 
 Advertising helps support this free site. It costs money in hosting, and a lot of time and effort making and maintaining the site. This site was created to help people have fun playing sounds.
+
+Your AdBlocker status is: Unknown.
+
+Your AdBlocker status is: Active/Blocked.
+
+Your AdBlocker status is: Inactive/Not Blocked.
 
 ##### How do I hide the adverts when downloading?
 
@@ -150,7 +178,11 @@ Yes! You can [add the Discord bot for free to your server](https://www.101soundb
 
 ##### How do I stop getting notifications?
 
-[Click here for a guide on how to unsubscribe from web push notifications](https://intercom.help/push-monkey/en/articles/1646571-how-to-unsubscribe-from-web-push-notifications).
+[Click here for a guide on how to unsubscribe from web push notifications](https://segmentify.com/blog/how-to-unsubscribe-from-push-notifications).
+
+##### What are Aural Matches?
+
+101soundboards.com uses proprietary technology to match sounds based on their audio signatures. This is useful for finding similar sounds, or finding other soundboards that enjoy using simliar sounds.
 
 ##### I have a question
 
@@ -418,7 +450,5 @@ If you have any questions about this Privacy Policy, please contact us:
   
 
 [Search](https://www.101soundboards.com/search) [Your Favorites Soundboard](https://www.101soundboards.com/favorites/me)
-
- [](https://www.101soundboards.com/sounds/live "See a live list of sounds being played") [](https://www.101soundboards.com/sounds/live "See a live list of sounds being played")
 
 Dark Mode Light Mode
