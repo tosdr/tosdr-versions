@@ -56,6 +56,10 @@ Breadcrumb
 
 1. [Home](https://www.noaa.gov/)
 
+* [NOAA Photo Library](https://www.noaa.gov/digital-library)
+* [Collections](https://www.noaa.gov/digital-library/collections)
+* [Search](https://www.noaa.gov/digital-library/search)
+
 Protecting your privacy
 =======================
 
@@ -201,4 +205,4 @@ Science. Service. Stewardship.
 
 [NOAA on Twitter](https://twitter.com/NOAA) [NOAA on Facebook](https://www.facebook.com/NOAA) [NOAA on Instagram](https://www.instagram.com/noaa) [NOAA on YouTube](https://www.youtube.com/usnoaagov)
 
-[Back to top](#top--IskS4nvfXeg "Back to top")
+[Back to top](#top---YgclBVkhTE "Back to top")
