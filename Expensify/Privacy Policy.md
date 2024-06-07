@@ -24,6 +24,7 @@
 * [Industries](https://use.expensify.com/industries)
     * [Churches](https://use.expensify.com/church-expenses)
     * [Construction](https://use.expensify.com/construction-expense-management)
+    * [Legal Expense](https://use.expensify.com/legal-expense-tracking)
     * [Nonprofits](https://use.expensify.com/nonprofit-expense-management)
     * [Professional Services](https://use.expensify.com/professional-services-expense-tracking)
     * [Real Estate](https://use.expensify.com/tracking-real-estate-expenses)
@@ -50,21 +51,21 @@
 Privacy Policy
 ==============
 
-**Last updated:** January 19, 2024
+Last Updated: June 6, 2024
 
-**EXPENSIFY GLOBAL PRIVACY POLICY**
+ **EXPENSIFY GLOBAL PRIVACY POLICY**
 
-At Expensify, Inc. (“Expensify”, “we”, “us”, or “our” which include our group and affiliated companies, including, without limitation, Expensify Limited, Expensify Australia Pty Ltd, and Expensify Canada Inc., which such entities collect information from users from particular jurisdictions), our most important asset is our relationship with our user community. We are committed to maintaining the confidentiality, integrity and security of information about our users and their organizations. This privacy policy (“Privacy Policy” or “Policy”) describes how we collect, use, disclose, share and secure the personal and company information you provide when you use our expense management, invoicing or bill processing software, through our mobile application (the “Application”) or visit the Expensify websites [www.expensify.com](https://www.expensify.com/) or [www.use.expensify.com](https://www.use.expensify.com/) or [new.expensify.com](https://new.expensify.com/) (collectively, the “Site” and, together with any related software, tools and services provided in connection with the Application or the Site, the “Expensify Service”). It also describes your choices regarding the use, access and correction of your Personal Data (as defined in Section 3 of this Privacy Policy) and how to contact us if you have any further queries or complaints about our management of your personal information.
+At Expensify, Inc. (“Expensify”, “we”, “us”, or “our”, which include our group and affiliated companies, including, without limitation, Expensify Limited, Expensify Australia Pty Ltd, and Expensify Canada Inc., which such entities collect information from users from particular jurisdictions), our most important asset is our relationship with our user community. We are committed to maintaining the confidentiality, integrity and security of information about our users and their organizations. This privacy policy (“Privacy Policy” or “Policy”) describes how we collect, use, disclose, share and secure the personal and company information you provide when you use our expense management, invoicing or bill processing software, through our mobile application (the “Application”) or visit the Expensify websites [www.expensify.com](https://www.expensify.com/) or [www.use.expensify.com](https://www.use.expensify.com/) or [new.expensify.com](https://new.expensify.com/) (collectively, the “Site” and, together with any related software, tools and services provided in connection with the Application or the Site, the “Expensify Service”). It also describes your choices regarding the use, access and correction of your Personal Data (as defined in Section 3 of this Privacy Policy) and how to contact us if you have any further queries or complaints about our management of your personal information.
 
 In this Privacy Policy, “you” and “your” refers to individual users of the Expensify Service, as well as to Members and Corporate Members. “Members,” “Corporate Members,” and other capitalized terms not defined in this privacy policy are defined in the Expensify Terms of Service.
 
  We process your Personal Data as set out in the Privacy Policy which you should read.
 
- Please review the Jurisdiction-specific provisions below for more information if you are visiting from Europe, Australia, California, or Nevada.
+ Please review the Jurisdiction-specific provisions below for more information if you are visiting from Europe, Australia, California, Colorado, Connecticut, Nevada, or Virginia.
 
 **1\. MEMBER ACKNOWLEDGMENT**
 
-By submitting or making available Personal Data (as defined below) through our Site, the Expensify Software or the Expensify Service, you confirm that you have read and acknowledged the terms of this Privacy Policy and you understand our practices around the collection, storage, use and disclosure of your Personal Data in accordance with this Privacy Policy.
+By submitting or making available Personal Data (as defined below) through the Expensify Service, you confirm that you have read and acknowledged the terms of this Privacy Policy and you understand our practices around the collection, storage, use and disclosure of your Personal Data in accordance with this Privacy Policy.
 
 **2\. A NOTE ABOUT CHILDREN**
 
@@ -76,7 +77,7 @@ Personal information or “Personal Data”, means any information about an indi
 
 We may collect (both directly and indirectly), use, store and transfer different kinds of personal data about you. For specific details about how Expensify does this with cookies, identifiers and other tracking technologies please review the Expensify Cookie Policy below. The categories of Personal Data we collect, use, store and transfer have been grouped together as follows:
 
-* **Registration Data** when you purchase or register for our Services or sign up for our Corporate Card Program or create an Expensify account, we collect directly from you (or for certain corporate accounts, from your employers) Personal Data, including your name, date of birth, billing and mailing address, email, professional title, company name, phone numbers, credit card, other payment information, and password and/or other sign-on mechanism. In addition, we (or our third-party credit card or payment processor on our behalf) will collect Personal Data including your credit card number or account information when you upgrade to a paid account. 
+* **Registration Data** when you purchase or register for our Services or sign up for our Corporate Card Program or create an Expensify account, we collect directly from you (or for certain corporate accounts, from your employers) Personal Data, including your name, date of birth, billing and mailing address, email, professional title, company name, phone numbers, credit card, other payment information, and password and/or other sign-on mechanism. In addition, we (or our third-party credit card or payment processor on our behalf) will collect Personal Data including your credit card number or account information when you upgrade to a paid account or use a feature or function in the Expensify Service that requires payment, such as accessing a Workspace. 
     
 * **Transaction Data that Allows Us to Provide our Services to You.** This includes current and historical financial information, such as bank account, payment card and other payment account, contact information (billing and mailing address, email address, and phone numbers), expense data, receipts, transaction data imported from third party financial service companies, and other details about reimbursements and payments to and from you and other details of products and services you have purchased from us. If you participate in the Corporate Card Program, Corporate Karma Program and/or Personal Karma Program (each subject to the [Karma Program Terms](https://use.expensify.com/karmaprogramterms)), we may collect Personal Data including your name, contact information, and donation amount(s) and/or Karma Points balance, and share this information with [Expensify.org](https://expensify.org/), a California nonprofit public benefit corporation and a charitable affiliate of Expensify. Visit Expensify.org for more details. If you inquire about or participate in the Payroll Service (subject to the Payroll Terms), we may collect or receive from you, your employer, or your employer’s Corporate Administrator, your Personal Data including financial information (such as bank account and routing number, bank account balance and transaction information); identification information (such as your name, mailing address, email address, phone number, birthdate, social security number, taxpayer identification number, and government-issued documentation, such as a driver’s license or passport); and taxpayer information (such as your Federal Employer Identification Number and tax withholding selections, including the number of dependents you have, jobs you’ve worked in a year, and your tax filing status).  We collect your location-based information for the purpose of mileage tracking, providing location specific features, and to confirm your Expensify cardholder status for specific events associated with the services. We may share your geo-location data with third parties for the sole purpose of providing these services. If you do not wish to allow us to collect and/or share your information in this manner please opt out by contacting us at [concierge@expensify.com](mailto:concierge@expensify.com). 
     
@@ -86,22 +87,20 @@ We may collect (both directly and indirectly), use, store and transfer different
     
 * **Other Self-Reported Information.** You have the option to provide us with additional information about yourself and others through surveys, forms, features and applications. Where such information is not required by Expensify for the purposes of providing the services to you, you acknowledge that Expensify may store, use and disclose such Personal Data in accordance with this Privacy Policy. 
     
-* **Member-Generated Content.** Some of our Services allow you to create and post or upload content, such as data, text, software, music, audio, photographs, graphics, video, messages, or other materials that you create or provide to us or to other Members through either a public or private transmission. For example, Member-Generated Content includes any discussions, posts, or messages you send on our Forums, as well as messages you send using Expensify Chat. Our Site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them, as well as by our third party service providers such as OpenAI, L.L.C., to ensure compliance with our Acceptable Use Policy and Content Standards through our Enforcement Policy.
+* **Member-Generated Content.** Some of our Services allow you to create and post or upload content, such as data, text, SMS, software, music, audio, photographs, graphics, video, messages, or other materials that you create or provide to us or to other Members or Non-Members through either a public or private transmission. For example, Member-Generated Content includes any discussions, posts, or messages you send on our Forums, as well as messages or SMS you send using Expensify Chat. Our Site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them, as well as by our third party service providers such as OpenAI, L.L.C., to ensure compliance with our Acceptable Use Policy and Content Standards through our Enforcement Policy, or third-party suppliers such as Spotnana Technology, Inc.. 
     
-* **Referral Information and Sharing.** When you refer a person to Expensify, we will ask for that person’s name, phone number and/or email address and collect this information directly from you. By participating in a referral program or by choosing to share information with another person, you confirm that the person has given you permission for Expensify to communicate with him or her. If you choose to use our referral service to tell a friend about Expensify, or if, as a Corporate Administrator, you refer an employee or other authorized service provider to connect with your Corporate Policy (each such individual, a “Referred Party”), you must seek permission of the Referred Party so that Expensify may use their name, phone number and/or email address to contact them about the Expensify Service. By providing us with the Referred Party’s name and email address, you warrant that the Referred Party agrees to such contact. We will automatically send your friend a one-time email inviting him or her to visit the site. If you were referred by a friend or a Corporate Administrator, and you activate an Account, Expensify shall treat such Personal Data as if you had directly provided it to Expensify, which such Personal Data will be processed as set forth in this Privacy Policy.  If your friend is a resident of the European Economic Area, the United Kingdom or Australia, please make sure they are happy to be contacted by us. 
+* **Referral Information and Sharing.** When you refer a person to Expensify, we will ask for that person’s name, phone number and/or email address and collect this information directly from you. By participating in a referral program or by choosing to share information with another person, you confirm that the person has given you permission for Expensify to communicate with him or her. If you choose to use our referral service to tell a friend about Expensify, or if, as a Corporate Administrator, you refer an employee or other authorized service provider to connect with your Workspace (each such individual, a “Referred Party”), you must seek permission of the Referred Party so that Expensify may use their name, phone number and/or email address to contact them about the Expensify Service. By providing us with the Referred Party’s name and email address, you warrant that the Referred Party agrees to such contact. We will automatically send your friend a one-time email or SMS message inviting him or her to visit the site. If you were referred by a friend or a Corporate Administrator, and you activate an Account, Expensify shall treat such Personal Data as if you had directly provided it to Expensify, which such Personal Data will be processed as set forth in this Privacy Policy.  If your friend is a resident of the European Economic Area, the United Kingdom or Australia, please make sure they are happy to be contacted by us. 
     
-* **Social Media Features and Widgets.** Our Site includes Social Media Features, such as the Facebook “Like” button and Widgets, (“Features”). These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. They may also allow third party social media services to provide us information about you, including your name, email address, and other contact information. The information we receive is dependent upon your privacy settings with the third party social media service. Features are either hosted by a third party or hosted directly on our site. Your interactions with these Features are governed by the privacy statements of the third party companies providing them. You should always review and, if necessary, adjust your privacy settings on third party websites and services before linking or connecting them to our website or Service.
+* **Social Media Features and Widgets.** Our Site includes Social Media Features, such as the Facebook “Like” button and Widgets (“Features”). These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. They may also allow third party social media services to provide us information about you, including your name, email address, and other contact information. The information we receive is dependent upon your privacy settings with the third-party social media service. Features are either hosted by a third party or hosted directly on our site. Your interactions with these Features are governed by the privacy statements of the third-party companies providing them. You should always review and, if necessary, adjust your privacy settings on third party websites and services before linking or connecting them to our website or Service.
     
-* **Contact List Data**: For users of the Expensify mobile app only, we will access the list of contacts stored within your mobile device when you engage with relevant features of the app. The access enables you to readily incorporate existing contact information in your use of the app. Expensify does not access your list of contacts for any other purposes.
-    
-* **Third Party Data:** We will collect your Personal Data from you unless it is unreasonable or impracticable to do so. However, we may collect, receive, and retain Personal Data about you from the following non-publicly accessible sources: (i) companies that distribute the Expensify Service by way of a co-branded or private-labeled website, (ii) companies that offer their products and/or services via the Expensify Service, (iii) companies affiliated with Expensify, such as Expensify.org, (iv) companies that provide services (such as payment processing services) in connection with the Expensify Service, including without limitation Issuers and Card Networks (as such terms are defined in the [Corporate Card Program Terms](https://use.expensify.com/corporatecardprogramterms)); or (iv) financial institutions or credit bureaus (collectively, “Partner Companies”). Our Partner Companies may supply us with Personal Data, such as your name and email and mailing address, bank account, credit, or financial information or your login credentials for such Partner Company’s website or service, in order to help us establish the account or fulfil our obligations to you. We may also collect your Personal Data if necessary from public sources (such as LinkedIn, Corporate Subscribers Websites, Clearbit, Lexis Nexus). We may add this information to the information we have already collected from you via our Site or Application in order to perform and improve the Expensify Service. If you provide us Personal Data about others, or if others give us your information, we will only use that information for the specific reason for which it was provided to us.
+* **Third-Party Data:** We will collect your Personal Data from you unless it is unreasonable or impracticable to do so. However, we may collect, receive, and retain Personal Data about you from the following non-publicly accessible sources: (i) companies that distribute the Expensify Service by way of a co-branded or private-labeled website, (ii) companies that offer their products and/or services via the Expensify Service, (iii) companies affiliated with Expensify, such as Expensify.org, (iv) companies that provide services (such as payment processing services) in connection with the Expensify Service, including without limitation Issuers and Card Networks (as such terms are defined in the [Corporate Card Program Terms](https://use.expensify.com/corporatecardprogramterms)); or (iv) financial institutions or credit bureaus (collectively, “Partner Companies”). Our Partner Companies may supply us with Personal Data, such as your name and email and mailing address, bank account, credit, or financial information or your login credentials for such Partner Company’s website or service, in order to help us establish the account or fulfil our obligations to you. We may also collect your Personal Data if necessary from public sources (such as LinkedIn, Corporate Subscribers Websites, Clearbit, Lexis Nexus). We may add this information to the information we have already collected from you via our Site or Application in order to perform and improve the Expensify Service. If you provide us Personal Data about others, or if others give us your information, we will only use that information for the specific reason for which it was provided to us.
     
 
 We also collect, use, and share aggregated or de-identified data, such as statistical or demographic data. This information has either been de-identified or otherwise combined with that of other users and analyzed or evaluated as a whole, such that no specific individual may be identified. We may use aggregated or de-identified data for purposes such as research and marketing purposes and may also share such data with any third parties, including advertisers, promotional partners, sponsors, event promoters, and/or others.
 
 We do not collect any “Special Categories of Personal Data” about you (this includes details about your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership, information about your health, and genetic and biometric data) nor do we collect any information about criminal convictions and offences.
 
-**4\. THIRD PARTY LINKS**
+**4\. THIRD-PARTY LINKS**
 
 This Privacy Policy applies only to the use and disclosure of Personal Data that we collect while you use the Expensify Service. Our provision of a link to any other website or location is for your convenience and does not signify our endorsement of such other website or location or its contents. When you click on such a link, you will leave the Expensify Service and go to another site. During this process, a third party may collect Personal Data from you. We have no control over, do not review, do not endorse, and cannot be responsible for, these outside websites or their content. Please be aware that the terms of this Privacy Policy do not apply to these outside websites or content, or to any collection of data after you click on a link to a third party. If you submit Personal Data to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any website you visit.
 
@@ -163,17 +162,17 @@ The use of Identifiers by our vendors is not covered by our Privacy Policy. We d
 
 We use mobile analytics software to allow us to better understand the functionality of our Mobile Software on your phone. This software may record information such as how often you use the Application, the events that occur within the Application, aggregated usage, performance data, and where the Application was downloaded from. We do not link the information we store within the analytics software to any personally identifiable information you submit within the mobile Application.  
 
-**Do Not Track Statement** 
+**E. Do Not Track Statement** 
 
 Some browsers have a “do not track” feature that allows you to tell websites that you do not want to have your online activities tracked. At this time, due to a lack of industry standards, we do not respond to browser “do not track” signals. 
 
- **6\. USE OF YOUR PERSONAL DATA**
+ **6. USE OF YOUR PERSONAL DATA**
 
 Expensify and our Partner Companies may use your Personal Data in the following ways:
 
 * to facilitate the creation of and secure your account on our network;
     
-* identify you as a Member in our system;
+* identify you as a Member or Non-Member in our system;
     
 * to administer and provide improved administration of the Expensify Service;
     
@@ -256,9 +255,9 @@ Expensify may transfer Personal Data to companies that help us provide the Expen
 
 **Bancorp Privacy Notice**
 
-As a Partner Company, Bancorp may have access to Personal Information. Below is a notice from Bancorp of how such Personal Information may be used. For purposes of this “Bancorp Privacy Notice” subsection only, “we” or “us” refers to The Bancorp, Inc., and its affiliates**_._**
+As a Partner Company, Bancorp may have access to Personal Information. Below is a notice from Bancorp of how such Personal Information may be used. For purposes of this “Bancorp Privacy Notice” subsection only, “we” or “us” refers to The Bancorp, Inc., and its affiliates.
 
-| FACTS | WHAT DOES THE BANCORP BANK, N.A. ("THE BANCORP")  <br>DO WITH YOUR PERSONAL INFROMATION? |
+| FACTS | WHAT DOES THE BANCORP  <br>DO WITH YOUR PERSONAL INFORMATION? |
 | --- | --- |
 | Why? | Financial companies choose how they share your personal information. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand what we do. |
 | What? | The types of personal information we collect, and share depend on the product or service you have with us. This information can include:<br><br>* Social Security number and income<br>* Account balances and transaction history<br>* Credit history and credit scores<br><br>When you are _no longer_ our customer, we continue to share your information as described in this notice. |
@@ -277,13 +276,11 @@ As a Partner Company, Bancorp may have access to Personal Information. Below is 
 
   
 
-**Questions?** Email us at [concierge@expensify.com](mailto:concierge@expensify.com), visit [use.expensify.com/privacy](https://use.expensify.com/privacy), or call us, toll free, at +1 833-400-0904.
-
   
 
 | Who we are |     |
 | --- | --- |
-| **Who is providing this notice?** | This notice is provided by the business units of The Bancorp, N.A. |
+| **Who is providing this notice?** | This notice is provided by the business units of The Bancorp, Inc., and its affiliates, including, but not limited to, The Bancorp Bank, Bancorp Card Services, Inc., and TBBK Direct Leasing, LLC. |
 | What we do |     |
 | **How does The Bancorp protect my personal information?** | To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings.  <br>We also limit access to information to those employees for whom access is necessary. |
 | **How does The Bancorp collect my personal information?** | We collect your personal information, for example, when you<br><br>* open an account or apply for a loan<br>* pay your bills or make a wire transfer<br>* provide account information<br><br>We also collect your personal information from others, such as credit bureaus, affiliates, or other companies. |
@@ -298,17 +295,17 @@ As a Partner Company, Bancorp may have access to Personal Information. Below is 
 |     |     |
 | --- | --- |
 | **Other Important Information** |     |
-| Vermont Residents: | We will not disclose information about your creditworthiness to our affiliates and will not disclouse your personal information, finacial information, credit report, or health information to nonaffiliated third parties to market to you, other than as permitted by Vermont law, unless you authoirze us to make those diclosures. |
+| Vermont Residents: | In accordance with Vermont law, we will not share personal information about you other than transaction experience information, with other Bancorp companies or affiliates, nor will we share any personal financial information about you with other Bancorp companies for marketing purposes. |
 | Nevada Residents: | Nevada law requires that we provide you with the following contact information: Bureau of Consumer Protection, Office of the Nevada Attorney General, 555 E. Washington Ave., Suite 3900, Las Vegas, NV 89101; Phone number: 702-486-3132; email: [agInfo@ag.nv.gov](mailto:agInfo@ag.nv.gov) |
-| California Residents: | State general privacy laws permit consumers who are California residents to (a) ask a covered business which categories and pieces of personal information it collects and how the information is used; (b) request deletion of the information; (c) request correction of incorrect personal information and (d) opt out of the sale and sharing of such information. State general privacy laws have exemptions for either: (i) personal information collected, processed, shared, or disclosed by financial institutions pursuant to federal law or (ii) financial institutions in general as federal financial privacy law subject entities. To contact us with questions about our compliance with state general privacy laws, call 1-833-981-1080; visit our website: https://www.thebancorp.com/ccpa-web-form/or write to: The Bancorp/CCPA, PO Box 5017, Sioux Falls, SD 57117-5017. |
+| California Residents: | Effective January 1, 2020, the California Consumer Privacy Act (CCPA) permits consumers who are California residents to (a) ask a covered business which categories and pieces of personal information it collects and how the information is used; (b) request deletion of the information; and (c) opt out of the sale of such information, if applicable. These provisions of the CCPA do not apply to personal information collected, processed, shared, or disclosed by financial institutions pursuant to federal law. To contact us with questions about our compliance with the CCPA, call 1-833-981-1080; visit our website: thebancorpbank.com; or write to: The Bancorp/CCPA, PO Box 5017, Sioux Falls, SD 57117-5017. |
 
 **Sharing with Corporate Members** 
 
-When a Member connects to a Corporate Policy, such Member understands and agrees that the Corporate Member has access and a right to the Member Data related to transactions associated with the Corporate Policy (including any Personal Data) for its internal bookkeeping purposes. A Corporate Member will maintain the following information when you connect with a Corporate Policy: full name, email, phone number, and expense data. Please contact the Corporate Member directly for more information about what Personal Data the Corporate Member maintains.
+When a Member connects to a Workspace, such Member understands and agrees that the Corporate Member has access and a right to the Member Data related to transactions associated with the Workspace (including any Personal Data) for its internal bookkeeping purposes. A Corporate Member will maintain the following information when you connect with a Workspace: full name, email, phone number, and expense data. Please contact the Corporate Member directly for more information about what Personal Data the Corporate Member maintains.
 
 **8\. CHOICE/OPT-OUT**
 
-Expensify offers you the choice of receiving different types of communication and information related to our company, products and services. You may subscribe to e-newsletters or other publications; you may also elect to receive marketing communications and other special offers from us via email. If at any time you would like to change your communication preferences, we provide unsubscribe links and an opt-out mechanism for your convenience where available. You may also access and manage your preferences from your account.     
+Expensify offers you the choice of receiving different types of communication and information related to our company, products and services. You may subscribe to e-newsletters or other publications; you may also elect to receive marketing communications and other special offers from us via email or SMS messaging. You may also opt-in to communicate with other Members and Non-Members via SMS messaging. If at any time you would like to change your communication preferences, we provide unsubscribe links and an opt-out mechanism for your convenience where available. You may also access and manage your preferences from your account.     
 
 **9\. PERSONAL DATA CHANGES**
 
@@ -316,11 +313,11 @@ If you believe that the Personal Data we hold about you may not be complete, acc
 
 **Access to Data Controlled by our Corporate Members**
 
-You have the right to access your Personal Data subject to any exceptions which may apply in the jurisdiction in which you reside. If you have connected to a Corporate Policy and shared your Personal Data with the Corporate Member administering such Corporate Policy, you acknowledge that some Personal Data shared with a Corporate Member may not be able to be deleted as it pertains to their records. Upon request, we will provide you with information about whether any of your Personal Data is shared with a Corporate Member administering a connected Corporate Policy. 
+You have the right to access your Personal Data subject to any exceptions which may apply in the jurisdiction in which you reside. If you have connected to a Workspace and shared your Personal Data with the Corporate Member administering such Workspace, you acknowledge that some Personal Data shared with a Corporate Member may not be able to be deleted as it pertains to their records. Upon request, we will provide you with information about whether any of your Personal Data is shared with a Corporate Member administering a connected Workspace. 
 
 **Blog / Forum**
 
-Our Site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them, as well as by our third party service providers such as OpenAI, L.L.C., to ensure compliance with our Acceptable Use Policy and Content Standards through our Enforcement Policy. To request removal of your Personal Data from our blog or community forum, contact us at [concierge@expensify.com](mailto:concierge@expensify.com). In some cases, we may not be able to remove your Personal Data, in which case we will let you know if we are unable to do so and why.
+Our Site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them, as well as by our third-party service providers such as OpenAI, L.L.C., to ensure compliance with our Acceptable Use Policy and Content Standards through our Enforcement Policy. To request removal of your Personal Data from our blog or community forum, contact us at [concierge@expensify.com](mailto:concierge@expensify.com). In some cases, we may not be able to remove your Personal Data, in which case we will let you know if we are unable to do so and why.
 
 **10\. SECURITY OF YOUR APPLICATION AND PERSONAL DATA**
 
@@ -338,7 +335,7 @@ If Expensify makes changes to this Privacy Policy, these changes will be posted 
 
 **13\. OVERSEAS DISCLOSURE**
 
-Expensify is based in the United States, and, unless we expressly agree otherwise, we may host, transfer, and process data, including Personal Data, in the United States and in other countries through Expensify and third parties that we use to operate and manage the Service. These countries may have data protection laws that are different from those of your country of residence. When you access or use the Service, or otherwise provide information to us, you understand and acknowledge that the processing and transfer of information in and to the United States and other countries which may have different privacy laws from your or their country of residence. Expensify takes appropriate measures to ensure such transfers are in compliance with applicable laws and subject to the additional jurisdictional terms set forth in Section 15(A) and 15(D) below.  
+Expensify is based in the United States, and, unless we expressly agree otherwise, we may host, transfer, and process data, including Personal Data, in the United States and in other countries through Expensify and third parties that we use to operate and manage the Service. These countries may have data protection laws that are different from those of your country of residence. When you access or use the Service, or otherwise provide information to us, you understand and acknowledge that the processing and transfer of information in and to the United States and other countries which may have different privacy laws from your or their country of residence. Expensify takes appropriate measures to ensure such transfers are in compliance with applicable laws and subject to the additional jurisdictional terms set forth in Section 15(A) and 15(C) below.  
 
 **14\. DATA RETENTION**
 
@@ -346,11 +343,11 @@ Other than in aggregated or de-identified form as permitted under the Expensify
 
 Expensify will retain data licensed to our Corporate Members as set forth in the Expensify Terms of Service for as long as needed to provide services to our Corporate Member. Expensify will retain and use this information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. We ensure that Personal Data we dispose of is de-identified or destroyed in a secure fashion. 
 
-The Corporate Member with which you are affiliated with may have specific policies concerning the retention of data including Member Generated Content. Please consult the entity or organization with which you are affiliated with for additional detail about its specific data retention policies. 
+The Corporate Member with which you are affiliated with may have specific policies concerning the retention of data including Member-Generated Content. Please consult the entity or organization with which you are affiliated with for additional detail about its specific data retention policies. 
 
 **15\. JURISDICTION-SPECIFIC PROVISIONS** 
 
-A. Additional Disclosures for Data Subjects in the United Kingdom, European Economic Area (EEA), and Switzerland
+**A. Additional Disclosures for Data Subjects in the United Kingdom, European Economic Area (EEA), and Switzerland**
 
 **I.  International Transfers**
 
@@ -380,19 +377,19 @@ We have listed the use of your Personal Data by us in Section 6 above. The legal
 
 Under certain circumstances, you have rights under data protection laws in relation to your personal data, such as:  
 
-* Access: The right to request access to the Personal Data that Expensify has about you;
+* **Access:** The right to request access to the Personal Data that Expensify has about you;
     
-* Rectification: The right to rectify or correct any Personal Data that is inaccurate or incomplete;
+* **Rectification:** The right to rectify or correct any Personal Data that is inaccurate or incomplete;
     
-* Portability: The right to request a copy of your Personal Data in electronic format so that you can transmit the data to third parties, or to request that Expensify directly transfer your Personal Data to one more third parties;
+* **Portability:** The right to request a copy of your Personal Data in electronic format so that you can transmit the data to third parties, or to request that Expensify directly transfer your Personal Data to one more third parties;
     
-* Objection: The right to object to the processing of your Personal Data for certain purposes;
+* **Objection:** The right to object to the processing of your Personal Data for certain purposes;
     
-* Erasure: The right to erasure of your Personal Data when it is no longer needed for the purposes for which you provided it, as well as the right to restriction of processing of your Personal Data to certain limited purposes where erasure is not possible.
+* **Erasure:** The right to erasure of your Personal Data when it is no longer needed for the purposes for which you provided it, as well as the right to restriction of processing of your Personal Data to certain limited purposes where erasure is not possible.
     
-* Restriction: You have the right to request that we restrict our processing of your Personal Data where you believe such data to be inaccurate; our processing is unlawful; or we no longer need to process such data for a particular purpose, but where we are not able to delete the data due to a legal or other obligation or because you do not want us to delete it. 
+* **Restriction:** You have the right to request that we restrict our processing of your Personal Data where you believe such data to be inaccurate; our processing is unlawful; or we no longer need to process such data for a particular purpose, but where we are not able to delete the data due to a legal or other obligation or because you do not want us to delete it. 
     
-* Consent: the right to withdraw your consent to the processing of your Personal Data at any time. Please note, however, that we may still be entitled to process your Personal Data if we have another legitimate reason for doing so. For example, we may need to retain Personal Data to comply with a legal obligation
+* **Consent:** the right to withdraw your consent to the processing of your Personal Data at any time. Please note, however, that we may still be entitled to process your Personal Data if we have another legitimate reason for doing so. For example, we may need to retain Personal Data to comply with a legal obligation
     
 
 The rights described above may not be absolute and are limited by applicable laws. 
@@ -407,117 +404,298 @@ For individuals located in the European Economic Area (“EEA”), United Kingdo
 
 You also have a right to lodge a complaint with a competent supervisory authority situated in a member state of your habitual residence, place of work, or place of alleged infringement. You can find the relevant supervisory authority name and contact details [here for individuals located in the EEA](https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-are-data-protection-authorities-dpas_en) and [here for individuals located in the United Kingdom](https://ico.org.uk/make-a-complaint/).
 
-**Participation in the EU-U.S. Data Privacy Framework and subsequent extensions**
+**Participation in the Privacy Shield**
 
-**EU-U.S. Data Privacy Framework with UK Extension, and Swiss-U.S. Data Privacy Framework**
+Please note, following recent decisions invalidating the adequacy of the EU-U.S. and Swiss-U.S. Privacy Shields, we no longer rely on the Privacy Shields for cross-border personal data transfers and instead rely on mechanisms set forth in Section 15(A)(1). However, Expensify, Inc. and its subsidiary company, Expensify Ltd. still comply with the EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield Frameworks (Privacy Shield) as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data transferred from the European Union and the United Kingdom and Switzerland to the United States in reliance on Privacy Shield. Expensify, Inc. and its subsidiary company, Expensify Ltd. has certified to the Department of Commerce that it adheres to the Privacy Shield Principles with respect to such information. Visit the [Privacy Shield website](https://www.privacyshield.gov/) to learn more about the program and view our certification. 
 
-Expensify Inc. complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce.  Expensify, Inc. and its subsidiary company, Expensify Ltd., have certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union in reliance on the EU-U.S. DPF and from the United Kingdom (and Gibraltar) under the UK Extension to the EU-U.S. DPF.  Expensify, Inc. and its subsidiary company, Expensify Ltd., have certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF.  If there is any conflict between the terms in this privacy policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern.  To learn more about the Data Privacy Framework (DPF) program, and to view our certification, please visit [https://www.dataprivacyframework.gov/](http://groove.trustarc.com/url/5kmwyl7r31os7ps5lmgq6/aHR0cHM6Ly93d3cuZGF0YXByaXZhY3lmcmFtZXdvcmsuZ292LyNncm9vdmVzdW06NjU1NTQzNjY0).
+The Privacy Shield Framework and Privacy Shield Principles only apply to Members and Corporate Members located in the EU. Accordingly, Expensify, Inc. is not liable under the Privacy Shield Framework and Privacy Shield Principles to Members or Corporate Members located outside the EU.
 
-Expensify Inc. is responsible for the processing of personal data it receives, under the DPF, and subsequently transfers to a third party acting as an agent on its behalf.  Expensify Inc. complies with the DPF Principles for all onward transfers of personal data from the EU, UK, and Switzerland, including the onward transfer liability provisions.
+Expensify likewise is responsible for the processing of Personal Data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. We comply with the Privacy Shield Principles for all onward transfers of Personal Data from the EU and Switzerland, including the onward transfer liability provisions. 
 
-The Federal Trade Commission has jurisdiction over Expensify Inc.’s compliance with the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF. In certain situations, Expensify Inc. may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+In compliance with the Privacy Shield Principles, Expensify Inc. commits to resolve complaints about our collection or use of your Personal Data. European Union individuals with inquiries or complaints regarding our Privacy Shield policy should first contact Expensify Inc. via email at: [concierge@expensify.com](mailto:concierge@expensify.com) or via post addressed to Operations Lead, 88 Kearny Street, San Francisco, CA 94108.
 
-In compliance with the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF, Expensify Inc. commits to refer unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF to TRUSTe, an alternative dispute resolution provider based in the United States. European Union, UK, and Swiss individuals with inquiries or complaints regarding our use of the DPF should first contact Expensify Inc. via email at: [concierge@expensify.com](mailto:concierge@expensify.com) or via post addressed to Operations Lead, 88 Kearny Street, San Francisco, CA 94108. If you do not receive timely acknowledgment of your DPF Principles-related complaint from us, or if we have not addressed your DPF Principles-related complaint to your satisfaction, please visit [https://feedback-form.truste.com/watchdog/request](http://groove.trustarc.com/url/5kmwyl7r31os7ps5lmgq6/aHR0cHM6Ly9mZWVkYmFjay1mb3JtLnRydXN0ZS5jb20vd2F0Y2hkb2cvcmVxdWVzdCNncm9vdmVzdW06MTc3MDU0OTcxNA%3D%3D) for more information or to file a complaint.  These dispute resolution services are provided at no cost to you.
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, you can [file a report](https://feedback-form.truste.com/watchdog/request) with our U.S.-based third party dispute resolution provider (free of charge). As further explained in the [Privacy Shield Principles](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint), a binding arbitration option also be made available to you in order to address residual complaints not resolved by any other means.
 
-For complaints regarding DPF compliance not resolved by any of the other DPF mechanisms, you have the possibility, under certain conditions, to invoke binding arbitration. Further information can be found on the official DPF website.
+With respect to Personal Data received or transferred pursuant to the Privacy Shield Framework, we are subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, we may be required to disclose Personal Data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
-The DPF and Principles only apply to Members and Corporate Members located in the EU, the UK, and Switzerland. Accordingly, Expensify, Inc. is not liable under the DPF or Principles to Members or Corporate Members located outside the EU, the UK, or Switzerland.
+**B. Additional Disclosures for Data Subjects in California, Colorado, Connecticut, Nevada, Utah, and Virginia**
 
-**B. Additional Disclosures for California Residents** 
+This Statement is designed to be consistent with California, Colorado, Connecticut, Nevada, and Virginia privacy laws. When addressing California law, this Statement uses certain terms that have the meanings given to them by the California Consumer Privacy Act (CCPA), as amended, unless otherwise specified.
 
-These Additional Disclosures for California Residents supplements the information contained in this Privacy Policy and applies solely to all visitors, users, and others who reside in the State of California (“consumers” or “you”).
-
-**I.  CCPA Disclosures**
-
-We adopt this notice to comply with the California Consumer Privacy Act of 2018 (“CCPA”) and any terms defined in the CCPA have the same meaning when used in this Notice. This Privacy Policy contains Expensify’s required notices and disclosures including its Privacy Policy for California Residents, Notice of Collection, Notice of Opt Out Rights, and Notice of Financial Incentives requirements. 
-
-This Notice does not apply to employment-related Personal Information collected from California-based employees, job applicants, contractors, or similar individuals, or to persons interacting with us in their capacity as a representative of a business.
-
-Consumers who have a visual disability may be able to use a screen reader or other text-to-speech or text-to-Braille tool to review the contents of this notice.  If you need to access this Policy in an alternative format due to having a disability, please contact concierge@expensify.com.
-
-**Definitions Specific to this Section**
+**Definitions Specific to this Section for California Residents**
 
 The CCPA includes definitions for terms specific to this California Privacy Policy that do not apply to the rest of this Privacy Policy, including the following terms:
 
-“Personal Information” means information that identifies, relates to, describes, is reasonably capable of being associated with, or could reasonably be linked, directly or indirectly, with a particular consumer or household.  Personal Information does not include publicly available information obtained from government records; deidentified or aggregated consumer information that cannot be reconstructed to identify you; any information covered under the Gramm-Leach-Bliley Act or the California Financial Information Privacy Act, activities covered by the Fair Credit Reporting Act, or protected health information as defined under the Health Insurance Portability and Accountability Act.
-
-“Sale” or “sell” means selling, renting, releasing, disclosing, disseminating, making available, transferring, or otherwise communicating orally, in writing, or by electronic or other means, a consumer’s Personal Information by the business to another business or a third party for monetary or other valuable consideration.
-
-“Service Provider” means a sole proprietorship, partnership, limited liability company, corporation, association, or other legal entity that is organized or operated for the profit or financial benefit of its shareholders or other owners, that processes information on behalf of a business and to which the business discloses a consumer’s Personal Information for a business purpose pursuant to a written contract.
-
-**Your Rights and Choices** 
-
-The CCPA provides consumers (California residents) with specific rights regarding their Personal Information. This section describes your CCPA rights and explains how to exercise those rights.
-
-**Personal Information of Minors**
-
-The Expensify Service is not intended for children or minors under the age of 18 years old without express consent or authorization from a parent or a legal guardian.  Accordingly, we do not knowingly collect or store information about minors under the age of 18, and we do not sell the Personal Information of minors.  If you believe that we have unintentionally received Personal Information about a minor under the age of 18 years old, please contact us at concierge@expensify.com.
-
-Access to Specific Information and Data Portability Rights
-
-You have the right to request that we disclose certain information to you about our collection and use of your Personal Information over the past 12 months or delete certain information. Please note that there are circumstances in which we may not be able to comply with your request pursuant to the CCPA, including when we cannot verify your request and/or when there is a conflict with our own obligations to comply with other legal or regulatory requirements, or other reasons provide by law.  We will notify you following submission of your request if this is the case.
-
-**The disclosure rights include:**
-
-* The categories of Personal Information we collected about you.
+* “Personal Information” means information that identifies, relates to, describes, is reasonably capable of being associated with, or could reasonably be linked, directly or indirectly, with a particular consumer or household.  Personal Information does not include publicly available information obtained from government records; deidentified or aggregated consumer information that cannot be reconstructed to identify you; any information covered under the Gramm-Leach-Bliley Act or the California Financial Information Privacy Act, activities covered by the Fair Credit Reporting Act, or protected health information as defined under the Health Insurance Portability and Accountability Act.
     
-* The categories of sources for the Personal Information we collected about you.
+* “Sale” or “sell” means selling, renting, releasing, disclosing, disseminating, making available, transferring, or otherwise communicating orally, in writing, or by electronic or other means, a consumer’s Personal Information by the business to another business or a third party for monetary or other valuable consideration.
     
-* Our business or commercial purpose for collecting or selling that Personal Information.
-    
-* The categories of third parties with whom we share that Personal Information.
-    
-* The specific pieces of Personal Information we collected about you (and access thereto, also called a data portability request).
-    
-* Whether we have disclosed your personal information for a business purpose and if so, the categories of personal information that each category of recipient received.
+* “Service Provider” means a sole proprietorship, partnership, limited liability company, corporation, association, or other legal entity that is organized or operated for the profit or financial benefit of its shareholders or other owners, that processes information on behalf of a business and to which the business discloses a consumer’s Personal Information for a business purpose pursuant to a written contract.
     
 
-**Right to Request Deletion** 
+**1.  Collection and Use**
 
-You have the right to request that we delete your personal information. Under certain circumstances Expensify may be unable or otherwise not required to delete your personal information, for example, to comply with legal obligations, or to complete a business transaction that you have requested. 
+a. Collection  
+During the 12-month period prior to the effective date of this Statement, we may have collected the following categories of personal information, including sensitive personal information, about you: 
 
-**Right to Non-Discrimination**
-
-You have a right not to receive discriminatory treatment for exercising your privacy rights as identified in this section of the privacy notice as conferred by the CCPA.
-
-**Exercising Access, Data Portability, and Deletion Rights**
-
-To exercise the access, data portability, and deletion rights described above, please submit a consumer request to us via email at: [concierge@expensify.com](mailto:concierge@expensify.com) with the subject line “California Rights Request,” or via webform. We will handle your request under applicable law. When you make a request, we may verify your identity to protect your privacy and security. You may only make a verifiable consumer request for access or data portability twice within a 12-month period. The verifiable consumer request must:
-
-* Provide sufficient information that allows us to reasonably verify you are the person about whom we collected Personal Information or an authorized representative. 
+* **Identifiers:** identifiers such as a real name, alias, postal address, unique personal identifier (such as customer number, unique pseudonym, or user alias), email address, account name, Social Security number, driver’s license number, and other similar identifiers, physical characteristics or description, state identification card number, and signature
     
-* Describe your request with sufficient detail that allows us to properly understand, evaluate, and respond to it.
+* **Identifiers (Online):** a device identifier; cookies, beacons, pixel tags, mobile ad identifiers and similar technology; other forms of persistent or probabilistic identifiers, and Internet Protocol address
     
+* **Other Financial, Medical, and Health Information:** bank account number, credit card number, debit card number, insurance policy number, and other financial information, medical information, and health insurance information
+    
+* **Information Related to Characteristics Protected Under California or Federal Law:** characteristics of protected classifications under California or federal law, such as race, color, national origin, religion, age, sex, gender, gender identity, gender expression, sexual orientation, marital status, medical condition, ancestry, genetic information, disability, citizenship status, and military and veteran status
+    
+* **Commercial Information:** including records of personal property, products or services purchased, obtained, or considered, and other purchasing or consuming histories or tendencies
+    
+* **Internet and Other Electronic Network Activity Information:** including, but not limited to, browsing history, search history, and information regarding your interaction with websites, applications or advertisements
+    
+* **Geolocation Data**
+    
+* **Sensory Information:** Audio, electronic, visual, thermal, and similar information
+    
+* **Professional or Employment-Related Information**
+    
+* **Education Information**
+    
+* **Profile Inferences:** inferences drawn from any of the information identified above to create a profile about you reflecting your preferences, characteristics, psychological trends, predispositions, behavior, attitudes, intelligence, abilities, and/or aptitude
+    
+
+b. Sources of collection  
+We collected personal information about you from the following sources:
+
+* You
+    
+* Expensify
+    
+* Device(s) You Used
+    
+* Service Providers
+    
+
+c.  Purposes for collection/use  
+We collected and used personal information about you for the following purposes: 
+
+* Performing services you have purchased from or contracted for with us, including maintaining or servicing accounts, as well as providing customer service, processing transactions, verifying customer information, processing payments, providing advertising or marketing services, providing analytics services, or providing similar services
+    
+* Auditing related to counting ad impressions to unique visitors, verifying positioning and quality of ad impressions, and auditing compliance
+    
+* Detecting and responding to security incidents, protecting against and responding to malicious, deceptive, fraudulent, or illegal activity, and prosecuting those responsible for that activity
+    
+* Short-term, transient use, including, but not limited to, nonpersonalized advertising shown as part of your interactions with our digital properties
+    
+* Debugging to identify and repair errors that impair existing intended functionality
+    
+* Undertaking internal research for technological development and demonstration
+    
+* Undertaking activities to verify or maintain the quality or safety of a service that is owned, manufactured, manufactured for, or controlled by us, and to improve, upgrade, or enhance the service or device that is owned, manufactured, manufactured for, or controlled by us
+    
+* Displaying advertisements intended for you based on personal information, related to your activities over time and across nonaffiliated websites or online applications, used to predict your preferences or interests (targeted advertising)
+    
+* Customizing your experience on our digital properties
+    
+* Processing liability claims
+    
+* Complying with and enforcing applicable legal requirements, relevant industry standards and our policies
+    
+
+**2.  Disclosures**
+
+a. We may have disclosed the following categories of personal information for a business purpose:
+
+* Identifiers
+    
+* Identifiers (Online)
+    
+* Other Financial, Medical and Health Information
+    
+* Information Related to Characteristics Protected Under California or Federal Law
+    
+* Commercial Information
+    
+* Biometrics
+    
+* Internet and Other Electronic Network Activity Information
+    
+* Geolocation Data
+    
+* Sensory Information
+    
+* Professional or Employment-Related Information
+    
+* Education Information
+    
+* Profile Inferences
+    
+
+b. We may share personal information about you for cross-context behavioral advertising — seeking to place ads to you on others’ digital properties based, at least in part, on personal information obtained from your activity on others’ digital properties. 
+
+c. We may have sold (as defined under California, Colorado and Connecticut laws) the following categories of personal information: 
+
+* Identifiers (online) associated with a device used to interact with our digital properties or advertisements (such as a device identifier; cookies, beacons, pixel tags, mobile ad identifiers and similar technology)
+    
+* Internet and other electronic network activity information associated with a device used to interact with Digital Properties or advertisements
+    
+* Profile inferences (solely as sale is defined under California rules)
+    
+
+d. We do not sell the personal information of consumers under the age of 16 if we have actual knowledge of the individual’s age.
+
+e. We do not sell personal information as the term is traditionally understood or as defined under Nevada, Utah, or Virginia law. For example, we do not exchange for money personal information to data brokers or third parties for their marketing purposes independent of us.
+
+f. **Sensitive Personal Information:** We do not share sensitive personal information for cross-context behavioral advertising. We do not sell sensitive personal information.  
+
+g. We may have disclosed personal information about you with the following categories of third parties: 
+
+* Our affiliates
+    
+* Our business partners
+    
+* Third-party marketing partners
+    
+* Government entities, including law enforcement
+    
+
+Information we disclose to third parties:
+
+| 3rd party categories |     |     |     |     |
+| --- | --- | --- | --- | --- |
+| Personal Information Categories | Our Affiliates | Our Business Partners | Third-party Marketing Partners | Government Entities, Including Law Enforcement \*See Disclosure |
+| Information Related to Characteristics Protected Under California or Federal Law | No  | No  | No  | Yes |
+| Commercial Information | Yes | Yes | No  | Yes |
+| Biometrics | No  | No  | No  | Yes |
+| Internet and Other Electronic Network Activity Information | Yes | No  | Yes | Yes |
+| Geolocation Data | No  | No  | No  | Yes |
+| Sensory Information | No  | No  | No  | Yes |
+| Professional or Employment Related Information | No  | No  | No  | Yes |
+| Education Information | No  | No  | No  | Yes |
+| Profile Inferences | Yes | No  | No  | Yes |
+
+Please note: Expensify shares Personal Information with government entities, including law enforcement, only in the following circumstances: (1) when required to do so as a matter of law; (2) to assist in the investigation of a potential crime impacting Expensify, its employees, its customers, or the communities we serve; or (3) when required in response to legal process (e.g., subpoena, search warrant).
+
+**3.  Retention — California Residents**
+
+Expensify has in place a records-retention schedule reflecting our intended retention periods for certain types of information. The following reflects the longest applicable intended retention period by personal-information category for information related to California consumers acquired on or after January 1, 2023. Once the intended retention period has passed, subject information is to be deleted or modified such that it is no longer personal information.
+
+| Personal Information Categories | Intended Retention Period |
+| --- | --- |
+| Biometrics | Up to 10 years after last activity, subject to contractual obligations |
+| Commercial Information | 10 years after expiration of contractual obligations |
+| Education Information | 10 Years after termination of employment |
+| Geolocation Data | Up to 3 Years |
+| Identifiers | Up to 10 years after last activity, subject to contractual obligations |
+| Identifiers (Online) | Up to 3 years |
+| Information Related to Characteristics Protected Under California or Federal Law | Up to 3 years |
+| Internet and Other Electronic Network Activity Information | Up to 3 years |
+| Other Financial, Medical and Health Information | Up to 10 years after last activity, subject to contractual obligations |
+| Professional or Employment Related Information | 10 Years after termination of employment |
+| Profile Inferences | Up to 3 years |
+| Sensory Information | Up to 40 Days |
+
+There are a number of reasons personal information may be retained longer than the intended retention period. For example, deletion or modification does not happen immediately after a retention period has passed and instead executes periodically, no less frequently than annually. Additionally, some information systems or information may be placed on legal holds due to potential litigation or regulatory review and information, therefore, is not deleted or modified.
+
+**4.  Consumer Privacy Rights**
+
+You have certain choices regarding our use and disclosure of personal information about you, as described below.
+
+* **Access:** You have the right to request, twice in a 12-month period, that we disclose to you the personal information related to you we have collected during the past 12 months. This may include:
+    
+
+* The categories and specific pieces of personal information we have collected about you
+    
+* The categories of sources from which we collected the personal information
+    
+* The business or commercial purpose for which we collected or sold the personal information
+    
+* The categories of third parties with whom we shared the personal information
+    
+* The categories of personal information about you that we sold or disclosed for a business purpose, and the categories of third parties to whom we sold or disclosed that information for a business purpose
+    
+
+* **Correction:** You have the right to request that we correct certain personal information we have collected, taking into account the nature of the personal information and the purposes of the processing of the personal information. If you make a correction request, we may correct or instead delete information as allowed by law. Exceptions apply.
+    
+* **Deletion:** You have the right to request that we delete certain personal information we have collected from you. Exceptions apply.
+    
+* **Opt-Out of Sale:** You have the right to opt-out of the sale of your personal information.
+    
+
+**5.  How to Submit a Request**
+
+* Submit an [access request](https://www.bestbuy.com/sentry/confirm/residency?context=ca&type=access) by emailing [concierge@expensify.com](mailto:concierge@expensify.com) with the subject line “\[applicable state\] Rights Request,” or via webform
+    
+    * The report you receive containing personal information we have on file will provide instructions on how to pursue correction of applicable information.
+        
+    * Any disclosures we provide will only cover the 12-month period preceding the verifiable consumer request’s receipt. The response we provide will also explain the reasons we cannot comply with a request, if applicable
+        
+
+* Submit a [deletion request](https://www.bestbuy.com/sentry/confirm/residency?context=ca&type=delete) by emailing [concierge@expensify.com](mailto:concierge@expensify.com) with the subject line “\[applicable state\] Rights Request,” or via webform
+    
+
+**California Residents**
+
+* **Limit the Use or Disclosure of Sensitive Personal Information.** You have the right to request that we limit our use or disclosure of Sensitive Personal Information (as defined by California law) about you to certain uses authorized by the CCPA. We do not disclose Sensitive Personal Information beyond such authorizations.
+    
+* **Do Not Share My Personal Information.** You have the right to opt out of our sharing of personal information for cross-context behavioral advertising.
+    
+* **Shine the Light Request:** You also may have the right to request that we provide you with (a) a list of certain categories of personal information we have disclosed to third parties for their direct marketing purposes during the immediately preceding calendar year and (b) the identity of those third parties. To submit a Shine the Light Request, email us [concierge@expensify.com](mailto:concierge@expensify.com) with the subject line “California Rights Request,” or via webform
+    
+
+**Colorado Residents**
+
+* **Opt Out of Targeted Advertising:** You have the right to opt out of “Targeted Advertising.”
+    
+* **Appeal a Refusal to Take Action**: Colorado law requires that we establish a process for a consumer to appeal our refusal to take action on certain requests. If you are not satisfied with the outcome of that process, you may [contact the Colorado Attorney General](https://coag.gov/) to submit a complaint.
+    
+* **Other Options not Relevant**: We do not use your data for the purpose of profiling to make decisions that would have legal or similarly significant effects on you. We do not knowingly process “sensitive data” concerning Colorado residents, as defined under Colorado law, unless required as a matter of law.
+    
+
+**Connecticut Residents**
+
+* **Opt Out of Targeted Advertising:** You have the right to opt out of “Targeted Advertising.”
+    
+* **Appeal a Refusal to Take Action**: Connecticut law requires that we establish a process for a consumer to appeal our refusal to take action on certain requests. You may access that process on our [Appeals information](https://www.bestbuy.com/sentry/appeal) page. If you are not satisfied with the outcome of that process, you may [contact the Connecticut Attorney General](https://portal.ct.gov/AG) to submit a complaint.
+    
+
+**Nevada Residents**
+
+* **Opt Out of the Sale of Personal Information.** You have the right to request that we not sell your Personal Information (as defined by Nevada law) for monetary consideration to certain other parties. This right applies even if your Personal Information is not currently being sold.  
+    
+
+**Utah Residents**
+
+* **Opt Out of Targeted Advertising:** You have the right to opt out of “Targeted Advertising.”
+    
+* **Other Options not Relevant.** We do not sell personal information as “sale” is defined under Utah law.
+    
+
+**Virginia Residents**
+
+* **Opt Out of Targeted Advertising:** You have the right to opt out of “Targeted Advertising.”
+    
+* **Appeal a Refusal to Take Action:** Virginia law requires that we establish a process for a consumer to appeal our refusal to take action on certain requests. You may access that process on our [Appeals information](https://www.bestbuy.com/sentry/appeal) page. If you are not satisfied with the outcome of that process, you may [contact the Virginia Attorney General](https://www.oag.state.va.us/consumer-protection/index.php/file-a-complaint) to submit a complaint.
+    
+* **Other Options not Relevant.** We do not sell personal information as “sale” is defined under Virginia law. We do not knowingly process “sensitive data” concerning Virginia residents, as defined under Virginia law, unless required as a matter of law.
+    
+
+**Verifying Requests**
 
 Making a verifiable consumer request does not require you to create an account with us. However, we do consider requests made through your password protected or otherwise authenticated account sufficiently verified when the request relates to Personal Information associated with that specific account. If you request access to or deletion of your personal information and do not sign in to an account with us, we require you to provide the following information: name, email address, phone number, and postal address. In addition, if you do not have an account and you ask us to provide you with specific pieces of personal information, we reserve the option to require you to sign a declaration under penalty of perjury that you are the consumer whose personal information is the subject of the request.
 
-**Response Information**
-
-Any disclosures we provide will only cover the 12-month period preceding the verifiable consumer request’s receipt. The response we provide will also explain the reasons we cannot comply with a request, if applicable.
-
 **Authorized Agents**
 
-You may designate an authorized agent to exercise your rights under the CCPA on your behalf, however we may deny a request as permitted by the CCPA.  To designate an authorized agent, you must provide the agent, and the agent must present to us, written permission signed by you.  We may also require you to verify your identify directly with us and directly confirm with us that you provided the authorized agent permission to submit the request, unless your authorized agent provides us with power of attorney pursuant to Probate Code sections 4121-4130.  
+California residents may designate an authorized agent to exercise your rights under the CCPA on your behalf, however we may deny a request as permitted by the CCPA.  To designate an authorized agent, you must provide the agent, and the agent must present to us, written permission signed by you.  We may also require you to verify your identify directly with us and directly confirm with us that you provided the authorized agent permission to submit the request, unless your authorized agent provides us with power of attorney pursuant to Probate Code sections 4121-4130.   
 
-**Sale of Personal Information**
+**6.  Additional Information**
 
-We have not sold the personal information of California residents in the preceding twelve months. We do not sell the personal information of minors under the age of 16 years of age.  This fact notwithstanding, you can opt out of data sale by emailing a request to that effect to: [concierge@expensify.com](mailto:concierge@expensify.com).
+If you choose to exercise any of your rights, you have the right not to receive, and will not receive, discriminatory treatment by us. To the extent permitted by applicable law, we may charge a reasonable fee to comply with your request. Employees and contractors are provided notice via different statements.
 
-**Collection, Use and Disclosure of Personal Information**
-
-The categories of Personal Information that we collect and the sources from which we collect them are described above in Section 3 entitled Types of Personal Data We Collect and How It Is Collected.  These categories include identifiers, commercial information, financial data, internet activity information and professional or employment-related information as described in Section 1798.140(o) of the CCPA.  The business/commercial purposes for which we use these categories of Personal Information are described in Section 6 above entitled Use of Your Personal Data. The categories of third parties to which we share these categories of Personal Information are described in Section 7 above entitled Disclosure of Your Personal Data.  The foregoing describes our practices as of, and during the twelve-month period preceding, the effective date of the Privacy Policy.     
-
-**II.  Other California Privacy Rights**
+**7.  Other California Privacy Rights**
 
 California’s “Shine the Light” law (Civil Code Section § 1798.83) permits Members who are California residents to request and obtain from us once a year, free of charge, certain information about the Personal Data (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of Personal Data that was shared and the names and addresses of all third parties with which we shared information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to [concierge@expensify.com](mailto:concierge@expensify.com).
 
 The “Do Not Track” disclosure can be found above in Section 5 entitled Expensify Cookie Policy and Use of Tracking Technologies.
 
-**C. Additional Disclosures for Nevada Residents** 
-
-Pursuant to Nevada law, you may direct a business that operates an internet website not to sell certain Personal Information a business has collected or will collect about you. Expensify does not sell your Personal Information pursuant to Nevada law. For more information about how we handle and share your Personal Information or your rights under Nevada law, contact us at [concierge@expensify.com](mailto:concierge@expensify.com).
-
-**D. Additional Disclosures for Australian Residents** 
+**C. Additional Disclosures for Australian Residents** 
 
 If you are in Australia, our collection, storage, use and disclosure of your Personal Data will be subject to this Privacy Policy and the Privacy Act 1988 (Cth) (Privacy Act). Any part of this Privacy Policy that is illegal, unenforceable or inconsistent with the Privacy Act may be severed from this Privacy Policy and the remaining terms or parts of the term of this Privacy Policy will continue in force. In addition, the following information applies to you.
 
