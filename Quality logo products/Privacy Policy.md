@@ -100,28 +100,28 @@ Privacy Policy and Security Statement
 Related Questions
 
 * Privacy Policy & Security Statement
-* [What is Proposition 65?](https://www.qualitylogoproducts.com/faq/what-is-prop-65.htm)
-* [What is BPA and should I be concerned?](https://www.qualitylogoproducts.com/faq/what-is-bpa.htm)
-* [Consumer Product Safety Improvement Act (CPSIA)](https://www.qualitylogoproducts.com/faq/what-is-cpsia.htm)
-* Privacy Policy & Security Statement
-* [What is the FACTA Red Flag Compliance?](https://www.qualitylogoproducts.com/faq/what-is-facta.htm)
-* [What is your Limited Warranty Statement?](https://www.qualitylogoproducts.com/faq/limited-warranty-statement.htm)
-* [How Do Trademarks Work?](https://www.qualitylogoproducts.com/faq/how-do-trademarks-work.htm)
-* [What is CLC?](https://www.qualitylogoproducts.com/faq/what-is-clc.htm)
 * [Do Resellers Get a Discount?](https://www.qualitylogoproducts.com/faq/discounts-for-resellers.htm)
+* [How Do Trademarks Work?](https://www.qualitylogoproducts.com/faq/how-do-trademarks-work.htm)
+* [What is your Limited Warranty Statement?](https://www.qualitylogoproducts.com/faq/limited-warranty-statement.htm)
+* Privacy Policy & Security Statement
+* [What is BPA and should I be concerned?](https://www.qualitylogoproducts.com/faq/what-is-bpa.htm)
+* [What is CLC?](https://www.qualitylogoproducts.com/faq/what-is-clc.htm)
+* [Consumer Product Safety Improvement Act (CPSIA)](https://www.qualitylogoproducts.com/faq/what-is-cpsia.htm)
+* [What is the FACTA Red Flag Compliance?](https://www.qualitylogoproducts.com/faq/what-is-facta.htm)
+* [What is Proposition 65?](https://www.qualitylogoproducts.com/faq/what-is-prop-65.htm)
 
 #### Related Questions
 
 * Privacy Policy & Security Statement
-* [What is Proposition 65?](https://www.qualitylogoproducts.com/faq/what-is-prop-65.htm)
-* [What is BPA and should I be concerned?](https://www.qualitylogoproducts.com/faq/what-is-bpa.htm)
-* [Consumer Product Safety Improvement Act (CPSIA)](https://www.qualitylogoproducts.com/faq/what-is-cpsia.htm)
-* Privacy Policy & Security Statement
-* [What is the FACTA Red Flag Compliance?](https://www.qualitylogoproducts.com/faq/what-is-facta.htm)
-* [What is your Limited Warranty Statement?](https://www.qualitylogoproducts.com/faq/limited-warranty-statement.htm)
-* [How Do Trademarks Work?](https://www.qualitylogoproducts.com/faq/how-do-trademarks-work.htm)
-* [What is CLC?](https://www.qualitylogoproducts.com/faq/what-is-clc.htm)
 * [Do Resellers Get a Discount?](https://www.qualitylogoproducts.com/faq/discounts-for-resellers.htm)
+* [How Do Trademarks Work?](https://www.qualitylogoproducts.com/faq/how-do-trademarks-work.htm)
+* [What is your Limited Warranty Statement?](https://www.qualitylogoproducts.com/faq/limited-warranty-statement.htm)
+* Privacy Policy & Security Statement
+* [What is BPA and should I be concerned?](https://www.qualitylogoproducts.com/faq/what-is-bpa.htm)
+* [What is CLC?](https://www.qualitylogoproducts.com/faq/what-is-clc.htm)
+* [Consumer Product Safety Improvement Act (CPSIA)](https://www.qualitylogoproducts.com/faq/what-is-cpsia.htm)
+* [What is the FACTA Red Flag Compliance?](https://www.qualitylogoproducts.com/faq/what-is-facta.htm)
+* [What is Proposition 65?](https://www.qualitylogoproducts.com/faq/what-is-prop-65.htm)
 
 View More
 
