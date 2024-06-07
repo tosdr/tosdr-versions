@@ -184,26 +184,36 @@ _Last Updated: Mon 3rd Apr 2023 11:32_
 
 Popular Right Now
 
+* ![Every Nintendo Switch Online Game Boy (Color) Game Ranked](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
+    
+    [Every Nintendo Switch Online Game Boy (Color) Game Ranked](https://www.nintendolife.com/guides/every-nintendo-switch-online-game-boy-color-game-ranked)
+    
+    1h ago
+* ![Summer Game Fest Conference Schedule 2024: Dates, How To Watch, Everything You Need To Know](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
+    
+    [Summer Game Fest Conference Schedule 2024: Dates, How To Watch, Everything You Need To Know](https://www.nintendolife.com/guides/summer-game-fest-conference-schedule-2024-dates-how-to-watch-everything-you-need-to-know)
+    
+    2h ago
+* ![Nintendo Expands Switch Online's Game Boy Library With Five More Classics](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
+    
+    [Nintendo Expands Switch Online's Game Boy Library With Five More Classics](https://www.nintendolife.com/news/2024/06/nintendo-expands-switch-onlines-game-boy-library-with-five-more-classics)
+    
+    10h ago
+* !['Yooka-Replaylee' Brings Back Playtonic's Love Letter To Banjo In Remastered Form](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
+    
+    ['Yooka-Replaylee' Brings Back Playtonic's Love Letter To Banjo In Remastered Form](https://www.nintendolife.com/news/2024/06/yooka-replaylee-brings-back-playtonics-love-letter-to-banjo-in-remastered-form)
+    
+    17h ago
 * ![Octopath Traveler II Receives A Surprise Update On Switch Today](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
     
     [Octopath Traveler II Receives A Surprise Update On Switch Today](https://www.nintendolife.com/news/2024/06/octopath-traveler-ii-receives-a-surprise-update-on-switch-today)
     
-    12h ago
+    1d ago
 * ![The First Review For Shin Megami Tensei V: Vengeance Is In](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
     
     [The First Review For Shin Megami Tensei V: Vengeance Is In](https://www.nintendolife.com/news/2024/06/the-first-review-for-shin-megami-tensei-v-vengeance-is-in)
     
-    1d ago
-* ![Switch Online's Missions & Rewards Adds Paper Mario: Thousand-Year Door Icons](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
-    
-    [Switch Online's Missions & Rewards Adds Paper Mario: Thousand-Year Door Icons](https://www.nintendolife.com/news/2024/06/switch-onlines-missions-and-rewards-adds-paper-mario-thousand-year-door-icons)
-    
-    10h ago
-* ![Review: Star Wars: Hunters (Switch) - A F2P Hero Shooter That's Fast, Fun, And Force-ful](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
-    
-    [Review: Star Wars: Hunters (Switch) - A F2P Hero Shooter That's Fast, Fun, And Force-ful](https://www.nintendolife.com/reviews/switch-eshop/star-wars-hunters)
-    
-    21h ago
+    2d ago
 * ![Best Paper Mario Games Of All Time](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
     
     [Best Paper Mario Games Of All Time](https://www.nintendolife.com/guides/best-paper-mario-games-of-all-time)
@@ -214,40 +224,30 @@ Popular Right Now
     [Best Nintendo Switch Remakes And Remasters](https://www.nintendolife.com/guides/best-nintendo-switch-remakes-and-remasters)
     
     Fri 24th May 2024
+* ![Skies Of Arcadia-Inspired JRPG 'Sky Oceans: Wings For Hire' Lands New Gameplay Trailer](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
+    
+    [Skies Of Arcadia-Inspired JRPG 'Sky Oceans: Wings For Hire' Lands New Gameplay Trailer](https://www.nintendolife.com/news/2024/06/skies-of-arcadia-inspired-jrpg-sky-oceans-wings-for-hire-lands-new-gameplay-trailer)
+    
+    57m ago
+* ![Former Xbox Console Exclusive 'Echo Generation' Lands On Switch This Month](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
+    
+    [Former Xbox Console Exclusive 'Echo Generation' Lands On Switch This Month](https://www.nintendolife.com/news/2024/06/former-xbox-console-exclusive-echo-generation-lands-on-switch-this-month)
+    
+    16h ago
 * ![Random: Unofficial Legend Of Zelda NES Remake Gets 20-Minute Gameplay Video](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
     
     [Random: Unofficial Legend Of Zelda NES Remake Gets 20-Minute Gameplay Video](https://www.nintendolife.com/news/2024/06/random-unofficial-legend-of-zelda-nes-remake-gets-20-minute-gameplay-video)
     
-    2d ago
-* ![Rumour: Leaker Hints At New Nintendo Codenames, Persona 6 On 'Switch 2', And More](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
-    
-    [Rumour: Leaker Hints At New Nintendo Codenames, Persona 6 On 'Switch 2', And More](https://www.nintendolife.com/news/2024/06/rumour-leaker-hints-at-new-nintendo-codenames-persona-6-on-switch-2-and-more)
-    
     3d ago
-* ![Video: 10 Exciting New Games Coming To Nintendo Switch In June 2024](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
+* ![Tomb Raider I-III Remastered Update 3 Now Available, Here Are The Full Patch Notes](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
     
-    [Video: 10 Exciting New Games Coming To Nintendo Switch In June 2024](https://www.nintendolife.com/news/2024/06/video-10-exciting-new-games-coming-to-nintendo-switch-in-june-2024)
+    [Tomb Raider I-III Remastered Update 3 Now Available, Here Are The Full Patch Notes](https://www.nintendolife.com/news/2024/06/tomb-raider-i-iii-remastered-update-3-now-available-here-are-the-full-patch-notes)
     
-    5d ago
-* ![My Nintendo Store Adds 'Classic Games Postcard Set' (North America)](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
-    
-    [My Nintendo Store Adds 'Classic Games Postcard Set' (North America)](https://www.nintendolife.com/news/2024/06/my-nintendo-store-adds-classic-games-postcard-set-north-america)
-    
-    10h ago
-* ![Shin Megami Tensei V: Vengeance Reaches Peak Hype In Launch Trailer](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
-    
-    [Shin Megami Tensei V: Vengeance Reaches Peak Hype In Launch Trailer](https://www.nintendolife.com/news/2024/06/shin-megami-tensei-v-vengeance-reaches-peak-hype-in-launch-trailer)
-    
-    43m ago
-* ![Shiver Entertainment Has Updated Its Website After Being Acquired By Nintendo](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
-    
-    [Shiver Entertainment Has Updated Its Website After Being Acquired By Nintendo](https://www.nintendolife.com/news/2024/06/shiver-entertainment-has-updated-its-website-after-being-acquired-by-nintendo)
-    
-    1d ago
+    9h ago
 
 [Show More](https://www.nintendolife.com/news)
 
-Join **1,447,390** people following **Nintendo Life**:
+Join **1,447,392** people following **Nintendo Life**:
 
 * [RSS Feed](https://www.nintendolife.com/feeds/latest "Subscribe to our RSS Feed")
 * [YouTube](https://www.youtube.com/nintendolife "Nintendo Life on YouTube")
