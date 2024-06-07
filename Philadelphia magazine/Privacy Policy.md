@@ -268,8 +268,8 @@ Trending
     
 2. ### [Class Action Lawsuit Filed Against University of the Arts](https://www.phillymag.com/news/2024/06/05/university-of-the-arts-lawsuit/)
     
-3. ### [Where to Get a Head Spa Treatment in and Around Philadelphia](https://www.phillymag.com/be-well-philly/head-spa-scalp-massage-philadelphia/)
+3. ### [It’s Softie Season! Here’s Where to Get the Best Soft-Shell Crabs](https://www.phillymag.com/foobooz/soft-shell-crab/)
     
-4. ### [An Insider’s Guide to Philly’s Best Wine Bar Happy Hours](https://www.phillymag.com/foobooz/best-wine-bar-happy-hours-philadelphia/)
+4. ### [Where to Get a Head Spa Treatment in and Around Philadelphia](https://www.phillymag.com/be-well-philly/head-spa-scalp-massage-philadelphia/)
     
-5. ### [Fishtown Seafood Opens New Spot With “Golden Oyster” Promo](https://www.phillymag.com/foobooz/2024/06/04/fishtown-seafood-fitler-square-golden-oyster/)
+5. ### [Things to Do in Philadelphia This Weekend](https://www.phillymag.com/things-to-do/weekend-philadelphia/)
