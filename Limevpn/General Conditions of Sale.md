@@ -2,7 +2,7 @@ Products
 
 [LimeVPN](http://limevpn.com/) [LimeVPN Prime](https://limevpnprime.com/)
 
-[Public IP: 51.77.108.160](https://limevpn.com/what-is-my-ip-check-privacy-online/)
+[Public IP: 54.91.120.254](https://limevpn.com/what-is-my-ip-check-privacy-online/)
 
 * [Blog](https://limevpn.com/blog-old/)
 * [Free Proxy](https://limevpn.com/free-web-proxy-to-unblock-any-site/)
