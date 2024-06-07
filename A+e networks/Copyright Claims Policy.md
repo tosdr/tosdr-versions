@@ -70,11 +70,11 @@ Latest news
 
 [All articles](https://www.aenetworks.com/news)
 
-    [![The Blind Detective](/s3/files/styles/card_tablet/public/2024-06/CREATIVIDAD_HORIZONTAL_BLINDDETECTIVE%2016-9.jpg?itok=o5STk46I)
+    [![The Blind Detective](https://aetncorporate.s3.eu-west-2.amazonaws.com/s3fs-public/styles/card_tablet/public/2024-06/CREATIVIDAD_HORIZONTAL_BLINDDETECTIVE%2016-9.jpg?VersionId=keEvtcQOufzXnb351ABIMaxn9G_FkTG3&itok=o5STk46I)
 
 6 June 2024
 
-### COSMO PREMIERES THE HIT CRIME SERIES THE BLINK DETECTIVE](https://www.aenetworks.com/news/cosmo-premieres-hit-crime-series-blink-detective)
+### COSMO PREMIERES THE HIT CRIME SERIES THE BLIND DETECTIVE](https://www.aenetworks.com/news/cosmo-premieres-hit-crime-series-blind-detective)
 
     [![Gypsy Rose: Life After Lock Up will premiere on Monday 10th June at 9pm on Crime+Investigation and Crime+Investigation Play ](/s3/files/styles/card_tablet/public/2024-05/JRB.jpg?itok=NLTFNky4)
 
