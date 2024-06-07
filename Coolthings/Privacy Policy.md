@@ -15,6 +15,11 @@
     
     [See All](https://www.coolthings.com/gadgets/)
     
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/raspberry-pi-ai-kit-machine-learning-add-on-vision-based-ai/)
+    
+    [Raspberry Pi AI Kit Brings AI Inferencing to Single Board Computers](https://www.coolthings.com/raspberry-pi-ai-kit-machine-learning-add-on-vision-based-ai/)
+    --------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
     [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/shokz-openswim-pro-swim-headphones-bluetooth-connectivity/)
     
     [Shokz OpenSwim Pro Adds Bluetooth Connectivity to the Standalone Swim Headphones](https://www.coolthings.com/shokz-openswim-pro-swim-headphones-bluetooth-connectivity/)
@@ -24,11 +29,6 @@
     
     [The Best Streaming Devices to Bring Smart Features to Your TV](https://www.coolthings.com/the-best-streaming-devices-to-bring-smart-features-to-your-tv/)
     ----------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/8bitdo-retro-18-mechanical-numpad-vintage-theme-number-pad-gaming-computing/)
-    
-    [8BitDo Retro 18 Mechanical Numpad Brings Vintage Themes to Your Spreadsheet Input Device](https://www.coolthings.com/8bitdo-retro-18-mechanical-numpad-vintage-theme-number-pad-gaming-computing/)
-    ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
 * [GIFTS](http://www.coolthings.com/gifts/)
     
