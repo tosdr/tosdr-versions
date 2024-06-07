@@ -1,3 +1,5 @@
+[blog.brickplanet.com/why-we-are-discontinuing-our-free-plan/](https://blog.brickplanet.com/why-we-are-discontinuing-our-free-plan/)
+
 Privacy Policy
 
 Last Updated: November 8th, 2022
