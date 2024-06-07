@@ -976,9 +976,7 @@ Share on linkedin
 
 #### RECENT NEWS
 
-[![](https://www.gensolve.com/nz/wp-content/uploads/sites/5/2024/04/uservoicegpm.jpg)](https://www.gensolve.com/nz/2024/04/24/gensolve-uservoice/)
-
-### [Gensolve Practice Manager and UserVoice](https://www.gensolve.com/nz/2024/04/24/gensolve-uservoice/)
+### [Gensolve Practice Manager and NZ Ministry of Health – Client Search by NHI Number now available.](https://www.gensolve.com/nz/2024/06/07/gensolve-practice-manager-and-moh/)
 
 #### SUBSCRIBE
 
