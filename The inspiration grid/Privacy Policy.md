@@ -291,6 +291,18 @@ Latest
 inspiration
 -----------
 
+![](https://inspgr.id/app/uploads/2024/06/illustration-jihun-lee-feature.jpg)
+
+[](https://theinspirationgrid.com/enigmatic-illustrations-by-jihun-lee/)
+
+### Enigmatic Illustrations by JiHun Lee
+
+![](https://inspgr.id/app/uploads/2024/06/photography-ben-s-rehn-feature.jpg)
+
+[](https://theinspirationgrid.com/out-of-this-world-photos-by-ben-simon-rehn/)
+
+### Out of This World: Photos by Ben Simon Rehn
+
 ![](https://inspgr.id/app/uploads/2024/06/art-thomas-turner-feature.jpg)
 
 [](https://theinspirationgrid.com/nature-inspired-murals-by-thomas-turner/)
@@ -326,18 +338,6 @@ inspiration
 [](https://theinspirationgrid.com/the-sound-of-words-editorial-design-by-yujian-huang/)
 
 ### The Sound of Words: Editorial Design by YuJian Huang
-
-![](https://inspgr.id/app/uploads/2024/06/art-javier-banegas-feature.jpg)
-
-[](https://theinspirationgrid.com/color-notion-realistic-oil-paintings-by-javier-banegas/)
-
-### Color Notion: Realistic Oil Paintings by Javier Banegas
-
-![](https://inspgr.id/app/uploads/2024/06/illustration-akberlin-feature.jpg)
-
-[](https://theinspirationgrid.com/eighties-excess-nostalgia-infused-artwork-by-akberlin/)
-
-### Eighties Excess: Nostalgia-Infused Artwork by AKBERLIN
 
 Awesome products for creatives
 ------------------------------
