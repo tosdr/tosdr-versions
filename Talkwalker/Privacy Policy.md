@@ -132,7 +132,7 @@ Data storage and data transfer
 
 **We respect your privacy**
 
-* Subject to applicable data protection laws or regulations, you may be entitled to the following rights: the right to request access to your data; the right to request that your data is updated or rectified; the right to request that we refrain from further use of your personal data; and the right to request that your personal data is deleted. If you would like to exercise any of your rights, please email our Privacy team at [dpo@talkwalker.com](mailto:dpo@talkwalker.com)
+* Subject to applicable data protection laws or regulations, you may be entitled to the following rights: the right to request access to your data; the right to request that your data is updated or rectified; the right to request that we refrain from further use of your personal data; and the right to request that your personal data is deleted. If you would like to exercise any of your rights, including the right to delete your personal data, please email our Privacy team at [dpo@talkwalker.com](mailto:dpo@talkwalker.com)
 * All requests will be handled in a timely matter but we may ask for additional information in order to confirm your identity.
 * We may not always be able to immediately remove all of your personal data, for example, if there is a legal requirement to keep such data (e.g. for compliance or legal retention purposes).
 
