@@ -1,16 +1,14 @@
 **HIPAA Omnibus Notice of Privacy Practices**
 ---------------------------------------------
 
-Effective Date: June 06, 2024  
+Effective Date: June 07, 2024  
 The Exchange Dental Group  
 39 Broadway Suite 2115  
 Financial District, NY, 10006  
 (212) 422-9229  
 
 **  
-THIS NOTICE DESCRIBES HOW MEDICAL INFORMATION ABOUT YOU MAY BE USED AND / OR DISCLOSED AND HOW YOU CAN GET ACCESS TO THIS INFORMATION. PLEASE REVIEW IT CAREFULLY.  
-  
-**
+THIS NOTICE DESCRIBES HOW MEDICAL INFORMATION ABOUT YOU MAY BE USED AND / OR DISCLOSED AND HOW YOU CAN GET ACCESS TO THIS INFORMATION. PLEASE REVIEW IT CAREFULLY.**
 
 The terms of this Notice of Privacy Practices (“Notice”) apply to The Exchange Dental Group, its affiliates, and its employees. The Exchange Dental Group will share patients’ protected health information as necessary to carry out treatment, payment, and health care operations as permitted by law. 
 
@@ -45,7 +43,8 @@ We may use and disclose your Protected Health Information in the following situa
 * Practice Ownership Change: If our medical practice is sold, acquired, or merged with another entity, your protected health information will become the property of the new owner. However, you will still have the right to request copies of your records and have copies of documents transferred to another physician.
 * Breach Notification Purposes: If for any reason, there is an unsecured breach of your Protected Health Information, we will utilize the contact information you provided to notify you of the breach, as required by law. In addition, your Protected Health Information may be disclosed as a part of the breach notification and reporting process.
 * Research: Your Protected Health Information may be disclosed to researchers to conduct research when an Institutional Review or Privacy Board has approved the research and complies with the law governing research.  
-* Business Associates: We may disclose your Protected Health Information to our business associates who provide us with services necessary to operate and function as a medical practice. We will only provide the minimum information needed for the associate(s) to perform their tasks relating to our business operations. For example, we may use a separate company to process online form submission data, which requires access to a limited amount of your health information. Please know and understand that all of our business associates are obligated to comply with the same HIPAA privacy and security rules to which we are bound. Additionally, all of our business associates are under contract with us and committed to protecting the privacy and security of your Protected Health Information. 
+* Business Associates: We may disclose your Protected Health Information to our business associates who provide us with services necessary to operate and function as a medical practice. We will only provide the minimum information needed for the associate(s) to perform their tasks relating to our business operations. For example, we may use a separate company to process online form submission data, which requires access to a limited amount of your health information. Please know and understand that all of our business associates are obligated to comply with the same HIPAA privacy and security rules to which we are bound. Additionally, all of our business associates are under contract with us and committed to protecting the privacy and security of your Protected Health Information.
+    
 
 **USES AND DISCLOSURES IN WHICH YOU HAVE THE RIGHT TO OBJECT AND OPT-OUT**  
 
@@ -53,6 +52,20 @@ We may use and disclose your Protected Health Information in the following situa
 * Disaster: In the event of a disaster, your Protected Health Information may be disclosed to disaster relief organizations to coordinate your care and/or to notify family members or friends of your location and condition. Whenever possible, we will provide you with an opportunity to agree or object.
 * Fundraising: We may disclose your Protected Health Information to contact you regarding fundraising events and efforts. You have the right to object to or opt out of these communications. Please let our office know if you would not like to receive such communications.  
      
+
+**We comply with industry texting/messaging requirements, including the following:**
+
+* By providing your wireless phone number to us, you agree and acknowledge that we may send text messages to your wireless phone number. Message and data rates may apply. Message frequency may vary.
+* You may opt-out at any time by replying “Stop”
+* No mobile information will be shared with third parties/affiliates for marketing/promotional purposes. Notwithstanding any other statement within this privacy policy, originator opt-in data and consent will never be shared with any third parties.  
+      
+    
+
+This website contains links to other, third-party websites. We are not responsible for the content or privacy practices of those web sites.
+
+This website uses standard analytics and tracking practices, including cookies and tracking pixels, from third parties to operate, monitor and improve the website and to provide additional advertising to you about our practice. The cookies and tracking practices that our third-party partners use may include your IP address, website activity and other identifiers to match the cookies with this site. We and our third-party partners may use these cookies to show you targeted ads for our practice on other websites. If you would like to opt out of these targeted ads, please visit [optout.networkadvertising.org](http://optout.networkadvertising.org/). No personally identifying information is collected except what you may choose to send to the practice through the contact form(s) on this site. For more information about the self-regulatory program for digital advertising, please visit [YourAdChoices.com](http://youradchoices.com/).
+
+Google may associate visitation information it collects from this website with Google information from accounts of signed-in users who have consented to this association for the purpose of ads personalization. This Google information may include end user location, search history, YouTube history, and data from sites that partner with Google. If you do not want to have these associations, you can change and/or remove them via [My Activity](https://myactivity.google.com/myactivity).
 
 **USES AND DISCLOSURES THAT REQUIRE YOUR WRITTEN AUTHORIZATION  
 **
@@ -70,7 +83,8 @@ We will not disclose or use your Protected Health Information in the situations 
     * Providing you with a copy of your health information or an accounting of disclosures;
     * Disclosures required by law;
     * Disclosures of your health information for any other purpose permitted by and per the Privacy Rule of HIPAA, as long as the only remuneration we receive is a reasonable, cost-based fee to cover the cost to prepare and transmit your health information for such purpose or is a fee otherwise expressly permitted by other law; or 
-    * Any other exceptions allowed by the Department of Health and Human Services. 
+    * Any other exceptions allowed by the Department of Health and Human Services.
+        
 
 **PROTECTED HEALTH INFORMATION AND YOUR RIGHTS  
 **
@@ -85,19 +99,18 @@ The following are statements of your rights, subject to certain limitations, wit
 * You have a right to receive an accounting of certain disclosures: You have the right to receive an accounting of disclosures of your Protected Health Information. An “accounting” is a list of the disclosures that we have made of your information. The request can be made for paper and/or electronic disclosures and will not include disclosures made for: treatment, payment, health care operations; notification and communication with family and/or friends; and those required by law.  
 * You have the right to request restrictions of your Protected Health Information: You have a right to restrict and/or limit the information we disclose to others, such as family members, friends, and individuals involved in your care or payment for your care. You also have the right to limit or restrict the information we use or disclose for treatment, payment, and/or health care operations. Your request must be submitted in writing and include the specific restriction requested, whom you want the restriction to apply, and why you would like to impose the restriction. Please note that our practice/your physician is not required to agree to your request for restriction, except for a restriction requested to not disclose information to your health plan for care and services you have paid in full out-of-pocket.
 * You have a right to request to receive confidential communications: You have a right to request confidential communications from us by alternative means or at an alternative location. For example, you may designate we send mail only to an address specified by you which may or may not be your home address. You may indicate we should only call you on your work phone or specify which telephone numbers we are allowed or not allowed to leave messages on. You do not have to disclose the reason for your request; however, you must submit a request with specific instructions in writing.
-* You have a right to receive a paper copy of this notice: Even if you have agreed to receive an electronic copy of this Privacy Notice, you have the right to request we provide it in paper form. You may make such a request at any time.  
+* You have a right to receive a paper copy of this notice: Even if you have agreed to receive an electronic copy of this Privacy Notice, you have the right to request we provide it in paper form. You may make such a request at any time.
+    
 
 **CHANGES TO THIS NOTICE  
 **
 
-We reserve the right to change the terms of this notice and will notify you of such changes. We will also make copies of our new notice available if you wish to obtain one. We will not retaliate against you for filing a complaint.  
-  
+We reserve the right to change the terms of this notice and will notify you of such changes. We will also make copies of our new notice available if you wish to obtain one. We will not retaliate against you for filing a complaint.
 
 **COMPLAINTS  
 **
 
-If you believe your privacy rights have been violated, you can file a complaint in writing with the Privacy Officer. You may also file a complaint with the Secretary of the U.S. Department of Health and Human Services at the below address. There will be no retaliation for filing a complaint.  
-  
+If you believe your privacy rights have been violated, you can file a complaint in writing with the Privacy Officer. You may also file a complaint with the Secretary of the U.S. Department of Health and Human Services at the below address. There will be no retaliation for filing a complaint.
 
 Office for Civil Rights Department of HHS Jacob Javits Federal Building 26 Federal Plaza – Suite 3312 New York, NY 10278 
 
@@ -106,7 +119,6 @@ Voice Phone (212) 264-3313 FAX (212) 264-3039 TDD (212) 264-2355 
 **For Further Information:** If you have questions, need further assistance regarding or would like to submit a request pursuant to this Notice, you may contact the The Exchange Dental Group Privacy Officer by phone at (212) 422-9229 or at the following address: 
 
 39 Broadway Suite 2115  
-Financial District, NY, 10006  
-  
+Financial District, NY, 10006
 
 This Notice of Privacy Practices is also available on our The Exchange Dental Group web page at https://www.theexchangedentalgroup.com.
