@@ -291,15 +291,15 @@ Show Search
 * Copyright 2024 The Associated Press. All Rights Reserved.
     
 
-[NBA Finals](https://apnews.com/article/celtics-nba-finals-3ffbd0d7b73bec03eb53fc92ff5f5961)
-
-[Chiefs’ B.J. Thompson](https://apnews.com/article/chiefs-kansas-city-cardiac-event-17f22f60bfaa92d1bc9e82c50b5b06ac)
-
 [Israel-Hamas war](https://apnews.com/hub/israel-hamas-war)
 
-[Boeing Starliner](https://apnews.com/article/boeing-starliner-nasa-astronauts-launch-fc55af012efeb32cbeaa4d264ab85e11)
+[Pat Sajak final show](https://apnews.com/article/pat-sajak-wheel-of-fortune-ryan-seacrest-c64f40809bc993f4d4eb221dc37ff841)
 
-[Gilgo Beach killings](https://apnews.com/article/gilgo-beach-long-island-serial-killer-cd010da500bedf2aabded35d1b939629)
+[US jobs report](https://apnews.com/article/jobs-hiring-unemployment-economy-inflation-federal-reserve-07a321981752503e5299882805ed36c9)
+
+[Kia recall](https://apnews.com/article/kia-telluride-recall-fire-risk-cd8cd19cdd1d8686a7328e1e9d5ac4ce)
+
+[Bird flu](https://apnews.com/article/bird-flu-h5n2-h5n1-85366c76aeba57460eb83646f5c37be3)
 
 The Associated Press
 ====================
