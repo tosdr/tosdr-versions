@@ -1,6 +1,6 @@
-[![Linus Tech Tips](https://linustechtips.com/uploads/monthly_2023_10/LogoBanner.png.ef763fafd482d2cd169c505da8cead30.png)](https://linustechtips.com/)
+[![Linus Tech Tips](https://linustechtips.com/uploads/monthly_2024_06/LogoBanner.png.716214fb6e6e38a4c4add0d1d259b3e3.png)](https://linustechtips.com/)
 
-[![Linus Tech Tips](https://linustechtips.com/uploads/monthly_2023_10/LogoBanner.png.ef763fafd482d2cd169c505da8cead30.png)](https://linustechtips.com/)
+[![Linus Tech Tips](https://linustechtips.com/uploads/monthly_2024_06/LogoBanner.png.716214fb6e6e38a4c4add0d1d259b3e3.png)](https://linustechtips.com/)
 
 * [Home](https://linustechtips.com/)
 
