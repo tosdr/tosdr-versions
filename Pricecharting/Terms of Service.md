@@ -296,7 +296,7 @@ You still own any content you upload. We just use it for the purposes of running
 
 All Price Data on the site is sole ownership of PriceCharting. You may not republish, redistribute, or reuse the price data without explicitly citing PriceCharting as the source with a link to the url where the price is found.
 
-PriceCharting price data may be integrated with POS (Point of Sale) systems that are marketed, sold, and distributed to third parties. POS integrations must verify that each store location accessing the data has a valid and current PriceCharting premium subscription.
+PriceCharting price data may be integrated with POS (Point of Sale) systems that are used internally, or marketed, sold, or distributed to third parties. POS integrations must verify that each store location accessing the data has a valid and current PriceCharting Legendary subscription.
 
 ### Summary,
 
