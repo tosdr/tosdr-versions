@@ -1,5 +1,3 @@
-Need immediate assistance? [Schedule a meeting with our Sales Team](https://www.knack.com/meet-sales/)
-
 Read how you can revolutionize your operation with Knack.
 
 Knack builders are succeeding.
