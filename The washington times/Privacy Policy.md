@@ -168,20 +168,25 @@ Search Search Keyword:     Search
 * [Subscribe](https://www.washingtontimes.com/subscribe/?subscribe-button-scroll "Subscribe")
 * [Sign In](https://www.washingtontimes.com/my-account/ "Sign In")
 
-[![Front Page Podcast](https://twt-thumbs.washtimes.com/media/specials/0606_FRONT_900_k65x65.png?25e518aeb5fddef9cfade2c3459a6609d7980e02)](https://www.washingtontimes.com/specials/front-page-podcast/)
+### Listen Now
 
-[Listen: Thursday’s Front Page](https://www.washingtontimes.com/specials/front-page-podcast/ "Front Page Podcast") Get the top stories from The Washington Times
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+[New Threat Status podcast: Inside Ukraine's anti-corruption fight](https://www.washingtontimes.com/news/2024/jun/7/threat-status-podcast-inside-ukraines-anti-corrupt/)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Threat Status Podcast](https://twt-thumbs.washtimes.com/media/specials/UKRAINE_900_k65x65.png?25e518aeb5fddef9cfade2c3459a6609d7980e02)](https://www.washingtontimes.com/specials/threat-status-podcast/)
+[![Front Page Podcast](https://twt-thumbs.washtimes.com/media/specials/0607_FRONT_900_k65x65.png?25e518aeb5fddef9cfade2c3459a6609d7980e02)](https://www.washingtontimes.com/specials/front-page-podcast/)
 
-[Is Ukraine doomed in its war with Russia?](https://www.washingtontimes.com/specials/threat-status-podcast/ "Threat Status Podcast") The Threat Status podcast
+[Listen: Friday’s Front Page](https://www.washingtontimes.com/specials/front-page-podcast/ "Front Page Podcast") Get the top stories from The Washington Times
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![History As It Happens: D-Day Remembered](https://twt-thumbs.washtimes.com/media/specials/DDAY_900_k65x65.png?25e518aeb5fddef9cfade2c3459a6609d7980e02)](https://www.washingtontimes.com/specials/history-it-happens-d-day-remembered/)
+[![Bold &amp; Blunt Podcast](https://twt-thumbs.washtimes.com/media/specials/0606_BOLD_900_k65x65.png?25e518aeb5fddef9cfade2c3459a6609d7980e02)](https://www.washingtontimes.com/specials/bold-blunt-podcast/)
 
-[History As It Happens: D-Day Remembered](https://www.washingtontimes.com/specials/history-it-happens-d-day-remembered/ "History As It Happens: D-Day Remembered") Memories of the liberation
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Chumley: The world turns against Israel](https://www.washingtontimes.com/specials/bold-blunt-podcast/ "Bold & Blunt Podcast") Josh Reinstein joins Bold & Blunt
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Dr. Anthony Fauci, the former Director of the National Institute of Allergy and Infectious Diseases, testifies before the House Oversight and Accountability Committee Select Subcommittee on the Coronavirus Pandemic, at the Capitol in Washington, Monday, June 3, 2024. (AP Photo/J. Scott Applewhite)](https://twt-thumbs.washtimes.com/media/image/2024/06/03/House_Pandemic_15415_c1000-0-5000-4000_s170x170.jpg?f1bd568da5c7bdf6da31e5d48e36e160bf9aed8d)](https://www.washingtontimes.com/news/2024/jun/6/politically-unstable-dr-fauci-failed-america-durin/)
+
+[WATCH: Dr. Fauci failed America during the COVID pandemic](https://www.washingtontimes.com/news/2024/jun/6/politically-unstable-dr-fauci-failed-america-durin/ "WATCH: Dr. Fauci failed America during the COVID pandemic") Kelly Sadler with Dr. David Asher
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **TRENDING:**
 
@@ -309,15 +314,15 @@ Advertisement
 Most Popular
 ------------
 
-### [McConnell suggests Supreme Court could punish some Senate Democrats over recusal demands](https://www.washingtontimes.com/news/2024/jun/5/mitch-mcconnell-suggests-supreme-court-could-punis/ "McConnell suggests Supreme Court could punish some Senate Democrats over recusal demands")
-
-### [Trump behind bars or the Resolute Desk?](https://www.washingtontimes.com/news/2024/jun/3/trump-behind-bars-or-resolute-desk/ "Trump behind bars or the Resolute Desk?")
-
-### [EDITORIAL: Dr. Anthony Fauci unmasked](https://www.washingtontimes.com/news/2024/jun/4/editorial-dr-anthony-fauci-unmasked/ "EDITORIAL: Dr. Anthony Fauci unmasked")
+### [Hunter Biden's laptop is real, and The Washington Post is in trouble](https://www.washingtontimes.com/news/2024/jun/6/hunter-bidens-laptop-is-real-and-washington-post-i/ "Hunter Biden's laptop is real, and The Washington Post is in trouble")
 
 ### [Here are Donald Trump's top three arguments for appeal after guilty verdict in hush money trial](https://www.washingtontimes.com/news/2024/may/30/here-are-donald-trumps-top-three-arguments-for-app/ "Here are Donald Trump's top three arguments for appeal after guilty verdict in hush money trial")
 
-### [Reagan's D-Day speech 40 years ago shows how lame Biden is](https://www.washingtontimes.com/news/2024/jun/5/reagans-d-day-speech-40-years-ago-shows-how-lame-b/ "Reagan's D-Day speech 40 years ago shows how lame Biden is")
+### [Culture wars define Biden-Trump rematch with voters sharply split on gender, religion, crime](https://www.washingtontimes.com/news/2024/jun/7/culture-wars-define-biden-trump-rematch-with-voter/ "Culture wars define Biden-Trump rematch with voters sharply split on gender, religion, crime")
+
+### [Noncitizens do vote in U.S. elections -- here's how they do it](https://www.washingtontimes.com/news/2024/may/3/noncitizens-do-vote-in-us-elections-heres-how-they/ "Noncitizens do vote in U.S. elections -- here's how they do it")
+
+### [Charges of defamation, fraud fly in GOP primary race in Virginia's 7th Congressional District](https://www.washingtontimes.com/news/2024/jun/6/charges-of-defamation-fraud-fly-in-gop-primary-rac/ "Charges of defamation, fraud fly in GOP primary race in Virginia's 7th Congressional District")
 
 Advertisement
 
@@ -325,6 +330,24 @@ Advertisement
 
 Commentary
 ----------
+
+![Charles Hurt](https://twt-thumbs.washtimes.com/media/img/staff/2016/charles-hurt-350_s170x238.jpg?4b4bbcd7d52068c3c9611573fce381be0c51d1e2)
+
+### [Charles Hurt](https://www.washingtontimes.com/staff/charles-hurt/)
+
+[Rock bottom for Hunter Biden](https://www.washingtontimes.com/news/2024/jun/6/rock-bottom-for-hunter-biden/ "Rock bottom for Hunter Biden")
+
+![Tim Murtaugh](https://twt-thumbs.washtimes.com/media/img/staff/2022/tim-murtaugh-350_s170x238.jpg?4b4bbcd7d52068c3c9611573fce381be0c51d1e2)
+
+### [Tim Murtaugh](https://www.washingtontimes.com/staff/tim-murtaugh/)
+
+[Hunter Biden’s laptop is real, and The Washington Post is in trouble](https://www.washingtontimes.com/news/2024/jun/6/hunter-bidens-laptop-is-real-and-washington-post-i/ "Hunter Biden’s laptop is real, and The Washington Post is in trouble")
+
+![Joseph R. DeTrani](https://twt-thumbs.washtimes.com/media/img/staff/2024/joseph-detrani-350_s170x238.jpg?4b4bbcd7d52068c3c9611573fce381be0c51d1e2)
+
+### [Joseph R. DeTrani](https://www.washingtontimes.com/staff/joseph-r-detrani/)
+
+[Mixed messages from China: Potential friend or determined foe?](https://www.washingtontimes.com/news/2024/jun/6/mixed-messages-from-china-potential-friend-or-dete/ "Mixed messages from China: Potential friend or determined foe?")
 
 ![Joseph Curl](https://twt-thumbs.washtimes.com/media/img/staff/2014/JOSEPHCURL_s170x255.jpg?c2b569b870632a1f92472d224952a26f127ab236)
 
@@ -338,66 +361,48 @@ Commentary
 
 [Why Beyonce cutting a country album is good news for Donald Trump](https://www.washingtontimes.com/news/2024/jun/5/why-beyonce-cutting-country-album-good-news-donald/ "Why Beyonce cutting a country album is good news for Donald Trump")
 
-![Michael McKenna](https://twt-thumbs.washtimes.com/media/img/staff/2020/michael-mckenna-nonstaffmug-v2_s170x238.jpg?4b4bbcd7d52068c3c9611573fce381be0c51d1e2)
-
-### [Michael McKenna](https://www.washingtontimes.com/staff/michael-mckenna/)
-
-[Why we haven’t won a shooting war since WWII](https://www.washingtontimes.com/news/2024/jun/5/why-we-havent-won-shooting-war-since-wwii/ "Why we haven’t won a shooting war since WWII")
-
-![Andrew P. Napolitano](https://twt-thumbs.washtimes.com/media/img/staff/2021/napolitano-v2-350_s170x238.jpg?4b4bbcd7d52068c3c9611573fce381be0c51d1e2)
-
-### [Andrew P. Napolitano](https://www.washingtontimes.com/staff/andrew-p-napolitano/)
-
-[War and indifference: What is Biden’s goal in Ukraine?](https://www.washingtontimes.com/news/2024/jun/5/war-and-indifference-what-is-bidens-goal-in-ukrain/ "War and indifference: What is Biden’s goal in Ukraine?")
-
-![Stephen Moore](https://twt-thumbs.washtimes.com/media/img/staff/2016/stephen-moore-350_s170x238.jpg?4b4bbcd7d52068c3c9611573fce381be0c51d1e2)
-
-### [Stephen Moore](https://www.washingtontimes.com/staff/stephen-moore/)
-
-[Hey, Joe: Where are all the EV charging stations?](https://www.washingtontimes.com/news/2024/jun/4/hey-joe-where-are-all-ev-charging-stations/ "Hey, Joe: Where are all the EV charging stations?")
-
 ![Logo: The Washington Times (small)](/static/images/W_RedCircle.af82cbe68606.svg)More News
 -------------------------------------------------------------------------------------------
 
 ### [Waste, Fraud & Abuse](https://www.washingtontimes.com/news/waste-fraud-abuse/)
 
-#### [Federal prosecutors accuse IRS employee of stealing Exxon’s taxes](https://www.washingtontimes.com/news/2024/jun/6/rodney-quinn-rupe-irs-employee-accused-of-stealing/)
+#### [Hallie Biden paints vivid picture of Hunter’s drug use, smoking crack 48 hours after buying a gun](https://www.washingtontimes.com/news/2024/jun/6/hallie-biden-paints-vivid-picture-of-hunters-drug-/)
 
-#### [House investigators seek DOJ charges for Hunter, James Biden for lying to protect president](https://www.washingtontimes.com/news/2024/jun/5/house-investigators-seek-doj-charges-for-hunter-ja/)
+#### [Trump ally Steve Bannon ordered to jail by Trump-appointed judge](https://www.washingtontimes.com/news/2024/jun/6/steve-bannon-staunch-trump-ally-ordered-to-jail-by/)
 
-#### [AG Garland hasn’t listened to Biden interview tapes, rejects calls to release them](https://www.washingtontimes.com/news/2024/jun/4/merrick-garland-hasnt-listened-to-biden-interview-/)
+#### [Home court advantage unlikely to get Hunter Biden an acquittal, expert says](https://www.washingtontimes.com/news/2024/jun/6/home-court-advantage-unlikely-to-get-hunter-biden-/)
 
 ### [Security](https://www.washingtontimes.com/news/security/)
 
-#### [Biden: Ukraine can’t use U.S.-made weapons to strike Moscow](https://www.washingtontimes.com/news/2024/jun/6/biden-ukraine-cant-use-us-made-weapons-to-strike-m/)
+#### [Biden hails cliff-climbing defenders of democracy, swipes at Putin in Pointe du Hoc speech](https://www.washingtontimes.com/news/2024/jun/7/joe-biden-hails-cliff-climbing-defenders-democracy/)
 
-#### [Biden hails global alliances, bravery of aging veterans at D-Day commemoration](https://www.washingtontimes.com/news/2024/jun/6/biden-hails-global-alliances-bravery-of-aging-vete/)
+#### [Biden huddles with Zelenskyy in Paris, says he’s sorry House GOP held up war aid](https://www.washingtontimes.com/news/2024/jun/7/biden-huddles-with-zelenskyy-in-paris-says-he-sorr/)
 
-#### [Beijing racing to deploy domestic Starlink](https://www.washingtontimes.com/news/2024/jun/6/beijing-racing-deploy-domestic-starlink/)
+#### [At D-Day ceremony, American veteran hugs Ukraine’s Zelenskyy and calls him a savior](https://www.washingtontimes.com/news/2024/jun/7/at-d-day-ceremony-american-veteran-hugs-volodymyr-/)
 
 ### [D.C. Local](https://www.washingtontimes.com/news/local/)
 
-#### [Tornadoes touch down across U.S., killing toddler in Michigan and injuring 5 in Maryland](https://www.washingtontimes.com/news/2024/jun/5/tornadoes-touch-down-across-us-killing-toddler-in-/)
+#### [James Beard finalists include an East African restaurant in Detroit and Seattle pho shops](https://www.washingtontimes.com/news/2024/jun/7/james-beard-finalists-detroit-east-african-restaur/)
 
-#### [Chicago Sky players say team was harassed by man at D.C. hotel](https://www.washingtontimes.com/news/2024/jun/5/chennedy-carter-chicago-sky-players-harassed-by-ma/)
+#### [GOP officials in Rep. Bob Good’s district call on Trump to reconsider endorsement of his opponent](https://www.washingtontimes.com/news/2024/jun/6/gop-officials-rep-bob-goods-district-call-trump-re/)
 
-#### [Navy vet has Trump’s nod ahead of Virginia’s U.S. Senate primary, targets Tim Kaine in uphill battle](https://www.washingtontimes.com/news/2024/jun/5/navy-vet-hung-cao-has-trump-nod-ahead-of-virginia-/)
+#### [Charges of defamation, fraud fly in GOP primary race in Virginia’s 7th Congressional District](https://www.washingtontimes.com/news/2024/jun/6/charges-of-defamation-fraud-fly-in-gop-primary-rac/)
 
 ### [World](https://www.washingtontimes.com/news/world/)
 
+#### [Pentagon: U.S.-built Gaza pier open again after rough seas knocked it out](https://www.washingtontimes.com/news/2024/jun/7/pentagon-us-built-gaza-pier-open-again-after-rough/)
+
+#### [India’s Modi elected as leader of coalition and set to form new government](https://www.washingtontimes.com/news/2024/jun/7/indian-prime-minister-narendra-modi-elected-as-lea/)
+
 #### [Biden: Ukraine can’t use U.S.-made weapons to strike Moscow](https://www.washingtontimes.com/news/2024/jun/6/biden-ukraine-cant-use-us-made-weapons-to-strike-m/)
-
-#### [Bird flu: First person in world dies of new strain in Mexico, WHO confirms](https://www.washingtontimes.com/news/2024/jun/6/bird-flu-first-person-world-dies-new-strain-mexico/)
-
-#### [Russian court begins trial of U.S. soldier arrested on theft charges](https://www.washingtontimes.com/news/2024/jun/6/russian-court-begins-trial-of-staff-sgt-gordon-bla/)
 
 ### [Business & Economy](https://www.washingtontimes.com/news/business-economy/)
 
-#### [Adobe update lets it access private, proprietary user creations](https://www.washingtontimes.com/news/2024/jun/6/adobe-update-lets-it-access-private-proprietary-us/)
+#### [U.S. employers added a robust 272,000 jobs in May in a sign of sustained economic health](https://www.washingtontimes.com/news/2024/jun/7/us-employers-added-robust-272000-jobs-in-may-sign-/)
 
-#### [Starbucks baristas line out the door to unionize](https://www.washingtontimes.com/news/2024/jun/6/starbucks-baristas-line-out-door-unionize/)
+#### [Bragging about how much you work makes people think you’re an idiot, study finds](https://www.washingtontimes.com/news/2024/jun/6/bragging-about-how-much-you-work-makes-people-thin/)
 
-#### [American Airlines flight attendant union says no to 17% pay raise, paving way for strike](https://www.washingtontimes.com/news/2024/jun/6/american-airlines-flight-attendant-union-says-no-1/)
+#### [Congress opens probe into federal workers doing union business on taxpayers’ time](https://www.washingtontimes.com/news/2024/jun/6/congress-opens-probe-into-federal-workers-doing-un/)
 
 ### [Higher Ground](https://www.washingtontimes.com/specials/higher-ground/)
 
@@ -417,27 +422,27 @@ Commentary
 
 ### [Entertainment](https://www.washingtontimes.com/culture/entertainment/)
 
-#### [YouTube toughens policy on gun videos and youth; critics say proof will be in enforcement](https://www.washingtontimes.com/news/2024/jun/6/youtube-cracks-down-on-gun-videos-and-youth-critic/)
+#### [Trump film ‘The Apprentice’ made noise in Cannes, but it still lacks a U.S. distributor](https://www.washingtontimes.com/news/2024/jun/7/donald-trump-film-the-apprentice-made-noise-in-can/)
 
-#### [Suzanne Collins is releasing a new ‘Hunger Games’ novel, ‘Sunrise on the Reaping,’ next year](https://www.washingtontimes.com/news/2024/jun/6/suzanne-collins-new-hunger-games-novel-sunrise-on-/)
+#### [California YouTuber arrested, accused of directing fireworks from helicopter midflight](https://www.washingtontimes.com/news/2024/jun/7/california-youtuber-arrested-accused-directing-fir/)
 
-#### [Opening arguments starting in class-action lawsuit against NFL by ‘Sunday Ticket’ subscribers](https://www.washingtontimes.com/news/2024/jun/6/sunday-ticket-subscribers-opening-arguments-in-law/)
+#### [Family of ‘Rust’ shooting victim not done with Alec Baldwin, shifts civil lawsuit to New Mexico](https://www.washingtontimes.com/news/2024/jun/7/family-of-rust-shooting-victim-not-done-with-alec-/)
 
 ### [Travel](https://www.washingtontimes.com/culture/travel/)
 
+#### [James Beard finalists include an East African restaurant in Detroit and Seattle pho shops](https://www.washingtontimes.com/news/2024/jun/7/james-beard-finalists-detroit-east-african-restaur/)
+
+#### [Waymo expands operations in Phoenix](https://www.washingtontimes.com/news/2024/jun/6/waymo-expands-operations-phoenix/)
+
 #### [American Airlines flight attendant union says no to 17% pay raise, paving way for strike](https://www.washingtontimes.com/news/2024/jun/6/american-airlines-flight-attendant-union-says-no-1/)
-
-#### [Measles scare at major airports spark vaccination plea from health officials](https://www.washingtontimes.com/news/2024/jun/5/measles-scare-at-major-airports-spark-vaccination-/)
-
-#### [From decay to dazzling, Ford restores grandeur to former eyesore Detroit train station](https://www.washingtontimes.com/news/2024/jun/3/ford-restores-grandeur-to-former-eyesore-detroit-t/)
 
 ### [Technology](https://www.washingtontimes.com/culture/technology/)
 
-#### [Adobe update lets it access private, proprietary user creations](https://www.washingtontimes.com/news/2024/jun/6/adobe-update-lets-it-access-private-proprietary-us/)
+#### [California YouTuber arrested, accused of directing fireworks from helicopter midflight](https://www.washingtontimes.com/news/2024/jun/7/california-youtuber-arrested-accused-directing-fir/)
 
-#### [YouTube toughens policy on gun videos and youth; critics say proof will be in enforcement](https://www.washingtontimes.com/news/2024/jun/6/youtube-cracks-down-on-gun-videos-and-youth-critic/)
+#### [Boeing’s astronaut capsule arrives at the space station after thruster trouble](https://www.washingtontimes.com/news/2024/jun/6/boeings-astronaut-capsule-arrives-at--writethru-12/)
 
-#### [Lawmakers worry energy-thirsty AI could spike consumer utility bills](https://www.washingtontimes.com/news/2024/jun/5/lawmakers-worry-energy-thirsty-ai-could-spike-cons/)
+#### [Waymo expands operations in Phoenix](https://www.washingtontimes.com/news/2024/jun/6/waymo-expands-operations-phoenix/)
 
 ![Logo: The Washington Times (small)](/static/images/W_RedCircle.af82cbe68606.svg)Policy
 ----------------------------------------------------------------------------------------
@@ -456,11 +461,11 @@ Commentary
 
 ### [Second Amendment & Gun Control](https://www.washingtontimes.com/specials/second-amendment-and-gun-control/)
 
-#### [YouTube toughens policy on gun videos and youth; critics say proof will be in enforcement](https://www.washingtontimes.com/news/2024/jun/6/youtube-cracks-down-on-gun-videos-and-youth-critic/ "YouTube toughens policy on gun videos and youth; critics say proof will be in enforcement")
+#### [Judge expunges convictions of St. Louis couple who waved guns at protesters; they demand guns back](https://www.washingtontimes.com/news/2024/jun/6/mark-and-patricia-mccloskey-st-louis-couple-who-wa/ "Judge expunges convictions of St. Louis couple who waved guns at protesters; they demand guns back")
 
 ### [Immigration Reform](https://www.washingtontimes.com/specials/immigration-reform/)
 
-#### [Biden's attempt to show action on border no match for cartels](https://www.washingtontimes.com/news/2024/jun/5/cartels-eye-loopholes-in-joe-bidens-new-border-rul/ "Biden's attempt to show action on border no match for cartels")
+#### [Trump trashes Biden's 'fake' executive order on immigration in first post-conviction campaign stop](https://www.washingtontimes.com/news/2024/jun/6/trump-trashes-bidens-fake-executive-order-immigrat/ "Trump trashes Biden's 'fake' executive order on immigration in first post-conviction campaign stop")
 
 ### [Homeland & Cybersecurity](https://www.washingtontimes.com/specials/intelligence-cybersecurity/)
 
@@ -468,11 +473,11 @@ Commentary
 
 ### [Aerospace & Defense](https://www.washingtontimes.com/specials/defense-aerospace/)
 
-#### [All eyes on D-Day heroes 80 years later: Biden, world leaders mark milestone anniversary](https://www.washingtontimes.com/news/2024/jun/5/undiminished-valor-joe-biden-world-leaders-to-mark/ "All eyes on D-Day heroes 80 years later: Biden, world leaders mark milestone anniversary")
+#### [Israeli Prime Minister Netanyahu set to address Congress on July 24](https://www.washingtontimes.com/news/2024/jun/6/benjamin-netanyahu-set-to-address-us-congress-on-j/ "Israeli Prime Minister Netanyahu set to address Congress on July 24")
 
 ### [Taxes & Budget](https://www.washingtontimes.com/specials/taxes-budget/)
 
-#### [U.N. secretary-general calls for 'windfall' tax on profits of fossil fuel companies](https://www.washingtontimes.com/news/2024/jun/5/antonio-guterres-un-secretary-general-wants-windfa/ "U.N. secretary-general calls for 'windfall' tax on profits of fossil fuel companies")
+#### [Congress opens probe into federal workers doing union business on taxpayers' time](https://www.washingtontimes.com/news/2024/jun/6/congress-opens-probe-into-federal-workers-doing-un/ "Congress opens probe into federal workers doing union business on taxpayers' time")
 
 ### [Law Enforcement & Intelligence](https://www.washingtontimes.com/specials/law-enforcement-intelligence/)
 
@@ -480,7 +485,7 @@ Commentary
 
 ### [Transportation & Infrastructure](https://www.washingtontimes.com/specials/transportation-infrastructure/)
 
-#### [Expect the cost of your airfare to continue to rise, an aviation trade group and industry heads warn](https://www.washingtontimes.com/news/2024/jun/3/expect-cost-of-your-airfare-to-continue-to-increas/ "Expect the cost of your airfare to continue to rise, an aviation trade group and industry heads warn")
+#### [Waymo expands operations in Phoenix](https://www.washingtontimes.com/news/2024/jun/6/waymo-expands-operations-phoenix/ "Waymo expands operations in Phoenix")
 
 ### Newsletters
 
