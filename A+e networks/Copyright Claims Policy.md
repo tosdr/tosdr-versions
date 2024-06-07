@@ -88,7 +88,7 @@ Latest news
 
 ### The Life and Murder of Nicole Brown Simpson Sundays from 16 June on Crime+Investigation and Crime+Investigation Play](https://www.aenetworks.com/news/life-and-murder-nicole-brown-simpson-sundays-16-june-crimeinvestigation-and-crimeinvestigation)
 
-    [![Dermot Murnaghan ](/s3/files/styles/card_tablet/public/2024-05/Dermot%20Murnaghan%20RX%201-8%20%282%29%20copy%202.jpg?itok=fY0pqwLC)
+    [![Dermot Murnaghan ](https://aetncorporate.s3.eu-west-2.amazonaws.com/s3fs-public/styles/card_tablet/public/2024-05/Dermot%20Murnaghan%20RX%201-8%20%282%29%20copy%202.jpg?VersionId=KXKyw91RC2LFxBhVVHsk3Q39wPcLBblD&itok=fY0pqwLC)
 
 20 May 2024
 
