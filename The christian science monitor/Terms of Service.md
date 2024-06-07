@@ -92,17 +92,17 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
-[Courage
+[Transformation
 
-### Islamists target northern Mozambique – especially the children](https://www.csmonitor.com/World/Africa/2024/0606/islamist-rebels-mozambique-target-children "Islamists target northern Mozambique – especially the children")
+### Vancouver needs homes. Local First Nations have plans on how to provide them.](https://www.csmonitor.com/World/Americas/2024/0607/vancouver-first-nations-development-canada-real-estate "Vancouver needs homes. Local First Nations have plans on how to provide them.")
 
-[Joy
+[Trust
 
-### The grass wasn’t greener - turning my lawn into a garden ate my time and freed my mind](https://www.csmonitor.com/The-Culture/The-Home-Forum/2024/0606/garden-gardening-turf-free-lawn-yard-zen "The grass wasn’t greener - turning my lawn into a garden ate my time and freed my mind")
+### Capitalism with a collectivist twist? Our writer went into the mountains to see it.](https://www.csmonitor.com/Podcasts/Why-We-Wrote-This/wwwt_2419 "Capitalism with a collectivist twist? Our writer went into the mountains to see it.")
 
-[Resilience
+[Integrity
 
-### Once a seaside getaway, Gaza ‘safe zone’ now feels like a polluted prison](https://www.csmonitor.com/World/Middle-East/2024/0605/gaza-war-safe-zone-mawasi "Once a seaside getaway, Gaza ‘safe zone’ now feels like a polluted prison")
+### Ukraine’s push on border integrity](https://www.csmonitor.com/Commentary/the-monitors-view/2024/0606/Ukraine-s-push-on-border-integrity "Ukraine’s push on border integrity")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -140,11 +140,11 @@ More
 
 Monitor Daily
 
-June 05, 2024
+June 06, 2024
 
-The key to political manipulation
+Climate change – and trust?
 
-Caitlin Babcock’s Q&A with Michael Wear, author of “The Spirit of Our Politics,” is a must-read. In interviews with people like Amanda Ripley and Alexandra Hudson, we see the same things again and again: Fight the good fight, but do it with grace, patience, and love. Mr. Wear touches on something very deep when he says, “There is no one who is more easily manipulated in political life than the person who is angry.” How to fix our politics is not a mystery, really. It’s a question of whether we want to commit to the continual self-renovation it requires.
+Climate change is a tough subject, even amid wide consensus that our planet’s climate is indeed changing. Distrust mounts amid polarized debates – and some intentional efforts to undermine knowledge and legitimate science. As Stephanie Hanes writes in our lead story today, “Questioning mainstream assumptions about climate change without denying its import or reality – ‘threading the needle,’ as Dr. \[Patrick\] Brown puts it – can be a much-maligned path.”To move forward, it’s essential to address these differences. “One of the best ways to respond to climate change,” Stephanie says, “is to rebuild trust among people who disagree – and to reclaim a space for challenging but productive conversations.”
 
 [Listen to or read today's issue](https://www.csmonitor.com/Daily)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
-[### Should parents regulate their children’s social media feeds? A New York bill says ‘yes.’](https://www.csmonitor.com/USA/2024/0606/new-york-lawmakers-seek-to-restrict-childrens-social-media-algorithms "Should parents regulate their children’s social media feeds? A New York bill says ‘yes.’")
+[### NBA analyst Doris Burke becomes first woman to call major sports final](https://www.csmonitor.com/USA/2024/0607/doris-burke-first-woman-analyst-finals "NBA analyst Doris Burke becomes first woman to call major sports final")
 
-[### CEO pay soars to new heights leaving worker wages behind](https://www.csmonitor.com/World/2024/0606/Ceo-salary-pay-gap-2023 "CEO pay soars to new heights leaving worker wages behind")
+[### Vancouver needs homes. Local First Nations have plans on how to provide them.](https://www.csmonitor.com/World/Americas/2024/0607/vancouver-first-nations-development-canada-real-estate "Vancouver needs homes. Local First Nations have plans on how to provide them.")
 
-[### New York governor pumps the brakes on Manhattan congestion pricing plan](https://www.csmonitor.com/USA/2024/0606/new-york-motor-tax-stopped "New York governor pumps the brakes on Manhattan congestion pricing plan")
+[### As EU elections near, migrants surge again at Poland-Belarus border](https://www.csmonitor.com/World/Europe/2024/0606/Poland-Belarus-border-migration-weapons-EU "As EU elections near, migrants surge again at Poland-Belarus border")
 
 * * *
 
