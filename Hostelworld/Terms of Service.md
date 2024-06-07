@@ -1,24 +1,43 @@
 Language
 
-* [English](https://www.hostelworld.com/st/hosteltermsandconditions/)
-* [Français](https://www.french.hostelworld.com/st/hosteltermsandconditions/)
-* [Deutsch](https://www.german.hostelworld.com/st/hosteltermsandconditions/)
-* [Español](https://www.spanish.hostelworld.com/st/hosteltermsandconditions/)
-* [Italiano](https://www.italian.hostelworld.com/st/hosteltermsandconditions/)
-* [Português](https://www.portuguese.hostelworld.com/st/hosteltermsandconditions/)
-* [Português (Brasil)](https://www.brazilian.hostelworld.com/st/hosteltermsandconditions/)
-* [Svenska](https://www.swedish.hostelworld.com/st/hosteltermsandconditions/)
-* [Polski](https://www.polish.hostelworld.com/st/hosteltermsandconditions/)
-* [Suomi](https://www.finnish.hostelworld.com/st/hosteltermsandconditions/)
-* [Dansk](https://www.danish.hostelworld.com/st/hosteltermsandconditions/)
-* [Nederlands](https://www.dutch.hostelworld.com/st/hosteltermsandconditions/)
-* [Norsk](https://www.norwegian.hostelworld.com/st/hosteltermsandconditions/)
-* [český](https://www.czech.hostelworld.com/st/hosteltermsandconditions/)
-* [Русский](https://www.russian.hostelworld.com/st/hosteltermsandconditions/)
-* [Türk](https://www.turkish.hostelworld.com/st/hosteltermsandconditions/)
-* [中文](https://www.chinese.hostelworld.com/st/hosteltermsandconditions/)
-* [日本語](https://www.japanese.hostelworld.com/st/hosteltermsandconditions/)
-* [한국어](https://www.korean.hostelworld.com/st/hosteltermsandconditions/)
+* English
+    
+* Français
+    
+* Deutsch
+    
+* Español
+    
+* Italiano
+    
+* Português
+    
+* Português (Brasil)
+    
+* Svenska
+    
+* Polski
+    
+* Suomi
+    
+* Dansk
+    
+* Nederlands
+    
+* Norsk
+    
+* český
+    
+* Русский
+    
+* Türk
+    
+* 中文
+    
+* 日本語
+    
+* 한국어
+    
 
 [![Hostelworld](https://a.hwstatic.com/raw/upload/f_auto,q_auto/wds/logos/brand/hw-full.svg "Hostelworld")](https://www.hostelworld.com/)
 
