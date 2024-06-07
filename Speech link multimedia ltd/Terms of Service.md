@@ -114,9 +114,9 @@ Speech & Language Link
 
 We are a leading provider of assessment and intervention for students with speech, language and communication needs (SLCN) throughout the UK and abroad. We work with individual schools, MATs, Local Authorities and NHS Speech and Language Therapy teams
 
-We provide training for school staff and support you every step of the way through our specialist Speech & Language Link Help desk.
+**![Teddy holding a help sign](/wp-content/uploads/2024/04/Teddy-with-help-sign-3.jpg)We are currently undertaking a [nationwide research project](https://speechandlanguage.info/working-with-you/research-opportunities-for-schools/infant-language-link-study/) to standardise a measure of language on school entry. Would your school like to take part? (You can get Infant Language Link free for a year!)**
 
-[Explore our SLCN support](https://speechandlanguage.info/resources/perch/pdf/speechandlanguage.link/whole-school-approach/)
+[Find out more about our research project](https://speechandlanguage.info/working-with-you/research-opportunities-for-schools/infant-language-link-study/)
 
 [](https://speechandlanguage.info/whole-school-approach/)
 
