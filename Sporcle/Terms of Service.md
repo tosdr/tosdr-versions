@@ -1,3 +1,5 @@
+LIVE: [Matt and Derek's Quiz Lab!](https://www.youtube.com/live/1lLb7tmdNm0)
+
 1. [Quizzes](https://www.sporcle.com/)
 2. [Events](https://www.sporcle.com/events/)
 
@@ -438,7 +440,7 @@ est. 2007
 
 mentally stimulating diversions](https://www.sporcle.com/)
 
-5,627,186,614 quizzes played
+5,628,662,531 quizzes played
 
 Remove Ads.
 
