@@ -45,6 +45,11 @@ Skip links
     
     Please use the following form for media requests and the appropriate staff with respond.](https://texasgop.org/media-requests/)
     
+    [Legislative Priorities](https://texasgop.org/category/legislative-priorities/) | [Press releases](https://texasgop.org/category/press-releases/) | [Statement](https://texasgop.org/category/statement/)
+    
+    [2024 Platform and Legislative Priorities Released](https://texasgop.org/2024-platform-and-legislative-priorities/)
+    -------------------------------------------------------------------------------------------------------------------
+    
     [Statement](https://texasgop.org/category/statement/) | [Press releases](https://texasgop.org/category/press-releases/)
     
     [Republican Party of Texas Advances Rule to Close Primaries](https://texasgop.org/rule-closed-primaries/)
@@ -54,11 +59,6 @@ Skip links
     
     [2024 Convention Call](https://texasgop.org/2024-convention-call/)
     ------------------------------------------------------------------
-    
-    [News](https://texasgop.org/category/news/)
-    
-    [Notice of State Canvass for the Republican Party of Texas](https://texasgop.org/notice-of-state-canvass-for-the-republican-party-of-texas/)
-    --------------------------------------------------------------------------------------------------------------------------------------------
     
     ###### Contact Us for Latest Updates
     
