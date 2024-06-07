@@ -70,11 +70,11 @@
 
 MBFC News
 
+* [June 7, 2024 | MBFC’s Daily Vetted Fact Checks for 06/07/2024](https://mediabiasfactcheck.com/2024/06/07/mbfcs-daily-vetted-fact-checks-for-06-07-2024/ "MBFC’s Daily Vetted Fact Checks for 06/07/2024")
+* [June 7, 2024 | (Media News) Report Finds Growing Use of AI in News, But Trust Issues Persist](https://mediabiasfactcheck.com/2024/06/07/report-finds-growing-use-of-ai-in-news-but-trust-issues-persist/ "(Media News) Report Finds Growing Use of AI in News, But Trust Issues Persist")
 * [June 6, 2024 | MBFC’s Daily Vetted Fact Checks for 06/06/2024](https://mediabiasfactcheck.com/2024/06/06/mbfcs-daily-vetted-fact-checks-for-06-06-2024/ "MBFC’s Daily Vetted Fact Checks for 06/06/2024")
 * [June 5, 2024 | (Source of the Day) Is Planeta Prisao/Prison Planet from Brazil inspired by Alex Jones?](https://mediabiasfactcheck.com/2024/06/05/source-of-the-day-is-planeta-prisao-prison-planet-from-brazil-inspired-by-alex-jones/ "(Source of the Day) Is Planeta Prisao/Prison Planet from Brazil inspired by Alex Jones?")
 * [June 5, 2024 | MBFC’s Daily Vetted Fact Checks for 06/05/2024](https://mediabiasfactcheck.com/2024/06/05/mbfcs-daily-vetted-fact-checks-for-06-05-2024/ "MBFC’s Daily Vetted Fact Checks for 06/05/2024")
-* [June 4, 2024 | (Media News) DOJ Charges Epoch Times CFO with $67 Million Money Laundering Scheme](https://mediabiasfactcheck.com/2024/06/04/doj-charges-epoch-times-cfo-with-67-million-money-laundering-scheme/ "(Media News) DOJ Charges Epoch Times CFO with $67 Million Money Laundering Scheme")
-* [June 4, 2024 | (Source of the Day) What is the Bias and Factual Rating for OHCHR?](https://mediabiasfactcheck.com/2024/06/04/source-of-the-day-what-is-the-bias-and-factual-rating-for-ohchr/ "(Source of the Day) What is the Bias and Factual Rating for OHCHR?")
 
 Search for:  
 
@@ -134,6 +134,14 @@ Last Updated on October 18, 2018 by Media Bias Fact Check
 
 #### Recently Added Sources or Pages
 
+* [Malvern Gazette – Bias and Credibility](https://mediabiasfactcheck.com/malvern-gazette-bias/)
+    
+    June 6, 2024
+    
+* [Botswana Government and Media Profile](https://mediabiasfactcheck.com/botswana-government-and-media-profile/)
+    
+    June 6, 2024
+    
 * [Kentucky Business Daily – Bias and Credibility](https://mediabiasfactcheck.com/kentucky-business-daily-bias/)
     
     June 6, 2024
@@ -158,52 +166,44 @@ Last Updated on October 18, 2018 by Media Bias Fact Check
     
     June 5, 2024
     
-* [PharmaVoice – Bias and Credibility](https://mediabiasfactcheck.com/pharmavoice-bias-and-credibility/)
-    
-    June 5, 2024
-    
-* [Granite Post – Bias and Credibility](https://mediabiasfactcheck.com/granite-post-bias/)
-    
-    June 4, 2024
-    
 
 [See More](https://mediabiasfactcheck.com/whats-new-recently-added-sources-and-pages/)
 
 #### Recently Updated Pages
 
-* [Electoral College Simulation Data](https://mediabiasfactcheck.com/electoral-college-simulation-data/ "View Electoral College Simulation Data") - June 6, 2024
+* [Peoria Journal Star – Bias and Credibility](https://mediabiasfactcheck.com/peoria-journal-star/ "View Peoria Journal Star – Bias and Credibility") - June 6, 2024
     
-* [Questionable Sources](https://mediabiasfactcheck.com/fake-news/ "View Questionable Sources") - June 6, 2024
+* [KWTV-News9 – Bias and Credibility](https://mediabiasfactcheck.com/kwtv-news9/ "View KWTV-News9 – Bias and Credibility") - June 6, 2024
     
-* [Kentucky Business Daily – Bias and Credibility](https://mediabiasfactcheck.com/kentucky-business-daily-bias/ "View Kentucky Business Daily – Bias and Credibility") - June 6, 2024
+* [Left-Center Bias](https://mediabiasfactcheck.com/leftcenter/ "View Left-Center Bias") - June 6, 2024
     
-* [Pro-Science](https://mediabiasfactcheck.com/pro-science/ "View Pro-Science") - June 6, 2024
+* [Insider.com – Bias and Credibility](https://mediabiasfactcheck.com/insider/ "View Insider.com – Bias and Credibility") - June 6, 2024
     
-* [Innovation Journal – Bias and Credibility](https://mediabiasfactcheck.com/innovation-journal-bias/ "View Innovation Journal – Bias and Credibility") - June 6, 2024
+* [WTXF-TV Fox 29 – Bias and Credibility](https://mediabiasfactcheck.com/wtxf-tv-fox-29/ "View WTXF-TV Fox 29 – Bias and Credibility") - June 6, 2024
     
-* [Least Biased](https://mediabiasfactcheck.com/center/ "View Least Biased") - June 6, 2024
+* [USA is Online – Bias and Credibility](https://mediabiasfactcheck.com/usa-is-online/ "View USA is Online – Bias and Credibility") - June 6, 2024
     
-* [Whidbey News-Times – Bias and Credibility](https://mediabiasfactcheck.com/whidbey-news-times-bias/ "View Whidbey News-Times – Bias and Credibility") - June 6, 2024
+* [Elisabeth Parker – Bias and Credibility](https://mediabiasfactcheck.com/elisabeth-parker/ "View Elisabeth Parker – Bias and Credibility") - June 6, 2024
     
-* [Left Bias](https://mediabiasfactcheck.com/left/ "View Left Bias") - June 5, 2024
+* [Electronic Frontier Foundation – Bias and Credibility](https://mediabiasfactcheck.com/electronic-frontier-foundation/ "View Electronic Frontier Foundation – Bias and Credibility") - June 6, 2024
     
-* [Oklahoma Voice – Bias and Credibility](https://mediabiasfactcheck.com/oklahoma-voice-bias/ "View Oklahoma Voice – Bias and Credibility") - June 5, 2024
+* [Electoral-Vote.com – Bias and Credibility](https://mediabiasfactcheck.com/electoral-vote-com/ "View Electoral-Vote.com – Bias and Credibility") - June 6, 2024
     
-* [Right-Center Bias](https://mediabiasfactcheck.com/right-center/ "View Right-Center Bias") - June 5, 2024
+* [El Pais – Bias and Credibility](https://mediabiasfactcheck.com/el-pais/ "View El Pais – Bias and Credibility") - June 6, 2024
     
 
 #### Today’s Top Page Views
 
 * [Media Bias/Fact Check News](https://mediabiasfactcheck.com/)
-* [MBFC's Daily Vetted Fact Checks for 06/05/2024](https://mediabiasfactcheck.com/2024/06/05/mbfcs-daily-vetted-fact-checks-for-06-05-2024/)
 * [MBFC's Daily Vetted Fact Checks for 06/06/2024](https://mediabiasfactcheck.com/2024/06/06/mbfcs-daily-vetted-fact-checks-for-06-06-2024/)
 * [Least Biased](https://mediabiasfactcheck.com/center/)
 * [Filtered Search](https://mediabiasfactcheck.com/filtered-search/)
 * [Membership Levels](https://mediabiasfactcheck.com/membership-account/membership-levels/)
-* [Wall Street Journal - Bias and Credibility](https://mediabiasfactcheck.com/wall-street-journal/)
-* [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
-* [Daily Telegraph (UK) - Bias and Credibility](https://mediabiasfactcheck.com/daily-telegraph/)
 * [Search](https://mediabiasfactcheck.com/search/)
+* [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
+* [The Hill - Bias and Credibility](https://mediabiasfactcheck.com/the-hill/)
+* [Daily Mail - Bias and Credibility](https://mediabiasfactcheck.com/daily-mail/)
+* [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
 
 #### Subscribe via Email
 
