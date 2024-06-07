@@ -26,8 +26,6 @@ Players
 
 ![](/img/icons/Menu.svg)
 
-[![bloxmoon.com banner](/img/bloxmoon-728x90.png)](https://bloxmoon.com/?ref=rblxtrade)
-
 **Terms and Conditions**
 ------------------------
 
