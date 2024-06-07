@@ -934,7 +934,7 @@ Footer
 
 * [Affirm Financing](https://www.aventon.com/pages/affirm-product-financing)
 * [Students](https://www.aventon.com/pages/student-beans)
-* [Cancellation Policy](https://www.aventon.com/pages/terms-of-service#cancellations)
+* [Cancelation Policy](https://www.aventon.com/pages/terms-of-service#cancelations)
 * [Cookie Preferences](https://www.aventon.com/pages/cookie-managment)
 * [Register My Bike](https://www.aventon.com/pages/bike-registration)
 * [Return Policy](https://www.aventon.com/pages/terms-of-service#returns)
@@ -984,7 +984,7 @@ Footer
 
 * [Affirm Financing](https://www.aventon.com/pages/affirm-product-financing)
 * [Students](https://www.aventon.com/pages/student-beans)
-* [Cancellation Policy](https://www.aventon.com/pages/terms-of-service#cancellations)
+* [Cancelation Policy](https://www.aventon.com/pages/terms-of-service#cancelations)
 * [Cookie Preferences](https://www.aventon.com/pages/cookie-managment)
 * [Register My Bike](https://www.aventon.com/pages/bike-registration)
 * [Return Policy](https://www.aventon.com/pages/terms-of-service#returns)
