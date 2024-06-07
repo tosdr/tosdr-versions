@@ -91,13 +91,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Horses may have been domesticated twice. Only one attempt stuck](https://www.sciencenews.org/article/horses-domesticated-mobility-timing)
             
-            By [Tina Hesman Saey](https://www.sciencenews.org/author/tina-hesman-saey "Posts by Tina Hesman Saey")1 hour ago
+            By [Tina Hesman Saey](https://www.sciencenews.org/author/tina-hesman-saey "Posts by Tina Hesman Saey")23 hours ago
             
         * [Science & Society](https://www.sciencenews.org/topic/science-society)
             
             ### [Scientists are fixing flawed forensics that can lead to wrongful convictions](https://www.sciencenews.org/article/investigating-crime-science-forensics)
             
-            By [Amber Dance](https://www.sciencenews.org/author/amber-dance "Posts by Amber Dance")5 hours ago
+            By [Amber Dance](https://www.sciencenews.org/author/amber-dance "Posts by Amber Dance")June 6, 2024
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
@@ -114,23 +114,23 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
         * [Genetics](https://www.sciencenews.org/topic/genetics)
         * [Microbes](https://www.sciencenews.org/topic/microbes)
-    * * [Genetics](https://www.sciencenews.org/topic/genetics)
+    * * [Life](https://www.sciencenews.org/topic/life)
+            
+            ### [This protist unfolds its ‘neck’ up to 30 times its body length to scout prey](https://www.sciencenews.org/article/protist-neck-origami-unfold-lacrymaria)
+            
+            By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")22 hours ago
+            
+        * [Genetics](https://www.sciencenews.org/topic/genetics)
             
             ### [Horses may have been domesticated twice. Only one attempt stuck](https://www.sciencenews.org/article/horses-domesticated-mobility-timing)
             
-            By [Tina Hesman Saey](https://www.sciencenews.org/author/tina-hesman-saey "Posts by Tina Hesman Saey")1 hour ago
+            By [Tina Hesman Saey](https://www.sciencenews.org/author/tina-hesman-saey "Posts by Tina Hesman Saey")23 hours ago
             
         * [Science & Society](https://www.sciencenews.org/topic/science-society)
             
             ### [Scientists are fixing flawed forensics that can lead to wrongful convictions](https://www.sciencenews.org/article/investigating-crime-science-forensics)
             
-            By [Amber Dance](https://www.sciencenews.org/author/amber-dance "Posts by Amber Dance")5 hours ago
-            
-        * [Genetics](https://www.sciencenews.org/topic/genetics)
-            
-            ### [Thomas Cech’s ‘The Catalyst’ spotlights RNA and its superpowers](https://www.sciencenews.org/article/thomas-cech-the-catalyst-rna-review)
-            
-            By [Meghan Rosen](https://www.sciencenews.org/author/meghan-rosen "Posts by Meghan Rosen")June 4, 2024
+            By [Amber Dance](https://www.sciencenews.org/author/amber-dance "Posts by Amber Dance")June 6, 2024
             
 * [Earth](https://www.sciencenews.org/topic/earth)
     * [Earth](https://www.sciencenews.org/topic/earth)
@@ -186,6 +186,12 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Cosmology](https://www.sciencenews.org/topic/cosmology)
     * * [Space](https://www.sciencenews.org/topic/space)
             
+            ### [NASA’s James Webb Space Telescope could help solve these 5 exoplanet puzzles](https://www.sciencenews.org/article/nasa-jwst-space-telescope-exoplanet)
+            
+            By [Elise Cutts](https://www.sciencenews.org/author/elise-cutts "Posts by Elise Cutts")3 hours ago
+            
+        * [Space](https://www.sciencenews.org/topic/space)
+            
             ### [China’s Chang’e-6 snagged the first samples from the farside of the moon](https://www.sciencenews.org/article/change-6-first-samples-farside-moon)
             
             By [Adam Mann](https://www.sciencenews.org/author/adam-mann "Posts by Adam Mann")June 5, 2024
@@ -195,12 +201,6 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             ### [The sun is entering solar maximum. Expect auroras, and more](https://www.sciencenews.org/article/sun-auroras-solar-maximum-2024)
             
             By [Adam Mann](https://www.sciencenews.org/author/adam-mann "Posts by Adam Mann")June 4, 2024
-            
-        * [Space](https://www.sciencenews.org/topic/space)
-            
-            ### [Here’s how predictions of the sun’s corona during the 2024 eclipse fared](https://www.sciencenews.org/article/predictions-reality-corona-eclipse-2024)
-            
-            By [Adam Mann](https://www.sciencenews.org/author/adam-mann "Posts by Adam Mann")May 28, 2024
             
 
 Terms of Service
