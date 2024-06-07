@@ -39,9 +39,9 @@ editorial \_
 
 coverstory \_
 
-[![Astronauts in Spacesuits Touch the SpaceX Starship Landing System for the First Time](https://s1.cdn.autoevolution.com/images/news/astronauts-in-spacesuits-touch-the-spacex-starship-landing-system-for-the-first-time-235031-5.jpg "Astronauts in Spacesuits Touch the SpaceX Starship Landing System for the First Time")
+[![Restored 1968 Barracuda Formula S Is a Rare 383-V8 Mopar Jewel and Costs How Much?](https://s1.cdn.autoevolution.com/images/news/restored-1968-barracuda-formula-s-is-a-rare-383-v8-mopar-jewel-and-costs-how-much-235054-5.jpg "Restored 1968 Barracuda Formula S Is a Rare 383-V8 Mopar Jewel and Costs How Much?")
 
-Astronauts in Spacesuits Touch the SpaceX Starship Landing System for the First Time](https://www.autoevolution.com/news/astronauts-in-spacesuits-touch-the-spacex-starship-landing-system-for-the-first-time-235031.html)
+Restored 1968 Barracuda Formula S Is a Rare 383-V8 Mopar Jewel and Costs How Much?](https://www.autoevolution.com/news/restored-1968-barracuda-formula-s-is-a-rare-383-v8-mopar-jewel-and-costs-how-much-235054.html)
 
 how-to \_
 
