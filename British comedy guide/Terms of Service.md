@@ -172,6 +172,10 @@ See also: [BCG's privacy policy](https://www.comedy.co.uk/info/privacy/)
 
 ### See also
 
+[Taskmaster: The Live Experience. Image shows left to right: Greg Davies, Alex Horne](https://www.comedy.co.uk/tv/taskmaster/features/taskmaster-is-neurodivergent-friendly/)TV
+
+[Taskmaster is one of the most neurodivergent friendly comedy formats](https://www.comedy.co.uk/tv/taskmaster/features/taskmaster-is-neurodivergent-friendly/)
+
 [Nick Helm. Credit: Ed Moore](https://www.comedy.co.uk/live/features/nick-helm-2024-interview/)Live
 
 [Nick Helm talks about his Super Fun Good Time Show](https://www.comedy.co.uk/live/features/nick-helm-2024-interview/)
@@ -183,10 +187,6 @@ See also: [BCG's privacy policy](https://www.comedy.co.uk/info/privacy/)
 [The Queen and Bernard Delfont](https://www.comedy.co.uk/features/comedy_chronicles/bernard-delfont/)Features
 
 [Comedy Chronicles: Bernard Delfont's theatrical reign](https://www.comedy.co.uk/features/comedy_chronicles/bernard-delfont/)
-
-[Brighton Fringe 2024. Credit: Si Hawkins](https://www.comedy.co.uk/live/features/brighton-fringe-2024-report/)Live
-
-[Day Tripper: a top dash around the Brighton Fringe, and beyond](https://www.comedy.co.uk/live/features/brighton-fringe-2024-report/)
 
 #### [Donate to British Comedy Guide](https://www.comedy.co.uk/donate/)
 
@@ -229,7 +229,7 @@ Privacy settings
 
 * * *
 
-Get your titters out![Frankie Howerd](https://www.comedy.co.uk/people/frankie_howerd/)
+Garlic bread?![Peter Kay](https://www.comedy.co.uk/people/peter_kay/)
 
 © British Comedy Guide
 
