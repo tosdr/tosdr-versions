@@ -120,7 +120,7 @@ Shop
 
 [* New HP All-In Plan](https://www.hp.com/us-en/all-in-plan/printers.html "New HP All-In Plan")
 
-[* HP Sales Advisors](https://www.hp.com/us-en/shop/cv/smallbusinessadvisor "HP Sales Advisors")
+[* HP Business Technology Advisors](https://www.hp.com/us-en/shop/cv/smallbusinessadvisor "HP Business Technology Advisors")
 
 [* Student discounts](https://www.hp.com/us-en/shop/cv/hp-education "Student discounts")
 
@@ -143,6 +143,8 @@ Shop
 [* Business desktops](https://www.hp.com/us-en/shop/mlp/business-solutions/desktops-and-workstations "Business desktops")
 
 [* Z Workstations](https://www.hp.com/us-en/shop/mlp/business-solutions/workstations "Z Workstations")
+
+[* Thin Clients](https://www.hp.com/us-en/shop/mlp/business-solutions/hp-thin-clients "Thin Clients")
 
 [* Chromebooks](https://www.hp.com/us-en/shop/cv/hp-chromebooks "Chromebooks")
 
@@ -174,19 +176,19 @@ Shop
 
 [* Monitors](https://www.hp.com/us-en/shop/vwa/accessories-88342--1/subcat=Monitors "Monitors")
 
-[* Bundles](https://www.hp.com/us-en/shop/vwa/accessories-88342--1/ordr=Bundles "Bundles")
-
 [* Docking stations & hubs](https://www.hp.com/us-en/shop/vwa/accessories-88342--1/subcat=Workspace-Accessories;typeworkacc=Docking-Stations,USB-Hubs "Docking stations & hubs")
 
 [* Mice & keyboards](https://www.hp.com/us-en/shop/vwa/accessories-88342--1/subcat=Mice-Keyboards "Mice & keyboards")
 
 [* Chargers & power adapters](https://www.hp.com/us-en/shop/vwa/accessories-88342--1/subcat=Chargers-Adapters "Chargers & power adapters")
 
-[* Gaming gear](https://www.hp.com/us-en/shop/vwa/accessories-88342--1/subcat=Gaming-Accessories "Gaming gear")
+[* Bundles](https://www.hp.com/us-en/shop/vwa/accessories-88342--1/ordr=Bundles "Bundles")
 
-[* Hybrid Work](https://www.hp.com/us-en/shop/cat/hybrid-work "Hybrid Work")
+[* Bags & sleeves](https://www.hp.com/us-en/shop/vwa/accessories-88342--1/subcat=Bags-Sleeves "Bags & sleeves")
 
 [* Care packs & services](https://www.hp.com/us-en/shop/cat/care-packs-88343--1 "Care packs & services")
+
+[* Hybrid Work](https://www.hp.com/us-en/shop/cat/hybrid-work "Hybrid Work")
 
 Support
 
@@ -293,11 +295,11 @@ https://www.hp.com/webapp/wcs/stores/servlet/HPHeaderServices?storeId=10151&cb=c
 
 * Featured
 
-[* HP.com store](https://www.hp.com/us-en/shop)[* Ink & toner cartridges](https://www.hp.com/us-en/shop/cat/ink--toner---paper)[* Business store](https://www.hp.com/us-en/shop/cat/business-solutions)[* Weekly Deals](https://www.hp.com/us-en/shop/slp/weekly-deals)[* New HP All-In Plan](https://www.hp.com/us-en/all-in-plan/printers.html)[* HP Sales Advisors](https://www.hp.com/us-en/shop/cv/smallbusinessadvisor)[* Student discounts](https://www.hp.com/us-en/shop/cv/hp-education)[* #MyHP](https://www.hp.com/us-en/shop/cv/myhp-social-gallery)[* HP Sustainable buyer's guide](https://www.hp.com/us-en/shop/slp/sustainability-guide)[* HP Tech Takes](https://www.hp.com/us-en/shop/tech-takes)
+[* HP.com store](https://www.hp.com/us-en/shop)[* Ink & toner cartridges](https://www.hp.com/us-en/shop/cat/ink--toner---paper)[* Business store](https://www.hp.com/us-en/shop/cat/business-solutions)[* Weekly Deals](https://www.hp.com/us-en/shop/slp/weekly-deals)[* New HP All-In Plan](https://www.hp.com/us-en/all-in-plan/printers.html)[* HP Business Technology Advisors](https://www.hp.com/us-en/shop/cv/smallbusinessadvisor)[* Student discounts](https://www.hp.com/us-en/shop/cv/hp-education)[* #MyHP](https://www.hp.com/us-en/shop/cv/myhp-social-gallery)[* HP Sustainable buyer's guide](https://www.hp.com/us-en/shop/slp/sustainability-guide)[* HP Tech Takes](https://www.hp.com/us-en/shop/tech-takes)
 
 * Shop PCs
 
-[* Laptops](https://www.hp.com/us-en/shop/cat/laptops)[* Desktops](https://www.hp.com/us-en/shop/cat/desktops)[* Gaming PCs](https://www.hp.com/us-en/shop/slp/hp-gaming)[* Business laptops](https://www.hp.com/us-en/shop/vwa/business-solutions/bizcat=Laptop)[* Business desktops](https://www.hp.com/us-en/shop/mlp/business-solutions/desktops-and-workstations)[* Z Workstations](https://www.hp.com/us-en/shop/mlp/business-solutions/workstations)[* Chromebooks](https://www.hp.com/us-en/shop/cv/hp-chromebooks)
+[* Laptops](https://www.hp.com/us-en/shop/cat/laptops)[* Desktops](https://www.hp.com/us-en/shop/cat/desktops)[* Gaming PCs](https://www.hp.com/us-en/shop/slp/hp-gaming)[* Business laptops](https://www.hp.com/us-en/shop/vwa/business-solutions/bizcat=Laptop)[* Business desktops](https://www.hp.com/us-en/shop/mlp/business-solutions/desktops-and-workstations)[* Z Workstations](https://www.hp.com/us-en/shop/mlp/business-solutions/workstations)[* Thin Clients](https://www.hp.com/us-en/shop/mlp/business-solutions/hp-thin-clients)[* Chromebooks](https://www.hp.com/us-en/shop/cv/hp-chromebooks)
 
 * Shop Print
 
@@ -305,7 +307,7 @@ https://www.hp.com/webapp/wcs/stores/servlet/HPHeaderServices?storeId=10151&cb=c
 
 * Shop Accessories
 
-[* Accessories store](https://www.hp.com/us-en/shop/cat/accessories-88342--1)[* Monitors](https://www.hp.com/us-en/shop/vwa/accessories-88342--1/subcat=Monitors)[* Bundles](https://www.hp.com/us-en/shop/vwa/accessories-88342--1/ordr=Bundles)[* Docking stations & hubs](https://www.hp.com/us-en/shop/vwa/accessories-88342--1/subcat=Workspace-Accessories;typeworkacc=Docking-Stations,USB-Hubs)[* Mice & keyboards](https://www.hp.com/us-en/shop/vwa/accessories-88342--1/subcat=Mice-Keyboards)[* Chargers & power adapters](https://www.hp.com/us-en/shop/vwa/accessories-88342--1/subcat=Chargers-Adapters)[* Gaming gear](https://www.hp.com/us-en/shop/vwa/accessories-88342--1/subcat=Gaming-Accessories)[* Hybrid Work](https://www.hp.com/us-en/shop/cat/hybrid-work)[* Care packs & services](https://www.hp.com/us-en/shop/cat/care-packs-88343--1)
+[* Accessories store](https://www.hp.com/us-en/shop/cat/accessories-88342--1)[* Monitors](https://www.hp.com/us-en/shop/vwa/accessories-88342--1/subcat=Monitors)[* Docking stations & hubs](https://www.hp.com/us-en/shop/vwa/accessories-88342--1/subcat=Workspace-Accessories;typeworkacc=Docking-Stations,USB-Hubs)[* Mice & keyboards](https://www.hp.com/us-en/shop/vwa/accessories-88342--1/subcat=Mice-Keyboards)[* Chargers & power adapters](https://www.hp.com/us-en/shop/vwa/accessories-88342--1/subcat=Chargers-Adapters)[* Bundles](https://www.hp.com/us-en/shop/vwa/accessories-88342--1/ordr=Bundles)[* Bags & sleeves](https://www.hp.com/us-en/shop/vwa/accessories-88342--1/subcat=Bags-Sleeves)[* Care packs & services](https://www.hp.com/us-en/shop/cat/care-packs-88343--1)[* Hybrid Work](https://www.hp.com/us-en/shop/cat/hybrid-work)
 
 * Problem solving
 
@@ -399,7 +401,6 @@ Select Your Country/Region and Language
 * [English](https://www8.hp.com/us/en/home.html "English")
 * [España](https://www.hp.com/es-es/home.html "España")
 * [France](https://www.hp.com/fr-fr/home.html "France")
-* [French](https://www8.hp.com/us/en/home.html "French")
 * [Hrvatska](https://www.hp.com/hr-hr/home.html "Hrvatska")
 * [Ireland](https://www.hp.com/ie-en/home.html "Ireland")
 * [Italia](https://www.hp.com/it-it/home.html "Italia")
@@ -469,7 +470,6 @@ Click or use the tab key to select your country
 * [English](https://www8.hp.com/us/en/home.html "English")
 * [España](https://www.hp.com/es-es/home.html "España")
 * [France](https://www.hp.com/fr-fr/home.html "France")
-* [French](https://www8.hp.com/us/en/home.html "French")
 * [Hong Kong SAR](https://www.hp.com/hk-en/home.html "Hong Kong SAR")
 * [Hrvatska](https://www.hp.com/hr-hr/home.html "Hrvatska")
 * [India](https://www.hp.com/in-en/home.html "India")
