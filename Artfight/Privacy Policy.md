@@ -11,7 +11,7 @@ ART FIGHT](https://artfight.net/)
     
     GUIDES
     
-    [Attack Categorization](https://artfight.net/info/guide-attacks) [Maturity Ratings](https://artfight.net/info/guide-maturity) [BBCode](https://artfight.net/info/guide-bbcode)
+    [Attack Categorization](https://artfight.net/info/guide-attacks) [Filters](https://artfight.net/info/guide-filters) [BBCode](https://artfight.net/info/guide-bbcode)
     
     [News](https://artfight.net/news)
     
@@ -233,7 +233,7 @@ If there are any questions regarding this privacy policy, you may contact us at 
 
   
 
-2024 Contributions: **$40360.63**  
+2024 Contributions: **$41388.12**  
 Goal (tier 1): $98000[](https://artfight.net/donate)
 
 Support
