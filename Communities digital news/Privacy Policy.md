@@ -26,41 +26,41 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-garland-hunter-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/house-gop-sends-hunter-james-biden-criminal-referrals-to-doj-for-prosecution/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/03/Weinberger-with-Trump-2-1200x630.jpg)](https://americanwirenews.com/trump-gives-complete-and-total-endorsement-to-maga-meg-weinberger-a-big-voice-in-florida/)
 
-[House GOP sends Hunter, James Biden criminal referrals to DOJ for prosecution](https://americanwirenews.com/house-gop-sends-hunter-james-biden-criminal-referrals-to-doj-for-prosecution/)
+[Trump gives ‘complete and total’ endorsement to ‘MAGA Meg’ Weinberger, a ‘BIG VOICE’ in Florida](https://americanwirenews.com/trump-gives-complete-and-total-endorsement-to-maga-meg-weinberger-a-big-voice-in-florida/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-bashfettermancnn-1200-x-628-1200x630.jpg)](https://americanwirenews.com/fetterman-tells-cnn-im-not-a-progressive-rejects-partys-america-hating-base/)
+[![](https://americanwirenews.com/wp-content/uploads/2023/11/RF-Pexels-Sad-Girl-1200x630.jpg)](https://americanwirenews.com/married-tv-anchor-suddenly-resigns-after-being-accused-of-sexting-alleged-underage-girl/)
 
-[Fetterman tells CNN ‘I’m not a progressive,’ rejects party’s America-hating base](https://americanwirenews.com/fetterman-tells-cnn-im-not-a-progressive-rejects-partys-america-hating-base/)
+[Married TV anchor suddenly resigns after being accused of sexting alleged underage girl](https://americanwirenews.com/married-tv-anchor-suddenly-resigns-after-being-accused-of-sexting-alleged-underage-girl/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-gang-member-suspect-1200x630.jpg)](https://americanwirenews.com/disturbing-new-details-about-19-yr-old-illegal-alien-who-shot-nypd-cops/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-harry-dunn-1200x630.jpg)](https://americanwirenews.com/fmr-capitol-police-officer-starts-pac-to-fund-anti-trump-political-candidates/)
 
-[Disturbing new details about 19-yr-old illegal alien who shot NYPD cops](https://americanwirenews.com/disturbing-new-details-about-19-yr-old-illegal-alien-who-shot-nypd-cops/)
+[Fmr Capitol Police officer starts PAC to fund anti-Trump political candidates](https://americanwirenews.com/fmr-capitol-police-officer-starts-pac-to-fund-anti-trump-political-candidates/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-giraffe-fossil-rim-1200x630.jpg)](https://americanwirenews.com/terrifying-moment-giraffe-plucks-toddler-from-familys-truck-at-texas-drive-thru-safari/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-50-cent-1200x630.jpg)](https://americanwirenews.com/50-cent-claims-black-men-identifying-with-trump-over-rico-charges-as-georgia-case-put-on-hold/)
 
-[Terrifying moment giraffe plucks toddler from family’s truck at Texas drive-thru safari](https://americanwirenews.com/terrifying-moment-giraffe-plucks-toddler-from-familys-truck-at-texas-drive-thru-safari/)
+[50 Cent claims black men ‘identifying with Trump’ over RICO charges as Georgia case put on hold](https://americanwirenews.com/50-cent-claims-black-men-identifying-with-trump-over-rico-charges-as-georgia-case-put-on-hold/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-djtrumble-1-1200-x-628-1200x630.jpg)](https://americanwirenews.com/trump-faces-revocation-of-his-license-to-carry-a-gun/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-corey-harris-1200x630.jpg)](https://americanwirenews.com/judge-reveals-wild-twist-in-viral-case-of-man-accused-of-driving-while-suspended-he-didnt-have-a-license/)
 
-[Trump faces revocation of his license to carry a gun](https://americanwirenews.com/trump-faces-revocation-of-his-license-to-carry-a-gun/)
+[Judge reveals WILD twist in viral case of man accused of driving while suspended: ‘He didn’t have a license’](https://americanwirenews.com/judge-reveals-wild-twist-in-viral-case-of-man-accused-of-driving-while-suspended-he-didnt-have-a-license/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-dorsey-1200x630.jpg)](https://americanwirenews.com/jack-dorsey-strikes-fear-warning-we-are-being-programed-by-black-box-algorithms/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/06/rf-pexels-suburbs-1200x630.jpg)](https://americanwirenews.com/bloomberg-gets-taken-to-the-woodshed-for-fearmongering-article-on-wealthy-families-moving/)
 
-[Jack Dorsey strikes fear warning we are being programed by black box algorithms](https://americanwirenews.com/jack-dorsey-strikes-fear-warning-we-are-being-programed-by-black-box-algorithms/)
+[Bloomberg gets taken to the woodshed for fearmongering article on wealthy families moving](https://americanwirenews.com/bloomberg-gets-taken-to-the-woodshed-for-fearmongering-article-on-wealthy-families-moving/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-bliss-restaurant-1200x630.jpg)](https://americanwirenews.com/lavish-restaurant-sticks-to-their-guns-after-receiving-backlash-for-implementing-age-policy/)
+
+[Lavish restaurant sticks to their guns after receiving backlash for implementing age policy](https://americanwirenews.com/lavish-restaurant-sticks-to-their-guns-after-receiving-backlash-for-implementing-age-policy/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-deborah-birx-1200x630.jpg)](https://americanwirenews.com/dr-birx-calls-for-weekly-virus-testing-of-cows/)
 
 [Dr. Birx calls for weekly virus testing – of cows](https://americanwirenews.com/dr-birx-calls-for-weekly-virus-testing-of-cows/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-kelly-2-1200x630.jpg)](https://americanwirenews.com/jesse-kelly-poses-question-for-those-outraged-over-trump-verdict-where-are-the-democrat-arrests/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-donald-trump-1200x630.jpg)
 
-[Jesse Kelly poses question for those ‘outraged’ over Trump verdict: ‘Where are the Democrat arrests?’](https://americanwirenews.com/jesse-kelly-poses-question-for-those-outraged-over-trump-verdict-where-are-the-democrat-arrests/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-neil-cavuto-and-mike-johnson-1200x630.jpg)
-
-### Fox’s Cavuto asks Speaker Johnson if he’s ‘weaponizing the House’ against Dems](https://americanwirenews.com/foxs-cavuto-asks-speaker-johnson-if-hes-weaponizing-the-house-against-dems/)
+### ‘I would have every right…’ Trump finally weighs in on concern he’d seek retribution if elected](https://americanwirenews.com/i-would-have-every-right-trump-finally-weighs-in-on-concern-hed-seek-retribution-if-elected/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
@@ -77,6 +77,38 @@ Search for:
 ### [MSNBC’s Joy Reid takes racist shot at Rep. Byron Donalds over Trump support](https://americanwirenews.com/msnbcs-joy-reid-takes-racist-shot-at-rep-byron-donalds-over-trump-support/)
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-dorsey-220x180.jpg)](https://americanwirenews.com/jack-dorsey-strikes-fear-warning-we-are-being-programed-by-black-box-algorithms/)
+
+[Jack Dorsey strikes fear warning we are being programed by black box algorithms](https://americanwirenews.com/jack-dorsey-strikes-fear-warning-we-are-being-programed-by-black-box-algorithms/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-djtrumble-1-1200-x-628-220x180.jpg)](https://americanwirenews.com/trump-faces-revocation-of-his-license-to-carry-a-gun/)
+
+[Trump faces revocation of his license to carry a gun](https://americanwirenews.com/trump-faces-revocation-of-his-license-to-carry-a-gun/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-giraffe-fossil-rim-220x180.jpg)](https://americanwirenews.com/terrifying-moment-giraffe-plucks-toddler-from-familys-truck-at-texas-drive-thru-safari/)
+
+[Terrifying moment giraffe plucks toddler from family’s truck at Texas drive-thru safari](https://americanwirenews.com/terrifying-moment-giraffe-plucks-toddler-from-familys-truck-at-texas-drive-thru-safari/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-gang-member-suspect-220x180.jpg)](https://americanwirenews.com/disturbing-new-details-about-19-yr-old-illegal-alien-who-shot-nypd-cops/)
+
+[Disturbing new details about 19-yr-old illegal alien who shot NYPD cops](https://americanwirenews.com/disturbing-new-details-about-19-yr-old-illegal-alien-who-shot-nypd-cops/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-bashfettermancnn-1200-x-628-220x180.jpg)](https://americanwirenews.com/fetterman-tells-cnn-im-not-a-progressive-rejects-partys-america-hating-base/)
+
+[Fetterman tells CNN ‘I’m not a progressive,’ rejects party’s America-hating base](https://americanwirenews.com/fetterman-tells-cnn-im-not-a-progressive-rejects-partys-america-hating-base/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-garland-hunter-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/house-gop-sends-hunter-james-biden-criminal-referrals-to-doj-for-prosecution/)
+
+[House GOP sends Hunter, James Biden criminal referrals to DOJ for prosecution](https://americanwirenews.com/house-gop-sends-hunter-james-biden-criminal-referrals-to-doj-for-prosecution/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-neil-cavuto-and-mike-johnson-220x180.jpg)](https://americanwirenews.com/foxs-cavuto-asks-speaker-johnson-if-hes-weaponizing-the-house-against-dems/)
+
+[Fox’s Cavuto asks Speaker Johnson if he’s ‘weaponizing the House’ against Dems](https://americanwirenews.com/foxs-cavuto-asks-speaker-johnson-if-hes-weaponizing-the-house-against-dems/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-kelly-2-220x180.jpg)](https://americanwirenews.com/jesse-kelly-poses-question-for-those-outraged-over-trump-verdict-where-are-the-democrat-arrests/)
+
+[Jesse Kelly poses question for those ‘outraged’ over Trump verdict: ‘Where are the Democrat arrests?’](https://americanwirenews.com/jesse-kelly-poses-question-for-those-outraged-over-trump-verdict-where-are-the-democrat-arrests/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2022/08/RF-Getty-black-white-patriotism-flag-patriots-220x180.jpg)](https://americanwirenews.com/school-district-backpedals-on-non-white-event-promo-when-hit-with-discrimination-accusation/)
 
@@ -149,40 +181,6 @@ Getty Images
 [![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-roosevelt-hotel-migrants-new-york-220x180.jpg)](https://americanwirenews.com/wow-shock-comes-as-number-of-nyc-hotels-used-as-immigrant-shelters-goes-up-to-135/)
 
 [‘Wow’: Shock comes as number of NYC hotels used as immigrant shelters goes up to 135](https://americanwirenews.com/wow-shock-comes-as-number-of-nyc-hotels-used-as-immigrant-shelters-goes-up-to-135/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-joe-biden-gw-illegal-aliens-220x180.jpg)](https://americanwirenews.com/joe-biden-inspires-anti-legal-migration-sentiment-in-2024-voters/)
-
-[Joe Biden inspires anti-LEGAL migration sentiment in 2024 voters](https://americanwirenews.com/joe-biden-inspires-anti-legal-migration-sentiment-in-2024-voters/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-meanjoe-1200-x-628-220x180.jpg)](https://americanwirenews.com/joe-is-so-toxic-some-dems-are-looking-to-biden-proof-their-campaigns/)
-
-[Joe is so toxic some Dems are looking to ‘Biden-proof’ their campaigns](https://americanwirenews.com/joe-is-so-toxic-some-dems-are-looking-to-biden-proof-their-campaigns/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/06/gw-u.s.-soldiers-220x180.jpg)](https://americanwirenews.com/dem-lawmaker-pushes-automatic-draft-registration-as-bidens-itching-for-war/)
-
-[Dem lawmaker pushes automatic draft registration as Biden’s itching for war](https://americanwirenews.com/dem-lawmaker-pushes-automatic-draft-registration-as-bidens-itching-for-war/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-oleary-trump-220x180.jpg)](https://americanwirenews.com/shark-kevin-oleary-lays-out-his-plans-for-americanizing-tiktok-and-making-it-wonderful-again/)
-
-[Shark Kevin O’Leary lays out his plans for ‘Americanizing TikTok’ and making it ‘wonderful again’](https://americanwirenews.com/shark-kevin-oleary-lays-out-his-plans-for-americanizing-tiktok-and-making-it-wonderful-again/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-foxroberts-1200-x-628-220x180.jpg)](https://americanwirenews.com/fox-news-anchor-in-spat-with-biden-campaign-over-blatant-lie-smear-and-he-has-receipts/)
-
-[Fox News anchor in spat with Biden campaign over ‘blatant lie’ smear, and he has receipts](https://americanwirenews.com/fox-news-anchor-in-spat-with-biden-campaign-over-blatant-lie-smear-and-he-has-receipts/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-sheehy-220x180.png)](https://americanwirenews.com/trump-backed-former-navy-seal-tim-sheehy-prevails-in-montana-gop-senate-primary/)
-
-[Trump-backed former Navy SEAL Tim Sheehy prevails in Montana GOP Senate primary](https://americanwirenews.com/trump-backed-former-navy-seal-tim-sheehy-prevails-in-montana-gop-senate-primary/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-trump-harlem-220x180.png)](https://americanwirenews.com/trump-feeling-optimistic-announces-bold-new-campaign-strategy-remember-those-words/)
-
-[Trump feeling optimistic, announces BOLD new campaign strategy: ‘remember those words’](https://americanwirenews.com/trump-feeling-optimistic-announces-bold-new-campaign-strategy-remember-those-words/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/06/rf-thomasgreenfield-blinken-un-220x180.jpg)](https://americanwirenews.com/biden-attempts-to-push-new-ceasefire-hostage-deal-through-united-nations-without-further-conditions/)
-
-[Biden attempts to push new ceasefire-hostage deal through United Nations ‘without further conditions’](https://americanwirenews.com/biden-attempts-to-push-new-ceasefire-hostage-deal-through-united-nations-without-further-conditions/)
-
-Official White House Photo by Adam Schultz)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
