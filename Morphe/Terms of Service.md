@@ -20,18 +20,6 @@ Close×
 
 Add to cart for $15 and under.
 
-   [![](//www.morphe.com/cdn/shop/t/841/assets/blank_100x.gif?v=164826798765693215961717024704)](https://www.morphe.com/products/make-it-big-xxl-lip-plumping-serum "Make It Big XXL Lip Plumping Serum")
-
-Morphe
-
-### Make It Big XXL Lip Plumping Serum
-
-Clear
-
-$14
-
-Sold Out
-
    [![](//www.morphe.com/cdn/shop/t/841/assets/blank_100x.gif?v=164826798765693215961717024704)](https://www.morphe.com/products/bake-set-soft-focus-setting-powder-translucent-mini "Mini Bake & Set Soft Focus Setting Powder - Translucent")
 
 Morphe
@@ -43,6 +31,32 @@ Translucent
 $8
 
 ADD TO BAG
+
+   [![](//www.morphe.com/cdn/shop/t/841/assets/blank_100x.gif?v=164826798765693215961717024704)](https://www.morphe.com/products/mini-continuous-setting-mist "Mini Continuous Setting Mist")
+
+Morphe
+
+### Mini Continuous Setting Mist
+
+Mini - 1.3 oz
+
+$12
+
+ADD TO BAG
+
+   [![](//www.morphe.com/cdn/shop/t/841/assets/blank_100x.gif?v=164826798765693215961717024704)](https://www.morphe.com/products/morphe-x-meredith-duxbury-brow-sculpting-wax-and-brush-duo "Morphe X Meredith Duxbury Brow Sculpting Wax And Brush Duo")
+
+Morphe
+
+### Morphe X Meredith Duxbury Brow Sculpt & Brush...
+
+Clear
+
+$13
+
+($16 Value)
+
+Add to Bag
 
    [![](//www.morphe.com/cdn/shop/t/841/assets/blank_100x.gif?v=164826798765693215961717024704)](https://www.morphe.com/products/sun-done-smooth-gliding-bronzer-stick-caramel-cove "Sun & Done Smooth Gliding Bronzer Stick - Caramel Cove")
 
@@ -200,20 +214,6 @@ $12
 
 View Shades
 
-   [![](//www.morphe.com/cdn/shop/t/841/assets/blank_100x.gif?v=164826798765693215961717024704)](https://www.morphe.com/products/morphe-x-meredith-duxbury-brow-sculpting-wax-and-brush-duo "Morphe X Meredith Duxbury Brow Sculpting Wax And Brush Duo")
-
-Morphe
-
-### Morphe X Meredith Duxbury Brow Sculpt & Brush...
-
-Clear
-
-$13
-
-($16 Value)
-
-Add to Bag
-
    [![](//www.morphe.com/cdn/shop/t/841/assets/blank_100x.gif?v=164826798765693215961717024704)](https://www.morphe.com/products/mini-continuous-prep-set-mist "Mini Continuous Prep & Set Mist+")
 
 Morphe
@@ -262,17 +262,17 @@ $14
 
 Add to Bag
 
-   [![](//www.morphe.com/cdn/shop/t/841/assets/blank_100x.gif?v=164826798765693215961717024704)](https://www.morphe.com/products/mini-continuous-setting-mist "Mini Continuous Setting Mist")
+   [![](//www.morphe.com/cdn/shop/t/841/assets/blank_100x.gif?v=164826798765693215961717024704)](https://www.morphe.com/products/make-it-big-xxl-lip-plumping-serum "Make It Big XXL Lip Plumping Serum")
 
 Morphe
 
-### Mini Continuous Setting Mist
+### Make It Big XXL Lip Plumping Serum
 
-Mini - 1.3 oz
+Clear
 
-$12
+$14
 
-ADD TO BAG
+Add to Bag
 
 Terms & Conditions
 ==================
