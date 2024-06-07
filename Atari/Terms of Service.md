@@ -663,9 +663,9 @@ Available Worldwide
 
 ##### CX30+ Paddle Controller Bundle
 
-Regular price $38.45
+Regular price $39.99
 
-Regular price $38.45 Sale price $38.45
+Regular price $39.99 Sale price $39.99
 
 Unit price /  per](https://www.atari.com/products/cx30-paddle-controller-bundle) [![Atari Distressed Logo Tee](products/ATRI103D-AT.png)
 
@@ -675,9 +675,9 @@ USA Exclusive
 
 ##### Atari Distressed Logo Tee
 
-Regular price $28.85
+Regular price $30
 
-Regular price $28.85 Sale price $28.85
+Regular price $30 Sale price $30.00
 
 Unit price /  per](https://www.atari.com/products/atari-distressed-logo-tee)       [![Atari Katakana Logo Hoodie](products/ATRI189-AFTH.png)
 
@@ -685,9 +685,9 @@ USA Exclusive
 
 ##### Atari Katakana Logo Hoodie
 
-Regular price $46.15
+Regular price $48
 
-Regular price $46.15 Sale price $46.15
+Regular price $48 Sale price $48.00
 
 Unit price /  per](https://www.atari.com/products/atari-kanji-logo-hoodie) 
 
@@ -719,9 +719,9 @@ Available Worldwide
 
 ##### CX40+ Joystick
 
-Regular price $24.03
+Regular price $24.99
 
-Regular price Sale price $24.03
+Regular price Sale price $24.99
 
 Unit price /  per](https://www.atari.com/products/cx40-joystick) 
 
@@ -733,9 +733,9 @@ Available Worldwide
 
 ##### CX30+ Paddle Controller Bundle
 
-Regular price $38.45
+Regular price $39.99
 
-Regular price $38.45 Sale price $38.45
+Regular price $39.99 Sale price $39.99
 
 Unit price /  per](https://www.atari.com/products/cx30-paddle-controller-bundle) 
 
@@ -747,9 +747,9 @@ USA Exclusive
 
 ##### Atari Distressed Logo Tee
 
-Regular price $28.85
+Regular price $30
 
-Regular price $28.85 Sale price $28.85
+Regular price $30 Sale price $30.00
 
 Unit price /  per](https://www.atari.com/products/atari-distressed-logo-tee)       
 
@@ -759,9 +759,9 @@ USA Exclusive
 
 ##### Atari Katakana Logo Hoodie
 
-Regular price $46.15
+Regular price $48
 
-Regular price $46.15 Sale price $46.15
+Regular price $48 Sale price $48.00
 
 Unit price /  per](https://www.atari.com/products/atari-kanji-logo-hoodie) 
 
