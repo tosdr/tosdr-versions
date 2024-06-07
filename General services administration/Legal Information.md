@@ -370,12 +370,13 @@ close mobile menu
         * [Elevate your professional career](https://www.gsa.gov/about-us/find-apply-for-and-land-a-job-at-gsa/elevate-your-professional-career?topnav=about-us)
         * [Discover special hiring paths](https://www.gsa.gov/about-us/find-apply-for-and-land-a-job-at-gsa/discover-special-hiring-paths?topnav=about-us)
         
+    * [Climate Action](https://www.gsa.gov/about-us/climate-action?topnav=about-us)
     * [Events and training](https://www.gsa.gov/about-us/events-and-training/gsa-events?topnav=about-us)
     * [Newsroom
         
         Toggle submenu](https://www.gsa.gov/about-us/newsroom?topnav=about-us)
         
-        * [Agency blog](https://www.gsa.gov/blog/?topnav=about-us)
+        * [Agency blog](https://www.gsa.gov/blog?topnav=about-us)
         * [Congressional testimony](https://www.gsa.gov/about-us/newsroom/congressional-testimony?topnav=about-us)
         * [GSA does that podcast](https://www.gsa.gov/about-us/newsroom/listen-to-the-gsa-does-that-podcast)
         * [News releases](https://www.gsa.gov/about-us/newsroom/news-releases?topnav=about-us)
@@ -780,11 +781,13 @@ About us expand menu
 
 [Discover special hiring paths](https://www.gsa.gov/about-us/find-apply-for-and-land-a-job-at-gsa/discover-special-hiring-paths?topnav=about-us)
 
+[Climate Action](https://www.gsa.gov/about-us/climate-action?topnav=about-us)
+
 [Events and training](https://www.gsa.gov/about-us/events-and-training/gsa-events?topnav=about-us)
 
 [Newsroom](https://www.gsa.gov/about-us/newsroom?topnav=about-us) expand menu
 
-[Agency blog](https://www.gsa.gov/blog/?topnav=about-us)
+[Agency blog](https://www.gsa.gov/blog?topnav=about-us)
 
 [Congressional testimony](https://www.gsa.gov/about-us/newsroom/congressional-testimony?topnav=about-us)
 
