@@ -452,63 +452,7 @@ You are seeing games that are valid in your region which is ‘%1’. If you wan
 
 To view games that are valid in your region ‘%1’, click here
 
-1.    [![Minecraft: Java & Bedrock Edition Deluxe Collection PC (WW)](https://cdn.cdkeys.com/245x340/media/catalog/product/3/6/36_1.jpg)   No 1. \-63%](https://www.cdkeys.com/pc/minecraft-java-bedrock-edition-deluxe-collection-pc)
-    
-    **[Minecraft: Java & Bedrock Edition Deluxe Collection PC (WW)](https://www.cdkeys.com/pc/minecraft-java-bedrock-edition-deluxe-collection-pc "Minecraft: Java & Bedrock Edition Deluxe Collection PC (WW)")**
-    
-    Special Price £12.99 RRP £34.99
-    
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-2.    [![Destiny 2: The Final Shape Xbox (UK)](https://cdn.cdkeys.com/245x340/media/catalog/product/1/4/14161265_2.jpg)   No 2. \-14%
-    
-    DLC](https://www.cdkeys.com/xbox-live/destiny-2-the-final-shape-xbox-uk)
-    
-    **[Destiny 2: The Final Shape Xbox (UK)](https://www.cdkeys.com/xbox-live/destiny-2-the-final-shape-xbox-uk "Destiny 2: The Final Shape Xbox (UK)")**
-    
-    Special Price £35.99 RRP £41.99
-    
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-3.    [![God of War Ragnarök PC](https://cdn.cdkeys.com/245x340/media/catalog/product/g/o/god-of-war-ragnarok-2_1.jpeg)   No 3. \-21%
-    
-    Pre-order](https://www.cdkeys.com/pc/god-of-war-ragnarok-pc-steam)
-    
-    **[God of War Ragnarök PC](https://www.cdkeys.com/pc/god-of-war-ragnarok-pc-steam "God of War Ragnarök PC")**
-    
-    Special Price £39.49 RRP £49.99
-    
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-4.    [![Manor Lords PC](https://cdn.cdkeys.com/245x340/media/catalog/product/m/a/manor_lords_pc.jpg)   No 4. \-29%](https://www.cdkeys.com/pc/manor-lords-pc-steam)
-    
-    **[Manor Lords PC](https://www.cdkeys.com/pc/manor-lords-pc-steam "Manor Lords PC")**
-    
-    Special Price £16.99 RRP £23.99
-    
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-5.    [![Destiny 2: The Witch Queen PC - DLC](https://cdn.cdkeys.com/245x340/media/catalog/product/f/i/fifa-22-pc-game-origin-cover_42_.jpg)   No 5. \-89%
-    
-    DLC](https://www.cdkeys.com/pc/destiny-2-the-witch-queen-pc-dlc-steam)
-    
-    **[Destiny 2: The Witch Queen PC - DLC](https://www.cdkeys.com/pc/destiny-2-the-witch-queen-pc-dlc-steam "Destiny 2: The Witch Queen PC - DLC")**
-    
-    Special Price £3.99 RRP £34.99
-    
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-6.    [![Destiny 2: Lightfall PC - DLC](https://cdn.cdkeys.com/245x340/media/catalog/product/e/g/egs_destiny2lightfall_bungie_addon_s2_1200x1600-3a820ab4d96977371ca4e152059efa8c_1.jpg)   No 6. \-74%
+1.    [![Destiny 2: Lightfall PC - DLC](https://cdn.cdkeys.com/245x340/media/catalog/product/e/g/egs_destiny2lightfall_bungie_addon_s2_1200x1600-3a820ab4d96977371ca4e152059efa8c_1.jpg)   No 1. \-74%
     
     DLC](https://www.cdkeys.com/pc/destiny-2-lightfall-pc-dlc-steam)
     
@@ -520,43 +464,95 @@ To view games that are valid in your region ‘%1’, click here
     
      Buy Now
     
-7.    [![Horizon Forbidden West Complete Edition PC](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_-_2023-10-02t151943.412.jpg)   No 7. \-32%](https://www.cdkeys.com/pc/horizon-forbidden-west-complete-edition-pc-steam)
+2.    [![SILENT HILL 2 PC](https://cdn.cdkeys.com/245x340/media/catalog/product/s/i/silent_hill_2.jpg)   No 2. \-33%
     
-    **[Horizon Forbidden West Complete Edition PC](https://www.cdkeys.com/pc/horizon-forbidden-west-complete-edition-pc-steam "Horizon Forbidden West Complete Edition PC")**
+    Pre-order](https://www.cdkeys.com/pc/silent-hill-2-pc-steam)
     
-    Special Price £33.99 RRP £49.99
+    **[SILENT HILL 2 PC](https://www.cdkeys.com/pc/silent-hill-2-pc-steam "SILENT HILL 2 PC")**
+    
+    Special Price £39.99 RRP £59.99
     
     [Add to Wish List](# "Add to Wish List")
     
      Buy Now
     
-8.    [![Destiny 2: The Final Shape + Annual Pass PC - DLC](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_-_2023-08-23t133417.724.jpg)   No 8. \-25%
+3.    [![Warhammer 40,000: Rogue Trader PC](https://cdn.cdkeys.com/245x340/media/catalog/product/w/h/wh40k.jpg)   No 3. \-55%](https://www.cdkeys.com/pc/warhammer-40-000-rogue-trader-pc-steam)
+    
+    **[Warhammer 40,000: Rogue Trader PC](https://www.cdkeys.com/pc/warhammer-40-000-rogue-trader-pc-steam "Warhammer 40,000: Rogue Trader PC")**
+    
+    Special Price £17.99 RRP £39.99
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+4.    [![Guild Wars 2 2000 Gem Points Card (PC)](https://cdn.cdkeys.com/245x340/media/catalog/product/2/0/2000-gem-ban.jpg)   No 4. \-53%](https://www.cdkeys.com/pc/guild-wars-2-2000-gem-points-card-pc)
+    
+    **[Guild Wars 2 2000 Gem Points Card (PC)](https://www.cdkeys.com/pc/guild-wars-2-2000-gem-points-card-pc "Guild Wars 2 2000 Gem Points Card (PC)")**
+    
+    Special Price £16.49 RRP £34.99
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+5.    [![TEKKEN 8 - Ultimate Edition PC](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_-_2023-08-28t103720.383.jpg)   No 5. \-44%](https://www.cdkeys.com/pc/tekken-8-ultimate-edition-pc-steam)
+    
+    **[TEKKEN 8 - Ultimate Edition PC](https://www.cdkeys.com/pc/tekken-8-ultimate-edition-pc-steam "TEKKEN 8 - Ultimate Edition PC")**
+    
+    Special Price £49.99 RRP £89.99
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+6.    [![TEKKEN 8 PC](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_-_2023-08-28t100027.863.jpg)   No 6. \-48%](https://www.cdkeys.com/pc/tekken-8-pc-steam)
+    
+    **[TEKKEN 8 PC](https://www.cdkeys.com/pc/tekken-8-pc-steam "TEKKEN 8 PC")**
+    
+    Special Price £28.49 RRP £54.99
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+7.    [![Grand Theft Auto Online (GTA V 5): Megalodon Shark Cash Card PC](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_-_2023-11-28t153630.660.jpg)   No 7. \-72%](https://www.cdkeys.com/pc/grand-theft-auto-online-megalodon-shark-cash-card-pc)
+    
+    **[Grand Theft Auto Online (GTA V 5): Megalodon Shark Cash Card PC](https://www.cdkeys.com/pc/grand-theft-auto-online-megalodon-shark-cash-card-pc "Grand Theft Auto Online (GTA V 5): Megalodon Shark Cash Card PC")**
+    
+    Special Price £16.99 RRP £59.99
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+8.    [![RoboCop: Rogue City PC](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_-_2023-09-13t154346.184.jpg)   No 8. \-64%](https://www.cdkeys.com/pc/robocop-rogue-city-pc-steam)
+    
+    **[RoboCop: Rogue City PC](https://www.cdkeys.com/pc/robocop-rogue-city-pc-steam "RoboCop: Rogue City PC")**
+    
+    Special Price £15.99 RRP £44.99
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+9.    [![Destiny 2: The Final Shape + Annual Pass PC - DLC](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_-_2023-08-23t133417.724.jpg)   No 9. \-29%
     
     DLC](https://www.cdkeys.com/pc/destiny-2-the-final-shape-annual-pass-pc-dlc-steam)
     
     **[Destiny 2: The Final Shape + Annual Pass PC - DLC](https://www.cdkeys.com/pc/destiny-2-the-final-shape-annual-pass-pc-dlc-steam "Destiny 2: The Final Shape + Annual Pass PC - DLC")**
     
-    Special Price £62.99 RRP £83.99
+    Special Price £59.99 RRP £83.99
     
     [Add to Wish List](# "Add to Wish List")
     
      Buy Now
     
-9.    [![Saints Row Gold Edition PC (STEAM)](https://cdn.cdkeys.com/245x340/media/catalog/product/s/a/saints_row_gold_edition_xbox_one_xbox_series_x_s_us_.jpeg)   No 9. \-91%](https://www.cdkeys.com/pc/saints-row-gold-edition-pc-steam)
+10.    [![Minecraft: Java & Bedrock Edition Deluxe Collection PC (WW)](https://cdn.cdkeys.com/245x340/media/catalog/product/3/6/36_1.jpg)   No 10. \-63%](https://www.cdkeys.com/pc/minecraft-java-bedrock-edition-deluxe-collection-pc)
     
-    **[Saints Row Gold Edition PC (STEAM)](https://www.cdkeys.com/pc/saints-row-gold-edition-pc-steam "Saints Row Gold Edition PC (STEAM)")**
+    **[Minecraft: Java & Bedrock Edition Deluxe Collection PC (WW)](https://www.cdkeys.com/pc/minecraft-java-bedrock-edition-deluxe-collection-pc "Minecraft: Java & Bedrock Edition Deluxe Collection PC (WW)")**
     
-    Special Price £6.99 RRP £74.99
-    
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-10.    [![Homeworld 3 + Pre-Order Bonus PC](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_-_2023-12-06t124039.262.jpg)   No 10. \-38%](https://www.cdkeys.com/pc/homeworld-3-pc-steam)
-    
-    **[Homeworld 3 + Pre-Order Bonus PC](https://www.cdkeys.com/pc/homeworld-3-pc-steam "Homeworld 3 + Pre-Order Bonus PC")**
-    
-    Special Price £30.99 RRP £49.99
+    Special Price £12.99 RRP £34.99
     
     [Add to Wish List](# "Add to Wish List")
     
