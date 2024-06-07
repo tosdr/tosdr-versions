@@ -155,6 +155,9 @@ Privacy and Cookie Policy, English, Schibsted
 
 [### Data and you](https://info.privacy.schibsted.com/en/category/data-and-you/)
 
+* [Almost all there is to know about personalised advertising](https://info.privacy.schibsted.com/en/almost-all-there-is-to-know-about-personalised-advertising/)
+* [Your privacy choices drive your experience](https://info.privacy.schibsted.com/en/how-your-privacy-choices-drive-your-experience/)
+* [Schibsted, data and you](https://info.privacy.schibsted.com/en/schibsted-media-schibsted-marketplaces-data-and-you/)
 * [Why we want to know you better](https://info.privacy.schibsted.com/en/why-we-want-to-know-you-better/)
 * [How data helps us create better experiences](https://info.privacy.schibsted.com/en/how-data-helps-to-make-your-experiences-better/)
 * [Smart ads and what they mean for you](https://info.privacy.schibsted.com/en/smart-ads-and-what-they-mean-for-you/)
@@ -199,6 +202,3 @@ Privacy and Cookie Policy, English, Schibsted
 * [Your right to delete your data](https://info.privacy.schibsted.com/en/your-right-to-delete-your-data/)
 * [Your right to see your data](https://info.privacy.schibsted.com/en/digital-data-and-the-law/)
 * [Take control of your privacy](https://info.privacy.schibsted.com/en/take-control-of-your-privacy/)
-
-* [My privacy choices](https://info.privacy.schibsted.com/en/login-en/)
-* [My ads preferences](https://info.privacy.schibsted.com/how-to-change-ads-preferences/)
