@@ -104,7 +104,7 @@ Clarion Media Group LLC
 
 Austin, TX 78703
 
-To contact our Copyright Agent by email, please write to [\[email protected\]](https://fragmnt.com/cdn-cgi/l/email-protection), with COPYRIGHT NOTICE in the subject line.
+To contact our Copyright Agent by email, please write to copyright@clarion1822.com, with COPYRIGHT NOTICE in the subject line.
 
 **Miscellaneous**
 -----------------
@@ -113,10 +113,10 @@ In the event that any portion of these Terms of Use is held to be invalid or une
 
 _Questions or comments regarding this Site, including any reports of non-functioning links, should be submitted to the following:_
 
-* [\[email protected\]](https://fragmnt.com/cdn-cgi/l/email-protection) _for The Daily Dot_
-* [\[email protected\]](https://fragmnt.com/cdn-cgi/l/email-protection) _for Phire hosted sites_
-* [\[email protected\]](https://fragmnt.com/cdn-cgi/l/email-protection) _for Nautilus_
-* [\[email protected\]](https://fragmnt.com/cdn-cgi/l/email-protection)  _for general inquiries or comments_
+* [_support@thedailydot.com_](mailto:support@thedailydot.com) _for The Daily Dot_
+* [_support@phire.com_](mailto:support@phire.com) _for Phire hosted sites_
+* [_support@nautil.us_](mailto:support@nautil.us) _for Nautilus_
+* [_support@fragmnt.com_](mailto:support@fragmnt.com)  _for general inquiries or comments_
 
 _Last updated: April 25, 2022_
 
