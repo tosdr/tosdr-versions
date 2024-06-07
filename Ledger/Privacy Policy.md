@@ -281,8 +281,8 @@ Payment methods
     * [Partners](https://shop.ledger.com/partners)
 
 * Careers
-    * [Join us](https://www.ledger.com/career)
-    * [All jobs](https://www.ledger.com/?page_id=8)
+    * [Join us](https://careers.ledger.com/homepage)
+    * [All jobs](https://careers.ledger.com/jobs/search)
 
 * About
     * [Our vision](https://www.ledger.com/blog/we-are-ledger-a-brand-vision)
