@@ -14,9 +14,9 @@ Saving
 
 ![Newgrounds Background Image Theme](//img.ngfiles.com/themes/000/083f6c581716393117.webp?1716393126)
 
-[](https://1015884y.newgrounds.com/)
+[](https://twitchinvisor.newgrounds.com/)
 
-[1015884y](https://1015884y.newgrounds.com/) just joined the crew!
+[twitchinvisor](https://twitchinvisor.newgrounds.com/) just joined the crew!
 
 We need **you** on the team, too.
 
@@ -292,17 +292,17 @@ If you have any questions about this privacy policy, the practices of this site,
 
 GamesMoviesAudioArtChannelsUsers
 
-[plucas **Suddenly... Cara!!!**](https://plucas.newgrounds.com/news/post/1450072)
+[Username1365017 **I'm Always Anonymous**](https://username1365017.newgrounds.com/news/post/1450258)
 
-[davi449h **PoopedMan 1000 views!!!!!!!!!!!!!!!!!!!**](https://davi449h.newgrounds.com/news/post/1450071)
+[nkrt **LMAO I THINK I'M IN TROUBLE**](https://nkrt.newgrounds.com/news/post/1450257)
 
-[Belthagor **More Memories**](https://belthagor.newgrounds.com/news/post/1450070)
+[hostfulchaos **Mentally Sound**](https://hostfulchaos.newgrounds.com/news/post/1450256)
 
-[theOve **omfg**](https://theove.newgrounds.com/news/post/1450069)
+[chillzozen **Vent/srs post rn**](https://chillzozen.newgrounds.com/news/post/1450255)
 
-[AlanSpyder **Hello fellas i produced a new mini-album..**](https://alanspyder.newgrounds.com/news/post/1450068)
+[Sanethegeek **Where have you been SANE!? A lil' Update**](https://sanethegeek.newgrounds.com/news/post/1450254)
 
-[GamesHere **Let's play a game**](https://gameshere.newgrounds.com/news/post/1450066)
+[SomeDoodles **It's my birthday today!**](https://somedoodles.newgrounds.com/news/post/1450253)
 
 [**Wall Art by**
 
