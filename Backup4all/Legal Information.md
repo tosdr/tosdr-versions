@@ -142,15 +142,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to backup your data to Box](https://www.backup4all.com/how-to-backup-your-data-to-box-kb.html)  
+* [How to back up data files from DDN using Back ...](https://www.backup4all.com/how-to-back-up-data-files-from-ddn-using-backup4all-kb.html)  
     
-* [How to force Backup4all to copy again some mi ...](https://www.backup4all.com/how-to-force-backup4all-to-copy-again-some-missing-files-in-destination-kb.html)  
+* [How to backup your data to T Cloud](https://www.backup4all.com/how-to-backup-your-data-to-t-cloud-kb.html)  
     
-* [How to change the backup job name, tag or ico ...](https://www.backup4all.com/how-to-change-the-backup-job-name-group-or-icon-kb.html)  
+* [Ordering - FAQ](https://www.backup4all.com/ordering-faq-kb.html)  
     
-* [How to use independent zip splits in Backup4a ...](https://www.backup4all.com/how-to-use-independent-zip-splits-in-backup4all-kb.html)  
+* [How to back up data files from Backblaze usin ...](https://www.backup4all.com/how-to-back-up-data-files-from-backblaze-using-backup4all-kb.html)  
     
-* [How to backup your data to OneDrive](https://www.backup4all.com/how-to-backup-your-data-to-onedrive-kb.html)  
+* [Restore data after a hard drive crash](https://www.backup4all.com/restore-data-after-a-hard-drive-crash-kb.html)  
     
 
 Choose language:
