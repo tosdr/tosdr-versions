@@ -1,4 +1,4 @@
- [![https://aixeno.com/menu.html](https://aixeno.com/menu.png)](https://aixeno.com/menu.html "menu - https://aixeno.com/menu.html")    [![https://aixeno.com/search.png](https://aixeno.com/search.png)](https://aixeno.com/search.html#gsc.tab=0 "search - https://aixeno.com/search.html#gsc.tab=0")
+ [![https://aixeno.com/menu.html](https://aixeno.com/menu.png)](https://aixeno.com/menu.html "menu - https://aixeno.com/menu.html")   [aixeno.com](https://aixeno.com/ "aixeno.com - go to landing page - https://aixeno.com")    [![https://aixeno.com/search.png](https://aixeno.com/search.png)](https://aixeno.com/search.html#gsc.tab=0 "search - https://aixeno.com/search.html#gsc.tab=0")
 
 [aixeno  
 creates ai solutions  
@@ -11,7 +11,7 @@ legal
 [https://aixeno.com/legal.html](https://aixeno.com/legal.html "legal - https://aixeno.com/legal.html")
 
 Effective Date: January 01, 2022  
-Updated: May 23, 2024
+Updated: June 07, 2024
 
   
 
