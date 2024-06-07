@@ -452,9 +452,9 @@ Your cart is empty
     
     Accessories](https://www.lorex.com/collections/accessories-smart-home)
     
+    * [Power Adapters](https://www.lorex.com/collections/power-adapters)
     * [MicroSD Cards](https://www.lorex.com/collections/microsd-cards)
     * [Solar Panels](https://www.lorex.com/collections/solar-panels)
-    * [Power Adapters](https://www.lorex.com/collections/power-adapters)
     * [Rechargeable Battery Packs](https://www.lorex.com/collections/rechargeable-battery-packs)
     * [Doorbell Accessories](https://www.lorex.com/collections/doorbell-accessories)
     
