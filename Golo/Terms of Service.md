@@ -132,7 +132,7 @@ All GOLO supplements and fitness products come with a 60-day money back guarante
 
 **Return Authorization Process**
 
-If you wish to make a return within the allotted timeframe, please contact us at 1-800-730-4656 and press Option 2 for customer support or send an email to [support@golo.com](mailto:support@golo.com), for a return authorization number and return instructions.  It is important that you contact us before returning any Product to ensure that you are eligible for a refund; returned items that are not eligible for a refund will not be processed and replacement product will not be shipped (or refund given) back to you. We reserve the right to forfeit the guarantee if we suspect any abuse of our money back guarantee offer.
+If you wish to make a return within the allotted timeframe, please contact us at 1-800-730-4656 and press Option 5 for customer support or send an email to [support@golo.com](mailto:support@golo.com), for a return authorization number and return instructions.  It is important that you contact us before returning any Product to ensure that you are eligible for a refund; returned items that are not eligible for a refund will not be processed and replacement product will not be shipped (or refund given) back to you. We reserve the right to forfeit the guarantee if we suspect any abuse of our money back guarantee offer.
 
 **GOLO Perishable Foods**
 
@@ -157,6 +157,10 @@ In order to receive a full refund when returning a product to GOLO, all items m
 **Please note:** GOLO does not refund shipping costs paid. Packages that are returned within the 60-day timeframe but without a return authorization number and/or packages refused by the customer at the time of delivery will have a return fee deducted from the refund: Release® dietary supplements, GOLO® For Life Plans, and all other GOLO® products, including the AeroTrainer® exercise platform - $12.00 deduction. To ensure proper credit to your account, GOLO recommends that you obtain tracking information on your return package. Please save your shipping receipt until your refund has been received. Refunds are processed within 7 - 10 business days of receipt. Shipping costs are nonrefundable. Credits may take 48-72 hours to appear in your account once they have been processed. This timeframe is determined by your financial institution. Please refer to your financial institution for questions regarding this time frame. GOLO is not responsible for any bank or credit card fees that you may incur. Refunds issued by paper check will be sent via US mail. If you have further questions, please call 1-800-730-4656 and press Option 2 for customer support.  
 
 **GOLO is not responsible for any items returned including where such return includes non-GOLO products.**
+
+  
+
+---
 
 **Order Cancellation Requests**
 -------------------------------
