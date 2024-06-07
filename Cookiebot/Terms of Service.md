@@ -362,7 +362,7 @@ Sign Up
 
 By clicking on “Sign up” I confirm that I want to subscribe to the Usercentrics newsletter. I agree that my data may be used for any information related to the products and services offered by Cookiebot™. I can easily revoke this any time by clicking the unsubscribe link or by emailing Cookiebot™ at [\[email protected\]](https://www.cookiebot.com/cdn-cgi/l/email-protection). [See Privacy Policy](https://www.cookiebot.com/en/privacy-policy/)
 
-[Blog](https://www.cookiebot.com/en/blog/) [Cookie Declaration](https://www.cookiebot.com/en/cookie-declaration/) [Cookiebot Privacy Policy](https://www.cookiebot.com/en/privacy-policy/) [Data Processing Agreement](https://www.cookiebot.com/en/wp-content/uploads/sites/7/2023/08/DPA_01_2023.pdf) [Cookiebot™ Terms of Service](https://www.cookiebot.com/en/terms-of-service/)
+[Blog](https://www.cookiebot.com/en/blog/) [Cookie Declaration](https://www.cookiebot.com/en/cookie-declaration/) [Cookiebot Privacy Policy](https://www.cookiebot.com/en/privacy-policy/) [Data Processing Agreement](https://www.cookiebot.com/en/wp-content/uploads/sites/7/2024/06/DPA_06_2024.pdf) [Cookiebot™ Terms of Service](https://www.cookiebot.com/en/terms-of-service/)
 
 [Cookiebot Legal Notice](https://www.cookiebot.com/en/legal-notice/) [About](https://www.cookiebot.com/en/about/) [Resellers](https://www.cookiebot.com/en/resellers/) [Cookiebot Reseller Agreement](https://www.cookiebot.com/en/reseller-agreement/) [Sitemap](https://www.cookiebot.com/en/sitemap/)
 
