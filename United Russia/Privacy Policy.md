@@ -301,53 +301,53 @@
 
 [Все новости](https://er.ru/activity/news)
 
-[![Дарья Лантратова: При поддержке «Единой России» в регионах открылось более 1,5 тысячи женских клубов](https://cdn.er.ru/media/news/June2024/dBetAkNkcT9n6Ld5ShFe-small.jpg)](https://er.ru/activity/news/darya-lantratova-pri-podderzhke-edinoj-rossii-v-regionah-otkrylos-bolee-1-5-tysyachi-zhenskih-klubov)
+[![Андрей Исаев: «Единая Россия» представит в Правительство предложения по возобновлению индексации пенсий работающим пенсионерам](https://cdn.er.ru/media/news/June2024/AMOZ59YVtL1ljXz98OW4-small.jpg)](https://er.ru/activity/news/andrej-isaev-edinaya-rossiya-predstavit-v-pravitelstvo-predlozheniya-po-vozobnovleniyu-indeksacii-pensij-rabotayushim-pensioneram)
 
-[Дарья Лантратова: При поддержке «Единой России» в регионах открылось более 1,5 тысячи женских клубов](https://er.ru/activity/news/darya-lantratova-pri-podderzhke-edinoj-rossii-v-regionah-otkrylos-bolee-1-5-tysyachi-zhenskih-klubov)
+[Андрей Исаев: «Единая Россия» представит в Правительство предложения по возобновлению индексации пенсий работающим пенсионерам](https://er.ru/activity/news/andrej-isaev-edinaya-rossiya-predstavit-v-pravitelstvo-predlozheniya-po-vozobnovleniyu-indeksacii-pensij-rabotayushim-pensioneram)
 
-[#Лантратова](https://er.ru/activity/news?tags%5B0%5D=1607) [#ПМЭФ](https://er.ru/activity/news?tags%5B0%5D=45) [#партпроект](https://er.ru/activity/news?tags%5B0%5D=632) [#ЖенскоеДвижениеЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=1093396) [#женскийклуб](https://er.ru/activity/news?tags%5B0%5D=1095376) [#Минтруда](https://er.ru/activity/news?tags%5B0%5D=17938) [#центрзанятости](https://er.ru/activity/news?tags%5B0%5D=127861) [#женскаяполитшкола](https://er.ru/activity/news?tags%5B0%5D=1095004)
+[#Исаева](https://er.ru/activity/news?tags%5B0%5D=21241) [#пенсиии](https://er.ru/activity/news?tags%5B0%5D=103163) [#индексацияпенсий](https://er.ru/activity/news?tags%5B0%5D=126561) [#законопроекты](https://er.ru/activity/news?tags%5B0%5D=863) [#Путин](https://er.ru/activity/news?tags%5B0%5D=60) [#ПМЭФ](https://er.ru/activity/news?tags%5B0%5D=45)
 
-Сегодня 18:51
+Сегодня 17:45
 
-[![Евгений Нифантьев: «Единая Россия» и Минздрав дорабатывают законопроект о передвижных аптечных пунктах](https://cdn.er.ru/media/news/June2024/Vd6Z0exFCkEI1dS35xJi-small.jpg)](https://er.ru/activity/news/evgenij-nifantev-edinaya-rossiya-i-minzdrav-dorabatyvayut-zakonoproekt-o-peredvizhnyh-aptechnyh-punktah)
+[![Максим Топилин: «Единая Россия» совместно с бизнес-сообществом законодательно закрепит понятие «инвестиционный стандарт»](https://cdn.er.ru/media/news/June2024/iPuacral26HznPwcQe98-small.jpg)](https://er.ru/activity/news/maksim-topilin-edinaya-rossiya-sovmestno-s-biznes-soobshestvom-zakonodatelno-zakrepit-ponyatie-investicionnyj-standart)
 
-[Евгений Нифантьев: «Единая Россия» и Минздрав дорабатывают законопроект о передвижных аптечных пунктах](https://er.ru/activity/news/evgenij-nifantev-edinaya-rossiya-i-minzdrav-dorabatyvayut-zakonoproekt-o-peredvizhnyh-aptechnyh-punktah)
+[Максим Топилин: «Единая Россия» совместно с бизнес-сообществом законодательно закрепит понятие «инвестиционный стандарт»](https://er.ru/activity/news/maksim-topilin-edinaya-rossiya-sovmestno-s-biznes-soobshestvom-zakonodatelno-zakrepit-ponyatie-investicionnyj-standart)
 
-[#ПМЭФ](https://er.ru/activity/news?tags%5B0%5D=45) [#Нифантьев](https://er.ru/activity/news?tags%5B0%5D=150020) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#Минздрав](https://er.ru/activity/news?tags%5B0%5D=1960) [#лекарства](https://er.ru/activity/news?tags%5B0%5D=144) [#доступность](https://er.ru/activity/news?tags%5B0%5D=1561) [#передвижныеаптечныепункты](https://er.ru/activity/news?tags%5B0%5D=151492)
+[#Топилин](https://er.ru/activity/news?tags%5B0%5D=10362) [#инвестиции](https://er.ru/activity/news?tags%5B0%5D=121539) [#ПМЭФ](https://er.ru/activity/news?tags%5B0%5D=45) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#бизнес](https://er.ru/activity/news?tags%5B0%5D=18)
 
-Сегодня 17:57
+Сегодня 17:41
 
-[![Андрей Турчак: Псковская область развивается, и псковичи видят, как меняется регион](https://cdn.er.ru/media/news/June2024/BTZM4K7N4BLoxe19WOQZ-small.jpg)](https://er.ru/activity/news/andrej-turchak-pskovskaya-oblast-razvivaetsya-i-pskovichi-vidyat-kak-menyaetsya-region)
+[![Денис Кравченко: Законопроект о креативных индустриях поддержит творческих предпринимателей в каждом регионе](https://cdn.er.ru/media/news/June2024/pYqX3bDcc4YvTT1EQgrH-small.jpg)](https://er.ru/activity/news/denis-kravchenko-zakonoproekt-o-kreativnyh-industriyah-podderzhit-tvorcheskih-predprinimatelej-v-kazhdom-regione)
 
-[Андрей Турчак: Псковская область развивается, и псковичи видят, как меняется регион](https://er.ru/activity/news/andrej-turchak-pskovskaya-oblast-razvivaetsya-i-pskovichi-vidyat-kak-menyaetsya-region)
+[Денис Кравченко: Законопроект о креативных индустриях поддержит творческих предпринимателей в каждом регионе](https://er.ru/activity/news/denis-kravchenko-zakonoproekt-o-kreativnyh-industriyah-podderzhit-tvorcheskih-predprinimatelej-v-kazhdom-regione)
 
-[#Турчак](https://er.ru/activity/news?tags%5B0%5D=4167) [#Псковская область](https://er.ru/activity/news?tags%5B0%5D=1467) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Ведерников](https://er.ru/activity/news?tags%5B0%5D=42196)
+[#Кравченко](https://er.ru/activity/news?tags%5B0%5D=5003) [#Путин](https://er.ru/activity/news?tags%5B0%5D=60) [#ПМЭФ](https://er.ru/activity/news?tags%5B0%5D=45) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#законодательнаяинициативаЕР](https://er.ru/activity/news?tags%5B0%5D=152136) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#креативныеиндустрии](https://er.ru/activity/news?tags%5B0%5D=1092551)
 
-Сегодня 16:59
+Сегодня 17:32
 
-[![«Единая Россия» провела мониторинг соцобъектов, строящихся по народной программе партии](https://cdn.er.ru/media/news/June2024/R7W3ueWBzFuSG2U8I6gk-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-provela-monitoring-socobektov-stroyashihsya-po-narodnoj-programme-partii)
+[![Александр Якубовский: «Единая Россия» законодательно обеспечит выполнение поручения Президента о расширении семейной ипотеки](https://cdn.er.ru/media/news/June2024/uMpTiaLJ2NhaYIBdR62K-small.jpg)](https://er.ru/activity/news/aleksandr-yakubovskij-edinaya-rossiya-zakonodatelno-obespechit-vypolnenie-porucheniya-prezidenta-o-rasshirenii-semejnoj-ipoteki)
 
-[«Единая Россия» провела мониторинг соцобъектов, строящихся по народной программе партии](https://er.ru/activity/news/edinaya-rossiya-provela-monitoring-socobektov-stroyashihsya-po-narodnoj-programme-partii)
+[Александр Якубовский: «Единая Россия» законодательно обеспечит выполнение поручения Президента о расширении семейной ипотеки](https://er.ru/activity/news/aleksandr-yakubovskij-edinaya-rossiya-zakonodatelno-obespechit-vypolnenie-porucheniya-prezidenta-o-rasshirenii-semejnoj-ipoteki)
 
-[#мониторинги](https://er.ru/activity/news?tags%5B0%5D=85273) [#партийныйдесант](https://er.ru/activity/news?tags%5B0%5D=1092985) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Болотов](https://er.ru/activity/news?tags%5B0%5D=58688) [#Иркутская область](https://er.ru/activity/news?tags%5B0%5D=1277) [#Ярощук](https://er.ru/activity/news?tags%5B0%5D=99142) [#Магаданская область](https://er.ru/activity/news?tags%5B0%5D=1271) [#Луганская Народная Республика](https://er.ru/activity/news?tags%5B0%5D=126130) [#Ханты-Мансийский автономный округ – Югра](https://er.ru/activity/news?tags%5B0%5D=127421) [#Котова](https://er.ru/activity/news?tags%5B0%5D=20547) [#Амурская область](https://er.ru/activity/news?tags%5B0%5D=785) [#Ставропольский край](https://er.ru/activity/news?tags%5B0%5D=1300) [#Новопашин](https://er.ru/activity/news?tags%5B0%5D=17459) [#Ворошилов](https://er.ru/activity/news?tags%5B0%5D=94688) [#мониторинг](https://er.ru/activity/news?tags%5B0%5D=5385) [#народнаяпрограммаЕР](https://er.ru/activity/news?tags%5B0%5D=1093363) [#Панин](https://er.ru/activity/news?tags%5B0%5D=47144) [#Московская область](https://er.ru/activity/news?tags%5B0%5D=765)
+[#Якубовский](https://er.ru/activity/news?tags%5B0%5D=12184) [#ипотека](https://er.ru/activity/news?tags%5B0%5D=915) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Путин](https://er.ru/activity/news?tags%5B0%5D=60) [#законодательство](https://er.ru/activity/news?tags%5B0%5D=692) [#мерыподдержкисемей](https://er.ru/activity/news?tags%5B0%5D=145903)
 
-Сегодня 16:19
+Сегодня 17:13
 
-[![Активисты МГЕР и «Волонтёрской Роты» провели в Москве акцию «Поэзию Пушкина не отменить»](https://cdn.er.ru/media/news/June2024/nQQWgyVqY6Rjij58P6ZB-small.jpg)](https://er.ru/activity/news/aktivisty-mger-i-volontyorskoj-roty-proveli-v-moskve-akciyu-poeziyu-pushkina-ne-otmenit)
+[![Владимир Путин объявил о запуске программы строительства и благоустройства набережных и парков](https://cdn.er.ru/media/news/June2024/ABbxY74UoYc0bk758QKX-small.jpg)](https://er.ru/activity/news/vladimir-putin-obyavil-o-zapuske-programmy-stroitelstva-i-blagoustrojstva-naberezhnyh-i-parkov)
 
-[Активисты МГЕР и «Волонтёрской Роты» провели в Москве акцию «Поэзию Пушкина не отменить»](https://er.ru/activity/news/aktivisty-mger-i-volontyorskoj-roty-proveli-v-moskve-akciyu-poeziyu-pushkina-ne-otmenit)
+[Владимир Путин объявил о запуске программы строительства и благоустройства набережных и парков](https://er.ru/activity/news/vladimir-putin-obyavil-o-zapuske-programmy-stroitelstva-i-blagoustrojstva-naberezhnyh-i-parkov)
 
-[#Демидов](https://er.ru/activity/news?tags%5B0%5D=8672) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#Москва](https://er.ru/activity/news?tags%5B0%5D=255) [#Деньрусскогоязыка](https://er.ru/activity/news?tags%5B0%5D=133764)
+[#Путин](https://er.ru/activity/news?tags%5B0%5D=60) [#ПМЭФ](https://er.ru/activity/news?tags%5B0%5D=45) [#Формированиекомфортнойгородскойсреды](https://er.ru/activity/news?tags%5B0%5D=111554) [#Правительство](https://er.ru/activity/news?tags%5B0%5D=1090296) [#благоустройствогорода](https://er.ru/activity/news?tags%5B0%5D=122041)
 
-Сегодня 12:55
+Сегодня 16:21
 
-[![Губернаторы об Андрее Турчаке: Он принципиально и последовательно отстаивает интересы регионов](https://cdn.er.ru/media/news/June2024/hoLPKky1REFFT7EHfNz7-small.jpg)](https://er.ru/activity/news/gubernatory-ob-andree-turchake-on-principialno-i-posledovatelno-otstaivaet-interesy-regionov)
+[![Владимир Путин: Семьи в малых городах смогут воспользоваться семейной ипотекой под 6%, независимо от возраста детей](https://cdn.er.ru/media/news/June2024/DwBMTQHA3oJ4m5zaa8Ol-small.jpg)](https://er.ru/activity/news/vladimir-putin-semi-v-malyh-gorodah-smogut-vospolzovatsya-semejnoj-ipotekoj-pod-6-nezavisimo-ot-vozrasta-detej)
 
-[Губернаторы об Андрее Турчаке: Он принципиально и последовательно отстаивает интересы регионов](https://er.ru/activity/news/gubernatory-ob-andree-turchake-on-principialno-i-posledovatelno-otstaivaet-interesy-regionov)
+[Владимир Путин: Семьи в малых городах смогут воспользоваться семейной ипотекой под 6%, независимо от возраста детей](https://er.ru/activity/news/vladimir-putin-semi-v-malyh-gorodah-smogut-vospolzovatsya-semejnoj-ipotekoj-pod-6-nezavisimo-ot-vozrasta-detej)
 
-[#Шапша](https://er.ru/activity/news?tags%5B0%5D=23539) [#Турчак](https://er.ru/activity/news?tags%5B0%5D=4167) [#Артамонов](https://er.ru/activity/news?tags%5B0%5D=2199) [#Калужская область](https://er.ru/activity/news?tags%5B0%5D=783) [#Липецкая область](https://er.ru/activity/news?tags%5B0%5D=1090295) [#Республика Алтай](https://er.ru/activity/news?tags%5B0%5D=3973)
+[#Путин](https://er.ru/activity/news?tags%5B0%5D=60) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#льготнаяипотека](https://er.ru/activity/news?tags%5B0%5D=136631) [#многодетныесемьи](https://er.ru/activity/news?tags%5B0%5D=109325) [#мерыподдержки](https://er.ru/activity/news?tags%5B0%5D=147555) [#ПМЭФ](https://er.ru/activity/news?tags%5B0%5D=45) [#Правительство](https://er.ru/activity/news?tags%5B0%5D=1090296)
 
-05.06.24
+Сегодня 16:10
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
