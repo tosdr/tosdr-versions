@@ -19,6 +19,22 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Nudists cycle through London for World Naked Bike Ride every year. Credit: WNBR](https://southwarknews.co.uk/wp-content/uploads/2024/06/Nudists-cycle-through-London-for-World-Naked-Bike-Ride-every-year.-Credit-WNBR-360x180.jpeg)](https://southwarknews.co.uk/area/south-bank/nude-cyclists-to-pedal-through-the-south-bank-this-weekend/)
+    
+    ### [Nude cyclists to pedal through the South Bank this weekend](https://southwarknews.co.uk/area/south-bank/nude-cyclists-to-pedal-through-the-south-bank-this-weekend/)
+    
+    [![Police received reports of a stabbing on Carteret Way, Deptford. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/06/Police-received-reports-of-a-stabbing-on-Carteret-Way-Deptford.-Image-Google-360x180.png)](https://southwarknews.co.uk/area/deptford/man-stabbed-to-death-in-deptford-and-two-males-arrested/)
+    
+    ### [Man stabbed to death in Deptford and two males arrested](https://southwarknews.co.uk/area/deptford/man-stabbed-to-death-in-deptford-and-two-males-arrested/)
+    
+    [![Some new council homes due for completion this Autumn, Rennie Estate, South Bermondsey](https://southwarknews.co.uk/wp-content/uploads/2024/06/Image-05-06-2024-at-15.33-360x180.jpg)](https://southwarknews.co.uk/featured/exclusive-no-homes-to-bid-on-in-southwark-for-up-to-2-months-with-hundreds-vying-for-one-property/)
+    
+    ### [Exclusive: ‘No homes’ to bid on in Southwark for ‘up to 2 months’ with hundreds vying for one property](https://southwarknews.co.uk/featured/exclusive-no-homes-to-bid-on-in-southwark-for-up-to-2-months-with-hundreds-vying-for-one-property/)
+    
+    [![Olive Bailey, who now lives in Kent, was a student at English Martyrs RC Primary School, back when it was known as Flint Street School. ](https://southwarknews.co.uk/wp-content/uploads/2024/06/1000016910-scaled-e1717577831915-360x180.jpg)](https://southwarknews.co.uk/area/walworth/99-year-old-woman-returns-to-walworth-primary-school-she-attended-in-the-1920s/)
+    
+    ### [99-year-old woman returns to Walworth primary school she attended in the 1920s](https://southwarknews.co.uk/area/walworth/99-year-old-woman-returns-to-walworth-primary-school-she-attended-in-the-1920s/)
+    
     [![Locals saw an air ambulance land in Southwark Park](https://southwarknews.co.uk/wp-content/uploads/2024/06/PHOTO-2024-06-05-12-50-03-e1717663731998-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-man-arrested-after-stabbing/)
     
     ### [Rotherhithe: Man arrested after stabbing](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-man-arrested-after-stabbing/)
@@ -39,22 +55,6 @@
     [![Voi operates e-scooters in more than 100 towns and cities across Europe. Photo from Voi](https://southwarknews.co.uk/wp-content/uploads/2024/06/Voi-operates-e-scooters-in-more-than-100-towns-and-cities-across-Europe.-Photo-from-Voi-360x180.jpg)](https://southwarknews.co.uk/area/south-london/e-scooter-firm-warns-mayor-of-london-it-could-be-forced-to-withdraw-from-london-streets/)
     
     ### [E-scooter firm warns Mayor of London it could be forced to withdraw from London streets](https://southwarknews.co.uk/area/south-london/e-scooter-firm-warns-mayor-of-london-it-could-be-forced-to-withdraw-from-london-streets/)
-    
-    [![Neil Coyle in his constituency office](https://southwarknews.co.uk/wp-content/uploads/2023/03/IMG_3085-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/neil-coyle-confirmed-as-labour-candidate-mp-says/)
-    
-    ### [Neil Coyle confirmed as Labour candidate, MP says](https://southwarknews.co.uk/area/bermondsey/neil-coyle-confirmed-as-labour-candidate-mp-says/)
-    
-    [![A cordon remains in place on Southwark Street.](https://southwarknews.co.uk/wp-content/uploads/2024/06/southwark-street-gas-leak-360x180.jpg)](https://southwarknews.co.uk/area/southwark/2000-people-evacuated-after-gas-leak-on-southwark-street/)
-    
-    ### [2,000 people evacuated after ‘gas leak’ on Southwark Street](https://southwarknews.co.uk/area/southwark/2000-people-evacuated-after-gas-leak-on-southwark-street/)
-    
-    [![British troops landing on the Normandy beaches on 6 June 1944. (IWM; Mark Cartwright)](https://southwarknews.co.uk/wp-content/uploads/2024/06/British-troops-landing-on-the-Normandy-beaches-360x180.png)](https://southwarknews.co.uk/area/southwark/what-is-d-day-and-where-can-i-celebrate-it-in-southwark/)
-    
-    ### [What is D-Day and where can I celebrate it in Southwark?](https://southwarknews.co.uk/area/southwark/what-is-d-day-and-where-can-i-celebrate-it-in-southwark/)
-    
-    [![Residents and shopkeepers are protesting against the rent hikes](https://southwarknews.co.uk/wp-content/uploads/2024/06/Residents-and-shopkeepers-are-protesting-against-the-rent-hikes-747x560-1-360x180.jpeg)](https://southwarknews.co.uk/area/camberwell/camberwell-shops-facing-120-per-rent-hikes-holding-crisis-talks-with-southwark-council/)
-    
-    ### [Camberwell shops facing 120 per rent hikes holding crisis talks with Southwark Council](https://southwarknews.co.uk/area/camberwell/camberwell-shops-facing-120-per-rent-hikes-holding-crisis-talks-with-southwark-council/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -96,6 +96,22 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Nudists cycle through London for World Naked Bike Ride every year. Credit: WNBR](https://southwarknews.co.uk/wp-content/uploads/2024/06/Nudists-cycle-through-London-for-World-Naked-Bike-Ride-every-year.-Credit-WNBR-360x180.jpeg)](https://southwarknews.co.uk/area/south-bank/nude-cyclists-to-pedal-through-the-south-bank-this-weekend/)
+    
+    ### [Nude cyclists to pedal through the South Bank this weekend](https://southwarknews.co.uk/area/south-bank/nude-cyclists-to-pedal-through-the-south-bank-this-weekend/)
+    
+    [![Police received reports of a stabbing on Carteret Way, Deptford. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/06/Police-received-reports-of-a-stabbing-on-Carteret-Way-Deptford.-Image-Google-360x180.png)](https://southwarknews.co.uk/area/deptford/man-stabbed-to-death-in-deptford-and-two-males-arrested/)
+    
+    ### [Man stabbed to death in Deptford and two males arrested](https://southwarknews.co.uk/area/deptford/man-stabbed-to-death-in-deptford-and-two-males-arrested/)
+    
+    [![Some new council homes due for completion this Autumn, Rennie Estate, South Bermondsey](https://southwarknews.co.uk/wp-content/uploads/2024/06/Image-05-06-2024-at-15.33-360x180.jpg)](https://southwarknews.co.uk/featured/exclusive-no-homes-to-bid-on-in-southwark-for-up-to-2-months-with-hundreds-vying-for-one-property/)
+    
+    ### [Exclusive: ‘No homes’ to bid on in Southwark for ‘up to 2 months’ with hundreds vying for one property](https://southwarknews.co.uk/featured/exclusive-no-homes-to-bid-on-in-southwark-for-up-to-2-months-with-hundreds-vying-for-one-property/)
+    
+    [![Olive Bailey, who now lives in Kent, was a student at English Martyrs RC Primary School, back when it was known as Flint Street School. ](https://southwarknews.co.uk/wp-content/uploads/2024/06/1000016910-scaled-e1717577831915-360x180.jpg)](https://southwarknews.co.uk/area/walworth/99-year-old-woman-returns-to-walworth-primary-school-she-attended-in-the-1920s/)
+    
+    ### [99-year-old woman returns to Walworth primary school she attended in the 1920s](https://southwarknews.co.uk/area/walworth/99-year-old-woman-returns-to-walworth-primary-school-she-attended-in-the-1920s/)
+    
     [![Locals saw an air ambulance land in Southwark Park](https://southwarknews.co.uk/wp-content/uploads/2024/06/PHOTO-2024-06-05-12-50-03-e1717663731998-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-man-arrested-after-stabbing/)
     
     ### [Rotherhithe: Man arrested after stabbing](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-man-arrested-after-stabbing/)
@@ -116,22 +132,6 @@ View All Result
     [![Voi operates e-scooters in more than 100 towns and cities across Europe. Photo from Voi](https://southwarknews.co.uk/wp-content/uploads/2024/06/Voi-operates-e-scooters-in-more-than-100-towns-and-cities-across-Europe.-Photo-from-Voi-360x180.jpg)](https://southwarknews.co.uk/area/south-london/e-scooter-firm-warns-mayor-of-london-it-could-be-forced-to-withdraw-from-london-streets/)
     
     ### [E-scooter firm warns Mayor of London it could be forced to withdraw from London streets](https://southwarknews.co.uk/area/south-london/e-scooter-firm-warns-mayor-of-london-it-could-be-forced-to-withdraw-from-london-streets/)
-    
-    [![Neil Coyle in his constituency office](https://southwarknews.co.uk/wp-content/uploads/2023/03/IMG_3085-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/neil-coyle-confirmed-as-labour-candidate-mp-says/)
-    
-    ### [Neil Coyle confirmed as Labour candidate, MP says](https://southwarknews.co.uk/area/bermondsey/neil-coyle-confirmed-as-labour-candidate-mp-says/)
-    
-    [![A cordon remains in place on Southwark Street.](https://southwarknews.co.uk/wp-content/uploads/2024/06/southwark-street-gas-leak-360x180.jpg)](https://southwarknews.co.uk/area/southwark/2000-people-evacuated-after-gas-leak-on-southwark-street/)
-    
-    ### [2,000 people evacuated after ‘gas leak’ on Southwark Street](https://southwarknews.co.uk/area/southwark/2000-people-evacuated-after-gas-leak-on-southwark-street/)
-    
-    [![British troops landing on the Normandy beaches on 6 June 1944. (IWM; Mark Cartwright)](https://southwarknews.co.uk/wp-content/uploads/2024/06/British-troops-landing-on-the-Normandy-beaches-360x180.png)](https://southwarknews.co.uk/area/southwark/what-is-d-day-and-where-can-i-celebrate-it-in-southwark/)
-    
-    ### [What is D-Day and where can I celebrate it in Southwark?](https://southwarknews.co.uk/area/southwark/what-is-d-day-and-where-can-i-celebrate-it-in-southwark/)
-    
-    [![Residents and shopkeepers are protesting against the rent hikes](https://southwarknews.co.uk/wp-content/uploads/2024/06/Residents-and-shopkeepers-are-protesting-against-the-rent-hikes-747x560-1-360x180.jpeg)](https://southwarknews.co.uk/area/camberwell/camberwell-shops-facing-120-per-rent-hikes-holding-crisis-talks-with-southwark-council/)
-    
-    ### [Camberwell shops facing 120 per rent hikes holding crisis talks with Southwark Council](https://southwarknews.co.uk/area/camberwell/camberwell-shops-facing-120-per-rent-hikes-holding-crisis-talks-with-southwark-council/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -189,23 +189,23 @@ Terms of Use
 
 ### Popular Articles
 
-[![](https://southwarknews.co.uk/wp-content/uploads/2024/05/348361880_638071754886236_3041479536231486407_n-120x86.jpg)](https://southwarknews.co.uk/area/herne-hill/final-decision-on-brockwell-park-festival-this-weekend-yet-to-be-made/)
-
-### [Final decision on Brockwell Park’s Mighty Hoopla festival this weekend yet to be made](https://southwarknews.co.uk/area/herne-hill/final-decision-on-brockwell-park-festival-this-weekend-yet-to-be-made/)
-
-[30th May 2024](https://southwarknews.co.uk/area/herne-hill/final-decision-on-brockwell-park-festival-this-weekend-yet-to-be-made/)
-
 [![The developer says it doesn't have enough money to finish the ground floor of the building on Bombay Street, Bermondsey. Photo from Southwark Council planning documents](https://southwarknews.co.uk/wp-content/uploads/2024/05/The-developer-says-it-doesnt-have-enough-money-to-finish-the-ground-floor-of-the-building-on-Bombay-Street-Bermondsey.-Photo-from-Southwark-Council-planning-documents-120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/developer-wants-to-scrap-all-affordable-housing-in-an-unfinished-bermondsey-block/)
 
 ### [Developer wants to scrap all affordable housing in an unfinished Bermondsey block](https://southwarknews.co.uk/area/bermondsey/developer-wants-to-scrap-all-affordable-housing-in-an-unfinished-bermondsey-block/) 
 
 [1st June 2024](https://southwarknews.co.uk/area/bermondsey/developer-wants-to-scrap-all-affordable-housing-in-an-unfinished-bermondsey-block/)
 
-[![Japhet Tanganga caused The Den to erupt when he headed home in the 90th minute to give Millwall a 1-0 lead over Birmingham. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/03/BAT_2350-2024-03-09T16_53_56.678-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/millwall-defensive-transfer-target-joins-england-international-in-leaving-spurs-as-free-agent/)
+[![Brunswick House sits in a secluded patch next to Myatt's Field Park. (Photo from 2019. Image: Google Maps)](https://southwarknews.co.uk/wp-content/uploads/2024/06/Brunswick-House-sits-in-a-secluded-patch-next-to-Myatts-Field-Park.-Photo-from-2019.-Image-Google-Maps-120x86.png)](https://southwarknews.co.uk/area/camberwell/dreamy-camberwell-house-with-twelve-bedrooms-and-spiral-staircase-goes-on-sale-for-4-25-million/)
 
-### [Millwall defensive transfer target joins England international in leaving Spurs as free agent](https://southwarknews.co.uk/sport/football/millwall/millwall-defensive-transfer-target-joins-england-international-in-leaving-spurs-as-free-agent/)
+### [‘Dreamy’ Camberwell house with twelve bedrooms and spiral staircase goes on sale for £4.25 million](https://southwarknews.co.uk/area/camberwell/dreamy-camberwell-house-with-twelve-bedrooms-and-spiral-staircase-goes-on-sale-for-4-25-million/)
 
-[5th June 2024](https://southwarknews.co.uk/sport/football/millwall/millwall-defensive-transfer-target-joins-england-international-in-leaving-spurs-as-free-agent/)
+[6th June 2024](https://southwarknews.co.uk/area/camberwell/dreamy-camberwell-house-with-twelve-bedrooms-and-spiral-staircase-goes-on-sale-for-4-25-million/)
+
+[![A cordon remains in place on Southwark Street.](https://southwarknews.co.uk/wp-content/uploads/2024/06/southwark-street-gas-leak-120x86.jpg)](https://southwarknews.co.uk/area/southwark/2000-people-evacuated-after-gas-leak-on-southwark-street/)
+
+### [2,000 people evacuated after ‘gas leak’ on Southwark Street](https://southwarknews.co.uk/area/southwark/2000-people-evacuated-after-gas-leak-on-southwark-street/)
+
+[5th June 2024](https://southwarknews.co.uk/area/southwark/2000-people-evacuated-after-gas-leak-on-southwark-street/)
 
 [![Arch St, Elephant and Castle, first built in 2011, was one of the Heygate replacement housing sites. (Google)](https://southwarknews.co.uk/wp-content/uploads/2023/04/image-2-e1717495324122-120x86.jpeg)](https://southwarknews.co.uk/area/elephant-and-castle/fifty-two-homes-in-elephant-and-castle-could-be-empty-for-two-more-years/)
 
@@ -213,11 +213,11 @@ Terms of Use
 
 [5th June 2024](https://southwarknews.co.uk/area/elephant-and-castle/fifty-two-homes-in-elephant-and-castle-could-be-empty-for-two-more-years/)
 
-[![A cordon remains in place on Southwark Street.](https://southwarknews.co.uk/wp-content/uploads/2024/06/southwark-street-gas-leak-120x86.jpg)](https://southwarknews.co.uk/area/southwark/2000-people-evacuated-after-gas-leak-on-southwark-street/)
+[![Japhet Tanganga caused The Den to erupt when he headed home in the 90th minute to give Millwall a 1-0 lead over Birmingham. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/03/BAT_2350-2024-03-09T16_53_56.678-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/millwall-defensive-transfer-target-joins-england-international-in-leaving-spurs-as-free-agent/)
 
-### [2,000 people evacuated after ‘gas leak’ on Southwark Street](https://southwarknews.co.uk/area/southwark/2000-people-evacuated-after-gas-leak-on-southwark-street/)
+### [Millwall defensive transfer target joins England international in leaving Spurs as free agent](https://southwarknews.co.uk/sport/football/millwall/millwall-defensive-transfer-target-joins-england-international-in-leaving-spurs-as-free-agent/)
 
-[5th June 2024](https://southwarknews.co.uk/area/southwark/2000-people-evacuated-after-gas-leak-on-southwark-street/)
+[5th June 2024](https://southwarknews.co.uk/sport/football/millwall/millwall-defensive-transfer-target-joins-england-international-in-leaving-spurs-as-free-agent/)
 
 [![The players will be back together to resume training three weeks from today](https://southwarknews.co.uk/wp-content/uploads/2024/06/BAT_6585-2024-04-09T21_48_19.626-120x86.jpg)](https://southwarknews.co.uk/sport/football/lions-line-up-european-training-camp/)
 
@@ -226,6 +226,30 @@ Terms of Use
 [5th June 2024](https://southwarknews.co.uk/sport/football/lions-line-up-european-training-camp/)
 
 ### Featured Articles
+
+[![Nudists cycle through London for World Naked Bike Ride every year. Credit: WNBR](https://southwarknews.co.uk/wp-content/uploads/2024/06/Nudists-cycle-through-London-for-World-Naked-Bike-Ride-every-year.-Credit-WNBR-120x86.jpeg)](https://southwarknews.co.uk/area/south-bank/nude-cyclists-to-pedal-through-the-south-bank-this-weekend/)
+
+### [Nude cyclists to pedal through the South Bank this weekend](https://southwarknews.co.uk/area/south-bank/nude-cyclists-to-pedal-through-the-south-bank-this-weekend/)
+
+[7th June 2024](https://southwarknews.co.uk/area/south-bank/nude-cyclists-to-pedal-through-the-south-bank-this-weekend/)
+
+[![Police received reports of a stabbing on Carteret Way, Deptford. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/06/Police-received-reports-of-a-stabbing-on-Carteret-Way-Deptford.-Image-Google-120x86.png)](https://southwarknews.co.uk/area/deptford/man-stabbed-to-death-in-deptford-and-two-males-arrested/)
+
+### [Man stabbed to death in Deptford and two males arrested](https://southwarknews.co.uk/area/deptford/man-stabbed-to-death-in-deptford-and-two-males-arrested/)
+
+[7th June 2024](https://southwarknews.co.uk/area/deptford/man-stabbed-to-death-in-deptford-and-two-males-arrested/)
+
+[![Some new council homes due for completion this Autumn, Rennie Estate, South Bermondsey](https://southwarknews.co.uk/wp-content/uploads/2024/06/Image-05-06-2024-at-15.33-120x86.jpg)](https://southwarknews.co.uk/featured/exclusive-no-homes-to-bid-on-in-southwark-for-up-to-2-months-with-hundreds-vying-for-one-property/)
+
+### [Exclusive: ‘No homes’ to bid on in Southwark for ‘up to 2 months’ with hundreds vying for one property](https://southwarknews.co.uk/featured/exclusive-no-homes-to-bid-on-in-southwark-for-up-to-2-months-with-hundreds-vying-for-one-property/)
+
+[7th June 2024](https://southwarknews.co.uk/featured/exclusive-no-homes-to-bid-on-in-southwark-for-up-to-2-months-with-hundreds-vying-for-one-property/)
+
+[![Olive Bailey, who now lives in Kent, was a student at English Martyrs RC Primary School, back when it was known as Flint Street School. ](https://southwarknews.co.uk/wp-content/uploads/2024/06/1000016910-scaled-e1717577831915-120x86.jpg)](https://southwarknews.co.uk/area/walworth/99-year-old-woman-returns-to-walworth-primary-school-she-attended-in-the-1920s/)
+
+### [99-year-old woman returns to Walworth primary school she attended in the 1920s](https://southwarknews.co.uk/area/walworth/99-year-old-woman-returns-to-walworth-primary-school-she-attended-in-the-1920s/)
+
+[7th June 2024](https://southwarknews.co.uk/area/walworth/99-year-old-woman-returns-to-walworth-primary-school-she-attended-in-the-1920s/)
 
 [![Pamela and her grandaughter at the grave of Thomas Bishop and the five other children killed in 1942. Credit: Pamela Bishop](https://southwarknews.co.uk/wp-content/uploads/2024/06/Pamela-and-her-grandaughter-at-the-grave-of-Thomas-Bishop-and-the-five-other-children-killed-in-1942.-Credit-Pamela-Bishop-120x86.png)](https://southwarknews.co.uk/area/elephant-and-castle/the-forgotten-child-victims-of-a-ww2-bomb-in-elephant-and-castle-finally-have-a-gravestone-80-years-later/)
 
@@ -239,30 +263,6 @@ Vase With Sulphide Of Napoleon I, Falcon Glassworks of Apsley Pellatt & Co., 182
 ### [The winner of the Southwark Blue Plaque scheme 2024 is revealed](https://southwarknews.co.uk/area/borough/the-winner-of-the-southwark-blue-plaque-scheme-2024-is-revealed/)
 
 [6th June 2024](https://southwarknews.co.uk/area/borough/the-winner-of-the-southwark-blue-plaque-scheme-2024-is-revealed/)
-
-[![Hackney-based Cecilia Knapp emerged from a field of over 170 applicants. Credit: City Bridge Foundation](https://southwarknews.co.uk/wp-content/uploads/2024/06/Hackney-based-Cecilia-Knapp-emerged-from-a-field-of-over-170-applicants.-Credit-City-Bridge-Foundation-120x86.jpg)](https://southwarknews.co.uk/area/south-bank/thames-bridges-appoint-their-own-poet/)
-
-### [Thames bridges appoint their own poet](https://southwarknews.co.uk/area/south-bank/thames-bridges-appoint-their-own-poet/)
-
-[6th June 2024](https://southwarknews.co.uk/area/south-bank/thames-bridges-appoint-their-own-poet/)
-
-[![Santander Cycles.](https://southwarknews.co.uk/wp-content/uploads/2024/06/Image-05-06-2024-at-16.14-120x86.jpg)](https://southwarknews.co.uk/area/around-south-east-london/tfl-is-offering-free-santander-e-bike-rides-every-sunday-in-june/)
-
-### [TfL is offering free Santander e-bike rides every Sunday in June](https://southwarknews.co.uk/area/around-south-east-london/tfl-is-offering-free-santander-e-bike-rides-every-sunday-in-june/)
-
-[6th June 2024](https://southwarknews.co.uk/area/around-south-east-london/tfl-is-offering-free-santander-e-bike-rides-every-sunday-in-june/)
-
-[![A cordon remains in place on Southwark Street.](https://southwarknews.co.uk/wp-content/uploads/2024/06/southwark-street-gas-leak-120x86.jpg)](https://southwarknews.co.uk/area/southwark/2000-people-evacuated-after-gas-leak-on-southwark-street/)
-
-### [2,000 people evacuated after ‘gas leak’ on Southwark Street](https://southwarknews.co.uk/area/southwark/2000-people-evacuated-after-gas-leak-on-southwark-street/)
-
-[5th June 2024](https://southwarknews.co.uk/area/southwark/2000-people-evacuated-after-gas-leak-on-southwark-street/)
-
-[![British troops landing on the Normandy beaches on 6 June 1944. (IWM; Mark Cartwright)](https://southwarknews.co.uk/wp-content/uploads/2024/06/British-troops-landing-on-the-Normandy-beaches-120x86.png)](https://southwarknews.co.uk/area/southwark/what-is-d-day-and-where-can-i-celebrate-it-in-southwark/)
-
-### [What is D-Day and where can I celebrate it in Southwark?](https://southwarknews.co.uk/area/southwark/what-is-d-day-and-where-can-i-celebrate-it-in-southwark/)
-
-[5th June 2024](https://southwarknews.co.uk/area/southwark/what-is-d-day-and-where-can-i-celebrate-it-in-southwark/)
 
 ### USEFUL PAGES
 
