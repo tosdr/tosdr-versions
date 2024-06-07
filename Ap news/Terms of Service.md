@@ -291,15 +291,15 @@ Show Search
 * Copyright 2024 The Associated Press. All Rights Reserved.
     
 
-[Live: D-Day](https://apnews.com/live/d-day-80th-anniversary-updates)
+[NBA Finals](https://apnews.com/article/celtics-nba-finals-3ffbd0d7b73bec03eb53fc92ff5f5961)
+
+[Chiefs’ B.J. Thompson](https://apnews.com/article/chiefs-kansas-city-cardiac-event-17f22f60bfaa92d1bc9e82c50b5b06ac)
 
 [Israel-Hamas war](https://apnews.com/hub/israel-hamas-war)
 
-[EU elections](https://apnews.com/article/eu-europe-elections-far-right-netherlands-d1a866c87bf53f16211cf8d2adc0685a)
+[Boeing Starliner](https://apnews.com/article/boeing-starliner-nasa-astronauts-launch-fc55af012efeb32cbeaa4d264ab85e11)
 
-[New bird flu strain](https://apnews.com/article/bird-flu-mexico-death-h5n2-54bcefacdc1fe4a35298d3577c64cb7d)
-
-[Nvidia](https://apnews.com/article/nvidia-artificial-intelligence-stock-market-nasdaq-b1e79cf391f212a4714433afd140e341)
+[Gilgo Beach killings](https://apnews.com/article/gilgo-beach-long-island-serial-killer-cd010da500bedf2aabded35d1b939629)
 
 The Associated Press
 ====================
