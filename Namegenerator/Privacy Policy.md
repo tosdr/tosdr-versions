@@ -1,4 +1,4 @@
-[![](/images/logo.svg?v=e1fa9e)](https://namegenerator.com/)
+[![](/images/logo.svg?v=ea87f1)](https://namegenerator.com/)
 
 Saved
 
@@ -33,6 +33,7 @@ AI](https://namegenerator.com/people/clan)[Usernames
 AI](https://namegenerator.com/people/username)[Diminutives](https://namegenerator.com/people/diminutive)[Generative Names](https://namegenerator.com/people/generative)
 
 Terms and Privacy Policy
+========================
 
 This agreement describes the conditions and rules under which SIA Webby ("our company", "we") offers you its services at namegenerator.com.
 
