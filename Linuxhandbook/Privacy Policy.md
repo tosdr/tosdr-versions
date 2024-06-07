@@ -4,14 +4,14 @@
 
 [![Linux Handbook](https://linuxhandbook.com/content/images/2021/08/linux-handbook-cover.png)](https://linuxhandbook.com/)
 
-* [Latest Tutorials](https://linuxhandbook.com/latest/)
-* [Books](https://linuxhandbook.com/ebooks/)
-* [Courses](https://linuxhandbook.com/courses/)
-* [Who we are?](https://linuxhandbook.com/about/)
-* * [Latest Tutorials](https://linuxhandbook.com/latest/)
-    * [Books](https://linuxhandbook.com/ebooks/)
-    * [Courses](https://linuxhandbook.com/courses/)
-    * [Who we are?](https://linuxhandbook.com/about/)
+* [✨ Latest Tutorials](https://linuxhandbook.com/latest/)
+* [📚 Books](https://linuxhandbook.com/ebooks/)
+* [👩‍💻 Courses](https://linuxhandbook.com/courses/)
+* [🪪 Who we are?](https://linuxhandbook.com/about/)
+* * [✨ Latest Tutorials](https://linuxhandbook.com/latest/)
+    * [📚 Books](https://linuxhandbook.com/ebooks/)
+    * [👩‍💻 Courses](https://linuxhandbook.com/courses/)
+    * [🪪 Who we are?](https://linuxhandbook.com/about/)
 
 [](https://twitter.com/linuxhandbook "Twitter")[](https://www.facebook.com/linuxhandbook "Facebook")
 
@@ -19,10 +19,10 @@ Quick search... ⌘K
 
 /
 
-* [Latest Tutorials](https://linuxhandbook.com/latest/)
-* [Books](https://linuxhandbook.com/ebooks/)
-* [Courses](https://linuxhandbook.com/courses/)
-* [Who we are?](https://linuxhandbook.com/about/)
+* [✨ Latest Tutorials](https://linuxhandbook.com/latest/)
+* [📚 Books](https://linuxhandbook.com/ebooks/)
+* [👩‍💻 Courses](https://linuxhandbook.com/courses/)
+* [🪪 Who we are?](https://linuxhandbook.com/about/)
 
 [](https://twitter.com/linuxhandbook "Twitter")[](https://www.facebook.com/linuxhandbook "Facebook")
 
