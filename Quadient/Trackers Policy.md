@@ -229,6 +229,7 @@ Because connections matter.
 * Product
 * [Customer Communications](https://www.quadient.com/en/customer-communications/overview)
 * [AP Automation](https://www.quadient.com/en/ap-automation)
+* [AR Automation](https://www.quadient.com/en/ar-automation)
 * [Smart Mail](https://mail.quadient.com/)
 * [Parcel Lockers](https://www.parcelpending.com/)
 
