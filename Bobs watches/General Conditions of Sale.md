@@ -218,13 +218,13 @@ MON - FRI 9AM - 5PM (EST)
 
 Subscribe today to receive email updates on our timepieces.
 
-    Subscribe
+    Your email address Subscribe
 
 © 2024 Bob's Watches. All Rights Reserved
 
 [Privacy](https://www.bobswatches.com/privacy-policy) · [Terms](https://www.bobswatches.com/terms-and-conditions) · [Sitemap](https://www.bobswatches.com/site-map) · [Accessibility](https://www.bobswatches.com/accessibility-help)
 
-[](https://twitter.com/BobsWatches)[](https://www.facebook.com/bobswatches/)[](https://www.instagram.com/bobswatches/)[](https://www.youtube.com/@bobswatches)[](https://www.youtube.com/@bobswatches)
+[](https://twitter.com/BobsWatches)[](https://www.facebook.com/bobswatches/)[](https://www.instagram.com/bobswatches/)[](https://www.youtube.com/@bobswatches)[](https://www.tiktok.com/@bobswatchesofficial)
 
 All rights reserved. Bob's Watches is not affiliated with Rolex S.A., Rolex USA, or any of its subsidiaries.
 
