@@ -159,7 +159,7 @@
     
 * [B2B Publishing](https://www.latimes.com/b2bpublishing)
     
-* [Business Visionaries](https://www.latimes.com/b2b/business-visionaries)
+* [Magazines](https://www.latimes.com/b2b/business-visionaries)
     
 * [Hot Property](https://www.latimes.com/brandpublishing/hotproperty)
     
