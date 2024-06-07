@@ -1,5 +1,3 @@
-                  Privacy Statement | Amgen       
-
  [![Amgen Logo](-/media/Themes/Global/Global/Global/images/migration/Common/amgen-blue.svg?la=en&hash=2F9332F2F46EA1E1EF9CCF9D40B8C7B8)](https://wwwext.amgen.com/)[![Amgen Logo](-/media/Themes/Global/Global/Global/images/migration/Common/amgen-blue.svg?la=en&hash=2F9332F2F46EA1E1EF9CCF9D40B8C7B8)](https://wwwext.amgen.com/)
 
 * 
