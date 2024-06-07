@@ -27,9 +27,9 @@
     
     [Fitbit Charge 6](https://www.fitbit.com/global/en-ca/products/trackers/charge6)
     
-    [](https://www.fitbit.com/global/in/products/smartwatches/sense2)
+    [](https://www.fitbit.com/global/en-ca/products/smartwatches/sense2)
     
-    [Fitbit Sense 2](https://www.fitbit.com/global/in/products/smartwatches/sense2)
+    [Fitbit Sense 2](https://www.fitbit.com/global/en-ca/products/smartwatches/sense2)
     
     [](https://www.fitbit.com/global/en-ca/products/accessories)
     
