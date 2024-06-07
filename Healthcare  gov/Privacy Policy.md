@@ -598,14 +598,10 @@ Updated: October 19, 2023
 Resources
 ---------
 
-* [About the Affordable Care Act](https://www.hhs.gov/healthcare/index.html)
 * [Regulatory and Policy Information](https://www.cms.gov/marketplace/about/oversight)
 * [For Navigators, Assisters & Partners](https://www.cms.gov/marketplace/in-person-assisters/information-partners)
-* [For Agents & Brokers](#https://www.cms.gov/marketplace/agents-brokers/resources)
 
-* [For the Media](#https://www.cms.gov/about-cms/contact/newsroom)
 * [For Researchers](https://www.healthcare.gov/health-and-dental-plan-datasets-for-researchers-and-issuers/)
-* [For States](#https://www.cms.gov/marketplace/states/state-marketplace-resources)
 * [Information in other languages](https://www.healthcare.gov/language-resource/)
 * [Register to vote](https://vote.gov/)
 
