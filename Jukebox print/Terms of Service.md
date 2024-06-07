@@ -212,6 +212,7 @@ EUR
     * [Wall Calendars](https://www.jukeboxprint.com/custom-calendars)
     * [Banners](https://www.jukeboxprint.com/custom-printed-banners)
     * [Catalogs](https://www.jukeboxprint.com/catalog-printing)
+    * [Custom Buttons](https://www.jukeboxprint.com/custom-buttons)
     
     Information[#### Custom Coasters](https://www.jukeboxprint.com/custom-coasters)[Both functional and valuable, custom coasters are a great way to promote your brand while protecting any surface. The perfect addition to any network event or conference and an excellent staple for any bar or restaurant.](https://www.jukeboxprint.com/custom-coasters)
     
@@ -244,6 +245,8 @@ EUR
     Information[#### Custom Wall Calendars](https://www.jukeboxprint.com/custom-calendars)[Whether for clients, friends, or family, a custom wall calendar is a thoughtful and practical gift that keeps giving all year long. This stylish calendar layout is produced with high-quality paper and hangars in various colors.](https://www.jukeboxprint.com/custom-calendars)
     
     Information[#### Catalog Printing](https://www.jukeboxprint.com/catalog-printing)[Crafted for excellence, our custom catalogs boast the highest quality and cater to large quantities.](https://www.jukeboxprint.com/catalog-printing)
+    
+    Information[#### Custom Buttons](https://www.jukeboxprint.com/custom-buttons)[Elevate your brand with custom buttons. Available in super gloss or matte finishes with a fast turnaround of just 1 business day. Get noticed with style.](https://www.jukeboxprint.com/custom-buttons)
     
 * [Invitations & Stationery](#)
 * * [Greeting Cards](https://www.jukeboxprint.com/greeting-cards)
