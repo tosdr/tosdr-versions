@@ -376,21 +376,21 @@ Last Updated: Feb 23, 2024
     
     [Intermittent fasting with protein pacing trumps calorie restriction in gut health and weight loss](https://www.news-medical.net/news/20240602/Intermittent-fasting-with-protein-pacing-trumps-calorie-restriction-in-gut-health-and-weight-loss.aspx)
     
-* [![After grilling an NIH scientist over covid emails, Congress turns to Anthony Fauci](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240531/After-grilling-an-NIH-scientist-over-covid-emails-Congress-turns-to-Anthony-Fauci.aspx)
-    
-    [After grilling an NIH scientist over covid emails, Congress turns to Anthony Fauci](https://www.news-medical.net/news/20240531/After-grilling-an-NIH-scientist-over-covid-emails-Congress-turns-to-Anthony-Fauci.aspx)
-    
 * [![Garlic proves potent in reducing blood sugar and cholesterol, study reveals](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240602/Garlic-proves-potent-in-reducing-blood-sugar-and-cholesterol-study-reveals.aspx)
     
     [Garlic proves potent in reducing blood sugar and cholesterol, study reveals](https://www.news-medical.net/news/20240602/Garlic-proves-potent-in-reducing-blood-sugar-and-cholesterol-study-reveals.aspx)
     
-* [![COVID-19 associated with higher risk of erectile dysfunction](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240531/COVID-19-associated-with-higher-risk-of-erectile-dysfunction.aspx)
-    
-    [COVID-19 associated with higher risk of erectile dysfunction](https://www.news-medical.net/news/20240531/COVID-19-associated-with-higher-risk-of-erectile-dysfunction.aspx)
-    
 * [![Discovery of antibiotic lolamicin that targets deadly bacteria without harming gut microbiome](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240604/Discovery-of-antibiotic-lolamicin-that-targets-deadly-bacteria-without-harming-gut-microbiome.aspx)
     
     [Discovery of antibiotic lolamicin that targets deadly bacteria without harming gut microbiome](https://www.news-medical.net/news/20240604/Discovery-of-antibiotic-lolamicin-that-targets-deadly-bacteria-without-harming-gut-microbiome.aspx)
+    
+* [![An Arm and a Leg: Medicaid recipients struggle to stay enrolled](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240604/An-Arm-and-a-Leg-Medicaid-recipients-struggle-to-stay-enrolled.aspx)
+    
+    [An Arm and a Leg: Medicaid recipients struggle to stay enrolled](https://www.news-medical.net/news/20240604/An-Arm-and-a-Leg-Medicaid-recipients-struggle-to-stay-enrolled.aspx)
+    
+* [![Chronic caffeine intake may impact brain chemistry in Parkinson's disease](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240603/Chronic-caffeine-intake-may-impact-brain-chemistry-in-Parkinsons-disease.aspx)
+    
+    [Chronic caffeine intake may impact brain chemistry in Parkinson's disease](https://www.news-medical.net/news/20240603/Chronic-caffeine-intake-may-impact-brain-chemistry-in-Parkinsons-disease.aspx)
     
 
 [### Discover how SciY empowers scientists
@@ -429,37 +429,37 @@ In this interview, NewsMedical talks to Amanda Jones at Revvity about the strate
     
     [Sleep Onset Mechanics: Understanding the Transition from Wakefulness to Slumber](https://www.news-medical.net/health/Sleep-Onset-Mechanics-Understanding-the-Transition-from-Wakefulness-to-Slumber.aspx)
     
-* [![Excessive Nighttime Urination (Nocturnal Polyuria)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/health/Excessive-Nighttime-Urination-(Nocturnal-Polyuria).aspx)
-    
-    [Excessive Nighttime Urination (Nocturnal Polyuria)](https://www.news-medical.net/health/Excessive-Nighttime-Urination-(Nocturnal-Polyuria).aspx)
-    
 * [![Augmented Reality in Anatomy Education and Training](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/health/Augmented-Reality-in-Anatomy-Education-and-Training.aspx)
     
     [Augmented Reality in Anatomy Education and Training](https://www.news-medical.net/health/Augmented-Reality-in-Anatomy-Education-and-Training.aspx)
+    
+* [![Excessive Nighttime Urination (Nocturnal Polyuria)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/health/Excessive-Nighttime-Urination-(Nocturnal-Polyuria).aspx)
+    
+    [Excessive Nighttime Urination (Nocturnal Polyuria)](https://www.news-medical.net/health/Excessive-Nighttime-Urination-(Nocturnal-Polyuria).aspx)
     
 
 Latest News
 -----------
 
-* [![Novel PET radiotracer enables same-day imaging of gastrointestinal cancer biomarker](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240606/Novel-PET-radiotracer-enables-same-day-imaging-of-gastrointestinal-cancer-biomarker.aspx)
+* [![Targeting epigenetic enzymes in dendritic cells to improve cancer immunotherapy](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240607/Targeting-epigenetic-enzymes-in-dendritic-cells-to-improve-cancer-immunotherapy.aspx)
     
-    [Novel PET radiotracer enables same-day imaging of gastrointestinal cancer biomarker](https://www.news-medical.net/news/20240606/Novel-PET-radiotracer-enables-same-day-imaging-of-gastrointestinal-cancer-biomarker.aspx)
+    [Targeting epigenetic enzymes in dendritic cells to improve cancer immunotherapy](https://www.news-medical.net/news/20240607/Targeting-epigenetic-enzymes-in-dendritic-cells-to-improve-cancer-immunotherapy.aspx)
     
-* [![White House enlists doctors and hospitals to combat gun violence](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240606/White-House-enlists-doctors-and-hospitals-to-combat-gun-violence.aspx)
+* [![EULAR develops new classification criteria for hand osteoarthritis](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240607/EULAR-develops-new-classification-criteria-for-hand-osteoarthritis.aspx)
     
-    [White House enlists doctors and hospitals to combat gun violence](https://www.news-medical.net/news/20240606/White-House-enlists-doctors-and-hospitals-to-combat-gun-violence.aspx)
+    [EULAR develops new classification criteria for hand osteoarthritis](https://www.news-medical.net/news/20240607/EULAR-develops-new-classification-criteria-for-hand-osteoarthritis.aspx)
     
-* [![H.E.L Group extends sales and support with appointment of specialist distributors](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240606/HEL-Group-extends-sales-and-support-with-appointment-of-specialist-distributors.aspx)
+* [![UQ researchers seek to improve the pathway for people returning to work after dust lung disease diagnosis](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240607/UQ-researchers-seek-to-improve-the-pathway-for-people-returning-to-work-after-dust-lung-disease-diagnosis.aspx)
     
-    [H.E.L Group extends sales and support with appointment of specialist distributors](https://www.news-medical.net/news/20240606/HEL-Group-extends-sales-and-support-with-appointment-of-specialist-distributors.aspx)
+    [UQ researchers seek to improve the pathway for people returning to work after dust lung disease diagnosis](https://www.news-medical.net/news/20240607/UQ-researchers-seek-to-improve-the-pathway-for-people-returning-to-work-after-dust-lung-disease-diagnosis.aspx)
     
-* [![Ultrasound technology breaks blood-brain barrier for glioblastoma treatment](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240606/Ultrasound-technology-breaks-blood-brain-barrier-for-glioblastoma-treatment.aspx)
+* [![Mechanisms of aversive learning: How negative experiences shape neural circuits](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240607/Brain-Circuits-Underlying-Learning-From-Negative-Experiences.aspx)
     
-    [Ultrasound technology breaks blood-brain barrier for glioblastoma treatment](https://www.news-medical.net/news/20240606/Ultrasound-technology-breaks-blood-brain-barrier-for-glioblastoma-treatment.aspx)
+    [Mechanisms of aversive learning: How negative experiences shape neural circuits](https://www.news-medical.net/news/20240607/Brain-Circuits-Underlying-Learning-From-Negative-Experiences.aspx)
     
-* [![Researchers identify a potential metabolic target for cancer immunotherapy](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240606/Researchers-identify-a-potential-metabolic-target-for-cancer-immunotherapy.aspx)
+* [![Gene therapy trial: restored hearing in children with hereditary deafness](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240607/Gene-therapy-trial-restored-hearing-in-children-with-hereditary-deafness.aspx)
     
-    [Researchers identify a potential metabolic target for cancer immunotherapy](https://www.news-medical.net/news/20240606/Researchers-identify-a-potential-metabolic-target-for-cancer-immunotherapy.aspx)
+    [Gene therapy trial: restored hearing in children with hereditary deafness](https://www.news-medical.net/news/20240607/Gene-therapy-trial-restored-hearing-in-children-with-hereditary-deafness.aspx)
     
 
  [![NewsGuard](https://d2jx2rerrg6sh3.cloudfront.net/images/newsguard-logo.svg) ![NewsGuard 100/100 Score](https://d2jx2rerrg6sh3.cloudfront.net/images/newsguard-100.svg)](https://www.news-medical.net/medical/newsguard)
@@ -533,7 +533,7 @@ News-Medical.Net provides this medical information service in accordance with th
 
 Update Your Privacy Preferences
 
-Last Updated: Thursday 6 Jun 2024
+Last Updated: Friday 7 Jun 2024
 
 [![AZoNetwork](https://www.azonetwork.com/images/azonetwork_logo_footer_80.png)](https://www.azonetwork.com/)
 
