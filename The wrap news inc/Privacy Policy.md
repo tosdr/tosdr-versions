@@ -310,7 +310,7 @@ Subscribe Now
 Latest Magazine Issue
 ---------------------
 
-[![](https://i0.wp.com/www.thewrap.com/wp-content/uploads/2024/05/emmys-swans-cover.jpg?fit=250%2C300&ssl=1)](https://view.flipdocs.com/?ID=10004691_417824)
+[![Hoa Xuande The Sympathizer cover](https://i0.wp.com/www.thewrap.com/wp-content/uploads/2024/06/EM_060524_COVER_IR5_JV4.jpg?fit=250%2C300&ssl=1)](https://view.flipdocs.com/?ID=10004691_525105)
 
 TheWrap
 -------
