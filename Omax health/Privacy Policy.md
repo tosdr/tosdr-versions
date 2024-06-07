@@ -1,4 +1,4 @@
-![](https://www.facebook.com/tr?id=811491626833587&ev=PageView&noscript=1)          
+![](https://www.facebook.com/tr?id=811491626833587&ev=PageView&noscript=1)              
 
                    
 
@@ -305,13 +305,13 @@ Go to product page
 
 ### Let customers speak for us
 
-[3315 reviews](https://omaxhealth.com/pages/reviews)
+[3316 reviews](https://omaxhealth.com/pages/reviews)
 
 [Write a review](#)
 
 91%
 
-(3005)
+(3006)
 
 5%
 
@@ -329,7 +329,17 @@ Go to product page
 
 (49)
 
-2126
+2127
+
+S
+
+[CryoFreeze® Hemp CBD Roll-On | Extra Strength](https://omaxhealth.com/products/new-cryofreeze-cbd-roll-on-extra-strength#judgeme_product_reviews)
+
+Stephen S.
+
+**Pickleballers love this!**
+
+I am an avid pickleballer - and with the pains and stiffness that comes with age especially with this active sport - I use it a lot plus anytime I offer it to my pickleball buddies they buy it! Nothing but positive reviews
 
 K
 
@@ -350,15 +360,5 @@ Kerry A.H.
 **Miracle!**
 
 I was a sceptic. I'm an RN and nothing really worked for my severe arthritis before. A friend told me about Cryofreeze Extra Strength and I decided to try it. It works! It started petetrating within 5 minutes and is going strong 20 minutes later. I'm sold. This is effective!
-
-B
-
-[CryoFreeze® Hemp CBD Roll-On | Subscribe & Save](https://omaxhealth.com/products/cryofreeze-cbd-pain-relief-roll-on-subscribe-save#judgeme_product_reviews)
-
-B.F.
-
-**Excellent product**
-
-I’m old and have a lot of pain. This roll-on takes away the pain for several hours.
 
 Load More
