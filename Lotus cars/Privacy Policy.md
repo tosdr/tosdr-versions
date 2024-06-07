@@ -71,3 +71,5 @@ SERVICES
 [Privacy notice](https://www.lotuscars.com/en-US/privacy)[Terms and conditions](https://www.lotuscars.com/en-US/terms-conditions)
 
 United States
+
+\* These figures are target figures. The target figures are based upon simulated results for the WLTP test procedure. These figures may not reflect real life driving results, which will depend upon a number of factors including the options fitted, variations in weather, driving styles and vehicle load.
