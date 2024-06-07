@@ -186,10 +186,11 @@ Rules, guidelines & ToS
             API Reference
             
             * [Globals](https://documentation.abinteractive.net/cck/lua/api/globals/)
-            * [Callbacks](https://documentation.abinteractive.net/cck/lua/api/callbacks/)
+            * [Events](https://documentation.abinteractive.net/cck/lua/api/events/)
             * [InstancesAPI](https://documentation.abinteractive.net/cck/lua/api/instances-api/)
             * [PlayerAPI](https://documentation.abinteractive.net/cck/lua/api/player-api/)
             * [AvatarAPI](https://documentation.abinteractive.net/cck/lua/api/avatar-api/)
+            * [Lua Behaviour](https://documentation.abinteractive.net/cck/lua/api/lua-behaviour/)
             
         * [ ] 
             
@@ -198,6 +199,7 @@ Rules, guidelines & ToS
             Changelog
             
             * [r176ex1 -> r176ex2](https://documentation.abinteractive.net/cck/lua/changelog/r176ex1-r176ex2/)
+            * [r176ex2 -> r176ex3](https://documentation.abinteractive.net/cck/lua/changelog/r176ex2-r176ex3/)
             
         * [ ] 
             
@@ -209,6 +211,7 @@ Rules, guidelines & ToS
             * [Disable GO at Home](https://documentation.abinteractive.net/cck/lua/examples/instances-disable-go-in-home/)
             * [Thumbs Up Launcher](https://documentation.abinteractive.net/cck/lua/examples/player-thumbs-up-launch/)
             * [Teleport from Water](https://documentation.abinteractive.net/cck/lua/examples/player-teleport-away-from-water/)
+            * [Viewpoint Raycaster](https://documentation.abinteractive.net/cck/lua/examples/viewpoint-raycast/)
             
         * [ ] 
             
@@ -217,6 +220,7 @@ Rules, guidelines & ToS
             Recipes
             
             * [How to get Players in an Instance](https://documentation.abinteractive.net/cck/lua/recipes/getting-users/)
+            * [Listening to Events](https://documentation.abinteractive.net/cck/lua/recipes/listen-game-events/)
             
         
     * [ ]  Examples
