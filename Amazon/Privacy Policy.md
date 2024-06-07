@@ -1,6 +1,6 @@
 ![](https://amazoncustomerservice.d2.sc.omtrdc.net/b/ss/acsus-prod/1/H.25.2--NS/0)             
 
-![](//fls-na.amazon.com/1/batch/1/OP/ATVPDKIKX0DER:143-6663423-1215265:0KMW9CQ7H62APKX2M14R$uedata=s:%2Frd%2Fuedata%3Fstaticb%26id%3D0KMW9CQ7H62APKX2M14R:0)       ![](https://m.media-amazon.com/images/G/01/gno/sprites/nav-sprite-global-1x-reorg-privacy._CB587940754_.png)              
+![](//fls-na.amazon.com/1/batch/1/OP/ATVPDKIKX0DER:147-1278456-1811105:J237D07FCYVHHZHNZH0S$uedata=s:%2Frd%2Fuedata%3Fstaticb%26id%3DJ237D07FCYVHHZHNZH0S:0)       ![](https://m.media-amazon.com/images/G/01/gno/sprites/nav-sprite-global-1x-reorg-privacy._CB587940754_.png)              
 
 Skip to main content
 
@@ -9,6 +9,24 @@ Skip to main content
 Deliver to United Kingdom
 
    
+
+Amazon
+
+lens
+
+Search with any image
+
+#### Unsupported image file format.
+
+Upload a JPEG, PNG, WEBP, GIF, SVG, AVIF, BMP, ICO image file.
+
+#### Image file size is too large.
+
+Upload an image file size of 5MB or less.
+
+Drag an image here
+
+Upload an image 
 
 All
 
@@ -90,6 +108,7 @@ Thanks! While we're unable to respond directly to your feedback, we'll use this 
 * [Legal Policies](https://www.amazon.com/gp/help/customer/display.html?ref_=hp_left_v4_sib&nodeId=GWFZQ8U37JV9AUT5)
 * [Your Security](https://www.amazon.com/gp/help/customer/display.html?ref_=hp_left_v4_sib&nodeId=GYFK65F3SL8ABWQZ)
 * [Report Unsolicited Packages or Brushing Scams](https://www.amazon.com/gp/help/customer/display.html?ref_=hp_left_v4_sib&nodeId=G33XVXQPUV79Z2ZC)
+* [How do I keep my account safe and secure?](https://www.amazon.com/gp/help/customer/display.html?ref_=hp_left_v4_sib&nodeId=TiUveBhtpkJMTocQ3G)
 
 ### Quick solutions
 
@@ -202,4 +221,4 @@ Let Us Help You
 
 © 1996-2024, Amazon.com, Inc. or its affiliates
 
-![](//fls-na.amazon.com/1/batch/1/OP/ATVPDKIKX0DER:143-6663423-1215265:0KMW9CQ7H62APKX2M14R$uedata=s:%2Frd%2Fuedata%3Fnoscript%26id%3D0KMW9CQ7H62APKX2M14R:0)
+![](//fls-na.amazon.com/1/batch/1/OP/ATVPDKIKX0DER:147-1278456-1811105:J237D07FCYVHHZHNZH0S$uedata=s:%2Frd%2Fuedata%3Fnoscript%26id%3DJ237D07FCYVHHZHNZH0S:0)
