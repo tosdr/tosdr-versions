@@ -40,7 +40,7 @@ Scale easily at 90% less cost than incumbents](https://salad.com/batch)[Language
 
 Custom LLMs at low cost without sharing compute](https://salad.com/language-models)[Transcription Service
 
-The lowest priced transcription service in the market](https://salad.com/transcription-api)[Dreambooth API
+The lowest priced transcription service in the market](https://salad.com/transcription)[Dreambooth API
 
 The lowest priced Stable Diffusion finetuning API in the market](https://salad.com/dreambooth-api)
 
