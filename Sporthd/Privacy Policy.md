@@ -10,13 +10,13 @@ Current leagues
 
 [![](https://sporthd.me/images/Int. Friendly Games.png)Int. Friendly Games](#league_int._friendly games:world:football)
 
-[![](https://s2watch.me/images/nba.png)NBA](#league_nba:usa:basketball)
+[![](https://sporthd.me/images/U21 Friendly Games.png)U21 Friendly Games](#league_u21_friendly games:world:football)
 
-[![](https://s2watch.me/images/nrl.png)NRL](#league_nrl:rugby_league:rugby)
+[![](https://sporthd.me/images/Tournoi Maurice Revello, Group A.png)U23 Toulon Tournament](#league_u23_toulon tournament:world:football)
 
-[![](https://s2watch.me/images/WNBA.png)WNBA](#league_wnba:usa:basketball)
+[![](https://s2watch.me/images/rugby-union.png)United Rugby Championship](#league_united_rugby championship:rugby union:rugby)
 
-[![](https://sporthd.me/images/FIFA World Cup, Qualification CAF, Group I.png)World Championship Qual. CAF](#league_world_championship qual. caf :africa:football)
+[![](https://sporthd.me/images/FIFA World Cup, Qualification CAF, Group E.png)World Championship Qual. CAF](#league_world_championship qual. caf :africa:football)
 
 Chat
 
@@ -24,7 +24,7 @@ User saves
 
 AllLiveUpcoming
 
-June 7th, 2024
+June 8th, 2024
 
 • Etc/GMT-12
 
@@ -44,19 +44,11 @@ Canadian Grand Prix
 
 Int. Friendly Games
 
-10 matches
+9 matches
 
 •
 
 World
-
-![](https://api.sofascore1.com/api/v1/team/4705/image)
-
-Netherlands
-
-Canada
-
-![](https://api.sofascore1.com/api/v1/team/4752/image)
 
 ![](https://api.sofascore1.com/api/v1/team/4714/image)
 
@@ -130,69 +122,61 @@ Finland
 
 ![](https://api.sofascore1.com/api/v1/team/4712/image)
 
-![](https://s2watch.me/images/nba.png)
+![](https://sporthd.me/images/U21 Friendly Games.png)
 
-NBA
-
-1 matches
-
-•
-
-USA
-
-![](https://api.sofascore1.com/api/v1/team/3422/image)
-
-Boston Celtics
-
-Dallas Mavericks
-
-![](https://api.sofascore1.com/api/v1/team/3411/image)
-
-![](https://s2watch.me/images/nrl.png)
-
-NRL
+U21 Friendly Games
 
 1 matches
 
 •
 
-Rugby League
+World
 
-![](https://api.sofascore1.com/api/v1/team/4265/image)
+![](https://api.sofascore1.com/api/v1/team/6019/image)
 
-St. George Illawarra Dragons
+Austria U21
 
-Wests Tigers
+Scotland U21
 
-![](https://api.sofascore1.com/api/v1/team/4254/image)
+![](https://api.sofascore1.com/api/v1/team/6051/image)
 
-![](https://s2watch.me/images/WNBA.png)
+![](https://sporthd.me/images/Tournoi Maurice Revello, Group A.png)
 
-WNBA
+U23 Toulon Tournament
 
-2 matches
+1 matches
 
 •
 
-USA
+World
 
-![](https://api.sofascore1.com/api/v1/team/3454/image)
+![](https://api.sofascore1.com/api/v1/team/22736/image)
 
-Washington Mystics
+France U18
 
-Chicago Sky
+Korea Republic U21
 
-![](https://api.sofascore1.com/api/v1/team/35546/image)
+![](https://api.sofascore1.com/api/v1/team/517509/image)
 
-![](https://api.sofascore1.com/api/v1/team/35545/image)
+![](https://s2watch.me/images/rugby-union.png)
 
-Atlanta Dream
+United Rugby Championship
 
-New York Liberty
+1 matches
 
-![](https://api.sofascore1.com/api/v1/team/3446/image)
+•
 
-![](https://sporthd.me/images/FIFA World Cup, Qualification CAF, Group I.png)
+Rugby Union
+
+![](https://api.sofascore1.com/api/v1/team/4203/image)
+
+Munster
+
+Ospreys
+
+![](https://api.sofascore1.com/api/v1/team/8082/image)
+
+![](https://sporthd.me/images/FIFA World Cup, Qualification CAF, Group E.png)
 
 World Championship Qual. CAF
 
@@ -202,29 +186,29 @@ World Championship Qual. CAF
 
 Africa
 
-![](https://api.sofascore1.com/api/v1/team/4831/image)
+![](https://api.sofascore1.com/api/v1/team/4778/image)
 
-Mali
+Morocco
 
-Ghana
+Zambia
 
-![](https://api.sofascore1.com/api/v1/team/4764/image)
+![](https://api.sofascore1.com/api/v1/team/4720/image)
 
-![](https://api.sofascore1.com/api/v1/team/4739/image)
+![](https://api.sofascore1.com/api/v1/team/4692/image)
 
-Senegal
+Angola
 
-DR Congo
+Eswatini
 
-![](https://api.sofascore1.com/api/v1/team/4823/image)
+![](https://api.sofascore1.com/api/v1/team/4733/image)
 
-![](https://api.sofascore1.com/api/v1/team/4691/image)
+![](https://api.sofascore1.com/api/v1/team/4785/image)
 
-Algeria
+Nigeria
 
-Guinea
+South Africa
 
-![](https://api.sofascore1.com/api/v1/team/4826/image)
+![](https://api.sofascore1.com/api/v1/team/4736/image)
 
 * * *
 
