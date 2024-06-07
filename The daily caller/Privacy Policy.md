@@ -304,37 +304,37 @@ Copyright (c) 2018, The Daily Caller, Inc.
 
 TRENDING
 
-[![](/files/images/1x1.trans.gif)](https://dailycaller.com/2024/06/06/exclusive-house-republicans-demand-comms-between-cassidy-hutchinson-fani-willis-office-for-j6-investigation/ "EXCLUSIVE: House Republicans Demand Comms Between Cassidy Hutchinson, Fani Willis' Office For J6 Investigation")
+[![](/files/images/1x1.trans.gif)](https://dailycaller.com/2024/06/07/watermelon-head-dr-phil-struggles-straight-face-trump-rips-into-dem-rep-adam-schiff-clinton-russia/ "‘I Call Him Watermelon Head!’: Dr. Phil Struggles To Keep A Straight Face As Trump Rips Into Dem Rep")
 
 1
 
-[EXCLUSIVE: House Republicans Demand Comms Between Cassidy Hutchinson, Fani Willis' Office For J6 Investigation](https://dailycaller.com/2024/06/06/exclusive-house-republicans-demand-comms-between-cassidy-hutchinson-fani-willis-office-for-j6-investigation/)
+[‘I Call Him Watermelon Head!’: Dr. Phil Struggles To Keep A Straight Face As Trump Rips Into Dem Rep](https://dailycaller.com/2024/06/07/watermelon-head-dr-phil-struggles-straight-face-trump-rips-into-dem-rep-adam-schiff-clinton-russia/)
 
-Politics
+Media
 
 2
 
-[TV News Anchor Resigns After Teen Girl He Was Sexting Turns Out To Be 'Predator Hunters': REPORT](https://dailycaller.com/2024/06/05/bill-lunn-tv-news-anchor-accused-sexting-teen-girl-louisiana/)
+['Secret Weapon': MSNBC Contrib Calls For Military To Take Stand Against Trump](https://dailycaller.com/2024/06/07/secret-weapon-donny-deutsch-calls-military-take-public-stand-trump/)
 
-Media
+Elections
 
 3
 
-[ROOKE: Things Are Not Going Well For Biden On Hallowed D-Day Anniversary](https://dailycaller.com/2024/06/06/rooke-biden-d-day-anniversary/)
+[Trans Woman Makes History As The Newly-Crowned Miss Maryland USA](https://dailycaller.com/2024/06/07/trans-woman-bailey-anne-historic-win-miss-maryland-usa-pageant-eva-longoria-olivia-culpo-lgbtq/)
 
-Opinion
+Entertainment
 
 4
 
-['This Is A Blatant Lie': Fox News Anchor Hits Back With Receipts In Feud With Biden Camp](https://dailycaller.com/2024/06/06/john-roberts-biden-campaign-insulin-prices/)
+[Major Outlet Fires Unhinged Leftist Harpy, Spells Her Name Wrong On Termination Letter](https://dailycaller.com/2024/06/06/quay-the-hill-rising-briahna-joy-gray-fired/)
 
-Media
+Editorial
 
 5
 
-[Judge Orders Former Trump Advisor Steve Bannon To Report To Prison In July](https://dailycaller.com/2024/06/06/judge-orders-former-trump-advisor-steve-bannon-to-report-to-prison-in-july/)
+[EXCLUSIVE: Lawmakers Introduce Bipartisan Bill To Tackle 'Weaponized' Federal Criminal Code](https://dailycaller.com/2024/06/07/chip-roy-bipartisan-bill-federal-criminal-code/)
 
-US
+Politics
 
 [![The Daily Caller logo](/files/images/logo-white.png)](https://dailycaller.com/ "To home page")
 
@@ -421,3 +421,107 @@ Submit
 * [SUBSCRIBE](https://dailycaller.com/subscribe/)
 
 ![](https://www.facebook.com/tr?id=1660572110829759&ev=PageView&noscript=1)
+
+![](https://dailycaller.com/files/images/patriots-credit.svg)
+
+Email Address
+
+Password
+
+Sign In With Password
+
+Sign In With Google
+
+Sign In With Facebook
+
+Sign In With Apple
+
+![](https://dailycaller.com/files/images/patriots-credit.svg)
+
+Email Address
+
+Sign In
+
+![](https://dailycaller.com/files/images/patriots-credit.svg)
+
+Email Address
+
+Password
+
+Register With Password
+
+Register With Google
+
+Register With Facebook
+
+PREMIUM ARTICLE: Subscribe To Keep Reading
+
+[Continue Reading](#)
+
+Already have an account?[Login](#)
+
+[Terms & Conditions](https://dailycaller.com/footer/terms-of-use/)
+
+Your email address
+
+Sign up
+
+By subscribing you agree to our [Terms of Use](https://dailycaller.com/footer/terms-of-use)
+
+**You're signed up!**
+
+Your email address
+
+Sign up
+
+By subscribing you agree to our [Terms of Use](https://dailycaller.com/footer/terms-of-use)
+
+**You're signed up!**
+
+Your email address
+
+Sign up
+
+By subscribing you agree to our [Terms of Use](https://dailycaller.com/footer/terms-of-use)
+
+**You're signed up!**
+
+Your email address
+
+Sign up
+
+By subscribing you agree to our [Terms of Use](https://dailycaller.com/footer/terms-of-use)
+
+**You're signed up!**
+
+Your email address
+
+Sign up
+
+By subscribing you agree to our [Terms of Use](https://dailycaller.com/footer/terms-of-use)
+
+**You're signed up!**
+
+Your Email Address
+
+Sign Up
+
+By subscribing you agree to our [Terms of Use](https://dailycaller.com/footer/terms-of-use)
+
+**You're signed up!**
+
+Your email address
+
+Sign up
+
+By subscribing you agree to our [Terms of Use](https://dailycaller.com/footer/terms-of-use)
+
+**You're signed up!**
+
+Your email address
+
+Sign up
+
+By subscribing you agree to our [Terms of Use](https://dailycaller.com/footer/terms-of-use)
+
+**You're signed up!**
