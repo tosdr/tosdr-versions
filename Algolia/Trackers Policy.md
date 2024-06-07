@@ -264,6 +264,10 @@ Get the AI search that shows users what they need
 
 [Developer Hub](https://www.algolia.com/developers/)[Documentation](https://www.algolia.com/doc/)[Integrations](https://www.algolia.com/developers/integrations/)[Engineering blog](https://www.algolia.com/blog/engineering/)[Discord community](https://alg.li/discord)[API status](https://status.algolia.com/)[DocSearch](https://docsearch.algolia.com/)[For Open Source](https://www.algolia.com/for-open-source/)
 
+#### Live demos
+
+[GDPR](https://gdpr.algolia.com/)[AI Act](https://aiact.algolia.com/)
+
 #### Integrations
 
 [Salesforce Commerce Cloud B2C](https://www.algolia.com/search-solutions/salesforce-commerce-cloud/)[Shopify](https://www.algolia.com/search-solutions/shopify/)[Adobe Commerce](https://www.algolia.com/search-solutions/adobe-commerce-magento/)[Netlify](https://www.algolia.com/search-solutions/netlify/)[Commercetools](https://www.algolia.com/search-solutions/commercetools/)[BigCommerce](https://www.algolia.com/search-solutions/bigcommerce/)
