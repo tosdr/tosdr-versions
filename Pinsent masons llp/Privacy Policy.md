@@ -174,6 +174,7 @@ Please enter a search term
     * [AutoMATE - Documents automated, rapidly](https://www.pinsentmasons.com/solutions/automate)
     * [Biotech Express - biotech startup documentation](https://www.pinsentmasons.com/solutions/biotech-express)
     * [CLM Maturity Assessment - contract management maturity](https://www.pinsentmasons.com/solutions/clm-assessment)
+    * [CSRD Self Check](https://www.pinsentmasons.com/solutions/csrd-self-check)
     * [Cyturion - cyber readiness](https://www.pinsentmasons.com/solutions/cyturion)
     * [Datalis](https://www.pinsentmasons.com/solutions/datalis)
     * [Dawn Raid and Critical Incident Tools](https://www.pinsentmasons.com/solutions/dawn-raids-critical-incidents)
