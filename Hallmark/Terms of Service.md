@@ -577,7 +577,7 @@ We found suggestions
     
     [Banners & Streamers](https://www.hallmark.com/party-supplies/party-decorations/banners-and-streamers/)
     
-    [Invitations](https://www.hallmark.com/search/?cgid=%2Finvitations)
+    [Invitations](https://www.hallmark.com/cards/invitations/)
     
     [All Party Supplies](https://www.hallmark.com/party-supplies/)
     
