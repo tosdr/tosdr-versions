@@ -96,12 +96,12 @@ Trending Posts
 * ['Biden, we are your red line': The upcoming national march on DC for Palestine on June 8](https://therealnews.com/biden-we-are-your-red-line-the-upcoming-national-march-on-dc-for-palestine-on-june-8)
 * [Progressive climate scientist Claudia Sheinbaum wins Mexican presidency in landslide](https://therealnews.com/progressive-climate-scientist-claudia-sheinbaum-wins-mexican-presidency-in-landslide)
 * [‘An uprising in the making’: ‘Alberta’ chiefs say oil company’s forceful approach is an attack on treaty rights](https://therealnews.com/an-uprising-in-the-making-alberta-chiefs-say-oil-companys-forceful-approach-is-an-attack-on-treaty-rights)
-* [Pierre Poilievre’s incoming war on support for Palestine](https://therealnews.com/pierre-poilievres-incoming-war-on-support-for-palestine)
 * [CBC has whitewashed Israel’s crimes in Gaza. I saw it firsthand](https://therealnews.com/cbc-has-whitewashed-israels-crimes-in-gaza-i-saw-it-firsthand)
 * [Uni. of Toronto's People's Circle for Palestine holds for a month with community solidarity](https://therealnews.com/uni-of-torontos-peoples-circle-for-palestine-holds-for-a-month-with-community-solidarity)
-* [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
+* [Israel is exploiting Palestinians in dangerous 'e-waste' factories](https://therealnews.com/israel-is-exploiting-palestinians-in-dangerous-e-waste-factories)
+* [Pierre Poilievre’s incoming war on support for Palestine](https://therealnews.com/pierre-poilievres-incoming-war-on-support-for-palestine)
 * [University of California union’s Gaza solidarity strike spreads across campuses](https://therealnews.com/university-of-california-unions-gaza-solidarity-strike-spreads-across-campuses)
-* [Globalize the student intifada: organizers speak](https://therealnews.com/globalize-the-student-intifada-organizers-speak)
+* [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
 
 Close
 
@@ -160,12 +160,12 @@ Trending Posts
 * ['Biden, we are your red line': The upcoming national march on DC for Palestine on June 8](https://therealnews.com/biden-we-are-your-red-line-the-upcoming-national-march-on-dc-for-palestine-on-june-8)
 * [Progressive climate scientist Claudia Sheinbaum wins Mexican presidency in landslide](https://therealnews.com/progressive-climate-scientist-claudia-sheinbaum-wins-mexican-presidency-in-landslide)
 * [‘An uprising in the making’: ‘Alberta’ chiefs say oil company’s forceful approach is an attack on treaty rights](https://therealnews.com/an-uprising-in-the-making-alberta-chiefs-say-oil-companys-forceful-approach-is-an-attack-on-treaty-rights)
-* [Pierre Poilievre’s incoming war on support for Palestine](https://therealnews.com/pierre-poilievres-incoming-war-on-support-for-palestine)
 * [CBC has whitewashed Israel’s crimes in Gaza. I saw it firsthand](https://therealnews.com/cbc-has-whitewashed-israels-crimes-in-gaza-i-saw-it-firsthand)
 * [Uni. of Toronto's People's Circle for Palestine holds for a month with community solidarity](https://therealnews.com/uni-of-torontos-peoples-circle-for-palestine-holds-for-a-month-with-community-solidarity)
-* [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
+* [Israel is exploiting Palestinians in dangerous 'e-waste' factories](https://therealnews.com/israel-is-exploiting-palestinians-in-dangerous-e-waste-factories)
+* [Pierre Poilievre’s incoming war on support for Palestine](https://therealnews.com/pierre-poilievres-incoming-war-on-support-for-palestine)
 * [University of California union’s Gaza solidarity strike spreads across campuses](https://therealnews.com/university-of-california-unions-gaza-solidarity-strike-spreads-across-campuses)
-* [Globalize the student intifada: organizers speak](https://therealnews.com/globalize-the-student-intifada-organizers-speak)
+* [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
 
 [Skip to content](#main)
 
@@ -349,12 +349,12 @@ Trending Posts
 * ['Biden, we are your red line': The upcoming national march on DC for Palestine on June 8](https://therealnews.com/biden-we-are-your-red-line-the-upcoming-national-march-on-dc-for-palestine-on-june-8)
 * [Progressive climate scientist Claudia Sheinbaum wins Mexican presidency in landslide](https://therealnews.com/progressive-climate-scientist-claudia-sheinbaum-wins-mexican-presidency-in-landslide)
 * [‘An uprising in the making’: ‘Alberta’ chiefs say oil company’s forceful approach is an attack on treaty rights](https://therealnews.com/an-uprising-in-the-making-alberta-chiefs-say-oil-companys-forceful-approach-is-an-attack-on-treaty-rights)
-* [Pierre Poilievre’s incoming war on support for Palestine](https://therealnews.com/pierre-poilievres-incoming-war-on-support-for-palestine)
 * [CBC has whitewashed Israel’s crimes in Gaza. I saw it firsthand](https://therealnews.com/cbc-has-whitewashed-israels-crimes-in-gaza-i-saw-it-firsthand)
 * [Uni. of Toronto's People's Circle for Palestine holds for a month with community solidarity](https://therealnews.com/uni-of-torontos-peoples-circle-for-palestine-holds-for-a-month-with-community-solidarity)
-* [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
+* [Israel is exploiting Palestinians in dangerous 'e-waste' factories](https://therealnews.com/israel-is-exploiting-palestinians-in-dangerous-e-waste-factories)
+* [Pierre Poilievre’s incoming war on support for Palestine](https://therealnews.com/pierre-poilievres-incoming-war-on-support-for-palestine)
 * [University of California union’s Gaza solidarity strike spreads across campuses](https://therealnews.com/university-of-california-unions-gaza-solidarity-strike-spreads-across-campuses)
-* [Globalize the student intifada: organizers speak](https://therealnews.com/globalize-the-student-intifada-organizers-speak)
+* [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
 
 [![The Real News Network](https://i0.wp.com/therealnews.com/wp-content/uploads/2022/08/lockup-duochrome-bright-1.png?fit=3000%2C595&ssl=1)](https://therealnews.com/)
 
