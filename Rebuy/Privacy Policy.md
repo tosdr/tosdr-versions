@@ -177,9 +177,9 @@
     
     #### Featured Content
     
-    [![Revenue optimization strategies](https://www.rebuyengine.com/hubfs/Navigation/rebuy-revenue-optimization.jpg)
+    [![Merchandizing audit checklist](https://www.rebuyengine.com/hubfs/Navigation/rebuy-merchandising-audit-checklist.jpg)
     
-    #### Revenue Optimization: A Complete Guide for Ecommerce Brands](https://www.rebuyengine.com/blog/revenue-optimization-guide)
+    #### Free Merchandising Audit Checklist: Learn How to Optimize Revenue and Set New Sales Records!](https://www.rebuyengine.com/tools/merchandising-audit-checklist?website_utm_page=navigation&website_utm_section=featured-content&website_utm_cta=free-merchandising-audit-checklist&website_utm_test=merchandising-audit)
     
 
 * [Log In](https://rebuyengine.com/admin/login/)
