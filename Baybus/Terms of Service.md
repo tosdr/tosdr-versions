@@ -102,10 +102,7 @@ To
     Now until Mon 02 Sept 06:00 am](https://www.baybus.co.nz/latest-updates/service-updates/detour-bus-stop-closures-route-814a-long-term-closure-of-st-andrews-drive-roundabout/)
 * [##### Detour Routes 62 & 71 - Closure of Bellevue Road (between Sutherland Road & Waihi Road)
     
-    Now until Tue 11 Jun 05:00 pm](https://www.baybus.co.nz/latest-updates/service-updates/detour-routes-62-71-closure-of-bellevue-road-between-sutherland-road-waihi-road/)
-* [##### Detour Route CT - Closure of Maunganui Road Southbound (between Concord Avenue & Bayfair Roundabout)
-    
-    Until 05:00 am Today](https://www.baybus.co.nz/latest-updates/service-updates/detour-route-ct-closure-of-maunganui-road-southbound-between-concord-avenue-bayfair-roundabout/)
+    Now until Fri 14 Jun 05:00 pm](https://www.baybus.co.nz/latest-updates/service-updates/detour-routes-62-71-closure-of-bellevue-road-between-sutherland-road-waihi-road/)
 * [##### Detour Routes 40, 704A, 720, 804A, 811, 901A, 901B, 902, 904A - Closure of Waitaha Road (with temporary stops in place on Welcome Bay Road)
     
     Now until Mon 10 Jun 06:00 am](https://www.baybus.co.nz/latest-updates/service-updates/detour-routes-40-704a-720-804a-811-901a-901b-902-904a-closure-of-waitaha-road-with-temporary-stops-in-place-on-welcome-bay-road/)
