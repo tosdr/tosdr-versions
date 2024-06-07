@@ -525,9 +525,9 @@ Weitere Informationen zu Umfang und Zweck der Datenverarbeitung durch INFOnline 
 
 ### [NachDenkSeiten im Gespräch](https://www.youtube.com/playlist?list=PLpNi0Wmi7L80YYabA3qOGKP8ZporDTlRA)
 
-[![Florian Warweg im Gespräch mit Gabriele Gysi: „Die Macht muss hinterfragt werden“](https://www.nachdenkseiten.de/wp-content/uploads/2024/01/24016-Gysi-warweg.jpg "Florian Warweg im Gespräch mit Gabriele Gysi: „Die Macht muss hinterfragt werden“")](https://www.nachdenkseiten.de/?p=109563)
+[![Gespräch zwischen Willy Wimmer und Albrecht Müller](https://www.nachdenkseiten.de/wp-content/uploads/2023/02/230223-Willy-Wimmer-Gespraech-NDS-Cover-YTButton-e1677154751138.jpg "Gespräch zwischen Willy Wimmer und Albrecht Müller")](https://www.nachdenkseiten.de/?p=94202)
 
-* [Florian Warweg im Gespräch mit Gabriele Gysi: „Die Macht muss hinterfragt werden“](https://www.nachdenkseiten.de/?p=109563)
+* [Gespräch zwischen Willy Wimmer und Albrecht Müller](https://www.nachdenkseiten.de/?p=94202)
 * [Videoangebot der NachDenkSeiten](https://www.nachdenkseiten.de/?page_id=47509)
 
 ![Albrecht Müller: Glaube wenig. Hinterfrage alles. Denke selbst.](https://www.nachdenkseiten.de/wp-content/uploads/2022/05/220510-glaube.jpg "Albrecht Müller: Glaube wenig. Hinterfrage alles. Denke selbst.")
@@ -542,12 +542,12 @@ Weitere Informationen zu Umfang und Zweck der Datenverarbeitung durch INFOnline 
 
 ### Wichtige Artikel
 
-* [Angriff auf das Atomraketen-Frühwarnsystem Russlands und das Desinteresse der Bundesregierung](https://www.nachdenkseiten.de/?p=115950)
-* [Mit „Hurra“ in die Selbstzerstörung – NATO eskaliert massiv und deutsche Medien ziehen mit](https://www.nachdenkseiten.de/?p=115835)
-* [Wir sind Ukraine!](https://www.nachdenkseiten.de/?p=115941)
-* [„Echte Liebe“ für blutiges Geld](https://www.nachdenkseiten.de/?p=115898)
-* [Exklusive Einblicke in die fragwürdige Finanzierung und Förderung der Grünen-nahen LibMod-Denkfabrik](https://www.nachdenkseiten.de/?p=115823)
-* [„Die Bahn ist zu einem Betrugskonzern mutiert“](https://www.nachdenkseiten.de/?p=115816)
+* [GRÜNFDPSPDCDU – Keine Stimme für die parteiübergreifende „Kriegspartei“](https://www.nachdenkseiten.de/?p=116229)
+* [Die Lügen der Kriegstreiber](https://www.nachdenkseiten.de/?p=116099)
+* [Auftritt von Pistorius: Deutsche Politiker, die unsere Söhne und Töchter in den Kriegstod führen](https://www.nachdenkseiten.de/?p=116326)
+* [Regierungserklärung von Bundeskanzler Scholz: Verkürzungen und Verzerrungen der Realität](https://www.nachdenkseiten.de/?p=116298)
+* [Habecks „Retourkutsche“ gegen die CDU offenbart einmal mehr die vollkommene Ahnungslosigkeit unseres Wirtschaftsministers](https://www.nachdenkseiten.de/?p=116208)
+* [Ohne Personal ist jede Kita schlecht!](https://www.nachdenkseiten.de/?p=116218)
 
 ### Audioangebot
 
