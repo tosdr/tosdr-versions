@@ -93,6 +93,10 @@ Search
     
     Featured Products[view all](https://www.adafruit.com/featured)
     
+    ![Adafruit MetroX Classic Kit - Experimentation Kit for Metro 328 with lots of components, and booklet](https://cdn-shop.adafruit.com/230x173/170-04.jpg)[Adafruit MetroX Classic Kit - Experimentation Kit for Metro 328
+    
+    $84.95](https://www.adafruit.com/product/170)
+    
     ![Angled shot of black, rectangular doubler prototyping board.](https://cdn-shop.adafruit.com/230x173/5906-00.jpg)[Adafruit Proto Doubler PiCowbell for Pico and PicoW
     
     $7.50](https://www.adafruit.com/product/5906)
@@ -104,10 +108,6 @@ Search
     ![Overhead shot of TFT driver board connected to a round TFT display, which says, "Hello world!"](https://cdn-shop.adafruit.com/230x173/5800-06.jpg)[Adafruit Qualia ESP32-S3 for TTL RGB-666 Displays
     
     $19.95](https://www.adafruit.com/product/5800)
-    
-    ![Angled shot of black, credit-card-sized development board.](https://cdn-shop.adafruit.com/230x173/5786-00.jpg)[Adafruit Metro RP2040
-    
-    $14.95](https://www.adafruit.com/product/5786)
     
 * [Gift Ideas](https://www.adafruit.com/explore)
 * [What's New](https://www.adafruit.com/new)
@@ -402,9 +402,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ A late game is only late until it ships. A bad game is bad until the end of time”
+“ Get as much education as you can. Nobody can take that away from you”
 
-[Shigeru Miyamoto](http://en.wikipedia.org/wiki/Shigeru_Miyamoto)
+[Eben Upton](http://lifehacker.com/5978324/im-eben-upton-executive-director-of-the-raspberry-pi-foundation-and-this-is-how-i-work)
 
 [](https://www.adafruit.com/about)
 
