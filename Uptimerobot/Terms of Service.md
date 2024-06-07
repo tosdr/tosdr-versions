@@ -1,4 +1,4 @@
-The following terms and conditions govern all use of the UptimeRobot products (Web App and iOS/Android mobile apps) and all content, services and products available at or through the website or mobile apps. The products are owned and operated by Uptime Robot Service Provider Ltd. ("UptimeRobot" -a trademark of the company-). The products are offered subject to your acceptance without modification of all of the terms and conditions contained herein and all other operating rules, policies (including, without limitation [UptimeRobot's Privacy Policy](https://uptimerobot.com/privacy)) and procedures that may be published from time to time on this Site by UptimeRobot (collectively, the "Agreement").
+The following terms and conditions govern all use of the UptimeRobot products (Web App and iOS/Android mobile apps) and all content, services and products available at or through the website or mobile apps. The products are owned and operated by Uptime Robot s. r. o. ("UptimeRobot" -a trademark of the company-). The products are offered subject to your acceptance without modification of all of the terms and conditions contained herein and all other operating rules, policies (including, without limitation [UptimeRobot's Privacy Policy](https://uptimerobot.com/privacy)) and procedures that may be published from time to time on this Site by UptimeRobot (collectively, the "Agreement").
 
 Please read this Agreement carefully before accessing or using the products. By accessing or using any part of the products, you agree to become bound by the terms and conditions of this agreement. If you do not agree to all the terms and conditions of this agreement, then you may not access the products or use any services. If these terms and conditions are considered an offer by UptimeRobot, acceptance is expressly limited to these terms.
 
@@ -120,6 +120,7 @@ Content of Terms
 
 **Changelog:**
 
+* _May 23, 2024:_ Updated UptimeRobot company details.
 * _August 22, 2023:_ Updated Affiliate Program.
 * _May 31, 2023:_ Updated Services Provided, Payment and Renewal, Delivery Policy, Minimal Hardware and Software Requirements, Advertisements.
 * _December 19, 2022:_ Updated Payment and Renewal.
@@ -136,9 +137,9 @@ Content of Terms
 
 **This service is provided by:**
 
-Uptime Robot Service Provider Ltd.  
-Regent House, Office 21, Bisazza Street,  
-Sliema SLM1640,  
-Malta  
-Registered at Malta (No: C 76087)  
-VAT ID: MT23446212
+Uptime Robot s. r. o.  
+Obchodná 507/2, Bratislava – mestská časť Staré Mesto, 811 06, Slovak Republic,  
+Registered in the Commercial Register maintained by the Municipal Court Bratislava III,  
+Section: Sro, Insert No.: 177536/B (No: C 76087)  
+ID: 561 73 067  
+VAT ID: SK2122231749
