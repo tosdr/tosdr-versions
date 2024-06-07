@@ -117,35 +117,9 @@ Security
 * [Cyber Insurance](https://www.tenable.com/cyber-insurance)
 * [IT / OT](https://www.tenable.com/solutions/it-ot)
 * [Ransomware](https://www.tenable.com/solutions/ransomware)
-* [Zero Trust](https://www.tenable.com/solutions/zero-trust)
-
-##### Exposure Management
-
-* * *
-
-* [Cybersecurity Data Visualization](https://www.tenable.com/products/tenable-one/lumin-exposure-view)
-* [Attack Path Analysis](https://www.tenable.com/products/tenable-one/attack-path-analysis)
-* [Exposure Management](https://www.tenable.com/exposure-management)
-* [Generative AI](https://www.tenable.com/solutions/exposure-ai)
-
-##### Cloud Security
-
-* * *
-
-* [KSPM](https://www.tenable.com/cloud-security/solutions/kspm)
-* [CSPM](https://www.tenable.com/cloud-security/solutions/cspm)
-* [Hybrid Cloud Security](https://www.tenable.com/cloud-security/solutions/hybrid-cloud)
-* [AWS](https://www.tenable.com/cloud-security/solutions/aws)
-* [AZURE](https://www.tenable.com/cloud-security/solutions/azure)
-* [Google Cloud](https://www.tenable.com/cloud-security/solutions/gcp)
-
-##### Vulnerability Management
-
-* * *
-
-* [Legacy vs Risk-based VM Comparison](https://www.tenable.com/solutions/risk-based-vulnerability-management)
-* [Vulnerability Management](https://www.tenable.com/solutions/vulnerability-management)
 * [Vulnerability Assessment](https://www.tenable.com/solutions/vulnerability-assessment)
+* [Vulnerability Management](https://www.tenable.com/solutions/vulnerability-management)
+* [Zero Trust](https://www.tenable.com/solutions/zero-trust)
 
 ##### Industry
 
@@ -158,24 +132,24 @@ Security
 * [Oil & Gas](https://www.tenable.com/solutions/oil-and-gas)
 * [More Industries](https://www.tenable.com/solutions#industries)
 
+##### Compliance
+
+* * *
+
+* [Critical Infrastructure Regulations](https://www.tenable.com/cybersecurity-regulations)
+* [FISMA](https://www.tenable.com/solutions/fisma)
+* [HIPAA](https://www.tenable.com/solutions/hipaa-compliance)
+* [NERC CIP](https://www.tenable.com/solutions/nerc-cip)
+* [NIS Directive](https://www.tenable.com/solutions/nis-directive-compliance)
+* [PCI](https://www.tenable.com/solutions/pci-dss)
+* [Security Frameworks](https://www.tenable.com/solutions/security-frameworks)
+
 ##### Public Sector
 
 * * *
 
 * [State / Local / Education](https://www.tenable.com/solutions/sled)
 * [US Federal](https://www.tenable.com/solutions/government/us-fed)
-
-##### Compliance
-
-* * *
-
-* [PCI](https://www.tenable.com/solutions/pci-dss)
-* [NERC CIP](https://www.tenable.com/solutions/nerc-cip)
-* [FISMA](https://www.tenable.com/solutions/fisma)
-* [HIPAA](https://www.tenable.com/solutions/hipaa-compliance)
-* [NIS Directive](https://www.tenable.com/solutions/nis-directive-compliance)
-* [Security Frameworks](https://www.tenable.com/solutions/security-frameworks)
-* [Critical Infrastructure Regulations](https://www.tenable.com/cybersecurity-regulations)
 
 [View All Solutions](https://www.tenable.com/solutions/)
 
@@ -341,42 +315,27 @@ Tenable is named a leading force in vulnerability management and top ranked amon
         * [Cyber Insurance](https://www.tenable.com/cyber-insurance)
         * [IT / OT](https://www.tenable.com/solutions/it-ot)
         * [Ransomware](https://www.tenable.com/solutions/ransomware)
-        * [Zero Trust](https://www.tenable.com/solutions/zero-trust)
-    * Exposure Management
-        * [Cybersecurity Data Visualization](https://www.tenable.com/products/tenable-one/lumin-exposure-view)
-        * [Attack Path Analysis](https://www.tenable.com/products/tenable-one/attack-path-analysis)
-        * [Exposure Management](https://www.tenable.com/exposure-management)
-        * [Generative AI](https://www.tenable.com/solutions/exposure-ai)
-    * Cloud Security
-        * [Compliance (CSPM/KSPM)](https://www.tenable.com/cloud-security/solutions/cspm)
-        * [Cloud Migrations](https://www.tenable.com/cloud-security/solutions/cloud-migrations-management)
-        * [Cloud Native Security](https://www.tenable.com/cloud-security/products/cloud-native-application-protection-platform)
-        * [Hybrid Cloud Security](https://www.tenable.com/cloud-security/solutions/hybrid-cloud)
-        * [AWS](https://www.tenable.com/cloud-security/solutions/aws)
-        * [AZURE](https://www.tenable.com/cloud-security/solutions/azure)
-        * [Google Cloud](https://www.tenable.com/cloud-security/solutions/gcp)
-    * Vulnerability Management
-        * [Legacy vs Risk-based VM Comparison](https://www.tenable.com/solutions/risk-based-vulnerability-management)
-        * [Vulnerability Management](https://www.tenable.com/solutions/vulnerability-management)
         * [Vulnerability Assessment](https://www.tenable.com/solutions/vulnerability-assessment)
-    * Industry
+        * [Vulnerability Management](https://www.tenable.com/solutions/vulnerability-management)
+        * [Zero Trust](https://www.tenable.com/solutions/zero-trust)
+    * Industries
         * [Automotive Manufacturing](https://www.tenable.com/solutions/automotive-manufacturing)
         * [Energy](https://www.tenable.com/solutions/energy)
         * [Finance](https://www.tenable.com/solutions/finance)
         * [Healthcare](https://www.tenable.com/solutions/healthcare)
         * [Oil & Gas](https://www.tenable.com/solutions/oil-and-gas)
         * [More Industries](https://www.tenable.com/solutions#industries)
+    * Compliance
+        * [Critical Infrastructure Regulations](https://www.tenable.com/cybersecurity-regulations)
+        * [FISMA](https://www.tenable.com/solutions/fisma)
+        * [HIPAA](https://www.tenable.com/solutions/hipaa-compliance)
+        * [NERC CIP](https://www.tenable.com/solutions/nerc-cip)
+        * [NIS Directive](https://www.tenable.com/solutions/nis-directive-compliance)
+        * [PCI](https://www.tenable.com/solutions/pci-dss)
+        * [Security Frameworks](https://www.tenable.com/solutions/security-frameworks)
     * Public Sector
         * [State / Local / Education](https://www.tenable.com/solutions/sled)
         * [US Federal](https://www.tenable.com/solutions/government/us-fed)
-    * Compliance
-        * [PCI](https://www.tenable.com/solutions/pci-dss)
-        * [NERC CIP](https://www.tenable.com/solutions/nerc-cip)
-        * [FISMA](https://www.tenable.com/solutions/fisma)
-        * [HIPAA](https://www.tenable.com/solutions/hipaa-compliance)
-        * [NIS Directive](https://www.tenable.com/solutions/nis-directive-compliance)
-        * [Security Frameworks](https://www.tenable.com/solutions/security-frameworks)
-        * [Critical Infrastructure Regulations](https://www.tenable.com/cybersecurity-regulations)
     * [View All Solutions](https://www.tenable.com/solutions/)
 * Resources
     * Resources
