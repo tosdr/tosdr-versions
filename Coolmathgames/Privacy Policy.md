@@ -1,7 +1,5 @@
 [Skip to Top of Page](https://www.coolmathgames.com/body) [Skip to Navigation](https://www.coolmathgames.com/nav) [Skip to Main Content](#main-content) [Skip to Footer](https://www.coolmathgames.com/footer)
 
-![coolmath logo](/pwa/images/icon-72x72.png)\+ Add to home screen![Close](/themes/custom/coolmath/assets/svg/close.svg)
-
 [![Home](/themes/custom/coolmath/logo-small-stacked.svg)](https://www.coolmathgames.com/ "Home")
 
 * [Strategy](https://www.coolmathgames.com/1-strategy-games)
