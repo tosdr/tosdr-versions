@@ -5,7 +5,7 @@
 Politics and War is created in English, but we offer a translation option to translate the game into your preferred language. Please note that the translation is automatic based on Google's neural translation and not perfect, but our goal is to make the game as accessible as possible for all players.
 
 [![English](//gtranslate.net/flags/blank.png)](# "English")[![Chinese (Traditional)](//gtranslate.net/flags/blank.png)](# "Chinese (Traditional)")[![Danish](//gtranslate.net/flags/blank.png)](# "Danish")[![Dutch](//gtranslate.net/flags/blank.png)](# "Dutch")[![French](//gtranslate.net/flags/blank.png)](# "French")[![German](//gtranslate.net/flags/blank.png)](# "German")[![Hindi](//gtranslate.net/flags/blank.png)](# "Hindi")[![Italian](//gtranslate.net/flags/blank.png)](# "Italian")[![Norwegian](//gtranslate.net/flags/blank.png)](# "Norwegian")[![Portuguese](//gtranslate.net/flags/blank.png)](# "Portuguese")[![Russian](//gtranslate.net/flags/blank.png)](# "Russian")[![Spanish](//gtranslate.net/flags/blank.png)](# "Spanish")[![Filipino](//gtranslate.net/flags/blank.png)](# "Filipino")[![Bengali](//gtranslate.net/flags/blank.png)](# "Bengali")[![Javanese](//gtranslate.net/flags/blank.png)](# "Javanese")   
-Select LanguageEnglishArabicBulgarianChinese (Simplified)Chinese (Traditional)CroatianCzechDanishDutchFinnishFrenchGermanGreekHindiItalianJapaneseKoreanNorwegianPolishPortugueseRomanianRussianSpanishSwedishFilipinoHebrewIndonesianLatvianLithuanianUkrainianTurkishIcelandicArmenianBengaliJavaneseNepaliPunjabiEsperantoGeorgian
+Select Language English Arabic Armenian Bengali Bulgarian Chinese (Simplified) Chinese (Traditional) Croatian Czech Danish Dutch Esperanto Filipino Finnish French Georgian German Greek Hindi Hebrew Icelandic Indonesian Italian Japanese Javanese Korean Latvian Lithuanian Nepali Norwegian Polish Portuguese Punjabi Romanian Russian Spanish Swedish Turkish Ukrainian Vietnamese
 
 **Note:** This popup will not appear again. If you wish to change your language in the future you will be able to find this language selection option in the website footer or on the [Account Page](https://politicsandwar.com/account).
 
@@ -30,14 +30,14 @@ World[* Nations](https://politicsandwar.com/nations/)[* Alliances](https://polit
 Community[* Forum](https://forum.politicsandwar.com/)[* Discord](https://discord.gg/H9XnGxc)[* Wiki](https://politicsandwar.fandom.com/wiki/Politics_and_War_Wiki)[* Reddit](https://reddit.com/r/politicsandwar)[* Test Server](https://test.politicsandwar.com/)
 
 Orbis Date  
-November 14, 2100  
+November 25, 2100  
   
 Server Time  
-June 6 05:12 pm  
-Next turn in **0:48**  
+June 7 02:30 pm  
+Next turn in **1:30**  
   
 Players Online Now  
-173
+190
 
 Privacy Policy
 ==============
@@ -226,7 +226,7 @@ Close
 
 [Privacy Policy](https://politicsandwar.com/privacy/)
 
-Server Execution Time: 0.009s
+Server Execution Time: 0.008s
 
 [Discord](https://discord.gg/H9XnGxc)
 
@@ -239,4 +239,4 @@ Server Execution Time: 0.009s
 Select Language / Select Language
 
 [![English](//gtranslate.net/flags/blank.png)](# "English")[![Chinese (Traditional)](//gtranslate.net/flags/blank.png)](# "Chinese (Traditional)")[![Danish](//gtranslate.net/flags/blank.png)](# "Danish")[![Dutch](//gtranslate.net/flags/blank.png)](# "Dutch")[![French](//gtranslate.net/flags/blank.png)](# "French")[![German](//gtranslate.net/flags/blank.png)](# "German")[![Hindi](//gtranslate.net/flags/blank.png)](# "Hindi")[![Italian](//gtranslate.net/flags/blank.png)](# "Italian")[![Norwegian](//gtranslate.net/flags/blank.png)](# "Norwegian")[![Portuguese](//gtranslate.net/flags/blank.png)](# "Portuguese")[![Russian](//gtranslate.net/flags/blank.png)](# "Russian")[![Spanish](//gtranslate.net/flags/blank.png)](# "Spanish")[![Filipino](//gtranslate.net/flags/blank.png)](# "Filipino")[![Bengali](//gtranslate.net/flags/blank.png)](# "Bengali")[![Javanese](//gtranslate.net/flags/blank.png)](# "Javanese")   
-Select LanguageEnglishArabicBulgarianChinese (Simplified)Chinese (Traditional)CroatianCzechDanishDutchFinnishFrenchGermanGreekHindiItalianJapaneseKoreanNorwegianPolishPortugueseRomanianRussianSpanishSwedishFilipinoHebrewIndonesianLatvianLithuanianUkrainianTurkishIcelandicArmenianBengaliJavaneseNepaliPunjabiEsperantoGeorgian
+Select Language English Arabic Armenian Bengali Bulgarian Chinese (Simplified) Chinese (Traditional) Croatian Czech Danish Dutch Esperanto Filipino Finnish French Georgian German Greek Hindi Hebrew Icelandic Indonesian Italian Japanese Javanese Korean Latvian Lithuanian Nepali Norwegian Polish Portuguese Punjabi Romanian Russian Spanish Swedish Turkish Ukrainian Vietnamese
