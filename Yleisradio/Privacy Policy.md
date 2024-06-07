@@ -15,6 +15,9 @@ Pinnalla nyt
 * [Venäjän hyökkäys](https://yle.fi/t/18-334977/fi)
 * [Vaalikone](https://vaalit.yle.fi/vaalikone/eurovaalit2024)
 * [Futistietäjä](https://yle.fi/a/74-20087576)
+* [Jalkapallon EM](https://yle.fi/t/18-247479/fi)
+* [Yleisurheilun EM](https://yle.fi/a/74-20092753)
+* [Kisapähkinä](https://yle.fi/a/74-20092378)
 * [Eurovaalit](https://yle.fi/t/18-354742/fi)
 * [Pesälive](https://yle.fi/a/74-20084002)
 
