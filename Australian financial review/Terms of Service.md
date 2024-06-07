@@ -333,43 +333,44 @@ Advertise
 [BOSS Financial Review](https://www.afr.com/boss)
 -------------------------------------------------
 
-[![Nathan Damm is one of four AI prompt engineers at KPMG. ](https://static.ffx.io/images/$zoom_0.4771%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_943%2C$y_130/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/e87ebc8c8437ff54b7e2881ee8b2bc3b65da9cfd)](https://www.afr.com/work-and-careers/workplace/why-kpmg-employs-four-full-time-prompt-engineers-20240503-p5fonu)
+[![Mark Cubit at The School of St Jude in Tanzania.](https://static.ffx.io/images/$zoom_0.3535%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_762%2C$y_115/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/ff91a9b88b66aae2e44a2755931362b45db7d119)](https://www.afr.com/work-and-careers/leaders/these-high-flyers-have-money-and-status-this-is-what-they-did-next-20240524-p5jgd3)
 
-### [Why KPMG employs four full-time ‘prompt engineers’](https://www.afr.com/work-and-careers/workplace/why-kpmg-employs-four-full-time-prompt-engineers-20240503-p5fonu)
+### [These high flyers have money and status. This is what they did next](https://www.afr.com/work-and-careers/leaders/these-high-flyers-have-money-and-status-this-is-what-they-did-next-20240524-p5jgd3)
 
-* Euan Black
+* Sally Patten
 
-* ### [Olympian Grant Hackett’s rise from rock bottom to top 500 CEO](https://www.afr.com/companies/financial-services/olympian-grant-hackett-s-rise-from-rock-bottom-to-top-500-ceo-20240523-p5jg3r)
+* ### [Why KPMG employs four full-time ‘prompt engineers’](https://www.afr.com/work-and-careers/workplace/why-kpmg-employs-four-full-time-prompt-engineers-20240503-p5fonu)
     
-* ### [How Geoff Wilson assembled his investment dream team](https://www.afr.com/work-and-careers/workplace/how-geoff-wilson-assembled-his-investment-dream-team-20240510-p5jcnn)
+* ### [Olympian Grant Hackett’s rise from rock bottom to top 500 CEO](https://www.afr.com/companies/financial-services/olympian-grant-hackett-s-rise-from-rock-bottom-to-top-500-ceo-20240523-p5jg3r)
     
 
 [Life & Leisure](https://www.afr.com/life-and-leisure)
 ------------------------------------------------------
 
-[![Adam Poole on the set of ‘The Lisbon Traviata’ at the Garrick Theatre in Perth.](https://static.ffx.io/images/$zoom_0.3876%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_1118%2C$y_838/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/97e934cf96a32f845fb96339a0da7fec32f3e206)](https://www.afr.com/life-and-luxury/health-and-wellness/juggling-your-day-job-with-a-hobby-after-hours-this-exec-pulls-it-off-20240529-p5jhj8)
+[![ ](https://static.ffx.io/images/$zoom_0.132%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_102/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/c832a123c3feaeb81acba89a71d4c526d8efa5b4)](https://www.afr.com/life-and-luxury/fashion-and-style/this-week-s-edit-of-little-luxuries-for-eco-conscious-consumers-20240528-p5jhcs)
 
-### [Juggling your day job with a hobby after hours? This exec pulls it off](https://www.afr.com/life-and-luxury/health-and-wellness/juggling-your-day-job-with-a-hobby-after-hours-this-exec-pulls-it-off-20240529-p5jhj8)
+### [This week’s edit of little luxuries for eco-conscious consumers](https://www.afr.com/life-and-luxury/fashion-and-style/this-week-s-edit-of-little-luxuries-for-eco-conscious-consumers-20240528-p5jhcs)
 
-* Life & Leisure
+* Eugenie Kelly
 
-* ### [Great escapes: Solo kayaking along Bali’s northern coastline](https://www.afr.com/life-and-luxury/travel/great-escapes-solo-kayaking-along-bali-s-northern-coastline-20240423-p5fm0c)
+* ### [Retail’s secret solution to the problem of endless returns](https://www.afr.com/life-and-luxury/fashion-and-style/retail-s-secret-solution-to-the-problem-of-endless-returns-20240424-p5fman)
     
-* ### [The new rock stars of the wine industry might surprise you](https://www.afr.com/life-and-luxury/food-and-wine/the-new-rock-stars-of-the-wine-industry-might-surprise-you-20240529-p5jhp2)
+* ### [Emma Lewisham wants to fix your skin problems (and help the planet)](https://www.afr.com/life-and-luxury/fashion-and-style/emma-lewisham-wants-to-fix-your-skin-problems-and-help-the-planet-20240409-p5fifx)
     
 
 [Rich List](https://www.afr.com/rich-list)
 ------------------------------------------
 
-[![The hotel is part of the Roche family’s Calypso Bay master-planned estate.](https://static.ffx.io/images/$zoom_0.3531%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_110/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/a714d219bf38553f1ba979e5116cc029eda30bb3)](https://www.afr.com/property/commercial/rich-listers-list-gold-coast-waterfront-tavern-20240604-p5jj5e)
+[![The Light Brigade Hotel stands at the highest point in Paddington.](https://static.ffx.io/images/$zoom_0.223%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_110/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/ef127fc11680aaeeabbcb474d07b8303518127e6)](https://www.afr.com/property/commercial/laundys-add-sydney-s-light-brigade-hotel-to-pub-empire-20240607-p5jk1w)
 
-### [Rich Listers list Gold Coast waterfront tavern](https://www.afr.com/property/commercial/rich-listers-list-gold-coast-waterfront-tavern-20240604-p5jj5e)
+### [Laundys add Sydney’s Light Brigade Hotel to pub empire](https://www.afr.com/property/commercial/laundys-add-sydney-s-light-brigade-hotel-to-pub-empire-20240607-p5jk1w)
 
+* 1 min ago
 * Larry Schlesinger
 
-* ### [Boost for Afterpay as Block drops plans for Cash App in Australia](https://www.afr.com/companies/financial-services/block-to-expand-afterpay-not-cash-app-in-australia-nick-molnar-20240604-p5jj3l)
+* ### [Laurence Escalante’s Virtual Gaming Worlds delivers monster dividend](https://www.afr.com/companies/games-and-wagering/laurence-escalante-s-virtual-gaming-worlds-delivers-monster-dividend-20240606-p5jjwj)
     
-* ### [A Young Rich Lister’s advice for founders wanting social media success](https://www.afr.com/wealth/people/a-young-rich-lister-s-advice-for-founders-wanting-social-media-success-20240530-p5ji3r)
+* ### [Rich Listers list Gold Coast waterfront tavern](https://www.afr.com/property/commercial/rich-listers-list-gold-coast-waterfront-tavern-20240604-p5jj5e)
     
 
 [The Australian Financial Review](https://www.afr.com/)
