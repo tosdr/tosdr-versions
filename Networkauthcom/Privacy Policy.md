@@ -114,7 +114,9 @@ Secure SD-WAN Products
 
 [![](https://meraki.cisco.com/wp-content/uploads/2021/12/security-lock.png)
 
-Security and SD-WAN](https://meraki.cisco.com/products/security-sd-wan/)[![](https://meraki.cisco.com/wp-content/uploads/2023/03/icon-technologies-hybrid-cloud-1.svg)
+Security and SD-WAN](https://meraki.cisco.com/products/security-sd-wan/)[![](https://meraki.cisco.com/wp-content/uploads/2024/06/icon-technologies-digital-experience-assurance.svg)
+
+Digital Experience Assurance](https://meraki.cisco.com/products/digital-experience-assurance/)[![](https://meraki.cisco.com/wp-content/uploads/2023/03/icon-technologies-hybrid-cloud-1.svg)
 
 Hybrid Cloud](https://meraki.cisco.com/products/hybrid-cloud/)[![](https://meraki.cisco.com/wp-content/uploads/2023/02/icon-technologies-unified-sase.svg)
 
@@ -300,7 +302,9 @@ Secure SD-WAN Products
 
 [![](https://meraki.cisco.com/wp-content/uploads/2021/12/security-lock.png)
 
-Security and SD-WAN](https://meraki.cisco.com/products/security-sd-wan/)[![](https://meraki.cisco.com/wp-content/uploads/2023/03/icon-technologies-hybrid-cloud-1.svg)
+Security and SD-WAN](https://meraki.cisco.com/products/security-sd-wan/)[![](https://meraki.cisco.com/wp-content/uploads/2024/06/icon-technologies-digital-experience-assurance.svg)
+
+Digital Experience Assurance](https://meraki.cisco.com/products/digital-experience-assurance/)[![](https://meraki.cisco.com/wp-content/uploads/2023/03/icon-technologies-hybrid-cloud-1.svg)
 
 Hybrid Cloud](https://meraki.cisco.com/products/hybrid-cloud/)[![](https://meraki.cisco.com/wp-content/uploads/2023/02/icon-technologies-unified-sase.svg)
 
