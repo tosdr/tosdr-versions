@@ -200,36 +200,36 @@ This document was last updated on January 1, 2014
 
 #### Defense News
 
+* [France to supply Mirage 2000-5 jets to Ukraine, train pilots](https://www.defensenews.com/air/2024/06/07/france-to-supply-mirage-2000-5-jets-to-ukraine-train-pilots/)  
+    06/06/24 08:18pm  
+    
+    A Mirage 2000-5F fighter jet takes off from an air base in France on March 13, 2022. (Sebastien Bozon/AFP via Getty Images)
+    
+* [US Air Force says it’s on verge of rapid electronic warfare updates](https://www.defensenews.com/battlefield-tech/2024/06/06/us-air-force-says-its-on-verge-of-rapid-electronic-warfare-updates/)  
+    06/06/24 02:31pm  
+    
+    U.S. Air Force Col. Joshua Koslov at Eglin Air Force Base, Florida. (Samuel King Jr/U.S. Air Force)
+    
+* [Airbus, Diehl aim at future air war with drone wingman, remote carrier](https://www.defensenews.com/global/europe/2024/06/06/airbus-diehl-aim-at-future-air-war-with-drone-wingman-remote-carrier/)  
+    06/06/24 09:41am  
+    
+    An Airbus Wingman air combat drone is on display at the 2024 ILA Berlin Air Show on June 05, 2024, in Schoenefeld, Germany. (Photo by Sean Gallup/Getty Images)
+    
 * [Germany leans into Eurofighter with new order of 20 jets](https://www.defensenews.com/global/europe/2024/06/05/germany-leans-into-eurofighter-with-new-order-of-20-jets/)  
     06/05/24 01:42pm  
     
     German Chancellor Olaf Scholz, center, walks past a Eurofighter Typhoon fighter jet as he chats with Airbus CEO Guillaume Faury, left, at the Berlin Air Show on June 5, 2024. (Sean Gallup/Getty Images)
     
-* [Proposed House spending bill would add more F-35s](https://www.defensenews.com/air/2024/06/04/proposed-house-spending-bill-would-add-more-f-35s/)  
-    06/04/24 04:40pm  
-    
-    The House Appropriations Committee's proposed defense spending bill would allow the military to buy eight more F-35 Joint Strike Fighters than it originally planned in 2025. This differs from the House's proposed National Defense Authorization Act, which would cut F-35 purchases by at least 10. (Senior Airman Zachary Rufus/Air Force)
-    
-* [For stealth bomber pilots, a new test in agility](https://www.defensenews.com/news/your-air-force/2024/06/04/for-stealth-bomber-pilots-a-new-test-in-agility/)  
-    06/04/24 07:00am  
-    
-    U.S. Air Force Maj. Bo Bateman (left), 393rd Bomb Squadron B-2 Spirit pilot, carries a grounding-cable while preparing to refuel his aircraft at Offutt Air Force Base, Neb., May 28, 2024. (Master Sgt. Kenneth W. Norman/Air Force)
-    
-* [DIU, Air Force pick four firms to prototype modular testing drone](https://www.defensenews.com/air/2024/06/03/diu-air-force-pick-four-firms-to-prototype-modular-testing-drone/)  
-    06/03/24 01:33pm  
-    
-    The Defense Innovation Unit and Air Force Armament Directorate have selected four companies to prototype a modular drone known as the Enterprise Test Vehicle. The companies working on ETV are Anduril Industries, Leidos Dynetics, Zone 5 Technologies and Integrated Solutions for Systems Inc., whose design is shown here. (Integrated Solutions for Systems Inc.)
-    
 
 Recent parts by keyword  
 
-* [C554](https://aerobasegroup.com/search/?term=C554)
-* [FMC-M](https://aerobasegroup.com/search/?term=FMC-M)
-* [PDG0377](https://aerobasegroup.com/search/?term=PDG0377)
-* [ms51849-2](https://aerobasegroup.com/search/?term=ms51849-2)
-* [PDG0326](https://aerobasegroup.com/search/?term=PDG0326)
-* [PDG0325](https://aerobasegroup.com/search/?term=PDG0325)
-* [adjustable](https://aerobasegroup.com/search/?term=adjustable)
+* [mil-i-15126](https://aerobasegroup.com/search/?term=mil-i-15126)
+* [gb511gg-12](https://aerobasegroup.com/search/?term=gb511gg-12)
+* [an500-8-4](https://aerobasegroup.com/search/?term=an500-8-4)
+* [gb511ge](https://aerobasegroup.com/search/?term=gb511ge)
+* [j1220g11](https://aerobasegroup.com/search/?term=j1220g11)
+* [gb511gg](https://aerobasegroup.com/search/?term=gb511gg)
+* [BDS3115-130DH](https://aerobasegroup.com/search/?term=BDS3115-130DH)
 
 The AeroBase Group Family ..
 
