@@ -97,6 +97,7 @@ Close
     * [Get MyRepublic App](https://myrepublic.net/sg/#mobile-app)
     * [MR Talk App](https://myrepublic.net/sg/mobile/roaming/talk/)
     * [IDD](https://myrepublic.net/sg/mobile/roaming/idd)
+    * [Cessation of 3G Services](https://intercom.help/myrepublicsg/en/articles/8956047-3g-service-ending-transition-to-4g-5g)
     
     * Huge Data Upgrade for all 4G plans!
     
@@ -397,6 +398,7 @@ Menu
 * [Get MyRepublic App](https://myrepublic.net/sg/app/)
 * [MR Talk App](https://myrepublic.net/sg/mobile/roaming/talk/)
 * [IDD](https://myrepublic.net/sg/mobile/roaming/idd)
+* [Cessation of 3G Services](https://intercom.help/myrepublicsg/en/articles/8956047-3g-service-ending-transition-to-4g-5g)
 
 Huge Data Upgrade for all 4G plans!
 -----------------------------------
