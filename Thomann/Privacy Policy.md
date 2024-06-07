@@ -20,8 +20,8 @@ Get your deals](https://www.thomann.de/gb/social_70th-anniversary.html)
 
 search  
 
-* [Repair Service](https://www.thomann.de/gb/helpdesk_repair.html)
-* [Payment Security](https://www.thomann.de/gb/helpdesk_paymentsecurity.html)
+* [3-Year Thomann Warranty](https://www.thomann.de/gb/helpdesk_warranty.html?ref=hea_gua)
+* [30-Days Money-Back](https://www.thomann.de/gb/helpdesk_moneyback.html)
 
 en · £
 
@@ -706,7 +706,7 @@ This is how you can reach us
 
 Share
 
-Twitter
+Share
 
 Email
 
