@@ -318,13 +318,13 @@ I agree to be contacted by Tax Defense Network, including calls, texts, and/or e
 Related Articles and Resources
 ------------------------------
 
-[![wife upset with husband due to irs negligence penalty](https://www.taxdefensenetwork.com/wp-content/uploads/2023/07/upset-wife-450x300.jpg)
+[![confused guy wondering if he can still get tax relief](https://www.taxdefensenetwork.com/wp-content/uploads/2024/06/confused-man-holding-computer-451x300.jpg)
+
+### Tax Season is Over. Can I Still Get Tax Relief?](https://www.taxdefensenetwork.com/blog/tax-season-is-over-can-i-still-get-tax-relief/)[![wife upset with husband due to irs negligence penalty](https://www.taxdefensenetwork.com/wp-content/uploads/2023/07/upset-wife-450x300.jpg)
 
 ### IRS Negligence Penalty: What It Is & How To Fight It](https://www.taxdefensenetwork.com/blog/irs-negligence-penalty-what-it-is-how-to-fight-it/)[![chess pieces looking in mirror wondering can you change an irs payment plan](https://www.taxdefensenetwork.com/wp-content/uploads/2023/07/change-payment-plan-562x300.jpg)
 
-### Can I Change My IRS Payment Plan?](https://www.taxdefensenetwork.com/blog/can-i-change-my-irs-payment-plan/)[![smile face picked after finding the right tax relief service](https://www.taxdefensenetwork.com/wp-content/uploads/2023/06/smiley-face-533x300.jpg)
-
-### 9 Tips For Choosing The Right Tax Relief Service](https://www.taxdefensenetwork.com/blog/9-tips-for-choosing-the-right-tax-relief-service/)
+### Can I Change My IRS Payment Plan?](https://www.taxdefensenetwork.com/blog/can-i-change-my-irs-payment-plan/)
 
 [View All Articles](https://www.taxdefensenetwork.com/blog/tag/tax-relief/)
 
