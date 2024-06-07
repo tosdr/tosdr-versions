@@ -255,13 +255,13 @@ Advertisement
 
 * ### eBaum's Picks
     
-    [![a tiny crab in an oyster](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/pictures/15-people-who-captured-something-unusual-that-they-had-to-share/85963607/) [15 People Who Captured Something They Just Had to Share](https://www.ebaumsworld.com/pictures/15-people-who-captured-something-unusual-that-they-had-to-share/85963607/)
+    [![scared straight](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/the-most-terrifying-7-seconds-of-scared-straight/85155945/) [The Most Terrifying 7 Seconds of Scared Straight](https://www.ebaumsworld.com/videos/the-most-terrifying-7-seconds-of-scared-straight/85155945/)
     
-    [![people get called out - you can only choose one, which door do you choose - time travel so i can go back to when i didn't follow this shitty account - im unvaccinated my super powers  include spreading a disease i dont have - do they make these in adult s](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/pictures/25-people-being-called-out-online/86420660/) [25 Foolish People Being Savagely Called Out Online](https://www.ebaumsworld.com/pictures/25-people-being-called-out-online/86420660/)
+    [![](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/guy-rips-a-massive-fart-after-finding-out-hes-being-charged-with-possession-of-a-firearm/87424149/) [Guy Rips a Massive Fart After Finding Out He Was Being Charged With Possession of a Firearm](https://www.ebaumsworld.com/videos/guy-rips-a-massive-fart-after-finding-out-hes-being-charged-with-possession-of-a-firearm/87424149/)
     
-    [![Kid trolls NBA dance cam](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/genius-boy-trolling-the-dance-cam-is-a-wholesome-inspiration/86098784/) [Genius Kid Baits NBA Dance Cam into Showing a Pro-Hong Kong Message](https://www.ebaumsworld.com/videos/genius-boy-trolling-the-dance-cam-is-a-wholesome-inspiration/86098784/)
+    [![19 Funny Work Memes to Laugh At Before You Clock Out](https://cdn.ebaumsworld.com/img/blank.gif)](https://trending.ebaumsworld.com/pictures/20-funny-work-memes-to-laugh-at-before-you-clock-out/87503041/) [19 Funny Work Memes to Laugh At Before You Clock Out](https://trending.ebaumsworld.com/pictures/20-funny-work-memes-to-laugh-at-before-you-clock-out/87503041/)
     
-    [![hot teacher in grey dress](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/heres-a-great-reason-to-stay-in-school/85153430/) [Here Is One Great Reason To Stay In School](https://www.ebaumsworld.com/videos/heres-a-great-reason-to-stay-in-school/85153430/)
+    [![David Grusch testifying at the UFO hearing today](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/us-air-force-officer-admits-under-oath-that-the-us-government-is-in-possession-of-ufos-and-non-human-bodies/87425768/) [US Air Force Officer Admits Under Oath That the US Government Is In Possession of UFOs and Non-Human Bodies](https://www.ebaumsworld.com/videos/us-air-force-officer-admits-under-oath-that-the-us-government-is-in-possession-of-ufos-and-non-human-bodies/87425768/)
     
 
 * Advertisement
