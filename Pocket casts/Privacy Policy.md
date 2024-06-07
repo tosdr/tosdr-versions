@@ -17,14 +17,14 @@ Search For    Search
 
 1. [Home](https://support.pocketcasts.com/) 
 2. [Knowledge Base](https://support.pocketcasts.com/knowledge-base/) 
-3. [Android](https://support.pocketcasts.com/article-categories/android/) 
-4. [Terms of Use and Privacy](https://support.pocketcasts.com/article-categories/terms-of-use-and-privacy-android/) 
+3. [iOS](https://support.pocketcasts.com/article-categories/ios/) 
+4. [Terms of Use and Privacy](https://support.pocketcasts.com/article-categories/terms-of-use-and-privacy/) 
 5. Privacy Policy  
 
 1. [Home](https://support.pocketcasts.com/) 
 2. [Knowledge Base](https://support.pocketcasts.com/knowledge-base/) 
-3. [iOS](https://support.pocketcasts.com/article-categories/ios/) 
-4. [Terms of Use and Privacy](https://support.pocketcasts.com/article-categories/terms-of-use-and-privacy/) 
+3. [Android](https://support.pocketcasts.com/article-categories/android/) 
+4. [Terms of Use and Privacy](https://support.pocketcasts.com/article-categories/terms-of-use-and-privacy-android/) 
 5. Privacy Policy  
 
 Privacy Policy
