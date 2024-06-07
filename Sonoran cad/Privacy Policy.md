@@ -688,7 +688,7 @@ If you have any questions or concerns about our use of your information, please 
 
 [PreviousTerms of Service](https://info.sonorancad.com/other/policy/terms-of-service)[NextRefund and Purchase Policy](https://info.sonorancad.com/other/policy/refund-and-purchase-policy)
 
-Last updated 23 days ago
+Last updated 24 days ago
 
 On this page
 
