@@ -132,19 +132,19 @@ This information should not be construed as legal advice, for further details on
 
 Threads
 
-74,617
+74,689
 
 Messages
 
-2,591,464
+2,594,031
 
 Members
 
-4,097,065
+4,099,653
 
 Latest member
 
-[BossToyo](https://platinmods.com/members/bosstoyo.4406107/)
+[watdupYall](https://platinmods.com/members/watdupyall.4408873/)
 
 * [Platinmods.com - Modern Dark](https://platinmods.com/misc/style "Style chooser")
 
