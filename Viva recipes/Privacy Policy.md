@@ -59,6 +59,11 @@ Viva Recipes
     
 * [Breakfast](https://www.vivarecipes.com/category/videos/breakfast/)
     
+    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20480%20337'%3E%3C/svg%3E)
+        
+        ![](https://www.vivarecipes.com/wp-content/uploads/2024/06/I-am-obsessed-with-this-breakfast-shorts-480x337.jpg)
+        
+        My fixation on this morning meal #shorts is unyielding](https://www.vivarecipes.com/videos/breakfast/my-fixation-on-this-morning-meal-shorts-is-unyielding/)
     * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20600%20337'%3E%3C/svg%3E)
         
         ![](https://www.vivarecipes.com/wp-content/uploads/2024/06/Instant-Tomato-Dosa-Recipe-Just-10-Mins-Crispy-600x337.jpg)
@@ -79,11 +84,6 @@ Viva Recipes
         ![](https://www.vivarecipes.com/wp-content/uploads/2024/06/Breakfast-sandwich-480x337.jpg)
         
         Morning Meal Sandwich](https://www.vivarecipes.com/videos/breakfast/morning-meal-sandwich/)
-    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-        
-        ![](https://i.ytimg.com/vi/NhbG8l2VfsE/hqdefault.jpg)
-        
-        simple poha upma||ಅವಲಕ್ಕಿ ಉಪ್ಪಿಟ್ಟು||straightforward morning meal ideas||](https://www.vivarecipes.com/videos/breakfast/simple-poha-upma%e0%b2%85%e0%b2%b5%e0%b2%b2%e0%b2%95%e0%b3%8d%e0%b2%95%e0%b2%bf-%e0%b2%89%e0%b2%aa%e0%b3%8d%e0%b2%aa%e0%b2%bf%e0%b2%9f%e0%b3%8d%e0%b2%9f%e0%b3%81straightforward-morning-meal-ideas/)
     
 * [Dessert](https://www.vivarecipes.com/category/videos/dessert/)
     
@@ -123,6 +123,7 @@ Viva Recipes
     
 * [Quick & Easy](https://www.vivarecipes.com/category/videos/quick-easy/)
     
+    * [My go-to foods when I’m feeling too indolent to prepare a meal](https://www.vivarecipes.com/videos/quick-easy/my-go-to-foods-when-im-feeling-too-indolent-to-prepare-a-meal/)
     * [Scrumptious Seafood Paella That Will Whisk You Away to Spain | Simple & Swift Recipe](https://www.vivarecipes.com/videos/quick-easy/scrumptious-seafood-paella-that-will-whisk-you-away-to-spain-simple-swift-recipe/)
     * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
         
@@ -139,7 +140,6 @@ Viva Recipes
         ![](https://i.ytimg.com/vi/CEs_-kkiz_I/maxresdefault.jpg)
         
         Seasonal Highlight! Effortless Midday / Evening Meal Idea | Swift Spiced Rice Cooking Method | Uncomplicated Rice Pilaf Recipe](https://www.vivarecipes.com/videos/quick-easy/seasonal-highlight-effortless-midday-evening-meal-idea-swift-spiced-rice-cooking-method-uncomplicated-rice-pilaf-recipe/)
-    * [When Your Housemate is the Indolent Instant Noodles @mamaa.ariixo #shorts](https://www.vivarecipes.com/videos/quick-easy/when-your-housemate-is-the-indolent-instant-noodles-mamaa-ariixo-shorts/)
     
 * [Salad](https://www.vivarecipes.com/category/videos/salad/)
     
