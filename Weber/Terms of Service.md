@@ -377,7 +377,7 @@ Search
 
 Enter Keyword or Item No.  Search Clear
 
-Buy now, pay later. Rates as low as 0% APR financing with Affirm. [Apply Now.](https://www.affirm.com/shop/weber)
+Ribeye Steak Packages from Weber Grill Restaurant are the perfect gift for dad. [Learn More.](https://shop.linzheritageangus.com/categories/weber-grill)
 
 Shopping Cart
 -------------
