@@ -325,9 +325,9 @@ Coaching & peer groups](https://www.connectwise.com/theitnation/evolve?ref=heade
 
 Expert guidance for business transition](https://www.connectwise.com/theitnation/it-nation-grow?ref=header-www "IT Nation Grow")
 
-[Automation Nation
+[IT Nation PitchIT
 
-AI & hyperautomation training](https://www.connectwise.com/theitnation/automation-nation?ref=header-www "Automation Nation")
+Accelerator program for incubating growth](https://www.connectwise.com/theitnation/pitchit?ref=header-www "IT Nation PitchIT")
 
 [Wise Up Podcast
 
@@ -340,6 +340,10 @@ Regional MSP industry conference](https://www.connectwise.com/theitnation/connec
 [IT Nation Asia
 
 Regional MSP industry conference](https://www.connectwise.com/theitnation/apac?ref=header "IT Nation Australia")
+
+[Automation Nation
+
+AI & hyperautomation training](https://www.connectwise.com/theitnation/automation-nation?ref=header-www "Automation Nation")
 
 IT Nation
 
@@ -359,9 +363,9 @@ Coaching & peer groups](https://www.connectwise.com/theitnation/evolve?ref=heade
 
 Expert guidance for business transition](https://www.connectwise.com/theitnation/it-nation-grow?ref=header-www "IT Nation Grow")
 
-[Automation Nation
+[IT Nation PitchIT
 
-AI & hyperautomation training](https://www.connectwise.com/theitnation/automation-nation?ref=header-www "Automation Nation")
+Accelerator program for incubating growth](https://www.connectwise.com/theitnation/pitchit?ref=header-www "IT Nation PitchIT")
 
 [Wise Up Podcast
 
@@ -374,6 +378,10 @@ Regional MSP industry conference](https://www.connectwise.com/theitnation/connec
 [IT Nation Asia
 
 Regional MSP industry conference](https://www.connectwise.com/theitnation/apac?ref=header "IT Nation Australia")
+
+[Automation Nation
+
+AI & hyperautomation training](https://www.connectwise.com/theitnation/automation-nation?ref=header-www "Automation Nation")
 
 [Explore The IT Nation](https://www.connectwise.com/theitnation??ref=header-www&link=more "Explore the IT Nation")
 
