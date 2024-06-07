@@ -1,6 +1,6 @@
 [Skip to main content](#content)
 
-* [Visit Beano Shop](https://www.beano.com/external-link-warning-shop?verify=839ac975ff&to=https%3A%2F%2Fshop.beano.com%2F%3Futm_source%3Dbeano%26utm_campaign%3DCP%26utm_medium%3Dreferral "Visit Beano Shop")
+* [Visit Beano Shop](https://www.beano.com/external-link-warning-shop?verify=0fad6092ab&to=https%3A%2F%2Fshop.beano.com%2F%3Futm_source%3Dbeano%26utm_campaign%3DCP%26utm_medium%3Dreferral "Visit Beano Shop")
 
 Subscribe Subscribe to Beano
 
@@ -51,7 +51,7 @@ Open Search
 * [Facts](https://www.beano.com/categories/fun-facts)
 * [Comic](https://www.beano.com/categories/beanotown)
 * [Fun Stuff](https://www.beano.com/categories/fun-stuff)
-* [Shop](https://www.beano.com/external-link-warning-shop?verify=839ac975ff&to=https%3A%2F%2Fshop.beano.com%2F%3Futm_source%3Dbeano%26utm_campaign%3DCP%26utm_medium%3Dreferral)
+* [Shop](https://www.beano.com/external-link-warning-shop?verify=0fad6092ab&to=https%3A%2F%2Fshop.beano.com%2F%3Futm_source%3Dbeano%26utm_campaign%3DCP%26utm_medium%3Dreferral)
 
 [Want more Beano? Subscribe ![Beano Comic](https://s3.eu-west-2.amazonaws.com/www.beano.com-assets-test/images/mag-cover-2.png)](https://www.beano.com/subscribe) 
 
@@ -408,17 +408,17 @@ Whoopee cushion...
 
  
 
-* [Beano Shop](https://www.beano.com/external-link-warning-shop?verify=839ac975ff&to=https%3A%2F%2Fshop.beano.com%2F%3Futm_source%3Dbeano%26utm_campaign%3DCP%26utm_medium%3Dreferral)
+* [Beano Shop](https://www.beano.com/external-link-warning-shop?verify=0fad6092ab&to=https%3A%2F%2Fshop.beano.com%2F%3Futm_source%3Dbeano%26utm_campaign%3DCP%26utm_medium%3Dreferral)
 * [Subscription Offers](https://www.beano.com/subscribe)
 * [Parent Zone](https://www.beano.com/parent-zone)
 
-[![KidAware Certified](https://www.beano.com/app/themes/beano/assets/images/footer/footer-kidawarelogo.png)](https://www.beano.com/external-link-warning?verify=c31bc088a4&to=https%3A%2F%2Fwww.superawesome.com%2Fkidaware%2F)
+[![KidAware Certified](https://www.beano.com/app/themes/beano/assets/images/footer/footer-kidawarelogo.png)](https://www.beano.com/external-link-warning?verify=d64803eb03&to=https%3A%2F%2Fwww.superawesome.com%2Fkidaware%2F)
 
-[![COPPA - Safe Harbor Certification (Kids' Privacy Assured Privo)](https://www.beano.com/app/themes/beano/assets/images/footer/coppa.png)](https://www.beano.com/external-link-warning?verify=6b1dd12ba4&to=https%3A%2F%2Fcert.privo.com%2F%23%2Fcompanies%2Fbeano_studios)
+[![COPPA - Safe Harbor Certification (Kids' Privacy Assured Privo)](https://www.beano.com/app/themes/beano/assets/images/footer/coppa.png)](https://www.beano.com/external-link-warning?verify=525df8e48c&to=https%3A%2F%2Fcert.privo.com%2F%23%2Fcompanies%2Fbeano_studios)
 
-[![GDPR - General Data Protection (Kids' Privacy Assured Privo)](https://www.beano.com/app/themes/beano/assets/images/footer/gdpr.png)](https://www.beano.com/external-link-warning?verify=6b1dd12ba4&to=https%3A%2F%2Fcert.privo.com%2F%23%2Fcompanies%2Fbeano_studios)
+[![GDPR - General Data Protection (Kids' Privacy Assured Privo)](https://www.beano.com/app/themes/beano/assets/images/footer/gdpr.png)](https://www.beano.com/external-link-warning?verify=525df8e48c&to=https%3A%2F%2Fcert.privo.com%2F%23%2Fcompanies%2Fbeano_studios)
 
-[![Kids' Privacy Assured Privo](https://www.beano.com/app/themes/beano/assets/images/footer/seal.png)](https://www.beano.com/external-link-warning?verify=6b1dd12ba4&to=https%3A%2F%2Fcert.privo.com%2F%23%2Fcompanies%2Fbeano_studios)
+[![Kids' Privacy Assured Privo](https://www.beano.com/app/themes/beano/assets/images/footer/seal.png)](https://www.beano.com/external-link-warning?verify=525df8e48c&to=https%3A%2F%2Fcert.privo.com%2F%23%2Fcompanies%2Fbeano_studios)
 
 * [Home](https://www.beano.com/)
 * [Quizzes](https://www.beano.com/categories/quizzes)
@@ -433,7 +433,7 @@ Whoopee cushion...
 * [Contact Us](https://www.beano.com/contact-us)
 * [Cookie Policy](https://www.beano.com/cookie-policy)
 * [Terms and Conditions](https://www.beano.com/terms-and-conditions)
-* [Careers](https://www.beano.com/external-link-warning?verify=6a53d4ec5f&to=https%3A%2F%2Fwww.beanostudios.com%2Fcareers)
+* [Careers](https://www.beano.com/external-link-warning?verify=b433081d15&to=https%3A%2F%2Fwww.beanostudios.com%2Fcareers)
 * [Privacy Policy](https://www.beano.com/privacy-policy)
 * [Update Cookie Preferences](https://www.beano.com/)
 
