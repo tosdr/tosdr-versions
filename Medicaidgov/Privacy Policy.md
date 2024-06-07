@@ -353,7 +353,6 @@ MainMenu
     
     [View all in About Us](https://www.medicaid.gov/about-us/index.html)
     
-    * [Messages from CMCS](https://www.medicaid.gov/about-us/messages/index.html)
     * [Get Help with Medicaid & CHIP](https://www.medicaid.gov/about-us/where-can-people-get-help-medicaid-chip/index.html)
     * [Contact Us](https://www.medicaid.gov/about-us/contact-us/index.html)
     * [Program History](https://www.medicaid.gov/about-us/program-history/index.html)
@@ -700,7 +699,6 @@ MainMenu Desktop
     
     [View all in About Us](https://www.medicaid.gov/about-us/index.html)
     
-    * [Messages from CMCS](https://www.medicaid.gov/about-us/messages/index.html)
     * [Get Help with Medicaid & CHIP](https://www.medicaid.gov/about-us/where-can-people-get-help-medicaid-chip/index.html)
     * [Contact Us](https://www.medicaid.gov/about-us/contact-us/index.html)
     * [Program History](https://www.medicaid.gov/about-us/program-history/index.html)
