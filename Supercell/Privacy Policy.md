@@ -5,11 +5,11 @@
 * [Games](https://supercell.com/en/games/)
 
 * [Squad Busters](https://squadbusters.supercell.com/en/)
-* [Hay Day](https://supercell.com/en/games/hayday/)
-* [Clash of Clans](https://supercell.com/en/games/clashofclans/)
-* [Boom Beach](https://supercell.com/en/games/boombeach/)
-* [Clash Royale](https://supercell.com/en/games/clashroyale/)
 * [Brawl Stars](https://supercell.com/en/games/brawlstars/)
+* [Clash Royale](https://supercell.com/en/games/clashroyale/)
+* [Boom Beach](https://supercell.com/en/games/boombeach/)
+* [Clash of Clans](https://supercell.com/en/games/clashofclans/)
+* [Hay Day](https://supercell.com/en/games/hayday/)
 
 * [Careers](https://supercell.com/en/careers/)
 
@@ -46,11 +46,11 @@
 
 * [Games](https://supercell.com/en/games/)
 * [Squad Busters](https://squadbusters.supercell.com/en/)
-* [Hay Day](https://supercell.com/en/games/hayday/)
-* [Clash of Clans](https://supercell.com/en/games/clashofclans/)
-* [Boom Beach](https://supercell.com/en/games/boombeach/)
-* [Clash Royale](https://supercell.com/en/games/clashroyale/)
 * [Brawl Stars](https://supercell.com/en/games/brawlstars/)
+* [Clash Royale](https://supercell.com/en/games/clashroyale/)
+* [Boom Beach](https://supercell.com/en/games/boombeach/)
+* [Clash of Clans](https://supercell.com/en/games/clashofclans/)
+* [Hay Day](https://supercell.com/en/games/hayday/)
 
 * ### Careers
     
@@ -225,7 +225,7 @@ Try Again
 PRIVACY POLICY
 ==============
 
-DeutschEnglishEspañolFrançaisItalianoNederlandPortuguêsSuomiSvenskaTürkçeРусскийالعربية한국어日本語简体中文繁體中文
+Bahasa IndonesiaDeutschEnglishEspañolFrançaisItalianoNederlandPortuguêsSuomiSvenskaTürkçeРусскийالعربية한국어日本語简体中文繁體中文
 
 * [CONTACT US](https://supercell.com/en/privacy-policy/#CONTACT-US)
 * [THE DATA WE COLLECT](https://supercell.com/en/privacy-policy/#THE-DATA-WE-COLLECT)
