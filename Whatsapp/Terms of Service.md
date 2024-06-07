@@ -20,7 +20,7 @@
 
 Englishالعربيةঅসমীয়াবাংলাEspañolFrançaisગુજરાતીעבריתहिन्दीBahasa Indonesia日本語ಕನ್ನಡ한국어മലയാളംमराठीनेपालीOriyaਪੰਜਾਬੀPortuguês (Brasil)русскийதமிழ்తెలుగుไทยFilipinoTürkçeاردو繁體中文（香港）Englishالعربيةঅসমীয়াবাংলাespañolfrançaisગુજરાતીעבריתहिन्दीBahasa Indonesia日本語ಕನ್ನಡ한국어മലയാളംमराठीनेपालीOriyaਪੰਜਾਬੀPortuguês (Brasil)русскийதமிழ்తెలుగుไทยFilipinoTürkçeاردو繁體中文（香港）
 
-[![WhatsApp Main Page](https://static.whatsapp.net/rsrc.php/v3/yq/r/mdQNdcFMi0p.png)](https://www.whatsapp.com/)[![WhatsApp Main Page](https://scontent.whatsapp.net/v/t39.8562-34/435524640_1127495198676263_4923359980655354883_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=WWRbEaD1y2YQ7kNvgGDR1tr&_nc_ht=scontent.whatsapp.net&oh=01_Q5AaILl1f5d0_ncY827APjQ5vjdTqBo-bXHeu95PQM-Z2oOH&oe=6667DBE1)](https://www.whatsapp.com/)
+[![WhatsApp Main Page](https://static.whatsapp.net/rsrc.php/v3/yq/r/mdQNdcFMi0p.png)](https://www.whatsapp.com/)[![WhatsApp Main Page](https://scontent.whatsapp.net/v/t39.8562-34/435524640_1127495198676263_4923359980655354883_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=HdyJBetc6IoQ7kNvgHSnEu7&_nc_ht=scontent.whatsapp.net&oh=01_Q5AaIGWKrY1B51arz_dzLi0iQBNR7vc10WoamIyQ8YyMeWIO&oe=66692D61)](https://www.whatsapp.com/)
 
 * Features
     
