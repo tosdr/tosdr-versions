@@ -68,17 +68,17 @@ General
 
 Random Server Videos
 
-[![GlowCraft Trailer](//i.ytimg.com/vi/N2K6A4h8bS4/0.jpg)  
-GlowCraft](https://topminecraftservers.org/server/31431)
+[![Solcraft Trailer](//i.ytimg.com/vi/nWMCxOr9M54/0.jpg)  
+Solcraft](https://topminecraftservers.org/server/30281)
 
-[![颐泰健康园 Trailer](//i.ytimg.com/vi/OjKG3yD61lM/0.jpg)  
-颐泰健康园](https://topminecraftservers.org/server/37201)
+[![ZedarMC Trailer](//i.ytimg.com/vi/bbRxU5rDzQg/0.jpg)  
+ZedarMC](https://topminecraftservers.org/server/23924)
 
-[![Aoris-Network (Exploit doesnt work :) ) Trailer](//i.ytimg.com/vi/DKBmgoGHVko/0.jpg)  
-Aoris-Network (Exploit doesnt work :) )](https://topminecraftservers.org/server/22583)
+[![pvpSmash Minecraft Network Trailer](//i.ytimg.com/vi/Mtotp0hZG3M/0.jpg)  
+pvpSmash Minecraft Network](https://topminecraftservers.org/server/31027)
 
-[![Bangladeshi Minecraft Society | BMS Trailer](//i.ytimg.com/vi/IVcfdgSlapA/0.jpg)  
-Bangladeshi Minecraft Society | BMS](https://topminecraftservers.org/server/36502)
+[![NeoNetwork Trailer](//i.ytimg.com/vi/YKcdDvW_r2s/0.jpg)  
+NeoNetwork](https://topminecraftservers.org/server/28797)
 
 [Terms](https://topminecraftservers.org/terms.php) | [Privacy](https://topminecraftservers.org/privacy.php) | [Search](https://topminecraftservers.org/search.php) | [FAQ](https://topminecraftservers.org/faq.php) | [Contact](https://topminecraftservers.org/contact.php)
 
@@ -86,4 +86,4 @@ Bangladeshi Minecraft Society | BMS](https://topminecraftservers.org/server/3650
 
 Minecraft is copyright Mojang/Microsoft and is not affiliated with this site.
 
-Page took 0.290485 seconds to load
+Page took 0.736375 seconds to load
