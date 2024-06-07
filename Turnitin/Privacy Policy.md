@@ -6,7 +6,7 @@ Turnitin launches iThenticate 2.0 to help maintain integrity of high stakes cont
 
 cancel
 
-[![](assets/images/shared-assets/product-logos/logo-tii.svg)](https://www.turnitin.com/index.html)
+[![](assets/images/shared-assets/product-logos/logo-tii.svg)](https://www.turnitin.com/)
 
 * [Why Turnitin](https://www.turnitin.com/why-turnitin/)
     
@@ -28,11 +28,11 @@ cancel
     
     [Seen@Turnitin
     
-    Diversity, equity, and inclusion are foundational to how we operate as a business and global citizens.](https://www.turnitin.com/about/diversity-pledge.html)
+    Diversity, equity, and inclusion are foundational to how we operate as a business and global citizens.](https://www.turnitin.com/about/diversity-pledge)
     
     [Social Impact
     
-    Our Social Impact strategy guides how we partner with educational communities around the globe to increase access and equity in educational and vocational systems.](https://www.turnitin.com/about/social-impact.html)
+    Our Social Impact strategy guides how we partner with educational communities around the globe to increase access and equity in educational and vocational systems.](https://www.turnitin.com/about/social-impact)
     
     [Leadership
     
@@ -96,27 +96,27 @@ cancel
     
     Secondary Education
     
-    Academic integrity and assessment solutions for today’s schools](https://www.turnitin.com/solutions/secondary-education.html)
+    Academic integrity and assessment solutions for today’s schools](https://www.turnitin.com/solutions/secondary-education)
     
     [![](assets/images/shared-assets/nav-items/group-2206.svg)
     
     Higher Education
     
-    Academic integrity and assessment solutions for today’s universities](https://www.turnitin.com/solutions/higher-education.html)
+    Academic integrity and assessment solutions for today’s universities](https://www.turnitin.com/solutions/higher-education)
     
     [![](assets/images/shared-assets/nav-items/group-2205.svg)
     
     Research & Publication
     
-    Publish with confidence and protect your reputation using the tool top academic researchers and publishers trust to ensure the originality of scholarly works.](https://www.turnitin.com/solutions/research-publication.html)
+    Publish with confidence and protect your reputation using the tool top academic researchers and publishers trust to ensure the originality of scholarly works.](https://www.turnitin.com/solutions/research-publication)
     
     Featured Topics
     
     * [AI Writing Detection](https://www.turnitin.com/solutions/topics/ai-writing/ "AI Writing Detection")
-    * [Academic Integrity](https://www.turnitin.com/solutions/topics/academic-integrity.html "Academic Integrity")
-    * [Assessment Design](https://www.turnitin.com/solutions/topics/assessment-design.html "Assessment Design")
-    * [Research Integrity](https://www.turnitin.com/solutions/topics/research-integrity.html "Research Integrity")
-    * [Quality Feedback](https://www.turnitin.com/solutions/topics/quality-feedback.html "Quality Feedback")
+    * [Academic Integrity](https://www.turnitin.com/solutions/topics/academic-integrity "Academic Integrity")
+    * [Assessment Design](https://www.turnitin.com/solutions/topics/assessment-design "Assessment Design")
+    * [Research Integrity](https://www.turnitin.com/solutions/topics/research-integrity "Research Integrity")
+    * [Quality Feedback](https://www.turnitin.com/solutions/topics/quality-feedback "Quality Feedback")
     * [Features](https://www.turnitin.com/products/features/ "Features")
     
     [AI writing detection
@@ -137,7 +137,7 @@ cancel
     
     [Webinars
     
-    On-demand training and hands-on learning.](https://www.turnitin.com/virtual-events/virtual-events-overview.html)
+    On-demand training and hands-on learning.](https://www.turnitin.com/virtual-events/virtual-events-overview)
     
     [Live events
     
@@ -183,7 +183,7 @@ cancel
     
     * [View Instructional Resources](https://www.turnitin.com/instructional-resources/ "View Instructional Resources")
     * [Resource packs](https://www.turnitin.com/instructional-resources/packs/ "Instructional resource packs")
-    * [Academic integrity in the age of AI](https://www.turnitin.com/instructional-resources/packs/academic-integrity-in-the-age-of-ai.html "Academic integrity in the age of AI")
+    * [Academic integrity in the age of AI](https://www.turnitin.com/instructional-resources/packs/academic-integrity-in-the-age-of-ai "Academic integrity in the age of AI")
     * [Subjects](https://www.turnitin.com/instructional-resources/subjects/ "Resources by subject")
     
     [Workshops
@@ -200,15 +200,15 @@ cancel
     
     [Content partners
     
-    Become a Turnitin Content Partner to protect your published content with the world’s most trusted plagiarism checker.](https://www.turnitin.com/partners/content-partners.html)
+    Become a Turnitin Content Partner to protect your published content with the world’s most trusted plagiarism checker.](https://www.turnitin.com/partners/content-partners)
     
     [Technical integration partners
     
-    Expand the functionality of your solution by integrating with Turnitin-powered similarity checking, writing feedback, and grading tools.](https://www.turnitin.com/partners/technical-integration-partners.html)
+    Expand the functionality of your solution by integrating with Turnitin-powered similarity checking, writing feedback, and grading tools.](https://www.turnitin.com/partners/technical-integration-partners)
     
     [Commercial partners
     
-    Become a Turnitin Commercial Partner and choose from a variety of flexible business models that deliver value to your Customers.](https://www.turnitin.com/partners/commercial-partners.html)
+    Become a Turnitin Commercial Partner and choose from a variety of flexible business models that deliver value to your Customers.](https://www.turnitin.com/partners/commercial-partners)
     
     [Partner Directory
     
@@ -234,11 +234,11 @@ cancel
     
     [Awards
     
-    Turnitin awards and honors.](https://www.turnitin.com/media-center/awards/awards-overview.html)
+    Turnitin awards and honors.](https://www.turnitin.com/media-center/awards/awards-overview)
     
     [Conferences
     
-    Turnitin events and conferences](https://www.turnitin.com/media-center/conferences.html)
+    Turnitin events and conferences](https://www.turnitin.com/media-center/conferences)
     
 * search
     
@@ -294,7 +294,7 @@ Turnitin Website Privacy Policy
 
 ​Last Updated: 30 January 2024
 
-**Note for California Residents:** This Privacy Policy and the related [Cookie Notice](https://www.turnitin.com/cookie-policy.html "Turnitin Cookie Notice") describes how we process your Personal Information and your rights and choices over our processing. In addition, the Notice for California and Other US State Residents section referenced below, contains specific details related to your rights under California law, including your right to opt out of “sales” of Personal Information.
+**Note for California Residents:** This Privacy Policy and the related [Cookie Notice](https://www.turnitin.com/cookie-policy "Turnitin Cookie Notice") describes how we process your Personal Information and your rights and choices over our processing. In addition, the Notice for California and Other US State Residents section referenced below, contains specific details related to your rights under California law, including your right to opt out of “sales” of Personal Information.
 
 This Privacy Policy applies to the Turnitin, LLC (“Turnitin,” “we,” “us”) websites (collectively, “Websites”). It does not apply to affiliate or subsidiary websites or our education products, which are governed by the policy [available here](https://help.turnitin.com/Privacy_and_Security/Privacy_and_Security.htm "Turnitin Privacy and Security").
 
@@ -302,7 +302,7 @@ This Privacy Policy describes how we may collect, use, and disclose Personal Inf
 
 By accessing or using Turnitin Websites, you acknowledge that you have read and understood this Privacy Policy. If you do not agree with this Privacy Policy, please do not access or use the Websites.
 
-In addition to reviewing this Privacy Policy, please also review our [Website Terms of Use](https://www.turnitin.com/terms-of-use-website.html "Turnitin Website Terms of Use") because it and all its terms and conditions are an agreement between you and us.
+In addition to reviewing this Privacy Policy, please also review our [Website Terms of Use](https://www.turnitin.com/terms-of-use-website "Turnitin Website Terms of Use") because it and all its terms and conditions are an agreement between you and us.
 
 Table of Contents
 -----------------
@@ -545,9 +545,9 @@ Our Data Protection Officer may be reached at [DPO@Turnitin.com](mailto:DPO@Turn
 
 #### Solutions
 
-* [Higher Education](https://www.turnitin.com/solutions/higher-education.html "Turnitin solutions for higher education")
-* [Secondary Education](https://www.turnitin.com/solutions/secondary-education.html "Turnitin solutions for secondary education")
-* [Research & Publication](https://www.turnitin.com/solutions/research-publication.html "Turnitin solutions for research and publication")
+* [Higher Education](https://www.turnitin.com/solutions/higher-education "Turnitin solutions for higher education")
+* [Secondary Education](https://www.turnitin.com/solutions/secondary-education "Turnitin solutions for secondary education")
+* [Research & Publication](https://www.turnitin.com/solutions/research-publication "Turnitin solutions for research and publication")
 * [Partners](https://www.turnitin.com/partners/ "Turnitin solutions for partners")
 * [AI Writing Detection](https://www.turnitin.com/solutions/topics/ai-writing/ "Turnitin solutions for AI writing detection")
 * [Other Topics](https://www.turnitin.com/solutions/topics/ "Turnitin solutions by topic")
@@ -566,19 +566,19 @@ Our Data Protection Officer may be reached at [DPO@Turnitin.com](mailto:DPO@Turn
 * [About Us](https://www.turnitin.com/about/ "About Turnitin")
 * [Careers](https://www.turnitin.com/about/careers/ "Turnitin Careers")
 * [Media Center](https://www.turnitin.com/media-center/ "Media Center")
-* [Social Impact](https://www.turnitin.com/about/social-impact.html "Social Impact")
-* [Diversity Pledge](https://www.turnitin.com/about/diversity-pledge.html "Diversity Pledge")
-* [Accessibility](https://www.turnitin.com/accessibility.html "Accessibility")
+* [Social Impact](https://www.turnitin.com/about/social-impact "Social Impact")
+* [Diversity Pledge](https://www.turnitin.com/about/diversity-pledge "Diversity Pledge")
+* [Accessibility](https://www.turnitin.com/accessibility "Accessibility")
 * [Product Privacy](https://help.turnitin.com/Privacy_and_Security/Privacy_and_Security.htm "Product Privacy")
 
 * * *
 
-[![](assets/images/shared-assets/product-logos/logo-tii-white.svg)](https://www.turnitin.com/index.html)
+[![](assets/images/shared-assets/product-logos/logo-tii-white.svg)](https://www.turnitin.com/)
 
 * [Website Privacy](# "Turnitin Website Privacy Statement")
-* [Acceptable Use Policy](https://www.turnitin.com/acceptable-use-policy.html "View the Turnitin Acceptable Use Policy")
-* [Terms of Use](https://www.turnitin.com/terms-of-use-website.html "Terms of use")
-* [Modern Slavery Act](https://www.turnitin.com/modern-slavery-statement.html "Modern slavery act")
+* [Acceptable Use Policy](https://www.turnitin.com/acceptable-use-policy "View the Turnitin Acceptable Use Policy")
+* [Terms of Use](https://www.turnitin.com/terms-of-use-website "Terms of use")
+* [Modern Slavery Act](https://www.turnitin.com/modern-slavery-statement "Modern slavery act")
 * [Site Map](https://www.turnitin.com/sitemap/ "Turnitin.com Site Map")
 * \[COOKIE SETTINGS\]
 
@@ -590,7 +590,7 @@ Our Data Protection Officer may be reached at [DPO@Turnitin.com](mailto:DPO@Turn
 * [![](assets/images/shared-assets/social-media-icons/instagram-footer.svg)](https://www.instagram.com/turnitinco/ "Turnitin on Instagram")
 * [![](assets/images/shared-assets/social-media-icons/pinterest-footer.svg)](https://www.pinterest.com/turnitin/overview/ "Turnitin on Pinterest")
 
-[![](assets/images/shared-assets/product-logos/logo-tii.svg)](https://www.turnitin.com/index.html)
+[![](assets/images/shared-assets/product-logos/logo-tii.svg)](https://www.turnitin.com/)
 
 close
 
@@ -612,11 +612,11 @@ close
     
     [Seen@Turnitin
     
-    Diversity, equity, and inclusion are foundational to how we operate as a business and global citizens.](https://www.turnitin.com/about/diversity-pledge.html)
+    Diversity, equity, and inclusion are foundational to how we operate as a business and global citizens.](https://www.turnitin.com/about/diversity-pledge)
     
     [Social Impact
     
-    Our Social Impact strategy guides how we partner with educational communities around the globe to increase access and equity in educational and vocational systems.](https://www.turnitin.com/about/social-impact.html)
+    Our Social Impact strategy guides how we partner with educational communities around the globe to increase access and equity in educational and vocational systems.](https://www.turnitin.com/about/social-impact)
     
     [Leadership
     
@@ -678,27 +678,27 @@ close
     
     Secondary Education
     
-    Academic integrity and assessment solutions for today’s schools](https://www.turnitin.com/solutions/secondary-education.html)
+    Academic integrity and assessment solutions for today’s schools](https://www.turnitin.com/solutions/secondary-education)
     
     [![](assets/images/shared-assets/nav-items/group-2206.svg)
     
     Higher Education
     
-    Academic integrity and assessment solutions for today’s universities](https://www.turnitin.com/solutions/higher-education.html)
+    Academic integrity and assessment solutions for today’s universities](https://www.turnitin.com/solutions/higher-education)
     
     [![](assets/images/shared-assets/nav-items/group-2205.svg)
     
     Research & Publication
     
-    Publish with confidence and protect your reputation using the tool top academic researchers and publishers trust to ensure the originality of scholarly works.](https://www.turnitin.com/solutions/research-publication.html)
+    Publish with confidence and protect your reputation using the tool top academic researchers and publishers trust to ensure the originality of scholarly works.](https://www.turnitin.com/solutions/research-publication)
     
     Featured Topics
     
     * [AI Writing Detection](https://www.turnitin.com/solutions/topics/ai-writing/ "AI Writing Detection")
-    * [Academic Integrity](https://www.turnitin.com/solutions/topics/academic-integrity.html "Academic Integrity")
-    * [Assessment Design](https://www.turnitin.com/solutions/topics/assessment-design.html "Assessment Design")
-    * [Research Integrity](https://www.turnitin.com/solutions/topics/research-integrity.html "Research Integrity")
-    * [Quality Feedback](https://www.turnitin.com/solutions/topics/quality-feedback.html "Quality Feedback")
+    * [Academic Integrity](https://www.turnitin.com/solutions/topics/academic-integrity "Academic Integrity")
+    * [Assessment Design](https://www.turnitin.com/solutions/topics/assessment-design "Assessment Design")
+    * [Research Integrity](https://www.turnitin.com/solutions/topics/research-integrity "Research Integrity")
+    * [Quality Feedback](https://www.turnitin.com/solutions/topics/quality-feedback "Quality Feedback")
     * [Features](https://www.turnitin.com/products/features/ "Features")
     
     [AI writing detection
@@ -715,15 +715,15 @@ close
     
     [Content partners
     
-    Become a Turnitin Content Partner to protect your published content with the world’s most trusted plagiarism checker.](https://www.turnitin.com/partners/content-partners.html)
+    Become a Turnitin Content Partner to protect your published content with the world’s most trusted plagiarism checker.](https://www.turnitin.com/partners/content-partners)
     
     [Technical integration partners
     
-    Expand the functionality of your solution by integrating with Turnitin-powered similarity checking, writing feedback, and grading tools.](https://www.turnitin.com/partners/technical-integration-partners.html)
+    Expand the functionality of your solution by integrating with Turnitin-powered similarity checking, writing feedback, and grading tools.](https://www.turnitin.com/partners/technical-integration-partners)
     
     [Commercial partners
     
-    Become a Turnitin Commercial Partner and choose from a variety of flexible business models that deliver value to your Customers.](https://www.turnitin.com/partners/commercial-partners.html)
+    Become a Turnitin Commercial Partner and choose from a variety of flexible business models that deliver value to your Customers.](https://www.turnitin.com/partners/commercial-partners)
     
     [Partner Directory
     
@@ -747,11 +747,11 @@ close
     
     [Awards
     
-    Turnitin awards and honors.](https://www.turnitin.com/media-center/awards/awards-overview.html)
+    Turnitin awards and honors.](https://www.turnitin.com/media-center/awards/awards-overview)
     
     [Conferences
     
-    Turnitin events and conferences](https://www.turnitin.com/media-center/conferences.html)
+    Turnitin events and conferences](https://www.turnitin.com/media-center/conferences)
     
 * [Support](https://supportcenter.turnitin.com/s/)
 * [Contact Sales](https://www.turnitin.com/contact-us/)
