@@ -1,6 +1,6 @@
 [![](https://north680.com/wp-content/themes/dk-community-theme/dist/images/community-icon-cross_921e89db.svg)Close](#)
 
-Get **1 Month Free** on select residences when you move in by 6/15/2024. [LEARN MORE](https://north680.com/promotion/)
+Get **1 Month Free** on select residences when you move in by 6/30/2024. [LEARN MORE](https://north680.com/promotion/)
 
 [Skip to content](#banner)
 
