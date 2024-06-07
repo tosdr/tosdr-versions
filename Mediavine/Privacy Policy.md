@@ -610,6 +610,6 @@ NY, NY 10001
 * [Terms and Conditions](https://www.mediavine.com/terms-of-service/)
 * © 2024 Mediavine
 
-           
+                 
 
 ![](https://px.ads.linkedin.com/collect/?pid=4067916&fmt=gif)
