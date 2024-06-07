@@ -586,21 +586,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Smartphones im Test: Gute Handys gibt es für weniger als 200 Euro](https://www.test.de/Handys-und-Smartphones-im-Test-4222793-0/ "Smartphones im Test - Gute Handys gibt es für weniger als 200 Euro")
 * [Entnahme­plan mit ETF: Mit dem Pantoffel-Portfolio die Rente aufpeppen](https://www.test.de/pantoffel-portfolio-entnahmeplan-5754765-0/ "Entnahmeplan mit ETF - Mit dem Pantoffel-Portfolio die Rente aufpeppen")
 * [Nach­haltige Banken im Vergleich: Zinsen und Konten im grünen Bereich](https://www.test.de/Nachhaltige-Banken-Vergleich-4590882-0/ "Nachhaltige Banken im Vergleich - Zinsen und Konten im grünen Bereich")
 * [Vergleich Kredite: Sparen Sie richtig viel Zinsen mit dem besten Darlehen](https://www.test.de/Kredite-Die-besten-Darlehen-fuer-Sie-1131971-0/ "Vergleich Kredite - Sparen Sie richtig viel Zinsen mit dem besten Darlehen")
 * [Tages­geld­vergleich: So finden Sie jetzt die besten Zinsen](https://www.test.de/Tagesgeldvergleich-Die-besten-Zinsen-4196794-0/ "Tagesgeldvergleich - So finden Sie jetzt die besten Zinsen")
 * [Fest­geld­vergleich: Hier bringt Ihr Spargeld die beste Rendite – und ist sicher](https://www.test.de/Festgeldvergleich-Die-besten-Zinsen-4196084-0/ "Festgeldvergleich - Hier bringt Ihr Spargeld die beste Rendite – und ist sicher")
-* [MSCI World Index: Das steckt hinter dem Welt-Index für ETF](https://www.test.de/MSCI-World-Index-5886867-0/ "MSCI World Index - Das steckt hinter dem Welt-Index für ETF")
 
 test.de entdecken
 
-* [Elektrisch heizen: Strom statt Gas, teurer Spaß](https://www.test.de/Elektrisch-heizen-Strom-statt-Gas-teurer-Spass-5920210-0/ "Elektrisch heizen - Strom statt Gas, teurer Spaß")
-* [Private Kranken­versicherung Kosten: Das können PKV-Versicherte gegen steigende Kosten tun](https://www.test.de/private-krankenversicherung-kosten-6062763-0/ "Private Krankenversicherung Kosten - Das können PKV-Versicherte gegen steigende Kosten tun")
-* [Kfz-Versicherung für Wohn­mobile: Finden Sie den güns­tigsten Tarif für Ihren Camper](https://www.test.de/Kfz-Versicherung-fuer-Wohnmobile-Finden-Sie-den-guenstigsten-Tarif-fuer-Ihren-Camper-5914980-0/ "Kfz-Versicherung für Wohnmobile - Finden Sie den günstigsten Tarif für Ihren Camper")
-* [Pflanzen richtig gießen: Tipps für Besserwässerer](https://www.test.de/Pflanzen-richtig-giessen-Tipps-fuer-Besserwaesserer-5902763-0/ "Pflanzen richtig gießen - Tipps für Besserwässerer")
-* [Elektronische Patienten­akte im Test: Noch läuft es nicht rund](https://www.test.de/elektronische-Patientenakte-ePA-5918457-0/ "Elektronische Patientenakte im Test - Noch läuft es nicht rund")
-* [Schnell­test Samsung Galaxy S24-Reihe: Wie intelligent ist Samsungs neue KI?](https://www.test.de/schnelltest-samsung-galaxy-s24-smartphones-mit-ki-funktionen-6115198-0/ "Schnelltest Samsung Galaxy S24-Reihe - Wie intelligent ist Samsungs neue KI?")
+* [Veränderungen der Schild­drüse: Seltener bösartig als angenommen](https://www.test.de/Veraenderungen-der-Schilddruese-Seltener-boesartig-als-angenommen-5952404-0/ "Veränderungen der Schilddrüse - Seltener bösartig als angenommen")
+* [Sport­streaming Dazn: Drastische Preis­erhöhung – so reagieren Sie richtig](https://www.test.de/Dazn-Gebuehrenerhoehungen-Widerstand-erscheint-moeglich-5901145-0/ "Sportstreaming Dazn - Drastische Preiserhöhung – so reagieren Sie richtig")
+* [Gesetzliche Krankenkassen: 36 Krankenkassen erhöhen den Zusatz­beitrag](https://www.test.de/Gesetzliche-Krankenkassen-Steigen-die-Beitraege-2024-5898858-0/ "Gesetzliche Krankenkassen - 36 Krankenkassen erhöhen den Zusatzbeitrag")
+* [BPA in Kleinkindbüchern: Carlsen ruft Baby-Pixi-Bücher zurück](https://www.test.de/BPA-in-Kleinkindbuechern-Carlsen-ruft-Baby-Pixi-Buecher-zurueck-6109118-0/ "BPA in Kleinkindbüchern - Carlsen ruft Baby-Pixi-Bücher zurück")
+* [Wild: Hirsch, Hase, Reh: Echte Alternativen für Fleisch­fans](https://www.test.de/Wild-Hirsch-Hase-Reh-Echte-Alternativen-fuer-Fleischfans-5934969-0/ "Wild - Hirsch, Hase, Reh: Echte Alternativen für Fleischfans")
+* [Fitness-Apps im Test: Die richtige App fürs Training](https://www.test.de/Fitness-Apps-im-Test-6010207-0/ "Fitness-Apps im Test - Die richtige App fürs Training")
 
 Fußbereich
 
@@ -2724,21 +2724,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Smartphones im Test: Gute Handys gibt es für weniger als 200 Euro](https://www.test.de/Handys-und-Smartphones-im-Test-4222793-0/ "Smartphones im Test - Gute Handys gibt es für weniger als 200 Euro")
 * [Entnahme­plan mit ETF: Mit dem Pantoffel-Portfolio die Rente aufpeppen](https://www.test.de/pantoffel-portfolio-entnahmeplan-5754765-0/ "Entnahmeplan mit ETF - Mit dem Pantoffel-Portfolio die Rente aufpeppen")
 * [Nach­haltige Banken im Vergleich: Zinsen und Konten im grünen Bereich](https://www.test.de/Nachhaltige-Banken-Vergleich-4590882-0/ "Nachhaltige Banken im Vergleich - Zinsen und Konten im grünen Bereich")
 * [Vergleich Kredite: Sparen Sie richtig viel Zinsen mit dem besten Darlehen](https://www.test.de/Kredite-Die-besten-Darlehen-fuer-Sie-1131971-0/ "Vergleich Kredite - Sparen Sie richtig viel Zinsen mit dem besten Darlehen")
 * [Tages­geld­vergleich: So finden Sie jetzt die besten Zinsen](https://www.test.de/Tagesgeldvergleich-Die-besten-Zinsen-4196794-0/ "Tagesgeldvergleich - So finden Sie jetzt die besten Zinsen")
 * [Fest­geld­vergleich: Hier bringt Ihr Spargeld die beste Rendite – und ist sicher](https://www.test.de/Festgeldvergleich-Die-besten-Zinsen-4196084-0/ "Festgeldvergleich - Hier bringt Ihr Spargeld die beste Rendite – und ist sicher")
-* [MSCI World Index: Das steckt hinter dem Welt-Index für ETF](https://www.test.de/MSCI-World-Index-5886867-0/ "MSCI World Index - Das steckt hinter dem Welt-Index für ETF")
 
 test.de entdecken
 
-* [Elektrisch heizen: Strom statt Gas, teurer Spaß](https://www.test.de/Elektrisch-heizen-Strom-statt-Gas-teurer-Spass-5920210-0/ "Elektrisch heizen - Strom statt Gas, teurer Spaß")
-* [Private Kranken­versicherung Kosten: Das können PKV-Versicherte gegen steigende Kosten tun](https://www.test.de/private-krankenversicherung-kosten-6062763-0/ "Private Krankenversicherung Kosten - Das können PKV-Versicherte gegen steigende Kosten tun")
-* [Kfz-Versicherung für Wohn­mobile: Finden Sie den güns­tigsten Tarif für Ihren Camper](https://www.test.de/Kfz-Versicherung-fuer-Wohnmobile-Finden-Sie-den-guenstigsten-Tarif-fuer-Ihren-Camper-5914980-0/ "Kfz-Versicherung für Wohnmobile - Finden Sie den günstigsten Tarif für Ihren Camper")
-* [Pflanzen richtig gießen: Tipps für Besserwässerer](https://www.test.de/Pflanzen-richtig-giessen-Tipps-fuer-Besserwaesserer-5902763-0/ "Pflanzen richtig gießen - Tipps für Besserwässerer")
-* [Elektronische Patienten­akte im Test: Noch läuft es nicht rund](https://www.test.de/elektronische-Patientenakte-ePA-5918457-0/ "Elektronische Patientenakte im Test - Noch läuft es nicht rund")
-* [Schnell­test Samsung Galaxy S24-Reihe: Wie intelligent ist Samsungs neue KI?](https://www.test.de/schnelltest-samsung-galaxy-s24-smartphones-mit-ki-funktionen-6115198-0/ "Schnelltest Samsung Galaxy S24-Reihe - Wie intelligent ist Samsungs neue KI?")
+* [Veränderungen der Schild­drüse: Seltener bösartig als angenommen](https://www.test.de/Veraenderungen-der-Schilddruese-Seltener-boesartig-als-angenommen-5952404-0/ "Veränderungen der Schilddrüse - Seltener bösartig als angenommen")
+* [Sport­streaming Dazn: Drastische Preis­erhöhung – so reagieren Sie richtig](https://www.test.de/Dazn-Gebuehrenerhoehungen-Widerstand-erscheint-moeglich-5901145-0/ "Sportstreaming Dazn - Drastische Preiserhöhung – so reagieren Sie richtig")
+* [Gesetzliche Krankenkassen: 36 Krankenkassen erhöhen den Zusatz­beitrag](https://www.test.de/Gesetzliche-Krankenkassen-Steigen-die-Beitraege-2024-5898858-0/ "Gesetzliche Krankenkassen - 36 Krankenkassen erhöhen den Zusatzbeitrag")
+* [BPA in Kleinkindbüchern: Carlsen ruft Baby-Pixi-Bücher zurück](https://www.test.de/BPA-in-Kleinkindbuechern-Carlsen-ruft-Baby-Pixi-Buecher-zurueck-6109118-0/ "BPA in Kleinkindbüchern - Carlsen ruft Baby-Pixi-Bücher zurück")
+* [Wild: Hirsch, Hase, Reh: Echte Alternativen für Fleisch­fans](https://www.test.de/Wild-Hirsch-Hase-Reh-Echte-Alternativen-fuer-Fleischfans-5934969-0/ "Wild - Hirsch, Hase, Reh: Echte Alternativen für Fleischfans")
+* [Fitness-Apps im Test: Die richtige App fürs Training](https://www.test.de/Fitness-Apps-im-Test-6010207-0/ "Fitness-Apps im Test - Die richtige App fürs Training")
 
      ![](https://cdn.test.de/file/image/63/a1/606b5035-a41f-4b3b-8727-c0ee0552058c-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
@@ -2780,39 +2780,39 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Smartphones im Test: Gute Handys gibt es für weniger als 200 Euro](https://www.test.de/Handys-und-Smartphones-im-Test-4222793-0/ "Smartphones im Test - Gute Handys gibt es für weniger als 200 Euro")
 * [Entnahme­plan mit ETF: Mit dem Pantoffel-Portfolio die Rente aufpeppen](https://www.test.de/pantoffel-portfolio-entnahmeplan-5754765-0/ "Entnahmeplan mit ETF - Mit dem Pantoffel-Portfolio die Rente aufpeppen")
 * [Nach­haltige Banken im Vergleich: Zinsen und Konten im grünen Bereich](https://www.test.de/Nachhaltige-Banken-Vergleich-4590882-0/ "Nachhaltige Banken im Vergleich - Zinsen und Konten im grünen Bereich")
 * [Vergleich Kredite: Sparen Sie richtig viel Zinsen mit dem besten Darlehen](https://www.test.de/Kredite-Die-besten-Darlehen-fuer-Sie-1131971-0/ "Vergleich Kredite - Sparen Sie richtig viel Zinsen mit dem besten Darlehen")
 * [Tages­geld­vergleich: So finden Sie jetzt die besten Zinsen](https://www.test.de/Tagesgeldvergleich-Die-besten-Zinsen-4196794-0/ "Tagesgeldvergleich - So finden Sie jetzt die besten Zinsen")
 * [Fest­geld­vergleich: Hier bringt Ihr Spargeld die beste Rendite – und ist sicher](https://www.test.de/Festgeldvergleich-Die-besten-Zinsen-4196084-0/ "Festgeldvergleich - Hier bringt Ihr Spargeld die beste Rendite – und ist sicher")
-* [MSCI World Index: Das steckt hinter dem Welt-Index für ETF](https://www.test.de/MSCI-World-Index-5886867-0/ "MSCI World Index - Das steckt hinter dem Welt-Index für ETF")
 
 test.de entdecken
 
-* [Elektrisch heizen: Strom statt Gas, teurer Spaß](https://www.test.de/Elektrisch-heizen-Strom-statt-Gas-teurer-Spass-5920210-0/ "Elektrisch heizen - Strom statt Gas, teurer Spaß")
-* [Private Kranken­versicherung Kosten: Das können PKV-Versicherte gegen steigende Kosten tun](https://www.test.de/private-krankenversicherung-kosten-6062763-0/ "Private Krankenversicherung Kosten - Das können PKV-Versicherte gegen steigende Kosten tun")
-* [Kfz-Versicherung für Wohn­mobile: Finden Sie den güns­tigsten Tarif für Ihren Camper](https://www.test.de/Kfz-Versicherung-fuer-Wohnmobile-Finden-Sie-den-guenstigsten-Tarif-fuer-Ihren-Camper-5914980-0/ "Kfz-Versicherung für Wohnmobile - Finden Sie den günstigsten Tarif für Ihren Camper")
-* [Pflanzen richtig gießen: Tipps für Besserwässerer](https://www.test.de/Pflanzen-richtig-giessen-Tipps-fuer-Besserwaesserer-5902763-0/ "Pflanzen richtig gießen - Tipps für Besserwässerer")
-* [Elektronische Patienten­akte im Test: Noch läuft es nicht rund](https://www.test.de/elektronische-Patientenakte-ePA-5918457-0/ "Elektronische Patientenakte im Test - Noch läuft es nicht rund")
-* [Schnell­test Samsung Galaxy S24-Reihe: Wie intelligent ist Samsungs neue KI?](https://www.test.de/schnelltest-samsung-galaxy-s24-smartphones-mit-ki-funktionen-6115198-0/ "Schnelltest Samsung Galaxy S24-Reihe - Wie intelligent ist Samsungs neue KI?")
+* [Veränderungen der Schild­drüse: Seltener bösartig als angenommen](https://www.test.de/Veraenderungen-der-Schilddruese-Seltener-boesartig-als-angenommen-5952404-0/ "Veränderungen der Schilddrüse - Seltener bösartig als angenommen")
+* [Sport­streaming Dazn: Drastische Preis­erhöhung – so reagieren Sie richtig](https://www.test.de/Dazn-Gebuehrenerhoehungen-Widerstand-erscheint-moeglich-5901145-0/ "Sportstreaming Dazn - Drastische Preiserhöhung – so reagieren Sie richtig")
+* [Gesetzliche Krankenkassen: 36 Krankenkassen erhöhen den Zusatz­beitrag](https://www.test.de/Gesetzliche-Krankenkassen-Steigen-die-Beitraege-2024-5898858-0/ "Gesetzliche Krankenkassen - 36 Krankenkassen erhöhen den Zusatzbeitrag")
+* [BPA in Kleinkindbüchern: Carlsen ruft Baby-Pixi-Bücher zurück](https://www.test.de/BPA-in-Kleinkindbuechern-Carlsen-ruft-Baby-Pixi-Buecher-zurueck-6109118-0/ "BPA in Kleinkindbüchern - Carlsen ruft Baby-Pixi-Bücher zurück")
+* [Wild: Hirsch, Hase, Reh: Echte Alternativen für Fleisch­fans](https://www.test.de/Wild-Hirsch-Hase-Reh-Echte-Alternativen-fuer-Fleischfans-5934969-0/ "Wild - Hirsch, Hase, Reh: Echte Alternativen für Fleischfans")
+* [Fitness-Apps im Test: Die richtige App fürs Training](https://www.test.de/Fitness-Apps-im-Test-6010207-0/ "Fitness-Apps im Test - Die richtige App fürs Training")
 
 Neueste Tests
 
+* [Smartphones im Test: Gute Handys gibt es für weniger als 200 Euro](https://www.test.de/Handys-und-Smartphones-im-Test-4222793-0/ "Smartphones im Test - Gute Handys gibt es für weniger als 200 Euro")
 * [Entnahme­plan mit ETF: Mit dem Pantoffel-Portfolio die Rente aufpeppen](https://www.test.de/pantoffel-portfolio-entnahmeplan-5754765-0/ "Entnahmeplan mit ETF - Mit dem Pantoffel-Portfolio die Rente aufpeppen")
 * [Nach­haltige Banken im Vergleich: Zinsen und Konten im grünen Bereich](https://www.test.de/Nachhaltige-Banken-Vergleich-4590882-0/ "Nachhaltige Banken im Vergleich - Zinsen und Konten im grünen Bereich")
 * [Vergleich Kredite: Sparen Sie richtig viel Zinsen mit dem besten Darlehen](https://www.test.de/Kredite-Die-besten-Darlehen-fuer-Sie-1131971-0/ "Vergleich Kredite - Sparen Sie richtig viel Zinsen mit dem besten Darlehen")
 * [Tages­geld­vergleich: So finden Sie jetzt die besten Zinsen](https://www.test.de/Tagesgeldvergleich-Die-besten-Zinsen-4196794-0/ "Tagesgeldvergleich - So finden Sie jetzt die besten Zinsen")
 * [Fest­geld­vergleich: Hier bringt Ihr Spargeld die beste Rendite – und ist sicher](https://www.test.de/Festgeldvergleich-Die-besten-Zinsen-4196084-0/ "Festgeldvergleich - Hier bringt Ihr Spargeld die beste Rendite – und ist sicher")
-* [MSCI World Index: Das steckt hinter dem Welt-Index für ETF](https://www.test.de/MSCI-World-Index-5886867-0/ "MSCI World Index - Das steckt hinter dem Welt-Index für ETF")
 
 test.de entdecken
 
-* [Elektrisch heizen: Strom statt Gas, teurer Spaß](https://www.test.de/Elektrisch-heizen-Strom-statt-Gas-teurer-Spass-5920210-0/ "Elektrisch heizen - Strom statt Gas, teurer Spaß")
-* [Private Kranken­versicherung Kosten: Das können PKV-Versicherte gegen steigende Kosten tun](https://www.test.de/private-krankenversicherung-kosten-6062763-0/ "Private Krankenversicherung Kosten - Das können PKV-Versicherte gegen steigende Kosten tun")
-* [Kfz-Versicherung für Wohn­mobile: Finden Sie den güns­tigsten Tarif für Ihren Camper](https://www.test.de/Kfz-Versicherung-fuer-Wohnmobile-Finden-Sie-den-guenstigsten-Tarif-fuer-Ihren-Camper-5914980-0/ "Kfz-Versicherung für Wohnmobile - Finden Sie den günstigsten Tarif für Ihren Camper")
-* [Pflanzen richtig gießen: Tipps für Besserwässerer](https://www.test.de/Pflanzen-richtig-giessen-Tipps-fuer-Besserwaesserer-5902763-0/ "Pflanzen richtig gießen - Tipps für Besserwässerer")
-* [Elektronische Patienten­akte im Test: Noch läuft es nicht rund](https://www.test.de/elektronische-Patientenakte-ePA-5918457-0/ "Elektronische Patientenakte im Test - Noch läuft es nicht rund")
-* [Schnell­test Samsung Galaxy S24-Reihe: Wie intelligent ist Samsungs neue KI?](https://www.test.de/schnelltest-samsung-galaxy-s24-smartphones-mit-ki-funktionen-6115198-0/ "Schnelltest Samsung Galaxy S24-Reihe - Wie intelligent ist Samsungs neue KI?")
+* [Veränderungen der Schild­drüse: Seltener bösartig als angenommen](https://www.test.de/Veraenderungen-der-Schilddruese-Seltener-boesartig-als-angenommen-5952404-0/ "Veränderungen der Schilddrüse - Seltener bösartig als angenommen")
+* [Sport­streaming Dazn: Drastische Preis­erhöhung – so reagieren Sie richtig](https://www.test.de/Dazn-Gebuehrenerhoehungen-Widerstand-erscheint-moeglich-5901145-0/ "Sportstreaming Dazn - Drastische Preiserhöhung – so reagieren Sie richtig")
+* [Gesetzliche Krankenkassen: 36 Krankenkassen erhöhen den Zusatz­beitrag](https://www.test.de/Gesetzliche-Krankenkassen-Steigen-die-Beitraege-2024-5898858-0/ "Gesetzliche Krankenkassen - 36 Krankenkassen erhöhen den Zusatzbeitrag")
+* [BPA in Kleinkindbüchern: Carlsen ruft Baby-Pixi-Bücher zurück](https://www.test.de/BPA-in-Kleinkindbuechern-Carlsen-ruft-Baby-Pixi-Buecher-zurueck-6109118-0/ "BPA in Kleinkindbüchern - Carlsen ruft Baby-Pixi-Bücher zurück")
+* [Wild: Hirsch, Hase, Reh: Echte Alternativen für Fleisch­fans](https://www.test.de/Wild-Hirsch-Hase-Reh-Echte-Alternativen-fuer-Fleischfans-5934969-0/ "Wild - Hirsch, Hase, Reh: Echte Alternativen für Fleischfans")
+* [Fitness-Apps im Test: Die richtige App fürs Training](https://www.test.de/Fitness-Apps-im-Test-6010207-0/ "Fitness-Apps im Test - Die richtige App fürs Training")
 
 Service Stiftung Warentest
 
