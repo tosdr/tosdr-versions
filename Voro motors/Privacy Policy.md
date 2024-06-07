@@ -144,7 +144,6 @@ Menu [![VORO MOTORS](//www.voromotors.com/cdn/shop/files/logo_white_410x.png?v=1
         * [About Us](https://www.voromotors.com/en-gb/pages/about)
         * [Partner Program](https://www.voromotors.com/en-gb/pages/partner-program)
         * [Become a Dealer](https://www.voromotors.com/en-gb/pages/retailer-enquiry)
-        * [Careers](https://www.voromotors.com/en-gb/pages/careers)
         * [Contact Us](https://www.voromotors.com/en-gb/pages/contact-us)
     *  [](https://www.voromotors.com/en-gb#)
 * [Our Stories](https://www.voromotors.com/en-gb/pages/blog-home)
@@ -382,7 +381,6 @@ Continue Shopping
 * [About Us](https://www.voromotors.com/en-gb/pages/about)
 * [Partner Program](https://www.voromotors.com/en-gb/pages/partner-program)
 * [Become a Dealer](https://www.voromotors.com/en-gb/pages/retailer-enquiry)
-* [Careers](https://www.voromotors.com/en-gb/pages/careers)
 * [Contact Us](https://www.voromotors.com/en-gb/pages/contact-us)
 
 *  [](https://www.voromotors.com/en-gb#)
@@ -604,8 +602,6 @@ We partner with companies like Extend to ensure your order arrives to your doors
 * [Partner Program](https://www.voromotors.com/en-gb/pages/partner-program)
     
 * [Commercial Inquiry](https://www.voromotors.com/en-gb/pages/retailer-enquiry)
-    
-* [Careers](https://www.voromotors.com/pages/career-opportunities)
     
 * [Events](https://www.voromotors.com/en-gb/pages/electric-scooter-group-ride-events)
     
