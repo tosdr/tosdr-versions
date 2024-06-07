@@ -367,7 +367,7 @@ All Fedora Documentation content available under [CC BY-SA 4.0](http://creativec
 * [Code of Conduct](https://docs.fedoraproject.org/en-US/project/code-of-conduct/)
 * [Sponsors](https://getfedora.org/en/sponsors/)
 
-Last build: 2024-06-06 13:50:07 UTC | Last content update: 2023-09-15
+Last build: 2024-06-07 05:50:08 UTC | Last content update: 2023-09-15
 
 ![Sponsored by Red Hat Logo](../../_/img/logo-sponsored-by-red-hat.png)
 
