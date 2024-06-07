@@ -279,6 +279,7 @@ Menu Close
         * [Designer insurance](https://www.axa.co.uk/business-insurance/designer-insurance/)
         * [Dog walkers’ insurance](https://www.axa.co.uk/business-insurance/dog-walkers-insurance/)
         * [Educational consultants insurance](https://www.axa.co.uk/business-insurance/professional-services/educational-consultants-insurance/)
+        * [Estate agent insurance](https://www.axa.co.uk/business-insurance/professional-services/estate-agents-insurance/)
         * [Financial services insurance](https://www.axa.co.uk/business-insurance/financial-services-insurance/)
         * [IT contractor insurance](https://www.axa.co.uk/business-insurance/it-contractor-insurance/)
         * [Life coach insurance](https://www.axa.co.uk/business-insurance/life-coach-insurance/)
