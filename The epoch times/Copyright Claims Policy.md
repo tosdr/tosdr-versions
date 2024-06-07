@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [Biden, 16 Other World Leaders Call to Finalize Gaza Ceasefire Deal](https://www.theepochtimes.com/world/biden-16-other-world-leaders-call-to-finalize-gaza-ceasefire-deal-5664000)
-    
-    NEW By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
-    
-    [![Biden, 16 Other World Leaders Call to Finalize Gaza Ceasefire Deal](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Biden, 16 Other World Leaders Call to Finalize Gaza Ceasefire Deal](https://img.theepochtimes.com/assets/uploads/2024/05/01/id5660741-Biden-GettyImages-2155460216-205x123.jpeg.webp)](https://www.theepochtimes.com/world/biden-16-other-world-leaders-call-to-finalize-gaza-ceasefire-deal-5664000)
-* [Supreme Court Finds 5–4 Federal Government Must Cover Native American Health Care](https://www.theepochtimes.com/us/supreme-court-finds-5-4-federal-government-must-cover-native-american-health-care-5663880)
-    
-    NEW By [Matthew Vadum](https://www.theepochtimes.com/author/matthew-vadum)
-    
-    [![Supreme Court Finds 5–4 Federal Government Must Cover Native American Health Care](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Supreme Court Finds 5–4 Federal Government Must Cover Native American Health Care](https://img.theepochtimes.com/assets/uploads/2024/01/16/id5566563-GettyImages-1197379005-205x123.jpg.webp)](https://www.theepochtimes.com/us/supreme-court-finds-5-4-federal-government-must-cover-native-american-health-care-5663880)
-* [Russian Warships Will Be Deployed to Caribbean Next Week, Cuba Announces](https://www.theepochtimes.com/world/russian-warships-will-be-deployed-to-caribbean-next-week-cuba-announces-5663926)
+* [Federal Judge Recuses Himself From Gaza Case After Trip to Israel](https://www.theepochtimes.com/us/federal-judge-recuses-himself-from-gaza-case-after-trip-to-israel-5664651)
     
     NEW By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
-    [![Russian Warships Will Be Deployed to Caribbean Next Week, Cuba Announces](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Federal Judge Recuses Himself From Gaza Case After Trip to Israel](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Russian Warships Will Be Deployed to Caribbean Next Week, Cuba Announces](https://img.theepochtimes.com/assets/uploads/2022/04/15/1.tagreuters.com2022binary_LYNXNPEI3D002-FILEDIMAGE-1200x750-205x123.jpg.webp)](https://www.theepochtimes.com/world/russian-warships-will-be-deployed-to-caribbean-next-week-cuba-announces-5663926)
-* [Trump Ally Steve Bannon Ordered to Surrender to Prison Soon](https://www.theepochtimes.com/us/trump-ally-steve-bannon-ordered-to-surrender-to-prison-soon-5663947)
+    ![Federal Judge Recuses Himself From Gaza Case After Trip to Israel](https://img.theepochtimes.com/assets/uploads/2023/07/09/id5383393-GettyImages-695274544-205x123.jpg.webp)](https://www.theepochtimes.com/us/federal-judge-recuses-himself-from-gaza-case-after-trip-to-israel-5664651)
+* [Supreme Court Justice Clarence Thomas Amends Disclosure to Include Gift Trips](https://www.theepochtimes.com/us/supreme-court-justice-clarence-thomas-amends-disclosure-to-include-gift-trips-5664707)
     
-    2hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
+    NEW By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
     
-    [![Trump Ally Steve Bannon Ordered to Surrender to Prison Soon](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Supreme Court Justice Clarence Thomas Amends Disclosure to Include Gift Trips](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Trump Ally Steve Bannon Ordered to Surrender to Prison Soon](https://img.theepochtimes.com/assets/uploads/2024/05/10/id5647862-Epoch_Times_IMG_5582-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-ally-steve-bannon-ordered-to-surrender-to-prison-soon-5663947)
-* [Virginia Will Leave California Electric Vehicle Mandate, Governor Announces](https://www.theepochtimes.com/us/virginia-will-leave-california-electric-vehicle-mandate-governor-announces-5663806)
+    ![Supreme Court Justice Clarence Thomas Amends Disclosure to Include Gift Trips](https://img.theepochtimes.com/assets/uploads/2024/05/30/id5659811-Clarence-Thomas-GettyImages-1431398148-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/supreme-court-justice-clarence-thomas-amends-disclosure-to-include-gift-trips-5664707)
+* [US Slaps Travel Bans on Georgian Officials for Undermining Democracy](https://www.theepochtimes.com/world/us-slaps-travel-bans-on-georgian-officials-for-undermining-democracy-5664586)
     
-    3hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    2hr By [Adam Morrow](https://www.theepochtimes.com/author/adam-morrow)
     
-    [![Virginia Will Leave California Electric Vehicle Mandate, Governor Announces](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![US Slaps Travel Bans on Georgian Officials for Undermining Democracy](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Virginia Will Leave California Electric Vehicle Mandate, Governor Announces](https://img.theepochtimes.com/assets/uploads/2024/06/06/id5664020-GettyImages-1780394534-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/virginia-will-leave-california-electric-vehicle-mandate-governor-announces-5663806)
-* [Salting Habits Linked to Higher Stomach Cancer Risk, but Cause Unclear](https://www.theepochtimes.com/health/salting-habits-linked-to-higher-stomach-cancer-risk-but-cause-unclear-5655121)
+    ![US Slaps Travel Bans on Georgian Officials for Undermining Democracy](https://img.theepochtimes.com/assets/uploads/2024/06/07/id5664657-07242023-DSC03061-Matthew-Miller-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/us-slaps-travel-bans-on-georgian-officials-for-undermining-democracy-5664586)
+* [Shortage of Skilled-Trade Workers Crippling Some Industries](https://www.theepochtimes.com/business/shortage-of-skilled-trade-workers-crippling-some-industries-5664577)
     
-    4hr By [George Citroner](https://www.theepochtimes.com/author/george-citroner), Healthline
+    2hr By [Mark Gilman](https://www.theepochtimes.com/author/mark-gilman)
     
-    [![Salting Habits Linked to Higher Stomach Cancer Risk, but Cause Unclear](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Shortage of Skilled-Trade Workers Crippling Some Industries](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Salting Habits Linked to Higher Stomach Cancer Risk, but Cause Unclear](https://img.theepochtimes.com/assets/uploads/2023/08/19/id5476415-Shutterstock_566653357-205x123.jpg.webp)](https://www.theepochtimes.com/health/salting-habits-linked-to-higher-stomach-cancer-risk-but-cause-unclear-5655121)
-* [Trump Downplays Retribution Talk If Elected: ‘It Has to Stop’](https://www.theepochtimes.com/us/trump-downplays-retribution-talk-if-elected-it-has-to-stop-5663825)
+    ![Shortage of Skilled-Trade Workers Crippling Some Industries](https://img.theepochtimes.com/assets/uploads/2024/06/07/id5664644-GettyImages-1237700364-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/business/shortage-of-skilled-trade-workers-crippling-some-industries-5664577)
+* [Biden Calls for Upholding Democracy in Normandy Cliff Speech](https://www.theepochtimes.com/us/biden-calls-for-upholding-democracy-in-normandy-speech-5664445)
     
-    4hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    3hr By [Emel Akan](https://www.theepochtimes.com/author/emel-akan) and [Caden Pearson](https://www.theepochtimes.com/author/caden-pearson)
     
-    [![Trump Downplays Retribution Talk If Elected: ‘It Has to Stop’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Biden Calls for Upholding Democracy in Normandy Cliff Speech](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Trump Downplays Retribution Talk If Elected: ‘It Has to Stop’](https://img.theepochtimes.com/assets/uploads/2024/04/24/id5636253-Trump-GettyImages-2089852398KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-downplays-retribution-talk-if-elected-it-has-to-stop-5663825)
-* [Biden Marks 80th Anniversary of D-Day, Honors World War II Veterans](https://www.theepochtimes.com/us/biden-marks-80th-anniversary-of-d-day-honors-world-war-ii-veterans-5663742)
+    ![Biden Calls for Upholding Democracy in Normandy Cliff Speech](https://img.theepochtimes.com/assets/uploads/2024/06/07/id5664631-2024-06-07T152643Z_2_LYNXMPEK560K2_RTROPTP_4_FRANCE-USA-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/biden-calls-for-upholding-democracy-in-normandy-speech-5664445)
+* [What to Expect in European Parliamentary Elections](https://www.theepochtimes.com/world/what-to-expect-in-european-parliamentary-elections-5664360)
     
-    5hr By [Emel Akan](https://www.theepochtimes.com/author/emel-akan)
+    3hr By [Ella Kietlinska](https://www.theepochtimes.com/author/ella-kietlinski), Epoch Times
     
-    [![Biden Marks 80th Anniversary of D-Day, Honors World War II Veterans](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![What to Expect in European Parliamentary Elections](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Biden Marks 80th Anniversary of D-Day, Honors World War II Veterans](https://img.theepochtimes.com/assets/uploads/2024/06/06/id5663830-Biden_Normandy_ceremony-205x123.jpg.webp)](https://www.theepochtimes.com/us/biden-marks-80th-anniversary-of-d-day-honors-world-war-ii-veterans-5663742)
-* [Chiropractic Care Reduces Opioid Prescription for Lower Back Pain by 68 Percent: Study](https://www.theepochtimes.com/health/chiropractic-care-reduces-opioid-prescription-for-lower-back-pain-by-68-percent-study-5655828)
+    ![What to Expect in European Parliamentary Elections](https://img.theepochtimes.com/assets/uploads/2024/01/27/id5574977-GettyImages-1241453280-205x123.jpg.webp)](https://www.theepochtimes.com/world/what-to-expect-in-european-parliamentary-elections-5664360)
+* [This Nutrient Heals Wounds and Bolsters Immunity, Nearly Half of Americans Don't Get Enough](https://www.theepochtimes.com/health/vitamin-c-heals-wounds-and-bolsters-immunity-nearly-half-of-americans-dont-get-enough-5649863)
     
-    9hr By [Sheramy Tsai](https://www.theepochtimes.com/author/sher-tsai)
+    4hr By [Mercura Wang](https://www.theepochtimes.com/author/mercura-wang)
     
-    [![Chiropractic Care Reduces Opioid Prescription for Lower Back Pain by 68 Percent: Study](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![This Nutrient Heals Wounds and Bolsters Immunity, Nearly Half of Americans Don't Get Enough](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Chiropractic Care Reduces Opioid Prescription for Lower Back Pain by 68 Percent: Study](https://img.theepochtimes.com/assets/uploads/2024/05/31/id5660682-Shutterstock_658942594-205x123.jpg.webp)](https://www.theepochtimes.com/health/chiropractic-care-reduces-opioid-prescription-for-lower-back-pain-by-68-percent-study-5655828)
-* [Communist China Seeks to Influence European Elections Amid Tensions With US: Report](https://www.theepochtimes.com/world/communist-china-actively-seeks-to-influence-elections-in-eu-amid-tensions-with-us-report-5662998)
+    ![This Nutrient Heals Wounds and Bolsters Immunity, Nearly Half of Americans Don't Get Enough](https://img.theepochtimes.com/assets/uploads/2024/06/06/id5664027-Vitamin_c_feature_-_Fei_Meng-3-205x123.jpg.webp)](https://www.theepochtimes.com/health/vitamin-c-heals-wounds-and-bolsters-immunity-nearly-half-of-americans-dont-get-enough-5649863)
+* [US Economy Adds 272,000 New Jobs, Unemployment Ticks Up to 4 Percent in May](https://www.theepochtimes.com/business/us-economy-adds-272000-new-jobs-unemployment-ticks-up-to-4-percent-in-may-5664095)
     
-    9hr By [Dorothy Li](https://www.theepochtimes.com/author/dorothy-li)
+    6hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
     
-    [![Communist China Seeks to Influence European Elections Amid Tensions With US: Report](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![US Economy Adds 272,000 New Jobs, Unemployment Ticks Up to 4 Percent in May](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Communist China Seeks to Influence European Elections Amid Tensions With US: Report](https://img.theepochtimes.com/assets/uploads/2024/06/06/id5663818-GettyImages-2154595740-2-OP-205x123.jpg.webp)](https://www.theepochtimes.com/world/communist-china-actively-seeks-to-influence-elections-in-eu-amid-tensions-with-us-report-5662998)
+    ![US Economy Adds 272,000 New Jobs, Unemployment Ticks Up to 4 Percent in May](https://img.theepochtimes.com/assets/uploads/2024/06/07/id5664541-2024-06-07T050515Z_1_LYNXMPEK5604V_RTROPTP_4_USA-ECONOMY-1-OP-205x123.jpg.webp)](https://www.theepochtimes.com/business/us-economy-adds-272000-new-jobs-unemployment-ticks-up-to-4-percent-in-may-5664095)
+* [Court Rules Meta Must Face Lawsuit Over Fraudulent Ads](https://www.theepochtimes.com/us/court-rules-meta-must-face-lawsuit-over-fraudulent-ads-5664468)
+    
+    7hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
+    
+    [![Court Rules Meta Must Face Lawsuit Over Fraudulent Ads](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Court Rules Meta Must Face Lawsuit Over Fraudulent Ads](https://img.theepochtimes.com/assets/uploads/2024/06/07/id5664636-01312024-DSC03441-Mark-ZuckerbergKO-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/court-rules-meta-must-face-lawsuit-over-fraudulent-ads-5664468)
+* [Cows With Bird Flu Have Died in 5 US States: Officials](https://www.theepochtimes.com/health/cows-with-bird-flu-have-died-in-5-us-states-officials-5664437)
+    
+    8hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
+    
+    [![Cows With Bird Flu Have Died in 5 US States: Officials](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Cows With Bird Flu Have Died in 5 US States: Officials](https://img.theepochtimes.com/assets/uploads/2024/06/07/id5664542-dairy-cow-OP-205x123.jpg.webp)](https://www.theepochtimes.com/health/cows-with-bird-flu-have-died-in-5-us-states-officials-5664437)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
