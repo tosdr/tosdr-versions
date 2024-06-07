@@ -71,6 +71,15 @@ Close
 Clark College - Home of the Penguin Nation
 ==========================================
 
+![Important Info Icon](/images/i-icon.png)
+
+Financial Aid Office Closed June 10-28
+--------------------------------------
+
+Financial Aid office will be closed to focus on processing aid packages as we adjust to new federal systems. Priority given for summer enrollment. Your offer will be emailed to you as soon as your eligibility is determined. Please find answers on the FAQs page OR visit One Stop in Gaiser. Submit forms though ctcLink or in person at One Stop in Gaiser, Mon - Thurs, 9am – 4pm. If you plan to start Summer or Fall term, please register for classes asap.
+
+[FAQshttps://www.clark.edu/enroll/paying-for-college/financial-aid/faq.php](https://www.clark.edu/enroll/paying-for-college/financial-aid/faq.php)
+
 [Home](https://www.clark.edu/) » [About Clark](https://www.clark.edu/about/) » [Governance](https://www.clark.edu/about/governance/) » [Policies & Procedures](https://www.clark.edu/about/governance/policies-procedures/) »  Public Records Privacy Protection Policy
 
 Public Records Privacy Protection Policy
