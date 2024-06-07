@@ -3,7 +3,7 @@ In order to view this page correctly, you must have a JavaScript-enabled browser
 We’re sorry, your browser appears to be outdated.  
 To see the content of this webpage correctly, please update to the latest version or install a new browser for free, such as [Avast Secure Browser](https://www.avast.com/secure-browser) or [Google Chrome](https://www.google.com/chrome/).
 
-[![Avast](https://static3.avast.com/10003739/web/i/v2/components/logos/avast-logos/avast-logo-default.svg)](https://www.avast.com/index "Home")
+[![Avast](https://static3.avast.com/10003740/web/i/v2/components/logos/avast-logos/avast-logo-default.svg)](https://www.avast.com/index "Home")
 
 [Skip to main content](#main-content) Close
 
@@ -19,29 +19,29 @@ For home
 
 * Security
     
-    * [![](https://static3.avast.com/10003739/web/i/v2/components/icons/product-icons/32x32/product-icon-32x32-free_white.svg)
+    * [![](https://static3.avast.com/10003740/web/i/v2/components/icons/product-icons/32x32/product-icon-32x32-free_white.svg)
         
         Free Antivirus
         
-        Basic protection for all your devices](https://www.avast.com/free-antivirus-download)[![](https://static3.avast.com/10003739/web/i/v2/components/icons/product-icons/32x32/product-icon-32x32-free_white.svg)
+        Basic protection for all your devices](https://www.avast.com/free-antivirus-download)[![](https://static3.avast.com/10003740/web/i/v2/components/icons/product-icons/32x32/product-icon-32x32-free_white.svg)
         
         Free Antivirus
         
-        Basic protection for all your devices](https://www.avast.com/free-mac-security)[![](https://static3.avast.com/10003739/web/i/v2/components/icons/product-icons/32x32/product-icon-32x32-free_white.svg)
+        Basic protection for all your devices](https://www.avast.com/free-mac-security)[![](https://static3.avast.com/10003740/web/i/v2/components/icons/product-icons/32x32/product-icon-32x32-free_white.svg)
         
         Free Antivirus
         
-        Basic protection for all your devices](https://www.avast.com/free-mobile-security)[![](https://static3.avast.com/10003739/web/i/v2/components/icons/product-icons/32x32/product-icon-32x32-free_white.svg)
+        Basic protection for all your devices](https://www.avast.com/free-mobile-security)[![](https://static3.avast.com/10003740/web/i/v2/components/icons/product-icons/32x32/product-icon-32x32-free_white.svg)
         
         Free Antivirus
         
         Basic protection for all your devices](https://www.avast.com/free-ios-security)
-    * [![](https://static3.avast.com/10003739/web/i/v2/components/icons/product-icons/32x32/product-icon-32x32-premium_white.svg)
+    * [![](https://static3.avast.com/10003740/web/i/v2/components/icons/product-icons/32x32/product-icon-32x32-premium_white.svg)
         
         Premium Security
         
         Complete protection against all internet threats](https://www.avast.com/premium-security)
-    * [![](https://static3.avast.com/10003739/web/i/v2/components/icons/product-icons/32x32/product-icon-32x32-ultimate_white.svg)
+    * [![](https://static3.avast.com/10003740/web/i/v2/components/icons/product-icons/32x32/product-icon-32x32-ultimate_white.svg)
         
         Ultimate
         
@@ -53,32 +53,32 @@ For home
     
 * Privacy
     
-    * [![](https://static3.avast.com/10003739/web/i/v2/components/icons/product-icons/32x32/product-icon-32x32-vpn_white.svg)
+    * [![](https://static3.avast.com/10003740/web/i/v2/components/icons/product-icons/32x32/product-icon-32x32-vpn_white.svg)
         
         SecureLine VPN
         
         Encrypt your connection to stay safe on public networks](https://www.avast.com/secureline-vpn)
-    * [![](https://static3.avast.com/10003739/web/i/v2/components/icons/product-icons/32x32/product-icon-32x32-antitrack_white.svg)
+    * [![](https://static3.avast.com/10003740/web/i/v2/components/icons/product-icons/32x32/product-icon-32x32-antitrack_white.svg)
         
         AntiTrack
         
         Disguise your digital fingerprint to avoid personalized ads](https://www.avast.com/antitrack)
-    * [![](https://static3.avast.com/10003739/web/i/v2/components/icons/product-icons/32x32/product-icon-32x32-secure-browser-color.svg)
+    * [![](https://static3.avast.com/10003740/web/i/v2/components/icons/product-icons/32x32/product-icon-32x32-secure-browser-color.svg)
         
         Secure Browser
         
         Secure, private, and easy to use web browser](https://www.avast.com/secure-browser)
-    * [![](https://static3.avast.com/10003739/web/i/v2/components/icons/product-icons/32x32/product-icon-32x32-secure-browser-pro-color.svg)
+    * [![](https://static3.avast.com/10003740/web/i/v2/components/icons/product-icons/32x32/product-icon-32x32-secure-browser-pro-color.svg)
         
         Secure Browser PRO
         
         Unlock the full potential of Avast Secure Browser and fully encrypt your online activity](https://www.avast.com/secure-browser-pro)
-    * [![](https://static3.avast.com/10003739/web/i/v2/components/icons/product-icons/32x32/product-icon-32x32-breachguard_white.svg)
+    * [![](https://static3.avast.com/10003740/web/i/v2/components/icons/product-icons/32x32/product-icon-32x32-breachguard_white.svg)
         
         BreachGuard
         
         Protect your personal info from being exposed and sold](https://www.avast.com/breachguard)
-    * [![](https://static3.avast.com/10003739/web/i/v2/components/icons/product-icons/32x32/product-icon-32x32-online-privacy-and-security_white.svg)
+    * [![](https://static3.avast.com/10003740/web/i/v2/components/icons/product-icons/32x32/product-icon-32x32-online-privacy-and-security_white.svg)
         
         Online Security & Privacy
         
@@ -86,30 +86,30 @@ For home
     
 * Performance
     
-    * [![](https://static3.avast.com/10003739/web/i/v2/components/icons/product-icons/32x32/product-icon-32x32-cleanup-premium_white.svg)
+    * [![](https://static3.avast.com/10003740/web/i/v2/components/icons/product-icons/32x32/product-icon-32x32-cleanup-premium_white.svg)
         
         Cleanup Premium
         
-        Boost your computer’s speed and performance](https://www.avast.com/cleanup)[![](https://static3.avast.com/10003739/web/i/v2/components/icons/product-icons/32x32/product-icon-32x32-cleanup-premium_white.svg)
+        Boost your computer’s speed and performance](https://www.avast.com/cleanup)[![](https://static3.avast.com/10003740/web/i/v2/components/icons/product-icons/32x32/product-icon-32x32-cleanup-premium_white.svg)
         
         Cleanup Premium
         
-        Boost your computer’s speed and performance](https://www.avast.com/cleanup-mac)[![](https://static3.avast.com/10003739/web/i/v2/components/icons/product-icons/32x32/product-icon-32x32-cleanup-premium_white.svg)
+        Boost your computer’s speed and performance](https://www.avast.com/cleanup-mac)[![](https://static3.avast.com/10003740/web/i/v2/components/icons/product-icons/32x32/product-icon-32x32-cleanup-premium_white.svg)
         
         Cleanup Premium
         
-        Boost your computer’s speed and performance](https://www.avast.com/cleanup-android)[![](https://static3.avast.com/10003739/web/i/v2/components/icons/product-icons/32x32/product-icon-32x32-cleanup-premium_white.svg)
+        Boost your computer’s speed and performance](https://www.avast.com/cleanup-android)[![](https://static3.avast.com/10003740/web/i/v2/components/icons/product-icons/32x32/product-icon-32x32-cleanup-premium_white.svg)
         
         Cleanup Premium
         
         Boost your computer’s speed and performance](https://www.avast.com/cleanup)
-    * [![](https://static3.avast.com/10003739/web/i/v2/components/icons/product-icons/32x32/product-icon-32x32-driver-updater_white.svg)
+    * [![](https://static3.avast.com/10003740/web/i/v2/components/icons/product-icons/32x32/product-icon-32x32-driver-updater_white.svg)
         
         Driver Updater
         
         Automatically update drivers with a single click](https://www.avast.com/driver-updater)
     
-* [![](https://static3.avast.com/10003739/web/i/v2/components/icons/product-icons/32x32/product-icon-32x32-avast-one.svg)
+* [![](https://static3.avast.com/10003740/web/i/v2/components/icons/product-icons/32x32/product-icon-32x32-avast-one.svg)
     
     Avast One](https://www.avast.com/avast-one)
 * [Store](https://www.avast.com/store)
@@ -123,7 +123,7 @@ For business
 
 * Products
     
-    * [![](https://static3.avast.com/10003739/web/i/v2/components/icons/product-icons/32x32/product-icon-32x32-smb-home-office_white.svg)
+    * [![](https://static3.avast.com/10003740/web/i/v2/components/icons/product-icons/32x32/product-icon-32x32-smb-home-office_white.svg)
         
         Small & Home  
         Office
@@ -132,7 +132,7 @@ For business
         
         Protect up to 10 devices, including laptops, mobile, computers, and tablets with [Small Office Protection.](https://www.avast.com/business/products/small-office-protection)
         
-    * [![](https://static3.avast.com/10003739/web/i/v2/components/icons/product-icons/32x32/product-icon-32x32-smb-small-business_white.svg)
+    * [![](https://static3.avast.com/10003740/web/i/v2/components/icons/product-icons/32x32/product-icon-32x32-smb-small-business_white.svg)
         
         Small Businesses
         
@@ -748,18 +748,18 @@ The following special terms apply to certain Solutions. If these special terms c
 
 [Please click here to view other EULAs (including archived versions)](https://www.avast.com/eula-legacy)
 
-![](https://static3.avast.com/10003739/web/i/v2/components/icons/browsers/chrome.svg)
+![](https://static3.avast.com/10003740/web/i/v2/components/icons/browsers/chrome.svg)
 
 #### Avast recommends using  
 the **FREE** Chrome™ internet browser.
 
 [Download Chrome](https://www.google.com/chrome/)
 
-[![Google Play Link](https://static3.avast.com/38498787/web/i/v2/components/store-badge/google-play/google-play-badge.svg)](https://play.google.com/store/apps/details/Google_Chrome_Fast_Secure?id=com.android.chrome "Download Chrome")
+[![Google Play Link](https://static3.avast.com/52649596/web/i/v2/components/store-badge/google-play/google-play-badge.svg)](https://play.google.com/store/apps/details/Google_Chrome_Fast_Secure?id=com.android.chrome "Download Chrome")
 
-[![Apple Store Link](https://static3.avast.com/11865863/web/i/v2/components/store-badge/app-store/app-store-badge.svg)](https://apps.apple.com/us/app/google-chrome/id535886823 "Download Chrome")
+[![Apple Store Link](https://static3.avast.com/64108945/web/i/v2/components/store-badge/app-store/app-store-badge.svg)](https://apps.apple.com/us/app/google-chrome/id535886823 "Download Chrome")
 
-![](https://static3.avast.com/10003739/web/i/v2/components/logos/avast-logos/avast-logo-inverse.svg)
+![](https://static3.avast.com/10003740/web/i/v2/components/logos/avast-logos/avast-logo-inverse.svg)
 
 Worldwide (English)
 
@@ -795,13 +795,13 @@ Company
 
 [](https://www.facebook.com/avast "facebook")[](https://www.instagram.com/avast "instagram")[](https://twitter.com/Avast "twitter")[](https://www.youtube.com/avast "youtube")
 
- ![](https://static3.avast.com/10003739/web/i/v2/components/logos/gen-logos/gen-logo.svg) © 2024 Gen Digital Inc. All rights reserved.
+ ![](https://static3.avast.com/10003740/web/i/v2/components/logos/gen-logos/gen-logo.svg) © 2024 Gen Digital Inc. All rights reserved.
 
-[Privacy policy](https://www.avast.com/privacy-policy) [Products policy](https://www.avast.com/products-policy) [Legal](https://www.avast.com/legal) [Report vulnerability](https://www.avast.com/coordinated-vulnerability-disclosure) [Contact security](https://www.avast.com/bug-bounty) [Modern Slavery Statement](https://static3.avast.com/10003739/web/o/legal/Avast-Modern-Slavery-Statement-2022.pdf) [Do not sell my info](https://press.avast.com/privacy-listing/en/do-not-sell) [Subscription details](https://www.avast.com/subscription-details)
+[Privacy policy](https://www.avast.com/privacy-policy) [Products policy](https://www.avast.com/products-policy) [Legal](https://www.avast.com/legal) [Report vulnerability](https://www.avast.com/coordinated-vulnerability-disclosure) [Contact security](https://www.avast.com/bug-bounty) [Modern Slavery Statement](https://static3.avast.com/10003740/web/o/legal/Avast-Modern-Slavery-Statement-2022.pdf) [Do not sell my info](https://press.avast.com/privacy-listing/en/do-not-sell) [Subscription details](https://www.avast.com/subscription-details)
 
 Close
 
-![](https://static3.avast.com/10003739/web/i/v2/aim/img/_components/dtyp-thumbup.png)
+![](https://static3.avast.com/10003740/web/i/v2/aim/img/_components/dtyp-thumbup.png)
 
 Almost done!
 ============
