@@ -621,4 +621,4 @@ Follow us: [Twitter](https://twitter.com/blendermarket), [Facebook](https://www.
 * [Privacy Policy](https://blendermarket.com/policies/privacy-policy)
 * [\[email protected\]](https://blendermarket.com/cdn-cgi/l/email-protection)
 
-© 2024 Blender Market, LLC. All rights reserved. v**2.7.13**
+© 2024 Blender Market, LLC. All rights reserved. v**2.7.14**
