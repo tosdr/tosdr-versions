@@ -68,7 +68,6 @@ Enjoy Free Shipping Over $45
     
     * [Omega-3](https://coromega.com/collections/omega-3)
     * [Kids](https://coromega.com/collections/kids)
-    * [Pets](https://coromega.com/collections/pet)
     * [Boosters](https://coromega.com/collections/boosters)
     
 * [About](https://coromega.com/pages/about)
