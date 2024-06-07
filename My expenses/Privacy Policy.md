@@ -189,19 +189,19 @@ With your support, My Expenses keeps growing in functionality, while being distr
 
 3.8.52014-05-28
 
-[![](https://github.com/favicon.ico)](https://github.com/mtotschnig/MyExpenses/projects/https://github.com/mtotschnig/MyExpenses/projects/143#column-19888171) [![](https://mastodon.social/favicon.ico)](https://mastodon.social/@myexpenses/https://mastodon.social/@myexpenses/112514030317651128) FinTS: ING-DiBa. Print: Configuration (Paper format, Orientation, Font size)
+[![](https://github.com/favicon.ico)](https://github.com/mtotschnig/MyExpenses/projects/143#column-19888171) [![](https://mastodon.social/favicon.ico)](https://mastodon.social/@myexpenses/112514030317651128) FinTS: ING-DiBa. Print: Configuration (Paper format, Orientation, Font size)
 
 3.8.42014-05-17
 
-[![](https://github.com/favicon.ico)](https://github.com/mtotschnig/MyExpenses/projects/https://github.com/mtotschnig/MyExpenses/projects/142#column-19861846) [![](https://mastodon.social/favicon.ico)](https://mastodon.social/@myexpenses/https://mastodon.social/@myexpenses/112449360780010906) Simplified setup of cloud backup
+[![](https://github.com/favicon.ico)](https://github.com/mtotschnig/MyExpenses/projects/142#column-19861846) [![](https://mastodon.social/favicon.ico)](https://mastodon.social/@myexpenses/112449360780010906) Simplified setup of cloud backup
 
 3.8.32014-04-29
 
-[![](https://github.com/favicon.ico)](https://github.com/mtotschnig/MyExpenses/projects/https://github.com/mtotschnig/MyExpenses/projects/140#column-19850840) [![](https://mastodon.social/favicon.ico)](https://mastodon.social/@myexpenses/https://mastodon.social/@myexpenses/112343594355860132) Budgeting 4.0
+[![](https://github.com/favicon.ico)](https://github.com/mtotschnig/MyExpenses/projects/140#column-19850840) [![](https://mastodon.social/favicon.ico)](https://mastodon.social/@myexpenses/112343594355860132) Budgeting 4.0
 
 3.8.22014-04-15
 
-[![](https://github.com/favicon.ico)](https://github.com/mtotschnig/MyExpenses/projects/https://github.com/mtotschnig/MyExpenses/projects/139#column-19841847) [![](https://mastodon.social/favicon.ico)](https://mastodon.social/@myexpenses/https://mastodon.social/@myexpenses/112277216301034271) Search: Refinement of the user interface. Account widget configuration: Buttons. “Scan receipt” feature can be called from widget “My accounts”.
+[![](https://github.com/favicon.ico)](https://github.com/mtotschnig/MyExpenses/projects/139#column-19841847) [![](https://mastodon.social/favicon.ico)](https://mastodon.social/@myexpenses/112277216301034271) Search: Refinement of the user interface. Account widget configuration: Buttons. “Scan receipt” feature can be called from widget “My accounts”.
 
 3.8.12024-04-06
 
