@@ -36,18 +36,18 @@
         
         Linux version of TargetCompany ransomware focuses on VMware ESXi](https://www.bleepingcomputer.com/news/security/linux-version-of-targetcompany-ransomware-focuses-on-vmware-esxi/)
     
-    * [![Linux version of TargetCompany ransomware focuses on VMware ESXi](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![Hackers exploit 2018 ThinkPHP flaws to install ‘Dama’ web shells](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Linux version of TargetCompany ransomware focuses on VMware ESXi](https://www.bleepingcomputer.com/news/security/linux-version-of-targetcompany-ransomware-focuses-on-vmware-esxi/)
-    * [![FBI recovers 7,000 LockBit keys, urges ransomware victims to reach out](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Hackers exploit 2018 ThinkPHP flaws to install ‘Dama’ web shells](https://www.bleepingcomputer.com/news/security/hackers-exploit-2018-thinkphp-flaws-to-install-dama-web-shells/)
+    * [![Ukraine says hackers abuse SyncThing data sync tool to steal data](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        FBI recovers 7,000 LockBit keys, urges ransomware victims to reach out](https://www.bleepingcomputer.com/news/security/fbi-recovers-7-000-lockbit-keys-urges-ransomware-victims-to-reach-out/)
-    * [![Google Chrome reduced cookie requests to improve performance](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Ukraine says hackers abuse SyncThing data sync tool to steal data](https://www.bleepingcomputer.com/news/security/ukraine-says-hackers-abuse-syncthing-data-sync-tool-to-steal-data/)
+    * [![New Fog ransomware targets US education sector via breached VPNs](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Google Chrome reduced cookie requests to improve performance](https://www.bleepingcomputer.com/news/google/google-chrome-reduced-cookie-requests-to-improve-performance/)
-    * [![Advance Auto Parts stolen data for sale after Snowflake attack](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        New Fog ransomware targets US education sector via breached VPNs](https://www.bleepingcomputer.com/news/security/new-fog-ransomware-targets-us-education-sector-via-breached-vpns/)
+    * [![Get Dad the cloud backups he needs with $690 off 1TB of Koofr Cloud](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Advance Auto Parts stolen data for sale after Snowflake attack](https://www.bleepingcomputer.com/news/security/advance-auto-parts-stolen-data-for-sale-after-snowflake-attack/)
+        Get Dad the cloud backups he needs with $690 off 1TB of Koofr Cloud](https://www.bleepingcomputer.com/offer/deals/get-dad-the-cloud-backups-he-needs-with-690-off-1tb-of-koofr-cloud/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
@@ -448,17 +448,17 @@ Popular Stories
 
 Latest forum topics
 
-* [Hi there !](https://www.bleepingcomputer.com/forums/t/797999/hi-there/)
+* [lenovo solution, hardware scan - useful or unneeded?](https://www.bleepingcomputer.com/forums/t/798026/lenovo-solution-hardware-scan-useful-or-unneeded/)
     
-    [ipc](https://www.bleepingcomputer.com/forums/u/1315553/ipc/) in [Introductions](https://www.bleepingcomputer.com/forums/f/64/introductions/)
+    [cafejose](https://www.bleepingcomputer.com/forums/u/552116/cafejose/) in [All Other Applications](https://www.bleepingcomputer.com/forums/f/57/all-other-applications/)
     
-* [Character Design Search](https://www.bleepingcomputer.com/forums/t/797996/character-design-search/)
+* [CFL (Football) Season Opener now | CBS Sports for USA other option](https://www.bleepingcomputer.com/forums/t/798025/cfl-football-season-opener-now-cbs-sports-for-usa-other-option/)
     
-    [RedPhoenix12](https://www.bleepingcomputer.com/forums/u/1315519/redphoenix12/) in [Graphics Design and Photo Editing](https://www.bleepingcomputer.com/forums/f/37/graphics-design-and-photo-editing/)
+    [Pkshadow](https://www.bleepingcomputer.com/forums/u/1144416/pkshadow/) in [General Chat](https://www.bleepingcomputer.com/forums/f/5/general-chat/)
     
-* [Is my system completely disinfected?](https://www.bleepingcomputer.com/forums/t/797995/is-my-system-completely-disinfected/)
+* [LastPass: login issues, reports of problems](https://www.bleepingcomputer.com/forums/t/798021/lastpass-login-issues-reports-of-problems/)
     
-    [alva121](https://www.bleepingcomputer.com/forums/u/1315648/alva121/) in [Virus, Trojan, Spyware, and Malware Removal Help](https://www.bleepingcomputer.com/forums/f/22/virus-trojan-spyware-and-malware-removal-help/)
+    [cafejose](https://www.bleepingcomputer.com/forums/u/552116/cafejose/) in [General Security](https://www.bleepingcomputer.com/forums/f/45/general-security/)
     
 
 Latest virus removal guides
@@ -497,7 +497,7 @@ Latest Downloads
     
     Version: 0.81
     
-    **41,582 _Downloads_**
+    **41,602 _Downloads_**
     
 * ![Malwarebytes Anti-Malware Logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -513,7 +513,7 @@ Latest Downloads
     
     Version: NA
     
-    **102,949 _Downloads_**
+    **102,956 _Downloads_**
     
 * ![Malwarebytes Support Tool Logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -521,7 +521,7 @@ Latest Downloads
     
     Version: NA
     
-    **150,089 _Downloads_**
+    **150,094 _Downloads_**
     
 * ![FilesLockerDecrypter Logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -529,7 +529,7 @@ Latest Downloads
     
     Version: NA
     
-    **48,892 _Downloads_**
+    **48,901 _Downloads_**
     
 
 ##### Follow us:
