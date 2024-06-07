@@ -2,7 +2,7 @@ N26 Cookie Policy
 
 
 
-(Version 3.7 – 11 April 2024)
+(Version 3.8 – 06 June 2024)
 
 
 
@@ -394,7 +394,7 @@ Telecommunications-Telemed
 
 ia Data Protection Act
 
-(TTDSG) together with Art. 5
+(TDDDG) together with Art. 5
 
 (3) directive on privacy and
 
@@ -488,7 +488,7 @@ Telecommunications-Telemed
 
 ia Data Protection Act
 
-(TTDSG) together with Art. 5
+(TDDDG) together with Art. 5
 
 (3) directive on privacy and
 
@@ -580,7 +580,7 @@ Telecommunications-Telemed
 
 ia Data Protection Act
 
-(TTDSG) together with Art. 5
+(TDDDG) together with Art. 5
 
 (3) directive on privacy and
 
@@ -670,7 +670,7 @@ Telecommunications-Telemed
 
 ia Data Protection Act
 
-(TTDSG) together with Art. 5
+(TDDDG) together with Art. 5
 
 (3) directive on privacy and
 
@@ -758,7 +758,7 @@ Telecommunications-Telemed
 
 ia Data Protection Act
 
-(TTDSG) together with Art. 5
+(TDDDG) together with Art. 5
 
 (3) directive on privacy and
 
@@ -870,7 +870,7 @@ Telecommunications-Telemed
 
 ia Data Protection Act
 
-(TTDSG) together with Art. 5
+(TDDDG) together with Art. 5
 
 (3) directive on privacy and
 
@@ -970,7 +970,7 @@ Telecommunications-Telemed
 
 ia Data Protection Act
 
-(TTDSG) together with Art. 5
+(TDDDG) together with Art. 5
 
 (3) directive on privacy and
 
@@ -1050,7 +1050,7 @@ Telecommunications-Telemed
 
 ia Data Protection Act
 
-(TTDSG) together with Art. 5
+(TDDDG) together with Art. 5
 
 (3) directive on privacy and
 
@@ -1190,7 +1190,7 @@ Telecommunications-Telemed
 
 ia Data Protection Act
 
-(TTDSG) together with Art. 5
+(TDDDG) together with Art. 5
 
 (3) directive on privacy and
 
@@ -1328,7 +1328,7 @@ Telecommunications-Telemed
 
 ia Data Protection Act
 
-(TTDSG) together with Art. 5
+(TDDDG) together with Art. 5
 
 (3) directive on privacy and
 
@@ -1456,7 +1456,7 @@ Telecommunications-Telemed
 
 ia Data Protection Act
 
-(TTDSG) together with Art. 5
+(TDDDG) together with Art. 5
 
 (3) directive on privacy and
 
@@ -1550,7 +1550,7 @@ Telecommunications-Telemed
 
 ia Data Protection Act
 
-(TTDSG) together with Art. 5
+(TDDDG) together with Art. 5
 
 (3) directive on privacy and
 
@@ -1674,7 +1674,7 @@ Telecommunications-Telemed
 
 ia Data Protection Act
 
-(TTDSG) together with Art. 5
+(TDDDG) together with Art. 5
 
 (3) directive on privacy and
 
@@ -1770,7 +1770,7 @@ Telecommunications-Telemed
 
 ia Data Protection Act
 
-(TTDSG) together with Art. 5
+(TDDDG) together with Art. 5
 
 (3) directive on privacy and
 
@@ -1868,7 +1868,7 @@ Telecommunications-Telemed
 
 ia Data Protection Act
 
-(TTDSG) together with Art. 5
+(TDDDG) together with Art. 5
 
 (3) directive on privacy and
 
@@ -1883,14 +1883,6 @@ a strictly necessary Cookie,
 your consent to our placing of
 
 the Cookie is not required.
-
-
-
-Art. 6 (1) f) GDPR - processing
-
-of your personal data is based
-
-on our legitimate interest.
 
 
 
@@ -1909,8 +1901,6 @@ outside of
 the EU
 
 
-
-8
 
 n26.timezone
 
@@ -1944,18 +1934,6 @@ trustworthy and reliable
 
 manner. The Cookie ensures
 
-that our online banking
-
-services can be provided as
-
-required by setting the
-
-correct timezone region
-
-value, based on the user's
-
-browser.
-
 
 
 Timezone region
@@ -1970,9 +1948,39 @@ Telecommunications-Telemed
 
 ia Data Protection Act
 
-(TTDSG) together with Art. 5
+(TDDDG) together with Art. 5
 
 (3) directive on privacy and
+
+
+
+European
+
+Union
+
+
+
+Data is not
+
+transferred
+
+
+
+8
+
+that our online banking
+
+services can be provided as
+
+required by setting the
+
+correct timezone region
+
+value, based on the user's
+
+browser.
+
+
 
 electronic communications
 
@@ -1987,24 +1995,6 @@ your consent to our placing of
 the Cookie is not required.
 
 
-
-Art. 6 (1) f) GDPR - processing
-
-of your personal data is based
-
-on our legitimate interest.
-
-
-
-European
-
-Union
-
-
-
-Data is not
-
-transferred
 
 outside of
 
@@ -2066,7 +2056,7 @@ Telecommunications-Telemed
 
 ia Data Protection Act
 
-(TTDSG) together with Art. 5
+(TDDDG) together with Art. 5
 
 (3) directive on privacy and
 
@@ -2158,7 +2148,7 @@ Telecommunications-Telemed
 
 ia Data Protection Act
 
-(TTDSG) together with Art. 5
+(TDDDG) together with Art. 5
 
 (3) directive on privacy and
 
@@ -2250,7 +2240,7 @@ Telecommunications-Telemed
 
 ia Data Protection Act
 
-(TTDSG) together with Art. 5
+(TDDDG) together with Art. 5
 
 (3) directive on privacy and
 
@@ -2261,6 +2251,18 @@ together with the national act
 of implementation - as this is
 
 a strictly necessary Cookie,
+
+your consent to our placing of
+
+the Cookie is not required.
+
+
+
+Art. 6 (1) f) GDPR - collecting
+
+of your personal data is based
+
+on our legitimate interest.
 
 
 
@@ -2281,20 +2283,6 @@ the EU
 
 
 9
-
-your consent to our placing of
-
-the Cookie is not required.
-
-
-
-Art. 6 (1) f) GDPR - collecting
-
-of your personal data is based
-
-on our legitimate interest.
-
-
 
 Optanon
 
@@ -2410,7 +2398,7 @@ Telecommunications-Telemed
 
 ia Data Protection Act
 
-(TTDSG) together with Art. 5
+(TDDDG) together with Art. 5
 
 (3) directive on privacy and
 
@@ -2546,7 +2534,7 @@ Telecommunications-Telemed
 
 ia Data Protection Act
 
-(TTDSG) together with Art. 5
+(TDDDG) together with Art. 5
 
 (3) directive on privacy and
 
@@ -2694,6 +2682,18 @@ ensure efficient and
 
 user-friendly access to our
 
+websites. Placing the Cookie
+
+allows users to keep visiting
+
+the N26 websites and
+
+enjoying their browsing
+
+experiences with pre-chosen
+
+settings, here with regard to
+
 
 
 ‘True’ or ‘False’
@@ -2708,35 +2708,7 @@ Telecommunications-Telemed
 
 ia Data Protection Act
 
-
-
-European
-
-Union
-
-
-
-10
-
-websites. Placing the Cookie
-
-allows users to keep visiting
-
-the N26 websites and
-
-enjoying their browsing
-
-experiences with pre-chosen
-
-settings, here with regard to
-
-their preferences for using
-
-our discreet mode.
-
-
-
-(TTDSG) together with Art. 5
+(TDDDG) together with Art. 5
 
 (3) directive on privacy and
 
@@ -2748,9 +2720,11 @@ of implementation - as this is
 
 a strictly necessary Cookie,
 
-your consent to our placing of
 
-the Cookie is not required.
+
+European
+
+Union
 
 
 
@@ -2761,6 +2735,18 @@ transferred
 outside of
 
 the EU
+
+
+
+10
+
+their preferences for using
+
+our discreet mode.
+
+your consent to our placing of
+
+the Cookie is not required.
 
 
 
@@ -2824,7 +2810,7 @@ Telecommunications-Telemed
 
 ia Data Protection Act
 
-(TTDSG) together with Art. 5
+(TDDDG) together with Art. 5
 
 (3) directive on privacy and
 
@@ -2916,7 +2902,7 @@ Telecommunications-Telemed
 
 ia Data Protection Act
 
-(TTDSG) together with Art. 5
+(TDDDG) together with Art. 5
 
 (3) directive on privacy and
 
@@ -3018,7 +3004,7 @@ Telecommunications-Telemed
 
 ia Data Protection Act
 
-(TTDSG) together with Art. 5
+(TDDDG) together with Art. 5
 
 (3) directive on privacy and
 
@@ -3122,7 +3108,7 @@ Telecommunications-Telemed
 
 ia Data Protection Act
 
-(TTDSG) together with Art. 5
+(TDDDG) together with Art. 5
 
 (3) directive on privacy and
 
@@ -3156,8 +3142,6 @@ the EU
 
 
 
-11
-
 num26Space
 
 Transaction
@@ -3186,6 +3170,30 @@ ensure efficient and
 
 user-friendly access to our
 
+
+
+‘True’ or ‘False’
+
+value
+
+Sec. 25 (2) no. 2 of the
+
+German
+
+Telecommunications-Telemed
+
+ia Data Protection Act
+
+
+
+European
+
+Union
+
+
+
+11
+
 websites. This Cookie is
 
 used to store whether users
@@ -3210,19 +3218,7 @@ two Spaces.
 
 
 
-‘True’ or ‘False’
-
-value
-
-Sec. 25 (2) no. 2 of the
-
-German
-
-Telecommunications-Telemed
-
-ia Data Protection Act
-
-(TTDSG) together with Art. 5
+(TDDDG) together with Art. 5
 
 (3) directive on privacy and
 
@@ -3237,12 +3233,6 @@ a strictly necessary Cookie,
 your consent to our placing of
 
 the Cookie is not required.
-
-
-
-European
-
-Union
 
 
 
@@ -3334,7 +3324,7 @@ Telecommunications-Telemed
 
 ia Data Protection Act
 
-(TTDSG) together with Art. 5
+(TDDDG) together with Art. 5
 
 (3) directive on privacy and
 
@@ -3430,7 +3420,7 @@ Telecommunications-Telemed
 
 ia Data Protection Act
 
-(TTDSG) together with Art. 5
+(TDDDG) together with Art. 5
 
 (3) directive on privacy and
 
@@ -3512,7 +3502,7 @@ Telecommunications-Telemed
 
 ia Data Protection Act
 
-(TTDSG) together with Art. 5
+(TDDDG) together with Art. 5
 
 (3) directive on privacy and
 
@@ -3523,6 +3513,10 @@ together with the national act
 of implementation - as this is
 
 a strictly necessary Cookie,
+
+your consent to our placing of
+
+the Cookie is not required.
 
 
 
@@ -3543,12 +3537,6 @@ the EU
 
 
 12
-
-your consent to our placing of
-
-the Cookie is not required.
-
-
 
 N26.free_trial
 
@@ -3626,7 +3614,7 @@ Telecommunications-Telemed
 
 ia Data Protection Act
 
-(TTDSG) together with Art. 5
+(TDDDG) together with Art. 5
 
 (3) directive on privacy and
 
@@ -3740,7 +3728,7 @@ Telecommunications-Telemed
 
 ia Data Protection Act
 
-(TTDSG) together with Art. 5
+(TDDDG) together with Art. 5
 
 (3) directive on privacy and
 
@@ -3850,7 +3838,7 @@ Telecommunications-Telemed
 
 ia Data Protection Act
 
-(TTDSG) together with Art. 5
+(TDDDG) together with Art. 5
 
 (3) directive on privacy and
 
@@ -3896,6 +3884,14 @@ GDPR in addition to
 
 safeguards in accordance with
 
+the respective international
+
+data transfer impact
+
+assessment on the respective
+
+data transfer. You can obtain
+
 
 
 European
@@ -3919,14 +3915,6 @@ Taiwan
 
 
 13
-
-the respective international
-
-data transfer impact
-
-assessment on the respective
-
-data transfer. You can obtain
 
 a detailed copy of the transfer
 
@@ -4028,7 +4016,7 @@ Telecommunications-Telemed
 
 ia Data Protection Act
 
-(TTDSG) together with Art. 5
+(TDDDG) together with Art. 5
 
 (3) directive on privacy and
 
@@ -4216,7 +4204,7 @@ Telecommunications-Telemed
 
 ia Data Protection Act
 
-(TTDSG) together with Art. 5
+(TDDDG) together with Art. 5
 
 (3) directive on privacy and
 
@@ -4239,6 +4227,14 @@ Art. 6 (1) f) GDPR - collecting
 of your personal data is based
 
 on our legitimate interest.
+
+
+
+Art. 46 (2) c) GDPR - we are
+
+only transferring personal
+
+data on the basis of standard
 
 
 
@@ -4275,12 +4271,6 @@ USA.
 
 
 14
-
-Art. 46 (2) c) GDPR - we are
-
-only transferring personal
-
-data on the basis of standard
 
 data protection clauses
 
@@ -4534,7 +4524,7 @@ Telecommunications-Telemed
 
 ia Data Protection Act
 
-(TTDSG) together with Art. 5
+(TDDDG) together with Art. 5
 
 (3) directive on privacy and
 
@@ -4566,8 +4556,6 @@ Union
 
 
 
-15
-
 Functional Cookies
 
 
@@ -4575,6 +4563,10 @@ Functional Cookies
 Functional Cookies enable us to provide enhanced functionality and personalisation, to prevent bugs, conduct
 
 A/B tests and test new functionalities, when you are using our website, in particular our online banking services.
+
+
+
+15
 
 If you do not consent to our placing of these Cookies and the associated data processing then some or all of
 
@@ -4680,7 +4672,7 @@ Telecommunications-Telemed
 
 ia Data Protection Act
 
-(TTDSG) together with Art. 5
+(TDDDG) together with Art. 5
 
 (3) directive on privacy and
 
@@ -4774,8 +4766,6 @@ transfer
 
 
 
-16
-
 Google
 
 Analytics
@@ -4789,6 +4779,80 @@ Persistent
 Cookie
 
 
+
+Google Ireland
+
+Limited, Google
+
+Building Gordon
+
+House, 4 Barrow
+
+St, Dublin, D04
+
+E5W5, Ireland
+
+
+
+We use Google Analytics to
+
+measure audiences (e.g. to
+
+determine ad ROI) and
+
+improve our websites and
+
+its services that we offer to
+
+our users. Measuring what
+
+features of our websites our
+
+
+
+Date and time of
+
+visit; Page
+
+Information (e.g.
+
+Country, Page
+
+Type, Referrer
+
+URL); Browser
+
+
+
+Sec. 25 (1) of the German
+
+Telecommunications-Telemed
+
+ia Data Protection Act
+
+(TDDDG) together with Art. 5
+
+(3) directive on privacy and
+
+electronic communications
+
+
+
+European
+
+Union
+
+
+
+Data is
+
+transferred
+
+to the USA,
+
+
+
+16
 
 Cookie is
 
@@ -4892,34 +4956,6 @@ time period of
 
 
 
-Google Ireland
-
-Limited, Google
-
-Building Gordon
-
-House, 4 Barrow
-
-St, Dublin, D04
-
-E5W5, Ireland
-
-
-
-We use Google Analytics to
-
-measure audiences (e.g. to
-
-determine ad ROI) and
-
-improve our websites and
-
-its services that we offer to
-
-our users. Measuring what
-
-features of our websites our
-
 users use or are interested
 
 in and how they use our
@@ -5020,18 +5056,6 @@ page are clicked.
 
 
 
-Date and time of
-
-visit; Page
-
-Information (e.g.
-
-Country, Page
-
-Type, Referrer
-
-URL); Browser
-
 Information (e.g.
 
 browser version,
@@ -5072,18 +5096,6 @@ City)
 
 
 
-Sec. 25 (1) of the German
-
-Telecommunications-Telemed
-
-ia Data Protection Act
-
-(TTDSG) together with Art. 5
-
-(3) directive on privacy and
-
-electronic communications
-
 together with the national act
 
 of implementation - as this is
@@ -5116,18 +5128,6 @@ prior explicit consent.
 
 
 
-European
-
-Union
-
-
-
-Data is
-
-transferred
-
-to the USA,
-
 Singapore,
 
 Chile and
@@ -5141,50 +5141,6 @@ Datadog
 
 
 \_dd_s
-
-
-
-Datadog Inc.,
-
-620 8th Ave 45th
-
-Floor
-
-
-
-We use Datadog on our
-
-website to measure website
-
-activity and analyse website
-
-usage behaviour in order to
-
-
-
-Event data (event
-
-type, datadog
-
-application,
-
-
-
-Sec. 25 (1) of the German
-
-Telecommunications-Telemed
-
-ia Data Protection Act
-
-
-
-European
-
-Union
-
-
-
-17
 
 Session
 
@@ -5200,19 +5156,25 @@ Cookie
 
 
 
-dd_cookie_te
+Datadog Inc.,
 
-st_\*
+620 8th Ave 45th
 
-Session
-
-Cookie
-
-
+Floor
 
 New York, NY
 
 10018 USA
+
+
+
+We use Datadog on our
+
+website to measure website
+
+activity and analyse website
+
+usage behaviour in order to
 
 improve the website's
 
@@ -5227,6 +5189,74 @@ users use or are interested
 in and how they use our
 
 websites helps us to
+
+
+
+Event data (event
+
+type, datadog
+
+application,
+
+service), view
+
+attributes
+
+(Randomly
+
+generated ID for
+
+each page view,
+
+type of page load,
+
+
+
+Sec. 25 (1) of the German
+
+Telecommunications-Telemed
+
+ia Data Protection Act
+
+(TDDDG) together with Art. 5
+
+(3) directive on privacy and
+
+electronic communications
+
+together with the national act
+
+of implementation - as this is
+
+an analytics Cookie, we only
+
+
+
+European
+
+Union
+
+
+
+Data is
+
+transferred
+
+to the USA
+
+
+
+17
+
+dd_cookie_te
+
+st_\*
+
+Session
+
+Cookie
+
+
 
 improve our websites and
 
@@ -5297,18 +5327,6 @@ functionalities can be used
 in a reliable way.
 
 
-
-service), view
-
-attributes
-
-(Randomly
-
-generated ID for
-
-each page view,
-
-type of page load,
 
 view URL, hashed
 
@@ -5410,18 +5428,6 @@ successful
 
 
 
-(TTDSG) together with Art. 5
-
-(3) directive on privacy and
-
-electronic communications
-
-together with the national act
-
-of implementation - as this is
-
-an analytics Cookie, we only
-
 place the Cookie upon your
 
 prior explicit consent.
@@ -5452,14 +5458,6 @@ consent.
 
 
 
-Data is
-
-transferred
-
-to the USA
-
-
-
 4.3. Personalisation/targeting Cookies
 
 
@@ -5468,10 +5466,6 @@ Personalisation/targeting Cookies may be set by our partners or us on our websit
 
 efforts, create custom audiences and make advertising on websites and on social media more relevant for you.
 
-
-
-18
-
 In order to measure our advertising efforts, personalisation/targeting Cookies set by our partners or by us can
 
 detect whether you as a user are browsing our websites or social media channels after you have clicked on a
@@ -5479,6 +5473,10 @@ detect whether you as a user are browsing our websites or social media channels 
 N26 ad. To make our advertising more relevant for you, our partners may use personalisation/targeting Cookies
 
 to build a profile of your interests, based on your usage behaviour and your interaction with N26 ads and
+
+
+
+18
 
 match them by showing you personalised N26 ads across the internet. Such Cookies also perform functions like
 
@@ -5660,7 +5658,7 @@ Telecommunications-Telemed
 
 ia Data Protection Act
 
-(TTDSG) together with Art. 5
+(TDDDG) together with Art. 5
 
 (3) directive on privacy and
 
@@ -5738,6 +5736,18 @@ Cookie is
 
 deleted after a
 
+time period of
+
+90 days
+
+
+
+\_gcl_au
+
+Persistent
+
+Cookie
+
 
 
 Google Ireland
@@ -5778,6 +5788,14 @@ event. This helps us
 
 understand how effective
 
+our ads are and to optimise
+
+our displaying of N26 ads to
+
+other users across the
+
+internet.
+
 
 
 Date and time of
@@ -5804,6 +5822,14 @@ Information (e.g.
 
 Ad Click ID,
 
+clicked ads); IP
+
+address; Cookie
+
+Data (e.g. Cookie
+
+ID); Behavioural
+
 
 
 Sec. 25 (1) of the German
@@ -5812,7 +5838,7 @@ Telecommunications-Telemed
 
 ia Data Protection Act
 
-(TTDSG) together with Art. 5
+(TDDDG) together with Art. 5
 
 (3) directive on privacy and
 
@@ -5829,6 +5855,16 @@ Cookie, we only place the
 Cookie upon your prior
 
 explicit consent.
+
+
+
+Art. 6 (1) a) GDPR - we are
+
+collecting and processing the
+
+data only based on your prior
+
+consent.
 
 
 
@@ -5854,20 +5890,6 @@ Taiwan
 
 19
 
-time period of
-
-90 days
-
-
-
-\_gcl_au
-
-Persistent
-
-Cookie
-
-
-
 Cookie is
 
 deleted after a
@@ -5875,16 +5897,6 @@ deleted after a
 maximum of
 
 90 days.
-
-
-
-our ads are and to optimise
-
-our displaying of N26 ads to
-
-other users across the
-
-internet.
 
 
 
@@ -5968,29 +5980,9 @@ the user to a specific ad.
 
 
 
-clicked ads); IP
-
-address; Cookie
-
-Data (e.g. Cookie
-
-ID); Behavioural
-
 Data (e.g. Usage
 
 behaviour)
-
-
-
-Art. 6 (1) a) GDPR - we are
-
-collecting and processing the
-
-data only based on your prior
-
-consent.
-
-
 
 Art. 49 (1) a) GDPR - we are
 
@@ -6035,6 +6027,12 @@ Cookie
 Cookie is
 
 deleted after a
+
+maximum
+
+period of 90
+
+days.
 
 
 
@@ -6086,6 +6084,16 @@ to run campaigns to acquire
 
 new customers. By using
 
+Google Ads, N26 can place
+
+ads across the internet,
+
+after determining where to
+
+show our ads and to whom.
+
+Google Ads is also used for
+
 
 
 Date and time of
@@ -6122,6 +6130,14 @@ client ID,
 
 impressions);
 
+Cookie Data (e.g.
+
+Cookie ID);
+
+Geographic
+
+location
+
 
 
 Sec. 25 (1) of the German
@@ -6130,7 +6146,7 @@ Telecommunications-Telemed
 
 ia Data Protection Act
 
-(TTDSG) together with Art. 5
+(TDDDG) together with Art. 5
 
 (3) directive on privacy and
 
@@ -6160,6 +6176,16 @@ consent.
 
 
 
+Art. 49 (1) a) GDPR - we are
+
+only transferring personal
+
+data to Google LLC upon your
+
+prior explicit consent.
+
+
+
 European
 
 Union
@@ -6182,14 +6208,6 @@ Taiwan
 
 20
 
-maximum
-
-period of 90
-
-days.
-
-
-
 Doubleclick
 
 test_cookie
@@ -6211,16 +6229,6 @@ time period of
 15 minutes
 
 
-
-Google Ads, N26 can place
-
-ads across the internet,
-
-after determining where to
-
-show our ads and to whom.
-
-Google Ads is also used for
 
 campaign optimization
 
@@ -6306,26 +6314,6 @@ on a N26 ad.
 
 
 
-Cookie Data (e.g.
-
-Cookie ID);
-
-Geographic
-
-location
-
-
-
-Art. 49 (1) a) GDPR - we are
-
-only transferring personal
-
-data to Google LLC upon your
-
-prior explicit consent.
-
-
-
 Linkedin
 
 Insight Tag
@@ -6390,6 +6378,16 @@ tailored to you.
 
 
 
+LinkedIn Insights is a
+
+conversion tracking and
+
+retargeting service. It is used
+
+by N26 to show ads to you.
+
+
+
 Device
 
 information; IP
@@ -6412,7 +6410,7 @@ Telecommunications-Telemed
 
 ia Data Protection Act
 
-(TTDSG) together with Art. 5
+(TDDDG) together with Art. 5
 
 (3) directive on privacy and
 
@@ -6429,6 +6427,22 @@ Cookie, we only place the
 Cookie upon your prior
 
 explicit consent.
+
+
+
+Art. 6 (1) a) GDPR - we are
+
+collecting and processing the
+
+data only based on your prior
+
+consent.
+
+
+
+Art. 49 (1) a) GDPR - we are
+
+only transferring personal
 
 
 
@@ -6451,14 +6465,6 @@ Singapore
 
 
 21
-
-LinkedIn Insights is a
-
-conversion tracking and
-
-retargeting service. It is used
-
-by N26 to show ads to you.
 
 We want to make sure that
 
@@ -6485,20 +6491,6 @@ members interacting with
 our ads.
 
 
-
-Art. 6 (1) a) GDPR - we are
-
-collecting and processing the
-
-data only based on your prior
-
-consent.
-
-
-
-Art. 49 (1) a) GDPR - we are
-
-only transferring personal
 
 data to LinkedIn Corporation
 
@@ -6595,6 +6587,14 @@ Cookie is
 deleted after a
 
 maximum
+
+time period of
+
+30 days
+
+
+
+lang
 
 
 
@@ -6698,6 +6698,16 @@ a sync with the lms_analytics
 
 Cookie took place for users
 
+in the designated countries.
+
+The _li_sugr Cookie is used
+
+to make a probabilistic
+
+match of a user's identity
+
+outside the designated
+
 
 
 Date and time of
@@ -6758,7 +6768,7 @@ Telecommunications-Telemed
 
 ia Data Protection Act
 
-(TTDSG) together with Art. 5
+(TDDDG) together with Art. 5
 
 (3) directive on privacy and
 
@@ -6819,14 +6829,6 @@ Singapore
 
 
 22
-
-time period of
-
-30 days
-
-
-
-lang
 
 Session
 
@@ -6916,16 +6918,6 @@ time period of
 
 
 
-in the designated countries.
-
-The _li_sugr Cookie is used
-
-to make a probabilistic
-
-match of a user's identity
-
-outside the designated
-
 countries. The _li_gc Cookie
 
 is used to store the consent
@@ -7004,6 +6996,12 @@ conversions from N26 ads
 
 and optimise ads. This is
 
+necessary to ensure that the
+
+content of our ads is
+
+tailored to you.
+
 
 
 IP address; Date
@@ -7030,7 +7028,7 @@ Telecommunications-Telemed
 
 ia Data Protection Act
 
-(TTDSG) together with Art. 5
+(TDDDG) together with Art. 5
 
 (3) directive on privacy and
 
@@ -7050,21 +7048,17 @@ explicit consent.
 
 
 
+Art. 6 (1) a) GDPR - we are
+
+collecting and processing the
+
+
+
 USA
 
 
 
 23
-
-necessary to ensure that the
-
-content of our ads is
-
-tailored to you.
-
-Art. 6 (1) a) GDPR - we are
-
-collecting and processing the
 
 data only based on your prior
 
@@ -7282,7 +7276,7 @@ Telecommunications-Telemed
 
 ia Data Protection Act
 
-(TTDSG) together with Art. 5
+(TDDDG) together with Art. 5
 
 (3) directive on privacy and
 
@@ -7336,13 +7330,55 @@ to the USA
 
 
 
-24
-
 YouTube
 
 Video
 
+Google Ireland
 
+Limited, Google
+
+Building Gordon
+
+House, 4 Barrow
+
+
+
+YouTube is a Google owned
+
+platform for hosting and
+
+sharing videos. YouTube
+
+collects user data through
+
+
+
+Device
+
+information; IP
+
+address; Referrer
+
+
+
+Sec. 25 (1) of the German
+
+Telecommunications-Telemed
+
+ia Data Protection Act
+
+(TDDDG) together with Art. 5
+
+
+
+European
+
+Union
+
+
+
+24
 
 \_visitor_info1
 
@@ -7402,27 +7438,9 @@ Cookie
 
 
 
-Google Ireland
-
-Limited, Google
-
-Building Gordon
-
-House, 4 Barrow
-
 St, Dublin, D04
 
 E5W5, Ireland
-
-
-
-YouTube is a Google owned
-
-platform for hosting and
-
-sharing videos. YouTube
-
-collects user data through
 
 videos embedded in
 
@@ -7512,25 +7530,9 @@ data.
 
 
 
-Device
-
-information; IP
-
-address; Referrer
-
 URL; Videos
 
 viewed
-
-
-
-Sec. 25 (1) of the German
-
-Telecommunications-Telemed
-
-ia Data Protection Act
-
-(TTDSG) together with Art. 5
 
 (3) directive on privacy and
 
@@ -7567,12 +7569,6 @@ only transferring personal
 data to Google LLC upon your
 
 prior explicit consent.
-
-
-
-European
-
-Union
 
 
 
@@ -7678,17 +7674,25 @@ Website data,
 
 session count,
 
+sign up initiated,
+
+sign up
+
+completed,
+
+Location, Time,
+
 
 
 Sec. 25 (1) of the German
 
 Telecommunications-Telemed
 
-ia Data Protection Act (TTDSG)
+ia Data Protection Act
 
-together with Art. 5 (3)
+(TDDDG) together with Art. 5
 
-directive on privacy and
+(3) directive on privacy and
 
 electronic communications
 
@@ -7705,6 +7709,16 @@ Cookie, we only place the
 Cookie upon your prior
 
 explicit consent.
+
+
+
+Art. 6 (1) a) GDPR - we are
+
+collecting and processing the
+
+data only based on your prior
+
+consent.
 
 
 
@@ -7730,17 +7744,181 @@ Taiwan.
 
 25
 
-sign up initiated,
-
-sign up
-
-completed,
-
-Location, Time,
-
 Time of
 
-conversion.
+conversion. Art. 49 (1) (a) GDPR - Consent -
+
+We are only transferring
+
+personal data to third
+
+countries that do not provide
+
+an adequate level of data
+
+protection upon your prior
+
+explicit consent.
+
+
+
+TikTok Pixel
+
+
+
+\_ttps
+
+(3rd Party
+
+Cookie)
+
+Persistent
+
+Cookie
+
+
+
+Cookie is
+
+deleted after a
+
+maximum
+
+time period of
+
+13 months.
+
+
+
+\_ttp
+
+(1st Party
+
+Cookie)
+
+Persistent
+
+Cookie
+
+
+
+Cookie is
+
+deleted after a
+
+maximum
+
+time period of
+
+13 months.
+
+
+
+1st Party Cookie:
+
+N26 Bank AG,
+
+Voltairestr. 8,
+
+10179 Berlin,
+
+Germany
+
+
+
+3rd Party
+
+Cookie: TikTok
+
+Technology
+
+Limited, 10
+
+Earlsfort
+
+Terrace, Dublin,
+
+D02 T380,
+
+Ireland
+
+
+
+The TikTok Pixel is a tracking
+
+technology offered by
+
+TikTok.
+
+
+
+We use the TikTok Pixel in
+
+order to display ads to you
+
+and collect data that helps
+
+us track and analyse
+
+conversions from TikTok
+
+ads, optimise ads, build
+
+targeted audiences for
+
+future ads, and remarket to
+
+users who have already
+
+taken some kind of action
+
+on our website. This is
+
+necessary to ensure that the
+
+content of our ads is
+
+tailored to you.
+
+
+
+Ad and Event
+
+Information,
+
+Timestamp,
+
+IP-Address, User
+
+Agent (Device ID,
+
+Browser)
+
+
+
+Sec. 25 (1) of the German
+
+Telecommunications-Telemed
+
+ia Data Protection Act
+
+(TDDDG) together with Art. 5
+
+(3) directive on privacy and
+
+electronic communications
+
+together with the national act
+
+of implementation - as this is
+
+a personalisation/targeting
+
+Cookie, we only place the
+
+Cookie upon your prior
+
+explicit consent.
 
 
 
@@ -7754,19 +7932,31 @@ consent.
 
 
 
-Art. 49 (1) (a) GDPR - Consent -
+Art. 49 (1) a) GDPR - we are
 
-We are only transferring
+only transferring personal
 
-personal data to third
+data to third countries upon
 
-countries that do not provide
+your prior explicit consent.
 
-an adequate level of data
 
-protection upon your prior
 
-explicit consent.
+European
+
+Union
+
+
+
+Data is
+
+transferred
+
+to the USA
+
+and
+
+Singapore.
 
 
 
@@ -7804,6 +7994,16 @@ n26.timezone_identifier; n26.reverification_seen;
 
 n26.ask_not_to_track; n26.select_previous_device;
 
+
+
+Session Cookies, associated data processed by N26 is
+
+deleted once the session Cookies expire.
+
+
+
+26
+
 Num26ReducedMotion; num26Discretion; num26DarkMode;
 
 n26.alert_duration; num26SpaceTransaction;
@@ -7811,12 +8011,6 @@ n26.alert_duration; num26SpaceTransaction;
 num26IsFirstSharedSpaceTransfer; n26.free_trial_opt_in_seen,
 
 Google Tag Manager
-
-
-
-Session Cookies, associated data processed by N26 is
-
-deleted once the session Cookies expire.
 
 
 
@@ -7851,8 +8045,6 @@ duration of 30 days.
 2. Functional Cookies
 
 
-
-26
 
 Cookie Retention period
 
@@ -7908,6 +8100,8 @@ will be deleted after a time span of 24 months.
 
 
 
+27
+
 LinkedIn Insight Tag
 
 Data collected by the Linkedin Insight Tag and
@@ -7950,8 +8144,6 @@ duration of 13 months.
 
 
 
-27
-
 YouTube Video
 
 Data collected by YouTube Video is and processed by
@@ -7973,6 +8165,20 @@ processed by N26 will be deleted once the Cookie
 expires, here after the Cookie duration of 13 months
 
 (DSID).
+
+
+
+TikTok Pixel
+
+
+
+Personal data collected by the TikTok Pixel and
+
+processed by N26 will be deleted once the Cookie
+
+expires, here after the Cookie duration of 13 months
+
+(_ttp and _ttps).
 
 
 
