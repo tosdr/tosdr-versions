@@ -542,22 +542,26 @@ MENU MENU
     [Press Releases](https://home.treasury.gov/news/press-releases)
     ---------------------------------------------------------------
     
+    June 7, 2024
+    
+    [Media Advisory - FinCEN Director Andrea Gacki to Travel to Arizona for Beneficial Ownership Outreach Events](https://home.treasury.gov/news/press-releases/jy2398)
+    
+    June 6, 2024
+    
+    [FSOC and the Brookings Institution Host a Conference on Artificial Intelligence and Financial Stability](https://home.treasury.gov/news/press-releases/jy2396)
+    
     June 6, 2024
     
     [Remarks by Secretary of the Treasury Janet L. Yellen at the Financial Stability Oversight Council Conference on Artificial Intelligence and Financial Stability](https://home.treasury.gov/news/press-releases/jy2395)
-    
-    June 6, 2024
-    
-    [Treasury Sanctions Ecuador’s Los Lobos Drug Trafficking Organization and Its Leader](https://home.treasury.gov/news/press-releases/jy2394)
-    
-    June 6, 2024
-    
-    [U.S. Department of Treasury Releases Request for Information on Uses, Opportunities, and Risks of Artificial Intelligence in the Financial Services Sector](https://home.treasury.gov/news/press-releases/jy2393)
     
     [View All Press Releases](https://home.treasury.gov/news/press-releases "View all Press Releases")
     
     [Remarks and Statements](https://home.treasury.gov/news/press-releases/statements-remarks)
     ------------------------------------------------------------------------------------------
+    
+    June 6, 2024
+    
+    [Remarks by Deputy Assistant Secretary for the Financial Stability Oversight Council Sandra Lee at the Conference on Artificial Intelligence and Financial Stability](https://home.treasury.gov/news/press-releases/jy2397)
     
     June 4, 2024
     
@@ -566,10 +570,6 @@ MENU MENU
     May 31, 2024
     
     [Remarks by Secretary of the Treasury Janet L. Yellen Following a Bilateral Meeting with Prime Minister Alexander De Croo of Belgium](https://home.treasury.gov/news/press-releases/jy2389)
-    
-    May 31, 2024
-    
-    [Remarks by Deputy Secretary of the Treasury Wally Adeyemo at Atlantik Brücke and the Transatlantic Business Initiative Event](https://home.treasury.gov/news/press-releases/jy2387)
     
     [View All Remarks and Statements](https://home.treasury.gov/news/press-releases/statements-remarks "View all Remarks and Statements")
     
