@@ -234,4 +234,16 @@ Close Overlay ![Boxing Image Close Overlay](/sites/all/themes/haymon/images/glob
 
 Close Overlay ![Boxing Image Close Overlay](/sites/all/themes/haymon/images/global/x_button.svg) 
 
-![](https://insight.adsrvr.org/track/conv/?adv=w2wrhlv&ct=0:ben36qki&fmt=3)
+![](https://insight.adsrvr.org/track/conv/?adv=w2wrhlv&ct=0:ben36qki&fmt=3)                                             Error | Premier Boxing Champions     
+
+         
+
+[![Home](https://www.premierboxingchampions.com/sites/all/themes/haymon/logo.png)](https://www.premierboxingchampions.com/ "Home")
+
+[Premier Boxing Champions](https://www.premierboxingchampions.com/ "Home")
+==========================================================================
+
+Error
+=====
+
+The website encountered an unexpected error. Please try again later.
