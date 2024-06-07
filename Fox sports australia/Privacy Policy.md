@@ -16,92 +16,72 @@ FOX SCORES
 
 * NRL
     
-* [SOO
+* [NRL
     
-    Complete
-    
-    |     |     |
-    | --- | --- |
-    | NSW | 10  |
-    | QLD | 38  |
-    
-    Match Centre](https://www.foxsports.com.au/nrl/state-of-origin/match-centre/SOO20240101)
-* [Women's SOO
-    
-    Complete
+    7/6 20:00 AEST
     
     |     |     |
     | --- | --- |
-    | NSW | 10  |
-    | QLD | 11  |
+    | STI | –   |
+    | WST | –   |
     
-    Match Centre](https://www.foxsports.com.au/nrl/womens-state-of-origin/match-centre/WSO20240201)
+    Match Centre](https://www.foxsports.com.au/nrl/nrl-premiership/match-centre/NRL20241401)
 * AFL
     
 * [AFL
     
-    Complete
+    7/6 19:40 AEST
     
     |     |     |
     | --- | --- |
-    | ADE | 10.11.71 |
-    | RIC | 12.7.79 |
+    | WBD | –   |
+    | BRI | –   |
     
-    Match Centre](https://www.foxsports.com.au/afl/match-centre/AFL20241301)
+    Match Centre](https://www.foxsports.com.au/afl/match-centre/AFL20241302)
 * Basketball
     
 * [NBA
     
-    7/6 10:30 AEST
+    Full Time
     
     |     |     |
     | --- | --- |
-    | BOS | –   |
-    | DAL | –   |
+    | BOS | 107 |
+    | DAL | 89  |
     
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2023-24060001)
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2023-24060001/box-score)
 * Cricket
     
 * [Men's T20 WC
     
-    UGA won by 3 wkts
+    USA won Super Over
     
     |     |     |
     | --- | --- |
-    | PNG | 77  |
-    | UGA | 7 /78 |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/T20WC20240109)
-* [Men's T20 WC
-    
-    AUS won by 39 runs
-    
-    |     |     |
-    | --- | --- |
-    | AUS | 5 /164 |
-    | OMA | 9 /125 |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/T20WC20240110)
-* [Men's T20 WC
-    
-    7/6 1:30 AEST
-    
-    |     |     |
-    | --- | --- |
-    | USA | –   |
-    | PAK | –   |
+    | USA | 3 /159 |
+    | PAK | 7 /159 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/T20WC20240111)
 * [Men's T20 WC
     
-    7/6 5:00 AEST
+    SCO won by 5 wkts
     
     |     |     |
     | --- | --- |
-    | NAM | –   |
-    | SCO | –   |
+    | NAM | 9 /155 |
+    | SCO | 5 /157 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/T20WC20240112)
+* [Men's T20 WC
+    
+    8/6 0:30 AEST
+    
+    |     |     |
+    | --- | --- |
+    | CAN | –   |
+    | IRL | –   |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/T20WC20240113)
 * Netball
     
 * [Super Netball
@@ -114,40 +94,62 @@ FOX SCORES
     | LIG | –   |
     
     Match Centre](https://www.foxsports.com.au/netball/match-centre/SSN20240901)
-* Football
+* Motorsport
     
-* [WCQ
+* [Formula 1
     
-    Full Time
+    8/6 3:30 AEST
+    
+    |     |
+    | --- |
+    | Canadian Grand Prix |
+    |     |
+    
+    Race Centre](https://www.foxsports.com.au/motorsport/formula-one/race-centre?meetingid=583)
+* Rugby
+    
+* [SR Pacific
+    
+    7/6 17:05 AEST
     
     |     |     |
     | --- | --- |
-    | BAN | 0   |
-    | AUS | 2   |
+    | CHI | –   |
+    | RED | –   |
     
-    Match Centre](https://www.foxsports.com.au/football/world-cup-qualifiers/match-centre/WCQ2023-240501)
+    Match Centre](https://www.foxsports.com.au/rugby/match?matchid=SRTT20241601)
 * Tennis
     
 * [French Open
     
-    In Progress
+    Complete
     
     |     |     |     |
     | --- | --- | --- |
-    | I. Swiatek\[1\] | 6   | 5   |
-    | C. Gauff\[3\] | 2   | 3   |
+    | J. Paolini\[12\] | 6   | 6   |
+    | M. Andreeva | 3   | 1   |
     
-    Match Centre](https://www.foxsports.com.au/tennis/match?matchid=Fre%20Open2024006003E6CE2)
+    Match Centre](https://www.foxsports.com.au/tennis/match?matchid=Fre%20Open2024006004F9B47)
 * [French Open
     
-    7/6 1:00 AEST
+    7/6 22:30 AEST
     
     |     |     |
     | --- | --- |
-    | J. Paolini\[12\] | \-  |
-    | M. Andreeva | \-  |
+    | C. Alcaraz\[3\] | \-  |
+    | J. Sinner\[2\] | \-  |
     
-    Match Centre](https://www.foxsports.com.au/tennis/match?matchid=Fre%20Open2024006004F9B47)
+    Match Centre](https://www.foxsports.com.au/tennis/match?matchid=Fre%20Open2024006003EA21E)
+* [French Open
+    
+    8/6 1:30 AEST
+    
+    |     |     |
+    | --- | --- |
+    | C. Ruud\[7\] | \-  |
+    | A. Zverev\[4\] | \-  |
+    
+    Match Centre](https://www.foxsports.com.au/tennis/match?matchid=Fre%20Open2024006004FF559)
 
 [Go to All Scores](https://www.foxsports.com.au/score-centre/)
 
@@ -885,7 +887,7 @@ FOX SCORES
 
 [Fox sports](https://www.foxsports.com.au/)
 
-[Scores](https://www.foxsports.com.au/score-centre/live-now)
+[Scores](https://www.foxsports.com.au/score-centre)
 
 * [Video](https://www.foxsports.com.au/video)
 * [NRL](https://www.foxsports.com.au/nrl)
