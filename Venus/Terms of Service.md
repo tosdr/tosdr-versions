@@ -1,4 +1,4 @@
-![](https://api.fouanalytics.com/api/noscript-4459xkv9xghvg3ysm6ta.gif)          [Skip to main content](#main-content) [Skip navigation](#body-bodycontent-div)
+![](https://api.fouanalytics.com/api/noscript-4459xkv9xghvg3ysm6ta.gif)           [Skip to main content](#main-content) [Skip navigation](#body-bodycontent-div)
 
  ![Open menu icon](/content/images/icon-hamburger.svg)![Search icon](/content/images/icon-search.svg) [![VENUS logo](/content/images/Venus-Logo-Main.svg)](https://www.venus.com/)[![Link. Account login icon.](/content/images/icon-account.svg)](https://www.venus.com/account/my-account)[![Shopping bag icon](/content/images/icon-bag.svg)](https://www.venus.com/bag.aspx)
 
