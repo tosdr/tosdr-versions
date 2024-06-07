@@ -1,8 +1,6 @@
 [Lululemon: Shop the perfect gift for dad + 4% Cash Back
 
-Shop Now](https://www.rakuten.ca/ticket/campaign/2019-countdown-clock/coupon/lululemon?store=lululemon&sourceName=sitewide-sticky-header)[Best Buy: Save up to $350 on your next laptop, plus more great deals + Up to 2% Cash Back
-
-Shop Now](https://www.rakuten.ca/ticket/campaign/2019-countdown-clock/coupon/best-buy?store=best-buy&sourceName=sitewide-sticky-header)[Michael Kors: The Father's Day event: 25% off men's bags & wallets + 4% Cash Back
+Shop Now](https://www.rakuten.ca/ticket/campaign/2019-countdown-clock/coupon/lululemon?store=lululemon&sourceName=sitewide-sticky-header)[Michael Kors: The Father's Day event: 25% off men's bags & wallets + 4% Cash Back
 
 Shop Now](https://www.rakuten.ca/ticket/campaign/2019-countdown-clock/coupon/michael-kors?store=michael-kors&sourceName=sitewide-sticky-header)
 
@@ -375,7 +373,7 @@ FR
         
         [PetSmart
         
-        2% Cash Back](https://www.rakuten.ca/petsmart)[Pet Valu
+        10% Cash Back](https://www.rakuten.ca/petsmart)[Pet Valu
         
         1% Cash Back](https://www.rakuten.ca/pet-valu)[Rover
         
@@ -471,7 +469,7 @@ FR
         
         4% Cash Back](https://www.rakuten.ca/holiday-inn)[IHG Hotels & Resorts
         
-        10% Cash Back](https://www.rakuten.ca/ihg-hotels-and-resorts)
+        4% Cash Back](https://www.rakuten.ca/ihg-hotels-and-resorts)
         
         Featured Shops & Deals
         
