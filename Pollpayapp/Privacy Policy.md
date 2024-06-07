@@ -411,7 +411,7 @@ Necessary cookies help to make a website usable by enabling basic functions such
 
   [Individual cookie settings](#) [See history](#)
 
-Last check: 06.06.24 - 12:29:29 Time  
+Last check: 07.06.24 - 06:31:06 Time  
 [Data Privacy](https://pollpayapp.wpengine.com/web-privacy-en/) | [Imprint](https://pollpayapp.wpengine.com/imprint-en/)  
 [hellotrust.de - Cookie Management - v.1.0.5 - en\_US](https://hellotrust.de/)
 
