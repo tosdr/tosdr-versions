@@ -347,7 +347,7 @@ We are publishing this Transparency Report on whether we have received governmen
 
 We believe it is important to let our users know in cases we are required to disclose information with governments.
 
-As of today, June 6, 2024, we can confirm that:
+As of today, June 7, 2024, we can confirm that:
 
 * Emsisoft has never modified its software for the purpose of collecting data due to political pressure.
 * Emsisoft has never modified its software to prevent detection of any malicious software due to political pressure.
@@ -451,12 +451,12 @@ Yes. Please download and sign the [Emsisoft Data Processing Agreement](https://w
 
 [](https://www.emsisoft.com/en/ "Emsisoft")
 
-[© 2003-2024 Emsisoft - 06/06/2024 - Legal Notice](https://www.emsisoft.com/en/legal/) - [Terms](https://www.emsisoft.com/en/terms/) - [Privacy Policy](https://www.emsisoft.com/en/privacy/) - [Cookie Policy](https://www.emsisoft.com/en/cookie-policy/) - [System Status](https://status.emsisoft.com/) - 
+[© 2003-2024 Emsisoft - 06/07/2024 - Legal Notice](https://www.emsisoft.com/en/legal/) - [Terms](https://www.emsisoft.com/en/terms/) - [Privacy Policy](https://www.emsisoft.com/en/privacy/) - [Cookie Policy](https://www.emsisoft.com/en/cookie-policy/) - [System Status](https://status.emsisoft.com/) - 
 
 * [English](#)
-    * [English](https://www.emsisoft.com/en/privacy/?ref=news240605_all_en)
-    * [Deutsch](https://www.emsisoft.com/de/privacy/?ref=news240605_all_en)
-    * [Français](https://www.emsisoft.com/fr/?ref=news240605_all_en)
+    * [English](https://www.emsisoft.com/en/privacy/)
+    * [Deutsch](https://www.emsisoft.com/de/privacy/)
+    * [Français](https://www.emsisoft.com/fr/)
     * [Emsisoft  
         worldwide](https://www.emsisoft.com/en/buy-local/)
 
