@@ -45,4 +45,4 @@ Please contact [\[email protected\]](https://dbmodeller.net/cdn-cgi/l/email-pro
 
 [![Hosted by Hetzner](/hosted-by-hetzner.png)](https://hetzner.cloud/?ref=sGE1MaNPLcIF)
 
-Copyright © 2023 DbModeller.net. All registered trademarks belong to their respective owners.
+Copyright © 2024 DbModeller.net. All registered trademarks belong to their respective owners.
