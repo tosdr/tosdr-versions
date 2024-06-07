@@ -621,13 +621,13 @@ Improve your skills and find the key information you need to grow your business 
 
 Get an estimate of how much your website translation project can cost.](https://wordcount.weglot.com/)
 
-[![Influence Society](https://cdn.prod.website-files.com/646343df6afc95b84af2d36c/6619037595fcb601e5c0e884_Influence%20Society%20Thumbnail.webp)
+[![Angell Mobility & MINI by Stellar](https://cdn.prod.website-files.com/646343df6afc95b84af2d36c/6619028c4327f423e2d44a35_Angell%20Thumbnail.webp)
 
 Case Study
 
-![](https://cdn.prod.website-files.com/646343df6afc95b84af2d36c/66190549fc6303cff2a896b3_Influence%20society.webp)
+![](https://cdn.prod.website-files.com/646343df6afc95b84af2d36c/660545f29bfd03888d05a18b_Angell.svg)
 
-Learn how this digital marketing agency uses Weglot as its preferred translation solution for its lifestyle and luxury hospitality clients.](https://weglot.com/customers/influence-society)
+Wanting to share a reimagined classic—MINI’s first electric bike—with the world, Angell Mobility needed a simple, seamless solution to launch a multilingual website for the MINI brand’s loyal fan base.](https://weglot.com/customers/angell-mobility-mini-stellar)
 
 [Guide
 
