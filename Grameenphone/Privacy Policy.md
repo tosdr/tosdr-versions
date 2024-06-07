@@ -506,10 +506,6 @@ Please check GP [Privacy Notice](https://www.grameenphone.com/privacy-notice) fo
 
 grameenphone
 
-Please take a minute to fill up a short survey to help us improve your experience.
-
-Take Survey
-
 #### Share this page with your friends & family
 
 * [](https://www.facebook.com/sharer/sharer.php?u=https://www.grameenphone.com/privacy-policy)
