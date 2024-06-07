@@ -31,30 +31,30 @@ Privacy Policy
 * [![حامیِ طبقه‌ی حاکم؛ نگاهی به مستند حامی](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![حامیِ طبقه‌ی حاکم؛ نگاهی به مستند حامی](https://karkhane.org/app/uploads/2023/09/hami-e-tabaqeye-hakem-95x65.jpg)](https://karkhane.org/5162/protector-of-the-ruling-class-a-look-at-the-documentary-hami/)[حامیِ طبقه‌ی حاکم؛ نگاهی به مستند «حامی»](https://karkhane.org/5162/protector-of-the-ruling-class-a-look-at-the-documentary-hami/)
+* [![کارگری‌نویسی: همبستگی و پیوستگی در راه مبارزه‌ی طبقاتی](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![کارگری‌نویسی: همبستگی و پیوستگی در راه مبارزه‌ی طبقاتی](https://karkhane.org/app/uploads/2021/02/1-95x65.jpg)](https://karkhane.org/2483/%da%a9%d8%a7%d8%b1%da%af%d8%b1%db%8c%d9%86%d9%88%db%8c%d8%b3%db%8c-%d9%87%d9%85%d8%a8%d8%b3%d8%aa%da%af%db%8c-%d9%88-%d9%be%db%8c%d9%88%d8%b3%d8%aa%da%af%db%8c-%d8%af%d8%b1-%d8%b1%d8%a7/)[کارگری‌نویسی: همبستگی و پیوستگی در راه مبارزه‌ی طبقاتی](https://karkhane.org/2483/%da%a9%d8%a7%d8%b1%da%af%d8%b1%db%8c%d9%86%d9%88%db%8c%d8%b3%db%8c-%d9%87%d9%85%d8%a8%d8%b3%d8%aa%da%af%db%8c-%d9%88-%d9%be%db%8c%d9%88%d8%b3%d8%aa%da%af%db%8c-%d8%af%d8%b1-%d8%b1%d8%a7/)
 * [![مهاجران. قربانی سیاست‌های سرمایه‌دارانه](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![مهاجران. قربانی سیاست‌های سرمایه‌دارانه](https://karkhane.org/app/uploads/2024/03/2-95x65.jpg)](https://karkhane.org/5390/mohajeran-afghan/)[مهاجران افغان: قربانی سیاست‌های سرمایه‌دارانه](https://karkhane.org/5390/mohajeran-afghan/)
 * [![فصل مشترک سرگذشت‌های متفاوت ما یک چیز است: کارگر شدن، کارگر بودن](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![فصل مشترک سرگذشت‌های متفاوت ما یک چیز است: کارگر شدن، کارگر بودن](https://karkhane.org/app/uploads/2020/09/fasl-e-mostarak-e-ma-kargar-sodan-o-kargar-budan-95x65.jpg)](https://karkhane.org/2167/%da%a9%d8%a7%d8%b1%da%af%d8%b1-%d8%b4%d8%af%d9%86-%da%a9%d8%a7%d8%b1%da%af%d8%b1-%d8%a8%d9%88%d8%af%d9%86/)[فصل مشترک سرگذشت‌های متفاوت ما یک چیز است: کارگر شدن، کارگر بودن](https://karkhane.org/2167/%da%a9%d8%a7%d8%b1%da%af%d8%b1-%d8%b4%d8%af%d9%86-%da%a9%d8%a7%d8%b1%da%af%d8%b1-%d8%a8%d9%88%d8%af%d9%86/)
-* [![کارگری‌نویسی: همبستگی و پیوستگی در راه مبارزه‌ی طبقاتی](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![کارگری‌نویسی: همبستگی و پیوستگی در راه مبارزه‌ی طبقاتی](https://karkhane.org/app/uploads/2021/02/1-95x65.jpg)](https://karkhane.org/2483/%da%a9%d8%a7%d8%b1%da%af%d8%b1%db%8c%d9%86%d9%88%db%8c%d8%b3%db%8c-%d9%87%d9%85%d8%a8%d8%b3%d8%aa%da%af%db%8c-%d9%88-%d9%be%db%8c%d9%88%d8%b3%d8%aa%da%af%db%8c-%d8%af%d8%b1-%d8%b1%d8%a7/)[کارگری‌نویسی: همبستگی و پیوستگی در راه مبارزه‌ی طبقاتی](https://karkhane.org/2483/%da%a9%d8%a7%d8%b1%da%af%d8%b1%db%8c%d9%86%d9%88%db%8c%d8%b3%db%8c-%d9%87%d9%85%d8%a8%d8%b3%d8%aa%da%af%db%8c-%d9%88-%d9%be%db%8c%d9%88%d8%b3%d8%aa%da%af%db%8c-%d8%af%d8%b1-%d8%b1%d8%a7/)
 * [![مصوبه دستمزد ۱۴۰۳](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![مصوبه دستمزد ۱۴۰۳](https://karkhane.org/app/uploads/2024/04/Wage-95x65.jpg)](https://karkhane.org/5444/local-wage/)[چرا همیشه ارزش کار در عصر سرمایه پرداخت نشده باقی خواهند ماند؟](https://karkhane.org/5444/local-wage/)
-* [![داستان کوتاه «تلاش مداوم و صبورانه»](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* [![فروشگاه‌های زنجیره‌ای افق کوروش: زنجیرهایی از جنس استثمار](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![داستان کوتاه «تلاش مداوم و صبورانه»](https://karkhane.org/app/uploads/2023/03/talash-e-modavem-o-saburane-95x65.jpg)](https://karkhane.org/4867/continuous-and-patient-effort/)[داستان کوتاه «تلاش مداوم و صبورانه» – میان ماه من تا ماه گردون (۲)](https://karkhane.org/4867/continuous-and-patient-effort/)
+    ![فروشگاه‌های زنجیره‌ای افق کوروش: زنجیرهایی از جنس استثمار](https://karkhane.org/app/uploads/2024/04/ofogh-e-kurosh-chain-stores-95x65.jpg)](https://karkhane.org/5455/ofogh-e-kurosh-chain-stores/)[فروشگاه‌های زنجیره‌ای افق کوروش: زنجیرهایی از جنس استثمار](https://karkhane.org/5455/ofogh-e-kurosh-chain-stores/)
+* [![تونل زمان یا تونل وحشت؟ لایروبی ناکام «منوتو» از طویله‌ی پهلوی](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![تونل زمان یا تونل وحشت؟ لایروبی ناکام «منوتو» از طویله‌ی پهلوی](https://karkhane.org/app/uploads/2023/01/manoto-deception-time-tunnel-terror-tunnel-95x65.jpg)](https://karkhane.org/4308/manoto-deception-time-tunnel-terror-tunnel/)[تونل زمان یا تونل وحشت؟ لایروبی ناکام «منوتو» از طویله‌ی پهلوی](https://karkhane.org/4308/manoto-deception-time-tunnel-terror-tunnel/)
+* [![شعری از غسان کنفانی](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![شعری از غسان کنفانی](https://karkhane.org/app/uploads/2024/02/a-poem-by-ghassan-kanafani-95x65.jpg)](https://karkhane.org/5353/a-poem-by-ghassan-kanafani/)[شعری از غسان کنفانی](https://karkhane.org/5353/a-poem-by-ghassan-kanafani/)
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![](https://karkhane.org/app/uploads/2024/04/2b-95x65.jpg)](https://karkhane.org/5476/death-of-proltariat/)[مرگی بی‌نشان](https://karkhane.org/5476/death-of-proltariat/)
-* [![نامه‌ای از غزه](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![نامه‌ای از غزه](https://karkhane.org/app/uploads/2023/04/a-letter-from-gaza-95x65.jpg)](https://karkhane.org/4889/a-letter-from-gaza/)[نامه‌ای از غزه](https://karkhane.org/4889/a-letter-from-gaza/)
-* [![مبارزه بوکس مایک تایسون و هالیفیلد](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![مبارزه بوکس مایک تایسون و هالیفیلد](https://karkhane.org/app/uploads/2020/06/jang-e-glādiyātorhā-bā-pušeš-e-varzeš-e-herfei-95x65.jpg)](https://karkhane.org/1931/%d8%ac%d9%86%da%af-%da%af%d9%84%d8%a7%d8%af%db%8c%d8%a7%d8%aa%d9%88%d8%b1%d9%87%d8%a7-%d8%a8%d8%a7-%d9%be%d9%88%d8%b4%d8%b4-%d9%88%d8%b1%d8%b2%d8%b4-%d8%ad%d8%b1%d9%81%d9%87%d8%a7%db%8c/)[جنگ گلادیاتورها با پوشش ورزش حرفه‌ای](https://karkhane.org/1931/%d8%ac%d9%86%da%af-%da%af%d9%84%d8%a7%d8%af%db%8c%d8%a7%d8%aa%d9%88%d8%b1%d9%87%d8%a7-%d8%a8%d8%a7-%d9%be%d9%88%d8%b4%d8%b4-%d9%88%d8%b1%d8%b2%d8%b4-%d8%ad%d8%b1%d9%81%d9%87%d8%a7%db%8c/)
+    ![](https://karkhane.org/app/uploads/2024/04/Season-Worker-95x65.jpg)](https://karkhane.org/5468/on-workers-deathsuicide/)[درباره‌ی مرگ و خودکشی کارگران و فرودستان](https://karkhane.org/5468/on-workers-deathsuicide/)
 
 * [Facebook](https://www.facebook.com/--107914377686249)
 * [YouTube](https://www.youtube.com/channel/UCnz481dcaM1p7c3oDR5Ot9A)
