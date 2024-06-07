@@ -458,7 +458,7 @@ Mixto.
 
 #### Categoría de datos
 
-Nombres y apellidos, documento identificativo, dirección, teléfono y correo electrónico.
+Nombres y apellidos, documento identificativo, dirección, teléfono y correo electrónico (y su contenido).
 
 Datos del patrón de reconocimiento en el fichaje.
 
@@ -716,7 +716,7 @@ Mixto.
 
 #### Categoría de datos
 
-Nombres y apellidos, documento identificativo, dirección, teléfono y correo electrónico. 
+Nombres y apellidos, documento identificativo, dirección, teléfono y correo electrónico (y su contenido).
 
 Información profesional.
 
