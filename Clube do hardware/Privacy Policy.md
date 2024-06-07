@@ -134,105 +134,105 @@ Política de privacidade
 
 * ### Últimos tópicos
     
-    * [![I. Gabriel](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c47e62%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EIG%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1247016-i-gabriel/ "Ir ao perfil de I. Gabriel")
+    * [![Andelso](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2362c4a6%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EA%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/696556-andelso/ "Ir ao perfil de Andelso")
         
         0
         
-        [Recomendação de fonte custo-benefício](https://www.clubedohardware.com.br/forums/topic/1688000-recomenda%C3%A7%C3%A3o-de-fonte-custo-benef%C3%ADcio/?do=getNewComment "Recomendação de fonte custo-benefício")
-        
-        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
-        Por [I. Gabriel](https://www.clubedohardware.com.br/profile/1247016-i-gabriel/ "Ir ao perfil de I. Gabriel")  
-        1 minuto atrás
-        
-    * [![FejaoX37](https://www.clubedohardware.com.br/uploads/members/monthly_2024_04/imported-photo-1244160.thumb.jpeg.a89994a4805009e2a173936facb09fed.jpeg)](https://www.clubedohardware.com.br/profile/1244160-fejaox37/ "Ir ao perfil de FejaoX37")
-        
-        1
-        
-        [Essa configuração vale a pena por R$ 3.900,00?](https://www.clubedohardware.com.br/forums/topic/1687999-essa-configura%C3%A7%C3%A3o-vale-a-pena-por-r-390000/?do=getNewComment "Essa configuração vale a pena por R$ 3.900,00?")
-        
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [FejaoX37](https://www.clubedohardware.com.br/profile/1244160-fejaox37/ "Ir ao perfil de FejaoX37")  
-        12 minutos atrás
-        
-    * [![Thiago Brito de Souza](https://www.clubedohardware.com.br/uploads/members/monthly_2024_05/imported-photo-1223261.thumb.jpeg.7ac5eab555c38ce46126d1411baf75cc.jpeg)](https://www.clubedohardware.com.br/profile/1223261-thiago-brito-de-souza/ "Ir ao perfil de Thiago Brito de Souza")
-        
-        1
-        
-        [investir em um headset sem fio ou com fio](https://www.clubedohardware.com.br/forums/topic/1687998-investir-em-um-headset-sem-fio-ou-com-fio/?do=getNewComment "investir em um headset sem fio ou com fio")
+        [Caixa de som com estalo](https://www.clubedohardware.com.br/forums/topic/1688103-caixa-de-som-com-estalo/?do=getNewComment "Caixa de som com estalo")
         
         [Caixas de som, fones, microfones e headsets](https://www.clubedohardware.com.br/forums/forum/144-caixas-de-som-fones-microfones-e-headsets/ "Caixas de som, fones, microfones e headsets")  
-        Por [Thiago Brito de Souza](https://www.clubedohardware.com.br/profile/1223261-thiago-brito-de-souza/ "Ir ao perfil de Thiago Brito de Souza")  
-        20 minutos atrás
+        Por [Andelso](https://www.clubedohardware.com.br/profile/696556-andelso/ "Ir ao perfil de Andelso")  
+        3 minutos atrás
         
-    * [![Tiago A. A. Mongeleski](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%237062c4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3ETA%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1205555-tiago-a-a-mongeleski/ "Ir ao perfil de Tiago A. A. Mongeleski")
-        
-        1
-        
-        [valor para venda de kit usado](https://www.clubedohardware.com.br/forums/topic/1687997-valor-para-venda-de-kit-usado/?do=getNewComment "valor para venda de kit usado")
-        
-        [Quanto vale meu equipamento usado?](https://www.clubedohardware.com.br/forums/forum/174-quanto-vale-meu-equipamento-usado/ "Quanto vale meu equipamento usado?")  
-        Por [Tiago A. A. Mongeleski](https://www.clubedohardware.com.br/profile/1205555-tiago-a-a-mongeleski/ "Ir ao perfil de Tiago A. A. Mongeleski")  
-        22 minutos atrás
-        
-    * [![upeth](https://www.clubedohardware.com.br/uploads/members/monthly_2024_01/imported-photo-1237442.thumb.png.04218a756587f1d9f95e3301fae6dd40.png)](https://www.clubedohardware.com.br/profile/1237442-upeth/ "Ir ao perfil de upeth")
-        
-        7
-        
-        [Dicas de monitor para FPS](https://www.clubedohardware.com.br/forums/topic/1687996-dicas-de-monitor-para-fps/?do=getNewComment "Dicas de monitor para FPS")
-        
-        [Monitores de vídeo](https://www.clubedohardware.com.br/forums/forum/37-monitores-de-v%C3%ADdeo/ "Monitores de vídeo")  
-        Por [upeth](https://www.clubedohardware.com.br/profile/1237442-upeth/ "Ir ao perfil de upeth")  
-        47 minutos atrás
-        
-    * [![Vinicius Conte](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c4a462%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EVC%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1247202-vinicius-conte/ "Ir ao perfil de Vinicius Conte")
+    * [![Daniel Cabral](https://www.clubedohardware.com.br/uploads/members/monthly_2021_08/imported-photo-1143429.thumb.jpeg.a96e18e41ecb10240658aa3ddd559f9d.jpeg)](https://www.clubedohardware.com.br/profile/1143429-daniel-cabral/ "Ir ao perfil de Daniel Cabral")
         
         0
         
-        [Senha Advanced - Moving 7R](https://www.clubedohardware.com.br/forums/topic/1687995-senha-advanced-moving-7r/?do=getNewComment "Senha Advanced - Moving 7R")
-        
-        [Equipamentos de som e home theaters](https://www.clubedohardware.com.br/forums/forum/52-equipamentos-de-som-e-home-theaters/ "Equipamentos de som e home theaters")  
-        Por [Vinicius Conte](https://www.clubedohardware.com.br/profile/1247202-vinicius-conte/ "Ir ao perfil de Vinicius Conte")  
-        1 hora atrás
-        
-    * [![ninjabrow](https://www.clubedohardware.com.br/uploads/members/monthly_2023_07/imported-photo-1154751.thumb.jpeg.375cc1698e4c8fded6811a18a60b84e5.jpeg)](https://www.clubedohardware.com.br/profile/1154751-ninjabrow/ "Ir ao perfil de ninjabrow")
-        
-        4
-        
-        [Ryzen 5 5600g em 90% de uso e 90 graus](https://www.clubedohardware.com.br/forums/topic/1687994-ryzen-5-5600g-em-90-de-uso-e-90-graus/?do=getNewComment "Ryzen 5 5600g em 90% de uso e 90 graus")
-        
-        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
-        Por [ninjabrow](https://www.clubedohardware.com.br/profile/1154751-ninjabrow/ "Ir ao perfil de ninjabrow")  
-        1 hora atrás
-        
-    * [![Renaro](https://www.clubedohardware.com.br/uploads/members/monthly_2024_06/imported-photo-1247199.thumb.jpeg.758e846c184ee78df9da31a94246ac13.jpeg)](https://www.clubedohardware.com.br/profile/1247199-renaro/ "Ir ao perfil de Renaro")
-        
-        8
-        
-        [Computador de até 10 mil](https://www.clubedohardware.com.br/forums/topic/1687993-computador-de-at%C3%A9-10-mil/?do=getNewComment "Computador de até 10 mil")
+        [Orientação para montagem de pc.](https://www.clubedohardware.com.br/forums/topic/1688102-orienta%C3%A7%C3%A3o-para-montagem-de-pc/?do=getNewComment "Orientação para montagem de pc.")
         
         [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [Renaro](https://www.clubedohardware.com.br/profile/1247199-renaro/ "Ir ao perfil de Renaro")  
+        Por [Daniel Cabral](https://www.clubedohardware.com.br/profile/1143429-daniel-cabral/ "Ir ao perfil de Daniel Cabral")  
+        19 minutos atrás
+        
+    * [![Allan19k](https://www.clubedohardware.com.br/uploads/members/monthly_2024_06/imported-photo-1213192.thumb.png.ffa9335b1b69729c16885cd5a1d7bd82.png)](https://www.clubedohardware.com.br/profile/1213192-allan19k/ "Ir ao perfil de Allan19k")
+        
+        1
+        
+        [Sugestão de upgrade ou conselhos para o meu PC](https://www.clubedohardware.com.br/forums/topic/1688101-sugest%C3%A3o-de-upgrade-ou-conselhos-para-o-meu-pc/?do=getNewComment "Sugestão de upgrade ou conselhos para o meu PC")
+        
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [Allan19k](https://www.clubedohardware.com.br/profile/1213192-allan19k/ "Ir ao perfil de Allan19k")  
+        34 minutos atrás
+        
+    * [![Marcos Vinícius Camargo](https://www.clubedohardware.com.br/uploads/members/monthly_2024_06/imported-photo-1192491.thumb.jpeg.d3801ec41832369d2f928c2bf33a06d7.jpeg)](https://www.clubedohardware.com.br/profile/1192491-marcos-vin%C3%ADcius-camargo/ "Ir ao perfil de Marcos Vinícius Camargo")
+        
+        3
+        
+        [Que tamanho de placa de vídeo suporta o GABINETE TGT COMBAT TGT-CBT-01?](https://www.clubedohardware.com.br/forums/topic/1688100-que-tamanho-de-placa-de-v%C3%ADdeo-suporta-o-gabinete-tgt-combat-tgt-cbt-01/?do=getNewComment "Que tamanho de placa de vídeo suporta o GABINETE TGT COMBAT TGT-CBT-01?")
+        
+        [Gabinetes e casemod](https://www.clubedohardware.com.br/forums/forum/81-gabinetes-e-casemod/ "Gabinetes e casemod")  
+        Por [Marcos Vinícius Camargo](https://www.clubedohardware.com.br/profile/1192491-marcos-vin%C3%ADcius-camargo/ "Ir ao perfil de Marcos Vinícius Camargo")  
+        42 minutos atrás
+        
+    * [![ChristianRJ2](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c46278%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EC%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1230909-christianrj2/ "Ir ao perfil de ChristianRJ2")
+        
+        0
+        
+        [Recomendação de gabinete com vidro direito](https://www.clubedohardware.com.br/forums/topic/1688099-recomenda%C3%A7%C3%A3o-de-gabinete-com-vidro-direito/?do=getNewComment "Recomendação de gabinete com vidro direito")
+        
+        [Gabinetes e casemod](https://www.clubedohardware.com.br/forums/forum/81-gabinetes-e-casemod/ "Gabinetes e casemod")  
+        Por [ChristianRJ2](https://www.clubedohardware.com.br/profile/1230909-christianrj2/ "Ir ao perfil de ChristianRJ2")  
+        57 minutos atrás
+        
+    * [![Rejane11](https://www.clubedohardware.com.br/uploads/members/monthly_2024_05/imported-photo-1245301.thumb.jpeg.fd77e7e430fb2aa2f0112ca43680ed3a.jpeg)](https://www.clubedohardware.com.br/profile/1245301-rejane11/ "Ir ao perfil de Rejane11")
+        
+        0
+        
+        [Teclas CAPSLOCK e SHIFT não funcionam!](https://www.clubedohardware.com.br/forums/topic/1688097-teclas-capslock-e-shift-n%C3%A3o-funcionam/?do=getNewComment "Teclas CAPSLOCK e SHIFT não funcionam!")
+        
+        [Teclados, mouses e controles para jogos](https://www.clubedohardware.com.br/forums/forum/62-teclados-mouses-e-controles-para-jogos/ "Teclados, mouses e controles para jogos")  
+        Por [Rejane11](https://www.clubedohardware.com.br/profile/1245301-rejane11/ "Ir ao perfil de Rejane11")  
         1 hora atrás
         
-    * [![Kaiq748](https://www.clubedohardware.com.br/uploads/members/monthly_2024_03/imported-photo-1240512.thumb.png.b0f795c5cb2c8f4cf09b0baa502a065c.png)](https://www.clubedohardware.com.br/profile/1240512-kaiq748/ "Ir ao perfil de Kaiq748")
+    * [![gustavo9425](https://www.clubedohardware.com.br/uploads/members/monthly_2021_03/eu.thumb.jpg.437c56a894c1e9a47c5a3b4c158759d1.jpg)](https://www.clubedohardware.com.br/profile/1148607-gustavo9425/ "Ir ao perfil de gustavo9425")
         
-        2
+        0
         
-        [Minha placa-mãe precisa de 8 pinos porém a fonte só tem 4](https://www.clubedohardware.com.br/forums/topic/1687992-minha-placa-m%C3%A3e-precisa-de-8-pinos-por%C3%A9m-a-fonte-s%C3%B3-tem-4/?do=getNewComment "Minha placa-mãe precisa de 8 pinos porém a fonte só tem 4")
-        
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [Kaiq748](https://www.clubedohardware.com.br/profile/1240512-kaiq748/ "Ir ao perfil de Kaiq748")  
-        1 hora atrás
-        
-    * [![Laby](https://www.clubedohardware.com.br/uploads/members/monthly_2024_06/imported-photo-1247068.thumb.png.d2924b2880b83aa552e264c937949553.png)](https://www.clubedohardware.com.br/profile/1247068-laby/ "Ir ao perfil de Laby")
-        
-        2
-        
-        [o que preciso verificar antes de comprar uma fonte?](https://www.clubedohardware.com.br/forums/topic/1687991-o-que-preciso-verificar-antes-de-comprar-uma-fonte/?do=getNewComment "o que preciso verificar antes de comprar uma fonte?")
+        [kit zion não liga no botão nem na ligação com chave de fenda.](https://www.clubedohardware.com.br/forums/topic/1688096-kit-zion-n%C3%A3o-liga-no-bot%C3%A3o-nem-na-liga%C3%A7%C3%A3o-com-chave-de-fenda/?do=getNewComment "kit zion não liga no botão nem na ligação com chave de fenda.")
         
         [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
-        Por [Laby](https://www.clubedohardware.com.br/profile/1247068-laby/ "Ir ao perfil de Laby")  
+        Por [gustavo9425](https://www.clubedohardware.com.br/profile/1148607-gustavo9425/ "Ir ao perfil de gustavo9425")  
         1 hora atrás
+        
+    * [![MelloQz](https://www.clubedohardware.com.br/uploads/members/monthly_2024_06/imported-photo-1247244.thumb.jpeg.7dee0397a44b128184c914e5f4ad33c3.jpeg)](https://www.clubedohardware.com.br/profile/1247244-melloqz/ "Ir ao perfil de MelloQz")
+        
+        0
+        
+        [Monitor externo conectado, porém com tela preta](https://www.clubedohardware.com.br/forums/topic/1688095-monitor-externo-conectado-por%C3%A9m-com-tela-preta/?do=getNewComment "Monitor externo conectado, porém com tela preta")
+        
+        [Notebooks](https://www.clubedohardware.com.br/forums/forum/156-notebooks/ "Notebooks")  
+        Por [MelloQz](https://www.clubedohardware.com.br/profile/1247244-melloqz/ "Ir ao perfil de MelloQz")  
+        1 hora atrás
+        
+    * [![MarcosHenoc](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c4a762%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EM%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1234239-marcoshenoc/ "Ir ao perfil de MarcosHenoc")
+        
+        0
+        
+        [Compatibilidade de memória ram](https://www.clubedohardware.com.br/forums/topic/1688094-compatibilidade-de-mem%C3%B3ria-ram/?do=getNewComment "Compatibilidade de memória ram")
+        
+        [Memórias (RAM)](https://www.clubedohardware.com.br/forums/forum/29-mem%C3%B3rias-ram/ "Memórias (RAM)")  
+        Por [MarcosHenoc](https://www.clubedohardware.com.br/profile/1234239-marcoshenoc/ "Ir ao perfil de MarcosHenoc")  
+        1 hora atrás
+        
+    * [![VICTOR SALES19](https://www.clubedohardware.com.br/uploads/members/monthly_2024_06/imported-photo-1247242.thumb.png.f9c0286424d7c0bd2b8cb7452d7354aa.png)](https://www.clubedohardware.com.br/profile/1247242-victor-sales19/ "Ir ao perfil de VICTOR SALES19")
+        
+        0
+        
+        [Pc trava com a tela colorida após um tempo de hso](https://www.clubedohardware.com.br/forums/topic/1688093-pc-trava-com-a-tela-colorida-ap%C3%B3s-um-tempo-de-hso/?do=getNewComment "Pc trava com a tela colorida após um tempo de hso")
+        
+        [Computador congelando](https://www.clubedohardware.com.br/forums/forum/123-computador-congelando/ "Computador congelando")  
+        Por [VICTOR SALES19](https://www.clubedohardware.com.br/profile/1247242-victor-sales19/ "Ir ao perfil de VICTOR SALES19")  
+        2 horas atrás
         
     
 
