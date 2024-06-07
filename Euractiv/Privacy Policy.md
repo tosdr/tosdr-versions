@@ -248,10 +248,6 @@ Toggle navigation
     * [The road to Georgia’s accession to the EU](https://www.euractiv.com/section/europe-s-east/special_report/the-road-to-georgias-accession-to-the-eu/)
     * [Kazakhstan’s constitutional referendum](https://www.euractiv.com/section/central-asia/special_report/kazakhstans-constitutional-referendum/)
     
-    ##### Events
-    
-    * 05 June - [EU-Kazakhstan relations - What are the drivers for increased economic and trade cooperation?](https://events.euractiv.com/event/info/eu-kazakhstan-relations-what-are-the-drivers-for-increased-economic-cooperation)
-    
     ##### Promoted Content
     
     * [This World Press Freedom Day, everyone must commit to preserving and strengthening media freedom](https://www.euractiv.com/section/global-europe/opinion/this-world-press-freedom-day-everyone-must-commit-to-preserving-and-strengthening-media-freedom/)
@@ -805,15 +801,15 @@ If you have any questions about this Privacy Policy, please contact us:
 ### Most read articles
 
 * 1[Sweden to ban bottom fishing in territorial waters](http://en.euractiv.eu/section/agriculture-food/news/sweden-to-ban-bottom-trawling-in-territorial-waters/?utm_source=website&utm_campaign=popular)
-* 2[Nuclear: SMRs alliance unveils their roadmap up to early 2025](http://en.euractiv.eu/section/energy-environment/news/donagh-nuclear-smrs-alliance-unveils-their-roadmap-up-to-early-2025/?utm_source=website&utm_campaign=popular)
-* 3[European Commission should be less political and more impartial, Michel says](http://en.euractiv.eu/section/eu-institutions/news/european-commission-should-be-less-political-and-more-impartial-michel-says/?utm_source=website&utm_campaign=popular)
+* 2[Socialists-Greens head to head with Wilders' far-right in the Netherlands: EU election exit poll](http://en.euractiv.eu/section/politics/news/european-election-exit-poll-socialists-greens-win-in-the-netherlands/?utm_source=website&utm_campaign=popular)
+* 3[Nuclear: SMRs alliance unveils their roadmap up to early 2025](http://en.euractiv.eu/section/energy-environment/news/donagh-nuclear-smrs-alliance-unveils-their-roadmap-up-to-early-2025/?utm_source=website&utm_campaign=popular)
 * 4[What you need to know about the upcoming results: EU election projection](http://en.euractiv.eu/section/elections/news/what-you-need-to-know-about-the-results-eu-election-projection/?utm_source=website&utm_campaign=popular)
-* 5[Twelve EU countries push for key next step in Ukraine, Moldova accession process](http://en.euractiv.eu/section/enlargement-neighbourhood/news/twelve-eu-countries-push-for-key-next-step-in-ukraine-moldova-accession-process/?utm_source=website&utm_campaign=popular)
-* 6[Why the next European Commission's enlargement portfolio could be its most wanted](http://en.euractiv.eu/section/enlargement-neighbourhood/news/why-the-next-european-commissions-enlargement-portfolio-could-be-its-most-wanted/?utm_source=website&utm_campaign=popular)
-* 7[For Mario Draghi, European Council rather than Commission](http://en.euractiv.eu/section/elections/news/for-mario-draghi-european-council-rather-than-commission/?utm_source=website&utm_campaign=popular)
+* 5[European Commission should be less political and more impartial, Michel says](http://en.euractiv.eu/section/eu-institutions/news/european-commission-should-be-less-political-and-more-impartial-michel-says/?utm_source=website&utm_campaign=popular)
+* 6[Twelve EU countries push for key next step in Ukraine, Moldova accession process](http://en.euractiv.eu/section/enlargement-neighbourhood/news/twelve-eu-countries-push-for-key-next-step-in-ukraine-moldova-accession-process/?utm_source=website&utm_campaign=popular)
+* 7[Why the next European Commission's enlargement portfolio could be its most wanted](http://en.euractiv.eu/section/enlargement-neighbourhood/news/why-the-next-european-commissions-enlargement-portfolio-could-be-its-most-wanted/?utm_source=website&utm_campaign=popular)
 * 8[Bulgarian president hints at rethink over backing Serbia's EU membership](http://en.euractiv.eu/section/politics/news/bulgarian-president-hints-at-rethink-over-backing-serbias-eu-membership/?utm_source=website&utm_campaign=popular)
-* 9[How the next few weeks could shape the West's support for Ukraine](http://en.euractiv.eu/section/global-europe/news/how-the-next-few-weeks-could-shape-the-wests-support-for-ukraine/?utm_source=website&utm_campaign=popular)
-* 10[How EU-China trade negotiations could play out](http://en.euractiv.eu/section/economy-jobs/news/how-eu-china-trade-negotiations-could-play-out/?utm_source=website&utm_campaign=popular)
+* 9[For Mario Draghi, European Council rather than Commission](http://en.euractiv.eu/section/elections/news/for-mario-draghi-european-council-rather-than-commission/?utm_source=website&utm_campaign=popular)
+* 10[How the next few weeks could shape the West's support for Ukraine](http://en.euractiv.eu/section/global-europe/news/how-the-next-few-weeks-could-shape-the-wests-support-for-ukraine/?utm_source=website&utm_campaign=popular)
 
 ###### Advertisement
 
