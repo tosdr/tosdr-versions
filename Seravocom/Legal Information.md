@@ -16,7 +16,7 @@
     * [Turvallinen](https://seravo.com/fi/ominaisuudet/turvallinen/)
     * [Vihreä](https://seravo.com/fi/ominaisuudet/vihrea/)
     * [Aito](https://seravo.com/fi/ominaisuudet/aito/)
-* Palvelut
+* [Palvelut](https://seravo.com/fi/hinnasto/)
     * [WP Start](https://seravo.com/fi/wp-start/)
     * [WP Pro](https://seravo.com/fi/wp-pro/)
     * [WP Business](https://seravo.com/fi/wp-business/)
