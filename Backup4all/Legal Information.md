@@ -142,15 +142,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to back up data files from DDN using Back ...](https://www.backup4all.com/how-to-back-up-data-files-from-ddn-using-backup4all-kb.html)  
+* [Backup Outlook emails and settings](https://www.backup4all.com/backup-outlook-emails-and-settings-kb.html)  
     
-* [How to backup your data to T Cloud](https://www.backup4all.com/how-to-backup-your-data-to-t-cloud-kb.html)  
+* [How to backup your data to Eucalyptus/Walrus](https://www.backup4all.com/how-to-backup-your-data-to-eucalyptus-walrus-kb.html)  
     
-* [Ordering - FAQ](https://www.backup4all.com/ordering-faq-kb.html)  
+* [How to back up data files from Akaza using Ba ...](https://www.backup4all.com/how-to-back-up-data-files-from-akaza-using-backup4all-kb.html)  
     
-* [How to back up data files from Backblaze usin ...](https://www.backup4all.com/how-to-back-up-data-files-from-backblaze-using-backup4all-kb.html)  
+* [How to back up data files from Tiscali using ...](https://www.backup4all.com/how-to-back-up-data-files-from-tiscali-using-backup4all-kb.html)  
     
-* [Restore data after a hard drive crash](https://www.backup4all.com/restore-data-after-a-hard-drive-crash-kb.html)  
+* [How to keep multiple Mirror backup versions i ...](https://www.backup4all.com/how-to-keep-multiple-mirror-backup-versions-in-destination-kb.html)  
     
 
 Choose language:
