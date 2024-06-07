@@ -66,9 +66,7 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![Successful challengers vs. losing incumbents in the US House](/assets/Uploads/cfi1.png)](https://www.followthemoney.org/research/blog/massive-amounts-were-spent-by-the-candidates-and-independent-spenders-in-the-races-that-decided-the-2018-midterms)
-
-Successful challengers vs. losing incumbents in the US House of Representatives, 2006-2018.
+[![Contributions From Nursing Home and Long-Term Care Industry, by State, 2001–2016](/assets/Images/teasers/small/nursing-homes.JPG)](https://www.followthemoney.org/research/institute-reports/nursing-a-long-term-political-strategy)
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
