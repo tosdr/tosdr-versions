@@ -30,127 +30,148 @@ Menu
 
 [Become a Customer](https://gfs.com/become-a-customer/)
 
-Delivering Culinary Excellence
-==============================
+Terms of Use Agreement
+======================
 
-Serving our customers, employees, and communities.
+_Updated on: 5/1/24_
 
-[Become a Customer](https://gfs.com/become-a-customer/)
+Your use of GFS.com and its related websites (“GFS Websites”), social media channels, videos, software applications, mobile application services, information, web postings, products, services and tools, or anywhere these Terms of Use appears including Supplier Central, Inventory Manager (Website, Mobile), Gordon Cycle Menu Management, Gordon Go Rewards, Gordon Now (Website, Mobile App, Chat, Voice Assistant), Gordon Ordering, Measur’d.Biz, Gordon Culinary Pro, Gordon Restaurant Pro, and other websites, services, and platforms we may add from time to time (collectively “Services”), are governed by this Terms of Use Agreement (“Terms of Use”) and corresponding [Privacy Policy](https://gfs.com/privacy-policy/) located at https://gfs.com/en-us/privacy-policy/ (“Privacy Policy”) and Cookie and Similar Technologies Policy located at https://gfs.com/en-us/gfs-cookies-policy/ (“Cookie Policy”), which are incorporated herein by reference. These Terms of Use are effective immediately for all Users of the Services and is by and between you, the User and Gordon Food Service, Inc., and its related entities in the United States, including Gordon Food Service, Inc., [Gordon Food Service Store LLC](https://gfsstore.com/), [Relish Works, Inc.](https://www.relishworks.com/), [Back of House, LLC,](https://backofhouse.io/) and [Halperns’](https://www.halperns.com/) (collectively “GFS” or “we” or “us”). Please read these Terms of Use carefully before you start to use the Services.
 
-[Shop Our Stores](https://gfsstore.com/)
+**BY USING THE SERVICES, YOU, THE “USER”, ARE AGREEING ON BEHALF OF YOURSELF, AS WELL AS ANY EMPLOYEES OR AGENTS WHOM YOU AUTHORIZE TO USE THE SERVICES, TO THESE TERMS OF USE AND TO THE DATA PROCESSING SET FORTH IN OUR PRIVACY POLICY AND OUR COOKIE POLICY INCLUDING BUT NOT LIMITED TO THE USE OF COOKIES, PIXELS AND OTHER AUTOMATIC ONLINE TRACKING TECHNOLOGIES DESCRIBED WITHIN IT.**
 
-[Turn Up the Heat With Trade East](https://gfs.com/en-us/products/brands/trade-east-spices-seasonings/#melindas-liquid-spice)
+##### **Important Information About Us**  
 
-[Manage Your Inventory](https://gfs.com/business/gordon-inventory/)
+For more than 125 years, we’ve delivered the excellence, expertise, and quality products our customers need to design successful food operations and experiences. We’ve grown to become the largest family-operated broad-line food distribution company in North America by upholding the same business approach since 1897—being passionately committed to the people we serve.
 
-[Explore Career Opportunities](https://gfs.com/careers/)
+These Terms of Use govern Users who reside in the United States. If you do not want to agree to these Terms of Use, and the Privacy Policy and Cookie Policy, you must not access or use the Services. If you are attempting to access the Canadian website for Gordon Food Service, click [here](https://gfs.ca/en-ca/).
 
-[Discover Trends & Ideas](https://gfs.com/inspired/trends-ideas/)
+##### **1\. Updates to these Terms of Use.**
 
-Delivering The Brands You Love
-------------------------------
+We reserve the right, at our sole discretion, to change, modify, add, or remove portions of these Terms of Use, at any time. Amendments or changes to these Terms of Use will not be effective until we post a revised Terms of Use on the GFS Websites. Unless explicitly stated otherwise, any new feature added to the Services, including but not limited to the release of new tools and resources, shall be subject to the Terms of Use.
 
-Your customers know what they like: high-quality brands that keep them coming back for more. Our signature brands ensure that you’re putting the best food on your tables.
+It is your responsibility to check the Terms of Use periodically for changes. Your continued use of the Services following the posting of changes will mean that you accept and agree to the changes.
 
-[Learn More About Our Brands](https://gfs.com/products/brands/)
+##### **2\. User Eligibility**
 
-Play Video
+Use of the Services is void where prohibited. Your use of the Services constitutes your representation that (1) all information you submitted to GFS is truthful and accurate: (2) that you will update your information when changes occur; (3) that you are at least 18 years of age; (4) that, if you are under the age of 18, you have the authorization of your legal guardian, and (5) that your use of the Services does not violate any state, federal, or other law which applies in your jurisdiction.
 
-The Team Behind  
-Great Meals
------------------------------
+##### **3\. Accessing the Services and Obtaining the Appropriate Consents**
 
-Respect. Responsibility. Reliability. That’s what you deserve. That’s what we deliver.
+To access the Services or some of the resources it offers you will be asked to provide certain information regarding your business, your contact information, and other personal information. You agree that all information you provide to GFS, its service providers, partners, or affiliates, including but not limited to through the use of any interactive features on the Services, is governed by our Privacy Policy and Cookie Policy, and you consent to all actions we take with respect to your information and the information you provide to GFS while using the Services consistent with our Privacy Policy and Cookie Policy.
 
-At Gordon Food Service, we believe that great meals create great memories. We stand behind the teams delivering great meals everyday. That’s why we’re with you at every step. From delivering great products to solving the turbulence of the supply chain, you have a team that helps you continue to succeed, evolve, and grow.
+If you choose, or are provided with, a user name, password, or any other piece of information as part of our security procedures, you must treat such information as confidential, and you must not disclose it to any other person or entity. You also acknowledge that any GFS account, is personal to you and agree not to provide any other person with access to the Services or portions of it using your user name, password, or other security information. You agree to notify us immediately of any unauthorized access to or use of your user name or password or any other breach of security. You also agree to ensure that you exit from your account at the end of each session. You should use particular caution when accessing your account from a public or shared computer so that others are not able to view or record your password or other personal information.  
+  
+We have the right to disable any user name, password, or other identifier, whether chosen by you or provided by us, at any time in our sole discretion for any or no reason, including if, in our opinion, you have violated any provision of these Terms of Use.
 
-[See how our values support your business](https://gfs.com/about-us/)
+##### **4\. Permitted Use of the Services.**
 
-High-Tech & High-Touch Partner From End to End
-----------------------------------------------
+You are granted permission to use the Services in accordance with these Terms of Use. The Services may provide a mechanism to allow you to transmit your data (“Your Data”) to GFS and for GFS to transmit data (“GFS Data”) to you. You agree that you are only authorized to use GFS Data for your internal business use and that GFS may use Your Data for any lawful purposes in accordance with these Terms of Use (collectively, the “Authorized Purposes”), and that you will not duplicate, download, publish, modify or otherwise distribute GFS Data for any purpose other than the Authorized Purposes. You are agreeing to follow these Terms of Use and all applicable laws and regulations that may govern the Services. You also agree not to deep-link to the GFS Websites for any purpose, unless specifically authorized by GFS to do so. You may not remove any legal notice or credits on pages of GFS Websites. GFS may terminate your use of the Services at any time based upon GFS’s sole discretion. You agree that you will not use any robot, spider, other automatic device, or manual process to monitor or copy the web pages or other GFS Data, or use GFS Data for any other unauthorized purpose without GFS’s prior express written permission. You agree that you will not use any device, software or routine to interfere or attempt to interfere with the proper working of the GFS Websites. You agree that you will not take any action that imposes an unreasonable or disproportionately large load on the software and hardware infrastructure relating to the GFS Websites.
 
-Tools designed to make managing your business easier, and team members to help you from truck to table.
+##### **5\. Privacy**
 
-![Bowtie pasta noodles with tomatoes and peas in a bowl](https://gfs.com/wp-content/uploads/2022/07/BG-bowtie-pasta-900x900-1.png)
+Your privacy is very important to GFS. Please read GFS’s [Privacy Policy](https://gfs.com/privacy-policy/) and [Cookie Policy](https://gfs.com/en-us/gfs-cookies-policy/), as it may change from time to time, and it is considered a part of these Terms of Use. By using the Services you consent to the Privacy Policy and Cookie Policy and the terms contained in these Terms of Use regarding the processing of your personal and other information.
 
-[Gordon Restaurant Pro](https://gfs.com/business/gordon-restaurant-pro/)
-------------------------------------------------------------------------
+##### **6\. Consent for GFS and its Service Providers to Process Your Information**
 
-Your all-in-one restaurant management tool. Track labor cost, food costs, manage inventory and more.
+GFS uses third parties to assist us in operating our Website, conducting our business, or servicing you, so long as those parties agree to keep your information confidential.
 
-[Learn More](https://gfs.com/business/gordon-restaurant-pro/)
+Those trusted third-party partners may:
 
-[Gordon Culinary Pro](https://gfs.com/business/gordon-culinary-pro/)
---------------------------------------------------------------------
+* Provide you and our company, and its affiliated companies with various services
+* Communicate with you via our marketing communications service providers, including via email and text messaging; 
+* Provide database maintenance and security
+* Help us manage transactions
+* Help us process and fulfill orders or requests
+* Create an account on such third-party site to provide various services to you
 
-The recipe tool designed by Chefs, for Chefs. Manage your recipes, train efficiently, reduce food waste and more.
+By using the Services, the User consents to GFS sharing the User’s information with its service providers and their service providers.
 
-[Learn More](https://gfs.com/business/gordon-culinary-pro/)
+If we are involved in a merger, acquisition, financing due diligence, reorganization, bankruptcy, receivership, purchase or sale of assets, or transition of service to another provider, then your personal information may be transferred as part of such a transaction, as permitted by law and/or contract. By providing your personal information to us, you consent to such a transfer.
 
-[Gordon Now App](https://gfs.com/business/gordon-now-app/)
-----------------------------------------------------------
+##### **7\. User Contributions**
 
-With Gordon Now tools, you are able to manage your business whenever, wherever, and however you want.
+The Services or its social media channels may contain message boards, chat rooms, personal web pages or profiles, forums, bulletin boards, and other interactive features (collectively, “Interactive Services”) that allow users to post, submit, publish, display, or transmit to other users or other persons (hereinafter, “post”) content or materials (collectively, “User Contributions”) on or through the Services. All User Contributions must comply with the Content Standards set out in these Terms of Use.
 
-[Learn More](https://gfs.com/business/gordon-now-app/)
+Any User Contribution you post to the Services will be considered non-confidential and non-proprietary. By providing any User Contribution on the Services, you grant us and our affiliates and service providers a non-exclusive, worldwide, perpetual, irrevocable, royalty-free, sublicensable right to exercise any and all copyright, trademark, publicity, and database rights you have in the content, in any media known now or in the future.
 
-Grow Your Business
-------------------
+You represent and warrant that you own or control all rights in and to the User Contributions and have the right to grant the license granted above to us and our affiliates and service providers.
 
-Consumer demands keep evolving. Our business services help you stay ahead of a changing industry.
+All of your User Contributions do and will comply with these Terms of Use.
 
-[](https://gfs.com/our-markets/restaurants/)
+##### **8\. Content Standards**
 
-### [Restaurants](https://gfs.com/our-markets/restaurants/)
+The following Content Standards apply to any and all User Contributions and use of Interactive Services. You are responsible for any and all User Contributions, including without limitation data, text, information, usernames, graphics, images, photographs, profiles, audio, video, items, and links which you post to the Services. Please use common sense when posting User Contributions to the Services. Postings which may violate any state, federal, or other law which applies in your jurisdiction, whether civil or criminal, are strictly prohibited. Refrain from posting any User Contributions which contains profanity or nudity. GFS reserves the right to reject, refuse to post, or delete any User Contributions for any reason, including, but not limited to, User Contributions which, in the sole judgment of GFS, violates these Terms of Use or which otherwise may be deemed offensive or rude. GFS does not assume responsibility for monitoring user posted User Contributions. However, if you believe you have identified a violation of these Terms of Use, please report the abuse to the Privacy Officer whose contact information is listed below.
 
-Products and tools to help restaurants deal with tight margins and changing demands.
+##### **9\. Confidentiality**
 
-[](https://gfs.com/our-markets/education/)
+GFS and the User, and any person authorized by the User, may receive access to, or develop, Confidential Information from or for the other party.  Each party acknowledges that all Confidential Information of the other party is proprietary to and a valuable trade secret of the other party, and that any unauthorized disclosure or use of such Confidential Information may cause such other party irreparable harm and loss.  Therefore, the parties agree that (subject to the other provisions of this Section) neither party, nor any others associated with or used by such party, shall use the Confidential Information for itself or others or disclose any Confidential Information to others, without first obtaining the prior written consent of the other party and without obtaining a confidentiality agreement from such third party in form and substance acceptable to GFS or you, as appropriate.  Each party agrees to exercise the same degree of care to protect the confidentiality of the Confidential Information of the other party as such party would exercise in protecting the confidentiality of its own Confidential Information, but in no case less than a reasonable degree of care.  
 
-### [Education](https://gfs.com/our-markets/education/)
+Each party shall limit dissemination of Confidential Information of the other party within the party’s organizations involved in the performance of these Terms to those of their respective employees, agents, partners, members, officers, directors, representatives, servants, subcontractors, auditors or legal representatives (collectively, “Representatives”) who may reasonably require the same for purposes of assisting in the party’s use of the Site.  Each party shall be responsible for any breach of these Terms caused by its Representatives.
 
-Broad selection and sustainable choices for changing consumer needs.
+Each party shall (a) use Confidential Information of the other party for the sole and limited purpose of using the Site; and (b) return or destroy all Confidential Information of the other party, including copies or other written or physical embodiments of, or containing, such Confidential Information (including any studies, analyses, compilations or other materials prepared in whole or in part based on said Confidential Information), immediately upon the written request of the other party or a decision by the party to no longer use the Site.
 
-[](https://gfs.com/our-markets/healthcare/)
+“Confidential Information” means information or data designated as confidential or proprietary or which reasonably ought to be considered as confidential from its nature or from the circumstances surrounding its disclosure including, without limitation, (a) any and all non-public financial information, customer lists, and employee data concerning the disclosing party; (b) pending patents or trade secret information; or (c) techniques, methodologies, procedures, management tools, manuals, sketches, drawings, design details and specifications, data models, concepts, ideas, inventions, know-how, processes, report formats or templates, apparatus, equipment, algorithms, software programs, software source documents and formula; (d) your Data; or (e) GFS Data.  “Confidential Information” also includes, without limitation, information of a similar nature received by disclosing party from third parties and that disclosing party is obligated to treat as confidential, and information in combination with publicly known information where the nature of the combination is not publicly known. 
 
-### [Healthcare](https://gfs.com/our-markets/healthcare/)
+##### **10\. GFS Intellectual Property and Trademark Rights**
 
-Great food and regulatory expertise to cut through red tape and get to the table.
+The Services and its entire contents, features, and functionality (including but not limited to all information, software, text, displays, images, video, and audio, and the design, selection, and arrangement thereof) are owned by GFS, its licensors, or other providers of such material and are protected by United States and international copyright, trademark, patent, trade secret, and other intellectual property or proprietary rights laws. The Services, and all of the information contained on the Services, is subject to [Gordon Food Service’s Copyright and Trademark Policies](https://gfs.com/en-us/copyright-trademark/).
 
-![Gordon Ordering website on laptop](https://gfs.com/wp-content/uploads/2022/07/5050-app-laptop-900x600-1.png)
+All content posted by GFS is protected by copyright laws and may not be reproduced, republished, distributed, transmitted, sold, displayed, broadcast or otherwise exploited in any commercial or for profit manner without the prior written consent of GFS.
 
-[![Photo by gordonfoodservice](https://scontent-iad3-1.cdninstagram.com/v/t51.29350-15/447188027_825846922777528_2162077083190927031_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=18de74&_nc_ohc=0ZzdRhHBEYoQ7kNvgE7vSOQ&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AYBm10oC3z92atFFWlPXUgXQTQaM2kDnb1y1XF_YFCXGeg&oe=666773B6)](https://www.instagram.com/reel/C7uvEiBsmh-/)[![Photo by gordonfoodservice](https://scontent-iad3-2.cdninstagram.com/v/t51.2885-15/447439563_1511050719845322_2765187192099631548_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=18de74&_nc_ohc=_QqBm7CUstMQ7kNvgHHx4dx&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AYBnWjsxFwMosVv2_4ehG-cjzisOv8TJJFZwzeRNeHk52Q&oe=66678C27)](https://www.instagram.com/p/C7rl_ZiMxWO/)[![Photo by gordonfoodservice](https://scontent-iad3-2.cdninstagram.com/v/t51.29350-15/447168655_826935055964086_8798006800850620381_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=18de74&_nc_ohc=rK3kCdcmnycQ7kNvgFf99Iy&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AYDVoIjRNl9SF-w9WI7zwqind1SXYX4fh5nbR9dVd6OW6A&oe=66677ED5)](https://www.instagram.com/reel/C7mYGAlhrKI/)[![Photo by gordonfoodservice](https://scontent-iad3-1.cdninstagram.com/v/t51.29350-15/446346345_478106007914583_8949846443342192042_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=18de74&_nc_ohc=s__zdNA-18oQ7kNvgEhOcGv&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AYD97RZDq4qXWjS1APpNM7txcqnBiv6fDrUKbXkm4uItWQ&oe=666785C5)](https://www.instagram.com/reel/C7hXPfJK3zz/)[![Photo by gordonfoodservice](https://scontent-iad3-2.cdninstagram.com/v/t51.29350-15/446196768_1022498962774615_5196399679031152891_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=18de74&_nc_ohc=sxfFkjEG7WUQ7kNvgGgxdxi&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AYCtpVnNAJvEpEMgDZBaj8zaalZFDXcs93DmGK3VOncb2g&oe=66678529)](https://www.instagram.com/reel/C7Zir_pNlj6/)[![Photo by gordonfoodservice](https://scontent-iad3-1.cdninstagram.com/v/t51.29350-15/445985193_423741593762824_1573748956419328482_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=18de74&_nc_ohc=os0lKRpNSqoQ7kNvgF4dPg8&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AYDfrRCnxJ_76KIqPlW01peANGx-3gwGnYjRtLblz6-dGg&oe=666760C3)](https://www.instagram.com/reel/C7UUGNeucI5/)[![Photo by gordonfoodservice](https://scontent-iad3-1.cdninstagram.com/v/t51.2885-15/445961996_1396199511051872_9148287407003839303_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=18de74&_nc_ohc=kzihFz9NVrgQ7kNvgEFHScn&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AYAHsLwRxgYZrlpTtptZFfS9Jn_T_iZh59Nw3SaFkJ5ojA&oe=666789A0)](https://www.instagram.com/p/C7SDF1opnGN/)[![Photo by gordonfoodservice](https://scontent-iad3-2.cdninstagram.com/v/t51.29350-15/445929960_800057642090985_173878358850499845_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=18de74&_nc_ohc=IHoJE4juUGEQ7kNvgGmzkZ2&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AYDOdCp2DR3yQ0yflhAG1fbovhXrTHMzSJhIo_QVh1g-BA&oe=66676E0E)](https://www.instagram.com/reel/C7PN_mThhxn/)[![Photo by gordonfoodservice](https://scontent-iad3-2.cdninstagram.com/v/t51.29350-15/445365269_967469551702289_8813829546922257048_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=18de74&_nc_ohc=NugvAa0jnAQQ7kNvgFh2weo&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AYCx-a0W-PhmfKFqJiXLeiz2h0eP1ZNeKWQYij5jsnWjvw&oe=66677DE7)](https://www.instagram.com/reel/C7HjDJ5Anaj/)[![Photo by gordonfoodservice](https://scontent-iad3-2.cdninstagram.com/v/t51.29350-15/443698702_6922045991230209_1855137936375400162_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=18de74&_nc_ohc=xjU9E8ARvygQ7kNvgGOblyW&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AYDAeaFfrtLfbnTU8FyrJZ3PvAF9WswGOpP-fjVFhCIPHA&oe=66677CDD)](https://www.instagram.com/reel/C7E49H5gfJf/)[![Photo by gordonfoodservice](https://scontent-iad3-2.cdninstagram.com/v/t51.29350-15/442686308_2652562668258835_7138541453890369775_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=18de74&_nc_ohc=WDOGPXFYKkwQ7kNvgFMPU91&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AYA6qbjzoZWGbJPPl2Ojsrd3H2CxDqODD-p6pyHW7OzlDg&oe=66676020)](https://www.instagram.com/reel/C7ABFW0tGF1/)[![Photo by gordonfoodservice](https://scontent-iad3-2.cdninstagram.com/v/t51.29350-15/436344182_936928321506555_6153963467785323765_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=18de74&_nc_ohc=VFYNAB_gELAQ7kNvgHa3S-P&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AYAwpFlUceL87kwH6fqAoxtbLWsvA0TiTerEjlZjm8u_sQ&oe=666763D9)](https://www.instagram.com/reel/C61fggoIzWM/)[![Photo by gordonfoodservice](https://scontent-iad3-1.cdninstagram.com/v/t51.29350-15/436344182_1115750176206199_2413198961550196833_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=18de74&_nc_ohc=tTpmLCnFfRgQ7kNvgH-4R8F&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AYD5q3zENJSd5yuIUTQjcvoiw-PNnHRgYQ751oVOa1mNjw&oe=666772B0)](https://www.instagram.com/reel/C6uYaEWLCNn/)[![Photo by gordonfoodservice](https://scontent-iad3-2.cdninstagram.com/v/t51.29350-15/442233193_839698404856574_7999323900985864331_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=18de74&_nc_ohc=GdjBuCch1sEQ7kNvgGxfgA1&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AYBnhq9qbBGUMqRJvrAG4PM3Exg7e-NqfdAe5ZuIQGXcHw&oe=6667977E)](https://www.instagram.com/reel/C6pS7fssDZ_/)[![Photo by gordonfoodservice](https://scontent-iad3-2.cdninstagram.com/v/t51.2885-15/441374600_1135963294391383_5622259898034850678_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=18de74&_nc_ohc=QIMNo7DxJ18Q7kNvgHGsqQV&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AYBKc7EYwSApJNTrYZVNBXnTkastE6TDhmcaO-JxFzEQYw&oe=66676DB2)](https://www.instagram.com/p/C6hQdUQsSyN/)
+These Terms of Use permit you to use the Services for your personal, non-commercial use only. You must not reproduce, distribute, modify, create derivative works of, publicly display, publicly perform, republish, download, store, or transmit any of the material on our Services.
 
-Every Dish Tells a Savory Story
--------------------------------
+GFS and related logos, including those of Gordon Food Service, Inc., are subject to copyright and trademark protections. You must not use such marks without the prior written permission of GFS.  
+  
+Any and all remarks, suggestions, ideas, creative concepts, graphics, product reviews, or other information communicated through the Services or otherwise sent to GFS, including without limitation, product or advertising ideas (collectively the “Submissions”), will forever be the exclusive property of GFS, who will not be required to treat the Submissions as confidential, and will not be liable for any use whatsoever or disclosure of the Submissions, and need not provide any compensation or acknowledgement for the Submissions. Without limitation, GFS will have exclusive ownership of all present and future existing rights to the Submissions of every kind and nature anywhere.
 
-Follow our journey as we continue to grow in the foodservice industry.
+##### **11\. Authors and Bloggers**
 
-[Instagram](https://www.instagram.com/gordonfoodservice/) [Facebook-f](https://www.facebook.com/GordonFoodService) [Youtube](https://www.youtube.com/@GFSDelivers) [Linkedin-in](https://www.linkedin.com/company/gordon-food-service)
+As stated below, GFS does not warrant any of the information provided on the Services. Please use common sense when reviewing articles and blogs posted by our staff or community members. You should not rely in any way on any information posted on the Services.
 
-Food for Thought
-----------------
+##### **12\. Cancellation and Termination**
 
-Thought Leadership To Feed Your Business Needs
+Without limiting GFS’s other remedies, we reserve the right to do any of the following, at any time, without notice to you (1) to modify, suspend or terminate operation of or access to the Services, or any portion of the Services for any reason or no reason at all; (2) to modify or change the Services, or any portion of the Services, and any applicable policies or Terms; and (3) to interrupt the operation of the Services, or any portion of the Service, as necessary to perform routine or non-routine maintenance, error correction, or other changes.
 
-[Food Safety: The Impact of Cooking Techniques](https://gfs.com/en-us/ideas/food-safety-the-impact-of-cooking-techniques/)
+##### **13\. Online Purchases and Other Terms and Conditions.**
 
-Celebrate World Food Safety Day on June 7th! Discover simple kitchen practices and cooking methods to prevent foodborne illnesses and ensure safe, healthy meals.
+All purchases through our Services, formed through the Services, or resulting from visits made by you, are governed by the following terms \[insert link\], which are hereby incorporated into these Terms of Use. Additional terms and conditions may also apply to specific portions, services, or features of the Services. All such additional terms and conditions are hereby incorporated by this reference into these Terms of Use.
 
-[Lean Thinking – Get More From Your Team With Small Changes](https://gfs.com/en-us/ideas/lean-thinking-get-more-from-your-team-with-small-changes/)
+##### **14\. Limitation of Liability and Claims**
 
-When you optimize workflow, it saves time and money while achieving peak performance from your foodservice operation.
+YOU AGREE THAT GFS AND ITS PROVIDERS SHALL NOT BE LIABLE FOR ANY DAMAGE, LOSS, OR EXPENSE OF ANY KIND ARISING OUT OF OR RESULTING FROM YOUR POSSESSION OR USE OF THE MATERIALS, CONTENT, OR INFORMATION ON THE GFS WEBSITES OR SERVICES REGARDLESS OF WHETHER SUCH LIABILITY IS BASED IN TORT, CONTRACT, OR OTHERWISE. IN NO EVENT, INCLUDING, WITHOUT LIMITATION, A NEGLIGENT ACT, SHALL GFS OR ANY OF ITS PROVIDERS BE LIABLE TO YOU FOR ANY DIRECT, INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES (INCLUDING, WITHOUT LIMITATION, LOSS OF PROFITS, LOSS OF BUSINESS OPPORTUNITIES, LOSS OR CORRUPTION OF DATA, LOSS OF GOODWILL, WORK STOPPAGE, COMPUTER FAILURE OR MALFUNCTION, OR INTERRUPTION OF BUSINESS), ARISING OUT OF OR IN ANY WAY RELATED TO THE MATERIALS, CONTENT, OR INFORMATION ON THE GFS WEBSITES, SERVICES OR ANY OTHER PRODUCTS, OR INFORMATION OFFERED, SOLD, OR DISPLAYED ON THE GFS WEBSITES OR SERVICES, YOUR USE OF, OR INABILITY TO USE, THE GFS WEBSITES AND SERVICES GENERALLY, OR OTHERWISE IN CONNECTION WITH THESE TERMS OF USE, REGARDLESS OF WHETHER GFS OR ANY OF ITS PROVIDERS HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. BECAUSE SOME STATES DO NOT ALLOW THE LIMITATION OF LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES, THE ABOVE LIMITATION MAY NOT APPLY TO YOU.
 
-[Using “Lean Thinking” to Boost Efficiency and Reduce Waste in K-12 Nutrition Programs](https://gfs.com/en-us/ideas/using-lean-thinking-to-boost-efficiency-and-reduce-waste-in-k-12-nutrition-programs/)
+ANY CAUSE OF ACTION YOU MAY HAVE WITH RESPECT TO YOUR USE OF THE SERVICES MUST BE COMMENCED WITHIN ONE YEAR AFTER THE CLAIM OR CAUSE OF ACTION ARISES.
 
-Adopt lean thinking in K-12 food service to boost team efficiency, reduce waste, and streamline workflows. Empower your staff for a more productive school nutrition program.
+##### **15\. Indemnification**
 
-Food Comes First
-----------------
+You agree to indemnify, defend and hold GFS and its partners, agents, officers, directors, employees, subcontractors, successors, assigns, third party suppliers of information and documents, advertisers, product and service providers, and affiliates, harmless from any liability, loss, claim and expense, including reasonable attorney’s fees and costs, related to your violation of these Terms of Use or your use of the Services, or violation of applicable law and regulations and any proprietary or privacy right.
 
-We believe in the power of good food—to bring people together and make moments special.
+##### **16\. No Waiver**
 
-[Become a Customer](https://gfs.com/become-a-customer/)
+GFS failure to enforce any provision of these Terms of Use does not waive future enforcement.
+
+##### **17\. Disclaimer of Warranty**
+
+You expressly agree that use of the Services are at your sole risk. Neither GFS, its affiliates, nor any of their officers, directors, employees, agents, third-party content providers, service providers, or licensors (collectively, “Providers”), or the like, warrant that the Services will be uninterrupted or error-free; nor do they make any warranty as to the results that may be obtained from the use of the Services, or as to the accuracy, completeness, reliability, security, or currency of any content or User Contributions in connection with the Services. Any such content or User Contributions may contain errors, omissions, inaccuracies, or outdated information. Further, GFS does not warrant reliability of any content displayed or distributed through the Services.
+
+THE GFS WEBSITES, SERVICES, AND THE CONTENT ON THEM ARE PROVIDED ON AN “AS IS,” “WHERE IS,” AND “WHERE AVAILABLE” BASIS. GFS MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, AS TO THE OPERATION OF THE GFS WEBSITES, SERVICES, CONTENT, INFORMATION, OR THE MATERIALS ON THEM. TO THE FULLEST EXTENT PERMISSIBLE UNDER APPLICABLE LAW, GFS EXPRESSLY DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, OF ANY KIND, WITH RESPECT TO ANY OF THE CONTENT OR ANY GOODS OR OTHER PRODUCTS OR SERVICES OFFERED, SOLD, OR DISPLAYED ON THE SERVICES OR YOUR USE OF THE SERVICES GENERALLY, INCLUDING WARRANTIES OF MERCHANTABILITY, ACCURACY OF INFORMATION, QUALITY, TITLE, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. SOME JURISDICTIONS LIMIT OR DO NOT ALLOW THE DISCLAIMER OF IMPLIED OR OTHER WARRANTIES SO THE ABOVE DISCLAIMER MAY NOT APPLY TO THE EXTENT SUCH JURISDICTION’S LAW APPLIES TO THESE TERMS OF USE.
+
+##### **18\. Governing Law**
+
+These Terms of Uset shall be governed and controlled by the laws of the State of Michigan as to interpretation, enforcement, validity, construction, and effect and in all other respects.
+
+##### **19\. Dispute Resolution**
+
+If a dispute arises from or relates to these Terms of Use or the breach thereof, and if the dispute cannot be settled through direct discussions, the parties agree to endeavor first to settle the dispute by mediation administered by a mutually agreeable mediator located in Grand Rapids, Michigan or by the American Arbitration Association under its Commercial Mediation Procedures before resorting to arbitration. The parties further agree that any unresolved controversy or claim arising out of or relating to this contract, or breach thereof, shall be settled by arbitration administered by the American Arbitration Association in accordance with its Commercial Arbitration Rules and judgment on the award rendered by the arbitrator(s) may be entered in any court in the state and/or federal courts located in Kent County Michigan. ANY CAUSE OF ACTION OR CLAIM YOU MAY HAVE ARISING OUT OF OR RELATING TO THESE TERMS OR THE SITE MUST BE COMMENCED WITHIN ONE (1) YEAR AFTER THE CAUSE OF ACTION ACCRUES, OTHERWISE, SUCH CAUSE OF ACTION OR CLAIM IS PERMANENTLY BARRED.
+
+##### **20\. Notice to GFS**
+
+All notices to GFS under these Terms of Use may be sent using the following information.
+
+Gordon Food Service, Inc.  
+Attn: Senior Director of Sales  
+1300 Gezon Parkway, S.W.  
+Wyoming MI 49509
 
 ![GFS Logo](https://gfs.com/wp-content/uploads/2023/01/logo.svg)
 
