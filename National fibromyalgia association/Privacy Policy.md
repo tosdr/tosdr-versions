@@ -129,11 +129,6 @@ The National Fibromyalgia Association follows the online Privacy Guidelines and 
 
 ![Privacy Policy](/wp-content/uploads/2020/02/privacy-image.jpg)
 
-Close product quick view×
-
-Title
------
-
 [Privacy Policy](https://www.fmaware.org/privacy-policy/)   |   [Membership](https://www.fmaware.org/membership/)   |   [DONATE](https://www.fmaware.org/donate/)
 
 The information in this website is not a substitute for professional medical advice.Please always consult with your physician on matters concerning your medical care and treatment.  
