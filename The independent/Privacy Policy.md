@@ -235,6 +235,14 @@ _When you comment on our website_
 
 If you plan to comment on our website, you will need to register for an account and provide us with a commenting name. When you comment publicly on an article on our site, we would recommend you don’t share any sensitive personal information. We are not responsible for the information you choose to post online. Please see a link to our Community Guidelines on commenting [here](https://www.independent.co.uk/service/community-guidelines-a6075176.html).
 
+_When you join our WhatsApp Community_
+
+If you choose to be part of The Independent’s Whatsapp Community, you are allowing WhatsApp to receive and share data with us, including your phone number. Your full phone number is not visible to other members in the group, apart from the admin. We will never use this data to contact you or for any other purposes.
+
+Messages will only be sent by The Independent and your information will be kept secure – no one else will be able to see that you are receiving our messages, unless you comment publicly on these messages.
+
+You can exit the Community at any time by going to the Communities tab of your WhatsApp account, and following these instructions: [How to exit a community](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ffaq.whatsapp.com%2F1312647189536807%2F%3Fcms_platform%3Dweb&data=05%7C02%7CRichard.Best%40independent.co.uk%7C0059c82cb8814e7785ba08dc8704d5d3%7C0f3a4c644dc54a768d4152d85ca158a5%7C0%7C0%7C638533702041645418%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=SnJidLDeinhncvlq6CvH%2Bu7To8AEDoV2Q%2BA1VvMQszI%3D&reserved=0). You can reply to our posts, but these must adhere to The Independent’s [community guidelines](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.independent.co.uk%2Fservice%2Fcommunity-guidelines-9487166.html&data=05%7C02%7CRichard.Best%40independent.co.uk%7C0059c82cb8814e7785ba08dc8704d5d3%7C0f3a4c644dc54a768d4152d85ca158a5%7C0%7C0%7C638533702041652050%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=Gch2BUFH0vEZIfASH0XpkCRIAPSMxU7s9BkJFRM5Eis%3D&reserved=0). We may remove posts or members from the WhatsApp Community if they breach these guidelines
+
 _When you take out a subscription or attend an event_
 
 If you are subscribing to one of our paid-for products, in addition to your name, email address, password and year of birth, you will also need to provide your billing address and payment card information. Your payment details are not held on our systems. Instead they are handled by a secure, trusted third party provider.
