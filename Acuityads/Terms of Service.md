@@ -29,9 +29,9 @@ Partner Webinar: The cookieless marketing future with SVP Tony Vlismas - June 11
         * [Guides](https://illumin.com/insights/guides/)
         * [Events](https://illumin.com/insights/events/)
         * [Podcasts & Webinars](https://illumin.com/insights/podcasts-webinars/)
-    * ![Voicing out on voice-activated ads](https://illumin.com/wp-content/uploads/2024/04/voice-activated-263x300.png)
+    * ![First-party data is crucial to success in a cookieless world](https://illumin.com/wp-content/uploads/2024/06/first-party-data-1-263x300.jpg)
         
-        Voicing out on voice-activated ads[Read More](https://illumin.com/insights/blog/voicing-out-on-voice-activated-ads/)
+        First-party data is crucial to success in a cookieless world[Read More](https://illumin.com/insights/blog/first-party-data-is-crucial-to-success/)
         
 * [Company](#)
     * [Company](#)
@@ -51,9 +51,9 @@ Partner Webinar: The cookieless marketing future with SVP Tony Vlismas - June 11
         * [Investor Information](https://illumin.com/investor-information/)
         * [Stock Performance](https://illumin.com/stock-performance/)
         * [News & Press](https://illumin.com/news-press/)
-    * ![illumin Reports First Quarter 2024 Financial Results](https://illumin.com/wp-content/uploads/2023/07/Whats-new-with-illumin-263x300.jpg)
+    * ![illumin Holdings Inc. Announces Upgrade to the OTCQB in the United States](https://illumin.com/wp-content/uploads/2023/07/Whats-new-with-illumin-263x300.jpg)
         
-        illumin Reports First Quarter 2024 Financial Results[Read More](https://illumin.com/news-press/illumin-reports-first-quarter-2024-financial-results/)
+        illumin Holdings Inc. Announces Upgrade to the OTCQB in the United States[Read More](https://illumin.com/news-press/illumin-announces-upgrade-to-otcqb-in-us/)
         
 * [Request a Demo](https://illumin.com/product/request-a-demo/)
 
