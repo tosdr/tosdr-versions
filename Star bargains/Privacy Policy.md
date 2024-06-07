@@ -149,6 +149,15 @@ Featured Deals
 Recent Deals
 ------------
 
+* [![Up To 25% Off Selected LEGO Sets At John Lewis](https://extremebargains.uk/wp-content/uploads/2024/06/lego-500x333.jpg)](https://extremebargains.uk/deal/up-to-25-off-selected-lego-sets-at-john-lewis/)
+    
+    [Up To 25% Off Selected LEGO Sets At John Lewis
+    ----------------------------------------------](https://extremebargains.uk/deal/up-to-25-off-selected-lego-sets-at-john-lewis/)
+    
+    [![](https://extremebargains.uk/wp-content/uploads/2023/11/john-lewis-logo.jpg)](https://extremebargains.uk/retailers/john-lewis/)
+    
+    [View Deal ➜](https://extremebargains.uk/shop/18839/)
+    
 * [![Keter Unity XL BBQ Table Black NOW £199.99 At Wilko](https://extremebargains.uk/wp-content/uploads/2024/06/keterbbq-500x333.jpg)](https://extremebargains.uk/deal/keter-unity-xl-bbq-table-black-now-199-99-at-wilko/)
     
     [Keter Unity XL BBQ Table Black NOW £199.99 At Wilko
@@ -409,15 +418,6 @@ Recent Deals
     [![](https://extremebargains.uk/wp-content/uploads/2024/04/disney-store.png)](https://extremebargains.uk/retailers/disney-store/)
     
     [View Deal ➜](https://extremebargains.uk/shop/18716/)
-    
-* [![Encanto Rolling Luggage NOW £22 At Disney Store](https://extremebargains.uk/wp-content/uploads/2024/05/encantocase-500x333.jpg)](https://extremebargains.uk/deal/encanto-rolling-luggage-now-22-at-disney-store/)
-    
-    [Encanto Rolling Luggage NOW £22 At Disney Store
-    -----------------------------------------------](https://extremebargains.uk/deal/encanto-rolling-luggage-now-22-at-disney-store/)
-    
-    [![](https://extremebargains.uk/wp-content/uploads/2024/04/disney-store.png)](https://extremebargains.uk/retailers/disney-store/)
-    
-    [View Deal ➜](https://extremebargains.uk/shop/18714/)
     
 
 Latest News
