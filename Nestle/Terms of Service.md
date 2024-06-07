@@ -2011,15 +2011,15 @@ You and Nestlé agree that any claim or dispute relating to the Website shall be
 Mini Footer
 -----------
 
-### [Nestlé News](https://www.nestle.com/info/sign-me-up)
+### [Nestlé news](https://www.nestle.com/info/sign-me-up)
 
-[Sign up for Global Nestlé News](https://www.nestle.com/info/sign-me-up)
+[Subscribe to receive email alerts](https://www.nestle.com/info/sign-me-up)
 
 [Sign up](https://www.nestle.com/info/sign-me-up)
 
-### [Compliance Concerns](https://www.nestle.com/about/how-we-do-business/report-compliance-concerns)
+### [Compliance concerns](https://www.nestle.com/about/how-we-do-business/report-compliance-concerns)
 
-[Speak Up about your concerns](https://www.nestle.com/about/how-we-do-business/report-compliance-concerns)
+[Speak up about your concerns](https://www.nestle.com/about/how-we-do-business/report-compliance-concerns)
 
 [Speak Up](https://www.nestle.com/about/how-we-do-business/report-compliance-concerns)
 
