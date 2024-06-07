@@ -116,10 +116,10 @@ Legacy
 
 #### Latest blog articles
 
+* 06.06.2024[Branding and Domain Names: Impact of Domain Name on Brand Identity and Customer Perception](https://www.eurodns.com/blog/domain-names-brand-identity)
 * 05.06.2024[The Ultimate Guide to Choosing the Perfect Domain ...](https://www.eurodns.com/blog/how-choose-perfect-domain-for-your-website)
 * 30.05.2024[SEO and Domain Names: Increase your Search Ranking with SEO-friendly Domain Name](https://www.eurodns.com/blog/boost-seo-with-perfect-domain-name)
 * 23.05.2024[What Exactly is Domain Authority and How Can it Boost your SEO?](https://www.eurodns.com/blog/what-is-domain-authority)
-* 23.05.2024[Getting Your Small Business Online in 3 Easy Steps](https://www.eurodns.com/blog/small-business-website-guide-for-smbs)
 
 #### Domain Name Discounts
 
