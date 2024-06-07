@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Service was good ... I was using it for watching MotoGP on BBC iPlayer or maybe Top Gear.
+We have been with you continuously with you for around four years and really do love the service.
 
-George Brannick
+Jenn and Tref
