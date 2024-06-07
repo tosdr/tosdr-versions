@@ -28,7 +28,7 @@ Sign in with Google](https://xhamster.com/login-google?source=base)
 
 * [Videos](https://xhamster.com/)
     * [Best Videos](https://xhamster.com/best/weekly)
-    * [Moments](https://xhamster.com/moments/gaping-milf-xhMOnGj)
+    * [Moments](https://xhamster.com/moments/desi-step-sister-get-deep-throat-xhqqLI3)
     * [Watch History](https://xhamster.com/my/watch-history)
     
     * [British](https://xhamster.com/categories/british)
@@ -39,7 +39,7 @@ Sign in with Google](https://xhamster.com/login-google?source=base)
     
     * [All categories](https://xhamster.com/categories)
 * [0](https://xhamster.com/my/subscriptions)
-* [Live Sex](https://xhamsterlive.com/?userId=aad1b133c9c4764c297d099d98d58aef&utm_source=xhamster&memberId=&utm_medium=widgets&sourceId=widgets&platform=desktop&landing=WidgetXH&domain=xhamsterlive&orientation=straight&pageType=otherPages&logged=0&retargeted=0&adblocked=0&widgetName=mainMenu-LiveSex&widgetElement=tab&isUserLogged=0&isUserRetargeted=0&xhName=XHSH-1998&xhGroup=Test-B&exp=%7B%221802%22%3A%7B%22g%22%3A%22a%22%2C%22v%22%3A11%7D%2C%223001%22%3A%7B%22g%22%3A%22d%22%2C%22v%22%3A5%7D%2C%223003%22%3A%7B%22g%22%3A%22c%22%2C%22v%22%3A1%7D%7D&xhStatsUid=666210bc5c7f79.76344943d4c&xhSessionToken=130e43fec4f02efb05e9df4f9e5d85f24d07aa13&xhSessionStartedAt=1717702844)
+* [Live Sex](https://xhamsterlive.com/?userId=aad1b133c9c4764c297d099d98d58aef&utm_source=xhamster&memberId=&utm_medium=widgets&sourceId=widgets&platform=desktop&landing=WidgetXH&domain=xhamsterlive&orientation=straight&pageType=otherPages&logged=0&retargeted=0&adblocked=0&widgetName=mainMenu-LiveSex&widgetElement=tab&isUserLogged=0&isUserRetargeted=0&xhName=XHSH-1998&xhGroup=Test-B&exp=%7B%221802%22%3A%7B%22g%22%3A%22b%22%2C%22v%22%3A11%7D%2C%223001%22%3A%7B%22g%22%3A%22b%22%2C%22v%22%3A5%7D%2C%223003%22%3A%7B%22g%22%3A%22a%22%2C%22v%22%3A1%7D%7D&xhStatsUid=66637924ed2bb1.18041815633&xhSessionToken=bef4d5749478dd50d69df470649cfd5ca6648fd7&xhSessionStartedAt=1717795108)
 * [Categories](https://xhamster.com/categories)
     * [British](https://xhamster.com/categories/british)
     * [Mature](https://xhamster.com/categories/mature)
@@ -90,7 +90,7 @@ Sign in with Google](https://xhamster.com/login-google?source=base)
 Privacy Policy
 ==============
 
-Effective Date: June 06, 2024
+Effective Date: June 07, 2024
 
 Last Modified: January 04, 2024
 
@@ -407,7 +407,7 @@ Last Modified: January 04, 2024
 
 ### Start making money with us
 
-* [Camgirls Wanted](https://join.flirtify.com/?utm_source=xhamster-desktop&utm_medium=footer)
+* [Camgirls Wanted](https://join.flirtify.com/?utm_source=xhamster-mobile&utm_medium=footer)
 * [Creator Contest](https://xhamster.com/creators/contest)
 * [Сontent Creators Program](https://xhamster.com/creator?source=footerCcp)
 
