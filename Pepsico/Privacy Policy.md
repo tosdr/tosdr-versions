@@ -379,7 +379,7 @@ Close 1-Atoms/icons/close@3x
 
 [](https://www.facebook.com/PepsiCo)[](https://twitter.com/pepsico)[](https://youtube.com/pepsico)[](https://www.linkedin.com/company/pepsico)[](https://www.instagram.com/pepsico)
 
-© PepsiCo 20 [Terms of Use](https://www.pepsico.com/legal/terms-of-use) [Privacy Policy](https://www.pepsico.com/legal/privacy) [Accessibility Statement](https://www.pepsico.com/legal/accessibility-statement) [About Our Ads](https://www.pepsico.com/legal/about-our-ads) [Modern Slavery Statement](https://www.pepsico.com/docs/default-source/sustainability-and-esg-topics/2022-pepsico-modern-slavery-and-human-trafficking-statement.pdf)
+© PepsiCo 20 [Terms of Use](https://www.pepsico.com/legal/terms-of-use) [Privacy Policy](https://www.pepsico.com/legal/privacy) [Accessibility Statement](https://www.pepsico.com/legal/accessibility-statement) [About Our Ads](https://www.pepsico.com/legal/about-our-ads) [Modern Slavery Statement](https://www.pepsico.com/docs/default-source/sustainability-and-esg-topics/2023-pepsico-modern-slavery-and-human-trafficking-statement.pdf)
 
 * [Frito Lay](https://www.fritolay.com/)
 * [PepsiCo Beverage Facts](http://www.pepsicobeveragefacts.com/)
