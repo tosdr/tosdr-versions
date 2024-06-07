@@ -199,11 +199,11 @@ Connect with us
 
 Noteworthy
 
-![](https://www.renaissance.com/wp-content/uploads/2024/05/SIIA-2023-CODiE-Finalist-Education3-300x300.png)
+![](https://www.renaissance.com/wp-content/uploads/2024/05/2024-SIIA-CODiE-Winner_square-300x300.png)
 
-CODiE Awards 2024 Finalist
+CODiE Awards 2024 Winner
 
-Best Content Authoring Development or Curation Solution. The CODiE awards honor the best in business and education technology.
+Renaissance has been honored with four SIIA CODiE Awards, including Best Education Platform.
 
 Learn More
 
