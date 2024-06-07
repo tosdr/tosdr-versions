@@ -26,7 +26,7 @@
         
         [](https://www.songkick.com/metro-areas/24426-uk-london)See all London concerts ([Change location](https://www.songkick.com/session/filter_metro_area))  
           
-        [Today ·](https://www.songkick.com/en/metro-areas/24426-uk-london?filters%5BmaxDate%5D=06%2F06%2F2024&filters%5BminDate%5D=06%2F06%2F2024#date-filter-form) [Next 7 days ·](https://www.songkick.com/en/metro-areas/24426-uk-london?filters%5BmaxDate%5D=06%2F13%2F2024&filters%5BminDate%5D=06%2F06%2F2024#date-filter-form) [Next 30 days](https://www.songkick.com/en/metro-areas/24426-uk-london?filters%5BmaxDate%5D=07%2F06%2F2024&filters%5BminDate%5D=06%2F06%2F2024#date-filter-form)
+        [Today ·](https://www.songkick.com/en/metro-areas/24426-uk-london?filters%5BmaxDate%5D=06%2F07%2F2024&filters%5BminDate%5D=06%2F07%2F2024#date-filter-form) [Next 7 days ·](https://www.songkick.com/en/metro-areas/24426-uk-london?filters%5BmaxDate%5D=06%2F14%2F2024&filters%5BminDate%5D=06%2F07%2F2024#date-filter-form) [Next 30 days](https://www.songkick.com/en/metro-areas/24426-uk-london?filters%5BmaxDate%5D=07%2F07%2F2024&filters%5BminDate%5D=06%2F07%2F2024#date-filter-form)
         
     * [Artists](https://www.songkick.com/artists)
         
