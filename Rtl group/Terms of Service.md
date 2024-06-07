@@ -10,13 +10,13 @@
     
     [Profile](https://www.rtlgroup.com/en/about-rtl/overview/profile/)
     
-    [Strategy](https://www.rtlgroup.com/en/about-rtl/overview/strategy/)
+    [Strategy](https://www.rtlgroup.com/export/sites/rtlunited/en/about-rtl/overview/strategy/)
     
     [RTL brand](https://www.rtlgroup.com/en/about-rtl/overview/rtl-brand/)
     
     [Compliance](https://www.rtlgroup.com/en/about-rtl/overview/compliance/)
     
-    [Our history](https://www.rtlgroup.com/en/about-rtl/overview/our-history/)
+    [Our history](https://www.rtlgroup.com/export/sites/rtlunited/en/about-rtl/overview/our-history/)
     
     **Board**
     
@@ -154,23 +154,23 @@
     
     **Overview**
     
-    [Key figures and outlook](https://www.rtlgroup.com/en/investor-relations/overview/key-figures-and-outlook/)
+    [Key figures and outlook](https://www.rtlgroup.com/export/sites/rtlunited/en/investor-relations/overview/key-figures-and-outlook/)
     
-    [Equity story](https://www.rtlgroup.com/en/investor-relations/overview/equity-story/)
+    [Equity story](https://www.rtlgroup.com/export/sites/rtlunited/en/investor-relations/overview/equity-story/)
     
-    [Our share](https://www.rtlgroup.com/en/investor-relations/overview/our-share/)
+    [Our share](https://www.rtlgroup.com/export/sites/rtlunited/en/investor-relations/overview/our-share/)
     
-    [Dividends](https://www.rtlgroup.com/en/investor-relations/overview/dividends/)
+    [Dividends](https://www.rtlgroup.com/export/sites/rtlunited/en/investor-relations/overview/dividends/)
     
-    [Analysts’ coverage](https://www.rtlgroup.com/en/investor-relations/overview/analysts-coverage/)
+    [Analysts’ coverage](https://www.rtlgroup.com/export/sites/rtlunited/en/investor-relations/overview/analysts-coverage/)
     
-    [Financial publications](https://www.rtlgroup.com/en/investor-relations/overview/financial-publications/)
+    [Financial publications](https://www.rtlgroup.com/export/sites/rtlunited/en/investor-relations/overview/financial-publications/)
     
-    [Calendar and events](https://www.rtlgroup.com/en/investor-relations/overview/calendar-and-events/)
+    [Calendar and events](https://www.rtlgroup.com/export/sites/rtlunited/en/investor-relations/overview/calendar-and-events/)
     
-    [Corporate governance](https://www.rtlgroup.com/en/investor-relations/overview/corporate-governance/)
+    [Corporate governance](https://www.rtlgroup.com/export/sites/rtlunited/en/investor-relations/overview/corporate-governance/)
     
-    [Dealing-related information](https://www.rtlgroup.com/en/investor-relations/overview/dealing-related-information/)
+    [Dealing-related information](https://www.rtlgroup.com/export/sites/rtlunited/en/investor-relations/overview/dealing-related-information/)
     
 * Media
     
@@ -180,15 +180,15 @@
     
     **Overview**
     
-    [Press releases and news](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/)
+    [Press releases and news](https://www.rtlgroup.com/export/sites/rtlunited/en/media/overview/press-releases-and-news/)
     
-    [Pictures and logos](https://www.rtlgroup.com/en/media/overview/pictures-and-logos/)
+    [Pictures and logos](https://www.rtlgroup.com/export/sites/rtlunited/en/media/overview/pictures-and-logos/)
     
-    [Presentations](https://www.rtlgroup.com/en/media/overview/presentations/)
+    [Presentations](https://www.rtlgroup.com/export/sites/rtlunited/en/media/overview/presentations/)
     
-    [RTL stories - The podcast](https://www.rtlgroup.com/en/media/overview/rtl-stories-the-podcast/)
+    [RTL stories - The podcast](https://www.rtlgroup.com/export/sites/rtlunited/en/media/overview/rtl-stories-the-podcast/)
     
-    [Contact](https://www.rtlgroup.com/en/media/overview/contact/)
+    [Contact](https://www.rtlgroup.com/export/sites/rtlunited/en/media/overview/contact/)
     
     [![](/.galleries/images/rtl-group/RTL-stories_Mark-Evans_16-9.png)
     
@@ -209,10 +209,10 @@
     * [Annual Report 2023](https://www.annual-report2023.rtl.com/reports/rtlgroup/annual/2023/gb/English/0/annual-report-2023.html)
     * [Overview](https://www.rtlgroup.com/en/about-rtl/overview/)
         * [Profile](https://www.rtlgroup.com/en/about-rtl/overview/profile/)
-        * [Strategy](https://www.rtlgroup.com/en/about-rtl/overview/strategy/)
+        * [Strategy](https://www.rtlgroup.com/export/sites/rtlunited/en/about-rtl/overview/strategy/)
         * [RTL brand](https://www.rtlgroup.com/en/about-rtl/overview/rtl-brand/)
         * [Compliance](https://www.rtlgroup.com/en/about-rtl/overview/compliance/)
-        * [Our history](https://www.rtlgroup.com/en/about-rtl/overview/our-history/)
+        * [Our history](https://www.rtlgroup.com/export/sites/rtlunited/en/about-rtl/overview/our-history/)
     * [Board](https://www.rtlgroup.com/en/about-rtl/board/)
         * [Board of Directors](https://www.rtlgroup.com/en/about-rtl/board/board-of-directors/)
         * [Audit Committee](https://www.rtlgroup.com/en/about-rtl/board/audit-committee/)
@@ -275,26 +275,26 @@
     * [Full-year results 2023](https://company.rtl.com/en/media/overview/press-releases-and-news/rtl-group-full-year-results-2023/)
     * [Annual Report 2023](https://www.annual-report2023.rtl.com/)
     * [Subscribe to RTL Group press releases](https://media.rtl.com/sonstiges/registrierung/index.html)
-    * [Overview](https://www.rtlgroup.com/en/investor-relations/overview/)
-        * [Key figures and outlook](https://www.rtlgroup.com/en/investor-relations/overview/key-figures-and-outlook/)
-        * [Equity story](https://www.rtlgroup.com/en/investor-relations/overview/equity-story/)
-        * [Our share](https://www.rtlgroup.com/en/investor-relations/overview/our-share/)
-        * [Dividends](https://www.rtlgroup.com/en/investor-relations/overview/dividends/)
-        * [Analysts’ coverage](https://www.rtlgroup.com/en/investor-relations/overview/analysts-coverage/)
-        * [Financial publications](https://www.rtlgroup.com/en/investor-relations/overview/financial-publications/)
-        * [Calendar and events](https://www.rtlgroup.com/en/investor-relations/overview/calendar-and-events/)
-        * [Corporate governance](https://www.rtlgroup.com/en/investor-relations/overview/corporate-governance/)
-        * [Dealing-related information](https://www.rtlgroup.com/en/investor-relations/overview/dealing-related-information/)
+    * [Overview](https://www.rtlgroup.com/export/sites/rtlunited/en/investor-relations/overview/)
+        * [Key figures and outlook](https://www.rtlgroup.com/export/sites/rtlunited/en/investor-relations/overview/key-figures-and-outlook/)
+        * [Equity story](https://www.rtlgroup.com/export/sites/rtlunited/en/investor-relations/overview/equity-story/)
+        * [Our share](https://www.rtlgroup.com/export/sites/rtlunited/en/investor-relations/overview/our-share/)
+        * [Dividends](https://www.rtlgroup.com/export/sites/rtlunited/en/investor-relations/overview/dividends/)
+        * [Analysts’ coverage](https://www.rtlgroup.com/export/sites/rtlunited/en/investor-relations/overview/analysts-coverage/)
+        * [Financial publications](https://www.rtlgroup.com/export/sites/rtlunited/en/investor-relations/overview/financial-publications/)
+        * [Calendar and events](https://www.rtlgroup.com/export/sites/rtlunited/en/investor-relations/overview/calendar-and-events/)
+        * [Corporate governance](https://www.rtlgroup.com/export/sites/rtlunited/en/investor-relations/overview/corporate-governance/)
+        * [Dealing-related information](https://www.rtlgroup.com/export/sites/rtlunited/en/investor-relations/overview/dealing-related-information/)
 * [Media](https://www.rtlgroup.com/en/media/)
     * [Subscribe to RTL Group press releases](https://media.rtl.com/sonstiges/registrierung/index.html)
     * [RTL Media Hub: press archive](https://media.rtl.com/news/allemarken/newsarchiv/?startdate=2022-01-01&enddate=2024-12-31&lang=en&suchText=&marken=rtlgroup&interest=)
     * [Brand portal](https://brandportal.rtl.de/auth/?referer=%2Frtl-brand-book)
-    * [Overview](https://www.rtlgroup.com/en/media/overview/)
-        * [Press releases and news](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/)
-        * [Pictures and logos](https://www.rtlgroup.com/en/media/overview/pictures-and-logos/)
-        * [Presentations](https://www.rtlgroup.com/en/media/overview/presentations/)
-        * [RTL stories - The podcast](https://www.rtlgroup.com/en/media/overview/rtl-stories-the-podcast/)
-        * [Contact](https://www.rtlgroup.com/en/media/overview/contact/)
+    * [Overview](https://www.rtlgroup.com/export/sites/rtlunited/en/media/overview/)
+        * [Press releases and news](https://www.rtlgroup.com/export/sites/rtlunited/en/media/overview/press-releases-and-news/)
+        * [Pictures and logos](https://www.rtlgroup.com/export/sites/rtlunited/en/media/overview/pictures-and-logos/)
+        * [Presentations](https://www.rtlgroup.com/export/sites/rtlunited/en/media/overview/presentations/)
+        * [RTL stories - The podcast](https://www.rtlgroup.com/export/sites/rtlunited/en/media/overview/rtl-stories-the-podcast/)
+        * [Contact](https://www.rtlgroup.com/export/sites/rtlunited/en/media/overview/contact/)
 * [Deutsch](https://www.rtlgroup.com/de/homepage/) | [Englisch](https://www.rtlgroup.com/en/homepage/)
 
 Back
