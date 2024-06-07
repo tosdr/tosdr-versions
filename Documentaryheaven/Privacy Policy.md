@@ -128,39 +128,39 @@ Advertisement
     The new world order – Illuminati, Freemasons and other secret societies
     
     Secret societies have been trying to influence politics ever since. With new methods of communication they are now globally connected and more powerful then ever before. The names of those secret soci...](https://documentaryheaven.com/the-new-world-order-illuminati-freemasons-and-other-secret-societies/ "The new world order – Illuminati, Freemasons and other secret societies")
-* [![Natural World: A Farm for the Future](/wp-content/thumbnails/2209-100x70.jpg?x53432)
+* [![The Columbine Cause](/wp-content/thumbnails/6218-100x70.jpg?x53432)
     
-    Natural World: A Farm for the Future
+    The Columbine Cause
     
-    Wildlife film maker Rebecca Hosking investigates how to transform her family’s farm in Devon into a low energy farm for the future, and discovers that nature holds the key. With her father close to re...](https://documentaryheaven.com/natural-world-a-farm-for-the-future/ "Natural World: A Farm for the Future")
+    "The Columbine Cause" by Evan Long raises questions about the April 20, 1999 attack on Columbine High School which have gone unaddressed or unanswered by corporate and state media, including: Why do c...](https://documentaryheaven.com/the-columbine-cause/ "The Columbine Cause")
 
 ###### Throwback Documentaries
 
-* [![The Bitcoin Gospel](/wp-content/thumbnails/10220-100x70.jpg?x53432)
+* [![Ross Kemp on Gangs: A Kenya Special](/wp-content/thumbnails/10395-100x70.jpg?x53432)
     
-    The Bitcoin Gospel
+    Ross Kemp on Gangs: A Kenya Special
     
-    In this film VPRO Backlight take us into a world where we can become our own bank. We tend to take it for granted that money creation is controlled by government and banks but there is a community of](https://documentaryheaven.com/bitcoin-gospel/ "The Bitcoin Gospel")
-* [![Extraordinary People: The Rainman Twins](/wp-content/thumbnails/5700-100x70.jpg?x53432)
+    By now I imagine most of you documentary lovers out there will be familiar with the documentary series known as "Ross Kemp on Gangs", but for those of you that don't it is a British series hosted](https://documentaryheaven.com/ross-kemp-kenya-special/ "Ross Kemp on Gangs: A Kenya Special")
+* [![The Dirtiest Place on the Planet](/wp-content/thumbnails/6836-100x70.jpg?x53432)
     
-    Extraordinary People: The Rainman Twins
+    The Dirtiest Place on the Planet
     
-    The story of Flo and Kay, the worlds only female autistic savant twins. Savantism is a rare condition in which sufferers of developmental disorders, often autism, are capable of acts of genius that fa](https://documentaryheaven.com/extraordinary-people-the-rainman-twins/ "Extraordinary People: The Rainman Twins")
-* [![Meet The Burglars](/wp-content/thumbnails/7585-100x70.jpg?x53432)
+    It is the city of Linfen, China and spending about a day there breathing in the air is about the same as smoking three packs of cigarettes. The scary part is that there’s a lot of cities in China lik](https://documentaryheaven.com/the-dirtiest-place-on-the-planet/ "The Dirtiest Place on the Planet")
+* [![The Rise and Fall of Nokia](/wp-content/thumbnails/14084-100x70.jpg?x53432)
     
-    Meet The Burglars
+    The Rise and Fall of Nokia
     
-    Victims of burglary and other crimes are increasingly being offered the opportunity to meet the criminals who offended against them, in a controversial scheme aimed at empowering victims and potential](https://documentaryheaven.com/meet-the-burglars/ "Meet The Burglars")
-* [![The Wehrmacht](/wp-content/thumbnails/6410-100x70.jpg?x53432)
+    Nokia is a Finnish multinational company, originally founded in 1865 as a pulp mill the company became famous for its rubber products. In the 1970's Nokia expanded its operations into mobile phones an](https://documentaryheaven.com/rise-fall-of-nokia/ "The Rise and Fall of Nokia")
+* [![Charles Darwin and the Tree of Life](/wp-content/thumbnails/4322-100x70.jpg?x53432)
     
-    The Wehrmacht
+    Charles Darwin and the Tree of Life
     
-    Hitler's army thundered through Europe from 1939 to 1945 and brought needless death and destruction to the continent. What was it like to serve in this army? What was it like to conduct one of the blo](https://documentaryheaven.com/the-wehrmacht/ "The Wehrmacht")
-* [![The True Story of Black Hawk Down](/wp-content/thumbnails/695-100x70.png?x53432)
+    David starts his journey in Darwin’s home at Down House in Kent, where Darwin worried and puzzled over the origins of life. David goes back to his roots in Leicestershire, where he hunted for fossils](https://documentaryheaven.com/charles-darwin-and-the-tree-of-life/ "Charles Darwin and the Tree of Life")
+* [![Million Dollar Traders](/wp-content/thumbnails/6713-100x70.jpg?x53432)
     
-    The True Story of Black Hawk Down
+    Million Dollar Traders
     
-    Real footage is shown to prove that the film Black Hawk Down (2001) was very true to the real events that occurred in Mogadishu in 1993. Actual militia and US rangers are interviewed to tell us the di](https://documentaryheaven.com/the-true-story-of-black-hawk-down/ "The True Story of Black Hawk Down")
+    Million Dollar Traders follows a group of twelve wannabe traders dealing in shares during the events of the financial crisis of 2007-2009 which was then whittled down to the final eight. The contestan](https://documentaryheaven.com/million-dollar-traders/ "Million Dollar Traders")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
