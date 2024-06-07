@@ -78,13 +78,13 @@ Available all over the United States
 
 [Las Vegas](https://www.getaround.com/car-rental/las-vegas-nv)
 
-[Denver](https://www.getaround.com/car-rental/denver-co)
-
 [Washington](https://www.getaround.com/car-rental/washington-dc)
 
-[Hollywood](https://www.getaround.com/car-rental/hollywood-ca)
+[Houston](https://www.getaround.com/car-rental/houston-tx)
 
-[Seattle](https://www.getaround.com/car-rental/seattle-wa)
+[Newark](https://www.getaround.com/car-rental/newark-nj)
+
+[Phoenix](https://www.getaround.com/car-rental/phoenix-az)
 
 ![location-us](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)
 
@@ -114,9 +114,9 @@ The opening ceremony of the 2024 Olympic Games
 
 Coming to Paris? We've gathered all the information you need to know about the Opening Ceremony](https://getaround.com/blog/opening-ceremony-paris-2024-olympic-games/)[#Inspiration
 
-The 2024 Olympic Games: visit Paris too!
+What are the best things to do in San Francisco?
 
-Find out everything you need to know about visiting Paris during the 2024 Olympic Games](https://getaround.com/blog/visiting-paris-2024-olympic-games/)
+San Francisco offers many cultural & historical tours. Let's see why it is so famous for visitors!](https://getaround.com/blog/best-things-to-do-san-francisco/)
 
 Getaround car rental
 --------------------
