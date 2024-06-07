@@ -927,7 +927,7 @@ Choozle provides a digital advertising software platform that leverages detailed
 
 ### FROM THE BLOG
 
-* [Taking a full-funnel approach to paid search](https://choozle.com/blog/taking-a-full-funnel-approach-to-paid-search/)
+* [Taking a Full-Funnel Approach to Paid Search](https://choozle.com/blog/taking-a-full-funnel-approach-to-paid-search/)
 * [Unlocking the Power of Walmart DSP with Choozle](https://choozle.com/blog/walmart-dsp-with-choozle/)
 * [The Choozle Platform: Your Programmatic Advertising Powerhouse](https://choozle.com/blog/choozle-platform-programmatic-advertising-powerhouse/)
 
