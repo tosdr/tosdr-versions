@@ -79,19 +79,13 @@ The ROAS Trap: Discover 11 metrics that prove the value of retail media beyond R
     * [Dynamic Creative Optimization+ Real-time creative decisioning that scales to make sure your ads are seen](https://www.criteo.com/technology/dco/)
     * [Ad Trust and Safety Maintain the highest level of quality and performance](https://www.criteo.com/solutions/ad-trust-and-safety/)
     
-    ![](https://www.criteo.com/wp-content/uploads/2023/02/Resources-Featured-Image-v1-1.jpg)
+    ![](https://www.criteo.com/wp-content/uploads/2024/06/24-Website-Trend-Tracker.png)
     
-    Success Story
+    Criteo Trend Tracker
     
-    Aventon Bikes cruises to higher ROAS with connected campaigns across the funnel
+    Elevate your commerce game by joining our monthly newsletter packed with the latest data insights to know and share.
     
-    Read More
-    
-    100% ROAS (contextual targeting)
-    
-    ~600M Impressions
-    
-    [](https://www.criteo.com/success-stories/aventon/)
+    Stay in the loop[](#tt_modal)
     
 * About
     
