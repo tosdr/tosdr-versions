@@ -96,25 +96,13 @@ Search site
 
 [River Flood Warning
 
-until FRI 7:00 AM CDT, Kaufman County, Ellis County](https://www.fox4news.com/weather-alerts)
+until FRI 8:48 AM CDT, Kaufman County, Ellis County](https://www.fox4news.com/weather-alerts)
 
-7
-
-[River Flood Warning
-
-until THU 7:57 PM CDT, Dallas County](https://www.fox4news.com/weather-alerts)
+4
 
 [River Flood Warning
 
-until THU 11:00 PM CDT, Hunt County, Rockwall County](https://www.fox4news.com/weather-alerts)
-
-[River Flood Warning
-
-until THU 11:39 PM CDT, Hunt County](https://www.fox4news.com/weather-alerts)
-
-[River Flood Warning
-
-until FRI 2:23 AM CDT, Collin County](https://www.fox4news.com/weather-alerts)
+until FRI 5:46 AM CDT, Collin County](https://www.fox4news.com/weather-alerts)
 
 [River Flood Warning
 
