@@ -62,6 +62,7 @@ Browser usage
     * [Usage with Server-side Rendering Frameworks](https://dev.fingerprintjs.com/docs/usage-with-server-side-rendering-frameworks)
 * [Identifying users in hybrid app frameworks](https://dev.fingerprintjs.com/docs/identifying-users-in-hybrid-app-frameworks)
 * [Zero Trust Mode](https://dev.fingerprintjs.com/docs/zero-trust-mode)
+* [Identifying in-app browsers for iOS](https://dev.fingerprintjs.com/docs/identifying-in-app-browsers-for-ios)
 
 Mobile devices
 --------------
@@ -255,7 +256,7 @@ These Terms of Service, as amended from time to time (“**Terms**”), are ente
 
 \[1\] By way of example, a visitor who accesses the Customer Website via Google Chrome on a given device in a given calendar month counts as one (1) Unique Browser Instance. If the same visitor accesses the Customer Website via Firefox or a different device in the same calendar month, that counts as two (2) Unique Browser Instances (one (1) for the Google Chrome instance on the initial device and one (1) for the Firefox instance on the same device or the Google Chrome instance on a different device, respectively) in the applicable calendar month.
 
-Updated 2 days ago
+Updated 3 days ago
 
 * * *
 
