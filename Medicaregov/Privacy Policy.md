@@ -280,7 +280,6 @@ Take Action
 * [Find publications](https://www.medicare.gov/publications "Find publications")
 * [Talk to someone](https://www.medicare.gov/talk-to-someone "Talk to someone")
 * [Manage your email preferences](https://public.govdelivery.com/accounts/USCMSMYMEDICARE/subscriber/edit)
-* [Get information in other languages](https://www.medicare.gov/about-us/information-in-other-languages "Get information in other languages")
 
 CMS & HHS Websites
 ------------------
