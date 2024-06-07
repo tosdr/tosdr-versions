@@ -93,7 +93,7 @@
     
     ### CASE STUDY
     
-    [![](https://getshogun.com/wp-content/uploads/2023/06/lyres-featured-image.png)
+    [![](https://getshogun.com/wp-content/uploads/2023/06/lyres-featured-image.png.webp)
     
     ![](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%201062%20789%22%3E%3C/svg%3E)
     
@@ -540,5 +540,13 @@ Company
 \[go\_pricing id="pba-discounts"\]
 
 [Contact us for a Multi-store Discount](https://getshogun.com/contact/)
+
+[Data Protection Policy](https://getshogun.com/dpa/)
+
+We use cookies to store data for analytics, marketing and personalization to give you a better experience while visiting our website. By remaining on this website, you indicate your consent.
+
+We use cookies to store data for analytics, marketing and personalization to give you a better experience while visiting our website. By remaining on this website, you indicate your consent.
+
+[Data Protection Policy](https://getshogun.com/dpa/)
 
 Cookie Settings is not available. Cookie Consent is disabled or is just disabled for your country.
