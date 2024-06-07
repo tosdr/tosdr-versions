@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-648d07375b038c6b2a0116b13998285f
+1a54a945402af8d03e6246703121e1c7
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![14 mm by 12 mm flat oval green pearls](https://www.sojourner.biz/images/cache/pearls/PE0094.200.jpg)](https://www.sojourner.biz/beads/pearls/14-mm-by-12-mm-flat-oval-green-pearls.html "14 mm by 12 mm flat oval green pearls")
+[![Dramatic octopus pendant](https://www.sojourner.biz/images/cache/jewelry/C0017.200.jpg)](https://www.sojourner.biz/components/dramatic-octopus-pendant.html "Dramatic octopus pendant")
 
-#### [14 mm by 12 mm flat oval green pearls](https://www.sojourner.biz/beads/pearls/14-mm-by-12-mm-flat-oval-green-pearls.html "14 mm by 12 mm flat oval green pearls")
+#### [Dramatic octopus pendant](https://www.sojourner.biz/components/dramatic-octopus-pendant.html "Dramatic octopus pendant")
 
-$50.00
+$150.00
 
 ### Best Sellers
 
