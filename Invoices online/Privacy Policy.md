@@ -118,57 +118,61 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Fast, Accurate & Easy to Use
-> ----------------------------
+> Support even on Sundays!
+> ------------------------
 > 
-> Small Business Management System or SBMS, now rebranded as Invoices Online is an online invoicing system developed by the same guys that developed our site, we use it and honestly recommend it to all people who have dynamic sites, or want an online invoicing solution.  The invoicing application is fast, accurate, easy to use, and it really enhances the online experience of our clients.
+> Thanks Adriaan...
+> 
+> You guys even work on Sundays?
+> 
+> I’m impressed!!
 
-Jannie Schutte - myFinance-Online.co.za
+Johan Botha - Brand Xplosion
 
-![valued client #DiGi3 Marketing & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=3234&file=logo_300_100&type=&fe=6f9589591e2d99dde5c3b8f2683c4a80003689c7ecc7ebde26611982f80f38e2&c=205791515)  
-#DiGi3 Marketing & Design
+![valued client CLEVER STUDENTS](https://www.invoicesonline.co.za/scripts/image.php?bid=1995&file=logo_300_100&type=&fe=1fc24e237ab616ea3a119878a0181f64afa2d42725459fd4c772a3aefdf0278d&c=197681193)  
+CLEVER STUDENTS
 
-![valued client VIV'S TRUCKS (Pty) Ltd. (117)](https://www.invoicesonline.co.za/scripts/image.php?bid=6320&file=logo_300_100&type=&fe=6f9589591e2d99dde5c3b8f2683c4a80003689c7ecc7ebde26611982f80f38e2&c=24188041)  
-VIV'S TRUCKS (Pty) Ltd. (117)
+![valued client Wiselink Broadband Dundee](https://www.invoicesonline.co.za/scripts/image.php?bid=5399&file=logo_300_100&type=&fe=1fc24e237ab616ea3a119878a0181f64afa2d42725459fd4c772a3aefdf0278d&c=19753787)  
+Wiselink Broadband Dundee
 
-![valued client SA Security Brokerz (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5188&file=logo_300_100&type=&fe=6f9589591e2d99dde5c3b8f2683c4a80003689c7ecc7ebde26611982f80f38e2&c=189635626)  
-SA Security Brokerz (Pty) Ltd
+![valued client Nilbet T/A Waterman](https://www.invoicesonline.co.za/scripts/image.php?bid=4407&file=logo_300_100&type=&fe=1fc24e237ab616ea3a119878a0181f64afa2d42725459fd4c772a3aefdf0278d&c=11829364)  
+Nilbet T/A Waterman
 
-![valued client Laurinda Pretorius Spraak en Drama Ateljee](https://www.invoicesonline.co.za/scripts/image.php?bid=7561&file=logo_300_100&type=&fe=6f9589591e2d99dde5c3b8f2683c4a80003689c7ecc7ebde26611982f80f38e2&c=197501493)  
-Laurinda Pretorius Spraak en Drama Ateljee
+![valued client United Paintball Federation](https://www.invoicesonline.co.za/scripts/image.php?bid=7016&file=logo_300_100&type=&fe=1fc24e237ab616ea3a119878a0181f64afa2d42725459fd4c772a3aefdf0278d&c=107747645)  
+United Paintball Federation
 
-![valued client SR Travel Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7537&file=logo_300_100&type=&fe=6f9589591e2d99dde5c3b8f2683c4a80003689c7ecc7ebde26611982f80f38e2&c=106155321)  
-SR Travel Services
+![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=1fc24e237ab616ea3a119878a0181f64afa2d42725459fd4c772a3aefdf0278d&c=148247625)  
+Little Nutty Professors
 
-![valued client Dr V Naik Consult](https://www.invoicesonline.co.za/scripts/image.php?bid=4810&file=logo_300_100&type=&fe=6f9589591e2d99dde5c3b8f2683c4a80003689c7ecc7ebde26611982f80f38e2&c=89237448)  
-Dr V Naik Consult
+![valued client Cooper Power South Africa (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2012&file=logo_300_100&type=&fe=1fc24e237ab616ea3a119878a0181f64afa2d42725459fd4c772a3aefdf0278d&c=14444692)  
+Cooper Power South Africa (Pty) LTD
 
-![valued client Kinetic Power Solutions (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8094&file=logo_300_100&type=&fe=6f9589591e2d99dde5c3b8f2683c4a80003689c7ecc7ebde26611982f80f38e2&c=152964322)  
-Kinetic Power Solutions (Pty) Ltd.
+![valued client Website Café (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=4081&file=logo_300_100&type=&fe=1fc24e237ab616ea3a119878a0181f64afa2d42725459fd4c772a3aefdf0278d&c=19403142)  
+Website Café (PTY) LTD
 
-![valued client Imhoff Equestrian Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=7987&file=logo_300_100&type=&fe=6f9589591e2d99dde5c3b8f2683c4a80003689c7ecc7ebde26611982f80f38e2&c=70454424)  
-Imhoff Equestrian Centre
+![valued client TIGERDSL](https://www.invoicesonline.co.za/scripts/image.php?bid=2831&file=logo_300_100&type=&fe=1fc24e237ab616ea3a119878a0181f64afa2d42725459fd4c772a3aefdf0278d&c=177024630)  
+TIGERDSL
 
-![valued client Hydroworld T/A Milliqua](https://www.invoicesonline.co.za/scripts/image.php?bid=3671&file=logo_300_100&type=&fe=6f9589591e2d99dde5c3b8f2683c4a80003689c7ecc7ebde26611982f80f38e2&c=154673548)  
-Hydroworld T/A Milliqua
+![valued client Sophia's Roses](https://www.invoicesonline.co.za/scripts/image.php?bid=5227&file=logo_300_100&type=&fe=1fc24e237ab616ea3a119878a0181f64afa2d42725459fd4c772a3aefdf0278d&c=97636612)  
+Sophia's Roses
 
-![valued client LEO DEVELOPMENT GROUP](https://www.invoicesonline.co.za/scripts/image.php?bid=7896&file=logo_300_100&type=&fe=6f9589591e2d99dde5c3b8f2683c4a80003689c7ecc7ebde26611982f80f38e2&c=157371107)  
-LEO DEVELOPMENT GROUP
+![valued client Moulded Wax SA - The Candle Store](https://www.invoicesonline.co.za/scripts/image.php?bid=8218&file=logo_300_100&type=&fe=1fc24e237ab616ea3a119878a0181f64afa2d42725459fd4c772a3aefdf0278d&c=142612006)  
+Moulded Wax SA - The Candle Store
 
-![valued client Baby Toddles Infant Care](https://www.invoicesonline.co.za/scripts/image.php?bid=343&file=logo_300_100&type=&fe=6f9589591e2d99dde5c3b8f2683c4a80003689c7ecc7ebde26611982f80f38e2&c=38583405)  
-Baby Toddles Infant Care
+![valued client Tantra Sound and Lightz](https://www.invoicesonline.co.za/scripts/image.php?bid=1208&file=logo_300_100&type=&fe=1fc24e237ab616ea3a119878a0181f64afa2d42725459fd4c772a3aefdf0278d&c=16498444)  
+Tantra Sound and Lightz
 
-![valued client Oak Tree Immigration](https://www.invoicesonline.co.za/scripts/image.php?bid=6695&file=logo_300_100&type=&fe=6f9589591e2d99dde5c3b8f2683c4a80003689c7ecc7ebde26611982f80f38e2&c=10792932)  
-Oak Tree Immigration
+![valued client Depot Diesel (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6813&file=logo_300_100&type=&fe=1fc24e237ab616ea3a119878a0181f64afa2d42725459fd4c772a3aefdf0278d&c=78909776)  
+Depot Diesel (Pty) Ltd
 
-![valued client VIR Electrical (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7991&file=logo_300_100&type=&fe=6f9589591e2d99dde5c3b8f2683c4a80003689c7ecc7ebde26611982f80f38e2&c=92205877)  
-VIR Electrical (PTY) LTD
+![valued client Bloem Rugby Academy PTY (Ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=6451&file=logo_300_100&type=&fe=1fc24e237ab616ea3a119878a0181f64afa2d42725459fd4c772a3aefdf0278d&c=26947240)  
+Bloem Rugby Academy PTY (Ltd)
 
-![valued client Import Maaw](https://www.invoicesonline.co.za/scripts/image.php?bid=6159&file=logo_300_100&type=&fe=6f9589591e2d99dde5c3b8f2683c4a80003689c7ecc7ebde26611982f80f38e2&c=145213892)  
-Import Maaw
+![valued client ARCHITEK PTY LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=8208&file=logo_300_100&type=&fe=1fc24e237ab616ea3a119878a0181f64afa2d42725459fd4c772a3aefdf0278d&c=84980434)  
+ARCHITEK PTY LTD
 
-![valued client Westside Car Audio CC](https://www.invoicesonline.co.za/scripts/image.php?bid=7028&file=logo_300_100&type=&fe=6f9589591e2d99dde5c3b8f2683c4a80003689c7ecc7ebde26611982f80f38e2&c=61226942)  
-Westside Car Audio CC
+![valued client Beyond Laser CNC Cutting Technology South Africa CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4419&file=logo_300_100&type=&fe=1fc24e237ab616ea3a119878a0181f64afa2d42725459fd4c772a3aefdf0278d&c=55134212)  
+Beyond Laser CNC Cutting Technology South Africa CC
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
