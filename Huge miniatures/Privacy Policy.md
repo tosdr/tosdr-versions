@@ -10,7 +10,7 @@ SAME DAY SHIPPING MADE IN THE USA FREE US SHIPPING $79+
 
 Search
 
-[![](/wp-content/uploads/HM-header-logo.png)](https://hugeminis.com/)
+[![Logo](/wp-content/uploads/HM-header-logo.png)](https://hugeminis.com/)
 
 Search
 
@@ -143,19 +143,19 @@ free US shipping.
 
 **Free Shipping**Orders over $79 qualify for free US shipping.
 
-EST. 2017 ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20145%20130'%3E%3C/svg%3E)
+EST. 2017 ![Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20145%20130'%3E%3C/svg%3E)
 
-![](/wp-content/uploads/HM-footer-logo.png)
+![Logo](/wp-content/uploads/HM-footer-logo.png)
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20154%2034'%3E%3C/svg%3E)
+![SSL icon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20154%2034'%3E%3C/svg%3E)
 
-![](/wp-content/uploads/SSL.png)
+![SSL icon](/wp-content/uploads/SSL.png)
 
 NEWS Stay informed about promotions and new product releases.
 
-Made in USA Our art and modeling products are made by hand in the USA. ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20120%20102'%3E%3C/svg%3E)
+Made in USA Our art and modeling products are made by hand in the USA. ![Heart with USA flag decoration](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20120%20102'%3E%3C/svg%3E)
 
-![](/wp-content/uploads/USA.png)
+![Heart with USA flag decoration](/wp-content/uploads/USA.png)
 
 Programs
 
