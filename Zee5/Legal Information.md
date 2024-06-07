@@ -841,10 +841,136 @@ Vendors cannot:
 
 2\. Use such an identifier to re-identify a device.
 
-Copyright © 2024 Zee Entertainment Enterprises Ltd. All rights reserved.
+Download Apps[![Google Play](/webapp-assets/images/play_store.png)](https://play.google.com/store/apps/details?id=com.graymatrix.did)[![App Store](/webapp-assets/images/app_store.png)](https://apps.apple.com/in/app/zee5-shows-live-tv-movies/id743691886)
+
+Connect with us[](https://www.facebook.com/ZEE5/ "facebook")[](https://www.instagram.com/zee5/ "instagram")[](https://twitter.com/zee5india "twitter")[](https://www.youtube.com/channel/UCXOgAl4w-FQero1ERbGHpXQ "youtube")
 
 * [Channels](https://www.zee5.com/tv-shows/tv-channels)
 * [About Us](https://www.zee5.com/aboutus)
 * [Help Center](https://helpcenter.zee5.com/portal/en/home)
 * [Privacy Policy](https://www.zee5.com/privacypolicy)
 * [Terms of Use](https://www.zee5.com/termsofuse)
+
+[Popular TV Shows](https://www.zee5.com/tv-shows)
+
+[Mahabharat](https://www.zee5.com/tv-shows/details/mahabharat/0-6-3331 "Mahabharat")
+
+[Kahan ho Tum](https://www.zee5.com/tv-shows/details/kahan-ho-tum/0-6-3395 "Kahan ho Tum")
+
+[Jhansi ki Rani](https://www.zee5.com/tv-shows/details/jhansi-ki-rani/0-6-124 "Jhansi ki Rani")
+
+[Kumkum Bhagya](https://www.zee5.com/tv-shows/details/kumkum-bhagya/0-6-127 "Kumkum Bhagya")
+
+[Kundali Bhagya](https://www.zee5.com/tv-shows/details/kundali-bhagya/0-6-366 "Kundali Bhagya")
+
+[Bhagya Lakshmi](https://www.zee5.com/tv-shows/details/bhagya-lakshmi/0-6-3392 "Bhagya Lakshmi")
+
+[Meet](https://www.zee5.com/tv-shows/details/meet/0-6-3510 "Meet")
+
+[Annapoorna](https://www.zee5.com/tv-shows/details/annapoorna/0-6-4z5250953 "Annapoorna")
+
+[Indira](https://www.zee5.com/tv-shows/details/indira/0-6-4z5250031 "Indira")
+
+[Korean Drama](https://www.zee5.com/collections/free-korean-tv-shows/0-8-1017 "Korean Drama")
+
+[Pakistani Serials](https://www.zee5.com/collections/pakistani-shows/0-8-3z5367858 "Pakistani Serials")
+
+[Premium Movies](https://www.zee5.com/movies)
+
+[Bastar](https://www.zee5.com/movies/details/bastar-the-naxal-story/0-0-1z5559828 "Bastar")
+
+[Main Atal Hoon](https://www.zee5.com/movies/details/main-atal-hoon/0-0-1z5528544 "Main Atal Hoon")
+
+[The Kerala Story](https://www.zee5.com/movies/details/the-kerala-story/0-0-1z5512788 "The Kerala Story")
+
+[Silence 2](https://www.zee5.com/movies/details/silence-2-the-night-owl-bar-shootout/0-0-1z5535878 "Silence 2")
+
+[Sam Bahadur](https://www.zee5.com/movies/details/sam-bahadur/0-0-1z5500337 "Sam Bahadur")
+
+[Tejas](https://www.zee5.com/movies/details/tejas/0-0-1z5489618 "Tejas")
+
+[Kadak Singh](https://www.zee5.com/movies/details/kadak-singh/0-0-1z5469034 "Kadak Singh")
+
+[Gadar 2](https://www.zee5.com/movies/details/gadar-2/0-0-1z5437988 "Gadar 2")
+
+[Hanu-Man](https://www.zee5.com/movies/details/hanu-man/0-0-1z5531939 "Hanu-Man")
+
+[Kisi Ka Bhai Kisi Ki Jaan](https://www.zee5.com/movies/details/kisi-ka-bhai-kisi-ki-jaan/0-0-1z5379692 "Kisi Ka Bhai Kisi Ki Jaan")
+
+[Bandaa](https://www.zee5.com/movies/details/sirf-ek-bandaa-kaafi-hai/0-0-1z5359029 "Bandaa")
+
+[RRR](https://www.zee5.com/movies/details/rrr/0-0-1z5145092 "RRR")
+
+[Uri: The Surgical Strike](https://www.zee5.com/movies/details/uri-the-surgical-strike/0-0-33204 "Uri: The Surgical Strike")
+
+[The Kashmir Files](https://www.zee5.com/movies/details/the-kashmir-files/0-0-1z5133458 "The Kashmir Files")
+
+[Popular LIVE TV Channels](https://www.zee5.com/live-tv)
+
+[Zee TV HD](https://www.zee5.com/live-tv/zee-tv-hd/0-9-zeetvhd "Zee TV HD")
+
+[&TV HD](https://www.zee5.com/live-tv/andtv-hd/0-9-tvhd_0 "&TV HD")
+
+[Zee Marathi HD](https://www.zee5.com/live-tv/zee-marathi-hd/0-9-zeemarathi "Zee Marathi HD")
+
+[Popular Web Series](https://www.zee5.com/web-series)
+
+[The Broken News](https://www.zee5.com/web-series/details/the-broken-news/0-6-4z5145215 "The Broken News")
+
+[Love Bites](https://www.zee5.com/web-series/details/love-bites/0-6-2135 "Love Bites")
+
+[Black Widows](https://www.zee5.com/web-series/details/black-widows/0-6-3029 "Black Widows")
+
+[Duranga 2](https://www.zee5.com/web-series/details/duranga/0-6-4z5193948 "Duranga 2")
+
+[Shikarpur](https://www.zee5.com/web-series/details/shikarpur/0-6-4z5273911 "Shikarpur")
+
+[Taj](https://www.zee5.com/web-series/details/taj/0-6-4z5311140 "Taj")
+
+[Sunflower](https://www.zee5.com/web-series/details/sunflower/0-6-3284 "Sunflower")
+
+[Tripling](https://www.zee5.com/web-series/details/tripling/0-6-3350 "Tripling")
+
+[Pitchers](https://www.zee5.com/web-series/details/pitchers/0-6-3348 "Pitchers")
+
+[Naxalbari](https://www.zee5.com/web-series/details/naxalbari/0-6-2923 "Naxalbari")
+
+[Anantham](https://www.zee5.com/web-series/details/anantham/0-6-4z5123144 "Anantham")
+
+[Gaalivana](https://www.zee5.com/web-series/details/gaalivaana/0-6-4z5114116 "Gaalivana")
+
+[Bollywood Top Celebrities](https://www.zee5.com/zee5news/celebs)
+
+[Sunny Leone](https://www.zee5.com/celebs/sunny-leone "Sunny Leone")
+
+[Disha Patani](https://www.zee5.com/celebs/disha-patani "Disha Patani")
+
+[Deepika Padukone](https://www.zee5.com/celebs/deepika-padukone "Deepika Padukone")
+
+[Salman Khan](https://www.zee5.com/celebs/salman-khan "Salman Khan")
+
+[Manoj Bajpayee](https://www.zee5.com/celebs/manoj-bajpayee "Manoj Bajpayee")
+
+[Pankaj Tripathi](https://www.zee5.com/celebs/pankaj-tripathi "Pankaj Tripathi")
+
+[Vicky Kaushal](https://www.zee5.com/celebs/vicky-kaushal "Vicky Kaushal")
+
+[Sunny Deol](https://www.zee5.com/celebs/sunny-deol "Sunny Deol")
+
+[Ameesha Patel](https://www.zee5.com/celebs/ameesha-patel "Ameesha Patel")
+
+[Abhishek Bachchan](https://www.zee5.com/celebs/abhishek-bachchan "Abhishek Bachchan")
+
+[Amitabh Bachchan](https://www.zee5.com/celebs/amitabh-bachchan "Amitabh Bachchan")
+
+[Kangana Ranaut](https://www.zee5.com/celebs/kangana-ranaut "Kangana Ranaut")
+
+Games
+
+[Play](https://www.zee5.com/play5-games/ "Play")
+
+[Stories](https://www.zee5.com/stories/ "Stories")
+
+Best viewed on Google Chrome 80+ , Safari 5.1.5+
+
+Copyright © 2024 Zee Entertainment Enterprises Ltd. All rights reserved.
