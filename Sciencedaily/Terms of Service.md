@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**June 6, 2024**
+**June 7, 2024**
 
 * * *
 
@@ -229,16 +229,16 @@ this hour
 
 * * *
 
+* [Younger Classmates Diagnosed With ADHD](https://www.sciencedaily.com/releases/2024/06/240606152231.htm)
+* [Upending Theory of Milky Way Formation](https://www.sciencedaily.com/releases/2024/06/240606152204.htm)
+* [Black Holes a Byproduct of Dark Matter?](https://www.sciencedaily.com/releases/2024/06/240606152154.htm)
+* [Marine Cyanobacteria Can Communicate](https://www.sciencedaily.com/releases/2024/06/240606152330.htm)
+* ['Tweezer-Like' Bionic Tools Feel Right](https://www.sciencedaily.com/releases/2024/06/240606152145.htm)
+* [Odd Planet-Forming Disks Around Low-Mass Stars](https://www.sciencedaily.com/releases/2024/06/240606152101.htm)
 * [Toward Blood Stem Cell Self-Renewal](https://www.sciencedaily.com/releases/2024/06/240605162720.htm)
 * [Restored Hearing and Speech in Kids Born Deaf](https://www.sciencedaily.com/releases/2024/06/240605162544.htm)
 * [Babies and AI Both Learn Key Foundation Models](https://www.sciencedaily.com/releases/2024/06/240605162522.htm)
 * [Myelination May Drive Drug Addiction](https://www.sciencedaily.com/releases/2024/06/240605162418.htm)
-* [Freshwater On Earth 4 Billion Years Ago](https://www.sciencedaily.com/releases/2024/06/240603114239.htm)
-* [Extended Battle: 3,500-Year-Old Mycenaean Armor](https://www.sciencedaily.com/releases/2024/05/240522225154.htm)
-* [Oral Insulin Drops: Relief for Diabetes Patients](https://www.sciencedaily.com/releases/2024/06/240605162742.htm)
-* [AIs Are Irrational, but Not Like Humans](https://www.sciencedaily.com/releases/2024/06/240605162628.htm)
-* [Bronze Age Cuisine of Mongolian Nomads](https://www.sciencedaily.com/releases/2024/06/240605162547.htm)
-* [Poor Quality Diet Makes Our Brains Sad](https://www.sciencedaily.com/releases/2024/06/240605162519.htm)
 
 Trending Topics
 ---------------
@@ -249,27 +249,27 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Child Development](https://www.sciencedaily.com/news/mind_brain/child_development/)
-
-[Relationships](https://www.sciencedaily.com/news/mind_brain/relationships/)
-
 [Breast Cancer](https://www.sciencedaily.com/news/health_medicine/breast_cancer/)
+
+[Heart Disease](https://www.sciencedaily.com/news/health_medicine/heart_disease/)
+
+[Patient Education and Counseling](https://www.sciencedaily.com/news/health_medicine/patient_education_and_counseling/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
 [Computer Modeling](https://www.sciencedaily.com/news/computers_math/computer_modeling/)
 
-[Inorganic Chemistry](https://www.sciencedaily.com/news/matter_energy/inorganic_chemistry/)
+[Technology](https://www.sciencedaily.com/news/matter_energy/technology/)
 
 [Mathematical Modeling](https://www.sciencedaily.com/news/computers_math/mathematical_modeling/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Climate](https://www.sciencedaily.com/news/earth_climate/climate/)
-
 [Marine Biology](https://www.sciencedaily.com/news/plants_animals/marine_biology/)
 
-[Fish](https://www.sciencedaily.com/news/plants_animals/fish/)
+[Environmental Awareness](https://www.sciencedaily.com/news/earth_climate/environmental_awareness/)
+
+[Sea Life](https://www.sciencedaily.com/news/plants_animals/sea_life/)
 
   
 
