@@ -107,6 +107,7 @@
     * [Registration](https://www.lwsd.org/students-families/registration)
     * [School Supply Lists](https://www.lwsd.org/students-families/school-supply-lists)
     * [Summer Programs](https://www.lwsd.org/programs-and-services/summer-school)
+    * [Student Summer Digital Resources](https://www.lwsd.org/students-families/student-summer-digital-resources)
     * [Transfer Options](https://www.lwsd.org/students-families/transfer-options)
     * [Welcome Event for New & International Families](https://www.lwsd.org/students-families/welcome-event)
     
@@ -175,6 +176,12 @@ News
 
 May 21 2024
 
+[](https://www.lwsd.org/programs-and-services/communications/news/school-news-for-direct-link/~board/high-schools/post/fun-for-all-lwsd-hosts-inclusive-soccer-matches-through-unified-soccer-program)
+
+[Fun for all – LWSD hosts inclusive soccer matches through Unified Soccer program](https://www.lwsd.org/programs-and-services/communications/news/school-news-for-direct-link/~board/high-schools/post/fun-for-all-lwsd-hosts-inclusive-soccer-matches-through-unified-soccer-program)
+
+Jun 6 2024
+
 [](https://www.lwsd.org/programs-and-services/communications/news/news-details/~board/2023-24-announcements/post/lwsd-student-receives-national-merit-college-sponsored-scholarships)
 
 [LWSD student receives National Merit College-Sponsored Scholarships](https://www.lwsd.org/programs-and-services/communications/news/news-details/~board/2023-24-announcements/post/lwsd-student-receives-national-merit-college-sponsored-scholarships)
@@ -192,12 +199,6 @@ Jun 4 2024
 [School Levy Voter Pamphlet Statement Committees:](https://www.lwsd.org/programs-and-services/communications/news/news-details/~board/2023-24-announcements/post/school-levy-voter-pamphlet-statement-committees)
 
 Jun 4 2024
-
-[](https://www.lwsd.org/programs-and-services/communications/news/school-news-for-direct-link/~board/high-schools/post/redmond-high-school-student-wins-state-doodle-for-google-contest)
-
-[Redmond High School student wins state Doodle for Google contest](https://www.lwsd.org/programs-and-services/communications/news/school-news-for-direct-link/~board/high-schools/post/redmond-high-school-student-wins-state-doodle-for-google-contest)
-
-Jun 1 2024
 
 Events
 ------
@@ -340,6 +341,7 @@ Recent News
     * [Registration](https://www.lwsd.org/students-families/registration)
     * [School Supply Lists](https://www.lwsd.org/students-families/school-supply-lists)
     * [Summer Programs](https://www.lwsd.org/programs-and-services/summer-school)
+    * [Student Summer Digital Resources](https://www.lwsd.org/students-families/student-summer-digital-resources)
     * [Transfer Options](https://www.lwsd.org/students-families/transfer-options)
     * [Welcome Event for New & International Families](https://www.lwsd.org/students-families/welcome-event)
     
