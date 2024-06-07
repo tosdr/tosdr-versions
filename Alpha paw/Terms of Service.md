@@ -399,7 +399,7 @@ Apply
     
     3 sizes
     
-    3308 total reviews](https://www.alphapaw.com/collections/bestsellers/products/magic-pee-pads-xl)
+    3309 total reviews](https://www.alphapaw.com/collections/bestsellers/products/magic-pee-pads-xl)
     
     Regular price
     
@@ -423,7 +423,7 @@ Apply
     
     3 sizes
     
-    3308 total reviews
+    3309 total reviews
     
 * On sale
     
@@ -453,7 +453,7 @@ Apply
     
     3 sizes
     
-    3308 total reviews](https://www.alphapaw.com/collections/bestsellers/products/magic-dog-pee-pads)
+    3309 total reviews](https://www.alphapaw.com/collections/bestsellers/products/magic-dog-pee-pads)
     
     Regular price
     
@@ -477,7 +477,7 @@ Apply
     
     3 sizes
     
-    3308 total reviews
+    3309 total reviews
     
 * On sale
     
