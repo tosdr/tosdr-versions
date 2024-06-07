@@ -166,11 +166,11 @@ Resources
 
 [Log in](https://app.tactiq.io/#/signin)[Get started](https://tactiq.io/chrome)
 
-[Privacy Center](https://tactiq.io/privacy/privacy-center)
-
 [Privacy Policy](https://tactiq.io/privacy/privacy)
 
 [Terms of Use](https://tactiq.io/privacy/terms)
+
+[Privacy Center](https://tactiq.io/privacy/privacy-center)
 
 Privacy Policy
 ==============
