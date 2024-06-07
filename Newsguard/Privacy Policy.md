@@ -22,9 +22,7 @@
     * [Broadband and Mobile Providers](https://www.newsguardtech.com/industries/broadband-and-mobile-providers)
     * [Healthcare](https://www.newsguardtech.com/industries/healthcare)
 * Reports
-    * [All Reports](https://www.newsguardtech.com/reports/)
-    * [NewsGuard Special Reports](https://www.newsguardtech.com/special-reports/)
-    * [Misinformation Monitor](https://www.newsguardtech.com/misinformation-monitor/)
+    * [NewsGuard Special Reports](https://www.newsguardtech.com/reports/)
     * [Reality Check](https://newsguardtech.substack.com/)
     * [Insights](https://www.newsguardtech.com/insights/)
     * [US Elections Misinformation Tracker](https://www.newsguardtech.com/special-reports/2024-elections-misinformation-tracker)
@@ -84,9 +82,7 @@
     * [Broadband and Mobile Providers](https://www.newsguardtech.com/industries/broadband-and-mobile-providers)
     * [Healthcare](https://www.newsguardtech.com/industries/healthcare)
 * Reports
-    * [All Reports](https://www.newsguardtech.com/reports/)
-    * [NewsGuard Special Reports](https://www.newsguardtech.com/special-reports/)
-    * [Misinformation Monitor](https://www.newsguardtech.com/misinformation-monitor/)
+    * [NewsGuard Special Reports](https://www.newsguardtech.com/reports/)
     * [Reality Check](https://newsguardtech.substack.com/)
     * [Insights](https://www.newsguardtech.com/insights/)
     * [US Elections Misinformation Tracker](https://www.newsguardtech.com/special-reports/2024-elections-misinformation-tracker)
