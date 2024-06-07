@@ -2,7 +2,7 @@
 
 Unfortunately we don't fully support your browser. If you have the option to, please upgrade to a newer version or use [Mozilla Firefox](https://www.mozilla.org/en-GB/firefox), [Microsoft Edge](https://www.microsoft.com/en-us/edge), [Google Chrome](https://www.google.co.uk/chrome), or Safari 14 or newer. If you are unable to, and need support, please [send us your feedback](https://www.elsevier.com/support).
 
-We'd appreciate your feedback.[Tell us what you think!opens in new tab/window](https://survey.alchemer.eu/s3/90475606/NextGen-Health?page=/legal/privacy-policy?_hsenc=p2ANqtz-8CGOF4ZylYYLrkX2IrIDtRefJ63WT6zDrJAPgt-Es8XMraln6UFjZnvymi_HOmcFZYZiyr)
+We'd appreciate your feedback.[Tell us what you think!opens in new tab/window](https://survey.alchemer.eu/s3/90475606/NextGen-Health?page=/legal/privacy-policy)
 
 [![Elsevier](/images/elsevier-logo.svg)](https://www.interfolio.com/)
 
@@ -27,8 +27,10 @@ Location Selector
 
 Show Menu
 
-[Privacy policy](https://www.interfolio.com/legal/privacy-policy)
------------------------------------------------------------------
+Privacy policy
+
+
+------------------
 
 Show Menu
 
