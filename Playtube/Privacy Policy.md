@@ -227,7 +227,7 @@ Toggle light
 
 Comments
 
-116 Views
+118 Views
 
 Report
 
@@ -287,229 +287,235 @@ You may also like
 
 HD
 
- [![Blood Ransom](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/blood-ransom/)6
+ [![Honto ni Atta! Noroi no Video 51](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/honto-ni-atta-noroi-no-video-51/)0
 
-### [Blood Ransom](https://playtube.pk/blood-ransom/)
+### [Honto ni Atta! Noroi no Video 51](https://playtube.pk/honto-ni-atta-noroi-no-video-51/)
 
-2014 101 min _Movie_
+2013 65 min _Movie_
 
-Blood Ransom
+Honto ni Atta! Noroi no Video 51
 
-6 2014 101 min HD
+0 2013 65 min HD
 
-Crystal, the girlfriend of Roman, Jeremiah's American boss whom he kidnaps. As Jeremiah's plans fail, Roman sends Bill, a psychopathic hitman after them. Crystal and Jeremiah tread the ...
+A collection of shivering psychic images received by general posts, "It really was! A video of the curse." It is also full of new posts that are being received one after another from ...
 
-Genre: [Fantasy](https://playtube.pk/category/fantasy/), [Horror](https://playtube.pk/category/horror/)
-
-[](#)[Watch Now](https://playtube.pk/blood-ransom/)
-
-HD
-
- [![Sex in the Office](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/sex-in-the-office/)4.9
-
-### [Sex in the Office](https://playtube.pk/sex-in-the-office/)
-
-1971 86 min _Movie_
-
-Sex in the Office
-
-4.9 1971 86 min HD
-
-A department manager has to defend himself in court against charges of harassment in the workplace. Looking back, he describes his tough day at work to the judge.
-
-Country: [Germany](https://playtube.pk/country/germany/)
-
-Genre: [Drama](https://playtube.pk/category/drama/)
-
-[](#)[Watch Now](https://playtube.pk/sex-in-the-office/)
-
-HD
-
- [![The Little Girl Who Was Forgotten By Absolutely Everyone (Even the Postman)](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/the-little-girl-who-was-forgotten-by-absolutely-everyone-even-the-postman/)0
-
-### [The Little Girl Who Was Forgotten By Absolutely Everyone (Even the Postman)](https://playtube.pk/the-little-girl-who-was-forgotten-by-absolutely-everyone-even-the-postman/)
-
-2005 8 min _Movie_
-
-The Little Girl Who Was Forgotten By Absolutely Everyone (Even the Postman)
-
-0 2005 8 min HD
-
-Genre: [Animation](https://playtube.pk/category/animation/), [Horror](https://playtube.pk/category/horror/)
-
-[](#)[Watch Now](https://playtube.pk/the-little-girl-who-was-forgotten-by-absolutely-everyone-even-the-postman/)
-
-HD
-
- [![Mutant Aliens](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/mutant-aliens/)6.3
-
-### [Mutant Aliens](https://playtube.pk/mutant-aliens/)
-
-2001 81 min _Movie_
-
-Mutant Aliens
-
-6.3 2001 81 min HD
-
-Mutant Aliens is a wildly humorous yet poignant story about an astronaut, his daughter, and 5 violent, yet sympathetic, alien creatures who seek revenge against a space industry baron.
-
-Country: [USA](https://playtube.pk/country/usa/)
-
-Genre: [Animation](https://playtube.pk/category/animation/), [Comedy](https://playtube.pk/category/comedy/)
-
-[](#)[Watch Now](https://playtube.pk/mutant-aliens/)
-
-HD
-
- [![PEOPLE FADE AS COLORS DO](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/people-fade-as-colors-do/)0
-
-### [PEOPLE FADE AS COLORS DO](https://playtube.pk/people-fade-as-colors-do/)
-
-2023 9 min _Movie_
-
-PEOPLE FADE AS COLORS DO
-
-0 2023 9 min HD
-
-People and canvases are different in composition—yet very similar. And, just as canvases have artists to fill in the blank canvas in full color, so do people. Unfortunately, with the ...
-
-Country: [Philippines](https://playtube.pk/country/philippines/)
-
-Genre: [Drama](https://playtube.pk/category/drama/)
-
-[](#)[Watch Now](https://playtube.pk/people-fade-as-colors-do/)
-
-HD
-
- [![Baja Come Down](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/baja-come-down/)5
-
-### [Baja Come Down](https://playtube.pk/baja-come-down/)
-
-2021 79 min _Movie_
-
-Baja Come Down
-
-5 2021 79 min HD
-
-Charlie and Hannah can't say it out loud, but they both know their relationship is coming to an end. As a last ditch effort, the two head south with Hannah's cat, along the dusty coast ...
-
-Country: [Mexico](https://playtube.pk/country/mexico/)
-
-Genre: [Adventure](https://playtube.pk/category/adventure/), [Drama](https://playtube.pk/category/drama/)
-
-[](#)[Watch Now](https://playtube.pk/baja-come-down/)
-
-HD
-
- [![Tiku Weds Sheru](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/tiku-weds-sheru/)0
-
-### [Tiku Weds Sheru](https://playtube.pk/tiku-weds-sheru/)
-
-2023 0 min _Movie_
-
-Tiku Weds Sheru
-
-0 2023 0 min HD
-
-Country: [India](https://playtube.pk/country/india/)
-
-Genre: [Comedy](https://playtube.pk/category/comedy/), [Drama](https://playtube.pk/category/drama/)
-
-[](#)[Watch Now](https://playtube.pk/tiku-weds-sheru/)
-
-HD
-
- [![Bruno Díaz](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/bruno-diaz/)0
-
-### [Bruno Díaz](https://playtube.pk/bruno-diaz/)
-
-2019 6 min _Movie_
-
-Bruno Díaz
-
-0 2019 6 min HD
-
-Bruno Díaz, a Buenos Aires security guard, follows a trail of blood that leads him to meet horrible creatures. Now, he must become the hero he always wanted to be in order to leave that ...
-
-Country: [Argentina](https://playtube.pk/country/argentina/)
+Country: [Japan](https://playtube.pk/country/japan/)
 
 Genre: [Horror](https://playtube.pk/category/horror/)
 
-[](#)[Watch Now](https://playtube.pk/bruno-diaz/)
+[](#)[Watch Now](https://playtube.pk/honto-ni-atta-noroi-no-video-51/)
 
 HD
 
- [![She Came to Me](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/she-came-to-me/)6
+ [![Fury of the Fist and the Golden Fleece](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/fury-of-the-fist-and-the-golden-fleece/)4.8
 
-### [She Came to Me](https://playtube.pk/she-came-to-me/)
+### [Fury of the Fist and the Golden Fleece](https://playtube.pk/fury-of-the-fist-and-the-golden-fleece/)
 
-2023 102 min _Movie_
+2018 107 min _Movie_
 
-She Came to Me
+Fury of the Fist and the Golden Fleece
 
-6 2023 102 min HD
+4.8 2018 107 min HD
 
-Composer Steven Lauddem is creatively blocked and unable to finish the score for his big comeback opera. At the behest of his wife Patricia, formerly his therapist, he sets out in ...
+When the Fist found a mystical gold fleece jacket, he became the biggest porn star of the 1970s. But in the ‘80s, he’s on the cusp of eviction from a run-down studio apartment, having ...
+
+Genre: [Action](https://playtube.pk/category/action/)
+
+[](#)[Watch Now](https://playtube.pk/fury-of-the-fist-and-the-golden-fleece/)
+
+HD
+
+ [![Rayar Parambarai](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/rayar-parambarai/)0
+
+### [Rayar Parambarai](https://playtube.pk/rayar-parambarai/)
+
+2023 125 min _Movie_
+
+Rayar Parambarai
+
+0 2023 125 min HD
+
+Country: [India](https://playtube.pk/country/india/)
+
+Genre: [Comedy](https://playtube.pk/category/comedy/), [Romance](https://playtube.pk/category/romance/)
+
+[](#)[Watch Now](https://playtube.pk/rayar-parambarai/)
+
+HD
+
+ [![The Blue Highway](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/the-blue-highway/)0
+
+### [The Blue Highway](https://playtube.pk/the-blue-highway/)
+
+2020 0 min _Movie_
+
+The Blue Highway
+
+0 2020 0 min HD
+
+Foxy, a transexual singer has secrets. Don’t we all? Perhaps not like her. She was the creator behind ‘The Black Halos’, the most notorious motorcycle gang in America and faked her own ...
+
+Country: [Spain](https://playtube.pk/country/spain/)
+
+Genre: [Action](https://playtube.pk/category/action/)
+
+[](#)[Watch Now](https://playtube.pk/the-blue-highway/)
+
+HD
+
+ [![Po čem muži touží 2](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/po-cem-muzi-touzi-2/)6.5
+
+### [Po čem muži touží 2](https://playtube.pk/po-cem-muzi-touzi-2/)
+
+2022 0 min _Movie_
+
+Po čem muži touží 2
+
+6.5 2022 0 min HD
+
+Country: [Czech Republic](https://playtube.pk/country/czech-republic/)
+
+Genre: [Comedy](https://playtube.pk/category/comedy/)
+
+[](#)[Watch Now](https://playtube.pk/po-cem-muzi-touzi-2/)
+
+HD
+
+ [![Biju Babu](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/biju-babu/)0
+
+### [Biju Babu](https://playtube.pk/biju-babu/)
+
+2019 162 min _Movie_
+
+Biju Babu
+
+0 2019 162 min HD
+
+Babu, who becomes Bijubabu in later phase is a professional thief. Once he happens to enter into Anand Bhavan, ancestral house of late Bijubabu, The popular leader of Odisha. Babu ...
+
+Country: [India](https://playtube.pk/country/india/)
+
+Genre: [Action](https://playtube.pk/category/action/), [Drama](https://playtube.pk/category/drama/)
+
+[](#)[Watch Now](https://playtube.pk/biju-babu/)
+
+HD
+
+ [![Cindy La Regia](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/cindy-la-regia/)7.9
+
+### [Cindy La Regia](https://playtube.pk/cindy-la-regia/)
+
+2020 109 min _Movie_
+
+Cindy La Regia
+
+7.9 2020 109 min HD
+
+When Cindy decides that she doesn't want to marry her boyfriend, she runs to Mexico City, where new friendships and unexpected paths teach her that there are so much more possibilities ...
+
+Country: [Mexico](https://playtube.pk/country/mexico/)
+
+Genre: [Comedy](https://playtube.pk/category/comedy/), [Romance](https://playtube.pk/category/romance/)
+
+[](#)[Watch Now](https://playtube.pk/cindy-la-regia/)
+
+HD
+
+ [![My Daughter’s Lover 3](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/my-daughters-lover-3/)4.7
+
+### [My Daughter’s Lover 3](https://playtube.pk/my-daughters-lover-3/)
+
+2019 70 min _Movie_
+
+My Daughter’s Lover 3
+
+4.7 2019 70 min HD
+
+Mi-seon loves her family, but she loves having sex with younger men. One day, she hears her sex partner, Jeong-woo, has a brother and she feels more attracted to the younger man. ...
+
+Country: [South Korea](https://playtube.pk/country/south-korea/)
+
+Genre: [Romance](https://playtube.pk/category/romance/)
+
+[](#)[Watch Now](https://playtube.pk/my-daughters-lover-3/)
+
+HD
+
+ [![倾城宠妃](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/%e5%80%be%e5%9f%8e%e5%ae%a0%e5%a6%83/)0
+
+### [倾城宠妃](https://playtube.pk/%e5%80%be%e5%9f%8e%e5%ae%a0%e5%a6%83/)
+
+2018 0 min _Movie_
+
+倾城宠妃
+
+0 2018 0 min HD
+
+Country: [China](https://playtube.pk/country/china/)
+
+Genre: [Fantasy](https://playtube.pk/category/fantasy/), [Romance](https://playtube.pk/category/romance/)
+
+[](#)[Watch Now](https://playtube.pk/%e5%80%be%e5%9f%8e%e5%ae%a0%e5%a6%83/)
+
+HD
+
+ [![False Identity](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/false-identity/)4.7
+
+### [False Identity](https://playtube.pk/false-identity/)
+
+1990 93 min _Movie_
+
+False Identity
+
+4.7 1990 93 min HD
+
+When Rachel, a radio personality, discovers a Purple Heart at a garage sale she decides to find out its history. She finds that the medal belonged to a man named Harlan Erickson, a ...
 
 Country: [USA](https://playtube.pk/country/usa/)
 
-Genre: [Comedy](https://playtube.pk/category/comedy/), [Drama](https://playtube.pk/category/drama/)
+Genre: [Crime](https://playtube.pk/category/crime/), [Mystery](https://playtube.pk/category/mystery/)
 
-[](#)[Watch Now](https://playtube.pk/she-came-to-me/)
-
-HD
-
- [![Clare](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/clare/)0
-
-### [Clare](https://playtube.pk/clare/)
-
-2022 11 min _Movie_
-
-Clare
-
-0 2022 11 min HD
-
-At a high school talent show, 17-year-old Clare tries to confront her teacher over a private matter, leading to unexpected consequences.
-
-Genre: [Comedy](https://playtube.pk/category/comedy/), [Drama](https://playtube.pk/category/drama/)
-
-[](#)[Watch Now](https://playtube.pk/clare/)
+[](#)[Watch Now](https://playtube.pk/false-identity/)
 
 HD
 
- [![Dickie](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/dickie/)0
+ [![Sol Bianca](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/sol-bianca/)5
 
-### [Dickie](https://playtube.pk/dickie/)
+### [Sol Bianca](https://playtube.pk/sol-bianca/)
 
-2017 10 min _Movie_
+1990 55 min _Movie_
 
-Dickie
+Sol Bianca
 
-0 2017 10 min HD
+5 1990 55 min HD
 
-A young man finds himself trapped after a traumatic experience.
+Five female pirates pilot the Sol Bianca, a starship with a higher level of technology than any other known. With it, they seek out riches, such as the Gnosis, an legendary item of ...
 
-Genre: [Comedy](https://playtube.pk/category/comedy/), [Horror](https://playtube.pk/category/horror/)
+Country: [Japan](https://playtube.pk/country/japan/)
 
-[](#)[Watch Now](https://playtube.pk/dickie/)
+Genre: [Adventure](https://playtube.pk/category/adventure/), [Animation](https://playtube.pk/category/animation/)
+
+[](#)[Watch Now](https://playtube.pk/sol-bianca/)
 
 HD
 
- [![The Lady with the Arrows](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/the-lady-with-the-arrows/)0
+ [![The Floating Landscape](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/the-floating-landscape/)5
 
-### [The Lady with the Arrows](https://playtube.pk/the-lady-with-the-arrows/)
+### [The Floating Landscape](https://playtube.pk/the-floating-landscape/)
 
-2024 89 min _Movie_
+2003 100 min _Movie_
 
-The Lady with the Arrows
+The Floating Landscape
 
-0 2024 89 min HD
+5 2003 100 min HD
 
-In her multi-layered documentary, Grimme Award winner and director Heidi Specogna unfolds a sensitive portrait of the life and work of renowned photographer Claudia Andujar. From her ...
+Maan has recently lost her lover, Sam, a painter who died tragically of an incurable disease. Before his death, he was remembering a beautiful landscape from the days when he was still ...
 
-Genre: [Documentary](https://playtube.pk/category/documentary/)
+Country: [Hong Kong](https://playtube.pk/country/hong-kong/)
 
-[](#)[Watch Now](https://playtube.pk/the-lady-with-the-arrows/)
+Genre: [Drama](https://playtube.pk/category/drama/), [Romance](https://playtube.pk/category/romance/)
+
+[](#)[Watch Now](https://playtube.pk/the-floating-landscape/)
 
 Report Content
 
