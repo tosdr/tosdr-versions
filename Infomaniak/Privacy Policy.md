@@ -326,7 +326,7 @@ We are committed to ensuring the safety of our infrastructure, including a secur
 Frequently asked questions about the GDPR and Infomaniak
 --------------------------------------------------------
 
-#### [Am I in compliance with the GDPR when using Infomaniak services?](#collapse6661d4ad67c83)
+#### [Am I in compliance with the GDPR when using Infomaniak services?](#collapse6662cbe34738c)
 
 Yes. Nevertheless, we remind you that it is your responsibility to make the content (CMS, plugins, forms, etc.) that you host through our services compatible with the GDPR.  
   
@@ -334,7 +334,7 @@ It is important to distinguish between the security of the infrastructures on wh
   
 If needed, you can easily find a professional or Internet guides to help you in this compliance process.
 
-#### [What is Infomaniak's responsibility concerning the GDPR?](#collapse6661d4ad67ccc)
+#### [What is Infomaniak's responsibility concerning the GDPR?](#collapse6662cbe3473dd)
 
 Like companies that work with European citizens, Infomaniak must comply with the General Data Protection Regulation:  
   
@@ -342,7 +342,7 @@ Like companies that work with European citizens, Infomaniak must comply with the
 * [Our data confidentiality policy](https://www.infomaniak.com/en/legal/confidentiality-policy) details the data which we keep in order to provide and run our services.
 * [Our policy regarding personal data protection](https://manager.infomaniak.com/pdfcgu.php/en_GB/52/dpa.pdf) describes Infomaniak's commitments as a processor that hosts all of your data, including data of a personal nature.
 
-#### [Does Infomaniak have a delegate for data protection?](#collapse6661d4ad67d0d)
+#### [Does Infomaniak have a delegate for data protection?](#collapse6662cbe347427)
 
 Yes. The Infomaniak officer for everything relating to using, managing, and protecting personal data is Johann Laqua. As the data protection officer, he is responsible for informing and advising processing managers, all company employees and any subcontractors.  
   
