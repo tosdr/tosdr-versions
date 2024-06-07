@@ -31,15 +31,13 @@ Active Servers
 
 [![TheCavernMC](plugins/MineCraft/icons/25x25xTheCavernMC_1691857278.png.pagespeed.ic.l_7w2MQwbX.png)
 
-The Cavern \[1.19\] Survival Towny](https://minecraft-server.net/details/TheCavernMC/ "The Cavern [1.19] Survival Towny")[![simplyvanilla](plugins/MineCraft/icons/simplyvanilla_1717168174.png)
+The Cavern \[1.19\] Survival Towny](https://minecraft-server.net/details/TheCavernMC/ "The Cavern [1.19] Survival Towny")[![hcraid](plugins/MineCraft/icons/25x25xhcraid_1717759031.png.pagespeed.ic.DvVjC3dGRz.png)
 
-Simply Vanilla \[Anarchy with no hacks\]](https://minecraft-server.net/details/simplyvanilla/ "Simply Vanilla [Anarchy with no hacks]")[![WinterCrest](plugins/MineCraft/icons/25x25xWinterCrest_1716811256.png.pagespeed.ic.abyuJw4X9V.png)
+HcRaid⚔️Network](https://minecraft-server.net/details/hcraid/ "HcRaid⚔️Network")[![mcprison](plugins/MineCraft/icons/25x25xmcprison_1695493755.png.pagespeed.ic.0wYsTOy-Nc.png)
 
-WinterCrest Non Grief Survival](https://minecraft-server.net/details/WinterCrest/ "WinterCrest Non Grief Survival ")[![mcvexedprison](plugins/MineCraft/icons/25x25xmcvexedprison_1685508125.png.pagespeed.ic.9asB5A72TC.png)
+STAFF NEEDED - PURPLE PRISON](https://minecraft-server.net/details/mcprison/ "STAFF NEEDED - PURPLE PRISON") [Rebirth Of Balkan - Network](https://minecraft-server.net/details/illustrissimus/ "Rebirth Of Balkan - Network")[![HeartSMP](plugins/MineCraft/icons/25x25xHeartSMP_1717172714.png.pagespeed.ic.A91GHgJHqO.jpg)
 
-VexedMC - Unique OP-Prison Server](https://minecraft-server.net/details/mcvexedprison/ "VexedMC - Unique OP-Prison Server")[![SUSMinecraft](plugins/MineCraft/icons/SUSMinecraft_1717262256.png.pagespeed.ce.4K26pX4nDP.png)
-
-feather64](https://minecraft-server.net/details/SUSMinecraft/ "feather64")
+HeartSMP](https://minecraft-server.net/details/HeartSMP/ "HeartSMP")
 
 1. [Minecraft Servers](https://minecraft-server.net/)
 2. Refund
@@ -116,4 +114,4 @@ Set
 * [Statistics](https://minecraft-server.net/overall-stats/ "Statistics")
 * [Contact](https://minecraft-server.net/contact/ "Contact")
 
-© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.07016 - Created by [Debaucus](https://debauc.us/)
+© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06202 - Created by [Debaucus](https://debauc.us/)
