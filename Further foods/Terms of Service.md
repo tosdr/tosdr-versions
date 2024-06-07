@@ -186,6 +186,15 @@ Diet Restrictions Dairy-free Egg-free Gluten-free Low Carb Low Sodium Nightshade
 
 RESET [Search](https://www.furtherfood.com/search?type=article)
 
+[![Watermelon Kiwi Collagen Popsicles](//www.furtherfood.com/cdn/shop/articles/Screenshot_2024-06-06_at_12.45.41_PM_966x1006.png?v=1717703152)
+
+![Watermelon Kiwi Collagen Popsicles](//www.furtherfood.com/cdn/shop/articles/Screenshot_2024-06-06_at_12.45.41_PM_966x1006.png?v=1717703152)](https://www.furtherfood.com/blogs/recipes/watermelon-kiwi-collagen-popsicles)
+
+[Watermelon Kiwi Collagen Popsicles](https://www.furtherfood.com/blogs/recipes/watermelon-kiwi-collagen-popsicles)
+------------------------------------------------------------------------------------------------------------------
+
+These watermelon popsicles are a refreshing and delicious treat! While these popsicles ...
+
 [![Vanilla Orange Protein Smoothie](//www.furtherfood.com/cdn/shop/articles/20240418141055-furtherfoods34398_1200x675.jpg?v=1713449882)
 
 ![Vanilla Orange Protein Smoothie](//www.furtherfood.com/cdn/shop/articles/20240418141055-furtherfoods34398_1200x675.jpg?v=1713449882)](https://www.furtherfood.com/blogs/recipes/dreamy-vanilla-orange-protein-smoothie)
@@ -228,15 +237,6 @@ This protein packed smoothie is super delicious and so easy to make! Further Foo
 
 [Protein Almond Butter Cups (12 mini cups)](https://www.furtherfood.com/blogs/recipes/protein-almond-butter-cups-12-mini-cups)
 ------------------------------------------------------------------------------------------------------------------------------
-
-[![Protein Cookie Dough Bites](//www.furtherfood.com/cdn/shop/articles/20240418162101-img_6277_1179x865.jpg?v=1713457389)
-
-![Protein Cookie Dough Bites](//www.furtherfood.com/cdn/shop/articles/20240418162101-img_6277_1179x865.jpg?v=1713457389)](https://www.furtherfood.com/blogs/recipes/protein-cookie-dough-bites)
-
-[Protein Cookie Dough Bites](https://www.furtherfood.com/blogs/recipes/protein-cookie-dough-bites)
---------------------------------------------------------------------------------------------------
-
-These cookie dough bites are made with wholesome ingredients and have the same taste an...
 
 * 1
 * [2](https://www.furtherfood.com/blogs/recipes?page=2)
