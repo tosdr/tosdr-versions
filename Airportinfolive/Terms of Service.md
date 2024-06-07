@@ -1,7 +1,7 @@
 [](https://airportinfo.live/)
 
 Uhrzeit:  
-Thu 06/06/2024
+Fri 06/07/2024
 
   ![](/images/search.svg)
 
@@ -90,7 +90,7 @@ How do you rate Airportinfo.live?
 ☆☆☆☆☆
 
 Thank you!  
-Would you support us by rating us at Trustpilot? Of course No thanks
+Would you support us by rating us at Google? Of course No thanks
 
 **Thank you!**  
 What can we do to improve your rating? Send Close
