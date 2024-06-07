@@ -177,15 +177,15 @@ APKPure is committed to protecting consumer privacy online. We believe that grea
 
 WhatsApp Messenger
 
-7.8](https://apkpure.com/whatsapp-android/com.whatsapp "WhatsApp Messenger")[![Instagram icon](https://static.apkpure.com/mobile/static/imgs/lazy.png "Instagram")
-
-Instagram
-
-6.4](https://apkpure.com/instagram-android/com.instagram.android "Instagram")[![CapCut - Video Editor icon](https://static.apkpure.com/mobile/static/imgs/lazy.png "CapCut - Video Editor")
+7.8](https://apkpure.com/whatsapp-android/com.whatsapp "WhatsApp Messenger")[![CapCut - Video Editor icon](https://static.apkpure.com/mobile/static/imgs/lazy.png "CapCut - Video Editor")
 
 CapCut - Video Editor
 
-8.3](https://apkpure.com/capcut-for-android/com.lemon.lvoverseas "CapCut - Video Editor")[![YouTube icon](https://static.apkpure.com/mobile/static/imgs/lazy.png "YouTube")
+8.3](https://apkpure.com/capcut-for-android/com.lemon.lvoverseas "CapCut - Video Editor")[![Instagram icon](https://static.apkpure.com/mobile/static/imgs/lazy.png "Instagram")
+
+Instagram
+
+6.4](https://apkpure.com/instagram-android/com.instagram.android "Instagram")[![YouTube icon](https://static.apkpure.com/mobile/static/imgs/lazy.png "YouTube")
 
 YouTube
 
@@ -271,7 +271,7 @@ EN
 * WhatsApp
 * More
 
-                    
+                      
 
 Subscribe to APKPure
 
