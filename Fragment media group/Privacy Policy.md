@@ -102,9 +102,9 @@ We review and update this policy as needed, and we will place any updates on thi
 **How to Contact Us**
 ---------------------
 
-If you would like to turn off email tracking, please email us at [\[email protected\]](https://fragmnt.com/cdn-cgi/l/email-protection)   with “EMAIL TRACKING” in the subject line.
+If you would like to turn off email tracking, please email us at [newsletters@fragmnt.com](mailto:newsletters@fragmnt.com)   with “EMAIL TRACKING” in the subject line.
 
-If you have questions or concerns about this privacy policy, please email us at [\[email protected\]](https://fragmnt.com/cdn-cgi/l/email-protection) with “PRIVACY POLICY” in the subject line, or mail us at the following address:
+If you have questions or concerns about this privacy policy, please email us at [support@fragmnt.com](mailto:support@fragmnt.com) with “PRIVACY POLICY” in the subject line, or mail us at the following address:
 
 Fragment Media Group LLC
 
