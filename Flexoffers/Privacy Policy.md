@@ -133,7 +133,7 @@ A list of our partner networks appears below along with their associated privacy
 | **Linkhaitao** | [Privacy Policy](https://www.linkhaitao.com/help/0.html) |
 | **Olavivo** | [Privacy Policy](https://olavivo.com/privacy_policy/#:~:text=%E2%80%9COlavivo%20is%20dedicated%20to%20protecting,best%20service%20for%20our%20partners.%E2%80%9D&text=unsolicited%20or%20spam%20mail.) |
 
-![Top 10 Network 7 years in a row 2021 Logo](https://www.flexoffers.com/wp-content/blogs.dir/4/files/elementor/thumbs/mthink_seal-q1ymmw95a6myqdzyqwnbe9gfjwmznxtiwoi38eu4z4.png "mthink_seal")
+[![seal_2024](https://www.flexoffers.com/wp-content/blogs.dir/4/files/elementor/thumbs/seal_2024-qp833srs3e2nv7ac65w5q4950lm4ovvgjyqw1z1vh8.png "seal_2024")](https://mthink.com/best-cps-affiliate-networks/)
 
 Partner with Flexoffers.com to see
 ----------------------------------
