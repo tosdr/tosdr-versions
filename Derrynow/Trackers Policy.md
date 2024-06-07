@@ -56,7 +56,7 @@ Search
 
 [![Home](images/logos/21/logo_white.jpg?v=1696508508227 "Home")](https://www.derrynow.com/)
 
-06 Jun 2024
+07 Jun 2024
 
 * [Home
     
@@ -266,13 +266,6 @@ Most Popular
 [Throwback Thursday: Partytime out and about pubs in Derry (2009)](https://www.derrynow.com/story-telling/pictures---videos/1520191/throwback-thursday-partytime-out-and-about-pubs-in-derry-2009.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices - Thursday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Thursday")](https://www.derrynow.com/news/deaths/1520192/derry-death-notices-thursday-6th-june-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Thursday, 6th June 2024](https://www.derrynow.com/news/deaths/1520192/derry-death-notices-thursday-6th-june-2024.html)
----------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Foyle Bridge to close tomorrow morning for essential maintenance](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Foyle Bridge to close tomorrow morning for essential maintenance")](https://www.derrynow.com/news/local-news/1521128/foyle-bridge-to-close-tomorrow-morning-for-essential-maintenance.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
@@ -280,14 +273,19 @@ Most Popular
 [Foyle Bridge to close tomorrow morning for essential maintenance](https://www.derrynow.com/news/local-news/1521128/foyle-bridge-to-close-tomorrow-morning-for-essential-maintenance.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![DfI to carry out maintenance works on stretches of footpaths in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "DfI to carry out maintenance works on stretches of footpaths in Derry")](https://www.derrynow.com/news/local-news/1520457/dfi-to-carry-out-maintenance-works-on-stretches-of-footpaths-in-derry.html)
+[![Derry Death Notices - Thursday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Thursday")](https://www.derrynow.com/news/deaths/1520192/derry-death-notices-thursday-6th-june-2024.html)
 
-DfI Roads have agreed to carry out maintenance works along the right-hand side stretch of Westway in the vicinity of the bungalows
+[Deaths](https://www.derrynow.com/section/977/deaths)
 
-[Local News](https://www.derrynow.com/section/975/news)
+[Derry Death Notices - Thursday, 6th June 2024](https://www.derrynow.com/news/deaths/1520192/derry-death-notices-thursday-6th-june-2024.html)
+---------------------------------------------------------------------------------------------------------------------------------------------
 
-[DfI to carry out maintenance works on stretches of footpaths in Derry](https://www.derrynow.com/news/local-news/1520457/dfi-to-carry-out-maintenance-works-on-stretches-of-footpaths-in-derry.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[![Man returned to Derry Crown Court on domestic abuse charges](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man returned to Derry Crown Court on domestic abuse charges")](https://www.derrynow.com/news/crime---courts/1521024/man-returned-to-derry-crown-court-on-domestic-abuse-charges.html)
+
+[Crime & Courts](https://www.derrynow.com/section/2719/crime-courts)
+
+[Man returned to Derry Crown Court on domestic abuse charges](https://www.derrynow.com/news/crime---courts/1521024/man-returned-to-derry-crown-court-on-domestic-abuse-charges.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Three months jail for Derry man who punched police officer](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Three months jail for Derry man who punched police officer")](https://www.derrynow.com/news/crime---courts/1520994/three-months-jail-for-derry-man-whopunched-police-officer.html)
 
@@ -296,21 +294,19 @@ DfI Roads have agreed to carry out maintenance works along the right-hand side s
 [Three months jail for Derry man who punched police officer](https://www.derrynow.com/news/crime---courts/1520994/three-months-jail-for-derry-man-whopunched-police-officer.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Former Derry City winger Paddy McCourt joins Glentoran as assistant manager](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Former Derry City winger Paddy McCourt joins Glentoran as assistant manager")](https://www.derrynow.com/news/local-news/1520625/former-derry-city-winger-paddy-mccourt-joins-glentoran-as-assistant-manager.html)
-
-Paddy McCourt has joined Irish Premiership side Glentoran
+[![New look Foyle Maritime Festival set to make waves](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "New look Foyle Maritime Festival set to make waves")](https://www.derrynow.com/news/local-news/1521256/new-look-foyle-maritime-festival-set-to-make-waves.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Former Derry City winger Paddy McCourt joins Glentoran as assistant manager](https://www.derrynow.com/news/local-news/1520625/former-derry-city-winger-paddy-mccourt-joins-glentoran-as-assistant-manager.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[New look Foyle Maritime Festival set to make waves](https://www.derrynow.com/news/local-news/1521256/new-look-foyle-maritime-festival-set-to-make-waves.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry students New-York bound to attend annual Loukoumi Awards](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry students New-York bound to attend annual Loukoumi Awards")](https://www.derrynow.com/news/local-news/1520128/derry-students-new-york-bound-for-prestigious-loukoumi-awards.html)
+[![Man returned for trial to Derry Crown Court on drug and stolen property charges](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man returned for trial to Derry Crown Court on drug and stolen property charges")](https://www.derrynow.com/news/crime---courts/1521001/man-returned-for-trial-to-derry-crown-court-on-drug-and-stolen-property-charges.html)
 
-[Local News](https://www.derrynow.com/section/975/news)
+[Crime & Courts](https://www.derrynow.com/section/2719/crime-courts)
 
-[Derry students New-York bound for prestigious Loukoumi Awards](https://www.derrynow.com/news/local-news/1520128/derry-students-new-york-bound-for-prestigious-loukoumi-awards.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Man returned for trial to Derry Crown Court on drug and stolen property charges](https://www.derrynow.com/news/crime---courts/1521001/man-returned-for-trial-to-derry-crown-court-on-drug-and-stolen-property-charges.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Cara Dillon shot at with BB pellets in England](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Cara Dillon shot at with BB pellets in England")](https://www.derrynow.com/news/local-news/1520953/cara-dillon-shot-at-with-bb-pellets-in-england.html)
 
@@ -321,25 +317,41 @@ Dungiven native Cara Dillon posted a photo of the pellets that struck her on X
 [Cara Dillon shot at with BB pellets in England](https://www.derrynow.com/news/local-news/1520953/cara-dillon-shot-at-with-bb-pellets-in-england.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Punishments for driving offences ‘insufficient’, says senior police officer](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Punishments for driving offences ‘insufficient’, says senior police officer")](https://www.derrynow.com/news/northern-ireland/1520251/punishments-for-driving-offences-insufficient-says-senior-police-officer.html)
+[![Charity fundraiser Adrian Harkin dies after battle with motor neurone disease](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Charity fundraiser Adrian Harkin dies after battle with motor neurone disease")](https://www.derrynow.com/news/local-news/1521462/charity-fundraiser-adrian-harkin-dies-after-battle-with-motor-neurone-disease.html)
 
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+Adrian Harkin established Inish Adventures in Moville
 
-[Punishments for driving offences ‘insufficient’, says senior police officer](https://www.derrynow.com/news/northern-ireland/1520251/punishments-for-driving-offences-insufficient-says-senior-police-officer.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Local News](https://www.derrynow.com/section/975/news)
 
-[![Man returned for trial to Derry Crown Court on drug and stolen property charges](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man returned for trial to Derry Crown Court on drug and stolen property charges")](https://www.derrynow.com/news/crime---courts/1521001/man-returned-for-trial-to-derry-crown-court-on-drug-and-stolen-property-charges.html)
+[Charity fundraiser Adrian Harkin dies after battle with motor neurone disease](https://www.derrynow.com/news/local-news/1521462/charity-fundraiser-adrian-harkin-dies-after-battle-with-motor-neurone-disease.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[Crime & Courts](https://www.derrynow.com/section/2719/crime-courts)
+[![Police officer tells Lyra McKee trial of moment masked gunman opened fire](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police officer tells Lyra McKee trial of moment masked gunman opened fire")](https://www.derrynow.com/news/local-news/1521021/police-officer-tells-lyra-mckee-trial-of-moment-masked-gunman-opened-fire.html)
 
-[Man returned for trial to Derry Crown Court on drug and stolen property charges](https://www.derrynow.com/news/crime---courts/1521001/man-returned-for-trial-to-derry-crown-court-on-drug-and-stolen-property-charges.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Police officer tells Lyra McKee trial of moment masked gunman opened fire](https://www.derrynow.com/news/local-news/1521021/police-officer-tells-lyra-mckee-trial-of-moment-masked-gunman-opened-fire.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
 
 Multimedia
+
+[![IN PICTURES: Oakgrove IPSN becomes ‘School of Sanctuary’](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Oakgrove IPSN becomes ‘School of Sanctuary’")](https://www.derrynow.com/story-telling/pictures---videos/1521367/in-pictures-oakgrove-ipsn-becomes-school-of-sanctuary.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Oakgrove IPSN becomes ‘School of Sanctuary’](https://www.derrynow.com/story-telling/pictures---videos/1521367/in-pictures-oakgrove-ipsn-becomes-school-of-sanctuary.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Derry volunteers celebrated at North West Volunteer Awards event](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry volunteers celebrated at North West Volunteer Awards event")](https://www.derrynow.com/story-telling/pictures---videos/1521329/in-pictures-derry-volunteers-celebrated-at-north-west-volunteer-awards-event.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Derry volunteers celebrated at North West Volunteer Awards event](https://www.derrynow.com/story-telling/pictures---videos/1521329/in-pictures-derry-volunteers-celebrated-at-north-west-volunteer-awards-event.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![IN PICTURES: Derry schools participate in Na Magha Cup](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry schools participate in Na Magha Cup")](https://www.derrynow.com/story-telling/pictures---videos/1520950/in-pictures-derry-schools-participate-in-na-magha-cup.html)
 
@@ -398,20 +410,6 @@ Derry City fans at the Brandywell. Pics by Tom Heaney, nwpresspics
 
 [IN PICTURES: Eamonn Lynch’s debut play 'The Derry Yank' at St Columb's Hall](https://www.derrynow.com/story-telling/pictures---videos/1518080/in-pictures-eamonn-lynchs-debut-play-the-derry-yank-at-st-columb-s-hall.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Annual Derry commemoration for IRA volunteer George McBrearty](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Annual Derry commemoration for IRA volunteer George McBrearty")](https://www.derrynow.com/story-telling/pictures---videos/1517968/in-pictures-annual-derry-commemoration-for-ira-volunteer-george-mcbrearty.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Annual Derry commemoration for IRA volunteer George McBrearty](https://www.derrynow.com/story-telling/pictures---videos/1517968/in-pictures-annual-derry-commemoration-for-ira-volunteer-george-mcbrearty.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Derry fans at Celtic Park for clash with Armagh](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry fans at Celtic Park for clash with Armagh")](https://www.derrynow.com/story-telling/pictures---videos/1517969/in-pictures-derry-fans-at-celtic-park-for-clash-with-armagh.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Derry fans at Celtic Park for clash with Armagh](https://www.derrynow.com/story-telling/pictures---videos/1517969/in-pictures-derry-fans-at-celtic-park-for-clash-with-armagh.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -515,53 +513,55 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![New look Foyle Maritime Festival set to make waves](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "New look Foyle Maritime Festival set to make waves")](https://www.derrynow.com/news/local-news/1521256/new-look-foyle-maritime-festival-set-to-make-waves.html)
+[![Concerns raised over dangers of vaping oils](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Concerns raised over dangers of vaping oils")](https://www.derrynow.com/news/local-news/1521365/concerns-raised-over-dangers-of-vaping-oils.html)
+
+Concerns have been raised about vape oils
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Concerns raised over dangers of vaping oils](https://www.derrynow.com/news/local-news/1521365/concerns-raised-over-dangers-of-vaping-oils.html)
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Charity fundraiser Adrian Harkin dies after battle with motor neurone disease](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Charity fundraiser Adrian Harkin dies after battle with motor neurone disease")](https://www.derrynow.com/news/local-news/1521462/charity-fundraiser-adrian-harkin-dies-after-battle-with-motor-neurone-disease.html)
+
+Adrian Harkin established Inish Adventures in Moville
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Charity fundraiser Adrian Harkin dies after battle with motor neurone disease](https://www.derrynow.com/news/local-news/1521462/charity-fundraiser-adrian-harkin-dies-after-battle-with-motor-neurone-disease.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Lyra McKee trial watch unedited footage filmed by an MTV crew](https://www.derrynow.com/resizer/165/93/true/pa/2024_06_06/1717688117759_0.jpg--.jpg?1717688118154 "Lyra McKee trial watch unedited footage filmed by an MTV crew")](https://www.derrynow.com/news/local-news/1521451/lyra-mckee-trial-watch-unedited-footage-filmed-by-an-mtv-crew.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Lyra McKee trial watch unedited footage filmed by an MTV crew](https://www.derrynow.com/news/local-news/1521451/lyra-mckee-trial-watch-unedited-footage-filmed-by-an-mtv-crew.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry's Danny McGinley honoured at first-ever Further Education NI Excellence Awards](https://www.derrynow.com/resizer/165/93/true/2024_06_06/NRC_5-1717690266422_1717690286.jpg--.jpg?1717690286560 "Derry's Danny McGinley honoured at first-ever Further Education NI Excellence Awards")](https://www.derrynow.com/news/local-news/1521447/derry-s-danny-mcginley-honoured-at-first-ever-further-education-ni-excellence-awards.html)
+
+Danny McGinley was awarded the Lifelong Learning award and is pictured with Tony Knipe from Translink.
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry's Danny McGinley honoured at first-ever Further Education NI Excellence Awards](https://www.derrynow.com/news/local-news/1521447/derry-s-danny-mcginley-honoured-at-first-ever-further-education-ni-excellence-awards.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Fun for all the family at Stendhal Festival with a packed programme of events planned](https://www.derrynow.com/resizer/165/93/true/2024_06_06/Paddy_and_Diane-1717685550376.jpg--.jpg?1717685550933 "Fun for all the family at Stendhal Festival with a packed programme of events planned")](https://www.derrynow.com/news/home/1521348/fun-for-all-the-family-at-stendhal-festival-with-a-packed-programme-of-events-planned.html)
+
+Diane & Paddy aka The Happiest Enchiladas bring their favourite tunes to the party for a big sing-along.
+
+[Home](https://www.derrynow.com/)
+
+[Fun for all the family at Stendhal Festival with a packed programme of events planned](https://www.derrynow.com/news/home/1521348/fun-for-all-the-family-at-stendhal-festival-with-a-packed-programme-of-events-planned.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![New look Foyle Maritime Festival set to make waves](https://www.derrynow.com/resizer/165/93/true/2024_06_06/DerryMaritime22072210-1717681814690.jpg--.jpg?1717681817450 "New look Foyle Maritime Festival set to make waves")](https://www.derrynow.com/news/local-news/1521256/new-look-foyle-maritime-festival-set-to-make-waves.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
 [New look Foyle Maritime Festival set to make waves](https://www.derrynow.com/news/local-news/1521256/new-look-foyle-maritime-festival-set-to-make-waves.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![US Envoy pulls out of Magee meeting due to protest](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "US Envoy pulls out of Magee meeting due to protest")](https://www.derrynow.com/news/derrynow/1521241/us-envoy-pulls-out-of-magee-meeting-due-to-protest.html)
-
-US Special Envoy for Northern Ireland Joe Kennedy III
-
-[DerryNow](https://www.derrynow.com/section/971/derrynow)
-
-[US Envoy pulls out of Magee meeting due to protest](https://www.derrynow.com/news/derrynow/1521241/us-envoy-pulls-out-of-magee-meeting-due-to-protest.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry City](https://www.derrynow.com/resizer/165/93/true/2024_06_06/2818027-1717676047988.jpg--.jpg?1717676049142 "Derry City")](https://www.derrynow.com/news/derry-sport/1521140/fai-cup-draw-derry-city-to-host-cup-holders-st-patrick-s-athletic.html)
-
-Stephen Kenny and Ruaidhri Higgins will meet again in next month's FAI cup game,
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[FAI Cup Draw: Derry City to host cup holders St. Patrick's Athletic](https://www.derrynow.com/news/derry-sport/1521140/fai-cup-draw-derry-city-to-host-cup-holders-st-patrick-s-athletic.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Foyle Bridge to close tomorrow morning for essential maintenance](https://www.derrynow.com/resizer/165/93/true/2022_08_30/foylebridge.jpg---1661849210960.jpg--.jpg?1661849210966 "Foyle Bridge to close tomorrow morning for essential maintenance")](https://www.derrynow.com/news/local-news/1521128/foyle-bridge-to-close-tomorrow-morning-for-essential-maintenance.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Foyle Bridge to close tomorrow morning for essential maintenance](https://www.derrynow.com/news/local-news/1521128/foyle-bridge-to-close-tomorrow-morning-for-essential-maintenance.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Gareth McGlynn](https://www.derrynow.com/resizer/165/93/true/2024_06_06/2835307-1717672595976.jpg--.jpg?1717672597959 "Gareth McGlynn")](https://www.derrynow.com/news/derry-sport/1521028/charlie-from-the-stands-times-they-are-a-changing.html)
-
-Mason Melia of St. Patrick's Athletic is one of the league's brightest talents
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Charlie from the Stands: Times they are A-Changing!](https://www.derrynow.com/news/derry-sport/1521028/charlie-from-the-stands-times-they-are-a-changing.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Man returned to Derry Crown Court on domestic abuse charges](https://www.derrynow.com/resizer/165/93/true/2024_03_28/derrycourthouse2.jpg--man_remanded_at_derry_magistrate_s_court_on_series_of_driving_charges-1711633542377.jpg--.jpg?1711633542414 "Man returned to Derry Crown Court on domestic abuse charges")](https://www.derrynow.com/news/crime---courts/1521024/man-returned-to-derry-crown-court-on-domestic-abuse-charges.html)
-
-[Crime & Courts](https://www.derrynow.com/section/2719/crime-courts)
-
-[Man returned to Derry Crown Court on domestic abuse charges](https://www.derrynow.com/news/crime---courts/1521024/man-returned-to-derry-crown-court-on-domestic-abuse-charges.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
