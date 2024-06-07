@@ -1,7 +1,7 @@
 [KBH Games](https://kbhgames.com/)
 
 * [New](https://kbhgames.com/new)
-* [Friday Night Funkin](https://kbhgames.com/tag/friday-night-funkin)
+* [FNF](https://kbhgames.com/tag/friday-night-funkin)
 * [Action](https://kbhgames.com/tag/action)
 * [Puzzle](https://kbhgames.com/tag/puzzle)
 * [2 Players](https://kbhgames.com/tag/2-player)
