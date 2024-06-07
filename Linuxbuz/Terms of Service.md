@@ -2,7 +2,7 @@
 
 [Top Menu](#)
 
-June 6, 2024
+June 7, 2024
 
 * [ABOUT US](https://linuxbuz.com/about-us)
 * [PRIVACY POLICY](https://linuxbuz.com/privacy-policy)
@@ -11,7 +11,9 @@ June 6, 2024
 * [ASK ME](https://linuxbuz.com/ask-me)
 * [CONTACT](https://linuxbuz.com/contact)
 
-[![Linuxbuz logo](https://linuxbuz.com/wp-content/uploads/2017/03/cropped-onlinelogomaker-030217-1626-0813-1.png)](https://linuxbuz.com/)
+[![Linuxbuz logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![Linuxbuz logo](https://linuxbuz.com/wp-content/uploads/2017/03/cropped-onlinelogomaker-030217-1626-0813-1.png)](https://linuxbuz.com/)
 
 [LinuxBuz](https://linuxbuz.com/)
 
