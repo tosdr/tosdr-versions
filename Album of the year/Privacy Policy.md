@@ -93,17 +93,11 @@ Advertisement
 
 [New Album Releases](https://www.albumoftheyear.org/releases/this-week/)
 
-50
+88
 
-[Eminem
+[Charli XCX
 
-Houdini](https://www.albumoftheyear.org/album/970891-eminem-houdini.php)
-
-70
-
-[The Marías
-
-Submarine](https://www.albumoftheyear.org/album/882149-the-marias-submarine.php)
+BRAT](https://www.albumoftheyear.org/album/887267-charli-xcx-brat.php)
 
 NR
 
@@ -113,13 +107,21 @@ Wah Gwan Delilah](https://www.albumoftheyear.org/album/976227-snowd4y-wah-gwan-d
 
 NR
 
-[ARTMS](https://www.albumoftheyear.org/album/783921-artms-dall.php)
+[Porter Robinson
 
-86
+Russian Roulette](https://www.albumoftheyear.org/album/977571-porter-robinson-russian-roulette.php)
 
-[Arooj Aftab
+74
 
-Night Reign](https://www.albumoftheyear.org/album/928256-arooj-aftab-night-reign.php)
+[KAYTRANADA
+
+Timeless](https://www.albumoftheyear.org/album/963698-kaytranada-timeless.php)
+
+NR
+
+[Ski Mask The Slump God
+
+11th Dimension](https://www.albumoftheyear.org/album/782279-ski-mask-the-slump-god-11th-dimension.php)
 
 [More Releases](https://www.albumoftheyear.org/releases/this-week/)
 
@@ -131,9 +133,9 @@ Night Reign](https://www.albumoftheyear.org/album/928256-arooj-aftab-night-reign
 
 [![Knocked Loose - You Won't Go Before You're Supposed To](https://cdn.albumoftheyear.org/images/clear.gif)](https://www.albumoftheyear.org/album/887049-knocked-loose-you-wont-go-before-youre-supposed-to.php "Knocked Loose - You Won't Go Before You're Supposed To")
 
-[![Mdou Moctar - Funeral For Justice](https://cdn.albumoftheyear.org/images/clear.gif)](https://www.albumoftheyear.org/album/888230-mdou-moctar-funeral-for-justice.php "Mdou Moctar - Funeral For Justice")
-
 [![Charli XCX - BRAT](https://cdn.albumoftheyear.org/images/clear.gif)](https://www.albumoftheyear.org/album/887267-charli-xcx-brat.php "Charli XCX - BRAT")
+
+[![Mdou Moctar - Funeral For Justice](https://cdn.albumoftheyear.org/images/clear.gif)](https://www.albumoftheyear.org/album/888230-mdou-moctar-funeral-for-justice.php "Mdou Moctar - Funeral For Justice")
 
 [![English Teacher - This Could Be Texas](https://cdn.albumoftheyear.org/images/clear.gif)](https://www.albumoftheyear.org/album/850250-english-teacher-this-could-be-texas.php "English Teacher - This Could Be Texas")
 
