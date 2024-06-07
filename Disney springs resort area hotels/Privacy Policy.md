@@ -3,12 +3,12 @@
 [![Disney Springs Resort Area Hotels](https://disneyspringshotels.com/wp-content/themes/ddrah/images/media/logo-new.png)](https://disneyspringshotels.com/ "Link to Home Page")
 
 * [Our Hotels](https://disneyspringshotels.com/our-hotels/ "Disney Springs Hotels List")
-    * [B Resort & Spa](http://disneyspringshotels.com/hotels/b-resort-spa/ "B Resort & Spa Orlando – Lake Buena Vista at Disney Springs® Area")
     * [DoubleTree Suites](http://disneyspringshotels.com/hotels/doubletree-suites-by-hilton-orlando-disney-springs/ "DoubleTree Suites by Hilton – Lake Buena Vista at Disney Springs® Area")
     * [Drury Plaza Hotel](https://disneyspringshotels.com/hotels/drury-plaza-hotel-orlando-disney-springs/ "Drury Plaza Hotel Orlando Lake Buena Vista")
     * [Hilton Buena Vista Palace](http://disneyspringshotels.com/hotels/hilton-orlando-buena-vista-palace/ "Hilton Orlando Buena Vista Palace – Disney Springs® Area")
     * [Hilton Lake Buena Vista](http://disneyspringshotels.com/hotels/hilton-orlando-lake-buena-vista-disney-springs/ "Hilton Orlando Lake Buena Vista at Disney Springs® Area")
     * [Holiday Inn](http://disneyspringshotels.com/hotels/holiday-inn-orlando-disney-springs-area/ "Holiday Inn Orlando – Disney Springs® Area")
+    * [Renaissance Orlando Resort & Spa](http://disneyspringshotels.com/hotels/renaissance-orlando-resort-spa-disney-springs-resort-area/ "Renaissance Orlando Resort & Spa – Disney Springs® Area")
     * [Wyndham Garden](http://disneyspringshotels.com/hotels/wyndham-lake-buena-vista-disney-springs-resort-area/ "Wyndham Garden Lake Buena Vista Resort at Disney Springs® Area")
 * [Special Offers](https://disneyspringshotels.com/special-offers/ "Special Hotel Offers from Disney Springs Hotels")
     * [Magic Sale](https://disneyspringshotels.com/magic/ "Stay Steps From The Most Magical Place on Earth")
@@ -130,13 +130,13 @@ Book your tee-times up to 90 days in advance!
 Insider News
 ============
 
+[![](https://disneyspringshotels.com/wp-content/uploads/2021/06/Friends-Epcot-Food-and-Wine.jpg)](https://disneyspringshotels.com/epcot-international-food-wine-festival/ "Permanent Link to 2024 EPCOT® International Food & Wine Festival")
+
+[2024 EPCOT® International Food & Wine Festival](https://disneyspringshotels.com/epcot-international-food-wine-festival/ "Permanent Link to 2024 EPCOT® International Food & Wine Festival") Runs August 29 to November 23, 2024 Like a passport specially for your palate, the EPCOT® International Food & Wine Festival is a magical taste tour—one that whisks you off on a fun and flavorful journey across six continents. It’s a delicious celebration filled with global marketplaces, live entertainment and more. Sip, savor and stroll… [View Article »](https://disneyspringshotels.com/epcot-international-food-wine-festival/)
+
 [![](https://disneyspringshotels.com/wp-content/uploads/2020/03/Epcot-International-Flower-Garden-Festival-2022-0316ZP_0237KP_JB-700x467.jpg)](https://disneyspringshotels.com/epcots-international-flower-garden-festival/ "Permanent Link to EPCOT® International Flower & Garden Festival")
 
 [EPCOT® International Flower & Garden Festival](https://disneyspringshotels.com/epcots-international-flower-garden-festival/ "Permanent Link to EPCOT® International Flower & Garden Festival") EPCOT® International Flower & Garden Festival begins February 28, 2024 and features brilliant gardens, fresh flavors, lively entertainment and more. With only 90 days for this festival, make your plans quickly before it ends May 27, 2024! What to look forward to: Topiary Displays, Exhibits and Gardens Garden Graze – Take a walk on the… [View Article »](https://disneyspringshotels.com/epcots-international-flower-garden-festival/)
-
-[![](https://disneyspringshotels.com/wp-content/uploads/2023/01/Festival-of-the-Arts-2024-little-girl-at-mural-700x426.jpg)](https://disneyspringshotels.com/epcot-international-festival-of-the-arts/ "Permanent Link to EPCOT International FESTIVAL OF THE ARTS")
-
-[EPCOT International FESTIVAL OF THE ARTS](https://disneyspringshotels.com/epcot-international-festival-of-the-arts/ "Permanent Link to EPCOT International FESTIVAL OF THE ARTS") Celebrate the Art of Possibilities at the EPCOT® International Festival of the Arts The magic behind every work of art is in its possibilities. When colors and shapes blend with instrumentation and the combination of ingredients—they all come together to create something truly unique. It’s why EPCOT® is proud to celebrate the 2024 EPCOT International Festival of the… [View Article »](https://disneyspringshotels.com/epcot-international-festival-of-the-arts/)
 
 [View All News](https://disneyspringshotels.com/whats-new/ "Link to What's New")
 
@@ -148,12 +148,12 @@ Sign Up for Special Offers
   
 
 * [Our Hotels](https://disneyspringshotels.com/our-hotels/ "Disney Springs Hotels List")
-    * [B Resort & Spa](http://disneyspringshotels.com/hotels/b-resort-spa/ "B Resort & Spa Orlando – Lake Buena Vista at Disney Springs® Area")
     * [DoubleTree Suites](http://disneyspringshotels.com/hotels/doubletree-suites-by-hilton-orlando-disney-springs/ "DoubleTree Suites by Hilton – Lake Buena Vista at Disney Springs® Area")
     * [Drury Plaza Hotel](https://disneyspringshotels.com/hotels/drury-plaza-hotel-orlando-disney-springs/ "Drury Plaza Hotel Orlando Lake Buena Vista")
     * [Hilton Buena Vista Palace](http://disneyspringshotels.com/hotels/hilton-orlando-buena-vista-palace/ "Hilton Orlando Buena Vista Palace – Disney Springs® Area")
     * [Hilton Lake Buena Vista](http://disneyspringshotels.com/hotels/hilton-orlando-lake-buena-vista-disney-springs/ "Hilton Orlando Lake Buena Vista at Disney Springs® Area")
     * [Holiday Inn](http://disneyspringshotels.com/hotels/holiday-inn-orlando-disney-springs-area/ "Holiday Inn Orlando – Disney Springs® Area")
+    * [Renaissance Orlando Resort & Spa](http://disneyspringshotels.com/hotels/renaissance-orlando-resort-spa-disney-springs-resort-area/ "Renaissance Orlando Resort & Spa – Disney Springs® Area")
     * [Wyndham Garden](http://disneyspringshotels.com/hotels/wyndham-lake-buena-vista-disney-springs-resort-area/ "Wyndham Garden Lake Buena Vista Resort at Disney Springs® Area")
 * [Special Offers](https://disneyspringshotels.com/special-offers/ "Special Hotel Offers from Disney Springs Hotels")
     * [Magic Sale](https://disneyspringshotels.com/magic/ "Stay Steps From The Most Magical Place on Earth")
