@@ -164,11 +164,11 @@ Top VPNs
 
 #### Recent Posts
 
-* [How to Watch UEFA Euro 2024 on FireStick for Free](https://www.firesticktricks.com/watch-uefa-euro-live-stream.html)
-* [Best HesGoal Alternatives to Stream Live Football for Free](https://www.firesticktricks.com/best-hesgoal-alternatives.html)
-* [10 Best Kodi Repositories (2024) with Installation Guides](https://www.firesticktricks.com/best-kodi-repositories.html)
-* [Can I Install & Watch Sky Go on FireStick?](https://www.firesticktricks.com/sky-go-on-firestick.html)
-* [How to Install & Watch VUDU on Amazon FireStick (2024)](https://www.firesticktricks.com/vudu-firestick.html)
+* [100+ Best FireStick Apps (May 2024) – Free Movies, TV, Live Sports](https://www.firesticktricks.com/amazon-fire-stick-apps.html)
+* [How to Get Subtitles on Kodi with OpenSubtitles (2024)](https://www.firesticktricks.com/kodi-subtitles.html)
+* [20 Best Putlocker Alternatives (That REALLY Work) in 2024](https://www.firesticktricks.com/putlocker-alternatives.html)
+* [How to Install Superman Kodi Build on Any Device](https://www.firesticktricks.com/superman-kodi-build.html)
+* [20+ Best Free Sports Streaming Sites (Updated: May 2024)](https://www.firesticktricks.com/free-sports-streaming-sites.html)
 
 [![Fire Stick Tricks](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%2059'%3E%3C/svg%3E)
 
