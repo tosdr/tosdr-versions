@@ -351,9 +351,7 @@ You Might Also Like
 
 * * *
 
-![](https://s3.amazonaws.com/syndication.abcaudio.com/files/2024-05-29/M_LukeCombs2022CMAFestPerformanceABC.jpg)
-
-[Country News](https://www.987thebull.com/category/country/)[### Luke Combs' unreleased "Plant a Seed" might tug at your heartstrings](https://www.987thebull.com/luke-combs-unreleased-plant-a-seed-might-tug-at-your-heartstrings/)
+### Luke Combs' unreleased "Plant a Seed" might tug at your heartstrings
 
 * * *
 
@@ -497,21 +495,21 @@ State
 Featured Brands
 ---------------
 
-[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
+[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
 
-Spanish • Western
+Sports • Midwest
+
+[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
+
+Top 40 • Eastern
 
 [![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
 
 Country • Western
 
-[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
+[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
 
-News Talk • Eastern
-
-[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
-
-Sports • Midwest
+Top 40 • Pacific NW
 
 [](https://www.alphamediausa.com/)
 
