@@ -81,13 +81,13 @@ View dashboard
     
 * About Us
     
-    * [**Why Axur?**](https://axur.com/en-us/about-axur)
+    * [**Why Axur?**](https://axur.com/en-us/why-axur)
     * [**Partnerships**](https://axur.com/en-us/partners)
     * [**Talents**](https://start.axur.com/en-us/talents)
     
     About Us
     
-    * [**Why Axur?**](https://axur.com/en-us/about-axur)
+    * [**Why Axur?**](https://axur.com/en-us/why-axur)
     * [**Partnerships**](https://axur.com/en-us/partners)
     * [**Talents**](https://start.axur.com/en-us/talents)
     
@@ -353,7 +353,7 @@ Previous versions**:** To access previous versions, please email [privacy@axur.c
 
 ##### About Us
 
-[Why Axur?](https://axur.com/en-us/about-axur)[Contact](https://start.axur.com/en-us/)[Partners](https://axur.com/en-us/partners)[Talents](https://start.axur.com/en-us/talents)[Privacy Notice](https://axur.com/en-us/privacy-policy)
+[Why Axur?](https://axur.com/en-us/why-axur)[Contact](https://start.axur.com/en-us/)[Partners](https://axur.com/en-us/partners)[Talents](https://start.axur.com/en-us/talents)[Privacy Notice](https://axur.com/en-us/privacy-policy)
 
 [![linkedin logo](https://cdn.prod.website-files.com/61e1949f83dad6619067b896/61fd284190785d66a7fa8127_linkedin.svg)](https://www.linkedin.com/company/axur/)[![facebook logo](https://cdn.prod.website-files.com/61e1949f83dad6619067b896/61fd28401e06892b05b5afb3_facebook.svg)](https://www.facebook.com/AxurBrasil/)[![instagram logo](https://cdn.prod.website-files.com/61e1949f83dad6619067b896/61fd284170547b7125ca036b_instagram.svg)](https://www.instagram.com/axurbr/)[![youtube logo](https://cdn.prod.website-files.com/61e1949f83dad6619067b896/61fd28412e938635f22881e9_youtube.svg)](https://www.youtube.com/c/AxurBrasil)[![twitter logo](https://cdn.prod.website-files.com/61e1949f83dad6619067b896/61fd28411c1f072f3a0b50be_twitter.svg)](https://twitter.com/AxurBrasil/)
 
