@@ -2,9 +2,7 @@
 
 [GET YOUR FIRST **FREE READING** VIA EMAIL WITHIN **2 HOURS**!](https://www.athena-medium.com/free-reading/tarot-reading/#sidebar)
 
-[![athena medium](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20256%20104'%3E%3C/svg%3E)
-
-![athena medium](https://www.athena-medium.com/wp-content/uploads/2021/01/athena-logo@2x.png.webp)
+[![athena medium](https://www.athena-medium.com/wp-content/uploads/2021/01/athena-logo@2x.png.webp)
 
 Athena](https://www.athena-medium.com/)
 
