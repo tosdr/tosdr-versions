@@ -316,11 +316,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/galerija-talenata/godisnja-izlozba-studenata-flu-beograd-2005/2006/17-g.jpg?itok=oW_bqXDu)](http://seecult.org/galerija/galerija-umetnika/galerija-talenata/godisnja-izlozba-studenata-flu-beograd-20052006)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/vlastimir-volcano-mikic/biografija/intervju/intervju.gif?itok=pFSkLp8Y)](http://seecult.org/galerija/galerija-umetnika/vlastimir-volcano-mikic/biografija-intervju)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/ana-nedeljkovic.jpg?itok=plhBtGDT)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/slove.jpg?itok=GH1BKdE7)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -336,16 +336,16 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Nadežda Petrović u Narodnom muzeju](http://seecult.org/vest/nadezda-petrovic-u-narodnom-muzeju)
 * [Partibrejkers uveličali Zemun fest](http://seecult.org/vest/partibrejkers-uvelicali-zemun-fest)
 
+* [Art Weekend Belgrade 2024](http://seecult.org/vest/art-weekend-belgrade-2024)
+* [ICOMOS zabrinut zbog sudbine kompleksa Generalštaba](http://seecult.org/vest/icomos-zabrinut-zbog-sudbine-kompleksa-generalstaba)
+* [Aleksandru Vučkoviću nagrada Petar Banićević](http://seecult.org/vest/aleksandru-vuckovicu-nagrada-petar-banicevic)
+* [Zlatni pečat Manojloviću, otvoren 26. Nitrat](http://seecult.org/vest/zlatni-pecat-manojlovicu-otvoren-26-nitrat)
+* [Sanji Marković nagrada Ljubinka Bobić](http://seecult.org/vest/sanji-markovic-nagrada-ljubinka-bobic)
+* [Grlićev Svemu dođe kraj otvara 71. Pulski filmski festival](http://seecult.org/vest/grlicev-svemu-dode-kraj-otvara-71-pulski-filmski-festival)
 * [Retrospektiva Stojana Pačova](http://seecult.org/vest/retrospektiva-stojana-pacova)
+* [Treća majka uživo](http://seecult.org/vest/treca-majka-uzivo)
 * [Festival francuskog filma, kum Bjelogrlić](http://seecult.org/vest/festival-francuskog-filma-kum-bjelogrlic)
 * [Biblioteka Jugoslovenske kinoteke u slavu Olge Dobrović](http://seecult.org/vest/biblioteka-jugoslovenske-kinoteke-u-slavu-olge-dobrovic)
-* [Sesil Vajsbrot dobitnica nagrade Aleksandar Tišma](http://seecult.org/vest/sesil-vajsbrot-dobitnica-nagrade-aleksandar-tisma)
-* [Studentski i arhivski filmski plakati](http://seecult.org/vest/studentski-i-arhivski-filmski-plakati)
-* [Nagrada Borka Pavićević za javni gest Ružici Marjanović](http://seecult.org/vest/nagrada-borka-pavicevic-za-javni-gest-ruzici-marjanovic)
-* [Nevolje u raju Luke Marjanovića](http://seecult.org/vest/nevolje-u-raju-luke-marjanovica)
-* [50 godina karijere Stefanovskog u Sava centru](http://seecult.org/vest/50-godina-karijere-stefanovskog-u-sava-centru)
-* [NDŽO i Rajli, pod vođstvom Fajgla](http://seecult.org/vest/ndzo-i-rajli-pod-vodstvom-fajgla)
-* [Zarina Šimanskaja na Kolarcu](http://seecult.org/vest/zarina-simanskaja-na-kolarcu)
 
 * [Konkursi](#tab1_1)
 
