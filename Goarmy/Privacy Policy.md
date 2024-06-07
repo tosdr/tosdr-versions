@@ -81,7 +81,7 @@
         
         [Officer Training](https://www.goarmy.com/army-life/officer-training.html)
         
-        #### Special Ops
+        #### Daily Life
         
         [Intro to Army Life](https://www.goarmy.com/army-life/intro-to-army-life.html)
         
