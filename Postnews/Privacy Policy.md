@@ -1,5 +1,3 @@
-Post
-
 ![Post Logo](/images/post-logo.svg)
 
 Post News is now offline.
