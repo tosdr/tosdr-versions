@@ -202,7 +202,7 @@ Promotion Details Détails de la promotion
 
 Seller Name
 
-[scratch & Save – See all deals](https://www.thebrick.com/pages/deals) 
+[96 HOUR SALE – See all deals](https://www.thebrick.com/pages/deals) 
 
 [![THE BRICK](//www.thebrick.com/cdn/shop/t/759/assets/Brick-logo-en.svg?v=144201696812184966561717439211)](https://www.thebrick.com/)
 
