@@ -125,12 +125,6 @@ Speedify is the only app that combines all of your Internet connections to keep 
 Upcoming Events
 ---------------
 
-Jun 7
-
-10:00 am - 11:00 am EDT
-
-### [6/7 @ 10am EDT – Do Wi-Fi Extenders Hurt Your Connection? | Ask the CEO your tech questions](https://speedify.com/event/6-7-10am-edt-do-wi-fi-extenders-hurt-your-connection-ask-the-ceo-your-tech-questions/ "6/7 @ 10am EDT – Do Wi-Fi Extenders Hurt Your Connection? | Ask the CEO your tech questions")
-
 Jun 12
 
 10:00 am - 11:00 am EDT
