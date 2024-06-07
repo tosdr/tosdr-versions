@@ -128,7 +128,7 @@ If you have any questions or suggestions regarding our privacy policy, please co
 
 [![BrainFM logo](https://cdn.brain.fm/images/logo-full.svg)](https://www.brain.fm/)
 
-[![Facebook](https://cdn.brain.fm/icons/facebook_icon.svg)](https://www.facebook.com/brainfm)[![Twitter](https://cdn.brain.fm/icons/twitter_icon.svg)](https://twitter.com/BrainfmApp)[![Instagram](https://cdn.brain.fm/icons/instagram_icon.svg)](https://www.instagram.com/brainfmapp/)
+[![Facebook](https://cdn.brain.fm/icons/facebook_icon_white.svg)](https://www.facebook.com/brainfm)[![Twitter](https://cdn.brain.fm/icons/twitter_icon.svg)](https://twitter.com/BrainfmApp)[![Instagram](https://cdn.brain.fm/icons/instagram_icon.svg)](https://www.instagram.com/brainfmapp/)
 
 © 2024 BrainFM, Inc.
 
