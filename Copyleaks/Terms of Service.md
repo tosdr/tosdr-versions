@@ -34,7 +34,7 @@
                 
         * * #### Use Cases
                 
-    * * * [AI Content Detector API](https://copyleaks.com/ai-content-detector-api)
+    * * * [AI Detector API](https://copyleaks.com/ai-content-detector-api)
             * [Plagiarism Checker API](https://copyleaks.com/plagiarism-checker-api)
             * [Writing Assistant](https://copyleaks.com/writing-assistant)
             * [LMS Integration](https://copyleaks.com/learning-management-systems)
@@ -54,24 +54,24 @@
                 
                 [See All](https://copyleaks.com/blog)
                 
-    * * * [About usMeet the Copyleaks leadership team and learn about who we are.](https://copyleaks.com/about-us)
+    * * * [About usMeet the Copyleaks leadership team and learn about who we are, our mission and history.](https://copyleaks.com/about-us)
         * * [News & MediaThe go-to spot for recent Copyleaks announcements, updates, news, and other media features.](https://copyleaks.com/about-us/media)
         * * [Help CenterGet the support you need regarding integration, platforms, dashboards, and more.](https://help.copyleaks.com/)
-        * * [![Copyleaks AI Content Detector at the top of the Studies' Research](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20300'%3E%3C/svg%3E)
+        * * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%20628'%3E%3C/svg%3E)
+                
+                ![](https://copyleaks.com/wp-content/uploads/2024/06/Featured-Image-2.webp)](https://copyleaks.com/blog/establishing-ai-policies-in-education-a-copyleaks-guide)
+                
+                [Establishing AI Policies in Education: A Copyleaks Guide](https://copyleaks.com/blog/establishing-ai-policies-in-education-a-copyleaks-guide)
+                
+                [![Copyleaks AI Content Detector at the top of the Studies' Research](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20300'%3E%3C/svg%3E)
                 
                 ![Copyleaks AI Content Detector at the top of the Studies' Research](https://copyleaks.com/wp-content/uploads/2024/05/Hero_Third_Party_Studies_Blog-qefwvda4ovg5nlirt4etv4xjf44iho5amm0edi97eg-1.png)](https://copyleaks.com/blog/ai-detector-continues-top-accuracy-third-party)
                 
-                [AI Content Detector Continues To Be Confirmed As Most Accurate By Third-Party Studies](https://copyleaks.com/blog/ai-detector-continues-top-accuracy-third-party)
-                
-                [![Featured Image pen](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20300'%3E%3C/svg%3E)
-                
-                ![Featured Image pen](https://copyleaks.com/wp-content/uploads/2024/05/writing-tools.png)](https://copyleaks.com/blog/do-writing-assistants-get-flagged-as-ai)
-                
-                [Beyond The Red Pen: Writing Tools & GenAI](https://copyleaks.com/blog/do-writing-assistants-get-flagged-as-ai)
+                [AI Detector Continues To Be Confirmed As Most Accurate By Third-Party Studies](https://copyleaks.com/blog/ai-detector-continues-top-accuracy-third-party)
                 
     * * * #### Learn
                 
-    * * * [Case StudiesLearn how Copyleaks has helped various industries identify plagiarism, safeguard content, ensure originality, and find solutions.](https://copyleaks.com/case-studies)
+    * * * [Success StoriesLearn how Copyleaks has helped clients successfully safeguard content, ensure originality, and adopt AI in a responsible manner.](https://copyleaks.com/case-studies)
         * * [TestimonialsEach day, some of the world’s largest businesses, educational institutes, and millions of individuals trust Copyleaks.](https://copyleaks.com/testimonials)
         * * [The Original Source PodcastCopyleaks COO, Shouvik Paul, speaks with leading industry experts on the latest in AI, EdTech, plagiarism, and more.](https://copyleaks.com/the-original-source-podcast)
         * * [BlogYour resource for learning about the best plagiarism practices, latest findings, and more.](https://copyleaks.com/blog)
@@ -135,7 +135,7 @@
     Portuguese](https://copyleaks.com/pt/termsofuse/ "Portuguese")
     
 
-[Home](https://copyleaks.com/tr/) 〉 **Terms of Use**
+[Home](https://copyleaks.com/) 〉 **Terms of Use**
 
 Terms of Use
 ============
@@ -350,9 +350,9 @@ Integrations
 
 [LMS Integration](https://copyleaks.com/learning-management-systems)
 
-[AI Content Detector API](https://copyleaks.com/ai-content-detector-api)
+[AI Detector API](https://copyleaks.com/ai-content-detector-api)
 
-[AI Content Detector Extension](https://copyleaks.com/ai-content-detector/extension)
+[AI Detector Extension](https://copyleaks.com/ai-content-detector/extension)
 
 [Plagiarism Detector API](https://copyleaks.com/plagiarism-checker-api)
 
@@ -380,7 +380,7 @@ Resources
 
 [Blog](https://copyleaks.com/blog)
 
-[Case Studies](https://copyleaks.com/case-studies)
+[Success Stories](https://copyleaks.com/case-studies)
 
 [Plagiarism Resources](https://copyleaks.com/plagiarism-resources)
 
