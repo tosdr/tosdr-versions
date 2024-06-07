@@ -132,4 +132,4 @@ De nummer 1 datingsite vergelijker!
 * [Contact](https://welkeonlinedatingsite.nl/contact/)
 * [Sitemap](https://welkeonlinedatingsite.nl/sitemap/)
 
-![Cleantalk Pixel](https://moderate10-v4.cleantalk.org/pixel/8d2a7769baa707e47726b02a62000326.gif "Cleantalk Pixel")       ---
+![Cleantalk Pixel](https://moderate3-v4.cleantalk.org/pixel/7c4a04690bf8e962a7f1ead23af4d2c1.gif "Cleantalk Pixel")       ---
