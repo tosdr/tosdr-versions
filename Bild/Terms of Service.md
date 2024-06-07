@@ -192,28 +192,6 @@ Menü
     ===
     
 
-[BreakingNews
-
-EZB senkt Leitzinsen um 0,25 Prozentpunkte
-
-EZB senkt Leitzinsen um 0,25 Prozentpunkte
-
-EZB senkt Leitzinsen um 0,25 Prozentpunkte
-
-EZB senkt Leitzinsen um 0,25 Prozentpunkte
-
-EZB senkt Leitzinsen um 0,25 Prozentpunkte
-
-EZB senkt Leitzinsen um 0,25 Prozentpunkte
-
-EZB senkt Leitzinsen um 0,25 Prozentpunkte
-
-EZB senkt Leitzinsen um 0,25 Prozentpunkte
-
-EZB senkt Leitzinsen um 0,25 Prozentpunkte
-
-EZB senkt Leitzinsen um 0,25 Prozentpunkte](https://www.bild.de/geld/wirtschaft/im-euroraum-ezb-senkt-leitzinsen-um-0-25-prozentpunkte-6661a8a0502d24588f50f923)
-
 ![](https://bild.met.vgwort.de/na/vgzm.2150080-5d2dc01ff1d2cd00016421a8)
 
  AGB: Nutzungsbedingungen für die digitalen Angebote von BILD
