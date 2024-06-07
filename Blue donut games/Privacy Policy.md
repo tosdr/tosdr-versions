@@ -335,7 +335,7 @@ We take your privacy as seriously as we do our own. Here are a few points to con
 
 * [About Blue Donut Games](https://www.bdgame.uk/about-the-company/)
 * [Privacy Policy](https://www.bdgame.uk/privacy-policy/)
-* [Terms and Conditions](https://www.bdgame.uk/terms-and-conditions/)
+* [Terms and Conditions of Sale](https://www.bdgame.uk/terms-and-conditions/)
 * [Cookie Policy](https://www.bdgame.uk/cookie-policy/)
 
 © Copyright 2024 | Blue Donut Studios & Blue Donut Games Ltd. | Co. Reg: 13340157
