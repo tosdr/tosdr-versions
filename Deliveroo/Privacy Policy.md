@@ -146,7 +146,7 @@ From team lunches to meal allowances for your late night workers, we've got your
 
 [Get started](https://deliveroo.co.uk/for-work)
 
-![Gift Cards](https://a.storyblok.com/f/62776/1280x853/60c301dc8a/giftcardhero.png)
+![Gift Cards](https://a.storyblok.com/f/62776/1280x853/54fefe14f7/giftcardhero.jpg)
 
 Gift Cards
 ----------
@@ -222,4 +222,4 @@ Looking for an easy way to treat your friends and family? Give the gift of great
 
 © 2024 Deliveroo
 
-![](/anonymous_user_guid.gif?guid=fd678752-b5fc-4ef7-ac34-06ec0e1cd2bc)
+![](/anonymous_user_guid.gif?guid=0f6b6e39-9163-41ec-b48f-45bef27bd6cb)
