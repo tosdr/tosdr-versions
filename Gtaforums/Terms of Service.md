@@ -4,7 +4,7 @@
 
 GTAFORUMS
 
-THERE GOES MY BURRITO!](https://gtaforums.com/)
+ARE WE GONNA STOP FOR ICE CREAM?](https://gtaforums.com/)
 
 * [](#)
 
@@ -80,4 +80,4 @@ Important Information
 
 By using GTAForums.com, you agree to our [Terms of Use](https://gtaforums.com/terms/) and [Privacy Policy](https://gtaforums.com/gtanet/privacy).
 
-  [I accept](https://gtaforums.com/index.php?app=core&module=system&controller=terms&do=dismiss&ref=aHR0cHM6Ly9ndGFmb3J1bXMuY29tL3Rlcm1zLw==&csrfKey=e296ed007017647631eb73a30b42229c)
+  [I accept](https://gtaforums.com/index.php?app=core&module=system&controller=terms&do=dismiss&ref=aHR0cHM6Ly9ndGFmb3J1bXMuY29tL3Rlcm1zLw==&csrfKey=985ef69f827ab78f8aacbace2528e47e)
