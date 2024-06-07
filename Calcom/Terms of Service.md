@@ -327,10 +327,17 @@ English
 
 * Use Cases
 * [Recruiting](https://cal.com/resources/usecases/recruiting)
-* [Sales Team](https://cal.com/resources/usecases/sales-team)
+* [sales](https://cal.com/scheduling/sales-teams)
 * [Education](https://cal.com/resources/usecases/education)
 * [Hiring Marketplace](https://cal.com/resources/usecases/hiring-marketplace)
+* [Talent Acquisition](https://cal.com/scheduling/talent-acquisition-teams)
+* [Human Resources](https://cal.com/scheduling/people-operations)
+* [Law](https://cal.com/scheduling/law)
+* [Customer Support](https://cal.com/scheduling/customer-support)
+* [Professional Services](https://cal.com/scheduling/professional-services)
 * [Telehealth](https://cal.com/resources/usecases/telehealth)
+* [C-suite](https://cal.com/scheduling/c-suite)
+* [Higher Education](https://cal.com/scheduling/higher-education)
 
 * resources
 * [Blog](https://cal.com/blog)
