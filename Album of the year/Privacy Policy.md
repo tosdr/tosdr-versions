@@ -107,13 +107,13 @@ Submarine](https://www.albumoftheyear.org/album/882149-the-marias-submarine.php)
 
 NR
 
-[ARTMS](https://www.albumoftheyear.org/album/783921-artms-dall.php)
-
-NR
-
 [Snowd4y
 
 Wah Gwan Delilah](https://www.albumoftheyear.org/album/976227-snowd4y-wah-gwan-delilah.php)
+
+NR
+
+[ARTMS](https://www.albumoftheyear.org/album/783921-artms-dall.php)
 
 86
 
@@ -133,6 +133,8 @@ Night Reign](https://www.albumoftheyear.org/album/928256-arooj-aftab-night-reign
 
 [![Mdou Moctar - Funeral For Justice](https://cdn.albumoftheyear.org/images/clear.gif)](https://www.albumoftheyear.org/album/888230-mdou-moctar-funeral-for-justice.php "Mdou Moctar - Funeral For Justice")
 
+[![Charli XCX - BRAT](https://cdn.albumoftheyear.org/images/clear.gif)](https://www.albumoftheyear.org/album/887267-charli-xcx-brat.php "Charli XCX - BRAT")
+
 [![English Teacher - This Could Be Texas](https://cdn.albumoftheyear.org/images/clear.gif)](https://www.albumoftheyear.org/album/850250-english-teacher-this-could-be-texas.php "English Teacher - This Could Be Texas")
 
 [![Jessica Pratt - Here in the Pitch](https://cdn.albumoftheyear.org/images/clear.gif)](https://www.albumoftheyear.org/album/874771-jessica-pratt-here-in-the-pitch.php "Jessica Pratt - Here in the Pitch")
@@ -142,8 +144,6 @@ Night Reign](https://www.albumoftheyear.org/album/928256-arooj-aftab-night-reign
 [![Beth Gibbons - Lives Outgrown](https://cdn.albumoftheyear.org/images/clear.gif)](https://www.albumoftheyear.org/album/863906-beth-gibbons-lives-outgrown.php "Beth Gibbons - Lives Outgrown")
 
 [![Billie Eilish - HIT ME HARD AND SOFT](https://cdn.albumoftheyear.org/images/clear.gif)](https://www.albumoftheyear.org/album/924853-billie-eilish-hit-me-hard-and-soft.php "Billie Eilish - HIT ME HARD AND SOFT")
-
-[![Shellac - To All Trains](https://cdn.albumoftheyear.org/images/clear.gif)](https://www.albumoftheyear.org/album/907210-shellac-to-all-trains.php "Shellac - To All Trains")
 
 Advertisement
 
