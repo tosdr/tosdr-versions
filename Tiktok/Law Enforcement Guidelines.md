@@ -268,6 +268,4 @@ If law enforcement has received a Cybertip report made by TikTok to NCMEC, and i
 
 [TikTok Law Enforcement Guidelines](https://www.tiktok.com/legal/law-enforcement?lang=en)
 
-[Modern Slavery and Human Trafficking Statement](https://www.tiktok.com/legal/modern-slavery-statement?lang=en)
-
 © 2024 TikTok
