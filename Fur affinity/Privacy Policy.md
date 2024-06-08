@@ -78,6 +78,9 @@ Support ▼
     [Create an Account](https://www.furaffinity.net/register)
     
 
+**News:**  
+[June 7, 2024: Scammer Safety Reminder](https://www.furaffinity.net/journal/10882268)
+
 [![](/themes/beta/img/banners/logo/fa-banner-spring.jpg)](https://www.furaffinity.net/)
 
 Fur Affinity | Privacy Policy
@@ -240,13 +243,13 @@ Our computer systems and third party hosting provider systems are currently base
 
 ![](/themes/beta/img/banners/fa_logo.png?v2)
 
-48618 **Users online** — 1603 **guests**, 10819 **registered** and 36196 **other**
+62797 **Users online** — 2014 **guests**, 12081 **registered** and 48702 **other**
 
 Limit bot activity to periods with less than 10k registered users online.  
   
 **© 2005-2024 Frost Dragon Art LLC**
 
-Server Time: Jun 7, 2024 12:14 AM
+Server Time: Jun 7, 2024 11:25 PM
 
 This website uses cookies to enhance your browsing experience. [Learn More](https://www.furaffinity.net/privacy)
 
