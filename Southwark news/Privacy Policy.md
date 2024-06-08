@@ -1,4 +1,4 @@
-                  
+                     
 
 * [View Digital Editions](https://issuu.com/communitymattersmedia)
 * [Newsletter Sign Up](https://southwarknews.co.uk/newsletter/)
@@ -19,6 +19,26 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Stock Aitken Waterman (pictured) were this year's winners.](https://southwarknews.co.uk/wp-content/uploads/2024/06/1708711985682-e1717684829787-360x180.jpg)](https://southwarknews.co.uk/news/why-we-started-our-own-blue-plaque-scheme-for-southwark/)
+    
+    ### [Why we started our own Blue Plaque scheme for Southwark](https://southwarknews.co.uk/news/why-we-started-our-own-blue-plaque-scheme-for-southwark/)
+    
+    [![Beenie Man performs at City Splash Festival 2024. Credit: Crudshotss](https://southwarknews.co.uk/wp-content/uploads/2024/06/Beenie-Man-City-Splash-Festival-May-24-2024-Screen-34-2@crudshots-360x180.jpeg)](https://southwarknews.co.uk/news/opinion/city-splash-festival-2024-review-love-peace-and-unity-shines-on-brixton/)
+    
+    ### [City Splash Festival 2024 Review: Love, peace and unity shines on Brixton](https://southwarknews.co.uk/news/opinion/city-splash-festival-2024-review-love-peace-and-unity-shines-on-brixton/)
+    
+    [![Toby Oladokun, owner of Plantain Kitchen.](https://southwarknews.co.uk/wp-content/uploads/2024/06/IMG_2525-360x180.jpeg)](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-food-trader-is-doing-great-since-moving-from-a-building-to-a-van/)
+    
+    ### [Rotherhithe food trader is doing ‘great’ since moving from a building to a van](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-food-trader-is-doing-great-since-moving-from-a-building-to-a-van/)
+    
+    [![Shaun Bailey AM. Credit - London Assembly](https://southwarknews.co.uk/wp-content/uploads/2024/06/Shaun-Bailey-AM.-Credit-London-Assembly-360x180.jpg)](https://southwarknews.co.uk/area/london/londons-green-belt-must-be-opened-up-to-allow-home-building-politicians-were-warned-at-a-summit/)
+    
+    ### [London’s green belt must be opened up to allow home-building, politicians were warned at a summit](https://southwarknews.co.uk/area/london/londons-green-belt-must-be-opened-up-to-allow-home-building-politicians-were-warned-at-a-summit/)
+    
+    [![Sophie V (right) with fellow naked bike riders at London's World Naked Bike Ride. Credit: Sophie V](https://southwarknews.co.uk/wp-content/uploads/2024/06/unnamed-1-360x180.jpeg)](https://southwarknews.co.uk/area/south-bank/the-most-eye-opening-experience-of-my-life-why-naked-people-are-cycling-through-south-london/)
+    
+    ### [‘The most eye-opening experience of my life’: Why naked people are cycling through south London](https://southwarknews.co.uk/area/south-bank/the-most-eye-opening-experience-of-my-life-why-naked-people-are-cycling-through-south-london/)
+    
     [![Nudists cycle through London for World Naked Bike Ride every year. Credit: WNBR](https://southwarknews.co.uk/wp-content/uploads/2024/06/Nudists-cycle-through-London-for-World-Naked-Bike-Ride-every-year.-Credit-WNBR-360x180.jpeg)](https://southwarknews.co.uk/area/south-bank/nude-cyclists-to-pedal-through-the-south-bank-this-weekend/)
     
     ### [Nude cyclists to pedal through the South Bank this weekend](https://southwarknews.co.uk/area/south-bank/nude-cyclists-to-pedal-through-the-south-bank-this-weekend/)
@@ -34,27 +54,6 @@
     [![Olive Bailey, who now lives in Kent, was a student at English Martyrs RC Primary School, back when it was known as Flint Street School. ](https://southwarknews.co.uk/wp-content/uploads/2024/06/1000016910-scaled-e1717577831915-360x180.jpg)](https://southwarknews.co.uk/area/walworth/99-year-old-woman-returns-to-walworth-primary-school-she-attended-in-the-1920s/)
     
     ### [99-year-old woman returns to Walworth primary school she attended in the 1920s](https://southwarknews.co.uk/area/walworth/99-year-old-woman-returns-to-walworth-primary-school-she-attended-in-the-1920s/)
-    
-    [![Locals saw an air ambulance land in Southwark Park](https://southwarknews.co.uk/wp-content/uploads/2024/06/PHOTO-2024-06-05-12-50-03-e1717663731998-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-man-arrested-after-stabbing/)
-    
-    ### [Rotherhithe: Man arrested after stabbing](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-man-arrested-after-stabbing/)
-    
-    [![James Henderson (provided by Neil Henderson, his great-grandson); 
-    Vase With Sulphide Of Napoleon I, Falcon Glassworks of Apsley Pellatt & Co., 1820-1830; Francis Rossi OBE (Stefan Brending); Brian Catling, Portrait of Brian Catling as Candleye (David Tolley); William Pullum (Nicky Hughes); Zdenka Pokorná (right) with friend Marian Werner (The Three Lives of a Czech Yogi… and Beyond by Karel Werner); Stock Aitken Waterman; Ensign John Davis (Peter Collins).](https://southwarknews.co.uk/wp-content/uploads/2024/05/Image-23-05-2024-at-10.32-360x180.jpg)](https://southwarknews.co.uk/area/borough/the-winner-of-the-southwark-blue-plaque-scheme-2024-is-revealed/)
-    
-    ### [The winner of the Southwark Blue Plaque scheme 2024 is revealed](https://southwarknews.co.uk/area/borough/the-winner-of-the-southwark-blue-plaque-scheme-2024-is-revealed/)
-    
-    [![Brunswick House sits in a secluded patch next to Myatt's Field Park. (Photo from 2019. Image: Google Maps)](https://southwarknews.co.uk/wp-content/uploads/2024/06/Brunswick-House-sits-in-a-secluded-patch-next-to-Myatts-Field-Park.-Photo-from-2019.-Image-Google-Maps-360x180.png)](https://southwarknews.co.uk/area/camberwell/dreamy-camberwell-house-with-twelve-bedrooms-and-spiral-staircase-goes-on-sale-for-4-25-million/)
-    
-    ### [‘Dreamy’ Camberwell house with twelve bedrooms and spiral staircase goes on sale for £4.25 million](https://southwarknews.co.uk/area/camberwell/dreamy-camberwell-house-with-twelve-bedrooms-and-spiral-staircase-goes-on-sale-for-4-25-million/)
-    
-    [![Santander Cycles.](https://southwarknews.co.uk/wp-content/uploads/2024/06/Image-05-06-2024-at-16.14-360x180.jpg)](https://southwarknews.co.uk/area/around-south-east-london/tfl-is-offering-free-santander-e-bike-rides-every-sunday-in-june/)
-    
-    ### [TfL is offering free Santander e-bike rides every Sunday in June](https://southwarknews.co.uk/area/around-south-east-london/tfl-is-offering-free-santander-e-bike-rides-every-sunday-in-june/)
-    
-    [![Voi operates e-scooters in more than 100 towns and cities across Europe. Photo from Voi](https://southwarknews.co.uk/wp-content/uploads/2024/06/Voi-operates-e-scooters-in-more-than-100-towns-and-cities-across-Europe.-Photo-from-Voi-360x180.jpg)](https://southwarknews.co.uk/area/south-london/e-scooter-firm-warns-mayor-of-london-it-could-be-forced-to-withdraw-from-london-streets/)
-    
-    ### [E-scooter firm warns Mayor of London it could be forced to withdraw from London streets](https://southwarknews.co.uk/area/south-london/e-scooter-firm-warns-mayor-of-london-it-could-be-forced-to-withdraw-from-london-streets/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -96,6 +95,26 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Stock Aitken Waterman (pictured) were this year's winners.](https://southwarknews.co.uk/wp-content/uploads/2024/06/1708711985682-e1717684829787-360x180.jpg)](https://southwarknews.co.uk/news/why-we-started-our-own-blue-plaque-scheme-for-southwark/)
+    
+    ### [Why we started our own Blue Plaque scheme for Southwark](https://southwarknews.co.uk/news/why-we-started-our-own-blue-plaque-scheme-for-southwark/)
+    
+    [![Beenie Man performs at City Splash Festival 2024. Credit: Crudshotss](https://southwarknews.co.uk/wp-content/uploads/2024/06/Beenie-Man-City-Splash-Festival-May-24-2024-Screen-34-2@crudshots-360x180.jpeg)](https://southwarknews.co.uk/news/opinion/city-splash-festival-2024-review-love-peace-and-unity-shines-on-brixton/)
+    
+    ### [City Splash Festival 2024 Review: Love, peace and unity shines on Brixton](https://southwarknews.co.uk/news/opinion/city-splash-festival-2024-review-love-peace-and-unity-shines-on-brixton/)
+    
+    [![Toby Oladokun, owner of Plantain Kitchen.](https://southwarknews.co.uk/wp-content/uploads/2024/06/IMG_2525-360x180.jpeg)](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-food-trader-is-doing-great-since-moving-from-a-building-to-a-van/)
+    
+    ### [Rotherhithe food trader is doing ‘great’ since moving from a building to a van](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-food-trader-is-doing-great-since-moving-from-a-building-to-a-van/)
+    
+    [![Shaun Bailey AM. Credit - London Assembly](https://southwarknews.co.uk/wp-content/uploads/2024/06/Shaun-Bailey-AM.-Credit-London-Assembly-360x180.jpg)](https://southwarknews.co.uk/area/london/londons-green-belt-must-be-opened-up-to-allow-home-building-politicians-were-warned-at-a-summit/)
+    
+    ### [London’s green belt must be opened up to allow home-building, politicians were warned at a summit](https://southwarknews.co.uk/area/london/londons-green-belt-must-be-opened-up-to-allow-home-building-politicians-were-warned-at-a-summit/)
+    
+    [![Sophie V (right) with fellow naked bike riders at London's World Naked Bike Ride. Credit: Sophie V](https://southwarknews.co.uk/wp-content/uploads/2024/06/unnamed-1-360x180.jpeg)](https://southwarknews.co.uk/area/south-bank/the-most-eye-opening-experience-of-my-life-why-naked-people-are-cycling-through-south-london/)
+    
+    ### [‘The most eye-opening experience of my life’: Why naked people are cycling through south London](https://southwarknews.co.uk/area/south-bank/the-most-eye-opening-experience-of-my-life-why-naked-people-are-cycling-through-south-london/)
+    
     [![Nudists cycle through London for World Naked Bike Ride every year. Credit: WNBR](https://southwarknews.co.uk/wp-content/uploads/2024/06/Nudists-cycle-through-London-for-World-Naked-Bike-Ride-every-year.-Credit-WNBR-360x180.jpeg)](https://southwarknews.co.uk/area/south-bank/nude-cyclists-to-pedal-through-the-south-bank-this-weekend/)
     
     ### [Nude cyclists to pedal through the South Bank this weekend](https://southwarknews.co.uk/area/south-bank/nude-cyclists-to-pedal-through-the-south-bank-this-weekend/)
@@ -111,27 +130,6 @@ View All Result
     [![Olive Bailey, who now lives in Kent, was a student at English Martyrs RC Primary School, back when it was known as Flint Street School. ](https://southwarknews.co.uk/wp-content/uploads/2024/06/1000016910-scaled-e1717577831915-360x180.jpg)](https://southwarknews.co.uk/area/walworth/99-year-old-woman-returns-to-walworth-primary-school-she-attended-in-the-1920s/)
     
     ### [99-year-old woman returns to Walworth primary school she attended in the 1920s](https://southwarknews.co.uk/area/walworth/99-year-old-woman-returns-to-walworth-primary-school-she-attended-in-the-1920s/)
-    
-    [![Locals saw an air ambulance land in Southwark Park](https://southwarknews.co.uk/wp-content/uploads/2024/06/PHOTO-2024-06-05-12-50-03-e1717663731998-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-man-arrested-after-stabbing/)
-    
-    ### [Rotherhithe: Man arrested after stabbing](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-man-arrested-after-stabbing/)
-    
-    [![James Henderson (provided by Neil Henderson, his great-grandson); 
-    Vase With Sulphide Of Napoleon I, Falcon Glassworks of Apsley Pellatt & Co., 1820-1830; Francis Rossi OBE (Stefan Brending); Brian Catling, Portrait of Brian Catling as Candleye (David Tolley); William Pullum (Nicky Hughes); Zdenka Pokorná (right) with friend Marian Werner (The Three Lives of a Czech Yogi… and Beyond by Karel Werner); Stock Aitken Waterman; Ensign John Davis (Peter Collins).](https://southwarknews.co.uk/wp-content/uploads/2024/05/Image-23-05-2024-at-10.32-360x180.jpg)](https://southwarknews.co.uk/area/borough/the-winner-of-the-southwark-blue-plaque-scheme-2024-is-revealed/)
-    
-    ### [The winner of the Southwark Blue Plaque scheme 2024 is revealed](https://southwarknews.co.uk/area/borough/the-winner-of-the-southwark-blue-plaque-scheme-2024-is-revealed/)
-    
-    [![Brunswick House sits in a secluded patch next to Myatt's Field Park. (Photo from 2019. Image: Google Maps)](https://southwarknews.co.uk/wp-content/uploads/2024/06/Brunswick-House-sits-in-a-secluded-patch-next-to-Myatts-Field-Park.-Photo-from-2019.-Image-Google-Maps-360x180.png)](https://southwarknews.co.uk/area/camberwell/dreamy-camberwell-house-with-twelve-bedrooms-and-spiral-staircase-goes-on-sale-for-4-25-million/)
-    
-    ### [‘Dreamy’ Camberwell house with twelve bedrooms and spiral staircase goes on sale for £4.25 million](https://southwarknews.co.uk/area/camberwell/dreamy-camberwell-house-with-twelve-bedrooms-and-spiral-staircase-goes-on-sale-for-4-25-million/)
-    
-    [![Santander Cycles.](https://southwarknews.co.uk/wp-content/uploads/2024/06/Image-05-06-2024-at-16.14-360x180.jpg)](https://southwarknews.co.uk/area/around-south-east-london/tfl-is-offering-free-santander-e-bike-rides-every-sunday-in-june/)
-    
-    ### [TfL is offering free Santander e-bike rides every Sunday in June](https://southwarknews.co.uk/area/around-south-east-london/tfl-is-offering-free-santander-e-bike-rides-every-sunday-in-june/)
-    
-    [![Voi operates e-scooters in more than 100 towns and cities across Europe. Photo from Voi](https://southwarknews.co.uk/wp-content/uploads/2024/06/Voi-operates-e-scooters-in-more-than-100-towns-and-cities-across-Europe.-Photo-from-Voi-360x180.jpg)](https://southwarknews.co.uk/area/south-london/e-scooter-firm-warns-mayor-of-london-it-could-be-forced-to-withdraw-from-london-streets/)
-    
-    ### [E-scooter firm warns Mayor of London it could be forced to withdraw from London streets](https://southwarknews.co.uk/area/south-london/e-scooter-firm-warns-mayor-of-london-it-could-be-forced-to-withdraw-from-london-streets/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -329,11 +327,11 @@ Website
 
 ### Popular Articles
 
-[![The developer says it doesn't have enough money to finish the ground floor of the building on Bombay Street, Bermondsey. Photo from Southwark Council planning documents](https://southwarknews.co.uk/wp-content/uploads/2024/05/The-developer-says-it-doesnt-have-enough-money-to-finish-the-ground-floor-of-the-building-on-Bombay-Street-Bermondsey.-Photo-from-Southwark-Council-planning-documents-120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/developer-wants-to-scrap-all-affordable-housing-in-an-unfinished-bermondsey-block/)
+[![A cordon remains in place on Southwark Street.](https://southwarknews.co.uk/wp-content/uploads/2024/06/southwark-street-gas-leak-120x86.jpg)](https://southwarknews.co.uk/area/southwark/2000-people-evacuated-after-gas-leak-on-southwark-street/)
 
-### [Developer wants to scrap all affordable housing in an unfinished Bermondsey block](https://southwarknews.co.uk/area/bermondsey/developer-wants-to-scrap-all-affordable-housing-in-an-unfinished-bermondsey-block/) 
+### [2,000 people evacuated after ‘gas leak’ on Southwark Street](https://southwarknews.co.uk/area/southwark/2000-people-evacuated-after-gas-leak-on-southwark-street/)
 
-[1st June 2024](https://southwarknews.co.uk/area/bermondsey/developer-wants-to-scrap-all-affordable-housing-in-an-unfinished-bermondsey-block/)
+[5th June 2024](https://southwarknews.co.uk/area/southwark/2000-people-evacuated-after-gas-leak-on-southwark-street/)
 
 [![Brunswick House sits in a secluded patch next to Myatt's Field Park. (Photo from 2019. Image: Google Maps)](https://southwarknews.co.uk/wp-content/uploads/2024/06/Brunswick-House-sits-in-a-secluded-patch-next-to-Myatts-Field-Park.-Photo-from-2019.-Image-Google-Maps-120x86.png)](https://southwarknews.co.uk/area/camberwell/dreamy-camberwell-house-with-twelve-bedrooms-and-spiral-staircase-goes-on-sale-for-4-25-million/)
 
@@ -341,11 +339,11 @@ Website
 
 [6th June 2024](https://southwarknews.co.uk/area/camberwell/dreamy-camberwell-house-with-twelve-bedrooms-and-spiral-staircase-goes-on-sale-for-4-25-million/)
 
-[![A cordon remains in place on Southwark Street.](https://southwarknews.co.uk/wp-content/uploads/2024/06/southwark-street-gas-leak-120x86.jpg)](https://southwarknews.co.uk/area/southwark/2000-people-evacuated-after-gas-leak-on-southwark-street/)
+[![The developer says it doesn't have enough money to finish the ground floor of the building on Bombay Street, Bermondsey. Photo from Southwark Council planning documents](https://southwarknews.co.uk/wp-content/uploads/2024/05/The-developer-says-it-doesnt-have-enough-money-to-finish-the-ground-floor-of-the-building-on-Bombay-Street-Bermondsey.-Photo-from-Southwark-Council-planning-documents-120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/developer-wants-to-scrap-all-affordable-housing-in-an-unfinished-bermondsey-block/)
 
-### [2,000 people evacuated after ‘gas leak’ on Southwark Street](https://southwarknews.co.uk/area/southwark/2000-people-evacuated-after-gas-leak-on-southwark-street/)
+### [Developer wants to scrap all affordable housing in an unfinished Bermondsey block](https://southwarknews.co.uk/area/bermondsey/developer-wants-to-scrap-all-affordable-housing-in-an-unfinished-bermondsey-block/) 
 
-[5th June 2024](https://southwarknews.co.uk/area/southwark/2000-people-evacuated-after-gas-leak-on-southwark-street/)
+[1st June 2024](https://southwarknews.co.uk/area/bermondsey/developer-wants-to-scrap-all-affordable-housing-in-an-unfinished-bermondsey-block/)
 
 [![Arch St, Elephant and Castle, first built in 2011, was one of the Heygate replacement housing sites. (Google)](https://southwarknews.co.uk/wp-content/uploads/2023/04/image-2-e1717495324122-120x86.jpeg)](https://southwarknews.co.uk/area/elephant-and-castle/fifty-two-homes-in-elephant-and-castle-could-be-empty-for-two-more-years/)
 
@@ -353,19 +351,37 @@ Website
 
 [5th June 2024](https://southwarknews.co.uk/area/elephant-and-castle/fifty-two-homes-in-elephant-and-castle-could-be-empty-for-two-more-years/)
 
+[![Some new council homes due for completion this Autumn, Rennie Estate, South Bermondsey](https://southwarknews.co.uk/wp-content/uploads/2024/06/Image-05-06-2024-at-15.33-120x86.jpg)](https://southwarknews.co.uk/featured/exclusive-no-homes-to-bid-on-in-southwark-for-up-to-2-months-with-hundreds-vying-for-one-property/)
+
+### [Exclusive: ‘No homes’ to bid on in Southwark for ‘up to 2 months’ with hundreds vying for one property](https://southwarknews.co.uk/featured/exclusive-no-homes-to-bid-on-in-southwark-for-up-to-2-months-with-hundreds-vying-for-one-property/)
+
+[7th June 2024](https://southwarknews.co.uk/featured/exclusive-no-homes-to-bid-on-in-southwark-for-up-to-2-months-with-hundreds-vying-for-one-property/)
+
 [![Japhet Tanganga caused The Den to erupt when he headed home in the 90th minute to give Millwall a 1-0 lead over Birmingham. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/03/BAT_2350-2024-03-09T16_53_56.678-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/millwall-defensive-transfer-target-joins-england-international-in-leaving-spurs-as-free-agent/)
 
 ### [Millwall defensive transfer target joins England international in leaving Spurs as free agent](https://southwarknews.co.uk/sport/football/millwall/millwall-defensive-transfer-target-joins-england-international-in-leaving-spurs-as-free-agent/)
 
 [5th June 2024](https://southwarknews.co.uk/sport/football/millwall/millwall-defensive-transfer-target-joins-england-international-in-leaving-spurs-as-free-agent/)
 
-[![The players will be back together to resume training three weeks from today](https://southwarknews.co.uk/wp-content/uploads/2024/06/BAT_6585-2024-04-09T21_48_19.626-120x86.jpg)](https://southwarknews.co.uk/sport/football/lions-line-up-european-training-camp/)
-
-### [Lions line up European training camp](https://southwarknews.co.uk/sport/football/lions-line-up-european-training-camp/)
-
-[5th June 2024](https://southwarknews.co.uk/sport/football/lions-line-up-european-training-camp/)
-
 ### Featured Articles
+
+[![One of the bus lanes in Southwark (Camberwell Road Junction Boundary Lane)](https://southwarknews.co.uk/wp-content/uploads/2024/06/Image-05-06-2024-at-11.35-120x86.jpg)](https://southwarknews.co.uk/area/southwark/all-the-bus-lanes-in-southwark-to-watch-out-for-as-council-issues-over-1-1million-in-fines/)
+
+### [All the bus lanes in Southwark to watch out for as council issues over £1.1million in fines](https://southwarknews.co.uk/area/southwark/all-the-bus-lanes-in-southwark-to-watch-out-for-as-council-issues-over-1-1million-in-fines/)
+
+[8th June 2024](https://southwarknews.co.uk/area/southwark/all-the-bus-lanes-in-southwark-to-watch-out-for-as-council-issues-over-1-1million-in-fines/)
+
+[![Toby Oladokun, owner of Plantain Kitchen.](https://southwarknews.co.uk/wp-content/uploads/2024/06/IMG_2525-120x86.jpeg)](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-food-trader-is-doing-great-since-moving-from-a-building-to-a-van/)
+
+### [Rotherhithe food trader is doing ‘great’ since moving from a building to a van](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-food-trader-is-doing-great-since-moving-from-a-building-to-a-van/)
+
+[8th June 2024](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-food-trader-is-doing-great-since-moving-from-a-building-to-a-van/)
+
+[![Sophie V (right) with fellow naked bike riders at London's World Naked Bike Ride. Credit: Sophie V](https://southwarknews.co.uk/wp-content/uploads/2024/06/unnamed-1-120x86.jpeg)](https://southwarknews.co.uk/area/south-bank/the-most-eye-opening-experience-of-my-life-why-naked-people-are-cycling-through-south-london/)
+
+### [‘The most eye-opening experience of my life’: Why naked people are cycling through south London](https://southwarknews.co.uk/area/south-bank/the-most-eye-opening-experience-of-my-life-why-naked-people-are-cycling-through-south-london/)
+
+[8th June 2024](https://southwarknews.co.uk/area/south-bank/the-most-eye-opening-experience-of-my-life-why-naked-people-are-cycling-through-south-london/)
 
 [![Nudists cycle through London for World Naked Bike Ride every year. Credit: WNBR](https://southwarknews.co.uk/wp-content/uploads/2024/06/Nudists-cycle-through-London-for-World-Naked-Bike-Ride-every-year.-Credit-WNBR-120x86.jpeg)](https://southwarknews.co.uk/area/south-bank/nude-cyclists-to-pedal-through-the-south-bank-this-weekend/)
 
@@ -384,25 +400,6 @@ Website
 ### [Exclusive: ‘No homes’ to bid on in Southwark for ‘up to 2 months’ with hundreds vying for one property](https://southwarknews.co.uk/featured/exclusive-no-homes-to-bid-on-in-southwark-for-up-to-2-months-with-hundreds-vying-for-one-property/)
 
 [7th June 2024](https://southwarknews.co.uk/featured/exclusive-no-homes-to-bid-on-in-southwark-for-up-to-2-months-with-hundreds-vying-for-one-property/)
-
-[![Olive Bailey, who now lives in Kent, was a student at English Martyrs RC Primary School, back when it was known as Flint Street School. ](https://southwarknews.co.uk/wp-content/uploads/2024/06/1000016910-scaled-e1717577831915-120x86.jpg)](https://southwarknews.co.uk/area/walworth/99-year-old-woman-returns-to-walworth-primary-school-she-attended-in-the-1920s/)
-
-### [99-year-old woman returns to Walworth primary school she attended in the 1920s](https://southwarknews.co.uk/area/walworth/99-year-old-woman-returns-to-walworth-primary-school-she-attended-in-the-1920s/)
-
-[7th June 2024](https://southwarknews.co.uk/area/walworth/99-year-old-woman-returns-to-walworth-primary-school-she-attended-in-the-1920s/)
-
-[![Pamela and her grandaughter at the grave of Thomas Bishop and the five other children killed in 1942. Credit: Pamela Bishop](https://southwarknews.co.uk/wp-content/uploads/2024/06/Pamela-and-her-grandaughter-at-the-grave-of-Thomas-Bishop-and-the-five-other-children-killed-in-1942.-Credit-Pamela-Bishop-120x86.png)](https://southwarknews.co.uk/area/elephant-and-castle/the-forgotten-child-victims-of-a-ww2-bomb-in-elephant-and-castle-finally-have-a-gravestone-80-years-later/)
-
-### [The forgotten child victims of a WW2 bomb in Elephant and Castle finally have a gravestone – 80 years later](https://southwarknews.co.uk/area/elephant-and-castle/the-forgotten-child-victims-of-a-ww2-bomb-in-elephant-and-castle-finally-have-a-gravestone-80-years-later/)
-
-[6th June 2024](https://southwarknews.co.uk/area/elephant-and-castle/the-forgotten-child-victims-of-a-ww2-bomb-in-elephant-and-castle-finally-have-a-gravestone-80-years-later/)
-
-[![James Henderson (provided by Neil Henderson, his great-grandson); 
-Vase With Sulphide Of Napoleon I, Falcon Glassworks of Apsley Pellatt & Co., 1820-1830; Francis Rossi OBE (Stefan Brending); Brian Catling, Portrait of Brian Catling as Candleye (David Tolley); William Pullum (Nicky Hughes); Zdenka Pokorná (right) with friend Marian Werner (The Three Lives of a Czech Yogi… and Beyond by Karel Werner); Stock Aitken Waterman; Ensign John Davis (Peter Collins).](https://southwarknews.co.uk/wp-content/uploads/2024/05/Image-23-05-2024-at-10.32-120x86.jpg)](https://southwarknews.co.uk/area/borough/the-winner-of-the-southwark-blue-plaque-scheme-2024-is-revealed/)
-
-### [The winner of the Southwark Blue Plaque scheme 2024 is revealed](https://southwarknews.co.uk/area/borough/the-winner-of-the-southwark-blue-plaque-scheme-2024-is-revealed/)
-
-[6th June 2024](https://southwarknews.co.uk/area/borough/the-winner-of-the-southwark-blue-plaque-scheme-2024-is-revealed/)
 
 ### USEFUL PAGES
 
@@ -501,6 +498,6 @@ View All Result
     * [Advertise with us](https://southwarknews.co.uk/advertising/)
     * [Contact Us](https://southwarknews.co.uk/contact-us/)
 
-[](https://facebook.com/)[](https://twitter.com/)
+[](http://facebook.com/)[](http://twitter.com/)
 
 © 2022 Southwark News
