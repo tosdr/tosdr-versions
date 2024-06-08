@@ -1,4 +1,4 @@
-[![Celebrate Pride with Great Books](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/siteheaderbannerimages/1717003753i/407.jpg)](https://www.goodreads.com/blog/show/2791-the-2024-goodreads-pride-reading-list?ref=Pride2024_eb)
+[![Most Popular Books of 2024 So Far](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/siteheaderbannerimages/1717004255i/411.jpg)](https://www.goodreads.com/blog/show/2782-readers-hit-new-books-of-the-year-so-far?ref=SRHitBooks24_eb)
 
 [](https://www.goodreads.com/ "Goodreads Home")
 
