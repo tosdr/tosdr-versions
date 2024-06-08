@@ -188,7 +188,7 @@ Retrieved from "[https://ballotpedia.org/wiki/index.php?title=Ballotpedia:Privac
 
 * [Ballotpedia public-facing policies](https://ballotpedia.org/Category:Ballotpedia_public-facing_policies "Category:Ballotpedia public-facing policies")
 
-Ballotpedia features 491,556 encyclopedic articles written and curated by our professional staff of editors, writers, and researchers. Click here to [contact our editorial staff or report an error](https://ballotpedia.happyfox.com/new). For media inquiries, [contact us here](mailto:media@ballotpedia.org). Please [donate here](https://ballotpedia.org/Support "Support") to support our continued expansion.
+Ballotpedia features 491,640 encyclopedic articles written and curated by our professional staff of editors, writers, and researchers. Click here to [contact our editorial staff or report an error](https://ballotpedia.happyfox.com/new). For media inquiries, [contact us here](mailto:media@ballotpedia.org). Please [donate here](https://ballotpedia.org/Support "Support") to support our continued expansion.
 
 ### Information about voting
 
