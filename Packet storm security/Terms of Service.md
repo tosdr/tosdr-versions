@@ -1,6 +1,6 @@
 [![packet storm](https://packetstatic.com/img1514015884/ps_logo.png)](https://packetstormsecurity.com/)
 
-exploit the possibilities
+what you don't know can hurt you
 
 [Register](https://packetstormsecurity.com/account/register/) | [Login](https://packetstormsecurity.com/account/login/)
 
@@ -55,8 +55,8 @@ Top Authors In Last 30 Days
 
 * [Red Hat](https://packetstormsecurity.com/files/authors/4676) 299 files
 * [Ubuntu](https://packetstormsecurity.com/files/authors/3695) 67 files
-* [Debian](https://packetstormsecurity.com/files/authors/2821) 25 files
-* [Gentoo](https://packetstormsecurity.com/files/authors/3417) 16 files
+* [Debian](https://packetstormsecurity.com/files/authors/2821) 24 files
+* [Gentoo](https://packetstormsecurity.com/files/authors/3417) 13 files
 * [Ahmet Umit Bayram](https://packetstormsecurity.com/files/authors/14177) 10 files
 * [Apple](https://packetstormsecurity.com/files/authors/2397) 9 files
 * [malvuln](https://packetstormsecurity.com/files/authors/15382) 8 files
@@ -77,6 +77,14 @@ tags | [headline](https://packetstormsecurity.com/news/tags/headline), [governme
 
 [Favorite](https://packetstormsecurity.com/news/favorite/35970/) | [View](https://www.reuters.com/technology/us-proposes-boost-internet-security-citing-chinese-carrier-action-2024-06-06/)
 
+[Microsoft Shows Venerable And Vulnerable NTLM Security Protocol The Door](https://packetstormsecurity.com/news/view/35969/Microsoft-Shows-Venerable-And-Vulnerable-NTLM-Security-Protocol-The-Door.html)
+
+Posted [Jun 6, 2024](https://packetstormsecurity.com/news/date/2024-06-06/ "18:46:11 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [microsoft](https://packetstormsecurity.com/news/tags/microsoft), [flaw](https://packetstormsecurity.com/news/tags/flaw), [patch](https://packetstormsecurity.com/news/tags/patch)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/35969/) | [View](https://www.theregister.com/2024/06/06/microsoft_deprecates_ntlm/)
+
 [Why Hackers Love Logs](https://packetstormsecurity.com/news/view/35968/Why-Hackers-Love-Logs.html)
 
 Posted [Jun 6, 2024](https://packetstormsecurity.com/news/date/2024-06-06/ "18:46:06 UTC")
@@ -84,6 +92,30 @@ Posted [Jun 6, 2024](https://packetstormsecurity.com/news/date/2024-06-06/ "18:4
 tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker)
 
 [Favorite](https://packetstormsecurity.com/news/favorite/35968/) | [View](https://www.securityweek.com/why-hackers-love-logs/)
+
+[Security Industry Has RaaS Model Wrong, Says Expert](https://packetstormsecurity.com/news/view/35967/Security-Industry-Has-RaaS-Model-Wrong-Says-Expert.html)
+
+Posted [Jun 6, 2024](https://packetstormsecurity.com/news/date/2024-06-06/ "18:46:04 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [malware](https://packetstormsecurity.com/news/tags/malware), [russia](https://packetstormsecurity.com/news/tags/russia), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime), [fraud](https://packetstormsecurity.com/news/tags/fraud), [cryptography](https://packetstormsecurity.com/news/tags/cryptography)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/35967/) | [View](https://www.scmagazine.com/news/security-industry-has-ransomware-as-a-service-model-wrong-says-expert)
+
+[Google To Start Permanently Deleting Users' Location History](https://packetstormsecurity.com/news/view/35966/Google-To-Start-Permanently-Deleting-Users-Location-History.html)
+
+Posted [Jun 6, 2024](https://packetstormsecurity.com/news/date/2024-06-06/ "18:45:58 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [privacy](https://packetstormsecurity.com/news/tags/privacy), [phone](https://packetstormsecurity.com/news/tags/phone), [google](https://packetstormsecurity.com/news/tags/google)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/35966/) | [View](https://www.theguardian.com/technology/article/2024/jun/06/google-to-start-permanently-deleting-users-location-history)
+
+[7-Year-Old Oracle WebLogic Bug Under Active Exploitation](https://packetstormsecurity.com/news/view/35965/7-Year-Old-Oracle-WebLogic-Bug-Under-Active-Exploitation.html)
+
+Posted [Jun 6, 2024](https://packetstormsecurity.com/news/date/2024-06-06/ "18:45:53 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [government](https://packetstormsecurity.com/news/tags/government), [usa](https://packetstormsecurity.com/news/tags/usa), [flaw](https://packetstormsecurity.com/news/tags/flaw), [oracle](https://packetstormsecurity.com/news/tags/oracle)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/35965/) | [View](https://www.theregister.com/2024/06/06/oracle_weblogic_vulnerability_exploited/)
 
 [Webex Bugs Patched Post Exposure Of German Govt Meetings](https://packetstormsecurity.com/news/view/35964/Webex-Bugs-Patched-Post-Exposure-Of-German-Govt-Meetings.html)
 
@@ -116,38 +148,6 @@ Posted [Jun 5, 2024](https://packetstormsecurity.com/news/date/2024-06-05/ "23:0
 tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [password](https://packetstormsecurity.com/news/tags/password), [social](https://packetstormsecurity.com/news/tags/social)
 
 [Favorite](https://packetstormsecurity.com/news/favorite/35961/) | [View](https://www.theguardian.com/technology/article/2024/jun/05/tiktok-hackers-target-cnn-paris-hilton-cyber-attack)
-
-[Windows Recall Demands An Extraordinary Level Of Trust That Microsoft Hasn't Earned](https://packetstormsecurity.com/news/view/35960/Windows-Recall-Demands-An-Extraordinary-Level-Of-Trust-That-Microsoft-Hasnt-Earned.html)
-
-Posted [Jun 5, 2024](https://packetstormsecurity.com/news/date/2024-06-05/ "23:08:40 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [privacy](https://packetstormsecurity.com/news/tags/privacy), [microsoft](https://packetstormsecurity.com/news/tags/microsoft), [data loss](https://packetstormsecurity.com/news/tags/data_loss), [spyware](https://packetstormsecurity.com/news/tags/spyware)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/35960/) | [View](https://arstechnica.com/ai/2024/06/windows-recall-demands-an-extraordinary-level-of-trust-that-microsoft-hasnt-earned/)
-
-[Vulnerabilities Exposed Millions Of Cox Modems To Remote Hacking](https://packetstormsecurity.com/news/view/35959/Vulnerabilities-Exposed-Millions-Of-Cox-Modems-To-Remote-Hacking.html)
-
-Posted [Jun 4, 2024](https://packetstormsecurity.com/news/date/2024-06-04/ "13:34:25 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [privacy](https://packetstormsecurity.com/news/tags/privacy), [flaw](https://packetstormsecurity.com/news/tags/flaw)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/35959/) | [View](https://www.securityweek.com/vulnerabilities-exposed-millions-of-cox-modems-to-remote-hacking/)
-
-[Google Accidentally Published Internal Search Docs To GitHub](https://packetstormsecurity.com/news/view/35958/Google-Accidentally-Published-Internal-Search-Docs-To-GitHub.html)
-
-Posted [Jun 4, 2024](https://packetstormsecurity.com/news/date/2024-06-04/ "13:34:22 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [data loss](https://packetstormsecurity.com/news/tags/data_loss), [google](https://packetstormsecurity.com/news/tags/google)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/35958/) | [View](https://arstechnica.com/gadgets/2024/06/google-accidentally-published-internal-search-documentation-to-github/)
-
-[NIST Turns To IT Consultants To Clear National Vulnerability Database](https://packetstormsecurity.com/news/view/35957/NIST-Turns-To-IT-Consultants-To-Clear-National-Vulnerability-Database.html)
-
-Posted [Jun 4, 2024](https://packetstormsecurity.com/news/date/2024-06-04/ "13:34:17 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [usa](https://packetstormsecurity.com/news/tags/usa), [flaw](https://packetstormsecurity.com/news/tags/flaw)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/35957/) | [View](https://www.theregister.com/2024/06/03/nist_cve_backlog/)
 
 [View More News →](https://packetstormsecurity.com/news/)
 
@@ -193,4 +193,4 @@ Hosting By
 
 ![close](https://packetstatic.com/img1514015884/o_close.png)
 
-![](https://ssl.google-analytics.com/__utm.gif?utmwv=1.3&utmn=2211485454&utmcs=ISO-8859-1&utmsr=31337x31337&utmsc=32-bit&utmul=en-us&utmje=0&utmfl=-&utmcn=1&utmdt=Terms%20of%20Service%u2248%20Packet%20Storm&utmhn=packetstormsecurity.com&utmr=-&utmp=%2Flegal%2Ftos.html&utmac=UA-18885198-1&utmcc=__utma%3D32867617.2211485454.1717766762.1717766762.1717766762.1%3B%2B__utmz%3D32867617.1717766762.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none))
+![](https://ssl.google-analytics.com/__utm.gif?utmwv=1.3&utmn=1945539783&utmcs=ISO-8859-1&utmsr=31337x31337&utmsc=32-bit&utmul=en-us&utmje=0&utmfl=-&utmcn=1&utmdt=Terms%20of%20Service%u2248%20Packet%20Storm&utmhn=packetstormsecurity.com&utmr=-&utmp=%2Flegal%2Ftos.html&utmac=UA-18885198-1&utmcc=__utma%3D32867617.1945539783.1717859585.1717859585.1717859585.1%3B%2B__utmz%3D32867617.1717859585.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none))
