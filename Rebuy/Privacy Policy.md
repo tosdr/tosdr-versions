@@ -177,7 +177,7 @@
     
     #### Featured Content
     
-    [![Merchandizing audit checklist](https://www.rebuyengine.com/hubfs/Navigation/rebuy-merchandising-audit-checklist.jpg)
+    [![rebuy-merchandising-audit-checklist-1](https://www.rebuyengine.com/hubfs/Navigation/rebuy-merchandising-audit-checklist-1.jpg)
     
     #### Free Merchandising Audit Checklist: Learn How to Optimize Revenue and Set New Sales Records!](https://www.rebuyengine.com/tools/merchandising-audit-checklist?website_utm_page=navigation&website_utm_section=featured-content&website_utm_cta=free-merchandising-audit-checklist&website_utm_test=merchandising-audit)
     
