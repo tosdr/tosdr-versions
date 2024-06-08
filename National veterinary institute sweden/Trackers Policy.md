@@ -1279,7 +1279,6 @@ Gå direkt till :
         * [Hantering av personuppgifter](https://www.sva.se/om-oss/kontakta-oss/hantering-av-personuppgifter/)
     * [Arbeta hos oss](https://www.sva.se/om-oss/arbeta-hos-oss/)[](#)
         * [Lediga jobb](https://www.sva.se/om-oss/arbeta-hos-oss/lediga-jobb/)[](#)
-            * [Informationssäkerhetsspecialist](https://www.sva.se/om-oss/arbeta-hos-oss/lediga-jobb/informationssakerhetsspecialist/)
             * [Forskande veterinär med hästkompetens sökes!](https://www.sva.se/om-oss/arbeta-hos-oss/lediga-jobb/forskande-veterinar-med-hastkompetens-sokes/)
         * [SVA som arbetsplats](https://www.sva.se/om-oss/arbeta-hos-oss/sva-som-arbetsplats/)
         * [Möt våra medarbetare](https://www.sva.se/om-oss/arbeta-hos-oss/mot-vara-medarbetare/)[](#)
