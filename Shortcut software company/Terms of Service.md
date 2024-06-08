@@ -287,7 +287,7 @@ Solutions
 
 Learn
 
-[The Shortcut Way](https://shortcut.com/shortcut-way)[Design at Shortcut](https://design.shortcut.com/)[Blog](https://shortcut.com/blog)
+[The Shortcut Way](https://shortcut.com/shortcut-way)[Blog](https://shortcut.com/blog)
 
 Resources
 
