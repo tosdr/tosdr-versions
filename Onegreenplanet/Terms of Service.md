@@ -73,71 +73,71 @@ Toggle navigation[OneGreenPlanet](https://www.onegreenplanet.org/)
         
         [Plant-Based Cookbooks to Buy](https://www.onegreenplanet.org/vegancookbooks)
         
-    * [](https://www.onegreenplanet.org/vegan-food/10-of-our-top-vegan-dessert-recipes-from-may-2024/)
+    * [](https://www.onegreenplanet.org/vegan-food/enhance-flavors-savory-dishes-sweet-spices/)
         
-        [](https://www.onegreenplanet.org/vegan-food/10-of-our-top-vegan-dessert-recipes-from-may-2024/)[![Triple Lemon Pound Cake](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAaAAAAFeAQAAAADr1fadAAAAAnRSTlMAAHaTzTgAAAAoSURBVHja7cEBAQAAAIIg/69uSEABAAAAAAAAAAAAAAAAAAAAAAAfBkh2AAHqw7jVAAAAAElFTkSuQmCC)
+        [](https://www.onegreenplanet.org/vegan-food/enhance-flavors-savory-dishes-sweet-spices/)[![Anise](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEzAQAAAACUZA7nAAAAAnRSTlMAAHaTzTgAAAAoSURBVHja7cExAQAAAMKg9U9tB2+gAAAAAAAAAAAAAAAAAAAAAADgMEbBAAG19/toAAAAAElFTkSuQmCC)
         
-        ![Triple Lemon Pound Cake](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/05/screen-shot-2024-04-23-at-34802-pm.webp?fit=416%2C350&ssl=1)](https://www.onegreenplanet.org/vegan-food/10-of-our-top-vegan-dessert-recipes-from-may-2024/)
+        ![Anise](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2018/05/12193485655_989c5d3183_o.jpg?fit=460%2C307&ssl=1)](https://www.onegreenplanet.org/vegan-food/enhance-flavors-savory-dishes-sweet-spices/)
         
-        [10 of Our Top Vegan Dessert Recipes from May 2024!](https://www.onegreenplanet.org/vegan-food/10-of-our-top-vegan-dessert-recipes-from-may-2024/)
+        [How to Enhance The Flavors of Savory Dishes with Sweet Spices](https://www.onegreenplanet.org/vegan-food/enhance-flavors-savory-dishes-sweet-spices/)
         
-    * [](https://www.onegreenplanet.org/vegan-food/15-plant-based-spicy-black-bean-recipes/)
+    * [](https://www.onegreenplanet.org/vegan-food/indian-fusion-recipes/)
         
-        [](https://www.onegreenplanet.org/vegan-food/15-plant-based-spicy-black-bean-recipes/)[![Spicy Sofritas Black Bean Bowl](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEgAQAAAAARJn7SAAAAAnRSTlMAAHaTzTgAAAAnSURBVHja7cEBDQAAAMKg909tDwcUAAAAAAAAAAAAAAAAAAAAAM8GQmAAAac4fHcAAAAASUVORK5CYII=)
+        [](https://www.onegreenplanet.org/vegan-food/indian-fusion-recipes/)[![Tandoori Tofu Scramble Tacos](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEgAQAAAAARJn7SAAAAAnRSTlMAAHaTzTgAAAAnSURBVHja7cEBDQAAAMKg909tDwcUAAAAAAAAAAAAAAAAAAAAAM8GQmAAAac4fHcAAAAASUVORK5CYII=)
         
-        ![Spicy Sofritas Black Bean Bowl](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2017/04/spicy-sofritas-black-bean-bowls.jpeg?fit=460%2C288&ssl=1)](https://www.onegreenplanet.org/vegan-food/15-plant-based-spicy-black-bean-recipes/)
+        ![Tandoori Tofu Scramble Tacos](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2017/04/tandoor-tofu-scramble.jpg?fit=460%2C288&ssl=1)](https://www.onegreenplanet.org/vegan-food/indian-fusion-recipes/)
         
-        [15 Plant-Based Spicy Black Bean Recipes](https://www.onegreenplanet.org/vegan-food/15-plant-based-spicy-black-bean-recipes/)
+        [15 Incredible Plant-Based Indian Fusion Recipes!](https://www.onegreenplanet.org/vegan-food/indian-fusion-recipes/)
         
     
 * [News](https://www.onegreenplanet.org/channel/news/)
-    * [](https://www.onegreenplanet.org/news/daily-top-news-can-los-angeles-properly-care-for-shelter-dogs-rally-in-istanbul-against-euthanasia-for-stray-dogs-mexicos-first-female-president-and-climate-scientist-leader-and-more/)
+    * [](https://www.onegreenplanet.org/animals/dog-park-showdown-speedy-malligator-takes-the-crown/)
         
-        [](https://www.onegreenplanet.org/news/daily-top-news-can-los-angeles-properly-care-for-shelter-dogs-rally-in-istanbul-against-euthanasia-for-stray-dogs-mexicos-first-female-president-and-climate-scientist-leader-and-more/)[![Dogs in a shelter](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAE1AQAAAABCPe36AAAAAnRSTlMAAHaTzTgAAAAoSURBVHja7cEBDQAAAMIg+6c2xzdgAAAAAAAAAAAAAAAAAAAAAADQcUc3AAFao7jKAAAAAElFTkSuQmCC)
+        [](https://www.onegreenplanet.org/animals/dog-park-showdown-speedy-malligator-takes-the-crown/)[![Belgian Malinois Running](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEzAQAAAACUZA7nAAAAAnRSTlMAAHaTzTgAAAAoSURBVHja7cExAQAAAMKg9U9tB2+gAAAAAAAAAAAAAAAAAAAAAADgMEbBAAG19/toAAAAAElFTkSuQmCC)
         
-        ![Dogs in a shelter](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/06/shutterstock-1751348096.jpg?fit=460%2C309&ssl=1)](https://www.onegreenplanet.org/news/daily-top-news-can-los-angeles-properly-care-for-shelter-dogs-rally-in-istanbul-against-euthanasia-for-stray-dogs-mexicos-first-female-president-and-climate-scientist-leader-and-more/)
+        ![Belgian Malinois Running](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/05/belgian-malinois-e1717195729772.jpg?fit=460%2C307&ssl=1)](https://www.onegreenplanet.org/animals/dog-park-showdown-speedy-malligator-takes-the-crown/)
         
-        [Daily Top News: Can Los Angeles Properly Care for Shelter Dogs?, Rally in Istanbul Against Euthanasia for Stray Dogs, Mexico’s First Female President and Climate Scientist Leader, and More!](https://www.onegreenplanet.org/news/daily-top-news-can-los-angeles-properly-care-for-shelter-dogs-rally-in-istanbul-against-euthanasia-for-stray-dogs-mexicos-first-female-president-and-climate-scientist-leader-and-more/)
+        [Dog Park Showdown: Speedy “Malligator” Takes the Crown](https://www.onegreenplanet.org/animals/dog-park-showdown-speedy-malligator-takes-the-crown/)
         
-    * [](https://www.onegreenplanet.org/animals/senior-dogs-6000-health-scare-as-a-tiny-rock-causes-big-trouble/)
+    * [](https://www.onegreenplanet.org/animals/mischievous-puppy-trashes-plant-wins-hearts-with-adorable-defense/)
         
-        [](https://www.onegreenplanet.org/animals/senior-dogs-6000-health-scare-as-a-tiny-rock-causes-big-trouble/)[![vet bill](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEzAQAAAACUZA7nAAAAAnRSTlMAAHaTzTgAAAAoSURBVHja7cExAQAAAMKg9U9tB2+gAAAAAAAAAAAAAAAAAAAAAADgMEbBAAG19/toAAAAAElFTkSuQmCC)
+        [](https://www.onegreenplanet.org/animals/mischievous-puppy-trashes-plant-wins-hearts-with-adorable-defense/)[![Dachshund rolling on back](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAFIAQAAAAD1gfPlAAAAAnRSTlMAAHaTzTgAAAAnSURBVHja7cEBAQAAAICQ/q/uCAoAAAAAAAAAAAAAAAAAAAAAAAAYS5gAAdpvf0YAAAAASUVORK5CYII=)
         
-        ![vet bill](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/06/shutterstock-2325056571-e1717599884958.jpg?fit=460%2C307&ssl=1)](https://www.onegreenplanet.org/animals/senior-dogs-6000-health-scare-as-a-tiny-rock-causes-big-trouble/)
+        ![Dachshund rolling on back](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/05/dachshund-e1717197119100.jpg?fit=460%2C328&ssl=1)](https://www.onegreenplanet.org/animals/mischievous-puppy-trashes-plant-wins-hearts-with-adorable-defense/)
         
-        [Tiny Rock in Senior Dog’s Stomach Causes Big Trouble](https://www.onegreenplanet.org/animals/senior-dogs-6000-health-scare-as-a-tiny-rock-causes-big-trouble/)
+        [Mischievous Puppy Trashes Plant, Wins Hearts with Adorable Defense](https://www.onegreenplanet.org/animals/mischievous-puppy-trashes-plant-wins-hearts-with-adorable-defense/)
         
-    * [](https://www.onegreenplanet.org/animals/reaction-to-new-puppy-goes-viral-as-family-grieves-beloved-senior-dog/)
+    * [](https://www.onegreenplanet.org/animals/security-cam-captures-clever-shiba-inu-requesting-strangers-help-to-ring-doorbell/)
         
-        [](https://www.onegreenplanet.org/animals/reaction-to-new-puppy-goes-viral-as-family-grieves-beloved-senior-dog/)[![pitbull mix puppy](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEzAQAAAACUZA7nAAAAAnRSTlMAAHaTzTgAAAAoSURBVHja7cExAQAAAMKg9U9tB2+gAAAAAAAAAAAAAAAAAAAAAADgMEbBAAG19/toAAAAAElFTkSuQmCC)
+        [](https://www.onegreenplanet.org/animals/security-cam-captures-clever-shiba-inu-requesting-strangers-help-to-ring-doorbell/)[![Shiba inu at the Front Door](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEzAQAAAACUZA7nAAAAAnRSTlMAAHaTzTgAAAAoSURBVHja7cExAQAAAMKg9U9tB2+gAAAAAAAAAAAAAAAAAAAAAADgMEbBAAG19/toAAAAAElFTkSuQmCC)
         
-        ![pitbull mix puppy](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/06/shutterstock-99026036-e1717599520525.jpg?fit=460%2C307&ssl=1)](https://www.onegreenplanet.org/animals/reaction-to-new-puppy-goes-viral-as-family-grieves-beloved-senior-dog/)
+        ![Shiba inu at the Front Door](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/05/shiba-inu-at-door-e1717198655598.jpg?fit=460%2C307&ssl=1)](https://www.onegreenplanet.org/animals/security-cam-captures-clever-shiba-inu-requesting-strangers-help-to-ring-doorbell/)
         
-        [Reaction to New Puppy Goes Viral as Family Grieves Beloved Senior Dog](https://www.onegreenplanet.org/animals/reaction-to-new-puppy-goes-viral-as-family-grieves-beloved-senior-dog/)
+        [Security Cam Captures Clever Shiba Inu Requesting Stranger’s Help to Ring Doorbell](https://www.onegreenplanet.org/animals/security-cam-captures-clever-shiba-inu-requesting-strangers-help-to-ring-doorbell/)
         
-    * [](https://www.onegreenplanet.org/animals/heartwarming-rescue-of-pregnant-basset-hound-in-pouring-rain-captivates-millions/)
+    * [](https://www.onegreenplanet.org/animals/young-animal-advocate-saves-1400-animals-from-euthanasia-in-mississippi/)
         
-        [](https://www.onegreenplanet.org/animals/heartwarming-rescue-of-pregnant-basset-hound-in-pouring-rain-captivates-millions/)[![basset hound](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEzAQAAAACUZA7nAAAAAnRSTlMAAHaTzTgAAAAoSURBVHja7cExAQAAAMKg9U9tB2+gAAAAAAAAAAAAAAAAAAAAAADgMEbBAAG19/toAAAAAElFTkSuQmCC)
+        [](https://www.onegreenplanet.org/animals/young-animal-advocate-saves-1400-animals-from-euthanasia-in-mississippi/)[![dog shelter](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEyAQAAAABfON1CAAAAAnRSTlMAAHaTzTgAAAAnSURBVHja7cEBAQAAAIIg/69uSEABAAAAAAAAAAAAAAAAAAAAAPBrRoYAAQ4SziQAAAAASUVORK5CYII=)
         
-        ![basset hound](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/06/shutterstock-1101785336-e1717599005692.jpg?fit=460%2C307&ssl=1)](https://www.onegreenplanet.org/animals/heartwarming-rescue-of-pregnant-basset-hound-in-pouring-rain-captivates-millions/)
+        ![dog shelter](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/05/shutterstock-2170261471-e1716985070932.jpg?fit=460%2C306&ssl=1)](https://www.onegreenplanet.org/animals/young-animal-advocate-saves-1400-animals-from-euthanasia-in-mississippi/)
         
-        [Heartwarming Rescue of Pregnant Basset Hound in Pouring Rain Captivates Millions](https://www.onegreenplanet.org/animals/heartwarming-rescue-of-pregnant-basset-hound-in-pouring-rain-captivates-millions/)
+        [Young Animal Advocate Saves 1,400 Animals from Euthanasia in Mississippi](https://www.onegreenplanet.org/animals/young-animal-advocate-saves-1400-animals-from-euthanasia-in-mississippi/)
         
-    * [](https://www.onegreenplanet.org/animals/can-los-angeles-properly-care-for-their-shelter-dogs/)
+    * [](https://www.onegreenplanet.org/animals/for-the-first-time-in-decades-rare-birds-nest-on-restored-chilean-island/)
         
-        [](https://www.onegreenplanet.org/animals/can-los-angeles-properly-care-for-their-shelter-dogs/)[![sad dog in shelter](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAExAQAAAADZrK/sAAAAAnRSTlMAAHaTzTgAAAAoSURBVHja7cEBDQAAAMKg909tDjegAAAAAAAAAAAAAAAAAAAAAAA4N0ZLAAEUf2MtAAAAAElFTkSuQmCC)
+        [](https://www.onegreenplanet.org/animals/for-the-first-time-in-decades-rare-birds-nest-on-restored-chilean-island/)[![Peruvian Diving Petrel](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEyAQAAAABfON1CAAAAAnRSTlMAAHaTzTgAAAAnSURBVHja7cEBAQAAAIIg/69uSEABAAAAAAAAAAAAAAAAAAAAAPBrRoYAAQ4SziQAAAAASUVORK5CYII=)
         
-        ![sad dog in shelter](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/06/shutterstock-1719334765-e1717429830166.jpg?fit=460%2C305&ssl=1)](https://www.onegreenplanet.org/animals/can-los-angeles-properly-care-for-their-shelter-dogs/)
+        ![Peruvian Diving Petrel](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/06/shutterstock-1458568223-e1717429325496.jpg?fit=460%2C306&ssl=1)](https://www.onegreenplanet.org/animals/for-the-first-time-in-decades-rare-birds-nest-on-restored-chilean-island/)
         
-        [Severe Overcrowding Crisis is Overwhelming Los Angeles Animal Shelters](https://www.onegreenplanet.org/animals/can-los-angeles-properly-care-for-their-shelter-dogs/)
+        [For the First Time in Decades, Rare Birds Nest on Restored Chilean Island](https://www.onegreenplanet.org/animals/for-the-first-time-in-decades-rare-birds-nest-on-restored-chilean-island/)
         
-    * [](https://www.onegreenplanet.org/animals/rescued-dogs-find-new-homes-after-harrowing-experience/)
+    * [](https://www.onegreenplanet.org/animals/colorado-gray-wolves-possibly-cross-state-lines-into-wyoming/)
         
-        [](https://www.onegreenplanet.org/animals/rescued-dogs-find-new-homes-after-harrowing-experience/)[![sad dog](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEzAQAAAACUZA7nAAAAAnRSTlMAAHaTzTgAAAAoSURBVHja7cExAQAAAMKg9U9tB2+gAAAAAAAAAAAAAAAAAAAAAADgMEbBAAG19/toAAAAAElFTkSuQmCC)
+        [](https://www.onegreenplanet.org/animals/colorado-gray-wolves-possibly-cross-state-lines-into-wyoming/)[![Gray wolf in Colorado](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAE7AQAAAAB4N4yKAAAAAnRSTlMAAHaTzTgAAAAoSURBVHja7cExAQAAAMKg9U/tYwygAAAAAAAAAAAAAAAAAAAAAAAAbkiZAAFno+sqAAAAAElFTkSuQmCC)
         
-        ![sad dog](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/06/shutterstock-2303978323-e1717431564825.jpg?fit=460%2C307&ssl=1)](https://www.onegreenplanet.org/animals/rescued-dogs-find-new-homes-after-harrowing-experience/)
+        ![Gray wolf in Colorado](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/06/shutterstock-187097084.jpg?fit=460%2C315&ssl=1)](https://www.onegreenplanet.org/animals/colorado-gray-wolves-possibly-cross-state-lines-into-wyoming/)
         
-        [83 Dogs and Cat Rescued from Cruel Breeding Operation in Baltimore](https://www.onegreenplanet.org/animals/rescued-dogs-find-new-homes-after-harrowing-experience/)
+        [Colorado Gray Wolves Possibly Cross State Lines into Wyoming](https://www.onegreenplanet.org/animals/colorado-gray-wolves-possibly-cross-state-lines-into-wyoming/)
         
 * [Earth](https://www.onegreenplanet.org/channel/environment/)
     * [](https://www.onegreenplanet.org/environment/7-upcoming-environmental-grants-to-apply-for/)
@@ -244,6 +244,14 @@ Toggle navigation[OneGreenPlanet](https://www.onegreenplanet.org/)
         
         [Must-Have Plant-Based Cookbooks](https://www.onegreenplanet.org/vegancookbooks)
         
+    * [](https://www.onegreenplanet.org/natural-health/foods-that-lower-your-blood-sugar-quickly/)
+        
+        [](https://www.onegreenplanet.org/natural-health/foods-that-lower-your-blood-sugar-quickly/)[![healthy quinoa salad vegan](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABLAAAAeAAQAAAAD2yJNSAAAAAnRSTlMAAHaTzTgAAAEwSURBVHja7cEBDQAAAMKg909tDjegAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIBXA2y8AAGZPvUVAAAAAElFTkSuQmCC)
+        
+        ![healthy quinoa salad vegan](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2014/10/Healthy-Quinoa-Salad-Vegan1-1200x8001.jpg?fit=460%2C306&ssl=1)](https://www.onegreenplanet.org/natural-health/foods-that-lower-your-blood-sugar-quickly/)
+        
+        [5 Foods That Lower Your Blood Sugar Quickly](https://www.onegreenplanet.org/natural-health/foods-that-lower-your-blood-sugar-quickly/)
+        
     * [](https://www.onegreenplanet.org/natural-health/social-frailty-empowering-older-adults-through-connection-and-support/)
         
         [](https://www.onegreenplanet.org/natural-health/social-frailty-empowering-older-adults-through-connection-and-support/)[![support for older adults, hand holding](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEzAQAAAACUZA7nAAAAAnRSTlMAAHaTzTgAAAAoSURBVHja7cExAQAAAMKg9U9tB2+gAAAAAAAAAAAAAAAAAAAAAADgMEbBAAG19/toAAAAAElFTkSuQmCC)
@@ -275,14 +283,6 @@ Toggle navigation[OneGreenPlanet](https://www.onegreenplanet.org/)
         ![person watching meditation video](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/06/shutterstock-2055003368-e1717511299806.jpg?fit=460%2C307&ssl=1)](https://www.onegreenplanet.org/natural-health/five-meditation-videos-for-anxiety/)
         
         [Five Meditation Videos for Anxiety](https://www.onegreenplanet.org/natural-health/five-meditation-videos-for-anxiety/)
-        
-    * [](https://www.onegreenplanet.org/natural-health/sample-meal-plans-for-the-female-vegan-athlete/)
-        
-        [](https://www.onegreenplanet.org/natural-health/sample-meal-plans-for-the-female-vegan-athlete/)[![falafel plate](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEyAQAAAABfON1CAAAAAnRSTlMAAHaTzTgAAAAnSURBVHja7cEBAQAAAIIg/69uSEABAAAAAAAAAAAAAAAAAAAAAPBrRoYAAQ4SziQAAAAASUVORK5CYII=)
-        
-        ![falafel plate](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2014/12/falafelplate.jpg?fit=460%2C306&ssl=1)](https://www.onegreenplanet.org/natural-health/sample-meal-plans-for-the-female-vegan-athlete/)
-        
-        [Sample Meal Plans for the Female Vegan Athlete](https://www.onegreenplanet.org/natural-health/sample-meal-plans-for-the-female-vegan-athlete/)
         
 * [People](https://www.onegreenplanet.org/channel/human-interest/)
     * [](https://www.onegreenplanet.org/human-interest/global-waters-exceed-safe-pfa-levels-new-study-reveals/)
@@ -383,6 +383,22 @@ Toggle navigation[OneGreenPlanet](https://www.onegreenplanet.org/)
         [Five Times Animals Calmed Their Humans Down](https://www.onegreenplanet.org/animals/five-times-animals-calmed-their-humans-down/)
         
 * [Video](https://www.onegreenplanet.org/channel/videos/)
+    * [](https://www.onegreenplanet.org/vegan-food/how-to-make-vegan-fried-chicken/)
+        
+        [](https://www.onegreenplanet.org/vegan-food/how-to-make-vegan-fried-chicken/)[![Vegan fried chicken](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMQAAAFeAQAAAADyV41XAAAAAnRSTlMAAHaTzTgAAAAfSURBVHja7cExAQAAAMIg+6e2xE5gAAAAAAAAAABA4iOMAAG3UthwAAAAAElFTkSuQmCC)
+        
+        ![Vegan fried chicken](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2022/02/screen-shot-2022-02-07-at-11-43-58-pm.png?fit=196%2C350&ssl=1)](https://www.onegreenplanet.org/vegan-food/how-to-make-vegan-fried-chicken/)
+        
+        [How to Make Vegan Fried ‘Chicken’ \[Video\]](https://www.onegreenplanet.org/vegan-food/how-to-make-vegan-fried-chicken/)
+        
+    * [](https://www.onegreenplanet.org/news/team-rescues-dogs-living-in-school/)
+        
+        [](https://www.onegreenplanet.org/news/team-rescues-dogs-living-in-school/)[![Woman sitting next to two dogs](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEgAQAAAAARJn7SAAAAAnRSTlMAAHaTzTgAAAAnSURBVHja7cEBDQAAAMKg909tDwcUAAAAAAAAAAAAAAAAAAAAAM8GQmAAAac4fHcAAAAASUVORK5CYII=)
+        
+        ![Woman sitting next to two dogs](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2017/06/ts.jpg?fit=460%2C288&ssl=1)](https://www.onegreenplanet.org/news/team-rescues-dogs-living-in-school/)
+        
+        [Dedicated Team Rescues 2 Dogs Who Were Living in an Abandoned School! \[Video\]](https://www.onegreenplanet.org/news/team-rescues-dogs-living-in-school/)
+        
     * [](https://www.onegreenplanet.org/news/homeless-dog-and-puppies-in-heavy-rainstorm/)
         
         [](https://www.onegreenplanet.org/news/homeless-dog-and-puppies-in-heavy-rainstorm/)[![Mother dog and her 8 puppies](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEgAQAAAAARJn7SAAAAAnRSTlMAAHaTzTgAAAAnSURBVHja7cEBDQAAAMKg909tDwcUAAAAAAAAAAAAAAAAAAAAAM8GQmAAAac4fHcAAAAASUVORK5CYII=)
@@ -414,22 +430,6 @@ Toggle navigation[OneGreenPlanet](https://www.onegreenplanet.org/)
         ![Crane next to orangutan in tree](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2018/06/ora.jpg?fit=460%2C288&ssl=1)](https://www.onegreenplanet.org/news/orangutan-trying-stop-bulldozer-destroying-home/)
         
         [Orangutan Desperately Trying to Stop a Bulldozer From Destroying His Home Is a Wake Up Call For Us All \[Video\]](https://www.onegreenplanet.org/news/orangutan-trying-stop-bulldozer-destroying-home/)
-        
-    * [](https://www.onegreenplanet.org/news/sick-puppy-dumped-trash-bag/)
-        
-        [](https://www.onegreenplanet.org/news/sick-puppy-dumped-trash-bag/)[![Sick puppy](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEgAQAAAAARJn7SAAAAAnRSTlMAAHaTzTgAAAAnSURBVHja7cEBDQAAAMKg909tDwcUAAAAAAAAAAAAAAAAAAAAAM8GQmAAAac4fHcAAAAASUVORK5CYII=)
-        
-        ![Sick puppy](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2018/06/screen-shot-2018-06-08-at-7-30-32-am.jpg?fit=460%2C288&ssl=1)](https://www.onegreenplanet.org/news/sick-puppy-dumped-trash-bag/)
-        
-        [Sick Puppy Dumped in a Trash Bag Kept Moving to Get Attention Even Though She Was Barely Alive \[Video\]](https://www.onegreenplanet.org/news/sick-puppy-dumped-trash-bag/)
-        
-    * [](https://www.onegreenplanet.org/news/rescued-lambs-sweaters-jump-joy/)
-        
-        [](https://www.onegreenplanet.org/news/rescued-lambs-sweaters-jump-joy/)[![Lambs in sweaters](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEgAQAAAAARJn7SAAAAAnRSTlMAAHaTzTgAAAAnSURBVHja7cEBDQAAAMKg909tDwcUAAAAAAAAAAAAAAAAAAAAAM8GQmAAAac4fHcAAAAASUVORK5CYII=)
-        
-        ![Lambs in sweaters](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2018/06/screen-shot-2018-06-06-at-8-36-35-am.jpg?fit=460%2C288&ssl=1)](https://www.onegreenplanet.org/news/rescued-lambs-sweaters-jump-joy/)
-        
-        [Watching These Sweet Rescued Lambs in Sweaters Jump for Joy Will Make Your Day \[Video\]](https://www.onegreenplanet.org/news/rescued-lambs-sweaters-jump-joy/)
         
 * [About](javascript:void(0);)
     * [Support Us](https://www.onegreenplanet.org/donate-page/)
@@ -674,6 +674,12 @@ No products in the cart.
     
     [3-Legged Homeless Dog Tried to Adopt Her Own Family by Camping Out in a Box \[Video\]](https://www.onegreenplanet.org/animalsandnature/homeless-chihuahua-who-lived-in-box-gets-rescued/)
     
+* ![healthy quinoa salad vegan](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABLAAAAeAAQAAAAD2yJNSAAAAAnRSTlMAAHaTzTgAAAEwSURBVHja7cEBDQAAAMKg909tDjegAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIBXA2y8AAGZPvUVAAAAAElFTkSuQmCC)
+    
+    ![healthy quinoa salad vegan](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2014/10/Healthy-Quinoa-Salad-Vegan1-1200x8001.jpg?fit=460%2C306&ssl=1)
+    
+    [5 Foods That Lower Your Blood Sugar Quickly](https://www.onegreenplanet.org/natural-health/foods-that-lower-your-blood-sugar-quickly/)
+    
 * ![Pit bull](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![Pit bull](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2018/07/screen-shot-2018-07-26-at-8-54-05-am.jpg?fit=460%2C288&ssl=1)
@@ -685,12 +691,6 @@ No products in the cart.
     ![Easy Mac and Not-Cheese](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2016/11/macncheese.jpg?fit=460%2C288&ssl=1)
     
     [How to Make Creamy, Rich Sauces Without Dairy](https://www.onegreenplanet.org/vegan-food/how-to-make-creamy-rich-sauces-without-dairy/)
-    
-* ![Iced Cappuccino Pie [Vegan, Gluten-Free]](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![Iced Cappuccino Pie [Vegan, Gluten-Free]](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2015/06/pie2.jpg?fit=460%2C306&ssl=1)
-    
-    [Vanilla Creme Cappuccino Pie \[Vegan, Gluten-Free\]](https://www.onegreenplanet.org/vegan-recipe/vanilla-creme-cappuccino-pie-vegan-gluten-free/)
     
 
 ×
