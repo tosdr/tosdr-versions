@@ -2,9 +2,8 @@
 
 [![](https://assets.rescuetime.com/assets/rtx_marketing/logo_wordmark-bc849541306884e63ccb29b232aacf41afcd191f1acaacc7ea828f5fbbb0176e.svg)](https://www.rescuetime.com/)
 
-* * [Learn More](#)
-        * [Try for Teams](https://teams.rescuetime.com/)
-        * [Guided Focus Sessions (Live!)](https://getfocused.rescuetime.com/guided-focus-sessions/)
+* [Teams](https://teams.rescuetime.com/)
+* [Guided Focus Sessions (Live!)](https://getfocused.rescuetime.com/guided-focus-sessions/)
 * [Sign In](https://www.rescuetime.com/login)
 * [Try For Free](https://www.rescuetime.com/unified/users/new)
 
@@ -85,7 +84,7 @@ Cookies help us deliver our services. By using our services, you agree to our us
 
 **Product**
 
-[Sign Up](https://www.rescuetime.com/rtx/signup)
+[Sign Up](https://www.rescuetime.com/unified/users/new)
 
 [Sign In](https://www.rescuetime.com/login)
 
@@ -95,7 +94,7 @@ Cookies help us deliver our services. By using our services, you agree to our us
 
 **Support**
 
-[Help](https://newrescuetime.helpscoutdocs.com/)
+[Help](https://help.rescuetime.com/)
 
 [Contact Us](https://www.rescuetime.com/rtx/contact)
 
