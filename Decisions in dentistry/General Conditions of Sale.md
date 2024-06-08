@@ -137,6 +137,13 @@ Provider ID# 317924
 
 [### decisionsindentistry](https://www.instagram.com/decisionsindentistry/ "@decisionsindentistry")
 
+[Arkansas is without a single dental school and its ![Arkansas is without a single dental school and its residents have the poorest oral health in the United States. Lyon College in Batesville has been planning to open the School of Oral Health and Dental Medicine in Little Rock in 2025. Unfortunately, obstacles to this plan have continued to arise. Recently, the partnership between Lyon College and OneHealth Education Group, an organization that uses private-sector capital to create medical and dental programs, has ended. Link in bio.⁠
+⁠
+⁠
+---⁠
+⁠
+#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C76sOcUNYIw/) 
+
 [Discover how odontoplasty is changing the game in ![Discover how odontoplasty is changing the game in treating Class I furcation involvements, improving patient plaque control and oral health outcomes. Link in bio.⁠
 ⁠
 ⁠
@@ -171,13 +178,6 @@ Provider ID# 317924
 ---⁠
 ⁠
 #dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C7ttYC1MjW3/) 
-
-[The Colorado Dental Association lobbied hard to ge ![The Colorado Dental Association lobbied hard to get state legislators to increase Medicaid reimbursement for dental procedures and those efforts recently came to fruition. Link in bio.⁠
-⁠
-⁠
----⁠
-⁠
-#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C7rWUsEM5dc/) 
 
 [Load More](javascript:void(0);) [Follow on Instagram](https://www.instagram.com/decisionsindentistry/)
 
