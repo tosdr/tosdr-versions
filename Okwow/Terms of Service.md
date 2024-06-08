@@ -17,7 +17,6 @@
 * [Instant Win](https://okwow.com/giftag/instant-win/)
 * [Expiring Soon](https://okwow.com/category/sweepstakes/expiring-soon/)
 * [Most Recent](https://okwow.com/category/sweepstakes/most-recent/)
-* [Blog](https://okwow.com/category/blog/)
 
 Terms of Use
 ============
@@ -254,3 +253,5 @@ Sign up to get daily sweepstakes, giveaways, and more delivered to your inbox!
 ##### **This website or its third-party tools process personal data. You can opt out of the sale of your personal information by clicking on the “Do not Sell or Share my Personal Information" link [here](https://privacyportal.onetrust.com/webform/06e3ef68-7a5d-49e9-8d24-7d52841ec504/5f6ba518-f562-4ee0-a07c-e107b4daee04).**
 
 The third-party product names, logos, brands, and trademarks shown on this website are the property of their respective owners. These companies are not affiliated with OkWow. These third parties do not sponsor or endorse this website, its content or services.
+
+![Quantcast](//pixel.quantserve.com/pixel/p-31iz6hfFutd16.gif?labels=Domain.okwow_com,DomainId.353955)
