@@ -1,4 +1,4 @@
-![](https://px.ads.linkedin.com/collect/?pid=5112322&fmt=gif)                  Data Protection Policy | Piota Apps                        
+![](https://px.ads.linkedin.com/collect/?pid=5112322&fmt=gif)                  Data Protection Policy | Piota Apps                 
 
 top of page
 
