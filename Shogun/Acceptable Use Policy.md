@@ -274,3 +274,15 @@ Company
 [Contact us for a Multi-store Discount](https://getshogun.com/contact/)
 
 Cookie Settings is not available. Cookie Consent is disabled or is just disabled for your country.
+
+Cookie Settings
+
+By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.
+
+Accept All Cookies
+
+By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.
+
+Cookie Settings
+
+Accept All Cookies
