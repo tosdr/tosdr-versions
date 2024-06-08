@@ -584,4 +584,4 @@ Kopieren
 
 [](#)
 
-[![](/fileadmin/_processed_/9/e/csm_blocktrainer_box_c2cf67b3db.png)](https://www.blocktrainer.de/unterstuetze-uns)
+[![](/fileadmin/_processed_/9/0/csm_RelaiApp_768d3183b2.jpg)](https://ref.blocktrainer.de/relai/ws/blocktrainer-empfehlungslinks/logo-banner)
