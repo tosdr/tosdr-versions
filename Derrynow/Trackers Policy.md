@@ -56,7 +56,7 @@ Search
 
 [![Home](images/logos/21/logo_white.jpg?v=1696508508227 "Home")](https://www.derrynow.com/)
 
-07 Jun 2024
+08 Jun 2024
 
 * [Home
     
@@ -259,85 +259,114 @@ Advertise with Us
 
 Most Popular
 
-[![Throwback Thursday: Partytime out and about pubs in Derry (2009)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Thursday: Partytime out and about pubs in Derry (2009)")](https://www.derrynow.com/story-telling/pictures---videos/1520191/throwback-thursday-partytime-out-and-about-pubs-in-derry-2009.html)
+[!['Heartbroken' - Tributes pour in as two-year-old girl who died in 'tragic accident' named locally](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "'Heartbroken' - Tributes pour in as two-year-old girl who died in 'tragic accident' named locally")](https://www.derrynow.com/news/national-news/1521891/heartbroken-tributes-paid-as-two-year-old-girl-who-died-in-tragic-accident-named-locally.html)
+
+[National News](https://www.derrynow.com/section/997/cookie-policy)
+
+['Heartbroken' - Tributes paid as two-year-old girl who died in 'tragic accident' named locally](https://www.derrynow.com/news/national-news/1521891/heartbroken-tributes-paid-as-two-year-old-girl-who-died-in-tragic-accident-named-locally.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Schools in Diocese of Derry celebrate annual Fan the Flame Mass](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Schools in Diocese of Derry celebrate annual Fan the Flame Mass")](https://www.derrynow.com/story-telling/pictures---videos/1521975/in-pictures-schools-in-diocese-of-derry-celebrate-annual-fan-the-flame-mass.html)
 
 [Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
 
-[Throwback Thursday: Partytime out and about pubs in Derry (2009)](https://www.derrynow.com/story-telling/pictures---videos/1520191/throwback-thursday-partytime-out-and-about-pubs-in-derry-2009.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[IN PICTURES: Schools in Diocese of Derry celebrate annual Fan the Flame Mass](https://www.derrynow.com/story-telling/pictures---videos/1521975/in-pictures-schools-in-diocese-of-derry-celebrate-annual-fan-the-flame-mass.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Foyle Bridge to close tomorrow morning for essential maintenance](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Foyle Bridge to close tomorrow morning for essential maintenance")](https://www.derrynow.com/news/local-news/1521128/foyle-bridge-to-close-tomorrow-morning-for-essential-maintenance.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Foyle Bridge to close tomorrow morning for essential maintenance](https://www.derrynow.com/news/local-news/1521128/foyle-bridge-to-close-tomorrow-morning-for-essential-maintenance.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry Death Notices - Thursday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Thursday")](https://www.derrynow.com/news/deaths/1520192/derry-death-notices-thursday-6th-june-2024.html)
+[![Derry Death Notices - Friday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Friday")](https://www.derrynow.com/news/deaths/1521453/derry-death-notices-friday-7th-june-2024.html)
 
 [Deaths](https://www.derrynow.com/section/977/deaths)
 
-[Derry Death Notices - Thursday, 6th June 2024](https://www.derrynow.com/news/deaths/1520192/derry-death-notices-thursday-6th-june-2024.html)
----------------------------------------------------------------------------------------------------------------------------------------------
+[Derry Death Notices - Friday, 7th June 2024](https://www.derrynow.com/news/deaths/1521453/derry-death-notices-friday-7th-june-2024.html)
+-----------------------------------------------------------------------------------------------------------------------------------------
 
-[![Man returned to Derry Crown Court on domestic abuse charges](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man returned to Derry Crown Court on domestic abuse charges")](https://www.derrynow.com/news/crime---courts/1521024/man-returned-to-derry-crown-court-on-domestic-abuse-charges.html)
+[![Pit bull terrier shot by armed gardaí in Cork after two injured in dog attack](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Pit bull terrier shot by armed gardaí in Cork after two injured in dog attack")](https://www.derrynow.com/news/national-news/1521934/pit-bull-terrier-shot-by-armed-gardai-in-cork-after-two-injured-in-dog-attack.html)
 
-[Crime & Courts](https://www.derrynow.com/section/2719/crime-courts)
+[National News](https://www.derrynow.com/section/997/cookie-policy)
 
-[Man returned to Derry Crown Court on domestic abuse charges](https://www.derrynow.com/news/crime---courts/1521024/man-returned-to-derry-crown-court-on-domestic-abuse-charges.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Pit bull terrier shot by armed gardaí in Cork after two injured in dog attack](https://www.derrynow.com/news/national-news/1521934/pit-bull-terrier-shot-by-armed-gardai-in-cork-after-two-injured-in-dog-attack.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Three months jail for Derry man who punched police officer](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Three months jail for Derry man who punched police officer")](https://www.derrynow.com/news/crime---courts/1520994/three-months-jail-for-derry-man-whopunched-police-officer.html)
+[![Derry man given 'final warning' after breaching bail](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man given 'final warning' after breaching bail")](https://www.derrynow.com/news/local-news/1522040/derry-man-given-final-warning-after-breaching-bail.html)
 
-[Crime & Courts](https://www.derrynow.com/section/2719/crime-courts)
-
-[Three months jail for Derry man who punched police officer](https://www.derrynow.com/news/crime---courts/1520994/three-months-jail-for-derry-man-whopunched-police-officer.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![New look Foyle Maritime Festival set to make waves](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "New look Foyle Maritime Festival set to make waves")](https://www.derrynow.com/news/local-news/1521256/new-look-foyle-maritime-festival-set-to-make-waves.html)
+Derry Magistrate's Court
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[New look Foyle Maritime Festival set to make waves](https://www.derrynow.com/news/local-news/1521256/new-look-foyle-maritime-festival-set-to-make-waves.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry man given 'final warning' after breaching bail](https://www.derrynow.com/news/local-news/1522040/derry-man-given-final-warning-after-breaching-bail.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Man returned for trial to Derry Crown Court on drug and stolen property charges](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man returned for trial to Derry Crown Court on drug and stolen property charges")](https://www.derrynow.com/news/crime---courts/1521001/man-returned-for-trial-to-derry-crown-court-on-drug-and-stolen-property-charges.html)
+[![Claudy man proud to announce his candidacy for the Ulster Unionist Party (UUP) in the upcoming general election](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Claudy man proud to announce his candidacy for the Ulster Unionist Party (UUP) in the upcoming general election")](https://www.derrynow.com/news/home/1521910/claudy-man-proud-to-announce-his-candidacy-for-the-ulster-unionist-party-uup-in-the-upcoming-general-election.html)
 
-[Crime & Courts](https://www.derrynow.com/section/2719/crime-courts)
+Glen Miller, from Claudy, has announced he will be running as a candidate for the UUP in the upcoming Westminster Election.
 
-[Man returned for trial to Derry Crown Court on drug and stolen property charges](https://www.derrynow.com/news/crime---courts/1521001/man-returned-for-trial-to-derry-crown-court-on-drug-and-stolen-property-charges.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Home](https://www.derrynow.com/)
 
-[![Cara Dillon shot at with BB pellets in England](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Cara Dillon shot at with BB pellets in England")](https://www.derrynow.com/news/local-news/1520953/cara-dillon-shot-at-with-bb-pellets-in-england.html)
+[Claudy man proud to announce his candidacy for the Ulster Unionist Party (UUP) in the upcoming general election](https://www.derrynow.com/news/home/1521910/claudy-man-proud-to-announce-his-candidacy-for-the-ulster-unionist-party-uup-in-the-upcoming-general-election.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Dungiven native Cara Dillon posted a photo of the pellets that struck her on X
+[![Suspended sentence for Derry man who assaulted police](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Suspended sentence for Derry man who assaulted police")](https://www.derrynow.com/news/local-news/1522036/suspended-sentence-for-derry-man-who-assaulted-police.html)
 
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Cara Dillon shot at with BB pellets in England](https://www.derrynow.com/news/local-news/1520953/cara-dillon-shot-at-with-bb-pellets-in-england.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Charity fundraiser Adrian Harkin dies after battle with motor neurone disease](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Charity fundraiser Adrian Harkin dies after battle with motor neurone disease")](https://www.derrynow.com/news/local-news/1521462/charity-fundraiser-adrian-harkin-dies-after-battle-with-motor-neurone-disease.html)
-
-Adrian Harkin established Inish Adventures in Moville
+Derry Magistrate's Court
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Charity fundraiser Adrian Harkin dies after battle with motor neurone disease](https://www.derrynow.com/news/local-news/1521462/charity-fundraiser-adrian-harkin-dies-after-battle-with-motor-neurone-disease.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Suspended sentence for Derry man who assaulted police](https://www.derrynow.com/news/local-news/1522036/suspended-sentence-for-derry-man-who-assaulted-police.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Police officer tells Lyra McKee trial of moment masked gunman opened fire](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police officer tells Lyra McKee trial of moment masked gunman opened fire")](https://www.derrynow.com/news/local-news/1521021/police-officer-tells-lyra-mckee-trial-of-moment-masked-gunman-opened-fire.html)
+[![UPDATE: Man, 20s, charged for alleged stalking of female public representative](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "UPDATE: Man, 20s, charged for alleged stalking of female public representative")](https://www.derrynow.com/news/national-news/1521806/update-man-in-his-20s-charged-for-alleged-stalking-of-female-public-representative.html)
 
-[Local News](https://www.derrynow.com/section/975/news)
+File photo
 
-[Police officer tells Lyra McKee trial of moment masked gunman opened fire](https://www.derrynow.com/news/local-news/1521021/police-officer-tells-lyra-mckee-trial-of-moment-masked-gunman-opened-fire.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[National News](https://www.derrynow.com/section/997/cookie-policy)
+
+[UPDATE: Man in his 20s charged for alleged stalking of female public representative](https://www.derrynow.com/news/national-news/1521806/update-man-in-his-20s-charged-for-alleged-stalking-of-female-public-representative.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![PSNI's Terrorism Investigation Unit investigating activities of New IRA carrying out search in Portglenone this morning](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PSNI's Terrorism Investigation Unit investigating activities of New IRA carrying out search in Portglenone this morning")](https://www.derrynow.com/news/home/1521852/psni-s-terrorism-investigation-unit-investigating-activities-of-new-ira-carrying-out-search-in-portglenone-this-morning.html)
+
+PSNI's Terrorism Investigation Unit are carrying out searches this morning.
+
+[Home](https://www.derrynow.com/)
+
+[PSNI's Terrorism Investigation Unit investigating activities of New IRA carrying out search in Portglenone this morning](https://www.derrynow.com/news/home/1521852/psni-s-terrorism-investigation-unit-investigating-activities-of-new-ira-carrying-out-search-in-portglenone-this-morning.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Search resumes for man missing off the coast of Galway overnight](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Search resumes for man missing off the coast of Galway overnight")](https://www.derrynow.com/news/national-news/1521895/search-resumes-for-man-missing-off-the-coast-of-galway-overnight.html)
+
+File photo
+
+[National News](https://www.derrynow.com/section/997/cookie-policy)
+
+[Search resumes for man missing off the coast of Galway overnight](https://www.derrynow.com/news/national-news/1521895/search-resumes-for-man-missing-off-the-coast-of-galway-overnight.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
 
 Multimedia
+
+[![IN PICTURES: Caw Nelson Drive Action Group volunteers award night](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Caw Nelson Drive Action Group volunteers award night")](https://www.derrynow.com/story-telling/pictures---videos/1522730/in-pictures-caw-nelson-drive-action-group-volunteers-award-night.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Caw Nelson Drive Action Group volunteers award night](https://www.derrynow.com/story-telling/pictures---videos/1522730/in-pictures-caw-nelson-drive-action-group-volunteers-award-night.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Holy Child PS annual summer fair](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Holy Child PS annual summer fair")](https://www.derrynow.com/story-telling/pictures---videos/1522727/in-pictures-holy-child-ps-annual-summer-fair.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Holy Child PS annual summer fair](https://www.derrynow.com/story-telling/pictures---videos/1522727/in-pictures-holy-child-ps-annual-summer-fair.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Schools in Diocese of Derry celebrate annual Fan the Flame Mass](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Schools in Diocese of Derry celebrate annual Fan the Flame Mass")](https://www.derrynow.com/story-telling/pictures---videos/1521975/in-pictures-schools-in-diocese-of-derry-celebrate-annual-fan-the-flame-mass.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Schools in Diocese of Derry celebrate annual Fan the Flame Mass](https://www.derrynow.com/story-telling/pictures---videos/1521975/in-pictures-schools-in-diocese-of-derry-celebrate-annual-fan-the-flame-mass.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![IN PICTURES: Oakgrove IPSN becomes ‘School of Sanctuary’](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Oakgrove IPSN becomes ‘School of Sanctuary’")](https://www.derrynow.com/story-telling/pictures---videos/1521367/in-pictures-oakgrove-ipsn-becomes-school-of-sanctuary.html)
 
@@ -389,27 +418,6 @@ Derry City fans at the Brandywell. Pics by Tom Heaney, nwpresspics
 
 [IN PICTURES: Derry schools receive sacrament of First Holy Communion](https://www.derrynow.com/story-telling/pictures---videos/1518180/in-pictures-derry-schools-receive-sacrament-of-first-holy-communion.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Sean Mellon Festival of Hurling at Na Magha](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Sean Mellon Festival of Hurling at Na Magha")](https://www.derrynow.com/story-telling/pictures---videos/1518111/in-pictures-sean-mellon-festival-of-hurling-at-na-magha.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Sean Mellon Festival of Hurling at Na Magha](https://www.derrynow.com/story-telling/pictures---videos/1518111/in-pictures-sean-mellon-festival-of-hurling-at-na-magha.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Irish Medium Schools' Blitz at Derry's Celtic Park](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Irish Medium Schools' Blitz at Derry's Celtic Park")](https://www.derrynow.com/story-telling/pictures---videos/1518093/in-pictures-irish-medium-schools-blitz-at-derry-s-celtic-park.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Irish Medium Schools' Blitz at Derry's Celtic Park](https://www.derrynow.com/story-telling/pictures---videos/1518093/in-pictures-irish-medium-schools-blitz-at-derry-s-celtic-park.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Eamonn Lynch’s debut play 'The Derry Yank' at St Columb's Hall](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Eamonn Lynch’s debut play 'The Derry Yank' at St Columb's Hall")](https://www.derrynow.com/story-telling/pictures---videos/1518080/in-pictures-eamonn-lynchs-debut-play-the-derry-yank-at-st-columb-s-hall.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Eamonn Lynch’s debut play 'The Derry Yank' at St Columb's Hall](https://www.derrynow.com/story-telling/pictures---videos/1518080/in-pictures-eamonn-lynchs-debut-play-the-derry-yank-at-st-columb-s-hall.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -513,55 +521,57 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Concerns raised over dangers of vaping oils](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Concerns raised over dangers of vaping oils")](https://www.derrynow.com/news/local-news/1521365/concerns-raised-over-dangers-of-vaping-oils.html)
-
-Concerns have been raised about vape oils
+[![Irish unity is best way of getting back into European Union – Eastwood](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Irish unity is best way of getting back into European Union – Eastwood")](https://www.derrynow.com/news/local-news/1522671/irish-unity-is-best-way-of-getting-back-into-european-union-eastwood.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Concerns raised over dangers of vaping oils](https://www.derrynow.com/news/local-news/1521365/concerns-raised-over-dangers-of-vaping-oils.html)
-------------------------------------------------------------------------------------------------------------------------------------------------
+[Irish unity is best way of getting back into European Union – Eastwood](https://www.derrynow.com/news/local-news/1522671/irish-unity-is-best-way-of-getting-back-into-european-union-eastwood.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Charity fundraiser Adrian Harkin dies after battle with motor neurone disease](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Charity fundraiser Adrian Harkin dies after battle with motor neurone disease")](https://www.derrynow.com/news/local-news/1521462/charity-fundraiser-adrian-harkin-dies-after-battle-with-motor-neurone-disease.html)
+[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1522630/will-patching-and-pat-hoban-score-as-derry-city-defeat-galway-united.html)
 
-Adrian Harkin established Inish Adventures in Moville
+Michael Duffy celebrates with goal scorer Will Patching. Pic by Ramsey Cardy/ Sportsfile
 
-[Local News](https://www.derrynow.com/section/975/news)
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
 
-[Charity fundraiser Adrian Harkin dies after battle with motor neurone disease](https://www.derrynow.com/news/local-news/1521462/charity-fundraiser-adrian-harkin-dies-after-battle-with-motor-neurone-disease.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Will Patching and Pat Hoban score as Derry City defeat Galway United](https://www.derrynow.com/news/derry-sport/1522630/will-patching-and-pat-hoban-score-as-derry-city-defeat-galway-united.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Lyra McKee trial watch unedited footage filmed by an MTV crew](https://www.derrynow.com/resizer/165/93/true/pa/2024_06_06/1717688117759_0.jpg--.jpg?1717688118154 "Lyra McKee trial watch unedited footage filmed by an MTV crew")](https://www.derrynow.com/news/local-news/1521451/lyra-mckee-trial-watch-unedited-footage-filmed-by-an-mtv-crew.html)
+[![Aontú announce candidates to stand across ten constituencies for upcoming Westminster Election](https://www.derrynow.com/resizer/165/93/true/2024_06_07/1000047585-1717788887355.jpg--.jpg?1717788887988 "Aontú announce candidates to stand across ten constituencies for upcoming Westminster Election")](https://www.derrynow.com/news/home/1522598/aontu-announce-candidates-to-stand-across-ten-constituencies-for-upcoming-westminster-election.html)
 
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Lyra McKee trial watch unedited footage filmed by an MTV crew](https://www.derrynow.com/news/local-news/1521451/lyra-mckee-trial-watch-unedited-footage-filmed-by-an-mtv-crew.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry's Danny McGinley honoured at first-ever Further Education NI Excellence Awards](https://www.derrynow.com/resizer/165/93/true/2024_06_06/NRC_5-1717690266422_1717690286.jpg--.jpg?1717690286560 "Derry's Danny McGinley honoured at first-ever Further Education NI Excellence Awards")](https://www.derrynow.com/news/local-news/1521447/derry-s-danny-mcginley-honoured-at-first-ever-further-education-ni-excellence-awards.html)
-
-Danny McGinley was awarded the Lifelong Learning award and is pictured with Tony Knipe from Translink.
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry's Danny McGinley honoured at first-ever Further Education NI Excellence Awards](https://www.derrynow.com/news/local-news/1521447/derry-s-danny-mcginley-honoured-at-first-ever-further-education-ni-excellence-awards.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Fun for all the family at Stendhal Festival with a packed programme of events planned](https://www.derrynow.com/resizer/165/93/true/2024_06_06/Paddy_and_Diane-1717685550376.jpg--.jpg?1717685550933 "Fun for all the family at Stendhal Festival with a packed programme of events planned")](https://www.derrynow.com/news/home/1521348/fun-for-all-the-family-at-stendhal-festival-with-a-packed-programme-of-events-planned.html)
-
-Diane & Paddy aka The Happiest Enchiladas bring their favourite tunes to the party for a big sing-along.
+Aontú leader Peadar Tóibín speaking at today's event.
 
 [Home](https://www.derrynow.com/)
 
-[Fun for all the family at Stendhal Festival with a packed programme of events planned](https://www.derrynow.com/news/home/1521348/fun-for-all-the-family-at-stendhal-festival-with-a-packed-programme-of-events-planned.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Aontú announce candidates to stand across ten constituencies for upcoming Westminster Election](https://www.derrynow.com/news/home/1522598/aontu-announce-candidates-to-stand-across-ten-constituencies-for-upcoming-westminster-election.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![New look Foyle Maritime Festival set to make waves](https://www.derrynow.com/resizer/165/93/true/2024_06_06/DerryMaritime22072210-1717681814690.jpg--.jpg?1717681817450 "New look Foyle Maritime Festival set to make waves")](https://www.derrynow.com/news/local-news/1521256/new-look-foyle-maritime-festival-set-to-make-waves.html)
+[![Bethlehem's mayor approves process of twinning city with Derry](https://www.derrynow.com/resizer/165/93/true/2024_06_07/Bethlehem_%288296039511%29-1717766796455.jpg--.jpg?1717766796533 "Bethlehem's mayor approves process of twinning city with Derry")](https://www.derrynow.com/news/derry-city-and-strabane-district-council/1522226/bethlehem-s-mayor-approves-process-of-twinning-city-with-derry.html)
+
+Bethlehem, credit Lux Moundi
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[New look Foyle Maritime Festival set to make waves](https://www.derrynow.com/news/local-news/1521256/new-look-foyle-maritime-festival-set-to-make-waves.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Bethlehem's mayor approves process of twinning city with Derry](https://www.derrynow.com/news/derry-city-and-strabane-district-council/1522226/bethlehem-s-mayor-approves-process-of-twinning-city-with-derry.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry man given 'final warning' after breaching bail](https://www.derrynow.com/resizer/165/93/true/2024_04_04/Derry-courthouse.jpg--derry_courthouse-1712223605087.jpg--.jpg?1712223605116 "Derry man given 'final warning' after breaching bail")](https://www.derrynow.com/news/local-news/1522040/derry-man-given-final-warning-after-breaching-bail.html)
+
+Derry Magistrate's Court
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry man given 'final warning' after breaching bail](https://www.derrynow.com/news/local-news/1522040/derry-man-given-final-warning-after-breaching-bail.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Suspended sentence for Derry man who assaulted police](https://www.derrynow.com/resizer/165/93/true/2024_03_28/derrycourthouse2.jpg--man_remanded_at_derry_magistrate_s_court_on_series_of_driving_charges-1711633542377.jpg--.jpg?1711633542414 "Suspended sentence for Derry man who assaulted police")](https://www.derrynow.com/news/local-news/1522036/suspended-sentence-for-derry-man-who-assaulted-police.html)
+
+Derry Magistrate's Court
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Suspended sentence for Derry man who assaulted police](https://www.derrynow.com/news/local-news/1522036/suspended-sentence-for-derry-man-who-assaulted-police.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
