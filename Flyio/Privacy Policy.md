@@ -18,13 +18,13 @@ Open main menu [Fly App performance optimization](https://fly.io/) [Docs](https:
 
 [Fly.io Blueprints](https://fly.io/docs/blueprints/) Toggle Fly.io Blueprints section
 
-* [Git Branch Preview Environments on Github](https://fly.io/docs/blueprints/review-apps-guide/)
-* [Going to Production with Healthcare Apps](https://fly.io/docs/blueprints/going-to-production-with-healthcare-apps/)
 * [Multi-region databases and fly-replay](https://fly.io/docs/blueprints/multi-region-fly-replay/)
-* [Bridge your other deployments to Fly.io](https://fly.io/docs/blueprints/bridge-deployments-wireguard/)
-* [Deno KV with LiteFS Cloud](https://fly.io/docs/blueprints/deno-kv-litefs/)
 * [Run an ssh server](https://fly.io/docs/blueprints/opensshd/)
+* [Git Branch Preview Environments on Github](https://fly.io/docs/blueprints/review-apps-guide/)
+* [Deno KV with LiteFS Cloud](https://fly.io/docs/blueprints/deno-kv-litefs/)
+* [Bridge your other deployments to Fly.io](https://fly.io/docs/blueprints/bridge-deployments-wireguard/)
 * [Crontab with Supercronic](https://fly.io/docs/blueprints/supercronic/)
+* [Going to Production with Healthcare Apps](https://fly.io/docs/blueprints/going-to-production-with-healthcare-apps/)
 
 [Languages & Frameworks](https://fly.io/docs/languages-and-frameworks/) Toggle Languages & Frameworks section
 
