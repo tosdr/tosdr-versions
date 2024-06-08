@@ -10,7 +10,7 @@ Free - Google Play
 
 You're currently on our **US** site. Select your regional site here:
 
-Select your region Australia Canada European Union Mexico New Zealand Singapore South Africa United Kingdom United States
+Select your region Australia Canada European Union Mexico South Africa United Kingdom United States
 
 ×
 
@@ -503,11 +503,11 @@ Amsterdam, Netherlands
 
 United States
 
-[Australia](https://www.freshbooks.com/en-au/) [Canada](https://www.freshbooks.com/en-ca/) [European Union](https://www.freshbooks.com/en-eu/) [Mexico](https://www.freshbooks.mx/) [New Zealand](https://www.freshbooks.com/en-nz/) [Singapore](https://www.freshbooks.com/en-sg/) [South Africa](https://www.freshbooks.com/en-za/) [United Kingdom](https://www.freshbooks.com/en-gb/) [United States](https://www.freshbooks.com/policies/privacy)
+[Australia](https://www.freshbooks.com/en-au/) [Canada](https://www.freshbooks.com/en-ca/) [European Union](https://www.freshbooks.com/en-eu/) [Mexico](https://www.freshbooks.mx/) [South Africa](https://www.freshbooks.com/en-za/) [United Kingdom](https://www.freshbooks.com/en-gb/) [United States](https://www.freshbooks.com/policies/privacy)
 
 English
 
-[English](https://www.freshbooks.com/en-au/) [English](https://www.freshbooks.com/en-ca/) [English](https://www.freshbooks.com/en-eu/) [English](https://www.freshbooks.com/en-nz/) [English](https://www.freshbooks.com/en-sg/) [English](https://www.freshbooks.com/en-za/) [English](https://www.freshbooks.com/en-gb/) [English](https://www.freshbooks.com/policies/privacy)
+[English](https://www.freshbooks.com/en-au/) [English](https://www.freshbooks.com/en-ca/) [English](https://www.freshbooks.com/en-eu/) [English](https://www.freshbooks.com/en-za/) [English](https://www.freshbooks.com/en-gb/) [English](https://www.freshbooks.com/policies/privacy)
 
  [![App Store](https://www.freshbooks.com/wp-content/themes/freshpress/dist/images/footer/app-stores/app-store-en-us.8c4986ee.svg)](https://apps.apple.com/app/apple-store/id1052884030?pt=63077)[![Google Play](https://www.freshbooks.com/wp-content/themes/freshpress/dist/images/footer/app-stores/google-play-en-us.250a06f1.svg)](https://play.google.com/store/apps/details?id=com.freshbooks.andromeda)
 
