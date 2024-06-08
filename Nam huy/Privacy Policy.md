@@ -128,6 +128,6 @@ If you have any questions or suggestions about our Privacy Policy, do not hesita
 
 Like Loading...
 
-© 2024 Nam Huy. | [Privacy Policy](https://www.namhuy.net/privacy-policy/) | [Terms and Conditions](https://www.namhuy.net/terms-and-conditions/)
+© 2024 Nam Huy   [Terms](https://www.namhuy.net/terms-and-conditions/)   [Privacy](https://www.namhuy.net/privacy-policy/)   [Contact](https://www.namhuy.net/contact-us/)
 
 %d
