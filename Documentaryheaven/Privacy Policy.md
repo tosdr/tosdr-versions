@@ -128,39 +128,39 @@ Advertisement
     The new world order – Illuminati, Freemasons and other secret societies
     
     Secret societies have been trying to influence politics ever since. With new methods of communication they are now globally connected and more powerful then ever before. The names of those secret soci...](https://documentaryheaven.com/the-new-world-order-illuminati-freemasons-and-other-secret-societies/ "The new world order – Illuminati, Freemasons and other secret societies")
-* [![The Columbine Cause](/wp-content/thumbnails/6218-100x70.jpg?x53432)
+* [![Expelled: No Intelligence Allowed](/wp-content/thumbnails/2444-100x70.jpg?x53432)
     
-    The Columbine Cause
+    Expelled: No Intelligence Allowed
     
-    "The Columbine Cause" by Evan Long raises questions about the April 20, 1999 attack on Columbine High School which have gone unaddressed or unanswered by corporate and state media, including: Why do c...](https://documentaryheaven.com/the-columbine-cause/ "The Columbine Cause")
+    Ben Stein shows us a world where Academia’s freedom of inquiry might not be so free. This should be a concern for anyone and everyone. This undermines the concept that we will be teaching facts and tr...](https://documentaryheaven.com/expelled-no-intelligence-allowed/ "Expelled: No Intelligence Allowed")
 
 ###### Throwback Documentaries
 
-* [![Ross Kemp on Gangs: A Kenya Special](/wp-content/thumbnails/10395-100x70.jpg?x53432)
+* [![Hitler’s Right Hand Man: Hermann Göring](/wp-content/thumbnails/9216-100x70.jpg?x53432)
     
-    Ross Kemp on Gangs: A Kenya Special
+    Hitler’s Right Hand Man: Hermann Göring
     
-    By now I imagine most of you documentary lovers out there will be familiar with the documentary series known as "Ross Kemp on Gangs", but for those of you that don't it is a British series hosted](https://documentaryheaven.com/ross-kemp-kenya-special/ "Ross Kemp on Gangs: A Kenya Special")
-* [![The Dirtiest Place on the Planet](/wp-content/thumbnails/6836-100x70.jpg?x53432)
+    Hermann Göring was Hitlers right hand man who after World War II was convicted in the Nuremberg trials of war crimes and crimes against humanity. He was sentenced to death by hanging but before this s](https://documentaryheaven.com/hitlers-right-hand-man-hermann-goring/ "Hitler’s Right Hand Man: Hermann Göring")
+* [![The Anthropocene: The Age of Mankind](/wp-content/thumbnails/13378-100x70.jpg?x53432)
     
-    The Dirtiest Place on the Planet
+    The Anthropocene: The Age of Mankind
     
-    It is the city of Linfen, China and spending about a day there breathing in the air is about the same as smoking three packs of cigarettes. The scary part is that there’s a lot of cities in China lik](https://documentaryheaven.com/the-dirtiest-place-on-the-planet/ "The Dirtiest Place on the Planet")
-* [![The Rise and Fall of Nokia](/wp-content/thumbnails/14084-100x70.jpg?x53432)
+    Humans have been trying to control nature for quite some time, and out influence has become more and more dramatic, in fact it is now so strong that following years of research and monitoring an inter](https://documentaryheaven.com/anthropocene-age-of-mankind/ "The Anthropocene: The Age of Mankind")
+* [![Hackers Wanted](/wp-content/thumbnails/6679-100x70.png?x53432)
     
-    The Rise and Fall of Nokia
+    Hackers Wanted
     
-    Nokia is a Finnish multinational company, originally founded in 1865 as a pulp mill the company became famous for its rubber products. In the 1970's Nokia expanded its operations into mobile phones an](https://documentaryheaven.com/rise-fall-of-nokia/ "The Rise and Fall of Nokia")
-* [![Charles Darwin and the Tree of Life](/wp-content/thumbnails/4322-100x70.jpg?x53432)
+    This film both follows the hacking adventures of famous hacker Adrian Lamo, and uses them as a microcosm for the macrocosm of struggles faced by emerging trends of thought – from the criminal to the p](https://documentaryheaven.com/hackers-wanted/ "Hackers Wanted")
+* [![Isaac Newton: The Last Magician](/wp-content/thumbnails/7604-100x70.jpg?x53432)
     
-    Charles Darwin and the Tree of Life
+    Isaac Newton: The Last Magician
     
-    David starts his journey in Darwin’s home at Down House in Kent, where Darwin worried and puzzled over the origins of life. David goes back to his roots in Leicestershire, where he hunted for fossils](https://documentaryheaven.com/charles-darwin-and-the-tree-of-life/ "Charles Darwin and the Tree of Life")
-* [![Million Dollar Traders](/wp-content/thumbnails/6713-100x70.jpg?x53432)
+    This 60-minute biography, part of the BBC’s Genius Of Invention season, reveals a much more complex figure by interviewing experts and delving into his own writings and those of his contemporaries. Ne](https://documentaryheaven.com/isaac-newton-last-magician/ "Isaac Newton: The Last Magician")
+* [![Terence Mckenna – Culture is your operating system](/wp-content/thumbnails/4381-100x70.jpg?x53432)
     
-    Million Dollar Traders
+    Terence Mckenna – Culture is your operating system
     
-    Million Dollar Traders follows a group of twelve wannabe traders dealing in shares during the events of the financial crisis of 2007-2009 which was then whittled down to the final eight. The contestan](https://documentaryheaven.com/million-dollar-traders/ "Million Dollar Traders")
+    Terence McKenna and his idea of extropy is explained through the window of opportunity we can call novelty. One of Terence McKenna’s most widely promulgated ideas is known as Novelty theory. It pred](https://documentaryheaven.com/terence-mckenna-culture-is-your-operating-system/ "Terence Mckenna – Culture is your operating system")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
