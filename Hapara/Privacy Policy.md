@@ -54,8 +54,8 @@
         * [Search](#)
 * [Log in](https://app.hapara.com/)
     * [Col 1](#)
-        * [TeachersLog in to view your classes.](https://www.teacherdashboard.com/)
-        * [StudentsLog in to your Student Dashboard.](https://app.hapara.com/)
+        * [TeachersLog in to view your classes.](https://app.hapara.com/login)
+        * [StudentsLog in to your Student Dashboard.](https://app.hapara.com/student/login)
 * [Request a demo](https://hapara.com/demo/)
 
 [](https://hapara.com/cart/)
