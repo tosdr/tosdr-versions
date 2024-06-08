@@ -1,6 +1,6 @@
 * **Ongoing technology outage**
     
-    Due to a cybersecurity event, several Library services are not available. Our buildings remain open. Learn more about what is impacted and what services are available on [our blog](https://shelftalkblog.wordpress.com/).
+    Due to a cybersecurity event, several Library services are not available. Our buildings remain open. Learn more about what is impacted and what services are available on [our blog](https://shelftalkblog.wordpress.com/2024/05/28/an-update-about-access-to-library-technology-systems/).
     
 
 [Skip to Main Content](https://www.spl.org/about-us/policies/confidentiality-of-patron-information#main-content)
