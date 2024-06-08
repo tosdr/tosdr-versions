@@ -353,6 +353,7 @@ MON - FRI 9AM - 5PM (EST)
 
 * [Seller Terms & Conditions](https://www.bobswatches.com/shipping-label-terms)
 * [Consignor Terms](https://www.bobswatches.com/consignor-terms)
+* [Payment Methods](https://www.bobswatches.com/payment-methods)
 * [Contact Us](https://www.bobswatches.com/contact-us)
 * [FAQ](https://www.bobswatches.com/faqs)
 
