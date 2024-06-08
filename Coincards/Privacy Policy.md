@@ -2,9 +2,9 @@
     
     * [Australia ![](https://assets.coincards.com/wp-content/uploads/2023/11/01185347/australia.png)](https://coincards.com/au/) 
     * [Canada ![](https://coincards.com/ca/wp-content/uploads/sites/3/2019/03/CA-Canada-Flag-icon.png)](https://coincards.com/ca/?wcj-country=CA) 
+    * [Europe ![](https://assets.coincards.com/wp-content/uploads/2023/11/01185345/european-union.png)](https://coincards.com/eu) 
     * [United Kingdom ![](https://assets.coincards.com/wp-content/uploads/2023/01/31133258/united-kingdom.png)](https://coincards.com/uk/) 
     * [United States ![](https://coincards.com/us/wp-content/uploads/sites/2/2019/03/US-United-States-Flag-icon.png)](https://coincards.com/us/?wcj-country=US) 
-    * [Europe (Coming Soon) ![](https://assets.coincards.com/wp-content/uploads/2023/11/01185345/european-union.png)](https://coincards.com/) 
     
 
  [![Coincards.com](https://assets.coincards.com/wp-content/uploads/2019/04/08121831/coincards_logo_global_medium.png)](https://coincards.com/)[![Coincards.com](https://assets.coincards.com/wp-content/uploads/2019/04/08121831/coincards_logo_global_medium.png)](https://coincards.com/)
