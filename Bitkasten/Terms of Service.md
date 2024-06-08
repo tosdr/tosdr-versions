@@ -232,8 +232,8 @@ Wallensteinstraße 63
 90431 Nürnberg
 
 Standort Niederrhein  
-Eurotec-Ring 15  
-47445 Moers
+Ernst-Dietrich-Platz 2  
+40882 Ratingen
 
 [+49 911 | 6000 2874](tel:+4991160002874)  
 [Kontaktformular](https://www.bitkasten.de/kontakt/) [](https://stage.bitkasten.de/login)
