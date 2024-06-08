@@ -50,9 +50,7 @@ Loading…
     5. [Users](https://stackexchange.com/users)
     6. [Companies](https://stackoverflow.com/jobs/companies?so_medium=stackoverflow&so_source=SiteNav)
     7. [Labs](javascript:void(0))
-    8. [Jobs
-        
-        New](https://stackexchange.com/jobs?source=so-left-nav)
+    8. [Jobs](https://stackexchange.com/jobs?source=so-left-nav)
     9. [Discussions](https://stackexchange.com/beta/discussions)
     10. [Collectives](javascript:void(0))
         
