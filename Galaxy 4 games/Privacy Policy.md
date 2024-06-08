@@ -456,4 +456,4 @@ Get In Touch
 
      
 
-Please prove you are human by selecting the Plane.
+Please prove you are human by selecting the Star.
