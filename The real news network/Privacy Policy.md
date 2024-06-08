@@ -73,15 +73,15 @@ Trending Posts
 --------------
 
 * [Biden's 'failed' humanitarian pier in Gaza was a stirring success](https://therealnews.com/bidens-failed-humanitarian-pier-in-gaza-was-a-stirring-success)
+* [Unmarked Sacramento gang unit cops stop, arrest father and child at gunpoint](https://therealnews.com/unmarked-sacramento-gang-unit-cops-stop-arrest-father-and-child-at-gunpoint)
 * ['Biden, we are your red line': The upcoming national march on DC for Palestine on June 8](https://therealnews.com/biden-we-are-your-red-line-the-upcoming-national-march-on-dc-for-palestine-on-june-8)
 * [Progressive climate scientist Claudia Sheinbaum wins Mexican presidency in landslide](https://therealnews.com/progressive-climate-scientist-claudia-sheinbaum-wins-mexican-presidency-in-landslide)
 * [‘An uprising in the making’: ‘Alberta’ chiefs say oil company’s forceful approach is an attack on treaty rights](https://therealnews.com/an-uprising-in-the-making-alberta-chiefs-say-oil-companys-forceful-approach-is-an-attack-on-treaty-rights)
-* [CBC has whitewashed Israel’s crimes in Gaza. I saw it firsthand](https://therealnews.com/cbc-has-whitewashed-israels-crimes-in-gaza-i-saw-it-firsthand)
 * [Uni. of Toronto's People's Circle for Palestine holds for a month with community solidarity](https://therealnews.com/uni-of-torontos-peoples-circle-for-palestine-holds-for-a-month-with-community-solidarity)
+* [CBC has whitewashed Israel’s crimes in Gaza. I saw it firsthand](https://therealnews.com/cbc-has-whitewashed-israels-crimes-in-gaza-i-saw-it-firsthand)
 * [Israel is exploiting Palestinians in dangerous 'e-waste' factories](https://therealnews.com/israel-is-exploiting-palestinians-in-dangerous-e-waste-factories)
-* [Pierre Poilievre’s incoming war on support for Palestine](https://therealnews.com/pierre-poilievres-incoming-war-on-support-for-palestine)
-* [University of California union’s Gaza solidarity strike spreads across campuses](https://therealnews.com/university-of-california-unions-gaza-solidarity-strike-spreads-across-campuses)
 * [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
+* [University of California union’s Gaza solidarity strike spreads across campuses](https://therealnews.com/university-of-california-unions-gaza-solidarity-strike-spreads-across-campuses)
 
 Close
 
@@ -137,15 +137,15 @@ Trending Posts
 --------------
 
 * [Biden's 'failed' humanitarian pier in Gaza was a stirring success](https://therealnews.com/bidens-failed-humanitarian-pier-in-gaza-was-a-stirring-success)
+* [Unmarked Sacramento gang unit cops stop, arrest father and child at gunpoint](https://therealnews.com/unmarked-sacramento-gang-unit-cops-stop-arrest-father-and-child-at-gunpoint)
 * ['Biden, we are your red line': The upcoming national march on DC for Palestine on June 8](https://therealnews.com/biden-we-are-your-red-line-the-upcoming-national-march-on-dc-for-palestine-on-june-8)
 * [Progressive climate scientist Claudia Sheinbaum wins Mexican presidency in landslide](https://therealnews.com/progressive-climate-scientist-claudia-sheinbaum-wins-mexican-presidency-in-landslide)
 * [‘An uprising in the making’: ‘Alberta’ chiefs say oil company’s forceful approach is an attack on treaty rights](https://therealnews.com/an-uprising-in-the-making-alberta-chiefs-say-oil-companys-forceful-approach-is-an-attack-on-treaty-rights)
-* [CBC has whitewashed Israel’s crimes in Gaza. I saw it firsthand](https://therealnews.com/cbc-has-whitewashed-israels-crimes-in-gaza-i-saw-it-firsthand)
 * [Uni. of Toronto's People's Circle for Palestine holds for a month with community solidarity](https://therealnews.com/uni-of-torontos-peoples-circle-for-palestine-holds-for-a-month-with-community-solidarity)
+* [CBC has whitewashed Israel’s crimes in Gaza. I saw it firsthand](https://therealnews.com/cbc-has-whitewashed-israels-crimes-in-gaza-i-saw-it-firsthand)
 * [Israel is exploiting Palestinians in dangerous 'e-waste' factories](https://therealnews.com/israel-is-exploiting-palestinians-in-dangerous-e-waste-factories)
-* [Pierre Poilievre’s incoming war on support for Palestine](https://therealnews.com/pierre-poilievres-incoming-war-on-support-for-palestine)
-* [University of California union’s Gaza solidarity strike spreads across campuses](https://therealnews.com/university-of-california-unions-gaza-solidarity-strike-spreads-across-campuses)
 * [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
+* [University of California union’s Gaza solidarity strike spreads across campuses](https://therealnews.com/university-of-california-unions-gaza-solidarity-strike-spreads-across-campuses)
 
 [Skip to content](#main)
 
