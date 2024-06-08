@@ -282,7 +282,7 @@ Change [View State Page](https://www.ducks.org/)
 Privacy Policy
 ==============
 
-[**Click here for our Donor Privacy policy.**](https://www.ducks.org/about-ducks-unlimited/donor-privacy-policy "Donor Privacy Policy")
+[**Click here for our Donor Privacy policy.**](https://www.ducks.org/about-ducks-unlimited/privacy-policy/donor-privacy-policy "Donor Privacy Policy")
 
 _Updated June 1, 2021_
 
