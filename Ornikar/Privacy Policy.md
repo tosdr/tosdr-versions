@@ -542,7 +542,7 @@ ORNIKAR vous adressera sa réponse dans un délai maximum d’un (1) mois, à co
 
 Par ailleurs, Vous êtes informé que Vous pouvez Vous opposer au démarchage téléphonique en Vous inscrivant sur le site internet [www.bloctel.fr](http://www.bloctel.fr/).
 
-Enfin, Vous avez le droit d’introduire une réclamation à tout moment auprès de l’autorité de contrôle compétente pour la protection des données. Pour ce faire, Vous pouvez Vous adresser à l’autorité de contrôle compétente pour la protection des données de la région dans laquelle Vous demeurez ou, en tout état de cause, la CNIL pour la France : [www.cnil.fr](http://www.cnil.fr/).
+Enfin, Vous avez le droit d’introduire une réclamation à tout moment auprès de l’autorité de contrôle compétente pour la protection des données. Pour ce faire, Vous pouvez Vous adresser à l’autorité de contrôle compétente pour la protection des données de la région dans laquelle Vous demeurez ou, en tout état de cause, la CNIL pour la France : [www.cnil.fr](https://www.cnil.fr/).
 
 ARTICLE 8 – Bases légales de traitement
 ---------------------------------------
