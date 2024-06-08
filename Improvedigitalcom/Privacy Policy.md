@@ -356,7 +356,6 @@ Platform
 
 * [Login](https://improvedigital.com/login/)
 * [Help Centre](https://improvedigital.zendesk.com/hc/en-us)
-* [Contact Support](https://improvedigital.zendesk.com/hc/en-us/requests/new)
 * [Platform Status](https://status.improvedigital.com/)
 
 Company
