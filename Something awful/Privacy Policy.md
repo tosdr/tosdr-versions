@@ -205,24 +205,27 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Auto-Fellatio, Wrestling, and Time Travel](https://www.somethingawful.com/weekend-web/autofellatio-wrestling-time/1/)
-* [Let's improve landmarks](https://www.somethingawful.com/photoshop-phriday/lets-improve-landmarks/)
-* [Slavoj Zizek Writes the Episode Guide for 2 Broke Girls on Wikipedia](https://www.somethingawful.com/news/broke-slavoj-girls/1/)
-* [Microsoft Streets & Trips 2008](https://www.somethingawful.com/game-reviews/streets-trips-review/1/)
-* [AwfulVision: The Movie!](https://www.somethingawful.com/awfulvision/movie-effort-awfulvision/1/)
+* [ANSWP and StudyHealth](https://www.somethingawful.com/weekend-web/racist-health-forums/1/)
+* [The Greatest Albums Ever Suck](https://www.somethingawful.com/your-band-sucks/greatest-albums-ever/)
+* [Band Name Movies 3: Song Titles](https://www.somethingawful.com/photoshop-phriday/song-name-movies/1/)
+* [Twisted Children's Books](https://www.somethingawful.com/comedy-goldmine/twisted-childrens-books/1/)
+* [Amusement Park Madness](https://www.somethingawful.com/photoshop-phriday/amusement-park-madness/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/sex.png) [what was the moment you knew you were queer](http://forums.somethingawful.com/showthread.php?threadid=4062355 "what was the moment you knew you were queer")
-* ![](https://fi.somethingawful.com/forums/posticons/samartd-organs.gif) [do any goons donate plasma](http://forums.somethingawful.com/showthread.php?threadid=4062330 "do any goons donate plasma")
+* ![](https://fi.somethingawful.com/forums/posticons/LF-2wqxulw.gif) [found the AwfulVision MDE article from 2009](http://forums.somethingawful.com/showthread.php?threadid=4062398 "found the AwfulVision MDE article from 2009")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/tv.png) [I don't think I can finish Blacklist](http://forums.somethingawful.com/showthread.php?threadid=4062442 "I don't think I can finish Blacklist")
+* ![](https://fi.somethingawful.com/forums/posticons/lf-arecountry.gif) [What's the plan this summer?](http://forums.somethingawful.com/showthread.php?threadid=4062390 "What's the plan this summer?")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/serious.png) [Oscar Pistorius](http://forums.somethingawful.com/showthread.php?threadid=4062411 "Oscar Pistorius")
+* ![](https://fi.somethingawful.com/forums/posticons/byob-slayer.gif) [Who would win in a fight?](http://forums.somethingawful.com/showthread.php?threadid=4062396 "Who would win in a fight?")
 
 ### Random Articles
 
-* [Album Cover Or Video Card Box?](https://www.somethingawful.com/garbage-day/album-video-card/)
-* [President Trump Compliments Video Game Villains](https://www.somethingawful.com/video-game-article/trump-villain-compliments/)
-* [Memorable Moments From the Film "Bad Leftenant"](https://www.somethingawful.com/news/bad-lieutenant-uk/)
-* [Monstergeddon Forum: Anyone see Indian Jones 4?](https://www.somethingawful.com/news/monstergeddon-indiana-jones/1/)
-* [Transmeta's Crusoe Announcement](https://www.somethingawful.com/news/transmetas-crusoe-announcement/)
+* [Project 666](https://www.somethingawful.com/awful-links/awful-link-3788/)
+* [AD&D 2nd Edition Spelljammer: Space Lairs](https://www.somethingawful.com/dungeons-and-dragons/spelljammer-lairs-adventure/1/)
+* [Return of the Wizard](https://www.somethingawful.com/news/mr-wizard-transcripts2/1/)
+* [Cutbacks](https://www.somethingawful.com/news/cutbacks-office/)
+* [The 22 Most Awful Moments in Science Fiction](https://www.somethingawful.com/most-awful/most-awful-scifi/1/)
 
 [Random!](https://www.somethingawful.com/random/)
 
