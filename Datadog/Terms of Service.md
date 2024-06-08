@@ -477,7 +477,7 @@ Product
 
 Resources
 
-[Pricing](https://www.datadoghq.com/pricing/) [Documentation](https://docs.datadoghq.com/) [Support](https://www.datadoghq.com/support/) [Certification](https://www.datadoghq.com/certification/) [Open Source](https://opensource.datadoghq.com/)
+[Pricing](https://www.datadoghq.com/pricing/) [Documentation](https://docs.datadoghq.com/) [Support](https://www.datadoghq.com/support/) [Certification](https://www.datadoghq.com/certification/overview/) [Open Source](https://opensource.datadoghq.com/)
 
 [Events and Webinars](https://www.datadoghq.com/events-webinars/) [Security](https://www.datadoghq.com/security/) [Privacy Center](https://www.datadoghq.com/privacy/) [Knowledge Center](https://www.datadoghq.com/knowledge-center/) [Learning Resources](https://www.datadoghq.com/learn/)
 
