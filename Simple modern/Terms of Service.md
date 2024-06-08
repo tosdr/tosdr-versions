@@ -1005,13 +1005,12 @@ Other
 * [Wholesale Inquiries](https://www.simplemodern.com/pages/wholesale-inquiries)
 * [Wholesale Login](https://shopify.com/11003842/account)
 * [Ambassador Program](https://simple-modern.aspireiq.com/join/simple-modern-ambassador-application)
-* [Donation Requests](https://www.simplemodern.com/pages/donation-request)
 
-Footer logo ![](https://www.simplemodern.com/cdn/shop/t/689/assets/logo-allyant_160x.png?v=97510380452981561201715262630&em-format=auto)
+Footer logo ![](https://www.simplemodern.com/cdn/shop/t/707/assets/logo-allyant_160x.png?v=97510380452981561201717771730&em-format=auto)
 
 © 2024 [Simple Modern](https://www.simplemodern.com/). All Rights Reserved.
 
-![](https://www.simplemodern.com/cdn/shop/t/689/assets/logo-allyant_160x.png?v=97510380452981561201715262630&em-format=auto)
+![](https://www.simplemodern.com/cdn/shop/t/707/assets/logo-allyant_160x.png?v=97510380452981561201717771730&em-format=auto)
 
 By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.
 
