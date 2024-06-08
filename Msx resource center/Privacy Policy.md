@@ -137,6 +137,7 @@ MSX Music player
 
 Latest reactions
 
+* [Mr. Balloon Remake by Mapax](https://www.msx.org/news/software/en/mr-balloon-remake "Mr. Balloon Remake by Mapax")
 * [MSXdev24 #04 Whack 'Em Smack 'Em Byrons](https://www.msx.org/news/challenges/en/msxdev24-04-whackmsmackmbyrons "MSXdev24 #04 Whack 'Em Smack 'Em Byrons")
 * [Carnivore2+ is now available for purchasing!](https://www.msx.org/news/en/carnivore2-is-now-available-for-purchasing "Carnivore2+ is now available for purchasing!")
 * [Tecnobytes Shockwave-II and Slot Expander-II](https://www.msx.org/news/hardware/en/tecnobytes-shockwave2-and-expander2 "Tecnobytes Shockwave-II and Slot Expander-II")
@@ -146,23 +147,22 @@ Latest reactions
 * [Pixel Memories](https://www.msx.org/news/msx-related/en/pixel-memories-dioramas "Pixel Memories")
 * [Introducing repairbas.com](https://www.msx.org/news/websites/en/introducing-repairbascom "Introducing repairbas.com")
 * [Blade Lords reissue](https://www.msx.org/news/software/en/blade-lords-reissue "Blade Lords reissue")
-* [MSX2 GOTO 40](https://www.msx.org/news/events/en/msx2-goto40 "MSX2 GOTO 40")
 
 Latest forum posts
 
-* [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=19 "WonderTANG! Who wants to juice up your MSX?")
-* [Dumping/reverse engineering MSX models thread](https://www.msx.org/forum/msx-talk/emulation/dumpingreverse-engineering-msx-models-thread?page=44 "Dumping/reverse engineering MSX models thread")
-* [Dual pc joysticks with single USB](https://www.msx.org/forum/msx-talk/openmsx/dual-pc-joysticks-with-single-usb "Dual pc joysticks with single USB")
-* [NOP videoclips](https://www.msx.org/forum/msx-talk/graphics-and-music/nop-videoclips "NOP videoclips")
-* [Sneak peek of Whack 'Em Smack 'Em Byrons for the MSX](https://www.msx.org/forum/msx-talk/development/sneak-peek-of-whack-em-smack-em-byrons-for-the-msx "Sneak peek of Whack 'Em Smack 'Em Byrons for the MSX")
-* [how many turbo-r machines are sold ?](https://www.msx.org/forum/msx-talk/hardware/how-many-turbo-r-machines-are-sold?page=32 "how many turbo-r machines are sold ?")
 * [Project cv (chaos)](https://www.msx.org/forum/msx-talk/software/project-cv-chaos?page=1 "Project cv (chaos)")
-* [Openmsx saves the state with wrong file name](https://www.msx.org/forum/msx-talk/openmsx/openmsx-saves-the-state-with-wrong-file-name?page=1 "Openmsx saves the state with wrong file name")
+* [Covers for Keyboards / Computers](https://www.msx.org/forum/msx-talk/general-discussion/covers-for-keyboards-computers "Covers for Keyboards / Computers")
 * [Carnivore2/SofaRun boot issues on Arabic MSX1](https://www.msx.org/forum/msx-talk/general-discussion/carnivore2sofarun-boot-issues-on-arabic-msx1 "Carnivore2/SofaRun boot issues on Arabic MSX1")
-* [msx basic full screen editor](https://www.msx.org/forum/msx-talk/general-discussion/msx-basic-full-screen-editor "msx basic full screen editor")
-* [Dangerous programs?](https://www.msx.org/forum/msx-talk/hardware/dangerous-programs "Dangerous programs?")
-* [Please help testing upcoming openMSX release!](https://www.msx.org/forum/msx-talk/openmsx/please-help-testing-upcoming-openmsx-release?page=105 "Please help testing upcoming openMSX release!")
-* [Timesink - Fidling in sc6](https://www.msx.org/forum/msx-talk/development/timesink-fidling-in-sc6?page=2 "Timesink - Fidling in sc6")
+* [Sneak peek of Whack 'Em Smack 'Em Byrons for the MSX](https://www.msx.org/forum/msx-talk/development/sneak-peek-of-whack-em-smack-em-byrons-for-the-msx "Sneak peek of Whack 'Em Smack 'Em Byrons for the MSX")
+* [Redefining MSX character set.](https://www.msx.org/forum/msx-talk/graphics-and-music/redefining-msx-character-set "Redefining MSX character set.")
+* [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=20 "WonderTANG! Who wants to juice up your MSX?")
+* [Dangerous programs?](https://www.msx.org/forum/msx-talk/hardware/dangerous-programs?page=1 "Dangerous programs?")
+* [Wiki editing discussion](https://www.msx.org/forum/msx-talk/msx-resource-center/wiki-editing-discussion?page=221 "Wiki editing discussion")
+* [Dumping/reverse engineering MSX models thread](https://www.msx.org/forum/msx-talk/emulation/dumpingreverse-engineering-msx-models-thread?page=44 "Dumping/reverse engineering MSX models thread")
+* [NOP videoclips](https://www.msx.org/forum/msx-talk/graphics-and-music/nop-videoclips "NOP videoclips")
+* [Dual pc joysticks with single USB](https://www.msx.org/forum/msx-talk/openmsx/dual-pc-joysticks-with-single-usb "Dual pc joysticks with single USB")
+* [how many turbo-r machines are sold ?](https://www.msx.org/forum/msx-talk/hardware/how-many-turbo-r-machines-are-sold?page=32 "how many turbo-r machines are sold ?")
+* [Openmsx saves the state with wrong file name](https://www.msx.org/forum/msx-talk/openmsx/openmsx-saves-the-state-with-wrong-file-name?page=1 "Openmsx saves the state with wrong file name")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
