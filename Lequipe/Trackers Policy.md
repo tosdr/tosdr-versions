@@ -52,7 +52,6 @@ réglages accessibilité
 * [combat](https://www.lequipe.fr/Sports-de-combat/)
     
 * [ski-glace](https://www.lequipe.fr/Ski-glace/)
-* [ski-glace](https://www.lequipe.fr/Ski-glace/)
     
 * [esport](https://www.lequipe.fr/Esport/)
     
@@ -277,31 +276,153 @@ L'ÉQUIPE
 
 filtrer : tous les sports
 
-[12:19
+[12:42
 
-Golf,
+JO 2024
 
-PGA Tour,
+Une funambule va rejoindre le Stade de France à 25m de hauteur ce samedi](https://www.lequipe.fr/Jo-2024-paris/Tous-sports/Actualites/Une-funambule-va-rejoindre-le-stade-de-france-a-25-metres-de-hauteur-ce-samedi/1473331 "Une funambule va rejoindre le Stade de France à 25m de hauteur ce samedi")
 
-Memorial Tournament
+[12:10
 
-Perez frustré de son 1er tour](https://www.lequipe.fr/Golf/Actualites/Victor-perez-ressort-frustre-de-son-premier-tour-au-memorial-tournament/1473081 "Perez frustré de son 1er tour")
+Athlé,
 
-[12:16
+Championnats d'Europe (H)
+
+À l'aube des JO, Jacobs se cherche encore](https://www.lequipe.fr/Athletisme/Article/Parti-s-entrainer-aux-etats-unis-marcell-jacobs-se-cherche-encore-a-l-aube-des-jeux-olympiques/1473274 "À l'aube des JO, Jacobs se cherche encore")
+
+[12:03
+
+Hockey,
+
+NHL
+
+En finale, les Edmonton Oilers remontent le temps](https://www.lequipe.fr/Hockey-sur-glace/Actualites/Les-edmonton-oilers-disputent-la-finale-de-nhl-plus-de-30-ans-apres-leur-dernier-titre/1473042 "En finale, les Edmonton Oilers remontent le temps")
+
+[12:00
+
+Médias
+
+«Espoirs», le documentaire événement de L'Équipe avant les Jeux](https://www.lequipe.fr/Jo-2024-paris/Tous-sports/Actualites/-espoirs-histoires-de-resilience-de-5-jeunes-sportifs/1471884 "«Espoirs», le documentaire événement de L'Équipe avant les Jeux")
+
+[12:00
+
+Boxe
+
+En Corrèze, le Café qui fait boxer d'anciens détenus](https://www.lequipe.fr/Boxe/Actualites/En-correze-le-cafe-de-la-poste-fait-boxer-d-anciens-detenus-en-cours-de-reinsertion/1472348 "En Corrèze, le Café qui fait boxer d'anciens détenus")
+
+[11:49
+
+Foot,
+
+Euro,
+
+Bleus
+
+Les numéros officiels des joueurs](https://www.lequipe.fr/Football/Actualites/Retrouvez-la-liste-officielle-des-bleus-a-l-euro-avec-leur-numero/1473324 "Les numéros officiels des joueurs")
+
+[11:25
 
 Rugby,
 
-Top 14
+Pro D2,
 
-Castres veut encore y croire pour la qualification](https://www.lequipe.fr/Rugby/Article/Top-14-on-a-une-petite-opportunite-castres-veut-encore-y-croire-pour-la-qualification/1472972 "Castres veut encore y croire pour la qualification")
+Grenoble
 
-[12:16
+Les Grenoblois surmotivés](https://www.lequipe.fr/Rugby/Article/Des-hommes-en-colere-la-saison-du-fc-grenoble-racontee-de-l-interieur-avant-la-finale-de-pro-d2-face-a-vannes/1473141 "Les Grenoblois surmotivés")
 
-Roland-Garros
+[11:15
 
-Le programme du 7 juin](https://www.lequipe.fr/Tennis/Actualites/Le-programme-du-7-juin-a-roland-garros-avec-le-sommet-sinner-alcaraz-en-demi-finales/1473047 "Le programme du 7 juin")
+JO 2024,
 
-[12:15
+Flamme olympique
+
+La flamme arrive en Guyane ce dimanche 9 juin](https://www.lequipe.fr/Jo-2024-paris/Tous-sports/Actualites/Flamme-olympique-en-guyane-et-a-cayenne-programme-horaires-et-animation-de-ce-dimanche-9-juin/1473220 "La flamme arrive en Guyane ce dimanche 9 juin")
+
+[11:10
+
+Tous Sports
+
+Marchand, Merckx, les Bleus : incontournables de la semaine](https://www.lequipe.fr/collection/series/serie/la-selection-du-weekend/ "Marchand, Merckx, les Bleus : incontournables de la semaine")
+
+[11:06
+
+Basket,
+
+NBA,
+
+Draft
+
+Salaün annoncé à l'entraînement chez les Spurs](https://www.lequipe.fr/Basket/Actualites/Tidjane-salaun-va-s-entrainer-avec-les-san-antonio-spurs-en-vue-de-la-prochaine-draft-nba/1473321 "Salaün annoncé à l'entraînement chez les Spurs")
+
+[11:00
+
+Ultra-trail,
+
+UTMB
+
+Le Tenerife Bluetrail en direct sur L'Équipe live 4](https://www.lequipe.fr/tv/videos/live/k6oih7JyuEmhrnqwBZT "Le Tenerife Bluetrail en direct sur L'Équipe live 4")
+
+[11:00
+
+Le Magazine,
+
+Médias
+
+Un documentaire sur l'histoire du racisme dans le foot](https://www.lequipe.fr/Medias/Article/Dans-le-documentaire-des-cris-dans-le-stade-mohamed-bouhafsi-raconte-l-histoire-du-racisme-dans-le-football/1472874 "Un documentaire sur l'histoire du racisme dans le foot")
+
+[10:55
+
+Roland-Garros (F),
+
+L'oeil de Mats
+
+Les forces de Swiatek sur terre battue](https://www.lequipe.fr/Tennis/Article/L-oeil-de-mats-wilander-sur-iga-swiatek-avant-la-finale-de-roland-garros-elle-joue-comme-nadal/1473162 "Les forces de Swiatek sur terre battue")
+
+[10:50
+
+Foot,
+
+Amical,
+
+Angleterre
+
+Southgate : «Rien à redire sur la réaction des supporters»](https://www.lequipe.fr/Football/Actualites/Gareth-southgate-apres-la-defaite-de-l-angleterre-je-n-ai-rien-a-redire-sur-la-reaction-des-supporters/1473320 "Southgate : «Rien à redire sur la réaction des supporters»")
+
+[10:48
+
+Auto,
+
+24 Heures du Mans,
+
+Cadillac
+
+Bourdais : «On est moins dans l'inconnu que l'an dernier»](https://www.lequipe.fr/Sport-auto/Actualites/Sebastien-bourdais-cadillac-avant-les-24-heures-du-mans-on-est-moins-dans-l-inconnu-que-l-an-dernier/1473318 "Bourdais : «On est moins dans l'inconnu que l'an dernier»")
+
+[10:48
+
+Cyclisme,
+
+Tour de Suisse
+
+Le Grand Prix de la montagne en hommage à Gino Mäder](https://www.lequipe.fr/Cyclisme-sur-route/Actualites/Tour-de-suisse-le-grand-prix-de-la-montagne-en-hommage-a-gino-mader/1473317 "Le Grand Prix de la montagne en hommage à Gino Mäder")
+
+[10:45
+
+Foot,
+
+Amical,
+
+Allemagne
+
+Nagelsmann : «Une bonne réaction en deuxième période»](https://www.lequipe.fr/Football/Actualites/Julian-nagelsmann-apres-la-courte-victoire-de-l-allemagne-une-bonne-reaction-en-deuxieme-periode/1473316 "Nagelsmann : «Une bonne réaction en deuxième période»")
+
+[10:45
+
+Roland-Garros (F)
+
+Que devient Muchova ?](https://www.lequipe.fr/Tennis/Article/Que-devient-karolina-muchova-un-an-apres-sa-finale-surprise-a-roland-garros/1473211 "Que devient Muchova ?")
+
+[10:45
 
 Rugby,
 
@@ -309,137 +430,19 @@ Podcast
 
 Vannes-Grenoble : deux destins pour une place en Top 14](https://www.lequipe.fr/collection/podcasts/serie/crunch/ "Vannes-Grenoble : deux destins pour une place en Top 14")
 
-[12:12
+[10:35
 
-Rugby
+Rallye-raid,
 
-Des initiations à l'assaut des terrains oubliés](https://www.lequipe.fr/Rugby/Actualites/Au-tournoi-national-des-quartiers-et-campagnes-le-rugby-a-l-assaut-des-terrains-oublies/1473079 "Des initiations à l'assaut des terrains oubliés")
+W2RC
 
-[12:00
-
-Le Magazine,
-
-Foot
-
-Entre les Bleus et la mode, une relation contrastée](https://www.lequipe.fr/Football/Article/Entre-l-equipe-de-france-de-foot-et-le-monde-de-la-mode-une-relation-contrastee/1472805 "Entre les Bleus et la mode, une relation contrastée")
-
-[11:58
-
-Tennis,
-
-Justice
-
-Le procès de Zverev conclu sur un accord à l'amiable](https://www.lequipe.fr/Tennis/Actualites/Le-proces-d-alexander-zverev-pour-violences-conjugales-se-conclut-sur-un-accord-a-l-amiable/1473075 "Le procès de Zverev conclu sur un accord à l'amiable")
-
-[11:57
-
-Foot,
-
-Angleterre
-
-Adarabioyo (Fulham) signe à Chelsea](https://www.lequipe.fr/Football/Actualites/Tosin-adarabioyo-signe-librement-a-chelsea/1473074 "Adarabioyo (Fulham) signe à Chelsea")
-
-[11:31
-
-Spécial transferts
-
-La défense brestoise, C1 chantier](https://www.lequipe.fr/Football/Article/A-brest-le-premier-chantier-du-mercato-concerne-la-defense-centrale/1472910 "La défense brestoise, C1 chantier")
-
-[11:30
-
-Tennis de table,
-
-WTT
-
-Entrée réussie pour Alexis Lebrun à Zagreb](https://www.lequipe.fr/Tennis-de-table/Actualites/Mise-en-jambes-reussie-pour-alexis-lebrun-au-wtt-contender-de-zagreb/1473068 "Entrée réussie pour Alexis Lebrun à Zagreb")
-
-[11:30
-
-JO 2024,
-
-Ecologie
-
-Le COJOP en infraction sur la distribution de bouteilles en plastique ?](https://www.lequipe.fr/Jo-2024-paris/Tous-sports/Actualites/Bouteilles-en-plastique-pour-les-athletes-le-cojop-est-il-en-infraction-avec-la-loi-agec/1472999 "Le COJOP en infraction sur la distribution de bouteilles en plastique ?")
-
-[11:17
-
-Roland-Garros,
-
-L'oeil de Mats
-
-Alcaraz, Sinner et le sens de l'anticipation](https://www.lequipe.fr/Tennis/Article/L-oeil-de-mats-wilander-sur-la-demi-finale-alcaraz-sinner-ce-qui-me-bluffe-c-est-leur-sens-de-l-anticipation/1472986 "Alcaraz, Sinner et le sens de l'anticipation")
-
-[11:15
-
-Tennis,
-
-Podcast
-
-Alcaraz-Sinner, le choc qui ne déçoit jamais](https://www.lequipe.fr/Tennis/Actualites/Podcast-balle-neuve-pourquoi-vous-ne-pouvez-pas-manquer-alcaraz-sinner/1472948 "Alcaraz-Sinner, le choc qui ne déçoit jamais")
-
-[11:14
-
-Foot,
-
-L1,
-
-Rennes
-
-Jeanuël Belocian vers Leverkusen](https://www.lequipe.fr/Football/Actualites/Jeanuel-belocian-rennes-vers-leverkusen/1473065 "Jeanuël Belocian vers Leverkusen")
-
-[11:10
-
-Spécial Transferts
-
-Et si Cardona restait à Saint-Étienne ?](https://www.lequipe.fr/Football/Article/Mercato-irvin-cardona-a-encore-une-petite-chance-de-rester-a-saint-etienne/1472947 "Et si Cardona restait à Saint-Étienne ?")
-
-[11:09
-
-Foot,
-
-Portugal,
-
-Porto
-
-Bruno remplace Conçeicao](https://www.lequipe.fr/Football/Actualites/Vitor-bruno-remplace-sergio-conceicao-sur-le-banc-du-fc-porto/1473063 "Bruno remplace Conçeicao")
-
-[10:55
-
-Foot,
-
-L2,
-
-Sochaux
-
-Ackra vers Clermont](https://www.lequipe.fr/Football/Actualites/Allan-ackra-sochaux-vers-clermont/1473061 "Ackra vers Clermont")
-
-[10:04
-
-Spécial transferts
-
-Thuram-Todibo-Bulka, le trio convoité de Nice](https://www.lequipe.fr/Football/Article/Khephren-thuram-jean-clair-todibo-et-marcin-bulka-le-trio-de-nice-convoite/1473020 "Thuram-Todibo-Bulka, le trio convoité de Nice")
-
-[10:03
-
-Rugby,
-
-Elite 1 (F)
-
-Bourgeois-Trémoulière : duel des fines gâchettes](https://www.lequipe.fr/Rugby/Actualites/Morgane-bourgeois-jessy-tremouliere-duel-des-fines-gachettes-en-finale-d-elite-1/1473039 "Bourgeois-Trémoulière : duel des fines gâchettes")
-
-[09:59
-
-JO 2024,
-
-Eau libre
-
-L'entraînement dans la Seine reporté](https://www.lequipe.fr/Jo-2024-paris/Natation/Actualites/L-entrainement-dans-la-seine-de-l-equipe-de-france-d-eau-libre-reporte/1473056 "L'entraînement dans la Seine reporté")
+Al-Rajhi vainqueur en Argentine](https://www.lequipe.fr/Rallye-raid/Actualites/Yazeed-al-rajhi-remporte-le-desafio-ruta-40-sur-le-fil/1473314 "Al-Rajhi vainqueur en Argentine")
 
 L'ÉQUIPE
 
 le journal
 
-![](https://eqp-eqp-webreader-production.twipemobile.com/data/673/covers/Preview-MEDIUM-32724.jpg?v=4)
+![](https://eqp-eqp-webreader-production.twipemobile.com/data/674/covers/Preview-MEDIUM-32764.jpg?v=4)
 
 lire l'édition
 
