@@ -1,4 +1,4 @@
-![](https://px.ads.linkedin.com/collect/?pid=4296396&fmt=gif) [Skip to content](#content)
+[Skip to content](#content)
 
 [![](https://www.gozonewifi.com/wp-content/uploads/gozone_logo-250.png)](https://www.gozonewifi.com/)
 
