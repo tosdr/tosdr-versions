@@ -319,7 +319,7 @@ Solutions
 
 Company
 
-[About FastSpring](https://fastspring.com/company/) [Careers – We're Hiring!](https://fastspring.com/company/careers/) [Blog](https://fastspring.com/blog/) [Customers](https://fastspring.com/customers/)
+[About FastSpring](https://fastspring.com/company/) [Careers – We're Hiring!](https://fastspring.com/company/careers/) [Blog](https://fastspring.com/blog/) [Customers](https://fastspring.com/customers/) [Trust Center](https://trust.fastspring.com/)
 
 Help
 
