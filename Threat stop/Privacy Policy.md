@@ -128,9 +128,9 @@ If you have any additional questions or concerns about this Policy, please feel 
 
 ★★★★★
 
-ThreatSTOP was able to help us rapidly identify and remediate a spam botnet that was putting one of our customer’s business at risk.
+ThreatSTOP is the clear leader in IP reputation services, and provides invaluable protection for AISO and our customers against zero-day, APTs, botnets and other advanced threats.
 
-John Verbrugge - Principal, NonLinear Tech
+Phil Nash - CTO, AISO.net
 
 * [Solutions](https://www.threatstop.com/case-studies?hsLang=en)
 * [Products](https://www.threatstop.com/threatstop-platform?hsLang=en)
