@@ -31,7 +31,7 @@
 
 [Question more](https://www.rt.com/)
 
-[Putin outlines response to long-range strikes: Russia-Ukraine conflict](https://www.rt.com/trends/russia-ukraine-conflict/)
+[Putin says power in Ukraine usurped: Russia-Ukraine conflict](https://www.rt.com/trends/russia-ukraine-conflict/)
 
 [live](https://www.rt.com/on-air/)
 
@@ -64,9 +64,7 @@
 
 [](https://odysee.com/@RT:fd)
 
-[Putin outlines response to long-range strikes: Russia-Ukraine conflict](https://www.rt.com/trends/russia-ukraine-conflict/)
-
-[Russia will win – Putin](https://www.rt.com/russia/598966-russia-win-ukraine-conflict/)
+[Putin says power in Ukraine usurped: Russia-Ukraine conflict](https://www.rt.com/trends/russia-ukraine-conflict/)
 
 [Home](https://www.rt.com/)
 
