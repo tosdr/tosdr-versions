@@ -225,7 +225,7 @@ Copyright © OmniSale GMBH.
 [Previous ← Terms of Service](https://www.lalal.ai/terms-and-conditions/) [Next Refund Policy →](https://www.lalal.ai/refund-policy/)
 
 Try our remover of vocal, accompaniment and instruments now
------------------------------------------------------------
+===========================================================
 
 Select the stem separation type and get results in seconds.
 
