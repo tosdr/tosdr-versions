@@ -26,7 +26,7 @@ Browse [Servers](https://www.planetminecraft.com/servers/ "Minecraft Servers") [
 
 Tools [PMCSkin3D](https://www.planetminecraft.com/skin-editor/ "Minecraft Skin Editor | PMCSkin3D") [Banners](https://www.planetminecraft.com/banners/ "Banners") [Papercraft](https://www.planetminecraft.com/papercraft/ "Papercraft")
 
-[![Data Pack Series](https://www.planetminecraft.com/images/special/data-pack-tutorial.png)](https://www.planetminecraft.com/forums/minecraft/datapacks/function-data-packs-for-dummies-a-tutorial-blog-series-604217/ "Learn about Function Data Packs")
+[![PMC Collections](https://www.planetminecraft.com/images/special/collections.png)](https://www.planetminecraft.com/collections/?order=order_popularity&time_machine=last7d "Best Community Collections updated in past 7 days!")
 
 Community
 
@@ -36,7 +36,7 @@ Entertainment [Jams](https://www.planetminecraft.com/jams/ "Jams") [CFT Cards](h
 
 Support [Tickets](https://www.planetminecraft.com/tickets/ "Tickets") [Help](https://www.planetminecraft.com/forums/help/ "Help")
 
-[![Data Pack Series](https://www.planetminecraft.com/images/special/data-pack-tutorial.png)](https://www.planetminecraft.com/forums/minecraft/datapacks/function-data-packs-for-dummies-a-tutorial-blog-series-604217/ "Learn about Function Data Packs")
+[![PMCSkin3D](https://www.planetminecraft.com/images/studio/pmcskin3d/promo/pmcskin3d_minecraft_skin_editor.png)](https://www.planetminecraft.com/pmcskin3d/ "PMCSkin3D : Advanced Minecraft Skin Editor")
 
 [LOGIN](https://www.planetminecraft.com/account/sign_in/ "Sign In") [SIGN UP](https://www.planetminecraft.com/account/create/ "Create")
 
