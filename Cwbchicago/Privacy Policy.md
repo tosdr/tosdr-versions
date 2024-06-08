@@ -244,39 +244,39 @@ This privacy policy was created in party by using [Termly’s Privacy Policy Ge
 
 [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20326%20245'%3E%3C/svg%3E)
 
-![](https://cwbchicago.com/wp-content/uploads/2024/06/Zet-Rodriguez-Divonte-Calhoun-and-Justin-Redmond-326x245.jpg)](https://cwbchicago.com/2024/06/2-parolees-charged-with-murdering-young-father-during-a-robbery-on-the-nw-side.html "2 parolees charged with murdering young father during a robbery on the NW Side")
+![](https://cwbchicago.com/wp-content/uploads/2024/06/Victoria-Greyson-326x245.jpg)](https://cwbchicago.com/2024/06/woman-tazed-and-pepper-sprayed-sprayed-sleeping-man-killed-him-with-a-lamp-and-hammer-prosecutors.html "Woman tazed and pepper-sprayed sleeping man, killed him with a lamp and hammer: prosecutors")
 
 Citywide
 
-### [2 parolees charged with murdering young father during a robbery on the NW Side](https://cwbchicago.com/2024/06/2-parolees-charged-with-murdering-young-father-during-a-robbery-on-the-nw-side.html "2 parolees charged with murdering young father during a robbery on the NW Side")
+### [Woman tazed and pepper-sprayed sleeping man, killed him with a lamp and hammer: prosecutors](https://cwbchicago.com/2024/06/woman-tazed-and-pepper-sprayed-sprayed-sleeping-man-killed-him-with-a-lamp-and-hammer-prosecutors.html "Woman tazed and pepper-sprayed sleeping man, killed him with a lamp and hammer: prosecutors")
 
-[June 4, 2024 7:31 PM](https://cwbchicago.com/2024/06)
+[June 5, 2024 6:06 PM](https://cwbchicago.com/2024/06)
 
-Two men with extensive criminal records, both on parole, robbed and murdered a young father as he walked to work on the Northwest Side last month, prosecutors said Tuesday.[](https://cwbchicago.com/2024/06/2-parolees-charged-with-murdering-young-father-during-a-robbery-on-the-nw-side.html "2 parolees charged with murdering young father during a robbery on the NW Side")
-
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20326%20245'%3E%3C/svg%3E)
-
-![](https://cwbchicago.com/wp-content/uploads/2024/02/Justin-Slaughter-speak-326x245.jpg)](https://cwbchicago.com/2024/06/fairness-and-equity-illinois-drivers-can-get-3-unpaid-tickets-a-year-before-license-suspension-under-newly-passed-law.html "Fairness and equity? Illinois drivers can get 3 unpaid tickets a year before license suspension under newly-passed law")
-
-Citywide
-
-### [Fairness and equity? Illinois drivers can get 3 unpaid tickets a year before license suspension under newly-passed law](https://cwbchicago.com/2024/06/fairness-and-equity-illinois-drivers-can-get-3-unpaid-tickets-a-year-before-license-suspension-under-newly-passed-law.html "Fairness and equity? Illinois drivers can get 3 unpaid tickets a year before license suspension under newly-passed law")
-
-[June 4, 2024 7:07 AM](https://cwbchicago.com/2024/06)
-
-A bill that passed the Illinois General Assembly will allow traffic violators to get three unpaid traffic tickets per year before they have their license suspended. [](https://cwbchicago.com/2024/06/fairness-and-equity-illinois-drivers-can-get-3-unpaid-tickets-a-year-before-license-suspension-under-newly-passed-law.html "Fairness and equity? Illinois drivers can get 3 unpaid tickets a year before license suspension under newly-passed law")
+A Chicago woman faces charges of first-degree murder and concealing a homicidal death for allegedly beating a man to death with a hammer and stashing his body in a kitchen cupboard.[](https://cwbchicago.com/2024/06/woman-tazed-and-pepper-sprayed-sprayed-sleeping-man-killed-him-with-a-lamp-and-hammer-prosecutors.html "Woman tazed and pepper-sprayed sleeping man, killed him with a lamp and hammer: prosecutors")
 
 [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20326%20245'%3E%3C/svg%3E)
 
-![](https://cwbchicago.com/wp-content/uploads/2024/06/2600-block-west-gunnison-chicago-citizen-326x245.jpg)](https://cwbchicago.com/2024/06/chicago-police-recruit-shot-while-driving-in-ravenswood.html "Chicago police recruit shot while driving in Ravenswood")
+![](https://cwbchicago.com/wp-content/uploads/2024/06/Hopkins-skyline-326x245.jpg)](https://cwbchicago.com/2024/06/new-alderman-wants-unaccompanied-kids-out-of-downtown-by-8-p-m.html "New: Alderman wants unaccompanied kids out of downtown by 8 p.m.")
 
-Lincoln Square
+Loop
 
-### [Chicago police recruit shot while driving in Ravenswood](https://cwbchicago.com/2024/06/chicago-police-recruit-shot-while-driving-in-ravenswood.html "Chicago police recruit shot while driving in Ravenswood")
+### [New: Alderman wants unaccompanied kids out of downtown by 8 p.m.](https://cwbchicago.com/2024/06/new-alderman-wants-unaccompanied-kids-out-of-downtown-by-8-p-m.html "New: Alderman wants unaccompanied kids out of downtown by 8 p.m.")
 
-[June 4, 2024 6:51 AM](https://cwbchicago.com/2024/06)
+[June 5, 2024 3:32 PM](https://cwbchicago.com/2024/06)
 
-A Chicago police recruit suffered a gunshot wound to his back while driving in Ravenswood overnight, police said. The victim’s 21-year-old passenger, also believed to be a male CPD recruit, was not injured.[](https://cwbchicago.com/2024/06/chicago-police-recruit-shot-while-driving-in-ravenswood.html "Chicago police recruit shot while driving in Ravenswood")
+The alderman whose ward includes nearly all of Streeterville wants to expand the city’s curfew law to ban unaccompanied minors from being in the downtown area after 8 p.m.[](https://cwbchicago.com/2024/06/new-alderman-wants-unaccompanied-kids-out-of-downtown-by-8-p-m.html "New: Alderman wants unaccompanied kids out of downtown by 8 p.m.")
+
+[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20326%20245'%3E%3C/svg%3E)
+
+![](https://cwbchicago.com/wp-content/uploads/2024/05/JH277134-and-JH276310-suspects-326x245.jpg)](https://cwbchicago.com/2024/06/11-year-old-boy-robbed-62-year-old-aboard-a-cta-train-chicago-police-say-his-accomplice-was-14.html "11-year-old boy robbed 62-year-old aboard a CTA train, Chicago police say (His accomplice was 14)")
+
+CTA
+
+### [11-year-old boy robbed 62-year-old aboard a CTA train, Chicago police say (His accomplice was 14)](https://cwbchicago.com/2024/06/11-year-old-boy-robbed-62-year-old-aboard-a-cta-train-chicago-police-say-his-accomplice-was-14.html "11-year-old boy robbed 62-year-old aboard a CTA train, Chicago police say (His accomplice was 14)")
+
+[June 5, 2024 9:14 AM](https://cwbchicago.com/2024/06)
+
+Chicago police have charged an 11-year-old boy with robbing a man nearly six times his age on a CTA train. He worked with a 14-year-old girl to commit the crime, police said.[](https://cwbchicago.com/2024/06/11-year-old-boy-robbed-62-year-old-aboard-a-cta-train-chicago-police-say-his-accomplice-was-14.html "11-year-old boy robbed 62-year-old aboard a CTA train, Chicago police say (His accomplice was 14)")
 
 Search
 
@@ -292,7 +292,7 @@ Email \*
 
 Message \*
 
-Comment
+Email
 
 Submit
 
