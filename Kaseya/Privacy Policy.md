@@ -353,11 +353,11 @@
     
     Upcoming Events
     
-    ![](https://www.kaseya.com/wp-content/uploads/2023/07/CITlocal-WebImage-Singapore-1200x800-1-300x200.jpg)
+    ![](https://www.kaseya.com/wp-content/uploads/2023/12/kaseya-dattocon-emea-promo24-300x158.jpg)
     
-    Kaseya + Datto Connect Local Singapore
+    Kaseya DattoCon Europe
     
-    June 6
+    June 11 - 13
     
     [View All Events](https://www.kaseya.com/events/)
     
