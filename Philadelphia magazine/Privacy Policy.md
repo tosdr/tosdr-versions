@@ -264,12 +264,12 @@ _Unsubscribe Requests:_ If you would like to unsubscribe from our email lists, y
 Trending
 --------
 
-1. ### [Mayor Parker Wants Speed Cameras All Over Philadelphia](https://www.phillymag.com/news/2024/06/04/philadelphia-speed-cameras-mayor-parker/)
+1. ### [It’s Softie Season! Here’s Where to Get the Best Soft-Shell Crabs](https://www.phillymag.com/foobooz/soft-shell-crab/)
     
-2. ### [Class Action Lawsuit Filed Against University of the Arts](https://www.phillymag.com/news/2024/06/05/university-of-the-arts-lawsuit/)
+2. ### [Things to Do in Philadelphia This Weekend](https://www.phillymag.com/things-to-do/weekend-philadelphia/)
     
-3. ### [It’s Softie Season! Here’s Where to Get the Best Soft-Shell Crabs](https://www.phillymag.com/foobooz/soft-shell-crab/)
+3. ### [Finally, the World Is Getting the Gritty Choral Work It Deserves](https://www.phillymag.com/news/2024/06/06/gritty-choir-song-melissa-dunphy/)
     
-4. ### [Where to Get a Head Spa Treatment in and Around Philadelphia](https://www.phillymag.com/be-well-philly/head-spa-scalp-massage-philadelphia/)
+4. ### [Mayor Parker Wants Speed Cameras All Over Philadelphia](https://www.phillymag.com/news/2024/06/04/philadelphia-speed-cameras-mayor-parker/)
     
-5. ### [Things to Do in Philadelphia This Weekend](https://www.phillymag.com/things-to-do/weekend-philadelphia/)
+5. ### [The Best Doughnuts in Philadelphia](https://www.phillymag.com/foobooz/best-donuts-doughnuts-philadelphia/)
