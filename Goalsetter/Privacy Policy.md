@@ -4,7 +4,7 @@ Welcome! If you are using Goalsetter® through your credit union or bank, please
 
 * [Features](https://goalsetter.co/features/)
     * [All Features](https://goalsetter.co/features/)
-    * [Education](https://goalsetter.co/education/)
+    * [Learning](https://goalsetter.co/learning/)
     * [Investing](https://goalsetter.co/investing/)
 * [Banks & Credit Unions](https://goalsetter.co/banks-cus/)
 * [Financial Advisors](https://goalsetter.co/financial-advisors/)
@@ -16,7 +16,7 @@ Menu
 
 * [Features](https://goalsetter.co/features/)
     * [All Features](https://goalsetter.co/features/)
-    * [Education](https://goalsetter.co/education/)
+    * [Learning](https://goalsetter.co/learning/)
     * [Investing](https://goalsetter.co/investing/)
 * [Banks & Credit Unions](https://goalsetter.co/banks-cus/)
 * [Financial Advisors](https://goalsetter.co/financial-advisors/)
@@ -32,7 +32,7 @@ Menu
 
 * [Features](https://goalsetter.co/features/)
     * [All Features](https://goalsetter.co/features/)
-    * [Education](https://goalsetter.co/education/)
+    * [Learning](https://goalsetter.co/learning/)
     * [Investing](https://goalsetter.co/investing/)
 * [Banks & Credit Unions](https://goalsetter.co/banks-cus/)
 * [Financial Advisors](https://goalsetter.co/financial-advisors/)
@@ -46,7 +46,7 @@ Menu
 
 * [Features](https://goalsetter.co/features/)
     * [All Features](https://goalsetter.co/features/)
-    * [Education](https://goalsetter.co/education/)
+    * [Learning](https://goalsetter.co/learning/)
     * [Investing](https://goalsetter.co/investing/)
 * [Banks & Credit Unions](https://goalsetter.co/banks-cus/)
 * [Financial Advisors](https://goalsetter.co/financial-advisors/)
@@ -58,7 +58,7 @@ Menu
 
 * [Features](https://goalsetter.co/features/)
     * [All Features](https://goalsetter.co/features/)
-    * [Education](https://goalsetter.co/education/)
+    * [Learning](https://goalsetter.co/learning/)
     * [Investing](https://goalsetter.co/investing/)
 * [Banks & Credit Unions](https://goalsetter.co/banks-cus/)
 * [Financial Advisors](https://goalsetter.co/financial-advisors/)
@@ -74,7 +74,7 @@ Menu
 
 * [Features](https://goalsetter.co/features/)
     * [All Features](https://goalsetter.co/features/)
-    * [Education](https://goalsetter.co/education/)
+    * [Learning](https://goalsetter.co/learning/)
     * [Investing](https://goalsetter.co/investing/)
 * [Banks & Credit Unions](https://goalsetter.co/banks-cus/)
 * [Financial Advisors](https://goalsetter.co/financial-advisors/)
