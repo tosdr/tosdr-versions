@@ -26,7 +26,7 @@ Blitz Studios, Inc.
 
 Written by Sleeper HQ
 
-Updated yesterday
+Updated this week
 
 Last Updated: June 6, 2024
 
