@@ -16,6 +16,30 @@
 
 * [SyrupArcade](https://mobilesyrup.com/categories/gaming/)
     
+    [](https://mobilesyrup.com/2024/06/06/dragon-age-the-veilguard/)
+    
+    Jun 6, 2024 | 3:40 PM EDT
+    
+    ### [BioWare’s upcoming Dragon Age gets new title ‘The Veilguard’](https://mobilesyrup.com/2024/06/06/dragon-age-the-veilguard/)
+    
+    [](https://mobilesyrup.com/2024/06/06/ubisoft-store-85-percent-off/)
+    
+    Jun 6, 2024 | 1:59 PM EDT
+    
+    ### [Ubisoft Store is discounting games by up to 85 percent](https://mobilesyrup.com/2024/06/06/ubisoft-store-85-percent-off/)
+    
+    [](https://mobilesyrup.com/2024/06/06/xbox-game-pass-console-cloud-pc-june-2024-new-games-wave-1/)
+    
+    Jun 6, 2024 | 12:36 PM EDT
+    
+    ### [New on Xbox Game Pass on console, cloud and PC in June 2024 \[Wave 1\]](https://mobilesyrup.com/2024/06/06/xbox-game-pass-console-cloud-pc-june-2024-new-games-wave-1/)
+    
+    [](https://mobilesyrup.com/2024/06/05/behaviour-interactive-layoffs-95-employees/)
+    
+    Jun 5, 2024 | 5:47 PM EDT
+    
+    ### [Behaviour Interactive laying off up to 95 employees, 70 in Montreal](https://mobilesyrup.com/2024/06/05/behaviour-interactive-layoffs-95-employees/)
+    
     [](https://mobilesyrup.com/2024/06/04/ubisoft-toronto-to-assist-development-prince-of-persia-remake/)
     
     Jun 4, 2024 | 11:21 AM EDT
@@ -28,31 +52,31 @@
     
     ### [Helldivers 2 and Stellar Blade were Canada’s best-selling games of April 2024](https://mobilesyrup.com/2024/06/04/helldivers-2-stellar-blade-fallout-best-selling-games-canada-april-2024/)
     
-    [](https://mobilesyrup.com/2024/06/03/sony-playstation-vr2-pc-adapter-august/)
-    
-    Jun 3, 2024 | 12:36 PM EDT
-    
-    ### [Sony to launch PlayStation VR2 PC adapter in August](https://mobilesyrup.com/2024/06/03/sony-playstation-vr2-pc-adapter-august/)
-    
-    [](https://mobilesyrup.com/2024/06/02/hades-2-early-access-review/)
-    
-    Jun 2, 2024 | 2:11 PM EDT
-    
-    ### [Hades II’s early access gives an in-depth look at this phenomenal sequel](https://mobilesyrup.com/2024/06/02/hades-2-early-access-review/)
-    
-    [](https://mobilesyrup.com/2024/05/30/playstation-state-of-play-may-2024-news-roundup/)
-    
-    May 30, 2024 | 6:41 PM EDT
-    
-    ### [Here’s everything shown off during May’s PlayStation State of Play](https://mobilesyrup.com/2024/05/30/playstation-state-of-play-may-2024-news-roundup/)
-    
-    [](https://mobilesyrup.com/2024/05/30/world-of-warcraft-nvidia-geforce-now/)
-    
-    May 30, 2024 | 3:35 PM EDT
-    
-    ### [World of Warcraft lands on Nvidia GeForce Now](https://mobilesyrup.com/2024/05/30/world-of-warcraft-nvidia-geforce-now/)
-    
     * [Gaming](https://mobilesyrup.com/categories/gaming/)
+        
+        [](https://mobilesyrup.com/2024/06/06/dragon-age-the-veilguard/)
+        
+        Jun 6, 2024 | 3:40 PM EDT
+        
+        ### [BioWare’s upcoming Dragon Age gets new title ‘The Veilguard’](https://mobilesyrup.com/2024/06/06/dragon-age-the-veilguard/)
+        
+        [](https://mobilesyrup.com/2024/06/06/ubisoft-store-85-percent-off/)
+        
+        Jun 6, 2024 | 1:59 PM EDT
+        
+        ### [Ubisoft Store is discounting games by up to 85 percent](https://mobilesyrup.com/2024/06/06/ubisoft-store-85-percent-off/)
+        
+        [](https://mobilesyrup.com/2024/06/06/xbox-game-pass-console-cloud-pc-june-2024-new-games-wave-1/)
+        
+        Jun 6, 2024 | 12:36 PM EDT
+        
+        ### [New on Xbox Game Pass on console, cloud and PC in June 2024 \[Wave 1\]](https://mobilesyrup.com/2024/06/06/xbox-game-pass-console-cloud-pc-june-2024-new-games-wave-1/)
+        
+        [](https://mobilesyrup.com/2024/06/05/behaviour-interactive-layoffs-95-employees/)
+        
+        Jun 5, 2024 | 5:47 PM EDT
+        
+        ### [Behaviour Interactive laying off up to 95 employees, 70 in Montreal](https://mobilesyrup.com/2024/06/05/behaviour-interactive-layoffs-95-employees/)
         
         [](https://mobilesyrup.com/2024/06/04/ubisoft-toronto-to-assist-development-prince-of-persia-remake/)
         
@@ -66,70 +90,76 @@
         
         ### [Helldivers 2 and Stellar Blade were Canada’s best-selling games of April 2024](https://mobilesyrup.com/2024/06/04/helldivers-2-stellar-blade-fallout-best-selling-games-canada-april-2024/)
         
-        [](https://mobilesyrup.com/2024/06/03/sony-playstation-vr2-pc-adapter-august/)
-        
-        Jun 3, 2024 | 12:36 PM EDT
-        
-        ### [Sony to launch PlayStation VR2 PC adapter in August](https://mobilesyrup.com/2024/06/03/sony-playstation-vr2-pc-adapter-august/)
-        
-        [](https://mobilesyrup.com/2024/06/02/hades-2-early-access-review/)
-        
-        Jun 2, 2024 | 2:11 PM EDT
-        
-        ### [Hades II’s early access gives an in-depth look at this phenomenal sequel](https://mobilesyrup.com/2024/06/02/hades-2-early-access-review/)
-        
-        [](https://mobilesyrup.com/2024/05/30/playstation-state-of-play-may-2024-news-roundup/)
-        
-        May 30, 2024 | 6:41 PM EDT
-        
-        ### [Here’s everything shown off during May’s PlayStation State of Play](https://mobilesyrup.com/2024/05/30/playstation-state-of-play-may-2024-news-roundup/)
-        
-        [](https://mobilesyrup.com/2024/05/30/world-of-warcraft-nvidia-geforce-now/)
-        
-        May 30, 2024 | 3:35 PM EDT
-        
-        ### [World of Warcraft lands on Nvidia GeForce Now](https://mobilesyrup.com/2024/05/30/world-of-warcraft-nvidia-geforce-now/)
-        
     
 * [News](https://mobilesyrup.com/categories/news/)
     
-    [](https://mobilesyrup.com/2024/06/05/oneplus-summer-sale-discounts-deals/)
+    [](https://mobilesyrup.com/2024/06/07/apple-intelligence-wwdc-2024-ai-siri/)
     
-    Jun 5, 2024 | 11:49 AM EDT
+    Jun 7, 2024 | 12:51 PM EDT
     
-    ### [Here are the dates for OnePlus’ upcoming June sales](https://mobilesyrup.com/2024/06/05/oneplus-summer-sale-discounts-deals/)
+    ### [Get ready to hear ‘Apple Intelligence’ a lot next week](https://mobilesyrup.com/2024/06/07/apple-intelligence-wwdc-2024-ai-siri/)
     
-    [](https://mobilesyrup.com/2024/06/05/samsung-galaxy-z-fold-6-marketing-images-online/)
+    [](https://mobilesyrup.com/2024/06/07/netflix-jake-paul-mike-tyson-fight-rescheduled-november-15/)
     
-    Jun 5, 2024 | 10:49 AM EDT
+    Jun 7, 2024 | 12:01 PM EDT
     
-    ### [Alleged Samsung Z Fold 6 and Z Flip 6 marketing material surfaces online](https://mobilesyrup.com/2024/06/05/samsung-galaxy-z-fold-6-marketing-images-online/)
+    ### [Netflix’s Jake Paul vs. Mike Tyson fight rescheduled to November 15](https://mobilesyrup.com/2024/06/07/netflix-jake-paul-mike-tyson-fight-rescheduled-november-15/)
     
-    [](https://mobilesyrup.com/2024/06/05/google-backtracks-policy-keep-phones-unauthorized-parts/)
+    [](https://mobilesyrup.com/2024/06/07/netflix-redesign-tv-app-new/)
     
-    Jun 5, 2024 | 9:52 AM EDT
+    Jun 7, 2024 | 11:05 AM EDT
     
-    ### [Google backtracks on policy to keep phones with unauthorized parts](https://mobilesyrup.com/2024/06/05/google-backtracks-policy-keep-phones-unauthorized-parts/)
+    ### [Netflix is redesigning its TV app](https://mobilesyrup.com/2024/06/07/netflix-redesign-tv-app-new/)
     
-    [](https://mobilesyrup.com/2024/06/04/x-permits-adult-content-service/)
+    [](https://mobilesyrup.com/2024/06/07/virgin-plus-4g-plan-price-increase/)
     
-    Jun 4, 2024 | 7:01 PM EDT
+    Jun 7, 2024 | 10:09 AM EDT
     
-    ### [X formally permits adult content on its service](https://mobilesyrup.com/2024/06/04/x-permits-adult-content-service/)
+    ### [Virgin Plus raises price of most 4G plans](https://mobilesyrup.com/2024/06/07/virgin-plus-4g-plan-price-increase/)
     
-    [](https://mobilesyrup.com/2024/06/04/intel-amd-announce-new-chips-destined-for-copilot-pcs/)
+    [](https://mobilesyrup.com/2024/06/06/humane-selling-hp-1-billion/)
     
-    Jun 4, 2024 | 6:03 PM EDT
+    Jun 6, 2024 | 7:07 PM EDT
     
-    ### [Intel, AMD announce new chips destined for Copilot+PCs](https://mobilesyrup.com/2024/06/04/intel-amd-announce-new-chips-destined-for-copilot-pcs/)
+    ### [Humane is trying to sell its business to HP for $1 billion USD: report](https://mobilesyrup.com/2024/06/06/humane-selling-hp-1-billion/)
     
-    [](https://mobilesyrup.com/2024/06/04/older-apple-tvs-will-soon-lose-the-ability-to-use-netflix/)
+    [](https://mobilesyrup.com/2024/06/06/rbc-banking-app-highest-ranked-satisfaction-study/)
     
-    Jun 4, 2024 | 5:16 PM EDT
+    Jun 6, 2024 | 6:20 PM EDT
     
-    ### [Older Apple TVs will soon lose the ability to use Netflix](https://mobilesyrup.com/2024/06/04/older-apple-tvs-will-soon-lose-the-ability-to-use-netflix/)
+    ### [RBC banking app highest ranked for satisfaction: study](https://mobilesyrup.com/2024/06/06/rbc-banking-app-highest-ranked-satisfaction-study/)
     
     * [Carriers](https://mobilesyrup.com/categories/news/news-carriers/)
+        
+        [](https://mobilesyrup.com/2024/06/07/virgin-plus-4g-plan-price-increase/)
+        
+        Jun 7, 2024 | 10:09 AM EDT
+        
+        ### [Virgin Plus raises price of most 4G plans](https://mobilesyrup.com/2024/06/07/virgin-plus-4g-plan-price-increase/)
+        
+        [](https://mobilesyrup.com/2024/06/06/here-are-the-changes-to-canadian-mobile-rate-plans-this-week-may-29-jun-04/)
+        
+        Jun 6, 2024 | 11:11 AM EDT
+        
+        ### [Here are the changes to Canadian mobile rate plans this week \[May 29th – Jun 04th\]](https://mobilesyrup.com/2024/06/06/here-are-the-changes-to-canadian-mobile-rate-plans-this-week-may-29-jun-04/)
+        
+        [](https://mobilesyrup.com/2024/06/05/fido-drops-60gb-4g-plan-49-with-5-discount/)
+        
+        Jun 5, 2024 | 6:20 PM EDT
+        
+        ### [Fido drops 60GB 4G plan to $49 with 24-month $5 discount](https://mobilesyrup.com/2024/06/05/fido-drops-60gb-4g-plan-49-with-5-discount/)
+        
+        [](https://mobilesyrup.com/2024/06/05/virgin-plus-removes-39-40gb-4g-plan/)
+        
+        Jun 5, 2024 | 3:24 PM EDT
+        
+        ### [Virgin removes $39/40GB plan just days after adding it](https://mobilesyrup.com/2024/06/05/virgin-plus-removes-39-40gb-4g-plan/)
+        
+        [](https://mobilesyrup.com/2024/06/05/man-owes-telus-186000-2017-crash/)
+        
+        Jun 5, 2024 | 3:09 PM EDT
+        
+        ### [Man owes Telus $186k over 2017 crash that damaged a building](https://mobilesyrup.com/2024/06/05/man-owes-telus-186000-2017-crash/)
         
         [](https://mobilesyrup.com/2024/06/04/rogers-5g-eastern-ontario/)
         
@@ -137,37 +167,31 @@
         
         ### [Rogers works with the government to bring 5G to more of Eastern Ontario](https://mobilesyrup.com/2024/06/04/rogers-5g-eastern-ontario/)
         
-        [](https://mobilesyrup.com/2024/06/03/big-three-offering-40-45-plans-with-100gb-data/)
-        
-        Jun 3, 2024 | 3:14 PM EDT
-        
-        ### [Big Three offering some customers $40, $45 plans with 100GB+](https://mobilesyrup.com/2024/06/03/big-three-offering-40-45-plans-with-100gb-data/)
-        
-        [](https://mobilesyrup.com/2024/06/03/fido-39-40gb-4g-plan/)
-        
-        Jun 3, 2024 | 9:37 AM EDT
-        
-        ### [Fido adds $39/40GB 4G plan to match Koodo, Virgin](https://mobilesyrup.com/2024/06/03/fido-39-40gb-4g-plan/)
-        
-        [](https://mobilesyrup.com/2024/05/31/virgin-39-40gb-34-20gb-plans/)
-        
-        May 31, 2024 | 11:01 AM EDT
-        
-        ### [Virgin adds $39/40GB plan, drops 20GB plan to $34](https://mobilesyrup.com/2024/05/31/virgin-39-40gb-34-20gb-plans/)
-        
-        [](https://mobilesyrup.com/2024/05/31/rogers-work-expanding-5g-remaining-ttc-subway/)
-        
-        May 31, 2024 | 9:46 AM EDT
-        
-        ### [Rogers started work on expanding 5G to rest of TTC subway](https://mobilesyrup.com/2024/05/31/rogers-work-expanding-5g-remaining-ttc-subway/)
-        
-        [](https://mobilesyrup.com/2024/05/31/telus-mobility-for-good-program-expanded-canada/)
-        
-        May 31, 2024 | 8:08 AM EDT
-        
-        ### [Telus expands Mobility for Good program to support over 800,000 families across Canada](https://mobilesyrup.com/2024/05/31/telus-mobility-for-good-program-expanded-canada/)
-        
     * [Smartphones](https://mobilesyrup.com/categories/news/news-smartphones/)
+        
+        [](https://mobilesyrup.com/2024/06/06/deadpool-wolverine-ryan-reynolds-hugh-jackman-silence-phones-theatres-message/)
+        
+        Jun 6, 2024 | 2:42 PM EDT
+        
+        ### [This Deadpool & Wolverine ad is a raunchy reminder to silence your phones in theatres](https://mobilesyrup.com/2024/06/06/deadpool-wolverine-ryan-reynolds-hugh-jackman-silence-phones-theatres-message/)
+        
+        [](https://mobilesyrup.com/2024/06/05/apple-5-years-security-updates-eu-database/)
+        
+        Jun 5, 2024 | 5:53 PM EDT
+        
+        ### [Apple confirms it offers 5 years of security updates in UK database](https://mobilesyrup.com/2024/06/05/apple-5-years-security-updates-eu-database/)
+        
+        [](https://mobilesyrup.com/2024/06/05/motorola-edge-2024-canada-coming-months/)
+        
+        Jun 5, 2024 | 4:08 PM EDT
+        
+        ### [Motorola Edge 2024 is coming to Canada in coming months](https://mobilesyrup.com/2024/06/05/motorola-edge-2024-canada-coming-months/)
+        
+        [](https://mobilesyrup.com/2024/06/05/iphone-16-pro-thin-bezels/)
+        
+        Jun 5, 2024 | 1:40 PM EDT
+        
+        ### [iPhone 16 Pro sports pretty thin bezels according to recent rumours](https://mobilesyrup.com/2024/06/05/iphone-16-pro-thin-bezels/)
         
         [](https://mobilesyrup.com/2024/06/05/samsung-galaxy-z-fold-6-marketing-images-online/)
         
@@ -180,30 +204,6 @@
         Jun 5, 2024 | 9:52 AM EDT
         
         ### [Google backtracks on policy to keep phones with unauthorized parts](https://mobilesyrup.com/2024/06/05/google-backtracks-policy-keep-phones-unauthorized-parts/)
-        
-        [](https://mobilesyrup.com/2024/06/04/motorola-canada-dads-grads-phone-sale/)
-        
-        Jun 4, 2024 | 10:48 AM EDT
-        
-        ### [Motorola celebrating dads and grads with latest phone sale](https://mobilesyrup.com/2024/06/04/motorola-canada-dads-grads-phone-sale/)
-        
-        [](https://mobilesyrup.com/2024/06/03/google-wont-return-phones-repair-unauthorized-parts/)
-        
-        Jun 3, 2024 | 5:23 PM EDT
-        
-        ### [Google won’t return phones sent in for repair if they have unauthorized parts](https://mobilesyrup.com/2024/06/03/google-wont-return-phones-repair-unauthorized-parts/)
-        
-        [](https://mobilesyrup.com/2024/06/03/apple-wwdc-leak-ai-settings-control-centre/)
-        
-        Jun 3, 2024 | 4:23 PM EDT
-        
-        ### [Leaks suggest revamped Control Centre and settings in iOS 18](https://mobilesyrup.com/2024/06/03/apple-wwdc-leak-ai-settings-control-centre/)
-        
-        [](https://mobilesyrup.com/2024/06/03/pixel-9-tensor-g4-antutu/)
-        
-        Jun 3, 2024 | 11:53 AM EDT
-        
-        ### [Pixel 9’s Tensor G4 reportedly spotted in AnTuTu benchmarks](https://mobilesyrup.com/2024/06/03/pixel-9-tensor-g4-antutu/)
         
     * [Tablets & Computers](https://mobilesyrup.com/categories/news/news-tablets/)
         
@@ -245,41 +245,41 @@
         
     * [Apps & Software](https://mobilesyrup.com/categories/news/news-apps-software/)
         
-        [](https://mobilesyrup.com/2024/06/04/x-permits-adult-content-service/)
+        [](https://mobilesyrup.com/2024/06/06/rbc-banking-app-highest-ranked-satisfaction-study/)
         
-        Jun 4, 2024 | 7:01 PM EDT
+        Jun 6, 2024 | 6:20 PM EDT
         
-        ### [X formally permits adult content on its service](https://mobilesyrup.com/2024/06/04/x-permits-adult-content-service/)
+        ### [RBC banking app highest ranked for satisfaction: study](https://mobilesyrup.com/2024/06/06/rbc-banking-app-highest-ranked-satisfaction-study/)
         
-        [](https://mobilesyrup.com/2024/06/04/google-working-gemini-spotify-extension/)
+        [](https://mobilesyrup.com/2024/06/06/adobe-terms-access-user-content-improve-services/)
         
-        Jun 4, 2024 | 9:58 AM EDT
+        Jun 6, 2024 | 5:23 PM EDT
         
-        ### [Google seems to be working on a Spotify extension for Gemini](https://mobilesyrup.com/2024/06/04/google-working-gemini-spotify-extension/)
+        ### [Adobe says it doesn’t train gen AI models on customer work \[Update\]](https://mobilesyrup.com/2024/06/06/adobe-terms-access-user-content-improve-services/)
         
-        [](https://mobilesyrup.com/2024/06/03/instagram-testing-unskippable-ads-between-posts/)
+        [](https://mobilesyrup.com/2024/06/06/google-messages-gaining-ability-to-text-911-u-s-only-for-now/)
         
-        Jun 3, 2024 | 4:49 PM EDT
+        Jun 6, 2024 | 1:14 PM EDT
         
-        ### [Instagram testing unskippable ads between posts](https://mobilesyrup.com/2024/06/03/instagram-testing-unskippable-ads-between-posts/)
+        ### [Google Messages gaining ability to text 911, U.S.-only for now](https://mobilesyrup.com/2024/06/06/google-messages-gaining-ability-to-text-911-u-s-only-for-now/)
         
-        [](https://mobilesyrup.com/2024/06/03/doordash-canada-summer-dashpass-event-50-percent-off/)
+        [](https://mobilesyrup.com/2024/06/06/googles-ai-powered-notebooklm-expands-canada-gains-new-features/)
         
-        Jun 3, 2024 | 10:55 AM EDT
+        Jun 6, 2024 | 7:00 AM EDT
         
-        ### [DoorDash’s Summer of DashPass event offers up to 50% off select orders](https://mobilesyrup.com/2024/06/03/doordash-canada-summer-dashpass-event-50-percent-off/)
+        ### [Google’s AI-powered NotebookLM expands to Canada, gains new features](https://mobilesyrup.com/2024/06/06/googles-ai-powered-notebooklm-expands-canada-gains-new-features/)
         
-        [](https://mobilesyrup.com/2024/05/31/microsoft-copilot-pc-ai-recall-feature-run-older-hardware/)
+        [](https://mobilesyrup.com/2024/06/05/canada-average-data-pay-less-monthly-plans/)
         
-        May 31, 2024 | 4:43 PM EDT
+        Jun 5, 2024 | 7:06 PM EDT
         
-        ### [Microsoft’s Copilot+PC AI Recall feature can run on older hardware](https://mobilesyrup.com/2024/05/31/microsoft-copilot-pc-ai-recall-feature-run-older-hardware/)
+        ### [Canadians on average use more data and pay less for monthly plans](https://mobilesyrup.com/2024/06/05/canada-average-data-pay-less-monthly-plans/)
         
-        [](https://mobilesyrup.com/2024/05/31/google-new-features-android/)
+        [](https://mobilesyrup.com/2024/06/05/claude-ai-canada/)
         
-        May 31, 2024 | 2:44 PM EDT
+        Jun 5, 2024 | 4:54 PM EDT
         
-        ### [Google shares new features coming to Android](https://mobilesyrup.com/2024/05/31/google-new-features-android/)
+        ### [Canada has a new AI competitor called Claude](https://mobilesyrup.com/2024/06/05/claude-ai-canada/)
         
     * [Smart Home](https://mobilesyrup.com/categories/news/news-smart-home/)
         
@@ -397,6 +397,30 @@
         
     * [Streaming](https://mobilesyrup.com/categories/news/news-streaming/)
         
+        [](https://mobilesyrup.com/2024/06/07/netflix-jake-paul-mike-tyson-fight-rescheduled-november-15/)
+        
+        Jun 7, 2024 | 12:01 PM EDT
+        
+        ### [Netflix’s Jake Paul vs. Mike Tyson fight rescheduled to November 15](https://mobilesyrup.com/2024/06/07/netflix-jake-paul-mike-tyson-fight-rescheduled-november-15/)
+        
+        [](https://mobilesyrup.com/2024/06/07/netflix-redesign-tv-app-new/)
+        
+        Jun 7, 2024 | 11:05 AM EDT
+        
+        ### [Netflix is redesigning its TV app](https://mobilesyrup.com/2024/06/07/netflix-redesign-tv-app-new/)
+        
+        [](https://mobilesyrup.com/2024/06/06/crave-original-super-team-canada/)
+        
+        Jun 6, 2024 | 4:38 PM EDT
+        
+        ### [Crave Original Super Team Canada 🍁 launches in 2025](https://mobilesyrup.com/2024/06/06/crave-original-super-team-canada/)
+        
+        [](https://mobilesyrup.com/2024/06/06/the-last-of-us-series-creators-tease-potential-fourth-season/)
+        
+        Jun 6, 2024 | 11:00 AM EDT
+        
+        ### [The Last of Us series creators tease potential fourth season](https://mobilesyrup.com/2024/06/06/the-last-of-us-series-creators-tease-potential-fourth-season/)
+        
         [](https://mobilesyrup.com/2024/06/04/older-apple-tvs-will-soon-lose-the-ability-to-use-netflix/)
         
         Jun 4, 2024 | 5:16 PM EDT
@@ -409,31 +433,37 @@
         
         ### [New on Amazon Prime Video Canada: June 2024](https://mobilesyrup.com/2024/05/31/prime-video-canada-june-2024-new-content/)
         
-        [](https://mobilesyrup.com/2024/05/31/bryan-adams-spotify-protest-changes-cancon-regulations/)
-        
-        May 31, 2024 | 1:03 PM EDT
-        
-        ### [Bryan Adams and Spotify team up to protest impending changes to CanCon regulations](https://mobilesyrup.com/2024/05/31/bryan-adams-spotify-protest-changes-cancon-regulations/)
-        
-        [](https://mobilesyrup.com/2024/05/31/showrunner-streaming-service-ai-content/)
-        
-        May 31, 2024 | 12:18 PM EDT
-        
-        ### [New streaming service wants you to pay to generate your own AI slop](https://mobilesyrup.com/2024/05/31/showrunner-streaming-service-ai-content/)
-        
-        [](https://mobilesyrup.com/2024/05/30/netflix-minecraft-animated-series-wildbrain-canada/)
-        
-        May 30, 2024 | 1:03 PM EDT
-        
-        ### [Canada’s WildBrain is making an animated Minecraft series for Netflix](https://mobilesyrup.com/2024/05/30/netflix-minecraft-animated-series-wildbrain-canada/)
-        
-        [](https://mobilesyrup.com/2024/05/29/apple-tv-app-android/)
-        
-        May 29, 2024 | 5:53 PM EDT
-        
-        ### [It looks like Apple is planning to bring Apple TV+ to Android](https://mobilesyrup.com/2024/05/29/apple-tv-app-android/)
-        
     * [AI](https://mobilesyrup.com/categories/news/news-ai/)
+        
+        [](https://mobilesyrup.com/2024/06/07/apple-intelligence-wwdc-2024-ai-siri/)
+        
+        Jun 7, 2024 | 12:51 PM EDT
+        
+        ### [Get ready to hear ‘Apple Intelligence’ a lot next week](https://mobilesyrup.com/2024/06/07/apple-intelligence-wwdc-2024-ai-siri/)
+        
+        [](https://mobilesyrup.com/2024/06/06/humane-selling-hp-1-billion/)
+        
+        Jun 6, 2024 | 7:07 PM EDT
+        
+        ### [Humane is trying to sell its business to HP for $1 billion USD: report](https://mobilesyrup.com/2024/06/06/humane-selling-hp-1-billion/)
+        
+        [](https://mobilesyrup.com/2024/06/06/adobe-terms-access-user-content-improve-services/)
+        
+        Jun 6, 2024 | 5:23 PM EDT
+        
+        ### [Adobe says it doesn’t train gen AI models on customer work \[Update\]](https://mobilesyrup.com/2024/06/06/adobe-terms-access-user-content-improve-services/)
+        
+        [](https://mobilesyrup.com/2024/06/06/googles-ai-powered-notebooklm-expands-canada-gains-new-features/)
+        
+        Jun 6, 2024 | 7:00 AM EDT
+        
+        ### [Google’s AI-powered NotebookLM expands to Canada, gains new features](https://mobilesyrup.com/2024/06/06/googles-ai-powered-notebooklm-expands-canada-gains-new-features/)
+        
+        [](https://mobilesyrup.com/2024/06/05/apple-robot-chores-wwdc-ai-chat-gpt/)
+        
+        Jun 5, 2024 | 1:57 PM EDT
+        
+        ### [Apple reportedly working on a robot that can do chores](https://mobilesyrup.com/2024/06/05/apple-robot-chores-wwdc-ai-chat-gpt/)
         
         [](https://mobilesyrup.com/2024/06/04/intel-amd-announce-new-chips-destined-for-copilot-pcs/)
         
@@ -441,37 +471,13 @@
         
         ### [Intel, AMD announce new chips destined for Copilot+PCs](https://mobilesyrup.com/2024/06/04/intel-amd-announce-new-chips-destined-for-copilot-pcs/)
         
-        [](https://mobilesyrup.com/2024/06/04/google-working-gemini-spotify-extension/)
-        
-        Jun 4, 2024 | 9:58 AM EDT
-        
-        ### [Google seems to be working on a Spotify extension for Gemini](https://mobilesyrup.com/2024/06/04/google-working-gemini-spotify-extension/)
-        
-        [](https://mobilesyrup.com/2024/05/31/microsoft-copilot-pc-ai-recall-feature-run-older-hardware/)
-        
-        May 31, 2024 | 4:43 PM EDT
-        
-        ### [Microsoft’s Copilot+PC AI Recall feature can run on older hardware](https://mobilesyrup.com/2024/05/31/microsoft-copilot-pc-ai-recall-feature-run-older-hardware/)
-        
-        [](https://mobilesyrup.com/2024/05/31/showrunner-streaming-service-ai-content/)
-        
-        May 31, 2024 | 12:18 PM EDT
-        
-        ### [New streaming service wants you to pay to generate your own AI slop](https://mobilesyrup.com/2024/05/31/showrunner-streaming-service-ai-content/)
-        
-        [](https://mobilesyrup.com/2024/05/29/apple-black-box-processing-protect-user-data-ai/)
-        
-        May 29, 2024 | 5:04 PM EDT
-        
-        ### [Apple reportedly has ‘black box’ processing technique for AI to protect user data](https://mobilesyrup.com/2024/05/29/apple-black-box-processing-protect-user-data-ai/)
-        
-        [](https://mobilesyrup.com/2024/05/29/iyo-one-earbuds-generative-ai/)
-        
-        May 29, 2024 | 12:39 PM EDT
-        
-        ### [Earbuds could be the next over-hyped generative AI gadget](https://mobilesyrup.com/2024/05/29/iyo-one-earbuds-generative-ai/)
-        
     * [Deals](https://mobilesyrup.com/categories/deals/)
+        
+        [](https://mobilesyrup.com/2024/06/06/ubisoft-store-85-percent-off/)
+        
+        Jun 6, 2024 | 1:59 PM EDT
+        
+        ### [Ubisoft Store is discounting games by up to 85 percent](https://mobilesyrup.com/2024/06/06/ubisoft-store-85-percent-off/)
         
         [](https://mobilesyrup.com/2024/06/05/oneplus-summer-sale-discounts-deals/)
         
@@ -502,12 +508,6 @@
         May 30, 2024 | 2:00 PM EDT
         
         ### [Google’s Pixel 8 Pro is $300 off until June 2](https://mobilesyrup.com/2024/05/30/pixel-8-pro-300-off-june-2/)
-        
-        [](https://mobilesyrup.com/2024/05/30/virgin-fido-pixel-8-deal/)
-        
-        May 30, 2024 | 11:52 AM EDT
-        
-        ### [Virgin, Fido offering Pixel 8 for $15/mo financing](https://mobilesyrup.com/2024/05/30/virgin-fido-pixel-8-deal/)
         
     
 * [Reviews](https://mobilesyrup.com/categories/reviews/)
@@ -1008,6 +1008,12 @@
     
 * [Resources](https://mobilesyrup.com/categories/resources/)
     
+    [](https://mobilesyrup.com/2024/06/07/how-to-watch-summer-game-fest-xbox-games-showcase-ubisoft-forward/)
+    
+    Jun 7, 2024 | 8:05 AM EDT
+    
+    ### [How to watch Summer Game Fest, Xbox Games Showcase, Ubisoft Forward and more](https://mobilesyrup.com/2024/06/07/how-to-watch-summer-game-fest-xbox-games-showcase-ubisoft-forward/)
+    
     [](https://mobilesyrup.com/2024/06/03/streaming-in-canada-crave-disney-plus-netflix-paramount-plus-prime-video-star-wars-the-acolyte/)
     
     Jun 3, 2024 | 7:03 PM EDT
@@ -1037,12 +1043,6 @@
     May 24, 2024 | 2:05 PM EDT
     
     ### [New on Crave: June 2024](https://mobilesyrup.com/2024/05/24/crave-june-2024/)
-    
-    [](https://mobilesyrup.com/2024/05/22/netflix-canada-june-2024/)
-    
-    May 22, 2024 | 10:57 AM EDT
-    
-    ### [New on Netflix Canada: June 2024](https://mobilesyrup.com/2024/05/22/netflix-canada-june-2024/)
     
     * [General](https://mobilesyrup.com/categories/resources/general-resources/)
         
@@ -1122,6 +1122,12 @@
         
     * [How-to's](https://mobilesyrup.com/categories/resources/resources-how-tos/)
         
+        [](https://mobilesyrup.com/2024/06/07/how-to-watch-summer-game-fest-xbox-games-showcase-ubisoft-forward/)
+        
+        Jun 7, 2024 | 8:05 AM EDT
+        
+        ### [How to watch Summer Game Fest, Xbox Games Showcase, Ubisoft Forward and more](https://mobilesyrup.com/2024/06/07/how-to-watch-summer-game-fest-xbox-games-showcase-ubisoft-forward/)
+        
         [](https://mobilesyrup.com/2024/05/17/how-to-use-retroarch-on-your-apple-tv/)
         
         May 17, 2024 | 5:07 PM EDT
@@ -1152,16 +1158,16 @@
         
         ### [How to open ‘7z’ files on your iPhone](https://mobilesyrup.com/2024/04/24/how-to-open-7z-files-iphone/)
         
-        [](https://mobilesyrup.com/2024/04/21/delta-emulator-nintendo-guide-iphone-ios/)
-        
-        Apr 21, 2024 | 9:00 AM EDT
-        
-        ### [How to use Delta Nintendo emulator on iOS like a pro](https://mobilesyrup.com/2024/04/21/delta-emulator-nintendo-guide-iphone-ios/)
-        
     * [Rate Plans](https://www.mobilesyrup.planhub.ca/)
         
     
 * [Business](https://mobilesyrup.com/categories/business/)
+    
+    [](https://mobilesyrup.com/2024/06/06/pearson-airport-store-amazon-just-walk-out/)
+    
+    Jun 6, 2024 | 10:07 AM EDT
+    
+    ### [Pearson Airport store to use Amazon’s Just Walk Out tech](https://mobilesyrup.com/2024/06/06/pearson-airport-store-amazon-just-walk-out/)
     
     [](https://mobilesyrup.com/2024/06/04/crtc-streamers-pay-funds-canadian-content/)
     
@@ -1193,13 +1199,13 @@
     
     ### [Canada has the cheapest broadband internet prices in North America: report](https://mobilesyrup.com/2024/05/22/canada-cheapest-broadband-internet-prices-north-america-report/)
     
-    [](https://mobilesyrup.com/2024/05/22/uk-ico-microsoft-recall-privacy-concerns/)
-    
-    May 22, 2024 | 12:22 PM EDT
-    
-    ### [U.K. looking into Microsoft’s Recall feature over privacy concerns](https://mobilesyrup.com/2024/05/22/uk-ico-microsoft-recall-privacy-concerns/)
-    
     * [General](https://mobilesyrup.com/categories/business/general/)
+        
+        [](https://mobilesyrup.com/2024/06/06/pearson-airport-store-amazon-just-walk-out/)
+        
+        Jun 6, 2024 | 10:07 AM EDT
+        
+        ### [Pearson Airport store to use Amazon’s Just Walk Out tech](https://mobilesyrup.com/2024/06/06/pearson-airport-store-amazon-just-walk-out/)
         
         [](https://mobilesyrup.com/2024/05/29/more-ontario-school-boards-sue-social-media-giants-alleging-harm-students/)
         
@@ -1230,12 +1236,6 @@
         Apr 30, 2024 | 2:44 PM EDT
         
         ### [Tesla hit with another round of layoffs after earnings](https://mobilesyrup.com/2024/04/30/tesla-new-layoffs-earnings/)
-        
-        [](https://mobilesyrup.com/2024/04/26/canadians-boycott-loblaws-shoppers-may-rising-food-costs/)
-        
-        Apr 26, 2024 | 1:31 PM EDT
-        
-        ### [Canadians plan to boycott Loblaws, Shoppers Drug Mart in May over rising food costs](https://mobilesyrup.com/2024/04/26/canadians-boycott-loblaws-shoppers-may-rising-food-costs/)
         
     * [Government](https://mobilesyrup.com/categories/business/business-general/)
         
@@ -1354,6 +1354,24 @@
     
 * [Streaming](https://mobilesyrup.com/categories/streaming/)
     
+    [](https://mobilesyrup.com/2024/06/07/netflix-jake-paul-mike-tyson-fight-rescheduled-november-15/)
+    
+    Jun 7, 2024 | 12:01 PM EDT
+    
+    ### [Netflix’s Jake Paul vs. Mike Tyson fight rescheduled to November 15](https://mobilesyrup.com/2024/06/07/netflix-jake-paul-mike-tyson-fight-rescheduled-november-15/)
+    
+    [](https://mobilesyrup.com/2024/06/06/crave-original-super-team-canada/)
+    
+    Jun 6, 2024 | 4:38 PM EDT
+    
+    ### [Crave Original Super Team Canada 🍁 launches in 2025](https://mobilesyrup.com/2024/06/06/crave-original-super-team-canada/)
+    
+    [](https://mobilesyrup.com/2024/06/06/the-last-of-us-series-creators-tease-potential-fourth-season/)
+    
+    Jun 6, 2024 | 11:00 AM EDT
+    
+    ### [The Last of Us series creators tease potential fourth season](https://mobilesyrup.com/2024/06/06/the-last-of-us-series-creators-tease-potential-fourth-season/)
+    
     [](https://mobilesyrup.com/2024/06/04/older-apple-tvs-will-soon-lose-the-ability-to-use-netflix/)
     
     Jun 4, 2024 | 5:16 PM EDT
@@ -1372,25 +1390,25 @@
     
     ### [New streaming service wants you to pay to generate your own AI slop](https://mobilesyrup.com/2024/05/31/showrunner-streaming-service-ai-content/)
     
-    [](https://mobilesyrup.com/2024/05/30/netflix-minecraft-animated-series-wildbrain-canada/)
-    
-    May 30, 2024 | 1:03 PM EDT
-    
-    ### [Canada’s WildBrain is making an animated Minecraft series for Netflix](https://mobilesyrup.com/2024/05/30/netflix-minecraft-animated-series-wildbrain-canada/)
-    
-    [](https://mobilesyrup.com/2024/05/29/apple-tv-app-android/)
-    
-    May 29, 2024 | 5:53 PM EDT
-    
-    ### [It looks like Apple is planning to bring Apple TV+ to Android](https://mobilesyrup.com/2024/05/29/apple-tv-app-android/)
-    
-    [](https://mobilesyrup.com/2024/05/28/paramount-plus-canada-june-2024-new-content/)
-    
-    May 28, 2024 | 2:34 PM EDT
-    
-    ### [New on Paramount+ Canada: June 2024](https://mobilesyrup.com/2024/05/28/paramount-plus-canada-june-2024-new-content/)
-    
     * [Streaming](https://mobilesyrup.com/categories/streaming/)
+        
+        [](https://mobilesyrup.com/2024/06/07/netflix-jake-paul-mike-tyson-fight-rescheduled-november-15/)
+        
+        Jun 7, 2024 | 12:01 PM EDT
+        
+        ### [Netflix’s Jake Paul vs. Mike Tyson fight rescheduled to November 15](https://mobilesyrup.com/2024/06/07/netflix-jake-paul-mike-tyson-fight-rescheduled-november-15/)
+        
+        [](https://mobilesyrup.com/2024/06/06/crave-original-super-team-canada/)
+        
+        Jun 6, 2024 | 4:38 PM EDT
+        
+        ### [Crave Original Super Team Canada 🍁 launches in 2025](https://mobilesyrup.com/2024/06/06/crave-original-super-team-canada/)
+        
+        [](https://mobilesyrup.com/2024/06/06/the-last-of-us-series-creators-tease-potential-fourth-season/)
+        
+        Jun 6, 2024 | 11:00 AM EDT
+        
+        ### [The Last of Us series creators tease potential fourth season](https://mobilesyrup.com/2024/06/06/the-last-of-us-series-creators-tease-potential-fourth-season/)
         
         [](https://mobilesyrup.com/2024/06/04/older-apple-tvs-will-soon-lose-the-ability-to-use-netflix/)
         
@@ -1409,24 +1427,6 @@
         May 31, 2024 | 12:18 PM EDT
         
         ### [New streaming service wants you to pay to generate your own AI slop](https://mobilesyrup.com/2024/05/31/showrunner-streaming-service-ai-content/)
-        
-        [](https://mobilesyrup.com/2024/05/30/netflix-minecraft-animated-series-wildbrain-canada/)
-        
-        May 30, 2024 | 1:03 PM EDT
-        
-        ### [Canada’s WildBrain is making an animated Minecraft series for Netflix](https://mobilesyrup.com/2024/05/30/netflix-minecraft-animated-series-wildbrain-canada/)
-        
-        [](https://mobilesyrup.com/2024/05/29/apple-tv-app-android/)
-        
-        May 29, 2024 | 5:53 PM EDT
-        
-        ### [It looks like Apple is planning to bring Apple TV+ to Android](https://mobilesyrup.com/2024/05/29/apple-tv-app-android/)
-        
-        [](https://mobilesyrup.com/2024/05/28/paramount-plus-canada-june-2024-new-content/)
-        
-        May 28, 2024 | 2:34 PM EDT
-        
-        ### [New on Paramount+ Canada: June 2024](https://mobilesyrup.com/2024/05/28/paramount-plus-canada-june-2024-new-content/)
         
     
 * [Videos](https://mobilesyrup.com/videos/)
