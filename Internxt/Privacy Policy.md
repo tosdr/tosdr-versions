@@ -1,8 +1,22 @@
-Internxt VPN is now available! Surf the web in complete privacy
+Get up to 70% off lifetime plans! Secure your files forever!
 
-[Download for free](https://chromewebstore.google.com/detail/internxt-vpn-free-and-enc/dpggmcodlahmljkhlmpgpdcffdaoccni?hl=en&authuser=0)
+[Choose plan](https://internxt.com/lifetime)
 
-[Internxt VPN is now available! Surf the web in complete privacy](https://chromewebstore.google.com/detail/internxt-vpn-free-and-enc/dpggmcodlahmljkhlmpgpdcffdaoccni?hl=en&authuser=0)
+[Get up to 70% off lifetime plans! Secure your files forever!](https://internxt.com/lifetime)
+
+[![Internxt logo](../../logos/internxt/cool-gray-90.svg)](https://internxt.com/)[![Internxt logo](../../logos/internxt/cool-gray-90.svg)](https://internxt.com/)
+
+[Pricing](https://internxt.com/pricing)
+
+Products
+
+[Internxt Drive](https://internxt.com/drive)[Internxt Send](https://send.internxt.com/)[Internxt VPN](https://internxt.com/vpn)
+
+Our Values
+
+[Privacy](https://internxt.com/privacy)[Open Source](https://internxt.com/open-source)
+
+[About Us](https://internxt.com/about)
 
 [![Internxt logo](../../logos/internxt/cool-gray-90.svg)](https://internxt.com/)[![Internxt logo](../../logos/internxt/cool-gray-90.svg)](https://internxt.com/)
 
@@ -1244,3 +1258,13 @@ English (EN)
 Copyright © 2024, Internxt Universal Technologies SL
 
 [![Internxt logo](../../logos/internxt/cool-gray-90.svg)](https://internxt.com/)
+
+![Internxt Lifetime Offer](/_next/image?url=%2Fimages%2Fbanners%2Flifetime_big.webp&w=1080&q=75)
+
+Secure your files forever
+
+Get lifetime access to secure, private cloud storage with Internxt!
+
+Choose plan
+
+30-day money-back guarantee
