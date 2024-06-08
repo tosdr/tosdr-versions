@@ -201,25 +201,6 @@ UPCOMING EVENTS
 
 [See all events](https://www.unitedwayri.org/get-involved/join-an-event/)
 
-[![United Way of Rhode Island](https://www.unitedwayri.org/wp-content/uploads/bb-plugin/cache/United-Way-Day-of-Action-76-scaled-1024x576-landscape-7146feb0d6073cea205f26b248b74710-.jpg "United Way of Rhode Island")](https://www.unitedwayri.org/event/day-of-action-2/)
-
-08 Jun
-
-#### [Day of Action](https://www.unitedwayri.org/event/day-of-action-2/ "Day of Action")
-
-Saturday, June 8, 2024  
-9 a.m. - 3:30 p.m.
-
-Join us at United Way of Rhode Island to sort and label donated children's books!  
-50 Valley Street, Providence, RI  02909
-
-Morning shift  | 9 a.m. - 12 p.m.  
-Afternoon shift | 12:30 - 3:30 p.m.
-
-United Way LIVE UNITED t-shirts and refreshments will be provided.
-
-[REGISTER](https://uwriweb.org/comm/SinglePageRegEvent.jsp?EventKeyHex=3133383730)
-
 [![DSC_8255](https://www.unitedwayri.org/wp-content/uploads/bb-plugin/cache/DSC_8255-scaled-1024x682-landscape-8de31f79ee2d3b401c0257ccfdeb1fe7-.jpeg "DSC_8255")](https://www.unitedwayri.org/event/women-united-summer-social/)
 
 12 Jun
