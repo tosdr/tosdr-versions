@@ -1,6 +1,6 @@
-[![Audiobook: Top 15 Titles PLUS](https://img.sparknotes.com/house-ad/728x90_Top15Audiobook@2x.jpg)](https://www.sparknotes.com/lit/?scr=1&contentSelected=NoFearAudio)
+[![Audiobook: Hamlet PLUS](https://img.sparknotes.com/house-ad/728x90_Hamlet_Audiobook@2x.jpg)](https://www.sparknotes.com/nofear/shakespeare/hamlet/act-1-scene-1/?inHouse=hamlet-audio-plus)
 
-[![Audiobook: Top 15 Titles PLUS](https://img.sparknotes.com/house-ad/728x90_Top15Audiobook@2x.jpg)](https://www.sparknotes.com/lit/?scr=1&contentSelected=NoFearAudio)
+[![Audiobook: Hamlet PLUS](https://img.sparknotes.com/house-ad/728x90_Hamlet_Audiobook@2x.jpg)](https://www.sparknotes.com/nofear/shakespeare/hamlet/act-1-scene-1/?inHouse=hamlet-audio-plus)
 
 Search all of SparkNotes  Search
 
@@ -10,9 +10,9 @@ Use up and down arrows to review and enter to select.
 
 * 1984
 * A Tale of Two Cities
-* Much Ado About Nothing
-* The Crucible
-* The Taming of the Shrew
+* Great Expectations
+* The Great Gatsby
+* The Picture of Dorian Gray
 
 Menu[](https://www.sparknotes.com/ "← Back to the homepage")[](https://www.sparknotes.com/ "← Back to the homepage")
 
@@ -206,7 +206,7 @@ You'll be billed after your free trial ends.
 
 Not Applicable
 
-Renews June 14, 2024 June 7, 2024
+Renews June 15, 2024 June 8, 2024
 
 Discounts (applied to next billing)
 
@@ -268,9 +268,9 @@ Use up and down arrows to review and enter to select.
 
 * 1984
 * A Tale of Two Cities
-* Much Ado About Nothing
-* The Crucible
-* The Taming of the Shrew
+* Great Expectations
+* The Great Gatsby
+* The Picture of Dorian Gray
 
 * Log in Sign Up for  PLUS
 * My Account white
