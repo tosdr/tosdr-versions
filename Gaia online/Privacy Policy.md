@@ -3,7 +3,7 @@ Welcome to Gaia! :: Gaia Online PRIVACY POLICY – Effective April 5, 2016
 
 [Gaia Home](https://www.gaiaonline.com/ "Return to the Gaia Homepage")
 
-  [![](//graphics.gaiaonline.com/images/usericons/a17d0f030319.gif)](https://www.gaiaonline.com/forum/t.113910372/ "Chime's Gift")
+  [![](//u1cdn.gaiaonline.com/mfs/index/adminupload/785fa5e00fc8.gif)](https://www.gaiaonline.com/forum/t.113964303/ "City of Sin")
 
 [Login](https://www.gaiaonline.com/auth/?_gaia_t_=4952 "Login to Gaia") [Register](https://www.gaiaonline.com/register/?v=c&_gaia_t_=4950 "Create a free account now")
 
@@ -13,13 +13,13 @@ Log In
 
 [Forgot your login?](https://www.gaiaonline.com/account/sendpass/ "Forgot your username/password?")
 
-d4b03e652961035fe577caaad5ee226093328a8cc1d246fee4c16431221b6fe693328a8cc1d246fee4c16431221b6fe6d4b03e652961035fe577caaad5ee2260
+991cf0cabbfad339f1880e9a2b3e3ad9991cf0cabbfad339f1880e9a2b3e3ad9991cf0cabbfad339f1880e9a2b3e3ad9
 
 * [My Gaia](https://www.gaiaonline.com/register/?v=c&&redirect=https%3A%2F%2Fwww.gaiaonline.com%2Fmygaia%2F)
 
 * [GCash](https://www.gaiaonline.com/register/?v=c&&redirect=https%3A%2F%2Fwww.gaiaonline.com%2Fpayments%2F%3F_gaia_t_%3D8608)
 
-* [Shops](https://www.gaiaonline.com/market/)
+* [Shops !](https://www.gaiaonline.com/market/)
 
 * [Forums](https://www.gaiaonline.com/forum/)
 
@@ -338,10 +338,6 @@ Get Items
     
     fabulous finds for the thrifty spender
     
-* [Seasonal Styles](https://www.gaiaonline.com/register/?v=c&&redirect=https%3A%2F%2Fwww.gaiaonline.com%2Fsale)
-    
-    Direct Sale
-    
 * [Gaia Merchandise](https://store.gaiaonline.com/)
     
     real life Gaia merchandise
@@ -351,7 +347,7 @@ More Items
 
 * [Deals & New Items](https://www.gaiaonline.com/deals/)
     
-    Find new items, and discounts
+    New deal posted!
     
 * [Premium Items](https://www.gaiaonline.com/register/?v=c&&redirect=https%3A%2F%2Fwww.gaiaonline.com%2Fpremiumitems%2F)
     
@@ -545,4 +541,4 @@ Play with Platinum
 
 [More](https://www.gaiaonline.com/world/)
 
-![](https://www.gaiaonline.com/internal/mkt_t.php?mid[]=354&tm=1717744749)
+![](https://www.gaiaonline.com/internal/mkt_t.php?mid[]=354&tm=1717828312)
