@@ -96,21 +96,21 @@ Search site
 
 [River Flood Warning
 
-until FRI 8:48 AM CDT, Kaufman County, Ellis County](https://www.fox4news.com/weather-alerts)
+until WED 7:00 PM CDT, Navarro County, Henderson County](https://www.fox4news.com/weather-alerts)
 
 4
 
 [River Flood Warning
 
-until FRI 5:46 AM CDT, Collin County](https://www.fox4news.com/weather-alerts)
+is in effect, Hopkins County, Delta County, Freestone County, Anderson County, Anderson County, Anderson County](https://www.fox4news.com/weather-alerts)
 
 [River Flood Warning
 
-is in effect, Red River County, Navarro County, Freestone County, Henderson County, Anderson County, Anderson County, Anderson County](https://www.fox4news.com/weather-alerts)
+until SUN 1:00 AM CDT, Red River County](https://www.fox4news.com/weather-alerts)
 
 [River Flood Warning
 
-until MON 6:00 PM CDT, Red River County](https://www.fox4news.com/weather-alerts)
+until MON 11:00 AM CDT, Red River County](https://www.fox4news.com/weather-alerts)
 
 Privacy Policy
 ==============
@@ -406,35 +406,35 @@ _**Consumer Rights under Virginia, Colorado, Connecticut, and other similar laws
 
 [View More](https://www.fox4news.com/news)
 
- [![Brown has 22, Porzingis returns with 20 as Celtics open NBA Finals with 107-89 win over Mavericks](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/GettyImages-2156420161.jpg?ve=1&tl=1)
+ [![Dallas County Sheriff’s Office arrested wrong guy for off-duty Arlington officer’s death](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/09/32/18/darrin-mcmichael.jpg?ve=1&tl=1)
 
- ![Brown has 22, Porzingis returns with 20 as Celtics open NBA Finals with 107-89 win over Mavericks](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/592/333/GettyImages-2156420161.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-mavericks-boston-celtics-game-1)
+ ![Dallas County Sheriff’s Office arrested wrong guy for off-duty Arlington officer’s death](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/09/32/18/592/333/darrin-mcmichael.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-county-files-warrant-against-new-suspect-arlington-officers-death)
 
-### [Brown has 22, Porzingis returns with 20 as Celtics open NBA Finals with 107-89 win over Mavericks](https://www.fox4news.com/news/dallas-mavericks-boston-celtics-game-1)
+### [Dallas County Sheriff’s Office arrested wrong guy for off-duty Arlington officer’s death](https://www.fox4news.com/news/dallas-county-files-warrant-against-new-suspect-arlington-officers-death)
 
- [![FEMA opens resource center in Denton County for storm victims](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/P-PEYTON-FEMA-DISASTER-RECOVERY-CENTERS-9P_00.00.49.30.jpg?ve=1&tl=1)
+ [![Pat Sajak's last show: Wheel of Fortune host retiring after 40-plus years](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/GettyImages-140899671.jpg?ve=1&tl=1)
 
- ![FEMA opens resource center in Denton County for storm victims](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/592/333/P-PEYTON-FEMA-DISASTER-RECOVERY-CENTERS-9P_00.00.49.30.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fema-opens-resource-center-denton-county-storm-victims)
+ ![Pat Sajak's last show: Wheel of Fortune host retiring after 40-plus years](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/592/333/GettyImages-140899671.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/pat-sajak-last-show-wheel-fortune)
 
-### [FEMA opens resource center in Denton County for storm victims](https://www.fox4news.com/news/fema-opens-resource-center-denton-county-storm-victims)
+### [Pat Sajak's last show: Wheel of Fortune host retiring after 40-plus years](https://www.fox4news.com/news/pat-sajak-last-show-wheel-fortune)
 
- [![Experts say Red Lobster's shrimp excuse is 'smoke screen' for real problems](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/GettyImages-94959561.jpg?ve=1&tl=1)
+ [![7 suspects arrested, 12 migrants hospitalized after Texas human smuggling sting](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/P-BLAKE-MIGRANT-SMUGGLING-ARRESTS-9P_00.00.23.18.jpg?ve=1&tl=1)
 
- ![Experts say Red Lobster's shrimp excuse is 'smoke screen' for real problems](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/592/333/GettyImages-94959561.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/experts-say-red-lobsters-shrimp-excuse-smoke-screen-real-problems)
+ ![7 suspects arrested, 12 migrants hospitalized after Texas human smuggling sting](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/592/333/P-BLAKE-MIGRANT-SMUGGLING-ARRESTS-9P_00.00.23.18.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/texas-human-smuggling-sting-in-san-antonio)
 
-### [Experts say Red Lobster's shrimp excuse is 'smoke screen' for real problems](https://www.fox4news.com/news/experts-say-red-lobsters-shrimp-excuse-smoke-screen-real-problems)
+### [7 suspects arrested, 12 migrants hospitalized after Texas human smuggling sting](https://www.fox4news.com/news/texas-human-smuggling-sting-in-san-antonio)
 
- [![Fossil Rim Wildlife Center changes visitor policies after viral video of giraffe grabbing toddler](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/giraffe.png?ve=1&tl=1)
+ [![DeSoto tanker truck fire forces residents to evacuate](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/snapshot-76.jpg?ve=1&tl=1)
 
- ![Fossil Rim Wildlife Center changes visitor policies after viral video of giraffe grabbing toddler](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/592/333/giraffe.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fossil-rim-wildlife-center-change-visitor-policies-after-viral-video-giraffe-grabbing-toddler)
+ ![DeSoto tanker truck fire forces residents to evacuate](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/592/333/snapshot-76.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/desoto-fire-evacuation)
 
-### [Fossil Rim Wildlife Center changes visitor policies after viral video of giraffe grabbing toddler](https://www.fox4news.com/news/fossil-rim-wildlife-center-change-visitor-policies-after-viral-video-giraffe-grabbing-toddler)
+### [DeSoto tanker truck fire forces residents to evacuate](https://www.fox4news.com/news/desoto-fire-evacuation)
 
- [![11-year-old dies after trying to save younger sister from drowning, police say](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/Pool.jpg?ve=1&tl=1)
+ [![Howard University revokes Diddy's honorary degree](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/3f3f2be2-GettyImages-489180567.jpg?ve=1&tl=1)
 
- ![11-year-old dies after trying to save younger sister from drowning, police say](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/592/333/Pool.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/11-year-old-dies-trying-save-younger-sister-from-drowning-police-say)
+ ![Howard University revokes Diddy's honorary degree](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/592/333/3f3f2be2-GettyImages-489180567.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/howard-university-revokes-diddys-honorary-degree)
 
-### [11-year-old dies after trying to save younger sister from drowning, police say](https://www.fox4news.com/news/11-year-old-dies-trying-save-younger-sister-from-drowning-police-say)
+### [Howard University revokes Sean 'Diddy' Combs' honorary degree](https://www.fox4news.com/news/howard-university-revokes-diddys-honorary-degree)
 
 ###### [News](https://www.fox4news.com/news)
 
@@ -523,7 +523,7 @@ _**Consumer Rights under Virginia, Colorado, Connecticut, and other similar laws
 
 * [About Us](https://www.fox4news.com/about-us)
 * [New Privacy Policy](https://www.fox4news.com/privacy-policy)
-* [Updated Terms of Service](https://www.fox4news.com/terms-of-service)
+* [Updated Terms of Use](https://www.fox4news.com/terms-of-service)
 * [Your Privacy Choices](http://privacy.fox4news.com/main/web/main)
 * [FCC Public File](https://www.fox4news.com/public-file)
 * [EEO Public File](https://www.fox4news.com/public-file)
