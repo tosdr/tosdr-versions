@@ -3,6 +3,8 @@ Lenovo External Submission Policy
 
   
 
+respectSign
+
 This is a recommends products dialog
 
 Top Suggestions
@@ -17,7 +19,11 @@ French
 
 English
 
+LangEntry.ChineseTaiwan
+
 ไทย
+
+LangEntry.Dutch
 
 German
 
@@ -59,6 +65,8 @@ _Partner Benefits_
 
 View All Details >
 
+spend
+
 more to reach
 
 PRO Plus
@@ -86,6 +94,14 @@ We're sorry, the maximum quantity you are able to buy at this amazing eCoupon pr
 Sign in or Create an Account to Save Your Cart!
 
 Sign in or Create an Account to Join Rewards
+
+Temporarilyunavailable
+
+Discontinued
+
+comingsoon
+
+minicart\_error\_please\_view
 
 View Cart
 
@@ -766,7 +782,11 @@ skip to main content
         [Yoga & Lenovo Slim](https://www.lenovo.com/us/en/yoga/) [ThinkPad](https://www.lenovo.com/us/en/c/laptops/thinkpad/) [ThinkBook](https://www.lenovo.com/us/en/c/laptops/thinkbook/) [Legion Gaming](https://www.lenovo.com/us/en/legion/) [LOQ Gaming](https://www.lenovo.com/us/en/c/lenovo-loq/?visibleDatas=1014%3ALaptops) [IdeaPad](https://www.lenovo.com/us/en/c/laptops/ideapad/)
     * Laptops by Type
         
-        [2-in-1 Laptops](https://www.lenovo.com/us/en/d/convertible-2-in-1-laptops/) [Traditional Laptops](https://www.lenovo.com/us/en/laptops/subseries-results?visibleDatas=992:Traditional%20Laptops) [Build Your Own Laptop](https://www.lenovo.com/us/en/d/deals/custom-laptops/) [Mobile Workstations](https://www.lenovo.com/us/en/c/laptops/thinkpad/thinkpadp/) [Chromebooks](https://www.lenovo.com/us/en/d/chromebook-laptop/) [Shop All Laptops](https://www.lenovo.com/us/en/laptops/results)
+        [2-in-1 Laptops](https://www.lenovo.com/us/en/d/convertible-2-in-1-laptops/) [Traditional Laptops](https://www.lenovo.com/us/en/laptops/subseries-results?visibleDatas=992:Traditional%20Laptops) [Build Your Own Laptop](https://www.lenovo.com/us/en/d/deals/custom-laptops/) [Mobile Workstations](https://www.lenovo.com/us/en/c/laptops/thinkpad/thinkpadp/) [Chromebooks](https://www.lenovo.com/us/en/d/chromebook-laptop/)
+        
+        AI PCs
+        
+        [AI PC](https://www.lenovo.com/us/en/laptops/results/?visibleDatas=13084%3AAI%2520PC) [Copilot+ PC](https://www.lenovo.com/us/en/laptops/results/?visibleDatas=13084%3ACopilot%252B%2520PC) [AI-Powered Gaming PCs](https://www.lenovo.com/us/en/laptops/results/?visibleDatas=13084%3AAI-Powered%2520Gaming%2520PCs) [Shop All Laptops](https://www.lenovo.com/us/en/laptops/results)
     * Best Selling Laptops
         
         [ThinkPad X1 Carbon Gen 11](https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadx1/thinkpad-x1-carbon-gen-11-(14-inch-intel)/len101t0049) [ThinkPad E16 Intel](https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpade/thinkpad-e16-(16-inch-intel)/len101t0066) [LOQ Gaming (16" AMD)](https://www.lenovo.com/us/en/p/laptops/loq-laptops/lenovo-loq-16aph8/len101q0003) [Legion Pro 7i Gaming (16" Intel)](https://www.lenovo.com/us/en/p/laptops/legion-laptops/legion-pro-series/lenovo-legion-pro-7i-gen-9-(16-inch-intel)/len101g0034) [Yoga 7 (16” AMD) 2 in 1 Laptop](https://www.lenovo.com/us/en/p/laptops/yoga/yoga-2-in-1-series/lenovo-yoga-7-2-in-1-gen-9-(16-inch-amd)/len101y0045) [IdeaPad Pro 5i (16″ Intel)](https://www.lenovo.com/us/en/p/laptops/ideapad/ideapad-500/ideapad-pro-5i-gen-8-16-inch-intel/len101i0077)
@@ -799,7 +819,7 @@ skip to main content
     
     * Workstations by Type
         
-        [Desktop Workstations](https://www.lenovo.com/us/en/c/workstations/thinkstation-p-series) [Mobile Workstations](https://www.lenovo.com/us/en/c/laptops/thinkpad/thinkpadp) [Shop All Workstations](https://www.lenovo.com/us/en/workstations/)
+        [Desktop Workstations](https://www.lenovo.com/us/en/c/workstations/thinkstation-p-series) [AI-Ready Workstations](https://www.lenovo.com/us/en/laptops/results/?visibleDatas=13084%3AAI-Ready%2520Workstations) [Mobile Workstations](https://www.lenovo.com/us/en/c/laptops/thinkpad/thinkpadp) [Shop All Workstations](https://www.lenovo.com/us/en/workstations/)
     * Workstations by Brand
         
         [ThinkPad](https://www.lenovo.com/us/en/c/laptops/thinkpad/thinkpadp) [ThinkStation](https://www.lenovo.com/us/en/c/workstations/thinkstation-p-series)
@@ -876,6 +896,10 @@ skip to main content
         [Lenovo Coupons](https://www.lenovo.com/us/en/d/deals/lenovo-coupon-codes/) [Lenovo Trade-in](https://www.lenovo.com/us/en/trade-in-program/) [Lenovo Pro for Business](https://www.lenovo.com/us/en/business/benefits/) [My Lenovo Rewards](https://www.lenovo.com/us/en/rewards/) [Lenovo Financing](https://www.lenovo.com/us/en/landingpage/lenovo-financing-options) [All Discount Programs](https://www.lenovo.com/us/en/discount-programs/)
     
 
+* [AI](https://www.lenovo.com/us/en/solutions/ai/)
+    
+    * [Smarter AI For All](https://www.lenovo.com/us/en/solutions/ai/) [AI-Powered Digital Workplace Solutions](https://www.lenovo.com/us/en/solutions/digital-workplace) [AI PCs](https://www.lenovo.com/us/en/business/ai-laptops/) [Hybrid AI](https://www.lenovo.com/us/en/servers-storage/solutions/ai/) [AI Services](https://www.lenovo.com/us/en/services/professional-services-ai) [Lenovo AI Innovatiors](https://www.lenovo.com/us/en/servers-storage/alliance/ai-innovators/) [Smarter AI Success Stories](https://www.lenovo.com/us/en/case-studies-customer-success-stories/ai-success-story/)
+    
 * [Digital Workplace](https://techtoday.lenovo.com/us/en/digital-workplace-solutions)
     
     * [Digital Workplace Solutions](https://techtoday.lenovo.com/us/en/digital-workplace-solutions) [Digital Workplace Offerings](https://techtoday.lenovo.com/us/en/solutions/digital-workplace) [Virtual Desktop Infrastructure](https://www.lenovo.com/us/en/servers-storage/solutions/client-virtualization/) [Smart Collaboration](https://techtoday.lenovo.com/us/en/smart-collaboration)
@@ -885,9 +909,9 @@ skip to main content
     * [Hybrid Cloud](https://www.lenovo.com/us/en/servers-storage/solutions/hybrid-cloud/) [Multi Cloud Solutions](https://www.lenovo.com/us/en/servers-storage/solutions/cloud-computing/) [Cloud Service Provider](https://www.lenovo.com/us/en/servers-storage/solutions/cloud-service-provider/)
     * [TruScale Hybrid Cloud](https://techtoday.lenovo.com/us/en/solutions/iaas/truscale-hybrid-cloud) [Deloitte-Hybrid Cloud](https://techtoday.lenovo.com/us/en/solutions/iaas/truscale-hybrid-cloud/multi-deloitte) [Microsoft-Hybrid Cloud](https://techtoday.lenovo.com/us/en/solutions/iaas/truscale-hybrid-cloud/hybrid-microsoft) [Nutanix-Hybrid Cloud](https://techtoday.lenovo.com/us/en/solutions/iaas/truscale-hybrid-cloud/nutanix) [SAP-Hybrid Cloud](https://techtoday.lenovo.com/us/en/solutions/iaas/truscale-hybrid-cloud/hybrid-sap) [VMware-Hybrid Cloud](https://techtoday.lenovo.com/us/en/solutions/iaas/truscale-hybrid-cloud/hybrid-vmware)
     
-* [AI & Edge](https://www.lenovo.com/us/en/servers-storage/solutions/ai)
+* [Edge](https://www.lenovo.com/us/en/servers-storage/solutions/edge-ai/)
     
-    * [AI for All](https://www.lenovo.com/us/en/servers-storage/solutions/ai) [Edge AI](https://www.lenovo.com/us/en/servers-storage/solutions/edge-ai/) [Edge Computing](https://www.lenovo.com/us/en/servers-storage/solutions/edge-computing/) [Lenovo AI Innovators](https://www.lenovo.com/us/en/servers-storage/alliance/ai-innovators/)
+    * [Edge AI](https://www.lenovo.com/us/en/servers-storage/solutions/edge-ai/) [Edge Computing](https://www.lenovo.com/us/en/servers-storage/solutions/edge-computing/)
     
 * [Sustainability](https://techtoday.lenovo.com/us/en/sustainability-solutions)
     
@@ -908,7 +932,7 @@ skip to main content
     
     * [Alliance Partners](https://www.lenovo.com/us/en/solutions/alliance-partners) [AMD](https://www.lenovo.com/us/en/servers-storage/alliance/amd/) [Intel](https://www.lenovo.com/us/en/servers-storage/alliance/intel/) [Lenovo Solutions  
         Accelerated by Intel](https://www.lenovo.com/us/en/servers-storage/accelerated-by-intel/) [Microsoft](https://www.lenovo.com/us/en/servers-storage/alliance/microsoft/)
-    * [NVIDIA](https://www.lenovo.com/us/en/servers-storage/alliance/nvidia/) [Red Hat](https://www.lenovo.com/us/en/servers-storage/solutions/redhat/) [SAP](https://www.lenovo.com/us/en/servers-storage/alliance/sap/) [VMWare](https://www.lenovo.com/us/en/servers-storage/alliance/vmware/) [Lenovo AI Innovators](https://www.lenovo.com/us/en/servers-storage/alliance/ai-innovators/)
+    * [NVIDIA](https://www.lenovo.com/us/en/servers-storage/alliance/nvidia/) [Nutanix](https://www.lenovo.com/us/en/servers-storage/alliance/nutanix/) [Red Hat](https://www.lenovo.com/us/en/servers-storage/solutions/redhat/) [SAP](https://www.lenovo.com/us/en/servers-storage/alliance/sap/) [VMWare](https://www.lenovo.com/us/en/servers-storage/alliance/vmware/) [Lenovo AI Innovators](https://www.lenovo.com/us/en/servers-storage/alliance/ai-innovators/)
     
 * [Other Solutions](https://www.lenovo.com/us/en/solutions/other)
     
