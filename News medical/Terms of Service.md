@@ -399,10 +399,6 @@ In this interview, NewsMedical talks to Amanda Jones at Revvity about the strate
     
     [What is the Role of Melatonin in Sleep Regulation?](https://www.news-medical.net/health/What-is-the-Role-of-Melatonin-in-Sleep-Regulation.aspx)
     
-* [![Sleep Onset Mechanics: Understanding the Transition from Wakefulness to Slumber](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/health/Sleep-Onset-Mechanics-Understanding-the-Transition-from-Wakefulness-to-Slumber.aspx)
-    
-    [Sleep Onset Mechanics: Understanding the Transition from Wakefulness to Slumber](https://www.news-medical.net/health/Sleep-Onset-Mechanics-Understanding-the-Transition-from-Wakefulness-to-Slumber.aspx)
-    
 * [![Augmented Reality in Anatomy Education and Training](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/health/Augmented-Reality-in-Anatomy-Education-and-Training.aspx)
     
     [Augmented Reality in Anatomy Education and Training](https://www.news-medical.net/health/Augmented-Reality-in-Anatomy-Education-and-Training.aspx)
@@ -411,29 +407,33 @@ In this interview, NewsMedical talks to Amanda Jones at Revvity about the strate
     
     [Excessive Nighttime Urination (Nocturnal Polyuria)](https://www.news-medical.net/health/Excessive-Nighttime-Urination-(Nocturnal-Polyuria).aspx)
     
+* [![Sleep Onset Mechanics: Understanding the Transition from Wakefulness to Slumber](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/health/Sleep-Onset-Mechanics-Understanding-the-Transition-from-Wakefulness-to-Slumber.aspx)
+    
+    [Sleep Onset Mechanics: Understanding the Transition from Wakefulness to Slumber](https://www.news-medical.net/health/Sleep-Onset-Mechanics-Understanding-the-Transition-from-Wakefulness-to-Slumber.aspx)
+    
 
 Latest News
 -----------
 
-* [![Targeting epigenetic enzymes in dendritic cells to improve cancer immunotherapy](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240607/Targeting-epigenetic-enzymes-in-dendritic-cells-to-improve-cancer-immunotherapy.aspx)
+* [![Novel insights into the underlying, contributing, and direct causes of death in Australia](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240608/Novel-insights-into-the-underlying-contributing-and-direct-causes-of-death-in-Australia.aspx)
     
-    [Targeting epigenetic enzymes in dendritic cells to improve cancer immunotherapy](https://www.news-medical.net/news/20240607/Targeting-epigenetic-enzymes-in-dendritic-cells-to-improve-cancer-immunotherapy.aspx)
+    [Novel insights into the underlying, contributing, and direct causes of death in Australia](https://www.news-medical.net/news/20240608/Novel-insights-into-the-underlying-contributing-and-direct-causes-of-death-in-Australia.aspx)
     
-* [![EULAR develops new classification criteria for hand osteoarthritis](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240607/EULAR-develops-new-classification-criteria-for-hand-osteoarthritis.aspx)
+* [![Experts call for clear rules governing human embryo research](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240608/Experts-call-for-clear-rules-governing-human-embryo-research.aspx)
     
-    [EULAR develops new classification criteria for hand osteoarthritis](https://www.news-medical.net/news/20240607/EULAR-develops-new-classification-criteria-for-hand-osteoarthritis.aspx)
+    [Experts call for clear rules governing human embryo research](https://www.news-medical.net/news/20240608/Experts-call-for-clear-rules-governing-human-embryo-research.aspx)
     
-* [![UQ researchers seek to improve the pathway for people returning to work after dust lung disease diagnosis](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240607/UQ-researchers-seek-to-improve-the-pathway-for-people-returning-to-work-after-dust-lung-disease-diagnosis.aspx)
+* [![Berotralstat: A promising oral treatment for hereditary angioedema with normal C1-inhibitor](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240608/Berotralstat-A-promising-oral-treatment-for-hereditary-angioedema-with-normal-C1-inhibitor.aspx)
     
-    [UQ researchers seek to improve the pathway for people returning to work after dust lung disease diagnosis](https://www.news-medical.net/news/20240607/UQ-researchers-seek-to-improve-the-pathway-for-people-returning-to-work-after-dust-lung-disease-diagnosis.aspx)
+    [Berotralstat: A promising oral treatment for hereditary angioedema with normal C1-inhibitor](https://www.news-medical.net/news/20240608/Berotralstat-A-promising-oral-treatment-for-hereditary-angioedema-with-normal-C1-inhibitor.aspx)
     
-* [![Mechanisms of aversive learning: How negative experiences shape neural circuits](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240607/Brain-Circuits-Underlying-Learning-From-Negative-Experiences.aspx)
+* [![Doxycycline shows promise in reducing deaths and seizures from nodding syndrome](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240608/Doxycycline-shows-promise-in-reducing-deaths-and-seizures-from-nodding-syndrome.aspx)
     
-    [Mechanisms of aversive learning: How negative experiences shape neural circuits](https://www.news-medical.net/news/20240607/Brain-Circuits-Underlying-Learning-From-Negative-Experiences.aspx)
+    [Doxycycline shows promise in reducing deaths and seizures from nodding syndrome](https://www.news-medical.net/news/20240608/Doxycycline-shows-promise-in-reducing-deaths-and-seizures-from-nodding-syndrome.aspx)
     
-* [![Gene therapy trial: restored hearing in children with hereditary deafness](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240607/Gene-therapy-trial-restored-hearing-in-children-with-hereditary-deafness.aspx)
+* [![WHO and FIND join forces to accelerate diagnostic innovation and access](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240608/WHO-and-FIND-join-forces-to-accelerate-diagnostic-innovation-and-access.aspx)
     
-    [Gene therapy trial: restored hearing in children with hereditary deafness](https://www.news-medical.net/news/20240607/Gene-therapy-trial-restored-hearing-in-children-with-hereditary-deafness.aspx)
+    [WHO and FIND join forces to accelerate diagnostic innovation and access](https://www.news-medical.net/news/20240608/WHO-and-FIND-join-forces-to-accelerate-diagnostic-innovation-and-access.aspx)
     
 
  [![NewsGuard](https://d2jx2rerrg6sh3.cloudfront.net/images/newsguard-logo.svg) ![NewsGuard 100/100 Score](https://d2jx2rerrg6sh3.cloudfront.net/images/newsguard-100.svg)](https://www.news-medical.net/medical/newsguard)
@@ -507,7 +507,7 @@ News-Medical.Net provides this medical information service in accordance with th
 
 Update Your Privacy Preferences
 
-Last Updated: Friday 7 Jun 2024
+Last Updated: Saturday 8 Jun 2024
 
 [![AZoNetwork](https://www.azonetwork.com/images/azonetwork_logo_footer_80.png)](https://www.azonetwork.com/)
 
