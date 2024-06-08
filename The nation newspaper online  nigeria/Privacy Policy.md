@@ -1,18 +1,14 @@
-[Skip to content](#primary)
+Saturday, June 8, 2024 [Advertise With Us](https://thenationonlineng.net/advert-rates)
 
-[![The Nation Newspaper](https://thenationonlineng.net/wp-content/themes/thenation-main/fonts/logo.png)](https://thenationonlineng.net/)
+* [](# "Follow us on our Whatsapp Channel")
+* [](# "Follow Us on Instagram")
+* [](# "Follow us on Tiktok")
+* [](# "Follow Us on X")
+* [](# "Follow Us on Facebook")
+* [](# "Follow Our Channel on Telegram")
+* [](# "Follow us on Linkedin")
 
-Menu
-
-* [News](https://thenationonlineng.net/news/)
-* [Entertainment](https://thenationonlineng.net/entertainment/)
-* [Business](https://thenationonlineng.net/business/)
-* [Politics](https://thenationonlineng.net/politics/)
-* [City Beats](https://thenationonlineng.net/city-beats/)
-* [Health](https://thenationonlineng.net/health/)
-* [Sports](https://thenationonlineng.net/sports/)
-* [About us](https://thenationonlineng.net/about-us/)
-* [Advert Rates](https://thenationonlineng.net/advert-rates/)
+[![](https://thenationonlineng.net/wp-content/themes/thenation/assets/build/images/logo.svg)](https://thenationonlineng.net/)
 
 * [News](https://thenationonlineng.net/news/)
 * [Entertainment](https://thenationonlineng.net/entertainment/)
@@ -21,19 +17,25 @@ Menu
 * [City Beats](https://thenationonlineng.net/city-beats/)
 * [Health](https://thenationonlineng.net/health/)
 * [Sports](https://thenationonlineng.net/sports/)
-* [About us](https://thenationonlineng.net/about-us/)
 * [Advert Rates](https://thenationonlineng.net/advert-rates/)
+* [About us](https://thenationonlineng.net/about-us/)
+
+[![](https://thenationonlineng.net/wp-content/themes/thenation/assets/build/images/menu.svg)](#)
+
+* [](https://api.whatsapp.com/send?text=https://thenationonlineng.net/privacy-and-data-protection-and-covid-19/)
+* [](https://twitter.com/share?text=Privacy%20and%20data%20protection%20and%20COVID-19&url=https://thenationonlineng.net/privacy-and-data-protection-and-covid-19/)
+* [](https://www.facebook.com/sharer/sharer.php?u=https://thenationonlineng.net/privacy-and-data-protection-and-covid-19/)
+* [](https://telegram.me/share/url?url=https://thenationonlineng.net/privacy-and-data-protection-and-covid-19/&text=Privacy%20and%20data%20protection%20and%20COVID-19)
+* [](https://linkedin.com/shareArticle?mini=true&url=https://thenationonlineng.net/privacy-and-data-protection-and-covid-19/)
+
+NEWS
+
+April 17, 2020 by [The Nation](https://thenationonlineng.net/author/alao/ "Posts by The Nation")
 
 Privacy and data protection and COVID-19
 ========================================
 
-![Technology](https://thenationonlineng.net/wp-content/uploads/2020/04/security.jpg)
-
-[The Nation](https://thenationonlineng.net/author/alao/ "Posts by The Nation") April 17, 2020
-
-* [](https://www.facebook.com/sharer/sharer.php?u=https://thenationonlineng.net/privacy-and-data-protection-and-covid-19/)
-* [](https://twitter.com/intent/tweet?url=https://thenationonlineng.net/privacy-and-data-protection-and-covid-19/&text=Privacy%20and%20data%20protection%20and%20COVID-19)
-* [](https://api.whatsapp.com/send?text=Privacy%20and%20data%20protection%20and%20COVID-19)
+![Electronic network data security, data protection and electronic technology, financial network security](https://cdn.thenationonlineng.net/wp-content/uploads/2024/05/20003146/Nation.jpg)
 
 #### _**By Temitayo Ogunmokun**_
 
@@ -53,81 +55,57 @@ While their privacy laws serve the purpose of advancing the interest of data sub
 
 * _**Temitayo Ogunmokun, Brussels, Belgium.**_
 
-* * *
+* [](https://api.whatsapp.com/send?text=https://thenationonlineng.net/privacy-and-data-protection-and-covid-19/)
+* [](https://twitter.com/share?text=Privacy%20and%20data%20protection%20and%20COVID-19&url=https://thenationonlineng.net/privacy-and-data-protection-and-covid-19/)
+* [](https://www.facebook.com/sharer/sharer.php?u=https://thenationonlineng.net/privacy-and-data-protection-and-covid-19/)
+* [](https://telegram.me/share/url?url=https://thenationonlineng.net/privacy-and-data-protection-and-covid-19/&text=Privacy%20and%20data%20protection%20and%20COVID-19)
+* [](https://linkedin.com/shareArticle?mini=true&url=https://thenationonlineng.net/privacy-and-data-protection-and-covid-19/)
 
-[**Exposed!! Popular Abuja doctor revealed how men can naturally and permanently cure poor erection, quick ejaculation, small and shameful manhood without side effects. Even if you are hypertensive or diabetic . Stop the use of hard drugs for sex!! It kills!**](https://potentnaturalsolutions.com/wellman/)
+##### TAGS:
 
-* * *
+[Abuja doctor reveals a unique way to permanently cure weak erection, small and shameful manhood, and infertility issues without side effects within a short period. Click now to see!!](https://naijanaturalsolution.com/wellman/)
 
-[**Small Manhood And Premature Ejaculation Made Me Stay Away from Love Making For 4yrs...But These Simple Solutions WORKED! Click Here To See My Breakthrough!**](https://bit.ly/benglo)
+[VERIFIED: Nigerians can now earn US Dollars with premium domains just like Americans, acquire for as low as $1200 and you profit $19000 (₦23million). Click here to start. https://travads.com/l/nationtextmay2024](https://travads.com/l/nationtextmay2024)
 
-* * *
+NEWS
+----
 
-[![](https://cdn.thenationonlineng.net/wp-content/uploads/2023/11/17065450/telegram.png)JOIN OUR TELEGRAM CHANNEL](https://t.me/thenationnigeria) [![](https://cdn.thenationonlineng.net/wp-content/uploads/2023/11/17065446/whatsapp.png)JOIN OUR WHATSAPP CHANNEL](https://whatsapp.com/channel/0029VaE2zxh3LdQSk6jPv02o) [![](https://cdn.thenationonlineng.net/wp-content/uploads/2024/04/05053240/facebook_nation-2.png)JOIN OUR FACEBOOK CHANNEL](https://web.facebook.com/thenationnigeria)
+##### [Verification agents, others to undergo security vetting as NIMC suspends amputee enrolment](https://thenationonlineng.net/verification-agents-others-to-undergo-security-vetting-as-nimc-suspends-amputee-enrolment/)
 
-* * *
+2 hours ago
 
-Advertisement
+[![NIMC](https://cdn.thenationonlineng.net/wp-content/uploads/2024/05/20003146/Nation.jpg)](https://thenationonlineng.net/verification-agents-others-to-undergo-security-vetting-as-nimc-suspends-amputee-enrolment/%3E)
 
-### Leave a Reply [Cancel reply](https://thenationonlineng.net/privacy-and-data-protection-and-covid-19/#respond)
+##### [Obaseki draws battleline with Oba of Benin, insists on ban of youth leaders](https://thenationonlineng.net/obaseki-draws-battleline-with-oba-of-benin-insists-on-ban-of-youth-leaders/)
 
-Your email address will not be published. Required fields are marked \*
+2 hours ago
 
-Comment \*
+[![thenation-icon](https://cdn.thenationonlineng.net/wp-content/uploads/2024/05/20003146/Nation.jpg)](https://thenationonlineng.net/obaseki-draws-battleline-with-oba-of-benin-insists-on-ban-of-youth-leaders/%3E)
 
-Name \* 
+##### [I won’t fail Edo, my vision very clear, Ighodalo assures](https://thenationonlineng.net/i-wont-fail-edo-my-vision-very-clear-ighodalo-assures/) 
 
-Email \* 
+2 hours ago
 
-Website 
+[![Ighodalo 2](https://cdn.thenationonlineng.net/wp-content/uploads/2024/05/20003146/Nation.jpg)](https://thenationonlineng.net/i-wont-fail-edo-my-vision-very-clear-ighodalo-assures/%3E)
 
- Save my name, email, and website in this browser for the next time I comment.
+##### [Nigeria, Belarus sign five-year action plan on agriculture, food security](https://thenationonlineng.net/nigeria-belarus-sign-five-year-action-plan-on-agriculture-food-security/)
 
-  
+2 hours ago
 
-Subscribe to our Newsletter
----------------------------
+[![Senator-Abubakar-Kyari-1](https://cdn.thenationonlineng.net/wp-content/uploads/2024/05/20003146/Nation.jpg)](https://thenationonlineng.net/nigeria-belarus-sign-five-year-action-plan-on-agriculture-food-security/%3E)
 
-\* indicates required
+##### [Pop music legend Celine Dion opens up on illness](https://thenationonlineng.net/pop-music-legend-celine-dion-opens-up-on-illness/)
 
-Email Address \*
+2 hours ago
 
-Full Name 
+[![Celine Dion](https://cdn.thenationonlineng.net/wp-content/uploads/2024/05/20003146/Nation.jpg)](https://thenationonlineng.net/pop-music-legend-celine-dion-opens-up-on-illness/%3E)
 
-/\* real people should not fill this in and expect good things - do not remove this or risk form bot signups \*/ 
+![](https://thenationonlineng.net/wp-content/themes/thenation/assets/build/images/logo.svg)
 
-[![Intuit Mailchimp](https://digitalasset.intuit.com/render/content/dam/intuit/mc-fe/en_us/images/intuit-mc-rewards-text-dark.svg)](http://eepurl.com/iyy7O- "Mailchimp - email marketing made easy and fun")
+* [](#)![](https://thenationonlineng.net/wp-content/themes/thenation/assets/build/images/facebook.svg)
+* [](#)![](https://thenationonlineng.net/wp-content/themes/thenation/assets/build/images/twitter.svg)
+* [](#)![](https://thenationonlineng.net/wp-content/themes/thenation/assets/build/images/instagram.svg)
+* [](#)![](https://thenationonlineng.net/wp-content/themes/thenation/assets/build/images/linkedIn.svg)
+* [](#)![](https://thenationonlineng.net/wp-content/themes/thenation/assets/build/images/telegram.svg)
 
-![The Nation Newspaper](https://thenationonlineng.net/wp-content/themes/thenation-main/fonts/logo.png)
-
-Company
--------
-
-* [About us](https://thenationonlineng.net/about-us/)
-* [Advert Rates](https://thenationonlineng.net/advert-rates/)
-* [Privacy Policy](https://thenationonlineng.net/privacy-policy/)
-
-Quick Links
------------
-
-* [News](https://thenationonlineng.net/news/)
-* [Sports](https://thenationonlineng.net/sports/)
-* [Business](https://thenationonlineng.net/business/)
-* [City Beats](https://thenationonlineng.net/city-beats/)
-* [Entertainment](https://thenationonlineng.net/entertainment/)
-* [Politics](https://thenationonlineng.net/politics/)
-
-Columns
--------
-
-* [Monday](https://thenationonlineng.net/columnists/monday/)
-* [Tuesday](https://thenationonlineng.net/columnists/tuesday/)
-* [Wednesday](https://thenationonlineng.net/columnists/wednesday/)
-* [Thursday](https://thenationonlineng.net/columnists/thursday/)
-* [Friday](https://thenationonlineng.net/columnists/friday/)
-* [Saturday](https://thenationonlineng.net/columnists/saturday/)
-* [Sunday](https://thenationonlineng.net/columnists/sunday/)
-
-2024 The Nation Newspaper, Ltd. All Right Reserved.
-
-Made by [Huge](https://kelvinbawa.com/).
+The Nation Newspaper Ltd. All rights reserved - 2024.
