@@ -24,16 +24,16 @@ Back
     
     [View all products](https://www.bose.com/c/all-products)
     
-     ![Bose QuietComfort Headphones](https://assets.bosecreative.com/transform/283f071c-b833-4500-888a-e710b28df634/Editorial-Product-Category-Card_Graduation?io=transform:fit,height:1920,width:1920&io=overlay:box,color:000000,opacity:12&quality=95)
+     ![Bose Smart Ultra Soundbar](https://assets.bosecreative.com/transform/2fcb3a82-e086-4c63-91fa-07c55fd3fcbc/SF_HP-PANEL-2_FathersDay?io=transform:fit,height:1920,width:1920&io=overlay:box,color:000000,opacity:10&quality=95)
     
-    GRADUATION SALE
+    FATHER’S DAY SALE
     
-    Class is out. Gifts are in.
-    ---------------------------
+    Drumroll for dad, please.
+    -------------------------
     
-    Celebrate your grad with the gift of sound and save over 25% on select products.
+    Dedicate the next one to dad. Save over 25% on select Bose products this Father’s Day.
     
-    [SHOP](https://www.bose.com/c/gifts-for-grads "SHOP")
+    [SHOP](https://www.bose.com/c/fathers-day-sale "SHOP")
     
 
 * [Explore](#)
