@@ -239,6 +239,8 @@ You can modify these options at any time in the ["Quick order"](https://www.met
     
 * [![Gourmet Summer](/userfiles/image/shopinashop/A188/gourmet-summer.svg)Gourmet Summer](https://www.metro.ca/en/online-grocery/themed-baskets/gourmet-summer)
     
+* [![Ice Cream Shop](/userfiles/image/accueil/2024/20240523/mm/ice-cream-b-vedette.svg)Ice Cream Shop](https://www.metro.ca/en/online-grocery/themed-baskets/gourmet-summer/summertime-favourites/ice-cream-frozen-treats)
+    
 * [![Première Moisson](/userfiles/image/shopinashop/A181/premiere_moisson-V2.svg)Première Moisson](https://www.metro.ca/en/online-grocery/themed-baskets/premiere-moisson)
     
 * [![Health & Beauty](/userfiles/image/shopinashop/A183/SanteBeaute.svg)Health & Beauty](https://www.metro.ca/en/online-grocery/themed-baskets/health-beauty)
@@ -257,11 +259,11 @@ Opens a contextual modal window
 
 Under the law, you must be 18 or over to purchase alcohol products and lottery tickets. The person receiving the delivery or picking up the order must be 18 years or over and present a valid proof of identification with picture, in accordance with the law. In case a valid proof of identification with picture is not presented, Metro will refuse to deliver or provide the alcohol products and/or lottery tickets.
 
-### Save $60 off on your first 4 online orders of $75 or more.\* Promo codes : FRESH1, FRESH2, FRESH3 and FRESH4 [Shop Now](https://www.metro.ca/en/online-grocery/flyer?sortOrder=relevance&filter=%3Arelevance%3Adeal%3AFlyer+%26+Deals).
+### Save $60 off on your first 4 online orders\*. [Shop Now](https://www.metro.ca/en/online-grocery/flyer?sortOrder=relevance&filter=%3Arelevance%3Adeal%3AFlyer+%26+Deals).
 
-### Save $60 off on your first 4 online orders of $75 or more.\* Promo codes : FRESH1, FRESH2, FRESH3 and FRESH4 [Shop Now](https://www.metro.ca/en/online-grocery/flyer?sortOrder=relevance&filter=%3Arelevance%3Adeal%3AFlyer+%26+Deals).
+### Save $60 off on your first 4 online orders\*. [Shop Now](https://www.metro.ca/en/online-grocery/flyer?sortOrder=relevance&filter=%3Arelevance%3Adeal%3AFlyer+%26+Deals).
 
-### Save $60 off on your first 4 online orders of $75 or more.\* Promo codes : FRESH1, FRESH2, FRESH3 and FRESH4 [Shop Now](https://www.metro.ca/en/online-grocery/flyer?sortOrder=relevance&filter=%3Arelevance%3Adeal%3AFlyer+%26+Deals).
+### Save $60 off on your first 4 online orders\*. [Shop Now](https://www.metro.ca/en/online-grocery/flyer?sortOrder=relevance&filter=%3Arelevance%3Adeal%3AFlyer+%26+Deals).
 
 Website Terms of Use
 --------------------
@@ -389,7 +391,7 @@ Get to know us
 
 Alimentation Jean-Pierre Durette Inc.
 
-Closed
+Close at 08:00 PMOpen
 
 [Business hours and directions](https://www.metro.ca/en/find-a-grocery/6)
 
