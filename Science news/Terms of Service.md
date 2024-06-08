@@ -87,23 +87,23 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
         * [Archaeology](https://www.sciencenews.org/topic/archaeology)
         * [Psychology](https://www.sciencenews.org/topic/psychology)
-    * * [Genetics](https://www.sciencenews.org/topic/genetics)
+    * * [Anthropology](https://www.sciencenews.org/topic/anthropology)
             
-            ### [Horses may have been domesticated twice. Only one attempt stuck](https://www.sciencenews.org/article/horses-domesticated-mobility-timing)
+            ### [Fossil finds amplify Europe’s status as a hotbed of great ape evolution](https://www.sciencenews.org/article/fossil-europe-hotbed-great-ape-evolution)
             
-            By [Tina Hesman Saey](https://www.sciencenews.org/author/tina-hesman-saey "Posts by Tina Hesman Saey")23 hours ago
-            
-        * [Science & Society](https://www.sciencenews.org/topic/science-society)
-            
-            ### [Scientists are fixing flawed forensics that can lead to wrongful convictions](https://www.sciencenews.org/article/investigating-crime-science-forensics)
-            
-            By [Amber Dance](https://www.sciencenews.org/author/amber-dance "Posts by Amber Dance")June 6, 2024
+            By [Bruce Bower](https://www.sciencenews.org/author/bruce-bower "Posts by Bruce Bower")June 7, 2024
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
-            ### [Bird flu can infect cats. What does that mean for their people?](https://www.sciencenews.org/article/bird-flu-h5n1-infect-cats-people)
+            ### [Wildfire smoke may cause tens of thousands of premature deaths](https://www.sciencenews.org/article/wildfire-smoke-pollution-premature-death)
             
-            By [Tina Hesman Saey](https://www.sciencenews.org/author/tina-hesman-saey "Posts by Tina Hesman Saey")May 31, 2024
+            By [Aimee Cunningham](https://www.sciencenews.org/author/aimee-cunningham "Posts by Aimee Cunningham")June 7, 2024
+            
+        * [Genetics](https://www.sciencenews.org/topic/genetics)
+            
+            ### [Horses may have been domesticated twice. Only one attempt stuck](https://www.sciencenews.org/article/horses-domesticated-mobility-timing)
+            
+            By [Tina Hesman Saey](https://www.sciencenews.org/author/tina-hesman-saey "Posts by Tina Hesman Saey")June 6, 2024
             
 * [Life](https://www.sciencenews.org/topic/life)
     * [Life](https://www.sciencenews.org/topic/life)
@@ -114,23 +114,23 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
         * [Genetics](https://www.sciencenews.org/topic/genetics)
         * [Microbes](https://www.sciencenews.org/topic/microbes)
-    * * [Life](https://www.sciencenews.org/topic/life)
+    * * [Anthropology](https://www.sciencenews.org/topic/anthropology)
+            
+            ### [Fossil finds amplify Europe’s status as a hotbed of great ape evolution](https://www.sciencenews.org/article/fossil-europe-hotbed-great-ape-evolution)
+            
+            By [Bruce Bower](https://www.sciencenews.org/author/bruce-bower "Posts by Bruce Bower")June 7, 2024
+            
+        * [Life](https://www.sciencenews.org/topic/life)
             
             ### [This protist unfolds its ‘neck’ up to 30 times its body length to scout prey](https://www.sciencenews.org/article/protist-neck-origami-unfold-lacrymaria)
             
-            By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")22 hours ago
+            By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")June 6, 2024
             
         * [Genetics](https://www.sciencenews.org/topic/genetics)
             
             ### [Horses may have been domesticated twice. Only one attempt stuck](https://www.sciencenews.org/article/horses-domesticated-mobility-timing)
             
-            By [Tina Hesman Saey](https://www.sciencenews.org/author/tina-hesman-saey "Posts by Tina Hesman Saey")23 hours ago
-            
-        * [Science & Society](https://www.sciencenews.org/topic/science-society)
-            
-            ### [Scientists are fixing flawed forensics that can lead to wrongful convictions](https://www.sciencenews.org/article/investigating-crime-science-forensics)
-            
-            By [Amber Dance](https://www.sciencenews.org/author/amber-dance "Posts by Amber Dance")June 6, 2024
+            By [Tina Hesman Saey](https://www.sciencenews.org/author/tina-hesman-saey "Posts by Tina Hesman Saey")June 6, 2024
             
 * [Earth](https://www.sciencenews.org/topic/earth)
     * [Earth](https://www.sciencenews.org/topic/earth)
@@ -139,6 +139,12 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Oceans](https://www.sciencenews.org/topic/oceans)
         * [Environment](https://www.sciencenews.org/topic/environment)
     * * [Earth](https://www.sciencenews.org/topic/earth)
+            
+            ### [Geoscientists found the most dangerous part of a famous West Coast fault](https://www.sciencenews.org/article/geoscientist-dangerous-west-coast-fault)
+            
+            By [Nikk Ogasa](https://www.sciencenews.org/author/nikk-ogasa "Posts by Nikk Ogasa")June 7, 2024
+            
+        * [Earth](https://www.sciencenews.org/topic/earth)
             
             ### [In 2018, Hawaii’s Kilauea volcano erupted like a stomp rocket](https://www.sciencenews.org/article/2018-kilauea-volcano-erupt-stomp-rocket)
             
@@ -149,12 +155,6 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             ### [Freshwater first appeared on Earth 4 billion years ago, ancient crystals hint](https://www.sciencenews.org/article/freshwater-earth-ancient-crystal-years)
             
             By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")June 3, 2024
-            
-        * [Climate](https://www.sciencenews.org/topic/climate)
-            
-            ### [Warm water is sneaking underneath the Thwaites Glacier — and rapidly melting it](https://www.sciencenews.org/article/warm-water-under-thwaites-glacier-melt)
-            
-            By [Douglas Fox](https://www.sciencenews.org/author/douglas-fox "Posts by Douglas Fox")May 30, 2024
             
 * [Physics](https://www.sciencenews.org/topic/physics)
     * [Physics](https://www.sciencenews.org/topic/physics)
@@ -188,7 +188,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [NASA’s James Webb Space Telescope could help solve these 5 exoplanet puzzles](https://www.sciencenews.org/article/nasa-jwst-space-telescope-exoplanet)
             
-            By [Elise Cutts](https://www.sciencenews.org/author/elise-cutts "Posts by Elise Cutts")3 hours ago
+            By [Elise Cutts](https://www.sciencenews.org/author/elise-cutts "Posts by Elise Cutts")June 7, 2024
             
         * [Space](https://www.sciencenews.org/topic/space)
             
