@@ -278,6 +278,7 @@ Payment methods
     * [Ledger Press Kit](https://www.ledger.com/press)
     * [Affiliates](https://www.ledgerwallet.com/affiliates/)
     * [Status](https://status.ledger.com/)
+    * [Developers](https://developers.ledger.com/)
     * [Partners](https://shop.ledger.com/partners)
 
 * Careers
