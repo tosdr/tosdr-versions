@@ -197,61 +197,61 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Support even on Sundays!
+> Wish I started ages ago!
 > ------------------------
 > 
-> Thanks Adriaan...
+> I just want to compliment you and your team for an amazing back office software.
 > 
-> You guys even work on Sundays?
+> I have been struggling with a proper invoicing solution for six months now (to make time each month)
 > 
-> I’m impressed!!
+> I just wish I started using Invoices Online ages ago.
 
-Johan Botha - Brand Xplosion
+Terri Winfield
 
-![valued client Griffon Solutions and Communications](https://www.invoicesonline.co.za/scripts/image.php?bid=7799&file=logo_300_100&type=&fe=81ea9c52e89c102426ed9c91f1a7b68f494c35ac74fce79680c0607018ba7a66&c=152544924)  
-Griffon Solutions and Communications
+![valued client Electro-Heat](https://www.invoicesonline.co.za/scripts/image.php?bid=8547&file=logo_300_100&type=&fe=4a6ceb90cdeadca437d4d95d20cb5bfe62182971fa1a78e455325b4cb4e15adb&c=76108490)  
+Electro-Heat
 
-![valued client SafeTclip](https://www.invoicesonline.co.za/scripts/image.php?bid=8368&file=logo_300_100&type=&fe=81ea9c52e89c102426ed9c91f1a7b68f494c35ac74fce79680c0607018ba7a66&c=95452593)  
-SafeTclip
+![valued client Wiselink Broadband Vryheid](https://www.invoicesonline.co.za/scripts/image.php?bid=6023&file=logo_300_100&type=&fe=4a6ceb90cdeadca437d4d95d20cb5bfe62182971fa1a78e455325b4cb4e15adb&c=206225364)  
+Wiselink Broadband Vryheid
 
-![valued client United Paintball Federation](https://www.invoicesonline.co.za/scripts/image.php?bid=7016&file=logo_300_100&type=&fe=81ea9c52e89c102426ed9c91f1a7b68f494c35ac74fce79680c0607018ba7a66&c=80264996)  
-United Paintball Federation
+![valued client VA AND M DEBT-AID (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8114&file=logo_300_100&type=&fe=4a6ceb90cdeadca437d4d95d20cb5bfe62182971fa1a78e455325b4cb4e15adb&c=177473761)  
+VA AND M DEBT-AID (PTY) LTD
 
-![valued client MR Compressors& Industrial Supplies](https://www.invoicesonline.co.za/scripts/image.php?bid=7893&file=logo_300_100&type=&fe=81ea9c52e89c102426ed9c91f1a7b68f494c35ac74fce79680c0607018ba7a66&c=147913223)  
-MR Compressors& Industrial Supplies
+![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=4a6ceb90cdeadca437d4d95d20cb5bfe62182971fa1a78e455325b4cb4e15adb&c=172964056)  
+West Coast Horse Trails
 
-![valued client Alliance Energy](https://www.invoicesonline.co.za/scripts/image.php?bid=2000&file=logo_300_100&type=&fe=81ea9c52e89c102426ed9c91f1a7b68f494c35ac74fce79680c0607018ba7a66&c=39781772)  
-Alliance Energy
+![valued client KTEN PARTS](https://www.invoicesonline.co.za/scripts/image.php?bid=7612&file=logo_300_100&type=&fe=4a6ceb90cdeadca437d4d95d20cb5bfe62182971fa1a78e455325b4cb4e15adb&c=133047084)  
+KTEN PARTS
 
-![valued client J.M. HUMAN RESOURCES](https://www.invoicesonline.co.za/scripts/image.php?bid=4626&file=logo_300_100&type=&fe=81ea9c52e89c102426ed9c91f1a7b68f494c35ac74fce79680c0607018ba7a66&c=138797008)  
-J.M. HUMAN RESOURCES
+![valued client Atalie Scented Candles Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7239&file=logo_300_100&type=&fe=4a6ceb90cdeadca437d4d95d20cb5bfe62182971fa1a78e455325b4cb4e15adb&c=17855859)  
+Atalie Scented Candles Pty Ltd
 
-![valued client Henry's Home Renovations](https://www.invoicesonline.co.za/scripts/image.php?bid=1221&file=logo_300_100&type=&fe=81ea9c52e89c102426ed9c91f1a7b68f494c35ac74fce79680c0607018ba7a66&c=176423384)  
-Henry's Home Renovations
+![valued client NIMAWELL  ](https://www.invoicesonline.co.za/scripts/image.php?bid=6419&file=logo_300_100&type=&fe=4a6ceb90cdeadca437d4d95d20cb5bfe62182971fa1a78e455325b4cb4e15adb&c=209885046)  
+NIMAWELL
 
-![valued client AquariumSmiths](https://www.invoicesonline.co.za/scripts/image.php?bid=7183&file=logo_300_100&type=&fe=81ea9c52e89c102426ed9c91f1a7b68f494c35ac74fce79680c0607018ba7a66&c=15456057)  
-AquariumSmiths
+![valued client UMVIKELI PRIVATE SECURITY](https://www.invoicesonline.co.za/scripts/image.php?bid=7357&file=logo_300_100&type=&fe=4a6ceb90cdeadca437d4d95d20cb5bfe62182971fa1a78e455325b4cb4e15adb&c=123747185)  
+UMVIKELI PRIVATE SECURITY
 
-![valued client Zwashu Bed Manufacturing](https://www.invoicesonline.co.za/scripts/image.php?bid=8380&file=logo_300_100&type=&fe=81ea9c52e89c102426ed9c91f1a7b68f494c35ac74fce79680c0607018ba7a66&c=37703101)  
-Zwashu Bed Manufacturing
+![valued client Local Print and Signs](https://www.invoicesonline.co.za/scripts/image.php?bid=8292&file=logo_300_100&type=&fe=4a6ceb90cdeadca437d4d95d20cb5bfe62182971fa1a78e455325b4cb4e15adb&c=102660487)  
+Local Print and Signs
 
-![valued client Dr V Naik Consult](https://www.invoicesonline.co.za/scripts/image.php?bid=4810&file=logo_300_100&type=&fe=81ea9c52e89c102426ed9c91f1a7b68f494c35ac74fce79680c0607018ba7a66&c=45309589)  
-Dr V Naik Consult
+![valued client FJW Security Cc](https://www.invoicesonline.co.za/scripts/image.php?bid=1343&file=logo_300_100&type=&fe=4a6ceb90cdeadca437d4d95d20cb5bfe62182971fa1a78e455325b4cb4e15adb&c=187061590)  
+FJW Security Cc
 
-![valued client CrossRoads Pregnancy Help Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=5466&file=logo_300_100&type=&fe=81ea9c52e89c102426ed9c91f1a7b68f494c35ac74fce79680c0607018ba7a66&c=27546689)  
-CrossRoads Pregnancy Help Centre
+![valued client OXYAIDER (PTY) LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7574&file=logo_300_100&type=&fe=4a6ceb90cdeadca437d4d95d20cb5bfe62182971fa1a78e455325b4cb4e15adb&c=168076409)  
+OXYAIDER (PTY) LTD
 
-![valued client Tiny Cuddles Photography](https://www.invoicesonline.co.za/scripts/image.php?bid=5167&file=logo_300_100&type=&fe=81ea9c52e89c102426ed9c91f1a7b68f494c35ac74fce79680c0607018ba7a66&c=75730972)  
-Tiny Cuddles Photography
+![valued client Goju Ryu Karate Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=2827&file=logo_300_100&type=&fe=4a6ceb90cdeadca437d4d95d20cb5bfe62182971fa1a78e455325b4cb4e15adb&c=120692645)  
+Goju Ryu Karate Centre
 
-![valued client Gemini-IT Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8156&file=logo_300_100&type=&fe=81ea9c52e89c102426ed9c91f1a7b68f494c35ac74fce79680c0607018ba7a66&c=206411566)  
-Gemini-IT Group
+![valued client Stories4Kids (Pty) Ltd t/a Storietyd](https://www.invoicesonline.co.za/scripts/image.php?bid=2162&file=logo_300_100&type=&fe=4a6ceb90cdeadca437d4d95d20cb5bfe62182971fa1a78e455325b4cb4e15adb&c=48953552)  
+Stories4Kids (Pty) Ltd t/a Storietyd
 
-![valued client VA AND M BUSINESSES (PTY)LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8454&file=logo_300_100&type=&fe=81ea9c52e89c102426ed9c91f1a7b68f494c35ac74fce79680c0607018ba7a66&c=129841367)  
-VA AND M BUSINESSES (PTY)LTD
+![valued client Hydroworld T/A Milliqua](https://www.invoicesonline.co.za/scripts/image.php?bid=3671&file=logo_300_100&type=&fe=4a6ceb90cdeadca437d4d95d20cb5bfe62182971fa1a78e455325b4cb4e15adb&c=3321712)  
+Hydroworld T/A Milliqua
 
-![valued client Wiselink Broadband Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4072&file=logo_300_100&type=&fe=81ea9c52e89c102426ed9c91f1a7b68f494c35ac74fce79680c0607018ba7a66&c=139065641)  
-Wiselink Broadband Pty Ltd
+![valued client INVOICES/JOBCARDS ONLINE](https://www.invoicesonline.co.za/scripts/image.php?bid=6974&file=logo_300_100&type=&fe=4a6ceb90cdeadca437d4d95d20cb5bfe62182971fa1a78e455325b4cb4e15adb&c=108498528)  
+INVOICES/JOBCARDS ONLINE
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
