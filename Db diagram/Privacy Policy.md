@@ -2,7 +2,7 @@
 
 [![dbdiagram logo](https://cdn.holistics.io/logo-dbdiagram-notext.ico)![dbdiagram logo](https://cdn.holistics.io/logo-dbdiagram-notext.ico)
 
-**dbdiagram Docs**](https://dbdiagram.io/docs/)[Docs](https://dbdiagram.io/docs/)[Roadmap](https://dbdiagram.io/docs/roadmap)[Release Notes](https://dbdiagram.io/docs/release-notes)[Go To App 👉](https://dbdiagram.io/d)
+**dbdiagram Docs**](https://dbdiagram.io/docs/)[Docs](https://dbdiagram.io/docs/)[APIBETA](https://dbdiagram.io/docs/api/v1)[Roadmap](https://dbdiagram.io/docs/roadmap)[Release Notes](https://dbdiagram.io/docs/release-notes)[Go To App 👉](https://dbdiagram.io/d)
 
 [dbx](#)
 
