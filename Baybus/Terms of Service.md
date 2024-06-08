@@ -91,9 +91,15 @@ To
 
   Plan Journey    
 
+* [##### Bus Stop Closed Routes 71 & 72b - Otumoetai Road - Brookfield Service Centre
+    
+    Mon 10 Jun 09:00 am - 05:00 pm](https://www.baybus.co.nz/latest-updates/service-updates/bus-stop-closed-routes-71-72b-otumoetai-road-brookfield-service-centre/)
+* [##### Detour Routes 2B, 2W & 5 - Night Closure of Dive Crescent
+    
+    Mon 10 Jun 06:00 pm - Tue 11 Jun 06:00 am](https://www.baybus.co.nz/latest-updates/service-updates/detour-routes-2b-2w-5-night-closure-of-dive-crescent/)
 * [##### Detour Route CT - Closure of Maunganui Road Northbound (between Te Maunga Interchange and Bayfair)
     
-    Today 07:00 pm - Sun 09 Jun 05:00 am](https://www.baybus.co.nz/latest-updates/service-updates/detour-route-ct-closure-of-maunganui-road-northbound-between-te-maunga-interchange-and-bayfair/)
+    Now until Sun 09 Jun 05:00 am](https://www.baybus.co.nz/latest-updates/service-updates/detour-route-ct-closure-of-maunganui-road-northbound-between-te-maunga-interchange-and-bayfair/)
 * [##### Detour, Bus Stop Closures Route 60 - Long-term Closure of St Andrews Drive Roundabout
     
     Now until Mon 02 Sept 06:00 am](https://www.baybus.co.nz/latest-updates/service-updates/detour-bus-stop-closures-route-60-long-term-closure-of-st-andrews-drive-roundabout/)
