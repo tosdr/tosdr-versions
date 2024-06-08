@@ -149,6 +149,33 @@ Featured Deals
 Recent Deals
 ------------
 
+* [![Little Tikes Cozy Coupe Bubble Machine £5 At Poundland](https://extremebargains.uk/wp-content/uploads/2024/06/tikesbubble-500x333.jpg)](https://extremebargains.uk/deal/little-tikes-cozy-coupe-bubble-machine-5-at-poundland/)
+    
+    [Little Tikes Cozy Coupe Bubble Machine £5 At Poundland
+    ------------------------------------------------------](https://extremebargains.uk/deal/little-tikes-cozy-coupe-bubble-machine-5-at-poundland/)
+    
+    [![](https://extremebargains.uk/wp-content/uploads/2021/12/poundland.png)](https://extremebargains.uk/retailers/poundland/)
+    
+    [View Deal ➜](https://extremebargains.uk/shop/18854/)
+    
+* [![Gabby’s Dollhouse Bubble Camera Only £2 At Poundland](https://extremebargains.uk/wp-content/uploads/2024/06/gabbys-500x333.jpg)](https://extremebargains.uk/deal/gabbys-dollhouse-bubble-camera-only-2-at-poundland/)
+    
+    [Gabby’s Dollhouse Bubble Camera Only £2 At Poundland
+    ----------------------------------------------------](https://extremebargains.uk/deal/gabbys-dollhouse-bubble-camera-only-2-at-poundland/)
+    
+    [![](https://extremebargains.uk/wp-content/uploads/2021/12/poundland.png)](https://extremebargains.uk/retailers/poundland/)
+    
+    [View Deal ➜](https://extremebargains.uk/shop/18852/)
+    
+* [![Diesel Only The Brave EDT 50ml With Shower Gel NOW £22](https://extremebargains.uk/wp-content/uploads/2024/06/disel-500x333.jpg)](https://extremebargains.uk/deal/diesel-only-the-brave-edt-50ml-with-shower-gel-now-22/)
+    
+    [Diesel Only The Brave EDT 50ml With Shower Gel NOW £22
+    ------------------------------------------------------](https://extremebargains.uk/deal/diesel-only-the-brave-edt-50ml-with-shower-gel-now-22/)
+    
+    [![](https://extremebargains.uk/wp-content/uploads/2022/01/tj.jpg)](https://extremebargains.uk/retailers/tj-hughes/)
+    
+    [View Deal ➜](https://extremebargains.uk/shop/18850/)
+    
 * [![Up To 25% Off Selected LEGO Sets At John Lewis](https://extremebargains.uk/wp-content/uploads/2024/06/lego-500x333.jpg)](https://extremebargains.uk/deal/up-to-25-off-selected-lego-sets-at-john-lewis/)
     
     [Up To 25% Off Selected LEGO Sets At John Lewis
@@ -391,33 +418,6 @@ Recent Deals
     [![](https://extremebargains.uk/wp-content/uploads/2024/04/disney-store.png)](https://extremebargains.uk/retailers/disney-store/)
     
     [View Deal ➜](https://extremebargains.uk/shop/18728/)
-    
-* [![Winnie The Pooh Backpack NOW £14.99 At Disney Store](https://extremebargains.uk/wp-content/uploads/2024/05/poohbag-500x333.jpg)](https://extremebargains.uk/deal/winnie-the-pooh-backpack-now-14-99-at-disney-store/)
-    
-    [Winnie the Pooh Backpack NOW £14.99 At Disney Store
-    ---------------------------------------------------](https://extremebargains.uk/deal/winnie-the-pooh-backpack-now-14-99-at-disney-store/)
-    
-    [![](https://extremebargains.uk/wp-content/uploads/2024/04/disney-store.png)](https://extremebargains.uk/retailers/disney-store/)
-    
-    [View Deal ➜](https://extremebargains.uk/shop/18725/)
-    
-* [![Jack Skellington Mug, The Nightmare Before Christmas NOW £5.99 At Disney Store](https://extremebargains.uk/wp-content/uploads/2024/05/mug-500x333.jpg)](https://extremebargains.uk/deal/jack-skellington-mug-the-nightmare-before-christmas-now-5-99-at-disney-store/)
-    
-    [Jack Skellington Mug, The Nightmare Before Christmas NOW £5.99 At Disney Store
-    ------------------------------------------------------------------------------](https://extremebargains.uk/deal/jack-skellington-mug-the-nightmare-before-christmas-now-5-99-at-disney-store/)
-    
-    [![](https://extremebargains.uk/wp-content/uploads/2024/04/disney-store.png)](https://extremebargains.uk/retailers/disney-store/)
-    
-    [View Deal ➜](https://extremebargains.uk/shop/18723/)
-    
-* [![Frozen 2 Rolling Luggage NOW £20.99 At Disney Store](https://extremebargains.uk/wp-content/uploads/2024/05/frozen-case-500x333.jpg)](https://extremebargains.uk/deal/frozen-2-rolling-luggage-now-20-99-at-disney-store/)
-    
-    [Frozen 2 Rolling Luggage NOW £20.99 At Disney Store
-    ---------------------------------------------------](https://extremebargains.uk/deal/frozen-2-rolling-luggage-now-20-99-at-disney-store/)
-    
-    [![](https://extremebargains.uk/wp-content/uploads/2024/04/disney-store.png)](https://extremebargains.uk/retailers/disney-store/)
-    
-    [View Deal ➜](https://extremebargains.uk/shop/18716/)
     
 
 Latest News
