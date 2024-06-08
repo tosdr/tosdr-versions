@@ -1,6 +1,6 @@
 [Skip to main content](#maincontent) [Skip to footer content](#footercontent)
 
-**Join us at RC Fest!** Starts in: [Details](https://www.horizonhobby.com/rc-fest.html)
+**Join us at RC Fest!** Happening Now [Learn More](https://www.horizonhobby.com/rc-fest.html)
 
  
 
@@ -85,7 +85,7 @@ My store
 
 [](#)
 
-**Join us at RC Fest!** Starts in: [Details](https://www.horizonhobby.com/rc-fest.html)
+**Join us at RC Fest!** Happening Now [Learn More](https://www.horizonhobby.com/rc-fest.html)
 
 * [Shop](https://www.horizonhobby.com/s/horizon-us/home "Shop Radio Control")
 * [Learn](https://www.horizonhobby.com/learn.html "Learn about the RC Hobby")
