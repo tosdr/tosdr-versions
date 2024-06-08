@@ -411,11 +411,11 @@ _A equipe do POSTGRAIN lhe deseja uma excelente navegação!_
 
 ### Última do blog
 
-[![Novo algoritmo do Instagram - Um tablet deitado num ambiente de fundo escuro, projetando para a fora a logo do Instagram que está em evidência, no centro, da foto.](https://postgrain.com/wp-content/uploads/2024/06/THUMB-BLOG-algoritmo-do-Instagram.jpg)](https://postgrain.com/?post_type=post&p=12059)
+[![Imagem com um alvo em tons de roxo e amarelo, com um dardo acertando o meio do alvo.](https://postgrain.com/wp-content/uploads/2024/06/THUMB-BLOG-Marketing-Agil-1.jpg)](https://postgrain.com/?post_type=post&p=12066)
 
-[Como o novo algoritmo do Instagram influencia nas suas estratégias de marketing](https://postgrain.com/?post_type=post&p=12059)
+[Marketing Ágil: Aprenda a implementar a Metodologia na Gestão do seus Projetos de Marketing](https://postgrain.com/?post_type=post&p=12066)
 
-[Leia mais](https://postgrain.com/?post_type=post&p=12059)
+[Leia mais](https://postgrain.com/?post_type=post&p=12066)
 
 Ilustração de um dos personagens do Postgrain
 
