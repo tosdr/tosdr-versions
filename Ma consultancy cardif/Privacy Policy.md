@@ -193,7 +193,8 @@ Situs Rekomendasi
 [Slot Depo 5k](https://www.expoeventcenter.com/)  
 [slot depo 10k](https://motherlandafricanfoodmarket.com/)  
 [slot depo 10k](https://www.sunshinelandscapingny.com/)  
-[Saba Sport](https://riversidechurros.com/)
+[Saba Sport](https://riversidechurros.com/)  
+[gacor22 slot](https://theroyalcrestapts.com/)
 
 You May All Missed
 ------------------
