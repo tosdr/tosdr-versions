@@ -234,12 +234,12 @@ Follow:[![Facebook](https://edge.sitecorecloud.io/ironmountain-c8dd68e9/media/pr
     * [Invoice Information](https://www.ironmountain.com/support/how-it-works/resources/invoice-information)
 * Resources
     
-    * [Blogs and Articles](https://www.ironmountain.com/resources??contenttype%5B0%5D=Blogs%20and%20Articles%23listing)
-    * [Customer Success Stories](https://www.ironmountain.com/resources??contenttype%5B0%5D=Customer%20Success%20Stories%23listing)
-    * [Infographics](https://www.ironmountain.com/resources??contenttype%5B0%5D=Infographics%23listing)
-    * [Solution Guides](https://www.ironmountain.com/resources??contenttype%5B0%5D=Solution%20Guides%23listing)
-    * [Videos and Webinars](https://www.ironmountain.com/resources??contenttype%5B0%5D=Videos%20and%20Webinars%23listing)
-    * [Whitepapers](https://www.ironmountain.com/resources??contenttype%5B0%5D=Whitepaper%23listing)
+    * [Blogs and Articles](https://www.ironmountain.com/resources?contenttype%5B0%5D=Blogs%20and%20Articles#listing)
+    * [Customer Success Stories](https://www.ironmountain.com/resources?contenttype%5B0%5D=Customer%20Success%20Stories#listing)
+    * [Infographics](https://www.ironmountain.com/resources?contenttype%5B0%5D=Infographics#listing)
+    * [Solution Guides](https://www.ironmountain.com/resources?contenttype%5B0%5D=Solution%20Guides#listing)
+    * [Videos and Webinars](https://www.ironmountain.com/resources?contenttype%5B0%5D=Videos%20and%20Webinars#listing)
+    * [Whitepapers](https://www.ironmountain.com/resources?contenttype%5B0%5D=Whitepaper#listing)
     * [View all resources](https://www.ironmountain.com/resources)
 
 [![Facebook](https://edge.sitecorecloud.io/ironmountain-c8dd68e9/media/project/iron-mountain/iron-mountain/images/brand/icons/social/icon-facebook.svg?h=32&iar=0&w=32&sc_lang=en)](https://www.facebook.com/ironmountain)[![LinkedIn](https://edge.sitecorecloud.io/ironmountain-c8dd68e9/media/project/iron-mountain/iron-mountain/images/brand/icons/social/icon-linkedin.svg?h=32&iar=0&w=32&sc_lang=en)](https://www.linkedin.com/company/iron-mountain)[![YouTube](https://edge.sitecorecloud.io/ironmountain-c8dd68e9/media/project/iron-mountain/iron-mountain/images/brand/icons/social/icon-youtube.svg?h=32&iar=0&w=32&sc_lang=en)](https://www.youtube.com/user/ironmountain)[![Twitter (X)](https://edge.sitecorecloud.io/ironmountain-c8dd68e9/media/project/iron-mountain/iron-mountain/images/brand/icons/social/icon-twitter-x.svg?h=32&iar=0&w=32&sc_lang=en)](https://twitter.com/ironmountain)
