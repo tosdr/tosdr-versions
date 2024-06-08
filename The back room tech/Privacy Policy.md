@@ -116,18 +116,18 @@ Supreme caution has been taken to make sure that there are no copyright infringe
 
 #### Random Posts
 
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2045'%3E%3C/svg%3E)
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2042'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/code-1-80x45.jpg.optimal.jpg)](https://thebackroomtech.com/2007/10/17/script-to-gracefully-close-an-outlook-pst-file-so-it-can-be-backed-up/ "Script to Gracefully Close an Outlook .PST File So It Can Be Backed Up")[Script to Gracefully Close an Outlook .PST File So It Can Be Backed Up](https://thebackroomtech.com/2007/10/17/script-to-gracefully-close-an-outlook-pst-file-so-it-can-be-backed-up/ "Script to Gracefully Close an Outlook .PST File So It Can Be Backed Up")
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2030'%3E%3C/svg%3E)
+    ![](https://s11921.pcdn.co/wp-content/uploads/readiness-tool-windows-vista-80x42.png)](https://thebackroomtech.com/2008/04/07/using-checksur-to-repair-windows-vista-update-problems/ "Using CheckSUR to repair Windows Vista update problems")[Using CheckSUR to repair Windows Vista update problems](https://thebackroomtech.com/2008/04/07/using-checksur-to-repair-windows-vista-update-problems/ "Using CheckSUR to repair Windows Vista update problems")
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2046'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/terminals-80x30.jpg.optimal.jpg)](https://thebackroomtech.com/2007/08/10/managing-multiple-remote-desktopterminal-server-connections-using-terminals/ "Managing multiple Remote Desktop/Terminal Server connections using Terminals")[Managing multiple Remote Desktop/Terminal Server connections using Terminals](https://thebackroomtech.com/2007/08/10/managing-multiple-remote-desktopterminal-server-connections-using-terminals/ "Managing multiple Remote Desktop/Terminal Server connections using Terminals")
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2032'%3E%3C/svg%3E)
+    ![](https://s11921.pcdn.co/wp-content/uploads/upgrade-virtual-machine-80x46.png)](https://thebackroomtech.com/2017/09/12/upgrade-vm-hardware-compatibility-vmware-workstation/ "How to Upgrade VM Hardware Compatibility in VMware Workstation")[How to Upgrade VM Hardware Compatibility in VMware Workstation](https://thebackroomtech.com/2017/09/12/upgrade-vm-hardware-compatibility-vmware-workstation/ "How to Upgrade VM Hardware Compatibility in VMware Workstation")
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2049'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/03_task_manager_has_been_disabled_by_admin_thumb-80x32.png)](https://thebackroomtech.com/2010/08/25/fix-task-manager-problems-in-windows/ "Fix Task Manager Problems in Windows")[Fix Task Manager Problems in Windows](https://thebackroomtech.com/2010/08/25/fix-task-manager-problems-in-windows/ "Fix Task Manager Problems in Windows")
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2050'%3E%3C/svg%3E)
+    ![](https://s11921.pcdn.co/wp-content/uploads/windbg-80x49.png)](https://thebackroomtech.com/2007/09/19/howto-enable-windows-debug-logging-to-solve-authentication-problems/ "HowTo: Enable Windows Debug Logging to Solve Authentication Problems")[HowTo: Enable Windows Debug Logging to Solve Authentication Problems](https://thebackroomtech.com/2007/09/19/howto-enable-windows-debug-logging-to-solve-authentication-problems/ "HowTo: Enable Windows Debug Logging to Solve Authentication Problems")
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2041'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/remote-desktop-80x50.png)](https://thebackroomtech.com/2007/05/18/how-to-enable-remote-desktop-on-a-windows-xp-machine-remotely/ "HowTo: Enable Remote Desktop on a Windows XP Machine – Remotely")[HowTo: Enable Remote Desktop on a Windows XP Machine – Remotely](https://thebackroomtech.com/2007/05/18/how-to-enable-remote-desktop-on-a-windows-xp-machine-remotely/ "HowTo: Enable Remote Desktop on a Windows XP Machine – Remotely")
+    ![](https://s11921.pcdn.co/wp-content/uploads/pc-code-1-80x41.jpg.optimal.jpg)](https://thebackroomtech.com/2018/06/12/vmware-script-list-empty-resource-pools/ "VMware Script – List Empty Resource Pools")[VMware Script – List Empty Resource Pools](https://thebackroomtech.com/2018/06/12/vmware-script-list-empty-resource-pools/ "VMware Script – List Empty Resource Pools")
 
 #### Our Publishing Family
 
