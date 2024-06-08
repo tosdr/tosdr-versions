@@ -99,30 +99,30 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 * [Meme Insider](https://memeinsider.com/)
 * [Newsletter](https://knowyourmeme.com/newsletter)
 
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/024/572/Brian_Peppers_explainer_banner_image.jpg "Who Is 'Brian Peppers'? The Infamous Ohio Criminal Whose Picture Has Baffled The Web Explained")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/024/592/2155613936.jpg "'Super Smash Bros' Community Prays That This 'Dating App For Smashers' Is Not Real")
     
-    Who Is 'Brian Peppers'? The Infamous Ohio Criminal Whose Picture Has Baffled The Web Explained](https://knowyourmeme.com/editorials/guides/who-is-brian-peppers-and-what-syndrome-did-he-have-the-infamous-ohio-criminal-whose-picture-has-baffled-the-web-explained)
+    'Super Smash Bros' Community Prays That This 'Dating App For Smashers' Is Not Real](https://knowyourmeme.com/news/super-smash-bros-community-prays-that-this-dating-app-for-smashers-is-not-real)
     
-* [![Everyone Knows Exactly How The Wife Who Dies At The Start Of The Film Looks](https://i.kym-cdn.com/featured_items/icons/wide/000/024/571/cover1.jpg "Everyone Knows Exactly How The 'Wife Who Dies At The Start Of The Film' Looks")
+* [![You Will Never Regret Clicking On This Entry ✨ Beautiful Cabin Crew 🌹 Scarlett Johansson💋💋](https://i.kym-cdn.com/featured_items/icons/wide/000/024/591/cover3.jpg "You Will Never Regret Clicking On This Entry, Beautiful Cabin Crew, Scarlett Johansson")
     
-    Everyone Knows Exactly How The 'Wife Who Dies At The Start Of The Film' Looks](https://knowyourmeme.com/memes/wife-who-dies-at-the-beginning-of-the-movie)
+    You Will Never Regret Clicking On This Entry, Beautiful Cabin Crew, Scarlett Johansson](https://knowyourmeme.com/memes/beautiful-cabin-crew-%F0%9F%8C%B9-scarlett-johansson%F0%9F%92%8B%F0%9F%92%8B-you-will-never-regret-liking-this-photo)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/024/570/Screenshot_2023-10-26_at_9.59.40_AM.jpg "Who Is Tanvir Sultan, MBA? The Satirical Facebook Page Explained")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/024/590/biden_normandy_explainer.jpg "Why Are People Saying President Biden Soiled Himself At Normandy? The Viral Allegations, Video And Memes Explained")
     
-    Who Is Tanvir Sultan, MBA? The Satirical Facebook Page Explained](https://knowyourmeme.com/editorials/guides/who-is-tanvir-sultan-mba-the-satirical-facebook-page-explained)
+    Why Are People Saying President Biden Soiled Himself At Normandy? The Viral Allegations, Video And Memes Explained](https://knowyourmeme.com/editorials/guides/why-are-people-saying-president-joe-biden-pooped-his-pants-at-normandy-the-viral-allegations-video-and-memes-explained)
     
-* [![Pikachu holding the LGBTQ+ flag and the "It's 'June' Which Means It's Illegal To Be Straight" meme caption; ](https://i.kym-cdn.com/featured_items/icons/wide/000/024/569/its_june_which_means_its_illgal_to_be_straight_cover.jpg "'It's June Which Means It's Illegal To Be Straight' Meme Inspires Parodies And A Copypasta On Reddit")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/024/589/100_faces_meme_explainer.jpg "What's The '100 Faces' Meme? The Viral Redraw Trend From Twitter Explained")
     
-    'It's June Which Means It's Illegal To Be Straight' Meme Inspires Parodies And A Copypasta On Reddit](https://knowyourmeme.com/memes/its-fucking-pride-month-its-june-which-mean-its-illegal-to-be-straight)
+    What's The '100 Faces' Meme? The Viral Redraw Trend From Twitter Explained](https://knowyourmeme.com/editorials/guides/whats-the-100-faces-meme-the-viral-redraw-trend-from-twitter-x-explained)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/024/568/killdozer_rampage_cover.jpg "The 'Killdozer' Story and the Man Behind It Explained")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/024/588/suspended_license_zoom_(2).jpg "Part 3 Of Viral 'Zoom Court Hearing' Story Reveals That Corey Harris Never Had A License At All")
     
-    The 'Killdozer' Story and the Man Behind It Explained](https://knowyourmeme.com/editorials/guides/whats-the-killdozer-meme-the-killdozer-story-and-the-man-behind-it-explained)
+    Part 3 Of Viral 'Zoom Court Hearing' Story Reveals That Corey Harris Never Had A License At All](https://knowyourmeme.com/news/part-3-of-zoom-court-hearing-story-reveals-that-corey-harris-never-had-a-license-at-all)
     
 
 ##### Also Trending:
 
-[Biden Pooping Himself At Normandy Allegations](https://knowyourmeme.com/memes/biden-pooping-himself-at-normandy-allegations "Biden Pooping Himself At Normandy Allegations") [Giant Sun Over Playground](https://knowyourmeme.com/memes/its-not-always-a-great-day-for-the-playground-giant-sun-burning-over-playground "Giant Sun Over Playground")
+[Giant Sun Over Playground](https://knowyourmeme.com/memes/its-not-always-a-great-day-for-the-playground-giant-sun-burning-over-playground "Giant Sun Over Playground") [We Like Older Women](https://knowyourmeme.com/memes/we-like-older-women "We Like Older Women")
 
 Privacy Policy
 ==============
@@ -318,7 +318,7 @@ Please be sure to include your information in any correspondence to us so that w
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### O HAI! You must login or signup first!
+### Howdy! You must login or signup first!
 
 |     |     |
 | --- | --- |
