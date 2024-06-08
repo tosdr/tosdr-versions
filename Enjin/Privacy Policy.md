@@ -138,6 +138,8 @@ Lastest News
 
 [Explore Blog](https://www.enjin.com/blog)
 
+[Enjin Coin 95% Unlocked: June 2024 Token Supply Update](https://www.enjin.com/blog/june-2024-token-supply-update)
+
 [Announcing Quick Wallet: Claim Enjin NFTs Anytime, Anywhere](https://www.enjin.com/blog/quick-wallet)
 
 [Recapping the Biggest Developments Across the Enjin Ecosystem in Q1 2024](https://www.enjin.com/blog/ecosystem-update-q1-2024)
@@ -147,8 +149,6 @@ Lastest News
 [Say Hello to Enjin Discord Bot, Providing Instant Social Utility for NFTs via Discord](https://www.enjin.com/blog/say-hello-to-the-enjin-discord-bot)
 
 [Enjin Ecosystem Legal Team Finalist for “SE Asia In-House Team of the Year”](https://www.enjin.com/blog/enjin-ecosystem-legal-team-finalist-for-se-asia-in-house-team-of-the-year)
-
-[Talisman Wallet to Launch In-App Enjin Governance and Staking](https://www.enjin.com/blog/talisman-wallet-to-launch-in-app-enjin-governance-and-staking)
 
 [ADD YOUR PROJECT](https://www.enjin.com/join)
 
@@ -578,6 +578,16 @@ An intuitive NFT marketplace that _anyone_ can use – create, distribute, and 
 Latest news
 -----------
 
+[.](https://www.enjin.com/blog/june-2024-token-supply-update)
+
+![](https://cdn.prod.website-files.com/60f93c8e038fc32afa829f7d/6663144c19005ef34f3ba436_BLOG-Token%20Update%20(2600%20x%201720%20px).png)
+
+Ecosystem
+
+June 7, 2024
+
+Enjin Coin 95% Unlocked: June 2024 Token Supply Update
+
 [.](https://www.enjin.com/blog/quick-wallet)
 
 ![](https://cdn.prod.website-files.com/60f93c8e038fc32afa829f7d/664c071b958a148b206f2dcb_HelpCenter%20-%20blog(1).png)
@@ -601,18 +611,6 @@ Product Updates
 May 14, 2024
 
 Recapping the Biggest Developments Across the Enjin Ecosystem in Q1 2024
-
-[.](https://www.enjin.com/blog/announcing-the-ecosystem-collab-network-a-support-system-for-enjin-adopters)
-
-![](https://cdn.prod.website-files.com/60f93c8e038fc32afa829f7d/6633278770acf088c3c6161f_enjin_collab_network_-_blog.jpg)
-
-Ecosystem
-
-News
-
-May 2, 2024
-
-Announcing the Ecosystem Collab Network: A Support System for Enjin Adopters
 
 [Read More](https://www.enjin.com/blog)
 
