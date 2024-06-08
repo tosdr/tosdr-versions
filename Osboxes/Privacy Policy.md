@@ -109,6 +109,12 @@ Root account password: osboxes.org
 
 ### Recent Posts
 
+[![parrot os](https://www.osboxes.org/wp-content/uploads/2017/01/Parrot-security-os-desktop-85x85.jpg)](https://www.osboxes.org/parrot-security-os-6-1-images-released-for-virtualbox-and-vmware/)
+
+##### [Parrot Security OS 6.1 Images Released for VirtualBox and VMware](https://www.osboxes.org/parrot-security-os-6-1-images-released-for-virtualbox-and-vmware/)
+
+08-06-2024
+
 [![linux lite 4](https://www.osboxes.org/wp-content/uploads/2018/09/linux-lite-4-85x85.jpg)](https://www.osboxes.org/linux-lite-7-0-virtual-machine-images-available-for-virtualbox-and-vmware/)
 
 ##### [Linux Lite 7.0 Virtual Machine Images Available for VirtualBox and VMware](https://www.osboxes.org/linux-lite-7-0-virtual-machine-images-available-for-virtualbox-and-vmware/)
@@ -138,12 +144,6 @@ Root account password: osboxes.org
 ##### [Kali Linux 2024.1 VM Images Available for VirtualBox and VMware](https://www.osboxes.org/kali-linux-2024-1-vm-images-available-for-virtualbox-and-vmware/)
 
 18-03-2024
-
-[![deepin](https://www.osboxes.org/wp-content/uploads/2020/11/deepin-20-85x85.jpg)](https://www.osboxes.org/deepin-20-9-vm-images-available-for-virtualbox-and-vmware/)
-
-##### [Deepin 20.9 VM Images Available for VirtualBox and VMware](https://www.osboxes.org/deepin-20-9-vm-images-available-for-virtualbox-and-vmware/)
-
-24-02-2024
 
 Get in Touch!
 
