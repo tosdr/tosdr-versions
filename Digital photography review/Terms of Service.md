@@ -12,10 +12,6 @@ Reading mode: Light Dark
 
 [News](https://www.dpreview.com/)[Reviews](https://www.dpreview.com/reviews)[Articles](https://www.dpreview.com/features)[Buying Guides](https://www.dpreview.com/buying-guides)[Sample Images](https://www.dpreview.com/sample-galleries)[Videos](https://www.dpreview.com/videos)[Cameras](https://www.dpreview.com/products/cameras)[Lenses](https://www.dpreview.com/products/lenses)[Phones](https://www.dpreview.com/connect)[Printers](https://www.dpreview.com/products/printers)[Forums](https://www.dpreview.com/forums)[Galleries](https://www.dpreview.com/galleries)[Challenges](https://www.dpreview.com/challenges)
 
-Site update:
-
-We have made some enhancements to our login process, [click here](https://www.dpreview.com/forums/post/67698210) for more information
-
 Digital Photography Review Conditions of Use
 ============================================
 
@@ -141,16 +137,16 @@ Latest reviews
 
 Finished challenges
 
-|     |     |     |     |
-| --- | --- | --- | --- |
-| [![Endeavor's Last Flight-1](https://g1.img-dpreview.com/11A929494D504E24910D3A9371589E71.jpg)](https://www.dpreview.com/challenges/Entry.aspx?ID=1247320) | [![Supermarine Spitfire Mk IX](https://g2.img-dpreview.com/9BA0F2A3FAE24029AF6E51B662EE4B5B.jpg)](https://www.dpreview.com/challenges/Entry.aspx?ID=1247084) | [![Red](https://g2.img-dpreview.com/006F88E2CE204B1DB3D9492DF9A09381.jpg)](https://www.dpreview.com/challenges/Entry.aspx?ID=1247088) | [![grizzly bear cub salutes](https://g2.img-dpreview.com/216DF3B2F25049118185DD30229E951D.jpg)](https://www.dpreview.com/challenges/Entry.aspx?ID=1247133) |
-| Endeavor's Last Flight-1 by vbuhay  <br>from Exceptional transport/oversized load | Supermarine Spitfire Mk IX by jarud  <br>from Vintage cars or planes | Red by CarlosU  <br>from A Big Year 2024 | grizzly bear cub salutes by summicron  <br>from Baby Animals Unlimited |
+|     |     |     |
+| --- | --- | --- |
+| [![Lonely rural graveyard](https://g4.img-dpreview.com/1FE99BFBA0E647FFAACA7487E29821DB.jpg)](https://www.dpreview.com/challenges/Entry.aspx?ID=1247259) | [![Endeavor's Last Flight-1](https://g1.img-dpreview.com/11A929494D504E24910D3A9371589E71.jpg)](https://www.dpreview.com/challenges/Entry.aspx?ID=1247320) | [![Supermarine Spitfire Mk IX](https://g2.img-dpreview.com/9BA0F2A3FAE24029AF6E51B662EE4B5B.jpg)](https://www.dpreview.com/challenges/Entry.aspx?ID=1247084) |
+| Lonely rural graveyard by Birddogman  <br>from Tombstones | Endeavor's Last Flight-1 by vbuhay  <br>from Exceptional transport/oversized load | Supermarine Spitfire Mk IX by jarud  <br>from Vintage cars or planes |
 
 [Discover more challenges](https://www.dpreview.com/challenges/) »
 
 Most popular cameras
 
-[Panasonic Lumix DC-S914.0%](https://www.dpreview.com/products/panasonic/slrs/panasonic_dcs9)[Sony a670010.6%](https://www.dpreview.com/products/sony/slrs/sony_a6700)[Panasonic Lumix DC-GH72.6%](https://www.dpreview.com/products/panasonic/slrs/panasonic_dcgh7)[Nikon Zf1.5%](https://www.dpreview.com/products/nikon/slrs/nikon_zf)[Sony a7CR1.3%](https://www.dpreview.com/products/sony/slrs/sony_a7cr)[Fujifilm X100VI1.2%](https://www.dpreview.com/products/fujifilm/slrs/fujifilm_x100vi)[Canon EOS Rebel SL3 (EOS 250D / EOS Kiss X10)1.2%](https://www.dpreview.com/products/canon/slrs/canon_eos250d)[Fujifilm X-T501.1%](https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xt50)[Sony a9 III1.1%](https://www.dpreview.com/products/sony/slrs/sony_a9iii)[Canon EOS R6 Mark II0.9%](https://www.dpreview.com/products/canon/slrs/canon_eosr6ii)
+[Panasonic Lumix DC-S914.8%](https://www.dpreview.com/products/panasonic/slrs/panasonic_dcs9)[Sony a670010.4%](https://www.dpreview.com/products/sony/slrs/sony_a6700)[Panasonic Lumix DC-GH73.3%](https://www.dpreview.com/products/panasonic/slrs/panasonic_dcgh7)[Nikon Zf1.4%](https://www.dpreview.com/products/nikon/slrs/nikon_zf)[Sony a7CR1.2%](https://www.dpreview.com/products/sony/slrs/sony_a7cr)[Fujifilm X100VI1.2%](https://www.dpreview.com/products/fujifilm/slrs/fujifilm_x100vi)[Canon EOS Rebel SL3 (EOS 250D / EOS Kiss X10)1.1%](https://www.dpreview.com/products/canon/slrs/canon_eos250d)[Sony a9 III1.0%](https://www.dpreview.com/products/sony/slrs/sony_a9iii)[Panasonic Lumix DC-S5II0.9%](https://www.dpreview.com/products/panasonic/slrs/panasonic_dcs5ii)[Fujifilm X-T500.9%](https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xt50)
 
 [Popular interchangable lens cameras](https://www.dpreview.com/products/slrs/statistics) »
 
@@ -164,26 +160,26 @@ Top threads
 
 |     |     |
 | --- | --- |
-| 91  | [Am I the only one with Z9 high ISO issue?](https://www.dpreview.com/forums/post/67746290) |
-| 75  | [Mr. Yamaki, when is the new Foveon camera coming please?](https://www.dpreview.com/forums/post/67744171) |
-| 46  | [Official launch of possible GH7](https://www.dpreview.com/forums/post/67745216) |
-| 42  | [If your main camera system is MFT: what is the brand of your main camera and main lens or lenses?](https://www.dpreview.com/forums/post/67746776) |
-| 34  | [Simpler images](https://www.dpreview.com/forums/post/67744146) |
-| 31  | [Do you guys really use the Tamron or Samyang 35-150 F2-2.8?](https://www.dpreview.com/forums/post/67744120) |
-| 30  | [Z50 for every day camera](https://www.dpreview.com/forums/post/67744629) |
-| 26  | [Anyone anxiously awaiting the Z50 Mark II?](https://www.dpreview.com/forums/post/67744822) |
-| 23  | [Latest on Nikon ℤ6 III](https://www.dpreview.com/forums/post/67746651) |
-| 22  | [Noob Discovery! In-Camera Sharpening Lies about Lenses!](https://www.dpreview.com/forums/post/67745138) |
-| 21  | [Panasonic Bluetooth remote/App?](https://www.dpreview.com/forums/post/67744300) |
-| 20  | [XF150-600 tripod](https://www.dpreview.com/forums/post/67744161) |
-| 20  | [100-200 1.4 Hoya Close up +2 Helicon Focus Stack](https://www.dpreview.com/forums/post/67745031) |
-| 20  | [What I'm really liking about the G100D](https://www.dpreview.com/forums/post/67746857) |
-| 20  | [Nikon and Sigma should work together and bring DN lenses to Z-mount?](https://www.dpreview.com/forums/post/67746266) |
-| 18  | [How to access my files remotely?](https://www.dpreview.com/forums/post/67746350) |
-| 18  | [One telephoto lens or two?](https://www.dpreview.com/forums/post/67745879) |
-| 15  | [Auto-ISO settings](https://www.dpreview.com/forums/post/67745513) |
-| 15  | [OMDS “winter rewards” Australia and NZ](https://www.dpreview.com/forums/post/67744198) |
-| 15  | [For squirrel fans only](https://www.dpreview.com/forums/post/67744395) |
+| 114 | [Am I the only one with Z9 high ISO issue?](https://www.dpreview.com/forums/post/67746290) |
+| 65  | [\* The Weekly Image Thread 24 06 07 #879 \*](https://www.dpreview.com/forums/post/67748006) |
+| 54  | [If your main camera system is MFT: what is the brand of your main camera and main lens or lenses?](https://www.dpreview.com/forums/post/67746776) |
+| 48  | [Nikon and Sigma should work together and bring DN lenses to Z-mount?](https://www.dpreview.com/forums/post/67746266) |
+| 46  | [Latest on Nikon ℤ6 III](https://www.dpreview.com/forums/post/67746651) |
+| 43  | [What I'm really liking about the G100D](https://www.dpreview.com/forums/post/67746857) |
+| 36  | [Nikon Compact Range in the future?????](https://www.dpreview.com/forums/post/67746319) |
+| 33  | [More thoughts about the PL100-400 (and TC) vs 300F4](https://www.dpreview.com/forums/post/67746824) |
+| 28  | [One telephoto lens or two?](https://www.dpreview.com/forums/post/67745879) |
+| 27  | [How to access my files remotely?](https://www.dpreview.com/forums/post/67746350) |
+| 24  | [Sandhill Crane Feeding](https://www.dpreview.com/forums/post/67746194) |
+| 22  | [After How Long Can One Delete a Posted Thread or Topic?](https://www.dpreview.com/forums/post/67747536) |
+| 21  | [X-T5 and X-H2/S firmware bug fix apparently coming in July](https://www.dpreview.com/forums/post/67747218) |
+| 20  | [150-600 and 100-400 comparison](https://www.dpreview.com/forums/post/67747051) |
+| 19  | ['AI' created model fooling 1000s on Instagram :O](https://www.dpreview.com/forums/post/67746282) |
+| 18  | [Hasselblad XCD 55V bokeh and mechanical vignetting](https://www.dpreview.com/forums/post/67747178) |
+| 18  | [geared head](https://www.dpreview.com/forums/post/67748457) |
+| 17  | [SLR to Mirrorless adjustment advice](https://www.dpreview.com/forums/post/67745956) |
+| 16  | [Grump!](https://www.dpreview.com/forums/post/67746801) |
+| 16  | [Help needed!](https://www.dpreview.com/forums/post/67747873) |
 
 [www.dpreview.com](https://www.dpreview.com/ "dpreview.com: Digital Photograhy Review")
 
