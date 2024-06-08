@@ -23,7 +23,7 @@ Hey there! Welcome to Hinge’s Privacy Policy.
 
 We know reading a privacy policy might not be everyone’s idea of a good time, but hear us out. We put a lot of effort into making this policy as clear and engaging as possible, because we actually want you to read it! Think of us as your digital wingmate, here to guide you through the ins and outs of what data we collect, and why and how we use it. So get cozy, grab your beverage of choice, and let’s dive into the world of personal data together.
 
-This Privacy Policy applies from May 31, 2024. The previous version, available [here](https://files.hinge.co/b9033c2b9aa98074a56958ab22d2f4d402eef332.pdf), applies until then.
+This Privacy Policy applies from July 1, 2024. The previous version, available [here](https://files.hinge.co/b9033c2b9aa98074a56958ab22d2f4d402eef332.pdf), applies until then.
 
 1. Who We Are
 2. Where This Privacy Policy Applies
