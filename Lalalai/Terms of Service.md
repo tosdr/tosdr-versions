@@ -117,7 +117,7 @@ OmniSale GMBH.
 [Previous ← Press](https://www.lalal.ai/press/) [Next Privacy Policy →](https://www.lalal.ai/privacy-policy/)
 
 Try our remover of vocal, accompaniment and instruments now
------------------------------------------------------------
+===========================================================
 
 Select the stem separation type and get results in seconds.
 
