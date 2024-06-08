@@ -287,6 +287,18 @@ PARAGOULD, AR 72450
 Check Out Our Blog
 ------------------
 
+[![A semi-realistic cartoony style image of a person wearing glasses, looking worried while holding a credit card statement with increasingly larger numbers. Surrounding the character are symbolic snowballs growing in size, representing the accumulating interest on the credit card balance. The background shows a simple living room setting with a couch, coffee table, and plants, adding a relatable context. Bright and engaging colors make the image visually appealing.](https://creditnerds.com/wp-content/uploads/2024/06/Credit-Card-Interest-30x30.webp)](https://creditnerds.com/how-interest-on-credit-card-balances-can-snowball/)
+
+[Credit](https://creditnerds.com/category/credit/)
+
+June 7, 2024
+
+#### [How Interest on Credit Card Balances Can Snowball](https://creditnerds.com/how-interest-on-credit-card-balances-can-snowball/)
+
+Credit cards provide a convenient way to manage expenses, whether you're covering daily purchases, emergencies, or significant expenditures. However, understanding how interest charges accumulate is crucial, especially when you don’t pay off your entire balance each month. In this post, we’ll explore how interest on credit card balances works and why carrying a balance can …
+
+[Read More](https://creditnerds.com/how-interest-on-credit-card-balances-can-snowball/)
+
 [![A semi-realistic cartoony style image of a person wearing glasses, looking at a calendar with important dates circled. The character is holding a document labeled 'Grace Period' and seems thoughtful, indicating they are considering the time allowed for payment. The background includes subtle office elements like a desk, computer, and bookshelf, with bright and engaging colors making the image visually appealing.](https://creditnerds.com/wp-content/uploads/2024/06/Grace-Period-30x30.webp)](https://creditnerds.com/what-is-a-grace-period/)
 
 [Credit](https://creditnerds.com/category/credit/)
@@ -382,18 +394,6 @@ May 21, 2024
 Bankruptcy can shield you from financial ruin when debts become insurmountable. However, it has severe, long-lasting negative impacts on your credit and is best considered a last-resort option. How Does Bankruptcy Work? Bankruptcy protects individuals who can't pay their debts from losing everything to creditors. In the U.S., special federal courts oversee bankruptcy, providing a …
 
 [Read More](https://creditnerds.com/is-filing-for-bankruptcy-bad/)
-
-[![A semi-realistic cartoon-style illustration of a worried person with glasses sitting at a desk, looking at a computer screen displaying a warning message that says "Credit Card Hacked". The character is holding a credit card and a list titled "11 Signs". Around them are icons like a padlock, exclamation marks, and a magnifying glass, symbolizing security and vigilance. The character is dressed in casual clothes, appearing stressed but alert. The background shows a home office setting with a bulletin board and a window displaying a stormy sky, highlighting the urgency of the situation.](https://creditnerds.com/wp-content/uploads/2024/05/Credit-Card-Hacked-30x30.webp)](https://creditnerds.com/staying-vigilant-11-signs-your-credit-card-has-been-hacked/)
-
-[Credit](https://creditnerds.com/category/credit/)
-
-May 20, 2024
-
-#### [Staying Vigilant: 11 Signs Your Credit Card Has Been Hacked](https://creditnerds.com/staying-vigilant-11-signs-your-credit-card-has-been-hacked/)
-
-Credit card fraud was the most common type of identity theft in 2023, according to the Federal Trade Commission (FTC). With digital storage and transmission of information, hackers can use your credit card without physically stealing it. In fact, fraud on existing credit cards increased by 14% last year, reports the FTC. It's crucial to …
-
-[Read More](https://creditnerds.com/staying-vigilant-11-signs-your-credit-card-has-been-hacked/)
 
 ![](https://creditnerds.com/wp-content/uploads/2023/12/small-logo-white-30x30.png)
 
