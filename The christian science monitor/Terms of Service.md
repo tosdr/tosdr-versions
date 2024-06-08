@@ -92,17 +92,17 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
-[Transformation
+[Safety
 
-### Vancouver needs homes. Local First Nations have plans on how to provide them.](https://www.csmonitor.com/World/Americas/2024/0607/vancouver-first-nations-development-canada-real-estate "Vancouver needs homes. Local First Nations have plans on how to provide them.")
+### Jail time for leaving gun in an unlocked car? Cities nudge states on firearm laws.](https://www.csmonitor.com/USA/2024/0607/local-gun-laws-violence-Savannah-community "Jail time for leaving gun in an unlocked car? Cities nudge states on firearm laws.")
 
 [Trust
 
-### Capitalism with a collectivist twist? Our writer went into the mountains to see it.](https://www.csmonitor.com/Podcasts/Why-We-Wrote-This/wwwt_2419 "Capitalism with a collectivist twist? Our writer went into the mountains to see it.")
+### Bringing Rebuilding Trust to a close](https://www.csmonitor.com/Commentary/From-the-Editors/2024/0607/Bringing-Rebuilding-Trust-to-a-close "Bringing Rebuilding Trust to a close")
 
-[Integrity
+[Resilience
 
-### Ukraine’s push on border integrity](https://www.csmonitor.com/Commentary/the-monitors-view/2024/0606/Ukraine-s-push-on-border-integrity "Ukraine’s push on border integrity")
+### Old-timey organ-grinders try to keep pace with modern Mexico City](https://www.csmonitor.com/The-Culture/2024/0607/organ-grinders-mexico-city "Old-timey organ-grinders try to keep pace with modern Mexico City")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -140,11 +140,11 @@ More
 
 Monitor Daily
 
-June 06, 2024
+June 07, 2024
 
-Climate change – and trust?
+Looking back on Rebuilding Trust
 
-Climate change is a tough subject, even amid wide consensus that our planet’s climate is indeed changing. Distrust mounts amid polarized debates – and some intentional efforts to undermine knowledge and legitimate science. As Stephanie Hanes writes in our lead story today, “Questioning mainstream assumptions about climate change without denying its import or reality – ‘threading the needle,’ as Dr. \[Patrick\] Brown puts it – can be a much-maligned path.”To move forward, it’s essential to address these differences. “One of the best ways to respond to climate change,” Stephanie says, “is to rebuild trust among people who disagree – and to reclaim a space for challenging but productive conversations.”
+Today, we close our Rebuilding Trust project. During the past four months, we’ve taken you to a town in France trying to piece itself together after a horrific crime. To a community in Washington state finding that things as simple as gathering trash can help soften partisan lines. And to climate scientists’ struggle to discover where trust in their work begins.Since Feb. 1, we’ve published 59 trust stories and 16 editorials, including five cover stories for the Monitor Weekly, five “Why We Wrote This” podcast episodes, and one online event with author Alexandra Hudson. Of course, we’ll continue to publish stories about trust, but we’re interested in your feedback on the project – what you appreciated, and what can be improved. We hope we were able to dive beneath the surface to show why trust is so essential to human progress, whether in war or in politics or even at the local animal shelter. You can find all the stories from the project here. Please let me know how we did at editor@csmonitor.com. 
 
 [Listen to or read today's issue](https://www.csmonitor.com/Daily)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
-[### NBA analyst Doris Burke becomes first woman to call major sports final](https://www.csmonitor.com/USA/2024/0607/doris-burke-first-woman-analyst-finals "NBA analyst Doris Burke becomes first woman to call major sports final")
+[### In Ukraine’s south, marines are waging a grueling battle that could decide the region](https://www.csmonitor.com/World/Europe/2024/0607/ukraine-marines-dnieper-river-russia "In Ukraine’s south, marines are waging a grueling battle that could decide the region")
 
-[### Vancouver needs homes. Local First Nations have plans on how to provide them.](https://www.csmonitor.com/World/Americas/2024/0607/vancouver-first-nations-development-canada-real-estate "Vancouver needs homes. Local First Nations have plans on how to provide them.")
+[### Jail time for leaving gun in an unlocked car? Cities nudge states on firearm laws.](https://www.csmonitor.com/USA/2024/0607/local-gun-laws-violence-Savannah-community "Jail time for leaving gun in an unlocked car? Cities nudge states on firearm laws.")
 
-[### As EU elections near, migrants surge again at Poland-Belarus border](https://www.csmonitor.com/World/Europe/2024/0606/Poland-Belarus-border-migration-weapons-EU "As EU elections near, migrants surge again at Poland-Belarus border")
+[### Biden echoes Reagan at Normandy, speaking on the price of freedom](https://www.csmonitor.com/USA/2024/0607/Biden-D-Day-Reagan-Democracy "Biden echoes Reagan at Normandy, speaking on the price of freedom")
 
 * * *
 
