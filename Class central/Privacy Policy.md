@@ -338,11 +338,11 @@ Coursera sees headcount decrease and faces lawsuit in 2023, invests in proprieta
 
 ##### Latest
 
-1. [10 Best Android Development Courses for 2024](https://www.classcentral.com/report/best-android-development-courses/)
-2. [9 Best Relativity Courses for 2024: Special and General Relativity](https://www.classcentral.com/report/best-relativity-courses/)
-3. [1200+ Physics Online Courses You Can Take for Free](https://www.classcentral.com/report/physics-free-online-courses/)
-4. [6 Best Free Prolog Courses for 2024](https://www.classcentral.com/report/best-free-prolog-courses/)
-5. [15 Best React Courses for 2024: Hooks and Components](https://www.classcentral.com/report/best-react-courses/)
+1. [4 Best YouTube Marketing Courses for Business in 2024](https://www.classcentral.com/report/best-youtube-marketing-courses/)
+2. [10 Best Android Development Courses for 2024](https://www.classcentral.com/report/best-android-development-courses/)
+3. [9 Best Relativity Courses for 2024: Special and General Relativity](https://www.classcentral.com/report/best-relativity-courses/)
+4. [1200+ Physics Online Courses You Can Take for Free](https://www.classcentral.com/report/physics-free-online-courses/)
+5. [6 Best Free Prolog Courses for 2024](https://www.classcentral.com/report/best-free-prolog-courses/)
 
 [Visit _The Report_](https://www.classcentral.com/report/)
 
@@ -353,38 +353,38 @@ Coursera sees headcount decrease and faces lawsuit in 2023, invests in proprieta
 Most common
 -----------
 
-1. java
+1. javascript
     
-2. javascript
+2. harvard
     
-3. cyber security
+3. French
     
 
 Popular subjects
 ----------------
 
-1. [Management & Leadership
+1. [Language Learning
     
-    1,462 courses](https://www.classcentral.com/subject/management-and-leadership)
-2. [Language Learning
+    1,545 courses](https://www.classcentral.com/subject/language-learning)
+2. [Marketing
     
-    1,544 courses](https://www.classcentral.com/subject/language-learning)
-3. [Web Development
+    6,247 courses](https://www.classcentral.com/subject/marketing)
+3. [Data Analysis
     
-    9,268 courses](https://www.classcentral.com/subject/web-development)
+    6,345 courses](https://www.classcentral.com/subject/data-analysis)
 
 Popular courses
 ---------------
 
-1. [Happier Employees and Return-On-Investment Course
+1. [Umano Digitale
     
-    The University of Texas at Austin](https://www.classcentral.com/course/workplace-wellness-the-university-of-texas-at-aus-17121)
-2. [Learn to Program: The Fundamentals
+    University of Urbino](https://www.classcentral.com/course/independent-umano-digitale-13499)
+2. [Basic Spanish 1: Getting Started
     
-    University of Toronto](https://www.classcentral.com/course/programming1-385)
-3. [Inspiring Leadership through Emotional Intelligence
+    Universitat Politècnica de València](https://www.classcentral.com/course/language-universitat-politecnica-de-valencia-basi-3698)
+3. [English for the Workplace
     
-    Case Western Reserve University](https://www.classcentral.com/course/lead-ei-710)
+    British Council](https://www.classcentral.com/course/workplace-english-6911)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
