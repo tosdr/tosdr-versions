@@ -65,7 +65,6 @@ OPEN MENUCLOSE MENU
     * [Insights](https://factsmgt.com/insights/)
     * [Press Releases](https://factsmgt.com/press-releases/)
     * [COVID-19 Resource Hub](https://factsmgt.com/blog/category/school-operations/covid19/)
-    * [COVID-19 School Solutions](https://factsmgt.com/covid-solutions/)
 * About Us
     * [Our Team](https://factsmgt.com/our-team/)
     * [FACTS International](https://factsmgt.com/facts-international/)
@@ -424,7 +423,6 @@ If you have any questions about this Web Privacy Policy please contact us by ema
 * [Insights](https://factsmgt.com/insights/)
 * [Press Releases](https://factsmgt.com/press-releases/)
 * [COVID-19 Resource Hub](https://factsmgt.com/blog/category/school-operations/covid19/)
-* [COVID-19 School Solutions](https://factsmgt.com/covid-solutions/)
 
 * About Us
 * [Our Team](https://factsmgt.com/our-team/)
