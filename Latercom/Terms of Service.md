@@ -19,9 +19,9 @@ Management](https://later.com/)
     
     Later Social Users
     
-    * [CreatorsFind brand collabs and get paid](https://later.com/creators/)
-    * [AgenciesManage campaigns & find creators](https://later.com/agencies-freelancers/)
     * [Social Media ManagersWork faster & get better results](https://later.com/social-media-managers/)
+    * [AgenciesManage social campaigns for clients](https://later.com/later-social-for-agencies/)
+    * [CreatorsFind brand collabs and get paid](https://later.com/creators/)
     * [Small Business OwnersPost consistently & drive sales](https://later.com/small-business-owners/)
     
     New Later Social Feature
@@ -564,7 +564,7 @@ The best social media marketing app, influencer marketing management platform & 
     Later Users
     
     * [Social Media Managers](https://later.com/social-media-managers/)
-    * [Agencies & Freelancers](https://later.com/agencies-freelancers/)
+    * [Agencies](https://later.com/later-social-for-agencies/)
     * [Creators](https://later.com/creators/)
     * [Small Business Owners](https://later.com/small-business-owners/)
     
