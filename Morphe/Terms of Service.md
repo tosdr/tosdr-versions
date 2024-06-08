@@ -462,6 +462,8 @@ Master the Artistry of Applying Cream Blush Jun 05, 24
 
 ![clock icon](//www.morphe.com/cdn/shop/t/841/assets/clock-icon.svg?v=42723469760392072181717024714) 4 Min. read](https://www.morphe.com/blogs/artistry-diaries/master-the-artistry-of-applying-cream-blush)
 
+[Find Your Shade](https://www.morphe.com/pages/makeup-quizzes)
+
 [MORPHE2](https://www.morphe.com/collections/morphe-2)
 
 Choose your region USD$  [Stores](https://www.morphe.com/pages/store-locator) [Login](https://www.morphe.com/account/login)
@@ -647,6 +649,8 @@ Best Sellers
 [Brush Sets](https://www.morphe.com/collections/best-brush-sets)
 
 [Under $10](https://www.morphe.com/collections/10-and-under)
+
+[Find Your Shade](https://www.morphe.com/pages/makeup-quizzes)
 
 [![Master the Artistry of Applying Cream Blush](//www.morphe.com/cdn/shop/articles/Morphe-2024-May-Blog-Thumbail-Application-1020x580_600x.jpg?v=1717346114)
 
