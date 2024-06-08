@@ -21,14 +21,16 @@ We allow third-party companies to serve ads and/or collect certain anonymous inf
 
 Share this page!
 
-19:59:24
+23:33:04
 
 The clock will update automatically if you turn on JavaScript in your browser.
 ------------------------------------------------------------------------------
 
-Friday, 7 June, 2024, week 23
+Saturday, 8 June, 2024, week 23
 
-Sun: ↑ 04:43 ↓ 21:17 (16h 34m) - [More info](https://time.is/Brentford#time_zone) - [Make Brentford time default](https://time.is/h/288243) - [Add to favorite locations](https://time.is/)
+[World Ocean Day](https://worldoceanday.org/)
+
+Sun: ↑ 04:43 ↓ 21:18 (16h 35m) - [More info](https://time.is/Brentford#time_zone) - [Make Brentford time default](https://time.is/h/288243) - [Add to favorite locations](https://time.is/)
 
 ×
 
