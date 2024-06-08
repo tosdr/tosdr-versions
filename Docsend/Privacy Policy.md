@@ -453,7 +453,6 @@ About Us
 
 * [Impressum](https://www.dropbox.com/lp/about/impressum)
 * [Careers](https://www.docsend.com/careers/)
-* [Partners](https://www.docsend.com/partners/)
 * 
 * [Security](https://www.docsend.com/trust-center/security/)
 * [Privacy Policy](https://www.docsend.com/privacy-policy/)
@@ -525,7 +524,6 @@ About Us
 
 * [Impressum](https://www.dropbox.com/lp/about/impressum)
 * [Careers](https://www.docsend.com/careers/)
-* [Partners](https://www.docsend.com/partners/)
 * 
 * [Security](https://www.docsend.com/trust-center/security/)
 * [Privacy Policy](https://www.docsend.com/privacy-policy/)
