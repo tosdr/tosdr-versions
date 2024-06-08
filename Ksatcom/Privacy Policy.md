@@ -1,8 +1,8 @@
-[77º](https://www.ksat.com/weather/)
+[74º](https://www.ksat.com/weather/)
 
 [](https://www.ksat.com/)
 
-[Join Insider for Free](https://www.ksat.com/insider/?ref=/station/2022/12/29/graham-media-group-privacy-policy/?ref=%2Finsider%2F2024%2F02%2F26%2Fweigh-in-which-former-san-antonio-area-restaurants-do-you-miss-the-most%2F%3Fref%3D%2Fnews%2Flocal%2F2023%2F08%2F08%2Fshare-your-2023-back-to-school-photos-with-ksat-connect%2F%3Fref%3D%2Fnews%2Fksat-investigates%2F2024%2F02%2F16%2Fsa-business-owner-accused-of-taking-almost-26k-from-families-ordering-headstones-for-loved-ones%2F%3Fref%3D%2Fvideo%2Fnews%2F2024%2F02%2F11%2Fleading-sa-national-cancer-prevention-month%2F%3Fref%3D%2Finsider%2F%3Fref%3D%2Ftopic%2FDustin_May%2F%3Fnav%3Doff&reg_prompt=header_insider_button)Sign In
+[Join Insider for Free](https://www.ksat.com/insider/?ref=/station/2022/12/29/graham-media-group-privacy-policy/&reg_prompt=header_insider_button)Sign In
 
 Search
 
@@ -158,7 +158,10 @@ Search
 * [KSAT Connect](https://www.ksat.com/connect/)
 * [Entertainment](https://www.ksat.com/entertainment/)
 * [Features](https://www.ksat.com/features/)
-* LIVE
+
+WEATHER ALERT
+
+[### 2 air quality alerts in effect for 10 regions in the area](https://www.ksat.com/weather/alerts)
 
 #### [Station](https://www.ksat.com/station)
 
@@ -183,21 +186,21 @@ Tags: [Station](https://www.ksat.com/topic/Station/)
 
 * * *
 
-[](https://www.ksat.com/news/local/2024/06/07/apartment-under-construction-damaged-by-late-night-fire-safd-says/)
+[](https://www.ksat.com/news/local/2024/06/08/hopefully-theres-a-meaning-to-it-riding-on-faith-rodeo-2024-summer-series-dedicated-to-fallen-bull-rider/)
 
-[6 minutes ago](https://www.ksat.com/news/local/2024/06/07/apartment-under-construction-damaged-by-late-night-fire-safd-says/)[### Apartment under construction damaged by late-night fire, SAFD says](https://www.ksat.com/news/local/2024/06/07/apartment-under-construction-damaged-by-late-night-fire-safd-says/)
+[6 hours ago](https://www.ksat.com/news/local/2024/06/08/hopefully-theres-a-meaning-to-it-riding-on-faith-rodeo-2024-summer-series-dedicated-to-fallen-bull-rider/)[### ‘Hopefully, there’s a meaning to it’: Riding on Faith Rodeo 2024 Summer Series dedicated to fallen bull rider](https://www.ksat.com/news/local/2024/06/08/hopefully-theres-a-meaning-to-it-riding-on-faith-rodeo-2024-summer-series-dedicated-to-fallen-bull-rider/)
 
-[](https://www.ksat.com/news/local/2024/06/07/live-oak-man-sentenced-to-40-years-in-prison-in-connection-with-child-trafficking-case/)
+[](https://www.ksat.com/news/local/2024/06/08/san-antonio-legal-experts-try-to-digest-biden-administrations-new-immigration-policy-days-after-it-takes-effect/)
 
-[6 hours ago](https://www.ksat.com/news/local/2024/06/07/live-oak-man-sentenced-to-40-years-in-prison-in-connection-with-child-trafficking-case/)[### Live Oak man sentenced to 40 years in prison in connection with child trafficking case](https://www.ksat.com/news/local/2024/06/07/live-oak-man-sentenced-to-40-years-in-prison-in-connection-with-child-trafficking-case/)
+[7 hours ago](https://www.ksat.com/news/local/2024/06/08/san-antonio-legal-experts-try-to-digest-biden-administrations-new-immigration-policy-days-after-it-takes-effect/)[### San Antonio legal experts try to digest Biden Administration’s new immigration policy days after it takes effect](https://www.ksat.com/news/local/2024/06/08/san-antonio-legal-experts-try-to-digest-biden-administrations-new-immigration-policy-days-after-it-takes-effect/)
 
-[](https://www.ksat.com/news/local/2024/06/07/president-bidens-executive-order-raises-questions-over-frequency-of-illegal-crossings-amid-bexar-county-smuggling-bust/)
+[](https://www.ksat.com/news/local/2024/06/08/brackenridge-high-school-senior-receives-surprise-visit-before-graduation-ceremony/)
 
-[6 hours ago](https://www.ksat.com/news/local/2024/06/07/president-bidens-executive-order-raises-questions-over-frequency-of-illegal-crossings-amid-bexar-county-smuggling-bust/)[### President Biden’s executive order raises questions over frequency of illegal crossings amid Bexar County smuggling bust](https://www.ksat.com/news/local/2024/06/07/president-bidens-executive-order-raises-questions-over-frequency-of-illegal-crossings-amid-bexar-county-smuggling-bust/)
+[10 hours ago](https://www.ksat.com/news/local/2024/06/08/brackenridge-high-school-senior-receives-surprise-visit-before-graduation-ceremony/)[### Brackenridge High School senior receives surprise visit before graduation ceremony](https://www.ksat.com/news/local/2024/06/08/brackenridge-high-school-senior-receives-surprise-visit-before-graduation-ceremony/)
 
-[](https://www.ksat.com/news/local/2024/06/07/family-of-caleb-harris-remains-optimistic-three-months-after-his-disappearance/)
+[](https://www.ksat.com/news/local/2024/06/07/ksat-qa-alzheimers-associaton-programs-director-talks-alzheimers-awareness-month/)
 
-[6 hours ago](https://www.ksat.com/news/local/2024/06/07/family-of-caleb-harris-remains-optimistic-three-months-after-his-disappearance/)[### Family of Caleb Harris remains optimistic three months after his disappearance](https://www.ksat.com/news/local/2024/06/07/family-of-caleb-harris-remains-optimistic-three-months-after-his-disappearance/)
+[8 hours ago](https://www.ksat.com/news/local/2024/06/07/ksat-qa-alzheimers-associaton-programs-director-talks-alzheimers-awareness-month/)[### KSAT Q&A: Alzheimer’s Associaton programs director talks Alzheimer’s Awareness Month](https://www.ksat.com/news/local/2024/06/07/ksat-qa-alzheimers-associaton-programs-director-talks-alzheimers-awareness-month/)
 
 [KSAT DEALS](https://www.ksat.com/deals)
 ----------------------------------------
