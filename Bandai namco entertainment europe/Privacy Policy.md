@@ -23,8 +23,8 @@ Popular Games
 
 Latest game news
 
-* [MY HERO ULTRA RUMBLE - Maintenance adjustments made on June 5th, 2024](https://en.bandainamcoent.eu/my-hero-academia/news/my-hero-ultra-rumble-maintenance-adjustments-made-june-5th-2024)
-* [DRAGON BALL FighterZ World Tour 2024/2025 begins on June 28th, 2024](https://en.bandainamcoent.eu/dragon-ball/news/dragon-ball-fighterz-world-tour-20242025-begins-june-28th-2024)
+* [Fight as a legend in DRAGON BALL: SPARKING! ZERO, releasing 11th october 2024](https://en.bandainamcoent.eu/dragon-ball/news/fight-legend-dragon-ball-sparking-zero-releasing-11th-october-2024)
+* [Haroona’s Friends & Foes: Reika](https://en.bandainamcoent.eu/unknown-9/news/haroonas-friends-foes-reika)
 
    ![](/themes/custom/bne_main/images/newsletter/banner-newsletter.jpg?1648764000)
 
