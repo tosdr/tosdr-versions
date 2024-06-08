@@ -2,8 +2,6 @@
 
          
 
- [![Emergency Alert](/Common/Images/AlertCenter/alertBarBlink.svg) Heat Alert](http://www.maricopa.gov/heat) [An Excessive Heat Warning is in effect Wednesday, June 5 through Friday, June 7 at 8 p.m. For tips on how to stay safe: maricopa.gov/Heat](http://www.maricopa.gov/heat)
-
 [![Home page](/ImageRepository/Document?documentID=80697)](https://www.maricopa.gov/)
 
  
