@@ -131,9 +131,9 @@ EST. 2017 ![Logo](/wp-content/uploads/HM-footer-logo.png) ![SSL icon](data:image
 
 ![SSL icon](/wp-content/uploads/SSL.png)
 
-NEWS Stay informed about promotions and new product releases.
+NEWS Stay informed about promotions and new product releases for tabletop gaming.
 
-Made in USA Our art and modeling products are made by hand in the USA. ![Heart with USA flag decoration](/wp-content/uploads/USA.png)
+Made in USA Our art and scale modeling products are made by hand in the USA. ![Heart with USA flag decoration](/wp-content/uploads/USA.png)
 
 Programs
 
