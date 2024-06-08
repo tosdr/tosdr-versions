@@ -20,7 +20,7 @@ link policy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[June 08, 2024](https://www.japantimes.co.jp/archive/2024/06/08/ "archive page")
+[June 09, 2024](https://www.japantimes.co.jp/archive/2024/06/09/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -130,64 +130,64 @@ If you would like to quote more than 20 percent of an article, please contact us
 
 * Editors' Picks
 
-[Tokyo government to launch dating app in bid to boost birth rate](https://www.japantimes.co.jp/news/2024/06/05/japan/society/tokyo-dating-app/ "Tokyo government to launch dating app in bid to boost birth rate")
+[Photos of Emperor Naruhito's family released](https://www.japantimes.co.jp/news/2024/06/07/japan/society/imperial-family-photos/ "Photos of Emperor Naruhito's family released")
 
-  [![The Tokyo Metropolitan Government is launching its own dating app to support people who want to get married.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/05/401186.jpg&w=400&q=100&f=jpg&t=1.2 "The Tokyo Metropolitan Government is launching its own dating app to support people who want to get married.")](https://www.japantimes.co.jp/news/2024/06/05/japan/society/tokyo-dating-app/ "Tokyo government to launch dating app in bid to boost birth rate")
+  [![Emperor Naruhito, Empress Masako and Princess Aiko enjoy cycling at the Imperial Stock Farm in Tochigi Prefecture in May.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/07/401734.jpg&w=400&q=100&f=jpg&t=1.2 "Emperor Naruhito, Empress Masako and Princess Aiko enjoy cycling at the Imperial Stock Farm in Tochigi Prefecture in May.")](https://www.japantimes.co.jp/news/2024/06/07/japan/society/imperial-family-photos/ "Photos of Emperor Naruhito's family released")
 
-[Don’t look now but the Mount Fuji barrier is getting even higher](https://www.japantimes.co.jp/news/2024/06/06/japan/fuji-fence/ "Don’t look now but the Mount Fuji barrier is getting even higher")
+[Japanese man fatally stabbed in Canada](https://www.japantimes.co.jp/news/2024/06/07/japan/crime-legal/japanese-stabbed-vancouver/ "Japanese man fatally stabbed in Canada")
 
-  [![A popular photo spot with a view of Mount Fuji in the town of Fujikawaguchiko, Yamanashi Prefecture, on May 21.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/06/401716.jpg&w=400&q=100&f=jpg&t=1.2 "A popular photo spot with a view of Mount Fuji in the town of Fujikawaguchiko, Yamanashi Prefecture, on May 21.")](https://www.japantimes.co.jp/news/2024/06/06/japan/fuji-fence/ "Don’t look now but the Mount Fuji barrier is getting even higher")
+  [![A street in Vancouver, Canada.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/07/401937.jpg&w=400&q=100&f=jpg&t=1.2 "A street in Vancouver, Canada.")](https://www.japantimes.co.jp/news/2024/06/07/japan/crime-legal/japanese-stabbed-vancouver/ "Japanese man fatally stabbed in Canada")
 
-['Ex-King of Toyoko' held for alleged indecent acts with 11-year-old](https://www.japantimes.co.jp/news/2024/06/06/japan/crime-legal/japan-man-lewd-acts-arrest/ "'Ex-King of Toyoko' held for alleged indecent acts with 11-year-old")
+[Kishida could break with Motegi and Aso over fund regulation](https://www.japantimes.co.jp/news/2024/06/08/japan/politics/kishida-motegi-aso-friction/ "Kishida could break with Motegi and Aso over fund regulation")
 
-  [![The Kabukicho area in Tokyo's Shinjuku Ward, where Toyoko, the area next to Toho Cinemas cinema complex where lonely young people flock, is located.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/06/401698.jpg&w=400&q=100&f=jpg&t=1.2 "The Kabukicho area in Tokyo's Shinjuku Ward, where Toyoko, the area next to Toho Cinemas cinema complex where lonely young people flock, is located.")](https://www.japantimes.co.jp/news/2024/06/06/japan/crime-legal/japan-man-lewd-acts-arrest/ "'Ex-King of Toyoko' held for alleged indecent acts with 11-year-old")
+  [![Liberal Democratic Party Vice President Taro Aso (left), Prime Minister Fumio Kishida (center) and LDP Secretary-General Toshimitsu Motegi sing the LDP song at the party's annual convention in Tokyo on March 17.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/07/401747.jpg&w=400&q=100&f=jpg&t=1.2 "Liberal Democratic Party Vice President Taro Aso (left), Prime Minister Fumio Kishida (center) and LDP Secretary-General Toshimitsu Motegi sing the LDP song at the party's annual convention in Tokyo on March 17.")](https://www.japantimes.co.jp/news/2024/06/08/japan/politics/kishida-motegi-aso-friction/ "Kishida could break with Motegi and Aso over fund regulation")
 
-[LDP's political funding bill clears Lower House](https://www.japantimes.co.jp/news/2024/06/06/japan/politics/political-funds-law-passes-lh/ "LDP's political funding bill clears Lower House")
+[Japan's consumer watchdog warns of accidents in the sauna](https://www.japantimes.co.jp/news/2024/06/07/japan/society/sauna-accidents/ "Japan's consumer watchdog warns of accidents in the sauna")
 
-  [![Amid low approval ratings since the Liberal Democratic Party slush funds scandal came to light, Prime Minister Fumio Kishida is making the political funding bill's passage his No. 1 priority for the current session of parliament.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/06/401636.jpg&w=400&q=100&f=jpg&t=1.2 "Amid low approval ratings since the Liberal Democratic Party slush funds scandal came to light, Prime Minister Fumio Kishida is making the political funding bill's passage his No. 1 priority for the current session of parliament.")](https://www.japantimes.co.jp/news/2024/06/06/japan/politics/political-funds-law-passes-lh/ "LDP's political funding bill clears Lower House")
+  [![Amid the rising popularity of saunas, the Consumer Affairs Agency is urging users to exercise caution following a spike in the number of sauna-related accidents.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/07/401790.jpg&w=400&q=100&f=jpg&t=1.2 "Amid the rising popularity of saunas, the Consumer Affairs Agency is urging users to exercise caution following a spike in the number of sauna-related accidents.")](https://www.japantimes.co.jp/news/2024/06/07/japan/society/sauna-accidents/ "Japan's consumer watchdog warns of accidents in the sauna")
 
-[Japan looks to minimize economic fallout of auto-test falsifications](https://www.japantimes.co.jp/business/2024/06/06/companies/toyota-shutdown/ "Japan looks to minimize economic fallout of auto-test falsifications")
+[Kishida maintains 2037 target for Tokyo-Osaka maglev line](https://www.japantimes.co.jp/news/2024/06/07/japan/society/maglev2037kishida/ "Kishida maintains 2037 target for Tokyo-Osaka maglev line")
 
-  [![Toyota has temporarily stopped manufacturing its Corolla Fielder and Corolla Axio models following the data falsification scandal.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/06/401648.jpg&w=400&q=100&f=jpg&t=1.2 "Toyota has temporarily stopped manufacturing its Corolla Fielder and Corolla Axio models following the data falsification scandal.")](https://www.japantimes.co.jp/business/2024/06/06/companies/toyota-shutdown/ "Japan looks to minimize economic fallout of auto-test falsifications")
+  [![Shizuoka Gov. Yasutomo Suzuki (left) meets with JR Central President Shunsuke Niwa in the city of Shizuoka on June 5.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/07/401881.jpg&w=400&q=100&f=jpg&t=1.2 "Shizuoka Gov. Yasutomo Suzuki (left) meets with JR Central President Shunsuke Niwa in the city of Shizuoka on June 5.")](https://www.japantimes.co.jp/news/2024/06/07/japan/society/maglev2037kishida/ "Kishida maintains 2037 target for Tokyo-Osaka maglev line")
 
 Editors' Picks
 --------------
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Tokyo government to launch dating app in bid to boost birth rate](https://www.japantimes.co.jp/news/2024/06/05/japan/society/tokyo-dating-app/ "Tokyo government to launch dating app in bid to boost birth rate")
+[Photos of Emperor Naruhito's family released](https://www.japantimes.co.jp/news/2024/06/07/japan/society/imperial-family-photos/ "Photos of Emperor Naruhito's family released")
 
-  [![The Tokyo Metropolitan Government is launching its own dating app to support people who want to get married.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/05/401186.jpg&w=400&q=100&f=jpg&t=1.2 "The Tokyo Metropolitan Government is launching its own dating app to support people who want to get married.")](https://www.japantimes.co.jp/news/2024/06/05/japan/society/tokyo-dating-app/ "Tokyo government to launch dating app in bid to boost birth rate")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[Don’t look now but the Mount Fuji barrier is getting even higher](https://www.japantimes.co.jp/news/2024/06/06/japan/fuji-fence/ "Don’t look now but the Mount Fuji barrier is getting even higher")
-
-By [Hiroshi Hiyama](https://www.japantimes.co.jp/author/2633/hiroshi-hiyama/ "Hiroshi Hiyama")  
-
-  [![A popular photo spot with a view of Mount Fuji in the town of Fujikawaguchiko, Yamanashi Prefecture, on May 21.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/06/401716.jpg&w=400&q=100&f=jpg&t=1.2 "A popular photo spot with a view of Mount Fuji in the town of Fujikawaguchiko, Yamanashi Prefecture, on May 21.")](https://www.japantimes.co.jp/news/2024/06/06/japan/fuji-fence/ "Don’t look now but the Mount Fuji barrier is getting even higher")
+  [![Emperor Naruhito, Empress Masako and Princess Aiko enjoy cycling at the Imperial Stock Farm in Tochigi Prefecture in May.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/07/401734.jpg&w=400&q=100&f=jpg&t=1.2 "Emperor Naruhito, Empress Masako and Princess Aiko enjoy cycling at the Imperial Stock Farm in Tochigi Prefecture in May.")](https://www.japantimes.co.jp/news/2024/06/07/japan/society/imperial-family-photos/ "Photos of Emperor Naruhito's family released")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-['Ex-King of Toyoko' held for alleged indecent acts with 11-year-old](https://www.japantimes.co.jp/news/2024/06/06/japan/crime-legal/japan-man-lewd-acts-arrest/ "'Ex-King of Toyoko' held for alleged indecent acts with 11-year-old")
+[Japanese man fatally stabbed in Canada](https://www.japantimes.co.jp/news/2024/06/07/japan/crime-legal/japanese-stabbed-vancouver/ "Japanese man fatally stabbed in Canada")
 
-  [![The Kabukicho area in Tokyo's Shinjuku Ward, where Toyoko, the area next to Toho Cinemas cinema complex where lonely young people flock, is located.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/06/401698.jpg&w=400&q=100&f=jpg&t=1.2 "The Kabukicho area in Tokyo's Shinjuku Ward, where Toyoko, the area next to Toho Cinemas cinema complex where lonely young people flock, is located.")](https://www.japantimes.co.jp/news/2024/06/06/japan/crime-legal/japan-man-lewd-acts-arrest/ "'Ex-King of Toyoko' held for alleged indecent acts with 11-year-old")
+  [![A street in Vancouver, Canada.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/07/401937.jpg&w=400&q=100&f=jpg&t=1.2 "A street in Vancouver, Canada.")](https://www.japantimes.co.jp/news/2024/06/07/japan/crime-legal/japanese-stabbed-vancouver/ "Japanese man fatally stabbed in Canada")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[LDP's political funding bill clears Lower House](https://www.japantimes.co.jp/news/2024/06/06/japan/politics/political-funds-law-passes-lh/ "LDP's political funding bill clears Lower House")
+[Kishida could break with Motegi and Aso over fund regulation](https://www.japantimes.co.jp/news/2024/06/08/japan/politics/kishida-motegi-aso-friction/ "Kishida could break with Motegi and Aso over fund regulation")
 
-By [Gabriele Ninivaggi](https://www.japantimes.co.jp/author/4179/gabriele-ninivaggi/ "Gabriele Ninivaggi")  
+By [Eric Johnston](https://www.japantimes.co.jp/author/174/eric-johnston/ "Eric Johnston")  
 
-  [![Amid low approval ratings since the Liberal Democratic Party slush funds scandal came to light, Prime Minister Fumio Kishida is making the political funding bill's passage his No. 1 priority for the current session of parliament.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/06/401636.jpg&w=400&q=100&f=jpg&t=1.2 "Amid low approval ratings since the Liberal Democratic Party slush funds scandal came to light, Prime Minister Fumio Kishida is making the political funding bill's passage his No. 1 priority for the current session of parliament.")](https://www.japantimes.co.jp/news/2024/06/06/japan/politics/political-funds-law-passes-lh/ "LDP's political funding bill clears Lower House")
+  [![Liberal Democratic Party Vice President Taro Aso (left), Prime Minister Fumio Kishida (center) and LDP Secretary-General Toshimitsu Motegi sing the LDP song at the party's annual convention in Tokyo on March 17.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/07/401747.jpg&w=400&q=100&f=jpg&t=1.2 "Liberal Democratic Party Vice President Taro Aso (left), Prime Minister Fumio Kishida (center) and LDP Secretary-General Toshimitsu Motegi sing the LDP song at the party's annual convention in Tokyo on March 17.")](https://www.japantimes.co.jp/news/2024/06/08/japan/politics/kishida-motegi-aso-friction/ "Kishida could break with Motegi and Aso over fund regulation")
 
-[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Japan looks to minimize economic fallout of auto-test falsifications](https://www.japantimes.co.jp/business/2024/06/06/companies/toyota-shutdown/ "Japan looks to minimize economic fallout of auto-test falsifications")
+[Japan's consumer watchdog warns of accidents in the sauna](https://www.japantimes.co.jp/news/2024/06/07/japan/society/sauna-accidents/ "Japan's consumer watchdog warns of accidents in the sauna")
 
-By [Elizabeth Beattie](https://www.japantimes.co.jp/author/3993/elizabeth-beattie/ "Elizabeth Beattie") and [Karin Kaneko](https://www.japantimes.co.jp/author/4420/karin-kaneko/ "Karin Kaneko")  
+By [Jessica Speed](https://www.japantimes.co.jp/author/5338/jessica-speed/ "Jessica Speed")  
 
-  [![Toyota has temporarily stopped manufacturing its Corolla Fielder and Corolla Axio models following the data falsification scandal.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/06/401648.jpg&w=400&q=100&f=jpg&t=1.2 "Toyota has temporarily stopped manufacturing its Corolla Fielder and Corolla Axio models following the data falsification scandal.")](https://www.japantimes.co.jp/business/2024/06/06/companies/toyota-shutdown/ "Japan looks to minimize economic fallout of auto-test falsifications")
+  [![Amid the rising popularity of saunas, the Consumer Affairs Agency is urging users to exercise caution following a spike in the number of sauna-related accidents.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/07/401790.jpg&w=400&q=100&f=jpg&t=1.2 "Amid the rising popularity of saunas, the Consumer Affairs Agency is urging users to exercise caution following a spike in the number of sauna-related accidents.")](https://www.japantimes.co.jp/news/2024/06/07/japan/society/sauna-accidents/ "Japan's consumer watchdog warns of accidents in the sauna")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[Kishida maintains 2037 target for Tokyo-Osaka maglev line](https://www.japantimes.co.jp/news/2024/06/07/japan/society/maglev2037kishida/ "Kishida maintains 2037 target for Tokyo-Osaka maglev line")
+
+By [Francis Tang](https://www.japantimes.co.jp/author/5450/francis-tang/ "Francis Tang") and [Karin Kaneko](https://www.japantimes.co.jp/author/4420/karin-kaneko/ "Karin Kaneko")  
+
+  [![Shizuoka Gov. Yasutomo Suzuki (left) meets with JR Central President Shunsuke Niwa in the city of Shizuoka on June 5.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/07/401881.jpg&w=400&q=100&f=jpg&t=1.2 "Shizuoka Gov. Yasutomo Suzuki (left) meets with JR Central President Shunsuke Niwa in the city of Shizuoka on June 5.")](https://www.japantimes.co.jp/news/2024/06/07/japan/society/maglev2037kishida/ "Kishida maintains 2037 target for Tokyo-Osaka maglev line")
 
 Podcast
 -------
@@ -250,25 +250,15 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[U.K.'s Sunak apologizes for skipping main D-Day event](https://www.japantimes.co.jp/news/2024/06/07/world/politics/sunak-apologizes-dday-event/ "U.K.'s Sunak apologizes for skipping main D-Day event")
+[Kishida faces tough time constraints in parliament after bill's delay](https://www.japantimes.co.jp/news/2024/06/08/japan/politics/kishida-diet-time-constraints/ "Kishida faces tough time constraints in parliament after bill's delay")
 
-6 hours ago
+[Attacks leave Sudanese refugees stranded in Ethiopian forest](https://www.japantimes.co.jp/news/2024/06/08/world/society/sudan-refugees-stranded/ "Attacks leave Sudanese refugees stranded in Ethiopian forest")
 
-[Suzuki to stop making cars in Thailand to focus on EV shift](https://www.japantimes.co.jp/business/2024/06/07/companies/suzuki-thailand-halt/ "Suzuki to stop making cars in Thailand to focus on EV shift")
+[Victims of fatal Akihabara rampage remembered 16 years on](https://www.japantimes.co.jp/news/2024/06/08/japan/crime-legal/akihabara-fatal-rampage-16-years/ "Victims of fatal Akihabara rampage remembered 16 years on")
 
-6 hours ago
+[The moment the Tories have long dreaded is finally upon them](https://www.japantimes.co.jp/news/2024/06/08/world/politics/uk-rishi-sunak-political-crisis/ "The moment the Tories have long dreaded is finally upon them")
 
-[Japan maintains goal of primary budget surplus from 2025 to 2030](https://www.japantimes.co.jp/business/2024/06/07/economy/japan-budget-goal-maintain/ "Japan maintains goal of primary budget surplus from 2025 to 2030")
-
-7 hours ago
-
-[Japan growth strategy panel calls for vigilance to weak yen impact](https://www.japantimes.co.jp/business/2024/06/07/economy/growth-strategy-weak-yen/ "Japan growth strategy panel calls for vigilance to weak yen impact")
-
-7 hours ago
-
-[Kishida maintains 2037 target for Tokyo-Osaka maglev line](https://www.japantimes.co.jp/news/2024/06/07/japan/society/maglev2037kishida/ "Kishida maintains 2037 target for Tokyo-Osaka maglev line")
-
-8 hours ago
+[Diminished Hamas switches to full insurgent mode in Gaza](https://www.japantimes.co.jp/news/2024/06/08/world/politics/diminished-hamas-insurgent-mode/ "Diminished Hamas switches to full insurgent mode in Gaza")
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
