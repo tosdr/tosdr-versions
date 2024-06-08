@@ -800,12 +800,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Krypto­handel: Angebote ablehnen](https://www.test.de/Kryptohandel-Angebote-ablehnen-6020308-0/ "Kryptohandel - Angebote ablehnen")
-* [Mikrobiom-Selbst­tests: Teure Analysen ohne Aussagekraft](https://www.test.de/Mikrobiom-Selbstests-Teure-Analysen-ohne-Aussagekraft-6115898-0/ "Mikrobiom-Selbsttests - Teure Analysen ohne Aussagekraft")
-* [Zins­angebote: Warnung vor Verzinst.com](https://www.test.de/Zinsangebote-Warnung-vor-Verzinstcom-5888806-0/ "Zinsangebote - Warnung vor Verzinst.com")
-* [Depot­wechsel zu Morgen­fund: Was DWS-Kunden wissen müssen](https://www.test.de/Depotwechsel-zu-Morgenfund-Was-DWS-Kunden-wissen-muessen-5943029-0/ "Depotwechsel zu Morgenfund - Was DWS-Kunden wissen müssen")
-* [Drucker im Test: Die Unterschiede bei den Druck­kosten sind enorm](https://www.test.de/Drucker-im-Test-4339831-0/ "Drucker im Test - Die Unterschiede bei den Druckkosten sind enorm")
-* [Check­liste Trauerfall: Was tun nach einem Todes­fall](https://www.test.de/Checkliste-Was-tun-im-Todesfall-5987995-0/ "Checkliste Trauerfall - Was tun nach einem Todesfall")
+* [Dienst­reisen: Wie Sie Ihre Reise­kosten von der Steuer absetzen](https://www.test.de/reisekosten-steuer-6109917-0/ "Dienstreisen - Wie Sie Ihre Reisekosten von der Steuer absetzen")
+* [Insekten-Hundefutter im Test: Fliege statt Fleisch](https://www.test.de/insekten-hundefutter-im-test-6010994-0/ "Insekten-Hundefutter im Test - Fliege statt Fleisch")
+* [Staffelmiete: Wenn die Miete auto­matisch steigt](https://www.test.de/Staffelmiete-Wenn-die-Miete-automatisch-steigt-5887622-0/ "Staffelmiete - Wenn die Miete automatisch steigt")
+* [Quellen und weiterführende Literatur: Hilfe bei Depressionen](https://www.test.de/Quellen-und-weiterfuehrende-Literatur-Hilfe-bei-Depressionen-6038469-0/ "Quellen und weiterführende Literatur - Hilfe bei Depressionen")
+* [Wohnung mieten: Kaution, Ablöse, Über­gabe – das gilt für die neue Wohnung](https://www.test.de/Wohnung-mieten-Kaution-Abloese-Abstand-neue-Wohnung-6063656-0/ "Wohnung mieten - Kaution, Ablöse, Übergabe – das gilt für die neue Wohnung")
+* [Sparduschköpfe im Test: Dusch­kosten halbieren](https://www.test.de/Sparduschkoepfe-im-Test-5980326-0/ "Sparduschköpfe im Test - Duschkosten halbieren")
 
 Fußbereich
 
@@ -3783,12 +3783,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Krypto­handel: Angebote ablehnen](https://www.test.de/Kryptohandel-Angebote-ablehnen-6020308-0/ "Kryptohandel - Angebote ablehnen")
-* [Mikrobiom-Selbst­tests: Teure Analysen ohne Aussagekraft](https://www.test.de/Mikrobiom-Selbstests-Teure-Analysen-ohne-Aussagekraft-6115898-0/ "Mikrobiom-Selbsttests - Teure Analysen ohne Aussagekraft")
-* [Zins­angebote: Warnung vor Verzinst.com](https://www.test.de/Zinsangebote-Warnung-vor-Verzinstcom-5888806-0/ "Zinsangebote - Warnung vor Verzinst.com")
-* [Depot­wechsel zu Morgen­fund: Was DWS-Kunden wissen müssen](https://www.test.de/Depotwechsel-zu-Morgenfund-Was-DWS-Kunden-wissen-muessen-5943029-0/ "Depotwechsel zu Morgenfund - Was DWS-Kunden wissen müssen")
-* [Drucker im Test: Die Unterschiede bei den Druck­kosten sind enorm](https://www.test.de/Drucker-im-Test-4339831-0/ "Drucker im Test - Die Unterschiede bei den Druckkosten sind enorm")
-* [Check­liste Trauerfall: Was tun nach einem Todes­fall](https://www.test.de/Checkliste-Was-tun-im-Todesfall-5987995-0/ "Checkliste Trauerfall - Was tun nach einem Todesfall")
+* [Dienst­reisen: Wie Sie Ihre Reise­kosten von der Steuer absetzen](https://www.test.de/reisekosten-steuer-6109917-0/ "Dienstreisen - Wie Sie Ihre Reisekosten von der Steuer absetzen")
+* [Insekten-Hundefutter im Test: Fliege statt Fleisch](https://www.test.de/insekten-hundefutter-im-test-6010994-0/ "Insekten-Hundefutter im Test - Fliege statt Fleisch")
+* [Staffelmiete: Wenn die Miete auto­matisch steigt](https://www.test.de/Staffelmiete-Wenn-die-Miete-automatisch-steigt-5887622-0/ "Staffelmiete - Wenn die Miete automatisch steigt")
+* [Quellen und weiterführende Literatur: Hilfe bei Depressionen](https://www.test.de/Quellen-und-weiterfuehrende-Literatur-Hilfe-bei-Depressionen-6038469-0/ "Quellen und weiterführende Literatur - Hilfe bei Depressionen")
+* [Wohnung mieten: Kaution, Ablöse, Über­gabe – das gilt für die neue Wohnung](https://www.test.de/Wohnung-mieten-Kaution-Abloese-Abstand-neue-Wohnung-6063656-0/ "Wohnung mieten - Kaution, Ablöse, Übergabe – das gilt für die neue Wohnung")
+* [Sparduschköpfe im Test: Dusch­kosten halbieren](https://www.test.de/Sparduschkoepfe-im-Test-5980326-0/ "Sparduschköpfe im Test - Duschkosten halbieren")
 
 Weitere spannende Themen
 
@@ -3803,12 +3803,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Krypto­handel: Angebote ablehnen](https://www.test.de/Kryptohandel-Angebote-ablehnen-6020308-0/ "Kryptohandel - Angebote ablehnen")
-* [Mikrobiom-Selbst­tests: Teure Analysen ohne Aussagekraft](https://www.test.de/Mikrobiom-Selbstests-Teure-Analysen-ohne-Aussagekraft-6115898-0/ "Mikrobiom-Selbsttests - Teure Analysen ohne Aussagekraft")
-* [Zins­angebote: Warnung vor Verzinst.com](https://www.test.de/Zinsangebote-Warnung-vor-Verzinstcom-5888806-0/ "Zinsangebote - Warnung vor Verzinst.com")
-* [Depot­wechsel zu Morgen­fund: Was DWS-Kunden wissen müssen](https://www.test.de/Depotwechsel-zu-Morgenfund-Was-DWS-Kunden-wissen-muessen-5943029-0/ "Depotwechsel zu Morgenfund - Was DWS-Kunden wissen müssen")
-* [Drucker im Test: Die Unterschiede bei den Druck­kosten sind enorm](https://www.test.de/Drucker-im-Test-4339831-0/ "Drucker im Test - Die Unterschiede bei den Druckkosten sind enorm")
-* [Check­liste Trauerfall: Was tun nach einem Todes­fall](https://www.test.de/Checkliste-Was-tun-im-Todesfall-5987995-0/ "Checkliste Trauerfall - Was tun nach einem Todesfall")
+* [Dienst­reisen: Wie Sie Ihre Reise­kosten von der Steuer absetzen](https://www.test.de/reisekosten-steuer-6109917-0/ "Dienstreisen - Wie Sie Ihre Reisekosten von der Steuer absetzen")
+* [Insekten-Hundefutter im Test: Fliege statt Fleisch](https://www.test.de/insekten-hundefutter-im-test-6010994-0/ "Insekten-Hundefutter im Test - Fliege statt Fleisch")
+* [Staffelmiete: Wenn die Miete auto­matisch steigt](https://www.test.de/Staffelmiete-Wenn-die-Miete-automatisch-steigt-5887622-0/ "Staffelmiete - Wenn die Miete automatisch steigt")
+* [Quellen und weiterführende Literatur: Hilfe bei Depressionen](https://www.test.de/Quellen-und-weiterfuehrende-Literatur-Hilfe-bei-Depressionen-6038469-0/ "Quellen und weiterführende Literatur - Hilfe bei Depressionen")
+* [Wohnung mieten: Kaution, Ablöse, Über­gabe – das gilt für die neue Wohnung](https://www.test.de/Wohnung-mieten-Kaution-Abloese-Abstand-neue-Wohnung-6063656-0/ "Wohnung mieten - Kaution, Ablöse, Übergabe – das gilt für die neue Wohnung")
+* [Sparduschköpfe im Test: Dusch­kosten halbieren](https://www.test.de/Sparduschkoepfe-im-Test-5980326-0/ "Sparduschköpfe im Test - Duschkosten halbieren")
 
 Neueste Tests
 
@@ -3821,12 +3821,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Krypto­handel: Angebote ablehnen](https://www.test.de/Kryptohandel-Angebote-ablehnen-6020308-0/ "Kryptohandel - Angebote ablehnen")
-* [Mikrobiom-Selbst­tests: Teure Analysen ohne Aussagekraft](https://www.test.de/Mikrobiom-Selbstests-Teure-Analysen-ohne-Aussagekraft-6115898-0/ "Mikrobiom-Selbsttests - Teure Analysen ohne Aussagekraft")
-* [Zins­angebote: Warnung vor Verzinst.com](https://www.test.de/Zinsangebote-Warnung-vor-Verzinstcom-5888806-0/ "Zinsangebote - Warnung vor Verzinst.com")
-* [Depot­wechsel zu Morgen­fund: Was DWS-Kunden wissen müssen](https://www.test.de/Depotwechsel-zu-Morgenfund-Was-DWS-Kunden-wissen-muessen-5943029-0/ "Depotwechsel zu Morgenfund - Was DWS-Kunden wissen müssen")
-* [Drucker im Test: Die Unterschiede bei den Druck­kosten sind enorm](https://www.test.de/Drucker-im-Test-4339831-0/ "Drucker im Test - Die Unterschiede bei den Druckkosten sind enorm")
-* [Check­liste Trauerfall: Was tun nach einem Todes­fall](https://www.test.de/Checkliste-Was-tun-im-Todesfall-5987995-0/ "Checkliste Trauerfall - Was tun nach einem Todesfall")
+* [Dienst­reisen: Wie Sie Ihre Reise­kosten von der Steuer absetzen](https://www.test.de/reisekosten-steuer-6109917-0/ "Dienstreisen - Wie Sie Ihre Reisekosten von der Steuer absetzen")
+* [Insekten-Hundefutter im Test: Fliege statt Fleisch](https://www.test.de/insekten-hundefutter-im-test-6010994-0/ "Insekten-Hundefutter im Test - Fliege statt Fleisch")
+* [Staffelmiete: Wenn die Miete auto­matisch steigt](https://www.test.de/Staffelmiete-Wenn-die-Miete-automatisch-steigt-5887622-0/ "Staffelmiete - Wenn die Miete automatisch steigt")
+* [Quellen und weiterführende Literatur: Hilfe bei Depressionen](https://www.test.de/Quellen-und-weiterfuehrende-Literatur-Hilfe-bei-Depressionen-6038469-0/ "Quellen und weiterführende Literatur - Hilfe bei Depressionen")
+* [Wohnung mieten: Kaution, Ablöse, Über­gabe – das gilt für die neue Wohnung](https://www.test.de/Wohnung-mieten-Kaution-Abloese-Abstand-neue-Wohnung-6063656-0/ "Wohnung mieten - Kaution, Ablöse, Übergabe – das gilt für die neue Wohnung")
+* [Sparduschköpfe im Test: Dusch­kosten halbieren](https://www.test.de/Sparduschkoepfe-im-Test-5980326-0/ "Sparduschköpfe im Test - Duschkosten halbieren")
 
 Service Stiftung Warentest
 
