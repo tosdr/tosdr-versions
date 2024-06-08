@@ -12,11 +12,11 @@ Saving
 
 [Movies](https://www.newgrounds.com/movies)[Games](https://www.newgrounds.com/games)[Audio](https://www.newgrounds.com/audio)[Art](https://www.newgrounds.com/art)[Portal](https://www.newgrounds.com/portal)[Community](https://www.newgrounds.com/community)[Your Feed](https://www.newgrounds.com/social)
 
-![Newgrounds Background Image Theme](//img.ngfiles.com/themes/000/083f6c581716393117.webp?1716393126)
+![Newgrounds Background Image Theme](//img.ngfiles.com/themes/000/skin-fnf-4wk-webp.webp?1650371467)
 
-[](https://twitchinvisor.newgrounds.com/)
+[](https://bitchfurry666.newgrounds.com/)
 
-[twitchinvisor](https://twitchinvisor.newgrounds.com/) just joined the crew!
+[bitchfurry666](https://bitchfurry666.newgrounds.com/) just joined the crew!
 
 We need **you** on the team, too.
 
@@ -218,21 +218,21 @@ Submission Guidelines
 
 GamesMoviesAudioArtChannelsUsers
 
-[Username1365017 **I'm Always Anonymous**](https://username1365017.newgrounds.com/news/post/1450258)
+[ZombieGhost **Life Blog #0**](https://zombieghost.newgrounds.com/news/post/1450532)
 
-[nkrt **LMAO I THINK I'M IN TROUBLE**](https://nkrt.newgrounds.com/news/post/1450257)
+[JamJarIsDumb **New Song!**](https://jamjarisdumb.newgrounds.com/news/post/1450530)
 
-[hostfulchaos **Mentally Sound**](https://hostfulchaos.newgrounds.com/news/post/1450256)
+[luckster1234 **YCH Auction - Beach at Dawn**](https://luckster1234.newgrounds.com/news/post/1450528)
 
-[chillzozen **Vent/srs post rn**](https://chillzozen.newgrounds.com/news/post/1450255)
+[NoseyFilms **We're Back!**](https://noseyfilms.newgrounds.com/news/post/1450526)
 
-[Sanethegeek **Where have you been SANE!? A lil' Update**](https://sanethegeek.newgrounds.com/news/post/1450254)
+[T7-101 **I'm gonna be gone for a bit bit maybe**](https://t7-101.newgrounds.com/news/post/1450525)
 
-[SomeDoodles **It's my birthday today!**](https://somedoodles.newgrounds.com/news/post/1450253)
+[SongiaXshudder **Me and creeperforce playing minecraft!!!!**](https://songiaxshudder.newgrounds.com/news/post/1450523)
 
 [**Wall Art by**
 
-**TerminalRepo**](https://terminalrepo.newgrounds.com/)
+**4WK**](https://4wk.newgrounds.com/)
 
 #### Main Sections
 
