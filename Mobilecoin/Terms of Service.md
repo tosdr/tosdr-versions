@@ -220,6 +220,8 @@ May 24, 2024
 
  • 
 
+Sentz
+
 Customers in Nigeria have the ability to conveniently deposit and withdraw funds on Sentz using their bank accounts, providing them with easier access to their money when they need it.](https://mobilecoin.com/blog/empowering-nigerian-customers-bank-funding-and-withdrawals)
 
 [![](https://cdn.prod.website-files.com/654151be5c8f07ebc15119fb/6629681de58d0fa40875a766_Blog-Header.png)
