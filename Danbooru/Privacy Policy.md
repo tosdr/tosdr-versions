@@ -1,7 +1,3 @@
-[🎉 Happy 19th Birthday to Danbooru! 🎉](https://danbooru.donmai.us/posts/1)
-
-[](#)
-
 [![](/packs/static/public/images/danbooru-logo-128x128-ea111b6658173e847734.png)](https://danbooru.donmai.us/) [Danbooru](https://danbooru.donmai.us/)
 
 [](#)[](#)
