@@ -1,6 +1,6 @@
 [![VPN online | GooseVPN.com](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E "VPN online | GooseVPN.com")
 
-![VPN online | GooseVPN.com](https://goosevpn.com/wp-content/themes/goosevpn/dist/images/goosevpn-logo.png.webp "VPN online | GooseVPN.com")](https://goosevpn.com/)×
+![VPN online | GooseVPN.com](https://goosevpn.com/wp-content/themes/goosevpn/dist/images/goosevpn-logo.png "VPN online | GooseVPN.com")](https://goosevpn.com/)×
 
 * [Our story](https://goosevpn.com/our-mission-2)
 * [Products](https://goosevpn.com/goose-vpn-2)
@@ -37,7 +37,7 @@
 
 [![VPN online | GooseVPN.com](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E "VPN online | GooseVPN.com")
 
-![VPN online | GooseVPN.com](https://goosevpn.com/wp-content/themes/goosevpn/dist/goosevpn-logo.png.webp "VPN online | GooseVPN.com")](https://goosevpn.com/)[BUY NOW](https://my.goosevpn.com/sign-up) [Log in](https://my.goosevpn.com/login)
+![VPN online | GooseVPN.com](https://goosevpn.com/wp-content/themes/goosevpn/dist/goosevpn-logo.png "VPN online | GooseVPN.com")](https://goosevpn.com/)[BUY NOW](https://my.goosevpn.com/sign-up) [Log in](https://my.goosevpn.com/login)
 
 English
 
@@ -302,7 +302,7 @@ The Netherlands
 
 [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
-![](https://goosevpn.com/wp-content/themes/goosevpn/dist/images/logo-goosevpn@2x.png.webp)](https://goosevpn.com/)
+![](https://goosevpn.com/wp-content/themes/goosevpn/dist/images/logo-goosevpn@2x.png)](https://goosevpn.com/)
 
 |     |     |
 | --- | --- |
@@ -355,19 +355,19 @@ Please note: we do not provide telephone support but are available 24/7 by email
 
 * ![ideal logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
     
-    ![ideal logo](/wp-content/uploads/2020/02/payment-i-deal@2x.png.webp)
+    ![ideal logo](/wp-content/uploads/2020/02/payment-i-deal@2x.png)
     
 * ![paypal logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
     
-    ![paypal logo](/wp-content/uploads/2020/02/payment-pay-pal@2x.png.webp)
+    ![paypal logo](/wp-content/uploads/2020/02/payment-pay-pal@2x.png)
     
 * ![mastercard logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
     
-    ![mastercard logo](/wp-content/uploads/2020/02/payment-master-card@2x.png.webp)
+    ![mastercard logo](/wp-content/uploads/2020/02/payment-master-card@2x.png)
     
 * ![visa logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
     
-    ![visa logo](/wp-content/uploads/2020/02/payment-visa@2x.png.webp)
+    ![visa logo](/wp-content/uploads/2020/02/payment-visa@2x.png)
     
 
 * [Security Awareness Training](https://www.guardey.com/security-awareness-training/)
@@ -407,7 +407,7 @@ Please note: we do not provide telephone support but are available 24/7 by email
 
 [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
-![](https://goosevpn.com/wp-content/themes/goosevpn/dist/images/logo-goosevpn@2x.png.webp)](https://goosevpn.com/)
+![](https://goosevpn.com/wp-content/themes/goosevpn/dist/images/logo-goosevpn@2x.png)](https://goosevpn.com/)
 
 |     |     |
 | --- | --- |
@@ -430,19 +430,19 @@ Please note: we do not provide telephone support but are available 24/7 by email
 
 * ![ideal logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
     
-    ![ideal logo](/wp-content/uploads/2020/02/payment-i-deal@2x.png.webp)
+    ![ideal logo](/wp-content/uploads/2020/02/payment-i-deal@2x.png)
     
 * ![paypal logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
     
-    ![paypal logo](/wp-content/uploads/2020/02/payment-pay-pal@2x.png.webp)
+    ![paypal logo](/wp-content/uploads/2020/02/payment-pay-pal@2x.png)
     
 * ![mastercard logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
     
-    ![mastercard logo](/wp-content/uploads/2020/02/payment-master-card@2x.png.webp)
+    ![mastercard logo](/wp-content/uploads/2020/02/payment-master-card@2x.png)
     
 * ![visa logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
     
-    ![visa logo](/wp-content/uploads/2020/02/payment-visa@2x.png.webp)
+    ![visa logo](/wp-content/uploads/2020/02/payment-visa@2x.png)
     
 
 * [Security Awareness Training](https://www.guardey.com/security-awareness-training/)
@@ -453,13 +453,3 @@ Please note: we do not provide telephone support but are available 24/7 by email
 * [Sitemap](https://goosevpn.com/sitemap)
 
 © 2024 GOOSEVPN. All rights reserved.
-
-Close this module
-
-Choose for lifetime privacyGet 50% discount on our Lifetime VPN! 🧡
-
-Pay only once and take advantage of the best deal and be assured of secure and borderless internet for a lifetime!
-
-[TAKE THIS DISCOUNT](https://my.goosevpn.com/sign-up)
-
-[No I do not want a discount](#)
