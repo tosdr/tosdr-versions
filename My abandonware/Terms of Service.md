@@ -85,20 +85,20 @@ Top downloads
 
 Latest releases
 
-* [Gomoku / Renju](https://www.myabandonware.com/game/gomoku-renju-r1y)
-* [Klendathu](https://www.myabandonware.com/game/klendathu-r1x)
-* [Jungle Queen](https://www.myabandonware.com/game/jungle-queen-r1w)
-* [Labyrinth](https://www.myabandonware.com/game/labyrinth-r1v)
-* [Marathon](https://www.myabandonware.com/game/marathon-r1u)
+* [Conquering Armies](https://www.myabandonware.com/game/conquering-armies-r2n)
+* [Doubleback](https://www.myabandonware.com/game/doubleback-r2d)
+* [Donut Dilemma](https://www.myabandonware.com/game/donut-dilemma-r2c)
+* [Dino Wars](https://www.myabandonware.com/game/dino-wars-r2b)
+* [Don Pan](https://www.myabandonware.com/game/don-pan-qra)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
 
 Screenshots needed
 
-* [6\*Pak Vol. 3](https://www.myabandonware.com/game/6-pak-vol-3-knv)
-* [Daisuki](https://www.myabandonware.com/game/daisuki-pab)
-* [Madō Monogatari](https://www.myabandonware.com/game/mado-monogatari-p8g)
+* [Syncro](https://www.myabandonware.com/game/syncro-ogw)
+* [Mount St. Helens](https://www.myabandonware.com/game/mount-st-helens-kvp)
+* [Ultimate Solitaire](https://www.myabandonware.com/game/ultimate-solitaire-m2w)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
