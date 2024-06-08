@@ -266,13 +266,6 @@ Advertisement
 [2024 Mazda CX-90 Review: A Perfect Family SUV Car
 -------------------------------------------------](https://www.gearedtoyou.com/2024-mazda-cx-90-review-a-perfect-family-suv-car/)
 
-[![](https://www.gearedtoyou.com/wp-content/uploads/2024/03/shutterstock_2399025411-100x100.jpg)](https://www.gearedtoyou.com/bugatti-chiron-with-many-options-set-for-auction-at-bonhams/)
-
-### Super Cars
-
-[Bugatti Chiron With Many Options Set For Auction At Bonhams
------------------------------------------------------------](https://www.gearedtoyou.com/bugatti-chiron-with-many-options-set-for-auction-at-bonhams/)
-
 [![](https://www.gearedtoyou.com/wp-content/uploads/2023/11/shutterstock_1814491031-100x100.jpg)](https://www.gearedtoyou.com/a-perfect-comparison-between-c8-corvette-z06-and-maserati-mc20/)
 
 ### Super Cars
@@ -293,6 +286,13 @@ Advertisement
 
 [Ferrari 296 GTB Reaches A Top Speed Of 218 MPH On A Highway
 -----------------------------------------------------------](https://www.gearedtoyou.com/ferrari-296-gtb-reaches-a-top-speed-of-218-mph-on-a-highway/)
+
+[![](https://www.gearedtoyou.com/wp-content/uploads/2024/05/Screenshot-2024-05-14-at-11.49.09 PM-100x100.png)](https://www.gearedtoyou.com/new-aston-martin-vantage-review-a-sophisticated-grand-tourer-with-a-surprising-edge/)
+
+### Super Cars
+
+[New Aston Martin Vantage Review: A Sophisticated Grand Tourer With A Surprising Edge
+------------------------------------------------------------------------------------](https://www.gearedtoyou.com/new-aston-martin-vantage-review-a-sophisticated-grand-tourer-with-a-surprising-edge/)
 
 Advertisement
 
