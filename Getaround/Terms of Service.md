@@ -78,13 +78,13 @@ Available all over the United States
 
 [Las Vegas](https://www.getaround.com/car-rental/las-vegas-nv)
 
-[Washington](https://www.getaround.com/car-rental/washington-dc)
-
 [Houston](https://www.getaround.com/car-rental/houston-tx)
 
-[Newark](https://www.getaround.com/car-rental/newark-nj)
+[Denver](https://www.getaround.com/car-rental/denver-co)
 
-[Phoenix](https://www.getaround.com/car-rental/phoenix-az)
+[New York City](https://www.getaround.com/car-rental/new-york-city-ny)
+
+[Portland](https://www.getaround.com/car-rental/portland-or)
 
 ![location-us](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)
 
