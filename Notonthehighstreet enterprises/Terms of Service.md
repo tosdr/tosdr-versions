@@ -1,7 +1,5 @@
 [Skip to content](#skip-content-target-id)
 
-Make time for Dad. [Shop Father's Day](https://www.notonthehighstreet.com/fathers-day)
-
 Make time for Dad with 1000s of unexpected gift ideas. [Shop Father's Day](https://www.notonthehighstreet.com/fathers-day)
 
 [![Not on the high street logo](https://static-files.notonthehighstreet.com/webapps/shared/img/logo/NOTHS_logo.svg)](https://www.notonthehighstreet.com/)
