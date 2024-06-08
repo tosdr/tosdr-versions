@@ -1,43 +1,24 @@
 Language
 
-* English
-    
-* Français
-    
-* Deutsch
-    
-* Español
-    
-* Italiano
-    
-* Português
-    
-* Português (Brasil)
-    
-* Svenska
-    
-* Polski
-    
-* Suomi
-    
-* Dansk
-    
-* Nederlands
-    
-* Norsk
-    
-* český
-    
-* Русский
-    
-* Türk
-    
-* 中文
-    
-* 日本語
-    
-* 한국어
-    
+* [English](https://www.hostelworld.com/st/cookiespolicy/)
+* [Français](https://www.french.hostelworld.com/st/cookiespolicy/)
+* [Deutsch](https://www.german.hostelworld.com/st/cookiespolicy/)
+* [Español](https://www.spanish.hostelworld.com/st/cookiespolicy/)
+* [Italiano](https://www.italian.hostelworld.com/st/cookiespolicy/)
+* [Português](https://www.portuguese.hostelworld.com/st/cookiespolicy/)
+* [Português (Brasil)](https://www.brazilian.hostelworld.com/st/cookiespolicy/)
+* [Svenska](https://www.swedish.hostelworld.com/st/cookiespolicy/)
+* [Polski](https://www.polish.hostelworld.com/st/cookiespolicy/)
+* [Suomi](https://www.finnish.hostelworld.com/st/cookiespolicy/)
+* [Dansk](https://www.danish.hostelworld.com/st/cookiespolicy/)
+* [Nederlands](https://www.dutch.hostelworld.com/st/cookiespolicy/)
+* [Norsk](https://www.norwegian.hostelworld.com/st/cookiespolicy/)
+* [český](https://www.czech.hostelworld.com/st/cookiespolicy/)
+* [Русский](https://www.russian.hostelworld.com/st/cookiespolicy/)
+* [Türk](https://www.turkish.hostelworld.com/st/cookiespolicy/)
+* [中文](https://www.chinese.hostelworld.com/st/cookiespolicy/)
+* [日本語](https://www.japanese.hostelworld.com/st/cookiespolicy/)
+* [한국어](https://www.korean.hostelworld.com/st/cookiespolicy/)
 
 [![Hostelworld](https://a.hwstatic.com/raw/upload/f_auto,q_auto/wds/logos/brand/hw-full.svg "Hostelworld")](https://www.hostelworld.com/)
 
