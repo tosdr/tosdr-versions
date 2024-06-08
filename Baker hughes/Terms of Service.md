@@ -882,7 +882,7 @@ External
             
         * [Consultancy Services](https://www.bakerhughes.com/)
             
-            * [GaffneyCline](https://www.bakerhughes.com/drilling/gaffneycline)
+            * [GaffneyCline Energy Advisory](https://www.bakerhughes.com/gaffneycline-energy-advisory)
                 
             * [io consulting](https://www.ioconsulting.com/)
                 
@@ -1845,7 +1845,7 @@ Search
             
         * [Consultancy Services](https://www.bakerhughes.com/)
             
-            * [GaffneyCline](https://www.bakerhughes.com/drilling/gaffneycline)
+            * [GaffneyCline Energy Advisory](https://www.bakerhughes.com/gaffneycline-energy-advisory)
                 
             * [io consulting](https://www.ioconsulting.com/)
                 
