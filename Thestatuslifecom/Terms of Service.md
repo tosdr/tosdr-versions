@@ -52,6 +52,11 @@ The Status Life
     
 * [Lifestyle](https://www.thestatuslife.com/category/lifestyle/)
     
+    * [![Image Source: lev radin/ Shutterstock](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20600%20337'%3E%3C/svg%3E)
+        
+        ![Image Source: lev radin/ Shutterstock](https://www.thestatuslife.com/wp-content/uploads/2024/06/shutterstock_1374784889-600x337.jpg)
+        
+        Experience The Elegance Of The Lincoln Corsair Grand Touring](https://www.thestatuslife.com/experience-the-elegance-of-the-lincoln-corsair-grand-touring/)
     * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20600%20337'%3E%3C/svg%3E)
         
         ![](https://www.thestatuslife.com/wp-content/uploads/2024/06/shutterstock_2412412103-600x337.jpg)
@@ -72,11 +77,6 @@ The Status Life
         ![](https://www.thestatuslife.com/wp-content/uploads/2024/05/shutterstock_2256638489-600x337.jpg)
         
         An Exclusive Auction Of Ferrari 275 GTB/4 Alloy From Sotheby](https://www.thestatuslife.com/an-exclusive-auction-of-ferrari-275-gtb-4-alloy-from-sotheby/)
-    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20600%20337'%3E%3C/svg%3E)
-        
-        ![](https://www.thestatuslife.com/wp-content/uploads/2024/05/Screenshot-2024-05-22-at-12.46.35 PM-600x337.png)
-        
-        AmaWaterways Offers European Adventures On Two Wheels](https://www.thestatuslife.com/amawaterways-offers-european-adventures-on-two-wheels/)
     
 * [Technology](https://www.thestatuslife.com/category/technology/)
     
@@ -108,6 +108,16 @@ The Status Life
     
 * [Travel](https://www.thestatuslife.com/category/travel/)
     
+    * [![Image Source: VG Foto/ Shutterstock](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20600%20337'%3E%3C/svg%3E)
+        
+        ![Image Source: VG Foto/ Shutterstock](https://www.thestatuslife.com/wp-content/uploads/2024/06/shutterstock_2366522803-600x337.jpg)
+        
+        Opening Celebration: Four Seasons Resort and Residences Debuts in Cabo San Lucas at Cabo Del Sol](https://www.thestatuslife.com/opening-celebration-four-seasons-resort-and-residences-debuts-in-cabo-san-lucas-at-cabo-del-sol/)
+    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20600%20337'%3E%3C/svg%3E)
+        
+        ![](https://www.thestatuslife.com/wp-content/uploads/2024/06/shutterstock_581316511-600x337.jpg)
+        
+        Top 4 Accommodations In Honolulu This Season As More Flights Take Off](https://www.thestatuslife.com/top-4-accommodations-in-honolulu-this-season-as-more-flights-take-off/)
     * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20600%20337'%3E%3C/svg%3E)
         
         ![](https://www.thestatuslife.com/wp-content/uploads/2024/06/Screenshot-2024-06-05-at-11.34.36 AM-600x337.png)
@@ -123,16 +133,6 @@ The Status Life
         ![](https://www.thestatuslife.com/wp-content/uploads/2024/06/wickwood-08a-room-600x337.jpg)
         
         Experience Midwest Charm And Opulence At The Wickwood Inn In Saugatuck, Michigan](https://www.thestatuslife.com/experience-midwest-charm-and-opulence-at-the-wickwood-inn-in-saugatuck-michigan/)
-    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20600%20337'%3E%3C/svg%3E)
-        
-        ![](https://www.thestatuslife.com/wp-content/uploads/2024/05/shutterstock_2389198785-600x337.jpg)
-        
-        Top 7 Reasons To Prioritize La Fantaisie In Your Paris Itinerary](https://www.thestatuslife.com/top-7-reasons-to-prioritize-la-fantaisie-in-your-paris-itinerary/)
-    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20600%20337'%3E%3C/svg%3E)
-        
-        ![](https://www.thestatuslife.com/wp-content/uploads/2024/05/Screenshot-2024-05-22-at-12.43.24 PM-600x337.png)
-        
-        Sonesta Resorts In St. Maarten Redefines Escapism](https://www.thestatuslife.com/sonesta-resorts-in-st-maarten-redefine-offers-a-perfect-escape/)
     
 
 Terms & Conditions
