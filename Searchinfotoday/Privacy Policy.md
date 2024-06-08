@@ -1,4 +1,4 @@
-[![What's your question?](/static/logos/searchinfotoday.com.svg)](https://www.searchinfotoday.com/?ueid=C036FB93-21EE-4DB9-B28B-2A6200E3D96A&ad=dirN "What's your question?")
+[![What's your question?](/static/logos/searchinfotoday.com.svg)](https://www.searchinfotoday.com/?ueid=E8E07747-B89A-4361-95BA-6D5A5DE173AE&ad=dirN "What's your question?")
 
 Ask Media Group Privacy Policy
 
@@ -302,8 +302,8 @@ Data Protection Officer
 1955 Broadway, Suite 350  
 Oakland, CA 94612
 
-* [Privacy Policy](https://www.searchinfotoday.com/privacy?ueid=C036FB93-21EE-4DB9-B28B-2A6200E3D96A&ad=dirN "Privacy Policy")
-* [Terms of Service](https://www.searchinfotoday.com/terms?ueid=C036FB93-21EE-4DB9-B28B-2A6200E3D96A&ad=dirN "Terms of Service")
+* [Privacy Policy](https://www.searchinfotoday.com/privacy?ueid=E8E07747-B89A-4361-95BA-6D5A5DE173AE&ad=dirN "Privacy Policy")
+* [Terms of Service](https://www.searchinfotoday.com/terms?ueid=E8E07747-B89A-4361-95BA-6D5A5DE173AE&ad=dirN "Terms of Service")
 * [Help](https://help.askmediagroup.com/hc/en-us?domain={SITE_NAME}&u={CID} "Help")
 * Manage Privacy
 * © 2024 Ask Media Group, LLC
