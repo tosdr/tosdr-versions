@@ -83,7 +83,9 @@ This is not an exhaustive list and serves to provide a general overview of our e
 
 [Facebook](https://www.facebook.com/ValnetInc/) [LinkedIn](https://linkedin.com/company/valnet) [Telegram](mailto:info@valnetinc.com)
 
-![](https://www.valnetinc.com//images/BBB_ABSeal_H_StencilWhite.png)
+![Comscore Logo](/images/brand/comscore.png)
+
+![BBB Logo](/images/BBB_ABSeal_H_StencilWhite.png)
 
 Copyright © 2024 Valnet Inc.  
 [Terms of Use](https://www.valnetinc.com/en/terms-of-use) | [Privacy Policy](https://www.valnetinc.com/en/privacy-policy)
