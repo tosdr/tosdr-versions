@@ -36,18 +36,18 @@
         
         Linux version of TargetCompany ransomware focuses on VMware ESXi](https://www.bleepingcomputer.com/news/security/linux-version-of-targetcompany-ransomware-focuses-on-vmware-esxi/)
     
-    * [![Hackers exploit 2018 ThinkPHP flaws to install ‘Dama’ web shells](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![Apple to unveil new 'Passwords' password manager app for iPhones, Macs](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Hackers exploit 2018 ThinkPHP flaws to install ‘Dama’ web shells](https://www.bleepingcomputer.com/news/security/hackers-exploit-2018-thinkphp-flaws-to-install-dama-web-shells/)
-    * [![Ukraine says hackers abuse SyncThing data sync tool to steal data](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Apple to unveil new 'Passwords' password manager app for iPhones, Macs](https://www.bleepingcomputer.com/news/security/apple-to-unveil-new-passwords-password-manager-app-for-iphones-macs/)
+    * [![Christie's starts notifying clients of RansomHub data breach](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Ukraine says hackers abuse SyncThing data sync tool to steal data](https://www.bleepingcomputer.com/news/security/ukraine-says-hackers-abuse-syncthing-data-sync-tool-to-steal-data/)
-    * [![New Fog ransomware targets US education sector via breached VPNs](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Christie's starts notifying clients of RansomHub data breach](https://www.bleepingcomputer.com/news/security/christies-starts-notifying-clients-of-ransomhub-data-breach/)
+    * [![Frontier warns 750,000 of a data breach after extortion threats](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        New Fog ransomware targets US education sector via breached VPNs](https://www.bleepingcomputer.com/news/security/new-fog-ransomware-targets-us-education-sector-via-breached-vpns/)
-    * [![Get Dad the cloud backups he needs with $690 off 1TB of Koofr Cloud](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Frontier warns 750,000 of a data breach after extortion threats](https://www.bleepingcomputer.com/news/security/frontier-warns-750-000-of-a-data-breach-after-extorted-by-ransomhub/)
+    * [![Microsoft makes Windows Recall opt-in, secures data with Windows Hello](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Get Dad the cloud backups he needs with $690 off 1TB of Koofr Cloud](https://www.bleepingcomputer.com/offer/deals/get-dad-the-cloud-backups-he-needs-with-690-off-1tb-of-koofr-cloud/)
+        Microsoft makes Windows Recall opt-in, secures data with Windows Hello](https://www.bleepingcomputer.com/news/microsoft/microsoft-makes-windows-recall-opt-in-secures-data-with-windows-hello/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
@@ -352,26 +352,26 @@ Melville, NY 11747**
 
 Popular Stories
 
-* [![Windows](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* [![Kali Linux](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    Microsoft deprecates Windows NTLM authentication protocol](https://www.bleepingcomputer.com/news/microsoft/microsoft-deprecates-windows-ntlm-authentication-protocol/)
-* [![Amateur radio ham radio](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    Kali Linux 2024.2 released with 18 new tools, Y2038 changes](https://www.bleepingcomputer.com/news/linux/kali-linux-20242-released-with-18-new-tools-y2038-changes/)
+* [![FBI](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ARRL says it was hacked by an "international cyber group"](https://www.bleepingcomputer.com/news/security/american-radio-relay-league-says-it-was-hacked-by-an-international-cyber-group/)
+    FBI recovers 7,000 LockBit keys, urges ransomware victims to reach out](https://www.bleepingcomputer.com/news/security/fbi-recovers-7-000-lockbit-keys-urges-ransomware-victims-to-reach-out/)
 
 Latest forum topics
 
-* [lenovo solution, hardware scan - useful or unneeded?](https://www.bleepingcomputer.com/forums/t/798026/lenovo-solution-hardware-scan-useful-or-unneeded/)
+* [SuperAntiSpyware Free Edition](https://www.bleepingcomputer.com/forums/t/798042/superantispyware-free-edition/)
     
-    [cafejose](https://www.bleepingcomputer.com/forums/u/552116/cafejose/) in [All Other Applications](https://www.bleepingcomputer.com/forums/f/57/all-other-applications/)
+    [system\_shock](https://www.bleepingcomputer.com/forums/u/1315775/system-shock/) in [Anti-Virus, Anti-Malware, and Privacy Software](https://www.bleepingcomputer.com/forums/f/25/anti-virus-anti-malware-and-privacy-software/)
     
-* [CFL (Football) Season Opener now | CBS Sports for USA other option](https://www.bleepingcomputer.com/forums/t/798025/cfl-football-season-opener-now-cbs-sports-for-usa-other-option/)
+* [Windows 7 Update Site](https://www.bleepingcomputer.com/forums/t/798041/windows-7-update-site/)
     
-    [Pkshadow](https://www.bleepingcomputer.com/forums/u/1144416/pkshadow/) in [General Chat](https://www.bleepingcomputer.com/forums/f/5/general-chat/)
+    [system\_shock](https://www.bleepingcomputer.com/forums/u/1315775/system-shock/) in [Windows 7](https://www.bleepingcomputer.com/forums/f/167/windows-7/)
     
-* [LastPass: login issues, reports of problems](https://www.bleepingcomputer.com/forums/t/798021/lastpass-login-issues-reports-of-problems/)
+* [Computer froze, hardbooted, and is stuck on the black screen of death](https://www.bleepingcomputer.com/forums/t/798040/computer-froze-hardbooted-and-is-stuck-on-the-black-screen-of-death/)
     
-    [cafejose](https://www.bleepingcomputer.com/forums/u/552116/cafejose/) in [General Security](https://www.bleepingcomputer.com/forums/f/45/general-security/)
+    [Arlothia](https://www.bleepingcomputer.com/forums/u/851510/arlothia/) in [Windows 10 Support](https://www.bleepingcomputer.com/forums/f/229/windows-10-support/)
     
 
 Latest virus removal guides
@@ -410,7 +410,7 @@ Latest Downloads
     
     Version: 0.81
     
-    **41,602 _Downloads_**
+    **41,620 _Downloads_**
     
 * ![Malwarebytes Anti-Malware Logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -426,7 +426,7 @@ Latest Downloads
     
     Version: NA
     
-    **102,956 _Downloads_**
+    **102,966 _Downloads_**
     
 * ![Malwarebytes Support Tool Logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -434,7 +434,7 @@ Latest Downloads
     
     Version: NA
     
-    **150,094 _Downloads_**
+    **150,099 _Downloads_**
     
 * ![FilesLockerDecrypter Logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -442,7 +442,7 @@ Latest Downloads
     
     Version: NA
     
-    **48,901 _Downloads_**
+    **48,909 _Downloads_**
     
 
 ##### Follow us:
