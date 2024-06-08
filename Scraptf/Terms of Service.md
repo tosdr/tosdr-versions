@@ -16,7 +16,7 @@ Toggle navigation [![Logo](/img/logo-pride.svg)](https://scrap.tf/)[![Logo](/img
         * AutoSell Hats
         
         * [Keys](https://scrap.tf/keys)
-        * [Price: 79.44/83.22](https://scrap.tf/keys)
+        * [Price: 80.33/84.33](https://scrap.tf/keys)
         * AutoSmelt Metal
         
         * [Items](https://scrap.tf/items)
@@ -73,7 +73,7 @@ Toggle navigation [![Logo](/img/logo-pride.svg)](https://scrap.tf/)[![Logo](/img
     * [Sourcebans](https://bans.scrap.tf/)
 * [Help](https://scrap.tf/help)
     * [Help Center](https://scrap.tf/help)
-    * [Live Support - Closed](https://scrap.tf/support)
+    * [Live Support - Open!](https://scrap.tf/support)
     
     * Loading Suggestions...
     
