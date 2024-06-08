@@ -19,9 +19,9 @@ Management](https://www.mavrck.co/)
     
     Later Social Users
     
-    * [CreatorsFind brand collabs and get paid](https://www.mavrck.co/creators/)
-    * [AgenciesManage campaigns & find creators](https://www.mavrck.co/agencies-freelancers/)
     * [Social Media ManagersWork faster & get better results](https://www.mavrck.co/social-media-managers/)
+    * [AgenciesManage social campaigns for clients](https://www.mavrck.co/later-social-for-agencies/)
+    * [CreatorsFind brand collabs and get paid](https://www.mavrck.co/creators/)
     * [Small Business OwnersPost consistently & drive sales](https://www.mavrck.co/small-business-owners/)
     
     New Later Social Feature
@@ -1417,7 +1417,7 @@ The best social media marketing app, influencer marketing management platform & 
     Later Users
     
     * [Social Media Managers](https://www.mavrck.co/social-media-managers/)
-    * [Agencies & Freelancers](https://www.mavrck.co/agencies-freelancers/)
+    * [Agencies](https://www.mavrck.co/later-social-for-agencies/)
     * [Creators](https://www.mavrck.co/creators/)
     * [Small Business Owners](https://www.mavrck.co/small-business-owners/)
     
