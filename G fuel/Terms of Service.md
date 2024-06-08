@@ -1,5 +1,5 @@
   
-G FUEL REWARDS PROGRAM TERMS AND CONDITIONS                                                                                        
+G FUEL REWARDS PROGRAM TERMS AND CONDITIONS                                                                                                
 
 [Skip to content](#MainContent)
 
@@ -348,7 +348,7 @@ DOWNLOAD THE APP
 
 EASY NAVIGATION - EXCLUSIVE DROPS - COOL ASF
 
- [![](//gfuel.com/cdn/shop/t/453/assets/app-store-badge.svg?v=123926581890561309811717526426)](https://apps.apple.com/app/g-fuel/id1205219305 "Download on the App Store")[![](//gfuel.com/cdn/shop/t/453/assets/google-play-badge.png?v=132395384020293405351717526426)](https://play.google.com/store/apps/details?id=com.aeron.shopifycore.gfuel "Get it on Google Play")
+ [![](//gfuel.com/cdn/shop/t/454/assets/app-store-badge.svg?v=123926581890561309811717708980)](https://apps.apple.com/app/g-fuel/id1205219305 "Download on the App Store")[![](//gfuel.com/cdn/shop/t/454/assets/google-play-badge.png?v=132395384020293405351717708980)](https://play.google.com/store/apps/details?id=com.aeron.shopifycore.gfuel "Get it on Google Play")
 
 The statements contained in this website have not been evaluated by the Food and Drug Administration (FDA). No statements shall be construed as a claim or representation of a diagnosis, treatment, cure, or prevention of any disease. No product listed in this website is intended to diagnose, treat, cure, or prevent any disease. Products are not intended for those with a medical condition, pregnant or nursing.
 
@@ -368,7 +368,7 @@ The statements contained in this website have not been evaluated by the Food and
 
 Rated 4.7 out of 5 stars
 
-2,816 Reviews
+2,818 Reviews
 
 4.4
 
@@ -380,13 +380,13 @@ Rated 4.4 out of 5 stars
 
 Rated 4.7 out of 5 stars
 
-2,408 Reviews
+2,410 Reviews
 
 4.7
 
 Rated 4.7 out of 5 stars
 
-1,926 Reviews
+1,927 Reviews
 
 4.7
 
@@ -404,7 +404,7 @@ Rated 4.5 out of 5 stars
 
 Rated 4.7 out of 5 stars
 
-1,818 Reviews
+1,819 Reviews
 
 4.7
 
