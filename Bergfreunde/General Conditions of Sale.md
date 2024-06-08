@@ -2,9 +2,9 @@
 
 ### Neu?
 
-![Bergfreund Max](https://www.bergfreunde.de/out/pictures/img/avatar/avatar-max.png)
+![Bergfreundin Hannah](https://www.bergfreunde.de/out/pictures/img/avatar/avatar-hannah.png)
 
-Bergfreund Max
+Bergfreundin Hannah
 
 "Herzlich willkommen bei den Bergfreunden!"
 
@@ -536,6 +536,7 @@ Menü
     
     * [Jack Wolfskin: We Live to Discover](https://www.bergfreunde.de/jack-wolfskin-cp/ "Jack")
     * [Maloja: The Story](https://www.bergfreunde.de/maloja-story-cp/ "Maloja'")
+    * [Polygiene: For Mindful Living](https://www.bergfreunde.de/polygiene-cp/ "Polygiene'")
     
     [Alle Marken loader](https://www.bergfreunde.de/marken/ "Alle Outdoor Marken & Hersteller anzeigen")
     
@@ -820,9 +821,9 @@ Weiterführende Informationen:
 
 Stand März 2024
 
-![Bergfreund Ronny - Geschäftsführung](https://www.bergfreunde.de/out/pictures/img/avatar/avatar-ronny.png) Bergfreund Ronny - Geschäftsführung
+![Bergfreund Matthias - Geschäftsführung](https://www.bergfreunde.de/out/pictures/img/avatar/avatar-matthias.png) Bergfreund Matthias - Geschäftsführung
 
-"In Sachen Klimaschutz gilt für uns: Die Zeit zu handeln ist jetzt!"
+"Wir alle müssen mehr Verantwortung übernehmen, damit die Natur uns erhalten bleibt."
 
 [Portofrei ab € 69 (DE)](https://www.bergfreunde.de/versandkosten/ "Portofrei bei den Bergfreunden")
 
@@ -830,11 +831,11 @@ Stand März 2024
 
 [100 Tage Rückgaberecht](https://www.bergfreunde.de/rueckgabe/ "Informationen Rückgabe")
 
-[![So bewerten uns 44544 Kunden](https://www.bergfreunde.de/out/pictures/img/trust/trusted-shops-logo-big.png)](https://www.trustedshops.com/shop/certificate.php?shop_id=X8E9EAFD7E40A46630552D4A3F123CA67 "Wir sind Trusted Shops zertifiziert - Alle Infos hier!")
+[![So bewerten uns 44524 Kunden](https://www.bergfreunde.de/out/pictures/img/trust/trusted-shops-logo-big.png)](https://www.trustedshops.com/shop/certificate.php?shop_id=X8E9EAFD7E40A46630552D4A3F123CA67 "Wir sind Trusted Shops zertifiziert - Alle Infos hier!")
 
 [( 0 )
 
-So bewerten uns 44.544 Kunden](https://www.trustedshops.com/shop/certificate.php?shop_id=X8E9EAFD7E40A46630552D4A3F123CA67 "Wir sind Trusted Shops zertifiziert - Alle Infos hier!")
+So bewerten uns 44.524 Kunden](https://www.trustedshops.com/shop/certificate.php?shop_id=X8E9EAFD7E40A46630552D4A3F123CA67 "Wir sind Trusted Shops zertifiziert - Alle Infos hier!")
 
 holt 3x am Tag die Pakete bei uns ab
 
