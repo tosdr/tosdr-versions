@@ -42,9 +42,9 @@ MenuClose
     * [AwardsDiscover our global awards and rankings that are a testament to Moodle’s 20+ years of expertise in education technology.](https://moodle.com/about/awards/)
 * [News](https://moodle.com/news/)
     * NewsFind news and resources about Moodle products, solutions, services, releases, case studies, and more.[View All News](https://moodle.com/news/)
+    * [![Convince your boss to attend MoodleMoot Global 2024](https://moodle.com/wp-content/uploads/2024/06/Copy-of-Blog-Image-600-x-450-1-200x150.jpg)Tips for gaining your boss’s approval to attend MoodleMoot Global 2024!](https://moodle.com/news/tips-to-get-your-boss-approval-to-attend-moodlemoot-global/)
     * [![Gamoteca Moodle Certified Integration](https://moodle.com/wp-content/uploads/2024/06/Copy-of-Blog-Image-600-x-450-200x150.jpg)Boost learning outcomes with Moodle Certified Integration Gamoteca](https://moodle.com/news/boost-learning-outcomes-with-moodle-certified-integration-gamoteca/)
     * [![Moodle LMS and Edu Labs help FUCS improve healthcare education](https://moodle.com/wp-content/uploads/2024/05/Copy-of-Blog-Image-600-x-450-5-200x150.jpg)How FUCS transformed healthcare education with Moodle LMS and Moodle Premium Certified Partner Edu Labs](https://moodle.com/news/fucs-transforms-healthcare-education-moodle-lms-edu-labs/)
-    * [![Creating accessible courses with Moodle](https://moodle.com/wp-content/uploads/2024/05/Copy-of-Blog-Image-600-x-450-4-200x150.jpg)How to create accessible courses in Moodle?](https://moodle.com/news/how-to-create-accessible-courses-in-moodle/)
 
 [Get Moodle](https://moodle.com/get-moodle/) [Contact Us](https://moodle.com/contact/)
 
@@ -211,9 +211,9 @@ The tables below list the internal and third-party cookies we use. As the names,
     * [AwardsDiscover our global awards and rankings that are a testament to Moodle’s 20+ years of expertise in education technology.](https://moodle.com/about/awards/)
 * [News](https://moodle.com/news/)
     * NewsFind news and resources about Moodle products, solutions, services, releases, case studies, and more.[View All News](https://moodle.com/news/)
+    * [![Convince your boss to attend MoodleMoot Global 2024](https://moodle.com/wp-content/uploads/2024/06/Copy-of-Blog-Image-600-x-450-1-200x150.jpg)Tips for gaining your boss’s approval to attend MoodleMoot Global 2024!](https://moodle.com/news/tips-to-get-your-boss-approval-to-attend-moodlemoot-global/)
     * [![Gamoteca Moodle Certified Integration](https://moodle.com/wp-content/uploads/2024/06/Copy-of-Blog-Image-600-x-450-200x150.jpg)Boost learning outcomes with Moodle Certified Integration Gamoteca](https://moodle.com/news/boost-learning-outcomes-with-moodle-certified-integration-gamoteca/)
     * [![Moodle LMS and Edu Labs help FUCS improve healthcare education](https://moodle.com/wp-content/uploads/2024/05/Copy-of-Blog-Image-600-x-450-5-200x150.jpg)How FUCS transformed healthcare education with Moodle LMS and Moodle Premium Certified Partner Edu Labs](https://moodle.com/news/fucs-transforms-healthcare-education-moodle-lms-edu-labs/)
-    * [![Creating accessible courses with Moodle](https://moodle.com/wp-content/uploads/2024/05/Copy-of-Blog-Image-600-x-450-4-200x150.jpg)How to create accessible courses in Moodle?](https://moodle.com/news/how-to-create-accessible-courses-in-moodle/)
 
 Empowering educators to improve our world.
 
