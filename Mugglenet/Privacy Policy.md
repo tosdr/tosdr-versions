@@ -246,14 +246,6 @@ MuggleNet Archive Select Month June 2024  (7) May 2024  (20) April 2024  (15)
 
 ### June 2024
 
-#### Fri, Jun 7
-
-Harry Potter and the Cursed Child (previews begin in London)
-
-2016
-
-Recurs yearly
-
 #### Sat, Jun 8
 
 Anthony Boyle's birthday
@@ -316,15 +308,15 @@ Recurs yearly
 
 ### Did You Know
 
-Ginny Weasley’s full first name is Ginevra, not Virginia.
+Dementors don’t breed but grow, like fungus, where there is decay.
 
 ### Potter History
 
-November 6, 2005 – Harry Potter and the Goblet of Fire film world premiere kicks off in London.
+February 7, 2006 – Filming begins on Harry Potter and the Order of the Phoenix.
 
 ### Potter Quote
 
-“You’ve picked the losing side, Potter! I warned you! I told you you ought to choose your company more carefully, remember? When we met on the train, first day at Hogwarts? I told you not to hang around with riffraff like this!”
+“I ain’t got the brains to make this up.”
 
 [](#)
 
