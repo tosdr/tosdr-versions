@@ -124,7 +124,17 @@ Menu
     
     **Explore and understand the world with Harvard** In Focus is a curated examination of Harvard's research, scholarly work, and community. Recent topics include:
     
-    1. Commencement 2024
+    1. Physical Fitness
+        
+        In Focus
+        
+        **Physical Fitness** Exercise—from gentle stretching to high-intensity training—is not only important for physical health, but Harvard experts are finding benefits for stress, memory, mood, and more. [On your mark, get set, go](https://www.harvard.edu/in-focus/exercise/)
+        
+        1. **What's inside?**
+            1. [**Explore different types of exercise**](https://www.hsph.harvard.edu/nutritionsource/staying-active/)
+            2. [**Learn how short bursts can make a big difference**](https://news.harvard.edu/gazette/story/2020/11/12-minute-bursts-of-exercise-have-bigger-impact-than-thought/)
+        
+    2. Commencement 2024
         
         In Focus
         
@@ -134,7 +144,7 @@ Menu
             1. [**Meet the Class of 2024**](https://www.harvard.edu/in-focus/commencement-2024/graduate-profiles/)
             2. [**Learn about Commencement speaker Maria Ressa**](https://news.harvard.edu/gazette/story/2024/03/maria-ressa-named-2024-commencement-speaker/)
         
-    2. Climate Solutions
+    3. Climate Solutions
         
         In Focus
         
@@ -143,16 +153,6 @@ Menu
         1. **What's inside?**
             1. [**Tracking methane from space**](https://seas.harvard.edu/news/2024/03/cutting-edge-methane-monitor)
             2. [**The "Harvard Thinking" podcast explores climate change**](https://news.harvard.edu/gazette/story/2024/03/climate-alignment-is-no-easy-task/)
-        
-    3. Space
-        
-        In Focus
-        
-        **Space** Harvard researchers are asking the big questions about the universe, building tools to answer them, and sharing their discoveries with the world. [Travel the stars](https://www.harvard.edu/in-focus/space/)
-        
-        1. **What's inside?**
-            1. [**What is a solar eclipse?**](https://www.labxchange.org/library/pathway/lx-pathway:caeec466-d07f-415d-9e90-c9bde8f2aca8)
-            2. [**Who were the women of Harvard's early astronomical research?**](https://library.cfa.harvard.edu/plate-stacks/women-at-hco)
         
     4. [Explore the In Focus archives](https://www.harvard.edu/in-focus/)
     
@@ -214,7 +214,7 @@ Menu
         
         1. [**Women who follow Mediterranean diet live longer** Large study shows benefits against cancer, cardiovascular mortality, also identifies likely biological drivers of better health](https://news.harvard.edu/gazette/story/2024/06/women-who-follow-mediterranean-diet-live-longer/)
         2. [**Harvard-led study IDs statin that may block pathway to some cancers** Cholesterol-lowering drug suppresses chronic inflammation that creates dangerous cascade](https://news.harvard.edu/gazette/story/2024/05/study-ids-statin-that-may-block-pathway-to-some-cancers/)
-        3. [**When should Harvard speak out?** Institutional Voice Working Group provides a roadmap in new report](https://news.harvard.edu/gazette/story/2024/05/when-should-harvard-speak-out/)
+        3. [**Bringing back a long extinct bird** Scientists sequence complete genome of bush moa, offering insights into its natural history, possible clues to evolution of flightless birds](https://news.harvard.edu/gazette/story/2024/06/bringing-back-a-long-extinct-bird/)
         
     2. [Sign up for the Daily Gazette](https://www.pages01.net/harvard/gazette?email=)
     
