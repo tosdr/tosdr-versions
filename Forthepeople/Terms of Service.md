@@ -540,11 +540,11 @@ Quick Links
 Trending News
 -------------
 
-[The Lash Group Data Breach Exposes Thousands of Patient Medical Information Across the United States](https://www.forthepeople.com/blog/lash-group-data-breach-exposes-thousands-patient-medical-information-across-united-states/)
+[The Week in Recalls: June 7th, 2024](https://www.forthepeople.com/blog/week-recalls-june-7th-2024/)
 
-[2.8 Million Social Security Numbers Leaked in Sav-Rx Data Breach](https://www.forthepeople.com/blog/28-million-social-security-numbers-leaked-sav-rx-data-breach/)
+[Splish, Splash, and Stay Safe: Pool Safety Tips for Summer Fun](https://www.forthepeople.com/blog/splish-splash-and-stay-safe-pool-safety-tips-summer-fun/)
 
-[Morgan & Morgan Rolls Up to the Monster Jam World Finals Pit Party](https://www.forthepeople.com/blog/morgan-morgan-rolls-monster-jam-world-finals-pit-party/)
+[Honoring Our Veterans' Valiance: Linda's Morgan & Morgan Story](https://www.forthepeople.com/blog/honoring-our-veterans-valiance-lindas-morgan-morgan-story/)
 
 [Read more blog posts](https://www.forthepeople.com/blog/)
 
