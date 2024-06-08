@@ -199,9 +199,9 @@ Dial 711 (TDD/TTY)        
 
 ### Weather Outlook
 
-**Thursday, June 6, 2024**
+**Friday, June 7, 2024**
 
-**...Weakening Thunderstorm Complex Entering Western Panhandle This Morning...Upper-Level Feature and Favorable Conditions to Enhance Sea Breeze Shower and Thunderstorm Activity Across Peninsula this Afternoon and Evening...Isolated Strong to Severe Thunderstorms Possible Along I-95 Corridor and Eastern Peninsula; Frequent Lightning, Damaging Wind Gusts, Large Hail and Heavy Downpours Possible...Heat Index Values Reaching Upper 90s and Triple Digits East of Apalachicola River and Throughout Peninsula...Moderate Drought Conditions for Panhandle and Several East Coast Beaches Continues...Senstive to Locally Elevated Wildfire Conditions Persit Throughout Peninsula As Drought Conditions Expand and Worsen...**
+**...Drier Conditions Return to The Florida Panhandle Behind An Advancing Frontal Boundary With A Few Showers and Thunderstorms Anticipated Across the Big Bend...Scattered to Numerous Showers and Thunderstorms To Develop Along the Peninsula and Keys With The Sea Breezes...A Few Strong to Severe Thunderstorms Possible and Isolated Instances of Flooding and Ponding of Water Cannot Be Ruled Out...Heat Indices Reaching Upper 90s and Triple Digits Statewide...Heat Advisories Issued For Portions of South Florida...Senstive to Locally Elevated Wildfire Conditions Through Interior North and Central Florida...Moderate Risk for Rip Currents Along Several Panhandle and East Coast Beaches...**
 
 [More Details](https://www.floridadisaster.org/weather/)
 
