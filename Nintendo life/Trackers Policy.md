@@ -86,7 +86,7 @@ _Last Updated: Mon 3rd Apr 2023 11:25_
 Follow Nintendo Life
 
 * [768k Subscribers](https://www.youtube.com/nintendolife?sub_confirmation=1)
-* [296.3k Followers](https://twitter.com/nintendolife)
+* [296.2k Followers](https://twitter.com/nintendolife)
 * [264k Followers](https://www.instagram.com/nintendolife/)
 * [119.1k Fans](https://www.facebook.com/nintendolife)
 
@@ -137,30 +137,40 @@ Popular Right Now
     
     [Every Nintendo Switch Online Game Boy (Color) Game Ranked](https://www.nintendolife.com/guides/every-nintendo-switch-online-game-boy-color-game-ranked)
     
-    1h ago
-* ![Summer Game Fest Conference Schedule 2024: Dates, How To Watch, Everything You Need To Know](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
-    
-    [Summer Game Fest Conference Schedule 2024: Dates, How To Watch, Everything You Need To Know](https://www.nintendolife.com/guides/summer-game-fest-conference-schedule-2024-dates-how-to-watch-everything-you-need-to-know)
-    
-    2h ago
+    23h ago
 * ![Nintendo Expands Switch Online's Game Boy Library With Five More Classics](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
     
     [Nintendo Expands Switch Online's Game Boy Library With Five More Classics](https://www.nintendolife.com/news/2024/06/nintendo-expands-switch-onlines-game-boy-library-with-five-more-classics)
     
-    10h ago
-* !['Yooka-Replaylee' Brings Back Playtonic's Love Letter To Banjo In Remastered Form](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
+    1d ago
+* ![LEGO Horizon Adventures Is Coming To Switch, Confirmed For Holiday 2024](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
     
-    ['Yooka-Replaylee' Brings Back Playtonic's Love Letter To Banjo In Remastered Form](https://www.nintendolife.com/news/2024/06/yooka-replaylee-brings-back-playtonics-love-letter-to-banjo-in-remastered-form)
+    [LEGO Horizon Adventures Is Coming To Switch, Confirmed For Holiday 2024](https://www.nintendolife.com/news/2024/06/lego-horizon-adventures-is-coming-to-switch-confirmed-for-holiday-2024)
     
-    17h ago
+    11h ago
+* ![The Thing: Remastered Is Officially Announced For Switch, Coming This Year](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
+    
+    [The Thing: Remastered Is Officially Announced For Switch, Coming This Year](https://www.nintendolife.com/news/2024/06/the-thing-remastered-is-officially-announced-for-switch-coming-this-year)
+    
+    12h ago
+* ![Mighty Morphin Power Rangers Return In All-New Retro-Style Action Game](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
+    
+    [Mighty Morphin Power Rangers Return In All-New Retro-Style Action Game](https://www.nintendolife.com/news/2024/06/mighty-morphin-power-rangers-return-in-all-new-retro-style-action-game)
+    
+    5h ago
+* ![Summer Game Fest Conference Schedule 2024: Dates, How To Watch, Everything You Need To Know](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
+    
+    [Summer Game Fest Conference Schedule 2024: Dates, How To Watch, Everything You Need To Know](https://www.nintendolife.com/guides/summer-game-fest-conference-schedule-2024-dates-how-to-watch-everything-you-need-to-know)
+    
+    1d ago
+* ![Feature: We Look To The Past To Predict Every First-Party 'Switch 2' Release Until 2029](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
+    
+    [Feature: We Look To The Past To Predict Every First-Party 'Switch 2' Release Until 2029](https://www.nintendolife.com/features/we-look-to-the-past-to-predict-every-first-party-switch-2-release-until-2029)
+    
+    20h ago
 * ![Octopath Traveler II Receives A Surprise Update On Switch Today](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
     
     [Octopath Traveler II Receives A Surprise Update On Switch Today](https://www.nintendolife.com/news/2024/06/octopath-traveler-ii-receives-a-surprise-update-on-switch-today)
-    
-    1d ago
-* ![The First Review For Shin Megami Tensei V: Vengeance Is In](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
-    
-    [The First Review For Shin Megami Tensei V: Vengeance Is In](https://www.nintendolife.com/news/2024/06/the-first-review-for-shin-megami-tensei-v-vengeance-is-in)
     
     2d ago
 * ![Best Paper Mario Games Of All Time](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
@@ -168,35 +178,25 @@ Popular Right Now
     [Best Paper Mario Games Of All Time](https://www.nintendolife.com/guides/best-paper-mario-games-of-all-time)
     
     Mon 27th May 2024
-* ![Best Nintendo Switch Remakes And Remasters](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
+* ![Round Up: Day Of The Devs SGF Edition 2024 - Every Announcement, All Confirmed Switch Games](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
     
-    [Best Nintendo Switch Remakes And Remasters](https://www.nintendolife.com/guides/best-nintendo-switch-remakes-and-remasters)
+    [Round Up: Day Of The Devs SGF Edition 2024 - Every Announcement, All Confirmed Switch Games](https://www.nintendolife.com/features/round-up-day-of-the-devs-sgf-edition-2024-every-announcement-all-confirmed-switch-games)
     
-    Fri 24th May 2024
-* ![Skies Of Arcadia-Inspired JRPG 'Sky Oceans: Wings For Hire' Lands New Gameplay Trailer](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
+    8h ago
+* ![Nintendo's 'Mega Extreme Fun Sale' Brings Tasty Discounts To Select eShop Titles (North America)](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
     
-    [Skies Of Arcadia-Inspired JRPG 'Sky Oceans: Wings For Hire' Lands New Gameplay Trailer](https://www.nintendolife.com/news/2024/06/skies-of-arcadia-inspired-jrpg-sky-oceans-wings-for-hire-lands-new-gameplay-trailer)
+    [Nintendo's 'Mega Extreme Fun Sale' Brings Tasty Discounts To Select eShop Titles (North America)](https://www.nintendolife.com/news/2024/06/nintendos-mega-extreme-fun-sale-brings-tasty-discounts-to-select-eshop-titles-north-america)
     
-    57m ago
-* ![Former Xbox Console Exclusive 'Echo Generation' Lands On Switch This Month](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
+    19h ago
+* ![Watch: Summer Game Fest 2024 Opening Showcase - Live!](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
     
-    [Former Xbox Console Exclusive 'Echo Generation' Lands On Switch This Month](https://www.nintendolife.com/news/2024/06/former-xbox-console-exclusive-echo-generation-lands-on-switch-this-month)
+    [Watch: Summer Game Fest 2024 Opening Showcase - Live!](https://www.nintendolife.com/news/2024/06/watch-summer-game-fest-2024-opening-showcase-live)
     
-    16h ago
-* ![Random: Unofficial Legend Of Zelda NES Remake Gets 20-Minute Gameplay Video](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
-    
-    [Random: Unofficial Legend Of Zelda NES Remake Gets 20-Minute Gameplay Video](https://www.nintendolife.com/news/2024/06/random-unofficial-legend-of-zelda-nes-remake-gets-20-minute-gameplay-video)
-    
-    3d ago
-* ![Tomb Raider I-III Remastered Update 3 Now Available, Here Are The Full Patch Notes](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
-    
-    [Tomb Raider I-III Remastered Update 3 Now Available, Here Are The Full Patch Notes](https://www.nintendolife.com/news/2024/06/tomb-raider-i-iii-remastered-update-3-now-available-here-are-the-full-patch-notes)
-    
-    9h ago
+    12h ago
 
 [Show More](https://www.nintendolife.com/news)
 
-Join **1,447,392** people following **Nintendo Life**:
+Join **1,447,361** people following **Nintendo Life**:
 
 * [RSS Feed](https://www.nintendolife.com/feeds/latest "Subscribe to our RSS Feed")
 * [YouTube](https://www.youtube.com/nintendolife "Nintendo Life on YouTube")
