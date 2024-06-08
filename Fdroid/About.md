@@ -171,11 +171,11 @@ F-Droid is powered by your donations!
 
 ### News
 
+* [Dozens of new apps](https://f-droid.org/en/2024/06/06/twif.html) Jun 06, 2024
 * [Want the Universe?](https://f-droid.org/en/2024/05/30/twif.html) May 30, 2024
 * [Finally an alternative to Big Tech, your new open-source mobile ecosystem - Mobifree](https://f-droid.org/en/2024/05/24/mobifree.html) May 24, 2024
 * [Relatively good news](https://f-droid.org/en/2024/05/23/twif.html) May 23, 2024
 * [Repository Overhaul in new Client 1.20](https://f-droid.org/en/2024/05/16/repository-overhaul-in-client-1-20.html) May 16, 2024
-* [Managing apps in a decentralized way](https://f-droid.org/en/2024/05/16/twif.html) May 16, 2024
 
 ### Last Updated
 
@@ -209,4 +209,4 @@ Access digital audio mixer's via WebUI.](https://f-droid.org/en/packages/com.yoz
 
 A modern notes app with material design](https://f-droid.org/en/packages/com.kin.easynotes/)
 
-© 2010-2024 F-Droid Contributors (F-Droid 2024-06-06, fdroid-website [2.233](https://gitlab.com/fdroid/fdroid-website/tree/65c678adcf)) [Status](https://fdroidstatus.org/) | [Edit on GitLab](https://gitlab.com/fdroid/fdroid-website/edit/master/)
+© 2010-2024 F-Droid Contributors (F-Droid 2024-06-06, fdroid-website [2.234](https://gitlab.com/fdroid/fdroid-website/tree/3b2dc4db84)) [Status](https://fdroidstatus.org/) | [Edit on GitLab](https://gitlab.com/fdroid/fdroid-website/edit/master/)
