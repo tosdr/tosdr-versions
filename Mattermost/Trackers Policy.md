@@ -32,12 +32,12 @@
     
     Use Cases
     
-    * [Purpose-Built Collaboration Hub](https://mattermost.com/solutions/use-cases/purpose-built-collaboration/)
+    * [Integrated Security Operations](https://mattermost.com/solutions/use-cases/integrated-security-operations/)
+    * [Out-of-Band Incident Response](https://mattermost.com/solutions/use-cases/out-of-band-incident-response/)
     * [Self-Sovereign Collaboration](https://mattermost.com/solutions/use-cases/self-sovereign-collaboration/)
     * [Mission-Critical ChatOps](https://mattermost.com/solutions/use-cases/mission-critical-chatops/)
     * [Real-Time DevSecOps Collaboration](https://mattermost.com/solutions/use-cases/devsecops-collaboration/)
-    * [Integrated Security Operations](https://mattermost.com/solutions/use-cases/integrated-security-operations/)
-    * [Out-of-Band Incident Response](https://mattermost.com/solutions/use-cases/out-of-band-incident-response/)
+    * [Purpose-Built Collaboration Hub](https://mattermost.com/solutions/use-cases/purpose-built-collaboration/)
     
     Industries
     
@@ -142,7 +142,7 @@
     * [Apps](https://mattermost.com/download/)
     * [Support](https://support.mattermost.com/hc/en-us/)
     
-* [Contact Sales](https://mattermost.com/contact-sales/)
+* [Talk to an Expert](https://mattermost.com/contact-sales/)
 
 Legal Terms & Policies
 
