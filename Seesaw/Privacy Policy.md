@@ -167,19 +167,13 @@ For purposes of this Privacy Policy, “Personal Information” means any inform
 
 **2\. Changes to Our Privacy Policy**
 
-  
-
 Seesaw may from time to time make changes to this Privacy Policy to account for changes to our practices or applicable law. If we make changes to this Privacy Policy that materially affect your rights, we will notify you by email about these changes, and post a notice to our service, or otherwise contact you as required under applicable law. Your continued use of the Services following notification by Seesaw means you thereby agree to the new Privacy Policy.
 
 **3\. Seesaw and FERPA**
 
-  
-
 Data collected by Seesaw includes Student Data from education records that are subject to the Family Educational Rights and Privacy Act, “FERPA”, (“FERPA Records”), including student names, parent or guardian (collectively, “Family Member”) names, Messages, and Journal Content. To the extent that Student Data includes FERPA Records, you designate Seesaw as a “School Official” (as that term is used in FERPA and its implementing regulations) under the direct control of the school with regard to the use and maintenance of the FERPA Records and Seesaw agrees to comply with FERPA.
 
 **4\. Seesaw and COPPA**
-
-  
 
 The Children’s Online Privacy Protection Act protects personal information belonging to a child younger than 13. How we collect information from users under 13, the types of information we collect, and the reasons for collecting this information are described in Sections 7, 8, and 9, respectively. We do not require users younger than 13 to disclose more information than is reasonably necessary to use the Services.
 
@@ -189,13 +183,9 @@ Information for parents or guardians on how to correct, edit, download, update, 
 
 **5\. Who does Seesaw collect information from?**
 
-  
-
 We collect information from individuals who create accounts on Seesaw, which includes teachers, students, and Family Members. We also collect limited log data from all visitors to our marketing website.
 
 **6\. How does Seesaw obtain my information?**
-
-  
 
 We receive information from the information that you and others provide, from your device(s), and from third-party services. The categories of sources from which we’ve collected or received information include:
 
@@ -205,8 +195,6 @@ We receive information from the information that you and others provide, from yo
 * Third-Parties: When you create a Seesaw account using a third-party service (e.g. Google or Clever), we access the name, profile picture, and email address (if available) provided by these services.
 
 **7\. What information does Seesaw collect?**
-
-  
 
 Account Information: When you create an account on Seesaw we collect your name, email address, password, and optional profile picture. Seesaw may also collect your phone number if you enter it in your Account Settings. Teachers using Seesaw may add a Family Member’s email or phone number to Seesaw in order to send messages or updates about school work. We do not collect student phone numbers.
 
@@ -259,11 +247,7 @@ We also do not allow in-app purchases for student accounts.
 * We may share activities published to the public Community Activity Library with teachers who we think may be interested in using them with their class.
 * We may disclose or transfer your Account Information and Journal Content in connection with the sale, merger, bankruptcy, sale of assets, or reorganization of our company. You will be notified via email or some other means as required by law of any change in ownership or uses of your Personal Information, as well as any choices you may have regarding your information (including the right to delete your information). The promises in this Privacy Policy will apply to your data as transferred to the new entity. If Seesaw goes out of business without a successor, Seesaw will delete your information.
 
-  
-
 **11\. Do you collect data about \[blank\]?**
-
-  
 
 We’ve listed all the data we collect in Section 8 above (“What Information Does Seesaw Collect?”). We intentionally limit our data collection to only what we need to provide the Seesaw service for you.
 
@@ -309,25 +293,111 @@ In the event of a security breach, Seesaw will notify affected account holders w
 
 **19\. How does seesaw handle data from international visitors?**
 
-By default, any Personal Information that you provide to Seesaw may be hosted on servers located in the United States. If your school or district has purchased Seesaw for Schools, your school or district can choose to store all data associated with your Seesaw for Schools account in a different supported country. By participating in Seesaw for Schools, you consent to allow your school or district to determine where to store your data. Please contact your Seesaw for Schools administrator to find out where your data is stored.
+This section applies to schools and users in the EEA or UK.
 
-When transferring any Personal Information outside of the EU, UK, or Switzerland, we comply with applicable laws to ensure an adequate legal basis exists for said transfer. To view our Data Processing Agreement and standard contractual clauses, please visit [https://seesaw.com/dpa](https://seesaw.com/dpa).
+Seesaw has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (“EU-U.S. DPF Principles”) with regard to the processing of Personal Information received from the European Union or European Economic Area (“EU/EEA”) in reliance on
 
-In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+the EU-U.S. DPF and from the United Kingdom (and Gibraltar) in reliance on the UK Extension to the EU-U.S. DPF. Seesaw has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (“Swiss-U.S. DPF Principles”) with regard to the processing of Personal Information received from Switzerland in reliance on the Swiss-U.S. DPF. If there is any conflict between the terms in this Privacy Policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern. To learn more about the Data Privacy Framework program, and to view our certification, please visit [www.dataprivacyframework.gov](http://www.dataprivacyframework.gov/).
 
-Seesaw commits to resolve complaints about your privacy and our collection or use of your Personal Information transferred to the United States pursuant to the Data Processing Agreement. European Union, UK, and Swiss individuals with inquiries or complaints may first contact Seesaw by email at [privacy@seesaw.me](mailto:privacy@seesaw.me).
+Seesaw is responsible for the processing of Personal Information it receives, under each Data Privacy Framework and subsequently onward transfers to third parties to perform processing functions or to provide services on our behalf. Seesaw remains responsible and liable under the Principles if third-party agents that it engages to process the personal data on its behalf do so in a manner inconsistent with the Principles, unless Seesaw proves that it is not responsible for the event giving rise to the damage.
 
-Seesaw complies with the EU-U.S. Data Privacy Framework program (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework program (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce. Seesaw has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union in reliance on the EU-U.S. DPF and from the United Kingdom (and Gibraltar) in reliance on the UK Extension to the EU-U.S. DPF. Seesaw has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework program Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF. If there is any conflict between the terms in this privacy policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern. To learn more about the Data Privacy Framework (DPF) program, and to view our certification, please visit [https://www.dataprivacyframework.gov/](https://www.dataprivacyframework.gov/).
+Seesaw has further committed to cooperate and comply respectively with the advice of the EU/EEA data protection authorities (collectively “EU DPAs”); the UK Information Commissioner’s Office (ICO) and the Gibraltar Regulatory Authority (GRA); and the Swiss Federal Data Protection and Information Commissioner (FDPIC) with regard to unresolved privacy or Personal Information use concerns.
 
-In compliance with the EU-US Data Privacy Framework Principles, Seesaw commits to resolve complaints about your privacy and our collection or use of your personal information transferred to the United States pursuant to the DPF Principles. European Union, Swiss and United Kingdom individuals with DPF inquiries or complaints should first contact Seesaw by email at privacy@seesaw.me.
-
-Seesaw has further committed to refer unresolved privacy complaints under the DPF Principles to an independent dispute resolution mechanism, Data Privacy Framework Services, operated by BBB National Programs. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [https://bbbprograms.org/programs/all-programs/dpf-consumers/ProcessForConsumers](https://bbbprograms.org/programs/all-programs/dpf-consumers/ProcessForConsumers) for more information and to file a complaint. This service is provided free of charge to you.
-
-If your DPF complaint cannot be resolved through the above channels, under certain conditions, you may invoke binding arbitration for some residual claims not resolved by other redress mechanisms. See Arbitration Procedures.
+Additionally, Seesaw is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission for compliance with the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF. As further explained on the Data Privacy Framework program website at  
+[www.dataprivacyframework.gov](http://www.dataprivacyframework.gov/), you may also invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
 **20\. Does seesaw comply with your state’s laws?**
 
-We sometimes get asked whether Seesaw complies with specific US state laws. For more information about your state, please see here.
+In accordance with applicable privacy law, you have some or all of the following rights in respect of your Personal Information that we hold.
+
+**If you are in the EEA or UK:**
+
+**Right of access**. You have the right to obtain.
+
+* confirmation of whether, and where, we are processing your Personal Information;
+* information about the categories of Personal Information we are processing, the purposes for which we process your Personal Information and information as to how we determine applicable retention periods;
+* information about the categories of recipients with whom we may share your Personal Information; and
+* a copy of the Personal Information we hold about you.
+
+**Right of portability.** You have the right, in certain circumstances, to receive a copy of the Personal Information you have provided to us in a structured, commonly used, machine-readable format that supports re-use, or to request the transfer of your Personal Information to another person.
+
+**Right to rectification.** You have the right to obtain rectification of any inaccurate or incomplete Personal Information we hold about you without undue delay.
+
+**Right to erasure.** You have the right, in some circumstances, to require us to erase your Personal Information without undue delay if the continued processing of that Personal Information is not justified.
+
+**Right to restriction.** You have the right, in some circumstances, to require us to limit the purposes for which we process your Personal Information if the continued processing of the Personal Information in this way is not justified, such as where the accuracy of the Personal Information is contested by you.
+
+**Right to withdraw consent.** If you have provided consent for the processing of your Personal Information, you have the right to withdraw your consent. If you withdraw your consent, this will not affect the lawfulness of our use of your Personal Information before your withdrawal.
+
+You also have the right to object to any processing based on our legitimate interests where there are grounds relating to your particular situation. There may be compelling reasons for continuing to process your Personal Information, and we will assess and inform you if that is the case. You can object to marketing activities for any reason.
+
+You can also opt out of sharing your personal data with third parties (other than parties that provide services to us as our agents or processors) or before we use it for a purpose other than that for which it was originally collected or subsequently authorised.
+
+**If you are in Australia:**
+
+**Right of access.** You have the right to request access to Personal Information we hold about you.
+
+If you wish to access any of your personal information that you have provided to us, please contact us using the details set out in Section 22 ‘How to contact us’.
+
+**Right to rectification or correction and notification to third parties.** You have the right to request the correction of personal information we hold about you. You also have the right to have any correction notified to third parties to whom we have provided your personal information.
+
+**Right to opt out**: You have the right to opt out of receiving marketing and to the disclosure or use of your personal information for marketing.
+
+Seesaw will take reasonable steps to ensure that your personal information is accurate, up to date, complete and not misleading. However, to assist us to do this, we request that you keep your personal information up to date on the Seesaw Service or inform us of any changes to your Personal Information to ensure our records remain accurate and current.
+
+If you believe that any of your Personal Information held by us is incorrect and you cannot amend such in the Seesaw Service then please request us to amend that Personal Information via the details in the section headed “How to Contact us” above.
+
+**If you are in New Zealand:**
+
+**Right of access.** You have the right to request access to Personal Information we hold about you.
+
+If you wish to access any of your personal information that you have provided to us, please contact us using the details set out in Section 22 ‘Contact Information’.
+
+**Right to rectification or correction.** You have the right to request the correction of personal information we hold about you.
+
+**Right to opt-out.** You have the right to opt-out of marketing. You can contact us to do so or use the unsubscribe mechanism included in each electronic direct marketing message we send to you.
+
+Seesaw will take reasonable steps to ensure that your personal information is accurate, up to date, complete and not misleading. However, to assist us to do this, we request that you keep your personal information up to date on the Seesaw Service or inform us of any changes to your Personal Information to ensure our records remain accurate and current.
+
+If you believe that any of your Personal Information held by us is incorrect and you cannot amend such in the Seesaw Service then please request us to amend that Personal Information via the details in the section headed “How to Contact us” above.
+
+**How to exercise any of the above rights**
+
+If you wish to exercise one of the rights, please contact us using the contact details set out in the “How to contact us” section above. Due to the confidential nature of data processing, we may ask you to
+
+confirm your identity when exercising the above rights.
+
+If you contact us to exercise rights on behalf of your child, we will assess whether your child is competent to exercise those rights themselves based on their age. In accordance with guidance from the Information Commissioner’s Office, we will normally assume that children aged 12 or over are able
+
+to exercise the rights mentioned above. Where that is the case, we may ask you to provide authorisation from your child to exercise their rights on their behalf.
+
+**Complaints**
+
+Information for schools and users in the EEA or UK
+
+If you are in the UK or EEA, you also have the right to lodge a complaint to your local data protection authority. If you are in the UK, information about how to contact your local data protection authority is available [here](https://ico.org.uk/make-a-complaint/data-protection-complaints/data-protection-complaints/). If you are in the European Economic Area, information about how to contact your local
+
+data protection authority is available [here](https://edpb.europa.eu/about-edpb/abo%20ut-edpb/members_en) and [here](https://www.edoeb.admin.ch/edoeb/en/home/deredoeb/kontakt.html) (if you are in Switzerland).
+
+Information for schools and users in Australia
+
+If you are in Australia, if you have any concerns about how we handle your personal information, believe we have breached the Privacy Act 1988 or any Australian Privacy Principles, if you wish to make a complaint or need further information, please contact us via the details noted in Section 22 ‘Contact Information’. You will need to provide us with sufficient detail regarding your complaint and any supporting evidence.
+
+We will investigate the issue and determine the steps to be taken to resolve the complaint and will notify you in writing if we require any additional information and also of the outcome of our investigation.
+
+If you are not happy with the outcome of our investigation, you may complain to the Office of the Australian Information Commissioner by way of their website www.oaic.gov.au or by phone to their hotline 1300 363 992.
+
+If you are using the Seesaw Service through a school, for complaints about how your Personal Information is being handled by your school we recommend that you first refer your complaint to the relevant school and note their contact details should be included in that school’s privacy policy.
+
+Information for schools and users in New Zealand
+
+If you have any concerns about how we handle your personal information, believe we have breached the Privacy Act 2020 or any of the New Zealand Information Privacy Principles, if you wish to make a complaint or if you need further information, please contact us via the details noted in Section 22 ‘Contact Information’. You will need to provide us with sufficient detail regarding your complaint and any supporting evidence.
+
+We will investigate the issue and determine the steps to be taken to resolve the complaint. We will notify you in writing if we require any additional information and also of the outcome of our investigation.
+
+If you are not happy with the outcome of our investigation, you may complain to the Office of the Privacy Commissioner by way of their website www.privacy.org.nz/your-rights/making-a-complaint-to-the-privacy-commissioner/.
+
+If you are using the Seesaw Service through a school, for complaints about how your Personal Information is being handled by your school, we recommend you first refer to the relevant school’s privacy policy.
 
 **21\. Rights Of California And Nevada Residents**
 
