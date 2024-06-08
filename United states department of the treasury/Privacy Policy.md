@@ -525,6 +525,10 @@ MENU MENU
     [Featured Stories](https://home.treasury.gov/news/featured-stories)
     -------------------------------------------------------------------
     
+    June 7, 2024
+    
+    [Continuing Improvements to IRS Customer Service in Filing Season 2024](https://home.treasury.gov/news/featured-stories/continuing-improvements-to-irs-customer-service-in-filing-season-2024)
+    
     May 30, 2024
     
     [U.S. Department of the Treasury, IRS Announce Direct File as Permanent Free Tax Filing Option, All 50 States and D.C. Invited to Join in Filing Season 2025](https://home.treasury.gov/news/featured-stories/us-department-of-the-treasury-irs-announce-direct-file-as-permanent-free-tax-filing-option-all-50-states-and-dc-invited-to-join-in-filing-season-2025)
@@ -532,10 +536,6 @@ MENU MENU
     May 16, 2024
     
     [Anchoring Clean Energy Manufacturing Investments in Coal Country and Beyond](https://home.treasury.gov/news/featured-stories/anchoring-clean-energy-manufacturing-investments-in-coal-country-and-beyond)
-    
-    May 10, 2024
-    
-    [Heat Pumps Deliver Major Savings for American Families](https://home.treasury.gov/news/featured-stories/heat-pumps-deliver-major-savings-for-american-families)
     
     [View all Featured Stories](https://home.treasury.gov/news/featured-stories "View all Featured Stories")
     
