@@ -1,6 +1,6 @@
 ###### Launching on Product Hunt in
 
-###### 79
+###### 55
 
 Hours
 
@@ -8,7 +8,7 @@ Hours
 
 Minutes
 
-###### 41
+###### 43
 
 Seconds
 
@@ -16,7 +16,7 @@ Seconds
 
 ###### Launching on Product Hunt in
 
-###### 79
+###### 55
 
 Hours
 
@@ -24,7 +24,7 @@ Hours
 
 Minutes
 
-###### 41
+###### 43
 
 Seconds
 
@@ -32,7 +32,7 @@ Seconds
 
 ###### Launching on Product Hunt in
 
-###### 79
+###### 55
 
 Hours
 
@@ -40,7 +40,7 @@ Hours
 
 Minutes
 
-###### 41
+###### 43
 
 Seconds
 
@@ -48,7 +48,7 @@ Seconds
 
 ###### Launching on Product Hunt in
 
-###### 79
+###### 55
 
 Hours
 
@@ -56,7 +56,7 @@ Hours
 
 Minutes
 
-###### 41
+###### 43
 
 Seconds
 
@@ -64,7 +64,7 @@ Seconds
 
 ###### Launching on Product Hunt in
 
-###### 79
+###### 55
 
 Hours
 
@@ -72,7 +72,7 @@ Hours
 
 Minutes
 
-###### 41
+###### 43
 
 Seconds
 
@@ -80,7 +80,7 @@ Seconds
 
 ###### Launching on Product Hunt in
 
-###### 79
+###### 55
 
 Hours
 
@@ -88,7 +88,7 @@ Hours
 
 Minutes
 
-###### 41
+###### 43
 
 Seconds
 
@@ -96,7 +96,7 @@ Seconds
 
 ###### Launching on Product Hunt in
 
-###### 79
+###### 55
 
 Hours
 
@@ -104,7 +104,7 @@ Hours
 
 Minutes
 
-###### 41
+###### 43
 
 Seconds
 
@@ -112,7 +112,7 @@ Seconds
 
 ###### Launching on Product Hunt in
 
-###### 79
+###### 55
 
 Hours
 
@@ -120,7 +120,7 @@ Hours
 
 Minutes
 
-###### 41
+###### 43
 
 Seconds
 
@@ -128,7 +128,7 @@ Seconds
 
 ###### Launching on Product Hunt in
 
-###### 79
+###### 55
 
 Hours
 
@@ -136,7 +136,7 @@ Hours
 
 Minutes
 
-###### 41
+###### 43
 
 Seconds
 
@@ -144,7 +144,7 @@ Seconds
 
 ###### Launching on Product Hunt in
 
-###### 79
+###### 55
 
 Hours
 
@@ -152,7 +152,7 @@ Hours
 
 Minutes
 
-###### 41
+###### 43
 
 Seconds
 
