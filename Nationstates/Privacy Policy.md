@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [UK Politics Thread: General Election… (6,316)](https://forum.nationstates.net/viewtopic.php?t=538053&f=20&view=unread#unread ""UK Politics Thread: General Election on July 4th" (6,316 posts)")
-* [2023 Israel–Hamas War Thread mk3 (2,637)](https://forum.nationstates.net/viewtopic.php?t=549839&f=20&view=unread#unread ""2023 Israel–Hamas War Thread mk3" (2,637 posts)")
-* [The Writers' Block (8,638)](https://forum.nationstates.net/viewtopic.php?t=159868&f=13&view=unread#unread ""The Writers' Block" (8,638 posts)")
-* [Out of the 2 above nations: Which one… (11,328)](https://forum.nationstates.net/viewtopic.php?t=529718&f=25&view=unread#unread ""Out of the 2 above nations: Which one has the better flag?" (11,328 posts)")
-* [Christian Discussion: No more Fun wit… (3,645)](https://forum.nationstates.net/viewtopic.php?t=523262&f=20&view=unread#unread ""Christian Discussion: No more Fun with Pope Puns" (3,645 posts)")
+* [Gun Control 2023 - ATF Shenanigans, S… (6,522)](https://forum.nationstates.net/viewtopic.php?t=530702&f=20&view=unread#unread ""Gun Control 2023 - ATF Shenanigans, States Fight Back!" (6,522 posts)")
+* [AN invades YN. How do you react? II (1,157)](https://forum.nationstates.net/viewtopic.php?t=542690&f=25&view=unread#unread ""AN invades YN. How do you react? II" (1,157 posts)")
+* [Compliment the Above Nation III (6,073)](https://forum.nationstates.net/viewtopic.php?t=513965&f=25&view=unread#unread ""Compliment the Above Nation III" (6,073 posts)")
+* [The Eternal Tuesday (2,339)](https://forum.nationstates.net/viewtopic.php?t=551362&f=20&view=unread#unread ""The Eternal Tuesday" (2,339 posts)")
+* [Which of the 2 ANs is most likely to… (3,749)](https://forum.nationstates.net/viewtopic.php?t=532491&f=25&view=unread#unread ""Which of the 2 ANs is most likely to be YN's enemy?" (3,749 posts)")
 
 Advertisement
 
