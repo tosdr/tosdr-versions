@@ -119,10 +119,10 @@ Proton Mail is Open Source!
 
 Share this page
 
-* [![](https://res.cloudinary.com/dbulfrlrz/image/upload/v1712065300/static/social/x-widestroke-gray_f2ti5x.svg)(new window)](https://twitter.com/share?url=https://proton.me/blog/protonmail-open-source/&text=Proton%20Mail%20is%20Open%20Source!&via=ProtonPrivacy)
-* [![](https://res.cloudinary.com/dbulfrlrz/image/upload/v1711363892/static/social/reddit-gray.svg)(new window)](https://www.reddit.com/submit?url=https://proton.me/blog/protonmail-open-source/&title=Proton%20Mail%20is%20Open%20Source!)
-* [![](https://res.cloudinary.com/dbulfrlrz/image/upload/v1711363891/static/social/facebook-gray.svg)(new window)](https://www.facebook.com/sharer/sharer.php?u=https://proton.me/blog/protonmail-open-source/&quote=Proton%20Mail%20is%20Open%20Source!)
-* [![](https://res.cloudinary.com/dbulfrlrz/image/upload/v1711363892/static/social/linkedin-gray.svg)(new window)](https://www.linkedin.com/shareArticle?url=https://proton.me/blog/protonmail-open-source/&mini=true&title=Proton%20Mail%20is%20Open%20Source!&summary=Free%20email%20accounts%20-%20now%20with%20open%20source%20code!&source=Proton "Proton Mail is Open Source!")
+* [![](https://res.cloudinary.com/dbulfrlrz/image/upload/v1712065300/static/social/x-widestroke-gray_f2ti5x.svg)(new window)](https://twitter.com/share?url=https://proton.me/blog/protonmail-open-source&text=Proton%20Mail%20is%20Open%20Source!&via=ProtonPrivacy)
+* [![](https://res.cloudinary.com/dbulfrlrz/image/upload/v1711363892/static/social/reddit-gray.svg)(new window)](https://www.reddit.com/submit?url=https://proton.me/blog/protonmail-open-source&title=Proton%20Mail%20is%20Open%20Source!)
+* [![](https://res.cloudinary.com/dbulfrlrz/image/upload/v1711363891/static/social/facebook-gray.svg)(new window)](https://www.facebook.com/sharer/sharer.php?u=https://proton.me/blog/protonmail-open-source&quote=Proton%20Mail%20is%20Open%20Source!)
+* [![](https://res.cloudinary.com/dbulfrlrz/image/upload/v1711363892/static/social/linkedin-gray.svg)(new window)](https://www.linkedin.com/shareArticle?url=https://proton.me/blog/protonmail-open-source&mini=true&title=Proton%20Mail%20is%20Open%20Source!&summary=Free%20email%20accounts%20-%20now%20with%20open%20source%20code!&source=Proton "Proton Mail is Open Source!")
 
 Last update on November 11, 2022 Published on August 13, 2015
 
@@ -144,10 +144,10 @@ Secure your emails, protect your privacy
 
 Share this page
 
-* [![](https://res.cloudinary.com/dbulfrlrz/image/upload/v1712065300/static/social/x-widestroke-gray_f2ti5x.svg)(new window)](https://twitter.com/share?url=https://proton.me/blog/protonmail-open-source/&text=Proton%20Mail%20is%20Open%20Source!&via=ProtonPrivacy)
-* [![](https://res.cloudinary.com/dbulfrlrz/image/upload/v1711363892/static/social/reddit-gray.svg)(new window)](https://www.reddit.com/submit?url=https://proton.me/blog/protonmail-open-source/&title=Proton%20Mail%20is%20Open%20Source!)
-* [![](https://res.cloudinary.com/dbulfrlrz/image/upload/v1711363891/static/social/facebook-gray.svg)(new window)](https://www.facebook.com/sharer/sharer.php?u=https://proton.me/blog/protonmail-open-source/&quote=Proton%20Mail%20is%20Open%20Source!)
-* [![](https://res.cloudinary.com/dbulfrlrz/image/upload/v1711363892/static/social/linkedin-gray.svg)(new window)](https://www.linkedin.com/shareArticle?url=https://proton.me/blog/protonmail-open-source/&mini=true&title=Proton%20Mail%20is%20Open%20Source!&summary=Free%20email%20accounts%20-%20now%20with%20open%20source%20code!&source=Proton "Proton Mail is Open Source!")
+* [![](https://res.cloudinary.com/dbulfrlrz/image/upload/v1712065300/static/social/x-widestroke-gray_f2ti5x.svg)(new window)](https://twitter.com/share?url=https://proton.me/blog/protonmail-open-source&text=Proton%20Mail%20is%20Open%20Source!&via=ProtonPrivacy)
+* [![](https://res.cloudinary.com/dbulfrlrz/image/upload/v1711363892/static/social/reddit-gray.svg)(new window)](https://www.reddit.com/submit?url=https://proton.me/blog/protonmail-open-source&title=Proton%20Mail%20is%20Open%20Source!)
+* [![](https://res.cloudinary.com/dbulfrlrz/image/upload/v1711363891/static/social/facebook-gray.svg)(new window)](https://www.facebook.com/sharer/sharer.php?u=https://proton.me/blog/protonmail-open-source&quote=Proton%20Mail%20is%20Open%20Source!)
+* [![](https://res.cloudinary.com/dbulfrlrz/image/upload/v1711363892/static/social/linkedin-gray.svg)(new window)](https://www.linkedin.com/shareArticle?url=https://proton.me/blog/protonmail-open-source&mini=true&title=Proton%20Mail%20is%20Open%20Source!&summary=Free%20email%20accounts%20-%20now%20with%20open%20source%20code!&source=Proton "Proton Mail is Open Source!")
 
 ![](https://res.cloudinary.com/dbulfrlrz/image/upload/v1691480337/static/avatars/Proton_Team_jxnkj0.png)
 
@@ -157,6 +157,14 @@ We are scientists, engineers, and specialists from around the world drawn togeth
 
 Related articles
 ----------------
+
+![](https://res.cloudinary.com/dbulfrlrz/images/f_auto,q_auto/v1717743380/wp-pme/how-to-remove-personal-information-from-the-internet-blog2x/how-to-remove-personal-information-from-the-internet-blog2x.?_i=AA)
+
+* Privacy guides
+
+[How to remove personal information from the internet and protect your privacy](https://protonmail.com/blog/how-to-remove-personal-information-from-the-internet-and-protect-your-privacy)
+
+People often choose to remove their personal information from the internet due to privacy and security concerns. For example, oversharing on social media can expose you to phishing attacks, identity theft, and cyberstalking. Plus, your data is highl
 
 ![](https://res.cloudinary.com/dbulfrlrz/images/f_auto,q_auto/v1717517008/wp-pme/google-dma-non-compliance/google-dma-non-compliance.?_i=AA)
 
@@ -198,14 +206,6 @@ When you use the internet at home, connected to everything from fitness equipmen
 [Results of the 2024 Proton community survey](https://protonmail.com/blog/2024-proton-survey-results)
 
 Every year, we send a survey to the Proton community asking for your feedback and ideas. We then use that information to guide our future plans. This year, we received thousands of responses, giving us insight into what you expect from us.  As one o
-
-![](https://res.cloudinary.com/dbulfrlrz/images/f_auto,q_auto/v1717193581/wp-pme/what_is_a_rainbow_table_attack_blog_cover2x/what_is_a_rainbow_table_attack_blog_cover2x.?_i=AA)
-
-* Privacy guides
-
-[What is a rainbow table attack and how to prevent it?](https://protonmail.com/blog/what-is-rainbow-table-attack)
-
-Hackers use various methods to crack passwords, and one of them is the rainbow table attack. In certain cases, this method can be faster than dictionary attacks or credential stuffing. In this article, we explore how rainbow table attacks work and d
 
 ![Proton](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693233221/static/logos/proton-logo-p_kftwpv.svg)
 
