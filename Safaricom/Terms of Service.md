@@ -1,4 +1,4 @@
-Rated 4.9 / 5 based on [490 reviews](https://www.trustpilot.com/review/www.safari.com) on
+Rated 4.9 / 5 based on [497 reviews](https://www.trustpilot.com/review/www.safari.com) on
 
 ![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/6520b0548d3d382c9397bb18_trustpilot_2366_logo_1630325953_dqa8g.webp)
 
@@ -232,7 +232,49 @@ VARIATION OF THESE TERMS
 
 out of 5 based on
 
-[490 reviews](https://www.trustpilot.com/review/www.safari.com)
+[497 reviews](https://www.trustpilot.com/review/www.safari.com)
+
+![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Jun 8, 2024
+
+> A great experience
+
+> Pascal was wonderful to work with! When one camp option fell through he quickly found an equal alternative for our group. He was always very responsive to my many emails and texts. I would highly recommend Safari.com.
+
+Stephanie
+
+,
+
+US
+
+![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Jun 7, 2024
+
+> Leché was fantastic - thank you!
+
+> Leché was fantastic - super helpful and so patient with me. Provided all the options and was so quick responding to any questions (of which I had many!). So grateful and I can't wait for our holiday!
+
+Chris
+
+,
+
+GB
+
+![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Jun 7, 2024
+
+> Top notch service
+
+> Catherine was very helpful and responsive. Our trip was postponed due to the pandemic and she efficiently advocated for us with the game reserves to rebook our trip. Also, the SA embassy in our region required additional police certification of our reservation, the Safari.com team went to the police station and sent us the certified documents on the same day. Amazing service. Highly recommend!
+
+IReyes
+
+,
+
+PH
 
 ![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
@@ -317,48 +359,6 @@ Viviana Tena
 ,
 
 MX
-
-![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> May 31, 2024
-
-> An Adventure Of A Lifetime
-
-> In planning our South Africa vacation last year, I went online looking for a safari adventure. There were many companies but eventually returned to Safari.Com’s website which offered many itineraries. Luckily, their agent, Dolan quickly contacted me and planned the perfect trip to Sabi Sabi Bush Lodge. I liked his quick responses to my many, many questions. Dolan handled all reservations not only the lodge but hotels, airlines and private transportation. It was an amazing vacation. Our daughter and her family decided on a vacation to South Africa so we are all headed back again this year and Safari.Com and Dolan have again done the planning even our trip insurance. I highly recommend Dolan and Safari.Com for an amazing adventure!
-
-Barbara
-
-,
-
-US
-
-![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> May 31, 2024
-
-> Jayson was so helpful!
-
-> Jayson was so helpful! I gave Jayson my safari wishlist, and he made me the perfect itinerary; he was quick, communicative, and very knowledgeable. I am looking forward to my trip!
-
-Helen
-
-,
-
-US
-
-![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> May 31, 2024
-
-> A wonderful experience
-
-> We visit South Africa with an international team at least once a year and organizing a memorable time for our team is time-consuming and challenging at times. Leigh-Ann is efficient, prompt and focussed on details. She booked our team trip in no time and made sure everything was satifactory. We will not hesitate to contact her for our future safari needs.
-
-Rudolf
-
-,
-
-US
 
 VIP service
 
