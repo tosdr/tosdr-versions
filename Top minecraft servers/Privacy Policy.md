@@ -47,17 +47,17 @@ We also use third party advertisements to support our site. Some of these advert
 
 Random Server Videos
 
-[![ZedarMC Trailer](//i.ytimg.com/vi/bbRxU5rDzQg/0.jpg)  
-ZedarMC](https://topminecraftservers.org/server/23924)
+[![PenguinCraft SMP Trailer](//i.ytimg.com/vi/_YmAAbtAPyk/0.jpg)  
+PenguinCraft SMP](https://topminecraftservers.org/server/25245)
 
-[![True Worlds Trailer](//i.ytimg.com/vi/ZoVdepa8mcw/0.jpg)  
-True Worlds](https://topminecraftservers.org/server/2961)
+[![OdinCraft Trailer](//i.ytimg.com/vi/grSk1aNMU6Q/0.jpg)  
+OdinCraft](https://topminecraftservers.org/server/33783)
 
-[![Lanka Survival Multiplayer - LKSMP Trailer](//i.ytimg.com/vi/V3Lfs9xoLlU/0.jpg)  
-Lanka Survival Multiplayer - LKSMP](https://topminecraftservers.org/server/21566)
+[![AstroComet Trailer](//i.ytimg.com/vi/7icCsd-sStI/0.jpg)  
+AstroComet](https://topminecraftservers.org/server/23150)
 
-[![AcuaCraft Network Trailer](//i.ytimg.com/vi/mcvTEezC0Ko/0.jpg)  
-AcuaCraft Network](https://topminecraftservers.org/server/37057)
+[![GoldenLeaf Trailer](//i.ytimg.com/vi/32rENW6cRs8/0.jpg)  
+GoldenLeaf](https://topminecraftservers.org/server/26170)
 
 [Terms](https://topminecraftservers.org/terms.php) | [Privacy](https://topminecraftservers.org/privacy.php) | [Search](https://topminecraftservers.org/search.php) | [FAQ](https://topminecraftservers.org/faq.php) | [Contact](https://topminecraftservers.org/contact.php)
 
@@ -65,4 +65,4 @@ AcuaCraft Network](https://topminecraftservers.org/server/37057)
 
 Minecraft is copyright Mojang/Microsoft and is not affiliated with this site.
 
-Page took 0.334168 seconds to load
+Page took 0.243716 seconds to load
