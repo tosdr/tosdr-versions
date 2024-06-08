@@ -1,6 +1,6 @@
 [Skip to content](#main)
 
-[![Talentprise Logo](https://www.talentprise.com/wp-content/uploads/2022/06/talentprise-logo-200x80-2.svg)](https://www.talentprise.com/)
+[![Official Talentprise Logo](https://www.talentprise.com/wp-content/uploads/2024/06/cropped-logo-talentprise.png)](https://www.talentprise.com/)
 
 * Find JobExpand
     * ### Land your dream job
@@ -132,7 +132,7 @@
 * [Log in](https://app.talentprise.com/login)
 * [Sign up](https://app.talentprise.com/register/choose-type)
 
-[![Talentprise Logo](https://www.talentprise.com/wp-content/uploads/2022/06/talentprise-logo-200x80-2.svg)](https://www.talentprise.com/)
+[![Official Talentprise Logo](https://www.talentprise.com/wp-content/uploads/2024/06/cropped-logo-talentprise.png)](https://www.talentprise.com/)
 
 Toggle Menu
 
@@ -278,7 +278,7 @@ These Terms and Conditions will be governed by and interpreted in all respects i
 
 If you have any questions about these Terms and Conditions, feel free to [contact us](https://www.talentprise.com/contact/). 
 
-![Talentprise Logo: AI Recruiting](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxODBwIiBoZWlnaHQ9IiIgdmlld0JveD0iMCAwIDE4MHAgIj48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojZWRlZGVkO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==)
+![Official Talentprise Logo](https://www.talentprise.com/wp-content/uploads/2024/06/cropped-logo-talentprise.png)
 
 #### AI-powered Talent Sourcing Platform
 
@@ -349,13 +349,19 @@ Resources
     * [Job Finder](https://www.talentprise.com/secure-job/)
     * [Talent Finder](https://www.talentprise.com/ai-powered-recruitment-artificial-intelligence/)
     * [AI Headhunter](https://www.talentprise.com/top-candidate-matching-ai-hiring-process/)
-* [More](#)Toggle child menuExpand
+* MoreToggle child menuExpand
     
     * [Blog](https://www.talentprise.com/employment-blog/)
     * [About](https://www.talentprise.com/job-recruiting-websites-job-posting-websites/)
     * [Occupations](https://www.talentprise.com/global-occupations-list-job-titles/)
     * [FAQ](https://www.talentprise.com/faq/)
     * [Contact](https://www.talentprise.com/contact/)
+* [ENSelect Language](https://www.talentprise.com/terms-and-conditions/)Toggle child menuExpand
+    
+    * [FR](https://www.talentprise.com/fr/conditions-generales/)
+    * [AR](https://www.talentprise.com/ar/%D8%A7%D9%84%D8%B4%D8%B1%D9%88%D8%B7-%D9%88%D8%A7%D9%84%D8%A3%D8%AD%D9%83%D8%A7%D9%85/)
+    * [ES](https://www.talentprise.com/es/condiciones-generales/)
+    * [DE](https://www.talentprise.com/de/bedingungen-und-konditionen/)
 
 [Log in](https://app.talentprise.com/login)
 
@@ -367,10 +373,10 @@ Resources
 
 [](https://www.linkedin.com/company/mytalentprise)
 
-![Talentprise Logo](https://www.talentprise.com/wp-content/uploads/2022/06/talentprise-logo-200x80-2.svg)
+![Official Talentprise Logo](https://www.talentprise.com/wp-content/uploads/2024/06/cropped-logo-talentprise.png)
 
 [Privacy](https://www.talentprise.com/privacy-policy/)
 
-[| Terms |](https://www.talentprise.com/terms-and-conditions/)
+[Terms](https://www.talentprise.com/terms-and-conditions/)
 
 [Cookie](https://www.talentprise.com/cookie-policy/)
