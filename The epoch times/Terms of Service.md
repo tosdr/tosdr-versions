@@ -468,76 +468,76 @@ UPDATED: FEBRUARY 01, 2024
 
 TOP NEWS
 
-* [Federal Judge Recuses Himself From Gaza Case After Trip to Israel](https://www.theepochtimes.com/us/federal-judge-recuses-himself-from-gaza-case-after-trip-to-israel-5664651)
+* [USDA Recalls More Than 20,000 Pounds of Frozen Beef Products](https://www.theepochtimes.com/business/usda-recalls-more-than-20000-pounds-of-frozen-beef-products-5665141)
     
-    NEW By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    NEW By [Lorenz Duchamps](https://www.theepochtimes.com/author/lorenz-duchamps)
     
-    [![Federal Judge Recuses Himself From Gaza Case After Trip to Israel](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![USDA Recalls More Than 20,000 Pounds of Frozen Beef Products](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Federal Judge Recuses Himself From Gaza Case After Trip to Israel](https://img.theepochtimes.com/assets/uploads/2023/07/09/id5383393-GettyImages-695274544-205x123.jpg.webp)](https://www.theepochtimes.com/us/federal-judge-recuses-himself-from-gaza-case-after-trip-to-israel-5664651)
-* [Supreme Court Justice Clarence Thomas Amends Disclosure to Include Gift Trips](https://www.theepochtimes.com/us/supreme-court-justice-clarence-thomas-amends-disclosure-to-include-gift-trips-5664707)
+    ![USDA Recalls More Than 20,000 Pounds of Frozen Beef Products](https://img.theepochtimes.com/assets/uploads/2024/06/08/id5665143-beef-recall-205x123.jpg.webp)](https://www.theepochtimes.com/business/usda-recalls-more-than-20000-pounds-of-frozen-beef-products-5665141)
+* [Bird Flu Confirmed in Wyoming Cattle Herd, 12th State to Record Infections](https://www.theepochtimes.com/us/bird-flu-confirmed-in-wyoming-cattle-herd-12th-state-to-record-infections-5665111)
     
-    NEW By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
+    1hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
-    [![Supreme Court Justice Clarence Thomas Amends Disclosure to Include Gift Trips](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Bird Flu Confirmed in Wyoming Cattle Herd, 12th State to Record Infections](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Supreme Court Justice Clarence Thomas Amends Disclosure to Include Gift Trips](https://img.theepochtimes.com/assets/uploads/2024/05/30/id5659811-Clarence-Thomas-GettyImages-1431398148-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/supreme-court-justice-clarence-thomas-amends-disclosure-to-include-gift-trips-5664707)
-* [US Slaps Travel Bans on Georgian Officials for Undermining Democracy](https://www.theepochtimes.com/world/us-slaps-travel-bans-on-georgian-officials-for-undermining-democracy-5664586)
+    ![Bird Flu Confirmed in Wyoming Cattle Herd, 12th State to Record Infections](https://img.theepochtimes.com/assets/uploads/2024/04/24/id5636660-cattle-AP24107677450143-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/bird-flu-confirmed-in-wyoming-cattle-herd-12th-state-to-record-infections-5665111)
+* [Excess Weight Among Children Linked to Lower IQ: Study](https://www.theepochtimes.com/health/excess-weight-among-children-linked-to-lower-iq-study-5665029)
     
-    2hr By [Adam Morrow](https://www.theepochtimes.com/author/adam-morrow)
+    3hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
     
-    [![US Slaps Travel Bans on Georgian Officials for Undermining Democracy](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Excess Weight Among Children Linked to Lower IQ: Study](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![US Slaps Travel Bans on Georgian Officials for Undermining Democracy](https://img.theepochtimes.com/assets/uploads/2024/06/07/id5664657-07242023-DSC03061-Matthew-Miller-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/us-slaps-travel-bans-on-georgian-officials-for-undermining-democracy-5664586)
-* [Shortage of Skilled-Trade Workers Crippling Some Industries](https://www.theepochtimes.com/business/shortage-of-skilled-trade-workers-crippling-some-industries-5664577)
+    ![Excess Weight Among Children Linked to Lower IQ: Study](https://img.theepochtimes.com/assets/uploads/2023/06/28/id5361539-GettyImages-72133063-205x123.jpg.webp)](https://www.theepochtimes.com/health/excess-weight-among-children-linked-to-lower-iq-study-5665029)
+* [Wars and Trade Take Center Stage in Biden–Macron Meeting During State Visit](https://www.theepochtimes.com/us/wars-and-trade-take-center-stage-in-biden-macron-meeting-during-state-visit-5665105)
     
-    2hr By [Mark Gilman](https://www.theepochtimes.com/author/mark-gilman)
+    4hr By [Emel Akan](https://www.theepochtimes.com/author/emel-akan)
     
-    [![Shortage of Skilled-Trade Workers Crippling Some Industries](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Wars and Trade Take Center Stage in Biden–Macron Meeting During State Visit](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Shortage of Skilled-Trade Workers Crippling Some Industries](https://img.theepochtimes.com/assets/uploads/2024/06/07/id5664644-GettyImages-1237700364-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/business/shortage-of-skilled-trade-workers-crippling-some-industries-5664577)
-* [Biden Calls for Upholding Democracy in Normandy Cliff Speech](https://www.theepochtimes.com/us/biden-calls-for-upholding-democracy-in-normandy-speech-5664445)
+    ![Wars and Trade Take Center Stage in Biden–Macron Meeting During State Visit](https://img.theepochtimes.com/assets/uploads/2024/06/08/id5665110-Biden_Macron-in-Elysee-205x123.jpg.webp)](https://www.theepochtimes.com/us/wars-and-trade-take-center-stage-in-biden-macron-meeting-during-state-visit-5665105)
+* [Israel Rescues 4 Hostages in Gaza in Largest Recovery Operation Since Oct. 7](https://www.theepochtimes.com/world/israel-rescues-4-hostages-in-gaza-in-largest-recovery-operation-since-oct-7-post-5665106)
     
-    3hr By [Emel Akan](https://www.theepochtimes.com/author/emel-akan) and [Caden Pearson](https://www.theepochtimes.com/author/caden-pearson)
+    4hr By [Lorenz Duchamps](https://www.theepochtimes.com/author/lorenz-duchamps)
     
-    [![Biden Calls for Upholding Democracy in Normandy Cliff Speech](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Israel Rescues 4 Hostages in Gaza in Largest Recovery Operation Since Oct. 7](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Biden Calls for Upholding Democracy in Normandy Cliff Speech](https://img.theepochtimes.com/assets/uploads/2024/06/07/id5664631-2024-06-07T152643Z_2_LYNXMPEK560K2_RTROPTP_4_FRANCE-USA-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/biden-calls-for-upholding-democracy-in-normandy-speech-5664445)
-* [What to Expect in European Parliamentary Elections](https://www.theepochtimes.com/world/what-to-expect-in-european-parliamentary-elections-5664360)
+    ![Israel Rescues 4 Hostages in Gaza in Largest Recovery Operation Since Oct. 7](https://img.theepochtimes.com/assets/uploads/2024/06/08/id5665108-Israel-Rescue-205x123.jpg.webp)](https://www.theepochtimes.com/world/israel-rescues-4-hostages-in-gaza-in-largest-recovery-operation-since-oct-7-post-5665106)
+* [Consumer Agency Warns Financial Firms Over Deceptive ‘Fine Print’ in Contracts](https://www.theepochtimes.com/business/consumer-agency-warns-financial-firms-over-deceptive-fine-print-in-contracts-5664766)
     
-    3hr By [Ella Kietlinska](https://www.theepochtimes.com/author/ella-kietlinski), Epoch Times
+    6hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
     
-    [![What to Expect in European Parliamentary Elections](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Consumer Agency Warns Financial Firms Over Deceptive ‘Fine Print’ in Contracts](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![What to Expect in European Parliamentary Elections](https://img.theepochtimes.com/assets/uploads/2024/01/27/id5574977-GettyImages-1241453280-205x123.jpg.webp)](https://www.theepochtimes.com/world/what-to-expect-in-european-parliamentary-elections-5664360)
-* [This Nutrient Heals Wounds and Bolsters Immunity, Nearly Half of Americans Don't Get Enough](https://www.theepochtimes.com/health/vitamin-c-heals-wounds-and-bolsters-immunity-nearly-half-of-americans-dont-get-enough-5649863)
+    ![Consumer Agency Warns Financial Firms Over Deceptive ‘Fine Print’ in Contracts](https://img.theepochtimes.com/assets/uploads/2023/11/01/id5521362-10312023-DSC03023-CFPB-205x123.jpg.webp)](https://www.theepochtimes.com/business/consumer-agency-warns-financial-firms-over-deceptive-fine-print-in-contracts-5664766)
+* [Bipartisan Group of Senators Seeks Report on DOJ Actions Against CCP Intellectual Property Theft](https://www.theepochtimes.com/us/bipartisan-group-of-senators-wants-doj-to-outline-measures-against-ccp-intellectual-property-theft-5664616)
     
-    4hr By [Mercura Wang](https://www.theepochtimes.com/author/mercura-wang)
+    7hr By [Dorothy Li](https://www.theepochtimes.com/author/dorothy-li)
     
-    [![This Nutrient Heals Wounds and Bolsters Immunity, Nearly Half of Americans Don't Get Enough](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Bipartisan Group of Senators Seeks Report on DOJ Actions Against CCP Intellectual Property Theft](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![This Nutrient Heals Wounds and Bolsters Immunity, Nearly Half of Americans Don't Get Enough](https://img.theepochtimes.com/assets/uploads/2024/06/06/id5664027-Vitamin_c_feature_-_Fei_Meng-3-205x123.jpg.webp)](https://www.theepochtimes.com/health/vitamin-c-heals-wounds-and-bolsters-immunity-nearly-half-of-americans-dont-get-enough-5649863)
-* [US Economy Adds 272,000 New Jobs, Unemployment Ticks Up to 4 Percent in May](https://www.theepochtimes.com/business/us-economy-adds-272000-new-jobs-unemployment-ticks-up-to-4-percent-in-may-5664095)
+    ![Bipartisan Group of Senators Seeks Report on DOJ Actions Against CCP Intellectual Property Theft](https://img.theepochtimes.com/assets/uploads/2024/06/07/id5664647-GettyImages-2149319917-2-205x123.jpg.webp)](https://www.theepochtimes.com/us/bipartisan-group-of-senators-wants-doj-to-outline-measures-against-ccp-intellectual-property-theft-5664616)
+* [Fetal Abnormalities and Low Alcohol Exposure: Study](https://www.theepochtimes.com/health/fetal-abnormalities-and-low-alcohol-exposure-study-5656824)
     
-    6hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
+    7hr By [Zrinka Peters](https://www.theepochtimes.com/author/zrinka-peters)
     
-    [![US Economy Adds 272,000 New Jobs, Unemployment Ticks Up to 4 Percent in May](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Fetal Abnormalities and Low Alcohol Exposure: Study](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![US Economy Adds 272,000 New Jobs, Unemployment Ticks Up to 4 Percent in May](https://img.theepochtimes.com/assets/uploads/2024/06/07/id5664541-2024-06-07T050515Z_1_LYNXMPEK5604V_RTROPTP_4_USA-ECONOMY-1-OP-205x123.jpg.webp)](https://www.theepochtimes.com/business/us-economy-adds-272000-new-jobs-unemployment-ticks-up-to-4-percent-in-may-5664095)
-* [Court Rules Meta Must Face Lawsuit Over Fraudulent Ads](https://www.theepochtimes.com/us/court-rules-meta-must-face-lawsuit-over-fraudulent-ads-5664468)
+    ![Fetal Abnormalities and Low Alcohol Exposure: Study](https://img.theepochtimes.com/assets/uploads/2024/06/05/id5663309-shutterstock_488109652-205x123.jpg.webp)](https://www.theepochtimes.com/health/fetal-abnormalities-and-low-alcohol-exposure-study-5656824)
+* [Arkansas Supreme Court Lets Judges Ban Guns in Courtrooms](https://www.theepochtimes.com/us/arkansas-supreme-court-lets-judges-ban-guns-in-courtrooms-5664883)
     
-    7hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
+    10hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
-    [![Court Rules Meta Must Face Lawsuit Over Fraudulent Ads](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Arkansas Supreme Court Lets Judges Ban Guns in Courtrooms](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Court Rules Meta Must Face Lawsuit Over Fraudulent Ads](https://img.theepochtimes.com/assets/uploads/2024/06/07/id5664636-01312024-DSC03441-Mark-ZuckerbergKO-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/court-rules-meta-must-face-lawsuit-over-fraudulent-ads-5664468)
-* [Cows With Bird Flu Have Died in 5 US States: Officials](https://www.theepochtimes.com/health/cows-with-bird-flu-have-died-in-5-us-states-officials-5664437)
+    ![Arkansas Supreme Court Lets Judges Ban Guns in Courtrooms](https://img.theepochtimes.com/assets/uploads/2022/06/01/handgun-in-holster-205x123.jpg.webp)](https://www.theepochtimes.com/us/arkansas-supreme-court-lets-judges-ban-guns-in-courtrooms-5664883)
+* [Bipartisan Congressional Baseball Game Provides Respite From Hyper-Partisanship](https://www.theepochtimes.com/us/sked-8-a-m-june-8-bipartisan-congressional-baseball-game-provides-respite-from-hyper-partisanship-5661593)
     
-    8hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
+    10hr By [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman)
     
-    [![Cows With Bird Flu Have Died in 5 US States: Officials](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Bipartisan Congressional Baseball Game Provides Respite From Hyper-Partisanship](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Cows With Bird Flu Have Died in 5 US States: Officials](https://img.theepochtimes.com/assets/uploads/2024/06/07/id5664542-dairy-cow-OP-205x123.jpg.webp)](https://www.theepochtimes.com/health/cows-with-bird-flu-have-died-in-5-us-states-officials-5664437)
+    ![Bipartisan Congressional Baseball Game Provides Respite From Hyper-Partisanship](https://img.theepochtimes.com/assets/uploads/2024/06/07/id5664347-unnamed-61-205x123.jpg.webp)](https://www.theepochtimes.com/us/sked-8-a-m-june-8-bipartisan-congressional-baseball-game-provides-respite-from-hyper-partisanship-5661593)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
