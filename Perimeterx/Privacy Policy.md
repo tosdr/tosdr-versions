@@ -662,7 +662,7 @@ THE HUMAN DEFENSE PLATFORM
 
 Our suite of modular solutions provides advanced analytics and drill-down paths to identify emerging threats. Fine-tune your security posture and fraud prevention with controls specifically tailored to meet your policy and compliance requirements.
 
-[Explore the Platform](https://www.humansecurity.com/platform-old)
+[Explore the Platform](https://www.humansecurity.com/platform)
 
 THE HUMAN ADVANTAGE
 
@@ -759,7 +759,7 @@ Your business needs protection from fraud, bot attacks, and account abuse.
 
 ##### HUMAN enables you to do it all.
 
-[Get to know HUMAN](https://www.humansecurity.com/company/about-old)
+[Get to know HUMAN](https://www.humansecurity.com/company/about)
 
 [Explore the Platform](https://www.humansecurity.com/platform-old)
 
