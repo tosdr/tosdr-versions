@@ -12,13 +12,11 @@
     
 * Sell
     
-    [Sell on Lulu](https://www.lulu.com/sell/sell-on-lulu)[Sell on Your Site](https://www.lulu.com/sell/sell-on-your-site)[Retail Distribution](https://www.lulu.com/sell/retail-distribution)[Crowdfunding](https://www.lulu.com/resources/kickstarter)
-    
-* B2B
+    [Sell on Lulu](https://www.lulu.com/sell/sell-on-lulu)[Sell Direct](https://www.lulu.com/sell/sell-on-your-site)[Retail Distribution](https://www.lulu.com/sell/retail-distribution)[Order Import](https://www.lulu.com/sell/order-import)[API Printing](https://www.lulu.com/sell/sell-on-your-site/print-api)[Crowdfunding](https://www.lulu.com/resources/kickstarter)
     
 * Resources
     
-    [Knowledge Base](https://help.lulu.com/en/support/home)[Guides & Templates](https://www.lulu.com/publishing-toolkit)[Author Toolkit](https://www.lulu.com/author-toolkit)[Hire A Pro](https://www.lulu.com/partners)[Glossary of Publishing Terms](https://www.lulu.com/glossary/glossary-of-terms)[Lulu University](https://www.youtube.com/@Luludotcom)[Blog](https://blog.lulu.com/)[Contact Support](https://help.lulu.com/en/support/tickets/new)
+    [Knowledge Base](https://help.lulu.com/en/support/home)[Guides & Templates](https://www.lulu.com/publishing-toolkit)[Author Toolkit](https://www.lulu.com/author-toolkit)[Hire A Professional](https://www.lulu.com/partners)[Glossary of Publishing Terms](https://www.lulu.com/glossary/glossary-of-terms)[Videos](https://www.youtube.com/@Luludotcom)[Blog](https://blog.lulu.com/)[Contact Support](https://help.lulu.com/en/support/tickets/new)
     
 * Bookstore
     
@@ -214,7 +212,7 @@ At all times, you are responsible for updating your Personal Data to provide us 
 
 The Site is controlled and operated by us from the United States of America, and is not intended to subject us to the laws or jurisdiction of any state, country or territory other than that of the United States of America. We do not represent or warrant that the Site, or any part of the Site, is appropriate or available for use in any particular jurisdiction. Those who choose to access the Site do so on their own initiative and at their own risk, and are responsible for complying with all local laws, rules and regulations. We may limit the Site's availability, in whole or in part, to any person, geographic area or jurisdiction we choose, at any time and in our sole discretion.
 
-[About Us](https://www.lulu.com/about-us)[Contact Support](https://help.lulu.com/en/support/tickets/new)[Newsroom](https://www.lulu.com/newsroom)[Work at Lulu](https://www.lulu.com/careers)[Developers](https://developers.lulu.com/home)
+[About Us](https://www.lulu.com/about-us)[Contact Support](https://help.lulu.com/en/support/tickets/new)[Newsroom](https://www.lulu.com/newsroom)[Careers](https://www.lulu.com/careers)[Developers](https://developers.lulu.com/home)
 
 English
 
