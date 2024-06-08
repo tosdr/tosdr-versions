@@ -3,30 +3,30 @@
         
         [London concerts](https://www.songkick.com/metro-areas/24426-uk-london) [London concerts](https://www.songkick.com/metro-areas/24426-uk-london "London concerts")
         
-        *  [![The Simon and Garfunkel Story live](//assets.sk-static.com/images/default_images/thumb/default-artist.png) The Simon and Garfunkel Story  
-            London Palladium](https://www.songkick.com/concerts/41960949-simon-and-garfunkel-story-at-london-palladium)
         *  [![Jon Tye live](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Jon Tye  
             Total Refreshment Centre](https://www.songkick.com/concerts/41980567-jon-tye-at-total-refreshment-centre)
-        *  [![Lunar June live](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Lunar June  
-            Paper Dress Vintage](https://www.songkick.com/concerts/41957807-lunar-june-at-paper-dress-vintage)
-        *  [![freddy k live](//assets.sk-static.com/images/default_images/thumb/default-artist.png) freddy k  
-            Fold](https://www.songkick.com/concerts/41962928-freddy-k-at-fold)
-        *  [![Silveroller live](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Silveroller  
-            The Grace](https://www.songkick.com/concerts/41967020-silveroller-at-grace)
-        *  [![Bayymack live](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Bayymack  
-            The George Tavern](https://www.songkick.com/concerts/41923763-bayymack-at-george-tavern)
+        *  [![George Murphy live](//assets.sk-static.com/images/default_images/thumb/default-artist.png) George Murphy  
+            Irish Cultural Centre](https://www.songkick.com/concerts/41987615-george-murphy-at-irish-cultural-centre)
+        *  [![Secreum live](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Secreum  
+            The Black Heart](https://www.songkick.com/concerts/41967103-secreum-at-black-heart)
+        *  [![Santacruz live](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Santacruz  
+            Sebright Arms](https://www.songkick.com/concerts/41986954-santacruz-at-sebright-arms)
+        *  [![Rat Cage live](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Rat Cage  
+            New River Studios](https://www.songkick.com/concerts/41962732-rat-cage-at-new-river-studios)
+        *  [![Daniel Kitson live](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Daniel Kitson  
+            Union Chapel](https://www.songkick.com/concerts/41956187-daniel-kitson-at-union-chapel)
+        *  [![white devil disco live](//assets.sk-static.com/images/default_images/thumb/default-artist.png) white devil disco  
+            Paper Dress Vintage](https://www.songkick.com/concerts/41984147-white-devil-disco-at-paper-dress-vintage)
         *  [![THE SICK ROSE live](//assets.sk-static.com/images/default_images/thumb/default-artist.png) THE SICK ROSE  
             Troubadour London](https://www.songkick.com/concerts/41978696-sick-rose-at-troubadour-london)
-        *  [![doops live](//assets.sk-static.com/images/default_images/thumb/default-artist.png) doops  
-            The Victoria, Dalston](https://www.songkick.com/concerts/41966728-doops-at-victoria-dalston)
-        *  [![Bastien live](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Bastien  
-            The Finsbury](https://www.songkick.com/concerts/41966676-bastien-at-finsbury)
-        *  [![Plumm live](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Plumm  
-            Hootananny](https://www.songkick.com/concerts/41967686-plumm-at-hootananny)
+        *  [![The Mopes live](//assets.sk-static.com/images/default_images/thumb/default-artist.png) The Mopes  
+            Troubadour London](https://www.songkick.com/concerts/41960974-mopes-at-troubadour-london)
+        *  [![Silveroller live](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Silveroller  
+            The Grace](https://www.songkick.com/concerts/41967020-silveroller-at-grace)
         
         [](https://www.songkick.com/metro-areas/24426-uk-london)See all London concerts ([Change location](https://www.songkick.com/session/filter_metro_area))  
           
-        [Today ·](https://www.songkick.com/en/metro-areas/24426-uk-london?filters%5BmaxDate%5D=06%2F07%2F2024&filters%5BminDate%5D=06%2F07%2F2024#date-filter-form) [Next 7 days ·](https://www.songkick.com/en/metro-areas/24426-uk-london?filters%5BmaxDate%5D=06%2F14%2F2024&filters%5BminDate%5D=06%2F07%2F2024#date-filter-form) [Next 30 days](https://www.songkick.com/en/metro-areas/24426-uk-london?filters%5BmaxDate%5D=07%2F07%2F2024&filters%5BminDate%5D=06%2F07%2F2024#date-filter-form)
+        [Today ·](https://www.songkick.com/en/metro-areas/24426-uk-london?filters%5BmaxDate%5D=06%2F08%2F2024&filters%5BminDate%5D=06%2F08%2F2024#date-filter-form) [Next 7 days ·](https://www.songkick.com/en/metro-areas/24426-uk-london?filters%5BmaxDate%5D=06%2F15%2F2024&filters%5BminDate%5D=06%2F08%2F2024#date-filter-form) [Next 30 days](https://www.songkick.com/en/metro-areas/24426-uk-london?filters%5BmaxDate%5D=07%2F08%2F2024&filters%5BminDate%5D=06%2F08%2F2024#date-filter-form)
         
     * [Artists](https://www.songkick.com/artists)
         
