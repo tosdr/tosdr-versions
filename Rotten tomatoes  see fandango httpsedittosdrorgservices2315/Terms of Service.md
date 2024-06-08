@@ -22,6 +22,7 @@ Go to previous offer
 *  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Buy a ticket to Illumination’s Despicable Me 4** Chance to win a Universal theme park vacation
 *  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Buy a ticket to Inside Out 2** Win a Pixar Fest trip for 4 at Pixar Place Hotel
 *  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Save $8 on Despicable Me and Minions Films** When you buy a ticket to Despicable Me 4
+*  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Buy a ticket to Bad Boys: Ride or Die** Get $5 off the Bad Boys 4-Movie Collection
 *  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Buy a ticket to Deadpool & Wolverine** Get $12 off Deadpool 2-Film Collection
 *  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Get any select horror titles for $5 each** When you buy a ticket to Tarot
 *  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Gift, Give or Receive a ticket to The Forge** With The Kingdom Builders Gifted Ticket Program
@@ -57,14 +58,6 @@ Offers
 
 [SEE ALL OFFERS](https://www.fandango.com/offers)
 
-* [NBC'S COVERAGE OF THE PARIS OLYMPICS image link ![NBC'S COVERAGE OF THE PARIS OLYMPICS](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/717f5460-21fc-11ef-a07e-5b03d6159fe4--fan-globalofferunit-homepage-amcdailyolympics-292x118.png)](https://www.fandango.com/paris-olympics-on-nbc-at-amc-theatres-2024-236338/movie-overview?cmp=TARS~FANDANGO~AMCDailyOlympics_Footer) 
-    
-    ### NBC'S COVERAGE OF THE PARIS OLYMPICS
-    
-    Get tickets now for the live broadcasts in AMC Theatres!
-    
-    [BUY NOW](https://www.fandango.com/paris-olympics-on-nbc-at-amc-theatres-2024-236338/movie-overview?cmp=TARS~FANDANGO~AMCDailyOlympics_Footer)
-    
 * [GET DEADPOOL'S PREMIUM PACKAGE image link ![GET DEADPOOL'S PREMIUM PACKAGE](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/da59af90-13af-11ef-a14e-3f3f55d13640--fan-globalofferunit-homepage-deadpoolpackage-292x118.png)](https://deadpoolandwolverine.fandango.egifter.com/?cmp=TARS~FANDANGO~DeadpoolMicrosite_Footer) 
     
     ### GET DEADPOOL'S PREMIUM PACKAGE
@@ -73,13 +66,21 @@ Offers
     
     [BUY NOW](https://deadpoolandwolverine.fandango.egifter.com/?cmp=TARS~FANDANGO~DeadpoolMicrosite_Footer)
     
-* [SAVE $8 ON SELECT FANDANGO AT HOME DESPICABLE ME AND MINIONS FILMS image link ![SAVE $8 ON SELECT FANDANGO AT HOME DESPICABLE ME AND MINIONS FILMS](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/0a787470-22c6-11ef-ab6e-6bc4e16d49df--fan-globalofferunit-homepage-despicableme4gwp-292x118.png)](https://www.fandangomovietickets.com/DM4FAHGWPOffer?cmp=TARS~FANDANGO~DM4GWP_Footer) 
+* [NBC'S COVERAGE OF THE PARIS OLYMPICS image link ![NBC'S COVERAGE OF THE PARIS OLYMPICS](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/717f5460-21fc-11ef-a07e-5b03d6159fe4--fan-globalofferunit-homepage-amcdailyolympics-292x118.png)](https://www.fandango.com/paris-olympics-on-nbc-at-amc-theatres-2024-236338/movie-overview?cmp=TARS~FANDANGO~AMCDailyOlympics_Footer) 
     
-    ### SAVE $8 ON SELECT FANDANGO AT HOME DESPICABLE ME AND MINIONS FILMS
+    ### NBC'S COVERAGE OF THE PARIS OLYMPICS
     
-    Buy a Ticket, Save $8 on Select Fandango at Home Despicable Me and Minions Films to stream at home.
+    Get tickets now for the live broadcasts in AMC Theatres!
     
-    [BUY TICKETS](https://www.fandangomovietickets.com/DM4FAHGWPOffer?cmp=TARS~FANDANGO~DM4GWP_Footer)
+    [BUY NOW](https://www.fandango.com/paris-olympics-on-nbc-at-amc-theatres-2024-236338/movie-overview?cmp=TARS~FANDANGO~AMCDailyOlympics_Footer)
+    
+* [SAVE $5 ON BAD BOYS 4-MOVIE COLLECTION image link ![SAVE $5 ON BAD BOYS 4-MOVIE COLLECTION](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/501c40f0-242a-11ef-a588-3b078e6b3d8a--fan-globalofferunit-homepage-badboys4-gwp-292x118.png)](https://www.fandangomovietickets.com/BadBoys4GWP?cmp=TARS~FANDANGO~BadBoys4GWP_Footer) 
+    
+    ### SAVE $5 ON BAD BOYS 4-MOVIE COLLECTION
+    
+    Buy a ticket to Bad Boys: Ride or Die on Fandango and get $5 off the Bad Boys 4-Movie Collection
+    
+    [BUY TICKETS](https://www.fandangomovietickets.com/BadBoys4GWP?cmp=TARS~FANDANGO~BadBoys4GWP_Footer)
     
 * [SAVE $12 ON DEADPOOL 2-FILM COLLECTION image link ![SAVE $12 ON DEADPOOL 2-FILM COLLECTION](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/edee52f0-22c7-11ef-ab6e-6bc4e16d49df--fan-globalofferunit-homepage-deadpoolgwp-292x118.png)](https://www.fandangomovietickets.com/DeadpoolFAHGWP?cmp=TARS~FANDANGO~DeadpoolFAHGWP_Footer) 
     
@@ -236,6 +237,16 @@ Close
 #### Buy a ticket to Despicable Me 4 from June 5 - July 15 for $8 off t $8 off Despicable Me, Despicable Me 2, Despicable Me 3, Minions, & Minions: The Rise of Gru. Promo code expires on July 20, 2024.
 
 \*Limited time offer. Purchase one or more movie tickets to see ‘Despicable Me 4’ using your account on Fandango.com or the Fandango app between 9:00am PT on 6/5/24 and 11:59pm PT on 7/15/24 (the “Offer Period”) and receive a post-purchase email containing one (1) Fandango at Home Promotional Code (“Code”) that, once activated, is good for $8 off the purchase (and not the rental) of the Despicable Me and Minions films (including Despicable Me, Despicable Me 2, Despicable Me 3, Minions, & Minions: The Rise of Gru) in My Offers in your account on http://fandangoathome.com and via participating Fandango at Home apps. Code expires on (and must be used by) 7/20/24 at 11:59pm PT. You must have, and be logged into, your Fandango account at time of ticket purchase to receive a Code. Fandango is free to join; you must be 18 years of age to open a Fandango account. Limit one Code per movie ticket purchase. You may have to pay taxes additionally. Void where prohibited. Offer is non-transferable and cannot be combined with any other offer or discount. No cash value, except as required by law. Not for resale; void if sold or exchanged. Offer valid in the U.S. only. You must have a Fandango at Home account to redeem your Code on Fandango at Home. Fandango at Home is free to join; you must be 18 years of age or older to open a Fandango at Home account. Credit card may be required for transactions on fandangoathome.com. Fandango reserves the right to modify or cancel this offer at any time and without notice. This offer and redemption of the Code is subject to Fandango’s Terms and Policies and Privacy Policy at https://www.fandango.com/policies/terms-and-policies. [Buy Tickets](https://www.fandangomovietickets.com/DM4FAHGWPOffer?cmp=TARS~FANDANGO~DM4GWP_GlobalNav)
+
+### Save $5 on Bad Boys 4-Movie Collection
+
+Close
+
+![Buy a ticket to Bad Boys: Ride or Die](https://images.fandango.com/cms/assets/509b0f10-2444-11ef-a07e-5b03d6159fe4--fan-globalnavbar-badboys4-gwp-343x362.jpg)
+
+#### Buy a ticket to Bad Boys: Ride or Die on Fandango and get $5 off the Bad Boys 4-Movie Collection
+
+Limited time offer. Fandango movie ticket purchase to ‘Bad Boys: Ride or Die’ must be made between 9:00am PT on 6/7/24 and 11:59pm PT on 7/22/24 (the “Offer Period”). Purchaser will receive a post purchase email containing 1 Fandango at Home Promotional Code (“Code”) that is good for the purchase (and not the rental) of Bad Boys 4-Movie Collection for $34.99 in My Offers in your account on http://FandangoatHome.com and via participating Fandango at Home apps. When you purchase the bundle, you will receive viewing access to Bad Boys, Bad Boys II, and Bad Boys for Life immediately, and will have a pre-order for Bad Boys: Ride or Die so that you can view it when the studio makes it available. Code expires on (and must be used by) 7/27/24 at 11:59pm PT. Limit one per transaction. You may have to pay taxes additionally. One-time use only. Void where prohibited. Offer is non-transferable and cannot be combined with any other offer or discount. No cash value, except as required by law. Not for resale; void if sold or exchanged. Offer valid in the U.S. only. You must have a Fandango at Home account to redeem your Code on Fandango at Home. Fandango at Home is free to join; you must be 18 years of age or older to open a Fandango at Home account. Credit card may be required for transactions on FandangoatHome.com. Fandango at Home reserves the right to modify or cancel this offer at any time and without notice. This offer is subject to Fandango at Home Terms and Policies and Privacy Policy at Terms and Policies at http://www.fandango.com/terms-and-policies. [Buy Tickets](https://www.fandangomovietickets.com/BadBoys4GWP?cmp=TARS~FANDANGO~BadBoys4GWP_GlobalNav)
 
 ### Special Offer
 
