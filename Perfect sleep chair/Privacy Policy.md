@@ -1,4 +1,4 @@
-![](https://p.alocdn.com/c/mm7och2x/a/etarget/p.gif?label=journeyhlthlife)                   
+![](https://p.alocdn.com/c/mm7och2x/a/etarget/p.gif?label=journeyhlthlife)                        
 
 [Skip to content](#MainContent)
 
@@ -455,7 +455,7 @@ Zone Comparison
 
 Two Zones of Relaxation for Classic Comfort
 
-![Two Zones](//www.shopjourney.com/cdn/shop/t/75/assets/two_zones.png?25060)
+![Two Zones](//www.shopjourney.com/cdn/shop/t/75/assets/two_zones.png?25061)
 
 Five Zones of Relaxation for Ultimate Enjoyment
 
