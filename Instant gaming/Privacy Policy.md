@@ -64,7 +64,7 @@ and
 
  In stock
 
-All Games and DLC Only DLC Only games Pre-orders Top-ups Subscriptions Top-ups & Subscriptions
+All Games and DLC Only DLC Only games Pre-orders Gift cards Subscriptions Gift cards & Subscriptions
 
  [Reset filters](https://www.instant-gaming.com/en/search/)
 
