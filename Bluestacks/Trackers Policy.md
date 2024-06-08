@@ -764,9 +764,9 @@ Unlock your PC's gaming potential. And yours too.
     
     [YouTube
     
-    126K](https://www.youtube.com/channel/UC9eB0Ysv4UcKgjEy47zcZ5A?sub_confirmation=1)
+    127K](https://www.youtube.com/channel/UC9eB0Ysv4UcKgjEy47zcZ5A?sub_confirmation=1)
     
 
 © 2024 BlueStacks name and logo are registered trademarks of now.gg, inc
 
-[Terms and Privacy](https://www.bluestacks.com/terms-and-privacy.html) | [Copyright Dispute Policy](https://www.bluestacks.com/copyright-dispute-policy.html) | [EU Privacy](https://www.bluestacks.com/terms-and-privacy.html#eu-privacy)
+[Terms and Privacy](https://www.bluestacks.com/terms-and-privacy.html) | [Copyright Dispute Policy](https://www.bluestacks.com/copyright-dispute-policy.html) | [EU Privacy](https://www.bluestacks.com/terms-and-privacy.html#eu-privacy) | Do Not Sell My Information
