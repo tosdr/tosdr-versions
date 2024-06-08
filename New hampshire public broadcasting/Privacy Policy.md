@@ -184,15 +184,15 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 
 ###### LATEST VIDEO
 
+* [**full episode, 6/7/24** | Washington Week with The Atlantic](https://video.nhpbs.org/video/washington-week-with-the-atlantic-full-episode-6724-viydbr?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Exploding soda cans with electromagnets in SLOW MOTION ft Joe Hanson** | Physics Girl](https://video.nhpbs.org/video/exploding-soda-cans-with-electromagnets-in-slow-motion-ft-joe-hanson-5nl5hb?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Proud to Be Preview** | Stories from the Stage](https://video.nhpbs.org/video/stories-from-the-stage-proud-to-be-preview?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**June 7, 2024 - full episode** | PBS NewsHour](https://video.nhpbs.org/video/june-7-2024-pbs-newshour-full-episode-1717732801?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**State House Update - 6/5/24** | The State We're In](https://video.nhpbs.org/video/state-house-update-6524-m0hnp1?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**June 7, 2024** | Amanpour and Company](https://video.nhpbs.org/video/june-7-2024-xyxcnj?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**forum: Examining The Electoral College** | Firing Line](https://video.nhpbs.org/video/firing-line-forum-examining-the-electoral-college-q4hcxo?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**La Lucha Trailer** | Doc World](https://video.nhpbs.org/video/doc-world-la-lucha-trailer?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**News Wrap: Severe storms cause damage in several states** | PBS NewsHour](https://video.nhpbs.org/video/news-wrap-1717710148?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**at the Met: Carmen Preview** | Great Performances](https://video.nhpbs.org/video/great-performances-at-the-met-carmen-preview-fjwqzv?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Our Rocky Seacoast** | Windows to the Wild](https://video.nhpbs.org/video/windows-wild-our-rocky-seacoast?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**June 5, 2024** | Amanpour and Company](https://video.nhpbs.org/video/june-5-2024-itwluc?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Waste Not, Want Not** | The State We're In](https://video.nhpbs.org/video/waste-not-want-not-jtr2xd?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**What's Ahead in Season 9** | Grantchester](https://video.nhpbs.org/video/whats-ahead-in-season-9-tk60ed?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Total Eclipse in the Heart of Texas Hill Country** | NOVA](https://video.nhpbs.org/video/total-eclipse-in-the-heart-of-texas-hill-country-um3hrt?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Love, Jamie** | American Masters](https://video.nhpbs.org/video/love-jamie-qxboe7?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 
 **FCC Public File Info**: [WENH](https://publicfiles.fcc.gov/tv-profile/wenh-tv) | [WLED](https://publicfiles.fcc.gov/tv-profile/wled-tv) | [WEKW](https://publicfiles.fcc.gov/tv-profile/wekw-tv) | [EEO Public File Report](https://publicfiles.fcc.gov/tv-profile/wenh-tv/equal-employment-opportunity-records/additional-documents/eeo-public-file-reports/5d0f4964-7b9d-41c3-c658-a55a34730f8a/) | For assistance, please email [themailbox@nhpbs.org](mailto:themailbox@nhpbs.org)
 
