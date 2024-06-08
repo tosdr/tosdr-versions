@@ -61,7 +61,7 @@
     * [South America](https://www.capitalismmagazine.com/world/south-america/)
     * [United Nations](https://www.capitalismmagazine.com/world/united-nations/)
     * [All WORLD >](https://www.capitalismmagazine.com/world/)
-* [X](https://twitter.com/CapitalismMag)
+* [](https://twitter.com/CapitalismMag)
 
 [![](https://www.capitalismmagazine.com/wp-content/uploads/2024/06/banner-capitalism-tour-728x90-1.jpg "Capitalism Tour")](https://www.capitalism.org/)
 
