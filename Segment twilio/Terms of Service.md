@@ -139,7 +139,7 @@
         
         Deliver notifications across text, email, voice.](https://segment.com/en-us/use-cases/alerts-and-notifications)
         
-        [Appointment reminders](https://segment.com/en-us/use-cases/appointment-reminders)
+        [Appointment reminders](https://segment.com/en-us/use-cases/appointment-reminders) [Lead alerts](https://segment.com/en-us/use-cases/lead-alerts)
         
     * [**Marketing & promotions**
         
@@ -488,7 +488,7 @@ Data is collected based on search terms. [Privacy Policy](https://segment.com/e
         
         Deliver notifications across text, email, voice.](https://segment.com/en-us/use-cases/alerts-and-notifications)
         
-        [Appointment reminders](https://segment.com/en-us/use-cases/appointment-reminders)
+        [Appointment reminders](https://segment.com/en-us/use-cases/appointment-reminders) [Lead alerts](https://segment.com/en-us/use-cases/lead-alerts)
         
     * [**Marketing & promotions**
         
