@@ -310,7 +310,7 @@ In accordance with Applicable Laws, We reserve the right to charge an administra
 
 You may exercise Your right to delete Your account through Our Application. Should You encounter any difficulties during this process, including losing access to the Application, You may submit Your account deletion request:
 
-1. If Your account is registered with Our service in **Indonesia**, You may submit Your request through [the following website;](https://goto-privacy.my.onetrust.com/webform/5dff103c-2a09-4851-a961-b111ef81c289/aa52c6a3-5107-415a-85b3-6c70170646a5)
+1. If Your account is registered with Our service in **Indonesia**, You may submit Your request through [the following website;](https://goto-privacy.my.onetrust.com/webform/5dff103c-2a09-4851-a961-b111ef81c289/3ffe4905-46be-4948-9e66-ba7278386c3e)
 2. If your account is registered with Our service in **Singapore**, You may submit Your request through [the following website;](https://goto-privacy.my.onetrust.com/webform/5dff103c-2a09-4851-a961-b111ef81c289/fae98f72-b296-4284-ba58-55e1f16e72c0) and/or
 3. If your account is registered with our service in **Vietnam**, You may submit Your request through [the following website.](https://goto-privacy.my.onetrust.com/webform/5dff103c-2a09-4851-a961-b111ef81c289/aa52c6a3-5107-415a-85b3-6c70170646a5)
 
