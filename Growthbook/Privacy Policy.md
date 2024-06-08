@@ -1,4 +1,4 @@
-[![](https://assets-global.website-files.com/65b7ac22fd61413f7db83b81/65b7f3298189c83ce56fd784_GB-Logo-White%201.svg)](https://www.growthbook.io/)
+[![](https://cdn.prod.website-files.com/65b7ac22fd61413f7db83b81/65b7f3298189c83ce56fd784_GB-Logo-White%201.svg)](https://www.growthbook.io/)
 
 Product
 
@@ -16,229 +16,138 @@ Resources
 
 [Sign in](https://app.growthbook.io/)[Get Started](https://www.growthbook.io/get-started)
 
-Privacy Policy
+Privacy Notice
 ==============
 
-**Effective Jan. 1, 2020**  
-  
-GrowthBook, LLC and its subsidiaries and affiliates (“Growth Book”, “we”, or “us”) knows that you value your privacy. This privacy policy explains the information we collect through the websites available via growthbook.io and its subdomains as well as through other GrowthBook-managed websites or pages where this privacy policy is posted or linked (collectively, the “Sites”). This policy also describes the information collected from or on behalf of end users of our software-as-a-service products (the “GrowthBook Services”).  
-  
-This policy describes how the above information is collected, used, shared, and secured, as well as your related choices regarding use, access and correction. This policy does not apply to the information GrowthBook receives from the third-party websites, mobile apps and other digital products that use the GrowthBook Services. When our customers use the GrowthBook Service on their own websites and products, they remain responsible for their own privacy and security practices, which may differ from ours. You should consult the relevant privacy policies on our customers' websites and products to find out more about their privacy practices and your related choices. For more information, please consult Data Subject Rights - Third Party End Users.
+December 5, 2023
 
-1\. Information We Collect
---------------------------
+**PRIVACY NOTICE**
 
-We collect the following categories of information, which may be considered personal information when maintained in identifiable form:  
-  
-first name and surname, username and password, email address, contact information, country of residence, job title, and other information you provide us when you create an account on the Sites or GrowthBook Services, sign-up to receive communications or materials from us, or otherwise submit a form to us;  
-  
-Transaction and payment information you provide when purchasing a product or service from us, whether on our Sites or elsewhere. This information may include the information listed above as well as payment information;  
-  
-Content and information that you submit when using the Sites or the GrowthBook Services; this information includes, for example, information you provide in any blogs or forums on the Sites, comments you add on the GrowthBook Service, information you provide when you participate in any interactive features or surveys, and information you submit when filing a support ticket;  
-  
-Usage, viewing, logs, metrics and other device and technical data collected when you visit our Sites, use the GrowthBook Service as an end user, or open or reply to emails we send. This may include information such as your web request, Internet Protocol (“IP”) address, device identifiers, device information (such as OS type or browser type), cookie IDs, referring / exit pages and URLs, interaction information (such as clickstream data), domain names, pages viewed, crash data, and other similar technical data;  
-  
-Information about you and your company collected from third party or public sources or that we receive from companies that partner with us to provide products and services; this may include information about you and your company we receive from our advertising and market research partners, who may provide us with information about your interest in and engagement with our online advertisements; and  
-  
-Location information when you visit our Sites or use our Growth Book Service, including location information either provided by a mobile device interacting with one of our sites or applications or associated with your IP address.  
-  
-We may also collect non-personally identifiable information. We may use both personal information and non-personally identifiable information to create aggregate information.
+At **Growthbook, LLC** (“we”, “us”, or “Growthbook”) we take your privacy very seriously. Please read this privacy notice carefully as it contains important information on how and why we collect, store, use, and share your personal information. It also explains your rights in relation to your personal information.
 
-2\. Information We Collect
---------------------------
+By using the www.growthbook.io website (“Site”) and any related services and/or features (together with the Site, the "Service") you acknowledge that you accept the practices and policies outlined in this Privacy Notice. If you have any questions or comments about this Privacy Notice or our use of your data, please contact us at privacy@growthbook.io. 
 
-We collect information from you when you submit it to us, for example, when you request products, services, or information from us, register for an account, register to participate in a conference on our Site, participate in public forums on the Site, or respond to our customer surveys.  
-  
-We may also:
+When our customers use the GrowthBook Services on their own websites and products, they remain responsible for their own privacy and security practices, which may differ from ours.
 
-* automatically collect usage, analytics, viewing, logs, metrics and other device and technical data when you access our Sites or use the GrowthBook Service as an end user. For example, when you access our Sites or log into the GrowthBook Service, our servers will automatically record certain information about your device and browser, and we may collect usage, clickstream, event data, crash data, and other technical data, and
-    
-* automatically acquire information when you reply to or interact with an email we send, such as to track your engagement with our messages or when your replies to our messages contain additional email addresses.
-    
+1. **Personal Information We Collect About You.** We may collect and use the following personal information that identifies, relates to, describes, is reasonable capable of being associated with, or could reasonably be linked, directly or indirectly, with a particular consumer or household:
 
-3\. How We Use Information
---------------------------
+* User Account Data: We collect name, email address, IP address, and job title when creating user accounts. 
+* Additional Data You Provide: additional personal data may be collected through customer support, feedback that you provide, interacting with forms on our website and responses to surveys, questionnaires and submitting support tickets.
+* Personal Data Provided by Others: we receive information about you and your company collected from third party or public sources or that we receive from companies that partner with us to provide products and services. This may include information from our advertising and market research partners, who may provide us with information about your interest in and engagement with our online advertisements.
+* Transaction and Payment information: We may collect information and details associated with your purchases, including payment-related information collected by our third-party payment processors on our behalf. We do not directly collect or store any payment card information but may receive billing address, tax id numbers, or other non-sensitive information associated with your payment card from our third-party processors. 
+* Automatically Collected Data: Whenever you interact with the Service, we automatically receive and store certain types of information, including information that your browser automatically sends. Such information may include information such as your web request, Internet Protocol (“IP”) address, device identifiers, location information, device information (such as OS type or browser type), cookie IDs, referring / exit pages and URLs, interaction information (such as clickstream data), domain names, pages viewed, crash data, and other similar technical data. We also collect usage, viewing, logs, metrics and other device and technical data collected when you visit our Sites, use the GrowthBook Service as an end user, or open or reply to emails we send.
+* We may also collect non-personally identifiable information. We may use both personal information and non-personally identifiable information to create aggregate information.
 
-We may use the information collected to:
+2. **How Your Personal Information is Collected.** We collect this personal information directly from users through our website and email. However, we may also collect information automatically:
 
-* process your orders and requests and respond to your questions and concerns; for example, if you inquire about our services or submit an application to GrowthBook, we may use your data to respond to and process these requests;
-    
-* provide you with products and services, and personalize your experience; for example, we may use information on your prior activities or job function to tailor the features and content on the GrowthBook Services or Sites, or we may use technical data to remember your preferences;
-    
-* communicate with you about your account or transactions, and provide you with product-related communications, such as information about new features and policy updates;
-    
-* operate, maintain, analyze, develop, update and improve our product, the GrowthBook Service, and other products and services we offer. For example, we may administer and track users’ activities on our Sites and the GrowthBook Service to determine how to improve our content and features, or we may analyze trends and gather demographic information about our user base to better tailor our marketing efforts;
-    
-* detect, investigate and prevent activities that may violate our policies, including our Acceptable Use Policy, or applicable laws (such as fraud detection and prevention) or that may threaten the security, integrity or availability of our or another party’s products, systems and services;
-    
-* send you news, updates, promotions, product information, event announcements, and other marketing communications. Please see the section entitled "Your Controls and Choices" for an explanation of your choices relating to these communications;
-    
-* act pursuant to your consent for a specific purpose not listed in this policy. For example, with your consent, we may post your testimonial along with your name on our Sites. If you wish to update or delete your testimonial, please contact us as explained below; and
-    
-* perform the activities described in our Cookie Policy.
-    
+* Cookies and similar technologies: like many online services, we use cookies on our website, which automatically collect certain types of usage and device information when you use our Services, including IP address, browser type, Internet service provider, platform type, device type, operating system, date and time stamp, a unique device or account ID, usage information and other similar information; and
+* Via our services: We collect information about user activity on our services, including actions (like logging in, logging out, time on site, pages or features accessed, time and date of access, and other similar usage information). We use this information to provide, improve, and promote our services.  
+    ‍
 
-We also use aggregated information, such as usage data, for other lawful purposes, such as to create blog posts and content that others may find useful.
+3. **Why Your Personal Information is Collected.** The collection of personal information is required for us to provide the GrowthBook Service. If you do not provide your personal information, it may delay or prevent us from providing services to you. The personal information we collect from our users, which may include your personal information, is necessary for us to provide our services to the user. More information on our services can be found here \[https://www.growthbook.io/\] (“**Services**”) We also collect some personal information for operational reasons such as user authentication, maintaining and improving our services, training, quality control and legal compliance.   
+    ‍
 
-4\. Sharing Information with Others
------------------------------------
+4. **Promotional Communications.** We may use your personal information to send you updates (by email) about our products and services, including exclusive offers, promotions or new products or services.  
+      
+    We have a legitimate interest in processing your personal information for promotional purposes (see above “**Why Your Personal Information is Collected**”). This means we do not usually need your consent to send you promotional communications. However, where consent is needed, we will ask for this consent separately and clearly.  
+      
+    We will always treat your personal information with the utmost respect and we do not sell or share your personal information with other organizations for marketing purposes (see below “**Who We Share Your Personal Information With**”).  
+      
+    You have the right to opt out of receiving promotional communications at any time by:
 
-We do not share your personal information outside of GrowthBook except in certain circumstances, including:  
+* Contacting us at support@growthbook.io;
+* Updating your preferences in the account settings page; or,
+* Using the “unsubscribe” link in emails or “STOP” number in texts, if applicable.  
+      
+    We may ask you to confirm or update your marketing preferences if you instruct us to provide further products or services in the future, or if there are changes in the law, regulation, or the structure of our business.  
+    ‍
 
-When you allow us to share the information, such as when you:  
+5. **Who We Share Your Personal Information With.** We routinely share personal information with:
 
-* When our service providers are providing services on our behalf. For example, we may use an outside platform to host portions of our Sites or to provide certain features on the GrowthBook Service, or we may use a credit card processing company to bill you for services you purchase. Unless otherwise expressly noted, when acting as GrowthBook’s agents, these services providers are prohibited from using the personal information we have shared with them for purposes other than those requested by us or required by law;
-    
-* To enforce our terms, agreements, policies or rules, to help protect the security, integrity and availability of our or another party's products, systems and services; to exercise or protect the rights, property (including intellectual property), or safety of GrowthBook, our users, or others; to comply with legal requirements; or in other cases if we believe in good faith that disclosure is required by law (including in response to a lawful subpoena or other law enforcement request); and
-    
-* In connection with a sale, divesture, or transfer of our company (including any shares in the company) or any combination of its products, services, assets, affiliates, and/or businesses. Your personal information (such as customer names and email addresses, and user information related to the GrowthBook Service) may be among the items sold or otherwise acquired in these types of transactions. We may also sell, assign or otherwise transfer such information in the course of corporate divestitures, mergers, acquisitions, bankruptcies, dissolutions, reorganizations, liquidations, similar transactions or proceedings involving all or a portion of the company. You will be notified via email and/or a prominent notice on our Site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
-    
+* Service providers we use to help deliver our services to you such as payment service providers, and third parties providing business related functions;
+* Other third parties we use to help us run our business, such as data centers or website hosts which may store the information we collect on our behalf;
+* Third parties and connected services you choose to utilize as part of the service;  
+      
+      
+    We only allow our service providers to handle your personal information if we are satisfied they take appropriate measures to protect your personal information. We also impose contractual obligations on service providers relating to ensure they can only use your personal information to provide services to us and to you.   
+      
+    We may also share personal information with external auditors, law enforcement agencies and regulatory bodies to comply with our legal and regulatory obligations.  
+      
+    We may also need to share some personal information with other parties, such during a business merger or re-structuring. We will typically anonymize information, but this may not always be possible. The recipient of the information will be bound by confidentiality obligations.  
+      
+    Other than as disclosed in this policy we will not share your personal information with any other third party.  
+      
+    We do not sell any personal information collected from your use of the service.   
+    ‍
 
-We may also share aggregated information (such as usage data, referring/exit pages and URLs, platform types, number of clicks, etc.) for other business purposes. For instance, we may share aggregate reports with interested third parties to help them understand the usage patterns for certain GrowthBook Services or for our Sites or those of our partners.
+6. **Where Your Personal Information is Held.** Information is held at our third-party service providers as described above (see above: “**Who We Share Your Personal Information With**”).  
+    ‍  
+    ‍
+7. **How Long Your Personal Information Will Be Kept.** We will keep your personal information while you have an account with us or while we are providing services to you. Thereafter, we will keep your personal information for as long as is necessary:
 
-5\. Your Controls and Choices
------------------------------
+* To respond to any questions, complaints or claims made by you or on your behalf;
+* To show that we treated you fairly; or
+* To keep records required by law.  
+      
+    We will not retain your personal information for longer than necessary for the purposes set out in this policy. Different retention periods apply for different types of personal information. When it is no longer necessary to retain your personal information, we will delete or anonymize it.  
+    ‍
 
-We provide you with certain controls and choices regarding the use of your personal information, which may include:  
+8. **Your Rights Under the CCPA.** If you are a California resident you have the right under the California Consumer Privacy Act of 2018 (CCPA) and certain other privacy and data protection laws, as applicable, to exercise free of charge:
 
-* Correcting and Updating Account Information. By logging into your account on our Site and/or the GrowthBook Service, you may be able to change certain account information. Your account settings may also permit you to opt-out of some types of notification messages. To protect your privacy and security, we require your username and password in order to verify your identity before granting you account access or making changes.
-    
-* Changing your choices for marketing communications. You can opt-out of the marketing communications we send by clicking the unsubscribe link in the applicable email. Please note that, even after you opt out from receiving marketing messages from us, you may continue to receive transactional and product-related messages..
-    
-* Cookies and Other Technologies. You may be able to opt-out of certain cookies, targeted advertising and other technologies as specified in our "Cookie Policy."
-    
+* opt-out of the sale of personal information,
+* know about personal information collected, disclosed or sold,
+* to request deletion of personal information, and
+* to be treated without discrimination should you exercise these rights.  
+      
+    More information regarding the sources from which we collect personal information can be found above in the section titled “**Personal Information We Collect About You**”; business and commercial purposes for which we collect your personal information can be found above in the section titled “**Why Your Personal Information is Collected**”; categories of recipients with whom personal information is shared or sold can be found in the section above titled “**Who We Share Your Personal Information With.**”  
+    ‍
 
-In many circumstances, you can exercise these choices yourself using the tools described above. If you cannot do so, please contact us as indicated in the "Contact Us" section below to discuss your options. We will respond to your request within 30 days. Please be aware that, if you do not allow us to collect personal information from you, we may not be able to deliver certain products, features and services to you, and some of our products and services may not work appropriately or be able to take account of your interests and preferences.
+9. **Additional information relating to California consumers personal information.  
+      
+    Personal Information We Sold, Shared or Disclosed.** In the past 12 months, we have sold, shared or disclosed the following categories of California consumers’ personal information:**Categories of personal information sold or shared to third parties:   
+    •** Personal and online identifiers (such as first and last name, email address, phone number)  
+    • Transaction information (such as subscription or purchase details)  
+    • Other information about you that is linked to the personal information above**Categories of third parties to whom the information was sold or shared:   
+    •** Customers  
+    • Third Party Services Processors**  
+      
+    Business or commercial purpose for selling or sharing**  
+    • Providing Services  
+    • Internal Operations  
+    • Maintenance / Testing  
+    • Product Development  
+    • User Authentication  
+    • Legal compliance  
+      
+    To make a request under the California Consumer Privacy Act, or for any questions or concerns about our Privacy Policy or practices, please contact us at privacy@growthbook.io. We may verify the request by asking you to provide information that matches the information we have on file about you. If you designate an authorized agent to exercise these rights on your behalf, we will additionally require verification that the person is authorized to act on your behalf.   
+    ‍
 
-6\. Children’s Privacy
-----------------------
+10. **Keeping Your Personal Information Secure.** We have appropriate security measures in place to prevent personal information from being accidentally lost or used or accessed in an unauthorized way. We limit access to your personal information to those who have a genuine business need to access it. Those processing your information will do so only in an authorized manner and are subject to a duty of confidentiality. We also have procedures in place to deal with any suspected data security breach. We will notify you and any applicable regulator of a suspected data security breach where we are legally required to do so.  
+      
+    ‍
+11. **More Information and How to Exercise Your Rights**. If you would like more information on our privacy policies or wish to exercise any of your rights as described in this Privacy Notice, please:
 
-Protecting the privacy of young children is especially important. For that reason, GrowthBook does not knowingly collect or solicit personal information from anyone under the age of 13. In the event that we learn that we have collected personal information from a child under age 13, we will delete the information we have stored as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us as indicated in the "Contact Us" section below.
+* Email us at privacy@growthbook.io.  
+      
+    Please note that you may only make a CCPA-related data access or data portability disclosure request twice within a 12-month period.  
+    ‍
 
-7\. Storage and Processing
---------------------------
+12. **Changes to This Privacy Notice.** This privacy notice was published on \[date\] and last updated on \[date\]. We may change or update this privacy notice from time to by posting the new notice on our website. We may additionally provide notice through the service or by email that the notice has been updated, however, you should regularly review this Privacy Notice to stay informed of our policies and practices.  
+    ‍  
+    ‍
+13. **“Do Not Track.”** Do Not Track (“DNT”) is a privacy preference that users can set in certain web browsers. Please note that we do not respond to or honor DNT signals or similar mechanisms transmitted by web browsers at this time.  
+    ‍  
+    ‍
+14. **Contacting Us.** If you have any questions about this Privacy Policy or our privacy practices, please contact us at privacy@growthbook.io, or send mail to: GrowthBook, Inc., 1950 W Corporate Way # 34560, Anaheim, CA 92801  
+    ‍
 
-Your information may be stored and processed in – and we may transfer information to – the U.S. and other countries where GrowthBook (including its subsidiaries and affiliates) and our advertising partners and service providers maintain systems and facilities. In addition, information that we collect about you (including personal information) may be transferred to our affiliated entities and/or to other third parties across borders and/or from your country to other countries around the world.  
-  
-You acknowledge that we may transfer information to the U.S., to any country in which GrowthBook, its advertising partners, and its service providers maintain systems or facilities, and to other countries globally.  
-  
-If you are located in the European Union or other regions with laws governing data collection and use that may differ from U.S. law, you acknowledge that we may transfer information, including personal information, to a country and jurisdiction that does not have the same data protection laws as your jurisdiction, consistent with our legal obligations governing the transfer of such data.
+‍
 
-8\. Data Security and Integrity
--------------------------------
-
-GrowthBook is concerned about the security of your data. We have implemented technical and organizational security measures that are designed to help protect your information from unauthorized access, disclosure, use and modification. From time-to-time, we review our security procedures to consider appropriate new technologies and methods.  
-  
-Please be aware, though, that despite our efforts, no security measures are perfect or impenetrable. We cannot ensure, and do not warrant or guarantee, that the information you transmit to Growth Book will remain secure, nor do we guarantee that this information will not be accessed, disclosed, altered, destroyed or used in an unauthorized manner.  
-  
-If we learn of a security breach, we may attempt to notify you electronically so that you can take appropriate protective steps. We may also post a notice on the Site or GrowthBook Services if a security breach occurs. Depending on where you live, you may have a legal right to receive a notice of a security breach in writing. If you have any questions about the security of your personal information, please contact us as indicated in the ‘Contact Us’ section below.
-
-9\. Data Retention
-------------------
-
-How long we keep the personal information we collect depends on the type of information, the purpose for which it is used, how sensitive it is, and similar factors. In general, we will retain your personal information for the length of time reasonably needed to fulfill the purposes outlined in this privacy policy (including for as long as need to provide you or our customer with products and services), unless a longer retention period is required or permitted by law. We will also retain and use your information for as long as necessary to resolve disputes and/or enforce our rights and agreements. We retain your account information for the Growth Book Services for as long as your employer’s account is active and thereafter unless your employer requests deletion. Aggregated information may be stored indefinitely.
-
-10\. Third Party Sites, Services and Applications  
-
-----------------------------------------------------
-
-* In General. We are not responsible for the practices employed by websites, applications, or services linked to or from the Growth Book Services or Sites, including the information or content contained there. Please remember that your browsing and interaction on any third-party website, service or application, including those that have a link or advertisement on our Site, are subject to that third party’s own rules, policies, and practices, and not our privacy policy.
-    
-* Partner Pages. Some of our partner pages may have the look and feel of being on growthbook.io; however some information collected on those pages may be collected by, or sent to, our partners. Information collected by, or sent to, our partners is subject to their respective privacy policies.
-    
-* Social Media and Commenting Features. Our Site may include social media and commenting features provided by third parties. These features may collect your IP address and which page you are visiting on our Site, and may set a cookie to allow the feature to function properly. Your interactions with these features are governed by the privacy policy of the organization providing it.
-    
-* Notice to End Users of the GrowthBook Services. The GrowthBook Services are primarily intended for use by organizations. Where the GrowthBook Services are made available to you through an organization (such as your employer), that organization is responsible for administering the accounts over which it has control. If this is the case, please direct your data privacy questions and requests to your administrator. We are not responsible for the privacy or security practices of your administrator's organization, which may be different than this policy.
-    
-* Notice to Users of our Customers’ Websites and Digital Product. As noted above, when GrowthBook’s customers use the GrowthBook Services as part of their own websites, apps, and digital products, they may collect information from you using our services, but they remain responsible for their own privacy and security practices. We are not responsible for our customers' privacy and security practices, which may differ from ours. If you have used one of our customers’ sites or products, and you would like to access, correct or delete the personal data collected through that product, you should direct your request to the applicable customer.
-    
-
-11\. Regional Notices
----------------------
-
-EEA Data Subjects:  
-  
-If you are an individual in the European Economic Area (EEA), we collect and process information about you only where we have legal bases for doing so under applicable EU laws. The legal bases depend on the Sites and GrowthBook Services you use and how you use them. This means we collect and use your information only where:  
-
-* We need it to provide or operate the Sites and GrowthBook Services, including to provide customer support and process your orders, requests, questions and concerns;
-    
-* It satisfies another legitimate interest that is not overridden by your data protection interests, including our interest in:
-    
-* collecting product usage, analytics and performance data relating to our Sites and the GrowthBook Services, in order to maintain, analyze, develop, update, and improve our products and services;
-    
-* maintaining records of bugs, customer support requests and similar requests you file, and our response to these requests;
-    
-* using information to personalize content and features on our Sites and the GrowthBook Services;
-    
-* detecting, investigating and preventing activities that may violate our policies or applicable laws (such as fraud detection and prevention);
-    
-* maintaining corporate or business records consistent with our retention policies and applicable laws;
-    
-* protecting against activities that may threaten the security, integrity, or availability of our or another party’s products, systems, and services; and
-    
-* for marketing and selling our products and services, consistent with applicable laws.
-    
-* We are processing your information to protect our legal rights;
-    
-* You give us consent to process your personal data;
-    
-* We need to process your data to comply with a legal obligation, such as a lawful subpoena or law-enforcement request or to fulfill the lawful instructions of our customers (when they are acting as the controller); and/or
-    
-* We have another lawful basis for processing in accordance with applicable EU laws.
-    
-
-If an individual in the EEA has consented to our use of their personal information, and our processing is based on that consent, that individual has the right to withdraw their consent in accordance with the General Data Protection Regulation (“GDPR”), but this will not affect any processing that has already taken place. If you object to or restrict processing, you may not be able to use the Sites and GrowthBook Services or certain features any longer.  
-  
-Where we are using your information because we or a third party (e.g. your employer) have a legitimate interest to do so, individuals in the EEA have the right to object to that use as specified in Article 21 of the GDPR, though, in some cases, this may mean no longer using the Sites or GrowthBook Service. Growth Book further acknowledges that EEA data subjects have certain other rights under the GDPR, including the right to lodge a complaint with a supervisory authority and to request from the controller access to, and rectification or erasure of, personal data, restriction of processing concerning the data subject, and data portability (in each case, as specified under the GDPR).  
-  
-Where GrowthBook is acting as a controller, you can initiate a by contacting us as specified in the “Contacting Us” section below. Please note that these requests apply only to information that GrowthBook holds as a “controller.” If your request relates to the personal data collected through a customer’s websites or digital products, you should direct your request to the owner of that website or product. Please note that you must verify your identity and request before GrowthBook will process your request. You may be required to provide email confirmation or other information in order for us to verify your identity.  
-  
-Finally, EEA and Swiss data subjects can contact GrowthBook’s data protection officer by emailing dpo@growthbook.io.
-
-California Resident Notices
----------------------------
-
-Effective January 1, 2020, the California Consumer Privacy Act of 2018 (the “CCPA”) allows consumers who are California residents, upon a verifiable consumer request, to request from a business:  
-
-* Delete any personal information about the consumer which the business has collected from the consumer;
-    
-* Disclose to the consumer certain information about the personal information that the business collects from the consumer; and
-    
-* Direct a business that sells personal information about the consumer to third parties not to sell the consumer’s personal information
-    
-
-GrowthBook does not sell any consumer personal information to third parties. To submit an data access or data deletion request, please visit our portal or contact us at privacy@growthbook.io. Please note that these requests apply only to information that GrowthBook holds as a “controller.” If your request relates to the personal data collected through a customer’s websites or digital products, you should direct your request to the owner of that website or product. Please note that you must verify your identity and request before GrowthBook will process your request. You may be required to provide email confirmation or other information in order for us to verify your identity. Consistent with California law, if you choose to exercise your rights, you will not receive discriminatory treatment by GrowthBook.  
-  
-Under certain circumstances, you may designate an authorized agent to make a request on your behalf. In order to designate an authorized agent to make a request on your behalf, you must provide a valid power of attorney, your valid government government issued identification, and the authorized agent’s valid government issued identification to allow GrowthBook to verify that the agent is authorized to make the request on your behalf.  
-  
-If you have any questions about GrowthBook’s privacy policies and practices, please contact us at privacy@growthbook.io.  
-  
-CA Civil Code § 1798.83 permits California residents to request and obtain from GrowthBook once a year, free of charge, a list of the third parties to whom GrowthBook may have disclosed their personal information (if any) for their direct marketing purposes in the prior calendar year, as well as the type of personal information disclosed to those third parties. As a general policy, GrowthBook does not share personal information with third parties for their own direct marketing purposes without your prior consent. Accordingly, you can prevent disclosure of your personal information to third parties for their direct marketing purposes by withholding consent. Please contact us at privacy@growthbook.io if you would like to make such a request.
-
-12\. Do Not Track and Cross-Site Tracking
------------------------------------------
-
-Do Not Track is a privacy preference that users can set in their web browsers. When a user turns on the Do Not Track signal, the browser sends a message to websites requesting them not to track the user. For information about Do Not Track, visit www.allaboutdnt.org. At this time, we do not respond to Do Not Track browser settings or signals. In addition, some of our advertising partners, and other third-party services and tools on our Site and/or the GrowthBook Service, may use standard technologies, such as cookies, pixel tags, and web beacons, to collect information about your internet activities across websites. You may be able to disable certain third-party cross-site tracking as described in the "Your Choices" section above.
-
-13\. Changes to Our Privacy Policy; Notices
--------------------------------------------
-
-From time-to-time, we may change this privacy policy to accommodate changes to our products, services and companies, new technologies or industry practices, updated regulatory requirements, or for other purposes. We will provide notice to you (as described below) if these changes are material.  
-  
-Notices may be by email to the last email address you provided us, by posting notice of such change on our Site or the GrowthBook Service, or by other communication channels. You consent to receiving notices in these ways. We reserve the right to determine the form and means of providing notifications to you, consistent with applicable law.
-
-14\. Contacting Us
-------------------
-
-If you have any questions about this Privacy Policy or our privacy practices, please contact us at privacy@growthbook.io, or send mail to:  
-  
-GrowthBook, Inc., 1950 W Corporate Way # 34560, Anaheim, CA 92801
-
-[![](https://assets-global.website-files.com/65b7ac22fd61413f7db83b81/65b7f3298189c83ce56fd784_GB-Logo-White%201.svg)](https://www.growthbook.io/)
+[![](https://cdn.prod.website-files.com/65b7ac22fd61413f7db83b81/65b7f3298189c83ce56fd784_GB-Logo-White%201.svg)](https://www.growthbook.io/)
 
 GrowthBook is an open-source feature flagging and experimentation platform that helps you release code better and measure the impact with your own data.
 
-![](https://assets-global.website-files.com/65b7ac22fd61413f7db83b81/65e8f1920934058fd9197ebc_SOC2_logo.png)![](https://assets-global.website-files.com/65b7ac22fd61413f7db83b81/65e8f1a3f02b91b3345913f8_GDPR_Logo.png)
+![](https://cdn.prod.website-files.com/65b7ac22fd61413f7db83b81/65e8f1920934058fd9197ebc_SOC2_logo.png)![](https://cdn.prod.website-files.com/65b7ac22fd61413f7db83b81/65e8f1a3f02b91b3345913f8_GDPR_Logo.png)
 
 Company
 -------
