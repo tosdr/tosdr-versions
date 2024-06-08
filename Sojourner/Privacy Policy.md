@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-1a54a945402af8d03e6246703121e1c7
+4dcd9b1c864fa7e18d7e636f530bd852
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,20 +171,20 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![Dramatic octopus pendant](https://www.sojourner.biz/images/cache/jewelry/C0017.200.jpg)](https://www.sojourner.biz/components/dramatic-octopus-pendant.html "Dramatic octopus pendant")
+[![Red bar clasp](https://www.sojourner.biz/images/cache/SKU0205front.200.jpg)](https://www.sojourner.biz/clasps/glass/red-bar-clasp.html "Red bar clasp")
 
-#### [Dramatic octopus pendant](https://www.sojourner.biz/components/dramatic-octopus-pendant.html "Dramatic octopus pendant")
+#### [Red bar clasp](https://www.sojourner.biz/clasps/glass/red-bar-clasp.html "Red bar clasp")
 
-$150.00
+$23.00
 
 ### Best Sellers
 
 1. [Vintage Italian chevron beads](https://www.sojourner.biz/beads/glass/vintage-italian-chevron-beads.html "Vintage Italian chevron beads")  
     $6.00
-2. [Snowstorm clasp](https://www.sojourner.biz/clasps/glass/snowstorm-clasp.html "Snowstorm clasp")  
-    $16.00
-3. [Tiny crystal clasp](https://www.sojourner.biz/clasps/swarovski/tiny-crystal-clasp.html "Tiny crystal clasp")  
+2. [Tiny crystal clasp](https://www.sojourner.biz/clasps/swarovski/tiny-crystal-clasp.html "Tiny crystal clasp")  
     $15.00
+3. [Snowstorm clasp](https://www.sojourner.biz/clasps/glass/snowstorm-clasp.html "Snowstorm clasp")  
+    $16.00
 4. [Swarovski crystal AB clasp](https://www.sojourner.biz/clasps/swarovski/swarovski-crystal-ab-clasp.html "Swarovski crystal AB clasp")  
     $28.00
 5. [White pearl toggle clasp](https://www.sojourner.biz/clasps/toggles/white-pearl-toggle-clasp.html "White pearl toggle clasp")  
@@ -195,10 +195,10 @@ $150.00
     $15.00
 8. [Red bar clasp](https://www.sojourner.biz/clasps/glass/red-bar-clasp.html "Red bar clasp")  
     $23.00
-9. [Citrine clasp](https://www.sojourner.biz/clasps/faux-stone/citrine-clasp.html "Citrine clasp")  
-    $26.00
-10. [Mother-of-pearl box clasp](https://www.sojourner.biz/clasps/pearl/mother-of-pearl-box-clasp.html "Mother-of-pearl box clasp")  
+9. [Mother-of-pearl box clasp](https://www.sojourner.biz/clasps/pearl/mother-of-pearl-box-clasp.html "Mother-of-pearl box clasp")  
     $17.00
+10. [Citrine clasp](https://www.sojourner.biz/clasps/faux-stone/citrine-clasp.html "Citrine clasp")  
+    $26.00
 
 [Top](#)
 
