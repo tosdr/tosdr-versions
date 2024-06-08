@@ -2,14 +2,14 @@ Friday, June 7 2024
 
 Breaking News
 
+* [NYC Lawmakers Unveil Bill To End City’s Sanctuary Status Amid Immigration Crisis](https://www.conservativedailynews.com/2024/06/nyc-lawmakers-unveil-bill-to-end-citys-sanctuary-status-amid-immigration-crisis/)
+* [Memo Sounds Alarm Over Massive ‘Unconstitutional’ Database Of Americans’ Info Pushed By Biden Admin](https://www.conservativedailynews.com/2024/06/memo-sounds-alarm-over-massive-unconstitutional-database-of-americans-info-pushed-by-biden-admin/)
+* [We Remember D-Day. Could It Happen Today?](https://www.conservativedailynews.com/2024/06/we-remember-d-day-could-it-happen-today/)
+* [President Joe Biden’s Schedule for Friday, June 7, 2024](https://www.conservativedailynews.com/2024/06/president-joe-bidens-schedule-for-friday-june-7-2024/)
+* [President Biden Delivers a Speech at Pointe du Hoc and Democracy – 6/6/24](https://www.conservativedailynews.com/2024/06/president-biden-delivers-a-speech-at-pointe-du-hoc-and-democracy-6-6-24/)
 * [In Remembrance of D-Day: Blame Innocent Victims of War On Christianity – NOT!](https://www.conservativedailynews.com/2024/06/in-remembrance-of-d-day-blame-innocent-victims-of-war-on-christianity-not/)
 * [Jonathan Turley Says ‘All Of’ Hunter Biden’s Trial ‘Defenses’ Quickly ‘Collapsed’](https://www.conservativedailynews.com/2024/06/jonathan-turley-says-all-of-hunter-bidens-trial-defenses-quickly-collapsed/)
 * [CNN’s Elie Honig Says Fani Willis’ Trump Case ‘May Not Get Tried Ever’ After ‘Surprising’ Decision](https://www.conservativedailynews.com/2024/06/cnns-elie-honig-says-fani-willis-trump-case-may-not-get-tried-ever-after-surprising-decision/)
-* [James Carville Calls On Media To Ramp Up ‘Slanted Coverage’ To Defeat Trump](https://www.conservativedailynews.com/2024/06/james-carville-calls-on-media-to-ramp-up-slanted-coverage-to-defeat-trump/)
-* [Can We Trust The Outcome In November](https://www.conservativedailynews.com/2024/06/can-we-trust-the-outcome-in-november/)
-* [Israeli Officials’ Latest Comments Indicate Middle East Powder Keg May Be On Verge Of Blowing Up](https://www.conservativedailynews.com/2024/06/israeli-officials-latest-comments-indicate-middle-east-powder-keg-may-be-on-verge-of-blowing-up/)
-* [A Broken Border Is Not The Same As A Broken Immigration System](https://www.conservativedailynews.com/2024/06/a-broken-border-is-not-the-same-as-a-broken-immigration-system/)
-* [After the Bragg Verdict in New York Biden cannot Possibly Unite America](https://www.conservativedailynews.com/2024/06/after-the-bragg-verdict-in-new-york-biden-cannot-possibly-unite-america/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -118,57 +118,60 @@ Support Conservative Daily News with a small donation via [Paypal or credit card
 
 Recent Posts
 
-* [![A watercraft unloads troops on a beach.](https://www.conservativedailynews.com/wp-content/uploads/2024/05/440606-O-D0439-017-220x150.jpg)](https://www.conservativedailynews.com/2024/06/in-remembrance-of-d-day-blame-innocent-victims-of-war-on-christianity-not/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2018/09/Sanctuary-City-sign-2-1.jpg)](https://www.conservativedailynews.com/2024/06/nyc-lawmakers-unveil-bill-to-end-citys-sanctuary-status-amid-immigration-crisis/)
     
-    [In Remembrance of D-Day: Blame Innocent Victims of War On Christianity – NOT!](https://www.conservativedailynews.com/2024/06/in-remembrance-of-d-day-blame-innocent-victims-of-war-on-christianity-not/)
+    [NYC Lawmakers Unveil Bill To End City’s Sanctuary Status Amid Immigration Crisis](https://www.conservativedailynews.com/2024/06/nyc-lawmakers-unveil-bill-to-end-citys-sanctuary-status-amid-immigration-crisis/)
     
-    June 6, 2024
+    June 7, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/11/Hunter-Biden-scaled.jpg)](https://www.conservativedailynews.com/2024/06/jonathan-turley-says-all-of-hunter-bidens-trial-defenses-quickly-collapsed/)
+* [![Domestic spying the fbi](https://www.conservativedailynews.com/wp-content/uploads/2023/05/02-spymach-sm-1080.jpg)](https://www.conservativedailynews.com/2024/06/memo-sounds-alarm-over-massive-unconstitutional-database-of-americans-info-pushed-by-biden-admin/)
     
-    [Jonathan Turley Says ‘All Of’ Hunter Biden’s Trial ‘Defenses’ Quickly ‘Collapsed’](https://www.conservativedailynews.com/2024/06/jonathan-turley-says-all-of-hunter-bidens-trial-defenses-quickly-collapsed/)
+    [Memo Sounds Alarm Over Massive ‘Unconstitutional’ Database Of Americans’ Info Pushed By Biden Admin](https://www.conservativedailynews.com/2024/06/memo-sounds-alarm-over-massive-unconstitutional-database-of-americans-info-pushed-by-biden-admin/)
     
-    June 6, 2024
+    June 7, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/11/gavel-justice-220x150.jfif)](https://www.conservativedailynews.com/2024/06/cnns-elie-honig-says-fani-willis-trump-case-may-not-get-tried-ever-after-surprising-decision/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/11/the-economy-220x150.jfif)](https://www.conservativedailynews.com/2024/06/unemployment-ticks-up-as-job-growth-beats-expectations/)
     
-    [CNN’s Elie Honig Says Fani Willis’ Trump Case ‘May Not Get Tried Ever’ After ‘Surprising’ Decision](https://www.conservativedailynews.com/2024/06/cnns-elie-honig-says-fani-willis-trump-case-may-not-get-tried-ever-after-surprising-decision/)
+    [Unemployment Ticks Up As Job Growth Beats Expectations](https://www.conservativedailynews.com/2024/06/unemployment-ticks-up-as-job-growth-beats-expectations/)
     
-    June 6, 2024
+    June 7, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2020/05/cropped-James-Carville.jpg)](https://www.conservativedailynews.com/2024/06/james-carville-calls-on-media-to-ramp-up-slanted-coverage-to-defeat-trump/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/06/IMG_5103-220x150.jpeg)](https://www.conservativedailynews.com/2024/06/we-remember-d-day-could-it-happen-today/)
     
-    [James Carville Calls On Media To Ramp Up ‘Slanted Coverage’ To Defeat Trump](https://www.conservativedailynews.com/2024/06/james-carville-calls-on-media-to-ramp-up-slanted-coverage-to-defeat-trump/)
+    [We Remember D-Day. Could It Happen Today?](https://www.conservativedailynews.com/2024/06/we-remember-d-day-could-it-happen-today/)
     
-    June 6, 2024
+    June 7, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/06/01-toothless-sm-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/06/a-f-branco-cartoon-guard-on-duty/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/04/Joe-Biden-speech-5-220x150.png)](https://www.conservativedailynews.com/2024/06/president-joe-bidens-schedule-for-friday-june-7-2024/)
     
-    [Guard Dog On Duty](https://www.conservativedailynews.com/2024/06/a-f-branco-cartoon-guard-on-duty/)
+    [President Joe Biden’s Schedule for Friday, June 7, 2024](https://www.conservativedailynews.com/2024/06/president-joe-bidens-schedule-for-friday-june-7-2024/)
     
-    June 6, 2024
+    June 7, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/06/IMG_5101-220x150.jpeg)](https://www.conservativedailynews.com/2024/06/can-we-trust-the-outcome-in-november/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/01/Harsanyi-featw-220x150.webp)](https://www.conservativedailynews.com/2024/06/merrick-garland-shouldnt-be-praised-he-should-be-impeached/)
     
-    [Can We Trust The Outcome In November](https://www.conservativedailynews.com/2024/06/can-we-trust-the-outcome-in-november/)
+    [Merrick Garland Shouldn’t Be Praised. He Should Be Impeached](https://www.conservativedailynews.com/2024/06/merrick-garland-shouldnt-be-praised-he-should-be-impeached/)
     
-    June 6, 2024
+    June 7, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/01/hollis-feat-220x150-1.jpg)](https://www.conservativedailynews.com/2024/06/it-isnt-fashion-its-filth/)
+* [![Joe Biden disgrace](https://www.conservativedailynews.com/wp-content/uploads/2024/06/stg060724dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/06/embarrassing/)
     
-    [It Isn’t Fashion — It’s Filth](https://www.conservativedailynews.com/2024/06/it-isnt-fashion-its-filth/)
+    [Embarrassing](https://www.conservativedailynews.com/2024/06/embarrassing/)
     
-    June 6, 2024
+    June 7, 2024
     
-* [![Joe Biden Israel Hamas](https://www.conservativedailynews.com/wp-content/uploads/2024/05/stg051824dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/06/israeli-officials-latest-comments-indicate-middle-east-powder-keg-may-be-on-verge-of-blowing-up/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/03/JOe-Biden-speech-14-220x150.png)](https://www.conservativedailynews.com/2024/06/president-biden-delivers-a-speech-at-pointe-du-hoc-and-democracy-6-6-24/)
     
-    [Israeli Officials’ Latest Comments Indicate Middle East Powder Keg May Be On Verge Of Blowing Up](https://www.conservativedailynews.com/2024/06/israeli-officials-latest-comments-indicate-middle-east-powder-keg-may-be-on-verge-of-blowing-up/)
+    [President Biden Delivers a Speech at Pointe du Hoc and Democracy – 6/6/24](https://www.conservativedailynews.com/2024/06/president-biden-delivers-a-speech-at-pointe-du-hoc-and-democracy-6-6-24/)
     
-    June 6, 2024
+    June 7, 2024
     
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Bill McGuire Secures FITASC Veteran HOA Win At 2024 World Sporting Clays Championship](https://www.thegunpage.com/bill-mcguire-secures-fitasc-veteran-hoa-win-at-2024-world-sporting-clays-championship/10608782)
+* [NRA Updates Range Development And Operations Online Course](https://www.thegunpage.com/nra-updates-range-development-and-operations-online-course/10608781)
+* [Magpul Adds Rider Sunglasses To Eyewear Lineup](https://www.thegunpage.com/magpul-adds-rider-sunglasses-to-eyewear-lineup/10608779)
 * [Private school founder destroys every argument against arming teachers](https://www.thegunpage.com/private-school-founder-destroys-every-argument-against-arming-teachers/10608771)
 * [Hornady Manufacturing Celebrates 75 Years Of Bullet Making](https://www.thegunpage.com/hornady-manufacturing-celebrates-75-years-of-bullet-making/10608774)
 * [USPSA’s Staci Pulver: 25 Years And Counting](https://www.thegunpage.com/uspsas-staci-pulver-25-years-and-counting/10608770)
@@ -176,9 +179,6 @@ Recent Posts
 * [Federal Ammunition Renews Support Of Minnesota High School Trap Championship](https://www.thegunpage.com/federal-ammunition-renews-support-of-minnesota-high-school-trap-championship/10608764)
 * [Team Winchester & White Flyer’s Eric Harvey Wins Main Event At 2024 NSCA North Central Regional](https://www.thegunpage.com/team-winchester-white-flyers-eric-harvey-wins-main-event-at-2024-nsca-north-central-regional/10608763)
 * [New: 1791 Gunleather Holsters For Optics-Ready, Light-Bearing Pistols](https://www.thegunpage.com/new-1791-gunleather-holsters-for-optics-ready-light-bearing-pistols/10608758)
-* [New: Cabot Guns 80th Anniversary D-Day Tribute Pistols](https://www.thegunpage.com/new-cabot-guns-80th-anniversary-d-day-tribute-pistols/10608756)
-* [Six Solid Tips For Speedy Reloads In Action Shooting](https://www.thegunpage.com/six-solid-tips-for-speedy-reloads-in-action-shooting/10608757)
-* [Media fact check: How fake mass-shooting data produces fake news](https://www.thegunpage.com/media-fact-check-how-fake-mass-shooting-data-produces-fake-news/10608746)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -220,15 +220,15 @@ Contact Us
 
 Recent Comments
 
+* KayCee on [Embarrassing](https://www.conservativedailynews.com/2024/06/embarrassing/#comment-775343)
+* KayCee on [NYC Lawmakers Unveil Bill To End City’s Sanctuary Status Amid Immigration Crisis](https://www.conservativedailynews.com/2024/06/nyc-lawmakers-unveil-bill-to-end-citys-sanctuary-status-amid-immigration-crisis/#comment-775342)
+* Will Delito on [Elon Musk’s X Asks Supreme Court To Weigh In On Jack Smith’s Trump Search Warrant](https://www.conservativedailynews.com/2024/06/elon-musks-x-asks-supreme-court-to-weigh-in-on-jack-smiths-trump-search-warrant/#comment-775337)
 * KayCee on [Can We Trust The Outcome In November](https://www.conservativedailynews.com/2024/06/can-we-trust-the-outcome-in-november/#comment-775325)
 * KayCee on [Of ‘Convicted Felons’ and Lying Frauds](https://www.conservativedailynews.com/2024/06/of-convicted-felons-and-lying-frauds/#comment-775317)
 * MeMyself&I on [United Launch Alliance Successfully Launches First Crewed Starliner](https://www.conservativedailynews.com/2024/06/united-launch-alliance-successfully-launches-first-crewed-starliner/#comment-775289)
 * Richard McDonough on [Bill Maher’s Trump Derangement Syndrome](https://www.conservativedailynews.com/2024/06/bill-mahers-trump-derangement-syndrome/#comment-775278)
 * Jeff L. on [Jill Biden Calls to vote for Good over Evil in November](https://www.conservativedailynews.com/2024/06/jill-biden-calls-to-vote-for-good-over-evil-in-november/#comment-775271)
 * Kennedy on [Of ‘Convicted Felons’ and Lying Frauds](https://www.conservativedailynews.com/2024/06/of-convicted-felons-and-lying-frauds/#comment-775269)
-* TMann on [Nearly Half Of Independents Think Trump Should Drop Out Following Guilty Verdict: POLL](https://www.conservativedailynews.com/2024/06/nearly-half-of-independents-think-trump-should-drop-out-following-guilty-verdict-poll/#comment-775238)
-* KayCee on [Biden Promised To Build Half A Million EV Charging Stations. So far, There Are A Grand Total Of 8](https://www.conservativedailynews.com/2024/06/biden-promised-to-build-half-a-million-ev-charging-stations-so-far-there-are-a-grand-total-of-8/#comment-775226)
-* Kaycee on [New York DA Bragg took a “Dangerous Step further than Stalin Ever did”](https://www.conservativedailynews.com/2024/06/new-york-da-bragg-took-a-dangerous-step-further-than-stalin-ever-did/#comment-775225)
 
 ![sponsored](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
