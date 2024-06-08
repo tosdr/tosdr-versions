@@ -17,7 +17,7 @@
 
 * [My Estes](https://www.estes-express.com/myestes/home/login)
     
-    [Login](https://www.estes-express.com/myestes/home/login) [Create Account](https://www.estes-express.com/myestes/home/sign-up) [Request Account Number](https://www.estes-express.com/myestes/home/request-account-number) [Edit My Profile](https://www.estes-express.com/myestes/home/profile) [Request Account Number](https://www.estes-express.com/myestes/home/request-account-number) [Address Book](https://www.estes-express.com/myestes/address-book/) [Commodity Library](https://www.estes-express.com/myestes/commodity-library) [Logout](#)
+    [Login](https://www.estes-express.com/myestes/home/login) [Create Account](https://www.estes-express.com/myestes/home/sign-up) [Request Account Number](https://www.estes-express.com/myestes/home/request-account-number) [Edit My Profile](https://www.estes-express.com/myestes/home/profile) [Request Account Number](https://www.estes-express.com/myestes/home/request-account-number) [Address Book](https://www.estes-express.com/myestes/address-book/) [Commodity Library](https://www.estes-express.com/myestes/commodity-library-new) [Logout](#)
     
 
 * [Login](https://www.estes-express.com/myestes/home/login/)
@@ -26,7 +26,7 @@
 * [Edit My Profile](https://www.estes-express.com/myestes/home/profile/)
 * [Request Account Number](https://www.estes-express.com/myestes/home/request-account-number/)
 * [Address Book](https://www.estes-express.com/myestes/address-book/)
-* [Commodity Library](https://www.estes-express.com/myestes/commodity-library)
+* [Commodity Library](https://www.estes-express.com/myestes/commodity-library-new)
 * [Logout](#)
 
   
