@@ -40,7 +40,7 @@
     Directo a
     
     * [Portal de escolarización](https://www.juntadeandalucia.es/educacion/portales/web/escolarizacion/infantil-a-bachillerato "Portal de escolarización")
-    * [Beca General 2024/25](https://www.juntadeandalucia.es/temas/estudiar/becas/nacionales.html "Beca General 2024/25")
+    * [Distrito Único Andaluz](https://www.juntadeandalucia.es/economiaconocimientoempresasyuniversidad/sguit/?q=grados "Distrito Único Andaluz")
     * [Formación Profesional](https://www.juntadeandalucia.es/educacion/portals/web/formacion-profesional-andaluza "Formación Profesional")
     * [PASEN](https://seneca.juntadeandalucia.es/seneca/jsp/portalpasen/ "PASEN")
     * [Portal del Docente](https://www.juntadeandalucia.es/educacion/portaldocente/ "Portal del Docente")
