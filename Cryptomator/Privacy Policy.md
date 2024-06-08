@@ -8,7 +8,7 @@
     
 * Learn More
     
-    [How Open Source Strengthens Security](https://cryptomator.org/open-source/) [Encrypt Your Dropbox](https://cryptomator.org/encrypt-dropbox/) [Alternative to Boxcryptor](https://cryptomator.org/boxcryptor-alternative/) [Our Cooperation Partners](https://cryptomator.org/coop/) [Customizations for Your Enterprise](https://cryptomator.org/enterprise/) [GDPR Compliancy](https://cryptomator.org/gdpr/)
+    [How Open Source Strengthens Security](https://cryptomator.org/open-source/) [Encrypt Your Dropbox](https://cryptomator.org/encrypt-dropbox/) [Alternative to Boxcryptor](https://cryptomator.org/boxcryptor-alternative/) [Our Cooperation Partners](https://cryptomator.org/coop/) [Customizations for Your Enterprise](https://cryptomator.org/enterprise/) [GDPR Compliancy](https://cryptomator.org/gdpr/) [NIS-2-Guideline](https://cryptomator.org/nis-2-guideline/) [Protecting cloud data against AI](https://cryptomator.org/protecting-data-against-ai/)
     
 
 * EN
@@ -30,7 +30,7 @@ Support Us
 
 Learn More
 
-[How Open Source Strengthens Security](https://cryptomator.org/open-source/) [Encrypt Your Dropbox](https://cryptomator.org/encrypt-dropbox/) [Alternative to Boxcryptor](https://cryptomator.org/boxcryptor-alternative/) [Our Cooperation Partners](https://cryptomator.org/coop/) [Customizations for Your Enterprise](https://cryptomator.org/enterprise/) [GDPR Compliancy](https://cryptomator.org/gdpr/)
+[How Open Source Strengthens Security](https://cryptomator.org/open-source/) [Encrypt Your Dropbox](https://cryptomator.org/encrypt-dropbox/) [Alternative to Boxcryptor](https://cryptomator.org/boxcryptor-alternative/) [Our Cooperation Partners](https://cryptomator.org/coop/) [Customizations for Your Enterprise](https://cryptomator.org/enterprise/) [GDPR Compliancy](https://cryptomator.org/gdpr/) [NIS-2-Guideline](https://cryptomator.org/nis-2-guideline/) [Protecting cloud data against AI](https://cryptomator.org/protecting-data-against-ai/)
 
 * * *
 
