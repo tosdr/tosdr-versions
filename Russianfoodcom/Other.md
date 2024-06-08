@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_2.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_6.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -148,7 +148,7 @@
 
 Сейчас читают
 
-* [Мини-киши с курицей, помидором и оливками](https://www.russianfood.com/recipes/recipe.php?rid=173764)
+* [Салат с помидорами, черешней и фетой](https://www.russianfood.com/recipes/recipe.php?rid=171111)
 
 |     |
 | --- |
@@ -173,6 +173,48 @@
 
 |     |     |
 | --- | --- |
+| Для прессы<br><br>[То, что нужно к домашнему чаепитию! Лучшая ВЫПЕЧКА №24-23](https://www.russianfood.com/reading/?post_id=22184) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/714/sm_713605.jpg)](https://www.russianfood.com/reading/?post_id=22184)
+
+Коврижка с повидлом и масляным кремом. Шоколадный манник. Кофейный пирог с шоколадом и черешней. Венгерские ватрушки. Апельсиновое печенье с корицей. Булочки с курицей и шпинатом. Фокачча с помидорами черри и маслинами.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22184)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшая выпечка](https://www.russianfood.com/blogs/?id=327534) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22184#comments) | 08.06.24 |     |
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Особенно вкусная, пока молодая. КАРТОШКА по-необычному (37)](https://www.russianfood.com/reading/?post_id=22183) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/723/sm_722100.jpg)](https://www.russianfood.com/reading/?post_id=22183)
+
+Молодая картошка с чесноком, паприкой и орегано. Молодая картошка, запечённая с кабачками и беконом. Говядина, тушенная с молодой картошкой. Молодая картошка с салом.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22183)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Обычное по-необычному](https://www.russianfood.com/blogs/?id=325689) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22183#comments) | 08.06.24 |     |
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Просто, интересно и свежо. Лучшие рецепты ЗАКУСОК (28)](https://www.russianfood.com/reading/?post_id=22182) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/658/sm_657152.jpg)](https://www.russianfood.com/reading/?post_id=22182)
+
+Бутерброды со скумбрией и редисом. Оладьи из кабачков с крабовыми палочками. Кукурузные кексы со шпинатом. Жюльен из баклажанов и грибов. Тартар из помидоров и клубники.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22182)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие рецепты ВОВРЕМЯ](https://www.russianfood.com/blogs/?id=394496) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22182#comments) | 08.06.24 |     |
+
+|     |     |
+| --- | --- |
 | Рецепты<br><br>[Котлеты из шпината и сыра](https://www.russianfood.com/recipes/recipe.php?rid=173697) |     |
 
 [![Фото к рецепту: Котлеты из шпината и сыра](//img1.russianfood.com/dycontent/images_upl/723/sm_722079.jpg "Фото к рецепту: Котлеты из шпината и сыра")](https://www.russianfood.com/recipes/recipe.php?rid=173697)
@@ -183,7 +225,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173697#comments) | 07.06.24 |     |
+|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173697#comments) | 07.06.24 |     |
 
 |     |     |
 | --- | --- |
@@ -197,7 +239,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173764#comments) | 07.06.24 |     |
+|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_4 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173764#comments) | 07.06.24 |     |
 
 |     |     |
 | --- | --- |
@@ -211,7 +253,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Безсупажизнинет](https://www.russianfood.com/blogs/?id=422075) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173277#comments) | 07.06.24 |     |
+|     | [Безсупажизнинет](https://www.russianfood.com/blogs/?id=422075) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173277#comments) | 07.06.24 |     |
 
 |     |     |
 | --- | --- |
@@ -225,7 +267,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173486#comments) | 07.06.24 |     |
+|     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173486#comments) | 07.06.24 |     |
 
 |     |     |
 | --- | --- |
@@ -239,7 +281,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173538#comments) | 07.06.24 |     |
+|     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_12 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173538#comments) | 07.06.24 |     |
 
 |     |     |
 | --- | --- |
@@ -267,7 +309,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие рецепты ВОВРЕМЯ](https://www.russianfood.com/blogs/?id=394496) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22178#comments) | 07.06.24 |     |
+|     | [Лучшие рецепты ВОВРЕМЯ](https://www.russianfood.com/blogs/?id=394496) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [1](https://www.russianfood.com/reading/?post_id=22178#comments) | 07.06.24 |     |
 
 |     |     |
 | --- | --- |
@@ -338,48 +380,6 @@
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 |     | [Печкины внучки](https://www.russianfood.com/blogs/?id=421070) | _![](/images/blank.gif)_4 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173552#comments) | 05.06.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Молодой картофель, запечённый со свиной грудинкой (в рукаве)](https://www.russianfood.com/recipes/recipe.php?rid=173657) |     |
-
-[![Фото к рецепту: Молодой картофель, запечённый со свиной грудинкой (в рукаве)](//img1.russianfood.com/dycontent/images_upl/722/sm_721321.jpg "Фото к рецепту: Молодой картофель, запечённый со свиной грудинкой (в рукаве)")](https://www.russianfood.com/recipes/recipe.php?rid=173657)
-
-Свиная грудинка – отличный компаньон для запекания с молодым картофелем в рукаве. Морковь, репчатый лук и чеснок послужат прекрасным дополнением. Пропитанная соками сочной грудинки картошка получается мягкой, нежной и очень ароматной.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=173657)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Sve4kaSV](https://www.russianfood.com/blogs/?id=217903) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173657#comments) | 05.06.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Пицца из слоеного теста с овощами](https://www.russianfood.com/recipes/recipe.php?rid=173660) |     |
-
-[![Фото к рецепту: Пицца из слоеного теста с овощами](//img1.russianfood.com/dycontent/images_upl/722/sm_721360.jpg "Фото к рецепту: Пицца из слоеного теста с овощами")](https://www.russianfood.com/recipes/recipe.php?rid=173660)
-
-Пицца с овощами, приготовленная на готовом слоеном тесте, значительно уменьшает время приготовления. За считанные минуты у вас будет любимое итальянское блюдо всех детей и взрослых - ароматная, сытная, сочная пицца с помидорами, кабачками, сладким перцем и двумя видами сыра. В качестве соуса для пиццы используем кетчуп.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=173660)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Alenkiy](https://www.russianfood.com/blogs/?id=166683) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173660#comments) | 05.06.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Картофель, запеченный с курицей, маринованной в кефире](https://www.russianfood.com/recipes/recipe.php?rid=173673) |     |
-
-[![Фото к рецепту: Картофель, запеченный с курицей, маринованной в кефире](//img1.russianfood.com/dycontent/images_upl/722/sm_721411.jpg "Фото к рецепту: Картофель, запеченный с курицей, маринованной в кефире")](https://www.russianfood.com/recipes/recipe.php?rid=173673)
-
-Картофель, запеченный с курицей, маринованной в кефире - сытное, ароматное и очень вкусное блюдо. Кусочки курицы пропитываются пикантным кефирным маринадом, который придает мясу неповторимый вкус и аромат. Получается идеальное сочетание - золотистый запеченный молодой картофель, сочная курица, маринованная в нежном кефире и душистые травы. Когда блюдо готовится в духовке, все ингредиенты объединяются, создавая идеальное сочетание вкусов.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=173673)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173673#comments) | 05.06.24 |     |
 
 |     |
 | --- |
@@ -452,10 +452,8 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/723/alt1_722161.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173706) | [![](//img1.russianfood.com/dycontent/images_upl/722/alt1_721321.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173657) | [![](//img1.russianfood.com/dycontent/images_upl/722/alt1_721967.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173574) | [![](//img1.russianfood.com/dycontent/images_upl/679/alt1_678280.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=171081) | [![](//img1.russianfood.com/dycontent/images_upl/722/alt1_721932.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173486) | [![](//img1.russianfood.com/dycontent/images_upl/723/alt1_722489.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173732) | [![](//img1.russianfood.com/dycontent/images_upl/723/alt1_722706.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173764) |
-| [Жареная молодая картошка с морковью и сыром](https://www.russianfood.com/recipes/recipe.php?rid=173706) | [Молодой картофель, запечённый со свиной грудинкой (в рукаве)](https://www.russianfood.com/recipes/recipe.php?rid=173657) | [Овощной суп с кабачками](https://www.russianfood.com/recipes/recipe.php?rid=173574) | [Крем-суп из брокколи с копченым сыром](https://www.russianfood.com/recipes/recipe.php?rid=171081) | [Рубленые куриные котлеты с плавленым сыром и овощами](https://www.russianfood.com/recipes/recipe.php?rid=173486) | [Открытый слоёный пирог с фетой и шпинатом](https://www.russianfood.com/recipes/recipe.php?rid=173732) | [Мини-киши с курицей, помидором и оливками](https://www.russianfood.com/recipes/recipe.php?rid=173764) |
-| [![](//img1.russianfood.com/dycontent/images_upl/723/alt1_722007.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173538) | [![](//img1.russianfood.com/dycontent/images_upl/722/alt1_721411.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173673) | [![](//img1.russianfood.com/dycontent/images_upl/723/alt1_722079.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173697) | [![](//img1.russianfood.com/dycontent/images_upl/722/alt1_721695.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173687) | [![](//img1.russianfood.com/dycontent/images_upl/722/alt1_721081.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173587) | [![](//img1.russianfood.com/dycontent/images_upl/723/alt1_722544.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173737) | [![](//img1.russianfood.com/dycontent/images_upl/722/alt1_721697.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173689) |
-| [Жареные пирожки на кефире, с сыром, зелёным луком и яйцами](https://www.russianfood.com/recipes/recipe.php?rid=173538) | [Картофель, запеченный с курицей, маринованной в кефире](https://www.russianfood.com/recipes/recipe.php?rid=173673) | [Котлеты из шпината и сыра](https://www.russianfood.com/recipes/recipe.php?rid=173697) | [Кабачковые оладьи с помидорами и сыром фета](https://www.russianfood.com/recipes/recipe.php?rid=173687) | [Молодой картофель с чесноком и укропом (на мангале)](https://www.russianfood.com/recipes/recipe.php?rid=173587) | [Слойки с кабачками, курицей и творожным сыром](https://www.russianfood.com/recipes/recipe.php?rid=173737) | [Шашлык из рыбы с кабачками и помидорами (в духовке)](https://www.russianfood.com/recipes/recipe.php?rid=173689) |
+| [![](//img1.russianfood.com/dycontent/images_upl/718/alt1_717492.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173277) | [![](//img1.russianfood.com/dycontent/images_upl/722/alt1_721932.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173486) | [![](//img1.russianfood.com/dycontent/images_upl/723/alt1_722007.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173538) | [![](//img1.russianfood.com/dycontent/images_upl/723/alt1_722706.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173764) | [![](//img1.russianfood.com/dycontent/images_upl/722/alt1_721967.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173574) | [![](//img1.russianfood.com/dycontent/images_upl/722/alt1_721695.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173687) | [![](//img1.russianfood.com/dycontent/images_upl/723/alt1_722079.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173697) |
+| [Рисовый суп с грибами](https://www.russianfood.com/recipes/recipe.php?rid=173277) | [Рубленые куриные котлеты с плавленым сыром и овощами](https://www.russianfood.com/recipes/recipe.php?rid=173486) | [Жареные пирожки на кефире, с сыром, зелёным луком и яйцами](https://www.russianfood.com/recipes/recipe.php?rid=173538) | [Мини-киши с курицей, помидором и оливками](https://www.russianfood.com/recipes/recipe.php?rid=173764) | [Овощной суп с кабачками](https://www.russianfood.com/recipes/recipe.php?rid=173574) | [Кабачковые оладьи с помидорами и сыром фета](https://www.russianfood.com/recipes/recipe.php?rid=173687) | [Котлеты из шпината и сыра](https://www.russianfood.com/recipes/recipe.php?rid=173697) |
 
 |     |     |     |
 | --- | --- | --- |
@@ -472,4 +470,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(106)
+(148)
