@@ -172,6 +172,10 @@ See also: [BCG's privacy policy](https://www.comedy.co.uk/info/privacy/)
 
 ### See also
 
+[Louise Atkinson](https://www.comedy.co.uk/live/fgwg/louise-atkinson/)Live
+
+[First Gig, Worst Gig: Louise Atkinson](https://www.comedy.co.uk/live/fgwg/louise-atkinson/)
+
 [Taskmaster: The Live Experience. Image shows left to right: Greg Davies, Alex Horne](https://www.comedy.co.uk/tv/taskmaster/features/taskmaster-is-neurodivergent-friendly/)TV
 
 [Taskmaster is one of the most neurodivergent friendly comedy formats](https://www.comedy.co.uk/tv/taskmaster/features/taskmaster-is-neurodivergent-friendly/)
@@ -183,10 +187,6 @@ See also: [BCG's privacy policy](https://www.comedy.co.uk/info/privacy/)
 [Hi-De-Hi!. Ted Bovis (Paul Shane)](https://www.comedy.co.uk/quiz/309/)Quiz
 
 [British Comedy Quiz #309](https://www.comedy.co.uk/quiz/309/)
-
-[The Queen and Bernard Delfont](https://www.comedy.co.uk/features/comedy_chronicles/bernard-delfont/)Features
-
-[Comedy Chronicles: Bernard Delfont's theatrical reign](https://www.comedy.co.uk/features/comedy_chronicles/bernard-delfont/)
 
 #### [Donate to British Comedy Guide](https://www.comedy.co.uk/donate/)
 
@@ -229,7 +229,7 @@ Privacy settings
 
 * * *
 
-Garlic bread?![Peter Kay](https://www.comedy.co.uk/people/peter_kay/)
+I used to work in a shoe-recycling shop. It was sole-destroying.[Alex Horne](https://www.comedy.co.uk/fringe/2013/features/dave_joke_of_the_fringe_2013/)
 
 © British Comedy Guide
 
