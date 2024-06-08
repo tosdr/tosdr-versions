@@ -43,6 +43,11 @@
     
     [See All](https://www.coolthings.com/gear/)
     
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/the-best-exercise-bikes-for-effective-cardio-workouts-at-home/)
+    
+    [The Best Exercise Bikes for Effective Cardio Workouts at Home](https://www.coolthings.com/the-best-exercise-bikes-for-effective-cardio-workouts-at-home/)
+    ----------------------------------------------------------------------------------------------------------------------------------------------------------
+    
     [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/yeti-flask-stealthy-drinking-vessel-stainless-steel/)
     
     [Yeti Flask Adds a Stealthy Drinking Vessel to the Outfit’s Drinkware Lineup](https://www.coolthings.com/yeti-flask-stealthy-drinking-vessel-stainless-steel/)
@@ -52,11 +57,6 @@
     
     [Shokz OpenSwim Pro Adds Bluetooth Connectivity to the Standalone Swim Headphones](https://www.coolthings.com/shokz-openswim-pro-swim-headphones-bluetooth-connectivity/)
     -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/ifootage-cobra-3-strike-monopod-fast-adjustments-length-angle-accessories/)
-    
-    [iFootage Cobra 3 Strike Monopod Offers Ultra-Fast Length, Angle, and Accessory Adjustments](https://www.coolthings.com/ifootage-cobra-3-strike-monopod-fast-adjustments-length-angle-accessories/)
-    ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
     * [OUTDOOR GEAR](http://www.coolthings.com/tag/outdoor-gear/)
     * [CAMPING GEAR](http://www.coolthings.com/tag/camping-gear/)
