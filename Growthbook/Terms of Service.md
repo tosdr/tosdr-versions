@@ -1,4 +1,4 @@
-[![](https://assets-global.website-files.com/65b7ac22fd61413f7db83b81/65b7f3298189c83ce56fd784_GB-Logo-White%201.svg)](https://www.growthbook.io/)
+[![](https://cdn.prod.website-files.com/65b7ac22fd61413f7db83b81/65b7f3298189c83ce56fd784_GB-Logo-White%201.svg)](https://www.growthbook.io/)
 
 Product
 
@@ -132,11 +132,11 @@ o. otherwise access or use the Services or GrowthBook’s materials beyond the i
 
 ‍
 
-[![](https://assets-global.website-files.com/65b7ac22fd61413f7db83b81/65b7f3298189c83ce56fd784_GB-Logo-White%201.svg)](https://www.growthbook.io/)
+[![](https://cdn.prod.website-files.com/65b7ac22fd61413f7db83b81/65b7f3298189c83ce56fd784_GB-Logo-White%201.svg)](https://www.growthbook.io/)
 
 GrowthBook is an open-source feature flagging and experimentation platform that helps you release code better and measure the impact with your own data.
 
-![](https://assets-global.website-files.com/65b7ac22fd61413f7db83b81/65e8f1920934058fd9197ebc_SOC2_logo.png)![](https://assets-global.website-files.com/65b7ac22fd61413f7db83b81/65e8f1a3f02b91b3345913f8_GDPR_Logo.png)
+![](https://cdn.prod.website-files.com/65b7ac22fd61413f7db83b81/65e8f1920934058fd9197ebc_SOC2_logo.png)![](https://cdn.prod.website-files.com/65b7ac22fd61413f7db83b81/65e8f1a3f02b91b3345913f8_GDPR_Logo.png)
 
 Company
 -------
