@@ -151,10 +151,6 @@ Enter your email address to receive our monthly newsletter, the
 
 [Upcoming Events](https://www.fsf.org/events)
 
- [![Event C source code](https://www.fsf.org/static/fsforg/css/img/newsitem_icon.gif) Free Software Directory meeting on IRC: Friday, June 07, starting at 12:00 EDT (16:00 UTC)](https://www.fsf.org/events/fsd-20240607-irc "Join the FSF and friends on Friday, June 07, from 12:00
-to 15:00 EDT (16:00 to 19:00 UTC)
-to help improve the Free Software Directory.") Jun 07, 2024 12:00 PM - 03:00 PM — #fsf on libera.chat
-
  [![Event](https://www.fsf.org/static/fsforg/css/img/newsitem_icon.gif) Workshop: Free software & legislation: How we win](https://www.fsf.org/events/workshop-free-software-legislation-how-we-win) Jul 01, 2024 12:00 PM - 01:30 PM — online
 
 [Previous events…](https://www.fsf.org/events/aggregator/previous)
