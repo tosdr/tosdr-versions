@@ -263,7 +263,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including phone calls, text messages, autodialed / auto-selected or pre-recorded calls). My own message and data rates may apply. I know my consent to such contact is not required for use of these services.
 
-Email
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
@@ -273,17 +273,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Can i file a claim against roundup for a loved one’s death?](https://www.pintas.com/wp-content/uploads/2020/11/can-i-file-a-claim-against-roundup-for-a-loved-ones-death.jpg "Can I File a Claim Against Roundup for a Loved One’s Death?")](https://www.pintas.com/lawsuit/roundup-weed-killer/can-i-file-a-claim-against-roundup-for-a-loved-ones-death/ "Can I File a Claim Against Roundup for a Loved One’s Death?")
+[![What causes mesothelioma lung cancer?](https://www.pintas.com/wp-content/uploads/2020/07/mesothelioma-what-causes-mesothelioma-lung-cancer-scaled.jpg "What Causes Mesothelioma Lung Cancer?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/what-causes-mesothelioma-lung-cancer/ "What Causes Mesothelioma Lung Cancer?")
 
-[#### Can I File a Claim Against Roundup for a Loved One’s Death?](https://www.pintas.com/lawsuit/roundup-weed-killer/can-i-file-a-claim-against-roundup-for-a-loved-ones-death/)
+[#### What Causes Mesothelioma Lung Cancer?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/what-causes-mesothelioma-lung-cancer/)
 
-[![Have mormon church officials sexually abused children?](https://www.pintas.com/wp-content/uploads/2023/04/general-mormom-3-300x225.jpg "Have Mormon Church Officials Sexually Abused Children?")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/has-the-mormon-church-sexually-abused-children/ "Have Mormon Church Officials Sexually Abused Children?")
+[![What is the difference between lung cancer and mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/02/lung-cancer-what-is-the-difference-between-lung-cancer-and-mesothelioma.jpg "What Is the Difference Between Lung Cancer and Mesothelioma?")](https://www.pintas.com/practice-areas/lung-cancer/what-is-the-difference-between-lung-cancer-and-mesothelioma "What Is the Difference Between Lung Cancer and Mesothelioma?")
 
-[#### Have Mormon Church Officials Sexually Abused Children?](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/has-the-mormon-church-sexually-abused-children/)
+[#### What Is the Difference Between Lung Cancer and Mesothelioma?](https://www.pintas.com/practice-areas/lung-cancer/what-is-the-difference-between-lung-cancer-and-mesothelioma)
 
-[![How much money is a nursing home abuse settlement?](https://www.pintas.com/wp-content/uploads/2023/04/sad-woman-senior-living-bed-300x200.jpeg "How Much Money Is a Nursing Home Abuse Settlement?")](https://www.pintas.com/faq/how-much-money-is-a-nursing-home-abuse-settlement/ "How Much Money Is a Nursing Home Abuse Settlement?")
+[![What is the cancer causing ingredient in johnson & johnson?](https://www.pintas.com/wp-content/uploads/2020/07/talcum-powder-what-is-the-cancer-causing-ingredient-in-johnson-and-johnson-scaled.jpg "What Is the Cancer Causing Ingredient in Johnson & Johnson?")](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/cancer-causing-ingredient-in-talcum-powder "What Is the Cancer Causing Ingredient in Johnson & Johnson?")
 
-[#### How Much Money Is a Nursing Home Abuse Settlement?](https://www.pintas.com/faq/how-much-money-is-a-nursing-home-abuse-settlement/)
+[#### What Is the Cancer Causing Ingredient in Johnson & Johnson?](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/cancer-causing-ingredient-in-talcum-powder)
 
 ### Injured?  
 Tell Us What Happened.
@@ -306,7 +306,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by my email or telephone (including phone calls, text messages, autodialed / auto-selected or pre-recorded calls). My own message and data rates may apply. I know my consent to such contact is not required for use of these services.
 
-Comments
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
