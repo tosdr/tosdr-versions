@@ -149,9 +149,9 @@ Toggle navigation
     
     ##### Promoted Content
     
+    * [EU biodiesel industry may not survive 2024 if left unprotected from Chinese unfair imports](https://www.euractiv.com/section/economy-jobs/opinion/eu-biodiesel-industry-may-not-survive-2024-if-left-unprotected-from-chinese-unfair-imports/)
     * [Celebrating a Milestone for Inventors – One Year of the Unitary Patent](https://www.euractiv.com/section/economy-jobs/opinion/celebrating-a-milestone-for-inventors-one-year-of-the-unitary-patent/)
     * [The ongoing quest for Social Europe](https://www.euractiv.com/section/economy-jobs/opinion/the-ongoing-quest-for-social-europe/)
-    * [Ten reasons to Use Your Vote in the European elections](https://www.euractiv.com/section/economy-jobs/opinion/ten-reasons-to-use-your-vote-in-the-european-elections/)
     
 * [Energy & Environment](https://www.euractiv.com/sections/energy-environment/)
     
@@ -474,10 +474,10 @@ Languages: [Français](https://www.euractiv.fr/?post_type=page&p=364525)
 * 4[What you need to know about the upcoming results: EU election projection](http://en.euractiv.eu/section/elections/news/what-you-need-to-know-about-the-results-eu-election-projection/?utm_source=website&utm_campaign=popular)
 * 5[European Commission should be less political and more impartial, Michel says](http://en.euractiv.eu/section/eu-institutions/news/european-commission-should-be-less-political-and-more-impartial-michel-says/?utm_source=website&utm_campaign=popular)
 * 6[Twelve EU countries push for key next step in Ukraine, Moldova accession process](http://en.euractiv.eu/section/enlargement-neighbourhood/news/twelve-eu-countries-push-for-key-next-step-in-ukraine-moldova-accession-process/?utm_source=website&utm_campaign=popular)
-* 7[Why the next European Commission's enlargement portfolio could be its most wanted](http://en.euractiv.eu/section/enlargement-neighbourhood/news/why-the-next-european-commissions-enlargement-portfolio-could-be-its-most-wanted/?utm_source=website&utm_campaign=popular)
-* 8[Bulgarian president hints at rethink over backing Serbia's EU membership](http://en.euractiv.eu/section/politics/news/bulgarian-president-hints-at-rethink-over-backing-serbias-eu-membership/?utm_source=website&utm_campaign=popular)
-* 9[For Mario Draghi, European Council rather than Commission](http://en.euractiv.eu/section/elections/news/for-mario-draghi-european-council-rather-than-commission/?utm_source=website&utm_campaign=popular)
-* 10[How the next few weeks could shape the West's support for Ukraine](http://en.euractiv.eu/section/global-europe/news/how-the-next-few-weeks-could-shape-the-wests-support-for-ukraine/?utm_source=website&utm_campaign=popular)
+* 7[Europe Decides: Live updates of the 2024 European Parliament election](http://en.euractiv.eu/section/elections/news/https-www-euractiv-com-section-politics-news-meet-the-parties-fighting-for-power-in-the-european-elections/?utm_source=website&utm_campaign=popular)
+* 8[Why the next European Commission's enlargement portfolio could be its most wanted](http://en.euractiv.eu/section/enlargement-neighbourhood/news/why-the-next-european-commissions-enlargement-portfolio-could-be-its-most-wanted/?utm_source=website&utm_campaign=popular)
+* 9[Bulgarian president hints at rethink over backing Serbia's EU membership](http://en.euractiv.eu/section/politics/news/bulgarian-president-hints-at-rethink-over-backing-serbias-eu-membership/?utm_source=website&utm_campaign=popular)
+* 10[Sinn Féin ambitions face reality check at Irish local and EU elections](http://en.euractiv.eu/section/elections/news/sinn-fein-ambitions-face-reality-check-at-irish-local-and-eu-elections/?utm_source=website&utm_campaign=popular)
 
 ###### Advertisement
 
