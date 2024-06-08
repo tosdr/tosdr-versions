@@ -119,7 +119,7 @@ Clemson University
     Back
     
     * [Campus Life Home](http://www.clemson.edu/campus-life/index.html)
-    * [Club Sports](https://www.clemson.edu/campus-life/campus-recreation/club-sports/index.html)
+    * [Club Sports](https://www.clemson.edu/studentaffairs/get-involved/cr/sport-programs/club_sports.html)
     
      [![](//www.clemson.edu/_images/main-nav/brooks.jpg) Brooks Center for the Performing Arts](http://clemson.edu/brooks) 
     
@@ -333,7 +333,7 @@ Forward Arrow Icon Back Arrow Icon Back
 * Campus Life
     
     * [Campus Life Home](http://www.clemson.edu/campus-life/index.html)
-    * [Club Sports](https://www.clemson.edu/campus-life/campus-recreation/club-sports/index.html)
+    * [Club Sports](https://www.clemson.edu/studentaffairs/get-involved/cr/sport-programs/club_sports.html)
     
      [![](//www.clemson.edu/_images/main-nav/brooks.jpg) Brooks Center for the Performing Arts](http://clemson.edu/brooks) 
     
