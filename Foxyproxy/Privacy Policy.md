@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-We have been with you continuously with you for around four years and really do love the service.
+Great and prompt service. I'm extremely happy.
 
-Jenn and Tref
+Dan Rosendorf
