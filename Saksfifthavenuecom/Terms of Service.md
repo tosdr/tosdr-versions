@@ -30,8 +30,6 @@ Promotion may be suspended or terminated at any time. Promotional value is for p
 
 Designer Sale | Up to 50% Off | [**SHOP NOW**](https://www.saksfifthavenue.com/c/sale-2/sale?sre=globalpromo_mod1_designersale)
 
-Order now to get your gifts in time for Father's Day | [**SHOP NOW**](https://www.saksfifthavenue.com/c/gifts/our-favorite-gifts/gifts-for-dad?sre=globalpromo_mod1_fdgg)
-
 **FREE SHIPPING on $200+ With Code FREESHIP** | [**DETAILS**](#?sre=globalpromo_mod1_shipping)
 
 ### ENJOY FREE SHIPPING\*
@@ -64,7 +62,7 @@ Sign Up for Saks Text Alerts | Text SAKS5 to 75283 | [**LEARN MORE**](https://ww
 
 ß
 
-[](https://www.saksfifthavenue.com/mens "saks avenue/Home")
+[](https://www.saksfifthavenue.com/ "saks avenue/Home")
 
 [](https://www.saksfifthavenue.com/wishlist "Wishlist")
 
@@ -348,7 +346,7 @@ WOMEN MEN
         * [Trending Handbags](https://www.saksfifthavenue.com/c/custom/email-events/trending-handbags)
             
             * [Must-Have Handbags](https://www.saksfifthavenue.com/c/custom/email-events/trending-handbags)
-            * [Western Inspired Bags](https://www.saksfifthavenue.com/c/custom/email-events/western-inspired?prefn1=refCategory&prefv1=Handbags)
+            * [Denim Bags](https://www.saksfifthavenue.com/c/handbags/handbags/denim)
             * [Straw & Raffia Bags](https://www.saksfifthavenue.com/c/handbags/handbags/beach-straw-bags)
             * [Bucket Bags](https://www.saksfifthavenue.com/c/handbags/handbags/bucket-bags)
             * [Pastel & Floral Bags](https://www.saksfifthavenue.com/c/custom/email-events/pretty-pastels?prefn1=refCategory&prefv1=Handbags)
@@ -651,15 +649,11 @@ WOMEN MEN
         * [Best Sellers](https://www.saksfifthavenue.com/c/men/best-sellers/accessories) [New Arrivals](https://www.saksfifthavenue.com/c/men/accessories?prefn1=isNew&prefv1=New) [Luggage & Travel Gear](https://www.saksfifthavenue.com/c/home/luggage-travel-gear) [Vacation Accessories](https://www.saksfifthavenue.com/c/custom/editorial-events/vacation-wear/mens-vacation-wear/vacation-accessories)
         * [Designer Sale](https://www.saksfifthavenue.com/c/men/accessories/sale)
             
+            * [Belts](https://www.saksfifthavenue.com/c/men/accessories/belts/sale)
+            * [Hats](https://www.saksfifthavenue.com/c/men/accessories/hats/sale)
             * [Sunglasses](https://www.saksfifthavenue.com/c/men/accessories/sunglasses/sale)
-            * [Amiri](https://www.saksfifthavenue.com/c/men/accessories/amiri/sale)
-            * [COACH](https://www.saksfifthavenue.com/c/men/accessories/coach/sale)
-            * [FERRAGAMO](https://www.saksfifthavenue.com/c/men/accessories/ferragamo/sale)
-            * [Off-White](https://www.saksfifthavenue.com/c/men/accessories/off-white/sale)
-            * [R H U D E](https://www.saksfifthavenue.com/c/men/accessories/r-h-u-d-e/sale)
-            * [TOM FORD](https://www.saksfifthavenue.com/c/men/accessories/tom-ford/sale)
-            * [TUMI](https://www.saksfifthavenue.com/c/men/accessories/tumi/sale)
-            * [Versace](https://www.saksfifthavenue.com/c/men/accessories/versace/sale)
+            * [Wallets & Card Cases](https://www.saksfifthavenue.com/c/men/accessories/wallets-card-cases/sale)
+            * [Watches](https://www.saksfifthavenue.com/c/men/accessories/watches/sale)
             
             [Sale](https://www.saksfifthavenue.com/c/men/accessories/sale)
         * [![https://cdn.saksfifthavenue.com/is/image/saks/060424_MS_ACC_TOUT?scl=1&qlt=85](https://cdn.saksfifthavenue.com/is/image/saks/060424_MS_ACC_TOUT?scl=1&qlt=85)](https://www.saksfifthavenue.com/c/custom/email-events/men-s-must-have-accessories?sre=TNT^1^5^MAC^WANTEDMACC^060424^^NULL^TYPE^SOURCE)
@@ -981,7 +975,6 @@ WOMEN MEN
             * [Women's Luxury Designer Bucket Bags](https://www.saksfifthavenue.com/c/handbags/handbags/bucket-bags)
             * [Designer Diaper Bags & Baby Backpacks](https://www.saksfifthavenue.com/c/handbags/handbags/diaper-bags)
             * [Women's Handbag Accessories](https://www.saksfifthavenue.com/c/handbags/handbags/bag-accessories)
-        * Back In Stock
         * Best-Selling Designer Women's Handbags
         * Men's Bags & Leather Goods
         * Handbag New Arrivals
