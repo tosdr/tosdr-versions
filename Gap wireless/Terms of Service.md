@@ -222,7 +222,7 @@ Subscribe for latest news on sales, promotions, and new products from NWS
     * [x]  Telecom Infrastructure
     * [x]  ICT Solutions
     
-* Phone
+* Comments
     
     This field is for validation purposes and should be left unchanged.
     
