@@ -397,4 +397,6 @@ You can also contact us at the following postal address.
 
 [TikTok Law Enforcement Guidelines](https://www.tiktok.com/legal/law-enforcement?lang=en)
 
+[Modern Slavery and Human Trafficking Statement](https://www.tiktok.com/legal/modern-slavery-statement?lang=en)
+
 © 2024 TikTok
