@@ -272,6 +272,8 @@ Resources
             
         * [Policies, Guidelines and Procedures](https://www.icann.org/resources/pages/general-2014-01-06-en)
             
+        * [Annual Disclosure of Payments to Suppliers](https://www.icann.org/resources/pages/annual-disclosure-payments-suppliers-2024-06-07-en)
+            
     * [Planning](https://www.icann.org/resources/pages/planning-2012-02-25-en)
         
         * [Strategic Plan](https://www.icann.org/resources/pages/strategic-engagement-2013-10-10-en)
