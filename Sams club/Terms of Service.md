@@ -66,7 +66,7 @@ Skip to main contentSkip to footer
     * [Summer Entertaining](https://www.samsclub.com/c/summer-entertaining/15800303?xid=hdr:shop:seasonal:summer-entertaining)
     * [Father's Day](https://www.samsclub.com/c/father-s-day/2400103?xid=hdr:shop:seasonal:fathers-day)
     * [Graduation](https://www.samsclub.com/c/graduation/2400105?xid=hdr:shop:seasonal:graduation)
-    * [Weddings](https://www.samsclub.com/c/weddings/8183?xid=hdr:shop:seasonal:weddings)
+    * [Disaster Recovery](https://www.samsclub.com/b/disaster-recovery/1240101?xid=hdr:shop:seasonal:disaster-recovery)
     * [Gift Cards, Flowers & Gifts](https://www.samsclub.com/c/jewelry-flowers-gifts/7520117?xid=hdr:shop:seasonal:gift-cards-flowers-gifts)
     * [Outdoor & Patio](https://www.samsclub.com/c/outdoor-living/1852?xid=hdr:shop:seasonal:outdoor-patio)
     * [Photo Center](https://photo.samsclub.com/?xid=hdr:shop:seasonal:photo-center)
