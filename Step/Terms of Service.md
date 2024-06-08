@@ -22,7 +22,7 @@ Families
 
 [Step Black](https://www.step.com/blackcard)[Security](https://www.step.com/security)[About](https://www.step.com/about)[FAQ](https://www.step.com/faq)
 
-[Get Step](https://get.step.com/rM7X/afe2261f "Get Step")
+[Get Step](https://apps.apple.com/us/app/step-next-generation-banking/id1438006983?mt=8 "Get Step")
 
 Get Started
 
@@ -445,7 +445,7 @@ Miscellaneous
 
 ### get money smart. get ahead
 
-[Get Step](https://get.step.com/rM7X/afe2261f "Get Step")
+[Get Step](https://apps.apple.com/us/app/step-next-generation-banking/id1438006983?mt=8 "Get Step")
 
 Company
 
