@@ -18,7 +18,19 @@
 
 [Leia tudo sobre Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Ir para Maceió")
 
-   [![Avenida no Benedito Bentes será bloqueada desta sexta-feira (07) até domingo (09)](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/4/csm_30-06-23-Sao-Joao-Benedito-Bentes-DMTT-Por-Evinho-Silva-57_23edf3b608.jpg)
+   [![Vídeo: após chuvas, lama ‘invade’ pista na Avenida Governador Afrânio Lages, em Maceió](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/7/7/csm_lama_na_pista_maceio_e2b9262e9f.jpg)
+
+risco de acidentes
+
+Vídeo: após chuvas, lama ‘invade’ pista na Avenida Governador Afrânio Lages, em Maceió](https://www.tnh1.com.br/noticia/nid/video-apos-chuvas-lama-invade-pista-na-avenida-governador-afranio-lages-em-maceio/ "Vídeo: após chuvas, lama ‘invade’ pista na Avenida Governador Afrânio Lages, em Maceió")   [![Drogas e fiança de salário mínimo: mulher é presa por furto em loja de autopeças; entenda](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/e/csm_CENTRAL-DE-FLAGRANTES-MACEIO-1-1-600x400_274c303b5f.jpg)
+
+moradora de rua
+
+Drogas e fiança de salário mínimo: mulher é presa por furto em loja de autopeças; entenda](https://www.tnh1.com.br/noticia/nid/drogas-e-fianca-de-salario-minimo-mulher-e-presa-por-furto-em-loja-de-autopecas-entenda/ "Drogas e fiança de salário mínimo: mulher é presa por furto em loja de autopeças; entenda")   [![Vídeos: chuva registrada nas últimas horas causa transtornos em Maceió ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/b/d/csm_chuvas-maceio-transtornos-ruas-alagadas_bfd23c7062.png)
+
+Maceió
+
+Vídeos: chuva registrada nas últimas horas causa transtornos em Maceió](https://www.tnh1.com.br/noticia/nid/videos-chuva-registrada-nas-ultimas-horas-causa-transtornos-em-maceio/ "Vídeos: chuva registrada nas últimas horas causa transtornos em Maceió ")   [![Avenida no Benedito Bentes será bloqueada desta sexta-feira (07) até domingo (09)](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/4/csm_30-06-23-Sao-Joao-Benedito-Bentes-DMTT-Por-Evinho-Silva-57_23edf3b608.jpg)
 
 veja pontos
 
@@ -30,19 +42,7 @@ Após chuvas na madrugada, árvore cai na Avenida Leste-Oeste e deixa trânsito 
 
 Maceió
 
-Feira dos Empreendedores do Flexal promove comércio, cultura e gastronomia](https://www.tnh1.com.br/noticia/nid/feira-dos-empreendedores-do-flexal-promove-comercio-cultura-e-gastronomia/ "Feira dos Empreendedores do Flexal promove comércio, cultura e gastronomia")   [![Veja o que pode e o que não pode na entrada do Rei Pelé para a final da Copa do Nordeste](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/c/csm_estadio-reipele_933bfd5748.jpeg)
-
-CRB X Fortaleza
-
-Veja o que pode e o que não pode na entrada do Rei Pelé para a final da Copa do Nordeste](https://www.tnh1.com.br/noticia/nid/veja-o-que-pode-e-o-que-nao-pode-na-entrada-do-rei-pele-para-a-final-da-copa-do-nordeste/ "Veja o que pode e o que não pode na entrada do Rei Pelé para a final da Copa do Nordeste")   [![Maceió: 22 mil metros de lonas já foram colocados em mais de 100 encostas neste ano](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/4/c/csm_10-04-24-Contencao-de-Encosta-Av.-Alfranio-Lajes-Jacintinho-Leste-Oeste-Antes-SEMINFRA-Fotos-Felipe-Sostenes-1_99de7e62a8.jpg)
-
-prevenção
-
-Maceió: 22 mil metros de lonas já foram colocados em mais de 100 encostas neste ano](https://www.tnh1.com.br/noticia/nid/maceio-22-mil-metros-de-lonas-ja-foram-colocados-em-mais-de-100-encostas-neste-ano/ "Maceió: 22 mil metros de lonas já foram colocados em mais de 100 encostas neste ano")   [!['Vapes': Vigilância Sanitária apreende cigarros eletrônicos em fiscalização, em Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/b/0/csm_Vigilancia_Sanitaria_fiscaliza_comercializacao_de_cigarros_eletronicos_-_foto_VISA_2_0bd77a2a5b.jpeg)
-
-proibidos
-
-'Vapes': Vigilância Sanitária apreende cigarros eletrônicos em fiscalização, em Maceió](https://www.tnh1.com.br/noticia/nid/vapes-vigilancia-sanitaria-apreende-cigarros-eletronicos-em-fiscalizacao-em-maceio/ "'Vapes': Vigilância Sanitária apreende cigarros eletrônicos em fiscalização, em Maceió")
+Feira dos Empreendedores do Flexal promove comércio, cultura e gastronomia](https://www.tnh1.com.br/noticia/nid/feira-dos-empreendedores-do-flexal-promove-comercio-cultura-e-gastronomia/ "Feira dos Empreendedores do Flexal promove comércio, cultura e gastronomia")
 
 [Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Alagoas")
 
@@ -50,31 +50,31 @@ proibidos
 
 [Leia tudo sobre Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Ir para Alagoas")
 
-   [![Chuva: alerta laranja é disparado para Maceió e 38 cidades até a noite de sábado](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/e/csm_csm_alerta_chuva_tnh1_591669cf70__1__92a7063cb4.jpeg)
+   [![Alerta: nível do Rio São Miguel sobe e ameaça transbordar em municípios do interior ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/0/csm_csm_alerta_chuva_tnh1_591669cf70_a71d5a930c.jpeg)
+
+Meteorologia
+
+Alerta: nível do Rio São Miguel sobe e ameaça transbordar em municípios do interior](https://www.tnh1.com.br/noticia/nid/alerta-nivel-do-rio-sao-miguel-sobe-e-ameaca-transbordar-em-municipios-do-interior/ "Alerta: nível do Rio São Miguel sobe e ameaça transbordar em municípios do interior ")   [![Alagoas está entre os 10 estados com maior volume de "gatos de energia", aponta ANEEL](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/f/csm_Furto_energia_eletrica_-_fazenda_Penedo_-_foto_Equatorial__2__b3630979ce.jpeg)
+
+Brasil
+
+Alagoas está entre os 10 estados com maior volume de "gatos de energia", aponta ANEEL](https://www.tnh1.com.br/noticia/nid/alagoas-esta-entre-os-10-estados-com-maior-volume-de-gatos-de-energia-aponta-aneel/ "Alagoas está entre os 10 estados com maior volume de "gatos de energia", aponta ANEEL")   [![Atenção, concurseiros: governador anuncia concurso para UNEAL; veja número de vagas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/3/csm_UNEAL_-uniao_fcb83d13b1.jpg)
+
+certame autorizado
+
+Atenção, concurseiros: governador anuncia concurso para UNEAL; veja número de vagas](https://www.tnh1.com.br/noticia/nid/atencao-concurseiros-governador-anuncia-concurso-para-uneal-veja-numero-de-vagas/ "Atenção, concurseiros: governador anuncia concurso para UNEAL; veja número de vagas")   [![Jovem grávida que invadiu Câmara de Vereadores em Alagoas tem direito a pensão, mesmo sem exame de DNA; entenda](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/a/1/csm_mulher_invade_sessao_camara_murici_48c123fda1.jpg)
+
+Alagoas
+
+Jovem grávida que invadiu Câmara de Vereadores em Alagoas tem direito a pensão, mesmo sem exame de DNA; entenda](https://www.tnh1.com.br/noticia/nid/jovem-gravida-que-invadiu-camara-de-vereadores-em-alagoas-tem-direito-a-pensao-mesmo-sem-exame-de-dna-entenda/ "Jovem grávida que invadiu Câmara de Vereadores em Alagoas tem direito a pensão, mesmo sem exame de DNA; entenda")   [![Chuva: alerta laranja é disparado para Maceió e 38 cidades até a noite de sábado](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/e/csm_csm_alerta_chuva_tnh1_591669cf70__1__92a7063cb4.jpeg)
 
 meteorologia
 
-Chuva: alerta laranja é disparado para Maceió e 38 cidades até a noite de sábado](https://www.tnh1.com.br/noticia/nid/chuva-alerta-laranja-e-disparado-para-maceio-e-38-cidades-ate-a-noite-de-sabado/ "Chuva: alerta laranja é disparado para Maceió e 38 cidades até a noite de sábado")   [![Alagoanos podem enfrentar chuvas com acumulados significativos nas próximas 48h](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/d/csm_Chuva_Maceio_-_foto_TNH1_ed64da54b9.jpg)
+Chuva: alerta laranja é disparado para Maceió e 38 cidades até a noite de sábado](https://www.tnh1.com.br/noticia/nid/chuva-alerta-laranja-e-disparado-para-maceio-e-38-cidades-ate-a-noite-de-sabado/ "Chuva: alerta laranja é disparado para Maceió e 38 cidades até a noite de sábado")   [![Alagoanos podem enfrentar chuvas com acumulados significativos nas próximas 48h](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/d/csm_Chuva_Maceio_-_foto_TNH1_ed64da54b9.jpg)
 
 Aviso meteorológico
 
-Alagoanos podem enfrentar chuvas com acumulados significativos nas próximas 48h](https://www.tnh1.com.br/noticia/nid/alagoanos-podem-enfrentar-chuvas-com-acumulados-significativos-nas-proximas-48h/ "Alagoanos podem enfrentar chuvas com acumulados significativos nas próximas 48h")   [![Número de casos confirmados de dengue aumenta 176,5% em Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/2/csm_dengue_freepik_c14687814a.jpg)
-
-de 2023 a 2024
-
-Número de casos confirmados de dengue aumenta 176,5% em Alagoas](https://www.tnh1.com.br/noticia/nid/numero-de-casos-confirmados-de-dengue-aumenta-1765-em-alagoas/ "Número de casos confirmados de dengue aumenta 176,5% em Alagoas")   [![Mais chuva: novo alerta é disparado para Maceió e outros 44 municípios até quinta-feira](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/d/csm_csm_chuva_tnh1_ab437613bf_4ee41809be.jpg)
-
-veja as cidades
-
-Mais chuva: novo alerta é disparado para Maceió e outros 44 municípios até quinta-feira](https://www.tnh1.com.br/noticia/nid/mais-chuva-novo-alerta-e-disparado-para-maceio-e-outros-44-municipios-ate-quinta-feira/ "Mais chuva: novo alerta é disparado para Maceió e outros 44 municípios até quinta-feira")   [![Alagoas apresenta campanha nacional de prevenção ao acidente com moto](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/3/1/csm_05062024_Forum_Nacional_Secretarias_Comunicacao_foto_wendel_palhares_b7a310ed57.jpg)
-
-fórum de secom's
-
-Alagoas apresenta campanha nacional de prevenção ao acidente com moto](https://www.tnh1.com.br/noticia/nid/alagoas-apresenta-campanha-nacional-de-prevencao-ao-acidente-com-moto/ "Alagoas apresenta campanha nacional de prevenção ao acidente com moto")   [![Após fortes chuvas, Caixa disponibiliza Saque Calamidade para moradores de Jequiá Da Praia](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/7/csm_1_aplicativo_caixa_tem_-21904204-reproducao_753298c71d.jpg)
-
-saiba como
-
-Após fortes chuvas, Caixa disponibiliza Saque Calamidade para moradores de Jequiá Da Praia](https://www.tnh1.com.br/noticia/nid/apos-fortes-chuvas-caixa-disponibiliza-saque-calamidade-para-moradores-de-jequia-da-praia/ "Após fortes chuvas, Caixa disponibiliza Saque Calamidade para moradores de Jequiá Da Praia")
+Alagoanos podem enfrentar chuvas com acumulados significativos nas próximas 48h](https://www.tnh1.com.br/noticia/nid/alagoanos-podem-enfrentar-chuvas-com-acumulados-significativos-nas-proximas-48h/ "Alagoanos podem enfrentar chuvas com acumulados significativos nas próximas 48h")
 
 [Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Polícia")
 
@@ -82,31 +82,31 @@ Após fortes chuvas, Caixa disponibiliza Saque Calamidade para moradores de Jequ
 
 [Leia tudo sobre Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Ir para Polícia")
 
-   [![Conselheiro tutelar tem celular apreendido após fuga de suspeito de estupro ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/9/4/csm_Conselho_Tutelar_Olho_D_Agua_do_Casado_-_foto_PCAL_8f53ffc09b.jpg)
+   [![Alagoas registra apreensão de 41 armas de fogo e mais de 29 kg de drogas na primeira semana de junho ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/a/9/csm_drogas-armas-apreensao-policia-militar_a8171ce2ff.jpeg)
+
+COMBATE AO CRIME
+
+Alagoas registra apreensão de 41 armas de fogo e mais de 29 kg de drogas na primeira semana de junho](https://www.tnh1.com.br/noticia/nid/alagoas-registra-apreensao-de-41-armas-de-fogo-e-mais-de-29-kg-de-drogas-na-primeira-semana-de-junho/ "Alagoas registra apreensão de 41 armas de fogo e mais de 29 kg de drogas na primeira semana de junho ")   [![Drogas e fiança de salário mínimo: mulher é presa por furto em loja de autopeças; entenda](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/e/csm_CENTRAL-DE-FLAGRANTES-MACEIO-1-1-600x400_274c303b5f.jpg)
+
+moradora de rua
+
+Drogas e fiança de salário mínimo: mulher é presa por furto em loja de autopeças; entenda](https://www.tnh1.com.br/noticia/nid/drogas-e-fianca-de-salario-minimo-mulher-e-presa-por-furto-em-loja-de-autopecas-entenda/ "Drogas e fiança de salário mínimo: mulher é presa por furto em loja de autopeças; entenda")   [![Adolescente é preso após matar menor no Santos Dumont; vítima teria ameaçado irmão do autor ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/c/csm_menor-preso-homicidio-santos-dumont_5ac47b5e89.jpeg)
+
+Violência
+
+Adolescente é preso após matar menor no Santos Dumont; vítima teria ameaçado irmão do autor](https://www.tnh1.com.br/noticia/nid/adolescente-e-preso-apos-matar-menor-no-santos-dumont-vitima-teria-ameacado-irmao-do-autor/ "Adolescente é preso após matar menor no Santos Dumont; vítima teria ameaçado irmão do autor ")   [![Saiba quem são os policiais que salvaram bebê de oito meses que estava engasgado ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/5/csm_Bebe_engasgado_e_salvo_por_policiais_em_Alagoas_-_foto_PMAL_38b5a8d184.jpeg)
+
+em alagoas
+
+Saiba quem são os policiais que salvaram bebê de oito meses que estava engasgado](https://www.tnh1.com.br/noticia/nid/saiba-quem-sao-os-policiais-que-salvaram-bebe-de-oito-meses-que-estava-engasgado/ "Saiba quem são os policiais que salvaram bebê de oito meses que estava engasgado ")   [![Conselheiro tutelar tem celular apreendido após fuga de suspeito de estupro ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/9/4/csm_Conselho_Tutelar_Olho_D_Agua_do_Casado_-_foto_PCAL_8f53ffc09b.jpg)
 
 sertão de al
 
-Conselheiro tutelar tem celular apreendido após fuga de suspeito de estupro](https://www.tnh1.com.br/noticia/nid/conselheiro-tutelar-tem-celular-apreendido-apos-fuga-de-suspeito-de-estupro/ "Conselheiro tutelar tem celular apreendido após fuga de suspeito de estupro ")   [![Sumiço de alagoanos entre SP e Recife: Delegado detalha passo a passo](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/a/csm_Alagoanos_desaparecidos_em_viagem_de_onibus_de_SP_a_AL_-_foto_Divulgacao_-_Arquivo_pessoal_12bb0f1333.jpg)
+Conselheiro tutelar tem celular apreendido após fuga de suspeito de estupro](https://www.tnh1.com.br/noticia/nid/conselheiro-tutelar-tem-celular-apreendido-apos-fuga-de-suspeito-de-estupro/ "Conselheiro tutelar tem celular apreendido após fuga de suspeito de estupro ")   [![Sumiço de alagoanos entre SP e Recife: Delegado detalha passo a passo](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/a/csm_Alagoanos_desaparecidos_em_viagem_de_onibus_de_SP_a_AL_-_foto_Divulgacao_-_Arquivo_pessoal_12bb0f1333.jpg)
 
 mistério
 
-Sumiço de alagoanos entre SP e Recife: Delegado detalha passo a passo](https://www.tnh1.com.br/noticia/nid/sumico-de-alagoanos-entre-sp-e-recife-delegado-detalha-passo-a-passo/ "Sumiço de alagoanos entre SP e Recife: Delegado detalha passo a passo")   [![Polícia investiga morte de recém-nascido após parto induzido em hospital particular](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/7/d/csm_bebe_uti_ilustracao_freepik_029b221ad2.jpg)
-
-de maceió
-
-Polícia investiga morte de recém-nascido após parto induzido em hospital particular](https://www.tnh1.com.br/noticia/nid/policia-investiga-morte-de-recem-nascido-apos-parto-induzido-em-hospital-particular/ "Polícia investiga morte de recém-nascido após parto induzido em hospital particular")   [![Enforcado com fio e afogado em caixa d'água: dupla é presa por crime bárbaro em Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/b/d/csm_cisp_maribondo_-_ascom_pcal_5ae59d9e69.jpg)
-
-acusada de homicídio
-
-Enforcado com fio e afogado em caixa d'água: dupla é presa por crime bárbaro em Alagoas](https://www.tnh1.com.br/noticia/nid/enforcado-com-fio-e-afogado-em-caixa-dagua-dupla-e-presa-por-crime-barbaro-em-alagoas/ "Enforcado com fio e afogado em caixa d'água: dupla é presa por crime bárbaro em Alagoas")   [![Com chaves de mansão, diarista é presa por furto em condomínio de luxo](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/4/b/csm_CISP-MARECHAL-deodoro-foto-Wellington_Alves_3a54848c63.jpeg)
-
-CONFESSOU CRIME
-
-Com chaves de mansão, diarista é presa por furto em condomínio de luxo](https://www.tnh1.com.br/noticia/nid/com-chaves-de-mansao-diarista-e-presa-por-furto-em-condominio-de-luxo/ "Com chaves de mansão, diarista é presa por furto em condomínio de luxo")   [![Alagoano desaparecido em viagem de ônibus é suspeito de importunação sexual](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/4/csm_policia_civil_de_alagoas_c578a606c2.jpg)
-
-DIZ POLÍCIA
-
-Alagoano desaparecido em viagem de ônibus é suspeito de importunação sexual](https://www.tnh1.com.br/noticia/nid/alagoano-desaparecido-em-viagem-de-onibus-e-suspeito-de-importunacao-sexual/ "Alagoano desaparecido em viagem de ônibus é suspeito de importunação sexual")
+Sumiço de alagoanos entre SP e Recife: Delegado detalha passo a passo](https://www.tnh1.com.br/noticia/nid/sumico-de-alagoanos-entre-sp-e-recife-delegado-detalha-passo-a-passo/ "Sumiço de alagoanos entre SP e Recife: Delegado detalha passo a passo")
 
 [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
 
@@ -198,31 +198,7 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![Psicóloga presa por matar namorado com brigadeirão envenenado ganha apelido na cadeia](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/c/csm_suspeita_de_matar_namorado_envenenado_com_brigadeirao_-_foto_rafael_nascimento_g1_fb0c9651e4.jpg)
-
-vítima era empresário
-
-vítima era empresário
-
-Psicóloga presa por matar namorado com brigadeirão envenenado ganha apelido na cadeia
-
-Psicóloga presa por matar namorado com brigadeirão envenenado ganha apelido na cadeia](https://www.tnh1.com.br/noticia/nid/psicologa-presa-por-matar-namorado-com-brigadeirao-envenenado-ganha-apelido-na-cadeia/ "Psicóloga presa por matar namorado com brigadeirão envenenado ganha apelido na cadeia")[![Vídeo: Pablo encerra polêmica e revela motivo do fim da 'sofrência'](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/0/csm_Pablo_do_Arrocha_-_foto_Reproducao_Instagram_%40pablo_oficial_62c9c04a40.jpg)
-
-assista
-
-assista
-
-Vídeo: Pablo encerra polêmica e revela motivo do fim da 'sofrência'
-
-Vídeo: Pablo encerra polêmica e revela motivo do fim da 'sofrência'](https://www.tnh1.com.br/noticia/nid/video-pablo-encerra-polemica-e-revela-motivo-do-fim-da-sofrencia/ "Vídeo: Pablo encerra polêmica e revela motivo do fim da 'sofrência'")[![Filho de Chico Anysio, Bruno Mazzeo surpreende ao revelar herança; veja vídeo](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/7/0/csm_bruno-mazzeo-participa-do-desculpa-alguma-coisa-_-_foto_Reproducao_Youtube_247480493b.jpg)
-
-humoristas
-
-humoristas
-
-Filho de Chico Anysio, Bruno Mazzeo surpreende ao revelar herança; veja vídeo
-
-Filho de Chico Anysio, Bruno Mazzeo surpreende ao revelar herança; veja vídeo](https://www.tnh1.com.br/noticia/nid/filho-de-chico-anysio-bruno-mazzeo-surpreende-ao-revelar-heranca-veja-video/ "Filho de Chico Anysio, Bruno Mazzeo surpreende ao revelar herança; veja vídeo")[![Vídeo: mulher grávida "invade" sessão e cobra vereador por abandono, em Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/6/csm_mulher_gravida_plenario_camara_de_vereadores_murici_ee6492c476.jpeg)
+[![Vídeo: mulher grávida "invade" sessão e cobra vereador por abandono, em Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/6/csm_mulher_gravida_plenario_camara_de_vereadores_murici_ee6492c476.jpeg)
 
 confusão
 
@@ -230,41 +206,65 @@ confusão
 
 Vídeo: mulher grávida "invade" sessão e cobra vereador por abandono, em Alagoas
 
-Vídeo: mulher grávida "invade" sessão e cobra vereador por abandono, em Alagoas](https://www.tnh1.com.br/noticia/nid/video-mulher-gravida-invade-sessao-e-cobra-vereador-por-abandono-em-alagoas/ "Vídeo: mulher grávida "invade" sessão e cobra vereador por abandono, em Alagoas")
+Vídeo: mulher grávida "invade" sessão e cobra vereador por abandono, em Alagoas](https://www.tnh1.com.br/noticia/nid/video-mulher-gravida-invade-sessao-e-cobra-vereador-por-abandono-em-alagoas/ "Vídeo: mulher grávida "invade" sessão e cobra vereador por abandono, em Alagoas")[![Sumiço de alagoanos entre SP e Recife: Delegado detalha passo a passo](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/a/csm_Alagoanos_desaparecidos_em_viagem_de_onibus_de_SP_a_AL_-_foto_Divulgacao_-_Arquivo_pessoal_1a12589d65.jpg)
 
-[![Técnico do CSA analisa reforços anunciados e projeta vitória: "Precisamos sinalizar logo"](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/2/csm_Higo_Magalhaes_-_foto_Augusto_Oliveira_-_CSA_075e70f1df.jpeg)
+mistério
 
-veja coletiva
+mistério
 
-veja coletiva
+Sumiço de alagoanos entre SP e Recife: Delegado detalha passo a passo
 
-Técnico do CSA analisa reforços anunciados e projeta vitória: "Precisamos sinalizar logo"
+Sumiço de alagoanos entre SP e Recife: Delegado detalha passo a passo](https://www.tnh1.com.br/noticia/nid/sumico-de-alagoanos-entre-sp-e-recife-delegado-detalha-passo-a-passo/ "Sumiço de alagoanos entre SP e Recife: Delegado detalha passo a passo")[![Com chaves de mansão, diarista é presa por furto em condomínio de luxo](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/b/csm_CISP-MARECHAL-deodoro-foto-Wellington_Alves_5647e22db2.jpeg)
 
-Técnico do CSA analisa reforços anunciados e projeta vitória: "Precisamos sinalizar logo"](https://www.tnh1.com.br/noticia/nid/tecnico-do-csa-analisa-reforcos-anunciados-e-projeta-vitoria-precisamos-sinalizar-logo/ "Técnico do CSA analisa reforços anunciados e projeta vitória: "Precisamos sinalizar logo"")[![CRB precisa de feito inédito para ser campeão da Copa do Nordeste ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/0/csm_CRB-copa-do-nordeste-feito-inedito-reproducao-instagram_9673e04ee5.png)
+CONFESSOU CRIME
+
+CONFESSOU CRIME
+
+Com chaves de mansão, diarista é presa por furto em condomínio de luxo
+
+Com chaves de mansão, diarista é presa por furto em condomínio de luxo](https://www.tnh1.com.br/noticia/nid/com-chaves-de-mansao-diarista-e-presa-por-furto-em-condominio-de-luxo/ "Com chaves de mansão, diarista é presa por furto em condomínio de luxo")[![Enforcado com fio e afogado em caixa d'água: dupla é presa por crime bárbaro em Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/b/d/csm_cisp_maribondo_-_ascom_pcal_8c2ecba830.jpg)
+
+acusada de homicídio
+
+acusada de homicídio
+
+Enforcado com fio e afogado em caixa d'água: dupla é presa por crime bárbaro em Alagoas
+
+Enforcado com fio e afogado em caixa d'água: dupla é presa por crime bárbaro em Alagoas](https://www.tnh1.com.br/noticia/nid/enforcado-com-fio-e-afogado-em-caixa-dagua-dupla-e-presa-por-crime-barbaro-em-alagoas/ "Enforcado com fio e afogado em caixa d'água: dupla é presa por crime bárbaro em Alagoas")
+
+[![Professora é presa acusada de chamar aluna de 'preta do cabelo duro'](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/c/csm_escola-racismo-rj-reproducao_1d864e6689.jpg)
+
+NO RJ
+
+NO RJ
+
+Professora é presa acusada de chamar aluna de 'preta do cabelo duro'
+
+Professora é presa acusada de chamar aluna de 'preta do cabelo duro'](https://www.tnh1.com.br/noticia/nid/professora-e-presa-acusada-de-chamar-aluna-de-preta-do-cabelo-duro/ "Professora é presa acusada de chamar aluna de 'preta do cabelo duro'")[![Ativista é acusado de oferecer sexo oral a adolescente em banheiro de shopping](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/7/csm_assedio-miramar-SP-reproducao-arquivo-pessoal_351d02f760.jpg)
+
+EM SP
+
+EM SP
+
+Ativista é acusado de oferecer sexo oral a adolescente em banheiro de shopping
+
+Ativista é acusado de oferecer sexo oral a adolescente em banheiro de shopping](https://www.tnh1.com.br/noticia/nid/ativista-e-acusado-de-oferecer-sexo-oral-a-adolescente-em-banheiro-de-shopping/ "Ativista é acusado de oferecer sexo oral a adolescente em banheiro de shopping")[![Jornal elege camisa branca da França a mais bonita da Euro; veja top 10](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/3/c/csm_franca-camisa-reproducao-redes-sociais_ab8fb24907.png)
 
 Futebol
 
 Futebol
 
-CRB precisa de feito inédito para ser campeão da Copa do Nordeste
+Jornal elege camisa branca da França a mais bonita da Euro; veja top 10
 
-CRB precisa de feito inédito para ser campeão da Copa do Nordeste](https://www.tnh1.com.br/noticia/nid/crb-precisa-de-feito-inedito-para-ser-campeao-da-copa-do-nordeste/ "CRB precisa de feito inédito para ser campeão da Copa do Nordeste ")[![Bet patrocinadora do Corinthians rescinde contrato milionário; entenda polêmica](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/1/csm_Vai_de_Bet_rescinde_contrato_de_patrocinio_com_o_Corinthians_-_foto_Corinthians_5591cdfdf0.jpg)
+Jornal elege camisa branca da França a mais bonita da Euro; veja top 10](https://www.tnh1.com.br/noticia/nid/jornal-elege-camisa-branca-da-franca-a-mais-bonita-da-euro-veja-top-10/ "Jornal elege camisa branca da França a mais bonita da Euro; veja top 10")[![Alerta: nível do Rio São Miguel sobe e ameaça transbordar em municípios do interior ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/0/csm_csm_alerta_chuva_tnh1_591669cf70_0ef832368f.jpeg)
 
-Futebol Nacional
+Meteorologia
 
-Futebol Nacional
+Meteorologia
 
-Bet patrocinadora do Corinthians rescinde contrato milionário; entenda polêmica
+Alerta: nível do Rio São Miguel sobe e ameaça transbordar em municípios do interior
 
-Bet patrocinadora do Corinthians rescinde contrato milionário; entenda polêmica](https://www.tnh1.com.br/noticia/nid/bet-patrocinadora-do-corinthians-rescinde-contrato-milionario-entenda-polemica/ "Bet patrocinadora do Corinthians rescinde contrato milionário; entenda polêmica")[![Conselheiro tutelar tem celular apreendido após fuga de suspeito de estupro ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/9/4/csm_Conselho_Tutelar_Olho_D_Agua_do_Casado_-_foto_PCAL_43880d10d2.jpg)
-
-sertão de al
-
-sertão de al
-
-Conselheiro tutelar tem celular apreendido após fuga de suspeito de estupro
-
-Conselheiro tutelar tem celular apreendido após fuga de suspeito de estupro](https://www.tnh1.com.br/noticia/nid/conselheiro-tutelar-tem-celular-apreendido-apos-fuga-de-suspeito-de-estupro/ "Conselheiro tutelar tem celular apreendido após fuga de suspeito de estupro ")
+Alerta: nível do Rio São Miguel sobe e ameaça transbordar em municípios do interior](https://www.tnh1.com.br/noticia/nid/alerta-nivel-do-rio-sao-miguel-sobe-e-ameaca-transbordar-em-municipios-do-interior/ "Alerta: nível do Rio São Miguel sobe e ameaça transbordar em municípios do interior ")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
