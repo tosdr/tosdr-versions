@@ -1,22 +1,22 @@
-[![](https://assets-global.website-files.com/63eef15e3ff8fd318e9a6888/6459f4a5613941f629069dc2_Logo-Full-White.svg)](https://www.cybrary.it/)
+[![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/6459f4a5613941f629069dc2_Logo-Full-White.svg)](https://www.cybrary.it/)
 
-[![](https://assets-global.website-files.com/63eef15e3ff8fd318e9a6888/64603abf9e8b1cbd2a4cc808_Vectors-Wrapper.svg)](https://www.cybrary.it/)[![](https://assets-global.website-files.com/63eef15e3ff8fd318e9a6888/64603ac0191f0817ca0ec0c2_Vectors-Wrapper.svg)](#)
+[![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/64603abf9e8b1cbd2a4cc808_Vectors-Wrapper.svg)](https://www.cybrary.it/)[![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/64603ac0191f0817ca0ec0c2_Vectors-Wrapper.svg)](#)
 
 Catalog
 
-![](https://assets-global.website-files.com/63eef15e3ff8fd318e9a6888/645b477d89482a992ae754da_down-chevron.svg)
+![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/645b477d89482a992ae754da_down-chevron.svg)
 
-![](https://assets-global.website-files.com/63eef15e3ff8fd318e9a6888/64603abf9e8b1cbd2a4cc808_Vectors-Wrapper.svg)![](https://assets-global.website-files.com/63eef15e3ff8fd318e9a6888/64603ac0191f0817ca0ec0c2_Vectors-Wrapper.svg)
+![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/64603abf9e8b1cbd2a4cc808_Vectors-Wrapper.svg)![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/64603ac0191f0817ca0ec0c2_Vectors-Wrapper.svg)
 
-[![](https://assets-global.website-files.com/63eef15e3ff8fd318e9a6888/6459f64833fa1f466669ce29_Vectors-Wrapper.svg)
+[![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/6459f64833fa1f466669ce29_Vectors-Wrapper.svg)
 
 Career Paths
 
 Launch or advance your career with curated collections of courses, labs, and more.](https://www.cybrary.it/career-path)
 
-![](https://assets-global.website-files.com/63eef15e3ff8fd318e9a6888/64603abf9e8b1cbd2a4cc808_Vectors-Wrapper.svg)![](https://assets-global.website-files.com/63eef15e3ff8fd318e9a6888/64603ac0191f0817ca0ec0c2_Vectors-Wrapper.svg)
+![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/64603abf9e8b1cbd2a4cc808_Vectors-Wrapper.svg)![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/64603ac0191f0817ca0ec0c2_Vectors-Wrapper.svg)
 
-![](https://assets-global.website-files.com/63eef15e3ff8fd318e9a6888/646052a00d31bc5cef844f6d_Vectors-Wrapper.svg)
+![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/646052a00d31bc5cef844f6d_Vectors-Wrapper.svg)
 
 Back
 
@@ -32,15 +32,15 @@ Governance, Risk Management & Compliance
 
 Leadership & Management
 
-[![](https://assets-global.website-files.com/63eef15e3ff8fd318e9a6888/645bff6b8011b935ffdc4f24_Exam.svg)
+[![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/645bff6b8011b935ffdc4f24_Exam.svg)
 
 Certification Prep
 
 Prepare for and maintain leading cybersecurity certifications](https://www.cybrary.it/certifications)
 
-![](https://assets-global.website-files.com/63eef15e3ff8fd318e9a6888/64603abf9e8b1cbd2a4cc808_Vectors-Wrapper.svg)![](https://assets-global.website-files.com/63eef15e3ff8fd318e9a6888/64603ac0191f0817ca0ec0c2_Vectors-Wrapper.svg)
+![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/64603abf9e8b1cbd2a4cc808_Vectors-Wrapper.svg)![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/64603ac0191f0817ca0ec0c2_Vectors-Wrapper.svg)
 
-![](https://assets-global.website-files.com/63eef15e3ff8fd318e9a6888/646052a00d31bc5cef844f6d_Vectors-Wrapper.svg)
+![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/646052a00d31bc5cef844f6d_Vectors-Wrapper.svg)
 
 Back
 
@@ -50,15 +50,15 @@ Intermediate
 
 Advanced
 
-[![](https://assets-global.website-files.com/63eef15e3ff8fd318e9a6888/645bff6b5538eddcd9f4f19b_Chalkboard.svg)
+[![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/645bff6b5538eddcd9f4f19b_Chalkboard.svg)
 
 Mission Readiness
 
 Learn how to detect and mitigate the latest threats and vulnerabilities.](https://www.cybrary.it/mitre-attack)
 
-![](https://assets-global.website-files.com/63eef15e3ff8fd318e9a6888/64603abf9e8b1cbd2a4cc808_Vectors-Wrapper.svg)![](https://assets-global.website-files.com/63eef15e3ff8fd318e9a6888/64603ac0191f0817ca0ec0c2_Vectors-Wrapper.svg)
+![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/64603abf9e8b1cbd2a4cc808_Vectors-Wrapper.svg)![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/64603ac0191f0817ca0ec0c2_Vectors-Wrapper.svg)
 
-![](https://assets-global.website-files.com/63eef15e3ff8fd318e9a6888/646052a00d31bc5cef844f6d_Vectors-Wrapper.svg)
+![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/646052a00d31bc5cef844f6d_Vectors-Wrapper.svg)
 
 Back
 
@@ -72,29 +72,29 @@ Cybrary Challenges
 
 [MITRE ATT&CK](https://www.cybrary.it/mitre-attack)
 
-[![](https://assets-global.website-files.com/63eef15e3ff8fd318e9a6888/647447f1c78ce7bb4465e579_Article.svg)
+[![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/647447f1c78ce7bb4465e579_Article.svg)
 
 Browse the Catalog](https://www.cybrary.it/catalog)
 
-[![](https://assets-global.website-files.com/63eef15e3ff8fd318e9a6888/65c51c0275b0a34272cb9c68_icon-forum2.png)
+[![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/65c51c0275b0a34272cb9c68_icon-forum2.png)
 
 Instructors](https://www.cybrary.it/instructor)
 
 For Individuals
 
-![](https://assets-global.website-files.com/63eef15e3ff8fd318e9a6888/645b477d89482a992ae754da_down-chevron.svg)
+![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/645b477d89482a992ae754da_down-chevron.svg)
 
-![](https://assets-global.website-files.com/63eef15e3ff8fd318e9a6888/64603abf9e8b1cbd2a4cc808_Vectors-Wrapper.svg)![](https://assets-global.website-files.com/63eef15e3ff8fd318e9a6888/64603ac0191f0817ca0ec0c2_Vectors-Wrapper.svg)
+![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/64603abf9e8b1cbd2a4cc808_Vectors-Wrapper.svg)![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/64603ac0191f0817ca0ec0c2_Vectors-Wrapper.svg)
 
-[![](https://assets-global.website-files.com/63eef15e3ff8fd318e9a6888/6459f64833fa1f466669ce29_Vectors-Wrapper.svg)
+[![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/6459f64833fa1f466669ce29_Vectors-Wrapper.svg)
 
 Career Paths
 
 Launch or advance your career with curated collections of courses, labs, and more.](https://www.cybrary.it/career-path)
 
-![](https://assets-global.website-files.com/63eef15e3ff8fd318e9a6888/64603abf9e8b1cbd2a4cc808_Vectors-Wrapper.svg)![](https://assets-global.website-files.com/63eef15e3ff8fd318e9a6888/64603ac0191f0817ca0ec0c2_Vectors-Wrapper.svg)
+![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/64603abf9e8b1cbd2a4cc808_Vectors-Wrapper.svg)![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/64603ac0191f0817ca0ec0c2_Vectors-Wrapper.svg)
 
-![](https://assets-global.website-files.com/63eef15e3ff8fd318e9a6888/646052a00d31bc5cef844f6d_Vectors-Wrapper.svg)
+![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/646052a00d31bc5cef844f6d_Vectors-Wrapper.svg)
 
 Back
 
@@ -136,43 +136,43 @@ Leadership & Management
 
 [12 Competencies of the Effective CISO](https://www.cybrary.it/career-path/12-competencies-of-the-effective-ciso)
 
-[![](https://assets-global.website-files.com/63eef15e3ff8fd318e9a6888/65c51c0275b0a34272cb9c68_icon-forum2.png)
+[![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/65c51c0275b0a34272cb9c68_icon-forum2.png)
 
 Forums
 
 Discuss all things cybersecurity for free among the vast Cybrary community](https://forums.cybrary.it/?ref=wwwnav4indv)
 
-[![](https://assets-global.website-files.com/63eef15e3ff8fd318e9a6888/64759bcaeeea08d132530b15_ShieldCheck.svg)
+[![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/64759bcaeeea08d132530b15_ShieldCheck.svg)
 
 Free Access
 
 Get a taste of the catalog with certification prep, introductory courses, and more.](https://www.cybrary.it/free-content)
 
-[![](https://assets-global.website-files.com/63eef15e3ff8fd318e9a6888/64759bd3e0efda06ad8a0d13_User.svg)
+[![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/64759bd3e0efda06ad8a0d13_User.svg)
 
 Insider Pro
 
 Everything you need to learn, practice, and prove your cybersecurity skills.](https://www.cybrary.it/cybrary-insider-pro)
 
-[![](https://assets-global.website-files.com/63eef15e3ff8fd318e9a6888/64759bdd61f63e4571f51ef2_UsersThree.svg)
+[![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/64759bdd61f63e4571f51ef2_UsersThree.svg)
 
 For Teams
 
 Build your team’s cybersecurity skills and achieve new certifications, all in one place](https://www.cybrary.it/business)
 
-[![](https://assets-global.website-files.com/63eef15e3ff8fd318e9a6888/64759bee7697e6b0c0c20758_SubtractSquare.svg)
+[![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/64759bee7697e6b0c0c20758_SubtractSquare.svg)
 
 Compare Plans
 
 Compare features across all plans.](https://www.cybrary.it/upgrade)
 
-[![](https://assets-global.website-files.com/63eef15e3ff8fd318e9a6888/64759bd3e0efda06ad8a0d13_User.svg)
+[![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/64759bd3e0efda06ad8a0d13_User.svg)
 
 Individual](#)
 
-![](https://assets-global.website-files.com/63eef15e3ff8fd318e9a6888/64603abf9e8b1cbd2a4cc808_Vectors-Wrapper.svg)![](https://assets-global.website-files.com/63eef15e3ff8fd318e9a6888/64603ac0191f0817ca0ec0c2_Vectors-Wrapper.svg)
+![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/64603abf9e8b1cbd2a4cc808_Vectors-Wrapper.svg)![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/64603ac0191f0817ca0ec0c2_Vectors-Wrapper.svg)
 
-![](https://assets-global.website-files.com/63eef15e3ff8fd318e9a6888/646052a00d31bc5cef844f6d_Vectors-Wrapper.svg)
+![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/646052a00d31bc5cef844f6d_Vectors-Wrapper.svg)
 
 Back
 
@@ -188,19 +188,19 @@ Back
 
 For Teams
 
-![](https://assets-global.website-files.com/63eef15e3ff8fd318e9a6888/645b477d89482a992ae754da_down-chevron.svg)
+![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/645b477d89482a992ae754da_down-chevron.svg)
 
-![](https://assets-global.website-files.com/63eef15e3ff8fd318e9a6888/64603abf9e8b1cbd2a4cc808_Vectors-Wrapper.svg)![](https://assets-global.website-files.com/63eef15e3ff8fd318e9a6888/64603ac0191f0817ca0ec0c2_Vectors-Wrapper.svg)
+![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/64603abf9e8b1cbd2a4cc808_Vectors-Wrapper.svg)![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/64603ac0191f0817ca0ec0c2_Vectors-Wrapper.svg)
 
-[![](https://assets-global.website-files.com/63eef15e3ff8fd318e9a6888/645bff6b88e6c7f29a688309_UsersThree.svg)
+[![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/645bff6b88e6c7f29a688309_UsersThree.svg)
 
 Teams Exclusive
 
 Upskill your team to better defend your organization from attacks.](https://www.cybrary.it/business)
 
-![](https://assets-global.website-files.com/63eef15e3ff8fd318e9a6888/64603abf9e8b1cbd2a4cc808_Vectors-Wrapper.svg)![](https://assets-global.website-files.com/63eef15e3ff8fd318e9a6888/64603ac0191f0817ca0ec0c2_Vectors-Wrapper.svg)
+![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/64603abf9e8b1cbd2a4cc808_Vectors-Wrapper.svg)![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/64603ac0191f0817ca0ec0c2_Vectors-Wrapper.svg)
 
-![](https://assets-global.website-files.com/63eef15e3ff8fd318e9a6888/646052a00d31bc5cef844f6d_Vectors-Wrapper.svg)
+![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/646052a00d31bc5cef844f6d_Vectors-Wrapper.svg)
 
 Back
 
@@ -208,27 +208,27 @@ Back
 
 [Cybrary Live](https://www.cybrary.it/cybrary-live)
 
-[![](https://assets-global.website-files.com/63eef15e3ff8fd318e9a6888/64759bdd61f63e4571f51ef2_UsersThree.svg)
+[![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/64759bdd61f63e4571f51ef2_UsersThree.svg)
 
 Teams Features
 
 Build your team’s cybersecurity skills and achieve new certifications, all in one place](https://www.cybrary.it/business)
 
-[![](https://assets-global.website-files.com/63eef15e3ff8fd318e9a6888/64759be5f36e14ee9b8e2cbd_Bank.svg)
+[![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/64759be5f36e14ee9b8e2cbd_Bank.svg)
 
 For Government
 
 Support your organization with a custom plan that works for your organization.](https://www.cybrary.it/government)
 
-[![](https://assets-global.website-files.com/63eef15e3ff8fd318e9a6888/645bff6b5538eddcd9f4f19b_Chalkboard.svg)
+[![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/645bff6b5538eddcd9f4f19b_Chalkboard.svg)
 
 Mission Readiness
 
 Learn how to detect and mitigate the latest threats and vulnerabilities.](https://www.cybrary.it/mitre-attack)
 
-![](https://assets-global.website-files.com/63eef15e3ff8fd318e9a6888/64603abf9e8b1cbd2a4cc808_Vectors-Wrapper.svg)![](https://assets-global.website-files.com/63eef15e3ff8fd318e9a6888/64603ac0191f0817ca0ec0c2_Vectors-Wrapper.svg)
+![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/64603abf9e8b1cbd2a4cc808_Vectors-Wrapper.svg)![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/64603ac0191f0817ca0ec0c2_Vectors-Wrapper.svg)
 
-![](https://assets-global.website-files.com/63eef15e3ff8fd318e9a6888/646052a00d31bc5cef844f6d_Vectors-Wrapper.svg)
+![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/646052a00d31bc5cef844f6d_Vectors-Wrapper.svg)
 
 Back
 
@@ -242,33 +242,33 @@ Cybrary Challenges
 
 [MITRE ATT&CK](https://www.cybrary.it/mitre-attack)
 
-[![](https://assets-global.website-files.com/63eef15e3ff8fd318e9a6888/647447a7ce2f02e8bd2e27a4_Buildings.svg)
+[![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/647447a7ce2f02e8bd2e27a4_Buildings.svg)
 
 Business Resources
 
 Learn how Cybrary can help your team thrive.](https://www.cybrary.it/business-resources)
 
-![](https://assets-global.website-files.com/63eef15e3ff8fd318e9a6888/64603abf9e8b1cbd2a4cc808_Vectors-Wrapper.svg)![](https://assets-global.website-files.com/63eef15e3ff8fd318e9a6888/64603ac0191f0817ca0ec0c2_Vectors-Wrapper.svg)
+![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/64603abf9e8b1cbd2a4cc808_Vectors-Wrapper.svg)![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/64603ac0191f0817ca0ec0c2_Vectors-Wrapper.svg)
 
-![](https://assets-global.website-files.com/63eef15e3ff8fd318e9a6888/646052a00d31bc5cef844f6d_Vectors-Wrapper.svg)
+![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/646052a00d31bc5cef844f6d_Vectors-Wrapper.svg)
 
 Back
 
 [Case Studies](https://www.cybrary.it/business-resources#case-studies)[Research Papers](https://www.cybrary.it/business-resources#research-papers)[Articles](https://www.cybrary.it/business-resources#articles)[White Pages](https://www.cybrary.it/business-resources#white-papers)
 
-[![](https://assets-global.website-files.com/63eef15e3ff8fd318e9a6888/64759bee7697e6b0c0c20758_SubtractSquare.svg)
+[![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/64759bee7697e6b0c0c20758_SubtractSquare.svg)
 
 Teams Pricing
 
 Compare features across all plans.](https://www.cybrary.it/upgrade)
 
-[![](https://assets-global.website-files.com/63eef15e3ff8fd318e9a6888/64759bdd61f63e4571f51ef2_UsersThree.svg)
+[![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/64759bdd61f63e4571f51ef2_UsersThree.svg)
 
 Teams](#)
 
-![](https://assets-global.website-files.com/63eef15e3ff8fd318e9a6888/64603abf9e8b1cbd2a4cc808_Vectors-Wrapper.svg)![](https://assets-global.website-files.com/63eef15e3ff8fd318e9a6888/64603ac0191f0817ca0ec0c2_Vectors-Wrapper.svg)
+![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/64603abf9e8b1cbd2a4cc808_Vectors-Wrapper.svg)![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/64603ac0191f0817ca0ec0c2_Vectors-Wrapper.svg)
 
-![](https://assets-global.website-files.com/63eef15e3ff8fd318e9a6888/646052a00d31bc5cef844f6d_Vectors-Wrapper.svg)
+![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/646052a00d31bc5cef844f6d_Vectors-Wrapper.svg)
 
 Back
 
@@ -286,19 +286,19 @@ Back
 
 [Free Teams Demo](https://www.cybrary.it/demo-request)[Sign up](#)[Login](https://app.cybrary.it/login)
 
-![](https://assets-global.website-files.com/63eef15e3ff8fd318e9a6888/646bc9b6485b17ee470cf17a_UserCircle.svg)![](https://assets-global.website-files.com/63eef15e3ff8fd318e9a6888/646bebc1c1b1c9b65da2b2fe_User%20icon%20mobile.svg)
+![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/646bc9b6485b17ee470cf17a_UserCircle.svg)![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/646bebc1c1b1c9b65da2b2fe_User%20icon%20mobile.svg)
 
-[![](https://assets-global.website-files.com/63eef15e3ff8fd318e9a6888/646bcb70b736b95083973672_House.svg)
+[![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/646bcb70b736b95083973672_House.svg)
 
-Dashboard](https://app.cybrary.it/)[![](https://assets-global.website-files.com/63eef15e3ff8fd318e9a6888/646bc9b6485b17ee470cf17a_UserCircle.svg)
+Dashboard](https://app.cybrary.it/)[![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/646bc9b6485b17ee470cf17a_UserCircle.svg)
 
-Profile](https://app.cybrary.it/profile)[![](https://assets-global.website-files.com/63eef15e3ff8fd318e9a6888/646bcc05f5933b13cf51b80f_ArrowsClockwise.svg)
+Profile](https://app.cybrary.it/profile)[![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/646bcc05f5933b13cf51b80f_ArrowsClockwise.svg)
 
-Membership Settings](https://app.cybrary.it/settings/membership)[![](https://assets-global.website-files.com/63eef15e3ff8fd318e9a6888/646bcc1b45e22488bb0ac5b7_UserGear.svg)
+Membership Settings](https://app.cybrary.it/settings/membership)[![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/646bcc1b45e22488bb0ac5b7_UserGear.svg)
 
-Account Settings](https://app.cybrary.it/settings/account)[![](https://assets-global.website-files.com/63eef15e3ff8fd318e9a6888/645d73253081f95e7114665d_Question.svg)
+Account Settings](https://app.cybrary.it/settings/account)[![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/645d73253081f95e7114665d_Question.svg)
 
-Support](https://help.cybrary.it/hc/en-us)[![](https://assets-global.website-files.com/63eef15e3ff8fd318e9a6888/646bcc474735f531feac6d0c_SignOut.svg)
+Support](https://help.cybrary.it/hc/en-us)[![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/646bcc474735f531feac6d0c_SignOut.svg)
 
 Logout](https://app.cybrary.it/logout)
 
@@ -306,14 +306,14 @@ Start learning with free on-demand video training
 
 [Sign up](#)[Login](https://app.cybrary.it/login)
 
-![](https://assets-global.website-files.com/63eef15e3ff8fd318e9a6888/64606ea1ac4c2f8714aa5609_nav-hamburger.svg)
+![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/64606ea1ac4c2f8714aa5609_nav-hamburger.svg)
 
 Amazon Web Services is currently experiencing an outage that may impact your experience on the Cybrary application. We apologize for any inconvenience and will be monitoring this situation closely
 
 Terms of Service
 ================
 
-![](https://assets-global.website-files.com/63eef15e3ff8fd318e9a6888/6437fce68ba92523fbfb9780_webp-Frame%2095969.webp)
+![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/6437fce68ba92523fbfb9780_webp-Frame%2095969.webp)
 
 ### Table of contents
 
@@ -399,7 +399,7 @@ Start learning for free today
 
 Join over 3 million professionals and 96% of Fortune 1000 companies improving their cybersecurity capabilities with Cybrary.
 
-![](https://assets-global.website-files.com/63eef15e3ff8fd318e9a6888/6422fa83dbda4c850389c7bb_Group%20170.webp)
+![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/6422fa83dbda4c850389c7bb_Group%20170.webp)
 
 Create a free account
 
@@ -441,7 +441,7 @@ Resources
 
 Cybrary, Inc.©
 
-![](https://assets-global.website-files.com/63eef15e3ff8fd318e9a6888/645d222dc39641634c0768bc_cybrary-logo.svg)
+![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/645d222dc39641634c0768bc_cybrary-logo.svg)
 
 Register
 
@@ -449,7 +449,7 @@ Join over 3 million cybersecurity professionals advancing their career
 
 [or sign up with](#)
 
-[![](https://assets-global.website-files.com/63eef15e3ff8fd318e9a6888/645d70e0a5eaf95947566694_google%20logo.svg)](https://app.cybrary.it/login?provider=Google)[![](https://assets-global.website-files.com/63eef15e3ff8fd318e9a6888/645d70e01148e53cf9ad961c_apple%20logo.svg)](https://app.cybrary.it/login?provider=Apple)[![](https://assets-global.website-files.com/63eef15e3ff8fd318e9a6888/645d70e025fe5ea81d36fa79_microsoft%20logo.svg)](https://app.cybrary.it/login?provider=Microsoft)[![](https://assets-global.website-files.com/63eef15e3ff8fd318e9a6888/645d70e035ea80b8854896ca_facebook%20logo.svg)](https://app.cybrary.it/login?provider=Facebook)[![](https://assets-global.website-files.com/63eef15e3ff8fd318e9a6888/645d70e0d8373cf9c1d5089c_linkedin%20logo.svg)](https://app.cybrary.it/login?provider=LinkedIn)
+[![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/645d70e0a5eaf95947566694_google%20logo.svg)](https://app.cybrary.it/login?provider=Google)[![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/645d70e01148e53cf9ad961c_apple%20logo.svg)](https://app.cybrary.it/login?provider=Apple)[![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/645d70e025fe5ea81d36fa79_microsoft%20logo.svg)](https://app.cybrary.it/login?provider=Microsoft)[![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/645d70e035ea80b8854896ca_facebook%20logo.svg)](https://app.cybrary.it/login?provider=Facebook)[![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/645d70e0d8373cf9c1d5089c_linkedin%20logo.svg)](https://app.cybrary.it/login?provider=LinkedIn)
 
 Email Address\*
 
@@ -457,25 +457,25 @@ Password\*
 
 _Your password does not meet the minimum security qualifications, please try again._
 
-![](https://assets-global.website-files.com/63eef15e3ff8fd318e9a6888/645d73253081f95e7114665d_Question.svg)![](https://assets-global.website-files.com/63eef15e3ff8fd318e9a6888/645bff6cfbbd3e0a6295dcdd_ShieldCheck.svg)
+![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/645d73253081f95e7114665d_Question.svg)![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/645bff6cfbbd3e0a6295dcdd_ShieldCheck.svg)
 
 See Password Requirements
 
-![](https://assets-global.website-files.com/63eef15e3ff8fd318e9a6888/645d7aac8db87a42878a0352_dropdown%20arrow.svg)
+![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/645d7aac8db87a42878a0352_dropdown%20arrow.svg)
 
-![](https://assets-global.website-files.com/63eef15e3ff8fd318e9a6888/645d74f16881ba8c7f7221ce_Check.svg)
+![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/645d74f16881ba8c7f7221ce_Check.svg)
 
 At least 8 character(s)
 
-![](https://assets-global.website-files.com/63eef15e3ff8fd318e9a6888/645d74f16881ba8c7f7221ce_Check.svg)
+![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/645d74f16881ba8c7f7221ce_Check.svg)
 
 At least 1 number(s)
 
-![](https://assets-global.website-files.com/63eef15e3ff8fd318e9a6888/645d74f16881ba8c7f7221ce_Check.svg)
+![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/645d74f16881ba8c7f7221ce_Check.svg)
 
 At least 1 lowercase letter(s)
 
-![](https://assets-global.website-files.com/63eef15e3ff8fd318e9a6888/645d74f16881ba8c7f7221ce_Check.svg)
+![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/645d74f16881ba8c7f7221ce_Check.svg)
 
 At least 1 uppercase letter(s)
 
