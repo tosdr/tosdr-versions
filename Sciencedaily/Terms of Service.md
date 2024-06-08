@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**June 7, 2024**
+**June 8, 2024**
 
 * * *
 
@@ -229,6 +229,7 @@ this hour
 
 * * *
 
+* ['Missing' Early Sea Sponges Discovered](https://www.sciencedaily.com/releases/2024/06/240605162409.htm)
 * [Younger Classmates Diagnosed With ADHD](https://www.sciencedaily.com/releases/2024/06/240606152231.htm)
 * [Upending Theory of Milky Way Formation](https://www.sciencedaily.com/releases/2024/06/240606152204.htm)
 * [Black Holes a Byproduct of Dark Matter?](https://www.sciencedaily.com/releases/2024/06/240606152154.htm)
@@ -238,7 +239,6 @@ this hour
 * [Toward Blood Stem Cell Self-Renewal](https://www.sciencedaily.com/releases/2024/06/240605162720.htm)
 * [Restored Hearing and Speech in Kids Born Deaf](https://www.sciencedaily.com/releases/2024/06/240605162544.htm)
 * [Babies and AI Both Learn Key Foundation Models](https://www.sciencedaily.com/releases/2024/06/240605162522.htm)
-* [Myelination May Drive Drug Addiction](https://www.sciencedaily.com/releases/2024/06/240605162418.htm)
 
 Trending Topics
 ---------------
@@ -249,9 +249,9 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Breast Cancer](https://www.sciencedaily.com/news/health_medicine/breast_cancer/)
-
 [Heart Disease](https://www.sciencedaily.com/news/health_medicine/heart_disease/)
+
+[Breast Cancer](https://www.sciencedaily.com/news/health_medicine/breast_cancer/)
 
 [Patient Education and Counseling](https://www.sciencedaily.com/news/health_medicine/patient_education_and_counseling/)
 
@@ -261,15 +261,15 @@ this week
 
 [Technology](https://www.sciencedaily.com/news/matter_energy/technology/)
 
-[Mathematical Modeling](https://www.sciencedaily.com/news/computers_math/mathematical_modeling/)
+[Information Technology](https://www.sciencedaily.com/news/computers_math/information_technology/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
+[Biology](https://www.sciencedaily.com/news/plants_animals/biology/)
+
 [Marine Biology](https://www.sciencedaily.com/news/plants_animals/marine_biology/)
 
-[Environmental Awareness](https://www.sciencedaily.com/news/earth_climate/environmental_awareness/)
-
-[Sea Life](https://www.sciencedaily.com/news/plants_animals/sea_life/)
+[Nature](https://www.sciencedaily.com/news/plants_animals/nature/)
 
   
 
