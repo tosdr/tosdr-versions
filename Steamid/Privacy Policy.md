@@ -298,7 +298,7 @@ By using this Site, you signify your acceptance of this policy and terms of serv
 
 #### Stats
 
-[Steam Digit Stats](https://steamid.uk/steamid-digit-stats/) [Vac Waves](https://steamid.uk/vac-ban-waves/) 40 users online
+[Steam Digit Stats](https://steamid.uk/steamid-digit-stats/) [Vac Waves](https://steamid.uk/vac-ban-waves/) 61 users online
 
 #### Ban statistics
 
