@@ -77,9 +77,11 @@ We may update this privacy policy from time to time, but in the case that happen
 
 [Click here to visit the Hacking with Swift store >>](https://www.hackingwithswift.com/store)
 
-[@twostraws](https://twitter.com/twostraws)
+[Twitter](https://twitter.com/twostraws)
 
-[paul@hackingwithswift.com](mailto:paul@hackingwithswift.com)
+[Mastodon](https://mastodon.social/@twostraws)
+
+[Email](mailto:paul@hackingwithswift.com)
 
 [Sponsor the site](https://www.hackingwithswift.com/sponsor)
 
