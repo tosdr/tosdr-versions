@@ -1,24 +1,22 @@
-We’ve updated our Privacy Policy! [**Learn more**](https://bit.ly/457gzQD)
+Coins: [14,724](https://www.coingecko.com/)
 
-Coins: [14,696](https://www.coingecko.com/)
+Exchanges: [1,119](https://www.coingecko.com/en/exchanges)
 
-Exchanges: [1,117](https://www.coingecko.com/en/exchanges)
+Market Cap: [$2.691T](https://www.coingecko.com/en/global-charts) 2.8%
 
-Market Cap: [$2.77T](https://www.coingecko.com/en/global-charts) 0.7%
-
-24h Vol: [$77.443B](https://www.coingecko.com/en/global-charts)
+24h Vol: [$112.281B](https://www.coingecko.com/en/global-charts)
 
 Dominance:
 
-[BTC 50.5%](https://www.coingecko.com/en/global-charts) [ETH 16.5%](https://www.coingecko.com/en/global-charts)
+[BTC 50.8%](https://www.coingecko.com/en/global-charts) [ETH 16.5%](https://www.coingecko.com/en/global-charts)
 
-Gas: 9 GWEI
+Gas: 6 GWEI
 
-Fast: 11 GWEI
+Fast: 6 GWEI
 
-Standard: 9 GWEI
+Standard: 6 GWEI
 
-Safe: 9 GWEI
+Safe: 6 GWEI
 
 Data by Etherscan
 
@@ -158,13 +156,13 @@ CoinGecko reserves the right at its sole discretion to to amend any provision of
 
 1.3 In the event that you submit a form or query to us, or you register with us an account (whether in your personal capacity or on behalf of the Entity that you represent), you undertake to ensure that all information you provide to our Company thereto registration is accurate and updated, and will promptly notify us via email to [hello@coingecko.com](mailto:hello@coingecko.com) in the event of any changes to such information.
 
-1.4 In the event that you register an account with us, you are fully responsible for ensuring that your account login and passwords are kept strictly confidential and secure, as all activities conducted via your account shall be deemed as all acts duly performed and/or authorized by you without the requirement for any further verifications on our part. Should you become aware of any security breaches or unauthorized access to your account, you must notify our Company immediately via email to hello@coingecko.com. Nonetheless, you agree that you will be fully responsible for all acts and transactions (including but not limited to postings, Activity Uploads (as defined in the [Listing T&Cs](https://www.coingecko.com/en/terms)), listings, and usage of any of our Site Services) that take place via your account prior to your aforesaid notification of security breach to us, and you undertake to honour and see to completion all such acts and transactions that has happened under your account (regardless of whether you have specifically authorized such acts or transactions).
+1.4 In the event that you register an account with us, you are fully responsible for ensuring that your account login and passwords are kept strictly confidential and secure, as all activities conducted via your account shall be deemed as all acts duly performed and/or authorized by you without the requirement for any further verifications on our part. Should you become aware of any security breaches or unauthorized access to your account, you must notify our Company immediately via email to hello@coingecko.com. Nonetheless, you agree that you will be fully responsible for all acts and transactions (including but not limited to postings, Activity Uploads (as defined in the [Listing T&Cs](https://www.coingecko.com/en/listing_terms)), listings, and usage of any of our Site Services) that take place via your account prior to your aforesaid notification of security breach to us, and you undertake to honour and see to completion all such acts and transactions that has happened under your account (regardless of whether you have specifically authorized such acts or transactions).
 
 1.5 Should you (whether directly by yourself or indirectly via your request to us) upload, post, publish, or transmit any information on or via our Site, or you communicate with any other users of our Site, you agree to be fully responsible for all such posts and communications. Accordingly, you undertake to only use the Site in a legal and considerate manner, not to misuse or abuse the Site or its other users, including but not limited to not causing any defamation, harassment, sedition, collecting data of other users for your own purposes, and introducing virus, trojans or hacks. In the event that you misuse or abuse the Site, we shall be fully entitled to suspend or ban your account, and/or remove your information from our Site without any prior notice or liability to you. Nonetheless, you agree that we shall not be howsoever liable for any posts or communications by third parties that offend you, although we will sincerely look into any complaints in relation to such posts or communications that you communicate to us of in writing.
 
 #### **2\. Updates & Modifications**
 
-2.1 You agree that it is your responsibility to regularly check our [Website Terms of Use](https://www.coingecko.com/en/terms), our [Privacy Policy](https://www.coingecko.com/en/privacy), [API Terms of Service](https://www.coingecko.com/en/api_terms), [CoinGecko Disclaimer](https://www.coingecko.com/en/disclaimer) and [Listing T&Cs](https://www.coingecko.com/en/terms) to keep yourself updated of any changes or modifications.
+2.1 You agree that it is your responsibility to regularly check our [Website Terms of Use](https://www.coingecko.com/en/terms), our [Privacy Policy](https://www.coingecko.com/en/privacy), [API Terms of Service](https://www.coingecko.com/en/api_terms), [CoinGecko Disclaimer](https://www.coingecko.com/en/disclaimer) and [Listing T&Cs](https://www.coingecko.com/en/listing_terms) to keep yourself updated of any changes or modifications.
 
 2.2 You agree that the terms of our Agreement may be amended, modified, varied or revised from time to time without any prior notice to you, and your continued use of our Site and/or Site Services following any such changes constitutes your agreement to be fully bound by our amended terms. The date that appears at the commencement of each relevant terms and conditions constitutes the latest version of such terms and conditions that is in force and binding on you as part of the Agreement.
 
