@@ -139,7 +139,7 @@
         
         Deliver notifications across text, email, voice.](https://www.twilio.com/en-us/use-cases/alerts-and-notifications)
         
-        [Appointment reminders](https://www.twilio.com/en-us/use-cases/appointment-reminders)
+        [Appointment reminders](https://www.twilio.com/en-us/use-cases/appointment-reminders) [Lead alerts](https://www.twilio.com/en-us/use-cases/lead-alerts)
         
     * [**Marketing & promotions**
         
@@ -488,7 +488,7 @@ Data is collected based on search terms. [Privacy Policy](https://www.twilio.co
         
         Deliver notifications across text, email, voice.](https://www.twilio.com/en-us/use-cases/alerts-and-notifications)
         
-        [Appointment reminders](https://www.twilio.com/en-us/use-cases/appointment-reminders)
+        [Appointment reminders](https://www.twilio.com/en-us/use-cases/appointment-reminders) [Lead alerts](https://www.twilio.com/en-us/use-cases/lead-alerts)
         
     * [**Marketing & promotions**
         
