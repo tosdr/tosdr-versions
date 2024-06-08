@@ -89,10 +89,10 @@ Legal
 Trending Tech Topics
 --------------------
 
-* [WWDC 2024](https://techcrunch.com/2024/06/03/watch-apple-kick-off-wwdc-2024-right-here/)
-* [SpaxeX Launch](https://techcrunch.com/2024/06/06/spacex-launches-mammoth-starship-rocket-and-brings-it-back-for-the-first-time/)
-* [Robinhood Buys Bitstamp](https://techcrunch.com/2024/06/06/robinhood-acquires-global-crypto-exchange-bitstamp-for-200m/)
-* [Rivian R1S And R1T](https://techcrunch.com/2024/06/06/rivian-refresh-r1t-r1s-second-generation-speed-range-apple/)
+* [WWDC 2024](https://techcrunch.com/2024/06/06/what-to-expect-from-wwdc-2024-ios-18-macos-15-and-so-much-ai/)
+* [Carta Valuation](https://techcrunch.com/2024/06/06/cartas-valuation-to-be-cut-by-billions-in-an-upcoming-secondary-sale/)
+* [Byju](https://techcrunch.com/2024/06/07/blackrock-has-slashed-the-value-of-stake-in-byjus-once-worth-22-billion-to-zero/)
+* [Rivian](https://techcrunch.com/2024/06/06/rivian-r1-revamp-profit-survival-r2-suv/)
 * [Tech Layoffs](https://techcrunch.com/2024/05/22/tech-layoffs-2023-list)
 * [ChatGPT](https://techcrunch.com/2024/06/04/chatgpt-everything-to-know-about-the-ai-chatbot)
 
