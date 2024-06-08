@@ -214,7 +214,7 @@ Closets By Design
 
 * [Youtube](https://www.youtube.com/channel/UCCdjd9ErW3iz2qUAfRjfHKA)
 * [Find us on facebook](https://www.facebook.com/closetsbydesign)
-* [Follow Us on Twitter](https://twitter.com/#!/ClosetsByDesign)
+* [Follow Us on Twitter](https://x.com/ClosetsByDesign)
 * [Follow Us on Instagram](https://www.instagram.com/closetsbydesign)
 
 * [Atlanta GA](https://atlanta.closetsbydesign.com/)
@@ -292,4 +292,4 @@ Thank you for your interest in a career opportunity with Closets by Design. To f
 
  
 
-![](https://www.facebook.com/tr?id=212947752425996&ev=PageView&noscript=1&eid=212947752425996365498e8-17ff-4a58-a46a-bbdb3e00cb46&cd%5Bpage_title%5D=Privacy+Policy&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=15906&cd%5Bplugin%5D=PixelYourSite&cd%5Bevent_url%5D=www.closetsbydesign.com%2Fprivacy-policy%2F&cd%5Buser_role%5D=guest)
+![](https://www.facebook.com/tr?id=212947752425996&ev=PageView&noscript=1&eid=212947752425996e026e4a3-aaa5-404b-a3b3-5fc5b89f7612&cd%5Bpage_title%5D=Privacy+Policy&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=15906&cd%5Bplugin%5D=PixelYourSite&cd%5Bevent_url%5D=www.closetsbydesign.com%2Fprivacy-policy%2F&cd%5Buser_role%5D=guest)
