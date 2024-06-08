@@ -54,7 +54,6 @@ Search all IEEE websites
     * [IEEE for Industry (Corporations, Government, Individuals)](https://www.ieee.org/about/industry/introduction.html)
     * [IEEE Climate Change](https://climate-change.ieee.org/?utm_source=mm_link&utm_campaign=climate-change&utm_medium=about&utm_term=ieee-climate-change)
     * [Humanitarian and Philanthropic Opportunities](https://www.ieee.org/about/humanitarian-tech.html)
-    * [](https://www.ieee.org/about/diversity-index1.html)
     
     IEEE and its members inspire a global community to innovate for a better tomorrow through highly cited publications, conferences, technology standards, and professional and educational activities. IEEE is the trusted “voice” for engineering, computing, and technology information around the globe.
     
