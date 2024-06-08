@@ -14,7 +14,7 @@ Education
 
 Features
 
-[Screen Recording](https://www.screencastify.com/products/screen-recorder)[Edit Video](https://www.screencastify.com/products/video-editor)[Submit Assignments](https://www.screencastify.com/products/submit)[Interactive Questions](https://www.screencastify.com/features/interactive-questions)[Premium Library](https://www.screencastify.com/features/premium-library)[World Languages](https://www.screencastify.com/features/world-languages)
+[Screen Recording](https://www.screencastify.com/products/screen-recorder)[Edit Video](https://www.screencastify.com/products/video-editor)[Submit Assignments](https://www.screencastify.com/products/submit)[Interactive Questions](https://www.screencastify.com/features/interactive-questions)[Premium Library](https://www.screencastify.com/features/premium-library)[World Languages](https://www.screencastify.com/features/world-languages)[AI Assistant](https://www.screencastify.com/features/ai-assistant)
 
 Resources
 
