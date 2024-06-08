@@ -1,4 +1,4 @@
-[![Brisk Teaching - Free AI tool for teachers](https://cdn.prod.website-files.com/64d233e71a07f45ec32b6736/65bb349ecda2eaefd1fb5f1f_Brisk%20Logo%20Dark%20(1).svg)](https://www.briskteaching.com/)
+[![](https://cdn.prod.website-files.com/64d233e71a07f45ec32b6736/65bb349ecda2eaefd1fb5f1f_Brisk%20Logo%20Dark%20(1).svg)](#)
 
 Brisk's AI Tools
 
@@ -10,9 +10,7 @@ Resources
 
 [What's New](https://www.briskteaching.com/whats-new)[Success Stories](https://www.briskteaching.com/success-stories)[Professional Development](https://www.briskteaching.com/brisk-professional-development-resources)[FAQs](https://www.briskteaching.com/faq)[Privacy Center](https://www.briskteaching.com/privacy-center)[About Us](https://www.briskteaching.com/about)
 
-[Brisk Boost](https://www.briskboost.ai/)[Join the Community](https://www.briskteaching.com/community)[Add to Chrome](https://chrome.google.com/webstore/detail/brisk-teaching/pcblbflgdkdfdjpjifeppkljdnaekohj)
-
-[Add to Chrome for Free](https://www.briskteaching.com/chrome-extension)
+[Brisk Boost](https://www.briskboost.ai/)[Join the Community!](https://www.briskteaching.com/community)[Add to Chrome For Free](https://www.briskteaching.com/chrome-extension)
 
 ### Privacy Notice (Archived)
 
