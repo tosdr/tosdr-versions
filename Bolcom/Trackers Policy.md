@@ -312,7 +312,6 @@ Wij passen ons cookiebeleid aan wanneer onze webwinkel of de regels rondom cooki
 Print deze pagina
 
 Service & contact
------------------
 
 **Snel regelen in je account**
 
