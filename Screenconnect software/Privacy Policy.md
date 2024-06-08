@@ -243,8 +243,6 @@ The purpose-built platform for MSPs](https://www.connectwise.com/platform?ref=he
 
  Product innovations and updates](https://www.connectwise.com/roadmap "Product Roadmap")
 
-[MSP](https://www.connectwise.com/solutions/software-for-msp?ref=header-www "MSP")
-
 [Platform Benefits
 
 The path to hyperautomation](https://www.connectwise.com/blog/managed-services/what-is-an-msp-platform "Platform Benefits")
@@ -259,13 +257,11 @@ The purpose-built platform for MSPs](https://www.connectwise.com/platform?ref=he
 
  Product innovations and updates](https://www.connectwise.com/roadmap "Product Roadmap")
 
-[MSP](https://www.connectwise.com/solutions/software-for-msp?ref=header-www "MSP")
-
 [Platform Benefits
 
 The path to hyperautomation](https://www.connectwise.com/blog/managed-services/what-is-an-msp-platform "Platform Benefits")
 
-Hyperautomation Solutions
+Explore Hyperautomation
 
 [RPA
 
@@ -275,7 +271,7 @@ Eliminate manual steps with easy to use workflows](https://www.connectwise.com/p
 
 Generative AI for team productivity](https://www.connectwise.com/platform/ai?ref=header "Sidekick")
 
-Hyperautomation Solutions
+Explore Hyperautomation
 
 [RPA
 
