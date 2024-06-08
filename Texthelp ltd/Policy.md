@@ -6,7 +6,7 @@ TH 4.2 Online Purchases Policy
 
 Updated automatically every 5 minutes
 
-![TM_Texthelp_Logo_RGB_Artboard 1.png](https://lh7-us.googleusercontent.com/docsz/AD_4nXdsHIdRz4cQoQwyJT7wjEN3ek7Mu_BclgFF7jlqulDcokq4UzEoDqaQdTB5R2mWmg_neqr-yu5koxKM8pbjHlKybjzXmWG8Gv0yL5mLFHF_JXhW1JVY9WQRftlUG4xjpOREXlpYiXIipgZm5bs?key=CerK5W3GX_iAWo_Mi8_AKg)
+![TM_Texthelp_Logo_RGB_Artboard 1.png](https://lh7-us.googleusercontent.com/docsz/AD_4nXcDj94lqBOJEHoymXyEvK7u4oMgvSBcO2RFkaSuvvf8Fo23P9bcryvRQn7LYSTP7D_n3QtZA611qpc_XgSJhaU5FrEtZQ3zaA5dAYLX7yujLfBhHCLUfHuC1bYl_y0WfYTjf3Ima1gEEhx91W8?key=CerK5W3GX_iAWo_Mi8_AKg)
 
 Online Purchases Policy
 
@@ -23,7 +23,7 @@ All products purchased via my.texthelp.com are done so on a 12 month subscriptio
 
 If purchasing online with credit / debit card, you will be automatically opted in to auto-renew. (Customers purchasing using PO will not be opted in to auto-renew).  Email reminders will be sent close to renewal time to let you know when your auto-renew is happening.
 
-If you wish to opt-out of auto-renewal then you can do so by visiting my.texthelp.com. You'll need to sign in, click on the license you want to opt-out and follow the instructions. [Find out more about opting out here](https://www.google.com/url?q=https://support.texthelp.com/help/opting-out-of-auto-renewal&sa=D&source=editors&ust=1717788232450301&usg=AOvVaw2sMB6Up3LEFCUG7yWyOLpb).
+If you wish to opt-out of auto-renewal then you can do so by visiting my.texthelp.com. You'll need to sign in, click on the license you want to opt-out and follow the instructions. [Find out more about opting out here](https://www.google.com/url?q=https://support.texthelp.com/help/opting-out-of-auto-renewal&sa=D&source=editors&ust=1717887223852699&usg=AOvVaw2La4A1A8YQYyatpcAoqnVX).
 
 ### Renewing Manually
 
@@ -31,7 +31,7 @@ You can renew your license manually at any time before the expiry date. Your car
 
 ### Billing Cycle
 
-The subscription fee for any Texthelp product and any other charges you may incur in connection with your use of the product, such as taxes and possible transaction fees, will be charged on a yearly basis to your credit/debit card on the calendar day corresponding to the commencement of your subscription (details of which are available in-product and online via [my.texthelp.com](https://www.google.com/url?q=https://my.texthelp.com/&sa=D&source=editors&ust=1717788232451095&usg=AOvVaw3eBCjVysqA_whRsetxAqXH))
+The subscription fee for any Texthelp product and any other charges you may incur in connection with your use of the product, such as taxes and possible transaction fees, will be charged on a yearly basis to your credit/debit card on the calendar day corresponding to the commencement of your subscription (details of which are available in-product and online via [my.texthelp.com](https://www.google.com/url?q=https://my.texthelp.com/&sa=D&source=editors&ust=1717887223853402&usg=AOvVaw3rru58eS8WXXG1wLBxNgE4))
 
 ### Payment Methods
 
@@ -41,9 +41,9 @@ Texthelp uses Stripe to process all credit/debit card information.  If a paymen
 
 You can cancel your Texthelp subscription at the end of any 12 month term or within 30 days of your purchase date.
 
-If your policy is set to renew automatically, you'll need to contact us at least four working days before your renewal date to make sure payment isn't collected. [Find out how to cancel your subscription here](https://www.google.com/url?q=https://support.texthelp.com/help/opting-out-of-auto-renewal&sa=D&source=editors&ust=1717788232451861&usg=AOvVaw10Qf3umlJbzm--epCHIlCG).
+If your policy is set to renew automatically, you'll need to contact us at least four working days before your renewal date to make sure payment isn't collected. [Find out how to cancel your subscription here](https://www.google.com/url?q=https://support.texthelp.com/help/opting-out-of-auto-renewal&sa=D&source=editors&ust=1717887223853896&usg=AOvVaw2qWi_B9Ol2arftuQ3Ic1TW).
 
-[Contact us to cancel your subscription here.](https://www.google.com/url?q=https://www.texthelp.com/support/contact-us/&sa=D&source=editors&ust=1717788232452318&usg=AOvVaw30ne8r20nNzjGCn6qWpUop)
+[Contact us to cancel your subscription here.](https://www.google.com/url?q=https://www.texthelp.com/support/contact-us/&sa=D&source=editors&ust=1717887223854210&usg=AOvVaw0fwXvh472Jef3XneIsLv1O)
 
 ### Changing payment details at renewal
 
