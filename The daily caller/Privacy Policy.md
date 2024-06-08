@@ -304,37 +304,37 @@ Copyright (c) 2018, The Daily Caller, Inc.
 
 TRENDING
 
-[![](/files/images/1x1.trans.gif)](https://dailycaller.com/2024/06/07/watermelon-head-dr-phil-struggles-straight-face-trump-rips-into-dem-rep-adam-schiff-clinton-russia/ "‘I Call Him Watermelon Head!’: Dr. Phil Struggles To Keep A Straight Face As Trump Rips Into Dem Rep")
+[![](/files/images/1x1.trans.gif)](https://dailycaller.com/2024/06/08/luden-roberts-phones-crashed-hunter-biden-pregnancy-megyn-kelly/ "‘A Total Meltdown’: Lunden Roberts Claims Phone ‘Crashed,’ ‘Everything’ With Hunter Biden ‘Gone’ After Pregnancy Discovery")
 
 1
 
-[‘I Call Him Watermelon Head!’: Dr. Phil Struggles To Keep A Straight Face As Trump Rips Into Dem Rep](https://dailycaller.com/2024/06/07/watermelon-head-dr-phil-struggles-straight-face-trump-rips-into-dem-rep-adam-schiff-clinton-russia/)
+[‘A Total Meltdown’: Lunden Roberts Claims Phone ‘Crashed,’ ‘Everything’ With Hunter Biden ‘Gone’ After Pregnancy Discovery](https://dailycaller.com/2024/06/08/luden-roberts-phones-crashed-hunter-biden-pregnancy-megyn-kelly/)
 
-Media
+Politics
 
 2
 
-['Secret Weapon': MSNBC Contrib Calls For Military To Take Stand Against Trump](https://dailycaller.com/2024/06/07/secret-weapon-donny-deutsch-calls-military-take-public-stand-trump/)
+[The Winners And Losers Of Trump's VP Shortlist](https://dailycaller.com/2024/06/07/winners-losers-trump-vp-shortlist/)
 
-Elections
+Analysis
 
 3
 
-[Trans Woman Makes History As The Newly-Crowned Miss Maryland USA](https://dailycaller.com/2024/06/07/trans-woman-bailey-anne-historic-win-miss-maryland-usa-pageant-eva-longoria-olivia-culpo-lgbtq/)
+[Biden Admin Quietly Injecting Radical Policies Into Housing Market — And It Might Bring The Whole System Down](https://dailycaller.com/2024/06/08/biden-admin-radical-policies-housing-market-system/)
 
-Entertainment
+Business
 
 4
 
-[Major Outlet Fires Unhinged Leftist Harpy, Spells Her Name Wrong On Termination Letter](https://dailycaller.com/2024/06/06/quay-the-hill-rising-briahna-joy-gray-fired/)
+[Jake Paul Vs Mike Tyson Fight Is Back On](https://dailycaller.com/2024/06/07/jake-paul-vs-mike-tyson-fight-is-back-on/)
 
 Editorial
 
 5
 
-[EXCLUSIVE: Lawmakers Introduce Bipartisan Bill To Tackle 'Weaponized' Federal Criminal Code](https://dailycaller.com/2024/06/07/chip-roy-bipartisan-bill-federal-criminal-code/)
+[Injury Suffered By Police Officer Which Could Have Sent World's No. 1 Golfer To Jail Revealed](https://dailycaller.com/2024/06/08/bryan-gillis-injury-scottie-scheffler-arrest/)
 
-Politics
+Sports
 
 [![The Daily Caller logo](/files/images/logo-white.png)](https://dailycaller.com/ "To home page")
 
