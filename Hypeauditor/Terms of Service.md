@@ -26,7 +26,7 @@ Check
 
 Platform____
 
-Solutions____
+Customers____
 
 Resources____
 
@@ -80,7 +80,7 @@ __
 
 [Start free](https://app.hypeauditor.com/sign-up/)__
 
-Solutions
+Customers
 
 [![](/_nuxt/img/fe01eff.png)
 
