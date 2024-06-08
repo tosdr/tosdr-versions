@@ -1,5 +1,3 @@
-[\[x\]](https://www.spriters-resource.com/closeannouncement/WB5j2Onh/?return=%2Fpage%2Fprivacy%2F)We're back! After a failure of the drives in our database server, all data has been restored from last night's backup. The last 24 hours or so of submissions will likely need to be re-made but everything else should be okay. Please let me now if you notice anything not working as it should though. Thanks! -Petie
-
 [![The VG Resource](https://www.vg-resource.com/images/vgr_logo-small.png)](https://www.vg-resource.com/) [Wiki](https://wiki.vg-resource.com/) [Sprites](https://www.spriters-resource.com/) [Models](https://www.models-resource.com/) [Textures](https://www.textures-resource.com/) [Sounds](https://www.sounds-resource.com/) [Login](https://www.vg-resource.com/login/?return=www.spriters-resource.com/page/privacy/)
 
 [VGFacts](https://www.vgfacts.com/) [DidYouKnowGaming?](http://www.didyouknowgaming.com/)
@@ -123,7 +121,7 @@ This page does not work well in portrait mode on mobile. Please rotate your devi
 * [Mario Customs](https://www.spriters-resource.com/custom_edited/mariocustoms/)
 * [Fire Emblem: Heroes](https://www.spriters-resource.com/mobile/fireemblemheroes/)
 * [Osomatsu-san Hesokur...](https://www.spriters-resource.com/mobile/osomatsusanhesokuriwarsbattleoftheneets/)
-* [Metal Slug Attack](https://www.spriters-resource.com/mobile/metalslugattack/)
+* [Undertale](https://www.spriters-resource.com/pc_computer/undertale/)
 
 * Affiliates
 * [Sprite Database](https://spritedatabase.net/)
