@@ -112,6 +112,7 @@ Menu
 * [New](https://www.cdkeys.com/new)
 * [Coming Soon](https://www.cdkeys.com/coming-soon)
 
+* [My Account](https://www.cdkeys.com/customer/account/login/)
 * [Wishlist](https://www.cdkeys.com/wishlist/)
 * [My Cart](https://www.cdkeys.com/checkout/cart/)
 * [Checkout](https://www.cdkeys.com/checkout/)
@@ -559,107 +560,117 @@ You are seeing games that are valid in your region which is ‘%1’. If you wan
 
 To view games that are valid in your region ‘%1’, click here
 
-1.    [![Destiny 2: Lightfall PC - DLC](https://cdn.cdkeys.com/245x340/media/catalog/product/e/g/egs_destiny2lightfall_bungie_addon_s2_1200x1600-3a820ab4d96977371ca4e152059efa8c_1.jpg)   No 1. \-74%
+1.    [![Sociable Soccer 24 PC](https://cdn.cdkeys.com/245x340/media/catalog/product/4/4/4465.jpg)   No 1. \-77%](https://www.cdkeys.com/pc/sociable-soccer-24-pc-steam)
     
-    DLC](https://www.cdkeys.com/pc/destiny-2-lightfall-pc-dlc-steam)
+    **[Sociable Soccer 24 PC](https://www.cdkeys.com/pc/sociable-soccer-24-pc-steam "Sociable Soccer 24 PC")**
     
-    **[Destiny 2: Lightfall PC - DLC](https://www.cdkeys.com/pc/destiny-2-lightfall-pc-dlc-steam "Destiny 2: Lightfall PC - DLC")**
-    
-    Special Price £10.49 RRP £39.99
+    Special Price £5.99 RRP £25.99
     
     [Add to Wish List](# "Add to Wish List")
     
      Buy Now
     
-2.    [![SILENT HILL 2 PC](https://cdn.cdkeys.com/245x340/media/catalog/product/s/i/silent_hill_2.jpg)   No 2. \-33%
+2.    [![SOUTH PARK: SNOW DAY! Digital Deluxe Edition PC](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_-_2024-01-03t115939.705.jpg)   No 2. \-50%](https://www.cdkeys.com/pc/south-park-snow-day-digital-deluxe-pc-steam)
     
-    Pre-order](https://www.cdkeys.com/pc/silent-hill-2-pc-steam)
+    **[SOUTH PARK: SNOW DAY! Digital Deluxe Edition PC](https://www.cdkeys.com/pc/south-park-snow-day-digital-deluxe-pc-steam "SOUTH PARK: SNOW DAY! Digital Deluxe Edition PC")**
     
-    **[SILENT HILL 2 PC](https://www.cdkeys.com/pc/silent-hill-2-pc-steam "SILENT HILL 2 PC")**
-    
-    Special Price £39.99 RRP £59.99
+    Special Price £19.99 RRP £39.99
     
     [Add to Wish List](# "Add to Wish List")
     
      Buy Now
     
-3.    [![Warhammer 40,000: Rogue Trader PC](https://cdn.cdkeys.com/245x340/media/catalog/product/w/h/wh40k.jpg)   No 3. \-55%](https://www.cdkeys.com/pc/warhammer-40-000-rogue-trader-pc-steam)
+3.    [![Dragon's Dogma 2 PC (Europe & UK)](https://cdn.cdkeys.com/245x340/media/catalog/product/s/c/scaas.jpg)   No 3. \-35%](https://www.cdkeys.com/pc/dragon-s-dogma-2-pc-emea-steam)
     
-    **[Warhammer 40,000: Rogue Trader PC](https://www.cdkeys.com/pc/warhammer-40-000-rogue-trader-pc-steam "Warhammer 40,000: Rogue Trader PC")**
+    **[Dragon's Dogma 2 PC (Europe & UK)](https://www.cdkeys.com/pc/dragon-s-dogma-2-pc-emea-steam "Dragon's Dogma 2 PC (Europe & UK)")**
     
-    Special Price £17.99 RRP £39.99
-    
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-4.    [![Guild Wars 2 2000 Gem Points Card (PC)](https://cdn.cdkeys.com/245x340/media/catalog/product/2/0/2000-gem-ban.jpg)   No 4. \-53%](https://www.cdkeys.com/pc/guild-wars-2-2000-gem-points-card-pc)
-    
-    **[Guild Wars 2 2000 Gem Points Card (PC)](https://www.cdkeys.com/pc/guild-wars-2-2000-gem-points-card-pc "Guild Wars 2 2000 Gem Points Card (PC)")**
-    
-    Special Price £16.49 RRP £34.99
+    Special Price £35.29 RRP £53.99
     
     [Add to Wish List](# "Add to Wish List")
     
      Buy Now
     
-5.    [![TEKKEN 8 - Ultimate Edition PC](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_-_2023-08-28t103720.383.jpg)   No 5. \-44%](https://www.cdkeys.com/pc/tekken-8-ultimate-edition-pc-steam)
+4.    [![Arma 3 PC](https://cdn.cdkeys.com/245x340/media/catalog/product/1/3/13_1__1.jpg)   No 4. \-60%](https://www.cdkeys.com/pc/arma-3-pc-steam)
     
-    **[TEKKEN 8 - Ultimate Edition PC](https://www.cdkeys.com/pc/tekken-8-ultimate-edition-pc-steam "TEKKEN 8 - Ultimate Edition PC")**
+    **[Arma 3 PC](https://www.cdkeys.com/pc/arma-3-pc-steam "Arma 3 PC ")**
     
-    Special Price £49.99 RRP £89.99
-    
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-6.    [![TEKKEN 8 PC](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_-_2023-08-28t100027.863.jpg)   No 6. \-48%](https://www.cdkeys.com/pc/tekken-8-pc-steam)
-    
-    **[TEKKEN 8 PC](https://www.cdkeys.com/pc/tekken-8-pc-steam "TEKKEN 8 PC")**
-    
-    Special Price £28.49 RRP £54.99
+    Special Price £9.59 RRP £23.99
     
     [Add to Wish List](# "Add to Wish List")
     
      Buy Now
     
-7.    [![Grand Theft Auto Online (GTA V 5): Megalodon Shark Cash Card PC](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_-_2023-11-28t153630.660.jpg)   No 7. \-72%](https://www.cdkeys.com/pc/grand-theft-auto-online-megalodon-shark-cash-card-pc)
+5.    [![Hogwarts Legacy PC](https://cdn.cdkeys.com/245x340/media/catalog/product/c/u/cupheaddeliciouslast-1640043161876_3_.jpg)   No 5. \-62%](https://www.cdkeys.com/pc/hogwarts-legacy-pc-steam)
     
-    **[Grand Theft Auto Online (GTA V 5): Megalodon Shark Cash Card PC](https://www.cdkeys.com/pc/grand-theft-auto-online-megalodon-shark-cash-card-pc "Grand Theft Auto Online (GTA V 5): Megalodon Shark Cash Card PC")**
+    **[Hogwarts Legacy PC](https://www.cdkeys.com/pc/hogwarts-legacy-pc-steam "Hogwarts Legacy PC")**
     
-    Special Price £16.99 RRP £59.99
-    
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-8.    [![RoboCop: Rogue City PC](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_-_2023-09-13t154346.184.jpg)   No 8. \-64%](https://www.cdkeys.com/pc/robocop-rogue-city-pc-steam)
-    
-    **[RoboCop: Rogue City PC](https://www.cdkeys.com/pc/robocop-rogue-city-pc-steam "RoboCop: Rogue City PC")**
-    
-    Special Price £15.99 RRP £44.99
+    Special Price £18.99 RRP £49.99
     
     [Add to Wish List](# "Add to Wish List")
     
      Buy Now
     
-9.    [![Destiny 2: The Final Shape + Annual Pass PC - DLC](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_-_2023-08-23t133417.724.jpg)   No 9. \-29%
+6.    [![Six Days in Fallujah PC](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_-_2023-06-20t101856.525.jpg)   No 6. \-50%](https://www.cdkeys.com/pc/six-days-in-fallujah-pc-steam)
     
-    DLC](https://www.cdkeys.com/pc/destiny-2-the-final-shape-annual-pass-pc-dlc-steam)
+    **[Six Days in Fallujah PC](https://www.cdkeys.com/pc/six-days-in-fallujah-pc-steam "Six Days in Fallujah PC")**
     
-    **[Destiny 2: The Final Shape + Annual Pass PC - DLC](https://www.cdkeys.com/pc/destiny-2-the-final-shape-annual-pass-pc-dlc-steam "Destiny 2: The Final Shape + Annual Pass PC - DLC")**
-    
-    Special Price £59.99 RRP £83.99
+    Special Price £16.49 RRP £32.99
     
     [Add to Wish List](# "Add to Wish List")
     
      Buy Now
     
-10.    [![Minecraft: Java & Bedrock Edition Deluxe Collection PC (WW)](https://cdn.cdkeys.com/245x340/media/catalog/product/3/6/36_1.jpg)   No 10. \-63%](https://www.cdkeys.com/pc/minecraft-java-bedrock-edition-deluxe-collection-pc)
+7.    [![Horizon Forbidden West Complete Edition PC](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_-_2023-10-02t151943.412.jpg)   No 7. \-32%](https://www.cdkeys.com/pc/horizon-forbidden-west-complete-edition-pc-steam)
     
-    **[Minecraft: Java & Bedrock Edition Deluxe Collection PC (WW)](https://www.cdkeys.com/pc/minecraft-java-bedrock-edition-deluxe-collection-pc "Minecraft: Java & Bedrock Edition Deluxe Collection PC (WW)")**
+    **[Horizon Forbidden West Complete Edition PC](https://www.cdkeys.com/pc/horizon-forbidden-west-complete-edition-pc-steam "Horizon Forbidden West Complete Edition PC")**
     
-    Special Price £12.99 RRP £34.99
+    Special Price £33.99 RRP £49.99
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+8.    [![No Man's Sky PC](https://cdn.cdkeys.com/245x340/media/catalog/product/m/i/microsoftteams-image_27_.jpg)   No 8. \-58%](https://www.cdkeys.com/pc/no-mans-sky-pc-steam-cd-key)
+    
+    **[No Man's Sky PC](https://www.cdkeys.com/pc/no-mans-sky-pc-steam-cd-key "No Man's Sky PC")**
+    
+    Special Price £16.99 RRP £39.99
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+9.    [![ELDEN RING Shadow of the Erdtree Xbox (UK)](https://cdn.cdkeys.com/245x340/media/catalog/product/e/l/elden_ring_shadow_of_the_erdtree-steam_1.jpg)   No 9. \-21%
+    
+    Pre-order DLC](https://www.cdkeys.com/xbox-live/elden-ring-shadow-of-the-erdtree-xbox-uk)
+    
+    **[ELDEN RING Shadow of the Erdtree Xbox (UK)](https://www.cdkeys.com/xbox-live/elden-ring-shadow-of-the-erdtree-xbox-uk "ELDEN RING Shadow of the Erdtree Xbox (UK)")**
+    
+    Special Price £27.49 RRP £34.99
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+10.    [![ELDEN RING Shadow of the Erdtree PC - DLC (EMEA)](https://cdn.cdkeys.com/245x340/media/catalog/product/e/l/elden_ring_shadow_of_the_erdtree-steam.jpg)   No 10. \-25%
+    
+    Pre-order DLC](https://www.cdkeys.com/pc/elden-ring-shadow-of-the-erdtree-pc-dlc-steam-emea)
+    
+    **[ELDEN RING Shadow of the Erdtree PC - DLC (EMEA)](https://www.cdkeys.com/pc/elden-ring-shadow-of-the-erdtree-pc-dlc-steam-emea "ELDEN RING Shadow of the Erdtree PC - DLC (EMEA)")**
+    
+    Special Price £26.19 RRP £34.99
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+11.    [![Destiny 2: The Final Shape PC - DLC](https://cdn.cdkeys.com/245x340/media/catalog/product/1/4/14161265.jpg)   No 11. \-24%
+    
+    DLC](https://www.cdkeys.com/pc/destiny-2-the-final-shape-pc-dlc-steam)
+    
+    **[Destiny 2: The Final Shape PC - DLC](https://www.cdkeys.com/pc/destiny-2-the-final-shape-pc-dlc-steam "Destiny 2: The Final Shape PC - DLC")**
+    
+    Special Price £31.99 RRP £41.99
     
     [Add to Wish List](# "Add to Wish List")
     
