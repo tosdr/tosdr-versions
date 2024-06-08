@@ -37,7 +37,7 @@
         * [Login](https://www.mobygames.com/user/login/)
         * [Register](https://www.mobygames.com/user/register/)
 
-🏆 Congrats to [May's top contributors](https://www.mobygames.com/leaderboard/last-month/)! Top 3: [Koterminus](https://www.mobygames.com/user/760723/koterminus/), [Plok](https://www.mobygames.com/user/180419/plok/) and [j.raido 【雷堂嬢太朗】](https://www.mobygames.com/user/76406/j_raido/)
+🐳 [Moby v2024.06.07](https://www.mobygames.com/#n3790)
 
 Terms of Service
 ================
@@ -132,4 +132,4 @@ In addition to any other available relief, MobyGames and You agree that any comm
 
 © 1999–2024 MobyGames ™
 
-v2024.06.06b
+v2024.06.07c
