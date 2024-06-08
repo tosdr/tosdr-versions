@@ -394,7 +394,7 @@ Header area, including main menu and site search
     Dismiss menu
     
 
-Chat
+Help
 
 Terms and conditions
 ====================
