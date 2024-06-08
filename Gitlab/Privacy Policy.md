@@ -1,6 +1,6 @@
- [![](/_nuxt/image/eecfc0.svg) GitLab Duo Chat now available Learn more
+ [![](/_nuxt/image/87eca8.svg) GitLab 17 & the future of AI-driven development Register now
 
-![](/_nuxt/image/016e1f.webp)](https://about.gitlab.com/gitlab-duo/#features)
+![](/_nuxt/image/65fccb.svg)](https://about.gitlab.com/seventeen/)
 
 GitLab Privacy Statement
 ========================
