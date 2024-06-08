@@ -227,7 +227,7 @@ Toggle light
 
 Comments
 
-118 Views
+123 Views
 
 Report
 
@@ -287,235 +287,235 @@ You may also like
 
 HD
 
- [![Honto ni Atta! Noroi no Video 51](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/honto-ni-atta-noroi-no-video-51/)0
+ [![Nephilim](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/nephilim/)0
 
-### [Honto ni Atta! Noroi no Video 51](https://playtube.pk/honto-ni-atta-noroi-no-video-51/)
+### [Nephilim](https://playtube.pk/nephilim/)
 
-2013 65 min _Movie_
+2017 99 min _Movie_
 
-Honto ni Atta! Noroi no Video 51
+Nephilim
 
-0 2013 65 min HD
+0 2017 99 min HD
 
-A collection of shivering psychic images received by general posts, "It really was! A video of the curse." It is also full of new posts that are being received one after another from ...
-
-Country: [Japan](https://playtube.pk/country/japan/)
-
-Genre: [Horror](https://playtube.pk/category/horror/)
-
-[](#)[Watch Now](https://playtube.pk/honto-ni-atta-noroi-no-video-51/)
-
-HD
-
- [![Fury of the Fist and the Golden Fleece](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/fury-of-the-fist-and-the-golden-fleece/)4.8
-
-### [Fury of the Fist and the Golden Fleece](https://playtube.pk/fury-of-the-fist-and-the-golden-fleece/)
-
-2018 107 min _Movie_
-
-Fury of the Fist and the Golden Fleece
-
-4.8 2018 107 min HD
-
-When the Fist found a mystical gold fleece jacket, he became the biggest porn star of the 1970s. But in the ‘80s, he’s on the cusp of eviction from a run-down studio apartment, having ...
-
-Genre: [Action](https://playtube.pk/category/action/)
-
-[](#)[Watch Now](https://playtube.pk/fury-of-the-fist-and-the-golden-fleece/)
-
-HD
-
- [![Rayar Parambarai](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/rayar-parambarai/)0
-
-### [Rayar Parambarai](https://playtube.pk/rayar-parambarai/)
-
-2023 125 min _Movie_
-
-Rayar Parambarai
-
-0 2023 125 min HD
+NEPHILIM begins with the first signs of warfare evolving between good and evil. Set in modern times, two archangels, an atypical priest, an ex-homicide detective and a resurrected ...
 
 Country: [India](https://playtube.pk/country/india/)
 
-Genre: [Comedy](https://playtube.pk/category/comedy/), [Romance](https://playtube.pk/category/romance/)
+Genre: [Action](https://playtube.pk/category/action/), [Animation](https://playtube.pk/category/animation/)
 
-[](#)[Watch Now](https://playtube.pk/rayar-parambarai/)
-
-HD
-
- [![The Blue Highway](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/the-blue-highway/)0
-
-### [The Blue Highway](https://playtube.pk/the-blue-highway/)
-
-2020 0 min _Movie_
-
-The Blue Highway
-
-0 2020 0 min HD
-
-Foxy, a transexual singer has secrets. Don’t we all? Perhaps not like her. She was the creator behind ‘The Black Halos’, the most notorious motorcycle gang in America and faked her own ...
-
-Country: [Spain](https://playtube.pk/country/spain/)
-
-Genre: [Action](https://playtube.pk/category/action/)
-
-[](#)[Watch Now](https://playtube.pk/the-blue-highway/)
+[](#)[Watch Now](https://playtube.pk/nephilim/)
 
 HD
 
- [![Po čem muži touží 2](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/po-cem-muzi-touzi-2/)6.5
+ [![The Third Day](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/the-third-day/)1.5
 
-### [Po čem muži touží 2](https://playtube.pk/po-cem-muzi-touzi-2/)
+### [The Third Day](https://playtube.pk/the-third-day/)
 
-2022 0 min _Movie_
+2007 115 min _Movie_
 
-Po čem muži touží 2
+The Third Day
 
-6.5 2022 0 min HD
+1.5 2007 115 min HD
 
-Country: [Czech Republic](https://playtube.pk/country/czech-republic/)
+During the Iran-Iraq War, a disabled young woman is taken captive by Iraqi Baathist forces in Khuzestan Province. Her brother, along with his fellow combatants, tries to free his sister ...
 
-Genre: [Comedy](https://playtube.pk/category/comedy/)
-
-[](#)[Watch Now](https://playtube.pk/po-cem-muzi-touzi-2/)
-
-HD
-
- [![Biju Babu](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/biju-babu/)0
-
-### [Biju Babu](https://playtube.pk/biju-babu/)
-
-2019 162 min _Movie_
-
-Biju Babu
-
-0 2019 162 min HD
-
-Babu, who becomes Bijubabu in later phase is a professional thief. Once he happens to enter into Anand Bhavan, ancestral house of late Bijubabu, The popular leader of Odisha. Babu ...
-
-Country: [India](https://playtube.pk/country/india/)
+Country: [Iran](https://playtube.pk/country/iran/)
 
 Genre: [Action](https://playtube.pk/category/action/), [Drama](https://playtube.pk/category/drama/)
 
-[](#)[Watch Now](https://playtube.pk/biju-babu/)
+[](#)[Watch Now](https://playtube.pk/the-third-day/)
 
 HD
 
- [![Cindy La Regia](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/cindy-la-regia/)7.9
+ [![Epicenter](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/epicenter/)3.8
 
-### [Cindy La Regia](https://playtube.pk/cindy-la-regia/)
+### [Epicenter](https://playtube.pk/epicenter/)
 
-2020 109 min _Movie_
+2000 102 min _Movie_
 
-Cindy La Regia
+Epicenter
 
-7.9 2020 109 min HD
+3.8 2000 102 min HD
 
-When Cindy decides that she doesn't want to marry her boyfriend, she runs to Mexico City, where new friendships and unexpected paths teach her that there are so much more possibilities ...
+Epicenter concerns brassy, beautiful Amanda Foster, a down-on-her-luck Los Angeles detective who's been assigned to protect a mobster-turned-State's-Witness, Nick Constantine, from the ...
 
-Country: [Mexico](https://playtube.pk/country/mexico/)
+Country: [Romania](https://playtube.pk/country/romania/)
 
-Genre: [Comedy](https://playtube.pk/category/comedy/), [Romance](https://playtube.pk/category/romance/)
+Genre: [Action](https://playtube.pk/category/action/), [Adventure](https://playtube.pk/category/adventure/)
 
-[](#)[Watch Now](https://playtube.pk/cindy-la-regia/)
-
-HD
-
- [![My Daughter’s Lover 3](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/my-daughters-lover-3/)4.7
-
-### [My Daughter’s Lover 3](https://playtube.pk/my-daughters-lover-3/)
-
-2019 70 min _Movie_
-
-My Daughter’s Lover 3
-
-4.7 2019 70 min HD
-
-Mi-seon loves her family, but she loves having sex with younger men. One day, she hears her sex partner, Jeong-woo, has a brother and she feels more attracted to the younger man. ...
-
-Country: [South Korea](https://playtube.pk/country/south-korea/)
-
-Genre: [Romance](https://playtube.pk/category/romance/)
-
-[](#)[Watch Now](https://playtube.pk/my-daughters-lover-3/)
+[](#)[Watch Now](https://playtube.pk/epicenter/)
 
 HD
 
- [![倾城宠妃](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/%e5%80%be%e5%9f%8e%e5%ae%a0%e5%a6%83/)0
+ [![The Story of Perrine](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/the-story-of-perrine/)5
 
-### [倾城宠妃](https://playtube.pk/%e5%80%be%e5%9f%8e%e5%ae%a0%e5%a6%83/)
+### [The Story of Perrine](https://playtube.pk/the-story-of-perrine/)
 
-2018 0 min _Movie_
+1990 110 min _Movie_
 
-倾城宠妃
+The Story of Perrine
 
-0 2018 0 min HD
+5 1990 110 min HD
 
-Country: [China](https://playtube.pk/country/china/)
-
-Genre: [Fantasy](https://playtube.pk/category/fantasy/), [Romance](https://playtube.pk/category/romance/)
-
-[](#)[Watch Now](https://playtube.pk/%e5%80%be%e5%9f%8e%e5%ae%a0%e5%a6%83/)
-
-HD
-
- [![False Identity](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/false-identity/)4.7
-
-### [False Identity](https://playtube.pk/false-identity/)
-
-1990 93 min _Movie_
-
-False Identity
-
-4.7 1990 93 min HD
-
-When Rachel, a radio personality, discovers a Purple Heart at a garage sale she decides to find out its history. She finds that the medal belonged to a man named Harlan Erickson, a ...
-
-Country: [USA](https://playtube.pk/country/usa/)
-
-Genre: [Crime](https://playtube.pk/category/crime/), [Mystery](https://playtube.pk/category/mystery/)
-
-[](#)[Watch Now](https://playtube.pk/false-identity/)
-
-HD
-
- [![Sol Bianca](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/sol-bianca/)5
-
-### [Sol Bianca](https://playtube.pk/sol-bianca/)
-
-1990 55 min _Movie_
-
-Sol Bianca
-
-5 1990 55 min HD
-
-Five female pirates pilot the Sol Bianca, a starship with a higher level of technology than any other known. With it, they seek out riches, such as the Gnosis, an legendary item of ...
+Movie version of the TV series Perrine Monogatari.
 
 Country: [Japan](https://playtube.pk/country/japan/)
 
-Genre: [Adventure](https://playtube.pk/category/adventure/), [Animation](https://playtube.pk/category/animation/)
+Genre: [Animation](https://playtube.pk/category/animation/)
 
-[](#)[Watch Now](https://playtube.pk/sol-bianca/)
+[](#)[Watch Now](https://playtube.pk/the-story-of-perrine/)
 
 HD
 
- [![The Floating Landscape](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/the-floating-landscape/)5
+ [![A. Friend](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/a-friend/)6
 
-### [The Floating Landscape](https://playtube.pk/the-floating-landscape/)
+### [A. Friend](https://playtube.pk/a-friend/)
 
-2003 100 min _Movie_
+2015 4 min _Movie_
 
-The Floating Landscape
+A. Friend
 
-5 2003 100 min HD
+6 2015 4 min HD
 
-Maan has recently lost her lover, Sam, a painter who died tragically of an incurable disease. Before his death, he was remembering a beautiful landscape from the days when he was still ...
+Home alone at night, a young woman is about to discover the other side of social media.
 
-Country: [Hong Kong](https://playtube.pk/country/hong-kong/)
+Country: [France](https://playtube.pk/country/france/)
 
-Genre: [Drama](https://playtube.pk/category/drama/), [Romance](https://playtube.pk/category/romance/)
+Genre: [Horror](https://playtube.pk/category/horror/)
 
-[](#)[Watch Now](https://playtube.pk/the-floating-landscape/)
+[](#)[Watch Now](https://playtube.pk/a-friend/)
+
+HD
+
+ [![Too Focused](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/too-focused/)0
+
+### [Too Focused](https://playtube.pk/too-focused/)
+
+2012 25 min _Movie_
+
+Too Focused
+
+0 2012 25 min HD
+
+Jan Roelfsema does a trip to the countryside for finishing his novel. He ends up in the former Hostel of Karl and Anna who appear to keep a secret. His search for answers reveals many ...
+
+Genre: [Horror](https://playtube.pk/category/horror/)
+
+[](#)[Watch Now](https://playtube.pk/too-focused/)
+
+HD
+
+ [![Humza: Forgiving the Unforgivable](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/humza-forgiving-the-unforgivable/)0
+
+### [Humza: Forgiving the Unforgivable](https://playtube.pk/humza-forgiving-the-unforgivable/)
+
+2023 58 min _Movie_
+
+Humza: Forgiving the Unforgivable
+
+0 2023 58 min HD
+
+What happens when your instincts tell you to seek revenge, but your faith demands that you forgive? YouTube sensation and stand-up comedian Humza Arshad embarks on what is, at times, an ...
+
+Genre: [Documentary](https://playtube.pk/category/documentary/)
+
+[](#)[Watch Now](https://playtube.pk/humza-forgiving-the-unforgivable/)
+
+HD
+
+ [![Zindagi Jhand Hai](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/zindagi-jhand-hai/)5.8
+
+### [Zindagi Jhand Hai](https://playtube.pk/zindagi-jhand-hai/)
+
+2020 67 min _Movie_
+
+Zindagi Jhand Hai
+
+5.8 2020 67 min HD
+
+A story of a married couple, and their sex life. The husband had an unhealthy obsession with watching his wife sleep with other men and then get aroused. With all the abuse the wife ...
+
+Genre: [Romance](https://playtube.pk/category/romance/), [Thriller](https://playtube.pk/category/thriller/)
+
+[](#)[Watch Now](https://playtube.pk/zindagi-jhand-hai/)
+
+HD
+
+ [![Eleanor and the Magic Shoes](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/eleanor-and-the-magic-shoes/)0
+
+### [Eleanor and the Magic Shoes](https://playtube.pk/eleanor-and-the-magic-shoes/)
+
+2022 14 min _Movie_
+
+Eleanor and the Magic Shoes
+
+0 2022 14 min HD
+
+Eleanor, the child of a poor family, is gifted by her father a pair of magic shoes which leads her on a journey of helping other people in the hopes of achieving greatness which would ...
+
+Country: [Philippines](https://playtube.pk/country/philippines/)
+
+Genre: [Animation](https://playtube.pk/category/animation/)
+
+[](#)[Watch Now](https://playtube.pk/eleanor-and-the-magic-shoes/)
+
+HD
+
+ [![The Violence Action](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/the-violence-action/)6.5
+
+### [The Violence Action](https://playtube.pk/the-violence-action/)
+
+2022 111 min _Movie_
+
+The Violence Action
+
+6.5 2022 111 min HD
+
+Kei Kikuno attends a vocational school as a student. For her part-time job, she works as a contract killer. She is excellent at her job and never gets scared by anyone. One day, she ...
+
+Country: [Japan](https://playtube.pk/country/japan/)
+
+Genre: [Action](https://playtube.pk/category/action/), [Drama](https://playtube.pk/category/drama/)
+
+[](#)[Watch Now](https://playtube.pk/the-violence-action/)
+
+HD
+
+ [![Beautiful Dreamer: Brian Wilson and the Story of Smile](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/beautiful-dreamer-brian-wilson-and-the-story-of-smile/)6.6
+
+### [Beautiful Dreamer: Brian Wilson and the Story of Smile](https://playtube.pk/beautiful-dreamer-brian-wilson-and-the-story-of-smile/)
+
+2004 109 min _Movie_
+
+Beautiful Dreamer: Brian Wilson and the Story of Smile
+
+6.6 2004 109 min HD
+
+This film tells (using modern day interviews and archival footage and sound tapes) the story of how in 1967, while his band The Beach Boys triumphantly toured abroad, Brian Wilson was ...
+
+Genre: [Documentary](https://playtube.pk/category/documentary/)
+
+[](#)[Watch Now](https://playtube.pk/beautiful-dreamer-brian-wilson-and-the-story-of-smile/)
+
+HD
+
+ [![Love at First Kiss](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/love-at-first-kiss/)6.3
+
+### [Love at First Kiss](https://playtube.pk/love-at-first-kiss/)
+
+2023 96 min _Movie_
+
+Love at First Kiss
+
+6.3 2023 96 min HD
+
+The story of Javier who, at the age of 16, while kissing a girl for the first time, realized that he had a gift of romantic clairvoyance. Javier can see the future... and he finally ...
+
+Country: [Spain](https://playtube.pk/country/spain/)
+
+Genre: [Comedy](https://playtube.pk/category/comedy/), [Romance](https://playtube.pk/category/romance/)
+
+[](#)[Watch Now](https://playtube.pk/love-at-first-kiss/)
 
 Report Content
 
