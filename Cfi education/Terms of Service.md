@@ -495,7 +495,7 @@ If you have any questions or comments regarding these Website Terms of Use, plea
 
 0 search results for ‘’
 
-People also search for: excel esg Free courses accounting private equity fmva Free
+People also search for: excel esg Free courses accounting fmva Free private equity
 
 Explore Our Certifications
 
@@ -525,7 +525,7 @@ Resources
 
 Popular Courses
 
- [FMVA® Prep Course 3.5h Excel Fundamentals - Formulas for Finance](https://corporatefinanceinstitute.com/course/excel-fundamentals-formulas-for-finance/)
+ [Free! FMVA® Prep Course 3.5h Excel Fundamentals - Formulas for Finance](https://corporatefinanceinstitute.com/course/excel-fundamentals-formulas-for-finance/)
 
  [FMVA® Required 6.5h 3-Statement Modeling](https://corporatefinanceinstitute.com/course/3-statement-modeling/)
 
