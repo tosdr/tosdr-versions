@@ -173,7 +173,7 @@ Open site navigation
 
 [Start your job search](https://www.search.co.uk/jobs/)
 
-122 Legal jobs
+115 Legal jobs
 ==============
 
 [Create job alert](https://www.search.co.uk/legal_documents/privacy_policy?specialism=legal&jobTitle=&location=)
@@ -188,9 +188,9 @@ Filter jobs
 
 * ### Specialism
     
-    * [Legal 122](https://www.search.co.uk/jobs/)
+    * [Legal 115](https://www.search.co.uk/jobs/)
         
-    * [Business Support 3](https://www.search.co.uk/jobs/legal/?spec=business%20support)
+    * [Business Support 1](https://www.search.co.uk/jobs/legal/?spec=business%20support)
         
     * [Logistics 1](https://www.search.co.uk/jobs/legal/?spec=logistics)
         
@@ -199,13 +199,13 @@ Filter jobs
     
 * ### Location
     
-    * [London 73](https://www.search.co.uk/jobs/legal/london/)
+    * [London 69](https://www.search.co.uk/jobs/legal/london/)
         
-    * [City of London 36](https://www.search.co.uk/jobs/legal/city-of-london/)
+    * [City of London 34](https://www.search.co.uk/jobs/legal/city-of-london/)
         
     * [Hampshire 10](https://www.search.co.uk/jobs/legal/hampshire/)
         
-    * [Essex 8](https://www.search.co.uk/jobs/legal/essex/)
+    * [Essex 7](https://www.search.co.uk/jobs/legal/essex/)
         
     * [East Sussex 6](https://www.search.co.uk/jobs/legal/east-sussex/)
         
@@ -223,15 +223,13 @@ Filter jobs
         
     * [Basildon 3](https://www.search.co.uk/jobs/legal/basildon/)
         
-    * [Chelmsford 3](https://www.search.co.uk/jobs/legal/chelmsford/)
-        
-    * [Greater Manchester 3](https://www.search.co.uk/jobs/legal/greater-manchester/)
-        
     * [Uxbridge 3](https://www.search.co.uk/jobs/legal/uxbridge/)
         
     * [West Sussex 3](https://www.search.co.uk/jobs/legal/west-sussex/)
         
     * [Wimbledon 3](https://www.search.co.uk/jobs/legal/wimbledon/)
+        
+    * [Chelmsford 2](https://www.search.co.uk/jobs/legal/chelmsford/)
         
     * [Ealing 2](https://www.search.co.uk/jobs/legal/ealing/)
         
@@ -239,30 +237,32 @@ Filter jobs
         
     * [Haywards Heath 2](https://www.search.co.uk/jobs/legal/haywards-heath/)
         
+    * [Hertfordshire 2](https://www.search.co.uk/jobs/legal/hertfordshire/)
+        
     
 * ### Salary
     
     * * [Annum](https://www.search.co.uk/jobs/legal/?salaryPer=Annum)
-        * [£20,000 - £30,000 8](https://www.search.co.uk/jobs/legal/?salaryPer=Annum&salaryRange=%C2%A320,000%20-%20%C2%A330,000)
+        * [£20,000 - £30,000 6](https://www.search.co.uk/jobs/legal/?salaryPer=Annum&salaryRange=%C2%A320,000%20-%20%C2%A330,000)
             
-        * [£30,000 - £40,000 11](https://www.search.co.uk/jobs/legal/?salaryPer=Annum&salaryRange=%C2%A330,000%20-%20%C2%A340,000)
+        * [£30,000 - £40,000 10](https://www.search.co.uk/jobs/legal/?salaryPer=Annum&salaryRange=%C2%A330,000%20-%20%C2%A340,000)
             
-        * [£40,000 - £50,000 33](https://www.search.co.uk/jobs/legal/?salaryPer=Annum&salaryRange=%C2%A340,000%20-%20%C2%A350,000)
+        * [£40,000 - £50,000 32](https://www.search.co.uk/jobs/legal/?salaryPer=Annum&salaryRange=%C2%A340,000%20-%20%C2%A350,000)
             
-        * [£50,000 - £60,000 46](https://www.search.co.uk/jobs/legal/?salaryPer=Annum&salaryRange=%C2%A350,000%20-%20%C2%A360,000)
+        * [£50,000 - £60,000 45](https://www.search.co.uk/jobs/legal/?salaryPer=Annum&salaryRange=%C2%A350,000%20-%20%C2%A360,000)
             
         * [£60,000 - £70,000 38](https://www.search.co.uk/jobs/legal/?salaryPer=Annum&salaryRange=%C2%A360,000%20-%20%C2%A370,000)
             
         * [£70,000 - £100,000 34](https://www.search.co.uk/jobs/legal/?salaryPer=Annum&salaryRange=%C2%A370,000%20-%20%C2%A3100,000)
             
-        * [£100,000 - £150,000 38](https://www.search.co.uk/jobs/legal/?salaryPer=Annum&salaryRange=%C2%A3100,000%20-%20%C2%A3150,000)
+        * [£100,000 - £150,000 34](https://www.search.co.uk/jobs/legal/?salaryPer=Annum&salaryRange=%C2%A3100,000%20-%20%C2%A3150,000)
             
         * [Day](https://www.search.co.uk/jobs/legal/?salaryPer=Day)
         * [Hour](https://www.search.co.uk/jobs/legal/?salaryPer=Hour)
     
 * ### Contract Type
     
-    * [Permanent 119](https://www.search.co.uk/jobs/legal/?contType=permanent)
+    * [Permanent 112](https://www.search.co.uk/jobs/legal/?contType=permanent)
         
     * [Contract 2](https://www.search.co.uk/jobs/legal/?contType=contract)
         
@@ -271,16 +271,16 @@ Filter jobs
     
 * ### Working Pattern
     
-    * [Full Time 92](https://www.search.co.uk/jobs/legal/?workPat=full%20time)
+    * [Full Time 85](https://www.search.co.uk/jobs/legal/?workPat=full%20time)
         
     * [Flexi Working 30](https://www.search.co.uk/jobs/legal/?workPat=flexi%20working)
         
     
 * ### Working Arrangement
     
-    * [Hybrid 94](https://www.search.co.uk/jobs/legal/?workAr=hybrid)
+    * [Hybrid 89](https://www.search.co.uk/jobs/legal/?workAr=hybrid)
         
-    * [On-Site 27](https://www.search.co.uk/jobs/legal/?workAr=on-site)
+    * [On-Site 25](https://www.search.co.uk/jobs/legal/?workAr=on-site)
         
     * [Remote Working 1](https://www.search.co.uk/jobs/legal/?workAr=remote%20working)
         
@@ -293,7 +293,7 @@ Filter jobs
         
     
 
-122 jobs found
+115 jobs found
 
 Sort by
 
@@ -1449,7 +1449,6 @@ Not sure where to start? let us help.
 * 2
 * 3
 * 4
-* 5
 
 ![Register Your CV](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1126 213'%3E%3C/svg%3E)
 
