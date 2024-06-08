@@ -1,4 +1,4 @@
-Saturday, June 8 2024
+Sunday, June 9 2024
 
 * [About](https://fifthperson.com/about/)
 * [Charity](https://fifthperson.com/charity/)
@@ -174,7 +174,7 @@ Quick Guides
     
     [7 things I learned from the 2024 Carlsberg Malaysia AGM](https://fifthperson.com/2024-carlsberg-malaysia-agm/)
     
-    13 hours ago
+    2 days ago
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -182,7 +182,7 @@ Quick Guides
     
     [Why Wingstop has soared 1,100% since IPO and whether it can continue rising](https://fifthperson.com/wingstop-soared-this-year-and-whether-it-can-continue-rising/)
     
-    4 days ago
+    5 days ago
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
