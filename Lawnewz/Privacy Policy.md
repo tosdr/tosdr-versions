@@ -266,21 +266,21 @@ Top of Today
     
     ### ['I physically felt my heart hit the floor': Father believed to be with missing daughter, 2, and fiancee after failing to show up for custody exchange](https://lawandcrime.com/crime/i-physically-felt-my-heart-hit-the-floor-father-believed-to-be-with-missing-daughter-2-and-fiancee-after-failing-to-show-up-for-custody-exchange/)
     
-2. [![Mousa Hawa and Holly Back (Chester County DA) and Hunter Hawa (GoFundMe)](https://am21.mediaite.com/lc/cnt/uploads/2024/06/Mousa-Hawa-and-Holly-Back-Chester-County-DA-and-Hunter-Hawa-GoFundMe-432x243.jpg)](https://lawandcrime.com/crime/parents-of-8-year-old-who-overdosed-say-boy-knew-not-to-touch-their-drugs-because-they-called-it-daddys-medicine-police/)
+2. [![Jacob Mandell appears in a Sacrament courtroom on June 3, 2024 to face a charge of murder. YouTube screengrab KCRA.](https://am22.mediaite.com/lc/cnt/uploads/2024/06/mandell-432x243.jpg)](https://lawandcrime.com/crime/going-too-far-to-help-somebody-former-high-school-wrestling-coach-allegedly-beat-bail-bondsman-to-death-after-asking-to-use-phone/)
     
-    ### [Parents of 8-year-old who overdosed say boy knew not to touch their drugs because they called it 'daddy's medicine': Police](https://lawandcrime.com/crime/parents-of-8-year-old-who-overdosed-say-boy-knew-not-to-touch-their-drugs-because-they-called-it-daddys-medicine-police/)
+    ### ['Going too far to help somebody': Former high school wrestling coach allegedly beat bail bondsman to death after asking to use phone](https://lawandcrime.com/crime/going-too-far-to-help-somebody-former-high-school-wrestling-coach-allegedly-beat-bail-bondsman-to-death-after-asking-to-use-phone/)
     
-3. [![Popular post image](https://am21.mediaite.com/lc/cnt/uploads/2023/09/Worrell-DeSantis-432x243.jpg)](https://lawandcrime.com/high-profile/suspended-florida-prosecutor-slams-ruling-by-desantis-packed-court-as-endorsing-governors-political-stunt/)
+3. [![Donald Trump does a hand motion in the main image; Fani Willis looks confused inset on the right](https://am24.mediaite.com/lc/cnt/uploads/2024/03/Trump-Willis-432x243.jpg)](https://lawandcrime.com/high-profile/the-trump-docket-some-georgia-rico-co-defendants-may-be-left-out-in-the-cold-fail-to-benefit-from-appeals-court-delay/)
     
-    ### [Suspended Florida prosecutor slams ruling by DeSantis-packed court as endorsing governor's 'political stunt'](https://lawandcrime.com/high-profile/suspended-florida-prosecutor-slams-ruling-by-desantis-packed-court-as-endorsing-governors-political-stunt/)
+    ### [The Trump Docket: Some Georgia RICO co-defendants may be left out in the cold, fail to benefit from appeals court delay](https://lawandcrime.com/high-profile/the-trump-docket-some-georgia-rico-co-defendants-may-be-left-out-in-the-cold-fail-to-benefit-from-appeals-court-delay/)
     
-4. [![Brandon Perry (Aware Foundation missing person alert)](https://am24.mediaite.com/lc/cnt/uploads/2024/06/Brandon-Perry-Aware-Foundation-missing-person-alert-432x243.jpg)](https://lawandcrime.com/crime/it-popped-off-17-year-old-killed-father-sealed-body-in-trash-can-and-dumped-it-in-river-police-say/)
+4. [![Jesse Lee Calhoun (Oregon Dept. of Corrections); from top to bottom, Charity Lynn Perry (via Multnomah County DA's office), Bridget Leanne Webster (via Polk County Sheriff's Office), and Joanna Speaks (via Clark County Sheriff's Office).](https://am24.mediaite.com/lc/cnt/uploads/2024/05/Jesse-Lee-Calhoun-Oregon-Dept.-of-Corrections-from-top-to-bottom-Charity-Lynn-Perry-Bridget-Leanne-Websterand-Joanna-Speaks-police-agencies-432x243.jpg)](https://lawandcrime.com/crime/suspected-serial-killer-who-allegedly-murdered-3-women-then-dumped-their-bodies-in-remote-areas-pleads-not-guilty/)
     
-    ### ['It popped off': 17-year-old killed father, sealed body in trash can and dumped it in river, police say](https://lawandcrime.com/crime/it-popped-off-17-year-old-killed-father-sealed-body-in-trash-can-and-dumped-it-in-river-police-say/)
+    ### [Suspected serial killer who allegedly murdered 3 women then dumped their bodies in remote areas pleads not guilty](https://lawandcrime.com/crime/suspected-serial-killer-who-allegedly-murdered-3-women-then-dumped-their-bodies-in-remote-areas-pleads-not-guilty/)
     
-5. [![Elizabeth Nikki Wilhoite and Andrew Nathan Wilhoite appear in images supplied by the local sheriff's office.](https://am22.mediaite.com/lc/cnt/uploads/2022/05/Elizabeth-Nikki-Wilhoite-and-Andrew-Nathan-Wilhoite-432x243.jpg)](https://lawandcrime.com/crime/man-who-killed-cancer-stricken-wife-with-flower-pot-one-week-after-she-filed-for-divorce-sentenced/)
+5. [![Booking photos of Rene Trigueros Hernandez, Rene Hernandez-Santos (bottom left), and Claudia Hernandez-Santos (right)](https://am22.mediaite.com/lc/cnt/uploads/2022/05/Rene-Trigueros-Hernandez-Rene-Hernandez-Santos-bottom-left-and-Claudia-Hernandez-Santos-right-432x243.jpg)](https://lawandcrime.com/crime/mother-and-relatives-who-killed-3-year-old-in-torturous-exorcism-have-shown-no-remorse-prosecutor/)
     
-    ### [Man who killed cancer-stricken wife with flower pot one week after she filed for divorce sentenced](https://lawandcrime.com/crime/man-who-killed-cancer-stricken-wife-with-flower-pot-one-week-after-she-filed-for-divorce-sentenced/)
+    ### [Mother and relatives who killed 3-year-old in torturous exorcism have shown no remorse: Prosecutor](https://lawandcrime.com/crime/mother-and-relatives-who-killed-3-year-old-in-torturous-exorcism-have-shown-no-remorse-prosecutor/)
     
 
 [](http://eepurl.com/c89Jdb)
