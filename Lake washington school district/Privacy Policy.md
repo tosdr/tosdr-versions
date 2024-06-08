@@ -176,6 +176,18 @@ News
 
 May 21 2024
 
+[](https://www.lwsd.org/programs-and-services/communications/news/school-news-for-direct-link/~board/middle-schools/post/lwsd-student-win-awards-at-state-high-school-art-show)
+
+[LWSD student win awards at state high school art show](https://www.lwsd.org/programs-and-services/communications/news/school-news-for-direct-link/~board/middle-schools/post/lwsd-student-win-awards-at-state-high-school-art-show)
+
+Jun 7 2024
+
+[](https://www.lwsd.org/programs-and-services/communications/news/school-news-for-direct-link/~board/high-schools/post/students-use-public-health-data-to-improve-their-communities)
+
+[Students use public health data to improve their communities](https://www.lwsd.org/programs-and-services/communications/news/school-news-for-direct-link/~board/high-schools/post/students-use-public-health-data-to-improve-their-communities)
+
+Jun 7 2024
+
 [](https://www.lwsd.org/programs-and-services/communications/news/school-news-for-direct-link/~board/high-schools/post/fun-for-all-lwsd-hosts-inclusive-soccer-matches-through-unified-soccer-program)
 
 [Fun for all – LWSD hosts inclusive soccer matches through Unified Soccer program](https://www.lwsd.org/programs-and-services/communications/news/school-news-for-direct-link/~board/high-schools/post/fun-for-all-lwsd-hosts-inclusive-soccer-matches-through-unified-soccer-program)
@@ -188,26 +200,10 @@ Jun 6 2024
 
 Jun 5 2024
 
-[](https://www.lwsd.org/programs-and-services/communications/news/news-details/~board/2023-24-announcements/post/lwsd-will-include-building-excellence-construction-levy-on-the-november-5-ballot)
-
-[LWSD will include Building Excellence Construction Levy on the November 5 ballot](https://www.lwsd.org/programs-and-services/communications/news/news-details/~board/2023-24-announcements/post/lwsd-will-include-building-excellence-construction-levy-on-the-november-5-ballot)
-
-Jun 4 2024
-
-[](https://www.lwsd.org/programs-and-services/communications/news/news-details/~board/2023-24-announcements/post/school-levy-voter-pamphlet-statement-committees)
-
-[School Levy Voter Pamphlet Statement Committees:](https://www.lwsd.org/programs-and-services/communications/news/news-details/~board/2023-24-announcements/post/school-levy-voter-pamphlet-statement-committees)
-
-Jun 4 2024
-
 Events
 ------
 
 [Full Calendar](https://www.lwsd.org/about-us/district-calendar)
-
-Fri Jun. 07
-
-[LWSD - Last day of SNAPS](#)
 
 Thu Jun. 13
 
@@ -236,6 +232,10 @@ Fri Jun. 21
 Mon Jun. 24
 
 [LWSD - School Board Study Session](#)
+
+Mon Jun. 24
+
+[LWSD - School Board Meeting](#)
 
 X
 -
