@@ -24,16 +24,16 @@ Back
     
     [View all products](https://www.bose.com/c/all-products)
     
-     ![Bose QuietComfort Headphones](https://assets.bosecreative.com/transform/283f071c-b833-4500-888a-e710b28df634/Editorial-Product-Category-Card_Graduation?io=transform:fit,height:1920,width:1920&io=overlay:box,color:000000,opacity:12&quality=95)
+     ![Bose Smart Ultra Soundbar](https://assets.bosecreative.com/transform/2fcb3a82-e086-4c63-91fa-07c55fd3fcbc/SF_HP-PANEL-2_FathersDay?io=transform:fit,height:1920,width:1920&io=overlay:box,color:000000,opacity:10&quality=95)
     
-    GRADUATION SALE
+    FATHER’S DAY SALE
     
-    Class is out. Gifts are in.
-    ---------------------------
+    Drumroll for dad, please.
+    -------------------------
     
-    Celebrate your grad with the gift of sound and save over 25% on select products.
+    Dedicate the next one to dad. Save over 25% on select Bose products this Father’s Day.
     
-    [SHOP](https://www.bose.com/c/gifts-for-grads "SHOP")
+    [SHOP](https://www.bose.com/c/fathers-day-sale "SHOP")
     
 
 * [Explore](#)
@@ -96,17 +96,23 @@ Back
 Bose SMS Terms of Use
 =====================
 
-Last updated: February 26, 2024
+Last updated: June 6, 2024
 
-[Opt in](#Opt_in) [Opt out](#Opt_out) [Charges](#Charges) [Eligibility and change in phone number](#Eligibility_and_change_in_phone_number) [Changes to the SMS Terms](#Changes_to_the_SMS_Terms) [Questions](#Questions)
+[E-SIGN disclosure and agreement](#E-SIGN_disclosure_and_agreement) [Opt in](#Opt_in) [Opt out](#Opt_out) [Charges](#Charges) [Eligibility and change in phone number](#Eligibility_and_change_in_phone_number) [Changes to the SMS Terms](#Changes_to_the_SMS_Terms) [Questions](#Questions)
 
 [**BACK TO ALL LEGAL**](https://www.bose.com/legal)
 
 By enrolling or otherwise agreeing to receive text messages from or on behalf of Bose or by otherwise providing your phone number to Bose, you agree to these SMS Terms (the “SMS Terms”), as well as Bose’s [Terms of Use](https://www.bose.com/legal/terms-of-use) and [Privacy Policy](https://www.bose.com/legal/privacy-policy) which are incorporated herein by reference and can be viewed at the links provided here. The SMS Terms govern the provision and delivery of text messages by Bose (collectively “Bose,” “we,” “us,” or “our”) and our text message service providers.
 
+E-SIGN disclosure and agreement
+
+By providing your consent, you also consent to the use of an electronic record to document your agreement. You may withdraw your consent to the use of the electronic record by emailing us at [privacyandsecurity@bose.com](mailto:privacyandsecurity@bose.com) with “Revoke Electronic Consent” in the subject line. These SMS Terms will still apply if you withdraw consent to the use of an electronic record. To view and retain a copy of this disclosure or any information regarding your enrollment in this program, you will need a device (such as a computer or mobile phone) with a web browser and internet access and (ii) either a printer or storage space on such device. For a free printed copy, or to update our records with your contact information, email us at [privacyandsecurity@bose.com](mailto:privacyandsecurity@bose.com) with contact information and the address for delivery.
+
+[Back to top](#maincontent)
+
 Opt in
 
-By opting into any Bose text messaging program, you expressly consent to receive transactional, operational, informational, and recurring marketing text messages that may be sent using an automatic telephone dialing system, by or on behalf of Bose, at the cell phone number you provide us. The number of text messages that you receive will vary depending on which Bose text messaging programs you sign up for. Consent to receive texts is not a condition of purchasing any goods or services. We may not be able to deliver messages to all mobile carriers. Bose and all mobile carriers are not liable for delayed or undelivered messages.  
+By opting into any Bose text messaging program, you expressly consent to receive transactional, operational, informational, and recurring marketing text messages that may be sent using an automatic telephone dialing system, by or on behalf of Bose, at the cell phone number you provide us. The number of text messages that you receive will vary depending on which Bose text messaging programs you sign up for. Consent to receive marketing texts is not a condition of purchasing any goods or services. We may not be able to deliver messages to all mobile carriers. Bose and all mobile carriers are not liable for delayed or undelivered messages.  
 
 [Back to top](#maincontent)
 
