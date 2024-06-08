@@ -44,7 +44,7 @@ PINE64
 | ![[-]](https://forum.pine64.org/images/collapse.png "[-]")<br><br>**[Pinebook Pro](https://forum.pine64.org/forumdisplay.php?fid=111)**  <br><br>The 14.3" high performance ARM laptop powered by the same Rockchip RK3399 SoC as the RockPro64 |     |     |     |     |
 | --- | --- | --- | --- | --- |
 | **Forum** |     | **Threads** | **Posts** | **Last Post** |
-|     | [General Discussion on Pinebook Pro  <br>Threads: 1,072  //  Posts: 10,490](https://forum.pine64.org/forumdisplay.php?fid=112) | 1,072 | 10,490 | [External monitor on PBP D...](https://forum.pine64.org/showthread.php?tid=19263&action=lastpost "External monitor on PBP Docking Deck")  <br>5 hours ago, [Pavlos1](https://forum.pine64.org/member.php?action=profile&uid=27876) |
+|     | [General Discussion on Pinebook Pro  <br>Threads: 1,072  //  Posts: 10,491](https://forum.pine64.org/forumdisplay.php?fid=112) | 1,072 | 10,491 | [About new OS over pineboo...](https://forum.pine64.org/showthread.php?tid=19273&action=lastpost "About new OS over pinebook debian")  <br>Yesterday, 11:54 AM, [tophneal](https://forum.pine64.org/member.php?action=profile&uid=12077) |
 |     | [Android on Pinebook Pro  <br>Threads: 14  //  Posts: 246](https://forum.pine64.org/forumdisplay.php?fid=113) | 14  | 246 | [Pinebook Pro with PrimeOS](https://forum.pine64.org/showthread.php?tid=14894&action=lastpost "Pinebook Pro with PrimeOS")  <br>06-28-2023, 04:53 AM, [myanmar](https://forum.pine64.org/member.php?action=profile&uid=26780) |
 |     | [Linux on Pinebook Pro  <br>Threads: 729  //  Posts: 6,324](https://forum.pine64.org/forumdisplay.php?fid=114) | 729 | 6,324 | [Slackware Linux working o...](https://forum.pine64.org/showthread.php?tid=19272&action=lastpost "Slackware Linux working on PBP")  <br>06-05-2024, 04:30 PM, [vxzero](https://forum.pine64.org/member.php?action=profile&uid=23112) |
 |     | [BSD on Pinebook Pro  <br>Threads: 19  //  Posts: 255](https://forum.pine64.org/forumdisplay.php?fid=115) | 19  | 255 | [2nd NetBSD boot goes dark](https://forum.pine64.org/showthread.php?tid=18868&action=lastpost "2nd NetBSD boot goes dark")  <br>02-22-2024, 03:59 AM, [KC9UDX](https://forum.pine64.org/member.php?action=profile&uid=18280) |
@@ -69,7 +69,7 @@ PINE64
 | **Forum** |     | **Threads** | **Posts** | **Last Post** |
 |     | [General Discussion on PinePhone  <br>Threads: 1,067  //  Posts: 8,099](https://forum.pine64.org/forumdisplay.php?fid=127) | 1,067 | 8,099 | [Tow boot](https://forum.pine64.org/showthread.php?tid=19264&action=lastpost "Tow boot")  <br>06-01-2024, 05:08 AM, [shulamy](https://forum.pine64.org/member.php?action=profile&uid=23688) |
 |     | [PinePhone Software  <br>Threads: 2,420  //  Posts: 15,869](https://forum.pine64.org/forumdisplay.php?fid=121)<br><br>**Sub Forums:**<br><br>[PostmarketOS on PinePhone](https://forum.pine64.org/forumdisplay.php?fid=124),<br><br>[UBPorts on PinePhone](https://forum.pine64.org/forumdisplay.php?fid=125),<br><br>[Mobian on PinePhone](https://forum.pine64.org/forumdisplay.php?fid=139),<br><br>[Manjaro on PinePhone](https://forum.pine64.org/forumdisplay.php?fid=130),<br><br>[Arch Linux on PinePhone](https://forum.pine64.org/forumdisplay.php?fid=159), and 7 more. | 2,420 | 15,869 | [Mobian-Kicksecure?](https://forum.pine64.org/showthread.php?tid=19254&action=lastpost "Mobian-Kicksecure?")  <br>05-26-2024, 02:09 PM, [3460p](https://forum.pine64.org/member.php?action=profile&uid=24715) |
-|     | [PinePhone Hardware  <br>Threads: 536  //  Posts: 3,602](https://forum.pine64.org/forumdisplay.php?fid=122) | 536 | 3,602 | [Updated Physical Keyboard...](https://forum.pine64.org/showthread.php?tid=19200&action=lastpost "Updated Physical Keyboard?")  <br>Yesterday, 07:51 PM, [pehjota](https://forum.pine64.org/member.php?action=profile&uid=25855) |
+|     | [PinePhone Hardware  <br>Threads: 536  //  Posts: 3,602](https://forum.pine64.org/forumdisplay.php?fid=122) | 536 | 3,602 | [Updated Physical Keyboard...](https://forum.pine64.org/showthread.php?tid=19200&action=lastpost "Updated Physical Keyboard?")  <br>06-06-2024, 07:51 PM, [pehjota](https://forum.pine64.org/member.php?action=profile&uid=25855) |
 |     | [PinePhone Accessories  <br>Threads: 190  //  Posts: 1,542](https://forum.pine64.org/forumdisplay.php?fid=123) | 190 | 1,542 | [Case for Pinephone](https://forum.pine64.org/showthread.php?tid=16953&action=lastpost "Case for Pinephone")  <br>04-11-2024, 11:48 AM, [gramonyl](https://forum.pine64.org/member.php?action=profile&uid=28078) |
 
   
@@ -77,7 +77,7 @@ PINE64
 | ![[-]](https://forum.pine64.org/images/collapse.png "[-]")<br><br>**[PinePhone Pro](https://forum.pine64.org/forumdisplay.php?fid=177)**  <br><br>The Mainline Linux smartphone powered by Rockchip RK3399S |     |     |     |     |
 | --- | --- | --- | --- | --- |
 | **Forum** |     | **Threads** | **Posts** | **Last Post** |
-|     | [General Discussion of PinePhone Pro  <br>Threads: 219  //  Posts: 1,339](https://forum.pine64.org/forumdisplay.php?fid=178) | 219 | 1,339 | [PPP caller hears themselv...](https://forum.pine64.org/showthread.php?tid=16930&action=lastpost "PPP caller hears themselves")  <br>Yesterday, 02:27 PM, [baptx](https://forum.pine64.org/member.php?action=profile&uid=28213) |
+|     | [General Discussion of PinePhone Pro  <br>Threads: 219  //  Posts: 1,339](https://forum.pine64.org/forumdisplay.php?fid=178) | 219 | 1,339 | [PPP caller hears themselv...](https://forum.pine64.org/showthread.php?tid=16930&action=lastpost "PPP caller hears themselves")  <br>06-06-2024, 02:27 PM, [baptx](https://forum.pine64.org/member.php?action=profile&uid=28213) |
 |     | [PinePhone Pro Software  <br>Threads: 216  //  Posts: 1,187](https://forum.pine64.org/forumdisplay.php?fid=179) | 216 | 1,187 | [Pipewire Struggle](https://forum.pine64.org/showthread.php?tid=18468&action=lastpost "Pipewire Struggle")  <br>05-29-2024, 05:03 PM, [Jite](https://forum.pine64.org/member.php?action=profile&uid=26611) |
 |     | [PinePhone Pro Hardware  <br>Threads: 76  //  Posts: 365](https://forum.pine64.org/forumdisplay.php?fid=180) | 76  | 365 | [USB charging is unreliabl...](https://forum.pine64.org/showthread.php?tid=19240&action=lastpost "USB charging is unreliable")  <br>05-17-2024, 04:29 AM, [lightwo](https://forum.pine64.org/member.php?action=profile&uid=28131) |
 |     | [PinePhone Pro Accessories  <br>Threads: 28  //  Posts: 120](https://forum.pine64.org/forumdisplay.php?fid=181) | 28  | 120 | [Availability of the LoRa ...](https://forum.pine64.org/showthread.php?tid=19179&action=lastpost "Availability of the LoRa addon case in pine64 shop")  <br>05-13-2024, 01:34 PM, [tllim](https://forum.pine64.org/member.php?action=profile&uid=5) |
@@ -232,7 +232,7 @@ PINE64
 |     |
 | --- |
 | **[Board Statistics](https://forum.pine64.org/stats.php)** |
-| Total Threads: 15726  <br>Total Posts: 114748  <br>Members: 28242  <br>Most Online: 2329  <br>Newest Member: [voje12](https://forum.pine64.org/member.php?action=profile&uid=28252) |
+| Total Threads: 15726  <br>Total Posts: 114749  <br>Members: 28244  <br>Most Online: 2329  <br>Newest Member: [Christie1988](https://forum.pine64.org/member.php?action=profile&uid=28254) |
 
   
 
@@ -262,3 +262,5 @@ Social
 * [Fosstodon](https://fosstodon.org/@PINE64)
 
 Powered by [MyBB](http://www.mybb.com/), © 2002-2024 [MyBB Group](http://www.mybb.com/). Theme designed by [m0ckingbird](http://community.mybb.com/user-102346.html) © 2015-2024, modified by [fire219](https://forum.pine64.org/member.php?action=profile&uid=606).
+
+![](https://forum.pine64.org/task.php)
