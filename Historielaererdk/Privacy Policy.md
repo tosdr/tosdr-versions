@@ -163,19 +163,29 @@ Tilmeld mig nyhedsbrevet.
 Populært i denne måned
 ----------------------
 
-* [![](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/63520-featured-50x50.jpg)](https://historielaerer.dk/kurser/historiedidaktik-2-0/) [Histo­ri­e­di­dak­tik 2.0](https://historielaerer.dk/kurser/historiedidaktik-2-0/) 365 visninger | af [Emilie Kjersgaard](https://historielaerer.dk/author/emilienielsen/)
-* [![](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/58950-featured-50x50.jpg)](https://historielaerer.dk/fortiden-i-historiefaget/) [For­ti­den i historiefaget](https://historielaerer.dk/fortiden-i-historiefaget/) 88 visninger | af [Loa Bjerre](https://historielaerer.dk/author/loabjerre/)
+* [![](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/63520-featured-50x50.jpg)](https://historielaerer.dk/kurser/historiedidaktik-2-0/) [Histo­ri­e­di­dak­tik 2.0](https://historielaerer.dk/kurser/historiedidaktik-2-0/) 360 visninger | af [Emilie Kjersgaard](https://historielaerer.dk/author/emilienielsen/)
+* [![](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/58950-featured-50x50.jpg)](https://historielaerer.dk/fortiden-i-historiefaget/) [For­ti­den i historiefaget](https://historielaerer.dk/fortiden-i-historiefaget/) 90 visninger | af [Loa Bjerre](https://historielaerer.dk/author/loabjerre/)
 * [![](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/42334-featured-50x50.jpg)](https://historielaerer.dk/the-impact-of-french-colonialism-on-tunisia/) [The impa­ct of French Colo­ni­a­lism on Tunisia](https://historielaerer.dk/the-impact-of-french-colonialism-on-tunisia/) 71 visninger | af [Feiza Abidi](https://historielaerer.dk/author/feizaabidi/)
-* [![](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/63612-featured-50x50.jpg)](https://historielaerer.dk/noter-241-perspektiver-paa-det-antropocaene/) [Noter #241 — Per­spek­ti­ver på det antropocæne](https://historielaerer.dk/noter-241-perspektiver-paa-det-antropocaene/) 66 visninger | af [Niels Nøddebo Petersen](https://historielaerer.dk/author/niels-petersen/)
-* [![Boligblokke i Nuuk, Grønland](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/63614-featured-50x50.jpg)](https://historielaerer.dk/kurser/groenland-i-historie-og-danskundervisningen/) [Grøn­land i histo­rie- og danskundervisningen](https://historielaerer.dk/kurser/groenland-i-historie-og-danskundervisningen/) 64 visninger | af [Søren Torbjørn Svendsen](https://historielaerer.dk/author/sorentsvendsen/)
-* [![](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/47342-featured-50x50.jpg)](https://historielaerer.dk/education-in-ancient-egypt/) [Educa­tion in Anci­ent Egypt](https://historielaerer.dk/education-in-ancient-egypt/) 45 visninger | af [Ayman Abdel Aziz Al-Bailey](https://historielaerer.dk/author/ayman/)
-* [![Christian den 2.](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/9200-featured-50x50.png)](https://historielaerer.dk/den-danske-reformation-1517-1539/) [Den dan­ske refor­ma­tion 1517 – 1539](https://historielaerer.dk/den-danske-reformation-1517-1539/) 43 visninger | af [Suno Scharling](https://historielaerer.dk/author/sunoscharling/)
-* [![](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/43391-featured-50x50.jpg)](https://historielaerer.dk/noter-228-forbrydelse-og-straf/) [Noter #228: For­bry­del­se og straf](https://historielaerer.dk/noter-228-forbrydelse-og-straf/) 41 visninger | af [Amalia Dea Bonné](https://historielaerer.dk/author/amalia/)
-* [![](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/63234-featured-50x50.png)](https://historielaerer.dk/historiekonkurrencen-23-24/) [Histo­rie­kon­kur­ren­cen 23/24](https://historielaerer.dk/historiekonkurrencen-23-24/) 37 visninger | af [Espen Espensen & Trine Villumsen](https://historielaerer.dk/author/espenespensen/?mab_v3=63234)
+* [![Boligblokke i Nuuk, Grønland](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/63614-featured-50x50.jpg)](https://historielaerer.dk/kurser/groenland-i-historie-og-danskundervisningen/) [Grøn­land i histo­rie- og danskundervisningen](https://historielaerer.dk/kurser/groenland-i-historie-og-danskundervisningen/) 69 visninger | af [Søren Torbjørn Svendsen](https://historielaerer.dk/author/sorentsvendsen/)
+* [![](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/63612-featured-50x50.jpg)](https://historielaerer.dk/noter-241-perspektiver-paa-det-antropocaene/) [Noter #241 — Per­spek­ti­ver på det antropocæne](https://historielaerer.dk/noter-241-perspektiver-paa-det-antropocaene/) 68 visninger | af [Niels Nøddebo Petersen](https://historielaerer.dk/author/niels-petersen/)
+* [![Christian den 2.](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/9200-featured-50x50.png)](https://historielaerer.dk/den-danske-reformation-1517-1539/) [Den dan­ske refor­ma­tion 1517 – 1539](https://historielaerer.dk/den-danske-reformation-1517-1539/) 45 visninger | af [Suno Scharling](https://historielaerer.dk/author/sunoscharling/)
+* [![](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/47342-featured-50x50.jpg)](https://historielaerer.dk/education-in-ancient-egypt/) [Educa­tion in Anci­ent Egypt](https://historielaerer.dk/education-in-ancient-egypt/) 44 visninger | af [Ayman Abdel Aziz Al-Bailey](https://historielaerer.dk/author/ayman/)
+* [![](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/63234-featured-50x50.png)](https://historielaerer.dk/historiekonkurrencen-23-24/) [Histo­rie­kon­kur­ren­cen 23/24](https://historielaerer.dk/historiekonkurrencen-23-24/) 43 visninger | af [Espen Espensen & Trine Villumsen](https://historielaerer.dk/author/espenespensen/?mab_v3=63234)
+* [![](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/43391-featured-50x50.jpg)](https://historielaerer.dk/noter-228-forbrydelse-og-straf/) [Noter #228: For­bry­del­se og straf](https://historielaerer.dk/noter-228-forbrydelse-og-straf/) 38 visninger | af [Amalia Dea Bonné](https://historielaerer.dk/author/amalia/)
 * [![](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/9176-featured-50x50.jpg)](https://historielaerer.dk/luther-reformationen-1517/) [Lut­her og Refor­ma­tio­nen 1517](https://historielaerer.dk/luther-reformationen-1517/) 31 visninger | af [Otto Rühl](https://historielaerer.dk/author/ottoruehl/)
 
 ### Aktu­el­le arrangementer
 
+* ![Hvad skal vi lave i år? Årshjul og nye idéer](https://historielaerer.dk/wp-content/uploads/2023/07/gruppebillede-i-Ribe2-150x150.jpeg)
+    
+    [Hvad skal vi lave i år? Årshjul og nye idéer](https://historielaerer.dk/kurser/hvad-skal-vi-lave-i-aar-aarshjul-og-nye-ideer/)
+    
+    26 sep 24
+    
+    [HLF's mødelokale](https://historielaerer.dk/moedelokale/)
+    
+      
+    
 * ![Historiedidaktik 2.0](https://historielaerer.dk/wp-content/uploads/2024/05/Historiedidaktik-2.0-150x150.jpg)
     
     [Historiedidaktik 2.0](https://historielaerer.dk/kurser/historiedidaktik-2-0/)
@@ -186,6 +196,16 @@ Populært i denne måned
     
       
     
+* ![HO og DHO](https://historielaerer.dk/wp-content/uploads/2023/07/gruppebillede-i-Ribe2-150x150.jpeg)
+    
+    [HO og DHO](https://historielaerer.dk/kurser/ho-og-dho/)
+    
+    31 okt 24
+    
+    [HLF's mødelokale](https://historielaerer.dk/moedelokale/)
+    
+      
+    
 * ![Grønland i historie- og danskundervisningen](https://historielaerer.dk/wp-content/uploads/2016/06/20160528_122853-300x168.jpg)
     
     [Grønland i historie- og danskundervisningen](https://historielaerer.dk/kurser/groenland-i-historie-og-danskundervisningen/)
@@ -193,6 +213,36 @@ Populært i denne måned
     26 nov 24
     
     Frederiksberg
+    
+      
+    
+* ![Vintereksamen og KS-afslutning](https://historielaerer.dk/wp-content/uploads/2023/07/gruppebillede-i-Ribe2-150x150.jpeg)
+    
+    [Vintereksamen og KS-afslutning](https://historielaerer.dk/kurser/vintereksamen-og-ks-afslutning/)
+    
+    28 nov 24
+    
+    [HLF's mødelokale](https://historielaerer.dk/moedelokale/)
+    
+      
+    
+* ![SSO/SRP - de svære problemformuleringer](https://historielaerer.dk/wp-content/uploads/2023/07/gruppebillede-i-Ribe2-150x150.jpeg)
+    
+    [SSO/SRP - de svære problemformuleringer](https://historielaerer.dk/kurser/sso-srp-de-svaere-problemformuleringer/)
+    
+    30 jan 25
+    
+    [HLF's mødelokale](https://historielaerer.dk/moedelokale/)
+    
+      
+    
+* ![Kildearbejde og problemstillinger](https://historielaerer.dk/wp-content/uploads/2023/07/gruppebillede-i-Ribe2-150x150.jpeg)
+    
+    [Kildearbejde og problemstillinger](https://historielaerer.dk/kurser/kildearbejde-og-problemstillinger/)
+    
+    27 mar 25
+    
+    [HLF's mødelokale](https://historielaerer.dk/moedelokale/)
     
       
     
@@ -219,15 +269,15 @@ Trender
 -------
 
 * [![](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/63520-featured-50x50.jpg)](https://historielaerer.dk/kurser/historiedidaktik-2-0/) [Histo­ri­e­di­dak­tik 2.0](https://historielaerer.dk/kurser/historiedidaktik-2-0/) af [Emilie Kjersgaard](https://historielaerer.dk/author/emilienielsen/)
-* [![](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/63612-featured-50x50.jpg)](https://historielaerer.dk/noter-241-perspektiver-paa-det-antropocaene/) [Noter #241 — Per­spek­ti­ver på det antropocæne](https://historielaerer.dk/noter-241-perspektiver-paa-det-antropocaene/) af [Niels Nøddebo Petersen](https://historielaerer.dk/author/niels-petersen/)
 * [![Boligblokke i Nuuk, Grønland](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/63614-featured-50x50.jpg)](https://historielaerer.dk/kurser/groenland-i-historie-og-danskundervisningen/) [Grøn­land i histo­rie- og danskundervisningen](https://historielaerer.dk/kurser/groenland-i-historie-og-danskundervisningen/) af [Søren Torbjørn Svendsen](https://historielaerer.dk/author/sorentsvendsen/)
+* [![](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/63612-featured-50x50.jpg)](https://historielaerer.dk/noter-241-perspektiver-paa-det-antropocaene/) [Noter #241 — Per­spek­ti­ver på det antropocæne](https://historielaerer.dk/noter-241-perspektiver-paa-det-antropocaene/) af [Niels Nøddebo Petersen](https://historielaerer.dk/author/niels-petersen/)
 * [![](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/58950-featured-50x50.jpg)](https://historielaerer.dk/fortiden-i-historiefaget/) [For­ti­den i historiefaget](https://historielaerer.dk/fortiden-i-historiefaget/) af [Loa Bjerre](https://historielaerer.dk/author/loabjerre/)
 * [![](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/63234-featured-50x50.png)](https://historielaerer.dk/historiekonkurrencen-23-24/) [Histo­rie­kon­kur­ren­cen 23/24](https://historielaerer.dk/historiekonkurrencen-23-24/) af [Espen Espensen & Trine Villumsen](https://historielaerer.dk/author/espenespensen/?mab_v3=63234)
-* [![](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/19367-featured-50x50.png)](https://historielaerer.dk/film-i-historie/) [Film i historie](https://historielaerer.dk/film-i-historie/) af [Anders Bærholm Frikke](https://historielaerer.dk/author/akbf/)
 * [![](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/42334-featured-50x50.jpg)](https://historielaerer.dk/the-impact-of-french-colonialism-on-tunisia/) [The impa­ct of French Colo­ni­a­lism on Tunisia](https://historielaerer.dk/the-impact-of-french-colonialism-on-tunisia/) af [Feiza Abidi](https://historielaerer.dk/author/feizaabidi/)
-* [![](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/20820-featured-50x50.jpg)](https://historielaerer.dk/kurser/graenser-og-national-identitet-foer-nu-og-i-fremtiden/) [Græn­ser og natio­nal iden­ti­tet før, nu og i fremtiden](https://historielaerer.dk/kurser/graenser-og-national-identitet-foer-nu-og-i-fremtiden/) af [Annika Reinhold Bjørn](https://historielaerer.dk/author/annikabjorn/)
 * [![Christian den 2.](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/9200-featured-50x50.png)](https://historielaerer.dk/den-danske-reformation-1517-1539/) [Den dan­ske refor­ma­tion 1517 – 1539](https://historielaerer.dk/den-danske-reformation-1517-1539/) af [Suno Scharling](https://historielaerer.dk/author/sunoscharling/)
 * [![](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/47342-featured-50x50.jpg)](https://historielaerer.dk/education-in-ancient-egypt/) [Educa­tion in Anci­ent Egypt](https://historielaerer.dk/education-in-ancient-egypt/) af [Ayman Abdel Aziz Al-Bailey](https://historielaerer.dk/author/ayman/)
+* [![](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/19367-featured-50x50.png)](https://historielaerer.dk/film-i-historie/) [Film i historie](https://historielaerer.dk/film-i-historie/) af [Anders Bærholm Frikke](https://historielaerer.dk/author/akbf/)
+* [![](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/20820-featured-50x50.jpg)](https://historielaerer.dk/kurser/graenser-og-national-identitet-foer-nu-og-i-fremtiden/) [Græn­ser og natio­nal iden­ti­tet før, nu og i fremtiden](https://historielaerer.dk/kurser/graenser-og-national-identitet-foer-nu-og-i-fremtiden/) af [Annika Reinhold Bjørn](https://historielaerer.dk/author/annikabjorn/)
 
 Copyright © 2024 med 💓 til HLF
 
