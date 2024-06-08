@@ -30,21 +30,13 @@ Music Lab](https://studio.code.org/s/music-intro-2024/reset)[View all projects..
 
 [Help and support](https://support.code.org/) [Report a problem](https://support.code.org/hc/en-us/requests/new)
 
-[Course Catalog](https://studio.code.org/catalog)
-
-[Districts](https://code.org/administrators)
-
-[Incubator](https://studio.code.org/incubator)
-
-[Help and support](https://support.code.org/)
-
-[Report a problem](https://support.code.org/hc/en-us/requests/new)
-
 [Learn](https://code.org/students)
 
 Teach
 
 [Educator Overview](https://code.org/teach)
+
+[Course Catalog](https://studio.code.org/catalog)
 
 [Elementary School](https://code.org/educate/curriculum/elementary-school)
 
@@ -64,9 +56,13 @@ Teach
 
 [Tools and Videos](https://code.org/educate/resources/videos)
 
+[Districts](https://code.org/administrators)
+
 [Stats](https://code.org/promote)
 
 [Help Us](https://code.org/help)
+
+[Incubator](https://studio.code.org/incubator)
 
 About
 
@@ -97,6 +93,10 @@ Privacy & Legal
 [Cookie Notice](https://code.org/cookies)
 
 [Terms of Service](https://code.org/tos)
+
+[Help and support](https://support.code.org/)
+
+[Report a problem](https://support.code.org/hc/en-us/requests/new)
 
 Code.org Cookie Notice
 ======================
