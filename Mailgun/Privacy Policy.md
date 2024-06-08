@@ -381,11 +381,11 @@ This app works best with JavaScript enabled.
         Getting started with Mailgun: An intro to the platform
         
         Read more](https://www.mailgun.com/resources/videos/getting-started-mailgun-intro-platform/)
-    * [![Dribbble Case Study Article Image](https://images.ctfassets.net/y6oq7udscnj8/2uBPFwWT8AsxRUREjUz2X2/8c6786b654ae000554dbd1e288d685f5/Mailgun-Case-Study-Dribbble.png?w=592&h=368&q=50&fm=png)
+    * [![SparkToro logo](https://images.ctfassets.net/y6oq7udscnj8/4duqZ1Sce7eYq5nlOVWlAz/e1d0d319f476a0cc55169b65acd573d5/MG-CS-SparkToro.png?w=1440&h=896&q=50&fm=png)
         
-        How Dribbble improved connection & scalable sending with Mailgun
+        Building a dynamic email ecosystem: SparkToro's story
         
-        Read more](https://www.mailgun.com/resources/case-studies/how-dribbble-improved-connection-and-scalable-sending-with-mailgun/)
+        Read more](https://www.mailgun.com/resources/case-studies/sparktoro/)
     * [![Email and the customer experience title card](https://images.ctfassets.net/y6oq7udscnj8/79dpwRuQUtlb6msRBQz1Ft/b67cbe0915f20a060eb3b11d7b2c4267/MG-RR-Customer-Experience.png?w=1440&h=896&q=50&fm=png)
         
         Email and the customer experience
@@ -423,11 +423,11 @@ This app works best with JavaScript enabled.
         Getting started with Mailgun: An intro to the platform
         
         Read more](https://www.mailgun.com/resources/videos/getting-started-mailgun-intro-platform/)
-    * [![Dribbble Case Study Article Image](https://images.ctfassets.net/y6oq7udscnj8/2uBPFwWT8AsxRUREjUz2X2/8c6786b654ae000554dbd1e288d685f5/Mailgun-Case-Study-Dribbble.png?w=592&h=368&q=50&fm=png)
+    * [![SparkToro logo](https://images.ctfassets.net/y6oq7udscnj8/4duqZ1Sce7eYq5nlOVWlAz/e1d0d319f476a0cc55169b65acd573d5/MG-CS-SparkToro.png?w=1440&h=896&q=50&fm=png)
         
-        How Dribbble improved connection & scalable sending with Mailgun
+        Building a dynamic email ecosystem: SparkToro's story
         
-        Read more](https://www.mailgun.com/resources/case-studies/how-dribbble-improved-connection-and-scalable-sending-with-mailgun/)
+        Read more](https://www.mailgun.com/resources/case-studies/sparktoro/)
     * [![Email and the customer experience title card](https://images.ctfassets.net/y6oq7udscnj8/79dpwRuQUtlb6msRBQz1Ft/b67cbe0915f20a060eb3b11d7b2c4267/MG-RR-Customer-Experience.png?w=1440&h=896&q=50&fm=png)
         
         Email and the customer experience
@@ -790,11 +790,11 @@ Back to main menu
         Getting started with Mailgun: An intro to the platform
         
         Read more](https://www.mailgun.com/resources/videos/getting-started-mailgun-intro-platform/)
-    * [![Dribbble Case Study Article Image](https://images.ctfassets.net/y6oq7udscnj8/2uBPFwWT8AsxRUREjUz2X2/8c6786b654ae000554dbd1e288d685f5/Mailgun-Case-Study-Dribbble.png?w=592&h=368&q=50&fm=png)
+    * [![SparkToro logo](https://images.ctfassets.net/y6oq7udscnj8/4duqZ1Sce7eYq5nlOVWlAz/e1d0d319f476a0cc55169b65acd573d5/MG-CS-SparkToro.png?w=1440&h=896&q=50&fm=png)
         
-        How Dribbble improved connection & scalable sending with Mailgun
+        Building a dynamic email ecosystem: SparkToro's story
         
-        Read more](https://www.mailgun.com/resources/case-studies/how-dribbble-improved-connection-and-scalable-sending-with-mailgun/)
+        Read more](https://www.mailgun.com/resources/case-studies/sparktoro/)
     * [![Email and the customer experience title card](https://images.ctfassets.net/y6oq7udscnj8/79dpwRuQUtlb6msRBQz1Ft/b67cbe0915f20a060eb3b11d7b2c4267/MG-RR-Customer-Experience.png?w=1440&h=896&q=50&fm=png)
         
         Email and the customer experience
@@ -832,11 +832,11 @@ Back to main menu
         Getting started with Mailgun: An intro to the platform
         
         Read more](https://www.mailgun.com/resources/videos/getting-started-mailgun-intro-platform/)
-    * [![Dribbble Case Study Article Image](https://images.ctfassets.net/y6oq7udscnj8/2uBPFwWT8AsxRUREjUz2X2/8c6786b654ae000554dbd1e288d685f5/Mailgun-Case-Study-Dribbble.png?w=592&h=368&q=50&fm=png)
+    * [![SparkToro logo](https://images.ctfassets.net/y6oq7udscnj8/4duqZ1Sce7eYq5nlOVWlAz/e1d0d319f476a0cc55169b65acd573d5/MG-CS-SparkToro.png?w=1440&h=896&q=50&fm=png)
         
-        How Dribbble improved connection & scalable sending with Mailgun
+        Building a dynamic email ecosystem: SparkToro's story
         
-        Read more](https://www.mailgun.com/resources/case-studies/how-dribbble-improved-connection-and-scalable-sending-with-mailgun/)
+        Read more](https://www.mailgun.com/resources/case-studies/sparktoro/)
     * [![Email and the customer experience title card](https://images.ctfassets.net/y6oq7udscnj8/79dpwRuQUtlb6msRBQz1Ft/b67cbe0915f20a060eb3b11d7b2c4267/MG-RR-Customer-Experience.png?w=1440&h=896&q=50&fm=png)
         
         Email and the customer experience
@@ -1083,11 +1083,11 @@ Back to main menu
     Getting started with Mailgun: An intro to the platform
     
     Read more](https://www.mailgun.com/resources/videos/getting-started-mailgun-intro-platform/)
-* [![Dribbble Case Study Article Image](https://images.ctfassets.net/y6oq7udscnj8/2uBPFwWT8AsxRUREjUz2X2/8c6786b654ae000554dbd1e288d685f5/Mailgun-Case-Study-Dribbble.png?w=592&h=368&q=50&fm=png)
+* [![SparkToro logo](https://images.ctfassets.net/y6oq7udscnj8/4duqZ1Sce7eYq5nlOVWlAz/e1d0d319f476a0cc55169b65acd573d5/MG-CS-SparkToro.png?w=1440&h=896&q=50&fm=png)
     
-    How Dribbble improved connection & scalable sending with Mailgun
+    Building a dynamic email ecosystem: SparkToro's story
     
-    Read more](https://www.mailgun.com/resources/case-studies/how-dribbble-improved-connection-and-scalable-sending-with-mailgun/)
+    Read more](https://www.mailgun.com/resources/case-studies/sparktoro/)
 * [![Email and the customer experience title card](https://images.ctfassets.net/y6oq7udscnj8/79dpwRuQUtlb6msRBQz1Ft/b67cbe0915f20a060eb3b11d7b2c4267/MG-RR-Customer-Experience.png?w=1440&h=896&q=50&fm=png)
     
     Email and the customer experience
