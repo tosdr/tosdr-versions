@@ -929,6 +929,14 @@ What do top resumes look like? Check out these expertly-written samples:
 
 [Brand Ambassador](https://cvcompiler.com/brand-ambassador-resume-examples)
 
+[Entry-Level Graphic Designer](https://cvcompiler.com/entry-level-graphic-designer-resume-examples)
+
+[Childcare](https://cvcompiler.com/childcare-resume-examples)
+
+[Office Clerk](https://cvcompiler.com/office-clerk-resume-examples)
+
+[Interior Designer](https://cvcompiler.com/interior-designer-resume-examples)
+
 ![Upload resume illustration](uploads-pre-acq/img/upload-illustration.svg)
 
 ### Upload  
