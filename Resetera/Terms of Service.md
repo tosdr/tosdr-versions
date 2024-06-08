@@ -18,9 +18,9 @@
 
 ![](/styles/resetera/resetera/images/reset-skinny-arrow-dark.svg)
 
- [![Bisexual](/styles/resetera/resetera/logos/Bisexual/logo.png "Bisexual")](https://www.resetera.com/)[![Bisexual](/styles/resetera/resetera/logos/Bisexual/logo-workmark.png "Bisexual")](https://www.resetera.com/)
+ [![Trans](/styles/resetera/resetera/logos/Trans/logo.png "Trans")](https://www.resetera.com/)[![Trans](/styles/resetera/resetera/logos/Trans/logo-workmark.png "Trans")](https://www.resetera.com/)
 
- [![Bisexual](/styles/resetera/resetera/logos/Bisexual/logo.png "Bisexual")](https://www.resetera.com/)[![Bisexual](/styles/resetera/resetera/logos/Bisexual/logo-workmark.png "Bisexual")](https://www.resetera.com/)
+ [![Trans](/styles/resetera/resetera/logos/Trans/logo.png "Trans")](https://www.resetera.com/)[![Trans](/styles/resetera/resetera/logos/Trans/logo-workmark.png "Trans")](https://www.resetera.com/)
 
 Quick Jump
 
