@@ -64,7 +64,6 @@
         * [Orange Wholesale](https://www.orange.com/en/group/our-activities/orange-wholesale "Wholesale operator services")
         * [Business services](https://www.orange.com/en/expertise-our-subsidiaries-service-companies)
         * [Cybersecurity](https://www.orange.com/en/cyberdefense-guardians-network)
-        * [Mobile financial services](https://www.orange.com/en/group/our-activities/mobile-financial-services)
         * [Health](https://www.orange.com/en/how-orange-supporting-shift-e-health)
         * [Start-ups](https://www.orange.com/en/how-orange-supports-start-ups)
     
