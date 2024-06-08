@@ -166,7 +166,7 @@ Ready to get started? [Request an Appointment Today](https://therapydave.com/the
 
   
 
-“Dave Lechnyr is a very compassionate and empathetic couples therapist who has been able to work with me and my husband in very constructive and practical ways.”
+“At first, I thought I was working through the feelings around my failing marriage and subsequent divorce. Then I realized that I was struggling to actually process the feelings and grief I had been carrying. Now, I’m feeling a sense of empowerment and freedom like I’ve never had before.”
 
 – Client review of Gottman Therapist Dave Lechnyr, Eugene Oregon
 
