@@ -1,5 +1,6 @@
 [![Dog Fluffy](https://www.dogfluffy.com/wp-content/uploads/2023/09/DogFluffy_Logo_Enh.svg)](https://www.dogfluffy.com/)
 
+* [Fluffy Frenchie Care](https://www.dogfluffy.com/fluffy-frenchie-care)
 * [Resources](https://www.dogfluffy.com/dog-resources)
     * [Breeds](https://www.dogfluffy.com/breeds)
     * [Puppies](https://www.dogfluffy.com/puppies)
