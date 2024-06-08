@@ -5,7 +5,7 @@ SUBLICENSE AGREEMENT
 
 \\n
 
-\\n N 0706.2024.45485835 from 2024-06-07  
+\\n N 0806.2024.45485835 from 2024-06-08  
 \\n about transferring the non-exclusive right to use the Dr.Web software\\n
 
 \\n
