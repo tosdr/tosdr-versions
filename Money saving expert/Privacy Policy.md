@@ -813,6 +813,14 @@ This Privacy Policy explains how we use your personal information, including the
 * [Martin's Blog](#tab-01132106518-1)
 * [Deals Blog](#tab-01132106518-2)
 
+* ### [Martin Lewis: How to earn 8% interest on your savings (and possibly £200 on top, too)](https://www.moneysavingexpert.com/news/2023/12/martin-lewis-best-interest-savings/)
+    
+    7 June 2024
+    
+    [![](/content/dam/mse/editorial-image-library/guide-images/rhs-safe-savings.jpg.rendition.320.320.jpg)](https://www.moneysavingexpert.com/news/2023/12/martin-lewis-best-interest-savings/)
+    
+    It’s possible to earn 8% interest on your savings – more than four times what many earn – and gain an extra £200 on top. MoneySavingExpert.com founder Martin Lewis explains how.
+    
 * ### [eBay to stop accepting American Express in August – be careful if you're planning to use PayPal as a workaround](https://www.moneysavingexpert.com/news/2024/06/american-express-ebay/)
     
     6 June 2024
@@ -844,14 +852,6 @@ This Privacy Policy explains how we use your personal information, including the
     [![](/content/dam/x-twitter-hero.jpg.rendition.320.320.jpg "2336734529")](https://www.moneysavingexpert.com/news/2024/05/twitter-glitch-redirecting-mse/)
     
     Users of the social media platform have reported that tapping on any image, video or link unexpectedly takes them to our car finance free reclaim page. To be clear: this isn't an advert, we aren't behind it, and we've reported it to X to investigate.
-    
-* ### [Chase launches new 5.1% easy-access saver that's available to MORE customers – can you get it?](https://www.moneysavingexpert.com/news/2024/06/chase-savings-bonus-rate/)
-    
-    4 June 2024
-    
-    [![](/content/dam/chase-logo-new-square.jpg.rendition.320.320.jpg)](https://www.moneysavingexpert.com/news/2024/06/chase-savings-bonus-rate/)
-    
-    App-based bank Chase has just released a new table-topping 5.1% AER interest savings account for both new and existing customers. It follows a similar move earlier this year, though this time round, MORE customers can get it.
     
 
 * ### [Martin Lewis: Get £100s of credit back from your energy firm – it's all about the Direct Debit cycle…](https://blog.moneysavingexpert.com/2024/05/martin-lewis--stop-the-rip-off---get-p100s-credit-back-p100s-fro/)
