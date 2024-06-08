@@ -940,6 +940,8 @@ Breadcrumbs
 Your privacy is important
 =========================
 
+June 5, 2024 – These updates were made to clarify our use of Google Analytics tools and to reflect that we are subject to the consumer privacy laws of an additional jurisdiction.
+
 May 18, 2023 – The California and Other State Privacy Rights section was updated to comply with new and amended state consumer privacy laws. The “How do we handle information related to children” section was revised.
 
 November 8, 2022 – Updated policy to include “Information from other sources”.
