@@ -25,7 +25,7 @@ Fanding. Inc CEO : Sehyeon Eom E-mail : support@fanding.kr Address : 3-4F, 36, S
 
 © 2024 FANDING, Inc. All rights reserved
 
-[Newsfeed](https://fanding.kr/en/newsfeed) [Explore](https://fanding.kr/en/explorer/) Log In
+[Newsfeed](https://fanding.kr/feed) [Explore](https://fanding.kr/en/explorer/) Log In
 
 Terms of service
 ================
@@ -1117,7 +1117,7 @@ Terms of service
 
 Log In & Sign Up
 
-Log in now and connect with your favorite creators in a closer and more special way!
+Log in now and connect with your favorite creators in a closer, more special way!
 
 Log In
 
