@@ -80,11 +80,11 @@ Related Articles
 
 [How does automatic alt text work on Facebook?](https://help.instagram.com/216219865403298?helpref=related&source_cms_id=477434105621119)
 
+[Rejected name when creating a Facebook account](https://help.instagram.com/212848065405122?helpref=related&source_cms_id=477434105621119)
+
 [Legal terms applicable to donations on Facebook](https://help.instagram.com/117075358980053?helpref=related&source_cms_id=477434105621119)
 
 [Use Crisis Response on Facebook](https://help.instagram.com/1734887820172947?helpref=related&source_cms_id=477434105621119)
-
-[Does the number of times something gets reported determine whether or not that content is removed?](https://help.instagram.com/408181689281891?helpref=related&source_cms_id=477434105621119)
 
 |     |     |
 | --- | --- |
