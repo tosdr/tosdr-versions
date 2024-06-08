@@ -1,10 +1,10 @@
-\[Fri Jun 07 13:42:44 MEST 2024\]
+\[Sat Jun 08 15:06:40 MEST 2024\]
 
 ![Abierto Hogar](/COLX_ARQ_Agil_WebApp/jsp/escribirCookies.jsp?SegmentoNav=AHOG&idChannel=5e097abb1da86210VgnVCM1000009b2546acRCRD&siteName=COL10)
 
    
 
-\[Fri Jun 07 13:42:44 MEST 2024\]
+\[Sat Jun 08 15:06:40 MEST 2024\]
 
       
 
@@ -17,7 +17,7 @@
 
 * [Castellano](#)
     
-    * [CatalÃ¡n](https://www.movistar.es/ca/particulars/centro-de-privacidad/?lng=ca_ES&segmento=particulares&d=idiomasRespon&optionSelected=infoadicional) [Gallego](https://www.movistar.es/gl/particulares/centro-de-privacidad/?lng=gl_ES&segmento=particulares&d=idiomasRespon&optionSelected=infoadicional)
+    * [CatalÃ¡n](https://www.movistar.es/ca/particulars/centro-de-privacidad/?lng=ca_ES&segmento=particulares&d=idiomasRespon) [Gallego](https://www.movistar.es/gl/particulares/centro-de-privacidad/?lng=gl_ES&segmento=particulares&d=idiomasRespon)
 
 * Buscar
     
