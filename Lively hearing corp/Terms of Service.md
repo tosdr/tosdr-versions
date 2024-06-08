@@ -175,7 +175,7 @@ With our **Premium Package**, our Audiology Team works with you remotely to impr
     
     **Enhance Select 50R**
     
-    Works well in quieter situations, like one-on-one conversations and watching TV at home.
+    Great for everyday listening situations, like one-on-one conversations and watching TV.
     
     $995 - $1,195  
     or as low as $33/mo per pair](https://www.listenlively.com/product/enhanceselect50r)[\*](#financing-disclosure)
@@ -227,13 +227,13 @@ The reviews are in
 
 Filter reviews by topic:
 
-Hearing aids
+Sound quality
 
-* Hearing aids
+* Sound quality
+* Comfort
+* Discretion
 * Care and service
-* Ease of use
 * Value
-* Results
 
 See all reviews
 
@@ -281,7 +281,7 @@ Support
 
 [Contact us](https://www.listenlively.com/contact-us) [FAQ](https://www.listenlively.com/faq) [Help](https://www.listenlively.com/help) [My account](https://www.listenlively.com/my-account)
 
-[![Jabra Enhance BBB Business Review](/_next/static/media/bbb.7cac3d89.svg)](https://www.bbb.org/us/ny/new-york/profile/hearing-assistive-devices/jabraenhance-0121-185553)
+[![Jabra Enhance BBB Business Review](/_next/static/media/bbb.7cac3d89.svg)](https://www.bbb.org/us/mn/bloomington/profile/hearing-assistive-devices/jabra-enhance-0704-1000068823)
 
 [Questions? (800) 854 2772](tel:8008542772)
 
