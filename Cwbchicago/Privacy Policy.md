@@ -244,39 +244,39 @@ This privacy policy was created in party by using [Termly’s Privacy Policy Ge
 
 [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20326%20245'%3E%3C/svg%3E)
 
-![](https://cwbchicago.com/wp-content/uploads/2024/06/Victoria-Greyson-326x245.jpg)](https://cwbchicago.com/2024/06/woman-tazed-and-pepper-sprayed-sprayed-sleeping-man-killed-him-with-a-lamp-and-hammer-prosecutors.html "Woman tazed and pepper-sprayed sleeping man, killed him with a lamp and hammer: prosecutors")
+![](https://cwbchicago.com/wp-content/uploads/2024/06/Wilson-Barreno-Union-Station-326x245.jpg)](https://cwbchicago.com/2024/06/california-man-stabbed-woman-as-she-walked-her-dog-near-union-station-police-say.html "California man stabbed woman as she walked her dog near Union Station, police say")
+
+West Loop
+
+### [California man stabbed woman as she walked her dog near Union Station, police say](https://cwbchicago.com/2024/06/california-man-stabbed-woman-as-she-walked-her-dog-near-union-station-police-say.html "California man stabbed woman as she walked her dog near Union Station, police say")
+
+[June 6, 2024 7:53 PM](https://cwbchicago.com/2024/06)
+
+A California man is charged with attempted murder, accused of attacking a 71-year-old woman with a knife outside Union Station on Wednesday afternoon.[](https://cwbchicago.com/2024/06/california-man-stabbed-woman-as-she-walked-her-dog-near-union-station-police-say.html "California man stabbed woman as she walked her dog near Union Station, police say")
+
+[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20326%20245'%3E%3C/svg%3E)
+
+![](https://cwbchicago.com/wp-content/uploads/2024/06/Manuel-Macon-326x245.jpg)](https://cwbchicago.com/2024/06/woman-charged-with-stabbing-patron-at-uptown-club1.html "Woman charged with stabbing patron at Uptown club")
+
+Uptown
+
+### [Woman charged with stabbing patron at Uptown club](https://cwbchicago.com/2024/06/woman-charged-with-stabbing-patron-at-uptown-club1.html "Woman charged with stabbing patron at Uptown club")
+
+[June 6, 2024 5:22 PM](https://cwbchicago.com/2024/06)
+
+A Cook County judge has detained a woman after prosecutors accused her of stabbing and seriously injuring another woman at an Uptown bar.[](https://cwbchicago.com/2024/06/woman-charged-with-stabbing-patron-at-uptown-club1.html "Woman charged with stabbing patron at Uptown club")
+
+[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20326%20245'%3E%3C/svg%3E)
+
+![](https://cwbchicago.com/wp-content/uploads/2024/06/Jose-Manuel-Gil-La-Rosa-326x245.jpg)](https://cwbchicago.com/2024/06/migrant-busted-with-fake-id-at-midway-airport-security-checkpoint-report.html "Migrant busted with fake ID at Midway Airport security checkpoint: report")
 
 Citywide
 
-### [Woman tazed and pepper-sprayed sleeping man, killed him with a lamp and hammer: prosecutors](https://cwbchicago.com/2024/06/woman-tazed-and-pepper-sprayed-sprayed-sleeping-man-killed-him-with-a-lamp-and-hammer-prosecutors.html "Woman tazed and pepper-sprayed sleeping man, killed him with a lamp and hammer: prosecutors")
+### [Migrant busted with fake ID at Midway Airport security checkpoint: report](https://cwbchicago.com/2024/06/migrant-busted-with-fake-id-at-midway-airport-security-checkpoint-report.html "Migrant busted with fake ID at Midway Airport security checkpoint: report")
 
-[June 5, 2024 6:06 PM](https://cwbchicago.com/2024/06)
+[June 6, 2024 8:02 AM](https://cwbchicago.com/2024/06)
 
-A Chicago woman faces charges of first-degree murder and concealing a homicidal death for allegedly beating a man to death with a hammer and stashing his body in a kitchen cupboard.[](https://cwbchicago.com/2024/06/woman-tazed-and-pepper-sprayed-sprayed-sleeping-man-killed-him-with-a-lamp-and-hammer-prosecutors.html "Woman tazed and pepper-sprayed sleeping man, killed him with a lamp and hammer: prosecutors")
-
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20326%20245'%3E%3C/svg%3E)
-
-![](https://cwbchicago.com/wp-content/uploads/2024/06/Hopkins-skyline-326x245.jpg)](https://cwbchicago.com/2024/06/new-alderman-wants-unaccompanied-kids-out-of-downtown-by-8-p-m.html "New: Alderman wants unaccompanied kids out of downtown by 8 p.m.")
-
-Loop
-
-### [New: Alderman wants unaccompanied kids out of downtown by 8 p.m.](https://cwbchicago.com/2024/06/new-alderman-wants-unaccompanied-kids-out-of-downtown-by-8-p-m.html "New: Alderman wants unaccompanied kids out of downtown by 8 p.m.")
-
-[June 5, 2024 3:32 PM](https://cwbchicago.com/2024/06)
-
-The alderman whose ward includes nearly all of Streeterville wants to expand the city’s curfew law to ban unaccompanied minors from being in the downtown area after 8 p.m.[](https://cwbchicago.com/2024/06/new-alderman-wants-unaccompanied-kids-out-of-downtown-by-8-p-m.html "New: Alderman wants unaccompanied kids out of downtown by 8 p.m.")
-
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20326%20245'%3E%3C/svg%3E)
-
-![](https://cwbchicago.com/wp-content/uploads/2024/05/JH277134-and-JH276310-suspects-326x245.jpg)](https://cwbchicago.com/2024/06/11-year-old-boy-robbed-62-year-old-aboard-a-cta-train-chicago-police-say-his-accomplice-was-14.html "11-year-old boy robbed 62-year-old aboard a CTA train, Chicago police say (His accomplice was 14)")
-
-CTA
-
-### [11-year-old boy robbed 62-year-old aboard a CTA train, Chicago police say (His accomplice was 14)](https://cwbchicago.com/2024/06/11-year-old-boy-robbed-62-year-old-aboard-a-cta-train-chicago-police-say-his-accomplice-was-14.html "11-year-old boy robbed 62-year-old aboard a CTA train, Chicago police say (His accomplice was 14)")
-
-[June 5, 2024 9:14 AM](https://cwbchicago.com/2024/06)
-
-Chicago police have charged an 11-year-old boy with robbing a man nearly six times his age on a CTA train. He worked with a 14-year-old girl to commit the crime, police said.[](https://cwbchicago.com/2024/06/11-year-old-boy-robbed-62-year-old-aboard-a-cta-train-chicago-police-say-his-accomplice-was-14.html "11-year-old boy robbed 62-year-old aboard a CTA train, Chicago police say (His accomplice was 14)")
+A Venezuelan migrant faces felony charges after he allegedly tried to pass through the Midway Airport security checkpoint with fake IDs.[](https://cwbchicago.com/2024/06/migrant-busted-with-fake-id-at-midway-airport-security-checkpoint-report.html "Migrant busted with fake ID at Midway Airport security checkpoint: report")
 
 Search
 
@@ -292,7 +292,7 @@ Email \*
 
 Message \*
 
-Email
+Name
 
 Submit
 
