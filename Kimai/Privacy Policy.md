@@ -6,7 +6,10 @@
 * [Plugins](https://www.kimai.org/store/)
 * [News](https://www.kimai.org/blog/)
 * [Documentation](#)
-    [User manual](https://www.kimai.org/documentation/chapter-manual.html) [Cloud](https://www.kimai.org/documentation/cloud.html) [On-Premise](https://www.kimai.org/documentation/chapter-on-premise.html) [Developer](https://www.kimai.org/documentation/developers.html)
+    * [User manual](https://www.kimai.org/documentation/chapter-manual.html)
+    * [Cloud](https://www.kimai.org/documentation/cloud.html)
+    * [On-Premise](https://www.kimai.org/documentation/chapter-on-premise.html)
+    * [Developer](https://www.kimai.org/documentation/developers.html)
 
 [Login](https://www.kimai.cloud/auth/) [Start for free](https://www.kimai.cloud/auth/registration)
 
@@ -175,7 +178,7 @@ Kimai
 
 * * *
 
-Time-tracking made easy
+#1 Open-Source Time-Tracking
 
 Free and easy to use time tracking for freelancers, agencies and companies. Kimai is open source software available for self-hosting and as SaaS.
 
@@ -185,12 +188,13 @@ English
 
  Light Dark
 
-###### Kimai [Kimai](#tools)
+###### Company [Company](#tools)
 
 * [About Kimai](https://www.kimai.org/en/about.html)
 * [Installation](https://www.kimai.org/en/download.html)
 * [Features](https://www.kimai.org/en/features.html)
 * [Support](https://www.kimai.org/en/support.html)
+* [Reviews](https://www.kimai.org/en/reviews)
 * [Discount codes](https://www.kimai.org/en/kimai-discount-codes)
 
 ###### Kimai for [Kimai for](#landing-kimai-for)
