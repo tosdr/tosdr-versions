@@ -41,20 +41,32 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![Beach nails](https://www.women.com/img/gallery/5-beachy-nail-designs-for-the-perfect-summer-2024-mani/intro-1717188794.jpg)](https://www.women.com/1594898/beachy-nail-designs-summer-2024/)
+*  [![lesbians embracing in bed](https://www.women.com/img/gallery/6-of-the-steamiest-lgbtq-sex-scenes-of-the-last-decade/intro-1717178361.jpg)](https://www.women.com/1593529/steamiest-lgbtq-sex-scenes-film/)
     
-    [Beauty](https://www.women.com/category/beauty/)
+    [Politics](https://www.women.com/category/politics/)
     
-    [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
+    [Politics](https://www.women.com/category/politics/) By Amanda Chatel
     
-    [5 Beachy Nail Designs For The Perfect Summer 2024 Mani](https://www.women.com/1594898/beachy-nail-designs-summer-2024/)
-    ========================================================================================================================
+    [6 Of The Steamiest LGBTQ+ Sex Scenes Of The Last Decade](https://www.women.com/1593529/steamiest-lgbtq-sex-scenes-film/)
+    =========================================================================================================================
     
-    Looking for the perfect vacation nails? Embrace the relaxing vibes of the summer with these beachy manicure ideas.
+    Since 2014, LGBTQ+ sex scenes in movies have seriously stepped up their game. We compiled a list of the best ones to watch this Pride month and beyond.
     
-    By Emily Hutchinson [Read More](https://www.women.com/1594898/beachy-nail-designs-summer-2024/)
+    By Amanda Chatel [Read More](https://www.women.com/1593529/steamiest-lgbtq-sex-scenes-film/)
     
-* *  [![age-gap couple](https://www.women.com/img/gallery/is-your-age-gap-affecting-your-sex-life-we-asked-an-expert-how-to-deal/intro-1717419959.jpg)](https://www.women.com/1594459/age-gap-affecting-sex-life/)
+* *  [![Beach nails](https://www.women.com/img/gallery/5-beachy-nail-designs-for-the-perfect-summer-2024-mani/intro-1717188794.jpg)](https://www.women.com/1594898/beachy-nail-designs-summer-2024/)
+        
+        [Beauty](https://www.women.com/category/beauty/)
+        
+        [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
+        
+        ### [5 Beachy Nail Designs For The Perfect Summer 2024 Mani](https://www.women.com/1594898/beachy-nail-designs-summer-2024/)
+        
+        Looking for the perfect vacation nails? Embrace the relaxing vibes of the summer with these beachy manicure ideas.
+        
+        By Emily Hutchinson [Read More](https://www.women.com/1594898/beachy-nail-designs-summer-2024/)
+        
+    *  [![age-gap couple](https://www.women.com/img/gallery/is-your-age-gap-affecting-your-sex-life-we-asked-an-expert-how-to-deal/intro-1717419959.jpg)](https://www.women.com/1594459/age-gap-affecting-sex-life/)
         
         [Exclusives](https://www.women.com/category/exclusives/)
         
@@ -66,22 +78,22 @@
         
         By Amanda Chatel [Read More](https://www.women.com/1594459/age-gap-affecting-sex-life/)
         
-    *  [![lady gaga](https://www.women.com/img/gallery/taylor-swifts-sharp-defense-of-lady-gaga-amid-pregnancy-rumors-has-everyone-saying-the-same-thing/intro-1717689518.jpg)](https://www.women.com/1597289/taylor-swift-defense-lady-gaga-pregnancy-rumors-everyone-saying-same-thing/)
-        
-        [Wellness](https://www.women.com/category/wellness/)
-        
-        [Wellness](https://www.women.com/category/wellness/) By Amanda Chatel
-        
-        ### [Taylor Swift's Sharp Defense Of Lady Gaga Amid Pregnancy Rumors Has Everyone Saying The Same Thing](https://www.women.com/1597289/taylor-swift-defense-lady-gaga-pregnancy-rumors-everyone-saying-same-thing/)
-        
-        Taylor Swift's takedown of Lady Gaga's body shamers reminds us of how much work we still need to do by way of promoting body neutrality.
-        
-        By Amanda Chatel [Read More](https://www.women.com/1597289/taylor-swift-defense-lady-gaga-pregnancy-rumors-everyone-saying-same-thing/)
-        
 
 More Stories
 ------------
 
+*  [![Beach nails](https://www.women.com/img/gallery/5-beachy-nail-designs-for-the-perfect-summer-2024-mani/intro-1717188794.jpg)](https://www.women.com/1594898/beachy-nail-designs-summer-2024/)
+    
+    [Beauty](https://www.women.com/category/beauty/)
+    
+    [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
+    
+    ### [5 Beachy Nail Designs For The Perfect Summer 2024 Mani](https://www.women.com/1594898/beachy-nail-designs-summer-2024/)
+    
+    Looking for the perfect vacation nails? Embrace the relaxing vibes of the summer with these beachy manicure ideas.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1594898/beachy-nail-designs-summer-2024/)
+    
 *  [![age-gap couple](https://www.women.com/img/gallery/is-your-age-gap-affecting-your-sex-life-we-asked-an-expert-how-to-deal/intro-1717419959.jpg)](https://www.women.com/1594459/age-gap-affecting-sex-life/)
     
     [Exclusives](https://www.women.com/category/exclusives/)
@@ -93,6 +105,18 @@ More Stories
     Couples with a big age gap can face unique challenges, including in the bedroom. A certified sex therapist told Women how age differences can impact sex life.
     
     By Amanda Chatel [Read More](https://www.women.com/1594459/age-gap-affecting-sex-life/)
+    
+*  [![taylor swift](https://www.women.com/img/gallery/outdated-trends-taylor-swift-has-been-caught-wearing/intro-1713895942.jpg)](https://www.women.com/1577703/outdated-trends-taylor-swift-caught-wearing/)
+    
+    [Fashion](https://www.women.com/category/fashion/)
+    
+    [Fashion](https://www.women.com/category/fashion/) By Amanda Chatel
+    
+    ### [Outdated Trends Taylor Swift Has Been Caught Wearing](https://www.women.com/1577703/outdated-trends-taylor-swift-caught-wearing/)
+    
+    Taylor Swift has a reputation for keeping her looks pretty current, but on occasion, she's been known to stick with a trend longer than she should.
+    
+    By Amanda Chatel [Read More](https://www.women.com/1577703/outdated-trends-taylor-swift-caught-wearing/)
     
 *  [![lady gaga](https://www.women.com/img/gallery/taylor-swifts-sharp-defense-of-lady-gaga-amid-pregnancy-rumors-has-everyone-saying-the-same-thing/intro-1717689518.jpg)](https://www.women.com/1597289/taylor-swift-defense-lady-gaga-pregnancy-rumors-everyone-saying-same-thing/)
     
@@ -405,30 +429,6 @@ More Stories
     It turns out foregoing a daily shower routine can have a serious impact on your skin, hair, and overall health. Here's what to know.
     
     By Kate St. Louis [Read More](https://www.women.com/1522491/what-would-happen-stopped-showering/)
-    
-*  [![Black aura nails](https://www.women.com/img/gallery/black-aura-nails-are-summer-2024s-most-surprising-manicure-trend/intro-1715374792.jpg)](https://www.women.com/1580091/black-aura-nails-summer-2024-manicure-trend/)
-    
-    [Beauty](https://www.women.com/category/beauty/)
-    
-    [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
-    
-    ### [Black Aura Nails Are The It Girl Manicure Of Summer 2024](https://www.women.com/1580091/black-aura-nails-summer-2024-manicure-trend/)
-    
-    Though summer's nail trends still include the likes of fun fruity designs and muted French manicures, you can also add black aura nails to that list.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1580091/black-aura-nails-summer-2024-manicure-trend/)
-    
-*  [![Woman reading a Kindle](https://www.women.com/img/gallery/the-kindle-hack-that-extends-your-ebook-library-loans-without-holding-up-the-wait-time/intro-1716307444.jpg)](https://www.women.com/1586466/kindle-hack-extends-ebook-library-loans-without-holding-up-wait-time/)
-    
-    [Living](https://www.women.com/category/living/)
-    
-    [Living](https://www.women.com/category/living/) By Emily Hutchinson
-    
-    ### [The Kindle Hack That Extends Your Ebook Library Loans Without Holding Up The Wait Time](https://www.women.com/1586466/kindle-hack-extends-ebook-library-loans-without-holding-up-wait-time/)
-    
-    Need a few extra days with your eBook rental? No problem. This easy Kindle trick extends your library loan. Best of all, it doesn't interrupt the waitlist.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1586466/kindle-hack-extends-ebook-library-loans-without-holding-up-wait-time/)
     
 
 Back
