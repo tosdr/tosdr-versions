@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Great and prompt service. I'm extremely happy.
+The proxies \[..\] have been stellar. I am using these to cross reference some of our internal hosts for VPS testing.
 
-Dan Rosendorf
+Jason Thatcher
