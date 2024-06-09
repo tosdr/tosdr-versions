@@ -42,7 +42,7 @@
 
 [Press](https://hello.vrchat.com/press)
 
-[VRChat Plus](https://hello.vrchat.com/vrchatplus)
+[VRChat+](https://hello.vrchat.com/vrchatplus)
 
 [](https://www.twitch.tv/vrchat)[](https://www.facebook.com/groups/vrchat)[](https://twitter.com/VRChat)[](https://www.youtube.com/VRChat)
 
@@ -90,7 +90,7 @@ Open Menu Close Menu
 
 [Press](https://hello.vrchat.com/press)
 
-[VRChat Plus](https://hello.vrchat.com/vrchatplus)
+[VRChat+](https://hello.vrchat.com/vrchatplus)
 
 [](https://www.twitch.tv/vrchat)[](https://www.facebook.com/groups/vrchat)[](https://twitter.com/VRChat)[](https://www.youtube.com/VRChat)
 
@@ -140,7 +140,7 @@ Open Menu Close Menu
 
 [Press](https://hello.vrchat.com/press)
 
-[VRChat Plus](https://hello.vrchat.com/vrchatplus)
+[VRChat+](https://hello.vrchat.com/vrchatplus)
 
 [](https://www.twitch.tv/vrchat)
 
