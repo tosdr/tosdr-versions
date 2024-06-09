@@ -386,6 +386,14 @@ More club offers
 
 [Join Now](https://www.yourbabyclub.com/offer/detail/join-enfamil-now-for-up-to-400-in-free-gifts-126)
 
+![Get 16 free meals + free shipping with America's #1 meal kit ](https://cdn.verticalize.ai/2c716bae-d09c-4c75-91ed-1b4e64857402/54951440-6763-4750-bc0c-1f1775447ca5-1-small.jpeg)
+
+##### Get 16 free meals + free shipping with America's #1 meal kit
+
+[Read more](https://www.yourbabyclub.com/offer/detail/get-16-free-meals-free-shipping-with-america-s-1-meal-kit-18)
+
+[Get Yours Free](https://www.yourbabyclub.com/offer/detail/get-16-free-meals-free-shipping-with-america-s-1-meal-kit-18)
+
 ![FREE $150 Of Coupons Including Pampers, Bounty, Luvs & More!](https://cdn.verticalize.ai/2c716bae-d09c-4c75-91ed-1b4e64857402/6c98bc0c-04a4-4c30-873c-245f4c2badf5-1-small.jpeg)
 
 ##### FREE $150 Of Coupons Including Pampers, Bounty, Luvs & More!
@@ -418,14 +426,6 @@ More club offers
 
 [Claim Now](https://www.yourbabyclub.com/offer/detail/claim-a-750-zara-fashion-gift-card-926)
 
-![Claim a $750 Shein Kids Gift Card](https://cdn.verticalize.ai/2c716bae-d09c-4c75-91ed-1b4e64857402/1d5a57e4-73f6-44d0-ab14-23befee41c06-1-small.jpeg)
-
-##### Claim a $750 Shein Kids Gift Card
-
-[Read more](https://www.yourbabyclub.com/offer/detail/claim-a-750-shein-kids-gift-card-204)
-
-[Claim Now](https://www.yourbabyclub.com/offer/detail/claim-a-750-shein-kids-gift-card-204)
-
 ![Join Enfamil now for up to $400 in FREE gifts](https://cdn.verticalize.ai/2c716bae-d09c-4c75-91ed-1b4e64857402/1f97275a-c932-4bc3-8a28-243faef61e9a-1-small.jpeg)
 
 ##### Join Enfamil now for up to $400 in FREE gifts
@@ -435,6 +435,16 @@ Join Enfamil Family Beginnings® and get up to $400 in FREE gifts including coup
 [Read more](https://www.yourbabyclub.com/offer/detail/join-enfamil-now-for-up-to-400-in-free-gifts-126)
 
 [Join Now](https://www.yourbabyclub.com/offer/detail/join-enfamil-now-for-up-to-400-in-free-gifts-126)
+
+![Get 16 free meals + free shipping with America's #1 meal kit ](https://cdn.verticalize.ai/2c716bae-d09c-4c75-91ed-1b4e64857402/54951440-6763-4750-bc0c-1f1775447ca5-1-small.jpeg)
+
+##### Get 16 free meals + free shipping with America's #1 meal kit
+
+With over 50+ weekly menu items and market items, it's time to break up with takeout. Try it now and get 16 FREE MEALS + free shipping on your first box! Offer is for new subscriptions only across 9 boxes and varies by plan.
+
+[Read more](https://www.yourbabyclub.com/offer/detail/get-16-free-meals-free-shipping-with-america-s-1-meal-kit-18)
+
+[Get Yours Free](https://www.yourbabyclub.com/offer/detail/get-16-free-meals-free-shipping-with-america-s-1-meal-kit-18)
 
 ![FREE $150 Of Coupons Including Pampers, Bounty, Luvs & More!](https://cdn.verticalize.ai/2c716bae-d09c-4c75-91ed-1b4e64857402/6c98bc0c-04a4-4c30-873c-245f4c2badf5-1-small.jpeg)
 
@@ -475,16 +485,6 @@ Join now & claim\* your $750 Zara gift card. All you need to do is register your
 [Read more](https://www.yourbabyclub.com/offer/detail/claim-a-750-zara-fashion-gift-card-926)
 
 [Claim Now](https://www.yourbabyclub.com/offer/detail/claim-a-750-zara-fashion-gift-card-926)
-
-![Claim a $750 Shein Kids Gift Card](https://cdn.verticalize.ai/2c716bae-d09c-4c75-91ed-1b4e64857402/1d5a57e4-73f6-44d0-ab14-23befee41c06-1-small.jpeg)
-
-##### Claim a $750 Shein Kids Gift Card
-
-Join now & claim\* your $750 Shein Kids gift card. All you need to do is register your details and follow the instructions to get your voucher reward.\* Paid participation is required.
-
-[Read more](https://www.yourbabyclub.com/offer/detail/claim-a-750-shein-kids-gift-card-204)
-
-[Claim Now](https://www.yourbabyclub.com/offer/detail/claim-a-750-shein-kids-gift-card-204)
 
 [![Site Logo](/resource/images/sitelogofooter)](https://www.yourbabyclub.com/)
 
