@@ -185,9 +185,9 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 ###### LATEST VIDEO
 
 * [**full episode, 6/7/24** | Washington Week with The Atlantic](https://video.nhpbs.org/video/washington-week-with-the-atlantic-full-episode-6724-viydbr?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**As temperatures rise, more schools struggle to beat the heat** | PBS NewsHour](https://video.nhpbs.org/video/extreme-heat-1717879081?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Exploding soda cans with electromagnets in SLOW MOTION ft Joe Hanson** | Physics Girl](https://video.nhpbs.org/video/exploding-soda-cans-with-electromagnets-in-slow-motion-ft-joe-hanson-5nl5hb?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Proud to Be Preview** | Stories from the Stage](https://video.nhpbs.org/video/stories-from-the-stage-proud-to-be-preview?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**June 7, 2024 - full episode** | PBS NewsHour](https://video.nhpbs.org/video/june-7-2024-pbs-newshour-full-episode-1717732801?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**State House Update - 6/5/24** | The State We're In](https://video.nhpbs.org/video/state-house-update-6524-m0hnp1?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**June 7, 2024** | Amanpour and Company](https://video.nhpbs.org/video/june-7-2024-xyxcnj?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**forum: Examining The Electoral College** | Firing Line](https://video.nhpbs.org/video/firing-line-forum-examining-the-electoral-college-q4hcxo?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
