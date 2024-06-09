@@ -1,16 +1,20 @@
 ![](https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=xcOFp1IWh910Y8)                       Drawabox | Terms of Service
 
+[![](https://d15v304a6xpq4b.cloudfront.net/assets/images/nma/nma_logo_sponsor.png)](https://drawabox.com/nma)
+
+[![](https://d15v304a6xpq4b.cloudfront.net/assets/images/nma/nma_offer_banner.png)](https://drawabox.com/nma)
+
 [](javascript:ShowNextAnnouncement(false,'previous'))
 
-![](https://d15v304a6xpq4b.cloudfront.net/lesson_images/e5d09205.png)
+[![](https://d15v304a6xpq4b.cloudfront.net/assets/images/nma/nma_logo_sponsor.png)](https://drawabox.com/nma)
 
-![](https://d15v304a6xpq4b.cloudfront.net/lesson_images/6fa67195.png)
+[![](https://d15v304a6xpq4b.cloudfront.net/assets/images/nma/nma_details.png)](https://drawabox.com/nma)
 
-![](https://d15v304a6xpq4b.cloudfront.net/lesson_images/6fdb68f0.png)
+![](https://d15v304a6xpq4b.cloudfront.net/assets/images/nma/nma_details_continued.png)
 
-[Check Out NMA](https://nma.art/learn)    [Learn More About our Partnership](https://drawabox.com/announcement/VKZ8KDVZ)
+![](https://d15v304a6xpq4b.cloudfront.net/assets/images/nma/nma_offer.png)
 
-[Close and Enjoy Drawabox Ad-free](javascript:CloseAnnouncement('VKZ8KDVZ'))
+[Check Out NMA](https://drawabox.com/nma)    [About our Partnership](https://drawabox.com/announcement/NMA)    [Collapse this Ad](javascript:CloseAnnouncement('NMA'))
 
 [](javascript:ShowNextAnnouncement(false,'previous'))[](javascript:CloseAnnouncement())[](javascript:ShowNextAnnouncement(false,'next'))
 
