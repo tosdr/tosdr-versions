@@ -1,221 +1,196 @@
-Terms of Service
-----------------
+Terms of Use
+============
 
-Last Update: \[21-03-2024\]
+This Terms of Use govern your use of the website, Materials, Your Content and the services offered through www.cricbuzz.com ("Site"). For the purpose of these Terms of Use, wherever the context so require "you" or "your" or "user" shall mean any natural or legal person who has agreed to become a member of the Site by registering on the Site as registered user or browses the Site. Your access or use of the Site is subject to the terms and conditions of use as set out here (Terms of Use) and the Privacy Policy made available at [www.cricbuzz.com/info/privacy](https://www.cricbuzz.com/info/privacy)
 
-You can see our previous Terms of Service [here](https://cricbuzz.com/info/termsofuse-old).
+Please note that by accessing or using the Site you agree to be bound by the Terms of Use and the Terms of Use is a legally binding agreement between you and us TIMES INTERNET LTD, the owner of the Site ("Company").
 
-These Terms of Service constitute a legally binding agreement between you and Cricbuzz (together with its affiliates, **"Cricbuzz", "we", "our", or "us"**) governing your use of our products, services, mobile application (the "**App**"), and website www.cricbuzz.com (the "**Site**") and collectively with the foregoing (the "**Services**").
+### USER REGISTRATION
 
-**PLEASE NOTE: THIS AGREEMENT GOVERNS HOW DISPUTES BETWEEN YOU AND CRICBUZZ CAN BE RESOLVED. IT CONTAINS A BINDING AND FINAL ARBITRATION PROVISION AND CLASS ACTION WAIVER (SECTION 14). PLEASE READ CAREFULLY AS IT AFFECTS YOUR LEGAL RIGHTS, INCLUDING, IF APPLICABLE, YOUR RIGHT TO OPT OUT OF ARBITRATION.**
+You may use the Site without registration however, to participate in certain activities of the Site you may be required to create an account or you can login through your Facebook account or any other third party service account permitted by the Site. In the event you wish to create an account with us you may do so by completing the registration process. You agree to a) provide true, accurate, correct and complete information as prompted by the applicable registration form b) maintain and update true, accurate, correct and complete information provided by you during the registration process. You may be required to choose a password and user name. You are solely responsible for maintaining the confidentiality of your password and account.
 
-The Site is maintained and operated by TIMES INTERNET LTD. together with its agents who assist in operating the Site.
+If at any time Company believes that your account and password is being misused in any manner, or that the information provided by you during the registration process is not true, inaccurate or incomplete the Company reserves the right to cancel your account and block your access to Site.
 
-BY USING THE SERVICES OR BY CLICKING “I AGREE” (OR A SIMILAR BUTTON OR CHECKBOX, IF ONE EXISTS), WHICHEVER IS EARLIER, YOU ACCEPT AND AGREE TO BE BOUND AND ABIDE BY THESE TERMS OF SERVICE AND OUR PRIVACY POLICY, which describes our privacy practices in detail and is incorporated herein by reference and together form and are hereinafter referred to as this “Agreement.” Any personal data you submit to us or which we collect is governed by our Privacy Policy. IF YOU DO NOT AGREE TO THIS AGREEMENT, THEN YOU HAVE NO RIGHT TO ACCESS OR USE THE SERVICES. If you accept or agree to this Agreement on behalf of your employer or another legal entity, you represent and warrant that (i) you have full legal authority to bind your employer or such entity to these Terms of Service; (ii) you have read and understand these Terms of Service; and (iii) you agree to these Terms of Service on behalf of the party that you represent. In such event, “you” and “your” will refer and apply to your employer or such other legal entity.
+You are entirely responsible for any and all activities that occur under your account. You agree to notify the Company of any unauthorised use of your account or any breach of security. Company will not be liable for any loss that you may incur as a result of someone else using your password or account or your failure to comply with this section.
 
-1. #### Our Services
-    
-    We offer “Premium Subscription” and our Services through our Site and our App. The Premium Subscription allows you to watch exclusive coverage of Live Cricket, Highlights and/or Replays.
-    
-    To access our Services, you must have an account, and you must have an active subscription plan with a valid payment method through the third party payment processing system (“PSP”), such as your iTunes account, as indicated on the Services.
-    
-2. #### Account, Password, Security, and Mobile Phone Use
-    
-    You must register with Cricbuzz and create an account to use the Services (an “Account”) and as part of that process you will be requested to provide certain information, including without limitation your name, full address, phone number and email address.
-    
-    By using the Services, you agree to provide true, accurate, current and complete information as prompted by the registration process and to maintain and promptly update the Account information to keep it accurate, current and complete. You are the sole authorized user of your Account, and you agree not to share your password, account information or access to the Services with any other person. Each user is required to have a separate username and password. You are responsible for maintaining the confidentiality of any log-in, password, and Account number provided by you or given to you by us for accessing the Services. You are solely and fully responsible for all activities that occur under your password or Account, even if not authorized by you. Cricbuzz has no control over the use of any user's Account and expressly disclaims any liability derived therefrom. Should you suspect that any unauthorized party may be using your password or Account or you suspect any other breach of security, you agree to contact us immediately.
-    
-    The person signing up for the Services will be the contracting party (“Account Owner”) for the purposes of these Terms of Service and will be the person who is authorized to use any corresponding Account we provide to the Account Owner in connection with the Services; provided, however, that if you are signing up for the Services on behalf of your employer, your employer shall be the Account Owner. As the Account Owner, you are solely responsible for complying with these Terms of Service and only you are entitled to all benefits accruing thereto. Your Account is not transferable to any other person or account. You must immediately notify us of any unauthorized use of your password or identification or any other breach or threatened breach of our security or the security of your Account.
-    
-3. #### Billing, Payment & Ongoing Subscription
-    
-    Payment and any other expenses must be paid through the PSP. You may be required to register with the PSP, agree to terms of service of the PSP, provide your payment details to the PSP and go through a vetting process at the request of the PSP to set up an account with the PSP (the “PSP Services Agreement”). By accepting these Terms of Service, you agree that you have reviewed and agreed to, the applicable PSP Services Agreement. Please note that we are not a party to the PSP Services Agreement and that you, the PSP and any other parties listed in the PSP Services Agreement are the parties to the PSP Services Agreement and that we have no obligations, responsibility or liability to you, any user or any other party under the PSP Services Agreement.
-    
-    All prices and fees displayed on the Services are exclusive of applicable federal, provincial, state, local or other governmental sales, goods and services or other taxes, fees or charges now in force or enacted in the future (“Taxes”). Any applicable Taxes are based on the rates applicable to the billing address you provide to us, and will be calculated at the time of a transaction is charged to your Account.
-    
-    When purchasing your Premium Subscription to the Services, you may be presented with different plans. Cricbuzz currently offers monthly or yearly Premium Subscription plans.
-    
-    By signing up for a Premium Subscription and providing the PSP with a payment method, you agree to pay the PSP the Premium Subscription fee. The Premium Subscription fee will be billed at the time you establish your subscription and on an ongoing basis at the intervals specified when you completed your subscription purchase unless you cancel your subscription prior to your subscription renewal.
-    
-    After your original subscription ends, it will automatically renew at the then-current rates unless you cancel before the renewal. Renewal charges will be applied to the payment method associated with your Account. By providing a payment method to the PSP, you agree the PSP is authorized to charge the applicable Premium Subscription fee together with any applicable Taxes on a recurring basis until you duly cancel your Premium Subscription with us. If your payment method expires and you do not update your payment method or duly cancel your Premium Subscription before it automatically renews, you authorize the PSP to continue billing, and you will remain responsible for any uncollected amounts. If a valid payment method is not activated on your Account when a payment becomes due, we may restrict, suspend or cancel your Premium Subscription.
-    
-    For details about plans and pricing, please visit https://www.cricbuzz.com/subscribe.
-    
-    ALL PREMIUM SUBSCRIPTIONS (MONTHLY AND YEARLY) WILL REMAIN IN EFFECT UNTIL THEY ARE CANCELLED. YOU CAN CANCEL YOUR SUBSCRIPTION AT ANY TIME VIA THE SITE OR THE APP, OR BY WRITTEN NOTICE. YOU MUST CANCEL YOUR SUBSCRIPTION BEFORE IT RENEWS IN ORDER TO AVOID BEING CHARGED FOR THE NEXT CYCLE'S SUBSCRIPTION FEE. If you cancel your subscription, the cancellation will become effective at the end of the then-current Premium Subscription period, and you will continue to have access to your subscription until the end of that period.
-    
-    To cancel your Subscription and delete your Account you may either use the features on the Services to do so (if applicable and available) or send a written notice to support@cricbuzz.com stating the following:
-    
-    \[SUBSCRIPTION CANCELLATION REQUEST\]
-    
-    A confirmation email receipt will be sent to you with the expiration date of your subscription.
-    
-4. #### User Generated Content
-    
-    “User Generated Content” is defined as any content, information, and materials that may be textual, audio, or visual that you provide, submit, upload, publish, or make otherwise available to the Services and our users. You are solely responsible for User Generated Content, and we act merely as a passive conduit for your online distribution and publication of your User Generated Content. You acknowledge and agree that we:
-    
-    * Are not involved in the creation or development of User Generated Content.
-    * Disclaim any responsibility for User Generated Content.
-    * Cannot be liable for any claims arising out of or relating to User Generated Content.
-    * Are not obligated to monitor, review, or remove User Generated Content, but reserve the right to limit or remove User Generated Content on the Services at our sole discretion.
-    
-    You hereby represent and warrant to us that your User Generated Content (i) will not be false, inaccurate, incomplete or misleading; (ii) will not infringe on or misappropriate any third party's copyright, patent, trademark, trade secret or other intellectual property or proprietary right, or rights of publicity, personality or privacy; (iii) will not violate any law, statute, ordinance, or regulation (including without limitation those governing export control, consumer protection, unfair competition, anti-discrimination, false advertising, anti-spam or privacy); (iv) will not be defamatory, libelous, discriminatory, hate speech, unlawfully threatening, or unlawfully harassing; (v) will not be obscene or contain pornography (including but not limited to child pornography) or be harmful to minors; (vi) will not contain any viruses, Trojan Horses, worms, time bombs, spyware, adware, backdoors, cancelbots, malicious code or other computer programming routines that are intended to damage, detrimentally interfere with, surreptitiously intercept or expropriate any system, data or personal information, or allow unauthorized access to the Services, Site or App; (vii) will not represent you being employed or directly engaged by or affiliated with us or purport you to act as our representative or agent; and (viii) will not create liability for us or cause us to lose (in whole or in part) the services of our ISPs or other suppliers.
-    
-    By making available any User Generated Content through the Services, you hereby grant to us a worldwide, irrevocable, perpetual, non-exclusive, transferable, royalty-free license, with the right to sublicense, to use, access, view, copy, adapt, modify, export, distribute, license, sell, transfer, publicly display, publicly perform, publish, transmit, stream, broadcast and otherwise exploit such User Generated Content on, through or by means of the Services. We do not claim any ownership rights in any such User Generated Content and nothing in this Agreement will be deemed to restrict any rights that you may have to use and exploit your User Generated Content.
-    
-5. #### Representations and Warranties
-    
-    You represent and warrant that: (i) you are 18 years of age or older or are at least of the legally required age in the jurisdiction in which you reside, and are otherwise capable of entering into binding contracts, and (ii) you have the right, authority and capacity to enter into this Agreement and to abide by the terms and conditions of this Agreement, and that you will so abide. Where you enter into this Agreement on behalf of a company or other organization, you represent and warrant that you have authority to act on behalf of that entity and to bind that entity to this Agreement.
-    
-    You further represent and warrant that (i) you have read, understand, and agree to be bound by these Terms of Service and the Privacy Policy in order to access and use the Services, (ii) you will act professionally and responsibly in your interactions with other users, and (iii) when using or accessing the Services, you will act in accordance with any applicable local, state, or federal law, regulation or custom and in good faith.
-    
-    We cannot guarantee that your access to the Site, App or the Premium Subscription Services will be uninterrupted or error-free, but we will endeavor to correct reported problems, to the extent such problems are caused by Cricbuzz, as soon as we can reasonably do so. If a problem occurs, you should report the problem to support@cricbuzz.com. You further agree that the Site, App and the Premium Subscription Services are accessed via a telecommunications connection. You are solely responsible for obtaining all devices, equipment, software, internet and mobile network connectivity, and other services, needed for you to access and use the Services, Site and App, and you will be solely responsible for all charges related to them. We are not responsible, nor will we issue refunds to Subscription Charges, for disruption, unavailability, or failure in your telecommunications equipment or services. Cricbuzz is not responsible for the performance of devices you use to access the Services, and you agree to look solely to the entity that manufactured and/or sold or leased you the device or provided the services, for any issues related to it. Additionally, some aspects of the display of the content on the Site or App (e.g., resolution or speed) and other functions may vary from device to device and may be affected by factors such as the speed of your internet or mobile connection, the configuration of your device or your location. Cricbuzz makes no representations or warranties about the quality of your viewing experience on your device or display.
-    
-    You further agree that while we will take all reasonable steps necessary to ensure a high-quality video feed, we cannot control Internet network congestion that may occur and affect the quality of the delivered video. We are also not responsible for any suspension of service that may occur in the live video feed that is received from the television broadcaster.
-    
-    You further agree that we are under no liability whatsoever to you in the event of non-availability of any portion of the Site, App or Premium Subscription Services occasioned by Act of God, war, terrorism, disease, epidemic, pandemic, revolution, riot, insurrection, civil commotion, strike, lockout, flood, fire, earthquake, explosion, embargo, injunction, lack of public or private telecommunications networks, satellite failure, failure of any public utility, undertaking or any other cause whatsoever beyond our control.
-    
-    You further agree not to engage in any of the following prohibited activities, among others: (i) copying, distributing, or disclosing any part of the Services in any medium other than as allowed by the Services and these Terms of Service; (ii) using any automated system (other than any functionalities of the Services), including without limitation “robots,” “spiders,” “offline readers,” etc., to access the Services; (iii) transmitting spam, chain letters, or other unsolicited email or attempting to phish, pharm, pretext, spider, crawl, or scrape; (iv) attempting to interfere with, compromise the system integrity or security or decipher any transmissions to or from the servers running the Services; (v) violating any international, federal, provincial or state regulations, rules, laws, or local ordinances; (vi) conducting any unlawful purposes or soliciting others to perform or participate in any unlawful acts; (vii) uploading invalid data, viruses, worms, or other software agents through the Services; (viii) infringing upon or violate our intellectual property rights or the intellectual property rights of others; (ix) impersonating another person or otherwise misrepresenting your affiliation with a person or entity, conducting fraud, hiding or attempting to hide your identity; (x) harassing, insulting, harming, abusing, defaming, abusing, stalking, threatening, intimidating or otherwise violating the legal rights (such as of privacy and publicity) of any other users or visitors of the Services or our staff members; (xi) interfering with or any activity that threatens the performance, security or proper functioning of the Services; (xii) uploading or transmitting viruses or any other type of malicious code; (xiii) attempting to decipher, decompile, disassemble or reverse engineer any of the software or algorithms used to provide the Services; (xiv) bypassing the security features or measures we may use to prevent or restrict access to the Services, including without limitation features that prevent or restrict use or copying of any content or enforce limitations on use of the Services or the content therein; (xv) attempting to access unauthorized Accounts or to collect or track the personal information of others; (xvi) using the Services for any purpose or in any manner that infringes the rights of any third party; or (xvii) encouraging or enabling any other individual to do any of the foregoing.
-    
-    You hereby warrant and represent that, other than as fully and promptly disclosed to us as set forth below, you do not have any motivation, status, or interest which we may reasonably wish to know about in connection with the Services, including without limitation, if you are using or will or intend to use the Services for any journalistic, investigative, or unlawful purpose. You hereby warrant and represent that you will promptly disclose to us in writing any such motivation, status or interest, whether existing prior to registration or as arises during your use of the Services.
-    
-6. #### Mobile App Updates and Upgrades
-    
-    By installing the App, you consent to the installation of the App and any updates or upgrades that are released through the Services. The App (including any updates or upgrades) may (i) cause your device to automatically communicate with our servers to deliver the App functionality and to record usage metrics, (ii) affect App-related preferences or data stored on your device, and (iii) collect personal information as set out in our Privacy Policy, including location information. You can uninstall the App at any time.
-    
-7. #### Termination, Suspension and Refunds
-    
-    Either party may terminate these Terms of Service for any or no cause, at any time.
-    
-    If you decide to cancel before the term of your subscription is up, your account will not be prorated, discounted, or refunded.
-    
-    Depending on your subscription type (monthly or yearly) you will be charged at that recurring interval. All sales of Premium Subscription Services are final. Prices for the Premium Services may change at any time, and the Premium Subscription Services do not provide price protection or refunds in the event of a price reduction or promotional offering.
-    
-    If the Site, App or the Premium Subscription Services become unavailable following a transaction but prior to your downloading of any materials, data, text, images, video, or audio from the Site or App, your sole remedy is a refund. If technical problems prevent or unreasonably delay delivery of your product, your exclusive and sole remedy is either replacement or refund of the price paid, as determined by Cricbuzz.
-    
-    Note, after cancellation, you will no longer have access to your Account, your profile or any other information through the Services. The provisions of these Terms of Service which by their intent or meaning are intended to survive such termination, including without limitation the provisions relating to disclaimer of warranties, limitations of liability, and indemnification, shall survive any termination of these Terms of Service and any termination of your use of or subscription to the Services and shall continue to apply indefinitely.
-    
-    We reserve the right to refuse the Services to anyone for any reason at any time. We may terminate or limit your right to use the Services in the event that we are investigating or believe that you have breached any provision of this Agreement, by providing you with written or email notice. Such termination or limitation will be effective immediately upon delivery of such notice. If we terminate or limit your right to use the Services pursuant to this section, you are prohibited from registering and creating a new Account under your name, a fake or borrowed name, or the name of any third party, even if you may be acting on behalf of the third party.
-    
-    Even after your right to use the Services is terminated or limited, this Agreement will remain enforceable against you. We reserve the right to take appropriate legal action, including but not limited to pursuing arbitration in accordance with Section 13 of these Terms of Service.
-    
-    We reserve the right to modify or discontinue, temporarily or permanently, all or any portion of the Services at our sole discretion. We are not liable to you for any modification or discontinuance of all or any portion of the Services. We have the right to restrict anyone from completing registration as a user if We believe such person may threaten the safety and integrity of the Services, or if, in our discretion, such restriction is necessary to address any other reasonable business concern.
-    
-    Following the termination or cancellation of your Account (as defined below), we reserve the right to delete all your data, including any User Generated Content, in the normal course of operation. Your data cannot be recovered once your Account is terminated or cancelled.
-    
-    Termination, suspension or cancellation of your account to the Services will not affect any right or relief to which we may be entitled, at law or in equity. Upon termination, suspension or cancellation, all rights granted to you in these Terms of Service will automatically terminate and immediately revert to us. Following termination, suspension or cancellation, these Terms of Service will remain in full force and effect with respect to your past use of the Services, including all rights granted by you to us.
-    
-8. #### Links to Third-Party Websites
-    
-    The Services may contain links (such as hyperlinks) to third-party websites. Such links do not constitute endorsement by us or association with those websites, their content or their operators. Such links (including without limitation external websites that are framed by the Services as well as any advertisements displayed in connection therewith) are provided as an information service, for reference and convenience only. We do not control any such websites, and are not responsible for their (i) availability or accuracy, or (ii) content, advertising, products, or services. It is your responsibility to evaluate the content and usefulness of the information obtained from other websites. You acknowledge and agree that we are not involved in the creation or development of third-party websites and disclaim any responsibility for third-party websites, and cannot be liable for claims arising out of or relating to third-party websites. Further, you acknowledge and agree that we have no obligation to monitor, review, or remove links to third-party websites, but reserve the right to limit or remove links to third-party websites on the Services at our sole discretion.
-    
-    The use of any website controlled, owned or operated by third parties is governed by the terms and conditions of use and privacy policies for those websites. You access such third-party websites at your own risk. We expressly disclaim any liability arising in connection with your use and/or viewing of any websites or other material associated with links that may appear on the Services. You hereby agree to hold us harmless from any liability that may result from the use of links that may appear on the Services.
-    
-9. #### Intellectual Property Rights
-    
-    All text, graphics, editorial content, data, formatting, graphs, designs, HTML, look and feel, photographs, music, sounds, images, software, videos, designs, trademarks, logos, typefaces and other content (collectively “Proprietary Material”) that users see or read through the Services is owned by Cricbuzz, excluding User Generated Content, which users hereby grant us a license to use. Proprietary Material is protected in all forms, media and technologies now known or hereinafter developed. We own all Proprietary Material, as well as the coordination, selection, arrangement and enhancement of such Proprietary Materials as a Collective Work under the United States Copyright Act, as amended. The Proprietary Material is protected by the domestic and international laws governing copyright, patents, and other proprietary rights. You may not copy, download, use, redesign, reconfigure, or retransmit anything from the Services without our express prior written consent and, if applicable, the holder of the rights to the User Generated Content.
-    
-    Any use of such Proprietary Material, other than as permitted herein, is expressly prohibited without our prior written permission and, if applicable, the holder of the rights to the User Generated Content.
-    
-    Our service marks and trademarks, including without limitation Cricbuzz, are service marks owned by Cricbuzz. Any other trademarks, service marks, logos and/or trade names appearing via the Services are the property of their respective owners. You may not copy or use any of these marks, logos or trade names without the express prior written consent of the owner.
-    
-    Additionally, you may choose to or we may invite you to submit comments, ideas, or feedback about the Services, including without limitation about how to improve our services or our products (“Feedback”). By submitting any Feedback, you agree that your disclosure is gratuitous, unsolicited, and without restriction and will not place us under any fiduciary or other obligation, and that we are free to use the Feedback without any additional compensation to you, and/or to disclose the Feedback on a non-confidential basis or otherwise to anyone. You further acknowledge that, by acceptance of your submission, we do not waive any rights to use similar or related Feedback previously known to us, developed by our employees, or obtained from sources other than you. You acknowledge that all email and other correspondence that you submit to us shall become our sole and exclusive property.
-    
-    Subject to the terms and conditions hereof, you are hereby granted a limited, nonexclusive, nontransferable, non-sublicensable, freely revocable, license to access and use the Services. We may terminate this license at any time for any reason or no reason. The Services and all materials therein or transferred thereby, including, without limitation, software, data, images, text, graphics, illustrations, logos, slogans, patents, trademarks, service marks, reports generated by the Services, and copyrights (the “Cricbuzz Content”), and all Intellectual Property Rights (as defined below) related thereto, are our or our licensors' exclusive property. Except as explicitly provided herein, nothing in this Agreement shall be deemed to create a license in or under any such Intellectual Property Rights, and you agree not to sell, license, rent, modify, publicly distribute, publicly transmit, publicly display, publicly perform, publish, adapt, edit or create derivative works from any materials or content accessible on the Services. Use of the Cricbuzz Content or materials on the Services for any purpose not expressly permitted by this Agreement is strictly prohibited. For the purposes of this Agreement, “Intellectual Property Rights” means all intellectual property rights and proprietary rights, including patent rights, copyright rights, mask work rights, moral rights, rights of publicity, trademark, trade dress and service mark rights, trade names, logos, slogans, brand names, domain names, and business and product name rights, design rights, goodwill, know-hows, technology rights, trade secret rights and other intellectual property rights as may now exist or hereafter come into existence, and all applications therefore and registrations, renewals and extensions thereof, under the laws of any state, country, territory or other jurisdiction.
-    
-    Your use of the Services and the relating licenses granted hereunder are also conditioned upon your strict adherence to the letter and spirit of the various applicable guidelines and any end user licenses associated with your use of the Site and App. We may modify such guidelines in our sole discretion at any time. We reserve the right to terminate your Account and access to the Services if we determine that you have violated any such applicable guidelines.
-    
-10. #### Copyright Complaints and Copyright Agent
-    
-    Cricbuzz respects the intellectual property of others, and expects users to do the same.
-    
-    Pursuant to 17 U.S.C. Section 512 as amended by Title II of the Digital Millennium Copyright Act of 1998, we reserve the right, but not the obligation, to (i) remove any user's User Generated Content, and (ii) terminate the user's license to use Cricbuzz Services if we determine in our sole discretion that the User is involved in infringing activity, including alleged acts of first-time or repeat infringement, regardless of whether the material or activity is ultimately determined to be infringing.
-    
-    If you believe, in good faith, that any materials provided on or in connection with the Services are defamatory or infringe upon your copyright or other intellectual property right, please send a notice to us to request a review of the alleged infringement, including the following information to Cricbuzz's Copyright Agent at grievance@cricbuzz.com:
-    
-    * A description of the copyrighted work that you claim has been infringed, including the URL (Internet address) or other specific location on the Services where the material you claim is infringed is located. Include enough information to allow Cricbuzz to locate the material, and explain why you think an infringement has taken place;
-    * A description of the location where the original or an authorized copy of the copyrighted work exists -- for example, the URL (Internet address) where it is posted or the name of the book in which it has been published;
-    * For materials that are defamatory or infringe patent, trademark, or other proprietary rights of a third party, submit a list of such material(s), including the URL (Internet address) or other specific location on the Services where the material can be located. Include enough information to allow Cricbuzz to locate the material, and explain why you think defamation or an infringement has taken place;
-    * Your name, address, telephone number, and e-mail address;
-    * A statement by you that you have a good faith belief that the use of the material in the manner complained is not authorized by the copyright or proprietary owner, its agent, or the law; and
-    * A statement by you, made under penalty of perjury, that the information in your notice is accurate, and that you are the owner or authorized to act on the behalf of the owner of an exclusive right that is allegedly infringed or on behalf of the person defamed; and
-    * An electronic or physical signature of the owner or the person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed or the person allegedly defamed.
-11. #### Copyright Complaints and Copyright Agent
-    
-    TO THE FULLEST EXTENT PERMITTED BY LAW, THE SERVICES ARE PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS WITHOUT WARRANTIES, REPRESENTATIONS OR CONDITIONS OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, WARRANTIES OR CONDITIONS OF MERCHANTABILITY, SATISFACTORY QUALITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, LIABILITY FOR FAILURE OF PERFORMANCE, ERROR, OMISSION, INTERRUPTION, DELETION, DEFECT, DELAY IN OPERATION OR TRANSMISSION, NETWORK OR SYSTEM OUTAGE, OR COMMUNICATION FAILURE. CRICBUZZ MAKES NO WARRANTIES OR REPRESENTATIONS ABOUT THE ACCURACY, TIMELINESS, RELIABILITY, AVAILABILITY, QUALITY, COMPLETENESS OR OTHERWISE OF THE CONTENT PROVIDED THROUGH THE SERVICES OR THE CONTENT OF ANY SITES LINKED TO THE SERVICES AND ASSUMES NO LIABILITY OR RESPONSIBILITY IN CONTRACT, WARRANTY OR IN TORT FOR ANY (I) ERRORS, MISTAKES, OR INACCURACIES OF CONTENT, (II) PERSONAL INJURY OR PROPERTY DAMAGE, OF ANY NATURE WHATSOEVER, RESULTING FROM YOUR ACCESS TO AND USE OF THE SERVICES, (III) ANY ACCESS TO OR USE OF OUR SECURE SERVERS AND/OR ANY AND ALL PERSONAL INFORMATION AND/OR FINANCIAL INFORMATION STORED THEREIN; AND (IV) EVENTS BEYOND OUR REASONABLE CONTROL. CRICBUZZ DOES NOT WARRANT UNINTERRUPTED OR ERROR-FREE OPERATION OF THE SERVICES. IF APPLICABLE LAW DOES NOT ALLOW THE EXCLUSION OF SOME OR ALL OF THE ABOVE WARRANTIES TO APPLY TO YOU, THE ABOVE EXCLUSIONS WILL APPLY TO YOU ONLY TO THE EXTENT PERMITTED BY APPLICABLE LAW.
-    
-    UNDER NO CIRCUMSTANCES WILL WE AND OUR AFFILIATES OR CORPORATE PARTNERS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, ACTUAL, CONSEQUENTIAL, PUNITIVE, REPUTATIONAL, ECONOMIC, SPECIAL OR EXEMPLARY DAMAGES (INCLUDING BUT NOT LIMITED TO LOST PROFITS, ANTICIPATED PROFITS, BUSINESS OPPORTUNITY, LOSS OF BUSINESS, LOSS OF REVENUE, LOSS OF DATA, LOSS OF USE, LOSS OF GOODWILL, SERVICE INTERRUPTION, COMPUTER DAMAGE, SYSTEM FAILURE, FAILURE TO STORE ANY INFORMATION OR OTHER CONTENT MAINTAINED OR TRANSMITTED BY CRICBUZZ, OR THE COST OF SUBSTITUTE PRODUCTS OR SERVICES) ARISING IN CONNECTION WITH YOUR USE OF OR INABILITY TO USE THE SERVICES, REGARDLESS OF THE FORM OF ACTION, WHETHER IN CONTRACT, TORT, NEGLIGENCE OR OTHERWISE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE ABOVE LIMITATIONS MAY NOT APPLY TO YOU IN THEIR ENTIRETY.
-    
-    IF, NOTWITHSTANDING THE FOREGOING EXCLUSIONS, IT IS DETERMINED THAT WE AND OUR AFFILIATES OR CORPORATE PARTNERS ARE LIABLE FOR DAMAGES, IN NO EVENT WILL THE AGGREGATE LIABILITY, WHETHER ARISING IN CONTRACT, TORT, STRICT LIABILITY OR OTHERWISE, EXCEED THE LOWER OF (I) THE TOTAL FEES PAID BY YOU TO CRICBUZZ DURING THE SIX (6) MONTHS PRIOR TO THE TIME SUCH CLAIM AROSE OR (II) ONE HUNDRED DOLLARS ($100), TO THE EXTENT PERMITTED BY APPLICABLE LAW.
-    
-12. #### Indemnification
-    
-    You, at your own cost and expense, hereby agree to indemnify, defend, and hold harmless Cricbuzz and its officers, directors, employees, independent contractors, agents, attorneys, insurers, successors and assigns (the “Indemnified Parties”) from and against any and all third-party claims, disputes, controversy, obligations, causes of action, losses, damages, judgments, liabilities, costs and expenses (including reasonable attorneys’ fees and costs) (collectively, “Liabilities”) incurred in connection with or arising out of (i) your use or inability to use the Services, (ii) your breach or violation of this Agreement; (iii) your violation of any law, regulation or the rights of any user or third party; (iv) any content submitted by you or submitted using your Account to the Services, including, but not limited to, that actually or allegedly infringes or misappropriates the intellectual property rights of a third party, or otherwise is illegal or unlawful; or (v) your gross negligence, recklessness, willful misconduct or intentional or wrongful misconduct. You also agree to indemnify the Indemnified Parties for any Liabilities resulting from your use of software robots, spiders, crawlers, or similar data gathering and extraction tools, or any other action you take that imposes an unreasonable burden or loan on our infrastructure. Cricbuzz shall provide you with prompt notice of any Liabilities under this Section for which Cricbuzz seeks defense and indemnity, provided that Cricbuzz’s failure to provide or delay in providing such notice shall not dimmish your defense and indemnity obligations hereunder unless and only to the extent you are materially and adversely affected by such failure or delay to give such notice. Cricbuzz reserves the right, in its own sole discretion, to assume the exclusive defense and control at its own expense of any matter otherwise subject to your indemnification. You will not, in any event, settle any claim or matter that would be binding on Cricbuzz or involves making an admission of guilt or wrongdoing, without the prior written consent of Cricbuzz.
-    
-13. #### Dispute Resolution – Arbitration and Class Action Waiver
-    
-    **PLEASE READ THIS SECTION CAREFULLY — IT AFFECTS YOUR LEGAL RIGHTS AND GOVERNS HOW YOU AND CRICBUZZ CAN BRING CLAIMS AGAINST EACH OTHER. THIS SECTION WILL, WITH LIMITED EXCEPTION, REQUIRE YOU AND CRICBUZZ TO SUBMIT CLAIMS AGAINST EACH OTHER TO BINDING AND FINAL ARBITRATION ON AN INDIVIDUAL BASIS.**
-    
-    You agree that, in the event any complaint, dispute, claim, or controversy arising out of or relating to your use of or interaction with the Services, this Agreement, any data or information you provide to us or we gather in connection with such use or interaction, you will contact us at grievance@cricbuzz.com and you and Cricbuzz will attempt in good faith to negotiate a written resolution of the matter directly. You agree that if the matter remains unresolved for thirty (30) days after written notification , such matter will be deemed a “Dispute” as defined below. Except for the right to seek injunctive or other equitable relief described under the “Binding Arbitration” section below, should you file any arbitration claims, or any administrative or legal actions without first having attempted to resolve the matter by mediation, then you agree that you will not be entitled to recover attorneys' fees, even if you may have been entitled to them otherwise.
-    
-    **Binding Arbitration.**You and Cricbuzz agree that any complaint, dispute, claim or controversy arising out of or relating to this Agreement or to your use of the Services (collectively “Disputes”) will be settled by binding arbitration, except that each party retains the right to seek injunctive or other equitable relief in a court of competent jurisdiction to prevent the actual or threatened infringement, misappropriation, or violation of a party’s copyrights, trademarks, trade secrets, patents, or other intellectual property or proprietary rights. **This means that you and Cricbuzz both agree to waive the right to a trial by jury.**Notwithstanding the foregoing, you may bring a claim against Cricbuzz in “small claims” court, instead of by arbitration, but only if the claim is eligible under the rules of the small claims court and is brought on an individual, non-class, and non-representative basis, and only for so long as it remains in the small claims court and in an individual, non-class, and non-representative basis.
-    
-    **Class Action Waiver.**You and Cricbuzz agree that any proceedings to resolve Disputes will be conducted on an individual basis and not in a class, consolidated, or representative action. **This means that you and Cricbuzz both agree to waive the right to participate as a plaintiff class member in any class action proceeding. Further, unless you and Cricbuzz agree otherwise in writing, the arbitrator in any Dispute may not consolidate more than one person’s claims and may not preside over any form of class action proceeding.**
-    
-    **Arbitration Administration and Rules.**The arbitration will be administered by the American Arbitration Association (“AAA”) in accordance with the Commercial Arbitration Rules and the Supplementary Procedures for Consumer Related Disputes (the “AAA Rules”) then in effect, except as modified by this “Dispute Resolution’ section. (The AAA Rules are available at http://www.adr.org or by calling the AAA at 1-800-778-7879).
-    
-    **Arbitration Process.**A party who desires to initiate the arbitration must provide the other party with a written Demand for Arbitration as specified in the AAA Rules. The arbitrator will be either a retired judge or an attorney licensed to practice law in the State of California, and will be selected by the parties from the AAA’s roster of arbitrators with relevant experience. If the parties are unable to agree upon an arbitrator within seven (7) days of delivery of the Demand for Arbitration, then the AAA will appoint the arbitrator in accordance with the AAA Rules.
-    
-    **Arbitration Location and Procedure.**Unless you and Cricbuzz agree otherwise, the seat of the arbitration shall be in Northern California. If your claim does not exceed USD $10,000, then the arbitration will be conducted solely on the basis of documents you and Cricbuzz submit to the arbitrator, unless you request a hearing and the arbitrator then determines that a hearing is necessary. If your claim exceeds USD $10,000, your right to a hearing will be determined by AAA Rules. Subject to AAA Rules, the arbitrator will have the discretion to direct a reasonable exchange of information by the parties, consistent with the expedited nature of the arbitration. Hearings may be conducted by telephone or video conference, if requested and agreed to by the parties.
-    
-    **Arbitrator’s Decision and Governing Law.**The arbitrator shall apply California law consistent with the Federal Arbitration Act and applicable statutes of limitations, and shall honor claims of privilege recognized by law. The arbitrator will render an award within the timeframe specified in the AAA Rules. Judgment on the arbitration may be entered in any court having jurisdiction thereof. Any award of damages by an arbitrator must be consistent with the “Disclaimers and Limitations of Liability” section above. The arbitrator may award declaratory or injunctive relief in favor of the claimant only to the extent necessary to provide relief warranted by the claimant’s individual claim.
-    
-    **Fees.**Each party’s responsibility to pay the arbitration filing, administrative and arbitrator fees will depend on the circumstances of the arbitration and shall be set forth in the AAA Rules.
-    
-    **Limited Time to Notify and Bring Claim.**UNLESS PROHIBITED BY APPLICABLE LAW, YOU AGREE THAT REGARDLESS OF ANY STATUTE OR LAW THAT ESTABLISHES A DIFFERENT STATUTE OF LIMITATIONS, TO THE MAXIMUM EXTENT PERMITTED UNDER APPLICABLE LAW, ANY DISPUTES MUST BE REPORTED TO CRICBUZZ WITHIN ONE (1) YEAR AFTER SUCH CLAIM OR CAUSE OF ACTION AROSE OR BE FOREVER BARRED.
-    
-14. #### Governing Law
-    
-    Except as provided in Section 14 or expressly provided in writing otherwise, this Agreement and your use of the Services will be governed by, and will be construed under, the laws of the State of California, without regard to choice of law principles. This choice of law provision is only intended to specify the use of California law to interpret this Agreement.
-    
-15. #### No Agency; No Employment
-    
-    No agency, partnership, joint venture, employer-employee or franchiser-franchisee relationship is intended or created by this Agreement.
-    
-16. #### General Provisions
-    
-    Our failure to enforce any provision(s) of this Agreement will not be construed as a waiver of any provision or right. This Agreement constitutes the complete and exclusive agreement between you and Cricbuzz with respect to its subject matter, and supersedes and governs any and all prior agreements or communications. The provisions of this Agreement are intended to be interpreted in a manner which makes them valid, legal, and enforceable. Except for the “Class Action Waiver” in Section 13, in the event any provision is found to be partially or wholly invalid, illegal or unenforceable, (i) such provision shall be modified or restructured to the extent and in the manner necessary to render it valid, legal, and enforceable or, (ii) if such provision cannot be so modified or restructured, it shall be excised from the Agreement without affecting the validity, legality or enforceability of any of the remaining provisions. This Agreement may not be assigned or transferred by you without our prior written approval. We may assign or transfer this Agreement without your consent, including but not limited to assignments: (1) to a parent or subsidiary, (2) to an acquirer of assets, or (3) to any other successor or acquirer. Any assignment in violation of this section shall be null and void. This Agreement will inure to the benefit of Cricbuzz, its successors and assigns.
-    
-17. #### Changes to this Agreement and the Services
-    
-    We reserve the right, at our sole and absolute discretion, to change, modify, add to, supplement, suspend, discontinue, or delete any of the terms and conditions of this Agreement (including these Terms of Service and Privacy Policy) and review, improve, modify or discontinue, temporarily or permanently, the Services or any content or information through the Services at any time, effective immediately with or without prior notice and without any liability to Cricbuzz. Cricbuzz will endeavor to notify you of material changes by email, but will not be liable for any failure to do so. If any future changes to this Agreement are unacceptable to you or cause you to no longer be in compliance with this Agreement, you must terminate, and immediately stop using, the Services. Your continued access or use of the Services following any changes or revisions to this Agreement or Services will be deemed complete and irrevocable acceptance of this Agreement as modified. We encourage you to check Cricbuzz’s website and App regularly for any such changes. Cricbuzz may also impose limits on certain features or restrict your access to part or all of the Services without notice or liability.
-    
-18. #### No Rights of Third Parties
-    
-    None of the terms of this Agreement are enforceable by any persons who are not a party to this Agreement.
-    
-19. #### Severability
-    
-    Unless otherwise expressly provided herein, the invalidity or unenforceability of any provision of these Terms of Service will not affect the validity or enforceability of any other provision, all of which will remain in full force and effect.
-    
-20. #### Notices and Consent to Receive Notices Electronically
-    
-    You consent to receive any agreements, notices, disclosures and other communications (collectively, “Notices”) to which this Agreement refers electronically including without limitation by e-mail or by posting Notices on the App or this Site. You agree that all Notices that we provide to you electronically satisfy any legal requirement that such communications be in writing. Unless otherwise specified in this Agreement, all notices under this Agreement will be in writing and will be deemed to have been duly given when received, if personally delivered or sent by certified or registered mail, return receipt requested; when receipt is electronically confirmed, if transmitted by facsimile or email; or the day after it is sent, if sent for next day delivery by a recognized overnight delivery service.
-    
-21. #### Notice to California Consumers.
-    
-    Under California Civil Code Section 1789.3, California users of Cricbuzz Services are entitled to the following specific consumer rights notice: The Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs may be contacted in writing at 1625 North Market Boulevard, Suite N 112, Sacramento, California 95834, or by telephone at (916) 445-1254 or (800) 952-5210, or online at https://www.dca.ca.gov/webapps/gencomplaint.php.
-    
-22. #### Contacting Us
-    
-    If you have any questions about these Terms of Service or about the Services, please contact us by email at grievance@cricbuzz.com or by mail
-    
-    TIMES INTERNET LTD.  
-    Regd. Office: Express Building,  
-    9-10, Bahadurshah Zafar Marg,  
-    New Delhi, - 110002, INDIA
-    
-    Corp. Office: No. 190-B, 2nd Floor,  
-    HN Plaza,100 Ft Ring road,  
-    6th Main, BSK 3rd Stage,  
-    Bangalore - 560085, INDIA  
-    Phone : 080-26790623.
+By registering for an account with us you give us permission to send you mailers and/or sms and whatsapp messages on different promotions, deals or offers running on the platform and content published or upcoming including but not limited to articles and videos. From the said mailers and/or sms and whatsapp messages you can at any time unsubscribe and opt out of receiving such mails and/or sms and whatsapp messages after which you will not be sent such mailers and/or sms and whatsapp.
+
+### USE OF THE SITE
+
+All materials provided on this site, including but not limited to all information, materials, functions text, logos, designs, graphics, images, sounds, software, documents, products and services (collectively, the "Materials"), and the selection, arrangement and display thereof, are the copyrighted works of the Company/or its vendors or suppliers. All Materials herein and all Company software are proprietary to Company and protected by worldwide copyright and other intellectual property laws. Except as stated herein, none of the Materials may be modified, copied, reproduced, distributed, republished, downloaded, displayed, sold, compiled, posted or transmitted in any form or by any means, including but not limited to, electronic, mechanical, photocopying, recording or other means, without the prior express written permission of the Company.
+
+Company hereby grants you the right to access and use the Site only for your personal and non-commercial use. You may not use the Site for commercial purposes or in any way that is unlawful, or harms us or any other person or entity, as determined in our sole discretion.
+
+You may post/share links/images/text content on the site on social platforms like Facebook, Twitter, Google+, Pinterest, with appropriate link-back to the original source.
+
+When the Site provides for the download of particular Material including a software, you may download such Material or software to a computer or mobile device (as applicable) for your personal, non-commercial use only, provided that you (a) keep intact all copyright and other proprietary notices, (b) make no modifications to, and do not rent, lease, loan, sell, distribute, copy (except to create a single copy for your own back-up purposes), or create any derivative works based on the Site or the Material including the software, in whole or in part, and (c) transfer any Material or software or any part thereof to any other computer of mobile device. Any commercial or business use of the Site or any Material including the Software is expressly prohibited.
+
+Except as expressly provided above, nothing contained herein shall be construed as conferring, by implication, estoppel or otherwise, any license or right under any patent, trademark or copyright of the Company.
+
+You acknowledge and agree that nothing in these terms of use shall have the effect of transferring the ownership of any copyrights, trademarks, service marks, trade names or other proprietary rights in the Site or Material or any part thereof to you or any third party.
+
+### PROHIBITED USE
+
+As a condition of your use of the Site, you will not use the Site for any purpose that is unlawful or prohibited by these Terms of Use or by any domestic or international laws, statutes, ordinances and regulations. Your use of site is your sole responsibility.
+
+You shall not, display, upload, modify, publish, transmit, update or share any information on the Site, that -
+
+1. belongs to another person and to which the user does not have any right;
+
+2. is defamatory, obscene, pornographic, paedophilic, invasive of another’s privacy, including bodily privacy, insulting or harassing on the basis of gender, libellous, racially or ethnically objectionable, relating or encouraging money laundering or gambling, or otherwise inconsistent with or contrary to the laws in force;
+
+3. is harmful to child;
+
+4. infringes any patent, trademark, copyright or other proprietary rights;;
+
+5. violates any law for the time being in force;
+
+6. deceives or misleads the addressee about the origin of the message or knowingly and intentionally communicates any information which is patently false or misleading in nature but may reasonably be perceived as a fact;
+
+7. impersonates another person;
+
+8. threatens the unity, integrity, defence, security or sovereignty of India, friendly relations with foreign States, or public order, or causes incitement to the commission of any cognisable offence or prevents investigation of any offence or is insulting other nation;
+
+9. contains software virus or any other computer code, file or program designed to interrupt, destroy or limit the functionality of any computer resource;
+
+10. is patently false and untrue, and is written or published in any form, with the intent to mislead or harass a person, entity or agency for financial gain or to cause any injury to any person
+
+### USE OF PUBLIC FORUM
+
+Certain sections or pages of the Site contain a provision (like have your say or Cric chat) hereinafter referred to as ("Public Forum") for the users to post or upload comments, feedback, data, links, videos, audios, graphics, images, messages and other material ("User Content"). Through the Public Forum you can communicate with other users of the Site.
+
+You are entirely responsible for all the User Content that you upload, post, email, transmit or otherwise make available on the Public Forum. You understand that such User Content can be viewed by other users of the Site and therefore you shall exercise due care to ensure that such User Content does not offend or abuse other users of the Site. Company does not control the User Content posted on the Public Forum and, as such, does not guarantee the accuracy, integrity or quality of such User Content. You understand that by using the Site, you may be exposed to User Content that is offensive, indecent or objectionable. Under no circumstances will Company be liable in any way for any User Content, including, but not limited to, for any errors or omissions in any User Content, or for any loss or damage of any kind incurred as a result of the use of any User Content posted, emailed, transmitted or otherwise made available on the Site.
+
+When you post or upload Your Content on the Site, you grant Company (and its licensees, distributors, agents, representatives and other authorised users), the rights a perpetual, royalty-free, non-exclusive, and irrevocable right and license to reproduce, prepare derivative works based upon, distribute, perform or display such User Content, in whole or in part, in any form, media or technology known or hereafter developed.
+
+User Content posted by you shall be subject to relevant laws and may be disabled, or and may be subject to investigation under appropriate laws. You agree that the Company may disclose or preserve User Content if required to do so by law or in the good faith belief that such preservation or disclosure is reasonably necessary to: (a) comply with legal process; (b) respond to claims that any User Content violates the rights of third-parties; or (c) protect the rights, property, or personal safety of the Company and the public. Furthermore, if you are found to be in non-compliance with the laws and regulations, these Terms of Use, or the Privacy Policy of the Site, we may terminate your account/block your access to the Site and we reserve the right to remove any of User Content that is non-compliant with these Terms of Use.
+
+You agree that Company has no liability or responsibility for the storage or deletion of any User Content and reserves the right to change its general practices and limits at any time in its sole discretion, with or without notice.
+
+### COPYRIGHT AND TRADEMARKS
+
+Unless otherwise stated, copyright and all intellectual property rights in all Materials on the Site (including but not limited to text, audio, video or graphical images, or technology, the look and feel of the Site), trademarks and logos appearing on this Site are the property of the Company and are owned and controlled by us or by other parties that have licensed their material to us. Materials on the Site are solely for your personal, non-commercial use. You must not copy, reproduce, republish, upload, post, transmit or distribute such material in any way, including by e-mail or other electronic means and whether directly or indirectly and you must not assist any other person to do so. Without the prior written consent of the owner, modification of the Materials, use of the Materials on any other web site or networked computer environment or use of the Materials for any purpose other than personal, non-commercial use is a violation of the copyrights, trademarks and other proprietary rights, and is prohibited. Any use for which you receive any remuneration, whether in money or otherwise, is a commercial use for the purposes of this clause. You agree not to use any framing techniques to enclose any trademark or logo or other proprietary information of Company or remove, conceal or obliterate any copyright or other proprietary notice or any credit-line or date-line on other mark or source identifier included on the Site, including without limitation, the size, colour, location or style of all proprietary marks. Any infringement shall be vigorously defended and pursued to the fullest extent permitted by law.
+
+We respect other people's intellectual property rights and if you believe that any content or material on the Site infringes on your intellectual property rights you can write to us at webmaster@cricbuzz.com.
+
+### DISCLAIMER
+
+The Site, all the Materials and products (including but not limited to software) and any services, included on or otherwise made available to you through this Site are gathered from a variety of sources and are intended solely as general information and provided on "as is" and "as available" basis without any representation or warranties, express or implied except otherwise specified in writing. They do not constitute advice and should not be relied upon in making (or refraining from making) any decision. Any specific advice or replies to queries in any part of the Site is/are the personal opinion of such experts/consultants/persons and does not constitute or indicate our endorsement, representation or warranty of such information and are not subscribed to by this Site. Without prejudice to the forgoing paragraph, Company does not warrant that:
+
+* The Site will be constantly available, or available at all; or
+
+* The information on the Site is complete, legal, true, accurate or non-misleading.
+
+### LINKS
+
+Company may establish on the Site a hypertext link to a third party website from time to time. Such link is provided for information and convenience of the users and does not state or imply any sponsorship or endorsement of third party website by Company. Company has no control over such third party website and your use of such third party website or any offsite dealings with such third parties is at your own risk.
+
+### USE OF GOOGLE ANALYTICS
+
+The Site uses Google Analytics, a web analytics service provided by Google, Inc. ("Google"). Google Analytics uses "cookies", which are text files placed on your computer, to help the website analyse how users use the site. The information generated by the cookie about your use of the Site (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the Site, compiling reports on website activity for website operators and providing other services relating to website activity and Internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
+
+### ADVERTISING MATERIAL
+
+Some part of the Site may contain advertising information or promotion material or other material submitted to Company by third parties. Responsibility for ensuring that the material submitted for inclusion on Site complies with applicable law is exclusively on the party providing the information/material. Your correspondence or business dealings with, or participation in promotions of advertisers or including payment and delivery of related goods or services, and any other terms, conditions, warranties or representations associated with such dealings, are solely between You and such advertiser. Company will not be responsible or liable for any claim, error, omission, inaccuracy in advertising material or any loss or damage of any sort incurred as the result of any such dealings or as the result of the presence of such advertisers on the Site. Company reserves the right to omit, suspend or change the position of any advertising material submitted for insertion.
+
+### PAID SERVICE SUBSCRIPTION AND ACCESS TO USE
+
+Plans and Terms - We may offer a varied number of plans with different term options. For plan term we consider a month as 30 days and a year as 365 days. You may based on your preference choose any one of them and pay the relevant amount for it. You can view the details of your selected subscription plan at "My Account > Manage Subscription" page.
+
+Promotional Offers and Special Plans/Packs - We may from time to time offer special promotional offers, plans, packs or memberships ("Offers") on our platform or via association with partners, mobile operators or other service providers on third party platforms. An offer or special plan / pack cannot be clubbed with another or exchanged for any other product or subscription. We have the sole discretion to determine the offer or plan eligibility and we reserve the right to revoke an offer / special plan / pack and put your account on hold in the event that we determine you are not eligible. We may use information such as device ID, method of payment, mobile number or an account email address used with an existing or recent Cricbuzz Plus subscription to determine offer eligibility. Members with an existing or recent Cricbuzz Plus subscription may not be eligible for certain offers or special plans / packs. For certain offers or special plans based on applicable laws of the country you might be required to be 18 or above to purchase. Certain special plans when offered via mobile operator or another platform might involve payments via the said platform and in that case terms and conditions of that platform or mobile operator would also be applicable. As part of our partnership with third party services or other service providers when taking part in such Offers your details like mobile no. and/or email id etc may be shared with us, in which case you give us the right to reach out to you in regards to the said Offers. The eligibility requirements and other limitations and conditions will be disclosed when you sign-up for the offer/plan/pack, or make a purchase related to the said offer/plan/pack or in other communications made available to you.
+
+Coupon/Voucher Redemption - As part of certain promotional offers or via sale from different platform we might give out coupons / vouchers for Cricbuzz Plus subscription. We have the sole discretion to decide on how these coupons / vouchers are distributed and what kind of benefits they provide to the user. These coupons / vouchers would have certain terms and conditions attached to it which would have been informed to you at time of distribution or in other communications made available to you. You can redeem these vouchers / coupons on Cricbuzz website by logging into your account and going to "My Account > Redeem Coupon" page. Members with an existing Cricbuzz Plus subscription might not be able to redeem certain coupons / vouchers while their subscription is still active. They can redeem the said coupons / vouchers after the subscription end date.
+
+Billing Cycle - The subscription fee for Cricbuzz Plus and any other charges you may incur in connection with your use of the service, such as taxes and possible transaction fees, will be charged to your Payment Method on the specific payment date indicated on the "My Account > Manage Subscription" page. The length of your billing cycle will depend on the type of subscription that you choose when you signed up for the service. In some cases your payment date may change, for example if your Payment Method has not successfully settled, when you change your subscription plan or if your paid subscription began on a day not contained in a given month. On our website after signing in go to "My Account > Manage Subscription" page to see your next payment date. We may authorize your Payment Method in anticipation of subscription or service-related charges through various methods, including authorizing it for up to approximately one year of service as soon as you register.
+
+Payments and Payment Methods - To use the Cricbuzz Plus service you must provide one or more Payment Methods and/or make online Payment via one of the Payment Methods made available by our Payment Gateway provider. You authorize us and our Payment Gateway provider to charge any Payment Method associated to your account in case your primary Payment Method is declined or no longer available to us for payment of your subscription fee. You remain responsible for any uncollected amounts. If a payment is not successfully settled, due to expiration, insufficient funds, or otherwise, and you do not cancel your account, we may suspend your access to the service until we have successfully charged a valid Payment Method. For some Payment Methods, the issuer may charge you certain fees, such as foreign transaction fees or other fees relating to the processing of your Payment Method. Local tax charges may vary depending on the Payment Method used. Check with your Payment Method service provider for details. Incase if you are on a non auto renew plan then at the end of your selected plan term period you will be required to once again make an online Payment in order to continue using our paid service. In such a case you can view the last date of your selected plan term at "My Account > Manage Subscription" page.
+
+Auto Renew - If you are currently on auto renew subscription then your subscription will renew automatically unless you cancel it before it renews in order to avoid billing of subscription fees for the renewal term. In case of auto renew to ensure seamless experience and continuous access to paid service we may initiate your payment upto 48 hours in advance. We will try to charge your primary payment method for subscription fee. Failing which we will try to charge alternate payment methods provided by you. Incase if you are on non auto renew subscription then to continue with your paid service at the end of the plan term you will be required to again make an online Payment.
+
+Updating your Payment Methods - Incase of any payment issue faced during the auto renew of the subscription we may ask you to update your payment details. Following any update, you authorize us to continue to charge the applicable Payment Method(s).
+
+Cancellation and Refund - Once a payment is done by you, it cannot be cancelled. To the extent permitted by the applicable law, payments are non-refundable and we do not provide refunds or credits for any partial membership periods or unwatched content. In a scenario where you attempted to purchase a plan and your payment was deducted from your account / card but not received by Cricbuzz, you should seek refund from the financial service provider. If you are on a non auto renew subscription and wish to not continue with the paid service then after the plan term ends you may not make the next payment. If you are on an auto renew subscription, you can cancel auto renew of your subscription at any time, and you will continue to have access to the service through the end of your billing period. To cancel, go to the "My Account > Manage Subscription" page and follow the instructions for cancellation. If you cancel your subscription auto renew, your account will automatically close at the end of your current billing period. To see when your account will close go to the "My Account > Manage Subscription" page.
+
+Changes to the Price and Subscription Plans - We may change our subscription plans and the price of our service from time to time; however, any price changes or changes to your subscription plans will apply no earlier than 30 days following notice to you.
+
+No Intrusive Ads Feature - As part of the subscription plan one of the offering maybe related to the showing no intrusive ads. In this case the no intrusive ads feature does not remove any ad that will be part of the content itself including but not limited to - ads in live match stream, in play video ads, scorecard skins, boundary strip, wicket strip, top performer strip, sponsor logo.
+
+Premium Content - As part of a subscription plan offering user may get access to additional content in terms of editorials and videos. Cricbuzz has the sole right to decide what content is considered as premium content and should be made available in the plan. Depending on the rights related to showcasing content in different geographical regions, some or all of the content might be available only for users in certain geographical regions. Cricbuzz has sole discretion to make a content part of a plan offering available to all users or vice versa at any point in time.
+
+Deals, Rewards and Other Benefits - As part of a plan offering user may get access to certain deals, rewards or benefits of third party products or services. In which case availing the deal / reward or benefit of the product or service would be governed by their particular Terms of Use. Cricbuzz bears no responsibility in case of failure or issue arising with availing the deal, reward or benefit of the third party product or service.
+
+Multi Device Access - As part of the subscription plan offering, users may access the paid content and other offerings on Cricbuzz platform from two different devices at a time. Cricbuzz has the sole right to decide how many devices can access the platform at the same time using his/her account credentials. Cricbuzz has the sole discretion to remove the multi device access feature or increase number of devices allowed per account.
+
+### INTERNATIONAL USE
+
+This Site is controlled and operated from within India. Company makes no representation that the Site is appropriate or available in locations outside of India. Those who choose to access the Site from other locations do so at their own risk and are responsible for compliance with applicable laws.
+
+### LIMITATION OF LIABILITY
+
+YOU AGREE THAT COMPANY SHALL NOT BE LIABLE FOR ANY DIRECT, SPECIAL, INCIDENTAL, INDIRECT OR CONSEQUENTIAL DAMAGES OF ANY KIND IN CONNECTION WITH THIS AGREEMENT OR YOUR USE OF SITE, EVEN IF COMPANY HAS BEEN INFORMED IN ADVANCE OF THE POSSIBILITY OF SUCH DAMAGES.
+
+### INDEMNITY
+
+You agree to indemnify, defend and hold Company, its officers, directors, employees, affiliates or representatives harmless from any claim or action (including legal expenses) arising out your use of the Site, your breach of the Terms of Use and violation of any third party intellectual property rights or privacy.
+
+### APPLICABLE LAW
+
+This Agreement shall be governed by and interpreted and construed in accordance with the laws of India. The place of jurisdiction shall be exclusively in Bangalore. Notwithstanding the foregoing, we reserve the right to pursue any action or claim against you in any court of competent jurisdiction which we believe is the most appropriate to seek any relief.
+
+### ENTIRE AGREEMENT
+
+The Terms of Use and Privacy Policy, as amended from time to time, constitute the entire agreement between you and Company. If any provision of these Terms of use is considered unlawful, void, or for any reason unenforceable, then that provision shall be deemed severable from these Terms of Use and shall not affect the validity and enforceability of any remaining provisions.
+
+### CHANGES OF TERMS OF USE
+
+We reserve the right, to modify these Terms of Use at any time. Any changes to Terms of Use will be posted on the Site and your continued use of the Site following a posting of changes is your agreement to the changes and you are bound by the then-current version of these Terms of Use. If any changes to these Terms of Use are unacceptable to you, you must discontinue use of the Site. We reserve the right to suspend or deny, in our sole discretion, your access to all or any portion of the Site, including for any violation of any provision of these Terms of Use. We also reserve the right to change the Site without notice to you, at any time.
+
+### RELATIONSHIP
+
+None of the provisions of the Terms of Use shall be deemed to constitute a partnership or agency between you and Company and you shall have no authority to bind Company in any manner, whatsoever. If you are registering on the Site as a business entity, you represent that you have the authority to bind the entity to this Agreement.
+
+### TERMINATION
+
+We reserve the right, at our discretion, to immediately, with or without notice, suspend or terminate your registration, the Terms of Use, and/or your access to all or a portion of the Site and/or remove any registration information or User Content from the Site, for any reason. Upon termination or expiration of the Terms of Use, your obligations and Company's rights and disclaimers survive, but your right to use the Site immediately ceases. Any express waiver or failure to exercise promptly any right under the Terms of Use will not create a continuing waiver or any expectation of non-enforcement.
+
+### GRIEVANCE REDRESSAL
+
+Redressal Mechanism: Any complaints, abuse or concerns with regards to content and or comment or breach of these terms shall be immediately informed to the designated Grievance Officer as mentioned below via in writing or through email signed with the electronic signature to
+
+Mr. Harsha Kishan (Grievance Officer)
+
+TIMES INTERNET LTD.
+
+www.cricbuzz.com
+
+Regd. Office: Express Building,
+
+9-10, Bahadurshah Zafar Marg,
+
+New Delhi, - 110002, INDIA
+
+Corp. Office: No. 190-B, 1st Floor,
+
+HN Plaza,100 Ft Ring road,
+
+6th Main, BSK 3rd Stage,
+
+Bangalore . 560085, INDIA
+
+Ph: 080-40965631
+
+Email: grievance@cricbuzz.com
+
+We request you to please provide the following information in your complaint:
+
+* A physical or electronic signature of a person authorized to act on behalf of the copyright owner for the purposes of the complaint.
+
+* Identification of the copyrighted work claimed to have been infringed.
+
+* Identification of the material on our website that is claimed to be infringing or to be the subject of infringing activity.
+
+* The address, telephone number or e-mail address of the complaining party.
+
+* A statement that the complaining party has a good-faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent or the law.
+
+* A statement, under penalty of perjury, that the information in the notice of copyright infringement is accurate, and that the complaining party is authorized to act on behalf of the owner of the right that is allegedly infringed.
