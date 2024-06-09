@@ -259,20 +259,6 @@ Advertisement
 
 #### Trending
 
-[![2024 Mazda CX-90 PHEV](https://www.gearedtoyou.com/wp-content/uploads/2023/09/Screenshot-2023-09-21-at-3.19.11-PM-100x100.jpg)](https://www.gearedtoyou.com/2024-mazda-cx-90-review-a-perfect-family-suv-car/)
-
-### Reviews
-
-[2024 Mazda CX-90 Review: A Perfect Family SUV Car
--------------------------------------------------](https://www.gearedtoyou.com/2024-mazda-cx-90-review-a-perfect-family-suv-car/)
-
-[![](https://www.gearedtoyou.com/wp-content/uploads/2023/11/shutterstock_1814491031-100x100.jpg)](https://www.gearedtoyou.com/a-perfect-comparison-between-c8-corvette-z06-and-maserati-mc20/)
-
-### Super Cars
-
-[A Perfect Comparison Between C8 Corvette Z06 And Maserati MC20
---------------------------------------------------------------](https://www.gearedtoyou.com/a-perfect-comparison-between-c8-corvette-z06-and-maserati-mc20/)
-
 [![](https://www.gearedtoyou.com/wp-content/uploads/2024/05/shutterstock_2424223985-100x100.jpg)](https://www.gearedtoyou.com/a-rare-vintage-1995-mclaren-f1-is-up-for-auction/)
 
 ### Super Cars
@@ -293,6 +279,20 @@ Advertisement
 
 [New Aston Martin Vantage Review: A Sophisticated Grand Tourer With A Surprising Edge
 ------------------------------------------------------------------------------------](https://www.gearedtoyou.com/new-aston-martin-vantage-review-a-sophisticated-grand-tourer-with-a-surprising-edge/)
+
+[![](https://www.gearedtoyou.com/wp-content/uploads/2024/05/shutterstock_1338694697-100x100.jpg)](https://www.gearedtoyou.com/automobili-pininfarina-hypercars-are-inspired-by-bruce-wayne/)
+
+### Super Cars
+
+[Automobili Pininfarina Hypercars Are Inspired By Bruce Wayne
+------------------------------------------------------------](https://www.gearedtoyou.com/automobili-pininfarina-hypercars-are-inspired-by-bruce-wayne/)
+
+[![](https://www.gearedtoyou.com/wp-content/uploads/2024/05/Screenshot-2024-05-16-at-5.21.54 PM-100x100.png)](https://www.gearedtoyou.com/the-stunning-aston-martin-db12-volante/)
+
+### Super Cars
+
+[The Stunning Aston Martin DB12 Volante
+--------------------------------------](https://www.gearedtoyou.com/the-stunning-aston-martin-db12-volante/)
 
 Advertisement
 
