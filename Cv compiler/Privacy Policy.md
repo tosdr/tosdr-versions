@@ -937,6 +937,16 @@ What do top resumes look like? Check out these expertly-written samples:
 
 [Interior Designer](https://cvcompiler.com/interior-designer-resume-examples)
 
+[Technical Support](https://cvcompiler.com/technical-support-resume-examples)
+
+[Machine Learning Engineer](https://cvcompiler.com/machine-learning-engineer-resume-examples)
+
+[Entry-Level Python Developer](https://cvcompiler.com/entry-level-python-developer-resume-examples)
+
+[Nursing Assistant](https://cvcompiler.com/nursing-assistant-resume-examples)
+
+[Medical Receptionist](https://cvcompiler.com/medical-receptionist-resume-examples)
+
 ![Upload resume illustration](uploads-pre-acq/img/upload-illustration.svg)
 
 ### Upload  
