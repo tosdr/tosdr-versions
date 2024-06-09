@@ -136,19 +136,17 @@ If you have any questions about this Privacy Policy, please contact us: By email
 
 ### holycowfineindianfood](https://www.instagram.com/holycowfineindianfood/ "@holycowfineindianfood")
 
+[Football week is approaching Experience the taste ![Football week is approaching Experience the taste victory with every bite!  Visit us at: www.holycowonline.com  #HolyCowFinelndianFood #AuthenticIndianCuisine
+#IndianFood #FoodieFinds #HolyCow #Food #London #Angel #Archway #Balham #Battersea #CanaryWharf #Hammersmith #Kilburn #putney](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![Football week is approaching Experience the taste victory with every bite!  Visit us at: www.holycowonline.com  #HolyCowFinelndianFood #AuthenticIndianCuisine
+#IndianFood #FoodieFinds #HolyCow #Food #London #Angel #Archway #Balham #Battersea #CanaryWharf #Hammersmith #Kilburn #putney](https://www.holycowonline.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C788abSozgP/) 
+
 [Winning flavours that will leave you cheering for ![Winning flavours that will leave you cheering for more!  Visit us at: www.holycowonline.com  #HolyCowFinelndianFood #AuthenticIndianCuisine
 #IndianFood #FoodieFinds #HolyCow #Food #London #Angel #Archway #Balham #Battersea #CanaryWharf #Hammersmith #Kilburn #putney](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
 ![Winning flavours that will leave you cheering for more!  Visit us at: www.holycowonline.com  #HolyCowFinelndianFood #AuthenticIndianCuisine
 #IndianFood #FoodieFinds #HolyCow #Food #London #Angel #Archway #Balham #Battersea #CanaryWharf #Hammersmith #Kilburn #putney](https://www.holycowonline.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C73y0sEIcwe/) 
-
-[Let the flavours come to you! Elevate any day with ![Let the flavours come to you! Elevate any day with our convenient delivery service.  Order now and savour the convenience.
-Visit us at: www.holycowonline.com  #DeliveryDelights #HolyCowFinelndianFood #AuthenticIndianCuisine
-#IndianFood #FoodieFinds #HolyCow #Food #London #Angel #Archway #Balham #Battersea #CanaryWharf #Hammersmith #Kilburn #putney](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![Let the flavours come to you! Elevate any day with our convenient delivery service.  Order now and savour the convenience.
-Visit us at: www.holycowonline.com  #DeliveryDelights #HolyCowFinelndianFood #AuthenticIndianCuisine
-#IndianFood #FoodieFinds #HolyCow #Food #London #Angel #Archway #Balham #Battersea #CanaryWharf #Hammersmith #Kilburn #putney](https://www.holycowonline.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C7ypO2DIGyp/) 
 
 [Load More…](javascript:void(0);) [Follow on Instagram](https://www.instagram.com/holycowfineindianfood/)
 
