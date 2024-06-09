@@ -106,11 +106,11 @@ If you believe that any information we are holding on you is incorrect or incomp
 
 [Why does UserBenchmark have a bad reputation on reddit?](#tff_1)
 
-Marketers operate a lot of reddit accounts. UserBenchmark exposes their spiel so they attack our reputation.
+Marketers operate thousands of reddit accounts. We expose their spiel so they attack our reputation.
 
 [Why don’t PC brands endorse UserBenchmark?](#tff_2)
 
-PC brands make a lot on flagships like the 4090, 14900KS, and 7950X3D. We help users get similar real-world performance for less money.
+Brands make boatloads of money on flagships like the 4090 and 14900KS. We help users get similar real-world performance for less.
 
 [Why don’t youtubers promote UserBenchmark?](#tff_3)
 
@@ -118,11 +118,11 @@ We don't pay youtubers, so they don't praise us. Moreover, our data exposes yout
 
 [Why does UserBenchmark have negative trustpilot reviews?](#tff_4)
 
-[The 200+ reviews on trustpilot](https://www.trustpilot.com/review/www.userbenchmark.com) are written by virgin marketing accounts. Real users aren't incentivized to back brands.
+[The 200+ trustpilot reviews](https://www.trustpilot.com/review/www.userbenchmark.com) are mostly written by virgin marketing accounts. Real users don't give a monkey's about big brands.
 
 [Why is UserBenchmark popular with users?](#tff_5)
 
-Instead of chasing sponsorship with billion-dollar brands, we've spent 13 years publishing real-world data which saves our users millions.
+Instead of pursuing brands for sponsorship, we've spent 13 years publishing real-world data for users.
 
 The Best.
 
@@ -148,7 +148,7 @@ Amazon Ebay
 
 deals
 
-[CPU](https://www.userbenchmark.com/Go/HotCPUAmazon/lbFMultiA/0) [GPU](https://www.userbenchmark.com/Go/HotGPUAmazon/lbFMultiA/0) [SSD](https://www.userbenchmark.com/Go/HotSSDAmazon/lbFMultiA/0) [HDD](https://www.userbenchmark.com/Go/HotHDDAmazon/lbFMultiA/0) [USB](https://www.userbenchmark.com/Go/HotUSBAmazon/lbFMultiA/0) [RAM](https://www.userbenchmark.com/Go/HotRAMAmazon/lbFMultiA/0) [MBD](https://www.userbenchmark.com/Go/HotWWWAmazon/lbFMultiA/0)
+[CPU](https://www.userbenchmark.com/Go/HotCPUAmazon/lbFMultiB/0) [GPU](https://www.userbenchmark.com/Go/HotGPUAmazon/lbFMultiB/0) [SSD](https://www.userbenchmark.com/Go/HotSSDAmazon/lbFMultiB/0) [HDD](https://www.userbenchmark.com/Go/HotHDDAmazon/lbFMultiB/0) [USB](https://www.userbenchmark.com/Go/HotUSBAmazon/lbFMultiB/0) [RAM](https://www.userbenchmark.com/Go/HotRAMAmazon/lbFMultiB/0) [MBD](https://www.userbenchmark.com/Go/HotWWWAmazon/lbFMultiB/0)
 
 [![](https://www.userbenchmark.com/resources/img/loading-transp.png)Build](https://www.userbenchmark.com/PCBuilder) [![](https://www.userbenchmark.com/resources/img/loading-transp.png)Test](https://www.userbenchmark.com/Software) [![](https://www.userbenchmark.com/resources/img/loading-transp.png)EFps](https://www.userbenchmark.com/EFps/Compare)
 
