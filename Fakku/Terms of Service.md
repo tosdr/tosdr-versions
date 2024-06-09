@@ -319,7 +319,7 @@ Popular Tags Today:
 
 Close sidebar [Notifications](https://www.fakku.net/notifications) Dark mode
 
-[Create Account](https://www.fakku.net/users/create) [Login](https://www.fakku.net/login) [Unlimited](https://www.fakku.net/unlimited)
+[Create Account](https://www.fakku.net/users/create) [Login](https://www.fakku.net/login) [FAKKU Unlimited](https://www.fakku.net/unlimited)
 
 [New Releases](https://www.fakku.net/hentai) [Doujin](https://www.fakku.net/doujin) [Games](https://www.fakku.net/games) [Manga](https://www.fakku.net/books) [Tags](https://www.fakku.net/tags) [Merch](https://merch.fakku.net/)
 
