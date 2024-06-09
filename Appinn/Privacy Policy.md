@@ -177,11 +177,11 @@
     
     5 月 29, 2024 2
     
-* [![OFGB - 一键关闭 Windows 11 广告，9 处 9](https://www.appinn.com/wp-content/uploads/2024/05/Appinn-feature-images-2024-05-09T124321.774-115x115.jpg "OFGB - 一键关闭 Windows 11 广告，9 处 9")](https://www.appinn.com/ofgb-oh-frick-go-back/ "OFGB – 一键关闭 Windows 11 广告，9 处")
+* [![noTunes - 一个简单的 macOS 应用，阻止 Apple Music 启动，并设置替代播放器 9](https://www.appinn.com/wp-content/uploads/2024/05/Appinn-feature-images-2024-05-22T135759.667-115x115.jpg "noTunes - 一个简单的 macOS 应用，阻止 Apple Music 启动，并设置替代播放器 9")](https://www.appinn.com/notunes/ "noTunes – 一个简单的 macOS 应用，阻止 Apple Music 启动，并设置替代播放器")
     
-    [OFGB – 一键关闭 Windows 11 广告，9 处](https://www.appinn.com/ofgb-oh-frick-go-back/ "OFGB – 一键关闭 Windows 11 广告，9 处")
+    [noTunes – 一个简单的 macOS 应用，阻止 Apple Music …](https://www.appinn.com/notunes/ "noTunes – 一个简单的 macOS 应用，阻止 Apple Music 启动，并设置替代播放器")
     
-    5 月 9, 2024 1
+    5 月 22, 2024 1
     
 * [![有用 iPhone、安卓看 CAD 的软件吗？｜CAD看图王 10](https://www.appinn.com/wp-content/uploads/2024/05/faq-12-115x115.jpg "有用 iPhone、安卓看 CAD 的软件吗？｜CAD看图王 10")](https://www.appinn.com/gstar-cad-viewer/ "有用 iPhone、安卓看 CAD 的软件吗？｜CAD看图王")
     
