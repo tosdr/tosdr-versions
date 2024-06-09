@@ -88,11 +88,7 @@ Upholding International Justice: The Imperative of Supporting the ICC and the IC
 
 [View more news](https://volteuropa.org/news)
 
-Back[![](/img/containers/assets/slide-16_9---1-1717510756.png/97803556ac0959754df41e8a091faf21.png)
-
-Watch Along Dutch Exit Polls
-
-6 Jun 2024 Online](https://www.volteuropa.org/events/watch-along-dutch-exit-polls)[![](/img/containers/assets/img_5682.jpeg/6796baaf3039fb37a7f3a98bfde82cee.jpeg)
+Back[![](/img/containers/assets/img_5682.jpeg/6796baaf3039fb37a7f3a98bfde82cee.jpeg)
 
 Events Happening This Week: European Overview
 
