@@ -83,7 +83,7 @@
     
     English
     
-    [Español](https://www.coolmathgames.com/es/privacyp)[Português, Brasil](https://www.coolmathgames.com/pt-br/privacyp "Português")[Français](https://www.coolmathgames.com/fr/privacyp)[Italiano](https://www.coolmathgames.com/it/privacyp)[हिन्दी](https://www.coolmathgames.com/hi/privacyp)[简体中文](https://www.coolmathgames.com/zh-hans/privacyp)[Filipino](https://www.coolmathgames.com/fil/privacyp)[日本語](https://www.coolmathgames.com/ja/privacyp)[Tiếng Việt](https://www.coolmathgames.com/vi/privacyp)[Deutsch](https://www.coolmathgames.com/de/privacyp)
+    [Español](https://www.coolmathgames.com/es/privacyp)[Português, Brasil](https://www.coolmathgames.com/pt-br/privacyp "Português")[Français](https://www.coolmathgames.com/fr/privacyp)[Italiano](https://www.coolmathgames.com/it/privacyp)[हिन्दी](https://www.coolmathgames.com/hi/privacyp)[简体中文](https://www.coolmathgames.com/zh-hans/privacyp)[日本語](https://www.coolmathgames.com/ja/privacyp)[Deutsch](https://www.coolmathgames.com/de/privacyp)
     
 * [Log in](https://www.coolmathgames.com/login)
     
@@ -212,7 +212,7 @@ FREE | Earn XP | Level Up
 
 English
 
-[Español](https://www.coolmathgames.com/es/privacyp)[Português, Brasil](https://www.coolmathgames.com/pt-br/privacyp "Português")[Français](https://www.coolmathgames.com/fr/privacyp)[Italiano](https://www.coolmathgames.com/it/privacyp)[हिन्दी](https://www.coolmathgames.com/hi/privacyp)[简体中文](https://www.coolmathgames.com/zh-hans/privacyp)[Filipino](https://www.coolmathgames.com/fil/privacyp)[日本語](https://www.coolmathgames.com/ja/privacyp)[Tiếng Việt](https://www.coolmathgames.com/vi/privacyp)[Deutsch](https://www.coolmathgames.com/de/privacyp)
+[Español](https://www.coolmathgames.com/es/privacyp)[Português, Brasil](https://www.coolmathgames.com/pt-br/privacyp "Português")[Français](https://www.coolmathgames.com/fr/privacyp)[Italiano](https://www.coolmathgames.com/it/privacyp)[हिन्दी](https://www.coolmathgames.com/hi/privacyp)[简体中文](https://www.coolmathgames.com/zh-hans/privacyp)[日本語](https://www.coolmathgames.com/ja/privacyp)[Deutsch](https://www.coolmathgames.com/de/privacyp)
 
 The Coolmath Privacy Policy
 ===========================
@@ -431,6 +431,6 @@ See how you rank!](https://www.coolmathgames.com/profile/leaderboard)
     
     English
     
-    [Español](https://www.coolmathgames.com/es/privacyp)[Português, Brasil](https://www.coolmathgames.com/pt-br/privacyp "Português")[Français](https://www.coolmathgames.com/fr/privacyp)[Italiano](https://www.coolmathgames.com/it/privacyp)[हिन्दी](https://www.coolmathgames.com/hi/privacyp)[简体中文](https://www.coolmathgames.com/zh-hans/privacyp)[Filipino](https://www.coolmathgames.com/fil/privacyp)[日本語](https://www.coolmathgames.com/ja/privacyp)[Tiếng Việt](https://www.coolmathgames.com/vi/privacyp)[Deutsch](https://www.coolmathgames.com/de/privacyp)
+    [Español](https://www.coolmathgames.com/es/privacyp)[Português, Brasil](https://www.coolmathgames.com/pt-br/privacyp "Português")[Français](https://www.coolmathgames.com/fr/privacyp)[Italiano](https://www.coolmathgames.com/it/privacyp)[हिन्दी](https://www.coolmathgames.com/hi/privacyp)[简体中文](https://www.coolmathgames.com/zh-hans/privacyp)[日本語](https://www.coolmathgames.com/ja/privacyp)[Deutsch](https://www.coolmathgames.com/de/privacyp)
     
 5. © 2024 Coolmath.com LLC. All Rights Reserved.
