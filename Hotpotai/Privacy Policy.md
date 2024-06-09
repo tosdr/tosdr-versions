@@ -16,7 +16,7 @@ AI Editing
 
 Edit photos with AI
 
-[Photo Upscaler](https://hotpot.ai/upscale-photo) [Object Remover](https://hotpot.ai/remove-object) [Background Remover](https://hotpot.ai/remove-background) [Photo Restyler](https://hotpot.ai/personalize-art) [Photo Colorizer](https://hotpot.ai/colorize-picture) [Photo Restorer](https://hotpot.ai/restore-picture) [Face Enhancer](https://hotpot.ai/enhance-face) [Color Generator](https://hotpot.ai/color-generator)
+[Photo Upscaler](https://hotpot.ai/upscale-photo) [Object Remover](https://hotpot.ai/remove-object) [Background Remover](https://hotpot.ai/remove-background) [Photo Restyler](https://hotpot.ai/personalize-art) [Photo Colorizer](https://hotpot.ai/colorize-picture) [Photo Restorer](https://hotpot.ai/restore-picture) [Face Enhancer](https://hotpot.ai/enhance-face) [Auto Crop](https://hotpot.ai/crop-photo) [Color Generator](https://hotpot.ai/color-generator)
 
 AI Game
 
