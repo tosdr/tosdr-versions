@@ -96,9 +96,9 @@ Search site
 
 [River Flood Warning
 
-until WED 7:00 PM CDT, Navarro County, Henderson County](https://www.fox4news.com/weather-alerts)
+until TUE 11:34 PM CDT, Navarro County, Henderson County](https://www.fox4news.com/weather-alerts)
 
-4
+3
 
 [River Flood Warning
 
@@ -106,11 +106,7 @@ is in effect, Hopkins County, Delta County, Freestone County, Anderson County, A
 
 [River Flood Warning
 
-until SUN 1:00 AM CDT, Red River County](https://www.fox4news.com/weather-alerts)
-
-[River Flood Warning
-
-until MON 11:00 AM CDT, Red River County](https://www.fox4news.com/weather-alerts)
+until TUE 7:00 AM CDT, Red River County](https://www.fox4news.com/weather-alerts)
 
 Terms of Service
 ================
