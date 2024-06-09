@@ -1,6 +1,4 @@
-[![NopeCHA Logo](/image/nopecha/64.png)
-
-NopeCHA](https://nopecha.com/)
+[NopeCHA](https://nopecha.com/)
 
 * [Home](https://nopecha.com/)
 * [Developers](https://developers.nopecha.com/)
