@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Gun Control 2023 - ATF Shenanigans, S… (6,522)](https://forum.nationstates.net/viewtopic.php?t=530702&f=20&view=unread#unread ""Gun Control 2023 - ATF Shenanigans, States Fight Back!" (6,522 posts)")
-* [AN invades YN. How do you react? II (1,157)](https://forum.nationstates.net/viewtopic.php?t=542690&f=25&view=unread#unread ""AN invades YN. How do you react? II" (1,157 posts)")
-* [Compliment the Above Nation III (6,073)](https://forum.nationstates.net/viewtopic.php?t=513965&f=25&view=unread#unread ""Compliment the Above Nation III" (6,073 posts)")
-* [The Eternal Tuesday (2,339)](https://forum.nationstates.net/viewtopic.php?t=551362&f=20&view=unread#unread ""The Eternal Tuesday" (2,339 posts)")
-* [Which of the 2 ANs is most likely to… (3,749)](https://forum.nationstates.net/viewtopic.php?t=532491&f=25&view=unread#unread ""Which of the 2 ANs is most likely to be YN's enemy?" (3,749 posts)")
+* [WorPol Global Headquarters (IC/closed) (297)](https://forum.nationstates.net/viewtopic.php?t=551459&f=5&view=unread#unread ""WorPol Global Headquarters (IC/closed)" (297 posts)")
+* [American Politics: The Final Four..VP… (7,913)](https://forum.nationstates.net/viewtopic.php?t=548141&f=20&view=unread#unread ""American Politics: The Final Four..VP Choices" (7,913 posts)")
+* [AN Out of Context II (12,087)](https://forum.nationstates.net/viewtopic.php?t=533734&f=25&view=unread#unread ""AN Out of Context II" (12,087 posts)")
+* [The LGBT+ Thread: Rainbow Connections (1,927)](https://forum.nationstates.net/viewtopic.php?t=538581&f=20&view=unread#unread ""The LGBT+ Thread: Rainbow Connections" (1,927 posts)")
+* [Would you Rather Live in AN or AAN? (… (79)](https://forum.nationstates.net/viewtopic.php?t=551538&f=25&view=unread#unread ""Would you Rather Live in AN or AAN? (forced)" (79 posts)")
 
 Advertisement
 
