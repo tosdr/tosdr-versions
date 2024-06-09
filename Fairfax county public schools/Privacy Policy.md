@@ -1016,9 +1016,9 @@ Full Menu
 [Fairfax County Public Schools
 =============================](https://www.fcps.edu/ "Home")
 
-![](https://openweathermap.org/img/wn/04n.png)
+![](https://openweathermap.org/img/wn/04d.png)
 
-66°F
+69°F
 
 Broken clouds
 
