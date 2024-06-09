@@ -197,61 +197,59 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Wish I started ages ago!
-> ------------------------
+> Quick and efficient support
+> ---------------------------
 > 
-> I just want to compliment you and your team for an amazing back office software.
+> Thanks its perfect.  Thanks for your prompt response and help.  Much appreciated.
 > 
-> I have been struggling with a proper invoicing solution for six months now (to make time each month)
-> 
-> I just wish I started using Invoices Online ages ago.
+> Gheez, you are really going out your way to help! Thanks.  Yes that is exactly what is needed, I fully understand the law as per below and agree. Thanks so much.
 
-Terri Winfield
+Rudi Franz - Vaxolog (Pty) Ltd t/a Streamline Distributors
 
-![valued client Electro-Heat](https://www.invoicesonline.co.za/scripts/image.php?bid=8547&file=logo_300_100&type=&fe=4a6ceb90cdeadca437d4d95d20cb5bfe62182971fa1a78e455325b4cb4e15adb&c=76108490)  
-Electro-Heat
+![valued client Frequency Fanatics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8558&file=logo_300_100&type=&fe=0e3e9eeeb820298377c071c62ab2ad53dd745c9b9f354e3df056e7c972548bdb&c=133868176)  
+Frequency Fanatics (Pty) Ltd
 
-![valued client Wiselink Broadband Vryheid](https://www.invoicesonline.co.za/scripts/image.php?bid=6023&file=logo_300_100&type=&fe=4a6ceb90cdeadca437d4d95d20cb5bfe62182971fa1a78e455325b4cb4e15adb&c=206225364)  
-Wiselink Broadband Vryheid
+![valued client IAS Logistics ta Multi transit](https://www.invoicesonline.co.za/scripts/image.php?bid=7064&file=logo_300_100&type=&fe=0e3e9eeeb820298377c071c62ab2ad53dd745c9b9f354e3df056e7c972548bdb&c=156207426)  
+IAS Logistics ta Multi transit
 
-![valued client VA AND M DEBT-AID (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8114&file=logo_300_100&type=&fe=4a6ceb90cdeadca437d4d95d20cb5bfe62182971fa1a78e455325b4cb4e15adb&c=177473761)  
-VA AND M DEBT-AID (PTY) LTD
-
-![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=4a6ceb90cdeadca437d4d95d20cb5bfe62182971fa1a78e455325b4cb4e15adb&c=172964056)  
-West Coast Horse Trails
-
-![valued client KTEN PARTS](https://www.invoicesonline.co.za/scripts/image.php?bid=7612&file=logo_300_100&type=&fe=4a6ceb90cdeadca437d4d95d20cb5bfe62182971fa1a78e455325b4cb4e15adb&c=133047084)  
-KTEN PARTS
-
-![valued client Atalie Scented Candles Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7239&file=logo_300_100&type=&fe=4a6ceb90cdeadca437d4d95d20cb5bfe62182971fa1a78e455325b4cb4e15adb&c=17855859)  
-Atalie Scented Candles Pty Ltd
-
-![valued client NIMAWELL  ](https://www.invoicesonline.co.za/scripts/image.php?bid=6419&file=logo_300_100&type=&fe=4a6ceb90cdeadca437d4d95d20cb5bfe62182971fa1a78e455325b4cb4e15adb&c=209885046)  
+![valued client NIMAWELL  ](https://www.invoicesonline.co.za/scripts/image.php?bid=6419&file=logo_300_100&type=&fe=0e3e9eeeb820298377c071c62ab2ad53dd745c9b9f354e3df056e7c972548bdb&c=156460085)  
 NIMAWELL
 
-![valued client UMVIKELI PRIVATE SECURITY](https://www.invoicesonline.co.za/scripts/image.php?bid=7357&file=logo_300_100&type=&fe=4a6ceb90cdeadca437d4d95d20cb5bfe62182971fa1a78e455325b4cb4e15adb&c=123747185)  
-UMVIKELI PRIVATE SECURITY
+![valued client kidoscabbie](https://www.invoicesonline.co.za/scripts/image.php?bid=4488&file=logo_300_100&type=&fe=0e3e9eeeb820298377c071c62ab2ad53dd745c9b9f354e3df056e7c972548bdb&c=60005405)  
+kidoscabbie
 
-![valued client Local Print and Signs](https://www.invoicesonline.co.za/scripts/image.php?bid=8292&file=logo_300_100&type=&fe=4a6ceb90cdeadca437d4d95d20cb5bfe62182971fa1a78e455325b4cb4e15adb&c=102660487)  
-Local Print and Signs
+![valued client IEMS (PTY) ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7805&file=logo_300_100&type=&fe=0e3e9eeeb820298377c071c62ab2ad53dd745c9b9f354e3df056e7c972548bdb&c=55922589)  
+IEMS (PTY) ltd
 
-![valued client FJW Security Cc](https://www.invoicesonline.co.za/scripts/image.php?bid=1343&file=logo_300_100&type=&fe=4a6ceb90cdeadca437d4d95d20cb5bfe62182971fa1a78e455325b4cb4e15adb&c=187061590)  
-FJW Security Cc
+![valued client AFS Electrical](https://www.invoicesonline.co.za/scripts/image.php?bid=3660&file=logo_300_100&type=&fe=0e3e9eeeb820298377c071c62ab2ad53dd745c9b9f354e3df056e7c972548bdb&c=142512506)  
+AFS Electrical
 
-![valued client OXYAIDER (PTY) LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7574&file=logo_300_100&type=&fe=4a6ceb90cdeadca437d4d95d20cb5bfe62182971fa1a78e455325b4cb4e15adb&c=168076409)  
-OXYAIDER (PTY) LTD
+![valued client Wiselink Broadband Dundee](https://www.invoicesonline.co.za/scripts/image.php?bid=5399&file=logo_300_100&type=&fe=0e3e9eeeb820298377c071c62ab2ad53dd745c9b9f354e3df056e7c972548bdb&c=76163109)  
+Wiselink Broadband Dundee
 
-![valued client Goju Ryu Karate Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=2827&file=logo_300_100&type=&fe=4a6ceb90cdeadca437d4d95d20cb5bfe62182971fa1a78e455325b4cb4e15adb&c=120692645)  
-Goju Ryu Karate Centre
+![valued client Import Maaw](https://www.invoicesonline.co.za/scripts/image.php?bid=6159&file=logo_300_100&type=&fe=0e3e9eeeb820298377c071c62ab2ad53dd745c9b9f354e3df056e7c972548bdb&c=27570757)  
+Import Maaw
 
-![valued client Stories4Kids (Pty) Ltd t/a Storietyd](https://www.invoicesonline.co.za/scripts/image.php?bid=2162&file=logo_300_100&type=&fe=4a6ceb90cdeadca437d4d95d20cb5bfe62182971fa1a78e455325b4cb4e15adb&c=48953552)  
-Stories4Kids (Pty) Ltd t/a Storietyd
-
-![valued client Hydroworld T/A Milliqua](https://www.invoicesonline.co.za/scripts/image.php?bid=3671&file=logo_300_100&type=&fe=4a6ceb90cdeadca437d4d95d20cb5bfe62182971fa1a78e455325b4cb4e15adb&c=3321712)  
-Hydroworld T/A Milliqua
-
-![valued client INVOICES/JOBCARDS ONLINE](https://www.invoicesonline.co.za/scripts/image.php?bid=6974&file=logo_300_100&type=&fe=4a6ceb90cdeadca437d4d95d20cb5bfe62182971fa1a78e455325b4cb4e15adb&c=108498528)  
+![valued client INVOICES/JOBCARDS ONLINE](https://www.invoicesonline.co.za/scripts/image.php?bid=6974&file=logo_300_100&type=&fe=0e3e9eeeb820298377c071c62ab2ad53dd745c9b9f354e3df056e7c972548bdb&c=178514354)  
 INVOICES/JOBCARDS ONLINE
+
+![valued client FX ACCOUNTING](https://www.invoicesonline.co.za/scripts/image.php?bid=6924&file=logo_300_100&type=&fe=0e3e9eeeb820298377c071c62ab2ad53dd745c9b9f354e3df056e7c972548bdb&c=111168224)  
+FX ACCOUNTING
+
+![valued client TechnoDezi PTY(LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=2471&file=logo_300_100&type=&fe=0e3e9eeeb820298377c071c62ab2ad53dd745c9b9f354e3df056e7c972548bdb&c=102776897)  
+TechnoDezi PTY(LTD)
+
+![valued client Mountain Lion Properties](https://www.invoicesonline.co.za/scripts/image.php?bid=4949&file=logo_300_100&type=&fe=0e3e9eeeb820298377c071c62ab2ad53dd745c9b9f354e3df056e7c972548bdb&c=170165389)  
+Mountain Lion Properties
+
+![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=0e3e9eeeb820298377c071c62ab2ad53dd745c9b9f354e3df056e7c972548bdb&c=160605995)  
+Lion Software Develepment
+
+![valued client CrossRoads Pregnancy Help Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=5466&file=logo_300_100&type=&fe=0e3e9eeeb820298377c071c62ab2ad53dd745c9b9f354e3df056e7c972548bdb&c=206454992)  
+CrossRoads Pregnancy Help Centre
+
+![valued client Khiya Technology Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=5545&file=logo_300_100&type=&fe=0e3e9eeeb820298377c071c62ab2ad53dd745c9b9f354e3df056e7c972548bdb&c=174609062)  
+Khiya Technology Solutions
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
