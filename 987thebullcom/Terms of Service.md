@@ -208,7 +208,13 @@ If you have questions concerning this Agreement, the Privacy Policy, and/or the 
 Recently Played
 ---------------
 
-No playlist data.
+|     |
+| --- |
+| The Good OnesGabby Barrett<br><br>6:55pm |
+| Miles On ItKane Brown Ft Marshmello<br><br>6:52pm |
+| ReligiouslyBailey Zimmerman<br><br>6:49pm |
+| Hey DriverZach Bryan Ft The War And Treaty<br><br>6:46pm |
+| Shouldve Been A CowboyToby Keith<br><br>6:38pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -217,19 +223,21 @@ No playlist data.
 You Might Also Like
 -------------------
 
+![](https://s3.amazonaws.com/syndication.abcaudio.com/files/2024-05-31/M_MorganWallen2023CMAAwardsDisneyFrankMicelotta.jpg)
+
+[Country News](https://www.987thebull.com/category/country/)[### Morgan Wallen's bar is open](https://www.987thebull.com/morgan-wallens-bar-is-open/)
+
+* * *
+
+![](https://s3.amazonaws.com/syndication.abcaudio.com/files/2024-05-30/M_WynonnaJudd2022CMAFestABC.jpg)
+
+[Country News](https://www.987thebull.com/category/country/)[### Ashley McBryde, Jelly, Reba celebrate Wynonna's birthday](https://www.987thebull.com/ashley-mcbryde-jelly-reba-celebrate-wynonnas-birthday/)
+
+* * *
+
 ![](https://s3.amazonaws.com/syndication.abcaudio.com/files/2024-05-30/M_AlanJackson2023CMAAwardsDisneyFrankMicelotta.jpg)
 
 [Country News](https://www.987thebull.com/category/country/)[### Alan Jackson is headed back on tour](https://www.987thebull.com/alan-jackson-is-headed-back-on-tour/)
-
-* * *
-
-![](https://s3.amazonaws.com/syndication.abcaudio.com/files/2024-05-30/M_CarlyPearceTheVoice2022Trae%20PattonNBC.jpg)
-
-[Country News](https://www.987thebull.com/category/country/)[### Carly Pearce opens up about heart condition, plans to alter onstage perfomances](https://www.987thebull.com/carly-pearce-opens-up-about-heart-condition-plans-to-alter-onstage-perfomances/)
-
-* * *
-
-### Luke Combs' unreleased "Plant a Seed" might tug at your heartstrings
 
 * * *
 
@@ -373,21 +381,21 @@ State
 Featured Brands
 ---------------
 
-[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
-
-Country • Western
-
-[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
-
-Spanish • Western
-
 [![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
 
 News Talk • Eastern
 
-[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
+[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
 
-Top 40 • Pacific NW
+Country • Western
+
+[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
+
+Top 40 • Eastern
+
+[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
+
+Sports • Midwest
 
 [](https://www.alphamediausa.com/)
 
