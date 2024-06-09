@@ -93,7 +93,7 @@ CHOOSE Color
 
 ### [Maracuja Mascara](https://www.100percentpure.com/products/maracuja-mascara)
 
-2116 reviews (2116)
+2353 reviews (2353)
 
 $28.00 $28.00
 
@@ -147,7 +147,7 @@ ADD TO TOTE
 
 ### [Glossy Locks Grow More Shampoo](https://www.100percentpure.com/products/grow-more-shampoo)
 
-683 reviews (683)
+684 reviews (684)
 
 $34.00 $38.00
 
@@ -213,7 +213,7 @@ CHOOSE Size
 
 ### [Collagen Boost Sheet Mask](https://www.100percentpure.com/products/sheet-mask-collagen-boost-masks)
 
-203 reviews (203)
+28 reviews (28)
 
 $7.00 $28.00
 
@@ -293,7 +293,7 @@ ADD TO TOTE
 
 ### [Creamy Long Last Liner](https://www.100percentpure.com/products/creamy-long-last-liner)
 
-1986 reviews (1986)
+1987 reviews (1987)
 
 $27.00 $27.00
 
@@ -435,7 +435,7 @@ ADD TO TOTE
 
 ### [Honey Almond Nourishing Body Cream](https://www.100percentpure.com/products/honey-almond-nourishing-body-cream)
 
-366 reviews (366)
+370 reviews (370)
 
 $13.00 $26.00
 
@@ -559,7 +559,7 @@ or 4 interest-free payments of **$0.00** with ![Klarna Logo](https://www.100perc
 
  
 
-[🛁 Bath and Body Care Bash! Buy 2 Get 1 Free (USE CODE: SELFCARE24) or Buy 3 Get 2 Free (USE CODE: SELFLOVE24)! 🛁](https://www.100percentpure.com/collections/bath-body "Natural Bath & Body Products")
+[Best Friends Day! Friends And Family Sale Starts Now! 20% OFF Sitewide USE CODE: BESTIES](https://www.100percentpure.com/collections/shop-all "https://www.100percentpure.com/collections/shop-all")
 
 icon-account icon-account icon-arrow-right icon-arrow-down icon-arrow-next icon-arrow-prev icon-slideshow-next icon-slideshow-previous icon-comment icon-heart icon-cart icon-bag icon-close icon-glasses icon-menu icon-minus icon-play icon-plus social-seach social-facebook social-fancy social-instagram social-pinterest social-rss social-twitter
 
