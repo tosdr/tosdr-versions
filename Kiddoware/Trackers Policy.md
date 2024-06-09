@@ -1,6 +1,6 @@
 Toggle navigation
 
- [![Kiddoware – Parental Control & Screen Time Controls](https://kiddoware.com/wp-content/uploads/2018/12/Logo-Kiddoware-e1544716283228.png) ![Kiddoware – Parental Control & Screen Time Controls](https://kiddoware.com/wp-content/uploads/2020/09/Kiddoware-text.png.pagespeed.ce.TXMERIFWG8.png)](https://kiddoware.com/)
+ [![Kiddoware – Parental Control & Screen Time Controls](https://kiddoware.com/wp-content/uploads/2018/12/Logo-Kiddoware-e1544716283228.png) ![Kiddoware – Parental Control & Screen Time Controls](https://kiddoware.com/wp-content/uploads/2020/09/Kiddoware-text.png)](https://kiddoware.com/)
 
 * [Product](#)
     * [Kids Place](https://kiddoware.com/kids-place-parental-control-for-android-devices/)
