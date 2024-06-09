@@ -645,7 +645,7 @@ We found suggestions
     [Contact Us](https://care.hallmark.com/)
     
 
-Get it by Father’s Day: Order by Saturday, June 8. Details
+Get it by Father’s Day: Order by Tues., June 11 with expedited shipping. Details
 
 Hallmark Terms of Use
 ---------------------
