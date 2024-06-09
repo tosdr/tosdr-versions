@@ -241,6 +241,7 @@ Menu
     * [Best Value Gift Sets](https://www.moonpig.com/uk/gifts/our-best-gift-sets/)
     * [Special Offers](https://www.moonpig.com/uk/offers/)
     * [Luxury](https://www.moonpig.com/uk/gifts/luxury/)
+    * [Fathers Day Gifts £15 & Under](https://www.moonpig.com/uk/gifts/fathers-day/15-under/)
     
     ### Most Popular
     
@@ -262,7 +263,7 @@ Menu
     * [For Grandad](https://www.moonpig.com/uk/gifts/fathers-day/for-grandad/)
     * [Top Picks](https://www.moonpig.com/uk/gifts/fathers-day/top-picks/)
     * [Alcohol Gifts](https://www.moonpig.com/uk/gifts/fathers-day/alcohol-gifts/)
-    * [Novelty](https://www.moonpig.com/uk/gifts/fathers-day/novelty/)
+    * [Fun & Novelty](https://www.moonpig.com/uk/gifts/fathers-day/novelty/)
     * [Sweets & Treats](https://www.moonpig.com/uk/gifts/fathers-day/sweets-treats/)
     * [Personalised Gifts](https://www.moonpig.com/uk/gifts/fathers-day/personalised-gifts/)
     * [Experience Gifts](https://www.moonpig.com/uk/gifts/fathers-day/time-for-dad/)
