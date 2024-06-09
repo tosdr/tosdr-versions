@@ -11,7 +11,7 @@ legal
 [https://aixeno.com/legal.html](https://aixeno.com/legal.html "legal - https://aixeno.com/legal.html")
 
 Effective Date: January 01, 2022  
-Updated: June 07, 2024
+Updated: June 08, 2024
 
   
 
@@ -1026,6 +1026,8 @@ The company aixeno inc. has the right to refuse service to any person(s) or enti
 
 **Account Status: Suspended** -
 
+**Account Takeover(s)** - a criminal act of fraud and theft to takeover, misappropriate, misuse, and steal, another's account, information, data, services, goods, and other things of value.
+
 **Account Validation** -
 
 **Account Verification** -
@@ -1292,6 +1294,8 @@ The company aixeno inc. has the right to refuse service to any person(s) or enti
 
 **Card Type (Bank Card)** -
 
+**CASB** - cloud access security broker.
+
 **Cash** - money or its equivalent. United States Dollar bills and coins are both "cash."
 
 **Cause of Action** - any group of facts, evidence, and circumstances that are the legal basis supporting the filing in a court of law any legal dispute that requests a decision, remedy, resolution, or other type of court order.
@@ -1476,6 +1480,8 @@ The company aixeno inc. has the right to refuse service to any person(s) or enti
 
 **Credentials Reset** -
 
+**Credit Approval** -
+
 **Credit Card** - a card issued by a bank, credit union, or other financial institution, which is used to pay money for goods or services. Paying with a credit card involves credit and debt, where amounts paid by using the card must be repaid with additional interest and fees to the card issuing entity.
 
 **Credit** - an amount of money loaned, borrowed, given as financing, given as a spending limit loan, given as a temporary loan, given as a revolving loan, given as debt financing; altogether money given from one person or entity to another person or entity made with a promise of a future performance by the one receiving the credit to repay the amount of credit plus interest and fees, according to specific terms and conditions of a credit agreement, purchase agreement, contract, sale agreement, promissory note, trade financing agreement, financial security agreement, or any other credit and debt agreement.
@@ -1607,6 +1613,8 @@ The company aixeno inc. has the right to refuse service to any person(s) or enti
 **Disclosure** - to make information known by writing (physical or electronic), publishing, delivering, transmitting, sending, or otherwise communicating that information; a complete revelation of all material (significant) facts.
 
 **Discount** - is an amount of money that will be reduced from the actual final total costs or final total prices of goods, products or services sold to consumers. A discount may be stated in percentage terms, which describes a reduction in the final total costs or prices.
+
+**Disinformation** -
 
 **Disparage, Disparaging, Disparagement,** - any false statements of facts and/or misleading statements of facts (written, spoken, published, communicated in any way) that are made by any person or entity with an intent to cause harm (as in financial and/or economic harm) in such a way as to negatively impact and negatively affect: persons, reputations, properties, a business, goods, or services. False statements designed to harm persons may also meet the legal standards of defamation.
 
@@ -2134,6 +2142,8 @@ The company aixeno inc. has the right to refuse service to any person(s) or enti
 
 **Misappropriation** - wrongful and criminal use of another's money, property, or things of value, for unlawful personal gains and profits.
 
+**Misinformation** -
+
 **Mistake** - an error, miscalculation, misunderstanding, misinterpretation, erroneous belief not corresponding to verifiable facts or applicable law.
 
 **Misuse** - use that is improper, unintended by the original designer or manufacturer, used in an unforeseeably harmful manner.
@@ -2217,6 +2227,8 @@ The company aixeno inc. has the right to refuse service to any person(s) or enti
 **One-Time Payment** -
 
 **Online** - an activity, destination, website, webpage, or any other type of computer resource that is available to use on the internet, world-wide-web, or another type of network.
+
+**Online Fraud** -
 
 **Online Payment Agreement** -
 
@@ -2608,6 +2620,8 @@ The company aixeno inc. has the right to refuse service to any person(s) or enti
 
 **SAAS, S.A.A.S.** ( Software As A Service ) - apps delivered to end-users from an internet cloud-based app server, usually provided through a subscription.  [Definition of SAAS - Software As A Service](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-saas "Definition of Software As A Service").
 
+**SASE** - secure access service edge (at the edge of a network).
+
 **SLM, S.L.M. (ai)** - small language model. Please also see "LLM - Large Language Model," in these defintions.
 
 **S.P.A., SPA** - single page application (as in a single web page application) which is rendered, assembled, and presented on a web browser.
@@ -2627,6 +2641,10 @@ The company aixeno inc. has the right to refuse service to any person(s) or enti
 **Scope of Use** - (See also, the definitions of: "actual use," and "adverse use," and "fraudulent use," and "intended use").
 
 **Scraping** - unauthorized and uncompensated information extraction and copying of data by use of an app or software program to visit public websites and internet locations hosting publicly available data in the form of text, images, sounds, videos, music, documents, files, code and/or any other digital information.
+
+**SWG** - secure web gateway.
+
+**Secure** -
 
 **Semi Annual - Semi-Annual** - something happening twice each year.
 
@@ -2686,6 +2704,8 @@ The company aixeno inc. has the right to refuse service to any person(s) or enti
 
 **Spoofing** -
 
+**SSE** - security service edge (at the edge of a network), often works together with, or is a part of, "SASE."
+
 **Statement of Account** -
 
 **Status of Your Account** -
@@ -2701,6 +2721,8 @@ The company aixeno inc. has the right to refuse service to any person(s) or enti
 **Sub Net** - a computer network that is a subset of, and is within, a larger computer network.
 
 **Subject To Approval** - something that must be first evaluated before being approved as agreeable, acceptable, allowed, OK; approval will be given if and only after a condition or conditions are met and fulfilled.
+
+**Subject to Credit Approval** -
 
 **Subscribe** - the act of giving consent to and agreeing in writing to the terms and conditions of a legally binding contract, transaction, exchange, delivery, investment, or other legal arrangement, involving legal rights, property, privileges, pledges, obligations, debts, promises, goods, services, and transactions.
 
@@ -2731,6 +2753,8 @@ The company aixeno inc. has the right to refuse service to any person(s) or enti
 **Support**  ( technology support ) - computer technology help, education, and assistance, for the benefit of a consumer, end-user, customer, or other user of computer technologies.
 
 **Surcharge** - any additional tax, cost, charge, or payment, added to a charge that is paid for something.
+
+**SWG** - secure web gateway.
 
 **System Requirements** - the details of any computer networks, systems, technologies, apps, and software, that are required for any customer, consumer and end user, to begin from their digital devices, software, hardware, and proceed through their internet connection(s), web browser(s), to the internet and world wide web onto a destination website and/or web application of the company. It is also the minimum and recommended technologies, hardware, software, internet connections, capabilities, speeds, operating characteristics, settings, setup, maintenance, and any other helpful technology related descriptions, explanations, and specifications, to make any technology startup, function, and perform as a useful computer technology, network technology, ai technology and/or any other digital technology. Please also see the company website:  [aixeno.com technology requirements](https://aixeno.com/requirements.html "aixeno.com technology requirements").
 
@@ -2915,6 +2939,8 @@ The company aixeno inc. has the right to refuse service to any person(s) or enti
 **Unsubscribe** - to cancel by voluntary action, any subscription: stop the continued and recurring subscription by canceling a subscription.
 
 **Unsuccessful Transaction** - any transaction that could not be completed successfully as it was originally requested, intended, or started. A transaction that was declined, refused, or canceled. A transaction that failed.
+
+**Untruthful Information** -
 
 **Unused Balance** -
 
@@ -3113,6 +3139,8 @@ The company aixeno inc. has the right to refuse service to any person(s) or enti
 **Your Payment Has Been Rejected** -
 
 **ZTN - Z.T.N. - Zero Trust Network** - "strict identity verification for every person and device trying to access resources on a private network, regardless of whether they are sitting within or outside of the network perimeter"  [see Cloudflare definition of ZTN](https://www.cloudflare.com/learning/security/glossary/what-is-zero-trust/ "Cloudflare definition of ZTN")
+
+**ZTNA** - zero trust network access: please see definition of "ZTN - zero trust network" in the definitions above.
 
 * [menu - legal webpage](#menulegalwebpage "menu - legal webpage")       [legal definitions](https://aixeno.com/legal.html#38.%20%20Definitions%20Of%20Legal%20Terms,%20Words,%20And%20Phrases "Definitions Of Legal Terms, Words, And Phrases")
 
