@@ -540,11 +540,11 @@ Quick Links
 Trending News
 -------------
 
-[The Week in Recalls: June 7th, 2024](https://www.forthepeople.com/blog/week-recalls-june-7th-2024/)
+[A Handbook for On-the-Job Injuries](https://www.forthepeople.com/blog/handbook-job-injuries/)
 
-[Splish, Splash, and Stay Safe: Pool Safety Tips for Summer Fun](https://www.forthepeople.com/blog/splish-splash-and-stay-safe-pool-safety-tips-summer-fun/)
+[What Should You Ask for in a Car Accident Settlement?](https://www.forthepeople.com/blog/what-should-you-ask-car-accident-settlement/)
 
-[Honoring Our Veterans' Valiance: Linda's Morgan & Morgan Story](https://www.forthepeople.com/blog/honoring-our-veterans-valiance-lindas-morgan-morgan-story/)
+[How to Hire the Best Truck Accident Lawyer](https://www.forthepeople.com/blog/how-hire-best-truck-accident-lawyer/)
 
 [Read more blog posts](https://www.forthepeople.com/blog/)
 
