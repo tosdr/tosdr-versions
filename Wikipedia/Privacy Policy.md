@@ -70,7 +70,7 @@ Other languages:
 * [беларуская](https://wikimediafoundation.org/wiki/Policy:Privacy_policy/be "Policy:Privacy policy/be (0% translated)")
 * [беларуская (тарашкевіца)](https://wikimediafoundation.org/wiki/Policy:Privacy_policy/be-tarask "Policy:Privacy policy/be-tarask (96% translated)")
 * [български](https://wikimediafoundation.org/wiki/Policy:Privacy_policy/bg "Policy:Privacy policy/bg (44% translated)")
-* [кыргызча](https://wikimediafoundation.org/wiki/Policy:Privacy_policy/ky "Policy:Privacy policy/ky (65% translated)")
+* [кыргызча](https://wikimediafoundation.org/wiki/Policy:Privacy_policy/ky "Policy:Privacy policy/ky (72% translated)")
 * [македонски](https://wikimediafoundation.org/wiki/Policy:Privacy_policy/mk "Policy:Privacy policy/mk (4% translated)")
 * [нохчийн](https://wikimediafoundation.org/wiki/Policy:Privacy_policy/ce "Policy:Privacy policy/ce (4% translated)")
 * [русский](https://wikimediafoundation.org/wiki/Policy:Privacy_policy/ru "Policy:Privacy policy/ru (100% translated)")
