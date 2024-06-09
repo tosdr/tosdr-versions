@@ -285,6 +285,13 @@ _The practices described in this privacy policy statement are current as of 1st 
 
 _Updated 10th November 2023_
 
+[DRIVER BOOST](https://www.gbnews.com/lifestyle/cars/drivers-benefit-groundbreaking-tech-reduce-traffic-delays)
+---------------------------------------------------------------------------------------------------------------
+
+### [Drivers to benefit from ‘groundbreaking’ tech which will reduce traffic delays](https://www.gbnews.com/lifestyle/cars/drivers-benefit-groundbreaking-tech-reduce-traffic-delays)
+
+1717934203.701
+
 About Us
 
 [Our Editorial Charter](https://www.gbnews.uk/about-us/our-editorial-charter)[Our Investors](https://www.gbnews.uk/about-us/our-investors)[Work for Us](https://careers.gbnews.com/)[Advertising](https://www.gbnews.uk/advertise-with-us)[Contact Us](https://www.gbnews.uk/about-us/contact-us)
