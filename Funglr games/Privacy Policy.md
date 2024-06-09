@@ -86,10 +86,13 @@ To review the privacy policy of a third-party company's service, please refer to
 
 All the issues and problems will be resolved pursuant to our Japanese Privacy Policy.
 
-[![auスマートパス](https://image.j-a-net.jp/2443720/840994/)](https://click.j-a-net.jp/2443720/840994/)
+![SaigaNAK](https://assets.saigacdn.com/images/banner_sample336x280.png)
 
 ###  New entry
 
+* [_![Capcom Cafe's Monster Hunter 20th Anniversary Collaboration, Available from May 24](https://i0.wp.com/saiganak.com/wp-content/uploads/2024/05/capcomcafe-monsterhunter-20th-collab-may2024-00-150x150.jpg "Capcom Cafe's Monster Hunter 20th Anniversary Collaboration, Available from May 24")_
+    
+    **Capcom Cafe's Monster Hunter 20th Anniversary Collaboration, Available from May…**2024.05.16(Thu)](https://saiganak.com/event/capcomcafe-monsterhunter-20th-collab-may2024/ "Capcom Cafe's Monster Hunter 20th Anniversary Collaboration, Available from May 24")
 * [_![Is just a week away from EVO Japan 2024! Total Number of Entries, Official Goods announced](https://i0.wp.com/saiganak.com/wp-content/uploads/2024/04/evojapan-2024-goods-00-150x150.jpg "Is just a week away from EVO Japan 2024! Total Number of Entries, Official Goods announced")_
     
     **Is just a week away from EVO Japan 2024! Total Number of Entries, Official Good…**2024.04.20(Sat)](https://saiganak.com/event/evojapan-2024-official-goods/ "Is just a week away from EVO Japan 2024! Total Number of Entries, Official Goods announced")
@@ -102,29 +105,28 @@ All the issues and problems will be resolved pursuant to our Japanese Privacy Po
 * [_![Japanese Manga Artist Akira Toriyama Passes Away at the Age of 68](https://i0.wp.com/saiganak.com/wp-content/uploads/2024/03/akira-toriyama-has-passed-away-00-150x150.jpg "Japanese Manga Artist Akira Toriyama Passes Away at the Age of 68")_
     
     **Japanese Manga Artist Akira Toriyama Passes Away at the Age of 68**2024.03.08(Fri)](https://saiganak.com/news/akira-toriyama-has-passed-away/ "Japanese Manga Artist Akira Toriyama Passes Away at the Age of 68")
-* [_![Coming Soon on Steam, New Trailer Released for Action RPG SAND LAND!](https://i0.wp.com/saiganak.com/wp-content/uploads/2024/02/sandland-game-play-trailer-00-150x150.jpg "Coming Soon on Steam, New Trailer Released for Action RPG SAND LAND!")_
-    
-    **Coming Soon on Steam, New Trailer Released for Action RPG SAND LAND!**2024.02.20(Tue)](https://saiganak.com/news/sandland-gameplay-trailer/ "Coming Soon on Steam, New Trailer Released for Action RPG SAND LAND!")
 
 ### Pocket ranking
 
-[![Disney Plus](//i0.wp.com/saiganak.com/wp-content/uploads/2023/03/banner_disneyplus_336x280a.jpg)](https://accesstra.de/0050f1000ymk)
+* No article
 
-* [![8BitDo's NEOGEO Wireless Controller comes with official SNK license!](https://i0.wp.com/saiganak.com/wp-content/uploads/2023/07/8bitdo-neogeo-wireless-controller-release-00-150x150.jpg "8BitDo's NEOGEO Wireless Controller comes with official SNK license!")
-    
-    8BitDo's NEOGEO Wireless Controller comes with official SNK license!](https://saiganak.com/product/8bitdo-neogeo-wireless-controller-release/ "8BitDo's NEOGEO Wireless Controller comes with official SNK license!")
-* [![Chainsaw Man × ZONe！Collaboration New ](https://i0.wp.com/saiganak.com/wp-content/uploads/2022/09/chainsaw-man-collabo-zone-blood-release-00-150x150.jpg "Chainsaw Man × ZONe！Collaboration New ")
-    
-    Chainsaw Man × ZONe！Collaboration New "ZONe BLOOD" On Sale!](https://saiganak.com/product/chainsawman-collabo-zone-blood-release/ "Chainsaw Man × ZONe！Collaboration New ")
+[![](//imp.accesstra.de/img.php?rk=0055ck000ymk)](https://click.accesstra.de/adv.php?rk=0055ck000ymk)
+
 * [![](https://i0.wp.com/saiganak.com/wp-content/uploads/2023/02/redbull-purple-edition-standard-products-00-150x150.jpg)
     
     "Red Bull Purple Edition" is now a standard product! Now available outside of vending machines!](https://saiganak.com/product/redbull-purple-edition-standard-products/)
-* [![Collaborative Apparel from Final Fantasy XIV x VOGUE JAPAN Special Project Arrives!](https://i0.wp.com/saiganak.com/wp-content/uploads/2023/09/finalfantasyxiv-vogue-japan-collaboration-special-project-apparel-00a-150x150.jpg "Collaborative Apparel from Final Fantasy XIV x VOGUE JAPAN Special Project Arrives!")
+* [![From April Fool's Joke to Reality: Razer's New Energy Drink](https://i0.wp.com/saiganak.com/wp-content/uploads/2019/06/razer-respawn-release00-1-150x150.jpg "From April Fool's Joke to Reality: Razer's New Energy Drink")
     
-    Collaborative Apparel from Final Fantasy XIV x VOGUE JAPAN Special Project Arrives!](https://saiganak.com/product/finalfantasyxiv-vogue-japan-collaboration-special-project-apparel/ "Collaborative Apparel from Final Fantasy XIV x VOGUE JAPAN Special Project Arrives!")
+    From April Fool's Joke to Reality: Razer's New Energy Drink](https://saiganak.com/product/razer-respawn-release/ "From April Fool's Joke to Reality: Razer's New Energy Drink")
+* [![New designs for DualSense and PS5 covers featuring FF XVI Available! Along with a bundle for PS5!](https://i0.wp.com/saiganak.com/wp-content/uploads/2023/04/ps5-ffxvi-limited-items-release-00-150x150.jpg "New designs for DualSense and PS5 covers featuring FF XVI Available! Along with a bundle for PS5!")
+    
+    New designs for DualSense and PS5 covers featuring FF XVI Available! Along with a bundle for PS5!](https://saiganak.com/product/ps5-ffxvi-limited-items-release/ "New designs for DualSense and PS5 covers featuring FF XVI Available! Along with a bundle for PS5!")
 * [![](https://i0.wp.com/saiganak.com/wp-content/uploads/2019/05/neogeo-mini-samuraispirits-limited-edition-preorder00-150x150.jpg)
     
     "NEOGEO mini Samurai Spirits Limited Set" is here!](https://saiganak.com/product/neogeo-mini-samuraispirits-limited-edition-preorder/)
+* [![【Sad News】 NEOGEO mini discontinued...](https://i0.wp.com/saiganak.com/wp-content/uploads/2019/07/neogeo-mini-eol-00-150x150.jpg "【Sad News】 NEOGEO mini discontinued...")
+    
+    【Sad News】 NEOGEO mini discontinued...](https://saiganak.com/product/neogeo-mini-eol/ "【Sad News】 NEOGEO mini discontinued...")
 
 [](#top)
 
