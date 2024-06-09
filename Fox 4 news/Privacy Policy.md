@@ -96,9 +96,9 @@ Search site
 
 [River Flood Warning
 
-until WED 7:00 PM CDT, Navarro County, Henderson County](https://www.fox4news.com/weather-alerts)
+until TUE 11:34 PM CDT, Navarro County, Henderson County](https://www.fox4news.com/weather-alerts)
 
-4
+3
 
 [River Flood Warning
 
@@ -106,11 +106,7 @@ is in effect, Hopkins County, Delta County, Freestone County, Anderson County, A
 
 [River Flood Warning
 
-until SUN 1:00 AM CDT, Red River County](https://www.fox4news.com/weather-alerts)
-
-[River Flood Warning
-
-until MON 11:00 AM CDT, Red River County](https://www.fox4news.com/weather-alerts)
+until TUE 7:00 AM CDT, Red River County](https://www.fox4news.com/weather-alerts)
 
 Privacy Policy
 ==============
@@ -406,35 +402,35 @@ _**Consumer Rights under Virginia, Colorado, Connecticut, and other similar laws
 
 [View More](https://www.fox4news.com/news)
 
- [![Dallas County Sheriff’s Office arrested wrong guy for off-duty Arlington officer’s death](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/09/32/18/darrin-mcmichael.jpg?ve=1&tl=1)
+ [![Meals on Wheels of Collin County distributes 'survival kits' for seniors affected by storms](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/snapshot-77.jpg?ve=1&tl=1)
 
- ![Dallas County Sheriff’s Office arrested wrong guy for off-duty Arlington officer’s death](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/09/32/18/592/333/darrin-mcmichael.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-county-files-warrant-against-new-suspect-arlington-officers-death)
+ ![Meals on Wheels of Collin County distributes 'survival kits' for seniors affected by storms](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/592/333/snapshot-77.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/meals-wheels-collin-county-distributes-survival-kits-seniors-affected-storms)
 
-### [Dallas County Sheriff’s Office arrested wrong guy for off-duty Arlington officer’s death](https://www.fox4news.com/news/dallas-county-files-warrant-against-new-suspect-arlington-officers-death)
+### [Meals on Wheels of Collin County distributes 'survival kits' for seniors affected by storms](https://www.fox4news.com/news/meals-wheels-collin-county-distributes-survival-kits-seniors-affected-storms)
 
- [![Pat Sajak's last show: Wheel of Fortune host retiring after 40-plus years](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/GettyImages-140899671.jpg?ve=1&tl=1)
+ [![Boat ramps, recreation areas closed due to flooding at North Texas lakes](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/060824-NTX-LAKE-LEVELS-RAW-JB_KDFW9f85_186_mp4_00.04.38.28.jpg?ve=1&tl=1)
 
- ![Pat Sajak's last show: Wheel of Fortune host retiring after 40-plus years](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/592/333/GettyImages-140899671.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/pat-sajak-last-show-wheel-fortune)
+ ![Boat ramps, recreation areas closed due to flooding at North Texas lakes](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/592/333/060824-NTX-LAKE-LEVELS-RAW-JB_KDFW9f85_186_mp4_00.04.38.28.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/lake-levels-north-texas-june-2024)
 
-### [Pat Sajak's last show: Wheel of Fortune host retiring after 40-plus years](https://www.fox4news.com/news/pat-sajak-last-show-wheel-fortune)
+### [Boat ramps, recreation areas closed due to flooding at North Texas lakes](https://www.fox4news.com/news/lake-levels-north-texas-june-2024)
 
- [![7 suspects arrested, 12 migrants hospitalized after Texas human smuggling sting](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/P-BLAKE-MIGRANT-SMUGGLING-ARRESTS-9P_00.00.23.18.jpg?ve=1&tl=1)
+ [![3 Texas counties added to federal disaster declaration](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/V-INTRO-DALLAS-COUNTY-STORM-DAMAGE-9P_KDFW93fd_146_00.00.09.42.jpg?ve=1&tl=1)
 
- ![7 suspects arrested, 12 migrants hospitalized after Texas human smuggling sting](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/592/333/P-BLAKE-MIGRANT-SMUGGLING-ARRESTS-9P_00.00.23.18.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/texas-human-smuggling-sting-in-san-antonio)
+ ![3 Texas counties added to federal disaster declaration](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/592/333/V-INTRO-DALLAS-COUNTY-STORM-DAMAGE-9P_KDFW93fd_146_00.00.09.42.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fema-ellis-navarro-terrell)
 
-### [7 suspects arrested, 12 migrants hospitalized after Texas human smuggling sting](https://www.fox4news.com/news/texas-human-smuggling-sting-in-san-antonio)
+### [3 Texas counties added to federal disaster declaration](https://www.fox4news.com/news/fema-ellis-navarro-terrell)
 
- [![DeSoto tanker truck fire forces residents to evacuate](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/snapshot-76.jpg?ve=1&tl=1)
+ [![Caitlin Clark snubbed from Olympic roster partly due to potential backlash over limited playing time: report](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/05/32/18/GettyImages-2154696522.jpg?ve=1&tl=1)
 
- ![DeSoto tanker truck fire forces residents to evacuate](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/592/333/snapshot-76.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/desoto-fire-evacuation)
+ ![Caitlin Clark snubbed from Olympic roster partly due to potential backlash over limited playing time: report](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/05/32/18/592/333/GettyImages-2154696522.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/caitlin-clark-snubbed-from-olympic-roster-partly-due-potential-backlash-over-limited-playing-time-report)
 
-### [DeSoto tanker truck fire forces residents to evacuate](https://www.fox4news.com/news/desoto-fire-evacuation)
+### [Caitlin Clark snubbed from Olympic roster partly due to potential backlash over limited playing time: report](https://www.fox4news.com/sports/caitlin-clark-snubbed-from-olympic-roster-partly-due-potential-backlash-over-limited-playing-time-report)
 
- [![Howard University revokes Diddy's honorary degree](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/3f3f2be2-GettyImages-489180567.jpg?ve=1&tl=1)
+ [![Heliot Ramos drives in all the Giants runs in a 3-1 win at Bochy-managed Texas to take the series](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/GettyImages-2156098923.jpg?ve=1&tl=1)
 
- ![Howard University revokes Diddy's honorary degree](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/592/333/3f3f2be2-GettyImages-489180567.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/howard-university-revokes-diddys-honorary-degree)
+ ![Heliot Ramos drives in all the Giants runs in a 3-1 win at Bochy-managed Texas to take the series](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/592/333/GettyImages-2156098923.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/heliot-ramos-drives-all-giants-runs-3-1-win-bochy-managed-texas-take-series)
 
-### [Howard University revokes Sean 'Diddy' Combs' honorary degree](https://www.fox4news.com/news/howard-university-revokes-diddys-honorary-degree)
+### [Heliot Ramos drives in all the Giants runs in a 3-1 win at Bochy-managed Texas to take the series](https://www.fox4news.com/sports/heliot-ramos-drives-all-giants-runs-3-1-win-bochy-managed-texas-take-series)
 
 ###### [News](https://www.fox4news.com/news)
 
