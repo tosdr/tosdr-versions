@@ -1,6 +1,8 @@
 [Skip to main content](#maincontent) [Skip to footer content](#footercontent)
 
-**Join us at RC Fest!** Happening Now [Learn More](https://www.horizonhobby.com/rc-fest.html)
+**Father's Day Sale** Save over $200! [Shop Now](https://www.horizonhobby.com/fathers-day-sale/)
+
+**Elite Club Members** enjoy FREE 2-Day Shipping and more! [Learn More](https://www.horizonhobby.com/product/rc-club-elite-membership/RCCELITE.html?cp_source=global&cp_medium=tippy-top)
 
  
 
@@ -85,7 +87,9 @@ My store
 
 [](#)
 
-**Join us at RC Fest!** Happening Now [Learn More](https://www.horizonhobby.com/rc-fest.html)
+**Father's Day Sale** Save over $200! [Shop Now](https://www.horizonhobby.com/fathers-day-sale/)
+
+**Elite Club Members** enjoy FREE 2-Day Shipping and more! [Learn More](https://www.horizonhobby.com/product/rc-club-elite-membership/RCCELITE.html?cp_source=global&cp_medium=tippy-top)
 
 * [Shop](https://www.horizonhobby.com/s/horizon-us/home "Shop Radio Control")
 * [Learn](https://www.horizonhobby.com/learn.html "Learn about the RC Hobby")
@@ -377,6 +381,16 @@ Check out all the deals on your favorite RC Product.
 
 Shop & Save!
 
+##### OFFER ENDS SOON
+
+![deals 2](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dw96e4378f/merch/promotions/eGift-Card/944150-Fathers-Day-324x190.jpg)
+
+Not sure what to get dad?
+
+Earn a $10 E-Gift Card for every $100 E-Gift Card purchased. Ends 6/9.
+
+[SHOP NOW](https://www.horizonhobby.com/product/e-gift-card-emailed/HHDGIFT.html)
+
 ![deals 2](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dwd277751a/merch/promotions/905633-fathers-day-2024/905633-324x190.jpg)
 
 Save over $200!
@@ -384,14 +398,6 @@ Save over $200!
 Shop amazing gifts for any budget.
 
 [SHOP NOW](https://www.horizonhobby.com/fathers-day-sale/)
-
-![deals 2](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dw96e4378f/merch/promotions/eGift-Card/944150-Fathers-Day-324x190.jpg)
-
-Not sure what to get dad?
-
-Earn a $10 E-Gift Card for every $100 E-Gift Card purchased.
-
-[SHOP NOW](https://www.horizonhobby.com/product/e-gift-card-emailed/HHDGIFT.html)
 
 ![image asset2](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dwcc75a16e/merch/promotions/nelp/nelp-324x190.jpg)
 
