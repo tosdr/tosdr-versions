@@ -142,15 +142,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [Backup Outlook emails and settings](https://www.backup4all.com/backup-outlook-emails-and-settings-kb.html)  
+* [How to clean a backup](https://www.backup4all.com/how-to-clean-a-backup-kb.html)  
     
-* [How to backup your data to Eucalyptus/Walrus](https://www.backup4all.com/how-to-backup-your-data-to-eucalyptus-walrus-kb.html)  
+* [How to backup your data to Scality](https://www.backup4all.com/how-to-backup-your-data-to-scality-kb.html)  
     
-* [How to back up data files from Akaza using Ba ...](https://www.backup4all.com/how-to-back-up-data-files-from-akaza-using-backup4all-kb.html)  
+* [How to use the command line application](https://www.backup4all.com/how-to-use-the-command-line-application-kb.html)  
     
-* [How to back up data files from Tiscali using ...](https://www.backup4all.com/how-to-back-up-data-files-from-tiscali-using-backup4all-kb.html)  
+* [How to restore a backup job created with a Ba ...](https://www.backup4all.com/how-to-restore-a-backup-job-created-with-a-backup4all-plugin-kb.html)  
     
-* [How to keep multiple Mirror backup versions i ...](https://www.backup4all.com/how-to-keep-multiple-mirror-backup-versions-in-destination-kb.html)  
+* [Install Backup4all using the command line par ...](https://www.backup4all.com/how-to-install-backup4all-using-the-command-line-parameters-kb.html)  
     
 
 Choose language:
