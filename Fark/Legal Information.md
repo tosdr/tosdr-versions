@@ -220,12 +220,11 @@ It's Not News, It's Fark
 
 [Report](https://www.fark.com/farkback/)
 
-Want more stories with less ads? Try
+If you like these links, you'll love
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-It's what the cool kids are doing.  
-It also helps us pay the bills.
+More funny for your money.
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -325,16 +324,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [What could go wrong carrying $200,000 in cash?](https://www.fark.com/goto/13281140) ( [whdh.com](https://www.fark.com/goto/13281140) ) » [(15 comments)](https://www.fark.com/comments/13281140/What-could-go-wrong-carrying-$200000-in-cash) |
-| [Discussion](https://www.fark.com/discussion/) | [Stonks, music history, geography, and Florida Man are all on the Fark Weird News Quiz, May 30 - June 5 D-Day Edition](https://www.fark.com/goto/13281220) ( [fark.com](https://www.fark.com/goto/13281220) ) » [(6 comments)](https://www.fark.com/comments/13281220/Stonks-music-history-geography-Florida-Man-are-all-on-Fark-Weird-News-Quiz-May-30-June-5-D-Day-Edition) |
-| [Sports](https://www.fark.com/sports/) | [Lexi Thompson to retire from professional golf at age 29. Maybe a little burned out, having turned pro at 15](https://www.fark.com/goto/13281074) ( [cnn.com](https://www.fark.com/goto/13281074) ) » [(5 comments)](https://www.fark.com/comments/13281074/Lexi-Thompson-to-retire-from-professional-golf-at-age-29-Maybe-a-little-burned-out-having-turned-pro-at-15) |
-| [Business](https://www.fark.com/business/) | [Old and busted: Using airplanes to advertise to people on the ground. New hotness: Using airplanes to advertise to flying passengers](https://www.fark.com/goto/13281086) ( [cnbc.com](https://www.fark.com/goto/13281086) ) » [(3 comments)](https://www.fark.com/comments/13281086/Old-busted-Using-airplanes-to-advertise-to-people-on-ground-New-hotness-Using-airplanes-to-advertise-to-flying-passengers) |
-| [STEM](https://www.fark.com/stem/) | [Those who thought they saw an ocean sunfish washed ashore in Oregon may have been hoodwinked](https://www.fark.com/goto/13281078) ( [oregonlive.com](https://www.fark.com/goto/13281078) ) » [(3 comments)](https://www.fark.com/comments/13281078/Those-who-thought-they-saw-an-ocean-sunfish-washed-ashore-in-Oregon-may-have-been-hoodwinked) |
-| [Entertainment](https://www.fark.com/entertainment/) | [Old and busted: Phantom of the Opera. New hotness: Phantom of the Eras Tour](https://www.fark.com/goto/13280860) ( [yahoo.com](https://www.fark.com/goto/13280860) ) » [(12 comments)](https://www.fark.com/comments/13280860/Old-busted-Phantom-of-Opera-New-hotness-Phantom-of-Eras-Tour) |
-| [Fandom](https://www.fark.com/fandom/) | [Nine video games you can lose before you leave the introduction](https://www.fark.com/goto/13281152) ( [thegamer.com](https://www.fark.com/goto/13281152) ) » [(23 comments)](https://www.fark.com/comments/13281152/Nine-video-games-you-can-lose-before-you-leave-introduction) |
-| [D'awww](https://www.fark.com/dawww/) | [What should come after "I saw a turtle," anyway?](https://www.fark.com/goto/13280946) ( [youtube.com](https://www.fark.com/goto/13280946) ) » [(12 comments)](https://www.fark.com/comments/13280946/What-should-come-after-I-saw-a-turtle-anyway) |
-| [Food](https://www.fark.com/food/) | [Ruffles have rrRidges, and pretty soon Korean-Style Sweet & Spicy Chili Flavor](https://www.fark.com/goto/13280922) ( [msn.com](https://www.fark.com/goto/13280922) ) » [(5 comments)](https://www.fark.com/comments/13280922/Ruffles-have-rrRidges-pretty-soon-Korean-Style-Sweet-Spicy-Chili-Flavor) |
-| [Politics](https://www.fark.com/politics/) | [Mayor to get $126,000 raise, making him more highly paid than the mayor of New York, thanks to counselors who will be voting on their own raises this month](https://www.fark.com/goto/13281118) ( [boston.com](https://www.fark.com/goto/13281118) ) » [(7 comments)](https://www.fark.com/comments/13281118/Mayor-to-get-$126000-raise-making-him-more-highly-paid-than-mayor-of-New-York-thanks-to-counselors-who-will-be-voting-on-their-own-raises-this-month) |
+| [Main](https://www.fark.com/) | [Get 'em a body bag, yeah](https://www.fark.com/goto/13282086) ( [theguardian.com](https://www.fark.com/goto/13282086) ) » [(5 comments)](https://www.fark.com/comments/13282086/Get-em-a-body-bag-yeah) |
+| [Discussion](https://www.fark.com/discussion/) | [Will EVIL cheat his way to the IWGP World Title? Can HENARE win his 1st-ever title? Who will be crowned this year's Best of the Super Jr.? LEC Presents DOMINION 6.9 in OSAKA-JO HALL ～BOSJr 31 FINAL @ 3:00 AM ET on NJPWWorld.com, the King of Sports](https://www.fark.com/goto/13281846) ( [news.njpw1972.com](https://www.fark.com/goto/13281846) ) » [(70 comments)](https://www.fark.com/comments/13281846/Will-EVIL-cheat-his-way-to-IWGP-World-Title-Can-HENARE-win-his-1st-ever-title-Who-will-be-crowned-this-years-Best-of-Super-Jr-LEC-Presents-DOMINION-69-in-OSAKA-JO-HALL-BOSJr-31-FINAL-300-AM-ET-on-NJPWWorldcom-King-of-Sports) |
+| [Sports](https://www.fark.com/sports/) | [Will EVIL cheat his way to the IWGP World Title? Can HENARE win his 1st-ever title? Who will be crowned this year's Best of the Super Jr.? LEC Presents DOMINION 6.9 in OSAKA-JO HALL ～BOSJr 31 FINAL @ 3:00 AM ET on NJPWWorld.com, the King of Sports](https://www.fark.com/goto/13281846) ( [news.njpw1972.com](https://www.fark.com/goto/13281846) ) » [(70 comments)](https://www.fark.com/comments/13281846/Will-EVIL-cheat-his-way-to-IWGP-World-Title-Can-HENARE-win-his-1st-ever-title-Who-will-be-crowned-this-years-Best-of-Super-Jr-LEC-Presents-DOMINION-69-in-OSAKA-JO-HALL-BOSJr-31-FINAL-300-AM-ET-on-NJPWWorldcom-King-of-Sports) |
+| [Business](https://www.fark.com/business/) | [Unsold Teslas fill up shopping mall parking lots across the US](https://www.fark.com/goto/13282220) ( [jalopnik.com](https://www.fark.com/goto/13282220) ) » [(6 comments)](https://www.fark.com/comments/13282220/Unsold-Teslas-fill-up-shopping-mall-parking-lots-across-US) |
+| [STEM](https://www.fark.com/stem/) | [Researchers discover it might be hard when battling dementia](https://www.fark.com/goto/13282176) ( [ox.ac.uk](https://www.fark.com/goto/13282176) ) » [(3 comments)](https://www.fark.com/comments/13282176/Researchers-discover-it-might-be-hard-when-battling-dementia) |
+| [Entertainment](https://www.fark.com/entertainment/) | [Max chooses cancelation virtue over Tokyo Vice](https://www.fark.com/goto/13282130) ( [hollywoodreporter.com](https://www.fark.com/goto/13282130) ) » [(1 comment)](https://www.fark.com/comments/13282130/Max-chooses-cancelation-virtue-over-Tokyo-Vice) |
+| [Fandom](https://www.fark.com/fandom/) | [Man lost 70 pounds by combining treadmill and video games. Subby's stationary bike covered in clothes and unavailable for comment](https://www.fark.com/goto/13282076) ( [newsweek.com](https://www.fark.com/goto/13282076) ) » [(7 comments)](https://www.fark.com/comments/13282076/Man-lost-70-pounds-by-combining-treadmill-video-games-Subbys-stationary-bike-covered-in-clothes-unavailable-for-comment) |
+| [D'awww](https://www.fark.com/dawww/) | ["It didn't feel real. I thought there was no way it could be him. It had been twelve years - he went missing when I was 17. I thought no cat could survive a dozen years on the street." Welcome to a very happy reunion on Caturday](https://www.fark.com/goto/13279710) ( [goodnewsnetwork.org](https://www.fark.com/goto/13279710) ) » [(586 comments)](https://www.fark.com/comments/13279710/It-didnt-feel-real-I-thought-there-was-no-way-it-could-be-him-It-had-been-twelve-years-he-went-missing-when-I-was-17-I-thought-no-cat-could-survive-a-dozen-years-on-street-Welcome-to-a-very-happy-reunion-on-Caturday) |
+| [Food](https://www.fark.com/food/) | [Beginner's guide to grilling vegetables makes it easy-peasy](https://www.fark.com/goto/13282074) ( [themanual.com](https://www.fark.com/goto/13282074) ) » [(4 comments)](https://www.fark.com/comments/13282074/Beginners-guide-to-grilling-vegetables-makes-it-easy-peasy) |
+| [Politics](https://www.fark.com/politics/) | [No good deed goes unpunished](https://www.fark.com/goto/13282190) ( [npr.org](https://www.fark.com/goto/13282190) ) » [(7 comments)](https://www.fark.com/comments/13282190/No-good-deed-goes-unpunished) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -344,7 +343,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Jun 08 2024 00:42:23  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Jun 09 2024 07:42:06  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
