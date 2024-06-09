@@ -73,71 +73,71 @@ Toggle navigation[OneGreenPlanet](https://www.onegreenplanet.org/)
         
         [Plant-Based Cookbooks to Buy](https://www.onegreenplanet.org/vegancookbooks)
         
-    * [](https://www.onegreenplanet.org/vegan-food/enhance-flavors-savory-dishes-sweet-spices/)
+    * [](https://www.onegreenplanet.org/natural-health/10-delicious-and-nutritious-natural-recipes-to-reduce-inflammation-from-gerd/)
         
-        [](https://www.onegreenplanet.org/vegan-food/enhance-flavors-savory-dishes-sweet-spices/)[![Anise](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEzAQAAAACUZA7nAAAAAnRSTlMAAHaTzTgAAAAoSURBVHja7cExAQAAAMKg9U9tB2+gAAAAAAAAAAAAAAAAAAAAAADgMEbBAAG19/toAAAAAElFTkSuQmCC)
+        [](https://www.onegreenplanet.org/natural-health/10-delicious-and-nutritious-natural-recipes-to-reduce-inflammation-from-gerd/)[![Berry Smoothie Bowl](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEzAQAAAACUZA7nAAAAAnRSTlMAAHaTzTgAAAAoSURBVHja7cExAQAAAMKg9U9tB2+gAAAAAAAAAAAAAAAAAAAAAADgMEbBAAG19/toAAAAAElFTkSuQmCC)
         
-        ![Anise](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2018/05/12193485655_989c5d3183_o.jpg?fit=460%2C307&ssl=1)](https://www.onegreenplanet.org/vegan-food/enhance-flavors-savory-dishes-sweet-spices/)
+        ![Berry Smoothie Bowl](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2023/11/berry-smoothie-bowl-6-1080x720-1.webp?fit=460%2C307&ssl=1)](https://www.onegreenplanet.org/natural-health/10-delicious-and-nutritious-natural-recipes-to-reduce-inflammation-from-gerd/)
         
-        [How to Enhance The Flavors of Savory Dishes with Sweet Spices](https://www.onegreenplanet.org/vegan-food/enhance-flavors-savory-dishes-sweet-spices/)
+        [10 Delicious and Nutritious Natural Recipes to Reduce Inflammation from GERD](https://www.onegreenplanet.org/natural-health/10-delicious-and-nutritious-natural-recipes-to-reduce-inflammation-from-gerd/)
         
-    * [](https://www.onegreenplanet.org/vegan-food/indian-fusion-recipes/)
+    * [](https://www.onegreenplanet.org/vegan-food/15-recipes-for-vegan-spring-rolls/)
         
-        [](https://www.onegreenplanet.org/vegan-food/indian-fusion-recipes/)[![Tandoori Tofu Scramble Tacos](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEgAQAAAAARJn7SAAAAAnRSTlMAAHaTzTgAAAAnSURBVHja7cEBDQAAAMKg909tDwcUAAAAAAAAAAAAAAAAAAAAAM8GQmAAAac4fHcAAAAASUVORK5CYII=)
+        [](https://www.onegreenplanet.org/vegan-food/15-recipes-for-vegan-spring-rolls/)[![Fresh Veggie Spring Rolls](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAV4AAAFeAQAAAADlUEq3AAAAAnRSTlMAAHaTzTgAAAAmSURBVGje7cExAQAAAMKg9U/taQmgAAAAAAAAAAAAAAAAAAAAuAE9hgABlryc8QAAAABJRU5ErkJggg==)
         
-        ![Tandoori Tofu Scramble Tacos](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2017/04/tandoor-tofu-scramble.jpg?fit=460%2C288&ssl=1)](https://www.onegreenplanet.org/vegan-food/indian-fusion-recipes/)
+        ![Fresh Veggie Spring Rolls](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/05/roll-2-1.webp?fit=350%2C350&ssl=1)](https://www.onegreenplanet.org/vegan-food/15-recipes-for-vegan-spring-rolls/)
         
-        [15 Incredible Plant-Based Indian Fusion Recipes!](https://www.onegreenplanet.org/vegan-food/indian-fusion-recipes/)
+        [15 Recipes for Vegan Spring Rolls](https://www.onegreenplanet.org/vegan-food/15-recipes-for-vegan-spring-rolls/)
         
     
 * [News](https://www.onegreenplanet.org/channel/news/)
-    * [](https://www.onegreenplanet.org/animals/dog-park-showdown-speedy-malligator-takes-the-crown/)
+    * [](https://www.onegreenplanet.org/news/weekly-top-news-vermont-is-holding-oil-companies-accountable-plastic-toy-bricks-are-creating-microplastic-pollution-redditor-asks-how-to-support-vegan-girlfriend-and-more/)
         
-        [](https://www.onegreenplanet.org/animals/dog-park-showdown-speedy-malligator-takes-the-crown/)[![Belgian Malinois Running](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEzAQAAAACUZA7nAAAAAnRSTlMAAHaTzTgAAAAoSURBVHja7cExAQAAAMKg9U9tB2+gAAAAAAAAAAAAAAAAAAAAAADgMEbBAAG19/toAAAAAElFTkSuQmCC)
+        [](https://www.onegreenplanet.org/news/weekly-top-news-vermont-is-holding-oil-companies-accountable-plastic-toy-bricks-are-creating-microplastic-pollution-redditor-asks-how-to-support-vegan-girlfriend-and-more/)[![Oil refinery](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEzAQAAAACUZA7nAAAAAnRSTlMAAHaTzTgAAAAoSURBVHja7cExAQAAAMKg9U9tB2+gAAAAAAAAAAAAAAAAAAAAAADgMEbBAAG19/toAAAAAElFTkSuQmCC)
         
-        ![Belgian Malinois Running](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/05/belgian-malinois-e1717195729772.jpg?fit=460%2C307&ssl=1)](https://www.onegreenplanet.org/animals/dog-park-showdown-speedy-malligator-takes-the-crown/)
+        ![Oil refinery](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/06/shutterstock-2033887805.jpg?fit=460%2C307&ssl=1)](https://www.onegreenplanet.org/news/weekly-top-news-vermont-is-holding-oil-companies-accountable-plastic-toy-bricks-are-creating-microplastic-pollution-redditor-asks-how-to-support-vegan-girlfriend-and-more/)
         
-        [Dog Park Showdown: Speedy “Malligator” Takes the Crown](https://www.onegreenplanet.org/animals/dog-park-showdown-speedy-malligator-takes-the-crown/)
+        [Weekly Top News: Vermont is Holding Oil Companies Accountable, Plastic Toy Bricks are Creating Microplastic Pollution, Redditor Asks How to Support Vegan Girlfriend, and More!](https://www.onegreenplanet.org/news/weekly-top-news-vermont-is-holding-oil-companies-accountable-plastic-toy-bricks-are-creating-microplastic-pollution-redditor-asks-how-to-support-vegan-girlfriend-and-more/)
         
-    * [](https://www.onegreenplanet.org/animals/mischievous-puppy-trashes-plant-wins-hearts-with-adorable-defense/)
+    * [](https://www.onegreenplanet.org/news/weekly-top-animal-and-video-news-surfboard-stealing-otter-returns-to-santa-cruz-animal-testing-company-pays-historic-fine-african-penguins-face-dire-future-and-more/)
         
-        [](https://www.onegreenplanet.org/animals/mischievous-puppy-trashes-plant-wins-hearts-with-adorable-defense/)[![Dachshund rolling on back](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAFIAQAAAAD1gfPlAAAAAnRSTlMAAHaTzTgAAAAnSURBVHja7cEBAQAAAICQ/q/uCAoAAAAAAAAAAAAAAAAAAAAAAAAYS5gAAdpvf0YAAAAASUVORK5CYII=)
+        [](https://www.onegreenplanet.org/news/weekly-top-animal-and-video-news-surfboard-stealing-otter-returns-to-santa-cruz-animal-testing-company-pays-historic-fine-african-penguins-face-dire-future-and-more/)[![Beagle in a cage](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEzAQAAAACUZA7nAAAAAnRSTlMAAHaTzTgAAAAoSURBVHja7cExAQAAAMKg9U9tB2+gAAAAAAAAAAAAAAAAAAAAAADgMEbBAAG19/toAAAAAElFTkSuQmCC)
         
-        ![Dachshund rolling on back](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/05/dachshund-e1717197119100.jpg?fit=460%2C328&ssl=1)](https://www.onegreenplanet.org/animals/mischievous-puppy-trashes-plant-wins-hearts-with-adorable-defense/)
+        ![Beagle in a cage](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/06/shutterstock-1563568051.jpg?fit=460%2C307&ssl=1)](https://www.onegreenplanet.org/news/weekly-top-animal-and-video-news-surfboard-stealing-otter-returns-to-santa-cruz-animal-testing-company-pays-historic-fine-african-penguins-face-dire-future-and-more/)
         
-        [Mischievous Puppy Trashes Plant, Wins Hearts with Adorable Defense](https://www.onegreenplanet.org/animals/mischievous-puppy-trashes-plant-wins-hearts-with-adorable-defense/)
+        [Weekly Top Animal and Video News: Surfboard-Stealing Otter Returns to Santa Cruz, Animal Testing Company Pays Historic Fine, African Penguins Face Dire Future, and More!](https://www.onegreenplanet.org/news/weekly-top-animal-and-video-news-surfboard-stealing-otter-returns-to-santa-cruz-animal-testing-company-pays-historic-fine-african-penguins-face-dire-future-and-more/)
         
-    * [](https://www.onegreenplanet.org/animals/security-cam-captures-clever-shiba-inu-requesting-strangers-help-to-ring-doorbell/)
+    * [](https://www.onegreenplanet.org/animals/watch-this-dog-get-excited-when-dad-returns-home/)
         
-        [](https://www.onegreenplanet.org/animals/security-cam-captures-clever-shiba-inu-requesting-strangers-help-to-ring-doorbell/)[![Shiba inu at the Front Door](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEzAQAAAACUZA7nAAAAAnRSTlMAAHaTzTgAAAAoSURBVHja7cExAQAAAMKg9U9tB2+gAAAAAAAAAAAAAAAAAAAAAADgMEbBAAG19/toAAAAAElFTkSuQmCC)
+        [](https://www.onegreenplanet.org/animals/watch-this-dog-get-excited-when-dad-returns-home/)[![italian greyhound](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAExAQAAAADZrK/sAAAAAnRSTlMAAHaTzTgAAAAoSURBVHja7cEBDQAAAMKg909tDjegAAAAAAAAAAAAAAAAAAAAAAA4N0ZLAAEUf2MtAAAAAElFTkSuQmCC)
         
-        ![Shiba inu at the Front Door](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/05/shiba-inu-at-door-e1717198655598.jpg?fit=460%2C307&ssl=1)](https://www.onegreenplanet.org/animals/security-cam-captures-clever-shiba-inu-requesting-strangers-help-to-ring-doorbell/)
+        ![italian greyhound](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/06/shutterstock-1126315250-e1717769779289.jpg?fit=460%2C305&ssl=1)](https://www.onegreenplanet.org/animals/watch-this-dog-get-excited-when-dad-returns-home/)
         
-        [Security Cam Captures Clever Shiba Inu Requesting Stranger’s Help to Ring Doorbell](https://www.onegreenplanet.org/animals/security-cam-captures-clever-shiba-inu-requesting-strangers-help-to-ring-doorbell/)
+        [Watch This Dog Get Excited When Dad Returns Home](https://www.onegreenplanet.org/animals/watch-this-dog-get-excited-when-dad-returns-home/)
         
-    * [](https://www.onegreenplanet.org/animals/young-animal-advocate-saves-1400-animals-from-euthanasia-in-mississippi/)
+    * [](https://www.onegreenplanet.org/animals/jack-russell-charms-the-internet-with-adorable-delivery-encounter/)
         
-        [](https://www.onegreenplanet.org/animals/young-animal-advocate-saves-1400-animals-from-euthanasia-in-mississippi/)[![dog shelter](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEyAQAAAABfON1CAAAAAnRSTlMAAHaTzTgAAAAnSURBVHja7cEBAQAAAIIg/69uSEABAAAAAAAAAAAAAAAAAAAAAPBrRoYAAQ4SziQAAAAASUVORK5CYII=)
+        [](https://www.onegreenplanet.org/animals/jack-russell-charms-the-internet-with-adorable-delivery-encounter/)[![dog with tennis ball](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEzAQAAAACUZA7nAAAAAnRSTlMAAHaTzTgAAAAoSURBVHja7cExAQAAAMKg9U9tB2+gAAAAAAAAAAAAAAAAAAAAAADgMEbBAAG19/toAAAAAElFTkSuQmCC)
         
-        ![dog shelter](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/05/shutterstock-2170261471-e1716985070932.jpg?fit=460%2C306&ssl=1)](https://www.onegreenplanet.org/animals/young-animal-advocate-saves-1400-animals-from-euthanasia-in-mississippi/)
+        ![dog with tennis ball](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/06/shutterstock-2361818153-e1717768700149.jpg?fit=460%2C307&ssl=1)](https://www.onegreenplanet.org/animals/jack-russell-charms-the-internet-with-adorable-delivery-encounter/)
         
-        [Young Animal Advocate Saves 1,400 Animals from Euthanasia in Mississippi](https://www.onegreenplanet.org/animals/young-animal-advocate-saves-1400-animals-from-euthanasia-in-mississippi/)
+        [Jack Russell Charms the Internet with Adorable Delivery Encounter](https://www.onegreenplanet.org/animals/jack-russell-charms-the-internet-with-adorable-delivery-encounter/)
         
-    * [](https://www.onegreenplanet.org/animals/for-the-first-time-in-decades-rare-birds-nest-on-restored-chilean-island/)
+    * [](https://www.onegreenplanet.org/animals/adorable-concertgoer-steals-the-spotlight/)
         
-        [](https://www.onegreenplanet.org/animals/for-the-first-time-in-decades-rare-birds-nest-on-restored-chilean-island/)[![Peruvian Diving Petrel](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEyAQAAAABfON1CAAAAAnRSTlMAAHaTzTgAAAAnSURBVHja7cEBAQAAAIIg/69uSEABAAAAAAAAAAAAAAAAAAAAAPBrRoYAAQ4SziQAAAAASUVORK5CYII=)
+        [](https://www.onegreenplanet.org/animals/adorable-concertgoer-steals-the-spotlight/)[![dog at concert in the park](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEzAQAAAACUZA7nAAAAAnRSTlMAAHaTzTgAAAAoSURBVHja7cExAQAAAMKg9U9tB2+gAAAAAAAAAAAAAAAAAAAAAADgMEbBAAG19/toAAAAAElFTkSuQmCC)
         
-        ![Peruvian Diving Petrel](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/06/shutterstock-1458568223-e1717429325496.jpg?fit=460%2C306&ssl=1)](https://www.onegreenplanet.org/animals/for-the-first-time-in-decades-rare-birds-nest-on-restored-chilean-island/)
+        ![dog at concert in the park](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/06/shutterstock-2300963271-e1717768173391.jpg?fit=460%2C307&ssl=1)](https://www.onegreenplanet.org/animals/adorable-concertgoer-steals-the-spotlight/)
         
-        [For the First Time in Decades, Rare Birds Nest on Restored Chilean Island](https://www.onegreenplanet.org/animals/for-the-first-time-in-decades-rare-birds-nest-on-restored-chilean-island/)
+        [Adorable Concertgoer Steals the Spotlight](https://www.onegreenplanet.org/animals/adorable-concertgoer-steals-the-spotlight/)
         
-    * [](https://www.onegreenplanet.org/animals/colorado-gray-wolves-possibly-cross-state-lines-into-wyoming/)
+    * [](https://www.onegreenplanet.org/animals/new-airline-provides-luxury-air-travel-for-dogs-and-their-humans/)
         
-        [](https://www.onegreenplanet.org/animals/colorado-gray-wolves-possibly-cross-state-lines-into-wyoming/)[![Gray wolf in Colorado](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAE7AQAAAAB4N4yKAAAAAnRSTlMAAHaTzTgAAAAoSURBVHja7cExAQAAAMKg9U/tYwygAAAAAAAAAAAAAAAAAAAAAAAAbkiZAAFno+sqAAAAAElFTkSuQmCC)
+        [](https://www.onegreenplanet.org/animals/new-airline-provides-luxury-air-travel-for-dogs-and-their-humans/)[![dog on plane](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEzAQAAAACUZA7nAAAAAnRSTlMAAHaTzTgAAAAoSURBVHja7cExAQAAAMKg9U9tB2+gAAAAAAAAAAAAAAAAAAAAAADgMEbBAAG19/toAAAAAElFTkSuQmCC)
         
-        ![Gray wolf in Colorado](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/06/shutterstock-187097084.jpg?fit=460%2C315&ssl=1)](https://www.onegreenplanet.org/animals/colorado-gray-wolves-possibly-cross-state-lines-into-wyoming/)
+        ![dog on plane](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/06/shutterstock-2172054725-e1717508742734.jpg?fit=460%2C307&ssl=1)](https://www.onegreenplanet.org/animals/new-airline-provides-luxury-air-travel-for-dogs-and-their-humans/)
         
-        [Colorado Gray Wolves Possibly Cross State Lines into Wyoming](https://www.onegreenplanet.org/animals/colorado-gray-wolves-possibly-cross-state-lines-into-wyoming/)
+        [New Airline Provides Luxury Air Travel for Dogs and Their Humans](https://www.onegreenplanet.org/animals/new-airline-provides-luxury-air-travel-for-dogs-and-their-humans/)
         
 * [Earth](https://www.onegreenplanet.org/channel/environment/)
     * [](https://www.onegreenplanet.org/environment/7-upcoming-environmental-grants-to-apply-for/)
@@ -244,6 +244,30 @@ Toggle navigation[OneGreenPlanet](https://www.onegreenplanet.org/)
         
         [Must-Have Plant-Based Cookbooks](https://www.onegreenplanet.org/vegancookbooks)
         
+    * [](https://www.onegreenplanet.org/natural-health/12-ways-to-keep-your-gut-and-digestive-system-in-tip-top-shape/)
+        
+        [](https://www.onegreenplanet.org/natural-health/12-ways-to-keep-your-gut-and-digestive-system-in-tip-top-shape/)[![Gut health](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEMAQAAAABhSLufAAAAAnRSTlMAAHaTzTgAAAAmSURBVGje7cExAQAAAMKg9U9tCU+gAAAAAAAAAAAAAAAAAAAAeBk9xAABOfpZngAAAABJRU5ErkJggg==)
+        
+        ![Gut health](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2023/11/screen-shot-2021-10-20-at-7-25-13-pm-e1664845230180.webp?fit=460%2C268&ssl=1)](https://www.onegreenplanet.org/natural-health/12-ways-to-keep-your-gut-and-digestive-system-in-tip-top-shape/)
+        
+        [12 Ways to Keep Your Gut and Digestive System in Tip-Top Shape](https://www.onegreenplanet.org/natural-health/12-ways-to-keep-your-gut-and-digestive-system-in-tip-top-shape/)
+        
+    * [](https://www.onegreenplanet.org/natural-health/10-delicious-and-nutritious-natural-recipes-to-reduce-inflammation-from-gerd/)
+        
+        [](https://www.onegreenplanet.org/natural-health/10-delicious-and-nutritious-natural-recipes-to-reduce-inflammation-from-gerd/)[![Berry Smoothie Bowl](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEzAQAAAACUZA7nAAAAAnRSTlMAAHaTzTgAAAAoSURBVHja7cExAQAAAMKg9U9tB2+gAAAAAAAAAAAAAAAAAAAAAADgMEbBAAG19/toAAAAAElFTkSuQmCC)
+        
+        ![Berry Smoothie Bowl](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2023/11/berry-smoothie-bowl-6-1080x720-1.webp?fit=460%2C307&ssl=1)](https://www.onegreenplanet.org/natural-health/10-delicious-and-nutritious-natural-recipes-to-reduce-inflammation-from-gerd/)
+        
+        [10 Delicious and Nutritious Natural Recipes to Reduce Inflammation from GERD](https://www.onegreenplanet.org/natural-health/10-delicious-and-nutritious-natural-recipes-to-reduce-inflammation-from-gerd/)
+        
+    * [](https://www.onegreenplanet.org/natural-health/8-natural-plant-based-recipes-to-alkalize-your-body-and-restore-ph-balance-naturally/)
+        
+        [](https://www.onegreenplanet.org/natural-health/8-natural-plant-based-recipes-to-alkalize-your-body-and-restore-ph-balance-naturally/)[![Broccoli Spinach Soup With Toasted Chickpeas](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEgAQAAAAARJn7SAAAAAnRSTlMAAHaTzTgAAAAnSURBVHja7cEBDQAAAMKg909tDwcUAAAAAAAAAAAAAAAAAAAAAM8GQmAAAac4fHcAAAAASUVORK5CYII=)
+        
+        ![Broccoli Spinach Soup With Toasted Chickpeas](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2023/12/chickpeasoup.webp?fit=460%2C288&ssl=1)](https://www.onegreenplanet.org/natural-health/8-natural-plant-based-recipes-to-alkalize-your-body-and-restore-ph-balance-naturally/)
+        
+        [8 Natural Plant-Based Recipes to Alkalize Your Body and Restore pH Balance Naturally](https://www.onegreenplanet.org/natural-health/8-natural-plant-based-recipes-to-alkalize-your-body-and-restore-ph-balance-naturally/)
+        
     * [](https://www.onegreenplanet.org/natural-health/foods-that-lower-your-blood-sugar-quickly/)
         
         [](https://www.onegreenplanet.org/natural-health/foods-that-lower-your-blood-sugar-quickly/)[![healthy quinoa salad vegan](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABLAAAAeAAQAAAAD2yJNSAAAAAnRSTlMAAHaTzTgAAAEwSURBVHja7cEBDQAAAMKg909tDjegAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIBXA2y8AAGZPvUVAAAAAElFTkSuQmCC)
@@ -259,30 +283,6 @@ Toggle navigation[OneGreenPlanet](https://www.onegreenplanet.org/)
         ![support for older adults, hand holding](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2023/04/shutterstock_150773027-scaled-e1681911847175.jpg?fit=460%2C307&ssl=1)](https://www.onegreenplanet.org/natural-health/social-frailty-empowering-older-adults-through-connection-and-support/)
         
         [Social Frailty: Empowering Older Adults through Connection and Support](https://www.onegreenplanet.org/natural-health/social-frailty-empowering-older-adults-through-connection-and-support/)
-        
-    * [](https://www.onegreenplanet.org/natural-health/8-natural-plant-based-recipes-to-unclog-your-lungs-and-boost-respiratory-health-naturally/)
-        
-        [](https://www.onegreenplanet.org/natural-health/8-natural-plant-based-recipes-to-unclog-your-lungs-and-boost-respiratory-health-naturally/)[![Satsuma Orange Chickpea Salad](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEgAQAAAAARJn7SAAAAAnRSTlMAAHaTzTgAAAAnSURBVHja7cEBDQAAAMKg909tDwcUAAAAAAAAAAAAAAAAAAAAAM8GQmAAAac4fHcAAAAASUVORK5CYII=)
-        
-        ![Satsuma Orange Chickpea Salad](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2023/11/satsumaorangesalad-5.webp?fit=460%2C288&ssl=1)](https://www.onegreenplanet.org/natural-health/8-natural-plant-based-recipes-to-unclog-your-lungs-and-boost-respiratory-health-naturally/)
-        
-        [8 Natural Plant-Based Recipes to Unclog Your Lungs and Boost Respiratory Health Naturally](https://www.onegreenplanet.org/natural-health/8-natural-plant-based-recipes-to-unclog-your-lungs-and-boost-respiratory-health-naturally/)
-        
-    * [](https://www.onegreenplanet.org/natural-health/8-natural-plant-based-recipes-to-unclog-your-arteries-and-promote-heart-health-naturally/)
-        
-        [](https://www.onegreenplanet.org/natural-health/8-natural-plant-based-recipes-to-unclog-your-arteries-and-promote-heart-health-naturally/)[![Apple and Beet Salad with Candied Walnuts and Cashew Cheese](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAFZAQAAAAA9CyLbAAAAAnRSTlMAAHaTzTgAAAApSURBVHja7cEBAQAAAIKg/q9uiMAAAAAAAAAAAAAAAAAAAAAAAAAAoOFPgwAB7nLLgwAAAABJRU5ErkJggg==)
-        
-        ![Apple and Beet Salad with Candied Walnuts and Cashew Cheese](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2023/11/beetsalad23of24.webp?fit=460%2C345&ssl=1)](https://www.onegreenplanet.org/natural-health/8-natural-plant-based-recipes-to-unclog-your-arteries-and-promote-heart-health-naturally/)
-        
-        [8 Natural Plant-Based Recipes to Unclog Your Arteries and Promote Heart Health Naturally](https://www.onegreenplanet.org/natural-health/8-natural-plant-based-recipes-to-unclog-your-arteries-and-promote-heart-health-naturally/)
-        
-    * [](https://www.onegreenplanet.org/natural-health/five-meditation-videos-for-anxiety/)
-        
-        [](https://www.onegreenplanet.org/natural-health/five-meditation-videos-for-anxiety/)[![person watching meditation video](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEzAQAAAACUZA7nAAAAAnRSTlMAAHaTzTgAAAAoSURBVHja7cExAQAAAMKg9U9tB2+gAAAAAAAAAAAAAAAAAAAAAADgMEbBAAG19/toAAAAAElFTkSuQmCC)
-        
-        ![person watching meditation video](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/06/shutterstock-2055003368-e1717511299806.jpg?fit=460%2C307&ssl=1)](https://www.onegreenplanet.org/natural-health/five-meditation-videos-for-anxiety/)
-        
-        [Five Meditation Videos for Anxiety](https://www.onegreenplanet.org/natural-health/five-meditation-videos-for-anxiety/)
         
 * [People](https://www.onegreenplanet.org/channel/human-interest/)
     * [](https://www.onegreenplanet.org/human-interest/global-waters-exceed-safe-pfa-levels-new-study-reveals/)
@@ -334,6 +334,14 @@ Toggle navigation[OneGreenPlanet](https://www.onegreenplanet.org/)
         [Climate Change Forces Four Native Groups to Relocate](https://www.onegreenplanet.org/environment/climate-change-forces-four-native-groups-to-relocate/)
         
 * [Animals](https://www.onegreenplanet.org/channel/animals/)
+    * [](https://www.onegreenplanet.org/animals/10-products-for-joint-pain-and-arthritis-in-animal-companions/)
+        
+        [](https://www.onegreenplanet.org/animals/10-products-for-joint-pain-and-arthritis-in-animal-companions/)[![joint pain in dog](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAboAAAFeAQAAAADbWee8AAAAAnRSTlMAAHaTzTgAAAAqSURBVHja7cExAQAAAMKg9U9tCU+gAAAAAAAAAAAAAAAAAAAAAAAAAPgbTe4AAQaZbxoAAAAASUVORK5CYII=)
+        
+        ![joint pain in dog](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/06/shutterstock-1118355461-e1717420931536.jpg?fit=442%2C350&ssl=1)](https://www.onegreenplanet.org/animals/10-products-for-joint-pain-and-arthritis-in-animal-companions/)
+        
+        [10 Products for Joint Pain and Arthritis in Animal Companions](https://www.onegreenplanet.org/animals/10-products-for-joint-pain-and-arthritis-in-animal-companions/)
+        
     * [](https://www.onegreenplanet.org/animals/farm-bill-would-erase-decades-of-meaningful-progress-for-humane-treatment-of-farm-animals/)
         
         [](https://www.onegreenplanet.org/animals/farm-bill-would-erase-decades-of-meaningful-progress-for-humane-treatment-of-farm-animals/)[![Pigs in filthy gestation crates](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEMAQAAAABhSLufAAAAAnRSTlMAAHaTzTgAAAAmSURBVGje7cExAQAAAMKg9U9tCU+gAAAAAAAAAAAAAAAAAAAAeBk9xAABOfpZngAAAABJRU5ErkJggg==)
@@ -373,14 +381,6 @@ Toggle navigation[OneGreenPlanet](https://www.onegreenplanet.org/)
         ![dog with first aid kit](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/05/shutterstock-2212557463-e1717001254726.jpg?fit=460%2C307&ssl=1)](https://www.onegreenplanet.org/animals/10-must-have-first-aid-kits-and-supplies-for-animal-companions/)
         
         [10 MUST HAVE First Aid Kits and Supplies for Animal Companions](https://www.onegreenplanet.org/animals/10-must-have-first-aid-kits-and-supplies-for-animal-companions/)
-        
-    * [](https://www.onegreenplanet.org/animals/five-times-animals-calmed-their-humans-down/)
-        
-        [](https://www.onegreenplanet.org/animals/five-times-animals-calmed-their-humans-down/)[![horse therapy](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEyAQAAAABfON1CAAAAAnRSTlMAAHaTzTgAAAAnSURBVHja7cEBAQAAAIIg/69uSEABAAAAAAAAAAAAAAAAAAAAAPBrRoYAAQ4SziQAAAAASUVORK5CYII=)
-        
-        ![horse therapy](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/05/shutterstock-1455951125-e1716999537345.jpg?fit=460%2C306&ssl=1)](https://www.onegreenplanet.org/animals/five-times-animals-calmed-their-humans-down/)
-        
-        [Five Times Animals Calmed Their Humans Down](https://www.onegreenplanet.org/animals/five-times-animals-calmed-their-humans-down/)
         
 * [Video](https://www.onegreenplanet.org/channel/videos/)
     * [](https://www.onegreenplanet.org/vegan-food/how-to-make-vegan-fried-chicken/)
@@ -536,10 +536,10 @@ No products in the cart.
     * [ ] N/A
     * [ ] N/A
     * [ ] N/A
-    * [ ] N/A
-    * [ ] N/A
-    * [ ] N/A
     * [ ] n/a
+    * [ ] N/A
+    * [ ] N/A
+    * [ ] N/A
     * [ ] N/A
     * [ ] Pet Food
     * [ ] Plant-Based Nutrition
@@ -733,10 +733,10 @@ No products in the cart.
     * [ ] N/A
     * [ ] N/A
     * [ ] N/A
-    * [ ] N/A
-    * [ ] N/A
-    * [ ] N/A
     * [ ] n/a
+    * [ ] N/A
+    * [ ] N/A
+    * [ ] N/A
     * [ ] N/A
     * [ ] Pet Food
     * [ ] Plant-Based Nutrition
