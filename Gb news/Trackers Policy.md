@@ -217,6 +217,13 @@ You can obtain more information on how to see what cookies have been set and how
 
 If you have any queries relating to this Cookie Policy please contact us at [launch@gbnews.uk](mailto:mailto:launch@gbnews.uk).
 
+[BREAKING](https://www.gbnews.com/celebrity/michael-mosley-wife-breaks-silence-paying-tribute)
+----------------------------------------------------------------------------------------------
+
+### [Michael Mosley's wife breaks silence after TV doctor found dead on Greek island](https://www.gbnews.com/celebrity/michael-mosley-wife-breaks-silence-paying-tribute)
+
+1717938724.611
+
 About Us
 
 [Our Editorial Charter](https://www.gbnews.uk/about-us/our-editorial-charter)[Our Investors](https://www.gbnews.uk/about-us/our-investors)[Work for Us](https://careers.gbnews.com/)[Advertising](https://www.gbnews.uk/advertise-with-us)[Contact Us](https://www.gbnews.uk/about-us/contact-us)
