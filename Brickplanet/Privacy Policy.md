@@ -1,4 +1,4 @@
-[blog.brickplanet.com/why-we-are-discontinuing-our-free-plan/](https://blog.brickplanet.com/why-we-are-discontinuing-our-free-plan/)
+[www.brickplanet.com/games/476/capture-the-flag](https://www.brickplanet.com/games/476/capture-the-flag)
 
 Privacy Policy
 
