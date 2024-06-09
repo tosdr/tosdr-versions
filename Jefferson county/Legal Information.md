@@ -121,7 +121,7 @@ Our website has links to other public and private sector entities. Jefferson Cou
 
 [Sustainability](https://www.jeffco.us/3606)
 
-[Next](#) [Previous](#)
+[](#)[](#)
 
 1. [![Click to home](/ImageRepository/Document?documentID=60 "Click to home")](https://www.jeffco.us/)
 
@@ -199,7 +199,7 @@ Our website has links to other public and private sector entities. Jefferson Cou
 
 [Notify Me](https://www.jeffco.us/list.aspx)
 
-### Loading
+Loading
 
 Loading
 
