@@ -2,7 +2,7 @@
 
 Search
 
-[Request new lyrics translation](https://lyricstranslate.com/en/how-request-translation?destination=cookies-policy)[Become a translator](https://lyricstranslate.com/en/how-add-new-translation?destination=cookies-policy)
+[Request new lyrics translation](https://lyricstranslate.com/en/how-request-translation)[Become a translator](https://lyricstranslate.com/en/how-add-new-translation)
 
 [![Sign Up](/sites/all/themes/lt7/images/user-add.svg)](https://lyricstranslate.com/en/user/login?tag=menubar&destination=cookies-policy)
 
@@ -174,83 +174,81 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![Cançonetes](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1592681-1717105011.jpg)](https://lyricstranslate.com/en/translator/can%C3%A7onetes "Cançonetes")
+[![Aya Cheikh](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1620652-1717951661.png)](https://lyricstranslate.com/en/translator/aya-cheikh "Aya Cheikh")
+
+New request
+
+[Lovely Runner (OST) - A Day](https://lyricstranslate.com/en/request/day-32)
+
+Korean → French
+
+[![DimitrisTS](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1223360-1717614235.gif)](https://lyricstranslate.com/en/translator/grenfrsv "DimitrisTS")
 
 New song
 
-[Casino Shanghai - Cuerpos Huecos](https://lyricstranslate.com/en/casino-shanghai-cuerpos-huecos-lyrics)
+[Doukissa - Θα το παίξω Ευρωπαία](https://lyricstranslate.com/en/doukissa-tha-paixo-evropaia-lyrics)
 
-Spanish
+Greek
 
-[![Devrik Cümle Mühendisi](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1620266-1717597147.gif)](https://lyricstranslate.com/en/translator/devrik-c%C3%BCmle-m%C3%BChendisi "Devrik Cümle Mühendisi")
-
-New translation
-
-[Revolutionary Girl Utena (OST) - truth (Truth)](https://lyricstranslate.com/en/revolutionary-girl-u-truth-turkish)
-
-Japanese → Turkish
-
-[![City of Lights](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1612018-1710516364.jpg)](https://lyricstranslate.com/en/translator/city-lights "City of Lights")
-
-New transcription request
-
-[The Brave Little Toaster To The Rescue (ost) - Remember That Day (Latin Spanish)](https://lyricstranslate.com/en/brave-little-toaster-rescue-ost-remember-day-latin-spanish)
-
-Spanish
-
-[![Pietro Lignola](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1361061-1568016170.jpg)](https://lyricstranslate.com/en/translator/pietro-lignola "Pietro Lignola")
-
-New translation
-
-[Georg Friedrich Händel - HWV 58, Semele. III, 62 "Come to my arms".](https://lyricstranslate.com/en/georg-friedrich-hand-hwv-58-semele-iii-62-neapolitan)
-
-English → Neapolitan
-
-[![City of Lights](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1612018-1710516364.jpg)](https://lyricstranslate.com/en/translator/city-lights "City of Lights")
-
-New song
-
-[The Brave Little Toaster To The Rescue (OST) - Remember That Day](https://lyricstranslate.com/en/brave-little-toaster-remember-day-lyrics)
-
-English
-
-[![osiris71](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1421017-1557781113.jpg)](https://lyricstranslate.com/en/translator/osiris71 "osiris71")
-
-New song
-
-[Juan Camacho - Cerca de ti](https://lyricstranslate.com/en/juan-camacho-cerca-de-ti-lyrics)
-
-Spanish
-
-[![Moshe Kaye](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1457601-1594906407.jpg)](https://lyricstranslate.com/en/translator/moshe-kaye "Moshe Kaye")
+[![Coca Trolla](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1363581-1706216905.jpg)](https://lyricstranslate.com/en/translator/coca-trolla "Coca Trolla")
 
 New comment
 
-Please tell me what is the reason for posting ...  [more](https://lyricstranslate.com/en/comment/1148154#comment-1148154)
+Tristana αφού δε σε ενδιαφέρουν οι πόντοι γιατί ...  [more](https://lyricstranslate.com/en/comment/1148639#comment-1148639)
 
-[![Мария Захарова](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1206833-1706213344.png)](https://lyricstranslate.com/en/translator/%D0%BC%D0%B0%D1%80%D0%B8%D1%8F-%D0%B7%D0%B0%D1%85%D0%B0%D1%80%D0%BE%D0%B2%D0%B0 "Мария Захарова")
+[![Fefefee](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/fefefee "Fefefee")
 
 New song
 
-[Dima Bilan - No hay otra igual](https://lyricstranslate.com/en/dima-bilan-no-hay-otra-igual-lyrics)
+[Nura - Ich war's nicht](https://lyricstranslate.com/en/nura-ich-wars-nicht-lyrics)
 
-Spanish
+German
 
-[![rin_do](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1615614-1717668936.png)](https://lyricstranslate.com/en/translator/rindo "rin_do")
+[![Serge Pesetsky](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1462378-1706209758.jpg)](https://lyricstranslate.com/en/translator/serge-pesetsky "Serge Pesetsky")
 
 New translation
 
-[Hop Along - Bruno is Orange](https://lyricstranslate.com/en/hop-along-bruno-orange-ukrainian)
+[Adriano Celentano - Angel](https://lyricstranslate.com/en/adriano-celentano-angel-belarusian)
 
-English → Ukrainian
+Italian → Belarusian
 
-[![Moshe Kaye](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1457601-1594906407.jpg)](https://lyricstranslate.com/en/translator/moshe-kaye "Moshe Kaye")
+[![Tsukiss](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1444417-1579603184.png)](https://lyricstranslate.com/en/translator/tsukiss "Tsukiss")
 
-New song
+New translation
 
-[Yeled - אין דרך חזרה](https://lyricstranslate.com/en/yeled-ain-derech-chazara-lyrics)
+[Léman - JVQTSM](https://lyricstranslate.com/en/leman-jvqtsm-english)
 
-Hebrew
+French → English
+
+[![DimitrisTS](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1223360-1717614235.gif)](https://lyricstranslate.com/en/translator/grenfrsv "DimitrisTS")
+
+New comment
+
+ας μείνει και κάτι να μη γίνεται ηλεκτρονικά... δε...  [more](https://lyricstranslate.com/en/comment/1148638#comment-1148638)
+
+[![Blank Blankness](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1570749-1682551120.png)](https://lyricstranslate.com/en/translator/blank-blankness "Blank Blankness")
+
+New transcription request
+
+[Non/disney Fandubs - Let It Go (Yamagata Japanese)](https://lyricstranslate.com/en/nondisney-fandubs-let-it-go-yamagata-japanese)
+
+Japanese
+
+[![Grasmuecke](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1620618-1717925252.png)](https://lyricstranslate.com/en/translator/grasmuecke "Grasmuecke")
+
+New translation
+
+[THE HARDKISS - Журавлі (Zhuravli)](https://lyricstranslate.com/en/hardkiss-zhuravli-german)
+
+Ukrainian → German
+
+[![izxsdklk](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/izxsdklk "izxsdklk")
+
+Transcription request fulfilled
+
+[घाममा सुकाईदेऊ](https://lyricstranslate.com/en/samir-acharya-ghamma-sukaideu-lyrics)
+
+Nepali
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
