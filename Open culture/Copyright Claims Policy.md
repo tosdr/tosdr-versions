@@ -419,7 +419,7 @@ We’re hop­ing to rely on our loy­al read­ers rather than errat­ic ads. To 
     
     Please type in the letters in the image to prove you are not a robot. If you cannot read them, click on the image to generate a new one.
     
-    ![](https://www.openculture.com/wp-admin/admin-ajax.php?action=mailster_coolcaptcha_img&nocache=1717852193&formid=1 "click to reload")
+    ![](https://www.openculture.com/wp-admin/admin-ajax.php?action=mailster_coolcaptcha_img&nocache=1717975036&formid=1 "click to reload")
     
 * About Us
     --------
@@ -763,4 +763,4 @@ All rights reserved.
 
 Open Culture was founded by [Dan Colman.](https://www.linkedin.com/in/dancolman "Linkedin")
 
-![Cleantalk Pixel](https://moderate1-v4.cleantalk.org/pixel/0b2d3dfba0c50bab95336dacfdce9df8.gif "Cleantalk Pixel")
+![Cleantalk Pixel](https://moderate9-v4.cleantalk.org/pixel/79a733f0c3ffba6e2985b7ca006634e7.gif "Cleantalk Pixel")
