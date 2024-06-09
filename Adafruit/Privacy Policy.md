@@ -402,9 +402,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ As we enjoy great advantages from the inventions of others, we should be glad of an opportunity to serve others by any invention of ours; and this we should do freely and generously.”
+“ I am one of the people who love the why of things”
 
-[Benjamin Franklin](https://www.gutenberg.org/files/20203/20203-h/20203-h.htm)
+[Catherine the Great](http://en.wikipedia.org/wiki/Catherine_the_Great)
 
 [](https://www.adafruit.com/about)
 
