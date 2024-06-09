@@ -36,7 +36,7 @@ Contact sales
 
 [Request demo](https://calendly.com/flippingbook-sales-team/demo-session-emea?utm_source=sales-menu) Chat [Email](https://flippingbook.com/contacts?contact-form=sales&subject=Contact%20sales) [+44 808 501 5251](tel:+44 808 501 5251)
 
-[Log in](https://logon.flippingbook.com/login?r=site&t=both&asc=boPMHdQRzJ*l6uomL%2fyt7UKGym57i1AFHJ0GUk0XQnl6kgC2EpbAR8%2frrvlVCM2C) [Try for free](https://logon.flippingbook.com/register?r=site&t=both&asc=con*zIsulnnavzKy8r3YPUhc2h8C%2fjYr5dfByJb%2fedAIO6mJAfLrTLxvkMrCC1Wa)
+[Log in](https://logon.flippingbook.com/login?r=site&t=both&asc=ah*uA1uRI9%2fKm*qagiRKblCdPuvZ%2fiZmqR%2fKZwr7T2fjeCmuFSd6owGNIOdMJpQB) [Try for free](https://logon.flippingbook.com/register?r=site&t=both&asc=DVQvJU34qiz6RYhWHGON6%2fsOHw8SuLxkoFcr*Anil8HE%2fESVn%2f8eCVJ3JlwohHFF)
 
 [My account](https://flippingbook.com/account)
 
@@ -44,7 +44,7 @@ Contact sales
 
 [![FlippingBook logo](https://d1qwl4ymp6qhug.cloudfront.net/Release/R10085/icons/common/logo-full-white.svg "FlippingBook - view and share your online documents with ease.")](https://flippingbook.com/)
 
-[Log in](https://logon.flippingbook.com/login?r=site&t=both&asc=yXiuXATKdBwi%2fyLQSf4wffVKJ12qifZyd7ivZXjmOG*t2RUgrQOLdyFzq1eg15QW) [Try for free](https://logon.flippingbook.com/register?r=site&t=both&asc=XVu3OJFtSuH0LNmf2woutKO2vuBlbs5NqJO8r5geVfApb36MqAo9ozFOAHd%2fJKqr)
+[Log in](https://logon.flippingbook.com/login?r=site&t=both&asc=4dRADDPFX8kttrgLZ6TSEKUVw8aOL1Q2nqsDCpurC%2fsB9wU9TQFdTeyRHEJpjuxv) [Try for free](https://logon.flippingbook.com/register?r=site&t=both&asc=cwcTZS136V4iCtlh1XhDMmwSuRvh6MB05tJ8nYO4YYvUwToNDE8nkU9PPymxGz5U)
 
 [My account](https://flippingbook.com/account/autonav) [Log out](https://flippingbook.com/account/logout)
 
