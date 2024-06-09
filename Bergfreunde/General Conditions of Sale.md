@@ -2,9 +2,9 @@
 
 ### Neu?
 
-![Bergfreundin Hannah](https://www.bergfreunde.de/out/pictures/img/avatar/avatar-hannah.png)
+![Bergfreund Robert](https://www.bergfreunde.de/out/pictures/img/avatar/avatar-robert.png)
 
-Bergfreundin Hannah
+Bergfreund Robert
 
 "Herzlich willkommen bei den Bergfreunden!"
 
@@ -821,9 +821,9 @@ Weiterführende Informationen:
 
 Stand März 2024
 
-![Bergfreund Matthias - Geschäftsführung](https://www.bergfreunde.de/out/pictures/img/avatar/avatar-matthias.png) Bergfreund Matthias - Geschäftsführung
+![Bergfreund Johannes - Einkäufer](https://www.bergfreunde.de/out/pictures/img/avatar/avatar-johannes.png) Bergfreund Johannes - Einkäufer
 
-"Wir alle müssen mehr Verantwortung übernehmen, damit die Natur uns erhalten bleibt."
+"Ich finde die besten & neuesten Outdoor-Produkte für Dich!"
 
 [Portofrei ab € 69 (DE)](https://www.bergfreunde.de/versandkosten/ "Portofrei bei den Bergfreunden")
 
@@ -831,11 +831,11 @@ Stand März 2024
 
 [100 Tage Rückgaberecht](https://www.bergfreunde.de/rueckgabe/ "Informationen Rückgabe")
 
-[![So bewerten uns 44524 Kunden](https://www.bergfreunde.de/out/pictures/img/trust/trusted-shops-logo-big.png)](https://www.trustedshops.com/shop/certificate.php?shop_id=X8E9EAFD7E40A46630552D4A3F123CA67 "Wir sind Trusted Shops zertifiziert - Alle Infos hier!")
+[![So bewerten uns 44502 Kunden](https://www.bergfreunde.de/out/pictures/img/trust/trusted-shops-logo-big.png)](https://www.trustedshops.com/shop/certificate.php?shop_id=X8E9EAFD7E40A46630552D4A3F123CA67 "Wir sind Trusted Shops zertifiziert - Alle Infos hier!")
 
 [( 0 )
 
-So bewerten uns 44.524 Kunden](https://www.trustedshops.com/shop/certificate.php?shop_id=X8E9EAFD7E40A46630552D4A3F123CA67 "Wir sind Trusted Shops zertifiziert - Alle Infos hier!")
+So bewerten uns 44.502 Kunden](https://www.trustedshops.com/shop/certificate.php?shop_id=X8E9EAFD7E40A46630552D4A3F123CA67 "Wir sind Trusted Shops zertifiziert - Alle Infos hier!")
 
 holt 3x am Tag die Pakete bei uns ab
 
