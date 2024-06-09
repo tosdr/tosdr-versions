@@ -394,6 +394,7 @@
     * [Coding for Everyone](https://www.geeksforgeeks.org/courses/coding-for-everyone?itm_source=geeksforgeeks&itm_medium=main_header&itm_campaign=courses)
     * [DSA to Development](https://www.geeksforgeeks.org/courses/dsa-to-development-coding-guide?itm_source=geeksforgeeks&itm_medium=main_header&itm_campaign=courses)
     * [Machine Learning & Data Science](https://www.geeksforgeeks.org/courses/data-science-live?itm_source=geeksforgeeks&itm_medium=main_header&itm_campaign=courses)
+    * [Generative AI & ChatGPT](https://www.geeksforgeeks.org/courses/mastering-generative-ai-and-chat-gpt?itm_source=geeksforgeeks&itm_medium=main_header&itm_campaign=courses)
     * [Become AWS Certified](https://www.geeksforgeeks.org/courses/search?query=AWS&itm_source=geeksforgeeks&itm_medium=main_header&itm_campaign=courses)
     * DSA Courses
         * [Data Structure & Algorithm(C++/JAVA)](https://www.geeksforgeeks.org/courses/dsa-self-paced?itm_source=geeksforgeeks&itm_medium=main_header&itm_campaign=courses)
