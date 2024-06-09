@@ -29,9 +29,9 @@ The store will not work correctly in the case when cookies are disabled.
     * [Premium 2 Lilac Special Edition](https://www.womanizer.com/eu/premium2-lilac-special-edition)
     * [CLASSIC 2](https://www.womanizer.com/eu/classic-2)
     * [STARLET 3](https://www.womanizer.com/eu/starlet-3)
-    * [Starlet Snow](https://www.womanizer.com/eu/starlet)
     * [Wave](https://www.womanizer.com/eu/wave-womanizer)
     * [OG](https://www.womanizer.com/eu/womanizer-og)
+    * [DUO](https://www.womanizer.com/eu/duo)
     * [All Sex Toys](https://www.womanizer.com/eu/sex-toys)
     
     [All Sex Toys](https://www.womanizer.com/eu/sex-toys)
@@ -62,11 +62,11 @@ The store will not work correctly in the case when cookies are disabled.
     * [DUO](https://www.womanizer.com/eu/duo)
     * [Pro40](https://www.womanizer.com/eu/pro-40)
     * [InsideOut](https://www.womanizer.com/eu/insideout)
-    * [Starlet Snow](https://www.womanizer.com/eu/starlet)
     * [Pro / W500](https://www.womanizer.com/eu/w500)
     * [Classic - Muse Edition](https://www.womanizer.com/eu/classic-muse-edition)
     * [STARLET 2](https://www.womanizer.com/eu/starlet-2)
     * [Silver Delights Collection](https://www.womanizer.com/eu/silver-delights-collection)
+    * [PREMIUM eco](https://www.womanizer.com/eu/eco)
     * [All Sale Items](https://www.womanizer.com/eu/sale)
     
     [All Sale Items](https://www.womanizer.com/eu/sale)
