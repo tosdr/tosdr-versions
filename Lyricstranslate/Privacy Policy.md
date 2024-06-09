@@ -2,7 +2,7 @@
 
 Search
 
-[Request new lyrics translation](https://lyricstranslate.com/en/how-request-translation?destination=privacy-policy)[Become a translator](https://lyricstranslate.com/en/how-add-new-translation?destination=privacy-policy)
+[Request new lyrics translation](https://lyricstranslate.com/en/how-request-translation)[Become a translator](https://lyricstranslate.com/en/how-add-new-translation)
 
 [![Sign Up](/sites/all/themes/lt7/images/user-add.svg)](https://lyricstranslate.com/en/user/login?tag=menubar&destination=privacy-policy)
 
@@ -144,79 +144,81 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![Ivan Luden](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1408270-1553443086.jpg)](https://lyricstranslate.com/en/translator/ivan-luden "Ivan Luden")
-
-New request
-
-[Ded Archimed - Сплотиться вокруг президента (Splotitʹsya vokrug prezidenta)](https://lyricstranslate.com/en/request/%D1%81%D0%BF%D0%BB%D0%BE%D1%82%D0%B8%D1%82%D1%8C%D1%81%D1%8F-%D0%B2%D0%BE%D0%BA%D1%80%D1%83%D0%B3-%D0%BF%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%B0)
-
-Russian → English
-
-[![Laplage](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1112497-1596264636.jpg)](https://lyricstranslate.com/en/translator/laplage "Laplage")
-
-New translation
-
-[Jore Marjaranta - Haaveet kaatuu](https://lyricstranslate.com/en/jore-marjaranta-haaveet-kaatuu-french)
-
-Finnish → French
-
-[![darywzc](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1558809-1715971153.jpg)](https://lyricstranslate.com/en/translator/darywzc "darywzc")
-
-New collection
-
-[aespa | Hot Mess](https://lyricstranslate.com/en/collection/aespa-hot-mess)
-
-[![Ivan Luden](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1408270-1553443086.jpg)](https://lyricstranslate.com/en/translator/ivan-luden "Ivan Luden")
-
-New request
-
-[Ded Archimed - Господа иностранцы (Gospoda inostrantsy)](https://lyricstranslate.com/en/request/%D0%B3%D0%BE%D1%81%D0%BF%D0%BE%D0%B4%D0%B0-%D0%B8%D0%BD%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%86%D1%8B-1)
-
-Russian → Serbian
-
-[![Pietro Lignola](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1361061-1568016170.jpg)](https://lyricstranslate.com/en/translator/pietro-lignola "Pietro Lignola")
-
-New translation
-
-[Georg Friedrich Händel - HWV 58 Semele, III, 56: "O Ecstasy Of Happiness.](https://lyricstranslate.com/en/georg-friedrich-hand-hwv-58-semele-iii-56-neapolitan)
-
-English → Neapolitan
-
-[![Elian E.](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/elian-e "Elian E.")
-
-New translation
-
-[Georges Moustaki - Muy tarde es ya (Il est trop tard)](https://lyricstranslate.com/en/georges-moustaki-muy-tarde-es-ya-il-est-t-english)
-
-Spanish → English
-
-[![pesnya](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1615167-1713696156.jpg)](https://lyricstranslate.com/en/translator/pesnya "pesnya")
-
-New comment
-
-Ну да, стрела Амура пронзила сердце насквозь и ...  [more](https://lyricstranslate.com/en/comment/1148136#comment-1148136)
-
-[![Ms.Kivi](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1611894-1710402310.jpg)](https://lyricstranslate.com/en/translator/mskivi "Ms.Kivi")
-
-New translation
-
-[Girls' Generation - 런데빌런 (Run Devil Run)](https://lyricstranslate.com/en/girls-generation-reondebilreon-run-devil-ukrainian)
-
-Korean → Ukrainian
-
-[![makis17](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1208934-1630957375.jpg)](https://lyricstranslate.com/en/translator/makis17 "makis17")
-
-New comment
-
-Μην έχεις τύψεις, ξέρω delivery που βγάζουν πάνω ...  [more](https://lyricstranslate.com/en/comment/1148135#comment-1148135)
-
-[![Feedeeri☆](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1568446-1716734982.gif)](https://lyricstranslate.com/en/translator/feedeeri%E2%98%86 "Feedeeri☆")
+[![Berand](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1442948-1596495217.jpg)](https://lyricstranslate.com/en/translator/berand "Berand")
 
 New song
 
-[Asuka Suita - ひとりの秋](https://lyricstranslate.com/en/asuka-suita-hitori-no-aki-lyrics)
+[Kurgan & Agregat - Вчителька](https://lyricstranslate.com/en/kurgan-agregat-vchytelka-lyrics)
 
-Japanese
+Surzhyk
+
+[![Hampsicora](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1215565-1407878733.png)](https://lyricstranslate.com/en/translator/hampsicora "Hampsicora")
+
+New song
+
+[Joaquín Díaz - El arriero de Bembibre](https://lyricstranslate.com/en/joaquin-diaz-el-arriero-de-bembibre-lyrics)
+
+Spanish
+
+[![Berand](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1442948-1596495217.jpg)](https://lyricstranslate.com/en/translator/berand "Berand")
+
+New song
+
+[Kurgan & Agregat - Пітарда](https://lyricstranslate.com/en/kurgan-agregat-pitarda-lyrics)
+
+Surzhyk
+
+[![julietarab](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1050123-1706250255.jpg)](https://lyricstranslate.com/en/translator/julietarab "julietarab")
+
+New translation
+
+[Aoife Ní Fhearraigh - Mo Ghrá Thú](https://lyricstranslate.com/en/aoife-ni-fhearraigh-mo-ghra-thu-english)
+
+Gaelic (Irish Gaelic) → English
+
+[![Berand](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1442948-1596495217.jpg)](https://lyricstranslate.com/en/translator/berand "Berand")
+
+New song
+
+[Kurgan & Agregat - С.Ш.Р.](https://lyricstranslate.com/en/kurgan-agregat-sshr-lyrics)
+
+Surzhyk
+
+[![aylar4455](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1556003-1716721890.jpg)](https://lyricstranslate.com/en/translator/aylar4455 "aylar4455")
+
+New translation
+
+[Serdar Ortaç - Dansöz](https://lyricstranslate.com/en/serdar-ortac-dansoz-persian)
+
+Turkish → Persian
+
+[![retrosubs](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/retrosubs "retrosubs")
+
+New song
+
+[Ox Tales (ost) - Ox Tales Theme Song (English, Saban Dub)](https://lyricstranslate.com/en/ox-tales-ost-ox-tales-theme-song-engl-lyrics)
+
+English
+
+[![Berand](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1442948-1596495217.jpg)](https://lyricstranslate.com/en/translator/berand "Berand")
+
+New song
+
+[Kurgan & Agregat - 4:20 (Intro)](https://lyricstranslate.com/en/kurgan-agregat-420-intro-lyrics)
+
+Surzhyk
+
+[![Don Juan](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1110108-1706555942.jpg)](https://lyricstranslate.com/en/translator/don-juan "Don Juan")
+
+New comment
+
+Which are them?  [more](https://lyricstranslate.com/en/comment/1148471#comment-1148471)
+
+[![Don Juan](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1110108-1706555942.jpg)](https://lyricstranslate.com/en/translator/don-juan "Don Juan")
+
+New comment
+
+I'm not really sure this is needed - most artists ...  [more](https://lyricstranslate.com/en/comment/1148470#comment-1148470)
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
