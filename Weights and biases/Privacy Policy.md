@@ -1,5 +1,5 @@
 ![](https://www.facebook.com/tr?id=1135052233289288&ev=PageView
-&noscript=1)               [Skip to content](#content)
+&noscript=1)                [Skip to content](#content)
 
 [![](https://site.wandb.ai/wp-content/uploads/2024/05/Horizontal-WB-logo.svg)](https://wandb.ai/site)
 
