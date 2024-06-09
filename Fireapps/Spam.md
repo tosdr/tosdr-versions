@@ -428,7 +428,7 @@ SHOP LOCATION
 * * [](https://www.facebook.com/Genericdayusa/)
     * [](https://twitter.com/Genericdayusa)
     * [](https://www.instagram.com/genericdayusa/)
-    * [](https://www.quora.com/profile/Genericday-1/)
+    * [](#)
     * [](https://www.pinterest.com/genericdayusa/)
 
 Generic Day © 2024 All Rights Reserved.
