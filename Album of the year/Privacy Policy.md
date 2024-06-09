@@ -105,17 +105,17 @@ NR
 
 Wah Gwan Delilah](https://www.albumoftheyear.org/album/976227-snowd4y-wah-gwan-delilah.php)
 
-NR
-
-[Porter Robinson
-
-Russian Roulette](https://www.albumoftheyear.org/album/977571-porter-robinson-russian-roulette.php)
-
-74
+77
 
 [KAYTRANADA
 
 Timeless](https://www.albumoftheyear.org/album/963698-kaytranada-timeless.php)
+
+NR
+
+[Joey Valence & Brae
+
+NO HANDS](https://www.albumoftheyear.org/album/941426-joey-valence-brae-no-hands.php)
 
 NR
 
@@ -133,9 +133,9 @@ NR
 
 [![Knocked Loose - You Won't Go Before You're Supposed To](https://cdn.albumoftheyear.org/images/clear.gif)](https://www.albumoftheyear.org/album/887049-knocked-loose-you-wont-go-before-youre-supposed-to.php "Knocked Loose - You Won't Go Before You're Supposed To")
 
-[![Charli XCX - BRAT](https://cdn.albumoftheyear.org/images/clear.gif)](https://www.albumoftheyear.org/album/887267-charli-xcx-brat.php "Charli XCX - BRAT")
-
 [![Mdou Moctar - Funeral For Justice](https://cdn.albumoftheyear.org/images/clear.gif)](https://www.albumoftheyear.org/album/888230-mdou-moctar-funeral-for-justice.php "Mdou Moctar - Funeral For Justice")
+
+[![Charli XCX - BRAT](https://cdn.albumoftheyear.org/images/clear.gif)](https://www.albumoftheyear.org/album/887267-charli-xcx-brat.php "Charli XCX - BRAT")
 
 [![English Teacher - This Could Be Texas](https://cdn.albumoftheyear.org/images/clear.gif)](https://www.albumoftheyear.org/album/850250-english-teacher-this-could-be-texas.php "English Teacher - This Could Be Texas")
 
