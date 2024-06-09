@@ -138,7 +138,7 @@ We Champion Freedom & Self-Reliance
         
         ###### HaloXT Tactical Solar Flashlight
         
-        558 reviews](https://4patriots.com/products/haloxt-tactical-solar-flashlights)
+        559 reviews](https://4patriots.com/products/haloxt-tactical-solar-flashlights)
         
     
 * [Water](https://4patriots.com/collections/water)
@@ -161,7 +161,7 @@ We Champion Freedom & Self-Reliance
         
         ###### Patriot Pure Ultimate Water Filtration System
         
-        203 reviews](https://4patriots.com/products/patriot-pure-ultimate-water-filtration-system)
+        205 reviews](https://4patriots.com/products/patriot-pure-ultimate-water-filtration-system)
         
         [![ 1 Patriot Pure Nanomesh Water Filter](//4patriots.com/cdn/shop/files/1-PS-ARRAY-SHOP-ARRAY-NAN-_24x1024_1_360x.png?v=1694450490)
         
@@ -192,7 +192,7 @@ We Champion Freedom & Self-Reliance
         
         ###### Freedom Fridge
         
-        99 reviews](https://4patriots.com/products/freedom-fridge-1)
+        100 reviews](https://4patriots.com/products/freedom-fridge-1)
         
         [![ BugOUT Solar Lantern](//4patriots.com/cdn/shop/products/ARRAY-1BUG-1024x1024_360x.jpg?v=1664803167)
         
