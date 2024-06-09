@@ -128,39 +128,39 @@ Advertisement
     The new world order – Illuminati, Freemasons and other secret societies
     
     Secret societies have been trying to influence politics ever since. With new methods of communication they are now globally connected and more powerful then ever before. The names of those secret soci...](https://documentaryheaven.com/the-new-world-order-illuminati-freemasons-and-other-secret-societies/ "The new world order – Illuminati, Freemasons and other secret societies")
-* [![Expelled: No Intelligence Allowed](/wp-content/thumbnails/2444-100x70.jpg?x53432)
+* [![Cracking the Maya Code](/wp-content/thumbnails/2572-100x70.jpg?x53432)
     
-    Expelled: No Intelligence Allowed
+    Cracking the Maya Code
     
-    Ben Stein shows us a world where Academia’s freedom of inquiry might not be so free. This should be a concern for anyone and everyone. This undermines the concept that we will be teaching facts and tr...](https://documentaryheaven.com/expelled-no-intelligence-allowed/ "Expelled: No Intelligence Allowed")
+    This one-hour program is divided into five chapters. The Forgotten Maya Temples. In 1774, Spanish explorer Jose Calderon rediscovers the temples of Palenque and the ancient hieroglyphs of the Maya, a ...](https://documentaryheaven.com/cracking-the-maya-code/ "Cracking the Maya Code")
 
 ###### Throwback Documentaries
 
-* [![Hitler’s Right Hand Man: Hermann Göring](/wp-content/thumbnails/9216-100x70.jpg?x53432)
+* [![Garavito: The World’s Worst Serial Killer](/wp-content/thumbnails/8437-100x70.jpg?x53432)
     
-    Hitler’s Right Hand Man: Hermann Göring
+    Garavito: The World’s Worst Serial Killer
     
-    Hermann Göring was Hitlers right hand man who after World War II was convicted in the Nuremberg trials of war crimes and crimes against humanity. He was sentenced to death by hanging but before this s](https://documentaryheaven.com/hitlers-right-hand-man-hermann-goring/ "Hitler’s Right Hand Man: Hermann Göring")
-* [![The Anthropocene: The Age of Mankind](/wp-content/thumbnails/13378-100x70.jpg?x53432)
+    20th centuries most prolific serial killer is largely unknown throughout the world, though he brutally murdered at least 140 children, posing as a priest or teacher he lured poor young boys away from](https://documentaryheaven.com/garavito-worlds-worst-serial-killer/ "Garavito: The World’s Worst Serial Killer")
+* [![Quantum Computer in a Nutshell](/wp-content/thumbnails/13504-100x70.jpg?x53432)
     
-    The Anthropocene: The Age of Mankind
+    Quantum Computer in a Nutshell
     
-    Humans have been trying to control nature for quite some time, and out influence has become more and more dramatic, in fact it is now so strong that following years of research and monitoring an inter](https://documentaryheaven.com/anthropocene-age-of-mankind/ "The Anthropocene: The Age of Mankind")
-* [![Hackers Wanted](/wp-content/thumbnails/6679-100x70.png?x53432)
+    The ability to contemplate the meaning of the world around us brings out a constant desire to deepen our knowledge and broaden our horizons, this curiosity is fundamental to the development of our spe](https://documentaryheaven.com/quantum-computer-nutshell/ "Quantum Computer in a Nutshell")
+* [![Very Young Girls](/wp-content/thumbnails/5947-100x70.png?x53432)
     
-    Hackers Wanted
+    Very Young Girls
     
-    This film both follows the hacking adventures of famous hacker Adrian Lamo, and uses them as a microcosm for the macrocosm of struggles faced by emerging trends of thought – from the criminal to the p](https://documentaryheaven.com/hackers-wanted/ "Hackers Wanted")
-* [![Isaac Newton: The Last Magician](/wp-content/thumbnails/7604-100x70.jpg?x53432)
+    Very Young Girls, whose title reflects the fact that in the United States the average age of entry into prostitution is just thirteen. The film takes us into the work of a former sexually exploited yo](https://documentaryheaven.com/very-young-girls/ "Very Young Girls")
+* [![America’s Secret War](/wp-content/thumbnails/16623-100x70.jpeg?x53432)
     
-    Isaac Newton: The Last Magician
+    America’s Secret War
     
-    This 60-minute biography, part of the BBC’s Genius Of Invention season, reveals a much more complex figure by interviewing experts and delving into his own writings and those of his contemporaries. Ne](https://documentaryheaven.com/isaac-newton-last-magician/ "Isaac Newton: The Last Magician")
-* [![Terence Mckenna – Culture is your operating system](/wp-content/thumbnails/4381-100x70.jpg?x53432)
+    As the United States publicly engaged in the Vietnam War, there was a secret conflict raging right next door in the country of Laos. Under the direction of the CIA, a full-blown military operation to](https://documentaryheaven.com/americas-secret-war/ "America’s Secret War")
+* [![Dog Attacks](/wp-content/thumbnails/8734-100x70.jpg?x53432)
     
-    Terence Mckenna – Culture is your operating system
+    Dog Attacks
     
-    Terence McKenna and his idea of extropy is explained through the window of opportunity we can call novelty. One of Terence McKenna’s most widely promulgated ideas is known as Novelty theory. It pred](https://documentaryheaven.com/terence-mckenna-culture-is-your-operating-system/ "Terence Mckenna – Culture is your operating system")
+    Something is on the prowl, its aggressive and vicious and the streets of American could be at risk from a menace close to our hearts. Vicious packs of dogs are roaming unchecked so the History Channel](https://documentaryheaven.com/dog-attacks/ "Dog Attacks")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
