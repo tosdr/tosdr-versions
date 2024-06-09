@@ -149,7 +149,7 @@ Wikimedia Foundation Privacy Policy
 
  Add languages
 
-[Add links](https://www.wikidata.org/wiki/Special:EntityPage/Q123458796#sitelinks-wikipedia "Add interlanguage links")
+[Add links](https://www.wikidata.org/wiki/Special:NewItem?site=foundationwiki&page=Policy%3APrivacy+policy "Add interlanguage links")
 
 * [Policy](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy "View the subject page [c]")
 * [Discussion](https://foundation.wikimedia.org/wiki/Policy_talk:Privacy_policy "Discussion about the content page [t]")
@@ -182,7 +182,6 @@ General
 * [Page information](https://foundation.wikimedia.org/w/index.php?title=Policy:Privacy_policy&action=info "More information about this page")
 * [Get shortened URL](https://foundation.wikimedia.org/w/index.php?title=Special:UrlShortener&url=https%3A%2F%2Ffoundation.wikimedia.org%2Fwiki%2FPolicy%3APrivacy_policy)
 * [Download QR code](https://foundation.wikimedia.org/w/index.php?title=Special:QrCode&url=https%3A%2F%2Ffoundation.wikimedia.org%2Fwiki%2FPolicy%3APrivacy_policy)
-* [Wikidata item](https://www.wikidata.org/wiki/Special:EntityPage/Q123458796 "Link to connected data repository item [g]")
 
 Print/export
 
@@ -266,7 +265,7 @@ Other languages:
 * [беларуская](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/be "Policy:Privacy policy/be (0% translated)")
 * [беларуская (тарашкевіца)](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/be-tarask "Policy:Privacy policy/be-tarask (96% translated)")
 * [български](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/bg "Policy:Privacy policy/bg (44% translated)")
-* [кыргызча](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ky "Policy:Privacy policy/ky (65% translated)")
+* [кыргызча](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ky "Policy:Privacy policy/ky (72% translated)")
 * [македонски](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/mk "Policy:Privacy policy/mk (4% translated)")
 * [нохчийн](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ce "Policy:Privacy policy/ce (4% translated)")
 * [русский](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ru "Policy:Privacy policy/ru (100% translated)")
