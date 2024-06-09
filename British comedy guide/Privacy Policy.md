@@ -136,6 +136,14 @@ _This privacy policy was last updated on 24th May 2018, with minor clarification
 
 ### See also
 
+[The Army Game. Image shows left to right: Cpl 'Flogger' Hoskins (Harry Fowler), Pte Leonard Bone (Ted Lune), Pte 'Chubby' Catchpole (Dick Emery), L/Cpl Ernest 'Moosh' Merryweather (Mario Fabrizi)](https://www.comedy.co.uk/features/comedy-rewind/the-army-game/)Features
+
+[Comedy Rewind: The Army Game on parade](https://www.comedy.co.uk/features/comedy-rewind/the-army-game/)
+
+[Red Raw at The Stand Edinburgh. Credit: Bobby Carroll](https://www.comedy.co.uk/live/features/bobby-carroll-diary-edinburgh-new-act-night-special/)Live
+
+[Edinburgh New Act Night Special - Bobby Carroll's Live Comedy Diary](https://www.comedy.co.uk/live/features/bobby-carroll-diary-edinburgh-new-act-night-special/)
+
 [Louise Atkinson](https://www.comedy.co.uk/live/fgwg/louise-atkinson/)Live
 
 [First Gig, Worst Gig: Louise Atkinson](https://www.comedy.co.uk/live/fgwg/louise-atkinson/)
@@ -143,14 +151,6 @@ _This privacy policy was last updated on 24th May 2018, with minor clarification
 [Taskmaster: The Live Experience. Image shows left to right: Greg Davies, Alex Horne](https://www.comedy.co.uk/tv/taskmaster/features/taskmaster-is-neurodivergent-friendly/)TV
 
 [Taskmaster is one of the most neurodivergent friendly comedy formats](https://www.comedy.co.uk/tv/taskmaster/features/taskmaster-is-neurodivergent-friendly/)
-
-[Nick Helm. Credit: Ed Moore](https://www.comedy.co.uk/live/features/nick-helm-2024-interview/)Live
-
-[Nick Helm talks about his Super Fun Good Time Show](https://www.comedy.co.uk/live/features/nick-helm-2024-interview/)
-
-[Hi-De-Hi!. Ted Bovis (Paul Shane)](https://www.comedy.co.uk/quiz/309/)Quiz
-
-[British Comedy Quiz #309](https://www.comedy.co.uk/quiz/309/)
 
 #### [Donate to British Comedy Guide](https://www.comedy.co.uk/donate/)
 
@@ -193,7 +193,7 @@ Privacy settings
 
 * * *
 
-I used to work in a shoe-recycling shop. It was sole-destroying.[Alex Horne](https://www.comedy.co.uk/fringe/2013/features/dave_joke_of_the_fringe_2013/)
+Monkey Tennis?[Alan Partridge](https://www.comedy.co.uk/tv/im_alan_partridge/)
 
 © British Comedy Guide
 
