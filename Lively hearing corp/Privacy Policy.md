@@ -16,9 +16,7 @@ Try Enhance Select hearing aids risk-free for 100 days. [Shop now](https://www.l
 
 [Hearing aids](https://www.listenlively.com/product)[Remote care](https://www.listenlively.com/hearing-care)[Hearing resources](https://www.listenlively.com/hearing-aid-guide)
 
-Schedule call[(800) 854-2772](tel:8008542772)
-
-[](tel:8008542772 "Call us")
+[(800) 854-2772We're open! Call now](tel:8008542772)[](tel:8008542772 "Call us")
 
 [](https://www.listenlively.com/survey)
 
@@ -175,7 +173,7 @@ With our **Premium Package**, our Audiology Team works with you remotely to impr
     
     **Enhance Select 50R**
     
-    Works well in quieter situations, like one-on-one conversations and watching TV at home.
+    Great for everyday listening situations, like one-on-one conversations and watching TV.
     
     $995 - $1,195  
     or as low as $33/mo per pair](https://www.listenlively.com/product/enhanceselect50r)[\*](#financing-disclosure)
@@ -227,13 +225,13 @@ The reviews are in
 
 Filter reviews by topic:
 
-Hearing aids
+Sound quality
 
-* Hearing aids
+* Sound quality
+* Comfort
+* Discretion
 * Care and service
-* Ease of use
 * Value
-* Results
 
 See all reviews
 
