@@ -85,20 +85,20 @@ Top downloads
 
 Latest releases
 
-* [Conquering Armies](https://www.myabandonware.com/game/conquering-armies-r2n)
-* [Doubleback](https://www.myabandonware.com/game/doubleback-r2d)
-* [Donut Dilemma](https://www.myabandonware.com/game/donut-dilemma-r2c)
-* [Dino Wars](https://www.myabandonware.com/game/dino-wars-r2b)
-* [Don Pan](https://www.myabandonware.com/game/don-pan-qra)
+* [Brian Jacks Superstar Challenge](https://www.myabandonware.com/game/brian-jacks-superstar-challenge-4mf)
+* [Boulder Dash](https://www.myabandonware.com/game/boulder-dash-3h)
+* [Boulder Dash II: Rockford's Revenge](https://www.myabandonware.com/game/boulder-dash-ii-rockford-s-revenge-7p)
+* [Bosconian](https://www.myabandonware.com/game/bosconian-f92)
+* [Color Cubes](https://www.myabandonware.com/game/color-cubes-r35)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
 
 Screenshots needed
 
-* [Syncro](https://www.myabandonware.com/game/syncro-ogw)
-* [Mount St. Helens](https://www.myabandonware.com/game/mount-st-helens-kvp)
-* [Ultimate Solitaire](https://www.myabandonware.com/game/ultimate-solitaire-m2w)
+* [Galaxy Math: Fractions](https://www.myabandonware.com/game/galaxy-math-fractions-mfl)
+* [Tautrix](https://www.myabandonware.com/game/tautrix-6o8)
+* [Nishimura Kyōtarō Travel Mystery: Akugyaku no Kisetsu - Tōkyō~Nanki-Shirahama Renzoku Satsujin Jiken](https://www.myabandonware.com/game/nishimura-kyotaro-travel-mystery-akugyaku-no-kisetsu-tokyo-nanki-shirahama-renzoku-satsujin-jiken-edr)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
