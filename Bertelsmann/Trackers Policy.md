@@ -66,7 +66,6 @@ Search term
     * [Specials](https://www.bertelsmann.com/news-and-media/specials/)
     * [Social Media Newsroom](https://www.bertelsmann.com/news-and-media/social-media-newsroom/)
     * [Videos](https://www.bertelsmann.com/news-and-media/videos/)
-        * [Livestream](https://www.bertelsmann.com/news-and-media/videos/livestream/bertelsmann-party-2024/)
     * [Podcasts](https://www.bertelsmann.com/news-and-media/podcasts/)
     * [Photographs](https://www.bertelsmann.com/news-and-media/photographs/)
     * [Materials](https://www.bertelsmann.com/news-and-media/materials/)
@@ -500,6 +499,6 @@ Fax: +49 (0) 5241-80-62321
 
 © Bertelsmann SE & Co KGaA
 
-web-bertelsmann-i-0ff47a2f16a36621e
+web-bertelsmann-i-044ae41a58fb87348
 
 ![](/media/layout/images/icons/icon-mail.png)![](/media/layout/images/icons/icon-twitter.png)![](/media/layout/images/icons/icon-linkedin.png) ![](/media/layout/images/icons/icon-google-plus.png)![](/media/layout/images/icons/icon-xing.png)![](/media/layout/images/icons/icon-facebook.png) ![](/media/layout/images/icons/icon-youtube.png)
