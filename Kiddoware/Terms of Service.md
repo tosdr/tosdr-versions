@@ -1,6 +1,6 @@
 Toggle navigation
 
-[![Kiddoware – Parental Control & Screen Time Controls](https://kiddoware.com/wp-content/uploads/2020/09/Kiddoware-text.png.pagespeed.ce.TXMERIFWG8.png)](https://kiddoware.com/)
+[![Kiddoware – Parental Control & Screen Time Controls](https://kiddoware.com/wp-content/uploads/2020/09/Kiddoware-text.png)](https://kiddoware.com/)
 
 * [Product](#)
     * [Kids Place](https://kiddoware.com/kids-place-parental-control-for-android-devices/)
@@ -539,11 +539,11 @@ Please [click here](https://www.iubenda.com/terms-and-conditions/57904089) for l
 
 **Kiddoware** is the world’s leading parental control solutions company with a wide range of products and  serving over 5 million families worldwide. Kiddoware is committed in helping you to protect your kids while providing you intelligence to be proactive about your childs’ online activities.
 
-![](https://kiddoware.com/wp-content/uploads/2020/09/Last-page-Kiddoware-logo.png.pagespeed.ce.angOb8Ti1I.png)
+![](https://kiddoware.com/wp-content/uploads/2020/09/Last-page-Kiddoware-logo.png)
 
-[![](https://kiddoware.com/wp-content/uploads/2018/12/Facebook.png.pagespeed.ce.v4lXqpIxS2.png)](https://m.facebook.com/kiddoware.parentalcontrol/)   [![](https://kiddoware.com/wp-content/uploads/2018/12/Instagram.png.pagespeed.ce.afRZx5J-r-.png)](https://instagram.com/kiddoware?utm_medium=copy_link)   [![](https://kiddoware.com/wp-content/uploads/2018/12/Twitter.png.pagespeed.ce.g2w8BmAtRX.png)
+[![](https://kiddoware.com/wp-content/uploads/2018/12/Facebook.png)](https://m.facebook.com/kiddoware.parentalcontrol/)   [![](https://kiddoware.com/wp-content/uploads/2018/12/Instagram.png)](https://instagram.com/kiddoware?utm_medium=copy_link)   [![](https://kiddoware.com/wp-content/uploads/2018/12/Twitter.png)
 
-![](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2032%2030%22%3E%3C/svg%3E)](https://twitter.com/kiddoware)   [![](https://kiddoware.com/wp-content/uploads/2018/12/youtube.png.pagespeed.ce.TUlTqb2635.png)
+![](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2032%2030%22%3E%3C/svg%3E)](https://twitter.com/kiddoware)   [![](https://kiddoware.com/wp-content/uploads/2018/12/youtube.png)
 
 ![](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2041%2029%22%3E%3C/svg%3E)](https://www.youtube.com/channel/UCjdnpIusMJ-4yOk0cdnVJfw)
 
