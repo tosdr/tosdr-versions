@@ -407,9 +407,9 @@ In this interview, NewsMedical talks to Amanda Jones at Revvity about the strate
     
     [Excessive Nighttime Urination (Nocturnal Polyuria)](https://www.news-medical.net/health/Excessive-Nighttime-Urination-(Nocturnal-Polyuria).aspx)
     
-* [![Sleep Onset Mechanics: Understanding the Transition from Wakefulness to Slumber](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/health/Sleep-Onset-Mechanics-Understanding-the-Transition-from-Wakefulness-to-Slumber.aspx)
+* [![The Rise of Remote Pulse Oximeters](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/health/The-Rise-of-Remote-Pulse-Oximeters.aspx)
     
-    [Sleep Onset Mechanics: Understanding the Transition from Wakefulness to Slumber](https://www.news-medical.net/health/Sleep-Onset-Mechanics-Understanding-the-Transition-from-Wakefulness-to-Slumber.aspx)
+    [The Rise of Remote Pulse Oximeters](https://www.news-medical.net/health/The-Rise-of-Remote-Pulse-Oximeters.aspx)
     
 
 Latest News
@@ -507,7 +507,7 @@ News-Medical.Net provides this medical information service in accordance with th
 
 Update Your Privacy Preferences
 
-Last Updated: Saturday 8 Jun 2024
+Last Updated: Sunday 9 Jun 2024
 
 [![AZoNetwork](https://www.azonetwork.com/images/azonetwork_logo_footer_80.png)](https://www.azonetwork.com/)
 
