@@ -137,24 +137,23 @@ Save settings
 
 ### Featured Articles
 
+[![Ask for a Fade Haircut](https://www.wikihow.com/images/thumb/5/56/Ask-for-a-Fade-Haircut-Step-11.jpg/-crop-126-120-126px-Ask-for-a-Fade-Haircut-Step-11.jpg)
+
+How to Get a Fade that Complements Your Style, Hair Type & More](https://www.wikihow.com/Ask-for-a-Fade-Haircut)
+
+[![Deal With Aggressive Customers](https://www.wikihow.com/images/thumb/0/08/Deal-With-Aggressive-Customers-Step-12-Version-3.jpg/-crop-126-120-126px-Deal-With-Aggressive-Customers-Step-12-Version-3.jpg)
+
+How to  
+Deal With Aggressive Customers](https://www.wikihow.com/Deal-With-Aggressive-Customers)
+
+[![Enjoy the Outdoors](https://www.wikihow.com/images/thumb/0/00/Enjoy-the-Outdoors-Step-21-Version-2.jpg/-crop-126-120-126px-Enjoy-the-Outdoors-Step-21-Version-2.jpg)
+
+How to  
+Enjoy the Outdoors](https://www.wikihow.com/Enjoy-the-Outdoors)
+
 [![Learn Speed Reading](https://www.wikihow.com/images/thumb/5/5d/Learn-Speed-Reading-Step-13-Version-5.jpg/-crop-126-120-126px-Learn-Speed-Reading-Step-13-Version-5.jpg)
 
 The Best Ways to Speed Read & Become a Faster Reader](https://www.wikihow.com/Learn-Speed-Reading)
-
-[![Be Better at Something](https://www.wikihow.com/images/thumb/d/d9/Be-Better-at-Something-Step-13.jpg/-crop-126-120-126px-Be-Better-at-Something-Step-13.jpg)
-
-How to  
-Be Better at Something](https://www.wikihow.com/Be-Better-at-Something)
-
-[![Care for Fine Hair](https://www.wikihow.com/images/thumb/c/ce/Care-for-Fine-Hair-Step-14-Version-3.jpg/-crop-126-120-126px-Care-for-Fine-Hair-Step-14-Version-3.jpg)
-
-How to  
-Care for Fine Hair](https://www.wikihow.com/Care-for-Fine-Hair)
-
-[![Express Your Feelings](https://www.wikihow.com/images/thumb/c/c8/Express-Your-Feelings-Step-17-Version-2.jpg/-crop-126-120-126px-Express-Your-Feelings-Step-17-Version-2.jpg)
-
-How to  
-Express Your Feelings](https://www.wikihow.com/Express-Your-Feelings)
 
   
 
@@ -195,4 +194,4 @@ Follow Us
 
 \-
 
-793
+152
