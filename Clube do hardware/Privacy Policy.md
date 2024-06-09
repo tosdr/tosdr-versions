@@ -134,105 +134,105 @@ Política de privacidade
 
 * ### Últimos tópicos
     
-    * [![Yuugishi](https://www.clubedohardware.com.br/uploads/members/monthly_2024_03/imported-photo-1237999.thumb.png.dbb50745b1aa33d4c8f8b389f0f2cace.png)](https://www.clubedohardware.com.br/profile/1237999-yuugishi/ "Ir ao perfil de Yuugishi")
+    * [![Paocombatatafrita](https://www.clubedohardware.com.br/uploads/members/monthly_2024_04/imported-photo-1186298.thumb.jpeg.1bcedd019ceaf3c6cbaf62b8f79d5e33.jpeg)](https://www.clubedohardware.com.br/profile/1186298-paocombatatafrita/ "Ir ao perfil de Paocombatatafrita")
         
         0
         
-        [Processador pegando 100 graus sem fazer nada](https://www.clubedohardware.com.br/forums/topic/1688214-processador-pegando-100-graus-sem-fazer-nada/?do=getNewComment "Processador pegando 100 graus sem fazer nada")
+        [overclock 3600 a 4.4ghz](https://www.clubedohardware.com.br/forums/topic/1688336-overclock-3600-a-44ghz/?do=getNewComment "overclock 3600 a 4.4ghz")
         
-        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
-        Por [Yuugishi](https://www.clubedohardware.com.br/profile/1237999-yuugishi/ "Ir ao perfil de Yuugishi")  
-        7 minutos atrás
+        [Overclock](https://www.clubedohardware.com.br/forums/forum/11-overclock/ "Overclock")  
+        Por [Paocombatatafrita](https://www.clubedohardware.com.br/profile/1186298-paocombatatafrita/ "Ir ao perfil de Paocombatatafrita")  
+        2 horas atrás
         
-    * [![Hiagoxlz](https://www.clubedohardware.com.br/uploads/members/monthly_2024_05/imported-photo-1245577.thumb.png.b9ebf913c9704f82c694206a01d93c7f.png)](https://www.clubedohardware.com.br/profile/1245577-hiagoxlz/ "Ir ao perfil de Hiagoxlz")
+    * [![oznerol](https://www.clubedohardware.com.br/uploads/members/monthly_2024_06/imported-photo-1247371.thumb.jpeg.af0dcd6da6c6fecbfde04e093269b5ba.jpeg)](https://www.clubedohardware.com.br/profile/1247371-oznerol/ "Ir ao perfil de oznerol")
         
-        1
+        2
         
-        [Driver de mídia necessário está faltando](https://www.clubedohardware.com.br/forums/topic/1688213-driver-de-m%C3%ADdia-necess%C3%A1rio-est%C3%A1-faltando/?do=getNewComment "Driver de mídia necessário está faltando")
+        [Suporte da placa-mãe H110M-CS/BR](https://www.clubedohardware.com.br/forums/topic/1688335-suporte-da-placa-m%C3%A3e-h110m-csbr/?do=getNewComment "Suporte da placa-mãe H110M-CS/BR")
         
-        [Windows 10](https://www.clubedohardware.com.br/forums/forum/249-windows-10/ "Windows 10")  
-        Por [Hiagoxlz](https://www.clubedohardware.com.br/profile/1245577-hiagoxlz/ "Ir ao perfil de Hiagoxlz")  
-        22 minutos atrás
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [oznerol](https://www.clubedohardware.com.br/profile/1247371-oznerol/ "Ir ao perfil de oznerol")  
+        3 horas atrás
         
-    * [![Luisbarbosabrl](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2362c463%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EL%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/751662-luisbarbosabrl/ "Ir ao perfil de Luisbarbosabrl")
-        
-        1
-        
-        [qual seria a melhor opção?](https://www.clubedohardware.com.br/forums/topic/1688212-qual-seria-a-melhor-op%C3%A7%C3%A3o/?do=getNewComment "qual seria a melhor opção?")
-        
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [Luisbarbosabrl](https://www.clubedohardware.com.br/profile/751662-luisbarbosabrl/ "Ir ao perfil de Luisbarbosabrl")  
-        32 minutos atrás
-        
-    * [![GabrielPereiral761](https://www.clubedohardware.com.br/uploads/members/monthly_2024_06/imported-photo-1247304.thumb.png.e7d33ca3ebf7bce8878245ecbc436694.png)](https://www.clubedohardware.com.br/profile/1247304-gabrielpereiral761/ "Ir ao perfil de GabrielPereiral761")
-        
-        0
-        
-        [Quais processadores compatível com o galaxy book 2?](https://www.clubedohardware.com.br/forums/topic/1688211-quais-processadores-compat%C3%ADvel-com-o-galaxy-book-2/?do=getNewComment "Quais processadores compatível com o galaxy book 2?")
-        
-        [Notebooks](https://www.clubedohardware.com.br/forums/forum/156-notebooks/ "Notebooks")  
-        Por [GabrielPereiral761](https://www.clubedohardware.com.br/profile/1247304-gabrielpereiral761/ "Ir ao perfil de GabrielPereiral761")  
-        50 minutos atrás
-        
-    * [![Emanuel Ferreira da Silva](https://www.clubedohardware.com.br/uploads/members/monthly_2020_08/imported-photo-1030787.thumb.jpeg.7c28e069f0cfb2a7983c7c003bd48de9.jpeg)](https://www.clubedohardware.com.br/profile/1030787-emanuel-ferreira-da-silva/ "Ir ao perfil de Emanuel Ferreira da Silva")
+    * [![Jonatas fernando lima ardt](https://www.clubedohardware.com.br/uploads/members/monthly_2024_06/imported-photo-1247369.thumb.jpeg.ee2ac7be7d217d4c1ff9709cba6ede98.jpeg)](https://www.clubedohardware.com.br/profile/1247369-jonatas-fernando-lima-ardt/ "Ir ao perfil de Jonatas fernando lima ardt")
         
         3
         
-        [Montagem de Computador ate 5K](https://www.clubedohardware.com.br/forums/topic/1688210-montagem-de-computador-ate-5k/?do=getNewComment "Montagem de Computador ate 5K")
+        [Troquei meu i3 12100f por i5 12400f e ao invés de melhorar, piorou, GPU 50%](https://www.clubedohardware.com.br/forums/topic/1688334-troquei-meu-i3-12100f-por-i5-12400f-e-ao-inv%C3%A9s-de-melhorar-piorou-gpu-50/?do=getNewComment "Troquei meu i3 12100f por i5 12400f  e ao invés de melhorar, piorou, GPU 50%")
         
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [Emanuel Ferreira da Silva](https://www.clubedohardware.com.br/profile/1030787-emanuel-ferreira-da-silva/ "Ir ao perfil de Emanuel Ferreira da Silva")  
-        55 minutos atrás
+        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
+        Por [Jonatas fernando lima ardt](https://www.clubedohardware.com.br/profile/1247369-jonatas-fernando-lima-ardt/ "Ir ao perfil de Jonatas fernando lima ardt")  
+        4 horas atrás
         
-    * [![KromaTL](https://www.clubedohardware.com.br/uploads/members/monthly_2024_06/imported-photo-1218637.thumb.jpeg.fbda38d9c3f7cb63667f9926d0816661.jpeg)](https://www.clubedohardware.com.br/profile/1218637-kromatl/ "Ir ao perfil de KromaTL")
-        
-        0
-        
-        [Preciso de sugestões de emuladores/site de ROMs confiáveis](https://www.clubedohardware.com.br/forums/topic/1688209-preciso-de-sugest%C3%B5es-de-emuladoressite-de-roms-confi%C3%A1veis/?do=getNewComment "Preciso de sugestões de emuladores/site de ROMs confiáveis")
-        
-        [Programas](https://www.clubedohardware.com.br/forums/forum/24-programas/ "Programas")  
-        Por [KromaTL](https://www.clubedohardware.com.br/profile/1218637-kromatl/ "Ir ao perfil de KromaTL")  
-        57 minutos atrás
-        
-    * [![Filipi Oliveira](https://www.clubedohardware.com.br/uploads/members/monthly_2024_06/imported-photo-1247302.thumb.jpeg.fd9c7550ada90c57f682dc08ffb852e2.jpeg)](https://www.clubedohardware.com.br/profile/1247302-filipi-oliveira/ "Ir ao perfil de Filipi Oliveira")
+    * [![Vitor.OLiveira](https://www.clubedohardware.com.br/uploads/members/monthly_2023_09/imported-photo-1227713.thumb.jpeg.bc8b2013e5ca7f78f822e3001100f44d.jpeg)](https://www.clubedohardware.com.br/profile/1227713-vitoroliveira/ "Ir ao perfil de Vitor.OLiveira")
         
         1
         
-        [PC não entra na BIOS](https://www.clubedohardware.com.br/forums/topic/1688208-pc-n%C3%A3o-entra-na-bios/?do=getNewComment "PC não entra na BIOS")
+        [Vale a pena fazer up pro R7 5700x3D](https://www.clubedohardware.com.br/forums/topic/1688332-vale-a-pena-fazer-up-pro-r7-5700x3d/?do=getNewComment "Vale a pena fazer up pro R7 5700x3D")
         
-        [Outros problemas de hardware](https://www.clubedohardware.com.br/forums/forum/125-outros-problemas-de-hardware/ "Outros problemas de hardware")  
-        Por [Filipi Oliveira](https://www.clubedohardware.com.br/profile/1247302-filipi-oliveira/ "Ir ao perfil de Filipi Oliveira")  
-        1 hora atrás
+        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
+        Por [Vitor.OLiveira](https://www.clubedohardware.com.br/profile/1227713-vitoroliveira/ "Ir ao perfil de Vitor.OLiveira")  
+        4 horas atrás
         
-    * [![Daniel Cabral](https://www.clubedohardware.com.br/uploads/members/monthly_2021_08/imported-photo-1143429.thumb.jpeg.a96e18e41ecb10240658aa3ddd559f9d.jpeg)](https://www.clubedohardware.com.br/profile/1143429-daniel-cabral/ "Ir ao perfil de Daniel Cabral")
-        
-        0
-        
-        [Pc 2,000 reais (Ryzen 5 5600G)](https://www.clubedohardware.com.br/forums/topic/1688207-pc-2000-reais-ryzen-5-5600g/?do=getNewComment "Pc 2,000 reais (Ryzen 5 5600G)")
-        
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [Daniel Cabral](https://www.clubedohardware.com.br/profile/1143429-daniel-cabral/ "Ir ao perfil de Daniel Cabral")  
-        1 hora atrás
-        
-    * [![CaioLCamargo](https://www.clubedohardware.com.br/uploads/members/monthly_2021_02/imported-photo-1143855.thumb.jpeg.89f82aab5f0fdb1f5c905890d3ef1995.jpeg)](https://www.clubedohardware.com.br/profile/1143855-caiolcamargo/ "Ir ao perfil de CaioLCamargo")
+    * [![Kaiq748](https://www.clubedohardware.com.br/uploads/members/monthly_2024_03/imported-photo-1240512.thumb.png.b0f795c5cb2c8f4cf09b0baa502a065c.png)](https://www.clubedohardware.com.br/profile/1240512-kaiq748/ "Ir ao perfil de Kaiq748")
         
         0
         
-        [Logitech G PRO funciona com o unifying?](https://www.clubedohardware.com.br/forums/topic/1688206-logitech-g-pro-funciona-com-o-unifying/?do=getNewComment "Logitech G PRO funciona com o unifying?")
-        
-        [Teclados, mouses e controles para jogos](https://www.clubedohardware.com.br/forums/forum/62-teclados-mouses-e-controles-para-jogos/ "Teclados, mouses e controles para jogos")  
-        Por [CaioLCamargo](https://www.clubedohardware.com.br/profile/1143855-caiolcamargo/ "Ir ao perfil de CaioLCamargo")  
-        1 hora atrás
-        
-    * [![pedro14132](https://www.clubedohardware.com.br/uploads/members/monthly_2024_06/imported-photo-1247300.thumb.png.e2bd6ba0b6e8e91ef7268603279075cd.png)](https://www.clubedohardware.com.br/profile/1247300-pedro14132/ "Ir ao perfil de pedro14132")
-        
-        1
-        
-        [a placa-mãe, msi g41m-s01 (MS-7592) socket e compatível com quais processadores](https://www.clubedohardware.com.br/forums/topic/1688205-a-placa-m%C3%A3e-msi-g41m-s01-ms-7592-socket-e-compat%C3%ADvel-com-quais-processadores/?do=getNewComment "a placa-mãe, msi g41m-s01  (MS-7592) socket e compatível com quais processadores")
+        [Pc liga, porém fica piscando e não da para mexer](https://www.clubedohardware.com.br/forums/topic/1688331-pc-liga-por%C3%A9m-fica-piscando-e-n%C3%A3o-da-para-mexer/?do=getNewComment "Pc liga, porém fica piscando e não da para mexer")
         
         [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [pedro14132](https://www.clubedohardware.com.br/profile/1247300-pedro14132/ "Ir ao perfil de pedro14132")  
-        1 hora atrás
+        Por [Kaiq748](https://www.clubedohardware.com.br/profile/1240512-kaiq748/ "Ir ao perfil de Kaiq748")  
+        4 horas atrás
+        
+    * [![pirexgb](https://www.clubedohardware.com.br/uploads/members/monthly_2023_11/imported-photo-1231622.thumb.png.6e457259ed38257e2589e3d17811ddf6.png)](https://www.clubedohardware.com.br/profile/1231622-pirexgb/ "Ir ao perfil de pirexgb")
+        
+        1
+        
+        [Downgrade na BIOS da a320mHd](https://www.clubedohardware.com.br/forums/topic/1688330-downgrade-na-bios-da-a320mhd/?do=getNewComment "Downgrade na BIOS da a320mHd")
+        
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [pirexgb](https://www.clubedohardware.com.br/profile/1231622-pirexgb/ "Ir ao perfil de pirexgb")  
+        5 horas atrás
+        
+    * [![Gustavo Eloy](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c462a8%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EGE%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1101782-gustavo-eloy/ "Ir ao perfil de Gustavo Eloy")
+        
+        1
+        
+        [Memórias iguais mas com capacidade diferentes geram dual channel?](https://www.clubedohardware.com.br/forums/topic/1688329-mem%C3%B3rias-iguais-mas-com-capacidade-diferentes-geram-dual-channel/?do=getNewComment "Memórias iguais mas com capacidade diferentes geram dual channel?")
+        
+        [Memórias (RAM)](https://www.clubedohardware.com.br/forums/forum/29-mem%C3%B3rias-ram/ "Memórias (RAM)")  
+        Por [Gustavo Eloy](https://www.clubedohardware.com.br/profile/1101782-gustavo-eloy/ "Ir ao perfil de Gustavo Eloy")  
+        5 horas atrás
+        
+    * [![Eduardo.castr0](https://www.clubedohardware.com.br/uploads/members/monthly_2023_11/11.thumb.jpg.62593a7f1ca4b9759085c269e155021b.jpg)](https://www.clubedohardware.com.br/profile/1196975-eduardocastr0/ "Ir ao perfil de Eduardo.castr0")
+        
+        0
+        
+        [monitor com faixa branca](https://www.clubedohardware.com.br/forums/topic/1688328-monitor-com-faixa-branca/?do=getNewComment "monitor com faixa branca")
+        
+        [Monitores de vídeo](https://www.clubedohardware.com.br/forums/forum/37-monitores-de-v%C3%ADdeo/ "Monitores de vídeo")  
+        Por [Eduardo.castr0](https://www.clubedohardware.com.br/profile/1196975-eduardocastr0/ "Ir ao perfil de Eduardo.castr0")  
+        6 horas atrás
+        
+    * [![imluisxs](https://www.clubedohardware.com.br/uploads/members/monthly_2024_06/imported-photo-1247341.thumb.png.c473af0678d6277fe25de95322b3fad3.png)](https://www.clubedohardware.com.br/profile/1247341-imluisxs/ "Ir ao perfil de imluisxs")
+        
+        0
+        
+        [necessito de sugestões de teclado mecânico e mouse gamer](https://www.clubedohardware.com.br/forums/topic/1688327-necessito-de-sugest%C3%B5es-de-teclado-mec%C3%A2nico-e-mouse-gamer/?do=getNewComment "necessito de sugestões de teclado mecânico e mouse gamer")
+        
+        [Teclados, mouses e controles para jogos](https://www.clubedohardware.com.br/forums/forum/62-teclados-mouses-e-controles-para-jogos/ "Teclados, mouses e controles para jogos")  
+        Por [imluisxs](https://www.clubedohardware.com.br/profile/1247341-imluisxs/ "Ir ao perfil de imluisxs")  
+        6 horas atrás
+        
+    * [![Matheus Delos](https://www.clubedohardware.com.br/uploads/members/monthly_2023_05/1JG8Qua1_400x400.thumb.jpg.4de71162929c2785d269a8584feaaada.jpg)](https://www.clubedohardware.com.br/profile/1220238-matheus-delos/ "Ir ao perfil de Matheus Delos")
+        
+        9
+        
+        [BIOS da b660m Panthom gaming](https://www.clubedohardware.com.br/forums/topic/1688326-bios-da-b660m-panthom-gaming/?do=getNewComment "BIOS da b660m Panthom gaming")
+        
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [Matheus Delos](https://www.clubedohardware.com.br/profile/1220238-matheus-delos/ "Ir ao perfil de Matheus Delos")  
+        6 horas atrás
         
     
 
