@@ -7,7 +7,11 @@ Breadcrumb
 2. [Donate](https://www.crohnscolitisfoundation.org/donate)
 3. Donor Privacy Policy
 
- 
+Choose a language:
+
+Language EnglishArabic | عربىChinese | 中文Korean | 한국어Portuguese | PortuguêsSpanish | Español
+
+  
 
 Donor Privacy Policy
 ====================
