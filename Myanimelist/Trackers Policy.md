@@ -1,4 +1,4 @@
-[![Yearbook_2023_Results](/c/img/images/event/Mini_Banner_20240131_Yearbook_Results_2023/mini-banner.png "Yearbook_2023_Results")](https://mxj.myanimelist.net/yearbook2023/result?utm_source=MAL&utm_medium=all_TMB_yearbook2023result)
+[![MAL x JAPAN](/c/img/images/event/20210527_MALxJAPAN_MiniBanner/500x72_miniBanner_B.png "MAL x JAPAN")](https://mxj.myanimelist.net/)
 
 [Hide Ads](https://myanimelist.net/membership?_location=mal_h_u)[Login](https://myanimelist.net/login.php)[Sign Up](https://myanimelist.net/register.php)
 
