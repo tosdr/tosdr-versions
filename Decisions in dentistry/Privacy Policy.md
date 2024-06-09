@@ -181,6 +181,13 @@ This Privacy Statement was last revised on and is effective as of September 1, 2
 
 [### decisionsindentistry](https://www.instagram.com/decisionsindentistry/ "@decisionsindentistry")
 
+[Charles Sutera, DMD, FAGD, shares his expertise on ![Charles Sutera, DMD, FAGD, shares his expertise on how dentists can make a difference in the treatment of temporomandibular jaw issues.⁠
+⁠
+@tmj_relax⁠
+---⁠
+⁠
+#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C79RB5LMkXx/) 
+
 [Arkansas is without a single dental school and its ![Arkansas is without a single dental school and its residents have the poorest oral health in the United States. Lyon College in Batesville has been planning to open the School of Oral Health and Dental Medicine in Little Rock in 2025. Unfortunately, obstacles to this plan have continued to arise. Recently, the partnership between Lyon College and OneHealth Education Group, an organization that uses private-sector capital to create medical and dental programs, has ended. Link in bio.⁠
 ⁠
 ⁠
@@ -215,13 +222,6 @@ This Privacy Statement was last revised on and is effective as of September 1, 2
 ---⁠
 ⁠
 #dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C7wSLOatDVC/) 
-
-[In this episode of The Art of Dental Finance and M ![In this episode of The Art of Dental Finance and Management,” Art is joined by nationally renowned dental practice management coach, speaker, and author Penny Reed. Penny shares her five key strategies for growing your dental business, from increasing your new and active patient load to improving office efficiency. Plus, she explains how running a dental practice is just like staging a Broadway show — after all, “there’s no business like smile business.” Link in bio.⁠
-⁠
-⁠
----⁠
-⁠
-#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C7ttYC1MjW3/) 
 
 [Load More](javascript:void(0);) [Follow on Instagram](https://www.instagram.com/decisionsindentistry/)
 
