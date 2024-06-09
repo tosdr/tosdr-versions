@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/politiek/joe-biden-dementerend-president-hoe-lang-nog/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/arend-zeevat/de-geindoctrineerde-en-vervalste-geschiedenis/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
@@ -121,15 +121,15 @@ Advertentie
 
 #### WantToKnow Boekentip
 
-![](https://i0.wp.com/www.wanttoknow.nl/wp-content/uploads/oog-in-oog-met-het-beest-boekcover-naomi-wolf.jpg?fit=314%2C440&ssl=1)
+![](https://i0.wp.com/www.wanttoknow.nl/wp-content/uploads/Einde-van-de-omgekeerde-wereld-cover.jpg?fit=306%2C440&ssl=1)
 
-### [‘Oog in oog met het beest’..!!](https://www.wanttoknow.nl/boeken/oog-in-oog-met-het-beest/)
+### [Einde aan de omgekeerde wereld van geneeskunde..!!](https://www.wanttoknow.nl/boeken/einde-aan-de-omgekeerde-wereld-van-geneeskunde/)
 
-by [GuidoJ.](https://www.wanttoknow.nl/author/guido/) Posted on [15 maart 2024](https://www.wanttoknow.nl/boeken/oog-in-oog-met-het-beest/)
+by [GuidoJ.](https://www.wanttoknow.nl/author/guido/) Posted on [8 juni 2024](https://www.wanttoknow.nl/boeken/einde-aan-de-omgekeerde-wereld-van-geneeskunde/)
 
-[Het is een bijzondere vrouw, de auteur van dit boek. Haar naam? Dr. Naomi Wolf. Feministisch auteur ‘van huis uit’, maar inmiddels niet meer weg te denken uit de intellectueel-politieke discussies in de wereld, met name die in de Verenigde Staten, waar journalistiek is verworden tot ‘hoernalistiek’. Groot voorbeeld hierbij voor Naomi Wolf was/is de afgelopen Corona-periode, waaruit keihard blijkt, dat er sprake is van een ‘ongezien machtsblok’ dat duvels goed weet, wat er speelt, maar vooral wist ‘wat er ging spelen’!! Haar nieuwe boek is een pareltje van onthullingen en de consequenties van de niet te missen conclusies..!! …](https://www.wanttoknow.nl/boeken/oog-in-oog-met-het-beest/)
+[Over de fundamentele overtuigingen over gezondheid en ziekte; zó fundamenteel dat de meesten van ons er waarschijnlijk niet aan gedacht hebben om eraan te twijfelen. De dokter weet toch wel waar die het over heeft..?) Bijvoorbeeld, veroorzaken bacteriën ziekte, of maken ze deel uit van de schoonmaakploeg van het lichaam op de plaats van onderliggende toxiciteit of verwonding? Volgen onderzoekers de wetenschappelijke methode wanneer ze stellen dat ze virussen isoleren en aantonen dat deze virussen bij hun gastheren ziekten veroorzaken? Hoe worden onderzoeken uitgevoerd die zogenaamd de overdracht van ziektekiemen van zieke mensen naar gezonde mensen aantonen? Hoe verschillen de gezondheidsresultaten op lange termijn van gevaccineerde en niet-gevaccineerde populaties? Vragen die schreeuwen om een neutrale positie van de medische wetenschap, Die nu vooral een ivoren toren van onwrikbare aannames is geworden.. …](https://www.wanttoknow.nl/boeken/einde-aan-de-omgekeerde-wereld-van-geneeskunde/)
 
-Posted in [Boeken](https://www.wanttoknow.nl/dossiers/boeken/) Tagged [censuur](https://www.wanttoknow.nl/trefwoorden/censuur/), [Corona](https://www.wanttoknow.nl/trefwoorden/corona/), [doofpot](https://www.wanttoknow.nl/trefwoorden/doofpot/), [Geheime-Genootschappen](https://www.wanttoknow.nl/trefwoorden/geheime-genootschappen/), [Inspiratie](https://www.wanttoknow.nl/trefwoorden/inspiratie/), [Machtselite](https://www.wanttoknow.nl/trefwoorden/machtselite/), [Media](https://www.wanttoknow.nl/trefwoorden/media/), [obama](https://www.wanttoknow.nl/trefwoorden/obama/), [Oorlog](https://www.wanttoknow.nl/trefwoorden/oorlog/), [Politiek](https://www.wanttoknow.nl/trefwoorden/politiek/), [wereldorde](https://www.wanttoknow.nl/trefwoorden/wereldorde/) [Laat een reactie achter](https://www.wanttoknow.nl/boeken/oog-in-oog-met-het-beest/#respond)
+Posted in [Boeken](https://www.wanttoknow.nl/dossiers/boeken/) Tagged [Corona](https://www.wanttoknow.nl/trefwoorden/corona/), [Duurzaam](https://www.wanttoknow.nl/trefwoorden/duurzaam/), [Farmacie](https://www.wanttoknow.nl/trefwoorden/farmacie/), [Gezondheid](https://www.wanttoknow.nl/trefwoorden/gezondheid/), [Machtselite](https://www.wanttoknow.nl/trefwoorden/machtselite/), [Media](https://www.wanttoknow.nl/trefwoorden/media/), [Vaccinaties](https://www.wanttoknow.nl/trefwoorden/vaccinaties/), [wereldorde](https://www.wanttoknow.nl/trefwoorden/wereldorde/), [Wetenschap](https://www.wanttoknow.nl/trefwoorden/wetenschap/) [Laat een reactie achter](https://www.wanttoknow.nl/boeken/einde-aan-de-omgekeerde-wereld-van-geneeskunde/#respond)
 
 ![](https://i0.wp.com/www.wanttoknow.nl/wp-content/uploads/EET-BACON-vegetariers-doden-planten.jpg?fit=627%2C780&ssl=1)
 
