@@ -2,36 +2,6 @@
 
 Previous
 
-Exploding Kittens: Good vs Evil. New Rules. New Kittens. NEW MAYHEM. Shop Now.
-
-Close
-
-#### Exploding Kittens: Good vs Evil
-
-New Rules. New Kittens. NEW MAYHEM. This is the most high-stakes version of Exploding Kittens.
-
-[Shop Now.](https://www.explodingkittens.com/collections/grab-and-game)
-
-New! Danger Danger. A dangerously simple card game…with a twist you won’t see coming. Shop Now.
-
-Close
-
-#### New! Danger Danger
-
-A dangerously simple card game…with a twist you won’t see coming.
-
-[Shop Now.](https://www.explodingkittens.com/products/danger-danger)
-
-New! Power Hungry Pets. A strategy game where you only need one card to win! Shop Now.
-
-Close
-
-#### New! Power Hungry Pets
-
-A strategy game where you only need one card to win!
-
-[Shop Now](https://www.explodingkittens.com/products/power-hungry-pets)
-
 Free shipping on orders of $40 or more in the contiguous US. See Details.
 
 Close
