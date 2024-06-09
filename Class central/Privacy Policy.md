@@ -353,38 +353,38 @@ Coursera sees headcount decrease and faces lawsuit in 2023, invests in proprieta
 Most common
 -----------
 
-1. javascript
+1. python
     
-2. harvard
+2. psychology
     
-3. French
+3. javascript
     
 
 Popular subjects
 ----------------
 
-1. [Language Learning
-    
-    1,545 courses](https://www.classcentral.com/subject/language-learning)
-2. [Marketing
-    
-    6,247 courses](https://www.classcentral.com/subject/marketing)
-3. [Data Analysis
+1. [Data Analysis
     
     6,345 courses](https://www.classcentral.com/subject/data-analysis)
+2. [Artificial Intelligence
+    
+    4,956 courses](https://www.classcentral.com/subject/ai)
+3. [Communication Skills
+    
+    2,835 courses](https://www.classcentral.com/subject/communication-skills)
 
 Popular courses
 ---------------
 
-1. [Umano Digitale
+1. [Medical Parasitology | 医学寄生虫学
     
-    University of Urbino](https://www.classcentral.com/course/independent-umano-digitale-13499)
-2. [Basic Spanish 1: Getting Started
+    Tsinghua University](https://www.classcentral.com/course/medicine-tsinghua-university-medical-parasitology-19192)
+2. [Multilingual Practices: Tackling Challenges and Creating Opportunities
     
-    Universitat Politècnica de València](https://www.classcentral.com/course/language-universitat-politecnica-de-valencia-basi-3698)
-3. [English for the Workplace
+    University of Groningen](https://www.classcentral.com/course/multilingual-practices-8096)
+3. [Academic Writing
     
-    British Council](https://www.classcentral.com/course/workplace-english-6911)
+    H.N.B Garhwal University (A Central University) Srinagar Garhwal](https://www.classcentral.com/course/swayam-academic-writing-13881)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
