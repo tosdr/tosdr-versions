@@ -1,7 +1,7 @@
-[![Windows 10 Help Forums ](img/TenForumsLogo.png)](https://www.tenforums.com/forum.php?s=34ce6beb0168c92df7715b4da24d025e)
+[![Windows 10 Help Forums ](img/TenForumsLogo.png)](https://www.tenforums.com/forum.php?s=40d85081e3ec5864414602e0b91d27ef)
 
-* [Register](https://www.tenforums.com/register.php?s=34ce6beb0168c92df7715b4da24d025e)
-* [Help](https://www.tenforums.com/faq.php?s=34ce6beb0168c92df7715b4da24d025e)
+* [Register](https://www.tenforums.com/register.php?s=40d85081e3ec5864414602e0b91d27ef)
+* [Help](https://www.tenforums.com/faq.php?s=40d85081e3ec5864414602e0b91d27ef)
 *    
     
      Remember Me?
@@ -11,9 +11,9 @@
 
 * * *
 
-* [What's New?](https://www.tenforums.com/activity.php?s=34ce6beb0168c92df7715b4da24d025e)
-* [Forum](https://www.tenforums.com/forum.php?s=34ce6beb0168c92df7715b4da24d025e)
-    * [FAQ](https://www.tenforums.com/faq.php?s=34ce6beb0168c92df7715b4da24d025e)
+* [What's New?](https://www.tenforums.com/activity.php?s=40d85081e3ec5864414602e0b91d27ef)
+* [Forum](https://www.tenforums.com/forum.php?s=40d85081e3ec5864414602e0b91d27ef)
+    * [FAQ](https://www.tenforums.com/faq.php?s=40d85081e3ec5864414602e0b91d27ef)
     * [Tutorial Index](https://www.tenforums.com/tutorials/1977-windows-10-tutorial-index.html)
 * [Tutorials](https://www.tenforums.com/tutorials/)
 * [News](https://www.tenforums.com/windows-10-news/)
@@ -21,9 +21,9 @@
 
     
 
-* [Advanced Search](https://www.tenforums.com/search.php?s=34ce6beb0168c92df7715b4da24d025e)
+* [Advanced Search](https://www.tenforums.com/search.php?s=40d85081e3ec5864414602e0b91d27ef)
 
-* [](https://www.tenforums.com/index.php?s=34ce6beb0168c92df7715b4da24d025e)
+* [](https://www.tenforums.com/index.php?s=40d85081e3ec5864414602e0b91d27ef)
 * Legal
     =====
     
@@ -316,7 +316,7 @@ Site Links
 
 * * *
 
-* [Contact Us](https://www.tenforums.com/sendmessage.php?s=34ce6beb0168c92df7715b4da24d025e)
+* [Contact Us](https://www.tenforums.com/sendmessage.php?s=40d85081e3ec5864414602e0b91d27ef)
 * [Privacy and Cookies](https://www.tenforums.com/privacy_policy.php)
 * [Terms of service](https://www.tenforums.com/terms.php)
 
@@ -327,7 +327,7 @@ About Us
 Windows 10 Forums is an independent web site and has not been authorized, sponsored, or otherwise approved by Microsoft Corporation. "Windows 10" and related materials are trademarks of Microsoft Corp.  
   
 [© Designer Media Ltd](http://www.designermedia.com/)  
-All times are GMT -5. The time now is 16:00.  
+All times are GMT -5. The time now is 20:24.  
 
 Find Us
 
