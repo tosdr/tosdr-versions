@@ -39,9 +39,9 @@ editorial \_
 
 coverstory \_
 
-[![Google Maps vs. Apple Maps: Their Strengths and Weaknesses](https://s1.cdn.autoevolution.com/images/news/google-maps-vs-apple-maps-their-strengths-and-weaknesses-235034-5.jpg "Google Maps vs. Apple Maps: Their Strengths and Weaknesses")
+[![The Little Cove Is a Cozy and Modern Haven on Wheels for Two](https://s1.cdn.autoevolution.com/images/news/the-little-cove-is-a-cozy-and-modern-haven-on-wheels-for-two-235067-5.jpg "The Little Cove Is a Cozy and Modern Haven on Wheels for Two")
 
-Google Maps vs. Apple Maps: Their Strengths and Weaknesses](https://www.autoevolution.com/news/google-maps-vs-apple-maps-their-strengths-and-weaknesses-235034.html)
+The Little Cove Is a Cozy and Modern Haven on Wheels for Two](https://www.autoevolution.com/news/the-little-cove-is-a-cozy-and-modern-haven-on-wheels-for-two-235067.html)
 
 how-to \_
 
