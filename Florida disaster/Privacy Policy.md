@@ -199,9 +199,9 @@ Dial 711 (TDD/TTY)        
 
 ### Weather Outlook
 
-**Friday, June 7, 2024**
+**Saturday, June 8, 2024**
 
-**...Drier Conditions Return to The Florida Panhandle Behind An Advancing Frontal Boundary With A Few Showers and Thunderstorms Anticipated Across the Big Bend...Scattered to Numerous Showers and Thunderstorms To Develop Along the Peninsula and Keys With The Sea Breezes...A Few Strong to Severe Thunderstorms Possible and Isolated Instances of Flooding and Ponding of Water Cannot Be Ruled Out...Heat Indices Reaching Upper 90s and Triple Digits Statewide...Heat Advisories Issued For Portions of South Florida...Senstive to Locally Elevated Wildfire Conditions Through Interior North and Central Florida...Moderate Risk for Rip Currents Along Several Panhandle and East Coast Beaches...**
+**...Scattered Showers and Thunderstorms Ongoign Across South Florida This Morning...Scattered Showers and Thunderstorms To Develop South of I-4 and Along the Keys With The Sea Breezes This Afternoon, Continuing Into The Overnight Hours...A Few Storms May Be Strong to Severe...Instances of Flooding and Ponding of Water Cannot Be Ruled Out Over Urban and Low-Lying/Poor Drainage Areas...Mostly Sunny and Dry Conditions North of I-4 And Along the Florida Panhandle...Heat Indices In the Triple Digits (100-106) Across The Peninsula and Keys; Heat Advisories Cannot Be Ruled Out...Sensitive to Locally Elevated Wildfire Conditions Across Interior North and Central Florida...Wind Gusts Near 15-25 MPH At Times InThe Northern Peninsula..Patchy Fog Possible Overnight and Early Sunday Morning Across Interior North and Central Florida...**
 
 [More Details](https://www.floridadisaster.org/weather/)
 
