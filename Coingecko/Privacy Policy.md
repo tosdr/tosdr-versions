@@ -1,22 +1,22 @@
-Coins: [14,724](https://www.coingecko.com/)
+Coins: [14,643](https://www.coingecko.com/)
 
-Exchanges: [1,119](https://www.coingecko.com/en/exchanges)
+Exchanges: [1,118](https://www.coingecko.com/en/exchanges)
 
-Market Cap: [$2.691T](https://www.coingecko.com/en/global-charts) 2.8%
+Market Cap: [$2.673T](https://www.coingecko.com/en/global-charts) 0.8%
 
-24h Vol: [$112.281B](https://www.coingecko.com/en/global-charts)
+24h Vol: [$70.043B](https://www.coingecko.com/en/global-charts)
 
 Dominance:
 
-[BTC 50.8%](https://www.coingecko.com/en/global-charts) [ETH 16.5%](https://www.coingecko.com/en/global-charts)
+[BTC 51.1%](https://www.coingecko.com/en/global-charts) [ETH 16.6%](https://www.coingecko.com/en/global-charts)
 
-Gas: 6 GWEI
+Gas: 5 GWEI
 
-Fast: 6 GWEI
+Fast: 8 GWEI
 
-Standard: 6 GWEI
+Standard: 5 GWEI
 
-Safe: 6 GWEI
+Safe: 5 GWEI
 
 Data by Etherscan
 
