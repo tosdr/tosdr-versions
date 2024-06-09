@@ -56,7 +56,7 @@ Search
 
 [![Home](images/logos/21/logo_white.jpg?v=1696508508227 "Home")](https://www.derrynow.com/)
 
-08 Jun 2024
+09 Jun 2024
 
 * [Home
     
@@ -259,87 +259,85 @@ Advertise with Us
 
 Most Popular
 
-[!['Heartbroken' - Tributes pour in as two-year-old girl who died in 'tragic accident' named locally](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "'Heartbroken' - Tributes pour in as two-year-old girl who died in 'tragic accident' named locally")](https://www.derrynow.com/news/national-news/1521891/heartbroken-tributes-paid-as-two-year-old-girl-who-died-in-tragic-accident-named-locally.html)
+[![Woman in her 20s in critical condition after collision in County Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Woman in her 20s in critical condition after collision in County Derry")](https://www.derrynow.com/news/local-news/1523428/woman-in-her-20s-in-critical-condition-after-collision-in-county-derry.html)
 
-[National News](https://www.derrynow.com/section/997/cookie-policy)
+[Local News](https://www.derrynow.com/section/975/news)
 
-['Heartbroken' - Tributes paid as two-year-old girl who died in 'tragic accident' named locally](https://www.derrynow.com/news/national-news/1521891/heartbroken-tributes-paid-as-two-year-old-girl-who-died-in-tragic-accident-named-locally.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Woman in her 20s in critical condition after collision in County Derry](https://www.derrynow.com/news/local-news/1523428/woman-in-her-20s-in-critical-condition-after-collision-in-county-derry.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![IN PICTURES: Schools in Diocese of Derry celebrate annual Fan the Flame Mass](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Schools in Diocese of Derry celebrate annual Fan the Flame Mass")](https://www.derrynow.com/story-telling/pictures---videos/1521975/in-pictures-schools-in-diocese-of-derry-celebrate-annual-fan-the-flame-mass.html)
+[![Nicola Coughlan spots her Mammy and gives her a cuddle at Galway Bridgerton premiere](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Nicola Coughlan spots her Mammy and gives her a cuddle at Galway Bridgerton premiere")](https://www.derrynow.com/news/arts---entertainment/1523356/nicola-coughlan-spots-her-mammy-and-gives-her-a-cuddle-at-galway-bridgerton-premiere.html)
 
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+| PICTURE: Instagram/@nicolacoughlan
 
-[IN PICTURES: Schools in Diocese of Derry celebrate annual Fan the Flame Mass](https://www.derrynow.com/story-telling/pictures---videos/1521975/in-pictures-schools-in-diocese-of-derry-celebrate-annual-fan-the-flame-mass.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Arts & Entertainment](https://www.derrynow.com/section/997/cookie-policy)
 
-[![Derry Death Notices - Friday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Friday")](https://www.derrynow.com/news/deaths/1521453/derry-death-notices-friday-7th-june-2024.html)
+[Nicola Coughlan spots her Mammy and gives her a cuddle at Galway Bridgerton premiere](https://www.derrynow.com/news/arts---entertainment/1523356/nicola-coughlan-spots-her-mammy-and-gives-her-a-cuddle-at-galway-bridgerton-premiere.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Woman in her 20s in critical condition after collision in County Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Woman in her 20s in critical condition after collision in County Derry")](https://www.derrynow.com/news/northern-ireland/1523355/woman-in-her-20s-in-critical-condition-after-collision-in-co-londonderry.html)
+
+[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+
+[Woman in her 20s in critical condition after collision in Co Londonderry](https://www.derrynow.com/news/northern-ireland/1523355/woman-in-her-20s-in-critical-condition-after-collision-in-co-londonderry.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry Death Notices - Sunday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Sunday")](https://www.derrynow.com/news/deaths/1523830/derry-death-notices-sunday-9th-june-2024.html)
 
 [Deaths](https://www.derrynow.com/section/977/deaths)
 
-[Derry Death Notices - Friday, 7th June 2024](https://www.derrynow.com/news/deaths/1521453/derry-death-notices-friday-7th-june-2024.html)
+[Derry Death Notices - Sunday, 9th June 2024](https://www.derrynow.com/news/deaths/1523830/derry-death-notices-sunday-9th-june-2024.html)
 -----------------------------------------------------------------------------------------------------------------------------------------
 
-[![Pit bull terrier shot by armed gardaí in Cork after two injured in dog attack](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Pit bull terrier shot by armed gardaí in Cork after two injured in dog attack")](https://www.derrynow.com/news/national-news/1521934/pit-bull-terrier-shot-by-armed-gardai-in-cork-after-two-injured-in-dog-attack.html)
+[![Derry GAA](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry GAA")](https://www.derrynow.com/news/derry-sport/1523543/derry-u14s-snatch-victory-from-the-jaws-of-defeat-to-win-second-successive-all-ireland-gold-title.html)
 
-[National News](https://www.derrynow.com/section/997/cookie-policy)
+The Derry team celebrate with the trophy after the 2024 All-Ireland U14 Gold Final match between Armagh and Derry at BOX-IT Athletic Grounds in Armagh. Photo by Tyler Miller/Sportsfile
 
-[Pit bull terrier shot by armed gardaí in Cork after two injured in dog attack](https://www.derrynow.com/news/national-news/1521934/pit-bull-terrier-shot-by-armed-gardai-in-cork-after-two-injured-in-dog-attack.html)
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Derry U14s snatch victory from the jaws of defeat to win second successive All-Ireland Gold title](https://www.derrynow.com/news/derry-sport/1523543/derry-u14s-snatch-victory-from-the-jaws-of-defeat-to-win-second-successive-all-ireland-gold-title.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry Minors](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Minors")](https://www.derrynow.com/news/derry-sport/1523548/reigning-champions-derry-advance-to-all-ireland-semis-with-victory-over-dublin.html)
+
+Derry Minors defeated Dublin at Kingspan Breffni Park today. Pic by Philip Fitzpatrick/ Sportsfile
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Reigning champions Derry advance to All-Ireland semis with victory over Dublin](https://www.derrynow.com/news/derry-sport/1523548/reigning-champions-derry-advance-to-all-ireland-semis-with-victory-over-dublin.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry man given 'final warning' after breaching bail](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man given 'final warning' after breaching bail")](https://www.derrynow.com/news/local-news/1522040/derry-man-given-final-warning-after-breaching-bail.html)
+[![Derry Minors](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Minors")](https://www.derrynow.com/news/derry-sport/1523551/delighted-damian-mcerlain-praises-squad-depth-after-derry-s-all-ireland-quarterfinal-victory.html)
 
-Derry Magistrate's Court
+Damian McErlain celebrated another Derry victory today. Pic by Philip Fitzpatrick/ Sportsfile
 
-[Local News](https://www.derrynow.com/section/975/news)
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
 
-[Derry man given 'final warning' after breaching bail](https://www.derrynow.com/news/local-news/1522040/derry-man-given-final-warning-after-breaching-bail.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Delighted Damian McErlain praises squad depth after Derry's All-Ireland quarterfinal victory](https://www.derrynow.com/news/derry-sport/1523551/delighted-damian-mcerlain-praises-squad-depth-after-derry-s-all-ireland-quarterfinal-victory.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Claudy man proud to announce his candidacy for the Ulster Unionist Party (UUP) in the upcoming general election](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Claudy man proud to announce his candidacy for the Ulster Unionist Party (UUP) in the upcoming general election")](https://www.derrynow.com/news/home/1521910/claudy-man-proud-to-announce-his-candidacy-for-the-ulster-unionist-party-uup-in-the-upcoming-general-election.html)
+[![D&D](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "D&D")](https://www.derrynow.com/news/derry-sport/1523577/foyle-harps-defeat-rosemount-to-win-fourth-successive-mcalinden-cup.html)
 
-Glen Miller, from Claudy, has announced he will be running as a candidate for the UUP in the upcoming Westminster Election.
+Foyle Harps players celebrate with the trophy. Pic by Tom Heaney, nwpresspics
 
-[Home](https://www.derrynow.com/)
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
 
-[Claudy man proud to announce his candidacy for the Ulster Unionist Party (UUP) in the upcoming general election](https://www.derrynow.com/news/home/1521910/claudy-man-proud-to-announce-his-candidacy-for-the-ulster-unionist-party-uup-in-the-upcoming-general-election.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Foyle Harps defeat Rosemount to win fourth successive McAlinden Cup](https://www.derrynow.com/news/derry-sport/1523577/foyle-harps-defeat-rosemount-to-win-fourth-successive-mcalinden-cup.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Suspended sentence for Derry man who assaulted police](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Suspended sentence for Derry man who assaulted police")](https://www.derrynow.com/news/local-news/1522036/suspended-sentence-for-derry-man-who-assaulted-police.html)
+[![Teenager in critical condition after crash in Co Fermanagh](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Teenager in critical condition after crash in Co Fermanagh")](https://www.derrynow.com/news/northern-ireland/1523190/teenager-in-critical-condition-after-crash-in-co-fermanagh.html)
 
-Derry Magistrate's Court
+[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
 
-[Local News](https://www.derrynow.com/section/975/news)
+[Teenager in critical condition after crash in Co Fermanagh](https://www.derrynow.com/news/northern-ireland/1523190/teenager-in-critical-condition-after-crash-in-co-fermanagh.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[Suspended sentence for Derry man who assaulted police](https://www.derrynow.com/news/local-news/1522036/suspended-sentence-for-derry-man-who-assaulted-police.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[![Man arrested on suspicion of attempted murder in Bangor](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man arrested on suspicion of attempted murder in Bangor")](https://www.derrynow.com/news/northern-ireland/1523141/man-arrested-on-suspicion-of-attempted-murder-in-bangor.html)
 
-[![UPDATE: Man, 20s, charged for alleged stalking of female public representative](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "UPDATE: Man, 20s, charged for alleged stalking of female public representative")](https://www.derrynow.com/news/national-news/1521806/update-man-in-his-20s-charged-for-alleged-stalking-of-female-public-representative.html)
+[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
 
-File photo
-
-[National News](https://www.derrynow.com/section/997/cookie-policy)
-
-[UPDATE: Man in his 20s charged for alleged stalking of female public representative](https://www.derrynow.com/news/national-news/1521806/update-man-in-his-20s-charged-for-alleged-stalking-of-female-public-representative.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![PSNI's Terrorism Investigation Unit investigating activities of New IRA carrying out search in Portglenone this morning](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PSNI's Terrorism Investigation Unit investigating activities of New IRA carrying out search in Portglenone this morning")](https://www.derrynow.com/news/home/1521852/psni-s-terrorism-investigation-unit-investigating-activities-of-new-ira-carrying-out-search-in-portglenone-this-morning.html)
-
-PSNI's Terrorism Investigation Unit are carrying out searches this morning.
-
-[Home](https://www.derrynow.com/)
-
-[PSNI's Terrorism Investigation Unit investigating activities of New IRA carrying out search in Portglenone this morning](https://www.derrynow.com/news/home/1521852/psni-s-terrorism-investigation-unit-investigating-activities-of-new-ira-carrying-out-search-in-portglenone-this-morning.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Search resumes for man missing off the coast of Galway overnight](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Search resumes for man missing off the coast of Galway overnight")](https://www.derrynow.com/news/national-news/1521895/search-resumes-for-man-missing-off-the-coast-of-galway-overnight.html)
-
-File photo
-
-[National News](https://www.derrynow.com/section/997/cookie-policy)
-
-[Search resumes for man missing off the coast of Galway overnight](https://www.derrynow.com/news/national-news/1521895/search-resumes-for-man-missing-off-the-coast-of-galway-overnight.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Man arrested on suspicion of attempted murder in Bangor](https://www.derrynow.com/news/northern-ireland/1523141/man-arrested-on-suspicion-of-attempted-murder-in-bangor.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -521,57 +519,57 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Irish unity is best way of getting back into European Union – Eastwood](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Irish unity is best way of getting back into European Union – Eastwood")](https://www.derrynow.com/news/local-news/1522671/irish-unity-is-best-way-of-getting-back-into-european-union-eastwood.html)
+[![Derry Death Notices - Sunday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Sunday")](https://www.derrynow.com/news/deaths/1523830/derry-death-notices-sunday-9th-june-2024.html)
 
-[Local News](https://www.derrynow.com/section/975/news)
+[Deaths](https://www.derrynow.com/section/977/deaths)
 
-[Irish unity is best way of getting back into European Union – Eastwood](https://www.derrynow.com/news/local-news/1522671/irish-unity-is-best-way-of-getting-back-into-european-union-eastwood.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry Death Notices - Sunday, 9th June 2024](https://www.derrynow.com/news/deaths/1523830/derry-death-notices-sunday-9th-june-2024.html)
+-----------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1522630/will-patching-and-pat-hoban-score-as-derry-city-defeat-galway-united.html)
+[![D&D](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "D&D")](https://www.derrynow.com/news/derry-sport/1523577/foyle-harps-defeat-rosemount-to-win-fourth-successive-mcalinden-cup.html)
 
-Michael Duffy celebrates with goal scorer Will Patching. Pic by Ramsey Cardy/ Sportsfile
+Foyle Harps players celebrate with the trophy. Pic by Tom Heaney, nwpresspics
 
 [Derry Sport](https://www.derrynow.com/section/1064/local-sport)
 
-[Will Patching and Pat Hoban score as Derry City defeat Galway United](https://www.derrynow.com/news/derry-sport/1522630/will-patching-and-pat-hoban-score-as-derry-city-defeat-galway-united.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Foyle Harps defeat Rosemount to win fourth successive McAlinden Cup](https://www.derrynow.com/news/derry-sport/1523577/foyle-harps-defeat-rosemount-to-win-fourth-successive-mcalinden-cup.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Aontú announce candidates to stand across ten constituencies for upcoming Westminster Election](https://www.derrynow.com/resizer/165/93/true/2024_06_07/1000047585-1717788887355.jpg--.jpg?1717788887988 "Aontú announce candidates to stand across ten constituencies for upcoming Westminster Election")](https://www.derrynow.com/news/home/1522598/aontu-announce-candidates-to-stand-across-ten-constituencies-for-upcoming-westminster-election.html)
+[![Derry Minors](https://www.derrynow.com/resizer/165/93/true/2024_06_08/2827705-1717876754402.jpg--.jpg?1717876756323 "Derry Minors")](https://www.derrynow.com/news/derry-sport/1523551/delighted-damian-mcerlain-praises-squad-depth-after-derry-s-all-ireland-quarterfinal-victory.html)
 
-Aontú leader Peadar Tóibín speaking at today's event.
+Damian McErlain celebrated another Derry victory today. Pic by Philip Fitzpatrick/ Sportsfile
 
-[Home](https://www.derrynow.com/)
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
 
-[Aontú announce candidates to stand across ten constituencies for upcoming Westminster Election](https://www.derrynow.com/news/home/1522598/aontu-announce-candidates-to-stand-across-ten-constituencies-for-upcoming-westminster-election.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Delighted Damian McErlain praises squad depth after Derry's All-Ireland quarterfinal victory](https://www.derrynow.com/news/derry-sport/1523551/delighted-damian-mcerlain-praises-squad-depth-after-derry-s-all-ireland-quarterfinal-victory.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Bethlehem's mayor approves process of twinning city with Derry](https://www.derrynow.com/resizer/165/93/true/2024_06_07/Bethlehem_%288296039511%29-1717766796455.jpg--.jpg?1717766796533 "Bethlehem's mayor approves process of twinning city with Derry")](https://www.derrynow.com/news/derry-city-and-strabane-district-council/1522226/bethlehem-s-mayor-approves-process-of-twinning-city-with-derry.html)
+[![Derry Minors](https://www.derrynow.com/resizer/165/93/true/2024_06_08/2828148-1717876244087.jpg--.jpg?1717876246087 "Derry Minors")](https://www.derrynow.com/news/derry-sport/1523548/reigning-champions-derry-advance-to-all-ireland-semis-with-victory-over-dublin.html)
 
-Bethlehem, credit Lux Moundi
+Derry Minors defeated Dublin at Kingspan Breffni Park today. Pic by Philip Fitzpatrick/ Sportsfile
 
-[Local News](https://www.derrynow.com/section/975/news)
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
 
-[Bethlehem's mayor approves process of twinning city with Derry](https://www.derrynow.com/news/derry-city-and-strabane-district-council/1522226/bethlehem-s-mayor-approves-process-of-twinning-city-with-derry.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Reigning champions Derry advance to All-Ireland semis with victory over Dublin](https://www.derrynow.com/news/derry-sport/1523548/reigning-champions-derry-advance-to-all-ireland-semis-with-victory-over-dublin.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry man given 'final warning' after breaching bail](https://www.derrynow.com/resizer/165/93/true/2024_04_04/Derry-courthouse.jpg--derry_courthouse-1712223605087.jpg--.jpg?1712223605116 "Derry man given 'final warning' after breaching bail")](https://www.derrynow.com/news/local-news/1522040/derry-man-given-final-warning-after-breaching-bail.html)
+[![Derry GAA](https://www.derrynow.com/resizer/165/93/true/2024_06_08/2844845-1717875715406.jpg--.jpg?1717875717687 "Derry GAA")](https://www.derrynow.com/news/derry-sport/1523543/derry-u14s-snatch-victory-from-the-jaws-of-defeat-to-win-second-successive-all-ireland-gold-title.html)
 
-Derry Magistrate's Court
+The Derry team celebrate with the trophy after the 2024 All-Ireland U14 Gold Final match between Armagh and Derry at BOX-IT Athletic Grounds in Armagh. Photo by Tyler Miller/Sportsfile
 
-[Local News](https://www.derrynow.com/section/975/news)
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
 
-[Derry man given 'final warning' after breaching bail](https://www.derrynow.com/news/local-news/1522040/derry-man-given-final-warning-after-breaching-bail.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry U14s snatch victory from the jaws of defeat to win second successive All-Ireland Gold title](https://www.derrynow.com/news/derry-sport/1523543/derry-u14s-snatch-victory-from-the-jaws-of-defeat-to-win-second-successive-all-ireland-gold-title.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Suspended sentence for Derry man who assaulted police](https://www.derrynow.com/resizer/165/93/true/2024_03_28/derrycourthouse2.jpg--man_remanded_at_derry_magistrate_s_court_on_series_of_driving_charges-1711633542377.jpg--.jpg?1711633542414 "Suspended sentence for Derry man who assaulted police")](https://www.derrynow.com/news/local-news/1522036/suspended-sentence-for-derry-man-who-assaulted-police.html)
+[![Nicola Coughlan spots her Mammy and gives her a cuddle at Galway Bridgerton premiere](https://www.derrynow.com/resizer/165/93/true/2024_06_06/Untitled_design_%281%29-1717670499909.png--.png?1717670500312 "Nicola Coughlan spots her Mammy and gives her a cuddle at Galway Bridgerton premiere")](https://www.derrynow.com/news/arts---entertainment/1523356/nicola-coughlan-spots-her-mammy-and-gives-her-a-cuddle-at-galway-bridgerton-premiere.html)
 
-Derry Magistrate's Court
+| PICTURE: Instagram/@nicolacoughlan
 
-[Local News](https://www.derrynow.com/section/975/news)
+[Arts & Entertainment](https://www.limerickleader.ie/section/2188/arts-entertainment)
 
-[Suspended sentence for Derry man who assaulted police](https://www.derrynow.com/news/local-news/1522036/suspended-sentence-for-derry-man-who-assaulted-police.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Nicola Coughlan spots her Mammy and gives her a cuddle at Galway Bridgerton premiere](https://www.derrynow.com/news/arts---entertainment/1523356/nicola-coughlan-spots-her-mammy-and-gives-her-a-cuddle-at-galway-bridgerton-premiere.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
