@@ -36,18 +36,18 @@
         
         Linux version of TargetCompany ransomware focuses on VMware ESXi](https://www.bleepingcomputer.com/news/security/linux-version-of-targetcompany-ransomware-focuses-on-vmware-esxi/)
     
-    * [![Apple to unveil new 'Passwords' password manager app for iPhones, Macs](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![New York Times source code stolen using exposed GitHub token](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Apple to unveil new 'Passwords' password manager app for iPhones, Macs](https://www.bleepingcomputer.com/news/security/apple-to-unveil-new-passwords-password-manager-app-for-iphones-macs/)
-    * [![Christie's starts notifying clients of RansomHub data breach](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        New York Times source code stolen using exposed GitHub token](https://www.bleepingcomputer.com/news/security/new-york-times-source-code-stolen-using-exposed-github-token/)
+    * [![DDoS attacks target EU political parties as elections begin](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Christie's starts notifying clients of RansomHub data breach](https://www.bleepingcomputer.com/news/security/christies-starts-notifying-clients-of-ransomhub-data-breach/)
-    * [![Frontier warns 750,000 of a data breach after extortion threats](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        DDoS attacks target EU political parties as elections begin](https://www.bleepingcomputer.com/news/security/ddos-attacks-target-eu-political-parties-as-elections-begin/)
+    * [![Get Dad the tools to visualize anything with $230 off Microsoft Visio](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Frontier warns 750,000 of a data breach after extortion threats](https://www.bleepingcomputer.com/news/security/frontier-warns-750-000-of-a-data-breach-after-extorted-by-ransomhub/)
-    * [![Microsoft makes Windows Recall opt-in, secures data with Windows Hello](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Get Dad the tools to visualize anything with $230 off Microsoft Visio](https://www.bleepingcomputer.com/offer/deals/get-dad-the-tools-to-visualize-anything-with-230-off-microsoft-visio/)
+    * [![LastPass says 12-hour outage caused by bad Chrome extension update](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Microsoft makes Windows Recall opt-in, secures data with Windows Hello](https://www.bleepingcomputer.com/news/microsoft/microsoft-makes-windows-recall-opt-in-secures-data-with-windows-hello/)
+        LastPass says 12-hour outage caused by bad Chrome extension update](https://www.bleepingcomputer.com/news/security/lastpass-says-12-hour-outage-caused-by-bad-chrome-extension-update/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
@@ -352,26 +352,26 @@ Melville, NY 11747**
 
 Popular Stories
 
-* [![Kali Linux](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* [![PHP](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    Kali Linux 2024.2 released with 18 new tools, Y2038 changes](https://www.bleepingcomputer.com/news/linux/kali-linux-20242-released-with-18-new-tools-y2038-changes/)
-* [![FBI](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    PHP fixes critical RCE flaw impacting all versions for Windows](https://www.bleepingcomputer.com/news/security/php-fixes-critical-rce-flaw-impacting-all-versions-for-windows/)
+* [![Windows 11 Recall](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    FBI recovers 7,000 LockBit keys, urges ransomware victims to reach out](https://www.bleepingcomputer.com/news/security/fbi-recovers-7-000-lockbit-keys-urges-ransomware-victims-to-reach-out/)
+    Microsoft makes Windows Recall opt-in, secures data with Windows Hello](https://www.bleepingcomputer.com/news/microsoft/microsoft-makes-windows-recall-opt-in-secures-data-with-windows-hello/)
 
 Latest forum topics
 
-* [SuperAntiSpyware Free Edition](https://www.bleepingcomputer.com/forums/t/798042/superantispyware-free-edition/)
+* [Phone Sanitizer?](https://www.bleepingcomputer.com/forums/t/798061/phone-sanitizer/)
     
-    [system\_shock](https://www.bleepingcomputer.com/forums/u/1315775/system-shock/) in [Anti-Virus, Anti-Malware, and Privacy Software](https://www.bleepingcomputer.com/forums/f/25/anti-virus-anti-malware-and-privacy-software/)
+    [paulyjustin](https://www.bleepingcomputer.com/forums/u/1027461/paulyjustin/) in [Windows 10 Discussion](https://www.bleepingcomputer.com/forums/f/236/windows-10-discussion/)
     
-* [Windows 7 Update Site](https://www.bleepingcomputer.com/forums/t/798041/windows-7-update-site/)
+* [An encryption virus that generates a file named "READ\_ME9.html"?](https://www.bleepingcomputer.com/forums/t/798060/an-encryption-virus-that-generates-a-file-named-read-me9html/)
     
-    [system\_shock](https://www.bleepingcomputer.com/forums/u/1315775/system-shock/) in [Windows 7](https://www.bleepingcomputer.com/forums/f/167/windows-7/)
+    [panaplat](https://www.bleepingcomputer.com/forums/u/1315820/panaplat/) in [Ransomware Help & Tech Support](https://www.bleepingcomputer.com/forums/f/239/ransomware-help-tech-support/)
     
-* [Computer froze, hardbooted, and is stuck on the black screen of death](https://www.bleepingcomputer.com/forums/t/798040/computer-froze-hardbooted-and-is-stuck-on-the-black-screen-of-death/)
+* [Toothbrush Sanitizer?](https://www.bleepingcomputer.com/forums/t/798059/toothbrush-sanitizer/)
     
-    [Arlothia](https://www.bleepingcomputer.com/forums/u/851510/arlothia/) in [Windows 10 Support](https://www.bleepingcomputer.com/forums/f/229/windows-10-support/)
+    [paulyjustin](https://www.bleepingcomputer.com/forums/u/1027461/paulyjustin/) in [General Chat](https://www.bleepingcomputer.com/forums/f/5/general-chat/)
     
 
 Latest virus removal guides
@@ -410,7 +410,7 @@ Latest Downloads
     
     Version: 0.81
     
-    **41,620 _Downloads_**
+    **41,631 _Downloads_**
     
 * ![Malwarebytes Anti-Malware Logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -426,7 +426,7 @@ Latest Downloads
     
     Version: NA
     
-    **102,966 _Downloads_**
+    **102,983 _Downloads_**
     
 * ![Malwarebytes Support Tool Logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -434,7 +434,7 @@ Latest Downloads
     
     Version: NA
     
-    **150,099 _Downloads_**
+    **150,104 _Downloads_**
     
 * ![FilesLockerDecrypter Logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -442,7 +442,7 @@ Latest Downloads
     
     Version: NA
     
-    **48,909 _Downloads_**
+    **48,924 _Downloads_**
     
 
 ##### Follow us:
