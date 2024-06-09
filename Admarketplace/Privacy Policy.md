@@ -507,7 +507,7 @@ Privacy
 
 Resources
 
-[Blogs](https://www.admarketplace.com/blog)[Case Studies](https://www.admarketplace.com/case-studies)[Infographics](https://www.admarketplace.com/infographics)[Insights & Research](#)[Engineering at AMP](#)
+[Blogs](https://www.admarketplace.com/blog)[Case Studies](https://www.admarketplace.com/case-studies)[Infographics](https://www.admarketplace.com/infographics)[Insights & Research](https://www.admarketplace.com/insights-research)[Engineering at AMP](#)
 
 About
 
