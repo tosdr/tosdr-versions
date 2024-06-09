@@ -233,11 +233,11 @@ Main Menu Mega
     Upcoming Event
     --------------
     
-    Jun07
+    Nov14
     
-    ### [Chair Lina M. Khan will deliver opening plenary comments at the American Constitution Society Annual Conference 2024](https://www.ftc.gov/news-events/events/2024/06/chair-lina-m-khan-will-deliver-opening-plenary-comments-american-constitution-society-annual)
+    ### [Seventeenth Annual Microeconomics Conference](https://www.ftc.gov/news-events/events/2024/11/seventeenth-annual-microeconomics-conference)
     
-    Friday, June 7, 2024 | 10:30AM - 11:00AM
+    Thursday, November 14, 2024 | 9:00AM - Friday, November 15, 2024 | 5:00PM
     
     [View more Events](https://www.ftc.gov/news-events/events)
     
