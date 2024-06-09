@@ -82,13 +82,13 @@
         * [Contact us](https://www.watermarkinsights.com/about-us/contact-us/)
         * [Press](https://www.watermarkinsights.com/press/)
         * [Events](https://www.watermarkinsights.com/events/)
-    * * ### Engage 2024
+    * * ### Three awards, **one** unified solution
             
-            [Register Now](https://www.watermarkengage.com/event/03f8ba28-2c5f-4d34-93e7-d08d9c75d2c1/summary?_ga=2.118030284.413814199.1702922412-1427965907.1669059170 "Register Now")
+            [Read about it](https://www.watermarkinsights.com/press/watermarks-educational-impact-suite-finds-success-during-2024-award-season/ "Read about it")
             
             ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20214%20210'%3E%3C/svg%3E)
             
-            ![](https://www.watermarkinsights.com/wp-content/uploads/2024/03/Regular-Promo-copy.png)
+            ![](https://www.watermarkinsights.com/wp-content/uploads/2024/06/Regular-Promo.png)
             
 * [For our clients](https://www.watermarkinsights.com/client-resources/)
     * * [Client resources](https://www.watermarkinsights.com/client-resources/)
@@ -189,13 +189,13 @@
         * [Contact us](https://www.watermarkinsights.com/about-us/contact-us/)
         * [Press](https://www.watermarkinsights.com/press/)
         * [Events](https://www.watermarkinsights.com/events/)
-    * * ### Engage 2024
+    * * ### Three awards, **one** unified solution
             
-            [Register Now](https://www.watermarkengage.com/event/03f8ba28-2c5f-4d34-93e7-d08d9c75d2c1/summary?_ga=2.118030284.413814199.1702922412-1427965907.1669059170 "Register Now")
+            [Read about it](https://www.watermarkinsights.com/press/watermarks-educational-impact-suite-finds-success-during-2024-award-season/ "Read about it")
             
             ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20214%20210'%3E%3C/svg%3E)
             
-            ![](https://www.watermarkinsights.com/wp-content/uploads/2024/03/Regular-Promo-copy.png)
+            ![](https://www.watermarkinsights.com/wp-content/uploads/2024/06/Regular-Promo.png)
             
 * [For our clients](https://www.watermarkinsights.com/client-resources/)
     * * [Client resources](https://www.watermarkinsights.com/client-resources/)
