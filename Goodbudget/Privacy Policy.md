@@ -1,14 +1,14 @@
 [Skip to content](#content "Skip to content")
 
-[![Home Budget App: Goodbudget](https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_360,h_60/https://goodbudget.com/wp-content/uploads/2019/03/29102844/GB-logo-wht.png)](https://goodbudget.com/)
+[![Home Budget App: Goodbudget](https://goodbudget.com/wp-content/uploads/2019/03/29102844/GB-logo-wht.png)](https://goodbudget.com/)
 
 
-================================================================================================================================================================================================================
+=========================================================================================================================================
 
-[![Home Budget App: Goodbudget](https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_360,h_60/https://goodbudget.com/wp-content/uploads/2019/03/29102843/GB-logo.png)](https://goodbudget.com/)
+[![Home Budget App: Goodbudget](https://goodbudget.com/wp-content/uploads/2019/03/29102843/GB-logo.png)](https://goodbudget.com/)
 
 
-============================================================================================================================================================================================================
+=====================================================================================================================================
 
 * [How It Works](https://goodbudget.com/how-it-works/)
 * [What You Get](https://goodbudget.com/what-you-get/)
@@ -100,7 +100,7 @@ tel: +1 (415) 484 – 3594
 
 _Last Revised: October 18, 2023._
 
-![Couple sitting at a table, looking at budget app on web and mobile phone](https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_191,h_191/https://goodbudget.com/wp-content/uploads/2019/03/12114655/budget-that-syncs-couple-e1560365252699.png)
+![Couple sitting at a table, looking at budget app on web and mobile phone](https://goodbudget.com/wp-content/uploads/2019/03/12114655/budget-that-syncs-couple-e1560365252699.png)
 
 ![Goodbudget](https://goodbudget.com/wp-content/uploads/2019/03/27223647/gb-logo.svg)
 
@@ -150,7 +150,7 @@ A [home budget app](https://goodbudget.com/) based on the [envelope budget syste
 
 [![Goodbudget on the App Store](https://goodbudget.com/wp-content/uploads/2019/03/27223647/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg)](https://itunes.apple.com/us/app/id471112395?ls=1&mt=8)
 
-[![Goodbudget on Google Play](https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_564,h_168/https://goodbudget.com/wp-content/uploads/2019/04/01231950/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.dayspringtech.envelopes)
+[![Goodbudget on Google Play](https://goodbudget.com/wp-content/uploads/2019/04/01231950/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.dayspringtech.envelopes)
 
 © 2009–present [Dayspring Partners](https://www.dayspringpartners.com/) | [Terms](https://goodbudget.com/terms-of-use/) | [Privacy](https://goodbudget.com/privacy-policy/) | [Press Resources](https://goodbudget.com/press-resources/)  
 Android, Google Play, and the Google Play logo are trademarks of Google LLC. | Apple, Apple logo, iPad, iPhone, iPod touch, iTunes, and Podcast Logo are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc. | EEBA, the Easy Envelope Budget Aid, the EEBA mascot, “You can keep a budget, EEBA can help,” Goodbudget, the Goodbudget mascot, the Goodbudget envelope, and “Budget well. Live life. Do good.” are trademarks of Dayspring Technologies, Inc. SPC, a [San Francisco custom web app development company](https://www.dayspringpartners.com/).
