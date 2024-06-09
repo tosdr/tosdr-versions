@@ -95,6 +95,7 @@ Viva Recipes
     
 * [Healthy](https://www.vivarecipes.com/category/videos/healthy/)
     
+    * [4 Staple Dishes I Prepare Weekly | Delicious, Uncomplicated & Wholesome](https://www.vivarecipes.com/videos/healthy/4-staple-dishes-i-prepare-weekly-delicious-uncomplicated-wholesome/)
     * [Simple Paratha Recipe Using Liquid Dough | Nutritious Paratha Dish | Wholesome Recipe Ideas](https://www.vivarecipes.com/videos/healthy/simple-paratha-recipe-using-liquid-dough-nutritious-paratha-dish-wholesome-recipe-ideas/)
     * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
         
@@ -107,7 +108,6 @@ Viva Recipes
         ![](https://i.ytimg.com/vi/WPNSjvjE-GA/maxresdefault.jpg)
         
         Tasty vermicelli dish procedure #nutritious #culinary #instructions #snippets #ytclips #youtube](https://www.vivarecipes.com/videos/healthy/tasty-vermicelli-dish-procedure-nutritious-culinary-instructions-snippets-ytclips-youtube/)
-    * [Shed Pounds/body fat with these Tasty Nourishing Dishes](https://www.vivarecipes.com/videos/healthy/shed-pounds-body-fat-with-these-tasty-nourishing-dishes/)
     
 * [Main Dish](https://www.vivarecipes.com/category/videos/main-dish/)
     
