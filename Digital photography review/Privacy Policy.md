@@ -281,7 +281,7 @@ Finished challenges
 
 Most popular cameras
 
-[Panasonic Lumix DC-S914.8%](https://www.dpreview.com/products/panasonic/slrs/panasonic_dcs9)[Sony a670010.4%](https://www.dpreview.com/products/sony/slrs/sony_a6700)[Panasonic Lumix DC-GH73.3%](https://www.dpreview.com/products/panasonic/slrs/panasonic_dcgh7)[Nikon Zf1.4%](https://www.dpreview.com/products/nikon/slrs/nikon_zf)[Sony a7CR1.2%](https://www.dpreview.com/products/sony/slrs/sony_a7cr)[Fujifilm X100VI1.2%](https://www.dpreview.com/products/fujifilm/slrs/fujifilm_x100vi)[Canon EOS Rebel SL3 (EOS 250D / EOS Kiss X10)1.1%](https://www.dpreview.com/products/canon/slrs/canon_eos250d)[Sony a9 III1.0%](https://www.dpreview.com/products/sony/slrs/sony_a9iii)[Panasonic Lumix DC-S5II0.9%](https://www.dpreview.com/products/panasonic/slrs/panasonic_dcs5ii)[Fujifilm X-T500.9%](https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xt50)
+[Panasonic Lumix DC-S914.6%](https://www.dpreview.com/products/panasonic/slrs/panasonic_dcs9)[Sony a670010.8%](https://www.dpreview.com/products/sony/slrs/sony_a6700)[Panasonic Lumix DC-GH73.9%](https://www.dpreview.com/products/panasonic/slrs/panasonic_dcgh7)[Nikon Zf1.4%](https://www.dpreview.com/products/nikon/slrs/nikon_zf)[Sony a7CR1.2%](https://www.dpreview.com/products/sony/slrs/sony_a7cr)[Canon EOS Rebel SL3 (EOS 250D / EOS Kiss X10)1.2%](https://www.dpreview.com/products/canon/slrs/canon_eos250d)[Fujifilm X100VI1.1%](https://www.dpreview.com/products/fujifilm/slrs/fujifilm_x100vi)[Panasonic Lumix DC-S5II0.9%](https://www.dpreview.com/products/panasonic/slrs/panasonic_dcs5ii)[Sony a9 III0.9%](https://www.dpreview.com/products/sony/slrs/sony_a9iii)[Canon EOS R6 Mark II0.9%](https://www.dpreview.com/products/canon/slrs/canon_eosr6ii)
 
 [Popular interchangable lens cameras](https://www.dpreview.com/products/slrs/statistics) »
 
@@ -295,26 +295,26 @@ Top threads
 
 |     |     |
 | --- | --- |
-| 114 | [Am I the only one with Z9 high ISO issue?](https://www.dpreview.com/forums/post/67746290) |
-| 65  | [\* The Weekly Image Thread 24 06 07 #879 \*](https://www.dpreview.com/forums/post/67748006) |
-| 54  | [If your main camera system is MFT: what is the brand of your main camera and main lens or lenses?](https://www.dpreview.com/forums/post/67746776) |
-| 48  | [Nikon and Sigma should work together and bring DN lenses to Z-mount?](https://www.dpreview.com/forums/post/67746266) |
-| 46  | [Latest on Nikon ℤ6 III](https://www.dpreview.com/forums/post/67746651) |
-| 43  | [What I'm really liking about the G100D](https://www.dpreview.com/forums/post/67746857) |
-| 36  | [Nikon Compact Range in the future?????](https://www.dpreview.com/forums/post/67746319) |
-| 33  | [More thoughts about the PL100-400 (and TC) vs 300F4](https://www.dpreview.com/forums/post/67746824) |
-| 28  | [One telephoto lens or two?](https://www.dpreview.com/forums/post/67745879) |
-| 27  | [How to access my files remotely?](https://www.dpreview.com/forums/post/67746350) |
-| 24  | [Sandhill Crane Feeding](https://www.dpreview.com/forums/post/67746194) |
-| 22  | [After How Long Can One Delete a Posted Thread or Topic?](https://www.dpreview.com/forums/post/67747536) |
-| 21  | [X-T5 and X-H2/S firmware bug fix apparently coming in July](https://www.dpreview.com/forums/post/67747218) |
-| 20  | [150-600 and 100-400 comparison](https://www.dpreview.com/forums/post/67747051) |
-| 19  | ['AI' created model fooling 1000s on Instagram :O](https://www.dpreview.com/forums/post/67746282) |
-| 18  | [Hasselblad XCD 55V bokeh and mechanical vignetting](https://www.dpreview.com/forums/post/67747178) |
-| 18  | [geared head](https://www.dpreview.com/forums/post/67748457) |
-| 17  | [SLR to Mirrorless adjustment advice](https://www.dpreview.com/forums/post/67745956) |
-| 16  | [Grump!](https://www.dpreview.com/forums/post/67746801) |
-| 16  | [Help needed!](https://www.dpreview.com/forums/post/67747873) |
+| 114 | [\* The Weekly Image Thread 24 06 07 #879 \*](https://www.dpreview.com/forums/post/67748006) |
+| 52  | [\*\* Weekly Fuji X-Series Photo-Sharing Thread June 8-14, 2024!\*\*](https://www.dpreview.com/forums/post/67749205) |
+| 44  | [New flower thread](https://www.dpreview.com/forums/post/67748531) |
+| 34  | [Help me choose my last camera?](https://www.dpreview.com/forums/post/67749046) |
+| 32  | [Can you convince me about the Tamron 28-200?](https://www.dpreview.com/forums/post/67748649) |
+| 30  | [geared head](https://www.dpreview.com/forums/post/67748457) |
+| 29  | [Will there be an updated 16mm F/1.4?](https://www.dpreview.com/forums/post/67749158) |
+| 25  | [Why does my in-camera focus scale not match the actual subject distance at wider angles?](https://www.dpreview.com/forums/post/67748387) |
+| 23  | [What are my options for fully compatible "AIO" EF lenses with the RF adapter?](https://www.dpreview.com/forums/post/67748667) |
+| 21  | [Old guy making techie decisions :0](https://www.dpreview.com/forums/post/67748708) |
+| 21  | [which will perform better: old Nikon 70-200 f2.8 VR + FTZ, or Sony 70-200 f2.8 + Megadap ETZ21 PRO](https://www.dpreview.com/forums/post/67749353) |
+| 20  | [Migrating Lightroom to Other Options](https://www.dpreview.com/forums/post/67747959) |
+| 19  | [Recent Adobe terms of usage change](https://www.dpreview.com/forums/post/67749247) |
+| 18  | [\*\*This week with your Z camera, Jun 8-14, 2024\*\*](https://www.dpreview.com/forums/post/67748898) |
+| 18  | [Lensrentals: First Impressions With the Hasselblad CFV 100C](https://www.dpreview.com/forums/post/67748982) |
+| 18  | [Help needed!](https://www.dpreview.com/forums/post/67747873) |
+| 18  | [Web hosting company broke my website](https://www.dpreview.com/forums/post/67749707) |
+| 17  | [I’m proud of my gear, are you?](https://www.dpreview.com/forums/post/67750123) |
+| 17  | [Big tamron 35-150 or smaller sigma 24-70?](https://www.dpreview.com/forums/post/67745205) |
+| 17  | [Switched from R5 to Fuji X-T5](https://www.dpreview.com/forums/post/67749454) |
 
 [www.dpreview.com](https://www.dpreview.com/ "dpreview.com: Digital Photograhy Review")
 
