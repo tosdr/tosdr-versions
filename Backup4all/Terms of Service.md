@@ -139,15 +139,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to back up data files from OneDrive using ...](https://www.backup4all.com/how-to-back-up-data-files-from-onedrive-using-backup4all-kb.html)  
+* [Using Backup4all - FAQ 9](https://www.backup4all.com/using-backup4all-faq-9-kb.html)  
     
-* [How to back up data files from Hitachi using ...](https://www.backup4all.com/how-to-back-up-data-files-from-hitachi-using-backup4all-kb.html)  
+* [General - FAQ](https://www.backup4all.com/general-faq-kb.html)  
     
-* [How to restore a backup to Box](https://www.backup4all.com/how-to-restore-a-backup-to-box-kb.html)  
+* [How to back up data files from Amazon S3 usin ...](https://www.backup4all.com/how-to-back-up-data-files-from-amazon-s3-using-backup4all-kb.html)  
     
-* [What is a backup?](https://www.backup4all.com/what-is-a-backup-kb.html)  
+* [How to backup your data to Seeweb](https://www.backup4all.com/how-to-backup-your-data-to-seeweb-kb.html)  
     
-* [Back-up to Google Drive using Backup4all](https://www.backup4all.com/backup-to-google-drive-kb.html)  
+* [How to use advanced backup settings in Backup ...](https://www.backup4all.com/how-to-use-advanced-settings-in-backup4all-kb.html)  
     
 
 Choose language:
