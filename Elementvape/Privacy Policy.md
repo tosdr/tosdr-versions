@@ -91,6 +91,7 @@ Search
         *  ![Squonk Kits](https://www.elementvape.com/media/subcategory_icons/Squonk_Kits.jpg) [Squonk Kits](https://www.elementvape.com/squonk-starter-kits)
         *  ![High-Power Kits](https://www.elementvape.com/media/subcategory_icons/High-Power_Kits.jpg) [High Power Kits 150W+](https://www.elementvape.com/high-power-kits-150w)
         *  ![Clearance Vape Kits](https://www.elementvape.com/media/subcategory_icons/Clearance_Vape_Kits.jpg) [Clearance Vape Kits](https://www.elementvape.com/clearance-starter-kits)
+        * ![Nicotine Pouches](https://www.elementvape.com/media/subcategory_icons/Nicotine_Pouch.jpg) [Nicotine Pouches](https://www.elementvape.com/nicotine-pouches)
         
         ### Starter Kit Brands
         
@@ -121,17 +122,17 @@ Search
         ### Disposable Brands
         
         * [Pod Juice](https://www.elementvape.com/pod-juice-disposables)
-        * [SnowWolf](https://www.elementvape.com/snowwolf)
+        * [FLUM Vape](https://www.elementvape.com/flum-vape)
         * [SPACEMAN](https://www.elementvape.com/spaceman)
         * [Geek Bar](https://www.elementvape.com/geek-bar)
         * [SWFT](https://www.elementvape.com/swft)
-        * [WOOFR](https://www.elementvape.com/woofr)
+        * [VIHO](https://www.elementvape.com/viho)
         * [Pillow Talk](https://www.elementvape.com/pillow-talk)
-        * [DRAGBAR](https://www.elementvape.com/dragbar)
+        * [ORION BAR](https://www.elementvape.com/lost-vape)
         * [SOFI](https://www.elementvape.com/sofi)
-        * [iJoy](https://www.elementvape.com/ijoy)
+        * [RAZ](https://www.elementvape.com/raz)
         
-        [![Pod Juice](https://www.elementvape.com/media/promobanners/Pod_Juice_-_Megamenu.jpg)Pod Juice](https://www.elementvape.com/pod-juice-disposables)[![MORF BAR](https://www.elementvape.com/media/promobanners/Megamenu_-_Morfbar_-_Disposables_360_x_240.jpg)MORF BAR](https://www.elementvape.com/morf-bar-touch-20k "MORF BAR")[![Geek Bar Disposables](https://www.elementvape.com/media/promobanners/Megamenu_Banner_-_Geek_Bar.jpg)Geek Bar](https://www.elementvape.com/geek-bar)[![SnowWolf](https://www.elementvape.com/media/promobanners/Megamenu_-_Ronaldinho_-_Disposables_360_x_240.jpg)Ronaldinho](https://www.elementvape.com/ronaldinho-15k "Ronaldinho")
+        [![Pod Juice](https://www.elementvape.com/media/promobanners/Megamenu_Banners_-_Pod_Juice.jpg)Pod Juice](https://www.elementvape.com/pod-juice-disposables)[![MORF BAR](https://www.elementvape.com/media/promobanners/Megamenu_-_Morfbar_-_Disposables_360_x_240.jpg)MORF BAR](https://www.elementvape.com/morf-bar-touch-20k "MORF BAR")[![Geek Bar Disposables](https://www.elementvape.com/media/promobanners/Megamenu_Banner_-_Geek_Bar.jpg)Geek Bar](https://www.elementvape.com/geek-bar)[![SnowWolf](https://www.elementvape.com/media/promobanners/Megamenu_-_Ronaldinho_-_Disposables_360_x_240.jpg)Ronaldinho](https://www.elementvape.com/ronaldinho-15k "Ronaldinho")
         
 *  [_![https://www.elementvape.com/media/Dckap/menu-level1/Mobile_Menu_Category_E-LIQUIDS_70x62.png](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=)_ E-LIQUIDS](https://www.elementvape.com/e-liquids)
     * * ![All E-Liquids](https://www.elementvape.com/media/subcategory_icons/All_E-Liquids.jpg) [All E-Liquids](https://www.elementvape.com/e-liquids)
@@ -271,6 +272,7 @@ Search
         
 *  [_![https://www.elementvape.com/media/Dckap/menu-level1/Mobile_Menu_Category_ACCESSORIES_70x62.png](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=)_ ACCESSORIES](https://www.elementvape.com/accessories)
     * * ![Replacement Pod Cartridges](https://www.elementvape.com/media/subcategory_icons/Replacement_Pod_Cartridges.jpg) [View All Accessories](https://www.elementvape.com/accessories)
+        * ![Nicotine Pouches](https://www.elementvape.com/media/subcategory_icons/Nicotine_Pouch.jpg) [Nicotine Pouches](https://www.elementvape.com/nicotine-pouches)
         * ![ Replacement Coils](https://www.elementvape.com/media/subcategory_icons/Replacement_Coils.jpg) [Replacement Coils](https://www.elementvape.com/replacement-coil-heads)
         * ![Replacement Pod Cartridges](https://www.elementvape.com/media/subcategory_icons/Replacement_Pod_Cartridges.jpg) [Replacement Pod Cartridges](https://www.elementvape.com/replacement-pod-cartridges)
         * ![Batteries](https://www.elementvape.com/media/subcategory_icons/Batteries.jpg) [Batteries](https://www.elementvape.com/batteries)
@@ -279,9 +281,7 @@ Search
         * ![Rebuildable Materials](https://www.elementvape.com/media/subcategory_icons/Rebuildable_Materials.jpg) [Rebuildable Materials](https://www.elementvape.com/rebuildable-materials)
         * ![Rebuildable Tools](https://www.elementvape.com/media/subcategory_icons/Rebuildable_Tools.jpg) [Rebuildable Tools](https://www.elementvape.com/rebuildable-tools)
         * ![Rebuildable Tools](https://www.elementvape.com/media/subcategory_icons/Rebuildable_Tools.jpg) [Boro Accessories](https://www.elementvape.com/boro-accessories)
-        * ![Performance Wires](https://www.elementvape.com/media/subcategory_icons/Rebuildable_Materials.jpg) [Performance Wires](https://www.elementvape.com/performance-rebuildable-wires)
         * ![Drip Tips](https://www.elementvape.com/media/subcategory_icons/Drip_Tips.jpg) [Drip Tips](https://www.elementvape.com/drip-tips)
-        * ![Nicotine Pouches](https://www.elementvape.com/media/subcategory_icons/Nicotine_Pouch.jpg) [Nicotine Pouches](https://www.elementvape.com/nicotine-pouches)
         
         ### Accessories Brands
         
@@ -361,6 +361,7 @@ Search
         *  ![Squonk Kits](https://www.elementvape.com/media/subcategory_icons/Squonk_Kits.jpg) [Squonk Kits](https://www.elementvape.com/squonk-starter-kits)
         *  ![High-Power Kits](https://www.elementvape.com/media/subcategory_icons/High-Power_Kits.jpg) [High Power Kits 150W+](https://www.elementvape.com/high-power-kits-150w)
         *  ![Clearance Vape Kits](https://www.elementvape.com/media/subcategory_icons/Clearance_Vape_Kits.jpg) [Clearance Vape Kits](https://www.elementvape.com/clearance-starter-kits)
+        * ![Nicotine Pouches](https://www.elementvape.com/media/subcategory_icons/Nicotine_Pouch.jpg) [Nicotine Pouches](https://www.elementvape.com/nicotine-pouches)
         
         ### Starter Kit Brands
         
@@ -391,17 +392,17 @@ Search
         ### Disposable Brands
         
         * [Pod Juice](https://www.elementvape.com/pod-juice-disposables)
-        * [SnowWolf](https://www.elementvape.com/snowwolf)
+        * [FLUM Vape](https://www.elementvape.com/flum-vape)
         * [SPACEMAN](https://www.elementvape.com/spaceman)
         * [Geek Bar](https://www.elementvape.com/geek-bar)
         * [SWFT](https://www.elementvape.com/swft)
-        * [WOOFR](https://www.elementvape.com/woofr)
+        * [VIHO](https://www.elementvape.com/viho)
         * [Pillow Talk](https://www.elementvape.com/pillow-talk)
-        * [DRAGBAR](https://www.elementvape.com/dragbar)
+        * [ORION BAR](https://www.elementvape.com/lost-vape)
         * [SOFI](https://www.elementvape.com/sofi)
-        * [iJoy](https://www.elementvape.com/ijoy)
+        * [RAZ](https://www.elementvape.com/raz)
         
-        [![Pod Juice](https://www.elementvape.com/media/promobanners/Pod_Juice_-_Megamenu.jpg)Pod Juice](https://www.elementvape.com/pod-juice-disposables)[![MORF BAR](https://www.elementvape.com/media/promobanners/Megamenu_-_Morfbar_-_Disposables_360_x_240.jpg)MORF BAR](https://www.elementvape.com/morf-bar-touch-20k "MORF BAR")[![Geek Bar Disposables](https://www.elementvape.com/media/promobanners/Megamenu_Banner_-_Geek_Bar.jpg)Geek Bar](https://www.elementvape.com/geek-bar)[![SnowWolf](https://www.elementvape.com/media/promobanners/Megamenu_-_Ronaldinho_-_Disposables_360_x_240.jpg)Ronaldinho](https://www.elementvape.com/ronaldinho-15k "Ronaldinho")
+        [![Pod Juice](https://www.elementvape.com/media/promobanners/Megamenu_Banners_-_Pod_Juice.jpg)Pod Juice](https://www.elementvape.com/pod-juice-disposables)[![MORF BAR](https://www.elementvape.com/media/promobanners/Megamenu_-_Morfbar_-_Disposables_360_x_240.jpg)MORF BAR](https://www.elementvape.com/morf-bar-touch-20k "MORF BAR")[![Geek Bar Disposables](https://www.elementvape.com/media/promobanners/Megamenu_Banner_-_Geek_Bar.jpg)Geek Bar](https://www.elementvape.com/geek-bar)[![SnowWolf](https://www.elementvape.com/media/promobanners/Megamenu_-_Ronaldinho_-_Disposables_360_x_240.jpg)Ronaldinho](https://www.elementvape.com/ronaldinho-15k "Ronaldinho")
         
 *  [_![https://www.elementvape.com/media/Dckap/menu-level1/Mobile_Menu_Category_E-LIQUIDS_70x62.png](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=)_ E-LIQUIDS](https://www.elementvape.com/e-liquids)
     * * ![All E-Liquids](https://www.elementvape.com/media/subcategory_icons/All_E-Liquids.jpg) [All E-Liquids](https://www.elementvape.com/e-liquids)
@@ -541,6 +542,7 @@ Search
         
 *  [_![https://www.elementvape.com/media/Dckap/menu-level1/Mobile_Menu_Category_ACCESSORIES_70x62.png](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=)_ ACCESSORIES](https://www.elementvape.com/accessories)
     * * ![Replacement Pod Cartridges](https://www.elementvape.com/media/subcategory_icons/Replacement_Pod_Cartridges.jpg) [View All Accessories](https://www.elementvape.com/accessories)
+        * ![Nicotine Pouches](https://www.elementvape.com/media/subcategory_icons/Nicotine_Pouch.jpg) [Nicotine Pouches](https://www.elementvape.com/nicotine-pouches)
         * ![ Replacement Coils](https://www.elementvape.com/media/subcategory_icons/Replacement_Coils.jpg) [Replacement Coils](https://www.elementvape.com/replacement-coil-heads)
         * ![Replacement Pod Cartridges](https://www.elementvape.com/media/subcategory_icons/Replacement_Pod_Cartridges.jpg) [Replacement Pod Cartridges](https://www.elementvape.com/replacement-pod-cartridges)
         * ![Batteries](https://www.elementvape.com/media/subcategory_icons/Batteries.jpg) [Batteries](https://www.elementvape.com/batteries)
@@ -549,9 +551,7 @@ Search
         * ![Rebuildable Materials](https://www.elementvape.com/media/subcategory_icons/Rebuildable_Materials.jpg) [Rebuildable Materials](https://www.elementvape.com/rebuildable-materials)
         * ![Rebuildable Tools](https://www.elementvape.com/media/subcategory_icons/Rebuildable_Tools.jpg) [Rebuildable Tools](https://www.elementvape.com/rebuildable-tools)
         * ![Rebuildable Tools](https://www.elementvape.com/media/subcategory_icons/Rebuildable_Tools.jpg) [Boro Accessories](https://www.elementvape.com/boro-accessories)
-        * ![Performance Wires](https://www.elementvape.com/media/subcategory_icons/Rebuildable_Materials.jpg) [Performance Wires](https://www.elementvape.com/performance-rebuildable-wires)
         * ![Drip Tips](https://www.elementvape.com/media/subcategory_icons/Drip_Tips.jpg) [Drip Tips](https://www.elementvape.com/drip-tips)
-        * ![Nicotine Pouches](https://www.elementvape.com/media/subcategory_icons/Nicotine_Pouch.jpg) [Nicotine Pouches](https://www.elementvape.com/nicotine-pouches)
         
         ### Accessories Brands
         
@@ -868,6 +868,7 @@ New customer? [Start Here.](https://www.elementvape.com/customer/account/create/
         *  ![Squonk Kits](https://www.elementvape.com/media/subcategory_icons/Squonk_Kits.jpg) [Squonk Kits](https://www.elementvape.com/squonk-starter-kits)
         *  ![High-Power Kits](https://www.elementvape.com/media/subcategory_icons/High-Power_Kits.jpg) [High Power Kits 150W+](https://www.elementvape.com/high-power-kits-150w)
         *  ![Clearance Vape Kits](https://www.elementvape.com/media/subcategory_icons/Clearance_Vape_Kits.jpg) [Clearance Vape Kits](https://www.elementvape.com/clearance-starter-kits)
+        * ![Nicotine Pouches](https://www.elementvape.com/media/subcategory_icons/Nicotine_Pouch.jpg) [Nicotine Pouches](https://www.elementvape.com/nicotine-pouches)
         
         ### Starter Kit Brands
         
@@ -898,17 +899,17 @@ New customer? [Start Here.](https://www.elementvape.com/customer/account/create/
         ### Disposable Brands
         
         * [Pod Juice](https://www.elementvape.com/pod-juice-disposables)
-        * [SnowWolf](https://www.elementvape.com/snowwolf)
+        * [FLUM Vape](https://www.elementvape.com/flum-vape)
         * [SPACEMAN](https://www.elementvape.com/spaceman)
         * [Geek Bar](https://www.elementvape.com/geek-bar)
         * [SWFT](https://www.elementvape.com/swft)
-        * [WOOFR](https://www.elementvape.com/woofr)
+        * [VIHO](https://www.elementvape.com/viho)
         * [Pillow Talk](https://www.elementvape.com/pillow-talk)
-        * [DRAGBAR](https://www.elementvape.com/dragbar)
+        * [ORION BAR](https://www.elementvape.com/lost-vape)
         * [SOFI](https://www.elementvape.com/sofi)
-        * [iJoy](https://www.elementvape.com/ijoy)
+        * [RAZ](https://www.elementvape.com/raz)
         
-        [![Pod Juice](https://www.elementvape.com/media/promobanners/Pod_Juice_-_Megamenu.jpg)Pod Juice](https://www.elementvape.com/pod-juice-disposables)[![MORF BAR](https://www.elementvape.com/media/promobanners/Megamenu_-_Morfbar_-_Disposables_360_x_240.jpg)MORF BAR](https://www.elementvape.com/morf-bar-touch-20k "MORF BAR")[![Geek Bar Disposables](https://www.elementvape.com/media/promobanners/Megamenu_Banner_-_Geek_Bar.jpg)Geek Bar](https://www.elementvape.com/geek-bar)[![SnowWolf](https://www.elementvape.com/media/promobanners/Megamenu_-_Ronaldinho_-_Disposables_360_x_240.jpg)Ronaldinho](https://www.elementvape.com/ronaldinho-15k "Ronaldinho")
+        [![Pod Juice](https://www.elementvape.com/media/promobanners/Megamenu_Banners_-_Pod_Juice.jpg)Pod Juice](https://www.elementvape.com/pod-juice-disposables)[![MORF BAR](https://www.elementvape.com/media/promobanners/Megamenu_-_Morfbar_-_Disposables_360_x_240.jpg)MORF BAR](https://www.elementvape.com/morf-bar-touch-20k "MORF BAR")[![Geek Bar Disposables](https://www.elementvape.com/media/promobanners/Megamenu_Banner_-_Geek_Bar.jpg)Geek Bar](https://www.elementvape.com/geek-bar)[![SnowWolf](https://www.elementvape.com/media/promobanners/Megamenu_-_Ronaldinho_-_Disposables_360_x_240.jpg)Ronaldinho](https://www.elementvape.com/ronaldinho-15k "Ronaldinho")
         
 *  [_![https://www.elementvape.com/media/Dckap/menu-level1/Mobile_Menu_Category_E-LIQUIDS_70x62.png](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=)_ E-LIQUIDS](https://www.elementvape.com/e-liquids)
     * * ![All E-Liquids](https://www.elementvape.com/media/subcategory_icons/All_E-Liquids.jpg) [All E-Liquids](https://www.elementvape.com/e-liquids)
@@ -1048,6 +1049,7 @@ New customer? [Start Here.](https://www.elementvape.com/customer/account/create/
         
 *  [_![https://www.elementvape.com/media/Dckap/menu-level1/Mobile_Menu_Category_ACCESSORIES_70x62.png](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=)_ ACCESSORIES](https://www.elementvape.com/accessories)
     * * ![Replacement Pod Cartridges](https://www.elementvape.com/media/subcategory_icons/Replacement_Pod_Cartridges.jpg) [View All Accessories](https://www.elementvape.com/accessories)
+        * ![Nicotine Pouches](https://www.elementvape.com/media/subcategory_icons/Nicotine_Pouch.jpg) [Nicotine Pouches](https://www.elementvape.com/nicotine-pouches)
         * ![ Replacement Coils](https://www.elementvape.com/media/subcategory_icons/Replacement_Coils.jpg) [Replacement Coils](https://www.elementvape.com/replacement-coil-heads)
         * ![Replacement Pod Cartridges](https://www.elementvape.com/media/subcategory_icons/Replacement_Pod_Cartridges.jpg) [Replacement Pod Cartridges](https://www.elementvape.com/replacement-pod-cartridges)
         * ![Batteries](https://www.elementvape.com/media/subcategory_icons/Batteries.jpg) [Batteries](https://www.elementvape.com/batteries)
@@ -1056,9 +1058,7 @@ New customer? [Start Here.](https://www.elementvape.com/customer/account/create/
         * ![Rebuildable Materials](https://www.elementvape.com/media/subcategory_icons/Rebuildable_Materials.jpg) [Rebuildable Materials](https://www.elementvape.com/rebuildable-materials)
         * ![Rebuildable Tools](https://www.elementvape.com/media/subcategory_icons/Rebuildable_Tools.jpg) [Rebuildable Tools](https://www.elementvape.com/rebuildable-tools)
         * ![Rebuildable Tools](https://www.elementvape.com/media/subcategory_icons/Rebuildable_Tools.jpg) [Boro Accessories](https://www.elementvape.com/boro-accessories)
-        * ![Performance Wires](https://www.elementvape.com/media/subcategory_icons/Rebuildable_Materials.jpg) [Performance Wires](https://www.elementvape.com/performance-rebuildable-wires)
         * ![Drip Tips](https://www.elementvape.com/media/subcategory_icons/Drip_Tips.jpg) [Drip Tips](https://www.elementvape.com/drip-tips)
-        * ![Nicotine Pouches](https://www.elementvape.com/media/subcategory_icons/Nicotine_Pouch.jpg) [Nicotine Pouches](https://www.elementvape.com/nicotine-pouches)
         
         ### Accessories Brands
         
