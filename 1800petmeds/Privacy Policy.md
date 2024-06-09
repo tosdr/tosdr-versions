@@ -223,13 +223,13 @@ Applied
     
     [![Hill's](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dw2043b4ef/images/popularbrands/brand-hills-science-diet.png)](https://www.1800petmeds.com/hills.html) [![Royal Canin](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dwca665f24/images/popularbrands/brand-royal-canin.png)](https://www.1800petmeds.com/royal-canin.html) [![Blue Buffalo](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dw75d60799/images/popularbrands/brand-blue-buffalo.png)](https://www.1800petmeds.com/search?searchType=product&q=blue%20buffalo) [![Purina Pro Plan](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dwe8f62f36/images/popularbrands/brand-purina.png)](https://www.1800petmeds.com/purina.html) [![Diamond Naturals](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dw9ac7fda0/images/popularbrands/brand-diamond-naturals.png)](https://www.1800petmeds.com/diamond-pet-food.html) [![Wellness](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dw5459337c/images/popularbrands/brand-dr-marty.png)](https://www.1800petmeds.com/food-cat78.html?prefn1=brand&prefv1=Dr.%20Marty) [![Forza10](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dwdd68b4bb/images/popularbrands/brand-forza10.png)](https://www.1800petmeds.com/food-cat78.html?prefn1=brand&prefv1=Forza10)
     
-    [![Get 35% OFF your first food AutoShip order | Use code SAVE35](https://www.1800petmeds.com/on/demandware.static/-/Sites/default/dw93d176e5/images/banner-shop-pet-food35.jpg "Enjoy 35% OFF Your First AutoShip Order of Pet Food, Including New Premium Brands!")](https://www.1800petmeds.com/get-35-off-food-with-autoship.html?campaign=food35_promo)
+    [![Save 35% on Pet Food with AutoShip](https://www.1800petmeds.com/on/demandware.static/-/Sites/default/dw93d176e5/images/banner-shop-pet-food35.jpg "Save 35% on Pet Food with AutoShip")](https://www.1800petmeds.com/get-35-off-food-with-autoship.html?campaign=food35_promo)
     
 * [Shop By Brand](#)
     
     * [View All Brands](https://www.1800petmeds.com/all-brands?cgid=root)
     
-    [![Save 40% with AutoShip](https://www.1800petmeds.com/on/demandware.static/-/Sites/default/dwce6dac7d/images/banner-shop-by-brand-flea40-promo.jpg "Save 40% on with AutoShip")](https://www.1800petmeds.com/save-on-flea-tick-heartworm-promo240503.html?campaign=flea40_promo)
+    [![Save 35% on Pet Food with AutoShip](https://www.1800petmeds.com/on/demandware.static/-/Sites/default/dwd97a5b85/images/banner-shop-by-brand-food35-promo.jpg "Save 35% on Pet Food with AutoShip")](https://www.1800petmeds.com/get-35-off-food-with-autoship.html?campaign=food35_promo)
     
 * [Shop By Condition](#)
     * [Allergy Relief](https://www.1800petmeds.com/allergy+relief-cat71.html)
