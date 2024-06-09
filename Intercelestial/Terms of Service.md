@@ -128,11 +128,11 @@ Archives Select Month March 2024 December 2023 July 2023 June 2023 May 2023 Apri
 
 #### Recent Comments
 
+* Be on [The SKA, Square Kilometer Array](https://intercelestial.com/the-ska-square-kilometer-array/comment-page-1/#comment-25082)
 * Anti-Liberal person on [Fly to The Moon!](https://intercelestial.com/fly-to-the-moon/comment-page-2/#comment-25081)
 * Oasd on [The Electromagnetic Spectrum](https://intercelestial.com/the-electromagnetic-spectrum/comment-page-4/#comment-25079)
 * kpk on [Nebulae: Cosmic Canvases of Creation and Destruction](https://intercelestial.com/nebulae-cosmic-canvases-of-creation-and-destruction/comment-page-2/#comment-25078)
 * Gadiel on [EHT, Event Horizon Telescope](https://intercelestial.com/eht-event-horizon-telescope/comment-page-2/#comment-25077)
-* Alvin on [Observatorium Arecibo](https://intercelestial.com/observatorium-arecibo/comment-page-41/#comment-25074)
 
 #### Get in Touch with Us
 
@@ -215,11 +215,11 @@ Archives Select Month March 2024 December 2023 July 2023 June 2023 May 2023 Apri
 
 #### Recent Comments
 
+* Be on [The SKA, Square Kilometer Array](https://intercelestial.com/the-ska-square-kilometer-array/comment-page-1/#comment-25082)
 * Anti-Liberal person on [Fly to The Moon!](https://intercelestial.com/fly-to-the-moon/comment-page-2/#comment-25081)
 * Oasd on [The Electromagnetic Spectrum](https://intercelestial.com/the-electromagnetic-spectrum/comment-page-4/#comment-25079)
 * kpk on [Nebulae: Cosmic Canvases of Creation and Destruction](https://intercelestial.com/nebulae-cosmic-canvases-of-creation-and-destruction/comment-page-2/#comment-25078)
 * Gadiel on [EHT, Event Horizon Telescope](https://intercelestial.com/eht-event-horizon-telescope/comment-page-2/#comment-25077)
-* Alvin on [Observatorium Arecibo](https://intercelestial.com/observatorium-arecibo/comment-page-41/#comment-25074)
 
 #### Get in Touch with Us
 
