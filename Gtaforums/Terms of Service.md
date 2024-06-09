@@ -4,7 +4,7 @@
 
 GTAFORUMS
 
-WHERE MY EYES AT!?](https://gtaforums.com/)
+BAD LUCK, I GUESS](https://gtaforums.com/)
 
 * [](#)
 
@@ -80,4 +80,4 @@ Important Information
 
 By using GTAForums.com, you agree to our [Terms of Use](https://gtaforums.com/terms/) and [Privacy Policy](https://gtaforums.com/gtanet/privacy).
 
-  [I accept](https://gtaforums.com/index.php?app=core&module=system&controller=terms&do=dismiss&ref=aHR0cHM6Ly9ndGFmb3J1bXMuY29tL3Rlcm1zLw==&csrfKey=023b1dbe0f710c2949b0165a006651e0)
+  [I accept](https://gtaforums.com/index.php?app=core&module=system&controller=terms&do=dismiss&ref=aHR0cHM6Ly9ndGFmb3J1bXMuY29tL3Rlcm1zLw==&csrfKey=14cb956ec721eea3d0bb10ef32dcd5fc)
