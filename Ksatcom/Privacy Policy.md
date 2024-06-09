@@ -1,4 +1,4 @@
-[74º](https://www.ksat.com/weather/)
+[95º](https://www.ksat.com/weather/)
 
 [](https://www.ksat.com/)
 
@@ -159,10 +159,6 @@ Search
 * [Entertainment](https://www.ksat.com/entertainment/)
 * [Features](https://www.ksat.com/features/)
 
-WEATHER ALERT
-
-[### 2 air quality alerts in effect for 10 regions in the area](https://www.ksat.com/weather/alerts)
-
 #### [Station](https://www.ksat.com/station)
 
 * * *
@@ -186,21 +182,21 @@ Tags: [Station](https://www.ksat.com/topic/Station/)
 
 * * *
 
-[](https://www.ksat.com/news/local/2024/06/08/hopefully-theres-a-meaning-to-it-riding-on-faith-rodeo-2024-summer-series-dedicated-to-fallen-bull-rider/)
+[](https://www.ksat.com/news/local/2024/06/09/man-stabbed-on-west-side-rushed-to-hospital-in-critical-condition/)
 
-[6 hours ago](https://www.ksat.com/news/local/2024/06/08/hopefully-theres-a-meaning-to-it-riding-on-faith-rodeo-2024-summer-series-dedicated-to-fallen-bull-rider/)[### ‘Hopefully, there’s a meaning to it’: Riding on Faith Rodeo 2024 Summer Series dedicated to fallen bull rider](https://www.ksat.com/news/local/2024/06/08/hopefully-theres-a-meaning-to-it-riding-on-faith-rodeo-2024-summer-series-dedicated-to-fallen-bull-rider/)
+[2 hours ago](https://www.ksat.com/news/local/2024/06/09/man-stabbed-on-west-side-rushed-to-hospital-in-critical-condition/)[### Man stabbed on West Side, rushed to hospital in critical condition](https://www.ksat.com/news/local/2024/06/09/man-stabbed-on-west-side-rushed-to-hospital-in-critical-condition/)
 
-[](https://www.ksat.com/news/local/2024/06/08/san-antonio-legal-experts-try-to-digest-biden-administrations-new-immigration-policy-days-after-it-takes-effect/)
+[](https://www.ksat.com/news/local/2024/06/09/argument-between-male-female-leads-to-both-firing-weapons-at-each-other-sapd-says/)
 
-[7 hours ago](https://www.ksat.com/news/local/2024/06/08/san-antonio-legal-experts-try-to-digest-biden-administrations-new-immigration-policy-days-after-it-takes-effect/)[### San Antonio legal experts try to digest Biden Administration’s new immigration policy days after it takes effect](https://www.ksat.com/news/local/2024/06/08/san-antonio-legal-experts-try-to-digest-biden-administrations-new-immigration-policy-days-after-it-takes-effect/)
+[3 hours ago](https://www.ksat.com/news/local/2024/06/09/argument-between-male-female-leads-to-both-firing-weapons-at-each-other-sapd-says/)[### Argument between male, female leads to both firing weapons at each other, SAPD says](https://www.ksat.com/news/local/2024/06/09/argument-between-male-female-leads-to-both-firing-weapons-at-each-other-sapd-says/)
 
-[](https://www.ksat.com/news/local/2024/06/08/brackenridge-high-school-senior-receives-surprise-visit-before-graduation-ceremony/)
+[](https://www.ksat.com/news/local/2024/06/09/backstage-classic-theatre-brings-the-boys-in-the-band-play-to-san-antonio/)
 
-[10 hours ago](https://www.ksat.com/news/local/2024/06/08/brackenridge-high-school-senior-receives-surprise-visit-before-graduation-ceremony/)[### Brackenridge High School senior receives surprise visit before graduation ceremony](https://www.ksat.com/news/local/2024/06/08/brackenridge-high-school-senior-receives-surprise-visit-before-graduation-ceremony/)
+[4 hours ago](https://www.ksat.com/news/local/2024/06/09/backstage-classic-theatre-brings-the-boys-in-the-band-play-to-san-antonio/)[### Backstage: Classic Theatre brings ‘The Boys in the Band’ play to San Antonio](https://www.ksat.com/news/local/2024/06/09/backstage-classic-theatre-brings-the-boys-in-the-band-play-to-san-antonio/)
 
-[](https://www.ksat.com/news/local/2024/06/07/ksat-qa-alzheimers-associaton-programs-director-talks-alzheimers-awareness-month/)
+[](https://www.ksat.com/news/local/2024/06/09/inmates-face-challenges-as-bexar-county-jail-grapples-with-new-online-system/)
 
-[8 hours ago](https://www.ksat.com/news/local/2024/06/07/ksat-qa-alzheimers-associaton-programs-director-talks-alzheimers-awareness-month/)[### KSAT Q&A: Alzheimer’s Associaton programs director talks Alzheimer’s Awareness Month](https://www.ksat.com/news/local/2024/06/07/ksat-qa-alzheimers-associaton-programs-director-talks-alzheimers-awareness-month/)
+[14 hours ago](https://www.ksat.com/news/local/2024/06/09/inmates-face-challenges-as-bexar-county-jail-grapples-with-new-online-system/)[### Inmates face challenges as Bexar County jail grapples with new online system](https://www.ksat.com/news/local/2024/06/09/inmates-face-challenges-as-bexar-county-jail-grapples-with-new-online-system/)
 
 [KSAT DEALS](https://www.ksat.com/deals)
 ----------------------------------------
