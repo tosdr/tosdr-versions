@@ -293,13 +293,13 @@ Show Search
 
 [Israel-Hamas war](https://apnews.com/hub/israel-hamas-war)
 
-[Pat Sajak final show](https://apnews.com/article/pat-sajak-wheel-of-fortune-ryan-seacrest-c64f40809bc993f4d4eb221dc37ff841)
+[Belmont Stakes](https://apnews.com/article/belmont-at-saratoga-1cdfe648da368af428dfc28afbc1a0d6)
 
-[US jobs report](https://apnews.com/article/jobs-hiring-unemployment-economy-inflation-federal-reserve-07a321981752503e5299882805ed36c9)
+[Movie Review: ‘Hit Man’](https://apnews.com/article/hit-man-movie-review-69cc6966e203f932134d808fd0f3b297)
 
-[Kia recall](https://apnews.com/article/kia-telluride-recall-fire-risk-cd8cd19cdd1d8686a7328e1e9d5ac4ce)
+[Caitlin Clark](https://apnews.com/article/clark-olympics-usa-basketball-267616be33b9bc6b4aed0ad5d89e8167)
 
-[Bird flu](https://apnews.com/article/bird-flu-h5n2-h5n1-85366c76aeba57460eb83646f5c37be3)
+[Shark attack](https://apnews.com/article/florida-gulf-coast-beaches-shark-attacks-c01a75604a43b1608748c822c90e8fa6)
 
 The Associated Press
 ====================
