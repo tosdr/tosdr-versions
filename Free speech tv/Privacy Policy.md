@@ -326,9 +326,3 @@ This Privacy Policy is effective as of March 1, 2024.
 * [Terms](https://freespeech.org/terms/)
 * [Privacy](https://freespeech.org/privacy/)
 * [Contact](https://freespeech.org/contact-us/)
-
-Thank you for watching FSTV! While you’re here, make your summer donation to triple its impact. Today’s Frontline Funders are **matching donations 2x over**. 
-
-[Make Your Summer Gift Go Farther](https://freespeech.org/donate-all/?utm_source=popup)
-
-×
