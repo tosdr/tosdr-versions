@@ -297,25 +297,25 @@ Sponsor may conduct a background check to confirm any potential winner’s eligi
 Top of Today
 ------------
 
-1. [![Seraya Aung Harmon, left, was last seen with her father, Aaron Daniel Aung, far right. Nadia Cole, Aaron Aung's fiancee, next to him above, is believed to be traveling with him. (Pullman Police - Washington state)](https://am23.mediaite.com/lc/cnt/uploads/2024/06/Missing-Daughter-432x243.jpeg)](https://lawandcrime.com/crime/i-physically-felt-my-heart-hit-the-floor-father-believed-to-be-with-missing-daughter-2-and-fiancee-after-failing-to-show-up-for-custody-exchange/)
+1. [![Troy Marquise Gillard (Greensboro Police Dept.), Kathryn Garton Holmes and authorities investigating the fatal shooting (WGHP/YouTube screenshots)](https://am23.mediaite.com/lc/cnt/uploads/2024/06/Troy-Marquise-Gillard-Greensboro-Police-Dept.-Kathryn-Garton-Holmes-and-authorities-investigating-the-fatal-shooting-WGHPYouTube-screenshots-432x243.jpg)](https://lawandcrime.com/crime/man-ambushed-killed-woman-driving-to-meet-him-after-online-marketplace-sale-police/)
     
-    ### ['I physically felt my heart hit the floor': Father believed to be with missing daughter, 2, and fiancee after failing to show up for custody exchange](https://lawandcrime.com/crime/i-physically-felt-my-heart-hit-the-floor-father-believed-to-be-with-missing-daughter-2-and-fiancee-after-failing-to-show-up-for-custody-exchange/)
+    ### [Man ambushed, killed woman driving to meet him after 'online marketplace' sale: Police](https://lawandcrime.com/crime/man-ambushed-killed-woman-driving-to-meet-him-after-online-marketplace-sale-police/)
     
-2. [![Jacob Mandell appears in a Sacrament courtroom on June 3, 2024 to face a charge of murder. YouTube screengrab KCRA.](https://am22.mediaite.com/lc/cnt/uploads/2024/06/mandell-432x243.jpg)](https://lawandcrime.com/crime/going-too-far-to-help-somebody-former-high-school-wrestling-coach-allegedly-beat-bail-bondsman-to-death-after-asking-to-use-phone/)
+2. [![Booking photos of Rene Trigueros Hernandez, Rene Hernandez-Santos (bottom left), and Claudia Hernandez-Santos (right)](https://am22.mediaite.com/lc/cnt/uploads/2022/05/Rene-Trigueros-Hernandez-Rene-Hernandez-Santos-bottom-left-and-Claudia-Hernandez-Santos-right-432x243.jpg)](https://lawandcrime.com/crime/mother-and-relatives-who-killed-3-year-old-in-torturous-exorcism-have-shown-no-remorse-prosecutor/)
     
-    ### ['Going too far to help somebody': Former high school wrestling coach allegedly beat bail bondsman to death after asking to use phone](https://lawandcrime.com/crime/going-too-far-to-help-somebody-former-high-school-wrestling-coach-allegedly-beat-bail-bondsman-to-death-after-asking-to-use-phone/)
+    ### [Mother and relatives who killed 3-year-old in torturous exorcism have shown no remorse: Prosecutor](https://lawandcrime.com/crime/mother-and-relatives-who-killed-3-year-old-in-torturous-exorcism-have-shown-no-remorse-prosecutor/)
     
-3. [![Donald Trump does a hand motion in the main image; Fani Willis looks confused inset on the right](https://am24.mediaite.com/lc/cnt/uploads/2024/03/Trump-Willis-432x243.jpg)](https://lawandcrime.com/high-profile/the-trump-docket-some-georgia-rico-co-defendants-may-be-left-out-in-the-cold-fail-to-benefit-from-appeals-court-delay/)
+3. [![Benicia Knapps, Blake Mohs, David Guillory (image of victim via Facebook; image of suspects via Pleasanton PD)](https://am24.mediaite.com/lc/cnt/uploads/2023/04/Benicia-Knapps-Blake-Mohs-David-Guiillory--432x243.jpg)](https://lawandcrime.com/crime/shoplifter-and-getaway-driver-who-fled-the-scene-with-a-toddler-in-their-vehicle-sentenced-in-killing-of-home-depot-security-guard-shot-dead-months-before-wedding/)
     
-    ### [The Trump Docket: Some Georgia RICO co-defendants may be left out in the cold, fail to benefit from appeals court delay](https://lawandcrime.com/high-profile/the-trump-docket-some-georgia-rico-co-defendants-may-be-left-out-in-the-cold-fail-to-benefit-from-appeals-court-delay/)
+    ### [Shoplifter and getaway driver — who fled the scene with a toddler in their vehicle — sentenced in killing of Home Depot security guard shot dead months before wedding](https://lawandcrime.com/crime/shoplifter-and-getaway-driver-who-fled-the-scene-with-a-toddler-in-their-vehicle-sentenced-in-killing-of-home-depot-security-guard-shot-dead-months-before-wedding/)
     
 4. [![Jesse Lee Calhoun (Oregon Dept. of Corrections); from top to bottom, Charity Lynn Perry (via Multnomah County DA's office), Bridget Leanne Webster (via Polk County Sheriff's Office), and Joanna Speaks (via Clark County Sheriff's Office).](https://am24.mediaite.com/lc/cnt/uploads/2024/05/Jesse-Lee-Calhoun-Oregon-Dept.-of-Corrections-from-top-to-bottom-Charity-Lynn-Perry-Bridget-Leanne-Websterand-Joanna-Speaks-police-agencies-432x243.jpg)](https://lawandcrime.com/crime/suspected-serial-killer-who-allegedly-murdered-3-women-then-dumped-their-bodies-in-remote-areas-pleads-not-guilty/)
     
     ### [Suspected serial killer who allegedly murdered 3 women then dumped their bodies in remote areas pleads not guilty](https://lawandcrime.com/crime/suspected-serial-killer-who-allegedly-murdered-3-women-then-dumped-their-bodies-in-remote-areas-pleads-not-guilty/)
     
-5. [![Booking photos of Rene Trigueros Hernandez, Rene Hernandez-Santos (bottom left), and Claudia Hernandez-Santos (right)](https://am22.mediaite.com/lc/cnt/uploads/2022/05/Rene-Trigueros-Hernandez-Rene-Hernandez-Santos-bottom-left-and-Claudia-Hernandez-Santos-right-432x243.jpg)](https://lawandcrime.com/crime/mother-and-relatives-who-killed-3-year-old-in-torturous-exorcism-have-shown-no-remorse-prosecutor/)
+5. [![Rudy Giuliani at Four Seasons Total Landscaping](https://am22.mediaite.com/lc/cnt/uploads/2023/07/Rudy-Giuliani-at-Four-Seasons-Total-Landscaping-432x243.jpg)](https://lawandcrime.com/high-profile/bankruptcy-lawyers-subpoena-rudy-giulianis-spokesperson-for-financial-information-about-media-appearances-trump-and-rnc-debts-legal-fundraisers-pandemic-relief-funds/)
     
-    ### [Mother and relatives who killed 3-year-old in torturous exorcism have shown no remorse: Prosecutor](https://lawandcrime.com/crime/mother-and-relatives-who-killed-3-year-old-in-torturous-exorcism-have-shown-no-remorse-prosecutor/)
+    ### [Bankruptcy lawyers subpoena Rudy Giuliani's spokesperson for financial information about media appearances, Trump and RNC debts, legal fundraisers, pandemic relief funds](https://lawandcrime.com/high-profile/bankruptcy-lawyers-subpoena-rudy-giulianis-spokesperson-for-financial-information-about-media-appearances-trump-and-rnc-debts-legal-fundraisers-pandemic-relief-funds/)
     
 
 [](http://eepurl.com/c89Jdb)
