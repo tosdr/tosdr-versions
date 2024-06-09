@@ -1,7 +1,3 @@
-X
-
-[CookieHub Consent Management Platform Becomes Google CMP Partner!](https://www.cookiehub.com/blog/cookiehub-becomes-google-cmp-partner)
-
 * [![CookieHub](https://www.cookiehub.com/wp-content/uploads/2023/06/cookiehub-logo.svg)](https://www.cookiehub.com/)
     
 
