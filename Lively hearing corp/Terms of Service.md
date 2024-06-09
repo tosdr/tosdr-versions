@@ -16,15 +16,20 @@ Try Enhance Select hearing aids risk-free for 100 days. [Shop now](https://www.l
 
 [Hearing aids](https://www.listenlively.com/product)[Remote care](https://www.listenlively.com/hearing-care)[Hearing resources](https://www.listenlively.com/hearing-aid-guide)
 
-Schedule call[(800) 854-2772](tel:8008542772)
-
-[](tel:8008542772 "Call us")
+[(800) 854-2772We're open! Call now](tel:8008542772)[](tel:8008542772 "Call us")
 
 [](https://www.listenlively.com/survey)
 
-![](/cdn-cgi/image/width=3840,quality=10,format=auto/_next/static/media/es500-carousel-desktop.af0828e4.jpg)
-
 Previous
+
+![](/cdn-cgi/image/width=3840,quality=80,format=auto/_next/static/media/es500-carousel-desktop.af0828e4.jpg)
+
+Meet the Select 500
+-------------------
+
+The **smallest, clearest-sounding** hearing aid we offer. It’s your hearing. Make the most of it.
+
+[Shop now](https://www.listenlively.com/product)[Start your 100-day trial ›](https://www.listenlively.com/survey)
 
 Hear better with Jabra Enhance
 ==============================
@@ -40,35 +45,22 @@ sound, our most discreet design _Shop the Select 500_](https://www.listenlively.
 
 “Best if you're new to hearing aids”
 
-![](/cdn-cgi/image/width=3840,quality=80,format=auto/_next/static/media/es500-carousel-desktop.af0828e4.jpg)
-
-Meet the Select 500
--------------------
-
-The **smallest, clearest-sounding** hearing aid we offer. It’s your hearing. Make the most of it.
-
-[Shop now](https://www.listenlively.com/product)[Start your 100-day trial ›](https://www.listenlively.com/survey)
-
 Next
 
-![](/cdn-cgi/image/width=3840,quality=10,format=auto/_next/static/media/es500-carousel-desktop.af0828e4.jpg)
+What you get with Jabra Enhance Select
+--------------------------------------
 
-Why Jabra Enhance?
-------------------
+### High-tech hearing aids
 
-### High-tech, lower cost
-
-Experience **360-degree sound** and **enhanced speech clarity** with our nearly invisible, **Bluetooth**\-enabled hearing aids. As low as $995 per pair.
+Nearly invisible, Enhance Select hearing aids are Bluetooth-enabled, and offer 360-degree sound.
 
 ### Convenient follow-up care
 
-Connect with our **licensed, US-based Audiology Team** right from home.  
-**No office visits** necessary.  
-Easy.
+With our **Premium Package**, connect with our Audiology Team whenever you need via our easy-to-use app.
 
 ### Incredible value
 
-**Medical-grade hearing aids** at a fraction of the cost of comparable prescription devices from a clinic. Financing available.
+Everything you need for better hearing — all for as low as $995 per pair. Financing also available.
 
 ![](/_next/static/media/accept.8f2fb6cf.svg)FSA and HSA cards accepted
 
@@ -175,7 +167,7 @@ With our **Premium Package**, our Audiology Team works with you remotely to impr
     
     **Enhance Select 50R**
     
-    Great for everyday listening situations, like one-on-one conversations and watching TV.
+    Works well in quieter situations, like one-on-one conversations and watching TV at home.
     
     $995 - $1,195  
     or as low as $33/mo per pair](https://www.listenlively.com/product/enhanceselect50r)[\*](#financing-disclosure)
@@ -227,13 +219,13 @@ The reviews are in
 
 Filter reviews by topic:
 
-Sound quality
+Hearing aids
 
-* Sound quality
-* Comfort
-* Discretion
+* Hearing aids
 * Care and service
+* Ease of use
 * Value
+* Results
 
 See all reviews
 
