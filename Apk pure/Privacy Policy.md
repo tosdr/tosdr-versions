@@ -177,19 +177,19 @@ APKPure is committed to protecting consumer privacy online. We believe that grea
 
 WhatsApp Messenger
 
-7.8](https://apkpure.com/whatsapp-android/com.whatsapp "WhatsApp Messenger")[![CapCut - Video Editor icon](https://static.apkpure.com/mobile/static/imgs/lazy.png "CapCut - Video Editor")
+7.8](https://apkpure.com/whatsapp-android/com.whatsapp "WhatsApp Messenger")[![TikTok icon](https://static.apkpure.com/mobile/static/imgs/lazy.png "TikTok")
 
-CapCut - Video Editor
+TikTok
 
-8.3](https://apkpure.com/capcut-for-android/com.lemon.lvoverseas "CapCut - Video Editor")[![Instagram icon](https://static.apkpure.com/mobile/static/imgs/lazy.png "Instagram")
-
-Instagram
-
-6.4](https://apkpure.com/instagram-android/com.instagram.android "Instagram")[![YouTube icon](https://static.apkpure.com/mobile/static/imgs/lazy.png "YouTube")
+8.2](https://apkpure.com/tiktok-musically/com.zhiliaoapp.musically "TikTok")[![YouTube icon](https://static.apkpure.com/mobile/static/imgs/lazy.png "YouTube")
 
 YouTube
 
-7.7](https://apkpure.com/youtube/com.google.android.youtube "YouTube")[![Free Fire icon](https://static.apkpure.com/mobile/static/imgs/lazy.png "Free Fire")
+7.7](https://apkpure.com/youtube/com.google.android.youtube "YouTube")[![Instagram icon](https://static.apkpure.com/mobile/static/imgs/lazy.png "Instagram")
+
+Instagram
+
+6.4](https://apkpure.com/instagram-android/com.instagram.android "Instagram")[![Free Fire icon](https://static.apkpure.com/mobile/static/imgs/lazy.png "Free Fire")
 
 Free Fire
 
@@ -201,11 +201,11 @@ Roblox
 
 Free Fire MAX
 
-8.7](https://apkpure.com/free-fire-max-android/com.dts.freefiremax "Free Fire MAX")[![Fate/Grand Order icon](https://static.apkpure.com/mobile/static/imgs/lazy.png "Fate/Grand Order")
+8.7](https://apkpure.com/free-fire-max-android/com.dts.freefiremax "Free Fire MAX")[![eFootball 2024 icon](https://static.apkpure.com/mobile/static/imgs/lazy.png "eFootball 2024")
 
-Fate/Grand Order
+eFootball 2024
 
-8.0](https://apkpure.com/fate-grand-order/com.aniplex.fategrandorder "Fate/Grand Order")
+8.6](https://apkpure.com/efootball-2024-mobile-android/jp.konami.pesam "eFootball 2024")
 
 ![APKPure](https://static.apkpure.com/www/static/imgs/logo_new.png)
 
