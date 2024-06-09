@@ -80,9 +80,9 @@ Related Articles
 
 [How does automatic alt text work on Facebook?](https://help.instagram.com/216219865403298?helpref=related&source_cms_id=477434105621119)
 
-[Rejected name when creating a Facebook account](https://help.instagram.com/212848065405122?helpref=related&source_cms_id=477434105621119)
-
 [Legal terms applicable to donations on Facebook](https://help.instagram.com/117075358980053?helpref=related&source_cms_id=477434105621119)
+
+[Rejected name when creating a Facebook account](https://help.instagram.com/212848065405122?helpref=related&source_cms_id=477434105621119)
 
 [Use Crisis Response on Facebook](https://help.instagram.com/1734887820172947?helpref=related&source_cms_id=477434105621119)
 
