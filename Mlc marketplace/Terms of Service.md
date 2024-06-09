@@ -16,7 +16,7 @@ You may also like
 
 [NOMU Gift Box - Rubs Famous Five Gift Box
 
-12.500 OMR](https://mls.om/products/nomu-gift-box-rubs-famous-five-gift-box)
+13.750 OMR](https://mls.om/products/nomu-gift-box-rubs-famous-five-gift-box)
 
 5.0 / 5.0
 
@@ -28,7 +28,7 @@ You may also like
 
 [Nomu BBQ Rub 55g
 
-2.100 OMR](https://mls.om/products/nomu-bbq-rub-55g)
+2.310 OMR](https://mls.om/products/nomu-bbq-rub-55g)
 
 5.0 / 5.0
 
@@ -40,7 +40,7 @@ You may also like
 
 [Nomu Cajun Rub 65g
 
-2.100 OMR](https://mls.om/products/nomu-cajun-rub-65g)
+2.310 OMR](https://mls.om/products/nomu-cajun-rub-65g)
 
 5.0 / 5.0
 
@@ -52,7 +52,7 @@ You may also like
 
 [Nomu Coffee Rub 70g
 
-2.100 OMR](https://mls.om/products/nomu-coffee-rub-70g)
+2.310 OMR](https://mls.om/products/nomu-coffee-rub-70g)
 
 5.0 / 5.0
 
@@ -64,7 +64,7 @@ You may also like
 
 [NOMU Gift Box - Six for Starters
 
-10.200 OMR](https://mls.om/products/nomu-gift-box-six-for-starters)
+11.220 OMR](https://mls.om/products/nomu-gift-box-six-for-starters)
 
 5.0 / 5.0
 
@@ -76,7 +76,7 @@ You may also like
 
 [Nomu Lamb Rub 50g
 
-2.100 OMR](https://mls.om/products/nomu-lamb-rub-50g)
+2.310 OMR](https://mls.om/products/nomu-lamb-rub-50g)
 
 5.0 / 5.0
 
@@ -88,7 +88,7 @@ You may also like
 
 [NOMU Mini Black Pepper Grinder 35g
 
-1.700 OMR Sold Out](https://mls.om/products/nomu-mini-black-pepper-grinder-35g)
+1.870 OMR Sold Out](https://mls.om/products/nomu-mini-black-pepper-grinder-35g)
 
 5.0 / 5.0
 
@@ -100,7 +100,7 @@ Sold out
 
 [NOMU Mini Sea Salt Grinder 60g
 
-1.500 OMR](https://mls.om/products/nomu-mini-sea-salt-grinder-60g)
+1.650 OMR](https://mls.om/products/nomu-mini-sea-salt-grinder-60g)
 
 5.0 / 5.0
 
@@ -112,7 +112,7 @@ Sold out
 
 [NOMU One for All Grinder 45g
 
-2.100 OMR](https://mls.om/products/nomu-one-for-all-grinder-45g)
+2.310 OMR](https://mls.om/products/nomu-one-for-all-grinder-45g)
 
 5.0 / 5.0
 
@@ -124,7 +124,7 @@ Sold out
 
 [Nomu One for All Rub 60g
 
-2.100 OMR](https://mls.om/products/nomu-one-for-all-rub-60g)
+2.310 OMR](https://mls.om/products/nomu-one-for-all-rub-60g)
 
 5.0 / 5.0
 
@@ -136,7 +136,7 @@ Sold out
 
 [Nomu Peri-Peri Rub 65g
 
-2.100 OMR](https://mls.om/products/nomu-peri-peri-rub-65g)
+2.310 OMR](https://mls.om/products/nomu-peri-peri-rub-65g)
 
 5.0 / 5.0
 
@@ -148,7 +148,7 @@ Sold out
 
 [Nomu Poultry Rub 55g
 
-2.100 OMR](https://mls.om/products/nomu-poultry-rub-55g)
+2.310 OMR](https://mls.om/products/nomu-poultry-rub-55g)
 
 5.0 / 5.0
 
@@ -160,7 +160,7 @@ Sold out
 
 [NOMU Rainbow Pepper Grinder 60g
 
-3.000 OMR](https://mls.om/products/nomu-rainbow-pepper-grinder-60g)
+3.300 OMR](https://mls.om/products/nomu-rainbow-pepper-grinder-60g)
 
 5.0 / 5.0
 
@@ -172,7 +172,7 @@ Sold out
 
 [NOMU Spicy Chilli Grinder 55g
 
-2.100 OMR](https://mls.om/products/copy-of-nomu-steak-and-bbq-grinder-55g)
+2.310 OMR](https://mls.om/products/copy-of-nomu-steak-and-bbq-grinder-55g)
 
 5.0 / 5.0
 
