@@ -14,9 +14,9 @@ Saving
 
 ![Newgrounds Background Image Theme](//img.ngfiles.com/themes/000/skin-fnf-4wk-webp.webp?1650371467)
 
-[](https://bitchfurry666.newgrounds.com/)
+[](https://amespinkinson.newgrounds.com/)
 
-[bitchfurry666](https://bitchfurry666.newgrounds.com/) just joined the crew!
+[AmesPinkinson](https://amespinkinson.newgrounds.com/) just joined the crew!
 
 We need **you** on the team, too.
 
@@ -292,17 +292,17 @@ If you have any questions about this privacy policy, the practices of this site,
 
 GamesMoviesAudioArtChannelsUsers
 
-[ZombieGhost **Life Blog #0**](https://zombieghost.newgrounds.com/news/post/1450532)
+[TheRealLifeguardYT **New Songs!**](https://thereallifeguardyt.newgrounds.com/news/post/1450898)
 
-[JamJarIsDumb **New Song!**](https://jamjarisdumb.newgrounds.com/news/post/1450530)
+[Neutronex **I'm back, eh**](https://neutronex.newgrounds.com/news/post/1450896)
 
-[luckster1234 **YCH Auction - Beach at Dawn**](https://luckster1234.newgrounds.com/news/post/1450528)
+[TransmorpherDDS **Gears and Guns**](https://transmorpherdds.newgrounds.com/news/post/1450894)
 
-[NoseyFilms **We're Back!**](https://noseyfilms.newgrounds.com/news/post/1450526)
+[ShyeNewgrounds **I hate hackers**](https://shyenewgrounds.newgrounds.com/news/post/1450892)
 
-[T7-101 **I'm gonna be gone for a bit bit maybe**](https://t7-101.newgrounds.com/news/post/1450525)
+[KEIOAudio **SUPER WRATH + Original Soundtrack!**](https://keioaudio.newgrounds.com/news/post/1450891)
 
-[SongiaXshudder **Me and creeperforce playing minecraft!!!!**](https://songiaxshudder.newgrounds.com/news/post/1450523)
+[TheGorondorf **Door Transition? Door Transition!**](https://thegorondorf.newgrounds.com/news/post/1450890)
 
 [**Wall Art by**
 
