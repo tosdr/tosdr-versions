@@ -123,9 +123,9 @@ If you have any questions about our Privacy Policy, please contact us at .
         * [Samsung](https://samsung.gadgethacks.com/)
         * [Nexus](https://nexus5.gadgethacks.com/)
         * [OnePlus](https://oneplus.gadgethacks.com/)
-        * [Nexus 7](https://nexus7.gadgethacks.com/)
         * [Pixel](https://pixel.gadgethacks.com/)
         * [HTC One](https://htc-one.gadgethacks.com/)
+        * [Nexus 7](https://nexus7.gadgethacks.com/)
         * [Amazon Fire](https://fire.gadgethacks.com/)
         * [LG G3](https://lg-g3.gadgethacks.com/)
     * [Smartphones](https://smartphones.gadgethacks.com/)
@@ -160,8 +160,8 @@ If you have any questions about our Privacy Policy, please contact us at .
         * [Meta 2](https://meta.reality.news/)
     * [Virtual Reality News](https://virtual.reality.news/)
         * [Oculus Rift](https://oculus.reality.news/)
-        * [Mobile VR News](https://mobile-vr.reality.news/)
         * [HTC Vive](https://vive.reality.news/)
+        * [Mobile VR News](https://mobile-vr.reality.news/)
 * About
     
     * [**About Us**](https://www.wonderhowto.com/about/)
