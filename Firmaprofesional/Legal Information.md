@@ -173,6 +173,8 @@ FIRMAPROFESIONAL, S.A, A62634068
 Video ID  
 [Custodia de clave de cifrado](https://firmaprofesional.com/servicios/custodia-de-claves-de-cifrado/)
 
+![](https://firmaprofesional.com/wp-content/uploads/2024/06/segured-negativo-1-1-1024x450.png)
+
 #### CONTACTO
 
 **BARCELONA**  
