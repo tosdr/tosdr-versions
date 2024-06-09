@@ -10,7 +10,7 @@ Ok
 
 [Skip to Content](#contentarea)
 
-**Shop now for [50% off seeds!](https://www.burpee.com/vegetables/direct-sow-vegetable-seeds/) Use code SEEDS624   \*Exclusions Apply**
+**[SEASON SEND-OFF SALE!](https://www.burpee.com/spring-plants/) Plants 40% off (no code required!) + Seeds 50% off with code SEEDS624   \*Exclusions Apply**
 
 [Shipping Schedule](https://www.burpee.com/shipping-information/)
 
