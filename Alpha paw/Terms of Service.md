@@ -237,7 +237,7 @@ Apply
     
     2 colors
     
-    6440 total reviews](https://www.alphapaw.com/collections/bestsellers/products/pawramp)
+    6444 total reviews](https://www.alphapaw.com/collections/bestsellers/products/pawramp)
     
     Regular price
     
@@ -261,7 +261,7 @@ Apply
     
     2 colors
     
-    6440 total reviews
+    6444 total reviews
     
 * On sale
     
@@ -289,7 +289,7 @@ Apply
     
     in your cart
     
-    3 total reviews](https://www.alphapaw.com/collections/bestsellers/products/stairwedge)
+    4 total reviews](https://www.alphapaw.com/collections/bestsellers/products/stairwedge)
     
     Regular price
     
@@ -311,7 +311,7 @@ Apply
     
     in your cart
     
-    3 total reviews
+    4 total reviews
     
 * On sale
     
@@ -399,7 +399,7 @@ Apply
     
     3 sizes
     
-    3309 total reviews](https://www.alphapaw.com/collections/bestsellers/products/magic-pee-pads-xl)
+    3311 total reviews](https://www.alphapaw.com/collections/bestsellers/products/magic-pee-pads-xl)
     
     Regular price
     
@@ -423,7 +423,7 @@ Apply
     
     3 sizes
     
-    3309 total reviews
+    3311 total reviews
     
 * On sale
     
@@ -453,7 +453,7 @@ Apply
     
     3 sizes
     
-    3309 total reviews](https://www.alphapaw.com/collections/bestsellers/products/magic-dog-pee-pads)
+    3311 total reviews](https://www.alphapaw.com/collections/bestsellers/products/magic-dog-pee-pads)
     
     Regular price
     
@@ -477,7 +477,7 @@ Apply
     
     3 sizes
     
-    3309 total reviews
+    3311 total reviews
     
 * On sale
     
