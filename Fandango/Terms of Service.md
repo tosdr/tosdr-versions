@@ -17,8 +17,8 @@ Offers
 
 Go to previous offer
 
-*  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **NBC's coverage of the Paris Olympics** Get tickets for live broadcasts in AMC Theatres!
 *  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Get Deadpool's Premium Package** Including the Official Best Friends Necklaces!
+*  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **NBC's coverage of the Paris Olympics** Get tickets for live broadcasts in AMC Theatres!
 *  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Buy a ticket to Illumination’s Despicable Me 4** Chance to win a Universal theme park vacation
 *  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Buy a ticket to Inside Out 2** Win a Pixar Fest trip for 4 at Pixar Place Hotel
 *  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Save $8 on Despicable Me and Minions Films** When you buy a ticket to Despicable Me 4
@@ -212,14 +212,6 @@ Offers
 
 [SEE ALL OFFERS](https://www.fandango.com/offers)
 
-* [NBC'S COVERAGE OF THE PARIS OLYMPICS image link ![NBC'S COVERAGE OF THE PARIS OLYMPICS](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/717f5460-21fc-11ef-a07e-5b03d6159fe4--fan-globalofferunit-homepage-amcdailyolympics-292x118.png)](https://www.fandango.com/paris-olympics-on-nbc-at-amc-theatres-2024-236338/movie-overview?cmp=TARS~FANDANGO~AMCDailyOlympics_Footer) 
-    
-    ### NBC'S COVERAGE OF THE PARIS OLYMPICS
-    
-    Get tickets now for the live broadcasts in AMC Theatres!
-    
-    [BUY NOW](https://www.fandango.com/paris-olympics-on-nbc-at-amc-theatres-2024-236338/movie-overview?cmp=TARS~FANDANGO~AMCDailyOlympics_Footer)
-    
 * [GET DEADPOOL'S PREMIUM PACKAGE image link ![GET DEADPOOL'S PREMIUM PACKAGE](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/da59af90-13af-11ef-a14e-3f3f55d13640--fan-globalofferunit-homepage-deadpoolpackage-292x118.png)](https://deadpoolandwolverine.fandango.egifter.com/?cmp=TARS~FANDANGO~DeadpoolMicrosite_Footer) 
     
     ### GET DEADPOOL'S PREMIUM PACKAGE
@@ -228,13 +220,21 @@ Offers
     
     [BUY NOW](https://deadpoolandwolverine.fandango.egifter.com/?cmp=TARS~FANDANGO~DeadpoolMicrosite_Footer)
     
-* [SAVE $8 ON SELECT FANDANGO AT HOME DESPICABLE ME AND MINIONS FILMS image link ![SAVE $8 ON SELECT FANDANGO AT HOME DESPICABLE ME AND MINIONS FILMS](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/0a787470-22c6-11ef-ab6e-6bc4e16d49df--fan-globalofferunit-homepage-despicableme4gwp-292x118.png)](https://www.fandangomovietickets.com/DM4FAHGWPOffer?cmp=TARS~FANDANGO~DM4GWP_Footer) 
+* [NBC'S COVERAGE OF THE PARIS OLYMPICS image link ![NBC'S COVERAGE OF THE PARIS OLYMPICS](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/717f5460-21fc-11ef-a07e-5b03d6159fe4--fan-globalofferunit-homepage-amcdailyolympics-292x118.png)](https://www.fandango.com/paris-olympics-on-nbc-at-amc-theatres-2024-236338/movie-overview?cmp=TARS~FANDANGO~AMCDailyOlympics_Footer) 
     
-    ### SAVE $8 ON SELECT FANDANGO AT HOME DESPICABLE ME AND MINIONS FILMS
+    ### NBC'S COVERAGE OF THE PARIS OLYMPICS
     
-    Buy a Ticket, Save $8 on Select Fandango at Home Despicable Me and Minions Films to stream at home.
+    Get tickets now for the live broadcasts in AMC Theatres!
     
-    [BUY TICKETS](https://www.fandangomovietickets.com/DM4FAHGWPOffer?cmp=TARS~FANDANGO~DM4GWP_Footer)
+    [BUY NOW](https://www.fandango.com/paris-olympics-on-nbc-at-amc-theatres-2024-236338/movie-overview?cmp=TARS~FANDANGO~AMCDailyOlympics_Footer)
+    
+* [WIN A PIXAR FEST TRIP FOR 4 AT PIXAR PLACE HOTEL image link ![WIN A PIXAR FEST TRIP FOR 4 AT PIXAR PLACE HOTEL](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/ab24a5a0-1156-11ef-a14e-3f3f55d13640--fan-globalofferunit-homepage-insideout2-292x118.png)](https://www.fandangomovietickets.com/fandangosnewemotionssweepstakes?cmp=TARS~FANDANGO~PixarPlaceSweeps_Footer) 
+    
+    ### WIN A PIXAR FEST TRIP FOR 4 AT PIXAR PLACE HOTEL
+    
+    Buy a ticket to Inside Out 2 for a chance to win a trip for 4 at the Pixar Place Hotel to experience Pixar Fest!
+    
+    [BUY A TICKET](https://www.fandangomovietickets.com/fandangosnewemotionssweepstakes?cmp=TARS~FANDANGO~PixarPlaceSweeps_Footer)
     
 * [SAVE $12 ON DEADPOOL 2-FILM COLLECTION image link ![SAVE $12 ON DEADPOOL 2-FILM COLLECTION](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/edee52f0-22c7-11ef-ab6e-6bc4e16d49df--fan-globalofferunit-homepage-deadpoolgwp-292x118.png)](https://www.fandangomovietickets.com/DeadpoolFAHGWP?cmp=TARS~FANDANGO~DeadpoolFAHGWP_Footer) 
     
@@ -342,16 +342,6 @@ Fandango Affiliated Companies:
 
 © 2024 Fandango
 
-### Special Event
-
-Close
-
-![NBC's coverage of the Paris Olympics](https://images.fandango.com/cms/assets/ffcab640-1939-11ef-a07e-5b03d6159fe4--fan-globalnavbar-amcdailyolympics-343x362.jpg)
-
-#### Get tickets to see NBC's coverage of the Paris Olympics, broadcasted live in AMC Theatres!
-
-[Buy Tickets](https://www.fandango.com/paris-olympics-on-nbc-at-amc-theatres-2024-236338/movie-overview?cmp=TARS~FANDANGO~AMCDailyOlympics_GlobalNav)
-
 ### Get Deadpool's Premium Package Today!
 
 Close
@@ -361,6 +351,16 @@ Close
 #### Get Deadpool's Premium Package - Includes 2 tickets to Deadpool & Wolverine, the Official Best Friends Necklaces, and more
 
 Deadpool’s Premium Package is non-refundable. While supplies last. Tickets are non-refundable and non-exchangeable. You must be 18 years of age or older to purchase a package. See Offer Terms for full terms and conditions for each item included in Deadpool’s Premium Package, including full rules for the sweepstakes. [Buy Now](https://www.fandango.com/deadpoolandwolverine?cmp=TARS~FANDANGO~DeadpoolMicrosite_GlobalNav)
+
+### Special Event
+
+Close
+
+![NBC's coverage of the Paris Olympics](https://images.fandango.com/cms/assets/ffcab640-1939-11ef-a07e-5b03d6159fe4--fan-globalnavbar-amcdailyolympics-343x362.jpg)
+
+#### Get tickets to see NBC's coverage of the Paris Olympics, broadcasted live in AMC Theatres!
+
+[Buy Tickets](https://www.fandango.com/paris-olympics-on-nbc-at-amc-theatres-2024-236338/movie-overview?cmp=TARS~FANDANGO~AMCDailyOlympics_GlobalNav)
 
 ### Chance to win a Universal theme park vacation
 
