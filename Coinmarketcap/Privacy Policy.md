@@ -4,21 +4,21 @@ Exchanges: [780](https://coinmarketcap.com/rankings/exchanges/)
 
 Market Cap: 
 
-[$2.55T](https://coinmarketcap.com/charts/#market-cap)
+[$2.54T](https://coinmarketcap.com/charts/#market-cap)
 
-2.66%
+0.80%
 
 24h Vol: 
 
-[$106.82B](https://coinmarketcap.com/charts/#volume-24h)
+[$52.45B](https://coinmarketcap.com/charts/#volume-24h)
 
-42.31%
+49.02%
 
-Dominance: [BTC: 53.6% ETH: 17.4%](https://coinmarketcap.com/charts/#bitcoin-dominance)
+Dominance: [BTC: 53.9% ETH: 17.5%](https://coinmarketcap.com/charts/#bitcoin-dominance)
 
  ETH Gas: 
 
-8 Gwei
+4 Gwei
 
  Fear & Greed: 
 
@@ -90,21 +90,21 @@ Exchanges: [780](https://coinmarketcap.com/rankings/exchanges/)
 
 Market Cap: 
 
-[$2.55T](https://coinmarketcap.com/charts/#market-cap)
+[$2.54T](https://coinmarketcap.com/charts/#market-cap)
 
-2.66%
+0.80%
 
 24h Vol: 
 
-[$106.82B](https://coinmarketcap.com/charts/#volume-24h)
+[$52.45B](https://coinmarketcap.com/charts/#volume-24h)
 
-42.31%
+49.02%
 
-Dominance: [BTC: 53.6% ETH: 17.4%](https://coinmarketcap.com/charts/#bitcoin-dominance)
+Dominance: [BTC: 53.9% ETH: 17.5%](https://coinmarketcap.com/charts/#bitcoin-dominance)
 
  ETH Gas: 
 
-8 Gwei
+4 Gwei
 
  Fear & Greed: 
 
