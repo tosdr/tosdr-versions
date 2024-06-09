@@ -99,30 +99,30 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 * [Meme Insider](https://memeinsider.com/)
 * [Newsletter](https://knowyourmeme.com/newsletter)
 
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/024/592/2155613936.jpg "'Super Smash Bros' Community Prays That This 'Dating App For Smashers' Is Not Real")
+* [![Scared Hamster's Terror Is Our Pleasure](https://i.kym-cdn.com/featured_items/icons/wide/000/024/628/hamster.jpg "It's Been Eight Years Since This Scared Hamster Made His Internet Debut")
     
-    'Super Smash Bros' Community Prays That This 'Dating App For Smashers' Is Not Real](https://knowyourmeme.com/news/super-smash-bros-community-prays-that-this-dating-app-for-smashers-is-not-real)
+    It's Been Eight Years Since This Scared Hamster Made His Internet Debut](https://knowyourmeme.com/memes/scared-hamster)
     
-* [![You Will Never Regret Clicking On This Entry ✨ Beautiful Cabin Crew 🌹 Scarlett Johansson💋💋](https://i.kym-cdn.com/featured_items/icons/wide/000/024/591/cover3.jpg "You Will Never Regret Clicking On This Entry, Beautiful Cabin Crew, Scarlett Johansson")
+* [![Slender Man](https://i.kym-cdn.com/featured_items/icons/wide/000/024/627/c59.jpg "15 Years Ago Today, The 'Something Awful' Photoshop Contest That Gave Us 'Slender Man' Began")
     
-    You Will Never Regret Clicking On This Entry, Beautiful Cabin Crew, Scarlett Johansson](https://knowyourmeme.com/memes/beautiful-cabin-crew-%F0%9F%8C%B9-scarlett-johansson%F0%9F%92%8B%F0%9F%92%8B-you-will-never-regret-liking-this-photo)
+    15 Years Ago Today, The 'Something Awful' Photoshop Contest That Gave Us 'Slender Man' Began](https://knowyourmeme.com/memes/slender-man)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/024/590/biden_normandy_explainer.jpg "Why Are People Saying President Biden Soiled Himself At Normandy? The Viral Allegations, Video And Memes Explained")
+* [![John Coffey's Line From 'Green Mile' Becomes A Meme About Being Tired, And Not In A Way Sleep Can Fix](https://i.kym-cdn.com/featured_items/icons/wide/000/024/626/cover2.jpg "The 'I'm Tired, Boss' Meme Appeared Online Around Six Years Ago Today")
     
-    Why Are People Saying President Biden Soiled Himself At Normandy? The Viral Allegations, Video And Memes Explained](https://knowyourmeme.com/editorials/guides/why-are-people-saying-president-joe-biden-pooped-his-pants-at-normandy-the-viral-allegations-video-and-memes-explained)
+    The 'I'm Tired, Boss' Meme Appeared Online Around Six Years Ago Today](https://knowyourmeme.com/memes/im-tired-boss-estoy-cansado-jefe)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/024/589/100_faces_meme_explainer.jpg "What's The '100 Faces' Meme? The Viral Redraw Trend From Twitter Explained")
+* [![Cat Sticks Its Head Through Cable Hole, Becomes Redraw Reference For Twitter](https://i.kym-cdn.com/featured_items/icons/wide/000/024/625/new_kind_of_cable.jpg "Cat Sticks Its Head Through Cable Hole, Becomes Redraw Reference For Twitter")
     
-    What's The '100 Faces' Meme? The Viral Redraw Trend From Twitter Explained](https://knowyourmeme.com/editorials/guides/whats-the-100-faces-meme-the-viral-redraw-trend-from-twitter-x-explained)
+    Cat Sticks Its Head Through Cable Hole, Becomes Redraw Reference For Twitter](https://knowyourmeme.com/memes/kitten-appears-from-the-cable-hole)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/024/588/suspended_license_zoom_(2).jpg "Part 3 Of Viral 'Zoom Court Hearing' Story Reveals That Corey Harris Never Had A License At All")
+* [![Normal pills meme scene during Dream's music video for Mask.](https://i.kym-cdn.com/featured_items/icons/wide/000/024/624/cover2.jpg "Remember To Take Your Normal Pills This Weekend, As You Have (Hopefully) For The Past Three Years")
     
-    Part 3 Of Viral 'Zoom Court Hearing' Story Reveals That Corey Harris Never Had A License At All](https://knowyourmeme.com/news/part-3-of-zoom-court-hearing-story-reveals-that-corey-harris-never-had-a-license-at-all)
+    Remember To Take Your Normal Pills This Weekend, As You Have (Hopefully) For The Past Three Years](https://knowyourmeme.com/memes/normal-pills)
     
 
 ##### Also Trending:
 
-[Giant Sun Over Playground](https://knowyourmeme.com/memes/its-not-always-a-great-day-for-the-playground-giant-sun-burning-over-playground "Giant Sun Over Playground") [We Like Older Women](https://knowyourmeme.com/memes/we-like-older-women "We Like Older Women")
+[Biden Pooping Himself At Normandy Allegations](https://knowyourmeme.com/memes/president-joe-biden-pooping-himself-at-normandy-allegations "Biden Pooping Himself At Normandy Allegations") [Killer Bean (Video Game)](https://knowyourmeme.com/memes/subcultures/killer-bean-video-game "Killer Bean (Video Game)")
 
 Privacy Policy
 ==============
@@ -318,7 +318,7 @@ Please be sure to include your information in any correspondence to us so that w
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Howdy! You must login or signup first!
+### Yo! You must login or signup first!
 
 |     |     |
 | --- | --- |
