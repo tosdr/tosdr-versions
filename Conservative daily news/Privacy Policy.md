@@ -1,15 +1,15 @@
-Friday, June 7 2024
+Sunday, June 9 2024
 
 Breaking News
 
-* [NYC Lawmakers Unveil Bill To End City’s Sanctuary Status Amid Immigration Crisis](https://www.conservativedailynews.com/2024/06/nyc-lawmakers-unveil-bill-to-end-citys-sanctuary-status-amid-immigration-crisis/)
-* [Memo Sounds Alarm Over Massive ‘Unconstitutional’ Database Of Americans’ Info Pushed By Biden Admin](https://www.conservativedailynews.com/2024/06/memo-sounds-alarm-over-massive-unconstitutional-database-of-americans-info-pushed-by-biden-admin/)
-* [We Remember D-Day. Could It Happen Today?](https://www.conservativedailynews.com/2024/06/we-remember-d-day-could-it-happen-today/)
-* [President Joe Biden’s Schedule for Friday, June 7, 2024](https://www.conservativedailynews.com/2024/06/president-joe-bidens-schedule-for-friday-june-7-2024/)
-* [President Biden Delivers a Speech at Pointe du Hoc and Democracy – 6/6/24](https://www.conservativedailynews.com/2024/06/president-biden-delivers-a-speech-at-pointe-du-hoc-and-democracy-6-6-24/)
-* [In Remembrance of D-Day: Blame Innocent Victims of War On Christianity – NOT!](https://www.conservativedailynews.com/2024/06/in-remembrance-of-d-day-blame-innocent-victims-of-war-on-christianity-not/)
-* [Jonathan Turley Says ‘All Of’ Hunter Biden’s Trial ‘Defenses’ Quickly ‘Collapsed’](https://www.conservativedailynews.com/2024/06/jonathan-turley-says-all-of-hunter-bidens-trial-defenses-quickly-collapsed/)
-* [CNN’s Elie Honig Says Fani Willis’ Trump Case ‘May Not Get Tried Ever’ After ‘Surprising’ Decision](https://www.conservativedailynews.com/2024/06/cnns-elie-honig-says-fani-willis-trump-case-may-not-get-tried-ever-after-surprising-decision/)
+* [HERO: Surgeon Indicted By Biden DOJ For Blowing Whistle On Child Sex Changes Speaks Out](https://www.conservativedailynews.com/2024/06/hero-surgeon-indicted-by-biden-doj-for-blowing-whistle-on-child-sex-changes-speaks-out/)
+* [President Joe Biden’s Schedule for Sunday, June 9, 2024](https://www.conservativedailynews.com/2024/06/president-joe-bidens-schedule-for-sunday-june-9-2024/)
+* [Pro-Palestinian Protesters Vandalize Statues Outside White House During Massive Protest](https://www.conservativedailynews.com/2024/06/pro-palestinian-protesters-vandalize-statues-outside-white-house-during-massive-protest/)
+* [Texas’ Power Grid Could Be Pushed To The Brink Again This Summer, Utility Exec Says](https://www.conservativedailynews.com/2024/06/texas-power-grid-could-be-pushed-to-the-brink-again-this-summer-utility-exec-says/)
+* [President Biden and President Emmanuel Macron of France Deliver Statements to the Press – 6/8/24](https://www.conservativedailynews.com/2024/06/president-biden-and-president-emmanuel-macron-of-france-deliver-statements-to-the-press-6-8-24/)
+* [Voter ID For ME & The Dinner Table](https://www.conservativedailynews.com/2024/06/voter-id-for-me-the-dinner-table/)
+* [Here Is Why The Left Is Desperate To Keep These Cases Out Of The Supreme Court](https://www.conservativedailynews.com/2024/06/here-is-why-the-left-is-desperate-to-keep-these-cases-out-of-the-supreme-court/)
+* [Biden Admin Cements Latest Rule To Further Force EVs On Americans](https://www.conservativedailynews.com/2024/06/biden-admin-cements-latest-rule-to-further-force-evs-on-americans/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -103,72 +103,73 @@ Support Conservative Daily News with a small donation via [Paypal or credit card
 * [Twitter](https://twitter.com/CDNPosts)
 * [Telegram](https://t.me/CDNMedia)
 
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/09/MSDNC-MSNBC-Media-Bias-220x150.png)](https://www.conservativedailynews.com/2024/06/msnbc-analyst-suggests-silencing-trump-to-protect-voters/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/01/us-supreme-court-building-g9793e7da6_1280-220x150.jpg)](https://www.conservativedailynews.com/2024/06/here-is-why-the-left-is-desperate-to-keep-these-cases-out-of-the-supreme-court/)
     
-    [MSNBC Analyst Suggests Silencing Trump To ‘Protect Voters’](https://www.conservativedailynews.com/2024/06/msnbc-analyst-suggests-silencing-trump-to-protect-voters/)
+    [Here Is Why The Left Is Desperate To Keep These Cases Out Of The Supreme Court](https://www.conservativedailynews.com/2024/06/here-is-why-the-left-is-desperate-to-keep-these-cases-out-of-the-supreme-court/)
     
-    June 6, 2024
+    June 8, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/11/gavel-justice-220x150.jfif)](https://www.conservativedailynews.com/2024/06/elon-musks-x-asks-supreme-court-to-weigh-in-on-jack-smiths-trump-search-warrant/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/08/gv081723dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/06/biden-admin-cements-latest-rule-to-further-force-evs-on-americans/)
     
-    [Elon Musk’s X Asks Supreme Court To Weigh In On Jack Smith’s Trump Search Warrant](https://www.conservativedailynews.com/2024/06/elon-musks-x-asks-supreme-court-to-weigh-in-on-jack-smiths-trump-search-warrant/)
+    [Biden Admin Cements Latest Rule To Further Force EVs On Americans](https://www.conservativedailynews.com/2024/06/biden-admin-cements-latest-rule-to-further-force-evs-on-americans/)
     
-    June 4, 2024
+    June 8, 2024
     
 
 Recent Posts
 
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2018/09/Sanctuary-City-sign-2-1.jpg)](https://www.conservativedailynews.com/2024/06/nyc-lawmakers-unveil-bill-to-end-citys-sanctuary-status-amid-immigration-crisis/)
+* [![gender surgery pediaquack](https://www.conservativedailynews.com/wp-content/uploads/2023/06/mrz061323dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/06/hero-surgeon-indicted-by-biden-doj-for-blowing-whistle-on-child-sex-changes-speaks-out/)
     
-    [NYC Lawmakers Unveil Bill To End City’s Sanctuary Status Amid Immigration Crisis](https://www.conservativedailynews.com/2024/06/nyc-lawmakers-unveil-bill-to-end-citys-sanctuary-status-amid-immigration-crisis/)
+    [HERO: Surgeon Indicted By Biden DOJ For Blowing Whistle On Child Sex Changes Speaks Out](https://www.conservativedailynews.com/2024/06/hero-surgeon-indicted-by-biden-doj-for-blowing-whistle-on-child-sex-changes-speaks-out/)
     
-    June 7, 2024
+    June 9, 2024
     
-* [![Domestic spying the fbi](https://www.conservativedailynews.com/wp-content/uploads/2023/05/02-spymach-sm-1080.jpg)](https://www.conservativedailynews.com/2024/06/memo-sounds-alarm-over-massive-unconstitutional-database-of-americans-info-pushed-by-biden-admin/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/02/Joe-Biden-Air-Force-One-220x150.png)](https://www.conservativedailynews.com/2024/06/president-joe-bidens-schedule-for-sunday-june-9-2024/)
     
-    [Memo Sounds Alarm Over Massive ‘Unconstitutional’ Database Of Americans’ Info Pushed By Biden Admin](https://www.conservativedailynews.com/2024/06/memo-sounds-alarm-over-massive-unconstitutional-database-of-americans-info-pushed-by-biden-admin/)
+    [President Joe Biden’s Schedule for Sunday, June 9, 2024](https://www.conservativedailynews.com/2024/06/president-joe-bidens-schedule-for-sunday-june-9-2024/)
     
-    June 7, 2024
+    June 9, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/11/the-economy-220x150.jfif)](https://www.conservativedailynews.com/2024/06/unemployment-ticks-up-as-job-growth-beats-expectations/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/06/Protesters-attack-Lafayette-Square-DC-220x150.jpg)](https://www.conservativedailynews.com/2024/06/pro-palestinian-protesters-vandalize-statues-outside-white-house-during-massive-protest/)
     
-    [Unemployment Ticks Up As Job Growth Beats Expectations](https://www.conservativedailynews.com/2024/06/unemployment-ticks-up-as-job-growth-beats-expectations/)
+    [Pro-Palestinian Protesters Vandalize Statues Outside White House During Massive Protest](https://www.conservativedailynews.com/2024/06/pro-palestinian-protesters-vandalize-statues-outside-white-house-during-massive-protest/)
     
-    June 7, 2024
+    June 9, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/06/IMG_5103-220x150.jpeg)](https://www.conservativedailynews.com/2024/06/we-remember-d-day-could-it-happen-today/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/02/Prepare-fun-activities.jpg)](https://www.conservativedailynews.com/2024/06/raising-children-nurture-nature-or-destination/)
     
-    [We Remember D-Day. Could It Happen Today?](https://www.conservativedailynews.com/2024/06/we-remember-d-day-could-it-happen-today/)
+    [Raising children, nurture, nature or destination?](https://www.conservativedailynews.com/2024/06/raising-children-nurture-nature-or-destination/)
     
-    June 7, 2024
+    June 8, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/04/Joe-Biden-speech-5-220x150.png)](https://www.conservativedailynews.com/2024/06/president-joe-bidens-schedule-for-friday-june-7-2024/)
+* [![Electric transmission tower](https://www.conservativedailynews.com/wp-content/uploads/2018/02/Electric-transmission-tower.jpg)](https://www.conservativedailynews.com/2024/06/texas-power-grid-could-be-pushed-to-the-brink-again-this-summer-utility-exec-says/)
     
-    [President Joe Biden’s Schedule for Friday, June 7, 2024](https://www.conservativedailynews.com/2024/06/president-joe-bidens-schedule-for-friday-june-7-2024/)
+    [Texas’ Power Grid Could Be Pushed To The Brink Again This Summer, Utility Exec Says](https://www.conservativedailynews.com/2024/06/texas-power-grid-could-be-pushed-to-the-brink-again-this-summer-utility-exec-says/)
     
-    June 7, 2024
+    June 8, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/01/Harsanyi-featw-220x150.webp)](https://www.conservativedailynews.com/2024/06/merrick-garland-shouldnt-be-praised-he-should-be-impeached/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/01/Biden-Jan-6-speech-220x150.jpg)](https://www.conservativedailynews.com/2024/06/president-biden-and-president-emmanuel-macron-of-france-deliver-statements-to-the-press-6-8-24/)
     
-    [Merrick Garland Shouldn’t Be Praised. He Should Be Impeached](https://www.conservativedailynews.com/2024/06/merrick-garland-shouldnt-be-praised-he-should-be-impeached/)
+    [President Biden and President Emmanuel Macron of France Deliver Statements to the Press – 6/8/24](https://www.conservativedailynews.com/2024/06/president-biden-and-president-emmanuel-macron-of-france-deliver-statements-to-the-press-6-8-24/)
     
-    June 7, 2024
+    June 8, 2024
     
-* [![Joe Biden disgrace](https://www.conservativedailynews.com/wp-content/uploads/2024/06/stg060724dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/06/embarrassing/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/06/IMG_5105-1024x528-220x150.jpeg)](https://www.conservativedailynews.com/2024/06/voter-id-for-me-the-dinner-table/)
     
-    [Embarrassing](https://www.conservativedailynews.com/2024/06/embarrassing/)
+    [Voter ID For ME & The Dinner Table](https://www.conservativedailynews.com/2024/06/voter-id-for-me-the-dinner-table/)
     
-    June 7, 2024
+    June 8, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/03/JOe-Biden-speech-14-220x150.png)](https://www.conservativedailynews.com/2024/06/president-biden-delivers-a-speech-at-pointe-du-hoc-and-democracy-6-6-24/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/01/us-supreme-court-building-g9793e7da6_1280-220x150.jpg)](https://www.conservativedailynews.com/2024/06/here-is-why-the-left-is-desperate-to-keep-these-cases-out-of-the-supreme-court/)
     
-    [President Biden Delivers a Speech at Pointe du Hoc and Democracy – 6/6/24](https://www.conservativedailynews.com/2024/06/president-biden-delivers-a-speech-at-pointe-du-hoc-and-democracy-6-6-24/)
+    [Here Is Why The Left Is Desperate To Keep These Cases Out Of The Supreme Court](https://www.conservativedailynews.com/2024/06/here-is-why-the-left-is-desperate-to-keep-these-cases-out-of-the-supreme-court/)
     
-    June 7, 2024
+    June 8, 2024
     
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [What’s In Your Range Bag, Marco De La Rosa?](https://www.thegunpage.com/whats-in-your-range-bag-marco-de-la-rosa/10608788)
 * [Bill McGuire Secures FITASC Veteran HOA Win At 2024 World Sporting Clays Championship](https://www.thegunpage.com/bill-mcguire-secures-fitasc-veteran-hoa-win-at-2024-world-sporting-clays-championship/10608782)
 * [NRA Updates Range Development And Operations Online Course](https://www.thegunpage.com/nra-updates-range-development-and-operations-online-course/10608781)
 * [Magpul Adds Rider Sunglasses To Eyewear Lineup](https://www.thegunpage.com/magpul-adds-rider-sunglasses-to-eyewear-lineup/10608779)
@@ -178,7 +179,6 @@ Recent Posts
 * [NRA Introduces Pistol And Smallbore Classifications: 1939 National Matches](https://www.thegunpage.com/nra-introduces-pistol-and-smallbore-classifications-1939-national-matches/10608769)
 * [Federal Ammunition Renews Support Of Minnesota High School Trap Championship](https://www.thegunpage.com/federal-ammunition-renews-support-of-minnesota-high-school-trap-championship/10608764)
 * [Team Winchester & White Flyer’s Eric Harvey Wins Main Event At 2024 NSCA North Central Regional](https://www.thegunpage.com/team-winchester-white-flyers-eric-harvey-wins-main-event-at-2024-nsca-north-central-regional/10608763)
-* [New: 1791 Gunleather Holsters For Optics-Ready, Light-Bearing Pistols](https://www.thegunpage.com/new-1791-gunleather-holsters-for-optics-ready-light-bearing-pistols/10608758)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -220,15 +220,15 @@ Contact Us
 
 Recent Comments
 
+* KayCee on [American-Born Workers Are Getting Killed In Biden’s Economy. Here’s Why](https://www.conservativedailynews.com/2024/06/american-born-workers-are-getting-killed-in-bidens-economy-heres-why/#comment-775390)
+* KayCee on [Olympic Committee Warns Media Against Using ‘Biologically Male,’ ‘Female’ When Referring To Trans Athletes](https://www.conservativedailynews.com/2024/06/olympic-committee-warns-media-against-using-biologically-male-female-when-referring-to-trans-athletes/#comment-775389)
+* [clm](http://conservativedailynews.com/) on [Can We Trust The Outcome In November](https://www.conservativedailynews.com/2024/06/can-we-trust-the-outcome-in-november/#comment-775381)
 * KayCee on [Embarrassing](https://www.conservativedailynews.com/2024/06/embarrassing/#comment-775343)
 * KayCee on [NYC Lawmakers Unveil Bill To End City’s Sanctuary Status Amid Immigration Crisis](https://www.conservativedailynews.com/2024/06/nyc-lawmakers-unveil-bill-to-end-citys-sanctuary-status-amid-immigration-crisis/#comment-775342)
 * Will Delito on [Elon Musk’s X Asks Supreme Court To Weigh In On Jack Smith’s Trump Search Warrant](https://www.conservativedailynews.com/2024/06/elon-musks-x-asks-supreme-court-to-weigh-in-on-jack-smiths-trump-search-warrant/#comment-775337)
 * KayCee on [Can We Trust The Outcome In November](https://www.conservativedailynews.com/2024/06/can-we-trust-the-outcome-in-november/#comment-775325)
 * KayCee on [Of ‘Convicted Felons’ and Lying Frauds](https://www.conservativedailynews.com/2024/06/of-convicted-felons-and-lying-frauds/#comment-775317)
 * MeMyself&I on [United Launch Alliance Successfully Launches First Crewed Starliner](https://www.conservativedailynews.com/2024/06/united-launch-alliance-successfully-launches-first-crewed-starliner/#comment-775289)
-* Richard McDonough on [Bill Maher’s Trump Derangement Syndrome](https://www.conservativedailynews.com/2024/06/bill-mahers-trump-derangement-syndrome/#comment-775278)
-* Jeff L. on [Jill Biden Calls to vote for Good over Evil in November](https://www.conservativedailynews.com/2024/06/jill-biden-calls-to-vote-for-good-over-evil-in-november/#comment-775271)
-* Kennedy on [Of ‘Convicted Felons’ and Lying Frauds](https://www.conservativedailynews.com/2024/06/of-convicted-felons-and-lying-frauds/#comment-775269)
 
 ![sponsored](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
