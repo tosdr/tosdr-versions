@@ -475,171 +475,161 @@ Les commentaires ont été désactivés.
 
 filtrer : tous les sports
 
-[12:42
+[20:48
 
-JO 2024
+Pat. artistique
 
-Une funambule va rejoindre le Stade de France à 25m de hauteur ce samedi](https://www.lequipe.fr/Jo-2024-paris/Tous-sports/Actualites/Une-funambule-va-rejoindre-le-stade-de-france-a-25-metres-de-hauteur-ce-samedi/1473331 "Une funambule va rejoindre le Stade de France à 25m de hauteur ce samedi")
+Siao Him Fa disputera les GP de France et de Chine](https://www.lequipe.fr/Patinage-artistique/Actualites/Siao-him-fa-va-disputer-les-grands-prix-de-france-et-de-chine-cet-hiver/1473650 "Siao Him Fa disputera les GP de France et de Chine")
 
-[12:10
+[20:46
 
-Athlé,
+Hockey sur gazon,
 
-Championnats d'Europe (H)
+Nations Cup
 
-À l'aube des JO, Jacobs se cherche encore](https://www.lequipe.fr/Athletisme/Article/Parti-s-entrainer-aux-etats-unis-marcell-jacobs-se-cherche-encore-a-l-aube-des-jeux-olympiques/1473274 "À l'aube des JO, Jacobs se cherche encore")
+La France battue en finale](https://www.lequipe.fr/Hockey-sur-gazon/Actualites/La-france-battue-en-finale/1473649 "La France battue en finale")
 
-[12:03
-
-Hockey,
-
-NHL
-
-En finale, les Edmonton Oilers remontent le temps](https://www.lequipe.fr/Hockey-sur-glace/Actualites/Les-edmonton-oilers-disputent-la-finale-de-nhl-plus-de-30-ans-apres-leur-dernier-titre/1473042 "En finale, les Edmonton Oilers remontent le temps")
-
-[12:00
-
-Médias
-
-«Espoirs», le documentaire événement de L'Équipe avant les Jeux](https://www.lequipe.fr/Jo-2024-paris/Tous-sports/Actualites/-espoirs-histoires-de-resilience-de-5-jeunes-sportifs/1471884 "«Espoirs», le documentaire événement de L'Équipe avant les Jeux")
-
-[12:00
-
-Boxe
-
-En Corrèze, le Café qui fait boxer d'anciens détenus](https://www.lequipe.fr/Boxe/Actualites/En-correze-le-cafe-de-la-poste-fait-boxer-d-anciens-detenus-en-cours-de-reinsertion/1472348 "En Corrèze, le Café qui fait boxer d'anciens détenus")
-
-[11:49
+[20:45
 
 Foot,
 
-Euro,
+Amical
 
-Bleus
+Italie - Bosnie-Herzégovine sur la chaine L'Équipe](https://www.lequipe.fr/tv/videos/live/k5s40USR9HxnG5aCf1y "Italie - Bosnie-Herzégovine sur la chaine L'Équipe")
 
-Les numéros officiels des joueurs](https://www.lequipe.fr/Football/Actualites/Retrouvez-la-liste-officielle-des-bleus-a-l-euro-avec-leur-numero/1473324 "Les numéros officiels des joueurs")
+[20:45
 
-[11:25
+Foot,
+
+Amical
+
+Monténégro - Géorgie sur L'Équipe live foot](https://www.lequipe.fr/tv/videos/live/kXRfcKHV9HhcZuqwBYP "Monténégro - Géorgie sur L'Équipe live foot")
+
+[20:45
+
+Foot,
+
+Amical
+
+Slovaquie - Pays de Galles sur L'Équipe live foot](https://www.lequipe.fr/tv/videos/live/k3HiS3JB0BsORKqwC49 "Slovaquie - Pays de Galles sur L'Équipe live foot")
+
+[20:36
 
 Rugby,
 
-Pro D2,
+Top 14,
 
-Grenoble
+UBB
 
-Les Grenoblois surmotivés](https://www.lequipe.fr/Rugby/Article/Des-hommes-en-colere-la-saison-du-fc-grenoble-racontee-de-l-interieur-avant-la-finale-de-pro-d2-face-a-vannes/1473141 "Les Grenoblois surmotivés")
+Les questions après la blessure de Jalibert](https://www.lequipe.fr/Rugby/Article/Top-14-pour-jalibert-ubb-a-nouveau-blesse-samedi-ca-sent-la-fin-de-saison/1473640 "Les questions après la blessure de Jalibert")
 
-[11:15
+[20:30
 
-JO 2024,
+Volley,
 
-Flamme olympique
+L. nations (H)
 
-La flamme arrive en Guyane ce dimanche 9 juin](https://www.lequipe.fr/Jo-2024-paris/Tous-sports/Actualites/Flamme-olympique-en-guyane-et-a-cayenne-programme-horaires-et-animation-de-ce-dimanche-9-juin/1473220 "La flamme arrive en Guyane ce dimanche 9 juin")
+France - Argentine sur L'Équipe live 1](https://www.lequipe.fr/tv/videos/live/k1kypsRZF9plQhqwBRS "France - Argentine sur L'Équipe live 1")
 
-[11:10
-
-Tous Sports
-
-Marchand, Merckx, les Bleus : incontournables de la semaine](https://www.lequipe.fr/collection/series/serie/la-selection-du-weekend/ "Marchand, Merckx, les Bleus : incontournables de la semaine")
-
-[11:06
+[20:26
 
 Basket,
 
-NBA,
+Betclic Élite
 
-Draft
+Monaco domine Paris lors du match 3 de la finale](https://www.lequipe.fr/Basket/Actualites/Monaco-domine-paris-lors-du-match-3-de-la-finale-du-championnat/1473646 "Monaco domine Paris lors du match 3 de la finale")
 
-Salaün annoncé à l'entraînement chez les Spurs](https://www.lequipe.fr/Basket/Actualites/Tidjane-salaun-va-s-entrainer-avec-les-san-antonio-spurs-en-vue-de-la-prochaine-draft-nba/1473321 "Salaün annoncé à l'entraînement chez les Spurs")
+[20:07
 
-[11:00
+Roland-Garros (H)
 
-Ultra-trail,
+L'incroyable précocité d'Alcaraz en chiffres](https://www.lequipe.fr/Tennis/Actualites/Roland-garros-l-incroyable-precocite-de-carlos-alcaraz-en-chiffres/1473641 "L'incroyable précocité d'Alcaraz en chiffres")
 
-UTMB
-
-Le Tenerife Bluetrail en direct sur L'Équipe live 4](https://www.lequipe.fr/tv/videos/live/k6oih7JyuEmhrnqwBZT "Le Tenerife Bluetrail en direct sur L'Équipe live 4")
-
-[11:00
-
-Le Magazine,
-
-Médias
-
-Un documentaire sur l'histoire du racisme dans le foot](https://www.lequipe.fr/Medias/Article/Dans-le-documentaire-des-cris-dans-le-stade-mohamed-bouhafsi-raconte-l-histoire-du-racisme-dans-le-football/1472874 "Un documentaire sur l'histoire du racisme dans le foot")
-
-[10:55
-
-Roland-Garros (F),
-
-L'oeil de Mats
-
-Les forces de Swiatek sur terre battue](https://www.lequipe.fr/Tennis/Article/L-oeil-de-mats-wilander-sur-iga-swiatek-avant-la-finale-de-roland-garros-elle-joue-comme-nadal/1473162 "Les forces de Swiatek sur terre battue")
-
-[10:50
-
-Foot,
-
-Amical,
-
-Angleterre
-
-Southgate : «Rien à redire sur la réaction des supporters»](https://www.lequipe.fr/Football/Actualites/Gareth-southgate-apres-la-defaite-de-l-angleterre-je-n-ai-rien-a-redire-sur-la-reaction-des-supporters/1473320 "Southgate : «Rien à redire sur la réaction des supporters»")
-
-[10:48
-
-Auto,
-
-24 Heures du Mans,
-
-Cadillac
-
-Bourdais : «On est moins dans l'inconnu que l'an dernier»](https://www.lequipe.fr/Sport-auto/Actualites/Sebastien-bourdais-cadillac-avant-les-24-heures-du-mans-on-est-moins-dans-l-inconnu-que-l-an-dernier/1473318 "Bourdais : «On est moins dans l'inconnu que l'an dernier»")
-
-[10:48
+[19:50
 
 Cyclisme,
 
-Tour de Suisse
+Dauphiné
 
-Le Grand Prix de la montagne en hommage à Gino Mäder](https://www.lequipe.fr/Cyclisme-sur-route/Actualites/Tour-de-suisse-le-grand-prix-de-la-montagne-en-hommage-a-gino-mader/1473317 "Le Grand Prix de la montagne en hommage à Gino Mäder")
+Roglic libéré, victorieux et ambitieux pour le Tour](https://www.lequipe.fr/Cyclisme-sur-route/Article/Vainqueur-du-criterium-du-dauphine-primoz-roglic-reprend-gout-au-combat/1473623 "Roglic libéré, victorieux et ambitieux pour le Tour")
 
-[10:45
+[19:48
+
+Médias
+
+Charles Biétry relève le #défigivré](https://www.lequipe.fr/Medias/Actualites/Charles-bietry-releve-le-defigivre-contre-la-maladie-de-charcot/1473638 "Charles Biétry relève le #défigivré")
+
+[19:46
+
+Hand,
+
+C1 (H)
+
+Douzième sacre européen pour le FC Barcelone](https://www.lequipe.fr/Handball/Actualites/Vainqueurs-d-aalborg-le-barca-et-ses-bleus-remportent-une-nouvelle-ligue-des-champions/1473635 "Douzième sacre européen pour le FC Barcelone")
+
+[19:40
+
+Auto,
+
+24 Heures du Mans
+
+Porsche domine la Journée Test](https://www.lequipe.fr/Sport-auto/Actualites/Porsche-signe-le-meilleur-temps-de-la-journee-test-au-mans/1473632 "Porsche domine la Journée Test")
+
+[19:33
+
+Roland-Garros (H)
+
+Alcaraz sacré pour la première fois](https://www.lequipe.fr/Tennis/Actualites/Vainqueur-d-alexander-zverev-carlos-alcaraz-remporte-son-premier-roland-garros/1473631 "Alcaraz sacré pour la première fois")
+
+[19:24
+
+Gym,
+
+Championnats de France
+
+Tommasone, un dernier titre avant la retraite](https://www.lequipe.fr/Gymnastique/Actualites/Cyril-tommasone-sort-par-le-haut-aux-championnats-de-france-bilan-contraste-pour-melanie-de-jesus-dos-santos/1473627 "Tommasone, un dernier titre avant la retraite")
+
+[19:15
+
+F1,
+
+GP du Canada
+
+La grille de départ](https://www.lequipe.fr/Formule-1/grand-prix-du-canada/saison-2024/page-calendrier-resultats/qualifications "La grille de départ")
+
+[19:14
+
+Judo
+
+Teddy Riner gagne l'Open de Madrid](https://www.lequipe.fr/Judo/Actualites/Teddy-riner-remporte-l-open-de-madrid-a-quelques-semaines-des-jo-2024-de-paris/1473626 "Teddy Riner gagne l'Open de Madrid")
+
+[19:08
 
 Foot,
 
-Amical,
+Bleus
 
-Allemagne
+Giroud et Saliba titulaires face au Canada](https://www.lequipe.fr/Football/Actualites/Giroud-et-saliba-titulaires-pour-france-canada/1473625 "Giroud et Saliba titulaires face au Canada")
 
-Nagelsmann : «Une bonne réaction en deuxième période»](https://www.lequipe.fr/Football/Actualites/Julian-nagelsmann-apres-la-courte-victoire-de-l-allemagne-une-bonne-reaction-en-deuxieme-periode/1473316 "Nagelsmann : «Une bonne réaction en deuxième période»")
+[19:03
 
-[10:45
+Equitation,
 
-Roland-Garros (F)
+Grand Prix du Jumping International
 
-Que devient Muchova ?](https://www.lequipe.fr/Tennis/Article/Que-devient-karolina-muchova-un-an-apres-sa-finale-surprise-a-roland-garros/1473211 "Que devient Muchova ?")
+Doublé américain à la Baule](https://www.lequipe.fr/Jo-2024-paris/Equitation/Actualites/Quand-la-baule-speak-americain/1473624 "Doublé américain à la Baule")
 
-[10:45
+[18:48
 
 Rugby,
 
-Podcast
+Top 14
 
-Vannes-Grenoble : deux destins pour une place en Top 14](https://www.lequipe.fr/collection/podcasts/serie/crunch/ "Vannes-Grenoble : deux destins pour une place en Top 14")
-
-[10:35
-
-Rallye-raid,
-
-W2RC
-
-Al-Rajhi vainqueur en Argentine](https://www.lequipe.fr/Rallye-raid/Actualites/Yazeed-al-rajhi-remporte-le-desafio-ruta-40-sur-le-fil/1473314 "Al-Rajhi vainqueur en Argentine")
+Vannes face au chantier de l'accession](https://www.lequipe.fr/Rugby/Article/Effectif-budget-stade-vannes-face-au-gros-chantier-de-l-accession-en-top-14/1473617 "Vannes face au chantier de l'accession")
 
 le journal
 
-![](https://eqp-eqp-webreader-production.twipemobile.com/data/674/covers/Preview-MEDIUM-32764.jpg?v=4)
+![](https://eqp-eqp-webreader-production.twipemobile.com/data/675/covers/Preview-MEDIUM-32804.jpg?v=4)
 
 lire l'édition
 
