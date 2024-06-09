@@ -33,19 +33,19 @@ Pour les praticiens
 Trouvez votre spécialiste
 -------------------------
 
-* [Infirmier](https://www.doctolib.fr/infirmier)
 * [Gynécologue](https://www.doctolib.fr/gynecologue-8d003f6e-7bcb-4bc6-b7a0-9c5466318c46)
 * [Chirurgien-dentiste](https://www.doctolib.fr/dentiste)
-* [Médecin généraliste](https://www.doctolib.fr/medecin-generaliste)
+* [Infirmier](https://www.doctolib.fr/infirmier)
 * [Infirmier à domicile](https://www.doctolib.fr/infirmier-a-domicile)
+* [Médecin généraliste](https://www.doctolib.fr/medecin-generaliste)
 * [Pédiatre](https://www.doctolib.fr/pediatre)
 * [Ophtalmologue](https://www.doctolib.fr/ophtalmologue)
 * [Dermatologue et vénérologue](https://www.doctolib.fr/dermatologue)
 * [Ostéopathe](https://www.doctolib.fr/osteopathe)
 * [Masseur-kinésithérapeute](https://www.doctolib.fr/masseur-kinesitherapeute)
 
-* [Pédicure-podologue](https://www.doctolib.fr/pedicure-podologue)
 * [Opticien-lunetier](https://www.doctolib.fr/opticien-lunetier)
+* [Pédicure-podologue](https://www.doctolib.fr/pedicure-podologue)
 * [Sage-femme](https://www.doctolib.fr/sage-femme)
 * [ORL](https://www.doctolib.fr/orl-oto-rhino-laryngologie)
 * [Allergologue](https://www.doctolib.fr/allergologue)
@@ -69,8 +69,8 @@ Recherches fréquentes
 * [Dermatologue et vénérologue Paris](https://www.doctolib.fr/dermatologue/paris)
 * [Ostéopathe Paris](https://www.doctolib.fr/osteopathe/paris)
 * [Masseur-kinésithérapeute Paris](https://www.doctolib.fr/masseur-kinesitherapeute/paris)
-* [Pédicure-podologue Paris](https://www.doctolib.fr/pedicure-podologue/paris)
 * [Opticien-lunetier Paris](https://www.doctolib.fr/opticien-lunetier/paris)
+* [Pédicure-podologue Paris](https://www.doctolib.fr/pedicure-podologue/paris)
 
   
 
