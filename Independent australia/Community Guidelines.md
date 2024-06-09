@@ -135,12 +135,12 @@ Just in
 
 * [The growth of Australia's flexible office in 2024](https://independentaustralia.net/article-display/the-growth-of-australias-flexible-office-in-2024,18626 "Permanent Link : The growth of Australia's flexible office in 2024")
 * [Laura Tingle and aliens at the ABC](https://independentaustralia.net/article-display/laura-tingle-and-aliens-at-the-abc,18660 "Permanent Link : Laura Tingle and aliens at the ABC")
+* [Great Australian Dream a housing nightmare for young Australians](https://independentaustralia.net/article-display/great-australian-dream-a-housing-nightmare-for-young-australians,18663 "Permanent Link : Great Australian Dream a housing nightmare for young Australians")
+* [CARTOONS: Robodebt, racism and rich men's media empires](https://independentaustralia.net/article-display/cartoons-robodebt-racism-and-rich-mens-media-empires,18668 "Permanent Link : CARTOONS: Robodebt, racism and rich men's media empires")
 * [Julian Lennon — Like father, like son](https://independentaustralia.net/article-display/julian-lennon-like-father-like-son,18655 "Permanent Link : Julian Lennon — Like father, like son")
 * [Fearful and forceless: NACC fails Robodebt victims](https://independentaustralia.net/article-display/fearful-and-forceless-nacc-fails-robodebt-victims,18667 "Permanent Link : Fearful and forceless: NACC fails Robodebt victims")
 * [Lockheed Martin hides Australia's complicity in Gaza bombings](https://independentaustralia.net/article-display/lockheed-martin-hides-australias-complicity-in-gaza-bombings,18666 "Permanent Link : Lockheed Martin hides Australia's complicity in Gaza bombings")
 * [ABBA: Knight time for Sweden's pop royalty](https://independentaustralia.net/article-display/abba-knight-time-for-swedens-pop-royalty,18665 "Permanent Link : ABBA: Knight time for Sweden's pop royalty")
-* [Violence against women a global scourge](https://independentaustralia.net/article-display/violence-against-women-a-global-scourge,18664 "Permanent Link : Violence against women a global scourge")
-* [EU Elections a chance to push out warmongers](https://independentaustralia.net/article-display/eu-elections-a-chance-to-push-out-warmongers,18662 "Permanent Link : EU Elections a chance to push out warmongers")
 
 [![](https://independent-australia.myshopify.com/cdn/shop/files/2024MagCover1_aff90a98-8997-4ca5-8e59-d49c1b50ea32_large.jpg?v=1698989656)](https://independent-australia.myshopify.com/collections/magazines-and-newspapers/products/copy-of-2024-ia-print-magazine-subscriber-advance-order-discounted-price-1)
 
