@@ -125,50 +125,50 @@ More than 1,000 businesses operate more efficiently with us.
 
 Anri van der Linde
 
-![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=df079a14c3ec86d5e5777156d7202efc0d70be595f44baceefade550b4b74eb3&c=213284163)  
-Nogana Events and Decor
+![valued client Tantra Sound and Lightz](https://www.invoicesonline.co.za/scripts/image.php?bid=1208&file=logo_300_100&type=&fe=0e3e9eeeb820298377c071c62ab2ad53dd745c9b9f354e3df056e7c972548bdb&c=49183780)  
+Tantra Sound and Lightz
 
-![valued client FRAMED BY ANTON (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=2146&file=logo_300_100&type=&fe=df079a14c3ec86d5e5777156d7202efc0d70be595f44baceefade550b4b74eb3&c=188910118)  
-FRAMED BY ANTON (Pty) Ltd.
+![valued client SLOANE STAR MEAT MARKET](https://www.invoicesonline.co.za/scripts/image.php?bid=1748&file=logo_300_100&type=&fe=0e3e9eeeb820298377c071c62ab2ad53dd745c9b9f354e3df056e7c972548bdb&c=204352087)  
+SLOANE STAR MEAT MARKET
 
-![valued client webb it services](https://www.invoicesonline.co.za/scripts/image.php?bid=7007&file=logo_300_100&type=&fe=df079a14c3ec86d5e5777156d7202efc0d70be595f44baceefade550b4b74eb3&c=173047125)  
-webb it services
+![valued client FJW Security Cc](https://www.invoicesonline.co.za/scripts/image.php?bid=1343&file=logo_300_100&type=&fe=0e3e9eeeb820298377c071c62ab2ad53dd745c9b9f354e3df056e7c972548bdb&c=89166524)  
+FJW Security Cc
 
-![valued client VerdanTech Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5389&file=logo_300_100&type=&fe=df079a14c3ec86d5e5777156d7202efc0d70be595f44baceefade550b4b74eb3&c=200736993)  
-VerdanTech Pty Ltd
+![valued client OrgChart Hosting Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=658&file=logo_300_100&type=&fe=0e3e9eeeb820298377c071c62ab2ad53dd745c9b9f354e3df056e7c972548bdb&c=104551422)  
+OrgChart Hosting Pty Ltd
 
-![valued client Frameless Fanatix (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=6498&file=logo_300_100&type=&fe=df079a14c3ec86d5e5777156d7202efc0d70be595f44baceefade550b4b74eb3&c=161573040)  
-Frameless Fanatix (Pty) Ltd.
+![valued client FX ACCOUNTING](https://www.invoicesonline.co.za/scripts/image.php?bid=6924&file=logo_300_100&type=&fe=0e3e9eeeb820298377c071c62ab2ad53dd745c9b9f354e3df056e7c972548bdb&c=194093800)  
+FX ACCOUNTING
 
-![valued client KTEN PARTS](https://www.invoicesonline.co.za/scripts/image.php?bid=7612&file=logo_300_100&type=&fe=df079a14c3ec86d5e5777156d7202efc0d70be595f44baceefade550b4b74eb3&c=53324211)  
-KTEN PARTS
+![valued client VA AND M DEBT-AID (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8114&file=logo_300_100&type=&fe=0e3e9eeeb820298377c071c62ab2ad53dd745c9b9f354e3df056e7c972548bdb&c=125654445)  
+VA AND M DEBT-AID (PTY) LTD
 
-![valued client MONSTER SECURITY SERVICES (THABAZIMBI/NORTHAM)](https://www.invoicesonline.co.za/scripts/image.php?bid=5626&file=logo_300_100&type=&fe=df079a14c3ec86d5e5777156d7202efc0d70be595f44baceefade550b4b74eb3&c=114363070)  
-MONSTER SECURITY SERVICES (THABAZIMBI/NORTHAM)
+![valued client McKaynine Mobility](https://www.invoicesonline.co.za/scripts/image.php?bid=8229&file=logo_300_100&type=&fe=0e3e9eeeb820298377c071c62ab2ad53dd745c9b9f354e3df056e7c972548bdb&c=53087746)  
+McKaynine Mobility
 
-![valued client Frequency Fanatics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8558&file=logo_300_100&type=&fe=df079a14c3ec86d5e5777156d7202efc0d70be595f44baceefade550b4b74eb3&c=183274114)  
-Frequency Fanatics (Pty) Ltd
-
-![valued client Network Grey (Pty )Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7333&file=logo_300_100&type=&fe=df079a14c3ec86d5e5777156d7202efc0d70be595f44baceefade550b4b74eb3&c=171098237)  
-Network Grey (Pty )Ltd
-
-![valued client Skinz Printing & Branding ](https://www.invoicesonline.co.za/scripts/image.php?bid=6232&file=logo_300_100&type=&fe=df079a14c3ec86d5e5777156d7202efc0d70be595f44baceefade550b4b74eb3&c=86276294)  
-Skinz Printing & Branding
-
-![valued client BEE SURE CONSULTING (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8110&file=logo_300_100&type=&fe=df079a14c3ec86d5e5777156d7202efc0d70be595f44baceefade550b4b74eb3&c=71093707)  
-BEE SURE CONSULTING (PTY) LTD
-
-![valued client Desygn](https://www.invoicesonline.co.za/scripts/image.php?bid=7855&file=logo_300_100&type=&fe=df079a14c3ec86d5e5777156d7202efc0d70be595f44baceefade550b4b74eb3&c=48690116)  
-Desygn
-
-![valued client Echo Recording Studio cc](https://www.invoicesonline.co.za/scripts/image.php?bid=225&file=logo_300_100&type=&fe=df079a14c3ec86d5e5777156d7202efc0d70be595f44baceefade550b4b74eb3&c=34667816)  
-Echo Recording Studio cc
-
-![valued client OXYAIDER (PTY) LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7574&file=logo_300_100&type=&fe=df079a14c3ec86d5e5777156d7202efc0d70be595f44baceefade550b4b74eb3&c=201619697)  
-OXYAIDER (PTY) LTD
-
-![valued client VIR Electrical (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7991&file=logo_300_100&type=&fe=df079a14c3ec86d5e5777156d7202efc0d70be595f44baceefade550b4b74eb3&c=133013218)  
+![valued client VIR Electrical (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7991&file=logo_300_100&type=&fe=0e3e9eeeb820298377c071c62ab2ad53dd745c9b9f354e3df056e7c972548bdb&c=193464101)  
 VIR Electrical (PTY) LTD
+
+![valued client Waterfinatics Swim School](https://www.invoicesonline.co.za/scripts/image.php?bid=2587&file=logo_300_100&type=&fe=0e3e9eeeb820298377c071c62ab2ad53dd745c9b9f354e3df056e7c972548bdb&c=98382422)  
+Waterfinatics Swim School
+
+![valued client MSPCloud (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4645&file=logo_300_100&type=&fe=0e3e9eeeb820298377c071c62ab2ad53dd745c9b9f354e3df056e7c972548bdb&c=94399697)  
+MSPCloud (Pty) Ltd
+
+![valued client Westside Car Audio CC](https://www.invoicesonline.co.za/scripts/image.php?bid=7028&file=logo_300_100&type=&fe=0e3e9eeeb820298377c071c62ab2ad53dd745c9b9f354e3df056e7c972548bdb&c=213886970)  
+Westside Car Audio CC
+
+![valued client Calonet ](https://www.invoicesonline.co.za/scripts/image.php?bid=3324&file=logo_300_100&type=&fe=0e3e9eeeb820298377c071c62ab2ad53dd745c9b9f354e3df056e7c972548bdb&c=76609440)  
+Calonet
+
+![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=0e3e9eeeb820298377c071c62ab2ad53dd745c9b9f354e3df056e7c972548bdb&c=43965504)  
+West Coast Horse Trails
+
+![valued client VIV'S TRUCKS (Pty) Ltd. (651)](https://www.invoicesonline.co.za/scripts/image.php?bid=6481&file=logo_300_100&type=&fe=0e3e9eeeb820298377c071c62ab2ad53dd745c9b9f354e3df056e7c972548bdb&c=145281651)  
+VIV'S TRUCKS (Pty) Ltd. (651)
+
+![valued client UMVIKELI PRIVATE SECURITY](https://www.invoicesonline.co.za/scripts/image.php?bid=7357&file=logo_300_100&type=&fe=0e3e9eeeb820298377c071c62ab2ad53dd745c9b9f354e3df056e7c972548bdb&c=1858667)  
+UMVIKELI PRIVATE SECURITY
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
