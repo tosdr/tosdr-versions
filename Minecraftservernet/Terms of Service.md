@@ -29,15 +29,15 @@ Version All 1.20.6 1.20.5 1.20.4 1.20.3 1.20.2 1.20.1 1.20 1.19.4 1.19.3 1.19.2 
 
 Active Servers
 
-[![SUSMinecraft](plugins/MineCraft/icons/SUSMinecraft_1717262256.png.pagespeed.ce.4K26pX4nDP.png)
+[![Legacy_SMP](plugins/MineCraft/icons/25x25xLegacy_SMP_1705461196.png.pagespeed.ic.B2Z8S2FiOO.jpg)
 
-feather64](https://minecraft-server.net/details/SUSMinecraft/ "feather64") [MineMate](https://minecraft-server.net/details/MineMate/ "MineMate")[![mistylands](plugins/MineCraft/icons/25x25xmistylands_1666311278.png.pagespeed.ic.Obda9MLF8d.png)
+Legacy SMP](https://minecraft-server.net/details/Legacy_SMP/ "Legacy SMP")[![SkyblockAnarchy](plugins/MineCraft/icons/25x25xSkyblockAnarchy_1680402377.png.pagespeed.ic.VilkXiVJ71.jpg)
 
-Mistylands Survival Est.2010](https://minecraft-server.net/details/mistylands/ "Mistylands Survival Est.2010")[![Crackex_Network](plugins/MineCraft/icons/25x25xCrackex_Network_1717540337.png.pagespeed.ic.zGwjEw66a9.png)
+Skyblock Anarchy](https://minecraft-server.net/details/SkyblockAnarchy/ "Skyblock Anarchy")[![SUSMinecraft](plugins/MineCraft/icons/SUSMinecraft_1717262256.png.pagespeed.ce.4K26pX4nDP.png)
 
-Crackex Network - NEW SURVIVAL](https://minecraft-server.net/details/Crackex_Network/ "Crackex Network - NEW SURVIVAL")[![creativefun](plugins/MineCraft/icons/25x25xcreativefun_1602168002.png.pagespeed.ic.xhW37hCj2R.jpg)
+feather64](https://minecraft-server.net/details/SUSMinecraft/ "feather64")[![simplyvanilla](plugins/MineCraft/icons/simplyvanilla_1717168174.png)
 
-CreativeFun](https://minecraft-server.net/details/creativefun/ "CreativeFun")
+Simply Vanilla \[Anarchy with no hacks\]](https://minecraft-server.net/details/simplyvanilla/ "Simply Vanilla [Anarchy with no hacks]") [Gourmet Server](https://minecraft-server.net/details/GourmetServer/ "Gourmet Server")
 
 1. [Minecraft Servers](https://minecraft-server.net/)
 2. Terms and Conditions of Minecraft-Server.net
@@ -123,4 +123,4 @@ Set
 * [Statistics](https://minecraft-server.net/overall-stats/ "Statistics")
 * [Contact](https://minecraft-server.net/contact/ "Contact")
 
-© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.07849 - Created by [Debaucus](https://debauc.us/)
+© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.07232 - Created by [Debaucus](https://debauc.us/)
