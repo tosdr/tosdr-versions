@@ -2,6 +2,8 @@
 
 Previous
 
+[Enjoy 40% off all cheek.](https://www.bobbibrowncosmetics.com/products/23824/makeup/face/cheeks)
+
 [Get a free mini Prep Dup on $65+. Use code: bbprep at checkout.](https://www.bobbibrowncosmetics.com/products/14358/best-sellers)
 
 [Join our mailing list and get 15% off your first order.](https://www.bobbibrowncosmetics.com/account/signin.tmpl)
