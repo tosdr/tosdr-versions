@@ -188,44 +188,44 @@ _Last Updated: Mon 3rd Apr 2023 11:24_
 
 Popular Right Now
 
+* ![Best Star Wars Video Games, Ranked - Switch And Nintendo Systems](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
+    
+    [Best Star Wars Video Games, Ranked - Switch And Nintendo Systems](https://www.nintendolife.com/guides/best-star-wars-video-games-ranked-switch-and-nintendo-systems)
+    
+    6h ago
 * ![Every Nintendo Switch Online Game Boy (Color) Game Ranked](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
     
     [Every Nintendo Switch Online Game Boy (Color) Game Ranked](https://www.nintendolife.com/guides/every-nintendo-switch-online-game-boy-color-game-ranked)
     
-    23h ago
+    2d ago
+* ![Hands On: Sonic X Shadow Generations Is A Love Letter To Sonic Adventure 2](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
+    
+    [Hands On: Sonic X Shadow Generations Is A Love Letter To Sonic Adventure 2](https://www.nintendolife.com/features/hands-on-sonic-x-shadow-generations-is-a-love-letter-to-sonic-adventure-2)
+    
+    1h ago
 * ![Nintendo Expands Switch Online's Game Boy Library With Five More Classics](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
     
     [Nintendo Expands Switch Online's Game Boy Library With Five More Classics](https://www.nintendolife.com/news/2024/06/nintendo-expands-switch-onlines-game-boy-library-with-five-more-classics)
     
+    3d ago
+* ![Talking Point: HD-2D Or 3D - How Should Square Enix Remake Chrono Trigger?](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
+    
+    [Talking Point: HD-2D Or 3D - How Should Square Enix Remake Chrono Trigger?](https://www.nintendolife.com/features/talking-point-hd-2d-or-3d-how-should-square-enix-remake-chrono-trigger)
+    
     1d ago
-* ![LEGO Horizon Adventures Is Coming To Switch, Confirmed For Holiday 2024](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
+* ![Round Up: Every Game From Wholesome Direct 2024 Coming To Switch](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
     
-    [LEGO Horizon Adventures Is Coming To Switch, Confirmed For Holiday 2024](https://www.nintendolife.com/news/2024/06/lego-horizon-adventures-is-coming-to-switch-confirmed-for-holiday-2024)
-    
-    11h ago
-* ![The Thing: Remastered Is Officially Announced For Switch, Coming This Year](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
-    
-    [The Thing: Remastered Is Officially Announced For Switch, Coming This Year](https://www.nintendolife.com/news/2024/06/the-thing-remastered-is-officially-announced-for-switch-coming-this-year)
+    [Round Up: Every Game From Wholesome Direct 2024 Coming To Switch](https://www.nintendolife.com/news/2024/06/round-up-every-game-from-wholesome-direct-2024-coming-to-switch)
     
     12h ago
+* ![Round Up: Every Switch Highlight At The Future Games Show - Summer Showcase 2024](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
+    
+    [Round Up: Every Switch Highlight At The Future Games Show - Summer Showcase 2024](https://www.nintendolife.com/news/2024/06/round-up-every-switch-highlight-at-the-future-games-show-summer-showcase-2024)
+    
+    14h ago
 * ![Mighty Morphin Power Rangers Return In All-New Retro-Style Action Game](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
     
     [Mighty Morphin Power Rangers Return In All-New Retro-Style Action Game](https://www.nintendolife.com/news/2024/06/mighty-morphin-power-rangers-return-in-all-new-retro-style-action-game)
-    
-    5h ago
-* ![Summer Game Fest Conference Schedule 2024: Dates, How To Watch, Everything You Need To Know](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
-    
-    [Summer Game Fest Conference Schedule 2024: Dates, How To Watch, Everything You Need To Know](https://www.nintendolife.com/guides/summer-game-fest-conference-schedule-2024-dates-how-to-watch-everything-you-need-to-know)
-    
-    1d ago
-* ![Feature: We Look To The Past To Predict Every First-Party 'Switch 2' Release Until 2029](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
-    
-    [Feature: We Look To The Past To Predict Every First-Party 'Switch 2' Release Until 2029](https://www.nintendolife.com/features/we-look-to-the-past-to-predict-every-first-party-switch-2-release-until-2029)
-    
-    20h ago
-* ![Octopath Traveler II Receives A Surprise Update On Switch Today](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
-    
-    [Octopath Traveler II Receives A Surprise Update On Switch Today](https://www.nintendolife.com/news/2024/06/octopath-traveler-ii-receives-a-surprise-update-on-switch-today)
     
     2d ago
 * ![Best Paper Mario Games Of All Time](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
@@ -233,25 +233,25 @@ Popular Right Now
     [Best Paper Mario Games Of All Time](https://www.nintendolife.com/guides/best-paper-mario-games-of-all-time)
     
     Mon 27th May 2024
-* ![Round Up: Day Of The Devs SGF Edition 2024 - Every Announcement, All Confirmed Switch Games](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
+* ![Octopath Traveler II Receives A Surprise Update On Switch Today](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
     
-    [Round Up: Day Of The Devs SGF Edition 2024 - Every Announcement, All Confirmed Switch Games](https://www.nintendolife.com/features/round-up-day-of-the-devs-sgf-edition-2024-every-announcement-all-confirmed-switch-games)
+    [Octopath Traveler II Receives A Surprise Update On Switch Today](https://www.nintendolife.com/news/2024/06/octopath-traveler-ii-receives-a-surprise-update-on-switch-today)
     
-    8h ago
-* ![Nintendo's 'Mega Extreme Fun Sale' Brings Tasty Discounts To Select eShop Titles (North America)](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
+    4d ago
+* ![Sonic Team On Remasters: "If There's A Title People Like, We'll Think About It"](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
     
-    [Nintendo's 'Mega Extreme Fun Sale' Brings Tasty Discounts To Select eShop Titles (North America)](https://www.nintendolife.com/news/2024/06/nintendos-mega-extreme-fun-sale-brings-tasty-discounts-to-select-eshop-titles-north-america)
+    [Sonic Team On Remasters: "If There's A Title People Like, We'll Think About It"](https://www.nintendolife.com/news/2024/06/sonic-team-on-remasters-if-theres-a-title-people-like-well-think-about-it)
     
-    19h ago
-* ![Watch: Summer Game Fest 2024 Opening Showcase - Live!](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
+    9h ago
+* ![Balatro Special Edition Physical Release Announced For Switch](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
     
-    [Watch: Summer Game Fest 2024 Opening Showcase - Live!](https://www.nintendolife.com/news/2024/06/watch-summer-game-fest-2024-opening-showcase-live)
+    [Balatro Special Edition Physical Release Announced For Switch](https://www.nintendolife.com/news/2024/06/balatro-special-edition-physical-release-announced-for-switch)
     
-    12h ago
+    2d ago
 
 [Show More](https://www.nintendolife.com/news)
 
-Join **1,447,361** people following **Nintendo Life**:
+Join **1,447,353** people following **Nintendo Life**:
 
 * [RSS Feed](https://www.nintendolife.com/feeds/latest "Subscribe to our RSS Feed")
 * [YouTube](https://www.youtube.com/nintendolife "Nintendo Life on YouTube")
