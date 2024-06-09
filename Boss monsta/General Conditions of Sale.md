@@ -1,19 +1,12 @@
 [Skip to content](#main-content)
 
-* Home
-    
-    * Home
-    
-* [Plushies](https://bossmonsta.com/collections/plushies "Plushies")
 * Collaborators
     
     * Collaborators
     * [IVYCOMB](https://bossmonsta.com/collections/ivycomb "IVYCOMB")
-    * [JUNO](https://bossmonsta.com/collections/juno "JUNO")
     * [RAEAL](https://bossmonsta.com/collections/raeal "RAEAL")
     * [SLUSHIE](https://bossmonsta.com/collections/slushie "SLUSHIE")
     * [SNUFFLES](https://bossmonsta.com/collections/snuffles "SNUFFLES")
-    * [SUDO](https://bossmonsta.com/collections/sudo "SUDO")
     * [TERANEN](https://bossmonsta.com/collections/teranen "TERANEN")
     * [TORMILINE](https://bossmonsta.com/collections/tormilline-1 "TORMILINE")
     * [ZOR](https://bossmonsta.com/collections/zeniths-outer-reach/Protogen+Primagen "ZOR")
@@ -21,6 +14,7 @@
     * [Sprinkle Bat](https://bossmonsta.com/collections/sprinkle-bat "Sprinkle Bat")
     
 * [Apparel](https://bossmonsta.com/collections/frontpage "Apparel")
+* [Plushies](https://bossmonsta.com/collections/plushies "Plushies")
 * [Pins](https://bossmonsta.com/collections/pins "Pins")
 * [Stickers & Patches](https://bossmonsta.com/collections/stickers "Stickers & Patches")
 * [Prints](https://bossmonsta.com/collections/prints "Prints")
@@ -34,22 +28,20 @@
 
 [Login](https://bossmonsta.com/account/login "My Account")[](https://bossmonsta.com/search "Search")[0](https://bossmonsta.com/cart)
 
-* [Home](https://bossmonsta.com/)
-    
-* [Plushies](https://bossmonsta.com/collections/plushies)
 * [Collaborators](https://bossmonsta.com/)
+    
     * [IVYCOMB](https://bossmonsta.com/collections/ivycomb)
-    * [JUNO](https://bossmonsta.com/collections/juno)
     * [RAEAL](https://bossmonsta.com/collections/raeal)
     * [SLUSHIE](https://bossmonsta.com/collections/slushie)
     * [SNUFFLES](https://bossmonsta.com/collections/snuffles)
-    * [SUDO](https://bossmonsta.com/collections/sudo)
     * [TERANEN](https://bossmonsta.com/collections/teranen)
     * [TORMILINE](https://bossmonsta.com/collections/tormilline-1)
     * [ZOR](https://bossmonsta.com/collections/zeniths-outer-reach/Protogen+Primagen)
     * [Cho](https://bossmonsta.com/collections/cho)
     * [Sprinkle Bat](https://bossmonsta.com/collections/sprinkle-bat)
+    
 * [Apparel](https://bossmonsta.com/collections/frontpage)
+* [Plushies](https://bossmonsta.com/collections/plushies)
 * [Pins](https://bossmonsta.com/collections/pins)
 * [Stickers & Patches](https://bossmonsta.com/collections/stickers)
 * [Prints](https://bossmonsta.com/collections/prints)
