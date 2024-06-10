@@ -308,12 +308,12 @@
     
     * [Artificial Intelligence](https://www.bain.com/insights/topics/ai/)
     * [Managing Inflation](https://www.bain.com/insights/topics/inflation/)
-    * [Thriving Amid Volatility](https://www.bain.com/insights/topics/volatility/)
+    * [Recession Strategies](https://www.bain.com/insights/topics/recession-strategies/)
     * [The Talent Imperative](https://www.bain.com/insights/topics/ceo-agenda/talent/)
     * [Macro Trends](https://www.bain.com/insights/topics/macro-trends/)
     
     * [Machinery & Equipment Report](https://www.bain.com/insights/topics/global-machinery-equipment-report/)
-    * [Midyear Private Equity Report](https://www.bain.com/insights/private-equity-midyear-report-2024/)
+    * [Global Private Equity Report](https://www.bain.com/insights/topics/global-private-equity-report/)
     * [M&A Report](https://www.bain.com/insights/topics/m-and-a-report/)
     * [Healthcare Private Equity Report](https://www.bain.com/insights/topics/global-healthcare-private-equity-report/)
     * [CEO's Guide to Sustainability](https://www.bain.com/insights/topics/ceo-sustainability-guide/)
@@ -692,12 +692,12 @@
         
         * [Artificial Intelligence](https://www.bain.com/insights/topics/ai/)
         * [Managing Inflation](https://www.bain.com/insights/topics/inflation/)
-        * [Thriving Amid Volatility](https://www.bain.com/insights/topics/volatility/)
+        * [Recession Strategies](https://www.bain.com/insights/topics/recession-strategies/)
         * [The Talent Imperative](https://www.bain.com/insights/topics/ceo-agenda/talent/)
         * [Macro Trends](https://www.bain.com/insights/topics/macro-trends/)
         
         * [Machinery & Equipment Report](https://www.bain.com/insights/topics/global-machinery-equipment-report/)
-        * [Midyear Private Equity Report](https://www.bain.com/insights/private-equity-midyear-report-2024/)
+        * [Global Private Equity Report](https://www.bain.com/insights/topics/global-private-equity-report/)
         * [M&A Report](https://www.bain.com/insights/topics/m-and-a-report/)
         * [Healthcare Private Equity Report](https://www.bain.com/insights/topics/global-healthcare-private-equity-report/)
         * [CEO's Guide to Sustainability](https://www.bain.com/insights/topics/ceo-sustainability-guide/)
