@@ -1,5 +1,3 @@
-[NEW MEMBERS: GET YOUR FIRST 6 BOTTLES FOR $55 ($150+ VALUE)](https://www.brightcellars.com/pages/wine-quiz)[NEW IN THE SHOP: ALFRESCO BUNDLE, TOP-RATED BRANDS, & MORE!](https://www.brightcellars.com/pages/shop-all)
-
 [Text](https://www.brightcellars.com/)
 
 [0
@@ -39,7 +37,7 @@ Password
 
 Activate Account Forgot Password
 
-Login
+Log In Arrow
 
 Email
 =====
@@ -245,7 +243,9 @@ These Terms and policies incorporated herein are the entire agreement between yo
 Sip back and relax
 ------------------
 
-Discovering new wines should be fun. Forget the rules and enjoy wine the bright way.
+Let's make wine fun together. Join our wine-curious community and learn what you like.
+
+ Enter your email Arrow
 
 About
 -----
