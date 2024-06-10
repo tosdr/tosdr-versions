@@ -102,17 +102,17 @@ If you have any questions about this Privacy Policy, please contact us on Facebo
 
 Categories
 
-\-select category-🐠 Aquarium🥷 Code💸 Crypto🏫 Education🗂 General🌿 Outdoor🧮 Raspberry Pi📈 Reviews🧬 Science💻 Tech🏖 Travel
+\-select category-🐠 Aquarium🥷 Code💸 Crypto🏫 Education🗂 General🧮 Raspberry Pi📈 Reviews🧬 Science💻 Tech🏖 Travel
 
 Recent Articles
 
-* [What to Pack When Traveling to The Philippines: The Ultimate Checklist](https://aruljohn.com/blog/philippines-packing-list/)
-* [10 Gallon Natural Planted Tank](https://aruljohn.com/blog/natural-planted-tank/)
-* [How to Identify Poison Ivy, Oak and Sumac and Protect Yourself](https://aruljohn.com/blog/poison-ivy-oak-sumac/)
-* [How to Install Python 3.12.3 on the Raspberry Pi](https://aruljohn.com/blog/python-raspberrypi/)
-* [Codeforces Yogurt Sale Problem in Python and C++](https://aruljohn.com/blog/yogurt-sale-problem/)
-* [How to Automate Facebook Posts to Page using Python and Graph API](https://aruljohn.com/blog/python-automate-facebook-posts/)
 * [Existing Terms and Update Scam](https://aruljohn.com/blog/existing-terms-and-update-scam/)
+* [Scammed? How to complain if you are a victim of fraud on the Internet.](https://aruljohn.com/blog/complaint/)
+* [Which websites use Ezoic, Mediavine and Raptive ad networks?](https://aruljohn.com/blog/websites-using-ezoic-mediavine-raptive/)
+* [How to Make DNS Queries over HTTPS using Curl](https://aruljohn.com/blog/dns-over-https/)
+* [How to install Python 3.12.2 on Debian 11 bullseye](https://aruljohn.com/blog/install-python-debian/)
+* [How to Download and Extract URLs from Sitemaps using the Command Line](https://aruljohn.com/blog/download-extract-urls-sitemaps/)
+* [How to Shorten Amazon Product Links](https://aruljohn.com/blog/how-to-shorten-amazon-links/)
 
 Popular Articles
 
@@ -225,3 +225,5 @@ Free Downloads and API
 Copyright © 2000 - 2024 Arul John
 
 [home](https://aruljohn.com/) [about me](https://aruljohn.com/about/) [articles & blog](https://aruljohn.com/blog/) [code](https://aruljohn.com/blog/category/code) [Bible](https://aruljohn.com/Bible/) [Costco gas prices](https://aruljohn.com/gas/) [APIs](https://aruljohn.com/api/) [deals](https://aruljohn.com/deals/) [FAQ](https://aruljohn.com/faq/) [submit bug report](https://aruljohn.com/about/) [privacy policy](https://aruljohn.com/privacy/)
+
+![Quantcast](//pixel.quantserve.com/pixel/p-31iz6hfFutd16.gif?labels=Domain.aruljohn_com,DomainId.367156)
