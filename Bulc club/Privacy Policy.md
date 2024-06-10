@@ -108,7 +108,7 @@ Please note that this Privacy Policy include hyperlinks that may be accessed onl
 
 © Copyright 2024. [ERA404 Creative Group, Inc.](http://www.era404.com/ "ERA404 Creative Group") All rights reserved. Patent Pending.
 
-* [](https://www.twitter.com/bulcclub/ "Follow Bulc Club on X")
+* [](https://www.twitter.com/bulcclub/ "Follow Bulc Club on Twitter")
 * [](https://www.facebook.com/bulcclub/ "Follow Bulc Club on Facebook")
 * [](https://www.linkedin.com/company/bulc-club "Connect with Bulc Club on LinkedIn")
 * [](https://medium.com/@bulcclub "Follow Bulc Club on Medium")
