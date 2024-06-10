@@ -349,13 +349,28 @@ Resources
     * [Job Finder](https://www.talentprise.com/secure-job/)
     * [Talent Finder](https://www.talentprise.com/ai-powered-recruitment-artificial-intelligence/)
     * [AI Headhunter](https://www.talentprise.com/top-candidate-matching-ai-hiring-process/)
-* MoreToggle child menuExpand
+* [More](#)Toggle child menuExpand
     
-    * [Blog](https://www.talentprise.com/employment-blog/)
-    * [About](https://www.talentprise.com/job-recruiting-websites-job-posting-websites/)
-    * [Occupations](https://www.talentprise.com/global-occupations-list-job-titles/)
-    * [FAQ](https://www.talentprise.com/faq/)
-    * [Contact](https://www.talentprise.com/contact/)
+    * Resource Hub
+        
+        [](https://www.talentprise.com/employment-blog/)
+        
+        Why Talentprise
+        
+        [](https://www.talentprise.com/job-recruiting-websites-job-posting-websites/)
+        
+        Occupations
+        
+        [](https://www.talentprise.com/global-occupations-list-job-titles/)
+        
+        FAQ
+        
+        [](https://www.talentprise.com/faq/)
+        
+        Contact
+        
+        [](https://www.talentprise.com/contact/)
+        
 * [ENSelect Language](https://www.talentprise.com/terms-and-conditions/)Toggle child menuExpand
     
     * [FR](https://www.talentprise.com/fr/conditions-generales/)
