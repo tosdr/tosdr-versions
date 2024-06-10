@@ -5,6 +5,7 @@ Terms of Use
 * [Quicken Classic Terms of Use](https://www.quicken.com/terms-of-use)
 * [Bill Manager Terms & Conditions](https://www.quicken.com/terms-of-use/bill-manager)
 * [Quicken Estate Manager Terms of Use](https://www.quicken.com/terms-of-use/estate-manager)
+* [Mobile Terms & Conditions](https://www.quicken.com/terms-of-use/mobile-terms-and-conditions)
 
 **October 16, 2023** 
 
