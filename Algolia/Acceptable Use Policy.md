@@ -53,7 +53,7 @@ Resources
     
 * Learn
     
-    [![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661433725/ui-library/nav/rebrand-2022/onboarding-blue.svg)Customer Hub](https://www.algolia.com/customer-hub/)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661433581/ui-library/nav/rebrand-2022/academy-blue.svg)Algolia Academy](https://academy.algolia.com/trainings)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661433860/ui-library/nav/rebrand-2022/merch-blue.svg)Merchandising Playbook](https://www.algolia.com/ecommerce-merchandising-playbook/)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1666886621/ui-library/nav/rebrand-2022/newsroom-blue.svg)Newsroom](https://www.algolia.com/about/news/)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661429144/ui-library/nav/rebrand-2022/events-blue.svg)Events](https://www.algolia.com/events/)
+    [![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661433581/ui-library/nav/rebrand-2022/academy-blue.svg)Algolia Academy](https://academy.algolia.com/trainings)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661433725/ui-library/nav/rebrand-2022/onboarding-blue.svg)Onboarding](https://www.algolia.com/customer-onboarding/)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661433860/ui-library/nav/rebrand-2022/merch-blue.svg)Merchandising Playbook](https://www.algolia.com/ecommerce-merchandising-playbook/)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1666886621/ui-library/nav/rebrand-2022/newsroom-blue.svg)Newsroom](https://www.algolia.com/about/news/)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661429144/ui-library/nav/rebrand-2022/events-blue.svg)Events](https://www.algolia.com/events/)
     
 * Tools
     
@@ -66,7 +66,7 @@ Quick Access
 * [![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661436259/ui-library/nav/rebrand-2022/partners-blue.svg)Partners](https://partners.algolia.com/)
 * [![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661429480/ui-library/nav/rebrand-2022/support-blue.svg)Support](https://support.algolia.com/)
 
-* ![globe](https://res.cloudinary.com/hilnmyskv/image/upload/v1715156912/ui-library/nav/rebrand-2022/globe-blue.svg)EnglishFrançaisDeutsch
+* ![globe](https://res.cloudinary.com/hilnmyskv/image/upload/v1711452135/ui-library/nav/rebrand-2022/globe-blue.svg)EnglishFrançaisDeutsch
     
     Eng
     
@@ -79,17 +79,11 @@ We got you covered!
 
 [Brand guidelines](https://algolia.frontify.com/)[Download logo pack](https://www.algolia.com/algolia-logo-pack.zip)
 
-[News:
-
-Algolia named a leader in Gartner® Magic Quadrant™
-
-Learn more](https://www.algolia.com/lp/gartner-mq-2024/)
-
 * [Company](https://www.algolia.com/about/)
 * [Partners](https://partners.algolia.com/)
 * [Support](https://support.algolia.com/)
 
-* ![globe](https://res.cloudinary.com/hilnmyskv/image/upload/v1715156912/ui-library/nav/rebrand-2022/globe-blue.svg)EnglishFrançaisDeutsch
+* ![globe](https://res.cloudinary.com/hilnmyskv/image/upload/v1711452135/ui-library/nav/rebrand-2022/globe-blue.svg)EnglishFrançaisDeutsch
     
     Eng
     
@@ -132,7 +126,7 @@ Quick Links[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661429233/ui
 
 Inspiration[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661434320/ui-library/nav/rebrand-2022/blog-blue.svg)Algolia Blog](https://www.algolia.com/blog/)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661433275/ui-library/nav/rebrand-2022/resource-blue.svg)Resource Center](https://www.algolia.com/resources/)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661433386/ui-library/nav/rebrand-2022/customer-stories-blue.svg)Customer Stories](https://www.algolia.com/customers/)
 
-Learn[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661433725/ui-library/nav/rebrand-2022/onboarding-blue.svg)Customer Hub](https://www.algolia.com/customer-hub/)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661433581/ui-library/nav/rebrand-2022/academy-blue.svg)Algolia Academy](https://academy.algolia.com/trainings)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661433860/ui-library/nav/rebrand-2022/merch-blue.svg)Merchandising Playbook](https://www.algolia.com/ecommerce-merchandising-playbook/)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1666886621/ui-library/nav/rebrand-2022/newsroom-blue.svg)Newsroom](https://www.algolia.com/about/news/)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661429144/ui-library/nav/rebrand-2022/events-blue.svg)Events](https://www.algolia.com/events/)
+Learn[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661433581/ui-library/nav/rebrand-2022/academy-blue.svg)Algolia Academy](https://academy.algolia.com/trainings)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661433725/ui-library/nav/rebrand-2022/onboarding-blue.svg)Onboarding](https://www.algolia.com/customer-onboarding/)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661433860/ui-library/nav/rebrand-2022/merch-blue.svg)Merchandising Playbook](https://www.algolia.com/ecommerce-merchandising-playbook/)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1666886621/ui-library/nav/rebrand-2022/newsroom-blue.svg)Newsroom](https://www.algolia.com/about/news/)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661429144/ui-library/nav/rebrand-2022/events-blue.svg)Events](https://www.algolia.com/events/)
 
 Tools[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661433989/ui-library/nav/rebrand-2022/profit-sim-blue.svg)Profit Simulator](https://www.algolia.com/profit-simulator/)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661434083/ui-library/nav/rebrand-2022/grader-blue.svg)Search Grader](https://grader.algolia.com/)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661434168/ui-library/nav/rebrand-2022/search-audit-blue.svg)Ecommerce Search Audit](https://www.algolia.com/search-audit/)
 
@@ -219,10 +213,10 @@ Unless it is reasonably apparent to Algolia that the applicable subscriber has a
 
 Algolia’s Designated Copyright Agent to receive notifications of claimed copyright infringement is our Head of Legal, Algolia, Inc., with mailing address at 3790 El Camino Real, Unit #518, Palo Alto, CA 94306, United States, email: [abuse@algolia.com](mailto:abuse@algolia.com?subject=Copyright%20infringement).
 
-Get the AI search that shows users what they need
--------------------------------------------------
+Try the AI search that understands
+----------------------------------
 
-[Request demo](https://www.algolia.com/demorequest/)[Get started](https://www.algolia.com/users/sign_up)
+[Get a demo](https://www.algolia.com/demorequest/)[Start free](https://www.algolia.com/users/sign_up)
 
 #### Solutions
 
@@ -236,17 +230,13 @@ Get the AI search that shows users what they need
 
 [Developer Hub](https://www.algolia.com/developers/)[Documentation](https://www.algolia.com/doc/)[Integrations](https://www.algolia.com/developers/integrations/)[Engineering blog](https://www.algolia.com/blog/engineering/)[Discord community](https://alg.li/discord)[API status](https://status.algolia.com/)[DocSearch](https://docsearch.algolia.com/)[For Open Source](https://www.algolia.com/for-open-source/)
 
-#### Live demos
-
-[GDPR](https://gdpr.algolia.com/)[AI Act](https://aiact.algolia.com/)
-
 #### Integrations
 
 [Salesforce Commerce Cloud B2C](https://www.algolia.com/search-solutions/salesforce-commerce-cloud/)[Shopify](https://www.algolia.com/search-solutions/shopify/)[Adobe Commerce](https://www.algolia.com/search-solutions/adobe-commerce-magento/)[Netlify](https://www.algolia.com/search-solutions/netlify/)[Commercetools](https://www.algolia.com/search-solutions/commercetools/)[BigCommerce](https://www.algolia.com/search-solutions/bigcommerce/)
 
 #### Distributed & secure
 
-[Global infrastructure](https://www.algolia.com/distributed-secure/global-infrastructure/)[Security & compliance](https://www.algolia.com/distributed-secure/security-compliance/)[Azure](https://www.algolia.com/search-solutions/algolia-on-azure/)[AWS](https://www.algolia.com/search-solutions/algolia-on-aws/)
+[Global infrastructure](https://www.algolia.com/distributed-secure/global-infrastructure/)[Security & compliance](https://www.algolia.com/distributed-secure/security-compliance/)[Azure](https://www.algolia.com/search-solutions/algolia-on-azure/)
 
 #### Industries
 
@@ -276,10 +266,6 @@ Get the AI search that shows users what they need
 
 [Overview](https://www.algolia.com/industries/)[B2C ecommerce](https://www.algolia.com/industries-and-solutions/ecommerce/)[B2B ecommerce](https://www.algolia.com/industries-and-solutions/b2b-ecommerce/)[Marketplaces](https://www.algolia.com/industries-and-solutions/marketplaces/)[SaaS](https://www.algolia.com/industries-and-solutions/saas/)[Media](https://www.algolia.com/industries-and-solutions/media/)[Startups](https://www.algolia.com/industries/startups/)
 
-#### Live demos
-
-[GDPR](https://gdpr.algolia.com/)[AI Act](https://aiact.algolia.com/)
-
 #### Solutions
 
 [Overview](https://www.algolia.com/products/)[AI Search](https://www.algolia.com/products/ai-search/)[AI Browse](https://www.algolia.com/products/ai-browse/)[AI Recommendations](https://www.algolia.com/products/recommendations/)[Pricing](https://www.algolia.com/pricing/)
@@ -290,7 +276,7 @@ Get the AI search that shows users what they need
 
 #### Distributed & secure
 
-[Global infrastructure](https://www.algolia.com/distributed-secure/global-infrastructure/)[Security & compliance](https://www.algolia.com/distributed-secure/security-compliance/)[Azure](https://www.algolia.com/search-solutions/algolia-on-azure/)[AWS](https://www.algolia.com/search-solutions/algolia-on-aws/)
+[Global infrastructure](https://www.algolia.com/distributed-secure/global-infrastructure/)[Security & compliance](https://www.algolia.com/distributed-secure/security-compliance/)[Azure](https://www.algolia.com/search-solutions/algolia-on-azure/)
 
 #### Company
 
