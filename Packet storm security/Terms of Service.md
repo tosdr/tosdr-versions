@@ -53,16 +53,16 @@ Any claim relating to Packet Storm Security's web site shall be governed by the 
 Top Authors In Last 30 Days
 ---------------------------
 
-* [Red Hat](https://packetstormsecurity.com/files/authors/4676) 299 files
-* [Ubuntu](https://packetstormsecurity.com/files/authors/3695) 67 files
-* [Debian](https://packetstormsecurity.com/files/authors/2821) 24 files
-* [Gentoo](https://packetstormsecurity.com/files/authors/3417) 13 files
+* [Red Hat](https://packetstormsecurity.com/files/authors/4676) 270 files
+* [Ubuntu](https://packetstormsecurity.com/files/authors/3695) 58 files
+* [Debian](https://packetstormsecurity.com/files/authors/2821) 18 files
 * [Ahmet Umit Bayram](https://packetstormsecurity.com/files/authors/14177) 10 files
 * [Apple](https://packetstormsecurity.com/files/authors/2397) 9 files
-* [malvuln](https://packetstormsecurity.com/files/authors/15382) 8 files
-* [Google Security Research](https://packetstormsecurity.com/files/authors/11596) 5 files
-* [nu11secur1ty](https://packetstormsecurity.com/files/authors/14758) 5 files
+* [malvuln](https://packetstormsecurity.com/files/authors/15382) 6 files
 * [Jann Horn](https://packetstormsecurity.com/files/authors/10455) 5 files
+* [Google Security Research](https://packetstormsecurity.com/files/authors/11596) 5 files
+* [Gentoo](https://packetstormsecurity.com/files/authors/3417) 4 files
+* [tmrswrr](https://packetstormsecurity.com/files/authors/16714) 4 files
 
 Recent News
 -----------
@@ -193,4 +193,4 @@ Hosting By
 
 ![close](https://packetstatic.com/img1514015884/o_close.png)
 
-![](https://ssl.google-analytics.com/__utm.gif?utmwv=1.3&utmn=1945539783&utmcs=ISO-8859-1&utmsr=31337x31337&utmsc=32-bit&utmul=en-us&utmje=0&utmfl=-&utmcn=1&utmdt=Terms%20of%20Service%u2248%20Packet%20Storm&utmhn=packetstormsecurity.com&utmr=-&utmp=%2Flegal%2Ftos.html&utmac=UA-18885198-1&utmcc=__utma%3D32867617.1945539783.1717859585.1717859585.1717859585.1%3B%2B__utmz%3D32867617.1717859585.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none))
+![](https://ssl.google-analytics.com/__utm.gif?utmwv=1.3&utmn=1520576303&utmcs=ISO-8859-1&utmsr=31337x31337&utmsc=32-bit&utmul=en-us&utmje=0&utmfl=-&utmcn=1&utmdt=Terms%20of%20Service%u2248%20Packet%20Storm&utmhn=packetstormsecurity.com&utmr=-&utmp=%2Flegal%2Ftos.html&utmac=UA-18885198-1&utmcc=__utma%3D32867617.1520576303.1717978573.1717978573.1717978573.1%3B%2B__utmz%3D32867617.1717978573.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none))
