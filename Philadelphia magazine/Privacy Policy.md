@@ -268,8 +268,8 @@ Trending
     
 2. ### [Things to Do in Philadelphia This Weekend](https://www.phillymag.com/things-to-do/weekend-philadelphia/)
     
-3. ### [Finally, the World Is Getting the Gritty Choral Work It Deserves](https://www.phillymag.com/news/2024/06/06/gritty-choir-song-melissa-dunphy/)
+3. ### [We Tracked Down Kylie Kelce Shore Bully Andrée Goldberg](https://www.phillymag.com/news/2024/05/30/andree-goldberg-kylie-kelce-teuscher/)
     
-4. ### [Mayor Parker Wants Speed Cameras All Over Philadelphia](https://www.phillymag.com/news/2024/06/04/philadelphia-speed-cameras-mayor-parker/)
+4. ### [5 Must-See Open Houses This Weekend](https://www.phillymag.com/property/open-houses-philadelphia/)
     
-5. ### [The Best Doughnuts in Philadelphia](https://www.phillymag.com/foobooz/best-donuts-doughnuts-philadelphia/)
+5. ### [Class Action Lawsuit Filed Against University of the Arts](https://www.phillymag.com/news/2024/06/05/university-of-the-arts-lawsuit/)
