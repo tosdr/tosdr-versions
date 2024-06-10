@@ -97,12 +97,12 @@ En
     
     * [About](https://redshieldvpn.com/en/help/description/about)
     * [What is VPN?](https://redshieldvpn.com/en/help/description/whatisvpn)
+    * [Bug Bounty](https://redshieldvpn.com/en/help/description/bb)
     * [Warrant Canary](https://redshieldvpn.com/en/help/description/warrant_canary)
     * [Terms of Service](https://redshieldvpn.com/en/help/description/tos)
     * [Refund Policy](https://redshieldvpn.com/en/help/description/rp)
     * [Privacy Policy](https://redshieldvpn.com/en/help/description/pp)
     * [Auto-renewal Terms](https://redshieldvpn.com/en/help/description/art)
-    * [Bug Bounty](https://redshieldvpn.com/en/help/description/bb)
     
 * [Features](javascript:;)
     
