@@ -352,7 +352,7 @@ Table of Contents
 Privacy Policy
 ==============
 
-Last Updated: January 29, 2024  
+Last Updated: January 29, 2024.  
 You can see our previous Privacy Policies [here](https://airtable.com/appmP5KgnPlmKHR0R/shrRaH0revJH0G1Ii/tblSsVJGmAjzj7jEm/viwdn9g64MUXCkNCO?_gl=1*lac665*_ga*MTEyNTg1OTM1Mi4xNjc0Njk2ODA3*_ga_VJY8J9RFZM*MTcwNjMwMjYyMS4xODcuMS4xNzA2MzAyNzQ1LjU5LjAuMA..).  
 [FR](https://www.airtable.com/company/privacy/fr) | [DE](https://www.airtable.com/company/privacy/de)
 
