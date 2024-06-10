@@ -6,7 +6,7 @@ menu
 
 [Log In](https://www.buzzsprout.com/login) [Get Started Free](https://www.buzzsprout.com/sign_up)
 
-[Summary](https://www.buzzsprout.com/policies_summary) | [Terms of Service](https://www.buzzsprout.com/tos) | [Refunds](https://www.buzzsprout.com/refunds) | [Privacy Policy](https://www.buzzsprout.com/privacy) | [DPF Privacy Policy](https://www.buzzsprout.com/privacy_shield) | [GDPR](https://www.buzzsprout.com/gdpr) | [DMCA](https://www.buzzsprout.com/dmca)
+[Summary](https://www.buzzsprout.com/policies_summary) | [Terms of Service](https://www.buzzsprout.com/tos) | [Refunds](https://www.buzzsprout.com/refunds) | [Privacy Policy](https://www.buzzsprout.com/privacy) | [Privacy Shield](https://www.buzzsprout.com/privacy_shield) | [GDPR](https://www.buzzsprout.com/gdpr) | [DMCA](https://www.buzzsprout.com/dmca)
 
 Buzzsprout - Digital Millennium Copyright Act (DMCA) Policy
 ===========================================================
