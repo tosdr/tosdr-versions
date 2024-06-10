@@ -23,31 +23,31 @@
     * [Featured](#nfeatured)
     * [Latest](#nlatest)
     
-    * [![FBI recovers 7,000 LockBit keys, urges ransomware victims to reach out](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![GitHub comments abused to push malware via Microsoft repo URLs](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        FBI recovers 7,000 LockBit keys, urges ransomware victims to reach out](https://www.bleepingcomputer.com/news/security/fbi-recovers-7-000-lockbit-keys-urges-ransomware-victims-to-reach-out/)
-    * [![Club Penguin fans breached Disney Confluence server, stole 2.5GB of data](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        GitHub comments abused to push malware via Microsoft repo URLs](https://www.bleepingcomputer.com/news/security/github-comments-abused-to-push-malware-via-microsoft-repo-urls/)
+    * [![HelloKitty ransomware rebrands, releases CD Projekt and Cisco data](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Club Penguin fans breached Disney Confluence server, stole 2.5GB of data](https://www.bleepingcomputer.com/news/security/club-penguin-fans-breached-disney-confluence-server-stole-25gb-of-data/)
-    * [![Kali Linux 2024.2 released with 18 new tools, Y2038 changes](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        HelloKitty ransomware rebrands, releases CD Projekt and Cisco data](https://www.bleepingcomputer.com/news/security/hellokitty-ransomware-rebrands-releases-cd-projekt-and-cisco-data/)
+    * [![MITRE says state hackers breached its network via Ivanti zero-days](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Kali Linux 2024.2 released with 18 new tools, Y2038 changes](https://www.bleepingcomputer.com/news/linux/kali-linux-20242-released-with-18-new-tools-y2038-changes/)
-    * [![Linux version of TargetCompany ransomware focuses on VMware ESXi](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        MITRE says state hackers breached its network via Ivanti zero-days](https://www.bleepingcomputer.com/news/security/mitre-says-state-hackers-breached-its-network-via-ivanti-zero-days/)
+    * [![CrushFTP warns users to patch exploited zero-day “immediately”](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Linux version of TargetCompany ransomware focuses on VMware ESXi](https://www.bleepingcomputer.com/news/security/linux-version-of-targetcompany-ransomware-focuses-on-vmware-esxi/)
+        CrushFTP warns users to patch exploited zero-day “immediately”](https://www.bleepingcomputer.com/news/security/crushftp-warns-users-to-patch-exploited-zero-day-immediately/)
     
-    * [![New York Times source code stolen using exposed GitHub token](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![Microsoft: APT28 hackers exploit Windows flaw reported by NSA](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        New York Times source code stolen using exposed GitHub token](https://www.bleepingcomputer.com/news/security/new-york-times-source-code-stolen-using-exposed-github-token/)
-    * [![DDoS attacks target EU political parties as elections begin](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Microsoft: APT28 hackers exploit Windows flaw reported by NSA](https://www.bleepingcomputer.com/news/security/microsoft-apt28-hackers-exploit-windows-flaw-reported-by-nsa/)
+    * [![Synlab Italia suspends operations following ransomware attack](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        DDoS attacks target EU political parties as elections begin](https://www.bleepingcomputer.com/news/security/ddos-attacks-target-eu-political-parties-as-elections-begin/)
-    * [![Get Dad the tools to visualize anything with $230 off Microsoft Visio](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Synlab Italia suspends operations following ransomware attack](https://www.bleepingcomputer.com/news/security/synlab-italia-suspends-operations-following-ransomware-attack/)
+    * [![GitLab affected by GitHub-style CDN flaw allowing malware hosting](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Get Dad the tools to visualize anything with $230 off Microsoft Visio](https://www.bleepingcomputer.com/offer/deals/get-dad-the-tools-to-visualize-anything-with-230-off-microsoft-visio/)
-    * [![LastPass says 12-hour outage caused by bad Chrome extension update](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        GitLab affected by GitHub-style CDN flaw allowing malware hosting](https://www.bleepingcomputer.com/news/security/gitlab-affected-by-github-style-cdn-flaw-allowing-malware-hosting/)
+    * [![Criminal IP Partners with Sumo Logic on Threat Intelligence Data Enrichment](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        LastPass says 12-hour outage caused by bad Chrome extension update](https://www.bleepingcomputer.com/news/security/lastpass-says-12-hour-outage-caused-by-bad-chrome-extension-update/)
+        Criminal IP Partners with Sumo Logic on Threat Intelligence Data Enrichment](https://www.bleepingcomputer.com/news/security/criminal-ip-partners-with-sumo-logic-on-threat-intelligence-data-enrichment/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
@@ -302,58 +302,56 @@ BleepingComputer.com has partnered with [StackCommerce](https://stackcommerce.co
 
 If you have any questions or concerns regarding these policies, please free to contact us here: [https://www.bleepingcomputer.com/contact/](https://www.bleepingcomputer.com/contact/)
 
-[![Mandiant mWise Conference 2024](https://www.bleepstatic.com/c/m/mandiant/mwise-registration-early_craggiest-peaks.jpg)](https://www.bleepingcomputer.com/mgo/41/)
-
 Popular Stories
 
-* [![PHP](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* [![GitHub](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    PHP fixes critical RCE flaw impacting all versions for Windows](https://www.bleepingcomputer.com/news/security/php-fixes-critical-rce-flaw-impacting-all-versions-for-windows/)
-* [![Windows 11 Recall](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    GitHub comments abused to push malware via Microsoft repo URLs](https://www.bleepingcomputer.com/news/security/github-comments-abused-to-push-malware-via-microsoft-repo-urls/)
+* [![WordPress](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    Microsoft makes Windows Recall opt-in, secures data with Windows Hello](https://www.bleepingcomputer.com/news/microsoft/microsoft-makes-windows-recall-opt-in-secures-data-with-windows-hello/)
+    Critical Forminator plugin flaw impacts over 300k WordPress sites](https://www.bleepingcomputer.com/news/security/critical-forminator-plugin-flaw-impacts-over-300k-wordpress-sites/)
 
 Latest Downloads
 
-* ![PuTTY Logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* ![ESET Uninstaller Logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    [PuTTY](https://www.bleepingcomputer.com/download/putty/)
+    [ESET Uninstaller](https://www.bleepingcomputer.com/download/eset-uninstaller/)
     
-    Version: 0.81
+    Version: 9.0.3.0
     
-    **41,631 _Downloads_**
+    **106,356 _Downloads_**
+    
+* ![Display Driver Uninstaller Logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    [Display Driver Uninstaller](https://www.bleepingcomputer.com/download/display-driver-uninstaller/)
+    
+    Version: 18.0.7.5
+    
+    **62,862 _Downloads_**
+    
+* ![AdwCleaner Logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    [AdwCleaner](https://www.bleepingcomputer.com/download/adwcleaner/)
+    
+    Version: 8.4.0.0
+    
+    **56M+ _Downloads_**
     
 * ![Malwarebytes Anti-Malware Logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     [Malwarebytes Anti-Malware](https://www.bleepingcomputer.com/download/malwarebytes-anti-malware/)
     
-    Version: 5.1.4.112
+    Version: 5.1.2
     
     **5M+ _Downloads_**
     
-* ![BitDefender Uninstall Tool Logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* ![Windows Repair (All In One) Logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    [BitDefender Uninstall Tool](https://www.bleepingcomputer.com/download/bitdefender-uninstall-tool/)
+    [Windows Repair (All In One)](https://www.bleepingcomputer.com/download/windows-repair-all-in-one/)
     
-    Version: NA
+    Version: 4.14.1
     
-    **102,983 _Downloads_**
-    
-* ![Malwarebytes Support Tool Logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    [Malwarebytes Support Tool](https://www.bleepingcomputer.com/download/malwarebytes-support-tool/)
-    
-    Version: NA
-    
-    **150,104 _Downloads_**
-    
-* ![FilesLockerDecrypter Logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    [FilesLockerDecrypter](https://www.bleepingcomputer.com/download/fileslockerdecrypter/)
-    
-    Version: NA
-    
-    **48,924 _Downloads_**
+    **2M+ _Downloads_**
     
 
 ##### Follow us:
