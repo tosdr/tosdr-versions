@@ -2,7 +2,6 @@
 
 * [About](https://avoidthehack.com/about)
 * [Guides](https://avoidthehack.com/guides)
-* [Reports](https://avoidthehack.com/reports)
 * [Resources](https://avoidthehack.com/util)
     * * [Back](#)
         * [Start Here](https://avoidthehack.com/util/start)
@@ -125,7 +124,6 @@ No [spam](https://avoidthehack.com/privacy-policy). Must confirm email. Unsubscr
 * [Recommendations](https://avoidthehack.com/#recs "Recommendations")
 * [Browser Comparison](https://browsers.avoidthehack.com/ "Browser Comparison")
 * [Guides](https://avoidthehack.com/guides "Guides")
-* [Reports](https://avoidthehack.com/reports "Reports")
 
 ###### Other
 
