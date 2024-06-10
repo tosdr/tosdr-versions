@@ -173,7 +173,7 @@ Open site navigation
 
 [Start your job search](https://www.search.co.uk/jobs/)
 
-115 Legal jobs
+114 Legal jobs
 ==============
 
 [Create job alert](https://www.search.co.uk/legal_documents/privacy_policy?specialism=legal&jobTitle=&location=)
@@ -188,7 +188,7 @@ Filter jobs
 
 * ### Specialism
     
-    * [Legal 115](https://www.search.co.uk/jobs/)
+    * [Legal 114](https://www.search.co.uk/jobs/)
         
     * [Business Support 1](https://www.search.co.uk/jobs/legal/?spec=business%20support)
         
@@ -225,8 +225,6 @@ Filter jobs
         
     * [Uxbridge 3](https://www.search.co.uk/jobs/legal/uxbridge/)
         
-    * [West Sussex 3](https://www.search.co.uk/jobs/legal/west-sussex/)
-        
     * [Wimbledon 3](https://www.search.co.uk/jobs/legal/wimbledon/)
         
     * [Chelmsford 2](https://www.search.co.uk/jobs/legal/chelmsford/)
@@ -235,21 +233,23 @@ Filter jobs
         
     * [Edinburgh 2](https://www.search.co.uk/jobs/legal/edinburgh/)
         
-    * [Haywards Heath 2](https://www.search.co.uk/jobs/legal/haywards-heath/)
-        
     * [Hertfordshire 2](https://www.search.co.uk/jobs/legal/hertfordshire/)
+        
+    * [Northamptonshire 2](https://www.search.co.uk/jobs/legal/northamptonshire/)
+        
+    * [Perth 2](https://www.search.co.uk/jobs/legal/perth/)
         
     
 * ### Salary
     
     * * [Annum](https://www.search.co.uk/jobs/legal/?salaryPer=Annum)
-        * [£20,000 - £30,000 6](https://www.search.co.uk/jobs/legal/?salaryPer=Annum&salaryRange=%C2%A320,000%20-%20%C2%A330,000)
+        * [£20,000 - £30,000 5](https://www.search.co.uk/jobs/legal/?salaryPer=Annum&salaryRange=%C2%A320,000%20-%20%C2%A330,000)
             
-        * [£30,000 - £40,000 10](https://www.search.co.uk/jobs/legal/?salaryPer=Annum&salaryRange=%C2%A330,000%20-%20%C2%A340,000)
+        * [£30,000 - £40,000 9](https://www.search.co.uk/jobs/legal/?salaryPer=Annum&salaryRange=%C2%A330,000%20-%20%C2%A340,000)
             
-        * [£40,000 - £50,000 32](https://www.search.co.uk/jobs/legal/?salaryPer=Annum&salaryRange=%C2%A340,000%20-%20%C2%A350,000)
+        * [£40,000 - £50,000 31](https://www.search.co.uk/jobs/legal/?salaryPer=Annum&salaryRange=%C2%A340,000%20-%20%C2%A350,000)
             
-        * [£50,000 - £60,000 45](https://www.search.co.uk/jobs/legal/?salaryPer=Annum&salaryRange=%C2%A350,000%20-%20%C2%A360,000)
+        * [£50,000 - £60,000 44](https://www.search.co.uk/jobs/legal/?salaryPer=Annum&salaryRange=%C2%A350,000%20-%20%C2%A360,000)
             
         * [£60,000 - £70,000 38](https://www.search.co.uk/jobs/legal/?salaryPer=Annum&salaryRange=%C2%A360,000%20-%20%C2%A370,000)
             
@@ -262,7 +262,7 @@ Filter jobs
     
 * ### Contract Type
     
-    * [Permanent 112](https://www.search.co.uk/jobs/legal/?contType=permanent)
+    * [Permanent 111](https://www.search.co.uk/jobs/legal/?contType=permanent)
         
     * [Contract 2](https://www.search.co.uk/jobs/legal/?contType=contract)
         
@@ -273,12 +273,12 @@ Filter jobs
     
     * [Full Time 85](https://www.search.co.uk/jobs/legal/?workPat=full%20time)
         
-    * [Flexi Working 30](https://www.search.co.uk/jobs/legal/?workPat=flexi%20working)
+    * [Flexi Working 29](https://www.search.co.uk/jobs/legal/?workPat=flexi%20working)
         
     
 * ### Working Arrangement
     
-    * [Hybrid 89](https://www.search.co.uk/jobs/legal/?workAr=hybrid)
+    * [Hybrid 88](https://www.search.co.uk/jobs/legal/?workAr=hybrid)
         
     * [On-Site 25](https://www.search.co.uk/jobs/legal/?workAr=on-site)
         
@@ -293,7 +293,7 @@ Filter jobs
         
     
 
-115 jobs found
+114 jobs found
 
 Sort by
 
