@@ -31,7 +31,7 @@
 
 [Question more](https://www.rt.com/)
 
-[Putin says power in Ukraine usurped: Russia-Ukraine conflict](https://www.rt.com/trends/russia-ukraine-conflict/)
+[France lying about troops in Ukraine – Lavrov: Russia-Ukraine conflict](https://www.rt.com/trends/russia-ukraine-conflict/)
 
 [live](https://www.rt.com/on-air/)
 
@@ -64,7 +64,7 @@
 
 [](https://odysee.com/@RT:fd)
 
-[Putin says power in Ukraine usurped: Russia-Ukraine conflict](https://www.rt.com/trends/russia-ukraine-conflict/)
+[France lying about troops in Ukraine – Lavrov: Russia-Ukraine conflict](https://www.rt.com/trends/russia-ukraine-conflict/)
 
 [Home](https://www.rt.com/)
 
