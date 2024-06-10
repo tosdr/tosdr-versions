@@ -2,6 +2,8 @@
 
 Log In![Signed out avatar](/development/avatar/logged-out-avatar.png) ![Signed in avatar](/development/avatar/logged-in-avatar.png) 
 
+Go Back
+
 Help
 ----
 
@@ -17,8 +19,6 @@ About Us
 * [\[email protected\]](https://www.bentkey.com/cdn-cgi/l/email-protection)
 
 ![Chip Chilla Family](/development/footer/ChipSofa.png)
-
-Bentkey Logo Bentkey Logo.
 
 * [Instagram](https://www.instagram.com/bentkey/)
 * [Youtube](https://www.youtube.com/@bentkeyofficial)
