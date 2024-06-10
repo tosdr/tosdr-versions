@@ -114,7 +114,7 @@ Contribute:
 
 Light mode Automatic Dark mode
 
-Version: [9605b331](https://gitlab.com/PronounsPage/PronounsPage/-/commit/9605b33154a4ba6ad936aa4e2fa52f8ad03c5d57) /
+Version: [f6270dee](https://gitlab.com/PronounsPage/PronounsPage/-/commit/f6270deeb5eaf1579ae0846bda6afdcc6bada094) /
 
 Legal:
 
