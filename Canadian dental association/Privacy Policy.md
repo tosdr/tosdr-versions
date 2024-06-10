@@ -139,7 +139,7 @@ CDA website Privacy Policy September 8, 2003
 
 [![Canada](/_images/provinces/canada.jpg)](https://www.cda-adc.ca/en/oral_health/reg_authorities/)
 
-[![Alberta](/_images/provinces/AB.jpg)](https://www.albertadentalassociation.ca/)
+[![Alberta](/_images/provinces/AB.jpg)](https://www.cdsab.ca/)
 
 [![British Columbia](/_images/provinces/BC.jpg)](http://bcdental.org/)
 
