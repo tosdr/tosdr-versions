@@ -66,7 +66,7 @@ Back
 
 * [Overview](https://bletchleypark.org.uk/learning/)
 * [Bursary Opportunities](https://bletchleypark.org.uk/learning/funding-opportunities/)
-* [Book a Learning Visit to Bletchley Park](https://bletchleypark.org.uk/learning/book-a-learning-visit/)
+* [Book an Onsite Learning Visit](https://bletchleypark.org.uk/learning/book-a-learning-visit/)
 * [Essential Information](https://bletchleypark.org.uk/learning/essential-info/)
 * [Book an Outreach Visit](https://bletchleypark.org.uk/learning/book-an-outreach-visit/)
 
@@ -280,7 +280,7 @@ Contact us
 
       
 
-Please select a department/..Booking/ticket enquiryLearning enquiryPress/media enquiryNational Intelligence History ConferenceCorporate enquiryFriends enquiryAfternoon Tea BookingsOther
+Please select a department/..Booking/ticket enquiryLearning enquiryPress/media enquiryCorporate enquiryFriends enquiryAfternoon Tea BookingsOther
 
 This site is protected by reCAPTCHA and the Google [Privacy Policy](https://policies.google.com/privacy) and [Terms of Service](https://policies.google.com/terms) apply.
 
