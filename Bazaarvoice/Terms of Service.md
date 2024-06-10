@@ -148,7 +148,6 @@
     * [Client Success
         
         Our team is your strategic partner through every step of your journey.](https://www.bazaarvoice.com/services/client-success/)
-        * [Bazaarvoice University](https://www.bazaarvoice.com/services/bazaarvoice-university/)
     * [Managed Services
         
         Enrich your Bazaarvoice experience with a suite of premium offerings designed to realize the full potential of our platform.](https://www.bazaarvoice.com/services/managed-services/)
