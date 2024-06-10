@@ -1,4 +1,4 @@
-[Celebrate The Class of 2024](https://www.bobswatches.com/gift-guide/graduation-1.html)
+[Shop New Arrivals](https://www.bobswatches.com/new-arrivals)
 
 100% Certified Authentic
 
@@ -49,8 +49,8 @@ Close Menu
     * [Day-Date II](https://www.bobswatches.com/rolex-day-date-ii-1.html)
     * [Datejust II](https://www.bobswatches.com/rolex-datejust-ii-1.html)
     * [Day-Date 40](https://www.bobswatches.com/rolex-day-date-40-1.html)
-* OMEGA
-    * [OMEGA](https://www.bobswatches.com/omega/)
+* Omega
+    * [Omega](https://www.bobswatches.com/omega/)
     * [Speedmaster](https://www.bobswatches.com/omega/speedmaster-1.html)
     * [Seamaster](https://www.bobswatches.com/omega/seamaster-1.html)
     * [Constellation](https://www.bobswatches.com/omega/constellation-1.html)
@@ -58,7 +58,7 @@ Close Menu
     * [Vintage](https://www.bobswatches.com/omega/vintage-1.html)
 * Brands
     * [Rolex](https://www.bobswatches.com/rolex/)
-    * [OMEGA](https://www.bobswatches.com/omega/)
+    * [Omega](https://www.bobswatches.com/omega/)
     * [Cartier](https://www.bobswatches.com/cartier/)
     * [Patek Philippe](https://www.bobswatches.com/patek-philippe/)
     * [Audemars Piguet](https://www.bobswatches.com/audemars-piguet/)
@@ -194,7 +194,6 @@ MON - FRI 9AM - 5PM (EST)
 
 * [Seller Terms & Conditions](https://www.bobswatches.com/shipping-label-terms)
 * [Consignor Terms](https://www.bobswatches.com/consignor-terms)
-* [Payment Methods](https://www.bobswatches.com/payment-methods)
 * [Contact Us](https://www.bobswatches.com/contact-us)
 * [FAQ](https://www.bobswatches.com/faqs)
 
@@ -219,13 +218,13 @@ MON - FRI 9AM - 5PM (EST)
 
 Subscribe today to receive email updates on our timepieces.
 
-    Your email address Subscribe
+    Subscribe
 
 © 2024 Bob's Watches. All Rights Reserved
 
 [Privacy](https://www.bobswatches.com/privacy-policy) · [Terms](https://www.bobswatches.com/terms-and-conditions) · [Sitemap](https://www.bobswatches.com/site-map) · [Accessibility](https://www.bobswatches.com/accessibility-help)
 
-[](https://twitter.com/BobsWatches)[](https://www.facebook.com/bobswatches/)[](https://www.instagram.com/bobswatches/)[](https://www.youtube.com/@bobswatches)[](https://www.tiktok.com/@bobswatchesofficial)
+[](https://twitter.com/BobsWatches)[](https://www.facebook.com/bobswatches/)[](https://www.instagram.com/bobswatches/)[](https://www.youtube.com/@bobswatches)[](https://www.youtube.com/@bobswatches)
 
 All rights reserved. Bob's Watches is not affiliated with Rolex S.A., Rolex USA, or any of its subsidiaries.
 
