@@ -109,6 +109,12 @@ Root account password: osboxes.org
 
 ### Recent Posts
 
+[![ubuntu flavors](https://www.osboxes.org/wp-content/uploads/2016/04/ubuntu-flavors-85x85.jpg)](https://www.osboxes.org/kubuntu-and-lubuntu-24-04-vm-images-for-virtualbox-and-vmware/)
+
+##### [Kubuntu and Lubuntu 24.04 VM Images for VirtualBox and VMware](https://www.osboxes.org/kubuntu-and-lubuntu-24-04-vm-images-for-virtualbox-and-vmware/)
+
+09-06-2024
+
 [![parrot os](https://www.osboxes.org/wp-content/uploads/2017/01/Parrot-security-os-desktop-85x85.jpg)](https://www.osboxes.org/parrot-security-os-6-1-images-released-for-virtualbox-and-vmware/)
 
 ##### [Parrot Security OS 6.1 Images Released for VirtualBox and VMware](https://www.osboxes.org/parrot-security-os-6-1-images-released-for-virtualbox-and-vmware/)
@@ -136,12 +142,6 @@ Root account password: osboxes.org
 [![parrot os](https://www.osboxes.org/wp-content/uploads/2017/01/Parrot-security-os-desktop-85x85.jpg)](https://www.osboxes.org/parrot-security-os-6-0-images-released-for-virtualbox-and-vmware/)
 
 ##### [Parrot Security OS 6.0 Images Released for VirtualBox and VMware](https://www.osboxes.org/parrot-security-os-6-0-images-released-for-virtualbox-and-vmware/)
-
-18-03-2024
-
-[![kali linux](https://www.osboxes.org/wp-content/uploads/2014/09/kali-linux.jpg)](https://www.osboxes.org/kali-linux-2024-1-vm-images-available-for-virtualbox-and-vmware/)
-
-##### [Kali Linux 2024.1 VM Images Available for VirtualBox and VMware](https://www.osboxes.org/kali-linux-2024-1-vm-images-available-for-virtualbox-and-vmware/)
 
 18-03-2024
 
