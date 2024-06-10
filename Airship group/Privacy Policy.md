@@ -1,62 +1,48 @@
- [![Airship](https://www.airship.com/wp-content/uploads/2023/06/Airship_pride_2023-new-2.svg) ![Airship](https://www.airship.com/wp-content/uploads/2023/05/brand-airship-dark.svg)](https://www.airship.com/)
+ [![Airship](https://www.airship.com/wp-content/uploads/2023/05/brand-airship.svg) ![Airship](https://www.airship.com/wp-content/uploads/2023/05/brand-airship-dark.svg)](https://www.airship.com/)
 
-* Product
+* Platform
     
-    [Get Pricing](https://www.airship.com/platform/app-experience-platform/pricing/)
+    [App Experience Platform](https://www.airship.com/platform/app-experience-platform/) [Get Pricing](https://www.airship.com/platform/app-experience-platform/pricing/)
     
-    Product
+    * [Inside the app](https://www.airship.com/#inside-the-app)
+    * [Push Notifications](https://www.airship.com/platform/app-experience-platform/inside-the-app/push-notifications/)
+    * [In-App Messaging](https://www.airship.com/platform/app-experience-platform/inside-the-app/in-app-messaging/)
+    * [Scenes](https://www.airship.com/platform/app-experience-platform/inside-the-app/scenes/)
+    * [Stories](https://www.airship.com/platform/app-experience-platform/inside-the-app/stories/)
+    * [Surveys](https://www.airship.com/app-experience-platform/mobile-data-hub/axp-surveys/)
+    * [Message Center](https://www.airship.com/platform/app-experience-platform/inside-the-app/message-center/)
+    * [Preference Center](https://www.airship.com/platform/app-experience-platform/inside-the-app/preference-center/)
+    * [Live Activities & Updates](https://www.airship.com/platform/app-experience-platform/inside-the-app/live-activities/)
     
-    * [Cross-Channel Orchestration](https://www.airship.com/product/cross-channel-orchestration/)
-        
-        Create and manage customer journeys across all channels, from one place
-        
-    * [Personalization](https://www.airship.com/product/personalization)
-        
-        Tailor experiences for every audience segment including audiences of one, all in real-time
-        
-    * [Experimentation](https://www.airship.com/product/experimentation)
-        
-        Test and optimize the performance of every audience segment, journey, feature, experience and message
-        
-    * [AI & Analytics](https://www.airship.com/product/ai-and-analytics/)
-        
-        Analyze user-level data and optimize engagement with Generative and Predictive AI
-        
+    * [Outside the app](https://www.airship.com/#outside-the-app)
+    * [App Store Optimization](https://www.airship.com/platform/app-experience-platform/outside-the-app/app-store-optimization/)
+    * [Email](https://www.airship.com/platform/app-experience-platform/outside-the-app/email/)
+    * [SMS](https://www.airship.com/platform/app-experience-platform/outside-the-app/sms/)
+    * [Web Notifications](https://www.airship.com/platform/app-experience-platform/outside-the-app/web-notifications/)
+    * [Mobile Wallet](https://www.airship.com/platform/app-experience-platform/outside-the-app/mobile-wallet/)
+    * [Open Channel](https://www.airship.com/platform/app-experience-platform/outside-the-app/open-channel/)
     
-    * [App Store Optimization (ASO)](https://www.airship.com/product/app-store-optimization/)
-        
-        Increase visibility and conversion rates in the app stores
-        
-    * [No-Code Experience Editor](https://www.airship.com/platform/app-experience-platform/App-Experience-Editor/)
-        
-        Create native customer experiences once, publish everywhere — no developer support required
-        
-    * [Data Collection & Enrichment](https://www.airship.com/product/data-enrichment-and-collection/)
-        
-        Capture and seamlessly stream real-time data in and out of Airship.
-        
+    * [Experience Editor](https://www.airship.com/platform/app-experience-platform/App-Experience-Editor/)
+    * [Journeys](https://www.airship.com/platform/app-experience-platform/journeys/)
+    * [Segmentation](https://www.airship.com/platform/app-experience-platform/segmentation/)
+    * [Unified Channel Coordination](https://www.airship.com/platform/app-experience-platform/unified-channel-coordination/)
+    * [Contact Management](https://www.airship.com/platform/app-experience-platform/contact-management/)
+    * [Deep Personalization](https://www.airship.com/platform/app-experience-platform/deep-personalization/)
+    * [Experimentation](https://www.airship.com/platform/app-experience-platform/experimentation/)
+    * [Feature Flags](https://www.airship.com/platform/app-experience-platform/feature-flags/)
+    * [Holdout Experiments](https://www.airship.com/platform/app-experience-platform/holdout-experiments/)
+    * [A/B Testing](https://www.airship.com/platform/app-experience-platform/ab-testing/)
+    * [Generative & Predictive AI](https://www.airship.com/platform/app-experience-platform/predictive-ai/)
+    * [Performance Analytics](https://www.airship.com/platform/app-experience-platform/performance-analytics/)
+    * [Real-Time Data Streaming](https://www.airship.com/platform/app-experience-platform/real-time-data-streaming/)
     
-    Channels
+    ![](https://www.airship.com/wp-content/uploads/2024/04/Screenshot-2023-06-01-at-2.44.24-PM-1.jpg)
     
-    * [Push Notifications](https://www.airship.com/product/channels/push-notifications/)
-        
-    * [Mobile App](https://www.airship.com/product/channels/mobile-app)
-        
-    * [SMS](https://www.airship.com/product/channels/sms)
-        
-    * [Email](https://www.airship.com/product/channels/email)
-        
-    * [Web Notifications](https://www.airship.com/product/channels/web-notifications/)
-        
-    * [Mobile Wallet](https://www.airship.com/product/channels/mobile-wallet/)
-        
+    Find out why and how to master MAX. And make life better with better mobile app experiences.
     
-    ![](https://www.airship.com/wp-content/uploads/2024/06/Airship-Spring-Launch-Webinar-Feature-Navigation-Image-2.png)
-    
-    * [3 Ways Marketers Can Gain More Ease, Freedom and Control.](https://www.airship.com/events/3-ways-marketers-can-gain-more-ease-freedom-and-control/)
-        
-        Join our webinar and learn how to use these exciting new feature enhancements.
-        
+    * [Services](https://www.airship.com/services)
+    * [Pricing](https://www.airship.com/platform/app-experience-platform/pricing/)
+    * [Start a Free Account](https://go.airship.com/accounts/register/plan/starter/)
     
 * Solutions
     
@@ -100,7 +86,6 @@
     * [About Airship](https://www.airship.com/company)
     * [Leadership](https://www.airship.com/company/leadership/)
     * [Events](https://www.airship.com/company/events/)
-    * [Mobile Leaders Forum](https://www.airship.com/mobile-leaders-forum-2024/)
     * [Careers](https://www.airship.com/company/careers/)
     * [Newsroom](https://www.airship.com/company/newsroom/)
     * [Contact Us](https://www.airship.com/contact-us)
@@ -128,7 +113,6 @@ Legal
     * [Privacy Statement](https://www.airship.com/legal/privacy/)
     * [California Privacy Rights Notice](https://www.airship.com/legal/california-privacy-rights-notice/)
     * [California Employee and Candidate Privacy Notice](https://www.airship.com/legal/california-employee-and-candidate-privacy-notice/)
-    * [Singapore Job Applicant and Employee Data Protection Policy](https://www.airship.com/legal/singapore-job-applicant-and-employee-data-protection-policy/)
 * Airship Products and Services
     * [Terms of Subscription Service](https://www.airship.com/legal/subscription-terms/)
     * [Support Services Description](https://www.airship.com/legal/support-services/)
@@ -150,9 +134,9 @@ Legal
 Privacy Statement
 -----------------
 
-**Effective as of June 7, 2024 — [Previous Version](https://www.airship.com/legal/privacy-statement-through-june-7-2024/)**
+**Effective as of October 9, 2023 — [Previous Version](https://www.airship.com/legal/privacy-statement-through-october-9-2023/)**
 
-Airship Group, Inc. and its affiliates, including, Apptimize, LLC., Urban Airship UK Ltd., Urban Airship Germany GmbH, Airship France SAS, Airship Business France SAS, Urban Airship India Private Ltd., and Airship Global Pte. Ltd. (collectively, “Airship,” “we” or “us”) offers mobile and customer engagement platforms through the Airship Service, the Apptimize Service and the Gummicube ASO Services, (collectively referred to as the “Airship Platform”). Airship is committed to protecting the privacy of Personal Information you provide to us, and applies the Privacy by Design and Data Protection by Default principles across our Airship Platform product enhancement, development, and operations.
+Airship Group, Inc. and its affiliates, including, Apptimize, LLC., Urban Airship UK Ltd., Urban Airship Germany GmbH, Airship France SAS, Airship Business France SAS, and Urban Airship India Private Ltd. (collectively, “Airship,” “we” or “us”) offers mobile and customer engagement platforms through the Airship Service, the Apptimize Service and the Gummicube ASO Services, (collectively referred to as the “Airship Platform”). Airship is committed to protecting the privacy of Personal Information you provide to us, and applies the Privacy by Design and Data Protection by Default principles across our Airship Platform product enhancement, development, and operations.
 
 When referring to “Personal Information” in this Statement, we mean information that personally identifies (e.g. your name, email address, device information, IP Address) an individual or other data that relates to or could be reasonably linked to such information. Accordingly, Airship informs you via this privacy and information practices statement about our information practices, the kinds of information we collect, how we intend to use and share that information, and the rights you have with respect to the processing of such information by us, (“Privacy Statement”).
 
@@ -161,7 +145,7 @@ When referring to “Personal Information” in this Statement, we mean informat
 **1.1 Scope of this Privacy Statement**
 
 This Privacy Statement applies to Personal Information that we collect when you: (i) visit websites we operate and that link to this Privacy Statement, including [www.airship.com](https://www.airship.com/), [https://www.airship.com/de/home/](https://www.airship.com/de/home/), [www.airship.com/fr/](https://www.airship.com/fr/), [https://go.airship.com/accounts/register/plan/starter/](https://go.airship.com/accounts/register/plan/starter/),  
-[https://go.airship.com/accounts/login/](https://go.airship.com/accounts/login/), [www.gummicube.com](https://www.gummicube.com/), and [www.apptimize.com](https://www.apptimize.com/) (the “Sites”); (ii) use our training and testing versions of the Airship Platform for mobile or software applications, mobile wallet passes, or any other software applications made available by us for use on or through computers and mobile devices that link to this Privacy Statement; (iii) download or otherwise engage with content and publications such as viewing videos, reading content our Site, interact with our chat bot, or visit our branded social media pages; (iv) visit our offices; (v) receive communications from us, including emails, phone calls or texts; (vi) register for, attend and/or otherwise take part in our events, webinars or contests; (vii) participate in recorded meetings; (viii) submit a job application to us; (ix) submit information to us in connection with a potential business relationship with us; (x) register to use the Airship Platform as an authorized user (for example, as an employee of one of our customers who provided you with login access to the Airship Platform) (which is referred to in this Statement as “Account Information”); (xi) contact us for support or information; or (xii) work at partners or suppliers of Airship and interact with Airship in the course of doing business or contemplating a potential business relationship with us. This Privacy Statement also applies to our recruitment practices. However, for California job candidates and Airship employees, then [Airship’s California Employee Privacy Notice](https://www.airship.com/legal/california-employee-and-candidate-privacy-notice/) applies to you and describes how we collect and use Personal Information about you during and after candidacy, job application, and your employment with us. In addition, for Singapore job candidates and Airship employees, [Airship’s Singapore Job Applicant and Employee Data Protection Policy](https://www.airship.com/legal/singapore-job-applicant-and-employee-data-protection-policy/) applies to you and describes how we collect and use Personal Information about you during and after candidacy, job application, and your employment with us. In this Privacy Statement, the terms Sites and Airship Platform collectively are referred to as the “Services”. “You” refers to any individual who visits or uses the Services.
+[https://go.airship.com/accounts/login/](https://go.airship.com/accounts/login/), [www.gummicube.com](https://www.gummicube.com/), and [www.apptimize.com](https://www.apptimize.com/) (the “Sites”); (ii) use our training and testing versions of the Airship Platform for mobile or software applications, mobile wallet passes, or any other software applications made available by us for use on or through computers and mobile devices that link to this Privacy Statement; (iii) download or otherwise engage with content and publications such as viewing videos, reading content our Site, interact with our chat bot, or visit our branded social media pages; (iv) visit our offices; (v) receive communications from us, including emails, phone calls or texts; (vi) register for, attend and/or otherwise take part in our events, webinars or contests; (vii) participate in recorded meetings; (viii) submit a job application to us; (ix) submit information to us in connection with a potential business relationship with us; (x) register to use the Airship Platform as an authorized user (for example, as an employee of one of our customers who provided you with login access to the Airship Platform) (which is referred to in this Statement as “Account Information”); (xi) contact us for support or information; or (xii) work at partners or suppliers of Airship and interact with Airship in the course of doing business or contemplating a potential business relationship with us. This Privacy Statement also applies to our recruitment practices. However, for California job candidates and Airship employees, then [Airship’s California Employee Privacy Notice](https://www.airship.com/legal/california-employee-and-candidate-privacy-notice/) applies to you and describes how we collect and use Personal Information about you during and after candidacy, job application, and your employment with us. In this Privacy Statement, the terms Sites and Airship Platform collectively are referred to as the “Services”. “You” refers to any individual who visits or uses the Services.
 
 **1.2 Controller for processing within the scope of this Privacy Statement**
 
@@ -225,7 +209,7 @@ In the following, we set out our own processing activities regarding your visit 
 
 **Visiting our offices.** If you visit our offices, you are required to register as a visitor and provide your name, email address, phone number, company name and time and date of arrival.
 
-**Employment applications.** We collect your Personal Information from you such as name, email address, phone number, mailing address, job title, CV/resume and work history, education, interests, professional references, and information regarding your engagement with Airship content and other publications, communications that we exchange with you through online web portals, emails, our chat features, or social media when you request information about our job posting, apply for a job or engage with a job posting, or otherwise communicate with us. For more information specific as to Personal Information we collect and process about California job candidates and Airship employees, please refer to our [Job Applicant](https://www.airship.com/legal/california-employee-and-candidate-privacy-notice/) and [Employee Privacy Notice for California Residents](https://www.airship.com/legal/california-employee-and-candidate-privacy-notice/) which applies to all California residents who are either job applicants, candidates, or current and former employees of Airship. Furthermore, for information specific as to Personal Information we collect and process about Singapore job candidates and Airship employees, please refer to our [Singapore Job Applicant and Employee Data Protection Policy](https://www.airship.com/legal/singapore-job-applicant-and-employee-data-protection-policy/) which applies to all Singapore residents who are either job applicants, candidates, or current and former employees of Airship.
+**Employment applications.** We collect your Personal Information from you such as name, email address, phone number, mailing address, job title, CV/resume and work history, education, interests, professional references, and information regarding your engagement with Airship content and other publications, communications that we exchange with you through online web portals, emails, our chat features, or social media when you request information about our job posting, apply for a job or engage with a job posting, or otherwise communicate with us. For more information specific as to Personal Information we collect and process about California job candidates and Airship employees, please refer to our [Job Applicant](https://www.airship.com/legal/california-employee-and-candidate-privacy-notice/) and [Employee Privacy Notice for California Residents](https://www.airship.com/legal/california-employee-and-candidate-privacy-notice/) which applies to all California residents who are either job applicants, candidates, or current and former employees of Airship.
 
 **2.2 Personal Information collected from others.**
 
@@ -278,8 +262,6 @@ Legal bases for our use of your Personal Information under applicable data prote
 * Compliance with a legal obligation when we use your Personal Information to comply with laws, including local labor and employment laws.
 
 For California residents, more information specific as to Personal Information we collect and process about California job candidates and Airship employees is available in our Job Applicant and Employee Privacy Notice for California Residents which applies to all California residents who are either job applicants, candidates, or current and former employees of Airship.
-
-For Singapore residents, more information specific as to Personal Information we collect and process about Singapore job candidates and Airship employees is available in our [Singapore Job Applicant and Employee Data Protection Policy](https://www.airship.com/legal/singapore-job-applicant-and-employee-data-protection-policy/) which applies to all Singapore residents who are either job applicants, candidates, or current and former employees of Airship.
 
 **3.6 Public content.** If you post any content to our website forums or social media accounts, we publish this content and make it generally available to any user or visitor of our website or Company Social Media Webpages.  
 Legal bases for our use of your Personal Information under applicable data protection laws are:
@@ -369,7 +351,7 @@ We use chat technologies provided by third-party service providers that employ c
 
 **6\. International data transfers.**
 
-We store Personal Information sent or collected via or by us in the United States or the European Economic Area, in the cloud, our servers, the servers of our affiliates or the servers of our service providers. To facilitate our global operations, we may transfer, store and access such information from the locations where Airship has operations – specifically the United States, France, Germany, the United Kingdom, Singapore, or India. Your Personal Information may be processed in any of these countries, and they may have data protection laws that are different or that may not provide the same level of data protection as your country. In the event of data transfers outside of the European Economic Area, the United Kingdom, Switzerland, or Singapore among Airship affiliates, and with our service providers and data processors , we rely on international transfer mechanisms such as the European Commission approved Standard Contractual Clauses, as described in Section 7 below (EU-US Data Privacy Framework (“EU-U.S. DPF”), UK Extension to the EU-U.S. DPF, and Swiss-US Data Privacy Framework (“Swiss-U.S. DPF”), adequacy decisions about certain countries, or we will ask you for your prior consent for the transfer of your Personal Information, as applicable. In addition, we ensure the recipient of your Personal Information has in place adequate levels of protection for your Personal Information.
+We store Personal Information sent or collected via or by us in the United States or the European Economic Area, in the cloud, our servers, the servers of our affiliates or the servers of our service providers. To facilitate our global operations, we may transfer, store and access such information from the locations where Airship has operations – specifically the United States, France, Germany, the United Kingdom, Singapore, or India. Your Personal Information may be processed in any of these countries, and they may have data protection laws that are different or that may not provide the same level of data protection as your country. In the event of data transfers outside of the European Economic Area among Airship affiliates, and with our service providers and data processors , we rely on international transfer mechanisms such as the European Commission approved Standard Contractual Clauses, adequacy decisions about certain countries, or we will ask you for your prior consent for the transfer of your Personal Information, as applicable. In addition, we ensure the recipient of your Personal Information has in place adequate levels of protection for your Personal Information.
 
 When you visit one of our Company Social Media Webpages on a social media platform as described in Section 2.1 (2.1 Personal Information we collect directly. Social Media Content.) above, Personal Information may be transferred to providers in countries outside the European Economic Area, which, from the perspective of the European Union (“EU”), do not ensure an “adequate level of protection” for the processing of Personal Information in line with EU standards. Please bear this in mind before clicking on a link or visiting directly a Company Social Media Webpage and thereby triggering a transfer of your data.
 
@@ -413,8 +395,6 @@ You have certain choices available to you when it comes to your Personal Informa
 
 California residents and customers with business in the State of California may read our supplemental [California Privacy Rights Notice](https://www.airship.com/legal/california-privacy-rights-notice/).
 
-Singapore job applicants and employees of Airship Global Pte. Ltd. may read our supplemental [Singapore Job Applicant and Employee Data Protection Policy](https://www.airship.com/legal/singapore-job-applicant-and-employee-data-protection-policy/).
-
 **Opt-out.** Where you have consented to our processing of your Personal Information, you may withdraw that consent at any time and opt out by following the instructions in this Section 11. Additionally, before we use Personal Information for any new purpose not originally authorized by you, we will provide information regarding the new purpose and give you the opportunity to opt in to the new purpose. Where your consent for the processing of Personal Information is otherwise required by law or contract, we will comply with the applicable law or contract. Note that, due to the nature of the Services you may have to log in to your account or provide the email and/or other identifying value or information that is associated with your Personal Information in order for us to be able to complete your request. Note that if you withdraw your consent to processing, some features of the Services may not be available.
 
 **Email unsubscribe.** An “Unsubscribe” link will be provided in each email communication sent by us so that you can opt out. However, we may continue to send non-promotional, transaction-related emails in response to your request regarding any products or services of the Airship Platform you have requested. We may also need to send you certain important business communications related to your current relationship with us, such as communications regarding updates to our Terms of Use or this Privacy Statement, service announcements or security information, and you will not be able to opt out of those communications.
@@ -427,7 +407,7 @@ Please note you must separately opt out in each browser and on each device. Adve
 
 Access, correct, amend, port, restrict processing, or delete Personal Information. You have the right to control or change certain uses and disclosures of your Personal Information, as set out in this Privacy Statement. Subject to any exemptions provided by law, you have the right to: seek confirmation regarding whether we are processing Personal Information about you; request access to Personal Information; request to know more details about the categories or specific pieces of Personal Information we collect; to ask that we correct, update, amend or delete your Personal Information; to ask that we do not sell your Personal Information (where “sale” is defined according to the local regulations in your state of residency); and to not be discriminated against for exercising these rights. Please note that we do not currently sell your Personal Information as “sales” are defined under the laws of Nevada or California, as further detailed below in the sections dedicated to those locations. We will respond to such requests within a reasonable timeframe. California residents and customers with business in the State of California may read our supplemental [California Privacy Rights Notice](https://www.airship.com/legal/california-privacy-rights-notice/) for information in addition to and as a complement to the rights listed here as to your rights under the California privacy laws.
 
-You may email [privacy@airship.com](mailto:privacy@airship.com) to exercise one of the individual rights outlined above with regard to Personal Information held about you by us. Such requests will be processed in accordance with local laws. We will respond to such requests within a reasonable timeframe. Although we make good faith efforts to provide individuals with access to their Personal Information, there may be circumstances in which we are unable to provide access, including but not limited to: where the information contains legal privilege, would compromise others’ privacy or other legitimate rights, where the burden or expense of providing access would be disproportionate to the risks to the individual’s privacy in the case in question, or where it is commercially proprietary. If we determine that access should be restricted in any particular instance, we will provide you with an explanation of why that determination has been made and a contact point for any further inquiries. To protect your privacy, we will take commercially reasonable steps to verify your identity before granting access to or making any changes to your Personal Information. In addition, please note that we may need to retain certain information for record keeping purposes, to complete transactions or to comply with our legal obligations. We will not discriminate against you for exercising your rights under the GDPR, CCPA, the Singapore Personal Data Protection Act 2012  or other applicable data privacy laws or regulations.
+You may email [privacy@airship.com](mailto:privacy@airship.com) to exercise one of the individual rights outlined above with regard to Personal Information held about you by us. Such requests will be processed in accordance with local laws. We will respond to such requests within a reasonable timeframe. Although we make good faith efforts to provide individuals with access to their Personal Information, there may be circumstances in which we are unable to provide access, including but not limited to: where the information contains legal privilege, would compromise others’ privacy or other legitimate rights, where the burden or expense of providing access would be disproportionate to the risks to the individual’s privacy in the case in question, or where it is commercially proprietary. If we determine that access should be restricted in any particular instance, we will provide you with an explanation of why that determination has been made and a contact point for any further inquiries. To protect your privacy, we will take commercially reasonable steps to verify your identity before granting access to or making any changes to your Personal Information. In addition, please note that we may need to retain certain information for record keeping purposes, to complete transactions or to comply with our legal obligations. We will not discriminate against you for exercising your rights under the GDPR, CCPA or other applicable data privacy laws or regulations.
 
 **EU residents.** If you are located in the European Economic Area or the UK, in addition and as a complement to the rights mentioned above, you also have the following rights:
 
@@ -455,8 +435,6 @@ By submitting your Personal Information via the form on the Sites, you confirm t
 **Colorado residents.** If you are a resident of Colorado, you have the right to: opt out of the processing of Personal Information; seek confirmation regarding whether we are processing Personal Information about you; request access to Personal Information; request deletion of Personal Information; request correction of inaccuracies in your Personal Information; opt out of processing of your Personal Information for purposes of targeted advertising, the sale of personal data, or profiling in furtherance of decisions that produce legal or similarly significant effects concerning the consumer; or obtain and transfer your Personal Information. You can exercise these rights by contacting us at [privacy@airship.com](mailto:privacy@airship.com) with the subject line “Colorado Data Rights Request” and providing us with your name and the email address associated with your account.
 
 **Nevada residents.** If you are a resident of Nevada, you have the right to: opt out of the processing of Personal Information; opt-out of the sale of certain Personal Information to third parties who intend to license or sell that Personal Information; or request correction of inaccuracies in your Personal Information. You can exercise these rights by contacting us at [privacy@airship.com](mailto:privacy@airship.com) with the subject line “Nevada Data Rights Request” and providing us with your name and the email address associated with your account. Please note that we do not currently sell your Personal Information as sales are defined in Nevada Revised Statutes Chapter 603A.
-
-**Singapore residents.** If you are a job applicant or employee located in Singapore, you have the rights as described in the [Singapore Job Applicant and Employee Data Protection Policy](https://www.airship.com/legal/singapore-job-applicant-and-employee-data-protection-policy/).  You may exercise these rights by contacting us at privacy@airship.com.
 
 **Virginia residents.** If you are a resident of Virginia, you have the right to: seek confirmation regarding whether we are processing Personal Information about you; request access to Personal Information; request corrections of inaccuracies in your Personal Information; request deletion of Personal Information; or to opt out of processing of your Personal Information for purposes of targeted advertising, the sale of personal data, or profiling in furtherance of decisions that produce legal or similarly significant effects concerning the consumer. Please note that we do not currently sell your Personal Information or engage in profiling as those terms are defined in the Virginia Data Consumer Protection Act. You can exercise these rights by contacting us at [privacy@airship.com](mailto:privacy@airship.com) with the subject line “Virginia Data Rights Request” and providing us with your name and the email address associated with your account.
 
