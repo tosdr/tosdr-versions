@@ -31,7 +31,6 @@
     * [Action](https://www.bluestacks.com/apps/action.html)
     * [Role Playing](https://www.bluestacks.com/apps/role-playing.html)
     * [Strategy](https://www.bluestacks.com/apps/strategy.html)
-    * [Gamepad & Controller](https://www.bluestacks.com/apps/gamepad-controller.html)
     * [Adventure](https://www.bluestacks.com/apps/adventure.html)
     * [Arcade](https://www.bluestacks.com/apps/arcade.html)
     * [Card](https://www.bluestacks.com/apps/card.html)
@@ -102,8 +101,6 @@ These Terms of Use (the “Terms”) are a binding contract between you and now.
 [Do I have to grant consent to BlueStacks to communicate with me?](#have)
 
 [Contests and Sweepstakes](#contests)
-
-[What are Nowbux?](#nowbux)
 
 [Do I have to grant any licenses to BlueStacks or to other users?](#grant)
 
@@ -188,34 +185,6 @@ You acknowledge that our collection, use, and sharing of your information is sub
 ----------------------------
 
 We sometimes run contests and sweepstakes on our Services. The official rules for any contest or sweepstakes will be published on the site where you may enter such contest or sweepstakes. Current contest and sweepstakes official rules can be found at [\[LINK\]](https://www.bluestacks.com/terms-and-privacy/rules.html)
-
-**What are Nowbux?**
---------------------
-
-Nowbux are points which are usable in the Services which may be redeemed for items such as gift cards and to make IAP’s within certain applications. Nowbux may be purchased or may also be received from participation in various promotions.
-
-* ### Purchased Nowbux
-    
-    You may purchase Nowbux through the BlueStacks Store.  Nowbux you purchase will be credited to your account within 24 hours. The value that you paid in the local currency for your Nowbux is a prepayment only for the redemption of IAPs or gift cards available for redemption on our platform via the Services. No credit card, credit line, overdraft protection or deposit account is associated with your Nowbux account.  No interest, dividends or any other earnings on funds deposited in your account for Nowbux will accrue or be paid or credited to you by BlueStacks. The value associated with your Nowbux is not insured and cannot be redeemed for cash or cash equivalents.
-    
-* ### Free Nowbux
-    
-    We may offer promotions to reward our users with free Nowbux. Any promotions will be governed by the rules on promotion page.  Such Nowbux are not cash or a cash equivalent and cannot be redeemed for cash or cash equivalents.
-    
-    You may not transfer any Nowbux to another individual or account in any fashion.
-    
-
-**Purchase of Nowbux**
-----------------------
-
-You can pay for Nowbux by using a payment method accepted at the BlueStacks checkout. We reserve the right to submit your transaction or redemption history as evidence of funds being used to the disputing bank, in the event you dispute or attempt to chargeback any charge for the Nowbux with your bank or card provider. Holders of any Nowbux are not sent statements of itemized transactions from us. You can check the balance of your Nowbux through the Services. We reserve the right not to accept or otherwise limit use of any Nowbux if we reasonably believe that the use is unauthorized, fraudulent or otherwise unlawful.
-
-**No Refund or Cancellation of Nowbux Purchases**
--------------------------------------------------
-
-All purchases of Nowbux are non-refundable and are non-cancellable once purchased.
-
-We do not charge any fees for the opening, activation or use of your Nowbux account. The value in your purchased Nowbux account has no expiration date. Please note, however, that if you have not redeemed the value in your Nowbux for a certain period of time after such value was added, applicable law may require us to remit such value to the state in which the purchasing user was or is located, or the state in which BlueStacks is incorporated. This time period will vary from state to state; it may be as short as one year. Accordingly, please remember to use your purchased Nowbux in a timely manner. You release us from any liability in connection with its compliance with laws applicable in this regard.
 
 **Do I have to grant any licenses to BlueStacks or to other users?**
 --------------------------------------------------------------------
@@ -764,9 +733,9 @@ Unlock your PC's gaming potential. And yours too.
     
     [YouTube
     
-    127K](https://www.youtube.com/channel/UC9eB0Ysv4UcKgjEy47zcZ5A?sub_confirmation=1)
+    125K](https://www.youtube.com/channel/UC9eB0Ysv4UcKgjEy47zcZ5A?sub_confirmation=1)
     
 
 © 2024 BlueStacks name and logo are registered trademarks of now.gg, inc
 
-[Terms and Privacy](https://www.bluestacks.com/terms-and-privacy.html) | [Copyright Dispute Policy](https://www.bluestacks.com/copyright-dispute-policy.html) | [EU Privacy](https://www.bluestacks.com/terms-and-privacy.html#eu-privacy) | Do Not Sell My Information
+[Terms and Privacy](https://www.bluestacks.com/terms-and-privacy.html) | [Copyright Dispute Policy](https://www.bluestacks.com/copyright-dispute-policy.html) | [EU Privacy](https://www.bluestacks.com/terms-and-privacy.html#eu-privacy)
