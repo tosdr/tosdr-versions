@@ -105,10 +105,6 @@ Additionally, we work with external data processors, to which we provide certain
 
 [Click here](https://admixer.com/privacy/our-partners/) to find a list of these service providers.
 
-We may share personal data or other information that we collect from you, such as your IP address, and/or information about your browser or operating system with ID5 and its group companies, acting as controllers. ID5 uses this information to create an ID for the purpose of recognizing you on your devices. This ID does not contain any of your identifiable personal data. We may place this ID in our first-party cookie or use an ID5 cookie and allow it to be used for online and cross-channel advertising. This ID may be shared by us or on our behalf with our advertising partners and other third-party advertising companies globally for the purpose of enabling interest-based content and/or targeted advertising throughout your online experience (e.g. web, email, connected devices, in-app, etc). Detailed information on ID5’s data processing activities in connection with this ID and ID5’s opt-out is available in ID5’s platform privacy policy here: [https://id5.io/platform-privacy-policy](https://id5.io/platform-privacy-policy).
-
-You have the right to withdraw your consent or opt-out of the processing of your personal data at any time.
-
 **Children’s Information**
 
 We do not aim any of our products or services directly at children under the age of 13, and we do not knowingly collect personal data about children under 13.
