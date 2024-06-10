@@ -52,7 +52,7 @@ Article Info
 | Last Updated | June 7, 2024 |
 | Full URL | https://religionfacts.com/privacy |
 | Short URL | https://rlft.co/1879 |
-| MLA Citation | “Privacy Policy.” _ReligionFacts._ 3 Oct 2013, https://religionfacts.com/privacy. Accessed 8 Jun 2024. |
+| MLA Citation | “Privacy Policy.” _ReligionFacts._ 3 Oct 2013, https://religionfacts.com/privacy. Accessed 10 Jun 2024. |
 | Embed Link | <a href="https://religionfacts.com/privacy">Privacy Policy</a> — ReligionFacts |
 
 © 2004-2024 [ReligionFacts](https://religionfacts.com/). All rights reserved.
@@ -64,7 +64,5 @@ We are not associated with any religion or organization.
 [Definitions of Religion](https://religionfacts.com/religion) · [List of Religions](https://religionfacts.com/religions) · [Big Religion Chart](https://religionfacts.com/big-religion-chart)
 
 [About Us](https://religionfacts.com/about) · [Privacy Policy](https://religionfacts.com/privacy)
-
- 
 
 ![](https://queue.simpleanalyticscdn.com/noscript.gif)
