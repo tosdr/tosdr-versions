@@ -1,6 +1,8 @@
-[☀️ Extreme Heat Summer Safety Week
+[Best-Selling 3-Month Kit + 2 FREE 72-Hour Kits! >>
 
-Prepare Now >>](https://4patriots.com/collections/summer-heatwave-preparedness?tab=products&page=2?position=announcementbar&collection=summersafety)
+(USA Lower 48)](https://products.4patriots.com/food/3month/back-in-stock?afid=mkt&aff_sub=20240412_cam_4p_ecom_announce_3mo&utm_campaign=mkt_ecom_3mo_announce_20240412&utm_medium=ecom&utm_source=cam&utm_content=announce&utm_term=4p&position=announce&product=3mo-nsp)[NEW Ultimate Gift Guide Deployed >>
+
+(USA Lower 48)](https://products.4patriots.com/food/3month/back-in-stock?afid=mkt&aff_sub=20240412_cam_4p_ecom_announce_3mo&utm_campaign=mkt_ecom_3mo_announce_20240412&utm_medium=ecom&utm_source=cam&utm_content=announce&utm_term=4p&position=announce&product=3mo-nsp)
 
 [![Black company logo](//4patriots.com/cdn/shop/files/4Pats_Logo_300x.png?v=1631246972)![White company logo](//4patriots.com/cdn/shop/files/4Pats_Logo_300x.png?v=1631246972)](https://4patriots.com/)
 
@@ -17,61 +19,61 @@ We Champion Freedom & Self-Reliance
     
     Best Sellers
     
-    * [Extreme Heat Summer Safety Essentials](https://4patriots.com/collections/summer-heatwave-preparedness)
-    * [$500.00 OFF Super-Charged Bundle](https://4patriots.com/products/super-charged-solar-generator-bundle)
+    * [Spring Storm Emergency Essentials](https://4patriots.com/collections/seasonal)
     * [Patriot Power Generator 2000X](https://4patriots.com/products/patriot-power-generator-2000x)
     * [3-Month Survival Food Kit](https://4patriots.com/products/3-month-survival-food-kit)
     * [1-Year Survival Food Kit](https://4patriots.com/products/1-year-survival-food-kit-1)
-    * [Ultimate Water Filtration System](https://4patriots.com/products/patriot-pure-ultimate-water-filtration-system)
+    * [Patriot Pure Ultimate Water Filtration System](https://4patriots.com/products/patriot-pure-ultimate-water-filtration-system)
     * [Patriot Power Cell-CX](https://4patriots.com/products/patriot-power-cell)
     * [Patriot Power Generator 1800](https://4patriots.com/products/patriot-power-generator-1800)
     * [Patriot Power Sidekick](https://4patriots.com/products/patriot-power-sidekick)
-    * [Hurricane Emergency Preparation](https://4patriots.com/collections/hurricane-emergency-preparation)
     * [Shop All Best-Sellers](https://4patriots.com/collections/best-sellers)
     
-    * [![ Super-Charged Solar Generator Bundle](//4patriots.com/cdn/shop/files/BUNDLE-BLITZ-PPGS-WHITE-BACKGROUND-1024x1024_360x.png?v=1716578922)
-        
-        ###### Super-Charged Solar Generator Bundle
-        
-        684 reviews](https://4patriots.com/products/super-charged-solar-generator-bundle)
-        
-        [![ Patriot Power Generator 2000K as seen on Fox and Friends.](//4patriots.com/cdn/shop/files/ARRAY-PPG-2KX-NEW-FOX-FRIENDS-1024x1024_360x.png?v=1689169558)
+    * [![ Patriot Power Generator 2000K as seen on Fox and Friends.](//4patriots.com/cdn/shop/files/ARRAY-PPG-2KX-NEW-FOX-FRIENDS-1024x1024_360x.png?v=1689169558)
         
         ###### Patriot Power Generator 2000X
         
-        65 reviews](https://4patriots.com/products/patriot-power-generator-2000x)
+        75 reviews](https://4patriots.com/products/patriot-power-generator-2000x)
         
-        [![ 4Patriots 3-Month Survival Food Kit shown with all pouches.](//4patriots.com/cdn/shop/files/3MO-ECOM-SQUARE-ARRAY-3MO_360x.jpg?v=1716224921)
+        [![ 4Patriots 3-Month Survival Food Kit shown with all pouches.](//4patriots.com/cdn/shop/files/ARRAY-3MO-NO-BONUSES_360x.png?v=1710783675)
         
         ###### 3-Month Survival Food Kit
         
-        3273 reviews](https://4patriots.com/products/3-month-survival-food-kit)
+        3264 reviews](https://4patriots.com/products/3-month-survival-food-kit)
+        
+        [![ Patriot Power Cell CX 1 pack. View of the front and back with the light on.](//4patriots.com/cdn/shop/files/STORE-ARRAY-PPC-CX-1PACK-WB-1024-one_1_360x.png?v=1688064568)
+        
+        ###### Portable Power Station - Patriot Power Cell CX
+        
+        1619 reviews](https://4patriots.com/products/patriot-power-cell)
         
     
 * [New Arrivals](https://4patriots.com/collections/newly-added)
     
     New Arrivals
     
-    * [ChillZone Portable AC](https://4patriots.com/products/chillzone-portable-ac)
     * [Ultimate Portable Power Station Package](https://4patriots.com/products/ultimate-portable-power-station-package-2-solar-panels)
+    * [2023 Best Bug-Out Kit](https://4patriots.com/products/patriot-power-all-in-1-emergency-car-kit)
     * [3-Month Survival Food Kit PlatinumXL](https://4patriots.com/products/3-month-platinum-survival-food-kit)
-    * [Patriot Power Generator 2000X](https://4patriots.com/products/patriot-power-generator-2000x)
     * [Real Meat Kits](https://4patriots.com/collections/jumbo-meat-kits)
+    * [Patriot Power Generator 2000X](https://4patriots.com/products/patriot-power-generator-2000x)
     * [Patriot Pure Nanomesh™ Water Filter](https://4patriots.com/products/patriot-pure-nanomesh-water-filter)
-    * [Patriot Pure Air Purification System](https://4patriots.com/products/patriot-pure-air-advanced-purification-system)
+    * [Patriot Pure Air Advanced Purification System](https://4patriots.com/products/patriot-pure-air-advanced-purification-system)
     * [Shop All New Arrivals](https://4patriots.com/collections/newly-added)
     
-    * [![ 4Patriots ChillZone Portable AC unit.](//4patriots.com/cdn/shop/files/PACARRAY_360x.png?v=1716391937)
-        
-        ###### ChillZone Portable AC](https://4patriots.com/products/chillzone-portable-ac)
-        
-        [![ Ultimate Portable Power Station Package + 2 Solar Panels](//4patriots.com/cdn/shop/files/PPGS-X-ARRAY-NO-BURST-647x647_360x.jpg?v=1709311383)
+    * [![ Ultimate Portable Power Station Package + 2 Solar Panels](//4patriots.com/cdn/shop/files/PPGS-X-ARRAY-NO-BURST-647x647_360x.jpg?v=1709311383)
         
         ###### Ultimate Portable Power Station Package + 2 Solar Panels
         
-        5 reviews](https://4patriots.com/products/ultimate-portable-power-station-package-2-solar-panels)
+        3 reviews](https://4patriots.com/products/ultimate-portable-power-station-package-2-solar-panels)
         
-        [![ 4Patriots 3-Month PlatinumXL Survival Food Kit shown with all pouches.](//4patriots.com/cdn/shop/files/ARRAY-3MO-PLAT-1024x1024_360x.png?v=1716225013)
+        [![ The Ultimate Car Safety Kit. Power, Food & Safety All-In-1. Array of Patriot Power All-in-1 Emergency Car Kit with bonuses.](//4patriots.com/cdn/shop/files/1-CAROUSEL-ARRAY-CAR-ALL-BONUSES-1024x1024-_1_360x.png?v=1694097325)
+        
+        ###### Patriot Power All-in-1 Emergency Car Kit
+        
+        6 reviews](https://4patriots.com/products/patriot-power-all-in-1-emergency-car-kit)
+        
+        [![ 4Patriots 3-Month PlatinumXL Survival Food Kit shown with all pouches.](//4patriots.com/cdn/shop/files/plat_360x.png?v=1708117416)
         
         ###### 3-Month Survival Food Kit PlatinumXL
         
@@ -88,26 +90,24 @@ We Champion Freedom & Self-Reliance
     * [Specialty Survival Food Kits](https://4patriots.com/collections/specialty-survival-food)
     * [Meat & Protein Survival Food Kits](https://4patriots.com/collections/meats-protein)
     * [Fruit & Veggies Survival Food Kits](https://4patriots.com/collections/fruits-veggies-survival-food)
-    * [Survival Food Kit Bundles](https://4patriots.com/collections/emergency-survival-food-bundles-deals)
+    * [Survival Food Kit Bundles](https://4patriots.com/collections/survival-kits-and-sets?page=1&rb_product_type=Emergency%20Food%20Kits%7CEmergency%20Tools%20%26%20Kits)
     * [Shop All Survival Food Kits](https://4patriots.com/collections/food)
     
     * [![ 4Patriots Gold Medallion All-Meat Survival Food Kit.](//4patriots.com/cdn/shop/products/ARRAY-MEA1-WHITE-BG_360x.png?v=1670943255)
         
         ###### Gold Medallion All-Meat Survival Food Kit
         
-        137 reviews](https://4patriots.com/products/gold-medallion-all-meat-survival-food-kit)
+        136 reviews](https://4patriots.com/products/gold-medallion-all-meat-survival-food-kit)
         
-        [![ 4Patriots 3-Month Survival Food Kit shown with all pouches.](//4patriots.com/cdn/shop/files/3MO-ECOM-SQUARE-ARRAY-3MO_360x.jpg?v=1716224921)
+        [![ 4Patriots 3-Month Survival Food Kit shown with all pouches.](//4patriots.com/cdn/shop/files/ARRAY-3MO-NO-BONUSES_360x.png?v=1710783675)
         
         ###### 3-Month Survival Food Kit
         
-        3273 reviews](https://4patriots.com/products/3-month-survival-food-kit)
+        3264 reviews](https://4patriots.com/products/3-month-survival-food-kit)
         
-        [![ 4Patriots 4-Week Survival Food Kits individual pouches. 196 servings.](//4patriots.com/cdn/shop/products/4WK-ARRAY-192-SERVINGS-WHITE_360x.png?v=1680541659)
+        [![ New! Gluten-Free #10 Can Survival Food Variety Pack with 245 servings](//4patriots.com/cdn/shop/files/S-SHOP-GLU6-BURST-ARRAY-CAN-GLU6-NEW-1024x1024_360x.png?v=1698257567)
         
-        ###### 4-Week Survival Food Kit
-        
-        1016 reviews](https://4patriots.com/products/4-week-survival-food-kit)
+        ###### Gluten-Free #10 Can Survival Food Variety Pack](https://4patriots.com/products/gluten-free-10-can-survival-food-variety-pack)
         
     
 * [Power & Solar](https://4patriots.com/collections/power-solar)
@@ -126,19 +126,19 @@ We Champion Freedom & Self-Reliance
         
         ###### Patriot Power Generator 2000X
         
-        65 reviews](https://4patriots.com/products/patriot-power-generator-2000x)
+        75 reviews](https://4patriots.com/products/patriot-power-generator-2000x)
         
         [![ Patriot Power Cell CX 1 pack. View of the front and back with the light on.](//4patriots.com/cdn/shop/files/STORE-ARRAY-PPC-CX-1PACK-WB-1024-one_1_360x.png?v=1688064568)
         
         ###### Portable Power Station - Patriot Power Cell CX
         
-        1631 reviews](https://4patriots.com/products/patriot-power-cell)
+        1619 reviews](https://4patriots.com/products/patriot-power-cell)
         
         [![ HaloXT Tactical Solar Flashlight 1 pack as featured on fox & friends](//4patriots.com/cdn/shop/products/HXT-1PACK-STOREFRONT-ARRAY_360x.jpg?v=1706224939)
         
         ###### HaloXT Tactical Solar Flashlight
         
-        559 reviews](https://4patriots.com/products/haloxt-tactical-solar-flashlights)
+        556 reviews](https://4patriots.com/products/haloxt-tactical-solar-flashlights)
         
     
 * [Water](https://4patriots.com/collections/water)
@@ -148,7 +148,6 @@ We Champion Freedom & Self-Reliance
     * [Water Filtration Systems](https://4patriots.com/collections/water-filtration-systems)
     * [Replacement Water Filters](https://4patriots.com/collections/water-filters)
     * [Water Storage](https://4patriots.com/collections/water-storage)
-    * [Emergency Drinking Water Case](https://4patriots.com/products/4patriots-emergency-drinking-water)
     * [Shop All Water](https://4patriots.com/collections/water)
     
     * [![ Patriot Pure Outdoor Filtration System is made in the USA. As seen on Fox and Friends.](//4patriots.com/cdn/shop/files/ARRAY-OFC-NO-BONUSES-FOX-FRIENDS_360x.png?v=1689248740)
@@ -161,13 +160,13 @@ We Champion Freedom & Self-Reliance
         
         ###### Patriot Pure Ultimate Water Filtration System
         
-        205 reviews](https://4patriots.com/products/patriot-pure-ultimate-water-filtration-system)
+        186 reviews](https://4patriots.com/products/patriot-pure-ultimate-water-filtration-system)
         
         [![ 1 Patriot Pure Nanomesh Water Filter](//4patriots.com/cdn/shop/files/1-PS-ARRAY-SHOP-ARRAY-NAN-_24x1024_1_360x.png?v=1694450490)
         
         ###### Patriot Pure Nanomesh™ Water Filter
         
-        26 reviews](https://4patriots.com/products/patriot-pure-nanomesh-water-filter)
+        18 reviews](https://4patriots.com/products/patriot-pure-nanomesh-water-filter)
         
     
 * [RV & Camping](https://4patriots.com/collections/camping-outdoor)
@@ -179,96 +178,91 @@ We Champion Freedom & Self-Reliance
     * [Hydration](https://4patriots.com/collections/water)
     * [Food & Snacks](https://4patriots.com/collections/camp-food)
     * [Survival Guides](https://4patriots.com/collections/survival-books)
-    * [Camping & Outdoor Gear](https://4patriots.com/collections/camping-outdoor-gear)
+    * [Camp & Outdoor Gear](https://4patriots.com/collections/camping-outdoor-gear)
     * [Shop All RV & Camping](https://4patriots.com/collections/camping-outdoor)
     
     * [![ StarFire Camp Stove](//4patriots.com/cdn/shop/products/ARRAY-SFC-1024_360x.jpg?v=1667421213)
         
         ###### StarFire Camp Stove
         
-        83 reviews](https://4patriots.com/products/starfire-camp-stove)
+        81 reviews](https://4patriots.com/products/starfire-camp-stove)
         
-        [![ Freedom fridge](//4patriots.com/cdn/shop/products/FRIDGE-1_1_360x.jpg?v=1642003425)
+        [![ Solar Go-Fridge](//4patriots.com/cdn/shop/files/1-ARRAY-SGF-FAF-1024x1024-WB_360x.png?v=1686840760)
         
-        ###### Freedom Fridge
+        ###### Solar Go-Fridge
         
-        100 reviews](https://4patriots.com/products/freedom-fridge-1)
+        74 reviews](https://4patriots.com/products/solar-go-fridge)
         
-        [![ BugOUT Solar Lantern](//4patriots.com/cdn/shop/products/ARRAY-1BUG-1024x1024_360x.jpg?v=1664803167)
+        [![ New 4Patriots FlashFlame Weatherproof Fire-Starter. 50 Count!](//4patriots.com/cdn/shop/products/ARRAY-FFS-NEW-1024x1024-WHITE-BACKGROUND_360x.png?v=1674238427)
         
-        ###### BugOUT Solar Lantern
+        ###### FlashFlame Weatherproof Fire-Starter
         
-        148 reviews](https://4patriots.com/products/bugout-solar-lantern)
+        3 reviews](https://4patriots.com/products/4patriots-flashflame-weatherproof-fire-starter)
         
     
 * [Home & Health](https://4patriots.com/collections/home-garden)
     
     Home & Health
     
-    * [\[NEW\] ChillZone Portable AC](https://4patriots.com/products/chillzone-portable-ac)
-    * [Air Filtration & Cooling](https://4patriots.com/collections/air-filtration)
+    * [Air Filtration](https://4patriots.com/collections/air-filtration)
     * [Vitamins & Supplements](https://4patriots.com/collections/vitamins-supplements)
     * [Lighting & Batteries](https://4patriots.com/collections/lighting-batteries)
     * [Tools & Storage](https://4patriots.com/collections/tools-storage)
     * [Survival Seeds & Gardening](https://4patriots.com/collections/survival-seeds-1)
     * [Shop All Home, Health & Garden](https://4patriots.com/collections/home-garden)
     
-    * [![ 4Patriots ChillZone Portable AC unit.](//4patriots.com/cdn/shop/files/PACARRAY_360x.png?v=1716391937)
-        
-        ###### ChillZone Portable AC](https://4patriots.com/products/chillzone-portable-ac)
-        
-        [![ The brand-NEW 4Patriots Emergency Go-Tote array](//4patriots.com/cdn/shop/files/SHOPIFY-GOT-ARRAY-1024x1024_1_360x.png?v=1695653044)
+    * [![ The brand-NEW 4Patriots Emergency Go-Tote array](//4patriots.com/cdn/shop/files/SHOPIFY-GOT-ARRAY-1024x1024_1_360x.png?v=1695653044)
         
         ###### Emergency Go-Tote
         
-        3 reviews](https://4patriots.com/products/4patriots-emergency-go-tote)
+        2 reviews](https://4patriots.com/products/4patriots-emergency-go-tote)
         
         [![ Patriot Power Greens - 1Canister Double Size.](//4patriots.com/cdn/shop/products/ARRAY-PGR1-DS-1024x1024_360x.png?v=1681143255)
         
         ###### Patriot Power Greens - Double Size
         
-        32 reviews](https://4patriots.com/products/patriot-power-greens-1-double-size-can)
+        25 reviews](https://4patriots.com/products/patriot-power-greens-1-double-size-can)
+        
+        [![ 4Patriots CoyoteXT All-in-1 Tactical Shovel Kit](//4patriots.com/cdn/shop/files/ARRAY-CXT-FAF-1024x1024-WB_360x.jpg?v=1686872299)
+        
+        ###### 4Patriots CoyoteXT All-in-1 Tactical Shovel Kit
+        
+        16 reviews](https://4patriots.com/products/4patriots-coyotext-all-in-1-tactical-shovel-kit)
         
     
 * [Deals](https://4patriots.com/collections/deal-of-the-week)
     
     Deals
     
-    * [$500.00 OFF Super-Charged Bundle](https://4patriots.com/products/super-charged-solar-generator-bundle)
-    * [$100.00 OFF Ultimate Generator Bundle](https://4patriots.com/products/ultimate-portable-power-station-package-2-solar-panels)
-    * [$100.00 OFF Food & Fire Cooking Bundle](https://4patriots.com/products/food-fire-survival-cooking-bundle)
-    * [$50.00 OFF Emergency Car Kit](https://4patriots.com/products/patriot-power-all-in-1-emergency-car-kit)
-    * [FREE Patriot Power Greens](https://4patriots.com/products/patriot-power-greens-1-regular-size-can)
-    * [$20.00 Off - VIP Text Club](https://4patriots.com/pages/4pclub-subscribe-page)
     * [Buy 5, Get 1 Free Customizable Kits](https://4patriots.com/collections/custom-case-pack-builder)
+    * [$20 Off - VIP Text Club](https://4patriots.com/pages/4pclub-subscribe-page)
     * [Subscribe & Save](https://4patriots.com/collections/subscriptions)
     * [Last Chance](https://4patriots.com/collections/last-chance)
     * [Shop All Deals](https://4patriots.com/collections/deal-of-the-week)
     
-    * [![ Super-Charged Solar Generator Bundle](//4patriots.com/cdn/shop/files/BUNDLE-BLITZ-PPGS-WHITE-BACKGROUND-1024x1024_360x.png?v=1716578922)
+    * [![ Best-Selling Solar Generator + Survival Food as seen on FOX & Friends](//4patriots.com/cdn/shop/files/HEROPDP_360x.png?v=1693371396)
         
-        ###### Super-Charged Solar Generator Bundle
+        ###### Hero Bundle: Best-Selling Solar Generator + Survival Food
         
-        684 reviews](https://4patriots.com/products/super-charged-solar-generator-bundle)
+        676 reviews](https://4patriots.com/products/hero-bundle-best-selling-solar-generator-and-survival-food)
         
-        [![ Ultimate Portable Power Station Package + 2 Solar Panels](//4patriots.com/cdn/shop/files/PPGS-X-ARRAY-NO-BURST-647x647_360x.jpg?v=1709311383)
+        [![ Solar Go-Fridge](//4patriots.com/cdn/shop/files/1-ARRAY-SGF-FAF-1024x1024-WB_360x.png?v=1686840760)
         
-        ###### Ultimate Portable Power Station Package + 2 Solar Panels
+        ###### Solar Go-Fridge
         
-        5 reviews](https://4patriots.com/products/ultimate-portable-power-station-package-2-solar-panels)
+        74 reviews](https://4patriots.com/products/solar-go-fridge)
         
-        [![ The Ultimate Car Safety Kit. Power, Food & Safety All-In-1. Array of Patriot Power All-in-1 Emergency Car Kit with bonuses.](//4patriots.com/cdn/shop/files/STOREFRONT-ARRAY-CAR-ALL-BONUSES_647x547_a32bfc2b-f129-4331-b5b1-f38e3d1f5464_360x.png?v=1717437588)
+        [![ 4Patriots 40-watt folding solar panel unfolded](//4patriots.com/cdn/shop/products/40W-SOLAR-PANEL-1024x1024_360x.jpg?v=1604696094)
         
-        ###### Patriot Power All-in-1 Emergency Car Kit
+        ###### 4Patriots 40-Watt Folding Solar Panel
         
-        6 reviews](https://4patriots.com/products/patriot-power-all-in-1-emergency-car-kit)
+        20 reviews](https://4patriots.com/products/4patriots-40w-solar-panel)
         
     
 * [Learn](https://4patriots.com/blogs/news)
     
     Learn
     
-    * [Hurricane Preparedness Guide](https://4patriots.com/blogs/news/when-mother-nature-strikes-will-you-be-ready)
     * [Preparedness Blog](https://4patriots.com/blogs/news)
     * [Online Classes](https://4patriots.com/pages/webinars)
     * [Emergency Survival Guides](https://4patriots.com/collections/survival-books)
@@ -277,28 +271,35 @@ We Champion Freedom & Self-Reliance
     * [About Us](https://4patriots.com/pages/about-us)
     * [Returns & Exchanges](https://4patriots.com/pages/refund-policy)
     
-* [🎁 Father's Day](https://4patriots.com/pages/gift-guide)
 * [Account](https://4patriots.com/account/login)
 * [FAQs](https://4patriots.com/pages/frequently-asked-questions)
 * [Contact Us](https://4patriots.com/pages/contact-us)
 
  [](#)
 
-[🆘 NEW Generator 2000X: Lifeline in Emergencies
-
-Shop Now >>](https://products.4patriots.com/power/generator-2k/2x-weight-in-gold?afid=mkt&aff_sub=20240405var6_cam_4p_ecom_hellobarsplittest_ppg-2kx&utm_campaign=mkt_ecom_ppg-2kx_splittest_variation6_20240405&utm_medium=ecom&utm_source=cam&utm_content=hellobar&utm_term=4p&position=hellobar&product=ppg2kx-nsp)
-
 [Home](https://4patriots.com/) / Privacy Policy
 
 Privacy Policy
 
-Last Updated: May 1, 2024
+Last Updated: July 22, 2021
 
-4Patriots LLC (“4Patriots,” “4P,” “us,”, “we” or “our”) respects your privacy. We developed this Privacy Policy to explain how 4P collects, uses, shares, and protects Personal Information (defined below), and your choices about the collection and use of Personal Information.
+4Patriots LLC (“4Patriots,” “we,” “us,” or “our”) respects your privacy. We developed this Privacy Policy to explain how we collect, use, share, and protect Personal Information (defined below), and your choices about the collection and use of Personal Information.
 
   
 
-This Privacy Policy applies to Personal Information collected or processed through www.4patriots.com and any other 4P-operated website or social media page that links to this Privacy Policy (collectively, the “Site”).
+This Privacy Policy applies to Personal Information collected or processed through www.4patriots.com and any other 4Patriots-operated website or social media page that links to this Privacy Policy (collectively, the “Site”).
+
+  
+
+To jump to a section of this Privacy Policy, click a link below:4Patriots LLC (“4Patriots,” “we,” “us,” or “our”) respects your privacy. We developed this Privacy Policy to explain how we collect, use, share, and protect Personal Information (defined below), and your choices about the collection and use of Personal Information.
+
+  
+
+This Privacy Policy applies to Personal Information collected or processed through www.4patriots.com and any other 4Patriots-operated website or social media page that links to this Privacy Policy (collectively, the “Site”).
+
+  
+
+To jump to a section of this Privacy Policy, click a link below:
 
   
 
@@ -312,35 +313,78 @@ This Privacy Policy applies to Personal Information collected or processed throu
 * [Terms Of Service](https://4patriots.com/pages/terms-service)
 * [Customer Review Policy](https://4patriots.com/pages/customer-review-policy)
 
-What is Personal Information?
+* [What is Personal Information?](#point1)
+* [Types of Personal Information We Collect and Use](#point2)
+* [How We Use Personal Information](#point3)
+* [Disclosure of Personal Information](#point4)
+* [How We Protect the Confidentiality of Personal Information](#point5)
+* [Accessing, Updating, or Deleting Personal Information](#point6)
+* [Opting Out of Receiving Electronic Communications](#point7)
+* [Retention of Personal Information](#point8)
+* [Personal Information Transferred to the U.S.](#point9)
+* [California Residents](#point10)
+* [Children’s Privacy](#point11)
+* [Other Websites and Sites, Including Social Media](#point12)
+* [Changes to Our Privacy Policy](#point13)
+* [How to Contact Us](#point14)
+
+1\. What is Personal Information?
 
 “Personal Information” is information that identifies or relates to a particular individual. Examples of Personal Information include, among others, name, email address, phone number, mailing address, and online identifiers.
 
-Types of Personal Information We Collect and Use
+2\. Types of Personal Information We Collect and Use
 
-We may collect and store Personal Information that you provide to us online (e.g., while on the Site or in responding via email to a feature provided on the Site). We collect Personal Information from our users via the Site during online registration and online purchasing. Generally, this information includes name, phone number, and e-mail address for registration or opt-in purposes and name, shipping address, email address, and credit card information when purchasing our products or services.
+A. Information that You Provide Us
 
-  
-
-We collect the following types of information automatically through your use of the Site: Cookies, Device Identifiers, and Similar technologies. When you use or access the Site, 4P and our service providers use cookies, device identifiers, and similar technologies such as pixels, web beacons, and local storage to collect information about how you use the Site. We process the information collected through such technologies, which may include or be combined with Personal Information, to help operate certain features of the Site, to enhance your experience through personalization, and to help us better understand the features of the Site that you and other users are most interested in.
+We may collect and store Personal Information that you provide to us online (e.g., while on the Site or in responding via email to a feature provided on the Site). We collect Personal Information from our users via the Site during online registration and online purchasing. Generally, this information includes name and e-mail address for registration or opt-in purposes and name, email address, and credit card information when purchasing our products or services.
 
   
 
-Most browsers provide you with the ability to block, delete, or disable cookies, and your mobile device may allow you to disable transmission of unique identifiers and location data. If you choose to reject cookies or block device identifiers, some features of the Site may not be available or some functionality may be limited or unavailable. Some of our service providers may use cookies or other methods to gather information regarding your use of the Site, and may combine the information in these cookies with any Personal Information about you that they may have. The use of such tracking information by a third party depends on the privacy policy of that third party. 
+B. Information We Automatically Collect from You
+
+We collect the following types of information automatically through your use of the Site:
 
   
 
-To assist us with analyzing our website traffic through cookies and similar technologies, 4P uses third-party analytics services.
+Cookies, Device Identifiers, and Similar technologies
 
   
 
-The Site uses cookies to help keep track of items you put into your shopping cart including when you have abandoned your cart and this information is used to determine when to send cart reminder messages via email and SMS (if you have previously opted in to receiving SMS messages from 4P).
+When you use or access the Site, we and our service providers use cookies, device identifiers, and similar technologies such as pixels, web beacons, and local storage to collect information about how you use the Site. We process the information collected through such technologies, which may include or be combined with Personal Information, to help operate certain features of the Site, to enhance your experience through personalization, and to help us better understand the features of the Site that you and other users are most interested in.
 
   
 
-We may engage third parties, including social media platforms, who use cookies, pixel tags, and other storage technologies to collect or receive information from the Site and elsewhere on the internet to provide marketing services to us, including targeted advertising.
+Most browsers provide you with the ability to block, delete, or disable cookies, and your mobile device may allow you to disable transmission of unique identifiers and location data. If you choose to reject cookies or block device identifiers, some features of the Site may not be available or some functionality may be limited or unavailable. Please review the help pages of your browser or mobile device for assistance with changing your settings.
 
   
+
+Some of our service providers may use cookies or other methods to gather information regarding your use of the Site, and may combine the information in these cookies with any Personal Information about you that they may have. The use of such tracking information by a third party depends on the privacy policy of that third party. We do not respond to Do Not Track (“DNT”) signals sent to us by your browser at this time. To learn more about how DNT works, please visit http://allaboutdnt.com/.
+
+  
+
+Analytics
+
+To assist us with analyzing our website traffic through cookies and similar technologies, we use analytics services, including Google Analytics. For more information on Google Analytics’s processing of your information, please see “How Google uses data when you use our partners' sites or apps.”
+
+  
+
+Abandoned Cart Reminders
+
+The Site uses cookies to help keep track of items you put into your shopping cart including when you have abandoned your cart and this information is used to determine when to send cart reminder messages via SMS.
+
+  
+
+Advertising
+
+We may engage third parties, including social media platforms, who use cookies, pixel tags, and other storage technologies to collect or receive information from our website and elsewhere on the internet to provide marketing services to us, including targeted advertising. If you want to learn more, including how you may opt-out of targeted advertising, you should visit the following sites:
+
+  
+
+https://www.aboutads.info/choices/, https://www.networkadvertising.org, https://www.youradchoices.com (please note: we do not operate or control these third party sites, and there may be additional ways for you to opt out of online advertising). Please note that by opting out, you will continue to see ads, but ads may not be as relevant to your interests.
+
+  
+
+Log File Information
 
 When you use our Site, our servers automatically record information, including your Internet Protocol address (“IP Address”), browser type, referring URLs (e.g., the site you visited before coming to our Site), domain names associated with your internet service provider, information on your interaction with the Site, and other such information (collectively, “Log File Information”). We may also collect similar information from emails sent to you which then help us track which emails are opened and which links are clicked by recipients.
 
@@ -350,15 +394,13 @@ We use Log File Information collected from our implementation of the Site to hel
 
   
 
-How We Use Personal Information
+3\. How We Use Personal Information
 
-In addition to other uses notified to you, 4P may use Personal Information for the following purposes:
-
-  
+In addition to other uses notified to you, we may use Personal Information for the following purposes:
 
 * Administering and operating your account;
 * Providing customer service or support;
-* Processing payments and fulfilling orders;
+* Processing payments and fulfill orders;
 * Analyzing, administering, and improving the Site;
 * Enabling secure use of the Site;
 * Sending information and promotional materials;
@@ -366,95 +408,146 @@ In addition to other uses notified to you, 4P may use Personal Information for t
 * Meeting legal obligations; and
 * For other purposes related to the reasons for which you provide Personal Information.
 
-  
+4\. Disclosure of Personal Information
 
-Disclosure of Personal Information
-
-We will not disclose Personal Information except as set forth in this Privacy Policy or with your consent. This section describes to whom 4P discloses Personal Information and for what purposes:
+We will not disclose Personal Information except as set forth in this Privacy Policy or with your consent. This section describes to whom we disclose Personal Information and for what purposes:
 
   
 
-Trusted Service Providers: We engage third parties to perform tasks on our behalf and to assist us in operating the Site and providing our products and services. This may include but is not limited to affiliates, service providers, consultants, advisors, marketing and advertising partners, and joint marketing partners. For example, 4P may engage third parties to process payments (such as credit card processors and payment plan providers), provide services (such as extended warranties), and perform other activities (such as order fulfillment) on our behalf. This may require 4P to share Personal Information (including financial information) with third parties, who may store and use such Personal Information. We take commercially reasonable steps to help ensure our service providers provide at least the same level of protection for Personal Information as 4P does, however, your Personal Information collected by such third parties is subject to the third party’s privacy policy, not this Privacy Policy. We have no control over, and are not responsible for, such third party’s collection, use, and disclosure of your Personal Information.
+Our Service Providers. We engage service providers to perform tasks on our behalf and to assist us in operating the Site or providing our products and services. For example, we may engage third parties to provide analytics and marketing services on our behalf. We take commercially reasonable steps to help ensure our service providers provide at least the same level of protection for Personal Information as we do.
 
   
 
-Corporate Transactional Partners: If 4P sells or otherwise transfers or merges part or the whole of our business or assets to another organization, any information collected through the Site, including Personal Information, may be among the items sold or transferred.
+Companies Involved in Mergers and Acquisitions Transactions. If we sell or otherwise transfer part or the whole of our business or assets to another organization (g., in the course of a transaction like a merger, acquisition, bankruptcy, dissolution, or liquidation), any information collected through the Site, including Personal Information, may be among the items sold or transferred.
 
   
 
-Legal, Compliance and Regulatory Matters: We may disclose Personal Information at the request of law enforcement or government agencies; in response to subpoenas, court orders, or other legal process; to establish, protect, or exercise our rights; to defend against a legal claim; to protect the rights, property, or safety of any other person; or as otherwise required by law.
+Law Enforcement, Government Agencies, and Courts. We may disclose Personal Information at the request of law enforcement or government agencies; in response to subpoenas, court orders, or other legal process; to establish, protect, or exercise our rights; to defend against a legal claim; to protect the rights, property, or safety of any other person; or as otherwise required by law.
 
   
 
-How We Protect the Confidentiality of Personal Information
-
-We protect the confidentiality and security of information 4P obtains in the course of business. We use commercially reasonable safeguards, such as industry-standard encryption technology, to help keep the information collected through the Site secure.
+The above excludes text messaging originator opt-in data and consent; this information will not be shared with any third parties.
 
   
 
-Despite these efforts to store Personal Information in a secure operating environment, 4P cannot guarantee the security of Personal Information during its transmission or its storage on our systems. Further, while 4P attempts to ensure the integrity and security of Personal Information, 4P cannot guarantee that our security measures will prevent third parties such as hackers from illegally obtaining access to Personal Information. We do not represent or warrant that Personal Information about you will be protected against, loss, misuse, or alteration by third parties.
+5\. How We Protect the Confidentiality of Personal Information
+
+We protect the confidentiality and security of information we obtain in the course of business. We use commercially reasonable safeguards, such as industry-standard encryption technology, to help keep the information collected through the Site secure.
 
   
 
-Accessing, Updating, or Deleting Personal Information
-
-If you would like to access, update, or delete Personal Information about you, you may submit a request [here](https://4patriots.com/pages/ccpa-form). We will promptly review all such requests in accordance with applicable law.
+Despite these efforts to store Personal Information in a secure operating environment, we cannot guarantee the security of Personal Information during its transmission or its storage on our systems. Further, while we attempt to ensure the integrity and security of Personal Information, we cannot guarantee that our security measures will prevent third parties such as hackers from illegally obtaining access to Personal Information. We do not represent or warrant that Personal Information about you will be protected against, loss, misuse, or alteration by third parties.
 
   
 
-Opting Out of Receiving Electronic Communications
+6\. Accessing, Updating, or Deleting Personal Information
 
-We may send notifications, promotions, or other information via email or text message (“Communications”). You may choose to stop receiving Communications by following the instructions provided in a Communication (for example, by clicking “Unsubscribe” in an email or replying STOP to an SMS text message). If a Communication is necessary for us to provide you a requested product or service, 4P may not be able to provide you with an opt-out. 
+If you would like to otherwise access, update, or delete Personal Information about you, you may submit a request to help@4patriots.com. We will promptly review all such requests in accordance with applicable law.
 
   
 
-The 4P mobile message service (the "Service") is operated by 4P. Your use of the Service constitutes your agreement to these terms and conditions (“Mobile Terms”). We may modify or cancel the Service or any of its features without notice. To the extent permitted by applicable law, 4P may also modify these Mobile Terms at any time and your continued use of the Service following the effective date of any such changes shall constitute your acceptance of such changes. By consenting to 4P’s SMS/text messaging service, you agree to receive recurring SMS/text messages from and on behalf of 4P through your wireless provider to the mobile number you provided, even if your mobile number is registered on any state or federal Do Not Call list. Text messages may be sent using an automatic telephone dialing system or other technology. Service-related messages may include updates, alerts, and information (e.g., order updates, account alerts, etc.). Promotional messages may include promotions, specials, and other marketing offers (e.g., cart reminders). You understand that you do not have to sign up for this program in order to make any purchases, and your consent is not a condition of any purchase with 4Patriots LLC. Your participation in this program is completely voluntary. We do not charge for the Service, but you are responsible for all charges and fees associated with text messaging imposed by your wireless provider. Message frequency varies. Message and data rates may apply. Check your mobile plan and contact your wireless provider for details. You may opt-out of the Service at any time. Reply by text using the single keyword command STOP or click the unsubscribe link (where available) in any text message to cancel. You'll receive a one-time opt-out confirmation text message. No further messages will be sent to your mobile device, unless initiated by you. If you have subscribed to other 4P mobile message programs and wish to cancel, except where applicable law requires otherwise, you will need to opt out separately from those programs by following the instructions provided in their respective mobile terms. For Service support or assistance, text HELP to the number provided within the text or contact us using the information provided in the “Contact Us” section of our Site. We may change any short code or telephone number 4P uses to operate the Service at any time. You acknowledge that any messages, including any STOP or HELP requests, you send to a short code or telephone number 4P has changed may not be received and 4P will not be responsible for honoring requests made in such messages. The wireless carriers supported by the Service are not liable for delayed or undelivered messages. You agree to provide 4P with a valid mobile number. If you get a new mobile number, you will need to sign up for the program with your new number. To the extent permitted by applicable law, you agree that 4P will not be liable for failed, delayed, or misdirected delivery of any information sent through the Service, any errors in such information, and/or any action you may or may not take in reliance on the information or Service. 
+If you are a resident of California or the European Union, please see the information below in Section 10 (California Residents) for more information regarding your rights.
 
-Retention of Personal Information
+  
+
+7\. Opting Out of Receiving Electronic Communications
+
+We may send notifications, promotions, or other information via email or text message (“Communications”). You may choose to stop receiving Communications by following the instructions provided in a Communication. If a Communication is necessary for us to provide you a requested product or service, we may not be able to provide you with an opt-out. Text marketing (if applicable): With your permission, we may send text messages about our store, new products, and other updates. Updates include Checkout Reminders. Webhooks will be used to trigger the Checkout Reminders messaging system. Reply "STOP" to unsubscribe at any time.
+
+8\. Retention of Personal Information
 
 We will retain your Personal Information for at least as long as necessary to fulfill the purposes for which your Personal Information has been collected as outlined in this Privacy Policy. We also may retain Personal Information to the extent required by law.
 
-Personal Information Transferred from Outside the U.S.
+9\. Personal Information Transferred from Outside the U.S.
 
-If you are using the Site from outside the United States, please be aware that Personal Information may be transferred to, stored, and processed in the United States. Although 4P takes steps to provide adequate safeguards, the data protection laws of the United States might not be as comprehensive as those in your country. By using the Site, you consent to your information being transferred to the United States for the purposes described in this Privacy Policy. 4P does not specifically target its products or services at individuals in the EU and is not subject to GDPR.
+If you are using the Site from outside the United States, please be aware that Personal Information may be transferred to, stored, and processed in the United States. Although we take steps to provide adequate safeguards, the data protection laws of the United States might not be as comprehensive as those in your country. By using the Site, you consent to your information being transferred to the United States for the purposes described in this Privacy Policy.
 
-**State-Specific Privacy Rights**
+10\. California Residents
 
-Some States have enacted consumer privacy laws that grant their residents certain rights and require additional disclosures. This State-Specific Privacy Rights section addresses these requirements and serves as our California notice at collection. As a resident of one of these States (currently, California, Colorado, Connecticut, Utah, and Virginia), you have specific rights regarding the personal information 4P collects, uses, and shares.
-
-1. Categories of Personal Information Collected: 4P collects a variety of personal information, including identifiers, geolocation data, internet activity, consumer profiles, electronic data, commercial information, professional information, and similar related data.
-2. Usage and Disclosure: This personal information is utilized for various business purposes and shared with service providers as necessary. Additionally, usage information may be collected and potentially “sold” (as defined under your State’s privacy law, for example, the California Consumer Privacy Act (CCPA) for California residents), for which you have opt-out rights.
-3. Your Rights:
-
-* Right to Know: You can request details about the categories of personal information 4P has collected, the sources of that information, specific pieces of personal information we hold about you, and how we use and share that information.
-* Right to Delete: You have the right to request the deletion of your personal information that 4P has collected.
-* Right to Opt-Out: You can opt out of the sale of your personal information and the use of your personal information for interest-based advertising.
-
-4\. Exercising Your Rights: To exercise any of the above rights, please complete [this form](https://4patriots.com/pages/ccpa-form). 4P may reasonably require additional information to verify your identity before we can process your request.
-
-5\. Non-Discrimination: 4P will not discriminate against you for exercising any of your privacy rights under State law.
-
-Certain States may provide similar rights to residents to access, rectify, delete, or port their personal information, and the right to appeal decisions regarding such requests. These requests can be made through [this form](https://4patriots.com/pages/ccpa-form).
+This section applies to our collection and use of “Personal Information”, as defined under California law, if you are a resident of California.
 
   
 
-If you have any questions or need further assistance regarding your rights or our privacy practices, please contact us using the information provided in the "Contact Us" section of our Site.
+A. Categories of Personal Information Collected, Used, and Disclosed
 
-Children's Privacy
+  
 
-We do not knowingly collect or solicit any Personal Information from children. In the event that 4P learns that 4P has collected Personal Information from a child, 4P will promptly take steps to delete that information.
+In accordance with California law, we collected the following categories of Personal Information within the preceding 12 months:
 
-Other Websites, Including Social Media
+  
 
-We are not responsible for the practices employed by any websites or services linked to or from, or utilized through, our Site, including the information or content contained within them. A link to a third party’s website should not be construed as an endorsement. We encourage you to investigate and ask questions before disclosing Personal Information to third parties.
+* Identifiers such as your name, alias, email address, mailing address, IP address, and online identifiers;
+* Geolocation data such as the precise GPS coordinates of a mobile device;
+* Certain categories of Personal Information described in subdivision (e) of California Civil Code Section 1798.80;
+* Internet or other electronic network activity information, including information on your usage of our Website (“Usage Information”);
+* Information used to create a profile about a consumer reflecting the consumer’s preferences or behavior;
+* Electronic, audio, visual, thermal, olfactory, or similar information;
+* Commercial information, including records of products or services purchased or other purchasing histories; and
+* Professional or employment-related information. 
+* We share each of these categories of Personal Information with our service providers to the extent necessary for them to facilitate our business purposes (including any purpose specified in Section 3, above).
+* Additionally, within the past 12 months, some of our online advertisers may have used and disclosed Usage Information collected automatically from the Service. This may be a “sale” as broadly defined under the CCPA. Therefore, we provide you the right to opt out of this “sale” of Personal Information as described, below.
 
-Changes to Our Privacy Policy
+B. Your California Privacy Rights
 
-We may modify or update this Privacy Policy from time to time, so please review it periodically. Unless otherwise indicated, any changes to this Privacy Policy will apply immediately upon posting to the Site.
+  
 
-How to Contact Us
+If you are a resident of the California, you have the following rights:
 
-If you have any questions about this Privacy Policy or the Site, please contact us using the information provided in the “Contact Us” section of the Site.
+  
+
+* Right to Know. You may have the right to request information on the categories of personal information that we collected in the previous twelve (12) months, the categories of sources from which the Personal Information was collected, the specific pieces of Personal Information we have collected about you, and the business purposes for which such personal information is collected and shared. You also have the right to request information on the categories of Personal Information which were disclosed for business purposes, and the categories of third parties in the twelve (12) months preceding your request for your personal information.
+* Right to Delete. You may have a right to request us to delete Personal Information that we collected from you.
+* Right to Opt-Out. You have a right to opt-out of certain disclosures of Personal Information to third parties, if such disclosures constitute a “sale” under California law. As noted above, in the past twelve (12) months we enabled advertisers to collect certain information from the Site, which the advertisers may use to improve their interest-based advertising networks. Regardless of whether this is a “sale,” you may opt-out of interest-based advertising as described in Section 2(B), above.
+* If you would like to exercise your rights listed above, please click this [link](https://patriothealthstore.com/pages/ccpa-form) and complete the needed information.
+
+We must verify your identity before fulfilling your requests. If we cannot initially verify your identity, we may request additional information to complete the verification process. Any Personal Information you disclose to us for purposes of verifying your identity will solely be used for the purpose of verification.
+
+  
+
+You have a right not to receive discriminatory treatment by any business when you exercise your California privacy rights.
+
+  
+
+11\. Children's Privacy
+
+We do not knowingly collect or solicit any Personal Information from children. In the event that we learn that we have collected Personal Information from a child, we will promptly take steps to delete that information
+
+12\. Other Websites and Sites, Including Social Media
+
+We are not responsible for the practices employed by any websites or services linked to or from our Site, including the information or content contained within them. A link to a third party’s website should not be construed as an endorsement. We encourage you to investigate and ask questions before disclosing Personal Information to third parties
+
+13\. Changes to Our Privacy Policy
+
+We may modify or update this Privacy Policy from time to time, so please review it periodically. We may provide you with notice of material changes to the Privacy Policy as appropriate under the circumstances. Unless otherwise indicated, any changes to this Privacy Policy will apply immediately upon posting to the Site.
+
+14\. How to Contact Us
+
+If you have any questions about this Privacy Policy or the Site, please contact us at help@4patriots.com.
+
+  
+
+4Patriots LLC  
+2920 Berry Hill Dr., Suite 300  
+Nashville, TN 37204  
+help@4patriots.com
+
+This Privacy Policy is strictly limited to the Program and has no effect on any other privacy policy(ies) that may govern the relationship between you and Us in other contexts.
+
+**General Data Privacy Regulation (GDPR)**
+
+The GDPR takes effect on May 25, 2018, and is intended to protect the data of European Union citizens.
+
+  
+
+As a company that markets its site. Content, products and/or services on line we do not specifically target our marketing to the EU or conduct business in or to the EU in any meaningful way. If the data that you provide to us in the course of your use of our site or services or products is governed by GDPR, we will abide by the relevant portions of the regulation.If you are a resident of the European Economic Area (EEA), or are accessing this site from within the EEA, you may have the right to request: access to, correction of, deletion of; portability of; and restriction or objection to processing, of your personal data, from us. This includes the “right to be forgotten.”
+
+  
+
+To make any of these requests, please contact our GDPR contact at [GDPR@4patriots.com](mailto:GDPR@4patriots.com)
+
+**Recharge Autoship & Save Program Terms and Conditions**
+
+4Patriots provides a subscription service. By subscribing to our service, you have confirmed that you accept our Terms of Service. Your membership will automatically renew on a recurring basis at which time your credit card will be charged automatically for the subscription products, including applicable shipping and handling fees until you cancel your membership. You may cancel your membership at anytime by logging in to your account, selecting Subscriptions, then clicking cancel next to the item.
 
 * [Privacy Policy](https://4patriots.com/pages/privacy-policy)
 * [Anti-Spam Policy](https://4patriots.com/pages/anti-spam-policy)
@@ -522,6 +615,6 @@ _[help@4patriots.com](mailto:help@4patriots.com)
 
 _Testimonials featured on this site are from real people. Sometimes names & pictures are changed to protect their privacy & safety; some were given free products in exchange for honest feedback. Testimonials represent exceptional results, don't apply to the average purchaser, and don't guarantee that you'll achieve results. Cade Courtley is a former Navy SEAL who served 9 years of active duty and has been compensated by 4Patriots for his hard work in helping us test and endorse products. The United States Military (including the U.S. Navy SEAL Team) and other organizations, publications and people referenced on this site, are not affiliated with 4Patriots. They have not endorsed, sponsored or recommended this product; no affiliation or endorsement is claimed._
 
- [![4Patriots, LLC., Online Retailer, Nashville, TN](https://seal-nashville.bbb.org/logo/ruhzbus/4patriots-37051107.png)](https://www.bbb.org/us/tn/nashville/profile/online-retailer/4patriots-llc-0573-37051107#bbbseal "4Patriots, LLC., Online Retailer, Nashville, TN")![visa](//4patriots.com/cdn/shopifycloud/shopify/assets/payment_icons/visa-319d545c6fd255c9aad5eeaad21fd6f7f7b4fdbdb1a35ce83b89cca12a187f00.svg) ![master](//4patriots.com/cdn/shopifycloud/shopify/assets/payment_icons/master-173035bc8124581983d4efa50cf8626e8553c2b311353fbf67485f9c1a2b88d1.svg) ![discover](//4patriots.com/cdn/shopifycloud/shopify/assets/payment_icons/discover-cc9808e50193c7496e7a5245eb86d5e06f02e2476c0fe70f2c40016707d35461.svg) ![american express](//4patriots.com/cdn/shopifycloud/shopify/assets/payment_icons/american_express-12858714bc10cdf384b62b8f41d20f56d8c32c1b8fed98b662f2bfc158dcbcf0.svg) ![google pay](//4patriots.com/cdn/shopifycloud/shopify/assets/payment_icons/google_pay-c66a29c63facf2053bf69352982c958e9675cabea4f2f7ccec08d169d1856b31.svg) ![paypal](//4patriots.com/cdn/shopifycloud/shopify/assets/payment_icons/paypal-49e4c1e03244b6d2de0d270ca0d22dd15da6e92cc7266e93eb43762df5aa355d.svg) Shop Pay
+      ![visa](//4patriots.com/cdn/shopifycloud/shopify/assets/payment_icons/visa-319d545c6fd255c9aad5eeaad21fd6f7f7b4fdbdb1a35ce83b89cca12a187f00.svg) ![master](//4patriots.com/cdn/shopifycloud/shopify/assets/payment_icons/master-173035bc8124581983d4efa50cf8626e8553c2b311353fbf67485f9c1a2b88d1.svg) ![discover](//4patriots.com/cdn/shopifycloud/shopify/assets/payment_icons/discover-cc9808e50193c7496e7a5245eb86d5e06f02e2476c0fe70f2c40016707d35461.svg) ![american express](//4patriots.com/cdn/shopifycloud/shopify/assets/payment_icons/american_express-12858714bc10cdf384b62b8f41d20f56d8c32c1b8fed98b662f2bfc158dcbcf0.svg) ![google pay](//4patriots.com/cdn/shopifycloud/shopify/assets/payment_icons/google_pay-c66a29c63facf2053bf69352982c958e9675cabea4f2f7ccec08d169d1856b31.svg) ![paypal](//4patriots.com/cdn/shopifycloud/shopify/assets/payment_icons/paypal-49e4c1e03244b6d2de0d270ca0d22dd15da6e92cc7266e93eb43762df5aa355d.svg) Shop Pay
 
 2024 © 4Patriots LLC - All Rights Reserved.
