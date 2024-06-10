@@ -236,6 +236,34 @@ out of 5 based on
 
 ![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
+> Jun 9, 2024
+
+> South Africa Trip
+
+> Shann was very helpful and was always quick to respond to any questions that I had. She provided with multiple options for each stage of our trip, and overall provided a great service. Would highly recommend!
+
+Tom
+
+,
+
+GB
+
+![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Jun 8, 2024
+
+> Thanks Pascal you are amazing!
+
+> From the moment we arrived in South Africa, our safari adventure was nothing short of extraordinary. Nestled in the heart of the African wilderness, we found ourselves surrounded by the breathtaking landscapes of Kruger National Park, a haven for wildlife enthusiasts. Our accommodation was luxurious yet seamlessly integrated into the natural environment, offering us stunning views of the savannah from the comfort of our private deck. Each day began with an exhilarating sunrise game drive, where our expert guide shared his deep knowledge and passion for the local wildlife. Witnessing the "Big Five" was an awe-inspiring experience that left us in complete awe of nature's magnificence. The guides were incredibly knowledgeable and made sure we felt safe while immersing ourselves in the wilderness. Evenings were equally enchanting, with sundowner drinks enjoyed against the backdrop of a fiery African sunset, followed by sumptuous dinners under the starlit sky. The cuisine was a delightful fusion of local flavors and gourmet dishes, perfectly complementing the day's adventures. The sense of community at the lodge was heartwarming. The staff were attentive, ensuring every need was met with a smile, and fellow travelers quickly became friends as we shared stories around the campfire. Our South African safari was more than just a holiday; it was a transformative journey that connected us with nature and left us with lasting memories. For anyone seeking an adventure that combines luxury, education, and unparalleled wildlife encounters, a safari in South Africa is an absolute must. We left with hearts full of gratitude and a profound appreciation for the natural world, eagerly planning our return to this magnificent land.
+
+Shila
+
+,
+
+GB
+
+![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
 > Jun 8, 2024
 
 > A great experience
@@ -331,34 +359,6 @@ Tinus Jansen van Vuuren
 ,
 
 ZA
-
-![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Jun 3, 2024
-
-> Leche was very responsive, professional and helpful
-
-> Leche was very responsive and was always there to answer my questions and gave me alternatives based on my needs, even during holidays times and evenings. I actually changes my plan several times, Leche was very patient. She is professional and persistent. I look forward to the trip that Leche helped to book.
-
-yan zhang
-
-,
-
-US
-
-![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> May 31, 2024
-
-> Catherine Jacobs was the best advisor
-
-> Catherine Jacobs was the best advisor. She was always willing to understand and help us with the many changes we had to do to our trip due to Covid and else.
-
-Viviana Tena
-
-,
-
-MX
 
 VIP service
 
