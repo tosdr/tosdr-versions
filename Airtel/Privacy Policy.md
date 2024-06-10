@@ -22,7 +22,7 @@
 
 * [Pay Bill](https://www.airtel.in/broadband-bill-pay?icid=header)
 * [Buy New Connection](https://www.airtel.in/broadband/?icid=header)
-* [View Plans](https://www.airtel.in/wifi-plans/?icid=header)
+* [View Plans](https://www.airtel.in/broadband/?icid=header)
 
 ### DTH
 
