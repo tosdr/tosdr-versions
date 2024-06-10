@@ -1,6 +1,6 @@
 [**Talents**](https://start.axur.com/pt-br/talentos)[Login](https://one.axur.com/)
 
-[![Três barras de cor laranja e escrito axur em preto](https://cdn.prod.website-files.com/61e1949f83dad6619067b896/61fa945e6618694b924c6eb1_logo.svg)](https://axur.com/en-us/home)
+[![Três barras de cor laranja e escrito axur em preto](https://assets-global.website-files.com/61e1949f83dad6619067b896/61fa945e6618694b924c6eb1_logo.svg)](https://axur.com/en-us/home)
 
 View dashboard
 
@@ -20,7 +20,7 @@ View dashboard
     
     ##### remoção de conteúdos da web
     
-    ![](https://cdn.prod.website-files.com/61e1949f83dad6619067b896/62470d1f697a863e189d35ed_takedown-icon.svg)
+    ![](https://assets-global.website-files.com/61e1949f83dad6619067b896/62470d1f697a863e189d35ed_takedown-icon.svg)
     
     Takedown Axur
     
@@ -28,12 +28,12 @@ View dashboard
     
     [Conheça](#)
     
-    * [**Brand Protection**](https://axur.com/en-us/brand-protection)
+    * [**Digital Fraud**](https://axur.com/en-us/digital-frauds)
     * [**Data Leakage**](https://axur.com/en-us/data-leakage)
     * [**Online Piracy**](https://axur.com/en-us/online-piracy)
     * [**Deep & Dark Web Intelligence**](https://axur.com/en-us/deep-and-dark-web-monitoring)
     * [**Executives and VIPs**](https://axur.com/en-us/executives-vips)
-    * [![](https://cdn.prod.website-files.com/61e1949f83dad6619067b896/641cb7b3f69f09e133794331_icon.svg)
+    * [![](https://assets-global.website-files.com/61e1949f83dad6619067b896/641cb7b3f69f09e133794331_icon.svg)
         
         Takedown Axur](https://axur.com/en-us/outsourced-takedown)
     
@@ -41,9 +41,9 @@ View dashboard
     
     ##### DIGITAL RISK PREVENTION & CYBER THREAT INTELLIGENCE[](https://www.axur.com/en-us/digital-frauds)
     
-    [**Brand Protection**
+    [**Digital Fraud**
     
-    Search and response to phishings, fake social profiles and fake apps](https://axur.com/en-us/brand-protection)[**Data Leakage**
+    Search and response to phishings, fake social profiles and fake apps](https://axur.com/en-us/digital-frauds)[**Data Leakage**
     
     Detect unauthorized access points to sensitive data and leaked data on the Internet](https://axur.com/en-us/data-leakage)[**Online Piracy**
     
@@ -55,7 +55,7 @@ View dashboard
     
     ##### FAKE CONTENT REMOVAL
     
-    ![](https://cdn.prod.website-files.com/61e1949f83dad6619067b896/641cb7b3f69f09e133794331_icon.svg)[Takedown Axur
+    ![](https://assets-global.website-files.com/61e1949f83dad6619067b896/641cb7b3f69f09e133794331_icon.svg)[Takedown Axur
     
     Outsource the automatic removal of irregular content](https://axur.com/en-us/outsourced-takedown)
     
@@ -66,32 +66,26 @@ View dashboard
     * [Watchdog
         
         Remova conteúdos infratores, golpes e fraudes da internet](https://watchdog.axur.io/)
-    * [Threat Report
-        
-        Remova conteúdos infratores, golpes e fraudes da internet](https://axur.com/en-us/threat-report)
     
     Tools
     
     * [Watchdog
         
         Monitor the creation of fake domains using your company’s name](https://watchdog.axur.io/)
-    * [Threat Report
-        
-        Discover the risks that may be exposing your organization](https://axur.com/en-us/threat-report)
     
 * About Us
     
-    * [**Why Axur?**](https://axur.com/en-us/why-axur)
+    * [**Why Axur?**](https://axur.com/en-us/about-axur)
     * [**Partnerships**](https://axur.com/en-us/partners)
     * [**Talents**](https://start.axur.com/en-us/talents)
     
     About Us
     
-    * [**Why Axur?**](https://axur.com/en-us/why-axur)
+    * [**Why Axur?**](https://axur.com/en-us/about-axur)
     * [**Partnerships**](https://axur.com/en-us/partners)
     * [**Talents**](https://start.axur.com/en-us/talents)
     
-* ![](https://cdn.prod.website-files.com/61e1949f83dad6619067b896/624b08100277da98c72ab0dc_World.svg)
+* ![](https://assets-global.website-files.com/61e1949f83dad6619067b896/624b08100277da98c72ab0dc_World.svg)
     
     * [English](#)
     * [Spanish](#)
@@ -337,15 +331,15 @@ Axur’s Privacy Policy will be reviewed at least once every twelve (12) months,
   
 Previous versions**:** To access previous versions, please email [privacy@axur.com](mailto:privacy@axur.com).  
 
-![](https://cdn.prod.website-files.com/61e1949f83dad6619067b896/62338607ca504cf600ecb4c9_axur_marca.svg)
+![](https://assets-global.website-files.com/61e1949f83dad6619067b896/62338607ca504cf600ecb4c9_axur_marca.svg)
 
-[![linkedin logo](https://cdn.prod.website-files.com/61e1949f83dad6619067b896/61fd284190785d66a7fa8127_linkedin.svg)](https://www.linkedin.com/company/axur/)[![facebook logo](https://cdn.prod.website-files.com/61e1949f83dad6619067b896/61fd28401e06892b05b5afb3_facebook.svg)](https://www.facebook.com/AxurBrasil/)[![instagram logo](https://cdn.prod.website-files.com/61e1949f83dad6619067b896/61fd284170547b7125ca036b_instagram.svg)](https://www.instagram.com/axurbr/)[![youtube logo](https://cdn.prod.website-files.com/61e1949f83dad6619067b896/61fd28412e938635f22881e9_youtube.svg)](https://www.youtube.com/c/AxurBrasil)[![twitter logo](https://cdn.prod.website-files.com/61e1949f83dad6619067b896/61fd28411c1f072f3a0b50be_twitter.svg)](https://twitter.com/AxurBrasil/)
+[![linkedin logo](https://assets-global.website-files.com/61e1949f83dad6619067b896/61fd284190785d66a7fa8127_linkedin.svg)](https://www.linkedin.com/company/axur/)[![facebook logo](https://assets-global.website-files.com/61e1949f83dad6619067b896/61fd28401e06892b05b5afb3_facebook.svg)](https://www.facebook.com/AxurBrasil/)[![instagram logo](https://assets-global.website-files.com/61e1949f83dad6619067b896/61fd284170547b7125ca036b_instagram.svg)](https://www.instagram.com/axurbr/)[![youtube logo](https://assets-global.website-files.com/61e1949f83dad6619067b896/61fd28412e938635f22881e9_youtube.svg)](https://www.youtube.com/c/AxurBrasil)[![twitter logo](https://assets-global.website-files.com/61e1949f83dad6619067b896/61fd28411c1f072f3a0b50be_twitter.svg)](https://twitter.com/AxurBrasil/)
 
 © Axur. Digital experiences made safe. All rights reserved.
 
 ##### Digital Risk Protection
 
-[Data Leakage](https://axur.com/en-us/data-leakage)[Online Piracy](https://axur.com/en-us/online-piracy)[Digital Fraud](https://axur.com/en-us/brand-protection)[Deep & Dark Web Intelligence](https://axur.com/en-us/deep-and-dark-web-monitoring)[Executives and VIPs](https://axur.com/en-us/executives-vips)
+[Data Leakage](https://axur.com/en-us/data-leakage)[Online Piracy](https://axur.com/en-us/online-piracy)[Digital Fraud](https://axur.com/en-us/digital-frauds)[Deep & Dark Web Intelligence](https://axur.com/en-us/deep-and-dark-web-monitoring)[Executives and VIPs](https://axur.com/en-us/executives-vips)
 
 ##### INCIDENT RESPONSE
 
@@ -353,8 +347,8 @@ Previous versions**:** To access previous versions, please email [privacy@axur.c
 
 ##### About Us
 
-[Why Axur?](https://axur.com/en-us/why-axur)[Contact](https://start.axur.com/en-us/)[Partners](https://axur.com/en-us/partners)[Talents](https://start.axur.com/en-us/talents)[Privacy Notice](https://axur.com/en-us/privacy-policy)
+[Why Axur?](https://axur.com/en-us/about-axur)[Contact](https://start.axur.com/en-us/)[Partners](https://axur.com/en-us/partners-old)[Talents](https://start.axur.com/en-us/talents)[Privacy Notice](https://axur.com/en-us/privacy-policy)
 
-[![linkedin logo](https://cdn.prod.website-files.com/61e1949f83dad6619067b896/61fd284190785d66a7fa8127_linkedin.svg)](https://www.linkedin.com/company/axur/)[![facebook logo](https://cdn.prod.website-files.com/61e1949f83dad6619067b896/61fd28401e06892b05b5afb3_facebook.svg)](https://www.facebook.com/AxurBrasil/)[![instagram logo](https://cdn.prod.website-files.com/61e1949f83dad6619067b896/61fd284170547b7125ca036b_instagram.svg)](https://www.instagram.com/axurbr/)[![youtube logo](https://cdn.prod.website-files.com/61e1949f83dad6619067b896/61fd28412e938635f22881e9_youtube.svg)](https://www.youtube.com/c/AxurBrasil)[![twitter logo](https://cdn.prod.website-files.com/61e1949f83dad6619067b896/61fd28411c1f072f3a0b50be_twitter.svg)](https://twitter.com/AxurBrasil/)
+[![linkedin logo](https://assets-global.website-files.com/61e1949f83dad6619067b896/61fd284190785d66a7fa8127_linkedin.svg)](https://www.linkedin.com/company/axur/)[![facebook logo](https://assets-global.website-files.com/61e1949f83dad6619067b896/61fd28401e06892b05b5afb3_facebook.svg)](https://www.facebook.com/AxurBrasil/)[![instagram logo](https://assets-global.website-files.com/61e1949f83dad6619067b896/61fd284170547b7125ca036b_instagram.svg)](https://www.instagram.com/axurbr/)[![youtube logo](https://assets-global.website-files.com/61e1949f83dad6619067b896/61fd28412e938635f22881e9_youtube.svg)](https://www.youtube.com/c/AxurBrasil)[![twitter logo](https://assets-global.website-files.com/61e1949f83dad6619067b896/61fd28411c1f072f3a0b50be_twitter.svg)](https://twitter.com/AxurBrasil/)
 
 © Axur. Digital experiences made safe. All rights reserved.
