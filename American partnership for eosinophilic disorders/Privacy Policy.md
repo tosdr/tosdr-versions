@@ -88,7 +88,6 @@
         * [Conferences and CME Opportunities](https://apfed.org/conferences-and-cme-opportunities/)
         * [Published Research](https://apfed.org/resources/for-healthcare-providers-and-researchers/published-research/)
 * [Events](https://apfed.org/events/)
-    * [World Eosinophilic Disease Day (May 18)](https://apfed.org/events/worldeosday/)
     * [National Eosinophil Awareness Week (May 19-25, 2024)](https://apfed.org/events/national-eosinophil-awareness-week/)
     * [Annual Patient Education Conference (July 11-13, 2024)](https://apfed.org/events/annual-conference/)
     * [Community Partner Events & Fundraisers](https://apfed.org/events/community-partner-events/)
@@ -161,8 +160,6 @@
     * [Financial and Annual Reports](https://apfed.org/about-apfed/financials-and-annual-reports/)
     * [Contact](https://apfed.org/about-apfed/contact/)
 * [Donate Today](https://apfed.org/donate-to-apfed/)
-
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20400'%3E%3C/svg%3E)
 
 ![](https://apfed.org/wp-content/uploads/2019/09/loading.gif)
 
@@ -510,13 +507,7 @@ Connect with patients and caregivers for support.
 
 Footer Awards
 
-  [](https://www.healthonnet.org/HONcode/Conduct.html?HONConduct163859)            [](https://www.healthonnet.org/HONcode/Conduct.html?HONConduct163859)               [](https://www.healthonnet.org/HONcode/Conduct.html?HONConduct163859)       [](https://www.healthonnet.org/HONcode/Conduct.html?HONConduct163859)               [](https://www.healthonnet.org/HONcode/Conduct.html?HONConduct163859)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20147%20110'%3E%3C/svg%3E)
-
-![](https://apfed.org/wp-content/uploads/2018/12/new-badge.jpg)](http://greatnonprofits.org/org/apfed)          [](https://www.healthonnet.org/HONcode/Conduct.html?HONConduct163859)       [](https://www.healthonnet.org/HONcode/Conduct.html?HONConduct163859)           [](https://www.healthonnet.org/HONcode/Conduct.html?HONConduct163859)[](http://greatnonprofits.org/org/apfed)      [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20131%20122'%3E%3C/svg%3E)
-
-![](https://apfed.org/wp-content/uploads/2023/01/NORD_Logo-e1573864766540.jpg)](http://www.rarediseases.org/)       [](https://www.healthonnet.org/HONcode/Conduct.html?HONConduct163859)            [](http://www.rarediseases.org/)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-
-![](https://widgets.guidestar.org/gximage2?o=8203250&l=v4)](https://www.guidestar.org/profile/76-0700153)
+  [](https://www.healthonnet.org/HONcode/Conduct.html?HONConduct163859)            [](https://www.healthonnet.org/HONcode/Conduct.html?HONConduct163859)               [](https://www.healthonnet.org/HONcode/Conduct.html?HONConduct163859)       [](https://www.healthonnet.org/HONcode/Conduct.html?HONConduct163859)               [](https://www.healthonnet.org/HONcode/Conduct.html?HONConduct163859)[![](https://apfed.org/wp-content/uploads/2018/12/new-badge.jpg)](http://greatnonprofits.org/org/apfed)          [](https://www.healthonnet.org/HONcode/Conduct.html?HONConduct163859)       [](https://www.healthonnet.org/HONcode/Conduct.html?HONConduct163859)           [](https://www.healthonnet.org/HONcode/Conduct.html?HONConduct163859)[](http://greatnonprofits.org/org/apfed)       [![](https://apfed.org/wp-content/uploads/2023/01/NORD_Logo-e1573864766540.jpg)](http://www.rarediseases.org/)       [](https://www.healthonnet.org/HONcode/Conduct.html?HONConduct163859)            [](http://www.rarediseases.org/)[![](https://widgets.guidestar.org/gximage2?o=8203250&l=v4)](https://www.guidestar.org/profile/76-0700153)
 
 copyright
 
@@ -524,5 +515,3 @@ The information provided on apfed.org is designed to support, not to replace, th
 Copyright © 2001-2024 American Partnership for Eosinophilic Disorders.
 
 [Privacy Policy](https://apfed.org/disclaimer-privacy-policy) | [Terms of Use](https://apfed.org/terms-of-use)
-
-We use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it.[Ok](#)
