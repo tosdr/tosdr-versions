@@ -2,12 +2,6 @@
 
 [![logo](/modules/assets/logo/logo.png)](https://bcgame.sk/)
 
-![refer-friend](/assets/uefa.90e3d4a9.png)
-
-Experience the Thrill of the
-
-Euro Cup 2024!
-
 Casino
 
 [Picks For You](https://bcgame.sk/gamelist/picks-for-you)
@@ -20,9 +14,7 @@ Recent
 
 [![](/assets/Crash.ec1942f7.png)
 
-Crash](https://bcgame.sk/game/crash)[![](/assets/UltimateDice.e3fb51c3.png)
-
-Ultimate Dice](https://bcgame.sk/game/ultimate-dice)[![](/assets/Limbo.011b8b65.png)
+Crash](https://bcgame.sk/game/crash)[![](/assets/Limbo.011b8b65.png)
 
 Limbo](https://bcgame.sk/game/limbo)[![](/assets/ClassicDice.246bc06a.png)
 
@@ -30,13 +22,15 @@ Classic Dice](https://bcgame.sk/game/classic-dice)[![](/assets/Plinko.408dd155.p
 
 Plinko](https://bcgame.sk/game/plinko)[![](/assets/HashDice.445aff9f.png)
 
-Hash Dice](https://bcgame.sk/game/hash-dice)[![](/assets/KenoSingle.6244c89e.png)
+Hash dice](https://bcgame.sk/game/hash-dice)[![](/assets/UltimateDice.e3fb51c3.png)
 
-Keno](https://bcgame.sk/game/keno)[![](/assets/Twist.aeed2ac6.png)
+Ultimate Dice](https://bcgame.sk/game/ultimate-dice)[![](/assets/KenoSingle.6244c89e.png)
 
-Twist](https://bcgame.sk/game/twist)[![](/assets/Wheel.4ec42835.png)
+Keno](https://bcgame.sk/game/keno)[![](/assets/Wheel.4ec42835.png)
 
-Wheel](https://bcgame.sk/game/wheel)[![](/assets/Mines.41c036c1.png)
+Wheel](https://bcgame.sk/game/wheel)[![](/assets/Twist.aeed2ac6.png)
+
+Twist](https://bcgame.sk/game/twist)[![](/assets/Mines.41c036c1.png)
 
 Mines](https://bcgame.sk/game/mines)[![](/assets/Cave.89f3fbd0.png)
 
@@ -44,7 +38,7 @@ Cave](https://bcgame.sk/game/cave)[![](/assets/Tower.3d93671f.png)
 
 Tower Legend](https://bcgame.sk/game/tower-legend)[![](/assets/CoinFlip.340b3677.png)
 
-CoinFlip](https://bcgame.sk/game/coinflip)[![](/assets/HiLo.86a19c7b.png)
+Coinflip](https://bcgame.sk/game/coinflip)[![](/assets/HiLo.86a19c7b.png)
 
 Hilo](https://bcgame.sk/game/hilo)[![](/assets/RouletteSingle.48e1c85a.png)
 
@@ -60,75 +54,67 @@ Beauties](https://bcgame.sk/game/oriental-beauties)[![](/assets/Swords.1712c95b.
 
 Sword](https://bcgame.sk/game/sword)[![](/assets/BaccaratSingle.857259c1.png)
 
-Baccarat](https://bcgame.sk/game/baccarat)[![](/assets/BlackJack.7f868444.png)
+Baccarat](https://bcgame.sk/game/baccarat)[![](/assets/Keno.4596331e.png)
 
-BCGame Roulette](https://bcgame.sk/game/evo21:roulette:r4dcwwxx47rywy5n)[![](/assets/DeadliestSea.ada67982.png)
+Keno multiplayer](https://bcgame.sk/game/keno-multiplayer)[![](/assets/BlackJack.7f868444.png)
 
-Deadliest Sea](https://bcgame.sk/game/CRO12:120)[![](/assets/BlackJack.7f868444.png)
+Blackjack](https://bcgame.sk/game/blackjack)[![](/assets/Double.ecdb8a52.png)
 
-Blackjack](https://bcgame.sk/game/blackjack)[![](/assets/BlackJack.7f868444.png)
+Double](https://bcgame.sk/game/double)[![](/assets/DeadliestSea.ada67982.png)
 
-Left 4 Cash](https://bcgame.sk/game/CRO12:130)[![](/assets/Keno.4596331e.png)
+Deadliest Sea](https://bcgame.sk/game/CRO12:120)[![](/assets/Roulette.6b277c23.png)
 
-Keno Multiplayer](https://bcgame.sk/game/keno-multiplayer)[![](/assets/Double.ecdb8a52.png)
+Roulette Multiplayer](https://bcgame.sk/game/roulette-multiplayer)[![](/assets/BlackJack.7f868444.png)
 
-Double](https://bcgame.sk/game/double)[![](/assets/BlackJack.7f868444.png)
+Candy Fiesta 1000](https://bcgame.sk/game/CRO12:127)[![](/assets/BlackJackB.39850ec8.png)
 
-Cursed Doll](https://bcgame.sk/game/CRO12:126)[![](/assets/Academy.06941e95.png)
-
-Wizard's Academy](https://bcgame.sk/game/CRO12:121)[![](/assets/Roulette.6b277c23.png)
-
-Roulette Multiplayer](https://bcgame.sk/game/roulette-multiplayer)[![](/assets/Baccarat.47e9d8f2.png)
-
-Baccarat multiplayer](https://bcgame.sk/game/baccarat-multiplayer)[![](/assets/BlackJack.7f868444.png)
-
-BCGame Blackjack C](https://bcgame.sk/game/evo21:blackjack:r4dccjre47rytlgz)[![](/assets/BlackJack.7f868444.png)
-
-Sugar Fiesta 1000](https://bcgame.sk/game/CRO12:128)[![](/assets/JohnWild.1fd9cf04.png)
-
-John Wild](https://bcgame.sk/game/CRO12:123)[![](/assets/BlackJackB.39850ec8.png)
-
-BC Blackjack B](https://bcgame.sk/game/evo21:blackjack:reyezjtolwpf37px)[![](/assets/BlackJack.7f868444.png)
-
-BCGame Blackjack D](https://bcgame.sk/game/evo21:blackjack:r4dcfcsu47rytz6v)[![](/assets/BlackJackA.f17772ea.png)
+BC Blackjack B](https://bcgame.sk/game/evo21:blackjack:reyezjtolwpf37px)[![](/assets/BlackJackA.f17772ea.png)
 
 BC Blackjack A](https://bcgame.sk/game/evo21:blackjack:reyd5odmlwpfzjdw)[![](/assets/SpeedBlackjack.3a7b41d4.png)
 
-BCGAME Speed Blackjack](https://bcgame.sk/game/evo21:blackjack:rgea7vnq54ehg2fs)[![](/assets/Zombies.b3d80146.png)
+BCGAME Speed Blackjack](https://bcgame.sk/game/evo21:blackjack:rgea7vnq54ehg2fs)[![](/assets/Academy.06941e95.png)
 
-Run Away! Zombies](https://bcgame.sk/game/CRO12:124)[![](/assets/BlackJack.7f868444.png)
+Wizard's Academy](https://bcgame.sk/game/CRO12:121)[![](/assets/JohnWild.1fd9cf04.png)
 
-Candy Fiesta 1000](https://bcgame.sk/game/CRO12:127)[![](/assets/BlackJack.7f868444.png)
+John Wild](https://bcgame.sk/game/CRO12:123)[![](/assets/Baccarat.47e9d8f2.png)
 
-Piece Of Cash](https://bcgame.sk/game/CRO12:129)[![](/assets/VipBlackjack.67b994b7.png)
+Baccarat multiplayer](https://bcgame.sk/game/baccarat-multiplayer)[![](/assets/BlackJack.7f868444.png)
 
-BCGAME VIP Blackjack](https://bcgame.sk/game/evo21:blackjack:rgdzue7v4xaga5s5)[![](/assets/BlackJack.7f868444.png)
+Sugar Fiesta 1000](https://bcgame.sk/game/CRO12:128)[![](/assets/VipBlackjack.67b994b7.png)
 
-BCGame VIP Blackjack 2](https://bcgame.sk/game/evo21:blackjack:r4da45gr47ryncsy)[![](/assets/DragonQuest.fbad6c32.png)
+BCGAME VIP Blackjack](https://bcgame.sk/game/evo21:blackjack:rgdzue7v4xaga5s5)[![](/assets/Zombies.b3d80146.png)
 
-Dragon Quest](https://bcgame.sk/game/CRO12:122)[![](/assets/DragonSlayer.d1468223.png)
+Run Away! Zombies](https://bcgame.sk/game/CRO12:124)[![](/assets/SpeedBaccarat.4e36e147.png)
 
-Dragon Slayer](https://bcgame.sk/game/CRO12:111)[![](/assets/SpeedBaccarat.4e36e147.png)
+BC Speed Baccarat](https://bcgame.sk/game/pp23:424i)[![](/assets/DragonQuest.fbad6c32.png)
 
-BC Speed Baccarat](https://bcgame.sk/game/pp23:424i)[![](/assets/BlackJack.7f868444.png)
+Dragon Quest](https://bcgame.sk/game/CRO12:122)[![](/assets/DoggyMiner.3d17e0de.png)
 
-Samurai Clash](https://bcgame.sk/game/CRO12:125)[![](/assets/DoggyMiner.3d17e0de.png)
+Doggy Miner](https://bcgame.sk/game/CRO12:109)[![](/assets/BlackJack.7f868444.png)
 
-Doggy Miner](https://bcgame.sk/game/CRO12:109)[![](/assets/OneBlackjack.7b0de011.png)
+Samurai Clash](https://bcgame.sk/game/CRO12:125)[![](/assets/DragonSlayer.d1468223.png)
+
+Dragon Slayer](https://bcgame.sk/game/CRO12:111)[![](/assets/OneBlackjack.7b0de011.png)
 
 BC ONE BlackJack](https://bcgame.sk/game/pp23:902a13)[![](/assets/Hunter.5ad56279.png)
 
 Monster Hunter](https://bcgame.sk/game/CRO12:110)
 
-[Slots](https://bcgame.sk/gamelist/slots)[Live Casino](https://bcgame.sk/gamelist/live)[Hot Games](https://bcgame.sk/tagname/hot)[New Releases](https://bcgame.sk/tagname/new-releases)[Feature Buy-in](https://bcgame.sk/tagname/feature-buy-in)[Bingo](https://bcgame.sk/bingolist)[Blackjack](https://bcgame.sk/tagname/blackjack)[Table Games](https://bcgame.sk/tagname/table-games)
+[Slots](https://bcgame.sk/gamelist/slots)[Live Casino](https://bcgame.sk/gamelist/live)[Hot Games](https://bcgame.sk/tagname/hot)[New Releases](https://bcgame.sk/tagname/new-releases)[Feature Buy-in](https://bcgame.sk/tagname/feature-buy-in)[Blackjack](https://bcgame.sk/tagname/blackjack)[Table Games](https://bcgame.sk/tagname/table-games)
 
 Sports
 
-[Live Events](https://bcgame.sk/sports?bt-path=%2Flive)[Soccer](https://bcgame.sk/sports?bt-path=%2Fsoccer-1)[Tennis](https://bcgame.sk/sports?bt-path=%2Ftennis-5)[Basketball](https://bcgame.sk/sports?bt-path=%2Fbasketball-2)[Cricket](https://bcgame.sk/sports?bt-path=%2Fcricket-21)[FIFA](https://bcgame.sk/sports?bt-path=%2Ffifa-300)[American Football](https://bcgame.sk/sports?bt-path=%2Famerican-football-16)[Ice Hockey](https://bcgame.sk/sports?bt-path=%2Fice-hockey-4)[Baseball](https://bcgame.sk/sports?bt-path=%2Fbaseball-3)[Handball](https://bcgame.sk/sports?bt-path=%2Fhandball-6)[Racing](https://bcgame.sk/racing)
+[Live Events](https://bcgame.sk/sports?bt-path=%2Flive)[Soccer](https://bcgame.sk/sports?bt-path=%2Fsoccer-1)[Tennis](https://bcgame.sk/sports?bt-path=%2Ftennis-5)[Basketball](https://bcgame.sk/sports?bt-path=%2Fbasketball-2)[Cricket](https://bcgame.sk/sports?bt-path=%2Fcricket-21)[FIFA](https://bcgame.sk/sports?bt-path=%2Ffifa-300)[American Football](https://bcgame.sk/sports?bt-path=%2Famerican-football-16)[Ice Hockey](https://bcgame.sk/sports?bt-path=%2Fice-hockey-4)[Baseball](https://bcgame.sk/sports?bt-path=%2Fbaseball-3)[Handball](https://bcgame.sk/sports?bt-path=%2Fhandball-6)
+
+Racing
+
+[Bet History](https://bcgame.sk/racing/history)[Horse](https://bcgame.sk/racing/horse)[Greyhound](https://bcgame.sk/racing/greyhound)
 
 Lottery
 
 [All Lotteries](https://bcgame.sk/lottery/allLotteries)[BC Lottery](https://bcgame.sk/lottery/detail/0)[Popular](https://bcgame.sk/lottery/allLotteries?sort=lottery_popular)
+
+[Bingo](https://bcgame.sk/bingolist)
 
 Up Down
 
@@ -162,7 +148,7 @@ Promo
 
 Support/Legal
 
-[Help center](https://bcgame.sk/help "Help center")[Gamble Aware](https://bcgame.sk/help/gameble-aware "Gamble Aware")[Fairness](https://bcgame.sk/help/provably-fair "Fairness")[FAQ](https://bcgame.sk/help/faq "FAQ")[Privacy Policy](https://bcgame.sk/help/privacy "Privacy Policy")[Terms Of Service](https://bcgame.sk/help/terms-service "Terms Of Service")[Law Enforcement](https://bcgame.sk/help/law-enforcement "Law Enforcement")[Self-exclusion](https://bcgame.sk/help/self-exclusion "Self-exclusion")[AML](https://bcgame.sk/help/aml "AML")[Design Resources](https://drive.google.com/drive/folders/1Q48CUgrJOAeDGpBqmdHGNwWGxNEdTZzQ "Design Resources")[APP](https://bcgame.sk/app_download/android "APP")Live Support
+[Help center](https://bcgame.sk/help "Help center")[Gamble Aware](https://bcgame.sk/help/gameble-aware "Gamble Aware")[Fairness](https://bcgame.sk/help/provably-fair "Fairness")[FAQ](https://bcgame.sk/help/faq "FAQ")[Privacy Policy](https://bcgame.sk/help/privacy "Privacy Policy")[Terms Of Service](https://bcgame.sk/help/terms-service "Terms Of Service")[Self-exclusion](https://bcgame.sk/help/self-exclusion "Self-exclusion")[AML](https://bcgame.sk/help/aml "AML")[Design Resources](https://drive.google.com/drive/folders/1Q48CUgrJOAeDGpBqmdHGNwWGxNEdTZzQ "Design Resources")[APP](https://bcgame.sk/app_download/android "APP")Live Support
 
 About us
 
@@ -170,7 +156,7 @@ About us
 
 Join our Community
 
-[![telegram](/assets/share_7.f3cb39a2.png)](https://t.me/bcgamewin)[![github](/assets/share_5.2a1f1696.png)](https://github.com/undefined)[![twitter](/assets/share_8.ae8effba.png)](https://twitter.com/BCGameOfficial)[![facebook](/assets/share_3.21374ebb.png)](https://www.facebook.com/bcgameofficial)[![discord](/assets/share_2.45a347d3.png)](https://discord.gg/xqUMQesZQq)[![bitcoin](/assets/share_1.522ec023.png)](https://bitcointalk.org/index.php?topic=5088875.0)[![instagram](/assets/share_6.b1025447.png)](https://instagram.com/bcgamecom)[![global-tele](/assets/tele.6ad1cbb0.png)](https://bcgame.sk/telegram)
+[![telegram](/assets/share_7.f3cb39a2.png)](https://t.me/bcgamewin)[![github](/assets/share_5.2a1f1696.png)](https://github.com/undefined)[![twitter](/assets/share_8.ae8effba.png)](https://twitter.com/BCGameOfficial)[![facebook](/assets/share_3.21374ebb.png)](https://www.facebook.com/bcgameofficial)[![discord](/assets/share_2.45a347d3.png)](https://discord.gg/xqUMQesZQq)[![bitcoin](/assets/share_1.522ec023.png)](https://bitcointalk.org/index.php?topic=5088875.0)[![instagram](/assets/share_6.b1025447.png)](https://instagram.com/bcgamecom)
 
 Accepted Networks
 
@@ -200,12 +186,16 @@ Crypto trading is not gambling by definition, therefore it is not covered by our
 
 Copyright ©2024 SUPERSELL.COM ALL RIGHTS RESERVED
 
-1BTC=$69,362.59
+1BTC=$66,280.18
 
 Top
 
-SUPERSELL.COM is operated under a non-exclusive license by Small House B.V, a company registered in Curacao with Company Number 164979 and with Registered Address at: Zuikertuintjeweg Z/N, Curacao.
+SUPERSELL.COM is owned and operated by Small House B.V, a company registered in Curacao with Company Number 164979 and with Registered Address at: Zuikertuintjeweg Z/N, Curacao.
 
-[![license](/assets/gcb.a73cb475.png)](https://cert.gcb.cw/certificate?id=ZXlKcGRpSTZJbFY1ZUZkWU5FbDRURFJuWkVvMWVGaGpaR2RMUTBFOVBTSXNJblpoYkhWbElqb2lhVVZDTm10RlpHTkxSelY2U21oSVFVaE5kMFJ5VVQwOUlpd2liV0ZqSWpvaVptTXdPVEJoTTJVeU5HWTVOREZoWXpWbE56RTBabUZsTUdOaU5qVXpOemd3WTJVMU5XTXpNVE01TTJNNU9HSXlNREE1WWpFNU1UVmpOamhsT0dabFpTSXNJblJoWnlJNklpSjk=)
+[![license](/assets/gcb.9319f886.png)](https://cert.gcb.cw/?id=ZXlKcGRpSTZJbFY1ZUZkWU5FbDRURFJuWkVvMWVGaGpaR2RMUTBFOVBTSXNJblpoYkhWbElqb2lhVVZDTm10RlpHTkxSelY2U21oSVFVaE5kMFJ5VVQwOUlpd2liV0ZqSWpvaVptTXdPVEJoTTJVeU5HWTVOREZoWXpWbE56RTBabUZsTUdOaU5qVXpOemd3WTJVMU5XTXpNVE01TTJNNU9HSXlNREE1WWpFNU1UVmpOamhsT0dabFpTSXNJblJoWnlJNklpSjk=)
 
 Small House B.V., is licensed and regulated by the Gaming Control Board (GCB) with Licence Number: OGL/2023/118/0060 Issued in 22nd February 2024. Trust Service by [https://wyze-trust.com](https://wyze-trust.com/) and Represented by [https://igagroup.com](https://igagroup.com/)
+
+[![license](/assets/license.d1460593.png)](https://knoxxit2.sharepoint.com/:b:/s/CIL-Validations/ES3IKThD11JIp7Nt65rIIskBqDKJPUz4cK23-a6gV7UwFQ?e=geGYID)
+
+SUPERSELL.COM is operated by BlockDance B.V. (Commercial register of Curaçao no.158182, Emancipatie Boulevard Dominico F. "Don" Martina 31, Curaçao) under a sublicense CIL pursuant to Master gaming License #5536/JAZ.
