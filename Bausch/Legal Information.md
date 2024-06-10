@@ -2,7 +2,7 @@
 
 * [About Us](https://www.bauschhealth.com/about-us/)
     * [Who We Are](https://www.bauschhealth.com/about-us/who-we-are/)
-    * [Our Ambition, Purpose, & Values](https://www.bauschhealth.com/about-us/our-ambition-purpose-and-values/)
+    * [Our Mission, Vision and Values](https://www.bauschhealth.com/about-us/our-mission-vision-and-values/)
     * [Executive Leadership Team](https://www.bauschhealth.com/about-us/executive-leadership-team/)
     * [Board of Directors](https://ir.bauschhealth.com/corporate-governance/board-of-directors)
     * [Our Locations](https://www.bauschhealth.com/about-us/our-locations/)
@@ -197,7 +197,7 @@ The Site may contain forward-looking statements regarding Bausch Health’s fina
 If you have any questions about these Terms, please contact us at [pharmcs@bauschhealth.com](mailto:pharmcs@bauschhealth.com)
 
 * * [Who We Are](https://www.bauschhealth.com/about-us/who-we-are/)
-    * [Our Ambition, Purpose, & Values](https://www.bauschhealth.com/about-us/our-ambition-purpose-and-values/)
+    * [Our Mission, Vision and Values](https://www.bauschhealth.com/about-us/our-mission-vision-and-values/)
     * [Executive Leadership Team](https://www.bauschhealth.com/about-us/executive-leadership-team/)
     * [Board of Directors](https://ir.bauschhealth.com/corporate-governance/board-of-directors)
     * [Our Locations](https://www.bauschhealth.com/about-us/our-locations/)
