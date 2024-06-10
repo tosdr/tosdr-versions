@@ -1,14 +1,10 @@
 * [](https://www.brycewray.com/ "Home page")
-* [Latest](https://www.brycewray.com/posts/2024/06/slash-pages-existing-new/ "The most recently added post on the site")
-* [Archive](https://www.brycewray.com/posts/ "Archive")
-* [Search](https://www.brycewray.com/search/ "Site search")
-* [Sitemap](https://www.brycewray.com/sitemap/ "Sitemap")
 * [About](https://www.brycewray.com/about/ "About me")
-* [Blogroll](https://www.brycewray.com/blogroll/ "Blogroll")
-* [Colophon](https://www.brycewray.com/colophon/ "Colophon")
-* [Contact](https://www.brycewray.com/contact/ "Contact info")
-* [Follow](https://www.brycewray.com/follow/ "Follow info")
+* [Newest post](https://www.brycewray.com/posts/2024/04/life-intrudes/ "The most recently added post on the site")
+* [All posts](https://www.brycewray.com/posts/ "Posts")
+* [Search](https://www.brycewray.com/search/ "Site search")
 * [Privacy](https://www.brycewray.com/privacy/ "Privacy policy")
+* [Contact/RSS](https://www.brycewray.com/contact/ "Contact info and feed links")
 
   
 
@@ -52,8 +48,8 @@ This site uses [lite-youtube-embed](https://github.com/paulirish/lite-youtube-em
 2. I based this on Sia Karamalegos’s article, “[Faster YouTube embeds in Eleventy](https://sia.codes/posts/lite-youtube-embed-eleventy/)” (although my site uses Hugo). [↩︎](#fnref:2)
     
 
-Latest commit ([`34db53fa6`](https://github.com/brycewray/hugo-site/commit/34db53fa65fc64b2d8858f74a7f6ca383b018d65 "Latest commit for this page")) for page file:  
-2024-06-02 at 1:20:04 PM CDT.  
+Latest commit ([`104deee8e`](https://github.com/brycewray/hugo-site/commit/104deee8e90406d6f319e37f29d7aea1431383c6 "Latest commit for this page")) for page file:  
+2024-04-21 at 10:11:37 AM CDT.  
 [Page history](https://github.com/brycewray/hugo-site/commits/main/content/privacy/index.md "This page’s commit history")
 
 Search this site
@@ -63,4 +59,4 @@ Search this site
 [HTML sitemap](https://www.brycewray.com/sitemap/) • [XML sitemap](https://www.brycewray.com/sitemap.xml)
 
 Textual content © 2018–2024 [Bryce Wray](https://www.brycewray.com/) except where otherwise noted and/or quoting external sources.  
-Affiliated with [Fathom Analytics](https://usefathom.com/ref/ZKHYWX) _(affiliate link)_.
+For other site-wide disclaimers/credits, see the [footer](https://www.brycewray.com/about/#footer-info) of the [“About me” page](https://www.brycewray.com/about/).
