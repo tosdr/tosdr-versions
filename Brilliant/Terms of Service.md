@@ -6,11 +6,11 @@
 
 The best way to learn math and computer science.
 
-[Log in with Google](https://brilliant.org/account/google/login/?next=/terms-of-use/) [Log in with Facebook](https://brilliant.org/account/facebook/login/?next=/terms-of-use/) [Log in with email](https://brilliant.org/account/login/?next=/terms-of-use/)
+[Log in with Facebook](https://brilliant.org/account/facebook/login/?next=/terms-of-use/) [Log in with Google](https://brilliant.org/account/google/login/?next=/terms-of-use/) [Log in with email](https://brilliant.org/account/login/?next=/terms-of-use/)
 
-[Join using Google](https://brilliant.org/account/google/login/?next=/terms-of-use/) [Join using Facebook](https://brilliant.org/account/facebook/login/?next=/terms-of-use/) [Join using email](https://brilliant.org/account/signup/?signup=true&next=/terms-of-use/)
+[Join using Facebook](https://brilliant.org/account/facebook/login/?next=/terms-of-use/) [Join using Google](https://brilliant.org/account/google/login/?next=/terms-of-use/) [Join using email](https://brilliant.org/account/signup/?signup=true&next=/terms-of-use/)
 
-[Reset password](https://brilliant.org/account/password/reset/) New user? [Sign up](https://brilliant.org/account/signup/?signup=true&next=/terms-of-use/)
+[Forgot password?](https://brilliant.org/account/password/reset/) New user? [Sign up](https://brilliant.org/account/signup/?signup=true&next=/terms-of-use/)
 
 Existing user? [Log in](https://brilliant.org/account/login/?next=/terms-of-use/)
 
@@ -45,7 +45,7 @@ Terms of Use
 **BRILLIANT.ORG WEBSITE TERMS OF USE  
 AND COPYRIGHT NOTICE**
 
-The following terms and conditions (the "Agreement") govern all use of the www.Brilliant.org website (the "Site") and the products and services available on or at the Site (taken together with the Site, the "Service"). The Service is owned and operated by Brilliant Worldwide, Inc. ("Brilliant"). The Service is offered subject to your (the "User's") acceptance without modification of all of the terms and conditions contained herein and all other operating rules, policies and procedures that may be published from time to time on the Site by Brilliant. BY USING OR ACCESSING ANY PART OF THE SERVICE, YOU (the "User") AGREE TO ALL OF THE TERMS AND CONDITIONS CONTAINED HEREIN; IF YOU DO NOT AGREE, DO NOT USE OR ACCESS THE SERVICE.
+The following terms and conditions (the "Agreement") govern all use of the www.Brilliant.org website (the "Site") and the products and services available on or at the Site (taken together with the Site, the "Service"). The Service is owned and operated by Brilliant Worldwide, Inc. ("Brilliant"). The Service is offered subject to your (the "User's") acceptance without modification of all of the terms and conditions contained herein and all other operating rules, policies and procedures that may be published from time to time on the Site by Brilliant. BY USING OR ACCESSING ANY PART OF THE SERVICE, YOU (the "User") AGREE TO ALL OF THE TERMS AND CONDITIONS CONTAINED HEREIN; IF YOU NOT AGREE, DO NOT USE OR ACCESS THE SERVICE.
 
 Brilliant reserves the right, at its sole discretion, to modify or replace any of the terms or conditions of this Agreement at any time. It is User's responsibility to check this Agreement periodically for changes. User's continued use of the Service following the posting of any changes to this Agreement constitutes acceptance of those changes.
 
@@ -214,7 +214,7 @@ San Francisco, CA 94111
 
 [Practice math and science questions on the Brilliant iOS app.](https://itunes.apple.com/app/apple-store/id913335252?pt=105095803&ct=brilliant_website_footer&mt=8)
 
-* [![Twitter](/site_media/version-01/images/icon-twitter-x-blue.svg)](https://twitter.com/brilliantorg)
+* [](https://twitter.com/brilliantorg)
 * [](https://www.facebook.com/brilliantorg)
 * [About](https://brilliant.org/about/)
 * [Careers](https://brilliant.org/careers/)
