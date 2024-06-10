@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**June 8, 2024**
+**June 9, 2024**
 
 * * *
 
@@ -229,6 +229,9 @@ this hour
 
 * * *
 
+* [Animal Flapping: Universal Equation](https://www.sciencedaily.com/releases/2024/06/240605162702.htm)
+* [CRISPR/Cas9 Can Alter Photosynthesis](https://www.sciencedaily.com/releases/2024/06/240607151714.htm)
+* [Regenerating Damaged Heart Cells](https://www.sciencedaily.com/releases/2024/06/240606152151.htm)
 * ['Missing' Early Sea Sponges Discovered](https://www.sciencedaily.com/releases/2024/06/240605162409.htm)
 * [Younger Classmates Diagnosed With ADHD](https://www.sciencedaily.com/releases/2024/06/240606152231.htm)
 * [Upending Theory of Milky Way Formation](https://www.sciencedaily.com/releases/2024/06/240606152204.htm)
@@ -236,9 +239,6 @@ this hour
 * [Marine Cyanobacteria Can Communicate](https://www.sciencedaily.com/releases/2024/06/240606152330.htm)
 * ['Tweezer-Like' Bionic Tools Feel Right](https://www.sciencedaily.com/releases/2024/06/240606152145.htm)
 * [Odd Planet-Forming Disks Around Low-Mass Stars](https://www.sciencedaily.com/releases/2024/06/240606152101.htm)
-* [Toward Blood Stem Cell Self-Renewal](https://www.sciencedaily.com/releases/2024/06/240605162720.htm)
-* [Restored Hearing and Speech in Kids Born Deaf](https://www.sciencedaily.com/releases/2024/06/240605162544.htm)
-* [Babies and AI Both Learn Key Foundation Models](https://www.sciencedaily.com/releases/2024/06/240605162522.htm)
 
 Trending Topics
 ---------------
@@ -251,9 +251,9 @@ this week
 
 [Heart Disease](https://www.sciencedaily.com/news/health_medicine/heart_disease/)
 
-[Breast Cancer](https://www.sciencedaily.com/news/health_medicine/breast_cancer/)
+[Chronic Illness](https://www.sciencedaily.com/news/health_medicine/chronic_illness/)
 
-[Patient Education and Counseling](https://www.sciencedaily.com/news/health_medicine/patient_education_and_counseling/)
+[Breast Cancer](https://www.sciencedaily.com/news/health_medicine/breast_cancer/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
@@ -265,11 +265,11 @@ this week
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
+[Environmental Awareness](https://www.sciencedaily.com/news/earth_climate/environmental_awareness/)
+
+[Environmental Policy](https://www.sciencedaily.com/news/earth_climate/environmental_policy/)
+
 [Biology](https://www.sciencedaily.com/news/plants_animals/biology/)
-
-[Marine Biology](https://www.sciencedaily.com/news/plants_animals/marine_biology/)
-
-[Nature](https://www.sciencedaily.com/news/plants_animals/nature/)
 
   
 
