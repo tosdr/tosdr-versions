@@ -144,17 +144,12 @@ Agree & Install
 
 Full terms of service
 
-You are 1 click away from being fully secure with FREE Premium VPN!
--------------------------------------------------------------------
-
-Here is what you need to do:
-
-1. **Step 1** Bright VPN is downloading in top-right browser corner…
-2. **Step 2** Once finished, click on the file and complete installation
-
-![AppEsteem_Seal_Logo](https://brightvpn.com/wp-content/uploads/2022/05/AppEsteem_Seal_Logo-1-1.svg)
+You are 2 min. away from being fully secure with FREE Premium VPN!
+------------------------------------------------------------------
 
 Cleared by major Anti-Virus engines!
+
+![](https://brightvpn.com/wp-content/uploads/2021/08/appesteem_logo.svg)
 
 ![](https://brightvpn.com/wp-content/uploads/2021/08/ic_safe.svg)
 
@@ -162,6 +157,8 @@ We are confident that Bright VPN is 100% safe
 Still receiving an error message? [Click here ›](https://brightvpn.com/faq#why-am-i-receiving-an-error-when-downloading-brightvpn-what-can-i-do)
 
 ![](https://brightvpn.com/wp-content/uploads/2021/08/arrow_tripple_down.svg)
+
+Downloading **Bright VPN - the best FREE VPN** in the world, [read more](https://brightvpn.com/faq)
 
 Want to earn 100 Buffs?
 -----------------------
@@ -186,14 +183,9 @@ Want to earn 100 Buffs?
 
 ##### BrightVPN - Desktop App
 
-1. **Step 1**
-    
-    Bright VPN is now downloading…
-    
-2. **Step 2**
-    
-    Once finished, click on the file and complete installation
-    
+1. **Click BrightVPN-1.0.25.dmg** to open it Click [here](#) if your download doesn’t start ![](/wp-content/uploads/2021/09/download_mac_dark_3x.png)![](/wp-content/uploads/2021/09/download_mac_light_3x.png)
+2. **Drag** BrightVPN icon to “Applications” to install ![](/wp-content/uploads/2021/09/save_mac_3x.png)
+3. **Open** “BrightVPN” from “Applications” to run BrightVPN
 
 ![](https://brightvpn.com/wp-content/uploads/2021/08/arrow_tripple_down.svg)
 
