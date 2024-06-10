@@ -2,7 +2,7 @@
 
 Shop Now](https://www.rakuten.ca/ticket/campaign/2019-countdown-clock/coupon/lululemon?store=lululemon&sourceName=sitewide-sticky-header)[Expedia.ca: 25% or more off your dream stay + Up to 10% Cash Back
 
-Shop Now](https://www.rakuten.ca/ticket/campaign/2019-countdown-clock/coupon/expedia-ca?store=expedia-ca&sourceName=sitewide-sticky-header)[Michael Kors: The Father's Day event: 25% off men's bags & wallets + 4% Cash Back
+Shop Now](https://www.rakuten.ca/ticket/campaign/2019-countdown-clock/coupon/expedia-ca?store=expedia-ca&sourceName=sitewide-sticky-header)[Michael Kors: The Father's Day event: 25% off men's bags & wallets + 2% Cash Back
 
 Shop Now](https://www.rakuten.ca/ticket/campaign/2019-countdown-clock/coupon/michael-kors?store=michael-kors&sourceName=sitewide-sticky-header)
 
@@ -317,7 +317,7 @@ FR
         
         6% Cash Back](https://www.rakuten.ca/angara)[Michael Kors
         
-        4% Cash Back](https://www.rakuten.ca/michael-kors)[Mejuri
+        2% Cash Back](https://www.rakuten.ca/michael-kors)[Mejuri
         
         2% Cash Back](https://www.rakuten.ca/mejuri)[Shoppers Drug Mart Beauty
         
