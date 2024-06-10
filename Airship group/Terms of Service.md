@@ -1,62 +1,48 @@
- [![Airship](https://www.airship.com/wp-content/uploads/2023/06/Airship_pride_2023-new-2.svg) ![Airship](https://www.airship.com/wp-content/uploads/2023/05/brand-airship-dark.svg)](https://www.airship.com/)
+ [![Airship](https://www.airship.com/wp-content/uploads/2023/05/brand-airship.svg) ![Airship](https://www.airship.com/wp-content/uploads/2023/05/brand-airship-dark.svg)](https://www.airship.com/)
 
-* Product
+* Platform
     
-    [Get Pricing](https://www.airship.com/platform/app-experience-platform/pricing/)
+    [App Experience Platform](https://www.airship.com/platform/app-experience-platform/) [Get Pricing](https://www.airship.com/platform/app-experience-platform/pricing/)
     
-    Product
+    * [Inside the app](https://www.airship.com/#inside-the-app)
+    * [Push Notifications](https://www.airship.com/platform/app-experience-platform/inside-the-app/push-notifications/)
+    * [In-App Messaging](https://www.airship.com/platform/app-experience-platform/inside-the-app/in-app-messaging/)
+    * [Scenes](https://www.airship.com/platform/app-experience-platform/inside-the-app/scenes/)
+    * [Stories](https://www.airship.com/platform/app-experience-platform/inside-the-app/stories/)
+    * [Surveys](https://www.airship.com/app-experience-platform/mobile-data-hub/axp-surveys/)
+    * [Message Center](https://www.airship.com/platform/app-experience-platform/inside-the-app/message-center/)
+    * [Preference Center](https://www.airship.com/platform/app-experience-platform/inside-the-app/preference-center/)
+    * [Live Activities & Updates](https://www.airship.com/platform/app-experience-platform/inside-the-app/live-activities/)
     
-    * [Cross-Channel Orchestration](https://www.airship.com/product/cross-channel-orchestration/)
-        
-        Create and manage customer journeys across all channels, from one place
-        
-    * [Personalization](https://www.airship.com/product/personalization)
-        
-        Tailor experiences for every audience segment including audiences of one, all in real-time
-        
-    * [Experimentation](https://www.airship.com/product/experimentation)
-        
-        Test and optimize the performance of every audience segment, journey, feature, experience and message
-        
-    * [AI & Analytics](https://www.airship.com/product/ai-and-analytics/)
-        
-        Analyze user-level data and optimize engagement with Generative and Predictive AI
-        
+    * [Outside the app](https://www.airship.com/#outside-the-app)
+    * [App Store Optimization](https://www.airship.com/platform/app-experience-platform/outside-the-app/app-store-optimization/)
+    * [Email](https://www.airship.com/platform/app-experience-platform/outside-the-app/email/)
+    * [SMS](https://www.airship.com/platform/app-experience-platform/outside-the-app/sms/)
+    * [Web Notifications](https://www.airship.com/platform/app-experience-platform/outside-the-app/web-notifications/)
+    * [Mobile Wallet](https://www.airship.com/platform/app-experience-platform/outside-the-app/mobile-wallet/)
+    * [Open Channel](https://www.airship.com/platform/app-experience-platform/outside-the-app/open-channel/)
     
-    * [App Store Optimization (ASO)](https://www.airship.com/product/app-store-optimization/)
-        
-        Increase visibility and conversion rates in the app stores
-        
-    * [No-Code Experience Editor](https://www.airship.com/platform/app-experience-platform/App-Experience-Editor/)
-        
-        Create native customer experiences once, publish everywhere — no developer support required
-        
-    * [Data Collection & Enrichment](https://www.airship.com/product/data-enrichment-and-collection/)
-        
-        Capture and seamlessly stream real-time data in and out of Airship.
-        
+    * [Experience Editor](https://www.airship.com/platform/app-experience-platform/App-Experience-Editor/)
+    * [Journeys](https://www.airship.com/platform/app-experience-platform/journeys/)
+    * [Segmentation](https://www.airship.com/platform/app-experience-platform/segmentation/)
+    * [Unified Channel Coordination](https://www.airship.com/platform/app-experience-platform/unified-channel-coordination/)
+    * [Contact Management](https://www.airship.com/platform/app-experience-platform/contact-management/)
+    * [Deep Personalization](https://www.airship.com/platform/app-experience-platform/deep-personalization/)
+    * [Experimentation](https://www.airship.com/platform/app-experience-platform/experimentation/)
+    * [Feature Flags](https://www.airship.com/platform/app-experience-platform/feature-flags/)
+    * [Holdout Experiments](https://www.airship.com/platform/app-experience-platform/holdout-experiments/)
+    * [A/B Testing](https://www.airship.com/platform/app-experience-platform/ab-testing/)
+    * [Generative & Predictive AI](https://www.airship.com/platform/app-experience-platform/predictive-ai/)
+    * [Performance Analytics](https://www.airship.com/platform/app-experience-platform/performance-analytics/)
+    * [Real-Time Data Streaming](https://www.airship.com/platform/app-experience-platform/real-time-data-streaming/)
     
-    Channels
+    ![](https://www.airship.com/wp-content/uploads/2024/04/Screenshot-2023-06-01-at-2.44.24-PM-1.jpg)
     
-    * [Push Notifications](https://www.airship.com/product/channels/push-notifications/)
-        
-    * [Mobile App](https://www.airship.com/product/channels/mobile-app)
-        
-    * [SMS](https://www.airship.com/product/channels/sms)
-        
-    * [Email](https://www.airship.com/product/channels/email)
-        
-    * [Web Notifications](https://www.airship.com/product/channels/web-notifications/)
-        
-    * [Mobile Wallet](https://www.airship.com/product/channels/mobile-wallet/)
-        
+    Find out why and how to master MAX. And make life better with better mobile app experiences.
     
-    ![](https://www.airship.com/wp-content/uploads/2024/06/Airship-Spring-Launch-Webinar-Feature-Navigation-Image-2.png)
-    
-    * [3 Ways Marketers Can Gain More Ease, Freedom and Control.](https://www.airship.com/events/3-ways-marketers-can-gain-more-ease-freedom-and-control/)
-        
-        Join our webinar and learn how to use these exciting new feature enhancements.
-        
+    * [Services](https://www.airship.com/services)
+    * [Pricing](https://www.airship.com/platform/app-experience-platform/pricing/)
+    * [Start a Free Account](https://go.airship.com/accounts/register/plan/starter/)
     
 * Solutions
     
@@ -100,7 +86,6 @@
     * [About Airship](https://www.airship.com/company)
     * [Leadership](https://www.airship.com/company/leadership/)
     * [Events](https://www.airship.com/company/events/)
-    * [Mobile Leaders Forum](https://www.airship.com/mobile-leaders-forum-2024/)
     * [Careers](https://www.airship.com/company/careers/)
     * [Newsroom](https://www.airship.com/company/newsroom/)
     * [Contact Us](https://www.airship.com/contact-us)
@@ -128,7 +113,6 @@ Legal
     * [Privacy Statement](https://www.airship.com/legal/privacy/)
     * [California Privacy Rights Notice](https://www.airship.com/legal/california-privacy-rights-notice/)
     * [California Employee and Candidate Privacy Notice](https://www.airship.com/legal/california-employee-and-candidate-privacy-notice/)
-    * [Singapore Job Applicant and Employee Data Protection Policy](https://www.airship.com/legal/singapore-job-applicant-and-employee-data-protection-policy/)
 * Airship Products and Services
     * [Terms of Subscription Service](https://www.airship.com/legal/subscription-terms/)
     * [Support Services Description](https://www.airship.com/legal/support-services/)
