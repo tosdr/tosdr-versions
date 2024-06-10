@@ -1,26 +1,13 @@
-![](https://ct.pinterest.com/v3/?tid=2614420348827&noscript=1)
-
 * [My account](https://www.bdgame.uk/my-account/)
 
 [0 Items](https://www.bdgame.uk/basket/)
 
-[![Blue Donut Games Ltd. UK Boardgames and online store](https://www.bdgame.uk/BDGAME-LOGO.svg)](https://www.bdgame.uk/)
+[![Blue Donut Games Ltd. UK Boardgames](https://www.bdgame.uk/BDGAME-LOGO.svg)](https://www.bdgame.uk/)
 
-* [Our Games](https://www.bdgame.uk/)
-    * [Horror in the Library](https://www.bdgame.uk/horror-in-the-library-game-crowdfunding/)
-    * [Horror in the Library VR Game](https://www.bdgame.uk/horror-in-the-library-vr-game/)
-    * [Further Beyond](https://www.bdgame.uk/further-beyond-rpg/)
-    * [Devices](https://www.bdgame.uk/devices/)
-    * [Line](https://www.bdgame.uk/line-skateboard-game-about/)
-    * [Immortal Paths Card Game](https://www.bdgame.uk/immortal-paths/)
-    * [Zaim](https://www.bdgame.uk/zaim/)
-    * [Colonize Pangaea](https://www.bdgame.uk/pangaea/)
-    * [Squares](https://www.bdgame.uk/squares-the-easy-strategy-card-game-for-2-4-players/)
+* [New Games](https://www.bdgame.uk/new-games)
+* [Games](https://www.bdgame.uk/board-games/)
 * [Shop](https://www.bdgame.uk/welcome/shop-2/)
-* [Basket](https://www.bdgame.uk/basket/)
-* [Checkout](https://www.bdgame.uk/checkout/)
 * [News](https://www.bdgame.uk/blog/)
-* [Download](https://www.bdgame.uk/usefuldownloads/)
 * [About](https://www.bdgame.uk/about-the-company/)
 * [Contact](https://www.bdgame.uk/contact/)
 
@@ -333,11 +320,10 @@ We take your privacy as seriously as we do our own. Here are a few points to con
 * Transparency with Customers and the Public when collecting information.
 * Consent needs to be explicit and not implied when collecting data and carrying out services.
 
+* [Stockists](https://www.bdgame.uk/stockists/)
 * [About Blue Donut Games](https://www.bdgame.uk/about-the-company/)
 * [Privacy Policy](https://www.bdgame.uk/privacy-policy/)
-* [Terms and Conditions of Sale](https://www.bdgame.uk/terms-and-conditions/)
+* [Terms and Conditions](https://www.bdgame.uk/terms-and-conditions/)
 * [Cookie Policy](https://www.bdgame.uk/cookie-policy/)
 
-© Copyright 2024 | Blue Donut Studios & Blue Donut Games Ltd. | Co. Reg: 13340157
-
-![fbpx](https://www.facebook.com/tr?id=3987840727959752&ev=PageView&noscript=1)
+© Copyright 2023 | Blue Donut Studios & Blue Donut Games Ltd. | Co. Reg: 13340157
