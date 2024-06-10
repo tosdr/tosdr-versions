@@ -36,7 +36,7 @@ Personalities shine at A+E Networks EMEA. Our culture embraces individuals, in a
 
 [Our culture](https://www.aenetworks.com/our-culture)
 
-[![The EMEA Creative Team collaborating ](https://aetncorporate.s3.eu-west-2.amazonaws.com/s3fs-public/styles/battenberg_image/public/2024-04/PHOTOGRUL%20-%20A%2BE%20Networks%202048px-52.jpg?VersionId=C4Ii8TUeUwFj0nbbM_6vGjclrcI0Zsua&itok=bk1TECjn)](https://www.aenetworks.com/our-culture)
+[![](https://aetncorporate.s3.eu-west-2.amazonaws.com/s3fs-public/styles/battenberg_image/public/2022-06/culture%20image%20copy.jpg?itok=rUuPZMgi)](https://www.aenetworks.com/our-culture)
 
 [![Our Purpose - A+E Networks EMEA](https://aetncorporate.s3.eu-west-2.amazonaws.com/s3fs-public/styles/battenberg_image/public/2024-02/History%27s_Greatest_Mysteries_2.jpg?VersionId=7JWUsnqErzpBnc1B.0QV7h8ZOFgbYRI5&itok=vPVdyaOp)](https://www.aenetworks.com/our-purpose)
 
@@ -54,9 +54,9 @@ With our diverse line-up of original, high-quality programming, our distribution
 
 [Our partnerships](https://www.aenetworks.com/partnerships)
 
-[![](https://aetncorporate.s3.eu-west-2.amazonaws.com/s3fs-public/styles/battenberg_image/public/2024-05/Dean%40Wavelength_0.jpg?VersionId=rK7q_Rc1SgC9qd1.6pGZWstwKJF0rHIR&itok=KFdwlTly)](https://www.aenetworks.com/partnerships)
+[![](https://aetncorporate.s3.eu-west-2.amazonaws.com/s3fs-public/styles/battenberg_image/public/2022-07/Partnerships%20-%20Dean%20edited.jpg?itok=5qkbnEp5)](https://www.aenetworks.com/partnerships)
 
-[![A photograph of VAL Awards trophies, hosted every year at A+E Networks EMEA](https://aetncorporate.s3.eu-west-2.amazonaws.com/s3fs-public/styles/battenberg_image/public/2024-04/PHOTOGRUL%20-%20A%2BE%20Networks%202048px-80.jpg?VersionId=xJyLtvP4jX5XLc4c3R_MvBQDjl.TvtZL&itok=458VkpHt)](https://www.aenetworks.tv/careers)
+[![A photograph of VAL Awards trophies, hosted every year at A+E Networks EMEA](https://aetncorporate.s3.eu-west-2.amazonaws.com/s3fs-public/styles/battenberg_image/public/2022-07/careers%20image%20-%20homepage%20edited.jpg?itok=ZCaENyDs)](https://www.aenetworks.tv/careers)
 
 Careers
 -------
@@ -70,29 +70,29 @@ Latest news
 
 [All articles](https://www.aenetworks.com/news)
 
-    [![The Blind Detective](https://aetncorporate.s3.eu-west-2.amazonaws.com/s3fs-public/styles/card_tablet/public/2024-06/CREATIVIDAD_HORIZONTAL_BLINDDETECTIVE%2016-9.jpg?VersionId=keEvtcQOufzXnb351ABIMaxn9G_FkTG3&itok=o5STk46I)
+    [![COSMO logo ](/s3/files/styles/card_tablet/public/2024-04/NOTA_DE_PRENSA_1200X800.jpg?itok=DhMTaYVP)
 
-6 June 2024
+22 April 2024
 
-### COSMO PREMIERES THE HIT CRIME SERIES THE BLIND DETECTIVE](https://www.aenetworks.com/news/cosmo-premieres-hit-crime-series-blind-detective)
+### COSMO REVAMPS ITS CORPORATE IMAGE AND LOGO](https://www.aenetworks.com/news/cosmo-revamps-its-corporate-image-and-logo)
 
-    [![Gypsy Rose: Life After Lock Up will premiere on Monday 10th June at 9pm on Crime+Investigation and Crime+Investigation Play ](/s3/files/styles/card_tablet/public/2024-05/JRB.jpg?itok=NLTFNky4)
+    [![Talent Hunters Romania](https://aetncorporate.s3.eu-west-2.amazonaws.com/s3fs-public/styles/card_tablet/public/2024-04/Vanatorii%20de%20Comori%20-%20Echipa.jpg?VersionId=YVg45gpd.3RjxvZVGcLXmSjrOOuU6aMr&itok=PdtalAJD)
 
-31 May 2024
+11 April 2024
 
-### Gypsy Rose: Life After Lock Up. Mondays from 10 June on Crime+Investigation and Crime+Investigation Play](https://www.aenetworks.com/news/gypsy-rose-life-after-lock-mondays-10-june-crimeinvestigation-and-crimeinvestigation-play)
+### A+E NETWORKS EMEA COMMISSIONS NEW SERIES FOR ROMANIA](https://www.aenetworks.com/news/ae-networks-emea-commissions-new-series-romania)
 
-    [![The Life and Murder of Nicole Brown Simpson will premiere on Sunday 16th June from 9pm on Crime+Investigation and Crime+Investigation Play ](/s3/files/styles/card_tablet/public/2024-05/NBS.jpg?itok=xLK74s5x)
+    [![Logos](https://aetncorporate.s3.eu-west-2.amazonaws.com/s3fs-public/styles/card_tablet/public/2024-04/Sales%20House%20copy.jpg?VersionId=UHCuNz4mp0SL6d_1QRfVOiQHYYFBAwGj&itok=kv-IN5CT)
 
-31 May 2024
+9 April 2024
 
-### The Life and Murder of Nicole Brown Simpson Sundays from 16 June on Crime+Investigation and Crime+Investigation Play](https://www.aenetworks.com/news/life-and-murder-nicole-brown-simpson-sundays-16-june-crimeinvestigation-and-crimeinvestigation)
+### A+E NETWORKS EMEA LAUNCHES ADSALES IN BULGARIA](https://www.aenetworks.com/news/ae-networks-emea-launches-adsales-bulgaria)
 
-    [![Dermot Murnaghan ](https://aetncorporate.s3.eu-west-2.amazonaws.com/s3fs-public/styles/card_tablet/public/2024-05/Dermot%20Murnaghan%20RX%201-8%20%282%29%20copy%202.jpg?VersionId=KXKyw91RC2LFxBhVVHsk3Q39wPcLBblD&itok=fY0pqwLC)
+    [![Victims Leah Ware (L) and Alex Morgan (R) (Kent Police/Sussex Police)](https://aetncorporate.s3.eu-west-2.amazonaws.com/s3fs-public/styles/card_tablet/public/2024-03/Leah%20and%20Alex2.jpg?VersionId=mr1bKwV95wFzQbmy6VTJc5qF.CmCFIqQ&itok=ThIis-MY)
 
-20 May 2024
+21 March 2024
 
-### ICONIC SERIES CRIMES THAT SHOOK BRITAIN RETURNS TO CRIME+INVESTIGATION WITH DERMOT MURNAGHAN](https://www.aenetworks.com/news/iconic-series-crimes-shook-britain-returns-crimeinvestigation-dermot-murnaghan)
+### A+E NETWORKS EMEA COMMISSIONS AVALON TO MAKE TWO-PART SPECIAL MURDERS AT LITTLE BRIDGE FARM FOR CRIME+INVESTIGATION](https://www.aenetworks.com/news/ae-networks-emea-commissions-avalon-make-two-part-special-murders-little-bridge-farm)
 
 Corporate
 ---------
