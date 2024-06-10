@@ -84,10 +84,6 @@ Message de confirmation
 
 Un email de confirmation vient de vous être adressé.
 
-Email ou pseudo
-
-Mot de passe
-
  Votre mot de passe est caché.
 
 * 8 caractères minimum
@@ -119,8 +115,6 @@ Bénéficiez gratuitement de fonctionnalités et de services additionnels. [Deve
 Identifiant/Mot de passe oublié
 
 Si vous êtes Membre de la Communauté Boursorama, veuillez indiquer l'adresse email que vous avez fournie lors de votre enregistrement pour recevoir votre identifiant et/ou ré-initialiser votre mot de passe :
-
-Adresse e-mail
 
 * * *
 
@@ -156,11 +150,11 @@ Accès direct :
 1\. Mentions légales
 --------------------
 
-Les sites Internet BOURSORAMA.COM et WWW.BOURSOBANK.COM édités par BOURSORAMA (ci-après les « Sites »), société anonyme au capital de 53 576 889,20 €, ayant pour numéro unique d'identification 351 058 151 RCS Nanterre et dont le siège social est sis 44 rue Traversière, CS 80134, 92772 BOULOGNE-BILLANCOURT CEDEX, ci-après dénommée "BOURSORAMA".
+Les sites Internet BOURSORAMA.COM et WWW.BOURSOBANK.COM édités par BOURSORAMA (ci-après les « Sites »), société anonyme au capital de 51 171 597,60 €, ayant pour numéro unique d'identification 351 058 151 RCS Nanterre et dont le siège social est sis 44 rue Traversière, CS 80134, 92772 BOULOGNE-BILLANCOURT CEDEX, ci-après dénommée "BOURSORAMA".
 
 Le code TVA de BOURSORAMA est TVA FR 69 351 058 151.
 
-No ADEME (Agence de l'Environnement et de la Maîtrise de l'Énergie) : FR231725\_01YSGB.
+No ADEME (Agence de l'Environnement et de la Maîtrise de l'Énergie) : FR231725\_03IVZM.
 
 BOURSORAMA est une filiale de la Société Générale.
 
@@ -437,10 +431,10 @@ Documentation Contractuelle
     
 * [Politique d'exécution](https://www.boursorama.com/bourse/politique-execution/ "Politique d'exécution")
     
-* [Rapport de meilleure sélection 2023](https://s.brsimg.com/content/pdf/banque/mif2/meilleureselection.pdf "Rapport de meilleure sélection 2023 (nouvelle fenêtre)")
+* [Rapport de meilleure sélection 2022](https://s.brsimg.com/content/pdf/banque/mif2/meilleureselection2022.pdf "Rapport de meilleure sélection 2022 (nouvelle fenêtre)")
     
 
-Données personnelles
+Sécurité et données personnelles
 
 * [Gérer mes cookies](javascript:// "Gérer mes cookies")
     
@@ -471,7 +465,7 @@ Nos sites
 
 Copyright © 2024
 
-Boursorama, SA au capital de 53 576 889,20 € – RCS Nanterre 351 058 151 – TVA FR 69 351 058 151 – 44 rue Traversière, CS 80134, 92772 BOULOGNE BILLANCOURT CEDEX
+Boursorama, SA au capital de 51 171 597,60 € – RCS Nanterre 351 058 151 – TVA FR 69 351 058 151 – 44 rue Traversière, CS 80134, 92772 BOULOGNE BILLANCOURT CEDEX
 
 ![Label B Corp](/bundles/boursoramaui/images/footer/b-corp-fr.png)
 
