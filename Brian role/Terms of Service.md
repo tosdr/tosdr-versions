@@ -1,76 +1,40 @@
-[Skip to content](#main)
+[Brian Rolè](https://brianrole.com/ "Brian Rolè")
 
-[![Brian Role` - International Magician Malta](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cHM6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMTkyMCIgaGVpZ2h0PSIxMDgwIiB2aWV3Qm94PSIwIDAgMTkyMCAxMDgwIj48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSIjY2ZkNGRiIi8+PC9zdmc+)](https://brianrole.com/)
+[![default-logo](https://brianrole.com/wp-content/uploads/elementor/thumbs/cropped-cropped-LogoBR-2-q9mvlzjbf00x2dnttugm16cgnp9kwu5hgapwb69l2g.png)](https://brianrole.com/)
 
-* [Home](https://brianrole.com/)
-    * [Latest News & Updates](https://brianrole.com/news)
-    * [Press Coverage](https://brianrole.com/maltese-magician-malta-press/)
-    * [Sunday Circle Magic Feature](https://brianrole.com/its-a-kind-of-magic-sunday-circle-magic-feature/)
-* [About](https://brianrole.com/about-us/)
-    * [Brian’s Story](https://brianrole.com/about-us/)
-    * [Testimonials and Feedback](https://brianrole.com/testimonials/)
-    * [International Performances](https://brianrole.com/international-performances/)
-* [Services](https://brianrole.com/services/)
-    * [All Show Types](https://brianrole.com/services/)
-    * [Close Up Magic](https://brianrole.com/close-up-magic/)
-    * [Parlour Magic](https://brianrole.com/what-is-parlour-magic/)
-    * [Stage Shows](https://brianrole.com/stage-magician-malta/)
-    * [Children’s Magic Show](https://brianrole.com/what-is-parlour-magic/#children)
-    * [Family Magic Show](https://brianrole.com/what-is-parlour-magic/#family)
-    * [Adult Only Magic Shows](https://brianrole.com/what-is-parlour-magic/#adults)
-    * [Magic Consultation](https://brianrole.com/magic-consultation/)
-    * [Dinner Show](https://brianrole.com/dinner-show-malta-magician-malta/)
-* [Contact](https://brianrole.com/contact)
-    * [Frequently Asked Questions](https://brianrole.com/frequently-asked-questions-magic/)
-    * [Hire A Magician – Contact Brian Role\`](https://brianrole.com/contact/)
-
-[](#main-container "Go to top")
-
-[![Brian Role` - International Magician Malta](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cHM6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMTkyMCIgaGVpZ2h0PSIxMDgwIiB2aWV3Qm94PSIwIDAgMTkyMCAxMDgwIj48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSIjY2ZkNGRiIi8+PC9zdmc+)](https://brianrole.com/)
+[Brian Rolè
+----------](https://brianrole.com/)
 
 Magic and Illusion
 
-BRIAN ROLE\`
-============
+Your Wonderment Is Brian’s Business
 
-Your Wonderment Is Brian's Business
-
-* [Home](https://brianrole.com/)
-    * [Latest News & Updates](https://brianrole.com/news)
-    * [Press Coverage](https://brianrole.com/maltese-magician-malta-press/)
-    * [Sunday Circle Magic Feature](https://brianrole.com/its-a-kind-of-magic-sunday-circle-magic-feature/)
-* [About](https://brianrole.com/about-us/)
-    * [Brian’s Story](https://brianrole.com/about-us/)
-    * [Testimonials and Feedback](https://brianrole.com/testimonials/)
-    * [International Performances](https://brianrole.com/international-performances/)
-* [Services](https://brianrole.com/services/)
-    * [All Show Types](https://brianrole.com/services/)
-    * [Close Up Magic](https://brianrole.com/close-up-magic/)
-    * [Parlour Magic](https://brianrole.com/what-is-parlour-magic/)
-    * [Stage Shows](https://brianrole.com/stage-magician-malta/)
-    * [Children’s Magic Show](https://brianrole.com/what-is-parlour-magic/#children)
-    * [Family Magic Show](https://brianrole.com/what-is-parlour-magic/#family)
-    * [Adult Only Magic Shows](https://brianrole.com/what-is-parlour-magic/#adults)
-    * [Magic Consultation](https://brianrole.com/magic-consultation/)
-    * [Dinner Show](https://brianrole.com/dinner-show-malta-magician-malta/)
-* [Contact](https://brianrole.com/contact)
-    * [Frequently Asked Questions](https://brianrole.com/frequently-asked-questions-magic/)
-    * [Hire A Magician – Contact Brian Role\`](https://brianrole.com/contact/)
-
-[](https://facebook.com/magicandillusion)[](https://www.instagram.com/brianrole/)[](https://twitter.com/Brian_Role)[](https://youtube.com/@rolemagic)[](https://msng.link/o/?0035699820913=wa)
-
-[![Brian Role` - International Magician Malta](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cHM6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMTkyMCIgaGVpZ2h0PSIxMDgwIiB2aWV3Qm94PSIwIDAgMTkyMCAxMDgwIj48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSIjY2ZkNGRiIi8+PC9zdmc+)](https://brianrole.com/)
-
-Magic and Illusion
-
-BRIAN ROLE\`
-============
-
-Your Wonderment Is Brian's Business
-
-[](https://facebook.com/magicandillusion)[](https://www.instagram.com/brianrole/)[](https://twitter.com/Brian_Role)[](https://youtube.com/@rolemagic)[](https://msng.link/o/?0035699820913=wa)
+[Facebook](https://facebook.com/magicandillusion) [Instagram](https://www.instagram.com/brianrole/?hl=en) [Youtube](https://yoube.com/@magicianmalta) [Twitter](https://twitter.com/brian_role) [Tiktok](https://www.tiktok.com/@magicianmalta) [Google](https://search.google.com/local/reviews?placeid=ChIJ-RZIwT5FDhMRFpQff7BvaCc&q=Brian+Role+%7C+Magician+in+Malta+and+Gozo&hl=en&gl=IE)
 
 Menu
+
+* [Home](https://brianrole.com/)
+    
+    * [Latest News & Updates](https://brianrole.com/news)
+    * [Press Coverage](https://brianrole.com/maltese-magician-malta-press/)
+    * [Sunday Circle Magic Feature](https://brianrole.com/its-a-kind-of-magic-sunday-circle-magic-feature/)
+* [About](https://brianrole.com/#)
+    
+    * [Brian’s Story](https://brianrole.com/about-us/)
+    * [Testimonials and Feedback](https://brianrole.com/testimonials/)
+    * [International Performances](https://brianrole.com/international-performances/)
+* [Services](https://brianrole.com/services/)
+    
+    * [All Show Types](https://brianrole.com/services/)
+    * [Close Up Magic](https://brianrole.com/close-up-magic/)
+    * [Parlour Magic](https://brianrole.com/what-is-parlour-magic/)
+    * [Stage Shows](https://brianrole.com/stage-magician-malta/)
+    * [Children’s Magic Show](https://brianrole.com/what-is-parlour-magic/#children)
+    * [Family Magic Show](https://brianrole.com/what-is-parlour-magic/#family)
+    * [Adult Only Magic Shows](https://brianrole.com/what-is-parlour-magic/#adults)
+    * [Magic Consultation](https://brianrole.com/magic-consultation/)
+    * [Dinner Show](https://brianrole.com/dinner-show-malta-magician-malta/)
+* [Contact](https://brianrole.com/contact)
 
 Terms of Use
 ============
@@ -128,21 +92,16 @@ Indemnification
 
 You agree to defend, indemnify and hold The Website, all of its editors, publishers, administration, employees, third party individuals or companies, and all its operators harmless from and against any and all claims, damages, costs, and expenses, including attorneys’ fees, arising from or related to your use of our Website or any Services you purchase through it.
 
-Share the magic
-
-[](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fbrianrole.com%2Fterms-of-use%2F)[](https://twitter.com/intent/tweet?url=https%3A%2F%2Fbrianrole.com%2Fterms-of-use%2F&text=Terms%20of%20Use)[](https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fbrianrole.com%2Fterms-of-use%2F&title=Terms%20of%20Use)[](https://t.me/share/url?url=https%3A%2F%2Fbrianrole.com%2Fterms-of-use%2F&text=Terms%20of%20Use)[](whatsapp://send?text=https%3A%2F%2Fbrianrole.com%2Fterms-of-use%2F)
+Menu
 
 * [Home](https://brianrole.com/)
 * [About](https://brianrole.com/about-us/)
 * [Services](https://brianrole.com/services/)
 * [Contact](https://brianrole.com/contact)
 
-![Brian Role` - International Magician Malta](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cHM6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMTkyMCIgaGVpZ2h0PSIxMDgwIiB2aWV3Qm94PSIwIDAgMTkyMCAxMDgwIj48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSIjY2ZkNGRiIi8+PC9zdmc+)
+[![default-logo](https://brianrole.com/wp-content/uploads/elementor/thumbs/cropped-cropped-LogoBR-2-q9mvlzjbf00x2dnttugm16cgnp9kwu5hgapwb69l2g.png)](https://brianrole.com/)
 
-Copyright © 2006 - 2024 @ Brian Role\`
+[**Copyright © 2006 - 2024 Brian Role\`**  
+All Rights Reserved www.BrianRole.com](https://brianrole.com/)
 
-www.brianrole.com 
-
-\-
-
-[Privacy](https://brianrole.com/privacy) | [Terms](https://brianrole.com/terms)
+[](https://brianrole.com/)[Terms](https://brianrole.com/terms) | [Privacy](https://brianrole.com/privacy)
