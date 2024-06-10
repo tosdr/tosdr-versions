@@ -98,16 +98,17 @@ Shop
 [Start Your Mission](https://www.axiomspace.com/start)
 
 * Misc
-* [Axiom Space Live Stream Monitor](https://www.axiomspace.com/live-monitor)
+* [Public Event Engagement Request](https://www.axiomspace.com/public-engagement)
 * [NFT](https://www.axiomspace.com/nft-mint)
 * [404](https://www.axiomspace.com/404)
 * [Cookie Policy](https://www.axiomspace.com/cookie-policy)
 * [Suppliers](https://www.axiomspace.com/suppliers)
 * [Report a Concern](https://www.axiomspace.com/compliance)
 * [Terms & Conditions](https://www.axiomspace.com/terms-and-conditions)
-* [Acceptable Use Policy](https://www.axiomspace.com/acceptable-use-policy)
 * [Axiom Space Equipment](https://www.axiomspace.com/gear)
 * [Privacy Policy](https://www.axiomspace.com/privacy-policy)
+* [Axiom Access](https://www.axiomspace.com/axiom-access)
+* [Gratitude Portal](https://www.axiomspace.com/gratitude)
 
 * * *
 
