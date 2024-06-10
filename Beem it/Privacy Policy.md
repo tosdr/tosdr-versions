@@ -16,22 +16,14 @@ Privacy Policy
 
 How we handle your personal information.
 
-Part of
-
-![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27100%27%20height=%2741%27/%3e)![Australian Payments Plus logo](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-
-![Australian Payments Plus logo](/_next/image?url=%2Fstatic%2Fimages%2FAPP-logo.png&w=256&q=75)
+by
 
 Privacy Policy
 --------------
 
 [](https://www.beemit.com.au/)
 
-Part of
-
-![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27100%27%20height=%2741%27/%3e)![Australian Payments Plus logo](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-
-![Australian Payments Plus logo](/_next/image?url=%2Fstatic%2Fimages%2FAPP-logo.png&w=256&q=75)
+by
 
 * [For you](https://www.beemit.com.au/)
 * [About](https://www.beemit.com.au/about)
