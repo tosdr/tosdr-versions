@@ -1,10 +1,10 @@
 ![](https://trc.taboola.com/1387956/log/3/unip?en=page_view)
 
-[Skip to main content](#main)
+[Passer directement au contenu principal](#main)
 
-[Bumble homepage](https://bumble.com/en/)
+[Page d'accueil de Bumble](https://bumble.com/fr/)
 
-Language selection English (United Kingdom)
+Choix de la langue Français
 
 * [English (United Kingdom)](https://bumble.com/cookie-policy)
 * [English (United States)](https://bumble.com/cookie-policy)
@@ -31,24 +31,24 @@ Language selection English (United Kingdom)
 * [Polski](https://bumble.com/cookie-policy)
 * [Bahasa Indonesia](https://bumble.com/cookie-policy)
 
-Main
+Principal
 
-Open menu
+Ouvrir le menu
 
-* [The Shop](https://shop.bumble.com/)
-* The App
+* [Boutique](https://shop.bumble.com/)
+* L'appli
     
-    * [DATE](https://bumble.com/en/date)
-    * [BFF](https://bumble.com/en/bff)
-    * [BIZZ](https://bumble.com/en/bizz)
+    * [DATE](https://bumble.com/fr/date)
+    * [BFF](https://bumble.com/fr/bff)
+    * [BIZZ](https://bumble.com/fr/bizz)
     
-* [Ambassadors](https://bumble.com/bumble-honey-ambassadors)
-* [Events](https://bumble.events/)
-* [The Buzz](https://bumble-buzz.com/)
-* [About](https://bumble.com/en/about)
+* [Ambassadeurs](https://bumble.com/bumble-honey-ambassadors)
+* [Événements](https://bumble.events/)
+* [Le Blog](https://bumble-buzz.com/)
+* [À propos](https://bumble.com/fr/about)
 
-Cookie Policy
-=============
+Politique des cookies
+=====================
 
 Cookies Policy
 --------------
@@ -64,7 +64,7 @@ This policy provides more detail about the cookies and tracking technologies we 
 
 Unlike the chocolate chip kind, these cookies have no calories! We collect information by placing cookies on your computer or mobile device. A cookie is a piece of text containing a unique identifier, which is stored on your computer by your web browser or by your mobile device. They are basically a tool that stores information about App use and Websites’ visits. Cookies also allow us to recognise you and your preferences each time you visit Bumble. They ensure the functioning of the App and Websites which in turn allows us to provide the services that our members request and to improve your user experience.
 
-We may also use other technologies such as web beacons (also called pixels), tracking URLs and software development kits (SDKs) for similar purposes as cookies. Web beacons are files that contain a unique identifier that enable us to recognise when someone has accessed content on our Websites. Tracking URLs are unique links that help us understand where visitors to our Websites are coming from. SDKs are small pieces of code included in applications, which function like cookies and web beacons. For simplicity, in this Policy we also refer to these technologies as “Cookies”.
+We may also use other technologies such as web beacons (also called pixels), tracking URLs and software development kits (SDKs) for similar purposes as cookies. Web beacons are files that contain a unique identifier that enable us to recognize when someone has accessed content on our Websites. Tracking URLs are unique links that help us understand where visitors to our Websites are coming from. SDKs are small pieces of code included in applications, which function like cookies and web beacons. For simplicity, in this Policy we also refer to these technologies as “Cookies”.
 
 | Type of Cookie | Purpose |
 | --- | --- |
@@ -114,70 +114,70 @@ Effective date
 
 This Cookie Policy was last updated on 17 January 2022.
 
-Footer
-------
+Pied de page
+------------
 
-* [Bumble on Instagram](https://instagram.com/bumble/)
-* [Bumble on Facebook](https://www.facebook.com/bumbleapp/)
-* [Bumble on Twitter](https://twitter.com/bumble)
-* [Bumble on Pinterest](https://www.pinterest.com/bumbleapp/)
+* [Bumble sur Instagram](https://instagram.com/bumble/)
+* [Bumble sur Facebook](https://www.facebook.com/bumbleapp/)
+* [Bumble sur Twitter](https://twitter.com/bumble)
+* [Bumble sur Pinterest](https://www.pinterest.com/bumbleapp/)
 
 * [FAQ
     
-    Frequently Asked Questions](https://bumble.com/help/)
+    Questions fréquentes](https://bumble.com/help/)
 * [Israel-Hamas War Response
     
     Israel-Hamas War Response](https://bumble.com/the-buzz/bumble-inc-statement-israel-hamas-war)
-* [Events](https://bumble.events/)
-* [Contact Us](https://bumble.com/en/contact-us)
-* [Guidelines](https://bumble.com/en/guidelines)
-* [Careers](http://team.bumble.com/)
-* [Investors](https://ir.bumble.com/)
-* [Modern Slavery Act Statement(opens in new window)](https://bumble.com/modern-slavery-act-statement)
+* [Événements](https://bumble.events/)
+* [Contact](https://bumble.com/fr/contact-us)
+* [Charte](https://bumble.com/fr/guidelines)
+* [Emploi](http://team.bumble.com/)
+* [Investisseurs](https://ir.bumble.com/)
+* [Loi sur l'esclavage moderne(ouvre une nouvelle fenêtre)](https://bumble.com/modern-slavery-act-statement)
 * [Notice At Collection(opens in new window)](https://bumble.com/notice-at-collection)
-* [Terms & Conditions](https://bumble.com/en/terms)
-* [Privacy Policy](https://bumble.com/en/privacy)
-* [Impressum](https://bumble.com/en/impressum)
-* Manage Cookies
-* [Seasonal Dating Guides](https://bumble.com/date/seasonal)
-* [Washington Consumer Health Data Privacy Policy](https://bumble.com/bumble-washington-consumer-health-data-privacy-policy)
+* [Conditions](https://bumble.com/fr/terms)
+* [Confidentialité](https://bumble.com/fr/privacy)
+* [Impressum](https://bumble.com/fr/impressum)
+* Gérer les cookies
+* [Guides de rencontres saisonniers](https://bumble.com/date/seasonal)
+* [Washington Consumer Health Data Privacy Policy](https://bumble.com/modern-slavery-act-statement)
 
-© 2024 Bumble | All Rights Reserved
+© 2024 Bumble | Tous droits réservés
 
-Close menu
+Fermer le menu
 
-* The App
+* L'appli
     
-    * [DATE](https://bumble.com/en/date)
-    * [BFF](https://bumble.com/en/bff)
-    * [BIZZ](https://bumble.com/en/bizz)
+    * [DATE](https://bumble.com/fr/date)
+    * [BFF](https://bumble.com/fr/bff)
+    * [BIZZ](https://bumble.com/fr/bizz)
     
-* [Ambassadors](https://bumble.com/bumble-honey-ambassadors)
-* [Events](https://bumble.events/)
-* [The Buzz](https://bumble-buzz.com/)
-* [Shop](https://shop.bumble.com/)
-* [About](https://bumble.com/en/about)
+* [Ambassadeurs](https://bumble.com/bumble-honey-ambassadors)
+* [Événements](https://bumble.events/)
+* [Le Blog](https://bumble-buzz.com/)
+* [Boutique](https://shop.bumble.com/)
+* [À propos](https://bumble.com/fr/about)
 
-[Get Bumble
+[Télécharger Bumble
 
-(opens in new window)](https://app.appsflyer.com/com.bumble.app?pid=googleplayhomepage)
+(ouvre une nouvelle fenêtre)](https://app.appsflyer.com/com.bumble.app?pid=googleplayhomepage)
 
-[Get Bumble
+[Télécharger Bumble
 
-(opens in new window)](https://app.appsflyer.com/id930441707?pid=appstorehomepage)
+(ouvre une nouvelle fenêtre)](https://app.appsflyer.com/id930441707?pid=appstorehomepage)
 
-* [Bumble on Instagram](https://instagram.com/bumble/)
-* [Bumble on Facebook](https://www.facebook.com/bumbleapp/)
-* [Bumble on Twitter](https://twitter.com/bumble)
-* [Bumble on Pinterest](https://www.pinterest.com/bumbleapp/)
+* [Bumble sur Instagram](https://instagram.com/bumble/)
+* [Bumble sur Facebook](https://www.facebook.com/bumbleapp/)
+* [Bumble sur Twitter](https://twitter.com/bumble)
+* [Bumble sur Pinterest](https://www.pinterest.com/bumbleapp/)
 
-Close dialog
+Fermer la fenêtre
 
-Cookies consent
----------------
+Bannière relative aux cookies
+-----------------------------
 
-We use cookies to make our site work better. This includes analytics cookies and advertising cookies. For more information, please check our [Cookie Policy(opens in new window)](https://bumble.com/cookie-policy)
+Nous utilisons des cookies pour assurer le bon fonctionnement de nos services, dont des cookies analytiques et des cookies publicitaires. Pour plus d'informations, consulte notre [politique en matière de cookies(ouvre une nouvelle fenêtre](https://bumble.com/cookie-policy).
 
-Let us know you agree to cookies
+Fais-nous savoir si tu acceptes nos cookies
 
-Close cookies consent
+Fermer la bannière relative aux cookies
