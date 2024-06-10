@@ -14,11 +14,11 @@ Recommendations
 
 Audio
 
-* [![Books To Read if You Love <em>The Tortured Poets Department</em>](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/05/10091600/PRH_Site_1200x628_TorturedPoe_1.jpg)
+* [![30 Great LGBTQ+ Picture Books for Kids](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/05/31102400/Pride2024_850x607.jpg)
     
-    Books To Read if You Love _The Tortured Poets Department_
+    30 Great LGBTQ+ Picture Books for Kids
     
-    Read More >](https://www.penguinrandomhouse.com/the-read-down/books-like-the-tortured-poets-department/)
+    Learn More >](https://www.readbrightly.com/30-great-lgbtq-books-kids/)
 
 * * *
 
@@ -30,11 +30,11 @@ Audio
 
 * * *
 
-* [![How To Read More in 2024](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/26151938/ReadMore_1200x628_600x314-nav.jpg)
+* [![Books To Read if You Love <em>The Tortured Poets Department</em>](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/05/10091600/PRH_Site_1200x628_TorturedPoe_1.jpg)
     
-    How To Read More in 2024
+    Books To Read if You Love _The Tortured Poets Department_
     
-    Learn More >](https://www.penguinrandomhouse.com/articles/how-to-read-more/)
+    Read More >](https://www.penguinrandomhouse.com/the-read-down/books-like-the-tortured-poets-department/)
 
 * <
     
