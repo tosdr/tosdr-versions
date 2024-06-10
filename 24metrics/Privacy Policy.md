@@ -1,9 +1,12 @@
 [![24metrics Logo](https://www.24metrics.com/wp-content/uploads/2018/12/metrics-logo@2x.png)](https://www.24metrics.com/)
 
 * Solutions
+    * [AdSecurity Platform](https://www.24metrics.com/adsecurity/)
+    * [Impression / RTB Screening](https://www.24metrics.com/impression-screening/)
     * [Click Screening](https://www.24metrics.com/adsecurity/)
     * [Conversion Screening](https://www.24metrics.com/adsecurity/)
-    * [Impression / RTB Screening](https://www.24metrics.com/impression-screening/)
+    * [VPN, Bot and Proxy Detection](https://www.24metrics.com/vpn_proxy_detection/)
+    * [Managed Tracking & Statistics (for Developers)](https://www.24metrics.com/managed-tracking/)
 * [Pricing](https://www.24metrics.com/pricing/)
 * [About us](https://www.24metrics.com/about-us/)
     * [Our Team](https://www.24metrics.com/about-us/)
@@ -16,9 +19,12 @@
 Menu
 
 * Solutions
+    * [AdSecurity Platform](https://www.24metrics.com/adsecurity/)
+    * [Impression / RTB Screening](https://www.24metrics.com/impression-screening/)
     * [Click Screening](https://www.24metrics.com/adsecurity/)
     * [Conversion Screening](https://www.24metrics.com/adsecurity/)
-    * [Impression / RTB Screening](https://www.24metrics.com/impression-screening/)
+    * [VPN, Bot and Proxy Detection](https://www.24metrics.com/vpn_proxy_detection/)
+    * [Managed Tracking & Statistics (for Developers)](https://www.24metrics.com/managed-tracking/)
 * [Pricing](https://www.24metrics.com/pricing/)
 * [About us](https://www.24metrics.com/about-us/)
     * [Our Team](https://www.24metrics.com/about-us/)
@@ -41,9 +47,12 @@ Menu
     * [AdSecurity Platform](https://adsecurity.24metrics.com/signup)
 
 * Solutions
+    * [AdSecurity Platform](https://www.24metrics.com/adsecurity/)
+    * [Impression / RTB Screening](https://www.24metrics.com/impression-screening/)
     * [Click Screening](https://www.24metrics.com/adsecurity/)
     * [Conversion Screening](https://www.24metrics.com/adsecurity/)
-    * [Impression / RTB Screening](https://www.24metrics.com/impression-screening/)
+    * [VPN, Bot and Proxy Detection](https://www.24metrics.com/vpn_proxy_detection/)
+    * [Managed Tracking & Statistics (for Developers)](https://www.24metrics.com/managed-tracking/)
 * [Pricing](https://www.24metrics.com/pricing/)
 * [About us](https://www.24metrics.com/about-us/)
     * [Our Team](https://www.24metrics.com/about-us/)
