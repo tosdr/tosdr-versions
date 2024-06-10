@@ -1,4 +1,4 @@
-[![Backblaze logo](https://cdn.prod.website-files.com/63d32de856f6323a43a277f2/64ecb2089097536a884f8d87_Logo%20Group.webp)](https://www.backblaze.com/)
+[![Backblaze logo](https://assets-global.website-files.com/63d32de856f6323a43a277f2/64ecb2089097536a884f8d87_Logo%20Group.webp)](https://www.backblaze.com/)
 
 Products
 
@@ -46,9 +46,9 @@ About Us
 
 [Support
 
-![](https://cdn.prod.website-files.com/63d32de856f6323a43a277f2/64ecb2089097536a884f8d8a_support%20purple.svg)![](https://cdn.prod.website-files.com/63d32de856f6323a43a277f2/64ecb2089097536a884f8d8d_support-navy.webp)](https://www.backblaze.com/help)[Sign In
+![](https://assets-global.website-files.com/63d32de856f6323a43a277f2/64ecb2089097536a884f8d8a_support%20purple.svg)![](https://assets-global.website-files.com/63d32de856f6323a43a277f2/64ecb2089097536a884f8d8d_support-navy.webp)](https://www.backblaze.com/help)[Sign In
 
-![](https://cdn.prod.website-files.com/63d32de856f6323a43a277f2/64ecb2089097536a884f8d89_sign%20in%20purple.svg)![](https://cdn.prod.website-files.com/63d32de856f6323a43a277f2/64ecb2089097536a884f8d8b_sign-in-default.webp)](https://secure.backblaze.com/user_signin.htm)
+![](https://assets-global.website-files.com/63d32de856f6323a43a277f2/64ecb2089097536a884f8d89_sign%20in%20purple.svg)![](https://assets-global.website-files.com/63d32de856f6323a43a277f2/64ecb2089097536a884f8d8b_sign-in-default.webp)](https://secure.backblaze.com/user_signin.htm)
 
 [Contact Sales](#)
 
@@ -350,8 +350,8 @@ We welcome all questions, concerns, and feedback you might have about these term
 
 Previous Version(s):
 
-* [April 5, 2016](https://cdn.prod.website-files.com/63d32de856f6323a43a277f2/645d1c95678fda17decbf772__company_terms-5april2016.pdf)
-* [February 12, 2020](https://cdn.prod.website-files.com/63d32de856f6323a43a277f2/645d1c991e76a4255f341888__company_terms-12feb2020.pdf)
+* [April 5, 2016](https://assets-global.website-files.com/63d32de856f6323a43a277f2/645d1c95678fda17decbf772__company_terms-5april2016.pdf)
+* [February 12, 2020](https://assets-global.website-files.com/63d32de856f6323a43a277f2/645d1c991e76a4255f341888__company_terms-12feb2020.pdf)
 
 **© 2024** Backblaze
 
@@ -365,7 +365,7 @@ A Publicly Traded Company
 
 [Terms & Policies](https://www.backblaze.com/company/policy/terms-of-service)[Privacy](https://www.backblaze.com/company/policy/privacy)[Contact](https://www.backblaze.com/company/contact)
 
-[![Linked In icon](https://cdn.prod.website-files.com/63d32de856f6323a43a277f2/64ecf2c1a1ca42c819aac161_Social%20(2)%201.svg)](https://www.linkedin.com/company/backblaze/)[![Youtube icon](https://cdn.prod.website-files.com/63d32de856f6323a43a277f2/64ecf2011e0c215d43075930_Social-1.svg)](https://www.youtube.com/channel/UCpIVQUYBArvA9JcnGJksxGA)[![twitter X logo](https://cdn.prod.website-files.com/63d32de856f6323a43a277f2/64ecf2015a7bbf4b7fe564b4_Social-2.svg)](https://twitter.com/backblaze)[![Facebook icon](https://cdn.prod.website-files.com/63d32de856f6323a43a277f2/64ecf2011e0c215d43075943_Social-3.svg)](https://facebook.com/backblaze)
+[![Linked In icon](https://assets-global.website-files.com/63d32de856f6323a43a277f2/64ecf2c1a1ca42c819aac161_Social%20(2)%201.svg)](https://www.linkedin.com/company/backblaze/)[![Youtube icon](https://assets-global.website-files.com/63d32de856f6323a43a277f2/64ecf2011e0c215d43075930_Social-1.svg)](https://www.youtube.com/channel/UCpIVQUYBArvA9JcnGJksxGA)[![twitter X logo](https://assets-global.website-files.com/63d32de856f6323a43a277f2/64ecf2015a7bbf4b7fe564b4_Social-2.svg)](https://twitter.com/backblaze)[![Facebook icon](https://assets-global.website-files.com/63d32de856f6323a43a277f2/64ecf2011e0c215d43075943_Social-3.svg)](https://facebook.com/backblaze)
 
 ### Staging secure is temporarily unavailable. Please check for any ongoing deploys. If none are in progress, contact the fullstack team for assistance.
 
