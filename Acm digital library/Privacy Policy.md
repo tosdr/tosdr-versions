@@ -82,9 +82,9 @@ Search
         
         [\[Learn More about ACM Membership...\]](https://www.acm.org/membership/about-acm-membership)
         
-    * [![skills-bundle.jpg](/binaries/ctaimagelarge/content/gallery/acm/ctas/learning-center/skills-bundle.jpg)](https://learning.acm.org/skills-bundle)
+    * [![globalization-benefits-survey-b.jpg](/binaries/ctaimagelarge/content/gallery/acm/ctas/membership/globalization-benefits-survey-b.jpg)](https://www.research.net/r/F69ZNSR)
         
-        [ACM Skills Bundle Add-On](https://learning.acm.org/skills-bundle)
+        [Help ACM Serve You Better](https://www.research.net/r/F69ZNSR)
         
         [![ACM membership FAQ](/binaries/ctaimagelarge/content/gallery/acm/ctas/membership-faq.jpg)](https://www.acm.org/membership/csfaq)
         
@@ -250,15 +250,17 @@ Search
         
         [More on ACM Awards](http://awards.acm.org/)
         
-    * [Avi Wigderson Receives 2023 A.M. Turing Award](https://awards.acm.org/about/2023-turing)
+    * [![2023 ACM A.M. Turing Award recipient Avi Wigderson](/binaries/ctaimagelarge/content/gallery/acm/ctas/people/avi-wigderson-bw.jpg)](https://awards.acm.org/about/2023-turing)
         
-        [![2023 ACM Prize recipient Amanda Randles](/binaries/ctaimagelarge/content/gallery/acm/ctas/people/amanda-randles-prize.jpg)](https://awards.acm.org/about/2023-acm-prize)
-        
-        [Amanda Randles Receives 2023 ACM Prize in Computing](https://awards.acm.org/about/2023-acm-prize)
+        [ACM Announces 2023 A.M. Turing Award Recipient](https://awards.acm.org/about/2023-turing)
         
         [![acm-fellows-member-badge.jpg](/binaries/ctaimagelarge/content/gallery/acm/ctas/awards/acm-fellows-member-badge.jpg)](https://www.acm.org/media-center/2024/january/fellows-2023)
         
         [ACM Names 2023 Fellows](https://www.acm.org/media-center/2024/january/fellows-2023)
+        
+        [![acm-distinguished-member-badge.jpg](/binaries/ctaimagelarge/content/gallery/acm/ctas/awards/acm-distinguished-member-badge.jpg)](https://www.acm.org/articles/bulletins/2024/january/distinguished-2023)
+        
+        [ACM Names 2023 Distinguished Members](https://www.acm.org/articles/bulletins/2024/january/distinguished-2023)
         
     
 * [Education](#)
@@ -279,17 +281,17 @@ Search
         
         [\[Learn More about Education…\]](https://www.acm.org/education/about-education)
         
-    * [![education-advisory-committee-ppl.jpg](/binaries/ctaimagelarge/content/gallery/acm/ctas/education/education-advisory-committee-ppl.jpg)](https://docs.google.com/document/d/1yQ2G7EnB3L9tsEqVwNLE_pMINDdWUwwrJxelsU2D3hw/edit?usp=sharing)
+    * [![mae-milano-techtalk.jpg](/binaries/ctaimagelarge/content/gallery/acm/ctas/people/mae-milano-techtalk.jpg)](https://events.zoom.us/ev/AgPhfVzGE6loQu7vBKQrzXKKzc6wEF-wqWsBItZhqwhugJUiWq9_~AtVXLfdBYSF0VrM5CVZkcukkypPp2u9fhRdrtvH9A8Ro97y7E4rcmqGNqw)
         
-        [ACM Education Advisory Committee Applications Open](https://docs.google.com/document/d/1yQ2G7EnB3L9tsEqVwNLE_pMINDdWUwwrJxelsU2D3hw/edit?usp=sharing)
+        [Mae Milano TechTalk](https://events.zoom.us/ev/AgPhfVzGE6loQu7vBKQrzXKKzc6wEF-wqWsBItZhqwhugJUiWq9_~AtVXLfdBYSF0VrM5CVZkcukkypPp2u9fhRdrtvH9A8Ro97y7E4rcmqGNqw)
         
-        [![sebastian-raschka-techtalk.jpg](/binaries/ctaimagelarge/content/gallery/acm/ctas/people/sebastian-raschka-techtalk.jpg)](https://events.zoom.us/ev/ArzwACAJCGWLB-pPrWeIwszDr8WDhlEcFLL4VMCb1SJVU4fzrQo9~ApSVrsfa61CGC-c9ndh8nkBei6glIBwPUiv5ABPEiBw_2j-X-7wsaOr89A)
+        [![vinod-khosla-techtalk.jpg](/binaries/ctaimagelarge/content/gallery/acm/ctas/people/vinod-khosla-techtalk.jpg)](https://events.zoom.us/ev/Aqp8byWVP2L-V4Dt1FkssWR7gI-UCcCphQMIwfy2qQH_PdlR4G4M~Ao1vqDnv8I3fzpFVtufh7U0o9OJ2hMynTS1fUE51YUgJG2tCEvwfmuS7kw)
         
-        [Sebastian Raschka TechTalk](https://events.zoom.us/ev/ArzwACAJCGWLB-pPrWeIwszDr8WDhlEcFLL4VMCb1SJVU4fzrQo9~ApSVrsfa61CGC-c9ndh8nkBei6glIBwPUiv5ABPEiBw_2j-X-7wsaOr89A)
+        [Vinod Khosla TechTalk](https://events.zoom.us/ev/Aqp8byWVP2L-V4Dt1FkssWR7gI-UCcCphQMIwfy2qQH_PdlR4G4M~Ao1vqDnv8I3fzpFVtufh7U0o9OJ2hMynTS1fUE51YUgJG2tCEvwfmuS7kw)
         
-        [![Image of Yoshua Bengio](/binaries/ctaimagelarge/content/gallery/acm/ctas/yoshua-bengio-bytecast.jpg)](https://learning.acm.org/bytecast/ep54-yoshua-bengio)
+        [![Image of Edward Y Chang](/binaries/ctaimagelarge/content/gallery/acm/ctas/people/edward-y-chang.jpg)](https://learning.acm.org/bytecast/ep50-edward-y-chang)
         
-        [ByteCast Ep54: Yoshua Bengio](https://learning.acm.org/bytecast/ep54-yoshua-bengio)
+        [ByteCast Ep50: Edward Y Chang](https://learning.acm.org/bytecast/ep50-edward-y-chang)
         
     
 * [Learning Center](#)
@@ -308,17 +310,17 @@ Search
         
         The ACM Learning Center offers ACM members access to lifelong learning tools and resources. Our E-Learning collections offer complimentary access to more than 80,000 online books, courses, and videos from top content publishers. The ACM TechTalk series brings leading computing luminaries and visionaries to your screen. Members enjoy exclusive offers and discounts on IT industry certifications and vendor-specific training.
         
-    * [![Image of Yoshua Bengio](/binaries/ctaimagelarge/content/gallery/acm/ctas/yoshua-bengio-bytecast.jpg)](https://learning.acm.org/bytecast/ep54-yoshua-bengio)
+    * [![Image of Edward Y Chang](/binaries/ctaimagelarge/content/gallery/acm/ctas/people/edward-y-chang.jpg)](https://learning.acm.org/bytecast/ep50-edward-y-chang)
         
-        [ByteCast Ep54: Yoshua Bengio](https://learning.acm.org/bytecast/ep54-yoshua-bengio)
+        [ByteCast Ep50: Edward Y Chang](https://learning.acm.org/bytecast/ep50-edward-y-chang)
         
-        [![Image of Francesca Rossi](/binaries/ctaimagelarge/content/gallery/acm/ctas/people/francesca-rossi-bytecast.jpg)](https://learning.acm.org/bytecast/ep53-francesca-rossi)
+        [![Image of Jacki O'Neill](/binaries/ctaimagelarge/content/gallery/acm/ctas/people/jacki-oneill-bytecast.jpg)](https://learning.acm.org/bytecast/ep49-jacki-oneill)
         
-        [ByteCast Ep53: Francesca Rossi](https://learning.acm.org/bytecast/ep53-francesca-rossi)
+        [ByteCast Ep49: Jacki O'Neill](https://learning.acm.org/bytecast/ep49-jacki-oneill)
         
-        [![Image of Partha Talukdar](/binaries/ctaimagelarge/content/gallery/acm/ctas/people/partha-talukdar-bytecast.jpg)](https://learning.acm.org/bytecast/ep52-partha-talukdar)
+        [![Image of Ranveer Chandra](/binaries/ctaimagelarge/content/gallery/acm/ctas/people/ranveer-chandra-bytecast.jpg)](https://learning.acm.org/bytecast/ep48-ranveer-chandra)
         
-        [ByteCast Ep52: Partha Talukdar](https://learning.acm.org/bytecast/ep52-partha-talukdar)
+        [ByteCast Ep48: Ranveer Chandra](https://learning.acm.org/bytecast/ep48-ranveer-chandra)
         
     
 * [Public Policy](#)
@@ -361,9 +363,9 @@ Search
         * [ACM Celebrates Awareness Months](https://www.acm.org/diversity-inclusion/awareness-months "ACM Celebrates Awareness Months")
         * [ACM Code of Ethics](https://www.acm.org/diversity-inclusion/code-of-ethics "ACM Code of Ethics")
         * [Stop Harassment](https://www.acm.org/diversity-inclusion/stop-harassment "Stop Harassment")
-        * [Contact Us](https://www.acm.org/diversity-inclusion/contact-us "Contact Us")
         * [Report Unacceptable Behavior](https://www.acm.org/diversity-inclusion/report-unacceptable-behavior "Report Unacceptable Behavior")
         * [ACM-W](https://women.acm.org/ "ACM-W")
+        * [Contact Us](https://www.acm.org/diversity-inclusion/contact-us "Contact Us")
     * Diversity, Equity, and Inclusion
         
         Anyone, from any background, should feel encouraged to participate and contribute to ACM. ACM is committed to creating an environment that welcomes new ideas and perspectives, and where hostility or other antisocial behaviors are not tolerated.
