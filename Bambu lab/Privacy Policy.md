@@ -4,15 +4,13 @@
     
 * Filament
     
-[* Accessories](https://store.bambulab.com/collections/accessories?skr=yes)* Software
+[* Accessories](https://eu.store.bambulab.com/fr-fr/collections/accessories?skr=yes)* Software
     
-* Support
-    
-* Company
+[* Support](https://bambulab.com/en/support)* Company
     
 [* MakerWorld](https://makerworld.com/?from=bambulab.com)
 
-[Store](https://store.bambulab.com/?skr=yes)
+[Store](https://eu.store.bambulab.com/fr-fr/?skr=yes)
 
 Sign In
 
@@ -422,7 +420,7 @@ By signing up, you agree to Bambu Lab’s [Privacy Policy](https://bambulab.com/
 
 Product
 
-[3D Printers](https://store.bambulab.com/collections/3d-printer?skr=yes)[Filament](https://store.bambulab.com/collections/bambu-lab-3d-printer-filament?skr=yes)[Accessories](https://store.bambulab.com/collections/accessories?skr=yes)
+[3D Printers](https://eu.store.bambulab.com/fr-fr/collections/3d-printer?skr=yes)[Filament](https://eu.store.bambulab.com/fr-fr/collections/bambu-lab-3d-printer-filament?skr=yes)[Accessories](https://eu.store.bambulab.com/fr-fr/collections/accessories?skr=yes)
 
 Community
 
@@ -430,7 +428,7 @@ Community
 
 Support
 
-[Visit our Support Center](https://bambulab.com/en/support)[Official Wiki](https://wiki.bambulab.com/)[System Status](https://status.bambulab.com/)[Security](https://bambulab.com/en/security)
+[Visit our Support Center](https://bambulab.com/en/support)[Official Wiki](https://wiki.bambulab.com/)[System Status](https://status.bambulab.com/)
 
 Software
 
