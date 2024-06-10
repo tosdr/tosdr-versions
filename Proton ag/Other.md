@@ -158,14 +158,6 @@ We are scientists, engineers, and specialists from around the world drawn togeth
 Related articles
 ----------------
 
-![](https://res.cloudinary.com/dbulfrlrz/images/f_auto,q_auto/v1717743380/wp-pme/how-to-remove-personal-information-from-the-internet-blog2x/how-to-remove-personal-information-from-the-internet-blog2x.?_i=AA)
-
-* Privacy guides
-
-[How to remove personal information from the internet and protect your privacy](https://protonmail.com/blog/how-to-remove-personal-information-from-the-internet-and-protect-your-privacy)
-
-People often choose to remove their personal information from the internet due to privacy and security concerns. For example, oversharing on social media can expose you to phishing attacks, identity theft, and cyberstalking. Plus, your data is highl
-
 ![](https://res.cloudinary.com/dbulfrlrz/images/f_auto,q_auto/v1717517008/wp-pme/google-dma-non-compliance/google-dma-non-compliance.?_i=AA)
 
 * Opinion
@@ -206,6 +198,14 @@ When you use the internet at home, connected to everything from fitness equipmen
 [Results of the 2024 Proton community survey](https://protonmail.com/blog/2024-proton-survey-results)
 
 Every year, we send a survey to the Proton community asking for your feedback and ideas. We then use that information to guide our future plans. This year, we received thousands of responses, giving us insight into what you expect from us.  As one o
+
+![](https://res.cloudinary.com/dbulfrlrz/images/f_auto,q_auto/v1717193581/wp-pme/what_is_a_rainbow_table_attack_blog_cover2x/what_is_a_rainbow_table_attack_blog_cover2x.?_i=AA)
+
+* Privacy guides
+
+[What is a rainbow table attack and how to prevent it?](https://protonmail.com/blog/what-is-rainbow-table-attack)
+
+Hackers use various methods to crack passwords, and one of them is the rainbow table attack. In certain cases, this method can be faster than dictionary attacks or credential stuffing. In this article, we explore how rainbow table attacks work and d
 
 ![Proton](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693233221/static/logos/proton-logo-p_kftwpv.svg)
 
