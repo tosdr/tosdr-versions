@@ -2,8 +2,6 @@
 
 [Skip to content](#content)
 
-**Juneteenth Holiday Hours | [Learn More](#juneteenth)**
-
 ✨ **Nurture Your Mind Event | [Save $30 on the Smart Assessment](https://adhdonline.com/)** ✨
 
 **🚧** Important Notice for Today’s Zoom Provider Visits: **[Mobile Service Outage Alert](#mobile-service-outage)**.
@@ -291,7 +289,7 @@ If you have a concern about the safety and quality of care, please contact ADHD 
 
 **If you are having suicidal thoughts please immediately call or text the National Suicide Prevention Hotline at [988](tel:988)**
 
- ![](https://adhdonline.com/wp-content/uploads/2023/10/Portal-outage-sign.png)
+![](https://adhdonline.com/wp-content/uploads/2023/10/Portal-outage-sign.png)
 
 **The system is experiencing technical issues scheduling new appointments.**
 
@@ -317,14 +315,3 @@ In this form, your practitioner will request that ADHD Online continue to provid
 #### **Return** **the form to us**
 
 You or your practitioner can return this form to us [\[email protected\]](https://adhdonline.com/cdn-cgi/l/email-protection)or fax it to 616-210-3118
-
- ![](https://adhdonline.com/wp-content/uploads/2024/05/Holiday-Hours-Sign-2024.png)
-
-ADHD Online will be closed on June 19th in observance of Juneteenth.
---------------------------------------------------------------------
-
-Live support will be unavailable while we’re closed but you can always [submit a request](https://adhddiagnosis.zendesk.com/hc/en-us/requests/new) or leave a [voice message](tel:888-493-2343). We’ll get back to you when we return on Thursday, June 20th.
-
-Each of our clinicians sets their own holiday hours. Check with your doctor for availability.
-
-**Looking to take our Assessment? That’s available all day, every day, whenever and wherever is best for you!**
