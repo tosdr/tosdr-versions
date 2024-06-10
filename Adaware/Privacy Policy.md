@@ -70,16 +70,8 @@ Adaware Products
 * [Driver Manager](https://www.adaware.com/free-driver-updater)
 * [AdBlock](https://chrome.google.com/webstore/detail/adaware-ad-block/cmllgdnjnkbapbchnebiedipojhmnjej/)
 
-Adaware™ is a registered trademark of Avanquest Software.
-
-* [Avanquest Corporate Website](https://www.avanquestgroup.com/)
-* [Jobs Opportunities](https://www.avanquestgroup.com/join-us)
-
-Copyright © 2024 All rights reserved.
-
 * [Privacy Policy](https://www.adaware.com/privacy-policy/)
 * [CCPA](https://www.adaware.com/CCPA/)
 * [Cookie Policy](https://www.adaware.com/cookie-policy/)
 * [Terms of Use](https://www.adaware.com/terms-of-use/)
-* [EULA](https://www.adaware.com/EULA/)
 * [Sitemap](https://www.adaware.com/sitemap/)
