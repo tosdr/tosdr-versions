@@ -1,5 +1,5 @@
-Sorry, it’s taking a while to connect you
+La connexion prend plus de temps que prévu...
 
-Whoops, looks like something’s gone wrong, but we’ll have it fixed as soon as we can!
+Une erreur est survenue... Nous sommes sur le coup !
 
-Refresh
+Rafraîchir
