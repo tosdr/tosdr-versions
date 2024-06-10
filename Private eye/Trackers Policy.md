@@ -336,20 +336,6 @@ However, the GDPR and the DPA contain an exemption which allows us not to apply 
 
 MORE TOP STORIES ONLINE
 
-[![Crime wave ](https://www.private-eye.co.uk/pictures/street_of_shame/small/lord-lucan.jpg)](http://www.private-eye.co.uk/street-of-shame)
-
-[Crime wave](http://www.private-eye.co.uk/street-of-shame)  
-The Mail's approach to true crime
-
-Street Of Shame, Issue 1625
-
-[![Friendly fire ](https://www.private-eye.co.uk/pictures/street_of_shame/small/andrew-neill.jpg)](http://www.private-eye.co.uk/issue-1623/street-of-shame)
-
-[Friendly fire](http://www.private-eye.co.uk/issue-1623/street-of-shame)  
-Certain media are closer to government
-
-Street Of Shame, Issue 1623
-
 [![Closing act  ](https://www.private-eye.co.uk/pictures/hp_sauce/small/nadhim-zahawi-2.jpg)](http://www.private-eye.co.uk/issue-1624/hp-sauce)
 
 [Closing act](http://www.private-eye.co.uk/issue-1624/hp-sauce)  
@@ -357,19 +343,33 @@ Nadhim Zahawi's theatrical exit
 
 HP Sauce, Issue 1624
 
+[![Praise the Lord!  ](https://www.private-eye.co.uk/pictures/street_of_shame/small/doctor-who.jpg)](http://www.private-eye.co.uk/issue-1624/street-of-shame)
+
+[Praise the Lord!](http://www.private-eye.co.uk/issue-1624/street-of-shame)  
+How the Mail is trolling Doctor Who's showrunner
+
+Street Of Shame, Issue 1624
+
+[![Crossing swords  ](https://www.private-eye.co.uk/pictures/in_the_back/small/hebblethwaite.jpg)](http://www.private-eye.co.uk/issue-1624/in-the-back)
+
+[Crossing swords](http://www.private-eye.co.uk/issue-1624/in-the-back)  
+P&O is making waves again
+
+In The Back, Issue 1624
+
 ALSO IN THIS ISSUE
 
-[![Crossword](https://www.private-eye.co.uk/pictures/crossword/thumb/thumb.gif)](https://www.private-eye.co.uk/crossword) [Crossword](https://www.private-eye.co.uk/crossword)  
-[Win a cash prize](https://www.private-eye.co.uk/crossword)  
-[more »](https://www.private-eye.co.uk/crossword)
+[![HP Sauce](https://www.private-eye.co.uk/pictures/hp_sauce/thumb/thumb.gif)](https://www.private-eye.co.uk/hp-sauce) [HP Sauce](https://www.private-eye.co.uk/hp-sauce)  
+[Latest stories](https://www.private-eye.co.uk/hp-sauce)  
+[more »](https://www.private-eye.co.uk/hp-sauce)
 
-[![Number](https://www.private-eye.co.uk/pictures/number_crunching/thumb/thumb.gif)](https://www.private-eye.co.uk/number-crunching) [Number](https://www.private-eye.co.uk/number-crunching)  
-[Crunching](https://www.private-eye.co.uk/number-crunching)  
-[more »](https://www.private-eye.co.uk/number-crunching)
+[![News](https://www.private-eye.co.uk/pictures/news/thumb/thumb.gif)](https://www.private-eye.co.uk/news) [News](https://www.private-eye.co.uk/news)  
+[Top Stories](https://www.private-eye.co.uk/news)  
+[more »](https://www.private-eye.co.uk/news)
 
-[![Strips](https://www.private-eye.co.uk/pictures/strips/fashionistas/thumb/thumb.gif)](https://www.private-eye.co.uk/cartoons) [Strips](https://www.private-eye.co.uk/cartoons)  
-[Fashionistas](https://www.private-eye.co.uk/cartoons)  
-[more »](https://www.private-eye.co.uk/cartoons)
+[![Top Stories](https://www.private-eye.co.uk/pictures/street_of_shame/thumb/thumb.gif)](https://www.private-eye.co.uk/street-of-shame) [Top Stories](https://www.private-eye.co.uk/street-of-shame)  
+[Street Of Shame](https://www.private-eye.co.uk/street-of-shame)  
+[more »](https://www.private-eye.co.uk/street-of-shame)
 
 ONLY IN THE MAGAZINE
 
@@ -411,30 +411,30 @@ VIEWING ISSUE 1625
 
 [![](https://www.private-eye.co.uk/grfx/stuff/twitter_header.gif)](https://twitter.com/PrivateEyeNews) [Tweets by PrivateEyeNews](https://twitter.com/PrivateEyeNews?ref_src=twsrc%5Etfw) [![](https://www.private-eye.co.uk/grfx/stuff/twitter_footer.gif)](https://twitter.com/PrivateEyeNews)
 
-[![](https://www.private-eye.co.uk/pictures/adverts/mpu/overseas.png)](http://www.subsonline.co.uk/) 
+[![](https://www.private-eye.co.uk/pictures/adverts/mpu/300_binders.jpg)](https://checkout.private-eye.co.uk/singleitem?item=P0001&prom=W37AAPHG) 
 
 MORE FROM PRIVATE EYE
 
 [![](https://www.private-eye.co.uk/pictures/boxes/paul-foot.png)](http://www.private-eye.co.uk/paul-foot-award)[Paul Foot Award](http://www.private-eye.co.uk/paul-foot-award)
 
-[![](https://www.private-eye.co.uk/pictures/boxes/subscriptions.png)](http://www.subsonline.co.uk/)[Subscriptions](http://www.subsonline.co.uk/)
+[![](https://www.private-eye.co.uk/pictures/boxes/page-94.png)](https://www.private-eye.co.uk/podcast)[Page 94 Podcast](https://www.private-eye.co.uk/podcast)
 
 [![](https://www.private-eye.co.uk/pictures/boxes/gift.png)](http://www.subsonline.co.uk/)[Gift Subscriptions](http://www.subsonline.co.uk/)
 
-[![](https://www.private-eye.co.uk/pictures/boxes/page-94.png)](https://www.private-eye.co.uk/podcast)[Page 94 Podcast](https://www.private-eye.co.uk/podcast)
+[![](https://www.private-eye.co.uk/pictures/boxes/subscriptions.png)](http://www.subsonline.co.uk/)[Subscriptions](http://www.subsonline.co.uk/)
 
   
   
 
-[![](https://www.private-eye.co.uk/grfx/logos/page-94-text.png)](http://www.private-eye.co.uk/podcast)
+[SPECIAL REPORTS](http://www.private-eye.co.uk/special-reports)
 
-[![](https://www.private-eye.co.uk/grfx/stuff/arrow-soundcloud.png)](https://www.private-eye.co.uk/podcast/109)[The Footies 3: Taking the OPIS](https://www.private-eye.co.uk/podcast/109)
+[![Shoot The Messenger](https://www.private-eye.co.uk/pictures/special_reports/v-shoot-the-messenger.jpg)](https://www.private-eye.co.uk/special-reports/shoot-the-messenger) [Shoot The Messenger](https://www.private-eye.co.uk/special-reports/shoot-the-messenger)
 
-[![](https://www.private-eye.co.uk/grfx/stuff/arrow-soundcloud.png)](https://www.private-eye.co.uk/podcast/103)[Sexual Politics](https://www.private-eye.co.uk/podcast/103)
+[![Profits Of Doom](https://www.private-eye.co.uk/pictures/special_reports/v-profits-of-doom.jpg)](https://www.private-eye.co.uk/special-reports/profits-of-doom) [Profits Of Doom](https://www.private-eye.co.uk/special-reports/profits-of-doom)
 
-[![](https://www.private-eye.co.uk/grfx/stuff/arrow-soundcloud.png)](https://www.private-eye.co.uk/podcast/105)[Defection, Dwellings and Domesticated Animals](https://www.private-eye.co.uk/podcast/105)
+[![Lockerbie - The Flight From Justice](https://www.private-eye.co.uk/pictures/special_reports/v-lockerbie.jpg)](https://www.private-eye.co.uk/special-reports/lockerbie) [Lockerbie - The Flight From Justice](https://www.private-eye.co.uk/special-reports/lockerbie)
 
-[![](https://www.private-eye.co.uk/grfx/stuff/arrow-soundcloud.png)](https://www.private-eye.co.uk/podcast/108)[The Footies #2: A Mental Health Crisis](https://www.private-eye.co.uk/podcast/108)
+[![The Queen And The Eye](https://www.private-eye.co.uk/pictures/special_reports/v-queen-covers.jpg)](https://www.private-eye.co.uk/special-reports/queen-covers) [The Queen And The Eye](https://www.private-eye.co.uk/special-reports/queen-covers)
 
 [![gnitty](https://www.private-eye.co.uk/grfx/logos/gnitty-footer.png)](http://www.private-eye.co.uk/contact)
 
