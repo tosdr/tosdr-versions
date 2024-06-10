@@ -1,4 +1,4 @@
-LAST UPDATED May 14, 2024
+LAST UPDATED March 1, 2024
 
 Brave Browser Privacy Policy
 ============================
@@ -186,7 +186,7 @@ We use a service called Backtrace.io to store the reports. You can choose whethe
 
 ### Privacy Preserving Product Analytics[](#privacy-preserving-product-analytics "Permalink to this headline")
 
-The Browser sends us anonymous reports to alert us to product problems and necessary improvements. None of the information it reports harms your privacy. The report only describes general use of the Browser or other Brave products, such as a general range of how many extensions are installed, a general range of how many tabs are open, and whether features like Shields, Rewards, and Ads are switched on. [See the full list of questions here](https://github.com/brave/brave-browser/wiki/P3A). These reports are stripped of metadata, and aggregated with measurements reported by many other instances of Brave. The data are not personal, and cannot be combined to identify you. You can deactivate Privacy-Preserving Product Analytics in Settings.
+The Browser sends us anonymous reports to alert us to product problems and necessary improvements. None of the information it reports harms your privacy. The report only describes general use of the Browser, such as a general range of how many extensions are installed, a general range of how many tabs are open, and whether features like Shields, Rewards, and Ads are switched on. [See the full list of questions here](https://github.com/brave/brave-browser/wiki/P3A). These reports are stripped of metadata, and aggregated with measurements reported by many other instances of Brave. The data are not personal, and cannot be combined to identify you. You can deactivate Privacy-Preserving Product Analytics in Settings.
 
 ### Your feedback[](#your-feedback "Permalink to this headline")
 
