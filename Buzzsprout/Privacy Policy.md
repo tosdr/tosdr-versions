@@ -6,14 +6,14 @@ menu
 
 [Log In](https://www.buzzsprout.com/login) [Get Started Free](https://www.buzzsprout.com/sign_up)
 
-[Summary](https://www.buzzsprout.com/policies_summary) | [Terms of Service](https://www.buzzsprout.com/tos) | [Refunds](https://www.buzzsprout.com/refunds) | [Privacy Policy](https://www.buzzsprout.com/privacy) | [DPF Privacy Policy](https://www.buzzsprout.com/privacy_shield) | [GDPR](https://www.buzzsprout.com/gdpr) | [DMCA](https://www.buzzsprout.com/dmca)
+[Summary](https://www.buzzsprout.com/policies_summary) | [Terms of Service](https://www.buzzsprout.com/tos) | [Refunds](https://www.buzzsprout.com/refunds) | [Privacy Policy](https://www.buzzsprout.com/privacy) | [Privacy Shield](https://www.buzzsprout.com/privacy_shield) | [GDPR](https://www.buzzsprout.com/gdpr) | [DMCA](https://www.buzzsprout.com/dmca)
 
 Buzzsprout - Privacy Policy
 ===========================
 
 Higher Pixels, dba Buzzsprout, provides the Buzzsprout product (www.buzzsprout.com) and Buzzsprout Ads (www.buzzsprout.com/ads), together referred to as the Buzzsprout Services. Buzzsprout is committed to protecting the privacy and data of those who visit the buzzsprout.com website, use the Buzzsprout Services, and listen to podcast episodes served from Buzzsprout servers.
 
-The data you put into Buzzsprout is yours. We'll only ever access your account to help you with a problem or fix a software issue. We log access to accounts by IP address. This allows us to verify that no unauthorized access has happened for as long as the logs are kept.
+The data you put into Buzzsprout is yours. We’ll only ever access your account to help you with a problem or fix a software issue. We log access to accounts by IP address. This allows us to verify that no unauthorized access has happened for as long as the logs are kept.
 
 **Podcast Listener Privacy**
 
@@ -109,7 +109,7 @@ When you cancel your account, we delete all data associated with your account fr
 EU-US and Swiss-US Customers
 ----------------------------
 
-Please see our [EU-US and Swiss-US DPF Privacy Policy](https://www.buzzsprout.com/privacy_shield).
+Please see our [EU-US and Swiss-US Privacy Shield policy](https://www.buzzsprout.com/privacy_shield).
 
 Corrections and Updates
 -----------------------
