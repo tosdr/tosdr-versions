@@ -291,16 +291,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     
     [http://www.mglc.si](http://www.mglc.si/)
     
-    [12:00 Oliver Larić, BG](javascript:void(0);)
-    
-    **09.03.2024 | 12:00**
-    
-    Eugster || Belgrade, [Viline Vode BB, Beograd](https://eugster-belgrade.dmanalytics2.com/click?u=https%3A%2F%2Feugster-belgrade.us15.list-manage.com%2Ftrack%2Fclick%3Fu%3D1e6a26b1fab32d2409a2a5549%26id%3Dd7bc14ccfb%26e%3D700a5dc53c&i=9&d=ddttiRp9RAu5im71CN6BtQ&e=redakcija%40seecult.org&a=zR8Rfv9bRwyby_W8K5memA&s=ANxKQ1ZVGyQ)
-    
-    **OLIVER LARIĆ** (1981, Innsbruck): **[CALIBRATING](https://eugster-belgrade.dmanalytics2.com/click?u=https%3A%2F%2Fwww.eugster-belgrade.com%2Fexhibitions%2Fcalibrating%2F&i=6&d=ddttiRp9RAu5im71CN6BtQ&e=redakcija%40seecult.org&a=zR8Rfv9bRwyby_W8K5memA&s=ABi_5DNWxEY)** - izložba (8.3.-8.6.2024.)
-    
-    [http://www.eugster-belgrade.com](http://www.eugster-belgrade.com/)
-    
     [10:00 Klavdij Sluban, LJ](javascript:void(0);)
     
     **20.03.2024 | 10:00**
@@ -313,14 +303,28 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     
     [https://mgml.si/sl/galerija-jakopic/razstave/656/klavdij-sluban](https://mgml.si/sl/galerija-jakopic/razstave/656/klavdij-sluban)
     
+    [10:00 Vladan Radovanović, BG](javascript:void(0);)
+    
+    **29.03.2024 | 10:00**
+    
+    **[Muzej savremene umetnosti Beograd](http://seecult.org/institucija/muzej-savremene-umetnosti-beograd)**
+    
+    **VLADAN RADOVANOVIĆ** (1932-2023): **ISPRED VREMENA I IZVAN** - retrospektivna izložba (28.3.-10.9.2024.)
+    
+    autor koncepcije i kustos izložbe: Saša Janjić
+    
+    kustos iz Muzeja savremene umetnosti: Una Popović, rukovodilac Zbirke fotografije, filma, videa i digitalnih medija MSU
+    
+    [https://www.msub.org.rs](https://www.msub.org.rs/)
+    
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/ana-krstic/srecna-nova-demokratija/cacak.jpg?itok=MSCaaFLO)](http://seecult.org/galerija/galerija-umetnika/ana-krstic/srecna-nova-demokratija)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/aleksandar-rafajlovic/ploc/ploca.jpg?itok=QOIQcsJ9)](http://seecult.org/galerija/galerija-umetnika/aleksandar-rafajlovic/ploca)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/26-skopje-jazz-festival/sidsel-endresen3.jpg?itok=jwEAqUkC)](http://seecult.org/galerija/foto-galerija/foto-arhiva/26-skopje-jazz-festival)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/travijata-opera.jpg?itok=Ow8FZ8C3)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -336,16 +340,16 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Nadežda Petrović u Narodnom muzeju](http://seecult.org/vest/nadezda-petrovic-u-narodnom-muzeju)
 * [Partibrejkers uveličali Zemun fest](http://seecult.org/vest/partibrejkers-uvelicali-zemun-fest)
 
+* [Bijenale u Veneciji 2024 - Simbolički krik južne hemisfere](http://seecult.org/vest/bijenale-u-veneciji-2024-simbolicki-krik-juzne-hemisfere)
+* [Iskustvo pejzaža](http://seecult.org/vest/iskustvo-pejzaza)
+* [23\. OFF-fest u slavu različitosti](http://seecult.org/vest/23-fest-u-slavu-razlicitosti)
+* [Srpska saradnja u filmskoj umetnosti](http://seecult.org/vest/srpska-saradnja-u-filmskoj-umetnosti)
 * [51\. INFANT u duhu radikalnog optimizma](http://seecult.org/vest/51-infant-u-duhu-radikalnog-optimizma)
 * [Finale nagrade Mangelos 2024.](http://seecult.org/vest/finale-nagrade-mangelos-2024)
 * [Podrška struci protiv rušenja Generalštaba](http://seecult.org/vest/podrska-struci-protiv-rusenja-generalstaba)
 * [Aca Rafajlović – Nastaviće se…](http://seecult.org/vest/aca-rafajlovic-nastavice-se)
 * [Art Weekend Belgrade 2024](http://seecult.org/vest/art-weekend-belgrade-2024)
 * [ICOMOS zabrinut zbog sudbine kompleksa Generalštaba](http://seecult.org/vest/icomos-zabrinut-zbog-sudbine-kompleksa-generalstaba)
-* [Aleksandru Vučkoviću nagrada Petar Banićević](http://seecult.org/vest/aleksandru-vuckovicu-nagrada-petar-banicevic)
-* [Zlatni pečat Manojloviću, otvoren 26. Nitrat](http://seecult.org/vest/zlatni-pecat-manojlovicu-otvoren-26-nitrat)
-* [Sanji Marković nagrada Ljubinka Bobić](http://seecult.org/vest/sanji-markovic-nagrada-ljubinka-bobic)
-* [Grlićev Svemu dođe kraj otvara 71. Pulski filmski festival](http://seecult.org/vest/grlicev-svemu-dode-kraj-otvara-71-pulski-filmski-festival)
 
 * [Konkursi](#tab1_1)
 
