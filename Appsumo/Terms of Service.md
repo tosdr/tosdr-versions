@@ -155,7 +155,7 @@ You agree and understand that that we may do the following: 
     
 * Take legal action, including without limitation, referral to law enforcement, for any illegal or unauthorized use of the Services or violation of these terms.
     
-* Cooperate fully with any law enforcement authorities or court order requesting or directing us to disclose your identity or other information about you. YOU WAIVE AND HOLD HARMLESS APPSUMO, ITS AFFILIATES, LICENSEES, AND SERVICE PROVIDERS FROM ANY CLAIMS RESULTING FROM ANY ACTION TAKEN BY ANY OF THE FOREGOING PARTIES DURING, OR TAKEN AS A CONSEQUENCE OF, INVESTIGATIONS BY EITHER SUCH PARTIES OR LAW ENFORCEMENT AUTHORITIES.
+* Cooperate fully with any law enforcement authorities or court order requesting or directing us to disclose your identity or other information about you. YOU WAIVE AND HOLD HARMLESS APPSUMO, ITS AFFILIATES, LICENSEES, AND SERVICE PROVIDERS FROM ANY CLAIMS RESULTING FROM ANY ACTION TAKEN BY ANY OF THE FOREGOING PARTIES DURING, OR TAKEN AS A CONSEQUENCE OF, INVESTIGATI
     
 
 12\. Disclaimer of Warranties; Limitation of Liability
