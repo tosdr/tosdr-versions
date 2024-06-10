@@ -18,7 +18,7 @@ Select your language English日本語
 
 [![Home](/themes/custom/bh/dist/images/logo.png)](https://www.bakerhughes.com/ "Home")
 
-* Featured Solutions
+* Featured Capabilities
     
     * [Energy Transition Energy technology to help the industry advance on the path to net-zero](https://www.bakerhughes.com/energy-transition "Energy Transition")
         
@@ -44,7 +44,7 @@ Select your language English日本語
         
     * [Mature Assets Solutions Reviving mature Assets and accelerating impact through integrated solutions](https://www.bakerhughes.com/mature-assets-solutions "Mature Assets Solutions")
         
-    * [View All](https://www.bakerhughes.com/featured-solutions "View All")
+    * [View All](https://www.bakerhughes.com/featured-capabilities "View All")
         
     
 * Products & Services
@@ -78,7 +78,9 @@ Select your language English日本語
             
             * [Coring Services](https://www.bakerhughes.com/evaluation/coring-services "Reduce economic risk with superior coring technology")
                 
-            * [GaffneyCline Energy Advisory](https://www.bakerhughes.com/gaffneycline-energy-advisory "Understand the reservoir to optimize hydrocarbon production ")
+            * [GaffneyCline](https://www.bakerhughes.com/drilling/gaffneycline "Solve your complex business problems with expertise and insights from a proven energy consultancy")
+                
+            * [Reservoir Technical Services](https://www.bakerhughes.com/drilling/reservoir-technical-services "Understand the reservoir to optimize hydrocarbon production ")
                 
             * [Logging-While-Drilling Services](https://www.bakerhughes.com/evaluation/loggingwhiledrilling-services "Maximize your reservoir with LWD solutions")
                 
@@ -97,17 +99,29 @@ Select your language English日本語
             * [Wireline Well Integrity Evaluation](https://www.bakerhughes.com/evaluation/wireline-well-integrity-evaluation)
                 
             
-        * [GaffneyCline Energy Advisory](https://www.bakerhughes.com/)
+        * [Reservoir Technical Services](https://www.bakerhughes.com/)
             
-            GaffneyCline Energy Advisory
+            Reservoir Technical Services
             
-            From high-level strategy to ground-level execution, trust a proven team of energy advisors to help deliver your projects with greater speed, certainty, and efficiency.
+            Understand and characterize your reservoir’s production potential so you can improve hydrocarbon recovery.
             
-            [Explore](https://www.bakerhughes.com/gaffneycline-energy-advisory)
+            [Explore](https://www.bakerhughes.com/drilling/reservoir-technical-services)
             
-            * [Advisory](https://www.bakerhughes.com/gaffneycline-energy-advisory/advisory)
+            * [Geomechanics](https://www.bakerhughes.com/mature-assets-solutions/asset-surveillance-and-intervention-%28category-version%29/reservoir-technical-services/geomechanics)
                 
-            * [Geoscience](https://www.bakerhughes.com/gaffneycline-energy-advisory/geoscience)
+            * [Geophysics Services](https://www.bakerhughes.com/mature-assets-solutions/asset-surveillance-and-intervention-%28category-version%29/reservoir-technical-services/geophysics-services)
+                
+            * [Microseismic Services](https://www.bakerhughes.com/mature-assets-solutions/asset-surveillance-and-intervention-%28category-version%29/reservoir-technical-services/microseismic-services)
+                
+            * [Petroleum Engineering Services](https://www.bakerhughes.com/mature-assets-solutions/asset-surveillance-and-intervention-%28category-version%29/reservoir-technical-services/petroleum-engineering-services)
+                
+            * [Petrophysics](https://www.bakerhughes.com/mature-assets-solutions/asset-surveillance-and-intervention-%28category-version%29/reservoir-technical-services/petrophysics)
+                
+            * [Production Analysis Services](https://www.bakerhughes.com/mature-assets-solutions/asset-surveillance-and-intervention-%28category-version%29/reservoir-technical-services/production-analysis-services)
+                
+            * [Reservoir Engineering Services](https://www.bakerhughes.com/mature-assets-solutions/asset-surveillance-and-intervention-%28category-version%29/reservoir-technical-services/reservoir-engineering-services)
+                
+            * [Reservoir Navigation Services](https://www.bakerhughes.com/drilling/reservoir-technical-services/reservoir-navigation-and-mapping-services)
                 
             
         * [Process & Pipeline Services](https://www.bakerhughes.com/process-pipeline-services)
@@ -141,7 +155,9 @@ Select your language English日本語
                 
             * [Drilling Optimization Services](https://www.bakerhughes.com/drilling/drill-bits/drilling-optimization-services)
                 
-            * [GaffneyCline Energy Advisory](https://www.bakerhughes.com/gaffneycline-energy-advisory)
+            * [GaffneyCline](https://www.bakerhughes.com/drilling/gaffneycline)
+                
+            * [Reservoir Technical Services](https://www.bakerhughes.com/drilling/reservoir-technical-services)
                 
             * [Measurement-While-Drilling Services](https://www.bakerhughes.com/drilling/measurementwhiledrilling-services)
                 
@@ -205,8 +221,6 @@ Select your language English日本語
             * [Flow Assurance](https://www.bakerhughes.com/production/flow-assurance)
                 
             * [Intelligent Chemistry](https://www.bakerhughes.com/processing-services/intelligent-chemistry)
-                
-            * [Leucipa automated field production solution](https://www.bakerhughes.com/leucipa-automated-field-production-solution)
                 
             * [Production Optimization](https://www.bakerhughes.com/production/production-optimization)
                 
@@ -331,8 +345,6 @@ Select your language English日本語
             
             [Explore](https://www.bakerhughes.com/oilfield-services-and-equipment-digital)
             
-            * [Leucipa automated field production solution](https://www.bakerhughes.com/leucipa-automated-field-production-solution)
-                
             * [Subsurface Modeling](https://www.bakerhughes.com/oilfield-services-and-equipment-digital/subsurface-modeling)
                 
             * [Well Planning](https://www.bakerhughes.com/oilfield-services-and-equipment-digital/well-planning)
@@ -588,8 +600,6 @@ Select your language English日本語
             
             [Explore](https://www.bakerhughes.com/oilfield-services-and-equipment-digital)
             
-            * [Leucipa automated field production solution](https://www.bakerhughes.com/leucipa-automated-field-production-solution)
-                
             * [Subsurface Modeling](https://www.bakerhughes.com/oilfield-services-and-equipment-digital/subsurface-modeling)
                 
             * [Well Planning](https://www.bakerhughes.com/oilfield-services-and-equipment-digital/well-planning)
@@ -675,7 +685,7 @@ Select your language English日本語
             
         * [Non-Destructive Testing](https://www.bakerhughes.com/waygate-technologies/non-destructive-testing)
             
-        * [Nuclear Measurement Solutions](https://www.bakerhughes.com/reuter-stokes-old/nuclear-instrumentation)
+        * [Nuclear Measurement Solutions](https://www.bakerhughes.com/reuter-stokes/nuclear-measurement-solutions)
             
         * [Pressure Sensors](https://www.bakerhughes.com/druck/industrial-pressure-sensors)
             
@@ -708,6 +718,8 @@ Select your language English日本語
                 
             * [Portable Moisture Analyzers](https://www.bakerhughes.com/panametrics/process-analyzers/portable-moisture-analyzers)
                 
+            
+        * [Radiation Measurement & Monitoring](https://www.bakerhughes.com/reuterstokes/industry/radiation-measurement-and-monitoring)
             
         * [Remote Monitoring & Diagnostics](https://www.bakerhughes.com/bently-nevada/support-services/remote-monitoring-diagnostics)
             
@@ -840,15 +852,17 @@ Select your language English日本語
             * [Panametrics Services](https://www.bakerhughes.com/panametrics/panametrics-services)
                 
             
-        * [Reuter-Stokes](https://www.bakerhughes.com/reuter-stokes)
+        * [Reuter-Stokes](https://www.bakerhughes.com/reuterstokes/industry/about-reuterstokes)
             
             Reuter-Stokes
             
             Measurement & Sensing Technologies
             
-            [Explore](https://www.bakerhughes.com/reuter-stokes)
+            [Explore](https://www.bakerhughes.com/reuterstokes/industry/about-reuterstokes)
             
-            * [Nuclear Measurement Solutions](https://www.bakerhughes.com/reuter-stokes-old/nuclear-instrumentation)
+            * [Radiation Measurement & Monitoring](https://www.bakerhughes.com/reuterstokes/industry/radiation-measurement-and-monitoring)
+                
+            * [Nuclear Measurement Solutions](https://www.bakerhughes.com/reuter-stokes/nuclear-measurement-solutions)
                 
             * [Downhole Sensors](https://www.bakerhughes.com/reuterstokes/industry/downhole-sensors-tools-and-technology)
                 
@@ -888,7 +902,7 @@ Select your language English日本語
             
         * [Consultancy Services](https://www.bakerhughes.com/)
             
-            * [GaffneyCline Energy Advisory](https://www.bakerhughes.com/gaffneycline-energy-advisory)
+            * [GaffneyCline](https://www.bakerhughes.com/drilling/gaffneycline)
                 
             * [io consulting](https://www.ioconsulting.com/)
                 
@@ -981,7 +995,7 @@ Select your language English日本語
 
 Search 
 
-* Featured Solutions
+* Featured Capabilities
     
     * [Energy Transition Energy technology to help the industry advance on the path to net-zero](https://www.bakerhughes.com/energy-transition "Energy Transition")
         
@@ -1007,7 +1021,7 @@ Search
         
     * [Mature Assets Solutions Reviving mature Assets and accelerating impact through integrated solutions](https://www.bakerhughes.com/mature-assets-solutions "Mature Assets Solutions")
         
-    * [View All](https://www.bakerhughes.com/featured-solutions "View All")
+    * [View All](https://www.bakerhughes.com/featured-capabilities "View All")
         
     
 * Products & Services
@@ -1041,7 +1055,9 @@ Search
             
             * [Coring Services](https://www.bakerhughes.com/evaluation/coring-services "Reduce economic risk with superior coring technology")
                 
-            * [GaffneyCline Energy Advisory](https://www.bakerhughes.com/gaffneycline-energy-advisory "Understand the reservoir to optimize hydrocarbon production ")
+            * [GaffneyCline](https://www.bakerhughes.com/drilling/gaffneycline "Solve your complex business problems with expertise and insights from a proven energy consultancy")
+                
+            * [Reservoir Technical Services](https://www.bakerhughes.com/drilling/reservoir-technical-services "Understand the reservoir to optimize hydrocarbon production ")
                 
             * [Logging-While-Drilling Services](https://www.bakerhughes.com/evaluation/loggingwhiledrilling-services "Maximize your reservoir with LWD solutions")
                 
@@ -1060,17 +1076,29 @@ Search
             * [Wireline Well Integrity Evaluation](https://www.bakerhughes.com/evaluation/wireline-well-integrity-evaluation)
                 
             
-        * [GaffneyCline Energy Advisory](https://www.bakerhughes.com/)
+        * [Reservoir Technical Services](https://www.bakerhughes.com/)
             
-            GaffneyCline Energy Advisory
+            Reservoir Technical Services
             
-            From high-level strategy to ground-level execution, trust a proven team of energy advisors to help deliver your projects with greater speed, certainty, and efficiency.
+            Understand and characterize your reservoir’s production potential so you can improve hydrocarbon recovery.
             
-            [Explore](https://www.bakerhughes.com/gaffneycline-energy-advisory)
+            [Explore](https://www.bakerhughes.com/drilling/reservoir-technical-services)
             
-            * [Advisory](https://www.bakerhughes.com/gaffneycline-energy-advisory/advisory)
+            * [Geomechanics](https://www.bakerhughes.com/mature-assets-solutions/asset-surveillance-and-intervention-%28category-version%29/reservoir-technical-services/geomechanics)
                 
-            * [Geoscience](https://www.bakerhughes.com/gaffneycline-energy-advisory/geoscience)
+            * [Geophysics Services](https://www.bakerhughes.com/mature-assets-solutions/asset-surveillance-and-intervention-%28category-version%29/reservoir-technical-services/geophysics-services)
+                
+            * [Microseismic Services](https://www.bakerhughes.com/mature-assets-solutions/asset-surveillance-and-intervention-%28category-version%29/reservoir-technical-services/microseismic-services)
+                
+            * [Petroleum Engineering Services](https://www.bakerhughes.com/mature-assets-solutions/asset-surveillance-and-intervention-%28category-version%29/reservoir-technical-services/petroleum-engineering-services)
+                
+            * [Petrophysics](https://www.bakerhughes.com/mature-assets-solutions/asset-surveillance-and-intervention-%28category-version%29/reservoir-technical-services/petrophysics)
+                
+            * [Production Analysis Services](https://www.bakerhughes.com/mature-assets-solutions/asset-surveillance-and-intervention-%28category-version%29/reservoir-technical-services/production-analysis-services)
+                
+            * [Reservoir Engineering Services](https://www.bakerhughes.com/mature-assets-solutions/asset-surveillance-and-intervention-%28category-version%29/reservoir-technical-services/reservoir-engineering-services)
+                
+            * [Reservoir Navigation Services](https://www.bakerhughes.com/drilling/reservoir-technical-services/reservoir-navigation-and-mapping-services)
                 
             
         * [Process & Pipeline Services](https://www.bakerhughes.com/process-pipeline-services)
@@ -1104,7 +1132,9 @@ Search
                 
             * [Drilling Optimization Services](https://www.bakerhughes.com/drilling/drill-bits/drilling-optimization-services)
                 
-            * [GaffneyCline Energy Advisory](https://www.bakerhughes.com/gaffneycline-energy-advisory)
+            * [GaffneyCline](https://www.bakerhughes.com/drilling/gaffneycline)
+                
+            * [Reservoir Technical Services](https://www.bakerhughes.com/drilling/reservoir-technical-services)
                 
             * [Measurement-While-Drilling Services](https://www.bakerhughes.com/drilling/measurementwhiledrilling-services)
                 
@@ -1168,8 +1198,6 @@ Search
             * [Flow Assurance](https://www.bakerhughes.com/production/flow-assurance)
                 
             * [Intelligent Chemistry](https://www.bakerhughes.com/processing-services/intelligent-chemistry)
-                
-            * [Leucipa automated field production solution](https://www.bakerhughes.com/leucipa-automated-field-production-solution)
                 
             * [Production Optimization](https://www.bakerhughes.com/production/production-optimization)
                 
@@ -1294,8 +1322,6 @@ Search
             
             [Explore](https://www.bakerhughes.com/oilfield-services-and-equipment-digital)
             
-            * [Leucipa automated field production solution](https://www.bakerhughes.com/leucipa-automated-field-production-solution)
-                
             * [Subsurface Modeling](https://www.bakerhughes.com/oilfield-services-and-equipment-digital/subsurface-modeling)
                 
             * [Well Planning](https://www.bakerhughes.com/oilfield-services-and-equipment-digital/well-planning)
@@ -1551,8 +1577,6 @@ Search
             
             [Explore](https://www.bakerhughes.com/oilfield-services-and-equipment-digital)
             
-            * [Leucipa automated field production solution](https://www.bakerhughes.com/leucipa-automated-field-production-solution)
-                
             * [Subsurface Modeling](https://www.bakerhughes.com/oilfield-services-and-equipment-digital/subsurface-modeling)
                 
             * [Well Planning](https://www.bakerhughes.com/oilfield-services-and-equipment-digital/well-planning)
@@ -1638,7 +1662,7 @@ Search
             
         * [Non-Destructive Testing](https://www.bakerhughes.com/waygate-technologies/non-destructive-testing)
             
-        * [Nuclear Measurement Solutions](https://www.bakerhughes.com/reuter-stokes-old/nuclear-instrumentation)
+        * [Nuclear Measurement Solutions](https://www.bakerhughes.com/reuter-stokes/nuclear-measurement-solutions)
             
         * [Pressure Sensors](https://www.bakerhughes.com/druck/industrial-pressure-sensors)
             
@@ -1671,6 +1695,8 @@ Search
                 
             * [Portable Moisture Analyzers](https://www.bakerhughes.com/panametrics/process-analyzers/portable-moisture-analyzers)
                 
+            
+        * [Radiation Measurement & Monitoring](https://www.bakerhughes.com/reuterstokes/industry/radiation-measurement-and-monitoring)
             
         * [Remote Monitoring & Diagnostics](https://www.bakerhughes.com/bently-nevada/support-services/remote-monitoring-diagnostics)
             
@@ -1803,15 +1829,17 @@ Search
             * [Panametrics Services](https://www.bakerhughes.com/panametrics/panametrics-services)
                 
             
-        * [Reuter-Stokes](https://www.bakerhughes.com/reuter-stokes)
+        * [Reuter-Stokes](https://www.bakerhughes.com/reuterstokes/industry/about-reuterstokes)
             
             Reuter-Stokes
             
             Measurement & Sensing Technologies
             
-            [Explore](https://www.bakerhughes.com/reuter-stokes)
+            [Explore](https://www.bakerhughes.com/reuterstokes/industry/about-reuterstokes)
             
-            * [Nuclear Measurement Solutions](https://www.bakerhughes.com/reuter-stokes-old/nuclear-instrumentation)
+            * [Radiation Measurement & Monitoring](https://www.bakerhughes.com/reuterstokes/industry/radiation-measurement-and-monitoring)
+                
+            * [Nuclear Measurement Solutions](https://www.bakerhughes.com/reuter-stokes/nuclear-measurement-solutions)
                 
             * [Downhole Sensors](https://www.bakerhughes.com/reuterstokes/industry/downhole-sensors-tools-and-technology)
                 
@@ -1851,7 +1879,7 @@ Search
             
         * [Consultancy Services](https://www.bakerhughes.com/)
             
-            * [GaffneyCline Energy Advisory](https://www.bakerhughes.com/gaffneycline-energy-advisory)
+            * [GaffneyCline](https://www.bakerhughes.com/drilling/gaffneycline)
                 
             * [io consulting](https://www.ioconsulting.com/)
                 
