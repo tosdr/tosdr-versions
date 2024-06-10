@@ -398,7 +398,7 @@ Tellwut has a very active voter panel which can provide you with an instantaneou
 
 * Surveys: **89,278**
 
-* Voters: **2,635,974**
+* Voters: **2,637,920**
 
 * Cookie settings
 
