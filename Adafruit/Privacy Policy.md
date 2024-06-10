@@ -75,39 +75,40 @@ Search
     
     New Products[view all](https://www.adafruit.com/new)
     
-    ![Angled shot of round display PCB.](https://cdn-shop.adafruit.com/230x173/5771-01.jpg)[Seeed Studio Round Touchscreen Display for Xiao / QT Py
+    ![Angled Shot of the PCIe Flex Cable for NVMe Base and Raspberry Pi 5 – PCIe Pipe - 35mm.](https://cdn-shop.adafruit.com/230x173/5930-00.jpg)[PCIe Flex Cable for NVMe Base and Raspberry Pi 5 – PCIe Pipe
     
-    $24.95](https://www.adafruit.com/product/5771)
+    $1.95](https://www.adafruit.com/product/5930)
     
-    ![Angled Shot of the Adafruit CH9328 UART to HID Keyboard.](https://cdn-shop.adafruit.com/230x173/5973-00.jpg)[Adafruit CH9328 UART to HID Keyboard Breakout
+    ![Angled Shot of the PCIe Flex Cable for NVMe Base and Raspberry Pi 5 – PCIe Pipe - 50mm
+    ](https://cdn-shop.adafruit.com/230x173/5931-00.jpg)[PCIe Flex Cable for NVMe Base and Raspberry Pi 5 – PCIe Pipe
     
-    $6.95](https://www.adafruit.com/product/5973)
+    $1.95](https://www.adafruit.com/product/5931)
     
-    ![Angled shot of black, rectangle-shaped infrared receiver board.](https://cdn-shop.adafruit.com/230x173/5970-03.jpg)[Adafruit TSMP96000 "Code Learning" Infrared IR Receiver Breakout
+    ![Angled shot of assembled robot car.](https://cdn-shop.adafruit.com/230x173/5898-01.jpg)[ELECFREAKS Smart Cutebot Pro Programming Robot Car for micro:bit
     
-    $5.95](https://www.adafruit.com/product/5970)
+    $49.95](https://www.adafruit.com/product/5898)
     
-    ![Angled Shot of the On/Off Round Key Lock.](https://cdn-shop.adafruit.com/230x173/5927-03.jpg)[On/Off Round Key Lock - 12mm Diameter
+    ![Angled shot of black, rectangular IR breakout board.](https://cdn-shop.adafruit.com/230x173/5940-00.jpeg)[Adafruit TSSP77038 38KHz Infrared IR Demodulator Breakout
     
-    $2.50](https://www.adafruit.com/product/5927)
+    $3.95](https://www.adafruit.com/product/5940)
     
     Featured Products[view all](https://www.adafruit.com/featured)
     
-    ![Adafruit MetroX Classic Kit - Experimentation Kit for Metro 328 with lots of components, and booklet](https://cdn-shop.adafruit.com/230x173/170-04.jpg)[Adafruit MetroX Classic Kit - Experimentation Kit for Metro 328
+    ![Video of a DIY camera on a lazy susan.](https://cdn-shop.adafruit.com/product-videos/320x240/5420-05.jpg)[MEMENTO - Python Programmable DIY Camera - Bare Board
     
-    $84.95](https://www.adafruit.com/product/170)
-    
-    ![Angled shot of black, rectangular doubler prototyping board.](https://cdn-shop.adafruit.com/230x173/5906-00.jpg)[Adafruit Proto Doubler PiCowbell for Pico and PicoW
-    
-    $7.50](https://www.adafruit.com/product/5906)
-    
-    ![Angled shot of black, rectangular microcontroller.](https://cdn-shop.adafruit.com/230x173/5890-05.jpg)[Adafruit ItsyBitsy ESP32 - wFL Antenna - 8 MB Flash / 2 MB PSRAM
-    
-    $14.95](https://www.adafruit.com/product/5890)
+    $34.95](https://www.adafruit.com/product/5420)
     
     ![Overhead shot of TFT driver board connected to a round TFT display, which says, "Hello world!"](https://cdn-shop.adafruit.com/230x173/5800-06.jpg)[Adafruit Qualia ESP32-S3 for TTL RGB-666 Displays
     
     $19.95](https://www.adafruit.com/product/5800)
+    
+    ![Angled shot of black, credit-card-sized development board.](https://cdn-shop.adafruit.com/230x173/5786-00.jpg)[Adafruit Metro RP2040
+    
+    $14.95](https://www.adafruit.com/product/5786)
+    
+    ![Angled shot of purple, square-shaped microcontroller.](https://cdn-shop.adafruit.com/230x173/5700-06.jpg)[Adafruit QT Py S3 with 2MB PSRAM WiFi Dev Board with STEMMA QT
+    
+    $12.50](https://www.adafruit.com/product/5700)
     
 * [Gift Ideas](https://www.adafruit.com/explore)
 * [What's New](https://www.adafruit.com/new)
@@ -116,7 +117,7 @@ Search
 
 **Adafruit Privacy Policy**
 
-_Last Updated: May 17, 2024_
+_Last Updated: February 21, 2024_
 
 This privacy policy governs how Adafruit Industries, LLC collects, stores, uses, and discloses information about users of adafruit.com. This policy applies to the site, along with related products and services offered by Adafruit Industries, LLC that link to this policy. This policy does not apply to websites, applications, or services that display or link to different privacy statements. For security related matters please email: [\[email protected\]](https://www.adafruit.com/cdn-cgi/l/email-protection)
 
@@ -207,7 +208,6 @@ Other third-party service providers we use:
 | Paypal | Online payments | [Paypal privacy policy](https://www.paypal.com/us/webapps/mpp/ua/privacy-full) |
 | Amazon Payments | Online payments | [Amazon Payments privacy policy](https://payments.amazon.com/help/201491260) |
 | BitPay | Online payments | [BitPay privacy policy](https://bitpay.com/about/privacy) |
-| Authorize | Online payments | [Authorize privacy policy (as a subsidiary of Visa Inc.)](https://usa.visa.com/legal/privacy-policy.html) |
 | Mailchimp | Email marketing platform | [Mailchimp privacy policy](https://mailchimp.com/legal/privacy/) |
 
 **Cookie Controls.** Many web browsers accept cookies by default. Users can usually change their browser's settings to reject and/or to remove many cookies. Please note also that choosing to reject or remove cookies may prevent certain features or services of our site from working properly. Since cookie opt-out preferences are also stored in a cookie in a browser, please also note that deleting cookies, using a different browser, or buying a new computer, may require renewal of opt-out choices.
@@ -402,9 +402,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ I am one of the people who love the why of things”
+“ Simplicity is a great virtue but it requires hard work to achieve it and education to appreciate it. And to make matters worse: complexity sells better”
 
-[Catherine the Great](http://en.wikipedia.org/wiki/Catherine_the_Great)
+[Edsger W. Dijkstra](http://en.wikipedia.org/wiki/Edsger_W._Dijkstra)
 
 [](https://www.adafruit.com/about)
 
