@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-2c706f14228f97223cff028fcf396978
+a01f6516acfd892c7556dcdcc5c281f6
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,20 +142,20 @@ Terms and Conditions
 
 ### Featured Product
 
-[![The Black and White necklace](https://sojourner.biz/images/cache/N0041.200.jpg)](https://sojourner.biz/jewelry/necklaces/the-black-and-white-necklace.html "The Black and White necklace")
+[![4 mm faceted sea blue-green apatite beads](https://sojourner.biz/images/cache/stone/APT005.200.jpg)](https://sojourner.biz/beads/stone-a-l/apatite/4-mm-faceted-sea-blue-green-apatite-beads.html "4 mm faceted sea blue-green apatite beads")
 
-#### [The Black and White necklace](https://sojourner.biz/jewelry/necklaces/the-black-and-white-necklace.html "The Black and White necklace")
+#### [4 mm faceted sea blue-green apatite beads](https://sojourner.biz/beads/stone-a-l/apatite/4-mm-faceted-sea-blue-green-apatite-beads.html "4 mm faceted sea blue-green apatite beads")
 
-$80.00
+$20.00
 
 ### Best Sellers
 
 1. [Vintage Italian chevron beads](https://sojourner.biz/beads/glass/vintage-italian-chevron-beads.html "Vintage Italian chevron beads")  
     $6.00
-2. [Tiny crystal clasp](https://sojourner.biz/clasps/swarovski/tiny-crystal-clasp.html "Tiny crystal clasp")  
-    $15.00
-3. [Snowstorm clasp](https://sojourner.biz/clasps/glass/snowstorm-clasp.html "Snowstorm clasp")  
+2. [Snowstorm clasp](https://sojourner.biz/clasps/glass/snowstorm-clasp.html "Snowstorm clasp")  
     $16.00
+3. [Tiny crystal clasp](https://sojourner.biz/clasps/swarovski/tiny-crystal-clasp.html "Tiny crystal clasp")  
+    $15.00
 4. [Swarovski crystal AB clasp](https://sojourner.biz/clasps/swarovski/swarovski-crystal-ab-clasp.html "Swarovski crystal AB clasp")  
     $28.00
 5. [White pearl toggle clasp](https://sojourner.biz/clasps/toggles/white-pearl-toggle-clasp.html "White pearl toggle clasp")  
