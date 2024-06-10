@@ -86,7 +86,7 @@ At times on Camfrog you may be shown content from YouTube or interact with the Y
 
 The law gives you the right to request a copy of the personal information we hold about you. We may request additional information about you to verify your identity before we do such. We will supply, correct or delete personal information about you in our files. In addition, you may request rectification or erasure of personal information as well as the restriction of processing of your personal information. We will comply with your requests in accordance with the applicable law.
 
-Camfrog respects a user's wishes to delete their personal data. At any time a user may deactivate their account by visiting [this link](https://profiles.camfrog.com/profiles/deactivate), your account deletion will also remove your personal data. If you have any issues or questions while attempting to delete your account you may also contact us at [\[email protected\]](https://www.camfrog.com/cdn-cgi/l/email-protection) for additional assistance.
+Camfrog respects a user's wishes to delete their personal data. At any time a user may deactivate their account by visiting [this link](https://profiles.camfrog.com/profiles/deactivate), your account deletion will also remove your personal data. If you have any issues or questions while attempting to delete your account you may also contact us at [support@camfrog.com](mailto:support@camfrog.com) for additional assistance.
 
 #### Information Collection & Use
 
@@ -169,7 +169,6 @@ English
 * 한국어, 조선말
 * Русский
 * ภาษาไทย
-* Türkçe
 * 中文, 汉语
 * 中文, 漢語
 
