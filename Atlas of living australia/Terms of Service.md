@@ -64,8 +64,6 @@
     * [How to cite the ALA](https://support.ala.org.au/support/solutions/articles/6000261662-citing-the-ala "How to cite the ALA")
     * [Contact us](https://www.ala.org.au/contact-us/ "Contact us")
 
-Access the recording from the latest ALA webinar: [Understanding Australian Biodiversity with Technology](https://ala.org.au/blogs-news/ala-webinar-understanding-australian-biodiversity-with-technology/)
-
 Terms of Use
 ============
 
