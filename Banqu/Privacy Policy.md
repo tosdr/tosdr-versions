@@ -1,6 +1,6 @@
 [logo
 
-![](https://cdn.prod.website-files.com/639a714d409fd7284b16da02/63ed3733874fd9eaa4b29eb5_Updated%20Logo%20Mark.svg)](https://banqu.co/)
+![](https://assets-global.website-files.com/639a714d409fd7284b16da02/63ed3733874fd9eaa4b29eb5_Updated%20Logo%20Mark.svg)](https://banqu.co/)
 
 [Login](https://banqu.app/#/)[CHAT WITH US](https://banqu.co/contact-us)
 
@@ -36,11 +36,11 @@ ABOUT
 
 REsources
 
-[Resources](https://banqu.co/resources)[![](https://cdn.prod.website-files.com/639a714d409fd7284b16da02/63c956d6f2367c77518dc57d_resources-nav-icon.svg)
+[Resources](https://banqu.co/resources)[![](https://assets-global.website-files.com/639a714d409fd7284b16da02/63c956d6f2367c77518dc57d_resources-nav-icon.svg)
 
-Resources Library](https://banqu.co/resources)[Case Studies](https://banqu.co/case-studies)[![](https://cdn.prod.website-files.com/639a714d409fd7284b16da02/63a25cd1c31fc664d466d729_blog-icon.png)
+Resources Library](https://banqu.co/resources)[Case Studies](https://banqu.co/case-studies)[![](https://assets-global.website-files.com/639a714d409fd7284b16da02/63a25cd1c31fc664d466d729_blog-icon.png)
 
-Blog](https://banqu.co/blog)[![](https://cdn.prod.website-files.com/639a714d409fd7284b16da02/63c956d6f2367c77518dc57d_resources-nav-icon.svg)
+Blog](https://banqu.co/blog)[![](https://assets-global.website-files.com/639a714d409fd7284b16da02/63c956d6f2367c77518dc57d_resources-nav-icon.svg)
 
 Resources Library](https://banqu.co/resources)[News](https://banqu.co/news)
 
@@ -48,7 +48,7 @@ Resources Library](https://banqu.co/resources)[News](https://banqu.co/news)
 
 Our vision of an equitable economy.](https://banqu.co/about)[Our Platform
 
-One-stop shop for your traceability and reporting needs.](https://banqu.co/platform)[![](https://cdn.prod.website-files.com/639a714d409fd7284b16da02/6480af51218da6dfefaeec10_about-banqu-icon.svg)
+One-stop shop for your traceability and reporting needs.](https://banqu.co/platform)[![](https://assets-global.website-files.com/639a714d409fd7284b16da02/6480af51218da6dfefaeec10_about-banqu-icon.svg)
 
 Why BanQu
 
@@ -348,7 +348,7 @@ Table of Contents
 
 [Scope of this Policy](#Scope-of-this-Policy)[Collection of Information](#Collection-of-Information)[Sharing of Information](#Sharing-of-Information)[Client Employees](#Client-Employees)[Third-Party Functionality](#Third-Party-Functionality)[Storage and Protection of Information](#Storage-and-Protection-of-Information)[Children’s Information](#Children-s-Information)[Non-U.S. Users](#Non-US-Users)[Changing or Deleting Your Information](#Changing-or-Deleting-Your-Information)
 
-[![](https://cdn.prod.website-files.com/639a714d409fd7284b16da02/639a714d409fd780d416dad3_banqu-dignity-white%20(1)%201.png)
+[![](https://assets-global.website-files.com/639a714d409fd7284b16da02/639a714d409fd780d416dad3_banqu-dignity-white%20(1)%201.png)
 
 logo](https://banqu.co/)
 
