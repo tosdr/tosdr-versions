@@ -354,6 +354,18 @@ Read More
 Community News
 --------------
 
+[![You'll Always Be My Number One](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![You'll Always Be My Number One](https://b108297.smushcdn.com/108297/wp-content/uploads/2016/05/riker-instagram_4049ce46b3-768x768.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/44819/)
+
+### [First Officer In Focus – Gogigobo Fairhug, Starbase 118 Ops](https://www.starbase118.net/2024/44819/)
+
+Alora DeVeau June 8, 2024
+
+Each month we interview a First Officer of the fleet as part of our “First Officer in Focus” column to get to know them better,
+
+[Read More »](https://www.starbase118.net/2024/44819/)
+
 [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
 ![](https://b108297.smushcdn.com/108297/wp-content/uploads/2018/04/fleet-768x306.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/may-2024-post-counts/)
@@ -377,18 +389,6 @@ Madison Marsh June 3, 2024
 Lower Decks interview: Lieutenant JG. Drex, Denali Station We’re here with another interview with a newer member of our community. The title of this column
 
 [Read More »](https://www.starbase118.net/2024/lower-decks-drex-denali-station/)
-
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://b108297.smushcdn.com/108297/wp-content/uploads/2022/02/Burnham_Awarded-768x384.jpeg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/award-winner-addison-mackenzie-uss-artemis-staff-member-of-the-year-award-james-t-kirk-cross/)
-
-### [Award winner – Addison MacKenzie, USS Artemis (Staff Member of the Year Award/James T. Kirk Cross)](https://www.starbase118.net/2024/award-winner-addison-mackenzie-uss-artemis-staff-member-of-the-year-award-james-t-kirk-cross/)
-
-gogi8972 June 1, 2024
-
-Join us for another in a series of interviews with winners of awards from our 2023 Awards Ceremony. Our goal is to give you insight
-
-[Read More »](https://www.starbase118.net/2024/award-winner-addison-mackenzie-uss-artemis-staff-member-of-the-year-award-james-t-kirk-cross/)
 
 Ready to get started?
 ---------------------
