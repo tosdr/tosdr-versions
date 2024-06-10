@@ -8,10 +8,10 @@ Suggestions
 
 Use up and down arrows to review and enter to select.
 
-* 1984
-* A Tale of Two Cities
+* Fahrenheit 451
 * Great Expectations
-* The Great Gatsby
+* Macbeth
+* The Odyssey
 * The Picture of Dorian Gray
 
 Menu[](https://www.sparknotes.com/ "← Back to the homepage")[](https://www.sparknotes.com/ "← Back to the homepage")
@@ -206,7 +206,7 @@ You'll be billed after your free trial ends.
 
 Not Applicable
 
-Renews June 15, 2024 June 8, 2024
+Renews June 17, 2024 June 10, 2024
 
 Discounts (applied to next billing)
 
@@ -266,10 +266,10 @@ Suggestions
 
 Use up and down arrows to review and enter to select.
 
-* 1984
-* A Tale of Two Cities
+* Fahrenheit 451
 * Great Expectations
-* The Great Gatsby
+* Macbeth
+* The Odyssey
 * The Picture of Dorian Gray
 
 * Log in Sign Up for  PLUS
