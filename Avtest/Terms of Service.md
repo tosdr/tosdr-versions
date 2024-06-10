@@ -17,13 +17,13 @@ MENU
     * [Press](https://www.av-test.org/en/press/)
     * [Jobs](https://www.av-test.org/en/about-the-institute/jobs/)
 * [News](https://www.av-test.org/en/news/)
-    * [MacOS Sonoma 14.3: The Best Security Solutions Put to the Test](https://www.av-test.org/en/news/macos-sonoma-143-the-best-security-solutions-put-to-the-test/ "MacOS Sonoma 14.3: The Best Security Solutions Put to the Test") [](https://www.av-test.org/en/news/macos-sonoma-143-the-best-security-solutions-put-to-the-test/ "MacOS Sonoma 14.3: The Best Security Solutions Put to the Test")
+    * [Test: More Protection for Mobile Devices with Android](https://www.av-test.org/en/news/test-more-protection-for-mobile-devices-with-android/ "Test: More Protection for Mobile Devices with Android") [](https://www.av-test.org/en/news/test-more-protection-for-mobile-devices-with-android/ "Test: More Protection for Mobile Devices with Android")
         
-        [Kaspersky Safe Kids Premium: Parental Control Test 2023](https://www.av-test.org/en/news/kaspersky-safe-kids-premium-parental-control-test-2023/ "Kaspersky Safe Kids Premium: Parental Control Test 2023") [](https://www.av-test.org/en/news/kaspersky-safe-kids-premium-parental-control-test-2023/ "Kaspersky Safe Kids Premium: Parental Control Test 2023")
+        [AV-TEST Awards 2023: shining the spotlight on the best IT security](https://www.av-test.org/en/news/av-test-awards-2023-shining-the-spotlight-on-the-best-it-security/ "AV-TEST Awards 2023: shining the spotlight on the best IT security") [](https://www.av-test.org/en/news/av-test-awards-2023-shining-the-spotlight-on-the-best-it-security/ "AV-TEST Awards 2023: shining the spotlight on the best IT security")
         
-        [Cybersecurity: Defense Against the Latest Attacking Techniques in the...](https://www.av-test.org/en/news/cybersecurity-defense-against-the-latest-attacking-techniques-in-the-atp-test/ "Cybersecurity: Defense Against the Latest Attacking Techniques in the ATP Test") [](https://www.av-test.org/en/news/cybersecurity-defense-against-the-latest-attacking-techniques-in-the-atp-test/ "Cybersecurity: Defense Against the Latest Attacking Techniques in the ATP Test")
+        [AV-TEST Award 2023 for Acronis](https://www.av-test.org/en/news/av-test-award-2023-for-acronis/ "AV-TEST Award 2023 for Acronis") [](https://www.av-test.org/en/news/av-test-award-2023-for-acronis/ "AV-TEST Award 2023 for Acronis")
         
-        [Test: More Protection for Mobile Devices with Android](https://www.av-test.org/en/news/test-more-protection-for-mobile-devices-with-android/ "Test: More Protection for Mobile Devices with Android") [](https://www.av-test.org/en/news/test-more-protection-for-mobile-devices-with-android/ "Test: More Protection for Mobile Devices with Android")
+        [AV-TEST Awards 2023 for AhnLab](https://www.av-test.org/en/news/av-test-awards-2023-for-ahnlab/ "AV-TEST Awards 2023 for AhnLab") [](https://www.av-test.org/en/news/av-test-awards-2023-for-ahnlab/ "AV-TEST Awards 2023 for AhnLab")
         
     * News by category
         
@@ -81,6 +81,8 @@ MENU
 
 General Terms and Conditions of AV-TEST GmbH
 ============================================
+
+### [» PDF version for download](https://www.av-test.org/fileadmin/pdf/GTC_AV-TEST_GmbH_2018-11-06.pdf)
 
 ##### 1 Scope of Application
 
@@ -347,7 +349,7 @@ We want to stay in touch with you! Now there is an easy way to receive regular 
 
 [Sign up now](https://www.av-test.org/en/contact/newsletter/)
 
-[Terms and Conditions](https://www.av-test.org/en/contact/terms-and-conditions/) | [Privacy policy](https://www.av-test.org/en/contact/privacy-policy/) | [Legal Notice](https://www.av-test.org/en/contact/legal-notice/) [![](/fileadmin/images/facebook.png)](https://www.facebook.com/avtestorg)[![](/fileadmin/images/linkedin.svg)](https://www.linkedin.com/company/avtestorg/)[![](/fileadmin/images/Social_Media_Icons/logo_x-footer.png)](https://x.com/avtestorg)[![](/fileadmin/images/youtube-card.png)](https://www.youtube.com/user/avtestorg)
+[Terms and Conditions](https://www.av-test.org/en/contact/terms-and-conditions/) | [Privacy policy](https://www.av-test.org/en/contact/privacy-policy/) | [Legal Notice](https://www.av-test.org/en/contact/legal-notice/) [![](/fileadmin/images/facebook.png)](https://www.facebook.com/avtestorg)[![](/fileadmin/images/linkedin.svg)](https://www.linkedin.com/company/avtestorg/)[![](/fileadmin/images/twitter.png)](https://www.twitter.com/avtestorg)[![](/fileadmin/images/youtube-card.png)](https://www.youtube.com/user/avtestorg)
 
 ©  2024 AV-TEST - The Independent IT-Security Institute
 
