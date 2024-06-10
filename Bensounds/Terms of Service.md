@@ -2,9 +2,9 @@
 
 [0
 
-![shopping cart](catalog/view/theme/next/image/cart-white.svg)](https://www.bensound.com/checkout)
+![shopping cart](catalog/view/theme/next/image/shopping-cart.svg)](https://www.bensound.com/checkout)
 
-[Free music](https://www.bensound.com/free-music-for-videos) [Free Music for Videos](https://www.bensound.com/free-music-for-videos) [Browse Music](https://www.bensound.com/royalty-free-music) [Pricing](https://www.bensound.com/pricing)
+[Browse Music](https://www.bensound.com/royalty-free-music) [Pricing](https://www.bensound.com/pricing)
 
 Help
 
@@ -22,7 +22,7 @@ Help
 
 [0
 
-![shopping cart](catalog/view/theme/next/image/cart-white.svg)](https://www.bensound.com/checkout)[Sign In](https://www.bensound.com/index.php?route=account/edit)
+![shopping cart](catalog/view/theme/next/image/shopping-cart.svg)](https://www.bensound.com/checkout)[Sign In](https://www.bensound.com/index.php?route=account/edit)
 
 ![youtube channel id](catalog/view/theme/next/image/megaphone.svg)
 
@@ -90,7 +90,7 @@ The following defined terms shall have the following meanings under this Agreeme
     
     4.3.1 **Individual (“Pay-per-Track”) Licenses.** Bensound offers you the choice of one of the three (3) paid individual licenses, namely the Pay-per-Track Standard License, Pay-per-Track Extended License and Pay-per-Track Premium License (as defined below), that permits you to download and use only one (1) Music Track available on the Website, for your Project. Each paid individual Licenses (as defined below) shall be granted in perpetuity. The features and details of each License are as follows:
     
-    (i) **Pay-per-Track Standard License** – this License allows you to download and use one (1) Music Track, for a one-off licensing fee (as detailed on the Website), in your Project as part of a video, film, documentary, animation, presentation or slideshow that is published **AND** accessible online free of charge, on-hold music, podcast, audiobook, or background music in bars, hotels, restaurants, shops or gyms. You may clear one (1) YouTube channel.(“**Standard License**”).
+    (i) **Pay-per-Track Standard License** – this License allows you to download and use one (1) Music Track, for a one-off licensing fee (as detailed on the Website), in your Project as part of a video, film, documentary, animation, presentation or slideshow that is published **AND** accessible online free of charge, on-hold music, or background music in bars, hotels, restaurants, shops or gyms. You may clear one (1) YouTube channel.(“**Standard License**”).
     
     (ii) **Pay-per-Track Extended License** – this License grants you the same rights as the Pay-per-Track Standard License but also the right to download and use one (1) Music Track, for a one-off licensing fee (as detailed on the Website), in your Project as part of an online advertisement, a video game, application, software, an online course, a video or film or documentary or animation or presentation that will be screened publicly, a public event (including but not limited to art shows, concerts, plays and exhibits) where an entrance fee or other type of fee is paid by participants attending the public event, and videos produced by wedding videographers as part of their wedding videography and/or photography activity. You may clear up to five (5) YouTube channels. (“**Extended License**”).
     
@@ -119,7 +119,7 @@ The following defined terms shall have the following meanings under this Agreeme
     
     (i) use the Music Tracks in applications or software that produces or generates videos,
     
-    (ii) use the Music Tracks in meditation soundtracks and Projects that contain only audio material;
+    (ii) use the Music Tracks in audio podcasts, audiobooks, meditation soundtracks and Projects that contain only audio material;
     
     (iii) falsely represent, expressly or impliedly, that you are the original creator/owner/author of the Music Tracks;
     
@@ -199,7 +199,7 @@ This Agreement, and any dispute or claim arising out of or in connection with it
 
 Should you have any questions concerning this Agreement and/or any issues or concerns about the Website and/or Services you may contact Bensound at [support@bensound.com](mailto:support@bensound.com). 
 
-**Last Revision:** 27th of May 2024
+**Last Revision:** 30th of January 2024
 
 Bensound is the best place to find royalty-free music that pops your videos up!
 
@@ -258,9 +258,17 @@ Cookies we are using :
     
 * \- Optional cookies :
     
-     Website Performance Insights
+     Google Analytics (Statistics on your browsing and your device)
     
-    Website Performance Insights
+    Google Analytics (Statistics on your browsing and your device)
+    
+     Google Analytics GA4 (Statistics on your browsing and your device)
+    
+    Google Analytics GA4 (Statistics on your browsing and your device)
+    
+     Inspectlet (Statistics on your browsing and your device)
+    
+    Inspectlet (Statistics on your browsing and your device)
     
 
 Reject Optional Cookies Save Accept Cookies
