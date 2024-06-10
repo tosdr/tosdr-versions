@@ -205,27 +205,27 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [ANSWP and StudyHealth](https://www.somethingawful.com/weekend-web/racist-health-forums/1/)
-* [The Greatest Albums Ever Suck](https://www.somethingawful.com/your-band-sucks/greatest-albums-ever/)
-* [Band Name Movies 3: Song Titles](https://www.somethingawful.com/photoshop-phriday/song-name-movies/1/)
-* [Twisted Children's Books](https://www.somethingawful.com/comedy-goldmine/twisted-childrens-books/1/)
-* [Amusement Park Madness](https://www.somethingawful.com/photoshop-phriday/amusement-park-madness/1/)
+* [Let's Enter The New Yorker's Caption Contest!](https://www.somethingawful.com/comedy-goldmine/yorker-caption-contest/)
+* [The Absolute Worst Freddy Krueger Nightmares](https://www.somethingawful.com/news/freddy-nightmare-lame/1/)
+* [Famous Faces Turned Upside Down!](https://www.somethingawful.com/photoshop-phriday/upside-down-celebrities/1/)
+* [Jeb 'n' George!](https://www.somethingawful.com/photoshop-phriday/jeb-george-prancing/)
+* [Celebrity Speakers Cut from the 2016 Republican National Convention](https://www.somethingawful.com/news/rnc-celebrity-guests/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/LF-2wqxulw.gif) [found the AwfulVision MDE article from 2009](http://forums.somethingawful.com/showthread.php?threadid=4062398 "found the AwfulVision MDE article from 2009")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/tv.png) [I don't think I can finish Blacklist](http://forums.somethingawful.com/showthread.php?threadid=4062442 "I don't think I can finish Blacklist")
-* ![](https://fi.somethingawful.com/forums/posticons/lf-arecountry.gif) [What's the plan this summer?](http://forums.somethingawful.com/showthread.php?threadid=4062390 "What's the plan this summer?")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/serious.png) [Oscar Pistorius](http://forums.somethingawful.com/showthread.php?threadid=4062411 "Oscar Pistorius")
-* ![](https://fi.somethingawful.com/forums/posticons/byob-slayer.gif) [Who would win in a fight?](http://forums.somethingawful.com/showthread.php?threadid=4062396 "Who would win in a fight?")
+* ![](https://fi.somethingawful.com/forums/posticons/LF-article.gif) [Attn: Indigo Children](http://forums.somethingawful.com/showthread.php?threadid=4062581 "Attn:  Indigo Children")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/sports.png) [Making MONEY from the Olympics.](http://forums.somethingawful.com/showthread.php?threadid=4062570 "Making MONEY from the Olympics.")
+* ![](https://fi.somethingawful.com/forums/posticons/pi-cock.png) [What's the longest you've watched meatspin for?](http://forums.somethingawful.com/showthread.php?threadid=4062551 "What's the longest you've watched meatspin for?")
+* ![](https://fi.somethingawful.com/forums/posticons/cspam-piss.gif) [The President Donald John Trump Chainsaw Sculpture](http://forums.somethingawful.com/showthread.php?threadid=4062537 "The President Donald John Trump Chainsaw Sculpture")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/poll.png) [Tim Curry vs. Tony Jay](http://forums.somethingawful.com/showthread.php?threadid=4062525 "Tim Curry vs. Tony Jay")
 
 ### Random Articles
 
-* [Project 666](https://www.somethingawful.com/awful-links/awful-link-3788/)
-* [AD&D 2nd Edition Spelljammer: Space Lairs](https://www.somethingawful.com/dungeons-and-dragons/spelljammer-lairs-adventure/1/)
-* [Return of the Wizard](https://www.somethingawful.com/news/mr-wizard-transcripts2/1/)
-* [Cutbacks](https://www.somethingawful.com/news/cutbacks-office/)
-* [The 22 Most Awful Moments in Science Fiction](https://www.somethingawful.com/most-awful/most-awful-scifi/1/)
+* [Dear Joss Whedon, I'm ready to write for Dollhouse](https://www.somethingawful.com/news/dear-joss-whedon/1/)
+* [The Curse of Lizzie Borden](https://www.somethingawful.com/movie-reviews/curse-lizzie-borden/1/)
+* [ATT & SBC](https://www.somethingawful.com/awful-links/awful-link-3779/)
+* [Home Improvement](https://www.somethingawful.com/rom-pit/home-improvement/)
+* [TruthMedia Review: Natural Selection](https://www.somethingawful.com/truth-media-reviews/truthmedia-review-natural/)
 
 [Random!](https://www.somethingawful.com/random/)
 
