@@ -14,19 +14,19 @@ Recommendations
 
 Audio
 
+* [![Books Bans Are on the Rise in America](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171820/Let-Kids-Read_600x314-nav.jpg)
+    
+    Books Bans Are on the Rise in America
+    
+    Learn More >](https://www.penguinrandomhouse.com/banned-books/)
+
+* * *
+
 * [![30 Great LGBTQ+ Picture Books for Kids](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/05/31102400/Pride2024_850x607.jpg)
     
     30 Great LGBTQ+ Picture Books for Kids
     
     Learn More >](https://www.readbrightly.com/30-great-lgbtq-books-kids/)
-
-* * *
-
-* [![New Stories to Listen to](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/05/31102442/PRH_New-Audio_site_600x314_June2024.jpg)
-    
-    New Stories to Listen to
-    
-    Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-in-audio/)
 
 * * *
 
