@@ -1,7 +1,7 @@
-[Skip to content](#start-of-content)
-
 Navigation Menu
 ---------------
+
+[Skip to content](#start-of-content)
 
 Toggle navigation
 
@@ -23,7 +23,7 @@ Toggle navigation
     * [Codespaces
         
         Instant dev environments](https://github.com/features/codespaces)
-    * [GitHub Copilot
+    * [Copilot
         
         Write better code with AI](https://github.com/features/copilot)
     * [Code review
@@ -81,24 +81,6 @@ Toggle navigation
     * [Trending](https://github.com/trending)
     * [Collections](https://github.com/collections)
     
-* Enterprise
-    
-    * [Enterprise platform
-        
-        AI-powered developer platform](https://github.com/enterprise)
-    
-    Available add-ons
-    
-    * [Advanced Security
-        
-        Enterprise-grade security features](https://github.com/enterprise/advanced-security)
-    * [GitHub Copilot
-        
-        Enterprise-grade AI features](https://github.com/features/copilot#enterprise)
-    * [Premium Support
-        
-        Enterprise-grade 24/7 support](https://github.com/premium-support)
-    
 * [Pricing](https://github.com/pricing)
 
 Search or jump to...
@@ -143,13 +125,13 @@ You signed in with another tab or window. Reload to refresh your session. You si
 
 [HermanMartinus](https://github.com/HermanMartinus) / **[bearblog](https://github.com/HermanMartinus/bearblog)** Public
 
-* [Notifications](https://github.com/login?return_to=%2FHermanMartinus%2Fbearblog) You must be signed in to change notification settings
-* [Fork 71](https://github.com/login?return_to=%2FHermanMartinus%2Fbearblog)
-* [Star 2.3k](https://github.com/login?return_to=%2FHermanMartinus%2Fbearblog)
+* [Notifications](https://github.com/login?return_to=%2FHermanMartinus%2Fbearblog)
+* [Fork 68](https://github.com/login?return_to=%2FHermanMartinus%2Fbearblog)
+* [Star 2.1k](https://github.com/login?return_to=%2FHermanMartinus%2Fbearblog)
     
 
 * [Code](https://github.com/HermanMartinus/bearblog)
-* [Issues 13](https://github.com/HermanMartinus/bearblog/issues)
+* [Issues 14](https://github.com/HermanMartinus/bearblog/issues)
 * [Pull requests 4](https://github.com/HermanMartinus/bearblog/pulls)
 * [Actions](https://github.com/HermanMartinus/bearblog/actions)
 * [Projects 0](https://github.com/HermanMartinus/bearblog/projects)
