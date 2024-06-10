@@ -24,7 +24,7 @@
     * [Press Room](https://media.bhvr.com/)
     * [Blog](https://www.bhvr.com/blog/)
     * [Podcast](https://www.bhvr.com/podcast/)
-* [Immersive Entertainment](https://www.bhvr.com/immersiveentertainment/)
+* [Business Solutions](https://www.bhvr.com/business-solutions/)
 * [En](https://www.bhvr.com/terms-of-use/ "En")
 * [Fr](https://www.bhvr.com/fr/conditions-dutilisation/ "Fr")
 
@@ -428,7 +428,7 @@ These Terms of Use, together with any applicable EULA, the Privacy Policy, and a
     * [Press Room](https://media.bhvr.com/)
     * [Blog](https://www.bhvr.com/blog/)
     * [Podcast](https://www.bhvr.com/podcast/)
-* [Immersive Entertainment](https://www.bhvr.com/immersiveentertainment/)
+* [Business Solutions](https://www.bhvr.com/business-solutions/)
 * [En](https://www.bhvr.com/terms-of-use/ "En")
 * [Fr](https://www.bhvr.com/fr/conditions-dutilisation/ "Fr")
 
