@@ -149,6 +149,7 @@ Search
         * [中國人 (Chinese)​](https://bethematch.org/transplant-basics/translated-materials/chinese/)
         * [한국인 (Korean​)](https://bethematch.org/transplant-basics/translated-materials/korean/)
         * [Português (Portuguese)](https://bethematch.org/transplant-basics/translated-materials/portuguese/)
+        * [Tiẽng Việt (Vietnamese)](https://bethematch.org/transplant-basics/translated-materials/vietnamese/)
     * [Transplant Basics
         -----------------](https://bethematch.org/transplant-basics/)
         
@@ -305,8 +306,6 @@ Search
         * [Donor Age - Haplo v MUD AML](https://bethematch.org/blog/research/donor-age---haplo-v-mud-aml/)
 * [News](https://bethematch.org/news/)
     * [News Releases](https://bethematch.org/news/news-releases/)
-        * [NMDP to Present New Stem Cell Transplantation Data at the 2024 American Society of Clinical Oncology Annual Meeting](https://bethematch.org/news/news-releases/nmdp-to-present-new-stem-cell-transplantation-data-at-the-2024-american-society-of-clinical-oncology-annual-meeting/)
-        * [NMDP and CIBMTR to Present New Promising Stem Cell Transplantation Trial Data using Mismatched Unrelated Donors at 2024 ASCO Annual Meeting](https://bethematch.org/news/news-releases/nmdp-and-cibmtr-to-present-new-promising-stem-cell-transplantation-trial-data-using-mismatched-unrelated-donors-at-2024-asco-annual-meeting/)
     * [Media contacts](https://bethematch.org/news/media-contacts/)
     * [Maps](https://bethematch.org/news/maps/)
     * [Public service announcements](https://bethematch.org/news/public-service-announcements/)
@@ -324,7 +323,7 @@ NMDP Online Privacy Statement
 
 Effective September 2022
 
-NMDP and its affiliates and subsidiaries\* are committed to respecting your privacy. Our websites and services are designed with your privacy in mind. Please see the information below to learn more about how NMDP uses the information you provide.
+The NMDP and its affiliates and subsidiaries\* are committed to respecting your privacy. Our websites and services are designed with your privacy in mind. Please see the information below to learn more about how NMDP uses the information you provide.
 
 This statement regarding the privacy of the information you provide online covers nine main areas:
 
@@ -340,7 +339,7 @@ This website collects personally identifiable information only if you voluntaril
 
 If you register online for the NMDP Registry, we require that you provide certain personally identifiable information including your name, health information, address and phone number. We need this information to process your registration and to contact you in connection with that registration. You may also be asked to provide additional health and contact information online if you are identified as a possible match for a patient.
 
-If you choose to make a financial contribution to NMDP through its fundraising partner, NMDP Foundation, information related to your contribution—whether made online or offline—will be governed by this Online Privacy Statement. The transaction will be handled by a contracted third party payment card processor—who is compliant to the Payment Card Industry data security standards. This payment processor will not share your personal information other than with NMDP Foundation and NMDP. If you provide credit card information to make a financial contribution, that information is used solely for the purpose of completing that specific transaction and is not retained by NMDP. 
+If you choose to make a financial contribution to NMDP through its fundraising partner, the NMDP, information related to your contribution—whether made online or offline—will be governed by this Online Privacy Statement. The transaction will be handled by a contracted third party payment card processor—who is compliant to the Payment Card Industry data security standards. This payment processor will not share your personal information other than with the NMDP and NMDP. If you provide credit card information to make a financial contribution, that information is used solely for the purpose of completing that specific transaction and is not retained by NMDP. 
 
 When you make a financial contribution to NMDP, we may on occasion share information related to your financial contribution with third parties for the purposes of comparing your donation information in aggregate with the information of others to identify important trends that will help improve our fundraising efforts and expand our programs and services for patients. In addition, NMDP may also share such transactional data on an aggregated basis (which will not identify any particular user) with third parties, such as vendors, advertisers or business partners. These third parties may use this information to advise other third parties in their marketing and fundraising campaigns that may share your name and address, but not associated personal contribution details information, with those third parties.  
   
@@ -350,20 +349,20 @@ We may also ask you to voluntarily provide us with information regarding your ex
 
 If you volunteer to join the NMDP Registry, you will be provided a cheek swab kit with instructions on providing a tissue sample to NMDP. NMDP will use your tissue sample to collect only the specific genetic typing information relevant to the success of a blood stem cell transplant. This genetic information will be stored along with your donor identification number within the registry.
 
-As a member of the registry, your genetic and personal identifying information may only be used or disclosed, as detailed in the consent, to (1) coordinate blood stem cell transplants for matching patients, or (2) for purposes related to the operation of NMDP and its affiliates and subsidiaries.\*
+As a member of the registry, your genetic and personal identifying information may only be used or disclosed, as detailed in the consent, to (1) coordinate blood stem cell transplants for matching patients, or (2) for purposes related to the operation of the NMDP and its affiliates and subsidiaries.\*
 
 We do not sell, rent or lease member information to third parties. NMDP and its network centers follow strict rules designed to prevent unauthorized sharing of personal information. Absent a valid court order from law enforcement, your information will not be shared with law enforcement agencies.
 
 **Web Statistics**
 
-As you browse through this website, NMDP collects some non-personally identifiable data, such as:
+As you browse through this website, the NMDP collects some non-personally identifiable data, such as:
 
 * The type of browser used to access the site
 * The date and time of your visit
 * The pages you visited
 * The address of the website that referred you if you clicked a link to get to this site
 
-NMDP collects this information for statistical purposes and for evaluating this website to make it more useful to visitors. If you have signed up to receive information by email from NMDP, the email may contain a "click-through" URL. When you click one of these URLs, you pass through our web server before arriving at the webpage that is your destination. We track click-throughs to help us determine your interest in particular topics and measure the effectiveness of our communications.
+The NMDP collects this information for statistical purposes and for evaluating this website to make it more useful to visitors. If you have signed up to receive information by email from NMDP, the email may contain a "click-through" URL. When you click one of these URLs, you pass through our web server before arriving at the webpage that is your destination. We track click-throughs to help us determine your interest in particular topics and measure the effectiveness of our communications.
 
 **Web Browser Tracking Technologies: Use of Cookies & Tracking Pixels**
 
@@ -382,11 +381,11 @@ Most browsers are initially set up to permit the use of web browser tracking tec
 
 ### How we use your information
 
-When you choose to submit personally identifiable information (PII) to NMDP, we use your information only for the purposes for which you submitted the information, or as otherwise described in this Privacy Statement. Learn more at "Who we share your information with."
+When you choose to submit personally identifiable information (PII) to the NMDP, we use your information only for the purposes for which you submitted the information, or as otherwise described in this Privacy Statement. Learn more at "Who we share your information with."
 
 **Change of Address Requests**
 
-All information submitted to NMDP/Be The Match via the Update Your Contact Information form will be forwarded from the NMDP Coordinating Center by email to the donor center with which you are registered. A copy of the email is retained at the NMDP Coordinating Center for back up purposes. Learn more at “Who we share your information with.”
+All information submitted to the NMDP/Be The Match via the Update Your Contact Information form will be forwarded from the NMDP Coordinating Center by email to the donor center with which you are registered. A copy of the email is retained at the NMDP Coordinating Center for back up purposes. Learn more at “Who we share your information with.”
 
 **Preliminary Search Requests**
 
@@ -394,22 +393,22 @@ Physicians can submit preliminary search requests for their patients through thi
 
 **Other Requests**
 
-When you submit other requests, such as materials requests, NMDP uses your name and contact information for the sole purpose of completing your request. If you request materials, your name and contact information are kept in a limited-access database and are not sold or given to any other organization outside of NMDP, other than to our contracted vendors solely for the purpose of fulfilling your request.  
+When you submit other requests, such as materials requests, the NMDP uses your name and contact information for the sole purpose of completing your request. If you request materials, your name and contact information are kept in a limited-access database and are not sold or given to any other organization outside of the NMDP, other than to our contracted vendors solely for the purpose of fulfilling your request.  
   
 
 ### Who we share your information with
 
-NMDP/Be The Match will not sell, rent or lease your personally identifiable information to others, other than as specifically described herein.
+The NMDP/Be The Match will not sell, rent or lease your personally identifiable information to others, other than as specifically described herein.
 
-Unless we have your permission or are required by law, any personal data you provide us online will be shared only with other NMDP/Be The Match entities and/or business partners who are acting on our behalf to complete activities for purposes related to the operations of NMDP/Be The Match, Be The Match Foundation, and the Be The Match Registry. Such NMDP/Be The Match entities and/or business partners, including those located in other countries, are required by agreement to protect the privacy of your personally identifiable information as set out in this Privacy Statement.
+Unless we have your permission or are required by law, any personal data you provide us online will be shared only with other NMDP/Be The Match entities and/or business partners who are acting on our behalf to complete activities for purposes related to the operations of the NMDP/Be The Match, Be The Match Foundation, and the Be The Match Registry. Such NMDP/Be The Match entities and/or business partners, including those located in other countries, are required by agreement to protect the privacy of your personally identifiable information as set out in this Privacy Statement.
 
 ### What are your choices?
 
-NMDP will not use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without letting you know beforehand and offering you the opportunity to withhold your consent for NMDP to use your information in this way.
+The NMDP will not use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without letting you know beforehand and offering you the opportunity to withhold your consent for NMDP to use your information in this way.
 
 ### How we protect your information
 
-NMDP is committed to ensuring the security of your information. To prevent unauthorized access, maintain data accuracy and ensure the appropriate use of information, we have put in place reasonable physical, electronic and managerial procedures to safeguard and secure the information we collect online. This includes the use of modern encryption software, which encrypts the information you submit to keep it secure during transmission. In addition, we comply with applicable laws to safeguard your non-public personal information against misuse, loss or unauthorized modification, disclosure or access.
+The NMDP is committed to ensuring the security of your information. To prevent unauthorized access, maintain data accuracy and ensure the appropriate use of information, we have put in place reasonable physical, electronic and managerial procedures to safeguard and secure the information we collect online. This includes the use of modern encryption software, which encrypts the information you submit to keep it secure during transmission. In addition, we comply with applicable laws to safeguard your non-public personal information against misuse, loss or unauthorized modification, disclosure or access.
 
 **Protecting Privacy of Children and Minors**
 
