@@ -112,7 +112,7 @@ You acknowledge and agree that any breach of this Agreement may result in irrepa
 * Information reasonably sufficient to permit the service provider to contact you, such as an address, telephone number, and, if available, an electronic mail;
 * A statement that you have a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law;
 * A statement that the information in the notification is accurate, and under penalty of perjury, that you are authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
-* Notifications of claimed infringement should be sent to: Camfrog, P.O. Box 326 Jericho, NY 11753, email: [\[email protected\]](https://www.camfrog.com/cdn-cgi/l/email-protection), fax: (212)202-0423. You acknowledge that if you fail to comply with all of the requirements of this Section 5(D), your DMCA notice may not be valid.
+* Notifications of claimed infringement should be sent to: Camfrog, P.O. Box 326 Jericho, NY 11753, email: [copyright@paltalk.com](mailto:copyright@paltalk.com), fax: (212)202-0423. You acknowledge that if you fail to comply with all of the requirements of this Section 5(D), your DMCA notice may not be valid.
 * #### Counter-Notice.
     
 * If you believe that your User Submission that was removed (or to which access was disabled) is not infringing, or that you have the authorization from the copyright owner, the copyright owner's agent, or pursuant to the law, to post and use the content in your User Submission, you may send a counter-notice containing the following information to the Copyright Agent:
@@ -240,7 +240,6 @@ English
 * 한국어, 조선말
 * Русский
 * ภาษาไทย
-* Türkçe
 * 中文, 汉语
 * 中文, 漢語
 
