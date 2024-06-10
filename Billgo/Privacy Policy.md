@@ -1,11 +1,11 @@
-[![BillGO Logo](https://billgo.com/hubfs/raw_assets/public/Billgo_January2023/images/Logo_Deep-Flat_Full_White.svg "BillGO Logo")](https://billgo.com/?hsLang=en)
+[![](https://billgo.com/hubfs/raw_assets/public/Billgo_January2023/images/Logo_Deep-Flat_Full_White.svg)](https://billgo.com/?hsLang=en)
 
-[![BillGO Logo](https://billgo.com/hubfs/raw_assets/public/Billgo_January2023/images/Logo_Deep_Full.svg "BillGO Logo")](https://billgo.com/?hsLang=en)
+[![](https://billgo.com/hubfs/raw_assets/public/Billgo_January2023/images/Logo_Deep_Full.svg)](https://billgo.com/?hsLang=en)
 
 [](javascript:void();)
 
-* [Bill Pay](https://billgo.com/billpay)
-* [BillGO Exchange](https://billgo.com/billgoexchange)
+* [Banks & Fintechs](https://billgo.com/bankers-and-fintechs)
+* [Billers](https://billgo.com/billers)
 
 * [](javascript:;)
     * [About Us](https://billgo.com/about-us)
@@ -14,9 +14,9 @@
 * [](javascript:;)
     * [Join Us](https://billgo.com/join-us)
     * [Contact](https://billgo.com/contact)
+    * [Bill Pay Hub](https://billgo.com/billgo-resource-center)
 
-Privacy Policy
-==============
+##### Privacy Policy
 
 #### BillGO, Inc. Privacy Policy
 
@@ -280,9 +280,10 @@ When we offer any program or campaign, there is no obligation to opt-in, and you
 Please contact us with any questions or concerns regarding this Privacy Policy or the Services provided at [Privacy@billgo.com](mailto:Privacy@billgo.com) or BillGO, Inc, 3003 E. Harmony Rd., 5th floor, Fort Collins, CO 80527 (Attn: Privacy).
 
 * [](javascript:;)
-    * [BillGO Resource Center](https://billgo.com/billgo-resource-center)
+    * [Bill Pay Hub](https://billgo.com/billgo-resource-center)
     * [Blog](https://billgo.com/blog)
     * [Press](https://billgo.com/press-kit)
+    * [Bill Pay Relief Hub](https://billgo.com/blog/billgos-bill-pay-relief-hub-earns-top-honors)
     * [About Us](https://billgo.com/about-us)
     * [Join Us](https://billgo.com/join-us)
 * [](javascript:;)
@@ -292,13 +293,14 @@ Please contact us with any questions or concerns regarding this Privacy Policy o
     * [Licenses](https://billgo.com/licenses)
     * [Copyright Policy](https://billgo.com/copyright-policy)
 
-* [Bill Pay](https://billgo.com/billpay)
-* [BillGO Exchange](https://billgo.com/billgoexchange)
+* [Banks & Fintechs](https://billgo.com/bankers-and-fintechs)
+* [Billers](https://billgo.com/billers)
 
 * [](javascript:;)
-    * [BillGO Resource Center](https://billgo.com/billgo-resource-center)
+    * [Bill Pay Hub](https://billgo.com/billgo-resource-center)
     * [Blog](https://billgo.com/blog)
     * [Press](https://billgo.com/press-kit)
+    * [Bill Pay Relief Hub](https://billgo.com/blog/billgos-bill-pay-relief-hub-earns-top-honors)
     * [About Us](https://billgo.com/about-us)
     * [Join Us](https://billgo.com/join-us)
 * [](javascript:;)
