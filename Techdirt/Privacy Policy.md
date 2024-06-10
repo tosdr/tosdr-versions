@@ -130,7 +130,7 @@ Tools & Services
 * [Facebook](https://www.facebook.com/techdirt)
 * [RSS](https://www.techdirt.com/feed/)
 * [Podcast](http://feeds.soundcloud.com/users/soundcloud:users:122508048/sounds.rss)
-* [Research & Reports](http://www.techdirt.com/research/)
+* [Research & Reports](https://www.techdirt.com/research/)
 
 Company
 -------
