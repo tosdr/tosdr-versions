@@ -328,37 +328,37 @@ If you have any questions about these Terms, the Service, or your account, pleas
 
 [Public Pastes](https://pastebin.com/archive)
 
-* [🤑G2A.com Free Gift Card Guide June 2024 Fix🎁](https://pastebin.com/StuR0u1K)
+* [🤑G2A.com Free Gift Card Guide June 2024 Fix🎁](https://pastebin.com/p6JetKwP)
     
-    JavaScript | 3 min ago | 0.32 KB
+    JavaScript | 45 sec ago | 0.32 KB
     
-* [💲 G2A.com Free Gift Card Guide 08 June 2024🎁](https://pastebin.com/gLsBrqz5)
+* [🎁G2A.com Free Gift Card Guide June 2024 FIX🎁](https://pastebin.com/sE41Hesa)
     
-    GetText | 9 min ago | 0.36 KB
+    GetText | 4 min ago | 0.36 KB
     
-* [🤑G2A.com Free Gift Card Guide June 2024 Fix🎁](https://pastebin.com/KH4aubbt)
+* [💲 G2A.com Free Gift Card Guide 10 June 2024 💲](https://pastebin.com/z6pyr1LB)
     
-    JavaScript | 9 min ago | 0.32 KB
+    GetText | 5 min ago | 0.36 KB
     
-* [Untitled](https://pastebin.com/JKmzYwbD)
+* [🤑G2A.com Free Gift Card Guide June 2024 FIX🎁](https://pastebin.com/Vnewq6B0)
     
-    C# | 14 min ago | 1.68 KB
+    GetText | 5 min ago | 0.36 KB
     
-* [🤑G2A.com Free Gift Card Guide June 2024 Fix🤑](https://pastebin.com/RNYRS4kJ)
+* [💲 G2A.com Free Gift Card Guide 10 June 2024🎁](https://pastebin.com/MTZM7cAr)
     
-    JavaScript | 15 min ago | 0.33 KB
+    GetText | 6 min ago | 0.36 KB
     
-* [🤑G2A.com Free Gift Card Guide June 2024 Fix🤑](https://pastebin.com/wcMtP8rn)
+* [❤️G2A.com Free Gift Card Guide June 2024 Fix🎁](https://pastebin.com/6D3rhmza)
     
-    JavaScript | 22 min ago | 0.33 KB
+    JavaScript | 6 min ago | 0.32 KB
     
-* [🤑G2A.com Free Gift Card Guide June 2024 Fix🎁](https://pastebin.com/FR3F3kxw)
+* [🤑G2A.com Free Gift Card Guide June 2024 Fix🤑](https://pastebin.com/tBPZPymt)
     
-    JavaScript | 28 min ago | 0.32 KB
+    JavaScript | 12 min ago | 0.33 KB
     
-* [🤑G2A.com Free Gift Card Guide June 2024 Fix🎁](https://pastebin.com/gVNm9xwm)
+* [🤑 G2A.com Free Gift Card Guide Jun 2024 FIX 🤑](https://pastebin.com/ix9x54Vj)
     
-    JavaScript | 34 min ago | 0.32 KB
+    GetText | 14 min ago | 0.39 KB
     
 
 [](https://pastebin.com/tools#chrome "Google Chrome Extension")[](https://pastebin.com/tools#firefox "Firefox Extension")[](https://pastebin.com/tools#iphone "iPhone/iPad Application")[](https://pastebin.com/tools#windows "Windows Desktop Application")[](https://pastebin.com/tools#android "Android Application")[](https://pastebin.com/tools#macos "MacOS X Widget")[](https://pastebin.com/tools#opera "Opera Extension")[](https://pastebin.com/tools#pastebincl "Linux Application")
