@@ -87,3 +87,5 @@ Private.coffee is a privacy-focused non-profit association, dedicated to support
 * * *
 
 Made with ❤️ and ☕ by Private.coffee
+
+LGBTIQ+ LGBTIQ+
