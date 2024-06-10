@@ -209,4 +209,4 @@ _EIN: 13-1656331_
 
 [Facebook](https://www.facebook.com/Schalkenbach) [Twitter](https://twitter.com/Schalkenbach) [Youtube](https://www.youtube.com/channel/UCKUaEMbWoYOZKSDynPlsz4g) [Linkedin](https://www.linkedin.com/company/schalkenbach-foundation/)
 
-![Cleantalk Pixel](https://moderate9-v4.cleantalk.org/pixel/e8c6c767b9eb08b9b40f038c5f197398.gif "Cleantalk Pixel")
+![Cleantalk Pixel](https://moderate2-v4.cleantalk.org/pixel/19e8b3c4a8e56823d239e36a17db24d7.gif "Cleantalk Pixel")
