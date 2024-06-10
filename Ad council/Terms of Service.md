@@ -314,6 +314,7 @@ Follow Us
     * [Events](https://www.adcouncil.org/get-involved/events)
     * [Join Our Team](https://www.adcouncil.org/join-our-team)
     * [Contact Us](https://www.adcouncil.org/contact-us)
+    * Edge Consultancy
     * [Financial Statement](https://www.adcouncil.org/Contributors/)
     
 
