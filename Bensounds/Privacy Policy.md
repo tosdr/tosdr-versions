@@ -2,9 +2,9 @@
 
 [0
 
-![shopping cart](catalog/view/theme/next/image/cart-white.svg)](https://www.bensound.com/checkout)
+![shopping cart](catalog/view/theme/next/image/shopping-cart.svg)](https://www.bensound.com/checkout)
 
-[Free music](https://www.bensound.com/free-music-for-videos) [Free Music for Videos](https://www.bensound.com/free-music-for-videos) [Browse Music](https://www.bensound.com/royalty-free-music) [Pricing](https://www.bensound.com/pricing)
+[Browse Music](https://www.bensound.com/royalty-free-music) [Pricing](https://www.bensound.com/pricing)
 
 Help
 
@@ -22,7 +22,7 @@ Help
 
 [0
 
-![shopping cart](catalog/view/theme/next/image/cart-white.svg)](https://www.bensound.com/checkout)[Sign In](https://www.bensound.com/index.php?route=account/edit)
+![shopping cart](catalog/view/theme/next/image/shopping-cart.svg)](https://www.bensound.com/checkout)[Sign In](https://www.bensound.com/index.php?route=account/edit)
 
 ![youtube channel id](catalog/view/theme/next/image/megaphone.svg)
 
@@ -122,9 +122,17 @@ Cookies we are using :
     
 * \- Optional cookies :
     
-     Website Performance Insights
+     Google Analytics (Statistics on your browsing and your device)
     
-    Website Performance Insights
+    Google Analytics (Statistics on your browsing and your device)
+    
+     Google Analytics GA4 (Statistics on your browsing and your device)
+    
+    Google Analytics GA4 (Statistics on your browsing and your device)
+    
+     Inspectlet (Statistics on your browsing and your device)
+    
+    Inspectlet (Statistics on your browsing and your device)
     
 
 Reject Optional Cookies Save Accept Cookies
