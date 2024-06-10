@@ -50,7 +50,7 @@ Checkout
 
 Error
 
-Save 15% today with code: GIFT15
+Save 20% today with code: MOM
 
        
 
@@ -103,7 +103,7 @@ Save 15% today with code: GIFT15
     * [Our Impact](https://www.alphapaw.com/pages/our-impact)
     * [Reviews](https://www.alphapaw.com/pages/reviews)
     
-* [Login](http://www.alphapaw.com/customer_identity/redirect?locale=en)
+* [Login](https://www.alphapaw.com/customer_identity/redirect?locale=en)
 * [Terms of Service](https://www.alphapaw.com/policies/terms-of-service)
 * [Refund policy](https://www.alphapaw.com/policies/refund-policy)[![Alpha Paw](//www.alphapaw.com/cdn/shop/files/logo_2.png?v=1628247872&width=500)](https://www.alphapaw.com/)
 
@@ -161,10 +161,11 @@ Search
 
 Searching
 
-[Login](http://www.alphapaw.com/customer_identity/redirect?locale=en) [Cart](https://www.alphapaw.com/cart)
+[Login](https://www.alphapaw.com/customer_identity/redirect?locale=en) [Cart](https://www.alphapaw.com/cart)
 
-Collection: Our Bestsellers
-===========================
+ 
+
+![](//www.alphapaw.com/cdn/shop/files/WEBSITE_BANNER.png?v=1713810778&width=3840)
 
       
 
@@ -237,7 +238,7 @@ Apply
     
     2 colors
     
-    6444 total reviews](https://www.alphapaw.com/collections/bestsellers/products/pawramp)
+    6407 total reviews](https://www.alphapaw.com/collections/bestsellers/products/pawramp)
     
     Regular price
     
@@ -261,57 +262,7 @@ Apply
     
     2 colors
     
-    6444 total reviews
-    
-* On sale
-    
-    [![Stairwedge ramp](//www.alphapaw.com/cdn/shop/files/3_36ac5af9-6f20-45e0-891e-96ec2c49bb1c_533x.png?v=1713539207)
-    
-    ![Stairwedge Indoor outdoor](//www.alphapaw.com/cdn/shop/files/5_62a24c9b-302c-4674-92f1-7b3643d9d174_533x.png?v=1713539207)](https://www.alphapaw.com/collections/bestsellers/products/stairwedge)
-    
-    [Regular price
-    
-    From $39.99
-    
-    Regular price
-    
-    ~$49.99~
-    
-    Sale price
-    
-    From $39.99 Save $10.00 (20%)
-    
-    Unit price
-    
-    /  per 
-    
-    ### Stairwedge - Modular Stair Ramp for Any Staircase
-    
-    in your cart
-    
-    4 total reviews](https://www.alphapaw.com/collections/bestsellers/products/stairwedge)
-    
-    Regular price
-    
-    From $39.99
-    
-    Regular price
-    
-    ~$49.99~
-    
-    Sale price
-    
-    From $39.99 Save $10.00 (20%)
-    
-    Unit price
-    
-    /  per 
-    
-    ### Stairwedge - Modular Stair Ramp for Any Staircase
-    
-    in your cart
-    
-    4 total reviews
+    6407 total reviews
     
 * On sale
     
@@ -343,7 +294,7 @@ Apply
     
     3 sizes
     
-    3684 total reviews](https://www.alphapaw.com/collections/bestsellers/products/pawproof-throw-blanket)
+    3670 total reviews](https://www.alphapaw.com/collections/bestsellers/products/pawproof-throw-blanket)
     
     Regular price
     
@@ -369,7 +320,7 @@ Apply
     
     3 sizes
     
-    3684 total reviews
+    3670 total reviews
     
 * On sale
     
@@ -399,7 +350,7 @@ Apply
     
     3 sizes
     
-    3311 total reviews](https://www.alphapaw.com/collections/bestsellers/products/magic-pee-pads-xl)
+    3295 total reviews](https://www.alphapaw.com/collections/bestsellers/products/magic-pee-pads-xl)
     
     Regular price
     
@@ -423,7 +374,7 @@ Apply
     
     3 sizes
     
-    3311 total reviews
+    3295 total reviews
     
 * On sale
     
@@ -453,7 +404,7 @@ Apply
     
     3 sizes
     
-    3311 total reviews](https://www.alphapaw.com/collections/bestsellers/products/magic-dog-pee-pads)
+    3295 total reviews](https://www.alphapaw.com/collections/bestsellers/products/magic-dog-pee-pads)
     
     Regular price
     
@@ -477,7 +428,7 @@ Apply
     
     3 sizes
     
-    3311 total reviews
+    3295 total reviews
     
 * On sale
     
@@ -505,7 +456,7 @@ Apply
     
     in your cart
     
-    1304 total reviews](https://www.alphapaw.com/collections/bestsellers/products/magic-mouthwash-for-dogs)
+    1303 total reviews](https://www.alphapaw.com/collections/bestsellers/products/magic-mouthwash-for-dogs)
     
     Regular price
     
@@ -527,109 +478,59 @@ Apply
     
     in your cart
     
-    1304 total reviews
+    1303 total reviews
     
 * On sale
     
-    [![BoneItUp® Homemade Dog Treats Kit](//www.alphapaw.com/cdn/shop/files/square2_533x.jpg?v=1715178113)
+    [![Stairwedge ramp](//www.alphapaw.com/cdn/shop/files/3_36ac5af9-6f20-45e0-891e-96ec2c49bb1c_533x.png?v=1713539207)
     
-    ![BoneItUp® Homemade Dog Treats Kit](//www.alphapaw.com/cdn/shop/files/7_3fb85525-1679-4478-b410-84e7a9261d08_533x.jpg?v=1715178112)](https://www.alphapaw.com/collections/bestsellers/products/boneitup%C2%AE-homemade-dog-treats-kit)
-    
-    [Regular price
-    
-    $29.99
-    
-    Regular price
-    
-    ~$35.00~
-    
-    Sale price
-    
-    $29.99 Save $5.01 (14%)
-    
-    Unit price
-    
-    /  per 
-    
-    ### BoneItUp® Homemade Dog Treats Kit
-    
-    in your cart](https://www.alphapaw.com/collections/bestsellers/products/boneitup%C2%AE-homemade-dog-treats-kit)
-    
-    Regular price
-    
-    $29.99
-    
-    Regular price
-    
-    ~$35.00~
-    
-    Sale price
-    
-    $29.99 Save $5.01 (14%)
-    
-    Unit price
-    
-    /  per 
-    
-    ### BoneItUp® Homemade Dog Treats Kit
-    
-    in your cart
-    
-* On sale
-    
-    [![PupTote™ 3-in-1 Faux Leather Dog Carrier Bag - Black](//www.alphapaw.com/cdn/shop/files/19_370e9fd9-f9d3-4729-baa1-99e4ba52ebd7_533x.png?v=1715176819)
-    
-    ![PupTote™ 3-in-1 Faux Leather Dog Carrier Bag - Black](//www.alphapaw.com/cdn/shop/files/29_52151bb7-8559-4eeb-9d09-c1a24432b552_533x.png?v=1715176815)](https://www.alphapaw.com/collections/bestsellers/products/puptote%E2%84%A2-3-in-1-faux-leather-dog-carrier-bag-black)
+    ![Stairwedge Indoor outdoor](//www.alphapaw.com/cdn/shop/files/5_62a24c9b-302c-4674-92f1-7b3643d9d174_533x.png?v=1713539207)](https://www.alphapaw.com/collections/bestsellers/products/stairwedge)
     
     [Regular price
     
-    $119.00
+    From $39.99
     
     Regular price
     
-    ~$189.00~
+    ~$49.99~
     
     Sale price
     
-    $119.00 Save $70.00 (37%)
+    From $39.99 Save $10.00 (20%)
     
     Unit price
     
     /  per 
     
-    ### PupTote™ 3-in-1 Faux Leather Dog Carrier Bag - Black
+    ### Stairwedge - Modular Stair Ramp for Any Staircase
     
-    in your cart
-    
-    1 size](https://www.alphapaw.com/collections/bestsellers/products/puptote%E2%84%A2-3-in-1-faux-leather-dog-carrier-bag-black)
+    in your cart](https://www.alphapaw.com/collections/bestsellers/products/stairwedge)
     
     Regular price
     
-    $119.00
+    From $39.99
     
     Regular price
     
-    ~$189.00~
+    ~$49.99~
     
     Sale price
     
-    $119.00 Save $70.00 (37%)
+    From $39.99 Save $10.00 (20%)
     
     Unit price
     
     /  per 
     
-    ### PupTote™ 3-in-1 Faux Leather Dog Carrier Bag - Black
+    ### Stairwedge - Modular Stair Ramp for Any Staircase
     
     in your cart
-    
-    1 size
     
 * On sale
     
     [![Custom Pet Fleece Blanket | Alpha Paw](//www.alphapaw.com/cdn/shop/products/custom-pet-fleece-blanket-alpha-paw-1_533x.jpg?v=1676264908)
     
-    ![Custom Pet Fleece Blanket](//www.alphapaw.com/cdn/shop/files/CustomFleece_533x.png?v=1714754993)](https://www.alphapaw.com/collections/bestsellers/products/custom-pet-fleece-blanket)
+    ![Custom Pet Fleece Blanket | Alpha Paw](//www.alphapaw.com/cdn/shop/products/custom-pet-fleece-blanket-alpha-paw-2_533x.jpg?v=1676264910)](https://www.alphapaw.com/collections/bestsellers/products/custom-pet-fleece-blanket)
     
     [Regular price
     
@@ -679,113 +580,51 @@ Apply
     
     7795 total reviews
     
-* On sale
+* [![PupRug™ Runner Faux Fur Memory Foam Dog Bed - Curve White with Brown Accents](//www.alphapaw.com/cdn/shop/files/11_ae532a7a-6486-4bf7-8f90-43472cc1f631_533x.jpg?v=1712597248)
     
-    [![PupRug™ Faux Fur Orthopedic Dog Bed - Rectangle White with Brown Accents](//www.alphapaw.com/cdn/shop/files/3_2091e318-3a42-47b4-8381-e19821019c9d_533x.png?v=1712597247)
-    
-    ![PupRug™ Faux Fur Orthopedic Dog Bed - Rectangle White with Brown Accents](//www.alphapaw.com/cdn/shop/files/6_9325f021-f107-45e4-a55a-56be4f0b9312_533x.png?v=1712597249)](https://www.alphapaw.com/collections/bestsellers/products/puprug%E2%84%A2-faux-fur-orthopedic-dog-bed-rectangle-white-with-brown-accents)
+    ![PupRug™ Runner Faux Fur Memory Foam Dog Bed - Curve White with Brown Accents](//www.alphapaw.com/cdn/shop/files/10_5716f3ad-4a95-484f-b80f-6ef3097bed92-842449_533x.png?v=1712597247)](https://www.alphapaw.com/collections/bestsellers/products/puprug%E2%84%A2-runner-faux-fur-memory-foam-dog-bed-curve-white-with-brown-accents)
     
     [Regular price
     
-    From $99.00
+    $229.00
     
     Regular price
     
-    ~$229.00~
-    
     Sale price
     
-    From $99.00 Save $130.00 (56%)
+    $229.00 Save $-229.00 (%)
     
     Unit price
     
     /  per 
     
-    ### PupRug™ Faux Fur Orthopedic Dog Bed - Rectangle White with Brown Accents
+    ### PupRug™ Runner Faux Fur Memory Foam Dog Bed - Curve White with Brown Accents
     
     in your cart
     
-    3 sizes
-    
-    2 total reviews](https://www.alphapaw.com/collections/bestsellers/products/puprug%E2%84%A2-faux-fur-orthopedic-dog-bed-rectangle-white-with-brown-accents)
+    1 size](https://www.alphapaw.com/collections/bestsellers/products/puprug%E2%84%A2-runner-faux-fur-memory-foam-dog-bed-curve-white-with-brown-accents)
     
     Regular price
     
-    From $99.00
+    $229.00
     
     Regular price
-    
-    ~$229.00~
     
     Sale price
     
-    From $99.00 Save $130.00 (56%)
+    $229.00 Save $-229.00 (%)
     
     Unit price
     
     /  per 
     
-    ### PupRug™ Faux Fur Orthopedic Dog Bed - Rectangle White with Brown Accents
+    ### PupRug™ Runner Faux Fur Memory Foam Dog Bed - Curve White with Brown Accents
     
     in your cart
     
-    3 sizes
+    1 size
     
-    2 total reviews
-    
-* On sale
-    
-    [![PupRug™ Faux Fur Orthopedic Dog Bed - Curve Midnight Black](//www.alphapaw.com/cdn/shop/files/goldenretrieverlargebed-593447_533x.png?v=1712597242)
-    
-    ![PupRug™ Faux Fur Orthopedic Dog Bed - Curve Midnight Black](//www.alphapaw.com/cdn/shop/files/whitegermanshepherdgiant-648160_533x.png?v=1712597241)](https://www.alphapaw.com/collections/bestsellers/products/puprug-faux-fur-orthopedic-dog-bed-curve-midnight-black)
-    
-    [Regular price
-    
-    From $149.00
-    
-    Regular price
-    
-    ~$199.00~
-    
-    Sale price
-    
-    From $149.00 Save $50.00 (25%)
-    
-    Unit price
-    
-    /  per 
-    
-    ### PupRug™ Faux Fur Orthopedic Dog Bed - Curve Midnight Black
-    
-    in your cart
-    
-    3 sizes](https://www.alphapaw.com/collections/bestsellers/products/puprug-faux-fur-orthopedic-dog-bed-curve-midnight-black)
-    
-    Regular price
-    
-    From $149.00
-    
-    Regular price
-    
-    ~$199.00~
-    
-    Sale price
-    
-    From $149.00 Save $50.00 (25%)
-    
-    Unit price
-    
-    /  per 
-    
-    ### PupRug™ Faux Fur Orthopedic Dog Bed - Curve Midnight Black
-    
-    in your cart
-    
-    3 sizes
-    
-* On sale
-    
-    [![PupRug™ Faux Fur Orthopedic Dog Bed - Curve White with Brown Accents](//www.alphapaw.com/cdn/shop/files/5_e37bd5b0-7c5c-4e34-aa94-7e9b1a797d8e-178230_533x.png?v=1712597251)
+* [![PupRug™ Faux Fur Orthopedic Dog Bed - Curve White with Brown Accents](//www.alphapaw.com/cdn/shop/files/5_e37bd5b0-7c5c-4e34-aa94-7e9b1a797d8e-178230_533x.png?v=1712597251)
     
     ![PupRug™ Faux Fur Orthopedic Dog Bed - Curve White with Brown Accents](//www.alphapaw.com/cdn/shop/files/284ACBB3-8A5F-4B2E-A19C-CE153811CC52-A886F66F-8DE7-4C41-A324-55AE65E9A8E6_2_088cd333-cf2d-46f2-b1b2-648e383a040b_533x.jpg?v=1712597262)](https://www.alphapaw.com/collections/bestsellers/products/puprug-faux-fur-orthopedic-dog-bed-curve-white-with-brown-accents)
     
@@ -795,11 +634,9 @@ Apply
     
     Regular price
     
-    ~$229.00~
-    
     Sale price
     
-    From $129.00 Save $100.00 (43%)
+    From $129.00 Save $-129.00 (%)
     
     Unit price
     
@@ -817,11 +654,9 @@ Apply
     
     Regular price
     
-    ~$229.00~
-    
     Sale price
     
-    From $129.00 Save $100.00 (43%)
+    From $129.00 Save $-129.00 (%)
     
     Unit price
     
@@ -833,9 +668,7 @@ Apply
     
     4 sizes
     
-* On sale
-    
-    [![PupRug™ Faux Fur Orthopedic Dog Bed - Curve Polar White](//www.alphapaw.com/cdn/shop/files/3_e9f351c0-65b0-4703-9df3-a0ac77aaf677-542271_533x.png?v=1712597249)
+* [![PupRug™ Faux Fur Orthopedic Dog Bed - Curve Polar White](//www.alphapaw.com/cdn/shop/files/3_e9f351c0-65b0-4703-9df3-a0ac77aaf677-542271_533x.png?v=1712597249)
     
     ![PupRug™ Faux Fur Orthopedic Dog Bed - Curve Polar White](//www.alphapaw.com/cdn/shop/files/1_23e3fb4a-5a6c-48dd-83c2-76a92ac6950b-708008_533x.png?v=1712597247)](https://www.alphapaw.com/collections/bestsellers/products/puprug-faux-fur-orthopedic-dog-bed-curve-polar-white)
     
@@ -845,11 +678,9 @@ Apply
     
     Regular price
     
-    ~$229.00~
-    
     Sale price
     
-    From $119.00 Save $110.00 (48%)
+    From $119.00 Save $-119.00 (%)
     
     Unit price
     
@@ -867,11 +698,9 @@ Apply
     
     Regular price
     
-    ~$229.00~
-    
     Sale price
     
-    From $119.00 Save $110.00 (48%)
+    From $119.00 Save $-119.00 (%)
     
     Unit price
     
@@ -883,67 +712,7 @@ Apply
     
     3 sizes
     
-* On sale
-    
-    [![Custom Modern Pet Portrait](//www.alphapaw.com/cdn/shop/files/ModernPetPortraitLittleLocke_533x.jpg?v=1700328715)
-    
-    ![Custom Modern Pet Portrait | Alpha Paw](//www.alphapaw.com/cdn/shop/products/custom-modern-pet-portrait-alpha-paw-1_533x.jpg?v=1700328715)](https://www.alphapaw.com/collections/bestsellers/products/custom-modern-pet-portrait)
-    
-    [Regular price
-    
-    From $79.00
-    
-    Regular price
-    
-    ~$119.95~
-    
-    Sale price
-    
-    From $79.00 Save $40.95 (34%)
-    
-    Unit price
-    
-    /  per 
-    
-    ### Custom Modern Pet Portrait
-    
-    in your cart
-    
-    4 sizes
-    
-    2 colors
-    
-    391 total reviews](https://www.alphapaw.com/collections/bestsellers/products/custom-modern-pet-portrait)
-    
-    Regular price
-    
-    From $79.00
-    
-    Regular price
-    
-    ~$119.95~
-    
-    Sale price
-    
-    From $79.00 Save $40.95 (34%)
-    
-    Unit price
-    
-    /  per 
-    
-    ### Custom Modern Pet Portrait
-    
-    in your cart
-    
-    4 sizes
-    
-    2 colors
-    
-    391 total reviews
-    
-* On sale
-    
-    [![PupRug™ Faux Fur Orthopedic Dog Bed - Curve Charcoal Grey](//www.alphapaw.com/cdn/shop/files/3_45f99ef4-09db-4fa1-bac1-bba31b007462-711325_533x.png?v=1712597248)
+* [![PupRug™ Faux Fur Orthopedic Dog Bed - Curve Charcoal Grey](//www.alphapaw.com/cdn/shop/files/3_45f99ef4-09db-4fa1-bac1-bba31b007462-711325_533x.png?v=1712597248)
     
     ![PupRug™ Faux Fur Orthopedic Dog Bed - Curve Charcoal Grey](//www.alphapaw.com/cdn/shop/files/8_9e93487d-ec8c-4837-9133-13aeff1d9802_533x.png?v=1712597249)](https://www.alphapaw.com/collections/bestsellers/products/puprug-faux-fur-orthopedic-dog-bed-curve-charcoal-grey)
     
@@ -953,11 +722,9 @@ Apply
     
     Regular price
     
-    ~$229.00~
-    
     Sale price
     
-    From $129.00 Save $100.00 (43%)
+    From $129.00 Save $-129.00 (%)
     
     Unit price
     
@@ -975,11 +742,9 @@ Apply
     
     Regular price
     
-    ~$229.00~
-    
     Sale price
     
-    From $129.00 Save $100.00 (43%)
+    From $129.00 Save $-129.00 (%)
     
     Unit price
     
@@ -990,6 +755,186 @@ Apply
     in your cart
     
     4 sizes
+    
+* [![PupRug™ Faux Fur Orthopedic Dog Bed - Curve Midnight Black](//www.alphapaw.com/cdn/shop/files/goldenretrieverlargebed-593447_533x.png?v=1712597242)
+    
+    ![PupRug™ Faux Fur Orthopedic Dog Bed - Curve Midnight Black](//www.alphapaw.com/cdn/shop/files/whitegermanshepherdgiant-648160_533x.png?v=1712597241)](https://www.alphapaw.com/collections/bestsellers/products/puprug-faux-fur-orthopedic-dog-bed-curve-midnight-black)
+    
+    [Regular price
+    
+    From $149.00
+    
+    Regular price
+    
+    Sale price
+    
+    From $149.00 Save $-149.00 (%)
+    
+    Unit price
+    
+    /  per 
+    
+    ### PupRug™ Faux Fur Orthopedic Dog Bed - Curve Midnight Black
+    
+    in your cart
+    
+    3 sizes](https://www.alphapaw.com/collections/bestsellers/products/puprug-faux-fur-orthopedic-dog-bed-curve-midnight-black)
+    
+    Regular price
+    
+    From $149.00
+    
+    Regular price
+    
+    Sale price
+    
+    From $149.00 Save $-149.00 (%)
+    
+    Unit price
+    
+    /  per 
+    
+    ### PupRug™ Faux Fur Orthopedic Dog Bed - Curve Midnight Black
+    
+    in your cart
+    
+    3 sizes
+    
+* [![PupRug™ Faux Fur Orthopedic Dog Bed - Rectangle White with Brown Accents](//www.alphapaw.com/cdn/shop/files/3_2091e318-3a42-47b4-8381-e19821019c9d_533x.png?v=1712597247)
+    
+    ![PupRug™ Faux Fur Orthopedic Dog Bed - Rectangle White with Brown Accents](//www.alphapaw.com/cdn/shop/files/6_9325f021-f107-45e4-a55a-56be4f0b9312_533x.png?v=1712597249)](https://www.alphapaw.com/collections/bestsellers/products/puprug%E2%84%A2-faux-fur-orthopedic-dog-bed-rectangle-white-with-brown-accents)
+    
+    [Regular price
+    
+    From $99.00
+    
+    Regular price
+    
+    Sale price
+    
+    From $99.00 Save $-99.00 (%)
+    
+    Unit price
+    
+    /  per 
+    
+    ### PupRug™ Faux Fur Orthopedic Dog Bed - Rectangle White with Brown Accents
+    
+    in your cart
+    
+    3 sizes
+    
+    1 total reviews](https://www.alphapaw.com/collections/bestsellers/products/puprug%E2%84%A2-faux-fur-orthopedic-dog-bed-rectangle-white-with-brown-accents)
+    
+    Regular price
+    
+    From $99.00
+    
+    Regular price
+    
+    Sale price
+    
+    From $99.00 Save $-99.00 (%)
+    
+    Unit price
+    
+    /  per 
+    
+    ### PupRug™ Faux Fur Orthopedic Dog Bed - Rectangle White with Brown Accents
+    
+    in your cart
+    
+    3 sizes
+    
+    1 total reviews
+    
+* [![PupRug™ Faux Fur Orthopedic Dog Bed - Rectangle Grey](//www.alphapaw.com/cdn/shop/files/3_2269f19a-9dee-4a4a-96f6-92d68daf1130-501998_533x.png?v=1712597247)
+    
+    ![PupRug™ Faux Fur Orthopedic Dog Bed - Rectangle Grey](//www.alphapaw.com/cdn/shop/files/1_cd9cf282-f9c8-42c7-a7e7-cb8fca6be39d-651683_533x.png?v=1712597248)](https://www.alphapaw.com/collections/bestsellers/products/puprug-faux-fur-orthopedic-dog-bed-rectangle-grey)
+    
+    [Regular price
+    
+    From $149.00
+    
+    Regular price
+    
+    Sale price
+    
+    From $149.00 Save $-149.00 (%)
+    
+    Unit price
+    
+    /  per 
+    
+    ### PupRug™ Faux Fur Orthopedic Dog Bed - Rectangle Grey
+    
+    in your cart
+    
+    3 sizes](https://www.alphapaw.com/collections/bestsellers/products/puprug-faux-fur-orthopedic-dog-bed-rectangle-grey)
+    
+    Regular price
+    
+    From $149.00
+    
+    Regular price
+    
+    Sale price
+    
+    From $149.00 Save $-149.00 (%)
+    
+    Unit price
+    
+    /  per 
+    
+    ### PupRug™ Faux Fur Orthopedic Dog Bed - Rectangle Grey
+    
+    in your cart
+    
+    3 sizes
+    
+* [![PupRug™ Faux Fur Orthopedic Dog Bed - Curve Brown](//www.alphapaw.com/cdn/shop/files/BrownBed-102388_533x.png?v=1712597224)
+    
+    ![PupRug™ Faux Fur Orthopedic Dog Bed - Curve Brown](//www.alphapaw.com/cdn/shop/files/1_ef3e782e-aa41-4977-a222-3678324b32af-745037_533x.png?v=1712597224)](https://www.alphapaw.com/collections/bestsellers/products/puprug-faux-fur-orthopedic-dog-bed-curve-brown)
+    
+    [Regular price
+    
+    From $119.00
+    
+    Regular price
+    
+    Sale price
+    
+    From $119.00 Save $-119.00 (%)
+    
+    Unit price
+    
+    /  per 
+    
+    ### PupRug™ Faux Fur Orthopedic Dog Bed - Curve Brown
+    
+    in your cart
+    
+    2 sizes](https://www.alphapaw.com/collections/bestsellers/products/puprug-faux-fur-orthopedic-dog-bed-curve-brown)
+    
+    Regular price
+    
+    From $119.00
+    
+    Regular price
+    
+    Sale price
+    
+    From $119.00 Save $-119.00 (%)
+    
+    Unit price
+    
+    /  per 
+    
+    ### PupRug™ Faux Fur Orthopedic Dog Bed - Curve Brown
+    
+    in your cart
+    
+    2 sizes
     
 
 * $00 Product Title 3 colors
@@ -1068,8 +1013,6 @@ SIGN-UP
 * [Instagram](https://www.instagram.com/alpha.paw/)
 * [TikTok](https://tiktok.com/@alphapawofficial)
 * [YouTube](https://www.youtube.com/@alpha-paw)
-
-Cookie Preferences ![](https://captainstatic.s3.amazonaws.com/cc_privacy_options.png)
 
   
 
