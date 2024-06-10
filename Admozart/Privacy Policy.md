@@ -133,11 +133,11 @@ We empower the Programmatic Demand Side Platforms and Search Ads Providers to ex
 * [Media Channels](https://admozart.com/media-channels/)
 * [Contact Us](https://admozart.com/contact-us/)
 
-#### Admozart LLC
+#### Admozart Inc.
 
 * **ADDRESS:**
     
-    33 S Wood Ave, STE 600, Iselin, NJ - 08830
+    1250 Broadway 36th Floor, Suite 3600 New York City, New York 10001
     
 * **EMAIL:**[media@admozart.com](mailto:media@admozart.com)
     
@@ -150,7 +150,7 @@ We empower the Programmatic Demand Side Platforms and Search Ads Providers to ex
 
 Subscribe
 
-Copyright 2024 [Admozart LLC](#) All Rights Reserved
+Copyright 2024 [AdMozart Inc..](#) All Rights Reserved
 
 * [Terms of Use](https://admozart.com/terms-of-use/)
 * [Privacy Policy](https://admozart.com/privacy-policy/)
