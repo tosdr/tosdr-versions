@@ -138,6 +138,7 @@ Updated September 10, 2019.
 * [Home](https://reclaimthenet.org/)
 * [Merch](https://merch.reclaimthenet.org/)
 * [Donate](https://donorbox.org/reclaim-the-net)
+* [Donate Crypto](https://reclaimthenet.org/donate-cryptocurrency)
 * [Contact](https://reclaimthenet.org/contact)
 * [RSS](https://reclaimthenet.org/feed)
 * [Privacy](https://reclaimthenet.org/privacy)
