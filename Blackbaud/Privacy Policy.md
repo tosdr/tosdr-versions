@@ -153,11 +153,11 @@ Main Navigation
         
         Best practices and the latest learning for social good professionals](https://blog.blackbaud.com/)
     
-    ![](https://www.blackbaud.com/wp-content/uploads/2023/11/k-12_evergreen.jpg)
+    ![](https://www.blackbaud.com/wp-content/uploads/2024/04/bbcon-2024-open-reg-resources-megamenu-275X135.png)
     
-    K-12 School | Buyer's Guide
+    bbcon 2024 | Sept. 24-26
     
-    [Learn how grantmakers can jumpstart a culture of well-being.](https://www.blackbaud.com/industry-insights/resources/how-grantmakers-can-jumpstart-a-culture-of-well-being-for-employees-and-grantees?icid=_p-navpromo_t-toolkit_c-jumpstartculture)
+    [bbcon Early-Bird Registration Is Open: Lock in Your Rate by June 13!](https://www.bbconference.com/?ICID=bbwebsite-mega-menu-tile-cb-2024-q2-tl-conf-bbcon-openreg)
     
     * * *
     
