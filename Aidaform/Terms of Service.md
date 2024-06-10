@@ -38,7 +38,7 @@
     * [Any Website](https://aidaform.com/embedding-and-sharing/how-to-add-form-to-my-website.html)
 * [Blog](https://aidaform.com/blog/)
     * [Blog](https://aidaform.com/blog/)
-    * [AidaForm Awards 2024](https://aidaform.com/blog/awards.html)
+    * [AidaForm Awards 2023](https://aidaform.com/blog/awards.html)
     * [Best Software to Create Forms](https://aidaform.com/best-form-builders.html)
     * [How to Create an Order Form](https://aidaform.com/blog/how-to-create-an-order-form.html)
     * [Likert Scale](https://aidaform.com/blog/likert-scale-definition-examples.html)
@@ -85,7 +85,7 @@
     * [Wix Website](https://aidaform.com/embedding-and-sharing/how-to-embed-a-form-on-a-wix-website.html)
     * [Any Website](https://aidaform.com/embedding-and-sharing/how-to-add-form-to-my-website.html)
 * [Blog](https://aidaform.com/blog/)
-    * [AidaForm Awards 2024](https://aidaform.com/blog/awards.html)
+    * [AidaForm Awards 2023](https://aidaform.com/blog/awards.html)
     * [Best Software to Create Forms](https://aidaform.com/best-form-builders.html)
     * [How to Create an Order Form](https://aidaform.com/blog/how-to-create-an-order-form.html)
     * [Likert Scale](https://aidaform.com/blog/likert-scale-definition-examples.html)
@@ -267,7 +267,7 @@ Company
 * [Contact Us](https://aidaform.com/contact-us.html)
 * [Affiliate Program](https://aidaform.com/affiliate-program.html)
 * [Pricing](https://aidaform.com/pricing.html)
-* [Awards 2024](https://aidaform.com/blog/awards.html)
+* [Awards 2023](https://aidaform.com/blog/awards.html)
 
 Resources
 
@@ -277,7 +277,7 @@ Resources
 * [User Guide](https://aidaform.com/help/)
 * [Support](https://aidaform.com/help/contact-support.html)
 
-Popular on AidaForm
+Popular on Aidaform
 
 * [How to Make an Order Form](https://aidaform.com/blog/how-to-create-an-order-form.html)
 * [Leader Development Screening Tests](https://aidaform.com/cassudy-screening-tests.html)
