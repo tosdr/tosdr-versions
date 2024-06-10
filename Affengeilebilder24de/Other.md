@@ -4,7 +4,7 @@ Zurück
 
 FOLGE UNSEREM WHATSAPP-KANAL und verpasse keine Neuigkeiten und Rabattaktionen mehr
 
-AFFENGEILE WOCHEN: spare zusätzlich 25% auf reduziertes >>Code: AFG20<< (MBW 80€)
+SPRING-SALE: Bis zu 25% RABATT >>Automatischer Code: SPRING25<< (MBW 50€)
 
 Weiter
 
@@ -14,17 +14,7 @@ Navigation[](https://affengeilebilder24.de/search)
 
 [Affengeile Bilder ![Affengeile Bilder | Logo](//affengeilebilder24.de/cdn/shop/files/logo_130x.png?v=1646838118)](https://affengeilebilder24.de/) 
 
- Sprache Deutsch
-
-Sprache
-
-English Deutsch
-
-Newsletter
-
-[0](https://affengeilebilder24.de/apps/wishlist)
-
-[0](https://affengeilebilder24.de/cart)
+Newsletter [0](https://affengeilebilder24.de/cart)
 
 * [Kategorien](https://affengeilebilder24.de/collections)
     
@@ -46,7 +36,7 @@ Newsletter
     * [Fotografie](https://affengeilebilder24.de/collections/fotografie)
     * [Futuristisch / Surrealismus](https://affengeilebilder24.de/collections/futuristisch)
     * [Graffiti](https://affengeilebilder24.de/collections/graffiti)
-    * [Ikonen und Berühmtheiten](https://affengeilebilder24.de/collections/ikonen)
+    * [Ikonen](https://affengeilebilder24.de/collections/ikonen)
     * [Kinder](https://affengeilebilder24.de/collections/kinder)
     * [Lippen](https://affengeilebilder24.de/collections/lippen)
     * [Motivation](https://affengeilebilder24.de/collections/motivation)
@@ -62,13 +52,13 @@ Newsletter
     * [Tattoo](https://affengeilebilder24.de/collections/tattoo)
     * [Tiere](https://affengeilebilder24.de/collections/tiere)
     
-    [![](//affengeilebilder24.de/cdn/shop/files/Kategorie_Uebersicht_Black_White_720x.jpg?v=1691650050)
+    [![](//affengeilebilder24.de/cdn/shop/files/Kategorie_Uebersicht_AI_720x.jpg?v=1678189511)
     
     Highlight
     
-    Black & White](https://affengeilebilder24.de/collections/black-white)[![](//affengeilebilder24.de/cdn/shop/files/Kategorie_Uebersicht_Cartoon_720x.jpg?v=1685950521)
+    AI - Kunst](https://affengeilebilder24.de/collections/ai-art)[![](//affengeilebilder24.de/cdn/shop/files/Kategorie_Uebersicht_Cartoon_720x.jpg?v=1685950521)
     
-    BELIEBT
+    Neu
     
     Cartoon](https://affengeilebilder24.de/collections/cartoon)
     
@@ -77,7 +67,6 @@ Newsletter
     [Künstler](https://affengeilebilder24.de/blogs/kuenstler)
     
     * [Adrian Vieriu](https://affengeilebilder24.de/blogs/kuenstler/adrian-vieriu)
-    * [Artwerx](https://affengeilebilder24.de/blogs/kuenstler/artwerx)
     * [Banksy](https://affengeilebilder24.de/blogs/kuenstler/banksy)
     * [Calibreus](https://affengeilebilder24.de/blogs/kuenstler/calibreus)
     * [Catill](https://affengeilebilder24.de/blogs/kuenstler/catill)
@@ -85,10 +74,10 @@ Newsletter
     * [David Drake](https://affengeilebilder24.de/blogs/kuenstler/david-drake)
     * [Eleanor Art](https://affengeilebilder24.de/blogs/kuenstler/eleanor-art)
     * [Frank Amoruso](https://affengeilebilder24.de/blogs/kuenstler/frank-amoruso)
+    * [Frank Daske](https://affengeilebilder24.de/blogs/kuenstler/frank-daske)
     
     [⠀](https://affengeilebilder24.de/blogs/kuenstler)
     
-    * [Frank Daske](https://affengeilebilder24.de/blogs/kuenstler/frank-daske)
     * [Henrivaux](https://affengeilebilder24.de/blogs/kuenstler/henrivaux)
     * [Himmelmiez](https://affengeilebilder24.de/blogs/kuenstler/himmelmiez)
     * [Housofblk](https://affengeilebilder24.de/blogs/kuenstler/diana-ortiz)
@@ -97,10 +86,10 @@ Newsletter
     * [Kiss Pink](https://affengeilebilder24.de/blogs/kuenstler/kiss-pink)
     * [Lukas Avalon](https://affengeilebilder24.de/blogs/kuenstler/lukas-avalon)
     * [Markus Mikolai](https://affengeilebilder24.de/blogs/kuenstler/markus-mikolai)
+    * [Matteo Bianchi](https://affengeilebilder24.de/blogs/kuenstler/matteo-bianchi)
     
     [⠀](https://affengeilebilder24.de/blogs/kuenstler)
     
-    * [Matteo Bianchi](https://affengeilebilder24.de/blogs/kuenstler/matteo-bianchi)
     * [Mr. Underdott](https://affengeilebilder24.de/blogs/kuenstler/mr-underdott)
     * [Natale Palazzo](https://affengeilebilder24.de/blogs/kuenstler/natale-palazzo)
     * [Nenad Jovic](https://affengeilebilder24.de/blogs/kuenstler/nenad-jovic)
@@ -109,10 +98,10 @@ Newsletter
     * [Philipp Pilz](https://affengeilebilder24.de/blogs/kuenstler/philipp-pilz)
     * [Robert Kohlhuber](https://affengeilebilder24.de/blogs/kuenstler/robert-kohlhuber)
     * [Rosa Piazza](https://affengeilebilder24.de/blogs/kuenstler/rosa-piazza)
+    * [RS Artist](https://affengeilebilder24.de/blogs/kuenstler/rs-artist)
     
     [⠀](https://affengeilebilder24.de/blogs/kuenstler)
     
-    * [RS Artist](https://affengeilebilder24.de/blogs/kuenstler/rs-artist)
     * [Sean Flores](https://affengeilebilder24.de/blogs/kuenstler/sean-flores)
     * [Spanjer](https://affengeilebilder24.de/blogs/kuenstler/spanjer)
     * [Sublimenation](https://affengeilebilder24.de/blogs/kuenstler/sublimenation)
@@ -145,23 +134,7 @@ Newsletter
     
     Gold auf Acrylglas
     
-    mit echtem Blattgold](https://affengeilebilder24.de/collections/gold-auf-acrylglas)[![Detailansicht Ecke Silberserie](//affengeilebilder24.de/cdn/shop/files/Detailansicht_Silberserie_Ecke_720x.png?v=1715857222)
-    
-    Silber auf Acrylglas
-    
-    mit echten Blattsilber](https://affengeilebilder24.de/collections/silber-auf-acrylglas)[![](//affengeilebilder24.de/cdn/shop/files/Detailansicht_Roseserie_Ecke_720x.png?v=1715850649)
-    
-    Rose auf Acrylglas
-    
-    mit echtem Rosegold](https://affengeilebilder24.de/collections/rose-auf-acrylglas)[![](//affengeilebilder24.de/cdn/shop/files/Detailansicht_Brushedserie_Ecke_720x.png?v=1715851998)
-    
-    Brushed
-    
-    gebürstetes AluDibond](https://affengeilebilder24.de/collections/brushedseries-auf-geburstetem-aludibond)[![](//affengeilebilder24.de/cdn/shop/files/Detailansicht_Neonserie_Ecke_720x.png?v=1715851313)
-    
-    Neon auf Acrylglas
-    
-    farbintesiv und modern](https://affengeilebilder24.de/collections/neon-auf-acrylglas)
+    mit echtem Blattgold](https://affengeilebilder24.de/collections/goldbilder-auf-acrylglas)
     
     [Produkte](https://affengeilebilder24.de/collections/all)
     
@@ -188,7 +161,7 @@ Newsletter
     * [Filme & Serien](https://affengeilebilder24.de/collections/filme-und-serien)
     * [Fotografie](https://affengeilebilder24.de/collections/fotografie)
     * [Futuristisch / Surrealismus](https://affengeilebilder24.de/collections/futuristisch)
-    * [Ikonen und Berühmtheiten](https://affengeilebilder24.de/collections/ikonen)
+    * [Ikonen](https://affengeilebilder24.de/collections/ikonen)
     * [Kinder](https://affengeilebilder24.de/collections/kinder)
     * [Lippen](https://affengeilebilder24.de/collections/lippen)
     * [Motivation](https://affengeilebilder24.de/collections/motivation)
@@ -202,13 +175,13 @@ Newsletter
     * [Tattoo](https://affengeilebilder24.de/collections/tattoo)
     * [Tiere](https://affengeilebilder24.de/collections/tiere)
     
-    [![](//affengeilebilder24.de/cdn/shop/files/Kategorie_Uebersicht_Black_White_810x.jpg?v=1691650050)
+    [![](//affengeilebilder24.de/cdn/shop/files/Kategorie_Uebersicht_AI_810x.jpg?v=1678189511)
     
     Highlight
     
-    Black & White](https://affengeilebilder24.de/collections/black-white)[![](//affengeilebilder24.de/cdn/shop/files/Kategorie_Uebersicht_Cartoon_810x.jpg?v=1685950521)
+    AI - Kunst](https://affengeilebilder24.de/collections/ai-art)[![](//affengeilebilder24.de/cdn/shop/files/Kategorie_Uebersicht_Cartoon_810x.jpg?v=1685950521)
     
-    BELIEBT
+    Neu
     
     Cartoon](https://affengeilebilder24.de/collections/cartoon)
     
@@ -216,7 +189,6 @@ Newsletter
     
     * [Alle Künstler](https://affengeilebilder24.de/blogs/kuenstler)
     * [Adrian Vieriu](https://affengeilebilder24.de/blogs/kuenstler/adrian-vieriu)
-    * [Artwerx](https://affengeilebilder24.de/blogs/kuenstler/artwerx)
     * [Banksy](https://affengeilebilder24.de/blogs/kuenstler/banksy)
     * [Calibreus](https://affengeilebilder24.de/blogs/kuenstler/calibreus)
     * [Catill](https://affengeilebilder24.de/blogs/kuenstler/catill)
@@ -264,11 +236,7 @@ Newsletter
     * [GalleryPrint](https://affengeilebilder24.de/collections/galleryprint)
     * [AluDibond](https://affengeilebilder24.de/collections/aludibond)
     * [Poster](https://affengeilebilder24.de/collections/poster)
-    * [Gold auf Acrylglas](https://affengeilebilder24.de/collections/gold-auf-acrylglas)
-    * [Silber auf Acrylglas](https://affengeilebilder24.de/collections/silber-auf-acrylglas)
-    * [Rosè auf Acrylglas](https://affengeilebilder24.de/collections/rose-auf-acrylglas)
-    * [Neon auf Acrylglas](https://affengeilebilder24.de/collections/neon-auf-acrylglas)
-    * [Brush AluDibond](https://affengeilebilder24.de/collections/brushedseries-auf-geburstetem-aludibond)
+    * [Gold auf Acrylglas](https://affengeilebilder24.de/collections/goldbilder-auf-acrylglas)
     * [Leuchtrahmen](https://affengeilebilder24.de/collections/leuchtrahmen)
     * [Bilderrahmen](https://affengeilebilder24.de/collections/bilderrahmen)
     * [Dein Unikat](https://affengeilebilder24.de/products/dein-unikat)
@@ -290,24 +258,10 @@ Newsletter
     
     Gold auf Acrylglas
     
-    mit echtem Blattgold](https://affengeilebilder24.de/collections/gold-auf-acrylglas)[![Detailansicht Ecke Silberserie](//affengeilebilder24.de/cdn/shop/files/Detailansicht_Silberserie_Ecke_810x.png?v=1715857222)
-    
-    Silber auf Acrylglas
-    
-    mit echten Blattsilber](https://affengeilebilder24.de/collections/silber-auf-acrylglas)[![](//affengeilebilder24.de/cdn/shop/files/Detailansicht_Roseserie_Ecke_810x.png?v=1715850649)
-    
-    Rose auf Acrylglas
-    
-    mit echtem Rosegold](https://affengeilebilder24.de/collections/rose-auf-acrylglas)
+    mit echtem Blattgold](https://affengeilebilder24.de/collections/goldbilder-auf-acrylglas)
     
 * [Personalisiert](https://affengeilebilder24.de/products/dein-unikat)
 * [Für Unternehmen](https://affengeilebilder24.de/pages/business)
-
- Sprache Deutsch
-
-Sprache
-
-English Deutsch
 
    [Kategorien](https://affengeilebilder24.de/collections)
 
@@ -323,7 +277,7 @@ English Deutsch
 * [Filme & Serien](https://affengeilebilder24.de/collections/filme-und-serien)
 * [Fotografie](https://affengeilebilder24.de/collections/fotografie)
 * [Futuristisch / Surrealismus](https://affengeilebilder24.de/collections/futuristisch)
-* [Ikonen und Berühmtheiten](https://affengeilebilder24.de/collections/ikonen)
+* [Ikonen](https://affengeilebilder24.de/collections/ikonen)
 * [Kinder](https://affengeilebilder24.de/collections/kinder)
 * [Lippen](https://affengeilebilder24.de/collections/lippen)
 * [Motivation](https://affengeilebilder24.de/collections/motivation)
@@ -341,7 +295,6 @@ English Deutsch
 
 * [Alle Künstler](https://affengeilebilder24.de/blogs/kuenstler)
 * [Adrian Vieriu](https://affengeilebilder24.de/blogs/kuenstler/adrian-vieriu)
-* [Artwerx](https://affengeilebilder24.de/blogs/kuenstler/artwerx)
 * [Banksy](https://affengeilebilder24.de/blogs/kuenstler/banksy)
 * [Calibreus](https://affengeilebilder24.de/blogs/kuenstler/calibreus)
 * [Catill](https://affengeilebilder24.de/blogs/kuenstler/catill)
@@ -383,11 +336,7 @@ English Deutsch
 * [GalleryPrint](https://affengeilebilder24.de/collections/galleryprint)
 * [AluDibond](https://affengeilebilder24.de/collections/aludibond)
 * [Poster](https://affengeilebilder24.de/collections/poster)
-* [Gold auf Acrylglas](https://affengeilebilder24.de/collections/gold-auf-acrylglas)
-* [Silber auf Acrylglas](https://affengeilebilder24.de/collections/silber-auf-acrylglas)
-* [Rosè auf Acrylglas](https://affengeilebilder24.de/collections/rose-auf-acrylglas)
-* [Neon auf Acrylglas](https://affengeilebilder24.de/collections/neon-auf-acrylglas)
-* [Brush AluDibond](https://affengeilebilder24.de/collections/brushedseries-auf-geburstetem-aludibond)
+* [Gold auf Acrylglas](https://affengeilebilder24.de/collections/goldbilder-auf-acrylglas)
 * [Leuchtrahmen](https://affengeilebilder24.de/collections/leuchtrahmen)
 * [Bilderrahmen](https://affengeilebilder24.de/collections/bilderrahmen)
 * [Dein Unikat](https://affengeilebilder24.de/products/dein-unikat)
@@ -528,7 +477,7 @@ Erhalte neue Angebote, neue Releases und viele weitere affengeile Specials als E
 Nützliches
 
 * [Suchen](https://affengeilebilder24.de/search)
-* [Rabatte & Aktionen](https://affengeilebilder24.de/pages/vouchers)
+* [Rabatte & Aktionen](https://affengeilebilder24.de/a/gutschein)
 * [FAQ](https://affengeilebilder24.de/pages/faq)
 * [Kontakt](https://affengeilebilder24.de/pages/kontakt)
 * [Künstler werden](https://affengeilebilder24.de/pages/kunstler-werden-bei-affengeilebilder)
@@ -545,7 +494,7 @@ Rechtliches
 
 Folge uns
 
-* [](https://www.facebook.com/affengeilebilder24.de/)
+* [](https://www.facebook.com/affengeilebilder24/)
 * [](https://www.instagram.com/affengeilebilder24/)
 * [](https://www.pinterest.de/affengeilebilder24/)
 * [](https://whatsapp.com/channel/0029VaF3vyxCMY0C4Qejwe0l)
@@ -554,15 +503,9 @@ Partner
 
 [![](https://api.lionshome.de/seal/seal.png)](https://www.lionshome.de/) [![](https://affengeilebilder24.brands-unique.com/moebelde/siegel-de-m.png)](https://www.moebel.de/)
 
- Sprache Deutsch
-
-Sprache
-
-English Deutsch
-
 Wir akzeptieren
 
-American Express Apple Pay Google Pay Klarna Maestro Mastercard PayPal Shop Pay Union Pay Visa
+American Express Apple Pay Google Pay Klarna Maestro Mastercard PayPal Shop Pay SOFORT Union Pay Visa
 
 Cookies
 
