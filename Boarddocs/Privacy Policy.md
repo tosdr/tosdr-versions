@@ -319,10 +319,14 @@ At our core, transparency is key. We prioritize your privacy by providing clear 
 
 [Privacy Policy](https://boarddocs.com/legal/privacy)[Terms of use](https://boarddocs.com/legal/terms-of-use)[Cookie Policy](https://boarddocs.com/legal/cookie-policy)[Digital Services Act](https://boarddocs.com/legal/digital-services-act)
 
-[Your Privacy Choices](https://diligentlegal.results.highbond.com/survey_responses/9Wrc_yiuertX-uLJ4bJA/edit)[Trust Center](https://boarddocs.com/trust)[Vulnerability Disclosure Program](https://boarddocs.com/vulnerability-disclosure-program)[Modern Slavery Statement](https://boarddocs.com/legal/modern-slavery)
+[Your Privacy Choices](https://diligentlegal.results.highbond.com/survey_responses/9Wrc_yiuertX-uLJ4bJA/edit)[Trust Center](https://boarddocs.com/trust)[Vulnerability Disclosure Program](https://boarddocs.com/vulnerability-disclosure-program)
 
 * * *
 
 [](https://www.linkedin.com/company/diligent-board-member-services/)[](https://twitter.com/diligenthq)[](https://www.facebook.com/DiligentCorporation)
+
+[Modern Slavery](https://boarddocs.com/legal/modern-slavery)
+
+|
 
 © 2024 Diligent Corporation. All rights reserved.
