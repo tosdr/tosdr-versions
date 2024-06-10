@@ -2,13 +2,6 @@
 
 [Skip to content](#content)
 
-FOLLOW AP
-
-* [](https://www.linkedin.com/company/associated-press "Linkedin")
-* [](https://www.youtube.com/ap "Youtube")
-* [](https://twitter.com/AboutTheAP "Twitter")
-* [](https://www.facebook.com/APNews "Facebook")
-
 * [AP Customer Zone](https://customerzone.ap.org/cz/s/)
 
 [![](https://www.ap.org/wp-content/themes/apnews/assets/images/ap-news-logo.svg)](https://www.ap.org/)
@@ -31,7 +24,6 @@ FOLLOW AP
         * [Politics](https://www.ap.org/content/topics/politics/)
         * [Health](https://www.ap.org/content/topics/health/)
         * [Science](https://www.ap.org/content/topics/science/)
-        * [Paris summer games](https://www.ap.org/content/topics/sports/paris-summer-games/)
     * [Archive](https://www.ap.org/content/archive/)
 * [Solutions](https://www.ap.org/solutions/)
     * [Platforms](https://www.ap.org/solutions/platforms/)
@@ -69,7 +61,6 @@ FOLLOW AP
         * [By industry](https://www.ap.org/elections/industry/)
     * [Get in touch](https://www.ap.org/elections/get-in-touch/)
         * [Free trial](https://www.ap.org/elections/free-trial/)
-* [News Highlights](https://www.ap.org/news-highlights/)
 * [About](https://www.ap.org/about/)
     * [Awards and recognition](https://www.ap.org/about/awards-and-recognition/)
     * [Media center](https://www.ap.org/about/media-center/)
@@ -550,7 +541,7 @@ FOLLOW AP
 
 * [](https://www.linkedin.com/company/associated-press "Linkedin")
 * [](https://www.youtube.com/ap "Youtube")
-* [](https://twitter.com/AboutTheAP "Twitter")
+* [](https://twitter.com/AP "Twitter")
 * [](https://www.facebook.com/APNews "Facebook")
 
 All contents © copyright 2024 [The Associated Press](https://apnews.com/). All rights reserved.
@@ -580,7 +571,6 @@ All contents © copyright 2024 [The Associated Press](https://apnews.com/). All 
         * [Politics](https://www.ap.org/content/topics/politics/)
         * [Health](https://www.ap.org/content/topics/health/)
         * [Science](https://www.ap.org/content/topics/science/)
-        * [Paris summer games](https://www.ap.org/content/topics/sports/paris-summer-games/)
     * [Archive](https://www.ap.org/content/archive/)
 * [Solutions](https://www.ap.org/solutions/)
     * [Back](#)
@@ -628,7 +618,6 @@ All contents © copyright 2024 [The Associated Press](https://apnews.com/). All 
     * [Get in touch](https://www.ap.org/elections/get-in-touch/)
         * [Back](#)
         * [Free trial](https://www.ap.org/elections/free-trial/)
-* [News Highlights](https://www.ap.org/news-highlights/)
 * [About](https://www.ap.org/about/)
     * [Back](#)
     * [Awards and recognition](https://www.ap.org/about/awards-and-recognition/)
@@ -640,10 +629,3 @@ All contents © copyright 2024 [The Associated Press](https://apnews.com/). All 
 * [AP Customer Zone](https://customerzone.ap.org/cz/s/?_gl=1*149681t*_ga*MTg2MjYyMjkwMS4xNzAyNDU3OTky*_ga_ML6VNW2YK3*MTcwNzM5OTIzMC40OS4xLjE3MDc0MDA5MDAuMC4wLjA.)
 
 [Contact us](https://www.ap.org/contact-us/)
-
-FOLLOW AP
-
-* [](https://www.linkedin.com/company/associated-press "Linkedin")
-* [](https://www.youtube.com/ap "Youtube")
-* [](https://twitter.com/AboutTheAP "Twitter")
-* [](https://www.facebook.com/APNews "Facebook")
