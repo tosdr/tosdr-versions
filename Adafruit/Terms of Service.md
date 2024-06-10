@@ -1,4 +1,4 @@
-![Adafruit IO](https://d2794n4cyhr13z.cloudfront.net/vite/production/assets/io-loading-CvER77Ir.gif "Adafruit IO Loading")
+![Adafruit IO](https://d2794n4cyhr13z.cloudfront.net/packs/production/media/src/images/io-loading-5970faf1355e1bf3d58e6bd8931c3f7a.gif "Adafruit IO Loading")
 
 Adafruit IO
 ===========
