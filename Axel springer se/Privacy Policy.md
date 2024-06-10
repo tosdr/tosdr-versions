@@ -2,15 +2,31 @@
 
 * [Deutsch](https://www.axelspringer.com/de/datenschutzerklaerung)
 
-* [Who We Are](https://www.axelspringer.com/en/who-we-are)
+* [Company](https://www.axelspringer.com/en/company)
     
-* [What Defines Us](https://www.axelspringer.com/en/what-defines-us)
+    * [Executive Board](https://www.axelspringer.com/en/company/executive-board)
+        
+    * [Supervisory Board](https://www.axelspringer.com/en/company/supervisory-board)
+        
+    * [History](https://www.axelspringer.com/en/company/history)
+        
+    * [Axel Springer Award](https://www.axelspringer.com/en/axel-springer-award)
+        
+* [Values](https://www.axelspringer.com/en/values)
     
+    * [Freedom](https://www.axelspringer.com/en/values/freedom)
+        
+    * [Sustainability](https://www.axelspringer.com/en/values/sustainability)
+        
+    * [Diversity](https://www.axelspringer.com/en/values/diversity)
+        
+    * [Downloads](https://www.axelspringer.com/en/values/downloads)
+        
 * [Stories](https://www.axelspringer.com/en/stories)
     
-* [Our Brands](https://www.axelspringer.com/en/brands)
+* [Brands](https://www.axelspringer.com/en/brands)
     
-* [Careers With Us](https://career.axelspringer.com/en/)
+* [Career](https://career.axelspringer.com/en/)
     
 * [Press](https://www.axelspringer.com/en/press)
     
@@ -97,9 +113,9 @@ More information on the cookies used and equivalent technologies and our partner
 Privacy
 -------
 
-The vast majority of the services or content of the third-party providers are only loaded and the relevant data processing only takes place if you have previously declared your consent within the meaning of Art. 6 para. 1 lit. a DSGVO or, with regard to cookies and similar technologies, according to § 25 para. 1 TDDDG. In addition, there are a few cookies or similar technologies that are absolutely necessary to provide the service you requested (Section 25 (2) TDDDG) (special category absolutely necessary), as well as certain downstream data processing based on certain legitimate interests pursuant to. Art. 6 para. 1 lit. f GDPR; the setting of cookies or data processing in these constellations is carried out without consent, although we give you the opportunity to object to the data processing based on Art. 6 para. 1 lit. f GDPR.
+The vast majority of the services or content of the third-party providers are only loaded and the relevant data processing only takes place if you have previously declared your consent within the meaning of Art. 6 para. 1 lit. a DSGVO or, with regard to cookies and similar technologies, according to § 25 para. 1 TTDSG. In addition, there are a few cookies or similar technologies that are absolutely necessary to provide the service you requested (Section 25 (2) TTDSG) (special category absolutely necessary), as well as certain downstream data processing based on certain legitimate interests pursuant to. Art. 6 para. 1 lit. f DSGVO; the setting of cookies or data processing in these constellations is carried out without consent, although we give you the opportunity to object to the data processing based on Art. 6 para. 1 lit. f DSGVO.
 
-In order to map this process for you in a user-friendly way with all legal requirements but also all necessary information, a window (“Privacy”) opens when you first visit our website, in which you have the option, through appropriate settings, to give your consent to third-party providers to store and/or retrieve information in your device as well as to process personal data for specific purposes, to refuse this in each case or – insofar as the processing of personal data is based on the legal basis of legitimate interests (Art. 6 para. 1 lit. f GDPR) – to object.
+In order to map this process for you in a user-friendly way with all legal requirements but also all necessary information, a window (“Privacy”) opens when you first visit our website, in which you have the option, through appropriate settings, to give your consent to third-party providers to store and/or retrieve information in your device as well as to process personal data for specific purposes, to refuse this in each case or – insofar as the processing of personal data is based on the legal basis of legitimate interests (Art. 6 para. 1 lit. f DSGVO) – to object.
 
 In the following, we inform you about the use of cookies or comparable technologies and the processing of personal data by the third-party providers we use, which may take place in each case depending on the privacy settings you have made.
 
@@ -171,7 +187,7 @@ Where applicable, you also have the right to have your personal data transmitted
 
 You also have the right to submit a complaint to the competent supervisory authority and to seek legal remedies. The supervisory authority with whom the complaint was lodged will notify the complainant about the status and result of their complaint, including the option of seeking a judicial remedy.
 
-**Last revised:** May 23, 2024
+**Last revised:** October 16, 2023
 
 * [Disclaimer](https://www.axelspringer.com/en/disclaimer)
 * [Imprint](https://www.axelspringer.com/en/imprint)
