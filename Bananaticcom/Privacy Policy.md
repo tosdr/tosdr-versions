@@ -1,30 +1,32 @@
-[](https://www.bananatic.com/)
+[](https://www.bananatic.com/fr/)
 
-* [**Win PS4 Console!**](https://www.bananatic.com/event/)
-* [Home](https://www.bananatic.com/home/)
-* [Sign up](#register)
-* [Log in](#)
+* [](javascript:void(0))
+    
+* [**Gagne une PS4 !!**](https://www.bananatic.com/fr/event/)
+* [Accueil](https://www.bananatic.com/fr/home/)
+* [S'inscrire](#register)
+* [S’identifier](#)
 
-[](https://www.facebook.com/bananaticcom)[](https://twitter.com/bananatic_com)[](https://www.youtube.com/channel/UC-kilq-ULJHkUXXVdiy_0vw)[How does it work?](https://www.bananatic.com/how-to/)
+[](https://www.facebook.com/bananaticcom)[](https://twitter.com/bananatic_com)[](https://www.youtube.com/channel/UC-kilq-ULJHkUXXVdiy_0vw)[Comment ça marche?](https://www.bananatic.com/fr/how-to/)
 
-* [Games](https://www.bananatic.com/games/)
-* [Earn bananas](https://www.bananatic.com/get-bananas/)
-* [Spend bananas](https://www.bananatic.com/shop/)
-* [Bananabet](https://www.bananatic.com/lottery/)
-* [Forum](https://www.bananatic.com/forum/)
-* [Giveaway](https://www.bananatic.com/giveaway/)
-* [Other](javascript:void(0))
-    * [Your banana](https://www.bananatic.com/your-banana/)
-    * [Ranking](https://www.bananatic.com/ranking/)
-    * [Invite friends - make money](https://www.bananatic.com/get-bananas/recommend/)
-    * [Bananapedia](https://www.bananatic.com/bananapedia/)
-    * [VIP](https://www.bananatic.com/vip/)
-    * [Buy bananas](https://www.bananatic.com/buy-bananas/)
-    * [Blog](https://www.bananatic.com/blog/)
-    * [Browser games](https://www.bananatic.com/get-bananas/fun-zone/)
+* [Jeux](https://www.bananatic.com/fr/jeux/)
+* [Récolter des Bananes](https://www.bananatic.com/fr/obtenir-bananes/)
+* [Magasin](https://www.bananatic.com/fr/magasin/)
+* [Bananabet](https://www.bananatic.com/fr/lottery/)
+* [Forum](https://www.bananatic.com/fr/forum/)
+* [Giveaway](https://www.bananatic.com/fr/giveaway/)
+* [Autres](javascript:void(0))
+    * [Ta banane](https://www.bananatic.com/fr/your-banana/)
+    * [Classement](https://www.bananatic.com/fr/ranking/)
+    * [Recommander ce site](https://www.bananatic.com/fr/obtenir-bananes/recommander/)
+    * [Bananapedia](https://www.bananatic.com/fr/bananapedia/)
+    * [VIP](https://www.bananatic.com/fr/vip/)
+    * [Acheter des Bananes](https://www.bananatic.com/fr/acheter-bananes/)
+    * [Blog](https://www.bananatic.com/fr/blog/)
+    * [Jeux de Navigateur](https://www.bananatic.com/fr/obtenir-bananes/fun-zone/)
 
-* [](https://www.bananatic.com/)
-* [Privacy Policy](https://www.bananatic.com/privacy-policy/)
+* [](https://www.bananatic.com/fr/)
+* [Politique de Confidentialité](https://www.bananatic.com/fr/privacy-policy/)
 
 **Privacy Policy**
 
@@ -56,7 +58,7 @@ On Bananatic.com website only specific personal data can be visible for other us
 
 Processing your personal data is essential to fulfill all the contract’s resolutions. It allows us to deliver to you all Bananatic services which are essential to take advantage of whole functionality. You may easily register and manage your personal account. We focus on simplicity of usage and technical support in order to improve your user experience. All gathered information are needed to answer all requests or complaints which you can deliver to us with contact form.
 
-Our services are intended to be used by anyone over the age of 13. We do not knowingly collect or solicit personal data about or direct or target interest-based advertising to anyone under the age of 13 or knowingly allow such persons to use our Services. We will delete all personal data about a child under age of 13 if we learnt that we have collected such(in order to delete the data / account on the website, please contact the website support directly via a ticket or by e-mail [\[email protected\]](https://www.bananatic.com/cdn-cgi/l/email-protection)). All users who are 13 up to age of 16 will have to have a parent or guardians approval to use our Services.
+Our services are intended to be used by anyone over the age of 13. We do not knowingly collect or solicit personal data about or direct or target interest-based advertising to anyone under the age of 13 or knowingly allow such persons to use our Services. We will delete all personal data about a child under age of 13 if we learnt that we have collected such. All users who are 13 up to age of 16 will have to have a parent or guardians approval to use our Services.
 
 We collect your personal data to:
 
@@ -72,11 +74,11 @@ In some cases your personal data is being processed by Sedoc LLC’s partners. T
 
 We may also disclose your data based on your consent, to comply with the law or to protect the rights, property or safety of us, our players or others.
 
-If you request, we will provide you a copy of your personal data in an electronic format. You also have the right to correct your data, request to have your data deleted (in order to delete the data / account on the website, please contact the website support directly via a ticket or by e-mail [\[email protected\]](https://www.bananatic.com/cdn-cgi/l/email-protection)), object how we use or share your data, and restrict how we use or share your data. Should you have any questions contact us directly via [\[email protected\]](https://www.bananatic.com/cdn-cgi/l/email-protection). We will respond to all requests within a reasonable timeframe.
+If you request, we will provide you a copy of your personal data in an electronic format. You also have the right to correct your data, request to have your data deleted, object how we use or share your data, and restrict how we use or share your data. Should you have any questions contact us directly via [\[email protected\]](https://www.bananatic.com/cdn-cgi/l/email-protection). We will respond to all requests within a reasonable timeframe.
 
-Like most online services, we and our partners use cookies and similar technologies to provide and personalize the Services, analyse use, target advertisements and prevent fraud. Please keep in mind that we gather those information only to develop our Services. In order to use our Services cookies have to be activated. Taking back the consent to cookies policy is equivalent to deleting account request (in order to delete the data / account on the website, please contact the website support directly via a ticket or by e-mail [\[email protected\]](https://www.bananatic.com/cdn-cgi/l/email-protection)).
+Like most online services, we and our partners use cookies and similar technologies to provide and personalize the Services, analyse use, target advertisements and prevent fraud. Please keep in mind that we gather those information only to develop our Services. In order to use our Services cookies have to be activated. Taking back the consent to cookies policy is equivalent to deleting account request.
 
-Please note that in order to use YouTube (i.e. in Bananpedia section, where you are allowed to access your YT account and upload videos) and Google services in general you shall familiarize with Terms of Service (located at  https://www.youtube.com/terms) and Google Privacy policy (available at https://policies.google.com/privacy). We are using YouTube API to allow you to use some of the Bananpedia functionality. Our intention is to analyze if the movie belongs to a specific User and what is the number of current views for the uploaded video.
+Please note that in order to use YouTube (i.e. in Bananpedia section, where you are allowed to access your YT account and upload videos) and Google services in general you shall familiarize with Terms of Service (located at  https://www.youtube.com/terms) and Google Privacy policy (available at https://policies.google.com/privacy). 
 
 In order to help ensure a secure and safe user experience, we are continuously developing and implementing administrative, technical and physical security measures to protect your data from unauthorized access or against loss, misuse or alteration.
 
@@ -86,12 +88,12 @@ Should you happen to have any additional questions we will be glad to help you.
 * [](https://twitter.com/bananatic_com)
 * [](https://www.youtube.com/channel/UC-kilq-ULJHkUXXVdiy_0vw)
 
-* [FAQ](javascript:void(0))
-* [Terms & Conditions](javascript:void(0)) [Privacy Policy](javascript:void(0))
+* [Aide (FAQ)](javascript:void(0))
+* [Conditions Générales](javascript:void(0)) [Politique de Confidentialité](javascript:void(0))
 * [Contact](javascript:void(0))
 * [](javascript:void(0))
 
-[www.bananatic.com](https://www.bananatic.com/)  
+[www.bananatic.com](https://www.bananatic.com/fr/)  
 
 [Trustpilot](javascript:void(0))
 
@@ -101,13 +103,13 @@ Should you happen to have any additional questions we will be glad to help you.
 
 [](javascript:void(0))
 
-Leaving? Please stay!
+Quoi? Tu pars déjà? Reste encore un peu!
 
-Get a Free Game! ![](https://www.bananatic.com/images/instruction-coins.png)
+Obtiens un Jeu Gratuit! ![](https://www.bananatic.com/fr/images/instruction-coins.png)
 
-Random STEAM key for you!  
-Register, go to "Spend Bananas"  
-Click STEAM treasure to pick up your game!  
-[**Pick Up free game**](https://www.bananatic.com/p/exit)
+Une Clé STEAM gratuite!  
+Inscris-toi, vas dans le "Magasin"  
+Clique sur le trésor STEAM et obtiens ton jeu!  
+[**Clique ici pour avoir ton jeu gratuit!**](https://www.bananatic.com/fr/p/exit)
 
-[**Chat**](https://www.bananatic.com/chat/)
+[**Chat**](https://www.bananatic.com/fr/chat/)
