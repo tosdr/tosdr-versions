@@ -214,10 +214,10 @@ Homepage](https://atos.net/en)
         * [Media Resources](https://atos.net/en/newsroom/media-resources)
         * [Media Contacts](https://atos.net/en/newsroom#contacts)
         
-        6 June 2024
+        17 April 2024
         
-        Market Update
-        -------------
+        CEA and Eviden Launch Phase 2 of the EXA1 Supercomputer Program
+        ---------------------------------------------------------------
         
     * [Blog](https://atos.net/en/atos-blog)˅
         
@@ -242,7 +242,7 @@ Homepage](https://atos.net/en)
         * **Your search did not return any results.**
             
         
-        [**All events**](https://atos.net/en/newsroom/events)
+        [**All events**](https://atos.net/en/atos.net/en/newsroom/events)
         
         **Your search did not return any results.**
         
@@ -343,12 +343,13 @@ Homepage](https://atos.net/en)
         * [Governance and Digital Trust](https://atos.net/en/about-us/corporate-social-responsibility/ethics)
         * [Key Performance Indicators](https://atos.net/en/about-us/corporate-responsibility-and-sustainability/key-non-financial-performance-indicators)
         
-        2023 Universal Registration Document
-        ------------------------------------
+        2021 Integrated Report
+        ----------------------
         
-        [![2023 Universal Registration Document](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://atos.net/wp-content/uploads/2024/05/atos-2023-universal-registration-document.pdf)
+        [![2021 Integrated Report](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://atos.net/en/lp/integrated-report-2021)
+        ----------------------------------------------------------------------------------------------------------------------------------------------------------
         
-        **[Download the 2023 Universal Registration Document](https://atos.net/wp-content/uploads/2024/05/atos-2023-universal-registration-document.pdf)**
+        **[Visit the 2021 Integrated Report website](https://atos.net/en/lp/integrated-report-2021)**
         
     * [Governance](https://atos.net/en/about-us/governance)˅
         
@@ -404,12 +405,12 @@ Homepage](https://atos.net/en)
         * [Analyst Coverage](https://atos.net/en/investors/analyst-coverage)
         * [Financial Calendar](https://atos.net/en/investors/financial-calendar)
         
-        2023 Universal Registration Document
+        2022 Universal Registration Document
         ------------------------------------
         
-        [![2023 Universal Registration Document](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://atos.net/wp-content/uploads/2024/05/atos-2023-universal-registration-document.pdf)
+        [![2021 Universal Registration Document](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://atos.net/wp-content/uploads/2023/04/atos-2022-universal-registration-document.pdf)
         
-        **[Download the 2023 Universal Registration Document](https://atos.net/wp-content/uploads/2024/05/atos-2023-universal-registration-document.pdf)**
+        **[Download the 2022 Universal Registration Document](https://atos.net/wp-content/uploads/2023/04/atos-2022-universal-registration-document.pdf)**
         
     * [Partners and Alliances](https://atos.net/en/about-us/partners-and-alliances)˅
         
@@ -432,13 +433,15 @@ Homepage](https://atos.net/en)
     * [Careers](https://atos.net/en/careers)˅
         
         * [Careers](https://atos.net/en/careers)˅
-        * [Atos careers](https://atos.net/advancing-what-matters/en/join-us)
-        * [Eviden careers](https://eviden.com/careers/)
+        * [Atos Corporate University](https://atos.net/en/careers/atos-corporate-university)
+        * [Atos Today](https://atos.net/en/careers/atos-today)
+        * [Choose your career](https://atos.net/en/careers/choose-your-career)
+        * [Why Join Atos](https://atos.net/en/careers/why-join-atos)
+        * [Meet our people](https://atos.net/en/careers/meet-our-people)
+        * [Blog](https://atos.net/en/careers/blog)
         
-        Atos and Eviden careers
-        -----------------------
-        
-        ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+        The Future Is Our Choice
+        ------------------------
         
 
 Search  Search
