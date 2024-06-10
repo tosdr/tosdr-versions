@@ -1,11 +1,11 @@
-[![BillGO Logo](https://billgo.com/hubfs/raw_assets/public/Billgo_January2023/images/Logo_Deep-Flat_Full_White.svg "BillGO Logo")](https://billgo.com/?hsLang=en)
+[![](https://billgo.com/hubfs/raw_assets/public/Billgo_January2023/images/Logo_Deep-Flat_Full_White.svg)](https://billgo.com/?hsLang=en)
 
-[![BillGO Logo](https://billgo.com/hubfs/raw_assets/public/Billgo_January2023/images/Logo_Deep_Full.svg "BillGO Logo")](https://billgo.com/?hsLang=en)
+[![](https://billgo.com/hubfs/raw_assets/public/Billgo_January2023/images/Logo_Deep_Full.svg)](https://billgo.com/?hsLang=en)
 
 [](javascript:void();)
 
-* [Bill Pay](https://billgo.com/billpay)
-* [BillGO Exchange](https://billgo.com/billgoexchange)
+* [Banks & Fintechs](https://billgo.com/bankers-and-fintechs)
+* [Billers](https://billgo.com/billers)
 
 * [](javascript:;)
     * [About Us](https://billgo.com/about-us)
@@ -14,9 +14,9 @@
 * [](javascript:;)
     * [Join Us](https://billgo.com/join-us)
     * [Contact](https://billgo.com/contact)
+    * [Bill Pay Hub](https://billgo.com/billgo-resource-center)
 
-BillGO Copyright Policy
-=======================
+##### BillGO Copyright Policy
 
 #### BillGO Website Terms of Service
 
@@ -85,9 +85,10 @@ Please be aware that if you knowingly materially represent that material or acti
 It is our policy in appropriate circumstances to disable and/or terminate the accounts of users who are repeat infringers.
 
 * [](javascript:;)
-    * [BillGO Resource Center](https://billgo.com/billgo-resource-center)
+    * [Bill Pay Hub](https://billgo.com/billgo-resource-center)
     * [Blog](https://billgo.com/blog)
     * [Press](https://billgo.com/press-kit)
+    * [Bill Pay Relief Hub](https://billgo.com/blog/billgos-bill-pay-relief-hub-earns-top-honors)
     * [About Us](https://billgo.com/about-us)
     * [Join Us](https://billgo.com/join-us)
 * [](javascript:;)
@@ -97,13 +98,14 @@ It is our policy in appropriate circumstances to disable and/or terminate the ac
     * [Licenses](https://billgo.com/licenses)
     * [Copyright Policy](https://billgo.com/copyright-policy)
 
-* [Bill Pay](https://billgo.com/billpay)
-* [BillGO Exchange](https://billgo.com/billgoexchange)
+* [Banks & Fintechs](https://billgo.com/bankers-and-fintechs)
+* [Billers](https://billgo.com/billers)
 
 * [](javascript:;)
-    * [BillGO Resource Center](https://billgo.com/billgo-resource-center)
+    * [Bill Pay Hub](https://billgo.com/billgo-resource-center)
     * [Blog](https://billgo.com/blog)
     * [Press](https://billgo.com/press-kit)
+    * [Bill Pay Relief Hub](https://billgo.com/blog/billgos-bill-pay-relief-hub-earns-top-honors)
     * [About Us](https://billgo.com/about-us)
     * [Join Us](https://billgo.com/join-us)
 * [](javascript:;)
