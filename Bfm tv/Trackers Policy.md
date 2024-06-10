@@ -24,13 +24,9 @@ DirectTV](https://www.bfmtv.com/en-direct/ "Direct tv")
 
 [![Regarder le direct](/assets/v5/images/BFMTV.848c19e09c92f3ced2163a1a0399be11.svg)
 
-Regarder le direct](https://www.bfmtv.com/en-direct/ "Regarder le direct")
+Regarder le direct](https://www.bfmtv.com/en-direct/ "Regarder le direct")[![Écouter la radio](/assets/v5/images/BFM-Radio.2afb246578899c5f8d87d1f216c22953.svg)
 
-![Écouter la radio](/assets/v5/images/BFM-Radio.2afb246578899c5f8d87d1f216c22953.svg)
-
-Écouter la radio
-
-[![Replay BFMTV](/assets/v5/images/RMC-BFM-Play-radio.62cafa0ab4419da4ac6039b204f52a3e.svg)
+Écouter la radio](https://www.bfmtv.com/en-direct/bfm-radio/ "Écouter la radio")[![Replay BFMTV](/assets/v5/images/RMC-BFM-Play-radio.62cafa0ab4419da4ac6039b204f52a3e.svg)
 
 Replay BFMTV](https://www.rmcbfmplay.com/chaine/bfm-tv?subMenuId=RefMenuItem::rmcgo_home_bfmtv "Replay BFMTV")
 
@@ -78,7 +74,6 @@ Suivant
 Rubriques
 
 * [News 24/7](https://www.bfmtv.com/news-24-7/ "News 24/7")
-* [Élections européennes](https://www.bfmtv.com/politique/elections/europeennes/ "Élections européennes")
 * [Politique](https://www.bfmtv.com/politique/ "Politique")
 * [Police-justice](https://www.bfmtv.com/police-justice/ " Police-justice ")
 * [International](https://www.bfmtv.com/international/ "International")
@@ -121,6 +116,9 @@ Précédent
 
 Suivant
 
+LES COOKIES :
+-------------
+
 Les cookies sont des fichiers contenant de faibles quantités d'informations, stockés au sein même du navigateur de votre terminal (ordinateur, tablette, smartphone…) sous réserve des choix que vous avez exprimés. Les cookies sont utilisés sur les sites Internet de NEXTRADIOTV pour différentes finalités, pour faciliter votre navigation, pour vous proposer des contenus et publicités personnalisés ou pour réaliser des statistiques de visites.
 
 Lors de la navigation sur les sites Internet de NEXTRADIOTV, des cookies sont déposés et lus pour enregistrer les informations relatives à la navigation sur le site (date et heure de la consultation, page consultée, date et heure du clic, lieu du clic...). Ces informations sont collectées et traitées pour tout ou partie des finalités suivantes :
@@ -155,23 +153,25 @@ Nous vous informons que vous pouvez également paramétrer la gestion des cookie
 
   
 
-Les cookies sont conservés pour une durée maximale de douze mois (à l'exception de la technologie Utiq où la durée de conservation maximal est de six mois) à compter de leur dépôt sur votre terminal. A l’expiration de ce délai (ou si vous avez supprimé manuellement vos cookies), votre consentement pour le dépôt et/ou la lecture de cookies sera à nouveau requis.
+Les cookies sont conservés pour une durée maximale de treize mois à compter de leur dépôt sur votre terminal. A l’expiration de ce délai (ou si vous avez supprimé manuellement vos cookies), votre consentement pour le dépôt et/ou la lecture de cookies sera à nouveau requis.
 
   
 
+### LES COOKIES FONCTIONNELS :
+
 Certains cookies sont indispensables au bon fonctionnement du site. Sans eux, vous ne seriez pas en mesure de naviguer sur le site ou ne pourriez pas utiliser certaines de ses fonctions. Ces cookies étant indispensables, ils ne peuvent pas être désactivés.
 
-Exemple
-
-Lors de votre identification sur un site, si vous cochez la case « Rester connecté », votre session restera active pendant 90 jours ou jusqu’à déconnexion de votre part (même après fermeture du navigateur ou arrêt de l’ordinateur). Vous avez ainsi accès à votre compte en ligne et/ou à votre messagerie sans vous identifier à chaque fois. Cette opération s’applique uniquement à cet ordinateur. Par conséquent, vous pouvez par exemple rester connecté sur l’ordinateur de votre domicile, mais maintenir une protection complète par mot de passe sur l’ordinateur de votre école ou de votre bureau**.**
+Par exemple, lors de votre identification, si vous cochez la case « Rester connecté », votre session restera active pendant 90 jours ou jusqu’à déconnexion de votre part (même après fermeture du navigateur ou arrêt de l’ordinateur). Vous avez ainsi accès à votre compte en ligne et/ou à votre messagerie sans vous identifier à chaque fois. Cette opération s’applique uniquement à cet ordinateur. Par conséquent, vous pouvez par exemple rester connecté sur l’ordinateur de votre domicile, mais maintenir une protection complète par mot de passe sur l’ordinateur de votre école ou de votre bureau.
 
 Attention, si vous utilisez un ordinateur public ou que vous partagez cet ordinateur avec d’autres utilisateurs, nous vous recommandons de ne pas cocher cette case.
 
-Cas particulier : Cookie Réseaux sociaux
+Cas particulier : Cookie Réseaux sociaux.
 
 Sur certaines pages de notre site, vous pourrez retrouver des boutons ou modules de réseaux sociaux tiers à NextRadioTV. Ils vous permettent d'exploiter les fonctionnalités de ces réseaux et en particulier de partager des contenus présents sur NextRadioTV avec d'autres utilisateurs de ces réseaux. Lorsque vous vous rendez sur une page internet sur laquelle se trouve un de ces boutons ou modules, votre navigateur est susceptible d’envoyer des informations au réseau social qui peut alors associer cette visualisation à votre profil. Des cookies des réseaux sociaux, dont NextRadioTV n'a pas la maîtrise, peuvent être alors être déposés dans votre navigateur par ces réseaux. Nous vous invitons à consulter les politiques de confidentialité propres à chacun de ces réseaux sociaux, afin de prendre connaissance des finalités d'utilisation des informations de navigation qu’ils peuvent recueillir grâce à ces boutons et modules.
 
   
+
+### LES COOKIES STATISTIQUES :
 
 Les cookies statistiques nous permettent d’établir des statistiques de fréquentation et mesures de performances pour le compte de NEXTRADIOTV, d’analyser comment vous utilisez le site WEB et surveiller la performance et le bon fonctionnement de notre site.
 
@@ -179,20 +179,23 @@ Ils sont pour vous un gage de haute qualité grâce à la détection rapide des 
 
 Ils nous permettent également de connaître quelles sont les pages les plus visitées et quels sont les parcours les plus efficaces sur notre site pour vous proposer toujours la meilleure expérience.
 
-Nous utilisons également la solution d'"AT Internet" pour mesurer l'audience de nos sites et applications. La solution utilisée est exemptée de consentement. Vous pouvez toutefois vous y opposer en cliquant [ici](#opt_out). Ce refus entraînera le dépôt d'un traceur signalant votre opposition et empêchant la collecte de données. Ce traceur sera conservé sur votre navigateur et votre terminal pendant une durée de 13 mois.
-
+Nous utilisons le traceur "AT Internet" pour mesurer l'audience de nos sites et applications. Pour vous opposer au dépôt de ce traceur vous pouvez cliquer [ici](#opt_out). Ce refus du dépôt du traceur AT Internet exempté de consentement entraînera le dépôt d'un traceur signalant votre opposition et empêchant la collecte de données. Ce traceur sera conservé sur votre navigateur et votre terminal pendant une durée de 13 mois.  
   
 
-Ces cookies permettent de vous faciliter l’accès à nos services et aux rubriques de nos sites, et de personnaliser votre navigation sur nos sites (personnalisation des contenus, des offres et services qui vous sont poussés sur nos sites). Ils nous permettent également de personnaliser les messages que nous vous envoyons directement sur le site, lors de communications par e-mails, ou notifications.
+### LES COOKIES DE PERSONNALISATION :
+
+Ces cookies permettent de vous faciliter l’accès à nos services et aux rubriques de nos sites, et de personnaliser votre navigation sur nos sites (personnalisation des contenus, des offres et services qui vous sont poussés sur nos sites). Ils nous permettent également de personnaliser les messages que nous vous envoyons directement sur le site ou lors de communications par e-mails.
 
 Votre historique de navigation tient compte à la fois :
 
-* Des pages que vous avez visitées sur le site
-* Des thématiques consultées ainsi que de leur fréquence de consultation
+Des pages que vous avez visitées sur le site
 
-Votre historique de navigation est associé à un cookie « personnalisation » enregistré dans votre navigateur.
+Des thématiques consultées ainsi que de leur fréquence de consultation
 
+Votre historique de navigation est associé à un cookie « personnalisation » enregistré dans votre navigateur.  
   
+
+### LES COOKIES DE PUBLICITES CIBLEES :
 
 Ces cookies permettent de vous présenter, avec votre accord, sur notre site ou en dehors de notre site, des publicités adaptées à votre navigation et à vos données et de réaliser des statistiques de suivi. Ces cookies peuvent être utilisés pour des publicités NextRadioTV ou celles d’autres annonceurs. Vous avez la possibilité de paramétrer ou refuser l’utilisation des cookies NextRadioTV via l’interface accessible directement dans le bandeau Cookie. Vous continuerez alors à recevoir des publicités mais ces dernières ne seront pas personnalisées en fonction de vos centres d’intérêts.
 
@@ -200,92 +203,28 @@ Des sociétés partenaires (gérant des serveurs de publicité ou des réseaux d
 
   
 
-**Gérer Utiq**[](#utiq)
+**Contrôle des cookies de publicité ciblée auprès de Youronlinechoices**
 
-Pour retirer votre consentement à l'activation d'Utiq uniquement sur ce site, cliquez sur ce lien : [Retirer le consentement Utiq](#utiqOut).
+Le site [Youronlinechoices](https://www.youronlinechoices.com/fr/), proposé par les professionnels de la publicité digitale regroupés au sein de l'association européenne EDAA (European Digital Advertising Alliance) est géré en France par l'Interactive Advertising Bureau France. Cette plate-forme européenne partagée par de nombreux professionnels de la publicité sur Internet vous offre la possibilité de refuser ou d'accepter les cookies publicitaires utilisés par ces entreprises.  
 
-Pour consulter et gérer tous les consentements Utiq que vous avez donné jusqu'à présent, accédez au **[consenthub](https://consenthub.utiq.com/)** d'Utiq.
+Cookies et technologies similaires de traçage utilisés par notre partenaire Gravity Alliance Data Media
 
-  
+Les sites internet de NEXTRADIOTV sont membres de l’Alliance Gravity Data Media (ci-après « Gravity »).
 
-**À propos de la technologie Utiq**
-
-La technologie Utiq est fournie par Utiq SA/NV, une société européenne d'Adtech, en collaboration avec des opérateurs télécoms qui l'alimentent. Nous utilisons cette technologie pour réaliser nos activités de marketing digital.
-
-Cette technologie n'est pas activée par défaut et nécessite votre consentement pour l'être. Elle ne peut être activée à votre égard que si vous être également client d'un des opérateurs télécom partenaires d'Utiq.
-
-Pour plus d'informations, veuillez consulter la **[Politique relative à l'utilisation des données personnelles d'Utiq.](https://consenthub.utiq.com/pages/privacy-statement)**
-
-**Notre utilisation de la technologie Utiq**
-
-Nous utilisons la technologie Utiq sur ce site web. Si vous consentez à son activation, nous l'utiliserons pour vous reconnaître en tant que même visiteur et collecter des informations sur votre navigation sur ce site web afin de vous offrir du contenu et de la publicité personnalisés et de réaliser des analyses, dans le respect des consentements que vous nous avez donnés.
-
-Nous agissons en tant que responsables de traitement conjoints avec Utiq pour les traitements de vos données effectuées dans le cadre de certaines finalités. Dans le cadre de notre accord de responsables conjoints :
-
-* Nous collectons votre consentement à l'activation de la technologie Utiq, qui inclut les traitements de données effectués par Utiq et votre opérateur télécom en vue de cette activation.
-* Nous vous offrons un lien dédié en bas de ce site web pour vous fournir des informations sur cette technologie et les contrôles qui vous sont offerts.
-* Utiq met à votre disposition un portail (**[consenthub)](https://consenthub.utiq.com/)** pour faciliter l’exercice de vos droits en matière de protection des données et vous permettre de gérer facilement vos choix de consentements Utiq, à tout moment, en un seul endroit.
-* Ainsi même si vous pouvez exercer vos droits à l'égard de l'un des responsables de traitement, Utiq demeure le point de contact principal pour toute question ou demande que vous pourriez avoir en relation avec la technologie Utiq.
-
-**En savoir plus sur l'utilisation de la technologie Utiq sur nos sites web**
-
-Les identifiants Utiq peuvent être utilisés pour vous reconnaître en tant que même visiteur et utiliser votre historique de navigation sur chaque site web que nous, NextRadioTV, opérons, et pour lesquels vous avez également donné votre consentement à l'activation de la technologie Utiq. Techniquement, cela signifie que tous les sites web ci-dessous pour lesquels vous avez donné votre consentement à son activation recevront un même identifiant Utiq et votre activité sur ces sites sera liée à ce même identifiant.
-
-Nous intégrons la technologie Utiq sur les sites avec les noms de domaine suivants :
-
-* bfmtv.com
-* rmcbfmplay.com
-
-**En savoir plus sur les opérateurs télécoms partenaires d’Utiq**
-
-Veuillez trouver ci-dessous la liste des opérateurs télécom partenaires d'Utiq, par pays.
-
-La technologie Utiq ne peut être utilisée que si vous êtes client de l’un de ces opérateurs télécoms. Si ce n’est pas le cas, la technologie Utiq ne pourra pas être activée à votre égard.
-
-France:
-
-* **[Bouygues Telecom](https://www.corporate.bouyguestelecom.fr/mentions-legales/politique-de-confidentialite/#qui-sont-les-destinataires-de-vos-donnees)**
-* **[Orange](https://c.orange.fr/pages-juridiques/donnees-personnelles.html#offres_services_specifiques)**
-* **[SFR](https://www.sfr.fr/politique-de-protection-des-donnees-personnelles.html)**
-
-Espagne:
-
-* **[Jazztel](https://www.orange.es/utiq)**
-* **[Movistar](https://www.movistar.es/Microsites/centro-transparencia/utiq.html)**
-* **[Orange](https://www.orange.es/utiq)**
-* **[Simyo](https://www.orange.es/utiq)**
-
-Allemagne:
-
-* **[Congstar](https://www.congstar.de/datenschutz/)**
-* **[Deutsche Telekom](https://www.telekom.de/ueber-das-unternehmen/datenschutz)**
-* **[Fraenk](https://fraenk.de/datenschutz/)**
-* **[Vodafone](https://www.vodafone.de/unternehmen/soziale-verantwortung/datenschutz-online.html)**
-
-Vous pouvez également visiter la page dédiée de votre opérateur pour en savoir plus sur son rôle, en cliquant sur son nom ci-dessus.
-
-**FirstID**
-
-Lors de votre navigation sur les sites Nextradio TV, sous réserve de consentement, nous pouvons utiliser un identifiant personnalisé afin d’améliorer votre expérience de navigation sur le site, aussi bien pour la personnalisation du contenu que des publicités ciblées. Cet identifiant unique est stocké dans un cookie et est réglementé par les consentements donnés sur les sites d’un réseau d’éditeurs et fournisseurs AdTech, également à des fins de suivi de fonctionnement de l’ID, généré par la société First-ID (co-responsable de traitement). Cet identifiant ne permet pas de vous identifier directement, mais permet de suivre votre navigation afin de mieux vous connaître. Pour en savoir plus, consultez la politique de confidentialité First-ID : **[https://www.first-id.fr/politique-de-confidentialite](https://www.first-id.fr/politique-de-confidentialite)**. Vous pouvez consulter votre identifiant sur la page : **[whatismy.first-id.fr](https://whatismy.first-id.fr/)** et vous opposer au traitement.
-
-  
-**Youronlinechoices**
-
-Le site **[Youronlinechoices](https://www.youronlinechoices.com/fr/)**, proposé par les professionnels de la publicité digitale regroupés au sein de l'association européenne EDAA (European Digital Advertising Alliance) est géré en France par l'Interactive Advertising Bureau France. Cette plate-forme européenne partagée par de nombreux professionnels de la publicité sur Internet vous offre la possibilité de refuser ou d'accepter les cookies publicitaires utilisés par ces entreprises.
-
-**Gravity Alliance Data Media**
-
-Les sites internet de NEXTRADIOTV sont membres de l’Alliance Gravity Data Media (ci-après « Gravity »). **[En savoir plus sur l'Alliance Gravity](https://www.alliancegravity.com/politiquedeprotectiondesdonneespersonnelles/)**
+[En savoir plus sur l'Alliance Gravity](https://www.alliancegravity.com/politiquedeprotectiondesdonneespersonnelles/)
 
 Afin que les annonces apparaissant sur notre Site, les Sites des Membres d’Alliance Gravity Data Media ou d’autres sites, soient les plus pertinentes possible, Gravity Alliance Data Media collecte, rapproche et analyse des informations pseudonymes issues de votre navigation sur les sites des Membre d’Alliance Gravity Data Media (activités en ligne, visites, pages vues, liens et publicités vues…) ou sur des applications mobiles éditées par les Membres d’Alliance Gravity Data Media et des partenaires, à l’aide d’une ligne de code insérée dans les pages que vous visitez (Tag Gravity opéré par la société mediarithmics). Le Tag Gravity permet également de limiter le nombre de fois que vous voyez une publicité sur notre Site, les Sites des Membres de l’Alliance Gravity Data Media ou d’autres sites et de mesurer l'efficacité d'une campagne publicitaire.
 
-**_En savoir plus sur les sites sur lesquels le tag Gravity est placé et les partenaires de l’Alliance Gravity Data Media_**
+Pour en savoir plus sur les sites sur lesquels le tag Gravity est placé et les partenaires de l’Alliance Gravity Data Media
 
 Alliance Gravity Data Media participe et fait appel à des services d’échanges basés sur les identifiants marketing pseudonymes contenus dans les cookies (« cookie matching ») avec des tiers, régies publicitaires ou services d’analyse, dont notamment la société Mediarithmics. Ces échanges de cookies permettent ainsi
 
-\- à Gravity d’enrichir les profils des utilisateurs à partir de données détenues par d’autres personnes que les Membres Gravity ou Gravity, et réciproquement.
+  
 
-\- aux clients des partenaires proposant ces services d’échanges de cookies d’enrichir les profils des utilisateurs à partir de données détenues par les Membres Gravity ou Gravity, à des fins de ciblage publicitaire. Les conventions conclues avec ces tiers proposant des services d’échanges de cookies prévoient que ces échanges ne peuvent être utilisés qu’à des fins de ciblage publicitaire.
+* à Gravity d’enrichir les profils des utilisateurs à partir de données détenues par d’autres personnes que les Membres Gravity ou Gravity, et réciproquement
+* aux clients des partenaires proposant ces services d’échanges de cookies d’enrichir les profils des utilisateurs à partir de données détenues par les Membres Gravity ou Gravity, à des fins de ciblage publicitaire. Les conventions conclues avec ces tiers proposant des services d’échanges de cookies prévoient que ces échanges ne peuvent être utilisés qu’à des fins de ciblage publicitaire.
+
+  
 
 Le Tag Gravity permet également de limiter le nombre de fois que vous voyez une publicité sur notre Site, les Sites des Membres de l’Alliance Gravity data Media ou d’autres sites et de mesurer l'efficacité d'une campagne publicitaire.
 
@@ -293,97 +232,108 @@ Ces collectes et associations sont effectuées dans des conditions permettant d�
 
 De plus, afin d’éviter toute utilisation non contrôlée des données de navigation, les données collectées via le Tag Gravity ne sont transmises que sur les pages utilisant un protocole sécurisé.
 
-**_Durée d’utilisation des cookies Gravity et des données pseudonymes recueillies et associées par l’Alliance Gravity Data Media_**
+Durée d’utilisation des cookies Gravity et des données pseudonymes recueillies et associées par l’Alliance Gravity Data Media Les données pseudonymes recueillies via le Tag Gravity sont conservées par l’Alliance Gravity Data Media pour un maximum de 12 mois à partir de la date de la collecte. Les cookies Gravity expirent 12 mois après leur dépôt.
 
-Les données pseudonymes recueillies via le Tag Gravity sont conservées par l’Alliance Gravity Data Media pour un maximum de 12 mois à partir de la date de la collecte. Les cookies Gravity expirent 12 mois après leur dépôt.
-
-**[En savoir plus sur l’affichage des publicités et la désactivation de la réception de publicités personnalisées servies par l’intermédiaire de l’Alliance Gravity Data Media](https://www.alliancegravity.com/politiquedeprotectiondesdonneespersonnelles/#opt-out)**
+[En savoir plus sur l’affichage des publicités et la désactivation de la réception de publicités personnalisées servies par l’intermédiaire de l’Alliance Gravity Data Media](https://www.alliancegravity.com/politiquedeprotectiondesdonneespersonnelles/#opt-out)
 
   
 
-**AUTRES COOKIES :**
+---
 
-1PlusX (Publicité ciblée)
+Gérez votre Service Utiq
+------------------------
 
-**[Cliquez ici](https://www.1plusx.com/privacy-policy)**
+Pour retirer votre consentement Utiq uniquement sur ce site, cliquez sur [Retirer le consentement Utiq](#utiqOut) .
 
-Adjust (Analyse statistique)
+Pour consulter et gérer tous vos consentements Utiq, y compris les retirer tous en une seule fois ou individuellement par chaque site partenaire , ou désactiver ou empêcher l'activation du service, accédez au **[consenthub](https://consenthub.utiq.com/)** d'Utiq.
 
-**[Cliquez ici](https://www.adjust.com/terms/privacy-policy/)**
+Si vous avez retiré votre consentement mais souhaitez à nouveau utiliser le Service Utiq, cliquez sur [Pop-Up Consentement Utiq](#utiqShow) .
 
-Adswizz (Publicité ciblée)
+  
 
-**[Cliquez ici](https://www.adswizz.com/cookie-policy/)**
+**À propos du Service Utiq**
 
-Batch (notifications web et app)
+Le Service Utiq vous offre un contrôle accru et une transparence sur l'utilisation de vos données lorsque vous activez une expérience personnalisée ou des analyses sur les sites partenaires d'Utiq.
 
-**[Cliquez ici](https://careers.batch.com/privacy-policy)**
+Dans le cadre du service Utiq, vous avez accès à un portail centralisé en libre-service, appelé **[consenthub](https://consenthub.utiq.com/)** d'Utiq, qui vous permet de gérer tous vos choix de Service Utiq et vos consentements Utiq ainsi que d’exercer vos droits en matière de protection des données. À tout moment. En un seul endroit.Utiq est un service facultatif. Cela signifie qu'il n'est pas activé par défaut et qu'il est uniquement activé lorsque vous donnez votre consentement sur un site participant via la fenêtre pop-up de consentement Utiq dédiée. En savoir plus sur le service Utiq sur **[consenthub](https://consenthub.utiq.com/)**.
 
-BeOp (Interactivité)
+  
 
-**[Cliquez ici](https://beop.io/fr/privacy-policy/#:~:text=Le%20cookie%2C%20pos%C3%A9%20sur%20le,d'oubli%20de%20cette%20donn%C3%A9e.)**
+**À propos de notre partenariat avec Utiq**
 
-Brightcove (Usage du site)
+Le Service Utiq est opéré par Utiq SA/NV et fourni en partenariat avec votre opérateur téléphonique et des sites partenaires comme le nôtre.Nous sommes des responsables conjoints avec Utiq pour fournir le Service Utiq. Dans le cadre de notre accord de responsables conjoints:
 
-**[Cliquez ici](https://www.brightcove.com/en/legal/brightcove-privacy-policies/)**
+* Le traitement lié au Service Utiq est basé sur le consentement que nous recueillons pour le compte de l’écosystème Utiq sur nos sites Web où nous intégrons le Service Utiq.
+* Pour les sites Web où nous intégrons le Service Utiq, vous aurez accès à un lien dédié dans le pied de page pour vous fournir des informations sur le service, comment le gérer et vous informer de notre partenariat avec Utiq.
+* Utiq met à votre disposition un portail de confidentialité centralisé (**[consenthub](https://consenthub.utiq.com/)**) pour faciliter l’exercice de vos droits en matière de protection des données et vous permettre de gérer facilement vos consentements Utiq et vos préférences de confidentialité du Service Utiq. À tout moment. En un seul endroit.
+* Nonobstant le fait que vous pouvez exercer vos droits à l’égard de l’un des contrôleurs, Utiq agit en tant que point de contact commun pour toute question ou demande que vous pourriez avoir en relation avec le Service Utiq.
 
-Chartbeat (Analyse statistique)
+Si vous avez donné votre consentement pour activer le Service Utiq lors de votre première visite sur notre site, Utiq ne partagera avec nous que deux signaux sécurisés publicitaires. Ils sont appelés **martechpass** et **adtechpass**, ce sont des valeurs aléatoires générées par Utiq qui, sans révéler votre identité, nous permettent de vous reconnaître comme le même visiteur. Nous les utiliserons ensuite pour vous fournir du contenu personnalisé, de la publicité ou réaliser des analyses, en fonction des finalités pour lesquelles vous nous avez donné votre consentement.
 
-**[Cliquez ici](https://static.chartbeat.com/opt-out.html)**
+Le **martechpass** et **adtechpass** expirent respectivement après 90 jours ou 24 heures et sont stockées sur votre navigateur avec les cookies associés.Vous pouvez trouver plus d'informations sur le service Utiq dans le **[consenthub](https://consenthub.utiq.com/)** d'Utiq ou dans **[la Déclaration de confidentialité d'Utiq](https://consenthub.utiq.com/pages/privacy-statement)**.
 
-Commanders Act (Usage du site)
+AUTRES PARTENAIRES
+------------------
 
-**[Cliquez ici](https://www.commandersact.com/fr/vie-privee/)**
-
-Equativ (Publicité ciblée)
-
-**[Cliquez ici](https://smartadserver.fr/politique-confidentialite-client-final/)**
-
-eStat Médiamétrie (Analyse statistique)
-
-**[Cliquez ici](https://www.mediametrie.fr/en/personal-data-mediametrie)**
+Pour les acteurs qui ne sont pas membres des initiatives précitées, vous trouverez ci-dessous les liens d'oppositions :
 
 Facebook (Réseaux sociaux)
 
-**[Cliquez ici](https://www.facebook.com/help/cookies/)**
+[Cliquez ici](https://www.facebook.com/help/cookies/)
 
-Freewheel (Publicité ciblée)
+AT Internet (Analyse statistique)
 
-**[Cliquez ici](https://freewheel.com/privacy-policy-fr#cookie-look-like)**
+[Cliquez ici](http://www.atinternet.com/politique-du-respect-de-la-vie-privee/)
 
-Google Firebase (Usage du site)
+Eulerian (Analyse statistique / Personnalisation)
 
-**[Cliquez ici](https://firebase.google.com/support/privacy?hl=fr)**
-
-IAS (Analyse statistique)
-
-**[Cliquez ici](https://integralads.com/fr/politique-confidentialite/)**
-
-Iris (Personnalisation)
-
-**[Cliquez ici](https://iristv.atlassian.net/wiki/spaces/API/pages/266305537/IRIS.TV+Privacy+Policy#IRIS.TVPrivacyPolicy-YourRightsandChoices)**
-
-Mediamétrie (Analyse statistique)
-
-**[Cliquez ici](https://www.mediametrie.fr/fr/gestion-des-cookies)**
+[Cliquez ici](http://di8n.bfmtv.com/optout.html?url=https://www.bfmtv.com/)
 
 Outbrain (Publicité ciblée)
 
-**[Cliquez ici](http://www.outbrain.fr/legal/privacy-713/#Four)**
+[Cliquez ici](http://www.outbrain.fr/legal/privacy-713/#Four)
 
-Piano Analytics (Analyse statistique)
+Smart Adserver (Publicité ciblée)
 
-**[Cliquez ici](http://www.atinternet.com/politique-du-respect-de-la-vie-privee/)**
+[Cliquez ici](https://smartadserver.fr/politique-confidentialite-client-final/)
 
-SimpleCast (Usage du site)
+Alliance Gravity (Publicité ciblée)
 
-**[Cliquez ici](https://www.simplecast.com/privacy#:~:text=Simplecast%20will%20not%20use%20the,services%20and%20advertisements%20to%20users.)**
+[Cliquez ici](https://www.alliancegravity.com/politiquedeprotectiondesdonneespersonnelles/#opt-out)
+
+Mediamétrie (Analyse statistique)
+
+[Cliquez ici](https://www.mediametrie.fr/fr/gestion-des-cookies)
+
+Chartbeat (Analyse statistique)
+
+[Cliquez ici](https://static.chartbeat.com/opt-out.html)
+
+Brightcove (Usage du site)
+
+[Cliquez ici](https://www.brightcove.com/en/legal/services-privacy-policy)
+
+Iris (Personnalisation)
+
+[Cliquez ici](https://iristv.atlassian.net/wiki/spaces/API/pages/266305537/IRIS.TV+Privacy+Policy#IRIS.TVPrivacyPolicy-YourRightsandChoices)
+
+IAS (Analyse statistique)
+
+[Cliquez ici](https://integralads.com/fr/politique-confidentialite/)
+
+Freewheel (Publicité ciblée)
+
+[Cliquez ici](https://freewheel.com/privacy-policy-fr#cookie-look-like)
+
+Adswizz (Publicité ciblée)
+
+[Cliquez ici](https://www.adswizz.com/cookie-policy/)
 
   
 
-_La liste ci-dessus n’est pas une liste exhaustive car elle ne comprend pas les cookies déposés par des tiers dans le cadre de la publicité issue d’achats programmatiques (enchères en temps réel ou real time bidding « RTB »). En effet, l’identification du dépôt de cookies dans ce cadre ne peut techniquement être constatée qu’à postériori du dépôt et uniquement pendant la durée de vie de la campagne programmatique._
+La liste ci-dessus n’est pas une liste exhaustive car elle ne comprend pas les cookies déposés par des tiers dans le cadre de la publicité issue d’achats programmatiques (enchères en temps réel ou real time bidding « RTB »). En effet, l’identification du dépôt de cookies dans ce cadre ne peut techniquement être constatée qu’à postériori du dépôt et uniquement pendant la durée de vie de la campagne programmatique.
 
-**Date de dernière mise à jour : Mai 2024**
+  
 
 * [BFMTV](https://www.bfmtv.com/ "BFMTV")
 * Cookies
@@ -391,15 +341,17 @@ _La liste ci-dessus n’est pas une liste exhaustive car elle ne comprend pas le
 Les plus lus
 ------------
 
-1. [![Le jeune Émile, 2 ans et demi, disparu le 8 juillet dans le village du Haut-Vernet (Alpes-de-Haute-Provence)](https://images.bfmtv.com/fwTNccQOfQF10I6HMTfIo-GumYA=/108x156:1196x768/300x0/images/Le-jeune-Emile-2-ans-et-demi-disparu-le-8-juillet-dans-le-village-du-Haut-Vernet-Alpes-de-Haute-Provence-1696189.jpg)
+1. [![Le chanteur français Kendji Maille alias 'Kendji Girac' pose sur le tapis rouge avant la 23ème cérémonie des NRJ Music Awards le 20 novembre 2021.
+    ](https://images.bfmtv.com/nHYaigkWi_ne_Y-pmJ8lTYn0KIQ=/0x50:1824x1076/300x0/images/Le-chanteur-francais-Kendji-Maille-alias-Kendji-Girac-pose-sur-le-tapis-rouge-avant-la-23eme-ceremonie-des-NRJ-Music-Awards-le-20-novembre-2021-1848985.jpg)
     
-    ![Le jeune Émile, 2 ans et demi, disparu le 8 juillet dans le village du Haut-Vernet (Alpes-de-Haute-Provence)](https://images.bfmtv.com/fwTNccQOfQF10I6HMTfIo-GumYA=/108x156:1196x768/300x0/images/Le-jeune-Emile-2-ans-et-demi-disparu-le-8-juillet-dans-le-village-du-Haut-Vernet-Alpes-de-Haute-Provence-1696189.jpg)
+    ![Le chanteur français Kendji Maille alias 'Kendji Girac' pose sur le tapis rouge avant la 23ème cérémonie des NRJ Music Awards le 20 novembre 2021.
+    ](https://images.bfmtv.com/nHYaigkWi_ne_Y-pmJ8lTYn0KIQ=/0x50:1824x1076/300x0/images/Le-chanteur-francais-Kendji-Maille-alias-Kendji-Girac-pose-sur-le-tapis-rouge-avant-la-23eme-ceremonie-des-NRJ-Music-Awards-le-20-novembre-2021-1848985.jpg)
     
-    ### Mort d’Émile: deux mois après la découverte des ossements, l’insoutenable attente du Haut-Vernet](https://www.bfmtv.com/bfm-dici/mort-d-emile-deux-mois-apres-la-decouverte-des-ossements-l-insoutenable-attente-du-haut-vernet_AN-202406070898.html "Mort d’Émile: deux mois après la découverte des ossements, l’insoutenable attente du Haut-Vernet")
-2. [### Tombe du Soldat inconnu, dîner à l'Élysée... Le programme de la visite d'État de Joe Biden en France](https://www.bfmtv.com/international/amerique-nord/etats-unis/tombe-du-soldat-inconnu-diner-a-l-elysee-le-programme-de-la-visite-d-etat-de-joe-biden-en-france_AN-202406080053.html "Tombe du Soldat inconnu, dîner à l'Élysée... Le programme de la visite d'État de Joe Biden en France")
-3. [### Neuf ans, études à distance... Qui est cette candidate strasbourgeoise, la plus jeune à passer le bac en 2024?](https://www.bfmtv.com/alsace/neuf-ans-etudes-a-distance-qui-est-cette-candidate-strasbourgeoise-la-plus-jeune-a-passer-le-bac-en-2024_AD-202406070869.html "Neuf ans, études à distance... Qui est cette candidate strasbourgeoise, la plus jeune à passer le bac en 2024?")
-4. [### Peut-on faire confiance aux influenceurs food? Dans les coulisses de la recommandation de restaurants](https://www.bfmtv.com/tech/actualites/reseaux-sociaux/peut-on-faire-confiance-aux-influenceurs-food-dans-les-coulisses-de-la-recommandation-de-restaurants_AN-202406080052.html "Peut-on faire confiance aux influenceurs food? Dans les coulisses de la recommandation de restaurants")
-5. [### "Je ne veux plus jamais entendre la moindre question à ce sujet": la réponse froide de Zverev sur la fin de son procès pour violences conjugales](https://rmcsport.bfmtv.com/tennis/roland-garros/je-ne-veux-plus-jamais-entendre-la-moindre-question-a-ce-sujet-la-reponse-froide-de-zverev-sur-la-fin-de-son-proces-pour-violences-conjugales_AV-202406070936.html ""Je ne veux plus jamais entendre la moindre question à ce sujet": la réponse froide de Zverev sur la fin de son procès pour violences conjugales")
+    ### Kendji Girac hospitalisé à Bordeaux: ce que l'on sait sur sa grave blessure par balle](https://www.bfmtv.com/police-justice/kendji-girac-hospitalise-a-bordeaux-ce-que-l-on-sait-sur-sa-grave-blessure-par-balle_AV-202404220326.html "Kendji Girac hospitalisé à Bordeaux: ce que l'on sait sur sa grave blessure par balle")
+2. [### "Pourquoi ne pas protéger l'espace aérien ukrainien?": Zelensky s'interroge après l'aide de la France en Israël](https://www.bfmtv.com/international/europe/ukraine/pourquoi-ne-pas-proteger-l-espace-aerien-ukrainien-zelensky-s-interroge-apres-l-aide-de-la-france-en-israel_AN-202404220341.html ""Pourquoi ne pas protéger l'espace aérien ukrainien?": Zelensky s'interroge après l'aide de la France en Israël")
+3. [### Donald Trump jugé au pénal: à quoi faut-il s'attendre après la sélection des jurés?](https://www.bfmtv.com/international/amerique-nord/etats-unis/donald-trump-juge-au-penal-a-quoi-faut-il-s-attendre-apres-la-selection-des-jures_AD-202404220304.html "Donald Trump jugé au pénal: à quoi faut-il s'attendre après la sélection des jurés?")
+4. [### Lieu, date, heure… sur Tinder, vous pouvez prévenir votre entourage de votre rendez-vous](https://www.bfmtv.com/tech/vie-numerique/lieu-date-heure-sur-tinder-vous-pouvez-prevenir-votre-entourage-de-votre-rendez-vous_AV-202404220446.html "Lieu, date, heure… sur Tinder, vous pouvez prévenir votre entourage de votre rendez-vous")
+5. [### MMA: la date du grand retour de Doumbè est connue (son adversaire également)](https://rmcsport.bfmtv.com/sports-de-combat/mma/pfl-bellator/mma-la-date-du-grand-retour-de-doumbe-est-connue-son-adversaire-egalement_AD-202404220310.html "MMA: la date du grand retour de Doumbè est connue (son adversaire également)")
 
 ![BFMTV](/assets/v5/images/BFMTV.848c19e09c92f3ced2163a1a0399be11.svg "BFMTV")
 
@@ -451,7 +403,6 @@ en savoir plus
 * [Mentions légales](https://www.bfmtv.com/mentions-legales/ "Mentions légales")
 * [Données personnelles](https://www.bfmtv.com/politique-donnees-personnelles/ "Données personnelles")
 * [Cookies](https://www.bfmtv.com/cookies/ "Cookies")
-* [Gérer Utiq](https://www.bfmtv.com/cookies#utiq "Gérer Utiq")
 * [CGU](https://www.bfmtv.com/cgu/ "CGU")
 * [Charte de déontologie](https://www.bfmtv.com/charte-deontologie/ "Charte de déontologie")
 
