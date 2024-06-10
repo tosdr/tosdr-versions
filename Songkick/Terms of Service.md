@@ -3,30 +3,30 @@
         
         [London concerts](https://www.songkick.com/metro-areas/24426-uk-london) [London concerts](https://www.songkick.com/metro-areas/24426-uk-london "London concerts")
         
+        *  [![The Affray live](//assets.sk-static.com/images/default_images/thumb/default-artist.png) The Affray  
+            Signature Brew - Haggerston](https://www.songkick.com/concerts/41968667-affray-at-signature-brew-haggerston)
         *  [![Jon Tye live](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Jon Tye  
             Total Refreshment Centre](https://www.songkick.com/concerts/41980567-jon-tye-at-total-refreshment-centre)
-        *  [![George Murphy live](//assets.sk-static.com/images/default_images/thumb/default-artist.png) George Murphy  
-            Irish Cultural Centre](https://www.songkick.com/concerts/41987615-george-murphy-at-irish-cultural-centre)
-        *  [![Secreum live](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Secreum  
-            The Black Heart](https://www.songkick.com/concerts/41967103-secreum-at-black-heart)
         *  [![Santacruz live](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Santacruz  
             Sebright Arms](https://www.songkick.com/concerts/41986954-santacruz-at-sebright-arms)
-        *  [![Rat Cage live](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Rat Cage  
-            New River Studios](https://www.songkick.com/concerts/41962732-rat-cage-at-new-river-studios)
-        *  [![Daniel Kitson live](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Daniel Kitson  
-            Union Chapel](https://www.songkick.com/concerts/41956187-daniel-kitson-at-union-chapel)
+        *  [![Secreum live](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Secreum  
+            The Black Heart](https://www.songkick.com/concerts/41967103-secreum-at-black-heart)
         *  [![white devil disco live](//assets.sk-static.com/images/default_images/thumb/default-artist.png) white devil disco  
             Paper Dress Vintage](https://www.songkick.com/concerts/41984147-white-devil-disco-at-paper-dress-vintage)
         *  [![THE SICK ROSE live](//assets.sk-static.com/images/default_images/thumb/default-artist.png) THE SICK ROSE  
             Troubadour London](https://www.songkick.com/concerts/41978696-sick-rose-at-troubadour-london)
-        *  [![The Mopes live](//assets.sk-static.com/images/default_images/thumb/default-artist.png) The Mopes  
-            Troubadour London](https://www.songkick.com/concerts/41960974-mopes-at-troubadour-london)
+        *  [![Rat Cage live](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Rat Cage  
+            New River Studios](https://www.songkick.com/concerts/41962732-rat-cage-at-new-river-studios)
         *  [![Silveroller live](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Silveroller  
             The Grace](https://www.songkick.com/concerts/41967020-silveroller-at-grace)
+        *  [![KILL, THE ICON! live](//assets.sk-static.com/images/default_images/thumb/default-artist.png) KILL, THE ICON!  
+            The Shacklewell Arms](https://www.songkick.com/concerts/41990391-kill-the-icon-at-shacklewell-arms)
+        *  [![oreglo live](//assets.sk-static.com/images/default_images/thumb/default-artist.png) oreglo  
+            The Lower Third](https://www.songkick.com/concerts/41972003-oreglo-at-lower-third)
         
         [](https://www.songkick.com/metro-areas/24426-uk-london)See all London concerts ([Change location](https://www.songkick.com/session/filter_metro_area))  
           
-        [Today ·](https://www.songkick.com/en/metro-areas/24426-uk-london?filters%5BmaxDate%5D=06%2F08%2F2024&filters%5BminDate%5D=06%2F08%2F2024#date-filter-form) [Next 7 days ·](https://www.songkick.com/en/metro-areas/24426-uk-london?filters%5BmaxDate%5D=06%2F15%2F2024&filters%5BminDate%5D=06%2F08%2F2024#date-filter-form) [Next 30 days](https://www.songkick.com/en/metro-areas/24426-uk-london?filters%5BmaxDate%5D=07%2F08%2F2024&filters%5BminDate%5D=06%2F08%2F2024#date-filter-form)
+        [Today ·](https://www.songkick.com/en/metro-areas/24426-uk-london?filters%5BmaxDate%5D=06%2F10%2F2024&filters%5BminDate%5D=06%2F10%2F2024#date-filter-form) [Next 7 days ·](https://www.songkick.com/en/metro-areas/24426-uk-london?filters%5BmaxDate%5D=06%2F17%2F2024&filters%5BminDate%5D=06%2F10%2F2024#date-filter-form) [Next 30 days](https://www.songkick.com/en/metro-areas/24426-uk-london?filters%5BmaxDate%5D=07%2F10%2F2024&filters%5BminDate%5D=06%2F10%2F2024#date-filter-form)
         
     * [Artists](https://www.songkick.com/artists)
         
@@ -39,11 +39,11 @@
         *  [![Falling In Reverse live.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Falling In Reverse](https://www.songkick.com/artists/1611290-falling-in-reverse)
         *  [![Mötley Crüe live.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Mötley Crüe](https://www.songkick.com/artists/109416-motley-crue)
         
+        *  [![Tucker Wetmore live.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Tucker Wetmore](https://www.songkick.com/artists/10322117-tucker-wetmore)
+        *  [![&TEAM live.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) &TEAM](https://www.songkick.com/artists/10338255-and-team)
         *  [![Olly Alexander (Years & Years) live.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Olly Alexander (Years & Years)](https://www.songkick.com/artists/10338257-olly-alexander-years-and-years)
         *  [![Lavern live.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Lavern](https://www.songkick.com/artists/10338064-lavern)
-        *  [![Baby Kia live.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Baby Kia](https://www.songkick.com/artists/10336878-baby-kia)
-        *  [![bellah live.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) bellah](https://www.songkick.com/artists/10336851-bellah)
-        *  [![Tommy Richman live.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Tommy Richman](https://www.songkick.com/artists/10197869-tommy-richman)
+        *  [![Daphne Rubin-vega live.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Daphne Rubin-vega](https://www.songkick.com/artists/255857-daphne-rubinvega)
         
         Get your tour dates seen by one billion fans: [Sign up as an artist](https://tourbox.songkick.com/?utm_medium=referral&utm_source=songkick.com&utm_campaign=visitor)
         
