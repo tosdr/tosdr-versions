@@ -1,33 +1,33 @@
 ![](~/media/ECG/1105Media/design/header_bg.png)
 
-[![1105 Media Your Growth Our Business](~/media/ECG/1105Media/1105medialogowhite.ashx)](https://1105media.com/home.aspx)
-========================================================================================================================
+[![1105 Media](~/media/ECG/1105Media/design/1105_logo_white.png)](https://1105media.com/home.aspx)
+==================================================================================================
 
 * [Our Brands](https://1105media.com/home.aspx#bigbrand)
     * [![](~/media/ECG/1105media/brands/adtmag.ashx)](https://1105media.com/pages/ecg.aspx#adtmag)
     * [![](~/media/ECG/1105media/brands/agency1105.ashx)](https://agency1105.com/)
     * [![](~/media/ECG/1105media/brands/aiboardroom.ashx)](https://aiboardroom.com/)
     * [![](~/media/ECG/1105media/brands/awsinsider.ashx)](https://1105media.com/pages/ecg.aspx#awsinsider)
-    * [![](~/media/ECG/1105media/brands/campussecuritytoday.ashx)](https://1105media.com/pages/ecg.aspx#campus_lifesafety)
-    * [![](~/media/ECG/1105media/brands/campustechnology.ashx)](https://1105media.com/pages/ecg.aspx#campustechnology)
-    * [![](~/media/ECG/1105media/brands/environmentalprotection.ashx)](https://1105media.com/pages/ecg.aspx#environmentalprotection)
+    * [![](~/media/ECG/1105media/brands/campussecuritytoday.ashx)](https://1105media.com/pages/shs.aspx#campus_lifesafety)
+    * [![](~/media/ECG/1105media/brands/campustechnology.ashx)](https://1105media.com/pages/edu.aspx#campustechnology)
+    * [![](~/media/ECG/1105media/brands/environmentalprotection.ashx)](https://1105media.com/pages/shs.aspx#environmentalprotection)
     * [![](~/media/ECG/1105media/brands/live360.ashx)](https://1105media.com/pages/ecg.aspx#live360)
     * [![](~/media/ECG/1105media/brands/mcpmag.ashx)](https://1105media.com/pages/ecg.aspx#mcpmag)
     * [![](~/media/ECG/1105media/brands/medcloud.ashx)](https://medcloudinsider.com/Home.aspx)
-    * [![](~/media/ECG/1105media/brands/occupationalhealth.ashx)](https://1105media.com/pages/ecg.aspx#occupationalhealth)
+    * [![](~/media/ECG/1105media/brands/occupationalhealth.ashx)](https://1105media.com/pages/shs.aspx#occupationalhealth)
     * [![](~/media/ECG/1105media/brands/pureai.ashx)](https://1105media.com/pages/ecg.aspx#pureai)
     * [![](~/media/ECG/1105media/brands/redmondchannelpartner.ashx)](https://1105media.com/pages/ecg.aspx#redmondchannelpartner)
     * [![](~/media/ECG/1105media/brands/redmondmag.ashx)](https://1105media.com/pages/ecg.aspx#redmondmag)
-    * [![](~/media/ECG/1105media/brands/securitytoday.ashx)](https://1105media.com/pages/ecg.aspx#securitytoday)
-    * [![](~/media/ECG/1105media/brands/spaces4learning.ashx)](https://1105media.com/pages/ecg.aspx#spaceslearning)
+    * [![](~/media/ECG/1105media/brands/securitytoday.ashx)](https://1105media.com/pages/shs.aspx#securitytoday)
+    * [![](~/media/ECG/1105media/brands/spaces4learning.ashx)](https://1105media.com/pages/edu.aspx#spaceslearning)
     * [![](~/media/ECG/1105media/brands/tdwi.ashx)](https://tdwi.org/)
     * [![](~/media/ECG/1105media/brands/techmentorevents.ashx)](https://1105media.com/pages/ecg.aspx#techmentorevents)
-    * [![](~/media/ECG/1105media/brands/thejournal.ashx)](https://1105media.com/pages/ecg.aspx#thejournal)
+    * [![](~/media/ECG/1105media/brands/thejournal.ashx)](https://1105media.com/pages/edu.aspx#thejournal)
     * [![](~/media/ECG/1105media/brands/virtualizationreview.ashx)](https://1105media.com/pages/ecg.aspx#virtualizationreview)
     * [![](~/media/ECG/1105media/brands/visualstudiolive.ashx)](https://1105media.com/pages/ecg.aspx#visualstudiolive)
     * [![](~/media/ECG/1105media/brands/visualstudiomagazine.ashx)](https://1105media.com/pages/ecg.aspx#visualstudiomagazine)
 * [Marketing Services](https://agency1105.com/Home.aspx)
-* [AI Solutions](https://1105media.com/Pages/AI-Solutions.aspx)
+* [Virtual Event Services](https://1105media.com/Pages/Virtual-Events.aspx)
 * [About Us](javascript:void(0);)
     * [Groups](javascript:void(0);)
         * [Converge360](https://1105media.com/Pages/ECG.aspx)
@@ -57,7 +57,7 @@
 
   
 
-[![](~/media/ECG/shared/img/socialmedia/linkedin_light.ashx)](https://www.linkedin.com/company/1105-media)
+[![](~/media/ECG/1105Media/design/icon_linkedin_white_top.png)](https://www.linkedin.com/company/1105-media)
 
 ### Terms of Use
 
@@ -181,5 +181,5 @@ These Terms and our [Privacy Policy](http://www.1105media.com/privacy.html) and 
 
 If, for any reason, a court of competent jurisdiction finds any provision of the Terms or any portion thereof, to be unenforceable, that provision shall be enforced to the maximum extent permissible so as to affect the intent of the Terms, and the remainder of these Terms shall continue in full force and effect. No waiver by either party of any breach or default hereunder shall be deemed to be a waiver of any preceding or subsequent breach or default.
 
-![1105 Media Your Growth Our Business](~/media/ECG/1105Media/1105medialogowhite.ashx) ©  1105 Media Inc. See our [Privacy Policy](https://1105media.com/pages/privacy-policy.aspx), [Cookie Policy](https://1105media.com/pages/cookie-policy.aspx), and [Terms of Use](https://1105media.com/pages/terms-of-use.aspx)  | [Site Map](https://1105media.com/pages/sitemap.aspx) | [Locations](https://1105media.com/pages/locations.aspx) | [Contact Us](https://1105media.com/pages/contact-us.aspx)  
+![1105 Media](~/media/ECG/1105Media/design/1105_logo_white.png) ©  1105 Media Inc. See our [Privacy Policy](https://1105media.com/pages/privacy-policy.aspx), [Cookie Policy](https://1105media.com/pages/cookie-policy.aspx), and [Terms of Use](https://1105media.com/pages/terms-of-use.aspx)  | [Site Map](https://1105media.com/pages/sitemap.aspx) | [Locations](https://1105media.com/pages/locations.aspx) | [Contact Us](https://1105media.com/pages/contact-us.aspx)  
 [CA: Do Not Sell My Personal Info](https://1105media.com/pages/privacy-policy.aspx#_Toc520738059)
