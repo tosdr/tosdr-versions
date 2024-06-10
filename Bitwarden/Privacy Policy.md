@@ -2,77 +2,32 @@
 
 
 
-* Products
-    
-    ##### 
-    
-    Password Manager
-    
-    Secure your digital life with the password manager trusted by millions.
-    
-    [For personal use](https://bitwarden.com/products/personal/)
-    
-    Millions of users choose Bitwarden to protect themselves and their families
-    
-    Security for you and your family
-    
-    [For business use](https://bitwarden.com/products/business/)
-    
-    Countless businesses and enterprises choose Bitwarden to secure their interests
-    
-    Protection for teams and enterprises
-    
-    ##### 
-    
-    Secrets Manager
-    
-    Keep developer secrets safe
-    
-    [Secrets management](https://bitwarden.com/products/secrets-manager/)
-    
-    End-to-end encrypted secrets management for development, DevOps, and IT teams.
-    
-    Secure keys, tokens, and machine credentials
-    
-    ##### 
-    
-    Passwordless.dev
-    
-    Build passwordless authentication
-    
-    [Passwordless and more](https://bitwarden.com/products/passwordless/)
-    
-    Unlock passkey features and more with just a few lines of code
-    
-    Easily develop passkeys for your site
-    
-    [Download options](https://bitwarden.com/download/)[View documentation](https://bitwarden.com/help/)[Bitwarden Authenticator](https://bitwarden.com/products/authenticator/)
-    
-* [Pricing](https://bitwarden.com/pricing/business/)
-* [Download](https://bitwarden.com/download/#downloads-mobile)
-* [Developers](https://bitwarden.com/developers/)
-* Resources
-    
-    * [Help Center](https://bitwarden.com/help/)
-    * [Resource Center](https://bitwarden.com/resources/)
-    * [Learning Center](https://bitwarden.com/learning/)
-    * [Success Stories](https://bitwarden.com/bitwarden-reviews/)
-    * [Blog](https://bitwarden.com/blog/)
-    
+
 
-[Enterprise sales](https://bitwarden.com/contact-sales/)[Get started](https://vault.bitwarden.com/#/register?layout=default)[Log in](https://vault.bitwarden.com/#/login)
+* [Log in](https://vault.bitwarden.com/#/login)
+* [Get started](https://vault.bitwarden.com/#/register?layout=default)
+* [Personal](https://bitwarden.com/products/personal/)
+* [Business](https://bitwarden.com/products/business/)
+* Developers
+    
+    * [Bitwarden Secrets Manager](https://bitwarden.com/products/secrets-manager/)
+    * [Bitwarden Passwordless.dev](https://bitwarden.com/products/passwordless/)
+* [Download](https://bitwarden.com/download/)
+* [Pricing](https://bitwarden.com/pricing/business/)
+* [Help](https://bitwarden.com/help/)
+* [Business sales](https://bitwarden.com/contact-sales/)
 
 [](https://bitwarden.com/)
 
-* Products
+* [Personal](https://bitwarden.com/products/personal/)
+* [Business](https://bitwarden.com/products/business/)
+* Developers
     
-* [Pricing](https://bitwarden.com/pricing/business/)
 * [Download](https://bitwarden.com/download/)
-* [Developers](https://bitwarden.com/developers/)
-* Resources
-    
+* [Pricing](https://bitwarden.com/pricing/business/)
+* [Help](https://bitwarden.com/help/)
 
-[Enterprise sales](https://bitwarden.com/contact-sales/)[Get started](https://vault.bitwarden.com/#/register?layout=default)[Log in](https://vault.bitwarden.com/#/login)
+[Business sales](https://bitwarden.com/contact-sales/)[Get started](https://vault.bitwarden.com/#/register?layout=default)[Log in](https://vault.bitwarden.com/#/login)
 
 [](#bitwarden-inc-privacy-policy "#bitwarden-inc-privacy-policy")
 
@@ -445,7 +400,7 @@ _Non-Discrimination Rights_
 
 California residents have the right to not be discriminated against for exercising their rights as described in this section. We will not discriminate against you for exercising your rights.
 
-Last revised APRIL-2024
+Last revised 16-OCT-2023
 
 [](#contact-us "#contact-us")
 
@@ -461,7 +416,7 @@ Web Form: [https://bitwarden.com/contact/](https://bitwarden.com/contact/)
 
 #### Products
 
-[How Bitwarden Works](https://bitwarden.com/products/)[Download Options](https://bitwarden.com/download/)[Passkeys and Passwordless](https://bitwarden.com/passwordless-passkeys/)[Bitwarden Authenticator](https://bitwarden.com/products/authenticator/)[Bitwarden Send](https://bitwarden.com/products/send/)[Pricing for Business](https://bitwarden.com/pricing/business/)[Pricing for Individuals](https://bitwarden.com/pricing/)[Managed Service Providers](https://bitwarden.com/msp/)
+[How Bitwarden Works](https://bitwarden.com/products/)[Download Options](https://bitwarden.com/download/)[Passkeys and Passwordless](https://bitwarden.com/passwordless-passkeys/)[Bitwarden Send](https://bitwarden.com/products/send/)[Pricing for Business](https://bitwarden.com/pricing/business/)[Pricing for Individuals](https://bitwarden.com/pricing/)[Managed Service Providers](https://bitwarden.com/msp/)
 
 #### Company
 
@@ -473,7 +428,7 @@ Web Form: [https://bitwarden.com/contact/](https://bitwarden.com/contact/)
 
 #### Tools & Help
 
-[Password Generator](https://bitwarden.com/password-generator/)[Password Strength Tester](https://bitwarden.com/password-strength/)[Help and Documentation](https://bitwarden.com/help/)[Learning Center](https://bitwarden.com/learning/)[Talk to Sales](https://bitwarden.com/contact-sales/)[Contact Support](https://bitwarden.com/contact/)
+[Password Generator](https://bitwarden.com/password-generator/)[Password Strength Tester](https://bitwarden.com/password-strength/#Password-Strength-Testing-Tool)[Help and Documentation](https://bitwarden.com/help/)[Learning Center](https://bitwarden.com/learning/)[Talk to Sales](https://bitwarden.com/contact-sales/)[Contact Support](https://bitwarden.com/contact/)
 
 * * *
 
