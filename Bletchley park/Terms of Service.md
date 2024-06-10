@@ -69,7 +69,7 @@ Back
 
 * [Overview](https://bletchleypark.org.uk/learning/)
 * [Bursary Opportunities](https://bletchleypark.org.uk/learning/funding-opportunities/)
-* [Book a Learning Visit to Bletchley Park](https://bletchleypark.org.uk/learning/book-a-learning-visit/)
+* [Book an Onsite Learning Visit](https://bletchleypark.org.uk/learning/book-a-learning-visit/)
 * [Essential Information](https://bletchleypark.org.uk/learning/essential-info/)
 * [Book an Outreach Visit](https://bletchleypark.org.uk/learning/book-an-outreach-visit/)
 
