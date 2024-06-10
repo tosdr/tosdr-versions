@@ -422,7 +422,6 @@ Sponsor reserves the right to modify, extend, suspend, or terminate the Sweepsta
 * [Wishlist](https://areyougame.com/a/wishlist)
 
 * [ABOUT US](https://areyougame.com/pages/about-us)
-* [Our Brands](https://areyougame.com/pages/our-brands)
 * [3D Crystal Puzzle Instructions](https://areyougame.com/pages/3d-crystal-puzzle-instructions2)
 * [As Seen On](https://areyougame.com/pages/featured)
 * [Blog](https://areyougame.com/blogs/thewinnerscircle)
