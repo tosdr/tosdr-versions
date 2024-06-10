@@ -1,6 +1,8 @@
-[Chat with us](https://www.livechat.com/chat-with/17817894/), powered by [LiveChat](https://www.livechat.com/?welcome)
-
 [](https://buyist.com/Home)
+
+* [Why Buyist?](https://buyist.com/why-buyist)
+* [Templates](https://buyist.com/eommerce-templates)
+* [Pro](https://buyist.com/pro)
 
 [Log In](https://buyist.app/login)
 
@@ -43,9 +45,9 @@ This Privacy Policy (“**Privacy Policy**”) is an integral part of, and is in
 
 [](https://buyist.com/Home)
 
+* [Home](https://buyist.com/Home)
 * [Privacy Policy](https://buyist.com/privacy)
 * [Terms of Service](https://buyist.com/termsofservice)
-* [Support](https://support.buyist.com/)
-* [Developer API](https://api.buyist.app/login)
+* [Log In](https://buyist.app/login)
 
 Copyright © 2024 Buyist® is a registered trademark of Buyist, LLC | Built with [**Buyist**](https://buyist.com/)
