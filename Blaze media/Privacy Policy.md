@@ -108,9 +108,9 @@ MENU
 Privacy Policy
 ==============
 
-_Updated as of June 5, 2024._
+_Updated as of October 31, 2023._
 
-Blaze Media LLC ("we," "us," "our") works hard to build and maintain a relationship of trust with you. This Privacy Policy (the "Privacy Policy") governs our collection, use, and disclosure of your Personal Information (as defined below) in connection with your use of our website(s) and mobile/device application(s) on which this Privacy Policy is linked (collectively, "Sites"), such as [www.blazetv.com](http://www.blazetv.com/), [www.conservativereview.com](http://www.conservativereview.com/), [www.theblaze.com](http://www.theblaze.com/), and [www.blazemedia.com](http://www.blazemedia.com/) and any services, transactions, or other engagements you might have with us (collectively, "Services").
+Blaze Media LLC ("we," "us," "our") works hard to build and maintain a relationship of trust with you. This Privacy Policy (the "Privacy Policy") governs our collection, use, and disclosure of your Personal Information (as defined below) in connection with your use of our website(s) and mobile/device application(s) on which this Privacy Policy is linked (collectively, "Sites"), such as [www.blazetv.com](https://www.blazetv.com/), [www.conservativereview.com](https://www.conservativereview.com/), [www.theblaze.com](https://www.theblaze.com/), and [www.blazemedia.com](https://www.blazemedia.com/) and any services, transactions, or other engagements you might have with us (collectively, "Services").
 
 This Privacy Policy explains what information we collect about you, how we use or disclose such information, how to exercise any rights you may have with respect to your Personal Information (including any rights to opt-out of certain uses of your information), and the safeguards we have in place to reduce the risk of unauthorized access and use.
 
@@ -153,7 +153,7 @@ We may also collect information that would be considered Personal Information ex
 
 **Sensitive Personal Information**
 
-Some states define certain Personal Information as “sensitive”. For example, “Sensitive Personal Information” may include Personal Information that reveals government identifiers, complete account credentials with security codes or other ways to access the account, precise geolocation, racial or ethnic origin, religious or philosophical beliefs, union membership, biometric information, genetic data, communication contents if we are not the intended recipient, identifying biometric information, and information about a person’s health, sex life, or sexual orientation. We do not collect Sensitive Personal Information as defined by these states’ laws.
+We do not collect Sensitive Personal Information about you. “Sensitive Personal Information” includes Personal Information that reveals government identifiers, complete account credentials with security codes or other ways to access the account, precise geolocation, racial or ethnic origin, religious or philosophical beliefs, union membership, biometric information, genetic data, communication contents if we are not the intended recipient, identifying biometric information, and information about a person’s health, sex life, or sexual orientation.
 
 **Children's Personal Information**
 
@@ -161,7 +161,7 @@ The Sites and Services are not intended for children under the age of 18 and we 
 
 **Usage Data and Sites Activity**
 
-We automatically collect information in connection with the actions you take on the Sites ("Usage Data"). For example, each time you visit our website, we automatically collect the type of web browser you use, the type of device you use, your operating system, your Internet Service Provider, the pages you view, referring and exit pages, the date and time of your visit, the number of clicks to, from, and within the Sites, and the duration of your visits to the Sites. When you use our mobile application, we gather information such as data and time of your use, duration of use, your device type, and operating system. If this information is reasonably capable of being associated with you, we treat it as Personal Information under the category Internet and Network Information. If this information is not reasonably capable of being individually associated with you, we treat it as Usage Data which is a type of De-Identified Information.
+We automatically collect information in connection with the actions you take on the Sites ("Usage Data"). For example, each time you visit our website, we automatically collect the type of web browser you use, the type of device you use, your operating system, your Internet Service Provider, the pages you view, referring and exit pages, the date and time of your visit, the number of clicks to, from, and within the Sites, and the duration of your visits to the Sites. When you use our mobile application, we gather information such as data and time of your use, duration of use, your device type, and operating system. If this information is reasonably capable of being associated with you, we treat it as Personal Information under the category Internet and Network Information. If this information is not reasonably capable of being individually associated with you, we treat it as Usage Data.
 
 **Communication Recordings**
 
@@ -179,7 +179,7 @@ We may collect Personal Information from third-party data sources such as data b
 
 **Cookies and Other Automated Tools**
 
-We use cookies (a small text file placed on your computer to identify your computer and browser) and other automated tools such as tracking pixels (collectively referred to herein as “cookies”) to authenticate users and improve the experience of the Sites and Services such as by saving your preferences from visit to visit to present you with a customized version of the Sites. Many web browsers are initially set up to accept cookies. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. Instructions for how to manage cookies in popular browsers are generally available online. However, certain features of the Sites and Services may not work properly if you delete or disable cookies.
+We use cookies (a small text file placed on your computer to identify your computer and browser) and other automated tools such as tracking pixels to authenticate users and improve the experience of the Sites and Services such as by saving your preferences from visit to visit to present you with a customized version of the Sites. Many web browsers are initially set up to accept cookies. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. Instructions for how to manage cookies in popular browsers are generally available online. However, certain features of the Sites and Services may not work properly if you delete or disable cookies.
 
 We use the following types of cookies:
 
@@ -197,7 +197,7 @@ If you arrive at the Sites by "clicking through" from another website, then cert
 
 **Interest-Based Advertising**
 
-We work with third-party advertisers, search providers, and ad networks ("Advertisers") to learn more about you and show you our ads or other of our content that we believe would be relevant to you. Advertisers may collect and use information about your use of the Sites or Services as well as other websites and services. These companies may use cookies and other online tracking technologies to collect and use your information. We and/or Advertisers may also append other data to the data collected by Advertisers to create an interest profile of individual users. Our Privacy Policy does not cover any use of information that an Advertiser may collect from you. Advertisements may be shown via the Sites, on third-party websites, or on social media properties. If you do not want to receive some interest-based advertising, please visit the [Digital Advertising Alliance ("DAA") Consumer Choice Page](http://www.aboutads.info/choices/). The DAA website allows you to opt-out of one or more interest-based advertising networks. Opt-outs are device and browser specific; therefore, you will need to set your opt-out preferences for each device and browser. Deleting browser cookies can remove your opt-out preferences; however, the DAA offers [browser extensions](http://www.aboutads.info/PMC) that help preserve the opt-out preferences you set on the DAA's Consumer Choice Page. Please note that opt-outs only apply to interest-based advertising and not all advertising networks participate. You may still receive other types of online advertising.
+We work with third-party advertisers, search providers, and ad networks ("Advertisers") to learn more about you and show you our ads or other of our content that we believe would be relevant to you. Advertisers may collect and use information about your use of the Sites or Services as well as other websites and services. These companies may use cookies and other online tracking technologies to collect and use your information. We and/or Advertisers may also append other data to the data collected by Advertisers to create an interest profile of individual users. Our Privacy Policy does not cover any use of information that an Advertiser may collect from you. Advertisements may be shown via the Sites, on third-party websites, or on social media properties. If you do not want to receive some interest-based advertising, please visit the [Digital Advertising Alliance ("DAA") Consumer Choice Page](https://www.aboutads.info/choices/). The DAA website allows you to opt-out of one or more interest-based advertising networks. Opt-outs are device and browser specific; therefore, you will need to set your opt-out preferences for each device and browser. Deleting browser cookies can remove your opt-out preferences; however, the DAA offers [browser extensions](https://www.aboutads.info/PMC) that help preserve the opt-out preferences you set on the DAA's Consumer Choice Page. Please note that opt-outs only apply to interest-based advertising and not all advertising networks participate. You may still receive other types of online advertising.
 
 **Information from Advertisements**
 
@@ -279,8 +279,8 @@ We may sell your Personal Information to third parties. We may also share Person
 |     |     |     |
 | --- | --- | --- |
 | **Category of Recipient** | **Categories of Personal Information Sold or Shared** | **Share or Sell** |
-| Advertisers, ad networks, & social media companies | All categories of Personal Information we collect. | Share |
-| Advertisers of consumer goods or services and ad networks | Identifiers; Personal Information listed in Cal. Civ Code 1798.80(e); and Internet or other electronic network activity. | Sell |
+| Advertisers & social media companies | All categories of Personal Information we collect. | Share |
+| Advertisers of consumer goods or services | Identifiers; Personal Information listed in Cal. Civ Code 1798.80(e); and Internet or other electronic network activity. | Sell |
 | Financial advisory services | Identifiers; Personal Information listed in Cal. Civ Code 1798.80(e); and Internet or other electronic network activity. | Sell |
 | Political campaigns | Identifiers; Personal Information listed in Cal. Civ Code 1798.80(e); and Internet or other electronic network activity. | Sell |
 | Political action committees | Identifiers; Personal Information listed in Cal. Civ Code 1798.80(e); and Internet or other electronic network activity. | Sell |
@@ -304,7 +304,7 @@ We retain all categories of your Personal Information for as long as is necessar
 
 ### CONSUMER PRIVACY RIGHTS
 
-Laws in California, Colorado, Connecticut, Delaware, Iowa, Nebraska, New Hampshire, New Jersey, Oregon, Texas, Utah, and Virginia provide consumer-residents with specific rights regarding their Personal Information. We provide the rights as described below to consumers residing in those states.
+Laws in California, Colorado, Connecticut, Utah, and Virginia provide consumer-residents with specific rights regarding their Personal Information. We provide the rights as described below to consumers residing in those states.
 
 **Right to Know**
 
@@ -344,7 +344,7 @@ We will not agree to or contract to limit or waive any consumer’s privacy righ
 
 **Submitting a Consumer Rights Request**
 
-If you are a resident of a state with privacy rights identified herein, you may submit your request(s) by:
+If you are a resident of California, Colorado, Connecticut, Utah, or Virginia, you may submit your request(s) by:
 
 Sending an email to [compliance@blazemedia.com](mailto:compliance@blazemedia.com), calling us at (800) 282-2788, or clicking [here](https://www.theblaze.com/dns/) to submit your request online.
 
@@ -365,10 +365,6 @@ If you are an authorized agent submitting a request on behalf of a consumer (oth
 **California "Do Not Track" Disclosure**
 
 Do Not Track is a web browser privacy preference that causes the web browser to broadcast a signal to websites requesting that a user's activity not be tracked. Currently, our Sites and Services do not respond to "do not track" signals.
-
-**Nevada Do Not Sell Right**
-
-If you are a resident of Nevada, you have the right to direct us not to sell your Personal Information, subject to legal exemptions. You may exercise this right using a method identified in the “Submitting a Consumer Rights Request” section above. We will process your request within the timeframes permitted by Nevada law, but generally within thirty days of receipt. We may request additional information in order to verify your identity or locate your Personal Information prior to acting upon your request.
 
 ### OTHER PRIVACY AND SECURITY PROVISIONS
 
