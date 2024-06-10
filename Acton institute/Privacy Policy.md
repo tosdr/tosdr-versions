@@ -8,7 +8,7 @@ Menu
 
 [![](/themes/acton/dist/img/mobile-menu/acton_logo_white.svg)](https://www.acton.org/home)
 
-[![Acton University 2024 Mobile Banner](https://www.acton.org/sites/default/files/banner/au-2024/au24-mobile-big2.png)](https://acton.swoogo.com/actonuniversity24)
+[![Acton University 2024 Mobile Banner](https://www.acton.org/sites/default/files/banner/au-2024/au24-mobile-big.jpg)](https://acton.swoogo.com/actonuniversity24)
 
 Close
 
@@ -83,7 +83,7 @@ Acton Main Megamenu
 
 ![](https://www.acton.org/sites/default/files/banner/au-2024/au-2024-image.png)
 
-![](https://www.acton.org/sites/default/files/banner/au-2024/au-2024-text6.png) [![](https://www.acton.org/sites/default/files/banner/au-2024/au-2024-button.png)](https://acton.swoogo.com/actonuniversity24)
+![](https://www.acton.org/sites/default/files/banner/au-2024/au-2024-text.png) [![](https://www.acton.org/sites/default/files/banner/au-2024/au-2024-button.png)](https://acton.swoogo.com/actonuniversity24)
 
 Privacy Policy & Terms of Use
 =============================
