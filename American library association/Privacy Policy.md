@@ -1,101 +1,111 @@
 [Skip to main content](#main-content)
 
-Utility
--------
+[![](https://www.ala.org/sites/all/themes/alaV2/logo.png)](https://www.ala.org/ "Home")
 
-* * [About ALA](https://www.ala.org/aboutala "About ALA")
-    * [ALA Connect](https://connect.ala.org/home "ALA Connect")
-    * [ALA Websites](https://www.ala.org/aboutala/sitesdirectory "ALA Websites")
-    * [Job Board](https://joblist.ala.org/ "Job Board")
-* [Join | Renew](https://ec.ala.org/membership/join "Join | Renew")
-* [Donate](https://www.ala.org/donate "Donate")
-* [Login](https://www.ala.org/saml_login?destination=/privacypolicy "Login")
+ALA User Menu
+-------------
 
-[![ALA site logo](https://www.ala.org/themes/custom/ala/logo.svg)](https://www.ala.org/)
+* [My Account](https://my.ala.org/My/MyAccount/My/RiSE/Contacts/ContactLayouts/AccountPage.aspx)
+* [ALA Connect](https://connect.ala.org/ "Visit ALA Connect to keep up with all your member groups and to collaborate with your committees and communities.")
+* [ALA Websites](https://www.ala.org/aboutala/sitesdirectory "A searchable directory of ALA websites.")
+* [Job Board](https://joblist.ala.org/)
+* [Donate](https://www.ala.org/donate "Donate to support libraries and librarianship, scholarships, awards and grants.")
+* [Join](http://ec.ala.org/membership/join "Join ALA.")
+* [Renew](http://ec.ala.org/membership/renew "Renew &/or add divisions or round tables to your current ALA membership.")
+* [Login](https://www.ala.org/user/login?current=node/20055)
 
-Menu
+Toggle navigation
 
-Utility
--------
+**Dealing with censorship challenges at your library or need to get prepared for them? Visit our [Fight Censorship page](https://www.ala.org/advocacy/fight-censorship?utm_source=ala&utm_medium=topbanner&utm_campaign=redesign) for easy-to-access resources.**
 
-* * [About ALA](https://www.ala.org/aboutala "About ALA")
-    * [ALA Connect](https://connect.ala.org/home "ALA Connect")
-    * [ALA Websites](https://www.ala.org/aboutala/sitesdirectory "ALA Websites")
-    * [Job Board](https://joblist.ala.org/ "Job Board")
-* [Join | Renew](https://ec.ala.org/membership/join "Join | Renew")
-* [Donate](https://www.ala.org/donate "Donate")
-* [Login](https://www.ala.org/saml_login?destination=/privacypolicy "Login")
+ala homepage quick links
+------------------------
 
-Main navigation
----------------
+* [About ALA](https://www.ala.org/aboutala/ "ALA's governance, member groups including the board, council, divisions, round tables, offices, committees, chapters and affiliates.")
+    * [ALA Divisions](https://www.ala.org/aboutala/divs)
+    * [ALA Governance | Elections](https://www.ala.org/aboutala/governance)
+    * [ALA Offices](https://www.ala.org/aboutala/offices/home)
+    * [ALA Round Tables](https://www.ala.org/aboutala/rts)
+    * [Committees & Volunteer Ops](https://www.ala.org/aboutala/committees)
+    * [Contact ALA](https://www.ala.org/aboutala/node/225/)
+    * [Give to ALA | Development Office](https://www.ala.org/aboutala/donate)
+    * [History](https://www.ala.org/aboutala/node/230/)
+    * [Mission & Priorities](https://www.ala.org/aboutala/node/229/)
+    * [Related Groups, Organizations, Affiliates & Chapters](https://www.ala.org/aboutala/node/1136/)
+    * [Policy Manual](https://www.ala.org/aboutala/node/245/)
+    * [Strategic Plan](https://www.ala.org/aboutala/node/222/)
+* [Advocacy, Legislation & Issues](https://www.ala.org/advocacy/)
+    * [Advocacy & Public Policy](https://www.ala.org/advocacy/advocacy-public-awareness)
+    * [Banned & Challenged Books](https://www.ala.org/advocacy/bbooks)
+    * [Equity, Diversity & Inclusion](https://www.ala.org/advocacy/diversity)
+    * [Intellectual Freedom](https://www.ala.org/advocacy/intfreedom)
+    * [Literacy](https://www.ala.org/advocacy/literacy)
+    * [Privacy](https://www.ala.org/advocacy/node/466/)
+    * [Public Awareness](https://www.ala.org/advocacy/public-awareness)
+* [Awards, Grants & Scholarships](https://www.ala.org/awardsgrants/)
+    * [ALA Awards Program](https://www.ala.org/awardsgrants/node/30789)
+    * [ALA Book, Print & Media Awards](https://www.ala.org/awardsgrants/awards/browse/bpma?showfilter=no)
+    * [ALA Grants](https://www.ala.org/awardsgrants/awards/browse/grnt?showfilter=no)
+    * [ALA Professional Recognition](https://www.ala.org/awardsgrants/awards/browse/prec?showfilter=no)
+    * [ALA Recommended "Best of" Lists](https://www.ala.org/awardsgrants/awards/browse/rlist?showfilter=no)
+    * [ALA Scholarships](https://www.ala.org/awardsgrants/awards/browse/sclp?showfilter=no)
+    * [ALA Youth Media Awards](https://www.ala.org/awardsgrants/awards/browse/yma?showfilter=no)
+    * [Andrew Carnegie Medals for Excellence](https://www.ala.org/rusa/awards/carnegie-medals)
+    * [Purchase ALA Award Seals](https://www.ala.org/awardsgrants/seals)
+* [Conferences & Events](https://www.ala.org/conferencesevents/)
+    * [ALA Upcoming Annual Conferences & LibLearnX](https://www.ala.org/conferencesevents/node/7/)
+    * [Affiliate & Chapter Planning Calendar](https://www.ala.org/conferencesevents/planning-calendar)
+    * [Celebration Weeks & Promotional Events](https://www.ala.org/conferencesevents/node/6/)
+    * [Conference & Event Registration](https://www.ala.org/conferencesevents/node/3/)
+    * [Past ALA & Division Conferences](https://www.ala.org/conferencesevents/node/8/)
+    * [Statement of Appropriate Conduct](https://www.ala.org/conferencesevents/node/2502/)
+* [Education & Careers](https://www.ala.org/educationcareers/ "Find ALA Accredited Master's programs, learn about career paths in librarianship, and boost your career with eLearning at ALA.")
+    * [ALA Accredited Programs](https://www.ala.org/educationcareers/node/262/)
+    * [ALA Leadership Institute](https://www.ala.org/educationcareers/node/762/)
+    * [ALA Scholarship Program](https://www.ala.org/educationcareers/node/57/)
+    * [Careers in Librarianship](https://www.ala.org/educationcareers/node/50/)
+    * [eLearning Opportunities](https://www.ala.org/educationcareers/elearning)
+    * [Education for Librarianship](https://www.ala.org/educationcareers/node/58/)
+    * [Employment](https://www.ala.org/educationcareers/node/51/)
+    * [Library Careers](https://www.ala.org/educationcareers/node/214/)
+* [Membership](https://www.ala.org/membership/ "Select your membership type. Members can access the benefits program information, and student members have a portal of their very own.")
+    * [Member Center](https://www.ala.org/membership/node/1496)
+    * [Membership Updates](https://www.ala.org/membership/node/22/)
+    * [FAQ](https://www.ala.org/membership/ala-membership-faqs)
+* [News & Press Center](https://www.ala.org/news/)
+    * [ALA Press Releases](https://www.ala.org/news/press-releases)
+    * [ALA Social Media Channels](https://www.ala.org/news/connect-with-us)
+    * [Press Center](https://www.ala.org/news/mediapresscenter)
+    * [Press Credential Guidelines](https://www.ala.org/news/mediapresscenter/presscenter/presscredentialguidelines/presscredential "Those requesting media registration must be currently employed by a publication or news organization. ")
+    * [Press Kits](https://www.ala.org/news/mediapresscenter/presskits)
+    * [Recent Media Coverage](https://www.ala.org/news/recent-media-coverage)
+    * [State of America's Libraries Report](https://www.ala.org/news/state-americas-libraries-report-2023)
+* [Tools, Publications & Resources](https://www.ala.org/tools/)
+    * [ALA Guidelines & Standards](https://www.ala.org/tools/node/57/)
+    * [ALA Research & Library Topics](https://www.ala.org/tools/node/3361/)
+    * [Ctr. for the Future of Libraries](https://www.ala.org/tools/node/4022/)
+    * [Challenge Support](https://www.ala.org/tools/node/513/)
+    * [Libraries Transforming Communities](https://www.ala.org/tools/node/3994/)
+    * [Professional Ethics](https://www.ala.org/tools/node/1577/)
+    * [Programming & Exhibitions](https://www.ala.org/tools/programming)
+    * [Publications](https://www.ala.org/tools/node/54/)
 
-* [Membership](https://www.ala.org/membership "Membership")
-    
-    * [Membership Home](https://www.ala.org/membership "Membership")
-    * [Member Center](https://www.ala.org/membership/new-member-center "Membership")
-    * [Give to ALA](https://www.ala.org/aboutala/donate "Membership")
-    * [Get Involved with ALA](https://www.ala.org/aboutala/getinvolved "Membership")
-    * [Committees](https://www.ala.org/aboutala/committees "Membership")
-    * [Divisions](https://www.ala.org/aboutala/divs "Membership")
-    * [Round Tables](https://www.ala.org/aboutala/rts "Membership")
-    
-* [Advocacy & Issues](https://www.ala.org/advocacy "Advocacy & Issues")
-    
-    * [Advocacy & Issues Home](https://www.ala.org/advocacy "Advocacy & Issues")
-    * [Banned & Challenged Books](https://www.ala.org/bbooks "Advocacy & Issues")
-    * [Intellectual Freedom](https://www.ala.org/advocacy/intfreedom "Advocacy & Issues")
-    * [Public Policy](https://www.ala.org/advocacy/advocacy-public-policy "Advocacy & Issues")
-    * [Equity, Diversity & Inclusion](https://www.ala.org/advocacy/diversity "Advocacy & Issues")
-    * [Literacy](https://www.ala.org/advocacy/literacy "Advocacy & Issues")
-    * [Privacy](https://www.ala.org/advocacy/privacy "Advocacy & Issues")
-    
-* [Conferences & Events](https://www.ala.org/conferencesevents "Conferences & Events")
-    
-    * [Conferences & Events Home](https://www.ala.org/conferencesevents "Conferences & Events")
-    * [Events Calendar](https://www.ala.org/events "Conferences & Events")
-    * [Past & Future ALA Conferences](https://www.ala.org/conferencesevents/past "Conferences & Events")
-    * [Library Celebration Days](https://www.ala.org/conferencesevents/celebrationdays "Conferences & Events")
-    
-* [Awards & Grants](https://www.ala.org/awards "Awards & Grants")
-    
-    * [Awards & Grants Home](https://www.ala.org/awards "Awards & Grants")
-    * [Book, Print & Media Awards](https://www.ala.org/awards/books-media "Awards & Grants")
-    * [Grants](https://www.ala.org/grants "Awards & Grants")
-    * [Professional Recognition](https://www.ala.org/awards/professional-recognition "Awards & Grants")
-    * [Purchase Awards Seals](https://www.ala.org/awardsgrants/seals "Awards & Grants")
-    * [Recommended Print & Media Lists](https://www.ala.org/awards/recommended-books-and-media "Awards & Grants")
-    
-* [Education & Careers](https://www.ala.org/educationcareers "Education & Careers")
-    
-    * [Education & Careers Home](https://www.ala.org/educationcareers "Education & Careers")
-    * [ALA eLearning](https://elearning.ala.org/ "Education & Careers")
-    * [JobList Career Center](https://joblist.ala.org/ "Education & Careers")
-    * [Accredited Programs](https://www.ala.org/educationcareers/accreditedprograms "Education & Careers")
-    * [ALA Scholarships](https://www.ala.org/educationcareers/scholarships "Education & Careers")
-    * [Become a Librarian](https://www.ala.org/educationcareers/libcareers/become "Education & Careers")
-    
-* [Tools & Resources](https://www.ala.org/tools "Tools & Resources")
-    
-    * [Tools & Resources Home](https://www.ala.org/tools "Tools & Resources")
-    * [Programming & Exhibitions](https://www.ala.org/tools/programming "Tools & Resources")
-    * [Center for the Future of Libraries](https://www.ala.org/future "Tools & Resources")
-    * [ALA Standards & Guidelines](https://www.ala.org/tools/guidelines "Tools & Resources")
-    * [Products & Publications](https://www.ala.org/tools/publications "Tools & Resources")
-    * [Libraries Transforming Communities](https://www.ala.org/tools/librariestransform/libraries-transforming-communities "Tools & Resources")
-    * [Research & Library Topics](https://www.ala.org/tools/topics "Tools & Resources")
-    * [News & Press](https://www.ala.org/news "Tools & Resources")
-    
-* 
+×
 
-Breadcrumb
-----------
+Breadcrumb navigation
+---------------------
 
-1. [ALA](https://www.ala.org/)
+* [Contact Congress](https://confirmsubscription.com/h/i/463208600EB4D89A)
+
+[ALA](https://www.ala.org/) > [ALA Privacy Policy](https://www.ala.org/privacypolicy)
 
 ALA Privacy Policy
 ==================
 
-Menu Toggle navigation
+* [Email](https://api.addthis.com/oexchange/0.8/forward/email/offer?url=http%253A%252F%252Fwww.ala.org%252Fprivacypolicy&title=ALA%2BPrivacy%2BPolicy%2B-%2BAmerican%2BLibrary%2BAssociation)
+* [Print](https://www.ala.org/)
+* [Cite](https://www.ala.org/cite?query=node%252F20055&url=http%253A%252F%252Fwww.ala.org%252Fprivacypolicy&title=ALA%2BPrivacy%2BPolicy%2B-%2BAmerican%2BLibrary%2BAssociation)
+* [Share This Page](http://www.addthis.com/bookmark.php?v=152&source=men-152&lng=en&s=more&url=http%253A%252F%252Fwww.ala.org%252Fprivacypolicy&title=ALA%2BPrivacy%2BPolicy%2B-%2BAmerican%2BLibrary%2BAssociation#share)
 
 Effective May 23, 2018
 
@@ -157,9 +167,9 @@ You may provide information to us via a support request submitted through the Se
 
 #### Cookies, Web Beacons, Links & Other Tracking Technologies
 
-ALA may keep track of how you use and interact with the Services through the use of cookies, web beacons, links, and other tracking technologies. We do this to help analyze the use of and improve the Services. Through these technologies we may automatically collect information about your use of the Services and other online activities, including our email correspondences, third-party services, and client applications, and certain online activities after you leave the Services. Link information is generally only analyzed on an aggregate basis. Some Services may not function properly if you disable cookies. Such data may include analytics information, sites visited before visiting the Services, browser type, operating system, and tracking of your interactions with our content and emails.
+ALA may keep track of how you use and interact with the Services through the use of cookies, web beacons, links, and other tracking technologies.  We do this to help analyze the use of and improve the Services. Through these technologies we may automatically collect information about your use of the Services and other online activities, including our email correspondences, third-party services, and client applications, and certain online activities after you leave the Services. Link information is generally only analyzed on an aggregate basis. Some Services may not function properly if you disable cookies. Such data may include analytics information, sites visited before visiting the Services, browser type, operating system, and tracking of your interactions with our content and emails.
 
-Users can opt out of website cookies that are not necessary for website performance by clicking the "reject all" button on the GDPR compliance interface that appears on initial visit to our website. Additional information about opting out of marketing cookies is available on the [Web Hosting & Data Processing Service Providers page](https://www.ala.org/ala-service-providers#marketing).
+Users can opt out of website cookies that are not necessary for website performance by clicking the "reject all" button on the GDPR compliance interface that appears on initial visit to our website. Additional information about opting out of marketing cookies is available on the [Web Hosting & Data Processing Service Providers page](https://www.ala.org/ala-service-providers#marketing). 
 
 #### Unique Identifiers
 
@@ -205,7 +215,7 @@ Relevant data protection laws provide you certain rights regarding the protectio
 * **Restrict processing** - You have the right to ask ALA to suppress the processing of your Personal Data, but ALA may still store your Personal Data;
 * **Object to processing** - You have the right to object to your Personal Data used in the following manners: (a) processing based on legitimate interests or the performance of a task in the public interest/exercise of official authority (including profiling); (b) direct marketing (including profiling); and (c) processing for purposes of scientific/historical research and statistics;
 * **Data portability** - You have the right to obtain your Personal Data from us that you consented to give us or that is necessary to perform fulfillment of member benefits with you. We will give you your Personal Data in a structured, commonly used and machine-readable format;
-* **Complaint to a supervisory authority** - You have the right to file a complaint with a supervisory authority, in particular in the European Member State of your habitual residence, place of work or place of the alleged infringement if you consider that the processing of Personal Data relating to you infringes upon your rights; and
+* **Complaint to a supervisory authority** -   You have the right to file a complaint with a supervisory authority, in particular in the European Member State of your habitual residence, place of work or place of the alleged infringement if you consider that the processing of Personal Data relating to you infringes upon your rights; and
 * **Withdraw consent** - We rely on your consent to process your Personal Data; you have the right to withdraw that consent at any time. This will not affect the lawfulness of processing based on your prior consent.
 
 More information about your rights relating to ALA and the Services is provided via this Privacy Policy.
@@ -213,7 +223,7 @@ More information about your rights relating to ALA and the Services is provided 
 Access to the Information ALA Has Collected About You
 -----------------------------------------------------
 
-ALA provides registered users with a Profile which has settings within the Services to help you access, correct, delete, or modify your personal information associated with the Services. ALA welcomes you to contact us regarding the information we have collected about you, including regarding the nature and accuracy of the data that has been collected about you, to request an update, modification, or deletion of your information, to opt-out of certain Services, uses of your information, or to withdraw any consent you may have granted to ALA.
+ALA provides registered users with a Profile which has settings within the Services to help you access, correct, delete, or modify your personal information associated with the Services.  ALA welcomes you to contact us regarding the information we have collected about you, including regarding the nature and accuracy of the data that has been collected about you, to request an update, modification, or deletion of your information, to opt-out of certain Services, uses of your information, or to withdraw any consent you may have granted to ALA.
 
 Please note that requests to delete or remove your information do not necessarily ensure complete or comprehensive removal of the content or information posted; removed information may persist in backup copies indefinitely. Note also that if you choose to delete your information or opt-out of the collection and use of your information, you understand that certain features, including but not limited to access to the Services, may no longer be available to you.
 
@@ -251,7 +261,7 @@ ALA works with [web hosting and data processing service providers](http://www.al
 
 ### Safely Using ALA’s Services
 
-Despite ALA’s safety and privacy controls, we cannot guarantee the Services are entirely free of illegal, offensive, pornographic, or otherwise inappropriate material, or that you will not encounter inappropriate or illegal conduct from other Users when using the Services. You can help ALA by notifying us of any unwelcome contact by contacting us using the information below.
+Despite ALA’s safety and privacy controls, we cannot guarantee the Services are entirely free of illegal, offensive, pornographic, or otherwise inappropriate material, or that you will not encounter inappropriate or illegal conduct from other Users when using the Services. You can help ALA by notifying us of any unwelcome contact by contacting us using the information below. 
 
 ### Your California Privacy Rights
 
@@ -266,67 +276,89 @@ Contact ALA
 -----------
 
 Data Protection Officer  
-  
 American Library Association  
-  
 225 N Michigan Ave | Suite 1300  
-  
 Chicago, IL 60601  
-  
 [data-protection-officer@ala.org](mailto:data-protection-officer@ala.org?subject=Privacy%20Policy%20Inquiry)
 
 Page last updated 8/16/2022
 
-* [![Email icon](/themes/custom/ala/assets/images/svg/email-2.svg)
-    
-    Email](mailto:?subject=ALA%20Privacy%20Policy&body=https://www.ala.org/privacypolicy)
-* [![Print icon](/themes/custom/ala/assets/images/svg/print.svg)
-    
-    Print](#)
-* [![Cite icon](/themes/custom/ala/assets/images/svg/cite.svg)
-    
-    Cite](https://www.ala.org/cite?query=node/15423&title=ALA%20Privacy%20Policy&url=https%3A//www.ala.org/privacypolicy)
-* [![Share icon](/themes/custom/ala/assets/images/svg/share.svg)
-    
-    Share This Page](#)
-    
-    [](https://www.addtoany.com/share#url=https%3A%2F%2Fwww.ala.org%2Fprivacypolicy&title=ALA%20Privacy%20Policy)
-    
+Footer navigation
+-----------------
 
-[ALA Logo](https://www.ala.org/)
+* [Committees](https://www.ala.org/aboutala/committees)
+* [Divisions](https://www.ala.org/aboutala/divs)
+    * [American Association of School Librarians (AASL)](https://www.ala.org/aasl/)
+    * [Assn. for Library Service to Children (ALSC)](https://www.ala.org/alsc/)
+    * [Assn. of College & Research Libraries (ACRL)](https://www.ala.org/acrl/)
+    * [Assn. of Specialized, Government & Cooperative Library Agencies](https://www.ala.org/asgcla/)
+    * [Core: Leadership, Infrastructure, Futures](https://www.ala.org/core/)
+    * [Public Library Assn. (PLA)](https://www.ala.org/pla/)
+    * [Reference & User Services Assn. (RUSA)](https://www.ala.org/rusa/)
+    * [United for Libraries (Trustees, Friends, Foundations)](https://www.ala.org/united/)
+    * [Young Adult Library Services Assn. (YALSA)](https://www.ala.org/yalsa/)
+* [Offices](https://www.ala.org/aboutala/offices)
+    * [Chapter Relations Office (CRO)](https://www.ala.org/aboutala/offices/cro)
+    * [Communications & Marketing Office (CMO)](https://www.ala.org/aboutala/offices/cmo)
+    * [Conference Services](https://www.ala.org/aboutala/offices/conference)
+    * [Development Office](https://www.ala.org/aboutala/offices/dev)
+    * [Finance and Accounting](https://www.ala.org/aboutala/offices/finance)
+    * [Governance](https://www.ala.org/aboutala/offices/governance)
+    * [Human Resources](https://www.ala.org/aboutala/offices/hr)
+    * [Information Technology](https://www.ala.org/aboutala/offices/it)
+    * [International Relations Office (IRO)](https://www.ala.org/aboutala/offices/iro)
+    * [Library & Research Center (LARC)](https://www.ala.org/aboutala/offices/library)
+    * [Member Relations & Services](https://www.ala.org/aboutala/offices/mrs)
+    * [Membership Development](https://www.ala.org/aboutala/offices/membership)
+    * [Office for Accreditation](https://www.ala.org/aboutala/offices/accreditation)
+    * [Office for Diversity, Literacy, and Outreach Services (ODLOS)](https://www.ala.org/aboutala/offices/diversity)
+    * [Office for Human Resource Development and Recruitment (HRDR)](https://www.ala.org/aboutala/offices/hrdr)
+    * [Office for Intellectual Freedom (OIF)](https://www.ala.org/aboutala/offices/oif)
+    * [Public Programs Office (PPO)](https://www.ala.org/aboutala/offices/ppo)
+    * [Publishing](https://www.ala.org/aboutala/offices/publishing)
+    * [Staff Support Services](https://www.ala.org/aboutala/offices/staffsupportsvcs)
+    * [Public Policy & Advocacy](https://www.ala.org/aboutala/offices/ppa)
+* [Round Tables](https://www.ala.org/aboutala/rts)
+    * [Ethnic & Multicultural Information Exchange RT (EMIERT)](https://www.ala.org/rt/emiert/)
+    * [Exhibits Round Table (ERT)](https://www.ala.org/rt/ert/)
+    * [Federal and Armed Forces Libraries (FAFLRT)](https://www.ala.org/rt/faflrt/)
+    * [Games & Gaming (GAMERT)](https://www.ala.org/rt/gamert/)
+    * [Government Documents (GODORT)](https://www.ala.org/rt/godort/)
+    * [Graphic Novels & Comics Round Table (GNCRT)](https://www.ala.org/rt/gncrt)
+    * [Graphic Novels & Comics Round Table (GNCRT)](https://www.ala.org/rt/gncrt)
+    * [Intellectual Freedom Round Table (IFRT)](https://www.ala.org/rt/ifrt/)
+    * [International Relations (IRRT)](https://www.ala.org/rt/irrt/)
+    * [Learning RT (LearnRT, formerly CLENERT)](https://www.ala.org/rt/learnrt/)
+    * [Library History (LHRT)](https://www.ala.org/rt/lhrt/)
+    * [Library Instruction Round Table (LIRT)](https://www.ala.org/rt/lirt/)
+    * [Library Research (LRRT)](https://www.ala.org/rt/lrrt/)
+    * [Library Support Staff Interests (LSSIRT)](https://www.ala.org/rt/lssirt)
+    * [Map and Geospatial Information (MAGIRT)](https://www.ala.org/rt/magirt)
+    * [New Members Round Table (NMRT)](https://www.ala.org/rt/nmrt/)
+    * [Rainbow Round Table (RRT)](https://www.ala.org/rt/rrt)
+    * [Retired Members Round Table (RMRT)](https://www.ala.org/rt/rmrt/)
+    * [Round Table Coordinating Assembly](https://www.ala.org/ala/mgrps/mcoms/assemblies/ala-mpsrt.cfm)
+    * [Social Responsibilities Round Table (SRRT)](https://www.ala.org/rt/srrt/)
+    * [Staff Directory](https://www.ala.org/aboutala/ala-staff-directory/)
+    * [Staff Organizations (SORT)](https://www.ala.org/rt/sort/)
+    * [Sustainability (SustainRT)](https://www.ala.org/rt/sustainrt/)
+    * [Video Round Table (VRT)](https://www.ala.org/rt/vrt/)
+* [Contact ALA](https://www.ala.org/aboutala/contactus/)
 
-225 N Michigan Ave., Ste 1300
+* [![Facebook](https://www.ala.org/sites/ala.org/files/facebook%20%282%29.png "Facebook")](https://www.facebook.com/AmericanLibraryAssociation)
+* [![Twitter](https://www.ala.org/sites/ala.org/files/twitter%20%281%29.png "Twitter")](https://twitter.com/ALALibrary)
+* [![YouTube](https://www.ala.org/sites/ala.org/files/youtube%20%281%29.png "YouTube")](https://www.youtube.com/AmLibraryAssociation)
+* [![RSS](https://www.ala.org/sites/ala.org/files/rss_0.png "RSS")](https://www.ala.org/rss.xml)
 
-Chicago, IL 60601
-
-1.800.545.2433
-
-* [Offices](https://www.ala.org/aboutala/offices/home "Offices")
-* [News & Press](https://www.ala.org/news "News & Press")
-* [Divisions](https://www.ala.org/aboutala/divs "Divisions")
-* [Work at ALA](https://www.ala.org/aboutala/contactus/workatala "Work at ALA")
-* [Round Tables](https://www.ala.org/aboutala/rts "Round Tables")
-* [Shop](https://www.alastore.ala.org/ "Shop")
-* [Committees](https://www.ala.org/aboutala/committees "Committees")
-
-* [facebook](https://www.facebook.com/AmericanLibraryAssociation)
-* [twitter](https://twitter.com/ALALibrary)
-* [youtube](https://www.youtube.com/americanlibraryassocaition)
-
-[Donate](https://www.ala.org/donate)
-
-Footer Utility
---------------
-
-* [facebook](https://www.facebook.com/AmericanLibraryAssociation)
-* [twitter](https://twitter.com/ALALibrary)
-* [youtube](https://www.youtube.com/americanlibraryassocaition)
-
-* [ALA Websites](https://www.ala.org/aboutala/sitesdirectory "ALA Websites")
-* [Privacy Policy](https://www.ala.org/privacypolicy "Privacy Policy")
-* [User Guidelines](https://www.ala.org/user-guidelines "User Guidelines")
-* [Site Index](https://www.ala.org/sitemap.xml "Site Index")
-* [Feedback](https://www.ala.org/footer-feedback "Feedback")
-* [Work at ALA](https://www.ala.org/aboutala/contactus/workatala "Work at ALA")
+* [Copyright Statement](https://www.ala.org/copyright)
+* [Privacy Policy](https://www.ala.org/privacypolicy)
+* [User Guidelines](https://www.ala.org/user-guidelines)
+* [Site Index](https://www.ala.org/sitemap.xml)
+* [Feedback](https://www.ala.org/footer-feedback)
+* [Work at ALA](https://www.ala.org/aboutala/contactus/workatala)
 
 © 1996–2024 American Library Association
+
+ALA American Library Association
+
+225 N Michigan Ave, Suite 1300 Chicago, IL 60601 | 1.800.545.2433
