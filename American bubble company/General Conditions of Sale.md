@@ -1,6 +1,4 @@
-![](https://www.facebook.com/tr?id=679542016055742&ev=PageView&noscript=1)                                Refunds – BubbleTree USA                                                                 
-
-On-line purchasing temporary unavailable
+![](https://www.facebook.com/tr?id=679542016055742&ev=PageView&noscript=1)                                Refunds – BubbleTree USA                                                                
 
 * [C246EDDA-DB69-40CE-8B9F-2FD10A1B678C](https://www.facebook.com/bubbletreeusa)
 * [AF2FA8CE-CCE0-487D-BFFB-9958132B68E9](https://www.instagram.com/bubbletreeusa/)
@@ -11,8 +9,28 @@ On-line purchasing temporary unavailable
 
 [5DE6C577-183E-4C57-97F2-99BE5CD33978@2x 0](https://bubbletreeusa.com/cart)
 
+* [bubble solution & aluminum bottles](https://bubbletreeusa.com/collections/bubble-solution-aluminum-bottles)
+    
+    * [1 Liter system](https://bubbletreeusa.com/products/1-liter-system)
+    * [2 Liter system](https://bubbletreeusa.com/products/2-liter-system)
+    * [3 Liter system](https://bubbletreeusa.com/products/3-liter-system)
+    
+* [Aluminum bubble bottle multi-packs](https://bubbletreeusa.com/collections/bubble-solution)
+    
+    * [2 Bubble Bottle Multi-Pack](https://bubbletreeusa.com/products/2-bubble-bottle-mult-pack)
+    * [4 Bubble Bottle Multi-Pack](https://bubbletreeusa.com/products/4-bubble-bottle-mult-pack)
+    * [6 Bubble Bottle Multi-Pack](https://bubbletreeusa.com/products/6-bubble-bottle-mult-pack)
+    
+* [Bubble Solution Refills](https://bubbletreeusa.com/collections/bubble-bottle)
+    
+    * [1 Liter bubble solution](https://bubbletreeusa.com/products/1-liter-bubble-solution)
+    * [2 Liter bubble solution](https://bubbletreeusa.com/products/2-liter-bubble-solution)
+    * [3 Liter bubble solution](https://bubbletreeusa.com/products/3-liter-bubble-solution)
+    
+
 [![BubbleTree USA](//bubbletreeusa.com/cdn/shop/files/BT_logo_color.jpg?v=1614331351)](https://bubbletreeusa.com/)
 
+* [All Products](https://bubbletreeusa.com/pages/all-products)
 * [Our story](https://bubbletreeusa.com/pages/about)
 * [News](https://bubbletreeusa.com/blogs/news)
     
@@ -23,6 +41,25 @@ On-line purchasing temporary unavailable
 
 [](javascript:;)
 
+* [bubble solution & aluminum bottles](https://bubbletreeusa.com/collections/bubble-solution-aluminum-bottles)
+    
+    * [1 Liter system](https://bubbletreeusa.com/products/1-liter-system)
+    * [2 Liter system](https://bubbletreeusa.com/products/2-liter-system)
+    * [3 Liter system](https://bubbletreeusa.com/products/3-liter-system)
+    
+* [Aluminum bubble bottle multi-packs](https://bubbletreeusa.com/collections/bubble-solution)
+    
+    * [2 Bubble Bottle Multi-Pack](https://bubbletreeusa.com/products/2-bubble-bottle-mult-pack)
+    * [4 Bubble Bottle Multi-Pack](https://bubbletreeusa.com/products/4-bubble-bottle-mult-pack)
+    * [6 Bubble Bottle Multi-Pack](https://bubbletreeusa.com/products/6-bubble-bottle-mult-pack)
+    
+* [Bubble Solution Refills](https://bubbletreeusa.com/collections/bubble-bottle)
+    
+    * [1 Liter bubble solution](https://bubbletreeusa.com/products/1-liter-bubble-solution)
+    * [2 Liter bubble solution](https://bubbletreeusa.com/products/2-liter-bubble-solution)
+    * [3 Liter bubble solution](https://bubbletreeusa.com/products/3-liter-bubble-solution)
+    
+* [All Products](https://bubbletreeusa.com/pages/all-products)
 * [Our story](https://bubbletreeusa.com/pages/about)
 * [News](https://bubbletreeusa.com/blogs/news)
     
