@@ -16,7 +16,6 @@ Destinations
 * [Deer Valley Resort](https://www.alterramtnco.com/destinations/deer-valley-resort)
 * [June Mountain](https://www.alterramtnco.com/destinations/june-mountain)
 * [Mammoth Mountain](https://www.alterramtnco.com/destinations/mammoth-mountain)
-* [Mike Wiegele Helicopter Skiing](https://www.alterramtnco.com/destinations/mike-wiegele-helicopter-skiing)
 * [Palisades Tahoe](https://www.alterramtnco.com/destinations/palisades-tahoe)
 * [Schweitzer](https://www.alterramtnco.com/destinations/schweitzer)
 * [Snowshoe](https://www.alterramtnco.com/destinations/snowshoe)
