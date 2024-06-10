@@ -121,7 +121,7 @@ Application information](https://snohomishcountywa.gov/1609)
 1. ![CivicPlus Logo](/ImageRepository/Document?documentID=54873 "CivicPlus Logo") Government Websites by [CivicPlus®](http://www.civicplus.com/)  
     
 
-### Loading
+Loading
 
 Loading
 
