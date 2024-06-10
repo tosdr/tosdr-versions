@@ -1,4 +1,4 @@
-[![AURA Technologies](https://aura.company/wp-content/uploads/2024/05/AURA-updated-white-Logo.png)](https://aura.company/)
+[![AURA Technologies](https://aura.company/wp-content/uploads/2021/06/mobile-logo.svg)](https://aura.company/)
 
 * [About](https://aura.company/about/)
     * [About AURA](https://aura.company/about/)
@@ -18,9 +18,9 @@
 
 ![](https://aura.company/wp-content/themes/aura-technologies/images/burger-menu-icon.svg)
 
-[![AURA Technologies](https://aura.company/wp-content/uploads/2024/05/AURA-updated-white-Logo.png)](https://aura.company/)
+[![AURA Technologies](https://aura.company/wp-content/uploads/2021/06/mobile-logo.svg)](https://aura.company/)
 
-[![AURA Technologies](https://aura.company/wp-content/uploads/2024/05/AURA-updated-white-Logo.png)](https://aura.company/)
+[![AURA Technologies](https://aura.company/wp-content/uploads/2021/05/header-logo.svg)](https://aura.company/)
 
 * [About](https://aura.company/about/)
     * [About AURA](https://aura.company/about/)
@@ -147,7 +147,7 @@ By using our site, you consent to our web site privacy policy.
 
 If we decide to change our privacy policy, we will post those changes on this page.
 
-[![AURA Technologies](https://aura.company/wp-content/uploads/2024/05/AURA_Logo_Black-1.svg)](https://aura.company/)
+[![AURA Technologies](https://aura.company/wp-content/uploads/2021/05/footer-logo.svg)](https://aura.company/)
 
 * [Home](https://aura.company/)
 * [About](https://aura.company/about/)
