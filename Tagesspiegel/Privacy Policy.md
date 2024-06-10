@@ -199,6 +199,7 @@ zurückscrollen
     
     vorscrollen
     
+* [Podcasts](https://www.tagesspiegel.de/podcasts/)
 
 vorscrollen
 
@@ -222,7 +223,7 @@ Tagesspiegel-Produkte
     * [Unternehmen](https://www.tagesspiegel-gruppe.de/)
     * [Tagesspiegel Jobs](https://verlagsjobs.tagesspiegel.de/?utm_source=tagesspiegel.de&utm_campaign=products&utm_medium=service-nav-header&utm_term=Tagesspiegel%20Jobs)
     * [App](https://abo.tagesspiegel.de/tagesspiegel-app?utm_source=tagesspiegel.de&utm_campaign=products&utm_medium=service-nav-header&utm_term=App)
-    * [Podcasts](https://www.tagesspiegel.de/true-crime-gyncast-eine-runde-berlin-das-sind-die-podcasts-vom-tagesspiegel-8660119.html)
+    * [Podcasts](https://www.tagesspiegel.de/podcasts/)
     * [Sudoku](https://sudoku.tagesspiegel.de/?utm_source=tagesspiegel.de&utm_campaign=products&utm_medium=service-nav-header&utm_term=Sudoku)
     
     Themenspeziale
