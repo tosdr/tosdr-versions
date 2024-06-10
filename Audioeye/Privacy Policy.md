@@ -587,8 +587,6 @@ Company
 
 * [Our Trusted Certification](https://www.audioeye.com/audioeye-trusted-certification/)
 
-* [Security Commitment](https://www.audioeye.com/security-commitment/)
-
 Company ![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTUiIGhlaWdodD0iMTUiIHZpZXdCb3g9IjAgMCAxNSAxNSIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTcuNDk5OTYgMTEuMTU5OUM3LjI2OTc1IDExLjE1OCA3LjA0NzIyIDExLjA3NjggNi44Njk5NiAxMC45Mjk5TDAuMzY5OTYgNS42MDk4NkMwLjE5NTA1IDUuNDM0NDIgMC4wOTE0ODUzIDUuMjAwMzEgMC4wNzkzMzAzIDQuOTUyODhDMC4wNjcxNzUzIDQuNzA1NDQgMC4xNDcyOTYgNC40NjIzMSAwLjMwNDE2OSA0LjI3MDU3QzAuNDYxMDQxIDQuMDc4ODQgMC42ODM0OTggMy45NTIxNiAwLjkyODQzOCAzLjkxNTA4QzEuMTczMzggMy44NzggMS40MjMzNiAzLjkzMzE1IDEuNjI5OTYgNC4wNjk4Nkw3LjQ5OTk2IDguODY5ODZMMTMuMzcgNC4wNjk4NkMxMy41NzY2IDMuOTMzMTUgMTMuODI2NSAzLjg3OCAxNC4wNzE1IDMuOTE1MDhDMTQuMzE2NCAzLjk1MjE2IDE0LjUzODkgNC4wNzg4NCAxNC42OTU4IDQuMjcwNTdDMTQuODUyNiA0LjQ2MjMxIDE0LjkzMjcgNC43MDU0NCAxNC45MjA2IDQuOTUyODhDMTQuOTA4NCA1LjIwMDMxIDE0LjgwNDkgNS40MzQ0MiAxNC42MyA1LjYwOTg2TDguMTI5OTYgMTAuOTI5OUM3Ljk1MjcgMTEuMDc2OCA3LjczMDE3IDExLjE1OCA3LjQ5OTk2IDExLjE1OTlaIiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=) 
 
 * [About Us](https://www.audioeye.com/about-us/)
@@ -610,8 +608,6 @@ Company ![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTUiIGhlaWdodD0iMTUiIHZpZX
 * [Our Accessibility Statement](https://www.audioeye.com/accessibility-statement/)
 
 * [Our Trusted Certification](https://www.audioeye.com/audioeye-trusted-certification/)
-
-* [Security Commitment](https://www.audioeye.com/security-commitment/)
 
 Guidance
 
