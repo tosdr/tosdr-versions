@@ -611,6 +611,7 @@ Select Country [United States - English](https://www.philips-hue.com/en-us/count
 * [Site owner](https://www.philips-hue.com/en-us/support/legal/site-owner "Site owner")
 * [Press room](https://www.signify.com/global/our-company/news "Press room")
 * [Careers](https://www.careers.signify.com/ "Careers")
+* [Authorized Internet Dealers](https://www.philips-hue.com/en-us/authorized-internet-dealers "Authorized Internet Dealers")
 
 © 2018-2024 Signify Holding. All rights reserved.
 
