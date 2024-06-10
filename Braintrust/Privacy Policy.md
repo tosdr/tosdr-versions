@@ -2,8 +2,8 @@
 
 * [For Companies](https://www.usebraintrust.com/solutions) [ ] 
     * [Solutions](https://www.usebraintrust.com/solutions)
-    * [NEW: Braintrust AIR](https://www.usebraintrust.com/air)
     * [Why Braintrust](https://www.usebraintrust.com/why-braintrust)
+    * [How it Works](https://www.usebraintrust.com/braintrust-for-enterprise)
     * [Skills & Capabilities](https://www.usebraintrust.com/skills)
     * [Clients](https://www.usebraintrust.com/clients)
     * [Resources](https://www.usebraintrust.com/resources)
@@ -25,7 +25,7 @@
 
 [Sign Up](https://app.usebraintrust.com/auth/sign_up)
 
-[![Book Demos](https://no-cache.hubspot.com/cta/default/6712660/913905f6-fa13-4c88-a348-608a430aed25.png)](https://cta-redirect.hubspot.com/cta/redirect/6712660/913905f6-fa13-4c88-a348-608a430aed25)
+[![Hire Talents](https://no-cache.hubspot.com/cta/default/6712660/913905f6-fa13-4c88-a348-608a430aed25.png)](https://cta-redirect.hubspot.com/cta/redirect/6712660/913905f6-fa13-4c88-a348-608a430aed25)
 
 Privacy Policy.
 ===============
@@ -388,8 +388,7 @@ Your work. Your network. Your future.
 
 ##### Platform
 
-* [Solutions](https://www.usebraintrust.com/solutions)
-* [NEW: Braintrust AIR](https://www.usebraintrust.com/air)
+* [Enterprises](https://www.usebraintrust.com/solutions)
 * [Skills + Capabilities](https://www.usebraintrust.com/skills)
 * [Why Braintrust](https://www.usebraintrust.com/why-braintrust)
 * [Payments + Fees](https://www.usebraintrust.com/payments)
