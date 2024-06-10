@@ -23,8 +23,8 @@ Popular Games
 
 Latest game news
 
-* [Fight as a legend in DRAGON BALL: SPARKING! ZERO, releasing 11th october 2024](https://en.bandainamcoent.eu/dragon-ball/news/fight-legend-dragon-ball-sparking-zero-releasing-11th-october-2024)
-* [Haroona’s Friends & Foes: Reika](https://en.bandainamcoent.eu/unknown-9/news/haroonas-friends-foes-reika)
+* [SAND LAND - Global Release Timings](https://en.bandainamcoent.eu/sand-land/news/sand-land-global-release-timings)
+* [SWORD ART ONLINE LAST RECOLLECTION DLC: Ritual of Bonds Vol.2 is available now](https://en.bandainamcoent.eu/sword-art-online/news/sword-art-online-last-recollection-dlc-ritual-of-bonds-vol2-available-now)
 
    ![](/themes/custom/bne_main/images/newsletter/banner-newsletter.jpg?1648764000)
 
