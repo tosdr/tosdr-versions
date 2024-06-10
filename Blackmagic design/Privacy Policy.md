@@ -371,10 +371,6 @@ Also please note that by using our services, we assume that you are happy for us
         
         For transfers out of Australia, we note that Australian Privacy Principle 8.1 (reasonable steps to be taken prior to cross-border disclosure of personal information) will not apply to such disclosure (although in some cases GDPR may still impose a higher requirement).
         
-    5. 7.5
-        
-        We do not sell your personal information to third parties.
-        
 8. 8.
     
     Blackmagic forum
