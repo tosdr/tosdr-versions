@@ -15,11 +15,11 @@ You need to [enable JavaScript](https://www.chatbot.com/help/chat-widget/enable-
 
 [![ADATA Logo](/images/layout/icon/ADATA-logo.svg)](https://corp.adata.com/uk/)
 
-[![search](/images/layout/icon/search.svg)](https://www.adata.com/uk/search/)
+[![search](/images/layout/icon/search.svg)](https://test7.adata.com/uk/search/)
 
 [![ESG](/images/layout/icon/ESG.svg)ESG](https://esg.adata.com/uk/)
 
-[![member](/images/layout/icon/member.svg)Member Center](https://www.adata.com/uk/member/login)
+[![member](/images/layout/icon/member.svg)Member Center](https://test7.adata.com/uk/member/login)
 
 [![Language](/images/layout/icon/language.svg)Language](https://corp.adata.com/uk/language/)
 
