@@ -176,10 +176,8 @@ Menu Close
         * [What's covered?](https://www.axa.co.uk/business-insurance/public-liability/whats-covered/)
         * [How much public liability insurance do I need?](https://www.axa.co.uk/business-insurance/public-liability/how-much-public-liability-insurance-do-i-need/)
         * [How much does public liability insurance cost?](https://www.axa.co.uk/business-insurance/public-liability/how-much-does-public-liability-insurance-cost/)
-        * [Public liability insurance vs employers' liability insurance](https://www.axa.co.uk/public-liability-vs-employers-liability/)
         * [Examples of public liability insurance claims](https://www.axa.co.uk/business-insurance/public-liability/claims-examples/)
         * [Making a public liability insurance claim](https://www.axa.co.uk/business-insurance/public-liability/making-a-claim/)
-        * [Certificate of public liability insurance](https://www.axa.co.uk/business-insurance/public-liability/certificate-of-public-liability-insurance/)
         * [Policy documents](https://www.axa.co.uk/business-insurance/public-liability/policy-document/)
         * [Business interruption insurance](https://www.axa.co.uk/business-insurance/business-interruption-insurance/)
         * [Stock insurance](https://www.axa.co.uk/business-insurance/stock-insurance/)
@@ -279,7 +277,6 @@ Menu Close
         * [Designer insurance](https://www.axa.co.uk/business-insurance/designer-insurance/)
         * [Dog walkers’ insurance](https://www.axa.co.uk/business-insurance/dog-walkers-insurance/)
         * [Educational consultants insurance](https://www.axa.co.uk/business-insurance/professional-services/educational-consultants-insurance/)
-        * [Estate agent insurance](https://www.axa.co.uk/business-insurance/professional-services/estate-agents-insurance/)
         * [Financial services insurance](https://www.axa.co.uk/business-insurance/financial-services-insurance/)
         * [IT contractor insurance](https://www.axa.co.uk/business-insurance/it-contractor-insurance/)
         * [Life coach insurance](https://www.axa.co.uk/business-insurance/life-coach-insurance/)
@@ -353,7 +350,7 @@ Menu Close
 
 Car insurance
 
-Get AXA Car Insurance from as little as £319 (10% of AXA Comprehensive Car Insurance customers paid this or less between 1 February and 30 April 2024). We pay out 99.8% of car insurance claims (Data relates to personal car insurance claims for policies underwritten by AXA Insurance UK plc from January to December 2023).
+Get AXA Car Insurance from as little as £311 (10% of AXA Comprehensive Car Insurance customers paid this or less between 1 January and 31 March 2024). We pay out 99.8% of car insurance claims (Data relates to personal car insurance claims for policies underwritten by AXA Insurance UK plc from January to December 2023).
 
 [Find out more](https://www.axa.co.uk/car-insurance/ "Car insurance")
 
@@ -399,7 +396,7 @@ Tips and FAQs
 
 Home insurance
 
-Get AXA Home Insurance from as little as £189 (10% of AXA Plus Home Insurance customers paid this or less between 1 February and 30 April 2024). We pay out 88.2% of home insurance claims (Data relates to home insurance claims for policies underwritten by AXA Insurance UK plc from January to December 2023).
+Get AXA Home Insurance from as little as £181 (10% of AXA Plus Home Insurance customers paid this or less between 1 January and 31 March 2024). We pay out 88.2% of home insurance claims (Data relates to home insurance claims for policies underwritten by AXA Insurance UK plc from January to December 2023).
 
 [Find out more](https://www.axa.co.uk/home-insurance/ "Home insurance")
 
@@ -490,6 +487,10 @@ Tips and tools
 * [Startup business insurance](https://www.axa.co.uk/business-insurance/startup-insurance/ "Startup business insurance")
 * [Self-employed insurance](https://www.axa.co.uk/business-insurance/self-employed/ "Self-employed insurance")
 * [Working from home insurance](https://www.axa.co.uk/business-insurance/working-from-home-insurance/ "Working from home insurance")
+
+[AXA Startup Angel](https://www.axa.co.uk/startup-angel/)
+
+* [Win £25,000 for your startup](https://www.axa.co.uk/startup-angel/ "Win £25,000 for your startup")
 
 Van insurance
 
