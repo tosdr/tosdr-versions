@@ -28,6 +28,11 @@ Bitcoin ETF](https://www.acorns.com/bitcoin-etf/)
 
 [Log in](https://app.acorns.com/)[Get started](https://app.adjust.com/s1mjg4g_4oq5ari?fallback=https://www.acorns.com/tier-signup?key=GOLD)
 
+DWAYNE JOHNSON X ACORNS
+
+Help grow your money with  
+the [Mighty Oak card](https://www.acorns.com/mighty-oak-card/)
+
   [![Acorns Logo](https://sqy7rm.media.zestyio.com/Acorns-Logo-With-Text-2022.svg) ![Acorns Logo Icon](https://sqy7rm.media.zestyio.com/Acorns-Logo-No-Text-Updt-2022.svg)](https://www.acorns.com/)[Get the app](https://app.adjust.com/2bfkli_luqqxi?fallback=https://www.acorns.com/tier-signup?key=GOLD)
 
 Investing ![Downward arrow](https://sqy7rm.media.zestyio.com/Downward-Carat.svg) 
@@ -50,11 +55,15 @@ Bitcoin ETF](https://www.acorns.com/bitcoin-etf/)
 
 [Log in](https://app.acorns.com/)
 
+DWAYNE JOHNSON X ACORNS
+
+Help grow your money with  
+the [Mighty Oak card](https://www.acorns.com/mighty-oak-card/)
+
 The Fine Print of Acorns
 ------------------------
 
 * [Audited Statement of Financial Condition as of December 31, 2023](https://sqy7rm.media.zestyio.com/Acorns-Securities-SOFC-12-2023-WEBSITE.pdf)
-* [Chevron Sweep Stakes](https://www.acorns.com/chevron-sweep-stakes/)
 * [Terms of Use](https://www.acorns.com/terms/)
 * [Wrap Fee Brochure](https://www.acorns.com/wrap-fee-brochure/)
 * [Accessibility Statement](https://www.acorns.com/accessibility/)
@@ -66,6 +75,7 @@ The Fine Print of Acorns
 * [Mighty Oak Card](https://www.acorns.com/mighty-oak-terms-and-conditions/)
 * [Long Game Sweepstakes Terms](https://www.acorns.com/longgamesweepstakes/)
 * [Premium Tier Tunsgten Promotions Terms](https://www.acorns.com/tungsten-promotions-terms/)
+* [100 Thieves Sweepstakes Terms](https://www.acorns.com/100-thieves-terms/)
 * [Referral Promotion Terms](https://www.acorns.com/ref-terms/)
 * [Earn Rewards Match](https://sqy7rm.media.zestyio.com/Earn-Rewards-Match-TC--9_25-Update-.pdf)
 * [Program Agreement](https://www.acorns.com/program-agreement/)
