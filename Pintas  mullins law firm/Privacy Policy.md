@@ -263,7 +263,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including phone calls, text messages, autodialed / auto-selected or pre-recorded calls). My own message and data rates may apply. I know my consent to such contact is not required for use of these services.
 
-Phone
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
@@ -273,17 +273,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![What causes mesothelioma lung cancer?](https://www.pintas.com/wp-content/uploads/2020/07/mesothelioma-what-causes-mesothelioma-lung-cancer-scaled.jpg "What Causes Mesothelioma Lung Cancer?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/what-causes-mesothelioma-lung-cancer/ "What Causes Mesothelioma Lung Cancer?")
+[![How long does it take to settle a nursing home lawsuit?](https://www.pintas.com/wp-content/uploads/2021/04/a-neglected-senior-in-a-wheelchair-300x200.jpg "How Long Does it Take to Settle a Nursing Home Lawsuit?")](https://www.pintas.com/practice-areas/personal-injury/nursing-home-abuse-lawyer/nursing-home-settlement-timeline/ "How Long Does it Take to Settle a Nursing Home Lawsuit?")
 
-[#### What Causes Mesothelioma Lung Cancer?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/what-causes-mesothelioma-lung-cancer/)
+[#### How Long Does it Take to Settle a Nursing Home Lawsuit?](https://www.pintas.com/practice-areas/personal-injury/nursing-home-abuse-lawyer/nursing-home-settlement-timeline/)
 
-[![What is the difference between lung cancer and mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/02/lung-cancer-what-is-the-difference-between-lung-cancer-and-mesothelioma.jpg "What Is the Difference Between Lung Cancer and Mesothelioma?")](https://www.pintas.com/practice-areas/lung-cancer/what-is-the-difference-between-lung-cancer-and-mesothelioma "What Is the Difference Between Lung Cancer and Mesothelioma?")
+[![How long do you have to file a lawsuit against a nursing home?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-how-long-do-you-have-to-file-a-lawsuit-against-a-nursing-home-scaled.jpg "How Long Do You Have to File a Lawsuit Against a Nursing Home?")](https://www.pintas.com/faq/how-long-do-you-have-to-file-a-lawsuit-against-a-nursing-home/ "How Long Do You Have to File a Lawsuit Against a Nursing Home?")
 
-[#### What Is the Difference Between Lung Cancer and Mesothelioma?](https://www.pintas.com/practice-areas/lung-cancer/what-is-the-difference-between-lung-cancer-and-mesothelioma)
+[#### How Long Do You Have to File a Lawsuit Against a Nursing Home?](https://www.pintas.com/faq/how-long-do-you-have-to-file-a-lawsuit-against-a-nursing-home/)
 
-[![What is the cancer causing ingredient in johnson & johnson?](https://www.pintas.com/wp-content/uploads/2020/07/talcum-powder-what-is-the-cancer-causing-ingredient-in-johnson-and-johnson-scaled.jpg "What Is the Cancer Causing Ingredient in Johnson & Johnson?")](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/cancer-causing-ingredient-in-talcum-powder "What Is the Cancer Causing Ingredient in Johnson & Johnson?")
+[![What is the life expectancy of a person with mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/07/mesothelioma-what-is-the-life-expectancy-of-a-person-with-mesothelioma-scaled.jpg "What Is the Life Expectancy of a Person with Mesothelioma?")](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/life-expectancy "What Is the Life Expectancy of a Person with Mesothelioma?")
 
-[#### What Is the Cancer Causing Ingredient in Johnson & Johnson?](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/cancer-causing-ingredient-in-talcum-powder)
+[#### What Is the Life Expectancy of a Person with Mesothelioma?](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/life-expectancy)
 
 ### Injured?  
 Tell Us What Happened.
@@ -306,7 +306,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by my email or telephone (including phone calls, text messages, autodialed / auto-selected or pre-recorded calls). My own message and data rates may apply. I know my consent to such contact is not required for use of these services.
 
-Phone
+Email
 
 This field is for validation purposes and should be left unchanged.
 
