@@ -1,93 +1,132 @@
-![](https://ws.zoominfo.com/pixel/lxUaNKjbDeMIXSIuozxr)                           
+![](https://ws.zoominfo.com/pixel/lxUaNKjbDeMIXSIuozxr)                           [Skip to content](#content)
 
-[Skip to content](#content)
+[![Appcast Logo](https://www.appcast.io/wp-content/uploads/2020/09/appcast_logo.svg)](https://www.appcast.io/)
 
-[![](https://www.appcast.io/wp-content/uploads/2023/08/appcast-logo.svg)](https://www.appcast.io/)
-
-[Book a Demo](https://www.appcast.io/get-a-demo-of-appcast/)
-
-[![](https://www.appcast.io/wp-content/uploads/2023/08/appcast-logo.svg)](https://www.appcast.io/)
+[![Appcast Logo](https://www.appcast.io/wp-content/uploads/2020/09/appcast_logo.svg)](https://www.appcast.io/)
 
 Solutions
 
-Our solutions are designed to meet all your talent acquisition needs.
+### Our Solutions
 
-[![](https://www.appcast.io/wp-content/uploads/2024/05/Frame-22840.svg)
+Learn about Appcast’s enterprise solutions that are designed to meet all your talent acquisition needs.
 
-AppcastOne transforms candidate acquisition by harnessing the power of programmatic into a single omni-channel enterprise solution.](https://www.appcast.io/appcast-one/)[![](https://www.appcast.io/wp-content/uploads/2024/05/appcast-b-and-c.svg)
+We’re committed to solving recruitment marketing challenges for leading organizations around the globe. By combining Appcast’s award-winning programmatic tech with Bayard’s 100+ years of recruitment marketing services, we’ve doubled down on our promise.
 
-Level up your talent acquisition effectiveness with brand and strategy development to award-winning, cross-channel creatives.](https://www.appcast.io/appcast-brand-and-creative/)
+[![AppcastOne](https://www.appcast.io/wp-content/uploads/2023/08/Group-1670.png)](https://www.appcast.io/appcast-one/)
+
+[AppcastOne
+
+AppcastOne transforms candidate acquisition by harnessing the power of programmatic, search, social, and traditional media into a single omni-channel enterprise solution.](https://www.appcast.io/appcast-one/)
+
+Our Four Pillars
+
+* [Programmatic](https://www.appcast.io/appcast-one/programmatic/)
+* [Search & Display](https://www.appcast.io/appcast-one/search-and-display/)
+* [Social](https://www.appcast.io/appcast-one/social/)
+* [Traditional](https://www.appcast.io/appcast-one/traditional-recruitment/)
+
+[![](https://www.appcast.io/wp-content/uploads/2023/08/Group-1669.png)](https://www.appcast.io/appcast-brand-and-creative/)
+
+[Appcast Brand & Creative
+
+Appcast Brand & Creative is a full suite of professional services from brand and strategy development to award-winning, cross-channel creatives.](https://www.appcast.io/appcast-brand-and-creative/)
+
+###### **Why Appcast Brand & Creative?**
+
+* Authentic brand amplification
+* An industry-leading creative studio
+* DEI experts
+* Candidate-centric design & development
+
+[View Our Work](https://www.appcast.io/brand-and-creative-portfolio/)
 
 Our Approach
 
-[What Is Programmatic Recruitment?
+[What is Programmatic recruitment?
 
-Programmatic recruitment uses software and data to efficiently find the best candidates for your open jobs.](https://www.appcast.io/what-is-programmatic-recruitment/)[What Is A Job Ad Exchange?
+Programmatic recruitment uses software and data to efficiently find the best candidates for your open jobs.](https://www.appcast.io/what-is-programmatic-recruitment/)
 
-A job ad exchange contains thousands of job boards, sites, and sources visited by jobseekers.](https://www.appcast.io/job-ad-exchange/)[What Role Does AI Play In Our Technology?
+[What is a Job Ad Exchange?
 
-Find out about ‘Appcast Intelligence’ and how it takes the hard work out of filling your recruitment funnels.](https://www.appcast.io/ai-at-appcast/)
+A job ad exchange contains thousands of job boards, sites, and sources visited by jobseekers.](https://www.appcast.io/job-ad-exchange/)
 
-[How Is Data Involved?
+[What Role Does AI Play In Our Technology?
 
-Data drives all our actions at Appcast, shedding light on effective candidate sourcing strategies.](https://www.appcast.io/how-is-data-involved/)[Who We Help
+Find out about ‘Appcast Intelligence’ and how it takes the hard work out of filling your recruitment funnels.](https://www.appcast.io/ai-at-appcast/)  
 
-We help employers across all industries cost-effectively find candidates for all their open positions, fast.](https://www.appcast.io/customers-we-help/)[Who We Partner With
+[How is data involved?
+
+At Appcast, data powers everything we do. Data illuminates what works, where, and why when it comes to finding the right candidates for your jobs.](https://www.appcast.io/how-is-data-involved/)
+
+[Who we Help
+
+We help employers across all industries cost-effectively find candidates for all their open positions, fast.](https://www.appcast.io/customers-we-help/)
+
+[Who We Partner With
 
 Learn about how your company can partner with Appcast to help employers hire faster and more cost-effectively.](https://www.appcast.io/partners/)
 
-[2024 Benchmark Report
+Welcome to OUR
 
-Download the 2024 Recruitment Marketing Benchmark Report to get the data you need to help meet your hiring goals in any economic climate.
+![](https://www.appcast.io/wp-content/uploads/2024/02/Group-914.svg)
 
-![](https://www.appcast.io/wp-content/uploads/2024/05/report-logo-cr.png)](https://www.appcast.io/2024-benchmark-report/)
+[Download Now](https://www.appcast.io/2024-benchmark-report/)
 
 About Us
 
 [Our Story
 
-Learn where we’re from and where we’re going.](https://www.appcast.io/our-story/)[Working At Appcast
+Learn where we’re from and where we’re going.](https://www.appcast.io/our-story/)
+
+[Working At Appcast
 
 Come learn and grow alongside industry experts, amazing people, and some really sweet dogs.](https://www.appcast.io/careers/)
 
 [News Room
 
-Recent announcements and media coverage.](https://www.appcast.io/news/)[Contact Us
+Recent announcements and media coverage about Appcast.](https://www.appcast.io/news/)
+
+[Contact Us
 
 We’d love to connect! Reach out and we’ll get back to you as quickly as possible.](https://www.appcast.io/contact/)
 
-[Begin your journey
-------------------
+##### Appcast Launches AppcastOne  
 
-with Appcast
-------------](https://www.appcast.io/careers/)
+AppcastOne transforms candidate acquisition by harnessing the power of programmatic, search, social and traditional media into a single enterprise offering.
+
+[Learn More](https://www.appcast.io/appcast-one/)
 
 Resources
 
 [The Library
 
-Access treasure troves of research papers, reports, and articles to help you optimize your recruiting efforts.](https://www.appcast.io/resource-library/)[Blog
+Access treasure troves of research papers, reports, and articles to help you optimize your recruiting efforts.](https://www.appcast.io/resource-library/)
 
-Stay current with recruitment best practices & industry news on Appcast’s blog.](https://www.appcast.io/blog/)[Customer Stories
+[Blog
+
+Stay current with recruitment best practices & industry news on Appcast’s blog.](https://www.appcast.io/blog/)
+
+[Customer Stories
 
 Learn how our customers use programmatic recruiting to fill their hiring funnels with qualified candidates.](https://www.appcast.io/customer-stories/)
 
 [Live & Virtual Events
 
-Join us for upcoming live and virtual events and access past virtual events on-demand. Access our calendar here.](https://www.appcast.io/live-and-virtual-events/)[Gender Bias Decoder
+Join us for upcoming live and virtual events and access past virtual events on-demand. Access our calendar here.](https://www.appcast.io/live-and-virtual-events/)
 
-Use our tool to identify gender-coded terms in your job ads and suggest bias-free alternatives.](https://www.appcast.io/gender-bias-decoder/)[Recruitonomics
+[Gender Bias Decoder
 
-A destination for data-driven insights to make sense of an evolving world of work.](https://recruitonomics.com/?__hstc=43218810.e453894e772a8c99aa3c908ab843ac5b.1704366722756.1716496368105.1716545377374.109&__hssc=43218810.2.1716545377374&__hsfp=4137284348)
+Access our new tool that highlights gender-coded terms & offers alternative wording to remove gender bias from your job ads.](https://www.appcast.io/gender-bias-decoder/)
 
 [Recruitonomics
---------------
 
-Built from a world-class data set, Recruitonomics is the combination of labor economics & recruiting tactics.](https://recruitonomics.com/?__hstc=43218810.e453894e772a8c99aa3c908ab843ac5b.1704366722756.1716496368105.1716545377374.109&__hssc=43218810.2.1716545377374&__hsfp=4137284348)
+A destination for data-driven insights to make sense of an evolving world of work.](https://recruitonomics.com/)
 
-[login](https://premium.appcast.io/user_sessions/new)
+[![Introducing Recruitonomics.com](https://www.appcast.io/wp-content/uploads/2022/01/Website_Nav_Ad2.jpg)](https://recruitonomics.com/)
 
-[Book a Demo](https://www.appcast.io/get-a-demo-of-appcast/)
+[Get a Demo!](https://www.appcast.io/get-a-demo-of-appcast/)
+
+[Log In](https://premium.appcast.io/user_sessions/new)
 
 Privacy Policy
 ==============
@@ -96,9 +135,9 @@ We take data protection seriously and have built our platform using best practic
 
 ### Appcast’s Privacy Policy
 
-**Revised and Effective – April 29, 2024**
+**Revised and Effective – April 4, 2024**
 
-Appcast, Inc. and its subsidiary, Bayard Advertising Agency, Inc. (collectively referred to as “Appcast” or “we” or “us”) is a job advertising technology and recruitment marketing service. We also own and operate several websites (e.g., [www.appcast.io](http://www.appcast.io/ "http://www.appcast.io")).
+Appcast, Inc., and its subsidiary, Bayard Advertising Inc. (collectively referred to as “Appcast” or “we” or “us”) is a job advertising technology and recruitment marketing service. We also own and operate several websites (e.g., [www.appcast.io](http://www.appcast.io/ "http://www.appcast.io/")).
 
 This Privacy Policy describes (i) the types of information we collect when you use our websites (the “websites”), interact with our products, services, or applications (the “Service”) in any manner; (ii) how we use the information we collect; (iii) with whom and why we share it; and (iv) the choices we offer regarding our use of the information. We also describe the measures we take to protect the security of the information and how to contact us about our privacy practices.
 
@@ -267,29 +306,29 @@ If you would like to exercise your rights, please submit a written request via [
 
 [**EEA, UK, and Switzerland Resi****dents**](https://www.appcast.io/privacy-policy/#EU-UK)
 
-If you are a resident of the European Economic Area (EEA), the United Kingdom and Gibraltar (collectively the UK), or Switzerland, please see the section below headed “Transferring Personal Data to the United States” for further information about your privacy rights.
+If you are a resident of the European Economic Area, the United Kingdom, or Switzerland, please see the section below headed “Transferring Personal Data to the United States” for further information about your privacy rights. 
 
 **Transferring Personal Data to The United States**
 
-Appcast is located in the United States. Please be aware that any information you provide to us may be transferred to, processed, or accessed in the United States and other countries in which our service providers are located, and may be subject to United States law or other international law. The privacy and data protection laws in the United States and other countries may not be equivalent to the laws in your country of residence.
+Appcast is located in the United States. Please be aware that any information you provide to us may be transferred to, processed, or accessed in the United States and other countries in which our service providers are located, and may be subject to United States law or other international law. The privacy and data protection laws in the United States and other countries may not be equivalent to the laws in your country of residence. 
 
-When Appcast engages in such transfers of individuals in the EEA, Appcast may rely on (i) Articles 45 to 49 of the GDPR, or (ii) the EU Standard Contractual Clauses for international transfers of personal data. When Appcast engages in such transfers of individuals in the UK, Appcast may rely on (i) Articles 45,46 or 49 of the UK GDPR and Section 17A of the Data Protection Act 2018, or (ii) the EU Standard Contractual Clauses, as amended by the UK International Data Transfer Addendum to the EU Standard Contractual Clauses. When Appcast engages in such transfers of individuals in Switzerland, Appcast may rely on the EU Standard Contractual Clauses, as amended by the Swiss Addendum to the EU Standard Contractual Clauses. In particular, Appcast collects and transfers outside the EEA and UK personal data only: with your consent, to perform a contract with you, or to fulfill a legitimate interest of Appcast in a manner that does not outweigh your rights and freedoms. Appcast endeavors to apply suitable safeguards to protect the privacy and security of your personal data and to use it only consistent with your relationship with Appcast and the practices described in this Privacy Policy.  We acknowledge our liability for such data transfers to third parties.
+When Appcast engages in such transfers of individuals in the EEA, Appcast may rely on (i) Articles 45 to 49 of the GDPR, or (ii) the EU Standard Contractual Clauses for international transfers of personal data. When Appcast engages in such transfers of individuals in the UK, Appcast may rely on (i) Articles 45 and 46 of the UK GDPR and Section 17A of the Data Protection Act 2018, or (ii) the EU Standard Contractual Clauses, as amended by the UK International Data Transfer Addendum to the EU Standard Contractual Clauses. When Appcast engages in such transfers of individuals in Switzerland, Appcast may rely on the EU Standard Contractual Clauses, as amended by the Swiss Addendum to the EU Standard Contractual Clauses. In particular, Appcast collects and transfers outside the EEA and UK personal data only: with your consent, to perform a contract with you, or to fulfill a legitimate interest of Appcast in a manner that does not outweigh your rights and freedoms. Appcast endeavors to apply suitable safeguards to protect the privacy and security of your personal data and to use it only consistent with your relationship with Appcast and the practices described in this Privacy Policy.  We acknowledge our liability for such data transfers to third parties. 
 
-We will always give you an opportunity to choose opt out before your personal data is (1) disclosed to a third party (other than an agent doing work at our direction), or (2) to be used for a purpose that is materially different than that for which it was originally collected or subsequently authorized by you. The only exception to this choice would be where we are required to disclose your personal data pursuant to government or judicial order, law, or regulation to meet national security or law enforcement requirements.
+We will always give you an opportunity to choose opt out before your personal data is (1) disclosed to a third party (other than an agent doing work at our direction), or (2) to be used for a purpose that is materially different than that for which it was originally collected or subsequently authorized by you. The only exception to this choice would be where we are required to disclose your personal data pursuant to government or judicial order, law, or regulation to meet national security or law enforcement requirements. 
 
-Appcast complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce.  Appcast has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union and the United Kingdom in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF.  Appcast has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF.  If there is any conflict between the terms in this privacy policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern. To learn more about the DPF program, and to view our certification, please visit  [https://www.dataprivacyframework.gov/](https://www.dataprivacyframework.gov/)
+Appcast, Inc. complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF) and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce and has certified to the U.S. Department of Commerce that it adheres to the Data Privacy Framework Principles with respect to the processing of personal data received from the European Union and Switzerland in reliance on the Data Privacy Framework (DPF). If there is any conflict between the terms in this privacy policy and the DPF Principles, the DPF Principles shall govern. To learn more about the DPF program, and to view our certification, please visit [https://www.dataprivacyframework.gov/](https://www.dataprivacyframework.gov/ "https://www.dataprivacyframework.gov/"). 
 
-In compliance with the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF, Appcast commits to resolve DPF Principles-related complaints about our collection and use of your personal information. EU, UK, and Swiss individuals with inquiries or complaints regarding our handling of personal data received in reliance on the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF or the Swiss-U.S. DPF should first contact us at [dpo@appcast.io](mailto:dpo@appcast.io) or at 1-800-570-5430, extension 4. We will investigate your complaint, take appropriate action, and report back to you within 45 days.
+In compliance with the EU-U.S. DPF and the Swiss-U.S. DPF, Appcast commits to resolve DPF Principles-related complaints about our collection and use of your personal information. EU and Swiss individuals with inquiries or complaints regarding our handling of personal data received in reliance on the EU-U.S. DPF and the Swiss-U.S. DPF should first contact us at [dpo@appcast.io](mailto:dpo@appcast.io "mailto:dpo@appcast.io") or at 1-800-570-5430, extension 4. We will investigate your complaint, take appropriate action, and report back to you within 45 days. 
 
-If you are not satisfied with our response, Appcast, Inc. has agreed to participate in the dispute resolution procedures in compliance with the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF. Appcast commits to cooperate and comply respectively with the advice of the panel established by the EU data protection authorities (DPAs), the UK Information Commissioner’s Office (ICO) and the Gibraltar Regulatory Authority (GRA), and the Swiss Federal Data Protection and Information Commissioner (FDPIC) with regard to unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S. DPF, and the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF.
+If you are not satisfied with our response, Appcast, Inc. has agreed to participate in the dispute resolution procedures in compliance with the EU-U.S. DPF and the Swiss-U.S. DPF. A resident of the EU whose enquiry has not been satisfactorily addressed may contact either the EU DPAs panel or individual EU DPAs using the information provided at [https://edpb.europa.eu/about-edpb/about-edpb/members\_en](https://edpb.europa.eu/about-edpb/about-edpb/members_en "https://edpb.europa.eu/about-edpb/about-edpb/members_en") to resolve disputes pursuant to the EU-U.S. DPF. A resident of Switzerland whose enquiry has not been satisfactorily addressed may contact the Swiss FDPIC at [https://www.edoeb.admin.ch/edoeb/en/home/deredoeb.html](https://www.edoeb.admin.ch/edoeb/en/home/deredoeb.html "https://www.edoeb.admin.ch/edoeb/en/home/deredoeb.html") to resolve disputes pursuant to the Swiss-U.S. DPF. 
 
-Finally, as a last resort and in limited situations, EU, UK, and Swiss individuals may invoke binding Data Privacy Framework arbitration. To learn more about this mechanism and your eligibility, please visit [https://www.dataprivacyframework.gov/s/article/ANNEX-I-introduction-dpf?tabset-35584=2](https://www.dataprivacyframework.gov/s/article/ANNEX-I-introduction-dpf?tabset-35584=2%22%20\t%20%22_blank)
+Finally, as a last resort and in limited situations, EU and Swiss individuals may invoke binding Data Privacy Framework arbitration. To learn more about this mechanism and your eligibility, please visit [https://www.dataprivacyframework.gov/s/article/ANNEX-I-introduction-dpf?tabset-35584=2](https://www.dataprivacyframework.gov/s/article/ANNEX-I-introduction-dpf?tabset-35584=2%22%20\t%20%22_blank "https://www.dataprivacyframework.gov/s/article/ANNEX-I-introduction-dpf?tabset-35584=2%22%20\t%20%22_blank").  
 
-The Federal Trade Commission has jurisdiction over Appcast’ s compliance with the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF.
+Appcast, Inc. is under the jurisdiction as well as the investigatory and enforcement powers of the U.S. Federal Trade Commission for the purposes of the EU-U.S. DPF and Swiss-U.S. DPF. 
 
 **EU Representative**
 
-Appcast has appointed its parent company, Stepstone GmbH, as its representative in the EU for data protection matters.  In addition to Appcast, you may contact our Data Protection Officer on all issues related to our processing of personal data via email at [heiner.tent@stepstone.com](mailto:heiner.tent@stepstone.com) or via mail at Stepstone GmbH, Mr. Heiner Tent, Völklinger Str. 1, 40219 Düsseldorf, Germany.
+Appcast has appointed its parent company, StepStone GmbH, as its representative in the EU for data protection matters.  In addition to Appcast, you may contact our Data Protection Officer on all issues related to our processing of personal data via email at [heiner.tent@stepstone.com](mailto:heiner.tent@stepstone.com) or via mail at StepStone GmbH, Mr. Heiner Tent, Völklinger Str. 1, 40219 Düsseldorf, Germany. 
 
 **Enforceability; Non-waiver**
 
@@ -303,48 +342,58 @@ If you want to reach our Privacy Team or you have any questions about this Priva
 10 Water Street  
 Lebanon, NH, 03766, USA**
 
-![](https://www.appcast.io/wp-content/uploads/2024/05/footer-10-years@2x.png)
+###### Just Released
 
-We’re celebrating our 10th anniversary. A decade of award-winning programmatic job advertising technology.
+#### 2024 Recruitment  
+Marketing Benchmark  
+Report
 
-[read more](https://www.prweb.com/releases/appcast-marks-a-decade-of-innovation-and-growth-celebrating-10-years-of-leadership-in-recruitment-marketing-302145721.html)
+##### Appcast’s 8th annual Recruitment Marketing Benchmark Report has the data you need to help meet your hiring goals in any economic climate. 
 
-[![](https://www.appcast.io/wp-content/uploads/2024/05/Logo-Primary.svg)](https://www.appcast.io/)
+[Download Now](https://info.appcast.io/whitepaper/2024-recruitment-marketing-benchmark-report?lead_source__n_=Appcast%20Website&utm_medium=Website&utm_source=Website&utm_campaign=&utm_content=&utm_term=)
 
-Keep up to date with all the latest from Appcast:
-
-[](https://www.linkedin.com/company/appcast-io/)
-
-[](https://www.instagram.com/appcastinc)
-
-[](https://www.facebook.com/appcast.io/)
-
-[](https://www.youtube.com/channel/UCWBYkHfhXajj7vFSRc6VFEw)
-
-[](https://twitter.com/appcast_io)
-
-get in touch
+##### CONTACT
 
 * [contact@appcast.io](mailto:contact@appcast.io)
 * [1 (800) 570-5430](tel:%201%20(800)%20570-5430)
 
-partners
+##### FOLLOW US
+
+* [X.com](https://twitter.com/appcast_io)
+* [LinkedIn](https://www.linkedin.com/company/appcast-io/)
+* [Facebook](https://www.facebook.com/appcast.io/)
+* [Instagram](https://www.instagram.com/appcastinc)
+* [YouTube](https://www.youtube.com/channel/UCWBYkHfhXajj7vFSRc6VFEw)
+
+##### PARTNERS
 
 * [Our Partners](https://www.appcast.io/partners/)
 * [ATS & CRM](https://www.appcast.io/partners/ats-and-crm/)
 * [Job Sites](https://www.appcast.io/partners/jobsites/)
 * [Agencies](https://www.appcast.io/partners/solutions-for-agencies/)
-* [Login](https://xcelerate.appcast.io/user_sessions/new)
 
-* [Privacy Policy](https://www.appcast.io/privacy-policy/)
-* [Anti-Slavery Policy](https://www.appcast.io/legal/#anti-slavery-policy)
-* [Sitemap](https://www.appcast.io/sitemap/)
-* [Legal](https://www.appcast.io/legal/)
-* [Do not sell or share my  
-    personal information](https://www.appcast.io/appcast-privacy-webform/)
+[Log In](https://xcelerate.appcast.io/user_sessions/new)
 
-[![](https://www.appcast.io/wp-content/uploads/2024/05/Logo-Primary.svg)](https://www.appcast.io/)
+[PRIVACY](https://www.appcast.io/privacy-policy/)
 
-[Web design by Something Familiar](https://somethingfamiliar.co.uk/)
+[LEGAL](https://www.appcast.io/legal/)
+
+[SITEMAP](https://www.appcast.io/sitemap/)
+
+[Log In](https://xcelerate.appcast.io/user_sessions/new)
+
+[PRIVACY](https://www.appcast.io//privacy-policy/)
+
+[LEGAL](https://www.appcast.io/legal/)
+
+[SITEMAP](https://www.appcast.io//sitemap/)
+
+[Log In](https://xcelerate.appcast.io/user_sessions/new)
+
+Web design by
+
+[![Something Familiar](https://www.appcast.io/wp-content/uploads/2020/09/Something-Familiar-_-Design-Studio-Bristol-0-4.svg)](https://www.somethingfamiliar.co.uk/)
 
 © 2024 Appcast All Rights Reserved
+
+[Do Not Sell or Share my Personal Information](https://www.appcast.io/appcast-privacy-webform)
