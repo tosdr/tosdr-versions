@@ -44,15 +44,15 @@
     * [Positions & Views](https://www.abbvie.com/who-we-are/our-principles/positions-views.html)
     * [Explore our history](https://www.abbvie.com/landing/a-history-of-impact.html)
     
-      [![](https://abbvie.scene7.com/is/image/abbviecorp/Working-with-cancer-category-840x560)
+      [![](https://s7d9.scene7.com/is/image/abbviecorp/workingparents-2023-hero)
     
-    May 07, 2024 Oncology
+    November 02, 2023 Profile
     
-    #### Transforming Cancer Care from the Inside Out
+    #### Working Parents 2023: Finding comfort in community
     
-    Discover how AbbVie’s supportive benefits are advancing cancer care for employees.
+    This year’s working parents share their stories of how they balance work, family and community involvement
     
-    Read Article 4 Minute Read](https://www.abbvie.com/who-we-are/our-stories/transforming-cancer-care-from-the-inside-out.html)
+    Read Article 6 Minute Read](https://www.abbvie.com/who-we-are/our-stories/working-parents-2023-finding-comfort-in-community.html)
     
     Recognition
     
@@ -235,14 +235,15 @@
     Back
 * Sustainability
     
-    * [AbbVie Foundation](https://www.abbvie.com/sustainability/abbvie-foundation.html)
-    * [Disaster Relief](https://www.abbvie.com/sustainability/disaster-relief.html)
-    * Environmental, Social & Governance
+    * [Environmental, Social & Governance](https://www.abbvie.com/sustainability/environmental-social-and-governance.html)
+    * Philanthropy
         
-        [Go to Page](https://www.abbvie.com/sustainability/environmental-social-and-governance.html)
+        [Go to Page](https://www.abbvie.com/sustainability/philanthropy.html)
         
-        * [Resources](https://www.abbvie.com/sustainability/environmental-social-and-governance/resources.html)
+        * [Philanthropic Programs](https://www.abbvie.com/sustainability/philanthropy/philanthropic-programs.html)
+        * [Employee Engagement](https://www.abbvie.com/sustainability/philanthropy/employee-engagement.html)
         
+    * [Resources](https://www.abbvie.com/sustainability/resources.html)
     
     Close
     
@@ -252,26 +253,26 @@
     
     [Go To Page](https://www.abbvie.com/sustainability.html)
     
-    * [2023 ESG Report](https://www.abbvie.com/content/dam/abbvie-com2/pdfs/abbvie-esg-action-report.pdf)
+    * [2022 ESG Report](https://www.abbvie.com/content/dam/abbvie-com2/pdfs/abbvie-esg-action-report.pdf)
     * [Environmental, Social & Governance](https://www.abbvie.com/sustainability/environmental-social-and-governance.html)
     
-      [![](https://s7d9.scene7.com/is/image/abbviecorp/racial-equity-hero)
+    [![](/content/dam/abbvie-com2/images/stories/abbvie-rebuilds-north-chicagos-middle-school/NSO_Hero_2880x1620.jpg)
     
-    February 28, 2024 Philanthropy
+    November 17, 2022 Philanthropy
     
-    #### AbbVie Foundation Partners Scale Efforts to Advance Racial Equity
+    #### AbbVie rebuilds North Chicago’s middle school
     
-    See the cumulative progress made by our six nonprofit partners driving health and education equity for Black and other marginalized groups
+    Built with AbbVie's $40 million donation, the new Neal Math and Science Academy now reflects the talent and potential of its students.
     
-    Read Article 5 Minute Read](https://www.abbvie.com/who-we-are/our-stories/partners-scale-efforts-to-advance-racial-equity.html)
+    Read Article 5 Minute Read](https://www.abbvie.com/who-we-are/our-stories/abbvie-rebuilds-north-chicagos-middle-school-inspiring-students-to-reach-higher.html)
     
     Patient access
     
-    218
+    190
     
     K
     
-    U.S. patients provided medicine at no cost in 2023
+    U.S. patients provided medicine at no cost in 2022
     
     Back
 * Quick Links
@@ -290,6 +291,7 @@
     News Center
     
     * [Latest News](https://news.abbvie.com/)
+    * [Fact Sheets](https://news.abbvie.com/fact-sheets)
     * [Media Contacts](https://news.abbvie.com/pr-contacts/)
     
     Investors
@@ -330,6 +332,7 @@
     News Center
     
     * [Latest News](https://news.abbvie.com/)
+    * [Fact Sheets](https://news.abbvie.com/fact-sheets)
     * [Media Contacts](https://news.abbvie.com/pr-contacts/)
     
     Investors
