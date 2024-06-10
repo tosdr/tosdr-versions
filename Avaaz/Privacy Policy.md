@@ -7,7 +7,7 @@ By continuing you accept Avaaz's [Privacy Policy](https://secure.avaaz.org/en/pr
 
 Got it
 
-[![AVAAZ.org: The World in Action](/campaign/static/images/blue/logo_en.png?1717172413)](https://secure.avaaz.org/page/en/)
+[![AVAAZ.org: The World in Action](/campaign/static/images/blue/logo_en.png?1710502314)](https://secure.avaaz.org/page/en/)
 
 [العربية](https://secure.avaaz.org/ar/) [Deutsch](https://secure.avaaz.org/de/) [Русский](https://secure.avaaz.org/ru/) [Français](https://secure.avaaz.org/fr/) [Español](https://secure.avaaz.org/es/) [Português](https://secure.avaaz.org/po/) [한국어](https://secure.avaaz.org/kr/) [繁體中文](https://secure.avaaz.org/ct/) [日本語](https://secure.avaaz.org/jp/) [Nederlands](https://secure.avaaz.org/nl/) [Italiano](https://secure.avaaz.org/it/) [עברית](https://secure.avaaz.org/he/) [Türkçe](https://secure.avaaz.org/tr/) [Polski](https://secure.avaaz.org/pl/) [Română](https://secure.avaaz.org/ro/) [ΕΛΛΗΝΙΚΑ](https://secure.avaaz.org/el/)
 
@@ -430,7 +430,6 @@ Thank you for visiting!
 * [Facebook](https://www.facebook.com/Avaaz)
 * [Twitter](https://twitter.com/Avaaz)
 * [Instagram](https://www.instagram.com/avaaz_org/)
-* [TikTok](https://www.tiktok.com/@avaaz.org)
 
 [Avaaz.org](https://secure.avaaz.org/page/en/)
 
