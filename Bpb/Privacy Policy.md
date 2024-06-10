@@ -165,7 +165,7 @@ Pfadnavigation
 Datenschutzerklärung für bpb.de gemäß Art 13 und 14 DSGVO
 ---------------------------------------------------------
 
-16.10.2023 / 33 Minuten zu lesen
+16.10.2023 / 32 Minuten zu lesen
 
 * [](https://twitter.com/intent/tweet?text=Datenschutzerkl%C3%A4rung+f%C3%BCr+bpb.de&url=https%3A%2F%2Fwww.bpb.de%2Fdie-bpb%2Fueber-uns%2Fservice%2F269718%2Fdatenschutzerklaerung-fuer-bpb-de%2F&via=bpb_de)[](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.bpb.de%2Fdie-bpb%2Fueber-uns%2Fservice%2F269718%2Fdatenschutzerklaerung-fuer-bpb-de%2F)[](mailto:?subject=Datenschutzerkl%C3%A4rung%20f%C3%BCr%20bpb.de%20%20|%20bpb.de&body=%0AIhnen%20wird%20der%20folgende%20Inhalt%20empfohlen:%20https://www.bpb.de/die-bpb/ueber-uns/service/269718/datenschutzerklaerung-fuer-bpb-de/%0A%0ADatenschutzerkl%C3%A4rung%20f%C3%BCr%20bpb.de%0A-------%0A%0AAuf%20dieser%20Seite%20finden%20Sie%20die%20Datenschutzerkl%C3%A4rung%20f%C3%BCr%20bpb.de.%0A)
 
@@ -178,7 +178,7 @@ Datenschutzerklärung für bpb.de gemäß Art 13 und 14 DSGVO
 * [C. Datenverarbeitung durch den Besuch der Website bpb.de](#node-content-title-5)
 * [D. Erhebung personenbezogener Daten im Rahmen der Kontaktaufnahme](#node-content-title-14)
 * [E. Verarbeitung von personenbezogenen Daten für Angebote der bpb](#node-content-title-21)
-* [F. Rechte der betroffenen Person](#node-content-title-87)
+* [F. Rechte der betroffenen Person](#node-content-title-81)
 
 _Zuletzt aktualisiert am: 16.10.2023_
 
@@ -277,7 +277,7 @@ Die Erfassung der Daten zur Bereitstellung der Website und die Speicherung der D
 
 [Interner Link: Zurück zur Übersicht](#website)
 
-Wir setzen technisch notwendige Cookies ein, um unsere Website nutzerfreundlicher zu gestalten und sicher betreiben zu können. Dies erfolgt auf Grundlage des § 25 Abs. 2 Nr. 2 Telekommunikation-Digitale-Dienste-Datenschutz-Gesetz (TDDDG).
+Wir setzen technisch notwendige Cookies ein, um unsere Website nutzerfreundlicher zu gestalten und sicher betreiben zu können. Dies erfolgt auf Grundlage des § 25 Abs. 2 Nr. 2 Telekommunikation-Telemedien-Datenschutz-Gesetz (TTDSG).
 
 Auf unserer Website wird ein sogenanntes Session-Cookie genutzt. Das Cookie wird unter anderem für die Funktionen des Warenkorbs und der Merkliste genutzt, da diese ohne Cookie nicht umsetzbar wären. Wir verwenden auf unserer Website keine Cookies, die eine Analyse des Surfverhaltens der Nutzer ermöglichen oder sonstige personenbezogene Daten speichern.
 
@@ -289,7 +289,7 @@ Folgende technisch notwendige Cookies werden auf bpb.de gesetzt:
 
 | Bezeichnung | Erläuterung |
 | --- | --- |
-| SSESS | Session-Cookie  <br>  <br>Das Cookie dient dazu, den aufrufenden Browser wieder zu erkennen, um folgende Funktionen zu ermöglichen:  <br>\- Merken und Bereitstellen von Artikeln im Warenkorb  <br>\- Merken und Bereitstellen von eingegebenen Formulardaten  <br>  <br>Das Cookie speichert **keine** personenbezogenen Daten, sondern eine zufällige Identifikationsnummer aus Buchstaben und Ziffern, die nicht auf personenbezogenen Informationen beruht.  <br>  <br>Mit Ablauf der aktuellen Sitzung endet seine Gültigkeit und der Session-Cookie wird automatisch gelöscht. |
+| matomo\_ignore | Session-Cookie  <br>  <br>Das Cookie dient dazu, den aufrufenden Browser wieder zu erkennen, um folgende Funktionen zu ermöglichen: - Merken und Bereitstellen von Artikeln im Warenkorb - Merken und Bereitstellen von eingegebenen Formulardaten  <br>  <br>Das Cookie speichert **keine** personenbezogenen Daten, sondern eine zufällige Identifikationsnummer aus Buchstaben und Ziffern, die nicht auf personenbezogenen Informationen beruht.  <br>  <br>Mit Ablauf der aktuellen Sitzung endet seine Gültigkeit und der Session-Cookie wird automatisch gelöscht. |
 
 #### III. Webanalyse durch Matomo
 
@@ -379,7 +379,6 @@ Zu folgenden Abschnitten springen:
 * [Interner Link: Einbindung externer Inhalte bzw. Dienste auf bpb.de](#externe-dienste)
 * [Interner Link: Timer-Gewinnspiel](#timer)
 * [Interner Link: Verwendung von weiteren digitalen Tools bei Veranstaltungen, Fragebögen oder Angeboten der bpb](#tools)
-* [Interner Link: Chatbot Europawahl 2024](#chatbot)
 
 [Interner Link: Zurück zum Inhaltsverzeichnis](#article-jumpmarks-heading)
 
@@ -790,50 +789,6 @@ Eine Speicherung der Daten durch die bpb findet nicht statt. Bei Anmeldung bei d
 ##### Widerspruchs- und Beseitigungsmöglichkeit
 
 Da eine Verarbeitung und Speicherung der Daten durch die bpb und eine automatische Übermittlung der Daten an die Diensteanbieter nicht stattfinden, können Nutzer/-innen der Verarbeitung und Speicherung seiner Daten nur beim jeweiligen Diensteanbieter widersprechen. Welche Widerspruchs- und Beseitigungsmöglichkeiten bestehen, erklären die Diensteanbieter in ihren Datenschutzerklärungen. Die jeweiligen Datenschutzrichtlinien finden sie in den Datenschutzbereichen der einzelnen Tools.
-
-#### XI. Chatbot zur Europawahl 2024
-
-[Interner Link: Zurück zur Übersicht](#angebote)
-
-##### Beschreibung und Umfang der Datenverarbeitung
-
-Die bpb bietet zur Europawahl 2024 einen Chatbot an, der Nutzenden Informationen über die Wahl und die EU zur Verfügung stellt. Sie können den Bot grundsätzlich ohne die Eingaben personenbezogener oder personenbeziehbarer Daten nutzen. Wir verarbeiten personenbezogene Daten unserer Nutzerinnen und Nutzer grundsätzlich nur, soweit dies zur Bereitstellung eines funktionsfähigen Services und zu statistischen Zwecken erforderlich ist. Beim Aufrufen unseres Chatbots auf den Websites bpb.de, fluter.de und eurotopics.net, sowie im Messengerdienst werden automatisch Informationen an unseren Server gesendet. Diese Informationen werden temporär in einem sogenannten Logfile gespeichert.
-
-Folgende Informationen werden dabei ohne Ihr Zutun erfasst und bis zur Löschung gespeichert:
-
-* Datum und Uhrzeit des Zugriffs
-    
-* Namen von Ausgaben und Inhalten
-    
-* Hersteller, Typ und das Betriebssystem Ihres Gerätes
-    
-
-Die genannten Daten werden zu folgenden Zwecken verarbeitet:
-
-* Gewährleistung eines reibungslosen Verbindungsaufbaus
-    
-* Gewährleistung einer komfortablen Nutzung
-    
-* Auswertung der Systemsicherheit und -stabilität
-    
-* statistische Zwecke
-    
-
-##### Rechtsgrundlage für die Datenverarbeitung
-
-Rechtsgrundlage der Verarbeitung personenbezogener Daten ist Art. 6 Abs. 1 lit e) DSGVO in Verbindung mit der in §2 des Erlasses für die Bundeszentrale für politische Bildung definierten Aufgabe. In dieser Datenschutzerklärung informieren wir Sie über Art und Umfang der Datenverarbeitung, sowie Ihre Betroffenenrechte (Kapitel 4). Ohne die Kenntnisnahme dieser Datenschutzerklärung gibt der Bot keine Antworten.
-
-##### Verwendung von Cookies
-
-Es wird ein Session-Cookie benutzt, welches für die aktuelle Browser-Session gültig ist. Es handelt sich um ein technisch notwendiges Cookie, für das nach §25 TDDDG keine Einwilligung erforderlich ist.
-
-##### Weitergabe von Daten
-
-Mit dem Betrieb und der Wartung des Services hat die Bundeszentrale für politische Bildung das Informationstechnikzentrum Bund beauftragt, das insoweit als Auftragsverarbeiter für die Bundeszentrale für politische Bildung tätig wird (Artikel 28 DSGVO). Darüber hinaus findet keine Weitergabe von Daten statt. Es findet keine Weitergabe der Daten außerhalb der Bundesrepublik Deutschland statt.
-
-##### Dauer der Speicherung der Daten
-
-Die Inhalte der Konversationen werden nach 28 Tagen Löschfrist unwiderruflich gelöscht. Die Metadaten der Konversationen, welche für statistische Auswertungen benötigt werden, bleiben erhalten. Diese Metadaten lassen keinen Rückschluss auf eine Person zu. Sämtliche Daten werden nach 24 Monaten unwiderruflich gelöscht.
 
 ### F. Rechte der betroffenen Person
 
