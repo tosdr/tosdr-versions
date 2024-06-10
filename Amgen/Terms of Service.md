@@ -75,7 +75,7 @@
 * [Responsibility](https://www.amgen.com/responsibility)
     * [Overview](https://www.amgen.com/responsibility)
         
-    * [Environmental, Social & Governance Report 2023](https://www.amgen.com/responsibility/environmental-social-and-governance-report)
+    * [Environmental, Social & Governance Report 2022](https://www.amgen.com/responsibility/environmental-social-and-governance-report)
         
     * [Environment, Social and Governance Strategy](https://www.amgen.com/responsibility/environment-social-and-governance-strategy)
         
@@ -97,14 +97,15 @@
         * [Overview](https://www.amgen.com/responsibility/a-healthy-amgen)
         * [Corporate Governance](https://www.amgen.com/about/how-we-operate/corporate-governance)
         * [Business Ethics and Compliance](https://www.amgen.com/responsibility/a-healthy-amgen/business-ethics-and-compliance)
-        * [Ethical Research and Development](https://www.amgen.com/responsibility/a-healthy-amgen/ethical-research)
+        * [Ethical Research](https://www.amgen.com/responsibility/a-healthy-amgen/ethical-research)
         * [Patient Safety](https://www.amgen.com/products/global-patient-safety)
         * [Product Quality](https://www.amgen.com/about/how-we-operate/policies-practices-and-disclosures/business-conduct/quality)
         * [Cybersecurity and Data Privacy](https://www.amgen.com/responsibility/a-healthy-amgen/cybersecurity-and-data-privacy)
-    * [Reporting and Metrics](https://www.amgen.com/responsibility/healthy-planet/environmental-sustainability/reporting-and-metrics)
-        * [Overview](https://www.amgen.com/responsibility/healthy-planet/environmental-sustainability/reporting-and-metrics)
-        * [CDP](https://www.amgen.com/responsibility/healthy-planet/environmental-sustainability/reporting-and-metrics/cdp)
-        * [Archived Reports](https://www.amgen.com/responsibility/healthy-planet/environmental-sustainability/reporting-and-metrics/archived-reports)
+    * [Reporting and Metrics](https://www.amgen.com/responsibility/reporting-and-metrics)
+        * [Overview](https://www.amgen.com/responsibility/reporting-and-metrics)
+        * [Summary of Data](https://www.amgen.com/responsibility/reporting-and-metrics/summary-of-data)
+        * [CDP](https://www.amgen.com/responsibility/reporting-and-metrics/cdp)
+        * [Archived Reports](https://www.amgen.com/responsibility/reporting-and-metrics/archived-reports)
 * [Stories](https://www.amgen.com/stories)
     * [All Stories](https://www.amgen.com/stories)
         
@@ -212,7 +213,7 @@
 * [Responsibility](https://www.amgen.com/responsibility)
     
     * [Overview](https://www.amgen.com/responsibility)
-    * [Environmental, Social & Governance Report 2023](https://www.amgen.com/responsibility/environmental-social-and-governance-report)
+    * [Environmental, Social & Governance Report 2022](https://www.amgen.com/responsibility/environmental-social-and-governance-report)
     * [Environment, Social and Governance Strategy](https://www.amgen.com/responsibility/environment-social-and-governance-strategy)
     * [Healthy People](https://www.amgen.com/responsibility/healthy-people)
     * [Access to Healthcare](https://www.amgen.com/responsibility/healthy-people/access-to-medicines)
@@ -231,13 +232,14 @@
     * [A Healthy Amgen](https://www.amgen.com/responsibility/a-healthy-amgen)
     * [Corporate Governance](https://www.amgen.com/about/how-we-operate/corporate-governance)
     * [Business Ethics and Compliance](https://www.amgen.com/responsibility/a-healthy-amgen/business-ethics-and-compliance)
-    * [Ethical Research and Development](https://www.amgen.com/responsibility/a-healthy-amgen/ethical-research)
+    * [Ethical Research](https://www.amgen.com/responsibility/a-healthy-amgen/ethical-research)
     * [Patient Safety](https://www.amgen.com/products/global-patient-safety)
     * [Product Quality](https://www.amgen.com/about/how-we-operate/policies-practices-and-disclosures/business-conduct/quality)
     * [Cybersecurity and Data Privacy](https://www.amgen.com/responsibility/a-healthy-amgen/cybersecurity-and-data-privacy)
-    * [Reporting and Metrics](https://www.amgen.com/responsibility/healthy-planet/environmental-sustainability/reporting-and-metrics)
-    * [CDP](https://www.amgen.com/responsibility/healthy-planet/environmental-sustainability/reporting-and-metrics/cdp)
-    * [Archived Reports](https://www.amgen.com/responsibility/healthy-planet/environmental-sustainability/reporting-and-metrics/archived-reports)
+    * [Reporting and Metrics](https://www.amgen.com/responsibility/reporting-and-metrics)
+    * [Summary of Data](https://www.amgen.com/responsibility/reporting-and-metrics/summary-of-data)
+    * [CDP](https://www.amgen.com/responsibility/reporting-and-metrics/cdp)
+    * [Archived Reports](https://www.amgen.com/responsibility/reporting-and-metrics/archived-reports)
     
 * [Stories](https://www.amgen.com/stories)
     
