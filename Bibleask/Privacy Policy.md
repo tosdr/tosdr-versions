@@ -1,6 +1,8 @@
 [Skip to content](#content "Skip to content")
 
-[![BibleAsk](https://bibleask.org/wp-content/uploads/2023/12/BibleAsk-Logo-White-350x70-1.png "BibleAsk")](https://bibleask.org/ "BibleAsk")
+[![BibleAsk](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20350%2070'%3E%3C/svg%3E "BibleAsk")
+
+![BibleAsk](https://i0.wp.com/bibleask.org/wp-content/uploads/2023/12/BibleAsk-Logo-White-350x70-1.png?fit=350%2C70&ssl=1 "BibleAsk")](https://bibleask.org/ "BibleAsk")
 
 Menu
 
@@ -9,10 +11,10 @@ Menu
 * [Topics](https://bibleask.org/topics/)
 * [Bible](https://bible.bibleask.org/)
 * [Apps](https://bibleask.org/apps/)
-* [Donate](https://donate.bibleask.org/)
-    * [By Project](https://donate.bibleask.org/projects/)
-    * [Shop](https://donate.bibleask.org/shop/)
-    * [Dashboard](https://donate.bibleask.org/donor-dashboard/)
+* [Donate](https://bibleask.org/donate/)
+    * [By Project](https://bibleask.org/donate/projects/)
+    * [Shop](https://bibleask.org/donate/shop/)
+    * [Dashboard](https://bibleask.org/donate/donor-dashboard/)
 
 Search
 
@@ -20,12 +22,6 @@ Search
 
 Privacy
 =======
-
-**SHARE**
-
-[](https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fbibleask.org%2Fprivacy%2F&linkname=Privacy "Facebook")[](https://www.addtoany.com/add_to/x?linkurl=https%3A%2F%2Fbibleask.org%2Fprivacy%2F&linkname=Privacy "X")[](https://www.addtoany.com/add_to/reddit?linkurl=https%3A%2F%2Fbibleask.org%2Fprivacy%2F&linkname=Privacy "Reddit")[](https://www.addtoany.com/add_to/copy_link?linkurl=https%3A%2F%2Fbibleask.org%2Fprivacy%2F&linkname=Privacy "Copy Link")
-
-* * *
 
 **BibleAsk Privacy Policy**
 
@@ -156,9 +152,9 @@ See also [Terms of use](https://bibleask.org/terms-of-use/)
 ![bibleask-logo](https://bibleask.org/wp-content/uploads/bibleask-logo-300x66.png "bibleask-logo")](https://bibleask.org/)
 
   
-Real Questions.  
-Real Answers.  
-**Bible Based.**
+**Real Questions. Real Answers. Bible Based.**
+
+We believe in Sola Scriptura. If you feel an answer is not 100% Bible based, then leave a comment, and we'll be sure to review it. Our aim is to share the Word and be true to it.
 
 Quick Links
 
@@ -172,7 +168,7 @@ Quick Links
 
 [Latest Answers](https://bibleask.org/answers/)
 
-[Resources](https://bibleask.org/resources/)
+[Bible Lessons](https://bibleask.org/bible-answers/)
 
 [BibleAsk LIVE](https://bibleask.org/live/)
 
@@ -186,9 +182,15 @@ Download our apps
 
 Subscribe (Weekly Updates)
 
-\* indicates required
+signup\*
 
-Email Address \*
+\*By clicking submit, you agree to share your email address and receive updates from BibleAsk.
+
+Processing…
+
+Success! You're on the list.
+
+Whoops! There was an error and we couldn't process your subscription. Please reload the page and try again.
 
 * [Facebook](https://facebook.com/bibleask/)
 * [Instagram](https://instagram.com/bibleask/)
@@ -197,4 +199,4 @@ Email Address \*
 
 © 2009-2024 BibleAsk.org
 
-[](# "Scroll back to top")
+[Go to mobile version](https://bibleask.org/privacy/?amp=1)
