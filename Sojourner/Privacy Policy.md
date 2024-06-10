@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-4dcd9b1c864fa7e18d7e636f530bd852
+ef3ad2715f84b83266a59a5bb9b42c25
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,20 +171,20 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![Red bar clasp](https://www.sojourner.biz/images/cache/SKU0205front.200.jpg)](https://www.sojourner.biz/clasps/glass/red-bar-clasp.html "Red bar clasp")
+[![Swarovski black diamond clasp](https://www.sojourner.biz/images/cache/SKU0385front.200.jpg)](https://www.sojourner.biz/clasps/swarovski/swarovski-black-diamond-clasp.html "Swarovski black diamond clasp")
 
-#### [Red bar clasp](https://www.sojourner.biz/clasps/glass/red-bar-clasp.html "Red bar clasp")
+#### [Swarovski black diamond clasp](https://www.sojourner.biz/clasps/swarovski/swarovski-black-diamond-clasp.html "Swarovski black diamond clasp")
 
-$23.00
+$28.00
 
 ### Best Sellers
 
 1. [Vintage Italian chevron beads](https://www.sojourner.biz/beads/glass/vintage-italian-chevron-beads.html "Vintage Italian chevron beads")  
     $6.00
-2. [Tiny crystal clasp](https://www.sojourner.biz/clasps/swarovski/tiny-crystal-clasp.html "Tiny crystal clasp")  
-    $15.00
-3. [Snowstorm clasp](https://www.sojourner.biz/clasps/glass/snowstorm-clasp.html "Snowstorm clasp")  
+2. [Snowstorm clasp](https://www.sojourner.biz/clasps/glass/snowstorm-clasp.html "Snowstorm clasp")  
     $16.00
+3. [Tiny crystal clasp](https://www.sojourner.biz/clasps/swarovski/tiny-crystal-clasp.html "Tiny crystal clasp")  
+    $15.00
 4. [Swarovski crystal AB clasp](https://www.sojourner.biz/clasps/swarovski/swarovski-crystal-ab-clasp.html "Swarovski crystal AB clasp")  
     $28.00
 5. [White pearl toggle clasp](https://www.sojourner.biz/clasps/toggles/white-pearl-toggle-clasp.html "White pearl toggle clasp")  
