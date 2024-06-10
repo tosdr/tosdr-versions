@@ -6,7 +6,7 @@
 * [Moto Database](https://www.autoevolution.com/moto/ "Motorcycle models and specifications database")
 * [Game reviews](https://www.autoevolution.com/news/videogame-reviews/ "Game reviews")
 * [EV/Hybrids](https://www.autoevolution.com/green/ "Green news")
-* [Spyshots](https://www.autoevolution.com/spyshots/ "Car spyshots and videos")
+* [Spyshots](https://www.autoevolution.com/news/spyshots/ "Car spyshots and videos")
 * [Space Junk](https://www.autoevolution.com/news/space-junk/ "Space junk")
 * [Renderings](https://www.autoevolution.com/news/renderings/ "Car renderings and concepts")
 * [Newspaper](https://www.autoevolution.com/newspaper/ "Newspaper")
@@ -33,15 +33,15 @@
 
 editorial \_
 
-[![2025 BMW 1 Series Debuts With 2017 BMW 5 Series-Like Starting Prices](https://s1.cdn.autoevolution.com/images/news/2025-bmw-1-series-debuts-with-2017-bmw-5-series-like-starting-prices-234986-5.jpg "2025 BMW 1 Series Debuts With 2017 BMW 5 Series-Like Starting Prices")
+[![Cars That I Hate – Episode 3: BMW 2 Series Gran Coupe](https://s1.cdn.autoevolution.com/images/news/cars-that-i-hate-episode-3-bmw-2-series-gran-coupe-232643-5.jpg "Cars That I Hate – Episode 3: BMW 2 Series Gran Coupe")
 
-#### 2025 BMW 1 Series Debuts With 2017 BMW 5 Series-Like Starting Prices](https://www.autoevolution.com/news/2025-bmw-1-series-debuts-with-2017-bmw-5-series-like-starting-prices-234986.html "2025 BMW 1 Series Debuts With 2017 BMW 5 Series-Like Starting Prices")
+#### Cars That I Hate – Episode 3: BMW 2 Series Gran Coupe](https://www.autoevolution.com/news/cars-that-i-hate-episode-3-bmw-2-series-gran-coupe-232643.html "Cars That I Hate – Episode 3: BMW 2 Series Gran Coupe")
 
 coverstory \_
 
-[![The Little Cove Is a Cozy and Modern Haven on Wheels for Two](https://s1.cdn.autoevolution.com/images/news/the-little-cove-is-a-cozy-and-modern-haven-on-wheels-for-two-235067-5.jpg "The Little Cove Is a Cozy and Modern Haven on Wheels for Two")
+[![This 26-ft Tiny Home With Industrial Outside Look Reveals a Light-Filled, Modern Interior](https://s1.cdn.autoevolution.com/images/news/this-26-ft-tiny-home-with-industrial-outside-look-reveals-a-light-filled-modern-interior-232726-5.jpg "This 26-ft Tiny Home With Industrial Outside Look Reveals a Light-Filled, Modern Interior")
 
-The Little Cove Is a Cozy and Modern Haven on Wheels for Two](https://www.autoevolution.com/news/the-little-cove-is-a-cozy-and-modern-haven-on-wheels-for-two-235067.html)
+This 26-ft Tiny Home With Industrial Outside Look Reveals a Light-Filled, Modern Interior](https://www.autoevolution.com/news/this-26-ft-tiny-home-with-industrial-outside-look-reveals-a-light-filled-modern-interior-232726.html)
 
 how-to \_
 
