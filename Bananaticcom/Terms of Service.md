@@ -1,30 +1,32 @@
-[](https://www.bananatic.com/)
+[](https://www.bananatic.com/fr/)
 
-* [**Win PS4 Console!**](https://www.bananatic.com/event/)
-* [Home](https://www.bananatic.com/home/)
-* [Sign up](#register)
-* [Log in](#)
+* [](javascript:void(0))
+    
+* [**Gagne une PS4 !!**](https://www.bananatic.com/fr/event/)
+* [Accueil](https://www.bananatic.com/fr/home/)
+* [S'inscrire](#register)
+* [S’identifier](#)
 
-[](https://www.facebook.com/bananaticcom)[](https://twitter.com/bananatic_com)[](https://www.youtube.com/channel/UC-kilq-ULJHkUXXVdiy_0vw)[How does it work?](https://www.bananatic.com/how-to/)
+[](https://www.facebook.com/bananaticcom)[](https://twitter.com/bananatic_com)[](https://www.youtube.com/channel/UC-kilq-ULJHkUXXVdiy_0vw)[Comment ça marche?](https://www.bananatic.com/fr/how-to/)
 
-* [Games](https://www.bananatic.com/games/)
-* [Earn bananas](https://www.bananatic.com/get-bananas/)
-* [Spend bananas](https://www.bananatic.com/shop/)
-* [Bananabet](https://www.bananatic.com/lottery/)
-* [Forum](https://www.bananatic.com/forum/)
-* [Giveaway](https://www.bananatic.com/giveaway/)
-* [Other](javascript:void(0))
-    * [Your banana](https://www.bananatic.com/your-banana/)
-    * [Ranking](https://www.bananatic.com/ranking/)
-    * [Invite friends - make money](https://www.bananatic.com/get-bananas/recommend/)
-    * [Bananapedia](https://www.bananatic.com/bananapedia/)
-    * [VIP](https://www.bananatic.com/vip/)
-    * [Buy bananas](https://www.bananatic.com/buy-bananas/)
-    * [Blog](https://www.bananatic.com/blog/)
-    * [Browser games](https://www.bananatic.com/get-bananas/fun-zone/)
+* [Jeux](https://www.bananatic.com/fr/jeux/)
+* [Récolter des Bananes](https://www.bananatic.com/fr/obtenir-bananes/)
+* [Magasin](https://www.bananatic.com/fr/magasin/)
+* [Bananabet](https://www.bananatic.com/fr/lottery/)
+* [Forum](https://www.bananatic.com/fr/forum/)
+* [Giveaway](https://www.bananatic.com/fr/giveaway/)
+* [Autres](javascript:void(0))
+    * [Ta banane](https://www.bananatic.com/fr/your-banana/)
+    * [Classement](https://www.bananatic.com/fr/ranking/)
+    * [Recommander ce site](https://www.bananatic.com/fr/obtenir-bananes/recommander/)
+    * [Bananapedia](https://www.bananatic.com/fr/bananapedia/)
+    * [VIP](https://www.bananatic.com/fr/vip/)
+    * [Acheter des Bananes](https://www.bananatic.com/fr/acheter-bananes/)
+    * [Blog](https://www.bananatic.com/fr/blog/)
+    * [Jeux de Navigateur](https://www.bananatic.com/fr/obtenir-bananes/fun-zone/)
 
-* [](https://www.bananatic.com/)
-* [Terms & Conditions](https://www.bananatic.com/terms-of-service/)
+* [](https://www.bananatic.com/fr/)
+* [Conditions Générales](https://www.bananatic.com/fr/terms-of-service/)
 
 **TERMS AND CONDITONS OF PARTICIPATION IN DISCOUNT PROGRAM „BANANATIC”**
 
@@ -156,7 +158,7 @@ These Terms shall constitute an integral part of the T&C of the Bananas Program
 
 4\. The term "content" refers in particular to all the elements of text, graphics, music and sound, all the messages, all the titles, fictitious characters, names, subjects, objects, decorations, costumes, effects, texts, dialogues, slogans, places, formulas, diagrams, concepts, designs, graphics, animations, sounds, musical compositions, choreography, video, audiovisual elements and all other elements present in the framework, together with all associated intellectual property rights, trademarks, internet domain names, acronyms, logos and drawings (collectively referred to as "Content").
 
-5\. The Operator reserves the right to change, modify, add or delete provisions in these Terms and Conditions at any time in accordance with the procedure described below
+5\. The Operator reserves the right to change, modify, add or delete provisions in these Terms and Conditions at any time in accordance with the procedure described below (in order to delete the data / account on the website, please contact the website support directly via a ticket or by e-mail [\[email protected\]](https://www.bananatic.com/cdn-cgi/l/email-protection)).
 
 **§2 The Account**
 
@@ -356,12 +358,12 @@ Google - [G​oogle Privacy Policy](https://policies.google.com/privacy)​
 * [](https://twitter.com/bananatic_com)
 * [](https://www.youtube.com/channel/UC-kilq-ULJHkUXXVdiy_0vw)
 
-* [FAQ](javascript:void(0))
-* [Terms & Conditions](javascript:void(0)) [Privacy Policy](javascript:void(0))
+* [Aide (FAQ)](javascript:void(0))
+* [Conditions Générales](javascript:void(0)) [Politique de Confidentialité](javascript:void(0))
 * [Contact](javascript:void(0))
 * [](javascript:void(0))
 
-[www.bananatic.com](https://www.bananatic.com/)  
+[www.bananatic.com](https://www.bananatic.com/fr/)  
 
 [Trustpilot](javascript:void(0))
 
@@ -371,13 +373,13 @@ Google - [G​oogle Privacy Policy](https://policies.google.com/privacy)​
 
 [](javascript:void(0))
 
-Leaving? Please stay!
+Quoi? Tu pars déjà? Reste encore un peu!
 
-Get a Free Game! ![](https://www.bananatic.com/images/instruction-coins.png)
+Obtiens un Jeu Gratuit! ![](https://www.bananatic.com/fr/images/instruction-coins.png)
 
-Random STEAM key for you!  
-Register, go to "Spend Bananas"  
-Click STEAM treasure to pick up your game!  
-[**Pick Up free game**](https://www.bananatic.com/p/exit)
+Une Clé STEAM gratuite!  
+Inscris-toi, vas dans le "Magasin"  
+Clique sur le trésor STEAM et obtiens ton jeu!  
+[**Clique ici pour avoir ton jeu gratuit!**](https://www.bananatic.com/fr/p/exit)
 
-[**Chat**](https://www.bananatic.com/chat/)
+[**Chat**](https://www.bananatic.com/fr/chat/)
