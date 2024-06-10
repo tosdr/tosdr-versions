@@ -61,9 +61,7 @@
     * [South America](https://www.capitalismmagazine.com/world/south-america/)
     * [United Nations](https://www.capitalismmagazine.com/world/united-nations/)
     * [All WORLD >](https://www.capitalismmagazine.com/world/)
-* [](https://twitter.com/CapitalismMag)
-
-[![](https://www.capitalismmagazine.com/wp-content/uploads/2024/06/banner-capitalism-tour-728x90-1.jpg "Capitalism Tour")](https://www.capitalism.org/)
+* [X](https://twitter.com/CapitalismMag)
 
 Privacy
 =======
@@ -84,12 +82,10 @@ By using our site, you consent to the collection and use of your information by 
 
 #### [![RSS](https://www.capitalismmagazine.com/wp-includes/images/rss.png)](https://review.capitalismmagazine.com/feed/) [CAPITALISM REVIEW](https://review.capitalismmagazine.com/)
 
-* [One Should Not Have “Faith” in Any Legal System](https://review.capitalismmagazine.com/2024/06/one-should-not-have-faith-in-any-legal-system/)
-* [CNN Senior Legal Analyst: Trump Conviction Was A Political Hit Job](https://review.capitalismmagazine.com/2024/06/cnn-senior-legal-analyst-trump-conviction-was-a-political-hit-job/)
-* [Gupta: Masking Children is Illogical and Irrational](https://review.capitalismmagazine.com/2024/06/gupta-masking-children-is-illogical-and-irrational/)
-* [CNN: Would Trump Be a Dictator if Relected?](https://review.capitalismmagazine.com/2024/06/cnn-would-trump-be-a-dictator-if-relected/)
-
-[![](https://www.capitalismmagazine.com/wp-content/uploads/2024/06/banner-capitalism-tour-728x90-1.jpg "Capitalism Tour")](https://www.capitalism.org/)
+* [Justice for Elon Musk: Tesla Asks Shareholders to Reapprove Elon’s $47B Stock Bonus](https://review.capitalismmagazine.com/2024/04/justice-for-elon-musk-tesla-asks-shareholders-to-reapprove-elons-47b-stock-bonus/)
+* [Stossel: How the Law Protects Squatters](https://review.capitalismmagazine.com/2024/03/stossel-how-the-law-protects-squatters/)
+* [Antitrust: Defend Apple Against the DOJ](https://review.capitalismmagazine.com/2024/03/antitrust-defend-apple-against-the-doj/)
+* [“States Rights” Are Actually Delegated Powers](https://review.capitalismmagazine.com/2024/03/states-rights-are-actually-delegated-powers/)
 
 #### Recommended Reading
 
@@ -99,7 +95,7 @@ By using our site, you consent to the collection and use of your information by 
 
 [![](https://www.capitalismmagazine.com/wp-content/uploads/2023/11/cui-red.jpg "cui-red capitalism")](https://amzn.to/3u1x8PJ)
 
-[![](https://www.capitalismmagazine.com/wp-content/uploads/2024/05/democratic-party-hates-america-e1716436892372.jpg "democratic-party-hates-america")](https://amzn.to/44SNb0p)
+[![](https://www.capitalismmagazine.com/wp-content/uploads/2023/11/OPAR-BOOK-COVER-e1445361582138.jpg "OPAR-BOOK-COVER-e1445361582138")](https://amzn.to/47eJX7u)
 
 [More Books](https://www.capitalism.org/books/)
 
@@ -109,8 +105,8 @@ As an Amazon Associate this site may earn a commission from qualifying purchases
 
 * [Follow](https://twitter.com/CapitalismMag "Follow on X")
 
-[About](https://www.capitalismmagazine.com/about/) | [Terms of Use](https://www.capitalismmagazine.com/terms-of-use/) | [Authors](https://www.capitalismmagazine.com/authors/) | [Privacy](https://www.capitalismmagazine.com/privacy/) | [Blog](https://review.capitalismmagazine.com/) | [Capitalism.org](https://capitalism.org/)
+[About](https://www.capitalismmagazine.com/about/) | [Terms of Use](https://www.capitalismmagazine.com/terms-of-use/) | [Privacy](https://www.capitalismmagazine.com/privacy/) | [Blog](https://review.capitalismmagazine.com/) | [Capitalism.org](https://capitalism.org/)
 
-Copyright 2024 Capitalism Magazine. All rights reserved.
+Copyright 2023 Capitalism Magazine. All rights reserved.
 
 ### Pin It on Pinterest
