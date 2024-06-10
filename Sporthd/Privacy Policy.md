@@ -8,35 +8,25 @@ Current leagues
 
 [![](https://s2watch.me/images/AFL.png)AFL](#league_afl:australia:aussie-rules)
 
-[![](https://s2watch.me/images/canadian-premier-league.png)Canadian Premier League](#league_canadian_premier league:canada:football)
-
-[![](https://sporthd.me/images/cfl.png)CFL](#league_cfl:canada:american-football)
-
-[![](https://s2watch.me/images/conmebol-libertadores.png)CONMEBOL Libertadores](#league_conmebol_libertadores:south america:football)
-
-[![](https://sporthd.me/images/euro2024.webp)EURO](#league_euro:europe:football)
-
-[![](https://sporthd.me/images/Boxing_Gloves.webp)Fight Boxing](#league_fight_boxing)
-
-[![](https://sporthd.me/images/formula-1.png)Formula 1](#league_formula_1:canada:motorsport)
-
-[![](https://sporthd.me/images/indycar.png)IndyCar](#league_indycar:united_states:motorsport)
-
 [![](https://sporthd.me/images/Int. Friendly Games.png)Int. Friendly Games](#league_int._friendly games:world:football)
 
-[![](https://sporthd.me/images/Major League Rugby.png)Major League Rugby](#league_major_league rugby:rugby union:rugby)
-
-[![](https://s2watch.me/images/MLS.png)MLS](#league_mls:usa:football)
-
-[![](https://sporthd.me/images/NASCAR.webp)NASCAR](#league_nascar:united_states:motorsport)
+[![](https://s2watch.me/images/Liga ACB.png)Liga ACB](#league_liga_acb:spain:basketball)
 
 [![](https://s2watch.me/images/nhl.png)NHL](#league_nhl:usa:ice-hockey)
 
-[![](https://s2watch.me/images/nrl.png)NRL](#league_nrl:rugby_league:rugby)
+[![](https://s2watch.me/images/argentin-primera-nacional.png)Primera Nacional](#league_primera_nacional:argentina:football)
 
-[![](https://sporthd.me/images/ufc1.png)UFC](#league_ufc)
+[![](https://s2watch.me/images/basketball-Serie A.png)Serie A](#league_serie_a:italy:basketball)
+
+[![](https://sporthd.me/images/Tournoi Maurice Revello, Group B.png)U23 Toulon Tournament](#league_u23_toulon tournament:world:football)
+
+[![](https://sporthd.me/images/euro2024.webp)UEFA Euro](#league_uefa_euro:europe:football)
 
 [![](https://s2watch.me/images/WNBA.png)WNBA](#league_wnba:usa:basketball)
+
+[![](https://sporthd.me/images/World Cup Qualification, AFC.png)World Championship Qual. AFC](#league_world_championship qual. afc:asia:football)
+
+[![](https://sporthd.me/images/World Cup Qualification, CAF, Group G.png)World Championship Qual. CAF](#league_world_championship qual. caf :africa:football)
 
 [![](https://sporthd.me/images/World Championship Qual. CONCACAF.png)World Championship Qual. CONCACAF](#league_world_championship qual. concacaf:north & central america:football)
 
@@ -46,7 +36,7 @@ User saves
 
 AllLiveUpcoming
 
-June 9th, 2024
+June 10th, 2024
 
 • Etc/GMT-12
 
@@ -54,27 +44,11 @@ June 9th, 2024
 
 AFL
 
-3 matches
+1 matches
 
 •
 
 Australia
-
-![](https://api.sofascore1.com/api/v1/team/4447/image)
-
-Sydney Swans
-
-Geelong Cats
-
-![](https://api.sofascore1.com/api/v1/team/4443/image)
-
-![](https://api.sofascore1.com/api/v1/team/4450/image)
-
-Essendon Bombers
-
-Carlton Blues
-
-![](https://api.sofascore1.com/api/v1/team/4446/image)
 
 ![](https://api.sofascore1.com/api/v1/team/4448/image)
 
@@ -84,277 +58,113 @@ Melbourne Demons
 
 ![](https://api.sofascore1.com/api/v1/team/4456/image)
 
-![](https://sporthd.me/images/cfl.png)
-
-CFL
-
-1 matches
-
-•
-
-Canada
-
-![](https://api.sofascore1.com/api/v1/team/4434/image)
-
-Edmonton Elks
-
-Saskatchewan Roughriders
-
-![](https://api.sofascore1.com/api/v1/team/4438/image)
-
-![](https://s2watch.me/images/conmebol-libertadores.png)
-
-CONMEBOL Libertadores
-
-1 matches
-
-•
-
-South America
-
-![](https://api.sofascore1.com/api/v1/team/5926/image)
-
-Grêmio
-
-Estudiantes de La Plata
-
-![](https://api.sofascore1.com/api/v1/team/3206/image)
-
-![](https://s2watch.me/images/canadian-premier-league.png)
-
-Canadian Premier League
-
-2 matches
-
-•
-
-Canada
-
-![](https://api.sofascore1.com/api/v1/team/309889/image)
-
-Cavalry FC
-
-Forge FC
-
-![](https://api.sofascore1.com/api/v1/team/313716/image)
-
-![](https://api.sofascore1.com/api/v1/team/313717/image)
-
-Valour FC
-
-Atlético Ottawa
-
-![](https://api.sofascore1.com/api/v1/team/342076/image)
-
-![](https://sporthd.me/images/euro2024.webp)
-
-EURO
-
-1 matches
-
-•
-
-Europe
-
-![](https://api.sofascore1.com/api/v1/team/4711/image)
-
-Germany
-
-Scotland
-
-![](https://api.sofascore1.com/api/v1/team/4695/image)
-
-![](https://sporthd.me/images/Boxing_Gloves.webp)
-
-Fight Boxing
-
-1 matches
-
-![](https://sporthd.me/images/Xander Zayas.png)
-
-Xander Zayas
-
-Patrick Teixeira
-
-![](https://sporthd.me/images/Patrick Teixeira.png)
-
-![](https://sporthd.me/images/formula-1.png)
-
-Formula 1
-
-2 matches
-
-•
-
-Canada
-
-Canadian Grand Prix
-
-Canadian Grand Prix
-
-![](https://sporthd.me/images/indycar.png)
-
-IndyCar
-
-2 matches
-
-•
-
-United States
-
-Road America Grand Prix
-
-Road America Grand Prix
-
 ![](https://sporthd.me/images/Int. Friendly Games.png)
 
 Int. Friendly Games
 
-7 matches
+10 matches
 
 •
 
 World
 
-![](https://api.sofascore1.com/api/v1/team/4698/image)
+![](https://api.sofascore1.com/api/v1/team/4714/image)
 
-Spain
+Czech Republic
 
-Northern Ireland
+North Macedonia
+
+![](https://api.sofascore1.com/api/v1/team/4777/image)
+
+![](https://api.sofascore1.com/api/v1/team/4705/image)
+
+Netherlands
+
+Iceland
+
+![](https://api.sofascore1.com/api/v1/team/4708/image)
+
+![](https://api.sofascore1.com/api/v1/team/4703/image)
+
+Poland
+
+Turkey
+
+![](https://api.sofascore1.com/api/v1/team/4700/image)
+
+![](https://api.sofascore1.com/api/v1/team/4704/image)
+
+Portugal
+
+Ireland
+
+![](https://api.sofascore1.com/api/v1/team/4693/image)
+
+![](https://api.sofascore1.com/api/v1/team/4742/image)
+
+Azerbaijan
+
+Kazakhstan
+
+![](https://api.sofascore1.com/api/v1/team/4772/image)
+
+![](https://api.sofascore1.com/api/v1/team/4782/image)
+
+Moldova
+
+Ukraine
+
+![](https://api.sofascore1.com/api/v1/team/4701/image)
+
+![](https://api.sofascore1.com/api/v1/team/4833/image)
+
+San Marino
+
+Cyprus
+
+![](https://api.sofascore1.com/api/v1/team/4482/image)
 
 ![](https://api.sofascore1.com/api/v1/team/4786/image)
 
-![](https://api.sofascore1.com/api/v1/team/4724/image)
+Northern Ireland
 
-USA
+Andorra
 
-Colombia
+![](https://api.sofascore1.com/api/v1/team/4818/image)
 
-![](https://api.sofascore1.com/api/v1/team/4820/image)
+![](https://api.sofascore1.com/api/v1/team/4483/image)
 
-![](https://api.sofascore1.com/api/v1/team/4781/image)
+Malta
 
-Mexico
+Greece
 
-Brazil
+![](https://api.sofascore1.com/api/v1/team/4710/image)
 
-![](https://api.sofascore1.com/api/v1/team/4748/image)
+![](https://api.sofascore1.com/api/v1/team/4743/image)
 
-![](https://api.sofascore1.com/api/v1/team/4481/image)
+Belarus
 
-France
+Israel
 
-Canada
+![](https://api.sofascore1.com/api/v1/team/4480/image)
 
-![](https://api.sofascore1.com/api/v1/team/4752/image)
+![](https://s2watch.me/images/Liga ACB.png)
 
-![](https://api.sofascore1.com/api/v1/team/4697/image)
+Liga ACB
 
-Slovakia
-
-Wales
-
-![](https://api.sofascore1.com/api/v1/team/4702/image)
-
-![](https://api.sofascore1.com/api/v1/team/7139/image)
-
-Montenegro
-
-Georgia
-
-![](https://api.sofascore1.com/api/v1/team/4763/image)
-
-![](https://api.sofascore1.com/api/v1/team/4707/image)
-
-Italy
-
-Bosnia & Herzegovina
-
-![](https://api.sofascore1.com/api/v1/team/4479/image)
-
-![](https://s2watch.me/images/MLS.png)
-
-MLS
-
-3 matches
+1 matches
 
 •
 
-USA
+Spain
 
-![](https://api.sofascore1.com/api/v1/team/2509/image)
+![](https://api.sofascore1.com/api/v1/team/3540/image)
 
-Sporting Kansas City
+Real Madrid
 
-Seattle Sounders FC
+UCAM Murcia
 
-![](https://api.sofascore1.com/api/v1/team/22009/image)
-
-![](https://api.sofascore1.com/api/v1/team/41618/image)
-
-Minnesota United
-
-FC Dallas
-
-![](https://api.sofascore1.com/api/v1/team/2512/image)
-
-![](https://api.sofascore1.com/api/v1/team/407803/image)
-
-St.Louis City
-
-Portland Timbers
-
-![](https://api.sofascore1.com/api/v1/team/22007/image)
-
-![](https://sporthd.me/images/Major League Rugby.png)
-
-Major League Rugby
-
-3 matches
-
-•
-
-Rugby Union
-
-![](https://api.sofascore1.com/api/v1/team/340064/image)
-
-San Diego Legion
-
-Anthem Rugby Carolina
-
-![](https://api.sofascore1.com/api/v1/team/506068/image)
-
-![](https://api.sofascore1.com/api/v1/team/340054/image)
-
-Houston SaberCats
-
-Rugby ATL
-
-![](https://api.sofascore1.com/api/v1/team/340062/image)
-
-![](https://api.sofascore1.com/api/v1/team/340057/image)
-
-Old Glory DC
-
-New England Free Jacks
-
-![](https://api.sofascore1.com/api/v1/team/340063/image)
-
-![](https://sporthd.me/images/NASCAR.webp)
-
-NASCAR
-
-3 matches
-
-•
-
-United States
-
-Zip Buy Now, Pay Later 250
-
-Zip Buy Now, Pay Later 250
-
-Toyota / Save Mart 350
+![](https://api.sofascore1.com/api/v1/team/6495/image)
 
 ![](https://s2watch.me/images/nhl.png)
 
@@ -374,113 +184,237 @@ Edmonton Oilers
 
 ![](https://api.sofascore1.com/api/v1/team/3686/image)
 
-![](https://s2watch.me/images/nrl.png)
+![](https://s2watch.me/images/argentin-primera-nacional.png)
 
-NRL
+Primera Nacional
 
 1 matches
 
 •
 
-Rugby League
+Argentina
 
-![](https://api.sofascore1.com/api/v1/team/4255/image)
+![](https://api.sofascore1.com/api/v1/team/34976/image)
 
-Melbourne Storm
+Atlético de Rafaela
 
-Newcastle Knights
+Estudiantes de Río Cuarto
 
-![](https://api.sofascore1.com/api/v1/team/4260/image)
+![](https://api.sofascore1.com/api/v1/team/266694/image)
 
-![](https://sporthd.me/images/ufc1.png)
+![](https://s2watch.me/images/basketball-Serie A.png)
 
-UFC
+Serie A
 
-2 matches
+1 matches
 
-![](https://sporthd.me/images/Thiago Moises.png)
+•
 
-Thiago Moises
+Italy
 
-Ludovit Klein
+![](https://api.sofascore1.com/api/v1/team/3580/image)
 
-![](https://sporthd.me/images/Ludovit Klein.png)
+EA7 Emporio Armani Milano
 
-![](https://sporthd.me/images/Jared Cannonier.png)
+Virtus Segafredo Bologna
 
-Jared Cannonier
+![](https://api.sofascore1.com/api/v1/team/5621/image)
 
-Nassourdine Imavov
+![](https://sporthd.me/images/Tournoi Maurice Revello, Group B.png)
 
-![](https://sporthd.me/images/Nassourdine Imavov.png)
+U23 Toulon Tournament
 
-![](https://s2watch.me/images/WNBA.png)
+3 matches
 
-WNBA
+•
+
+World
+
+![](https://api.sofascore1.com/api/v1/team/517510/image)
+
+Ukraine U23
+
+Japan U19
+
+![](https://api.sofascore1.com/api/v1/team/22523/image)
+
+![](https://api.sofascore1.com/api/v1/team/517507/image)
+
+Italy U21
+
+Panama U23
+
+![](https://api.sofascore1.com/api/v1/team/204113/image)
+
+![](https://api.sofascore1.com/api/v1/team/517509/image)
+
+Korea Republic U21
+
+Mexico U23
+
+![](https://api.sofascore1.com/api/v1/team/208537/image)
+
+![](https://sporthd.me/images/euro2024.webp)
+
+UEFA Euro
 
 4 matches
 
 •
 
+Europe
+
+![](https://api.sofascore1.com/api/v1/team/4711/image)
+
+Germany
+
+Scotland
+
+![](https://api.sofascore1.com/api/v1/team/4695/image)
+
+![](https://sporthd.me/images/Hungary.png)
+
+Hungary
+
+Switzerland
+
+![](https://sporthd.me/images/Switzerland.png)
+
+![](https://sporthd.me/images/Spain.png)
+
+Spain
+
+Croatia
+
+![](https://sporthd.me/images/Croatia.png)
+
+![](https://sporthd.me/images/Italy.png)
+
+Italy
+
+Albania
+
+![](https://sporthd.me/images/Albania.png)
+
+![](https://s2watch.me/images/WNBA.png)
+
+WNBA
+
+1 matches
+
+•
+
 USA
 
-![](https://api.sofascore1.com/api/v1/team/3446/image)
+![](https://api.sofascore1.com/api/v1/team/35547/image)
 
-New York Liberty
+Connecticut Sun
 
-Washington Mystics
+Indiana Fever
 
-![](https://api.sofascore1.com/api/v1/team/3454/image)
+![](https://api.sofascore1.com/api/v1/team/3452/image)
 
-![](https://api.sofascore1.com/api/v1/team/3450/image)
+![](https://sporthd.me/images/World Cup Qualification, AFC.png)
 
-Dallas Wings
+World Championship Qual. AFC
 
-Phoenix Mercury
+1 matches
 
-![](https://api.sofascore1.com/api/v1/team/3444/image)
+•
 
-![](https://api.sofascore1.com/api/v1/team/35546/image)
+Asia
 
-Chicago Sky
+![](https://api.sofascore1.com/api/v1/team/4770/image)
 
-Atlanta Dream
+Japan
 
-![](https://api.sofascore1.com/api/v1/team/35545/image)
+Syria
 
-![](https://api.sofascore1.com/api/v1/team/3440/image)
+![](https://api.sofascore1.com/api/v1/team/4731/image)
 
-Minnesota Lynx
+![](https://sporthd.me/images/World Cup Qualification, CAF, Group G.png)
 
-Seattle Storm
+World Championship Qual. CAF
 
-![](https://api.sofascore1.com/api/v1/team/3448/image)
+7 matches
+
+•
+
+Africa
+
+![](https://api.sofascore1.com/api/v1/team/4826/image)
+
+Guinea
+
+Mozambique
+
+![](https://api.sofascore1.com/api/v1/team/4783/image)
+
+![](https://api.sofascore1.com/api/v1/team/23478/image)
+
+Guinea-Bissau
+
+Egypt
+
+![](https://api.sofascore1.com/api/v1/team/4758/image)
+
+![](https://api.sofascore1.com/api/v1/team/4736/image)
+
+South Africa
+
+Zimbabwe
+
+![](https://api.sofascore1.com/api/v1/team/4719/image)
+
+![](https://api.sofascore1.com/api/v1/team/8040/image)
+
+Congo Republic
+
+Morocco
+
+![](https://api.sofascore1.com/api/v1/team/4778/image)
+
+![](https://api.sofascore1.com/api/v1/team/4692/image)
+
+Angola
+
+Cameroon
+
+![](https://api.sofascore1.com/api/v1/team/4751/image)
+
+![](https://api.sofascore1.com/api/v1/team/4753/image)
+
+Cape Verde
+
+Libya
+
+![](https://api.sofascore1.com/api/v1/team/4775/image)
+
+![](https://api.sofascore1.com/api/v1/team/4773/image)
+
+Kenya
+
+Côte d'Ivoire
+
+![](https://api.sofascore1.com/api/v1/team/4768/image)
 
 ![](https://sporthd.me/images/World Championship Qual. CONCACAF.png)
 
 World Championship Qual. CONCACAF
 
-2 matches
+1 matches
 
 •
 
 North & Central America
 
-![](https://api.sofascore1.com/api/v1/team/21806/image)
+![](https://api.sofascore1.com/api/v1/team/21820/image)
+
+Saint Lucia
 
 Aruba
 
-Curaçao
-
-![](https://api.sofascore1.com/api/v1/team/55827/image)
-
-![](https://api.sofascore1.com/api/v1/team/21809/image)
-
-Belize
-
-Nicaragua
-
-![](https://api.sofascore1.com/api/v1/team/21817/image)
+![](https://api.sofascore1.com/api/v1/team/21806/image)
 
 * * *
 
