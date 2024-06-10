@@ -534,7 +534,7 @@ Our Schools
     * [BVU-Documents](https://www.browardschools.com/domain/13839)
     * [Seasons of Learning](https://www.browardschools.com/domain/13853)
     
-    * [Professional Learning Standards & Support](https://www.browardschools.com/domain/13712)
+    * [Professional Development Standards & Support](https://www.browardschools.com/domain/13712)
     * [Broward Virtual University](https://www.browardschools.com/domain/12238)
     * [Professional Development Calendars](https://www.browardschools.com/domain/12398)
     * [Master Plans & Innovation Configurations](https://www.browardschools.com/domain/12374)
