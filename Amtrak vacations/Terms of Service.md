@@ -27,7 +27,7 @@ Main navigation
     * [Most Popular](https://www.amtrakvacations.com/destinations/top-10-destinations?nav=)
         
         * [Boston, MA](https://www.amtrakvacations.com/destinations/boston-ma?nav=)
-        * [Canada](https://www.amtrakvacations.com/destinations/canada?nav=)
+        * [Canadian Rockies](https://www.amtrakvacations.com/canadian-rockies?nav=)
         * [Chicago, IL](https://www.amtrakvacations.com/destinations/chicago-il?nav=)
         * [Denver, CO](https://www.amtrakvacations.com/destinations/denver-co?nav=)
         * [Charleston, SC](https://www.amtrakvacations.com/destinations/charleston-sc?nav=)
@@ -42,13 +42,13 @@ Main navigation
     
     [Search by Map](https://www.amtrakvacations.com/trip-planning/search-by-map) [View Top 10 Destinations](https://www.amtrakvacations.com/destinations/top-10-destinations) [View all Destinations](https://www.amtrakvacations.com/destinations)
     
-    [##### Limited-Time Offer, 15+ Nights
+    [##### Flash Sale 15+ Nights
     
-    Save $600](https://www.amtrakvacations.com/trips?minDuration=16&maxDuration=40)
+    Save $600](https://www.amtrakvacations.com/limited-time-offer?avdeals=)
     
-    For a limited time only, save $600 per couple on our most popular vacations inclusive of 15 nights or more!
+    For a limited time only, save $600 per couple on rail vacations inclusive of 15 nights or more!
     
-    [View Details](https://www.amtrakvacations.com/trips?minDuration=16&maxDuration=40)
+    [View Details](https://www.amtrakvacations.com/limited-time-offer?avdeals=)
     
 * [Travel Styles](https://www.amtrakvacations.com/vacation-types?nav=)
     
@@ -137,15 +137,17 @@ Main navigation
     
     [Map Your Trip](https://www.amtrakvacations.com/trip-planning/search-by-map) [Travel Advisor Login](https://www.amtrakvacations.com/plan-your-amtrak-trip/travel-agent-login)
     
-    [##### Limited-Time Offer, 10+ Nights
+    [##### Flash Sale 10+ Nights
     
     Save $500](https://www.amtrakvacations.com/trips?minDuration=11&maxDuration=15)
     
-    For a limited time only, save $500 per couple on our most popular vacations inclusive of 10 nights or more!
+    For a limited time only, save $500 per couple on any of our rail vacations inclusive of 10 nights or more!
     
     [View Trips](https://www.amtrakvacations.com/trips?minDuration=11&maxDuration=15)
     
 * [Deals View the latest deals, grab early booking discounts, and check out our everyday special offers.](https://www.amtrakvacations.com/deals?nav=)
+
+Search
 
 [Advisor Login](https://www.amtrakvacations.com/plan-your-amtrak-trip/travel-agent-login?bttn=)
 
@@ -154,16 +156,10 @@ Main navigation
 * [Australia](https://www.amtrakvacations.com.au/terms-conditions)
 * [Canada](https://www.amtrakvacations.ca/terms-conditions)
 
-### Suggested Queries:
-
-Close
-
-View More Results
-
 [1-800-268-7252  
 or contact your travel advisor Call](tel:1-800-268-7252)
 
-Toggle Mobile Search Menu
+Menu
 
 ![Amtrak Vacations](/sites/amtrak/themes/custom/amtrak/assets/img/amtrak-logo-white.png)
 
