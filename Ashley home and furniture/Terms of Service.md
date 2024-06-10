@@ -6,6 +6,10 @@ ENTER ZIP CODE
 
 update zip code
 
+OR
+
+use my location
+
 [](https://www.ashleyfurniture.com/)
 
 * [My Account](https://www.ashleyfurniture.com/login)
@@ -25,7 +29,7 @@ update zip code
 * [Decor](https://www.ashleyfurniture.com/c/home-decor)
 * [Rugs](https://www.ashleyfurniture.com/c/rugs)
 * [Organization](https://www.ashleyfurniture.com/c/storage)
-* [Seasonal](https://www.ashleyfurniture.com/c/spring)
+* [Holiday](https://www.ashleyfurniture.com/c/spring)
 * [Inspiration](https://www.ashleyfurniture.com/c/home-ideas)
 * [Deals](https://www.ashleyfurniture.com/c/deals)
 
@@ -33,30 +37,468 @@ update zip code
 
 * [Living Room](https://www.ashleyfurniture.com/c/living-room)
     
+    * [Browse All Living Room](https://www.ashleyfurniture.com/c/living-room)
+        
+    * [Leather Seating](https://www.ashleyfurniture.com/c/living-room/leather-seating)
+        
+        * [Browse All Leather Seating](https://www.ashleyfurniture.com/c/living-room/leather-seating)
+            
+    * [Sofas](https://www.ashleyfurniture.com/c/living-room/sofas-and-couches)
+        
+        * [Browse All Sofas](https://www.ashleyfurniture.com/c/living-room/sofas-and-couches)
+            
+    * [Loveseats](https://www.ashleyfurniture.com/c/living-room/loveseats)
+        
+        * [Browse All Loveseats](https://www.ashleyfurniture.com/c/living-room/loveseats)
+            
+    * [Sectional Sofas](https://www.ashleyfurniture.com/c/living-room/sectional-sofas)
+        
+        * [Browse All Sectional Sofas](https://www.ashleyfurniture.com/c/living-room/sectional-sofas)
+            
+    * [Sleeper Sofas](https://www.ashleyfurniture.com/c/living-room/sleeper-sofas)
+        
+        * [Browse All Sleeper Sofas](https://www.ashleyfurniture.com/c/living-room/sleeper-sofas)
+            
+    * [Reclining Furniture](https://www.ashleyfurniture.com/c/living-room/reclining-furniture)
+        
+        * [Browse All Reclining Furniture](https://www.ashleyfurniture.com/c/living-room/reclining-furniture)
+            
+    * [Recliners](https://www.ashleyfurniture.com/c/living-room/recliners)
+        
+        * [Browse All Recliners](https://www.ashleyfurniture.com/c/living-room/recliners)
+            
+    * [Ottomans](https://www.ashleyfurniture.com/c/living-room/ottomans)
+        
+        * [Browse All Ottomans](https://www.ashleyfurniture.com/c/living-room/ottomans)
+            
+    * [Coffee Tables](https://www.ashleyfurniture.com/c/living-room/coffee-tables)
+        
+        * [Browse All Coffee Tables](https://www.ashleyfurniture.com/c/living-room/coffee-tables)
+            
+    * [End Tables](https://www.ashleyfurniture.com/c/living-room/end-and-side-tables)
+        
+        * [Browse All End Tables](https://www.ashleyfurniture.com/c/living-room/end-and-side-tables)
+            
+    * [TV Stands](https://www.ashleyfurniture.com/c/living-room/tv-stands)
+        
+        * [Browse All TV Stands](https://www.ashleyfurniture.com/c/living-room/tv-stands)
+            
+    * [Entertainment Centers](https://www.ashleyfurniture.com/c/living-room/entertainment-centers)
+        
+        * [Browse All Entertainment Centers](https://www.ashleyfurniture.com/c/living-room/entertainment-centers)
+            
+    * [Furniture Sets](https://www.ashleyfurniture.com/c/living-room/sets)
+        
+        * [Browse All Furniture Sets](https://www.ashleyfurniture.com/c/living-room/sets)
+            
+        * [Living Room Sets](https://www.ashleyfurniture.com/c/living-room/sets/sets-living-room-sets)
+            
+        * [Sofa & Loveseat Sets](https://www.ashleyfurniture.com/c/living-room/sets/sets-sofa-and-loveseat-sets)
+            
+        * [Coffee & End Table Sets](https://www.ashleyfurniture.com/c/living-room/sets/coffee-and-end-table-sets)
+            
+    * [Accent Furniture](https://www.ashleyfurniture.com/c/living-room/accent-furniture)
+        
+        * [Browse All Accent Furniture](https://www.ashleyfurniture.com/c/living-room/accent-furniture)
+            
+        * [Accent Chairs](https://www.ashleyfurniture.com/c/living-room/accent-furniture/living-room-chairs)
+            
+        * [Accent Tables](https://www.ashleyfurniture.com/c/living-room/accent-furniture/occasional-tables)
+            
+        * [Console & Sofa Tables](https://www.ashleyfurniture.com/c/living-room/accent-furniture/console-tables)
+            
+        * [Accent Cabinets](https://www.ashleyfurniture.com/c/living-room/accent-furniture/accent-cabinets)
+            
+        * [Benches](https://www.ashleyfurniture.com/c/living-room/accent-furniture/benches)
+            
 * [Bedroom](https://www.ashleyfurniture.com/c/bedroom)
     
+    * [Browse All Bedroom](https://www.ashleyfurniture.com/c/bedroom)
+        
+    * [Beds](https://www.ashleyfurniture.com/c/bedroom/beds)
+        
+        * [Browse All Beds](https://www.ashleyfurniture.com/c/bedroom/beds)
+            
+    * [Bedroom Sets](https://www.ashleyfurniture.com/c/bedroom/sets-bedroom-sets)
+        
+        * [Browse All Bedroom Sets](https://www.ashleyfurniture.com/c/bedroom/sets-bedroom-sets)
+            
+    * [Headboards](https://www.ashleyfurniture.com/c/bedroom/headboards)
+        
+        * [Browse All Headboards](https://www.ashleyfurniture.com/c/bedroom/headboards)
+            
+    * [Dressers & Chests of Drawers](https://www.ashleyfurniture.com/c/bedroom/dressers-and-chests)
+        
+        * [Browse All Dressers & Chests of Drawers](https://www.ashleyfurniture.com/c/bedroom/dressers-and-chests)
+            
+    * [Mirrored Dressers](https://www.ashleyfurniture.com/c/bedroom/dressers-mirrored-1)
+        
+        * [Browse All Mirrored Dressers](https://www.ashleyfurniture.com/c/bedroom/dressers-mirrored-1)
+            
+    * [Nightstands](https://www.ashleyfurniture.com/c/bedroom/nightstands)
+        
+        * [Browse All Nightstands](https://www.ashleyfurniture.com/c/bedroom/nightstands)
+            
+    * [Makeup Vanities](https://www.ashleyfurniture.com/c/bedroom/makeup-vanities)
+        
+        * [Browse All Makeup Vanities](https://www.ashleyfurniture.com/c/bedroom/makeup-vanities)
+            
 * [Dining](https://www.ashleyfurniture.com/c/kitchen-and-dining-room)
     
+    * [Browse All Dining](https://www.ashleyfurniture.com/c/kitchen-and-dining-room)
+        
+    * [Dining Room Sets](https://www.ashleyfurniture.com/c/kitchen-and-dining-room/dining-sets)
+        
+        * [Browse All Dining Room Sets](https://www.ashleyfurniture.com/c/kitchen-and-dining-room/dining-sets)
+            
+    * [Dining Room Tables](https://www.ashleyfurniture.com/c/kitchen-and-dining-room/dining-tables)
+        
+        * [Browse All Dining Room Tables](https://www.ashleyfurniture.com/c/kitchen-and-dining-room/dining-tables)
+            
+    * [Dining Room Chairs](https://www.ashleyfurniture.com/c/kitchen-and-dining-room/dining-room-chairs)
+        
+        * [Browse All Dining Room Chairs](https://www.ashleyfurniture.com/c/kitchen-and-dining-room/dining-room-chairs)
+            
+    * [Bar Stools](https://www.ashleyfurniture.com/c/kitchen-and-dining-room/bar-stools)
+        
+        * [Browse All Bar Stools](https://www.ashleyfurniture.com/c/kitchen-and-dining-room/bar-stools)
+            
+    * [Dining Benches](https://www.ashleyfurniture.com/c/kitchen-and-dining-room/dining-benches)
+        
+        * [Browse All Dining Benches](https://www.ashleyfurniture.com/c/kitchen-and-dining-room/dining-benches)
+            
+    * [Dining Storage](https://www.ashleyfurniture.com/c/kitchen-and-dining-room/dining-storage)
+        
+        * [Browse All Dining Storage](https://www.ashleyfurniture.com/c/kitchen-and-dining-room/dining-storage)
+            
+    * [Bar Furniture](https://www.ashleyfurniture.com/c/kitchen-and-dining-room/bar-furniture)
+        
+        * [Browse All Bar Furniture](https://www.ashleyfurniture.com/c/kitchen-and-dining-room/bar-furniture)
+            
 * [Mattresses](https://www.ashleyfurniture.com/c/mattresses)
     
+    * [Browse All Mattresses](https://www.ashleyfurniture.com/c/mattresses)
+        
+    * [Shop Mattress Sets](https://www.ashleyfurniture.com/c/mattresses/mattress-sets)
+        
+        * [Browse All Shop Mattress Sets](https://www.ashleyfurniture.com/c/mattresses/mattress-sets)
+            
+    * [Mattress in a Box](https://www.ashleyfurniture.com/c/mattresses/mattresses-bed-in-a-box)
+        
+        * [Browse All Mattress in a Box](https://www.ashleyfurniture.com/c/mattresses/mattresses-bed-in-a-box)
+            
+    * [Bed Foundations](https://www.ashleyfurniture.com/c/mattresses/foundations)
+        
+        * [Browse All Bed Foundations](https://www.ashleyfurniture.com/c/mattresses/foundations)
+            
+    * [Adjustable Bed Bases](https://www.ashleyfurniture.com/c/mattresses/power-bases)
+        
+        * [Browse All Adjustable Bed Bases](https://www.ashleyfurniture.com/c/mattresses/power-bases)
+            
+    * [Mattress Protectors & Toppers](https://www.ashleyfurniture.com/c/mattresses/mattress-protectors)
+        
+        * [Browse All Mattress Protectors & Toppers](https://www.ashleyfurniture.com/c/mattresses/mattress-protectors)
+            
+    * [Bed Pillows](https://www.ashleyfurniture.com/c/mattresses/bed-pillows)
+        
+        * [Browse All Bed Pillows](https://www.ashleyfurniture.com/c/mattresses/bed-pillows)
+            
+    * [Sheet Sets](https://www.ashleyfurniture.com/c/mattresses/sheets)
+        
+        * [Browse All Sheet Sets](https://www.ashleyfurniture.com/c/mattresses/sheets)
+            
+    * [Comforter Sets](https://www.ashleyfurniture.com/c/mattresses/comforters)
+        
+        * [Browse All Comforter Sets](https://www.ashleyfurniture.com/c/mattresses/comforters)
+            
+    * [Quilts & Coverlets](https://www.ashleyfurniture.com/c/mattresses/quilts-coverlets)
+        
+        * [Browse All Quilts & Coverlets](https://www.ashleyfurniture.com/c/mattresses/quilts-coverlets)
+            
 * [Outdoor](https://www.ashleyfurniture.com/c/outdoor)
     
+    * [Browse All Outdoor](https://www.ashleyfurniture.com/c/outdoor)
+        
+    * [Outdoor Lounge Furniture](https://www.ashleyfurniture.com/c/outdoor/outdoor-seating)
+        
+        * [Browse All Outdoor Lounge Furniture](https://www.ashleyfurniture.com/c/outdoor/outdoor-seating)
+            
+        * [Outdoor Sectionals](https://www.ashleyfurniture.com/c/outdoor/outdoor-seating/outdoor-sectionals)
+            
+        * [Outdoor Sofas & Loveseats](https://www.ashleyfurniture.com/c/outdoor/outdoor-seating/outdoor-sofa-and-loveseats)
+            
+        * [Outdoor Chairs & Chaises](https://www.ashleyfurniture.com/c/outdoor/outdoor-seating/outdoor-patio-chairs)
+            
+        * [Outdoor Benches](https://www.ashleyfurniture.com/c/outdoor/outdoor-seating/patio-benches)
+            
+        * [Outdoor Coffee Tables](https://www.ashleyfurniture.com/c/outdoor/outdoor-seating/outdoor-coffee-tables)
+            
+        * [Outdoor Side Tables](https://www.ashleyfurniture.com/c/outdoor/outdoor-seating/outdoor-side-and-end-tables)
+            
+        * [Outdoor Conversation Sets](https://www.ashleyfurniture.com/c/outdoor/outdoor-seating/chat-sets)
+            
+        * [Outdoor Chair Sets](https://www.ashleyfurniture.com/c/outdoor/outdoor-seating/outdoor-seating-sets)
+            
+    * [Outdoor Dining Furniture](https://www.ashleyfurniture.com/c/outdoor/outdoor-dining)
+        
+        * [Browse All Outdoor Dining Furniture](https://www.ashleyfurniture.com/c/outdoor/outdoor-dining)
+            
+        * [Outdoor Dining Chairs](https://www.ashleyfurniture.com/c/outdoor/outdoor-dining/outdoor-dining-chairs)
+            
+        * [Outdoor Dining Tables](https://www.ashleyfurniture.com/c/outdoor/outdoor-dining/outdoor-dining-tables)
+            
+        * [Outdoor Dining Sets](https://www.ashleyfurniture.com/c/outdoor/outdoor-dining/outdoor-dining-sets)
+            
+    * [Outdoor Bar Furniture](https://www.ashleyfurniture.com/c/outdoor/outdoor-bar-furniture)
+        
+        * [Browse All Outdoor Bar Furniture](https://www.ashleyfurniture.com/c/outdoor/outdoor-bar-furniture)
+            
+        * [Outdoor Bar Stools](https://www.ashleyfurniture.com/c/outdoor/outdoor-bar-furniture/outdoor-bar-furniture-bar-stools)
+            
+        * [Outdoor Bar Tables](https://www.ashleyfurniture.com/c/outdoor/outdoor-bar-furniture/outdoor-bar-furniture-tables)
+            
+        * [Outdoor Bar Sets](https://www.ashleyfurniture.com/c/outdoor/outdoor-bar-furniture/outdoor-bar-furniture-sets)
+            
+    * [Shop Outdoor By Material](https://www.ashleyfurniture.com/c/outdoor/material)
+        
+        * [Browse All Shop Outdoor By Material](https://www.ashleyfurniture.com/c/outdoor/material)
+            
+        * [All-Weather Outdoor Fabric](https://www.ashleyfurniture.com/c/outdoor/material/all-weather-fabric)
+            
+        * [Resin Wicker](https://www.ashleyfurniture.com/c/outdoor/material/resin-wicker)
+            
+        * [Aluminum](https://www.ashleyfurniture.com/c/outdoor/material/aluminum)
+            
+        * [Wood](https://www.ashleyfurniture.com/c/outdoor/material/wood)
+            
+        * [HDPE](https://www.ashleyfurniture.com/c/outdoor/material/high-density-recycled-plastic)
+            
+    * [Outdoor Accessories](https://www.ashleyfurniture.com/c/outdoor/patio-accessories)
+        
+        * [Browse All Outdoor Accessories](https://www.ashleyfurniture.com/c/outdoor/patio-accessories)
+            
+        * [Outdoor Decor](https://www.ashleyfurniture.com/c/outdoor/patio-accessories/outdoor-patio-decor)
+            
+        * [Outdoor Pillows](https://www.ashleyfurniture.com/c/outdoor/patio-accessories/outdoor-pillows)
+            
+        * [Outdoor Rugs](https://www.ashleyfurniture.com/c/outdoor/patio-accessories/indoor-outdoor-rugs)
+            
+    * [Patio Heating](https://www.ashleyfurniture.com/c/outdoor/heaters)
+        
+        * [Browse All Patio Heating](https://www.ashleyfurniture.com/c/outdoor/heaters)
+            
+        * [Fire Pits](https://www.ashleyfurniture.com/c/outdoor/heaters/fire-pits-and-tables)
+            
+        * [Outdoor Fire Pit Sets](https://www.ashleyfurniture.com/c/outdoor/heaters/fire-pit-sets)
+            
 * [Kids & Baby](https://www.ashleyfurniture.com/c/ahs-page)
     
+    * [Browse All Kids & Baby](https://www.ashleyfurniture.com/c/ahs-page)
+        
+    * [Kids](https://www.ashleyfurniture.com/c/ahs-page/kids)
+        
+        * [Browse All Kids](https://www.ashleyfurniture.com/c/ahs-page/kids)
+            
+    * [Kids Furniture](https://www.ashleyfurniture.com/c/ahs-page/kids-nav)
+        
+        * [Browse All Kids Furniture](https://www.ashleyfurniture.com/c/ahs-page/kids-nav)
+            
+        * [Kids Beds](https://www.ashleyfurniture.com/c/ahs-page/kids-nav/kids-beds)
+            
+        * [Bunk Beds](https://www.ashleyfurniture.com/c/ahs-page/kids-nav/kids-bunk-beds)
+            
+        * [Loft Beds](https://www.ashleyfurniture.com/c/ahs-page/kids-nav/kids-loft-beds)
+            
+        * [Kids Bedroom Sets](https://www.ashleyfurniture.com/c/ahs-page/kids-nav/kids-bedroom-sets)
+            
+        * [Kids Headboards](https://www.ashleyfurniture.com/c/ahs-page/kids-nav/kids-headboards)
+            
+        * [Kids Nightstands](https://www.ashleyfurniture.com/c/ahs-page/kids-nav/kids-nightstands)
+            
+        * [Kids Dressers](https://www.ashleyfurniture.com/c/ahs-page/kids-nav/kids-dressers)
+            
+        * [Kids Mirrored Dressers](https://www.ashleyfurniture.com/c/ahs-page/kids-nav/kids-dressers-and-mirrors)
+            
+        * [Kids Desks](https://www.ashleyfurniture.com/c/ahs-page/kids-nav/kids-desks)
+            
+    * [Kids Wall Decor](https://www.ashleyfurniture.com/c/ahs-page/kids-wall-decor)
+        
+        * [Browse All Kids Wall Decor](https://www.ashleyfurniture.com/c/ahs-page/kids-wall-decor)
+            
+    * [Kids Lighting](https://www.ashleyfurniture.com/c/ahs-page/kids-lighting)
+        
+        * [Browse All Kids Lighting](https://www.ashleyfurniture.com/c/ahs-page/kids-lighting)
+            
+    * [Girls Bedroom Furniture](https://www.ashleyfurniture.com/c/ahs-page/kids-girls-bedroom-furniture)
+        
+        * [Browse All Girls Bedroom Furniture](https://www.ashleyfurniture.com/c/ahs-page/kids-girls-bedroom-furniture)
+            
+    * [Boys Bedroom Furniture](https://www.ashleyfurniture.com/c/ahs-page/kids-boys-bedroom-furniture)
+        
+        * [Browse All Boys Bedroom Furniture](https://www.ashleyfurniture.com/c/ahs-page/kids-boys-bedroom-furniture)
+            
+    * [Gender Neutral Bedroom Furniture](https://www.ashleyfurniture.com/c/ahs-page/gender-neutral-furniture)
+        
+        * [Browse All Gender Neutral Bedroom Furniture](https://www.ashleyfurniture.com/c/ahs-page/gender-neutral-furniture)
+            
+    * [Nursery Furniture](https://www.ashleyfurniture.com/c/ahs-page/nursery-furniture)
+        
+        * [Browse All Nursery Furniture](https://www.ashleyfurniture.com/c/ahs-page/nursery-furniture)
+            
+    * [Baby & Toddler Decor](https://www.ashleyfurniture.com/c/ahs-page/baby-toddler-decor)
+        
+        * [Browse All Baby & Toddler Decor](https://www.ashleyfurniture.com/c/ahs-page/baby-toddler-decor)
+            
+    * [Baby & Toddler Lighting](https://www.ashleyfurniture.com/c/ahs-page/baby-toddler-lighting)
+        
+        * [Browse All Baby & Toddler Lighting](https://www.ashleyfurniture.com/c/ahs-page/baby-toddler-lighting)
+            
 * [Home Office](https://www.ashleyfurniture.com/c/home-office)
     
+    * [Browse All Home Office](https://www.ashleyfurniture.com/c/home-office)
+        
+    * [Desks](https://www.ashleyfurniture.com/c/home-office/desks)
+        
+        * [Browse All Desks](https://www.ashleyfurniture.com/c/home-office/desks)
+            
+    * [Bookcases](https://www.ashleyfurniture.com/c/home-office/bookcases)
+        
+        * [Browse All Bookcases](https://www.ashleyfurniture.com/c/home-office/bookcases)
+            
+    * [Office Chairs](https://www.ashleyfurniture.com/c/home-office/office-chairs)
+        
+        * [Browse All Office Chairs](https://www.ashleyfurniture.com/c/home-office/office-chairs)
+            
+    * [Home Office Furniture Sets](https://www.ashleyfurniture.com/c/home-office/home-office-sets)
+        
+        * [Browse All Home Office Furniture Sets](https://www.ashleyfurniture.com/c/home-office/home-office-sets)
+            
+    * [Home Office Storage](https://www.ashleyfurniture.com/c/home-office/office-storage)
+        
+        * [Browse All Home Office Storage](https://www.ashleyfurniture.com/c/home-office/office-storage)
+            
+    * [Gaming Room Furniture](https://www.ashleyfurniture.com/c/home-office/gaming)
+        
+        * [Browse All Gaming Room Furniture](https://www.ashleyfurniture.com/c/home-office/gaming)
+            
 * [Decor](https://www.ashleyfurniture.com/c/home-decor)
     
+    * [Browse All Decor](https://www.ashleyfurniture.com/c/home-decor)
+        
+    * [Home Accents](https://www.ashleyfurniture.com/c/home-decor/home-accents)
+        
+        * [Browse All Home Accents](https://www.ashleyfurniture.com/c/home-decor/home-accents)
+            
+        * [Decorative Bowls](https://www.ashleyfurniture.com/c/home-decor/home-accents/decorative-bowls)
+            
+        * [Candle Holders](https://www.ashleyfurniture.com/c/home-decor/home-accents/candle-holders)
+            
+        * [Picture Frames](https://www.ashleyfurniture.com/c/home-decor/home-accents/home-decor-picture-frames)
+            
+        * [Sculptures](https://www.ashleyfurniture.com/c/home-decor/home-accents/home-decor-sculptures)
+            
+        * [Decorative Objects](https://www.ashleyfurniture.com/c/home-decor/home-accents/decorative-objects)
+            
+        * [Vases](https://www.ashleyfurniture.com/c/home-decor/home-accents/decorative-vases)
+            
+        * [Artificial Plants](https://www.ashleyfurniture.com/c/home-decor/home-accents/artificial-plants)
+            
+        * [Clocks](https://www.ashleyfurniture.com/c/home-decor/home-accents/clocks)
+            
+    * [Mirrors](https://www.ashleyfurniture.com/c/home-decor/mirrors)
+        
+        * [Browse All Mirrors](https://www.ashleyfurniture.com/c/home-decor/mirrors)
+            
+        * [Wall Mirrors](https://www.ashleyfurniture.com/c/home-decor/mirrors/wall-mirrors)
+            
+        * [Floor & Standing Mirrors](https://www.ashleyfurniture.com/c/home-decor/mirrors/floor-mirrors)
+            
+    * [Wall Art](https://www.ashleyfurniture.com/c/home-decor/wall-art)
+        
+        * [Browse All Wall Art](https://www.ashleyfurniture.com/c/home-decor/wall-art)
+            
+        * [Framed Art](https://www.ashleyfurniture.com/c/home-decor/wall-art/framed)
+            
+        * [Canvas Art](https://www.ashleyfurniture.com/c/home-decor/wall-art/canvas)
+            
+        * [Wall Art Sets](https://www.ashleyfurniture.com/c/home-decor/wall-art/wall-art-sets)
+            
+    * [Wall Decor](https://www.ashleyfurniture.com/c/home-decor/wall-decor)
+        
+        * [Browse All Wall Decor](https://www.ashleyfurniture.com/c/home-decor/wall-decor)
+            
+        * [Wall Shelves](https://www.ashleyfurniture.com/c/home-decor/wall-decor/wall-shelves)
+            
+        * [Wall Tapestries](https://www.ashleyfurniture.com/c/home-decor/wall-decor/tapestries)
+            
+        * [Accent Wall Decor](https://www.ashleyfurniture.com/c/home-decor/wall-decor/wall-accents)
+            
+    * [Throw Pillows, Blankets, & Poufs](https://www.ashleyfurniture.com/c/home-decor/textiles)
+        
+        * [Browse All Throw Pillows, Blankets, & Poufs](https://www.ashleyfurniture.com/c/home-decor/textiles)
+            
+        * [Throw Blankets](https://www.ashleyfurniture.com/c/home-decor/textiles/blankets-and-throws)
+            
+        * [Throw Pillows](https://www.ashleyfurniture.com/c/home-decor/textiles/throw-pillows)
+            
+        * [Poufs](https://www.ashleyfurniture.com/c/home-decor/textiles/poufs)
+            
+    * [Pet](https://www.ashleyfurniture.com/c/home-decor/pet)
+        
+        * [Browse All Pet](https://www.ashleyfurniture.com/c/home-decor/pet)
+            
+    * [Entryway](https://www.ashleyfurniture.com/c/home-decor/entryway)
+        
+        * [Browse All Entryway](https://www.ashleyfurniture.com/c/home-decor/entryway)
+            
+        * [Entryway Tables](https://www.ashleyfurniture.com/c/home-decor/entryway/entryway-tables)
+            
+        * [Entryway Benches](https://www.ashleyfurniture.com/c/home-decor/entryway/entryway-benches)
+            
+        * [Hall Trees](https://www.ashleyfurniture.com/c/home-decor/entryway/entryway-hall-trees)
+            
+        * [Entryway Storage](https://www.ashleyfurniture.com/c/home-decor/entryway/entryway-storage)
+            
+    * [Lighting](https://www.ashleyfurniture.com/c/home-decor/lighting-top)
+        
+        * [Browse All Lighting](https://www.ashleyfurniture.com/c/home-decor/lighting-top)
+            
+        * [Table Lamps](https://www.ashleyfurniture.com/c/home-decor/lighting-top/lighting-table-lamps)
+            
+        * [Lamp Sets](https://www.ashleyfurniture.com/c/home-decor/lighting-top/lighting-lamp-sets)
+            
+        * [Desk Lamps](https://www.ashleyfurniture.com/c/home-decor/lighting-top/lighting-desk-lamps)
+            
+        * [Floor Lamps](https://www.ashleyfurniture.com/c/home-decor/lighting-top/lighting-floor-lamps)
+            
+        * [Chandeliers](https://www.ashleyfurniture.com/c/home-decor/lighting-top/lighting-chandeliers)
+            
+        * [Pendant Lighting](https://www.ashleyfurniture.com/c/home-decor/lighting-top/lighting-pendants)
+            
+        * [Wall Lighting](https://www.ashleyfurniture.com/c/home-decor/lighting-top/wall-lighting)
+            
+        * [Ceiling Fans](https://www.ashleyfurniture.com/c/home-decor/lighting-top/lighting-ceiling-fans)
+            
 * [Rugs](https://www.ashleyfurniture.com/c/rugs)
     
+    * [Browse All Rugs](https://www.ashleyfurniture.com/c/rugs)
+        
 * [Organization](https://www.ashleyfurniture.com/c/storage)
     
-* [Seasonal](https://www.ashleyfurniture.com/c/spring)
+    * [Browse All Organization](https://www.ashleyfurniture.com/c/storage)
+        
+* [Holiday](https://www.ashleyfurniture.com/c/spring)
     
+    * [Browse All Holiday](https://www.ashleyfurniture.com/c/spring)
+        
 * [Inspiration](https://www.ashleyfurniture.com/c/home-ideas)
     
+    * [Browse All Inspiration](https://www.ashleyfurniture.com/c/home-ideas)
+        
 * [Deals](https://www.ashleyfurniture.com/c/deals)
     
+    * [Browse All Deals](https://www.ashleyfurniture.com/c/deals)
+        
 
 * [My Account](https://www.ashleyfurniture.com/login)
     
@@ -204,7 +646,7 @@ Ashley Help
 * [Furniture Protection by Reguard](https://www.ashleyfurniture.com/furniture-protection/)
 * [Furniture Protection by GBS](https://www.ashleyfurniture.com/gbs-protection)
 * [Warranty Information](https://www.ashleyfurniture.com/warranty-information/)
-* [Returns](https://www.ashleyfurniture.com/returns)
+* [Returns](https://www.ashleyfurniture.com/on/demandware.store/Sites-Ashley-US-Site/default/AskAshley-ShowPage?pname=returns)
 * [Price Match](https://www.ashleyfurniture.com/price-match/)
 * [Child Safety](https://www.ashleyfurniture.com/anchorit/)
 * [Products Care & Cleaning](https://www.ashleyfurniture.com/care-and-cleaning/)
@@ -214,6 +656,7 @@ Services
 
 * [Financing and Lease to Own Options](https://www.ashleyfurniture.com/financing/)
 * [See if You Prequalify for Financing](https://etail.mysynchrony.com/eapply/eapply.action?uniqueId=565510A04C0A508AC067D9B072C9D4F57DB34A98269D02B5&preQual=Y&siteCode=ASHLEYFOOTERPQ)
+* [Buy Now Pay Later](https://www.ashleyfurniture.com/financing/caddipay/)
 * [Orange Rewards](https://www.ashleyfurniture.com/orange-rewards/)
 * [Trade Program](https://www.ashleyfurniture.com/trade/)
 * [Refer a Friend](https://www.ashleyfurniture.com/referafriend/)
@@ -226,7 +669,7 @@ Legal
 * [Offers & Details](https://www.ashleyfurniture.com/coupons-deals-and-offers/)
 * [Terms of use](https://www.ashleyfurniture.com/terms-of-use/)
 * [Privacy Policy](https://www.ashleyfurniture.com/privacy-policy/)
-* [SMS Program Terms](https://www.ashleyfurniture.com/sms-program-terms/)
+* [SMS Program Terms](https://www.ashleyfurniture.com/SMS-program-terms/)
 * [Dispute Resolution Process](https://www.ashleyfurniture.com/drp/)
 * [Product Recalls](https://www.ashleyfurnitureindustriesllc.com/consumer-notifications)
 * [Interest Based Ads](https://www.ashleyfurniture.com/interest-based-ads/)
