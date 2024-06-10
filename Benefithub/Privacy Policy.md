@@ -1,4 +1,4 @@
-[](https://www.benefithub.com/?hsLang=en)
+[](https://www.benefithub.com/)
 
 * [Solutions](https://www.benefithub.com/benefithub-solutions) [ ] 
     * [Overview](https://www.benefithub.com/benefithub-solutions)
@@ -21,7 +21,6 @@
     * [About Our Team](https://www.benefithub.com/about-benefithub#AboutTheTeam)
     * [Careers](https://www.benefithub.com/about-benefithub/careers)
     * [Global Presence](https://www.benefithub.com/about-benefithub#GlobalPresence)
-    * [News](https://www.benefithub.com/news)
 * [Partner With Us](https://www.benefithub.com/benefithub-partnership) [ ] 
     * [Benefits Broker](https://www.benefithub.com/partner-with-benefithub/benefits-broker)
     * [Merchant Partner](https://www.benefithub.com/partner-with-benefithub/merchant-partner)
@@ -305,9 +304,9 @@ a
 
 * © BenefitHub® 2022
 * [Privacy Policy](https://www.benefithub.com/privacy-policy-global)
-* [Terms of Service](https://www.benefithub.com/terms-and-conditions-global?hsLang=en)
-* [Impressum](https://www.benefithub.com/impressum?hsLang=en)
-* [ADA Compliance](https://www.benefithub.com/ada-compliance?hsLang=en)
+* [Terms of Service](https://www.benefithub.com/terms-and-conditions-global)
+* [Impressum](https://www.benefithub.com/impressum)
+* [ADA Compliance](https://www.benefithub.com/ada-compliance)
 
 [![BenefitHub LinkedIn](https://www.benefithub.com/hubfs/LinkedIn-Button-Footer.svg)](https://www.linkedin.com/company/benefithub/about/ "BenefitHub Linkedin")
 
