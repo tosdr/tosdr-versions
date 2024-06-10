@@ -1,8 +1,8 @@
 We’re sorry, but our website doesn’t work properly without JavaScript enabled. Please enable JavaScript in order to continue using our website.
 
-           Privacy Policy                                   
+           Privacy Policy                                    
 
-[![PetMeds](/on/demandware.static/Sites-1800petmeds-Site/-/default/dwb3e18972/images/newlogo.svg)](https://www.1800petmeds.com/ "PetMeds Home")
+[![PetMeds](/on/demandware.static/Sites-1800petmeds-Site/-/default/dw72608f99/images/newlogo.svg)](https://www.1800petmeds.com/ "PetMeds Home")
 
 Products Education 
 
@@ -14,7 +14,7 @@ Popular Searches
 * [Cat Food](https://www.1800petmeds.com/food-cat78.html?prefn1=species&prefv1=Cat)
 * [Heartworm](https://www.1800petmeds.com/heartworm-cat11.html)
 
-[![](https://www.1800petmeds.com/on/demandware.static/-/Sites/default/dw094a5cb7/images/banner-flea40-promo-search.jpg)](https://www.1800petmeds.com/save-on-flea-tick-heartworm-promo240503.html?campaign=flea40_promo "Save up to 40% OFF on Flea, Tick and Heartworm Products")
+[![](https://www.1800petmeds.com/on/demandware.static/-/Sites/default/dwe78e4c53/images/banner-shield50-protect30-promo-search.jpg)](https://www.1800petmeds.com/save-on-flea-tick-heartworm-promo240402.html?campaign=shield50_protect30_promo "Save up to 50% OFF on Flea, Tick and Heartworm Products")
 
 Applied
 
@@ -36,9 +36,11 @@ Popular on PetMeds
 * [Cart 0](https://www.1800petmeds.com/cart "Cart")
     
 
+50% Off\* Flea, Tick, and Heartworm essentials with AutoShip. Code: SHIELD50[Shop Now](https://www.1800petmeds.com/save-on-flea-tick-heartworm-promo240402.html?campaign=shield50_protect30_promo)
+
 MENU CLOSE
 
-[![PetMeds](/on/demandware.static/Sites-1800petmeds-Site/-/default/dwb3e18972/images/newlogo.svg)](https://www.1800petmeds.com/ "PetMeds Home")
+[![PetMeds](/on/demandware.static/Sites-1800petmeds-Site/-/default/dw72608f99/images/newlogo.svg)](https://www.1800petmeds.com/ "PetMeds Home")
 
 [Sign In](https://www.1800petmeds.com/login)
 
@@ -57,9 +59,9 @@ Popular Searches
 Popular on PetMeds
 ------------------
 
- ![](/on/demandware.static/Sites-1800petmeds-Site/-/default/dw7c5f5855/images/dark-blue-caret-left.svg) Swipe
+ ![](/on/demandware.static/Sites-1800petmeds-Site/-/default/dwd0ff3a12/images/dark-blue-caret-left.svg) Swipe
 
-[![](https://www.1800petmeds.com/on/demandware.static/-/Sites/default/dw094a5cb7/images/banner-flea40-promo-search.jpg)](https://www.1800petmeds.com/save-on-flea-tick-heartworm-promo240503.html?campaign=flea40_promo "Save up to 40% OFF on Flea, Tick and Heartworm Products")
+[![](https://www.1800petmeds.com/on/demandware.static/-/Sites/default/dwe78e4c53/images/banner-shield50-protect30-promo-search.jpg)](https://www.1800petmeds.com/save-on-flea-tick-heartworm-promo240402.html?campaign=shield50_protect30_promo "Save up to 50% OFF on Flea, Tick and Heartworm Products")
 
 Applied
 
@@ -114,13 +116,13 @@ Applied
             
         * [Food](https://www.1800petmeds.com/food-cat78.html?prefn1=species&prefv1=Dog)
             
-            [Adult Food](https://www.1800petmeds.com/adult+food-cat250010.html?prefn1=species&prefv1=Dog) [View All](https://www.1800petmeds.com/food-cat78.html?prefn1=species&prefv1=Dog)
+            [Adult Pet Food](https://www.1800petmeds.com/adult+pet+food-cat250010.html?prefn1=species&prefv1=Dog) [View All](https://www.1800petmeds.com/food-cat78.html?prefn1=species&prefv1=Dog)
             
         * [Allergy Relief](https://www.1800petmeds.com/allergy+relief-cat71.html?prefn1=species&prefv1=Dog)
         * [Dog](https://www.1800petmeds.com/dog-cat5060012.html?prefn1=species&prefv1=Dog)
         * [Cat](https://www.1800petmeds.com/cat-cat5060011.html?prefn1=species&prefv1=Dog)
         
-        [![Save up to 40% OFF Flea, Tick and Heartworm Products](https://www.1800petmeds.com/on/demandware.static/-/Sites/default/dw2b983dc7/images/nav-submenu-flea40-promo.jpg "Save up to 40% OFF Flea, Tick and Heartworm Products")](https://www.1800petmeds.com/save-on-flea-tick-heartworm-promo240503.html?prefn1=species&prefv1=Dog&campaign=flea40_promo)
+        [![Save up to 50% OFF Flea, Tick and Heartworm Products](https://www.1800petmeds.com/on/demandware.static/-/Sites/default/dw19a9404a/images/nav-submenu-shield50-protect30-promo.jpg "Save up to 50% OFF Flea, Tick and Heartworm Products")](https://www.1800petmeds.com/save-on-flea-tick-heartworm-promo240402.html?prefn1=species&prefv1=Dog&campaign=shield50_protect30_promo)
         
     * [Cat](#)
         
@@ -170,13 +172,13 @@ Applied
             
         * [Food](https://www.1800petmeds.com/food-cat78.html?prefn1=species&prefv1=Cat)
             
-            [Adult Food](https://www.1800petmeds.com/adult+food-cat250010.html?prefn1=species&prefv1=Cat) [View All](https://www.1800petmeds.com/food-cat78.html?prefn1=species&prefv1=Cat)
+            [Adult Pet Food](https://www.1800petmeds.com/adult+pet+food-cat250010.html?prefn1=species&prefv1=Cat) [View All](https://www.1800petmeds.com/food-cat78.html?prefn1=species&prefv1=Cat)
             
         * [Allergy Relief](https://www.1800petmeds.com/allergy+relief-cat71.html?prefn1=species&prefv1=Cat)
         * [Dog](https://www.1800petmeds.com/dog-cat5060012.html?prefn1=species&prefv1=Cat)
         * [Cat](https://www.1800petmeds.com/cat-cat5060011.html?prefn1=species&prefv1=Cat)
         
-        [![Save up to 40% OFF Flea, Tick and Heartworm Products](https://www.1800petmeds.com/on/demandware.static/-/Sites/default/dw2b983dc7/images/nav-submenu-flea40-promo.jpg "Save up to 40% OFF Flea, Tick and Heartworm Products")](https://www.1800petmeds.com/save-on-flea-tick-heartworm-promo240503.html?prefn1=species&prefv1=Cat&campaign=flea40_promo)
+        [![Save up to 50% OFF Flea, Tick and Heartworm Products](https://www.1800petmeds.com/on/demandware.static/-/Sites/default/dw19a9404a/images/nav-submenu-shield50-protect30-promo.jpg "Save up to 50% OFF Flea, Tick and Heartworm Products")](https://www.1800petmeds.com/save-on-flea-tick-heartworm-promo240402.html?prefn1=species&prefv1=Cat&campaign=shield50_protect30_promo)
         
     * [Horse](#)
         
@@ -221,15 +223,15 @@ Applied
     
     [See All Brands](https://www.1800petmeds.com/food-cat78.html?prefn1=species)
     
-    [![Hill's](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dw2043b4ef/images/popularbrands/brand-hills-science-diet.png)](https://www.1800petmeds.com/hills.html) [![Royal Canin](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dwca665f24/images/popularbrands/brand-royal-canin.png)](https://www.1800petmeds.com/royal-canin.html) [![Blue Buffalo](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dw75d60799/images/popularbrands/brand-blue-buffalo.png)](https://www.1800petmeds.com/search?searchType=product&q=blue%20buffalo) [![Purina Pro Plan](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dwe8f62f36/images/popularbrands/brand-purina.png)](https://www.1800petmeds.com/purina.html) [![Diamond Naturals](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dw9ac7fda0/images/popularbrands/brand-diamond-naturals.png)](https://www.1800petmeds.com/diamond-pet-food.html) [![Wellness](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dw5459337c/images/popularbrands/brand-dr-marty.png)](https://www.1800petmeds.com/food-cat78.html?prefn1=brand&prefv1=Dr.%20Marty) [![Forza10](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dwdd68b4bb/images/popularbrands/brand-forza10.png)](https://www.1800petmeds.com/food-cat78.html?prefn1=brand&prefv1=Forza10)
+    [![brand-Wysong](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dwca665f24/images/popularbrands/brand-royal-canin.png)](https://www.1800petmeds.com/royal-canin.html) [![brand-blue](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dwbdf012af/images/popularbrands/brand-canine-caviar.png)](https://www.1800petmeds.com/food-cat78.html?prefn1=brand&prefv1=Canine%20Caviar) [![brand-diamond](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dw9ac7fda0/images/popularbrands/brand-diamond-naturals.png)](https://www.1800petmeds.com/diamond-pet-food.html) [![brand-forza](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dwdd68b4bb/images/popularbrands/brand-forza10.png)](https://www.1800petmeds.com/food-cat78.html?prefn1=brand&prefv1=Forza10) [![brand-purina-pro-plan](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dw6e48e26a/images/popularbrands/brand-purina-pro-plan.png)](https://www.1800petmeds.com/purina-pro-plan.html) [![brand-taste-of-the-wild](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dw09157330/images/popularbrands/brand-natural-balance.png)](https://www.1800petmeds.com/food-cat78.html?prefn1=brand&prefv1=Natural%20Balance) [![brand-Wellness](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dw5459337c/images/popularbrands/brand-dr-marty.png)](https://www.1800petmeds.com/food-cat78.html?prefn1=brand&prefv1=Dr.%20Marty)
     
-    [![Save 35% on Pet Food with AutoShip](https://www.1800petmeds.com/on/demandware.static/-/Sites/default/dw93d176e5/images/banner-shop-pet-food35.jpg "Save 35% on Pet Food with AutoShip")](https://www.1800petmeds.com/get-35-off-food-with-autoship.html?campaign=food35_promo)
+    [![Save 35% on Hill's Science Diet with AutoShip](https://www.1800petmeds.com/on/demandware.static/-/Sites/default/dwe39bfb0b/images/banner-shop-pet-food-food35-hills.jpg "Save 35% on Hill's Science Diet with AutoShip")](https://www.1800petmeds.com/hills.html?campaign=food35_hills_promo)
     
 * [Shop By Brand](#)
     
     * [View All Brands](https://www.1800petmeds.com/all-brands?cgid=root)
     
-    [![Save 35% on Pet Food with AutoShip](https://www.1800petmeds.com/on/demandware.static/-/Sites/default/dwd97a5b85/images/banner-shop-by-brand-food35-promo.jpg "Save 35% on Pet Food with AutoShip")](https://www.1800petmeds.com/get-35-off-food-with-autoship.html?campaign=food35_promo)
+    [![Save 50% on Flea & Tick and Heartworm](https://www.1800petmeds.com/on/demandware.static/-/Sites/default/dwdf18c824/images/banner-shop-by-brand-shield50-protect30-promo.jpg "Save 50% on Flea & Tick and Heartworm")](https://www.1800petmeds.com/save-on-flea-tick-heartworm-promo240402.html?campaign=shield50_protect30_promo)
     
 * [Shop By Condition](#)
     * [Allergy Relief](https://www.1800petmeds.com/allergy+relief-cat71.html)
@@ -254,10 +256,9 @@ Applied
     * [Weight Loss & Management](https://www.1800petmeds.com/weight+loss+++management-cat240009.html)
     * [View Conditions A-Z](https://www.1800petmeds.com/all-conditions)
 * [Today's Deals](#)
-    * [40% OFF Flea, Tick & Heartworm](https://www.1800petmeds.com/save-on-flea-tick-heartworm-promo240503.html)
-    * [Save 35% on Food with AutoShip](https://www.1800petmeds.com/get-35-off-food-with-autoship.html)
-    * [35% OFF Badlands Ranch Food](https://www.1800petmeds.com/badlands-ranch-promo240506.html)
-    * [Save $25 OFF on orders $80+](https://www.1800petmeds.com/pet-appreciation-week-promo240701.html)
+    * [50% OFF Flea, Tick & Heartworm](https://www.1800petmeds.com/save-on-flea-tick-heartworm-promo240402.html)
+    * [Save 50% on Digestive Support](https://www.1800petmeds.com/digestive-support-enzymes-nausea-motion-sickness-promo240405.html)
+    * [Save 35% on Hill's Science Diet](https://www.1800petmeds.com/hills.html)
     
 * [Pet Health Resources](#)
     * [Pet Health Advice](https://www.1800petmeds.com/education)
@@ -480,7 +481,7 @@ Close ×
 
 Navigation [×](javascript:void(0))
 
-* ![](/on/demandware.static/Sites-1800petmeds-Site/-/default/dwbfc308a8/images/dog.svg)[Dog](#)
+* ![](/on/demandware.static/Sites-1800petmeds-Site/-/default/dw2a90f0e9/images/dog.svg)[Dog](#)
     * [BackDog](#)
     * [All Dog Products](https://www.1800petmeds.com/search?prefn1=species&prefv1=Dog)
     * [Flea & Tick](#)
@@ -611,28 +612,31 @@ Navigation [×](javascript:void(0))
         * [Organic & Natural Treats](https://www.1800petmeds.com/organic+%26+natural+treats-855.html?prefn1=species&prefv1=Dog)
     * [Food](#)
         * [BackFood](#)
-        * [Adult Food](https://www.1800petmeds.com/adult+food-cat250010.html?prefn1=species&prefv1=Dog)
+        * [Adult Pet Food](https://www.1800petmeds.com/adult+pet+food-cat250010.html?prefn1=species&prefv1=Dog)
         * [Wet Food](https://www.1800petmeds.com/canned+pet+food-cat230001.html?prefn1=species&prefv1=Dog)
         * [Freeze Dried Food](https://www.1800petmeds.com/freeze+dried+food-cat5070012.html?prefn1=species&prefv1=Dog)
-        * [Diabetic Food](https://www.1800petmeds.com/diabetic+food-cat250003.html?prefn1=species&prefv1=Dog)
+        * [Diabetic Pet Food](https://www.1800petmeds.com/diabetic+pet+food-cat250003.html?prefn1=species&prefv1=Dog)
         * [Dry Food](https://www.1800petmeds.com/dry+food-cat230002.html?prefn1=species&prefv1=Dog)
-        * [Grain Free Food](https://www.1800petmeds.com/grain+free+food-cat250001.html?prefn1=species&prefv1=Dog)
+        * [Food Additives](https://www.1800petmeds.com/food+additives-cat60020.html?prefn1=species&prefv1=Dog)
+        * [Grain Free](https://www.1800petmeds.com/grain+free-cat250001.html?prefn1=species&prefv1=Dog)
         * [Health Specific Diets](https://www.1800petmeds.com/health+specific+diets-cat604.html?prefn1=species&prefv1=Dog)
-        * [Skin & Coat Food](https://www.1800petmeds.com/hypoallergenic+++sensitive+skin+-cat250002.html?prefn1=species&prefv1=Dog)
-        * [Joint Food](https://www.1800petmeds.com/joint+food-cat250006.html?prefn1=species&prefv1=Dog)
+        * [Hypoallergenic & Sensitive Skin](https://www.1800petmeds.com/hypoallergenic+++sensitive+skin+-cat250002.html?prefn1=species&prefv1=Dog)
+        * [Joint Health](https://www.1800petmeds.com/joint+health-cat250006.html?prefn1=species&prefv1=Dog)
         * [Kitten Food](https://www.1800petmeds.com/kitten+food-cat240007.html?prefn1=species&prefv1=Dog)
-        * [Large Dog Food](https://www.1800petmeds.com/large+dog+food-cat5070007.html?prefn1=species&prefv1=Dog)
+        * [Large Breed Dog Food](https://www.1800petmeds.com/large+breed+dog+food-cat5070007.html?prefn1=species&prefv1=Dog)
         * [Natural Food](https://www.1800petmeds.com/natural+food-cat5120012.html?prefn1=species&prefv1=Dog)
+        * [Pet Food Storage](https://www.1800petmeds.com/pet+food+storage-cat4950010a.html?prefn1=species&prefv1=Dog)
         * [Puppy Food](https://www.1800petmeds.com/puppy+food-cat240006.html?prefn1=species&prefv1=Dog)
-        * [Raw Food](https://www.1800petmeds.com/raw+food-cat230003.html?prefn1=species&prefv1=Dog)
-        * [Senior Food](https://www.1800petmeds.com/senior+food-cat240008.html?prefn1=species&prefv1=Dog)
-        * [Sensitive Stomach Food](https://www.1800petmeds.com/sensitive+stomach+food-cat250005.html?prefn1=species&prefv1=Dog)
-        * [Small Dog Food](https://www.1800petmeds.com/small+dog+food-cat240005.html?prefn1=species&prefv1=Dog)
+        * [Raw Pet Food](https://www.1800petmeds.com/raw+pet+food-cat230003.html?prefn1=species&prefv1=Dog)
+        * [Senior Pet Food](https://www.1800petmeds.com/senior+pet+food-cat240008.html?prefn1=species&prefv1=Dog)
+        * [Sensitive Stomachs](https://www.1800petmeds.com/sensitive+stomachs-cat250005.html?prefn1=species&prefv1=Dog)
+        * [Skin Support](https://www.1800petmeds.com/skin+support-cat250007.html?prefn1=species&prefv1=Dog)
+        * [Small Breed Dog Food](https://www.1800petmeds.com/small+breed+dog+food-cat240005.html?prefn1=species&prefv1=Dog)
         * [Weight Loss & Management](https://www.1800petmeds.com/weight+loss+++management-cat240009.html?prefn1=species&prefv1=Dog)
     * [Allergy Relief](https://www.1800petmeds.com/allergy+relief-cat71.html?prefn1=species&prefv1=Dog)
     * [Dog](https://www.1800petmeds.com/dog-cat5060012.html?prefn1=species&prefv1=Dog)
     * [Cat](https://www.1800petmeds.com/cat-cat5060011.html?prefn1=species&prefv1=Dog)
-* ![](/on/demandware.static/Sites-1800petmeds-Site/-/default/dwf17f40c8/images/cat.svg)[Cat](#)
+* ![](/on/demandware.static/Sites-1800petmeds-Site/-/default/dwa1e819b5/images/cat.svg)[Cat](#)
     * [BackCat](#)
     * [All Cat Products](https://www.1800petmeds.com/search?prefn1=species&prefv1=Cat)
     * [Flea & Tick](#)
@@ -763,28 +767,31 @@ Navigation [×](javascript:void(0))
         * [Organic & Natural Treats](https://www.1800petmeds.com/organic+%26+natural+treats-855.html?prefn1=species&prefv1=Cat)
     * [Food](#)
         * [BackFood](#)
-        * [Adult Food](https://www.1800petmeds.com/adult+food-cat250010.html?prefn1=species&prefv1=Cat)
+        * [Adult Pet Food](https://www.1800petmeds.com/adult+pet+food-cat250010.html?prefn1=species&prefv1=Cat)
         * [Wet Food](https://www.1800petmeds.com/canned+pet+food-cat230001.html?prefn1=species&prefv1=Cat)
         * [Freeze Dried Food](https://www.1800petmeds.com/freeze+dried+food-cat5070012.html?prefn1=species&prefv1=Cat)
-        * [Diabetic Food](https://www.1800petmeds.com/diabetic+food-cat250003.html?prefn1=species&prefv1=Cat)
+        * [Diabetic Pet Food](https://www.1800petmeds.com/diabetic+pet+food-cat250003.html?prefn1=species&prefv1=Cat)
         * [Dry Food](https://www.1800petmeds.com/dry+food-cat230002.html?prefn1=species&prefv1=Cat)
-        * [Grain Free Food](https://www.1800petmeds.com/grain+free+food-cat250001.html?prefn1=species&prefv1=Cat)
+        * [Food Additives](https://www.1800petmeds.com/food+additives-cat60020.html?prefn1=species&prefv1=Cat)
+        * [Grain Free](https://www.1800petmeds.com/grain+free-cat250001.html?prefn1=species&prefv1=Cat)
         * [Health Specific Diets](https://www.1800petmeds.com/health+specific+diets-cat604.html?prefn1=species&prefv1=Cat)
-        * [Skin & Coat Food](https://www.1800petmeds.com/hypoallergenic+++sensitive+skin+-cat250002.html?prefn1=species&prefv1=Cat)
-        * [Joint Food](https://www.1800petmeds.com/joint+food-cat250006.html?prefn1=species&prefv1=Cat)
+        * [Hypoallergenic & Sensitive Skin](https://www.1800petmeds.com/hypoallergenic+++sensitive+skin+-cat250002.html?prefn1=species&prefv1=Cat)
+        * [Joint Health](https://www.1800petmeds.com/joint+health-cat250006.html?prefn1=species&prefv1=Cat)
         * [Kitten Food](https://www.1800petmeds.com/kitten+food-cat240007.html?prefn1=species&prefv1=Cat)
-        * [Large Dog Food](https://www.1800petmeds.com/large+dog+food-cat5070007.html?prefn1=species&prefv1=Cat)
+        * [Large Breed Dog Food](https://www.1800petmeds.com/large+breed+dog+food-cat5070007.html?prefn1=species&prefv1=Cat)
         * [Natural Food](https://www.1800petmeds.com/natural+food-cat5120012.html?prefn1=species&prefv1=Cat)
+        * [Pet Food Storage](https://www.1800petmeds.com/pet+food+storage-cat4950010a.html?prefn1=species&prefv1=Cat)
         * [Puppy Food](https://www.1800petmeds.com/puppy+food-cat240006.html?prefn1=species&prefv1=Cat)
-        * [Raw Food](https://www.1800petmeds.com/raw+food-cat230003.html?prefn1=species&prefv1=Cat)
-        * [Senior Food](https://www.1800petmeds.com/senior+food-cat240008.html?prefn1=species&prefv1=Cat)
-        * [Sensitive Stomach Food](https://www.1800petmeds.com/sensitive+stomach+food-cat250005.html?prefn1=species&prefv1=Cat)
-        * [Small Dog Food](https://www.1800petmeds.com/small+dog+food-cat240005.html?prefn1=species&prefv1=Cat)
+        * [Raw Pet Food](https://www.1800petmeds.com/raw+pet+food-cat230003.html?prefn1=species&prefv1=Cat)
+        * [Senior Pet Food](https://www.1800petmeds.com/senior+pet+food-cat240008.html?prefn1=species&prefv1=Cat)
+        * [Sensitive Stomachs](https://www.1800petmeds.com/sensitive+stomachs-cat250005.html?prefn1=species&prefv1=Cat)
+        * [Skin Support](https://www.1800petmeds.com/skin+support-cat250007.html?prefn1=species&prefv1=Cat)
+        * [Small Breed Dog Food](https://www.1800petmeds.com/small+breed+dog+food-cat240005.html?prefn1=species&prefv1=Cat)
         * [Weight Loss & Management](https://www.1800petmeds.com/weight+loss+++management-cat240009.html?prefn1=species&prefv1=Cat)
     * [Allergy Relief](https://www.1800petmeds.com/allergy+relief-cat71.html?prefn1=species&prefv1=Cat)
     * [Dog](https://www.1800petmeds.com/dog-cat5060012.html?prefn1=species&prefv1=Cat)
     * [Cat](https://www.1800petmeds.com/cat-cat5060011.html?prefn1=species&prefv1=Cat)
-* ![](/on/demandware.static/Sites-1800petmeds-Site/-/default/dwd1d858fb/images/horse.svg)[Horse](https://www.1800petmeds.com/horse-cat5160032.html)
+* ![](/on/demandware.static/Sites-1800petmeds-Site/-/default/dwf6412dcc/images/horse.svg)[Horse](https://www.1800petmeds.com/horse-cat5160032.html)
     * [BackHorse](#)
     * [All Horse Products](https://www.1800petmeds.com/horse-cat5160032.html)
     * [Anxiety](https://www.1800petmeds.com/horse+anxiety-cat5160028.html)
@@ -798,7 +805,7 @@ Navigation [×](javascript:void(0))
     * [Training Aids](https://www.1800petmeds.com/horse+training+aids-cat5160027.html)
     * [Vitamins & Supplements](https://www.1800petmeds.com/horse+vitamins+++supplements-cat5160035.html)
     * [Dewormers](https://www.1800petmeds.com/horse+wormers-cat5160022.html)
-* ![food-icon](/on/demandware.static/Sites-1800petmeds-Site/-/default/dwb3a9c741/images/food-icon.svg) [Shop Food](#)
+* ![food-icon](/on/demandware.static/Sites-1800petmeds-Site/-/default/dw2bfe8c04/images/food-icon.svg) [Shop Food](#)
     * [BackShop Food](#)
     * [Dog Food](https://www.1800petmeds.com/food-cat78.html?prefn1=species&prefv1=Dog)
         * [BackDog Food](#)
@@ -830,19 +837,19 @@ Navigation [×](javascript:void(0))
         
         * [BackPopular Brands](https://www.1800petmeds.com/food-cat78.html?prefn1=species)
         * [All Brands](https://www.1800petmeds.com/food-cat78.html?prefn1=species)
-        * [Hill's](https://www.1800petmeds.com/hills.html)
         * [Royal Canin](https://www.1800petmeds.com/royal-canin.html)
-        * [Blue Buffalo](https://www.1800petmeds.com/search?searchType=product&q=blue%20buffalo)
-        * [Purina](https://www.1800petmeds.com/purina.html)
+        * [Canine Caviar](https://www.1800petmeds.com/food-cat78.html?prefn1=brand&prefv1=Canine%20Caviar)
         * [Diamond](https://www.1800petmeds.com/diamond-pet-food.html)
-        * [Dr. Marty](https://www.1800petmeds.com/food-cat78.html?prefn1=brand&prefv1=Dr.%20Marty)
         * [Forza10](https://www.1800petmeds.com/food-cat78.html?prefn1=brand&prefv1=Forza10)
+        * [Purina Pro Plan](https://www.1800petmeds.com/purina-pro-plan.html)
+        * [Natural Balance](https://www.1800petmeds.com/food-cat78.html?prefn1=brand&prefv1=Natural%20Balance)
+        * [Dr. Marty](https://www.1800petmeds.com/food-cat78.html?prefn1=brand&prefv1=Dr.%20Marty)
         
-* ![](/on/demandware.static/Sites-1800petmeds-Site/-/default/dw6f9bc19f/images/brands.svg) [Shop By Brand](#)
+* ![](/on/demandware.static/Sites-1800petmeds-Site/-/default/dw93722414/images/brands.svg) [Shop By Brand](#)
     * [BackShop By Brand](#)
     
     * [View All Brands](https://www.1800petmeds.com/all-brands?cgid=root)
-* ![](/on/demandware.static/Sites-1800petmeds-Site/-/default/dw85665df9/images/conditions.svg) [Shop By Condition](#)
+* ![](/on/demandware.static/Sites-1800petmeds-Site/-/default/dw651cb009/images/conditions.svg) [Shop By Condition](#)
     * [BackShop By Condition](#)
     * [Allergy Relief](https://www.1800petmeds.com/allergy+relief-cat71.html)
     * [Anxiety](https://www.1800petmeds.com/anxiety-cat75.html)
@@ -865,26 +872,25 @@ Navigation [×](javascript:void(0))
     * [Urinary Tract & Kidneys](https://www.1800petmeds.com/urinary+tract+++kidneys-cat94.html)
     * [Weight Loss & Management](https://www.1800petmeds.com/weight+loss+++management-cat240009.html)
     * [View Conditions A-Z](https://www.1800petmeds.com/all-conditions)
-* ![](/on/demandware.static/Sites-1800petmeds-Site/-/default/dw05269e3d/images/shoppingtag.svg) [Today's Deals](#)
+* ![](/on/demandware.static/Sites-1800petmeds-Site/-/default/dw2a9494f0/images/shoppingtag.svg) [Today's Deals](#)
     * [BackToday's Deals](#)
-    * [40% OFF Flea, Tick & Heartworm](https://www.1800petmeds.com/save-on-flea-tick-heartworm-promo240503.html)
-    * [Save 35% on Food with AutoShip](https://www.1800petmeds.com/get-35-off-food-with-autoship.html)
-    * [35% OFF Badlands Ranch Food](https://www.1800petmeds.com/badlands-ranch-promo240506.html)
-    * [Save $25 OFF on orders $80+](https://www.1800petmeds.com/pet-appreciation-week-promo240701.html)
+    * [50% OFF Flea, Tick & Heartworm](https://www.1800petmeds.com/save-on-flea-tick-heartworm-promo240402.html)
+    * [Save 50% on Digestive Support](https://www.1800petmeds.com/digestive-support-enzymes-nausea-motion-sickness-promo240405.html)
+    * [Save 35% on Hill's Science Diet](https://www.1800petmeds.com/hills.html)
     
-* ![](/on/demandware.static/Sites-1800petmeds-Site/-/default/dwa6f165ca/images/book.svg) [Pet Health Advice](https://www.1800petmeds.com/education)
-* ![](/on/demandware.static/Sites-1800petmeds-Site/-/default/dwa0434ae0/images/livestream.svg) [Talk to a vet](https://www.petmeds.com/vetlive)
-* ![](/on/demandware.static/Sites-1800petmeds-Site/-/default/dw7ce25861/images/pumpkin/pet-insurance.svg) [Learn About Pet Insurance](https://www.1800petmeds.com/petmeds-insurance-services)
+* ![](/on/demandware.static/Sites-1800petmeds-Site/-/default/dwe66de8e6/images/book.svg) [Pet Health Advice](https://www.1800petmeds.com/education)
+* ![](/on/demandware.static/Sites-1800petmeds-Site/-/default/dw03aa2532/images/livestream.svg) [Talk to a vet](https://www.petmeds.com/vetlive)
+* ![](/on/demandware.static/Sites-1800petmeds-Site/-/default/dw26aab7fb/images/pumpkin/pet-insurance.svg) [Learn About Pet Insurance](https://www.1800petmeds.com/petmeds-insurance-services)
 
 [Contact Us](https://www.1800petmeds.com/help.html) [My Account](https://www.1800petmeds.com/mypetmed) [My Appointments](https://www.1800petmeds.com/appointments) [Quick Reorder](https://www.1800petmeds.com/home) [Cart](https://www.1800petmeds.com/cart) [Already a customer? Sign In](https://www.1800petmeds.com/login)
 
 ![](https://www.1800petmeds.com/on/demandware.static/-/Sites/default/dwc803a8bf/images/headershoppingtag.svg)
 
-Save 35% with AutoShipUse code SAVE35 (Up to $20 max. [Exclusions apply](https://www.1800petmeds.com/tc.html))
+SAVE AN EXTRA $5 - $20 OFFUse code PETS in cart ([Exclusions apply](https://www.1800petmeds.com/tc.html))
 
 ![](https://www.1800petmeds.com/on/demandware.static/-/Sites/default/dwc803a8bf/images/headershoppingtag.svg)
 
-SAVE AN EXTRA $5 - $20 OFFUse code PETS in cart ([Exclusions apply](https://www.1800petmeds.com/tc.html))
+Save 40% with first AutoShipUse code NEW40 (Up to $40 max. [Exclusions apply](https://www.1800petmeds.com/tc.html))
 
 [![](https://www.1800petmeds.com/on/demandware.static/-/Sites/default/dw7e2eef5d/images/rewards.svg)
 
@@ -1062,7 +1068,7 @@ Prior to honoring your request, the Company will make a reasonable attempt to ve
 
 Last updated February 13, 2024
 
- [![](/on/demandware.static/Sites-1800petmeds-Site/-/default/dwb180b01e/images/white-caret-up.svg) TOP](#top-of-page)
+ [![](/on/demandware.static/Sites-1800petmeds-Site/-/default/dw73bae96a/images/white-caret-up.svg) TOP](#top-of-page)
 
 Contact Us
 ----------
@@ -1098,7 +1104,7 @@ Delray Beach, FL 33445
 
 ### Customer Service
 
-[Contact Us](https://www.1800petmeds.com/help.html) [My Account](https://www.1800petmeds.com/mypetmed) [FAQ](https://www.1800petmeds.com/newcustomer.html) [Shipping Rates & Policies](https://www.1800petmeds.com/shiprate.html) [Returns & Refunds](https://www.1800petmeds.com/return-policy.html) [Find A Vet](https://www.1800petmeds.com/vetdirectory?horizontalView=true)
+[Contact Us](https://www.1800petmeds.com/help.html) [My Account](https://www.1800petmeds.com/login) [FAQ](https://www.1800petmeds.com/newcustomer.html) [Shipping Rates & Policies](https://www.1800petmeds.com/shiprate.html) [Returns & Refunds](https://www.1800petmeds.com/return-policy.html) [Find A Vet](https://www.1800petmeds.com/vetdirectory?horizontalView=true)
 
 #### [Customer Service](#collapse2)
 
