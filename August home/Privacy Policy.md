@@ -4,11 +4,7 @@
 
  [![Yale](https://cdn.shopify.com/s/files/1/1354/7835/files/Secondary_Gray_-_2020_-_RGB_2x_79e15df4-8d99-4352-bdda-652bfcb57cf0.png?v=1615919455)](https://shopyalehome.com/?utm_source=august.com&utm_medium=referral&utm_campaign=cobrand_toggle)![August](https://cdn.shopify.com/s/files/1/1354/7835/files/August-Logo-white-110x36.png?v=1617137811)
 
-Father's Day Sale | Save 30% on featured best-sellers
-
-[Shop Sale](https://august.com/pages/sale)
-
-Shop new **Yale Approach™ Lock with Wi-Fi + Keypad Touch**
+Shop our new **Yale Approach™ Lock with Wi-Fi**
 
 [Learn More](https://august.com/products/yale-approach-lock-with-wi-fi)
 
@@ -24,19 +20,17 @@ Smart Locks
 
 Wi-Fi Smart Lock
 
-$199.99](https://august.com/products/august-wifi-smart-lock)[![Yale Approach™ Lock with Wi-Fi](//august.com/cdn/shop/files/IO-Silver_Yale-Keypad-Bio-Frt_2x_b65be57c-402a-41c7-b8c3-687a6c2c96dc_400x.png?v=1715294755)
+$199.99](https://august.com/products/august-wifi-smart-lock)[![Yale Approach™ Lock with Wi-Fi](//august.com/cdn/shop/files/Yale-Approach-with-Keypad-thumb-140x140_400x.png?v=1712024412)
 
 Yale Approach™ Lock with Wi-Fi
 
-Starting at $129.99
+$179.99
 
 ##### NEW](https://august.com/products/yale-approach-lock-with-wi-fi)[![August Smart Lock + Connect](//august.com/cdn/shop/files/callisto-silver-frt-140x140_400x.png?v=1712024423)
 
 Smart Lock
 
-$199.99
-
-##### SALE](https://august.com/products/august-smart-lock-connect)
+$199.99](https://august.com/products/august-smart-lock-connect)
 
 Bundles
 
@@ -54,11 +48,11 @@ Accessories
 
 Connect Wi-Fi Bridge
 
-$79.99](https://august.com/products/august-connect)[![Yale Keypad](//august.com/cdn/shop/files/YRK110-F-BLK-FRT_2x_4b36cb05-c8b3-4b06-9307-a8225e38addb_400x.png?v=1715294353)
+$79.99](https://august.com/products/august-connect)[![Yale Keypad](//august.com/cdn/shop/files/Yale_Keypad-thumb-140x140_400x.png?v=1712024437)
 
 Yale Keypad
 
-Starting at $69.99
+$69.99
 
 ##### NEW](https://august.com/products/yale-keypad)[![Matching Hardware](//august.com/cdn/shop/files/Matching_Door_Lock_Hardware_b9720158-1e2c-4056-b0bf-aff5fa5e4a5f_400x.png?v=1613612850)
 
@@ -90,17 +84,15 @@ Wi-Fi Smart Lock
 
 $199.99
 
-\>](https://august.com/products/august-wifi-smart-lock)[![Yale Approach™ Lock with Wi-Fi](//august.com/cdn/shop/files/IO-Silver_Yale-Keypad-Bio-Frt_2x_b65be57c-402a-41c7-b8c3-687a6c2c96dc_400x.png?v=1715294755)
+\>](https://august.com/products/august-wifi-smart-lock)[![Yale Approach™ Lock with Wi-Fi](//august.com/cdn/shop/files/Yale-Approach-with-Keypad-thumb-140x140_400x.png?v=1712024412)
 
 ##### NEW
 
 Yale Approach™ Lock with Wi-Fi
 
-Starting at $129.99
+$179.99
 
 \>](https://august.com/products/yale-approach-lock-with-wi-fi)[![August Smart Lock + Connect](//august.com/cdn/shop/files/callisto-silver-frt-140x140_400x.png?v=1712024423)
-
-##### SALE
 
 Smart Lock
 
@@ -128,11 +120,11 @@ Connect Wi-Fi Bridge
 
 $79.99
 
-\>](https://august.com/products/august-connect)[![Yale Keypad](//august.com/cdn/shop/files/YRK110-F-BLK-FRT_2x_4b36cb05-c8b3-4b06-9307-a8225e38addb_400x.png?v=1715294353)
+\>](https://august.com/products/august-connect)[![Yale Keypad](//august.com/cdn/shop/files/Yale_Keypad-thumb-140x140_400x.png?v=1712024437)
 
 Yale Keypad
 
-Starting at $69.99
+$69.99
 
 \>](https://august.com/products/yale-keypad)[![Matching Hardware](//august.com/cdn/shop/files/Matching_Door_Lock_Hardware_b9720158-1e2c-4056-b0bf-aff5fa5e4a5f_400x.png?v=1613612850)
 
@@ -146,7 +138,7 @@ Starting at $19.99
 
 Smart Locks
 
- [![Yale Approach™ Lock with Wi-Fi](//august.com/cdn/shop/files/IO-Silver_Yale-Keypad-Bio-Frt_2x_b65be57c-402a-41c7-b8c3-687a6c2c96dc_50x.png?v=1715294755) Yale Approach™ Lock with Wi-Fi](https://august.com/products/yale-approach-lock-with-wi-fi)[![August Smart Lock + Connect](//august.com/cdn/shop/files/callisto-silver-frt-140x140_50x.png?v=1712024423) Smart Lock](https://august.com/products/august-smart-lock-connect)
+ [![Yale Approach™ Lock with Wi-Fi](//august.com/cdn/shop/files/Yale-Approach-with-Keypad-thumb-140x140_50x.png?v=1712024412) Yale Approach™ Lock with Wi-Fi](https://august.com/products/yale-approach-lock-with-wi-fi)[![August Smart Lock + Connect](//august.com/cdn/shop/files/callisto-silver-frt-140x140_50x.png?v=1712024423) Smart Lock](https://august.com/products/august-smart-lock-connect)
 
 Doorbell Camera
 
@@ -154,7 +146,7 @@ Doorbell Camera
 
 Accessories
 
- [![Connect Wi-Fi Bridge](//august.com/cdn/shop/files/Connect_nav_200x200_86debf47-c468-4858-8fe2-1daa816f21a4_50x.png?v=1613539763) Connect Wi-Fi Bridge](https://august.com/products/august-connect)[![Yale Keypad](//august.com/cdn/shop/files/YRK110-F-BLK-FRT_2x_4b36cb05-c8b3-4b06-9307-a8225e38addb_50x.png?v=1715294353) Yale Keypad](https://august.com/products/yale-keypad)[![Matching Hardware](//august.com/cdn/shop/files/Matching_Door_Lock_Hardware_b9720158-1e2c-4056-b0bf-aff5fa5e4a5f_50x.png?v=1613612850) Matching Hardware](https://august.com/pages/front-door-hardware)
+ [![Connect Wi-Fi Bridge](//august.com/cdn/shop/files/Connect_nav_200x200_86debf47-c468-4858-8fe2-1daa816f21a4_50x.png?v=1613539763) Connect Wi-Fi Bridge](https://august.com/products/august-connect)[![Yale Keypad](//august.com/cdn/shop/files/Yale_Keypad-thumb-140x140_50x.png?v=1712024437) Yale Keypad](https://august.com/products/yale-keypad)[![Matching Hardware](//august.com/cdn/shop/files/Matching_Door_Lock_Hardware_b9720158-1e2c-4056-b0bf-aff5fa5e4a5f_50x.png?v=1613612850) Matching Hardware](https://august.com/pages/front-door-hardware)
 
 Shop now
 
@@ -227,6 +219,18 @@ Excluding tax and shipping
 
 ### Complete your smart home
 
+![August Smart Keypad](//august.com/cdn/shop/products/Unknown-3_400x.jpg?v=1544734321)
+
+August Smart Keypad
+
+ 
+
+Pair an August Smart Keypad with your current August Smart Lock to grant secure, keyless access codes to your guests! Discover a more convenient home with August today.  
+
+$59.99
+
+Add to cart
+
 ![Navis Paddle in Black Suede](//august.com/cdn/shop/products/NV_11_BSP_RT_64258cc6-9459-410c-aec9-fbb8be57e290_400x.jpg?v=1680812607)
 
 Navis Paddle in Black Suede
@@ -244,14 +248,6 @@ Connect Wi-Fi Bridge
 Lock and unlock your August Smart Lock remotely, right from your phone. Instantly let friends, family and home services in, even when you're not at home.  
 
 $79.99
-
-Add to cart
-
-![Yale Smart Cabinet Lock + Connect Wi-Fi Bridge](//august.com/cdn/shop/products/YRCB-490-CB1-WSP_550x825_71a0f0b7-9021-4b91-922b-fcf500828e04_400x.jpg?v=1617125390)
-
-Yale Smart Cabinet Lock + Connect Wi-Fi Bridge
-
-$129.99
 
 Add to cart
 
@@ -650,7 +646,7 @@ pop-up content ends
 
 Email 
 
-Submit ![](//august.com/cdn/shop/t/335/assets/icon-newsletter-submit.svg?v=83048686797684669771717534373) 
+Submit ![](//august.com/cdn/shop/t/331/assets/icon-newsletter-submit.svg?v=83048686797684669771710788973) 
 
 By signing up for the August Home US and Canada email newsletter, you agree with our [terms](https://august.com/pages/terms-of-service).
 
@@ -660,8 +656,8 @@ By signing up for the August Home US and Canada email newsletter, you agree with
 
 * [Shop All Smart Locks & More](https://august.com/pages/shop-all-products)
 * [Wi-Fi Smart Lock](https://august.com/products/august-wifi-smart-lock)
+* [Smart Lock Pro](https://august.com/products/august-smart-lock-pro-connect)
 * [Smart Lock](https://august.com/products/august-smart-lock-connect)
-* [Yale Approach™ Lock with Wi-Fi](https://august.com/products/yale-approach-lock-with-wi-fi)
 * [Bundles](https://august.com/pages/smart-door-bundle)
 * [Accessories](https://august.com/pages/accessories)
 * [Smarter Hosting](https://august.com/products/august-smarter-hosting-bundle)
