@@ -174,10 +174,6 @@ Resources
 Company
 
 * [About](https://bell-sw.com/about/)
-* Contact sales
-* Request support
-* [Report vulnerability](https://bell-sw.com/vulnerability-report/)
-* Contact us
 
 Legal Documents
 
@@ -206,7 +202,7 @@ Subscribe to our newsletter!
 
 First Name \*
 
-Last Name
+Last Name \*
 
 Business e-mail \*
 
@@ -223,50 +219,6 @@ Contact us
 Want to Know More? Contact Us!
 
 ##### Get in touch with our engineers who are always ready to help.
-
-First Name \*
-
-Last Name \*
-
-E-mail \*
-
-Phone
-
-Company Name \*
-
-Tell us more \*
-
-\* This field is required
-
-I agree with [Terms](https://bell-sw.com/terms-of-use/) and [Privacy](https://bell-sw.com/privacy-policy/) \*
-
-Contact us
-
-Contact sales
-
-##### Get in touch with our sales managers to get the best offer on support.
-
-First Name \*
-
-Last Name \*
-
-E-mail \*
-
-Phone
-
-Company Name \*
-
-Tell us more \*
-
-\* This field is required
-
-I agree with [Terms](https://bell-sw.com/terms-of-use/) and [Privacy](https://bell-sw.com/privacy-policy/) \*
-
-Contact us
-
-Get support
-
-##### Get in touch with our support team and ask about our products.
 
 First Name \*
 
