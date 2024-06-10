@@ -1,12 +1,12 @@
-SUMMER SUPER SALE!
+PRE-SUMMER SALE!
 
 10% Off + 10% **Cashback**
 
 on all orders -
 
-Use Code : SUMMER10
+Use Code : PRESMR10
 
-* [![Free Shipping](/images/truck.png)FREE SHIPPING\* | Guaranteed Delivery](https://www.budgetpetcare.com/ship_returns.aspx)
+* [![Free Shipping](https://budgetpetcare.b-cdn.net/images/truck.png)FREE SHIPPING\* | Guaranteed Delivery](https://www.budgetpetcare.com/ship_returns.aspx)
     
     [**Our Delivery Times are Back to Pre-Covid Levels**](https://www.budgetpetcare.com/covid19.aspx)
     
@@ -14,17 +14,17 @@ Use Code : SUMMER10
 
 [1-800-840-2008Mon-Sat 9 AM - 6 PM CST](tel:1-800-840-2008)
 
- [![Icon-Register](/images/icon-d/d-Icon-register.png) Register](https://www.budgetpetcare.com/customer_login.aspx) [![Icon-Login](/images/icon-d/d-Icon-login.png) Login](https://www.budgetpetcare.com/customer_login.aspx)
+ [![Icon-Register](https://budgetpetcare.b-cdn.net/images/icon-d/d-Icon-register.png) Register](https://www.budgetpetcare.com/customer_login.aspx) [![Icon-Login](https://budgetpetcare.b-cdn.net/images/icon-d/d-Icon-login.png) Login](https://www.budgetpetcare.com/customer_login.aspx)
 
- [![BudgetPetCare](/images/logo.png) ![BudgetPetCare](/images/Them-24/St-Patrick/logo.png)](https://www.budgetpetcare.com/ " BudgetPetCare.com")
+ [![BudgetPetCare](https://budgetpetcare.b-cdn.net/images/logo.png) ![BudgetPetCare](/images/Them-24/St-Patrick/logo.png)](https://www.budgetpetcare.com/ " BudgetPetCare.com")
 
- ![Icon-Search](/images/icon-d/icon-serach-white.png)
+ ![Icon-Search](https://budgetpetcare.b-cdn.net/images/icon-d/icon-serach-white.png)
 
- [![Icon-Cart](/images/icon-d/d-Icon-cart.png) 0 Item](https://www.budgetpetcare.com/my_cart.aspx)
+ [![Icon-Cart](https://budgetpetcare.b-cdn.net/images/icon-d/d-Icon-cart.png) 0 Item](https://www.budgetpetcare.com/my_cart.aspx)
 
- [![Icon-heart](/images/icon-d/d-Icon-heart1.png) 116256](https://www.budgetpetcare.com/reviews.aspx)
+ [![Icon-heart](https://budgetpetcare.b-cdn.net/images/icon-d/d-Icon-heart1.png) 116172](https://www.budgetpetcare.com/reviews.aspx)
 
- ![Icon-Search](/images/icon-d/d-Icon-search1.png)
+ ![Icon-Search](https://budgetpetcare.b-cdn.net/images/icon-d/d-Icon-search1.png)
 
   
 
@@ -52,14 +52,11 @@ Use Code : SUMMER10
 * [Horse](https://www.budgetpetcare.com/horse-supplies-104.aspx)
     * [Bots](https://www.budgetpetcare.com/horse-bots-treatment-128.aspx)
     * [Tapewormers](https://www.budgetpetcare.com/horse-tapewormers-treatment-129.aspx)
-    * [Redwormers](https://www.budgetpetcare.com/horse-redwormers-treatment-130.aspx)
     * [Roundwormers](https://www.budgetpetcare.com/horse-roundwormers-treatment-131.aspx)
     * [Skin Care](https://www.budgetpetcare.com/horse-skin-care-treatment-144.aspx)
     * [Joint Care](https://www.budgetpetcare.com/horse-joint-care-treatment-167.aspx)
 * [Bird](https://www.budgetpetcare.com/bird-supplies-110.aspx)
     * [Racing Pigeons](https://www.budgetpetcare.com/bird-racing-pigeons-treatment-143.aspx)
-    * [Mite & Lice](https://www.budgetpetcare.com/bird-mite-and-lice-treatment-171.aspx)
-    * [Wormers](https://www.budgetpetcare.com/bird-wormers-treatment-172.aspx)
 * [Homeopathic](https://www.budgetpetcare.com/homeopathic-supplies-102.aspx)
     * [Anxiety](https://www.budgetpetcare.com/homeopathic-anxiety-treatment-116.aspx)
     * [Joint Pain](https://www.budgetpetcare.com/homeopathic-joint-pain-treatment-117.aspx)
@@ -69,14 +66,13 @@ Use Code : SUMMER10
     * [Vitamins & Supplements](https://www.budgetpetcare.com/homeopathic-vitamins-and-supplements-treatment-165.aspx)
     * [Dental](https://www.budgetpetcare.com/homeopathic-dental-treatment-166.aspx)
 * [Supplements](https://www.budgetpetcare.com/supplements-supplies-108.aspx)
-    * [Dietary & Medication](https://www.budgetpetcare.com/supplements-dietary-and-medication-treatment-138.aspx)
     * [Nutrition](https://www.budgetpetcare.com/supplements-nutrition-treatment-136.aspx)
     * [Vitamins & Minerals](https://www.budgetpetcare.com/supplements-vitamins-and-minerals-treatment-137.aspx)
 * [Hygiene](https://www.budgetpetcare.com/hygiene-supplies-109.aspx)
     * [Oral](https://www.budgetpetcare.com/hygiene-oral-treatment-141.aspx)
     * [Aural](https://www.budgetpetcare.com/hygiene-aural-treatment-142.aspx)
 * Special Offer
-    * [**Prevent Fleas & Ticks**](https://www.budgetpetcare.com/seasonal-offers.aspx)
+    * [**Heartworm Awareness Month**](https://www.budgetpetcare.com/seasonal-offers.aspx)
     * [**Latest Offers**](https://www.budgetpetcare.com/sale.aspx)
     * [New Arrivals](https://www.budgetpetcare.com/new-arrivals.aspx)
     * [**Flash Sale**](https://www.budgetpetcare.com/flash-offers.aspx)
@@ -190,7 +186,7 @@ Subscribe for access to our best deals and offers. Get 10% Discount on first Ord
 
  
 
- [![Quick Survey](/images/QuickSurvey-img.png) Take Our Quick Survey Help us serve you better!](https://docs.google.com/forms/d/e/1FAIpQLSeDx2zSWti78LPY77lpYOOvqvevEv7ftf7-1PormE8v7pmtsg/viewform?usp=send_form)
+ [![Quick Survey](https://budgetpetcare.b-cdn.net/images/QuickSurvey-img.png) Take Our Quick Survey Help us serve you better!](https://docs.google.com/forms/d/e/1FAIpQLSeDx2zSWti78LPY77lpYOOvqvevEv7ftf7-1PormE8v7pmtsg/viewform?usp=send_form)
 
   
 
@@ -225,27 +221,27 @@ Subscribe for access to our best deals and offers. Get 10% Discount on first Ord
 * [Nexgard](https://www.budgetpetcare.com/nexgard-for-dogs/dog-flea-and-tick-treatment-318.aspx "Nexgard")
 * [Nexgard Spectra](https://www.budgetpetcare.com/nexgard-spectra-for-dogs/dog-flea-and-tick-treatment-325.aspx "Nexgard Spectra")
 
-![Icon-Phone](/images/icon-d/d-Icon-phone.png) [1-800-840-2008](tel:1-800-840-2008)Mon-Sat 9 AM - 6 PM CST
+![Icon-Phone](https://budgetpetcare.b-cdn.net/images/icon-d/d-Icon-phone.png) [1-800-840-2008](tel:1-800-840-2008)Mon-Sat 9 AM - 6 PM CST
 
-![icon-email](/images/icon-d/d-icon-email.png) [customerservice@BudgetPetCare.com](mailto:customerservice@BudgetPetCare.com)
+![icon-email](https://budgetpetcare.b-cdn.net/images/icon-d/d-icon-email.png) [customerservice@BudgetPetCare.com](mailto:customerservice@BudgetPetCare.com)
 
 * We Accept  :
-* ![Master Card](/images/master-card.png)
-* ![Visa Card](/images/visa-card.png)
+* ![Master Card](https://budgetpetcare.b-cdn.net/images/master-card.png)
+* ![Visa Card](https://budgetpetcare.b-cdn.net/images/visa-card.png)
 
-![AES 256bit Secure Shopping](/images/Secure-Shopping-icon.png) AES-256bit  
+![AES 256bit Secure Shopping](https://budgetpetcare.b-cdn.net/images/Secure-Shopping-icon.png) AES-256bit  
 Secure Shopping
 
-Available On : [![App Store](/images/iPhone-badge.png)](https://itunes.apple.com/us/app/budgetpetcare-com/id1312567356?mt=8)[![Google play](/images/android-badge.png)](https://play.google.com/store/apps/details?id=com.bpc.us&hl=en)
+Available On : [![App Store](https://budgetpetcare.b-cdn.net/images/iPhone-badge.png)](https://itunes.apple.com/us/app/budgetpetcare-com/id1312567356?mt=8)[![Google play](https://budgetpetcare.b-cdn.net/images/android-badge.png)](https://play.google.com/store/apps/details?id=com.bpc.us&hl=en)
 
 Follow Us On :
 
-* [![Facebook](/images/Fb-icon.png)](https://www.facebook.com/Budgetpetcarecom-226026674640926/)
-* [![Pinterest](/images/pint-icon-white2.png)](https://pinterest.com/budgetpetcare/)
-* [![Instagram](/images/insta_ICON1.png)](https://www.instagram.com/budgetpetcare/)
-* [![YouTube](/images/YT-icon1.png)](https://www.youtube.com/@Budget_Pet_Care/)
+* [![Facebook](https://budgetpetcare.b-cdn.net/images/Fb-icon.png)](https://www.facebook.com/Budgetpetcarecom-226026674640926/)
+* [![Pinterest](https://budgetpetcare.b-cdn.net/images/pint-icon-white2.png)](https://pinterest.com/budgetpetcare/)
+* [![Instagram](https://budgetpetcare.b-cdn.net/images/insta_ICON1.png)](https://www.instagram.com/budgetpetcare/)
+* [![YouTube](https://budgetpetcare.b-cdn.net/images/YT-icon1.png)](https://www.youtube.com/@Budget_Pet_Care/)
 
- [![Icon-arrow](/images/icon-d/d-Icon-arrow5.png) Read Our Blogs](https://www.budgetpetcare.com/blog/)
+ [![Icon-arrow](https://budgetpetcare.b-cdn.net/images/icon-d/d-Icon-arrow5.png) Read Our Blogs](https://www.budgetpetcare.com/blog/)
 
 * [About Us](https://www.budgetpetcare.com/aboutus.aspx)
 * [FAQ](https://www.budgetpetcare.com/faq.aspx)
@@ -258,7 +254,7 @@ Follow Us On :
 
 All trademarks and registered trademarks are the property of their respective owners.
 
-![Icon-arrow-top](/images/icon-d/d-Icon-arrow-top.png)
+![Icon-arrow-top](https://budgetpetcare.b-cdn.net/images/icon-d/d-Icon-arrow-top.png)
 
  
 
