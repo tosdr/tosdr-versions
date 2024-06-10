@@ -19,7 +19,7 @@ Menü
 * [Regio](https://www.bild.de/regional/startseite/regional/regio-15799990.bild.html)
 * [Unterhaltung](https://www.bild.de/unterhaltung/startseite/unterhaltung/show-16804710.bild.html)
 * [Sport](https://www.bild.de/sport/startseite/sport/sport-home-15479124.bild.html)
-* [EURO 2024](https://www.bild.de/sport/fussball/europameisterschaft/fussball-em-43703782.bild.html)
+* [Fussball](https://www.bild.de/sport/fussball/fussball/home-15769054.bild.html)
 * [Lifestyle](https://www.bild.de/lifestyle/startseite/lifestyle/lifestyle-15478526.bild.html)
 * [Ratgeber](https://www.bild.de/ratgeber/startseite/ratgeber/home-15478376.bild.html)
 * [Gesundheit](https://www.bild.de/ratgeber/gesundheit/gesundheit/home-15734752.bild.html)
@@ -42,32 +42,22 @@ Menü
 
 * [Berlin](https://www.bild.de/regional/berlin/berlin-regional/home-15823246.bild.html)
 * [Bremen](https://www.bild.de/regional/bremen/bremen-regional/home-16292312.bild.html)
-* [Bremerhaven](https://www.bild.de/regional/bremerhaven/home-vgj2JegftC8nPDIVWrmI)
 * [Chemnitz](https://www.bild.de/regional/chemnitz/chemnitz-regional/home-chemnitz-22539154.bild.html)
-* [Dortmund](https://www.bild.de/regional/dortmund/home-tEfE9FBcspDqbA9qV8Aj)
 * [Dresden](https://www.bild.de/regional/dresden/dresden-regional/home-16327670.bild.html)
 * [Düsseldorf](https://www.bild.de/regional/duesseldorf/duesseldorf-regional/home-16337628.bild.html)
-* [Essen](https://www.bild.de/regional/essen/home-oT8utEZvydYfTwFhRLD3)
 * [Frankfurt](https://www.bild.de/regional/frankfurt/frankfurt-regional/home-16342404.bild.html)
-* [Halle](https://www.bild.de/regional/halle/home-QFfdMl57JCWZY1WqT2hu)
 * [Hamburg](https://www.bild.de/regional/hamburg/hamburg-regional/home-16344102.bild.html)
 * [Hannover](https://www.bild.de/regional/hannover/hannover-regional/home-16344348.bild.html)
-* [Kiel](https://www.bild.de/regional/kiel/home-wBbzo0qvaDw8tcg5Qfr4)
 * [Köln](https://www.bild.de/regional/koeln/koeln-regional/home-16344378.bild.html)
 * [Leipzig](https://www.bild.de/regional/leipzig/leipzig-regional/startseite-16675698.bild.html)
-* [Lübeck](https://www.bild.de/regional/luebeck/home-yzcLW3eEcUyoTAtQNlAK)
-* [Magdeburg](https://www.bild.de/regional/magdeburg/home-2H0BFHdgnJ0Fh9otEPDv)
-* [Mainz](https://www.bild.de/regional/mainz/home-Z1txRuKqY7vBcKdlekHh)
+* [Meck-Pomm](https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern/home-62716054.bild.html)
 * [München](https://www.bild.de/regional/muenchen/muenchen-regional/home-16344438.bild.html)
-* [Nordsee](https://www.bild.de/regional/nordsee/home-otnBBVvz3VWQ7Ce7Z2oc)
 * [Nürnberg](https://www.bild.de/regional/nuernberg/nuernberg-regional/home-51164870.bild.html)
-* [Ostsee](https://www.bild.de/regional/ostsee/home-O1xq8oqQGpREURRHzcKl)
-* [Potsdam](https://www.bild.de/regional/potsdam/home-CIvtf1nPSufBzH0LdS5X)
-* [Rostock](https://www.bild.de/regional/rostock/home-iUxyyKsPlfCRTtIBo8zG)
 * [Ruhrgebiet](https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-regional/home-16344468.bild.html)
-* [Schwerin](https://www.bild.de/regional/schwerin/home-GC92it996TGnsT7PnZif)
+* [Saarland](https://www.bild.de/regional/saarland/saarland/home-35454542.bild.html)
+* [Sachsen-Anhalt](https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt/home-54527072.bild.html)
 * [Stuttgart](https://www.bild.de/regional/stuttgart/stuttgart-regional/home-16344498.bild.html)
-* [Sylt](https://www.bild.de/regional/sylt/home-oW0k4HPjKp0pbPVyUg33)
+* [Thüringen](https://www.bild.de/regional/thueringen/thueringen-regional/home-56970326.bild.html)
 
 * * *
 
@@ -78,7 +68,6 @@ Menü
 * [Streaming & Gaming](https://www.bild.de/digital/internet/twitch/thema-twitch-alle-infos-81174082.bild.html)
 * [Gewinnspiele](https://www.bild.de/bildplus/gewinnspiel/gewinnspiele/gewinnspiele-75208514.bild.html)
 
-* [Fussball](https://www.bild.de/sport/fussball/fussball/home-15769054.bild.html)
 * [Formel 1](https://www.bild.de/sport/motorsport/formel1/home-15769114.bild.html)
 * [Basketball](https://www.bild.de/sport/mehr-sport/basketball/startseite-sport-sport-mix-basketball-26394584.bild.html)
 * [Handball](https://www.bild.de/sport/sportart/handball/handball-alle-infos-76675494.bild.html)
@@ -86,8 +75,20 @@ Menü
 * [Fighting](https://www.bild.de/sport/mehr-sport/boxen/fighting-80399960.bild.html)
 * [Eishockey](https://www.bild.de/sport/mehr-sport/eishockey/home-38195572.bild.html)
 * [Poker](https://www.bild.de/sport/mehr-sport/poker/home-19319976.bild.html)
+* [NFL](https://www.bild.de/sport/american-football/nfl/nfl-und-super-bowl-news-und-videos-49746462.bild.html)
 * [Livesport-Kalender](https://sport.bild.de/)
 * [Sportbild.de](https://sportbild.bild.de/)
+
+* [Bundesliga-Highlights](https://www.bild.de/video/mediathek/1-bundesliga/alle-spielberichte-44719968.bild.html)
+* [Bundesliga](https://www.bild.de/sport/fussball/bundesliga/bundesliga-startseite-52368768.bild.html)
+* [2\. Liga](https://www.bild.de/sport/fussball/2-bundesliga/2-liga-startseite-52368772.bild.html)
+* [3\. Liga](https://www.bild.de/sport/fussball/3-liga/home-15770732.bild.html)
+* [DFB-Pokal](https://www.bild.de/sport/fussball/dfb-pokal/home-dfb-pokal-15770866.bild.html)
+* [Champions League](https://www.bild.de/sport/fussball/champions-league/home-15770784.bild.html)
+* [Europa League](https://www.bild.de/sport/fussball/europa-league/home-15770830.bild.html)
+* [Nationalmannschaft](https://www.bild.de/sport/fussball/nationalmannschaft/home-15770882.bild.html)
+* [Premier League](https://www.bild.de/sport/fussball/premierleague/startseite-62423044.bild.html)
+* [International](https://www.bild.de/sport/fussball/fussball-international/home-15770912.bild.html)
 
 * [Bayern München](https://www.bild.de/sport/fussball/bayern-muenchen/startseite-bayern-muenchen-31074450.bild.html)
 * [Borussia Dortmund](https://www.bild.de/sport/fussball/borussia-dortmund/startseite-bvb-31074434.bild.html)
@@ -139,7 +140,6 @@ Menü
 * [GetYourGuide Gutschein](https://gutscheine.bild.de/gutscheine/getyourguide)
 * [Autodoc Gutschein](https://gutscheine.bild.de/gutscheine/autodoc)
 * [Fressnapf Gutschein](https://gutscheine.bild.de/gutscheine/fressnapf)
-* [Dating & Singlebörsen](https://www.bild.de/dating/)
 
 * [Verbraucherportal](https://www.bild.de/ratgeber/leben-und-wissen-verbraucherportal/leben-und-wissen/das-bild-verbraucherportal-41002524.bild.html)
 * [Mein Geld](https://www.bild.de/geld/mein-geld/mein-geld/mein-geld-46332734.bild.html)
@@ -157,8 +157,6 @@ Menü
 * [BILD Vorsorgegipfel](https://www.bild.de/ratgeber/bild-vorsorgegipfel/gesundheit/deutschland-sorgt-vor-77772934.bild.html)
 * [BILD Herzgipfel](https://www.bild.de/ratgeber/gesundheit/bild-herzgipfel-30ZW52dWRsfwdXQtdMe1)
 
-* [Serviceportal 50Plus](https://www.bild.de/leben-wissen/gesundheit/serviceportal-50Plus-miSYfgKr0Nem9mmOkBTP)
-
 * [Autobild.de](https://www.autobild.de/)
 * [Führerscheintest](https://fahrschule.bild.de/)
 
@@ -174,13 +172,11 @@ Menü
 * [Kreuzworträtsel](https://spiele.bild.de/kreuzwortraetsel/)
 * [Solitär](https://spiele.bild.de/solitaer/)
 
+* [Vergleichsportal](https://www.bild.de/vergleich/)
 * [Deals](https://www.bild.de/deals/)
 * [Gutscheine](https://gutscheine.bild.de/)
-* [Sportwetten](https://sportwetten.bild.de/)
 * [VPN](https://www.bild.de/vpn/)
 * [Kaufberater](https://www.bild.de/kaufberater/)
-* [Singlebörsen](https://www.bild.de/dating/)
-* [Vergleichsportal](https://www.bild.de/vergleich/)
 * [Online Spiele](https://spiele.bild.de/)
 
 * * *
