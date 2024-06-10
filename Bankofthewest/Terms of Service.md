@@ -160,12 +160,12 @@ Personal
         
     * Mortgage Calculators
         
-        * [Fixed Rate Mortgage Payments](https://www.bankofthewest.com/en-us/main/personal/mortgages/fixed-rate-mortgage-calculator/)
-        * [Mortgage Affordability Calculator](https://www.bankofthewest.com/en-us/main/personal/mortgages/affordability-calculator/)
-        * [Adjustable Rate Mortgage Payments](https://www.bankofthewest.com/en-us/main/personal/mortgages/adjustable-rate-mortgage-calculator/)
-        * [Down Payment](https://www.bankofthewest.com/en-us/main/personal/mortgages/down-payment-calculator/)
-        * [Extra Payments](https://www.bankofthewest.com/en-us/main/personal/mortgages/extra-payments-calculator/)
-        * [Rent or Own](https://www.bankofthewest.com/en-us/main/personal/mortgages/rent-vs-own-calculator/)
+        * [Fixed Rate Mortgage Payments](https://calculators.bmo.com/response/bmo/calc/home02)
+        * [My Budget](https://calculators.bmo.com/response/bmo/calc/home17)
+        * [Adjustable Rate Mortgage Payments](https://calculators.bmo.com/response/bmo/calc/home03)
+        * [Down Payment](https://calculators.bmo.com/response/bmo/calc/home07)
+        * [Extra Payments](https://calculators.bmo.com/response/bmo/calc/home16)
+        * [Rent or Own](https://calculators.bmo.com/response/bmo/calc/home10)
         * [All calculators](https://www.bankofthewest.com/en-us/main/personal/mortgages/#calculators-section)
         
     
@@ -361,12 +361,12 @@ US
         * [![](/dist/icons/jumbo-mortgages-house-dollar.svg)Jumbo MortgagesFor big purchases](https://www.bankofthewest.com/en-us/main/personal/mortgages/jumbo-mortgage/#--tabs-1680556754029-)
         * [![](/dist/icons/cross-border-mortgage-program-globe.svg)Cross-Border Mortgage ProgramBuy or refinance your home in the U.S.](https://www.bankofthewest.com/en-us/main/personal/mortgages/cross-border-mortgage/)
     * Mortgage Calculators![](/dist/icons/chevron-right.svg)
-        * [![](/dist/icons/house-percentage-plus.svg)Fixed Rate Mortgage PaymentsCalculate your mortgage payments](https://www.bankofthewest.com/en-us/main/personal/mortgages/fixed-rate-mortgage-calculator/)
-        * [![](/dist/icons/my-budget-calculator.svg)Mortgage Affordability CalculatorCalculate your monthly payments](https://www.bankofthewest.com/en-us/main/personal/mortgages/affordability-calculator/)
-        * [![](/dist/icons/house-speedometer-plus.svg)Adjustable Rate Mortgage PaymentsCalculate your initial payments](https://www.bankofthewest.com/en-us/main/personal/mortgages/adjustable-rate-mortgage-calculator/)
-        * [![](/dist/icons/house-dollar-plus.svg)Down PaymentCalculate your down payment](https://www.bankofthewest.com/en-us/main/personal/mortgages/down-payment-calculator/)
-        * [![](/dist/icons/house-money-bag-plus.svg)Extra PaymentsCalculate your interest savings](https://www.bankofthewest.com/en-us/main/personal/mortgages/extra-payments-calculator/)
-        * [![](/dist/icons/rent-or-own-house.svg)Rent or OwnCalculate which option is better for you](https://www.bankofthewest.com/en-us/main/personal/mortgages/rent-vs-own-calculator/)
+        * [![](/dist/icons/house-percentage-plus.svg)Fixed Rate Mortgage PaymentsCalculate your mortgage payments](https://calculators.bmo.com/response/bmo/calc/home02)
+        * [![](/dist/icons/my-budget-calculator.svg)My BudgetCalculate your monthly payments](https://calculators.bmo.com/response/bmo/calc/home17)
+        * [![](/dist/icons/house-speedometer-plus.svg)Adjustable Rate Mortgage PaymentsCalculate your initial payments](https://calculators.bmo.com/response/bmo/calc/home03)
+        * [![](/dist/icons/house-dollar-plus.svg)Down PaymentCalculate your down payment](https://calculators.bmo.com/response/bmo/calc/home07)
+        * [![](/dist/icons/house-money-bag-plus.svg)Extra PaymentsCalculate your interest savings](https://calculators.bmo.com/response/bmo/calc/home16)
+        * [![](/dist/icons/rent-or-own-house.svg)Rent or OwnCalculate which option is better for you](https://calculators.bmo.com/response/bmo/calc/home10)
         * [![](/dist/icons/all-layers.svg)All calculatorsExplore all calculators](https://www.bankofthewest.com/en-us/main/personal/mortgages/#calculators-section)
     
     Resources
