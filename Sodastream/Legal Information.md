@@ -38,7 +38,7 @@ CO2 Cylinders](https://sodastream.com/pages/co2-gas-cylinders)[CO2 Cylinders](ht
 
 [![sparkling water flavors](//sodastream.com/cdn/shop/files/US--navigation-image-update--urgent_9703Artboard-1-20240304-112314.png?crop=center&height=550&v=1709552349&width=550)
 
-Flavors](https://sodastream.com/collections/sparkling-water-flavors)[Flavors](https://sodastream.com/collections/sparkling-water-flavors)
+Flavors](https://sodastream.com/collections/flavors)[Flavors](https://sodastream.com/collections/flavors)
 
 [![sodastream bottles and accessories](//sodastream.com/cdn/shop/files/Black_slim_fuze_blue_MOB_mega_menu_tile_400x400_89cd743b-a6f9-42bc-9b15-d6a2aec30479.png?crop=center&height=550&v=1662026578&width=550)
 
