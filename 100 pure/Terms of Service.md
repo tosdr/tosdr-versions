@@ -19,7 +19,7 @@ My Tote
 
 ### [Coffee Bean Caffeine Eye Cream](https://www.100percentpure.com/products/coffee-bean-caffeine-eye-cream)
 
-5645 reviews (5645)
+5669 reviews (5670)
 
 $16.00 $29.00
 
@@ -39,7 +39,7 @@ CHOOSE Size
 
 ### [Multi-Vitamin + Antioxidants Potent PM Serum](https://www.100percentpure.com/products/multi-vitamin-antioxidants-potent-pm-serums)
 
-74 reviews (74)
+84 reviews (84)
 
 $72.00
 
@@ -55,25 +55,11 @@ ADD TO TOTE
 
 ### [7% Fruit Acids Apple Enzyme Exfoliating Cleanser](https://www.100percentpure.com/products/apple-enzyme-exfoliating-cleanser)
 
-77 reviews (77)
+80 reviews (80)
 
 $32.00
 
 Default Title - $32
-
-ADD TO TOTE
-
-[![10%-fruit-acids-apple-enzyme-resurfacing-serum](https://www.100percentpure.com/cdn/shop/files/FGFAERS_Primary_239x254.png?v=1696450271)](https://www.100percentpure.com/products/apple-enzyme-resurfacing-serum)
-
-![ FGFAERS_Primary](//www.100percentpure.com/cdn/shop/files/FGFAERS_Primary_220x.png?v=1696450271)
-
-### [10% Fruit Acids Apple Enzyme Resurfacing Serum](https://www.100percentpure.com/products/apple-enzyme-resurfacing-serum)
-
-72 reviews (72)
-
-$25.00
-
-Default Title - $25
 
 ADD TO TOTE
 
@@ -83,11 +69,11 @@ ADD TO TOTE
 
 ### [Fruit Pigmented® Ultra Lengthening Mascara](https://www.100percentpure.com/products/fruit-pigmented-ultra-lengthening-mascara)
 
-5206 reviews (5206)
+5244 reviews (5244)
 
 $28.00 $28.00
 
-Black Tea - $28 Dark Chocolate - $28 Blueberry - $28 Blackberry - $28
+Black Tea - $28 Blueberry - $28 Dark Chocolate - $28 Blackberry - $28
 
 Blueberry
 
@@ -107,7 +93,7 @@ CHOOSE Color
 
 ### [Maracuja Mascara](https://www.100percentpure.com/products/maracuja-mascara)
 
-2345 reviews (2345)
+2354 reviews (2354)
 
 $28.00 $28.00
 
@@ -129,7 +115,7 @@ CHOOSE Color
 
 ### [Ginseng Collagen Boost Mask](https://www.100percentpure.com/products/ginseng-collagen-boost-masks)
 
-499 reviews (499)
+501 reviews (501)
 
 $8.00
 
@@ -137,17 +123,19 @@ Single - $8
 
 ADD TO TOTE
 
-[![vanilla-bean-nourishing-body-cream](https://www.100percentpure.com/cdn/shop/products/1BLTVB_Nourishing_Body_Cream_Vanilla_Bean_Primary_239x254.jpg?v=1627030911)](https://www.100percentpure.com/products/vanilla-bean-nourishing-body-cream)
+[50% off
+
+![vanilla-bean-nourishing-body-cream](https://www.100percentpure.com/cdn/shop/products/1BLTVB_Nourishing_Body_Cream_Vanilla_Bean_Primary_239x254.jpg?v=1627030911)](https://www.100percentpure.com/products/vanilla-bean-nourishing-body-cream)
 
 ![ Vanilla Bean Nourishing Body Cream](//www.100percentpure.com/cdn/shop/products/1BLTVB_Nourishing_Body_Cream_Vanilla_Bean_Primary_220x.jpg?v=1627030911)
 
 ### [Vanilla Bean Nourishing Body Cream](https://www.100percentpure.com/products/vanilla-bean-nourishing-body-cream)
 
-759 reviews (759)
+768 reviews (768)
 
-$26.00
+$13.00 $26.00
 
-Default Title - $26
+Default Title - $13
 
 ADD TO TOTE
 
@@ -159,7 +147,7 @@ ADD TO TOTE
 
 ### [Glossy Locks Grow More Shampoo](https://www.100percentpure.com/products/grow-more-shampoo)
 
-676 reviews (676)
+684 reviews (684)
 
 $34.00 $38.00
 
@@ -179,13 +167,17 @@ CHOOSE Size
 
 ### [Coconut Nourishing Body Cream](https://www.100percentpure.com/products/coconut-nourishing-body-cream)
 
-735 reviews (735)
+742 reviews (742)
 
-$12.00 $26.00
+$6.00 $13.00
 
-8 oz - $26 1.7 oz - $12
+8 oz - $13 1.7 oz - $6
+
+Sale
 
 8 oz
+
+Sale
 
 1.7 oz
 
@@ -201,7 +193,7 @@ CHOOSE Size
 
 ### [Bright Eyes Masks](https://www.100percentpure.com/products/bright-eyes-masks)
 
-954 reviews (954)
+962 reviews (962)
 
 $7.00 $30.00
 
@@ -221,7 +213,7 @@ CHOOSE Size
 
 ### [Collagen Boost Sheet Mask](https://www.100percentpure.com/products/sheet-mask-collagen-boost-masks)
 
-203 reviews (203)
+28 reviews (28)
 
 $7.00 $28.00
 
@@ -241,7 +233,7 @@ CHOOSE Size
 
 ### [Deep Hydration Sheet Mask](https://www.100percentpure.com/products/sheet-mask-deep-hydration-masks)
 
-361 reviews (361)
+364 reviews (364)
 
 $7.00
 
@@ -255,7 +247,7 @@ ADD TO TOTE
 
 ### [Watermelon Cucumber Water Locking Moisturizer](https://www.100percentpure.com/products/watermelon-cucumber-water-locking-moisturizer)
 
-80 reviews (80)
+88 reviews (88)
 
 $25.00
 
@@ -269,7 +261,7 @@ ADD TO TOTE
 
 ### [Hydra Drench Cream](https://www.100percentpure.com/products/hydra-drench-cream)
 
-493 reviews (493)
+503 reviews (503)
 
 $48.00
 
@@ -287,25 +279,11 @@ ADD TO TOTE
 
 ### [Multi-Vitamin + Antioxidants Ultra Riché PM Treatment](https://www.100percentpure.com/products/multi-vitamin-antioxidants-ultra-riche-pm-treatment)
 
-802 reviews (802)
+1032 reviews (1032)
 
 $64.00
 
 Default Title - $64
-
-ADD TO TOTE
-
-[![bakuchiol-moisturizer](https://www.100percentpure.com/cdn/shop/files/Bkchl_Mstrz_Primary02_SQ_239x254.png?v=1701439050)](https://www.100percentpure.com/products/bakuchiol-moisturizer)
-
-![ FG1FSBBM_Primary](//www.100percentpure.com/cdn/shop/files/Bkchl_Mstrz_Primary02_SQ_220x.png?v=1701439050)
-
-### [Bakuchiol Moisturizer](https://www.100percentpure.com/products/bakuchiol-moisturizer)
-
-170 reviews (172)
-
-$25.00
-
-Default Title - $25
 
 ADD TO TOTE
 
@@ -315,7 +293,7 @@ ADD TO TOTE
 
 ### [Creamy Long Last Liner](https://www.100percentpure.com/products/creamy-long-last-liner)
 
-1975 reviews (1975)
+1987 reviews (1987)
 
 $27.00 $27.00
 
@@ -331,34 +309,6 @@ ADD TO TOTE
 
 CHOOSE Color
 
-[![vitamin-c-serum](https://www.100percentpure.com/cdn/shop/files/1FMVCS_Vitamin_C_Serum_Primary_239x254.jpg?v=1695399627)](https://www.100percentpure.com/products/vitamin-c-serum)
-
-![ 1FMVCS_Primary](//www.100percentpure.com/cdn/shop/files/1FMVCS_Vitamin_C_Serum_Primary_220x.jpg?v=1695399627)
-
-### [Vitamin C Serum](https://www.100percentpure.com/products/vitamin-c-serum)
-
-1409 reviews (1409)
-
-$58.00
-
-Default Title - $58
-
-ADD TO TOTE
-
-[![watermelon-cucumber-water-locking-serum](https://www.100percentpure.com/cdn/shop/products/FG1FWCHS_Primary_239x254.png?v=1665003391)](https://www.100percentpure.com/products/watermelon-cucumber-water-locking-serum)
-
-![ Watermelon Cucumber Water Locking Serum](//www.100percentpure.com/cdn/shop/products/FG1FWCHS_Primary_220x.png?v=1665003391)
-
-### [Watermelon Cucumber Water Locking Serum](https://www.100percentpure.com/products/watermelon-cucumber-water-locking-serum)
-
-55 reviews (55)
-
-$25.00
-
-Default Title - $25
-
-ADD TO TOTE
-
 [29% off
 
 ![watermelon-cucumber--water-locking-mist](https://www.100percentpure.com/cdn/shop/products/FG1FWCAM_Primary_239x254.png?v=1665003385)](https://www.100percentpure.com/products/watermelon-cucumber-water-locking-mist)
@@ -367,7 +317,7 @@ ADD TO TOTE
 
 ### [Watermelon Cucumber Water Locking Mist](https://www.100percentpure.com/products/watermelon-cucumber-water-locking-mist)
 
-33 reviews (33)
+38 reviews (38)
 
 $25.00 $35.00
 
@@ -381,7 +331,7 @@ ADD TO TOTE
 
 ### [Does It All Sheet Mask](https://www.100percentpure.com/products/sheet-mask-does-it-all-masks)
 
-348 reviews (348)
+350 reviews (350)
 
 $7.00 $32.00
 
@@ -395,45 +345,53 @@ ADD TO TOTE
 
 CHOOSE Size
 
-[![acai-pulp-facial-scrub](https://www.100percentpure.com/cdn/shop/products/1FAPFS_Acai_Pulp_Facial_Scrub_Primary_239x254.jpg?v=1655916708)](https://www.100percentpure.com/products/acai-pulp-facial-scrub)
+[30% off
+
+![acai-pulp-facial-scrub](https://www.100percentpure.com/cdn/shop/products/1FAPFS_Acai_Pulp_Facial_Scrub_Primary_239x254.jpg?v=1655916708)](https://www.100percentpure.com/products/acai-pulp-facial-scrub)
 
 ![ parent_primary](//www.100percentpure.com/cdn/shop/products/1FAPFS_Acai_Pulp_Facial_Scrub_Primary_220x.jpg?v=1655916708)
 
 ### [Acai Pulp Facial Scrub](https://www.100percentpure.com/products/acai-pulp-facial-scrub)
 
-821 reviews (821)
+824 reviews (824)
 
-$38.00
+$26.60 $38.00
 
-Default Title - $38
+Default Title - $26.60
 
 ADD TO TOTE
 
-[![multi-vitamin-+-antioxidants-pm-facial-oil](https://www.100percentpure.com/cdn/shop/products/1FMVPMFO_Multi_Viamin_Facial_Oil_Primary_239x254.jpg?v=1696527574)](https://www.100percentpure.com/products/multi-vitamin-antioxidants-pm-facial-oil)
+[![Featured](https://www.100percentpure.com/cdn/shop/files/VBA_SEAL_HQ_-_transparent_background_1.png?crop=center&height=85&v=1717163115&width=85)](https://www.100percentpure.com/products/multi-vitamin-antioxidants-pm-facial-oil)
+
+[25% off
+
+![multi-vitamin-+-antioxidants-pm-facial-oil](https://www.100percentpure.com/cdn/shop/products/1FMVPMFO_Multi_Viamin_Facial_Oil_Primary_239x254.jpg?v=1696527574)](https://www.100percentpure.com/products/multi-vitamin-antioxidants-pm-facial-oil)
 
 ![ parent_primary](//www.100percentpure.com/cdn/shop/products/1FMVPMFO_Multi_Viamin_Facial_Oil_Primary_220x.jpg?v=1696527574)
 
 ### [Multi-Vitamin + Antioxidants PM Facial Oil](https://www.100percentpure.com/products/multi-vitamin-antioxidants-pm-facial-oil)
 
-200 reviews (200)
+206 reviews (206)
 
-$58.00
+$43.50 $58.00
 
-Default Title - $58
+Default Title - $43.50
 
 ADD TO TOTE
 
-[![organic-mint-lip-balm](https://www.100percentpure.com/cdn/shop/products/1LBM_Organic_Mint_Lip_Balm_Primary_239x254.jpg?v=1627032871)](https://www.100percentpure.com/products/organic-mint-lip-balm)
+[50% off
+
+![organic-mint-lip-balm](https://www.100percentpure.com/cdn/shop/products/1LBM_Organic_Mint_Lip_Balm_Primary_239x254.jpg?v=1627032871)](https://www.100percentpure.com/products/organic-mint-lip-balm)
 
 ![ Organic Mint Lip Balm](//www.100percentpure.com/cdn/shop/products/1LBM_Organic_Mint_Lip_Balm_Primary_220x.jpg?v=1627032871)
 
 ### [Organic Mint Lip Balm](https://www.100percentpure.com/products/organic-mint-lip-balm)
 
-487 reviews (487)
+424 reviews (424)
 
-$11.00
+$4.00 $8.00
 
-Default Title - $11
+Default Title - $4
 
 ADD TO TOTE
 
@@ -445,7 +403,7 @@ ADD TO TOTE
 
 ### [Blood Orange Nourishing Body Cream](https://www.100percentpure.com/products/blood-orange-nourishing-body-cream)
 
-271 reviews (271)
+286 reviews (286)
 
 $13.00 $26.00
 
@@ -453,31 +411,35 @@ Default Title - $13
 
 ADD TO TOTE
 
-[![french-lavender-nourishing-body-cream](https://www.100percentpure.com/cdn/shop/products/1BLTFL_Nourishing_Body_Cream_French_Lavender_Primary_bf8907a0-c486-421f-b61b-08d96e7cbd53_239x254.jpg?v=1627033063)](https://www.100percentpure.com/products/french-lavender-nourishing-body-cream)
+[50% off
+
+![french-lavender-nourishing-body-cream](https://www.100percentpure.com/cdn/shop/products/1BLTFL_Nourishing_Body_Cream_French_Lavender_Primary_bf8907a0-c486-421f-b61b-08d96e7cbd53_239x254.jpg?v=1627033063)](https://www.100percentpure.com/products/french-lavender-nourishing-body-cream)
 
 ![ French Lavender Nourishing Body Cream](//www.100percentpure.com/cdn/shop/products/1BLTFL_Nourishing_Body_Cream_French_Lavender_Primary_bf8907a0-c486-421f-b61b-08d96e7cbd53_220x.jpg?v=1627033063)
 
 ### [French Lavender Nourishing Body Cream](https://www.100percentpure.com/products/french-lavender-nourishing-body-cream)
 
-329 reviews (329)
+335 reviews (335)
 
-$26.00
+$13.00 $26.00
 
-Default Title - $26
+Default Title - $13
 
 ADD TO TOTE
 
-[![honey-almond-nourishing-body-cream](https://www.100percentpure.com/cdn/shop/products/1BLTHA_Nourishing_Body_Cream_Honey_Almond_Primary_fc544a05-141c-4b0d-93aa-8b17689e74b3_239x254.jpg?v=1630365979)](https://www.100percentpure.com/products/honey-almond-nourishing-body-cream)
+[50% off
+
+![honey-almond-nourishing-body-cream](https://www.100percentpure.com/cdn/shop/products/1BLTHA_Nourishing_Body_Cream_Honey_Almond_Primary_fc544a05-141c-4b0d-93aa-8b17689e74b3_239x254.jpg?v=1630365979)](https://www.100percentpure.com/products/honey-almond-nourishing-body-cream)
 
 ![ parent_primary](//www.100percentpure.com/cdn/shop/products/1BLTHA_Nourishing_Body_Cream_Honey_Almond_Primary_fc544a05-141c-4b0d-93aa-8b17689e74b3_220x.jpg?v=1630365979)
 
 ### [Honey Almond Nourishing Body Cream](https://www.100percentpure.com/products/honey-almond-nourishing-body-cream)
 
-365 reviews (365)
+371 reviews (371)
 
-$26.00
+$13.00 $26.00
 
-Default Title - $26
+Default Title - $13
 
 ADD TO TOTE
 
@@ -487,7 +449,7 @@ ADD TO TOTE
 
 ### [Dark Spot Remover](https://www.100percentpure.com/products/dark-spot-remover)
 
-530 reviews (530)
+531 reviews (531)
 
 $52.00
 
@@ -503,7 +465,7 @@ ADD TO TOTE
 
 ### [Cucumber Cloud Foam Cleanser](https://www.100percentpure.com/products/cucumber-cloud-foam-cleanser)
 
-106 reviews (106)
+109 reviews (109)
 
 $21.00 $30.00
 
@@ -511,17 +473,19 @@ Default Title - $21
 
 ADD TO TOTE
 
-[![blood-orange-cleansing-balm](https://www.100percentpure.com/cdn/shop/products/1FBOCB_Blood_Orange_Cleansing_Balm_Primary_239x254.jpg?v=1696526483)](https://www.100percentpure.com/products/blood-orange-cleansing-balm)
+[25% off
+
+![blood-orange-cleansing-balm](https://www.100percentpure.com/cdn/shop/products/1FBOCB_Blood_Orange_Cleansing_Balm_Primary_239x254.jpg?v=1696526483)](https://www.100percentpure.com/products/blood-orange-cleansing-balm)
 
 ![ parent_primary](//www.100percentpure.com/cdn/shop/products/1FBOCB_Blood_Orange_Cleansing_Balm_Primary_220x.jpg?v=1696526483)
 
 ### [Blood Orange Cleansing Balm](https://www.100percentpure.com/products/blood-orange-cleansing-balm)
 
-839 reviews (839)
+846 reviews (846)
 
-$38.00
+$28.50 $38.00
 
-Default Title - $38
+Default Title - $28.50
 
 ADD TO TOTE
 
@@ -533,7 +497,7 @@ ADD TO TOTE
 
 ### [Lavender Niacinamide Pore Minimizer Tonique](https://www.100percentpure.com/products/lavender-niacinamide-pore-minimizer-tonique)
 
-70 reviews (70)
+71 reviews (71)
 
 $19.00
 
@@ -541,11 +505,51 @@ Default Title - $19
 
 ADD TO TOTE
 
+[![10%-fruit-acids-apple-enzyme-resurfacing-serum](https://www.100percentpure.com/cdn/shop/files/FGFAERS_Primary_239x254.png?v=1696450271)](https://www.100percentpure.com/products/apple-enzyme-resurfacing-serum)
+
+![ FGFAERS_Primary](//www.100percentpure.com/cdn/shop/files/FGFAERS_Primary_220x.png?v=1696450271)
+
+### [10% Fruit Acids Apple Enzyme Resurfacing Serum](https://www.100percentpure.com/products/apple-enzyme-resurfacing-serum)
+
+73 reviews (73)
+
+$25.00
+
+Default Title - $25
+
+ADD TO TOTE
+
+[![Featured](https://www.100percentpure.com/cdn/shop/files/2019-cert-clean-beauty-awards_f8ee0482-640f-4d06-9684-b33f8c6cf113.png?crop=center&height=85&v=1697822127&width=85)](https://www.100percentpure.com/products/long-last-liquid-eye-liner)
+
+[![long-last-liquid-eye-liner](https://www.100percentpure.com/cdn/shop/files/1CELLBT_Long_Last_Liquid_Eye_Liner_Black_Tea_Primary_239x254.jpg?v=1695867746)](https://www.100percentpure.com/products/long-last-liquid-eye-liner)
+
+![ 1CELLBT_Primary](//www.100percentpure.com/cdn/shop/files/1CELLBT_Long_Last_Liquid_Eye_Liner_Black_Tea_Primary_220x.jpg?v=1695867746)
+
+### [Long Last Liquid Eye Liner](https://www.100percentpure.com/products/long-last-liquid-eye-liner)
+
+1523 reviews (1523)
+
+$30.00 $30.00
+
+Black Tea - $30 Dark Chocolate - $30 Blackberry - $30
+
+Black Tea
+
+Blackberry
+
+Dark Chocolate
+
+ADD TO TOTE
+
+CHOOSE Color
+
 Subtotal
 
 $0.00
 
 ##### $0.00
+
+Get 20% Off on Your Birthday!
 
 Taxes and shipping calculated at checkout
 
@@ -555,7 +559,7 @@ or 4 interest-free payments of **$0.00** with ![Klarna Logo](https://www.100perc
 
  
 
-[Happy Earth Day! Enjoy 5x the points today only!](https://www.100percentpure.com/collections/best-sellers "https://www.100percentpure.com/collections/best-sellers")
+[Friends And Family Sale - 20% OFF Sitewide USE CODE: BESTIES](https://www.100percentpure.com/collections/shop-all "https://www.100percentpure.com/collections/shop-all")
 
 icon-account icon-account icon-arrow-right icon-arrow-down icon-arrow-next icon-arrow-prev icon-slideshow-next icon-slideshow-previous icon-comment icon-heart icon-cart icon-bag icon-close icon-glasses icon-menu icon-minus icon-play icon-plus social-seach social-facebook social-fancy social-instagram social-pinterest social-rss social-twitter
 
@@ -571,9 +575,9 @@ icon-account icon-account icon-arrow-right icon-arrow-down icon-arrow-next icon-
     * [Best Sellers](https://www.100percentpure.com/collections/best-sellers)
     * [Award Winners](https://www.100percentpure.com/collections/award)
     * [Lock-In & Save](https://www.100percentpure.com/collections/lock-in-save)
-    * [Oops We Made Too Much](https://www.100percentpure.com/collections/oops-we-made-too-much)
     * [Gift Sets](https://www.100percentpure.com/collections/gift-sets)
     * [Gift Cards](https://www.100percentpure.com/products/online-giftcards)
+    * [Oops We Made Too Much](https://www.100percentpure.com/collections/oops-we-made-too-much)
     
     #### [Product Type](#)
     
@@ -660,6 +664,7 @@ icon-account icon-account icon-arrow-right icon-arrow-down icon-arrow-next icon-
 * [Best Sellers](https://www.100percentpure.com/collections/best-sellers)
 * [Award Winners](https://www.100percentpure.com/collections/award)
 * [Lock-In & Save](https://www.100percentpure.com/collections/lock-in-save)
+* [Oops We Made Too Much](https://www.100percentpure.com/collections/oops-we-made-too-much)
 * [Gift Sets](https://www.100percentpure.com/collections/gift-sets)
 * [PRODUCT TYPE](#)
 * [Fruit Pigmented® Makeup](https://www.100percentpure.com/collections/fruit-dyed-makeup)
@@ -720,6 +725,8 @@ icon-account icon-account icon-arrow-right icon-arrow-down icon-arrow-next icon-
 * [Award Winners](https://www.100percentpure.com/collections/award)
     
 * [Lock-In & Save](https://www.100percentpure.com/collections/lock-in-save)
+    
+* [Oops We Made Too Much](https://www.100percentpure.com/collections/oops-we-made-too-much)
     
 * [Gift Sets](https://www.100percentpure.com/collections/gift-sets)
     
