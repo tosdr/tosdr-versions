@@ -19,11 +19,11 @@ My Tote
 
 ### [Coffee Bean Caffeine Eye Cream](https://www.100percentpure.com/products/coffee-bean-caffeine-eye-cream)
 
-5669 reviews (5670)
+5670 reviews (5670)
 
 $16.00 $29.00
 
-0.3 oz - $16 1 oz - $29
+1 oz - $29 0.3 oz - $16
 
 1 oz
 
@@ -193,7 +193,7 @@ CHOOSE Size
 
 ### [Bright Eyes Masks](https://www.100percentpure.com/products/bright-eyes-masks)
 
-962 reviews (962)
+963 reviews (963)
 
 $7.00 $30.00
 
@@ -353,7 +353,7 @@ CHOOSE Size
 
 ### [Acai Pulp Facial Scrub](https://www.100percentpure.com/products/acai-pulp-facial-scrub)
 
-824 reviews (824)
+826 reviews (826)
 
 $26.60 $38.00
 
@@ -481,7 +481,7 @@ ADD TO TOTE
 
 ### [Blood Orange Cleansing Balm](https://www.100percentpure.com/products/blood-orange-cleansing-balm)
 
-846 reviews (846)
+847 reviews (847)
 
 $28.50 $38.00
 
