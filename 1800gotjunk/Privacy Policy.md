@@ -504,17 +504,17 @@ Kim Wong Calgary 01/12/2023
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Nate and Chris did a great job. Fast, efficient and courteous service.
+Amazing service Anton! THX!
 
-Jeff Rowan Niagara 30/11/2023
+Flame .\\/. Calgary 30/11/2023
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Amazing service Anton! THX!
+Nate and Chris did a great job. Fast, efficient and courteous service.
 
-Flame .\\/. Calgary 30/11/2023
+Jeff Rowan Niagara 30/11/2023
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -560,6 +560,14 @@ Sal Hoss Niagara 28/11/2023
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
+Guys (Ryan and Jamar) were able to come early and called to confirm. Showed up and got rid of all my junk super quick! Highly recommend!
+
+Alex Niagara 27/11/2023
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
 Fast, efficient, friendly and responsive!
 
 Dean Reynolds Calgary 27/11/2023
@@ -571,14 +579,6 @@ Dean Reynolds Calgary 27/11/2023
 Trey and Chay were very attentive and friendly. Even when they were delayed they kept me updated. Great job.
 
 Darrin Hill Calgary 27/11/2023
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Guys (Ryan and Jamar) were able to come early and called to confirm. Showed up and got rid of all my junk super quick! Highly recommend!
-
-Alex Niagara 27/11/2023
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -744,6 +744,22 @@ Pierre Denis Monteregie Metro 20/11/2022
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
+Aaron and DJ were awesome!
+
+Amber Fedosh Seattle 02/12/2023
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Aaron and DJ are very professional and helpful. Great service so far.
+
+Jun-ji Barber Seattle 02/12/2023
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
 Hank and Nick were fast and great!
 
 Matt Heath Wisconsin 02/12/2023
@@ -771,6 +787,14 @@ Kolver Matos Wisconsin 02/12/2023
 Jacob and Connor were a great help
 
 John Tyree Wisconsin 02/12/2023
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Aaron and DJ were friendly and quick.
+
+Chris Conley Seattle 02/12/2023
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -808,41 +832,9 @@ s t Wisconsin 02/12/2023
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Aaron and DJ were awesome!
-
-Amber Fedosh Seattle 02/12/2023
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Aaron and DJ were friendly and quick.
-
-Chris Conley Seattle 02/12/2023
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Aaron and DJ are very professional and helpful. Great service so far.
-
-Jun-ji Barber Seattle 02/12/2023
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
 Tay and david was on time and very fast
 
 David Pryor Wisconsin 01/12/2023
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-The team who came was very efficient and helpful!
-
-Dana Scott Seattle 01/12/2023
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -883,6 +875,14 @@ Barb Knott Madison 01/12/2023
 Nick, Richard, Tanner, Dakota and Mike were a pleasure to work with.
 
 Jack Knott Madison 01/12/2023
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+The team who came was very efficient and helpful!
+
+Dana Scott Seattle 01/12/2023
 
 ### 
 
