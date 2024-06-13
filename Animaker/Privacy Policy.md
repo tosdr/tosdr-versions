@@ -109,11 +109,11 @@
         
         Get updated about the recent feature releases and updates](https://new.animaker.com/)
     
-    * [![Animaker Webinar](assets/img/header/webinaricon.svg)
+    * [![Animaker L&D Webinar](https://www.animaker.com/Animaker-Home/lndwebinar_icon.svg)
         
-        ### Webinars
+        ### L&D Webinars
         
-        Get trained by our experts and become a certified video maker!](https://app.animaker.com/webinar)
+        Get trained by our L&D experts & become a pro Course Creator!](https://app.animaker.com/lnd-webinars)
     * [![Animaker Tutorials](assets/img/header/tutorialsicon.svg)
         
         ### Tutorials
