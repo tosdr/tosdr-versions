@@ -1,3 +1,9 @@
+be\_ixf;ym\_202406 d\_12; ct\_50
+
+* be\_ixf; php\_sdk; php\_sdk\_1.4.26
+* https://cybersecurity.att.com/terms/website
+* https://cybersecurity.att.com/terms/website
+
 [Welcome to LevelBlue](https://www.alienvault.com/newsroom/press-releases/levelblue-launches-at-rsa)
 
 * 
@@ -5,7 +11,7 @@
 * [Contact](https://www.alienvault.com/contact)
 * [Support](https://www.alienvault.com/support)
 
-[![LevelBlue](https://cdn-cybersecurity.att.com/images/uploads/logos/lb-logo-black.svg)](https://www.alienvault.com/)
+[![LevelBlue logo](https://cdn-cybersecurity.att.com/images/uploads/logos/lb-logo-black.svg)](https://www.alienvault.com/)
 
 * 
 * Products & Services
@@ -60,9 +66,9 @@
             * [Proprietary Research](https://www.alienvault.com/insights-report)
             * [Daily Blog](https://www.alienvault.com/blogs)
             
-        * [Threat Intelligence Unlock timely, tactical threat intelligence](https://www.alienvault.com/alien-labs)
+        * [Threat Intelligence Unlock timely, tactical threat intelligence](https://www.alienvault.com/levelblue-labs)
             
-            * [LevelBlue Labs](https://www.alienvault.com/alien-labs)
+            * [LevelBlue Labs](https://www.alienvault.com/levelblue-labs)
             * [LevelBlue Labs Open Threat Exchange](https://www.alienvault.com/open-threat-exchange)
             
     
@@ -113,7 +119,7 @@
             
             ##### Help keep employees connected and protected virtually anywhere
             
-            [Learn more](https://cdn-cybersecurity.att.com/docs/product-briefs/uem-endpoint-management-vmware-workspace-one.pdf)
+            [Learn more](https://cyber.levelblue.com/m/6106c2f72cc6634c/original/PB-Keep-Employees-Connected-Anywhere.pdf)
             
             [View all Product Briefs](https://www.alienvault.com/resource-center#content_product-brief)
             
@@ -123,7 +129,7 @@
             
             ##### Protect external-facing services against DDoS attacks and keep your business running
             
-            [Learn more](https://cdn-cybersecurity.att.com/docs/solution-briefs/protect-external-facing-services-against-ddos.pdf)
+            [Learn more](https://cyber.levelblue.com/m/787e203a51011e42/original/SB-Protect-External-Facing-From-DDOS.pdf)
             
             [View all Solution Briefs](https://www.alienvault.com/resource-center#content_solution-brief)
             
@@ -131,9 +137,9 @@
             
             video
             
-            ##### AT&T Cybersecurity Training Portal (ACT)
+            ##### LevelBlue Company Announcement at RSAC 2024
             
-            [Learn more](https://cybersecurity.att.com/resource-center/videos/att-cybersecurity-training-portal-act)
+            [Learn more](https://cybersecurity.att.com/resource-center/videos/levelblue-company-announcement-at-rsac-2024)
             
             [View all Videos](https://www.alienvault.com/resource-center#content_video)
             
@@ -141,9 +147,9 @@
             
             Customer Story
             
-            ##### DDoS attacks solved by Prolexic DDoS Cybersecurity Services
+            ##### LevelBlue Helps Small Firm with Vulnerability Management and Web Application Protection
             
-            [Learn more](https://cybersecurity.att.com/resource-center/case-studies/ddos-attacks-solved-by-prolexic-ddos-cybersecurity-services)
+            [Learn more](https://cyber.levelblue.com/m/61627ac93a01665b/original/CS-Investment-Firm-Manages-Vulnerabilities-with-MVP.pdf)
             
             [View all Customer Stories](https://www.alienvault.com/resource-center#content_customer-stories)
             
@@ -163,9 +169,9 @@
             
             Blog: Security Essentials
             
-            ##### Dissecting a Multi-stage Phishing Attack.
+            ##### Social Media Cybersecurity: Don’t Let Employees Be Your Weakest Link
             
-            [Learn more](https://cybersecurity.att.com/blogs/security-essentials/dissecting-a-multi-stage-phishing-attack)
+            [Learn more](https://cybersecurity.att.com/blogs/security-essentials/social-media-cybersecurity-dont-let-employees-be-your-weakest-link)
             
             [View all Blogs](https://www.alienvault.com/blogs)
             
@@ -173,9 +179,9 @@
             
             ebook
             
-            ##### Zero Trust Security
+            ##### Cloud Detection and Response: Market Growth as an Enterprise Requirement
             
-            [Learn more](https://cybersecurity.att.com/resource-center/ebook/zero-trust-security-ebook)
+            [Learn more](https://cybersecurity.att.com/resource-center/ebook/cloud-detection-and-response-market-growth-as-an-enterprise-requirement)
             
             [View all eBooks](https://www.alienvault.com/resource-center#content_ebook)
             
@@ -183,7 +189,7 @@
             
             webcast
             
-            ##### End to End Visibility and Control
+            ##### Achieving End-to-End Visibility and Control
             
             [Learn more](https://cybersecurity.att.com/resource-center/webcasts/end-to-end-visibility-and-control)
             
@@ -413,9 +419,9 @@ Customer Resources
 WEBSITE TERMS OF USE
 ====================
 
-**Date / Version: 07 May 2018**
+**Date / Version: 06 June 2024**
 
-Please read the following terms and conditions (“Terms of Use”) carefully before using this website (“Site”). By accessing or using this Site, you agree to the following Terms of Use which shall constitute a legally binding agreement between you and AlienVault, Inc. (“AlienVault”). You should review these Terms of Use regularly as they may change at any time at our sole discretion. If you do not agree to any term or condition, you should not access or otherwise use this Site. In connection with your use of and/or access to Content contained in certain areas of this Site, it may be necessary for you to consent to policies or other terms and conditions in addition to the Terms of Use set forth herein.
+Please read the following terms and conditions (“Terms of Use”) carefully before using this website (“Site”). By accessing or using this Site, you agree to the following Terms of Use which shall constitute a legally binding agreement between you and LevelBlue. (“LevelBlue”). You should review these Terms of Use regularly as they may change at any time at our sole discretion. If you do not agree to any term or condition, you should not access or otherwise use this Site. In connection with your use of and/or access to Content contained in certain areas of this Site, it may be necessary for you to consent to policies or other terms and conditions in addition to the Terms of Use set forth herein.
 
 ### 1\. We Provide Our Website For Your Convenience Only
 
@@ -456,21 +462,21 @@ A website that links to our Site:
 
 ### 6\. If You Transmit or Provide Data to Us, It Is Non-Confidential
 
-We do not want to receive confidential or proprietary information from you through our Site. If you transmit to or post on our Site any material, data, information or idea by any means, it will be treated as non-confidential and non-proprietary and AlienVault shall be free to reproduce, publish, or otherwise use such information for any purposes whatsoever including, without limitation, the research, development, manufacture, use or sale of products incorporating such information. The sender of any information to AlienVault is fully responsible for its content, including its truthfulness, accuracy, and its non-infringement of any other person, organization, or entity’s proprietary rights. Personal data provided to us will be handled in accordance with our Privacy Policy.
+We do not want to receive confidential or proprietary information from you through our Site. If you transmit to or post on our Site any material, data, information or idea by any means, it will be treated as non-confidential and non-proprietary and LevelBlue shall be free to reproduce, publish, or otherwise use such information for any purposes whatsoever including, without limitation, the research, development, manufacture, use or sale of products incorporating such information. The sender of any information to LevelBlue is fully responsible for its content, including its truthfulness, accuracy, and its non-infringement of any other person, organization, or entity’s proprietary rights. Personal data provided to us will be handled in accordance with our Privacy Policy.
 
 ### 7\. By Providing Content, We Do Not Allow You to Use Our Trademarks
 
-The trademarks, service marks, trade names and logos used and displayed on our Site are our registered and unregistered trademarks. Nothing on this Site should be construed as granting, by implication, estoppel, or otherwise, any license or right to use any trademark, without our written permission. We aggressively enforce our intellectual property rights. The name “AlienVault” or our logo may not be used in any way, including in advertising or publicity pertaining to distribution of materials on our Site, without prior written permission. You may not use any metatags or any other “hidden text” utilizing AlienVault ‘s name or trademarks without the express written consent of AlienVault. You are not authorized to use our logo as a hyperlink to our Site unless you obtain our written permission in advance.
+The trademarks, service marks, trade names and logos used and displayed on our Site are our registered and unregistered trademarks. Nothing on this Site should be construed as granting, by implication, estoppel, or otherwise, any license or right to use any trademark, without our written permission. We aggressively enforce our intellectual property rights. The name “LevelBlue” or our logo may not be used in any way, including in advertising or publicity pertaining to distribution of materials on our Site, without prior written permission. You may not use any metatags or any other “hidden text” utilizing LevelBlue‘s name or trademarks without the express written consent of AlienVault. You are not authorized to use our logo as a hyperlink to our Site unless you obtain our written permission in advance.
 
-ALL OTHER TRADEMARKS, SERVICE MARKS, AND TRADE NAMES ARE THE PROPERTY OF THEIR RESPECTIVE COMPANIES. ALIENVAULT DISAVOWS ANY PROPRIETARY INTEREST OR CLAIMS IN THE MARKS OF OTHER COMPANIES OR CORPORATIONS.
+ALL OTHER TRADEMARKS, SERVICE MARKS, AND TRADE NAMES ARE THE PROPERTY OF THEIR RESPECTIVE COMPANIES. LEVELBLUE DISAVOWS ANY PROPRIETARY INTEREST OR CLAIMS IN THE MARKS OF OTHER COMPANIES OR CORPORATIONS.
 
 ### 8\. All Content on Our Website Is Copyrighted
 
-All content included on this Site, including any materials, documents, text, designs, graphics, logos, images, audio and video (“Content”) is the property of AlienVault or its affiliates and suppliers, and is protected by United States and international copyright laws. The compilation of all Content on this Site is the exclusive property of AlienVault and protected by U.S. and international copyright laws. You may not inline, frame or utilize framing techniques to enclose any trademark, logo, or other proprietary information (including images, text, page layout or form) without our prior express written permission.
+All content included on this Site, including any materials, documents, text, designs, graphics, logos, images, audio and video (“Content”) is the property of LevelBlue or its affiliates and suppliers, and is protected by United States and international copyright laws. The compilation of all Content on this Site is the exclusive property of LevelBlue and protected by U.S. and international copyright laws. You may not inline, frame or utilize framing techniques to enclose any trademark, logo, or other proprietary information (including images, text, page layout or form) without our prior express written permission.
 
 ### 9\. Registration and Passwords
 
-AlienVault may or may not at times require you to have a password and/or provide registration details to access this Website or portions of this Website. If AlienVault does require a password and registration details, it shall be a condition of use of this Website that all the details you provide are correct, current, and complete. If AlienVault believes that the details are not correct, current, or complete, AlienVault will have the right to refuse access to the Website, or any of its resources, and to suspend and/or terminate your account. You are responsible for maintaining the confidentiality of any password(s) and registration details you are given to access this Website, and you are fully responsible for all activities that occur under your password(s) and/or registration details. You agree to notify AlienVault immediately of any unauthorized use of your password(s) and/or registration details. AlienVault reserves the absolute right, in its sole discretion, not to issue or revoke an account or password to any person or entity.
+LevelBlue may or may not at times require you to have a password and/or provide registration details to access this Website or portions of this Website. If LEVELBLUE does require a password and registration details, it shall be a condition of use of this Website that all the details you provide are correct, current, and complete. If LevelBlue believes that the details are not correct, current, or complete, LevelBlue will have the right to refuse access to the Website, or any of its resources, and to suspend and/or terminate your account. You are responsible for maintaining the confidentiality of any password(s) and registration details you are given to access this Website, and you are fully responsible for all activities that occur under your password(s) and/or registration details. You agree to notify LevelBlue immediately of any unauthorized use of your password(s) and/or registration details. LevelBlue eserves the absolute right, in its sole discretion, not to issue or revoke an account or password to any person or entity.
 
 ### 10\. You Must Obey Local Laws in Accessing Our Site
 
@@ -486,7 +492,7 @@ You hereby jointly and severally agree to indemnify, defend and hold us and our 
 
 ### 13\. Third Parties May Have Rights Under This Agreement
 
-Some of the provisions of this agreement are for the benefit of AlienVault and its affiliates, officers, directors, employees, agents, licensors and suppliers. Each of these individuals or entities shall have the right to assert and enforce those provisions directly against you on its own behalf.
+Some of the provisions of this agreement are for the benefit of LevelBlue and its affiliates, officers, directors, employees, agents, licensors and suppliers. Each of these individuals or entities shall have the right to assert and enforce those provisions directly against you on its own behalf.
 
 ### 14\. How This Agreement May Be Terminated
 
@@ -531,23 +537,21 @@ We exclude liability for actions taken in response to breaches of this Code of C
 
 ### 18\. Miscellaneous
 
-Our failure to insist upon or enforce strict performance of any provision of these Terms of Use shall not be construed as a waiver of any provision or right. Neither the course of conduct between the parties nor trade practice shall act to modify any provision of these Terms of Use. We may change, suspend or discontinue any aspect of our Site or service at any time. AlienVault reserves the right to change system configurations, product specifications, upgrades, pricing, layouts, options and any other specifications at any time without notice. We may also impose limits or restrictions on certain services, features or content or restrict your access to parts or all of our Site without notice or liability.
+Our failure to insist upon or enforce strict performance of any provision of these Terms of Use shall not be construed as a waiver of any provision or right. Neither the course of conduct between the parties nor trade practice shall act to modify any provision of these Terms of Use. We may change, suspend or discontinue any aspect of our Site or service at any time. LevelBlue reserves the right to change system configurations, product specifications, upgrades, pricing, layouts, options and any other specifications at any time without notice. We may also impose limits or restrictions on certain services, features or content or restrict your access to parts or all of our Site without notice or liability.
 
 We welcome your questions and comments regarding these Terms of Use and anything else on this Site. Please email us at [dl-cyberweb@att.com](mailto:dl-cyberweb@att.com?subject=WEBSITE%20TERMS%20OF%20USE%20-%20Date%20%2F%20Version%3A%2007%20May%202018)
-
-[Get price](https://www.alienvault.com/pricing/request-quote?utm_internal=sb_quote) [Free trial](https://www.alienvault.com/products/usm-anywhere/free-trial?utm_internal=sb_freetrial_modal)
 
 [](https://www.alienvault.com/)
 
 From the Blog
 
-![Shigraf Aijaz](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
+![Karoline Gore](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
 
-#### Shigraf Aijaz
+#### Karoline Gore
 
-May 20, 2024
+Jun 12, 2024
 
-### [Dissecting a Multi-stage Phishing Attack.](https://cybersecurity.att.com/blogs/security-essentials/dissecting-a-multi-stage-phishing-attack)
+### [Social Media Cybersecurity: Don’t Let Employees Be Your Weakest Link](https://cybersecurity.att.com/blogs/security-essentials/social-media-cybersecurity-dont-let-employees-be-your-weakest-link)
 
 [Explore All Blog Posts ›](https://www.alienvault.com/blogs)
 
@@ -606,7 +610,7 @@ Customer Success
 © Copyright 2024
 
 * [Privacy Policy](https://www.alienvault.com/legal/privacy-policy)
-* [Website Terms of Use](https://www.alienvault.com/terms/website-terms-of-use07may2018)
+* [Website Terms of Use](https://www.alienvault.com/terms/website)
 * [GDPR](https://www.alienvault.com/legal/gdpr)
 * [Cookie Policy](https://www.alienvault.com/legal/cookie-policy)
 * [Your Privacy Choices](https://about.att.com/csr/home/privacy/rights_choices.html)![California Consumer Privacy Act (CCPA) Opt-Out Icon](https://cdn-cybersecurity.att.com/images/uploads/icons/privacyoptions.svg)
