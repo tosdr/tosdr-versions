@@ -1,4 +1,4 @@
-![](~/media/ECG/1105Media/design/header_bg.png)
+![](~/media/ECG/1105Media/design/header_bg.ashx)
 
 [![1105 Media Your Growth Our Business](~/media/ECG/1105Media/1105medialogowhite.ashx)](https://1105media.com/home.aspx)
 ========================================================================================================================
@@ -381,5 +381,6 @@ Fax: (818) 936-0267
 Phone: (888) 357-5711  
 Email:** [**Privacy@1105media.com**](mailto:Privacy@1105media.com)
 
-![1105 Media Your Growth Our Business](~/media/ECG/1105Media/1105medialogowhite.ashx) ©  1105 Media Inc. See our [Privacy Policy](https://1105media.com/pages/privacy-policy.aspx), [Cookie Policy](https://1105media.com/pages/cookie-policy.aspx), and [Terms of Use](https://1105media.com/pages/terms-of-use.aspx)  | [Site Map](https://1105media.com/pages/sitemap.aspx) | [Locations](https://1105media.com/pages/locations.aspx) | [Contact Us](https://1105media.com/pages/contact-us.aspx)  
-[CA: Do Not Sell My Personal Info](https://1105media.com/pages/privacy-policy.aspx#_Toc520738059)
+![1105 Media Your Growth Our Business](~/media/ECG/1105Media/1105medialogowhite.ashx)
+
+© 1105 Media Inc. See our [Privacy Policy](https://1105media.com/pages/privacy-policy.aspx), [Cookie Policy](https://1105media.com/pages/cookie-policy.aspx), and [Terms of Use](https://1105media.com/pages/terms-of-use.aspx)  | [Site Map](https://1105media.com/pages/sitemap.aspx) | [Locations](https://1105media.com/pages/locations.aspx) | [Contact Us](https://1105media.com/pages/contact-us.aspx) | [CA: Do Not Sell My Personal Info](https://1105media.com/pages/privacy-policy.aspx#_Toc520738059)
