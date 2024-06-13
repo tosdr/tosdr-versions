@@ -175,11 +175,11 @@ $6.00 $13.00
 
 Sale
 
-8 oz
+1.7 oz
 
 Sale
 
-1.7 oz
+8 oz
 
 ADD TO TOTE
 
@@ -353,7 +353,7 @@ CHOOSE Size
 
 ### [Acai Pulp Facial Scrub](https://www.100percentpure.com/products/acai-pulp-facial-scrub)
 
-826 reviews (826)
+827 reviews (827)
 
 $26.60 $38.00
 
@@ -371,7 +371,7 @@ ADD TO TOTE
 
 ### [Multi-Vitamin + Antioxidants PM Facial Oil](https://www.100percentpure.com/products/multi-vitamin-antioxidants-pm-facial-oil)
 
-206 reviews (206)
+207 reviews (207)
 
 $43.50 $58.00
 
@@ -559,7 +559,7 @@ or 4 interest-free payments of **$0.00** with ![Klarna Logo](https://www.100perc
 
  
 
-[Friends And Family Sale - 20% OFF Sitewide USE CODE: BESTIES](https://www.100percentpure.com/collections/shop-all "https://www.100percentpure.com/collections/shop-all")
+[Last Day! Friends And Family Sale - 20% OFF Sitewide USE CODE: BESTIES](https://www.100percentpure.com/collections/shop-all "https://www.100percentpure.com/collections/shop-all")
 
 icon-account icon-account icon-arrow-right icon-arrow-down icon-arrow-next icon-arrow-prev icon-slideshow-next icon-slideshow-previous icon-comment icon-heart icon-cart icon-bag icon-close icon-glasses icon-menu icon-minus icon-play icon-plus social-seach social-facebook social-fancy social-instagram social-pinterest social-rss social-twitter
 
