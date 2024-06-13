@@ -39,10 +39,9 @@ Add to Home Screen
 
 [](https://apkpure.com/search "search")
 
-We use cookies and other technologies on this website to enhance your user experience.  
-By clicking any link on this page you are giving your consent to our [Privacy Policy](https://apkpure.com/privacy-policy.html "Privacy Policy") and [Cookies Policy](https://apkpure.com/cookie-policy.html "Cookies Policy").
+Our website uses necessary cookies to enable basic functions and optional cookies to help us to enhance your user experience. Learn more about our cookie policy by clicking "[Learn More](https://apkpure.com/cookie-policy.html "Learn More about Policies")".
 
-Ok I Agree [Learn More about Policies](https://apkpure.com/privacy-policy.html "Learn More about Policies")
+Accept All Only Necessary Cookies
 
 Privacy Policy
 ==============
@@ -178,35 +177,35 @@ APKPure is committed to protecting consumer privacy online. We believe that grea
 
 WhatsApp Messenger
 
-7.8](https://apkpure.com/whatsapp-android/com.whatsapp "WhatsApp Messenger")[![Facebook icon](https://static.apkpure.com/mobile/static/imgs/lazy.png "Facebook")
-
-Facebook
-
-5.1](https://apkpure.com/facebook/com.facebook.katana "Facebook")[![CapCut - Video Editor icon](https://static.apkpure.com/mobile/static/imgs/lazy.png "CapCut - Video Editor")
+7.8](https://apkpure.com/whatsapp-android/com.whatsapp "WhatsApp Messenger")[![CapCut - Video Editor icon](https://static.apkpure.com/mobile/static/imgs/lazy.png "CapCut - Video Editor")
 
 CapCut - Video Editor
 
-8.3](https://apkpure.com/capcut-for-android/com.lemon.lvoverseas "CapCut - Video Editor")[![YouTube icon](https://static.apkpure.com/mobile/static/imgs/lazy.png "YouTube")
+8.3](https://apkpure.com/capcut-for-android/com.lemon.lvoverseas "CapCut - Video Editor")[![TikTok icon](https://static.apkpure.com/mobile/static/imgs/lazy.png "TikTok")
 
-YouTube
+TikTok
 
-7.7](https://apkpure.com/youtube/com.google.android.youtube "YouTube")[![Free Fire MAX icon](https://static.apkpure.com/mobile/static/imgs/lazy.png "Free Fire MAX")
+8.2](https://apkpure.com/tiktok-musically/com.zhiliaoapp.musically "TikTok")[![Instagram icon](https://static.apkpure.com/mobile/static/imgs/lazy.png "Instagram")
 
-Free Fire MAX
+Instagram
 
-8.7](https://apkpure.com/free-fire-max-android/com.dts.freefiremax "Free Fire MAX")[![Free Fire icon](https://static.apkpure.com/mobile/static/imgs/lazy.png "Free Fire")
-
-Free Fire
-
-8.6](https://apkpure.com/garena-free-fire-android-il/com.dts.freefireth "Free Fire")[![Roblox icon](https://static.apkpure.com/mobile/static/imgs/lazy.png "Roblox")
+6.5](https://apkpure.com/instagram-android/com.instagram.android "Instagram")[![Roblox icon](https://static.apkpure.com/mobile/static/imgs/lazy.png "Roblox")
 
 Roblox
 
-8.1](https://apkpure.com/roblox-android/com.roblox.client "Roblox")[![Brawl Stars icon](https://static.apkpure.com/mobile/static/imgs/lazy.png "Brawl Stars")
+8.1](https://apkpure.com/roblox-android/com.roblox.client "Roblox")[![Free Fire icon](https://static.apkpure.com/mobile/static/imgs/lazy.png "Free Fire")
 
-Brawl Stars
+Free Fire
 
-8.0](https://apkpure.com/brawl-stars-android/com.supercell.brawlstars "Brawl Stars")
+8.6](https://apkpure.com/garena-free-fire-android-2024/com.dts.freefireth "Free Fire")[![EA SPORTS FC MOBILE 24 SOCCER icon](https://static.apkpure.com/mobile/static/imgs/lazy.png "EA SPORTS FC MOBILE 24 SOCCER")
+
+EA SPORTS FC MOBILE 24 SOCCER
+
+8.1](https://apkpure.com/ea-sports-fc-mobile-24/com.ea.gp.fifamobile "EA SPORTS FC MOBILE 24 SOCCER")[![Free Fire MAX icon](https://static.apkpure.com/mobile/static/imgs/lazy.png "Free Fire MAX")
+
+Free Fire MAX
+
+8.7](https://apkpure.com/free-fire-max-android/com.dts.freefiremax "Free Fire MAX")
 
 ![APKPure](https://static.apkpure.com/www/static/imgs/logo_new.png)
 
@@ -262,6 +261,8 @@ EN
 * [اردو](https://apkpure.com/ur/privacy-policy.html)
 * [বাংলা](https://apkpure.com/bn/privacy-policy.html)
 * [فارسی](https://apkpure.com/fa/privacy-policy.html)
+* [English(IT)](https://apkpure.it/privacy-policy.html)
+* [Italiano(IT)](https://apkpure.it/it/privacy-policy.html)
 
 * Facebook
 * Twitter
@@ -270,7 +271,7 @@ EN
 * WhatsApp
 * More
 
-                   
+                    
 
 Subscribe to APKPure
 
