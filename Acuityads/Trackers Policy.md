@@ -1,7 +1,3 @@
-Partner Webinar: The cookieless marketing future with SVP Tony Vlismas - June 11
-
-[Register](https://www.rockerbox.com/webinars?utm_medium=referral&utm_source=partner&utm_campaign=illumin)
-
 [![logo](https://illumin.com/wp-content/themes/illumin/images/logo.svg)](https://illumin.com/)
 
 * [Product](#)
@@ -29,9 +25,9 @@ Partner Webinar: The cookieless marketing future with SVP Tony Vlismas - June 11
         * [Guides](https://illumin.com/insights/guides/)
         * [Events](https://illumin.com/insights/events/)
         * [Podcasts & Webinars](https://illumin.com/insights/podcasts-webinars/)
-    * ![First-party data is crucial to success in a cookieless world](https://illumin.com/wp-content/uploads/2024/06/first-party-data-1-263x300.jpg)
+    * ![A closer look at modern digital political advertising](https://illumin.com/wp-content/uploads/2024/06/Political-advertising-263x300.png)
         
-        First-party data is crucial to success in a cookieless world[Read More](https://illumin.com/insights/blog/first-party-data-is-crucial-to-success/)
+        A closer look at modern digital political advertising[Read More](https://illumin.com/insights/blog/modern-digital-political-advertising/)
         
 * [Company](#)
     * [Company](#)
