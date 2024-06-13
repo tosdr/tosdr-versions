@@ -4,7 +4,7 @@
 
 [Adalo 2.0 is now available! Learn how you can build custom responsive apps without code!](https://www.adalo.com/adalo-2-0)
 
-[![](https://assets-global.website-files.com/5d123a0e13543973a9665271/5d123bef06b9a863a21eefa0_Adalo-Logo-Large-Transparent.webp)](https://www.adalo.com/)
+[![](https://cdn.prod.website-files.com/5d123a0e13543973a9665271/5d123bef06b9a863a21eefa0_Adalo-Logo-Large-Transparent.webp)](https://www.adalo.com/)
 
 Product
 
@@ -30,7 +30,7 @@ Support
 
 [Log In](https://app.adalo.com/)[sign up](https://app.adalo.com/signup)
 
-![Adalo Logo Shadow](https://assets-global.website-files.com/5d123a0e13543973a9665271/5d129fa97a65fc7deeb743de_Adalo-Final-Logo-Shadow.webp)
+![Adalo Logo Shadow](https://cdn.prod.website-files.com/5d123a0e13543973a9665271/5d129fa97a65fc7deeb743de_Adalo-Final-Logo-Shadow.webp)
 
 Privacy Policy
 ==============
@@ -107,16 +107,16 @@ St. Louis, MO 63101
   
 ‍
 
-![](https://assets-global.website-files.com/5d123a0e13543973a9665271/5d123a0e1354390a7c6652f8_Our-Story-Background-Image.png)
+![](https://cdn.prod.website-files.com/5d123a0e13543973a9665271/5d123a0e1354390a7c6652f8_Our-Story-Background-Image.png)
 
 What App Are You Going to Make Today?
 -------------------------------------
 
-[GET STARTED FOR FREE!](https://app.adalo.com/signup)![](https://assets-global.website-files.com/5d123a0e13543973a9665271/5d8bb7272a544b4c1e9aef3a_new-sign-up-prompt-graphic.png)
+[GET STARTED FOR FREE!](https://app.adalo.com/signup)![](https://cdn.prod.website-files.com/5d123a0e13543973a9665271/5d8bb7272a544b4c1e9aef3a_new-sign-up-prompt-graphic.png)
 
 👋 Join the Adalo Community
 
-[![](https://assets-global.website-files.com/5d123a0e13543973a9665271/5d123a0e13543973a16652d0_Twitter-Icon.png)](https://twitter.com/AdaloHQ)[![](https://assets-global.website-files.com/5d123a0e13543973a9665271/5d123a0e13543989156652cf_Facebook-Icon.png)](https://www.facebook.com/AdaloHQ)[![](https://assets-global.website-files.com/5d123a0e13543973a9665271/5d123a0e1354390a6c6652d1_LinkedIn.png)](https://www.linkedin.com/company/adalohq)[![](https://assets-global.website-files.com/5d123a0e13543973a9665271/5d123a0e135439273d6652dd_AngelList-Icon.png)](https://angel.co/adalo)[![](https://assets-global.website-files.com/5d123a0e13543973a9665271/5d123a0e135439084f6652ce_Email-Icon.png)](mailto:hello@adalo.com?subject=Hey%20Team%20Adalo!)
+[![](https://cdn.prod.website-files.com/5d123a0e13543973a9665271/5d123a0e13543973a16652d0_Twitter-Icon.png)](https://twitter.com/AdaloHQ)[![](https://cdn.prod.website-files.com/5d123a0e13543973a9665271/5d123a0e13543989156652cf_Facebook-Icon.png)](https://www.facebook.com/AdaloHQ)[![](https://cdn.prod.website-files.com/5d123a0e13543973a9665271/5d123a0e1354390a6c6652d1_LinkedIn.png)](https://www.linkedin.com/company/adalohq)[![](https://cdn.prod.website-files.com/5d123a0e13543973a9665271/5d123a0e135439273d6652dd_AngelList-Icon.png)](https://angel.co/adalo)[![](https://cdn.prod.website-files.com/5d123a0e13543973a9665271/5d123a0e135439084f6652ce_Email-Icon.png)](mailto:hello@adalo.com?subject=Hey%20Team%20Adalo!)
 
 Stay in the loop on everything Adalo! Subscribe today!
 
@@ -132,9 +132,9 @@ Links & Stuff
 
 Copyright 2024 Adalo, Inc. All rights reserved.
 
-![](https://assets-global.website-files.com/5d123a0e13543973a9665271/5d129df17a65fcf6e0b73e08_Adalo-Logo-Large-Transparent-White.webp)
+![](https://cdn.prod.website-files.com/5d123a0e13543973a9665271/5d129df17a65fcf6e0b73e08_Adalo-Logo-Large-Transparent-White.webp)
 
-[![](https://assets-global.website-files.com/5d123a0e13543973a9665271/5d129df17a65fcf6e0b73e08_Adalo-Logo-Large-Transparent-White.webp)](https://www.adalo.com/)
+[![](https://cdn.prod.website-files.com/5d123a0e13543973a9665271/5d129df17a65fcf6e0b73e08_Adalo-Logo-Large-Transparent-White.webp)](https://www.adalo.com/)
 
 Product
 
