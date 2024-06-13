@@ -1,4 +1,4 @@
-![](~/media/ECG/1105Media/design/header_bg.png)
+![](~/media/ECG/1105Media/design/header_bg.ashx)
 
 [![1105 Media Your Growth Our Business](~/media/ECG/1105Media/1105medialogowhite.ashx)](https://1105media.com/home.aspx)
 ========================================================================================================================
@@ -132,5 +132,6 @@ Further information about cookies can be found on the following websites:
 
 If you have any questions about the use of cookies on our websites, please read our [Privacy Policy](https://1105media.com/pages/privacy-policy.aspx) or email us at **[privacy@1105media.com](mailto:privacy@1105media.com)**
 
-![1105 Media Your Growth Our Business](~/media/ECG/1105Media/1105medialogowhite.ashx) ©  1105 Media Inc. See our [Privacy Policy](https://1105media.com/pages/privacy-policy.aspx), [Cookie Policy](https://1105media.com/pages/cookie-policy.aspx), and [Terms of Use](https://1105media.com/pages/terms-of-use.aspx)  | [Site Map](https://1105media.com/pages/sitemap.aspx) | [Locations](https://1105media.com/pages/locations.aspx) | [Contact Us](https://1105media.com/pages/contact-us.aspx)  
-[CA: Do Not Sell My Personal Info](https://1105media.com/pages/privacy-policy.aspx#_Toc520738059)
+![1105 Media Your Growth Our Business](~/media/ECG/1105Media/1105medialogowhite.ashx)
+
+© 1105 Media Inc. See our [Privacy Policy](https://1105media.com/pages/privacy-policy.aspx), [Cookie Policy](https://1105media.com/pages/cookie-policy.aspx), and [Terms of Use](https://1105media.com/pages/terms-of-use.aspx)  | [Site Map](https://1105media.com/pages/sitemap.aspx) | [Locations](https://1105media.com/pages/locations.aspx) | [Contact Us](https://1105media.com/pages/contact-us.aspx) | [CA: Do Not Sell My Personal Info](https://1105media.com/pages/privacy-policy.aspx#_Toc520738059)
