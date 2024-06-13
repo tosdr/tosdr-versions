@@ -255,9 +255,9 @@ Applied
     * [View Conditions A-Z](https://www.1800petmeds.com/all-conditions)
 * [Today's Deals](#)
     * [40% OFF Flea, Tick & Heartworm](https://www.1800petmeds.com/save-on-flea-tick-heartworm-promo240503.html)
+    
     * [Save 35% on Food with AutoShip](https://www.1800petmeds.com/get-35-off-food-with-autoship.html)
     * [35% OFF Badlands Ranch Food](https://www.1800petmeds.com/badlands-ranch-promo240506.html)
-    * [Save $25 OFF on orders $80+](https://www.1800petmeds.com/pet-appreciation-week-promo240701.html)
     
 * [Pet Health Resources](#)
     * [Pet Health Advice](https://www.1800petmeds.com/education)
@@ -868,9 +868,9 @@ Navigation [×](javascript:void(0))
 * ![](/on/demandware.static/Sites-1800petmeds-Site/-/default/dwe502a907/images/shoppingtag.svg) [Today's Deals](#)
     * [BackToday's Deals](#)
     * [40% OFF Flea, Tick & Heartworm](https://www.1800petmeds.com/save-on-flea-tick-heartworm-promo240503.html)
+    
     * [Save 35% on Food with AutoShip](https://www.1800petmeds.com/get-35-off-food-with-autoship.html)
     * [35% OFF Badlands Ranch Food](https://www.1800petmeds.com/badlands-ranch-promo240506.html)
-    * [Save $25 OFF on orders $80+](https://www.1800petmeds.com/pet-appreciation-week-promo240701.html)
     
 * ![](/on/demandware.static/Sites-1800petmeds-Site/-/default/dw4dabddd8/images/book.svg) [Pet Health Advice](https://www.1800petmeds.com/education)
 * ![](/on/demandware.static/Sites-1800petmeds-Site/-/default/dw1708a9e3/images/livestream.svg) [Talk to a vet](https://www.petmeds.com/vetlive)
