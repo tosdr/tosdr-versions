@@ -1,4 +1,4 @@
- [![Abilene Christian University Logo](https://mllcnzvqahci.i.optimole.com/w:auto/h:auto/q:mauto/f:best/https://acu.edu/wp-content/uploads/2024/04/ACU_HorizontalLogo-White-e1611259199560.png)](https://acu.edu/)[![Abilene Christian University Logo Mark](https://mllcnzvqahci.i.optimole.com/w:auto/h:auto/q:mauto/f:best/https://acu.edu/wp-content/uploads/2024/04/ACU_HorizontalLogo-White-e1611259199560.png)](https://acu.edu/)
+ [![Abilene Christian University Logo](https://mllcnzvqahci.i.optimole.com/cb:a79E.7a2e/w:auto/h:auto/q:mauto/f:best/https://acu.edu/wp-content/uploads/2024/04/ACU_HorizontalLogo-White-e1611259199560.png)](https://acu.edu/)[![Abilene Christian University Logo Mark](https://mllcnzvqahci.i.optimole.com/cb:a79E.7a2e/w:auto/h:auto/q:mauto/f:best/https://acu.edu/wp-content/uploads/2024/04/ACU_HorizontalLogo-White-e1611259199560.png)](https://acu.edu/)
 
 * [Apply](https://acu.edu/apply/)
 * [Inquire](https://acu.edu/inquire/)
@@ -447,7 +447,7 @@ In order to return to the university following an involuntary medical withdrawal
 
 [**Back to Top**](#top)
 
-[![Abilene Christian University](https://mllcnzvqahci.i.optimole.com/w:auto/h:auto/q:mauto/f:best/https://acu.edu/wp-content/uploads/2024/04/ACU_VerticalLogo-White.png)](https://acu.edu/) [![Abilene Christian University](data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20600%20100%22%20width%3D%22600%22%20height%3D%22100%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Crect%20width%3D%22600%22%20height%3D%22100%22%20fill%3D%22transparent%22%2F%3E%3C%2Fsvg%3E)](https://acu.edu/)
+[![Abilene Christian University](https://mllcnzvqahci.i.optimole.com/cb:a79E.7a2e/w:auto/h:auto/q:mauto/f:best/https://acu.edu/wp-content/uploads/2024/04/ACU_VerticalLogo-White.png)](https://acu.edu/) [![Abilene Christian University](data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20600%20100%22%20width%3D%22600%22%20height%3D%22100%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Crect%20width%3D%22600%22%20height%3D%22100%22%20fill%3D%22transparent%22%2F%3E%3C%2Fsvg%3E)](https://acu.edu/)
 
 * [](https://www.facebook.com/abilenechristian "facebook footer icon")
 * [](https://www.instagram.com/acuedu/ "instagram footer icon")
