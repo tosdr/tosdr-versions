@@ -5,7 +5,7 @@
 * [Contact](https://www.alienvault.com/contact)
 * [Support](https://www.alienvault.com/support)
 
-[![LevelBlue](https://cdn-cybersecurity.att.com/images/uploads/logos/lb-logo-black.svg)](https://www.alienvault.com/)
+[![LevelBlue logo](https://cdn-cybersecurity.att.com/images/uploads/logos/lb-logo-black.svg)](https://www.alienvault.com/)
 
 * 
 * Products & Services
@@ -60,9 +60,9 @@
             * [Proprietary Research](https://www.alienvault.com/insights-report)
             * [Daily Blog](https://www.alienvault.com/blogs)
             
-        * [Threat Intelligence Unlock timely, tactical threat intelligence](https://www.alienvault.com/alien-labs)
+        * [Threat Intelligence Unlock timely, tactical threat intelligence](https://www.alienvault.com/levelblue-labs)
             
-            * [LevelBlue Labs](https://www.alienvault.com/alien-labs)
+            * [LevelBlue Labs](https://www.alienvault.com/levelblue-labs)
             * [LevelBlue Labs Open Threat Exchange](https://www.alienvault.com/open-threat-exchange)
             
     
@@ -113,7 +113,7 @@
             
             ##### Help keep employees connected and protected virtually anywhere
             
-            [Learn more](https://cdn-cybersecurity.att.com/docs/product-briefs/uem-endpoint-management-vmware-workspace-one.pdf)
+            [Learn more](https://cyber.levelblue.com/m/6106c2f72cc6634c/original/PB-Keep-Employees-Connected-Anywhere.pdf)
             
             [View all Product Briefs](https://www.alienvault.com/resource-center#content_product-brief)
             
@@ -123,7 +123,7 @@
             
             ##### Protect external-facing services against DDoS attacks and keep your business running
             
-            [Learn more](https://cdn-cybersecurity.att.com/docs/solution-briefs/protect-external-facing-services-against-ddos.pdf)
+            [Learn more](https://cyber.levelblue.com/m/787e203a51011e42/original/SB-Protect-External-Facing-From-DDOS.pdf)
             
             [View all Solution Briefs](https://www.alienvault.com/resource-center#content_solution-brief)
             
@@ -131,9 +131,9 @@
             
             video
             
-            ##### AT&T Cybersecurity Training Portal (ACT)
+            ##### LevelBlue Company Announcement at RSAC 2024
             
-            [Learn more](https://cybersecurity.att.com/resource-center/videos/att-cybersecurity-training-portal-act)
+            [Learn more](https://cybersecurity.att.com/resource-center/videos/levelblue-company-announcement-at-rsac-2024)
             
             [View all Videos](https://www.alienvault.com/resource-center#content_video)
             
@@ -141,9 +141,9 @@
             
             Customer Story
             
-            ##### DDoS attacks solved by Prolexic DDoS Cybersecurity Services
+            ##### LevelBlue Helps Small Firm with Vulnerability Management and Web Application Protection
             
-            [Learn more](https://cybersecurity.att.com/resource-center/case-studies/ddos-attacks-solved-by-prolexic-ddos-cybersecurity-services)
+            [Learn more](https://cyber.levelblue.com/m/61627ac93a01665b/original/CS-Investment-Firm-Manages-Vulnerabilities-with-MVP.pdf)
             
             [View all Customer Stories](https://www.alienvault.com/resource-center#content_customer-stories)
             
@@ -163,9 +163,9 @@
             
             Blog: Security Essentials
             
-            ##### Dissecting a Multi-stage Phishing Attack.
+            ##### Social Media Cybersecurity: Don’t Let Employees Be Your Weakest Link
             
-            [Learn more](https://cybersecurity.att.com/blogs/security-essentials/dissecting-a-multi-stage-phishing-attack)
+            [Learn more](https://cybersecurity.att.com/blogs/security-essentials/social-media-cybersecurity-dont-let-employees-be-your-weakest-link)
             
             [View all Blogs](https://www.alienvault.com/blogs)
             
@@ -173,9 +173,9 @@
             
             ebook
             
-            ##### Zero Trust Security
+            ##### Cloud Detection and Response: Market Growth as an Enterprise Requirement
             
-            [Learn more](https://cybersecurity.att.com/resource-center/ebook/zero-trust-security-ebook)
+            [Learn more](https://cybersecurity.att.com/resource-center/ebook/cloud-detection-and-response-market-growth-as-an-enterprise-requirement)
             
             [View all eBooks](https://www.alienvault.com/resource-center#content_ebook)
             
@@ -183,7 +183,7 @@
             
             webcast
             
-            ##### End to End Visibility and Control
+            ##### Achieving End-to-End Visibility and Control
             
             [Learn more](https://cybersecurity.att.com/resource-center/webcasts/end-to-end-visibility-and-control)
             
@@ -413,18 +413,18 @@ Customer Resources
 Cookie Policy
 =============
 
-Last modified: May 16, 2018
+Last modified: May 6, 2024
 
-This cookie policy (“Cookie Policy“) describes the use of Cookies (as defined below) by AlienVault, Inc. and its respective subsidiaries (“AlienVault,” “we,” “us,” or “our,” if not explicitly referring to one company).
+This cookie policy (“Cookie Policy“) describes the use of Cookies (as defined below) by LevelBlue. and its respective subsidiaries (“LevelBlue,” “we,” “us,” or “our,” if not explicitly referring to one company).
 
 Please remember that your use of the Sites is at all times subject to the [Terms of Use](https://www.alienvault.com/terms/website-terms-of-use07may2018) and [Privacy Policy](https://www.alienvault.com/legal/privacy-policy), which incorporates this Cookie Policy. Any terms we use in this Cookie Policy without defining them have the definitions given to them in the [Terms of Use](https://www.alienvault.com/terms/website-terms-of-use07may2018) and [Privacy Policy](https://www.alienvault.com/legal/privacy-policy).
 
-HOW ALIENVAULT USES COOKIES
----------------------------
+HOW LEVELBLUE USES COOKIES
+--------------------------
 
-The Sites use cookies and similar technologies such as pixel tags, web beacons, clear GIFs, JavaScript, and local storage. Cookies are small files – usually consisting of letters and numbers – placed on Your Device, when you use that device to visit a Site. We will refer to cookies and similar technologies simply as “**Cookies**” for the remainder of this Cookie Policy. We use Cookies to enable our servers to recognize your web browser and tell us how and when you visit and otherwise use the Sites through the internet, to analyze trends, and to learn about our user base.
+The SiteS use cookies and similar technologies such as pixel tags, web beacons, clear GIFs, JavaScript, and local storage. Cookies are small files – usually consisting of letters and numbers – placed on Your Device, when you use that device to visit a Site. We will refer to cookies and similar technologies simply as “**Cookies**” for the remainder of this Cookie Policy. We use Cookies to enable our servers to recognize your web browser and tell us how and when you visit and otherwise use the Sites through the internet, to analyze trends, and to learn about our user base.
 
-We may combine non-personally identifiable information collected through Cookies with other Personal Information that we have about you, for example, to tell us who you are or whether you have an account. We may also supplement the information we collect from you with information received from third parties in order to enhance our Sites, or to offer you information that we believe may be of interest to you. Where we use Cookies to collect information that is personally identifiable, or that can become personally identifiable if we combine it with other information, the [AlienVault Privacy Policy](https://www.alienvault.com/legal/privacy-policy) will apply in addition to this Cookie Policy.
+We may combine non-personally identifiable information collected through Cookies with other Personal Information that we have about you, for example, to tell us who you are or whether you have an account. We may also supplement the information we collect from you with information received from third parties in order to enhance our Sites, or to offer you information that we believe may be of interest to you. Where we use Cookies to collect information that is personally identifiable, or that can become personally identifiable if we combine it with other information, the LevelBlue Privacy Policy will apply in addition to this Cookie Policy.
 
 You can control and/or delete Cookies as you wish – for details, see [www.aboutcookies.org](http://www.aboutcookies.org/). Most browsers have an option for turning off the Cookie feature, which will prevent your browser from accepting new Cookies, as well as (depending on the sophistication of your browser software) allowing you to decide on acceptance of each new cookie in a variety of ways. You can delete all Cookies that are already on your computer and you can set most browsers to prevent them from being placed. If you do this, however, you may have to manually adjust some preferences every time you visit a site and some services and functionalities may not work. We strongly recommend that you leave Cookies active, because they enable you to take advantage of the most attractive features of the Sites.
 
@@ -467,13 +467,13 @@ If you have any queries regarding this Cookie Policy please contact us at [dl-cy
 
 From the Blog
 
-![Shigraf Aijaz](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
+![Karoline Gore](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
 
-#### Shigraf Aijaz
+#### Karoline Gore
 
-May 20, 2024
+Jun 12, 2024
 
-### [Dissecting a Multi-stage Phishing Attack.](https://cybersecurity.att.com/blogs/security-essentials/dissecting-a-multi-stage-phishing-attack)
+### [Social Media Cybersecurity: Don’t Let Employees Be Your Weakest Link](https://cybersecurity.att.com/blogs/security-essentials/social-media-cybersecurity-dont-let-employees-be-your-weakest-link)
 
 [Explore All Blog Posts ›](https://www.alienvault.com/blogs)
 
@@ -532,7 +532,7 @@ Customer Success
 © Copyright 2024
 
 * [Privacy Policy](https://www.alienvault.com/legal/privacy-policy)
-* [Website Terms of Use](https://www.alienvault.com/terms/website-terms-of-use07may2018)
+* [Website Terms of Use](https://www.alienvault.com/terms/website)
 * [GDPR](https://www.alienvault.com/legal/gdpr)
 * [Cookie Policy](https://www.alienvault.com/legal/cookie-policy)
 * [Your Privacy Choices](https://about.att.com/csr/home/privacy/rights_choices.html)![California Consumer Privacy Act (CCPA) Opt-Out Icon](https://cdn-cybersecurity.att.com/images/uploads/icons/privacyoptions.svg)
