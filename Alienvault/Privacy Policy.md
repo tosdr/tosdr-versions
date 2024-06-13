@@ -5,7 +5,7 @@
 * [Contact](https://www.alienvault.com/contact)
 * [Support](https://www.alienvault.com/support)
 
-[![LevelBlue](https://cdn-cybersecurity.att.com/images/uploads/logos/lb-logo-black.svg)](https://www.alienvault.com/)
+[![LevelBlue logo](https://cdn-cybersecurity.att.com/images/uploads/logos/lb-logo-black.svg)](https://www.alienvault.com/)
 
 * 
 * Products & Services
@@ -60,9 +60,9 @@
             * [Proprietary Research](https://www.alienvault.com/insights-report)
             * [Daily Blog](https://www.alienvault.com/blogs)
             
-        * [Threat Intelligence Unlock timely, tactical threat intelligence](https://www.alienvault.com/alien-labs)
+        * [Threat Intelligence Unlock timely, tactical threat intelligence](https://www.alienvault.com/levelblue-labs)
             
-            * [LevelBlue Labs](https://www.alienvault.com/alien-labs)
+            * [LevelBlue Labs](https://www.alienvault.com/levelblue-labs)
             * [LevelBlue Labs Open Threat Exchange](https://www.alienvault.com/open-threat-exchange)
             
     
@@ -113,7 +113,7 @@
             
             ##### Help keep employees connected and protected virtually anywhere
             
-            [Learn more](https://cdn-cybersecurity.att.com/docs/product-briefs/uem-endpoint-management-vmware-workspace-one.pdf)
+            [Learn more](https://cyber.levelblue.com/m/6106c2f72cc6634c/original/PB-Keep-Employees-Connected-Anywhere.pdf)
             
             [View all Product Briefs](https://www.alienvault.com/resource-center#content_product-brief)
             
@@ -123,7 +123,7 @@
             
             ##### Protect external-facing services against DDoS attacks and keep your business running
             
-            [Learn more](https://cdn-cybersecurity.att.com/docs/solution-briefs/protect-external-facing-services-against-ddos.pdf)
+            [Learn more](https://cyber.levelblue.com/m/787e203a51011e42/original/SB-Protect-External-Facing-From-DDOS.pdf)
             
             [View all Solution Briefs](https://www.alienvault.com/resource-center#content_solution-brief)
             
@@ -131,9 +131,9 @@
             
             video
             
-            ##### AT&T Cybersecurity Training Portal (ACT)
+            ##### LevelBlue Company Announcement at RSAC 2024
             
-            [Learn more](https://cybersecurity.att.com/resource-center/videos/att-cybersecurity-training-portal-act)
+            [Learn more](https://cybersecurity.att.com/resource-center/videos/levelblue-company-announcement-at-rsac-2024)
             
             [View all Videos](https://www.alienvault.com/resource-center#content_video)
             
@@ -141,9 +141,9 @@
             
             Customer Story
             
-            ##### DDoS attacks solved by Prolexic DDoS Cybersecurity Services
+            ##### LevelBlue Helps Small Firm with Vulnerability Management and Web Application Protection
             
-            [Learn more](https://cybersecurity.att.com/resource-center/case-studies/ddos-attacks-solved-by-prolexic-ddos-cybersecurity-services)
+            [Learn more](https://cyber.levelblue.com/m/61627ac93a01665b/original/CS-Investment-Firm-Manages-Vulnerabilities-with-MVP.pdf)
             
             [View all Customer Stories](https://www.alienvault.com/resource-center#content_customer-stories)
             
@@ -163,9 +163,9 @@
             
             Blog: Security Essentials
             
-            ##### Dissecting a Multi-stage Phishing Attack.
+            ##### Social Media Cybersecurity: Don’t Let Employees Be Your Weakest Link
             
-            [Learn more](https://cybersecurity.att.com/blogs/security-essentials/dissecting-a-multi-stage-phishing-attack)
+            [Learn more](https://cybersecurity.att.com/blogs/security-essentials/social-media-cybersecurity-dont-let-employees-be-your-weakest-link)
             
             [View all Blogs](https://www.alienvault.com/blogs)
             
@@ -173,9 +173,9 @@
             
             ebook
             
-            ##### Zero Trust Security
+            ##### Cloud Detection and Response: Market Growth as an Enterprise Requirement
             
-            [Learn more](https://cybersecurity.att.com/resource-center/ebook/zero-trust-security-ebook)
+            [Learn more](https://cybersecurity.att.com/resource-center/ebook/cloud-detection-and-response-market-growth-as-an-enterprise-requirement)
             
             [View all eBooks](https://www.alienvault.com/resource-center#content_ebook)
             
@@ -183,7 +183,7 @@
             
             webcast
             
-            ##### End to End Visibility and Control
+            ##### Achieving End-to-End Visibility and Control
             
             [Learn more](https://cybersecurity.att.com/resource-center/webcasts/end-to-end-visibility-and-control)
             
@@ -410,20 +410,20 @@ Customer Resources
 * [Documentation](https://www.alienvault.com/documentation)
 * [Training](https://www.alienvault.com/training)
 
-GDPR and AlienVault
-===================
+GDPR and LevelBlue
+==================
 
-As you may be aware, the new EU data privacy regulation called the General Data Protection Regulation (GDPR) became effective on May 25, 2018. The GDPR strengthens the privacy rights granted to EU individuals and introduces new and enhanced obligations on how organizations worldwide will collect, use, and manage personal data.
+The European Union's data privacy regulation called the General Data Protection Regulation (GDPR) became effective on May 25, 2018. The GDPR strengthens the privacy rights granted to EU individuals and introduces new and enhanced obligations on how organizations worldwide will collect, use, and manage personal data.
 
 (If interested, here’s additional information about GDPR: [https://www.dataiq.co.uk/blog/summary-eu-general-data-protection-regulation](https://www.dataiq.co.uk/blog/summary-eu-general-data-protection-regulation))
 
-**AlienVault Customers:**
+**LevelBlue Customers:**
 
-If you are a customer of AlienVault, you can access our Customer Data Processing Addendum here: [https://cybersecurity.att.com/legal/gdpr/customers](https://www.alienvault.com/legal/gdpr/customers)
+If you are a customer of LevelBlue, you can access our Customer Data Processing Addendum here: [https://cybersecurity.att.com/legal/gdpr/customers](https://www.alienvault.com/legal/gdpr/customers)
 
-**AlienVault Vendors, Partners, and Data Processors:**
+**LevelBlue Vendors, Partners, and Data Processors:**
 
-If you handle data on behalf of AlienVault as a Vendor, Partner, or Data Processor, you can access our Vendor/Partner Data Processing Addendum here: [https://cybersecurity.att.com/legal/gdpr/vendors-partners](https://www.alienvault.com/legal/gdpr/vendors-partners)
+If you handle data on behalf of LevelBlue as a Vendor, Partner, or Data Processor, you can access our Vendor/Partner Data Processing Addendum here: [https://cybersecurity.att.com/legal/gdpr/vendors-partners](https://www.alienvault.com/legal/gdpr/vendors-partners)
 
 **Data Processors:**
 
@@ -435,13 +435,13 @@ If you wish to view a current list of all Data Processors, click here: [https://
 
 From the Blog
 
-![Shigraf Aijaz](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
+![Karoline Gore](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
 
-#### Shigraf Aijaz
+#### Karoline Gore
 
-May 20, 2024
+Jun 12, 2024
 
-### [Dissecting a Multi-stage Phishing Attack.](https://cybersecurity.att.com/blogs/security-essentials/dissecting-a-multi-stage-phishing-attack)
+### [Social Media Cybersecurity: Don’t Let Employees Be Your Weakest Link](https://cybersecurity.att.com/blogs/security-essentials/social-media-cybersecurity-dont-let-employees-be-your-weakest-link)
 
 [Explore All Blog Posts ›](https://www.alienvault.com/blogs)
 
@@ -500,7 +500,7 @@ Customer Success
 © Copyright 2024
 
 * [Privacy Policy](https://www.alienvault.com/legal/privacy-policy)
-* [Website Terms of Use](https://www.alienvault.com/terms/website-terms-of-use07may2018)
+* [Website Terms of Use](https://www.alienvault.com/terms/website)
 * [GDPR](https://www.alienvault.com/legal/gdpr)
 * [Cookie Policy](https://www.alienvault.com/legal/cookie-policy)
 * [Your Privacy Choices](https://about.att.com/csr/home/privacy/rights_choices.html)![California Consumer Privacy Act (CCPA) Opt-Out Icon](https://cdn-cybersecurity.att.com/images/uploads/icons/privacyoptions.svg)
