@@ -77,7 +77,7 @@
         * [SSD is Not Showing Up on a Windows Computer](https://7datarecovery.com/blog/ssd-not-showing-up-windows/)
         * [How to Fix Corrupted SSD Without Losing Your Data](https://7datarecovery.com/blog/how-to-fix-corrupted-ssd/)
 * [Best Software](#)
-    * [Best Data Recovery Software](https://7datarecovery.com/best-recovery-apps/)
+    * [Best Data Recovery Software for Windows](https://7datarecovery.com/best-recovery-apps/ "Best Data Recovery Software for Windows")
     * [Best Data Recovery Software for Mac](https://7datarecovery.com/best-recovery-apps-mac/)
     * [Best Data Recovery Software for Android](https://7datarecovery.com/android-data-recovery/)
     * [Best SD Card Recovery Software](https://7datarecovery.com/sd-memory-card-recovery/)
@@ -122,7 +122,7 @@ The personal information that you are asked to provide, and the reasons why you 
 
 If you contact us directly, we may receive additional information about you such as your name, email address, phone number, the contents of the message and/or attachments you may send us, and any other information you may choose to provide.
 
-When you register for an Account, we may ask for your contact information, including items such as name, company name, address, email address, and telephone number.
+When you leave a comment, we ask for your contact information, including items such as name and email address.
 
   
 
@@ -136,8 +136,6 @@ We use the information we collect in various ways, including to:
 * Provide, operate, and maintain our website
 * Improve, personalize, and expand our website
 * Understand and analyze how you use our website
-* Develop new products, services, features, and functionality
-* Communicate with you, either directly or through one of our partners, including for customer service, to provide you with updates and other information relating to the website, and for marketing and promotional purposes
 * Send you emails
 * Find and prevent fraud
 
