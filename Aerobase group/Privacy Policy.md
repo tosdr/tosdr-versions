@@ -156,14 +156,14 @@ This document was last updated on January 1, 2014
 
 * Recent:
 
-* ![AeroBase Group, Inc.](/public/images/140xNxlogo.png.pagespeed.ic.on3YSwSbvO.png "AeroBase Group, Inc. Logo")
+* ![AeroBase Group, Inc.](/public/images/logo.png "AeroBase Group, Inc. Logo")
 * ISO 9001:2015 + AS9120B Phone: 1 (321) 802-5889  
     Fax: 1 (321) 733-7477
     
     3555 Agricultural Center Dr.  
     St. Augustine, FL  32092
     
-     [![facebook](/public/images/social/xfacebook.png.pagespeed.ic.X5PbMiXunI.png "Connect on facebook")](https://facebook.com/AeroBaseGroup)[![twitter](/public/images/social/xtwitter.png.pagespeed.ic.uP_XWz6uhv.png "Connect on twitter")](https://twitter.com/aerobasegroup)[![linkedin](/public/images/social/xlinkedin.png.pagespeed.ic.jlFzLPVQZ9.png "Connect on LinkedIn")](https://www.linkedin.com/company/aerobase-group-inc/about/)[![YouTube](/public/images/social/24xNxyoutube.png.pagespeed.ic.FFKLi-lyj0.png "Watch on YouTube")](https://www.youtube.com/user/AeroBaseGroup/)
+     [![facebook](/public/images/social/facebook.png "Connect on facebook")](https://facebook.com/AeroBaseGroup)[![twitter](/public/images/social/twitter.png "Connect on twitter")](https://twitter.com/aerobasegroup)[![linkedin](/public/images/social/linkedin.png "Connect on LinkedIn")](https://www.linkedin.com/company/aerobase-group-inc/about/)[![YouTube](/public/images/social/youtube.png "Watch on YouTube")](https://www.youtube.com/user/AeroBaseGroup/)
     
 
 * **Company**
@@ -196,40 +196,40 @@ This document was last updated on January 1, 2014
 * [Recently Updated RSS](https://aerobasegroup.com/rss/)
 * [New Images RSS](https://aerobasegroup.com/rss-images/)
 
-[![ISO 9001:2015 + AS9120B Certified Supplier](https://aerobasegroup.com/public/images/Nx140xAS9120_ISO_9001.png.pagespeed.ic.nX4Ln2t01K.png "ISO 9001:2015 + AS9120B")](https://aerobasegroup.com/quality)
+[![ISO 9001:2015 + AS9120B Certified Supplier](https://aerobasegroup.com/public/images/AS9120_ISO_9001.png "ISO 9001:2015 + AS9120B")](https://aerobasegroup.com/quality)
 
 #### Defense News
 
-* [US Air Force stages dogfights with AI-flown fighter jet](https://www.defensenews.com/air/2024/04/19/us-air-force-stages-dogfights-with-ai-flown-fighter-jet/)  
-    04/19/24 04:57pm  
+* [Osprey fleet won’t return to full flight operations until 2025](https://www.defensenews.com/news/your-air-force/2024/06/12/osprey-fleet-wont-return-to-full-flight-operations-until-2025/)  
+    06/12/24 05:38pm  
     
-    The U.S. Air Force Test Pilot School's X-62A VISTA jet -- a heavily modified F-16 fighter that can fly autonomously -- carried out the first ever dogfights with an artificial intelligence-flown jet last September. The service and DARPA hope it will help build trust in autonomous flight and lead to the creation of aircraft such as Collaborative Combat Aircraft. (Alex Lloyd/Air Force)
+    A Marine Corps MV-22B Osprey tiltrotor aircraft takes off from the amphibious assault ship USS Wasp to establish a forward base of operations in Sweden during Baltic Operations 24 in the Atlantic Ocean, June 9, 2024. (Lance Cpl. John Allen/Marine Corps)
     
-* [Nigeria expects first batch of Leonardo M-346 fighter jets this year](https://www.defensenews.com/global/europe/2024/04/19/nigeria-expects-first-batch-of-leonardo-m-346-fighter-jets-this-year/)  
-    04/19/24 12:12pm  
+* [Congress still waiting on Osprey crash, safety documents from Pentagon](https://www.defensenews.com/news/pentagon-congress/2024/06/12/congress-still-waiting-on-osprey-crash-safety-documents-from-pentagon/)  
+    06/12/24 10:28am  
     
-    Italian firm Leonardo produces the M-346 trainer jet and a fighter attack version. (Courtesy of Leonardo)
+    A U.S. Marine Corps MV-22 Osprey aircraft taxies behind another Osprey at Andrews Air Force Base, Md., April 24, 2021. (Patrick Semansky/AP)
     
-* [India proffers HAL its largest-ever tender: 97 Tejas fighters](https://www.defensenews.com/global/asia-pacific/2024/04/19/india-proffers-hal-its-largest-ever-tender-97-tejas-fighters/)  
-    04/19/24 11:32am  
+* [NATO allies practice dogfighting as Russia gains ground in Ukraine](https://www.defensenews.com/news/your-air-force/2024/06/11/nato-allies-practice-dogfighting-as-russia-gains-ground-in-ukraine/)  
+    06/11/24 05:00pm  
     
-    An Indian Air Force Tejas rolls inverted during its aerial display at the 2022 Singapore Airshow. (Mike Yeo/Staff)
+    A U.S. Air Force airman signals an F-16 Fighting Falcon to stop as part of a basic fighter maneuvers exercise held on Ramstein Air Base, Germany, June 6, 2024. (Senior Airman Christian Conrad/Air Force)
     
-* [From customer to sanctioned ‘proliferator,’ drones extend Iran’s reach](https://www.defensenews.com/unmanned/2024/04/19/from-customer-to-sanctioned-proliferator-drones-extend-irans-reach/)  
-    04/19/24 11:13am  
+* [Air National Guard gets service’s first combat-ready F-15EX](https://www.defensenews.com/air/2024/06/10/air-national-guard-gets-services-first-combat-ready-f-15ex/)  
+    06/10/24 03:31pm  
     
-    A truck carries Iranian drones during an annual military parade in Tehran on Sept. 22, 2023. (AFP/Getty Images)
+    Oregon Air National Guard pilots prepare for takeoff in the newest F-15EX in Berkley, Missouri, June 5, 2024. (Aaron Perkins/National Guard)
     
 
 Recent parts by keyword  
 
-* [MD8251A/B](https://aerobasegroup.com/search/?term=MD8251A%2FB)
-* [500-BW](https://aerobasegroup.com/search/?term=500-BW)
-* [BACB30NE3-4](https://aerobasegroup.com/search/?term=BACB30NE3-4)
-* [MIL-I-631-G](https://aerobasegroup.com/search/?term=MIL-I-631-G)
-* [40mm](https://aerobasegroup.com/search/?term=40mm)
-* [100-C](https://aerobasegroup.com/search/?term=100-C)
-* [A122-6B-9Q8-0400](https://aerobasegroup.com/search/?term=A-1226B+9Q+8040-00-290-4301)
+* [nas617-4](https://aerobasegroup.com/search/?term=nas617-4)
+* [W202-](https://aerobasegroup.com/search/?term=W202-)
+* [W202](https://aerobasegroup.com/search/?term=W202)
+* [ta713](https://aerobasegroup.com/search/?term=ta713)
+* [ms35214-11](https://aerobasegroup.com/search/?term=ms35214-11)
+* [AN6231A](https://aerobasegroup.com/search/?term=AN6231A)
+* [CA053](https://aerobasegroup.com/search/?term=CA053)
 
 The AeroBase Group Family ..
 
