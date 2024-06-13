@@ -311,9 +311,9 @@ Resources
 
 [Pricing](https://airtable.com/pricing)
 
-[Contact Sales](https://airtable.com/contact-sales?ref=htcs.nb)[Sign in](https://airtable.com/login)
+[Contact Sales](https://www.airtable.com/contact-sales?ref=htcs.nb)[Sign in](https://airtable.com/login)
 
-[Contact Sales](https://airtable.com/contact-sales?ref=htcs.nb)[Sign up for freeSign up](https://airtable.com/signup)[Sign in](https://airtable.com/login)
+[Contact Sales](https://www.airtable.com/contact-sales?ref=htcs.nb)[Sign up for freeSign up](https://airtable.com/signup)[Sign in](https://airtable.com/login)
 
 Cookie Policy
 =============
@@ -388,7 +388,7 @@ Opting out via the above mechanisms does not mean you will no longer receive onl
 * [Solutions](https://www.airtable.com/solutions)
 * [Resources](https://www.airtable.com/lp/resources)
 * [Pricing](https://www.airtable.com/pricing)
-* [Contact Sales](https://airtable.com/contact-sales?ref=htcs.sf)
+* [Contact Sales](https://www.airtable.com/contact-sales?ref=htcs.sf)
 
 * [Facebook](https://facebook.com/airtableapp)
 * [Linkedin](https://linkedin.com/company/airtable)
