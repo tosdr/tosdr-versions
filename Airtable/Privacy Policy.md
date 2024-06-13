@@ -311,9 +311,9 @@ Resources
 
 [Pricing](https://airtable.com/pricing)
 
-[Contact Sales](https://airtable.com/contact-sales?ref=htcs.nb)[Sign in](https://airtable.com/login)
+[Contact Sales](https://www.airtable.com/contact-sales?ref=htcs.nb)[Sign in](https://airtable.com/login)
 
-[Contact Sales](https://airtable.com/contact-sales?ref=htcs.nb)[Sign up for freeSign up](https://airtable.com/signup)[Sign in](https://airtable.com/login)
+[Contact Sales](https://www.airtable.com/contact-sales?ref=htcs.nb)[Sign up for freeSign up](https://airtable.com/signup)[Sign in](https://airtable.com/login)
 
 Table of Contents
 
@@ -352,7 +352,7 @@ Table of Contents
 Privacy Policy
 ==============
 
-Last Updated: January 29, 2024.  
+Last Updated: January 29, 2024  
 You can see our previous Privacy Policies [here](https://airtable.com/appmP5KgnPlmKHR0R/shrRaH0revJH0G1Ii/tblSsVJGmAjzj7jEm/viwdn9g64MUXCkNCO?_gl=1*lac665*_ga*MTEyNTg1OTM1Mi4xNjc0Njk2ODA3*_ga_VJY8J9RFZM*MTcwNjMwMjYyMS4xODcuMS4xNzA2MzAyNzQ1LjU5LjAuMA..).  
 [FR](https://www.airtable.com/company/privacy/fr) | [DE](https://www.airtable.com/company/privacy/de)
 
@@ -668,7 +668,7 @@ You may submit a request by contacting us at [privacy@airtable.com](mailto:priva
 * [Solutions](https://www.airtable.com/solutions)
 * [Resources](https://www.airtable.com/lp/resources)
 * [Pricing](https://www.airtable.com/pricing)
-* [Contact Sales](https://airtable.com/contact-sales?ref=htcs.sf)
+* [Contact Sales](https://www.airtable.com/contact-sales?ref=htcs.sf)
 
 * [Facebook](https://facebook.com/airtableapp)
 * [Linkedin](https://linkedin.com/company/airtable)
