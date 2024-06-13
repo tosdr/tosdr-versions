@@ -704,17 +704,17 @@ David Higgins Monteregie Metro 29/12/2022
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Rob and Kevin offered friendly and efficient service. I would use them again!
+Rob & kev fantastic job great guys great service 15 out of 10
 
-Cindy Jack Montreal Ouest 22/12/2022
+Maitre D Montreal Ouest 22/12/2022
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Rob & kev fantastic job great guys great service 15 out of 10
+Rob and Kevin offered friendly and efficient service. I would use them again!
 
-Maitre D Montreal Ouest 22/12/2022
+Cindy Jack Montreal Ouest 22/12/2022
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -744,57 +744,9 @@ Pierre Denis Monteregie Metro 20/11/2022
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Aaron and DJ were awesome!
-
-Amber Fedosh Seattle 02/12/2023
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Aaron and DJ are very professional and helpful. Great service so far.
-
-Jun-ji Barber Seattle 02/12/2023
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Hank and Nick were fast and great!
-
-Matt Heath Wisconsin 02/12/2023
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Jason and Everett were great
-
-Oliver Walsh LA Metro 02/12/2023
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Awesome work! Evan and Max worked quickly and were very friendly!
-
-Kolver Matos Wisconsin 02/12/2023
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
 Jacob and Connor were a great help
 
 John Tyree Wisconsin 02/12/2023
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Aaron and DJ were friendly and quick.
-
-Chris Conley Seattle 02/12/2023
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -827,6 +779,54 @@ liam nolosco Seattle 02/12/2023
 Marquise and Donnie did a great job
 
 s t Wisconsin 02/12/2023
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Aaron and DJ were awesome!
+
+Amber Fedosh Seattle 02/12/2023
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Aaron and DJ are very professional and helpful. Great service so far.
+
+Jun-ji Barber Seattle 02/12/2023
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Aaron and DJ were friendly and quick.
+
+Chris Conley Seattle 02/12/2023
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Hank and Nick were fast and great!
+
+Matt Heath Wisconsin 02/12/2023
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Jason and Everett were great
+
+Oliver Walsh LA Metro 02/12/2023
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Awesome work! Evan and Max worked quickly and were very friendly!
+
+Kolver Matos Wisconsin 02/12/2023
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
