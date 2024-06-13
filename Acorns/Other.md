@@ -6,7 +6,7 @@ Acorns
 
 Invest spare change
 
-[Get started](https://app.adjust.com/lk0lfh8_l7g8ijs?fallback=https://www.acorns.com/tier-signup?key=GOLD) [Get the app](https://app.adjust.com/lk0lfh8_l7g8ijs?fallback=https://www.acorns.com/tier-signup?key=GOLD)
+[Get started](https://app.adjust.com/lk0lfh8_l7g8ijs?fallback=https://signup.acorns.com/signup/) [Get the app](https://app.adjust.com/lk0lfh8_l7g8ijs?fallback=https://signup.acorns.com/signup/)
 
 ✕
 
