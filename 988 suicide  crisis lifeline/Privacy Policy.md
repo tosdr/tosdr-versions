@@ -10,7 +10,7 @@
     
     [Talk Now](https://988lifeline.org/talk-to-someone-now/)
     
-    [Talk To Someone Now](https://988lifeline.org/talk-to-someone-now/) [Help Yourself](https://988lifeline.org/help-yourself/) [Help Someone Else](https://988lifeline.org/help-someone-else/) [About](https://988lifeline.org/about/)
+    [What to Expect](https://988lifeline.org/talk-to-someone-now/) [Help Yourself](https://988lifeline.org/help-yourself/) [Help Someone Else](https://988lifeline.org/help-someone-else/) [About](https://988lifeline.org/about/)
     
 * [Learn](https://988lifeline.org/how-we-can-all-prevent-suicide/)
     
@@ -55,7 +55,7 @@ Learn
 
 More
 
-[Talk To Someone Now](https://988lifeline.org/talk-to-someone-now/) [Help Yourself](https://988lifeline.org/help-yourself/) [Help Someone Else](https://988lifeline.org/help-someone-else/) [About](https://988lifeline.org/about/)
+[What to Expect](https://988lifeline.org/talk-to-someone-now/) [Help Yourself](https://988lifeline.org/help-yourself/) [Help Someone Else](https://988lifeline.org/help-someone-else/) [About](https://988lifeline.org/about/)
 
 [Learn About Suicide Prevention](#) [We Can All Prevent Suicide](https://988lifeline.org/how-we-can-all-prevent-suicide/) [Our Crisis Centers](https://988lifeline.org/our-crisis-centers/) [Stories of Hope and Recovery](https://988lifeline.org/stories/) [Mental Health & Suicide Prevention Glossary](https://988lifeline.org/mental-health-suicide-prevention-glossary/)
 
