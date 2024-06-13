@@ -2,7 +2,7 @@
 
 **JavaScript seems to be disabled in your browser.** For the best experience on our site, be sure to turn on Javascript in your browser.
 
-**Discover Purity, Choose Apex Water Filters!**
+**FATHER'S DAY SALE | GET UP TO 50% ON SELECT PRODUCTS**
 
 Toggle Nav [![Apex Water Filters](https://apexwaterfilters.com/pub/static/version1696670687/frontend/bluesky/bluesky_outstock_funiture_10/en_US/Rokanthemes_OptimizeSpeed/images/load_defaut.png "Apex Water Filters")](https://apexwaterfilters.com/ "Apex Water Filters")
 
@@ -124,6 +124,7 @@ Toggle Nav [![Apex Water Filters](https://apexwaterfilters.com/pub/static/versio
         * [Whole House](# "Whole House")
             * [Replacement Packs](https://apexwaterfilters.com/replacement-parts/whole-house/replacement-packs "Replacement Packs")
             * [Replacement Cartridges (Single)](https://apexwaterfilters.com/replacement-parts/whole-house/ro-replacement-cartridges-single "Replacement Cartridges (Single)")
+            * [4.5" x 20" Cartridges (Single)](https://apexwaterfilters.com/replacement-parts/4-5-x-20-cartridges-single "4.5 x 20 Cartridges (Single)")
         * [UV Disinfection System](# "UV Disinfection System")
             * [UV Bulbs](https://apexwaterfilters.com/replacement-parts/uv-disinfection-system/uv-bulbs "UV Bulbs")
             * [UV Sleeves](https://apexwaterfilters.com/replacement-parts/uv-disinfection-system/uv-sleeves "UV Sleeves")
