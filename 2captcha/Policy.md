@@ -149,6 +149,10 @@ We use this data for your account and for delivering the service to you. 2Captch
 
 Alternative extensions
 
+New features
+
+[![](/dist/web/assets/cloudflare-captcha-solver-CLJmRdnZ.svg)Cloudflare captcha solver](https://2captcha.com/p/cloudflare-turnstile)[![](/dist/web/assets/mobile-proxies-D901ZS36.svg)Mobile proxies](https://2captcha.com/proxy/mobile-proxies)
+
 [![](/dist/web/assets/rating-text-BU2wq90o.svg)![CaptchaTheCat](/dist/web/assets/captchathecat-CfvZqHOc.svg)](https://captchathecat.com/service/2captcha)
 
 ![We support VISA, Mastercard, Airtm, PayPal, Alipay, BTC, USDT payment systems](/dist/web/assets/2captcha-payment-systems-Bmk6bQ74.svg)
