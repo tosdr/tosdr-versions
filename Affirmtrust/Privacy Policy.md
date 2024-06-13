@@ -139,11 +139,13 @@ EDC is a global company, with offices in all regions of the world. We serve comp
 
 If you have any questions or concerns about this Privacy Statement, please feel free to contact EDC’s Chief Legal and Compliance Officer at [\[email protected\]](https://www.affirmtrust.com/cdn-cgi/l/email-protection)
 
-[Certification Authorities – WebTrust – Deloitte](https://www.cpacanada.ca/webtrustseal?sealid=11138)
+[![](/wp-content/uploads/webtrust-certification-authorities.jpg)](https://www.cpacanada.ca/webtrustseal?sealid=11388)
 
-[![](/wp-content/uploads/WebTrust_BR-SSL.jpg)](https://www.cpacanada.ca/webtrustseal?sealid=11139)
+[![](/wp-content/uploads/webtrust-network-security.jpg)](https://www.cpacanada.ca/webtrustseal?sealid=11391)
 
-[![](/wp-content/uploads/WebTrust_ExtendedValidation.jpg)](https://www.cpacanada.ca/webtrustseal?sealid=11140)
+[![](/wp-content/uploads/webtrust-br-ssl.jpg)](https://www.cpacanada.ca/webtrustseal?sealid=11389)
+
+[![](/wp-content/uploads/webtrust-extended-validation.jpg)](https://www.cpacanada.ca/webtrustseal?sealid=11390)
 
 © 2024 AffirmTrust. All rights reserved.
 
