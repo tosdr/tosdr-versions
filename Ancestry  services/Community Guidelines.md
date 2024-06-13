@@ -47,7 +47,7 @@ DNA
 Loading
 
 * [AncestryDNA®](https://www.ancestry.com/dna/)
-* [Activate a Kit](https://www.ancestry.com/dna/activate)
+* [Register a Kit](https://www.ancestry.com/dna/activate)
 * [AncestryDNA® Learning Hub](https://www.ancestry.com/c/dna-learning-hub)
 * [DNA & You](https://www.ancestry.com/c/discover/dna-you)
 * [Traits Learning Hub](https://www.ancestry.com/c/traits-learning-hub)
