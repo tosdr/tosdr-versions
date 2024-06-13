@@ -77,7 +77,7 @@
         * [SSD is Not Showing Up on a Windows Computer](https://7datarecovery.com/blog/ssd-not-showing-up-windows/)
         * [How to Fix Corrupted SSD Without Losing Your Data](https://7datarecovery.com/blog/how-to-fix-corrupted-ssd/)
 * [Best Software](#)
-    * [Best Data Recovery Software](https://7datarecovery.com/best-recovery-apps/)
+    * [Best Data Recovery Software for Windows](https://7datarecovery.com/best-recovery-apps/ "Best Data Recovery Software for Windows")
     * [Best Data Recovery Software for Mac](https://7datarecovery.com/best-recovery-apps-mac/)
     * [Best Data Recovery Software for Android](https://7datarecovery.com/android-data-recovery/)
     * [Best SD Card Recovery Software](https://7datarecovery.com/sd-memory-card-recovery/)
