@@ -72,6 +72,14 @@ United Kingdom Australia & New Zealand Singapore Malaysia United States Ireland
     
     Latest  News
     
+    ![](/media/l4gf0ixu/couple-collaborating-evo-hi-res.jpg?center=0.40713451647890281,0.69400103211811637&mode=crop&width=350&height=450&rnd=133626558714530000)
+    
+    Posted 12th June 2024
+    
+    Access unveils Access Evo - New AI-Enhanced Software to support HR professionals
+    
+    [Read more](https://www.theaccessgroup.com/en-gb/about/news/access-unveils-access-evo-new-ai-enhanced-software-to-support-hr-professionals/)
+    
     ![](/media/o2upanwf/business-staff-around-a-tablet.jpg?center=0.293344183718311,0.42627484575985103&mode=crop&width=350&height=450&rnd=133620760539800000)
     
     Posted 6th June 2024
