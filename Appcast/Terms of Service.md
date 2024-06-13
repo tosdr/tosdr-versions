@@ -1,132 +1,93 @@
-![](https://ws.zoominfo.com/pixel/lxUaNKjbDeMIXSIuozxr)                           [Skip to content](#content)
+![](https://ws.zoominfo.com/pixel/lxUaNKjbDeMIXSIuozxr)                           
 
-[![Appcast Logo](https://www.appcast.io/wp-content/uploads/2020/09/appcast_logo.svg)](https://www.appcast.io/)
+[Skip to content](#content)
 
-[![Appcast Logo](https://www.appcast.io/wp-content/uploads/2020/09/appcast_logo.svg)](https://www.appcast.io/)
+[![](https://www.appcast.io/wp-content/uploads/2023/08/appcast-logo.svg)](https://www.appcast.io/)
+
+[Book a Demo](https://www.appcast.io/get-a-demo-of-appcast/)
+
+[![](https://www.appcast.io/wp-content/uploads/2023/08/appcast-logo.svg)](https://www.appcast.io/)
 
 Solutions
 
-### Our Solutions
+Our solutions are designed to meet all your talent acquisition needs.
 
-Learn about Appcast’s enterprise solutions that are designed to meet all your talent acquisition needs.
+[![](https://www.appcast.io/wp-content/uploads/2024/05/Frame-22840.svg)
 
-We’re committed to solving recruitment marketing challenges for leading organizations around the globe. By combining Appcast’s award-winning programmatic tech with Bayard’s 100+ years of recruitment marketing services, we’ve doubled down on our promise.
+AppcastOne transforms candidate acquisition by harnessing the power of programmatic into a single omni-channel enterprise solution.](https://www.appcast.io/appcast-one/)[![](https://www.appcast.io/wp-content/uploads/2024/05/appcast-b-and-c.svg)
 
-[![AppcastOne](https://www.appcast.io/wp-content/uploads/2023/08/Group-1670.png)](https://www.appcast.io/appcast-one/)
-
-[AppcastOne
-
-AppcastOne transforms candidate acquisition by harnessing the power of programmatic, search, social, and traditional media into a single omni-channel enterprise solution.](https://www.appcast.io/appcast-one/)
-
-Our Four Pillars
-
-* [Programmatic](https://www.appcast.io/appcast-one/programmatic/)
-* [Search & Display](https://www.appcast.io/appcast-one/search-and-display/)
-* [Social](https://www.appcast.io/appcast-one/social/)
-* [Traditional](https://www.appcast.io/appcast-one/traditional-recruitment/)
-
-[![](https://www.appcast.io/wp-content/uploads/2023/08/Group-1669.png)](https://www.appcast.io/appcast-brand-and-creative/)
-
-[Appcast Brand & Creative
-
-Appcast Brand & Creative is a full suite of professional services from brand and strategy development to award-winning, cross-channel creatives.](https://www.appcast.io/appcast-brand-and-creative/)
-
-###### **Why Appcast Brand & Creative?**
-
-* Authentic brand amplification
-* An industry-leading creative studio
-* DEI experts
-* Candidate-centric design & development
-
-[View Our Work](https://www.appcast.io/brand-and-creative-portfolio/)
+Level up your talent acquisition effectiveness with brand and strategy development to award-winning, cross-channel creatives.](https://www.appcast.io/appcast-brand-and-creative/)
 
 Our Approach
 
-[What is Programmatic recruitment?
+[What Is Programmatic Recruitment?
 
-Programmatic recruitment uses software and data to efficiently find the best candidates for your open jobs.](https://www.appcast.io/what-is-programmatic-recruitment/)
+Programmatic recruitment uses software and data to efficiently find the best candidates for your open jobs.](https://www.appcast.io/what-is-programmatic-recruitment/)[What Is A Job Ad Exchange?
 
-[What is a Job Ad Exchange?
+A job ad exchange contains thousands of job boards, sites, and sources visited by jobseekers.](https://www.appcast.io/job-ad-exchange/)[What Role Does AI Play In Our Technology?
 
-A job ad exchange contains thousands of job boards, sites, and sources visited by jobseekers.](https://www.appcast.io/job-ad-exchange/)
+Find out about ‘Appcast Intelligence’ and how it takes the hard work out of filling your recruitment funnels.](https://www.appcast.io/ai-at-appcast/)
 
-[What Role Does AI Play In Our Technology?
+[How Is Data Involved?
 
-Find out about ‘Appcast Intelligence’ and how it takes the hard work out of filling your recruitment funnels.](https://www.appcast.io/ai-at-appcast/)  
+Data drives all our actions at Appcast, shedding light on effective candidate sourcing strategies.](https://www.appcast.io/how-is-data-involved/)[Who We Help
 
-[How is data involved?
-
-At Appcast, data powers everything we do. Data illuminates what works, where, and why when it comes to finding the right candidates for your jobs.](https://www.appcast.io/how-is-data-involved/)
-
-[Who we Help
-
-We help employers across all industries cost-effectively find candidates for all their open positions, fast.](https://www.appcast.io/customers-we-help/)
-
-[Who We Partner With
+We help employers across all industries cost-effectively find candidates for all their open positions, fast.](https://www.appcast.io/customers-we-help/)[Who We Partner With
 
 Learn about how your company can partner with Appcast to help employers hire faster and more cost-effectively.](https://www.appcast.io/partners/)
 
-Welcome to OUR
+[2024 Benchmark Report
 
-![](https://www.appcast.io/wp-content/uploads/2024/02/Group-914.svg)
+Download the 2024 Recruitment Marketing Benchmark Report to get the data you need to help meet your hiring goals in any economic climate.
 
-[Download Now](https://www.appcast.io/2024-benchmark-report/)
+![](https://www.appcast.io/wp-content/uploads/2024/05/report-logo-cr.png)](https://www.appcast.io/2024-benchmark-report/)
 
 About Us
 
 [Our Story
 
-Learn where we’re from and where we’re going.](https://www.appcast.io/our-story/)
-
-[Working At Appcast
+Learn where we’re from and where we’re going.](https://www.appcast.io/our-story/)[Working At Appcast
 
 Come learn and grow alongside industry experts, amazing people, and some really sweet dogs.](https://www.appcast.io/careers/)
 
 [News Room
 
-Recent announcements and media coverage about Appcast.](https://www.appcast.io/news/)
-
-[Contact Us
+Recent announcements and media coverage.](https://www.appcast.io/news/)[Contact Us
 
 We’d love to connect! Reach out and we’ll get back to you as quickly as possible.](https://www.appcast.io/contact/)
 
-##### Appcast Launches AppcastOne  
+[Begin your journey
+------------------
 
-AppcastOne transforms candidate acquisition by harnessing the power of programmatic, search, social and traditional media into a single enterprise offering.
-
-[Learn More](https://www.appcast.io/appcast-one/)
+with Appcast
+------------](https://www.appcast.io/careers/)
 
 Resources
 
 [The Library
 
-Access treasure troves of research papers, reports, and articles to help you optimize your recruiting efforts.](https://www.appcast.io/resource-library/)
+Access treasure troves of research papers, reports, and articles to help you optimize your recruiting efforts.](https://www.appcast.io/resource-library/)[Blog
 
-[Blog
-
-Stay current with recruitment best practices & industry news on Appcast’s blog.](https://www.appcast.io/blog/)
-
-[Customer Stories
+Stay current with recruitment best practices & industry news on Appcast’s blog.](https://www.appcast.io/blog/)[Customer Stories
 
 Learn how our customers use programmatic recruiting to fill their hiring funnels with qualified candidates.](https://www.appcast.io/customer-stories/)
 
 [Live & Virtual Events
 
-Join us for upcoming live and virtual events and access past virtual events on-demand. Access our calendar here.](https://www.appcast.io/live-and-virtual-events/)
+Join us for upcoming live and virtual events and access past virtual events on-demand. Access our calendar here.](https://www.appcast.io/live-and-virtual-events/)[Gender Bias Decoder
 
-[Gender Bias Decoder
+Use our tool to identify gender-coded terms in your job ads and suggest bias-free alternatives.](https://www.appcast.io/gender-bias-decoder/)[Recruitonomics
 
-Access our new tool that highlights gender-coded terms & offers alternative wording to remove gender bias from your job ads.](https://www.appcast.io/gender-bias-decoder/)
+A destination for data-driven insights to make sense of an evolving world of work.](https://recruitonomics.com/?__hstc=43218810.e453894e772a8c99aa3c908ab843ac5b.1704366722756.1716496368105.1716545377374.109&__hssc=43218810.2.1716545377374&__hsfp=4137284348)
 
 [Recruitonomics
+--------------
 
-A destination for data-driven insights to make sense of an evolving world of work.](https://recruitonomics.com/)
+Built from a world-class data set, Recruitonomics is the combination of labor economics & recruiting tactics.](https://recruitonomics.com/?__hstc=43218810.e453894e772a8c99aa3c908ab843ac5b.1704366722756.1716496368105.1716545377374.109&__hssc=43218810.2.1716545377374&__hsfp=4137284348)
 
-[![Introducing Recruitonomics.com](https://www.appcast.io/wp-content/uploads/2022/01/Website_Nav_Ad2.jpg)](https://recruitonomics.com/)
+[login](https://premium.appcast.io/user_sessions/new)
 
-[Get a Demo!](https://www.appcast.io/get-a-demo-of-appcast/)
-
-[Log In](https://premium.appcast.io/user_sessions/new)
+[Book a Demo](https://www.appcast.io/get-a-demo-of-appcast/)
 
 Legal
 =====
@@ -905,58 +866,48 @@ Any employee who breaches this policy will face disciplinary action, which could
   
 We may terminate our relationship with other individuals and organizations working on our behalf if they breach this policy.
 
-###### Just Released
+![](https://www.appcast.io/wp-content/uploads/2024/05/footer-10-years@2x.png)
 
-#### 2024 Recruitment  
-Marketing Benchmark  
-Report
+We’re celebrating our 10th anniversary. A decade of award-winning programmatic job advertising technology.
 
-##### Appcast’s 8th annual Recruitment Marketing Benchmark Report has the data you need to help meet your hiring goals in any economic climate. 
+[read more](https://www.prweb.com/releases/appcast-marks-a-decade-of-innovation-and-growth-celebrating-10-years-of-leadership-in-recruitment-marketing-302145721.html)
 
-[Download Now](https://info.appcast.io/whitepaper/2024-recruitment-marketing-benchmark-report?lead_source__n_=Appcast%20Website&utm_medium=Website&utm_source=Website&utm_campaign=&utm_content=&utm_term=)
+[![](https://www.appcast.io/wp-content/uploads/2024/05/Logo-Primary.svg)](https://www.appcast.io/)
 
-##### CONTACT
+Keep up to date with all the latest from Appcast:
+
+[](https://www.linkedin.com/company/appcast-io/)
+
+[](https://www.instagram.com/appcastinc)
+
+[](https://www.facebook.com/appcast.io/)
+
+[](https://www.youtube.com/channel/UCWBYkHfhXajj7vFSRc6VFEw)
+
+[](https://twitter.com/appcast_io)
+
+get in touch
 
 * [contact@appcast.io](mailto:contact@appcast.io)
 * [1 (800) 570-5430](tel:%201%20(800)%20570-5430)
 
-##### FOLLOW US
-
-* [X.com](https://twitter.com/appcast_io)
-* [LinkedIn](https://www.linkedin.com/company/appcast-io/)
-* [Facebook](https://www.facebook.com/appcast.io/)
-* [Instagram](https://www.instagram.com/appcastinc)
-* [YouTube](https://www.youtube.com/channel/UCWBYkHfhXajj7vFSRc6VFEw)
-
-##### PARTNERS
+partners
 
 * [Our Partners](https://www.appcast.io/partners/)
 * [ATS & CRM](https://www.appcast.io/partners/ats-and-crm/)
 * [Job Sites](https://www.appcast.io/partners/jobsites/)
 * [Agencies](https://www.appcast.io/partners/solutions-for-agencies/)
+* [Login](https://xcelerate.appcast.io/user_sessions/new)
 
-[Log In](https://xcelerate.appcast.io/user_sessions/new)
+* [Privacy Policy](https://www.appcast.io/privacy-policy/)
+* [Anti-Slavery Policy](https://www.appcast.io/legal/#anti-slavery-policy)
+* [Sitemap](https://www.appcast.io/sitemap/)
+* [Legal](https://www.appcast.io/legal/)
+* [Do not sell or share my  
+    personal information](https://www.appcast.io/appcast-privacy-webform/)
 
-[PRIVACY](https://www.appcast.io/privacy-policy/)
+[![](https://www.appcast.io/wp-content/uploads/2024/05/Logo-Primary.svg)](https://www.appcast.io/)
 
-[LEGAL](https://www.appcast.io/legal/)
-
-[SITEMAP](https://www.appcast.io/sitemap/)
-
-[Log In](https://xcelerate.appcast.io/user_sessions/new)
-
-[PRIVACY](https://www.appcast.io//privacy-policy/)
-
-[LEGAL](https://www.appcast.io/legal/)
-
-[SITEMAP](https://www.appcast.io//sitemap/)
-
-[Log In](https://xcelerate.appcast.io/user_sessions/new)
-
-Web design by
-
-[![Something Familiar](https://www.appcast.io/wp-content/uploads/2020/09/Something-Familiar-_-Design-Studio-Bristol-0-4.svg)](https://www.somethingfamiliar.co.uk/)
+[Web design by Something Familiar](https://somethingfamiliar.co.uk/)
 
 © 2024 Appcast All Rights Reserved
-
-[Do Not Sell or Share my Personal Information](https://www.appcast.io/appcast-privacy-webform)
