@@ -26,7 +26,7 @@
         [The Latest from HQ](https://www.aapd.org/link/40d8c9bbe1d84ae893138470f9496fb1.aspx)
     * ###### Get Involved
         
-        [AAPD Foundation](https://aapdfoundation.org/?dt=638493910565687598)
+        [AAPD Foundation](https://aapdfoundation.org/?dt=638538190169159473)
     
 * [Resources](https://www.aapd.org/resources/resources/) [Toggle expand sub-navigation items](#)
     
@@ -46,6 +46,7 @@
     
 * [Education](https://www.aapd.org/education/education-homepage/) [Toggle expand sub-navigation items](#)
     
+    * [AAPD 2025](https://www.aapd.org/education/aapd-2025/)
     * [Speakers Bureau](https://www.aapd.org/education/speakers-bureau/)
     * [Meetings Calendar](https://www.aapd.org/education/meetings-calendar-aapd/)
     * [Education Passport](https://educationpassport.aapd.org/)
@@ -53,10 +54,10 @@
     
     * ###### AAPD 2024
         
-        [Join Us in Toronto, Canada for AAPD 2024!](https://www.aapd.org/education/meetings-calendar-aapd/aapd-20232/Annual/)
+        [AAPD 2024 Photos Now Live!](https://client.photographer.ca/-aapd24/gallery)
     * ###### Meetings Calendar
         
-        [AAPD 2024 CE Presale Happening Now](https://educationpassport.aapd.org/)
+        [Register for AAPD CE Courses](https://www.aapd.org/link/52997f3a726f4743ae8a49c3c5086f2f.aspx)
     * ###### little teeth, BIG Smiles & Newly Erupted
         
         [Latest Episodes](https://www.aapd.org/education/Podcasts/aapd-podcast-home/)
@@ -76,7 +77,7 @@
         [Medicaid Reimbursement for Dental Services for Children - Identifying Opportunities for Improvements in Your State](https://www.aapd.org/link/b360dedfed6b4aeda7b28fa324a4fa5d.aspx)
     * ###### Safety in Dentistry
         
-        [NEW! Safety in Pediatric Dental Care: Curriculum for Pediatric Dentistry Residency Programs](https://www.aapd.org/link/1f7cfe340d6e48cca10c30f1ca21143d.aspx)
+        [FBI Warns of Cybersecurity Threat to Dental Practices](https://www.aapd.org/link/4a4e8d3a20c644d2819c3519b3e120f8.aspx)
     
 * [Publications](https://www.aapd.org/publications/publications/) [Toggle expand sub-navigation items](#)
     
@@ -104,7 +105,7 @@
     
     * ###### Latest Advocacy News
         
-        [AAPD Top Appropriations Priority Fares Well in Final FY 2024 Federal Appropriations Agreement](https://www.aapd.org/link/bb369c94f8a04565857d1f80ed79eaa7.aspx)
+        [AAPD Submits Written Testimony to U.S. Senate HELP Committee](https://www.aapd.org/link/bb369c94f8a04565857d1f80ed79eaa7.aspx)
     * ###### Grassroots Advocacy
         
         [Pediatric Oral Health Advocacy Conferences](https://www.aapd.org/advocacy/grassroots-advocacy/Pediatric-Oral-Health-Advocacy-Conference/)
@@ -141,6 +142,7 @@ Close Searchbar
     * [Parent](https://www.aapd.org/resources/parent/)
     * [Oral Health](https://www.aapd.org/resources/oral-health/)
 * [Education](https://www.aapd.org/education/education-homepage/) [Toggle expand sub-navigation items](#)
+    * [AAPD 2025](https://www.aapd.org/education/aapd-2025/)
     * [Speakers Bureau](https://www.aapd.org/education/speakers-bureau/)
     * [Meetings Calendar](https://www.aapd.org/education/meetings-calendar-aapd/)
     * [Education Passport](https://educationpassport.aapd.org/)
@@ -240,6 +242,8 @@ Chicago, IL 60611
 [Contact Us](https://www.aapd.org/contact-us/)
 
 [Advertising](https://www.aapd.org/publications/advertising/)
+
+[Press Room](https://www.aapd.org/about/about-aapd/news-room/aapd-in-the-news/)
 
 * [Twitter](https://twitter.com/AmerAcadPedDent)
 * [Facebook](https://www.facebook.com/AmericanAcademyofPediatricDentistry/)
