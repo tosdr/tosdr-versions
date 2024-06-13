@@ -18,8 +18,6 @@ Search
 
 [](https://tabletvilla.com/wishlist/ "Wishlist")
 
-00 items
-
 * [Home](https://tabletvilla.com/)
 * [Erectile Dysfunction](https://tabletvilla.com/product-category/erectile-dysfunction/)
 * [Sildenafil](https://tabletvilla.com/product-category/sildenafil/)
@@ -128,14 +126,6 @@ Latest Products
 Top Rated products
 ------------------
 
-* [![Buy Cenforce 150 Mg](https://tabletvilla.com/wp-content/uploads/2019/12/Cenforce-150-Mg-85x85.jpg)](https://tabletvilla.com/product/cenforce-150-mg/ "Cenforce 150 Mg")
-    
-    [Cenforce 150 Mg](https://tabletvilla.com/product/cenforce-150-mg/ "Cenforce 150 Mg")
-    
-    **5.00** out of 5
-    
-    $102.00 – $450.00
-    
 * [![Buy Vidalista Tablet](https://tabletvilla.com/wp-content/uploads/2019/12/Vidalista-20-Mg-85x85.jpg)](https://tabletvilla.com/product/vidalista-20-mg/ "Vidalista 20 Mg")
     
     [Vidalista 20 Mg](https://tabletvilla.com/product/vidalista-20-mg/ "Vidalista 20 Mg")
@@ -151,6 +141,14 @@ Top Rated products
     **5.00** out of 5
     
     $110.00 – $332.00
+    
+* [![Buy Cenforce 150 Mg](https://tabletvilla.com/wp-content/uploads/2019/12/Cenforce-150-Mg-85x85.jpg)](https://tabletvilla.com/product/cenforce-150-mg/ "Cenforce 150 Mg")
+    
+    [Cenforce 150 Mg](https://tabletvilla.com/product/cenforce-150-mg/ "Cenforce 150 Mg")
+    
+    **5.00** out of 5
+    
+    $102.00 – $450.00
     
 
 Get in touch
