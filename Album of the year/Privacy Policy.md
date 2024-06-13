@@ -93,35 +93,35 @@ Advertisement
 
 [New Album Releases](https://www.albumoftheyear.org/releases/this-week/)
 
-73
+90
 
-[Taylor Swift
+[Charli xcx
 
-THE TORTURED POETS DEPARTMENT](https://www.albumoftheyear.org/album/867088-taylor-swift-the-tortured-poets-department.php)
+BRAT](https://www.albumoftheyear.org/album/887267-charli-xcx-brat.php)
+
+NR
+
+[Joey Valence & Brae
+
+NO HANDS](https://www.albumoftheyear.org/album/941426-joey-valence-brae-no-hands.php)
 
 77
 
-[Taylor Swift
+[KAYTRANADA
 
-THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY](https://www.albumoftheyear.org/album/934464-taylor-swift-the-tortured-poets-department-the-anthology.php)
+Timeless](https://www.albumoftheyear.org/album/963698-kaytranada-timeless.php)
 
-NR
+84
 
-[Drake
+[AURORA
 
-Push Ups](https://www.albumoftheyear.org/album/929329-drake-push-ups.php)
+What Happened To The Heart?](https://www.albumoftheyear.org/album/914038-aurora-what-happened-to-the-heart.php)
 
-82
+50
 
-[Pearl Jam
+[Ski Mask The Slump God
 
-Dark Matter](https://www.albumoftheyear.org/album/873510-pearl-jam-dark-matter.php)
-
-NR
-
-[Kanye West
-
-LIKE THAT REMIX](https://www.albumoftheyear.org/album/936141-kanye-west-like-that-remix.php)
+11th Dimension](https://www.albumoftheyear.org/album/782279-ski-mask-the-slump-god-11th-dimension.php)
 
 [More Releases](https://www.albumoftheyear.org/releases/this-week/)
 
@@ -129,29 +129,29 @@ LIKE THAT REMIX](https://www.albumoftheyear.org/album/936141-kanye-west-like-tha
 
 [View More](https://www.albumoftheyear.org/discover/top-rated/)
 
-[![Aaron West & The Roaring Twenties - In Lieu of Flowers](https://cdn.albumoftheyear.org/images/clear.gif)](https://www.albumoftheyear.org/album/842292-aaron-west-the-roaring-twenties-in-lieu-of-flowers.php "Aaron West & The Roaring Twenties - In Lieu of Flowers")
+[![Charli xcx - BRAT](https://cdn.albumoftheyear.org/images/clear.gif)](https://www.albumoftheyear.org/album/887267-charli-xcx-brat.php "Charli xcx - BRAT")
 
-[![Charles Lloyd - The Sky Will Still Be There Tomorrow](https://cdn.albumoftheyear.org/images/clear.gif)](https://www.albumoftheyear.org/album/852731-charles-lloyd-the-sky-will-still-be-there-tomorrow.php "Charles Lloyd - The Sky Will Still Be There Tomorrow")
+[![Knocked Loose - You Won't Go Before You're Supposed To](https://cdn.albumoftheyear.org/images/clear.gif)](https://www.albumoftheyear.org/album/887049-knocked-loose-you-wont-go-before-youre-supposed-to.php "Knocked Loose - You Won't Go Before You're Supposed To")
 
-[![English Teacher - This Could Be Texas](https://cdn.albumoftheyear.org/images/clear.gif)](https://www.albumoftheyear.org/album/850250-english-teacher-this-could-be-texas.php "English Teacher - This Could Be Texas")
+[![Mdou Moctar - Funeral For Justice](https://cdn.albumoftheyear.org/images/clear.gif)](https://www.albumoftheyear.org/album/888230-mdou-moctar-funeral-for-justice.php "Mdou Moctar - Funeral For Justice")
 
-[![Can - Live in Paris 1973](https://cdn.albumoftheyear.org/images/clear.gif)](https://www.albumoftheyear.org/album/840385-can-live-in-paris-1973.php "Can - Live in Paris 1973")
+[![Jessica Pratt - Here in the Pitch](https://cdn.albumoftheyear.org/images/clear.gif)](https://www.albumoftheyear.org/album/874771-jessica-pratt-here-in-the-pitch.php "Jessica Pratt - Here in the Pitch")
 
-[![Beyoncé - COWBOY CARTER](https://cdn.albumoftheyear.org/images/clear.gif)](https://www.albumoftheyear.org/album/873803-beyonce-cowboy-carter.php "Beyoncé - COWBOY CARTER")
+[![A. G. Cook - Britpop](https://cdn.albumoftheyear.org/images/clear.gif)](https://www.albumoftheyear.org/album/878112-a-g-cook-britpop.php "A. G. Cook - Britpop")
 
-[![Hamferð - Men Gu​ð​s Hond Er Sterk](https://cdn.albumoftheyear.org/images/clear.gif)](https://www.albumoftheyear.org/album/867017-hamferd-men-gus-hond-er-sterk.php "Hamferð - Men Gu​ð​s Hond Er Sterk")
+[![Beth Gibbons - Lives Outgrown](https://cdn.albumoftheyear.org/images/clear.gif)](https://www.albumoftheyear.org/album/863906-beth-gibbons-lives-outgrown.php "Beth Gibbons - Lives Outgrown")
 
-[![BIG|BRAVE - A Chaos of Flowers](https://cdn.albumoftheyear.org/images/clear.gif)](https://www.albumoftheyear.org/album/843183-big-brave-a-chaos-of-flowers.php "BIG|BRAVE - A Chaos of Flowers")
+[![Billie Eilish - HIT ME HARD AND SOFT](https://cdn.albumoftheyear.org/images/clear.gif)](https://www.albumoftheyear.org/album/924853-billie-eilish-hit-me-hard-and-soft.php "Billie Eilish - HIT ME HARD AND SOFT")
 
-[![Adrianne Lenker - Bright Future](https://cdn.albumoftheyear.org/images/clear.gif)](https://www.albumoftheyear.org/album/848518-adrianne-lenker-bright-future.php "Adrianne Lenker - Bright Future")
+[![Arooj Aftab - Night Reign](https://cdn.albumoftheyear.org/images/clear.gif)](https://www.albumoftheyear.org/album/928256-arooj-aftab-night-reign.php "Arooj Aftab - Night Reign")
 
-[![Waxahatchee - Tigers Blood](https://cdn.albumoftheyear.org/images/clear.gif)](https://www.albumoftheyear.org/album/841361-waxahatchee-tigers-blood.php "Waxahatchee - Tigers Blood")
+[![Shellac - To All Trains](https://cdn.albumoftheyear.org/images/clear.gif)](https://www.albumoftheyear.org/album/907210-shellac-to-all-trains.php "Shellac - To All Trains")
 
 Advertisement
 
   
 
-[March Playlist](https://open.spotify.com/playlist/1wOW4KGZLLLrmFwD213R0E?si=560a608e348542b4)
+[May Playlist](https://open.spotify.com/playlist/4WAbeBDUsAKNCGZKbu14gV?si=36f3773661ab4fa7)
 
 [Go Ad-Free](https://www.albumoftheyear.org/donate/)
 
@@ -170,8 +170,6 @@ Advertisement
 [Random](https://www.albumoftheyear.org/random/)
 
 **ARTISTS**
-
-[Overview](https://www.albumoftheyear.org/artists/)
 
 [Highest Rated](https://www.albumoftheyear.org/bands/top-artists/)
 
