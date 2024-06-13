@@ -169,10 +169,10 @@ Next
 solutions
 ---------
 
-* [Supply-Side Platforms](#Content-c19cbbb6626a7229e830)
-* [Publishers](#Content-e0ab41b6626a7229e830)
-* [Demand-Side Platforms](#Content-e93a18f6626a7229e830)
-* [Data Companies](#Content-7f95e576626a7229e830)
+* [Supply-Side Platforms](#Content-c19cbbb666a2de2785ab)
+* [Publishers](#Content-e0ab41b666a2de2785ab)
+* [Demand-Side Platforms](#Content-e93a18f666a2de2785ab)
+* [Data Companies](#Content-7f95e57666a2de2785ab)
 
 LEXICON FOR
 -----------
@@ -221,65 +221,65 @@ Enable the creation and portability of cookie alternative data while maintaining
 Recent news
 -----------
 
-[![](https://www.33across.co.uk/wp-content/uploads/2024/04/33A24_NewsMedia_Featured-Banner_OAREX2.png)](https://www.33across.co.uk/news/2024/04/16/33across-acknowledged-as-top-payor-in-h2-2023-oarex-top-payor-awards)
+[![](https://www.33across.co.uk/wp-content/uploads/2024/06/BlogPost_Feature-Banner_20240605.jpg)](https://www.33across.co.uk/blog/2024/06/05/how-sell-side-audience-targeting-will-ace-your-back-to-school-campaigns)
 
-### [33Across Acknowledged as Top Payor in H2 2023 OAREX Top Payor Awards](https://www.33across.co.uk/news/2024/04/16/33across-acknowledged-as-top-payor-in-h2-2023-oarex-top-payor-awards)
+### [How Sell-Side Audience Targeting Will Ace Your Back-to-School Campaigns](https://www.33across.co.uk/blog/2024/06/05/how-sell-side-audience-targeting-will-ace-your-back-to-school-campaigns)
 
-33Across April 16, 2024 [Company News](https://www.33across.co.uk/tag/company-news/ "Company News")
+Antoinette Chan June 5, 2024 [Advertiser Perspectives](https://www.33across.co.uk/tag/advertiser-perspectives/ "Advertiser Perspectives")
 
-33Across was recently named a Top Payor for H2 2023 by OAREX. This bi-annual recognition acknowledges programmatic demand partners who consistently pay their supply partners…
+As summer break winds down, students, parents, and educators need to gear up for another school year with some back-to-school shopping and planning. This busy back-to-school season represents a prime advertising opportunity across industries like retail, electronics, school/art supplies, sports equipment, tutoring services, health supplements, and more. Curating the right audience is…
 
-[Read More »](https://www.33across.co.uk/news/2024/04/16/33across-acknowledged-as-top-payor-in-h2-2023-oarex-top-payor-awards)
+[Read More »](https://www.33across.co.uk/blog/2024/06/05/how-sell-side-audience-targeting-will-ace-your-back-to-school-campaigns)
 
-[![](https://www.33across.co.uk/wp-content/uploads/2024/03/33A24_NewsMedia_Featured-Banner_Nielsen.png)](https://www.33across.co.uk/news/2024/03/26/how-marketers-can-advance-personalized-marketing-across-the-digital-advertising-ecosystem)
+[![](https://www.33across.co.uk/wp-content/uploads/2021/06/33A21_NewsMedia_Featured-Banner_33AcrossPR.png)](https://www.33across.co.uk/news/2024/06/03/forrester-the-sell-side-platforms-landscape-q2-2024)
 
-### [How Marketers Can Advance Personalized Marketing Across the Digital Advertising Ecosystem](https://www.33across.co.uk/news/2024/03/26/how-marketers-can-advance-personalized-marketing-across-the-digital-advertising-ecosystem)
+### [Forrester: The Sell-Side Platforms Landscape, Q2 2024](https://www.33across.co.uk/news/2024/06/03/forrester-the-sell-side-platforms-landscape-q2-2024)
 
-Nielsen March 26, 2024 [Media Coverage](https://www.33across.co.uk/tag/media-coverage/ "Media Coverage")
+Forrester June 3, 2024 [Media Coverage](https://www.33across.co.uk/tag/media-coverage/ "Media Coverage")
 
-Nielsen highlights the need for audience data and measurement solutions to navigate the complexities of these evolving environments as marketers aim to leverage technology for building meaningful relationships with consumers.
+33Across has been included in Forrester’s Q2 2024 report: The Sell-Side Platforms Landscape.
 
-[Read More »](https://www.33across.co.uk/news/2024/03/26/how-marketers-can-advance-personalized-marketing-across-the-digital-advertising-ecosystem)
+[Read More »](https://www.33across.co.uk/news/2024/06/03/forrester-the-sell-side-platforms-landscape-q2-2024)
 
-[![](https://www.33across.co.uk/wp-content/uploads/2024/03/BlogPost_Feature-Banner_20240318.png)](https://www.33across.co.uk/blog/2024/03/21/spring-cleaning-checklist-essential-tips-for-marketers)
+[![](https://www.33across.co.uk/wp-content/uploads/2024/05/33Across_Advertising-Report_Q12024_BlogPost2.png)](https://www.33across.co.uk/blog/2024/05/29/retail-and-finance-advertisers-scale-cookieless-sov-by-3x-yoy)
 
-### [Spring Cleaning Checklist: Essential Tips for Marketers](https://www.33across.co.uk/blog/2024/03/21/spring-cleaning-checklist-essential-tips-for-marketers)
+### [Retail and Finance Advertisers Scale Cookieless SOV by 3X YOY](https://www.33across.co.uk/blog/2024/05/29/retail-and-finance-advertisers-scale-cookieless-sov-by-3x-yoy)
 
-Antoinette Chan March 21, 2024 [Advertiser Perspectives](https://www.33across.co.uk/tag/advertiser-perspectives/ "Advertiser Perspectives")
+33Across May 29, 2024 [Industry Insights](https://www.33across.co.uk/tag/industry-insights/ "Industry Insights")
 
-The spring season brings fresh opportunities for home, cleaning, and DIY brands to connect with consumers ready to refresh their living spaces. As people shift into the spring cleaning mindset, marketers should be prepared to engage these motivated home buyers. Use this checklist to inform…
+More programmatic buyers have pushed to adopt alternative identifiers to solve for signal loss, a move prompted by Google’s announcement of removing third-party cookies from 1% of Chrome users. On average, publishers grew their cookie alternative share of revenue by…
 
-[Read More »](https://www.33across.co.uk/blog/2024/03/21/spring-cleaning-checklist-essential-tips-for-marketers)
+[Read More »](https://www.33across.co.uk/blog/2024/05/29/retail-and-finance-advertisers-scale-cookieless-sov-by-3x-yoy)
 
-[![](https://www.33across.co.uk/wp-content/uploads/2024/04/33A24_NewsMedia_Featured-Banner_OAREX2.png)](https://www.33across.co.uk/news/2024/04/16/33across-acknowledged-as-top-payor-in-h2-2023-oarex-top-payor-awards)
+[![](https://www.33across.co.uk/wp-content/uploads/2024/06/BlogPost_Feature-Banner_20240605.jpg)](https://www.33across.co.uk/blog/2024/06/05/how-sell-side-audience-targeting-will-ace-your-back-to-school-campaigns)
 
-### [33Across Acknowledged as Top Payor in H2 2023 OAREX Top Payor Awards](https://www.33across.co.uk/news/2024/04/16/33across-acknowledged-as-top-payor-in-h2-2023-oarex-top-payor-awards)
+### [How Sell-Side Audience Targeting Will Ace Your Back-to-School Campaigns](https://www.33across.co.uk/blog/2024/06/05/how-sell-side-audience-targeting-will-ace-your-back-to-school-campaigns)
 
-33Across April 16, 2024 [Company News](https://www.33across.co.uk/tag/company-news/ "Company News")
+Antoinette Chan June 5, 2024 [Advertiser Perspectives](https://www.33across.co.uk/tag/advertiser-perspectives/ "Advertiser Perspectives")
 
-33Across was recently named a Top Payor for H2 2023 by OAREX. This bi-annual recognition acknowledges programmatic demand partners who consistently pay their supply partners…
+As summer break winds down, students, parents, and educators need to gear up for another school year with some back-to-school shopping and planning. This busy back-to-school season represents a prime advertising opportunity across industries like retail, electronics, school/art supplies, sports equipment, tutoring services, health supplements, and more. Curating the right audience is…
 
-[Read More »](https://www.33across.co.uk/news/2024/04/16/33across-acknowledged-as-top-payor-in-h2-2023-oarex-top-payor-awards)
+[Read More »](https://www.33across.co.uk/blog/2024/06/05/how-sell-side-audience-targeting-will-ace-your-back-to-school-campaigns)
 
-[![](https://www.33across.co.uk/wp-content/uploads/2024/03/33A24_NewsMedia_Featured-Banner_Nielsen.png)](https://www.33across.co.uk/news/2024/03/26/how-marketers-can-advance-personalized-marketing-across-the-digital-advertising-ecosystem)
+[![](https://www.33across.co.uk/wp-content/uploads/2021/06/33A21_NewsMedia_Featured-Banner_33AcrossPR.png)](https://www.33across.co.uk/news/2024/06/03/forrester-the-sell-side-platforms-landscape-q2-2024)
 
-### [How Marketers Can Advance Personalized Marketing Across the Digital Advertising Ecosystem](https://www.33across.co.uk/news/2024/03/26/how-marketers-can-advance-personalized-marketing-across-the-digital-advertising-ecosystem)
+### [Forrester: The Sell-Side Platforms Landscape, Q2 2024](https://www.33across.co.uk/news/2024/06/03/forrester-the-sell-side-platforms-landscape-q2-2024)
 
-Nielsen March 26, 2024 [Media Coverage](https://www.33across.co.uk/tag/media-coverage/ "Media Coverage")
+Forrester June 3, 2024 [Media Coverage](https://www.33across.co.uk/tag/media-coverage/ "Media Coverage")
 
-Nielsen highlights the need for audience data and measurement solutions to navigate the complexities of these evolving environments as marketers aim to leverage technology for building meaningful relationships with consumers.
+33Across has been included in Forrester’s Q2 2024 report: The Sell-Side Platforms Landscape.
 
-[Read More »](https://www.33across.co.uk/news/2024/03/26/how-marketers-can-advance-personalized-marketing-across-the-digital-advertising-ecosystem)
+[Read More »](https://www.33across.co.uk/news/2024/06/03/forrester-the-sell-side-platforms-landscape-q2-2024)
 
-[![](https://www.33across.co.uk/wp-content/uploads/2024/03/BlogPost_Feature-Banner_20240318.png)](https://www.33across.co.uk/blog/2024/03/21/spring-cleaning-checklist-essential-tips-for-marketers)
+[![](https://www.33across.co.uk/wp-content/uploads/2024/05/33Across_Advertising-Report_Q12024_BlogPost2.png)](https://www.33across.co.uk/blog/2024/05/29/retail-and-finance-advertisers-scale-cookieless-sov-by-3x-yoy)
 
-### [Spring Cleaning Checklist: Essential Tips for Marketers](https://www.33across.co.uk/blog/2024/03/21/spring-cleaning-checklist-essential-tips-for-marketers)
+### [Retail and Finance Advertisers Scale Cookieless SOV by 3X YOY](https://www.33across.co.uk/blog/2024/05/29/retail-and-finance-advertisers-scale-cookieless-sov-by-3x-yoy)
 
-Antoinette Chan March 21, 2024 [Advertiser Perspectives](https://www.33across.co.uk/tag/advertiser-perspectives/ "Advertiser Perspectives")
+33Across May 29, 2024 [Industry Insights](https://www.33across.co.uk/tag/industry-insights/ "Industry Insights")
 
-The spring season brings fresh opportunities for home, cleaning, and DIY brands to connect with consumers ready to refresh their living spaces. As people shift into the spring cleaning mindset, marketers should be prepared to engage these motivated home buyers. Use this checklist to inform…
+More programmatic buyers have pushed to adopt alternative identifiers to solve for signal loss, a move prompted by Google’s announcement of removing third-party cookies from 1% of Chrome users. On average, publishers grew their cookie alternative share of revenue by…
 
-[Read More »](https://www.33across.co.uk/blog/2024/03/21/spring-cleaning-checklist-essential-tips-for-marketers)
+[Read More »](https://www.33across.co.uk/blog/2024/05/29/retail-and-finance-advertisers-scale-cookieless-sov-by-3x-yoy)
 
 Solutions
 ---------
@@ -334,7 +334,7 @@ Support
 
 ![33Across logo](https://www.33across.co.uk/wp-content/uploads/2022/05/33across_Logo_white.svg)
 
-[Envelope](mailto:hello@33across.com) [Facebook-f](https://www.facebook.com/33Across) [](https://twitter.com/33Across)[Linkedin-in](https://www.linkedin.com/company/33across-inc.) [Instagram](https://www.instagram.com/_33across/?)
+[Envelope](mailto:hello@33across.com) [Facebook-f](https://www.facebook.com/33Across) [X-twitter](https://twitter.com/33Across) [Linkedin-in](https://www.linkedin.com/company/33across-inc.) [Instagram](https://www.instagram.com/_33across/?)
 
 ![](https://www.33across.co.uk/wp-content/uploads/2023/11/33Across_MarTech_Breakthrough_Awards_Badge_2023.png)
 
