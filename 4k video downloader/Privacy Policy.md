@@ -2,7 +2,7 @@
 
 [](https://www.4kdownload.com/-54 "Home page")
 
-* [4K Video Downloader+
+* [4K Video Downloader Plus
     
     Download videos from YouTube and other sites](https://www.4kdownload.com/products/videodownloader-42)
 * [4K Image Compressor
@@ -39,7 +39,7 @@ English Deutsch français italiano español Português Brasileiro Nederlands pol
 
 Community
 
- [![twitter logo](https://static.4kdownload.com/main/img/redesign/ic-twitter.375d521a024b.svg)](https://twitter.com/4kdownload)[![reddit logo](https://static.4kdownload.com/main/img/redesign/ic-reddit-dark.eb0623b9985b.svg)](https://www.reddit.com/r/4kdownloadapps/)
+ [![twitter logo](https://static.4kdownload.com/main/img/redesign/ic-x-grey.3d28e08a8e92.svg)](https://twitter.com/4kdownload)[![reddit logo](https://static.4kdownload.com/main/img/redesign/ic-reddit-dark.eb0623b9985b.svg)](https://www.reddit.com/r/4kdownloadapps/)
 
 Get product updates
 
@@ -296,7 +296,7 @@ We use cookies to ensure you get the best experience on our website. If you cont
 
 Products
 
-[4K Video Downloader+](https://www.4kdownload.com/products/videodownloader-42) [4K Tokkit](https://www.4kdownload.com/products/tokkit/17) [4K Stogram](https://www.4kdownload.com/products/stogram-8) [4K YouTube to MP3](https://www.4kdownload.com/products/youtubetomp3-72) [4K Image Compressor](https://www.4kdownload.com/products/imagecompressor) [4K Video to MP3](https://www.4kdownload.com/products/videotomp3/27) [4K Slideshow Maker](https://www.4kdownload.com/products/slideshowmaker/3) [Download](https://www.4kdownload.com/downloads/34)
+[4K Video Downloader Plus](https://www.4kdownload.com/products/videodownloader-42) [4K Tokkit](https://www.4kdownload.com/products/tokkit/17) [4K Stogram](https://www.4kdownload.com/products/stogram-8) [4K YouTube to MP3](https://www.4kdownload.com/products/youtubetomp3-72) [4K Image Compressor](https://www.4kdownload.com/products/imagecompressor) [4K Video to MP3](https://www.4kdownload.com/products/videotomp3/27) [4K Slideshow Maker](https://www.4kdownload.com/products/slideshowmaker/3) [Download](https://www.4kdownload.com/downloads/34)
 
 Help
 
@@ -326,7 +326,7 @@ Support Team
 
 Community
 
- [![Twitter](https://static.4kdownload.com/main/img/redesign/ic-twitter.375d521a024b.svg)](https://twitter.com/4kdownload)[![YouTube](https://static.4kdownload.com/main/img/redesign/ic-youtube-grey.68e8c82c3f8d.svg)](https://www.youtube.com/channel/UCUlYb1XsnOxxOtW4Od19m7A)
+ [![Twitter](https://static.4kdownload.com/main/img/redesign/ic-x-grey.3d28e08a8e92.svg)](https://twitter.com/4kdownload)[![YouTube](https://static.4kdownload.com/main/img/redesign/ic-youtube-grey.68e8c82c3f8d.svg)](https://www.youtube.com/channel/UCUlYb1XsnOxxOtW4Od19m7A)
 
 ![Wechat](https://static.4kdownload.com/main/img/redesign/ic-wechat-footer.2fbee218ccaf.svg)
 
