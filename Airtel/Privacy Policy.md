@@ -22,7 +22,7 @@
 
 * [Pay Bill](https://www.airtel.in/broadband-bill-pay?icid=header)
 * [Buy New Connection](https://www.airtel.in/broadband/?icid=header)
-* [View Plans](https://www.airtel.in/broadband/?icid=header)
+* [View Plans](https://www.airtel.in/wifi-plans/?icid=header)
 
 ### DTH
 
@@ -61,9 +61,9 @@ Personal [Career](https://careers.airtel.com/?icid=header) [Business](https://ww
 
 #### Online Privacy Policy
 
-**Last updated: 4th April, 2024**
+**Last updated: 12th June, 2024**
 
-We at Bharti Airtel Limited and Bharti Hexacom Limited (hereinafter mentioned as "Airtel") are committed to protecting our customers’ personal information and strive to maintain the privacy of your Personal Information.
+We at Bharti Airtel Limited (hereinafter mentioned as "Airtel") are committed to protect our customers’ personal information and strive to maintain the privacy of your Personal Information.
 
 “Personal information” is any information that can be used by itself to uniquely identify, contact, or locate a person, or can be used with information available from other sources to uniquely identify an individual.
 
@@ -73,7 +73,7 @@ Personal information collected and/or held by us may include but is not limited 
 
 For the purpose of this policy, sensitive personal data or information like financial information (such as bank account or credit card or debit card or other payment instrument details), passwords or authentication information for any of our products or services etc. has been considered as a part of Personal Information.
 
-Airtel and its group companies may collect, store, process and transfer your Personal Information well in accordance with the applicable laws and regulations for a variety of regulatory and business purposes. These may include, but are not limited to:
+Airtel and its group companies may collect, store, process and transfer your Personal Information in accordance with the applicable laws and regulations for a variety of regulatory and business purposes. These may include, but are not limited to:
 
 * Verify your identity;
 * Complete transactions effectively and bill for products and services;
@@ -82,13 +82,13 @@ Airtel and its group companies may collect, store, process and transfer your Per
 * Provide, maintain, personalise and improve our products and services;
 * Research, develop and market new products and services
 * Anticipate and resolve issues and concerns with our products and services;
-* Promote and market products services and offfers which we consider may be of interest to you and/or may benefit you; and
-* Ensure adherence to legal and regulatory requirements
-* Prevention and detection of frauds and crimes
+* Promote and market products services and offers which we consider may be of interest to you and/or may benefit you;
+* Ensure adherence to legal and regulatory requirements; and
+* Prevention and detection of frauds and crimes.
 
-Non-personal information can be used to deliver based on your interest, for analyzing different trends and determining the performance of these services.
+Non-personal information can be used to deliver products and services based on your interest, for analyzing different trends and determining the performance of these products and services.
 
-This Privacy Policy describes the Personal Information which we may collect and provides our approach towards handling and usage of or dealing with the same in compliance with the applicable laws and regulations.
+This Privacy Policy describes the Personal Information which we may collect and provides our approach towards handling and usage of or of dealing with the same in compliance with the applicable laws and regulations.
 
 Please read the terms of this Privacy Policy carefully. By using and continuing to use our products and services, you are deemed to have accepted and consented to the terms of this Policy.
 
@@ -99,11 +99,8 @@ For further details on the policy, please click on the links below:
 * Security Practices and Procedures
 * Access and Correction
 * Feedback and Concerns
-* FF1 Patroller App
-* FF1 OSP Engineer App
-* FF1 Engineer App
 
-airtel reserves the right to amend or modify this Privacy Policy at any time, as and when the need arises. We request you to visit our website www.airtel.in periodically for contemporary information and changes.
+Airtel reserves the right to amend or modify this Privacy Policy at any time, as and when the need arises. We request you to visit our website www.airtel.in periodically for contemporary information and changes.
 
 ##### Collection of Personal Information
 
@@ -125,11 +122,11 @@ In case you do not provide your information or consent for usage of Personal Inf
 
 We may share your Personal Information for the purposes detailed in this Privacy Policy with our internal third parties, which are the other entities in our group of companies.
 
-We may transfer your personal information or other information collected, stored, processed by us to any other entity or organization located in India or outside India only in to fulfil the terms of a contract we have with you or if you have consented (at the time of collection of information) to the same. This may also include sharing of aggregated information with them in order for them to understand our environment and consequently, provide you with better services. While sharing your Personal Information with third parties, adequate organizational, technical and security measures shall be taken to ensure that reasonable security practices are followed at the third party.
+We may transfer your personal information or other information collected, stored, processed by us to any other entity or organization located in India or outside India only in order to fulfil the terms of a contract we have with you or if you have consented (at the time of collection of information) to the same. This may also include sharing of aggregated information with them in order for them to understand our environment and consequently, provide you with better services. While sharing your Personal Information with third parties, adequate organizational, technical and security measures shall be taken to ensure that reasonable security practices are followed at the third party.
 
 If you wish to opt out of receiving product or service related communication from us, please SMS ‘START DND’ to 1909 (toll free).
 
-**Government Agencies:** We may also share your Personal Information without your consent with Government agencies or other authorized law enforcement agencies (LEAs) mandated under law to obtain such information for the purpose of verification of identity or for prevention, detection, investigation including but not limited to cyber incidents, prosecution, and punishment of offences.
+Government Agencies: We may also share your Personal Information without your consent with Government agencies or other authorized law enforcement agencies (LEAs) empowered by law to obtain such information for the purpose of verification of identity or for prevention, detection, investigation including but not limited to cyber incidents, prosecution, and punishment of offences.
 
 We may obtain your consent for sharing your Personal Information in several ways, such as in writing, online, through "click-through" agreements; orally, including through interactive voice response; or when your consent is part of the terms and conditions pursuant to which we provide you service. We, however assure you that Airtel does not disclose your Personal Information to unaffiliated third parties (parties outside Airtel corporate network and its Strategic and Business Partners) which could lead to invasion of your privacy.
 
@@ -143,7 +140,7 @@ We further take adequate steps to ensure that our third parties adopt reasonable
 
 While we observe reasonable security measures to protect your Personal Information on all our digital platforms and internet connections, security risks may still arise for reasons outside of our control such as hacking, virus disseminations, force majeure events, breaches of firewall and secure server software etc. Please note that the above-mentioned measures do not guarantee absolute protection to the Personal Information.
 
-For any responsible disclosure of a security vulnerability in our website, mobile application or our services, please send an email to [securitybugs@airtel.com.](mailto:securitybugs@airtel.com)
+For any responsible disclosure of a security vulnerability in our website, mobile application or our services, please send an email to [securitybugs@airtel.com](mailto:securitybugs@airtel.com)
 
 ##### Access and Correction
 
@@ -153,234 +150,19 @@ If you no longer want to receive marketing messages from Airtel, you can choose 
 
 The easiest way to opt out is by sending a SMS “START DND” to 1909(Toll free).
 
-There are also various other ways to opt out:  
-• Call our customer services team on 121  
-• Tell the adviser if you receive a marketing call  
-• Disable push notification messages, including marketing messages, at any time in our apps by changing the notification settings on your device or by uninstalling the app
+There are also various other ways to opt out:
 
-You may have received marketing from Airtel even if you’re not a customer or have never had contact with us. This is a result of third-party marketing lists which Airtel may acquire from time to time, stating that you have given permission to be contacted by other organisations. If you’ve registered with us to opt out of marketing from Airtel, you shouldn’t receive such communications.
+* Call our customer services team on 121
+* Tell the adviser if you receive a marketing call
+* Disable push notification messages, including marketing messages, at any time in our apps by changing the notification settings on your device or by uninstalling the app
+
+You may have received marketing message or messages from Airtel even if you are not a customer or have never had contact with us. This may be a result of third-party marketing lists which Airtel may acquire from time to time, stating that you have given permission to be contacted by other organisations. If you’ve registered with us to opt out of marketing from Airtel, you shouldn’t receive such communications.
 
 We reserves the right to modify this Privacy Notice. We will post any changes do our Privacy Notice on this page. Please check the “Last Updated” legend at the top of this page to see when this Privacy Notice was last revised. We encourage you to check frequently to see the current Privacy Notice to be informed of how Airtel is committed to protecting your information and providing you with improved content on our site in order to enhance your experience.
 
 ##### Feedback and Concerns
 
-We are committed to safeguard your personal information collected and handled by us and look forward to your continued support for the same. In case of any feedback or concern regarding protection of your personal information, you can contact us at [privacygrievance.officer@airtel.com](mailto:privacygrievance.officer@airtel.com).
-
-##### FF1 Patroller App
-
-At the time you (a) register to the FF1 Patroller application (“Software”) for using the services, products and materials made available to you using the Software (“Service”), (b) make any payments related to your use of the Service, (c) download any content made available through the Service (“Content”), (d) update the Software, (e) share any information through the Software and/or (f) contact us through our help and support channels, we may ask you for your personal data (such as your name, telephone number, address, date of birth, credit card details (if required as mode of payment) certain unique identifiers, and any other information or data that can be used to identify or contact you) (“Personal Data”). By registering to the Service and/or using the Software / Content, you hereby agree to be bound by the Terms of Use and the terms in this privacy notice (“Privacy Notice”) We also may automatically receive and track certain data about your mobile device (such as your device-type, time- zone, version of the operating system or Software currently installed, and language preference) or your activity logs from the use of the Service, Software and Content, and we may create a unique device ID for you so we can recognize you. Airtel may collect such non-identifiable information for gathering data on what parts of the Service / Software are of most interest to Users. In some cases, we can automatically detect your location data, but we will not use it unless you give us permission to do so. If you connect with any social networking site (“SNS”), we may also receive some data from that network (e.g. your SNS ID, name, profile picture, gender, age, locale and email address), which shall be deemed to be included within the meaning of your Personal Data. You are not required to provide the Personal Data. However, you agree that in that case we may not be able to provide you with our products or services or respond to any queries you may have.
-
-**2\. ​Use of Personal Data**
-
-We may use your Personal Data in accordance with the corresponding Terms of Use, and more particularly for the following purposes
-
-a. to identify you from time to time, as required, and to validate your use of theServices,
-
-b. to provide you with the Services and the display of customized content, and targeted advertising both on our apps/websites and on other apps/ websites that we advertise through,
-
-c. to communicate with the Software and Services and for resolving customer service issues,
-
-d. to determine when you link from our app / Software to one of our partner apps, so that we can monitor the level of traffic that we generate for our partner apps,
-
-e. to ensure the technical functioning of all our products and services,
-
-f. to protect the Software’s copyright,
-
-g. to enforce our Terms of Use,
-
-h. to comply with laws, requests from a government bodies or courts, or to respond to litigation,
-
-i. to enable us to use a third party to perform surveys measuring your experiences and use of our services,
-
-j. to conduct internal auditing, data analysis, and research to improve our products and services.
-
-k. to share your Personal Data with Airtel’s affiliates and group companies for any of therefore going purposes, which affiliates may also combine your Personal Data with other information in this regard.
-
-l. to transfer user information to Airtel owned domains including but not limited to
-
-[https://sndgateway.airtel.com](https://sndgateway.airtel.com/) ​, [https://retailerapp.airtelbank.com](https://retailerapp.airtelbank.com/), [​https:// nwexp.airtel.com](https://www.airtel.in/privacy-policy/%E2%80%8Bhttps://%20nwexp.airtel.com) ​over HTTPS
-
-We may also encrypt and/or aggregate your data with other users’ data in order to create statistics about the general use of the Software and related websites, which helps us to develop new products and services. You understand that we may also share this aggregated data with our business partners and third party advertisers.
-
-Nothing anything else in this Privacy Notice, you understand that in order to comply with the applicable laws and contractual requirements, Airtel may be required to access your location data in order to ensure that your access to the Service is within a particular geographical territory. You hereby consent to such access by Airtel for the foregoing purposes.
-
-**3\. ​You sharing data with third parties**
-
-Third parties (such as companies who advertise through our apps) may require you to provide your personal data in order to access their products, advertisements and offers. If you visit or register for a third party product, advertisement or offer, we may pass some data about your device to that third party (e.g. your tag history and country of registration) so that they can send you offers. However, we will not pass your email address or other contact details to these third parties without your permission.
-
-Any third parties’ use of your personal data is governed by their own privacy policy (which should be accessible from their website or application). If you do not want third parties to be able to access or use your personal data, you should not register for, click on or use the applicable third party application or product.
-
-**4\. ​Sharing with social networks**
-
-If you register to or use the Service using an SNS account, you allow Airtel to automatically share your activity, usage and activity-related stories with the Service, Software and Content. You understand that Airtel may post such information on your SNS profile/account. Airtel may also publish such information to any other integrated or associated services of Airtel. For the purpose of identification, authentication and ease of access, Airtel may store your username and an access token or similar credentials obtained from such SNS/third party service.
-
-**5\. ​Airtel sharing data with third parties**
-
-Airtel may provide your Personal Data or any portion of it to Airtel’s strategic partners that work with Airtel to provide products and services, or that help Airtel market its products and services to customers. Your Personal Data will only be shared by Airtel to provide or improve our products, services and advertising and not for marketing purposes of such third parties. You further acknowledge that Airtel may be required under law, legal process, litigation, and/or requests from public and governmental authorities to disclose your Personal Data.
-
-Further, Airtel payment processing partners /gateways may access you billing and shipping information (including your credit cards details, balance in your Airtel account, etc.) in relation to any payments that you make for using the Service. You agree that such third-party partners of Airtel may receive such information directly from you. Such third parties’ access and protection of your Personal Data will be in accordance with their privacy and security policies and Airtel will not be liable for the same in any way.
-
-**​6. Links to other websites**
-
-We may display links to third party websites. Please note that we cannot control and cannot be held responsible for the activities of such websites. You should always read the privacy policy of a website to find out more about how personal data is collected and processed.
-
-**7\. ​Use of Cookies**
-
-Airtel uses cookies and beacons to assist in delivering the service and to provide a positive and personalized user experience. Cookies are files sent to your browser from a web server and stored on your computer's hard drive. Our persistent and session ID Cookies are used to identify unique visitors and to provide a personalized user experience. Beacons are bits of code that function similar to cookies. Our beacons are embedded in outgoing emails and generate a call back to the Airtel server when such emails are opened. Airtel uses beacons to track the status of sent emails. If you do not wish to receive cookies, you may disable them.
-
-**8\. ​Security**
-
-Airtel has implemented adequate and industry accepted processes designed to protect Personal Data and maintain security. It is the User’s responsibility to protect the security of their login information. Airtel’s servers are located in secure server environments. Firewalls and other advanced security technologies are employed to prevent interference or access from outside intruders. These safeguards help prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of data.
-
-**9\. ​Choice**
-
-The Software/Service may allow you to choose the manner of and the extent to which you wish to disclose the Personal Data. You may also be allowed to disable some of the features that require sharing of Personal Data.
-
-**10\. ​Changes to Privacy Policy**
-
-Airtel reserves the right to make changes to this Privacy Policy, and will post any revisions on this page.
-
-##### FF1 OSP Engineer App
-
-At the time you (a) register to the FF1 OSP Engineer application (“Software”) for using the services, products and materials made available to you using the Software (“Service”), (b) make any payments related to your use of the Service, (c) download any content made available through the Service (“Content”), (d) update the Software, (e) share any information through the Software and/or (f) contact us through our help and support channels, we may ask you for your personal data (such as your name, telephone number, address, date of birth, credit card details (if required as mode of payment) certain unique identifiers, and any other information or data that can be used to identify or contact you) (“Personal Data”). By registering to the Service and/or using the Software / Content, you hereby agree to be bound by the Terms of Use and the terms in this privacy notice (“Privacy Notice”) We also may automatically receive and track certain data about your mobile device (such as your device-type, time- zone, version of the operating system or Software currently installed, and language preference) or your activity logsfrom the use of the Service, Software and Content, and we may create a unique device ID for you so we can recognize you. Airtel may collect such non-identifiable information for gathering data on what parts of the Service / Software are of most interest to Users. In some cases, we can automatically detect your location data, but we will not use it unless you give us permission to do so. If you connect with any social networking site (“SNS”), we may also receive some data from that network (e.g. your SNS ID, name, profile picture, gender, age, locale and email address), which shall be deemed to be included within the meaning of your Personal Data. You are not required to provide the Personal Data. However, you agree that in that case we may not be able to provide you with our products or services or respond to any queries you may have. Many of our services require us to collect images, files and other information from your device’s camera, photo gallery and file storage. For example, you won’t be able to click photos or upload photos from your camera roll for daily field-related activities in absence of camera access.
-
-**2\. Use of Personal Data**
-
-We may use your Personal Data in accordance with the corresponding Terms of Use, and more particularly for the following purposes:
-
-a. to identify you from time to time, as required, and to validate your use of the Services,
-
-b. to provide you with the Services and the display of customized content, and targeted advertisingboth on ourapps/websites and on other apps/ websites that we advertise through,
-
-c. to communicate with the Software and Services and for resolving customer service issues,
-
-d. to determine when you link from our app / Software to one of our partner apps, so that we can monitor the level of traffic that we generate for our partner apps,
-
-e. to ensure the technical functioning of all our products andservices, f. to protect the Software’s copyright,
-
-g. to enforce our Terms of Use, h. to comply with laws, requests from a government bodies or courts, or to respond to litigation,
-
-i. to enable us to use a third party to perform surveys measuring your experiences and use of our services,
-
-j. to conduct internal auditing, data analysis, and research to improve our products and services.
-
-k. to share your Personal Data with Airtel’s affiliates and group companies for any of theforegoing purposes, which affiliates may also combine your Personal Data with other information in this regard.
-
-l. to transfer user information to Airtel owned domains including but not limited to
-
-[https://sndgateway.airtel.com](https://sndgateway.airtel.com/) , [https://retailerapp.airtelbank.com](https://retailerapp.airtelbank.com/), [https:// nwexp.airtel.com](https:// nwexp.airtel.com) over HTTPS.
-
-We may also encrypt and/or aggregate your data with other users’ data in order to create statistics about the general use of the Software and related websites, which helps us to develop new products and services. You understand that we may also share this aggregated data with our business partners and third party advertisers.
-
-Nothing anything else in this Privacy Notice, you understand that in order to comply with the applicable laws and contractual requirements, Airtel may be required to access your location data in order to ensure that your access to the Service is within a particular geographical territory. You hereby consent to such access by Airtel for the foregoing purposes.
-
-**3\. You sharing data with third parties**
-
-Third parties (such as companies who advertise through our apps) may require you to provide your personal data in order to access their products, advertisements and offers. If you visit or register for a third party product, advertisement or offer, we may pass some data about your device to that third party (e.g. your tag history and country of registration) so that they can send you offers. However, we will not pass your email address or other contact details to these third parties without your permission.
-
-Any third parties’ use of your personal data is governed by their own privacy policy (which should be accessible from their website or application). If you do not want third parties to be able to access or use your personal data, you should not register for, click on or use the applicable third party application or product.
-
-**4\. Sharing with social networks**
-
-If you register to or use the Service using an SNS account, you allow Airtel to automatically share your activity, usage and activity-related stories with the Service, Software and Content. You understand that Airtel may post such information on your SNS profile/account. Airtel may also publish such information any other integrated or associated services of Airtel. For the purpose of identification, authentication and ease of access, Airtel may store your username and an access token or similar credentials obtained from such SNS/third party service.
-
-**5\. Airtel sharing data with third parties**
-
-Airtel may provide your Personal Data or any portion of it to Airtel’s strategic partners that work with Airtel to provide products and services, or that help Airtel market its products and services to customers. Your Personal Data will only be shared by Airtel to provide or improve our products, services and advertising and not for marketing purposes of such third parties. You further acknowledge that Airtel may be required under law, legal process, litigation, and/or requests from public and governmental authorities to disclose your Personal Data.
-
-Further, Airtel payment processing partners /gateways may access you billing and shipping information (including your credit cards details, balance in your Airtel account, etc.) in relation to any payments that you make for using the Service. You agree that such third-party partners of Airtel may receive such information directly from you. Such third parties’ access and protection of your Personal Data will be in accordance with their privacy and security policies and Airtel will not be liable for the same in any way.
-
-**6\. Links to other websites**
-
-We may display links to third party websites. Please note that we cannot control and cannot be held responsible for the activities of such websites. You should always read the privacy policy of a website to find out more about how personal data is collected and processed.
-
-**7\. Use of Cookies**
-
-Airtel uses cookies and beacons to assist in delivering the service and to provide a positive and personalized user experience. Cookies are files sent to your browser from a web server and stored on your computer's hard drive. Our persistent and session ID Cookies are used to identify unique visitors and to provide a personalized user experience. Beacons are bits of code that function similar to cookies. Our beacons are embedded in outgoing emails and generate a call back to the Airtel server when such emails are opened. Airtel uses beacons to track the status of sent emails. If you do not wish to receive cookies, you may disable them.
-
-**8\. Security**
-
-Airtel has implemented adequate and industry accepted processes designed to protect Personal Data and maintain security. It is the User’s responsibility to protect the security of their login information. Airtel’s servers are located in secure server environments. Firewalls and other advanced security technologies are employed to prevent interference or access from outside intruders. These safeguards help prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of data.
-
-**9\. Choice**
-
-The Software/Service may allow you to choose the manner of and the extent to which you wish to disclose the Personal Data. You may also be allowed to disable some of the features that require sharing of Personal Data.
-
-**10\. Changes to Privacy Policy**
-
-Airtel reserves the right to make changes to this Privacy Policy, and will post any revisions on this page.
-
-##### FF1 Engineer App Privacy Policy
-
-At the time you (a) register to the FF1 Engineer application (“Software”) for using the services, products and materials made available to you using the Software (“Service”), (b) make any payments related to your use of the Service, (c) download any content made available through the Service (“Content”), (d) update the Software, (e) share any information through the Software and/or (f) contact us through our help and support channels, we may ask you for your personal data (such as your name, telephone number, address, date of birth, credit card details (if required as mode of payment) certain unique identifiers, and any other information or data that can be used to identify or contact you) (“Personal Data”). By registering to the Service and/or using the Software / Content, you hereby agree to be bound by the Terms of Use and the terms in this privacy notice (“Privacy Notice”) We also may automatically receive and track certain data about your mobile device (such as your device-type, time- zone, version of the operating system or Software currently installed, and language preference) or your activity logsfrom the use of the Service, Software and Content, and we may create a unique device ID for you so we can recognize you. Airtel may collect such non-identifiable information for gathering data on what parts of the Service / Software are of most interest to Users. In some cases, we can automatically detect your location data, but we will not use it unless you give us permission to do so. If you connect with any social networking site (“SNS”), we may also receive some data from that network (e.g. your SNS ID, name, profile picture, gender, age, locale and email address), which shall be deemed to be included within the meaning of your Personal Data. You are not required to provide the Personal Data. However, you agree that in that case we may not be able to provide you with our products or services or respond to any queries you may have.
-
-**2\. Use of Personal Data**
-
-We may use your Personal Data in accordance with the corresponding Terms of Use, and more particularly for the following purposes:
-
-a. to identify you from time to time, as required, and to validate your use of theServices,
-
-b. to provide you with the Services and the display of customized content, and targeted advertisingboth on ourapps/websites and on other apps/ websites that we advertise through,
-
-c. to communicate with the Software and Services and for resolving customer service issues,
-
-d. to determine when you link from our app / Software to one of our partner apps, so that we can monitor the level of traffic that we generate for our partner apps,
-
-e. to ensure the technical functioning of all our products andservices, f. to protect the Software’s copyright,
-
-g. to enforce our Terms of Use,
-
-h. to comply with laws, requests from a government bodies or courts, or to respond to litigation,
-
-i. to enable us to use a third party to perform surveys measuring your experiences and use of our services,
-
-j. to conduct internal auditing, data analysis, and research to improve our products and services.
-
-k. to share your Personal Data with Airtel’s affiliates and group companies for any of theforegoing purposes, which affiliates may also combine your Personal Data with other information in this regard.
-
-l. to transfer user information to Airtel owned domains including but not limited to
-
-[https://sndgateway.airtel.com](https://sndgateway.airtel.com/), [https://retailerapp.airtelbank.com](https://retailerapp.airtelbank.com/), [https:// nwexp.airtel.com](https:// nwexp.airtel.com) over HTTPS.
-
-We may also encrypt and/or aggregate your data with other users’ data in order to create statistics about the general use of the Software and related websites, which helps us to develop new products and services. You understand that we may also share this aggregated data with our business partners and third party advertisers.
-
-Nothing anything else in this Privacy Notice, you understand that in order to comply with the applicable laws and contractual requirements, Airtel may be required to access your location data in order to ensure that your access to the Service is within a particular geographical territory. You hereby consent to such access by Airtel for the foregoing purposes.
-
-**3\. You sharing data with third parties**
-
-Third parties (such as companies who advertise through our apps) may require you to provide your personal data in order to access their products, advertisements and offers. If you visit or register for a third party product, advertisement or offer, we may pass some data about your device to that third party (e.g. your tag history and country of registration) so that they can send you offers. However, we will not pass your email address or other contact details to these third parties without your permission.
-
-Any third parties’ use of your personal data is governed by their own privacy policy (which should be accessible from their website or application). If you do not want third parties to be able to access or use your personal data, you should not register for, click on or use the applicable third party application or product.
-
-**4\. Sharing with social networks**
-
-If you register to or use the Service using an SNS account, you allow Airtel to automatically share your activity, usage and activity-related stories with the Service, Software and Content. You understand that Airtel may post such information on your SNS profile/account. Airtel may also publish such information any other integrated or associated services of Airtel. For the purpose of identification, authentication and ease of access, Airtel may store your username and an access token or similar credentials obtained from such SNS/third party service.
-
-**5\. Airtel sharing data with third parties**
-
-Airtel may provide your Personal Data or any portion of it to Airtel’s strategic partners that work with Airtel to provide products and services, or that help Airtel market its products and services to customers. Your Personal Data will only be shared by Airtel to provide or improve our products, services and advertising and not for marketing purposes of such third parties. You further acknowledge that Airtel may be required under law, legal process, litigation, and/or requests from public and governmental authorities to disclose your Personal Data.
-
-Further, Airtel payment processing partners /gateways may access you billing and shipping information (including your credit cards details, balance in your Airtel account, etc.) in relation to any payments that you make for using the Service. You agree that such third-party partners of Airtel may receive such information directly from you. Such third parties’ access and protection of your Personal Data will be in accordance with their privacy and security policies and Airtel will not be liable for the same in any way.
-
-**6\. Links to other websites**
-
-We may display links to third party websites. Please note that we cannot control and cannot be held responsible for the activities of such websites. You should always read the privacy policy of a website to find out more about how personal data is collected and processed.
-
-**7\. Use of Cookies**
-
-Airtel uses cookies and beacons to assist in delivering the service and to provide a positive and personalized user experience. Cookies are files sent to your browser from a web server and stored on your computer's hard drive. Our persistent and session ID Cookies are used to identify unique visitors and to provide a personalized user experience. Beacons are bits of code that function similar to cookies. Our beacons are embedded in outgoing emails and generate a call back to the Airtel server when such emails are opened. Airtel uses beacons to track the status of sent emails. If you do not wish to receive cookies, you may disable them.
-
-**8\. Security**
-
-Airtel has implemented adequate and industry accepted processes designed to protect Personal Data and maintain security. It is the User’s responsibility to protect the security of their login information. Airtel’s servers are located in secure server environments. Firewalls and other advanced security technologies are employed to prevent interference or access from outside intruders. These safeguards help prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of data.
-
-**9\. Choice**
-
-The Software/Service may allow you to choose the manner of and the extent to which you wish to disclose the Personal Data. You may also be allowed to disable some of the features that require sharing of Personal Data.
-
-**10\. Changes to Privacy Policy**
-
-Airtel reserves the right to make changes to this Privacy Policy, and will post any revisions on this page.
+We are committed to safeguard your personal information collected and handled by us and look forward to your continued support for the same. In case of any feedback or concern regarding protection of your personal information, you can contact us at [privacygrievance.officer@airtel.com](mailto:privacygrievance.officer@airtel.com.).
 
 ### Back to top    
 
