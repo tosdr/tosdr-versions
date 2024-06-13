@@ -19,11 +19,13 @@ You can opt-out of each cookie category (except strictly necessary cookies) by c
 
 [Do Not Sell](javascript:window.Osano.cm.showDoNotSell())
 
-[Certification Authorities – WebTrust – Deloitte](https://www.cpacanada.ca/webtrustseal?sealid=11138)
+[![](/wp-content/uploads/webtrust-certification-authorities.jpg)](https://www.cpacanada.ca/webtrustseal?sealid=11388)
 
-[![](/wp-content/uploads/WebTrust_BR-SSL.jpg)](https://www.cpacanada.ca/webtrustseal?sealid=11139)
+[![](/wp-content/uploads/webtrust-network-security.jpg)](https://www.cpacanada.ca/webtrustseal?sealid=11391)
 
-[![](/wp-content/uploads/WebTrust_ExtendedValidation.jpg)](https://www.cpacanada.ca/webtrustseal?sealid=11140)
+[![](/wp-content/uploads/webtrust-br-ssl.jpg)](https://www.cpacanada.ca/webtrustseal?sealid=11389)
+
+[![](/wp-content/uploads/webtrust-extended-validation.jpg)](https://www.cpacanada.ca/webtrustseal?sealid=11390)
 
 © 2024 AffirmTrust. All rights reserved.
 
