@@ -8,7 +8,7 @@ Menu
 
 [![](/themes/acton/dist/img/mobile-menu/acton_logo_white.svg)](https://www.acton.org/home)
 
-[![Acton University 2024 Mobile Banner](https://www.acton.org/sites/default/files/banner/au-2024/au24-mobile-big.jpg)](https://acton.swoogo.com/actonuniversity24)
+[![Sirico Parables book](https://www.acton.org/sites/default/files/banner/jl/hong-konger-mobile-banner.jpg)](https://www.youtube.com/watch?v=bRkuv-fOV7k)
 
 Close
 
@@ -81,9 +81,9 @@ Acton Main Megamenu
 * [Shop](https://shop.acton.org/)
 * [Donate](https://give.acton.org/)
 
-![](https://www.acton.org/sites/default/files/banner/au-2024/au-2024-image.png)
+![](https://www.acton.org/sites/default/files/banner/jl/Hong-Konger-now-streaming.png)
 
-![](https://www.acton.org/sites/default/files/banner/au-2024/au-2024-text.png) [![](https://www.acton.org/sites/default/files/banner/au-2024/au-2024-button.png)](https://acton.swoogo.com/actonuniversity24)
+[![](https://www.acton.org/sites/default/files/banner/jl/Hong-Konger-watch-now-button.png)](https://www.youtube.com/watch?v=bRkuv-fOV7k)
 
 Privacy Policy & Terms of Use
 =============================
