@@ -6,13 +6,17 @@
     * [Meet & Greet](https://www.987thebull.com/category/meet-greet/)
     * [Country News](https://www.987thebull.com/category/country/)
     * [Friends & Neighbors](https://www.987thebull.com/events/category/friends-and-neighbors/)
+    * [Top 5](https://www.987thebull.com/top5/)
     * [Recently Played](https://www.987thebull.com/recently-played/)
     * [Contact](https://www.987thebull.com/contact/)
+    * [Wall Of Winners](https://www.987thebull.com/winners/)
 * [Concerts & Events](https://www.987thebull.com/events/)
 * [Watch](https://www.987thebull.com/videos/)
     * [Bull Sessions](https://www.987thebull.com/category/bull-tv/pdx-live-studio/)
     * [Coors Light Cam](https://www.987thebull.com/category/bull-tv/coors-light-country-cam/)
 * [Win](https://www.987thebull.com/contests/)
+* [Positively Portland Stories](http://www.positivelyportlandstories.com/)
+* [We Need Influencers](https://music.musicdoodad.com/s3/c84aa2f30d04)
 * [PNC Live Studio RSVP](http://www.pnclivestudio.com/)
 * [Portland Marketplace](https://www.portlandmarketplace.com/)
 
@@ -42,14 +46,18 @@
     * [Meet & Greet](https://www.987thebull.com/category/meet-greet/)
     * [Country News](https://www.987thebull.com/category/country/)
     * [Friends & Neighbors](https://www.987thebull.com/events/category/friends-and-neighbors/)
+    * [Top 5](https://www.987thebull.com/top5/)
     * [Recently Played](https://www.987thebull.com/recently-played/)
     * [Contact](https://www.987thebull.com/contact/)
+    * [Wall Of Winners](https://www.987thebull.com/winners/)
 * [Concerts & Events](https://www.987thebull.com/events/)
 * [Watch](https://www.987thebull.com/videos/)
     
     * [Bull Sessions](https://www.987thebull.com/category/bull-tv/pdx-live-studio/)
     * [Coors Light Cam](https://www.987thebull.com/category/bull-tv/coors-light-country-cam/)
 * [Win](https://www.987thebull.com/contests/)
+* [Positively Portland Stories](http://www.positivelyportlandstories.com/)
+* [We Need Influencers](https://music.musicdoodad.com/s3/c84aa2f30d04)
 * [PNC Live Studio RSVP](http://www.pnclivestudio.com/)
 * [Portland Marketplace](https://www.portlandmarketplace.com/)
 
@@ -324,11 +332,11 @@ Recently Played
 
 |     |
 | --- |
-| 23Chayce Beckham<br><br>11:34am |
-| Where The Wild Things AreLuke Combs<br><br>11:30am |
-| Half Of MeThomas Rhett Ft Riley Green<br><br>11:27am |
-| Last NightMorgan Wallen<br><br>11:24am |
-| AustinDasha<br><br>11:21am |
+| Save MeJelly Roll Ft Lainey Wilson<br><br>5:34pm |
+| Pretty Little PoisonWarren Zeiders<br><br>5:24pm |
+| I Had Some HelpPost Malone Ft Morgan Wallen<br><br>5:21pm |
+| Hey DriverZach Bryan Ft The War And Treaty<br><br>5:18pm |
+| HurricaneLuke Combs<br><br>5:13pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -337,21 +345,21 @@ Recently Played
 You Might Also Like
 -------------------
 
-![](https://s3.amazonaws.com/syndication.abcaudio.com/files/2024-04-15/M_JellyRollAmericanIdol2024DisneyEricMcCandless.jpg)
+![](https://s3.amazonaws.com/syndication.abcaudio.com/files/2024-06-05/M_LukeCombsCMAAwards2023backstageScottKirkland.jpg)
 
-[Country News](https://www.987thebull.com/category/country/)[### Jelly Roll on how he lost 70 pounds and plans to lose more](https://www.987thebull.com/jelly-roll-on-how-he-lost-70-pounds-and-plans-to-lose-more/)
-
-* * *
-
-![](https://s3.amazonaws.com/syndication.abcaudio.com/files/2024-04-12/M_Jellyrollonidol_mccandless_041224.jpg)
-
-[Country News](https://www.987thebull.com/category/country/)[### Jelly Roll sued by Philadelphia musician Jellyroll for trademark infringement](https://www.987thebull.com/jelly-roll-sued-by-philadelphia-musician-jellyroll-for-trademark-infringement/)
+[Country News](https://www.987thebull.com/category/country/)[### Luke Combs pens heartfelt note to sons, Tex + Beau](https://www.987thebull.com/luke-combs-pens-heartfelt-note-to-sons-tex-beau/)
 
 * * *
 
-![](https://s3.amazonaws.com/syndication.abcaudio.com/files/2024-04-12/M_ChrisStapletonDisneyFrankMicelotta.jpg)
+![](https://s3.amazonaws.com/syndication.abcaudio.com/files/2024-06-05/M_LukeBryanCMAFestAbc.jpg)
 
-[Country News](https://www.987thebull.com/category/country/)[### Chris Stapleton rocks with Slash on early Fleetwood Mac cover, "Oh Well"](https://www.987thebull.com/chris-stapleton-rocks-with-slash-on-early-fleetwood-mac-cover-oh-well/)
+[Country News](https://www.987thebull.com/category/country/)[### Luke Bryan on his first time playing CMA Fest: "I remember just being as nervous as you could be"](https://www.987thebull.com/luke-bryan-on-his-first-time-playing-cma-fest-i-remember-just-being-as-nervous-as-you-could-be/)
+
+* * *
+
+![](https://s3.amazonaws.com/syndication.abcaudio.com/files/2024-06-06/M_JellyRollDunkin_060624.jpg)
+
+[Country News](https://www.987thebull.com/category/country/)[### Jelly Roll is partnering with Dunkin' for National Donut Day — because of course he is](https://www.987thebull.com/jelly-roll-is-partnering-with-dunkin-for-national-donut-day-because-of-course-he-is/)
 
 * * *
 
@@ -495,21 +503,21 @@ State
 Featured Brands
 ---------------
 
-[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
+[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
 
-News Talk • Eastern
+Country • Western
+
+[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
+
+Country • Western
+
+[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
+
+Sports • Midwest
 
 [![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
 
 Spanish • Western
-
-[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
-
-Top 40 • Eastern
-
-[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
-
-Country • Western
 
 [](https://www.alphamediausa.com/)
 
