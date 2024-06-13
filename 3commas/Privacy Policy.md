@@ -2,15 +2,15 @@
 
 * Trading Bots
     
+    * [Signal Bot
+        
+        Designed for TradingView users](https://3commas.io/signal-bot)
     * [DCA Bot
         
         Purchase at opportune moments](https://3commas.io/dca-bots)
     * [GRID Bot
         
         Trade in sideways markets](https://3commas.io/grid-bot)
-    * [Signal Bot
-        
-        Designed for TradingView users](https://3commas.io/signal-bot)
     
     * [Binance Bot](https://3commas.io/trading-bot-for-binance)
     * [OKX Bot](https://3commas.io/trading-bot-for-okx)
@@ -92,7 +92,7 @@
         Learn more about us and our story](https://3commas.io/about)
     * [Careers
         
-        We are hiring! Apply now](https://careers.3commas.io/)
+        We are hiring! Apply now](https://3commas-bf8aa341f252.breezy.hr/)
     * [Knowledge base
         
         Get answers to any question](https://help.3commas.io/en)
@@ -336,8 +336,6 @@ Trading Bots
 
 For Developers
 
-* [3Commas Apps](https://3commas.io/apps/dev)
-* [Apps Chat](https://t.me/+S7ESdFhs5aI3MGJi)
 * [API Git](https://github.com/3commas-io/3commas-official-api-docs)
 * [API Chat](https://t.me/xcommas_api)
 
@@ -351,7 +349,7 @@ Legal Information
 Company
 
 * [About us](https://3commas.io/about)
-* [Careers](https://careers.3commas.io/)
+* [Careers](https://3commas-bf8aa341f252.breezy.hr/)
 * [Affiliate program](https://3commas.io/affiliate)
 * [3Commas & Binance](https://3commas.io/binance)
 * [Blog](https://3commas.io/blog)
@@ -364,10 +362,11 @@ Company
 * [Price Charts](https://3commas.io/coin-price-chart)
 * [Sitemap](https://3commas.io/sitemap)
 * [Security](https://3commas.io/security)
+* [Predictions](https://3commas.io/predictions)
 
 **[DeCommas](https://decommas.io/)** is part of the 3Commas ecosystem
 
-![](/common/decommas.png)
+![](https://cdn.3commas.io/80/3commas-website/common/decommas.png)
 
 3Commas provides software only. Any references to trading, exchange, transfer, or wallet services, etc. are references to services provided by third-party service providers.
 
@@ -379,6 +378,6 @@ VisaMasterCardBitcoinLogoPayPal
 
 [AppStore](https://apps.apple.com/app/id6446649413)[GooglePlay](https://play.google.com/store/apps/details?id=io.threecommas.wallet)
 
-![](/_next/image?url=%2Fcommon%2Ffooter.png&w=640&q=75)
+![](https://cdn.3commas.io/80/3commas-website/common/footer.png)
 
 ![](https://d.adroll.com/ipixel/SRZPWJXCVVBAJL2B52EDU5/AJ6LCFRMLNEVRGRUALNEPR?name=a187e611)![](https://d.adroll.com/fb/ipixel/SRZPWJXCVVBAJL2B52EDU5/AJ6LCFRMLNEVRGRUALNEPR?name=a187e611)
