@@ -93,12 +93,12 @@ Contact us
 * [Contact sales](https://www.acronis.com/en-us/contact-sales/)
 * [Contact support](https://www.acronis.com/en-us/support/)
 
-Login
+Sign in
 
-* [Acronis Account Manage all of your Acronis software products](https://account.acronis.com/)
-* [Cyber Protection Console Access and administer your client cloud solutions](https://cloud.acronis.com/)
+* [Cyber Protect Cloud Access and administer your client cloud solutions](https://cloud.acronis.com/)
 * [Partner Portal All partner-related resources and tools at your fingertips](https://partners.acronis.com/login/)
-* [Connect Console Login to Acronis Connect Console](https://connect.acronis.com/register/)
+* [Acronis Account Manage all of your Acronis software products](https://account.acronis.com/)
+* [Connect Console Sign in to Acronis Connect Console](https://connect.acronis.com/register/)
 
 [](https://www.acronis.com/en-us/search/)
 
@@ -114,7 +114,7 @@ Menu Close
     
     Cybersecurity
     
-    [Advanced Security + EDR](https://www.acronis.com/en-us/products/cloud/cyber-protect/security-edr/) [Acronis MDR](https://www.acronis.com/en-us/products/cloud/cyber-protect/managed-detection-and-response/) [Advanced Email Security](https://www.acronis.com/en-us/products/cloud/cyber-protect/email-security/) [Collaboration App Security for M365](https://www.acronis.com/en-us/products/cloud/cyber-protect/m365-collaboration/) [Advanced Data Loss Prevention (DLP)](https://www.acronis.com/en-us/products/cloud/cyber-protect/data-loss-prevention/)
+    [Advanced Security + XDR](https://www.acronis.com/en-us/products/cloud/cyber-protect/extended-detection-and-response/) [Acronis MDR](https://www.acronis.com/en-us/products/cloud/cyber-protect/managed-detection-and-response/) [Advanced Email Security](https://www.acronis.com/en-us/products/cloud/cyber-protect/email-security/) [Collaboration App Security for M365](https://www.acronis.com/en-us/products/cloud/cyber-protect/m365-collaboration/) [Advanced Data Loss Prevention (DLP)](https://www.acronis.com/en-us/products/cloud/cyber-protect/data-loss-prevention/)
     
     Data protection
     
@@ -169,42 +169,69 @@ Menu Close
     
 * Solutions
     
-    [All solutions for service providers](https://www.acronis.com/en-us/solutions/cloud/)
+    Solutions
     
-    * [Managed server backup](https://www.acronis.com/en-us/solutions/cloud/server-backup/)
-    * [Recovery](https://www.acronis.com/en-us/solutions/cloud/recovery/)
+    For service providers
+    
+    For business
+    
+    Use cases
+    
+    * [Ransomware protection](https://www.acronis.com/en-us/solutions/cloud/ransomware-protection/)
+    * [Managed anti-malware protection](https://www.acronis.com/en-us/solutions/cloud/anti-malware-protection/)
+    * [Continuous data protection](https://www.acronis.com/en-us/solutions/cloud/continuous-data-protection/)
+    * [Endpoint protection](https://www.acronis.com/en-us/solutions/cloud/endpoint-protection/)
     * [Hosting service providers](https://www.acronis.com/en-us/solutions/cloud/hosting/)
+    * [Hybrid disaster recovery](https://www.acronis.com/en-us/solutions/cloud/hybrid-disaster-recovery/)
+    * [MSP patch management](https://www.acronis.com/en-us/solutions/cloud/patch-management/)
+    * [Prevention](https://www.acronis.com/en-us/solutions/cloud/prevention/)
+    * [Recovery](https://www.acronis.com/en-us/solutions/cloud/recovery/)
+    * [Managed server backup](https://www.acronis.com/en-us/solutions/cloud/server-backup/)
+    * [URL filtering and categorization](https://www.acronis.com/en-us/solutions/cloud/url-filtering/)
+    * [Vulnerability assessments](https://www.acronis.com/en-us/solutions/cloud/vulnerability-assessments/)
     
-    [All solutions for businesses](https://www.acronis.com/en-us/solutions/business/)
+    [Solutions for service providers](https://www.acronis.com/en-us/solutions/cloud/)
     
-    * [File backup and recovery](https://www.acronis.com/en-us/solutions/business/backup-and-recovery/)
-    * [Ransomware protection](https://www.acronis.com/en-us/solutions/business/ransomware-protection/)
-    * [IT disaster recovery](https://www.acronis.com/en-us/solutions/business/recovery/)
+    Integrations
     
-    Environment
+    * [Management](https://solutions.acronis.com/en-us/category/management/)
+    * [Automation](https://solutions.acronis.com/en-us/category/automation/)
+    * [Security](https://solutions.acronis.com/en-us/category/security/)
+    * [Data Protection](https://solutions.acronis.com/en-us/category/data-protection/)
     
-    * [Windows server backup](https://www.acronis.com/en-us/solutions/backup/physical/windows/)
-    * [Microsoft 365 backup](https://www.acronis.com/en-us/solutions/backup/cloud/m365/)
-    * [Microsoft Azure VM backup](https://www.acronis.com/en-us/solutions/backup/cloud/azure/)
-    * [Google Workspace backup](https://www.acronis.com/en-us/solutions/backup/cloud/workspace/)
-    * [Linux server backup](https://www.acronis.com/en-us/solutions/backup/physical/linux/)
-    * [Hyper-V backup](https://www.acronis.com/en-us/solutions/backup/virtual/hyperv/)
+    [All integrations](https://solutions.acronis.com/en-us/)
     
-    Industries
+    Environments
     
-    * [Government](https://acronisscs.com/)
-    * [Manufacturing](https://www.acronis.com/en-us/industries/backup/manufacturing/)
-    * [Healthcare](https://www.acronis.com/en-us/industries/backup/healthcare/)
+    [Applications](https://www.acronis.com/en-us/solutions/backup/application/) |
     
-    [Integrations](https://solutions.acronis.com/)
+    [Microsoft SQL Server](https://www.acronis.com/en-us/solutions/backup/application/sql/) |
     
-    * [ConnectWise Manage](https://solutions.acronis.com/integrations/connectwise-psa/)
-    * [Datto RMM](https://solutions.acronis.com/datto-rmm/)
-    * [Microsoft Intune](https://solutions.acronis.com/integrations/microsoft-intune/)
-    * [NinjaOne](https://solutions.acronis.com/ninjaone/)
-    * [Paessler PRTG](https://solutions.acronis.com/paessler-prtg/)
+    [Microsoft SharePoint](https://www.acronis.com/en-us/solutions/backup/application/sharepoint/) |
     
-    * [See all 200+ Integrations](https://solutions.acronis.com/)
+    [Cloud](https://www.acronis.com/en-us/solutions/backup/cloud/) |
+    
+    [Microsoft 365](https://www.acronis.com/en-us/solutions/backup/cloud/m365/) |
+    
+    [Google Workspace](https://www.acronis.com/en-us/solutions/backup/cloud/workspace/) |
+    
+    [Azure](https://www.acronis.com/en-us/solutions/backup/cloud/azure/) |
+    
+    [Amazon EC2](https://www.acronis.com/en-us/solutions/backup/cloud/ec2/) |
+    
+    [Endpoints](https://www.acronis.com/en-us/solutions/backup/endpoints/) |
+    
+    [Physical](https://www.acronis.com/en-us/solutions/backup/physical/) |
+    
+    [Windows Server](https://www.acronis.com/en-us/solutions/backup/physical/windows/) |
+    
+    [Linux](https://www.acronis.com/en-us/solutions/backup/physical/linux/) |
+    
+    [Virtual](https://www.acronis.com/en-us/solutions/backup/virtual/) |
+    
+    [Microsoft Hyper-V](https://www.acronis.com/en-us/solutions/backup/virtual/hyperv/) |
+    
+    [Mobile](https://www.acronis.com/en-us/solutions/backup/mobile/) |
     
 * Partners
     
@@ -217,6 +244,10 @@ Menu Close
     
     Benefits designed for you
     
+    * [Promotions](https://www.acronis.com/en-us/partners/promotions/)
+        
+        Active
+        
     * [Service providers](https://www.acronis.com/en-us/partners/service-providers/)
     * [Resellers](https://www.acronis.com/en-us/partners/resellers/)
     * [Affiliates](https://www.acronis.com/en-us/partners/affiliates/)
@@ -230,7 +261,7 @@ Menu Close
         
         Partners now have access to all sales and technical training — a $999 annual value per partner
         
-    * [MSP Academy](https://www.acronis.com/en-us/academy/msp/)
+    * [MSP Academy](https://academy.acronis.com/en-us/catalogue/)
         
         Vendor-neutral training, covering the A-Z of managing an MSP business
         
@@ -287,7 +318,7 @@ Menu Close
     
     Browse through a full list of the latest product documentation, case studies, white papers, eBooks, upcoming and on-demand webinars of Acronis
     
-    * [Secure MSP - Latest on threats to managed IT service provider security](https://www.acronis.com/en-us/cyber-protection-center/)
+    * [MSP Threats - Latest on threats to managed IT service provider security](https://www.acronis.com/en-us/cyber-protection-center/)
     * [Acronis Blog](https://www.acronis.com/en-us/blog/)
     
     Product resources
@@ -304,7 +335,7 @@ Menu Close
         
         Partners now have access to all sales and technical training — a $999 annual value per partner
         
-    * [MSP Academy](https://www.acronis.com/en-us/academy/msp/)
+    * [MSP Academy](https://academy.acronis.com/en-us/catalogue/)
         
         Vendor-neutral training, covering the A-Z of managing an MSP business
         
@@ -641,7 +672,7 @@ Engage with Acronis
 * [](https://www.acronis.com/en-us/cyber-protection-center/feed.xml)
 * [](https://www.youtube.com/user/Acronis)
 * [](https://www.linkedin.com/company/acronis)
-* [](https://community.spiceworks.com/pages/acronis)
+* [](https://community.spiceworks.com/t/about-vendor-acronis/1014518)
 * [](https://www.reddit.com/r/acronis)
 * [](https://www.facebook.com/acronis)
 
