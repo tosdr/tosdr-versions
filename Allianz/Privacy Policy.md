@@ -35,11 +35,13 @@
         * [Brand in action](https://www.allianz.com/en/about-us/brand/brand-in-action.html)
         * [Acting sustainably](https://www.allianz.com/en/about-us/brand/acting-sustainably.html)
         * [Partnerships](https://www.allianz.com/en/about-us/brand/partnerships.html)
-    * [![](/content/experience-fragments/onemarketing/azcom/Allianz_com/en_GB/azcom_header/flyout_teaser/about-us/master3/_jcr_content/root/teaser-horizontal/image.img.jpeg/1715751813842/ir-results-stage.jpeg)
+    * [![sustainability](/content/experience-fragments/onemarketing/azcom/Allianz_com/en_GB/azcom_header/flyout_teaser/sustainability/master/_jcr_content/root/teaser-horizontal/image.img.jpeg/1718293532816/flooding-in-southern-germany.jpeg)
         
-        ### Earnings Release: 1Q 2024
+        Jun 06, 2024
         
-        More](https://www.allianz.com/en/press/news/financials/business_results/240515-allianz-1q-2024-earnings-release.html)
+        ### Floods in southern Germany - Allianz donates up to two million euros to rescue and relief services
+        
+        More](https://www.allianz.com/en/press/news/commitment/community/240606-allianz-donates-up-to-two-million-euros-to-rescue-and-relief-services.html)
         
     
 * [Investor Relations](https://www.allianz.com/en/investor_relations.html)
@@ -109,11 +111,13 @@
         * [Financial Literacy](https://www.allianz.com/en/economic_research/sustainability-research/financialliteracy.html)
         * [Road to Paris 2024](https://www.allianz.com/en/about-us/brand/partnerships/olympic-paralympic-movements/road-to-paris-2024.html)
         * [Floods in southern Germany](https://www.allianz.com/en/press/topics/floods-in-southern-germany.html)
-    * [![](/content/experience-fragments/onemarketing/azcom/Allianz_com/en_GB/azcom_header/flyout_teaser/about-us/master3/_jcr_content/root/teaser-horizontal/image.img.jpeg/1715751813842/ir-results-stage.jpeg)
+    * [![sustainability](/content/experience-fragments/onemarketing/azcom/Allianz_com/en_GB/azcom_header/flyout_teaser/sustainability/master/_jcr_content/root/teaser-horizontal/image.img.jpeg/1718293532816/flooding-in-southern-germany.jpeg)
         
-        ### Earnings Release: 1Q 2024
+        Jun 06, 2024
         
-        More](https://www.allianz.com/en/press/news/financials/business_results/240515-allianz-1q-2024-earnings-release.html)
+        ### Floods in southern Germany - Allianz donates up to two million euros to rescue and relief services
+        
+        More](https://www.allianz.com/en/press/news/commitment/community/240606-allianz-donates-up-to-two-million-euros-to-rescue-and-relief-services.html)
         
     
 * [Careers](https://careers.allianz.com/)
@@ -150,13 +154,13 @@
         * [How we do business sustainably](https://www.allianz.com/en/sustainability/ratings/business.html)
     * [Sustainability Report & other publications](https://www.allianz.com/en/sustainability/sustainability-report-and-other-publications.html)
         * [Sustainability in the spotlight](https://www.allianz.com/en/sustainability/sustainability-report-and-other-publications/spotlight-on-sustainability.html)
-    * [![sustainability](/content/experience-fragments/onemarketing/azcom/Allianz_com/en_GB/azcom_header/flyout_teaser/sustainability/master/_jcr_content/root/teaser-horizontal/image.img.jpeg/1712667282964/sustainability-in-the-spotlight-flyout-teaser.jpeg)
+    * [![sustainability](/content/experience-fragments/onemarketing/azcom/Allianz_com/en_GB/azcom_header/flyout_teaser/sustainability/master/_jcr_content/root/teaser-horizontal/image.img.jpeg/1718293532816/flooding-in-southern-germany.jpeg)
         
-        Apr 08, 2024
+        Jun 06, 2024
         
-        ### Sustainability in the Spotlight
+        ### Floods in southern Germany - Allianz donates up to two million euros to rescue and relief services
         
-        More](https://www.allianz.com/en/sustainability/sustainability-report-and-other-publications/spotlight-on-sustainability.html)
+        More](https://www.allianz.com/en/press/news/commitment/community/240606-allianz-donates-up-to-two-million-euros-to-rescue-and-relief-services.html)
         
     
 * [Economic Research](https://www.allianz.com/en/economic_research.html)
