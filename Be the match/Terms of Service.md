@@ -13,7 +13,7 @@ Our name has changed but our mission has not: We save lives through cell therapy
 
 [](https://bethematch.org/ "Return to the homepage")
 
-[Give](https://bethematch.org/giveb/) [Join](https://my.bethematch.org/s/join?language=en_US&joinCode=headerjoin)
+[Give](https://bethematch.org/givea/) [Join](https://my.bethematch.org/s/join?language=en_US&joinCode=headerjoin)
 
 [Volunteer](https://bethematch.org/support-the-cause/participate/volunteer/) [Advocate](https://bethematch.org/support-the-cause/participate/join-our-legislative-advocacy-efforts/)
 
@@ -149,7 +149,6 @@ Search
         * [中國人 (Chinese)​](https://bethematch.org/transplant-basics/translated-materials/chinese/)
         * [한국인 (Korean​)](https://bethematch.org/transplant-basics/translated-materials/korean/)
         * [Português (Portuguese)](https://bethematch.org/transplant-basics/translated-materials/portuguese/)
-        * [Tiẽng Việt (Vietnamese)](https://bethematch.org/transplant-basics/translated-materials/vietnamese/)
     * [Transplant Basics
         -----------------](https://bethematch.org/transplant-basics/)
         
@@ -298,6 +297,7 @@ Search
         * [Someone like you Lateshas donor story](https://bethematch.org/blog/mission-supporters/someone-like-you-lateshas-donor-story/)
         * [Legacy Gift from Gary and Lauren Hurst will open the door to more matches more hope](https://bethematch.org/blog/mission-supporters/legacy-gift-from-gary-and-lauren-hurst-will-open-the-door-to-more-matches-more-hope/)
         * [Featured fundraiser: Matt Hamby](https://bethematch.org/blog/mission-supporters/featured-fundraiser--matt-hamby/)
+        * [Featured ambassador Casey Hauser](https://bethematch.org/blog/mission-supporters/featured-ambassador-casey-hauser/)
     * [Health and transplant](https://bethematch.org/blog/health-and-transplant/)
     * [Research](https://bethematch.org/blog/research/)
         * [Aba and Steroid Refractory cGVHD](https://bethematch.org/blog/research/aba-and-steroid-refractory-cgvhd/)
@@ -306,6 +306,8 @@ Search
         * [Donor Age - Haplo v MUD AML](https://bethematch.org/blog/research/donor-age---haplo-v-mud-aml/)
 * [News](https://bethematch.org/news/)
     * [News Releases](https://bethematch.org/news/news-releases/)
+        * [NMDP to Present New Stem Cell Transplantation Data at the 2024 American Society of Clinical Oncology Annual Meeting](https://bethematch.org/news/news-releases/nmdp-to-present-new-stem-cell-transplantation-data-at-the-2024-american-society-of-clinical-oncology-annual-meeting/)
+        * [NMDP and CIBMTR to Present New Promising Stem Cell Transplantation Trial Data using Mismatched Unrelated Donors at 2024 ASCO Annual Meeting](https://bethematch.org/news/news-releases/nmdp-and-cibmtr-to-present-new-promising-stem-cell-transplantation-trial-data-using-mismatched-unrelated-donors-at-2024-asco-annual-meeting/)
     * [Media contacts](https://bethematch.org/news/media-contacts/)
     * [Maps](https://bethematch.org/news/maps/)
     * [Public service announcements](https://bethematch.org/news/public-service-announcements/)
