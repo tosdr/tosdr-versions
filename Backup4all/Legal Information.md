@@ -142,15 +142,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to restore a backup job created with a Ba ...](https://www.backup4all.com/how-to-restore-a-backup-job-created-with-a-backup4all-plugin-kb.html)  
-    
 * [How to create a differential backup](https://www.backup4all.com/how-to-create-a-differential-backup-kb.html)  
     
-* [Backup from FTP](https://www.backup4all.com/backup-from-ftp-kb.html)  
+* [How to use the Getting started window](https://www.backup4all.com/how-to-use-the-getting-started-window-kb.html)  
     
-* [How to use the Scheduler](https://www.backup4all.com/how-to-use-the-scheduler-kb.html)  
+* [How to back up data files from GreenQloud usi ...](https://www.backup4all.com/how-to-back-up-data-files-from-greenqloud-using-backup4all-kb.html)  
     
-* [What is cloud backup](https://www.backup4all.com/what-is-cloud-backup-kb.html)  
+* [How to shutdown computer after backup](https://www.backup4all.com/how-to-shutdown-computer-after-backup-kb.html)  
+    
+* [How to back up data files from FTP using Back ...](https://www.backup4all.com/how-to-back-up-data-files-from-ftp-using-backup4all-kb.html)  
     
 
 Choose language:
