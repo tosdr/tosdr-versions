@@ -82,7 +82,7 @@ Privacy Policy
 
 * * *
 
-**Effective & Last Updated On: 03-30-2023**
+**Effective & Last Updated On: 06-13-2024**
 
 Alpha Media (“Alpha,” “we,” “us,” or “our”) is a diverse multimedia company sharing your favorite music, sports and news across a variety of platforms. In fulfilling this mission, we collect, use, and share certain information about you. We take your privacy seriously, and this Privacy Policy is meant to help you understand how and why we collect, use, and share your personal information. This Privacy Policy also describes certain choices and rights you may have.
 
@@ -327,16 +327,37 @@ The information we need to verify your request will depend on the nature and sco
 
 If we cannot verify your identity, we may deny your request in whole or in part. Under the VCDPA, you may appeal our decision with regard to your request. To do so, please send an email to [\[email protected\]](https://www.987thebull.com/cdn-cgi/l/email-protection), with the word “Appeal” in the subject line. 
 
+SMS PRIVACY POLICY
+==================
+
+Most Recent Update: 06-13-2024
+
+This Privacy Policy explains how Alpha Media LLC collects, uses and discloses personal information of its subscribers, prospective subscribers, or former subscribers to its SMS programs. We have adopted the following policies and procedures to safeguard the personal information about you in our possession.
+
+### Our Privacy Policy for Consumers That Opt-in to SMS Messages
+
+* Through the use of our SMS programs, we may collect personally identifiable information such as mobile numbers, names, locations, and any other personal information you may choose to provide to us.
+* Personally identifiable information may be used internally by Alpha Media LLC for the sole purpose of executing our SMS programs and will not be shared with any third party affiliates for any reason. Our treatment of all personally identifiable information is consistent with this privacy policy.
+* We do not sell or rent customer information obtained through SMS origination.
+* Our policy is to require all employees and companies providing services on our behalf to keep customer information confidential.
+* Our SMS privacy policy applies to potential subscribers as well as current and former subscribers.
+* You will only receive messages applicable to the campaign that you have opted-in for unless you have provided us with express consent to receive additional forms of communication from Alpha Media LLC
+* If you wish to be removed from receiving future communications, you can opt out by texting STOP.
+
+### Changes to This Privacy Policy
+
+Any changes we may make to our Privacy Policy will be posted on this page and/or communicated to you in other ways if required by law. Please check back frequently to see any updates or changes to our Privacy Policy. If you do not agree or consent to these updates or changes, do not continue to use the Platform.
+
 Recently Played
 ---------------
 
 |     |
 | --- |
-| Save MeJelly Roll Ft Lainey Wilson<br><br>5:34pm |
-| Pretty Little PoisonWarren Zeiders<br><br>5:24pm |
-| I Had Some HelpPost Malone Ft Morgan Wallen<br><br>5:21pm |
-| Hey DriverZach Bryan Ft The War And Treaty<br><br>5:18pm |
-| HurricaneLuke Combs<br><br>5:13pm |
+| ReligiouslyBailey Zimmerman<br><br>5:35pm |
+| CowgirlsMorgan Wallen Ft Ernest<br><br>5:32pm |
+| Going, Going, GoneLuke Combs<br><br>5:23pm |
+| Halfway To HellJelly Roll<br><br>5:20pm |
+| Take Your TimeSam Hunt<br><br>5:16pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -503,21 +524,21 @@ State
 Featured Brands
 ---------------
 
+[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
+
+Top 40 • Pacific NW
+
+[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
+
+Top 40 • Eastern
+
+[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
+
+News Talk • Eastern
+
 [![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
 
 Country • Western
-
-[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
-
-Country • Western
-
-[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
-
-Sports • Midwest
-
-[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
-
-Spanish • Western
 
 [](https://www.alphamediausa.com/)
 
