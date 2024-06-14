@@ -225,9 +225,9 @@ You have rights, at any time,
 
 Requests should be sent to the Data Controller at the contact information set out above.
 
-_**
+All requests shall be processed in 30 days’ time frame.
 
-**_All requests shall be processed in 30 days’ time frame._**
+_**
 
 Safety
 ------
@@ -253,7 +253,11 @@ Data received from cookies are processed by means of different analysis tools an
 
 Geolocation data help us deliver content in the correct language, offer region or country-specific products and determine your local currency in case of a purchase. Cookies can help you enter by remembering the user account data (subject to the parameters you have selected in your account settings). Cookies can also be used to record contents of the cart and information on the user's registration. Cookies can help us determine your settings, in particular the language and currency, for further use.
 
-**_You may turn off cookies in your web browser._**
+**_
+
+You may turn off cookies in your web browser.
+
+_**
 
 Provision of Information by Request of Court or Law Enforcement Authorities
 ---------------------------------------------------------------------------
