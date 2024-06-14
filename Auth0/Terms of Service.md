@@ -11,7 +11,6 @@ DeutschEnglishFrançaisEspañolPortuguês日本語
     * [Developer Center](https://developer.auth0.com/)
     * [Code Samples](https://developer.auth0.com/resources/code-samples)
     * [Guides](https://developer.auth0.com/resources/guides)
-    * [Videos](https://auth0.com/docs/videos)
     * [Identity Unlocked - Podcasts](https://identityunlocked.auth0.com/public/49/Identity,-Unlocked.--bed7fada)
     * [Zero Index Newsletter](https://developer.auth0.com/newsletter)
     
@@ -102,7 +101,6 @@ DeutschEnglishFrançaisEspañolPortuguês日本語
     * [Developer Center](https://developer.auth0.com/)
     * [Code Samples](https://developer.auth0.com/resources/code-samples)
     * [Guides](https://developer.auth0.com/resources/guides)
-    * [Videos](https://auth0.com/docs/videos)
     * [Identity Unlocked - Podcasts](https://identityunlocked.auth0.com/public/49/Identity,-Unlocked.--bed7fada)
     * [Zero Index Newsletter](https://developer.auth0.com/newsletter)
     
@@ -327,7 +325,6 @@ Developers
 * [Developer Hub](https://developer.auth0.com/resources)
 * [Code Samples and Guides](https://developer.auth0.com/resources/code-samples)
 * [Blog posts](https://auth0.com/blog/developers/)
-* [Videos](https://auth0.com/docs/videos)
 * [Identity Unlocked - Podcasts](https://identityunlocked.auth0.com/public/49/Identity,-Unlocked.--bed7fada)
 * [Zero Index Newsletter](https://developer.auth0.com/newsletter)
 
