@@ -12,9 +12,9 @@
 
 Listen To My Latest Podcast Episode:
 
-_#687: Calm Amidst Chaos: How To Keep Calm When Things Go Wrong_
+_#688: How To Break Free From The Fear You Have Around Money with Mel Abraham_
 
-Listen To My Latest Podcast Episode:_#687: Calm Amidst Chaos: How To Keep Calm When Things Go Wrong_
+Listen To My Latest Podcast Episode:_#688: How To Break Free From The Fear You Have Around Money with Mel Abraham_
 
 [Amy Porterfield](https://www.amyporterfield.com/)
 
