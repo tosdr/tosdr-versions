@@ -21,6 +21,7 @@
     * [Ad Templates](https://bannernow.com/html5-gif-mp4-ads-templates)
     * [Plugins](https://bannernow.com/plugins)
 * [Examples](https://bannernow.com/html5-banner-examples)
+* [Pricing](https://bannernow.com/pricing)
 * [Enterprise](https://bannernow.com/request-demo)
 
 * [Login](https://bannernow.com/auth/login)
@@ -122,8 +123,10 @@ Bannernow, Inc. is registered in U.S. State of Dalaware and you can contact us e
 #### Banner Maker Tool
 
 * [Request a demo](https://bannernow.com/request-demo)
+* [Pricing](https://bannernow.com/pricing)
 * [HTML5 Ads Examples](https://bannernow.com/html5-banner-examples)
 * [Sign in](https://bannernow.com/auth/login)
+* [Start for free](https://bannernow.com/auth/register)
 
 #### Features
 
