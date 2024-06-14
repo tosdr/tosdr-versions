@@ -1,3 +1,7 @@
+WEBINAR July 23 - Political Advertising With L2's Paul Westcott
+
+[Register](https://illumin.com/insights/podcasts-webinars/webinar-high-interest-low-turnout-20-billion-ad-spend-year/)
+
 [![logo](https://illumin.com/wp-content/themes/illumin/images/logo.svg)](https://illumin.com/)
 
 * [Product](#)
@@ -47,9 +51,9 @@
         * [Investor Information](https://illumin.com/investor-information/)
         * [Stock Performance](https://illumin.com/stock-performance/)
         * [News & Press](https://illumin.com/news-press/)
-    * ![illumin Holdings Inc. Announces Upgrade to the OTCQB in the United States](https://illumin.com/wp-content/uploads/2023/07/Whats-new-with-illumin-263x300.jpg)
+    * ![illumin Announces Voting Results of Annual Meeting of Shareholders](https://illumin.com/wp-content/uploads/2023/07/Whats-new-with-illumin-263x300.jpg)
         
-        illumin Holdings Inc. Announces Upgrade to the OTCQB in the United States[Read More](https://illumin.com/news-press/illumin-announces-upgrade-to-otcqb-in-us/)
+        illumin Announces Voting Results of Annual Meeting of Shareholders[Read More](https://illumin.com/news-press/illumin-announces-voting-results-of-annual-meeting-of-shareholders/)
         
 * [Request a Demo](https://illumin.com/product/request-a-demo/)
 
