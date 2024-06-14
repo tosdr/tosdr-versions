@@ -371,7 +371,7 @@ Chat with us
 
 Follow us
 
-[![Facebook logo](https://images.ctfassets.net/m8zwsu9tyucg/6NhuoroPOC95yZKtXxemIv/0741f06f3f629abce2c2ad452709b213/ico-facebook.svg?q=90&fit=fill&f=face&bg=rgb%3A321032&fm=webp)](https://www.facebook.com/AspenDental/)[![YouTube logo](https://images.ctfassets.net/m8zwsu9tyucg/7tqZtG8VUtNnAWVrevSdRt/09b869c7da6b7665956ad41a2a7e724f/ico-youtube.svg?q=90&fit=fill&f=face&bg=rgb%3A321032&fm=webp)](https://www.youtube.com/user/smilestories)[![Twitter logo](https://images.ctfassets.net/m8zwsu9tyucg/3kbYwJXJpn5wRzhhsDsG58/a5a7cd333d3080716e55d610aa7c60be/ico-twitter.svg?q=90&fit=fill&f=face&bg=rgb%3A321032&fm=webp)](https://twitter.com/aspendental)
+[![Facebook logo](https://images.ctfassets.net/m8zwsu9tyucg/6NhuoroPOC95yZKtXxemIv/735aac4c80d1c0fbaeb5e272a743b386/Icn_Facebook.svg?q=90&fit=fill&f=face&bg=rgb%3A321032&fm=webp)](https://www.facebook.com/AspenDental/)[![YouTube logo](https://images.ctfassets.net/m8zwsu9tyucg/7tqZtG8VUtNnAWVrevSdRt/09b869c7da6b7665956ad41a2a7e724f/ico-youtube.svg?q=90&fit=fill&f=face&bg=rgb%3A321032&fm=webp)](https://www.youtube.com/user/smilestories)[![Twitter logo](https://images.ctfassets.net/m8zwsu9tyucg/3kbYwJXJpn5wRzhhsDsG58/a5a7cd333d3080716e55d610aa7c60be/ico-twitter.svg?q=90&fit=fill&f=face&bg=rgb%3A321032&fm=webp)](https://twitter.com/aspendental)
 
 [(800) 277-3633](tel:(800) 277-3633)© 2024 Aspen Dental Management, Inc. All rights reserved.
 
