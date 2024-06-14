@@ -20,6 +20,7 @@ Products
 
 * * [APKPure App](https://apkpure.com/apkpure-app.html?icn=aegon&ici=text-nav "APKPure App")
     * [APK Download](https://apkpure.com/apk-downloader "APK Download")
+    * [AIPURE](https://aipure.ai/?utm_source=APKPure&utm_medium=nav_product_link "AIPURE")
     * [Windows APP](https://windows.apkpure.com/?utm_source=APKPure&utm_medium=nav_product_link "Windows APP")
     * [iPhone APP](https://iphone.apkpure.com/?utm_source=APKPure&utm_medium=nav_product_link "iPhone APP")
     * [Game Store](https://store.apkpure.com/?utm_source=topMenu&utm_medium=APKPure&utm_campaign=click "Game Store")
@@ -189,19 +190,19 @@ TikTok
 
 Instagram
 
-6.5](https://apkpure.com/instagram-android/com.instagram.android "Instagram")[![Roblox icon](https://static.apkpure.com/mobile/static/imgs/lazy.png "Roblox")
+6.5](https://apkpure.com/instagram-android/com.instagram.android "Instagram")[![eFootball 2024 icon](https://static.apkpure.com/mobile/static/imgs/lazy.png "eFootball 2024")
 
-Roblox
+eFootball 2024
 
-8.1](https://apkpure.com/roblox-android/com.roblox.client "Roblox")[![Free Fire icon](https://static.apkpure.com/mobile/static/imgs/lazy.png "Free Fire")
+8.6](https://apkpure.com/efootball-2024-mobile-android/jp.konami.pesam "eFootball 2024")[![Free Fire icon](https://static.apkpure.com/mobile/static/imgs/lazy.png "Free Fire")
 
 Free Fire
 
-8.6](https://apkpure.com/garena-free-fire-android-2024/com.dts.freefireth "Free Fire")[![EA SPORTS FC MOBILE 24 SOCCER icon](https://static.apkpure.com/mobile/static/imgs/lazy.png "EA SPORTS FC MOBILE 24 SOCCER")
+8.6](https://apkpure.com/garena-free-fire-android-2024/com.dts.freefireth "Free Fire")[![Roblox icon](https://static.apkpure.com/mobile/static/imgs/lazy.png "Roblox")
 
-EA SPORTS FC MOBILE 24 SOCCER
+Roblox
 
-8.1](https://apkpure.com/ea-sports-fc-mobile-24/com.ea.gp.fifamobile "EA SPORTS FC MOBILE 24 SOCCER")[![Free Fire MAX icon](https://static.apkpure.com/mobile/static/imgs/lazy.png "Free Fire MAX")
+8.1](https://apkpure.com/roblox-android/com.roblox.client "Roblox")[![Free Fire MAX icon](https://static.apkpure.com/mobile/static/imgs/lazy.png "Free Fire MAX")
 
 Free Fire MAX
 
