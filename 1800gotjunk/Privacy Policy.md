@@ -560,14 +560,6 @@ Sal Hoss Niagara 28/11/2023
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Guys (Ryan and Jamar) were able to come early and called to confirm. Showed up and got rid of all my junk super quick! Highly recommend!
-
-Alex Niagara 27/11/2023
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
 Fast, efficient, friendly and responsive!
 
 Dean Reynolds Calgary 27/11/2023
@@ -579,6 +571,14 @@ Dean Reynolds Calgary 27/11/2023
 Trey and Chay were very attentive and friendly. Even when they were delayed they kept me updated. Great job.
 
 Darrin Hill Calgary 27/11/2023
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Guys (Ryan and Jamar) were able to come early and called to confirm. Showed up and got rid of all my junk super quick! Highly recommend!
+
+Alex Niagara 27/11/2023
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -704,17 +704,17 @@ David Higgins Monteregie Metro 29/12/2022
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Rob & kev fantastic job great guys great service 15 out of 10
+Rob and Kevin offered friendly and efficient service. I would use them again!
 
-Maitre D Montreal Ouest 22/12/2022
+Cindy Jack Montreal Ouest 22/12/2022
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Rob and Kevin offered friendly and efficient service. I would use them again!
+Rob & kev fantastic job great guys great service 15 out of 10
 
-Cindy Jack Montreal Ouest 22/12/2022
+Maitre D Montreal Ouest 22/12/2022
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -739,6 +739,30 @@ aldotremblay Monteregie Metro 22/11/2022
 Journée froide. service jour meme, excellent service, patient, créatif et travaillant. 5 sur 5
 
 Pierre Denis Monteregie Metro 20/11/2022
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Hank and Nick were fast and great!
+
+Matt Heath Wisconsin 02/12/2023
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Jason and Everett were great
+
+Oliver Walsh LA Metro 02/12/2023
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Awesome work! Evan and Max worked quickly and were very friendly!
+
+Kolver Matos Wisconsin 02/12/2023
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -808,30 +832,6 @@ Chris Conley Seattle 02/12/2023
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Hank and Nick were fast and great!
-
-Matt Heath Wisconsin 02/12/2023
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Jason and Everett were great
-
-Oliver Walsh LA Metro 02/12/2023
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Awesome work! Evan and Max worked quickly and were very friendly!
-
-Kolver Matos Wisconsin 02/12/2023
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
 Tay and david was on time and very fast
 
 David Pryor Wisconsin 01/12/2023
@@ -872,17 +872,17 @@ Barb Knott Madison 01/12/2023
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Nick, Richard, Tanner, Dakota and Mike were a pleasure to work with.
+The team who came was very efficient and helpful!
 
-Jack Knott Madison 01/12/2023
+Dana Scott Seattle 01/12/2023
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-The team who came was very efficient and helpful!
+Nick, Richard, Tanner, Dakota and Mike were a pleasure to work with.
 
-Dana Scott Seattle 01/12/2023
+Jack Knott Madison 01/12/2023
 
 ### 
 
