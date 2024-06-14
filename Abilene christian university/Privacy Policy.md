@@ -1,4 +1,4 @@
- [![Abilene Christian University Logo](https://mllcnzvqahci.i.optimole.com/w:auto/h:auto/q:mauto/f:best/https://acu.edu/wp-content/uploads/2024/04/ACU_HorizontalLogo-White-e1611259199560.png)](https://acu.edu/)[![Abilene Christian University Logo Mark](https://mllcnzvqahci.i.optimole.com/w:auto/h:auto/q:mauto/f:best/https://acu.edu/wp-content/uploads/2024/04/ACU_HorizontalLogo-White-e1611259199560.png)](https://acu.edu/)
+ [![Abilene Christian University Logo](https://mllcnzvqahci.i.optimole.com/cb:a79E.7a2e/w:auto/h:auto/q:mauto/f:best/https://acu.edu/wp-content/uploads/2024/04/ACU_HorizontalLogo-White-e1611259199560.png)](https://acu.edu/)[![Abilene Christian University Logo Mark](https://mllcnzvqahci.i.optimole.com/cb:a79E.7a2e/w:auto/h:auto/q:mauto/f:best/https://acu.edu/wp-content/uploads/2024/04/ACU_HorizontalLogo-White-e1611259199560.png)](https://acu.edu/)
 
 * [Apply](https://acu.edu/apply/)
 * [Inquire](https://acu.edu/inquire/)
@@ -69,8 +69,8 @@
     * [Holistic Formation](https://acu.edu/compass/)
     * [Student Services](https://acu.edu/student-life/student-services/)
 * [Professional Education](#)
+    * [Partners Program](https://acu.edu/professional-education/partners/)
     * [Executive Education & Professional Advancement](https://acu.edu/professional-education/executive-education-and-professional-advancement/)
-    * [Corporate Partners](https://acu.edu/professional-education/corporate-partners/)
     * [Sports Leadership & Learning](https://acu.edu/professional-education/sports-education/)
     * [Online Career Training](https://acu.edu/professional-education/online-career-training/)
 * [Helpful Links](#)
@@ -212,7 +212,7 @@ If you are a benefits-eligible employee of ACU, you can access identity theft co
 
 [Learn More About the MoveIt Data Breach](https://acu.edu/databreach/)
 
-[![Abilene Christian University](https://mllcnzvqahci.i.optimole.com/w:auto/h:auto/q:mauto/f:best/https://acu.edu/wp-content/uploads/2024/04/ACU_VerticalLogo-White.png)](https://acu.edu/) [![Abilene Christian University](data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20600%20100%22%20width%3D%22600%22%20height%3D%22100%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Crect%20width%3D%22600%22%20height%3D%22100%22%20fill%3D%22transparent%22%2F%3E%3C%2Fsvg%3E)](https://acu.edu/)
+[![Abilene Christian University](https://mllcnzvqahci.i.optimole.com/cb:a79E.7a2e/w:auto/h:auto/q:mauto/f:best/https://acu.edu/wp-content/uploads/2024/04/ACU_VerticalLogo-White.png)](https://acu.edu/) [![Abilene Christian University](data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20600%20100%22%20width%3D%22600%22%20height%3D%22100%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Crect%20width%3D%22600%22%20height%3D%22100%22%20fill%3D%22transparent%22%2F%3E%3C%2Fsvg%3E)](https://acu.edu/)
 
 * [](https://www.facebook.com/abilenechristian "facebook footer icon")
 * [](https://www.instagram.com/acuedu/ "instagram footer icon")
