@@ -189,6 +189,14 @@ Main
                 Modern tools that elevate the learning experience, whether virtual, hybrid, or in-person.
                 
             * [TRY CANVAS FREE](https://info.badgr.com/try-canvas)
+            * [Vocational](https://info.badgr.com/vocational)
+                
+                Deliver hands-on vocational training, blending theory with practical simulations for excellence.
+                
+            * [Government](https://info.badgr.com/government)
+                
+                Enhance government training with tools for upskilling, cross-training, and performance improvement.
+                
         * Column
             * [Impact](https://info.badgr.com/professional-education/products/impact)
                 
@@ -424,6 +432,14 @@ Main
                 Modern tools that elevate the learning experience, whether virtual, hybrid, or in-person.
                 
             * [TRY CANVAS FREE](https://info.badgr.com/try-canvas)
+            * [Vocational](https://info.badgr.com/vocational)
+                
+                Deliver hands-on vocational training, blending theory with practical simulations for excellence.
+                
+            * [Government](https://info.badgr.com/government)
+                
+                Enhance government training with tools for upskilling, cross-training, and performance improvement.
+                
         * Column
             * [Impact](https://info.badgr.com/professional-education/products/impact)
                 
