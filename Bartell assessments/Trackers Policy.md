@@ -53,6 +53,6 @@ For over 40 years, Bartell & Bartell, Ltd has worked with thousands of leaders a
 * [Cookie Declaration](https://bartellbartell.com/cookie-declaration/)
 
 * [Facebook](http://www.facebook.com/BartellBartell)
-* [Twitter](http://www.twitter.com/bartell_bartell)
+* [X](http://www.twitter.com/bartell_bartell)
 
 Copyright © 2024 Bartell & Bartell, Ltd.
