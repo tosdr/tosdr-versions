@@ -30,7 +30,7 @@ Promo
 
 Support/Legal
 
-[Help center](https://bcgame.sk/help "Help center")[Gamble Aware](https://bcgame.sk/help/gameble-aware "Gamble Aware")[Fairness](https://bcgame.sk/help/provably-fair "Fairness")[FAQ](https://bcgame.sk/help/faq "FAQ")[Privacy Policy](https://bcgame.sk/help/privacy "Privacy Policy")[Terms Of Service](https://bcgame.sk/help/terms-service "Terms Of Service")[Self-exclusion](https://bcgame.sk/help/self-exclusion "Self-exclusion")[AML](https://bcgame.sk/help/aml "AML")[Design Resources](https://drive.google.com/drive/folders/1Q48CUgrJOAeDGpBqmdHGNwWGxNEdTZzQ "Design Resources")[APP](https://bcgame.sk/app_download/android "APP")Live Support
+[Help center](https://bcgame.sk/help "Help center")[Gamble Aware](https://bcgame.sk/help/gameble-aware "Gamble Aware")[Fairness](https://bcgame.sk/help/provably-fair "Fairness")[FAQ](https://bcgame.sk/help/faq "FAQ")[Privacy Policy](https://bcgame.sk/help/privacy "Privacy Policy")[Terms Of Service](https://bcgame.sk/help/terms-service "Terms Of Service")[Law Enforcement](https://bcgame.sk/help/law-enforcement "Law Enforcement")[Self-exclusion](https://bcgame.sk/help/self-exclusion "Self-exclusion")[AML](https://bcgame.sk/help/aml "AML")[Design Resources](https://drive.google.com/drive/folders/1Q48CUgrJOAeDGpBqmdHGNwWGxNEdTZzQ "Design Resources")[APP](https://bcgame.sk/app_download/android "APP")Live Support
 
 About us
 
@@ -38,7 +38,7 @@ About us
 
 Join our Community
 
-[![telegram](/assets/share_7.f3cb39a2.png)](https://t.me/bcgamewin)[![github](/assets/share_5.2a1f1696.png)](https://github.com/undefined)[![twitter](/assets/share_8.ae8effba.png)](https://twitter.com/BCGameOfficial)[![facebook](/assets/share_3.21374ebb.png)](https://www.facebook.com/bcgameofficial)[![discord](/assets/share_2.45a347d3.png)](https://discord.gg/xqUMQesZQq)[![bitcoin](/assets/share_1.522ec023.png)](https://bitcointalk.org/index.php?topic=5088875.0)[![instagram](/assets/share_6.b1025447.png)](https://instagram.com/bcgamecom)
+[![telegram](/assets/share_7.f3cb39a2.png)](https://t.me/bcgamewin)[![github](/assets/share_5.2a1f1696.png)](https://github.com/undefined)[![twitter](/assets/share_8.ae8effba.png)](https://twitter.com/BCGameOfficial)[![facebook](/assets/share_3.21374ebb.png)](https://www.facebook.com/bcgameofficial)[![discord](/assets/share_2.45a347d3.png)](https://discord.gg/xqUMQesZQq)[![bitcoin](/assets/share_1.522ec023.png)](https://bitcointalk.org/index.php?topic=5088875.0)[![instagram](/assets/share_6.b1025447.png)](https://instagram.com/bcgamecom)[![global-tele](/assets/tele.6ad1cbb0.png)](https://bcgame.sk/telegram)
 
 Accepted Networks
 
@@ -68,16 +68,12 @@ Crypto trading is not gambling by definition, therefore it is not covered by our
 
 Copyright ©2024 SUPERSELL.COM ALL RIGHTS RESERVED
 
-1BTC=$66,280.18
+1BTC=$67,796.54
 
 Top
 
-SUPERSELL.COM is owned and operated by Small House B.V, a company registered in Curacao with Company Number 164979 and with Registered Address at: Zuikertuintjeweg Z/N, Curacao.
+SUPERSELL.COM is operated under a non-exclusive license by Small House B.V, a company registered in Curacao with Company Number 164979 and with Registered Address at: Zuikertuintjeweg Z/N, Curacao.
 
-[![license](/assets/gcb.9319f886.png)](https://cert.gcb.cw/?id=ZXlKcGRpSTZJbFY1ZUZkWU5FbDRURFJuWkVvMWVGaGpaR2RMUTBFOVBTSXNJblpoYkhWbElqb2lhVVZDTm10RlpHTkxSelY2U21oSVFVaE5kMFJ5VVQwOUlpd2liV0ZqSWpvaVptTXdPVEJoTTJVeU5HWTVOREZoWXpWbE56RTBabUZsTUdOaU5qVXpOemd3WTJVMU5XTXpNVE01TTJNNU9HSXlNREE1WWpFNU1UVmpOamhsT0dabFpTSXNJblJoWnlJNklpSjk=)
+[![license](/assets/gcb.a73cb475.png)](https://cert.gcb.cw/certificate?id=ZXlKcGRpSTZJbFY1ZUZkWU5FbDRURFJuWkVvMWVGaGpaR2RMUTBFOVBTSXNJblpoYkhWbElqb2lhVVZDTm10RlpHTkxSelY2U21oSVFVaE5kMFJ5VVQwOUlpd2liV0ZqSWpvaVptTXdPVEJoTTJVeU5HWTVOREZoWXpWbE56RTBabUZsTUdOaU5qVXpOemd3WTJVMU5XTXpNVE01TTJNNU9HSXlNREE1WWpFNU1UVmpOamhsT0dabFpTSXNJblJoWnlJNklpSjk=)
 
 Small House B.V., is licensed and regulated by the Gaming Control Board (GCB) with Licence Number: OGL/2023/118/0060 Issued in 22nd February 2024. Trust Service by [https://wyze-trust.com](https://wyze-trust.com/) and Represented by [https://igagroup.com](https://igagroup.com/)
-
-[![license](/assets/license.d1460593.png)](https://knoxxit2.sharepoint.com/:b:/s/CIL-Validations/ES3IKThD11JIp7Nt65rIIskBqDKJPUz4cK23-a6gV7UwFQ?e=geGYID)
-
-SUPERSELL.COM is operated by BlockDance B.V. (Commercial register of Curaçao no.158182, Emancipatie Boulevard Dominico F. "Don" Martina 31, Curaçao) under a sublicense CIL pursuant to Master gaming License #5536/JAZ.
