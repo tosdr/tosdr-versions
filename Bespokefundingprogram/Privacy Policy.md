@@ -8,6 +8,7 @@
 * [About Us](https://www.bespokefundingprogram.com/about-us/)
 * [Challenges](#)
     * [Classic Challenge](https://www.bespokefundingprogram.com/classic-challenge/)
+    * [12% challenge](https://www.bespokefundingprogram.com/12-challenge/)
     * [Traders choice](https://www.bespokefundingprogram.com/traders-choice-challenge/)
     * [1 step Challenge](https://www.bespokefundingprogram.com/1-phase-challenge/)
 * [Resources](#)
@@ -25,6 +26,7 @@ Menu
 * [About Us](https://www.bespokefundingprogram.com/about-us/)
 * [Challenges](#)
     * [Classic Challenge](https://www.bespokefundingprogram.com/classic-challenge/)
+    * [12% challenge](https://www.bespokefundingprogram.com/12-challenge/)
     * [Traders choice](https://www.bespokefundingprogram.com/traders-choice-challenge/)
     * [1 step Challenge](https://www.bespokefundingprogram.com/1-phase-challenge/)
 * [Resources](#)
@@ -157,7 +159,7 @@ Account Type
 ------------
 
 * Regular
-* Swap Free +20% Fee
+* Swap Free <span class="twoswap" >+20% Fee </span>
 
 [Regular](#)
 
