@@ -1,19 +1,19 @@
-be\_ixf;ym\_202406 d\_12; ct\_50
+be\_ixf;ym\_202406 d\_13; ct\_50
 
 * be\_ixf; php\_sdk; php\_sdk\_1.4.26
-* https://cybersecurity.att.com/terms/website
+* https://cybersecurity.att.com/terms/website?utm\_medium=Email&utm\_source=&utm\_content=&elqTrackId=168ba11a66b74d30817a7d07ea6fbba7&elq=7a79966554c94cfb95c82cec0f415c6b&elqaid=1775&elqat=1&elqCampaignId=1587
 * https://cybersecurity.att.com/terms/website
 
 [Welcome to LevelBlue](https://www.alienvault.com/newsroom/press-releases/levelblue-launches-at-rsa)
 
-* 
+*     
+    
 * [Blog](https://www.alienvault.com/blogs)
 * [Contact](https://www.alienvault.com/contact)
 * [Support](https://www.alienvault.com/support)
 
 [![LevelBlue logo](https://cdn-cybersecurity.att.com/images/uploads/logos/lb-logo-black.svg)](https://www.alienvault.com/)
 
-* 
 * Products & Services
     
     * Secure your Business Our managed security services team detects cyber threats early and provide coordinated defences for fast and effective responses
@@ -259,7 +259,8 @@ be\_ixf;ym\_202406 d\_12; ct\_50
 * Solutions
 * Partners
 * Resources
-* 
+*     
+    
 
 [Back](#)
 
