@@ -45,12 +45,8 @@ Remember Me
     * [FAQ](https://archiveofourown.org/faq)
     * [Wrangling Guidelines](https://archiveofourown.org/wrangling_guidelines)
     * [Donate or Volunteer](https://archiveofourown.org/donate)
-* Work Search  tip: "uchiha sasuke/uzumaki naruto" angst kudos>10 
+* Work Search  tip: austen words:10000-50000 sort:title 
     
-
-> Due to an influx of abusive spam comments, we've temporarily turned off the ability to leave comments while logged out. We apologize for the inconvenience, and hope to have guest comments back on soon!
-
-[×](https://archiveofourown.org/dmca?hide_banner=true&view_adult=true "hide banner")
 
 DMCA Policy
 -----------
@@ -137,6 +133,6 @@ Adapted from Wikipedia's DMCA policy.
     * [Technical Support & Feedback](https://archiveofourown.org/support)
 * #### Development
     
-    * [otwarchive v0.9.366.2](https://github.com/otwcode/otwarchive/commits/v0.9.366.2)
+    * [otwarchive v0.9.370.6](https://github.com/otwcode/otwarchive/commits/v0.9.370.6)
     * [Known Issues](https://archiveofourown.org/known_issues)
     * [GPL-2.0-or-later](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html "View License") by the [OTW](https://transformativeworks.org/ "The Organization for Transformative Works")
