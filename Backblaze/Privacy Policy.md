@@ -1,62 +1,78 @@
-[![Backblaze logo](https://assets-global.website-files.com/63d32de856f6323a43a277f2/64ecb2089097536a884f8d87_Logo%20Group.webp)](https://www.backblaze.com/)
+[![Backblaze logo](https://cdn.prod.website-files.com/63d32de856f6323a43a277f2/64ecb2089097536a884f8d87_Logo%20Group.webp)](https://www.backblaze.com/)
 
 Products
 
-B2 Cloud Storage
-
-Object storage for servers, media and more
-
-[Overview](https://www.backblaze.com/cloud-storage)[Case Studies](https://www.backblaze.com/cloud-storage/case-studies)
-
-Features
-
-[Cloud Replication](https://www.backblaze.com/cloud-storage/features/replication)[Universal Data Migration](https://www.backblaze.com/cloud-storage/features/cloud-migration)
-
-[Integrations](https://www.backblaze.com/cloud-storage/integrations)[Pricing](https://www.backblaze.com/cloud-storage/pricing)[Docs](https://www.backblaze.com/docs/cloud-storage)
-
-Computer Backup
-
-Unlimited, automatic Mac and PC file backup
-
-[Overview](https://www.backblaze.com/cloud-backup)
-
-Personal
-
-[Overview](https://www.backblaze.com/cloud-backup/personal)[Mac](https://www.backblaze.com/cloud-backup/personal/mac-online-backup)[PC](https://www.backblaze.com/cloud-backup/personal/windows-online-backup)[Comparison](https://www.backblaze.com/cloud-backup/personal/compare/backup-services)[Reviews](https://www.backblaze.com/cloud-backup/personal/customer-reviews)
-
-Business
-
-[Overview](https://www.backblaze.com/cloud-backup/business)[Security](https://www.backblaze.com/cloud-backup/security)[Case Studies](https://www.backblaze.com/cloud-backup/business/case-studies)
-
-[Pricing](https://www.backblaze.com/cloud-backup/pricing)[Docs](https://www.backblaze.com/computer-backup/docs)
+![arrow](https://cdn.prod.website-files.com/63d32de856f6323a43a277f2/643594d64c934cd60ae50d04_dropdown-arrow.svg)
 
 [B2 Cloud Storage
 
-Object storage for servers, media and more](https://www.backblaze.com/cloud-storage)[Computer Backup
+Always-hot S3 compatible object storage](https://www.backblaze.com/cloud-storage)
 
-Unlimited, automatic Mac and PC file backup](https://www.backblaze.com/cloud-backup)
+Computer Backup
 
-[Solutions](https://www.backblaze.com/cloud-storage/solutions)[Security](https://www.backblaze.com/cloud-storage/security)
+Online backup for Macs and PCS
 
-About Us
+![arrow](https://cdn.prod.website-files.com/63d32de856f6323a43a277f2/643594d64c934cd60ae50d04_dropdown-arrow.svg)
 
-[Overview](https://www.backblaze.com/company/about)[Newsroom](https://www.backblaze.com/company/news)[Blog](https://www.backblaze.com/blog)[Drive Stats](https://www.backblaze.com/cloud-storage/resources/hard-drive-test-data)[Careers](https://www.backblaze.com/company/jobs)[Investor Relations](https://ir.backblaze.com/)
+[![](https://cdn.prod.website-files.com/63d32de856f6323a43a277f2/66425eb5dd42c3edd4ff46d9_business-default.svg)![](https://cdn.prod.website-files.com/63d32de856f6323a43a277f2/66425eb512317841bf9070d2_business-hover.svg)
 
-[Partners](https://www.backblaze.com/partners)[Support](https://www.backblaze.com/help)[Sign In](https://secure.backblaze.com/user_signin.htm)[About Us](https://www.backblaze.com/company/about)
+Business
 
-[Support
+Enterprise-grade, unlimited endpoint backup](https://www.backblaze.com/cloud-backup/business)[![](https://cdn.prod.website-files.com/63d32de856f6323a43a277f2/663e57828d7cd6f5131da317_navPersonalIcon.svg)![](https://cdn.prod.website-files.com/63d32de856f6323a43a277f2/663e81f46959d00262f27156_navActivePersonalIcon.svg)
 
-![](https://assets-global.website-files.com/63d32de856f6323a43a277f2/64ecb2089097536a884f8d8a_support%20purple.svg)![](https://assets-global.website-files.com/63d32de856f6323a43a277f2/64ecb2089097536a884f8d8d_support-navy.webp)](https://www.backblaze.com/help)[Sign In
+Personal
 
-![](https://assets-global.website-files.com/63d32de856f6323a43a277f2/64ecb2089097536a884f8d89_sign%20in%20purple.svg)![](https://assets-global.website-files.com/63d32de856f6323a43a277f2/64ecb2089097536a884f8d8b_sign-in-default.webp)](https://secure.backblaze.com/user_signin.htm)
+Unlimited, automatic cloud backup for home use](https://www.backblaze.com/cloud-backup/personal)
 
-[Contact Sales](#)
+Solutions
 
-[Start Free](https://www.backblaze.com/get-started)
+![arrow](https://cdn.prod.website-files.com/63d32de856f6323a43a277f2/643594d64c934cd60ae50d04_dropdown-arrow.svg)
 
-[About Us](https://www.backblaze.com/company/about)
+FEATURED USE CASES
 
-[Overview](https://www.backblaze.com/company/about)[Newsroom](https://www.backblaze.com/company/news)[Blog](https://www.backblaze.com/blog)[Drive Stats](https://www.backblaze.com/cloud-storage/resources/hard-drive-test-data)[Careers](https://www.backblaze.com/company/jobs)[Investor Relations](http://ir.backblaze.com/)
+[![](https://cdn.prod.website-files.com/63d32de856f6323a43a277f2/66425eb58ede6e0864e18906_archive-default.svg)![](https://cdn.prod.website-files.com/63d32de856f6323a43a277f2/6654ae74f62370add3e20481_archive-hover.svg)
+
+Systems Backup & Archive
+
+Safeguard VM, server, NAS, K8, and workstation data](https://www.backblaze.com/cloud-storage/solutions/data-backup-archive)[![](https://cdn.prod.website-files.com/63d32de856f6323a43a277f2/6654a3354a2058bcc53f5de0_media-default.svg)![](https://cdn.prod.website-files.com/63d32de856f6323a43a277f2/6654a334f74cefd0d4a1f427_media-hover.svg)
+
+Active Media Storage
+
+Optimize workflows with cloud storage for media and entertainment](https://www.backblaze.com/cloud-storage/solutions/media-workflow)
+
+[![](https://cdn.prod.website-files.com/63d32de856f6323a43a277f2/66425eb51cd19e9c5639637c_iaas-default.svg)![](https://cdn.prod.website-files.com/63d32de856f6323a43a277f2/66425eb5bb99ccdb386c4143_iaas-hover.svg)
+
+Application Storage & IaaS
+
+Accelerate development with scalable storage and integrated CDN](https://www.backblaze.com/cloud-storage/solutions/iaas)[![](https://cdn.prod.website-files.com/63d32de856f6323a43a277f2/6654a334ce9453fc90df82e2_ransomware-default.svg)![](https://cdn.prod.website-files.com/63d32de856f6323a43a277f2/6654a335a95d9645d02aaaed_ransomware-hover.svg)
+
+Ransomware & DR Readiness
+
+Boost Protection with immutable backups and instant recovery](https://www.backblaze.com/cloud-storage/solutions/ransomware-readiness-and-recovery)
+
+[Explore Industry Solutions](https://www.backblaze.com/cloud-storage/industries)
+
+[Explore Integration Partners](https://www.backblaze.com/cloud-storage/integrations)
+
+Pricing
+
+![arrow](https://cdn.prod.website-files.com/63d32de856f6323a43a277f2/643594d64c934cd60ae50d04_dropdown-arrow.svg)
+
+[B2 Cloud Storage
+
+Always-hot at 1/5 the cost of AWS with 3x egress free](https://www.backblaze.com/cloud-storage/pricing)[Computer Backup
+
+Unlimited data protection, transparent pricing](https://www.backblaze.com/cloud-backup/pricing)
+
+Resources
+
+![arrow](https://cdn.prod.website-files.com/63d32de856f6323a43a277f2/643594d64c934cd60ae50d04_dropdown-arrow.svg)
+
+[Docs](https://www.backblaze.com/docs)[Customer Stories](https://www.backblaze.com/case-studies)[Security](https://www.backblaze.com/cloud-storage/security)[Compliance](https://www.backblaze.com/cloud-storage/compliance)[Blog](https://www.backblaze.com/blog)[Drive Stats](https://www.backblaze.com/cloud-storage/resources/hard-drive-test-data)
+
+[Partners](https://www.backblaze.com/partners)[Support](https://www.backblaze.com/help)[Sign In](https://secure.backblaze.com/user_signin.htm)
+
+[Contact Sales](https://www.backblaze.com/contact-sales)[Contact Sales](https://www.backblaze.com/contact-sales)[Start Free](https://www.backblaze.com/get-started)
 
 ### Backblaze Policies
 
@@ -830,27 +846,20 @@ The Irish Data Protection Commission will be the competent supervisory authority
 
 Previous Version(s):
 
-* [July 10, 2018](https://assets-global.website-files.com/63d32de856f6323a43a277f2/645d19b8323258f36216bd71__company_dpa-10july2018.pdf)
-* [February 12, 2020](https://assets-global.website-files.com/63d32de856f6323a43a277f2/645d19b7ac2b459fe2d9a984__company_dpa-12february2020.pdf)
-* [October 5, 2020](https://assets-global.website-files.com/63d32de856f6323a43a277f2/645d19b9b9244fda1770f917__company_dpa-05oct2020.pdf)
-* [September 27, 2021](https://assets-global.website-files.com/63d32de856f6323a43a277f2/645d19b602f5180daf345e73__company_dpa-27september2021.pdf)
+* [July 10, 2018](https://cdn.prod.website-files.com/63d32de856f6323a43a277f2/645d19b8323258f36216bd71__company_dpa-10july2018.pdf)
+* [February 12, 2020](https://cdn.prod.website-files.com/63d32de856f6323a43a277f2/645d19b7ac2b459fe2d9a984__company_dpa-12february2020.pdf)
+* [October 5, 2020](https://cdn.prod.website-files.com/63d32de856f6323a43a277f2/645d19b9b9244fda1770f917__company_dpa-05oct2020.pdf)
+* [September 27, 2021](https://cdn.prod.website-files.com/63d32de856f6323a43a277f2/645d19b602f5180daf345e73__company_dpa-27september2021.pdf)
 
 ‍
 
-**© 2024** Backblaze
+![](https://cdn.prod.website-files.com/63d32de856f6323a43a277f2/663e56ecd400ff9b4fd5acc2_whiteBackblazeLogo.svg)
 
-A Publicly Traded Company
+A Publicly Traded Company (BLZE)  
+Backblaze © 2024
 
-(
+[![](https://cdn.prod.website-files.com/63d32de856f6323a43a277f2/6655f4a13916f094bbd5082e_linkedin%20logo.svg)](https://www.linkedin.com/company/backblaze/)[![](https://cdn.prod.website-files.com/63d32de856f6323a43a277f2/6655f4de99620d07dc8a1c4b_youtube.svg)](https://www.youtube.com/channel/UCpIVQUYBArvA9JcnGJksxGA)[![](https://cdn.prod.website-files.com/63d32de856f6323a43a277f2/6655f4de51abfc4eb15dfe91_twitter.svg)](https://twitter.com/backblaze)[![](https://cdn.prod.website-files.com/63d32de856f6323a43a277f2/6655f4b7675e810a69fb82d1_facebook.svg)](https://facebook.com/backblaze)
 
-[BLZE](https://ir.backblaze.com/)
-
-)
-
-[Terms & Policies](https://www.backblaze.com/company/policy/terms-of-service)[Privacy](https://www.backblaze.com/company/policy/privacy)[Contact](https://www.backblaze.com/company/contact)
-
-[![Linked In icon](https://assets-global.website-files.com/63d32de856f6323a43a277f2/64ecf2c1a1ca42c819aac161_Social%20(2)%201.svg)](https://www.linkedin.com/company/backblaze/)[![Youtube icon](https://assets-global.website-files.com/63d32de856f6323a43a277f2/64ecf2011e0c215d43075930_Social-1.svg)](https://www.youtube.com/channel/UCpIVQUYBArvA9JcnGJksxGA)[![twitter X logo](https://assets-global.website-files.com/63d32de856f6323a43a277f2/64ecf2015a7bbf4b7fe564b4_Social-2.svg)](https://twitter.com/backblaze)[![Facebook icon](https://assets-global.website-files.com/63d32de856f6323a43a277f2/64ecf2011e0c215d43075943_Social-3.svg)](https://facebook.com/backblaze)
-
-### Staging secure is temporarily unavailable. Please check for any ongoing deploys. If none are in progress, contact the fullstack team for assistance.
+[About Us](https://www.backblaze.com/company/about)[Newsroom](https://www.backblaze.com/company/news)[Investor Relations](https://ir.backblaze.com/)[Careers](https://www.backblaze.com/company/jobs)[Terms and Policies](https://www.backblaze.com/company/policy/terms-of-service)[Privacy](https://www.backblaze.com/company/policy/privacy)[Contact](https://www.backblaze.com/company/contact)
 
 ![](https://ws.zoominfo.com/pixel/uJCeansYSuz2ElG9kpkr)
