@@ -150,6 +150,11 @@ For further information regarding the applicable laws, regulations, and policies
 
 #### Defense News
 
+* [Romania launches expansion of air base near Ukraine](https://www.defensenews.com/global/europe/2024/06/13/romania-launches-expansion-of-air-base-near-ukraine/)  
+    06/13/24 04:50pm  
+    
+    A Eurofighter Typhoon with the British Royal Air Force takes off at the Mihail Kogalniceanu Air Base in Romania. (Elisabeth Gosselin-Malo/Staff)
+    
 * [Osprey fleet won’t return to full flight operations until 2025](https://www.defensenews.com/news/your-air-force/2024/06/12/osprey-fleet-wont-return-to-full-flight-operations-until-2025/)  
     06/12/24 05:38pm  
     
@@ -165,21 +170,16 @@ For further information regarding the applicable laws, regulations, and policies
     
     A U.S. Air Force airman signals an F-16 Fighting Falcon to stop as part of a basic fighter maneuvers exercise held on Ramstein Air Base, Germany, June 6, 2024. (Senior Airman Christian Conrad/Air Force)
     
-* [Air National Guard gets service’s first combat-ready F-15EX](https://www.defensenews.com/air/2024/06/10/air-national-guard-gets-services-first-combat-ready-f-15ex/)  
-    06/10/24 03:31pm  
-    
-    Oregon Air National Guard pilots prepare for takeoff in the newest F-15EX in Berkley, Missouri, June 5, 2024. (Aaron Perkins/National Guard)
-    
 
 Recent parts by keyword  
 
-* [nas617-4](https://aerobasegroup.com/search/?term=nas617-4)
-* [W202-](https://aerobasegroup.com/search/?term=W202-)
-* [W202](https://aerobasegroup.com/search/?term=W202)
-* [ta713](https://aerobasegroup.com/search/?term=ta713)
-* [ms35214-11](https://aerobasegroup.com/search/?term=ms35214-11)
-* [AN6231A](https://aerobasegroup.com/search/?term=AN6231A)
-* [CA053](https://aerobasegroup.com/search/?term=CA053)
+* [r1885sn](https://aerobasegroup.com/search/?term=r1885sn)
+* [ms14218ad5-8](https://aerobasegroup.com/search/?term=ms14218ad5-8)
+* [hl70](https://aerobasegroup.com/search/?term=hl70)
+* [m45938-3-5c](https://aerobasegroup.com/search/?term=m45938-3-5c)
+* [ms9826](https://aerobasegroup.com/search/?term=ms9826)
+* [ms21209c0810p](https://aerobasegroup.com/search/?term=ms21209c0810p)
+* [plt2.5](https://aerobasegroup.com/search/?term=plt2.5)
 
 The AeroBase Group Family ..
 
