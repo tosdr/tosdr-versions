@@ -1,4 +1,4 @@
-[Download now! Mobile app trends 2024: A global benchmark of app performance + growth hacks](https://www.adjust.com/resources/ebooks/mobile-app-trends-2024/) [It's here! Mobile app trends 2024: App growth benchmarks](https://www.adjust.com/resources/ebooks/mobile-app-trends-2024/)
+[AdAttributionKit replaces SKAdNetwork? Get the details.](https://www.adjust.com/blog/adattributionkit/) [AdAttributionKit explained: Apple's new framework!](https://www.adjust.com/blog/adattributionkit/)
 
 [![Adjust](https://a.storyblok.com/f/47007/x/187cc6c31c/adjust-logo.svg)
 
