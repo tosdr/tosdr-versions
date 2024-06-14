@@ -6,7 +6,7 @@
 * [Moto Database](https://www.autoevolution.com/moto/ "Motorcycle models and specifications database")
 * [Game reviews](https://www.autoevolution.com/news/videogame-reviews/ "Game reviews")
 * [EV/Hybrids](https://www.autoevolution.com/green/ "Green news")
-* [Spyshots](https://www.autoevolution.com/news/spyshots/ "Car spyshots and videos")
+* [Spyshots](https://www.autoevolution.com/spyshots/ "Car spyshots and videos")
 * [Space Junk](https://www.autoevolution.com/news/space-junk/ "Space junk")
 * [Renderings](https://www.autoevolution.com/news/renderings/ "Car renderings and concepts")
 * [Newspaper](https://www.autoevolution.com/newspaper/ "Newspaper")
@@ -33,15 +33,15 @@
 
 editorial \_
 
-[![Cars That I Hate – Episode 3: BMW 2 Series Gran Coupe](https://s1.cdn.autoevolution.com/images/news/cars-that-i-hate-episode-3-bmw-2-series-gran-coupe-232643-5.jpg "Cars That I Hate – Episode 3: BMW 2 Series Gran Coupe")
+[![People Are Angry New York City’s Congestion Charge Plan Is Delayed, Should They Be?](https://s1.cdn.autoevolution.com/images/news/people-are-angry-new-york-city-s-congestion-charge-plan-is-delayed-should-they-be-235331-5.jpg "People Are Angry New York City’s Congestion Charge Plan Is Delayed, Should They Be?")
 
-#### Cars That I Hate – Episode 3: BMW 2 Series Gran Coupe](https://www.autoevolution.com/news/cars-that-i-hate-episode-3-bmw-2-series-gran-coupe-232643.html "Cars That I Hate – Episode 3: BMW 2 Series Gran Coupe")
+#### People Are Angry New York City’s Congestion Charge Plan Is Delayed, Should They Be?](https://www.autoevolution.com/news/people-are-angry-new-york-city-s-congestion-charge-plan-is-delayed-should-they-be-235331.html "People Are Angry New York City’s Congestion Charge Plan Is Delayed, Should They Be?")
 
 coverstory \_
 
-[![This 26-ft Tiny Home With Industrial Outside Look Reveals a Light-Filled, Modern Interior](https://s1.cdn.autoevolution.com/images/news/this-26-ft-tiny-home-with-industrial-outside-look-reveals-a-light-filled-modern-interior-232726-5.jpg "This 26-ft Tiny Home With Industrial Outside Look Reveals a Light-Filled, Modern Interior")
+[![The Original Owner Bought a Shelby Mustang GT500KR Twice, 33 Years Apart, and Now Sells It](https://s1.cdn.autoevolution.com/images/news/the-original-owner-bought-a-shelby-mustang-gt500kr-twice-33-years-apart-and-now-sells-it-235377-5.jpg "The Original Owner Bought a Shelby Mustang GT500KR Twice, 33 Years Apart, and Now Sells It")
 
-This 26-ft Tiny Home With Industrial Outside Look Reveals a Light-Filled, Modern Interior](https://www.autoevolution.com/news/this-26-ft-tiny-home-with-industrial-outside-look-reveals-a-light-filled-modern-interior-232726.html)
+The Original Owner Bought a Shelby Mustang GT500KR Twice, 33 Years Apart, and Now Sells It](https://www.autoevolution.com/news/the-original-owner-bought-a-shelby-mustang-gt500kr-twice-33-years-apart-and-now-sells-it-235377.html)
 
 how-to \_
 
