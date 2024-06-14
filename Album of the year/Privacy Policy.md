@@ -105,7 +105,7 @@ NR
 
 NO HANDS](https://www.albumoftheyear.org/album/941426-joey-valence-brae-no-hands.php)
 
-77
+76
 
 [KAYTRANADA
 
