@@ -75,9 +75,9 @@ Search
     
     New Products[view all](https://www.adafruit.com/new)
     
-    ![Video of a round rotary encoder microcontroller with display screen. ](https://cdn-shop.adafruit.com/product-videos/320x240/5966-05.jpg)[M5Stack Dial - ESP32-S3 Smart Rotary Knob with 1.28" Touchscreen
+    ![Angled shot of M.2 HAT+ and compute module.](https://cdn-shop.adafruit.com/230x173/5979-01.jpg)[Raspberry Pi AI Kit with M.2 HAT and Hailo AI Module
     
-    $34.95](https://www.adafruit.com/product/5966)
+    $70.00](https://www.adafruit.com/product/5979)
     
     ![Video of gloved hands playing with a green LED strip.](https://cdn-shop.adafruit.com/product-videos/320x240/5920-03.jpg)[Flexible 12V LED Strip - 480 LEDs per meter - 1m long - Green
     
@@ -402,9 +402,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ ...the idea is to try to give all of the information to help others to judge the value of your contribution; not just the information that leads to judgment in one particular direction or another.”
+“ Artists are here to disturb the peace”
 
-[Richard Feynman](http://www.lhup.edu/~DSIMANEK/cargocul.htm)
+[James Baldwin](https://en.wikipedia.org/wiki/James_Baldwin)
 
 [](https://www.adafruit.com/about)
 
