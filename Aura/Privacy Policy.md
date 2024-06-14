@@ -8,19 +8,21 @@ Features
 
 ![](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/6217a7163eefc57e4be4c560_chevron_down_small%20(1).svg)
 
-[Financial Fraud Protection](https://www.aura.com/credit-monitoring)[Identity Theft Protection](https://www.aura.com/identity-theft-protection)[Identity Theft Insurance](https://www.aura.com/identity-theft-protection/insurance)[VPN & Online Privacy](https://www.aura.com/vpn)
+[Financial Fraud Protection](https://www.aura.com/credit-monitoring)[Identity Theft Protection](https://www.aura.com/identity-theft-protection)[VPN & Online Privacy](https://www.aura.com/vpn)[Antivirus](https://www.aura.com/antivirus)
 
-[Antivirus](https://www.aura.com/antivirus)[Password Manager & Vault](https://www.aura.com/password-manager)[Spam Call Protection](https://www.aura.com/spam-call-message-protection)[Parental Controls & Safe Gaming](https://www.aura.com/parental-controls)[Find Your Perfect Plan](https://my.aura.com/enrollment/v95/1?cc=a_pchp1)
+[Password Manager & Vault](https://www.aura.com/password-manager)[Parental Controls & Safe Gaming](https://www.aura.com/parental-controls)[Spam Call Protection](https://www.aura.com/spam-call-message-protection)
 
-![](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/667d3973ba335e59256c67a9_Mask%20group.png)
+![](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/64e64cdf63f9ecf823fa0f0f_Frame%206960196.svg)
 
 Digital Security 101
 
-Find Your Perfect Plan
+Gift Aura
 
-Take our simple quiz to discover the best plan for your needs.
+New
 
-[Take Quiz](https://my.aura.com/enrollment/v95/1?cc=a_pchp1)
+Give the gift of safety to your loved ones or a business
+
+[Learn More](https://www.aura.com/gift-aura)
 
 Resources
 
@@ -36,7 +38,7 @@ Digital Parenthood
 
 Expert advice and community support for parents.
 
-[Learn more](https://www.aura.com/digital-parenthood "Explore community site")
+[Learn more](https://www.aura.com/digital-parenthood)
 
 [How Aura Works](https://www.aura.com/aura101)
 
@@ -443,7 +445,7 @@ Corporate Responsibility
 
 [About](https://www.aura.com/about)[Newsroom](https://www.aura.com/press)[Careers](https://www.aura.com/careers)
 
-Partner With Us
+Partner with Us
 
 ![](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/628a3e1d2cc6d58e9c333b6f_plus.svg)![](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/628a3e438b652b3e2361fce0_minus.svg)
 
