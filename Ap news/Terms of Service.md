@@ -291,15 +291,15 @@ Show Search
 * Copyright 2024 The Associated Press. All Rights Reserved.
     
 
-[Election 2024](https://apnews.com/hub/election-2024)
+[Louisiana Amber Alert](https://apnews.com/article/louisiana-mother-killed-children-abducted-91062fca984151763d3ac87b0d6df0f6)
 
-[Jerry West dies](https://apnews.com/article/jerry-west-dead-nba-033c08e78eb9749f4cc275c54ff31d97)
+[Trevor Lawrence](https://apnews.com/article/trevor-lawrence-jaguars-contract-extension-4b3d75e43eb1d446c96d7c2624966797)
 
-[Karen Read](https://apnews.com/article/karen-read-officer-killed-trial-boston-snowbank-f3473c8ec93915b9a4deeb7061572a68)
+[Utah Hockey Club](https://apnews.com/article/utah-hockey-club-83d8a28225ac391c6ded4dea32049e4a)
+
+[Gamestop shareholder meeting](https://apnews.com/article/gamestop-meme-shareholder-meeting-roaring-kitty-47ebc7eba916ae0754afbb40ba665335)
 
 [Israel-Hamas war](https://apnews.com/hub/israel-hamas-war)
-
-[Hunter Biden](https://apnews.com/article/hunter-biden-conviction-whats-next-7cc9bab53e4df19f46e28f131566008b)
 
 The Associated Press
 ====================
