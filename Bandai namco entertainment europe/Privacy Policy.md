@@ -23,8 +23,8 @@ Popular Games
 
 Latest game news
 
-* [SAND LAND - Global Release Timings](https://en.bandainamcoent.eu/sand-land/news/sand-land-global-release-timings)
-* [SWORD ART ONLINE LAST RECOLLECTION DLC: Ritual of Bonds Vol.2 is available now](https://en.bandainamcoent.eu/sword-art-online/news/sword-art-online-last-recollection-dlc-ritual-of-bonds-vol2-available-now)
+* [DRAGON BALL: Sparking! ZERO - GAMEPLAY SHOWCASE](https://en.bandainamcoent.eu/dragon-ball/news/dragon-ball-sparking-zero-gameplay-showcase)
+* [ELDEN RING - Story Summary Explained](https://en.bandainamcoent.eu/elden-ring/news/elden-ring-story-summary-explained)
 
    ![](/themes/custom/bne_main/images/newsletter/banner-newsletter.jpg?1648764000)
 
