@@ -170,9 +170,11 @@ Dansk Deutsch English Español Français Hrvatski Italiano Magyar Nederlands Pol
 
 [Log in](https://adguard-dns.io/en/dashboard/)
 
+[AdGuard DNS](https://adguard-dns.io/en/welcome.html) EULA
+
 AdGuard DNS End-User License Agreement
 
-April 10, 2024
+June 5, 2024
 
 IMPORTANT: THIS END-USER LICENSE AGREEMENT (“EULA” OR “AGREEMENT”) IS A LEGAL AGREEMENT BETWEEN YOU (EITHER AN INDIVIDUAL OR, IF PURCHASED OR OTHERWISE ACQUIRED BY OR FOR AN ENTITY, AN ENTITY) AND ADGUARD SOFTWARE LIMITED (OWNER OF ALL RIGHTS, WHETHER EXCLUSIVE OR OTHERWISE TO THE SOFTWARE, HEREAFTER “RIGHTHOLDER”). READ IT CAREFULLY BEFORE USING THE ADGUARD DNS PRODUCTS AND SERVICES. BY CONNECTING TO ADGUARD DNS, OR BY USING IT, OR BY PRESSING A BUTTON INDICATING YOUR ACCEPTANCE IN THE WINDOW CONTAINING THIS EULA, OR BY TYPING THE APPROPRIATE SYMBOL(S), YOU ARE CONFIRMING YOUR ACCEPTANCE OF ADGUARD DNS AND AGREEING TO BECOME BOUND BY TERMS OF THIS EULA.
 
@@ -194,7 +196,7 @@ The text of the AGPLv3 license is accessible in the project’s source code repo
 
 1.3. You are entitled, in accordance with the license granted in clause 1.2 herein, to connect to and use AdGuard DNS on a certain number of devices, with certain number of monthly requests, certain number of available DNS servers, certain number of rules you can set, and certain level of support, which are indicated when you purchased your subscription.
 
-1.4. In order to use private AdGuard DNS, You shall register your AdGuard account using your email address and create a private DNS server. A valid email address must be provided at registration for creation of the AdGuard DNS account. You may also log in with an email and password you have already registered at adguard.com before. You can connect to and use public AdGuard DNS without registering your AdGuard account. 1.5. We may also modify or discontinue our free services and benefits without notice at any time at our sole discretion. Non-gratuitous services may be discontinued at the end of the term of the respective contract.
+1.4. In order to use private AdGuard DNS, You shall register your AdGuard account using your email address and create a private DNS server. A valid email address must be provided at registration for creation of the AdGuard DNS account. You may also log in with an email and password you have already registered at [](https://adguard.com/)[https://adguard.com](https://adguard.com/) before. You can connect to and use public AdGuard DNS without registering your AdGuard account. 1.5. We may also modify or discontinue our free services and benefits without notice at any time at our sole discretion. Non-gratuitous services may be discontinued at the end of the term of the respective contract.
 
 2\. Terms of Sale, Term
 
@@ -224,31 +226,31 @@ We grant our customers a possibility to return 100% of funds they spent on AdGua
 
 Important: monthly subscriptions are not refunded. For Yearly subscriptions we have a 30-day money-back-guarantee. All refund requests made within 30 days since the Yearly subscription purchase are satisfied no matter what the reason is.
 
-The subscription in question becomes blocked the moment the refund is issued. After 30 days, all requests are considered individually and the decision whether to issue a refund is left up to AdGuard Software Ltd. We do not grant partial refunds for subscription upgrades and renewals. Each case of partial refund request is discussed separately between you and our Customer Support Service, and satisfied only upon mutual agreement. To get a refund for a subscription purchased [on the official website](https://adguard-dns.io/), you need to contact our Customer Support Service at [support@adguard.com](https://adguard-dns.io/en/support@adguard.com). Processing time will depend on the payment method you have chosen and usually takes up to 10 business days.
+The subscription in question becomes blocked the moment the refund is issued. After 30 days, all requests are considered individually and the decision whether to issue a refund is left up to AdGuard Software Ltd. We do not grant partial refunds for subscription upgrades and renewals. Each case of partial refund request is discussed separately between you and our Customer Support Service, and satisfied only upon mutual agreement. To get a refund for a subscription purchased [on the official website](https://adguard-dns.io/), you need to contact our Customer Support Service at [support@adguard.com](mailto:support@adguard.com). Processing time will depend on the payment method you have chosen and usually takes up to 10 business days.
 
 4\. Restrictions
 
 You have no right to:
 
-rent, lease, loan, export or sell access to AdGuard DNS services to third parties;
-
-utilize framing techniques to enclose AdGuard DNS logos, trademarks, author attribution and copyright notices;
-
-use automated agents or inject scripts into AdGuard DNS products and services to create multiple accounts, generate automated searches, requests, scrape, strip, or mine data from AdGuard DNS products and services;
-
-run or disclose the results of any benchmark tests or analyses of AdGuard DNS products and services without AdGuard DNS’s written consent;
-
-hide, conceal or obscure any part of the AdGuard DNS website via HTML/CSS, scripting, or any other means;
-
-use AdGuard DNS for any unauthorized or illegal purpose or activity under applicable international, national, and local laws in countries where it is used;
-
-use another person’s email address or misrepresent yourself as another person when signing up to create your account or when logging in to use AdGuard DNS;
-
-perform illegal monitoring of and a list of websites accessed by other individuals when users who use private DNS to filter Internet access for others must not violate the privacy of those individuals;
-
-disclose to third parties and otherwise misuse a list of websites from the query log visited by other individuals, if private AdGuard DNS is used to filter Internet access for such individuals with the logging function enabled;
-
-connect to and use AdGuard DNS or purchase the subscription to AdGuard DNS if the country in which you reside belongs to E.U. or U.S. embargoed countries, or if you are a person to which shipment of software is prohibited by the export control laws, rules, regulations, restrictions and national security controls of the European Union, the United States, and other applicable foreign agencies.
+* rent, lease, loan, export or sell access to AdGuard DNS services to third parties;
+    
+* utilize framing techniques to enclose AdGuard DNS logos, trademarks, author attribution and copyright notices;
+    
+* use automated agents or inject scripts into AdGuard DNS products and services to create multiple accounts, generate automated searches, requests, scrape, strip, or mine data from AdGuard DNS products and services;
+    
+* run or disclose the results of any benchmark tests or analyses of AdGuard DNS products and services without AdGuard DNS’s written consent;
+    
+* hide, conceal or obscure any part of the AdGuard DNS website via HTML/CSS, scripting, or any other means;
+    
+* use AdGuard DNS for any unauthorized or illegal purpose or activity under applicable international, national, and local laws in countries where it is used;
+    
+* use another person’s email address or misrepresent yourself as another person when signing up to create your account or when logging in to use AdGuard DNS;
+    
+* perform illegal monitoring of and a list of websites accessed by other individuals when users who use private DNS to filter Internet access for others must not violate the privacy of those individuals;
+    
+* disclose to third parties and otherwise misuse a list of websites from the query log visited by other individuals, if private AdGuard DNS is used to filter Internet access for such individuals with the logging function enabled;
+    
+* connect to and use AdGuard DNS or purchase the subscription to AdGuard DNS if the country in which you reside belongs to E.U. or U.S. embargoed countries, or if you are a person to which shipment of software is prohibited by the export control laws, rules, regulations, restrictions and national security controls of the European Union, the United States, and other applicable foreign agencies.
 
 5\. Use of blocking and filtering functionality
 
@@ -268,15 +270,15 @@ connect to and use AdGuard DNS or purchase the subscription to AdGuard DNS if th
 
 6.4. To provide you with logging functionality after you activate it in Private AdGuard DNS, AdGuard Software Limited needs to process IP addresses of connected devices from which incoming DNS requests are received. AdGuard Software Limited does not automatically collect such data until you enable the appropriate functionality. You represent and warrant that
 
-you have the necessary authorizations and consents from persons who use devices connected to your account to enable logging of IP addresses of such devices when DNS queries are received from them,
-
-you are using appropriate legal bases to process such IP addresses and other logging information,
-
-you have duly informed such persons of this functionality and that such IP addresses and other logging information will be provided to the Company for processing.
+* you have the necessary authorizations and consents from persons who use devices connected to your account to enable logging of IP addresses of such devices when DNS queries are received from them,
+    
+* you are using appropriate legal bases to process such IP addresses and other logging information,
+    
+* you have duly informed such persons of this functionality and that such IP addresses and other logging information will be provided to the Company for processing.
 
 6.5. AdGuard Software Limited will use your email address that you used when binding AdGuard DNS to your account or creating a new account to send you notifications about modifications, new versions, and features of AdGuard DNS. In addition, you can provide your consent to receive promotional information about AdGuard DNS, or similar products or services offered by AdGuard Software Limited. If you wish to stop receiving the marketing emails, you can withdraw your consent any time in your AdGuard account or unsubscribe right in the received email.
 
-6.6. If you subscribe to AdGuard blog or AdGuard affiliate program, AdGuard Software Limited will use your email address that you specified when subscribing to send you related notifications. By subscribing you affirm that you are 16 years or older. If you wish to unsubscribe, you may contact us at [privacy@adguard.com](https://adguard-dns.io/en/privacy@adguard.com).
+6.6. If you subscribe to AdGuard blog or AdGuard affiliate program, AdGuard Software Limited will use your email address that you specified when subscribing to send you related notifications. By subscribing you affirm that you are 16 years or older. If you wish to unsubscribe, you may contact us at [privacy@adguard.com](mailto:privacy@adguard.com).
 
 7\. Warranty disclaimer
 
@@ -302,7 +304,7 @@ you have duly informed such persons of this functionality and that such IP addre
 
 9\. Licenses to third party software
 
-You are granted a license (or sublicense) under the terms of the GNU General Public License (GPL) or other similar license to certain Third Party Software. Such licenses allow You to copy, modify, and redistribute the Third Party Software or part of it covered by such licenses, and to obtain its source code. If such licenses demand the provision of the source code of any Third Party Software, the Rightholder will provide You with the source code upon receipt of Your request at the Rightholder's email address [support@adguard.com](https://adguard-dns.io/en/support@adguard.com). If such licenses demand the provision of rights to use, copy or modify any Third Party Software that are greater than the rights granted herein, such rights will prevail over the rights and restrictions set forth herein.
+You are granted a license (or sublicense) under the terms of the GNU General Public License (GPL) or other similar license to certain Third Party Software. Such licenses allow You to copy, modify, and redistribute the Third Party Software or part of it covered by such licenses, and to obtain its source code. If such licenses demand the provision of the source code of any Third Party Software, the Rightholder will provide You with the source code upon receipt of Your request at the Rightholder's email address [support@adguard.com](mailto:support@adguard.com). If such licenses demand the provision of rights to use, copy or modify any Third Party Software that are greater than the rights granted herein, such rights will prevail over the rights and restrictions set forth herein.
 
 10\. Miscellaneous
 
@@ -326,11 +328,15 @@ No action, regardless of form, arising out of the transactions under this EULA, 
 
 Should You have any questions concerning this EULA, or if You desire to contact the Rightholder for any reason, please contact our Customer Support Service:
 
-Email: [support@adguard.com](https://adguard-dns.io/en/support@adguard.com)
+Email: [support@adguard.com](mailto:support@adguard.com)
 
 Website: [](https://adguard-dns.io/)[https://adguard-dns.io](https://adguard-dns.io/)
 
 © 2024 ADGUARD SOFTWARE LIMITED. All Rights Reserved. The Services and any accompanying documentation are copyrighted and protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties.
+
+Other documents:
+
+[Privacy Policy](https://adguard-dns.io/en/privacy.html) [Terms of sale](https://adguard-dns.io/en/terms-of-sale.html)
 
 We use essential cookies only. No ads or trackers. [Privacy Policy](https://adguard.com/privacy/dns.html)
 
