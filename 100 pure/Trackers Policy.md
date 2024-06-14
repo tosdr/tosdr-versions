@@ -19,7 +19,7 @@ My Tote
 
 ### [Coffee Bean Caffeine Eye Cream](https://www.100percentpure.com/products/coffee-bean-caffeine-eye-cream)
 
-5670 reviews (5670)
+5671 reviews (5672)
 
 $16.00 $29.00
 
@@ -39,7 +39,7 @@ CHOOSE Size
 
 ### [Multi-Vitamin + Antioxidants Potent PM Serum](https://www.100percentpure.com/products/multi-vitamin-antioxidants-potent-pm-serums)
 
-84 reviews (84)
+85 reviews (85)
 
 $72.00
 
@@ -69,7 +69,7 @@ ADD TO TOTE
 
 ### [Fruit Pigmented® Ultra Lengthening Mascara](https://www.100percentpure.com/products/fruit-pigmented-ultra-lengthening-mascara)
 
-5244 reviews (5244)
+5246 reviews (5246)
 
 $28.00 $28.00
 
@@ -131,7 +131,7 @@ ADD TO TOTE
 
 ### [Vanilla Bean Nourishing Body Cream](https://www.100percentpure.com/products/vanilla-bean-nourishing-body-cream)
 
-768 reviews (767)
+768 reviews (768)
 
 $13.00 $26.00
 
@@ -167,19 +167,19 @@ CHOOSE Size
 
 ### [Coconut Nourishing Body Cream](https://www.100percentpure.com/products/coconut-nourishing-body-cream)
 
-742 reviews (742)
+743 reviews (743)
 
-$6.00 $13.00
+$5.40 $11.70
 
-8 oz - $13 1.7 oz - $6
-
-Sale
-
-1.7 oz
+8 oz - $11.70 1.7 oz - $5.40
 
 Sale
 
 8 oz
+
+Sale
+
+1.7 oz
 
 ADD TO TOTE
 
@@ -261,7 +261,7 @@ ADD TO TOTE
 
 ### [Hydra Drench Cream](https://www.100percentpure.com/products/hydra-drench-cream)
 
-503 reviews (503)
+503 reviews (504)
 
 $48.00
 
@@ -345,7 +345,7 @@ ADD TO TOTE
 
 CHOOSE Size
 
-[30% off
+[35% off
 
 ![acai-pulp-facial-scrub](https://www.100percentpure.com/cdn/shop/products/1FAPFS_Acai_Pulp_Facial_Scrub_Primary_239x254.jpg?v=1655916708)](https://www.100percentpure.com/products/acai-pulp-facial-scrub)
 
@@ -355,15 +355,15 @@ CHOOSE Size
 
 827 reviews (827)
 
-$26.60 $38.00
+$24.70 $38.00
 
-Default Title - $26.60
+Default Title - $24.70
 
 ADD TO TOTE
 
 [![Featured](https://www.100percentpure.com/cdn/shop/files/VBA_SEAL_HQ_-_transparent_background_1.png?crop=center&height=85&v=1717163115&width=85)](https://www.100percentpure.com/products/multi-vitamin-antioxidants-pm-facial-oil)
 
-[25% off
+[30% off
 
 ![multi-vitamin-+-antioxidants-pm-facial-oil](https://www.100percentpure.com/cdn/shop/products/1FMVPMFO_Multi_Viamin_Facial_Oil_Primary_239x254.jpg?v=1696527574)](https://www.100percentpure.com/products/multi-vitamin-antioxidants-pm-facial-oil)
 
@@ -373,13 +373,13 @@ ADD TO TOTE
 
 207 reviews (207)
 
-$43.50 $58.00
+$40.60 $58.00
 
-Default Title - $43.50
+Default Title - $40.60
 
 ADD TO TOTE
 
-[50% off
+[60% off
 
 ![organic-mint-lip-balm](https://www.100percentpure.com/cdn/shop/products/1LBM_Organic_Mint_Lip_Balm_Primary_239x254.jpg?v=1627032871)](https://www.100percentpure.com/products/organic-mint-lip-balm)
 
@@ -389,13 +389,13 @@ ADD TO TOTE
 
 424 reviews (424)
 
-$4.00 $8.00
+$3.20 $8.00
 
-Default Title - $4
+Default Title - $3.20
 
 ADD TO TOTE
 
-[50% off
+[55% off
 
 ![blood-orange-nourishing-body-cream](https://www.100percentpure.com/cdn/shop/products/1BLTBO_Nourishing_Body_Cream_Blood_Orange_Primary_c6416b43-3112-4228-aa33-eb5aa15684dc_239x254.jpg?v=1626850757)](https://www.100percentpure.com/products/blood-orange-nourishing-body-cream)
 
@@ -405,13 +405,13 @@ ADD TO TOTE
 
 286 reviews (286)
 
-$13.00 $26.00
+$11.70 $26.00
 
-Default Title - $13
+Default Title - $11.70
 
 ADD TO TOTE
 
-[50% off
+[55% off
 
 ![french-lavender-nourishing-body-cream](https://www.100percentpure.com/cdn/shop/products/1BLTFL_Nourishing_Body_Cream_French_Lavender_Primary_bf8907a0-c486-421f-b61b-08d96e7cbd53_239x254.jpg?v=1627033063)](https://www.100percentpure.com/products/french-lavender-nourishing-body-cream)
 
@@ -419,15 +419,15 @@ ADD TO TOTE
 
 ### [French Lavender Nourishing Body Cream](https://www.100percentpure.com/products/french-lavender-nourishing-body-cream)
 
-335 reviews (335)
+336 reviews (336)
 
-$13.00 $26.00
+$11.70 $26.00
 
-Default Title - $13
+Default Title - $11.70
 
 ADD TO TOTE
 
-[50% off
+[55% off
 
 ![honey-almond-nourishing-body-cream](https://www.100percentpure.com/cdn/shop/products/1BLTHA_Nourishing_Body_Cream_Honey_Almond_Primary_fc544a05-141c-4b0d-93aa-8b17689e74b3_239x254.jpg?v=1630365979)](https://www.100percentpure.com/products/honey-almond-nourishing-body-cream)
 
@@ -437,9 +437,9 @@ ADD TO TOTE
 
 371 reviews (371)
 
-$13.00 $26.00
+$11.70 $26.00
 
-Default Title - $13
+Default Title - $11.70
 
 ADD TO TOTE
 
@@ -457,7 +457,7 @@ Default Title - $52
 
 ADD TO TOTE
 
-[30% off
+[40% off
 
 ![cucumber-cloud-foam-cleanser](https://www.100percentpure.com/cdn/shop/products/1FCCFC_Cucumber_Cloud_Foam_Cleanser_Primary_239x254.jpg?v=1617318615)](https://www.100percentpure.com/products/cucumber-cloud-foam-cleanser)
 
@@ -467,13 +467,13 @@ ADD TO TOTE
 
 109 reviews (109)
 
-$21.00 $30.00
+$18.00 $30.00
 
-Default Title - $21
+Default Title - $18
 
 ADD TO TOTE
 
-[25% off
+[30% off
 
 ![blood-orange-cleansing-balm](https://www.100percentpure.com/cdn/shop/products/1FBOCB_Blood_Orange_Cleansing_Balm_Primary_239x254.jpg?v=1696526483)](https://www.100percentpure.com/products/blood-orange-cleansing-balm)
 
@@ -483,9 +483,9 @@ ADD TO TOTE
 
 847 reviews (847)
 
-$28.50 $38.00
+$26.60 $38.00
 
-Default Title - $28.50
+Default Title - $26.60
 
 ADD TO TOTE
 
@@ -511,7 +511,7 @@ ADD TO TOTE
 
 ### [10% Fruit Acids Apple Enzyme Resurfacing Serum](https://www.100percentpure.com/products/apple-enzyme-resurfacing-serum)
 
-73 reviews (73)
+74 reviews (74)
 
 $25.00
 
@@ -527,7 +527,7 @@ ADD TO TOTE
 
 ### [Long Last Liquid Eye Liner](https://www.100percentpure.com/products/long-last-liquid-eye-liner)
 
-1523 reviews (1523)
+1522 reviews (1522)
 
 $30.00 $30.00
 
@@ -559,7 +559,7 @@ or 4 interest-free payments of **$0.00** with ![Klarna Logo](https://www.100perc
 
  
 
-[Last Day! Friends And Family Sale - 20% OFF Sitewide USE CODE: BESTIES](https://www.100percentpure.com/collections/shop-all "https://www.100percentpure.com/collections/shop-all")
+[🔥 Limited-Time Deals! 🔥 New Items Added + Massive Discounts Up to 70%OFF!](https://www.100percentpure.com/collections/oops-we-made-too-much "Oops We Made Too Much")
 
 icon-account icon-account icon-arrow-right icon-arrow-down icon-arrow-next icon-arrow-prev icon-slideshow-next icon-slideshow-previous icon-comment icon-heart icon-cart icon-bag icon-close icon-glasses icon-menu icon-minus icon-play icon-plus social-seach social-facebook social-fancy social-instagram social-pinterest social-rss social-twitter
 
