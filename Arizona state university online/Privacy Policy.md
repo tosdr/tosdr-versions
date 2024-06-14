@@ -230,7 +230,7 @@ Select Section
 
 [Years in Review](https://www.asu.edu/about/annual-report)
 
-[](https://www.asu.edu/)[![Arizona State University Logo](/sites/default/files/styles/footer_logo/public/2022-02/ASU-EndorsedLogo.png?itok=4mUq3jbE)](https://asu.edu/)
+[![Arizona State University.](/modules/webspark/asu_footer/img/ASU-EndorsedLogo.png)](https://www.asu.edu/)
 
 [](https://www.facebook.com/arizonastateuniversity)[](https://www.instagram.com/arizonastateuniversity)[](https://www.youtube.com/asu)[](https://www.linkedin.com/company/arizona-state-university)
 
