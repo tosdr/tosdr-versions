@@ -308,12 +308,12 @@
     
     * [Artificial Intelligence](https://www.bain.com/insights/topics/ai/)
     * [Managing Inflation](https://www.bain.com/insights/topics/inflation/)
-    * [Recession Strategies](https://www.bain.com/insights/topics/recession-strategies/)
+    * [Thriving Amid Volatility](https://www.bain.com/insights/topics/volatility/)
     * [The Talent Imperative](https://www.bain.com/insights/topics/ceo-agenda/talent/)
     * [Macro Trends](https://www.bain.com/insights/topics/macro-trends/)
     
     * [Machinery & Equipment Report](https://www.bain.com/insights/topics/global-machinery-equipment-report/)
-    * [Global Private Equity Report](https://www.bain.com/insights/topics/global-private-equity-report/)
+    * [Midyear Private Equity Report](https://www.bain.com/insights/private-equity-midyear-report-2024/)
     * [M&A Report](https://www.bain.com/insights/topics/m-and-a-report/)
     * [Healthcare Private Equity Report](https://www.bain.com/insights/topics/global-healthcare-private-equity-report/)
     * [CEO's Guide to Sustainability](https://www.bain.com/insights/topics/ceo-sustainability-guide/)
@@ -350,8 +350,8 @@
         
         ##### [Diversity, Equity & Inclusion](https://www.bain.com/about/further/diversity-equity-inclusion/)
         
-        * [2023 Diversity, Equity, and Inclusion Report](https://www.bain.com/about/further/diversity-equity-inclusion/dei-report/)
-        * [2022 Diversity, Equity, and Inclusion Report](https://www.bain.com/about/further/diversity-equity-inclusion/dei-report/2022/)
+        * [2024 Diversity, Equity, and Inclusion Report](https://www.bain.com/about/further/diversity-equity-inclusion/dei-report/)
+        * [2023 Diversity, Equity, and Inclusion Report](https://www.bain.com/about/further/diversity-equity-inclusion/dei-report/2023/)
         
     
     * [Social Impact](https://www.bain.com/about/further/social-impact/)
@@ -692,12 +692,12 @@
         
         * [Artificial Intelligence](https://www.bain.com/insights/topics/ai/)
         * [Managing Inflation](https://www.bain.com/insights/topics/inflation/)
-        * [Recession Strategies](https://www.bain.com/insights/topics/recession-strategies/)
+        * [Thriving Amid Volatility](https://www.bain.com/insights/topics/volatility/)
         * [The Talent Imperative](https://www.bain.com/insights/topics/ceo-agenda/talent/)
         * [Macro Trends](https://www.bain.com/insights/topics/macro-trends/)
         
         * [Machinery & Equipment Report](https://www.bain.com/insights/topics/global-machinery-equipment-report/)
-        * [Global Private Equity Report](https://www.bain.com/insights/topics/global-private-equity-report/)
+        * [Midyear Private Equity Report](https://www.bain.com/insights/private-equity-midyear-report-2024/)
         * [M&A Report](https://www.bain.com/insights/topics/m-and-a-report/)
         * [Healthcare Private Equity Report](https://www.bain.com/insights/topics/global-healthcare-private-equity-report/)
         * [CEO's Guide to Sustainability](https://www.bain.com/insights/topics/ceo-sustainability-guide/)
@@ -725,8 +725,8 @@
         
         * [Diversity, Equity & Inclusion](https://www.bain.com/about/further/diversity-equity-inclusion/)
             
-            * [2023 Diversity, Equity, and Inclusion Report](https://www.bain.com/about/further/diversity-equity-inclusion/dei-report/)
-            * [2022 Diversity, Equity, and Inclusion Report](https://www.bain.com/about/further/diversity-equity-inclusion/dei-report/2022/)
+            * [2024 Diversity, Equity, and Inclusion Report](https://www.bain.com/about/further/diversity-equity-inclusion/dei-report/)
+            * [2023 Diversity, Equity, and Inclusion Report](https://www.bain.com/about/further/diversity-equity-inclusion/dei-report/2023/)
             
         
         * [Social Impact](https://www.bain.com/about/further/social-impact/)
