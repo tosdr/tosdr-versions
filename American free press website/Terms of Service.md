@@ -29,11 +29,11 @@ Search for:
 
 News Ticker
 
+* [\[ June 13, 2024 \] Western Leaders Have an Insatiable Desire for National Suicide Subscriber Only](https://americanfreepress.net/western-leaders-have-an-insatiable-desire-for-national-suicide/ "Western Leaders Have an Insatiable Desire for National Suicide")
 * [\[ June 2, 2024 \] State Rep. Says Border Situation Coming to a Head Subscriber Only](https://americanfreepress.net/state-rep-says-border-situation-coming-to-a-head/ "State Rep. Says Border Situation Coming to a Head")
 * [\[ June 1, 2024 \] Leftist D.C. Rag Admits Majority Supports Harsher Measures to End Invasion National News](https://americanfreepress.net/leftist-d-c-rag-admits-majority-supports-harsher-measures-to-end-invasion/ "Leftist D.C. Rag Admits Majority Supports Harsher Measures to End Invasion")
 * [\[ June 1, 2024 \] Israel’s ‘Abu Ghraib’ Horrors Exposed Subscriber Only](https://americanfreepress.net/israels-abu-ghraib-horrors-exposed/ "Israel’s ‘Abu Ghraib’ Horrors Exposed")
 * [\[ June 1, 2024 \] Russia Committing War Crimes, But the Israelis Are Innocent? Subscriber Only](https://americanfreepress.net/russia-committing-war-crimes-but-the-israelis-are-innocent/ "Russia Committing War Crimes, But the Israelis Are Innocent?")
-* [\[ May 31, 2024 \] Soros & Son Continue Global Crusade Against Freedom of Speech, Thought Subscriber Only](https://americanfreepress.net/soros-son-continue-global-crusade-against-freedom-of-speech-thought/ "Soros & Son Continue Global Crusade Against Freedom of Speech, Thought")
 
 [Home](https://americanfreepress.net/)TERMS and CONDITIONS
 
@@ -128,18 +128,18 @@ Categories Select Category Ad Alternative Health Archive Audio Bookstore Conspir
 
 ###### Recent Articles
 
+* [Issue 23/24 2024 News You May Have Missed](https://americanfreepress.net/48501-2/)
+* [Western Leaders Have an Insatiable Desire for National Suicide](https://americanfreepress.net/western-leaders-have-an-insatiable-desire-for-national-suicide/)
+* [AI, China, Russia, Ukraine Dominate Bilderberg](https://americanfreepress.net/ai-china-russia-ukraine-dominate-bilderberg/)
 * [State Rep. Says Border Situation Coming to a Head](https://americanfreepress.net/state-rep-says-border-situation-coming-to-a-head/)
 * [Leftist D.C. Rag Admits Majority Supports Harsher Measures to End Invasion](https://americanfreepress.net/leftist-d-c-rag-admits-majority-supports-harsher-measures-to-end-invasion/)
-* [Israel’s ‘Abu Ghraib’ Horrors Exposed](https://americanfreepress.net/israels-abu-ghraib-horrors-exposed/)
-* [Russia Committing War Crimes, But the Israelis Are Innocent?](https://americanfreepress.net/russia-committing-war-crimes-but-the-israelis-are-innocent/)
-* [Joe Biden Announces Renewed Push to Ban Some Guns if Re-Elected](https://americanfreepress.net/joe-biden-announces-renewed-push-to-ban-some-guns-if-re-elected/)
 
 ###### Recent Comments
 
+* [Wesley Mcgranor](https://www.tumblr.com/american-protestant) on [Culture War Victories for America](https://americanfreepress.net/culture-war-victories-for-america/#comment-53992)
+* Albert on [U.S. Fertility Rates Plunge](https://americanfreepress.net/u-s-fertility-rates-plunge/#comment-53973)
 * Gary on [Contents of Ashley Biden Journal Suppressed by Mainstream Media](https://americanfreepress.net/contents-of-ashley-biden-journal-suppressed-by-mainstream-media/#comment-53509)
 * Me on [Couple Arrested, Charged for Handing Out Legal Flyers](https://americanfreepress.net/couple-arrested-charged-for-handing-out-legal-flyers/#comment-53416)
-* Bill Daniel on [DHS Chief’s Involvement With ‘HIAS’ Raises Eyebrows With Borderwatchers](https://americanfreepress.net/dhs-chiefs-involvement-with-hias-raises-eyebrows-with-borderwatchers/#comment-53414)
-* Jaroslav K. on [2024 Is the Last Year of Free Speech, Democracy in the Western World](https://americanfreepress.net/2024-is-the-last-year-of-free-speech-democracy-in-the-western-world/#comment-53402)
 
 * [Home](https://americanfreepress.net/)
 * [ABOUT](https://americanfreepress.net/about-afp/)
@@ -178,4 +178,4 @@ Any cookies that may not be particularly necessary for the website to function a
 
 SAVE & ACCEPT
 
-![css.php](https://americanfreepress.net/wp-content/plugins/cookies-for-comments/css.php?k=8a9b2c33f69fe9773bed4bd13516bab6&o=i&t=89688248)
+![css.php](https://americanfreepress.net/wp-content/plugins/cookies-for-comments/css.php?k=8a9b2c33f69fe9773bed4bd13516bab6&o=i&t=1181180001)
