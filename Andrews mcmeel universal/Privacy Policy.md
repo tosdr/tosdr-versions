@@ -2,11 +2,11 @@ Toggle navigation
 
 * [Universal](https://www.andrewsmcmeel.com/)
     
-    [Overview](https://www.andrewsmcmeel.com/) [Partner With Us](https://www.andrewsmcmeel.com/partners/) [About](https://www.andrewsmcmeel.com/about/) [Careers](https://www.andrewsmcmeel.com/careers/) [Timeline](https://www.andrewsmcmeel.com/timeline/)
+    [Overview](http://www.andrewsmcmeel.com/) [Partner With Us](http://www.andrewsmcmeel.com/partners/) [About](http://www.andrewsmcmeel.com/about/) [Careers](http://www.andrewsmcmeel.com/careers/) [Timeline](http://www.andrewsmcmeel.com/timeline/)
     
 * [Syndication](https://www.andrewsmcmeel.com/syndication/)
     
-    [Overview](https://www.andrewsmcmeel.com/syndication/) [Syndication Website](http://syndication.andrewsmcmeel.com/)
+    [Overview](http://www.andrewsmcmeel.com/syndication/) [Syndication Website](http://syndication.andrewsmcmeel.com/)
     
 * [Publishing](https://publishing.andrewsmcmeel.com/)
     
@@ -14,15 +14,15 @@ Toggle navigation
     
 * [Entertainment](https://www.andrewsmcmeel.com/entertainment/)
     
-    [Overview](https://www.andrewsmcmeel.com/entertainment/)
+    [Overview](http://www.andrewsmcmeel.com/entertainment/)
     
 * [Digital](http://www.andrewsmcmeel.com/digital/)
     
-    [Overview](https://www.andrewsmcmeel.com/digital/)
+    [Overview](http://www.andrewsmcmeel.com/digital/)
     
 * [Licensing](http://www.andrewsmcmeel.com/licensing/)
     
-    [Licensing](https://www.andrewsmcmeel.com/licensing/) [Licensing Website](https://licensing.andrewsmcmeel.com/)
+    [Licensing](http://www.andrewsmcmeel.com/licensing/) [Licensing Website](https://licensing.andrewsmcmeel.com/)
     
 
 [![Andrews McMeel Universal logo](https://www.andrewsmcmeel.com/wp-content/themes/amu-corporate/assets/img/logos/logo_amu.svg)](https://www.andrewsmcmeel.com/)
