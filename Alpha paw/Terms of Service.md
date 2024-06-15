@@ -238,7 +238,7 @@ Apply
     
     2 colors
     
-    6445 total reviews](https://www.alphapaw.com/collections/bestsellers/products/pawramp)
+    6446 total reviews](https://www.alphapaw.com/collections/bestsellers/products/pawramp)
     
     Regular price
     
@@ -262,7 +262,7 @@ Apply
     
     2 colors
     
-    6445 total reviews
+    6446 total reviews
     
 * On sale
     
@@ -290,7 +290,7 @@ Apply
     
     in your cart
     
-    4 total reviews](https://www.alphapaw.com/collections/bestsellers/products/stairwedge)
+    5 total reviews](https://www.alphapaw.com/collections/bestsellers/products/stairwedge)
     
     Regular price
     
@@ -312,7 +312,7 @@ Apply
     
     in your cart
     
-    4 total reviews
+    5 total reviews
     
 * On sale
     
