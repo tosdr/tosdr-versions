@@ -121,9 +121,9 @@
             
             Solution Brief
             
-            ##### Protect external-facing services against DDoS attacks and keep your business running
+            ##### Securing Operational Technology
             
-            [Learn more](https://cyber.levelblue.com/m/787e203a51011e42/original/SB-Protect-External-Facing-From-DDOS.pdf)
+            [Learn more](https://cyber.levelblue.com/m/8ebd7a710d88573/original/SB-OT-Pen-Testing.pdf)
             
             [View all Solution Briefs](https://www.alienvault.com/resource-center#content_solution-brief)
             
@@ -193,9 +193,9 @@
             
             Whitepaper
             
-            ##### Cyber Resilience is Mission Critical for Business
+            ##### Indicators of Compromise for SquidLoader
             
-            [Learn more](https://cybersecurity.att.com/resource-center/white-papers/cyber-resilience-is-mission-critical-for-business)
+            [Learn more](https://cybersecurity.att.com/resource-center/white-papers/ioc-for-squidloader)
             
             [View all Whitepapers](https://www.alienvault.com/resource-center#content_white-paper)
             
