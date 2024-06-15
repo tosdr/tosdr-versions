@@ -73,41 +73,29 @@ The Processing Owner, according to its definition contained in article 4, point 
 By certain treatments, as identified within the following Section E, the Processing Owner will be supported by the following companies that will act as Processing Co-owners, who should be intended by as “two or more controllers \[that\] jointly determine the purposes and means of processing” as foreseen by article 26 of the Regulation:
 
   
-
   
-*   
-    **Arnoldo Mondadori Editore S.p.A.**, with registered office in Via Bianca di Savoia 12, 20122 – Milan, administrative headquarters in Via Mondadori 1, 20054 – Segrate (MI), recorded on the Milan Company Register, Tax Code n. 07012130584 and VAT number n. 08386600152
   
-*   
-    **Mondadori Libri S.p.A.** with registered office in Via Bianca di Savoia 12, 20122 - Milan, administrative headquarters in Via Mondadori 1, 20054 – Segrate (MI), recorded on the Milan Company Register, Tax Code and VAT number n. 08856650968
+**Arnoldo Mondadori Editore S.p.A.**, with registered office in Via Bianca di Savoia 12, 20122 – Milan, administrative headquarters in Via Mondadori 1, 20054 – Segrate (MI), recorded on the Milan Company Register, Tax Code n. 07012130584 and VAT number n. 08386600152  
   
-*   
-    **Mondadori Education S.p.A.** with registered office in Via Bianca di Savoia 12, 20122 – Milan, administrative headquarters in Via Mondadori 1, 20054 – Segrate (MI), recorded on the Milan Company Register, Tax Code and VAT number n. 03261490969
+**Mondadori Libri S.p.A.** with registered office in Via Bianca di Savoia 12, 20122 - Milan, administrative headquarters in Via Mondadori 1, 20054 – Segrate (MI), recorded on the Milan Company Register, Tax Code and VAT number n. 08856650968  
   
-*   
-    **Rizzoli Education S.p.A.** with registered office in Via Bianca di Savoia 12, 20122 – Milano, administrative headquarters in Via Mondadori 1, 20054 – Segrate (MI), recorded on the Milan Company Register, Tax Code and VAT number n. 05877160159
+**Mondadori Education S.p.A.** with registered office in Via Bianca di Savoia 12, 20122 – Milan, administrative headquarters in Via Mondadori 1, 20054 – Segrate (MI), recorded on the Milan Company Register, Tax Code and VAT number n. 03261490969  
   
-*   
-    **Giulio Einaudi Editore S.p.A.** with registered office and administrative headquarters in Via U. Biancamano 2, 10121 - Turin (TO), recorded on the Turin Company Register, Tax Code n. 08367150151 and VAT number n. 07022140011
+**Rizzoli Education S.p.A.** with registered office in Via Bianca di Savoia 12, 20122 – Milano, administrative headquarters in Via Mondadori 1, 20054 – Segrate (MI), recorded on the Milan Company Register, Tax Code and VAT number n. 05877160159  
   
-*   
-    **Electa S.p.A.** with registered office in Via Bianca di Savoia 12, 20122 – Milan, administrative and operational headquarters in Via Mondadori 1, 20054 – Segrate (MI), recorded on the Turin Company Register, Tax Code n. 01829090123 and VAT number n. 09671010156
+**Giulio Einaudi Editore S.p.A.** with registered office and administrative headquarters in Via U. Biancamano 2, 10121 - Turin (TO), recorded on the Turin Company Register, Tax Code n. 08367150151 and VAT number n. 07022140011  
   
-*   
-    **Mondadori Retail S.p.A.** with registered office in Via Bianca di Savoia 12, 20122 - Milan and administrative headquarters in Via Mondadori 1, 20054 – Segrate (MI), recorded on the Milan Company Register, Tax Code n. 00212560239 and VAT number n. 11022370156
+**Electa S.p.A.** with registered office in Via Bianca di Savoia 12, 20122 – Milan, administrative and operational headquarters in Via Mondadori 1, 20054 – Segrate (MI), recorded on the Turin Company Register, Tax Code n. 01829090123 and VAT number n. 09671010156  
   
-*   
-    **Mondadori Scienza S.p.A.** with registered office in Via Bianca di Savoia 12, 20122 - Milan and administrative headquarters in Via Mondadori 1, 20054 – Segrate (MI), recorded on the Milan Company Register, Tax Code and VAT number n. 09440000157
+**Mondadori Retail S.p.A.** with registered office in Via Bianca di Savoia 12, 20122 - Milan and administrative headquarters in Via Mondadori 1, 20054 – Segrate (MI), recorded on the Milan Company Register, Tax Code n. 00212560239 and VAT number n. 11022370156  
   
-*   
-    **Press-Di Distribuzione Stampa e Multimedia S.r.l.** with registered office in Via Bianca di Savoia 12, 20122 - Milan and administrative headquarters in Via Mondadori 1, 20054 – Segrate (MI), recorded on the Milan Company Register, Tax Code and VAT number n. 03864370964
+**Mondadori Scienza S.p.A.** with registered office in Via Bianca di Savoia 12, 20122 - Milan and administrative headquarters in Via Mondadori 1, 20054 – Segrate (MI), recorded on the Milan Company Register, Tax Code and VAT number n. 09440000157  
   
-*   
-    **Direct Channel S.p.A.** with registered office in Via Bianca di Savoia 12, 20122 - Milan and administrative headquarters in Via Mondadori 1, 20054 – Segrate (MI), recorded on the Milan Company Register, Tax Code and VAT number n. 08696660151
+**Press-Di Distribuzione Stampa e Multimedia S.r.l.** with registered office in Via Bianca di Savoia 12, 20122 - Milan and administrative headquarters in Via Mondadori 1, 20054 – Segrate (MI), recorded on the Milan Company Register, Tax Code and VAT number n. 03864370964  
   
-*   
-    **Adkaora S.r.l.** with registered office in Via Bianca di Savoia 12, 20122 - Milan and administrative headquarters in Via Mondadori 1, 20054 – Segrate (MI), recorded on the Milan Company Register, Tax Code and VAT number n. 08105480969
+**Direct Channel S.p.A.** with registered office in Via Bianca di Savoia 12, 20122 - Milan and administrative headquarters in Via Mondadori 1, 20054 – Segrate (MI), recorded on the Milan Company Register, Tax Code and VAT number n. 08696660151  
   
+**Adkaora S.r.l.** with registered office in Via Bianca di Savoia 12, 20122 - Milan and administrative headquarters in Via Mondadori 1, 20054 – Segrate (MI), recorded on the Milan Company Register, Tax Code and VAT number n. 08105480969
 
 (hereinafter jointly with the Processing Owner, the “**Processing Co-owners**”)
 
@@ -918,4 +906,4 @@ We remind you that at any time you can turn to the DPO of Mondadori Group in the
 
 Moreover, you have the right to lodge a complaint to the control authority: without prejudice to your right to turn to any other administrative or judicial authority, in case you consider the Processing of your Personal Data, led by the Processing Owner and/or the Processing Co-owners, taking place in violation of the Regulation and/or of the applicable legislation, you can lodge a complaint to the Competent Authority for Personal Data Protection or to another competent control authority.
 
-Latest update: March 07, 2024
+Latest update: June 14, 2024
