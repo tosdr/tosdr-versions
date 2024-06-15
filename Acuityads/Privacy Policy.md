@@ -29,9 +29,9 @@ WEBINAR July 23 - Political Advertising With L2's Paul Westcott
         * [Guides](https://illumin.com/insights/guides/)
         * [Events](https://illumin.com/insights/events/)
         * [Podcasts & Webinars](https://illumin.com/insights/podcasts-webinars/)
-    * ![A closer look at modern digital political advertising](https://illumin.com/wp-content/uploads/2024/06/Political-advertising-263x300.png)
+    * ![Is Netflix joining the AdTech market?](https://illumin.com/wp-content/uploads/2024/06/Netflix-adtech-263x300.jpg)
         
-        A closer look at modern digital political advertising[Read More](https://illumin.com/insights/blog/modern-digital-political-advertising/)
+        Is Netflix joining the AdTech market?[Read More](https://illumin.com/insights/blog/is-netflix-joining-the-adtech-market/)
         
 * [Company](#)
     * [Company](#)
