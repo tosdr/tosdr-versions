@@ -75,6 +75,10 @@ Search
     
     New Products[view all](https://www.adafruit.com/new)
     
+    ![Angled Shot of the Adafruit HX711 24-bit ADC.](https://cdn-shop.adafruit.com/230x173/5974-00.jpg)[Adafruit HX711 24-bit ADC for Load Cells / Strain Gauges
+    
+    $9.95](https://www.adafruit.com/product/5974)
+    
     ![Angled shot of M.2 HAT+ and compute module.](https://cdn-shop.adafruit.com/230x173/5979-01.jpg)[Raspberry Pi AI Kit with M.2 HAT and Hailo AI Module
     
     $70.00](https://www.adafruit.com/product/5979)
@@ -86,10 +90,6 @@ Search
     ![Video of gloved hands playing with a blue LED strip.](https://cdn-shop.adafruit.com/product-videos/320x240/5921-00.jpg)[Flexible 12V LED Strip - 480 LEDs per meter - 1m long - Blue
     
     $11.95](https://www.adafruit.com/product/5921)
-    
-    ![Angled shot of black, rectangular breakout board with a green 3-pin terminal block.](https://cdn-shop.adafruit.com/230x173/5976-00.jpg)[Adafruit DS2484 I2C to 1-Wire Bus Adapter Breakout
-    
-    $7.50](https://www.adafruit.com/product/5976)
     
     Featured Products[view all](https://www.adafruit.com/featured)
     
@@ -402,9 +402,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Artists are here to disturb the peace”
+“ This good fun, explore, explore, explore, that's what science is, exploration, finding out new things, so have a good time with it”
 
-[James Baldwin](https://en.wikipedia.org/wiki/James_Baldwin)
+[Charles Townes](http://en.wikipedia.org/wiki/Charles_H._Townes)
 
 [](https://www.adafruit.com/about)
 
