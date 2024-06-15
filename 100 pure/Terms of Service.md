@@ -19,7 +19,7 @@ My Tote
 
 ### [Coffee Bean Caffeine Eye Cream](https://www.100percentpure.com/products/coffee-bean-caffeine-eye-cream)
 
-5671 reviews (5672)
+5671 reviews (5674)
 
 $16.00 $29.00
 
@@ -49,7 +49,9 @@ ADD TO TOTE
 
 [![Featured](https://www.100percentpure.com/cdn/shop/files/1_3_3d2a3168-e15d-498f-8b8e-498d0c8feb87.png?crop=center&height=85&v=1705348338&width=85)](https://www.100percentpure.com/products/apple-enzyme-exfoliating-cleanser)
 
-[![7%-fruit-acids-apple-enzyme-exfoliating-cleanser](https://www.100percentpure.com/cdn/shop/files/7_FruitAcidsAppleEnzymeExfoliatingCleanser_239x254.png?v=1696468131)](https://www.100percentpure.com/products/apple-enzyme-exfoliating-cleanser)
+[35% off
+
+![7%-fruit-acids-apple-enzyme-exfoliating-cleanser](https://www.100percentpure.com/cdn/shop/files/7_FruitAcidsAppleEnzymeExfoliatingCleanser_239x254.png?v=1696468131)](https://www.100percentpure.com/products/apple-enzyme-exfoliating-cleanser)
 
 ![ 7% Fruit Acids Apple Enzyme Exfoliating Cleanser](//www.100percentpure.com/cdn/shop/files/7_FruitAcidsAppleEnzymeExfoliatingCleanser_220x.png?v=1696468131)
 
@@ -57,9 +59,9 @@ ADD TO TOTE
 
 80 reviews (80)
 
-$32.00
+$20.80 $32.00
 
-Default Title - $32
+Default Title - $20.80
 
 ADD TO TOTE
 
@@ -193,7 +195,7 @@ CHOOSE Size
 
 ### [Bright Eyes Masks](https://www.100percentpure.com/products/bright-eyes-masks)
 
-963 reviews (963)
+964 reviews (964)
 
 $7.00 $30.00
 
@@ -331,7 +333,7 @@ ADD TO TOTE
 
 ### [Does It All Sheet Mask](https://www.100percentpure.com/products/sheet-mask-does-it-all-masks)
 
-350 reviews (350)
+351 reviews (351)
 
 $7.00 $32.00
 
@@ -443,7 +445,9 @@ Default Title - $11.70
 
 ADD TO TOTE
 
-[![dark-spot-remover](https://www.100percentpure.com/cdn/shop/products/1FMDSR_Dark_Spot_Remover_Primary_239x254.jpg?v=1696526415)](https://www.100percentpure.com/products/dark-spot-remover)
+[30% off
+
+![dark-spot-remover](https://www.100percentpure.com/cdn/shop/products/1FMDSR_Dark_Spot_Remover_Primary_239x254.jpg?v=1696526415)](https://www.100percentpure.com/products/dark-spot-remover)
 
 ![ parent_primary](//www.100percentpure.com/cdn/shop/products/1FMDSR_Dark_Spot_Remover_Primary_220x.jpg?v=1696526415)
 
@@ -451,9 +455,9 @@ ADD TO TOTE
 
 531 reviews (531)
 
-$52.00
+$36.40 $52.00
 
-Default Title - $52
+Default Title - $36.40
 
 ADD TO TOTE
 
