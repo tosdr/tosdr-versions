@@ -38,7 +38,7 @@ Terms and Conditions Governing Access and Use of the ACT Internet Site
 
 --------------------------------------------------------------------------
 
-The ACT Internet site is maintained by ACT\*, as a service to individuals and the educational and business communities who use the Internet. Access to and use of the ACT Internet site are subject to the terms and conditions set forth herein and all applicable laws. These terms and conditions may be revised or updated by ACT.
+The ACT Internet site is maintained by ACT Education Corp. (“ACT”), as a service to individuals and the educational and business communities who use the Internet. Access to and use of the ACT Internet site are subject to the terms and conditions set forth herein and all applicable laws. These terms and conditions may be revised or updated by ACT.
 
 1. **Copyright:** All content in the ACT Internet site is copyrighted. No material may be distributed, downloaded, modified, reused, reproduced, reposted, retransmitted, disseminated, sold, published, broadcast, circulated, or otherwise used except as expressly stated either in such materials or in this notice without the express written permission of ACT. For permission to reproduce copyrighted materials, contact the ACT Publications Department at [Publications@act.org](mailto:Publications@act.org).  
       
@@ -120,9 +120,6 @@ Macintosh is a trademark of Apple Computer, Inc., registered in the U.S. and oth
       
     
 11. **Privacy:** ACT recognizes the importance of protecting the privacy of personal information provided by website users. For details regarding how ACT treats this information, please see our [Privacy Policy](https://www.act.org/content/act/en/privacy-policy.html).
-
-  
-\*Impact Asset Corp., a Delaware Corporation and wholly owned indirect subsidiary of Gateway Impact Corp., a Delaware Public Benefit Corporation (“ACT”)
 
 [![Link to Home Page](/etc/designs/act/clientlibs/act-base/img/logo-act-rev-300.png)](https://www.act.org/)
 
