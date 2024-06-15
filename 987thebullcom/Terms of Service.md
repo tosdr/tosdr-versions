@@ -210,11 +210,11 @@ Recently Played
 
 |     |
 | --- |
-| ReligiouslyBailey Zimmerman<br><br>5:35pm |
-| CowgirlsMorgan Wallen Ft Ernest<br><br>5:32pm |
-| Going, Going, GoneLuke Combs<br><br>5:23pm |
-| Halfway To HellJelly Roll<br><br>5:20pm |
-| Take Your TimeSam Hunt<br><br>5:16pm |
+| Fancy LikeWalker Hayes<br><br>5:37pm |
+| Rock &Amp; A Hard PlaceBailey Zimmerman<br><br>5:33pm |
+| Big Green TractorJason Aldean<br><br>5:24pm |
+| AustinDasha<br><br>5:21pm |
+| OutskirtsSam Hunt<br><br>5:19pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -222,6 +222,12 @@ Recently Played
 
 You Might Also Like
 -------------------
+
+![](https://s3.amazonaws.com/syndication.abcaudio.com/files/2024-06-06/M_2024CMAFestABC.jpg)
+
+[Country News](https://www.987thebull.com/category/country/)[### Jordan Davis is "all gas, no brakes" and TR's "feeling very jacked" as CMA Fest 2024 gets underway](https://www.987thebull.com/jordan-davis-is-all-gas-no-brakes-and-trs-feeling-very-jacked-as-cma-fest-2024-gets-underway/)
+
+* * *
 
 ![](https://s3.amazonaws.com/syndication.abcaudio.com/files/2024-06-05/M_LukeCombsCMAAwards2023backstageScottKirkland.jpg)
 
@@ -232,12 +238,6 @@ You Might Also Like
 ![](https://s3.amazonaws.com/syndication.abcaudio.com/files/2024-06-05/M_LukeBryanCMAFestAbc.jpg)
 
 [Country News](https://www.987thebull.com/category/country/)[### Luke Bryan on his first time playing CMA Fest: "I remember just being as nervous as you could be"](https://www.987thebull.com/luke-bryan-on-his-first-time-playing-cma-fest-i-remember-just-being-as-nervous-as-you-could-be/)
-
-* * *
-
-![](https://s3.amazonaws.com/syndication.abcaudio.com/files/2024-06-06/M_JellyRollDunkin_060624.jpg)
-
-[Country News](https://www.987thebull.com/category/country/)[### Jelly Roll is partnering with Dunkin' for National Donut Day — because of course he is](https://www.987thebull.com/jelly-roll-is-partnering-with-dunkin-for-national-donut-day-because-of-course-he-is/)
 
 * * *
 
@@ -381,21 +381,21 @@ State
 Featured Brands
 ---------------
 
-[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
+[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
+
+News Talk • Eastern
+
+[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
+
+Spanish • Western
+
+[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
 
 Country • Western
 
 [![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
 
 Top 40 • Pacific NW
-
-[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
-
-Country • Western
-
-[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
-
-Sports • Midwest
 
 [](https://www.alphamediausa.com/)
 
