@@ -291,15 +291,15 @@ Show Search
 * Copyright 2024 The Associated Press. All Rights Reserved.
     
 
-[Louisiana Amber Alert](https://apnews.com/article/louisiana-mother-killed-children-abducted-91062fca984151763d3ac87b0d6df0f6)
+[NBA Finals](https://apnews.com/article/nba-finals-porzingis-celtics-mavericks-2f2720d3052ebdd65f291ecd74690010)
 
-[Trevor Lawrence](https://apnews.com/article/trevor-lawrence-jaguars-contract-extension-4b3d75e43eb1d446c96d7c2624966797)
-
-[Utah Hockey Club](https://apnews.com/article/utah-hockey-club-83d8a28225ac391c6ded4dea32049e4a)
-
-[Gamestop shareholder meeting](https://apnews.com/article/gamestop-meme-shareholder-meeting-roaring-kitty-47ebc7eba916ae0754afbb40ba665335)
+[Boeing ‘Dutch roll’](https://apnews.com/article/southwest-plane-boeing-dutch-roll-828216b5dc18bfb29264b59debf071f0)
 
 [Israel-Hamas war](https://apnews.com/hub/israel-hamas-war)
+
+[Alex Jones](https://apnews.com/article/alex-jones-sandy-hook-lawsuit-3ccd113496caee18a085dfa54c6e6c0e)
+
+[Euro 2024](https://apnews.com/hub/euro-2024)
 
 The Associated Press
 ====================
