@@ -1460,7 +1460,7 @@ Support
 
 Partners
 
-* [Find a Partner](https://partnerships.amplitude.com/English/directory/)
+* [Find a Partner](https://amplitude.com/integrations)
 
 Company
 
