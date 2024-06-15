@@ -110,9 +110,9 @@
         * [Volunteer with 4-H](https://4-h.org/support/volunteer/)
     * ### Partner with 4-H
         
-        * [Corporate & Foundation Support](https://4-h.org/support/corporate-foundation-support/)
+        * [Corporate & Foundation Support](https://4-h.org/?page_id=74958)
         * [Become a Partner](https://4-h.org/support/corporate-foundation-support/#support)
-        * [Our Partners](https://4-h.org/support/corporate-foundation-support/our-partners/)
+        * [Our Partners](https://4-h.org/support/corporate-foundation-support-old/our-partners/)
     * [![Donate to 4-H](https://www.4-h.org/wp-content/uploads/2023/01/03153805/Support-Menu-600x600-1.jpg)Donate to 4-H ![Right Arrow](https://4-h.org/wp-content/themes/4h/assets/images/icons/arrow-right.svg)](https://4-h.org/support/ways-to-give/) 
         
 * [Shop 4-H](https://shop4-h.org/?utm_source=4-h_web&utm_medium=website&utm_campaign=Shop4H&utm_content=navigation_text&utm_term=main_nav)
@@ -496,7 +496,7 @@ Support 4-H
 -----------
 
 * [Ways to Give](https://4-h.org/support/ways-to-give/)
-* [Corporate & Foundation Support](https://4-h.org/support/corporate-foundation-support/)
+* [Corporate & Foundation Support](https://4-h.org/?page_id=74958)
 * [Shop 4-H](https://shop4-h.org/?utm_source=4-h_web&utm_medium=website&utm_campaign=Shop4H&utm_content=navigation_text&utm_term=footer_nav)
 
 Join the 4-H Community
@@ -514,7 +514,7 @@ National 4-H Newsletter
 
  Receive news about 4-h
 
-Phone
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
@@ -575,7 +575,7 @@ Terms and Conditions\*
 
  I have read and agree to National 4-H Council's [terms and conditions](https://4-h.org/terms-and-conditions) and [privacy policy](https://4-h.org/privacy-policy)\*
 
-Phone
+Name
 
 This field is for validation purposes and should be left unchanged.
 
