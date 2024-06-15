@@ -372,7 +372,7 @@ VIP会员限于个人使用，用户可以使用本软件的各类功能，用�
 
 ### 联系我们
 
-[关于我们](https://www.aipai.com/lastest_aipai/help/about.html) [在线客服](https://wpa1.qq.com/mJIhutKK?_type=wpa&qidian=true) 客服电话：020-85558299 意见反馈邮箱：product@aipai.com 渠道合作邮箱：marketing@aipai.com
+[关于我们](https://www.aipai.com/lastest_aipai/help/about.html) [在线客服](https://work.weixin.qq.com/kfid/kfc5c32b3ae99cb03d0) 客服电话：020-85558299 意见反馈邮箱：product@aipai.com 渠道合作邮箱：marketing@aipai.com
 
 ### 客户支持
 
