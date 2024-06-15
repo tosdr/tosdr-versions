@@ -1,7 +1,7 @@
-be\_ixf;ym\_202406 d\_13; ct\_50
+be\_ixf;ym\_202406 d\_14; ct\_50
 
 * be\_ixf; php\_sdk; php\_sdk\_1.4.26
-* https://cybersecurity.att.com/terms/website?utm\_medium=Email&utm\_source=&utm\_content=&elqTrackId=168ba11a66b74d30817a7d07ea6fbba7&elq=7a79966554c94cfb95c82cec0f415c6b&elqaid=1775&elqat=1&elqCampaignId=1587
+* https://cybersecurity.att.com/terms/website
 * https://cybersecurity.att.com/terms/website
 
 [Welcome to LevelBlue](https://www.alienvault.com/newsroom/press-releases/levelblue-launches-at-rsa)
@@ -127,9 +127,9 @@ be\_ixf;ym\_202406 d\_13; ct\_50
             
             Solution Brief
             
-            ##### Protect external-facing services against DDoS attacks and keep your business running
+            ##### Securing Operational Technology
             
-            [Learn more](https://cyber.levelblue.com/m/787e203a51011e42/original/SB-Protect-External-Facing-From-DDOS.pdf)
+            [Learn more](https://cyber.levelblue.com/m/8ebd7a710d88573/original/SB-OT-Pen-Testing.pdf)
             
             [View all Solution Briefs](https://www.alienvault.com/resource-center#content_solution-brief)
             
@@ -199,9 +199,9 @@ be\_ixf;ym\_202406 d\_13; ct\_50
             
             Whitepaper
             
-            ##### Cyber Resilience is Mission Critical for Business
+            ##### Indicators of Compromise for SquidLoader
             
-            [Learn more](https://cybersecurity.att.com/resource-center/white-papers/cyber-resilience-is-mission-critical-for-business)
+            [Learn more](https://cybersecurity.att.com/resource-center/white-papers/ioc-for-squidloader)
             
             [View all Whitepapers](https://www.alienvault.com/resource-center#content_white-paper)
             
