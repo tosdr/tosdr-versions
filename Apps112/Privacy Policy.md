@@ -210,19 +210,19 @@ last week
 Trending Apps
 =============
 
+[Jappy](https://jappy.apps112.com/ "Continue to app")
+
 [Breezy：IconLibrary](https://breezy-iconlibrary-ios.apps112.com/ "Continue to app")
+
+[Ringorang - Play. Learn. Win‪!‬](https://ringorang-play-learn-win-ios.apps112.com/ "Continue to app")
+
+[Ana Prast -Romantic Urdu Novel](https://ana-prast-romantic-urdu-novel.apps112.com/ "Continue to app")
 
 [Sony | Headphones Connect](https://sony-headphones-connect-ios.apps112.com/ "Continue to app")
 
-[Prototyper Pro](https://justinmind-prototyper.apps112.com/ "Continue to app")
+[Super3DS Pro Multi Emulator](https://super3ds-pro-multi-emulator.apps112.com/ "Continue to app")
 
-[LastBit OutlookExpress Password Recovery](https://lastbit-outlookexpress-password-recovery.apps112.com/ "Continue to app")
-
-[Snow Bros](https://snow-bros-free.apps112.com/ "Continue to app")
-
-[Alien Gang. Ocean Neighbor](https://alien-gang-ocean-neighbor-ios.apps112.com/ "Continue to app")
-
-[Cell Defense: TD](https://cell-defense-td.apps112.com/ "Continue to app")
+[Yellowstone with Ranger Pete‪®‬](https://yellowstone-with-ranger-pete-ios.apps112.com/ "Continue to app")
 
   
 
