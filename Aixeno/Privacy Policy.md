@@ -2126,9 +2126,9 @@ The company aixeno inc. has the right to refuse service to any person(s) or enti
 
 **Maximum Use** -
 
-**Merchant of Record** -
+**Merchant of Record, "MoR"** - any vendor, business entity, or other legal entity that acts as an agent of a seller to process payment transactions for another person or entity. Please also see "Payment Handler" and "Merchant Payment Processor" in these definitions.
 
-**Merchant Payment Processor** - “money transmitter,” “merchant payment processor” and a “money services business,” are terms are defined by the U.S. Code of Federal Regulations 31 CFR 103.11(uu)(5).
+**Merchant Payment Processor** - “money transmitter,” “merchant payment processor” and a “money services business,” are terms are defined by the U.S. Code of Federal Regulations 31 CFR 103.11(uu)(5). Please also see "Payment Handler" and "Merchant of Record" in these definitions.
 
 **Merger (of business entity)** -
 
@@ -2323,6 +2323,8 @@ The company aixeno inc. has the right to refuse service to any person(s) or enti
 **Payment Due Upon Receipt - Due Upon Receipt -** \- payment to the company is due immediately upon receipt (when bill is received) by a consumer, customer, or end user, for an amount of money that is billed for goods and services as described in a contract, bill of sale, subscription, service agreement, or another legal document.
 
 **Payment Due** - an amount of money that is billed and payable for goods and services on a specific date, as described in a contract, bill of sale, subscription, service agreement, or another legal document.
+
+**Payment Handler** - any software, app, API, or web application that can processes transaction requests for payment on behalf of the end-user, client, or customer. Please also see "Merchant of Record" and "Merchant Payment Processor" in these definitions.
 
 **Payment Information** -
 
