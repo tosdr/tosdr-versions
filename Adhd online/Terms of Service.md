@@ -2,6 +2,8 @@
 
 [Skip to content](#content)
 
+[**Important Notice to Our Valued Patients**](https://adhdonline.com/articles/important-notice-to-our-valued-patients/) | Considering Switching Your Provider? [**Learn More**](https://adhdonline.com/articles/considering-us-instead-of-your-current-provider/)
+
 **Juneteenth Holiday Hours | [Learn More](#juneteenth)**
 
 ✨ **Nurture Your Mind Event | [Save $30 on the Smart Assessment](https://adhdonline.com/)** ✨
@@ -100,7 +102,7 @@ Time is up! Promo savings expired on September 5th.
     * [Submit a request](https://adhddiagnosis.zendesk.com/hc/en-us/requests/new)
 * [Start now](https://patients.adhdonline.com/signup)
 
-![](https://adhdonline.com/wp-content/uploads/2023/05/ellipse-and-diamond.svg)
+![ellipse-and-diamond](https://adhdonline.com/wp-content/uploads/2023/05/ellipse-and-diamond.svg "ellipse-and-diamond")
 
 Terms & Conditions
 ==================
