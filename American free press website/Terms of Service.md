@@ -29,11 +29,11 @@ Search for:
 
 News Ticker
 
+* [\[ June 14, 2024 \] Israel-First Lobby Fails to Unseat Non-Interventionist Congressman Subscriber Only](https://americanfreepress.net/israel-first-lobby-fails-to-unseat-non-interventionist-congressman/ "Israel-First Lobby Fails to Unseat Non-Interventionist Congressman")
+* [\[ June 14, 2024 \] American Attendees of Bilderberg 2024 Conspiracy Buzz](https://americanfreepress.net/american-attendees-of-bilderberg-2024/ "American Attendees of Bilderberg 2024")
+* [\[ June 14, 2024 \] Trump Sees Unexpected Rise in Support from Blacks, Hispanics Subscriber Only](https://americanfreepress.net/trump-sees-unexpected-rise-in-support-from-blacks-hispanics/ "Trump Sees Unexpected Rise in Support from Blacks, Hispanics")
 * [\[ June 13, 2024 \] Western Leaders Have an Insatiable Desire for National Suicide Subscriber Only](https://americanfreepress.net/western-leaders-have-an-insatiable-desire-for-national-suicide/ "Western Leaders Have an Insatiable Desire for National Suicide")
 * [\[ June 2, 2024 \] State Rep. Says Border Situation Coming to a Head Subscriber Only](https://americanfreepress.net/state-rep-says-border-situation-coming-to-a-head/ "State Rep. Says Border Situation Coming to a Head")
-* [\[ June 1, 2024 \] Leftist D.C. Rag Admits Majority Supports Harsher Measures to End Invasion National News](https://americanfreepress.net/leftist-d-c-rag-admits-majority-supports-harsher-measures-to-end-invasion/ "Leftist D.C. Rag Admits Majority Supports Harsher Measures to End Invasion")
-* [\[ June 1, 2024 \] Israel’s ‘Abu Ghraib’ Horrors Exposed Subscriber Only](https://americanfreepress.net/israels-abu-ghraib-horrors-exposed/ "Israel’s ‘Abu Ghraib’ Horrors Exposed")
-* [\[ June 1, 2024 \] Russia Committing War Crimes, But the Israelis Are Innocent? Subscriber Only](https://americanfreepress.net/russia-committing-war-crimes-but-the-israelis-are-innocent/ "Russia Committing War Crimes, But the Israelis Are Innocent?")
 
 [Home](https://americanfreepress.net/)TERMS and CONDITIONS
 
@@ -128,11 +128,11 @@ Categories Select Category Ad Alternative Health Archive Audio Bookstore Conspir
 
 ###### Recent Articles
 
+* [Israel-First Lobby Fails to Unseat Non-Interventionist Congressman](https://americanfreepress.net/israel-first-lobby-fails-to-unseat-non-interventionist-congressman/)
+* [Pope Shows Disdain for Conservatives, Promotes Illegal Immigration](https://americanfreepress.net/pope-shows-disdain-for-conservatives-promotes-illegal-immigration/)
+* [American Attendees of Bilderberg 2024](https://americanfreepress.net/american-attendees-of-bilderberg-2024/)
+* [Trump Sees Unexpected Rise in Support from Blacks, Hispanics](https://americanfreepress.net/trump-sees-unexpected-rise-in-support-from-blacks-hispanics/)
 * [Issue 23/24 2024 News You May Have Missed](https://americanfreepress.net/48501-2/)
-* [Western Leaders Have an Insatiable Desire for National Suicide](https://americanfreepress.net/western-leaders-have-an-insatiable-desire-for-national-suicide/)
-* [AI, China, Russia, Ukraine Dominate Bilderberg](https://americanfreepress.net/ai-china-russia-ukraine-dominate-bilderberg/)
-* [State Rep. Says Border Situation Coming to a Head](https://americanfreepress.net/state-rep-says-border-situation-coming-to-a-head/)
-* [Leftist D.C. Rag Admits Majority Supports Harsher Measures to End Invasion](https://americanfreepress.net/leftist-d-c-rag-admits-majority-supports-harsher-measures-to-end-invasion/)
 
 ###### Recent Comments
 
@@ -178,4 +178,4 @@ Any cookies that may not be particularly necessary for the website to function a
 
 SAVE & ACCEPT
 
-![css.php](https://americanfreepress.net/wp-content/plugins/cookies-for-comments/css.php?k=8a9b2c33f69fe9773bed4bd13516bab6&o=i&t=1181180001)
+![css.php](https://americanfreepress.net/wp-content/plugins/cookies-for-comments/css.php?k=8a9b2c33f69fe9773bed4bd13516bab6&o=i&t=942306157)
