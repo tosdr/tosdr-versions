@@ -33,7 +33,7 @@
     * [Outdoors](https://www.arkansasonline.com/news/Outdoors/)
     * [High School](https://www.arkansasonline.com/news/sports/highschool/)
     * [Betting](https://www.arkansasonline.com/news/betting/)
-    * [Horse Racing](https://www.arkansasonline.com/news/sports/pros/horseracing/)
+    * [Horse Racing](https://www.arkansasonline.com/news/horseracing/)
     * [NASCAR](https://www.arkansasonline.com/news/sports/nascar/)
     * [LR Marathon](https://www.arkansasonline.com/news/sports/marathon/)
 * ### Opinion
@@ -353,7 +353,7 @@ Copyright Associated Press. All rights reserved. This material may not be publis
     * [Outdoors](https://www.arkansasonline.com/news/Outdoors/)
     * [High School](https://www.arkansasonline.com/news/sports/highschool/)
     * [Betting](https://www.arkansasonline.com/news/betting/)
-    * [Horse Racing](https://www.arkansasonline.com/news/sports/pros/horseracing/)
+    * [Horse Racing](https://www.arkansasonline.com/news/horseracing/)
     * [NASCAR](https://www.arkansasonline.com/news/sports/nascar/)
     * [LR Marathon](https://www.arkansasonline.com/news/sports/marathon/)
 * ### Opinion
