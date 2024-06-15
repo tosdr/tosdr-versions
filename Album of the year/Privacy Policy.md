@@ -93,35 +93,35 @@ Advertisement
 
 [New Album Releases](https://www.albumoftheyear.org/releases/this-week/)
 
-90
+70
 
-[Charli xcx
+[Don Toliver
 
-BRAT](https://www.albumoftheyear.org/album/887267-charli-xcx-brat.php)
+HARDSTONE PSYCHO](https://www.albumoftheyear.org/album/905366-don-toliver-hardstone-psycho.php)
 
 NR
 
-[Joey Valence & Brae
+[Charli xcx
 
-NO HANDS](https://www.albumoftheyear.org/album/941426-joey-valence-brae-no-hands.php)
+Brat and it's the same but there's three more songs so it's not](https://www.albumoftheyear.org/album/981047-charli-xcx-brat-and-its-the-same-but-theres-three-more-songs-so-its-not.php)
 
-76
+72
 
-[KAYTRANADA
+[Normani
 
-Timeless](https://www.albumoftheyear.org/album/963698-kaytranada-timeless.php)
+DOPAMINE](https://www.albumoftheyear.org/album/882190-normani-dopamine.php)
 
-84
+90
 
-[AURORA
+[Ulcerate
 
-What Happened To The Heart?](https://www.albumoftheyear.org/album/914038-aurora-what-happened-to-the-heart.php)
+Cutting the Throat of God](https://www.albumoftheyear.org/album/901868-ulcerate-cutting-the-throat-of-god.php)
 
-50
+60
 
-[Ski Mask The Slump God
+[$uicideboy$
 
-11th Dimension](https://www.albumoftheyear.org/album/782279-ski-mask-the-slump-god-11th-dimension.php)
+New World Depression](https://www.albumoftheyear.org/album/899681-suicideboys-new-world-depression.php)
 
 [More Releases](https://www.albumoftheyear.org/releases/this-week/)
 
@@ -135,9 +135,9 @@ What Happened To The Heart?](https://www.albumoftheyear.org/album/914038-aurora-
 
 [![Mdou Moctar - Funeral For Justice](https://cdn.albumoftheyear.org/images/clear.gif)](https://www.albumoftheyear.org/album/888230-mdou-moctar-funeral-for-justice.php "Mdou Moctar - Funeral For Justice")
 
-[![Jessica Pratt - Here in the Pitch](https://cdn.albumoftheyear.org/images/clear.gif)](https://www.albumoftheyear.org/album/874771-jessica-pratt-here-in-the-pitch.php "Jessica Pratt - Here in the Pitch")
-
 [![A. G. Cook - Britpop](https://cdn.albumoftheyear.org/images/clear.gif)](https://www.albumoftheyear.org/album/878112-a-g-cook-britpop.php "A. G. Cook - Britpop")
+
+[![Jessica Pratt - Here in the Pitch](https://cdn.albumoftheyear.org/images/clear.gif)](https://www.albumoftheyear.org/album/874771-jessica-pratt-here-in-the-pitch.php "Jessica Pratt - Here in the Pitch")
 
 [![Beth Gibbons - Lives Outgrown](https://cdn.albumoftheyear.org/images/clear.gif)](https://www.albumoftheyear.org/album/863906-beth-gibbons-lives-outgrown.php "Beth Gibbons - Lives Outgrown")
 
