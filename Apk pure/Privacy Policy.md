@@ -182,19 +182,15 @@ WhatsApp Messenger
 
 CapCut - Video Editor
 
-8.3](https://apkpure.com/capcut-for-android/com.lemon.lvoverseas "CapCut - Video Editor")[![TikTok icon](https://static.apkpure.com/mobile/static/imgs/lazy.png "TikTok")
+8.3](https://apkpure.com/capcut-for-android/com.lemon.lvoverseas "CapCut - Video Editor")[![Messenger icon](https://static.apkpure.com/mobile/static/imgs/lazy.png "Messenger")
+
+Messenger
+
+7.6](https://apkpure.com/facebook-messenger/com.facebook.orca "Messenger")[![TikTok icon](https://static.apkpure.com/mobile/static/imgs/lazy.png "TikTok")
 
 TikTok
 
-8.2](https://apkpure.com/tiktok-musically/com.zhiliaoapp.musically "TikTok")[![Instagram icon](https://static.apkpure.com/mobile/static/imgs/lazy.png "Instagram")
-
-Instagram
-
-6.5](https://apkpure.com/instagram-android/com.instagram.android "Instagram")[![eFootball 2024 icon](https://static.apkpure.com/mobile/static/imgs/lazy.png "eFootball 2024")
-
-eFootball 2024
-
-8.6](https://apkpure.com/efootball-2024-mobile-android/jp.konami.pesam "eFootball 2024")[![Free Fire icon](https://static.apkpure.com/mobile/static/imgs/lazy.png "Free Fire")
+8.2](https://apkpure.com/tiktok-musically/com.zhiliaoapp.musically "TikTok")[![Free Fire icon](https://static.apkpure.com/mobile/static/imgs/lazy.png "Free Fire")
 
 Free Fire
 
@@ -202,7 +198,11 @@ Free Fire
 
 Roblox
 
-8.1](https://apkpure.com/roblox-android/com.roblox.client "Roblox")[![Free Fire MAX icon](https://static.apkpure.com/mobile/static/imgs/lazy.png "Free Fire MAX")
+8.1](https://apkpure.com/roblox-android/com.roblox.client "Roblox")[![eFootball 2024 icon](https://static.apkpure.com/mobile/static/imgs/lazy.png "eFootball 2024")
+
+eFootball 2024
+
+8.6](https://apkpure.com/efootball-2024-mobile-android/jp.konami.pesam "eFootball 2024")[![Free Fire MAX icon](https://static.apkpure.com/mobile/static/imgs/lazy.png "Free Fire MAX")
 
 Free Fire MAX
 
