@@ -178,19 +178,19 @@ APKPure is committed to protecting consumer privacy online. We believe that grea
 
 WhatsApp Messenger
 
-7.8](https://apkpure.com/whatsapp-android/com.whatsapp "WhatsApp Messenger")[![CapCut - Video Editor icon](https://static.apkpure.com/mobile/static/imgs/lazy.png "CapCut - Video Editor")
-
-CapCut - Video Editor
-
-8.3](https://apkpure.com/capcut-for-android/com.lemon.lvoverseas "CapCut - Video Editor")[![Messenger icon](https://static.apkpure.com/mobile/static/imgs/lazy.png "Messenger")
+7.8](https://apkpure.com/whatsapp-android/com.whatsapp "WhatsApp Messenger")[![Messenger icon](https://static.apkpure.com/mobile/static/imgs/lazy.png "Messenger")
 
 Messenger
 
-7.6](https://apkpure.com/facebook-messenger/com.facebook.orca "Messenger")[![TikTok icon](https://static.apkpure.com/mobile/static/imgs/lazy.png "TikTok")
+7.6](https://apkpure.com/facebook-messenger/com.facebook.orca "Messenger")[![CapCut - Video Editor icon](https://static.apkpure.com/mobile/static/imgs/lazy.png "CapCut - Video Editor")
 
-TikTok
+CapCut - Video Editor
 
-8.2](https://apkpure.com/tiktok-musically/com.zhiliaoapp.musically "TikTok")[![Free Fire icon](https://static.apkpure.com/mobile/static/imgs/lazy.png "Free Fire")
+8.3](https://apkpure.com/capcut-for-android/com.lemon.lvoverseas "CapCut - Video Editor")[![YouTube icon](https://static.apkpure.com/mobile/static/imgs/lazy.png "YouTube")
+
+YouTube
+
+7.7](https://apkpure.com/youtube/com.google.android.youtube "YouTube")[![Free Fire icon](https://static.apkpure.com/mobile/static/imgs/lazy.png "Free Fire")
 
 Free Fire
 
@@ -198,15 +198,15 @@ Free Fire
 
 Roblox
 
-8.1](https://apkpure.com/roblox-android/com.roblox.client "Roblox")[![eFootball 2024 icon](https://static.apkpure.com/mobile/static/imgs/lazy.png "eFootball 2024")
-
-eFootball 2024
-
-8.6](https://apkpure.com/efootball-2024-mobile-android/jp.konami.pesam "eFootball 2024")[![Free Fire MAX icon](https://static.apkpure.com/mobile/static/imgs/lazy.png "Free Fire MAX")
+8.1](https://apkpure.com/roblox-android/com.roblox.client "Roblox")[![Free Fire MAX icon](https://static.apkpure.com/mobile/static/imgs/lazy.png "Free Fire MAX")
 
 Free Fire MAX
 
-8.7](https://apkpure.com/free-fire-max-android/com.dts.freefiremax "Free Fire MAX")
+8.7](https://apkpure.com/free-fire-max-android/com.dts.freefiremax "Free Fire MAX")[![eFootball 2024 icon](https://static.apkpure.com/mobile/static/imgs/lazy.png "eFootball 2024")
+
+eFootball 2024
+
+8.6](https://apkpure.com/efootball-2024-mobile-android/jp.konami.pesam "eFootball 2024")
 
 ![APKPure](https://static.apkpure.com/www/static/imgs/logo_new.png)
 
