@@ -19,7 +19,7 @@ My Tote
 
 ### [Coffee Bean Caffeine Eye Cream](https://www.100percentpure.com/products/coffee-bean-caffeine-eye-cream)
 
-5671 reviews (5674)
+5675 reviews (5675)
 
 $16.00 $29.00
 
@@ -389,7 +389,7 @@ ADD TO TOTE
 
 ### [Organic Mint Lip Balm](https://www.100percentpure.com/products/organic-mint-lip-balm)
 
-424 reviews (424)
+492 reviews (492)
 
 $3.20 $8.00
 
@@ -485,7 +485,7 @@ ADD TO TOTE
 
 ### [Blood Orange Cleansing Balm](https://www.100percentpure.com/products/blood-orange-cleansing-balm)
 
-847 reviews (847)
+848 reviews (849)
 
 $26.60 $38.00
 
@@ -563,7 +563,7 @@ or 4 interest-free payments of **$0.00** with ![Klarna Logo](https://www.100perc
 
  
 
-[🔥 Limited-Time Deals! 🔥 New Items Added + Massive Discounts Up to 70%OFF!](https://www.100percentpure.com/collections/oops-we-made-too-much "Oops We Made Too Much")
+[Free Rose Micellar Water with any purchase of $50 or more! USE CODE: ROSEWATER](https://www.100percentpure.com/products/rose-micellar-cleansing-water "Rose Micellar Cleansing Water")
 
 icon-account icon-account icon-arrow-right icon-arrow-down icon-arrow-next icon-arrow-prev icon-slideshow-next icon-slideshow-previous icon-comment icon-heart icon-cart icon-bag icon-close icon-glasses icon-menu icon-minus icon-play icon-plus social-seach social-facebook social-fancy social-instagram social-pinterest social-rss social-twitter
 
