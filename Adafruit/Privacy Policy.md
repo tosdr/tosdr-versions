@@ -402,9 +402,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ This good fun, explore, explore, explore, that's what science is, exploration, finding out new things, so have a good time with it”
+“ Once a new technology rolls over you, if you're not part of the steamroller, you're part of the road”
 
-[Charles Townes](http://en.wikipedia.org/wiki/Charles_H._Townes)
+[Stewart Brand](http://en.wikipedia.org/wiki/Stewart_Brand)
 
 [](https://www.adafruit.com/about)
 
