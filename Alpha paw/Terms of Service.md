@@ -238,7 +238,7 @@ Apply
     
     2 colors
     
-    6446 total reviews](https://www.alphapaw.com/collections/bestsellers/products/pawramp)
+    6447 total reviews](https://www.alphapaw.com/collections/bestsellers/products/pawramp)
     
     Regular price
     
@@ -262,7 +262,7 @@ Apply
     
     2 colors
     
-    6446 total reviews
+    6447 total reviews
     
 * On sale
     
@@ -290,7 +290,7 @@ Apply
     
     in your cart
     
-    5 total reviews](https://www.alphapaw.com/collections/bestsellers/products/stairwedge)
+    6 total reviews](https://www.alphapaw.com/collections/bestsellers/products/stairwedge)
     
     Regular price
     
@@ -312,7 +312,7 @@ Apply
     
     in your cart
     
-    5 total reviews
+    6 total reviews
     
 * On sale
     
@@ -344,7 +344,7 @@ Apply
     
     3 sizes
     
-    3684 total reviews](https://www.alphapaw.com/collections/bestsellers/products/pawproof-throw-blanket)
+    3685 total reviews](https://www.alphapaw.com/collections/bestsellers/products/pawproof-throw-blanket)
     
     Regular price
     
@@ -370,7 +370,7 @@ Apply
     
     3 sizes
     
-    3684 total reviews
+    3685 total reviews
     
 * On sale
     
@@ -400,7 +400,7 @@ Apply
     
     3 sizes
     
-    3312 total reviews](https://www.alphapaw.com/collections/bestsellers/products/magic-pee-pads-xl)
+    3313 total reviews](https://www.alphapaw.com/collections/bestsellers/products/magic-pee-pads-xl)
     
     Regular price
     
@@ -424,7 +424,7 @@ Apply
     
     3 sizes
     
-    3312 total reviews
+    3313 total reviews
     
 * On sale
     
@@ -454,7 +454,7 @@ Apply
     
     3 sizes
     
-    3312 total reviews](https://www.alphapaw.com/collections/bestsellers/products/magic-dog-pee-pads)
+    3313 total reviews](https://www.alphapaw.com/collections/bestsellers/products/magic-dog-pee-pads)
     
     Regular price
     
@@ -478,7 +478,7 @@ Apply
     
     3 sizes
     
-    3312 total reviews
+    3313 total reviews
     
 * On sale
     
@@ -506,7 +506,7 @@ Apply
     
     in your cart
     
-    1305 total reviews](https://www.alphapaw.com/collections/bestsellers/products/magic-mouthwash-for-dogs)
+    1306 total reviews](https://www.alphapaw.com/collections/bestsellers/products/magic-mouthwash-for-dogs)
     
     Regular price
     
@@ -528,7 +528,7 @@ Apply
     
     in your cart
     
-    1305 total reviews
+    1306 total reviews
     
 * On sale
     
