@@ -200,6 +200,11 @@ This document was last updated on January 1, 2014
 
 #### Defense News
 
+* [No 30-year-old drone wingmen: US Air Force eyes regular CCA overhauls](https://www.defensenews.com/air/2024/06/15/no-30-year-old-drone-wingmen-us-air-force-eyes-regular-cca-overhauls/)  
+    06/14/24 11:49pm  
+    
+    A conceptual design of low-cost, attritable drones serving as wingmen for a crewed fighter jet. (U.S. Air Force)
+    
 * [Romania launches expansion of air base near Ukraine](https://www.defensenews.com/global/europe/2024/06/13/romania-launches-expansion-of-air-base-near-ukraine/)  
     06/13/24 04:50pm  
     
@@ -215,21 +220,16 @@ This document was last updated on January 1, 2014
     
     A U.S. Marine Corps MV-22 Osprey aircraft taxies behind another Osprey at Andrews Air Force Base, Md., April 24, 2021. (Patrick Semansky/AP)
     
-* [NATO allies practice dogfighting as Russia gains ground in Ukraine](https://www.defensenews.com/news/your-air-force/2024/06/11/nato-allies-practice-dogfighting-as-russia-gains-ground-in-ukraine/)  
-    06/11/24 05:00pm  
-    
-    A U.S. Air Force airman signals an F-16 Fighting Falcon to stop as part of a basic fighter maneuvers exercise held on Ramstein Air Base, Germany, June 6, 2024. (Senior Airman Christian Conrad/Air Force)
-    
 
 Recent parts by keyword  
 
-* [cds-9-5](https://aerobasegroup.com/search/?term=cds-9-5)
-* [1650b35](https://aerobasegroup.com/search/?term=1650b35)
-* [nas834-131](https://aerobasegroup.com/search/?term=nas834-131)
-* [ms20364-d832](https://aerobasegroup.com/search/?term=ms20364-d832)
-* [b9spb](https://aerobasegroup.com/search/?term=b9spb)
-* [47a117](https://aerobasegroup.com/search/?term=47a117)
-* [6061-t6](https://aerobasegroup.com/search/?term=6061-t6)
+* [al-2022](https://aerobasegroup.com/search/?term=al-2022)
+* [wd 40](https://aerobasegroup.com/search/?term=wd+40)
+* [console](https://aerobasegroup.com/search/?term=console)
+* [322as170-1](https://aerobasegroup.com/search/?term=322as170-1)
+* [a51g9002](https://aerobasegroup.com/search/?term=a51g9002)
+* [fm13](https://aerobasegroup.com/search/?term=fm13)
+* [m46146-21atn](https://aerobasegroup.com/search/?term=m46146-21atn)
 
 The AeroBase Group Family ..
 
