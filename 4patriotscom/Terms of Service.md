@@ -132,7 +132,7 @@ We Champion Freedom & Self-Reliance
         
         ###### Portable Power Station - Patriot Power Cell CX
         
-        1666 reviews](https://4patriots.com/products/patriot-power-cell)
+        1673 reviews](https://4patriots.com/products/patriot-power-cell)
         
         [![ HaloXT Tactical Solar Flashlight](//4patriots.com/cdn/shop/files/HXT_ROADSIDE_CAR_IN_USE_MAN_SMALL_2000x2000_2_360x.jpg?v=1718140318)
         
@@ -198,7 +198,7 @@ We Champion Freedom & Self-Reliance
         
         ###### BugOUT Solar Lantern
         
-        151 reviews](https://4patriots.com/products/bugout-solar-lantern)
+        152 reviews](https://4patriots.com/products/bugout-solar-lantern)
         
     
 * [Home & Health](https://4patriots.com/collections/home-garden)
