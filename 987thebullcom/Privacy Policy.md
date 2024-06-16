@@ -353,11 +353,11 @@ Recently Played
 
 |     |
 | --- |
-| Fancy LikeWalker Hayes<br><br>5:37pm |
-| Rock &Amp; A Hard PlaceBailey Zimmerman<br><br>5:33pm |
-| Big Green TractorJason Aldean<br><br>5:24pm |
-| AustinDasha<br><br>5:21pm |
-| OutskirtsSam Hunt<br><br>5:19pm |
+| If I Didn&Apos;T Love YouJason Aldean & Carrie Underwood<br><br>5:35pm |
+| ChevroletDustin Lynch Ft Jelly Roll<br><br>5:32pm |
+| She&Apos;S Somebody'S DaughterDrew Baldridge<br><br>5:29pm |
+| The Kind Of Love We MakeLuke Combs<br><br>5:25pm |
+| Thinkin &Apos;Bout MeMorgan Wallen<br><br>5:23pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -524,21 +524,21 @@ State
 Featured Brands
 ---------------
 
-[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
+[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
 
-Country • Western
-
-[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
-
-News Talk • Eastern
-
-[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
-
-Top 40 • Pacific NW
+Sports • Midwest
 
 [![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
 
 Top 40 • Eastern
+
+[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
+
+Country • Western
+
+[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
+
+Spanish • Western
 
 [](https://www.alphamediausa.com/)
 
