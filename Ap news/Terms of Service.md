@@ -291,15 +291,15 @@ Show Search
 * Copyright 2024 The Associated Press. All Rights Reserved.
     
 
-[NBA Finals](https://apnews.com/article/nba-finals-porzingis-celtics-mavericks-2f2720d3052ebdd65f291ecd74690010)
+[Israel-Hamas war](https://apnews.com/hub/israel-hamas-war)
+
+[Euro 2024](https://apnews.com/article/italy-albania-score-euro-72f3c94fab56e799d824f885bd09c6d1)
+
+[Father’s Day](https://apnews.com/article/fathers-day-lgbtq-families-c9d6383982aa87513e322ab6ddb8d507)
 
 [Boeing ‘Dutch roll’](https://apnews.com/article/southwest-plane-boeing-dutch-roll-828216b5dc18bfb29264b59debf071f0)
 
-[Israel-Hamas war](https://apnews.com/hub/israel-hamas-war)
-
-[Alex Jones](https://apnews.com/article/alex-jones-sandy-hook-lawsuit-3ccd113496caee18a085dfa54c6e6c0e)
-
-[Euro 2024](https://apnews.com/hub/euro-2024)
+[MLB: Phillies vs. Orioles](https://apnews.com/article/phillies-orioles-score-fbb1be9574cdf5e9601eabe02b768cbd)
 
 The Associated Press
 ====================
