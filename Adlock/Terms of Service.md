@@ -193,6 +193,22 @@ Address: Špitálska 53, Bratislava, 811 01, Slovakia
 Latest news
 -----------
 
+[![How to Stop Annoying Fox News Ads &amp; Pop-ups](/wp-content/uploads/2024/06/Fox-news.png)
+
+### How to Stop Annoying Fox News Ads & Pop-ups](https://adlock.com/blog/fox-news-ad-blocker/)
+
+[![How Do You Block Ads on NY Times](/wp-content/uploads/2024/06/NY-Times.png)
+
+### How Do You Block Ads on NY Times](https://adlock.com/blog/remove-new-york-times-ads/)
+
+[![How to Block Township Ads](/wp-content/uploads/2024/06/township.png)
+
+### How to Block Township Ads](https://adlock.com/blog/block-ads-on-township/)
+
+[![How to Play Subway Surfers Without Ads](/wp-content/uploads/2024/06/subway-surfers.png)
+
+### How to Play Subway Surfers Without Ads](https://adlock.com/blog/block-ads-in-subway-surfers/)
+
 [![How to Stop Redirects on iPhone in Safari Browser](/wp-content/uploads/2024/06/How-to-Fix-Too-Many-Redirects-on-iPhone-Safari.png)
 
 ### How to Stop Redirects on iPhone in Safari Browser](https://adlock.com/blog/stop-too-many-redirects-on-iphone/)
@@ -200,22 +216,6 @@ Latest news
 [![How to Easily Block Ads on Android Devices](/wp-content/uploads/2024/06/How-to-Block-Ads-on-Android-Phone.png)
 
 ### How to Easily Block Ads on Android Devices](https://adlock.com/blog/how-to-block-ads-on-android-phone/)
-
-[![How to Remove Ads from Edge Browser](/wp-content/uploads/2018/10/Microsoft-edge-1-1.png)
-
-### How to Remove Ads from Edge Browser](https://adlock.com/blog/block-ads-on-microsoft-edge/)
-
-[![How to Stop Royal Match Ads?](/wp-content/uploads/2023/09/Royal-Match.png)
-
-### How to Stop Royal Match Ads?](https://adlock.com/blog/how-to-block-annoying-royal-match-ads/)
-
-[![How to Remove Lock Screen Ads on Android](/wp-content/uploads/2023/12/android-lock-screen.png)
-
-### How to Remove Lock Screen Ads on Android](https://adlock.com/blog/how-to-remove-ads-from-lock-screen/)
-
-[![How to Block Ads on DuckDuckGo](/wp-content/uploads/2023/09/duckduck.png)
-
-### How to Block Ads on DuckDuckGo](https://adlock.com/blog/how-to-block-ads-duckduckgo/)
 
 GET ADLOCK FOR YOUR DEVICE
 
