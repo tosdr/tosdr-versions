@@ -102,7 +102,8 @@ Privacy Policy
 
 [![TRUSTe Verified Privacy](//privacy-policy.truste.com/privacy-seal/seal?rid=b660c4bf-c1cd-44c9-a527-f428e5f1f5d2)](https://privacy.truste.com/privacy-seal/validation?rid=b660c4bf-c1cd-44c9-a527-f428e5f1f5d2)[![TRUSTe Data Certification](//privacy-policy.truste.com/privacy-seal/seal?rid=0d325ffb-5c6a-4c69-9edd-3380254e97d6)](https://privacy.truste.com/privacy-seal/validation?rid=0d325ffb-5c6a-4c69-9edd-3380254e97d6) 
 
-**Effective Date**: May 3, 2024
+**Effective Date**: June 14, 2024  
+You can find the prior version [here](https://www.applovin.com/privacy-prior/).
 
 AppLovin Corporation (“we,” “us,” “our,” or “AppLovin”) operates a suite of tools for app developers and other businesses to automate and optimize the marketing and monetization of their platforms, products, or services by enabling the placement of different types of advertisements on digital properties including mobile apps, websites, and connected TV devices (collectively, the “Advertising Services” or “Services”).  As explained below, consumers interact with us in a few ways, primarily through advertisements served by AppLovin on behalf of advertisers.
 
@@ -125,10 +126,8 @@ If you are a consumer who downloads and uses an application which contains the A
 * Device properties related to screen size, orientation, audio, battery, device memory usage, settings, and boot time;
 * Device settings related to accessibility features, font size, and theme; 
 * Carrier;
-* Operating system;
 * Name and properties of mobile application through which a consumer interacts with the Services;
 * Country, time zone, and locale settings (country and preferred language);
-* City- and/or country-level or other coarse geolocation data;
 * Network connection type and speed;
 * IP Address;
 * Internet browser user-agent used to access the Services;
@@ -196,7 +195,7 @@ We may share information we collect or derive with third parties in the followin
 
 ### Manage Your Privacy Choices:
 
-To limit collection of information from mobile devices, including location data, please visit your device’s settings to set the “Limit Ad Track”, “Location Based Services,” or other similar feature on your device. Additionally, you may opt-out of interest-based advertising within ads served by AppLovin. For detailed instructions, see [How AppLovin Shows You Ads](https://dash.applovin.com/p/how-applovin-shows-you-ads). You can also make choices about data collection for certain companies by visiting an industry consumer choice platform such as the NAI ([https://optout.networkadvertising.org/](https://optout.networkadvertising.org/)) or DAA ([https://optout.aboutads.info/](https://optout.aboutads.info/)).  You may still receive ads after limiting processing of information for interest-based advertising, but those ads may be less relevant to your interests. 
+To limit collection of information from mobile devices, please visit your device’s settings to set the “Limit Ad Track” or other similar features on your device. Additionally, you may opt-out of interest-based advertising within ads served by AppLovin. For detailed instructions, see [How AppLovin Shows You Ads](https://dash.applovin.com/p/how-applovin-shows-you-ads). You can also make choices about data collection for certain companies by visiting an industry consumer choice platform such as the NAI ([https://optout.networkadvertising.org/](https://optout.networkadvertising.org/)) or DAA ([https://optout.aboutads.info/](https://optout.aboutads.info/)).  You may still receive ads after limiting processing of information for interest-based advertising, but those ads may be less relevant to your interests. 
 
 To see or manage the data collected by AppLovin from your device, you may download the AppLovin Privacy Management Application from the Apple or Google Play Stores:
 
