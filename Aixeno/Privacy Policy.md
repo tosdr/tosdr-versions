@@ -11,7 +11,7 @@ legal
 [https://aixeno.com/legal.html](https://aixeno.com/legal.html "legal - https://aixeno.com/legal.html")
 
 Effective Date: January 01, 2022  
-Updated: June 09, 2024
+Updated: June 15, 2024
 
   
 
@@ -3134,13 +3134,13 @@ The company aixeno inc. has the right to refuse service to any person(s) or enti
 
 **Your Account** - an account already set up with the company that contains personally identifiable information of a single client, customer, person, or entity. An "account" is a record of information at any point(s) in time showing interactions and transactions between any parties, persons, customers, providers, businesses, other entities, where the parties' information is quantifiable and records the amount(s) of transactions, business dealings, money amounts, subscriptions, investments, financial transactions, assets, liabilities, equities, revenues, expenses, information, data, exchanges of anything of value, property, identifying information, stored information, or any other thing that can be recorded or described or explained. An account may be in any form or format, electronic or otherwise.
 
-**Your Payment** - any payment(s) made to the company from any customer, client, or end-user.
+**Your Payment** - any payment(s) made to the company from any customer, client, or end-user: the word "your" refers to the customer, client, or end-user making a payment.
 
-**Your Payment Has Been Accepted** -
+**Your Payment Has Been Accepted** - a payment attempted by a customer, client, or end-user, and the payment was completed successfully.
 
-**Your Payment Has Been Placed On Hold** -
+**Your Payment Has Been Placed On Hold** - a payment attempted by a customer, client, or end-user, yet the payment is temporarily paused, put on hold, frozen, or otherwise interrupted during a transaction processing step for any of several possible reasons: verification of identity, verification of sufficient funds in the payment account, verification of card information, verification of account information and/or spending limits, verification of legal authorization for payment on account, approval needed by the payment processor, approval required by the bank, or for any other reason.
 
-**Your Payment Has Been Rejected** -
+**Your Payment Has Been Rejected** - a payment attempted by a customer, client, or end-user, yet the payment was declined, rejected, or refused, for any of several possible reasons: insufficient funds in the payment account, card expired, account expired, account information is incorrect, card information is incorrect, declined by the payment processor, declined by the bank, or for any other reason.
 
 **ZTN - Z.T.N. - Zero Trust Network** - "strict identity verification for every person and device trying to access resources on a private network, regardless of whether they are sitting within or outside of the network perimeter"  [see Cloudflare definition of ZTN](https://www.cloudflare.com/learning/security/glossary/what-is-zero-trust/ "Cloudflare definition of ZTN")
 
