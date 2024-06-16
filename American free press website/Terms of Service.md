@@ -29,11 +29,11 @@ Search for:
 
 News Ticker
 
+* [\[ June 15, 2024 \] Doing the Right Thing for Schools, and the Education of Our Children National News](https://americanfreepress.net/doing-the-right-thing-for-schools-and-the-education-of-our-children/ "Doing the Right Thing for Schools, and the Education of Our Children")
+* [\[ June 15, 2024 \] U.S. Public Schools Collapsing Subscriber Only](https://americanfreepress.net/u-s-public-schools-collapsing/ "U.S. Public Schools Collapsing")
 * [\[ June 14, 2024 \] Israel-First Lobby Fails to Unseat Non-Interventionist Congressman Subscriber Only](https://americanfreepress.net/israel-first-lobby-fails-to-unseat-non-interventionist-congressman/ "Israel-First Lobby Fails to Unseat Non-Interventionist Congressman")
 * [\[ June 14, 2024 \] American Attendees of Bilderberg 2024 Conspiracy Buzz](https://americanfreepress.net/american-attendees-of-bilderberg-2024/ "American Attendees of Bilderberg 2024")
 * [\[ June 14, 2024 \] Trump Sees Unexpected Rise in Support from Blacks, Hispanics Subscriber Only](https://americanfreepress.net/trump-sees-unexpected-rise-in-support-from-blacks-hispanics/ "Trump Sees Unexpected Rise in Support from Blacks, Hispanics")
-* [\[ June 13, 2024 \] Western Leaders Have an Insatiable Desire for National Suicide Subscriber Only](https://americanfreepress.net/western-leaders-have-an-insatiable-desire-for-national-suicide/ "Western Leaders Have an Insatiable Desire for National Suicide")
-* [\[ June 2, 2024 \] State Rep. Says Border Situation Coming to a Head Subscriber Only](https://americanfreepress.net/state-rep-says-border-situation-coming-to-a-head/ "State Rep. Says Border Situation Coming to a Head")
 
 [Home](https://americanfreepress.net/)TERMS and CONDITIONS
 
@@ -128,11 +128,11 @@ Categories Select Category Ad Alternative Health Archive Audio Bookstore Conspir
 
 ###### Recent Articles
 
+* [Doing the Right Thing for Schools, and the Education of Our Children](https://americanfreepress.net/doing-the-right-thing-for-schools-and-the-education-of-our-children/)
+* [U.S. Public Schools Collapsing](https://americanfreepress.net/u-s-public-schools-collapsing/)
 * [Israel-First Lobby Fails to Unseat Non-Interventionist Congressman](https://americanfreepress.net/israel-first-lobby-fails-to-unseat-non-interventionist-congressman/)
 * [Pope Shows Disdain for Conservatives, Promotes Illegal Immigration](https://americanfreepress.net/pope-shows-disdain-for-conservatives-promotes-illegal-immigration/)
 * [American Attendees of Bilderberg 2024](https://americanfreepress.net/american-attendees-of-bilderberg-2024/)
-* [Trump Sees Unexpected Rise in Support from Blacks, Hispanics](https://americanfreepress.net/trump-sees-unexpected-rise-in-support-from-blacks-hispanics/)
-* [Issue 23/24 2024 News You May Have Missed](https://americanfreepress.net/48501-2/)
 
 ###### Recent Comments
 
@@ -178,4 +178,4 @@ Any cookies that may not be particularly necessary for the website to function a
 
 SAVE & ACCEPT
 
-![css.php](https://americanfreepress.net/wp-content/plugins/cookies-for-comments/css.php?k=8a9b2c33f69fe9773bed4bd13516bab6&o=i&t=942306157)
+![css.php](https://americanfreepress.net/wp-content/plugins/cookies-for-comments/css.php?k=8a9b2c33f69fe9773bed4bd13516bab6&o=i&t=1527174085)
