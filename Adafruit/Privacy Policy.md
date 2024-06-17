@@ -402,9 +402,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Once a new technology rolls over you, if you're not part of the steamroller, you're part of the road”
+“ To be successful, you have to have your heart in your business and your business in your heart”
 
-[Stewart Brand](http://en.wikipedia.org/wiki/Stewart_Brand)
+[Thomas J. Watson](http://en.wikipedia.org/wiki/Thomas_J._Watson)
 
 [](https://www.adafruit.com/about)
 
