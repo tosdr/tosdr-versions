@@ -235,7 +235,7 @@ This document is not an exhaustive list of terms. Other terms, such as our priva
 These terms may be changed at any time without notice.  
 If you do not agree with these rules/terms, you may not use our service.
 
-Last edited: Sunday at 4:32 AM
+Last edited: Jun 9, 2024
 
 * ![Like](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Like")
 
@@ -272,7 +272,7 @@ X (Twitter) Reddit Pinterest Tumblr WhatsApp Email Share Link
     
     [See further information and configure your preferences](#)
     
-    [Accept all cookies](https://www.adisc.org/forum/misc/cookies?update=1&accept=1&t=1718498799%2Ce6f6d5a1e047d084ea92c4865bf98b31) [Reject optional cookies](https://www.adisc.org/forum/misc/cookies?update=1&reject=1&t=1718498799%2Ce6f6d5a1e047d084ea92c4865bf98b31)
+    [Accept all cookies](https://www.adisc.org/forum/misc/cookies?update=1&accept=1&t=1718585185%2C5bc4ad58b2a03b41c7698e7744441efa) [Reject optional cookies](https://www.adisc.org/forum/misc/cookies?update=1&reject=1&t=1718585185%2C5bc4ad58b2a03b41c7698e7744441efa)
     
     * Essential cookies
     
