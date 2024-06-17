@@ -170,6 +170,10 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 * [Relationships](https://www.artofmanliness.com/people/relationships/)
 * [Social Skills](https://www.artofmanliness.com/people/social-skills/)
 
+[![](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/people/family/sunday-firesides-in-praise-of-little-platoons/)
+
+[Sunday Firesides: In Praise of Little Platoons](https://www.artofmanliness.com/people/family/sunday-firesides-in-praise-of-little-platoons/)
+
 [![A man and woman holding hands.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/people/family/podcast-967-busting-the-myths-of-marriage-why-getting-hitched-still-matters/)
 
 [Podcast #967: Busting the Myths of Marriage — Why Getting Hitched Still Matters](https://www.artofmanliness.com/people/family/podcast-967-busting-the-myths-of-marriage-why-getting-hitched-still-matters/)
@@ -181,10 +185,6 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 [![Top riddles for children with clever solutions included.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/people/family/riddles-for-kids/)
 
 [The Best Riddles for Kids (With Answers!)](https://www.artofmanliness.com/people/family/riddles-for-kids/)
-
-[![A girl playfully touches a boy's cheek as both siblings smile, demonstrating their affectionate relationship.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/people/family/podcast-sibling-ambivalent/)
-
-[Podcast #858: The Affectionate, Ambiguous, and Surprisingly Ambivalent Relationship Between Siblings](https://www.artofmanliness.com/people/family/podcast-sibling-ambivalent/)
 
 [![](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/podcast/podcast-998-dads-essential-role-in-making-kids-awesome/)
 
@@ -240,6 +240,10 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 * [Manly Know-How](https://www.artofmanliness.com/skills/manly-know-how/)
 * [Outdoor/Survival](https://www.artofmanliness.com/skills/outdoor-survival/)
 
+[![](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/skills/how-to/how-to-remove-a-tick/)
+
+[Skill of the Week: Remove a Tick](https://www.artofmanliness.com/skills/how-to/how-to-remove-a-tick/)
+
 [![](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/skills/how-to/how-to-build-a-summer-fire/)
 
 [Skill of the Week: Build a Summer Fire](https://www.artofmanliness.com/skills/how-to/how-to-build-a-summer-fire/)
@@ -251,10 +255,6 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 [![Illustration of a hand skillfully gripping a boomerang with a colorful design, ready to throw.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/skills/how-to/how-to-throw-a-boomerang/)
 
 [Skill of the Week: Throw a Boomerang](https://www.artofmanliness.com/skills/how-to/how-to-throw-a-boomerang/)
-
-[![Hand wrapping tissues out of a box with directional arrows indicating the movement.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/skills/how-to/how-to-wrap-a-gift-an-illustrated-guide/)
-
-[Skill of the Week: Wrap a Gift](https://www.artofmanliness.com/skills/how-to/how-to-wrap-a-gift-an-illustrated-guide/)
 
 [![Illustration of a vintage car hydroplaning through water, depicted in a dynamic sketch style with bold lines and shading.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/skills/manly-know-how/what-to-do-when-your-vehicle-hydroplanes/)
 
