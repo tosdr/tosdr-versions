@@ -171,23 +171,23 @@
     
     5 月 29, 2024 2
     
-* [![noTunes - 一个简单的 macOS 应用，阻止 Apple Music 启动，并设置替代播放器 8](https://www.appinn.com/wp-content/uploads/2024/05/Appinn-feature-images-2024-05-22T135759.667-115x115.jpg "noTunes - 一个简单的 macOS 应用，阻止 Apple Music 启动，并设置替代播放器 8")](https://www.appinn.com/notunes/ "noTunes – 一个简单的 macOS 应用，阻止 Apple Music 启动，并设置替代播放器")
+* [![超多人点赞的 Win 解压缩工具 Bandizip，618 惊喜优惠 9 折抢购！ 8](https://www.appinn.com/wp-content/uploads/2024/06/Appinn-feature-images-2024-06-15T182447.070-115x115.jpg "超多人点赞的 Win 解压缩工具 Bandizip，618 惊喜优惠 9 折抢购！ 8")](https://www.appinn.com/bandizip-618/ "超多人点赞的 Win 解压缩工具 Bandizip，618 惊喜优惠 9 折抢购！")
+    
+    [超多人点赞的 Win 解压缩工具 Bandizip，618 惊喜优惠 9 折抢购！](https://www.appinn.com/bandizip-618/ "超多人点赞的 Win 解压缩工具 Bandizip，618 惊喜优惠 9 折抢购！")
+    
+    6 月 15, 2024 2
+    
+* [![noTunes - 一个简单的 macOS 应用，阻止 Apple Music 启动，并设置替代播放器 9](https://www.appinn.com/wp-content/uploads/2024/05/Appinn-feature-images-2024-05-22T135759.667-115x115.jpg "noTunes - 一个简单的 macOS 应用，阻止 Apple Music 启动，并设置替代播放器 9")](https://www.appinn.com/notunes/ "noTunes – 一个简单的 macOS 应用，阻止 Apple Music 启动，并设置替代播放器")
     
     [noTunes – 一个简单的 macOS 应用，阻止 Apple Music …](https://www.appinn.com/notunes/ "noTunes – 一个简单的 macOS 应用，阻止 Apple Music 启动，并设置替代播放器")
     
     5 月 22, 2024 1
     
-* [![有人制作假冒 App 还上架到了应用商店，开发者很生气，但又能做什么呢？ 9](https://www.appinn.com/wp-content/uploads/2024/06/Appinn-feature-images-2024-06-07T165420.705-115x115.jpg "有人制作假冒 App 还上架到了应用商店，开发者很生气，但又能做什么呢？ 9")](https://www.appinn.com/fake-app-uploaded-app-store/ "有人制作假冒 App 还上架到了应用商店，开发者很生气，但又能做什么呢？")
+* [![有人制作假冒 App 还上架到了应用商店，开发者很生气，但又能做什么呢？ 10](https://www.appinn.com/wp-content/uploads/2024/06/Appinn-feature-images-2024-06-07T165420.705-115x115.jpg "有人制作假冒 App 还上架到了应用商店，开发者很生气，但又能做什么呢？ 10")](https://www.appinn.com/fake-app-uploaded-app-store/ "有人制作假冒 App 还上架到了应用商店，开发者很生气，但又能做什么呢？")
     
     [有人制作假冒 App 还上架到了应用商店，开发者很生气，但又能做什么呢？](https://www.appinn.com/fake-app-uploaded-app-store/ "有人制作假冒 App 还上架到了应用商店，开发者很生气，但又能做什么呢？")
     
     6 月 7, 2024 1
-    
-* [![有用 iPhone、安卓看 CAD 的软件吗？｜CAD看图王 10](https://www.appinn.com/wp-content/uploads/2024/05/faq-12-115x115.jpg "有用 iPhone、安卓看 CAD 的软件吗？｜CAD看图王 10")](https://www.appinn.com/gstar-cad-viewer/ "有用 iPhone、安卓看 CAD 的软件吗？｜CAD看图王")
-    
-    [有用 iPhone、安卓看 CAD 的软件吗？｜CAD看图王](https://www.appinn.com/gstar-cad-viewer/ "有用 iPhone、安卓看 CAD 的软件吗？｜CAD看图王")
-    
-    5 月 28, 2024 1
     
 
 ### 分类
