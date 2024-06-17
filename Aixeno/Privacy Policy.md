@@ -11,7 +11,7 @@ legal
 [https://aixeno.com/legal.html](https://aixeno.com/legal.html "legal - https://aixeno.com/legal.html")
 
 Effective Date: January 01, 2022  
-Updated: June 15, 2024
+Updated: June 16, 2024
 
   
 
@@ -3124,7 +3124,7 @@ The company aixeno inc. has the right to refuse service to any person(s) or enti
 
 **WWW** - (world wide web) -the world wide web is commonly referred to as WWW, W3, or the Web—is a system of interconnected public webpages accessible through the Internet. The Web is not the same as the Internet. The Web is one of many applications built on top of the Internet. [https://developer.mozilla.org/en-US/docs/Glossary/World\_Wide\_Web](https://developer.mozilla.org/en-US/docs/Glossary/World_Wide_Web "Mozilla definition of WWW")
 
-**X3DH/ECDH Ratchet** -
+**X3-DH/ECDH Ratchet** - end-to-end encryption of electronic digital communications by using specific protocols and algorithms. Please see weblinks:  [Double Ratchet encryption as used by Signal.org](https://signal.org/docs/specifications/doubleratchet/ "Double Ratchet encryption as used by Signal.org")  [Double Ratchet Algorithm - summary at wikipedia.org](https://en.wikipedia.org/wiki/Double_Ratchet_Algorithm "Double Ratchet Algorithm - summary at wikipedia.org").
 
 **XAAS - X.A.A.S** - "anything as a service" (XaaS) of cloud computing services available to consumers.
 
