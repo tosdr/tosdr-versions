@@ -291,15 +291,15 @@ Show Search
 * Copyright 2024 The Associated Press. All Rights Reserved.
     
 
+[U.S. Open](https://apnews.com/article/us-open-pinehurst-bryson-dechambeau-rory-mcilroy-5f8a3ec8c68a1d341f0e119e364e28df)
+
+[Rochester Hills shooting](https://apnews.com/article/splash-pad-shooting-michigan-gunman-9d9fb4e6dc8f022976bc2bb8f6334d70)
+
 [Israel-Hamas war](https://apnews.com/hub/israel-hamas-war)
 
-[Euro 2024](https://apnews.com/article/italy-albania-score-euro-72f3c94fab56e799d824f885bd09c6d1)
+[Massachusetts shooting](https://apnews.com/article/methuen-massachusetts-party-shooting-81cc185cab7bd474c76e96e629bf7c21)
 
-[Father’s Day](https://apnews.com/article/fathers-day-lgbtq-families-c9d6383982aa87513e322ab6ddb8d507)
-
-[Boeing ‘Dutch roll’](https://apnews.com/article/southwest-plane-boeing-dutch-roll-828216b5dc18bfb29264b59debf071f0)
-
-[Shooting in Rochester Hills](https://apnews.com/article/rochester-hills-shooting-splash-pad-7d2700a7efdf003e151917d85deb1a35)
+[2024 Tony Awards winners](https://apnews.com/article/tony-awards-2024-list-1e2de0f4400e6d98d295dcfeada6292e)
 
 The Associated Press
 ====================
