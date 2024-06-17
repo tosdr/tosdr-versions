@@ -106,13 +106,13 @@ Categories
 
 Recent Articles
 
+* [ACSL Junior Finals Run-Length Encoding Problem](https://aruljohn.com/blog/acsl-finals-run-length-encoding/)
 * [What to Pack When Traveling to The Philippines: The Ultimate Checklist](https://aruljohn.com/blog/philippines-packing-list/)
 * [Codeforces Maximum Multiple Sum Problem in Python and C++](https://aruljohn.com/blog/maximum-multiple-sum-problem/)
 * [How to Set Up Planted Tanks for Japanese Rice Fish Medaka メダカ](https://aruljohn.com/blog/japanese-ricefish-medaka/)
 * [10 Gallon Natural Planted Tank](https://aruljohn.com/blog/natural-planted-tank/)
 * [How to Identify Poison Ivy, Oak and Sumac and Protect Yourself](https://aruljohn.com/blog/poison-ivy-oak-sumac/)
 * [How to Install Python 3.12.3 on the Raspberry Pi](https://aruljohn.com/blog/python-raspberrypi/)
-* [Codeforces Yogurt Sale Problem in Python and C++](https://aruljohn.com/blog/yogurt-sale-problem/)
 
 Popular Articles
 
