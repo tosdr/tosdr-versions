@@ -19,7 +19,7 @@ My Tote
 
 ### [Coffee Bean Caffeine Eye Cream](https://www.100percentpure.com/products/coffee-bean-caffeine-eye-cream)
 
-5675 reviews (5675)
+5676 reviews (5678)
 
 $16.00 $29.00
 
@@ -133,7 +133,7 @@ ADD TO TOTE
 
 ### [Vanilla Bean Nourishing Body Cream](https://www.100percentpure.com/products/vanilla-bean-nourishing-body-cream)
 
-768 reviews (768)
+769 reviews (770)
 
 $13.00 $26.00
 
@@ -281,7 +281,7 @@ ADD TO TOTE
 
 ### [Multi-Vitamin + Antioxidants Ultra Riché PM Treatment](https://www.100percentpure.com/products/multi-vitamin-antioxidants-ultra-riche-pm-treatment)
 
-1032 reviews (1032)
+1033 reviews (1033)
 
 $64.00
 
@@ -563,7 +563,7 @@ or 4 interest-free payments of **$0.00** with ![Klarna Logo](https://www.100perc
 
  
 
-[Free Rose Micellar Water with any purchase of $50 or more! USE CODE: ROSEWATER](https://www.100percentpure.com/products/rose-micellar-cleansing-water "Rose Micellar Cleansing Water")
+[Happy Father's Day, All Orders + $75 Get $15 OFF USE CODE: DAD](https://www.100percentpure.com/collections/shop-all "Happy Father's Day, All Orders + $75 Get $15 OFF USE CODE: DAD")
 
 icon-account icon-account icon-arrow-right icon-arrow-down icon-arrow-next icon-arrow-prev icon-slideshow-next icon-slideshow-previous icon-comment icon-heart icon-cart icon-bag icon-close icon-glasses icon-menu icon-minus icon-play icon-plus social-seach social-facebook social-fancy social-instagram social-pinterest social-rss social-twitter
 
