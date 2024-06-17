@@ -11,6 +11,6 @@ Cancel Anyway ADD TO BROWSER
 
 © 2024 - AdGone
 
-[Terms of Service](https://adgone.org/adblocker/eula) | [Privacy Policy](https://adgone.org/adblocker/privacy) | [Cookie Policy](https://adgone.org/adblocker/cookiepolicy) | [Do Not Sell or Share My Personal Information](https://app.termly.io/notify/b416d92b-8035-4ad5-a7c6-f4464ec80008) | [Refund Policy](https://adgone.org/adblocker/refundpolicy) | [FAQ](https://help.adgone.org/hc/en-us?utm_source=Help%20Center&utm_medium=-lp0-tst1--vc1&utm_campaign=&utm_term=&utm_content=&utm_id=f357eedb-651e-489e-b949-a03e1c5902c6) | [Support](https://adgone.org/adblocker/contact)
+[Terms of Service](https://adgone.org/adblocker/eula) | [Privacy Policy](https://adgone.org/adblocker/privacy) | [Cookie Policy](https://adgone.org/adblocker/cookiepolicy) | [Do Not Sell or Share My Personal Information](https://app.termly.io/notify/b416d92b-8035-4ad5-a7c6-f4464ec80008) | [Refund Policy](https://adgone.org/adblocker/refundpolicy) | [FAQ](https://help.adgone.org/hc/en-us?utm_source=Help%20Center&utm_medium=-lp0-tst1--vc1&utm_campaign=&utm_term=&utm_content=&utm_id=7b023dc7-7d1c-45cd-8a2d-8a626bcb92b5) | [Support](https://adgone.org/adblocker/contact)
 
 We use cookies to improve your experience. To learn more, click [here](https://adgone.org/adblocker/cookiepolicy?source=-lp0-tst1--vc1). By continuing to use our site, you accept our use of cookies and revised [Privacy Policy](https://adgone.org/adblocker/privacy?source=-lp0-tst1--vc1).OK
