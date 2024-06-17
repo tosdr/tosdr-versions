@@ -353,11 +353,11 @@ Recently Played
 
 |     |
 | --- |
-| If I Didn&Apos;T Love YouJason Aldean & Carrie Underwood<br><br>5:35pm |
-| ChevroletDustin Lynch Ft Jelly Roll<br><br>5:32pm |
-| She&Apos;S Somebody'S DaughterDrew Baldridge<br><br>5:29pm |
-| The Kind Of Love We MakeLuke Combs<br><br>5:25pm |
-| Thinkin &Apos;Bout MeMorgan Wallen<br><br>5:23pm |
+| The Man He Sees In MeLuke Combs<br><br>5:35pm |
+| Damn Good Day To LeaveRiley Green<br><br>5:32pm |
+| CowgirlsMorgan Wallen Ft Ernest<br><br>5:29pm |
+| I Remember EverythingZach Bryan Ft Kacey Musgraves<br><br>5:25pm |
+| Your PlaceAshley Cooke<br><br>5:22pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -524,21 +524,21 @@ State
 Featured Brands
 ---------------
 
-[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
+[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
 
-Sports • Midwest
+News Talk • Eastern
+
+[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
+
+Top 40 • Pacific NW
 
 [![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
 
 Top 40 • Eastern
 
-[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
+[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
 
-Country • Western
-
-[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
-
-Spanish • Western
+Sports • Midwest
 
 [](https://www.alphamediausa.com/)
 
