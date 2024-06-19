@@ -301,6 +301,7 @@ Zavřít menu
 
 * [Konec cookies třetích stran](https://o-seznam.cz/reklama/cookieless/)
 * [Certifikace a ověření](https://o-seznam.cz/reklama/certifikace/)
+* [Agenturní spolupráce roku](https://o-seznam.cz/reklama/agsr/)
 
 * [O nás](https://o-seznam.cz/)
     * [Odpovědnost](https://o-seznam.cz/odpovednost/)
