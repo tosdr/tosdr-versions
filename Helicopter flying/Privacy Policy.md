@@ -5,11 +5,9 @@
 * [Nederlands _![Nederlands](https://www.helicentre.eu/wp-content/plugins/sitepress-multilingual-cms/res/flags/nl.png)_](#) 
     *  [_![Nederlands](https://www.helicentre.eu/wp-content/plugins/sitepress-multilingual-cms/res/flags/nl.png)_ Nederlands](https://www.helicentre.eu/privacy-cookie-policy/)
     *  [_![English](https://www.helicentre.eu/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.png)_ English](https://www.helicentre.eu/en/privacy-cookie-policy/)
-* [Inloggen](https://www.helicentre.eu/mijn-account/ "Inloggen")
+* [Inloggen](https://www.helicentre.eu/mijn-account/)
 * [€ 0,00 **0**](https://www.helicentre.eu/winkelmand/ "Winkelwagen")
     * Geen producten in de winkelwagen.
-        
-        [Terug naar winkel](https://www.helicentre.eu/winkel/)
         
 
 *  [![](https://www.helicentre.eu/wp-content/uploads/2019/04/sterren-1.jpg) Beoordeeld met een 9+ uit 10](https://www.klantenvertellen.nl/reviews/1039598/helicentre?from=widget&lang=nl) | Bel [088-122 1221](tel:0031881221221) of [mail  ons voor meer informatie](https://www.helicentre.eu/?page_id=34)
@@ -18,11 +16,9 @@
 
 * [**0**](https://www.helicentre.eu/winkelmand/ "Winkelwagen")
     
-    Winkelwagen
+    #### Winkelwagen
     
     Geen producten in de winkelwagen.
-    
-    [Terug naar winkel](https://www.helicentre.eu/winkel/)
     
 
 * [Home](https://www.helicentre.eu/)
@@ -298,13 +294,13 @@ Copyright 2024 © **HeliCentre**
     * [Handige links](https://www.helicentre.eu/links/)
 * [Shop](https://www.helicentre.eu/shop/)
 * [Contact](https://www.helicentre.eu/contact/)
-* [Inloggen](https://www.helicentre.eu/mijn-account/ "Inloggen")
+* [Inloggen](https://www.helicentre.eu/mijn-account/)
 
 We gebruiken cookies om ervoor te zorgen dat onze website zo optimaal mogelijk werkt. Meer informatie en voorkeuren opgeven.
 
 Alle cookies accepteren
 
-                                      
+                                       
 
 Sluit AVG/GDPR cookie instellingen
 
