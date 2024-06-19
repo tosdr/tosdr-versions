@@ -329,17 +329,6 @@ We know you'll love everything you order from Cool Shirtz, but if something isn'
 
 Non-returnable items include gift cards, face masks, art prints, neons, discounted/sale items
 
-Returns
-=======
-
-Please enter your order details to access your refund now
-
-Get Refund
-
-Powered by
-
-[![Refundid - Instant refunds](https://static.refundid.com/refundid_black_orange_logo.svg)](https://www.refundid.com/)
-
 Return Options
 --------------
 
@@ -354,6 +343,33 @@ We've partnered with Refundid to offer you instant refunds for your returns, bef
 Please enter your order number and email address below to initiate a standard return back to us within 14 days of receiving your order. Once your product is received and quality checked by our team, we will issue you a refund to your original payment method. Please allow 5-10 business days for processing time with your financial institution.
 
 [For more information on how Refundid works click here](https://refundid.com/au/how-it-works)
+
+**Start a Return**
+------------------
+
+To start a return, select the country you're returning from:
+
+Select a country Australia USA Rest of World
+
+country
+
+ Online Return
+
+### Enter details below to get started
+
+Start Return
+
+ Online Return
+
+### Enter details below to get started
+
+Start Return
+
+ Online Return
+
+### Enter details below to get started
+
+Start Return
 
 **Shipping**
 ------------
