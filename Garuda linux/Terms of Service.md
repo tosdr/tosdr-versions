@@ -199,7 +199,7 @@ Once you get notice of an update to these terms, you must agree to the new terms
 
 * [Home](https://forum.garudalinux.org/)
 * [Categories](https://forum.garudalinux.org/categories)
-* [FAQ/Guidelines](https://forum.garudalinux.org/guidelines)
+* [Guidelines](https://forum.garudalinux.org/guidelines)
 * [Terms of Service](https://forum.garudalinux.org/tos)
 * [Privacy Policy](https://forum.garudalinux.org/privacy)
 
