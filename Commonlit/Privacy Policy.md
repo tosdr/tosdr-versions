@@ -1,6 +1,6 @@
-_Announcing_: **CommonLit 360 for Middle School earns all-green EdReports rating!** [Get a quote](https://www.commonlit.org/en/contact/get-a-quote-se-pro-plus?channel=In-Product%3A%20CL%20Banner) to roll out the full curriculum for just $6,500 / year. Dismiss Announcement Dismiss Announcement
+**For just $6,500 / year**, your team can adopt our rigorous, standards-aligned, **EdReports green-rated curriculum, CommonLit 360**! [Connect with our team to learn more](https://www.commonlit.org/en/contact/chat?channel=In-Product%3A%20CL%20Banner). Dismiss Announcement Dismiss Announcement
 
-                                                                       
+                                                                         
 
     
 
