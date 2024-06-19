@@ -29,6 +29,8 @@ Choose your language
 
 * * *
 
+* [Try now](https://www.loom.com/try)
+
 * Products Featured Developers Product Managers IT professionals Business Teams Leadership Teams
     
     Featured Developers Product Managers IT professionals Business Teams Leadership Teams
@@ -41,7 +43,7 @@ Choose your language
     
     ### Jira
     
-    Flexible project management](https://www.loom.com/software/confluence)
+    Flexible project management](https://www.loom.com/software/jira)
     
     [![](https://wac-cdn.atlassian.com/misc-assets/adg4-nav/prod-icon-Confluence.svg)
     
@@ -60,6 +62,12 @@ Choose your language
     ### Trello
     
     Organized & visualized work](https://trello.com/home)
+    
+    [![Rovo icon](https://wac-cdn-bfldr.atlassian.com/K3MHR9G8/at/k5xhw8hpqxghzb55nfktt4/logo-light_Rovo_mark_brand_RGB.svg)
+    
+    ### Rovo NEW
+    
+    Unlock enterprise knowledge](https://www.loom.com/software/rovo)
     
     [![](https://wac-cdn.atlassian.com/misc-assets/adg4-nav/prod-icon-Jira-Product-Discovery.svg)
     
@@ -91,7 +99,7 @@ Choose your language
     
     ### Jira
     
-    Flexible project management](https://www.loom.com/software/bitbucket)
+    Flexible project management](https://www.loom.com/software/jira)
     
     [![](https://wac-cdn.atlassian.com/misc-assets/adg4-nav/prod-icon-Bitbucket.svg)
     
@@ -111,7 +119,7 @@ Choose your language
     
     ### Jira
     
-    Flexible project management](https://www.loom.com/software/confluence)
+    Flexible project management](https://www.loom.com/software/jira)
     
     [![](https://wac-cdn.atlassian.com/misc-assets/adg4-nav/prod-icon-Confluence.svg)
     
@@ -145,7 +153,7 @@ Choose your language
     
     ### Jira
     
-    Flexible project management](https://www.loom.com/software/confluence)
+    Flexible project management](https://www.loom.com/software/jira)
     
     [![](https://wac-cdn.atlassian.com/misc-assets/adg4-nav/prod-icon-Confluence.svg)
     
@@ -342,13 +350,17 @@ Choose your language
 * More +
 * Less -
 
+* [Try now](https://www.loom.com/try)
+
 Back
 
 * * *
 
 * * *
 
- [![Atlassian logo](/assets/img/icons/imkt/imkt-navbar__charlie-logo.svg?cdnVersion=1794)](https://www.atlassian.com/ "Visit the Atlassian homepage")[Legal](https://www.loom.com/legal)
+[Try now](https://www.loom.com/try)
+
+ [![Atlassian logo](/assets/img/icons/imkt/imkt-navbar__charlie-logo.svg?cdnVersion=1826)](https://www.atlassian.com/ "Visit the Atlassian homepage")[Legal](https://www.loom.com/legal)
 
 [Cloud Terms of Service](https://www.loom.com/legal/atlassian-customer-agreement)
 
@@ -397,7 +409,7 @@ Back
 
 [Atlassian Customer Agreement](https://www.loom.com/legal/atlassian-customer-agreement)
 
-[![Termscout certified icon](https://wac-cdn.atlassian.com/dam/jcr:00de0243-b3b5-456f-be35-cc79860ba433/Horizontal_Narrow_White.jpg?cdnVersion=1794)](https://app.termscout.com/certify/atlassian-certified-contract-aca)
+[![Termscout certified icon](https://wac-cdn.atlassian.com/dam/jcr:00de0243-b3b5-456f-be35-cc79860ba433/Horizontal_Narrow_White.jpg?cdnVersion=1826)](https://app.termscout.com/certify/atlassian-certified-contract-aca)
 
 Atlassian provides a wide range of products, services, and deployment options. As part of our dedication to building with heart and balance, we have developed the Atlassian Customer Agreement to encompass all these offerings in a comprehensive and customized manner. Our products adhere to an enterprise-level set of controls and policies that align with various international standards and market expectations. The agreement is crafted to be customer-friendly, undergoing regular updates informed by market practices and customer input. For further insight into our approach, [please visit this page](https://www.loom.com/legal/our-approach).
 
@@ -709,7 +721,7 @@ Atlassian may identify Customer as a customer of Atlassian in its promotional ma
 
 “**User**” means any individual that Customer authorizes to use the Products.  Users may include: (i) Customer’s and its Affiliates’ employees, consultants, contractors and agents (ii) third parties with which Customer or its Affiliates transact business (iii) individuals invited by Customer’s users (iv) individuals under managed accounts, or (v) individuals interacting with a Product as Customer’s customer.
 
-[Download PDF](https://wac-cdn.atlassian.com/dam/jcr:c8b4eb00-2562-4e4b-8c12-49207ae572cd/ACA_June_2024.pdf?cdnVersion=1794)
+[Download PDF](https://wac-cdn.atlassian.com/dam/jcr:c8b4eb00-2562-4e4b-8c12-49207ae572cd/ACA_June_2024.pdf?cdnVersion=1826)
 
 * * *
 
@@ -739,13 +751,15 @@ Subscribe to receive notifications from us about updates to our legal terms (inc
 
 [Sign up for updates](https://privacy.atlassian.net/servicedesk/customer/portal/1/group/1/create/39)
 
-![](https://wac-cdn.atlassian.com/dam/jcr:9c4bf443-5045-4ff9-a48d-36ae466f3ced/logos-atlassian-mini-icon-onecolor-blue.svg?cdnVersion=1794)
+![](https://wac-cdn.atlassian.com/dam/jcr:9c4bf443-5045-4ff9-a48d-36ae466f3ced/logos-atlassian-mini-icon-onecolor-blue.svg?cdnVersion=1826)
 
 [Company](https://www.loom.com/company)
 
 [Careers](https://www.loom.com/company/careers)
 
-[Work Life blog](https://atlassian.com/blog)
+[Events](https://www.loom.com/company/events)
+
+[Blogs](https://atlassian.com/blog)
 
 [Investor Relations](https://investors.atlassian.com/)
 
@@ -754,6 +768,8 @@ Subscribe to receive notifications from us about updates to our legal terms (inc
 [Contact us](https://www.loom.com/company/contact)
 
 ##### products
+
+[Rovo](https://www.loom.com/software/rovo)
 
 [Jira](https://www.loom.com/software/jira)
 
