@@ -23,31 +23,31 @@
     * [Featured](#nfeatured)
     * [Latest](#nlatest)
     
-    * [![GitHub comments abused to push malware via Microsoft repo URLs](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![Fake Google Chrome errors trick you into running malicious PowerShell scripts](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        GitHub comments abused to push malware via Microsoft repo URLs](https://www.bleepingcomputer.com/news/security/github-comments-abused-to-push-malware-via-microsoft-repo-urls/)
-    * [![HelloKitty ransomware rebrands, releases CD Projekt and Cisco data](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Fake Google Chrome errors trick you into running malicious PowerShell scripts](https://www.bleepingcomputer.com/news/security/fake-google-chrome-errors-trick-you-into-running-malicious-powershell-scripts/)
+    * [![Hackers use F5 BIG-IP malware to stealthily steal data for years](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        HelloKitty ransomware rebrands, releases CD Projekt and Cisco data](https://www.bleepingcomputer.com/news/security/hellokitty-ransomware-rebrands-releases-cd-projekt-and-cisco-data/)
-    * [![MITRE says state hackers breached its network via Ivanti zero-days](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Hackers use F5 BIG-IP malware to stealthily steal data for years](https://www.bleepingcomputer.com/news/security/hackers-use-f5-big-ip-malware-to-stealthily-steal-data-for-years/)
+    * [![Panera Bread likely paid a ransom in March ransomware attack](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        MITRE says state hackers breached its network via Ivanti zero-days](https://www.bleepingcomputer.com/news/security/mitre-says-state-hackers-breached-its-network-via-ivanti-zero-days/)
-    * [![CrushFTP warns users to patch exploited zero-day “immediately”](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Panera Bread likely paid a ransom in March ransomware attack](https://www.bleepingcomputer.com/news/security/panera-bread-likely-paid-a-ransom-in-march-ransomware-attack/)
+    * [![New Linux malware is controlled through emojis sent from Discord](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        CrushFTP warns users to patch exploited zero-day “immediately”](https://www.bleepingcomputer.com/news/security/crushftp-warns-users-to-patch-exploited-zero-day-immediately/)
+        New Linux malware is controlled through emojis sent from Discord](https://www.bleepingcomputer.com/news/security/new-linux-malware-is-controlled-through-emojis-sent-from-discord/)
     
-    * [![Microsoft: APT28 hackers exploit Windows flaw reported by NSA](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![Microsoft says bug causes Windows 10 apps to display Open With dialogs](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Microsoft: APT28 hackers exploit Windows flaw reported by NSA](https://www.bleepingcomputer.com/news/security/microsoft-apt28-hackers-exploit-windows-flaw-reported-by-nsa/)
-    * [![Synlab Italia suspends operations following ransomware attack](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Microsoft says bug causes Windows 10 apps to display Open With dialogs](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-bug-causes-windows-10-apps-to-display-open-with-dialogs/)
+    * [![AMD investigates breach after data for sale on hacking forum](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Synlab Italia suspends operations following ransomware attack](https://www.bleepingcomputer.com/news/security/synlab-italia-suspends-operations-following-ransomware-attack/)
-    * [![GitLab affected by GitHub-style CDN flaw allowing malware hosting](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        AMD investigates breach after data for sale on hacking forum](https://www.bleepingcomputer.com/news/security/amd-investigates-breach-after-data-for-sale-on-hacking-forum/)
+    * [![ONNX phishing service targets Microsoft 365 accounts at financial firms](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        GitLab affected by GitHub-style CDN flaw allowing malware hosting](https://www.bleepingcomputer.com/news/security/gitlab-affected-by-github-style-cdn-flaw-allowing-malware-hosting/)
-    * [![Criminal IP Partners with Sumo Logic on Threat Intelligence Data Enrichment](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        ONNX phishing service targets Microsoft 365 accounts at financial firms](https://www.bleepingcomputer.com/news/security/onnx-phishing-service-targets-microsoft-365-accounts-at-financial-firms/)
+    * [![Save on top brands and services with $35 off a one-year BJ's Club card](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Criminal IP Partners with Sumo Logic on Threat Intelligence Data Enrichment](https://www.bleepingcomputer.com/news/security/criminal-ip-partners-with-sumo-logic-on-threat-intelligence-data-enrichment/)
+        Save on top brands and services with $35 off a one-year BJ's Club card](https://www.bleepingcomputer.com/offer/deals/save-on-top-brands-and-services-with-35-off-a-one-year-bjs-club-card/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
@@ -439,26 +439,26 @@ Tel: +1-646-980-4190
 
 Popular Stories
 
-* [![GitHub](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* [![Chrome flare](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    GitHub comments abused to push malware via Microsoft repo URLs](https://www.bleepingcomputer.com/news/security/github-comments-abused-to-push-malware-via-microsoft-repo-urls/)
-* [![WordPress](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    Fake Google Chrome errors trick you into running malicious PowerShell scripts](https://www.bleepingcomputer.com/news/security/fake-google-chrome-errors-trick-you-into-running-malicious-powershell-scripts/)
+* [![hacker shh](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    Critical Forminator plugin flaw impacts over 300k WordPress sites](https://www.bleepingcomputer.com/news/security/critical-forminator-plugin-flaw-impacts-over-300k-wordpress-sites/)
+    Hackers use F5 BIG-IP malware to stealthily steal data for years](https://www.bleepingcomputer.com/news/security/hackers-use-f5-big-ip-malware-to-stealthily-steal-data-for-years/)
 
 Latest forum topics
 
-* [No access to windows 11 login - byproduct of original virus issue](https://www.bleepingcomputer.com/forums/t/796712/no-access-to-windows-11-login-byproduct-of-original-virus-issue/)
+* [Windows 10, two nics routing one to access NAS](https://www.bleepingcomputer.com/forums/t/798310/windows-10-two-nics-routing-one-to-access-nas/)
     
-    [debanning](https://www.bleepingcomputer.com/forums/u/1312581/debanning/) in [Virus, Trojan, Spyware, and Malware Removal Help](https://www.bleepingcomputer.com/forums/f/22/virus-trojan-spyware-and-malware-removal-help/)
+    [jonetwork3](https://www.bleepingcomputer.com/forums/u/1316467/jonetwork3/) in [Networking](https://www.bleepingcomputer.com/forums/f/21/networking/)
     
-* [Hi, I came here to learn](https://www.bleepingcomputer.com/forums/t/796711/hi-i-came-here-to-learn/)
+* [Internet dropping out](https://www.bleepingcomputer.com/forums/t/798308/internet-dropping-out/)
     
-    [dlbs](https://www.bleepingcomputer.com/forums/u/1312582/dlbs/) in [Introductions](https://www.bleepingcomputer.com/forums/f/64/introductions/)
+    [Jen42](https://www.bleepingcomputer.com/forums/u/29435/jen42/) in [Web Browsing/Email and Other Internet Applications](https://www.bleepingcomputer.com/forums/f/14/web-browsingemail-and-other-internet-applications/)
     
-* [How can I Improve my Laptop Performance?](https://www.bleepingcomputer.com/forums/t/796710/how-can-i-improve-my-laptop-performance/)
+* [Windows is not finding my phone device](https://www.bleepingcomputer.com/forums/t/798306/windows-is-not-finding-my-phone-device/)
     
-    [jessicarose](https://www.bleepingcomputer.com/forums/u/1312385/jessicarose/) in [General Chat](https://www.bleepingcomputer.com/forums/f/5/general-chat/)
+    [samuel3](https://www.bleepingcomputer.com/forums/u/215975/samuel3/) in [External Hardware](https://www.bleepingcomputer.com/forums/f/138/external-hardware/)
     
 
 Latest virus removal guides
@@ -491,45 +491,45 @@ Latest virus removal guides
 
 Latest Downloads
 
-* ![ESET Uninstaller Logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    [ESET Uninstaller](https://www.bleepingcomputer.com/download/eset-uninstaller/)
-    
-    Version: 9.0.3.0
-    
-    **106,356 _Downloads_**
-    
-* ![Display Driver Uninstaller Logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    [Display Driver Uninstaller](https://www.bleepingcomputer.com/download/display-driver-uninstaller/)
-    
-    Version: 18.0.7.5
-    
-    **62,862 _Downloads_**
-    
-* ![AdwCleaner Logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    [AdwCleaner](https://www.bleepingcomputer.com/download/adwcleaner/)
-    
-    Version: 8.4.0.0
-    
-    **56M+ _Downloads_**
-    
 * ![Malwarebytes Anti-Malware Logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     [Malwarebytes Anti-Malware](https://www.bleepingcomputer.com/download/malwarebytes-anti-malware/)
     
-    Version: 5.1.2
+    Version: 5.1.5.116
     
     **5M+ _Downloads_**
     
-* ![Windows Repair (All In One) Logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* ![Speccy Logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    [Windows Repair (All In One)](https://www.bleepingcomputer.com/download/windows-repair-all-in-one/)
+    [Speccy](https://www.bleepingcomputer.com/download/speccy/)
     
-    Version: 4.14.1
+    Version: 1.33.075
     
-    **2M+ _Downloads_**
+    **54,018 _Downloads_**
+    
+* ![PuTTY Logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    [PuTTY](https://www.bleepingcomputer.com/download/putty/)
+    
+    Version: 0.81
+    
+    **41,777 _Downloads_**
+    
+* ![BitDefender Uninstall Tool Logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    [BitDefender Uninstall Tool](https://www.bleepingcomputer.com/download/bitdefender-uninstall-tool/)
+    
+    Version: NA
+    
+    **103,110 _Downloads_**
+    
+* ![Malwarebytes Support Tool Logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    [Malwarebytes Support Tool](https://www.bleepingcomputer.com/download/malwarebytes-support-tool/)
+    
+    Version: NA
+    
+    **150,160 _Downloads_**
     
 
 ##### Follow us:
