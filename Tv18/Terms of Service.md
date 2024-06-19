@@ -84,7 +84,7 @@ Discover CNBCTV18
 
 [![CNBC TV18](/static/images/common/cnbctv18-logo.png "CNBC TV18")](https://www.cnbctv18.com/ "CNBC TV18")
 
-[Commodity Gurukul](https://hindi.cnbctv18.com/commodity-gurukul/?utm_source=cnbc&utm_medium=navigation " Commodity Gurukul")[SME Champion Awards](https://www.cnbctv18.com/ms/sme-champion-awards/awards/?utm_source=cnbctv18&utm_medium=l2&utm_campaign=nomination "SME Champion Awards")[Market](https://www.cnbctv18.com/market/ "Market")[Personal Finance](https://www.cnbctv18.com/personal-finance/ "Personal Finance")[Business](https://www.cnbctv18.com/business/ "Business")[Economy](https://www.cnbctv18.com/economy/ "Economy")[](https://www.cnbctv18.com/binge/ "CNBC TV18")
+[Market](https://www.cnbctv18.com/market/ "Market")[Personal Finance](https://www.cnbctv18.com/personal-finance/ "Personal Finance")[Business](https://www.cnbctv18.com/business/ "Business")[Economy](https://www.cnbctv18.com/economy/ "Economy")[](https://www.cnbctv18.com/binge/ "CNBC TV18")
 
 [](https://www.cnbctv18.com/upcoming-events "upcoming events")
 
@@ -92,23 +92,12 @@ Discover CNBCTV18
 
 [LIVE TV](https://www.cnbctv18.com/live-tv/ "live-tv")
 
-* [![LOK SABHA](/static/images/loksabha2024/nav-flag.png "LOK SABHA")
-    
-    Election
-    
-    Exchange](https://www.cnbctv18.com/lok-sabha-election/ "LOK SABHA ELECTION")
-* Live Updates
-    
-* [Key Candidates](https://www.cnbctv18.com/lok-sabha-elections-state-wise/ "Election Key Candidates")
-* Top News
-    
-* Opinion
-    
-* Manifesto Highlights
-    
-* Election Interactive
-    
-* [Election Calendar](https://www.cnbctv18.com/lok-sabha-elections-calendar/ "Election Calendar")
+* ![androidIcon](/_next/static/media/ggl_play_store.48bc3260.png "androidIcon")
+* [NewLatest News](https://www.cnbctv18.com/latest-news/ "Latest News")
+* [NewCommodity Gurukul](https://hindi.cnbctv18.com/commodity-gurukul/?utm_source=cnbc&utm_medium=navigation "Commodity Gurukul")
+* [NewSME Champion Awards](https://www.cnbctv18.com/ms/sme-champion-awards/awards/?utm_source=cnbctv18&utm_medium=l2&utm_campaign=nomination "SME Champion Awards")
+* [NewMSME Day](https://www.cnbctv18.com/ms/msme-day/ "MSME Day")
+* [LiveMarket Live](https://www.cnbctv18.com/market-live/ "Market Live")
 
 [Home](https://www.cnbctv18.com/ "Home")
 ----------------------------------------
@@ -268,6 +257,9 @@ TV ShowsDigital Exclusives
 0
 
 [View All→](https://www.cnbctv18.com/shows/ "shows")
+
+Most Read
+---------
 
 Share Market Live
 -----------------
