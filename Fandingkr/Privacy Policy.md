@@ -1,34 +1,34 @@
-[](https://fanding.kr/en/explorer/)
+[](https://fanding.kr/explorer/)
 
-anonymous fan
+익명의 팬
 
-Log in and connect with creators
+로그인하고 크리에이터와 소통해보세요
 
-Log In
+로그인
 
-Search
+검색
 
-[Explore](https://fanding.kr/en/explorer/)
+[탐색](https://fanding.kr/explorer/)
 
-Recommended Category
+추천 카테고리
 
-Recommended Creators
+추천 크리에이터
 
-* [About](https://fanding.kr/en/about)
-* [Creator-Center](https://fanding.kr/en/about/creator)
-* [Terms](https://fanding.kr/en/policy/terms)
-* [Privacy](https://fanding.kr/en/policy/privacy)
-* [Refund-Policy](https://user-guide.fanding.kr/8a5d32f6-d56d-4f43-b5d3-1cbf89acd6cb)
-* [Recruitment](https://fanding.notion.site/Join-FANDING-Now-1c7d6a2172fe48068399dd075644e66d)
+* [소개](https://fanding.kr/about)
+* [크리에이터 센터](https://fanding.kr/about/creator)
+* [서비스 이용 약관](https://fanding.kr/policy/terms)
+* [개인 정보 처리 방침](https://fanding.kr/policy/privacy)
+* [환불 정책](https://user-guide.fanding.kr/8a5d32f6-d56d-4f43-b5d3-1cbf89acd6cb)
+* [채용](https://fanding.notion.site/Join-FANDING-Now-1c7d6a2172fe48068399dd075644e66d)
 
-Fanding. Inc CEO : Sehyeon Eom E-mail : support@fanding.kr Address : 3-4F, 36, Seolleung-ro 92-gil, Gangnam-gu, Seoul, Republic of Korea Mail-order-sales Registeration Number : 2022-서울강남-04814 Business Registeration Number : 187-88-01148 [See Biz Info](http://www.ftc.go.kr/bizCommPop.do?wrkr_no=1878801148)
+(주) 팬딩 대표이사 : 엄세현 이메일 : support@fanding.kr 주소 : 서울 강남구 선릉로 92길 36 3-4층 통신판매업신고번호 : 2022-서울강남-04814 사업자 등록번호 : 187-88-01148 [등록 정보 보기](http://www.ftc.go.kr/bizCommPop.do?wrkr_no=1878801148)
 
 © 2024 FANDING, Inc. All rights reserved
 
-[Newsfeed](https://fanding.kr/feed) [Explore](https://fanding.kr/en/explorer/) Log In
+[뉴스피드](https://fanding.kr/feed) [탐색](https://fanding.kr/explorer/) 로그인
 
-Privacy policy
-==============
+개인정보처리방침
+========
 
 **● 1. 개인정보 처리방침의 기본 방향**  
   
@@ -554,12 +554,12 @@ o 단, 귀하께서 쿠키 설치를 거부하였을 경우 서비스 제공에 
 서비스 이용 중 발생한 회원과 회사 간의 소송은 민사소송법에 의한 관할법원에 제소합니다.  
 제 1 조 (시행일) 본 약관은 2018년 5월 3일부터 시행한다.
 
-Log In & Sign Up
+로그인 & 회원가입
 
-Log in now and connect with your favorite creators in a closer, more special way!
+지금 로그인하고 좋아하는 크리에이터와 더 가깝고 특별하게 소통해보세요!
 
-Log In
+로그인
 
-Language
+언어
 
-English
+한국어
