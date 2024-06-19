@@ -62,7 +62,7 @@ blankblankblankblankblank
     
     Explore the latest trends & releases](https://www.intercom.com/resources)[Developer Hub
     
-    Integrate with, or build on Intercom](https://developers.intercom.com/)[Webinars
+    Integrate with, or build on Intercom](https://developers.intercom.com/)[Events
     
     Sign up to hear from industry experts](https://events.intercom.com/)[Academy
     
@@ -73,17 +73,18 @@ blankblankblankblankblank
     Browse real world CS case studies](https://www.intercom.com/customers)
     
 * [Pricing](https://www.intercom.com/pricing)
+* [Demo](https://www.intercom.com/watch-demo)
 
 [Contact sales](https://www.intercom.com/contact-sales)[Sign in](https://app.intercom.com/admins/sign_in)
 
-[View demo](https://www.intercom.com/view-demos)[Start free trial](https://app.intercom.com/admins/sign_up)
+[Contact sales](https://www.intercom.com/contact-sales)[View demo](https://www.intercom.com/view-demos)[Start free trial](https://app.intercom.com/admins/sign_up)
 
 Terms & Policies
 ================
 
 Terms of Service
 
-Terms of ServiceIntercom Additional Product TermsPrivacy PolicyData Processing AddendumIntercom Regional Data Hosting AddendumSupport PolicyPremier Services PolicyCookie PolicySecurity PolicySubprocessors ListData Privacy Framework NoticeIntercom Website Terms of UseAcademy TermsService Level AgreementAcceptable Use PolicyCode of ConductTrademark UsageIntercom Global Anti-Corruption StatementIntercom Partner Code of ConductIntercom DMCA PolicyLaw Enforcement Guidelines
+Terms of ServiceIntercom Additional Product TermsPrivacy PolicyData Processing AddendumProduct Privacy NoticeIntercom Regional Data Hosting AddendumSupport PolicyPremier Services PolicyCookie PolicySecurity PolicySubprocessors ListData Privacy Framework NoticeIntercom Website Terms of UseAcademy TermsService Level AgreementAcceptable Use PolicyCode of ConductTrademark UsageIntercom Global Anti-Corruption StatementIntercom Partner Code of ConductIntercom DMCA PolicyLaw Enforcement Guidelines
 
 * [Terms of Service](https://www.intercom.com/legal/terms-and-policies)
     
@@ -146,6 +147,8 @@ Terms of ServiceIntercom Additional Product TermsPrivacy PolicyData Processing A
     [Collection and Use of Personal Data of California Residents](#collection-and-use-of-personal-data-of-california-residents)
     
 * [Data Processing Addendum](https://www.intercom.com/legal/data-processing-agreement)
+    
+* [Product Privacy Notice](https://www.intercom.com/legal/product-privacy-notice)
     
 * [Intercom Regional Data Hosting Addendum](https://www.intercom.com/legal/regional-data-hosting-addendum)
     
