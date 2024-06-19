@@ -411,11 +411,11 @@ _A equipe do POSTGRAIN lhe deseja uma excelente navegação!_
 
 ### Última do blog
 
-[![Imagem com um alvo em tons de roxo e amarelo, com um dardo acertando o meio do alvo.](https://postgrain.com/wp-content/uploads/2024/06/THUMB-BLOG-Marketing-Agil-1.jpg)](https://postgrain.com/?post_type=post&p=12066)
+[![Lançar um produto novo - Imagem da empresaria e influenciadora Bianca Andrade segurando os novos produtos da sua marca Boca Rosa.](https://postgrain.com/wp-content/uploads/2024/06/THUMB-BLOG-O-que-voce-precisa-para-lancar-um-novo-produto-pelo-Instagram-580x290.jpg)](https://postgrain.com/?post_type=post&p=12092)
 
-[Marketing Ágil: Aprenda a implementar a Metodologia na Gestão do seus Projetos de Marketing](https://postgrain.com/?post_type=post&p=12066)
+[Tudo o que você precisa para lançar um produto novo no Instagram](https://postgrain.com/?post_type=post&p=12092)
 
-[Leia mais](https://postgrain.com/?post_type=post&p=12066)
+[Leia mais](https://postgrain.com/?post_type=post&p=12092)
 
 Ilustração de um dos personagens do Postgrain
 
