@@ -2,7 +2,7 @@
 
 **Free Standard Shipping When You Spend $50+!**
 
-[![](//areyougame.com/cdn/shop/files/AYG_Hor_nocom_Customer_Service_Phone_Number_d8fc8331-13da-4b64-93e7-907dd180367d_900x.png?v=1698346806)](https://areyougame.com/)
+[![AreYouGame.com](//areyougame.com/cdn/shop/files/AYG_Hor_nocom_Customer_Service_Phone_Number_d8fc8331-13da-4b64-93e7-907dd180367d_900x.png?v=1698346806)](https://areyougame.com/)
 
 [Search](https://areyougame.com/search)
 
@@ -12,7 +12,7 @@ Search
 
 Close search
 
-[![](//areyougame.com/cdn/shop/files/AYG_Hor_nocom_Customer_Service_Phone_Number_d8fc8331-13da-4b64-93e7-907dd180367d_900x.png?v=1698346806)](https://areyougame.com/)
+[![AreYouGame.com](//areyougame.com/cdn/shop/files/AYG_Hor_nocom_Customer_Service_Phone_Number_d8fc8331-13da-4b64-93e7-907dd180367d_900x.png?v=1698346806)](https://areyougame.com/)
 
 [Search](https://areyougame.com/search)
 
@@ -455,4 +455,4 @@ FOLLOW US
 
 Copyright © 2024 [AreYouGame.com](https://areyougame.com/). [Powered by Shopify](https://www.shopify.com/?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore)
 
-    {"themeColor":"#000000","iconColor":"#574cd5","showLogo":true,"topBottomPosition":1,"rightLeftPosition":10,"iconSize":"small","iconCustomSize":64,"position":"top-left"}
+{"themeColor":"#000000","iconColor":"#574cd5","showLogo":true,"topBottomPosition":1,"rightLeftPosition":10,"iconSize":"small","iconCustomSize":64,"position":"top-left"}
