@@ -1,7 +1,7 @@
 [![logo](https://ftmo.com/wp-content/uploads/2022/01/ftmo_logo.svg)](https://ftmo.com/en/)
 
 * [How it works](#)
-    * [Evaluation Process](https://ftmo.com/en/welcome/)
+    * [Evaluation Process](https://ftmo.com/en/welcome/#evaluation-process)
     * [Trading Objectives](https://ftmo.com/en/#trading-objectives)
     * [Scaling Plan](https://ftmo.com/en/reward-growth-and-scaling-plan/)
 * [FAQ](https://ftmo.com/en/faq/)
@@ -58,7 +58,7 @@
      
     
 * [How it works](#)
-    * [Evaluation Process](https://ftmo.com/en/welcome/)
+    * [Evaluation Process](https://ftmo.com/en/welcome/#evaluation-process)
     * [Trading Objectives](https://ftmo.com/en/#trading-objectives)
     * [Scaling Plan](https://ftmo.com/en/reward-growth-and-scaling-plan/)
 * [FAQ](https://ftmo.com/en/faq/)
