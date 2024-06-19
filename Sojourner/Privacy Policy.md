@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-ef3ad2715f84b83266a59a5bb9b42c25
+7bee0de335d254e831a2a04b820b5167
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![Swarovski black diamond clasp](https://www.sojourner.biz/images/cache/SKU0385front.200.jpg)](https://www.sojourner.biz/clasps/swarovski/swarovski-black-diamond-clasp.html "Swarovski black diamond clasp")
+[![6 mm purple-gray round pearls](https://www.sojourner.biz/images/cache/pearls/PE0133.200.jpg)](https://www.sojourner.biz/beads/pearls/6-mm-purple-gray-round-pearls.html "6 mm purple-gray round pearls")
 
-#### [Swarovski black diamond clasp](https://www.sojourner.biz/clasps/swarovski/swarovski-black-diamond-clasp.html "Swarovski black diamond clasp")
+#### [6 mm purple-gray round pearls](https://www.sojourner.biz/beads/pearls/6-mm-purple-gray-round-pearls.html "6 mm purple-gray round pearls")
 
-$28.00
+$9.00
 
 ### Best Sellers
 
@@ -195,10 +195,10 @@ $28.00
     $15.00
 8. [Red bar clasp](https://www.sojourner.biz/clasps/glass/red-bar-clasp.html "Red bar clasp")  
     $23.00
-9. [Mother-of-pearl box clasp](https://www.sojourner.biz/clasps/pearl/mother-of-pearl-box-clasp.html "Mother-of-pearl box clasp")  
-    $17.00
-10. [Citrine clasp](https://www.sojourner.biz/clasps/faux-stone/citrine-clasp.html "Citrine clasp")  
+9. [Citrine clasp](https://www.sojourner.biz/clasps/faux-stone/citrine-clasp.html "Citrine clasp")  
     $26.00
+10. [Mother-of-pearl box clasp](https://www.sojourner.biz/clasps/pearl/mother-of-pearl-box-clasp.html "Mother-of-pearl box clasp")  
+    $17.00
 
 [Top](#)
 
