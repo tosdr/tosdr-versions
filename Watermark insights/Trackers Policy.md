@@ -105,7 +105,7 @@
             
 * [Sign in](https://www.watermarkinsights.com/client-resources/signon/)
 
-[Request demo](https://www.watermarkinsights.com/request-demo/)
+[Schedule a demo](https://www.watermarkinsights.com/request-demo/)
 
 * [What we do](https://www.watermarkinsights.com/solutions/)
     * [EDUCATIONAL IMPACT SUITE](https://www.watermarkinsights.com/explore/educational-impact-suite/)
@@ -213,7 +213,7 @@
 * [Sign in](https://www.watermarkinsights.com/client-resources/signon/)
 
 * [Learn about EIS](https://www.watermarkinsights.com/explore/educational-impact-suite/)
-* [Request demo](https://www.watermarkinsights.com/request-demo/)
+* [Schedule a demo](https://www.watermarkinsights.com/request-demo/)
 
 Cookies
 =======
