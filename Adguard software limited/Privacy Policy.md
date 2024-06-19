@@ -10,17 +10,17 @@ AdGuard Ad Blocker
 
 [Official site](https://adguard.com/welcome.html)
 
-[Windows app](https://adguard.com/adguard-windows/overview.html)
+[For Windows](https://adguard.com/adguard-windows/overview.html)
 
-[Mac app](https://adguard.com/adguard-mac/overview.html)
+[For Mac](https://adguard.com/adguard-mac/overview.html)
 
-[Android app](https://adguard.com/adguard-android/overview.html)
+[For Android](https://adguard.com/adguard-android/overview.html)
 
-[Android TV](https://adguard.com/adguard-android-tv/overview.html)
+[For Android TV](https://adguard.com/adguard-android-tv/overview.html)
 
-[iOS app](https://adguard.com/adguard-ios/overview.html)
+[For iOS](https://adguard.com/adguard-ios/overview.html)
 
-[Browser extension](https://adguard.com/adguard-browser-extension/overview.html)
+[For browsers](https://adguard.com/adguard-browser-extension/overview.html)
 
 [Blog](https://adguard.com/en/blog/index.html)
 
@@ -28,17 +28,21 @@ AdGuard VPN
 
 [Official site](https://adguard-vpn.com/welcome.html)
 
-[Windows app](https://adguard-vpn.com/windows/overview.html)
+[For Windows](https://adguard-vpn.com/windows/overview.html)
 
-[Mac app](https://adguard-vpn.com/mac/overview.html)
+[For Mac](https://adguard-vpn.com/mac/overview.html)
 
-[Android app](https://adguard-vpn.com/android/overview.html)
+[For Android](https://adguard-vpn.com/android/overview.html)
 
-[iOS app](https://adguard-vpn.com/ios/overview.html)
+[For Android TV](https://adguard-vpn.com/android-tv/overview.html)
 
-[Browser extension](https://adguard-vpn.com/browser-extension/overview.html)
+[For iOS](https://adguard-vpn.com/ios/overview.html)
 
-[Routers](https://adguard-vpn.com/router/overview.html)
+[For browsers](https://adguard-vpn.com/browser-extension/overview.html)
+
+[For routers](https://adguard-vpn.com/router/overview.html)
+
+[For Linux](https://adguard-vpn.com/linux/overview.html)
 
 [All products](https://adguard-vpn.com/products.html)
 
@@ -46,17 +50,11 @@ AdGuard VPN
 
 AdGuard DNS
 
-[Official site](https://adguard-dns.io/welcome.html)
-
 [Dashboard](https://adguard-dns.io/en/dashboard/)
 
 [Public DNS](https://adguard-dns.io/en/public-dns.html)
 
-[Blog](https://adguard-dns.io/en/blog/index.html)
-
 [Knowledge base](https://adguard-dns.io/kb/)
-
-[Support](https://adguard-dns.io/en/support.html)
 
 Other products
 
@@ -82,17 +80,17 @@ Blocks ads, trackers, phishing, and web annoyances
 
 [Official site](https://adguard.com/welcome.html)
 
-[Windows app](https://adguard.com/adguard-windows/overview.html)
+[For Windows](https://adguard.com/adguard-windows/overview.html)
 
-[Mac app](https://adguard.com/adguard-mac/overview.html)
+[For Mac](https://adguard.com/adguard-mac/overview.html)
 
-[Android app](https://adguard.com/adguard-android/overview.html)
+[For Android](https://adguard.com/adguard-android/overview.html)
 
-[Android TV](https://adguard.com/adguard-android-tv/overview.html)
+[For Android TV](https://adguard.com/adguard-android-tv/overview.html)
 
-[iOS app](https://adguard.com/adguard-ios/overview.html)
+[For iOS](https://adguard.com/adguard-ios/overview.html)
 
-[Browser extension](https://adguard.com/adguard-browser-extension/overview.html)
+[For browsers](https://adguard.com/adguard-browser-extension/overview.html)
 
 [Blog](https://adguard.com/en/blog/index.html)
 
@@ -102,17 +100,21 @@ Makes you anonymous and your traffic inconspicuous
 
 [Official site](https://adguard-vpn.com/welcome.html)
 
-[Windows app](https://adguard-vpn.com/windows/overview.html)
+[For Windows](https://adguard-vpn.com/windows/overview.html)
 
-[Mac app](https://adguard-vpn.com/mac/overview.html)
+[For Mac](https://adguard-vpn.com/mac/overview.html)
 
-[Android app](https://adguard-vpn.com/android/overview.html)
+[For Android](https://adguard-vpn.com/android/overview.html)
 
-[iOS app](https://adguard-vpn.com/ios/overview.html)
+[For Android TV](https://adguard-vpn.com/android-tv/overview.html)
 
-[Browser extension](https://adguard-vpn.com/browser-extension/overview.html)
+[For iOS](https://adguard-vpn.com/ios/overview.html)
 
-[Routers](https://adguard-vpn.com/router/overview.html)
+[For browsers](https://adguard-vpn.com/browser-extension/overview.html)
+
+[For routers](https://adguard-vpn.com/router/overview.html)
+
+[For Linux](https://adguard-vpn.com/linux/overview.html)
 
 [All products](https://adguard-vpn.com/products.html)
 
@@ -122,17 +124,11 @@ AdGuard DNS
 
 A cloud-based DNS service that blocks ads and protects your privacy
 
-[Official site](https://adguard-dns.io/welcome.html)
-
 [Dashboard](https://adguard-dns.io/en/dashboard/)
 
 [Public DNS](https://adguard-dns.io/en/public-dns.html)
 
-[Blog](https://adguard-dns.io/en/blog/index.html)
-
 [Knowledge base](https://adguard-dns.io/kb/)
-
-[Support](https://adguard-dns.io/en/support.html)
 
 Other products
 
@@ -384,7 +380,7 @@ Homepage Pricing Blog About us Connect to DNS AdGuard promo activities Media kit
 
 Other products
 
-AdGuard Ad Blocker AdGuard VPN AdGuard Temp Mail β AdGuard Home
+AdGuard Ad Blocker AdGuard VPN AdGuard Temp Mail AdGuard Home
 
 Support
 
