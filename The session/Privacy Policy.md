@@ -73,10 +73,6 @@ You can use the Backlight tool to [verify that The Session isn’t tracking you]
 
 Sometimes third-party content is embedded within pages on The Session—iframes with YouTube or Vimeo videos, Soundcloud players, or map tiles from OpenStreetMap. But even if your browser is configured to accept third-party cookies, [the cookie settings for The Session](https://securityheaders.com/?q=https://thesession.org) ensure that no third-party cookies can be set.
 
-[back](#) [menu](#top)
-
-[Log in](https://thesession.org/login?redirect=%2Fprivacy) or [Sign up](https://thesession.org/signup)
-
 * [Tunes](https://thesession.org/tunes)
 * [Discography](https://thesession.org/recordings)
 * [Trips](https://thesession.org/trips)
