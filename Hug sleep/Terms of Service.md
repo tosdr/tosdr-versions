@@ -30,7 +30,7 @@ BACK
     Sleep Pod Mini New](https://hugsleep.com/products/sleep-pod-mini)
 * [![](//hugsleep.com/cdn/shop/files/Untitled4.006_533x533.jpg?v=1708019149)
     
-    Hug Wrap New](https://hugsleep.com/products/hug-sleep-wrap)
+    Hug Wrap™ New](https://hugsleep.com/products/hug-sleep-wrap)
   
   
   
@@ -47,34 +47,9 @@ BACK
 * [![](//hugsleep.com/cdn/shop/products/download_29b35f00-49b7-4236-a9a8-e998a7292bba_533x533.jpg?v=1659989428)
     
     Kids - Sleep Pod Move](https://hugsleep.com/products/sleep-pod-move-kids)
-  
-  
-  
-  
-  
-
-* [The Hug Collection Featuring 100% HugStretch™ Technology](#)
-
-BACK
-
-* [![](//hugsleep.com/cdn/shop/files/SquarePDPs.001_533x533.jpg?v=1709244147)
-    
-    Kids - Hooded Sleep Pod New](https://hugsleep.com/products/kids-hooded-sleep-pod-move)
-* [![](//hugsleep.com/cdn/shop/files/Untitled5.007_533x533.jpg?v=1695958490)
-    
-    Hooded Sleep Pod](https://hugsleep.com/products/sleep-pod-move-hood)
-* [![](//hugsleep.com/cdn/shop/files/MiniPDP.004_533x533.jpg?v=1712260599)
-    
-    Sleep Pod Mini New](https://hugsleep.com/products/sleep-pod-mini)
-* [![](//hugsleep.com/cdn/shop/products/download_533x533.jpg?v=1659988966)
-    
-    Sleep Pod Move Most Popular](https://hugsleep.com/products/sleep-pod-move-adult)
 * [![](//hugsleep.com/cdn/shop/files/Untitled4.006_533x533.jpg?v=1708019149)
     
-    Hug Wrap New](https://hugsleep.com/products/hug-sleep-wrap)
-* [![](//hugsleep.com/cdn/shop/products/download_29b35f00-49b7-4236-a9a8-e998a7292bba_533x533.jpg?v=1659989428)
-    
-    Sleep Pod Move - Kids](https://hugsleep.com/products/sleep-pod-move-kids)
+    Hug Wrap™ New](https://hugsleep.com/products/hug-sleep-wrap)
   
   
   
@@ -184,21 +159,13 @@ BACK
     * [Hooded Sleep Pod Move](https://hugsleep.com/products/sleep-pod-move-hood)
     * [Sleep Pod Move](https://hugsleep.com/products/sleep-pod-move-adult)
     * [Sleep Pod Mini](https://hugsleep.com/products/sleep-pod-mini)
-    * [Hug Wrap](https://hugsleep.com/products/hug-sleep-wrap)
+    * [Hug Wrap™](https://hugsleep.com/products/hug-sleep-wrap)
     
 * [Kids Collection](https://hugsleep.com/collections/kids-collection)
     
     * [Kids - Hooded Sleep Pod](https://hugsleep.com/products/kids-hooded-sleep-pod-move)
     * [Kids - Sleep Pod Move](https://hugsleep.com/products/sleep-pod-move-kids)
-    
-* [The Hug Collection](https://hugsleep.com/collections/sleep-pod-collection)
-    
-    * [Kids - Hooded Sleep Pod](https://hugsleep.com/products/kids-hooded-sleep-pod-move)
-    * [Hooded Sleep Pod](https://hugsleep.com/products/sleep-pod-move-hood)
-    * [Sleep Pod Move](https://hugsleep.com/products/sleep-pod-move-adult)
-    * [Sleep Pod Mini](https://hugsleep.com/products/sleep-pod-mini)
-    * [Hug Wrap](https://hugsleep.com/products/hug-sleep-wrap)
-    * [Kids - Sleep Pod](https://hugsleep.com/products/sleep-pod-move-kids)
+    * [Hug Wrap™](https://hugsleep.com/products/hug-sleep-wrap)
     
 * [Hug Accessories](https://hugsleep.com/collections/hug-accessories)
     
