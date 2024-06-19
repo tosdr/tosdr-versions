@@ -3,7 +3,7 @@
 [![Estes Express Lines](/application/themes/estes/images/estes-logo-main-yellow.png)](https://www.estes-express.com/)
 
 * [Ship](https://www.estes-express.com/ship)
-    [Overview](https://www.estes-express.com/ship) [Rate Quote](https://www.estes-express.com/myestes/rate-quote/) [Pickup Request](https://www.estes-express.com/myestes/pickup-request/) [Terminal Lookup](https://www.estes-express.com/myestes/terminal-lookup/) [Bill of Lading](https://www.estes-express.com/myestes/bill-of-lading/) [Transit Time Calculator](https://www.estes-express.com/myestes/transit-time-calculator/) [Density Calculator](https://www.estes-express.com/ship/density-calculator) [Commodity Library](https://www.estes-express.com/myestes/commodity-library/) [Points Download](https://www.estes-express.com/myestes/points-download/)
+    [Overview](https://www.estes-express.com/ship) [Rate Quote](https://www.estes-express.com/myestes/rate-quote-estimate) [Pickup Request](https://www.estes-express.com/myestes/pickup) [Terminal Lookup](https://www.estes-express.com/myestes/terminal-lookup/) [Bill of Lading](https://www.estes-express.com/myestes/bol) [Transit Time Calculator](https://www.estes-express.com/myestes/transit-time-calculator/) [Density Calculator](https://www.estes-express.com/ship/density-calculator) [Commodity Library](https://www.estes-express.com/myestes/commodity-library-new) [Points Download](https://www.estes-express.com/myestes/points-download/)
 * [Track](https://www.estes-express.com/track)
     [Overview](https://www.estes-express.com/track/overview) [Shipment Tracking](https://www.estes-express.com/myestes/shipment-tracking/) [Pickup Visibility](https://www.estes-express.com/myestes/pickup-visibility/)
 * [Manage](https://www.estes-express.com/manage)
@@ -207,25 +207,25 @@ From time to time, we revise and update this Policy. The revisions reflect chang
 
 ##### Shipping
 
-* [Track](http://www.estes-express.com/myestes/shipment-tracking/)
-* [Pickup Visibility](http://www.estes-express.com/myestes/pickup-visibility/)
-* [Services](http://www.estes-express.com/services)
+* [Track](https://www.estes-express.com/myestes/shipment-tracking/)
+* [Pickup Visibility](https://www.estes-express.com/myestes/pickup-visibility/)
+* [Services](https://www.estes-express.com/services)
 
 ##### Support
 
-* [Resources](http://www.estes-express.com/resources/)
-* [FAQs](http://www.estes-express.com/resources/frequently-asked-questions)
-* [Contact](http://www.estes-express.com/contact)
+* [Resources](https://www.estes-express.com/resources/)
+* [FAQs](https://www.estes-express.com/resources/frequently-asked-questions)
+* [Contact](https://www.estes-express.com/contact)
 
 ##### Company
 
-* [Newsroom](http://www.estes-express.com/newsroom/)
-* [About](http://www.estes-express.com/about/)
+* [Newsroom](https://www.estes-express.com/newsroom/)
+* [About](https://www.estes-express.com/about/)
 * [Careers](https://ecwr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/work4estes/?utm_source=EstesMainSite&utm_medium=Website?codes=EstesMainSite)
 
 #### We're Here For You!
 
-* [Subscribe Now](http://www.estes-express.com/subscription-center)
+* [Subscribe Now](https://www.estes-express.com/subscription-center)
 * [](https://www.linkedin.com/company/estes-express-lines)
 * [](https://www.facebook.com/estesexpress/)
 * [](https://twitter.com/estesexpress)
