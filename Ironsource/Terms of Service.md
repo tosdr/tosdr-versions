@@ -76,11 +76,6 @@
     * [ironSource Exchange
         
         ironSource Exchange](https://www.is.com/ironsource-exchange/)
-    * [App marketing
-        
-        Luna](https://luna.is.com/)
-        * [Apple Search Ads management](https://luna.is.com/channels/apple-search-ads/)
-        * [Cross-channel campaign management](https://luna.is.com/control-hub/)
     * [Publishing
         
         Supersonic](https://supersonic.com/)
@@ -107,11 +102,11 @@
             
             [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](#)
             
-            [**Blog**](#)[](https://www.is.com/community/blog/introducing-the-all-new-unity-levelplay/)
+            [**Blog**](#)[](https://www.is.com/community/blog/ad-revenue-and-churn-a-balancing-act/)
             
-            Introducing the all-new Unity LevelPlay
+            Ad revenue and churn: A balancing act
             
-            [Read more >](https://www.is.com/community/blog/introducing-the-all-new-unity-levelplay/)
+            [Read more >](https://www.is.com/community/blog/ad-revenue-and-churn-a-balancing-act/)
             
 * [Company](#)
     * [About](https://www.is.com/about/)
@@ -203,8 +198,6 @@ For app developers
 * [Offerwall](https://www.is.com/offerwall/)
 * [Tapjoy](https://www.is.com/tapjoy/)
 * [ironSource exchange](https://www.is.com/ironsource-exchange/)
-* [Apple Search Ads](https://luna.is.com/channels/apple-search-ads/)
-* [Cross-channel marketing](https://luna.is.com/control-hub/)
 * [Game publishing](https://supersonic.com/)
 * [Tapjoy knowledge center](https://dev.tapjoy.com/)
 * [ironSource knowledge center](https://developers.ironsrc.com/)
