@@ -4,6 +4,8 @@
 
 * [Interoperable Europe](https://joinup.ec.europa.eu/interoperable-europe)
 * [Solutions](https://joinup.ec.europa.eu/interoperable_solutions)
+    * [Software](https://joinup.ec.europa.eu/software-solutions)
+    * [Other](https://joinup.ec.europa.eu/other_solutions)
 * [Support Centre](https://joinup.ec.europa.eu/interoperable-europe-support-centre)
 * [Sign in](https://joinup.ec.europa.eu/caslogin?destination=/joinup/legal-notice)
 * Get started
@@ -17,6 +19,8 @@
     * [Home](https://joinup.ec.europa.eu/)
     * [Interoperable Europe](https://joinup.ec.europa.eu/interoperable-europe)
     * [Solutions](https://joinup.ec.europa.eu/interoperable_solutions)
+        * [Software](https://joinup.ec.europa.eu/software-solutions)
+        * [Other](https://joinup.ec.europa.eu/other_solutions)
     * [Support Centre](https://joinup.ec.europa.eu/interoperable-europe-support-centre)
     * [Sign in](https://joinup.ec.europa.eu/caslogin?destination=/joinup/legal-notice)
     * [About us](https://joinup.ec.europa.eu/collection/joinup)
@@ -133,6 +137,8 @@ Useful links
 
 * [Interoperable Europe](https://joinup.ec.europa.eu/interoperable-europe)
 * [Solutions](https://joinup.ec.europa.eu/interoperable_solutions)
+    * [Software](https://joinup.ec.europa.eu/software-solutions)
+    * [Other](https://joinup.ec.europa.eu/other_solutions)
 * [Support Centre](https://joinup.ec.europa.eu/interoperable-europe-support-centre)
 * [Sign in](https://joinup.ec.europa.eu/caslogin?destination=/joinup/legal-notice)
 * Get started
@@ -146,6 +152,8 @@ Useful links
     * [Home](https://joinup.ec.europa.eu/)
     * [Interoperable Europe](https://joinup.ec.europa.eu/interoperable-europe)
     * [Solutions](https://joinup.ec.europa.eu/interoperable_solutions)
+        * [Software](https://joinup.ec.europa.eu/software-solutions)
+        * [Other](https://joinup.ec.europa.eu/other_solutions)
     * [Support Centre](https://joinup.ec.europa.eu/interoperable-europe-support-centre)
     * [Sign in](https://joinup.ec.europa.eu/caslogin?destination=/joinup/legal-notice)
     * [About us](https://joinup.ec.europa.eu/collection/joinup)
@@ -264,6 +272,8 @@ Useful links
 
 * [Interoperable Europe](https://joinup.ec.europa.eu/interoperable-europe)
 * [Solutions](https://joinup.ec.europa.eu/interoperable_solutions)
+    * [Software](https://joinup.ec.europa.eu/software-solutions)
+    * [Other](https://joinup.ec.europa.eu/other_solutions)
 * [Support Centre](https://joinup.ec.europa.eu/interoperable-europe-support-centre)
 * [Sign in](https://joinup.ec.europa.eu/caslogin?destination=/joinup/legal-notice)
 * Get started
@@ -277,6 +287,8 @@ Useful links
     * [Home](https://joinup.ec.europa.eu/)
     * [Interoperable Europe](https://joinup.ec.europa.eu/interoperable-europe)
     * [Solutions](https://joinup.ec.europa.eu/interoperable_solutions)
+        * [Software](https://joinup.ec.europa.eu/software-solutions)
+        * [Other](https://joinup.ec.europa.eu/other_solutions)
     * [Support Centre](https://joinup.ec.europa.eu/interoperable-europe-support-centre)
     * [Sign in](https://joinup.ec.europa.eu/caslogin?destination=/joinup/legal-notice)
     * [About us](https://joinup.ec.europa.eu/collection/joinup)
@@ -296,6 +308,8 @@ As a signed-in user you can create content, become a member of a community, rece
 * [Home](https://joinup.ec.europa.eu/)
 * [Interoperable Europe](https://joinup.ec.europa.eu/interoperable-europe)
 * [Solutions](https://joinup.ec.europa.eu/interoperable_solutions)
+    * [Software](https://joinup.ec.europa.eu/software-solutions)
+    * [Other](https://joinup.ec.europa.eu/other_solutions)
 * [Support Centre](https://joinup.ec.europa.eu/interoperable-europe-support-centre)
 * [Sign in](https://joinup.ec.europa.eu/caslogin?destination=/joinup/legal-notice)
 * [About us](https://joinup.ec.europa.eu/collection/joinup)
