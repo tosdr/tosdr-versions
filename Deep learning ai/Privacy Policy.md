@@ -1,4 +1,4 @@
-🌟 New Course! Enroll in [AI Agents in LangGraph](https://bit.ly/453BeFi)
+🌟 New Course! Enroll in [Building Your Own Database Agent](https://bit.ly/3X6movU)
 
 [](https://www.deeplearning.ai/)
 
@@ -20,7 +20,7 @@
     * [Careers](https://www.deeplearning.ai/careers/)
     * [Contact](https://www.deeplearning.ai/contact/)
 
-[Start Learning](https://bit.ly/3UEKFHL)
+[Start Learning](https://bit.ly/4c0ve2M)
 
 **PRIVACY POLICY**
 ==================
