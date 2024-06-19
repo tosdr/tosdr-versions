@@ -683,9 +683,11 @@ You have no items in your basket.
 * [New](https://www.faithful-to-nature.co.za/new-products/)
 * [Deals](https://www.faithful-to-nature.co.za/our-specials/)  
     
-    [Weekly Deals](https://www.faithful-to-nature.co.za/specials/weekly-deals) [Bundles](https://www.faithful-to-nature.co.za/specials/bundles)
+    [Weekly Deals](https://www.faithful-to-nature.co.za/specials/weekly-deals)
     
-    [Last Chance Deals](https://www.faithful-to-nature.co.za/specials/last-chance-deals-1) [Bulk Savings](https://www.faithful-to-nature.co.za/specials/bulk-savings)
+    [Bundles](https://www.faithful-to-nature.co.za/specials/bundles)
+    
+    [Bulk Savings](https://www.faithful-to-nature.co.za/specials/bulk-savings)
     
      Deals
     
@@ -693,11 +695,9 @@ You have no items in your basket.
     
     [Bundles](https://www.faithful-to-nature.co.za/specials/bundles)
     
-    [Last Chance Deals](https://www.faithful-to-nature.co.za/specials/last-chance-deals-1)
-    
     [Bulk Savings](https://www.faithful-to-nature.co.za/specials/bulk-savings)
     
-* [Father's Day Gift Guide](https://www.faithful-to-nature.co.za/campaign/fathers-day-2024)
+* [Winter Sale](https://www.faithful-to-nature.co.za/campaign/winter-sale-2024)
 
 Terms & Conditions
 ==================
@@ -885,6 +885,7 @@ Fax: +27 86 519 8068
 * [Gift Vouchers](https://www.faithful-to-nature.co.za/giftvoucher/index/index/)
 * [Ingredients Library](https://www.faithful-to-nature.co.za/ingredient/)
 * [Ingredients - The Bad Bunch](https://www.faithful-to-nature.co.za/ingredients/bad-bunch/)
+* [Affiliates](https://app.admarula.com/signup?ref=admarula_FTN)
 
 ### Let's Get Social
 
