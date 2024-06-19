@@ -1,23 +1,10 @@
- [![](/assets/img/solid-emblem.svg) Solid](https://solidproject.org/)
+ [![Solid logo](/image/logo.svg) Solid](https://solidproject.org/)
 
 * [About Solid](https://solidproject.org/about)
-* Developers
-    * [Getting Started](https://solidproject.org/developers/tutorials/getting-started)
-    * [Solid Tools and Libraries](https://solidproject.org/developers/tools)
-    * [Solid Apps](https://solidproject.org/apps)
-* Users
-    * [Getting a Pod](https://solidproject.org/users/get-a-pod)
-    * [Solid Apps](https://solidproject.org/apps)
-* Community
-    * [Newsletter](https://solidproject.org/newsletter)
-    * [Events](https://solidproject.org/events)
-    * [Solid Forum](https://forum.solidproject.org/)
-    * [Chat](https://matrix.to/#/#solid_project:matrix.org)
-    * [Press](https://solidproject.org/press)
-    * [Code of Conduct](https://github.com/solid/process/blob/main/code-of-conduct.md)
-
-* [Home](https://solidproject.org/)
-* Terms of Use
+* [For Users](https://solidproject.org/for-users)
+* [For Developers](https://solidproject.org/for-developers)
+* [For Organizations](https://solidproject.org/for-organizations)
+* [Community](https://solidproject.org/community)
 
 Terms of Use
 ============
@@ -25,7 +12,11 @@ Terms of Use
 URI Persistence Policy
 ----------------------
 
-Last modified: 2021-01-25
+More details about this document
+
+Modified
+
+2021-01-25
 
 When information is made available on the Web, it is important for the integrity of the Web, and the society based upon it, that the URIs used to reference information be used well into the future, and that the information persist as identified.
 
@@ -49,29 +40,18 @@ The intent is to set an example by reducing the failure of links due to clumsy m
 
 Solid Project 2021-01-25
 
-* [Home](https://solidproject.org/)
-* [About Solid](https://solidproject.org/about)
-* [Using Solid](https://solidproject.org/users)
-* [Get a Pod](https://solidproject.org/users/get-a-pod)
-* [Solid Apps](https://solidproject.org/apps)
-* [Team](https://solidproject.org/team)
-* [FAQs](https://solidproject.org/faqs)
-* [Terms of Use](https://solidproject.org/terms)
+* [About](https://solidproject.org/about)
+* [For Users](https://solidproject.org/for-users)
+* [For Developers](https://solidproject.org/for-developers)
+* [For Organizations](https://solidproject.org/for-organizations)
+* [Community](https://solidproject.org/community)
+* [License](https://github.com/solid/solidproject.org/blob/main/LICENSE.md)
 * [Code of Conduct](https://github.com/solid/process/blob/main/code-of-conduct.md)
 
-* What's New
-* [This Month in Solid](https://solidproject.org/newsletter)
-* [Solid Events](https://solidproject.org/events)
-* [Press](https://solidproject.org/press)
+![logo](/image/logo.svg)
 
-* [Developers](https://solidproject.org/developers)
-* [Getting Started](https://solidproject.org/developers/tutorials/getting-started)
-* [Forum](https://forum.solidproject.org/)
+Accounts
 
-* More
-* [Specification](https://solidproject.org/specification)
-* [License](https://solidproject.org/license)
-* [Logo usage guidelines](https://solidproject.org/logo-usage-guidelines)
-* [Website feedback](https://github.com/solid/solidproject.org/issues/new)
-
- [![[Solid logo]](/assets/img/solid-emblem.svg)](https://solidproject.org/)[info@solidproject.org](mailto:info@solidproject.org) [@](mailto:info@solidproject.org)[![GitHub](/assets/img/fontawesome-free-5.11.2-web/svgs/brands/github.svg)](https://github.com/solid/ "Solid on GitHub")[![Twitter](/assets/img/fontawesome-free-5.11.2-web/svgs/brands/twitter.svg)](https://twitter.com/project_solid "Solid on Twitter")[![Vimeo](/assets/img/fontawesome-free-5.11.2-web/svgs/brands/vimeo-v.svg)](https://vimeo.com/solidworld "Solid on Vimeo")
+* [info@solidproject.org](mailto:info@solidproject.org)
+* [![github](/image/github.svg)](https://github.com/solid/)
+* [![twitter](/image/twitter.svg)](https://twitter.com/project_solid)
