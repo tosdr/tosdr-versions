@@ -513,16 +513,6 @@ Please insert a valid email address.
 
 **Subscribe**![](/fileadmin/twipla/typo3-website-theme/template/images/icons/circle-arrow-right.svg)
 
-[**Latest News From Our Blog**](https://www.visitor-analytics.io/en/blog)
-
-[Sleep Tight, Data Safe: Secure Data Storage Guide](https://www.visitor-analytics.io/en/blog/secure-data-storage)
-
-[Website Intelligence News Roundup May 2024](https://www.visitor-analytics.io/en/blog/website-intelligence-news-roundup-may-2024)
-
-[Data Detox: Mastering the Principles of Data Minimization](https://www.visitor-analytics.io/en/blog/data-minimization)
-
-[Read More Articles ![read-arrow.svg](/fileadmin/twipla/typo3-website-theme/template/images/icons/read-arrow.svg)](https://www.visitor-analytics.io/en/blog) 
-
 **Quicklinks**
 
 * [Frequently Asked Questions](https://www.visitor-analytics.io/en/support/frequently-asked-questions)
