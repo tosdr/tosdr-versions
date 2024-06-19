@@ -20,7 +20,7 @@ class="agentbot"
     
 * [Resources](https://engageware.com/resources/)
     
-    * [Blogs](https://engageware.com/blog/)
+    * [Blog](https://engageware.com/blog/)
     * [Data Sheets](https://engageware.com/resources/data-sheet/)
     * [eBooks](https://engageware.com/resources/ebook/)
     * [Events](https://engageware.com/events/)
@@ -131,7 +131,7 @@ Company
 * [Overview](https://engageware.com/company/)
 * [Partners](https://engageware.com/partners/)
 * [Careers](https://engageware.com/company/careers/)
-* [News & Events](https://engageware.com/company/news/)
+* [News & Press](https://engageware.com/company/news/)
 * [Social Environmental Responsibility](https://engageware.com/social-environmental-responsibility/)
 * [Contact Us](https://engageware.com/company/contact-us/)
 
