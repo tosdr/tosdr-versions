@@ -8,7 +8,7 @@
     
     [My Account](https://www.prosper.com/myaccount)
     
-    [Messages](https://www.prosper.com/secure/account/common/messages.aspx)
+    [Messages](https://www.prosper.com/account/events/messages%20%20)
     
     [Settings](https://www.prosper.com/settings)
     
@@ -299,6 +299,10 @@ Notes offered by Prospectus. Notes investors receive are dependent for payment o
 [DEVELOPERS](https://developers.prosper.com/)
 
 [Privacy Policy](https://www.prosper.com/legal/privacy-policy)
+
+[Do Not Sell My Personal Information](https://privacyportal.onetrust.com/webform/65d4fda4-8a68-43df-ab7b-053bd3e6c780/b121e2c0-bd0e-4d7c-b5ed-ba82f277121f)
+
+Cookie Settings
 
 [Facebook](https://www.facebook.com/prosperloans) [Twitter](https://twitter.com/prosperloans) [Linkedin](http://www.linkedin.com/company/prosper-marketplace) [Instagram](https://www.instagram.com/letsgoprosper/)
 
