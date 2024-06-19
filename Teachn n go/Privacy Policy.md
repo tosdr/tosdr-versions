@@ -79,9 +79,9 @@ We will disclose your Personal Information where required to do so by law or sub
 
 If Teach N Go Ireland is involved in a merger, acquisition or asset sale, your Personal Information may be transferred. We will provide notice before your Personal Information is transferred and becomes subject to a different Privacy Policy.
 
-**Security**
+**Destruction**
 
-The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
+Teach 'n Go is responsible for the continuing process of identifying all records types, including Google user data, that have met their required retention period and supervising their destruction. Data destruction ensures that Teach 'n Go manages the data it controls and processes it in an efficient and responsible manner. When the retention period for the data (12 months) expires, Teach 'n Go will actively destroy the data covered by this policy.
 
 **International Transfer**
 
