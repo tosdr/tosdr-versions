@@ -63,7 +63,7 @@
     
 * [Store](https://store.barstoolsports.com/)
     
-    [![4th of July Store Hover](https://chumley.barstoolsports.com/union/2024/06/05/FourthOfJuly2024_896x694.eec58883.jpg?crop=896%3A672%2Csmart&format=pjpg&width=3840&auto=webp&quality=85%2C75)](https://store.barstoolsports.com/collections/4th-of-july?utm_source=barstoolsports&utm_medium=referral&utm_campaign=referral_barstoolsports_site_placement_hover_state_image_4thofjuly)
+    [![Boston Basketball Store Hover](https://chumley.barstoolsports.com/union/2024/06/17/Celtics2024_896x694.a07a8cfe.jpg?crop=896%3A672%2Csmart&format=pjpg&width=3840&auto=webp&quality=85%2C75)](https://store.barstoolsports.com/collections/boston-basketball?utm_source=barstoolsports&utm_medium=referral&utm_campaign=referral_barstoolsports_site_placement_hover_state_image_bostonchamps)
     
     #### Barstool Brands
     
@@ -103,9 +103,9 @@
     
     * [New](https://store.barstoolsports.com/collections/new-arrivals?utm_source=barstoolsports&utm_medium=referral&utm_campaign=referral_barstoolsports_site_placement_trending_topics_hover_newarrivals)
     * [Best Sellers](https://store.barstoolsports.com/collections/best-sellers-page)
+    * [Boston Banner 18](https://store.barstoolsports.com/collections/boston-basketball?utm_source=barstoolsports&utm_medium=referral&utm_campaign=referral_barstoolsports_site_placement_trending_topics_hover_bostonchamps)
     * [Shady Rays](https://store.barstoolsports.com/collections/shady-rays?utm_source=barstoolsports&utm_medium=referral&utm_campaign=referral_barstoolsports_site_placement_trending_topics_hover_shadyrays)
     * [SKLZ](https://store.barstoolsports.com/collections/sklz-x-barstool-golf?utm_source=barstoolsports&utm_medium=referral&utm_campaign=referral_barstoolsports_site_placement_trending_topics_bar_sklz)
-    * [4th of July](https://store.barstoolsports.com/collections/4th-of-july)
     * [Miss Peaches](https://store.barstoolsports.com/collections/miss-peaches)
     * [Barstool Golf](https://store.barstoolsports.com/collections/golf)
     * [Stella Blue Coffee](https://stellabluecoffee.com/?utm_source=stellabluecoffee.com&utm_medium=referral&utm_campaign=referral_stellabluecoffee.com_site_placement_trending_topics_hover_stellabluecoffee)
@@ -144,11 +144,11 @@
 [My Feed!My Feed](https://www.barstoolsports.com/favorites)[App](https://www.barstoolsports.com/download)
 
 * Trending Topics
-* [4th of July Collection](https://store.barstoolsports.com/collections/4th-of-july?utm_source=barstoolsports&utm_medium=referral&utm_campaign=referral_barstoolsports_site_placement_trending_topics_bar_4thofjuly)
-* [Barstool Golf Time](https://apps.apple.com/app/apple-store/id1550158305?pt=1548021&ct=bsdisplay&mt=8)
-* [SKLZ | Barstool Golf Training Aids](https://golfgalaxy.com/barstool)
-* [NHL Coverage](https://www.barstoolsports.com/topics/nhl)
+* [Boston Championship Collection](https://store.barstoolsports.com/collections/boston-basketball?utm_source=barstoolsports&utm_medium=referral&utm_campaign=referral_barstoolsports_site_placement_trending_topics_bar_bostonchamps)
 * [NBA Coverage](https://www.barstoolsports.com/topics/nba)
+* [Rundown](https://www.barstoolsports.com/video/3517292/boston-celtics-are-nba-champions-barstool-rundown-june-18th-2024)
+* [The Dozen Championship](https://www.barstoolsports.com/video/3517184/5-experts-vs.-12-macrodosing-and-7-booze-ponies-vs.-10-gen-xyz-or-rd-1-matches-3-and-4-the-dozen-trivia-tournament-iv)
+* [NHL Coverage](https://www.barstoolsports.com/topics/nhl)
 
 Privacy Policy
 ==============
