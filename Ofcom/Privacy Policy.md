@@ -1,123 +1,177 @@
-[Skip to main content](#skip)
+< iframe src = "//www.googletagmanager.com/ns.html?id=GTM-KNKJHR" height="0" width="0" style="display:none;visibility:hidden">
 
-Menu
+[Skip to content](#skipToContent)
 
- [![Ofcom home page](https://www.ofcom.org.uk/__data/assets/file/0010/163/logo2023_2.svg)](https://www.ofcom.org.uk/ "Ofcom home page")[![Ofcom home page](https://www.ofcom.org.uk/__data/assets/file/0009/162/logo-mob2023_2.svg)](https://www.ofcom.org.uk/ "Ofcom home page")
+[![Ofcom](/globalassets/images/logonostrap.svg)](https://www.ofcom.org.uk/ "Ofcom")
 
-[Cymraeg](https://www.ofcom.org.uk/cymru/about-ofcom/foi-dp/general-privacy-statement "Switch to Cymraeg") [Search](# "Open search bar")
+[](javascript:void(0);)
 
-Your pages (0)
+[](javascript:void(0);)
 
-[What is 'Your pages'?](https://www.ofcom.org.uk/about-ofcom/website/what-is-your-pages)
+×
 
-Close search bar
-
-Search site  Submit Search
-
-[Cymraeg](https://www.ofcom.org.uk/cymru/about-ofcom/foi-dp/general-privacy-statement "Switch to Cymraeg")
-
-* [Home](https://www.ofcom.org.uk/home)
-* [Complaints](https://www.ofcom.org.uk/complaints)
-    * [Make a complaint](https://www.ofcom.org.uk/complaints)
-    * [Complain about mobile, phone or internet services](https://www.ofcom.org.uk/complaints/complain-about-phones-or-internet-services)
-    * [Complain about TV, radio or on demand services](https://www.ofcom.org.uk/complaints/complain-about-tv-radio-a-website)
-    * [Complain about postal services](https://www.ofcom.org.uk/complaints/complain-about-postal-services)
-    * [Complain about wireless interference](https://www.ofcom.org.uk/complaints/complain-about-wireless-interference)
-    * [Complain about online services, websites or apps](https://www.ofcom.org.uk/complaints/online-services-sites-apps)
-* [News centre](https://www.ofcom.org.uk/news-centre)
-    * [Latest news](https://www.ofcom.org.uk/news-centre)
-    * [Contact the Ofcom Media Office](https://ofcomlive.my.salesforce-sites.com/formentry/ContactusMediaOfficeWebForm)
-    * [Subscribe to media release emails](https://www.ofcom.org.uk/news-centre/subscribe-to-media-release-emails)
-    * [Download Ofcom's logo and senior management images](https://www.ofcom.org.uk/news-centre/images)
-* [About Ofcom](https://www.ofcom.org.uk/about-ofcom)
-    * [About Ofcom](https://www.ofcom.org.uk/about-ofcom)
-    * [What is Ofcom?](https://www.ofcom.org.uk/about-ofcom/what-is-ofcom)
-    * [How Ofcom is run](https://www.ofcom.org.uk/about-ofcom/how-ofcom-is-run)
-    * [Contacting Ofcom](https://www.ofcom.org.uk/about-ofcom/contact-us)
-    * [Jobs](https://www.ofcom.org.uk/about-ofcom/jobs)
-    * [Bulletins](https://www.ofcom.org.uk/about-ofcom/bulletins)
-    * [Freedom of information and data protection](https://www.ofcom.org.uk/about-ofcom/foi-dp)
-    * [Annual reports and plans](https://www.ofcom.org.uk/about-ofcom/annual-reports-and-plans)
-    * [About this website](https://www.ofcom.org.uk/about-ofcom/website)
-    * [Accessibility and diversity](https://www.ofcom.org.uk/about-ofcom/accessibility-diversity)
-    * [Analyst and investor relations](https://www.ofcom.org.uk/about-ofcom/analysts)
-    * [Ofcom's international work](https://www.ofcom.org.uk/about-ofcom/international)
-    * [Policies and guidelines](https://www.ofcom.org.uk/about-ofcom/policies-and-guidelines)
-    * [Public correspondence](https://www.ofcom.org.uk/about-ofcom/public-correspondence)
-    * [Working with academic researchers](https://www.ofcom.org.uk/about-ofcom/working-with-academics)
-* [Online safety](https://www.ofcom.org.uk/online-safety)
-    * [Online safety](https://www.ofcom.org.uk/online-safety)
-    * [Advice for consumers](https://www.ofcom.org.uk/online-safety/advice-for-consumers)
-    * [Information for industry](https://www.ofcom.org.uk/online-safety/information-for-industry)
-    * [The Online Safety Briefing](https://www.ofcom.org.uk/online-safety/online-safety-briefing)
-* [Phones and internet](https://www.ofcom.org.uk/phones-telecoms-and-internet)
-    * [Phones, telecoms and internet](https://www.ofcom.org.uk/phones-telecoms-and-internet)
-    * [Advice for consumers](https://www.ofcom.org.uk/phones-telecoms-and-internet/advice-for-consumers)
-    * [Information for industry](https://www.ofcom.org.uk/phones-telecoms-and-internet/information-for-industry)
-    * [Coverage](https://www.ofcom.org.uk/phones-telecoms-and-internet/coverage)
-* [TV, radio and on-demand](https://www.ofcom.org.uk/tv-radio-and-on-demand)
-    * [TV, radio and on-demand](https://www.ofcom.org.uk/tv-radio-and-on-demand)
-    * [Advice for consumers](https://www.ofcom.org.uk/tv-radio-and-on-demand/advice-for-consumers)
-    * [Information for industry](https://www.ofcom.org.uk/tv-radio-and-on-demand/information-for-industry)
-    * [TV and radio broadcasting codes](https://www.ofcom.org.uk/tv-radio-and-on-demand/broadcast-codes)
-* [Post](https://www.ofcom.org.uk/postal-services)
-    * [Postal services](https://www.ofcom.org.uk/postal-services)
-    * [Advice to help with your postal service](https://www.ofcom.org.uk/postal-services/advice)
-    * [Information for the postal industry](https://www.ofcom.org.uk/postal-services/information-for-the-postal-industry)
-* [Spectrum](https://www.ofcom.org.uk/spectrum)
-    * [Spectrum](https://www.ofcom.org.uk/spectrum)
-    * [Electromagnetic fields (EMF)](https://www.ofcom.org.uk/spectrum/emf)
-    * [Interference to radio equipment](https://www.ofcom.org.uk/spectrum/interference)
-    * [Our approach to spectrum compliance and enforcement](https://www.ofcom.org.uk/spectrum/spectrum-enforcement)
-    * [Rules on using radio equipment](https://www.ofcom.org.uk/spectrum/rules)
-    * [Spectrum information](https://www.ofcom.org.uk/spectrum/information)
-    * [Spectrum management](https://www.ofcom.org.uk/spectrum/spectrum-management)
-* [Consultations](https://www.ofcom.org.uk/consultations-and-statements)
-    * [Consultations and statements](https://www.ofcom.org.uk/consultations-and-statements)
-    * [Ofcom's approach to impact assessment](https://www.ofcom.org.uk/consultations-and-statements/approach-to-impact-assessment)
-    * [Ofcom's consultation principles](https://www.ofcom.org.uk/consultations-and-statements/how-will-ofcom-consult)
-    * [Ofcom's responses to external consultations and reports](https://www.ofcom.org.uk/consultations-and-statements/ofcomresponses)
-* [Research](https://www.ofcom.org.uk/research-and-data)
-    * [Research and data](https://www.ofcom.org.uk/research-and-data)
-    * [Search all research and data](https://www.ofcom.org.uk/research-and-data/search)
-    * [Multi-sector](https://www.ofcom.org.uk/research-and-data/multi-sector-research)
-    * [TV, radio and on-demand research](https://www.ofcom.org.uk/research-and-data/tv-radio-and-on-demand)
-    * [Telecoms research](https://www.ofcom.org.uk/research-and-data/telecoms-research)
-    * [Making Sense of Media](https://www.ofcom.org.uk/research-and-data/media-literacy-research)
-    * [Online research](https://www.ofcom.org.uk/research-and-data/online-research)
-    * [Postal services research and data](https://www.ofcom.org.uk/research-and-data/post-research)
-    * [Technology research](https://www.ofcom.org.uk/research-and-data/technology)
-    * [Data](https://www.ofcom.org.uk/research-and-data/data)
-    * [Ofcom’s research and data collection programme](https://www.ofcom.org.uk/research-and-data/about-ofcoms-research)
-    * [The communications sector at a glance](https://www.ofcom.org.uk/research-and-data/facts)
-    * [Economics insights and discussion papers](https://www.ofcom.org.uk/research-and-data/economics-discussion-papers)
-    * [Behavioural insights at Ofcom](https://www.ofcom.org.uk/research-and-data/behavioural-insights)
-    * [Digital Regulation Cooperation Forum digital markets research](https://www.gov.uk/find-digital-market-research)
-* [Licences](https://www.ofcom.org.uk/manage-your-licence)
-    * [Manage your licence](https://www.ofcom.org.uk/manage-your-licence)
-    * [Help with your broadcast licence](https://www.ofcom.org.uk/manage-your-licence/broadcast-licensing-help-centre)
-    * [Radio broadcast licences](https://www.ofcom.org.uk/manage-your-licence/radio-broadcast-licensing)
-    * [Radiocommunications licences](https://www.ofcom.org.uk/manage-your-licence/radiocommunication-licences)
-    * [TV broadcast licences](https://www.ofcom.org.uk/manage-your-licence/tv-broadcast-licences)
-    * [Buy a licence for watching TV](http://www.tvlicensing.co.uk/)
-    * [Online post-issue registration](https://secure.ofcom.org.uk/opir/)
-    * [SPECTRAsc](https://secure.ofcom.org.uk/SPECTRAsc/login.ws)
-* [Your pages](#)
+* [Topics](#)
+    
+    [About Ofcom](https://www.ofcom.org.uk/about-ofcom/)
+    
+    Ofcom is the regulator for the communications services that we use and rely on each day.
+    
+    [Internet-based services](https://www.ofcom.org.uk/internet-based-services/)
+    
+    As people communicate seamlessly online and offline, we now need to invest our efforts into making digital communications work for everyone
+    
+    [Media use and attitudes](https://www.ofcom.org.uk/media-use-and-attitudes/)
+    
+    Ofcom wants to understand how adults and children in the UK use media.
+    
+    [Online safety](https://www.ofcom.org.uk/online-safety/)
+    
+    Under the Online Safety Act, Ofcom's job is to make online services safer for the people who use them. We make sure companies have effective systems in place to protect users from harm.
+    
+    [Phones and broadband](https://www.ofcom.org.uk/phones-and-broadband/)
+    
+    Ofcom is committed to a thriving telecoms sector, where companies can compete fairly and customers benefit from a broad range of services.
+    
+    [Post](https://www.ofcom.org.uk/post/)
+    
+    Ofcom's job is to make sure there is a universal postal service.
+    
+    [Spectrum](https://www.ofcom.org.uk/spectrum/)
+    
+    You can't see or feel radio spectrum, but we use it every day. Our job is to authorise and manage the use of spectrum in the UK.
+    
+    [TV, radio and on-demand](https://www.ofcom.org.uk/tv-radio-and-on-demand/)
+    
+    We make sure that broadcasters provide quality TV, radio and on-demand programmes that appeal to diverse audiences. We also have rules in place to protect viewers and listeners from harm.
+    
+    [](https://x.com/ofcom "x-twitter")[](https://www.facebook.com/ofcom "facebook")[](https://www.linkedin.com/company/ofcom "linkedin")[](https://www.youtube.com/ofcom "youtube")[](https://www.instagram.com/ofcom.org.uk/ "instagram")[](https://www.tiktok.com/@ofcom.org.uk "tiktok")
+    
+* [Ofcom's work](#)
+    
+    [Advice for businesses](https://www.ofcom.org.uk/advice-for-businesses/)
+    
+    How to make the most of communications services as a small business.
+    
+    [Advice for consumers](https://www.ofcom.org.uk/advice-for-consumers/)
+    
+    How to make the most of the services you use, and deal with problems.
+    
+    [Consultations and statements](https://www.ofcom.org.uk/consultations-and-statements/)
+    
+    Proposals we are consulting on and decisions we've made.
+    
+    [Enforcement](https://www.ofcom.org.uk/enforcement/)
+    
+    How we make sure companies follow our rules, to protect customers and promote competition.
+    
+    [Information for industry](https://www.ofcom.org.uk/information-for-industry/)
+    
+    Rules, guidance and other information for the industries we regulate.
+    
+    [Licence information](https://www.ofcom.org.uk/licence-information/)
+    
+    If you're looking to use certain radio equipment, or broadcast on TV or radio, you'll need a licence from Ofcom.
+    
+    [News and updates](https://www.ofcom.org.uk/news-and-updates/)
+    
+    Our latest news, features, views and information about our work.
+    
+    [Research, statistics and data](https://www.ofcom.org.uk/research-statistics-and-data/)
+    
+    Evidence we gather to inform our work as a regulator.
+    
+    [](https://x.com/ofcom "x-twitter")[](https://www.facebook.com/ofcom "facebook")[](https://www.linkedin.com/company/ofcom "linkedin")[](https://www.youtube.com/ofcom "youtube")[](https://www.instagram.com/ofcom.org.uk/ "instagram")[](https://www.tiktok.com/@ofcom.org.uk "tiktok")
+    
+* [Complaints](#)
+    
+    [Complaints](https://www.ofcom.org.uk/make-a-complaint/)
+    
+    * [Complain about mobile, phone or internet services](https://www.ofcom.org.uk/make-a-complaint/complain-about-mobile-phone-or-internet-services/)
+    * [Complain about TV, radio or on demand services](https://www.ofcom.org.uk/make-a-complaint/complain-about-tv-radio-or-on-demand-services/)
+    * [Complain about postal services](https://www.ofcom.org.uk/make-a-complaint/complain-about-postal-services/)
+    * [Complain about wireless interference](https://www.ofcom.org.uk/make-a-complaint/complain-about-wireless-interference/)
+    * [Complain about online services, websites or apps](https://www.ofcom.org.uk/make-a-complaint/complain-about-a-video-sharing-platform-vsp/)
+    
+    * Ofcom may be able to help you complain about or report issues relating to: phone, broadband and postal services; TV, radio and on-demand programmes; interference to wireless devices; or something you have seen on an online service, website or app.
+    * [The types of complaint we deal with](https://www.ofcom.org.uk/make-a-complaint/complaints-ofcom-deals-with/)
+    * [Get in touch by phone or post](https://www.ofcom.org.uk/make-a-complaint/get-in-touch/)
+    
+    [](https://x.com/ofcom "x-twitter")[](https://www.facebook.com/ofcom "facebook")[](https://www.linkedin.com/company/ofcom "linkedin")[](https://www.youtube.com/ofcom "youtube")[](https://www.instagram.com/ofcom.org.uk/ "instagram")[](https://www.tiktok.com/@ofcom.org.uk "tiktok")
+    
+* [Licences](#)
+    
+    [Licences](https://www.ofcom.org.uk/licences/)
+    
+    * [Spectrum licences](https://www.ofcom.org.uk/licences/spectrum/)
+    * [Radio broadcast licences](https://www.ofcom.org.uk/licences/radio-broadcast/)
+    * [TV broadcast licences](https://www.ofcom.org.uk/licences/tv-broadcast/)
+    
+    * You need a licence from Ofcom if you’re looking to use certain radio equipment (like amateur or ships radio), or broadcast on TV or radio.
+    * [Help with your spectrum licence](https://www.ofcom.org.uk/spectrum/electromagnetic-fields/licensing-help-centre/)
+    * [Help with your broadcast licence](https://www.ofcom.org.uk/tv-radio-and-on-demand/analogue-radio/help-with-your-broadcast-licence/)
+    
+    [](https://x.com/ofcom "x-twitter")[](https://www.facebook.com/ofcom "facebook")[](https://www.linkedin.com/company/ofcom "linkedin")[](https://www.youtube.com/ofcom "youtube")[](https://www.instagram.com/ofcom.org.uk/ "instagram")[](https://www.tiktok.com/@ofcom.org.uk "tiktok")
     
 
-1. [Home](https://www.ofcom.org.uk/)
-2. [About Ofcom](https://www.ofcom.org.uk/about-ofcom)
-3. [FOI and data protection](https://www.ofcom.org.uk/about-ofcom/foi-dp)
-4. General Privacy Statement
+[Global Search](javascript:void(0);)
 
-General Privacy Statement – How we handle your personal data
-============================================================
+ Search [Search](javascript:void(0))
 
-Add to Your Pages
-
-10 February 2023
+#### Quick links
 
 * * *
+
+[Broadband and mobile coverage checker](https://www.ofcom.org.uk/phones-and-broadband/coverage-and-speeds/ofcom-checker/)
+
+[Social tariffs: Cheaper broadband and phone packages](https://www.ofcom.org.uk/phones-and-broadband/saving-money/social-tariffs/)
+
+[Telephone area codes: Find UK dialling codes for numbers starting 01 and 02](https://www.ofcom.org.uk/phones-and-broadband/phone-numbers/telephone-area-codes-tool/)
+
+[Ofcom licensing portal for aircraft, amateur and ships radio](https://www.ofcom.org.uk/spectrum/radio-equipment/online-licensing-service/)
+
+* * *
+
+#### Latest news
+
+[![Professional cameraman with headphones with HD camcorder in live television](/siteassets/resources/images/-news-centre/thumbnail-images/tv-and-on-demand/bulletin-500-web.jpg?width=1920&height=1085&quality=80)
+
+### Marking 500 Broadcast Bulletins
+
+17 June 2024](https://www.ofcom.org.uk/tv-radio-and-on-demand/broadcast-standards/marking-500-broadcast-bulletins/)
+
+[![election-web](/siteassets/resources/images/-news-centre/thumbnail-images/about-ofcom/election-web.jpg?width=1920&height=1085&quality=80)
+
+### Ofcom’s role in a General Election – what you need to know
+
+29 May 2024](https://www.ofcom.org.uk/about-ofcom/what-we-do/ofcoms-role-in-a-general-election--what-you-need-to-know/)
+
+[![Global Online Safety Regulators Network logo](/siteassets/resources/images/-news-centre/thumbnail-images/online-safety/gosrn-web.jpg?width=1920&height=1085&quality=80)
+
+### Global online safety regulators map out vision to improve international coordination
+
+24 May 2024](https://www.ofcom.org.uk/about-ofcom/international-work/global-online-safety-regulators-map-out-vision-to-improve-international-coordination/)
+
+[![royal-mail-post-office-delivery-vans-parked](/siteassets/resources/images/-news-centre/thumbnail-images/post/royal-mail-post-office-delivery-vans-parked.jpg?width=1920&height=1085&quality=80)
+
+### Ofcom investigates Royal Mail’s delivery performance
+
+24 May 2024](https://www.ofcom.org.uk/post/royal-mail/ofcom-investigates-royal-mails-delivery-performance/)
+
+ [Cymraeg](https://www.ofcom.org.uk/cy/about-ofcom/corporate-policies/general-privacy-statement/ "Switch to Welsh")
+
+1. [Home](https://www.ofcom.org.uk/)
+2. [About Ofcom](https://www.ofcom.org.uk/about-ofcom/)
+3. [Corporate policies](https://www.ofcom.org.uk/about-ofcom/corporate-policies/)
+4. General Privacy Statement
+
+**General Privacy Statement – How we handle your personal data**
+================================================================
+
+[About Ofcom](https://www.ofcom.org.uk/about-ofcom/) [Corporate policies](https://www.ofcom.org.uk/about-ofcom/corporate-policies/)
+
+Published: 10 February 2023
+
+Last updated: 27 February 2024
 
 Ofcom ('the Office of Communications') is the communications regulator for the United Kingdom. It collects and processes personal data that it needs to carry out its statutory functions and to operate as a public body, including employing and contracting staff. This general statement covers all of these various purposes. In most cases we will collect that data from you directly (for example, if you are applying for a licence from us), however from time to time we might need to collect personal data about you from a third party, such as your communications provider.
 
@@ -127,8 +181,9 @@ Whenever we request personal data for a specific purpose that is not covered in 
 
 Ofcom is committed to protecting your privacy in accordance with data protection legislation.
 
+### 
+
 Recruitment Privacy Notice
---------------------------
 
 In order to ensure that you are fully aware of how your data will be processed, stored and shared as part of your application to Ofcom please read the below statement carefully.
 
@@ -245,8 +300,9 @@ Where you have consented to us using your details to send information about futu
 
 Omni and Ofcom only process your personal information in compliance with this privacy notice and in accordance with the relevant data protection laws. If, however you wish to raise a complaint regarding the processing of your personal data or are unsatisfied with how we have handled your information, you have the right to lodge a complaint with Omni and or Ofcom and the supervisory authority, the ICO: [https://ico.org.uk/concerns/](https://ico.org.uk/concerns) Please see Omni and Ofcom’s privacy notices for contact details.
 
+### 
+
 Why is Ofcom collecting my personal data?
------------------------------------------
 
 Ofcom collects personal data that it needs to perform its statutory functions, to operate as an organisation and to comply with its legal obligations.
 
@@ -254,8 +310,9 @@ Ofcom’s statutory functions include (but are not limited to) its duties and po
 
 As an organisation Ofcom needs to employ staff and to contract with third-party service providers. Ofcom’s legal obligations include its obligations under the Equalities Act 2010, for example, and its duties as an employer under applicable employment and tax legislation.
 
+### 
+
 What personal data does Ofcom collect?
---------------------------------------
 
 Depending on the purpose and context, the personal data Ofcom collects may include:
 
@@ -271,10 +328,11 @@ Depending on the purpose and context, the personal data Ofcom collects may inclu
 
 In carrying out our functions, Ofcom may from time to time collect personal data which users of online media platforms (for example, Twitter, Facebook, Instagram, YouTube, news websites and other public blogs/forums) have chosen to make publicly available.
 
-Ofcom may also from time to time collect personal data through the use of “fictional personas” when carrying out research into online media platforms’ processes and functions. This may involve interaction (like following/friending) with other accounts on the platform, including private accounts (in limited circumstances and in accordance with research protocols designed to minimise the impact on other users), where this is necessary for the purposes of the research. We will publish transparency notices notifying people about such research projects on our website. For more information, please read our [transparency notice](https://www.ofcom.org.uk/research-and-data/online-research/transparency-notice).
+Ofcom may also from time to time collect personal data through the use of “fictional personas” when carrying out research into online media platforms’ processes and functions. This may involve interaction (like following/friending) with other accounts on the platform, including private accounts (in limited circumstances and in accordance with research protocols designed to minimise the impact on other users), where this is necessary for the purposes of the research. We will publish transparency notices notifying people about such research projects on our website. For more information, please read our [transparency notice](https://www.ofcom.org.uk/online-safety/transparency-notice/).
+
+### 
 
 How will Ofcom use my personal data?
-------------------------------------
 
 Ofcom may use your personal data for the purposes of carrying out its statutory functions, including Ofcom’s law enforcement functions, and complying with its legal obligations. Ofcom may also use your personal data where there are reasons of substantial public interest to do so, or where it has otherwise obtained your consent.
 
@@ -304,25 +362,29 @@ Ofcom may also, from time to time, need to share your personal data with other t
 
 We may use machine learning programmes to help us as we analyse large datasets, but we will not use automated means to take decisions about individuals.
 
+### 
+
 How long will Ofcom keep my personal data for?
-----------------------------------------------
 
 Ofcom will determine the period for which it needs to keep your personal data having regard to the reasons and purposes for which it was collected, our statutory duties and other legal obligations, the exercise and defence of any legal claims, including the period within which any current or potential future legal claims may be brought.
 
+### 
+
 How will Ofcom keep my data secure?
------------------------------------
 
 Ofcom has put in place appropriate technical and organisational measures to protect your personal data and to prevent any unauthorised or unlawful processing and any accidental loss, destruction or damage to it.
 
 From time to time, Ofcom may need to transfer personal data to other countries, for example, where personal data is being stored securely in the cloud and the relevant servers are located overseas. We will, in these circumstances, first ensure that the relevant country has the appropriate safeguards in place to protect your personal data.
 
-Cookies
--------
+### 
 
-Like most websites, we use cookies to improve the quality of the website and your experience of it. Our [cookies statement](https://www.ofcom.org.uk/about-ofcom/website/cookies-policy) explains more.
+Cookies
+
+Like most websites, we use cookies to improve the quality of the website and your experience of it. Our [cookies statement](https://www.ofcom.org.uk/about-ofcom/our-website/cookies-policy/) explains more.
+
+### 
 
 HR Privacy Notice
------------------
 
 As your employer (including where you are on secondment to Ofcom, or may be working for us as a freelance contractor), or prospective employer or where you perform a role for Ofcom as a non-executive member of a Committee, Board or Panel (whether or not you are directly employed by Ofcom), Ofcom is required to keep and process information about you for normal employment purposes. The information we hold and process will be used only for our management and administrative use, to carry out our employment or related tasks, or to comply with our legal obligations. We will hold and use it to enable us to run the business and manage our relationship with you effectively, lawfully and appropriately, in connection with the recruitment process, whilst you are an Ofcom employee (or whilst you are appointed as a non-executive member of a Committee, Board or Panel), at the time when your employment or appointment ends and, usually, for a period of 6 years after you have left or cease to be a non-executive member of a Committee, Board or Panel. This includes using information to enable us to:
 
@@ -365,31 +427,33 @@ Where we have collected your personal data for the purposes of our employment fu
 
 As set out in our General Privacy Notice, if, in the future, we intend to process your personal data for a purpose other than that for which it was collected, we will provide you with information on that purpose and any other relevant information.
 
+### 
+
 What are my rights in relation to my personal data?
----------------------------------------------------
 
 Under data protection legislation, you have rights to access your personal data and, in certain circumstances to: object to the processing of the data, or to request that it be rectified or erased; request that the processing of the data is restricted; and to data portability of that data.  Where Ofcom is relying on your consent in order to use your personal data you may withdraw that consent at any time (however this will not affect the lawfulness of the data processing before your consent was withdrawn).
 
+### 
+
 How do I contact Ofcom?
------------------------
 
 Should you wish to confirm whether or not Ofcom holds personal data about you, request copies of that data, or make any other request in relation to your personal data, you should send this to Ofcom’s Information Requests team at: [information.requests@ofcom.org.uk](mailto:information.requests@ofcom.org.uk)
 
 If it would be helpful, you can use the form below to make your request:
 
-**[Request form (PDF, 138.1 KB)](https://www.ofcom.org.uk/__data/assets/pdf_file/0017/32705/Data-Protection-Subject-Request-Form.pdf)**
+**[Request form (PDF, 138.1 KB)](https://www.ofcom.org.uk/siteassets/resources/documents/about-ofcom/request-forms/data-protection-subject-request-form.pdf)**
 
-**[Request form (RTF, 748.1 KB)](https://www.ofcom.org.uk/__data/assets/file/0021/32493/Data-Protection-Subject-Request-Form.rtf)**
+**[Request form (RTF, 748.1 KB)](https://www.ofcom.org.uk/siteassets/resources/documents/about-ofcom/request-forms/data-protection-subject-request-form.rtf)**
 
 Should you wish to make a request for personal data that we may hold about someone other than yourself, for example because you are carrying out an investigation under statutory powers, you may wish to use one of the following forms:
 
-**[Request form - Law enforcement agencies (PDF, 104.7 KB)](https://www.ofcom.org.uk/__data/assets/pdf_file/0017/72422/Data-Request-Form-Law-Enforcement-Agencies-.pdf)**
+**[Request form - Law enforcement agencies (PDF, 104.7 KB)](https://www.ofcom.org.uk/siteassets/resources/documents/about-ofcom/request-forms/data-request-form-law-enforcement-agencies-.pdf)**
 
-**[Request form - Law enforcement agencies (RTF, 745.2 KB)](https://www.ofcom.org.uk/__data/assets/file/0024/71547/Data-Request-Form-Law-Enforcement-Agencies-.rtf)**
+**[Request form - Law enforcement agencies (RTF, 745.2 KB)](https://www.ofcom.org.uk/siteassets/resources/documents/about-ofcom/request-forms/data-request-form-law-enforcement-agencies-.rtf)**
 
-**[Request form - Law enforcement agencies (Marine division) (PDF, 105.6 KB)](https://www.ofcom.org.uk/__data/assets/pdf_file/0027/81468/Data-Request-Form-Law-Enforcement-Agencies-Marine-Division.pdf)**
+**[Request form - Law enforcement agencies (Marine division) (PDF, 105.6 KB)](https://www.ofcom.org.uk/siteassets/resources/documents/about-ofcom/request-forms/data-request-form-law-enforcement-agencies-marine-division.pdf)**
 
-**[Request form - Law enforcement agencies (Marine division) (RTF, 748.1 KB)](https://www.ofcom.org.uk/__data/assets/file/0027/81459/Data-Request-Form-Law-Enforcement-Agencies-Marine-Division.rtf)**
+**[Request form - Law enforcement agencies (Marine division) (RTF, 748.1 KB)](https://www.ofcom.org.uk/siteassets/resources/documents/about-ofcom/request-forms/data-request-form-law-enforcement-agencies-marine-division.rtf)**
 
 Ofcom’s handing of personal data is overseen by our Corporation Secretary, who is Ofcom’s Data Protection Officer. Should you wish to query the way Ofcom is handling your personal data or submit a complaint about this you should address this to our Data Protection Officer at:
 
@@ -404,8 +468,9 @@ Tel: 020 7981 3000
 
 Email: [corporationsecretary@ofcom.org.uk](mailto:corporationsecretary@ofcom.org.uk)
 
+### 
+
 Complaints to the Information Commissioner
-------------------------------------------
 
 If you are unhappy with the way that Ofcom is dealing with your personal data, and have already raised your complaint with Ofcom, you can make a complaint to the [Information Commissioner’s Office](https://ico.org.uk/) at:
 
@@ -420,41 +485,37 @@ Tel: 0303 123 1113 (local rate) or 01625 545 745 if you prefer to use a national
 
 Email: [casework@ico.org.uk](mailto:casework@ico.org.uk).
 
-Add to Your Pages
+[Back to top](#)
 
-[Subscribe to update emails](https://www.ofcom.org.uk/email-updates)
+[Subscribe to email updates](https://www.ofcom.org.uk/email-updates/)
 
-Footer
-------
+Follow us
+---------
 
-* [X (Twitter)](https://twitter.com/ofcom "X (Twitter)")
-* [Facebook](https://www.facebook.com/ofcom "Facebook")
-* [LinkedIn](https://www.linkedin.com/company/ofcom "LinkedIn")
-* [YouTube](https://www.youtube.com/ofcom "YouTube")
-* [Instagram](https://www.instagram.com/ofcom.org.uk/ "Instagram")
-* [TikTok](https://www.tiktok.com/@ofcom.org.uk "TikTok")
+* [x-twitter](https://x.com/ofcom "x-twitter")
+* [facebook](https://www.facebook.com/ofcom "facebook")
+* [linkedin](https://www.linkedin.com/company/ofcom "linkedin")
+* [youtube](https://www.youtube.com/ofcom "youtube")
+* [instagram](https://www.instagram.com/ofcom.org.uk/ "instagram")
+* [tiktok](https://www.tiktok.com/@ofcom.org.uk "tiktok")
 
-### Advice for businesses
+About Ofcom
+-----------
 
-* [A starter pack for businesses](https://www.ofcom.org.uk/advice-for-businesses/inexperienced-digital-users "A starter pack for businesses")
-* [Knowing your rights](https://www.ofcom.org.uk/advice-for-businesses/knowing-your-rights "Knowing your rights")
-* [Read all our advice for businesses](https://www.ofcom.org.uk/advice-for-businesses "Read all our advice for businesses")
+* [What is Ofcom?](https://www.ofcom.org.uk/about-ofcom/what-we-do/what-is-ofcom/ "What is Ofcom?")
+* [Contact us](https://www.ofcom.org.uk/about-ofcom/what-we-do/contact-us/ "Contact us")
+* [Nations and regions](https://www.ofcom.org.uk/about-ofcom/structure-and-leadership/nations-and-regions/ "Ofcom in the nations and regions")
+* [Jobs](https://ofcom.wd3.myworkdayjobs.com/Ofcom_Careers "Jobs at Ofcom")
+* [General Privacy Statement](https://www.ofcom.org.uk/about-ofcom/corporate-policies/general-privacy-statement/ "General Privacy Statement")
+* [Modern slavery statement](https://www.ofcom.org.uk/about-ofcom/corporate-policies/modern-slavery-statement/ "Modern slavery statement")
+* [Our work in Welsh](https://www.ofcom.org.uk/about-ofcom/structure-and-leadership/welsh-language/ "Our work in the Welsh language")
 
-### About Ofcom
+About this website
+------------------
 
-* [What is Ofcom?](https://www.ofcom.org.uk/about-ofcom/what-is-ofcom "What is Ofcom?")
-* [Contact us](https://www.ofcom.org.uk/about-ofcom/contact-us "Contact us")
-* [Nations and regions](https://www.ofcom.org.uk/about-ofcom/how-ofcom-is-run/nations-and-regions "Nations and regions")
-* [Jobs](https://careers.ofcom.org.uk/ "Jobs")
-* [General Privacy Statement](https://www.ofcom.org.uk/about-ofcom/foi-dp/general-privacy-statement "General Privacy Statement")
-* [Modern slavery statement](https://www.ofcom.org.uk/about-ofcom/policies-and-guidelines/supplying-ofcom/modern-slavery-statement "Modern slavery statement")
-* [Our work in Welsh](https://www.ofcom.org.uk/about-ofcom/how-ofcom-is-run/nations-and-regions/wales/welsh-language "Our work in Welsh")
-
-### About this website
-
-* [Accessibility](https://www.ofcom.org.uk/about-ofcom/website/accessibility "Accessibility")
-* [Cookies Policy](https://www.ofcom.org.uk/about-ofcom/website/cookies-policy "Cookies Policy")
-* [Terms of Use](https://www.ofcom.org.uk/about-ofcom/website/terms-of-use "Terms of Use")
-* [Copyright and information re-use](https://www.ofcom.org.uk/about-ofcom/website/copyright "Copyright and information re-use")
+* [Accessibility](https://www.ofcom.org.uk/about-ofcom/accessibility/accessibility/ "Accessibility of Ofcom's website")
+* [Cookies policy](https://www.ofcom.org.uk/about-ofcom/our-website/cookies-policy/ "Cookies policy")
+* [Terms of use](https://www.ofcom.org.uk/about-ofcom/our-website/terms-of-use/ "Terms of use")
+* [Copyright and information re-use](https://www.ofcom.org.uk/about-ofcom/our-website/copyright/ "Copyright and information re-use")
 
 © Ofcom 2024
