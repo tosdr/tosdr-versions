@@ -1,5 +1,3 @@
-![](https://s.lalal.ai/img/sale-graphic/sun.svg) LALAL.AI Summer Sale ![](https://s.lalal.ai/img/sale-graphic/sun.svg) Get 650 minutes at 50% OFF ![](https://s.lalal.ai/img/sale-graphic/sun.svg) Only till June 12 ![](https://s.lalal.ai/img/sale-graphic/sun.svg)
-
 [](https://www.lalal.ai/)
 
 Products New
