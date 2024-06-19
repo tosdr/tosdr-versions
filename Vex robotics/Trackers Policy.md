@@ -1,16 +1,6 @@
 Cookie Policy of VEX Robotics
 -----------------------------
 
-To find more information on California consumers and their privacy rights, Users may [read the privacy policy](https://www.iubenda.com/privacy-policy/89449486/legal?from_cookie_policy=true&no_markup=false "Show the complete Privacy Policy").
-
-To find more information on Virginia consumers and their privacy rights, Users may [read the privacy policy](https://www.iubenda.com/privacy-policy/89449486/legal?from_cookie_policy=true&no_markup=false "Show the complete Privacy Policy").
-
-To find more information on Colorado consumers and their privacy rights, Users may [read the privacy policy](https://www.iubenda.com/privacy-policy/89449486/legal?from_cookie_policy=true&no_markup=false "Show the complete Privacy Policy").
-
-To find more information on Connecticut consumers and their privacy rights, Users may [read the privacy policy](https://www.iubenda.com/privacy-policy/89449486/legal?from_cookie_policy=true&no_markup=false "Show the complete Privacy Policy").
-
-To find more information on Utah consumers and their privacy rights, Users may [read the privacy policy](https://www.iubenda.com/privacy-policy/89449486/legal?from_cookie_policy=true&no_markup=false "Show the complete Privacy Policy").
-
 This document informs Users about the technologies that help this Application to achieve the purposes described below. Such technologies allow the Owner to access and store information (for example by using a Cookie) or use resources (for example by running a script) on a User’s device as they interact with this Application.
 
 For simplicity, all such technologies are defined as "Trackers" within this document – unless there is a reason to differentiate.  
@@ -54,6 +44,26 @@ This Application uses so-called “technical” Cookies and other similar Tracke
     Personal Data processed: Trackers and Usage Data.
     
     Place of processing: United States – [Privacy Policy](https://www.akamai.com/us/en/privacy-policies/).
+    
+* ### Spam and bots protection
+    
+    This type of service analyzes the traffic of this Application, potentially containing Users' Personal Data, with the purpose of filtering it from unwanted parts of traffic, messages and content that are recognized as spam or protecting it from malicious bots activities.
+    
+    #### Cloudflare Bot Management (Cloudflare, Inc.)
+    
+    Cloudflare Bot Management is a malicious bot protection and management service provided by Cloudflare, Inc.
+    
+    Personal Data processed: app information, Application opens, browser information, browsing history, city, clicks, country, county, custom events, device information, device logs, geography/region, interaction events, IP address, keypress events, language, latitude (of city), launches, longitude (of city), metro area, motion sensor events, mouse movements, number of sessions, operating systems, page events, page views, province, scroll position, scroll-to-page interactions, search history, session duration, session statistics, state, touch events, Trackers, Usage Data, video views and ZIP/Postal code.
+    
+    Place of processing: United States – [Privacy Policy](https://www.cloudflare.com/privacypolicy/).
+    
+    Storage duration:
+    
+    * \_\_cf\_bm: 3 seconds
+    * \_\_cfruid: duration of the session
+    * cf\_ob\_info: 3 seconds
+    * cf\_use\_ob: 3 seconds
+    * cfmrk\_cic: 3 months
     
 
 ### Other activities involving the use of Trackers
@@ -364,7 +374,7 @@ This privacy statement has been prepared based on provisions of multiple legisla
 
 This privacy policy relates solely to this Application, if not stated otherwise within this document.
 
-Latest update: March 08, 2024
+Latest update: June 17, 2024
 
 [iubenda](https://www.iubenda.com/en/cookie-solution "iubenda - Cookie Policy and Cookie Solution") hosts this content and only collects [the Personal Data strictly necessary](https://www.iubenda.com/privacy-policy/65675001) for it to be provided.
 
