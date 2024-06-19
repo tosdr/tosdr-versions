@@ -1,6 +1,6 @@
 [Skip to main content](#skip-main)
 
-Phone service is open 7 days a week, live chat 24/7
+[Phone service is open 7 days a week, live chat 24/7](https://www.voromotors.com/collections/fathers-day-bundle-collection "https://www.voromotors.com/collections/fathers-day-bundle-collection")
 
 Menu [![VORO MOTORS](//www.voromotors.com/cdn/shop/files/logo_white_410x.png?v=1613759451)](https://www.voromotors.com/en-gb "VORO MOTORS")
 
@@ -144,6 +144,7 @@ Menu [![VORO MOTORS](//www.voromotors.com/cdn/shop/files/logo_white_410x.png?v=1
         * [About Us](https://www.voromotors.com/en-gb/pages/about)
         * [Partner Program](https://www.voromotors.com/en-gb/pages/partner-program)
         * [Become a Dealer](https://www.voromotors.com/en-gb/pages/retailer-enquiry)
+        * [Careers](https://www.voromotors.com/en-gb/pages/career-opportunities)
         * [Contact Us](https://www.voromotors.com/en-gb/pages/contact-us)
     *  [](https://www.voromotors.com/en-gb#)
 * [Our Stories](https://www.voromotors.com/en-gb/pages/blog-home)
@@ -158,7 +159,7 @@ Menu [![VORO MOTORS](//www.voromotors.com/cdn/shop/files/logo_white_410x.png?v=1
     * EUR
     * JPY
 
-Phone service is open 7 days a week, live chat 24/7
+[Phone service is open 7 days a week, live chat 24/7](https://www.voromotors.com/collections/fathers-day-bundle-collection "https://www.voromotors.com/collections/fathers-day-bundle-collection")
 
 * [](https://www.facebook.com/voromotors/?hc_ref=ARQt5oqSRDb3O_2dEeqJf59C-0aG1zH3i68aiYoxYjZddTaL3EBY2I-npawa3-pm4zY&fref=nf&__xts__[0]=68.ARBnR8fjq1PI-62n0AGbymqjO7N1yW0RJu0-fc_uFFEiwGCxljiit_Cqr9RcgQSywZ9gXhwCLM9rWCyHk9BtF7kd7J4Zp0ay3rj9-wuGn6FvpyK3pQhZGnD_jRYFDPhgQg00Bahz2QH9qjJcsbvnGurdzantzaIoLXFjQBUesFZQ0hu5P2V_m0jsAFF4-spGlFIhonboGzEhhvyK8m22L7XU_fmStWE3-GWxJdGVI_aPRBfTJm_42V5uqUk46OE1wIRkFnysjCUacVYdvKvPdzGJEbjV7nBu6FdQhyTA0F8ochmKtT8_epk&__tn__=kC-R "VORO MOTORS on Facebook")
 * [](https://www.youtube.com/c/VOROMOTORS?sub_confirmation=1 "VORO MOTORS on YouTube")
@@ -381,6 +382,7 @@ Continue Shopping
 * [About Us](https://www.voromotors.com/en-gb/pages/about)
 * [Partner Program](https://www.voromotors.com/en-gb/pages/partner-program)
 * [Become a Dealer](https://www.voromotors.com/en-gb/pages/retailer-enquiry)
+* [Careers](https://www.voromotors.com/en-gb/pages/career-opportunities)
 * [Contact Us](https://www.voromotors.com/en-gb/pages/contact-us)
 
 *  [](https://www.voromotors.com/en-gb#)
@@ -606,6 +608,8 @@ We partner with companies like Extend to ensure your order arrives to your doors
 * [Events](https://www.voromotors.com/en-gb/pages/electric-scooter-group-ride-events)
     
 * [Media](mailto:media@voromotors.com)
+    
+* [Careers](https://www.voromotors.com/en-gb/pages/career-opportunities)
     
 * [Contact us](https://www.voromotors.com/en-gb/pages/contact-us)
     
