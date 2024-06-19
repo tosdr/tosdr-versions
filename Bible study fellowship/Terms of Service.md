@@ -332,7 +332,7 @@ Email
 
 [Careers](https://www.bsfinternational.org/careers)
 
-[Impact](https://www.bsfinternational.org/wp-content/uploads/2023/03/BSF-Impact-Report-2022.pdf)
+[Impact](https://www.bsfinternational.org/impact)
 
 [News](https://www.bsfblog.org/bsf-news/)
 
