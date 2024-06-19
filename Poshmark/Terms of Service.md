@@ -22,7 +22,7 @@ Terms of Service
 
 Version Version 4.0  (Current) Version 3.0 Version 2.0 Version 1.0
 
-##### Effective December 19, 2023
+##### Effective December 19th 2023
 
 [Download](https://vault.pactsafe.io/s/c4be733d-0a0a-4da6-9352-575559a32728/versions/6580df55d2d35ace6e129c2b.pdf)
 
@@ -455,7 +455,7 @@ If you have any questions about these Terms or would like to report a violation 
 
   
 
-##### Effective December 18, 2023  to  December 19, 2023
+##### Effective December 18th 2023  to  December 19th 2023
 
 [Download](https://vault.pactsafe.io/s/c4be733d-0a0a-4da6-9352-575559a32728/versions/65722a3ec8cd461507a2f480.pdf)
 
@@ -888,7 +888,7 @@ If you have any questions about these Terms or would like to report a violation 
 
   
 
-##### Effective September 7, 2022  to  December 18, 2023
+##### Effective September 7th 2022  to  December 18th 2023
 
 [Download](https://vault.pactsafe.io/s/c4be733d-0a0a-4da6-9352-575559a32728/versions/6318c5b26eb97646e0e7b29f.pdf)
 
@@ -1132,7 +1132,7 @@ Notwithstanding anything to the contrary in the rest of the Agreement, the follo
 
 **18.4.2 Governing Law.** These Terms shall be governed by the laws of New South Whales without regard to its conflict of law provisions, and you agree to the personal and exclusive jurisdiction of and venue in the courts of Sydney, New South Whales and waive any objection to such jurisdiction or venue.
 
-##### Effective September 7, 2022  to  September 7, 2022
+##### Effective September 7th 2022  to  September 7th 2022
 
 [Download](https://vault.pactsafe.io/s/c4be733d-0a0a-4da6-9352-575559a32728/versions/630fea1f7c41555c3bb884d5.pdf)
 
@@ -1374,7 +1374,7 @@ Privacy Policy
 
 Version Version 4.1  (Current) Version 4.0 Version 3.0 Version 2.0 Version 1.0
 
-##### Effective February 4, 2024
+##### Effective February 4th 2024
 
 [Download](https://vault.pactsafe.io/s/c4be733d-0a0a-4da6-9352-575559a32728/versions/65bbf81121073ae5ac8195dc.pdf)
 
@@ -1540,7 +1540,7 @@ If you have any questions about this Privacy Policy, you may contact us at [priv
 
   
 
-##### Effective December 18, 2023  to  February 4, 2024
+##### Effective December 18th 2023  to  February 4th 2024
 
 [Download](https://vault.pactsafe.io/s/c4be733d-0a0a-4da6-9352-575559a32728/versions/6580d09aa20203a9086c4610.pdf)
 
@@ -1728,7 +1728,7 @@ If you have any questions about this Privacy Policy, you may contact us at [priv
 
   
 
-##### Effective December 18, 2023  to  December 18, 2023
+##### Effective December 18th 2023  to  December 18th 2023
 
 [Download](https://vault.pactsafe.io/s/c4be733d-0a0a-4da6-9352-575559a32728/versions/65723f0c4d1c6648951d849f.pdf)
 
@@ -1916,7 +1916,7 @@ If you have any questions about this Privacy Policy, you may contact us at [priv
 
   
 
-##### Effective September 7, 2022  to  December 18, 2023
+##### Effective September 7th 2022  to  December 18th 2023
 
 [Download](https://vault.pactsafe.io/s/c4be733d-0a0a-4da6-9352-575559a32728/versions/6318c5e3c9eeca5e4586bc51.pdf)
 
@@ -2121,7 +2121,7 @@ This section applies only to California residents. For purposes of this section,
 | **Protected Classification Characteristics** | Age (40 years or older), race, color, ancestry, national origin, citizenship, religion or creed, marital status, medical condition, physical or mental disability, sex (including gender, gender identity, gender expression, pregnancy or childbirth and related medical conditions), sexual orientation, veteran or military status, genetic information (including familial genetic information) | * Profile data (optional: gender and/or age) |
 | **Sensory Information** | Audio, electronic, visual, thermal, olfactory, or similar information. | * Profile data<br>* Your content |
 
-##### Effective September 7, 2022  to  September 7, 2022
+##### Effective September 7th 2022  to  September 7th 2022
 
 [Download](https://vault.pactsafe.io/s/c4be733d-0a0a-4da6-9352-575559a32728/versions/630feb1e7c41555c3bb8a3a3.pdf)
 
@@ -2320,7 +2320,7 @@ California Privacy Notice
 
 Version Version 4.0  (Current) Version 3.0 Version 2.0 Version 1.0
 
-##### Effective December 19, 2023
+##### Effective December 19th 2023
 
 [Download](https://vault.pactsafe.io/s/c4be733d-0a0a-4da6-9352-575559a32728/versions/6581066acf18560d5fc8c001.pdf)
 
@@ -2459,7 +2459,7 @@ We reserve the right to revise this Privacy Notice from time to time. We will po
 
 If you have any questions about this Notice, please contact us at [privacy@poshmark.com](mailto:privacy@poshmark.com).
 
-##### Effective December 19, 2023  to  December 19, 2023
+##### Effective December 19th 2023  to  December 19th 2023
 
 [Download](https://vault.pactsafe.io/s/c4be733d-0a0a-4da6-9352-575559a32728/versions/6580e2ab90928ea536645f62.pdf)
 
@@ -2596,7 +2596,7 @@ We reserve the right to revise this Privacy Notice from time to time. We will po
 
 If you have any questions about this Notice, please contact us at [privacy@poshmark.com](mailto:privacy@poshmark.com).
 
-##### Effective December 18, 2023  to  December 19, 2023
+##### Effective December 18th 2023  to  December 19th 2023
 
 [Download](https://vault.pactsafe.io/s/c4be733d-0a0a-4da6-9352-575559a32728/versions/6580d8b841958ecceead61e5.pdf)
 
@@ -2733,7 +2733,7 @@ We reserve the right to revise this Privacy Notice from time to time. We will po
 
 If you have any questions about this Notice, please contact us at [privacy@poshmark.com](mailto:privacy@poshmark.com).
 
-##### Effective December 18, 2023  to  December 18, 2023
+##### Effective December 18th 2023  to  December 18th 2023
 
 [Download](https://vault.pactsafe.io/s/c4be733d-0a0a-4da6-9352-575559a32728/versions/656a307dad62f3788dbca610.pdf)
 
@@ -2875,7 +2875,7 @@ Minors Policy
 
 Version Version 1.0  (Current)
 
-##### Effective December 18, 2023
+##### Effective December 18th 2023
 
 [Download](https://vault.pactsafe.io/s/c4be733d-0a0a-4da6-9352-575559a32728/versions/656a2f0afa6adeaa67e61ad7.pdf)
 
@@ -2904,7 +2904,7 @@ Seller Policy
 
 Version Version 1.0  (Current)
 
-##### Effective December 18, 2023
+##### Effective December 18th 2023
 
 [Download](https://vault.pactsafe.io/s/c4be733d-0a0a-4da6-9352-575559a32728/versions/656a2e5fb2d1c70ef5ce0ddf.pdf)
 
@@ -2977,7 +2977,7 @@ Buyer Policy
 
 Version Version 1.0  (Current)
 
-##### Effective December 18, 2023
+##### Effective December 18th 2023
 
 [Download](https://vault.pactsafe.io/s/c4be733d-0a0a-4da6-9352-575559a32728/versions/656a2e1aba2db53fd7eee52e.pdf)
 
@@ -3030,7 +3030,7 @@ Fee Policy
 
 Version Version 1.0  (Current)
 
-##### Effective December 18, 2023
+##### Effective December 18th 2023
 
 [Download](https://vault.pactsafe.io/s/c4be733d-0a0a-4da6-9352-575559a32728/versions/656a2e857c5752be21c75ef3.pdf)
 
@@ -3057,9 +3057,195 @@ Buyers are responsible for any shipping costs incurred with respect to their pur
 Prohibited Items Policy
 -----------------------
 
-Version Version 2.0  (Current) Version 1.0
+Version Version 3.0  (Current) Version 2.0 Version 1.0
 
-##### Effective February 15, 2024
+##### Effective June 11th 2024
+
+[Download](https://vault.pactsafe.io/s/c4be733d-0a0a-4da6-9352-575559a32728/versions/66676727a41f28ff4fa1dbb7.pdf)
+
+* * *
+
+### Table of Contents
+
+* * *
+
+**Prohibited Items Policy**
+
+Poshmark’s marketplace welcomes the sale of most types of new and pre-owned fashion, new personal care items, as well as select home goods, pet items, and electronics with certain restrictions within these categories. For the safety of our users, items outside of our supported categories and otherwise prohibited or unlawful items may not be offered for sale on Poshmark. We reserve the right to remove items and content under this policy, or any other Poshmark policies and Terms of Service, at our sole discretion.
+
+If you sell items on Poshmark, you have a critical role in preventing illegal and potentially unsafe items from appearing in our marketplace, so please be sure your items are allowed to be sold before adding them to your closet. If you list prohibited items or otherwise include them as part of any transaction or shipment, Poshmark may remove them, and you may be subject to temporary or permanent account restrictions.
+
+Any sales involving prohibited items may be canceled and Poshmark reserves the right to withhold payment. Poshmark also reserves the right to dispose or destroy any prohibited items that are sent to our Posh Authenticate centers.
+
+If you’re not sure which laws may apply to you, you may wish to seek advice from a qualified professional.
+
+If you see an item for sale on Poshmark that you believe may be in violation of this policy, please [report it](https://support.poshmark.com/s/article/170482489) to us. We will look into it and take any necessary actions.
+
+**1\. Restricted Items**
+
+Restricted items include those that are generally allowed but must meet certain conditions in order to be considered in compliance with Poshmark’s policies.
+
+**Electronics**
+
+[Qualifying electronic items](https://support.poshmark.com/s/article/the-Electronics-Market) must be reset to factory settings if applicable. Sellers must sign out of or disable any personal accounts prior to shipping.
+
+**Makeup and Personal Care Products**
+
+Makeup and personal care items, including personal applicators, must be new, never swatched, and alcohol-free. Aerosols, perfumes, and nail polish may not be shipped using Poshmark’s shipping labels and are not currently allowed to be sold outside of limited pre-authorized test programs leveraging non-Poshmark shipping labels.
+
+Qualifying liquid products must be in new condition within its original factory-sealed packaging. Bodily fluids, flammable, and other hazardous liquids are not allowed in any condition.
+
+**Mystery Boxes**
+
+“Mystery boxes,” “mystery listings,” or any grab-bag style bundles are permitted at the buyer’s and seller’s own risk. Mystery boxes for unclaimed parcels and listings involving chance winnings or a contest are not allowed. In order to offer “mystery boxes” and qualify for seller protection in the event of a dispute involving a mystery listing, sellers must:
+
+* disclose key details about the item(s) included in the mystery box including: quantity, brand(s), item(s) category, size(s) and condition of each item;
+* provide a truthful assessment of the value of the item(s) in the mystery box; and
+* keep the mystery box on camera and reveal the contents upon completion of the auction if sold during a Posh Show.
+
+**Socks and Underwear**
+
+For health and hygiene reasons, used socks and underwear may not be sold on Poshmark. New undergarments with tags attached are allowed to be sold in clean, unstained, and unused condition. Pre-owned bras and swimwear are allowed. Do not use any fetishizing language or imagery in your listing.
+
+**2\. Prohibited Items**
+
+Prohibited items are not allowed to be sold on Poshmark, no matter how they are presented. Users who attempt to buy or sell prohibited or otherwise illegal items risk immediate and permanent suspension from Poshmark, and other enforcement actions, such as withholding payments or funds.
+
+**Counterfeit and Infringing Products**
+
+Counterfeit products are illegal to buy and sell, and strictly prohibited on Poshmark. Often referred to as “replicas,” counterfeit items may include fakes, knockoffs, bootlegs, and otherwise illegally replicated goods.
+
+Examples of prohibited counterfeit items include but are not limited to:
+
+* Branded handbags, sneakers, and sports jerseys that were not produced by a licensed manufacturer, like a purse bearing the Chanel name or logo that was not made by Chanel;
+* Altered products made by embellishing, upcycling, or repurposing all or portions of trademarked and authentic branded items to change the form or function of the original item without the rights owner or brand’s permission, such as using material from a luxury bag to make a necklace or keychain; and/or
+* Pirated or unauthorized recordings of digital media, like movies and TV shows.
+
+See our [Counterfeit Items Policy](https://poshmark.com/counterfeit-items-policy) for more information.
+
+Be careful not to present your items in a way that may infringe on the intellectual property rights of others or mislead buyers about who made the product. Do not use descriptors like "inspired by" followed by a brand name, like “inspired by Chanel.” Buyers and brands may interpret this as if your item is an unauthorized copy, even if you may not intend it that way.
+
+Make sure that you have the rights to sell any items you list on Poshmark. Do not upload any images that you didn't take, that are of other people without their permission, or that you do not have the rights to use. Poshmark will promptly process and investigate notices of alleged infringement. See our Terms of Service for more information.
+
+**Nudity and Explicit Content**
+
+In order to maintain a welcoming community, sexually explicit items and content featuring nudity are not allowed on Poshmark. We define nudity as realistic female toplessness and perceptible genitalia (of any gender), including minimal coverage by sheer or very tight fabric.
+
+**Hateful and Violent Content**
+
+Everyone who uses Poshmark deserves to feel safe and welcome in our community. We do not allow content that inherently expresses, encourages, or glorifies hate or violence towards individuals or groups based on race, ethnicity, immigration status, national origin, religion, gender, gender identity, sexual orientation, disability, weight or size.
+
+Prohibited hateful and violent content includes but is not limited to:
+
+* Hateful speech and symbols;
+* Harmful stereotypes and demeaning depictions of protected groups;
+* Condoning the views or activities of hateful or violent groups or individuals;
+* Threatening or inciting violence towards others; and/or
+* Promoting self harm or suicide.
+
+**3\. Dangerous Items**
+
+Certain types of items may present an outsized risk of harm if produced, maintained, or used improperly. Oftentimes there are shipping restrictions and, in many cases, government regulations that apply to these products, so for the welfare of Poshmark buyers and sellers, items that may pose a hazard to health or safety are not allowed.
+
+Be sure to check with your shipping carrier and government resources to learn what restrictions may apply to you. If you are not sure, you may wish to consult with a qualified expert in your area.
+
+Shipping Resources:
+
+* [Canada Post Restrictions on Personal Shipping](https://www.canadapost-postescanada.ca/cpc/en/personal/sending/parcels/restrictions.page)
+* [USPS Domestic Shipping Prohibitions & Restrictions](https://www.usps.com/ship/shipping-restrictions.htm)
+
+**Food, Drugs, and Drug Paraphernalia**
+
+Poshmark is not the place to sell anything meant to be eaten or otherwise consumed by humans or animals. Do not list anything meant to be consumed including raw food ingredients, packaged food products, beverages, baby formula, and nutritional supplements.
+
+You are not allowed to sell illegal drugs on Poshmark, but we also prohibit over-the-counter drugs, prescription drugs, alcohol, tobacco, and drug-related paraphernalia that is meant for making, using, or concealing drugs.
+
+**Hazardous Materials**
+
+Poshmark prohibits hazardous materials, including but not limited to:
+
+* Aerosols and ozone-depleting substances;
+* Fuels, combustibles, and explosive precursors;
+* Carcinogens, poisons, and pesticides;
+* Radioactive materials; and/or
+* Toxic plant materials.
+
+**Knives and Weapons**
+
+With the exception of table knives, knives and weapons are not allowed on Poshmark. Weapons accessories, parts, and designs are also not allowed, nor are realistic toy and replica weapons.
+
+**Medical Devices and Prescription Items**
+
+Classified medical devices and prescription items are not allowed. Please do not list anything meant to be used to prevent, diagnose, or treat a medical condition. Common examples include body wraps, contact lenses, and breast pumps. Medical devices are prohibited regardless of whether they do or don’t require a prescription. If you are not sure whether your item is considered a medical device, you may wish to consult the [FDA Product Classification Database](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpcd/pcdsimplesearch.cfm) or a similar resource from your local authority.
+
+**Recalled and Highly Regulated Items**
+
+Poshmark prohibits the sale of items that have been recalled by governments or manufacturers. This includes items like lawn darts, [small high-powered magnet toys](https://www.cpsc.gov/Safety-Education/Safety-Education-Centers/Magnets), certain items with [button batteries](https://www.cpsc.gov/Safety-Education/Neighborhood-Safety-Network/Posters/Button-Battery-Dangers), and several baby products such as [toys with small parts](https://www.cpsc.gov/Business--Manufacturing/Business-Education/Business-Guidance/Small-Parts-for-Toys-and-Childrens-Products).
+
+Poshmark cooperates with various external authorities to identify and remove items that may pose safety concerns even if they have not been recalled. This may include items such as baby carriers and car seats, infant sleeper items, and certain personal protective equipment (PPE) such as helmets.
+
+Visit the Consumer Product Safety Commission’s [website](https://www.cpsc.gov/Recalls) or check with your local authority for more information on what items might be subject to a recall or regulation.
+
+Poshmark prohibits any item that originates from a location deemed as sanctioned by [The Office of Foreign Assets Control ("OFAC")](https://ofac.treasury.gov/). Do not list or otherwise attempt to sell through Poshmark any items that may have originated in the following locations:
+
+* Cuba
+* Crimea, (KYRM) region of Ukraine
+* Donetsk People’s Republic (DNR) region of Ukraine
+* Luhansk People’s Republic (LNR) region of Ukraine
+* Democratic People's Republic of Korea (North Korea)
+* Iran
+* Syria
+
+Certain items originating from Russia and Belarus are prohibited, as well as any item subject to the US Tariff Act or related acts.
+
+**4\. Plant and Animal Products**
+
+**Plants and Seeds**
+
+Poshmark does not allow the sale of living or viable plants and seeds.
+
+**Animals**
+
+Do not sell live animals, eggs, or any product derived from domestic cats and dogs or endangered animal species, regardless of when it was made. Trade of animal species listed in [Appendix I](https://cites.org/eng/app/appendices.php) of the Convention on International Trade in Endangered Species (CITES) is prohibited internationally.
+
+Some examples of prohibited animal products to refrain from listing on Poshmark include but are not limited to:
+
+* Elephant and mammoth ivory; commonly found in netsuke and okimono figurines, billiard balls, game pieces, and many kinds of jewelry;
+* Marine turtle shell; commonly found in bracelets, hair clips, and glasses;
+* Pangolin leather belts and boots, commonly misidentified as anteater; and/or
+* Cheetah, jaguar, leopard, lion, ocelot, and tiger fur, claws, and teeth; commonly found in coats and jewelry.
+
+For a full list of prohibited species and commonly related products, see the [Coalition to End Wildlife Trafficking Online](https://www.endwildlifetraffickingonline.org/coalition-prohibited-wildlife-policy).
+
+**Human Parts**
+
+Human body parts, waste, fluids, and remains are not allowed for legal and sanitary reasons. Wigs made of human hair are allowed.
+
+**5\. Deceptive Content**
+
+**Impersonation Items**
+
+Equipment and accessories that may enable someone to impersonate trusted figures such as current active police, military, airport, or emergency personnel are prohibited. This includes without limitation realistic-looking uniforms, badges, documents and credentials.
+
+**Medical Status Items**
+
+Medical documents, badges, and other potentially deceitful medical items are not allowed. This includes without limitation medical test results, vaccination status cards, and items designating service animals.
+
+**Misrepresented American Indian and Alaska Native Arts and Crafts**
+
+[The Indian Arts and Crafts Act](https://www.doi.gov/iacb/indian-arts-and-crafts-act-1990) is a truth-in-advertising law that prohibits misrepresentation in the marketing of American Indian art and craft products within the United States. It is illegal to offer or sell any art or craft product in a manner that falsely suggests it is the product of Native American, American Indian, or Alaska Native tribes or organizations.
+
+**Stolen Items**
+
+Stolen merchandise cannot be listed or sold on Poshmark as it violates state, federal, and international law. Poshmark will [cooperate with law enforcement](https://support.poshmark.com/s/article/policy-stolen-merchandise) to assist with the investigation of allegedly stolen goods, including sharing data in accordance with our Privacy Policy.
+
+**6\. Unsupported Content**
+
+Please do not list items outside of qualifying fashion, personal care items, and select [home goods](https://support.poshmark.com/s/article/Home-Items), [pet items](https://support.poshmark.com/s/article/Pets-Market), and [electronics](https://support.poshmark.com/s/article/the-Electronics-Market). Items outside of these categories are not allowed on Poshmark, even if not explicitly restricted or prohibited in this Prohibited Items Policy.
+
+  
+
+##### Effective February 15th 2024  to  June 11th 2024
 
 [Download](https://vault.pactsafe.io/s/c4be733d-0a0a-4da6-9352-575559a32728/versions/65cd07abba3663aef9aed986.pdf)
 
@@ -3233,7 +3419,7 @@ Please do not list items outside of qualifying fashion, personal care items, and
 
   
 
-##### Effective December 18, 2023  to  February 15, 2024
+##### Effective December 18th 2023  to  February 15th 2024
 
 [Download](https://vault.pactsafe.io/s/c4be733d-0a0a-4da6-9352-575559a32728/versions/656a2f2cad62f3788dbc697a.pdf)
 
@@ -3412,7 +3598,7 @@ Shipping Policy
 
 Version Version 1.0  (Current)
 
-##### Effective December 18, 2023
+##### Effective December 18th 2023
 
 [Download](https://vault.pactsafe.io/s/c4be733d-0a0a-4da6-9352-575559a32728/versions/656a2f69395938b407984099.pdf)
 
@@ -3471,7 +3657,7 @@ Return Policy
 
 Version Version 1.0  (Current)
 
-##### Effective December 18, 2023
+##### Effective December 18th 2023
 
 [Download](https://vault.pactsafe.io/s/c4be733d-0a0a-4da6-9352-575559a32728/versions/656a2ecf6a1c999e5a2cee01.pdf)
 
@@ -3507,7 +3693,7 @@ Posh Show Policy
 
 Version Version 1.0  (Current)
 
-##### Effective December 18, 2023
+##### Effective December 18th 2023
 
 [Download](https://vault.pactsafe.io/s/c4be733d-0a0a-4da6-9352-575559a32728/versions/656a2fb64a2322234840a0fd.pdf)
 
