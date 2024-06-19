@@ -7,12 +7,12 @@ Sign inAppearance
 Terms of Service
 ================
 
-_Last updated on **September 2, 2023**._
+_Last updated on **June 21, 2024**._
 
 Agreement To Terms
 ------------------
 
-These Terms of Service constitute a legally binding agreement made between you, whether personally or on behalf of an entity (“you”) and WebCatalog Pte. Ltd. (WebCatalog, "Company", “we”, “us”, or “our”), concerning your access to and use of the the WebCatalog services such as the mobile, desktop, and web app as well as any other media form, media channel, website, or mobile application related, linked, or otherwise connected thereto (collectively, the “App”). You agree that by accessing the App, you have read, understood, and agree to be bound by all of these Terms of Service. IF YOU DO NOT AGREE WITH ALL OF THESE TERMS OF SERVICE, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE APP AND YOU MUST DISCONTINUE USE IMMEDIATELY.
+These Terms of Service constitute a legally binding agreement made between you, whether personally or on behalf of an entity (“you”) and WebCatalog, Inc. (WebCatalog, "Company", “we”, “us”, or “our”), concerning your access to and use of the the WebCatalog services such as the mobile, desktop, and web app as well as any other media form, media channel, website, or mobile application related, linked, or otherwise connected thereto (collectively, the “App”). You agree that by accessing the App, you have read, understood, and agree to be bound by all of these Terms of Service. IF YOU DO NOT AGREE WITH ALL OF THESE TERMS OF SERVICE, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE APP AND YOU MUST DISCONTINUE USE IMMEDIATELY.
 
 Supplemental terms and conditions or documents that may be posted on the App from time to time are hereby expressly incorporated herein by reference. We reserve the right, in our sole discretion, to make changes or modifications to these Terms of Service at any time and for any reason. We will alert you about any changes by updating the “Last updated” date of these Terms of Service, and you waive any right to receive specific notice of each such change. It is your responsibility to periodically review these Terms of Service to stay informed of updates. You will be subject to, and will be deemed to have been made aware of and to have accepted, the changes in any revised Terms of Service by your continued use of the App after the date such revised Terms of Service are posted.
 
@@ -176,9 +176,9 @@ Contact Us
 
 In order to resolve a complaint regarding the App or to receive further information regarding use of the App, please [contact us](https://about.webcatalog.io/contact/).
 
-WebCatalog Pte. Ltd.  
-68 Circular Road #02-01, Singapore, 049422  
-Singapore
+**WebCatalog, Inc.**  
+2261 Market St STE 10869  
+San Francisco, CA 94114, USA
 
 Explore
 
@@ -242,7 +242,7 @@ Legal
 
 [X (Twitter)](https://twitter.com/webcatalog_app "X (Twitter)") [Facebook](https://www.facebook.com/WebCatalogApp/ "Facebook") [Linkedin](https://www.linkedin.com/company/webcatalogapp/ "LinkedIn")[YouTube](https://www.youtube.com/@WebCatalogApp "YouTube")
 
-© 2024 WebCatalog Pte. Ltd.
+© 2024 WebCatalog, Inc.
 
 We use cookies to provide and improve our websites. By using our sites, you consent to cookies.
 
