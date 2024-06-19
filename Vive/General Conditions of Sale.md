@@ -210,7 +210,7 @@ Search our articles or browse by category below.
 
 Search
 
-![Loading...](https://myshop.vive.com/static/version1717384655/frontend/Magento/vive2/en_US/images/loader-1.gif)
+![Loading...](https://myshop.vive.com/static/version1718614208/frontend/Magento/vive2/en_US/images/loader-1.gif)
 
 #### [Returns and Cancellations (3)](https://myshop.vive.com/vive_uk/faq/category/return-cancellation)
 
