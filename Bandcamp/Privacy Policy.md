@@ -199,7 +199,7 @@ If you have any questions or concerns regarding the privacy of your Personal Dat
 * [Terms of Use](https://bandcamp.com/terms_of_use)
 * [Privacy](https://bandcamp.com/privacy)
 * [Copyright Policy](https://bandcamp.com/copyright)
-* [Acceptable Use & Moderation Policy](https://get.bandcamp.help/hc/en-us/articles/21169764015255-Bandcamp-s-Acceptable-Use-and-Moderation-policy)
+* [Acceptable Use & Moderation Policy](https://get.bandcamp.help/hc/en-us/articles/23005947027991-Bandcamp-s-Acceptable-Use-and-Moderation-policy)
 
 * [Gift Cards](https://www.bandcamp.com/gift_cards?from=footer)
 * [Bandcamp Daily](https://daily.bandcamp.com/)
@@ -230,6 +230,6 @@ If you have any questions or concerns regarding the privacy of your Personal Dat
 
 * [Fair Trade Music Policy](https://bandcamp.com/fair_trade_music_policy)
 * [Terms of Use](https://bandcamp.com/terms_of_use) [Privacy](https://bandcamp.com/privacy) [Copyright Policy](https://bandcamp.com/copyright)
-* [Acceptable Use & Moderation Policy](https://get.bandcamp.help/hc/en-us/articles/21169764015255-Bandcamp-s-Acceptable-Use-and-Moderation-policy)
+* [Acceptable Use & Moderation Policy](https://get.bandcamp.help/hc/en-us/articles/23005947027991-Bandcamp-s-Acceptable-Use-and-Moderation-policy)
 * [Bandcamp](https://bandcamp.com/?from=logo)
 * [Switch to desktop version](#)
