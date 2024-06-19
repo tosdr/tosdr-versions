@@ -99,7 +99,6 @@ _This policy was last updated in November 2022 (to expand upon and strengthen cl
 * [About](https://letterboxd.com/about/)
 * [Pro](https://letterboxd.com/pro/)
 * [News](https://letterboxd.com/journal/)
-* [Videos](https://letterboxd.com/videos/)
 * [Apps](https://letterboxd.com/apps/)
 * [Podcast](https://apple.co/3TfzHVG)
 * [Year in Review](https://letterboxd.com/year-in-review/)
@@ -123,6 +122,12 @@ _This policy was last updated in November 2022 (to expand upon and strengthen cl
 
 © Letterboxd Limited. Made by [fans](https://letterboxd.com/crew/) in Aotearoa New Zealand. [Film data](https://letterboxd.com/about/film-data/) from [TMDb](https://www.themoviedb.org/). [Mobile site](#).  
 This site is protected by reCAPTCHA and the Google [privacy policy](https://policies.google.com/privacy) and [terms of service](https://policies.google.com/terms) apply.
+
+##### Select your preferred backdrop
+
+Reset poster Reset for item Save changes Save for item
+
+This item only
 
 ##### Select your preferred poster
 
