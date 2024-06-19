@@ -3,7 +3,7 @@
 Terms of Service
 ================
 
-**Welcome to the website and service located at [https://eargo.com](https://www.eargo.com/content/eargo/us/en/home.html "Eargo") (the “Service”). This Service is maintained and operated by Eargo Hearing, Inc. (“Eargo” and referred to as "us", "we", or "our" as the context may require).**
+**Welcome to the website and service located at [https://www.eargo.com](https://www.eargo.com/content/eargo/us/en/home.html "Eargo") (the “Service”). This Service is maintained and operated by Eargo Hearing, Inc. (“Eargo” and referred to as "us", "we", or "our" as the context may require).**
 
 YOUR ACCESS AND USE OF THE SITE IS SUBJECT TO THE FOLLOWING TERMS OF SERVICE (THE "TERMS OF SERVICE") AND ALL APPLICABLE LAWS. BY ACCESSING OR USING ANY PART OF THE SERVICE, YOU ACCEPT, WITHOUT LIMITATION OR QUALIFICATION, THESE TERMS OF SERVICE. IF YOU DO NOT AGREE WITH ALL OF THE TERMS OF SERVICE SET FORTH BELOW, YOU MAY NOT USE ANY PORTION OF THE SERVICE OR ORDER ANY PRODUCTS FROM THE SERVICE.
 
