@@ -1,8 +1,8 @@
-Google uses cookies to deliver its services, to personalize ads, and to analyze traffic. You can adjust your privacy controls anytime in your [Google settings](https://myaccount.google.com/data-and-personalization). [Learn more](https://policies.google.com/technologies/cookies).
+docs.flutter.dev uses cookies from Google to deliver and enhance the quality of its services and to analyze traffic. [Learn more](https://policies.google.com/technologies/cookies).
 
-Okay
+OK, got it
 
-_menu_ [![Flutter logo](/assets/images/jAoUexOogr-560.svg)](https://flutter.dev/)
+_menu_ [![Flutter logo](/assets/images/branding/flutter/logo+text/horizontal/default.svg)](https://flutter.dev/)
 
 * [Get started](#header-sidenav-1)
     * [Install Flutter](https://flutter.dev/get-started/install)
@@ -369,9 +369,7 @@ _menu_ [![Flutter logo](/assets/images/jAoUexOogr-560.svg)](https://flutter.dev/
 
 [Get started](https://flutter.dev/get-started/install/)
 
-Flutter 3.22 is live! Check out the [Flutter 3.22 and Dart 3.4](https://medium.com/flutter/io24-5e211f708a37) announcement,  
-the [3.22 technical](https://medium.com/flutter/whats-new-in-flutter-3-22-fbde6c164fe3) blog post.  
-Also check out [what's new](https://flutter.dev/release/whats-new) on the website.
+[Flutter 3.22 and Dart 3.4](https://medium.com/flutter/io24-5e211f708a37) are live! Check out [what's new](https://flutter.dev/release/whats-new) on the website.
 
 * [Get started](#fixed-sidenav-1)
     * [Install Flutter](https://flutter.dev/get-started/install)
@@ -723,13 +721,13 @@ Terms of Service
 
 The Flutter website (the "Website") is hosted by Google. By using and / or visiting the Website, you consent to be bound by Google's general [Terms of Service](https://policies.google.com/terms) and [Privacy Policy](https://policies.google.com/privacy).
 
-The "Flutter" name and the Flutter logo ![Flutter logo](/assets/images/QHtd2aV_at-1039.svg) (the "Flutter Marks") are trademarks owned by Google and are not included within the assets licensed under the Creative Commons Attribution 4.0 International License. Google grants you a non-transferable, non-exclusive, royalty-free limited license to use the Flutter Marks subject to your compliance with the [Flutter Brand Guidelines](https://flutter.dev/brand). Except as set forth above, nothing herein grants or should be deemed to grant to you any right, title or interest in or to the Flutter Marks.
+The "Flutter" name and the Flutter logo ![Flutter logo](/assets/images/branding/flutter/logo/square.svg) (the "Flutter Marks") are trademarks owned by Google and are not included within the assets licensed under the Creative Commons Attribution 4.0 International License. Google grants you a non-transferable, non-exclusive, royalty-free limited license to use the Flutter Marks subject to your compliance with the [Flutter Brand Guidelines](https://flutter.dev/brand). Except as set forth above, nothing herein grants or should be deemed to grant to you any right, title or interest in or to the Flutter Marks.
 
 As noted above, Google owns the Flutter trademarks, but we license them so they can be used by the developer community to support the Flutter SDK, including through training materials and other community content.
 
 At the same time, it's important to make sure that people don't use the marks in ways that could cause confusion or otherwise misuse the marks, so we have prepared [brand guidelines](https://flutter.dev/brand) that describe the allowed uses of the marks. Our goal in protecting the Flutter trademarks is to benefit the entire community by ensuring that the marks are only used in ways that are consistent with Google's mission to provide a free and open source SDK.
 
-![Flutter Logo](/assets/images/9wDLKEDcO8-81.png)
+![Flutter Logo](/assets/images/branding/flutter/logo/flutter-mono-81x100.png)
 
 * [terms](https://flutter.dev/tos)
 * [brand usage](https://flutter.dev/brand)
