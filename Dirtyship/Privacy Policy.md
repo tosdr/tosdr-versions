@@ -30,8 +30,8 @@
 * [Belle Delphine](https://dirtyship.com/performer/belle-delphine-x/ "Belle Delphine")
 * [Ginger ASMR](https://dirtyship.com/performer/ginger-asmr-x/ "Ginger ASMR")
 * [ASMR Network](https://dirtyship.com/performer/asmr-network-1/ "ASMR Network")
-* [AftynRose ASMR](https://dirtyship.com/performer/aftynrose-asmr-a/ "AftynRose ASMR")
 * [Maimy ASMR](https://dirtyship.com/performer/maimy-asmr/ "Maimy ASMR")
+* [AftynRose ASMR](https://dirtyship.com/performer/aftynrose-asmr-a/ "AftynRose ASMR")
 * [Alinity](https://dirtyship.com/performer/alinity-1/ "Alinity")
 * [ALL](https://dirtyship.com/actors-2/)
 
