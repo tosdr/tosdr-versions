@@ -1,5 +1,3 @@
-  Terms of Service | Yotpo                                                                                     
-
 [![Yotpo logo](https://www.yotpo.com/wp-content/themes/yotpo/images/general/yotpo-logo-v3.svg)](https://www.yotpo.com/ "Yotpo")
 
 * [Platform](#)
@@ -16,7 +14,7 @@
             Reach shoppers anywhere with mobile experiences that convert.](https://www.yotpo.com/platform/sms-marketing/)
         * [Reviews & UGC
             
-            Collect and display customer content across the buyer journey.](https://www.yotpo.com/platform/reviews/)
+            Collect and display customer content across the buyer journey.](https://www.yotpo.com/platform/reviews-b/)
         * [Loyalty & Referrals
             
             Create custom-tailored loyalty and referral programs.](https://www.yotpo.com/platform/loyalty/)
@@ -71,7 +69,7 @@
         * [Become a Partner](https://www.yotpo.com/partners/)
         * [Careers](https://www.yotpo.com/careers/)
     * * [Highlights](#)
-        * [![Is Typing](https://www.yotpo.com/wp-content/uploads/2024/05/Menu.svg)
+        * [![Is Typing](https://www.yotpo.com/wp-content/uploads/2024/06/Menu@2x.svg)
             
             Is Typing
             
@@ -87,8 +85,6 @@
             
             Accelerating incredible Black and Indigenous-owned brands.](https://www.yotpo.com/yotpo_rx/)
 * [Log in](https://yap.yotpo.com/)
-
-[![btn-bg](https://www.yotpo.com/wp-content/uploads/2024/05/Frame-24930@2x.png)](https://www.yotpo.com/retain-forward/may-24/)
 
 [Log in](https://login.yotpo.com/#/login?signup_utm_source=yotpo_website)
 
