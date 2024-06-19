@@ -158,8 +158,8 @@ Cancel
 Terms of Service
 ================
 
-Version 29 February 2024
-------------------------
+Version 11 June 2024
+--------------------
 
 Sketch B.V. (also “Sketch”) provides a software platform for digital design. The Sketch Platform is supported by a cloud persistency service where customers can store design artifacts and documents, share them with other members of their design operations, and manage Sketch user privileges. Customers can create design documents in our popular Mac application and then upload them to the cloud for viewing or collaboration, or they can simply save design files on their local Mac machine(s), if preferred.
 
@@ -366,7 +366,7 @@ If You accept the terms and conditions in the Agreement on behalf of a company o
     
 8. Sketch B.V. saves frequently recent Versions and less frequently older Versions. In addition, Sketch B.V. always preserves any Version that was starred by You.
     
-9. For avoidance of doubt, by subscribing to the Business Plan, You will have access to unlimited storage.
+9. For avoidance of doubt, and without prejudice to Sketch B.V.’s rights under the preceding article 10.8, by subscribing to the Business Plan, You will have access to unlimited storage.
     
 
 ### Warranty Disclaimer
@@ -488,6 +488,7 @@ Email  Sign up
 * [Color Variables](https://www.sketch.com/color-variables/)
 * [Commenting](https://www.sketch.com/commenting/)
 * [Libraries](https://www.sketch.com/libraries/)
+* [Smart Layout](https://www.sketch.com/smart-layout/)
 * [Symbols](https://www.sketch.com/symbols/)
 * [Apps](https://www.sketch.com/apps/)
 * [Extensions](https://www.sketch.com/extensions/)
@@ -498,9 +499,8 @@ Email  Sign up
 ### Why Sketch
 
 * [Sketch Myths](https://www.sketch.com/myths/)
-* [Switch to Sketch](https://www.sketch.com/switch-to-sketch/)
-* [Sketch vs. Figma](https://www.sketch.com/vs/figma/)
-* [Sketch vs. Adobe XD](https://www.sketch.com/vs/xd/)
+* [Figma to Sketch](https://www.sketch.com/vs/figma/)
+* [Adobe XD to Sketch](https://www.sketch.com/vs/xd/)
 * [Switch from InVision](https://www.sketch.com/switch-from-invision/)
 * [Free for Education](https://www.sketch.com/education/)
 
