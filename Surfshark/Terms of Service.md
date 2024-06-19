@@ -145,7 +145,7 @@ Surfshark provides virtual private network (VPN) services, also other privacy an
 
 We don’t collect logs or any other information that’d let us identify you. The only things we do collect are strictly necessary to provide you with our services. If you are using the Dedicated IP service, your online activities could be traced back to your account information as this IP is tied to your email address. However, you may choose using an anonymous Dedicated IP option which will result in a removal of all the information we have in our database about your Dedicated IP address. You can find more details about that in the Privacy Policy.
 
-**No-logs Policy** is one of the most important features of our VPN service. It means your activities are not in any way logged, retained, or transferred to third parties when you connect to our VPN service. We do not collect any information about what you do online (your visited IP addresses, browsing history, session information, used bandwidth, connection time stamps, network traffic or any other similar data). We can ensure such policy as we are based in the jurisdiction, which does not require data storage or reporting, and processes related to provision of our VPN service are automated. Moreover, only very limited user data collected from or provided by you is processed in order to provide a VPN service to you. To prevent service abuse, our servers store your user ID and/or IP address, and connection time stamps, but this information is automatically deleted within 15 minutes after termination of your session.
+**No-logs Policy** is one of the most important features of our VPN service. It means your activities are not in any way logged, retained, or transferred to third parties when you connect to our VPN service. We do not collect any information about what you do online (your visited IP addresses, browsing history, session information, used bandwidth, connection time stamps, network traffic or any other similar data). We can ensure such policy as we are based in the jurisdiction, which does not require data storage or reporting, and processes related to provision of our VPN service are automated. Moreover, only very limited user data collected from or provided by you is processed in order to provide VPN service to you. To prevent service abuse, our servers store your user ID and/or IP address, and connection time stamps, but this information is automatically deleted within 15 minutes after termination of your session.
 
 Please note that if you use a dedicated IP address (a unique internet protocol address assigned exclusively to you), it will encrypt your internet traffic and hide your real IP address and virtual location. However, since it’s tied to your email address, certain online activities can be traced back to your account information as far as you don’t select an anonymous Dedicated IP option after the Dedicated IP installation process. Anonymous Dedicated IP option removes any information we have in our database about your Dedicated IP address. Therefore, after you choose this, you will have to manually set up new devices and retain your own information as we will not have any links about who and how uses your Dedicated IP address.
 
@@ -153,7 +153,7 @@ More information on what information is collected about you and how it is used c
 
 No shady stuff, please.
 
-We do not approve any unlawful, illicit, criminal or fraudulent activities committed by using Surfshark Services. As we are not logging any information about your activities, you are using the Surfshark Services at your own responsibility. Surfshark will not be liable in any way or form for illegal actions done by you arising through or from the use of our Services.
+We do not approve any unlawful, illicit, criminal or fraudulent activities committed by using Surfshark Services. Surfshark will not be liable in any way or form for illegal actions done by you arising through or from the use of our Services.
 
 2\. Do I have to create an account?
 -----------------------------------
@@ -186,7 +186,7 @@ We will send the first receipt for your purchased Services to your email. All la
 
 Surfshark may change the price for the subscriptions, including recurring subscription fees, or other subscription terms from time to time and will communicate any price or other changes to you in advance. Subject to applicable law, you accept the new price and terms by continuing to use the Services after the changes take effect. Please see currently applicable recurring subscription fees [**here**](https://surfshark.com/terms-of-service/pricing).
 
-We can refund you on the basis of our 30-day money-back guarantee. Except if you signed up via iTunes/App Store/Amazon, with a prepaid card/gift card or decided to use an anonymous Dedicated IP option. These are out of our hands.
+We can refund you on the basis of our 30-day money-back guarantee. Except if you signed up via iTunes/App Store/Amazon, with a prepaid card/gift card or decided to use an anonymous Dedicated IP option, or have made any purchases associated with our Alternative ID service, such as the purchase of the Alternative Number feature. These are out of our hands.
 
 Your satisfaction with our Services is our main goal. If you choose not to use our paid Services anymore, except for any services related to the Alternative ID and/or anonymous Dedicated IP which are non-refundable, we guarantee you a right to claim a refund within 30 days following your purchase of our Services. However, we would like to solve your issue before you decide to cancel the subscription, therefore you are always welcome to reach out to us at [**support@surfshark.com**](mailto:support@surfshark.com). You can get a refund for the cancellation of our Services twice. If you already have been granted a refund once, you can get the second refund if the period between both cancellations for which you claim refund is not less than 6 months. If you purchase our Services again after the second refund, you will not be granted a refund for any further cancellation. Monthly subscriptions may be refunded on the basis of the 30-day money-back guarantee only after the initial purchase. Once a monthly subscription is renewed, it cannot be refunded on the basis of the 30-day money-back guarantee. Surfshark reserves the right to verify the validity of your account information, and to withhold or delay any refunds until such verification is complete.
 
@@ -297,7 +297,7 @@ Our Fair Usage Policy manages inappropriate use of our Services and guarantees t
 
 Surfshark Antivirus service allows a maximum of five simultaneous connections per account.
 
-Surfshark Alternative ID service also stipulates specific usage limitations. To ensure only personal, safe and fair use, we reserve the right to limit the quantity of emails sent via Alternative ID service, as well as the total number of generated outputs and email addresses created by an individual user.
+Surfshark Alternative ID service also stipulates specific usage limitations. To ensure only personal, safe and fair use, we reserve the right to limit the quantity of emails/messages sent via Alternative ID service, as well as the total number of generated outputs, email addresses, and phone numbers created by an individual user. Additionally, the service incorporates a solution that allows you to obtain an alternative telephone number ("Alternative Number"), thereby enabling you to privately receive calls and messages via our specialized software. This feature is tailored strictly to meet privacy and safety needs and is not intended for use in general social interactions. Considering these factors, Surfshark explicitly reserves the right to impose specific restrictions on the communication features provided, with the intention of reducing the risk of misuse of the Alternative Number feature and to ensure adherence to the prescribed uses as outlined by the service. The Alternative Number feature is not configured for, nor shall it support the use of, verification codes (one-time passcodes), and it inherently lacks the functionality to receive such codes.
 
 9\. Does Surfshark link to any third party sites?
 -------------------------------------------------
@@ -323,7 +323,7 @@ You hereby agree to release service provider, its affiliates and third-party ser
 
 We provide application updates for all OS versions for at least two (2) years after the initial OS version release. Therefore, we would suggest updating your OS to get the best experience when using our Services.
 
-If you use the Alternative ID service, you recognize that there might be instances when due to external factors the delivery of emails to your alternative email address. These impediments can arise from a host of issues, including but not limited to network disruptions, service outages, and spam filtering processes. In light of these potential challenges, Surfshark does not assert or guarantee the prompt and exact delivery or reception of communications. As such, Surfshark shall not be held accountable for any communication that is either missed, delayed, or undelivered. Furthermore, you concur that Surfshark will not be responsible for any sort of damage or loss that may result from such instances. It is important to affirm that your access to and use of the Alternative ID Service is permitted solely for your own personal and non-commercial purposes.
+If you use the Alternative ID service, you recognize that there might be instances when due to external factors the delivery of emails to your alternative email address and receipt of the calls and messages to your alternative phone number may be interrupted. These impediments can arise from a host of issues, including but not limited to network disruptions, service outages, and spam filtering processes. In light of these potential challenges, Surfshark does not assert or guarantee the prompt and exact delivery or reception of communications. As such, Surfshark shall not be held accountable for any communication that is either missed, delayed, or undelivered. Furthermore, you concur that Surfshark will not be responsible for any sort of damage or loss that may result from such instances. It is important to affirm that your access to and use of the Alternative ID Service is permitted solely for your own personal and non-commercial purposes.
 
 In addition, if you are using Surfshark Alternative ID service, please note that despite Alternative ID generated output is designated to be made-up and not reflective of real people or places, occasionally, some parts (like addresses) could unintentionally match real-world equivalents. Taking this into account, despite that there might be a slight probability that some parts of an output may inadvertently mirror real-world specifics, please always be aware that any resemblance generated by our service to actual persons, living or deceased, or to real-life addresses, is unintentional, purely coincidental and designated ONLY for personal use in safeguarding privacy and/or for entertainment purposes. SURFSHARK EXPLICITLY DISCLAIMS ANY RESPONSIBILITY FOR ACCIDENTAL SIMILARITIES TO ACTUAL INDIVIDUALS OR ADDRESSES. IF YOU BELIEVE THAT THE OUTPUT GENERATED BY ALTERNATIVE ID MIGHT INFRINGE UPON THE RIGHTS OF ANY THIRD PARTY, WE ADVISE AGAINST THE USE OF THIS OUTPUT.
 
@@ -375,20 +375,15 @@ While translations of these Terms of Service may be provided in other languages,
 
 It’s essential to keep up with the updates if there are any.
 
-March 20, 2024.
-
-###### Bundle
-
-* [Surfshark One](https://surfshark.com/one "Surfshark One")
-* [Benefits](https://surfshark.com/use-cases "Benefits")
+June 17, 2023.
 
 ###### Products
 
 * [Surfshark VPN](https://surfshark.com/vpn "Surfshark VPN")
+* [Alternative ID](https://surfshark.com/alternative-id "Alternative ID")
 * [Surfshark Alert](https://surfshark.com/alert "Surfshark Alert")
 * [Surfshark Antivirus](https://surfshark.com/antivirus "Surfshark Antivirus")
 * [Surfshark Search](https://surfshark.com/search "Surfshark Search")
-* [Alternative ID](https://surfshark.com/alternative-id "Alternative ID")
 * [Pricing](https://surfshark.com/pricing "Pricing")
 
 ###### Other products
@@ -398,7 +393,8 @@ March 20, 2024.
 ###### Surfshark VPN
 
 * [What is a VPN?](https://surfshark.com/learn/what-is-vpn "What is a VPN?")
-* [VPN Features](https://surfshark.com/features "VPN Features")
+* [VPN features](https://surfshark.com/features "VPN features")
+* [VPN use cases](https://surfshark.com/use-cases "VPN use cases")
 * [VPN servers](https://surfshark.com/servers "VPN servers")
 * [Dedicated IP](https://surfshark.com/dedicated-ip "Dedicated IP")
 * [Reviews](https://surfshark.com/surfshark-review "Reviews")
@@ -407,14 +403,15 @@ March 20, 2024.
 
 ###### Solution
 
-* [VPN for Teams](https://surfshark.com/for-teams "VPN for Teams")
+* [VPN for teams](https://surfshark.com/for-teams "VPN for teams")
 
 ###### Resources
 
 * [About us](https://surfshark.com/about-us "About us")
-* [Media Center](https://surfshark.com/press "Media Center")
+* [Media center](https://surfshark.com/press "Media center")
 * [Career](https://surfshark.com/career "Career")
 * [Blog](https://surfshark.com/blog "Blog")
+* [Blog newsletter](https://surfshark.com/blog-subscription "Blog newsletter")
 * [Warrant canary](https://surfshark.com/warrant-canary "Warrant canary")
 
 ###### Programs
@@ -435,17 +432,15 @@ March 20, 2024.
 * [Help center](https://support.surfshark.com/hc/en-us "Help center")
 * [Setup guides](https://support.surfshark.com/hc/en-us/sections/4414400041362-Applications "Setup guides")
 
-[macOS](https://surfshark.com/download/macos "macOS")
-
 [Windows](https://surfshark.com/download/windows "Windows")
+
+[macOS](https://surfshark.com/download/macos "macOS")
 
 [Linux](https://surfshark.com/download/linux "Linux")
 
-[iOS](https://surfshark.com/download/ios "iOS")
-
 [Android](https://surfshark.com/download/android "Android")
 
-[Fire TV](https://surfshark.com/download/amazon-fire-tv "Fire TV")
+[iOS](https://surfshark.com/download/ios "iOS")
 
 [Chrome](https://surfshark.com/download/chrome "Chrome")
 
@@ -453,7 +448,11 @@ March 20, 2024.
 
 [Edge](https://surfshark.com/download/edge "Edge")
 
-[Facebook](https://www.facebook.com/SurfsharkPrivacy/)[Twitter](https://twitter.com/surfshark)[Instagram](https://www.instagram.com/surfshark/)[Youtube](https://www.youtube.com/channel/UCEFFKGOqb1Mtvj3g3gjc6tQ)[Reddit](https://www.reddit.com/r/surfshark/)[TikTok](https://www.tiktok.com/@surfshark)[Pinterest](https://www.pinterest.com/surfsharkVPN/)
+[Apple TV](https://surfshark.com/download/apple-tv-vpn "Apple TV")
+
+[Fire TV](https://surfshark.com/download/amazon-fire-tv "Fire TV")
+
+[Facebook](https://www.facebook.com/SurfsharkPrivacy/)[X (Twitter)](https://x.com/surfshark)[Instagram](https://www.instagram.com/surfshark/)[Youtube](https://www.youtube.com/channel/UCEFFKGOqb1Mtvj3g3gjc6tQ)[Reddit](https://www.reddit.com/r/surfshark/)[TikTok](https://www.tiktok.com/@surfshark)[Pinterest](https://www.pinterest.com/surfsharkVPN/)[Naver](https://blog.naver.com/surfshark_korea)
 
 EnglishDeutschEspañolFrançaisItalianoNederlandsPolskiPortuguêsSuomiTürkçeРусскийУкраїнська한국어简体中文香港繁體台灣繁體日本語
 
