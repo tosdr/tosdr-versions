@@ -107,13 +107,15 @@ Privacy Policy
 Privacy Policy
 --------------
 
+Effective Date: June 18  
+  
+**Notice at Collection for California Residents.** **At or before the time of collection of Personal Data, California residents may have a right to receive notice of our information practices, including the** [**categories**](https://lumedeodorant.com/privacy-policy#pp-categories-personal-data) **of Personal Data to be collected, the** [**purposes**](https://lumedeodorant.com/privacy-policy#pp-how-we-disclose-your-personal-data) **for which such Personal Data is collected or used, whether such Personal Data is** [**sold or shared**](https://lumedeodorant.com/privacy-policy#pp-sales-sharing-personal-data) **and how to** [**opt-out**](https://lumedeodorant.com/privacy-policy#pp-personal-data-sales-sharing-opt-out) **of such selling and sharing, and how long such information is** **[retained](https://lumedeodorant.com/privacy-policy#pp-data-security-retention). You can find those details in this statement by clicking on the above links.**
+
 At Lume, we take your privacy seriously. This Privacy Policy describes the policies and procedures of Lume Deodorant, LLC and its affiliates ("Lume", "we", "our" or "us") on the collection, use and disclosure of personal information from those who use or access lumedeodorant.com, our branded pages on social media services, or any of the other sites, services, features, content, applications and products we offer in the United States (collectively, the "Services").
 
 If you are using the Services outside of the United States, a location-specific privacy policy may apply to you instead, so please check the applicable country-specific website (if any). The Services are hosted and operated in the United States and are subject to United States law. By using the Services, you acknowledge and agree that any Personal Data (as defined below) that you provide to us is being provided to us in the United States and will be hosted on United States servers.
 
 Please read this Privacy Policy to learn how we treat your personal information. **By using or accessing the Services in any manner, you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use and share your information in the ways described in this Privacy Policy.**
-
-**Notice at Collection for California Residents.** **At or before the time of collection of Personal Data, California residents may have a right to receive notice of our information practices, including the** [**categories**](https://lumedeodorant.com/privacy-policy#pp-categories-personal-data) **of Personal Data to be collected, the** [**purposes**](https://lumedeodorant.com/privacy-policy#pp-how-we-disclose-your-personal-data) **for which such Personal Data is collected or used, whether such Personal Data is** [**sold or shared**](https://lumedeodorant.com/privacy-policy#pp-sales-sharing-personal-data) **and how to** [**opt-out**](https://lumedeodorant.com/privacy-policy#pp-personal-data-sales-sharing-opt-out) **of such selling and sharing, and how long such information is** **[retained](https://lumedeodorant.com/privacy-policy#pp-data-security-retention). You can find those details in this statement by clicking on the above links.**
 
 Remember that your use of our Services is at all times subject to our [Terms of Service](https://lumedeodorant.com/terms-of-service), which incorporates this Privacy Policy. Any terms we use in this Privacy Policy without defining them have the definitions given to them in the Terms of Service.
 
@@ -486,7 +488,7 @@ We will work to respond to your Valid Request within 45 days of receipt. We will
 
 You may submit a Valid Request using the following methods:
 
-* Submitting an [\[email protected\]](https://lumedeodorant.com/cdn-cgi/l/email-protection)
+* Submitting a request through our [Privacy Request Center](https://preferences.lumedeodorant.com/)
 * Submitting a [\[email protected\]](https://lumedeodorant.com/cdn-cgi/l/email-protection)
 * Submitting a [\[email protected\]](https://lumedeodorant.com/cdn-cgi/l/email-protection)
 * Emailing us at [\[email protected\]](https://lumedeodorant.com/cdn-cgi/l/email-protection)
@@ -519,23 +521,27 @@ Your browser may offer you a "Do Not Track" option, which allows you to signal t
 
 ### _Colorado Resident Rights_
 
-If you are a resident of Colorado, you have certain rights related to your Personal Data, which you can exercise by using one of the methods described below:
+If you are a resident of Colorado, you have certain rights related to your Personal Data, which include the below:
 
-* The right to correct your Personal Data by submitting a [\[email protected\]](https://lumedeodorant.com/cdn-cgi/l/email-protection)
+* The right to access your Personal Data by submitting a [\[email protected\]](https://lumedeodorant.com/cdn-cgi/l/email-protection)
 * The right to correct your Personal Data by submitting a [\[email protected\]](https://lumedeodorant.com/cdn-cgi/l/email-protection)
 * The right to delete your Personal Data by submitting a [\[email protected\]](https://lumedeodorant.com/cdn-cgi/l/email-protection)
-* The right to opt out of the sale of your Personal Data for targeted advertising by submitting an [\[email protected\]](https://lumedeodorant.com/cdn-cgi/l/email-protection), clicking "Do Not Sell or Share My Personal Information" on our homepage, or, if offered by your browser, enabling a Global Privacy Control opt-out signal
+
+You may exercise any of the above rights by submitting a request through our through our [Privacy Request Center](https://preferences.lumedeodorant.com/), by emailing us at [\[email protected\]](https://lumedeodorant.com/cdn-cgi/l/email-protection).·The right to opt out of the sale of your Personal Data for targeted advertising by submitting an Opt-Out Request, clicking “Do Not Sell or Share My Personal Information” on our homepage, or, if offered by your browser, enabling a Global Privacy Control opt-out signal.
 
 You have the right to appeal our decision if we decline to process your request. You may do so by informing us of this at [\[email protected\]](https://lumedeodorant.com/cdn-cgi/l/email-protection) and providing us with information supporting your appeal.
 
 ### _Connecticut Resident Rights_
 
-If you are a resident of Connecticut, you have certain rights related to your Personal Data, which you can exercise by using one of the methods described below:
+If you are a resident of Connecticut, you have certain rights related to your Personal Data, which include the below:
 
 * The right to access your Personal Data, by submitting an [\[email protected\]](https://lumedeodorant.com/cdn-cgi/l/email-protection)
 * The right to correct your Personal Data by submitting a [\[email protected\]](https://lumedeodorant.com/cdn-cgi/l/email-protection)
 * The right to delete your Personal Data by submitting a [\[email protected\]](https://lumedeodorant.com/cdn-cgi/l/email-protection)
-* The right to opt out of the sale of your Personal Data for targeted advertising by submitting an [\[email protected\]](https://lumedeodorant.com/cdn-cgi/l/email-protection), clicking "Do Not Sell or Share My Personal Information" on our homepage, or, if offered by your browser, enabling a Global Privacy Control opt-out signal
+
+You may exercise any of the above rights by submitting a request through our through our [Privacy Request Center](https://preferences.lumedeodorant.com/), by emailing us at [\[email protected\]](https://lumedeodorant.com/cdn-cgi/l/email-protection).·The right to opt out of the sale of your Personal Data for targeted advertising by submitting an Opt-Out Request, clicking “Do Not Sell or Share My Personal Information” on our homepage, or, if offered by your browser, enabling a Global Privacy Control opt-out signal.
+
+You have the right to appeal our decision if we decline to process your request. You may do so by informing us of this at [\[email protected\]](https://lumedeodorant.com/cdn-cgi/l/email-protection) and providing us with information supporting your appeal.
 
 ### _Nevada Resident Rights_
 
@@ -547,7 +553,8 @@ If you are a resident of Utah, you have certain rights related to your Personal 
 
 * The right to access your Personal Data, by submitting an [\[email protected\]](https://lumedeodorant.com/cdn-cgi/l/email-protection)
 * The right to delete your Personal Data by submitting a [\[email protected\]](https://lumedeodorant.com/cdn-cgi/l/email-protection)
-* The right to opt out of the sale of your Personal Data for targeted advertising by submitting an [\[email protected\]](https://lumedeodorant.com/cdn-cgi/l/email-protection), clicking "Do Not Sell or Share My Personal Information" on our homepage, or, if offered by your browser, enabling a Global Privacy Control opt-out signal
+
+You have the right to appeal our decision if we decline to process your request. You may do so by informing us of this at [\[email protected\]](https://lumedeodorant.com/cdn-cgi/l/email-protection) and providing us with information supporting your appeal.
 
 ### _Virginia Resident Rights_
 
@@ -556,7 +563,8 @@ If you are a resident of Virginia, you have certain rights related to your Perso
 * The right to access your Personal Data, by submitting an [\[email protected\]](https://lumedeodorant.com/cdn-cgi/l/email-protection)
 * The right to correct your Personal Data by submitting a [\[email protected\]](https://lumedeodorant.com/cdn-cgi/l/email-protection)
 * The right to delete your Personal Data by submitting a [\[email protected\]](https://lumedeodorant.com/cdn-cgi/l/email-protection)
-* The right to opt out of the sale or sharing of your Personal Data for targeted advertising by submitting an [\[email protected\]](https://lumedeodorant.com/cdn-cgi/l/email-protection), clicking "Do Not Sell or Share My Personal Information" on our homepage, or, if offered by your browser, enabling a Global Privacy Control opt-out signal
+
+You may exercise any of the above rights by submitting a request through our through our [Privacy Request Center](https://preferences.lumedeodorant.com/), by emailing us at [\[email protected\]](https://lumedeodorant.com/cdn-cgi/l/email-protection).·The right to opt out of the sale of your Personal Data for targeted advertising by submitting an Opt-Out Request, clicking “Do Not Sell or Share My Personal Information” on our homepage, or, if offered by your browser, enabling a Global Privacy Control opt-out signal.
 
 You have the right to appeal our decision if we decline to process your request. You may do so by informing us of this at [\[email protected\]](https://lumedeodorant.com/cdn-cgi/l/email-protection) and providing us with information supporting your appeal.  
   
@@ -596,11 +604,6 @@ If you have any questions or comments about this Privacy Policy, the ways in whi
 
 * [\[email protected\]](https://lumedeodorant.com/cdn-cgi/l/email-protection)
 * 75 Varick St., Floor 9, New York, NY 10013
-
-  
-Effective Date: July 1, 2023
-
-_To review our previous privacy policy, click_ _[here](https://cdn.shopify.com/s/files/1/0172/9173/9236/files/Lume_Privacy_Policy.pdf?v=1679606696)._
 
 Money Back Guarantee
 
@@ -706,6 +709,6 @@ Snag it while supplies last →](https://lumedeodorant.com/products/starter-pack
 * [Terms of Service](https://lumedeodorant.com/terms-of-service)
 * [Privacy Policy](https://lumedeodorant.com/privacy-policy)
 * [Accessibility](https://lumedeodorant.com/our-commitment-to-accessibility)
-* [Do Not Sell or Share My Personal Information](https://forms.gle/XwzXFBUysFkiX1z99)
+* [Do Not Sell or Share My Personal Information](https://preferences.lumedeodorant.com/)
 
 © 2024 [Lume](https://lumedeodorant.com/). Made in the USA.
