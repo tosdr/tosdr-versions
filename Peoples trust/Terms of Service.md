@@ -1,7 +1,3 @@
-**Notice:** Due to a planned system upgrade, Interac e-Transfer will be unavailable intermittently between the hours of approximately 9:00 pm – 3:00 am PT (12:00 am - 6:00 am ET) on Sunday June 9, 2024. We apologize for any inconvenience.
-
-**Attention:** En raison d'une mise à jour de nos systèmes, les Virements Interac seront indisponibles par intermittence le Dimanche 09 Juin 2024 entre 21 h 00 et 03 h 00 heure du Pacifique (0 h 00 - 06 h 00 heure de l'Est). Nous vous présentons toutes nos excuses pour ce désagrément.
-
 ### **Website Terms & Conditions of Use**
 
 > Current as of August 2, 2023
