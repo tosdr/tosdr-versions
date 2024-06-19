@@ -14,10 +14,14 @@ Privacy Policy
 Last update
 -----------
 
-[Apr 5, 2024](https://countermail.com/?p=changelog&t=1712338425) (ChangeLog)
+[Jun 18, 2024](https://countermail.com/?p=changelog&t=1718712142) (ChangeLog)
 
 News
 ----
+
+### 2024-06-18
+
+BTC payment [disabled](https://countermail.com/?p=changelog&t=20240618).
 
 ### 2024-04-05
 
