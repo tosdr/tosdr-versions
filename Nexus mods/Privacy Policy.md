@@ -101,7 +101,6 @@ We use different methods to collect data from and about you including through:
     * request marketing to be sent to you;
     * enter a competition, promotion or survey; or
     * give us feedback or contact us.
-
 * **Automated technologies or interactions.** As you interact with our website, we will automatically collect Technical Data about your equipment, browsing actions and patterns. We collect this personal data by using cookies, server logs and other similar technologies.
 * **Third parties or publicly available sources.** We will receive personal data about you from various third parties as set out below:
     * Google reCaptcha: used to help prevent bots and malicious users from accessing the site
@@ -110,7 +109,7 @@ We use different methods to collect data from and about you including through:
     * Google Analytics: used for statistical analysis of site users
     * Amazon AWS: used for sending emails and storing files such as mods and images
     * Pay Pal: used to process Premium Membership payments and mod author donations. Usernames that donate to users and receive said donations are recorded, along with the donation amount
-    * BrainTree: used to process Premium Membership payments
+    * Paddle/BrainTree: used to process Premium Membership payments
     * Enthusiast Gaming: used as our exclusive advertising providers
     * Gleam.io: used for our sweepstakes and competitions
     * Krystal.co.uk: used for hosting our servers
@@ -297,7 +296,7 @@ You have the right to:
 
 **Withdraw consent at any time** where we are relying on consent to process your personal data. However, this will not affect the lawfulness of any processing carried out before you withdraw your consent. If you withdraw your consent, we may not be able to provide certain products or services to you. We will advise you if this is the case at the time you withdraw your consent.
 
-Last updated on October 20, 2021
+Last updated on June 12, 2024
 
 ### Related Articles
 
