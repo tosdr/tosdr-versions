@@ -1,8 +1,8 @@
 [spinonlin](https://spinonline.se/) Menu
 
-* [Start](https://spinonline.se/index.html)
-* [Foto/Film](https://spinonline.se/foto-film)
 * [Blandat](https://spinonline.se/blandat)
+* [Foto/Film](https://spinonline.se/foto-film)
+* [Start](https://spinonline.se/index.html)
 
 Strukturerad fakta för alla
 ===========================
@@ -61,7 +61,7 @@ Kom och upplev själv en värld av mikroskopiska mysterier som väntar på att a
 Ett positivt fokus på en begravningsbyrå i Lidingö
 --------------------------------------------------
 
-För många av oss är det en stor och komplex uppgift att arrangera en begravning. Det är i dessa stunder vi ofta söker hjälp hos en [begravningsbyrå lidingö](https://sankteriksbegravning.se/) för att få stöd i vårt beslutsfattande. En begravning är en tid för att minnas och hylla en älskad persons liv, och de som verkar inom begravningsbranschen är där för att underlätta processen.
+För många av oss är det en stor och komplex uppgift att arrangera en begravning. Det är i dessa stunder vi ofta söker hjälp hos en begravningsbyrå lidingö för att få stöd i vårt beslutsfattande. En begravning är en tid för att minnas och hylla en älskad persons liv, och de som verkar inom begravningsbranschen är där för att underlätta processen.
 
 ### Varför välja en begravningsbyrå på Lidingö?
 
