@@ -16,8 +16,6 @@ Courses
 
 [Technical Project Management](https://www.thinkful.com/bootcamp/technical-project-management/)
 
-[WAITLIST: Cybersecurity](https://www.thinkful.com/getstarted/cybersecurity/)
-
 [How We Work](https://www.thinkful.com/how-we-work/)
 
 [Outcomes](https://www.thinkful.com/outcomes/)
