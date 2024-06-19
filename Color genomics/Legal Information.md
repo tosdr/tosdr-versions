@@ -1,6 +1,6 @@
 [skip to content](#main)
 
-Read about Color’s new distributed screening partnerships with Bexa and SkinIO [here](https://www.prnewswire.com/news-releases/color-health-announces-at-home-and-at-work-cancer-screening-expansion-with-skinio-and-bexa-302158887.html).
+Learn about Color's copilot tool in collaboration with OpenAI [here](https://www.color.com/blog/colors-copilot-and-partnership-with-openai).
 
  [![](https://www.color.com/wp-content/uploads/2024/04/Color-Wordmark-Logo-Registered.svg)](https://www.color.com/) Toggle Main Navigation Expanded Collapsed
 
@@ -201,6 +201,8 @@ Email: [support@color.com](mailto:support@color.com)
 ### Company
 
 * [About Us](https://www.color.com/about-us)
+* [Leadership](https://www.color.com/leadership)
+* [Research](https://www.color.com/research-platform)
 * [Careers](https://www.color.com/careers)
 * [Newsroom](https://www.color.com/newsroom)
 * [Giving Back](https://www.color.com/giving-back)
