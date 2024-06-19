@@ -1131,6 +1131,6 @@ Jurisdicción
 
 Las partes se someten para la resolución de sus conflictos y con renuncia a cualquier otro fuero, a los juzgados y tribunales de la ciudad de Sevilla, España.
 
-Copyright © 2022, WUOLADS, S.L.
+Copyright © 2024, WUOLADS, S.L.
 
 Todos los derechos reservados. Todos los derechos de propiedad intelectual e industrial, marcas comerciales y logotipos utilizados que sean parte o aparezcan en el Sitio son propiedad de WUOLAH o propiedad de terceros. No se le permite utilizarlos sin nuestro previo consentimiento por escrito o sin el consentimiento de dicho tercero.
