@@ -258,11 +258,11 @@ Read the report
 
 Considering Passkeys for your Enterprise?
 
-Learn how to avoid the common pitfalls of synced passkeys
+Learn how to avoid common passkey pitfalls
 
-Get the Ebook
+Visit Passkey Hub
 
-* terms and conditions](https://www.yubico.com/resource/passkey-ebook/)
+* terms and conditions](https://www.yubico.com/passkeys/)
 
 Supportexpand\_more
 
