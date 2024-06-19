@@ -25,7 +25,7 @@ What are cookies, clear gifs and similar technologies?
 
 **Clear gifs and pixel trackers** are tiny graphics with a unique identifier and are similar in function to cookies, and are used to track the movements of web users between pages and websites. They are embedded invisibly on web pages and are about the size of a single pixel.
 
-**First-party** cookies are set by us when you’re visiting one of our sites, and**third-party** cookies are set by a party other than the website you're visiting.
+**First-party** cookies are set by us when you’re visiting one of our sites, and **third-party** cookies are set by a party other than the website you're visiting.
 
 Cookies and similar technologies are used for the following purposes on the Envato sites
 ----------------------------------------------------------------------------------------
