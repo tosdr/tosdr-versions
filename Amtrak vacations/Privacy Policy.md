@@ -429,7 +429,7 @@ Reservations
 
 [1-800-268-7252](tel:1-800-268-7252)
 
-Mon - Fri: 9:00 AM - 7:00 PM EST
+Mon - Fri: 6:00 AM - 10:00 PM EST
 
 Sat - Sun: 9:00 AM - 5:30 PM EST
 
