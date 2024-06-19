@@ -341,7 +341,7 @@ In addition to the requirements and obligation set forth under the DPA and appli
 
 [PreviousPublisher Guidelines](https://vidazoo.gitbook.io/vidazoo-legal/publisher-guidelines)[NextData Processing Agreement - Demand partner](https://vidazoo.gitbook.io/vidazoo-legal/data-processing-agreement-demand-partner)
 
-Last updated 5 months ago
+Last updated 6 months ago
 
 On this page
 
