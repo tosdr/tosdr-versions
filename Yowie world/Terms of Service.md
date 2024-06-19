@@ -46,9 +46,9 @@
     * [We Want Yowie](https://yowieworld.com/we-want-yowie/)
     * [Our Products](https://yowieworld.com/products/)
     * [Nutritional Information](https://yowieworld.com/yowie-nutritional-information/)
-* [Win](https://yowieworld.com/win/)
+* [WHERE TO BUY](https://yowieworld.com/where-to-find-yowie/)
     
-* [Merch](https://yowieworld.com/shop/)
+* [Win](https://yowieworld.com/win/)
     
 
 Terms and conditions
@@ -203,6 +203,81 @@ This User Agreement and our Privacy Policy contain the entire understanding betw
 Your use of this Website is not intended and shall not be deemed to create any agency, joint venture or other legal relationship of any kind between you and us other than that of independent contractors. This User Agreement may not be assigned by you.
 
 Effective Date: 13-02-2014
+
+Buy Yowie instore
+-----------------
+
+Yowie is available in selected stores. 
+
+Locator loading...
+
+  
+
+### Find Yowie in the U.S.
+
+![Walmart Logo](https://yowieworld.com/wp-content/uploads/2023/08/walmart-logo.png)
+
+![Caseys Logo](https://yowieworld.com/wp-content/uploads/2023/08/caseys-logo.png)
+
+![Walgreens Logo](https://yowieworld.com/wp-content/uploads/2023/08/walgreens-logo.png)
+
+![Costco Logo](https://yowieworld.com/wp-content/uploads/2023/08/costco-logo.png)
+
+![7 Eleven Logo](https://yowieworld.com/wp-content/uploads/2023/08/7-eleven-logo.png)
+
+![Acme Logo](https://yowieworld.com/wp-content/uploads/2023/08/acme-logo.png)
+
+![Albertsons Logo](https://yowieworld.com/wp-content/uploads/2023/08/albertsons-logo.png)
+
+![Duane Reade Logo](https://yowieworld.com/wp-content/uploads/2023/08/duane-reade-logo.png)
+
+![Raleys](https://yowieworld.com/wp-content/uploads/2023/09/raleys.png)
+
+![Save Mart](https://yowieworld.com/wp-content/uploads/2023/09/save-mart.png)
+
+![Murphy Usa](https://yowieworld.com/wp-content/uploads/2023/09/murphy-usa.png)
+
+![Meijer](https://yowieworld.com/wp-content/uploads/2023/09/meijer.png)
+
+![Lowes](https://yowieworld.com/wp-content/uploads/2023/09/lowes.png)
+
+![Harps](https://yowieworld.com/wp-content/uploads/2023/09/harps.png)
+
+![Get Go](https://yowieworld.com/wp-content/uploads/2023/09/get-go.png)
+
+![Food Lion](https://yowieworld.com/wp-content/uploads/2023/09/food-lion.png)
+
+![Fareway](https://yowieworld.com/wp-content/uploads/2023/09/fareway.png)
+
+![Circle K](https://yowieworld.com/wp-content/uploads/2023/09/circle-k.png)
+
+![Quick Chek](https://yowieworld.com/wp-content/uploads/2023/09/quick-chek.png)
+
+![Hyvee](https://yowieworld.com/wp-content/uploads/2023/09/hyvee.png)
+
+![Dierbergs](https://yowieworld.com/wp-content/uploads/2023/09/dierbergs.png)
+
+![Brookshires](https://yowieworld.com/wp-content/uploads/2023/09/brookshires.png)
+
+![Am Pm](https://yowieworld.com/wp-content/uploads/2023/09/am-pm.png)
+
+![Family Dollar](https://yowieworld.com/wp-content/uploads/2023/09/family-dollar.png)
+
+Yowie can also be found in the U.S. at:  
+• Chevron  
+• Cracker Barrel
+
+### Find Yowie in Australia
+
+![Woolworths Logo](https://yowieworld.com/wp-content/uploads/2023/08/woolworths-logo.png)
+
+![Big W Logo](https://yowieworld.com/wp-content/uploads/2023/08/big-w-logo.png)
+
+![Reject Shop Logo](https://yowieworld.com/wp-content/uploads/2023/08/reject-shop-logo.png)
+
+![Kmart Logo](https://yowieworld.com/wp-content/uploads/2023/08/kmart-logo.png)
+
+[Sign Up and be the first to learn about new collectible series and products](#header-newsletter-signup)
 
 ![Yowie Section Curve Purple 03](https://yowieworld.com/wp-content/uploads/2023/03/yowie-section-curve-purple-03.svg)
 
