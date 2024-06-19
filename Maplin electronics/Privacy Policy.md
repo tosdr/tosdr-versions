@@ -21,9 +21,7 @@ Browse
         * [C Batteries](https://www.maplin.co.uk/collections/c-batteries)
         * [D Batteries](https://www.maplin.co.uk/collections/d-batteries)
         * [9V Batteries](https://www.maplin.co.uk/collections/9v-batteries)
-        * [AAAA Batteries](https://www.maplin.co.uk/collections/aaaa-batteries)
         * [LR1/E90 Batteries](https://www.maplin.co.uk/collections/lr1-e90-batteries)
-        * [A27 Batteries](https://www.maplin.co.uk/collections/a27-batteries)
         
     * Rechargeable Batteries
         
@@ -47,16 +45,18 @@ Browse
     * Specialist Batteries
         
         * [Specialist Batteries](https://www.maplin.co.uk/collections/specialist-batteries)
-        * [Coin Cell Batteries](https://www.maplin.co.uk/collections/coin-cell-batteries)
-        * [Watch Batteries](https://www.maplin.co.uk/collections/watch-batteries)
-        * [Camera Batteries](https://www.maplin.co.uk/collections/camera-batteries)
-        * [Golf Trolley Batteries](https://www.maplin.co.uk/collections/golf-trolley-batteries)
-        * [E-Bike Batteries](https://www.maplin.co.uk/collections/e-bike-batteries)
-        * [Lithium LiFePO4 Batteries](https://www.maplin.co.uk/collections/lithium-lifepo4-batteries)
+        * [AAAA Batteries](https://www.maplin.co.uk/collections/aaaa-batteries)
+        * [A27 Batteries](https://www.maplin.co.uk/collections/a27-batteries)
         * [AGM Batteries](https://www.maplin.co.uk/collections/agm-batteries)
-        * [Sealed Lead Acid (SLA) Batteries](https://www.maplin.co.uk/collections/sla-batteries)
+        * [Camera Batteries](https://www.maplin.co.uk/collections/camera-batteries)
+        * [Coin Cell Batteries](https://www.maplin.co.uk/collections/coin-cell-batteries)
+        * [E-Bike Batteries](https://www.maplin.co.uk/collections/e-bike-batteries)
+        * [Golf Trolley Batteries](https://www.maplin.co.uk/collections/golf-trolley-batteries)
+        * [Lithium LiFePO4 Batteries](https://www.maplin.co.uk/collections/lithium-lifepo4-batteries)
         * [Power Banks](https://www.maplin.co.uk/collections/power-banks)
         * [Power Stations](https://www.maplin.co.uk/collections/power-stations)
+        * [Sealed Lead Acid (SLA) Batteries](https://www.maplin.co.uk/collections/sla-batteries)
+        * [Watch Batteries](https://www.maplin.co.uk/collections/watch-batteries)
         
     * Battery Accessories
         
@@ -78,6 +78,7 @@ Browse
         * [Torches](https://www.maplin.co.uk/collections/torch-batteries)
         * [Golf Range Finders](https://www.maplin.co.uk/collections/golf-range-finder-batteries)
         * [PowaKaddy / Motocaddy](https://www.maplin.co.uk/collections/golf-trolley-batteries)
+        * [Bulk Battery Bundles](https://www.maplin.co.uk/collections/bulk-batteries)
         
     * Learn More
         
@@ -285,9 +286,9 @@ Browse
     * Shop by Brand
         
         * [Shop by Brand](https://www.maplin.co.uk/pages/photo-video)
-        * [Fujifilm](https://www.maplin.co.uk/collections/fujifilm-1)
-        * [Instax](https://www.maplin.co.uk/collections/fujifilm)
-        * [Praktica](https://www.maplin.co.uk/collections/praktica-imaging)
+        * [Fujifilm](https://www.maplin.co.uk/collections/fujifilm)
+        * [Instax](https://www.maplin.co.uk/collections/instax-by-fujifilm)
+        * [Praktica](https://www.maplin.co.uk/collections/praktica)
         * [Kodak](https://www.maplin.co.uk/collections/kodak)
         * [Ricoh](https://www.maplin.co.uk/collections/ricoh)
         
@@ -374,17 +375,12 @@ Browse
 * Electricals & Lighting
     
     * [Electricals & Lighting](https://www.maplin.co.uk/pages/electricals)
-    * Portable Power
-        
-        * [Portable Power](https://www.maplin.co.uk/collections/portable-power)
-        * [Power Stations](https://www.maplin.co.uk/collections/power-stations)
-        * [Power Inverters](https://www.maplin.co.uk/collections/power-inverters)
-        
     * Solar Power
         
         * [Solar Power](https://www.maplin.co.uk/collections/solar-power)
         * [Solar Panels & Kits](https://www.maplin.co.uk/collections/solar-panels)
         * [Charge Controllers](https://www.maplin.co.uk/collections/solar-charge-controllers)
+        * [Power Inverters](https://www.maplin.co.uk/collections/power-inverters)
         
     * Electrical Supplies
         
@@ -443,7 +439,7 @@ Browse
         
     * Car
         
-        * [Car](https://www.maplin.co.uk/collections/car)
+        * [Car](https://www.maplin.co.uk/pages/car)
         * [Dash Cams](https://www.maplin.co.uk/collections/dash-cams)
         * [Car Power](https://www.maplin.co.uk/collections/car-power)
         * [EV Chargers](https://www.maplin.co.uk/collections/ev-chargers)
@@ -644,7 +640,6 @@ Browse
 * Offers
     
     * [Offers](https://www.maplin.co.uk/collections/deals)
-    * [Father's Day Sale](https://www.maplin.co.uk/pages/fathers-day)
     * [New Products](https://www.maplin.co.uk/collections/new-products)
     * [Latest Offers](https://www.maplin.co.uk/collections/offers)
     * [Clearance](https://www.maplin.co.uk/collections/clearance)
@@ -680,9 +675,7 @@ Browse
     * [C Batteries](https://www.maplin.co.uk/collections/c-batteries)
     * [D Batteries](https://www.maplin.co.uk/collections/d-batteries)
     * [9V Batteries](https://www.maplin.co.uk/collections/9v-batteries)
-    * [AAAA Batteries](https://www.maplin.co.uk/collections/aaaa-batteries)
     * [LR1/E90 Batteries](https://www.maplin.co.uk/collections/lr1-e90-batteries)
-    * [A27 Batteries](https://www.maplin.co.uk/collections/a27-batteries)
     
     [Rechargeable Batteries](https://www.maplin.co.uk/collections/rechargeable-batteries)
     
@@ -703,16 +696,18 @@ Browse
     
     [Specialist Batteries](https://www.maplin.co.uk/collections/specialist-batteries)
     
-    * [Coin Cell Batteries](https://www.maplin.co.uk/collections/coin-cell-batteries)
-    * [Watch Batteries](https://www.maplin.co.uk/collections/watch-batteries)
-    * [Camera Batteries](https://www.maplin.co.uk/collections/camera-batteries)
-    * [Golf Trolley Batteries](https://www.maplin.co.uk/collections/golf-trolley-batteries)
-    * [E-Bike Batteries](https://www.maplin.co.uk/collections/e-bike-batteries)
-    * [Lithium LiFePO4 Batteries](https://www.maplin.co.uk/collections/lithium-lifepo4-batteries)
+    * [AAAA Batteries](https://www.maplin.co.uk/collections/aaaa-batteries)
+    * [A27 Batteries](https://www.maplin.co.uk/collections/a27-batteries)
     * [AGM Batteries](https://www.maplin.co.uk/collections/agm-batteries)
-    * [Sealed Lead Acid (SLA) Batteries](https://www.maplin.co.uk/collections/sla-batteries)
+    * [Camera Batteries](https://www.maplin.co.uk/collections/camera-batteries)
+    * [Coin Cell Batteries](https://www.maplin.co.uk/collections/coin-cell-batteries)
+    * [E-Bike Batteries](https://www.maplin.co.uk/collections/e-bike-batteries)
+    * [Golf Trolley Batteries](https://www.maplin.co.uk/collections/golf-trolley-batteries)
+    * [Lithium LiFePO4 Batteries](https://www.maplin.co.uk/collections/lithium-lifepo4-batteries)
     * [Power Banks](https://www.maplin.co.uk/collections/power-banks)
     * [Power Stations](https://www.maplin.co.uk/collections/power-stations)
+    * [Sealed Lead Acid (SLA) Batteries](https://www.maplin.co.uk/collections/sla-batteries)
+    * [Watch Batteries](https://www.maplin.co.uk/collections/watch-batteries)
     
     [Battery Accessories](https://www.maplin.co.uk/collections/battery-chargers-testers)
     
@@ -732,6 +727,7 @@ Browse
     * [Torches](https://www.maplin.co.uk/collections/torch-batteries)
     * [Golf Range Finders](https://www.maplin.co.uk/collections/golf-range-finder-batteries)
     * [PowaKaddy / Motocaddy](https://www.maplin.co.uk/collections/golf-trolley-batteries)
+    * [Bulk Battery Bundles](https://www.maplin.co.uk/collections/bulk-batteries)
     
     [![Different Battery Types and Sizes at Maplin](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.maplin.co.uk/blogs/expert-advice/battery-sizes-and-types)
     
@@ -933,9 +929,9 @@ Browse
     
     [Shop by Brand](https://www.maplin.co.uk/pages/photo-video)
     
-    * [Fujifilm](https://www.maplin.co.uk/collections/fujifilm-1)
-    * [Instax](https://www.maplin.co.uk/collections/fujifilm)
-    * [Praktica](https://www.maplin.co.uk/collections/praktica-imaging)
+    * [Fujifilm](https://www.maplin.co.uk/collections/fujifilm)
+    * [Instax](https://www.maplin.co.uk/collections/instax-by-fujifilm)
+    * [Praktica](https://www.maplin.co.uk/collections/praktica)
     * [Kodak](https://www.maplin.co.uk/collections/kodak)
     * [Ricoh](https://www.maplin.co.uk/collections/ricoh)
     
@@ -1022,15 +1018,11 @@ Browse
     
 * [Electricals & Lighting](https://www.maplin.co.uk/pages/electricals)
     
-    [Portable Power](https://www.maplin.co.uk/collections/portable-power)
-    
-    * [Power Stations](https://www.maplin.co.uk/collections/power-stations)
-    * [Power Inverters](https://www.maplin.co.uk/collections/power-inverters)
-    
     [Solar Power](https://www.maplin.co.uk/collections/solar-power)
     
     * [Solar Panels & Kits](https://www.maplin.co.uk/collections/solar-panels)
     * [Charge Controllers](https://www.maplin.co.uk/collections/solar-charge-controllers)
+    * [Power Inverters](https://www.maplin.co.uk/collections/power-inverters)
     
     [Electrical Supplies](https://www.maplin.co.uk/collections/electrical-supplies)
     
@@ -1080,7 +1072,7 @@ Browse
     * [Humidifiers](https://www.maplin.co.uk/collections/humidifiers)
     * [Patio Heaters](https://www.maplin.co.uk/collections/patio-heaters)
     
-    [Car](https://www.maplin.co.uk/collections/car)
+    [Car](https://www.maplin.co.uk/pages/car)
     
     * [Dash Cams](https://www.maplin.co.uk/collections/dash-cams)
     * [Car Power](https://www.maplin.co.uk/collections/car-power)
@@ -1275,7 +1267,6 @@ Browse
     
 * [Offers](https://www.maplin.co.uk/collections/deals)
     
-    * [Father's Day Sale](https://www.maplin.co.uk/pages/fathers-day)
     * [New Products](https://www.maplin.co.uk/collections/new-products)
     * [Latest Offers](https://www.maplin.co.uk/collections/offers)
     * [Clearance](https://www.maplin.co.uk/collections/clearance)
@@ -1392,7 +1383,7 @@ We'll post any changes we make to our privacy notice on this page and if they're
 * [HDMI splitters vs hubs](https://www.maplin.co.uk/blogs/expert-advice/difference-between-hdmi-splitters-switches)
 * [What is LiFePO4?](https://www.maplin.co.uk/blogs/expert-advice/what-is-a-lithium-lifepo4-battery)
 * [How to protect your posture](https://www.maplin.co.uk/blogs/expert-advice/improve-posture-while-working)
-* [Maplin magazine](https://www.maplin.co.uk/blogs/electronics-and-beyond)
+* [The Maplin Magazine](https://www.maplin.co.uk/blogs/electronics-and-beyond)
 
 ##### Shopping With Us
 
