@@ -7,7 +7,6 @@
     * [Philips-hue.com exclusives](https://www.philips-hue.com/en-us/products/all-products?filters=exclusive&page=1&sort=relevance)
     * [What's new?](https://www.philips-hue.com/en-us/products/promotions/newest-philips-hue-products)
     * [Last chance sale](https://www.philips-hue.com/en-us/products/promotions/last-chance-sale)
-    * [Bright Days sale](https://www.philips-hue.com/en-us/products/promotions/bright-days)
     * [Go to shop](https://www.philips-hue.com/en-us/products)
     
     Popular
