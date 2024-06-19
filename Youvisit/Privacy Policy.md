@@ -28,7 +28,7 @@ Search for  Search
         * [Enroll360 | Enrollment Management Solution Unlock every recruitment advantage with tailored partnerships for next-generation search, recruitment, and yield](https://eab.com/solutions/enroll360/)
         * [Navigate360 | Higher Ed's Leading CRM Navigate360 is the CRM trusted by 850 schools to recruit, retain, and empower students in college and beyond](https://eab.com/solutions/navigate360/)
         * [Edify | The Higher Education Data Platform Pair powerful data warehousing technology with direct-to-user analytics tools to empower better decision-making across campus](https://eab.com/solutions/edify/)
-        * [Strategic Advisory Services | Expert Guidance for Leadership Teams Drive progress on all your institutional priorities with expert guidance and hands-on support from EAB](https://eab.com/solutions/strategic-advisory-services/)
+        * [Strategic Advisory Services | Expert Guidance and Research Drive progress on your institutional priorities with expert guidance, research, and hands-on support](https://eab.com/solutions/strategic-advisory-services/)
         * [Adult Learner Recruitment | Full-Funnel Grad Enrollment Solution Reach, enroll, and serve graduate, online, and adult learners with next-generation marketing and growth strategies](https://eab.com/solutions/adult-learner-recruitment/)
         * [Virtual Tours | Award-Winning Immersive Tour Experiences Bring your campus story to life with immersive tours that drive student engagement and inquiries](https://eab.com/solutions/virtual-tours/)
         * [All Solutions](https://eab.com/solutions/)
