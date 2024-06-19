@@ -1,26 +1,91 @@
 ![](https://ad.doubleclick.net/ddm/activity/src=9839689;type=invmedia;cat=tommi0;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;npa=;ord=1?)
 
-Shortcut to text
+[TOOMICS](https://toomics.com/en)
 
-[Quick menu](#contents)
-
-[Series](#gnb)
-
-[logo
-====](https://toomics.com/en)
-
-* [Home](https://toomics.com/en)
 * [Weekly](https://toomics.com/en/webtoon/ongoing_all)
 * [Genres](https://toomics.com/en/webtoon/ranking)
 * [New](https://toomics.com/en/age_verification?alt=1&return_url=L2VuL3dlYnRvb24vbmV3X2NvbWljcw~~&cancel_return=L2VuL3dlYnRvb24vbmV3X2NvbWljcw~~)
+* [My Library](https://toomics.com/en/webtoon/recent)
 
-[favorites](javascript:;)[Recently read](https://toomics.com/en/webtoon/recent)[Family Safe](https://toomics.com/en/help/access_terms)
+[Family Safe](https://toomics.com/en/help/access_terms)[Search](https://toomics.com/en/webtoon/search)
 
-Search  Search
+dropdown menu
 
- ![info](/assets/web/img/icon/icon_family_safe.png)N comics have been hidden because you are using Family Safe mode.
+![drawer close](/assets/svg/close.svg)[Family Safe](https://toomics.com/en/help/access_terms)
+
+Read a variety of awesome comics!
 
 Sign in
+
+* [_Language_
+    
+    English](javascript:;)
+* [_Gender_
+    
+    Unknown](javascript:;)
+* [_Pick your genre!_](javascript:;)
+* [_My Library_](https://toomics.com/en/webtoon/recent)
+* [_Customer Service_](https://toomics.com/en/help/notice_list)
+
+#### Choose Language
+
+English
+
+中文(简体)
+
+中文(繁體)
+
+Español(LA)
+
+Español(ES)
+
+Italiano
+
+Português
+
+Deutsch
+
+Français
+
+日本語
+
+Cancel OK
+
+#### Choose Gender
+
+Male
+
+Female
+
+Unknown
+
+Cancel OK
+
+#### VIP Membership reactivated
+
+OK
+
+#### You have received a 1 month VIP Membership for free!
+
+You can cancel your VIP Membership again at any time after 2 weeks.
+
+OK
+
+#### Coin info
+
+Web Coins
+
+0
+
+App Coins
+
+0
+
+Bonus Coins
+
+0
+
+Purchase Coins Close
 
 Customer Service
 ================
@@ -271,56 +336,39 @@ Provision
 
 2\. These terms and conditions are effective as of Nov 21 2020, and the previous terms and conditions shall be superseded and replaced by these terms and conditions.​   
 
-### Tell us what you like!
-
-on/off
-
-Are you over 18?
-
-* [preference check
-    
-    all](#)
-* [preference check
-    
-    drama](#)
-* [preference check
-    
-    romance](#)
-* [preference check
-    
-    school life](#)
-* [preference check
-    
-    comedy](#)
-* [preference check
-    
-    fantasy](#)
-* [preference check
-    
-    action](#)
-* [preference check
-    
-    BL](#)
-* [preference check
-    
-    horror](#)
-* [preference check
-    
-    thriller](#)
-* [preference check
-    
-    sci-fi](#)
-* [preference check
-    
-    historical](#)
-
-Apply
+#### Tell us what you like!
 
 Choose three or more of your favorite genres!
 
-Cancel
+Are you over 18?
 
-Cancel
+* * *
+
+all
+
+drama
+
+romance
+
+school life
+
+comedy
+
+fantasy
+
+action
+
+BL
+
+horror
+
+thriller
+
+sci-fi
+
+historical
+
+Cancel OK
 
 * [Terms of Use](https://toomics.com/en/help/access_terms)
 * [Privacy Policy](https://toomics.com/en/help/private_terms)
@@ -339,7 +387,7 @@ Language
 * [Português](https://toomics.com/por/help/access_terms)
 * [Deutsch](https://toomics.com/de/help/access_terms)
 * [Français](https://toomics.com/fr/help/access_terms)
-* [日本語](https://toomics.com/jp/help/access_terms)
+* [日本語](https://toomics.com/ja/help/access_terms)
 * [한국어](http://www.toomics.com/ko)
 
 ![toomics](/assets/web/img/global/footer-logo_Z.png)
