@@ -97,7 +97,7 @@ Governing law
 Iron Mountain trademarks
 ------------------------
 
- Thank you for visiting our Site. Please contact us at [global.privacy@ironmountain.com](mailto:global.privacy@ironmountain.com) if you have any questions.
+ Thank you for visiting our Site. Please [contact us here](https://www.ironmountain.com/contact/global-privacy-compliance) if you have any questions.
 
 |     |     |
 | --- | --- |
