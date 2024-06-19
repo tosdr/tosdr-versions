@@ -1,21 +1,21 @@
 Key Takeaways
 =============
 
-![](static/e2c9a21b3eac24eb/img/person_slash.svg)
+![](static/d84c59468da9bca7/img/person_slash.svg)
 
 We do not track or collect information about you.
 -------------------------------------------------
 
 TLS Inspector does not require you to create an account or for you to provide us with your personal information to use the app.
 
-![](static/e2c9a21b3eac24eb/img/phone_slash.svg)
+![](static/d84c59468da9bca7/img/phone_slash.svg)
 
 We do not use privacy-invading tracking software.
 -------------------------------------------------
 
 TLS Inspector does not contain any 3rd party tracking software that invades your privacy. We do not collect any information about your device or how you use the app.
 
-![](static/e2c9a21b3eac24eb/img/eye_slash.svg)
+![](static/d84c59468da9bca7/img/eye_slash.svg)
 
 We do not know which hosts you inspect.
 ---------------------------------------
