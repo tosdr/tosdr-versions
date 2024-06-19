@@ -1,3 +1,5 @@
+We are closed Wednesday, June 19, in honor of Juneteenth. 🧡
+
 * [Careers](https://www.zealcu.org/careers/ "Careers")
 
 Routing Number: 272477694
@@ -701,6 +703,16 @@ Zeal Credit Union’s online banking website is a secured website. Our online ba
 
 The Zeal Credit Union homepage website is a secured website. At the Zeal Credit Union homepage members may fill out applications for our products. We use Secured Socket Layer (SSL) technology on our website to encrypt any data that is sent or received. A website secured with the SSL protocol will cause a padlock to display in the URL address bar of a Microsoft browser, ensuring that data transmitted from that page cannot be altered when routed over the Internet. In addition, Zeal Credit Union employs the use of firewalls which are designed to protect our computer network from outside internet activity. These firewalls are regularly monitored to assure their security.
 
+**Zeal Credit Union Mobile App**
+
+Updates to both the iOS and Android platforms require that Zeal Credit Union provide our members with the ability to request the removal of their app accounts and any associated data. This requirement is the latest of many recent compliance updates from Google and Apple related to user privacy and data safety.
+
+If you would like to request the removal of your app accounts and related data, simply send an email request to: **[mxadmin@zealcu.org](mailto:mxadmin@zealcu.org)**.
+
+Please type “Remove App Account” in the subject line of your email and provide us with a good phone number at which to reach you. One of our representatives will be in touch with you to confirm the request is valid and initiate the process.
+
+Upon execution of this request, Zeal Credit Union will delete all associated data held in our digital and internet banking system. This data will no longer be accessible or available to any party. Your accounts will remain active, and your account transaction history will remain in our main system history as long as your accounts are open, but all internet and Mobile Banking data will be deleted.
+
 **Links to 3rd Party Websites**
 
 Our website may contain links to other websites. Zeal Credit Union is not responsible for the privacy practices of those sites. We encourage all users to read the privacy statement of all linked websites. When leaving our site for a site hosted by another company, you will receive a popup notice telling you that you are leaving our site, and users must accept or reject the prompt.
@@ -709,7 +721,7 @@ Our website may contain links to other websites. Zeal Credit Union is not respon
 
 Zeal Credit Union does not market to or collect data online for Rock Star Saver youth accounts, which includes all members age 0-11. For children ages 12-17 in the Nextgen program, we market to and collect data for our Online Banking product only. No other products and services requiring data collection online are knowingly marketed to children under the age of 13.
 
-[Download Digital Privacy Policy](https://www.zealcu.org/app/uploads/Zeal_Digital_Privacy_Policy.pdf)
+[Download Digital Privacy Policy](https://www.zealcu.org/app/uploads/Digital_Privacy_Policy.Final_.6.13.24.pdf)
 
 **Questions** If you have questions about our digital privacy policy, please contact:
 
@@ -722,6 +734,10 @@ Livonia, MI 48152
 Phone: [(800) 321-8570 Ext. 7400](tel:8003218570.7400)
 
 E-mail: [memberservices@zealcu.org](mailto:memberservices@zealcu.org)
+
+##### We will be closed on Wednesday, June 19, in honor of Juneteenth.
+
+We are closed Wednesday, June 19, in honor of Juneteenth. 🧡
 
 ##### Leaving This Site
 
