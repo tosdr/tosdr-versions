@@ -164,6 +164,7 @@ Main navigation
     * Health Resources
         
         * [Healthy Living & Prevention](https://www.lacare.org/healthy-living)
+        * [SUN Bucks](https://www.lacare.org/healthy-living/sun-bucks)
         * [Health & Wellness Videos](https://www.lacare.org/healthy-living/library/wellness-videos)
         * [Maternity Care Programs](https://www.lacare.org/healthy-living/library/maternity-care-programs)
         * [Health Ed Audio Library](https://www.lacare.org/members/getting-care/nurse-advice-line/audio-reference-library)
@@ -492,6 +493,7 @@ L.A. Care Health Plan representatives are available 24 hours a day, 7 days a wee
         * [National Health Center Week](https://www.lacare.org/healthy-living/library/national-health-center-week)
     * Health Resources
         * [Healthy Living & Prevention](https://www.lacare.org/healthy-living)
+        * [SUN Bucks](https://www.lacare.org/healthy-living/sun-bucks)
         * [Health & Wellness Videos](https://www.lacare.org/healthy-living/library/wellness-videos)
         * [Maternity Care Programs](https://www.lacare.org/healthy-living/library/maternity-care-programs)
         * [Health Ed Audio Library](https://www.lacare.org/members/getting-care/nurse-advice-line/audio-reference-library)
