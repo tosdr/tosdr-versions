@@ -140,6 +140,8 @@
         
         [USMA at West Point](https://www.goarmy.com/careers-and-jobs/find-your-path/army-officers/military-academy.html)
         
+        [Green to Gold](https://www.goarmy.com/careers-and-jobs/find-your-path/army-officers/green-to-gold.html)
+        
         #### Medical Path
         
         [Army Medical](https://www.goarmy.com/careers-and-jobs/specialty-careers/medical.html)
