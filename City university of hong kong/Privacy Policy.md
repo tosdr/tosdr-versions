@@ -44,6 +44,7 @@ Search Keywords  Submit Search
     * E-Tools
         * [BrowZine](https://libguides.library.cityu.edu.hk/browzine)
         * [EndNote](http://libguides.library.cityu.edu.hk/endnote)
+        * [LibKey Nomad](https://libguides.library.cityu.edu.hk/fulltext/libkeynomad)
     * [Resources on Trial](https://www.cityu.edu.hk/lib/eres/trial/list.htm)
     * Alumni and Others
         * [Alumni e-Resources Service Subscribers](https://www.cityu.edu.hk/lib/eres/database/db_alumni.htm)
@@ -277,6 +278,7 @@ The Run Run Shaw Library website contains links to other independently run websi
     * [Digital Collections](https://www.cityu.edu.hk/lib/digital/index.htm)
     * [BrowZine](https://libguides.library.cityu.edu.hk/browzine)
     * [EndNote](http://libguides.library.cityu.edu.hk/endnote)
+    * [LibKey Nomad](https://libguides.library.cityu.edu.hk/fulltext/libkeynomad)
     * [Resources on Trial](https://www.cityu.edu.hk/lib/eres/trial/list.htm)
     * [Alumni e-Resources Service Subscribers](https://www.cityu.edu.hk/lib/eres/database/db_alumni.htm)
     * [Outpost Campuses](https://lbapp01.lib.cityu.edu.hk/web_form/ref/dldb.php)
