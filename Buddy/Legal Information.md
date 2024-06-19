@@ -79,6 +79,8 @@ We collect personal information that you voluntarily provide to us when you regi
 
 **Payment Data.** We may collect data necessary to process your payment if you make purchases, such as your payment instrument number, and the security code associated with your payment instrument. All payment data is stored by Apple. You may find their privacy notice link(s) here: [https://www.apple.com/se/legal/internet-services/terms/site.html](https://www.apple.com/se/legal/internet-services/terms/site.html).
 
+In case you use the payment account synchronization feature of our application(s), your online banking credentials are by default used only upon your manual entry and are not stored by the application, Salt Edge, or Plaid as data processors. However, you can voluntarily choose to have your credentials stored by Salt Edge or Plaid.
+
 **Application Data.** If you use our application(s), we also may collect the following information if you choose to provide us with access or permission:
 
 * Mobile Device Data. We automatically collect device information (such as your mobile device ID, model, and manufacturer), operating system, version information and system configuration information, device and application identification numbers, browser type and version, hardware model Internet service provider and/or mobile carrier, and Internet Protocol (IP) address (or proxy server). If you are using our application(s), we may also collect information about the phone network associated with your mobile device, your mobile device’s operating system or platform, the type of mobile device you use, your mobile device’s unique device ID, and information about the features of our application(s) you accessed.
@@ -315,6 +317,8 @@ Stockholm 113 27
 #### 12\. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
 
 Based on the applicable laws of your country, you may have the right to request access to the personal information we collect from you, change that information, or delete it. To request to review, update, or delete your personal information, please submit a request form by clicking [here](https://app.termly.io/notify/66861480-b13a-4101-871d-f49b350eab6f).
+
+This document was last revised on **June 12, 2024**.
 
 ![](https://buddy.download/wp-content/themes/nyamost/new_assets/img/logotype_purple.svg)
 
