@@ -20,24 +20,25 @@ When you register with Headspace, we understand that you are choosing to place y
 * [11\. DIGITAL MILLENNIUM COPYRIGHT ACT (“DMCA”) NOTICE‍](#digital-millennium-copyright-act-dmca-notice‍)
 * [12\. ELECTRONIC COMMUNICATIONS CONSENT](#electronic-communications-consent)
 * [13\. INTERNATIONAL USE](#international-use)
-* [14\. GENERAL](#general)
+* [14\. DISPUTE RESOLUTION & BINDING ARBITRATION](#dispute-resolution-and-binding-arbitration)
+* [15\. GENERAL](#general)
 
 * * *
 
   
-Effective: January 1, 2024.  
+Effective: June 14, 2024.  
   
 If you are visually impaired, have another disability or seek support in other languages, you may access these Terms by emailing us at help@headspace.com.  
   
-Headspace, Inc. and its subsidiaries and affiliates (“Headspace,” “us” or “we”) provides content and products via: www.headspace.com (the “Website”), our applications (the “Apps”), or other delivery methods (the Website, the Apps and such content and products are collectively the “Product”). Headspace, in partnership with its affiliated medical providers and partners, including Ginger.io of California Medical P.C., may deliver coaching services, psychotherapy services (i.e. therapy), and psychiatry services (collectively the “Services”) using the Products or via other delivery methods, as applicable.  
+Headspace, Inc. and its subsidiaries and affiliates (“Headspace,” “us” or “we”) provides content and products via: www.headspace.com (the “Website”), our applications (the “Apps”), or other delivery methods (the Website, the Apps and such content and products are collectively the “Product”). Headspace, in partnership with its affiliated medical providers and partners, may deliver coaching services, psychotherapy services (i.e. therapy), and psychiatry services (collectively the “Services”) using the Products or via other delivery methods, as applicable. For purposes of clarity, the Services are provided by coaches and licensed clinicians employed by or contracted with our affiliated medical provider, Ginger.io of California Medical P.C. (the “Providers”). Headspace is not a provider of healthcare or mental health services; rather, Headspace offers a technology platform through which the Providers provide telehealth services.  
   
 These Terms & Conditions (these “Terms”) govern your access to and use of the Products and Services. The term “Device” refers to the device which is used to access the Products or Services, including but not limited to computers, smartphones, and tablets. The term “you” refers to the user of the Products or Services.  
   
-Protecting and safeguarding any personal information you provide through the Products and Services is extremely important to us. Information about our privacy practices can be found in our [Privacy Policy](https://www.headspace.com/privacy-policy) (“Privacy Policy”). You acknowledge that your use of the Products and Services is also subject to our Privacy Policy.  
+Protecting and safeguarding any personal information you provide through the Products and Services is extremely important to us. Information about our privacy practices can be found in our [Privacy Policy](https://www.headspace.com/privacy-policy) (“Privacy Policy”). You acknowledge that your use of the Products and Services is also subject to our Privacy Policy. You further acknowledge that your use of the Products and Services may require the collection of your health information. This health information may be considered sensitive under your local laws. For example, this health information can fall under the “special category” of personal data under the GDPR which you can learn more about in Section 10 of our Privacy Policy. In certain US states, this health information may be “consumer health data” as defined under applicable laws including Washington’s My Health My Data Act, Connecticut’s Data Privacy Act, and Nevada’s SB 370. If you are from those states, you can learn more in our [Consumer Health Data Privacy Policy which](https://www.headspace.com/consumer-health-data) supplements the Headspace [Privacy Policy](https://www.headspace.com/privacy-policy) and applies to personal information that falls within the definition of “consumer health data.” We encourage you to review both policies to learn more about our privacy practices and our commitments to you.  
   
-YOU AGREE THAT THE PRODUCTS AND SERVICES ARE NOT INTENDED TO BE USED IN A MEDICAL EMERGENCY. IF YOU ARE LOCATED IN THE UNITED STATES AND YOU ARE HAVING THOUGHTS OF SUICIDE OR SELF-HARM, PLEASE CALL OR TEXT 988, THE SUICIDE AND CRISIS LIFELINE. IF YOU ARE IN IMMEDIATE DANGER, PLEASE CONTACT 911 OR GO TO THE NEAREST EMERGENCY ROOM. DO NOT ATTEMPT TO ACCESS EMERGENCY CARE THROUGH THESE PRODUCTS AND SERVICES. IF YOU ARE LOCATED OUTSIDE OF THE UNITED STATES, PLEASE CONTACT YOUR LOCAL CRISIS OR EMERGENCY RESOURCES OR GO TO THE NEAREST EMERGENCY ROOM.  
+YOU AGREE THAT THE PRODUCTS AND SERVICES ARE NOT INTENDED TO BE USED IN A MEDICAL EMERGENCY. IF YOU ARE LOCATED IN THE UNITED STATES AND YOU ARE HAVING THOUGHTS OF SUICIDE OR SELF-HARM, PLEASE CALL OR TEXT 988, THE SUICIDE AND CRISIS LIFELINE. IF YOU ARE EXPERIENCING A MEDICAL OR MENTAL HEALTH EMERGENCY, PLEASE CONTACT 911 OR GO TO THE NEAREST EMERGENCY ROOM. DO NOT ATTEMPT TO ACCESS EMERGENCY CARE THROUGH THESE PRODUCTS AND SERVICES. IF YOU ARE LOCATED OUTSIDE OF THE UNITED STATES, PLEASE CONTACT YOUR LOCAL CRISIS OR EMERGENCY RESOURCES OR GO TO THE NEAREST EMERGENCY ROOM.  
   
-PLEASE NOTE THAT THESE TERMS CONTAIN AN ARBITRATION CLAUSE [(SECTION) 14.9](https://www.headspace.com/terms-and-conditions#14). EXCEPT FOR CERTAIN TYPES OF DISPUTES MENTIONED IN THE ARBITRATION CLAUSE, YOU AND HEADSPACE AGREE THAT DISPUTES RELATING TO THESE TERMS OR YOUR USE OF THE PRODUCTS AND SERVICES WILL BE RESOLVED BY MANDATORY BINDING ARBITRATION, AND YOU WAIVE ANY RIGHT TO PARTICIPATE IN A CLASS-ACTION LAWSUIT OR CLASS-WIDE ARBITRATION.
+PLEASE NOTE THAT THESE TERMS CONTAIN AN ARBITRATION CLAUSE (SECTION 14). EXCEPT FOR CERTAIN TYPES OF DISPUTES MENTIONED IN THE ARBITRATION CLAUSE, YOU AND HEADSPACE AGREE THAT DISPUTES RELATING TO THESE TERMS OR YOUR USE OF THE PRODUCTS AND SERVICES WILL BE RESOLVED BY MANDATORY BINDING ARBITRATION, AND YOU WAIVE ANY RIGHT TO PARTICIPATE IN A CLASS-ACTION LAWSUIT OR CLASS-WIDE ARBITRATION.
 
 1\. WHAT YOU’RE SIGNING UP FOR
 ------------------------------
@@ -45,12 +46,12 @@ PLEASE NOTE THAT THESE TERMS CONTAIN AN ARBITRATION CLAUSE [(SECTION) 14.9](http
 1.1 PRODUCTS AND SERVICES
 -------------------------
 
-Products include, without limitation, meditation and mindfulness content for stress, sleep, focus and movement. Services include, without limitation, mental health support through coaching, therapy, and psychiatry. If you elect to access and receive the Services, your care may be provided by behavioral health coaches and licensed health care providers.
+Products include, without limitation, meditation and mindfulness content for stress, sleep, focus and movement. Services include, without limitation, mental health support through coaching, therapy, and psychiatry. If you elect to access and receive the Services, your care may be provided by mental health coaches and licensed health care providers.
 
 1.2 GENERAL RULES FOR USE OR ACCESS
 -----------------------------------
 
-(a) When you order (“Order”) any Products or Services, or otherwise use or access the Products or Services, you agree to be bound by these Terms and all applicable laws, rules, regulations, judicial orders, executive orders or similar binding legal instruments (“Applicable Law”). You may also be asked to click “I accept” prior to your purchase or access to the Products and Services. If you do not click “I accept”, you may not be able to complete your purchase or access the Products or Services. If you do not agree to these Terms, please do not use the Products or Services.  
+(a) When you order (“Order”) any Products or Services, or otherwise use or access the Products or Services, you agree to be bound by these Terms and all applicable laws, rules, regulations, judicial orders, executive orders or similar binding legal instruments (“Applicable Law”). You may also be asked to click “I agree” prior to your purchase or access to the Products and Services. If you do not click “I agree”, you may not be able to complete your purchase or access the Products or Services. If you do not agree to these Terms, please do not use the Products or Services.  
   
 (b) These Terms and the applicable Order set out the whole agreement between you and us for the supply of the Products and Services unless expressly stated otherwise. For instance, in order to use or access certain Products or Services or other special offerings, you may be required to agree to additional terms and conditions or policies; those additional terms or policies are hereby incorporated into these Terms. Where such terms or policies are inconsistent with these Terms, the additional terms or policies will control.  
   
@@ -90,8 +91,8 @@ Our Products and Services are generally intended for individuals at least 18 yea
   
 We do not support Members under the age of 13. You may notice some content in our Products that appears geared towards children. This content is only meant for you to share with your child under your supervision, and does not require or allow your child to sign up as a registered user.
 
-2.3 SUBSCRIPTIONS
------------------
+2.3 SUBSCRIPTIONS & PURCHASES
+-----------------------------
 
 (a) **Free Trials.** You may have access to a free trial period of certain Products (“Free Trial”). You are only allowed one Free Trial regardless of your subscription method. We reserve the right to determine eligibility for Free Trials, which may vary based on factors including the Product or Service you select and whether you have redeemed a Free Trial previously. Free Trials automatically convert to a paid annual or monthly subscription term after a certain period of time. You can disable the automatic conversion by following the cancellation instructions set forth in Section 3 prior to the date of conversion.  
   
@@ -105,16 +106,18 @@ We do not support Members under the age of 13. You may notice some content in ou
   
 (f) **Gift Subscriptions.** “Gift Subscriptions” are pre-paid memberships to the Products. A person who purchases the gift is the “Giftor.” A person who receives and redeems a Gift Subscription is the “Recipient.” Gift Subscriptions are paid for by a one-time upfront payment. Once bought, the Giftor will receive an Order confirmation and receipt. The Gift Subscription will be sent to the Recipient on the Giftor’s specified date with a gifting code to redeem the Gift Subscription. Gifting codes can only be used once in the country for which they were purchased and cannot be redeemed for cash, resold or combined with any other offers, including free trial unless expressly stated otherwise. Please note that gifting codes cannot be redeemed if the Recipient has already purchased a subscription through the Apple iTunes Store,our iPhone application, the Google Play Store, or our Android application. We will automatically bill the Payment Method that the Giftor provided for any purchased Gift Subscriptions at the time of purchase, not upon delivery to or redemption by Recipient. There are no refunds or other credits for Gift Subscription that are not redeemed. Headspace will notify the Recipient prior to the end of the Gift Subscription that the gift period is about to expire. Headspace is not responsible if a Gift Subscription is lost, stolen or used without permission.  
   
-(g) **Discounts.** Headspace may offer certain special discount pricing options (the “Special Discount Pricing Options”). Such Special Discount Pricing Options will only be available to qualified users (the “Qualified Users”). Headspace reserves the right to determine if you are a Qualified User in our sole discretion. Additional terms may apply to such Special Discount Pricing Options.  
+(g) **Purchases.** You may access some Products or Services by paying Headspace or our App marketplace partners a non-recurring fee at the time of registration (“Purchase”). If you make a Purchase, you authorize Headspace or our App marketplace partners, as applicable, to charge all accrued sums (“Fees”) on the payment due date for the accrued sums. Your account will be charged automatically on the date when you purchase the Product. Please note that the sale is final for all Purchases, and we will not provide a refund.  
   
-(h) **Prices in US Dollars and Euros include local taxes.** Prices in Pound Sterling include VAT unless otherwise stated. You agree not to hold us responsible for banking charges incurred due to payments on your account. If payment is not received by us from the Payment Method you provided, you agree to pay all amounts due upon demand by us.
+(h) **Discounts.** Headspace may offer certain special discount pricing options (the “Special Discount Pricing Options”). Such Special Discount Pricing Options will only be available to qualified users (the “Qualified Users”). Headspace reserves the right to determine if you are a Qualified User in our sole discretion. Additional terms may apply to such Special Discount Pricing Options.  
+  
+(i) **Prices in US Dollars and Euros include local taxes.** Prices in Pound Sterling include VAT unless otherwise stated. You agree not to hold us responsible for banking charges incurred due to payments on your account. If payment is not received by us from the Payment Method you provided, you agree to pay all amounts due upon demand by us.
 
 2.4 PAYMENT TERMS
 -----------------
 
 (a) Your use of the Products and Services may require you to pay fees. We reserve the right to determine pricing for the Products and Services. The fees you owe may vary based on many factors, including but not limited to your employer, healthcare provider, health plan or other Benefit Sponsor’s agreement with us, or the coverage offered by your applicable health insurance provider. We are not responsible for whether your health insurance offers any amount of coverage for the Products and Services. We will make reasonable efforts to keep pricing information published on our Website up-to-date.  
   
-(b) You are responsible for all applicable fees and charges incurred, including applicable taxes, unless otherwise stated in your Partner terms and conditions or otherwise agreed to in writing between the parties. Before you pay any fees, you will have the opportunity to review and accept the fees that you will be charged. In order to access the Products and Services, you may be required to provide your payment information. You agree to promptly notify Headspace of any changes to your Payment Method while any payments remain outstanding. You authorize Headspace or a third-party payment processor to charge all fees for the Products and Services, including all applicable taxes, to the Payment Method. If you pay any fees with a credit card, we (or a third-party payment processor) may seek pre-authorization of your credit card account prior to purchase to verify that the credit card is valid and has the necessary funds or credit to cover your purchase. If we use a third-party payment processor, such as Stripe or Zuora, their use of your personal information is subject to their applicable terms of service and privacy policy. For Stripe, those terms are available at [https://stripe.com/legal](https://stripe.com/legal) and [https://stripe.com/privacy](https://stripe.com/privacy).  
+(b) You are responsible for all applicable fees and charges incurred, including applicable taxes, unless otherwise stated in your Benefit Sponsor terms and conditions or otherwise agreed to in writing between the parties. Before you pay any fees, you will have the opportunity to review and accept the fees that you will be charged. In order to access the Products and Services, you may be required to provide your payment information. You agree to promptly notify Headspace of any changes to your Payment Method while any payments remain outstanding. You authorize Headspace or a third-party payment processor to charge all fees for the Products and Services, including all applicable taxes, to the Payment Method. If you pay any fees with a credit card, we (or a third-party payment processor) may seek pre-authorization of your credit card account prior to purchase to verify that the credit card is valid and has the necessary funds or credit to cover your purchase. If we use a third-party payment processor, such as Stripe or Zuora, their use of your personal information is subject to their applicable terms of service and privacy policy. For Stripe, those terms are available at [https://stripe.com/legal](https://stripe.com/legal) and [https://stripe.com/privacy](https://stripe.com/privacy).  
   
 (c) In the course of your use of the Products or Services, Headspace and its third-party payment processor may receive and use updated credit card information from your credit card issuer to prevent your Subscription from being interrupted by an outdated or invalid card. This information is provided to Headspace and Headspace’s third-party payment processor at the sole election of your credit card issuer. Your credit card issuer may give you the right to opt-out of the update service. Should you desire to do so, please contact your credit card issuer. You agree not to hold us responsible for banking charges incurred due to payments on your account.
 
@@ -134,7 +137,7 @@ We reserve the right to change our subscription fees, plans or adjust pricing fo
 3.1 CANCELLATION BY US
 ----------------------
 
-We may suspend or terminate your use of the Products and/or Services as a result of your fraud or breach of any obligation under these Terms. A breach of these Terms, includes without limitation, the unauthorized copying or download of our audio or video content from the Products or Services and Services or recording of the Services. Such termination or suspension may be immediate and without notice. If we terminate your account, you may receive a pro rata refund of fees that you prepaid for the Services. Your access to the Products or Services may terminated if the relationship between Headspace and your employer or provider terminates or expires, or if your relationship with your employer or provider ends. If this happens, Headspace will use reasonable efforts to give you seven (7) days’ notice before access to the Products or Services is terminated.
+We may suspend or terminate your use of the Products and/or Services as a result of your fraud or breach of any obligation under these Terms. A breach of these Terms, includes without limitation, the unauthorized copying or download of our audio or video content from the Products or Services or recording of the Services. Such termination or suspension may be immediate and without notice. If we terminate your account, you may receive a pro rata refund of fees that you prepaid for the Services. Your access to the Products or Services may be terminated if the relationship between Headspace and your employer or provider terminates or expires, or if your relationship with your employer or provider ends. If this happens, Headspace will use reasonable efforts to give you seven (7) days’ notice before access to the Products or Services is terminated.
 
 3.2 CANCELLATION BY YOU
 -----------------------
@@ -155,31 +158,33 @@ By using the Products and Services you agree not to:
 
 (a) copy, store, reproduce, transmit, modify, alter, reverse-engineer, emulate, decompile, or disassemble the Products or Services in any way, or create derivative works of the Products or Services;
 
-(b) use the Products or Services (or any part of them) to create any tool or software product that can be used to create software applications of any nature whatsoever;
+(b) record the Services, including any coaching, therapy or psychiatry session;
 
-(c) upload, post, email or otherwise send or transmit or introduce any material that contains software viruses or any other computer code, files or programs designed to interrupt, harm, damage, destroy or limit the functionality of any computer software or hardware or equipment linked directly or indirectly with the Products or Services;
+(c) use the Products or Services (or any part of them) to create any tool or software product that can be used to create software applications of any nature whatsoever;
 
-(d) interfere with the servers or networks underlying or connected to the Products and Services or to violate any of the procedures, policies or regulations of networks connected to the Products or Services;
+(d) upload, post, email or otherwise send or transmit or introduce any material that contains software viruses or any other computer code, files or programs designed to interrupt, harm, damage, destroy or limit the functionality of any computer software or hardware or equipment linked directly or indirectly with the Products or Services;
 
-(e) access the Products or Services in an unauthorized manner, including in violation of any local, state, national or international law
+(e) interfere with the servers or networks underlying or connected to the Products and Services or to violate any of the procedures, policies or regulations of networks connected to the Products or Services;
 
-(f) circumvent any territorial restrictions applied to the Products or Services;
+(f) access the Products or Services in an unauthorized manner, including in violation of any local, state, national or international law
 
-(g) perform any fraudulent activity including impersonating any other person or entity while using the Products or Services;
+(g) circumvent any territorial restrictions applied to the Products or Services;
 
-(h) conduct yourself in an offensive manner while using the Products or Services (including, but not limited to, bullying, harassing, or using hate speech or degrading comments about things like race, religion, culture, sexual orientation, gender or identity, age, disability, or serious disease);
+(h) perform any fraudulent activity including impersonating any other person or entity while using the Products or Services;
 
-(i) use the Products or Services for any illegal, immoral or harmful purpose (including, without limitation, unlawful, harassing, libelous, invasion of another’s privacy, abusive, threatening or obscene purposes);
+(i) conduct yourself in an offensive manner while using the Products or Services (including, but not limited to, bullying, harassing, or using hate speech or degrading comments about things like race, religion, culture, sexual orientation, gender or identity, age, disability, or serious disease);
 
-(j) use the Products or Services for any purposes related to scientific research, analysis or evaluation of the Products or Services without the express written consent of Headspace;
+(j) use the Products or Services for any illegal, immoral or harmful purpose (including, without limitation, unlawful, harassing, libelous, invasion of another’s privacy, abusive, threatening or obscene purposes);
 
-(k) rent, lease, loan, make available to the public, sell or distribute the Products or Services in whole or in part or use the Products or Services except for your own personal use;
+(k) use the Products or Services for any purposes related to scientific research, analysis or evaluation of the Products or Services without the express written consent of Headspace;
 
-(l) violate, or encourage others to violate, any right of a third party, including by infringing or misappropriating any third-party intellectual property right;
+(l) rent, lease, loan, make available to the public, sell or distribute the Products or Services in whole or in part or use the Products or Services except for your own personal use;
 
-(m) sell or otherwise transfer access granted under these Terms or any Materials (as defined below) or any right or ability to view, access, or use any Materials; or
+(m) violate, or encourage others to violate, any right of a third party, including by infringing or misappropriating any third-party intellectual property right;
 
-(n) attempt to do any of the acts described in this Section or as otherwise prohibited by these Terms or assist or permit any person in engaging in any of the acts described in this Section or otherwise as prohibited by the Terms.
+(n) sell or otherwise transfer access granted under these Terms or any Materials (as defined below) or any right or ability to view, access, or use any Materials; or
+
+(o) attempt to do any of the acts described in this Section or as otherwise prohibited by these Terms or assist or permit any person in engaging in any of the acts described in this Section or otherwise as prohibited by the Terms.
 
 We reserve the right to immediately terminate your access to or use of our Products or Services if we believe, in our sole discretion, that you exhibit such behavior or you violate or attempt to violate any laws or breach these Terms.
 
@@ -276,7 +281,7 @@ By granting you the right to use the Products or Services, the Headspace Entitie
 
 EXCEPT AS OTHERWISE EXPRESSLY SET FORTH IN THIS AGREEMENT, YOU AGREE THAT:
 
-(a) IF YOU ARE IN NEED OF OR ARE SEEKING MEDICAL TREATMENT, YOU SHOULD CONTACT YOUR HEALTHCARE PROVIDER. IF YOU ARE HAVING THOUGHTS OF HARMING OR KILLING YOURSELF, PLEASE CALL OR TEXT 988, THE SUICIDE AND CRISIS LIFELINE, AND IF YOU ARE IN IMMEDIATE DANGER, PLEASE CONTACT 911 (OR YOUR LOCAL EQUIVALENT) OR GO TO THE NEAREST EMERGENCY ROOM;
+(a) IF YOU ARE IN NEED OF OR ARE SEEKING MEDICAL TREATMENT, YOU SHOULD CONTACT YOUR HEALTHCARE PROVIDER. IF YOU ARE HAVING THOUGHTS OF HARMING OR KILLING YOURSELF, PLEASE CALL OR TEXT 988, THE SUICIDE AND CRISIS LIFELINE, AND IF YOU ARE EXPERIENCING A MEDICAL OR MENTAL HEALTH EMERGENCY, PLEASE CONTACT 911 (OR YOUR LOCAL EQUIVALENT) OR GO TO THE NEAREST EMERGENCY ROOM;
 
 (b) HEADSPACE (WITH THE EXCEPTION OF ITS AFFILIATED MEDICAL PROVIDERS) IS NOT A LICENSED MEDICAL CARE PROVIDER; DOES NOT PROVIDE MEDICAL TREATMENT, ADVICE, OR DIAGNOSIS; HAS NO EXPERTISE IN DETERMINING THE EFFECT OF ANY SPECIFIC TREATMENT ON A MEDICAL CONDITION; AND IS NOT YOUR HEALTHCARE PROVIDER;
 
@@ -300,7 +305,7 @@ While there is research that meditation can assist in the prevention and recover
 9.2 Coaching Assumption of Risk
 -------------------------------
 
-If you access and engage with our behavioral health coaching service, you will work with behavioral health coaches who will provide personal support, encouragement and motivation (“Coaches”). The Coaches who provide the behavioral health coaching services do not provide medical advice, professional clinical counseling or other clinical or psychotherapy services. None of the advice provided by the Coaches, the Website or the Products should be considered medical or clinical advice and none of such information is intended as medical or clinical advice. You should always talk to your physician or other other healthcare professionals for diagnosis and treatment, including information regarding which drugs or treatment may be appropriate for you. Do not disregard professional medical advice or delay seeking professional advice because of information you have read on our Website, Apps or received through a Coach. Do not stop taking any medications without speaking to your physician or other healthcare professional. The information provided in or through our Website, Apps or the Coaches is not intended to be a substitute for professional medical advice, diagnosis or treatment that can be provided by your doctor or physician, nurse, or any other medical or clinical healthcare professional.
+If you access and engage with our mental health coaching service, you will work with mental health coaches who will provide personal support, encouragement and motivation (“Coaches”). The Coaches who provide the mental health coaching services do not provide medical advice, professional clinical counseling or other clinical or psychotherapy services. None of the advice provided by the Coaches, the Website or the Products should be considered medical or clinical advice and none of such information is intended as medical or clinical advice. You should always talk to your physician or other other healthcare professionals for diagnosis and treatment, including information regarding which drugs or treatment may be appropriate for you. Do not disregard professional medical advice or delay seeking professional advice because of information you have read on our Website, Apps or received through a Coach. Do not stop taking any medications without speaking to your physician or other healthcare professional. The information provided in or through our Website, Apps or the Coaches is not intended to be a substitute for professional medical advice, diagnosis or treatment that can be provided by your doctor or physician, nurse, or any other medical or clinical healthcare professional.
 
 10\. WARRANTIES AND DISCLAIMERS
 -------------------------------
@@ -309,7 +314,7 @@ If you access and engage with our behavioral health coaching service, you will w
 
 APPLICABLE LAW IN SOME JURISDICTIONS MAY IMPLY WARRANTIES, CONDITIONS, OR GUARANTEES OR IMPOSE OBLIGATIONS WHICH PROVIDE YOU WITH CERTAIN CONSUMER RIGHTS. THESE TERMS ARE IN NO WAY INTENDED TO RESTRICT THOSE RIGHTS AND HEADSPACE DOES NOT DISCLAIM ANY WARRANTY OR OTHER RIGHT THAT HEADSPACE IS PROHIBITED FROM DISCLAIMING UNDER APPLICABLE LAW.
 
-**10.2** Headspace’s meditation, mindfulness, sleep and movement content and behavioral health coaching should not be considered health care, a medical device, or considered medical advice. Only your physician or other health care provider can provide medical advice. The advice and other materials we make available are intended to support the relationship between you and your healthcare providers and not replace it. We are not liable or responsible for any consequences of your having read or been told about such advice or other materials as you assume full responsibility for your decisions and actions. In particular, to the fullest extent permitted by law, we make no representation or warranties about the accuracy, completeness, or suitability for any purpose of the advice, other materials and information published as part of the Products and Services.
+**10.2** Headspace’s meditation, mindfulness, sleep and movement content and mental health coaching should not be considered health care, a medical device, or considered medical advice. Only your physician or other health care provider can provide medical advice. The advice and other materials we make available are intended to support the relationship between you and your healthcare providers and not replace it. We are not liable or responsible for any consequences of your having read or been told about such advice or other materials as you assume full responsibility for your decisions and actions. In particular, to the fullest extent permitted by law, we make no representation or warranties about the accuracy, completeness, or suitability for any purpose of the advice, other materials and information published as part of the Products and Services.
 
 **10.3** To the extent that you participate in any movement content featured in the Products or Services, you represent and warrant that you are in adequate physical health to perform such activities and have no disability or condition that would make such movement dangerous. You should consult a licensed physician prior to beginning or modifying any exercise program that you undertake especially if you have a prior injury, a history of heart disease, high blood pressure, other chronic illness, or condition. You acknowledge that Headspace has advised you of the necessity of doing so.
 
@@ -345,7 +350,11 @@ By Mail: Headspace Attn: Copyright Agent 500 Molino St., Suite 118 Los Angeles, 
 
 Email, text messaging, push notifications and other electronic communication (“Electronic Communications”), such as posting notices on the Products or Services allow Headspace to exchange information with you efficiently in connection with the provisioning of our Products and Services, product information, appointment reminders, and links to surveys.
 
-Your use of the Products and Services means that you agree and consent to the use of Electronic Communications as an acceptable form of communication for the purposes of receiving our Products and Services and product information. Standard text messaging charges applied by your cell phone carrier will apply to text messages we send. You acknowledge that Electronic Communications may not be a completely secure means of communication, and there may be the potential for such communications to be accessed in storage or during transmission. We will limit the amount and type of confidential information disclosed in un-encrypted Electronic Communications in compliance with our privacy policy.
+Your use of the Products and Services means that you agree and consent to the use of Electronic Communications as an acceptable form of communication for the purposes of receiving our Products and Services and product information.
+
+By providing us with your phone number, you consent to receiving SMS/text message communications from us related to the Products and/or Services, including marketing and promotional messages, even if the phone number you provide is registered on any federal or state Do-Not-Call registry. Standard text messaging charges applied by your cell phone carrier will apply to text messages we send. You may opt out of receiving SMS/ text message communications from us at any time by replying “STOP”. We will send a final SMS message to confirm that you have been unsubscribed and after this you will no longer receive SMS messages from us.
+
+You acknowledge that Electronic Communications may not be a completely secure means of communication, and there may be the potential for such communications to be accessed in storage or during transmission. We will limit the amount and type of confidential information disclosed in un-encrypted Electronic Communications in compliance with our privacy policy.
 
 Applicable laws require that some of the information or communications we send to you should be in writing. You agree to transact with us electronically, and that communication with us will be mainly electronic. You acknowledge that all contracts, notices, information and other communications that we provide to you electronically comply with any legal requirement that such communications be in writing. You have the right to receive a paper copy of the communications. To receive a paper copy, please request it by emailing us at help@headspace.com. Please be sure to state that you are requesting a copy of the particular communication.
 
@@ -356,7 +365,7 @@ We reserve the right, in our sole discretion, to discontinue the provision of yo
 13\. INTERNATIONAL USE
 ----------------------
 
-If you are located outside of the United States, you may have access to our meditation, mindfulness, sleep and movement content and behavioral health coaching only. Any additional services, included but not limited to therapy or psychiatry services, are provided by our partners or affiliates and your engagement with such additional services is governed by additional terms and policies which will be presented to you when applicable.
+If you are located outside of the United States, you may have access to our meditation, mindfulness, sleep and movement content and mental health health coaching only. The purpose of such content and mental health coaching is not the diagnosis, prevention, monitoring, prediction, prognosis, treatment or alleviation of disease. Any additional services, included but not limited to therapy or psychiatry services, are provided by our partners or affiliates and your engagement with such additional services is governed by additional terms and policies which will be presented to you when applicable.
 
 You may not export or re-export any Products except in full compliance with all Applicable Law, including in particular the Export Administration Regulations of the U.S. Department of Commerce.
 
@@ -364,20 +373,53 @@ You may not access to the Products or Services or any features thereof from coun
 
 SOME JURISDICTIONS DO NOT ALLOW EXCLUSION OF CERTAIN TYPES OF WARRANTIES AND CONDITIONS OR LIMITATIONS ON CERTAIN TYPES OF DAMAGES, SO SOME OF THE DISCLAIMERS IN SECTION 10 OR LIMITATIONS IN SECTION 14.3 MAY NOT APPLY TO YOU.
 
-14\. GENERAL
+14\. DISPUTE RESOLUTION & BINDING ARBITRATION
+---------------------------------------------
+
+PLEASE READ THE FOLLOWING PARAGRAPHS CAREFULLY, AS THEY REQUIRE YOU TO ARBITRATE DISPUTES WITH HEADSPACE, AND LIMIT THE MANNER IN WHICH YOU CAN SEEK RELIEF FROM HEADSPACE, INCLUDING A LIMITATION ON THE RIGHT TO LITIGATE CLAIMS IN A COURT OR BEFORE A JURY OR TO PARTICIPATE IN A CLASS ACTION OR REPRESENTATIVE ACTION WITH RESPECT TO A CLAIM. FOR PROCEDURES RELATED TO MASS ARBITRATIONS, PLEASE REVIEW [SECTION G](https://www.headspace.com/terms-and-conditions#APMA), BELOW.
+
+(a) Jury Trial Waiver. Except where prohibited by law, you and Headspace waive any constitutional and statutory rights to go to court and have a trial in front of a judge or a jury. Rather, you and Headspace elect to have claims and disputes resolved by arbitration. In any litigation between you and Headspace over whether to vacate or enforce an arbitration award, you and Headspace waive all rights to a jury trial, and elect instead to have the dispute be resolved by a judge. ‍‍  
+  
+(b) Class Action Waiver. WHERE PERMITTED UNDER THE APPLICABLE LAW, YOU AND HEADSPACE AGREE THAT EACH MAY BRING CLAIMS AGAINST THE OTHER ONLY IN YOUR OR OUR INDIVIDUAL CAPACITY AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR CONSOLIDATED ACTION. If, however, this waiver of class or consolidated actions is deemed invalid or unenforceable, neither you nor Headspace are entitled to arbitration; instead all claims and disputes will be resolved in a court as set forth in Section 15.9 below. ‍  
+  
+(c) Informal Dispute Resolution. We want to address your concerns without needing a formal legal case. Before filing a claim against Headspace, you agree to try to resolve the dispute informally by contacting us via email to help@headspace.com or at our mailing address at Headspace, ATTN: Legal, 2417 Michigan Avenue, Santa Monica, CA 9040, and providing us with your email address. We'll try to resolve the dispute informally by contacting you through email. If a dispute is not resolved within 30 days after submission, you or Headspace may bring a formal proceeding subject to these Terms.  
+  
+(d) Applicability of Arbitration Agreement. All disputes arising out of, relating to, or in connection with these Terms or your use of the Products and Services, including claims related to privacy or data security, will be resolved through binding arbitration on an individual basis, except that you and Headspace retain the right: (1) to bring an individual action informally (as provided in section c above) or in small claims court, or (2) seek injunctive or other equitable relief in a court of competent jurisdiction for the alleged unlawful use of copyrights, trademarks, trade names, logos, trade secrets, or patents. ‍‍All submissions to the arbitrator, the proceedings, and the award shall be confidential, except as may lawfully be required in judicial proceedings relating to the arbitration or as otherwise required by law. ‍  
+  
+(e) Arbitration Rules. The Federal Arbitration Act governs the interpretation and enforcement of this dispute-resolution provision. Arbitration will be initiated through the American Arbitration Association ("AAA"). If the AAA is not available to arbitrate, the parties will select an alternative arbitral forum. The then-current version of the AAA Consumer Arbitration Rules (“AAA Rules”) will govern the arbitration, except to the extent those rules conflict with these Terms. The AAA Rules are available online at www.adr.org or by calling the AAA at 1-800-778-7879. The arbitration will be conducted by a single neutral arbitrator. ‍  
+  
+If the claim is for $10,000 or less, the party initiating the arbitration may choose whether the arbitration will be conducted (1) solely on the basis of documents submitted to the arbitrator; (2) through a non-appearance based telephonic hearing; or (3) by an in-person hearing as established by the AAA Rules in the county of your billing address. In the case of an in-person hearing, the proceedings will be conducted at a location which is reasonably convenient for both parties with due consideration of the ability to travel and other pertinent circumstances. If the parties are unable to agree on a location, the determination will be made by the arbitration institution. ‍  
+  
+Your arbitration fees and your share of arbitrator compensation will be limited to those fees set forth in the AAA Rules with the remainder paid by Headspace. If the arbitrator finds that either the substance of your claim or the relief sought in the arbitration is frivolous or brought for an improper purpose (as measured by the standards set forth in Federal Rule of Civil Procedure 11(b)), then the payment of all fees will be governed by the AAA Rules. In such case, you agree to reimburse Headspace for all monies previously disbursed by it that are otherwise your obligation to pay under the AAA Rules. Regardless of the manner in which the arbitration is conducted, the arbitrator will issue a reasoned written decision sufficient to explain the essential findings and conclusions on which the decision and award, if any, are based. The arbitrator may make rulings and resolve disputes as to the payment and reimbursement of fees or expenses at any time during the proceeding and upon request from either party made within 14 days of the arbitrator’s ruling on the merits. ‍  
+  
+(f) Authority of Arbitrator. The arbitrator will have exclusive authority to decide the jurisdiction of the arbitrator, including any unconscionability challenge or other challenge that the arbitration provision or the Agreement is void, voidable, or otherwise invalid. The arbitrator will also have the exclusive authority to determine the rights and liabilities, if any, of you and Headspace. The dispute will not be consolidated with any other matters or joined with any other cases or parties. The arbitrator will have the authority to grant motions dispositive of all or part of any claim or dispute. The arbitrator will have the authority to award all remedies available under Applicable Law, the arbitral forum's rules, and the Terms. The arbitrator has the same authority to award relief on an individual basis that a judge in a court of law would have. The award of the arbitrator is final and binding upon you and Headspace.  
+  
+(g) Additional Procedures for Mass Arbitrations. These Additional Procedures for Mass Arbitrations (in addition to the other provisions of this arbitration provision and the applicable AAA Rules) shall apply if twenty-five (25) or more similar disputes are asserted against Headspace or against you by the same or coordinated counsel or are otherwise coordinated (collectively "Mass Arbitration"). These Additional Procedures for Mass Arbitrations are designed to lead to the streamlined and cost-effective resolution of claims and to ensure that large volume filings do not impose unnecessary burdens or impediments to the resolution and cost-effective adjudication of similar claims. You understand, acknowledge, and agree that Mass Arbitrations may delay resolution of your dispute. The parties agree that as part of initiating a Mass Arbitration, their counsel shall meet and confer in good faith in an effort to resolve the disputes, streamline procedures, address the exchange of information, modify the number of Disputes to be adjudicated, and conserve the parties' and the AAA's resources.  
+  
+If at least one hundred (100) disputes are submitted as part of the Mass Arbitration, counsel for each party shall each select fifty (50) disputes to be filed, assigned to different arbitrators (no arbitrator shall shall be assigned more than 3 disputes) and to proceed as cases in individual arbitrations. If a case is withdrawn before the issuance of an arbitration award, another claim shall be selected to proceed as part of this process. The remaining disputes shall not be filed or deemed filed in arbitration nor shall any arbitration fees be assessed or collected in connection with those claims. After this initial set of proceedings, counsel for the parties shall participate in a global mediation session with a retired federal or state court judge jointly selected by counsel in an effort to resolve the remaining disputes, and Headspace shall pay the mediator's fee. If counsel cannot agree on a mediator, one will be selected by the Arbitrator.  
+  
+If at the end of the process described in the immediately preceding paragraph, twenty-five (25) or more similar disputes have not been resolved, then the remaining disputes shall be arbitrated subject to the AAA Supplementary Rules for Multiple Case Filings and the AAA Multiple Consumer Case Filing Fee Schedule. If fewer than twenty-five (25) disputes remain, the remaining disputes shall proceed individually.  
+  
+(h) Enforceability. If any portion of this Section 14 is found to be unenforceable or unlawful for any reason, the unenforceable or unlawful provision will be severed from these Terms and severance of the unenforceable or unlawful provision will have no impact whatsoever on the remainder of this Section 14.  
+  
+(i) Opt-out. YOU MAY OPT-OUT OF THIS ARBITRATION AGREEMENT. If you do so, neither you nor Headspace can force the other to arbitrate. To opt-out, you must notify Headspace in writing no later than 30 days after first becoming subject to this arbitration agreement. Your notice must include your name and mailing address, and the email address you used to set up your Headspace account (if you have one), and an unequivocal statement that you want to opt-out of this arbitration agreement. You must send your opt-out notice to one of the following physical or email addresses: Headspace, ATTN: Arbitration Opt-out, 2417 Michigan Avenue, Santa Monica, CA 90404; or ADR@headspace.com. If you opt-out of this agreement to arbitrate, the opt-out shall not waive or affect any other portion of these Terms.  
+  
+(j) Arbitration Agreement Survival. This arbitration agreement will survive the termination of your relationship with Headspace.
+
+15\. GENERAL
 ------------
 
-14.1 ASSIGNMENT BY US
+15.1 ASSIGNMENT BY US
 ---------------------
 
 Headspace may transfer its rights and obligations under these Terms to any company, firm or person at any time if it does not materially affect your rights under it. You may not transfer your rights or obligations under these Terms to anyone else. These Terms are personal to you and no third party is entitled to benefit under these Terms except as set out here.
 
-14.2 INDEMNITY
+15.2 INDEMNITY
 --------------
 
 To the fullest extent permitted by law, you are responsible for your use of the Products and Services, and you will defend and indemnify Headspace, your employer, your health plan, or provider (as applicable) and each of their respective officers, directors, employees, consultants, affiliates, subsidiaries and agents (together, the “Headspace Entities”) from and against any claim brought by a third party, and any related liability, damage, loss, and expense, including reasonable attorneys’ fees and costs, arising out of or connected with: (a) your unauthorized use of, or misuse of, the Products or Services; (b) your violation of any portion of these Terms, any representation, warranty, or agreement referenced in these Terms, or any Applicable Law; (c) your violation of any third-party right, including any intellectual property right or publicity, confidentiality, other property, or privacy right; or (d) any dispute or issue between you and any third party. The foregoing indemnification obligation is subject to a Headspace Entity promptly informing you in writing of any such claim, demand, action, or suit; provided that any failure to so inform you will not prejudice your obligation of indemnity, except to the extent materially prejudiced thereby. We reserve the right, at our own expense, to assume the exclusive defense and control of any matter otherwise subject to indemnification by you (without limiting your indemnification obligations with respect to that matter), and in that case, you agree to cooperate with our defense of those claims.
 
-14.3 LIMITATION OF LIABILITY
+15.3 LIMITATION OF LIABILITY
 ----------------------------
 
 TO THE FULLEST EXTENT PERMITTED BY LAW, IN NO EVENT WILL THE HEADSPACE ENTITIES BE LIABLE TO YOU FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES (INCLUDING DAMAGES FOR LOSS OF PROFITS, GOODWILL, OR ANY OTHER INTANGIBLE LOSS) ARISING OUT OF OR RELATING TO YOUR ACCESS TO OR USE OF, OR YOUR INABILITY TO ACCESS OR USE, THE PRODUCTS AND SERVICES OR ANY MATERIALS OR CONTENT ON THE PRODUCTS, WHETHER BASED ON WARRANTY, CONTRACT, TORT (INCLUDING NEGLIGENCE), STATUTE, OR ANY OTHER LEGAL THEORY, AND WHETHER OR NOT ANY HEADSPACE ENTITY HAS BEEN INFORMED OF THE POSSIBILITY OF DAMAGE. ‍  
@@ -386,71 +428,42 @@ EXCEPT AS PROVIDED IN THE ARBITRATION CLAUSE AND TO THE FULLEST EXTENT PERMITTED
   
 EACH PROVISION OF THESE TERMS THAT PROVIDES FOR AN ASSUMPTION OF RISK, LIMITATION OF LIABILITY, DISCLAIMER OF WARRANTIES, OR EXCLUSION OF DAMAGES IS INTENDED TO AND DOES ALLOCATE THE RISKS BETWEEN THE PARTIES UNDER THESE TERMS. THIS ALLOCATION IS AN ESSENTIAL ELEMENT OF THE BASIS OF THE BARGAIN BETWEEN THE PARTIES. EACH OF THESE PROVISIONS IS SEVERABLE AND INDEPENDENT OF ALL OTHER PROVISIONS OF THESE TERMS. THE LIMITATIONS IN THIS SECTION WILL APPLY EVEN IF ANY LIMITED REMEDY FAILS OF ITS ESSENTIAL PURPOSE.
 
-14.4 NO WAIVER
+15.4 NO WAIVER
 --------------
 
 If we delay exercising or fail to exercise or enforce any right available to us under these Terms, such delay or failure does not constitute a waiver of that right or any other rights under these Terms. ‍
 
-14.5 FORCE MAJEURE
+15.5 FORCE MAJEURE
 ------------------
 
 We will not be liable to you for any lack of performance, or the unavailability or failure, of the Products and Services, or for any failure or delay by us to comply with these Terms, where such lack, unavailability or failure arises from any cause beyond our reasonable control.
 
-14.6 NOTICES
+15.6 NOTICES
 ------------
 
 Unless otherwise specifically indicated, all notices given by you to us must be given to Headspace at help@headspace.com. We may give notice to you at the e-mail address you provide to us when you register, or in any of the ways specified in these Terms. Notice will be deemed received and properly served immediately when posted on the Products or when an e-mail or other electronic communication is sent. In proving the service of any notice via email, it will be sufficient to prove that such email was sent to the specified e-mail address of the addressee.‍
 
-14.7 ENTIRE AGREEMENT
+15.7 ENTIRE AGREEMENT
 ---------------------
 
 These Terms and any additional terms or policies expressly referred to in these Terms constitute the whole agreement between us and supersede all previous oral or written discussions, correspondence, negotiations, previous arrangement, understanding or agreement between us relating to the Products and Services. We each acknowledge that neither of us relies on, or will have any remedies in respect of, any representation or warranty (whether made innocently or negligently) that is not set out in these Terms or the additional terms or policies expressly referred to in these Terms. Each of us agrees that our only liability in respect of those representations and warranties that are set out in this agreement (whether made innocently or negligently) will be for breach of contract. Nothing in this Section limits or excludes any liability for fraud.
 
-14.8 THIRD PARTY RIGHTS
+15.8 THIRD PARTY RIGHTS
 -----------------------
 
-A person who is not party to these Terms will not have any rights under or in connection with these Terms, except as described in Section 11 (DMCA). ‍
+A person who is not party to these Terms will not have any rights under or in connection with these Terms, except as described in Section 11 (DMCA).
 
-14.9 DISPUTE RESOLUTION & BINDING ARBITRATION
----------------------------------------------
-
-PLEASE READ THE FOLLOWING PARAGRAPHS CAREFULLY, AS THEY REQUIRE YOU TO ARBITRATE DISPUTES WITH HEADSPACE, AND LIMIT THE MANNER IN WHICH YOU CAN SEEK RELIEF FROM HEADSPACE, INCLUDING A LIMITATION ON THE RIGHT TO LITIGATE CLAIMS IN A COURT OR BEFORE A JURY OR TO PARTICIPATE IN A CLASS ACTION OR REPRESENTATIVE ACTION WITH RESPECT TO A CLAIM. ‍‍  
-  
-(a) Informal Dispute Resolution: We want to address your concerns without needing a formal legal case. Before filing a claim against Headspace, you agree to try to resolve the dispute informally by contacting us via email to help@headspace.com or at our mailing address at Headspace, ATTN: Legal, 2417 Michigan Avenue, Santa Monica, CA 9040, and providing us with your email address. We'll try to resolve the dispute informally by contacting you through email. If a dispute is not resolved within 30 days after submission, you or Headspace may bring a formal proceeding. ‍  
-  
-(b) Applicability of Arbitration Agreement. All disputes arising out of, relating to, or in connection with these Terms or your use of the Products and Services that cannot be resolved informally or in small claims court will be resolved through binding arbitration on an individual basis, except that you and Headspace are not required to arbitrate any dispute in which either party seeks equitable relief for the alleged unlawful use of copyrights, trademarks, trade names, logos, trade secrets, or patents. ‍‍  
-  
-(c) Arbitration Rules. The Federal Arbitration Act governs the interpretation and enforcement of this dispute-resolution provision. Arbitration will be initiated through the American Arbitration Association ("AAA"). If the AAA is not available to arbitrate, the parties will select an alternative arbitral forum. The rules of the arbitral forum will govern all aspects of this arbitration, except to the extent those rules conflict with these Terms. The AAA Consumer Arbitration Rules (“AAA Rules”) governing the arbitration are available online at www.adr.org or by calling the AAA at 1-800-778-7879. The arbitration will be conducted by a single neutral arbitrator. ‍  
-  
-If the claim is for $10,000 or less, the party initiating the arbitration may choose whether the arbitration will be conducted (1) solely on the basis of documents submitted to the arbitrator; (2) through a non-appearance based telephonic hearing; or (3) by an in-person hearing as established by the AAA Rules in the county of your billing address. In the case of an in-person hearing, the proceedings will be conducted at a location which is reasonably convenient for both parties with due consideration of the ability to travel and other pertinent circumstances. If the parties are unable to agree on a location, the determination will be made by the arbitration institution. ‍  
-  
-Your arbitration fees and your share of arbitrator compensation will be limited to those fees set forth in the AAA Rules with the remainder paid by Headspace. If the arbitrator finds that either the substance of your claim or the relief sought in the arbitration is frivolous or brought for an improper purpose (as measured by the standards set forth in Federal Rule of Civil Procedure 11(b)), then the payment of all fees will be governed by the AAA Rules. In such case, you agree to reimburse Headspace for all monies previously disbursed by it that are otherwise your obligation to pay under the AAA Rules. Regardless of the manner in which the arbitration is conducted, the arbitrator will issue a reasoned written decision sufficient to explain the essential findings and conclusions on which the decision and award, if any, are based. The arbitrator may make rulings and resolve disputes as to the payment and reimbursement of fees or expenses at any time during the proceeding and upon request from either party made within 14 days of the arbitrator’s ruling on the merits. ‍‍  
-  
-(d) Authority of Arbitrator. The arbitrator will have exclusive authority to decide the jurisdiction of the arbitrator, including any unconscionability challenge or other challenge that the arbitration provision or the Agreement is void, voidable, or otherwise invalid. The arbitrator will also have the exclusive authority to determine the rights and liabilities, if any, of you and Headspace. The dispute will not be consolidated with any other matters or joined with any other cases or parties. The arbitrator will have the authority to grant motions dispositive of all or part of any claim or dispute. The arbitrator will have the authority to award all remedies available under Applicable Law, the arbitral forum's rules, and the Terms. The arbitrator has the same authority to award relief on an individual basis that a judge in a court of law would have. The award of the arbitrator is final and binding upon you and Headspace. ‍‍  
-  
-(e) Jury Trial Waiver. Except where not permitted by law, you and Headspace waive any constitutional and statutory rights to go to court and have a trial in front of a judge or a jury. Rather, you and Headspace elect to have claims and disputes resolved by arbitration. In any litigation between you and Headspace over whether to vacate or enforce an arbitration award, you and Headspace waive all rights to a jury trial, and elect instead to have the dispute be resolved by a judge. ‍‍  
-  
-(f) Class Action Waiver. WHERE PERMITTED UNDER THE APPLICABLE LAW, YOU AND HEADSPACE AGREE THAT EACH MAY BRING CLAIMS AGAINST THE OTHER ONLY IN YOUR OR OUR INDIVIDUAL CAPACITY AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR CONSOLIDATED ACTION. If, however, this waiver of class or consolidated actions is deemed invalid or unenforceable, neither you nor Headspace are entitled to arbitration; instead all claims and disputes will be resolved in a court as set forth in Section 14.10 below. ‍‍  
-  
-(g) Opt-out. YOU MAY OPT-OUT OF THIS ARBITRATION AGREEMENT. If you do so, neither you nor Headspace can force the other to arbitrate. To opt-out, you must notify Headspace in writing no later than 30 days after first becoming subject to this arbitration agreement. Your notice must include your name and address, and the email address you used to set up your Headspace account (if you have one), and an unequivocal statement that you want to opt-out of this arbitration agreement. You must send your opt-out notice to one of the following physical or email addresses: Headspace, ATTN: Arbitration Opt-out, 2417 Michigan Avenue, Santa Monica, CA 90404; ADR@headspace.com. ‍‍  
-  
-(h) Small Claims Court. Notwithstanding the foregoing, either you or Headspace may bring an individual action in small claims court. ‍‍  
-  
-(i) Public Injunction Exclusion. Notwithstanding the foregoing, you may pursue a claim for public injunctive relief either in court or through arbitration. ‍‍  
-  
-(j) Arbitration Agreement Survival. This arbitration agreement will survive the termination of your relationship with Headspace.
-
-14.10 EXCLUSIVE VENUE
----------------------
+15.9 EXCLUSIVE VENUE
+--------------------
 
 To the extent the parties are permitted under these Terms to initiate litigation in a court, both you and Headspace agree that all claims and disputes arising out of or relating to the Terms or the use of the Products and Services will be litigated exclusively in the United States District Court for the Central District of California. If, however, that court would lack original jurisdiction over the litigation, then all claims and disputes arising out of or relating to the Terms or the use of the Products and Services will be litigated exclusively in the Superior Court of California, County of Los Angeles. You and Headspace consent to the personal jurisdiction of both courts.
 
-14.11 CHOICE OF LAW
+15.10 CHOICE OF LAW
 -------------------
 
 The laws of California, other than its conflict-of-laws principles, govern these Terms and any disputes arising out of or relating to these Terms or their subject matter, including tort claims, except to the extent they are preempted by U.S. federal law. The United Nations Convention on Contracts for the International Sale of Goods will not apply.
 
-‍14.12 SEVERABILITY
+‍15.11 SEVERABILITY
 -------------------
 
 If any provision of these Terms is found unenforceable, then that provision will be severed from these Terms and not affect the validity and enforceability of any remaining provisions. ‍  
