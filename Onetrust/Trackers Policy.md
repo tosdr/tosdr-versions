@@ -302,9 +302,9 @@ Your partner in trust transformation
 
 ### Latest News
 
+* [Newsroom | Awards](https://www.onetrust.com/news/awards/)
+* [OneTrust Reaches New Heights with Recent Awards and Accolades](https://www.onetrust.com/news/onetrust-reaches-new-heights-with-recent-awards-and-accolades/)
 * [OneTrust Integrates with the IAB Diligence Platform, Powered by SafeGuard Privacy](https://www.onetrust.com/news/onetrust-integrated-with-the-iab-diligence-platform/)
-* [OneTrust Helps Strengthen Operational Resilience and Risk Management to Support DORA Compliance](https://www.onetrust.com/news/onetrust-trustweek-2024-dora/)
-* [OneTrust on Track to Surpass $500M in ARR as Demand for Responsible Data and AI Solutions Skyrockets](https://www.onetrust.com/news/onetrust-trustweek-2024-momentum/)
 
 ### Contact Us
 
