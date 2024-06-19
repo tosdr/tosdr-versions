@@ -92,6 +92,58 @@ If you are visiting our site from outside the United States, be aware that your 
 
 If you have a complaint about BBB WGA's compliance with this privacy policy, you may contact us at [info@give.org](mailto:info@give.org).
 
+[](https://www.give.org/askgive)
+
+AskGive.org ᴮᴱᵀᴬ
+
+[](https://www.give.org/askgive)
+
+AskGive.org ᴮᴱᵀᴬ
+
+[](https://www.give.org/askgive#faq)
+
+![give.org logo](/sf-images/default-source/askgive/giveorg.png?Status=Temp&sfvrsn=ead81f0a_2)
+
+AskGive.org is an interactive digital window into the research and thinking of Give.org.
+
+AskGive.org is
+
+Send message
+
+* [Terms of use](https://www.give.org/terms-of-use)
+* Feedback
+
+[](https://www.give.org/askgive)
+
+AskGive.org ᴮᴱᵀᴬ
+
+AskGive.org ᴮᴱᵀᴬ
+================
+
+[](https://www.give.org/askgive#faq "FAQs")[](https://www.give.org/askgive "Fullscreen")
+
+![give.org logo](/sf-images/default-source/askgive/giveorg.png?Status=Temp&sfvrsn=ead81f0a_2)
+
+AskGive.org is an interactive digital window into the research and thinking of Give.org....
+
+Try asking questions like these:  
+"How can I avoid getting defrauded with my donation?"  
+"How can I safely donate my car?"
+
+AskGive.org is
+
+Send message
+
+* [Terms of use](https://www.give.org/terms-of-use)
+* Feedback
+
+Feedback
+--------
+
+×
+
+CloseSubmit
+
 ![](https://give.org/sf-images/default-source/alliance-redesign/logo-no-words.png?Status=Temp&sfvrsn=ada4da7d_2)![BBB Logo Icon](https://give.org/sf-images/default-source/alliance-redesign/logo-words-only.png?Status=Temp&sfvrsn=9ed5f42d_2)
 
 BBB Wise Giving Alliance strengthens public confidence in charities by promoting wise giving and trustworthy charity practices. Charities are evaluated, at no charge, based on 20 BBB Charity Standards. The resulting reports are available on Give.org.  
