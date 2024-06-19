@@ -193,9 +193,9 @@ Cloudinary Inc.
 
 Att: Copyright Agent
 
-Suite 220, 6201 America Center Dr,
+3400 Central Expressway, Suite 110,
 
-San Jose, CA 94089, USA
+Santa Clara, CA 95051, USA
 
 Please note that the Copyright Agent receives DMCA notifications only. Any other matters, such as comments, requests and other messages should be referred to: [https://cloudinary.com/contact](https://cloudinary.com/contact).
 
