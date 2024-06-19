@@ -1,16 +1,6 @@
-[![MHE logo](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+[![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-![MHE logo](/_next/image?url=%2FManHealthExec_white.png&w=3840&q=75)](https://www.managedhealthcareexecutive.com/)
-
-* [![Chief Healthcare Executive](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Chief Healthcare Executive](/_next/image?url=%2Fchief-healthcare-executive-logo-white.png&w=3840&q=75)](https://www.chiefhealthcareexecutive.com/)
-* [![Formulary Watch](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Formulary Watch](/_next/image?url=%2FformularyWatch_white.png&w=3840&q=75)](https://www.formularywatch.com/)
-* [![Managed Healthcare Executive](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Managed Healthcare Executive](/_next/image?url=%2FManHealthExec_white.png&w=3840&q=75)](https://www.managedhealthcareexecutive.com/)
+![](/_next/image?url=%2Fmanagedhealthcareexecutivelogo.png&w=3840&q=75)](https://www.managedhealthcareexecutive.com/)
 
 [News](https://www.managedhealthcareexecutive.com/news)
 
@@ -18,9 +8,7 @@ Media
 
 [Between the Lines](https://www.managedhealthcareexecutive.com/between-the-lines)[Expert Interviews](https://www.managedhealthcareexecutive.com/expert-interviews)[K-Cast](https://www.managedhealthcareexecutive.com/k-cast)[Medical World News](https://www.medicalworldnews.com/)[Podcasts](https://www.managedhealthcareexecutive.com/podcasts)[Population Health Perspectives](https://www.managedhealthcareexecutive.com/population-health-perspectives)
 
-[Conferences](https://www.managedhealthcareexecutive.com/conferences)
-
-[Partners](https://www.managedhealthcareexecutive.com/sap-partner)
+[Conferences](https://www.managedhealthcareexecutive.com/conferences)[Partners](https://www.managedhealthcareexecutive.com/sap-partner)
 
 Publications
 
@@ -38,220 +26,290 @@ Resources
 
 [Subscribe](https://one.managedhealthcareexecutive.com/subscribe/)
 
-![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27143%27%20height=%2740%27/%3e)![logo](/_next/image?url=%2FManHealthExec_white.png&w=384&q=75)
+Choose Specialty
 
-Resource Centers
+[Asthma](https://www.managedhealthcareexecutive.com/clinical/asthma)
 
-[Blood Cancer](https://www.managedhealthcareexecutive.com/clinical/blood)[Dermatology](https://www.managedhealthcareexecutive.com/clinical/dermatology)[Eye Care](https://www.managedhealthcareexecutive.com/clinical/eyecare)[HIV](https://www.managedhealthcareexecutive.com/clinical/hiv)[Liver Disease](https://www.managedhealthcareexecutive.com/clinical/liver-disease)[Lung Cancer](https://www.managedhealthcareexecutive.com/clinical/lung-cancer)[Multiple Sclerosis](https://www.managedhealthcareexecutive.com/clinical/multiple-sclerosis)[Oncology](https://www.managedhealthcareexecutive.com/clinical/oncology)[Prescription Digital Therapeutics](https://www.managedhealthcareexecutive.com/clinical/prescription-digital-therapeutics)[Ulcerative Colitis](https://www.managedhealthcareexecutive.com/clinical/ulcerative-colitis)[Vaccines](https://www.managedhealthcareexecutive.com/clinical/vaccines)
+[Atrial Fibrillation](https://www.managedhealthcareexecutive.com/clinical/a-fib)[Atrial Fibrillation](https://www.managedhealthcareexecutive.com/clinical/a-fib)
 
-Spotlight
-
-[2024 Emerging Leader Nominations](https://www.surveymonkey.com/r/CDL9CY2)[Asembia’s Specialty Pharmacy Summit](https://www.managedhealthcareexecutive.com/conferences/asembia-pharm-summit)[Population Health Perspectives](https://www.managedhealthcareexecutive.com/population-health-perspectives)[AMCP Annual](https://www.managedhealthcareexecutive.com/conferences/amcp-annual)[2023 PBMI Annual National Conference](https://www.managedhealthcareexecutive.com/conferences/pbmi-national-conf)[ASRS](https://www.managedhealthcareexecutive.com/conferences/asrs)
-
-Business
-
-[Business Strategy](https://www.managedhealthcareexecutive.com/business/business-strategy)[Chronic Disease](https://www.managedhealthcareexecutive.com/business/chronic-disease)[Consumers](https://www.managedhealthcareexecutive.com/business/consumers)[Drug Costs](https://www.managedhealthcareexecutive.com/business/drug-costs)[Drug Pipeline](https://www.managedhealthcareexecutive.com/business/drug-pipeline)[Formulary](https://www.managedhealthcareexecutive.com/business/formulary)[Health Management](https://www.managedhealthcareexecutive.com/business/health-management)[Health/Disease Strategy](https://www.managedhealthcareexecutive.com/business/health-disease-strategy)[Hospitals & Providers](https://www.managedhealthcareexecutive.com/business/hospitals-providers)[Industry Analysis](https://www.managedhealthcareexecutive.com/business/industry-analysis)[Pharmacy](https://www.managedhealthcareexecutive.com/business/pharmacy)[Politics and Policy](https://www.managedhealthcareexecutive.com/business/politics-and-policy)[Practice Management](https://www.managedhealthcareexecutive.com/business/practice-management)[Reimbursement](https://www.managedhealthcareexecutive.com/business/reimbursement)[Technology](https://www.managedhealthcareexecutive.com/business/technology)
-
-News
-
-Media
-
-[Between the Lines](https://www.managedhealthcareexecutive.com/between-the-lines)[Expert Interviews](https://www.managedhealthcareexecutive.com/expert-interviews)[K-Cast](https://www.managedhealthcareexecutive.com/k-cast)[Medical World News](https://www.medicalworldnews.com/)[Podcasts](https://www.managedhealthcareexecutive.com/podcasts)[Population Health Perspectives](https://www.managedhealthcareexecutive.com/population-health-perspectives)
-
-Conferences
-
-Partners
-
-Publications
-
-[All Publications](https://www.managedhealthcareexecutive.com/journals)[MHE Publication](https://www.managedhealthcareexecutive.com/journals/mhe-publication)[Formulary Watch Supplements](https://www.managedhealthcareexecutive.com/journals/formulary-watch-supplements)[Supplements And Featured Publications](https://www.managedhealthcareexecutive.com/journals/supplements-and-featured-publications)
-
-Events
-
-[2024 PBMI Annual National Conference](https://www.pbmi.com/conference)[PBMI MAP](https://events.pbmi.com/MAP)[Virtual Events](https://www.managedhealthcareexecutive.com/virtual-events)
-
-CME/CE
-
-Resources
-
-[PBM Leaders](https://www.managedhealthcareexecutive.com/conferences/pbm-leaders)[Sponsored Content](https://www.managedhealthcareexecutive.com/sponsored-content)
-
-Subscribe
-
-Advertisement
+[Autoimmune Diseases](https://www.managedhealthcareexecutive.com/clinical/autoimmune-diseases)
 
 [Biologics](https://www.managedhealthcareexecutive.com/clinical/biologics)
 
-[| Blood Cancer](https://www.managedhealthcareexecutive.com/clinical/blood)
+[Biosimilars](https://www.managedhealthcareexecutive.com/clinical/biosimilars)
 
-[| Breast Cancer](https://www.managedhealthcareexecutive.com/clinical/breast-cancer)
+[Blood Cancer](https://www.managedhealthcareexecutive.com/clinical/blood)
 
-[| Dermatology](https://www.managedhealthcareexecutive.com/clinical/dermatology)
+[Breast Cancer](https://www.managedhealthcareexecutive.com/clinical/breast-cancer)
 
-[| Eyecare](https://www.managedhealthcareexecutive.com/clinical/eyecare)
+[COVID-19](https://www.managedhealthcareexecutive.com/clinical/covid-19)
 
-[| HIV](https://www.managedhealthcareexecutive.com/clinical/hiv)
+[Cardiovascular Diseases](https://www.managedhealthcareexecutive.com/clinical/cardiovascular-diseases)
 
-[| Lung Cancer](https://www.managedhealthcareexecutive.com/clinical/lung-cancer)
+[Dermatology](https://www.managedhealthcareexecutive.com/clinical/dermatology)
 
-[| Multiple Sclerosis](https://www.managedhealthcareexecutive.com/clinical/multiple-sclerosis)
+[Diabetes](https://www.managedhealthcareexecutive.com/clinical/diabetes)
 
-[| Oncology](https://www.managedhealthcareexecutive.com/clinical/oncology)
+[Digital Health](https://www.managedhealthcareexecutive.com/clinical/digital-health)
 
-[| Type I Diabetes](https://www.managedhealthcareexecutive.com/clinical/type-i-diabetes)
+[Drug Coverage](https://www.managedhealthcareexecutive.com/clinical/drug-coverage)
 
-[| Ulcerative Colitis](https://www.managedhealthcareexecutive.com/clinical/ulcerative-colitis)
+[Eyecare](https://www.managedhealthcareexecutive.com/clinical/eyecare)
 
-[| Vaccines](https://www.managedhealthcareexecutive.com/clinical/vaccines)
+[FDA](https://www.managedhealthcareexecutive.com/clinical/fda)
 
-[| Women's Health](https://www.managedhealthcareexecutive.com/clinical/womenshealth)
+[Gene Therapy](https://www.managedhealthcareexecutive.com/clinical/gene-therapy)
 
-[| Asthma](https://www.managedhealthcareexecutive.com/clinical/asthma)
+[HIV](https://www.managedhealthcareexecutive.com/clinical/hiv)
 
-[| Atrial Fibrillation](https://www.managedhealthcareexecutive.com/clinical/a-fib)
+[Heart Failure](https://www.managedhealthcareexecutive.com/clinical/heart-failure)
 
-[| Autoimmune Diseases](https://www.managedhealthcareexecutive.com/clinical/autoimmune-diseases)
+[Hemophilia](https://www.managedhealthcareexecutive.com/clinical/hemophilia)
 
-[| Biosimilars](https://www.managedhealthcareexecutive.com/clinical/biosimilars)
+[Hypertrophic Cardiomyopathy (HCM)](https://www.managedhealthcareexecutive.com/clinical/hcm)
 
-[| COVID-19](https://www.managedhealthcareexecutive.com/clinical/covid-19)
+[Leukemia and Lymphoma](https://www.managedhealthcareexecutive.com/clinical/leukemia-and-lymphoma)
 
-[| Cardiovascular Diseases](https://www.managedhealthcareexecutive.com/clinical/cardiovascular-diseases)
+[Liver Disease](https://www.managedhealthcareexecutive.com/clinical/liver-disease)
 
-[| Diabetes](https://www.managedhealthcareexecutive.com/clinical/diabetes)
+[Lung Cancer](https://www.managedhealthcareexecutive.com/clinical/lung-cancer)
 
-[| Digital Health](https://www.managedhealthcareexecutive.com/clinical/digital-health)
+[Mental Health](https://www.managedhealthcareexecutive.com/clinical/mental-health)
 
-[| Drug Coverage](https://www.managedhealthcareexecutive.com/clinical/drug-coverage)
+[Multiple Sclerosis](https://www.managedhealthcareexecutive.com/clinical/multiple-sclerosis)
 
-[| Gene Therapy](https://www.managedhealthcareexecutive.com/clinical/gene-therapy)
+[NSCLC](https://www.managedhealthcareexecutive.com/clinical/nsclc)
 
-[| Heart Failure](https://www.managedhealthcareexecutive.com/clinical/heart-failure)
+[Neonatal Care](https://www.managedhealthcareexecutive.com/clinical/neonatal-care)
 
-[| Hemophilia](https://www.managedhealthcareexecutive.com/clinical/hemophilia)
+[Obstetrics-Gynecology & Women's Health](https://www.managedhealthcareexecutive.com/clinical/obstetrics-gynecology-womens-health)
 
-[| Hypertrophic Cardiomyopathy (HCM)](https://www.managedhealthcareexecutive.com/clinical/hcm)
+[Oncology](https://www.managedhealthcareexecutive.com/clinical/oncology)
 
-[| Leukemia and Lymphoma](https://www.managedhealthcareexecutive.com/clinical/leukemia-and-lymphoma)
+[Opioids](https://www.managedhealthcareexecutive.com/clinical/opioids)
 
-[| Liver Disease](https://www.managedhealthcareexecutive.com/clinical/liver-disease)
+[Pediatrics](https://www.managedhealthcareexecutive.com/clinical/pediatrics)
 
-[| Mental Health](https://www.managedhealthcareexecutive.com/clinical/mental-health)
+[Plaque Psoriasis](https://www.managedhealthcareexecutive.com/clinical/plaque-psoriasis)
 
-[| NSCLC](https://www.managedhealthcareexecutive.com/clinical/nsclc)
+[Population Health](https://www.managedhealthcareexecutive.com/clinical/population-health)[Population Health](https://www.managedhealthcareexecutive.com/clinical/population-health)
 
-[| Neonatal Care](https://www.managedhealthcareexecutive.com/clinical/neonatal-care)
+[Post-Acute Care](https://www.managedhealthcareexecutive.com/clinical/ltach)
 
-[| Obstetrics-Gynecology & Women's Health](https://www.managedhealthcareexecutive.com/clinical/obstetrics-gynecology-womens-health)
+[Prescription Digital Therapeutics](https://www.managedhealthcareexecutive.com/clinical/prescription-digital-therapeutics)
 
-[| Opioids](https://www.managedhealthcareexecutive.com/clinical/opioids)
+[Pulmonary Arterial Hypertension](https://www.managedhealthcareexecutive.com/clinical/pulmonary-arterial-hypertension)
 
-[| Pediatrics](https://www.managedhealthcareexecutive.com/clinical/pediatrics)
+[RSV](https://www.managedhealthcareexecutive.com/clinical/rsv)
 
-[| Plaque Psoriasis](https://www.managedhealthcareexecutive.com/clinical/plaque-psoriasis)
+[Reproductive Health](https://www.managedhealthcareexecutive.com/clinical/reproductive-healh)
 
-[| Population Health](https://www.managedhealthcareexecutive.com/clinical/population-health)
+[Respiratory Conditions](https://www.managedhealthcareexecutive.com/clinical/respiratory-conditions)
 
-[| Post-Acute Care](https://www.managedhealthcareexecutive.com/clinical/ltach)
+[Safety & Recalls](https://www.managedhealthcareexecutive.com/clinical/safety-recalls)
 
-[| Prescription Digital Therapeutics](https://www.managedhealthcareexecutive.com/clinical/prescription-digital-therapeutics)
+[Sleep Disorders](https://www.managedhealthcareexecutive.com/clinical/sleep)
 
-[| Pulmonary Arterial Hypertension](https://www.managedhealthcareexecutive.com/clinical/pulmonary-arterial-hypertension)
+[Solid Tumors](https://www.managedhealthcareexecutive.com/clinical/solid-tumors)
 
-[| RSV](https://www.managedhealthcareexecutive.com/clinical/rsv)
+[Spinal Muscular Atrophy](https://www.managedhealthcareexecutive.com/clinical/spinal-muscular-atrophy)
 
-[| Reproductive Health](https://www.managedhealthcareexecutive.com/clinical/reproductive-healh)
+[Substance Use Disorder](https://www.managedhealthcareexecutive.com/clinical/substance)
 
-[| Respiratory Conditions](https://www.managedhealthcareexecutive.com/clinical/respiratory-conditions)
+[The Improving Patient Access Podcast](https://www.managedhealthcareexecutive.com/clinical/the-improving-patient-access-podcast)
 
-[| Safety & Recalls](https://www.managedhealthcareexecutive.com/clinical/safety-recalls)
+[Type I Diabetes](https://www.managedhealthcareexecutive.com/clinical/type-i-diabetes)
 
-[| Sleep Disorders](https://www.managedhealthcareexecutive.com/clinical/sleep)
+[Type II Inflammation](https://www.managedhealthcareexecutive.com/clinical/type-ii-inflammation)
 
-[| Solid Tumors](https://www.managedhealthcareexecutive.com/clinical/solid-tumors)
+[Ulcerative Colitis](https://www.managedhealthcareexecutive.com/clinical/ulcerative-colitis)
 
-[| Spinal Muscular Atrophy](https://www.managedhealthcareexecutive.com/clinical/spinal-muscular-atrophy)
+[Urology](https://www.managedhealthcareexecutive.com/clinical/urology)
 
-[| Substance Use Disorder](https://www.managedhealthcareexecutive.com/clinical/substance)
+[Urothelial Carcinoma](https://www.managedhealthcareexecutive.com/clinical/urothelial-carcinoma)
 
-[| The Improving Patient Access Podcast](https://www.managedhealthcareexecutive.com/clinical/the-improving-patient-access-podcast)
+[Vaccines](https://www.managedhealthcareexecutive.com/clinical/vaccines)
 
-[| Type II Inflammation](https://www.managedhealthcareexecutive.com/clinical/type-ii-inflammation)
+[Vaccines: 2023 Year in Review](https://www.managedhealthcareexecutive.com/clinical/vaccines-2023-year-in-review)
 
-[| Urology](https://www.managedhealthcareexecutive.com/clinical/urology)
+[Women's Health](https://www.managedhealthcareexecutive.com/clinical/womenshealth)
 
-[| Urothelial Carcinoma](https://www.managedhealthcareexecutive.com/clinical/urothelial-carcinoma)
+Spotlight -
 
-[| Vaccines: 2023 Year in Review](https://www.managedhealthcareexecutive.com/clinical/vaccines-2023-year-in-review)
+* [2024 Emerging Leader Nominations](https://www.surveymonkey.com/r/CDL9CY2)
+* [Asembia’s Specialty Pharmacy Summit](https://www.managedhealthcareexecutive.com/conferences/asembia-pharm-summit)
+* [Population Health Perspectives](https://www.managedhealthcareexecutive.com/population-health-perspectives)
+* [AMCP Annual](https://www.managedhealthcareexecutive.com/conferences/amcp-annual)
+* [2023 PBMI Annual National Conference](https://www.managedhealthcareexecutive.com/conferences/pbmi-national-conf)
+* [ASRS](https://www.managedhealthcareexecutive.com/conferences/asrs)
 
-View All \>>
+![Formulary Watch](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-* [Asthma](https://www.managedhealthcareexecutive.com/clinical/asthma)
-* [Atrial Fibrillation](https://www.managedhealthcareexecutive.com/clinical/a-fib)
-* [Autoimmune Diseases](https://www.managedhealthcareexecutive.com/clinical/autoimmune-diseases)
-* [Biologics](https://www.managedhealthcareexecutive.com/clinical/biologics)
-* [Biosimilars](https://www.managedhealthcareexecutive.com/clinical/biosimilars)
-* [Blood Cancer](https://www.managedhealthcareexecutive.com/clinical/blood)
-* [Breast Cancer](https://www.managedhealthcareexecutive.com/clinical/breast-cancer)
-* [COVID-19](https://www.managedhealthcareexecutive.com/clinical/covid-19)
-* [Cardiovascular Diseases](https://www.managedhealthcareexecutive.com/clinical/cardiovascular-diseases)
-* [Dermatology](https://www.managedhealthcareexecutive.com/clinical/dermatology)
-* [Diabetes](https://www.managedhealthcareexecutive.com/clinical/diabetes)
-* [Digital Health](https://www.managedhealthcareexecutive.com/clinical/digital-health)
-* [Drug Coverage](https://www.managedhealthcareexecutive.com/clinical/drug-coverage)
-* [Eyecare](https://www.managedhealthcareexecutive.com/clinical/eyecare)
-* [Gene Therapy](https://www.managedhealthcareexecutive.com/clinical/gene-therapy)
-* [HIV](https://www.managedhealthcareexecutive.com/clinical/hiv)
-* [Heart Failure](https://www.managedhealthcareexecutive.com/clinical/heart-failure)
-* [Hemophilia](https://www.managedhealthcareexecutive.com/clinical/hemophilia)
-* [Hypertrophic Cardiomyopathy (HCM)](https://www.managedhealthcareexecutive.com/clinical/hcm)
-* [Leukemia and Lymphoma](https://www.managedhealthcareexecutive.com/clinical/leukemia-and-lymphoma)
-* [Liver Disease](https://www.managedhealthcareexecutive.com/clinical/liver-disease)
-* [Lung Cancer](https://www.managedhealthcareexecutive.com/clinical/lung-cancer)
-* [Mental Health](https://www.managedhealthcareexecutive.com/clinical/mental-health)
-* [Multiple Sclerosis](https://www.managedhealthcareexecutive.com/clinical/multiple-sclerosis)
-* [NSCLC](https://www.managedhealthcareexecutive.com/clinical/nsclc)
-* [Neonatal Care](https://www.managedhealthcareexecutive.com/clinical/neonatal-care)
-* [Obstetrics-Gynecology & Women's Health](https://www.managedhealthcareexecutive.com/clinical/obstetrics-gynecology-womens-health)
-* [Oncology](https://www.managedhealthcareexecutive.com/clinical/oncology)
-* [Opioids](https://www.managedhealthcareexecutive.com/clinical/opioids)
-* [Pediatrics](https://www.managedhealthcareexecutive.com/clinical/pediatrics)
-* [Plaque Psoriasis](https://www.managedhealthcareexecutive.com/clinical/plaque-psoriasis)
-* [Population Health](https://www.managedhealthcareexecutive.com/clinical/population-health)
-* [Post-Acute Care](https://www.managedhealthcareexecutive.com/clinical/ltach)
-* [Prescription Digital Therapeutics](https://www.managedhealthcareexecutive.com/clinical/prescription-digital-therapeutics)
-* [Pulmonary Arterial Hypertension](https://www.managedhealthcareexecutive.com/clinical/pulmonary-arterial-hypertension)
-* [RSV](https://www.managedhealthcareexecutive.com/clinical/rsv)
-* [Reproductive Health](https://www.managedhealthcareexecutive.com/clinical/reproductive-healh)
-* [Respiratory Conditions](https://www.managedhealthcareexecutive.com/clinical/respiratory-conditions)
-* [Safety & Recalls](https://www.managedhealthcareexecutive.com/clinical/safety-recalls)
-* [Sleep Disorders](https://www.managedhealthcareexecutive.com/clinical/sleep)
-* [Solid Tumors](https://www.managedhealthcareexecutive.com/clinical/solid-tumors)
-* [Spinal Muscular Atrophy](https://www.managedhealthcareexecutive.com/clinical/spinal-muscular-atrophy)
-* [Substance Use Disorder](https://www.managedhealthcareexecutive.com/clinical/substance)
-* [The Improving Patient Access Podcast](https://www.managedhealthcareexecutive.com/clinical/the-improving-patient-access-podcast)
-* [Type I Diabetes](https://www.managedhealthcareexecutive.com/clinical/type-i-diabetes)
-* [Type II Inflammation](https://www.managedhealthcareexecutive.com/clinical/type-ii-inflammation)
-* [Ulcerative Colitis](https://www.managedhealthcareexecutive.com/clinical/ulcerative-colitis)
-* [Urology](https://www.managedhealthcareexecutive.com/clinical/urology)
-* [Urothelial Carcinoma](https://www.managedhealthcareexecutive.com/clinical/urothelial-carcinoma)
-* [Vaccines](https://www.managedhealthcareexecutive.com/clinical/vaccines)
-* [Vaccines: 2023 Year in Review](https://www.managedhealthcareexecutive.com/clinical/vaccines-2023-year-in-review)
-* [Women's Health](https://www.managedhealthcareexecutive.com/clinical/womenshealth)
+![Formulary Watch](/_next/image?url=%2FformularyWatch_white.png&w=3840&q=75)
 
-SPOTLIGHT \-
+* [![Formulary Watch](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Formulary Watch")
+    
+    ![Formulary Watch](/_next/image?url=%2FformularyWatch_white.png&w=3840&q=75 "Formulary Watch")](https://www.formularywatch.com/)
+* [![Chief Healthcare Executive](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Chief Healthcare Executive")
+    
+    ![Chief Healthcare Executive](/_next/image?url=%2Fchief-healthcare-executive-logo-white.png&w=3840&q=75 "Chief Healthcare Executive")](https://www.chiefhealthcareexecutive.com/)
+* [![Managed Healthcare Executive](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Managed Healthcare Executive")
+    
+    ![Managed Healthcare Executive](/_next/image?url=%2FManHealthExec_white.png&w=3840&q=75 "Managed Healthcare Executive")](https://www.managedhealthcareexecutive.com/)
 
-[2024 Emerging Leader Nominations](https://www.surveymonkey.com/r/CDL9CY2)
+[![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-[| Asembia’s Specialty Pharmacy Summit](https://www.managedhealthcareexecutive.com/conferences/asembia-pharm-summit)
+![](/_next/image?url=%2Fmanagedhealthcareexecutivelogo.png&w=3840&q=75)](https://www.managedhealthcareexecutive.com/)
 
-[| Population Health Perspectives](https://www.managedhealthcareexecutive.com/population-health-perspectives)
+[](https://www.managedhealthcareexecutive.com/search)
 
-[| AMCP Annual](https://www.managedhealthcareexecutive.com/conferences/amcp-annual)
+Choose Specialty
 
-[| 2023 PBMI Annual National Conference](https://www.managedhealthcareexecutive.com/conferences/pbmi-national-conf)
+[Asthma](https://www.managedhealthcareexecutive.com/clinical/asthma)
 
-[| ASRS](https://www.managedhealthcareexecutive.com/conferences/asrs)
+[Atrial Fibrillation](https://www.managedhealthcareexecutive.com/clinical/a-fib)[Atrial Fibrillation](https://www.managedhealthcareexecutive.com/clinical/a-fib)
+
+[Autoimmune Diseases](https://www.managedhealthcareexecutive.com/clinical/autoimmune-diseases)
+
+[Biologics](https://www.managedhealthcareexecutive.com/clinical/biologics)
+
+[Biosimilars](https://www.managedhealthcareexecutive.com/clinical/biosimilars)
+
+[Blood Cancer](https://www.managedhealthcareexecutive.com/clinical/blood)
+
+[Breast Cancer](https://www.managedhealthcareexecutive.com/clinical/breast-cancer)
+
+[COVID-19](https://www.managedhealthcareexecutive.com/clinical/covid-19)
+
+[Cardiovascular Diseases](https://www.managedhealthcareexecutive.com/clinical/cardiovascular-diseases)
+
+[Dermatology](https://www.managedhealthcareexecutive.com/clinical/dermatology)
+
+[Diabetes](https://www.managedhealthcareexecutive.com/clinical/diabetes)
+
+[Digital Health](https://www.managedhealthcareexecutive.com/clinical/digital-health)
+
+[Drug Coverage](https://www.managedhealthcareexecutive.com/clinical/drug-coverage)
+
+[Eyecare](https://www.managedhealthcareexecutive.com/clinical/eyecare)
+
+[FDA](https://www.managedhealthcareexecutive.com/clinical/fda)
+
+[Gene Therapy](https://www.managedhealthcareexecutive.com/clinical/gene-therapy)
+
+[HIV](https://www.managedhealthcareexecutive.com/clinical/hiv)
+
+[Heart Failure](https://www.managedhealthcareexecutive.com/clinical/heart-failure)
+
+[Hemophilia](https://www.managedhealthcareexecutive.com/clinical/hemophilia)
+
+[Hypertrophic Cardiomyopathy (HCM)](https://www.managedhealthcareexecutive.com/clinical/hcm)
+
+[Leukemia and Lymphoma](https://www.managedhealthcareexecutive.com/clinical/leukemia-and-lymphoma)
+
+[Liver Disease](https://www.managedhealthcareexecutive.com/clinical/liver-disease)
+
+[Lung Cancer](https://www.managedhealthcareexecutive.com/clinical/lung-cancer)
+
+[Mental Health](https://www.managedhealthcareexecutive.com/clinical/mental-health)
+
+[Multiple Sclerosis](https://www.managedhealthcareexecutive.com/clinical/multiple-sclerosis)
+
+[NSCLC](https://www.managedhealthcareexecutive.com/clinical/nsclc)
+
+[Neonatal Care](https://www.managedhealthcareexecutive.com/clinical/neonatal-care)
+
+[Obstetrics-Gynecology & Women's Health](https://www.managedhealthcareexecutive.com/clinical/obstetrics-gynecology-womens-health)
+
+[Oncology](https://www.managedhealthcareexecutive.com/clinical/oncology)
+
+[Opioids](https://www.managedhealthcareexecutive.com/clinical/opioids)
+
+[Pediatrics](https://www.managedhealthcareexecutive.com/clinical/pediatrics)
+
+[Plaque Psoriasis](https://www.managedhealthcareexecutive.com/clinical/plaque-psoriasis)
+
+[Population Health](https://www.managedhealthcareexecutive.com/clinical/population-health)[Population Health](https://www.managedhealthcareexecutive.com/clinical/population-health)
+
+[Post-Acute Care](https://www.managedhealthcareexecutive.com/clinical/ltach)
+
+[Prescription Digital Therapeutics](https://www.managedhealthcareexecutive.com/clinical/prescription-digital-therapeutics)
+
+[Pulmonary Arterial Hypertension](https://www.managedhealthcareexecutive.com/clinical/pulmonary-arterial-hypertension)
+
+[RSV](https://www.managedhealthcareexecutive.com/clinical/rsv)
+
+[Reproductive Health](https://www.managedhealthcareexecutive.com/clinical/reproductive-healh)
+
+[Respiratory Conditions](https://www.managedhealthcareexecutive.com/clinical/respiratory-conditions)
+
+[Safety & Recalls](https://www.managedhealthcareexecutive.com/clinical/safety-recalls)
+
+[Sleep Disorders](https://www.managedhealthcareexecutive.com/clinical/sleep)
+
+[Solid Tumors](https://www.managedhealthcareexecutive.com/clinical/solid-tumors)
+
+[Spinal Muscular Atrophy](https://www.managedhealthcareexecutive.com/clinical/spinal-muscular-atrophy)
+
+[Substance Use Disorder](https://www.managedhealthcareexecutive.com/clinical/substance)
+
+[The Improving Patient Access Podcast](https://www.managedhealthcareexecutive.com/clinical/the-improving-patient-access-podcast)
+
+[Type I Diabetes](https://www.managedhealthcareexecutive.com/clinical/type-i-diabetes)
+
+[Type II Inflammation](https://www.managedhealthcareexecutive.com/clinical/type-ii-inflammation)
+
+[Ulcerative Colitis](https://www.managedhealthcareexecutive.com/clinical/ulcerative-colitis)
+
+[Urology](https://www.managedhealthcareexecutive.com/clinical/urology)
+
+[Urothelial Carcinoma](https://www.managedhealthcareexecutive.com/clinical/urothelial-carcinoma)
+
+[Vaccines](https://www.managedhealthcareexecutive.com/clinical/vaccines)
+
+[Vaccines: 2023 Year in Review](https://www.managedhealthcareexecutive.com/clinical/vaccines-2023-year-in-review)
+
+[Women's Health](https://www.managedhealthcareexecutive.com/clinical/womenshealth)
+
+![Formulary Watch](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+
+![Formulary Watch](/_next/image?url=%2FformularyWatch_white.png&w=3840&q=75)
+
+* [![Formulary Watch](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Formulary Watch")
+    
+    ![Formulary Watch](/_next/image?url=%2FformularyWatch_white.png&w=3840&q=75 "Formulary Watch")](https://www.formularywatch.com/)
+* [![Chief Healthcare Executive](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Chief Healthcare Executive")
+    
+    ![Chief Healthcare Executive](/_next/image?url=%2Fchief-healthcare-executive-logo-white.png&w=3840&q=75 "Chief Healthcare Executive")](https://www.chiefhealthcareexecutive.com/)
+* [![Managed Healthcare Executive](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Managed Healthcare Executive")
+    
+    ![Managed Healthcare Executive](/_next/image?url=%2FManHealthExec_white.png&w=3840&q=75 "Managed Healthcare Executive")](https://www.managedhealthcareexecutive.com/)
+
+![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+
+![](/_next/image?url=%2FManHealthExec_white.png&w=3840&q=75)
+
+* * Spotlight
+        
+    * [News](https://www.managedhealthcareexecutive.com/news)
+    * Media
+        
+    * [Conferences](https://www.managedhealthcareexecutive.com/conferences)
+    * [Partners](https://www.managedhealthcareexecutive.com/sap-partner)
+    * Publications
+        
+    * Events
+        
+    * [CME/CE](https://www.managedhealthcareexecutive.com/continuing-medical-education)
+    * Resources
+        
+    * [Subscribe](https://one.managedhealthcareexecutive.com/subscribe/)
+
+[](https://www.facebook.com/ManagedHealthcareExecutive)[](https://twitter.com/MHExecutive)[](https://www.linkedin.com/company/managed-healthcare-executive/)[](https://www.managedhealthcareexecutive.com/rss)
+
+Advertisement
+
+* * *
 
 Privacy
 =======
