@@ -1,16 +1,20 @@
 * [](https://linear.app/homepage)
-* Features
+* [Product](https://linear.app/features)
 * [Method](https://linear.app/method)
 * [Customers](https://linear.app/customers)
 * [Changelog](https://linear.app/changelog)
 * [Pricing](https://linear.app/pricing)
-* Company
+* [Company](https://linear.app/about)
 * [Contact](https://linear.app/contact)
+
 * [Docs](https://linear.app/docs)
-* [Sign up](https://linear.app/signup)[Open app](https://linear.app/login)
-* [Log in](https://linear.app/login)
-* [Sign up](https://linear.app/signup)[Open app](https://linear.app/login)
-* [Open Site Navigation Menu](#Header_mobile-menu-state__mRThG)[Close Site Navigation Menu](#)
+* [Open appL](https://linear.app/login)
+* [Open Site Navigation Menu](#NewHeader_mobile-menu-state__p1r7X)[Close Site Navigation Menu](#)
+    
+
+* [Log inL](https://linear.app/login)
+* [Sign up](https://linear.app/signup)
+* [Open Site Navigation Menu](#NewHeader_mobile-menu-state__p1r7X)[Close Site Navigation Menu](#)
     
 
 * [Features](https://linear.app/features)
@@ -322,7 +326,7 @@ If you have any questions or comments about this Privacy Policy, the ways in whi
 **Email:** hello@linear.app  
 **Address**: 440 N Barranca Ave #4242 Covina, CA 91723 United States
 
-[Linear - Designed Worldwide](https://linear.app/)
+[Linear \- Designed Worldwide](https://linear.app/)
 
 [](https://twitter.com/linear)[](https://github.com/linear)[](https://linear.app/join-slack)[](https://www.youtube.com/@LinearApp)
 
@@ -362,18 +366,22 @@ If you have any questions or comments about this Privacy Policy, the ways in whi
 * [README](https://linear.app/readme)
 
 * [](https://linear.app/homepage)
-* Features
+* [Product](https://linear.app/features)
 * [Method](https://linear.app/method)
 * [Customers](https://linear.app/customers)
 * [Changelog](https://linear.app/changelog)
 * [Pricing](https://linear.app/pricing)
-* Company
+* [Company](https://linear.app/about)
 * [Contact](https://linear.app/contact)
+
 * [Docs](https://linear.app/docs)
-* [Sign up](https://linear.app/signup)[Open app](https://linear.app/login)
-* [Log in](https://linear.app/login)
-* [Sign up](https://linear.app/signup)[Open app](https://linear.app/login)
-* [Open Site Navigation Menu](#Header_mobile-menu-state__mRThG)[Close Site Navigation Menu](#)
+* [Open appL](https://linear.app/login)
+* [Open Site Navigation Menu](#NewHeader_mobile-menu-state__p1r7X)[Close Site Navigation Menu](#)
+    
+
+* [Log inL](https://linear.app/login)
+* [Sign up](https://linear.app/signup)
+* [Open Site Navigation Menu](#NewHeader_mobile-menu-state__p1r7X)[Close Site Navigation Menu](#)
     
 
 * [Features](https://linear.app/features)
@@ -391,21 +399,37 @@ If you have any questions or comments about this Privacy Policy, the ways in whi
 [](https://twitter.com/linear)[](https://github.com/linear)[](https://linear.app/join-slack)[](https://www.youtube.com/@LinearApp)
 
 * [](https://linear.app/homepage)
-* Features
+* [Product](https://linear.app/features)
 * [Method](https://linear.app/method)
 * [Customers](https://linear.app/customers)
 * [Changelog](https://linear.app/changelog)
 * [Pricing](https://linear.app/pricing)
-* Company
+* [Company](https://linear.app/about)
 * [Contact](https://linear.app/contact)
+
 * [Docs](https://linear.app/docs)
-* [Sign up](https://linear.app/signup)[Open app](https://linear.app/login)
-* [Log in](https://linear.app/login)
-* [Sign up](https://linear.app/signup)[Open app](https://linear.app/login)
-* [Open Site Navigation Menu](#Header_mobile-menu-state__mRThG)[Close Site Navigation Menu](#)
+* [Open appL](https://linear.app/login)
+* [Open Site Navigation Menu](#NewHeader_mobile-menu-state__p1r7X)[Close Site Navigation Menu](#)
     
 
-[Open Site Navigation Menu](#Header_mobile-menu-state__mRThG)[Close Site Navigation Menu](#)
+* [Log inL](https://linear.app/login)
+* [Sign up](https://linear.app/signup)
+* [Open Site Navigation Menu](#NewHeader_mobile-menu-state__p1r7X)[Close Site Navigation Menu](#)
+    
+
+* [Docs](https://linear.app/docs)
+* [Open appL](https://linear.app/login)
+* [Open Site Navigation Menu](#NewHeader_mobile-menu-state__p1r7X)[Close Site Navigation Menu](#)
+    
+
+[Open Site Navigation Menu](#NewHeader_mobile-menu-state__p1r7X)[Close Site Navigation Menu](#)
+
+* [Log inL](https://linear.app/login)
+* [Sign up](https://linear.app/signup)
+* [Open Site Navigation Menu](#NewHeader_mobile-menu-state__p1r7X)[Close Site Navigation Menu](#)
+    
+
+[Open Site Navigation Menu](#NewHeader_mobile-menu-state__p1r7X)[Close Site Navigation Menu](#)
 
 * [Features](https://linear.app/features)
 * [Pricing](https://linear.app/pricing)
@@ -1029,7 +1053,7 @@ If you have any questions or comments about this Privacy Policy, the ways in whi
 **Email:** hello@linear.app  
 **Address**: 440 N Barranca Ave #4242 Covina, CA 91723 United States
 
-[Linear - Designed Worldwide](https://linear.app/)
+[Linear \- Designed Worldwide](https://linear.app/)
 
 [](https://twitter.com/linear)[](https://github.com/linear)[](https://linear.app/join-slack)[](https://www.youtube.com/@LinearApp)
 
@@ -1068,7 +1092,7 @@ If you have any questions or comments about this Privacy Policy, the ways in whi
 * [GitHub](https://github.com/linear)
 * [README](https://linear.app/readme)
 
-[Linear - Designed Worldwide](https://linear.app/)
+[Linear \- Designed Worldwide](https://linear.app/)
 
 [](https://twitter.com/linear)[](https://github.com/linear)[](https://linear.app/join-slack)[](https://www.youtube.com/@LinearApp)
 
