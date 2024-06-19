@@ -15,20 +15,20 @@
     
     [See All](https://www.coolthings.com/gadgets/)
     
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/raspberry-pi-ai-kit-machine-learning-add-on-vision-based-ai/)
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/coros-dura-slar-bike-computer-120-hours-battery-life/)
     
-    [Raspberry Pi AI Kit Brings AI Inferencing to Single Board Computers](https://www.coolthings.com/raspberry-pi-ai-kit-machine-learning-add-on-vision-based-ai/)
-    --------------------------------------------------------------------------------------------------------------------------------------------------------------
+    [Coros Dura Bike Computer Offers a Whopping 120 Hours of Battery Life Between Charges](https://www.coolthings.com/coros-dura-slar-bike-computer-120-hours-battery-life/)
+    ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/shokz-openswim-pro-swim-headphones-bluetooth-connectivity/)
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/logitech-mx-ink-stylus-for-meta-quest-headsets/)
     
-    [Shokz OpenSwim Pro Adds Bluetooth Connectivity to the Standalone Swim Headphones](https://www.coolthings.com/shokz-openswim-pro-swim-headphones-bluetooth-connectivity/)
-    -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    [Logitech MX Ink Stylus Brings Precision Pen Control to Meta Quest Headsets](https://www.coolthings.com/logitech-mx-ink-stylus-for-meta-quest-headsets/)
+    --------------------------------------------------------------------------------------------------------------------------------------------------------
     
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/the-best-streaming-devices-to-bring-smart-features-to-your-tv/)
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/the-best-note-taking-tablets-to-keep-all-your-handwritten-materials-in-one-place/)
     
-    [The Best Streaming Devices to Bring Smart Features to Your TV](https://www.coolthings.com/the-best-streaming-devices-to-bring-smart-features-to-your-tv/)
-    ----------------------------------------------------------------------------------------------------------------------------------------------------------
+    [The Best Note-Taking Tablets to Keep All Your Handwritten Materials in One Place](https://www.coolthings.com/the-best-note-taking-tablets-to-keep-all-your-handwritten-materials-in-one-place/)
+    ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
 * [GIFTS](http://www.coolthings.com/gifts/)
     
@@ -43,20 +43,20 @@
     
     [See All](https://www.coolthings.com/gear/)
     
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/the-best-exercise-bikes-for-effective-cardio-workouts-at-home/)
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/stoke-voltaics-nomad-cooking-system-electric-stovetop-cookware-campsite/)
     
-    [The Best Exercise Bikes for Effective Cardio Workouts at Home](https://www.coolthings.com/the-best-exercise-bikes-for-effective-cardio-workouts-at-home/)
-    ----------------------------------------------------------------------------------------------------------------------------------------------------------
+    [Stoke Voltaics Nomad Cooking System Brings Electric Cooking to the Campsite](https://www.coolthings.com/stoke-voltaics-nomad-cooking-system-electric-stovetop-cookware-campsite/)
+    ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/yeti-flask-stealthy-drinking-vessel-stainless-steel/)
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/the-best-dolby-atmos-soundbars-to-bring-immersive-3d-audio-to-your-tv-viewing-experience/)
     
-    [Yeti Flask Adds a Stealthy Drinking Vessel to the Outfit’s Drinkware Lineup](https://www.coolthings.com/yeti-flask-stealthy-drinking-vessel-stainless-steel/)
-    --------------------------------------------------------------------------------------------------------------------------------------------------------------
+    [The Best Dolby Atmos Soundbars to Bring Immersive 3D Audio to Your TV Viewing Experience](https://www.coolthings.com/the-best-dolby-atmos-soundbars-to-bring-immersive-3d-audio-to-your-tv-viewing-experience/)
+    ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/shokz-openswim-pro-swim-headphones-bluetooth-connectivity/)
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/opinel-grilling-set-pocket-knife-bbq-spatula/)
     
-    [Shokz OpenSwim Pro Adds Bluetooth Connectivity to the Standalone Swim Headphones](https://www.coolthings.com/shokz-openswim-pro-swim-headphones-bluetooth-connectivity/)
-    -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    [Opinel Grilling Set Lets You Turn the Classic Pocket Knife into a BBQ Spatula](https://www.coolthings.com/opinel-grilling-set-pocket-knife-bbq-spatula/)
+    ---------------------------------------------------------------------------------------------------------------------------------------------------------
     
     * [OUTDOOR GEAR](http://www.coolthings.com/tag/outdoor-gear/)
     * [CAMPING GEAR](http://www.coolthings.com/tag/camping-gear/)
