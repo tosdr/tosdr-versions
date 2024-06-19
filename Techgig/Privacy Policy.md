@@ -188,199 +188,195 @@ TechGig Privacy Policy
 
 **Last Reviewed Date: 25/07/2023**
 
-We at **TIMES INTERNET LIMITED (TIL, Company, we, our, us)** respect your privacy and are committed to protecting your personal data. In this privacy policy, we explain how we collect, use, and process your personal information when you access our Website or associated mobile application (each, an **App** and together, **Apps**), for delivery of Services. Unless indicated otherwise, this privacy policy further applies to any related websites or other online properties owned or controlled by Company (together with the Websites and Apps, the **Platforms**). Services mean to include all the content, services, information, and related made available to you "as is" from our Platforms.
+This privacy policy ("Policy") explains our policy regarding the collection, use, disclosure and transfer of your information by Times Business Solutions (A Division of Times Internet Limited), a wholly owned subsidiary of Bennett Coleman & Co. Limited and powers / manages the website www.techgig.com, and/or its subsidiary(ies) and/or affiliate(s), referred to as the "Companyâ€ which operates various websites, including sub-sites, platforms, applications, m-web platforms and other platforms (collectively referred to as â€œSitesâ€) for delivery of information, products, offerings and content via any mobile or internet connected device or otherwise (collectively the "Services").
 
-This Privacy Policy must be read in conjunction and together with the Terms of Use of the particular Platform you are using, available at: [terms and conditions](https://www.techgig.com/user/terms). Please note that links from our website may take you to external websites which are not covered by this policy. We recommend that you check their privacy policies before you access, use, or download from such sites. We will not be responsible for the content, function, or information collection policies of these external websites.
+Please read this Privacy Policy along with the Terms and Conditions linked separately to this website. Capitalized terms which have been used here but are undefined shall have the same meaning as attributed to them in the Terms and Conditions. This Privacy Policy is applicable to persons who access, browse or use the Services (â€œUserâ€). For the purpose of this Policy, wherever the context so requires "you" or "your" shall mean User and the term "we", "us", "our" shall mean Company.
 
-By accessing, downloading, using the Platform(s) that we operate, which has a direct link to this Policy, you agree to be governed by the Privacy Policy of the Company.
+As we update, improve and expand the Services, this Policy may change, so please refer back to it periodically. By accessing and using the Sites or otherwise using the Services, you provide consent to collecting, storage, and use of the personal information you provide (including any changes thereto as provided by you) for any of the Services that we provide.
 
-By agreeing to this Privacy Policy, you represent that you shall not access our Services by means of any mechanism or technology which conceals your actual geo-location or provides incorrect details of your location, (for example, use a virtual private network (VPN) to access our Services. We shall not be responsible or liable for any processing or collection of your information if you use these mechanisms to access our Platforms and Services.
+We respect the privacy of its Users and is committed to protect it in all respects. Any dispute with Company over privacy matters are subject to this Privacy Policy read in conjunction with the Terms and Conditions. The information about the User as collected by the Company is: (a) information supplied by Users and (b) information automatically tracked while navigation (collectively referred to as "Information").
 
-Information We Collect
-----------------------
+#### 1\. Information Received, Collected And Stored By The Company
 
-We will only collect your personal information where it is necessary for us to provide you with a service at your request, such as when you contact us, register an account on our website, avail of subscription services, or access the content on the Platform(s). We have discussed the manners of our collection of information, herein in greater detail for your reference:
+##### A. Information Supplied By Users
 
-### _Information submitted to us:_
+**Registration data:**
 
-You give us information about you whenever you use our services, such as by doing the following, some of the following categories of information are collected directly by us, and some are provided by you directly for the performance of certain functions:
+To avail certain sites/ services on our Sites, Users may be required to provide certain information for the registration process that may include but not limited to :-
 
-* Accessing our Platforms by means of any web browser or device;
-* Registration, subscribing for our Services on our Platforms;
-* Enquiring about our products or services;
-* Purchasing our subscription packages on the Platforms;
-* Initiating and maintaining correspondence with us.
+1. your name,
+2. Sex
+3. date of birth
+4. contact number - In Encrypted format
+5. email address - In Encrypted format
+6. City
+7. Country
+8. Company - In Encrypted format
+9. Institute - In Encrypted format
+10. Skill-set
 
-This information may include but not be limited to the following:
+When you register using your other accounts like on Facebook, LinkedIn, Gmail and Github, we shall retrieve personal information as mentioned below, from such account to continue to interact with you and to continue providing the Services:
 
-* Identification information such as user name, date of birth, gender, profile
-* picture, qualification, location;
-* Social media plugin details like - Facebook, Google, LinkedIn, Apple ID or any other - for the purpose of identification
-* Contact information such as email address, mobile number;
-* Payment information (this is securely collected and processed by our payment service provider exclusively);
-* Additional information relevant to your use of our Platforms and Services, such as one time password sent for registration, your marketing preferences, place of employment and designation, survey responses and feedback;
-* Financial information - Investment details, compensation details, salary range, where the relevant Service of the Platform requires such indicators.
+1. Facebook : Email address and public profile
+2. LinkedIn : Email address, first name, last name, picture url
+3. Gmail : Email address, first name, last name
+4. Github : Email address and name
 
-We take extra precautions to ensure that such sensitive personal data is kept secure and confidential, and we will only retain this data for as long as necessary for the purposes for which we collect it.
+**Voluntary information:**
 
-### _Information we collect automatically:_
+We may collect additional information at other times, including but not limited to, when you provide feedback, comments, change your content or email preferences, respond to a survey, or any communication with us.
 
-We collect information using cookies and other similar technologies to help distinguish you from other users of our Platforms, and streamline your online.
+Any personally identifiable information provided by you will not be considered as sensitive if it is freely available and / or accessible in the public domain like any comments, messages, blogs, scribbles available on social platforms like Facebook, twitter etc. Any posted/uploaded/conveyed/communicated by users on the public sections of the Sites becomes published content and is not considered personally identifiable information subject to this Policy.
 
-When you visit our Platforms, we may collect the following information:
+##### B. Information Automatically Collected/ Tracked While Navigation
 
-* Your activity logs on the Platform(s) - Which pages you access, view and which links you follow;
-* Your IP address/ device's serial number or unique identification number and general location, including country, address and pin code;
-* A device identifier (cookie or IP address or Device ID or Android Advertiser ID / iDFA ID), or any other identifier;
-* Details of the hardware and software that you are using to access the Platforms such as your computer/device name, your operating system, browser type and version, application version, operator name, screen size, CPU speed, and connection speed;
-* Any passwords that you use on our Platforms or any other authentication token used to login;
-* URL and time stamps;
-* Details of your visits to our Platforms and the resources that you access, including, but not limited to, traffic data, location data, web logs and other communication data.
+**Cookies:**
 
-### _Information we collect about you from other sources._
+The following are Third parties Cookies:
 
-We may collect information about you from other sources. This may include the following:
+| Domain | Cookie Name | Expiration | Description |
+| --- | --- | --- | --- |
+| third party | \_\_cfduid | Unknown | .crazyegg.com |
+| third party | \_\_cfduid | Unknown | .clmbtech.com |
+| third party | UID | Unknown | .scorecardresearch.com |
+| third party | nv\_userdevice | Unknown | .notifyvisitors.com |
 
-* Publicly available information.
-* Information you have shared publicly, including on social media. We collect your e-mail ID and the relevant public profile information, which may include your name, profile picture, age, gender, and any other pertinent information from such social media account which is, necessary for verification of your identity.
-* We also receive information from you when you interact with our pages, Apps, groups, accounts, or posts on social media platforms.
+The following are Internal Cookies:
 
-This list is not exhaustive, and, in specific instances, we may need to collect additional data for the purposes set out in this policy.
+| Domain | Cookie Name | Expiration | Description |
+| --- | --- | --- | --- |
+| techgig.com | pa\_login | 1 Year(Remember Me feature) | To make user continue in logged in state even if user has closed the browser |
+| techgig.com | ppuserinfo | 2 months | To make user continue in logged in state even if user has closed the browser |
+| techgig.com | reauth | 30 minutes | To re authenticate user after specific time interval |
 
-### _Information we receive about you from other sources_
+**Log File Information:**
 
-Sometimes you will have given your consent to other websites, services or third parties to provide information to us.
+We automatically collect limited information about your computer's connection to the Internet, mobile number, including your IP address, when you visit our site, application or service. Your IP address is a number that lets computers attached to the Internet know where to send you data -- such as the pages you view. We automatically receive and log information from your browser, including your IP address, your computer's name, your operating system, browser type and version, CPU speed, and connection speed. We may also collect log information from your device, including your location, IP address, your device's name, device's serial number or unique identification number (e.g. UDiD on your iOS device), your device operating system, browser type and version, CPU speed, and connection speed etc.
 
-It could include information from third parties that we work with to provide our products and services, such as delivery companies, technical support companies and advertising companies. Whenever we receive information about you from these third parties, we will only use it in such manner that is already communicated to you, as per this Policy, and for such defined purposes only. We may further collect additional analytics reports, information from other services, websites, who work together with us.
+#### 2\. Links To Third Party Sites / Ad-servers
 
-When you chose any subscription or paid service, we or our payment gateway provider may collect and/or process your personal information such as address or billing information, including your credit/debit card number and expiration date etc. as per the terms of this Policy. Any financial information provided by you will be processed by such third parties who provide the functionalities for such Services to us, for effective processing. We encourage you to familiarize yourself with the privacy policies provided by such third parties prior to providing them with your information or entering into any transactions with them
+The Sites may include links to other websites or applications. Such websites or applications are governed by their respective privacy policies, which are beyond our control. Once you leave our servers (you can tell where you are by checking the URL in the location bar on your browser), use of any information you provide is governed by the privacy policy of the operator of the application you are visiting. That privacy policy may differ from ours. If you can't find the privacy policy of any of these sites via a link from the application's homepage, you should contact the application or website owners directly for more information.
 
-##### Marketing and Analytics
+We do not provide any personally identifiable information to third party websites / advertisers / ad-servers without your consent.
 
-We may use Web Beacons to track your online usage patterns in an anonymous manner, without collection your personally identifiable information. We may also use web beacons in HTML emails that we send subscribers who have opted in to receive email from us, to determine whether our recipients have opened those emails and/or clicked on links in those emails.We use this information to inter-alia deliver our web pages to you upon request, to tailor our Platform(s) to the interests of our users, to measure traffic within our Platform(s) to improve the quality, functionality and interactivity of our Platform(s) and let advertisers know the geographic locations from where our Users come without personally identifying the users.
+In case you decline to submit personally identifiable information on the Sites, we may not be able to provide certain services on the Sites to you. We will make reasonable efforts to notify you of the same at the time of opening your account. In any case, we will not be liable and or responsible for the denial of certain services to you, in case you do not provide us the necessary personal information.
 
-We place website beacons to collect data for our partners, we require our partners to inform users on their privacy policy page that the webpage uses website beacons. This option will only be recorded in your current browser and will not be recorded in your user history.
+How collected data is used?
+---------------------------
 
-Purpose of Collection of Information.
--------------------------------------
+1. The information as supplied by the users enables us to improve the Services and provide you the most user-friendly experience.
+2. In some cases/provision of certain service(s) or utility (ies), we may require your contact address as well.
+3. All required Information is service dependent and the Company may use the above said user Information to maintain, protect, and improve the Services (including advertising and personalization on the Sites) and for developing new services.
+4. We may also use your email address or other personally identifiable information to send commercial or marketing messages about our Services and/or such additional updates and features about third party products and services with an option to subscribe / unsubscribe (where feasible).
+5. We may share information as supplied by you with other companies and institutions for recruitment purpose and also for different contest/event as conducted by www.techgig.com.
+6. We may, however, use your email address for non-marketing or administrative purposes (such as notifying you of major changes, for customer service purposes, billing, etc.).
+7. When you register with the Sites or Services, we contact you from time to time about updating of your personal information to provide the Users such features that we believe may benefit / interest you.
+8. We use third-party advertising companies to serve ads when you visit or use our Sites or Services. These companies may use information (excluding your name, address, email address or telephone number or any personally identifiable information) about your visits or use to particular website, mobile application or services, in order to provide advertisements about goods and services of interest to you. TechGig also allows advertisers and creators to serve advertisements directly, using Times Internet Limited's own ad serving technologies.
 
-We collect information (including Personal Information) to provide the Services and for the purposes as outlined below including but not limited to:
-
-* to help us identify you when you log into the Platform and when you register an account with us, and, to map a specific profile with an authorized user;
-* to help facilitate in-app purchases and make subscribed and paid content available to you;
-* to enhance the quality of services that we provide and improve your experience during browsing;
-* to personalize your browsing experience on the Platform(s);
-* to recommend videos, content, news to users they might be interested in;
-* for providing location-based services;
-* for the performance of a contractual and legal obligation;
-* to communicate with you;
-* to provide you with news, special offers, general information, commercial communications about other products and services along with marketing information and surveys;
-* to provide and process service requests initiated by you.
-* Notification of any changes in the terms of use or privacy policy;
-* Resolution of any queries related to your use of Services.
-* Any other new services developed by us, our affiliates, subsidiaries and /or third party partners
-
-**\[NOTE TO COMMENT: Specify further use cases.\]**
-
-### _Sharing and Use_
-
-We may share your information with our trusted partners or third parties who provide us with support services, for meeting the obligations agreed to between you and us.
-
-We may use and/or disclose your information with the Company-controlled businesses, affiliates, subsidiaries and other entities within the Times group of companies, other third party business partners, service providers including but not limited to services provider, advertising networks, technology partner, social networks and any other third parties:
-
-* to assist them to reach out to you in relation to their programs or campaigns (including marketing and sales) and to process your query / requests (such as job application) and/or provide with the services;
-* to process payments on our behalf. Our payment provider will collect and process your payment details; we will not store or have access to your full credit or debit card details, except any transactional information for the purpose of reconciliation of transactions on our Platform(s).
-* to send e-mails, instant messages, social media messages and SMS messages and/or manage contact management systems.
-* recommendations services, ad tech services, analytic services, including but not limited to click stream information, browser type, time and date, information about your interactions with advertisements and other content, including through the use of cookies, beacons, mobile ad identifiers, and similar technologies, in order to provide content, advertising, or functionality or to measure and analyze ad performance, on our Services or Platforms and on 3 rd party platforms.
-* serve ads on our Platforms, affiliate websites, and any other digital platform available on the internet. However, the privacy policy of such digital platform shall be applicable upon the processing of information on such third party digital platform.
-* to assist and to reach out to you in relation to various programs or campaigns (including marketing and sales) and/or to process your query / requests.
-
-We may further be required to share your personal information in certain exceptional circumstances; this would be where we believe that the disclosure is:
-
-* Required by the law, or in order to comply with judicial proceedings, court orders or legal or regulatory proceedings.
-* Necessary to protect the safety of our employees, our property or the public.
-* Necessary for the prevention or detection of crime, including exchanging information with other companies or organizations for the purposes of fraud protection and credit risk reduction.
-* Proportionate as part of a merger, business, or asset sale, in the event that this happens we will share your information with the prospective seller or buyer involved.
-
-Data Retention
---------------
-
-We will only store your personal information for as long as we need it for the purposes for which it was collected. Retention periods for records will also be based on the type of record, the nature of the activity and product and service that the same is associated with, linked to.
-
-We retain your information till such period that is required for the purposes of us meeting your requests on our Platforms, and in compliance with the applicable laws, statutory requirements.
-
-Information Security.
----------------------
-
-We take commercially reasonable technical, physical, and organizational steps to safeguard any information you provide to us, to protect it from unauthorized access, loss, misuse, or alteration.
-
-We try to ensure that all information you provide to us is transferred securely via the website (always check for the padlock symbol in your browser, and "https" in the URL, to ensure that your connection is secure).
-
-All information you provide to us is stored on secure servers. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our website, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
-
-Although we take reasonable security precautions, no computer system or transmission of information can ever be completely secure or error-free, and you should not expect that your information will remain private under all circumstances. The Company will not be liable for any damages of any kind arising from the use of the Platform, including, but not limited to any indirect, incidental, special, consequential or punitive damages, or any loss of profits or revenues, whether incurred directly or indirectly or any loss of data, use, good-will, or other intangible losses.
-
-Data Subject Rights
--------------------
-
-If you require any further information about your rights as explained below, or if you would like to exercise any of your rights, please reach out to us by writing to the Grievance Officer of the Company.
-
-You have the right to access your personal data.
-
-You have the right to correct any inaccurate or incomplete personal data
-
-You have the right to withdraw your consent
-
-You have the right to request deletion of your account
-
-However, we may maintain backup copies of your information, to the extent necessary to comply with our legal obligations.
-
-Cross-Border Transfers
-----------------------
-
-We operate globally and may transfer your personal information to individual companies of the Times Internet Limited affiliated companies or third parties in locations around the world for the purposes described in this privacy policy, only upon satisfaction that the country has an adequate and appropriate level of protection, and the transfer of information is lawful. We shall comply with our legal and regulatory obligations in relation to your Information, including having a lawful basis for transferring Personal Information and putting appropriate safeguards in place to ensure an adequate level of protection for the Personal Information. We will also ensure that the recipient in such alternate country is obliged to protect your Information at a standard of protection comparable to the protection under applicable laws. Our lawful basis for such transfer will be either on the basis of content or one of the safeguards permissible by laws.
-
-Children Privacy
-----------------
-
-You must have attained the age of majority to be able to use and access our Services. If you are a minor in your jurisdiction, your registration and use of our Services must be with the supervision of an adult.
-
-As a parent or legal guardian, please do not allow your minors under your care to submit Personal Information to us. In the event that such Personal Information of a minor is disclosed to us, you hereby consent to the processing of the minor's Personal Information and accept and agree to be bound by this Privacy Policy and take responsibility for his or her actions.
-
-However, if the Company is notified that the personal data of individuals below the age of majority has been collected by Us, without user or parental consent, We shall take all necessary steps to delete such information from our servers. As a parent or legal guardian, you are encouraged to reach out to the Grievance Officer, for redressal of any complaints in relation to collection of children data.
-
-Changes to the Privacy Policy
+How collected data is shared?
 -----------------------------
 
-Any changes we make to our privacy policy in the future, to incorporate necessary changes in technology, applicable law, will be posted on this page and, where appropriate, notified to you by e-mail. Your use of the Services after such notice shall be deemed as acceptance of such changes to our Privacy Policy. Please check back frequently to see any updates or changes to our privacy policy.
+Company may share sensitive Personal Information to any third party/Service Provider/Alliance Partner without obtaining the prior consent of the User in the following limited circumstances:
 
-This version was last updated on **25/07/2023** and historic versions can be obtained by contacting us.
+1. When it is requested or required by law or by any court or governmental agency or authority to disclose, for the purpose of verification of identity, or for the prevention, detection, investigation including cyber incidents, or for prosecution and punishment of offences. These disclosures are made in good faith and belief that such disclosure is reasonably necessary for enforcing these Terms and Conditions; for complying with the applicable laws and regulations.
+2. Company proposes to share such information within its group companies and officers and employees of such group companies and/or third party service provider for the purpose of processing Personal Information on its behalf. We also ensure that these recipients of such information agree to process such information based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures.
+3. We may share your information when we believe in good faith that such sharing is reasonably necessary in order to investigate, prevent, or take action regarding possible illegal activities or to comply with legal process. We may also share your information to investigate and address threats or potential threats to the physical safety of any person, to investigate and address violations of this Privacy Policy or the Terms and Conditions, or to investigate and address violations of the rights of third parties and/or to protect the rights, property and safety of TBS, our employees, users, or the public. This may involve the sharing of your information with law enforcement, government agencies, courts, and/or other organizations on account of legal request such as subpoena, court order or government demand to comply with the law. Company shall transfer information about the User in case Company is acquired by or merged with another company.
 
-Grievance Redressal
+Transfer of personal data to third country
+------------------------------------------
+
+The information we collect about you, in certain cases is transferred to the servers hosted in third countries, by the third parties engaged by us.
+
+Some countries that are not members of the European Economic Area (EEA) are recognized by the European Commission as providing an adequate level of data protection according to EEA standards. For transfers from the EEA to countries not considered adequate by the European Commission, we have put in place adequate measures, including by ensuring that the recipient is bound by relevant data protection contractual clauses, to protect your personal data.
+
+Accessing, correcting or deleting your personal information
+-----------------------------------------------------------
+
+We will take reasonable steps to accurately record the personal information that you provide to us and any subsequent updates, subject to any requirement for such personal information or sensitive personal data or information to be retained by law or for legitimate business purposes.
+
+We encourage you to review, update, and correct the personal information that we maintain about you, and you may request that we delete personal information about you that is inaccurate, incomplete, or irrelevant for legitimate purposes, or are being processed in a way which infringes any applicable legal requirement. If you would like to review, change or delete personal information we have collected from you, or permanently delete your account, please email us on [grievance@techgig.com](mailto:grievance@techgig.com) or contact the Times Business Solutionâ€™s Grievance Officer.
+
+We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests. In any case, where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort.
+
+Your right to review, update, correct, and delete your personal information may be limited, subject to the laws of your jurisdiction:
+
+* If your requests are unreasonably excessive or repetitive,
+* Where the rights or safety of another person or persons would be jeopardized, or
+* If the information or material you request relates to existing or anticipated legal proceedings between you and us, or providing access to you would prejudice negotiations between us or an investigation of possible unlawful activity. Your right to review, update, correct, and delete your information is subject to our records retention policies and applicable law, including any statutory retention requirements.
+
+Security: How we protect your personal information
+--------------------------------------------------
+
+We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, including appropriate encryption and physical security measures to guard against unauthorized access to systems where we store personal data. All information gathered on TIL is securely stored within the Company controlled database. The database is stored on servers secured behind a firewall; access to the servers is password-protected and is strictly limited. However, as effective as our security measures are, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that the information you supply will not be intercepted while being transmitted to us over the Internet. And, of course, any information you include in a posting to the discussion areas is available to anyone with Internet access.
+
+We assume no liability or responsibility for disclosure of your information due to errors in transmission, unauthorized third-party access, or other causes beyond our control. You play an important role in keeping your personal information secure.
+
+Changes to privacy notice
+-------------------------
+
+The internet is an ever evolving medium. We may alter our Policy from time to time to incorporate necessary changes in technology, applicable law or any other variant. In any case, we reserve the right to change (at any point of time) the terms of this Policy or the Terms of Use. Any changes we make will be effective immediately on notice, which we may give by posting the new policy on the Sites. Your use of the Sites or Services after such notice will be deemed acceptance of such changes.
+
+We may also make reasonable efforts to inform you via electronic mail. In any case, you are advised to review this Policy periodically on the Sites to ensure that you are aware of the latest version.
+
+**Last Reviewed Date: 25/07/2023**
+
+Retention Period
+----------------
+
+Because of the way we maintain certain services, after you delete your information, residual copies may take up to eight years of time before they are deleted from our active servers and may remain in our backup systems. We retain such information for financial audit/ compliance related purposes.
+
+Mechanism to withdraw consent:
+------------------------------
+
+There is an option to deactivate/ delete your account under Settings. Alternatively, you can withdraw consent by sending an email to [dpo@timesinternet.in](mailto:dpo@timesinternet.in) Upon receiving your email, your account will be deactivated.
+
+### Contact Information
+
+##### Data Protection Office
+
+The data controller for our services is Times Business Solutions with the business address of:
+
+Times Internet Limited  
+Times Center  
+FC-6, Film City  
+Sector 16-A, Noida - 201301, India
+
+The data protection officer (DPO) can be contacted at [dpo@timesinternet.in](mailto:dpo@timesinternet.in)
+
+If you have any queries, complaints regarding the collecting, processing, transfer of personal data/information or regarding this policy please contact our Data Protection Officer.
+
+##### EU Representative
+
+**Bhavana Raina**  
+Times Internet  
+4th Floor, 1 Kingdom Street,  
+Paddington Central  
+London W2 6BD  
+[euprepresentative@timesinternet.in](mailto:euprepresentative@timesinternet.in)
+
+Redressal Mechanism
 -------------------
 
-If you have any complaints, concerns with regards to the use, storage, deletion, and disclosure of your personal information provided to Us, you may reach out to the designate Grievance Officer. The Grievance Officer appointed by Times Internet Limited is **Saba Khan**. who can be contacted at [grievance@techgig.com](mailto:grievance@techgig.com).
+Any complaints, abuse or concerns with regards to content and or comment or breach of these terms shall be immediately informed to the designated Grievance Officer as mentioned below via in writing or through email signed with an electronic signature to [grievance@techgig.com](mailto:grievance@techgig.com)
 
-You can also write to:
+#### Saba Khan
 
-#### **Address:**
+www.techgig.com  
+Times Internet Limited  
+Times Center  
+FC-6, Film City  
+Sector 16-A, Noida - 201301, India  
+Email: [grievance@techgig.com](mailto:grievance@techgig.com)  
+Phone No.: 0120-677-6999 - Ext.8018
 
-##### **Times Internet Limited**
+#### For any breach of copyright, we request you to please provide the following information in your complaint:-
 
-391, Udyog Vihar, Phase - III,  
-Gurgaon, Haryana 122002, India  
-Ph: 0124-4518550
-
-Please ensure that you do not share any feedback communication with an unauthorized member of the Company; the Company will not be responsible for the resolution of your query, in such case. If you choose to write to Us, you must address such communication to "Grievance Officer" and provide the following information:
-
-NaN. Your identification details - Name, Times Identification ID, if applicable;
-NaN. Details of your specific concern(s);
-NaN. Clear statement as to whether the information is personal information or sensitive personal information;
-NaN. Your address, telephone number or e-mail address;
-NaN. A statement that you have a good-faith belief that the information has been processed incorrectly or disclosed without authorization, as the case may be;
-NaN. A statement, under penalty of perjury, that the information in the notice is accurate, and that the information being complained about belongs to you;
-
-_The Company may reach out to you to confirm or discuss certain details about your complaint and issues raised._
+1. A physical or electronic signature of a person authorized to act on behalf of the copyright owner for the purposes of the complaint.
+2. Identification of the copyrighted work claimed to have been infringed.
+3. Identification of the material on our Website that is claimed to be infringing or to be the subject of infringing activity.
+4. The address, telephone number or email address of the complaining party.
+5. A statement that the complaining party has a good-faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent or the law.
+6. A statement, under penalty of perjury, that the information in the notice of copyright infringement is accurate, and that the complaining party is authorized to act on behalf of the owner of the right that is allegedly infringed.
 
 **Jobs:** [PHP Developer Jobs](https://www.techgig.com/jobs/designation/PHP-Developer) | [Java Developer Jobs](https://www.techgig.com/jobs/designation/Java-Developer) | [Oracle DBA Jobs](https://www.techgig.com/jobs/designation/Oracle-DBA) | [Network Engineer Jobs](https://www.techgig.com/jobs/designation/Network-Engineer) | [Linux Administrator Jobs](https://www.techgig.com/jobs/designation/Linux-Administrator) | [Web Designer Jobs](https://www.techgig.com/jobs/designation/Web-Designer) | [SQL Server DBA Jobs](https://www.techgig.com/jobs/designation/SQLServer-DBA) | [All Designation](https://www.techgig.com/jobs/designation) | [Jobs In Delhi](https://www.techgig.com/jobs/city/Delhi-Jobs) | [Jobs In Mumbai](https://www.techgig.com/jobs/city/Mumbai-Jobs) | [Jobs In Chennai](https://www.techgig.com/jobs/city/Chennai-Jobs) | [Jobs In Gurgaon](https://www.techgig.com/jobs/city/Gurgaon-Jobs) | [Jobs In Bangalore](https://www.techgig.com/jobs/city/Bangalore-Jobs) | [Jobs In Noida](https://www.techgig.com/jobs/city/Noida-Jobs) | [Jobs In Hyderabad](https://www.techgig.com/jobs/city/Hyderabad-Jobs) | [All Cities](https://www.techgig.com/jobs/city)
 
