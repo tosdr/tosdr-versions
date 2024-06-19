@@ -172,11 +172,11 @@ Free Tools
 
 Resources
 
-[Blog](https://www.privado.ai/blog)[Customer Case Studies](https://www.privado.ai/customers)[Webinars](https://www.privado.ai/webinars)[Glossary](https://www.privado.ai/glossary)[Data Privacy Stars](https://www.privado.ai/data-privacy-stars)[GDPR Anniversary](https://www.privado.ai/gdpr-anniversary)[Ebooks](https://www.privado.ai/ebooks)[Technical Privacy Masterclass](https://learn.privado.ai/?utm_source=privado-website&utm_medium=direct&utm_campaign=masterclass&utm_term=footer)[Privacy Engineering Community](https://www.privado.ai/privacy-engineering-community)
+[Blog](https://www.privado.ai/blog)[Customer Case Studies](https://www.privado.ai/customers)[Webinars](https://www.privado.ai/webinars)[Glossary](https://www.privado.ai/glossary)[Ebooks](https://www.privado.ai/ebooks)[Technical Privacy Masterclass](https://learn.privado.ai/?utm_source=privado-website&utm_medium=direct&utm_campaign=masterclass&utm_term=footer)[Privacy Engineering Community](https://www.privado.ai/privacy-engineering-community)
 
 COMPANY
 
-[About](https://www.privado.ai/about)[Careers](https://www.privado.ai/careers)[Contact Us](https://www.privado.ai/schedule-demo)[Press Kit](https://drive.google.com/drive/folders/1l4WZfzM0-livzo8Fdx-S0rgVLzOxyCOw?usp=share_link)
+[About](https://www.privado.ai/about)[Careers](https://www.privado.ai/careers)[Contact Us](https://www.privado.ai/schedule-demo)
 
 Support
 
