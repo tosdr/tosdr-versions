@@ -1,51 +1,40 @@
-   [Skip to Content](#main)
+[![Made in Alabama](https://www.madeinalabama.com/wp-content/uploads/2023/12/made-in-alabama-logo.png)](https://www.madeinalabama.com/)
 
-* [English](javascript: initLocalize(); Localize.setLanguage('en'))
-* [Español](javascript: initLocalize(); Localize.setLanguage('es'))
-* [Français](javascript: initLocalize(); Localize.setLanguage('fr'))
-* [Deutsch](javascript: initLocalize(); Localize.setLanguage('de'))
-* [日本語](javascript: initLocalize(); Localize.setLanguage('ja'))
-* [한국어](javascript: initLocalize(); Localize.setLanguage('ko'))
-
-[](https://www.madeinalabama.com/)
-==================================
-
-Menu
-
-* [Home](https://www.madeinalabama.com/)
 * [News](https://www.madeinalabama.com/news/)
-* [Industries](https://www.madeinalabama.com/industries/)
 * [Why Alabama?](https://www.madeinalabama.com/why-alabama/)
-    * [Success Stories](https://www.madeinalabama.com/why-alabama/success-stories/)
     * [Workforce & Training](https://www.madeinalabama.com/why-alabama/workforce-training/)
     * [Taxes & Incentives](https://www.madeinalabama.com/why-alabama/taxes-incentives/)
     * [Logistics & Infrastructure](https://www.madeinalabama.com/why-alabama/logistics-infrastructure/)
-    * [Awards & Recognition](https://www.madeinalabama.com/why-alabama/awards/)
-* [Incentives](https://www.madeinalabama.com/business-development/recruitment-and-retention/taxes-and-incentives/)
-* [Business Development Division](https://www.madeinalabama.com/business-development/)
-    * [Recruitment & Retention](https://www.madeinalabama.com/business-development/recruitment-and-retention/)
-    * [Export & Trade](https://www.madeinalabama.com/business-development/export-and-trade/)
-    * [Small Business](https://www.madeinalabama.com/business-development/small-business/)
-    * [Film Production](https://www.madeinalabama.com/business-development/film-production/)
-    * [Tools & Resources](https://www.madeinalabama.com/workforce-acts/)
-* [Contact Us](https://www.madeinalabama.com/contact-us/)
+    * [Project Assistance](https://www.madeinalabama.com/why-alabama/project-assistance/)
+* [Sectors](https://www.madeinalabama.com/sectors/)
+    * [Aerospace & Aviation](https://www.madeinalabama.com/sectors/aerospace-aviation/)
+    * [Ag Tech & Food Products](https://www.madeinalabama.com/sectors/ag-tech-food-products/)
+    * [Automotive](https://www.madeinalabama.com/sectors/automotive/)
+    * [Bioscience](https://www.madeinalabama.com/sectors/bioscience/)
+    * [Chemicals](https://www.madeinalabama.com/sectors/chemicals/)
+    * [Forestry Products](https://www.madeinalabama.com/sectors/forestry-products/)
+    * [Information Technology](https://www.madeinalabama.com/sectors/information-technology/)
+    * [Innovation](https://www.madeinalabama.com/sectors/innovation/)
+    * [Metal & Advanced Materials](https://www.madeinalabama.com/sectors/metal-advanced-materials/)
+    * [Operations & Logistics](https://www.madeinalabama.com/sectors/operations-logistics/)
+* [Resources](https://www.madeinalabama.com/resources/)
+    * [Staff Directory](https://www.madeinalabama.com/resources/staff-directory/)
+    * [Documents & Publications](https://www.madeinalabama.com/resources/documents/)
+    * [Project Assistance](https://www.madeinalabama.com/why-alabama/project-assistance/)
+    * [Small Business Advocacy](https://www.madeinalabama.com/resources/small-business-advocacy/)
+    * [Workforce Development](https://www.madeinalabama.com/resources/workforce-development/)
+    * [Incubator Programs](https://www.madeinalabama.com/resources/incubator-programs/)
+    * [International Trade](https://www.madeinalabama.com/resources/international-trade/)
+    * [Rural Development](https://madeinruralalabama.com/)
+    * [Alabama Film Office](http://www.alabamafilm.org/)
+    * [Export Alabama](https://exportalabama.com/)
+    * [Awards & Recognition](https://www.madeinalabama.com/resources/awards/)
+    * [Public Records](https://www.madeinalabama.com/resources/public-records/)
+* [Contact](https://www.madeinalabama.com/contact/)
 
-Close
+![Set Language](https://www.madeinalabama.com/wp-content/uploads/2024/05/image.png)
 
-* **Quick Links:**
-* [Home](https://www.madeinalabama.com/)
-* [News](https://www.madeinalabama.com/news/)
-* [Industries](https://www.madeinalabama.com/industries/)
-* [Why Alabama?](https://www.madeinalabama.com/why-alabama/)
-* [Incentives](https://www.madeinalabama.com/business-development/recruitment-and-retention/taxes-and-incentives/)
-* [Business Development Division](https://www.madeinalabama.com/business-development/)
-* [Contact Us](https://www.madeinalabama.com/contact-us/)
-
-##### Search Made in Alabama
-
- 
-
- Include News
+[![Search](https://www.madeinalabama.com/wp-content/uploads/2023/12/image-1.png)](https://www.madeinalabama.com/search/)
 
 Privacy Policy
 ==============
@@ -66,9 +55,12 @@ We use the information we collect to measure the number of visitors to the diffe
 
 Please refer to individual Alabama State Agency Web Sites for their Privacy Policies, which may differ from the one displayed here.
 
-* [Standard 530S1: Privacy Statement](https://www.madeinalabama.com/download/assets/2016/12/Standard_530S1_Online_Privacy_Data_Collection.pdf)
+[Standard 530s1: Privacy Statement](https://www.madeinalabama.com/resources/documents/standard-530s1-privacy-statement/)
 
-### Internet Security Statement
+* * *
+
+Internet Security Statement
+---------------------------
 
 Security is the most critical segment of the State of Alabama network. The State of Alabama considers the security of our partners’ and citizens’ information critical. We handle online information with commitment to ensure a secure environment that can be trusted to fulfill all confidentiality requirements. Documented steps are taken to safeguard information according to established security standards and procedures and we continually assess the newest technology for protecting information.
 
@@ -78,67 +70,64 @@ Sensitive information used in financial transactions, such as social security nu
 
 Please refer to individual Alabama State Agency Web Sites for their Security Policies, which may differ from the one displayed here.
 
-* [Standard 530S3: Online Security Statement](https://www.madeinalabama.com/download/assets/2016/12/Standard_530S3_Online_Security_Statement.pdf)
+[Standard 530S3: Online Security Statement](https://www.madeinalabama.com/resources/documents/standard-530s3-online-security-statement/)
 
-#### Stay connected to what's happening in Alabama now.
+STAY CONNECTED
+--------------
 
-* Email\*
-    
-    Enter your **email address** to receive periodic updates on the evolution of business in Alabama.
-    
+**Never miss an update.** Follow Alabama’s rapid economic evolution—right from your inbox.
 
-       
+![](https://www.madeinalabama.com/wp-content/uploads/2023/12/made-in-alabama-logo.png)
 
-       ![](/images/rocket-1.png) ![](/images/rocket-2.png) ![](/images/rocket-3.png) ![](/images/rocket-4.png) ![](/images/rocket-5.png) ![](/images/rocket-6.png) ![](/images/rocket-7.png) ![](/images/rocket-8.png)
+ALABAMA DEPARTMENT OF COMMERCE
 
-Ready to start your company's next chapter in Alabama?
-------------------------------------------------------
+401 Adams Avenue  
+P.O. Box 304106  
+Montgomery, AL 36130-4106
 
-Alabama may be small in size, but its ability to accommodate businesses seeking success is vast. See why companies like Mercedes, Airbus, Hyundai, and Honda have decided to call Alabama home.
+Toll Free
 
-[Find A Site](https://www.madeinalabama.com/business-development/recruitment-and-retention/) [Learn More About Alabama](https://www.madeinalabama.com/why-alabama/)
+[800.248.0033](tel:800.248.0033)
 
-**Alabama Department Of Commerce**
+Media Inquiries
 
-401 Adams Avenue P.O. Box 304106 Montgomery, AL 36130-4106
+[334.242.0400](tel:334.242.0400)
 
-**Toll Free** [800.248.0033](tel:800.248.0033)
+Email
 
-**Media Inquiries** [334.242.0400](tel:334.242.0400)
+[contact@madeinalabama.com](mailto:contact@madeinalabama.com)
 
-**Email** [contact@madeinalabama.com](mailto:contact@madeinalabama.com)
+[News](https://www.madeinalabama.com/news/)
 
-* [Contact Us](https://www.madeinalabama.com/contact-us/)
-* [Staff Directory](https://www.madeinalabama.com/contact-us/staff-directory/)
-* [Local Project Notification](http://notification.madeinalabama.com/)
+[Why Alabama?](https://www.madeinalabama.com/why-alabama/)
 
-* [News](https://www.madeinalabama.com/)
-* [Why AL?](https://www.madeinalabama.com/why-alabama/)
-* [Industries](https://www.madeinalabama.com/industries/)
-* [Business Development Division](https://www.madeinalabama.com/business-development/)
-* [Workforce and Training](https://www.madeinalabama.com/workforce-and-training/)
-* [Find Sites](https://www.madeinalabama.com/business-development/recruitment-and-retention/)
-* [Accelerate Alabama 2.0](https://www.madeinalabama.com/assets/2017/01/Accelerate-Alabama-2.0.pdf)
-* [Public Records](https://www.madeinalabama.com/public-records/)
+[Sectors](https://www.madeinalabama.com/sectors/)
 
-* [](https://twitter.com/MadeInAL)
-* [](https://www.facebook.com/AlabamaDepartmentofCommerce)
-* [](https://www.youtube.com/user/madeinalabamaDOC)
+[Resources](https://www.madeinalabama.com/resources/)
+
+[Contact](https://www.madeinalabama.com/contact/)
+
+[Public Records](https://www.madeinalabama.com/resources/public-records/)
+
+[Local Project Notification](http://notification.madeinalabama.com/)
+
+* [LinkedIn](https://www.linkedin.com/company/made-in-alabama-alabama-department-of-commerce/)
+* [X](https://twitter.com/MadeInAL)
+* [Facebook](https://www.facebook.com/AlabamaDepartmentofCommerce)
+* [YouTube](https://www.youtube.com/user/madeinalabamaDOC)
 
 Languages:
 
-[English](javascript:Localize.setLanguage('en'))
+English
 
-[Español](javascript:Localize.setLanguage('es'))
+Español
 
-[Français](javascript:Localize.setLanguage('fr'))
+Français
 
-[Deutsch](javascript:Localize.setLanguage('de'))
+Deutsch
 
-[日本語](javascript:Localize.setLanguage('ja'))
+日本語
 
-[한국어](javascript:Localize.setLanguage('ko'))
+한국어
 
-© 2024 Alabama Department of Commerce. All Rights reserved. See our [**Privacy Policy**](https://www.madeinalabama.com/privacy-policy/).
-
-![](https://www.facebook.com/tr?id=1363743346974663&ev=PageView&noscript=1)
+© Copyright 2024 All Rights reserved. See our [Privacy Policy](https://www.madeinalabama.com/privacy-policy/).
