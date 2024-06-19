@@ -56,7 +56,7 @@ Search
 
 [![Home](images/logos/21/logo_white.jpg?v=1696508508227 "Home")](https://www.derrynow.com/)
 
-09 Jun 2024
+19 Jun 2024
 
 * [Home
     
@@ -259,85 +259,83 @@ Advertise with Us
 
 Most Popular
 
-[![Woman in her 20s in critical condition after collision in County Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Woman in her 20s in critical condition after collision in County Derry")](https://www.derrynow.com/news/local-news/1523428/woman-in-her-20s-in-critical-condition-after-collision-in-county-derry.html)
+[![Police attend the scene of sudden death of man in his 30s in Claudy area](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police attend the scene of sudden death of man in his 30s in Claudy area")](https://www.derrynow.com/news/home/1532795/police-attend-the-scene-of-sudden-death-of-man-in-his-30s-in-claudy-area.html)
 
-[Local News](https://www.derrynow.com/section/975/news)
+Police attended the scene of a sudden death in the Claudy area this morning.
 
-[Woman in her 20s in critical condition after collision in County Derry](https://www.derrynow.com/news/local-news/1523428/woman-in-her-20s-in-critical-condition-after-collision-in-county-derry.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Home](https://www.derrynow.com/)
 
-[![Nicola Coughlan spots her Mammy and gives her a cuddle at Galway Bridgerton premiere](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Nicola Coughlan spots her Mammy and gives her a cuddle at Galway Bridgerton premiere")](https://www.derrynow.com/news/arts---entertainment/1523356/nicola-coughlan-spots-her-mammy-and-gives-her-a-cuddle-at-galway-bridgerton-premiere.html)
+[Police attend the scene of sudden death of man in his 30s in Claudy area](https://www.derrynow.com/news/home/1532795/police-attend-the-scene-of-sudden-death-of-man-in-his-30s-in-claudy-area.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-| PICTURE: Instagram/@nicolacoughlan
+[![Throwback Tuesday: The Elk welcomes Danny Mac to Air Night Club (2013)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Tuesday: The Elk welcomes Danny Mac to Air Night Club (2013)")](https://www.derrynow.com/story-telling/pictures---videos/1531732/throwback-tuesday-the-elk-welcomes-danny-mac-to-air-night-club-2013.html)
 
-[Arts & Entertainment](https://www.derrynow.com/section/997/cookie-policy)
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
 
-[Nicola Coughlan spots her Mammy and gives her a cuddle at Galway Bridgerton premiere](https://www.derrynow.com/news/arts---entertainment/1523356/nicola-coughlan-spots-her-mammy-and-gives-her-a-cuddle-at-galway-bridgerton-premiere.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Throwback Tuesday: The Elk welcomes Danny Mac to Air Night Club (2013)](https://www.derrynow.com/story-telling/pictures---videos/1531732/throwback-tuesday-the-elk-welcomes-danny-mac-to-air-night-club-2013.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Woman in her 20s in critical condition after collision in County Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Woman in her 20s in critical condition after collision in County Derry")](https://www.derrynow.com/news/northern-ireland/1523355/woman-in-her-20s-in-critical-condition-after-collision-in-co-londonderry.html)
-
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
-
-[Woman in her 20s in critical condition after collision in Co Londonderry](https://www.derrynow.com/news/northern-ireland/1523355/woman-in-her-20s-in-critical-condition-after-collision-in-co-londonderry.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry Death Notices - Sunday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Sunday")](https://www.derrynow.com/news/deaths/1523830/derry-death-notices-sunday-9th-june-2024.html)
+[![Derry Death Notices - Tuesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Tuesday")](https://www.derrynow.com/news/deaths/1531676/derry-death-notices-tuesday-18th-june-2024.html)
 
 [Deaths](https://www.derrynow.com/section/977/deaths)
 
-[Derry Death Notices - Sunday, 9th June 2024](https://www.derrynow.com/news/deaths/1523830/derry-death-notices-sunday-9th-june-2024.html)
------------------------------------------------------------------------------------------------------------------------------------------
+[Derry Death Notices - Tuesday, 18th June 2024](https://www.derrynow.com/news/deaths/1531676/derry-death-notices-tuesday-18th-june-2024.html)
+---------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry GAA](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry GAA")](https://www.derrynow.com/news/derry-sport/1523543/derry-u14s-snatch-victory-from-the-jaws-of-defeat-to-win-second-successive-all-ireland-gold-title.html)
+[![€500 fine for Derry driver clocked at 154km/h in Donegal](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "€500 fine for Derry driver clocked at 154km/h in Donegal")](https://www.derrynow.com/news/local-news/1532175/500-fine-for-derry-driver-clocked-at-154km-h-in-donegal.html)
 
-The Derry team celebrate with the trophy after the 2024 All-Ireland U14 Gold Final match between Armagh and Derry at BOX-IT Athletic Grounds in Armagh. Photo by Tyler Miller/Sportsfile
+[Local News](https://www.derrynow.com/section/975/news)
+
+[€500 fine for Derry driver clocked at 154km/h in Donegal](https://www.derrynow.com/news/local-news/1532175/500-fine-for-derry-driver-clocked-at-154km-h-in-donegal.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Tributes paid to paid popular Derry bar man](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Tributes paid to paid popular Derry bar man")](https://www.derrynow.com/news/local-news/1532997/tributes-paid-to-paid-popular-derry-bar-man.html)
+
+The late Eddie Cooley.
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Tributes paid to popular Derry bar man](https://www.derrynow.com/news/local-news/1532997/tributes-paid-to-paid-popular-derry-bar-man.html)
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Drug offences: Man released on bail on condition he does not enter Derry except for court](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Drug offences: Man released on bail on condition he does not enter Derry except for court")](https://www.derrynow.com/news/local-news/1532499/derry-court-told-man-shown-taxi-driver-a-gun-and-ammunition-and-a-crocodile-head.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry Court told man shown taxi driver a gun and ammunition and a crocodile head](https://www.derrynow.com/news/local-news/1532499/derry-court-told-man-shown-taxi-driver-a-gun-and-ammunition-and-a-crocodile-head.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Only one large event to take place at Derry's Ebrington Square this summer](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Only one large event to take place at Derry's Ebrington Square this summer")](https://www.derrynow.com/news/local-news/1532995/only-one-large-event-to-take-place-at-derry-s-ebrington-square-this-summer.html)
+
+Ebrington Square
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Only one large event to take place at Derry's Ebrington Square this summer](https://www.derrynow.com/news/local-news/1532995/only-one-large-event-to-take-place-at-derry-s-ebrington-square-this-summer.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Man remanded on three counts of criminal damage to three dogs and Derry arson attack](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man remanded on three counts of criminal damage to three dogs and Derry arson attack")](https://www.derrynow.com/news/local-news/1532430/man-remanded-on-three-counts-of-criminal-damage-to-three-dogs-and-derry-arson-attack.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Man remanded on three counts of criminal damage to three dogs and Derry arson attack](https://www.derrynow.com/news/local-news/1532430/man-remanded-on-three-counts-of-criminal-damage-to-three-dogs-and-derry-arson-attack.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Serious assault in County Derry area of Kilrea](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Serious assault in County Derry area of Kilrea")](https://www.derrynow.com/news/local-news/1532351/serious-assault-in-county-derry-area-of-kilrea.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Serious assault in County Derry area of Kilrea](https://www.derrynow.com/news/local-news/1532351/serious-assault-in-county-derry-area-of-kilrea.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1532651/europa-conference-league-derry-city-to-face-the-most-famous-pub-team-in-the-world.html)
+
+Patrick Hoban of Dundalk tussles with FC Bruno's Magpies players during last season's Europa Conference League Qualifier at Oriel Park. Photo by Ben McShane/Sportsfile
 
 [Derry Sport](https://www.derrynow.com/section/1064/local-sport)
 
-[Derry U14s snatch victory from the jaws of defeat to win second successive All-Ireland Gold title](https://www.derrynow.com/news/derry-sport/1523543/derry-u14s-snatch-victory-from-the-jaws-of-defeat-to-win-second-successive-all-ireland-gold-title.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry Minors](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Minors")](https://www.derrynow.com/news/derry-sport/1523548/reigning-champions-derry-advance-to-all-ireland-semis-with-victory-over-dublin.html)
-
-Derry Minors defeated Dublin at Kingspan Breffni Park today. Pic by Philip Fitzpatrick/ Sportsfile
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Reigning champions Derry advance to All-Ireland semis with victory over Dublin](https://www.derrynow.com/news/derry-sport/1523548/reigning-champions-derry-advance-to-all-ireland-semis-with-victory-over-dublin.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry Minors](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Minors")](https://www.derrynow.com/news/derry-sport/1523551/delighted-damian-mcerlain-praises-squad-depth-after-derry-s-all-ireland-quarterfinal-victory.html)
-
-Damian McErlain celebrated another Derry victory today. Pic by Philip Fitzpatrick/ Sportsfile
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Delighted Damian McErlain praises squad depth after Derry's All-Ireland quarterfinal victory](https://www.derrynow.com/news/derry-sport/1523551/delighted-damian-mcerlain-praises-squad-depth-after-derry-s-all-ireland-quarterfinal-victory.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![D&D](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "D&D")](https://www.derrynow.com/news/derry-sport/1523577/foyle-harps-defeat-rosemount-to-win-fourth-successive-mcalinden-cup.html)
-
-Foyle Harps players celebrate with the trophy. Pic by Tom Heaney, nwpresspics
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Foyle Harps defeat Rosemount to win fourth successive McAlinden Cup](https://www.derrynow.com/news/derry-sport/1523577/foyle-harps-defeat-rosemount-to-win-fourth-successive-mcalinden-cup.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Teenager in critical condition after crash in Co Fermanagh](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Teenager in critical condition after crash in Co Fermanagh")](https://www.derrynow.com/news/northern-ireland/1523190/teenager-in-critical-condition-after-crash-in-co-fermanagh.html)
-
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
-
-[Teenager in critical condition after crash in Co Fermanagh](https://www.derrynow.com/news/northern-ireland/1523190/teenager-in-critical-condition-after-crash-in-co-fermanagh.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Man arrested on suspicion of attempted murder in Bangor](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man arrested on suspicion of attempted murder in Bangor")](https://www.derrynow.com/news/northern-ireland/1523141/man-arrested-on-suspicion-of-attempted-murder-in-bangor.html)
-
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
-
-[Man arrested on suspicion of attempted murder in Bangor](https://www.derrynow.com/news/northern-ireland/1523141/man-arrested-on-suspicion-of-attempted-murder-in-bangor.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[EUROPA CONFERENCE LEAGUE: Derry City to face 'the most famous pub team in the world'](https://www.derrynow.com/news/derry-sport/1532651/europa-conference-league-derry-city-to-face-the-most-famous-pub-team-in-the-world.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -345,77 +343,75 @@ Advertise with Us
 
 Multimedia
 
-[![IN PICTURES: Caw Nelson Drive Action Group volunteers award night](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Caw Nelson Drive Action Group volunteers award night")](https://www.derrynow.com/story-telling/pictures---videos/1522730/in-pictures-caw-nelson-drive-action-group-volunteers-award-night.html)
+[![Throwback Tuesday: The Elk welcomes Danny Mac to Air Night Club (2013)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Tuesday: The Elk welcomes Danny Mac to Air Night Club (2013)")](https://www.derrynow.com/story-telling/pictures---videos/1531732/throwback-tuesday-the-elk-welcomes-danny-mac-to-air-night-club-2013.html)
 
 [Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
 
-[IN PICTURES: Caw Nelson Drive Action Group volunteers award night](https://www.derrynow.com/story-telling/pictures---videos/1522730/in-pictures-caw-nelson-drive-action-group-volunteers-award-night.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Throwback Tuesday: The Elk welcomes Danny Mac to Air Night Club (2013)](https://www.derrynow.com/story-telling/pictures---videos/1531732/throwback-tuesday-the-elk-welcomes-danny-mac-to-air-night-club-2013.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![IN PICTURES: Holy Child PS annual summer fair](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Holy Child PS annual summer fair")](https://www.derrynow.com/story-telling/pictures---videos/1522727/in-pictures-holy-child-ps-annual-summer-fair.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Holy Child PS annual summer fair](https://www.derrynow.com/story-telling/pictures---videos/1522727/in-pictures-holy-child-ps-annual-summer-fair.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Schools in Diocese of Derry celebrate annual Fan the Flame Mass](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Schools in Diocese of Derry celebrate annual Fan the Flame Mass")](https://www.derrynow.com/story-telling/pictures---videos/1521975/in-pictures-schools-in-diocese-of-derry-celebrate-annual-fan-the-flame-mass.html)
+[![IN PICTURES: Parish of the Three Patrons Primary 7 Leavers Mass](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Parish of the Three Patrons Primary 7 Leavers Mass")](https://www.derrynow.com/story-telling/pictures---videos/1531731/in-pictures-parish-of-the-three-patrons-primary-7-leavers-mass.html)
 
 [Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
 
-[IN PICTURES: Schools in Diocese of Derry celebrate annual Fan the Flame Mass](https://www.derrynow.com/story-telling/pictures---videos/1521975/in-pictures-schools-in-diocese-of-derry-celebrate-annual-fan-the-flame-mass.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Oakgrove IPSN becomes ‘School of Sanctuary’](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Oakgrove IPSN becomes ‘School of Sanctuary’")](https://www.derrynow.com/story-telling/pictures---videos/1521367/in-pictures-oakgrove-ipsn-becomes-school-of-sanctuary.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Oakgrove IPSN becomes ‘School of Sanctuary’](https://www.derrynow.com/story-telling/pictures---videos/1521367/in-pictures-oakgrove-ipsn-becomes-school-of-sanctuary.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Derry volunteers celebrated at North West Volunteer Awards event](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry volunteers celebrated at North West Volunteer Awards event")](https://www.derrynow.com/story-telling/pictures---videos/1521329/in-pictures-derry-volunteers-celebrated-at-north-west-volunteer-awards-event.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Derry volunteers celebrated at North West Volunteer Awards event](https://www.derrynow.com/story-telling/pictures---videos/1521329/in-pictures-derry-volunteers-celebrated-at-north-west-volunteer-awards-event.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Derry schools participate in Na Magha Cup](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry schools participate in Na Magha Cup")](https://www.derrynow.com/story-telling/pictures---videos/1520950/in-pictures-derry-schools-participate-in-na-magha-cup.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Derry schools participate in Na Magha Cup](https://www.derrynow.com/story-telling/pictures---videos/1520950/in-pictures-derry-schools-participate-in-na-magha-cup.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Throwback Thursday: Partytime out and about pubs in Derry (2009)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Thursday: Partytime out and about pubs in Derry (2009)")](https://www.derrynow.com/story-telling/pictures---videos/1520191/throwback-thursday-partytime-out-and-about-pubs-in-derry-2009.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[Throwback Thursday: Partytime out and about pubs in Derry (2009)](https://www.derrynow.com/story-telling/pictures---videos/1520191/throwback-thursday-partytime-out-and-about-pubs-in-derry-2009.html)
+[IN PICTURES: Parish of the Three Patrons Primary 7 Leavers Mass](https://www.derrynow.com/story-telling/pictures---videos/1531731/in-pictures-parish-of-the-three-patrons-primary-7-leavers-mass.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![IN PICTURES: Derry City fans watch their team dominate Waterford on Bank Holiday Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry City fans watch their team dominate Waterford on Bank Holiday Monday")](https://www.derrynow.com/news/derry-sport/1518940/in-pictures-derry-city-fans-watch-their-team-dominate-waterford-on-bank-holiday-monday.html)
-
-Derry City fans at the Brandywell. Pics by Tom Heaney, nwpresspics
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[IN PICTURES: Derry City fans watch their team dominate Waterford on Bank Holiday Monday](https://www.derrynow.com/news/derry-sport/1518940/in-pictures-derry-city-fans-watch-their-team-dominate-waterford-on-bank-holiday-monday.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Throwback Tuesday: Out and About @ Magherafelt & Cookstown Volunteer Centre’s BBQ (2014)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Tuesday: Out and About @ Magherafelt & Cookstown Volunteer Centre’s BBQ (2014)")](https://www.derrynow.com/story-telling/pictures---videos/1517966/throwback-tuesday-out-and-about-magherafelt-cookstown-volunteer-centres-bbq-2014.html)
+[![IN PICTURES: St. Brigid's PS Carnhill celebrates 50th anniversary: Where are they now?](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: St. Brigid's PS Carnhill celebrates 50th anniversary: Where are they now?")](https://www.derrynow.com/story-telling/pictures---videos/1529919/in-pictures-st-brigid-s-ps-carnhill-celebrates-50th-anniversary-where-are-they-now.html)
 
 [Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
 
-[Throwback Tuesday: Out and About @ Magherafelt & Cookstown Volunteer Centre’s BBQ (2014)](https://www.derrynow.com/story-telling/pictures---videos/1517966/throwback-tuesday-out-and-about-magherafelt-cookstown-volunteer-centres-bbq-2014.html)
+[IN PICTURES: St. Brigid's PS Carnhill celebrates 50th anniversary: Where are they now?](https://www.derrynow.com/story-telling/pictures---videos/1529919/in-pictures-st-brigid-s-ps-carnhill-celebrates-50th-anniversary-where-are-they-now.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![IN PICTURES: Derry schools receive sacrament of First Holy Communion](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry schools receive sacrament of First Holy Communion")](https://www.derrynow.com/story-telling/pictures---videos/1518180/in-pictures-derry-schools-receive-sacrament-of-first-holy-communion.html)
+[![IN PICTURES: Annual Sean O’Kane Primary Schools Perpetual Cup tournament](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Annual Sean O’Kane Primary Schools Perpetual Cup tournament")](https://www.derrynow.com/story-telling/pictures---videos/1531449/in-pictures-annual-sean-okane-primary-schools-perpetual-cup-tournament.html)
 
 [Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
 
-[IN PICTURES: Derry schools receive sacrament of First Holy Communion](https://www.derrynow.com/story-telling/pictures---videos/1518180/in-pictures-derry-schools-receive-sacrament-of-first-holy-communion.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[IN PICTURES: Annual Sean O’Kane Primary Schools Perpetual Cup tournament](https://www.derrynow.com/story-telling/pictures---videos/1531449/in-pictures-annual-sean-okane-primary-schools-perpetual-cup-tournament.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Men's Health Fayre at Derry's Foyle Arena](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Men's Health Fayre at Derry's Foyle Arena")](https://www.derrynow.com/story-telling/pictures---videos/1531435/in-pictures-men-s-health-fayre-at-derry-s-foyle-arena.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Men's Health Fayre at Derry's Foyle Arena](https://www.derrynow.com/story-telling/pictures---videos/1531435/in-pictures-men-s-health-fayre-at-derry-s-foyle-arena.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Female creativity celebrated at Derry YES Festival](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Female creativity celebrated at Derry YES Festival")](https://www.derrynow.com/story-telling/pictures---videos/1531344/in-pictures-female-creativity-celebrated-at-derry-yes-festival.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Female creativity celebrated at Derry YES Festival](https://www.derrynow.com/story-telling/pictures---videos/1531344/in-pictures-female-creativity-celebrated-at-derry-yes-festival.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Caina Healey Children's Try-A-Tri in memory of Derry teacher](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Caina Healey Children's Try-A-Tri in memory of Derry teacher")](https://www.derrynow.com/story-telling/pictures---videos/1531262/in-pictures-caina-healey-children-s-try-a-tri-in-memory-of-derry-teacher.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Caina Healey Children's Try-A-Tri in memory of Derry teacher](https://www.derrynow.com/story-telling/pictures---videos/1531262/in-pictures-caina-healey-children-s-try-a-tri-in-memory-of-derry-teacher.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Inaugural YES Festival gets underway in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Inaugural YES Festival gets underway in Derry")](https://www.derrynow.com/story-telling/pictures---videos/1529714/in-pictures-inaugural-yes-festival-gets-underway-in-derry.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Inaugural YES Festival gets underway in Derry](https://www.derrynow.com/story-telling/pictures---videos/1529714/in-pictures-inaugural-yes-festival-gets-underway-in-derry.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Standing ovations for St. Eugene's PS 'Peter Pan' production](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Standing ovations for St. Eugene's PS 'Peter Pan' production")](https://www.derrynow.com/story-telling/pictures---videos/1529477/in-pictures-standing-ovations-for-st-eugene-s-ps-peter-pan-production.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Standing ovations for St. Eugene's PS 'Peter Pan' production](https://www.derrynow.com/story-telling/pictures---videos/1529477/in-pictures-standing-ovations-for-st-eugene-s-ps-peter-pan-production.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Mayor officially opens St. Mary's College Wellbeing Hub](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Mayor officially opens St. Mary's College Wellbeing Hub")](https://www.derrynow.com/story-telling/pictures---videos/1529447/in-pictures-mayor-officially-opens-st-mary-s-college-wellbeing-hub.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Mayor officially opens St. Mary's College Wellbeing Hub](https://www.derrynow.com/story-telling/pictures---videos/1529447/in-pictures-mayor-officially-opens-st-mary-s-college-wellbeing-hub.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -519,57 +515,59 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Derry Death Notices - Sunday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Sunday")](https://www.derrynow.com/news/deaths/1523830/derry-death-notices-sunday-9th-june-2024.html)
+[![Tributes paid to paid popular Derry bar man](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Tributes paid to paid popular Derry bar man")](https://www.derrynow.com/news/local-news/1532997/tributes-paid-to-paid-popular-derry-bar-man.html)
 
-[Deaths](https://www.derrynow.com/section/977/deaths)
+The late Eddie Cooley.
 
-[Derry Death Notices - Sunday, 9th June 2024](https://www.derrynow.com/news/deaths/1523830/derry-death-notices-sunday-9th-june-2024.html)
------------------------------------------------------------------------------------------------------------------------------------------
+[Local News](https://www.derrynow.com/section/975/news)
 
-[![D&D](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "D&D")](https://www.derrynow.com/news/derry-sport/1523577/foyle-harps-defeat-rosemount-to-win-fourth-successive-mcalinden-cup.html)
+[Tributes paid to popular Derry bar man](https://www.derrynow.com/news/local-news/1532997/tributes-paid-to-paid-popular-derry-bar-man.html)
+-------------------------------------------------------------------------------------------------------------------------------------------
 
-Foyle Harps players celebrate with the trophy. Pic by Tom Heaney, nwpresspics
+[![Only one large event to take place at Derry's Ebrington Square this summer](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Only one large event to take place at Derry's Ebrington Square this summer")](https://www.derrynow.com/news/local-news/1532995/only-one-large-event-to-take-place-at-derry-s-ebrington-square-this-summer.html)
 
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+Ebrington Square
 
-[Foyle Harps defeat Rosemount to win fourth successive McAlinden Cup](https://www.derrynow.com/news/derry-sport/1523577/foyle-harps-defeat-rosemount-to-win-fourth-successive-mcalinden-cup.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Local News](https://www.derrynow.com/section/975/news)
 
-[![Derry Minors](https://www.derrynow.com/resizer/165/93/true/2024_06_08/2827705-1717876754402.jpg--.jpg?1717876756323 "Derry Minors")](https://www.derrynow.com/news/derry-sport/1523551/delighted-damian-mcerlain-praises-squad-depth-after-derry-s-all-ireland-quarterfinal-victory.html)
+[Only one large event to take place at Derry's Ebrington Square this summer](https://www.derrynow.com/news/local-news/1532995/only-one-large-event-to-take-place-at-derry-s-ebrington-square-this-summer.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Damian McErlain celebrated another Derry victory today. Pic by Philip Fitzpatrick/ Sportsfile
+[![Queen’s alumni David Oliver shares his memories and letters with the newly opened Seamus Heaney Centre](https://www.derrynow.com/resizer/165/93/true/2024_06_18/30d857c9-4168-43f8-8918-81d10f96e4a4-1718729754012.jpg--.jpg?1718729755361 "Queen’s alumni David Oliver shares his memories and letters with the newly opened Seamus Heaney Centre")](https://www.derrynow.com/news/home/1532875/queens-alumni-david-oliver-shares-his-memories-and-letters-with-the-newly-opened-seamus-heaney-centre.html)
 
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+David Oliver at the newly opened Seamus Heaney Centre at Queen's University Belfast.
 
-[Delighted Damian McErlain praises squad depth after Derry's All-Ireland quarterfinal victory](https://www.derrynow.com/news/derry-sport/1523551/delighted-damian-mcerlain-praises-squad-depth-after-derry-s-all-ireland-quarterfinal-victory.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Home](https://www.derrynow.com/)
 
-[![Derry Minors](https://www.derrynow.com/resizer/165/93/true/2024_06_08/2828148-1717876244087.jpg--.jpg?1717876246087 "Derry Minors")](https://www.derrynow.com/news/derry-sport/1523548/reigning-champions-derry-advance-to-all-ireland-semis-with-victory-over-dublin.html)
+[Queen’s alumni David Oliver shares his memories and letters with the newly opened Seamus Heaney Centre](https://www.derrynow.com/news/home/1532875/queens-alumni-david-oliver-shares-his-memories-and-letters-with-the-newly-opened-seamus-heaney-centre.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Derry Minors defeated Dublin at Kingspan Breffni Park today. Pic by Philip Fitzpatrick/ Sportsfile
+[![Man alleged have headbutted garda, spat blood in his face at Buncrana hotel](https://www.derrynow.com/resizer/165/93/true/2024_03_25/Courts_Letterkenny_External_3-_1_1-1711380686124.jpg--.jpg?1711380686384 "Man alleged have headbutted garda, spat blood in his face at Buncrana hotel")](https://www.derrynow.com/news/local-news/1532431/derry-man-alleged-have-headbutted-garda-spat-blood-in-his-face-at-buncrana-hotel.html)
 
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+Letterkenny courthouse
 
-[Reigning champions Derry advance to All-Ireland semis with victory over Dublin](https://www.derrynow.com/news/derry-sport/1523548/reigning-champions-derry-advance-to-all-ireland-semis-with-victory-over-dublin.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Local News](https://www.derrynow.com/section/975/news)
 
-[![Derry GAA](https://www.derrynow.com/resizer/165/93/true/2024_06_08/2844845-1717875715406.jpg--.jpg?1717875717687 "Derry GAA")](https://www.derrynow.com/news/derry-sport/1523543/derry-u14s-snatch-victory-from-the-jaws-of-defeat-to-win-second-successive-all-ireland-gold-title.html)
+[Derry man alleged have headbutted garda, spat blood in his face at Buncrana hotel](https://www.derrynow.com/news/local-news/1532431/derry-man-alleged-have-headbutted-garda-spat-blood-in-his-face-at-buncrana-hotel.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-The Derry team celebrate with the trophy after the 2024 All-Ireland U14 Gold Final match between Armagh and Derry at BOX-IT Athletic Grounds in Armagh. Photo by Tyler Miller/Sportsfile
+[![Sinn Fein councillor wants Designated Sleeping Accommodation premises to be compliant with Fire Safety Legislation](https://www.derrynow.com/resizer/165/93/true/2018/10/16115239/Guildhall.jpg--.jpg "Sinn Fein councillor wants Designated Sleeping Accommodation premises to be compliant with Fire Safety Legislation")](https://www.derrynow.com/news/derry-city-and-strabane-district-council/1532861/sinn-fein-councillor-wants-designated-sleeping-accommodation-premises-to-be-compliant-with-fire-safety-legislation.html)
 
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+Derry Guildhall
 
-[Derry U14s snatch victory from the jaws of defeat to win second successive All-Ireland Gold title](https://www.derrynow.com/news/derry-sport/1523543/derry-u14s-snatch-victory-from-the-jaws-of-defeat-to-win-second-successive-all-ireland-gold-title.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry City and Strabane District Council](https://www.derrynow.com/section/2722/derry-city-and-strabane-district-council)
 
-[![Nicola Coughlan spots her Mammy and gives her a cuddle at Galway Bridgerton premiere](https://www.derrynow.com/resizer/165/93/true/2024_06_06/Untitled_design_%281%29-1717670499909.png--.png?1717670500312 "Nicola Coughlan spots her Mammy and gives her a cuddle at Galway Bridgerton premiere")](https://www.derrynow.com/news/arts---entertainment/1523356/nicola-coughlan-spots-her-mammy-and-gives-her-a-cuddle-at-galway-bridgerton-premiere.html)
+[Sinn Fein councillor wants Designated Sleeping Accommodation premises to be compliant with Fire Safety Legislation](https://www.derrynow.com/news/derry-city-and-strabane-district-council/1532861/sinn-fein-councillor-wants-designated-sleeping-accommodation-premises-to-be-compliant-with-fire-safety-legislation.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-| PICTURE: Instagram/@nicolacoughlan
+[![Police attend the scene of sudden death of man in his 30s in Claudy area](https://www.derrynow.com/resizer/165/93/true/2023_05_29/75d09668-969e-11ed-a6c5-0210609a3fe2-1685351040715.jpg--.jpg?1685351040804 "Police attend the scene of sudden death of man in his 30s in Claudy area")](https://www.derrynow.com/news/home/1532795/police-attend-the-scene-of-sudden-death-of-man-in-his-30s-in-claudy-area.html)
 
-[Arts & Entertainment](https://www.limerickleader.ie/section/2188/arts-entertainment)
+Police attended the scene of a sudden death in the Claudy area this morning.
 
-[Nicola Coughlan spots her Mammy and gives her a cuddle at Galway Bridgerton premiere](https://www.derrynow.com/news/arts---entertainment/1523356/nicola-coughlan-spots-her-mammy-and-gives-her-a-cuddle-at-galway-bridgerton-premiere.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Home](https://www.derrynow.com/)
+
+[Police attend the scene of sudden death of man in his 30s in Claudy area](https://www.derrynow.com/news/home/1532795/police-attend-the-scene-of-sudden-death-of-man-in-his-30s-in-claudy-area.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
