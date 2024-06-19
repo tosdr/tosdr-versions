@@ -1,10 +1,10 @@
 ### Please [enable JavaScript](https://enable-javascript.com/) to use CodeHS
 
-                                       
+                                         
 
 Toggle navigation [![](https://static1.codehs.com/img/brand_logo.png)](https://codehs.com/)
 
-![CodeHS Logo](https://staticflare.codehs.com/img/logos/codehs_logo_white_text.png)
+![CodeHS Logo](https://static1.codehs.com/img/logos/codehs_logo_white_text.png)
 
 * [Products](#)
     
@@ -204,15 +204,15 @@ New Sandbox Program
 
 Click on one of our programs below to get started coding in the sandbox!
 
-[![](https://staticflare.codehs.com/img/program_icons/java-console.png)
+[![](https://static1.codehs.com/img/program_icons/java-console.png)
 
-### Java](https://codehs.com/editor/explore_demo_in_sandbox/2669151)[![](https://staticflare.codehs.com/img/program_icons/graphics.png)
+### Java](https://codehs.com/editor/explore_demo_in_sandbox/2669151)[![](https://static1.codehs.com/img/program_icons/graphics.png)
 
-### JavaScript](https://codehs.com/editor/explore_demo_in_sandbox/2669136)[![](https://staticflare.codehs.com/img/program_icons/python.png)
+### JavaScript](https://codehs.com/editor/explore_demo_in_sandbox/2669136)[![](https://static1.codehs.com/img/program_icons/python.png)
 
-### Python 3](https://codehs.com/editor/explore_demo_in_sandbox/2669173)[![](https://staticflare.codehs.com/img/program_icons/html.png)
+### Python 3](https://codehs.com/editor/explore_demo_in_sandbox/2669173)[![](https://static1.codehs.com/img/program_icons/html.png)
 
-### HTML](https://codehs.com/editor/explore_demo_in_sandbox/2669143)[![](https://staticflare.codehs.com/img/program_icons/karel.png)
+### HTML](https://codehs.com/editor/explore_demo_in_sandbox/2669143)[![](https://static1.codehs.com/img/program_icons/karel.png)
 
 ### Karel](https://codehs.com/editor/explore_demo_in_sandbox/2675909)[![](https://uploads.codehs.com/b46469b780f8bb458a1728fc1c2e1497)
 
@@ -492,9 +492,9 @@ Questions?
 
 To ask questions or comment on these Terms of Use, the Privacy Policy or our privacy practices, contact us at hello@codehs.com.
 
-![CodeHS Logo](https://staticflare.codehs.com/img/logos/codehs_logo_dark_text.png)
+![CodeHS Logo](https://static1.codehs.com/img/logos/codehs_logo_dark_text.png)
 
-[](https://www.facebook.com/codehs)[](https://www.instagram.com/codehs/)[](https://www.linkedin.com/company/codehs)[](https://codehs.com/youtube) [![CodeHS Twitter](https://staticflare.codehs.com/img/marketing/icons/x_logo.png)](https://twitter.com/codehs)[![CodeHS Threads](https://staticflare.codehs.com/img/marketing/icons/threads_logo.png)](https://www.threads.net/@codehs)
+[](https://www.facebook.com/codehs)[](https://www.instagram.com/codehs/)[](https://www.linkedin.com/company/codehs)[](https://codehs.com/youtube) [![CodeHS Twitter](https://static1.codehs.com/img/marketing/icons/x_logo.png)](https://twitter.com/codehs)[![CodeHS Threads](https://static1.codehs.com/img/marketing/icons/threads_logo.png)](https://www.threads.net/@codehs)
 
 #### Products
 
