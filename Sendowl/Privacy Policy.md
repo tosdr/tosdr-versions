@@ -9,7 +9,7 @@
 Privacy Policy
 ==============
 
-**Last updated: January 31, 2024**
+**Last updated: June 17, 2024**
 
 At SendOwl, we respect your privacy. This Privacy Policy explains how we collect, use, and share the personal information that we gather on the subdomains and websites on sendowl.com (the “Sites”) or through your use of our products and services. We encourage you to read this Privacy Policy before submitting any personal data to us through our Sites. By continuing to use our Sites, you agree to the terms of this Privacy Policy.
 
@@ -74,6 +74,8 @@ Do Not Track (“DNT”) is a privacy preference that users can set in certain w
 #### Cookies
 
 A cookie is a text file that websites send to a visitor’s computer to uniquely identify the visitor’s browser or to store information or settings in the browser. Cookies may use your IP address, timestamps, logins. Information collected from cookies is used by us to evaluate the effectiveness of our website, analyse trends, and administer our website. This allows us to determine such things as which parts of our website are most visited and difficulties our visitors may experience in accessing our website. To learn more, please see our [Cookie Policy](https://www.sendowl.com/cookies).
+
+When you visit or log in to our website, cookies and similar technologies may be used by our online data partners or vendors to associate these activities with other personal information they or others have about you, including by association with your email or home address. We (or service providers on our behalf) may then send communications and marketing to these email or home addresses. You may opt out of receiving this advertising by visiting [https://app.retention.com/optout](https://app.retention.com/optout).
 
 **Google Analytics.** We may use Google Analytics. We use the information we get from Google Analytics only to improve this site. We do not combine the information collected through the use of Google Analytics with personally identifiable information. Please refer to Google’s [Privacy Policy](https://policies.google.com/privacy) for more information. You may also choose to download the [Google Analytics opt-out browser add-on](https://support.google.com/analytics/answer/181881).
 
