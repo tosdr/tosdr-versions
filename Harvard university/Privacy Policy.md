@@ -212,9 +212,9 @@ Menu
         
         [Read more news](http://news.harvard.edu/)
         
-        1. [**Bringing back a long extinct bird** Scientists sequence complete genome of bush moa, offering insights into its natural history, possible clues to evolution of flightless birds](https://news.harvard.edu/gazette/story/2024/06/bringing-back-a-long-extinct-bird/)
-        2. [**Women who follow Mediterranean diet live longer** Large study shows benefits against cancer, cardiovascular mortality, also identifies likely biological drivers of better health](https://news.harvard.edu/gazette/story/2024/06/women-who-follow-mediterranean-diet-live-longer/)
-        3. [**Harvard-led study IDs statin that may block pathway to some cancers** Cholesterol-lowering drug suppresses chronic inflammation that creates dangerous cascade](https://news.harvard.edu/gazette/story/2024/05/study-ids-statin-that-may-block-pathway-to-some-cancers/)
+        1. [**More than a planetary fender-bender** New study finds Earth collided with dense interstellar cloud, possibly affecting life on planet](https://news.harvard.edu/gazette/story/2024/06/earth-exposed-to-interstellar-medium-millions-of-years-ago-says-study-heliosphere/)
+        2. [**Alzheimer’s disease indicators track with biological changes in brain, study finds** Researchers see self-reported memory loss may be early, preclinical warning](https://news.harvard.edu/gazette/story/2024/06/alzheimers-indicators-track-with-biological-changes-in-brain/)
+        3. [**Testing fitness of aging brain** Most voters back cognitive exams for older politicians. What do they measure?](https://news.harvard.edu/gazette/story/2024/06/most-voters-back-cognitive-tests-for-aging-politicians-what-do-they-measure/)
         
     2. [Sign up for the Daily Gazette](https://www.pages01.net/harvard/gazette?email=)
     
