@@ -68,6 +68,7 @@
 * [Press Center](https://www.newsweek.com/press-center-image-gallery)
 * [Fairness Meter](https://www.newsweek.com/fairness-meter)
 * [Fairness Meter (Israeli-Palestinian)](https://www.newsweek.com/fairness-meter-israeli-palestinian)
+* [Delete Account (Newsweek App)](https://www.newsweek.com/delete-account)
 
 Newsweek
 
@@ -254,8 +255,8 @@ Newsweek Pulse (2x3 Times a Month)
 
 You can unsubscribe at any time. By signing up you are agreeing to our [Terms of Service](https://www.newsweek.com/terms-service) and [Privacy Policy](https://www.newsweek.com/privacy-policy "terms and conditions")
 
- In The Magazine [![Newsweek magazine cover](https://d.newsweek.com/en/full/2404332/cover-june-14-2024.jpg?w=400&f=0ed311b62b38093ed487c82e0d7ca412)June 14  
-2024 Issue](https://www.newsweek.com/2024/06/14/issue.html "newsweek magazine")
+ In The Magazine [![Newsweek magazine cover](https://d.newsweek.com/en/full/2408458/cover-june-21-28-2024.jpg?w=400&f=f74818af5400e589cbd859098d0c3560)June 28  
+2024 Issue](https://www.newsweek.com/2024/06/28/issue.html "newsweek magazine")
 
 * * *
 
