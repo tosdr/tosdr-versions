@@ -193,6 +193,14 @@ Some of our posts may contain affiliate links to partner brands. We earn a small
 
 ### More articles
 
+![](https://inspgr.id/app/uploads/2024/06/adesign-early-call-24-feature.jpg)
+
+[Architecture](https://theinspirationgrid.com/category/architecture/)[Art](https://theinspirationgrid.com/category/art/)
+
+[](https://theinspirationgrid.com/editorial/showcase-your-talent-a-design-awards-early-entry-period-announced/)
+
+### Showcase Your Talent: A’ Design Awards Early Entry Period Announced
+
 ![](https://inspgr.id/app/uploads/2024/06/arthur-zhang-interview-cover.jpg)
 
 [Gaming](https://theinspirationgrid.com/category/gaming/)[Industrial Design](https://theinspirationgrid.com/category/industrial-design/)
@@ -216,14 +224,6 @@ Some of our posts may contain affiliate links to partner brands. We earn a small
 [](https://theinspirationgrid.com/editorial/20-best-tattoo-studio-wordpress-themes-for-talented-ink-artists/)
 
 ### 20 Best Tattoo Studio WordPress Themes for Talented Ink Artists
-
-![](https://inspgr.id/app/uploads/2024/05/editorial-greg-mike-cover.jpg)
-
-[Art](https://theinspirationgrid.com/category/art/)[Pop Culture](https://theinspirationgrid.com/category/pop-culture/)
-
-[](https://theinspirationgrid.com/editorial/live-louder-an-interview-with-greg-mike/)
-
-### Live Louder: An Interview with Greg Mike
 
 #want
 -----
@@ -291,53 +291,53 @@ Latest
 inspiration
 -----------
 
-![](https://inspgr.id/app/uploads/2024/06/illustration-jihun-lee-feature.jpg)
+![](https://inspgr.id/app/uploads/2024/06/3d-mo-oo-feature.jpg)
 
-[](https://theinspirationgrid.com/enigmatic-illustrations-by-jihun-lee/)
+[](https://theinspirationgrid.com/stunning-3d-art-by-mo-oo/)
 
-### Enigmatic Illustrations by JiHun Lee
+### Stunning 3D Art by Mo oo
 
-![](https://inspgr.id/app/uploads/2024/06/photography-ben-s-rehn-feature.jpg)
+![](https://inspgr.id/app/uploads/2024/06/illustration-van-orton-24-feature.jpg)
 
-[](https://theinspirationgrid.com/out-of-this-world-photos-by-ben-simon-rehn/)
+[](https://theinspirationgrid.com/amazing-pop-culture-creations-by-van-orton-design/)
 
-### Out of This World: Photos by Ben Simon Rehn
+### Amazing Pop Culture Creations by Van Orton Design
 
-![](https://inspgr.id/app/uploads/2024/06/art-thomas-turner-feature.jpg)
+![](https://inspgr.id/app/uploads/2024/06/photography-safe-from-harm-feature.jpg)
 
-[](https://theinspirationgrid.com/nature-inspired-murals-by-thomas-turner/)
+[](https://theinspirationgrid.com/safe-from-harm-photo-series-by-neal-grundy/)
 
-### Nature-Inspired Murals by Thomas Turner
+### Safe From Harm: Photo Series by Neal Grundy
 
-![](https://inspgr.id/app/uploads/2024/06/illustration-andreas-preis-24-feature.jpg)
+![](https://inspgr.id/app/uploads/2024/06/packaging-caotico-tequila-feature.jpg)
 
-[](https://theinspirationgrid.com/fragmented-creatures-illustrations-by-andreas-preis/)
+[](https://theinspirationgrid.com/caotico-tequila-packaging-design-by-hi-estudio/)
 
-### Fragmented Creatures: Illustrations by Andreas Preis
+### Caótico Tequila Packaging Design by HI! Estudio
 
-![](https://inspgr.id/app/uploads/2024/06/art-bilelis-transfiguration-feature.jpg)
+![](https://inspgr.id/app/uploads/2024/06/architecture-adam-spychala-feature.jpg)
 
-[](https://theinspirationgrid.com/transfiguration-striking-digital-illustrations-by-billelis/)
+[](https://theinspirationgrid.com/brutalist-living-architectural-concepts-by-adam-spychala/)
 
-### Transfiguration: Striking Digital Illustrations by Billelis
+### Brutalist Living: Architectural Concepts by Adam Spychała
 
-![](https://inspgr.id/app/uploads/2024/06/photography-schoenberg-24-feature.jpg)
+![](https://inspgr.id/app/uploads/2024/06/car-gac-era-feature.jpg)
 
-[](https://theinspirationgrid.com/on-hamburgs-sunny-side-photos-by-alexander-schoenberg/)
+[](https://theinspirationgrid.com/gac-era-concept-car-cgi-renders-by-gf-x/)
 
-### On Hamburg’s Sunny Side: Photos by Alexander Schoenberg
+### GAC ERA Concept Car: CGI Renders by GF X
 
-![](https://inspgr.id/app/uploads/2024/06/3d-danil-yad-feature.jpg)
+![](https://inspgr.id/app/uploads/2024/06/murals-emmy-star-brown-feature.jpg)
 
-[](https://theinspirationgrid.com/cute-horror-3d-illustrations-by-danil-yad/)
+[](https://theinspirationgrid.com/beautiful-lettering-murals-by-emmy-star-brown/)
 
-### Cute Horror: 3D Illustrations by Danil YAD
+### Beautiful Lettering Murals by Emmy Star Brown
 
-![](https://inspgr.id/app/uploads/2024/06/design-yujian-huang-feature.jpg)
+![](https://inspgr.id/app/uploads/2024/06/3d-michael-santin-feature.jpg)
 
-[](https://theinspirationgrid.com/the-sound-of-words-editorial-design-by-yujian-huang/)
+[](https://theinspirationgrid.com/fun-3d-illustrations-by-michael-santin/)
 
-### The Sound of Words: Editorial Design by YuJian Huang
+### Fun 3D Illustrations by Michael Santin
 
 Awesome products for creatives
 ------------------------------
