@@ -14,8 +14,9 @@
 
 * [Support](#)
     * [Cybenetics – 80 PLUS®](https://seasonic.com/the-importance-of-efficiency/)
-    * [Warranty/RMA Support](https://seasonic.com/support/)
     * [FAQ and Troubleshooting](https://knowledge.seasonic.com/)
+    * [Warranty / RMA Information](https://seasonic.com/support/)
+    * [Product RMA](https://rma.seasonic.com/)
     * [Video Review](https://seasonic.com/video-reviews/)
     * [Where to Buy](https://seasonic.com/locations/)
     * [Contact us](https://seasonic.com/contact-us/)
@@ -116,6 +117,12 @@
     
     [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20222'%3E%3C/svg%3E)
     
+    ![](https://seasonic.com/wp-content/uploads/2024/04/ATX3-FOCUS-PX-GX-back-panel-angled-300x222.webp)
+    
+    FOCUS GX ATX 3.0
+    
+    1000 W850 W750 W](https://seasonic.com/atx3-focus-gx/)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20222'%3E%3C/svg%3E)
+    
     ![](https://seasonic.com/wp-content/uploads/2024/02/atx3-focus-gx-1000-850-750-white-back-panel-angled-300x222.png)
     
     FOCUS GX WHITE ATX 3.0
@@ -134,29 +141,29 @@
     
     1000 W850 W750 W650 W550 W](https://seasonic.com/focus-gx/)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20222'%3E%3C/svg%3E)
     
-    ![](https://seasonic.com/wp-content/uploads/2024/04/FOCUS-GM-850-back-panel-angled-300x222.webp)
-    
-    FOCUS GM
-    
-    850 W750 W650 W550 W](https://seasonic.com/focus-gm/)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20222'%3E%3C/svg%3E)
-    
     ![](https://seasonic.com/wp-content/uploads/2024/02/FOCUS-GX-white-back-panel-angled-t-300x222.webp)
     
     FOCUS GX WHITE EDITION
     
     1000 W850 W750 W](https://seasonic.com/focus-gx-white/)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20222'%3E%3C/svg%3E)
     
-    ![](https://seasonic.com/wp-content/uploads/2024/04/FOCUS-SPX-SGX-750-650-550-back-panel-angled-300x222.webp)
+    ![](https://seasonic.com/wp-content/uploads/2024/04/FOCUS-GM-850-back-panel-angled-300x222.webp)
     
-    FOCUS SGX (2021)
+    FOCUS GM
     
-    750 W650 W550 W](https://seasonic.com/focus-sgx-2021/)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20222'%3E%3C/svg%3E)
+    850 W750 W650 W550 W](https://seasonic.com/focus-gm/)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20222'%3E%3C/svg%3E)
     
     ![](https://seasonic.com/wp-content/uploads/2024/02/focus-spx-sgx-750-650-550-back-panel-angled-300x222.png)
     
     FOCUS SPX (2021)
     
-    750 W650 W](https://seasonic.com/focus-spx-2021/)
+    750 W650 W](https://seasonic.com/focus-spx-2021/)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20222'%3E%3C/svg%3E)
+    
+    ![](https://seasonic.com/wp-content/uploads/2024/04/FOCUS-SPX-SGX-750-650-550-back-panel-angled-300x222.webp)
+    
+    FOCUS SGX (2021)
+    
+    750 W650 W550 W](https://seasonic.com/focus-sgx-2021/)
     
     [All Products from FOCUS Series](https://seasonic.com/power-supplies/filter/product_cat-focus-series/)
 * [CORE Series](https://seasonic.com/power-supplies/filter/product_cat-core-series/)
