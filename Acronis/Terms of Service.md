@@ -114,7 +114,7 @@ Menu Close
     
     Cybersecurity
     
-    [Advanced Security + XDR](https://www.acronis.com/en-us/products/cloud/cyber-protect/extended-detection-and-response/) [Acronis MDR](https://www.acronis.com/en-us/products/cloud/cyber-protect/managed-detection-and-response/) [Advanced Email Security](https://www.acronis.com/en-us/products/cloud/cyber-protect/email-security/) [Collaboration App Security for M365](https://www.acronis.com/en-us/products/cloud/cyber-protect/m365-collaboration/) [Advanced Data Loss Prevention (DLP)](https://www.acronis.com/en-us/products/cloud/cyber-protect/data-loss-prevention/)
+    [Advanced Security + XDR](https://www.acronis.com/en-us/products/cloud/cyber-protect/extended-detection-and-response/) [Advanced Security + EDR](https://www.acronis.com/en-us/products/cloud/cyber-protect/security-edr/) [Acronis MDR](https://www.acronis.com/en-us/products/cloud/cyber-protect/managed-detection-and-response/) [Advanced Email Security](https://www.acronis.com/en-us/products/cloud/cyber-protect/email-security/) [Collaboration App Security for M365](https://www.acronis.com/en-us/products/cloud/cyber-protect/m365-collaboration/) [Advanced Data Loss Prevention (DLP)](https://www.acronis.com/en-us/products/cloud/cyber-protect/data-loss-prevention/)
     
     Data protection
     
@@ -131,7 +131,7 @@ Menu Close
     
     [Acronis Cyber Protect](https://www.acronis.com/en-us/products/cyber-protect/)
     
-    NEW
+    \-20%
     
     Complete cyber resilience for small business, including backup and DR, anti-malware and remote endpoint monitoring.
     
@@ -147,6 +147,9 @@ Menu Close
     
     * [Acronis DeviceLock DLP](https://www.acronis.com/en-us/products/devicelock/)
     * [Acronis Snap Deploy](https://www.acronis.com/en-us/products/snap-deploy/)
+        
+        \-20%
+        
     
     For everyone
     
