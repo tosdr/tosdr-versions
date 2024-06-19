@@ -588,4 +588,4 @@ Please enable JavaScript to view this page.
 
 [](https://www.facebook.com/TheLWTech/ "LWTech's Facebook Page")[](https://twitter.com/TheLWTech "LWTech's Twitter Page")[](https://www.instagram.com/thelwtech/ "LWTech's Instagram Page")[](https://www.linkedin.com/school/444906 "LWTech's LinkedIn Page")[](https://www.youtube.com/channel/UCqx_PeebgqtKpAoyySzigBA "LWTech's YouTube Page")[](https://www.flickr.com/photos/lwitech/ "LWTech's Flickr Page")
 
-[3/6/24](https://a.cms.omniupdate.com/11/?skin=oucampus&account=lwtech&site=dev&action=de&path=/about/policies-and-procedures/website-privacy-policy/default.pcf)
+[6/17/24](https://a.cms.omniupdate.com/11/?skin=oucampus&account=lwtech&site=dev&action=de&path=/about/policies-and-procedures/website-privacy-policy/default.pcf)
