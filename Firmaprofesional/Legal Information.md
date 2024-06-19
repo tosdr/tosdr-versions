@@ -125,7 +125,7 @@ Política de privacidad
     Cualquier persona tiene derecho a obtener confirmación sobre si en FIRMAPROFESIONAL se tratan datos personales que les conciernan, o no. Las personas interesadas tienen derecho a acceder a sus datos personales, así como a solicitar la rectificación de los datos inexactos o, en su caso, solicitar su supresión cuando, entre otros motivos, los datos ya no sean necesarios para los fines que fueron recogidos.En determinadas circunstancias, los interesados podrán solicitar la limitación del tratamiento de sus datos, en cuyo caso únicamente los conservaremos para el ejercicio o la defensa de reclamaciones.  
     Asimismo, en determinadas circunstancias y por motivos relacionados con su situación particular, los interesados podrán oponerse al tratamiento de sus datos.
     
-    FIRMAPROFESIONAL le informa que podrá ejercer los derechos de acceso, rectificación, supresión, oposición y limitación del tratamiento según las condiciones y límites previstos en la vigente legislación, dirigiéndose por escrito a FIRMAPROFESIONAL, S.L., Av. Torre Blanca, 57, (Edificio ESADECREAPOLIS – 3B6), 08173 Sant Cugat del Vallès (Barcelona) o a C/ Velázquez, 59-1º Centro Izquierda, 28001 Madrid, o bien mediante email a [\[email protected\]](https://www.firmaprofesional.com/cdn-cgi/l/email-protection). En cualquier caso, deberá aportar copia de su DNI, pasaporte o documento equivalente.
+    FIRMAPROFESIONAL le informa que podrá ejercer los derechos de acceso, rectificación, supresión, oposición y limitación del tratamiento según las condiciones y límites previstos en la vigente legislación, dirigiéndose por escrito a FIRMAPROFESIONAL, S.L., Av. Torre Blanca, 57, (Edificio ESADECREAPOLIS – 3B6), 08173 Sant Cugat del Vallès (Barcelona) o a C/ Velázquez, 59-1º Centro Izquierda, 28001 Madrid, o bien mediante email a [\[email protected\]](https://www.firmaprofesional.com/cdn-cgi/l/email-protection). 
     
     En caso de considerarlo oportuno, puede presentar una reclamación ante la Agencia Española de Protección de Datos ([agpd.es](https://www.agpd.es/portalwebAGPD/index-ides-idphp.php)).
     
@@ -170,7 +170,7 @@ FIRMAPROFESIONAL, S.A, A62634068
 [Firmasign](https://firmaprofesional.com/soluciones-para-la-gestion-de-certificados-digitales/firmasign/)
 
 [Sistema de emisión/gestión de certificados](https://firmaprofesional.com/servicios/sistema-de-emision-gestion-de-certificados/)  
-Video ID  
+[Video ID](https://firmaprofesional.com/servicios/video-id-firmaprofesional/)  
 [Custodia de clave de cifrado](https://firmaprofesional.com/servicios/custodia-de-claves-de-cifrado/)
 
 ![](https://firmaprofesional.com/wp-content/uploads/2024/06/segured-negativo-1-1-1024x450.png)
@@ -192,8 +192,14 @@ c/ de Cantabria, 5
 
 [![Logo Ministerio Asuntos Economicos y transformacion digital](https://firmaprofesional.com/wp-content/uploads/2020/12/download.png "ACREDITACIONES")](https://sedeaplicaciones.minetur.gob.es/Prestadores/)
 
-[![](https://firmaprofesional.com/wp-content/uploads/2021/01/unnamed-1.png)](https://webgate.ec.europa.eu/tl-browser/)
+[![](https://firmaprofesional.com/wp-content/uploads/2024/06/eidas-negativo-firma.png)](https://eidas.ec.europa.eu/efda/tl-browser/#/screen/tl/ES/17)
 
-[![](https://firmaprofesional.com/wp-content/uploads/2021/06/image001-247x300.jpg)](https://firmaprofesional.com/wp-content/uploads/pdfs/ENS_FIRMAPROFESIONAL_ALTA_2024.pdf)
+[![](https://firmaprofesional.com/wp-content/uploads/2024/06/distintivo_ens_certificacion_ALTA_RD311-2022-842x1024.png)](https://firmaprofesional.com/wp-content/uploads/pdfs/ENS_FIRMAPROFESIONAL_ALTA_2024.pdf)
+
+[![Sello ISO27001](https://firmaprofesional.com/wp-content/uploads/2024/06/ISO-27001_LOGALTY.jpg)](https://firmaprofesional.com/wp-content/uploads/pdfs/ISO27001_ESP_Logalty-Solutions.pdf)
+
+[![Sello ISO22301](https://firmaprofesional.com/wp-content/uploads/2024/06/ISO-22301_LOGALTY.jpg)](https://firmaprofesional.com/wp-content/uploads/pdfs/ISO22301_ESP_Logalty-Solutions.pdf)
+
+[![ISO9001 Firmaprofesional](https://firmaprofesional.com/wp-content/uploads/2024/05/firmaprofesional_1s_talogo_qm_23-e1717068612393.png)](https://firmaprofesional.com/wp-content/uploads/pdfs/ISO9001_Firmaprofesional_esp_2024.pdf)
 
 © Copyright 2024 Firmaprofesional | [AVISO LEGAL](https://www.firmaprofesional.com/aviso-legal) | [POLÍTICA DE PRIVACIDAD](https://www.firmaprofesional.com/aviso-legal#politica-de-privacidad) | [COOKIES](https://www.firmaprofesional.com/cookies/)
