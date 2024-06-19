@@ -69,9 +69,8 @@ License and Terms and Conditions CAREER of Experteer GmbH
 
 1. The submission as well as the alteration of a profile is free of charge. The user may, also free of charge, keep an unlimited number of contact requests on his profile and use the Experteer software with certain restrictions.
 2. If the user wishes to use the entire content of the Experteer Software, i.e. with all the features and no restrictions, or respond to incoming messages, then he is only able do this by purchasing an appropriate license regarding the use of the entire content of the Experteer software (“**Premium membership**”).
-3. The current fees for purchasing such licence can be viewed online [here](https://www.experteer.co.uk/docs/price_model).
-4. If the user wishes to buy such software license, he is made aware of the incoming fees. The charges due for the licence and the payment method will also be explained.
-5. Objections to the amount charged or debited must be claimed in writing to Experteer by the user within 14 days of debiting of the objected costs or of receipt of the objected invoice. If the user does not claim objection within this 14-day period, the amount debited or invoiced is deemed to be approved. Objections to the amount charged is irrelevant of the cancellation policy as stated in §14. Objections also do not affect the concluded renewal agreement as stated in §8.
+3. If the user wishes to buy such software license, he is made aware of the incoming fees. The charges due for the licence and the payment method will also be explained.
+4. Objections to the amount charged or debited must be claimed in writing to Experteer by the user within 14 days of debiting of the objected costs or of receipt of the objected invoice. If the user does not claim objection within this 14-day period, the amount debited or invoiced is deemed to be approved. Objections to the amount charged is irrelevant of the cancellation policy as stated in §14. Objections also do not affect the concluded renewal agreement as stated in §8.
 
 § 6 Terms of Payment
 
