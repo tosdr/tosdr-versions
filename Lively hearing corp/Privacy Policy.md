@@ -16,7 +16,9 @@ Try Enhance Select hearing aids risk-free for 100 days. [Shop now](https://www.l
 
 [Hearing aids](https://www.listenlively.com/product)[Remote care](https://www.listenlively.com/hearing-care)[Hearing resources](https://www.listenlively.com/hearing-aid-guide)
 
-[(800) 854-2772We're open! Call now](tel:8008542772)[](tel:8008542772 "Call us")
+Schedule call[(800) 854-2772](tel:8008542772)
+
+[](tel:8008542772 "Call us")
 
 [](https://www.listenlively.com/survey)
 
@@ -51,22 +53,20 @@ Next
 
 ![](/cdn-cgi/image/width=3840,quality=10,format=auto/_next/static/media/es500-carousel-desktop.af0828e4.jpg)
 
-Why Jabra Enhance?
-------------------
+What you get with Jabra Enhance Select
+--------------------------------------
 
-### High-tech, lower cost
+### High-tech hearing aids
 
-Experience **360-degree sound** and **enhanced speech clarity** with our nearly invisible, **Bluetooth**\-enabled hearing aids. As low as $995 per pair.
+Nearly invisible, Enhance Select hearing aids are Bluetooth-enabled, and offer 360-degree sound.
 
 ### Convenient follow-up care
 
-Connect with our **licensed, US-based Audiology Team** right from home.  
-**No office visits** necessary.  
-Easy.
+With our **Premium Package**, connect with our Audiology Team whenever you need via our easy-to-use app.
 
 ### Incredible value
 
-**Medical-grade hearing aids** at a fraction of the cost of comparable prescription devices from a clinic. Financing available.
+Everything you need for better hearing — all for as low as $995 per pair. Financing also available.
 
 ![](/_next/static/media/accept.8f2fb6cf.svg)FSA and HSA cards accepted
 
@@ -87,7 +87,7 @@ Try Enhance Select hearing aids for 100 days. If you're not fully satisfied, we'
 90% of customers using Enhance Select Premium report hearing better\*
 ---------------------------------------------------------------------
 
-4.6 out of 5(3348 reviews)
+4.6 out of 5(3377 reviews)
 
 * _**95%** report hearing friends & family better_
 * _**95%** report asking others to repeat themselves less_
@@ -134,7 +134,7 @@ With our **Premium Package**, our Audiology Team works with you remotely to impr
 
 ### Everything you need for better hearing
 
-4.6 out of 5(3348 reviews)
+4.6 out of 5(3377 reviews)
 
 ![](/cdn-cgi/image/width=1920,quality=80,format=auto/_next/static/media/hp-bundle.072d2d18.png)
 
@@ -155,27 +155,15 @@ With our **Premium Package**, our Audiology Team works with you remotely to impr
     
     ![](/cdn-cgi/image/width=640,quality=80,format=auto/_next/static/media/es500-home-bundle.5d719ae0.png)
     
-    **Enhance Select 500**
-    
-    Excellent in the most complex listening situations, like answering a phone call in a crowded cafe.
-    
-    $1,795 - $1,995  
+    **Enhance Select 500**Excellent in the most complex listening situations, like answering a phone call in a crowded cafe.$1,795 - $1,995  
     or as low as $58/mo per pair](https://www.listenlively.com/product/enhanceselect500)[\*](#financing-disclosure)
 * [![](/cdn-cgi/image/width=640,quality=80,format=auto/_next/static/media/es300-home-bundle.e9cd8a33.png)
     
-    **Enhance Select 300**
-    
-    Great in complex listening situations, like hearing multiple people at a loud party.
-    
-    $1,495 - $1,695  
+    **Enhance Select 300**Great in complex listening situations, like hearing multiple people at a loud party.$1,495 - $1,695  
     or as low as $49/mo per pair](https://www.listenlively.com/product/enhanceselect300)[\*](#financing-disclosure)
 * [![](/cdn-cgi/image/width=640,quality=80,format=auto/_next/static/media/es50r-home-bundle.23118445.png)
     
-    **Enhance Select 50R**
-    
-    Great for everyday listening situations, like one-on-one conversations and watching TV.
-    
-    $995 - $1,195  
+    **Enhance Select 50R**Works well in quieter situations, like one-on-one conversations and watching TV at home.$995 - $1,195  
     or as low as $33/mo per pair](https://www.listenlively.com/product/enhanceselect50r)[\*](#financing-disclosure)
 
 [Shop hearing aids](https://www.listenlively.com/product)
@@ -225,13 +213,13 @@ The reviews are in
 
 Filter reviews by topic:
 
-Sound quality
+Hearing aids
 
-* Sound quality
-* Comfort
-* Discretion
+* Hearing aids
 * Care and service
+* Ease of use
 * Value
+* Results
 
 See all reviews
 
@@ -255,7 +243,7 @@ Reach out to our team for help understanding if Enhance Select is right for you.
 
 [Start your 100-day trial](https://www.listenlively.com/survey)
 
-\*Amounts financed range from $50.00 to $10,000.00. Availability of terms may vary based on purchase price and/or product. Down payment may be required. Subject to approval of credit application. Rates range from 0% to 29.99% APR, resulting in, for example, 36 monthly payments of $32.26 at 9.99% APR, per $1,000 borrowed. APRs will vary depending on credit qualifications, loan amount, and term. Bread Pay™ loans are made by Comenity Capital Bank, a Bread Financial™ company.
+\*Minimum purchase of $50.00 is required. Availability of terms may vary based on purchase price, product, and state of residence. Down payment may be required. Subject to approval of credit application. Rates range from 0.00% to 34.99% APR, resulting in, for example, 36 monthly payments of $38.19 at 21.99% APR, per $1,000.00 borrowed. APRs will vary depending on credit qualifications, loan amount, and term.  Bread Pay™ loans are made by Comenity Capital Bank, a Bread Financial™ company.
 
 [Jabra EnhanceTM](https://www.listenlively.com/)
 
