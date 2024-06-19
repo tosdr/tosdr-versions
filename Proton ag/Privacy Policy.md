@@ -48,7 +48,9 @@
     
     Join the fight to make the internet a better place.](https://protonmail.com/community)[Open source
     
-    Everyone is welcome to inspect our code. We're open.](https://protonmail.com/community/open-source)
+    Everyone is welcome to inspect our code. We're open.](https://protonmail.com/community/open-source)[Proton Foundation
+    
+    Our non-profit model puts people before profit.](https://protonmail.com/foundation)
     
 * Resources & Support
     
@@ -91,7 +93,7 @@ Open menu
 Proton - Privacy policy
 =======================
 
-Last modified: April 11, 2024
+Last modified: June 17, 2024
 
 At Proton, we strongly believe in an internet where privacy is the default.
 
@@ -141,13 +143,13 @@ In order to pursue our legitimate interest of preventing the creation of account
 
 **2.8 Payment information:** We rely on Chargebee to process payments. Strictly necessary information is shared with Chargebee for credit card, PayPal, Stripe and Bitcoin transactions in order for the payment to be successful and associated with your account. Chargebee does not have access to your email or your Proton account information. We rely on third parties to process credit card, PayPal, and Bitcoin transactions and must therefore share payment information with them. We do not retain full credit card details, we only save your name and the last 4 digits of the credit card number. Anonymous cash or Bitcoin payments and donations are accepted. We may use your account data for payment-related matters, including but not limited to sending you emails, invoices, receipts, notices of delinquency, and alerts to update payment information. The legal basis of these processing activities is the necessity to the execution of the contract to provide the Services. In order to respect the principle of data minimisation, we reserve our right to remove payment information from our systems that is no longer valid, without notice.
 
-**2.9 Native applications:** When you use our native applications, we (or the mobile app platform providers) may collect certain information. We may use mobile analytics software (e.g. [fabric.io(new window)](https://fabric.io/)) app statistics and crash reporting, Play Store app statistics, App Store app statistics, or self-hosted Sentry crash reporting to send crash information to our developers in order to rapidly fix bugs. Some platforms, such as Google’s Play Store or Apple’s App Store may also collect aggregate, anonymous statistics, which may be governed by their respective privacy policies and terms and conditions. Such statistics can include most commonly used devices and operating systems, total number of installs and uninstalls, and the total number of active users.
+**2.9 Native applications:** When you use our native applications, we (or the mobile app platform providers) may collect certain information. We may use mobile analytics software (e.g. fabric.io) app statistics and crash reporting, Play Store app statistics, App Store app statistics, or self-hosted Sentry crash reporting to send crash information to our developers in order to rapidly fix bugs. Some platforms, such as Google’s Play Store or Apple’s App Store may also collect aggregate, anonymous statistics, which may be governed by their respective privacy policies and terms and conditions. Such statistics can include most commonly used devices and operating systems, total number of installs and uninstalls, and the total number of active users.
 
 Our applications do not access or track any location-based information from your device.
 
-**2.10 Social Media:** We are active on Facebook, Instagram, Linkedin, Twitter, Reddit, and Mastodon. Any information, communication, or material you submit to us via social media platforms is done at your own risk without any guarantee of privacy. We cannot control the actions of other users of these platforms or the actions of the platforms themselves. Your interactions with those features and platforms are governed by the privacy policies of the companies that provide them.
+**2.10 Social Media:** Social Media: We are active on Facebook, Instagram, Linkedin, Twitter, Reddit, and Mastodon. Any information, communication, or material you submit to us via social media platforms is done at your own risk without any guarantee of privacy. We cannot control the actions of other users of these platforms or the actions of the platforms themselves. Your interactions with those features and platforms are governed by the privacy policies of the companies that provide them.
 
-**2.11 Links to other websites:** Our website may contain links to other websites of interest. However, we are not responsible for the content of any website that we link to, and external sites are governed by their own terms and conditions and privacy policies.
+**2.11 Links to other websites:** Links to other websites: Our website may contain links to other websites of interest. However, we are not responsible for the content of any website that we link to, and external sites are governed by their own terms and conditions and privacy policies.
 
 **2.12 Links to other websites and embedded content:** Our website may contain links to other websites of interest. However, we are not responsible for the content of any website that we link to, and external sites are governed by their own terms and conditions and privacy policies. We may use third parties to provide embedded content (e.g. pictures) on our website which may collect information about you. The legal basis for this processing is our legitimate interest to operate our website economically.
 
@@ -271,6 +273,7 @@ Proton - Privacy by default
     * [About us](https://protonmail.com/about)
     * [Team](https://protonmail.com/about/team)
     * [Impact](https://protonmail.com/about/impact)
+    * [Proton Foundation](https://protonmail.com/foundation)
     * [Careers
         
         We’re hiring](https://protonmail.com/careers)
