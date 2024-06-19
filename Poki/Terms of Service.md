@@ -245,4 +245,4 @@ Let the world play
 
 ⚙️ Cookies[About](https://about.poki.com/)[Poki for Developers](https://developers.poki.com/)[Jobs](https://jobs.poki.com/)[Privacy Statement](https://poki.com/en/c/privacy-statement)[Terms of Use](https://poki.com/en/c/terms-of-use)[FAQ](https://poki.com/en/c/faq)[Contact](https://poki.com/en/c/contact)
 
-Poki v5.12.0+c5fcba57998980ca60faca047df204f95c535484 - SDK v2
+Poki v5.12.0+612950a07a7fc5998f9543d45e2ea90372472daf - SDK 308288fecfa9ecbe710a7973ea7f425b5d8b4379
