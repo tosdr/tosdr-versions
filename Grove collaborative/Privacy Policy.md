@@ -1,9 +1,5 @@
 menu[![Grove Collaborative logo](https://images.grove.co/upload/v1710801415/global/Logos/Grove-wordmark.svg)](https://www.grove.co/)
 
-search
-
-* [Cart Icon](https://www.grove.co/pantry/)
-
 Grove Collaborative Privacy Policy
 ==================================
 
