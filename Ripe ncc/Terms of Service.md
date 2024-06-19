@@ -72,7 +72,7 @@ Close
 Analyse
 -------
 
-We collect a wide range of Internet data and provide statistics and tools that our members and the wider Internet community can use for their own operations and analyses.
+We collect a wide range of Internet data and provide statistics and tools you can use for your own operations and analyses.
 
 [Visit page](https://www.ripe.net/analyse/)
 
@@ -331,7 +331,7 @@ Close
 About
 -----
 
-We're a not-for-profit membership association, a Regional Internet Registry and the secretariat for the RIPE community supporting the Internet through technical coordination.
+We're a not-for-profit membership association, a Regional Internet Registry and the secretariat for the RIPE community supporting the Internet.
 
 [Visit page](https://www.ripe.net/about-us/)
 
@@ -388,7 +388,7 @@ Close
     
      Search
     
-    Your IP Address is: [2001:41d0:801:1000::9de](https://apps.db.ripe.net/db-web-ui/query?searchtext=2001:41d0:801:1000::9de)
+    Your IP Address is: [51.195.149.220](https://apps.db.ripe.net/db-web-ui/query?searchtext=51.195.149.220)
     
     Tip: try using "quotes around your search phrase"
     
@@ -642,8 +642,8 @@ On this page
 
 © 1992–2024 RIPE NCC
 
-Your IP Address is: [2001:41d0:801:1000::9de](https://apps.db.ripe.net/db-web-ui/query?searchtext=2001:41d0:801:1000::9de)
+Your IP Address is: [51.195.149.220](https://apps.db.ripe.net/db-web-ui/query?searchtext=51.195.149.220)
 
 [](https://www.ripe.net/support/contact/social-networking)
 
-[Home](https://www.ripe.net/) [Sitemap](https://www.ripe.net/sitemap.xml) [Contact Us](https://www.ripe.net/support/contact/) [Service Announcements](https://status.ripe.net/) [Privacy Statement](https://www.ripe.net/about-us/legal/ripe-ncc-privacy-statement/) [Legal](https://www.ripe.net/about-us/legal/) [Cookies](https://www.ripe.net/about-us/legal/cookies/) [Copyright Statement](https://www.ripe.net/about-us/legal/copyright-statement/) [Terms of Service](https://www.ripe.net/about-us/legal/terms-of-service/) [RSS Feeds ![RSS Feeds](/static/images/rss.svg)](https://www.ripe.net/publications/news/feeds/)
+[Home](https://www.ripe.net/) [Sitemap](https://www.ripe.net/sitemap.xml) [Contact Us](https://www.ripe.net/support/contact/) [Careers](https://www.ripe.net/careers/) [Service Announcements](https://status.ripe.net/) [Privacy Statement](https://www.ripe.net/about-us/legal/ripe-ncc-privacy-statement/) [Legal](https://www.ripe.net/about-us/legal/) [Cookies](https://www.ripe.net/about-us/legal/cookies/) [Copyright Statement](https://www.ripe.net/about-us/legal/copyright-statement/) [Terms of Service](https://www.ripe.net/about-us/legal/terms-of-service/) [RSS Feeds ![RSS Feeds](/static/images/rss.svg)](https://www.ripe.net/publications/news/feeds/)
