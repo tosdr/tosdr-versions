@@ -41,70 +41,358 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![lesbians embracing in bed](https://www.women.com/img/gallery/6-of-the-steamiest-lgbtq-sex-scenes-of-the-last-decade/intro-1717178361.jpg)](https://www.women.com/1593529/steamiest-lgbtq-sex-scenes-film/)
+*  [![woman in bathing suit](https://www.women.com/img/gallery/dirty-martini-swimsuits-will-keep-you-on-trend-for-summer-2024/intro-1718381212.jpg)](https://www.women.com/1603001/dirty-martini-swimsuit-trend-summer-2024/)
     
-    [Politics](https://www.women.com/category/politics/)
+    [Fashion](https://www.women.com/category/fashion/)
     
-    [Politics](https://www.women.com/category/politics/) By Amanda Chatel
+    [Fashion](https://www.women.com/category/fashion/) By Amanda Chatel
     
-    [6 Of The Steamiest LGBTQ+ Sex Scenes Of The Last Decade](https://www.women.com/1593529/steamiest-lgbtq-sex-scenes-film/)
-    =========================================================================================================================
+    [Dirty Martini Swimsuits Will Keep You On-Trend For Summer 2024](https://www.women.com/1603001/dirty-martini-swimsuit-trend-summer-2024/)
+    =========================================================================================================================================
     
-    Since 2014, LGBTQ+ sex scenes in movies have seriously stepped up their game. We compiled a list of the best ones to watch this Pride month and beyond.
+    This summer, we're shaking (and stirring) things up with olive green bikinis and one-pieces. Learn more about the martini-inspired trend.
     
-    By Amanda Chatel [Read More](https://www.women.com/1593529/steamiest-lgbtq-sex-scenes-film/)
+    By Amanda Chatel [Read More](https://www.women.com/1603001/dirty-martini-swimsuit-trend-summer-2024/)
     
-* *  [![Beach nails](https://www.women.com/img/gallery/5-beachy-nail-designs-for-the-perfect-summer-2024-mani/intro-1717188794.jpg)](https://www.women.com/1594898/beachy-nail-designs-summer-2024/)
+* *  [![Mindy Kaling](https://www.women.com/img/gallery/everything-mindy-kaling-has-said-about-her-weight-loss-journey/intro-1718391427.jpg)](https://www.women.com/1603211/everything-mindy-kaling-said-weight-loss-journey/)
         
-        [Beauty](https://www.women.com/category/beauty/)
+        [Wellness](https://www.women.com/category/wellness/)
         
-        [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
+        [Wellness](https://www.women.com/category/wellness/) By Amanda Chatel
         
-        ### [5 Beachy Nail Designs For The Perfect Summer 2024 Mani](https://www.women.com/1594898/beachy-nail-designs-summer-2024/)
+        ### [Everything Mindy Kaling Has Said About Her Weight Loss Journey](https://www.women.com/1603211/everything-mindy-kaling-said-weight-loss-journey/)
         
-        Looking for the perfect vacation nails? Embrace the relaxing vibes of the summer with these beachy manicure ideas.
+        Mindy Kaling's body acceptance has nothing to do with size, but everything to do with health and self-love.
         
-        By Emily Hutchinson [Read More](https://www.women.com/1594898/beachy-nail-designs-summer-2024/)
+        By Amanda Chatel [Read More](https://www.women.com/1603211/everything-mindy-kaling-said-weight-loss-journey/)
         
-    *  [![age-gap couple](https://www.women.com/img/gallery/is-your-age-gap-affecting-your-sex-life-we-asked-an-expert-how-to-deal/intro-1717419959.jpg)](https://www.women.com/1594459/age-gap-affecting-sex-life/)
+    *  [![Sasha Obama with a neutral expression](https://www.women.com/img/gallery/5-times-sasha-obamas-fashion-was-unfairly-criticized/intro-1718636822.jpg)](https://www.women.com/1604314/times-sasha-obama-fashion-unfairly-criticized/)
         
-        [Exclusives](https://www.women.com/category/exclusives/)
+        [Fashion](https://www.women.com/category/fashion/)
         
-        [Exclusives](https://www.women.com/category/exclusives/) By Amanda Chatel
+        [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
         
-        ### [Is Your Age Gap Affecting Your Sex Life? We Asked An Expert How To Deal](https://www.women.com/1594459/age-gap-affecting-sex-life/)
+        ### [5 Times Sasha Obama's Fashion Was Unfairly Criticized](https://www.women.com/1604314/times-sasha-obama-fashion-unfairly-criticized/)
         
-        Couples with a big age gap can face unique challenges, including in the bedroom. A certified sex therapist told Women how age differences can impact sex life.
+        Sasha Obama has never tried to be a fashionista, but that hasn't stopped the public from making cruel statements about her sartorial choices.
         
-        By Amanda Chatel [Read More](https://www.women.com/1594459/age-gap-affecting-sex-life/)
+        By Emily Hutchinson [Read More](https://www.women.com/1604314/times-sasha-obama-fashion-unfairly-criticized/)
         
 
 More Stories
 ------------
 
-*  [![Beach nails](https://www.women.com/img/gallery/5-beachy-nail-designs-for-the-perfect-summer-2024-mani/intro-1717188794.jpg)](https://www.women.com/1594898/beachy-nail-designs-summer-2024/)
+*  [![Mindy Kaling](https://www.women.com/img/gallery/everything-mindy-kaling-has-said-about-her-weight-loss-journey/intro-1718391427.jpg)](https://www.women.com/1603211/everything-mindy-kaling-said-weight-loss-journey/)
+    
+    [Wellness](https://www.women.com/category/wellness/)
+    
+    [Wellness](https://www.women.com/category/wellness/) By Amanda Chatel
+    
+    ### [Everything Mindy Kaling Has Said About Her Weight Loss Journey](https://www.women.com/1603211/everything-mindy-kaling-said-weight-loss-journey/)
+    
+    Mindy Kaling's body acceptance has nothing to do with size, but everything to do with health and self-love.
+    
+    By Amanda Chatel [Read More](https://www.women.com/1603211/everything-mindy-kaling-said-weight-loss-journey/)
+    
+*  [![Sasha Obama with a neutral expression](https://www.women.com/img/gallery/5-times-sasha-obamas-fashion-was-unfairly-criticized/intro-1718636822.jpg)](https://www.women.com/1604314/times-sasha-obama-fashion-unfairly-criticized/)
+    
+    [Fashion](https://www.women.com/category/fashion/)
+    
+    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
+    
+    ### [5 Times Sasha Obama's Fashion Was Unfairly Criticized](https://www.women.com/1604314/times-sasha-obama-fashion-unfairly-criticized/)
+    
+    Sasha Obama has never tried to be a fashionista, but that hasn't stopped the public from making cruel statements about her sartorial choices.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1604314/times-sasha-obama-fashion-unfairly-criticized/)
+    
+*  [![Lesbians watching tv](https://www.women.com/img/gallery/the-secret-to-improving-your-sex-life-that-youve-never-heard-of/intro-1718311471.jpg)](https://www.women.com/1602529/secret-improving-sex-life-never-heard-of/)
+    
+    [Sex](https://www.women.com/category/sex-life/)
+    
+    [Sex](https://www.women.com/category/sex-life/) By Amanda Chatel
+    
+    ### [The Secret To Improving Your Sex Life That You've Never Heard Of](https://www.women.com/1602529/secret-improving-sex-life-never-heard-of/)
+    
+    Depending on your viewing habits, making this conscious decision can lead to a healthier sex life for you and your partner.
+    
+    By Amanda Chatel [Read More](https://www.women.com/1602529/secret-improving-sex-life-never-heard-of/)
+    
+*  [![Woman looking at skin](https://www.women.com/img/gallery/summer-2024s-biggest-skincare-trends-center-on-one-unsurprising-thing-healthy-skin/intro-1718217082.jpg)](https://www.women.com/1601422/summer-2024-skincare-trends-healthy-skin/)
+    
+    [Beauty](https://www.women.com/category/beauty/)
+    
+    [Beauty](https://www.women.com/category/beauty/) By Bernadette Roe
+    
+    ### [Summer 2024's Biggest Skincare Trends Center On One Unsurprising Thing: Healthy Skin](https://www.women.com/1601422/summer-2024-skincare-trends-healthy-skin/)
+    
+    This summer, we're putting foundations, bronzers, and mascara on the back burner to focus on nourished, healthy skin.
+    
+    By Bernadette Roe [Read More](https://www.women.com/1601422/summer-2024-skincare-trends-healthy-skin/)
+    
+*  [![Ben Stern on Shark Tank](https://www.women.com/img/gallery/heres-what-went-down-with-nohbo-balls-after-shark-tank/intro-1718384586.jpg)](https://www.women.com/1603077/what-went-down-with-nohbo-balls-after-shark-tank/)
+    
+    [Living](https://www.women.com/category/living/)
+    
+    [Living](https://www.women.com/category/living/) By Emily Hutchinson
+    
+    ### [Here's What Went Down With Nohbo Balls After Shark Tank](https://www.women.com/1603077/what-went-down-with-nohbo-balls-after-shark-tank/)
+    
+    With its low production cost and sustainability-focused mission, it's not surprising that Nohbo left the Sharks impressed. Here's what happened next.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1603077/what-went-down-with-nohbo-balls-after-shark-tank/)
+    
+*  [![Woman with 30 balloons](https://www.women.com/img/gallery/30-haircuts-that-are-super-flattering-for-women-in-their-30s/intro-1717772946.jpg)](https://www.women.com/1601226/haircuts-super-flattering-women-in-their-30s/)
     
     [Beauty](https://www.women.com/category/beauty/)
     
     [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
     
-    ### [5 Beachy Nail Designs For The Perfect Summer 2024 Mani](https://www.women.com/1594898/beachy-nail-designs-summer-2024/)
+    ### [30 Haircuts That Are Super Flattering For Women In Their 30s](https://www.women.com/1601226/haircuts-super-flattering-women-in-their-30s/)
     
-    Looking for the perfect vacation nails? Embrace the relaxing vibes of the summer with these beachy manicure ideas.
+    The ideal haircut in your thirties strikes a perfect balance between polished and playful. We've rounded up the best styles to try.
     
-    By Emily Hutchinson [Read More](https://www.women.com/1594898/beachy-nail-designs-summer-2024/)
+    By Emily Hutchinson [Read More](https://www.women.com/1601226/haircuts-super-flattering-women-in-their-30s/)
     
-*  [![age-gap couple](https://www.women.com/img/gallery/is-your-age-gap-affecting-your-sex-life-we-asked-an-expert-how-to-deal/intro-1717419959.jpg)](https://www.women.com/1594459/age-gap-affecting-sex-life/)
+*  [![Florence Pugh smiling](https://www.women.com/img/gallery/florence-pughs-favorite-books-are-an-adventurous-reading-list/intro-1718147597.jpg)](https://www.women.com/1600762/florence-pugh-favorite-books/)
+    
+    [Living](https://www.women.com/category/living/)
+    
+    [Living](https://www.women.com/category/living/) By Emily Hutchinson
+    
+    ### [Florence Pugh's Favorite Books Are An Adventurous Reading List](https://www.women.com/1600762/florence-pugh-favorite-books/)
+    
+    Florence Pugh believes we all have a bratty inner child. With that in mind, it's no wonder her list of favorite books runs the gamut.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1600762/florence-pugh-favorite-books/)
+    
+*  [![A woman wearing a bright skirt ](https://www.women.com/img/gallery/statement-skirts-dresses-are-going-to-be-the-go-to-trend-for-summer-2024/intro-1718123977.jpg)](https://www.women.com/1600555/statement-skirts-dresses-trend-summer-2024/)
+    
+    [Fashion](https://www.women.com/category/fashion/)
+    
+    [Fashion](https://www.women.com/category/fashion/) By Bernadette Roe
+    
+    ### [Statement Skirts & Dresses Are Going To Be The Go-To Trend For Summer 2024](https://www.women.com/1600555/statement-skirts-dresses-trend-summer-2024/)
+    
+    For summer 2024, we're saying goodbye to neutral linen frocks and hello to colorful prints and funky hemlines that catch everyone's attention.
+    
+    By Bernadette Roe [Read More](https://www.women.com/1600555/statement-skirts-dresses-trend-summer-2024/)
+    
+*  [![A woman on a plane ](https://www.women.com/img/gallery/5-types-of-shoes-you-should-never-wear-on-a-plane/intro-1718048194.jpg)](https://www.women.com/1599718/types-of-shoes-never-wear-on-plane/)
+    
+    [Fashion](https://www.women.com/category/fashion/)
+    
+    [Fashion](https://www.women.com/category/fashion/) By Bernadette Roe
+    
+    ### [Think Twice Before You Wear These 5 Shoes On A Plane](https://www.women.com/1599718/types-of-shoes-never-wear-on-plane/)
+    
+    The shoes you wear to the airport are just as important as what's in your suitcase. Here are the footwear options to avoid next time you fly.
+    
+    By Bernadette Roe [Read More](https://www.women.com/1599718/types-of-shoes-never-wear-on-plane/)
+    
+*  [![Woman applying perfume ](https://www.women.com/img/gallery/the-bright-fresh-perfume-trends-that-will-define-your-summer-2024-signature-scent/intro-1718039407.jpg)](https://www.women.com/1599503/perfume-trends-define-summer-2024-signature-scents/)
+    
+    [Beauty](https://www.women.com/category/beauty/)
+    
+    [Beauty](https://www.women.com/category/beauty/) By Bernadette Roe
+    
+    ### [The Bright & Fresh Perfume Trends That Will Define Your Summer 2024 Signature Scent](https://www.women.com/1599503/perfume-trends-define-summer-2024-signature-scents/)
+    
+    Ready to smell like summer 2024? Look no further than perfumes with notes of cherry orchards, campfire ash, and delicious, Mediterranean feasts.
+    
+    By Bernadette Roe [Read More](https://www.women.com/1599503/perfume-trends-define-summer-2024-signature-scents/)
+    
+*  [![Woman doing her eyebrows in the mirror](https://www.women.com/img/gallery/the-eyebrow-blindness-tiktok-trend-is-calling-everyones-makeup-skills-out/intro-1718317679.jpg)](https://www.women.com/1602708/eyebrow-blindness-tiktok-trend-calling-everyones-makeup-skills-out/)
+    
+    [Beauty](https://www.women.com/category/beauty/)
+    
+    [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
+    
+    ### [The 'Eyebrow Blindness' TikTok Trend Is Calling Out Everyone's Makeup Skills](https://www.women.com/1602708/eyebrow-blindness-tiktok-trend-calling-everyones-makeup-skills-out/)
+    
+    Ever look back on photos of your old makeup and cringe over your overly drawn brows? You're not alone. You were just dealing with eyebrow blindness.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1602708/eyebrow-blindness-tiktok-trend-calling-everyones-makeup-skills-out/)
+    
+*  [![sabrina carpenter](https://www.women.com/img/gallery/heres-how-to-get-sabrina-carpenters-white-chrome-nails-for-summer-2024/intro-1718125484.jpg)](https://www.women.com/1600346/how-get-sabrina-carpenter-white-chrome-nails-summer-2024/)
+    
+    [Beauty](https://www.women.com/category/beauty/)
+    
+    [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
+    
+    ### [Here's How To Get Sabrina Carpenter's White Chrome Nails For Summer 2024](https://www.women.com/1600346/how-get-sabrina-carpenter-white-chrome-nails-summer-2024/)
+    
+    Sabrina Carpenter's white chrome nails are officially the It Girl manicure of the summer. Best of all, you can recreate the manicure with just two products.
+    
+    By Amanda Chatel [Read More](https://www.women.com/1600346/how-get-sabrina-carpenter-white-chrome-nails-summer-2024/)
+    
+*  [![Women kissing in bed](https://www.women.com/img/gallery/is-having-sex-with-a-friend-ever-a-good-idea-the-pros-cons-explained/intro-1718047195.jpg)](https://www.women.com/1599639/having-sex-with-friend-pros-cons-explained/)
     
     [Exclusives](https://www.women.com/category/exclusives/)
     
     [Exclusives](https://www.women.com/category/exclusives/) By Amanda Chatel
     
-    ### [Is Your Age Gap Affecting Your Sex Life? We Asked An Expert How To Deal](https://www.women.com/1594459/age-gap-affecting-sex-life/)
+    ### [Is Having Sex With A Friend Ever A Good Idea? The Pros & Cons, Explained](https://www.women.com/1599639/having-sex-with-friend-pros-cons-explained/)
     
-    Couples with a big age gap can face unique challenges, including in the bedroom. A certified sex therapist told Women how age differences can impact sex life.
+    Thanks to exclusive expert advice, we now know whether it's worth rocking the boat of a good friendship all in the name of sex.
     
-    By Amanda Chatel [Read More](https://www.women.com/1594459/age-gap-affecting-sex-life/)
+    By Amanda Chatel [Read More](https://www.women.com/1599639/having-sex-with-friend-pros-cons-explained/)
+    
+*  [![Julianne Hough with bob hair](https://www.women.com/img/gallery/the-best-celebrity-bobs-of-2024-so-far/intro-1718046091.jpg)](https://www.women.com/1599633/best-celebrity-bobs-2024/)
+    
+    [Beauty](https://www.women.com/category/beauty/)
+    
+    [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
+    
+    ### [The Best Celebrity Bobs Of 2024 (So Far)](https://www.women.com/1599633/best-celebrity-bobs-2024/)
+    
+    The bob has been spotted on countless celebrities in 2024. Here are some of our favorite versions of the timeless cut.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1599633/best-celebrity-bobs-2024/)
+    
+*  [![Japanese manicured nails](https://www.women.com/img/gallery/whats-a-japanese-manicure-the-gentle-nail-health-focused-experience-explained/intro-1717641516.jpg)](https://www.women.com/1598126/japanese-manicure-gentle-nail-health-focused-experience-explained/)
+    
+    [Beauty](https://www.women.com/category/beauty/)
+    
+    [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
+    
+    ### [What's A Japanese Manicure? The Gentle, Nail-Health Focused Experience, Explained](https://www.women.com/1598126/japanese-manicure-gentle-nail-health-focused-experience-explained/)
+    
+    Do your nails need a break from traditional polish? A Japanese manicure is the way to go. Learn more about the nourishing nail treatment.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1598126/japanese-manicure-gentle-nail-health-focused-experience-explained/)
+    
+*  [![Kendall Jenner in baby tee](https://www.women.com/img/gallery/the-baby-tee-trend-is-the-timeless-look-youll-see-everywhere-summer-2024/intro-1718208640.jpg)](https://www.women.com/1598198/baby-tee-trend-summer-2024/)
+    
+    [Fashion](https://www.women.com/category/fashion/)
+    
+    [Fashion](https://www.women.com/category/fashion/) By Amanda Chatel
+    
+    ### [The Baby Tee Trend Is The Timeless Look You'll See Everywhere Summer 2024](https://www.women.com/1598198/baby-tee-trend-summer-2024/)
+    
+    Get ready to show some midriff! The baby tee is the latest y2k trend to make a comeback in 2024. Here are our favorite ways to style the throwback shirt.
+    
+    By Amanda Chatel [Read More](https://www.women.com/1598198/baby-tee-trend-summer-2024/)
+    
+*  [![Woman straddling man](https://www.women.com/img/gallery/5-reasons-why-being-on-top-during-sex-may-not-be-the-best-position-for-you/intro-1717704861.jpg)](https://www.women.com/1597624/reasons-why-being-on-top-during-sex-may-not-be-best-position-for-you/)
+    
+    [Sex](https://www.women.com/category/sex-life/)
+    
+    [Sex](https://www.women.com/category/sex-life/) By Amanda Chatel
+    
+    ### [5 Reasons Why Being On Top During Sex May Not Be The Best Position For You](https://www.women.com/1597624/reasons-why-being-on-top-during-sex-may-not-be-best-position-for-you/)
+    
+    If you don't like being on top, first know that you're not alone. Secondly, even if you've yet to discover why, there's a legitimate reason for it.
+    
+    By Amanda Chatel [Read More](https://www.women.com/1597624/reasons-why-being-on-top-during-sex-may-not-be-best-position-for-you/)
+    
+*  [![Spatty spatula on YouTube ](https://www.women.com/img/gallery/heres-what-went-down-with-the-spatty-spatty-daddy-after-shark-tank/intro-1717703327.jpg)](https://www.women.com/1597625/what-went-down-the-spatty-spatty-daddy-after-shark-tank/)
+    
+    [Living](https://www.women.com/category/living/)
+    
+    [Living](https://www.women.com/category/living/) By Bernadette Roe
+    
+    ### [Here's What Went Down With The Spatty & Spatty Daddy After Shark Tank](https://www.women.com/1597625/what-went-down-the-spatty-spatty-daddy-after-shark-tank/)
+    
+    The Spatty may not have landed a deal on its "Shark Tank" episode, but that didn't stop it from becoming a massively successful business.
+    
+    By Bernadette Roe [Read More](https://www.women.com/1597625/what-went-down-the-spatty-spatty-daddy-after-shark-tank/)
+    
+*  [![Julia Fox pink hair](https://www.women.com/img/gallery/summer-2024-hair-color-trends-youll-be-seeing-everywhere/intro-1717445840.jpg)](https://www.women.com/1594963/summer-2024-hair-color-trends/)
+    
+    [Beauty](https://www.women.com/category/beauty/)
+    
+    [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
+    
+    ### [Summer 2024 Hair Color Trends You'll Be Seeing Everywhere](https://www.women.com/1594963/summer-2024-hair-color-trends/)
+    
+    Between taking things lighter or embracing more realistic shades, there's a lot out there to choose from when styling your tresses this summer.
+    
+    By Amanda Chatel [Read More](https://www.women.com/1594963/summer-2024-hair-color-trends/)
+    
+*  [![books at costco](https://www.women.com/img/gallery/costcos-reported-plans-to-stop-selling-books-ignites-backlash-from-readers/intro-1718036667.jpg)](https://www.women.com/1599367/costco-reported-plans-stop-selling-books-ignites-backlash-from-readers/)
+    
+    [Living](https://www.women.com/category/living/)
+    
+    [Living](https://www.women.com/category/living/) By Amanda Chatel
+    
+    ### [Costco's Reported Plans To Stop Selling Books Ignites Backlash From Readers](https://www.women.com/1599367/costco-reported-plans-stop-selling-books-ignites-backlash-from-readers/)
+    
+    In response to Costco cutting back on book sales, readers are calling on people to give up their memberships and support their local bookstores.
+    
+    By Amanda Chatel [Read More](https://www.women.com/1599367/costco-reported-plans-stop-selling-books-ignites-backlash-from-readers/)
+    
+*  [![Lizzo holding fan](https://www.women.com/img/gallery/5-celebrity-fashion-beauty-brands-embracing-pride-2024/intro-1717698893.jpg)](https://www.women.com/1597507/celebrity-fashion-beauty-brands-embracing-pride-2024/)
+    
+    [Living](https://www.women.com/category/living/)
+    
+    [Living](https://www.women.com/category/living/) By Emily Hutchinson
+    
+    ### [5 Celebrity Fashion & Beauty Brands Embracing Pride 2024](https://www.women.com/1597507/celebrity-fashion-beauty-brands-embracing-pride-2024/)
+    
+    From the likes of Elizabeth Taylor to Lizzo, there's a range of stars using their voices and their reach to spread messages of equality and love.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1597507/celebrity-fashion-beauty-brands-embracing-pride-2024/)
+    
+*  [![woman applying blush](https://www.women.com/img/gallery/how-to-try-the-easy-l-shaped-blush-trend-going-viral-on-tiktok/intro-1717648327.jpg)](https://www.women.com/1597024/how-try-l-shaped-blush-trend-tiktok/)
+    
+    [Beauty](https://www.women.com/category/beauty/)
+    
+    [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
+    
+    ### [How To Try The Easy 'L-Shaped' Blush Trend Going Viral On TikTok](https://www.women.com/1597024/how-try-l-shaped-blush-trend-tiktok/)
+    
+    Struggling with where to place blush on your face? Forget applying to the apples and try the L-shaped technique for the ultimate cheekbone lift.
+    
+    By Amanda Chatel [Read More](https://www.women.com/1597024/how-try-l-shaped-blush-trend-tiktok/)
+    
+*  [![woman wearing flatforms](https://www.women.com/img/gallery/flatform-sandals-are-set-to-be-summer-2024s-hottest-shoe-trend/intro-1717504125.jpg)](https://www.women.com/1595313/flatform-sandals-summer-2024-hottest-shoe-trend/)
+    
+    [Fashion](https://www.women.com/category/fashion/)
+    
+    [Fashion](https://www.women.com/category/fashion/) By Amanda Chatel
+    
+    ### [Flatform Sandals Are Set To Be Summer 2024's Hottest Shoe Trend](https://www.women.com/1595313/flatform-sandals-summer-2024-hottest-shoe-trend/)
+    
+    Flatform sandals are about to be everywhere in summer 2024, and as a versatile summer shoe, they can be dressed up or down, with a short romper or maxi dress.
+    
+    By Amanda Chatel [Read More](https://www.women.com/1595313/flatform-sandals-summer-2024-hottest-shoe-trend/)
+    
+*  [![Couple in bed ](https://www.women.com/img/gallery/how-bite-sized-sex-can-change-the-way-you-think-about-intimacy/intro-1717448032.jpg)](https://www.women.com/1595006/bite-sized-sex-change-perspective-intimacy/)
+    
+    [Sex](https://www.women.com/category/sex-life/)
+    
+    [Sex](https://www.women.com/category/sex-life/) By Bernadette Roe
+    
+    ### [How Bite-Sized Sex Can Change The Way You Think About Intimacy](https://www.women.com/1595006/bite-sized-sex-change-perspective-intimacy/)
+    
+    Traditional intimacy can be great, but taking advantage of more opportunities can crank your sex life up a notch.
+    
+    By Bernadette Roe [Read More](https://www.women.com/1595006/bite-sized-sex-change-perspective-intimacy/)
+    
+*  [![Butterfly nails](https://www.women.com/img/gallery/5-whimsical-ways-to-hop-on-the-butterfly-nail-trend/intro-1717443612.jpg)](https://www.women.com/1594928/whimsical-ways-hop-on-butterfly-nail-trend/)
+    
+    [Beauty](https://www.women.com/category/beauty/)
+    
+    [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
+    
+    ### [5 Whimsical Ways To Hop On The Butterfly Nail Trend](https://www.women.com/1594928/whimsical-ways-hop-on-butterfly-nail-trend/)
+    
+    There are countless ways to add some fluttering goodness to your nails. To start, all you need is to like butterflies.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1594928/whimsical-ways-hop-on-butterfly-nail-trend/)
+    
+*  [![Gwen Stefani performing](https://www.women.com/img/gallery/times-gwen-stefani-went-makeup-free-and-looked-flawless/intro-1717105781.jpg)](https://www.women.com/1592909/times-gwen-stefani-went-makeup-free-looked-flawless/)
+    
+    [Beauty](https://www.women.com/category/beauty/)
+    
+    [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
+    
+    ### [Times Gwen Stefani Went Makeup Free And Looked Flawless](https://www.women.com/1592909/times-gwen-stefani-went-makeup-free-looked-flawless/)
+    
+    Gwen Stefani may be known for her old-Hollywood style bombshell glam, but the singer is just as stunning when bare-faced. We've got the pics to prove it.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1592909/times-gwen-stefani-went-makeup-free-looked-flawless/)
     
 *  [![taylor swift](https://www.women.com/img/gallery/outdated-trends-taylor-swift-has-been-caught-wearing/intro-1713895942.jpg)](https://www.women.com/1577703/outdated-trends-taylor-swift-caught-wearing/)
     
@@ -118,317 +406,29 @@ More Stories
     
     By Amanda Chatel [Read More](https://www.women.com/1577703/outdated-trends-taylor-swift-caught-wearing/)
     
-*  [![lady gaga](https://www.women.com/img/gallery/taylor-swifts-sharp-defense-of-lady-gaga-amid-pregnancy-rumors-has-everyone-saying-the-same-thing/intro-1717689518.jpg)](https://www.women.com/1597289/taylor-swift-defense-lady-gaga-pregnancy-rumors-everyone-saying-same-thing/)
-    
-    [Wellness](https://www.women.com/category/wellness/)
-    
-    [Wellness](https://www.women.com/category/wellness/) By Amanda Chatel
-    
-    ### [Taylor Swift's Sharp Defense Of Lady Gaga Amid Pregnancy Rumors Has Everyone Saying The Same Thing](https://www.women.com/1597289/taylor-swift-defense-lady-gaga-pregnancy-rumors-everyone-saying-same-thing/)
-    
-    Taylor Swift's takedown of Lady Gaga's body shamers reminds us of how much work we still need to do by way of promoting body neutrality.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1597289/taylor-swift-defense-lady-gaga-pregnancy-rumors-everyone-saying-same-thing/)
-    
-*  [![Hailey Bieber with feathered brows](https://www.women.com/img/gallery/natural-feathered-brows-are-going-to-be-your-go-to-look-for-summer-2024/intro-1717444445.jpg)](https://www.women.com/1595840/natural-feathered-brows-summer-2024-trend/)
-    
-    [Beauty](https://www.women.com/category/beauty/)
-    
-    [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
-    
-    ### [Natural Feathered Brows Are Going To Be Your Go-To Look For Summer 2024](https://www.women.com/1595840/natural-feathered-brows-summer-2024-trend/)
-    
-    Summer time is all about embracing no makeup-makeup, and there's no better way to do that than with soft, feathered eyebrows. Learn how to get the look here.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1595840/natural-feathered-brows-summer-2024-trend/)
-    
-*  [![pregnant lesbian couple](https://www.women.com/img/gallery/how-long-after-giving-birth-can-you-have-sex/intro-1717433265.jpg)](https://www.women.com/1594706/how-long-after-giving-birth-can-have-sex/)
-    
-    [Sex](https://www.women.com/category/sex-life/)
-    
-    [Sex](https://www.women.com/category/sex-life/) By Amanda Chatel
-    
-    ### [How Long After Giving Birth Can You Have Sex?](https://www.women.com/1594706/how-long-after-giving-birth-can-have-sex/)
-    
-    Giving birth takes a physical and emotional toll, so how long should you wait before having sex again? If you feel ready, there are a few factors to consider.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1594706/how-long-after-giving-birth-can-have-sex/)
-    
-*  [![Zendaya posing](https://www.women.com/img/gallery/zendaya-is-pioneering-the-low-rise-skirt-trend/intro-1717385207.jpg)](https://www.women.com/1594643/zendaya-low-rise-skirt-trend/)
-    
-    [Fashion](https://www.women.com/category/fashion/)
-    
-    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
-    
-    ### [Zendaya Is Pioneering The Low-Rise Skirt Trend](https://www.women.com/1594643/zendaya-low-rise-skirt-trend/)
-    
-    Low-rise skirts are the newest addition to the Y2K fashion revival, with Zendaya and other celebs rocking midi and maxi versions of the early 2000s trend.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1594643/zendaya-low-rise-skirt-trend/)
-    
-*  [![Nails with white spots](https://www.women.com/img/gallery/heres-what-it-means-if-you-have-white-spots-on-your-nails/intro-1717604045.jpg)](https://www.women.com/1581121/what-means-white-spots-on-nails/)
-    
-    [Beauty](https://www.women.com/category/beauty/)
-    
-    [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
-    
-    ### [Here's What It Means If You Have White Spots On Your Nails](https://www.women.com/1581121/what-means-white-spots-on-nails/)
-    
-    Although white spots on nails are usually harmless, they can be indicative of more serious issues.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1581121/what-means-white-spots-on-nails/)
-    
-*  [![Julia Fox](https://www.women.com/img/gallery/julia-fox-hasnt-had-sex-in-over-2-years-heres-why/intro-1716828711.jpg)](https://www.women.com/1590018/julia-fox-celibacy-sex-explained/)
-    
-    [Sex](https://www.women.com/category/sex-life/)
-    
-    [Sex](https://www.women.com/category/sex-life/) By Amanda Chatel
-    
-    ### [Julia Fox Hasn't Had Sex In Over 2 Years — Here's Why](https://www.women.com/1590018/julia-fox-celibacy-sex-explained/)
-    
-    While Julia Fox's announcement might shock some, she's not alone. In fact, she's inspiring a wave of women to follow her lead.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1590018/julia-fox-celibacy-sex-explained/)
-    
-*  [![woman on plane](https://www.women.com/img/gallery/unfortunately-you-should-never-leggings-on-a-plane-heres-why/intro-1717185179.jpg)](https://www.women.com/1593782/never-wear-leggings-airplane/)
-    
-    [Fashion](https://www.women.com/category/fashion/)
-    
-    [Fashion](https://www.women.com/category/fashion/) By Amanda Chatel
-    
-    ### [Here's Why You Should Think Twice Before You Wear Leggings On A Plane](https://www.women.com/1593782/never-wear-leggings-airplane/)
-    
-    While there's no denying the ease of wearing leggings on a travel day, it turns out the extra comfort may not be worth the risk.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1593782/never-wear-leggings-airplane/)
-    
-*  [![Wrapped in pride flag](https://www.women.com/img/gallery/6-movies-and-tv-shows-that-best-represent-coming-out-lgbtq-later-in-life/intro-1717102943.jpg)](https://www.women.com/1592876/movies-that-represent-experience-coming-out-lgbtq-later-in-life/)
+*  [![lesbians embracing in bed](https://www.women.com/img/gallery/6-of-the-steamiest-lgbtq-sex-scenes-of-the-last-decade/intro-1717178361.jpg)](https://www.women.com/1593529/steamiest-lgbtq-sex-scenes-film/)
     
     [Politics](https://www.women.com/category/politics/)
     
-    [Politics](https://www.women.com/category/politics/) By Emily Hutchinson
+    [Politics](https://www.women.com/category/politics/) By Amanda Chatel
     
-    ### [6 Movies And TV Shows That Best Represent Coming Out As LGBTQ+ Later In Life](https://www.women.com/1592876/movies-that-represent-experience-coming-out-lgbtq-later-in-life/)
+    ### [5 Of The Steamiest LGBTQ+ Sex Scenes Of The Last Decade](https://www.women.com/1593529/steamiest-lgbtq-sex-scenes-film/)
     
-    There's no wrong time to come out, and we're looking at some of the TV shows and movies that best represent coming out a little later in life.
+    Since 2014, LGBTQ+ sex scenes in movies have seriously stepped up their game. We compiled a list of the best ones to watch this Pride month and beyond.
     
-    By Emily Hutchinson [Read More](https://www.women.com/1592876/movies-that-represent-experience-coming-out-lgbtq-later-in-life/)
+    By Amanda Chatel [Read More](https://www.women.com/1593529/steamiest-lgbtq-sex-scenes-film/)
     
-*  [![Neutral matte nails](https://www.women.com/img/gallery/yes-linen-nails-are-still-a-hot-manicure-trend-in-2024/intro-1716181436.jpg)](https://www.women.com/1585337/linen-nails-still-manicure-trend-2024/)
-    
-    [Beauty](https://www.women.com/category/beauty/)
-    
-    [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
-    
-    ### [Yes, Linen Nails Are Still A Hot Manicure Trend In 2024](https://www.women.com/1585337/linen-nails-still-manicure-trend-2024/)
-    
-    Linen nails were on everyone's mind during the great quiet luxury reign of 2023. And guess what? They're here to stay for another summer.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1585337/linen-nails-still-manicure-trend-2024/)
-    
-*  [![Taylor Swift on stage](https://www.women.com/img/gallery/every-time-taylor-swift-has-spoken-out-as-an-lgbtq-ally/intro-1716837507.jpg)](https://www.women.com/1590099/every-time-taylor-swift-spoke-out-as-lgbtq-ally/)
-    
-    [Politics](https://www.women.com/category/politics/)
-    
-    [Politics](https://www.women.com/category/politics/) By Emily Hutchinson
-    
-    ### [Every Time Taylor Swift Has Spoken Out As An LGBTQ+ Ally](https://www.women.com/1590099/every-time-taylor-swift-spoke-out-as-lgbtq-ally/)
-    
-    Taylor Swift knows that shade never made anybody less gay -- so much that she often makes important moves to ensure everybody feels seen and equal.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1590099/every-time-taylor-swift-spoke-out-as-lgbtq-ally/)
-    
-*  [![woman getting manicure](https://www.women.com/img/gallery/muted-pastels-are-the-perfect-summer-2024-nail-trend/intro-1715010845.jpg)](https://www.women.com/1576400/muted-pastels-summer-2024-nail-trend/)
-    
-    [Beauty](https://www.women.com/category/beauty/)
-    
-    [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
-    
-    ### [Muted Pastels Are The Perfect Summer 2024 Nail Trend](https://www.women.com/1576400/muted-pastels-summer-2024-nail-trend/)
-    
-    With "butter nails" still trending, more muted pastels are on their way for summer 2024. But you can still put a creative twist on this subtle look.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1576400/muted-pastels-summer-2024-nail-trend/)
-    
-*  [![Yunha Kim](https://www.women.com/img/gallery/heres-what-went-down-with-simple-habit-after-shark-tank-62-air-date/intro-1717099534.jpg)](https://www.women.com/1592792/what-went-down-simple-habit-after-shark-tank/)
-    
-    [Living](https://www.women.com/category/living/)
-    
-    [Living](https://www.women.com/category/living/) By Amanda Chatel
-    
-    ### [Here's What Went Down With Simple Habit After Shark Tank](https://www.women.com/1592792/what-went-down-simple-habit-after-shark-tank/)
-    
-    Yunha Kim's meditation app company may have been about relaxation, but her Shark Tank experience was anything but peaceful.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1592792/what-went-down-simple-habit-after-shark-tank/)
-    
-*  [![Woman with a bell-bottom bob](https://www.women.com/img/gallery/the-bell-bottom-bob-is-the-flippy-flirty-haircut-of-the-moment/intro-1717082640.jpg)](https://www.women.com/1592467/bell-bottom-bob-flippy-flirty-haircut/)
+*  [![Beach nails](https://www.women.com/img/gallery/5-beachy-nail-designs-for-the-perfect-summer-2024-mani/intro-1717188794.jpg)](https://www.women.com/1594898/beachy-nail-designs-summer-2024/)
     
     [Beauty](https://www.women.com/category/beauty/)
     
     [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
     
-    ### [The Bell-Bottom Bob Is The Flippy And Flirty Haircut Of The Moment](https://www.women.com/1592467/bell-bottom-bob-flippy-flirty-haircut/)
+    ### [5 Beachy Nail Designs For The Perfect Summer 2024 Mani](https://www.women.com/1594898/beachy-nail-designs-summer-2024/)
     
-    Drawing inspiration from the late '60s and '70s, the bell-bottom bob gives short hair a cool vintage vibe. Here are our favorite variations of the look.
+    Looking for the perfect vacation nails? Embrace the relaxing vibes of the summer with these beachy manicure ideas.
     
-    By Emily Hutchinson [Read More](https://www.women.com/1592467/bell-bottom-bob-flippy-flirty-haircut/)
-    
-*  [![Shiloh Jolie-Pitt with short hair](https://www.women.com/img/gallery/we-cant-get-over-shiloh-jolie-pitts-stunning-hair-transformation/intro-1717173059.jpg)](https://www.women.com/1593424/we-cant-get-over-shiloh-jolie-pitt-stunning-hair-transformation/)
-    
-    [Beauty](https://www.women.com/category/beauty/)
-    
-    [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
-    
-    ### [We Can't Get Over Shiloh Jolie's Stunning Hair Transformation](https://www.women.com/1593424/we-cant-get-over-shiloh-jolie-pitt-stunning-hair-transformation/)
-    
-    Shiloh Jolie has never been afraid to experiment with her style, and that's reflected in her hair. We're looking back at how her look has changed.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1593424/we-cant-get-over-shiloh-jolie-pitt-stunning-hair-transformation/)
-    
-*  [![bunny and bow arm tattoo](https://www.women.com/img/gallery/the-coquette-trend-is-coming-for-your-tattoos-in-2024/intro-1716917589.jpg)](https://www.women.com/1590742/coquette-trend-tattoos-2024/)
-    
-    [Beauty](https://www.women.com/category/beauty/)
-    
-    [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
-    
-    ### [The Coquette Trend Is Coming For Your Tattoos In 2024](https://www.women.com/1590742/coquette-trend-tattoos-2024/)
-    
-    After dominating hair and fashion trends in 2023, coquette is back to take over a more permanent aspect of our look: tattoos.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1590742/coquette-trend-tattoos-2024/)
-    
-*  [![woman construction worker](https://www.women.com/img/gallery/the-viral-watch-me-cook-tiktok-trend-is-the-fiery-clap-back-we-all-need/intro-1717434221.jpg)](https://www.women.com/1593866/tiktok-watch-me-cook-trend-fiery-clapback-we-need/)
-    
-    [News](https://www.women.com/category/news/)
-    
-    [News](https://www.women.com/category/news/) By Bernadette Roe
-    
-    ### [The Viral Watch Me Cook TikTok Trend Is The Fiery Clap Back We All Need](https://www.women.com/1593866/tiktok-watch-me-cook-trend-fiery-clapback-we-need/)
-    
-    Across TikTok, women are slamming a viral video promoting outdated beliefs about gender in the best way possible: By showing off their successes.
-    
-    By Bernadette Roe [Read More](https://www.women.com/1593866/tiktok-watch-me-cook-trend-fiery-clapback-we-need/)
-    
-*  [![Woman with blue eyeshadow ](https://www.women.com/img/gallery/5-90s-beauty-trends-we-need-to-bring-back-and-5-that-can-stay-in-the-past/intro-1715434819.jpg)](https://www.women.com/1580297/90s-beauty-trends-bring-back-or-stay-past/)
-    
-    [Beauty](https://www.women.com/category/beauty/)
-    
-    [Beauty](https://www.women.com/category/beauty/) By Bernadette Roe
-    
-    ### [5 '90s Beauty Trends We Need To Bring Back (And 5 That Can Stay In The Past)](https://www.women.com/1580297/90s-beauty-trends-bring-back-or-stay-past/)
-    
-    There are several stunning '90s beauty trends that we need to bring back! However, there are also quite few that need to stay back in the '90s.
-    
-    By Bernadette Roe [Read More](https://www.women.com/1580297/90s-beauty-trends-bring-back-or-stay-past/)
-    
-*  [![Woman reading a book](https://www.women.com/img/gallery/5-lgbtq-romance-books-to-have-on-your-radar/intro-1716933137.jpg)](https://www.women.com/1592597/lgbtq-romance-books-have-on-radar-2024/)
-    
-    [Politics](https://www.women.com/category/politics/)
-    
-    [Politics](https://www.women.com/category/politics/) By Emily Hutchinson
-    
-    ### [5 LGBTQ+ Romance Books To Have On Your Radar In 2024](https://www.women.com/1592597/lgbtq-romance-books-have-on-radar-2024/)
-    
-    From second-chance relationships to enemies-to-lovers, these queer romance stories will have you feeling the love during Pride month and beyond.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1592597/lgbtq-romance-books-have-on-radar-2024/)
-    
-*  [![Woman applying blush](https://www.women.com/img/gallery/boyfriend-blush-is-the-cheekiest-makeup-trend-of-2024/intro-1714317791.jpg)](https://www.women.com/1571450/boyfriend-blush-cheekiest-makeup-trend-2024/)
-    
-    [Beauty](https://www.women.com/category/beauty/)
-    
-    [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
-    
-    ### ['Boyfriend Blush' Is The Cheekiest Makeup Trend Of 2024](https://www.women.com/1571450/boyfriend-blush-cheekiest-makeup-trend-2024/)
-    
-    Is "boyfriend blush" the next hottest 2024 trend? Here, we explain the effects of this technique and how to apply it according to your face shape.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1571450/boyfriend-blush-cheekiest-makeup-trend-2024/)
-    
-*  [![Kate Middleton smiling](https://www.women.com/img/gallery/kate-middleton-co-signs-the-denim-trend-that-will-never-die-skinny-jeans/intro-1715431078.jpg)](https://www.women.com/1580261/kate-middleton-denim-trend-skinny-jeans/)
-    
-    [Fashion](https://www.women.com/category/fashion/)
-    
-    [Fashion](https://www.women.com/category/fashion/) By Bernadette Roe
-    
-    ### [Kate Middleton Co-Signs The Denim Trend That Will Never Die: Skinny Jeans](https://www.women.com/1580261/kate-middleton-denim-trend-skinny-jeans/)
-    
-    Although wide leg jeans are dominating the fashion industry right now, Kate Middleton demonstrates how the skinny jean trend is a timeless look.
-    
-    By Bernadette Roe [Read More](https://www.women.com/1580261/kate-middleton-denim-trend-skinny-jeans/)
-    
-*  [![Yellow bee nails](https://www.women.com/img/gallery/upgrade-your-butter-yellow-nails-for-summer-2024-with-these-sunny-designs/intro-1716405430.jpg)](https://www.women.com/1587520/butter-yellow-nail-ideas-summer-2024/)
-    
-    [Beauty](https://www.women.com/category/beauty/)
-    
-    [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
-    
-    ### [Upgrade Your Butter Yellow Nails For Summer 2024 With These Sunny Designs](https://www.women.com/1587520/butter-yellow-nail-ideas-summer-2024/)
-    
-    According to social media, the butter yellow trend is here to stay for another season. Here is how to give it a sunny upgrade for summer 2024.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1587520/butter-yellow-nail-ideas-summer-2024/)
-    
-*  [![woman with scarf sunglasses](https://www.women.com/img/gallery/timeless-sophistication-is-the-2024-fashion-trend-with-staying-power/intro-1715004813.jpg)](https://www.women.com/1576332/timeless-sophistication-2024-fashion-trend/)
-    
-    [Fashion](https://www.women.com/category/fashion/)
-    
-    [Fashion](https://www.women.com/category/fashion/) By Amanda Chatel
-    
-    ### [Timeless Sophistication Is The 2024 Fashion Trend With Staying Power](https://www.women.com/1576332/timeless-sophistication-2024-fashion-trend/)
-    
-    Elegant, classy looks are trending on runways in 2024, inspired by the timeless style of '50s and '60s fashion icons like Audrey Hepburn and Jackie Kennedy.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1576332/timeless-sophistication-2024-fashion-trend/)
-    
-*  [![Beyonce at an event ](https://www.women.com/img/gallery/the-texas-french-manicure-is-beyonces-go-to-cowboy-carter-nail-look/intro-1716331708.jpg)](https://www.women.com/1587531/texas-french-manicure-beyonce-cowboy-carter-nail-look/)
-    
-    [Beauty](https://www.women.com/category/beauty/)
-    
-    [Beauty](https://www.women.com/category/beauty/) By Bernadette Roe
-    
-    ### [The Texas French Manicure Is Beyonce's Go-To Cowboy Carter Nail Look](https://www.women.com/1587531/texas-french-manicure-beyonce-cowboy-carter-nail-look/)
-    
-    Beyonce's take on the classic nail look really embraces the saying 'everything is bigger in Texas.' Here's how to make the rhinestone-studded mani your own.
-    
-    By Bernadette Roe [Read More](https://www.women.com/1587531/texas-french-manicure-beyonce-cowboy-carter-nail-look/)
-    
-*  [![model in copenhagen blouse](https://www.women.com/img/gallery/the-copenhagen-blouse-is-poised-to-be-summer-2024s-hottest-trend/intro-1716228897.jpg)](https://www.women.com/1585855/copenhagen-blouse-summer-2024-hottest-trend/)
-    
-    [Fashion](https://www.women.com/category/fashion/)
-    
-    [Fashion](https://www.women.com/category/fashion/) By Amanda Chatel
-    
-    ### [The Copenhagen Blouse Is Poised To Be Summer 2024's Hottest Trend](https://www.women.com/1585855/copenhagen-blouse-summer-2024-hottest-trend/)
-    
-    With its flowy structure and feminine tie clasp, the Copenhagen blouse is ideal for wearing to all your vacations this summer.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1585855/copenhagen-blouse-summer-2024-hottest-trend/)
-    
-*  [![Woman bored in bed](https://www.women.com/img/gallery/struggling-with-receiving-oral-sex-our-tips-to-communicate-with-your-partner/intro-1716320879.jpg)](https://www.women.com/1586691/struggling-receiving-oral-sex-tips-communicate-partner/)
-    
-    [Exclusives](https://www.women.com/category/exclusives/)
-    
-    [Exclusives](https://www.women.com/category/exclusives/) By Amanda Chatel
-    
-    ### [Struggling With Receiving Oral Sex? Our Tips To Communicate With Your Partner](https://www.women.com/1586691/struggling-receiving-oral-sex-tips-communicate-partner/)
-    
-    For some people, receiving oral sex inspires more dread than pleasure. But, according to our expert, there are ways to make the experience more pleasant.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1586691/struggling-receiving-oral-sex-tips-communicate-partner/)
-    
-*  [![Woman smelling her underarms](https://www.women.com/img/gallery/heres-what-would-happen-if-you-just-stopped-showering/intro-1708482849.jpg)](https://www.women.com/1522491/what-would-happen-stopped-showering/)
-    
-    [Wellness](https://www.women.com/category/wellness/)
-    
-    [Wellness](https://www.women.com/category/wellness/) By Kate St. Louis
-    
-    ### [Here's What Would Happen If You Stopped Showering](https://www.women.com/1522491/what-would-happen-stopped-showering/)
-    
-    It turns out foregoing a daily shower routine can have a serious impact on your skin, hair, and overall health. Here's what to know.
-    
-    By Kate St. Louis [Read More](https://www.women.com/1522491/what-would-happen-stopped-showering/)
+    By Emily Hutchinson [Read More](https://www.women.com/1594898/beachy-nail-designs-summer-2024/)
     
 
 Back
