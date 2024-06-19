@@ -1,3 +1,5 @@
+[**Burp Suite Enterprise Edition is now available in our secure Cloud**  –  Learn more](https://portswigger.net/blog/introducing-dast-scanning-in-the-cloud-with-burp-suite-enterprise-edition)
+
 [](https://portswigger.net/)
 
 [Login](https://portswigger.net/users)
