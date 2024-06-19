@@ -149,7 +149,9 @@ Privacy Notice
 
 [](# "More")
 
-[![privacy](https://e4k4c4x9.rocketcdn.me/en/wp-content/uploads/sites/15/2019/11/privacy-696x464.jpg "privacy")](https://e4k4c4x9.rocketcdn.me/en/wp-content/uploads/sites/15/2019/11/privacy.jpg)
+[![privacy](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20696%20464'%3E%3C/svg%3E "privacy")
+
+![privacy](https://e4k4c4x9.rocketcdn.me/en/wp-content/uploads/sites/15/2019/11/privacy-696x464.jpg "privacy")](https://e4k4c4x9.rocketcdn.me/en/wp-content/uploads/sites/15/2019/11/privacy.jpg)
 
 ### UNITED NATIONS’ PRIVACY NOTICE
 
@@ -161,42 +163,52 @@ The information will be used internally only for web site traffic analysis. If t
 
 #### Latest News
 
- [![Latest UNRIC Library Newsletter](https://e4k4c4x9.rocketcdn.me/en/wp-content/uploads/sites/15/2019/11/latest-library-info-point-newsletter-banner-100x70.jpg)](https://unric.org/en/unric-info-point-library-newsletter-may-2024/ "UNRIC Info Point & Library Newsletter: May 2024")
+  [![Latest UNRIC Library Newsletter](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%2070'%3E%3C/svg%3E)
+
+ ![Latest UNRIC Library Newsletter](https://e4k4c4x9.rocketcdn.me/en/wp-content/uploads/sites/15/2019/11/latest-library-info-point-newsletter-banner-100x70.jpg)](https://unric.org/en/unric-info-point-library-newsletter-june-2024/ "UNRIC Info Point & Library Newsletter: June 2024")
+
+### [UNRIC Info Point & Library Newsletter: June 2024](https://unric.org/en/unric-info-point-library-newsletter-june-2024/ "UNRIC Info Point & Library Newsletter: June 2024")
+
+11/06/2024
+
+  [![Latest UNRIC Library Newsletter](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%2070'%3E%3C/svg%3E)
+
+ ![Latest UNRIC Library Newsletter](https://e4k4c4x9.rocketcdn.me/en/wp-content/uploads/sites/15/2019/11/latest-library-info-point-newsletter-banner-100x70.jpg)](https://unric.org/en/unric-info-point-library-newsletter-may-2024/ "UNRIC Info Point & Library Newsletter: May 2024")
 
 ### [UNRIC Info Point & Library Newsletter: May 2024](https://unric.org/en/unric-info-point-library-newsletter-may-2024/ "UNRIC Info Point & Library Newsletter: May 2024")
 
 10/05/2024
 
- [![World Press Freedom Day cover image of a typewriter spelling out the right to write](https://e4k4c4x9.rocketcdn.me/en/wp-content/uploads/sites/15/2024/05/wpfd-100x70.jpg)](https://unric.org/en/world-press-freedom-day-2024-journalism-in-the-face-of-the-environmental-crisis/ "World Press Freedom Day 2024: Journalism in the face of the environmental crisis")
+  [![World Press Freedom Day cover image of a typewriter spelling out the right to write](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%2070'%3E%3C/svg%3E)
+
+ ![World Press Freedom Day cover image of a typewriter spelling out the right to write](https://e4k4c4x9.rocketcdn.me/en/wp-content/uploads/sites/15/2024/05/wpfd-100x70.jpg)](https://unric.org/en/world-press-freedom-day-2024-journalism-in-the-face-of-the-environmental-crisis/ "World Press Freedom Day 2024: Journalism in the face of the environmental crisis")
 
 ### [World Press Freedom Day 2024: Journalism in the face of the...](https://unric.org/en/world-press-freedom-day-2024-journalism-in-the-face-of-the-environmental-crisis/ "World Press Freedom Day 2024: Journalism in the face of the environmental crisis")
 
 03/05/2024
 
- [![Petersberg climate dialogue logo on top of climate change image of dried lake](https://e4k4c4x9.rocketcdn.me/en/wp-content/uploads/sites/15/2024/04/petersberg-climate-dialogue-100x70.jpg)](https://unric.org/en/high-level-preparatory-meeting-for-cop29-petersberg-climate-dialogue-2024-in-germany/ "High-Level Preparatory Meeting for COP29: Petersberg Climate Dialogue 2024 in Germany")
+  [![Petersberg climate dialogue logo on top of climate change image of dried lake](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%2070'%3E%3C/svg%3E)
+
+ ![Petersberg climate dialogue logo on top of climate change image of dried lake](https://e4k4c4x9.rocketcdn.me/en/wp-content/uploads/sites/15/2024/04/petersberg-climate-dialogue-100x70.jpg)](https://unric.org/en/high-level-preparatory-meeting-for-cop29-petersberg-climate-dialogue-2024-in-germany/ "High-Level Preparatory Meeting for COP29: Petersberg Climate Dialogue 2024 in Germany")
 
 ### [High-Level Preparatory Meeting for COP29: Petersberg Climate Dialogue 2024 in Germany](https://unric.org/en/high-level-preparatory-meeting-for-cop29-petersberg-climate-dialogue-2024-in-germany/ "High-Level Preparatory Meeting for COP29: Petersberg Climate Dialogue 2024 in Germany")
 
 26/04/2024
 
- [![Image of Madrid city centre showing high-rise buildings and streets.](https://e4k4c4x9.rocketcdn.me/en/wp-content/uploads/sites/15/2024/04/Madrid-climate-neutral-city-2030-100x70.jpg)](https://unric.org/en/the-33-european-cities-on-track-to-achieve-climate-neutrality-in-2030/ "The 33 European cities on track to achieve climate neutrality in 2030 ")
+  [![Image of Madrid city centre showing high-rise buildings and streets.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%2070'%3E%3C/svg%3E)
+
+ ![Image of Madrid city centre showing high-rise buildings and streets.](https://e4k4c4x9.rocketcdn.me/en/wp-content/uploads/sites/15/2024/04/Madrid-climate-neutral-city-2030-100x70.jpg)](https://unric.org/en/the-33-european-cities-on-track-to-achieve-climate-neutrality-in-2030/ "The 33 European cities on track to achieve climate neutrality in 2030 ")
 
 ### [The 33 European cities on track to achieve climate neutrality in...](https://unric.org/en/the-33-european-cities-on-track-to-achieve-climate-neutrality-in-2030/ "The 33 European cities on track to achieve climate neutrality in 2030 ")
 
 25/04/2024
 
- [![An aerial view of the severe flooding in Emilia-Romagna, Italy, May 2023](https://e4k4c4x9.rocketcdn.me/en/wp-content/uploads/sites/15/2024/04/floods-italy-climate-100x70.jpg)](https://unric.org/en/2023-a-year-of-climate-contrasts-in-europe/ "2023, a year of climate contrasts in Europe")
-
-### [2023, a year of climate contrasts in Europe](https://unric.org/en/2023-a-year-of-climate-contrasts-in-europe/ "2023, a year of climate contrasts in Europe")
-
-22/04/2024
-
 [Load more](#)
 
 #### Publications
 
-* [June 2024](https://unric.org/en/2024/06/) (8)
-* [May 2024](https://unric.org/en/2024/05/) (27)
+* [June 2024](https://unric.org/en/2024/06/) (24)
+* [May 2024](https://unric.org/en/2024/05/) (26)
 * [April 2024](https://unric.org/en/2024/04/) (33)
 * [March 2024](https://unric.org/en/2024/03/) (54)
 * [February 2024](https://unric.org/en/2024/02/) (36)
