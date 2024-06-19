@@ -70,6 +70,10 @@ Search
 
 Search
 
+#### Breaking News
+
+[Justin Timberlake's mugshot reveals singer's bloodshot, glassy eyes moments after DWI arrest in Hamptons](https://nypost.com/2024/06/18/us-news/justin-timberlakes-mugshot-reveals-singers-bloodshot-glassy-eyes-moments-after-dwi-arrest-in-hamptons/)
+
 Privacy Notice Highlights
 =========================
 
