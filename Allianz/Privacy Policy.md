@@ -35,13 +35,11 @@
         * [Brand in action](https://www.allianz.com/en/about-us/brand/brand-in-action.html)
         * [Acting sustainably](https://www.allianz.com/en/about-us/brand/acting-sustainably.html)
         * [Partnerships](https://www.allianz.com/en/about-us/brand/partnerships.html)
-    * [![sustainability](/content/experience-fragments/onemarketing/azcom/Allianz_com/en_GB/azcom_header/flyout_teaser/sustainability/master/_jcr_content/root/teaser-horizontal/image.img.jpeg/1718293532816/flooding-in-southern-germany.jpeg)
+    * [![](/content/experience-fragments/onemarketing/azcom/Allianz_com/en_GB/azcom_header/flyout_teaser/about-us/master3/_jcr_content/root/teaser-horizontal/image.img.jpeg/1718709886965/flooding-in-germany-teaser.jpeg)
         
-        Jun 06, 2024
+        ### "We're there for you in Wertingen"
         
-        ### Floods in southern Germany - Allianz donates up to two million euros to rescue and relief services
-        
-        More](https://www.allianz.com/en/press/news/commitment/community/240606-allianz-donates-up-to-two-million-euros-to-rescue-and-relief-services.html)
+        Watch video](https://youtu.be/l8DdoRasX9E)
         
     
 * [Investor Relations](https://www.allianz.com/en/investor_relations.html)
@@ -111,9 +109,7 @@
         * [Financial Literacy](https://www.allianz.com/en/economic_research/sustainability-research/financialliteracy.html)
         * [Road to Paris 2024](https://www.allianz.com/en/about-us/brand/partnerships/olympic-paralympic-movements/road-to-paris-2024.html)
         * [Floods in southern Germany](https://www.allianz.com/en/press/topics/floods-in-southern-germany.html)
-    * [![sustainability](/content/experience-fragments/onemarketing/azcom/Allianz_com/en_GB/azcom_header/flyout_teaser/sustainability/master/_jcr_content/root/teaser-horizontal/image.img.jpeg/1718293532816/flooding-in-southern-germany.jpeg)
-        
-        Jun 06, 2024
+    * [![sustainability](/content/experience-fragments/onemarketing/azcom/Allianz_com/en_GB/azcom_header/flyout_teaser/sustainability/master/_jcr_content/root/teaser-horizontal/image.img.jpeg/1718639590478/flooding-in-southern-germany.jpeg)
         
         ### Floods in southern Germany - Allianz donates up to two million euros to rescue and relief services
         
@@ -154,9 +150,7 @@
         * [How we do business sustainably](https://www.allianz.com/en/sustainability/ratings/business.html)
     * [Sustainability Report & other publications](https://www.allianz.com/en/sustainability/sustainability-report-and-other-publications.html)
         * [Sustainability in the spotlight](https://www.allianz.com/en/sustainability/sustainability-report-and-other-publications/spotlight-on-sustainability.html)
-    * [![sustainability](/content/experience-fragments/onemarketing/azcom/Allianz_com/en_GB/azcom_header/flyout_teaser/sustainability/master/_jcr_content/root/teaser-horizontal/image.img.jpeg/1718293532816/flooding-in-southern-germany.jpeg)
-        
-        Jun 06, 2024
+    * [![sustainability](/content/experience-fragments/onemarketing/azcom/Allianz_com/en_GB/azcom_header/flyout_teaser/sustainability/master/_jcr_content/root/teaser-horizontal/image.img.jpeg/1718639590478/flooding-in-southern-germany.jpeg)
         
         ### Floods in southern Germany - Allianz donates up to two million euros to rescue and relief services
         
