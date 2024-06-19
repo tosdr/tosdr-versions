@@ -12,6 +12,7 @@
     *  [![Museums & Libraries icon](https://www.thinglink.com/gfx/pages16/icons/navbar/museums_libraries.svg) Museums & Libraries](https://www.thinglink.com/museums-and-libraries)
     *  [![Healthcare icon](https://www.thinglink.com/gfx/pages16/icons/navbar/healthcare.svg) Healthcare](https://www.thinglink.com/healthcare)
     *  [![Water Industry icon](https://www.thinglink.com/gfx/pages16/icons/navbar/water.svg) Water Industry](https://www.thinglink.com/water-industry)
+    *  [![Manufacturing icon](https://www.thinglink.com/gfx/pages16/icons/navbar/manufacturing.svg) Manufacturing](https://www.thinglink.com/manufacturing)
     * Education
     *  [![Teachers & Schools icon](https://www.thinglink.com/gfx/pages16/icons/navbar/teachers_schools.svg) Teachers & Schools](https://www.thinglink.com/edu)
     *  [![Higher Education icon](https://www.thinglink.com/gfx/pages16/icons/navbar/higher_education.svg) Higher Education](https://www.thinglink.com/higher-education)
@@ -31,7 +32,7 @@
 
 * [Solutions](#)
     
-    Business/Public Sector [![Enterprise & Employee Training icon](https://www.thinglink.com/gfx/pages16/icons/navbar/employee_training.svg) Enterprise & Employee Training](https://www.thinglink.com/enterprise) [![Marketing icon](https://www.thinglink.com/gfx/pages16/icons/navbar/marketing.svg) Marketing & Communications](https://www.thinglink.com/business) [![Museums & Libraries icon](https://www.thinglink.com/gfx/pages16/icons/navbar/museums_libraries.svg) Museums & Libraries](https://www.thinglink.com/museums-and-libraries) [![Healthcare icon](https://www.thinglink.com/gfx/pages16/icons/navbar/healthcare.svg) Healthcare](https://www.thinglink.com/healthcare) [![Water Industry icon](https://www.thinglink.com/gfx/pages16/icons/navbar/water.svg) Water Industry](https://www.thinglink.com/water-industry)
+    Business/Public Sector [![Enterprise & Employee Training icon](https://www.thinglink.com/gfx/pages16/icons/navbar/employee_training.svg) Enterprise & Employee Training](https://www.thinglink.com/enterprise) [![Marketing icon](https://www.thinglink.com/gfx/pages16/icons/navbar/marketing.svg) Marketing & Communications](https://www.thinglink.com/business) [![Museums & Libraries icon](https://www.thinglink.com/gfx/pages16/icons/navbar/museums_libraries.svg) Museums & Libraries](https://www.thinglink.com/museums-and-libraries) [![Healthcare icon](https://www.thinglink.com/gfx/pages16/icons/navbar/healthcare.svg) Healthcare](https://www.thinglink.com/healthcare) [![Water Industry icon](https://www.thinglink.com/gfx/pages16/icons/navbar/water.svg) Water Industry](https://www.thinglink.com/water-industry) [![Manufacturing icon](https://www.thinglink.com/gfx/pages16/icons/navbar/manufacturing.svg) Manufacturing](https://www.thinglink.com/manufacturing)
     
     Education [![Teachers & Schools icon](https://www.thinglink.com/gfx/pages16/icons/navbar/teachers_schools.svg) Teachers & Schools](https://www.thinglink.com/edu) [![Higher Education icon](https://www.thinglink.com/gfx/pages16/icons/navbar/higher_education.svg) Higher Education](https://www.thinglink.com/higher-education) [![Vocational Schools icon](https://www.thinglink.com/gfx/pages16/icons/navbar/vocational_schools.svg) Vocational Schools](https://www.thinglink.com/vocational-schools) [![Certified Trainers Program icon](https://www.thinglink.com/gfx/pages16/icons/navbar/certified.svg) Certified Trainers Program](https://www.thinglink.com/certified-trainers)
     
@@ -136,7 +137,7 @@ Sign up
 
  OR
 
-[Login with Microsoft](https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=5a5c866c-0105-4bc4-ae0d-3e995d07a028&response_type=id_token+code&nonce=VCpZT6DE4YBM53kuSTBEkR&scope=openid%20profile%20email%20User.Read&response_mode=form_post&redirect_uri=https://www.thinglink.com/action/azurelogin&state=r:/aup "Login with Microsoft.")   [](# "Login with Google.")42OVTbQv7IPUCOsgkxcJMtj8uej6VcnH31BFp0TZul8gHblpCfFvkd-cAOizCSdg
+[Login with Microsoft](https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=5a5c866c-0105-4bc4-ae0d-3e995d07a028&response_type=id_token+code&nonce=9KfGZHtR6uYRqvEJFMUgQG&scope=openid%20profile%20email%20User.Read&response_mode=form_post&redirect_uri=https://www.thinglink.com/action/azurelogin&state=r:/aup "Login with Microsoft.")   [](# "Login with Google.")gQz26FQO9NX63RXx1HuVe0D82MDxDNkanvsKcY\_drOpWVCqqoCg9p9-cAOizCSdg
 
   [](#)[Login with Clever](https://clever.com/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Fwww.thinglink.com%2Faction%2Fcleverlogin&client_id=35ec47d01b85ff7bf80d "Login with Clever.") [Login with Facebook](https://www.facebook.com/dialog/oauth?client_id=163019823751039&scope=email&redirect_uri=https://www.thinglink.com/action/fblogin&state=r:/aup "Login with Facebook.") [Login with X](https://www.thinglink.com/action/twitter_login?destination=/aup "Login with X")
 
