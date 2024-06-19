@@ -202,8 +202,8 @@ Or:
 * [![](https://www.nationalgeographic.org/wp-content/uploads/2019/08/credit-Paul-Nicklen_cc3F_2688159-scaled-e1635701147793-400x400.jpg)](https://www.nationalgeographic.org/society/our-focus/land/)
 * [![](https://www.nationalgeographic.org/wp-content/uploads/2021/10/credit-Ami-Vitale_ccO3C_2655098-1-400x400.jpg)](https://www.nationalgeographic.org/society/our-focus/wildlife/)
 * [![](https://www.nationalgeographic.org/wp-content/uploads/2021/10/credit-Christian-Tryon_ccMS_2349133-400x400.jpg)](https://www.nationalgeographic.org/society/our-focus/human-histories-and-cultures/)
-* [![](https://www.nationalgeographic.org/wp-content/uploads/2021/10/2001_timline-date-2006-photo-date-Meave-Leakey-credit-KENNETH-GARRETT-NationalGeographic_1013707-scaled-e1635696004513-400x400.jpg)](https://www.nationalgeographic.org/society/our-focus/human-ingenuity/)
-* [![](https://www.nationalgeographic.org/wp-content/uploads/2021/10/Diverse_Explorers_Thumb-400x400.jpg)](https://www.nationalgeographic.org/society/our-explorers/)
+* [![](https://www.nationalgeographic.org/wp-content/uploads/2024/05/NS243017_CP-FYP22_21072022_07889_credit-Lujan-Agusti-400x400.jpg)](https://www.nationalgeographic.org/society/our-focus/planetary-health/)
+* [![](https://www.nationalgeographic.org/wp-content/uploads/2024/05/cr-NASA-NationalGeographic_1090111-PD-400x400.jpg)](https://www.nationalgeographic.org/society/our-focus/space/)
 
 ![National Geographic Society](https://www.nationalgeographic.org/wp-content/uploads/2021/09/National_Geographic_Logo_W.svg)
 
