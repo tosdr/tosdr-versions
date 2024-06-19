@@ -53,10 +53,6 @@
     * [Automotive](https://www.chatmeter.com/industries/automotive/)
     * [Local & Professional Services](https://www.chatmeter.com/industries/local-professional-services/)
     * [Multi-Family Housing and Real Estate](https://www.chatmeter.com/industries/multi-family/)
-* [Services](https://www.chatmeter.com/services/)
-    * [ChatExec](https://www.chatmeter.com/services/chatexec/)
-    * [Listings Management](https://www.chatmeter.com/services/listings-management/)
-    * [Customers Success and Training](https://www.chatmeter.com/services/customers-success-and-training/)
 * [Partners](https://www.chatmeter.com/partners/)
     * [Agency](https://www.chatmeter.com/partners/agency/)
 * [Resources](https://www.chatmeter.com/resources/)
@@ -88,6 +84,7 @@
     * [Customers](https://www.chatmeter.com/about-us/customers/)
     * [Careers](https://www.chatmeter.com/about-us/careers/)
     * [Newsroom](https://www.chatmeter.com/newsroom/)
+* [Pricing](https://www.chatmeter.com/pricing/)
 
 [![Chatmeter Logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
@@ -141,10 +138,6 @@
     * [Automotive](https://www.chatmeter.com/industries/automotive/)
     * [Local & Professional Services](https://www.chatmeter.com/industries/local-professional-services/)
     * [Multi-Family Housing and Real Estate](https://www.chatmeter.com/industries/multi-family/)
-* [Services](https://www.chatmeter.com/services/)
-    * [ChatExec](https://www.chatmeter.com/services/chatexec/)
-    * [Listings Management](https://www.chatmeter.com/services/listings-management/)
-    * [Customers Success and Training](https://www.chatmeter.com/services/customers-success-and-training/)
 * [Partners](https://www.chatmeter.com/partners/)
     * [Agency](https://www.chatmeter.com/partners/agency/)
 * [Resources](https://www.chatmeter.com/resources/)
@@ -176,6 +169,7 @@
     * [Customers](https://www.chatmeter.com/about-us/customers/)
     * [Careers](https://www.chatmeter.com/about-us/careers/)
     * [Newsroom](https://www.chatmeter.com/newsroom/)
+* [Pricing](https://www.chatmeter.com/pricing/)
 
 * [](https://www.chatmeter.com/?s=)
 * [Login](https://live.chatmeter.com/#/login)
