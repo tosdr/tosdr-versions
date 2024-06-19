@@ -116,7 +116,6 @@ Emailed Daily. Always Free!
 * [NHL](https://www.yardbarker.com/nhl)
     * [NHL Home](https://www.yardbarker.com/nhl)
     * [Anaheim Ducks](https://www.yardbarker.com/nhl/teams/anaheim_ducks/117)
-    * [Arizona Coyotes](https://www.yardbarker.com/nhl/teams/arizona_coyotes/120)
     * [Boston Bruins](https://www.yardbarker.com/nhl/teams/boston_bruins/97)
     * [Buffalo Sabres](https://www.yardbarker.com/nhl/teams/buffalo_sabres/98)
     * [Calgary Flames](https://www.yardbarker.com/nhl/teams/calgary_flames/112)
@@ -143,6 +142,7 @@ Emailed Daily. Always Free!
     * [St. Louis Blues](https://www.yardbarker.com/nhl/teams/st_louis_blues/111)
     * [Tampa Bay Lightning](https://www.yardbarker.com/nhl/teams/tampa_bay_lightning/105)
     * [Toronto Maple Leafs](https://www.yardbarker.com/nhl/teams/toronto_maple_leafs/101)
+    * [Utah Hockey Club](https://www.yardbarker.com/nhl/teams/utah_hockey_club/120)
     * [Vancouver Canucks](https://www.yardbarker.com/nhl/teams/vancouver_canucks/116)
     * [Vegas Golden Knights](https://www.yardbarker.com/nhl/teams/vegas_golden_knights/17347)
     * [Washington Capitals](https://www.yardbarker.com/nhl/teams/washington_capitals/106)
@@ -215,7 +215,7 @@ Emailed Daily. Always Free!
     * [UFL](https://www.yardbarker.com/ufl)
     * [WNBA](https://www.yardbarker.com/wnba)
     * [Wrestling](https://www.yardbarker.com/wrestling)
-    * [More Sports ▸](https://www.yardbarker.com/stats/sport_list/s1_127_39541233)
+    * [More Sports ▸](https://www.yardbarker.com/stats/sport_list)
     
 
 * [![](/images/icons/icon-search-white.svg)](#)
