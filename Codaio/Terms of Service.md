@@ -20,7 +20,7 @@ Docs & team hubs](https://coda.io/product/docs-and-team-hubs)[![](https://sanity
 
 Trackers & apps](https://coda.io/product/trackers-and-apps)[![](https://sanity-images.imgix.net/production/2211073f80f0830876b803441fbf249e4bdd8fc3-64x64.svg?w=42&h=42&auto=format%2Ccompress)
 
-Product updates](https://coda.io/product/updates)[See all →](https://coda.io/product)
+What's new](https://coda.io/product/whats-new)[See all →](https://coda.io/product)
 
 AI & integrations
 
@@ -92,7 +92,7 @@ Featured guide
 
 [![](https://sanity-images.imgix.net/production/ca202a0cee6eb74483fcd2957d6b867ebcc03b22-4096x2143.png?w=1200&auto=format%2Ccompress)
 
-How to build a team hub on Coda](https://coda.io/resources/guides/how-to-build-a-team-hub)[See all →](https://coda.io/resources/guides/)
+How to build a team hub on Coda](https://coda.io/resources/guides/how-to-build-a-team-hub)[See all →](https://coda.io/resources/guides)
 
 [Gallery](https://coda.io/gallery)[Blog](https://coda.io/blog)[Pricing](https://coda.io/pricing)[Request a demo](https://coda.io/contact/sales/request-a-demo)
 
