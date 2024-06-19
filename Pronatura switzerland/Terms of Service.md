@@ -118,7 +118,7 @@ Pronatura Service Navigation
 
 Pronatura Main
 
-* [Biodiversitätskrise](https://www.pronatura.ch/de/biodiversitaet)
+* [Biodiversitätskrise](https://www.pronatura.ch/de/domino)
     
     * [Fragen und Antworten](https://www.pronatura.ch/de/biodiversitaet-der-schweiz-fragen-und-antworten)
     * [Lebensräume kennenlernen](https://www.pronatura.ch/de/lebensraeume)
@@ -131,7 +131,7 @@ Pronatura Main
     * [Schutzgebiete sichern](https://www.pronatura.ch/de/schutzgebiete)
     * [Weitere Themen](https://www.pronatura.ch/de/unsere-themen)
     
-* [Mitmachen](https://www.pronatura.ch/de/ihr-engagement)
+* [Mitmachen](https://www.pronatura.ch/de/engagement)
     
     * [Freiwilligenarbeit](https://www.pronatura.ch/de/freiwilligenarbeit "Freiwilligeneinsatz bei Pro Natura hilft der Natur und macht Spass")
     * [Für Kinder & Jugendliche](https://www.pronatura.ch/de/jugend)
