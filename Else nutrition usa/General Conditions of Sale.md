@@ -1,6 +1,6 @@
 [Skip to content](#MainContent)
 
-[Join Rewards Club to Earn Rewards for Discounts with Each Purchase!](https://elsenutrition.com/pages/rewards)
+Free shipping on orders over $59
 
   [![Else Nutrition](//elsenutrition.com/cdn/shop/files/ecom-edit-image-5jvicYrjC4ecom-edit-image-3WBwVJ5TjLdaily_mail_logo.png?v=1712308943) ![Else Nutrition](//elsenutrition.com/cdn/shop/files/ecom-edit-image-5jvicYrjC4ecom-edit-image-3WBwVJ5TjLdaily_mail_logo.png?v=1712308943&width=80)](https://elsenutrition.com/)
 
@@ -16,6 +16,7 @@
     * [NEW! Vanilla Kids Ready to Drink Shake](https://elsenutrition.com/products/plant-powered-complete-nutrition-shake-ready-to-drink-vanilla)
     * [NEW! Chocolate Kids Ready to Drink Shake](https://elsenutrition.com/products/plant-powered-complete-nutrition-shake-ready-to-drink-chocolate)
     * [Kids Shakes Mix](https://elsenutrition.com/collections/kids-products)
+    * [Subscribe & Save](https://elsenutrition.com/pages/subscribe-and-save?_ab=0&key=1718277084030)
     
 * [Take the Quiz](https://else-nutrition.myshopify.com/tools/perfect-product-finder/best-product-for-you)
 * Learn
@@ -55,6 +56,7 @@ Menu
     * [NEW! Vanilla Kids Ready to Drink Shake](https://elsenutrition.com/products/plant-powered-complete-nutrition-shake-ready-to-drink-vanilla)
     * [NEW! Chocolate Kids Ready to Drink Shake](https://elsenutrition.com/products/plant-powered-complete-nutrition-shake-ready-to-drink-chocolate)
     * [Kids Shakes Mix](https://elsenutrition.com/collections/kids-products)
+    * [Subscribe & Save](https://elsenutrition.com/pages/subscribe-and-save?_ab=0&key=1718277084030)
     
 * [Take the Quiz](https://else-nutrition.myshopify.com/tools/perfect-product-finder/best-product-for-you)
 * Learn
@@ -83,6 +85,7 @@ Menu
     * [NEW! Vanilla Kids Ready to Drink Shake](https://elsenutrition.com/products/plant-powered-complete-nutrition-shake-ready-to-drink-vanilla)
     * [NEW! Chocolate Kids Ready to Drink Shake](https://elsenutrition.com/products/plant-powered-complete-nutrition-shake-ready-to-drink-chocolate)
     * [Kids Shakes Mix](https://elsenutrition.com/collections/kids-products)
+    * [Subscribe & Save](https://elsenutrition.com/pages/subscribe-and-save?_ab=0&key=1718277084030)
     
 * [Take the Quiz](https://else-nutrition.myshopify.com/tools/perfect-product-finder/best-product-for-you)
 * Learn
