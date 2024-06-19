@@ -8,7 +8,7 @@ Disconnected
 
 IP address
 
-51.77.108.160
+51.195.149.220
 
 Internet provider
 
@@ -49,143 +49,193 @@ Your internet provider can monitor what you do online.
 Privacy Policy
 ==============
 
-General
--------
+The below privacy policy is effective as of July 12, 2024. Previous policy may be found [here](https://www.ovpn.com/en/old-privacy-policy).
 
-OVPN is a service provided and developed by OVPN Integritet AB (556999-4469). OVPN Integritet AB is registered in Sweden and will henceforth be referred to as "We", "Us", "Our" and "OVPN".
+* * *
 
-OVPN is the privacy friendly VPN provider. As such, our entire infrastructure is built with privacy & security as the core principles. OVPN does not log any activity when connected to our VPN service. Therefore, we do not know who is connected to our service, what they are doing or when they are doing it. Nothing can be connected to an account:
+  
+  
 
-* no logging of traffic
-* no logging of timestamps
-* no logging of DNS requests
-* no logging of IP addresses
-* no logging of MAC addresses
-* no logging of individual user bandwidth volumes
+Last Updated: June 2024
 
-We own every single server used to run our service. All VPN servers run without any hard drives - instead we use tmpfs storage in RAM. Writing permissions for the OpenVPN processes have been removed, as well as syslogs. Our VPN servers do not support physical console access, keyboard access nor usb access.
+At OVPN Integritet AB (“**OVPN**”, “**we**”, “**our**”, or “**us**”), your privacy is of the utmost importance. In 2023, OVPN was acquired by the Pango Group (“**Pango**”). You can learn more about Pango at www.pangoholdingcompany.com
 
-Court orders
-------------
+Thank you for taking the time to read our privacy policy (the “**Privacy Policy**”). This Privacy Policy sets out how we collect, use, process, store, and disclose your personal data on https://www.ovpn.com (the “**Website**”), the OVPN app (the “**App**”), and use the OVPN products, namely, the OVPN VPN service (the Website, App, and OVPN VPN services together, the “**Services**”). We also set out certain changes being implemented in conjunction with OVPN’s acquisition by Pango. By accessing and using our Services after the advance notice and posting of this privacy policy, you freely and expressly consent to the collection, use, processing, storage, and disclosure of your personal data as set out in this Privacy Policy.
 
-OVPN can not provide any activity information or logs about users if a court order was issued asking us to provide that information. As previously mentioned, no information about what our users do when connected is stored.
+For ease of reference, in this product privacy notice we use the term “**VPN browsing activity**” to refer to online activities you conduct via VPN connections initiated with our VPN products. This includes what you are browsing, viewing, or doing online via the VPN connection.
 
-The only information we would be able to provide would be account information detailed further below as well as the method of payment. However, it requires that the court order is for a specific person and that the authorities want to verify if that person has a user account with us. We have not provided any information about our users to any government entities.
+**Key Assurances**
 
-Website
--------
+OVPN does not record your VPN browsing activities in any way that can be associated back to you, and this policy is not changing as a result of the Pango acquisition. When you use a VPN connection, we do not store any information that identifies what you browse, view, or do online via that VPN connection. The exception is when you choose to communicate with us (such as via chat or email) over a VPN connection and have chosen to identify yourself to us.
 
-Our website runs on a physical machine that we own and is located in our Stockholm datacenter. We use the following third-party services:
+**Table of Contents**
 
-**Matomo (previously named Piwik)**: Matomo is included so we can measure how users interact with the website and to find areas of improvement. All IP addresses are anonymized.
+[1\. When We Collect Information](#1)  
+[2\. Types Of Information We Do and Don’t Collect](#2)  
+[3\. How We Use Your Personal Data](#3)  
+[4\. How We Disclose Your Personal Data](#4)  
+[5\. Your Privacy Choices](#5)  
+[6\. Use of Pixel Tags and Cookies](#6)  
+[7\. Security](#7)  
+[8\. Retention](#8)  
+[9\. U.S. State-Specific Disclosure](#9)  
+[10\. UK/EEA Residents’ Notice](#10)  
+[11\. Children’s Privacy](#11)  
+[12\. Third-Party Links On Our Website](#12)  
+[13\. Changes To This Privacy Policy](#13)  
+[14\. Contact Us](#14)
 
-**Intercom**: Intercom is a support system which we use to offer support to our users. User account information is shared to Intercom in order to handle support requests satisfactory.
+**1\. When We Collect Information**
 
-**Mailgun & Postmark**: Mailgun & Postmark are used to send emails.
+We may collect personal data that you provide when you:
 
-**Braintree**: We use Braintree which is PCI DSS certified as our credit card solution provider. No payment information is stored with us.
+* Register for our Services.
+* Update or otherwise use your account, including billing information.
+* Interact with us including through our newsletter or through customer support.
+* Contact us.
 
-**Swish Merchant**: For people in Sweden we offer Swish as a payment method.
+**2\. Types Of Information We Do and Don’t Collect**
 
-**CoinPayments**: CoinPayments is used for crypto payments.
+Information we DO NOT collect
 
-We also use reporting tools from Google to measure ad efficiency. These reporting tools are only loaded for visitors who came through one of these channels.
+Our VPN products do not log or otherwise record IP addresses, device identifiers, or any other form of identifier in combination with your VPN browsing activity. Simply put, this means that our VPN products do not store any information about what any specific user browsed or accessed through a VPN connection.
 
-Cookies
--------
+When connecting with Wireguard, we collect your IP address and store it in temporary memory until the end of your VPN session at which point it will be deleted. We assure you that the IP address will never be associated with your VPN browsing activity. This means that we are not able to share your VPN browsing activity with anyone – whether it is an ad network or government agency – because we simply do not store that information.
 
-The following cookies may be saved on users devices when visiting OVPN.com.
+When you access a site through an OVPN connection, your IP address appears to that site as the IP address assigned by the VPN servers (what we call a “public-facing” IP address). Those public-facing IP addresses are used by multiple users and we do not record the actual IP addresses of users who use those public-facing IP addresses. As a result, we are not able to connect activity originating from a public-facing IP address to activity conducted by any individual user.
 
-* Matomo saves cookies containing session & profile data
-* Intercom saves cookies containing session & profile data
-* OVPN saves a cookie containing session, language, potential ad channel
-* OVPN saves a cookie in case users wish to be signed in automatically
+Information we DO collect
 
-User information
-----------------
+When you register for an account, we collect:
 
-During account registration, users must supply a desired username and a password. While we recommend our users to provide an email address, it is entirely optional. The email address is used for events such as account recovery in case of a forgotten password, to send upcoming billing notifications, receipts after payments as well as an optional newsletter about our service.
+* Account information such as a username and password and the timestamp the account was created and updated.
+* Email address for billing purposes, if provided.
+* Payment information such as credit or debit card.
+* Information you provide when you contact us, including any information you provide when you inquire about our services or interact with our customer service team or chat tools which may include your contact information such as name and email address.
 
-We store the following data for each account:
+**3\. How We Use Your Personal Data**
 
-    {
-        "username": "example",
-        "password": "7crGpGcIF8K9QvpMhi5xrXIna1uG6lZ6",
-        "email": "example@example.com",
-        "created_at": "2018-01-01 00:00:00",
-        "updated_at": "2018-04-01 00:00:00",
-        "newsletter": 0,
-        "has_authenticated": 1,
-        "has_connected": 1,
-        "has_ipv6": 1,
-        "compression": 1,
-        "streaming": 0,
-        "language": "sv",
-        "currency": "SEK",
-        "country": "se",
-        "devices": 0,
-        "campaign": null,
-        "subscription": "2019-04-01 00:00:00",
-        "ipv4": null,
-        "multihop": null,
-        "client_version": "1.2.5.2213",
-        "extension_version": null
-    }
+We use the personal data we collect for the following purposes:
 
-Below is an explanation of each field.
+* To operate and improve our Services.
+* To process payments securely.
+* For customer support.
+* To communicate with you, including via our newsletter.
+* For marketing and advertising.
+* For other business and legal purposes, such as to detect and prevent fraud, to collect amounts owing to us, and to maintain business records.
+* With your consent.
 
-**username**: the username that was specified during account registration.
+How We Use IP Addresses
 
-**password**: the password that was specified during account registration is stored hashed.
+As written above, we do not log or otherwise record IP addresses in connection with your VPN browsing activity. In the interest of transparency, we do collect and use IP addresses in these other contexts:
 
-**email**: the email address that was specified during account registration.
+* Protecting against fraud in connection with financial transactions with us.
 
-**created\_at**: timestamp rounded to the nearest hour of when the account was created.
+**4\. How We Disclose Your Personal Data**
 
-**updated\_at**: timestamp of when the account information was last updated (for example, when making a new payment).
+We may disclose your personal information with your express consent, such as if we introduce a partnership or co-marketing opportunity to you. We may also share your personal data under the following circumstances;
 
-**newsletter**: 0 or 1. If user is subscribed to our newsletter.
+* To corporate affiliates of Intersections LLC or Pango GmbH, including other companies within the Pango Group family of companies.
+* Vendors or service providers who operate as personal data ‘processors’ on our behalf and have no independent rights to use your information for their own benefit. For example, we may disclose your name and email address to email service providers who help us provide our email newsletters.
+* We use vendors to help us manage and optimize our Website, which may include the use of pixel tags to collect anonymous website metrics. See the Cookies and Pixel Tags section below for more information about these uses.
+* Help us provide our chatbot. This may include disclosure of the communications with our service provider, Zendesk. The contents of the communications will not be used for any purpose other than to support us, but are also subject to Zendesk’s applicable terms of use, privacy and security policies which can be found [here](https://www.zendesk.com/company/agreements-and-terms/privacy-notice/).
 
-**has\_authenticated**: 0 or 1. Determines whether the user has ever successfully signed into our desktop client. This does not state when the user launched or installed the desktop client, only if the user ever has installed the desktop client. Used for internal statistics as well as allowing us to reach out to newly created accounts and ask them if they need any help.
+In addition, we may share your personal data, in order to:
 
-**has\_connected**: 0 or 1. Determines whether the user has ever successfully connected to our VPN servers. This does not state when or how the user connected; only if the user ever has connected. Used for internal statistics as well as to reach out to new users who may be having problems connecting.
+* Protect the legal rights of our company, our employees, our agents, and our affiliates.
+* Protect the safety and security of our customers.
+* Detect and protect against fraud.
+* Comply with law or legal process.
 
-**has\_ipv6**: 0 or 1. Users can decide themselves whether they want to be assigned an IPv6 address during the VPN connections.
+As part of a business transition.
 
-**compression**: 0 or 1. Users can decide themselves whether they want to enable compression OpenVPN.
+* We may also share your personal data with prospective purchasers in a confidential method exclusively to evaluate the proposed transaction.
+* We may also share your personal data with another company that buys the assets or stock in us. That company may use and disclose personal data for purposes similar to those described in this Privacy Policy.
 
-**streaming**: 0 or 1. Users can decide themselves whether they want to enable our circumvention measures to ensure streaming services work properly.
+We may share aggregate or anonymous information for any purpose. This means that the information we share does not identify specific individuals, or is combined with other data to protect your privacy.
 
-**language**: the language that our website, newsletters, receipts and support should be communicated in.
+**5\. Your Privacy Choices**
 
-**currency**: the preferred currency set on our website.
+You have the right to exercise the following choices with our use of your personal data:
 
-**country**: country of origin of the user when first signed up. The IP address is not stored — Only the country of origin the IP address belongs to. Country is stored so we can follow accounting laws (ie, which VAT we need to charge).
+* Access the personal data we maintain about you.
+* Delete the personal data we maintain about you.
+* Correct inaccurate personal data we maintain about you
+* Opt out of certain uses of your personal data, notably: Email marketing. You can unsubscribe to our email list by clicking the unsubscribe link at the bottom of marketing emails.
 
-**devices**: the number of connected devices the user currently has. This is stored as a value of 0-4, where it is increased by 1 when a user connects, and decreased by 1 when a user disconnects. This is in no way connected to a specific device, and we never store any other identifiable information about the device or user, such as MAC address or IP address.
+You can exercise these rights by contacting us at [privacy@OVPN.com](mailto:privacy@ovpn.com).
 
-**campaign**: if the user is referred via one of our ad channels. Used for internal statistics.
+**6\. Use of Pixel Tags and Cookies**
 
-**subscription**: expiration date of the subscription.
+Like many companies, we use cookies and similar technologies such as pixel tags (aka; clear gifs, web beacons) (collectively, “Cookies”). As noted, cookies or other tracking technologies are not utilized as part of our VPN services. You can learn about our use of cookies in our [Cookie Policy](https://www.ovpn.com/en/cookie-policy).
 
-**ipv4**: expiration date of the Public IPv4 add-on.
+**7\. Security**
 
-**multihop**: expiration date of the Multihop add-on.
+OVPN employs a range of administrative, organizational, technical, and physical safeguards designed to protect your data against unauthorized access, loss, or modification. Access to your Account Information and Services Information is restricted to our employees who require such access to perform their job functions. While our controls are strong, no data security measures can guarantee 100% protection.
 
-**client\_version**: the version of the OVPN client the user is using.
+For our VPN services, our network providers do not require us to collect or share any information about what our users are doing via a VPN connection through their networks. Our VPN servers are monitored using a state-of-art intrusion detection system backed by a 24x7 security operations center.
 
-**extension\_version**: the version of the OVPN browser extension the user is using.
+**8\. Retention**
 
-Confidentiality
----------------
+We will retain your account and payment information for as long as your account or inquiry is active or as needed to provide you with the Services, and for a reasonable time thereafter in accordance with our standard procedures or as necessary to comply with our legal obligations, to resolve disputes, and to enforce our agreements. As previously mentioned, no information about what our users do when connected to our VPN services is stored beyond a session. Even if we delete some or all of your personal data, we may continue to retain and use aggregate or anonymous data previously collected and/or anonymize or aggregate your personal data.
 
-OVPN can not share information regarding where, how and when users use OVPN since that information does not exist. Furthermore, we do not require an e-mail addresses when signing up.
+**9\. U.S. State-Specific Disclosure**
 
-If a user wishes to delete any information we have about them, that user can contact us. If the user has an active subscription, any remaining subscription time will also be removed.
+Some U.S. states have enacted comprehensive privacy laws that require businesses to offer an opt out of the “sale” or “share” of your personal data for targeted advertising. We do not sell or share your personal data for targeted advertising purposes.
 
-Users have the right to request, at any time, that their personal is either corrected or deleted. Users also have the right to request a copy of their personal data. If a user wishes to change, delete or receive a copy of their personal data, please contact our support. Requests may take up to a month to handle as this process is handled manually.
+**10\. UK/EEA Residents’ Notice**
 
-Do note that we are not able to provide users with payment data as that is not stored by us.
+Residents of the United Kingdom (“**UK**”) and European Economic Area (“**EEA**”) are provided certain privacy rights under the UK and EU General Data Protection Regulations (“**GDPR**”).
+
+Legal Basis
+
+Under the GDPR, we process ‘Personal Data’ (as defined in the GDPR) under the following legal basis.
+
+| Processing Activity | Legal Basis under GDPR |
+| --- | --- |
+| Use of our VPN services | Contract fulfillment |
+| Placement of cookies through our Website | Consent |
+| Implementing our customer support tools | Contract fulfillment |
+| Improving our Website and Services | Legitimate Interest |
+| Product, Marketing, or Service-Related Communications | Legitimate Interest |
+
+Controller Designation
+
+Under the GDPR, we are designated as a ‘Controller.’
+
+Cross-Border Data Transfers
+
+Our account and VPN services are currently operated in the EU, but we reserve the right to transfer account-related information to servers in the United States or another location of our choosing. If you are a resident of the EEA, UK, or Switzerland, we may transfer to, and store the data we collect about you, to countries other than the country in which the data was originally collected, including the United States. Those countries may not have equivalent data protection laws as the country in which you provided the data. When we transfer your data to other countries, we will protect the data as described in this Privacy Policy and comply with applicable legal requirements providing adequate protection for the transfer of data to countries outside the EEA, UK, and Switzerland. We rely on Standard Contractual Clauses (“**SCCs**”) for the transfer of personal data to countries that have not received an applicable adequacy decision, as well as the UK’s ‘International Data Transfer Addendum’ to the SCCs.
+
+For more information on cross-border transfers of your Personal Data or the appropriate safeguards in place, please contact us at [privacy@OVPN.com](mailto:privacy@ovpn.com).
+
+Data Protection Officer
+
+We have appointed a Data Privacy Director to oversee compliance with this Privacy Notice. If you have any questions about this Privacy Notice or how we handle your Personal Data, or would like to request access to your Personal Data, please contact our Data Protection Officer at [DPO.pango@twobirds.com](mailto:DPO.pango@twobirds.com).
+
+Additional Rights for UK or European Economic Area Residents
+
+In addition to the rights granted above, if you are a UK or EEA resident, the GDPR grants you the right to lodge a complaint against us with your local data protection authority. You can find your data protection authority at https://edpb.europa.eu/about-edpb/about-edpb/members\_en.
+
+**11\. Children’s Privacy**
+
+We do not intentionally collect any personal data from children under the age of 16. If you are under the age of 16, please ask a parent or guardian for help in using our Website or Services. If you believe we have obtained personal data associated with children under the age of 16, please contact us at [privacy@OVPN.com](mailto:privacy@ovpn.com) and we will delete it.
+
+**12\. Third-Party Links On Our Website**
+
+Our Services may contain links to other websites or services. We do not exercise control over the information you provide, or is collected by these third party websites. We encourage you to read the privacy policies or statements of the other websites you visit.
+
+**13\. Changes To This Privacy Policy**
+
+We may update this Privacy Policy from time to time. If we make material changes, we will post the updated Privacy Policy on this page with a “Last Updated” effective date of the revisions. We encourage you to look for updates and changes to this Privacy Policy by checking this page when you access our Services.
+
+**14\. Contact Us**
+
+If you have any questions about our privacy or security practices, or if you would like to request access to or correction of your personal data, you can contact us by email at [privacy@OVPN.com](mailto:privacy@ovpn.com) or at:
+
+Intersections, LLC  
+250 Northern Ave., 3rd Floor  
+Boston, MA 02210
 
 OVPN
 
