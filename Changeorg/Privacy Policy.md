@@ -1,6 +1,6 @@
 Skip to main content
 
-[](https://www.change.org/)
+[![](/corgi/assets/pride.3caf9673d39a07c02a79.svg)](https://www.change.org/)
 
 [Start a petition](https://www.change.org/start-a-petition?source_location=header)
 
@@ -355,8 +355,8 @@ DeutschEnglish (Australia)English (Canada)English (India)English (United Kingdom
 
 * * *
 
-* **© 2024, Change.org, PBC**
+© 2024, Change.org, PBC
 
-* This site is protected by reCAPTCHA and the Google [Privacy Policy](https://policies.google.com/privacy) and [Terms of Service](https://policies.google.com/terms) apply.
+This site is protected by reCAPTCHA and the Google [Privacy Policy](https://policies.google.com/privacy) and [Terms of Service](https://policies.google.com/terms) apply.
 
 DeutschEnglish (Australia)English (Canada)English (India)English (United Kingdom)English (United States)Español (Argentina)Español (España)Español (Latinoamérica)Françaisहिन्दीBahasa IndonesiaItaliano日本語Português (Brasil)РусскийภาษาไทยTürkçe
