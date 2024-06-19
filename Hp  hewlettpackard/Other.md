@@ -48,6 +48,8 @@ Explore
 
 [* Working Relationship Index](https://www.hp.com/us-en/work-relationship-index.html "Working Relationship Index")
 
+[* Copilot+ PCs](https://www.hp.com/us-en/shop/cv/copilot-in-windows11 "Copilot+ PCs")
+
 * PCs
 
 [* Next-Gen AI PCs](https://www.hp.com/us-en/ai-solutions/next-gen-ai-pcs.html "Next-Gen AI PCs")
@@ -126,7 +128,7 @@ Shop
 
 [* #MyHP](https://www.hp.com/us-en/shop/cv/myhp-social-gallery "#MyHP")
 
-[* HP Sustainable buyer's guide](https://www.hp.com/us-en/shop/slp/sustainability-guide "HP Sustainable buyer's guide")
+[* Copilot+ PCs](https://www.hp.com/us-en/shop/cv/copilot-in-windows11 "Copilot+ PCs")
 
 [* HP Tech Takes](https://www.hp.com/us-en/shop/tech-takes "HP Tech Takes")
 
@@ -279,7 +281,7 @@ https://www.hp.com/webapp/wcs/stores/servlet/HPHeaderServices?storeId=10151&cb=c
 
 * Featured
 
-[* Security](https://www.hp.com/us-en/security/endpoint-security-solutions.html)[* Hybrid Work](https://www.hp.com/us-en/solutions/hybrid-work.html)[* HP+ Smart Printing System](https://www.hp.com/us-en/printers/hp-plus.html)[* Instant Ink](https://www.hp.com/us-en/printers/instant-ink.html)[* 3D Print](https://www.hp.com/us-en/printers/3d-printers.html)[* Construction Layout Robot](https://www.hp.com/us-en/printers/site-print/layout-robot.html)[* Government & Education](https://www.hp.com/us-en/solutions/us-public-sector.html)[* Small & Medium Business](https://www.hp.com/us-en/smb/small-and-medium-business-solutions.html)[* Working Relationship Index](https://www.hp.com/us-en/work-relationship-index.html)
+[* Security](https://www.hp.com/us-en/security/endpoint-security-solutions.html)[* Hybrid Work](https://www.hp.com/us-en/solutions/hybrid-work.html)[* HP+ Smart Printing System](https://www.hp.com/us-en/printers/hp-plus.html)[* Instant Ink](https://www.hp.com/us-en/printers/instant-ink.html)[* 3D Print](https://www.hp.com/us-en/printers/3d-printers.html)[* Construction Layout Robot](https://www.hp.com/us-en/printers/site-print/layout-robot.html)[* Government & Education](https://www.hp.com/us-en/solutions/us-public-sector.html)[* Small & Medium Business](https://www.hp.com/us-en/smb/small-and-medium-business-solutions.html)[* Working Relationship Index](https://www.hp.com/us-en/work-relationship-index.html)[* Copilot+ PCs](https://www.hp.com/us-en/shop/cv/copilot-in-windows11)
 
 * PCs
 
@@ -295,7 +297,7 @@ https://www.hp.com/webapp/wcs/stores/servlet/HPHeaderServices?storeId=10151&cb=c
 
 * Featured
 
-[* HP.com store](https://www.hp.com/us-en/shop)[* Ink & toner cartridges](https://www.hp.com/us-en/shop/cat/ink--toner---paper)[* Business store](https://www.hp.com/us-en/shop/cat/business-solutions)[* Weekly Deals](https://www.hp.com/us-en/shop/slp/weekly-deals)[* New HP All-In Plan](https://www.hp.com/us-en/all-in-plan/printers.html)[* HP Business Technology Advisors](https://www.hp.com/us-en/shop/cv/smallbusinessadvisor)[* Student discounts](https://www.hp.com/us-en/shop/cv/hp-education)[* #MyHP](https://www.hp.com/us-en/shop/cv/myhp-social-gallery)[* HP Sustainable buyer's guide](https://www.hp.com/us-en/shop/slp/sustainability-guide)[* HP Tech Takes](https://www.hp.com/us-en/shop/tech-takes)
+[* HP.com store](https://www.hp.com/us-en/shop)[* Ink & toner cartridges](https://www.hp.com/us-en/shop/cat/ink--toner---paper)[* Business store](https://www.hp.com/us-en/shop/cat/business-solutions)[* Weekly Deals](https://www.hp.com/us-en/shop/slp/weekly-deals)[* New HP All-In Plan](https://www.hp.com/us-en/all-in-plan/printers.html)[* HP Business Technology Advisors](https://www.hp.com/us-en/shop/cv/smallbusinessadvisor)[* Student discounts](https://www.hp.com/us-en/shop/cv/hp-education)[* #MyHP](https://www.hp.com/us-en/shop/cv/myhp-social-gallery)[* Copilot+ PCs](https://www.hp.com/us-en/shop/cv/copilot-in-windows11)[* HP Tech Takes](https://www.hp.com/us-en/shop/tech-takes)
 
 * Shop PCs
 
@@ -386,7 +388,7 @@ In cooperation with the U.S. Consumer Product Safety Commission and other safety
 
 [Related links](javascript:void(0))
 
-[How to Connect a Printer to Your...](https://www.hp.com/us-en/shop/tech-takes/how-to-connect-printer-to-computer) [The 10 Best Free Photo Printing...](https://www.hp.com/us-en/shop/tech-takes/best-free-photo-printing-software) [How to Download and Install the...](https://www.hp.com/us-en/shop/tech-takes/how-to-download-and-install-latest-hp-printer-software) [How to Print from Google Android...](https://www.hp.com/us-en/shop/tech-takes/how-to-print-from-google-android-phone) [Is Instant Ink Worth It? Top...](https://www.hp.com/us-en/shop/tech-takes/is-instant-ink-worth-it) [HP Instant Ink FAQs – Find Answers to Your Instant Ink Questions](https://www.hp.com/us-en/printers/instant-ink/faq.html) [What is HP+](https://www.hp.com/us-en/shop/tech-takes/what-is-hp-plus-benefits) [HP SitePrint - Robotic Layout Solution](https://www.hp.com/us-en/printers/site-print/layout-robot.html) [What is HP Support Assistant?](https://www.hp.com/us-en/shop/tech-takes/what-is-hp-support-assistant) [Poly Lens Device Management App](https://www.hp.com/us-en/poly/software-and-services/software/poly-lens/app.html)
+[How to Connect a Printer to Your...](https://www.hp.com/us-en/shop/tech-takes/how-to-connect-printer-to-computer) [10 Best Free Photo Printing...](https://www.hp.com/us-en/shop/tech-takes/best-free-photo-printing-software) [How to Download and Install the...](https://www.hp.com/us-en/shop/tech-takes/how-to-download-and-install-latest-hp-printer-software) [How to Print from Google Android...](https://www.hp.com/us-en/shop/tech-takes/how-to-print-from-google-android-phone) [Is Instant Ink Worth It? Top...](https://www.hp.com/us-en/shop/tech-takes/is-instant-ink-worth-it) [HP Instant Ink FAQs – Find Answers to Your Instant Ink Questions](https://www.hp.com/us-en/printers/instant-ink/faq.html) [HP Large-format Printers and Plotters – HP Click Printing Software](https://www.hp.com/us-en/printers/large-format/click.html) [What is HP+](https://www.hp.com/us-en/shop/tech-takes/what-is-hp-plus-benefits) [HP SitePrint - Robotic Layout Solution](https://www.hp.com/us-en/printers/site-print/layout-robot.html) [What is HP Support Assistant?](https://www.hp.com/us-en/shop/tech-takes/what-is-hp-support-assistant)
 
 Select Your Country/Region and Language
 ---------------------------------------
