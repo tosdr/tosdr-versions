@@ -16,34 +16,7 @@ Force Open Search
 
 Open main menu
 
-![](https://assets.atlasobscura.com/assets/hermes/aoa_logo_aon-fb53a8d4415047286c25915bdbbdf3721acc39fd90bd71bf7712345c0096a45b.svg)
-
-Take your next trip with Atlas Obscura!
----------------------------------------
-
-Our small-group adventures are inspired by our Atlas of the world's most fascinating places, the stories behind them, and the people who bring them to life.
-
-[Visit Adventures](https://www.atlasobscura.com/adventures/)
-
-Trips Highlight
-
-   [![Taktsang Lhakhang, also known as the “Tiger’s Nest”.](https://img.atlasobscura.com/RSZIiueNnnDOP27x8SP3wpC8WS6H6-f16yFb7PVmaR0/rs:fill:256:192/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V2ZW50/X2ltYWdlcy8zNjI0/NGRlMS05YzhjLTQ4/ZGUtOTExNy1kNzhk/NzRjMjBkYjllYTQ4/ZDAyYWM2N2RlODE3/MjVfc2h1dHRlcnN0/b2NrXzUxMjk4MzYy/MSAoMSkuanBn.jpg)](https://www.atlasobscura.com/adventures/trips/bhutan)
-
-Bhutan • 11 days, 10 nights
-
-[Festivals and Temples of Bhutan](https://www.atlasobscura.com/adventures/trips/bhutan)
-
-from
-
-   [![Oaxaca Mexico tamales](https://img.atlasobscura.com/BaDERNykwdpWGsX04_iG0FTckM-RiYp8I4MeL2Z-xW0/rs:fill:256:192/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V2ZW50/X2ltYWdlcy8zNzM2/MmEwZC04NTcyLTRk/NzEtOTA0YS1jZDVl/YjgyYmI5YWY1MDE5/MjZkZDQ5ZTVhOGVi/ZDBfT2F4YWNhIE1l/eGljbyB0YW1hbGVz/IC0gQWRvYmVTdG9j/a180Nzk1MzAwODgu/anBlZw.jpg)](https://www.atlasobscura.com/adventures/trips/oaxaca-gastro)
-
-Mexico • 7 days, 6 nights
-
-[Flavors of Oaxaca: Markets, Mezcal, & Home-Cooked Meals](https://www.atlasobscura.com/adventures/trips/oaxaca-gastro)
-
-from
-
-[View all trips](https://www.atlasobscura.com/adventures/trips)
+Loading...
 
 Loading...
 
@@ -53,29 +26,7 @@ Loading...
 
 Loading...
 
-Recent Stories
-
-[All Stories](https://www.atlasobscura.com/articles) [Puzzles](https://www.atlasobscura.com/series/ao-puzzles) [Video](https://www.atlasobscura.com/videos) [Podcast](https://www.atlasobscura.com/podcast)
-
-Most Recent Stories
-
-[View All Stories »](https://www.atlasobscura.com/articles)
-
-   [![The 19th-century English artist John Romney depicted the all-important art of beekeeping.](https://img.atlasobscura.com/p-fxR5tnWdrcj6sFpj6x1GYeboVM6k5kBG2TzjeV5Nk/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy85ZmEzNjIyOWU2/ZjkxNjNjZmZfR2V0/dHlJbWFnZXMtOTU5/MjU3NzY0LmpwZw.jpg)
-
-Why We Tell Bees About Death](https://www.atlasobscura.com/articles/telling-the-bees-death)
-
-   [![Durango’s 140-year-old steam locomotive is just one of Colorado’s spectacular historic rail lines.](https://img.atlasobscura.com/17CBb2odaiQZVtWPw6MujTbpJsVyJXPBMfvVuA_a9VE/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy8zMWY2Njc2MWIx/OWM2OTFiMGZfRmlu/YWxzLTMuanBn.jpg)
-
-Ride the Rails to Discover Hidden History and Incredible Hiking in Colorado](https://www.atlasobscura.com/articles/ride-the-rails-to-discover-hidden-history-and-incredible-hiking-in-colorado)
-
-   [![A Midnight Modern Conversation by William Hogarth depicts punch-drinkers in an 18th-century coffeehouse.](https://img.atlasobscura.com/FjqWhTCu7euFMin8mDe0irsySlxv9Ho7QhCc0DBukeE/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy80ZTgzYTEzMWEz/NGI4NzRhYzJfQWZ0/ZXJfV2lsbGlhbV9I/b2dhcnRoXygxNjk3/LTE3NjQpXy1fQV9N/aWRuaWdodF9Nb2Rl/cm5fQ29udmVyc2F0/aW9uXy1fUkNJTl80/MDU0NDBfLV9Sb3lh/bF9Db2xsZWN0aW9u/LmpwZw.jpg)
-
-Tea Punch Was the First Cocktail](https://www.atlasobscura.com/articles/tea-punch-was-the-first-cocktail)
-
-   [![The tentacles of a colossal squid sit on the surface of the water as it is defrosted at Te Papa labs in Wellington on September 16, 2014. The squid was caught by a fishing boat longline in the Antarctic over the summer and kept on ice until scientists worked to thaw it out to begin examining the specimen.](https://img.atlasobscura.com/nWABxEhIwa_Dtnwu3KYhSS-np14_WqBAD9ZgDFmjH6w/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy81M2NlMWYxOS05/ODdlLTRkMzItOTQy/YS02YzczMmE1MDBh/MWQwNjYxMmEyMTEw/MjNkMjA3ZTFfR2V0/dHlJbWFnZXMtNDU1/NTA0MzU0LmpwZw.jpg)
-
-Wonder Is Everywhere: The ‘Real’ Kraken, an Ancient Pet Cemetery, and More From Around the Web](https://www.atlasobscura.com/articles/wonder-is-everywhere-real-kraken)
+Loading...
 
 No search results found for  
 “”
