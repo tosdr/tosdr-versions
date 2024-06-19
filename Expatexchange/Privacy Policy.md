@@ -1,7 +1,9 @@
+×
+
 Login
 -----
 
-Username or E-mail  
+E-mail  
   
 Password  
   
@@ -10,7 +12,7 @@ Login
 Or, Send Login Link
 -------------------
 
-Entere your e-mail address & we'll send you a temporary login link.  
+Enter your e-mail address & we'll send you a temporary login link.  
   
 Send Login Link
 
@@ -19,9 +21,9 @@ Interested in our Partner Program for businesses or our Local Guide Program for 
      Privacy Policy | Expat Exchange                                 
 
 * [Home](https://www.expatexchange.com/ "Expat Exchange Home")
-* [](https://www.expatexchange.com/partner/partnerlogin "Partners and Local Guides")[Partners & Local Guides](https://www.expatexchange.com/partner/partnerlogin "Partners and Local Guides")
+* [](javascript:void(0); "Partners and Local Guides")[Partners & Local Guides](javascript:void(0); "Partners and Local Guides")
 * [Explore Countries](https://www.expatexchange.com/countries "Countries")
-* [Global Forum](https://www.expatexchange.com/livingoverseasforum "Living Overseas Forum")
+* [Community](https://www.expatexchange.com/feed/popular/260/Living-International "Living Overseas Forum")
 * [Newsletter](https://www.expatexchange.com/membersubscription/159 "Newsletter")
 * [Plan Your Move](https://www.expatexchange.com/partnerconnect "Plan Your Move")
 * [Health Insurance](https://www.expatexchange.com/expat-health-insurance.html "International Health Insurance")
@@ -36,31 +38,31 @@ Choose Your Destination: Algeria Antigua & Barbuda Argentina Australia Austria B
 
 [Free Membership](https://www.expatexchange.com/jointhecommunity "Join Expat Exchange")[Sign In](https://www.expatexchange.com/signin "Sign In")  
 
-[](https://www.expatexchange.com/countries "Destination Countries")[Countries](https://www.expatexchange.com/countries "Destination Countries") [](https://www.expatexchange.com/livingoverseasforum "Living Overseas Forum")[Forum](https://www.expatexchange.com/livingoverseasforum "Living Overseas Forum") [](https://www.expatexchange.com/membersubscription/159 "Subscribe")[Newsletter](https://www.expatexchange.com/membersubscription/159 "Subscribe")
+[](https://www.expatexchange.com/countries "Destination Countries")[Countries](https://www.expatexchange.com/countries "Destination Countries") [](https://www.expatexchange.com/feed/popular/260/living-international "Living Overseas Community")[Community](https://www.expatexchange.com/feed/popular/260/living-international "Living Overseas Community") [](https://www.expatexchange.com/membersubscription/159 "Subscribe")[Newsletter](https://www.expatexchange.com/membersubscription/159 "Subscribe")
 
 [](https://www.expatexchange.com/partnerconnect "Plan Your Move")[Plan Your Move](https://www.expatexchange.com/partnerconnect "Move Planning") [](https://www.expatexchange.com/expat-health-insurance.html "Health Insurance")[Insurance](https://www.expatexchange.com/expat-health-insurance.html "Health Insurance")
 
-[Home](https://www.expatexchange.com/ "Expat Exchange Home") ![Destination Countries](/imagesnew/destinations-icon-000000.png)[Explore Countries](https://www.expatexchange.com/countries "Destination Countries") [](https://www.expatexchange.com/livingoverseasforum "Global Forum")[Global Forum](https://www.expatexchange.com/livingoverseasforum "Global Forum") [](https://www.expatexchange.com/membersubscription/159 "Subscribe")[Newsletter](https://www.expatexchange.com/membersubscription "Subscribe") [](https://www.expatexchange.com/partnerconnect "Plan Your Move")[Plan Your Move](https://www.expatexchange.com/partnerconnect "Plan Your Move") [](https://www.expatexchange.com/expat-health-insurance.html "Health Insurance")[Insurance](https://www.expatexchange.com/expat-health-insurance.html "Health Insurance")
+[Home](https://www.expatexchange.com/ "Expat Exchange Home") ![Destination Countries](/imagesnew/destinations-icon-000000.png)[Explore Countries](https://www.expatexchange.com/countries "Destination Countries") [](https://www.expatexchange.com/feed/popular/260/living-international "Living Internationally Community")[Community](https://www.expatexchange.com/feed/popular/260/living-international "Living Internationally Community") [](https://www.expatexchange.com/membersubscription/159 "Subscribe")[Newsletter](https://www.expatexchange.com/membersubscription "Subscribe") [](https://www.expatexchange.com/partnerconnect "Plan Your Move")[Plan Your Move](https://www.expatexchange.com/partnerconnect "Plan Your Move") [](https://www.expatexchange.com/expat-health-insurance.html "Health Insurance")[Insurance](https://www.expatexchange.com/expat-health-insurance.html "Health Insurance")
 
-[](https://www.expatexchange.com/partner/partnerlogin "Partners and Local Guides")[Partners & Local Guides](https://www.expatexchange.com/partner/partnerlogin "Partners and Local Guides")
+[](javascript:void(0); "Partners and Local Guides")[Partners & Local Guides](javascript:void(0); "Partners and Local Guides")
 
 [![Expat Exchange](https://www.expatexchange.com/imagesnew/expat-exchange-logo2022.jpg)](https://www.expatexchange.com/ "Expat Exchange Home")  
 [Free Membership](https://www.expatexchange.com/jointhecommunity "Join Expat Exchange")[Sign In](https://www.expatexchange.com/signin "Sign In")
 
 Choose Your Destination: Algeria Antigua & Barbuda Argentina Australia Austria Bahamas Barbados Belgium Belize Bermuda Brazil Brit. Virgin Isl. Bulgaria Canada Chile China Colombia Costa Rica Croatia Cyprus Czech Rep Denmark Dominican Rep Ecuador Egypt El Salvador Estonia Fiji Finland France Georgia Rep Germany Greece Grenada Guatemala Haiti Honduras Hong Kong Hungary Iceland India Indonesia Ireland Israel Italy Ivory Coast Jamaica Japan Jordan Kenya Korea Laos Latvia Lithuania Luxembourg Malaysia Martinique Mexico Monaco Morocco Nepal Netherlands New Zealand Nicaragua Norway Pakistan Panama Paraguay Peru Philippines Poland Portugal Qatar Romania Russia Saint Lucia Saudi Arabia Scotland Singapore Slovenia South Africa Spain Sri Lanka Sweden Switzerland Taiwan Thailand Trinidad & Tobago Turkey UAE UK Ukraine United States Uruguay Vietnam MORE COUNTRIES
 
-[](https://www.expatexchange.com/mypreferences "My Account")[Account](https://www.expatexchange.com/mypreferences "My Account") [](https://www.expatexchange.com/sitesearch/159)[Search](https://www.expatexchange.com/sitesearch/159)
+[](https://www.expatexchange.com/mypreferences "My Account")[Account](https://www.expatexchange.com/mypreferences "My Account") [](https://www.expatexchange.com/feedsearching/260)[Search](https://www.expatexchange.com/feedsearching/260)
 
-[](https://www.expatexchange.com/countries "Destination Countries")[Countries](https://www.expatexchange.com/countries "Destination Countries") [](https://www.expatexchange.com/livingoverseasforum "Living Overseas Forum")[Forum](https://www.expatexchange.com/livingoverseasforum "Living Overseas Forum") [](https://www.expatexchange.com/membersubscription/159 "Subscribe")[Newsletter](https://www.expatexchange.com/membersubscription/159 "Subscribe")
+[](https://www.expatexchange.com/countries "Destination Countries")[Countries](https://www.expatexchange.com/countries "Destination Countries") [](https://www.expatexchange.com/feed/popular/260/living-international "Living Overseas Community")[Community](https://www.expatexchange.com/feed/popular/260/living-international "Living Overseas Community") [](https://www.expatexchange.com/membersubscription/159 "Subscribe")[Newsletter](https://www.expatexchange.com/membersubscription/159 "Subscribe")
 
 [](https://www.expatexchange.com/partnerconnect "Plan Your Move")[Plan Your Move](https://www.expatexchange.com/partnerconnect "Move Planning") [](https://www.expatexchange.com/expat-health-insurance.html "Health Insurance")[Insurance](https://www.expatexchange.com/expat-health-insurance.html "Health Insurance")
 
-[Home](https://www.expatexchange.com/ "Expat Exchange Home") ![Destination Countries](/imagesnew/destinations-icon-000000.png)[Explore Countries](https://www.expatexchange.com/countries "Destination Countries") [](https://www.expatexchange.com/livingoverseasforum "Global Forum")[Global Forum](https://www.expatexchange.com/livingoverseasforum "Global Forum") [](https://www.expatexchange.com/membersubscription/159 "Subscribe")[Newsletter](https://www.expatexchange.com/membersubscription "Subscribe") [](https://www.expatexchange.com/partnerconnect "Plan Your Move")[Plan Your Move](https://www.expatexchange.com/partnerconnect "Plan Your Move") [](https://www.expatexchange.com/expat-health-insurance.html "Health Insurance")[Insurance](https://www.expatexchange.com/expat-health-insurance.html "Health Insurance")
+[Home](https://www.expatexchange.com/ "Expat Exchange Home") ![Destination Countries](/imagesnew/destinations-icon-000000.png)[Explore Countries](https://www.expatexchange.com/countries "Destination Countries") [](https://www.expatexchange.com/feed/popular/260/living-international "Living Internationally Community")[Community](https://www.expatexchange.com/feed/popular/260/living-international "Living Internationally Community") [](https://www.expatexchange.com/membersubscription/159 "Subscribe")[Newsletter](https://www.expatexchange.com/membersubscription "Subscribe") [](https://www.expatexchange.com/partnerconnect "Plan Your Move")[Plan Your Move](https://www.expatexchange.com/partnerconnect "Plan Your Move") [](https://www.expatexchange.com/expat-health-insurance.html "Health Insurance")[Insurance](https://www.expatexchange.com/expat-health-insurance.html "Health Insurance")
 
 * [Home](https://www.expatexchange.com/ "Expat Exchange Home")
-* [](https://www.expatexchange.com/partner/partnerlogin "Partners and Local Guides")[Partners & Local Guides](https://www.expatexchange.com/partner/partnerlogin "Partners and Local Guides")
+* [](javascript:void(0); "Partners and Local Guides")[Partners & Local Guides](javascript:void(0); "Partners and Local Guides")
 * [Explore Countries](https://www.expatexchange.com/countries "Countries")
-* [Global Forum](https://www.expatexchange.com/livingoverseasforum "Living Overseas Forum")
+* [Community](https://www.expatexchange.com/feed/popular/260/Living-International "Living Overseas Forum")
 * [Newsletter](https://www.expatexchange.com/membersubscription/159 "Newsletter")
 * [Plan Your Move](https://www.expatexchange.com/partnerconnect "Plan Your Move")
 * [Health Insurance](https://www.expatexchange.com/expat-health-insurance.html "International Health Insurance")
@@ -71,18 +73,18 @@ Choose Your Destination: Algeria Antigua & Barbuda Argentina Australia Austria B
 
 [![Expat Exchange](https://www.expatexchange.com/imagesnew/expatexchange-blackbg2-450-68.jpg)](https://www.expatexchange.com/ "Expat Exchange Home")
 
-![Destination Countries](/imagesnew/destinations-icon-000000.png)[Countries](https://www.expatexchange.com/countries "Destination Countries") [](https://www.expatexchange.com/livingoverseasforum "Global Forum")[Forum](https://www.expatexchange.com/livingoverseasforum "Global Forum") [](https://www.expatexchange.com/membersubscription/159 "Subscribe")[Newsletter](https://www.expatexchange.com/membersubscription "Subscribe")
+![Destination Countries](/imagesnew/destinations-icon-000000.png)[Countries](https://www.expatexchange.com/countries "Destination Countries") [](https://www.expatexchange.com/livingoverseasforum "Global Forum")[Community](https://www.expatexchange.com/livingoverseasforum "Global Forum") [](https://www.expatexchange.com/membersubscription/159 "Subscribe")[Newsletter](https://www.expatexchange.com/membersubscription "Subscribe")
 
 [](https://www.expatexchange.com/partnerconnect "Relo Tools")[Plan Your Move](https://www.expatexchange.com/partnerconnect "Relo Tools") [](https://www.expatexchange.com/expat-health-insurance.html "Health Insurance")[Insurance](https://www.expatexchange.com/expat-health-insurance.html "Health Insurance")
 
-![Destination Countries](/imagesnew/destinations-icon-000000.png)[Countries](https://www.expatexchange.com/countries "Destination Countries") [](https://www.expatexchange.com/livingoverseasforum "Global Forum")[Global Forum](https://www.expatexchange.com/livingoverseasforum "Global Forum") [](https://www.expatexchange.com/membersubscription/159 "Subscribe")[Newsletter](https://www.expatexchange.com/membersubscription "Subscribe") [](https://www.expatexchange.com/partnerconnect "Relo Tools")[Plan Your Move](https://www.expatexchange.com/partnerconnect "Relo Tools") [](https://www.expatexchange.com/expat-health-insurance.html "Health Insurance")[Insurance](https://www.expatexchange.com/expat-health-insurance.html "Health Insurance")
+![Destination Countries](/imagesnew/destinations-icon-000000.png)[Countries](https://www.expatexchange.com/countries "Destination Countries") [](https://www.expatexchange.com/livingoverseasforum "Global Forum")[Communty](https://www.expatexchange.com/livingoverseasforum "Global Forum") [](https://www.expatexchange.com/membersubscription/159 "Subscribe")[Newsletter](https://www.expatexchange.com/membersubscription "Subscribe") [](https://www.expatexchange.com/partnerconnect "Relo Tools")[Plan Your Move](https://www.expatexchange.com/partnerconnect "Relo Tools") [](https://www.expatexchange.com/expat-health-insurance.html "Health Insurance")[Insurance](https://www.expatexchange.com/expat-health-insurance.html "Health Insurance")[](https://www.expatexchange.com/feedsearching/260)
 
 * [Expat Health Insurance](https://www.expatexchange.com/expat-health-insurance.html "Health Insurance")
 * [Moving & Shipping](https://www.expatexchange.com/international-shipping.html "Moving & Shipping")
 * [Visa & Residency](https://www.expatexchange.com/visa-immigration.html "Visa & Residency")
 * [Relocation Companies](https://www.expatexchange.com/international-relocation-companies.html "Relocation Companies")
 * [Language Schools](https://www.expatexchange.com/language-training.html "Language Schools")
-* [Expat Tax](https://www.expatexchange.com/expat-tax.html "Expat Tax")
+* [Expat Tax & Finance](https://www.expatexchange.com/expat-tax.html "Expat Tax & Finance")
 * [Expat Counseling](https://www.expatexchange.com/expat-counseling.html "Expat Counseling")
 * [Mail & Mail Forwarding](https://www.expatexchange.com/international-mail-forwarding.html "Mail & Mail Forwarding")
 * [Expat Banking](https://www.expatexchange.com/expat-banking.html "Expat Banking")
@@ -90,9 +92,9 @@ Choose Your Destination: Algeria Antigua & Barbuda Argentina Australia Austria B
 * [Real Estate Listings](https://www.expatexchange.com/realestate "Real Estate International")
 * [More Resources](https://www.expatexchange.com/expatresources "More Resources")
 
-[![AGS Worldwide Movers](https://www.expatexchange.com/banner/international_moving_company_ags_ldr.gif)](http://www.agsmovers.com/moving-quote?utm_source=expatexchange&utm_medium=native-ad-text-article7-en&utm_campaign=ags-expat-sites&campaign_id=2598)
+[![SJB Global](https://www.expatexchange.com/banner/SJB-GlobalSJB-Global-Financial-Planning-for-Expats-ldr1.jpg)](https://www.expatexchange.com/partnerdirect/182/35556-DESKTOP-leader-leaderad-vrs-A-Global-leader)
 
-[![AGS Worldwide Movers](https://www.expatexchange.com/banner/AGS_300X250_EN1.gif)](http://www.agsmovers.com/moving-quote?utm_source=expatexchange&utm_medium=native-ad-text-article7-en&utm_campaign=ags-expat-sites&campaign_id=2598)
+[![SJB Global](https://www.expatexchange.com/banner/SJB-GlobalSJB-Global-Financial-Planning-for-Expats-mpu-1.jpg)](https://www.expatexchange.com/partnerdirect/182/35556-MOBILE-leader-leaderad-vrs-A-Global-leader)
 
 Privacy Policy
 ==============
@@ -433,17 +435,17 @@ Based on the applicable laws of your country, you may have the right to request 
 
 This privacy policy was created using Termly's [Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/).
 
-[![GeoBlue](https://www.expatexchange.com/images/GeoBlueCouple200-200.jpg)](https://www.expatexchange.com/partnerdirect/76/17249-DESKTOP-cbar-vrs-A-hicontent-Global-62)
+[![Allianz Care](https://www.expatexchange.com/images/baby_abruzzo_italy_fb.jpg)](https://www.kqzyfj.com/click-1462468-13892475?sid=10976-DESKTOP-cbar-vrs-A-hicontent-Global-62)
 
-[GeoBlue](https://www.expatexchange.com/partnerdirect/76/17249-DESKTOP-cbar-vrs-A-hicontent-Global-62)
+[Allianz Care](https://www.kqzyfj.com/click-1462468-13892475?sid=10976-DESKTOP-cbar-vrs-A-hicontent-Global-62)
 
-Top-quality coverage for people who live, work, study and travel internationally.  
-[Get Quote](https://www.expatexchange.com/partnerdirect/76/17249-DESKTOP-cbar-vrs-A-hicontent-Global-62 "Get Quote")
+Flexible solutions allow you to tailor your cover to meet your needs and budget. Use Promocode: LIFE10 and get 10% off your international health insurance for life!  
+[Get Quote](https://www.kqzyfj.com/click-1462468-13892475?sid=10976-DESKTOP-cbar-vrs-A-hicontent-Global-62 "Get Quote")
 
-[![GeoBlue](https://www.expatexchange.com/images/GeoBlueCouple200-200.jpg)](https://www.expatexchange.com/partnerdirect/76/17249-MOBILE-cbar-vrs-A-hicontent-Global-62)[GeoBlue](https://www.expatexchange.com/partnerdirect/76/17249-MOBILE-cbar-vrs-A-hicontent-Global-62)
+[![Allianz Care](https://www.expatexchange.com/images/baby_abruzzo_italy_fb.jpg)](https://www.kqzyfj.com/click-1462468-13892475?sid=10976-MOBILE-cbar-vrs-A-hicontent-Global-62)[Allianz Care](https://www.kqzyfj.com/click-1462468-13892475?sid=10976-MOBILE-cbar-vrs-A-hicontent-Global-62)
 
-Top-quality coverage for people who live, work, study and travel internationally.  
-[Get Quote](https://www.expatexchange.com/partnerdirect/76/17249-MOBILE-cbar-vrs-A-hicontent-Global-62 "Get Quote")
+Flexible solutions allow you to tailor your cover to meet your needs and budget. Use Promocode: LIFE10 and get 10% off your international health insurance for life!  
+[Get Quote](https://www.kqzyfj.com/click-1462468-13892475?sid=10976-MOBILE-cbar-vrs-A-hicontent-Global-62 "Get Quote")
 
 How do I use Expat Exchange?  
 You'll gain access to the best information and features when you [join our site](https://www.expatexchange.com/jointhecommunity "Join Expat Exchange") (it's free). Then, choose your destination and you'll find many of these features for your country:  
@@ -465,4 +467,4 @@ Other Resources
 
 Copyright 1997-2024 Burlingame Interactive, Inc.
 
-[Privacy Policy](https://www.expatexchange.com/privacypolicy "Privacy Policy") [Legal](https://www.expatexchange.com/legal "Legal")
+[Privacy Policy](https://www.expatexchange.com/privacypolicy "Privacy Policy") [Legal](https://www.expatexchange.com/legal "Legal") [Partners & Local Guides](javascript:void(0); "Partners and Local Guides")
