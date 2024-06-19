@@ -1,10 +1,10 @@
 [Zum Inhalt springen](#content "Zum Inhalt springen")
 
-[![reiseblitz.com](https://www.reiseblitz.com/wp-content/uploads/2023/09/logo-reiseblitz-2023-svg.svg)
+[![reiseblitz.com](https://www.reiseblitz.com/wp-content/uploads/2024/06/logo-reiseblitz-2024-svg-web.svg)
 
-![reiseblitz.com](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E)
+![reiseblitz.com](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20556%20110%22%3E%3C/svg%3E)
 
-![reiseblitz.com](https://www.reiseblitz.com/wp-content/uploads/2023/10/logo-reiseblitz-2023-svg-dark-mode.svg)
+![reiseblitz.com](https://www.reiseblitz.com/wp-content/uploads/2024/06/logo-reiseblitz-2024-dark-svg-web.svg)
 
 ![reiseblitz.com](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20225%20150%22%3E%3C/svg%3E)](https://www.reiseblitz.com/ "reiseblitz.com")
 
@@ -12,11 +12,11 @@
 
 Menü
 
-[![reiseblitz.com](https://www.reiseblitz.com/wp-content/uploads/2023/09/logo-reiseblitz-2023-svg-small.png)
+[![reiseblitz.com](https://www.reiseblitz.com/wp-content/uploads/2024/06/logo-reiseblitz-2024-svg-web.svg)
 
 ![reiseblitz.com](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%2048%22%3E%3C/svg%3E)
 
-![reiseblitz.com](https://www.reiseblitz.com/wp-content/uploads/2023/10/logo-reiseblitz-2023-svg-dark-mode-small.png)
+![reiseblitz.com](https://www.reiseblitz.com/wp-content/uploads/2024/06/logo-reiseblitz-2024-dark-svg-web.svg)
 
 ![reiseblitz.com](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%2048%22%3E%3C/svg%3E)](https://www.reiseblitz.com/ "reiseblitz.com")
 
