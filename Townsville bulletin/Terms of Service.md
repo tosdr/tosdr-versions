@@ -88,11 +88,11 @@
         
     * ### [True Crime](https://www.townsvillebulletin.com.au/truecrimeaustralia)
         
+        * [Cocaine Inc](https://www.townsvillebulletin.com.au/truecrimeaustralia/cocaine-inc)
         * [The Mushroom Cook](https://www.townsvillebulletin.com.au/truecrimeaustralia/the-mushroom-cook)
         * [Dying Rose](https://www.townsvillebulletin.com.au/truecrimeaustralia/dying-rose)
         * [Narcos On The Front Line](https://www.townsvillebulletin.com.au/truecrimeaustralia/narcos-on-the-front-line)
         * [The Missing Australia](https://www.townsvillebulletin.com.au/truecrimeaustralia/the-missing-australia)
-        * [Faith On Trial](https://www.townsvillebulletin.com.au/truecrimeaustralia/faith-on-trial)
     
 * [World](https://www.townsvillebulletin.com.au/news/world)
 * [Opinion](https://www.townsvillebulletin.com.au/news/opinion)
