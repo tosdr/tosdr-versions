@@ -1,172 +1,116 @@
-[Skip to Content](#pageContent)
+[![Untitled UI logotext](https://cdn.prod.website-files.com/65f36a007b9322599125cdb7/6650c0dafbafeb00fd5d7daf_logo-1.svg)](http://getshogun.com/)
 
-[Shogun ![Shogun](https://getshogun.com/wp-content/themes/getshogun/assets/media/images/global/logo.svg)](https://getshogun.com/ "Go to the home page.") 
+Features
 
-* [Product](#)
-    
-    Product
-    -------
-    
-    ### FEATURES
-    
-    * [Visual Editor
-        
-        Intuitive ecommerce experience editor](https://getshogun.com/features/visual-editor/)
-    * [CMS
-        
-        Create and update dynamic content at scale](https://getshogun.com/features/cms/)
-    * [A/B Testing
-        
-        Run multivariate tests on your storefront](https://getshogun.com/features/ab-testing/)
-    * [Personalization
-        
-        Deliver relevant content to your customers](https://getshogun.com/features/personalization/)
-    * [Performance Insights
-        
-        Accessibility and optimization alerts](https://getshogun.com/features/insights/)
-    * [Keyword Research
-        
-        Supercharge SEO growth](https://getshogun.com/features/seo-keyword-insights/)
-    * [Page Analytics
-        
-        Easily track performance](https://getshogun.com/features/page-analytics/)
-    
-    ### USE CASES
-    
-    * [Content Management
-        
-        Deliver engaging content experiences across your storefront](https://getshogun.com/solutions/ecommerce-content-management/)
-    * [Multi-store/Internationalization
-        
-        Manage multiple brand sites efficiently](https://getshogun.com/solutions/multi-store-ecommerce-platform/)
-    * [Ecommerce Merchandising
-        
-        Sell more with rich merchandising](https://getshogun.com/solutions/ecommerce-merchandising/)
-    * [Product Pages
-        
-        Manage product page layouts and designs](https://getshogun.com/solutions/product-detail-pages/)
-    * [Paid Campaigns
-        
-        Launch marketing campaigns and promotions](https://getshogun.com/solutions/ecommerce-ppc/)
-    * [SEO
-        
-        Drive organic traffic growth](https://getshogun.com/solutions/ecommerce-seo-tools/)
-    
-    ### WEBINAR
-    
-    [![](https://getshogun.com/wp-content/uploads/2023/09/custom_elements_webinar_featured_nav_item.webp)
-    
-    Create custom, interactive page elements
-    ----------------------------------------
-    
-    You can code up your own interactive or unique Shogun elements to take your content even further.
-    
-    Learn more](https://getshogun.com/webinars/custom-elements/)
-    
-    [](https://getshogun.com/webinars/custom-elements/)
-    
-* [Solutions](#solutions)
-    
-    Solutions
-    ---------
-    
-    ### SHOGUN FOR
-    
-    * [Fashion and Apparel
-        
-        Grow your fashion and apparel brand with Shogun](https://getshogun.com/fashion-apparel-ecommerce/)
-    * [Ecommerce Managers
-        
-        Drive revenue growth for your brand](https://getshogun.com/page-builder/ecommerce-managers/)
-    * [Ecommerce Agencies
-        
-        Bring value to your clients and grow your business](https://getshogun.com/page-builder/ecommerce-agencies/)
-    
-    ### PARTNERS
-    
-    * [Become an Agency Partner
-        
-        Expand your services and client roster by partnering with Shogun.](https://getshogun.com/agency-partners/)
-    * [Partner Portal
-        
-        Discover Shogun partners who can help you build and optimize your online store.](https://getshogun.com/partners/)
-    
-    ### CASE STUDY
-    
-    [![](https://getshogun.com/wp-content/uploads/2023/06/lyres-featured-image.png)
-    
-    ![](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%201062%20789%22%3E%3C/svg%3E)
-    
-    Lyre’s Increases Landing Page Conversion Rate by 15% With Shogun
-    ----------------------------------------------------------------
-    
-    Tailored and localized shopping experiences built with Shogun.
-    
-    Read the case study](https://getshogun.com/case-studies/lyres/)
-    
-    [](https://getshogun.com/case-studies/lyres/)
-    
-* [Resources](#)
-    
-    Resources
-    ---------
-    
-    ### Learn
-    
-    * [Case Studies
-        
-        Discover how brands are accelerating speed to market.](https://getshogun.com/case-studies/)
-    * [Blog
-        
-        Discover proven growth tactics for scaling ecommerce operators.](http://getshogun.com/learn)
-    * [Templates
-        
-        Browse a featured selection of pre-made templates.](https://getshogun.com/templates-library/)
-    * [Webinars
-        
-        See Shogun feature demos, design best practices, and more.](https://getshogun.com/webinars/)
-    * [Help Center
-        
-        Explore documentation and in-builder help articles.](https://getshogun.com/help/en)
-    
-    ### Personalize
-    
-    * [Translations
-        
-        Translate key site pages for specific regions](https://getshogun.com/experiences/translations/)
-    * [Previous Purchase History
-        
-        Create customized experiences based on customer history](https://getshogun.com/experiences/previous-purchase-targeting/)
-    * [Influencer Marketing
-        
-        Generate unique experiences for traffic coming from specific influencers](https://getshogun.com/experiences/influencer-marketing/)
-    
-    ### CASE STUDY
-    
-    [![Nextbase product image](https://getshogun.com/wp-content/uploads/2023/09/622GW_634x432px.jpg.webp)
-    
-    ![Nextbase product image](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20634%20432%22%3E%3C/svg%3E)
-    
-    Nextbase increases conversion rate with a customized collection page for recent purchasers
-    ------------------------------------------------------------------------------------------
-    
-    Discover how Nextbase increased conversion rates and clickthrough rates by providing more relevant shopping experiences.
-    
-    Read the case study](https://getshogun.com/case-studies/nextbase-targeted-experiences/)
-    
-    [](https://getshogun.com/case-studies/nextbase-targeted-experiences/)
-    
-* [Pricing](https://getshogun.com/pricing/page-builder/)
+#### product
 
-[Try for Free](https://app.getshogun.com/sign-up)
+[Visual Editor
 
-* [Building Customer Experiences](https://getshogun.com/categories/building-customer-experiences/)
-* [Scaling Your Store](https://getshogun.com/categories/scaling-your-store/)
-* [Conversion Optimization](https://getshogun.com/categories/conversion-optimization/)
-* [How to Sell Online](https://getshogun.com/categories/how-to-sell-online/)
-* [Product News](https://getshogun.com/categories/product-news/)
+Intuitive ecommerce experience editor](https://getshogun.com/features/visual-editor/)[CMS
 
-[Try for Free](https://app.getshogun.com/sign-up)
+Create and update dynamic content at scale](https://getshogun.com/features/cms/)[A/B Testing
+
+Run multivariate tests on your storefront](https://getshogun.com/features/ab-testing/)[Personalization
+
+Deliver relevant content to your customers](https://getshogun.com/features/personalization/)[Performance Insights
+
+Accessibility and optimization alerts](https://getshogun.com/features/insights/)[Keyword Research
+
+Supercharge SEO growth](https://getshogun.com/features/seo-keyword-insights/)[Page Analytics
+
+Easily track performance](https://getshogun.com/features/page-analytics/)
+
+#### use cases
+
+[Content Management
+
+Deliver engaging content experiences across your content](https://getshogun.com/solutions/ecommerce-content-management/)[Multi-store/Internationalization
+
+Manage multiple brand sites efficiently](https://getshogun.com/solutions/multi-store-ecommerce-platform/)[Ecommerce Merchandising
+
+Sell more with rich merchandising](https://getshogun.com/solutions/ecommerce-merchandising/)[Product Pages
+
+Manage product page layouts and designs](https://getshogun.com/solutions/product-detail-pages/)[Paid Campaigns
+
+Launch marketing campaigns and promotions](https://getshogun.com/solutions/ecommerce-ppc/)[SEO
+
+Drive organic traffic growth](https://getshogun.com/solutions/ecommerce-seo-tools/)
+
+#### featured webinar
+
+[![Customizing your store with Shogun's custom elements](https://cdn.prod.website-files.com/65f36a007b9322599125cdb7/6650e8cf4245da052392cf2f_how_to_use_custom_elements_in_shogun_thumbnail.webp)
+
+Create custom, interactive page elements
+
+You can code up your own interactive or unique Shogun elements to take your content even further.](https://getshogun.com/webinars/custom-elements/)
+
+solutions
+
+#### shogun for
+
+[Fashion and Apparel
+
+Grow your fashion and apparel brand with Shogun](https://getshogun.com/fashion-apparel-ecommerce/)[Ecommerce Managers
+
+Drive revenue growth for your brand](https://getshogun.com/page-builder/ecommerce-managers/)[Ecommerce Agencies
+
+Bring value to your clients and grow your business](https://getshogun.com/page-builder/ecommerce-agencies/)
+
+#### partners
+
+[Become an Agency Partner
+
+Expand your services and client roster by partnering with Shogun](https://getshogun.com/agency-partners/)[Partner Portal
+
+Deliver relevant content to your customers](https://getshogun.com/partners/)
+
+#### case study
+
+[![Lyre's Product Photo](https://cdn.prod.website-files.com/65f36a007b9322599125cdb7/66159047b88f3eb7f3a4a3cf_Lyres-Product-Image.webp)
+
+Lyre's increases landing page conversion rate by 15% with Shogun
+
+Tailored and localized shopping experiences built with Shogun.](https://getshogun.com/case-studies/lyres/)
+
+resources
+
+#### learn
+
+[Case Studies
+
+Discover how brands are accelerating speed to market](https://getshogun.com/case-studies/)[Blog
+
+Discover proven growth tactics for scaling ecommerce operations](https://getshogun.com/learn/)[Guides
+
+Learn best practices for ecommerce website design and optimization](https://getshogun.com/guides)[Templates
+
+Browse a featured selection of pre-made templates](https://getshogun.com/templates-library/)[Webinars
+
+See Shogun feature demos, design best practices, and more](https://getshogun.com/webinars/)[Help Center
+
+Explore documentation and in-builder help articles](https://getshogun.com/help/en)
+
+#### personalize
+
+[Translations
+
+Translate key site pages for specific regions](https://getshogun.com/experiences/translations/)[Previous Purchase History
+
+Create customized experiences based on customer history](https://getshogun.com/experiences/previous-purchase-targeting/)[Influencer Marketing
+
+Generate unique experiences for traffic coming from specific influencers](https://getshogun.com/experiences/influencer-marketing/)
+
+#### case study
+
+[![Nextbase product image](https://cdn.prod.website-files.com/65f36a007b9322599125cdb7/6650edbdb97f11e8157bc8d0_Nextbase_Case-Study-Image.webp)
+
+Nextbase increases conversion rate with a customized collection page for recent purchasers
+
+Discover how Nextbase increased conversion rates and clickthrough rates by providing more relevant shopping experiences.](https://getshogun.com/case-studies/nextbase-personalized-experiences/)
+
+[Pricing](https://getshogun.com/pricing/)
+
+[TRY FOR FREE](https://app.getshogun.com/sign-up)
 
 Acceptable Use Policy
 =====================
@@ -203,82 +147,58 @@ In connection with Customer’s use of the Shogun Software, Customer agrees not 
 
 All determinations related to violations of this Acceptable Use Policy will be made by Shogun in its sole discretion. Shogun reserves the right to change this Acceptable Use Policy from time to time without notice by posting changes to Shogun’s Site. When we do, we will also revise the “Last Updated” date of this Acceptable Use Policy.
 
-![](https://getshogun.com/wp-content/themes/getshogun/assets/media/images/global/logo.svg)
-
-![](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E)
+[![Untitled UI logotext](https://cdn.prod.website-files.com/65f36a007b9322599125cdb7/6650c0dafbafeb00fd5d7daf_logo-1.svg)](http://getshogun.com/)
 
 Product
--------
 
-* [Visual Editor](https://getshogun.com/features/visual-editor/)
-* [CMS](https://getshogun.com/features/cms/)
-* [A/B Testing](https://getshogun.com/features/ab-testing/)
-* [Insights](https://getshogun.com/features/insights/)
-* [Personalization](https://getshogun.com/features/targeted-experiences/)
-* [Keyword Research](https://getshogun.com/features/seo-keyword-insights/)
-* [Page Analytics](https://getshogun.com/features/page-analytics/)
-* [Case studies](https://getshogun.com/case-studies/)
-* [Product updates](https://announcekit.co/shogun-2/changelog)
-* [Pricing](https://getshogun.com/pricing/page-builder/)
+[Visual Editor](https://getshogun.com/features/visual-editor/)[CMS](https://getshogun.com/features/cms/)[A/B Testing](https://getshogun.com/features/ab-testing/)[Insights](https://getshogun.com/features/insights/)[Personalization](https://getshogun.com/features/personalization/)[Keyword Research](https://getshogun.com/features/seo-keyword-insights/)[Page Analytics](https://getshogun.com/features/page-analytics/)[Product Updates](https://announcekit.co/shogun-2/changelog)[Pricing](https://getshogun.com/pricing/)
 
 Shogun For
-----------
 
-* [Ecommerce Managers](https://getshogun.com/page-builder/ecommerce-managers/)
-* [Ecommerce Agencies](https://getshogun.com/page-builder/ecommerce-agencies/)
-* [Fashion & Apparel Brands](https://getshogun.com/fashion-apparel-ecommerce/)
-* [BigCommerce](https://getshogun.com/bigcommerce-page-builder/)
+[Ecommerce Managers](https://getshogun.com/page-builder/ecommerce-managers/)[Ecommerce Agencies](https://getshogun.com/page-builder/ecommerce-agencies/)[Fashion & Apparel Brands](https://getshogun.com/fashion-apparel-ecommerce/)[BigCommerce](https://getshogun.com/bigcommerce-page-builder/)
 
 Use Cases
----------
 
-* [Content Management](https://getshogun.com/solutions/ecommerce-content-management/)
-* [Multi-store Expansion](https://getshogun.com/solutions/multi-store-ecommerce-platform/)
-* [Visual Merchandising](https://getshogun.com/solutions/ecommerce-merchandising/)
-* [SEO](https://getshogun.com/solutions/ecommerce-seo-tools/)
-* [Paid Campaigns](https://getshogun.com/solutions/ecommerce-ppc/)
-* [Product Pages](https://getshogun.com/solutions/product-detail-pages/)
-* [Ecommerce Landing Pages](https://getshogun.com/solutions/ecommerce-landing-pages/)
-* [AI Website Builder](https://getshogun.com/shopify-ai-website-builder/)
+[Content Management](https://getshogun.com/solutions/ecommerce-content-management/)[Multi-store Expansion](https://getshogun.com/solutions/multi-store-ecommerce-platform/)[Visual Merchandising](https://getshogun.com/solutions/ecommerce-merchandising/)[SEO](https://getshogun.com/solutions/ecommerce-seo-tools/)[Paid Campaigns](https://getshogun.com/solutions/ecommerce-ppc/)[Ecommerce Landing Pages](https://getshogun.com/solutions/ecommerce-landing-pages/)[AI Website Builder](https://getshogun.com/shopify-ai-website-builder/)
 
 Resources
----------
 
-* [Blog](https://getshogun.com/blog)
-* [Guides & reports](https://getshogun.com/resources)
-* [Partner Portal](https://getshogun.com/partners/)
-* [Help center](https://getshogun.com/help/en)
+[Case Studies](https://getshogun.com/case-studies/)[Blog](https://getshogun.com/learn/)[Guides](https://getshogun.com/guides)[Partner Portal](https://getshogun.com/partners/)[Help Center](https://getshogun.com/help/en)
 
 Company
--------
 
-* [About us](https://getshogun.com/about)
-* [Become a partner](https://getshogun.com/agency-partners/)
-* [Careers](https://getshogun.com/careers)
-* [Contact Us](https://getshogun.com/contact/)
+[About Us](https://getshogun.com/about/)[Become a Partner](https://getshogun.com/agency-partners/)[Careers](https://getshogun.com/careers/)[Contact Us](https://getshogun.com/contact/)
 
-* [](https://www.linkedin.com/company/shogun/)
-* [](https://twitter.com/Shogun)
-* [](https://www.facebook.com/getshogun/)
+© 2024 Shogun Labs, Inc.
 
-* [Data Protection](https://getshogun.com/dpa/)
-* [Acceptable Use](https://getshogun.com/aup/)
-* [Terms of Service](https://getshogun.com/terms/)
-* [Privacy Policy](https://getshogun.com/privacy/)
-* © 2024 Shogun Labs, Inc.
+[Data Protection](https://getshogun.com/policy/dpa/)[Acceptable Use](https://getshogun.com/policy/aup/)[Terms of Service](https://getshogun.com/policy/terms/)[Privacy Policy](https://getshogun.com/policy/privacy/)
 
-#### **Advanced Multi-store Discounts**
+[](https://www.facebook.com/getshogun/)[](http://twitter.com/shogun)[](https://www.linkedin.com/company/shogun)
 
-\[go\_pricing id="pba-discounts"\]
+By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.
 
-[Contact us for a Multi-store Discount](https://getshogun.com/contact/)
+[Accept All Cookies](#)[Cookie Settings](#)
 
-[Data Protection Policy](https://getshogun.com/dpa/)
+[Close Cookie Preference Manager](#)
 
-We use cookies to store data for analytics, marketing and personalization to give you a better experience while visiting our website. By remaining on this website, you indicate your consent.
+Cookie Settings
 
-We use cookies to store data for analytics, marketing and personalization to give you a better experience while visiting our website. By remaining on this website, you indicate your consent.
+By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage and assist in our marketing efforts. [More info](#)
 
-[Data Protection Policy](https://getshogun.com/dpa/)
+Strictly Necessary (Always Active)
 
-Cookie Settings is not available. Cookie Consent is disabled or is just disabled for your country.
+Cookies required to enable basic website functionality.
+
+Marketing
+
+Cookies used to deliver advertising that is more relevant to you and your interests.
+
+Personalization  
+
+Cookies allowing the website to remember choices you make (such as your user name, language, or the region you are in).
+
+Analytics  
+
+Cookies helping understand how this website performs, how visitors interact with the site, and whether there may be technical issues.
+
+[Accept All Cookies](#)[Save Settings](#)
