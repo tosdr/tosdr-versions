@@ -376,7 +376,7 @@ close mobile menu
         
         Toggle submenu](https://www.gsa.gov/about-us/newsroom?topnav=about-us)
         
-        * [Agency blog](https://www.gsa.gov/blog?topnav=about-us)
+        * [Agency blog](https://www.gsa.gov/blog/?topnav=about-us)
         * [Congressional testimony](https://www.gsa.gov/about-us/newsroom/congressional-testimony?topnav=about-us)
         * [GSA does that podcast](https://www.gsa.gov/about-us/newsroom/listen-to-the-gsa-does-that-podcast)
         * [News releases](https://www.gsa.gov/about-us/newsroom/news-releases?topnav=about-us)
@@ -787,7 +787,7 @@ About us expand menu
 
 [Newsroom](https://www.gsa.gov/about-us/newsroom?topnav=about-us) expand menu
 
-[Agency blog](https://www.gsa.gov/blog?topnav=about-us)
+[Agency blog](https://www.gsa.gov/blog/?topnav=about-us)
 
 [Congressional testimony](https://www.gsa.gov/about-us/newsroom/congressional-testimony?topnav=about-us)
 
@@ -844,7 +844,8 @@ About us expand menu
 [Contact us](https://www.gsa.gov/about-us/contact-us?topnav=about-us)
 
 1. [Home](https://www.gsa.gov/)
-2. [Using the GSA.gov Website](https://www.gsa.gov/website-information)
+2. [Website Information](https://www.gsa.gov/website-information)
+3. Website policies
 
 Website policies
 ================
@@ -1058,8 +1059,6 @@ Last updated: May 6, 2024
 * [email](https://public.govdelivery.com/accounts/USGSA/subscriber/new "Email")
 
 JOIN THE CONVERSATION
-
-[Feedback](https://feedback.gsa.gov/jfe/form/SV_enbbbNZMj8ofPdH)
 
 GSA.gov
 
