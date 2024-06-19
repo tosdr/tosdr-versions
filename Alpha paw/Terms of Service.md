@@ -50,7 +50,7 @@ Checkout
 
 Error
 
-Save 20% today with code: DAD20
+Save 15% today with code: GIFT15
 
        
 
@@ -163,9 +163,8 @@ Searching
 
 [Login](http://www.alphapaw.com/customer_identity/redirect?locale=en) [Cart](https://www.alphapaw.com/cart)
 
- 
-
-![](//www.alphapaw.com/cdn/shop/files/Website_Banner_59502981-57be-4e3f-92a9-516a382cff5d.png?v=1718207208&width=3840)
+Collection: Our Bestsellers
+===========================
 
       
 
@@ -238,7 +237,7 @@ Apply
     
     2 colors
     
-    6448 total reviews](https://www.alphapaw.com/collections/bestsellers/products/pawramp)
+    6449 total reviews](https://www.alphapaw.com/collections/bestsellers/products/pawramp)
     
     Regular price
     
@@ -262,7 +261,7 @@ Apply
     
     2 colors
     
-    6448 total reviews
+    6449 total reviews
     
 * On sale
     
@@ -344,7 +343,7 @@ Apply
     
     3 sizes
     
-    3685 total reviews](https://www.alphapaw.com/collections/bestsellers/products/pawproof-throw-blanket)
+    3686 total reviews](https://www.alphapaw.com/collections/bestsellers/products/pawproof-throw-blanket)
     
     Regular price
     
@@ -370,7 +369,7 @@ Apply
     
     3 sizes
     
-    3685 total reviews
+    3686 total reviews
     
 * On sale
     
