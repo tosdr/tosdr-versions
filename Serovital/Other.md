@@ -1,51 +1,24 @@
 [Skip to content](#MainContent)
 
-[**FREE Glow Sticks 7-Pack with Purchases $75+**](https://www.serovital.com/collections/all-products "All Products")
-
-[**FREE Glow Sticks 7-Pack with Purchases $75+**](https://www.serovital.com/collections/all-products "All Products")
-
 Pause slideshow Play slideshow
+
+[FREE Glow Sticks 7-Pack with Purchases $75+](https://www.serovital.com/collections/all-products "All Products")
 
 Free US Shipping & Returns
 
 [90-Day Risk Free Trial](https://www.serovital.com/pages/returns-information "Our Hassle-Free Return Policy")
 
-**Call to Order: [1-800-435-1409](tel:+1-800-435-1409)**
-
-* [Instagram](https://instagram.com/serovital "SeroVital on Instagram")
-* [Facebook](https://www.facebook.com/serovital "SeroVital on Facebook")
-* [Twitter](https://www.twitter.com/serovital "SeroVital on Twitter")
-* [TikTok](https://www.tiktok.com/@serovitalofficial "SeroVital on TikTok")
-
-SeroVital [![SeroVital](//www.serovital.com/cdn/shop/files/serovital-logo_200x.png?v=1636670077) ![SeroVital](//www.serovital.com/cdn/shop/files/serovital-logo_140x.png?v=1636670077)](https://www.serovital.com/)
+SeroVital [![SeroVital](//www.serovital.com/cdn/shop/files/SeroVital_Logo_White_400x96_4ac60aec-5425-4f66-844c-8b0076be5bc4_150x.svg?v=1718043766) ![SeroVital](//www.serovital.com/cdn/shop/files/SeroVital_Logo_White_400x96_4ac60aec-5425-4f66-844c-8b0076be5bc4_150x.svg?v=1718043766)](https://www.serovital.com/)[![SeroVital](//www.serovital.com/cdn/shop/files/SeroVital_Logo_White_400x96_cce037ef-1b37-4d58-9923-d86e61f3c2bc_150x.svg?v=1718043786) ![SeroVital](//www.serovital.com/cdn/shop/files/SeroVital_Logo_White_400x96_cce037ef-1b37-4d58-9923-d86e61f3c2bc_150x.svg?v=1718043786)](https://www.serovital.com/)
 
 * [SHOP](https://www.serovital.com/collections/all-products)
     
-    [CATEGORIES](https://www.serovital.com/collections/all-products)
-    
-    [Wellness](https://www.serovital.com/collections/wellness) [Skincare](https://www.serovital.com/collections/skincare) [Hair](https://www.serovital.com/collections/hair) [All Products](https://www.serovital.com/collections/all-products)
-    
-    [SOLUTIONS FOR](https://www.serovital.com/collections/all-products)
-    
-    [Anti-Aging](https://www.serovital.com/collections/anti-aging) [Hair Health](https://www.serovital.com/collections/hair-health) [Weight Management](https://www.serovital.com/collections/weight-loss) [Fine Lines + Wrinkles](https://www.serovital.com/collections/solutions-for-fine-lines-and-wrinkles) [Brightening](https://www.serovital.com/collections/brightening) [Lifting + Firming](https://www.serovital.com/collections/lifting-firming) [Hydration](https://www.serovital.com/collections/skin-hydration) [Sensitive Skin](https://www.serovital.com/collections/sensitive-skin)
-    
-    [COLLECTIONS](https://www.serovital.com/collections/all-products)
-    
-    [Renew](https://www.serovital.com/collections/renew) [Revitalize](https://www.serovital.com/collections/revitalize) [Regenerate](https://www.serovital.com/collections/regenerate)
-    
-    [ESSENTIALS](https://www.serovital.com/collections/all-products)
-    
-    [Best Sellers](https://www.serovital.com/collections/best-sellers) [New in Town](https://www.serovital.com/collections/new-products) [Kits](https://www.serovital.com/collections/kits)
-    
-    Quick shop
-    
-    [![A box of anti-aging therapy SeroVital ADVANCED on a white background](//www.serovital.com/cdn/shop/products/sva-box-front-big_400x.jpg?v=1636960152)
-    
-    SeroVital® ADVANCED
-    
-    $11900 $119.00](https://www.serovital.com/products/serovital-advanced)
-    
-    "Close (esc)"
+    * [Anti-Aging & Wellness](https://www.serovital.com/collections/anti-aging-wellness)
+    * [Skincare](https://www.serovital.com/collections/skincare)
+    * [Hair & Scalp](https://www.serovital.com/collections/hair)
+    * [Best Sellers](https://www.serovital.com/collections/best-sellers)
+    * [What's New](https://www.serovital.com/collections/new-products)
+    * [Kits](https://www.serovital.com/collections/kits)
+    * [All Products](https://www.serovital.com/collections/all-products)
     
 * [SUBSCRIBE](https://www.serovital.com/pages/subscribe)
 * [SCIENCE](https://www.serovital.com/pages/science)
@@ -75,41 +48,17 @@ Your cart is currently empty.
     SHOP Expand submenu
     * SHOP
     * [View all](https://www.serovital.com/collections/all-products)
-    * CATEGORIES Expand submenu
-        * CATEGORIES
-        * [View all](https://www.serovital.com/collections/all-products)
-        * [Wellness](https://www.serovital.com/collections/wellness)
-        * [Skincare](https://www.serovital.com/collections/skincare)
-        * [Hair](https://www.serovital.com/collections/hair)
-        * [All Products](https://www.serovital.com/collections/all-products)
-    * SOLUTIONS FOR Expand submenu
-        * SOLUTIONS FOR
-        * [View all](https://www.serovital.com/collections/all-products)
-        * [Anti-Aging](https://www.serovital.com/collections/anti-aging)
-        * [Hair Health](https://www.serovital.com/collections/hair-health)
-        * [Weight Management](https://www.serovital.com/collections/weight-loss)
-        * [Fine Lines + Wrinkles](https://www.serovital.com/collections/solutions-for-fine-lines-and-wrinkles)
-        * [Brightening](https://www.serovital.com/collections/brightening)
-        * [Lifting + Firming](https://www.serovital.com/collections/lifting-firming)
-        * [Hydration](https://www.serovital.com/collections/skin-hydration)
-        * [Sensitive Skin](https://www.serovital.com/collections/sensitive-skin)
-    * COLLECTIONS Expand submenu
-        * COLLECTIONS
-        * [View all](https://www.serovital.com/collections/all-products)
-        * [Renew](https://www.serovital.com/collections/renew)
-        * [Revitalize](https://www.serovital.com/collections/revitalize)
-        * [Regenerate](https://www.serovital.com/collections/regenerate)
-    * ESSENTIALS Expand submenu
-        * ESSENTIALS
-        * [View all](https://www.serovital.com/collections/all-products)
-        * [Best Sellers](https://www.serovital.com/collections/best-sellers)
-        * [New in Town](https://www.serovital.com/collections/new-products)
-        * [Kits](https://www.serovital.com/collections/kits)
+    * [Anti-Aging & Wellness](https://www.serovital.com/collections/anti-aging-wellness)
+    * [Skincare](https://www.serovital.com/collections/skincare)
+    * [Hair & Scalp](https://www.serovital.com/collections/hair)
+    * [Best Sellers](https://www.serovital.com/collections/best-sellers)
+    * [What's New](https://www.serovital.com/collections/new-products)
+    * [Kits](https://www.serovital.com/collections/kits)
+    * [All Products](https://www.serovital.com/collections/all-products)
 * [SUBSCRIBE](https://www.serovital.com/pages/subscribe)
 * [SCIENCE](https://www.serovital.com/pages/science)
 * [BLOG](https://www.serovital.com/blogs/blog)
 * [CONTACT US](https://www.serovital.com/pages/contact)
-* **Call to Order: [1-800-435-1409](tel:1-800-435-1409)**
 
 View more
 
@@ -200,6 +149,8 @@ Free standard shipping on all U.S. orders.
 All trademarks are the property of their respective owners. © SanMedica (2012-2024) All Rights Reserved.
 
 "Close (esc)"
+
+ 
 
 [0](#)
 
