@@ -1,4 +1,8 @@
-![null](https://www.facebook.com/tr?id=1565747026990890&ev=PageView&noscript=1&a=plbigcommerce1.2&eid=store-2-prd-us-central1-181009874905)                                                        [Skip to main content](#main-content)
+![null](https://www.facebook.com/tr?id=1565747026990890&ev=PageView&noscript=1&a=plbigcommerce1.2&eid=store-2-prd-us-central1-181559562181)                                                        [Skip to main content](#main-content)
+
+Today Only—$9 Planners! | [SHOP](https://www.carsondellosa.com/sale/todays-offers/planners/)
+
+Win the Classroom of Your Dreams | [ENTER](https://www.carsondellosa.com/sweepstakes/classroom-of-your-dreams/)
 
 Just For You–Free Shipping on Online Orders $40+
 
@@ -191,7 +195,6 @@ Search  search
         * [Puzzles & Games](https://www.carsondellosa.com/free-resources/resource-type/puzzles-games/)
         * [Browse All](https://www.carsondellosa.com/free-resources/)
     * [Subject](https://www.carsondellosa.com/free-resources/subject/)
-        * [Financial Literacy Month](https://www.carsondellosa.com/free-resources/subject/financial-literacy-month/)
         * [Seasonal](https://www.carsondellosa.com/free-resources/subject/seasonal/)
         * [Early Learning](https://www.carsondellosa.com/free-resources/subject/early-learning/)
         * [Language Arts](https://www.carsondellosa.com/free-resources/subject/language-arts/)
