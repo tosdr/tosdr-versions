@@ -143,9 +143,9 @@ Cloudflare may also use Cookies to ensure the security and optimize the performa
 
 * 1\. The Website may contain references to other websites. Whenever you visit other websites, the Administrator recommends making yourself familiar with the relevant privacy policies there. This Privacy Policy applies only to the Administrator’s Website.
 
-![URL Shortener, Branded Short Links, Link Analytics | Cuttly](img/foot_logo.svg)
+![Free URL Shortener, Branded Short Links & Analytics | Cuttly](img/foot_logo.svg)
 
-URL Shortener, Branded Short Links, Link Analytics | Cuttly
+Free URL Shortener, Branded Short Links & Analytics | Cuttly
 
 [![facebook](img/fb.svg)](https://www.facebook.com/cuttlyURL/) [![twitter](img/twitter.svg)](https://twitter.com/cutt_ly/) [![instagram](img/instagram.svg)](https://www.instagram.com/cutt.ly/) [![linked in](img/linkedin.svg)](https://www.linkedin.com/showcase/cuttly-url-shortener/)
 
@@ -153,15 +153,15 @@ URL Shortener
 -------------
 
 * [Why Cuttly?](https://cutt.ly/resources/blog/why-cuttly)
-* [URL Shortener](https://cutt.ly/resources/tools/url-shortener)
+* [URL Shortener](https://cutt.ly/)
 * [Available features](https://cutt.ly/url-shortener-features)
 
 Cuttly Tools
 ------------
 
 * [Cuttly Platform](https://cutt.ly/resources/tools)
-* [URL Shortener](https://cutt.ly/resources/tools/url-shortener)
-* [Link Analytics](https://cutt.ly/resources/tools/link-analytics)
+* [URL shortener tool](https://cutt.ly/resources/tools/url-shortener)
+* [Link analytics tool](https://cutt.ly/resources/tools/link-analytics)
 * [Cuttly Surveys](https://cutt.ly/resources/tools/cuttly-surveys)
 * [Link-in-bio](https://cutt.ly/resources/tools/link-in-bio)
 * [QR Codes](https://cutt.ly/resources/tools/qr-codes)
