@@ -85,9 +85,9 @@ _Mailgun Technologies Inc, San Francisco, US_ - Email communication is processed
 
 _Groove Networks LLC, Newport, US_ - Customer service activities are handled through Groove. Email and Twitter messages send to Tinify are combined with your username, purchase information and email address. This information is handled by Tinify's support representatives working with Groove.
 
-_Rollbar Inc, San Francisco US_ - Rollbar analyzes unhandled web application errors and crashes. It processes application errors, logs, and anonymized user data to diagnose and resolve issues. Data including anonymized IP addresses, device information, and user actions related to the error are stored.
-
 _Campaign Monitor Pty Ltd, Sydney, Australia_ - Campaign Monitor is used in the event of important communication relating to the Service and to contact customers about major product updates. Your name, purchases and email address are stored for email delivery with Campaign Monitor.
+
+_WideAngle Analytics_, Berlin, Germany - Wideangle is a privacy friendly analytics platform that collects anonymized usage of the website, like page views and user interactions, to enhance the service.
 
 _Voormedia B.V., Amsterdam, The Netherlands_ - Voormedia provides support, maintenance and development activities for the Service. Voormedia representatives may process personal data in order to assist with support requests or troubleshoot technical issues.
 
