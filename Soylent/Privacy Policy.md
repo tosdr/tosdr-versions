@@ -1,4 +1,4 @@
-Please ensure Javascript is enabled for purposes of [website accessibility](https://userway.org/)                                                                                              Soylent Nutrition, Inc. Privacy Policy - Soylent                      
+Please ensure Javascript is enabled for purposes of [website accessibility](https://userway.org/)                                                                                  Soylent Nutrition, Inc. Privacy Policy - Soylent                                   
 
 Date Override:
 
@@ -109,6 +109,7 @@ LEARN MORE](https://impact.soylent.com/)
 [Blog](https://soylent.com/pages/blogs)[Press](https://soylent.com/blogs/press)[Recipes](https://soylent.com/blogs/Recipes)[Reviews](https://soylent.com/pages/reviews)[Discount Programs](https://soylent.com/pages/soylent-discount-programs)[Ambassador Program](https://soylent.com/pages/ambassadors)
 
 * [why soy?](https://soylent.com/blogs/news/why-soy-protein)
+* [clinical trials](https://soylent.com/pages/soylent-clinical-trials)
 * [reviews](https://soylent.com/pages/reviews)
 * [product quiz](https://soylent.com/pages/soylent-product-recommendation-quiz)
 
@@ -211,6 +212,7 @@ Soylent
     [close](#)
     
 * [why soy?](https://soylent.com/blogs/news/why-soy-protein)
+* [clinical trials](https://soylent.com/pages/soylent-clinical-trials)
 * [reviews](https://soylent.com/pages/reviews)
 * [product quiz](https://soylent.com/pages/soylent-product-recommendation-quiz)
 
