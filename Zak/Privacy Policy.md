@@ -56,12 +56,6 @@ Free Returns up to 30 Days Contiguous U.S.
 
 [Dinnerware](https://www.zak.com/collections/dinnerware)
 
-[](https://www.zak.com/collections/confetti-melamine-dinnerware)
-
-![Confetti Melamine Dinnerware](//www.zak.com/cdn/shop/files/confetti-blue-menu.jpg?v=1679506698&width=1000)
-
-[Confetti Dinnerware](https://www.zak.com/collections/confetti-melamine-dinnerware)
-
 [Best Sellers](https://www.zak.com/collections/best-sellers)
 
 [New Arrivals](https://www.zak.com/collections/new-arrivals)
@@ -166,15 +160,7 @@ Hide menu [Drinkware](https://www.zak.com/collections/drinkware)
 
 [Beacon Covered Spout](https://www.zak.com/collections/beacon-covered-spout-bottles-all)
 
-Dinnerware Expand menu
-
-Hide menu [Dinnerware](https://www.zak.com/collections/dinnerware)
-
-[](https://www.zak.com/collections/confetti-melamine-dinnerware)
-
-![Confetti Melamine Dinnerware](//www.zak.com/cdn/shop/files/confetti-blue-menu.jpg?v=1679506698&width=1000)
-
-[Confetti Dinnerware](https://www.zak.com/collections/confetti-melamine-dinnerware)
+[Dinnerware](https://www.zak.com/collections/dinnerware)
 
 [Best Sellers](https://www.zak.com/collections/best-sellers)
 
