@@ -184,70 +184,70 @@ _Last Updated: Mon 3rd Apr 2023 11:32_
 
 Popular Right Now
 
+* ![Nintendo Direct June 2024: Every Announcement, Game Reveal, Trailer](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
+    
+    [Nintendo Direct June 2024: Every Announcement, Game Reveal, Trailer](https://www.nintendolife.com/guides/nintendo-direct-june-2024-every-announcement-game-reveal-trailer)
+    
+    9h ago
+* ![Nintendo Direct June 2024: Time, Where To Watch, What To Expect](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
+    
+    [Nintendo Direct June 2024: Time, Where To Watch, What To Expect](https://www.nintendolife.com/news/2024/06/nintendo-direct-june-2024-time-where-to-watch-what-to-expect)
+    
+    19h ago
+* ![Talking Point: What We Expect From The Upcoming June Nintendo Direct](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
+    
+    [Talking Point: What We Expect From The Upcoming June Nintendo Direct](https://www.nintendolife.com/features/talking-point-what-we-expect-from-the-upcoming-june-nintendo-direct)
+    
+    2d ago
+* ![New 2D Adventure 'The Legend Of Zelda: Echoes Of Wisdom' Announced For This September](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
+    
+    [New 2D Adventure 'The Legend Of Zelda: Echoes Of Wisdom' Announced For This September](https://www.nintendolife.com/news/2024/06/new-2d-adventure-the-legend-of-zelda-echoes-of-wisdom-announced-for-this-september)
+    
+    12h ago
+* ![Miyamoto Shares Surprise Update About New Mario Movie Ahead Of Nintendo Direct](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
+    
+    [Miyamoto Shares Surprise Update About New Mario Movie Ahead Of Nintendo Direct](https://www.nintendolife.com/news/2024/06/miyamoto-shares-surprise-update-about-new-mario-movie-ahead-of-nintendo-direct)
+    
+    1d ago
+* ![Watch: Nintendo Direct June 2024 - Live!](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
+    
+    [Watch: Nintendo Direct June 2024 - Live!](https://www.nintendolife.com/news/2024/06/watch-nintendo-direct-june-2024-live)
+    
+    13h ago
+* ![Zelda-Themed 'Hyrule Edition' Nintendo Switch Lite Launches This September](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
+    
+    [Zelda-Themed 'Hyrule Edition' Nintendo Switch Lite Launches This September](https://www.nintendolife.com/news/2024/06/zelda-themed-hyrule-edition-nintendo-switch-lite-launches-this-september)
+    
+    9h ago
+* ![Reaction: A Direct That Delivered, And Shows That Switch Still Has Plenty Of Pep](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
+    
+    [Reaction: A Direct That Delivered, And Shows That Switch Still Has Plenty Of Pep](https://www.nintendolife.com/features/reaction-a-direct-that-delivered-and-shows-that-switch-still-has-plenty-of-pep)
+    
+    8h ago
 * ![Best Star Wars Video Games, Ranked - Switch And Nintendo Systems](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
     
     [Best Star Wars Video Games, Ranked - Switch And Nintendo Systems](https://www.nintendolife.com/guides/best-star-wars-video-games-ranked-switch-and-nintendo-systems)
     
-    6h ago
-* ![Every Nintendo Switch Online Game Boy (Color) Game Ranked](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
+    Sun 9th Jun 2024
+* ![Metroid Prime 4: Beyond Confirmed For Switch, Launching 2025](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
     
-    [Every Nintendo Switch Online Game Boy (Color) Game Ranked](https://www.nintendolife.com/guides/every-nintendo-switch-online-game-boy-color-game-ranked)
+    [Metroid Prime 4: Beyond Confirmed For Switch, Launching 2025](https://www.nintendolife.com/news/2024/06/metroid-prime-4-beyond-confirmed-for-switch-launching-2025)
     
-    2d ago
-* ![Hands On: Sonic X Shadow Generations Is A Love Letter To Sonic Adventure 2](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
+    11h ago
+* !['Super Mario Party Jamboree' Rolls Onto Switch This October](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
     
-    [Hands On: Sonic X Shadow Generations Is A Love Letter To Sonic Adventure 2](https://www.nintendolife.com/features/hands-on-sonic-x-shadow-generations-is-a-love-letter-to-sonic-adventure-2)
+    ['Super Mario Party Jamboree' Rolls Onto Switch This October](https://www.nintendolife.com/news/2024/06/super-mario-party-jamboree-rolls-onto-switch-this-october)
     
-    1h ago
-* ![Nintendo Expands Switch Online's Game Boy Library With Five More Classics](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
+    11h ago
+* ![Marvel vs. Capcom Fighting Collection: Arcade Classics Will Get Super On Switch This Year](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
     
-    [Nintendo Expands Switch Online's Game Boy Library With Five More Classics](https://www.nintendolife.com/news/2024/06/nintendo-expands-switch-onlines-game-boy-library-with-five-more-classics)
+    [Marvel vs. Capcom Fighting Collection: Arcade Classics Will Get Super On Switch This Year](https://www.nintendolife.com/news/2024/06/marvel-vs-capcom-fighting-collection-arcade-classics-will-get-super-on-switch-this-year)
     
-    3d ago
-* ![Talking Point: HD-2D Or 3D - How Should Square Enix Remake Chrono Trigger?](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
-    
-    [Talking Point: HD-2D Or 3D - How Should Square Enix Remake Chrono Trigger?](https://www.nintendolife.com/features/talking-point-hd-2d-or-3d-how-should-square-enix-remake-chrono-trigger)
-    
-    1d ago
-* ![Round Up: Every Game From Wholesome Direct 2024 Coming To Switch](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
-    
-    [Round Up: Every Game From Wholesome Direct 2024 Coming To Switch](https://www.nintendolife.com/news/2024/06/round-up-every-game-from-wholesome-direct-2024-coming-to-switch)
-    
-    12h ago
-* ![Round Up: Every Switch Highlight At The Future Games Show - Summer Showcase 2024](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
-    
-    [Round Up: Every Switch Highlight At The Future Games Show - Summer Showcase 2024](https://www.nintendolife.com/news/2024/06/round-up-every-switch-highlight-at-the-future-games-show-summer-showcase-2024)
-    
-    14h ago
-* ![Mighty Morphin Power Rangers Return In All-New Retro-Style Action Game](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
-    
-    [Mighty Morphin Power Rangers Return In All-New Retro-Style Action Game](https://www.nintendolife.com/news/2024/06/mighty-morphin-power-rangers-return-in-all-new-retro-style-action-game)
-    
-    2d ago
-* ![Best Paper Mario Games Of All Time](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
-    
-    [Best Paper Mario Games Of All Time](https://www.nintendolife.com/guides/best-paper-mario-games-of-all-time)
-    
-    Mon 27th May 2024
-* ![Octopath Traveler II Receives A Surprise Update On Switch Today](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
-    
-    [Octopath Traveler II Receives A Surprise Update On Switch Today](https://www.nintendolife.com/news/2024/06/octopath-traveler-ii-receives-a-surprise-update-on-switch-today)
-    
-    4d ago
-* ![Sonic Team On Remasters: "If There's A Title People Like, We'll Think About It"](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
-    
-    [Sonic Team On Remasters: "If There's A Title People Like, We'll Think About It"](https://www.nintendolife.com/news/2024/06/sonic-team-on-remasters-if-theres-a-title-people-like-well-think-about-it)
-    
-    9h ago
-* ![Balatro Special Edition Physical Release Announced For Switch](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
-    
-    [Balatro Special Edition Physical Release Announced For Switch](https://www.nintendolife.com/news/2024/06/balatro-special-edition-physical-release-announced-for-switch)
-    
-    2d ago
+    11h ago
 
 [Show More](https://www.nintendolife.com/news)
 
-Join **1,447,353** people following **Nintendo Life**:
+Join **1,448,468** people following **Nintendo Life**:
 
 * [RSS Feed](https://www.nintendolife.com/feeds/latest "Subscribe to our RSS Feed")
 * [YouTube](https://www.youtube.com/nintendolife "Nintendo Life on YouTube")
