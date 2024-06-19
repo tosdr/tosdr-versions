@@ -16,15 +16,9 @@ Try searching for:
 
 [Sign up free](https://app.mural.co/signup)
 
-Product
+Products
 
-Capabilities
-
-[Overview](https://www.mural.co/features)[Mural AI new](https://www.mural.co/ai)[Templates](https://www.mural.co/templates)[Integrations](https://www.mural.co/integrations)
-
-Solutions
-
-[By use case](https://www.mural.co/use-cases)[By team](https://www.mural.co/solutions)
+[Overview](https://www.mural.co/product)[Mural AI](https://www.mural.co/mural-ai)[Templates](https://www.mural.co/templates)[Integrations](https://www.mural.co/integrations)[LUMA Institute](https://www.luma-institute.com/)
 
 ![](https://cdn.prod.website-files.com/62e11362da2667ac3d0e6ed5/6541a6cc1f47c285a02105dc_AI_Sparks_Grape.webp)
 
@@ -34,9 +28,33 @@ Experience a better way to work with Mural AI and the Microsoft 365 Copilot inte
 
 [Read blog post](https://www.mural.co/blog/mural-ai)
 
+Solutions
+
+[The Mural System](https://www.mural.co/mural-system)[Teamwork Assessment](https://www.mural.co/teamwork-assessment)[Professional Services](https://www.mural.co/professional-services)[Use cases](https://www.mural.co/use-cases)
+
+![An iconography of 3 people working together to put together 3 different shapes on a whiteboard to make one united shape on a red background](https://cdn.prod.website-files.com/62e11362da2667ac3d0e6ed5/66632111875d0cf4ffdd3412_Frame%2015%20(1).webp)
+
+Find out how well your team works
+
+Mural has solutions to help all teams thrive. See where your team stands with the Mural Teamwork Assessment.
+
+[Take the assessment](https://www.mural.co/teamwork-assessment)
+
+Enterprise
+
+[Overview](https://www.mural.co/enterprise)[Professional Services](https://www.mural.co/professional-services)[Trust & security](https://www.mural.co/trust-and-security)[Microsoft partnership](https://www.mural.co/partners/microsoft)[Book a demo](https://www.mural.co/contact-us/sales)
+
+![An iconography of 3 people working together to put together 3 different shapes on a whiteboard to make one united shape on a blue background](https://cdn.prod.website-files.com/62e11362da2667ac3d0e6ed5/66632126bd5d4945da641128_Frame%2016%20(1).webp)
+
+Help teams work better across the enterprise
+
+Great teamwork is no accident. Understand your team’s needs with the Mural Teamwork Assessment.
+
+[Take the assessment](https://www.mural.co/teamwork-assessment)
+
 Resources
 
-[Blog](https://www.mural.co/blog)[Webinars & events](https://www.mural.co/webinars)[Case studies](https://www.mural.co/case-studies)[Help center](https://support.mural.co/)
+[Webinars & events](https://www.mural.co/webinars)[Case studies](https://www.mural.co/case-studies)[Help center](https://support.mural.co/)[Blog](https://www.mural.co/blog)
 
 ![](https://cdn.prod.website-files.com/62e11362da2667ac3d0e6ed5/65e6516e0df4ff8b6514bf94_teamwork-report-nav-cover.webp)
 
@@ -45,18 +63,6 @@ Does your team need work?
 The state of teamwork is ... not great. Learn why workers and leaders are feeling the heat in our research report.
 
 [Get the report](https://www.mural.co/get/teamwork-research-report-2024)
-
-Enterprise
-
-[Overview](https://www.mural.co/enterprise)[Trust & security](https://www.mural.co/trust)[Microsoft partnership](https://www.mural.co/partners/microsoft)[Book a demo](https://www.mural.co/contact-us/sales)
-
-![](https://cdn.prod.website-files.com/62e11362da2667ac3d0e6ed5/65412f74c172ff976d92b301_AI_Sparks_Mural_Blue.webp)
-
-New AI-powered integration with Microsoft 365 Copilot
-
-Two new AI-powered technologies are available for enterprise teams to work better together – a new integration with Microsoft 365 Copilot and Mural AI.
-
-[Read press release](https://www.mural.co/press-releases/mural-announces-integration-with-microsoft-365-copilot-to-enable-ai-enhanced-collaboration-for-enterprise-teams)
 
 [Pricing](https://www.mural.co/pricing)[Contact sales](https://www.mural.co/contact-us/sales)
 
@@ -221,47 +227,49 @@ This Privacy Statement describes how Mural processes personal information, and w
 
 [MURAL Homepage](https://www.mural.co/)![](https://cdn.prod.website-files.com/62e11362da2667ac3d0e6ed5/62ea8cdf90a560ff722024f6_breadcrumb_chevron.svg)[Terms](https://www.mural.co/terms)![](https://cdn.prod.website-files.com/62e11362da2667ac3d0e6ed5/62ea8cdf90a560ff722024f6_breadcrumb_chevron.svg)[Privacy Statement](https://www.mural.co/terms/privacy-statement)
 
-* Product
+* Products
     
-* [Enterprise](https://www.mural.co/enterprise)
-* [Trust & Security](https://www.mural.co/trust)
-* [Pricing](https://www.mural.co/pricing)
+* [Product overview](https://www.mural.co/product)
 * [Features](https://www.mural.co/features)
-* [Mural AI](https://www.mural.co/ai)
+* [Mural AI](https://www.mural.co/mural-ai)
 * [Templates](https://www.mural.co/templates)
-* [Facilitation Superpowers](https://www.mural.co/features/superpowers)
 * [Developers](https://www.mural.co/api)
 * [Integrations](https://www.mural.co/integrations)
+* [Trust & security](https://www.mural.co/trust-and-security)
+* [Pricing](https://www.mural.co/pricing)
+* [Enterprise](https://www.mural.co/enterprise)
 
-* Explore
+* Solutions
     
-* [Solutions](https://www.mural.co/solutions)
-* [Use Cases](https://www.mural.co/use-cases)
-* [Industries](https://www.mural.co/industries)
-* [What's new](https://www.mural.co/topics/product)
+* [The Mural System](https://www.mural.co/mural-system)
+* [Teamwork Assessment](https://www.mural.co/teamwork-assessment)
+* [Use cases](https://www.mural.co/use-cases)
+* [LUMA Institute](https://www.luma-institute.com/)
+* [Professional Services](https://www.mural.co/professional-services)
 
 * Resources
     
-* [Webinars & Events](https://www.mural.co/webinars)
+* [Webinars & events](https://www.mural.co/webinars)
 * [Blog](https://www.mural.co/blog)
-* [Resource Hub](https://www.mural.co/resources)
-* [Case Studies](https://www.mural.co/case-studies)
-* [Help Center](https://support.mural.co/s/)
+* [Resource hub](https://www.mural.co/resources)
+* [Microsoft partnership](https://www.mural.co/partners/microsoft)
+* [Case studies](https://www.mural.co/case-studies)
+* [Accessibility](https://www.mural.co/accessibility)
+* [Mural status](http://status.mural.co/)
+* [Help center](https://support.mural.co/s/)
 
 * Company
     
-* [About Us](https://www.mural.co/about-us)
+* [About us](https://www.mural.co/about-us)
 * [Careers](https://www.mural.co/careers)
 * [Newsroom](https://www.mural.co/newsroom)
-* [Brand Assets](https://www.mural.co/brand-assets)
-* [Accessibility](https://www.mural.co/accessibility)
-* [Mural Status](http://status.mural.co/)
-* [Contact Sales](https://www.mural.co/contact-us/sales)
-* [Contact Us](https://www.mural.co/contact-us)
+* [Brand assets](https://www.mural.co/brand-assets)
+* [Contact sales](https://www.mural.co/contact-us/sales)
+* [Contact us](https://www.mural.co/contact-us)
 
 * Our Apps
     
-* [Download our Apps](https://www.mural.co/apps)
+* [Download our apps](https://www.mural.co/apps)
 * [Microsoft Teams](https://www.mural.co/partners/microsoft/teams)
 * [Surface Hub](https://www.mural.co/partners/microsoft/surface-hub)
 
