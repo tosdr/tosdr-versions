@@ -160,6 +160,14 @@ Questions, comments and requests regarding this Privacy Policy are welcomed and 
 
 ### Latest Reviews
 
+* [![Godlike.Host](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyAQAAAAA2RLUcAAAAAnRSTlMAAHaTzTgAAAAOSURBVBjTY2AYBYMJAAABkAABxZvbSQAAAABJRU5ErkJggg==)
+    
+    ![Godlike.Host](https://thishosting.rocks/wp-content/uploads/2024/06/godlike-1-50x50.jpg)](https://thishosting.rocks/godlike-host-review/ "Godlike.Host")
+    
+    [Godlike.Host](https://thishosting.rocks/godlike-host-review/ "Godlike.Host")
+    
+    9.7
+    
 * [![Snappa](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAhAQAAAACzBsUpAAAAAnRSTlMAAHaTzTgAAAANSURBVBjTY2AYBSAAAAEIAAHO7fnCAAAAAElFTkSuQmCC)
     
     ![Snappa](https://thishosting.rocks/wp-content/uploads/2024/02/21-50x33.png)](https://thishosting.rocks/snappa-review/ "Snappa")
@@ -175,14 +183,6 @@ Questions, comments and requests regarding this Privacy Policy are welcomed and 
     [pCloud](https://thishosting.rocks/pcloud-review/ "pCloud")
     
     9.1
-    
-* [![MantisBT](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyAQAAAAA2RLUcAAAAAnRSTlMAAHaTzTgAAAAOSURBVBjTY2AYBYMJAAABkAABxZvbSQAAAABJRU5ErkJggg==)
-    
-    ![MantisBT](https://thishosting.rocks/wp-content/uploads/2024/02/mantis-124-50x50.png)](https://thishosting.rocks/introducing-mantisbt-a-foss-bug-tracker/ "MantisBT")
-    
-    [MantisBT](https://thishosting.rocks/introducing-mantisbt-a-foss-bug-tracker/ "MantisBT")
-    
-    9
     
 
   
