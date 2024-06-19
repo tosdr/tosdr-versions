@@ -1,182 +1,231 @@
-Privacy Policy : HILOKAL CO., LTD.
+Hilokal Privacy Policy
+======================
 
-Last Updated: 1 September, 2022  
-  
-HILOKAL CO., LTD., together with their respective parents, subsidiaries and affiliates, (“Hilokal,” “we,” “our,” and/or “us”) value the privacy of individuals who use our website, www.hilokal.com, mobile app, and related services (collectively, our “Services”). This privacy policy (the “Privacy Policy”) explains how we collect, use, and share information from or about Hilokal users (“Users,” you,” and/or “your”) or their devices. By using our Services, you agree to the collection, use, disclosure, and procedures this Privacy Policy describes. Beyond the Privacy Policy, your use of our Services is also subject to our [Terms of Service](https://www.hilokal.com/ "Terms of Service").
+Privacy Policy Summary
+----------------------
 
-1.     INFORMATION WE COLLECT
+Hereʼs Hilokalʼs privacy Policy. Have a read through and understand how we respect your privacy and your data. First, hereʼs the short version in bullet points:
 
-We may collect a variety of information from or about you or your devices from various sources, as described below.
+* **Data Collection**: We only collect personal data necessary for providing our services, such as your contact details, profile information, and activity data. We collect audio recordings only when you request us to, and 2 minutes of audio when a user-report is triggered.
+* **Usage and Storage**: Your data is used to create your profile, enhance community safety, and improve our services. We store your data securely and retain it only as long as necessary.
+* **Third-Party Sharing**: We share your data with third parties only with your explicit consent or to comply with legal obligations. This includes services for analytics, hosting, and payment processing.
+* **Your Rights**: You have the right to access, correct, delete, and restrict the processing of your data. You can also revoke your consent at any time and lodge complaints with the relevant authorities.
 
-A. Information You Provide to Us.
+Full Privacy Policy
+-------------------
 
-1.      Registration and Profile Information. If you sign up for an account, we ask you for your nickname, password, email address, date of birth, and phone number. You may also provide your gender, profile photo, a voice introduction, and topics that interest you. You may also connect your Social media accounts. You may be required to provide to us a valid form of government-issued identification. If you sign up using a social media or third-party account, we will also receive information from those third-party services such as your name, email address, profile photo.
+Below you will find how Hilokal handles your personal data in our mobile app and website. Your data protection is important to us.
 
-2.      Payment Information. Hilokal offers users the ability to buy “Bean” on the Services. If you buy Bean, your purchase will be made through your Apple or Google account. Hilokal does not collect financial or billing information from you in relation to such a transaction. Please review Apple or Google’s terms and notices to learn more about how your data is processed. We do keep a record of the purchases you make, the time of your purchases, and the amount you spend in order to credit your account with the correct value.
+### Contact
 
-3.      Communications. If you contact us directly, we may receive additional information about you. For example, when you contact us for support, we will receive your nickname, email address, unique ID, title, the contents of a message or attachments that you may send to us, and other information you choose to provide.
+Hilokal Co LTD.  
+CEO: JeongHo YUN [admin@hilokal.com](https://www.hilokal.com/en/app/admin@hilokal.com)  
+Address: #407\_c, 37, Seongsui-ro 22-gil, Seongdong-gu, Seoul  
+주소 : 서울시 성동구 성수이로 22길 37 407\_c호
 
-4.      Audio Broadcasts and User Content. When you use the Services, you may provide us with audio recordings (including voice) (“Casts”), live streams, along with any other content that you submit, webcast, or otherwise transmit to the Services, including, without limitation, comments, messages, photos, images, folders, data, text, and other types of works published on the Services, including through features such as LIVE, and TALK (including any third-party content included in such user content, such as any audiovisual works, sound recordings or musical works) (together with “Casts,” “User Content”)
+Data Protection Officer  
+Asong Choi  
+[asong@hilokal.com](https://www.hilokal.com/en/app/asong@hilokal.com)  
+Address: #407\_c, 37, Seongsui-ro 22-gil, Seongdong-gu, Seoul  
+주소 : 서울시 성동구 성수이로 22길 37 407\_c호
 
-B. Information We Collect When You Use Our Services.
+### 1\. Personal Data
 
-5.      Location Information. We infer your general location information (for example, your IP address may indicate your general geographic region).
+Personal data includes any information that can identify an individual. The categories of personal data we process are:
 
-6.      Device Information. We receive information about the device and software you use to access our Services, including internet protocol (IP) address, web browser type, operating system version, phone carrier and manufacturer, device identifiers, mobile advertising identifiers, and push notification tokens.
+* **Contact Details**: This includes your email address, and location. (not shared with other Hilokal members)
+* **Profile Information**: This covers details such as your age, gender, and city.
+* **Profile Images**: Any personal images you upload to your profile.
+* **Message Content**: This includes images, voice messages, corrections, and topics shared within your messages.
+* **Communications with Hilokal**: Any correspondence you have with us.
+* **Log Files**: Information about your visits to our website and apps.
+* **Online Identifiers**: This includes cookie IDs, IP addresses, and advertising IDs.
+* **Activity Data**: Records of your interactions with our apps and websites, such as clicks, screens viewed, and pages visited.
+* **Audio recordings**: Hilokal audio is temporarily recorded for purposes described below, but is immediately deleted after 2 minutes unless:
+    * For user-reports review: if one or more reported user is a participant of a conversation room, the last 2 minutes of audio in such conversation room is saved for user-report review and community moderation to protect other users.
+    * When you request recording: The word-count feature records and stores your audio if you request.
+    * When a Premium Host makes a recording Premium Hosts have the ability to record conversation taking place in the rooms. All users are notified the audio room is being recorded. You may only speak and have your voice recorded if you explicitly consent while in the conversation room.
 
-7.      Usage Information. We automatically receive information about your interactions with our Services, like the pages or other content you view, your language selection, the searches you conduct, people you follow, content you like, virtual items that you purchase, gift and receive, your chats and comments, and the dates and times of your visits.
+### 2\. Purposes of Use
 
-8.      Information from Cookies and Similar Technologies. We and third-party partners collect information using cookies, pixel tags, or similar technologies. Our third-party partners, such as analytics and advertising partners, may use these technologies to collect information about your online activities over time and across different services. Cookies are small text files containing a string of alphanumeric characters. We may use both session cookies and persistent cookies. A session cookie disappears after you close your browser. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to our Services.
+We collect personal data only to the extent and for the purposes you provide it to us, such as when registering an account. We use and store your personal data as part of our services for the following purposes:
 
-9.      Please review your web browser’s “Help” file to learn the proper way to modify your cookie settings. Please note that if you delete or choose not to accept cookies from the Service, you may not be able to utilize the features of the Service to their fullest potential.
+* **User Profile Creation**: To create a public user profile for you on Hilokal.
+* **Service Communications**: To send you relevant service information via email or push notifications, such as updates on your membership status, missed calls/messages, and new followers.
+* **Targeted Advertising**: To display targeted ads in the app.
+* **Partner Matching**: To help you find Hilokal partners nearby.
+* **Service Optimization**: To understand how Hilokal is used and to optimize our service.
+* **Curated Language Learning Community**: To ensure a secure, member-only environment for language learners. We prevent abuse and promptly ban offenders by verifying profile picture authenticity and comparing hashed photos with known scam images.
+* **Community Safety**: To maintain a safe, friendly, and accountable environment in one-on-one chats, parties, clubs, and group chats by encouraging authentic communication.
+* **Correspondence**: To communicate with you.
+* **Survey Participation**: To facilitate your participation in our surveys.
+* **Contract Processing**: To process any contracts with you (purchasing subscriptions, in-app purchases)
+* **Advertising and Newsletters**: To send advertising materials such as newsletters.
+* **Quality Assurance and Statistics**: To ensure quality and collect statistical data.
+* **Member Profile Discovery**: To create a profile that helps others find and connect with you.
 
-C. Information We Receive from Third Parties.
+Only verified members can contact you, and we never display your email, exact location, or any information you choose not to share. We do not share your personal data with third parties unless you give explicit consent or we are legally obligated to do so, such as by a court order. To provide functionality and for usage analysis and marketing purposes, we collect relevant information.
 
-We may receive additional information about you from third parties such as data or marketing partners and combine it with other information we have about you.
+### 3\. Legal Basis
 
-2.     HOW WE USE YOUR INFORMATION
+We process your data according to the following legal grounds:
 
-We use the information we collect:
+* **Consent**: As per Art. 6(1)(a) of the General Data Protection Regulation (GDPR), when you have given consent for cookies or advertising.
+* **Contract Fulfillment**: Under Art. 6(1)(b) GDPR, to establish and execute the contract, such as when you join our community.
+* **Compliance with Legal Obligations**: According to Art. 6(1)(c) GDPR, to meet legal requirements.
+* **Legitimate Interests**: Based on Art. 6(1)(f) GDPR, for processing messages you share with your Hilokal partners in one-on-one chats, conversation rooms, and group chats, aligning with our legitimate interests. Furthermore, statistical data and online identifiers are processed under our legitimate interests, in accordance with Art. 6(1)(f) GDPR.
 
-  
- 
+#### Legitimate Interests
 
-1.      To provide, maintain, improve, and enhance our Services;
+When processing your data, we aim to achieve the following legitimate interests:
 
-2.      To communicate with you, provide you with updates and other information relating to our Services, provide information that you request, respond to comments and questions, to validate or verify your account, and otherwise provide customer support;
+* **Community Integrity and Credibility**: To uphold and enhance the integrity and credibility of our community.
+* **Misuse Prevention**: To protect against misuse and fraudulent activities.
+* **Service Provision and Improvement**: To deliver and enhance our services.
+* **Statistics and Analytics**: To gather statistical data and analyze service usage.
 
-3.      To facilitate the connection of third-party services or applications, such as social networks and payment providers;
+### 4\. Sources of Data
 
-4.      For marketing purposes, such as developing and providing promotional and advertising materials that may be useful, relevant, valuable or otherwise of interest to you;
+Unless stated otherwise, we collect data directly from you, including from the devices you use.
 
-5.      To personalize your experience on our Services such as presenting tailored content;
+### 5\. Data Retention Policy
 
-6.      To send you push notifications;
+We retain your data under specific conditions to ensure compliance and functionality:
 
-7.      To send you text messages with the purpose of confirming your account;
+* **Consent-Based Retention**: If you have given consent for specific processing, we retain your data until you withdraw your consent (e.g., by deleting your account).
+* **Contractual Requirements**: If data is needed to fulfill an agreement, we retain it until the contractual relationship ends or legal retention periods expire.
+* **Legitimate Interest**: If data is used based on legitimate interests, we retain it until your overriding interests requiring deletion or anonymization.
+* **Account Deletion**: When you delete your account, your personal information will be permanently removed within 30 days, but we keep your associated email address and Hilokal ID to process future deletion requests and respond to user inquiries. Additionally, any messages you have sent to a Hilokal partner will remain; however, the sender will be anonymized.
+* **Membership Applications**: We store membership applications, including personal information, from the tutors. This information will be deleted within 30 days of account deletion.
+* **Rule Violation Consequences**: To maintain a safe environment, we take violations of Terms of Service or Community Guidelines seriously. We may retain anonymous personal identifiers for up to 24 months to prevent access to the Hilokal service during that period.
 
-8.      To facilitate transactions and payments;
+### 6\. Children’s Information Policy
 
-9.      To de-identify and aggregate information collected through the Services and use it for any lawful purpose;
+Children and individuals under the age of 16 are not permitted to use Hilokal. If you are a parent and discover that your child is using Hilokal without your permission, please contact us at [admin@hilokal.com](https://www.hilokal.com/en/app/admin@hilokal.com).
 
-10.  To find and prevent fraud, and respond to trust and safety issues that may arise, including taking steps that we reasonably believe to be necessary to protect the safety, security, and rights of Hilokal, its employees, service providers, users and others;
+### 7\. Cookies
 
-11.  For compliance purposes, including enforcing our Terms of Service, Privacy Policy, other contracts with you, or other legal rights, or as may be required to comply with applicable laws and regulations or as requested by or in our good faith belief as required by any legal or judicial process or governmental agency; and
+Cookies and similar technologies are small text files or pieces of code that often contain a unique identification code. When you visit a website or use a mobile application, your device is asked for permission to save this file and access certain information. Information collected through cookies may include the date and time of your visit and how you use the website or app. We use cookies to:
 
-12.  For other purposes for which we provide specific notice at the time the information is collected.
+* **Remember Information**: So that you don’t have to re-enter it during your visit or on subsequent visits.
+* **Provide Personalized Content**: To offer custom and personalized content and information.
+* **Monitor Service Effectiveness**: To assess and ensure the effectiveness of our services.
+* **Aggregate Metrics**: To gather and analyze data such as total visitors, traffic, and demographic patterns.
+* **Diagnose Issues**: To identify and fix technology problems.
+* **Streamline Access**: To help you efficiently access your information after signing in.
+* **Maintain Login**: To keep you logged in during your session.
+* **Ensure Community Safety**: To keep the Hilokal community safe for all members.
 
-We may also aggregate, de-identify, and/or anonymize any information collected through the Services in such a way that we cannot reasonably link information to you or your device. We may use such aggregate, de-identified, or anonymous information for any purpose.
+### 8\. Data Recipients
 
-3.     HOW WE SHARE YOUR INFORMATION
+We use your personal information within our company and share it only with third-party companies involved in fulfilling the contracts or providing relevant services. We forward the following customer data to third parties:
 
-1.      Affiliates. We may share any information we receive with our affiliates for any of the purposes described in this Privacy Policy.
+* **Service Analysis**: To analyze how Hilokal is used and to optimize our service and design, we share pseudonymous usage and personal data with Google Analytics, Firebase Analytics, and UX Cam.
+* **Personalized Advertising**: With your explicit consent, to make ads more personal, we may share anonymized personal information, such as age, gender, and device identifiers with Admob by Google, and Facebook Audience Network. Both iOS and Android devices have resettable advertising identifiers that companies can use to target ads based on the apps you use.
+* **Community Moderation**: To enforce our community moderation policies, we share personal data with Camino Moderation services to process user reports.
+* **Disabling Mobile Advertising Identifiers**:  
+    iOS Devices: Go to your iOS device settings and enable the “Limit ad trackingˮ option.  
+    Android Devices: Go to your Android device settings and enable the “Opt out of ads personalizationˮ option.
 
-2.      Vendors and Service Providers. We may share any information we receive with vendors and service providers retained in connection with the provision of our Services.
+#### 8.1 Registration and Authentication
 
-3.      User Content. Our Services are social services in which you can find, enjoy, and share audio content. Your name, username, Casts, live streams, and other profile information are viewable by other users. DJs and broadcasters can see when you are viewing their live streams. We are not responsible for how other users use available information, so you should carefully consider whether and what to post, and how you identify yourself on the Services.
+By registering or authenticating, users allow Hilokal to identify them securely and give them access to its services. Depending on what is described below, third parties may provide registration and authentication services. In this case, Hilokal will be able to access some data stored by these third-party services for registration or identification purposes, with the userʼs explicit consent:
 
-4.      Third Party App Integrations. If you connect a third-party application to our Services, we may share information such as app install confirmation with that third-party.  
-You may choose to integrate YouTube videos into your live contents. Therefore, our website utilizes the YouTube API Services, and you are agreeing to be bound by the YouTube Terms of Service ([https://www.youtube.com/t/terms](https://www.youtube.com/t/terms "https://www.youtube.com/t/terms")), Privacy Policy ([http://www.google.com/policies/privacy](http://www.google.com/policies/privacy "http://www.google.com/policies/privacy")), and API Services Terms of Service ([https://developers.google.com/youtube/terms/api-services-terms-of-service](https://developers.google.com/youtube/terms/api-services-terms-of-service "https://developers.google.com/youtube/terms/api-services-terms-of-service")) when engaging YouTube content and services through our website.
+* **Facebook Authentication (Meta, Inc.)**: Facebook Authentication is a registration and authentication service provided by Facebook, Inc. and is connected to the Facebook social network. The personal data collected includes various types of data as specified in the privacy policy of the service. Place of processing: United States – [Privacy Policy](https://www.apple.com/legal/privacy/).
+* **Firebase Authentication (Google Inc.)**: Firebase Authentication is a registration and authentication service provided by Google Inc. To simplify the registration and authentication process, Firebase Authentication can make use of third-party identity providers and save the information on its platform. Personal data collected: email. Place of processing: United States – Privacy Policy.
+* **Google OAuth (Google Inc.)**: Google OAuth is a registration and authentication service provided by Google Inc. and is connected to the Google network. The personal data collected includes various types of data as specified in the privacy policy of the service. Place of processing: United States – [Privacy Policy](https://policies.google.com/privacy).
+* **Kakao Authentication**: Kakao Authentication is a registration and authentication service provided by Kakao Corp. The personal data collected includes various types of data as specified in the privacy policy of the service. Place of processing: South Korea – [Privacy Policy](https://www.kakao.com/policy/privacy).
+* **Naver Authentication**: Naver Authentication is a registration and authentication service provided by Naver Corp. The personal data collected includes various types of data as specified in the privacy policy of the service. Place of processing: South Korea – [Privacy Policy](https://policy.naver.com/policy/privacy_en.html).
+* **Sign in with Apple (Apple Inc.)**: Sign in with Apple is a registration and authentication service provided by Apple Inc. In cases where users are required to provide their email address, Sign in with Apple may generate a private relay address on behalf of users that automatically forwards messages to their verified personal email account, thereby shielding their actual email address from the owner. Personal data processed: email address, first name, last name, user ID. Place of processing: United States – [Privacy Policy](https://www.apple.com/legal/privacy/).
 
-5.      Analytics Partners. We use analytics services such as Google Analytics to collect and process certain analytics data. These services may also collect information about your use of other websites, apps, and online resources. You can learn about Google’s practices by going to [https://www.google.com/policies/privacy/partners/](https://www.google.com/policies/privacy/partners/), and opt-out of them by downloading the Google Analytics opt-out browser add-on, available at [https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout).
+#### 8.2 Hosting and Backend Infrastructure
 
-6.      Advertising Partners. We work with third-party advertising partners to show you ads that we think may interest you. These advertising partners may set and access their own cookies, pixel tags and similar technologies on our Services and they may otherwise collect or have access to information about you which they may collect over time and across different online services. Some of our advertising partners are members of [the Network Advertising Initiative](http://optout.networkadvertising.org/?c=1#!/) or [the Digital Advertising Alliance](http://optout.aboutads.info/?c=2&lang=EN). If you do not wish to receive personalized ads, please visit their opt-out pages to learn about how you may opt out of receiving web-based personalized ads from member companies. You can access any settings offered by your mobile operating system to limit ad tracking, or you can install the AppChoices mobile app to learn more about how you may opt out of personalized ads in mobile apps.
+These services are used for hosting data and files that enable Hilokal to operate and be distributed, as well as providing the infrastructure needed to run specific features or parts of Hilokal. Some of these services work through geographically distributed servers, making it difficult to determine the exact location where personal data is stored.
 
-7.      As Required By Law and Similar Disclosures. We may access, preserve, and disclose your information if we believe doing so is required or appropriate to: (a) comply with law enforcement requests and legal process, such as a court order or subpoena; (b) respond to your requests; or (c) comply with applicable law; (d) protect your, our, or others’ rights, property, or safety. For the avoidance of doubt, the disclosure of your information may occur if you post any objectionable content on or through the Services.
+* **Amazon Web Services (AWS) (Amazon Web Services, Inc.)**: AWS is a hosting and backend service provided by Amazon.com Inc. A wide range of personal data, including sign-in data, images, and message content, is stored on AWS infrastructure as Hilokalʼs main hosting and infrastructure provider. Places of processing: Germany and the United States – [Privacy Policy](https://aws.amazon.com/privacy/).
+* **Google Cloud Platform (Google Inc.)**: Google Cloud Platform is a hosting and backend service provided by Google Inc. Personal data collected includes various types of data as specified in the privacy policy of the service. Place of processing: United States – [Privacy Policy](https://cloud.google.com/terms/data-processing-terms).
+* **Vultr (The Constant Company, LLC)**: Vultr is hosting and backend service provided by The Constant Company, LLC. All real-time audio communication is forwarded, but not stored, by servers on the Vultr network. Place of processing: Singapore, India – [Privacy Policy](https://www.vultr.com/legal/privacy/).
 
-8.      Merger, Sale, or Other Asset Transfers. We may disclose and transfer your information to service providers, advisors, potential transactional partners, or other third parties in connection with the consideration, negotiation, or completion of a corporate transaction in which we are acquired by or merged with another company or we sell, liquidate, or transfer all or a portion of our business or assets.
+#### 8.3 Payment Handling
 
-9.      Consent We may also disclose information from or about you or your devices with your permission.
+Payment handling services allow Hilokal to process transactions securely. For enhanced security, Hilokal does not process or store credit card details, only using the necessary information to complete transactions with the financial intermediaries involved. Some of these services may also send you timed messages, such as emails with invoices or payment notifications.
 
-4.     YOUR CHOICES
+* **Apple App Store Payments (Apple Inc.)**: Hilokal uses a payment service provided by Apple Inc. for in-app purchases. Personal data required to complete purchases is processed by Apple as described in their [privacy policy for the App Store](https://policy.naver.com/policy/privacy_en.html). Personal data processed: payment information. Place of processing: United States – [Privacy Policy.](https://www.apple.com/legal/privacy/en-ww/)
+* **Google Play Store Payments (Google Ireland Limited)**: Hilokal uses a payment service provided by Google Ireland Limited for in-app purchases. Personal data required to complete purchases is processed by Google as described in their [privacy policy for the Google Play](https://policies.google.com/privacy) Store. Personal data processed: payment information. Place of processing: Ireland – [Privacy Policy.](https://policies.google.com/privacy)
 
-1.      Marketing Communications. You can unsubscribe from our promotional emails via the link provided in the emails. Even if you opt-out of receiving promotional messages from us, you will continue to receive administrative messages from us.
+#### 8.4 Service Monitoring
 
-5.     THIRD PARTIES
+These services allow Hilokal to monitor the usage and behavior of its components to improve features, performance, operation, maintenance, and troubleshooting. The personal data processed depends on the service’s characteristics and implementation.
 
-Our Services may contain links to other websites, products, or services that we do not own or operate. We are not responsible for the privacy practices of these third parties. Please be aware that this Privacy Policy does not apply to your activities on these third-party services or any information you disclose to these third parties. We encourage you to read their privacy policies before providing any information to them.
+* Crashlytics (Google Inc.): Crashlytics, provided by Google Inc., helps improve app stability and reduce crashes. Personal data collected: geographic location, unique device identifiers (e.g., Google Advertiser ID or IDFA), and various data as specified in the service’s privacy policy. Place of processing: United States – [Privacy Policy.](https://policies.google.com/privacy)
+* Sentry (Functional Software, Inc.): Sentry is a monitoring service that helps improve application stability and performance. Personal data collected: device information, error details, and various types of data as specified in the service’s privacy policy. Place of processing: United States – [Privacy Policy.](https://sentry.io/privacy/)
 
-6.     SECURITY
+#### 8.5 Contact Management and Messaging
 
-We make reasonable efforts to protect your information by using physical and electronic safeguards designed to improve the security of the information we maintain. However, as our Services are hosted electronically, we can make no guarantees as to the security or privacy of your information.
+These services enable communication with users outside the app, such as via push notifications and email. They may manage a database of email contacts, phone contacts, or other contact information to communicate with users. These services may also collect data about when the message was viewed and interacted with, such as clicking on links included in the message.
 
-7.     CHILDREN’S PRIVACY
+* **Firebase Cloud Messaging (Google Inc.)**: Firebase Cloud Messaging, provided by Google Inc., allows sending messages and notifications to users across platforms like Android, iOS, and the web. Messages can be sent to single devices, groups of devices, or specific topics or user segments. Personal data collected: various types of data as specified in the service’s privacy policy. Place of processing: United States – [Privacy Policy](https://firebase.google.com/support/privacy/).
+* **AWS Pinpoint (Amazon Web Services, Inc.)**: AWS Pinpoint, provided by Amazon Web Services, Inc., is a service that enables sending targeted push notifications and emails to users. It also allows for tracking message delivery and user interactions. Personal data collected: various types of data as specified in the service’s privacy policy. Place of processing: United States – [Privacy Policy](https://aws.amazon.com/privacy/).
 
-We do not knowingly collect, maintain, or use personal information from children under 13 years of age, and no part of our Services are directed to children. If you learn that a child has provided us with personal information in violation of this Privacy Policy, then you may alert us at [admin@hilokal.com](mailto:admin@hilokal.com).
+#### 8.6 Traffic and Usage Analytics
 
-8.     INTERNATIONAL VISITORS
+These services enable us to monitor and analyze web and mobile traffic, tracking how users interact with Hilokal.
 
-Our Services are hosted in the United States. If you choose to use the Services from the European Union or other regions of the world with laws governing data collection and use that may differ from U.S. law, then please note that you are transferring your personal information outside of those regions to the United States for storage and processing. Also, we may transfer your data from the U.S. to other countries or regions in connection with storage and processing of data, fulfilling your requests, and operating the Services. By providing any information, including personal information, on or to the Services, you consent to such transfer, storage, and processing.
+* **Internal Analytics (Hilokal)**: We use an internal analytics system that does not involve third parties. Personal data collected: cookies and usage data.
+* **Google Analytics (Google Inc.)**: This web analysis service tracks and examines the use of Hilokal, prepares reports, and shares them with other Google services. Google may also use the data to contextualize and personalize its ads. Personal data collected: cookies and usage data. Place of processing: United States – [Privacy Policy](https://policies.google.com/privacy) – [Opt Out](https://tools.google.com/dlpage/gaoptout?hl=en).
+* **Firebase Analytics (Google Inc.)**: This service tracks usage data and shares information with other Firebase tools, such as Crash Reporting, Authentication, Remote Config, or Notifications. Users can opt out of certain features through device settings. Personal data collected: cookies, unique device identifiers for advertising (e.g., Google Advertiser ID or IDFA), and usage data. Place of processing: United States – [Privacy Policy](https://firebase.google.com/support/privacy/).
+* **Facebook Ads Conversion Tracking (Facebook, Inc.)**: This service connects data from Facebook ads with actions performed on Hilokal. Personal data collected: cookies and usage data. Place of processing: United States – [Privacy Policy](https://www.facebook.com/about/privacy/).
+* **TestFlight (Apple Inc.)**: This analytics service provided by Apple tracks app usage and performance. Personal data collected: cookies, email address, and usage data. Place of processing: United States – [Privacy Policy](https://www.apple.com/legal/internet-services/itunes/testflight/sren/terms.html).
 
-9.     UPDATE YOUR INFORMATION
+For further details on how these services use your data, please refer to their respective privacy policies.
 
-You can update your account and profile information or deactivate your account through your profile settings.
+#### 8.7 Advertising
 
-10. ADDITIONAL INFORMATION FOR CALIFORNIA RESIDENTS
+Ads help us fund Hilokal and keep most features free. We share your age, gender, location, and device information with advertisers to make ads more relevant and increase our revenue. We only share your data with your consent, which you can revoke at any time. Below are the advertising services we use:
 
-California Consumer Privacy Act (“CCPA”).
+* **AdMob (Google Inc.)**: AdMob displays ads based on cookies, unique device identifiers (e.g., Google Advertiser ID or IDFA), and usage data. Place of processing: United States – Privacy Policy – Opt Out.
+* **Facebook Audience Network (Facebook, Inc.)**: This service uses cookies and device identifiers to show ads based on user preferences. Users can manage ad preferences in the Facebook ad settings. Personal data collected: cookies, unique device identifiers, and usage data. Place of processing: United States [Privacy Policy](https://www.facebook.com/about/privacy/) – [Opt Out](https://www.facebook.com/ads/preferences/?entry_product=ad_settings_screen).
 
-The CCPA requires us to provide our users who reside in California with the additional notice below.
+For more details on these services and how to opt out, refer to their respective privacy policies.
 
-  
- 
+#### 8.8 A/B Testing and Content Performance
 
-We collect and disclose for a business purpose the following categories of personal information:
+These services allow Hilokal to track and analyze user responses to changes in web traffic or behavior regarding changes to the structure, text, or any other component of Hilokal.
 
-1.      Contact Information and Identifiers, including name, alias, online identifiers, IP address, email address, or other similar identifiers.
+* **Firebase Remote Config (Google Inc.)**: An A/B testing and configuration service. Personal data collected: various types as specified in the privacy policy. Place of processing: United States –[Privacy Policy](https://firebase.google.com/support/privacy/).
+* **Google Optimize (Google Inc.)**: A tool for A/B testing, website testing, and personalization. Personal data collected: various types as specified in the privacy policy. Place of processing: United States – [Privacy Policy](https://policies.google.com/privacy).
 
-2.      Customer Records, including name, telephone number, and financial information (such as payment and bank account number, collected only by our service provider).
+### 9\. Data Transfer to Third Countries
 
-3.      Protected Classifications Under California or Federal Law, including age and gender.
+Data collected within the region of your residence, which may be European Economic Area (EEA), is transferred to countries outside the EEA, including the United States, Singapore, India, and South Korea. We ensure that appropriate safeguards are in place to protect your personal data in accordance with GDPR.
 
-4.      Commercial Information, including products or services purchased or obtained.
+These safeguards include:
 
-5.      Internet or Other Electronic Network Activity Information, including browsing history, search history, and information regarding a user’s interaction with an internet website or application.
+* **Adequacy Decisions**: Transfers to countries that the European Commission has deemed to provide an adequate level of data protection.
+* **Standard Contractual Clauses**: Use of standard data protection clauses approved by the European Commission.
+* **Other Legal Mechanisms**: Use of other legally recognized mechanisms and safeguards as required.
 
-6.      Audio/Visual Information, including audio, visual, and electronic information.
+### 10\. Your Rights
 
-7.      Professional/Employment Information, including job application or resume information if you apply for a job with us.
+As a Hilokal user, you have the following rights regarding your personal data:
 
-8.      Inferences, inferences drawn from any personal information to create a profile about a consumer reflecting the consumer’s preferences, characteristics, predispositions, behavior, and attitudes.
+* **Access and Information**: Request details on whether and what personal data is processed by us, and how it has been processed.
+* **Correction**: Request amendments to your personal data.
+* **Deletion**: Request deletion of your personal data, for example by using the “Delete Accountˮ option in “My Page-Settings-Manage accountˮ. However, deletion may be refused in accordance with GDPR and other applicable laws.
+* **Restriction**: Request restrictions on the processing of your personal data under certain conditions. When this right is exercised, the data may be stored but can only be processed for limited purposes, and it cannot be used for other purposes without the your consent.
+* **Object**: Request objections to the processing of your personal data under certain conditions. Revocation of Consent: Revoke your consent to data processing at any time, with future effect.
+* **Data Portability**: Receive your personal data in a common, structured, and machine-readable format via the “Manage accountˮ ⇒ “Download personal dataˮ ⇒ “Submit Request” button in “My Pageˮ. Your Data will be sent to you via Direct Message in Hilokal as a ZIP file.
+* **Contact**: For questions, comments, complaints, or requests related to data protection. [admin@hilokal.com](https://www.hilokal.com/en/app/admin@hilokal.com)
+* **Complaints**: Lodge a complaint with the relevant supervisory authority if you believe your personal data processing violates legal regulations.
 
-9.      Identifiers for Verification, such as your government-issued identification if requested and provided by you, to manage your account, provide the Service, other internal operations and to verify or validate your account.
+### 11\. Automated Decision-Making and Profiling
 
-  
- 
+We may use automated decision-making processes, including profiling, to provide personalized services or ads. This means decisions are made by algorithms without human intervention. Profiling helps us analyze or predict your personal preferences, interests, behavior, and other attributes. You have the right not to be subject to decisions based solely on automated processing that significantly affect you. This right does not apply if the decision is necessary for a contract, authorized by law, or based on your explicit consent.
 
-The “Information We Collect” section of this Privacy Policy describes the categories of sources from which we collect your personal information. “How We Use Your Information” describes the purposes for which we collect your personal information. “How We Share Your Information” sets forth the types of third parties with which we share your personal information.
+### 12\. Data Provision Requirements
 
-  
- 
+Unless explicitly stated otherwise, providing data is not mandatory or required when it is collected. However, please note that restriction or objection to the processing of your personal data may result in restriction of certain services requiring the data.
 
-If you are a California resident, you may exercise the following rights:
+### Date of issue of this data privacy statement
 
-1.      The right to request a copy of the personal information that we have collected about you in the prior 12 months.
-
-2.      The right to request details about the categories of personal information we collect, the categories of sources, the business or commercial purposes for collecting information, and the categories of third parties with which we share information.
-
-3.      The right to request deletion of the personal information that we have collected about you, subject to certain exemptions.
-
-California residents can submit deletion and access requests online by emailing us at [admin@hilokal.com](mailto:admin@hilokal.com).
-
-You have the right not to receive discriminatory treatment for the exercise of your CCPA privacy rights, subject to certain limitations.
-
-An authorized agent may submit an access or deletion request on your behalf by sending a written authorization signed by you to [admin@hilokal.com](mailto:admin@hilokal.com). We may still require you to directly verify your identity and confirm that you provided the authorized agent permission to submit the request
-
-  
- 
-
-Minors.
-
-  
- 
-
-If you are a California resident under the age of 18 and you wish to remove content that you publicly posted, you may submit a request by contacting us at [admin@hilokal.com](mailto:admin@hilokal.com). Removing the public content does not ensure complete or comprehensive removal of the content or information.
-
-2.     CHANGES TO THIS PRIVACY POLICY
-
-We will post any adjustments to the Privacy Policy on this page, and the revised version will be effective when it is posted. If we materially change the ways in which we use or share personal information previously collected from you through the Services, we will attempt to notify you through the Services, by email, or other means.
-
-3.     CONTACT INFORMATION
-
-If you have any questions, comments, or concerns about our processing activities, please email us at [admin@hilokal.com](mailto:admin@hilokal.com).
+2024-06-11
