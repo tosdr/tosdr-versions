@@ -451,6 +451,8 @@ Start using Polly with your team
 
 [Security](https://www.polly.ai/security)
 
+[Become a Polly Partner](https://www.polly.ai/partner-with-us)
+
 [Company](javascript:;)
 
 [About us](https://www.polly.ai/about)
