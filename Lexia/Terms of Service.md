@@ -51,9 +51,10 @@ Lexia Learning Systems https://www.lexialearning.com https://www.lexialearning.c
     * [Charter Schools](https://www.lexialearning.com/solutions/solutions-by-topic/charter-schools)
     
     * [Solutions By Audience](https://www.lexialearning.com/solutions/solutions-by-audience/)
-    * [District Administrators](https://www.lexialearning.com/solutions/solutions-by-audience/district-administrators)
-    * [Elementary Principals](https://www.lexialearning.com/solutions/solutions-by-audience/elementary-principals)
+    * [Superintendents](https://www.lexialearning.com/solutions/solutions-by-audience/superintendents)
+    * [Curriculum Directors](https://www.lexialearning.com/solutions/solutions-by-audience/curriculum-directors)
     * [Secondary Principals](https://www.lexialearning.com/solutions/solutions-by-audience/secondary-principals)
+    * [Elementary Principals](https://www.lexialearning.com/solutions/solutions-by-audience/elementary-principals)
     
 * [Lexia by State](https://www.lexialearning.com/lexia-by-state/)
 * Why Lexia 
