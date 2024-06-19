@@ -6,38 +6,15 @@
 
 [**SALE: 20% OFF | CODE: JUNE20**](https://www.knoll.com/shop/sale)
 
+* [#### Shop for Home](https://www.knoll.com/shop "Shop for Home")
+* [#### Plan for Workplace](https://www.knoll.com/design-plan "Plan for Workplace")
+
 * [Accessibility Statement](https://www.millerknoll.com/legal/accessibility-statement)
-* [Help Center](https://www.knoll.com/help)
 * [Locations](https://www.knoll.com/location)
 
-* [Sign in](https://www.knoll.com/myaccount/signin)
-* [Order Status](#)
-    
-    Check Order Status
-    ------------------
-    
-    All fields are required
-    
-    Billing Email 
-    
-    Web Order Number 
-    
-    Billing Zip/Postal Code 
-    
-    ![Close](images/close.svg)
-    
+* [Dealer Portal](https://www.knoll.com/myaccount/signin)
 
-[![Knoll](/images/logo.png)](https://www.knoll.com/)
-
-* [#### Shop](https://www.knoll.com/shop "Shop")
-* [#### Workplace](https://www.knoll.com/design-plan "Workplace")
-* [#### Textiles](https://www.knoll.com/shop-textiles "Textiles")
-
-###### [Explore products and resources for planning a workplace for a commercial, education, healthcare or government organization.](https://www.knoll.com/design-plan)
-
-###### [Shop Knoll Textiles upholstery, wallcovering, drapery and more.](https://www.knoll.com/shop-textiles)
-
-[0 ![](/images/theme/shoppingCart.png)](https://www.knoll.com/cart/shoppingCart "0 items in cart") 
+###### [Explore workplace products and resources for commercial, education, healthcare, and government spaces.](https://www.knoll.com/design-plan)
 
 * [Living](https://www.knoll.com/shop/living-room)
     
@@ -57,7 +34,7 @@
     
     [Shop All](https://www.knoll.com/shop/living-room/all "Shop All")
     
-    ##### [![](/nkdc/images/categorypages/shop/room/livingextnav_0623.jpg)](https://www.knoll.com/product/barcelona-chair)
+    ##### [![](/nkdc/images/categorypages/shop/room/livingextnav_0623.jpg)](https://www.knoll.com/design-plan/product/barcelona-chair)
     
 * [Dining](https://www.knoll.com/shop/dining-room)
     
@@ -76,7 +53,7 @@
     
     [Shop All](https://www.knoll.com/shop/dining-room/all "Shop All")
     
-    ##### [![](/nkdc/images/categorypages/shop/room/diningextnav_0623.jpg)](https://www.knoll.com/product/bertoia-leather-covered-side-chair)
+    ##### [![](/nkdc/images/categorypages/shop/room/diningextnav_0623.jpg)](https://www.knoll.com/design-plan/product/bertoia-leather-covered-side-chair)
     
 * [Work from Home](https://www.knoll.com/shop/work-from-home/all)
     
@@ -95,7 +72,7 @@
     
     [Shop All](https://www.knoll.com/shop/work-from-home/all "Shop All")
     
-    ##### [![](/nkdc/images/categorypages/shop/room/wfhextnav_0623.jpg)](https://www.knoll.com/product/newson-task-chair)
+    ##### [![](/nkdc/images/categorypages/shop/room/wfhextnav_0623.jpg)](https://www.knoll.com/design-plan/product/newson-task-chair)
     
 * [Outdoor](https://www.knoll.com/shop/outdoor)
     
@@ -251,9 +228,9 @@
     * [Dividends Horizon](https://www.knoll.com/design-plan/collections/workplace/dividends-horizon)
     * [Rockwell Unscripted](https://www.knoll.com/design-plan/collections/workplace/rockwell-unscripted)
     * [Reff Profiles](https://www.knoll.com/design-plan/collections/workplace/reff-profiles)
-    * [Islands by Knoll](https://www.knoll.com/product/islands-by-knoll?section=design)
-    * [Pixel](https://www.knoll.com/product/pixel-by-marc-krusin?section=design)
-    * [Anchor Storage](https://www.knoll.com/product/anchor?section=design)
+    * [Islands by Knoll](https://www.knoll.com/design-plan/product/islands-by-knoll?section=design)
+    * [Pixel](https://www.knoll.com/design-plan/product/pixel-by-marc-krusin?section=design)
+    * [Anchor Storage](https://www.knoll.com/design-plan/product/anchor?section=design)
     * [Generation by Knoll](https://www.knoll.com/design-plan/collections/workplace/generation-by-knoll)
     
     ##### [Our  
@@ -303,6 +280,7 @@
     * [Knoll Showrooms](https://www.knoll.com/locations/knoll-showrooms)
     * [Sales Teams](https://www.knoll.com/design-plan/teams)
     * [How to Purchase](https://www.knoll.com/design-plan/resources/purchasing-knoll-2)
+    * [Workplace Help](https://www.knoll.com/help/workplace)
     
     ##### [Research](https://www.knoll.com/design-plan/resources/research)
     
@@ -371,128 +349,9 @@
     * [World Monuments Prize](https://www.knoll.com/story/design-plan/world-monuments-fund)
     
 
-* [Products](https://www.knoll.com/shop-textiles)
-    
-    ![KnollTextiles](/images/headline.png)  
-    Products
-    -------------------------------------------------
-    
-    Shop products developed for healthcare, hospitality, educational, corporate, and residential interiors.
-    
-    [Recent Introductions](https://www.knoll.com/shop/knolltextiles/recent-introductions)
-    
-    * [Upholstery](https://www.knoll.com/shop/knolltextiles/upholstery/all-upholstery)
-    * [Wallcovering](https://www.knoll.com/shop/knolltextiles/wallcovering/all-wallcovering)
-    * [Drapery](https://www.knoll.com/shop/knolltextiles/drapery/all-drapery)
-    * [Panel](https://www.knoll.com/shop/knolltextiles/panel-fabrics/all-panel-fabrics)
-    * [Privacy Curtain](https://www.knoll.com/shop/knolltextiles/healthcare/privacy-curtains)
-    * [Pillows](https://www.knoll.com/shop/knolltextiles/pillows)
-    
-    ##### ![](/nkdc/images/categorypages/textiles/knolltextiles-nav-feature.jpg)
-    
-* [Collections](https://www.knoll.com/shop/knolltextiles/recent-introductions)
-    
-    ![Knoll Textiles](/images/headline.png)  
-    Collections
-    -----------------------------------------------------
-    
-    Against the backdrop of the rich and storied work of Florence Knoll, every Knoll Textiles collection combines beauty and function, producing fresh perspectives for contemporary interiors.
-    
-    [Explore](https://www.knoll.com/shop/knolltextiles/recent-introductions)
-    
-    * [Knoll Velvet, Classic Boucle, Hummingbird](https://www.knoll.com/shop/knolltextiles/recent-introductions/feb-2024-introduction)
-    * [The Fall Collection 2023](https://www.knoll.com/shop/knolltextiles/recent-introductions/fall-collection-2023)
-    * [The Summer Collection 2023](https://www.knoll.com/shop/knolltextiles/recent-introductions/summer-collection-2023)
-    * [The Spring Collection 2023](https://www.knoll.com/shop/knolltextiles/recent-introductions/spring-collection-2023)
-    * [The Winter Collection featuring Ultrasuede](https://www.knoll.com/shop/knolltextiles/recent-introductions/winter-collection-ultrasuede)
-    * [The Nick Cave Collection](https://www.knoll.com/shop/knolltextiles/recent-introductions/nick-cave-collection)
-    * [The Heritage Collection](https://www.knoll.com/shop/knolltextiles/recent-introductions/the-heritage-collection)
-    
-    ##### ![](/nkdc/images/categorypages/textiles/knolltextiles-nav-collections-feature_cave.jpg)
-    
-* [Collaborators](https://www.knoll.com/shop/knolltextiles/collaborators)
-    
-    ![Knoll Textiles](/images/headline.png)  
-    Collaborators
-    -------------------------------------------------------
-    
-    Knoll Textiles collaborates with the best designers and artists in an exploration of new materials and constructions to produce collections that is are at once forward-thinking and timeless.
-    
-    [Explore](https://www.knoll.com/shop/knolltextiles/collaborators)
-    
-    * [Nick Cave](https://www.knoll.com/shop/knolltextiles/designers/nick-cave)
-    * [2x4](https://www.knoll.com/shop/knolltextiles/designers/2x4)
-    * [Anni Albers](https://www.knoll.com/shop/knolltextiles/designers/anni-albers)
-    * [Irma Boom](https://www.knoll.com/shop/knolltextiles/designers/irma-boom)
-    * [Alejandro Cardenas](https://www.knoll.com/shop/knolltextiles/designers/alejandro-cardenas)
-    * [Maria Cornejo](https://www.knoll.com/shop/knolltextiles/designers/maria-cornejo)
-    * [Abbott Miller](https://www.knoll.com/shop/knolltextiles/designers/abbott-miller)
-    * [Kari Pei](https://www.knoll.com/shop/knolltextiles/designers/kari-pei)
-    * [Rodarte](https://www.knoll.com/shop/knolltextiles/designers/rodarte)
-    * [Proenza Schouler](https://www.knoll.com/shop/knolltextiles/designers/proenza-schouler)
-    * [Ruth Adler Schnee](https://www.knoll.com/shop/knolltextiles/designers/ruth-adler-schnee)
-    * [SUNO](https://www.knoll.com/shop/knolltextiles/designers/suno)
-    * [Trove](https://www.knoll.com/shop/knolltextiles/designers/trove)
-    
-    ##### ![](/nkdc/images/categorypages/textiles/knolltextiles-nav-collab-feature.jpg)
-    
-* [Resources](https://www.knoll.com/shop/knolltextiles/knolltextiles-resources)
-    
-    ![KnollTextiles](/images/headline.png)  
-    Resources
-    --------------------------------------------------
-    
-    Find helpful resources for every step of your project, from pricing to installation and cleaning.
-    
-    * [Technical Documents](https://www.knoll.com/shop/knolltextiles/knolltextiles-resources)
-    * [Sample Returns](https://www.knoll.com/shop/knolltextiles/sample-returns)
-    * [Photo Search](https://www.knoll.com/design-plan/resources/media-bank?scform=true&parent=Photography%7CTextiles&insert=true&size=&pList=null)
-    * [Video Library](https://www.knoll.com/design-plan/resources/media-bank?scform=true&parent=Videos%7CKnollTextiles&insert=true&size=&pList=null)
-    * [Knoll Textiles Help Center](https://www.knoll.com/help/knolltextiles)
-    * [Terms & Conditions](https://www.knoll.com/shop/knolltextiles/terms-and-conditions)
-    
-    ##### ![](/nkdc/images/categorypages/textiles/knolltextiles-nav-resources-feature.jpg)
-    
-* [Furniture Partners](https://www.knoll.com/knolltextiles/program-partners)
-    
-    ![KnollTextiles](/images/headline.png)  
-    Furniture Partners
-    -----------------------------------------------------------
-    
-    Our classic, timeless textiles are available through partner programs with many furniture manufacturers.
-    
-    [Learn More](https://www.knoll.com/knolltextiles/program-partners)
-    
-    ##### ![](/nkdc/images/categorypages/textiles/knolltextiles-nav-partners-feature.jpg)
-    
-* [About](https://www.knoll.com/help/knolltextiles)
-    
-    ![Knoll Textiles](/images/headline.png)  
-    About Us
-    --------------------------------------------------
-    
-    Combining beauty and function in the Modernist tradition since 1947.  
-     
-    
-    **Customer Service**  
-    1.866.565.5858  
-    [\[email protected\]](https://www.knoll.com/cdn-cgi/l/email-protection)  
-     
-    
-    | [![instagram](//www.knoll.com/images/instagram.gif)](https://www.instagram.com/knolltextiles) | [![facebook](//www.knoll.com/images/facebook.gif)](https://www.facebook.com/knolltextiles) |
-    | --- | --- |
-    
-    * [Knoll Textiles Help Center](https://www.knoll.com/help/knolltextiles)
-    * [Locations](https://www.knoll.com/shop/knolltextiles/locations-and-sales-contacts)
-    * [Custom Capabilities](https://www.knoll.com/shop/knolltextiles/custom-capabilities)
-    * [Environmental](https://www.knoll.com/shop/knolltextiles/environmental)
-    
-
 [![](/images/logo.png)](https://www.knoll.com/)
 
  ![Open Search Entry Field](/images/mag.png)
-
-[0 ![](/images/theme/shoppingCart.png)](https://www.knoll.com/cart/shoppingCart "0 items in cart") 
 
    
 
@@ -506,20 +365,21 @@
 
 [**SALE: 20% OFF | CODE: JUNE20**](https://www.knoll.com/shop/sale)
 
+* [#### Shop for Home](https://www.knoll.com/shop "Shop for Home")
+* [#### Plan for Workplace](https://www.knoll.com/design-plan "Plan for Workplace")
+
 [![Knoll](/images/logo.png)](https://www.knoll.com/)
 
 ![](/images/new-search-icon.svg)
 
-[0 ![](/images/theme/shoppingCart.png)](https://www.knoll.com/cart/shoppingCart "0 items in cart") 
-
    ![](/images/close-search.png)[](javascript:;)
 
-* [###### Shop
+* [###### Shop for Home
     
-    Shop online for living, dining and work from home essentials.](https://www.knoll.com/shop)
-    * [###### Shop
+    Shop online for living, dining, outdoor, and home office furniture.](https://www.knoll.com/shop)
+    * [###### Shop for Home
         
-        Shop online for living, dining and work from home essentials.](https://www.knoll.com/shop)
+        Shop online for living, dining, outdoor, and home office furniture.](https://www.knoll.com/shop)
     * [Living](https://www.knoll.com/shop/living-room)
         * [###### Living
             
@@ -533,8 +393,8 @@
         * [Lighting & Accessories](https://www.knoll.com/shop/living-room/accessories)
         * [Womb 75th Anniversary](https://www.knoll.com/shop/womb-75-anniversary)
         * [Shop All](https://www.knoll.com/shop/living-room/all)
-        * [![](/nkdc/images/categorypages/shop/room/livingextnav_0623.jpg)](https://www.knoll.com/product/barcelona-chair)
-        * [](https://www.knoll.com/product/barcelona-chair)
+        * [![](/nkdc/images/categorypages/shop/room/livingextnav_0623.jpg)](https://www.knoll.com/design-plan/product/barcelona-chair)
+        * [](https://www.knoll.com/design-plan/product/barcelona-chair)
     * [Dining](https://www.knoll.com/shop/dining-room)
         * [###### Dining
             
@@ -547,8 +407,8 @@
         * [Storage](https://www.knoll.com/shop/dining-room/storage)
         * [Accessories](https://www.knoll.com/shop/dining-room/accessories)
         * [Shop All](https://www.knoll.com/shop/dining-room/all)
-        * [![](/nkdc/images/categorypages/shop/room/diningextnav_0623.jpg)](https://www.knoll.com/product/bertoia-leather-covered-side-chair)
-        * [](https://www.knoll.com/product/bertoia-leather-covered-side-chair)
+        * [![](/nkdc/images/categorypages/shop/room/diningextnav_0623.jpg)](https://www.knoll.com/design-plan/product/bertoia-leather-covered-side-chair)
+        * [](https://www.knoll.com/design-plan/product/bertoia-leather-covered-side-chair)
     * [Work from Home](https://www.knoll.com/shop/work-from-home/all)
         * [###### Work from Home
             
@@ -561,8 +421,8 @@
         * [Accessories](https://www.knoll.com/shop/work-from-home/lighting-and-accessories)
         * [Storage](https://www.knoll.com/shop/work-from-home/storage)
         * [Shop All](https://www.knoll.com/shop/work-from-home/all)
-        * [![](/nkdc/images/categorypages/shop/room/wfhextnav_0623.jpg)](https://www.knoll.com/product/newson-task-chair)
-        * [](https://www.knoll.com/product/newson-task-chair)
+        * [![](/nkdc/images/categorypages/shop/room/wfhextnav_0623.jpg)](https://www.knoll.com/design-plan/product/newson-task-chair)
+        * [](https://www.knoll.com/design-plan/product/newson-task-chair)
     * [Outdoor](https://www.knoll.com/shop/outdoor)
         * [###### Outdoor
             
@@ -639,12 +499,12 @@
             * [LA Home Design Shop](https://www.knoll.com/los-angeles-home-design-shop)
             * [Virtual Shop Tour](https://www.knoll.com/virtual-shop)
             * [Trade Services](https://www.knoll.com/shop/home-design/trade-services)
-* [###### Workplace
+* [###### Plan for Workplace
     
-    Explore products and resources for planning a workplace for a commercial, education, healthcare or government organization.](https://www.knoll.com/design-plan)
-    * [###### Workplace
+    Explore workplace products and resources for commercial, education, healthcare, and government spaces.](https://www.knoll.com/design-plan)
+    * [###### Plan for Workplace
         
-        Explore products and resources for planning a workplace for a commercial, education, healthcare or government organization.](https://www.knoll.com/design-plan)
+        Explore workplace products and resources for commercial, education, healthcare, and government spaces.](https://www.knoll.com/design-plan)
     * [Products](https://www.knoll.com/design-plan/products)
         * [###### Products
             
@@ -691,9 +551,9 @@
             * [Dividends Horizon](https://www.knoll.com/design-plan/collections/workplace/dividends-horizon)
             * [Rockwell Unscripted](https://www.knoll.com/design-plan/collections/workplace/rockwell-unscripted)
             * [Reff Profiles](https://www.knoll.com/design-plan/collections/workplace/reff-profiles)
-            * [Islands by Knoll](https://www.knoll.com/product/islands-by-knoll?section=design)
-            * [Pixel](https://www.knoll.com/product/pixel-by-marc-krusin?section=design)
-            * [Anchor Storage](https://www.knoll.com/product/anchor?section=design)
+            * [Islands by Knoll](https://www.knoll.com/design-plan/product/islands-by-knoll?section=design)
+            * [Pixel](https://www.knoll.com/design-plan/product/pixel-by-marc-krusin?section=design)
+            * [Anchor Storage](https://www.knoll.com/design-plan/product/anchor?section=design)
             * [Generation by Knoll](https://www.knoll.com/design-plan/collections/workplace/generation-by-knoll)
         * [Our  
             Designers](https://www.knoll.com/design-plan/products/by-designer)
@@ -736,6 +596,7 @@
             * [Knoll Showrooms](https://www.knoll.com/locations/knoll-showrooms)
             * [Sales Teams](https://www.knoll.com/design-plan/teams)
             * [How to Purchase](https://www.knoll.com/design-plan/resources/purchasing-knoll-2)
+            * [Workplace Help](https://www.knoll.com/help/workplace)
         * [Research](https://www.knoll.com/design-plan/resources/research)
             * [###### Research](javascript:;)
             * [Case Studies](https://www.knoll.com/design-plan/resources/research?tp=&typ=Case+Studies%3B&ind=)
@@ -790,92 +651,10 @@
             * [The Archive](https://www.knoll.com/the-archive/)
             * [Our Designers](https://www.knoll.com/design-plan/resources/designers)
             * [World Monuments Prize](https://www.knoll.com/story/design-plan/world-monuments-fund)
-* [###### Textiles
-    
-    Shop Knoll Textiles upholstery, wallcovering, drapery and more.](https://www.knoll.com/shop-textiles)
-    * [###### Textiles
-        
-        Shop Knoll Textiles upholstery, wallcovering, drapery and more.](https://www.knoll.com/shop-textiles)
-    * [Products](https://www.knoll.com/shop-textiles)
-        * [###### Products
-            
-            Shop products developed for healthcare, hospitality, educational, corporate, and residential interiors.
-            
-            Recent Introductions](https://www.knoll.com/shop-textiles)
-        * [Upholstery](https://www.knoll.com/shop/knolltextiles/upholstery/all-upholstery)
-        * [Wallcovering](https://www.knoll.com/shop/knolltextiles/wallcovering/all-wallcovering)
-        * [Drapery](https://www.knoll.com/shop/knolltextiles/drapery/all-drapery)
-        * [Panel](https://www.knoll.com/shop/knolltextiles/panel-fabrics/all-panel-fabrics)
-        * [Privacy Curtain](https://www.knoll.com/shop/knolltextiles/healthcare/privacy-curtains)
-        * [Pillows](https://www.knoll.com/shop/knolltextiles/pillows)
-    * [Collections](https://www.knoll.com/shop/knolltextiles/recent-introductions)
-        * [###### Collections
-            
-            Against the backdrop of the rich and storied work of Florence Knoll, every Knoll Textiles collection combines beauty and function, producing fresh perspectives for contemporary interiors.
-            
-            Explore](https://www.knoll.com/shop/knolltextiles/recent-introductions)
-        * [Knoll Velvet, Classic Boucle, Hummingbird](https://www.knoll.com/shop/knolltextiles/recent-introductions/feb-2024-introduction)
-        * [The Fall Collection 2023](https://www.knoll.com/shop/knolltextiles/recent-introductions/fall-collection-2023)
-        * [The Summer Collection 2023](https://www.knoll.com/shop/knolltextiles/recent-introductions/summer-collection-2023)
-        * [The Spring Collection 2023](https://www.knoll.com/shop/knolltextiles/recent-introductions/spring-collection-2023)
-        * [The Winter Collection featuring Ultrasuede](https://www.knoll.com/shop/knolltextiles/recent-introductions/winter-collection-ultrasuede)
-        * [The Nick Cave Collection](https://www.knoll.com/shop/knolltextiles/recent-introductions/nick-cave-collection)
-        * [The Heritage Collection](https://www.knoll.com/shop/knolltextiles/recent-introductions/the-heritage-collection)
-    * [Collaborators](https://www.knoll.com/shop/knolltextiles/collaborators)
-        * [###### Collaborators
-            
-            Knoll Textiles collaborates with the best designers and artists in an exploration of new materials and constructions to produce collections that is are at once forward-thinking and timeless.
-            
-            Explore](https://www.knoll.com/shop/knolltextiles/collaborators)
-        * [Nick Cave](https://www.knoll.com/shop/knolltextiles/designers/nick-cave)
-        * [2x4](https://www.knoll.com/shop/knolltextiles/designers/2x4)
-        * [Anni Albers](https://www.knoll.com/shop/knolltextiles/designers/anni-albers)
-        * [Irma Boom](https://www.knoll.com/shop/knolltextiles/designers/irma-boom)
-        * [Alejandro Cardenas](https://www.knoll.com/shop/knolltextiles/designers/alejandro-cardenas)
-        * [Maria Cornejo](https://www.knoll.com/shop/knolltextiles/designers/maria-cornejo)
-        * [Abbott Miller](https://www.knoll.com/shop/knolltextiles/designers/abbott-miller)
-        * [Kari Pei](https://www.knoll.com/shop/knolltextiles/designers/kari-pei)
-        * [Rodarte](https://www.knoll.com/shop/knolltextiles/designers/rodarte)
-        * [Proenza Schouler](https://www.knoll.com/shop/knolltextiles/designers/proenza-schouler)
-        * [Ruth Adler Schnee](https://www.knoll.com/shop/knolltextiles/designers/ruth-adler-schnee)
-        * [SUNO](https://www.knoll.com/shop/knolltextiles/designers/suno)
-        * [Trove](https://www.knoll.com/shop/knolltextiles/designers/trove)
-    * [Resources](https://www.knoll.com/shop/knolltextiles/knolltextiles-resources)
-        * [###### Resources
-            
-            Find helpful resources for every step of your project, from pricing to installation and cleaning.](https://www.knoll.com/shop/knolltextiles/knolltextiles-resources)
-        * [Technical Documents](https://www.knoll.com/shop/knolltextiles/knolltextiles-resources)
-        * [Sample Returns](https://www.knoll.com/shop/knolltextiles/sample-returns)
-        * [Photo Search](https://www.knoll.com/design-plan/resources/media-bank?scform=true&parent=Photography%7CTextiles&insert=true&size=&pList=null)
-        * [Video Library](https://www.knoll.com/design-plan/resources/media-bank?scform=true&parent=Videos%7CKnollTextiles&insert=true&size=&pList=null)
-        * [Knoll Textiles Help Center](https://www.knoll.com/help/knolltextiles)
-        * [Terms & Conditions](https://www.knoll.com/shop/knolltextiles/terms-and-conditions)
-    * [Furniture Partners](https://www.knoll.com/knolltextiles/program-partners)
-        * [###### Furniture Partners
-            
-            Our classic, timeless textiles are available through partner programs with many furniture manufacturers.
-            
-            Learn More](https://www.knoll.com/knolltextiles/program-partners)
-    * [About](https://www.knoll.com/help/knolltextiles)
-        * [###### About
-            
-            Combining beauty and function in the Modernist tradition since 1947.](https://www.knoll.com/help/knolltextiles) 
-            
-            [**Customer Service**  
-            1.866.565.5858](https://www.knoll.com/help/knolltextiles)[\[email protected\]](https://www.knoll.com/cdn-cgi/l/email-protection)  
-             
-            
-            | [![instagram](//www.knoll.com/images/instagram.gif)](https://www.instagram.com/knolltextiles) | [![facebook](//www.knoll.com/images/facebook.gif)](https://www.facebook.com/knolltextiles) |
-            | --- | --- |
-            
-        * [Knoll Textiles Help Center](https://www.knoll.com/help/knolltextiles)
-        * [Locations](https://www.knoll.com/shop/knolltextiles/locations-and-sales-contacts)
-        * [Custom Capabilities](https://www.knoll.com/shop/knolltextiles/custom-capabilities)
-        * [Environmental](https://www.knoll.com/shop/knolltextiles/environmental)
 
    [](javascript:;)
 
-[Help Center](https://www.knoll.com/help) [Locations](https://www.knoll.com/location) [Sign In](https://www.knoll.com/myaccount/signin) [Order Status](https://www.knoll.com/myaccount/guest)
+[Locations](https://www.knoll.com/location) [Dealer Portal](https://www.knoll.com/myaccount/signin)
 
 Most Popular Products
 ---------------------
@@ -884,61 +663,61 @@ Most Popular Products
 
 Saarinen Dining Table
 
-42" Round](https://www.knoll.com/product/saarinen-dining-table-42-round)
+42" Round](https://www.knoll.com/design-plan/product/saarinen-dining-table-42-round)
 
 [![](/media/26/315/Thumb_saarinen78ovalthumb_112022,3.jpg)
 
 Saarinen Dining Table
 
-78" Oval](https://www.knoll.com/product/saarinen-oval-dining-table-78)
+78" Oval](https://www.knoll.com/design-plan/product/saarinen-oval-dining-table-78)
 
 [![](/media/1007/570/Thumb_wombsetthumb_112022,3.jpg)
 
-Womb™ Chair with Ottoman](https://www.knoll.com/product/womb-chair-with-ottoman)
+Womb™ Chair with Ottoman](https://www.knoll.com/design-plan/product/womb-chair-with-ottoman)
 
 [![](/media/197/476/Thumb_barcelonathumb_112022,3.jpg)
 
-Barcelona® Chair](https://www.knoll.com/product/barcelona-chair)
+Barcelona® Chair](https://www.knoll.com/design-plan/product/barcelona-chair)
 
 [![](/media/432/603/Thumb_wassily_880,5.png)
 
-Wassily™ Chair](https://www.knoll.com/product/wassily-chair)
+Wassily™ Chair](https://www.knoll.com/design-plan/product/wassily-chair)
 
 [![](/media/765/958/Thumb_cesca-armless-upholstered-thumb,3.png)
 
 Cesca™ Chair
 
-Armless with Upholstered Seat & Back](https://www.knoll.com/product/cesca-chair-armless-upholstered)
+Armless with Upholstered Seat & Back](https://www.knoll.com/design-plan/product/cesca-chair-armless-upholstered)
 
 [![](/media/851/832/Thumb_bertoiasidethumb_112022,3.jpg)
 
-Bertoia Side Chair](https://www.knoll.com/product/bertoia-side-chair)
+Bertoia Side Chair](https://www.knoll.com/design-plan/product/bertoia-side-chair)
 
 [![](/media/523/701/Thumb_RSD_Arm_SILO,5.png)
 
 1966 Dining Chair
 
-with Arms](https://www.knoll.com/product/1966-dining-arm-chair)
+with Arms](https://www.knoll.com/design-plan/product/1966-dining-arm-chair)
 
 [![](/media/618/152/Thumb_genthumb_112022,3.jpg)
 
-Generation by Knoll®](https://www.knoll.com/product/generation-by-knoll)
+Generation by Knoll®](https://www.knoll.com/design-plan/product/generation-by-knoll)
 
 [![](/media/343/594/Thumb_regenthumb_112022,3.jpg)
 
-ReGeneration by Knoll®](https://www.knoll.com/product/regeneration-by-knoll)
+ReGeneration by Knoll®](https://www.knoll.com/design-plan/product/regeneration-by-knoll)
 
 [![](/media/353/620/Thumb_hipso24x51thumb_112022,3.jpg)
 
 Hipso Adjustable Standing Desk
 
-51" x 24"](https://www.knoll.com/product/hipso-height-adjustable-desk-24x51)
+51" x 24"](https://www.knoll.com/design-plan/product/hipso-height-adjustable-desk-24x51)
 
 [![](/media/607/236/Thumb_rockwell-easy-table-45x27,3.png)
 
 Rockwell Unscripted® Easy Table
 
-54" x 27"](https://www.knoll.com/product/rockwell-unscripted-easy-table-54-27)
+54" x 27"](https://www.knoll.com/design-plan/product/rockwell-unscripted-easy-table-54-27)
 
 Helpful Links
 -------------
@@ -1018,46 +797,36 @@ If you have any questions regarding our use of Cookies, please contact [\[email�
 
 ### Here to Help
 
-* [Help Center](https://www.knoll.com/help)
+* [Workplace Help Center](https://www.knoll.com/help/workplace)
 * [My Account](https://www.knoll.com/myaccount)
 * [Warranty](https://www.knoll.com/help/warranty)
-* [Promotional Terms & Conditions](https://www.knoll.com/shop/terms-and-conditions)
+
+### How to Purchase
+
+* [Showrooms](https://www.knoll.com/locations/knoll-showrooms)
+* [Dealer Locations](https://www.knoll.com/location/?findBy=state&locationTypeIds=3&governmentDealer=true)
+* [Sales Teams](https://www.knoll.com/design-plan/teams)
+* [Knoll Home Design Shops](https://www.knoll.com/shop/en_us/home-design-shops.html)
+* [Retailer Locations](https://www.knoll.com/location/?findBy=state&locationTypeIds=4)
+* [Knoll Textiles](https://www.maharam.com/knoll-textiles)
+* [Knoll International](http://www.knoll-int.com/)
+* [Shop for Home](https://www.knoll.com/shop/)
+
+### Company
+
+* [Contact Us](https://knlprdwcsmgt.knoll.com/help/workplace)
+* [Discover Knoll](https://knlprdwcsmgt.knoll.com/design-plan/discover)
+* [Careers](https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll?Skills=5e5722fb51ba100a6f095d30870c0000&Skills=5e5722fb51ba100a6f097075c63a0000)
+* [Investor Relations](https://www.hermanmiller.com/investors/)
+* [Newsroom](https://news.millerknoll.com/knoll)
+
+### Legal
+
 * [Cookie Notice](https://www.knoll.com/cookie-notice)
 * [Privacy Notice](https://www.millerknoll.com/legal/privacy/privacy-notice)
 * [Do Not Sell My Information](https://www.millerknoll.com/legal/privacy/privacy-notice#13)
 * [Accessibility Statement](https://www.millerknoll.com/legal/accessibility-statement)
-* [Group Health Plan Disclosure](https://www.millerknoll.com/legal/group-health-plan-disclosure)
 * [Terms of Use](https://www.millerknoll.com/legal/terms-of-use)
-
-### Workplace & Commercial
-
-* [Workplace Help](https://www.knoll.com/help/workplace)
-* [How to Purchase](https://www.knoll.com/design-plan/resources/purchasing-knoll-2)
-* [Showrooms](https://www.knoll.com/locations/knoll-showrooms)
-* [Dealer Locations](https://www.knoll.com/location/?findBy=state&locationTypeIds=3&governmentDealer=true)
-* [Sales Teams](https://www.knoll.com/design-plan/teams)
-
-### Residential
-
-* [Residential Help](https://www.knoll.com/help/residential)
-* [How to Purchase](https://www.knoll.com/home-design)
-* [Home Design Shops](https://www.knoll.com/home-design-shops)
-* [Home Design at the D&D](https://www.knoll.com/new-york-home-design-at-the-d-d)
-* [Virtual Shop Tour](https://www.knoll.com/virtual-shop)
-* [Retailer Locations](https://www.knoll.com/location/?findBy=state&locationTypeIds=4)
-* [Trade Services](https://www.knoll.com/shop/home-design/trade-services)
-
-### Corporate Info
-
-* [Corporate Help](https://www.millerknoll.com/contact-us)
-* [Newsroom](https://www.knoll.com/discover-knoll/news)
-* [Sustainable Design](https://www.millerknoll.com/environmental-social-impact/sustainability)
-* [Original Design](https://www.knoll.com/shop/original-design)
-* [Community Impact](https://www.millerknoll.com/environmental-social-impact/community-impact)
-* [Careers](https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll?Skills=5e5722fb51ba100a6f095d30870c0000&Skills=5e5722fb51ba100a6f097075c63a0000)
-* [Diversity & Inclusion](https://www.millerknoll.com/environmental-social-impact/inclusion)
-* [Investor Relations](https://www.hermanmiller.com/investors/)
-* [Knoll International](http://www.knoll-int.com/)
 
 ### Join Us
 
