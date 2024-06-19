@@ -83,6 +83,7 @@ Suchbegriff   Suche
 * [tagesschau in 100 Sekunden](https://www.tagesschau.de/multimedia/sendung/tagesschau_in_100_sekunden "Menüpunkt tagesschau in 100 Sekunden aufrufen")
 * [Letzte Sendung](https://www.tagesschau.de/multimedia/letzte_sendung "Menüpunkt Letzte Sendung aufrufen")
 * [tagesschau 20 Uhr](https://www.tagesschau.de/multimedia/sendung/tagesschau_20_uhr "Menüpunkt tagesschau 20 Uhr aufrufen")
+* [tagesschau in Einfacher Sprache](https://www.tagesschau.de/multimedia/sendung/tagesschau_in_einfacher_sprache "Menüpunkt tagesschau in Einfacher Sprache aufrufen")
 * [tagesschau 20 Uhr (Gebärdensprache)](https://www.tagesschau.de/multimedia/sendung/tagesschau_mit_gebaerdensprache "Menüpunkt tagesschau 20 Uhr (Gebärdensprache) aufrufen")
 * [tagesthemen](https://www.tagesschau.de/multimedia/sendung/tagesthemen "Menüpunkt tagesthemen aufrufen")
 * [Sendungsarchiv](https://www.tagesschau.de/archiv/sendungen "Menüpunkt Sendungsarchiv aufrufen")
@@ -282,7 +283,12 @@ Hinweis
 
 Sie haben die Möglichkeit, die Erfassung der statistischen Daten durch AT Internet (A Piano Company), Nielsen und AB Tasty zu verhindern, indem Sie das folgende Häkchen setzen:
 
-4\. Einsatz von Cookies
+4\. Nutzung des ARD-Kontos
+--------------------------
+
+Tagesschau nutzt für die Personalisierung des eigenen Angebots das von ARD Online betriebene gemeinsame ARD-Konto. Für die Verarbeitung der dort hinterlegten Daten bleibt Tagesschau mitverantwortlich. Informationen zu diesem übergreifenden ARD-Konto erhalten Sie auf der verlinkten [Datenschutzerklärung](https://accounts.ard.de/datenschutz?hasBackButton=true "ARD Login Datenschutzerklärung") und den [Nutzungsbedingungen](https://accounts.ard.de/nutzungsbedingungen?hasBackButton=true "ARD Login Nutzungsbedingungen").
+
+5\. Einsatz von Cookies
 -----------------------
 
 Zur Bereitstellung unseres Angebots verwenden wir Cookies. Dies sind kleine Textdateien, die beim Aufruf des Onlineangebots vom Internetbrowser temporär auf Ihrem Endgerät gespeichert werden. Cookies enthalten eine charakteristische Zeichenfolge, die eine Identifizierung des Internetbrowsers bei erneutem Aufruf der Website ermöglicht.
@@ -293,7 +299,7 @@ Sonstige Cookies setzen wir zu den unter 3.2 beschriebenen Zwecken, also zur Ana
 
 Die Nutzung ist auch ohne Cookies möglich. Die meisten Internetbrowser sind so eingestellt, dass sie Cookies automatisch akzeptieren. Sie können das Speichern von Cookies jedoch deaktivieren oder den Internetbrowser so einstellen, dass eine Benachrichtigung erfolgt, sobald Cookies übermittelt werden. Insofern können Sie selbst entscheiden, ob Cookies akzeptiert werden oder nicht. Daher haben die Nutzer\*innen auch die volle Kontrolle über die Verwendung von Cookies. Bereits gespeicherte Cookies können Sie jederzeit löschen.
 
-5\. Vertraulichkeit der Kontaktaufnahme
+6\. Vertraulichkeit der Kontaktaufnahme
 ---------------------------------------
 
 Sie haben die Möglichkeit, uns über ein Online-Kontaktformular, per E-Mail oder Briefpost zu kontaktieren. Die uns dazu übermittelten personenbezogenen Daten (z. B. Name, Anschrift, Telefonnummer oder E-Mail-Adresse) dienen ausschließlich der Bearbeitung von Kontaktanfragen. Rechtsgrundlage dafür ist Art. 6 Abs. 1 lit. a) DSGVO.
@@ -306,7 +312,7 @@ Unser Angebot richtet sich an alle Menschen, die sich informieren möchten. Wir 
 
 Ihre Rechte und Kontaktmöglichkeiten finden Sie unter Ziffer 8.
 
-6\. meta.tagesschau, Social Media
+7\. meta.tagesschau, Social Media
 ---------------------------------
 
 Sie haben die Möglichkeit, Beiträge unseres Angebots zu kommentieren. Erforderlich dafür ist die Angabe einer E-Mail-Adresse. Diese Adresse wird nicht veröffentlicht und nur von uns verwendet, wenn Sie ein neues Passwort anfordern oder wenn Sie einstellen, bestimmte Informationen oder Benachrichtigungen per E-Mail zu erhalten. Rechtsgrundlage ist Art. 6 Abs. 1 lit. a) DSGVO.
@@ -332,7 +338,7 @@ Darüber hinaus führen wir von Zeit zu Zeit Befragungen unserer Nutzer\*innen d
 
 tagesschau.de schützt Ihre Privatsphäre, indem keine direkte Einbindung der Inhalte von Drittanbietern erfolgt. Zum Schutz der Daten weisen wir vor der Anzeige externer Inhalte und der Übertragung von Daten an Drittanbieter ausdrücklich darauf hin. Nutzerinnen und Nutzer können danach selbstständig der Datenübertragung zustimmen und sich den Inhalt per Klick anzeigen lassen (sog. Zwei-Klick-Lösung). Rechtsgrundlage für die Verarbeitung der Daten nach erfolgter Einwilligung des Nutzers ist Art. 6 Abs. 1 S. 1 lit. a DSGVO.
 
-7\. Zustimmung für Inhalte von Drittanbietern
+8\. Zustimmung für Inhalte von Drittanbietern
 ---------------------------------------------
 
 Nutzer\*innen können der Anzeige von eingebetteten Inhalten von Drittanbietern auch permanent zustimmen. Die Auswahl wird daraufhin dauerhaft im Internetbrowser des Nutzers gespeichert. Die Einwilligung kann hier jederzeit widerrufen werden:
@@ -343,7 +349,7 @@ Unter den folgenden Links können Sie sich über die Datenschutzhinweise der ein
 
 Zur Darstellung von Autoplay-Videovorschauen für unsere Livestreams und Videos setzen wir das Tool Spark der Firma Web Spark Ltd. (holaspark.com) im Inkognito-Modus ein. Daher werden weder bei der Nutzung durch einen stationären Computer noch durch ein mobiles Endgerät personenbezogene Daten der Nutzer\*innen durch Spark verarbeitet.
 
-8\. Präsenzen auf Drittplattformen
+9\. Präsenzen auf Drittplattformen
 ----------------------------------
 
 tagesschau.de betreibt Präsenzen auf Drittplattformen, deren Betreiber Daten ihrer Nutzer\*innen verarbeiten. Auf deren datenschutzrechtliche Bestimmungen und Einstellungen hat tagesschau.de keinen Einfluss. Ausdrücklich wird darauf hingewiesen, dass die Drittplattformen auch Cookies setzen, mit denen sie das Nutzungsverhalten auch auf anderen Webseiten und Apps verfolgen können, sowie auf bestimmten Webseiten und Apps, die Technologien dieser Drittplattform integrieren. Um die Inhalte von tagesschau.de auf Plattformen Dritter abrufen zu können, müssen Sie sich auf den Seiten einiger dieser Dienste anmelden oder registrieren. Dazu muss den Nutzungsbedingungen und Datenschutzbestimmungen dieser Dienste zugestimmt werden.
@@ -370,12 +376,12 @@ Die Datenschutzbestimmungen dieser Anbieter können Sie hier einsehen:
 
 Wir weisen darauf hin, dass wir keine personenbezogenen Daten von Nutzer\*innen des Tagesschau-Kanals von TikTok erhalten. Allgemein wird die Nutzung von TikTok aus datenschutzrechtlicher Sicht kritisch gesehen: Gemäß den AGB der TikTok-App darf die Nutzung der App bereits **ab 13 Jahren** erfolgen. Das bedeutet, dass bei Nutzer\*innen unter 18 Jahren die Einverständniserklärung der Eltern notwendig ist. Das Vorliegen des Einverständnisses wird aber offenbar von TikTok nicht überprüft, weshalb Erziehungsberechtigte aufmerksam kontrollieren sollten, ob ihre Kinder den Dienst nutzen. Weiterhin soll die App Daten auf einem Smartphone mitlesen und z. B. Standorte und Telefonkontakte weitergeben. Der Umgang und die Weitergabe dieser Daten von TikTok – etwa an ausländische Behörden – sind ungewiss. Wir machen daher darauf aufmerksam, dass die Nutzung der auf TikTok von tagesschau.de produzierten Inhalte aufgrund der noch ungeklärten Fragen mit Risiken verbunden ist.
 
-8.1 Welche Daten werden verarbeitet und was passiert mit diesen Daten?
+9.1 Welche Daten werden verarbeitet und was passiert mit diesen Daten?
 ----------------------------------------------------------------------
 
 Bei der Nutzung von Inhalten von tagesschau.de über die oben genannten Plattformen und Dienste Dritter gilt in der Regel, dass wir keine Daten verarbeiten, weil die Inhalte direkt auf den Plattformen genutzt werden. Wenn Sie aber über eine Drittplattform, bspw. über einen Link, auf tagesschau.de gelangen, gilt diese Datenschutzerklärung.
 
-8.2 Smartspeaker
+9.2 Smartspeaker
 ----------------
 
 Bei der Nutzung von Programminhalten über Smartspeaker (Alexa, Google Play) wird direkt auf das Angebot von tagesschau.de zugegriffen. Hier erfasst unser System automatisiert die folgenden Daten vom Computersystem des aufrufenden Geräts und speichert sie in Protokolldateien (sog. Logfiles):
@@ -395,7 +401,7 @@ Eine Zusammenführung dieser Daten mit anderen Datenquellen findet nicht statt. 
 
 Was Sie mit Sprachassistenten kommunizieren, wird von Ihrem Gerät aufgezeichnet und als Audiodatei in einer Cloud gespeichert. Auch bei der Nutzung der weiteren Plattformen und Dienste ist nicht auszuschließen, dass ein Transfer von personenbezogenen Daten auch in die USA erfolgt, da diese Anbieter Daten auf dortigen Servern speichern. Das Datenschutzniveau ist in den USA nach den Feststellungen des EUGH in der Entscheidung zum Privacy-Shield (Urteil in der Rechtssache C-311/18 „Schrems II“) geringer als im Geltungsbereich der DSGVO. Der NDR überträgt aber keine personenbezogenen Daten von Ihnen oder veranlasst eine solche Übertragung, da Sie regelmäßig aufgrund Ihrer Anmeldung oder Registrierung bei den Dienstanbietern einer entsprechenden Datenverarbeitung durch diese zugestimmt haben.
 
-8.3 Datenverarbeitung bei Nutzung der Messenger-Angebote von tagesschau.de
+9.3 Datenverarbeitung bei Nutzung der Messenger-Angebote von tagesschau.de
 --------------------------------------------------------------------------
 
 Sie können das Messenger-Angebot von tagesschau.de nutzen, wenn Sie einen Messenger-Dienst, wie bspw. Telegram, Facebook Messenger, Apple iMessage oder Notify auf Ihrem Mobilgerät installiert haben. Damit haben Sie den Allgemeinen Geschäftsbedingungen der jeweiligen Dienste zugestimmt, auf die wir keinen Einfluss haben und die durch das Messenger-Angebot von tagesschau.de unberührt bleiben. In der Regel beinhalten die Allgemeinen Geschäftsbedingungen einen Zugriff auf Telefonnummern und die auf dem Mobilgerät gespeicherten Kontakte. Durch die Nutzung des Messenger-Angebots erhalten wir keinen Zugriff auf diese Daten.
@@ -451,26 +457,26 @@ Tagesschau integriert die Messenger-Dienste über eine „Embed“-Funktion in s
 
 Wenn Sie die Messenger-Dienste generell nicht mehr angezeigt bekommen wollen, entfernen Sie den dafür vorgesehenen Haken in der entsprechenden Datenschutzerklärung der Messenger-Angebote. Hinweise zum Datenschutz bei MessengerPeople finden Sie hier: https://www.messengerpeople.com/de/datenschutzerklaerung/.
 
-9\. Ihre Rechte
----------------
+10\. Ihre Rechte
+----------------
 
 Sofern von Ihnen personenbezogene Daten verarbeitet werden, sind Sie sogenannte betroffene Person im Sinne der DSGVO. Als betroffene Person stehen Ihnen gegenüber dem Verantwortlichen (Ziffer 1) das Recht auf Auskunft gemäß Art. 15 DSGVO, auf Berichtigung nach Art. 16 DSGVO, auf Löschung nach Art. 17 DSGVO, auf Einschränkung der Verarbeitung nach Art. 18 DSGVO, auf Widerspruch aus Art. 21 DSGVO sowie das Recht auf Datenübertragbarkeit aus Art. 20 DSGVO zu.
 
 Wenn Sie der Ansicht sind, dass Sie bei der Verarbeitung der Sie betreffenden personenbezogenen Daten in Ihren schutzwürdigen Interessen verletzt sind, steht Ihnen das Recht auf Beschwerde bei einer Aufsichtsbehörde zu (Art. 77 DSGVO). tagesschau.de ist eine ARD-Gemeinschaftseinrichtung mit Sitz beim Norddeutschen Rundfunk in Hamburg. Die Aufsicht über diese Gemeinschaftseinrichtung nimmt der Rundfunkdatenschutzbeauftragte des NDR federführend wahr. Datenschutzrechtliche Anliegen und Beschwerden bei der Nutzung von tagesschau.de richten Sie bitte an die unter Ziffer 2. Aufsichtsbehörde.
 
-10\. Tagesschau App
+11\. Tagesschau App
 -------------------
 
 Eine gesonderte Erklärung zum Datenschutz bei Nutzung der Tagesschau App ist direkt in der entsprechenden Anwendung zu finden.
 
-11\. Weitere Informationen gem. Art. 13 DSGVO
+12\. Weitere Informationen gem. Art. 13 DSGVO
 ---------------------------------------------
 
 Im Rahmen der datenschutzrechtlichen Informationspflicht finden Sie im Folgenden weitere Informationen zum grundsätzlichen Umgang mit personenbezogenen Daten unabhängig von der Nutzung unserer Onlineangebote und Apps.
 
 ARD aktuell ist die ARD-Gemeinschaftsredaktion für die aktuellen Fernsehsendungen Tagesschau, Tagesthemen und Nachtmagazin sowie für den Nachrichtenkanal tagesschau24 und tagesschau.de. Diese ARD-Gemeinschaftseinrichtung hat ihren Sitz in Hamburg auf dem Gelände des NDR. Daher finden Sie hier die für den NDR einschlägigen Hinweise.
 
-11.1 Grundsätze der Verarbeitung personenbezogener Daten
+12.1 Grundsätze der Verarbeitung personenbezogener Daten
 --------------------------------------------------------
 
 Im Zeitpunkt der Datenerhebung, beispielsweise im Rahmen einer Vertragsbeziehung zur Erfüllung gegenseitig geschuldeter Leistungen und Pflichten oder in Wahrnehmung des Hausrechts und ggf. damit einhergehenden berechtigten Sicherheitsinteressen speichert der NDR personenbezogene Daten von Ihnen. Dies können beispielsweise sein:  
@@ -490,34 +496,34 @@ Personenbezogene Daten werden zu jeweils ganz unterschiedlichen Zwecken und imme
 
 **Wahrung berechtigter Interessen des NDR in Abwägung mit den Grundrechten und Grundfreiheiten der Betroffenen (Art. 6 Abs. 1 lit. f) DSGVO),** beispielsweise Verarbeitung von personenbezogenen Daten für die Außendarstellung des NDR oder in Wahrnehmung des Hausrechts (insbesondere Sicherheitsinteressen).
 
-11.2 Verpflichtung zur Bereitstellung und Konsequenzen der Nichtbereitstellung
+12.2 Verpflichtung zur Bereitstellung und Konsequenzen der Nichtbereitstellung
 ------------------------------------------------------------------------------
 
 Die Bereitstellung solcher personenbezogenen Daten ist zur Erreichung der genannten Zwecke erforderlich und ggf. ein wesentlicher Teil Ihrer vertraglichen Pflichten gegenüber dem NDR. Das Nichtbereitstellen der personenbezogenen Daten kann zur Folge haben, dass Ihnen eine vertragliche Leistung nicht zur Verfügung gestellt werden kann, die Vertragsbeziehung beendet werden muss, oder Ihnen ggf. kein Zugang zum Grundstück oder den Räumlichkeiten des NDR gewährt werden kann, bzw. Sie diese bei Aufforderung umgehend verlassen müssen.
 
-11.3 Datenverarbeitungen aufgrund von Einwilligung und Widerrufsrecht
+12.3 Datenverarbeitungen aufgrund von Einwilligung und Widerrufsrecht
 ---------------------------------------------------------------------
 
 Sollte der NDR zusätzlich auf Grundlage freiwilliger Einwilligung (Art. 6 Abs. 1 a), Art. 4 Nr. 11 DSGVO) personenbezogene Daten von Ihnen erhalten und verarbeiten, haben Sie jederzeit das Recht, eine solche Einwilligung ohne Angabe von Gründen für die Zukunft zu widerrufen. Die Rechtmäßigkeit der bis zum Widerruf der Einwilligung erfolgten Verarbeitungen bleibt davon unberührt. Widerrufserklärungen sind an den Verantwortlichen zu richten (s. Ziffer 1).
 
-11.4 Empfänger der Daten beim NDR und Datenweitergabe an Dritte
+12.4 Empfänger der Daten beim NDR und Datenweitergabe an Dritte
 ---------------------------------------------------------------
 
 Empfänger Ihrer personenbezogenen Daten sind die jeweils mit konkreten zweckgebundenen Aufgaben beim NDR betrauten Personen (beispielsweise Abteilungs- und Redaktionsmitarbeiter, Empfangs-, Sicherheits-, Veranstaltungs- oder Kantinenpersonal). Diese sind verpflichtet, die Vertraulichkeit Ihrer Daten gemäß den Vorgaben der DSGVO zu wahren. Darüber hinaus geben wir Ihre personenbezogenen Daten nicht an Dritte weiter, es sei denn, Sie haben in die Datenweitergabe eingewilligt oder wir sind aufgrund gesetzlicher Bestimmungen und/oder behördlicher oder gerichtlicher Anordnungen zu einer Datenweitergabe verpflichtet.
 
-11.5 Auftragsdatenverarbeitung und Datensicherheit
+12.5 Auftragsdatenverarbeitung und Datensicherheit
 --------------------------------------------------
 
 Aufgrund gesonderter schriftlicher Vereinbarungen lassen wir personenbezogene Daten auch von Dienstleistern im Rahmen von Auftragsverarbeitungsverhältnissen gem. Art. 28 DSGVO verarbeiten. Hiermit sind keine Übermittlungen Ihrer persönlichen Daten an Dritte im datenschutzrechtlichen Sinne verbunden. Der NDR bleibt Ihnen gegenüber datenschutzrechtlich verantwortlich.  
 Die Mitarbeiter\*innen der Auftragsverarbeiter sind zur Wahrung der Vertraulichkeit Ihrer Daten verpflichtet wie unsere eigenen Beschäftigten. Sie unterliegen unseren Weisungen. Alle gesetzlich vorgeschriebenen technischen und organisatorischen Sicherheitsmaßnahmen zum Schutz Ihrer personenbezogenen Daten vor Verlust und Missbrauch werden vom NDR gewährleistet. So werden Ihre personenbezogenen Daten jeweils in sicheren Betriebsumgebungen gespeichert, die Mitarbeitern der Auftragsverarbeiter nur insoweit zugänglich sind, als dies zur Erfüllung der vertraglichen Aufgaben zwingend erforderlich ist.
 
-11.6 Kriterien für die Festlegung von Speicherdauern
+12.6 Kriterien für die Festlegung von Speicherdauern
 ----------------------------------------------------
 
 Ihre personenbezogenen Daten werden beim NDR solange gespeichert, bis die Vertragsbeziehung endgültig beendet ist, sich keine weiteren gegenseitigen Ansprüche mehr daraus ergeben können und auch die gesetzlichen oder internen Aufbewahrungsfristen des NDR abgelaufen sind.  
 Personenbezogene Daten, die wir in Wahrnehmung unserer Aufgaben im öffentlichen Interesse oder aufgrund von berechtigten Unternehmensinteressen verarbeiten, werden solange gespeichert, bis der Zweck erfüllt bzw. die Aufgabe erledigt ist und eine Dokumentation, insbesondere auch zu etwaigen Beweiszwecken zur Rechtewahrung oder Rechtsverfolgung, nicht mehr erforderlich ist.
 
-11.7 Ihre Auskunfts- und Beschwerderechte
+12.7 Ihre Auskunfts- und Beschwerderechte
 -----------------------------------------
 
 Sie haben das Recht, vom NDR Auskunft über die Sie betreffenden personenbezogenen Daten zu verlangen sowie ggf. Berichtigung, Löschung und Einschränkung der Verarbeitung oder ggf. auch das Recht, einen Widerspruch geltend zu machen (Betroffenenrechte gem. Art. 15 ff. DSGVO). Unter den Voraussetzungen von Art. 20 DSGVO kann ein Recht auf Datenübertragung in Betracht kommen. Kontaktmöglichkeiten finden Sie in Ziffern 1 und 8.
