@@ -2,7 +2,7 @@
 
 Ingresá lo que quieras encontrar
 
-[![Por 3.999 pesos ¡Suscribite al nivel 6!, Disney+ y Star+ Incluídos](https://http2.mlstatic.com/D_NQ_905051-MLA75975848536_052024-OO.jpg "Por 3.999 pesos ¡Suscribite al nivel 6!, Disney+ y Star+ Incluídos")](https://www.mercadolibre.com.ar/suscripciones/nivel-6#origin=banner-menu&me.audience=all&me.bu=9&me.bu_line=36&me.component_id=banner_menu_web_ml&me.content_id=ECOSYSTEM_LOYALTY_N6_BNR_MENU_3999&me.flow=146&me.logic=campaigns&me.position=0)
+[![Ofertas por tiempo limitado](https://http2.mlstatic.com/storage/homes-korriban/assets/images/exhibitors/default_banner_menu.png "Ofertas por tiempo limitado")](https://www.mercadolibre.com.ar/ofertas)
 
 [Ingresa tu domicilio](https://www.mercadolibre.com.ar/navigation/addresses-hub?go=https%3A%2F%2Fwww.mercadolibre.com.ar%2Fprivacidad%2Fdeclaracion-privacidad)
 
@@ -25,7 +25,7 @@ Ingresá lo que quieras encontrar
     
 2. Declaración de privacidad
 
-Versión actualizada al 11 de agosto de 2021
+Versión actualizada al 14 de junio de 2024
 
 Declaración de Privacidad y confidencialidad de la información de Mercado Libre
 -------------------------------------------------------------------------------
@@ -40,16 +40,16 @@ Tené presente que **prestar tu consentimiento voluntario, expreso e informado a
 
 ### Categorías de la Declaración de Privacidad
 
-* [¿Qué datos recogemos de ti?](https://www.mercadolibre.com.ar/privacidad/v2/declaracion-privacidad/que-datos-recogemos-de-ti_29535)
-* [¿Para qué recogemos tus datos personales?](https://www.mercadolibre.com.ar/privacidad/v2/declaracion-privacidad/31076)
-* [Quién es el responsable por el tratamiento de tus datos personales](https://www.mercadolibre.com.ar/privacidad/v2/declaracion-privacidad/31245)
-* [¿A quién compartimos tus datos?](https://www.mercadolibre.com.ar/privacidad/v2/declaracion-privacidad/31128)
-* [¿Por cuánto tiempo almacenamos tus datos personales?](https://www.mercadolibre.com.ar/privacidad/v2/declaracion-privacidad/31236)
-* [¿Cómo puedes configurar tus datos?](https://www.mercadolibre.com.ar/privacidad/v2/declaracion-privacidad/31205)
-* [¿Cuáles son tus deberes y derechos?](https://www.mercadolibre.com.ar/privacidad/v2/declaracion-privacidad/31263)
-* [¿Por qué ves información de otros sitios en Mercado Libre?](https://www.mercadolibre.com.ar/privacidad/v2/declaracion-privacidad/31233)
-* [¿Cuáles son las leyes en tu país?](https://www.mercadolibre.com.ar/privacidad/v2/declaracion-privacidad/31104)
-* [Cambios en la Declaración de privacidad](https://www.mercadolibre.com.ar/privacidad/v2/declaracion-privacidad/31103)
+* [¿Qué datos recogemos de ti?](https://www.mercadolibre.com.ar/privacidad/declaracion-privacidad/que-datos-recogemos-de-ti_29535)
+* [¿Para qué recogemos tus datos personales?](https://www.mercadolibre.com.ar/privacidad/declaracion-privacidad/31076)
+* [Quién es el responsable por el tratamiento de tus datos personales](https://www.mercadolibre.com.ar/privacidad/declaracion-privacidad/31245)
+* [¿A quién compartimos tus datos?](https://www.mercadolibre.com.ar/privacidad/declaracion-privacidad/31128)
+* [¿Por cuánto tiempo almacenamos tus datos personales?](https://www.mercadolibre.com.ar/privacidad/declaracion-privacidad/31236)
+* [¿Cómo puedes configurar tus datos?](https://www.mercadolibre.com.ar/privacidad/declaracion-privacidad/31205)
+* [¿Cuáles son tus deberes y derechos?](https://www.mercadolibre.com.ar/privacidad/declaracion-privacidad/31263)
+* [¿Por qué ves información de otros sitios en Mercado Libre?](https://www.mercadolibre.com.ar/privacidad/declaracion-privacidad/31233)
+* [¿Cuáles son las leyes en tu país?](https://www.mercadolibre.com.ar/privacidad/declaracion-privacidad/31104)
+* [Cambios en la Declaración de privacidad](https://www.mercadolibre.com.ar/privacidad/declaracion-privacidad/31103)
 
 ### Otros
 
@@ -58,25 +58,25 @@ Tené presente que **prestar tu consentimiento voluntario, expreso e informado a
 
 [### ¿Qué datos recogemos de ti?
 
-Al registrarte en cualquiera de nuestras plataformas y a través de diferentes fuentes, recolectamos y tratamos tus datos personales ¿Qué datos recogemos de vos?](https://www.mercadolibre.com.ar/privacidad/v2/declaracion-privacidad/que-datos-recogemos-de-ti_29535)[### ¿Para qué recogemos tus datos personales?
+Al registrarte en cualquiera de nuestras plataformas y a través de diferentes fuentes, recolectamos y tratamos tus datos personales ¿Qué datos recogemos de vos?](https://www.mercadolibre.com.ar/privacidad/declaracion-privacidad/que-datos-recogemos-de-ti_29535)[### ¿Para qué recogemos tus datos personales?
 
-Desde Mercado Libre necesitamos recolectar tus datos para ofrecerte diferentes funcionalidades ¿Para qué los usamos?](https://www.mercadolibre.com.ar/privacidad/v2/declaracion-privacidad/31076)[### Quién es el responsable por el tratamiento de tus datos personales
+Desde Mercado Libre necesitamos recolectar tus datos para ofrecerte diferentes funcionalidades ¿Para qué los usamos?](https://www.mercadolibre.com.ar/privacidad/declaracion-privacidad/31076)[### Quién es el responsable por el tratamiento de tus datos personales
 
-Implementamos medidas de seguridad para cuidar tus datos. ¿Quién es el responsable por tratarlos en tu país?](https://www.mercadolibre.com.ar/privacidad/v2/declaracion-privacidad/31245)[### ¿A quién compartimos tus datos?
+Implementamos medidas de seguridad para cuidar tus datos. ¿Quién es el responsable por tratarlos en tu país?](https://www.mercadolibre.com.ar/privacidad/declaracion-privacidad/31245)[### ¿A quién compartimos tus datos?
 
-Tus datos personales pueden compartirse con terceros. ¿Qué medidas tomamos para protegerlos?](https://www.mercadolibre.com.ar/privacidad/v2/declaracion-privacidad/31128)[### ¿Por cuánto tiempo almacenamos tus datos personales?
+Tus datos personales pueden compartirse con terceros. ¿Qué medidas tomamos para protegerlos?](https://www.mercadolibre.com.ar/privacidad/declaracion-privacidad/31128)[### ¿Por cuánto tiempo almacenamos tus datos personales?
 
-Dependiendo el dato lo almacenamos por cierto tiempo de acuerdo con requerimientos y normativas legales.¿En qué momento son eliminados o anonimizados?](https://www.mercadolibre.com.ar/privacidad/v2/declaracion-privacidad/31236)[### ¿Cómo puedes configurar tus datos?
+Dependiendo el dato lo almacenamos por cierto tiempo de acuerdo con requerimientos y normativas legales.¿En qué momento son eliminados o anonimizados?](https://www.mercadolibre.com.ar/privacidad/declaracion-privacidad/31236)[### ¿Cómo puedes configurar tus datos?
 
-En Mercado Libre usamos distintas tecnologías que nos permiten ofrecerte una experiencia más personalizada ¿Cuáles son?](https://www.mercadolibre.com.ar/privacidad/v2/declaracion-privacidad/31205)[### ¿Cuáles son tus deberes y derechos?
+En Mercado Libre usamos distintas tecnologías que nos permiten ofrecerte una experiencia más personalizada ¿Cuáles son?](https://www.mercadolibre.com.ar/privacidad/declaracion-privacidad/31205)[### ¿Cuáles son tus deberes y derechos?
 
-Como usuario registrado, no registrado o menor de edad, tienes derechos y deberes que aplican según la normativa de tu país ¿Cuáles son?](https://www.mercadolibre.com.ar/privacidad/v2/declaracion-privacidad/31263)[### ¿Por qué ves información de otros sitios en Mercado Libre?
+Como usuario registrado, no registrado o menor de edad, tienes derechos y deberes que aplican según la normativa de tu país ¿Cuáles son?](https://www.mercadolibre.com.ar/privacidad/declaracion-privacidad/31263)[### ¿Por qué ves información de otros sitios en Mercado Libre?
 
-¿Cuál es la responsabilidad de Mercado Libre con los sitios de terceros que tienen presencia dentro de la plataforma?](https://www.mercadolibre.com.ar/privacidad/v2/declaracion-privacidad/31233)[### ¿Cuáles son las leyes en tu país?
+¿Cuál es la responsabilidad de Mercado Libre con los sitios de terceros que tienen presencia dentro de la plataforma?](https://www.mercadolibre.com.ar/privacidad/declaracion-privacidad/31233)[### ¿Cuáles son las leyes en tu país?
 
-En el anexo de tu país, encontrás información de la entidad responsable por el tratamiento de los datos y otras cuestiones reguladas por la legislación aplicable.](https://www.mercadolibre.com.ar/privacidad/v2/declaracion-privacidad/31104)[### Cambios en la Declaración de privacidad
+En el anexo de tu país, encontrás información de la entidad responsable por el tratamiento de los datos y otras cuestiones reguladas por la legislación aplicable.](https://www.mercadolibre.com.ar/privacidad/declaracion-privacidad/31104)[### Cambios en la Declaración de privacidad
 
-La Declaración de privacidad presenta modificaciones o actualizaciones de forma periódica. ¿Qué ocurre cuando se presenta un cambio importante?](https://www.mercadolibre.com.ar/privacidad/v2/declaracion-privacidad/31103)
+La Declaración de privacidad presenta modificaciones o actualizaciones de forma periódica. ¿Qué ocurre cuando se presenta un cambio importante?](https://www.mercadolibre.com.ar/privacidad/declaracion-privacidad/31103)
 
 ### Productos más buscados
 
