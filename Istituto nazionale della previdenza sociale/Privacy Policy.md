@@ -1102,6 +1102,7 @@
                     Graduatorie
                     
                     * [Esplora Graduatorie](https://www.inps.it/it/it/dati-e-bilanci/attivit--di-ricerca/programma-visitinps-scholars/bandi-per-le-borse-di-studio/graduatorie.html)
+                    * [2024](https://www.inps.it/it/it/dati-e-bilanci/attivit--di-ricerca/programma-visitinps-scholars/bandi-per-le-borse-di-studio/graduatorie/2024.html)
                     * [2023](https://www.inps.it/it/it/dati-e-bilanci/attivit--di-ricerca/programma-visitinps-scholars/bandi-per-le-borse-di-studio/graduatorie/2023.html)
                     * [2022](https://www.inps.it/it/it/dati-e-bilanci/attivit--di-ricerca/programma-visitinps-scholars/bandi-per-le-borse-di-studio/graduatorie/2022.html)
                     * [2021](https://www.inps.it/it/it/dati-e-bilanci/attivit--di-ricerca/programma-visitinps-scholars/bandi-per-le-borse-di-studio/graduatorie/2021.html)
