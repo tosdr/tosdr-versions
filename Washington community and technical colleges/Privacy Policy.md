@@ -165,7 +165,7 @@ The SBCTC reserves the right to revise and update this Privacy Notice at any tim
 
 [![YouTube](/_resources/images/youtube.png)](https://www.youtube.com/user/WAStateBoard4CTC)
 
-[![Twitter](/_resources/images/twitter.png)](https://twitter.com/SBCTCWashington)
+[![Twitter](/_resources/images/twitter.png)](https://x.com/SBCTCWashington)
 
 [![SBCTC Facebook](/_resources/images/facebook.png)](https://www.facebook.com/wasbctc/)
 
