@@ -10,7 +10,7 @@
     * [Refill Packs](https://www.blueland.com/collections/refills)
     * [Subscribe & Save
         
-        Save up to 30%](https://www.blueland.com/collections/subscriptions)
+        Save up to 20%](https://www.blueland.com/collections/subscriptions)
     
     Offset
     
@@ -42,7 +42,7 @@ Toggle navigation menu
 * [Shop All](https://www.blueland.com/collections/all)
 * [Subscribe & Save
     
-    Up to 30% off](https://www.blueland.com/collections/subscriptions)
+    Up to 20% off](https://www.blueland.com/collections/subscriptions)
 * [Bestsellers](https://www.blueland.com/collections/bestsellers)
 * [Starter Kits](https://www.blueland.com/collections/starter-kits)
 * [Refills](https://www.blueland.com/collections/refills)
@@ -158,10 +158,6 @@ You can opt out of targeted advertising by using the links below:
 * Facebook: https://www.facebook.com/settings/?tab=ads
 * Google: https://www.google.com/settings/ads/anonymous
 * Bing: https://advertise.bingads.microsoft.com/en-us/resources/policies/personalized-ads
-
-We partner with Rakuten Marketing, a third-party advertiser who may collect personal information when you interact with our site. The collection and use of this information is subject to the privacy policy located here: https://rakutenmarketing.com/legal-notices/services-privacy-policy/. You can also opt-out of Rakuten Marketing here: https://rakutenmarketing.com/legal-notices/subject-requests/
-
-Additionally, you can opt out of some of these services by visiting the Digital Advertising Alliance’s opt-out portal at: http://optout.aboutads.info/.
 
 ### HOW WE PROTECT YOUR PERSONAL INFORMATION
 
@@ -324,7 +320,7 @@ In order to verify your identity when you are authorizing an agent to act on you
 
 Your right to appeal our response to your privacy rights requests:
 
-Residents of Colorado, Connecticut, Montana, Oregon, Texas, and Virginia have the right to appeal our decisions in response to the exercise of your privacy rights requests. To initiate an internal appeal, please contact us at the addresses or phone number listed above or by filling out the **form found here**. We will respond to your request for an internal appeal within 45 days, but we may take up to 60 additional days for good cause. If you are unhappy with the results of your appeal, you may contact your state attorney general.
+Residents of Colorado, Connecticut, Montana, Oregon, Texas, and Virginia have the right to appeal our decisions in response to the exercise of your privacy rights requests. To initiate an internal appeal, please contact us at the addresses or phone number listed above or by filling out the **form found here.** We will respond to your request for an internal appeal within 45 days, but we may take up to 60 additional days for good cause. If you are unhappy with the results of your appeal, you may contact your state attorney general.
 
 ### PRIVACY RIGHTS FOR RESIDENTS OF THE EUROPEAN ECONOMIC AREA, THE UNITED KINGDOM, CANADA, AUSTRALIA, AND NEW ZEALAND
 
@@ -373,7 +369,7 @@ Residents of the European Economic Area and the United Kingdom may report privac
 We may update this privacy policy from time to time in order to reflect, for example, changes to our practices or for other operational, legal or regulatory reasons. Please check back regularly to ensure you have up-to-date notice.
 
   
-This Privacy Policy was last updated on April 15, 2024.  
+This Privacy Policy was last updated on April 30, 2024.  
 
 **CONTACT US**
 
@@ -396,9 +392,9 @@ You've joined the movement!
 
 Oops, something went wrong
 
-* [![](https://cdn.sanity.io/images/d864s8gp/production/d41921b9a74af010b21cd04da21ebc507926884c-13x13.svg?q=80&fit=max&auto=format)](https://www.instagram.com/blueland/)
-* [![](https://cdn.sanity.io/images/d864s8gp/production/b8b6494962c3a199a7597f253c23ff43cb1e345a-96x96.png?q=80&fit=max&auto=format)](https://www.facebook.com/liveblueland/)
-* [![](https://cdn.sanity.io/images/d864s8gp/production/5a60235cf876d0fd22979d6bb734cfa72e3a6bf2-1720x1590.png?q=80&fit=max&auto=format)](https://www.tiktok.com/@blueland)
+* [![Blueland: Eco-Friendly Cleaning Products](https://cdn.sanity.io/images/d864s8gp/production/d41921b9a74af010b21cd04da21ebc507926884c-13x13.svg?q=80&fit=max&auto=format)](https://www.instagram.com/blueland/)
+* [![Blueland: Eco-Friendly Cleaning Products](https://cdn.sanity.io/images/d864s8gp/production/b8b6494962c3a199a7597f253c23ff43cb1e345a-96x96.png?q=80&fit=max&auto=format)](https://www.facebook.com/liveblueland/)
+* [![Blueland: Eco-Friendly Cleaning Products](https://cdn.sanity.io/images/d864s8gp/production/5a60235cf876d0fd22979d6bb734cfa72e3a6bf2-1720x1590.png?q=80&fit=max&auto=format)](https://www.tiktok.com/@blueland)
 
 * ### Shop
     
@@ -426,6 +422,9 @@ Oops, something went wrong
 * * [hello@blueland.com](https://help.blueland.com/en-US/contact)
     * [Terms & Conditions](https://www.blueland.com/terms-and-conditions)
     * [Privacy Policy](https://www.blueland.com/privacy-policy)
+    
+    * Your Privacy Choices
+        
 * ### Good Stuff
     
     * ![B Corp Certification](https://cdn.sanity.io/images/d864s8gp/production/abd9e30d9f0f3d79d061f4c297ff3fe94b858a6c-261x400.png)
@@ -464,6 +463,9 @@ Help
 * [Terms & Conditions](https://www.blueland.com/terms-and-conditions)
 * [Privacy Policy](https://www.blueland.com/privacy-policy)
 
+* Your Privacy Choices
+    
+
 Copyright 2024 Blueland
 
 * Copyright 2024 Blueland
@@ -471,6 +473,9 @@ Copyright 2024 Blueland
 * [hello@blueland.com](https://help.blueland.com/en-US/contact)
 * [Terms & Conditions](https://www.blueland.com/terms-and-conditions)
 * [Privacy Policy](https://www.blueland.com/privacy-policy)
+
+* Your Privacy Choices
+    
 
 * ![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2760%27%20height=%2791%27/%3e)![B Corp Certification](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
@@ -492,53 +497,34 @@ Your cart is empty
 Explore Our Bestsellers
 -----------------------
 
-[![variant image](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+[![The Clean Suite](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-![variant image](https://cdn.sanity.io/images/d864s8gp/production/19839a6eb31009ffc3669f499a3e18f34e917f14-1790x1790.jpg?w=900&q=100&fit=clip&auto=format)
+![The Clean Suite](https://cdn.sanity.io/images/d864s8gp/production/19839a6eb31009ffc3669f499a3e18f34e917f14-1790x1790.jpg?w=900&q=100&fit=clip&auto=format)
 
-![secondary image](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+![Blueland: Eco-Friendly Cleaning Products](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-![secondary image](https://cdn.sanity.io/images/d864s8gp/production/b90a5bb78599d7f2211545acde3308ce3aa691d0-1790x1790.jpg?w=900&q=100&fit=clip&auto=format)
+![Blueland: Eco-Friendly Cleaning Products](https://cdn.sanity.io/images/d864s8gp/production/b90a5bb78599d7f2211545acde3308ce3aa691d0-1790x1790.jpg?w=900&q=100&fit=clip&auto=format)
 
 Bestseller
 
-35% Kit Savings](https://www.blueland.com/products/the-clean-suite)
+30% Kit Savings](https://www.blueland.com/products/the-clean-suite)
 
-[Clean Suite Kit](https://www.blueland.com/products/the-clean-suite)$98
-
-
----------------------------------------------------------------------------
-
-No Reviews Yet
-
-Quick Add
-
-[![variant image](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-
-![variant image](https://cdn.sanity.io/images/d864s8gp/production/2e46733af800be2cc09cc939f9830e73b4214878-1790x1790.jpg?w=900&q=100&fit=clip&auto=format)
-
-![secondary image](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-
-![secondary image](https://cdn.sanity.io/images/d864s8gp/production/910c33ef238743e5823dceb282897ab6a83c0434-1790x1790.jpg?w=900&q=100&fit=clip&auto=format)
-
-Bestseller](https://www.blueland.com/products/hand-soap-refill-packs)
-
-[Hand Soap Refill Packs](https://www.blueland.com/products/hand-soap-refill-packs)$12.50
+[Clean Suite Kit](https://www.blueland.com/products/the-clean-suite)$104
 
 
---------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------
 
 No Reviews Yet
 
 Quick Add
 
-[![variant image](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+[![Blueland Dishwasher Tablets Starter Set](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-![variant image](https://cdn.sanity.io/images/d864s8gp/production/f73028225df35b05bf6cca1e3f36556478c0e2f1-1790x1790.jpg?w=900&q=100&fit=clip&auto=format)
+![Blueland Dishwasher Tablets Starter Set](https://cdn.sanity.io/images/d864s8gp/production/f73028225df35b05bf6cca1e3f36556478c0e2f1-1790x1790.jpg?w=900&q=100&fit=clip&auto=format)
 
-![secondary image](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+![Blueland: Eco-Friendly Cleaning Products](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-![secondary image](https://cdn.sanity.io/images/d864s8gp/production/070a9a34c74b4d16eff25a1807431b85d2cae82b-1790x1790.jpg?w=900&q=100&fit=clip&auto=format)
+![Blueland: Eco-Friendly Cleaning Products](https://cdn.sanity.io/images/d864s8gp/production/070a9a34c74b4d16eff25a1807431b85d2cae82b-1790x1790.jpg?w=900&q=100&fit=clip&auto=format)
 
 Bestseller](https://www.blueland.com/products/dishwasher-starter-set)
 
@@ -551,9 +537,11 @@ No Reviews Yet
 
 Quick Add
 
-[![variant image](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+[![Laundry Starter Set](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-![variant image](https://cdn.sanity.io/images/d864s8gp/production/7025db7b813ff428d0930a54bd5579603e9b2600-1790x1790.jpg?w=900&q=100&fit=clip&auto=format)](https://www.blueland.com/products/laundry-starter-set)
+![Laundry Starter Set](https://cdn.sanity.io/images/d864s8gp/production/7025db7b813ff428d0930a54bd5579603e9b2600-1790x1790.jpg?w=900&q=100&fit=clip&auto=format)
+
+Bestseller](https://www.blueland.com/products/laundry-starter-set)
 
 [Laundry Starter Set](https://www.blueland.com/products/laundry-starter-set)$25
 
@@ -564,13 +552,13 @@ No Reviews Yet
 
 Quick Add
 
-[![variant image](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+[![Toilet Bowl Cleaner Starter Set](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-![variant image](https://cdn.sanity.io/images/d864s8gp/production/144dfa9bd95f9339c6944e054ed6e8943612eff6-1790x1790.jpg?w=900&q=100&fit=clip&auto=format)
+![Toilet Bowl Cleaner Starter Set](https://cdn.sanity.io/images/d864s8gp/production/144dfa9bd95f9339c6944e054ed6e8943612eff6-1790x1790.jpg?w=900&q=100&fit=clip&auto=format)
 
-![secondary image](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+![Blueland: Eco-Friendly Cleaning Products](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-![secondary image](https://cdn.sanity.io/images/d864s8gp/production/1eed58fd0bdd865c4d65eac1efd528478e11694f-1790x1790.jpg?w=900&q=100&fit=clip&auto=format)
+![Blueland: Eco-Friendly Cleaning Products](https://cdn.sanity.io/images/d864s8gp/production/1eed58fd0bdd865c4d65eac1efd528478e11694f-1790x1790.jpg?w=900&q=100&fit=clip&auto=format)
 
 Bestseller](https://www.blueland.com/products/toilet-cleaner-starter-set)
 
