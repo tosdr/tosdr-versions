@@ -307,9 +307,15 @@ Popular features
 5. [How Long Will it Take to Save?](https://www.thecalculatorsite.com/finance/calculators/how-long-to-save)
 6. [The Compound Interest Formula](https://www.thecalculatorsite.com/finance/calculators/compound-interest-formula)
 
-[The History of the Calculator](https://www.thecalculatorsite.com/articles/units/history-of-the-calculator.php)
+[Percentage Calculator](https://www.thecalculatorsite.com/math/percentage-calculator.php)
 
-From abacus to iPhones, learn how calculators developed over time.
+Calculate percentage additions and deductions with our handy calculator.
+
+* * *
+
+[Birthday Calculator](https://www.thecalculatorsite.com/misc/birthday-calculator.php)
+
+Discover the number one song and movie on the day you were born.
 
 #### Finance
 
