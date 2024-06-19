@@ -307,6 +307,14 @@ Europe's leading entertainment brand
 
  
 
+* [![slide-Screenforce Festival 2024](/.galleries/images/Screenforce_Festival_2024_16-9.png?__scale=undefined&description=)
+    
+    Screenforce Festival 2024
+    
+    14.06.24
+    
+    Must-see content, technological innovations, AI and a one-brand strategy: RTL Deutschland presented its positioning for the future at Screenforce Festival 2024.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/Screenforce-Festival-2024/)
+    
 * [![slide-Gabriella Vidus named most influential](/.galleries/images/RTL-Hungary-Top-50_16-9.png?__scale=undefined&description=)
     
     Gabriella Vidus named most influential
