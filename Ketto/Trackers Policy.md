@@ -263,6 +263,8 @@ Followers
 
 Copyright ©  Ketto Online Ventures Pvt Ltd. All Rights Reserved. [Terms of Use](https://www.ketto.org/terms-of-use.php) |[Privacy Policy](https://www.ketto.org/privacy-policy.php)| [AML Policy](https://customerhappiness.ketto.org/portal/en/kb/articles/aml-policy-6-8-2021) | [Use of cookies](https://www.ketto.org/support/use-of-cookies.php) 
 
+Ketto is a private limited company operating an online intermediary platform providing crowdfunding services for medical, social and charitable causes. We facilitate transactions between contributors and campaigners. Ketto does not provide any financial benefits in any form whatsoever to any person making contributions on its platform.
+
 Subscribe and follow us on
 
 [](https://www.facebook.com/profile.php?id=100064806753864)[](http://www.twitter.com/ketto)[](http://www.linkedin.com/company/ketto-online-ventures-private-limited)[](https://www.youtube.com/user/Kettodotorg)[](https://www.instagram.com/kettoindia/)[](javascript:void(0))
@@ -294,6 +296,8 @@ Followers
 ![](https://ketto.gumlet.io/assets/images/homepage/footer-mobile.png)
 
 Copyright ©  Ketto Online Ventures Pvt Ltd. All Rights Reserved.
+
+Ketto is a private limited company operating an online intermediary platform providing crowdfunding services for medical, social and charitable causes. We facilitate transactions between contributors and campaigners. Ketto does not provide any financial benefits in any form whatsoever to any person making contributions on its platform.
 
 ×
 
