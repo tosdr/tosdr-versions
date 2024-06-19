@@ -3,7 +3,7 @@
 Menu
 
 * [Home](https://equalit.ie/)
-* [Projects](https://equalit.ie/projects "Portfolio")
+* [Projects](https://equalit.ie/project-portfolio "Portfolio")
     * [Research](https://equalit.ie/research/)
 * [Focus](https://equalit.ie/#focus "Focus")
 * [News](https://equalit.ie/blog "Blog")
@@ -21,7 +21,7 @@ Menu
 Digital Security for a Civil Society
 
 * [Home](https://equalit.ie/)
-* [Projects](https://equalit.ie/projects "Portfolio")
+* [Projects](https://equalit.ie/project-portfolio "Portfolio")
     * [Research](https://equalit.ie/research/)
 * [Focus](https://equalit.ie/#focus "Focus")
 * [News](https://equalit.ie/blog "Blog")
