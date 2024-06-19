@@ -123,9 +123,6 @@ This site Global search
         * [Print Publications](https://english.tau.ac.il/print)
     * Global Campaign
         * [Message from Campaign Chair](https://english.tau.ac.il/global_campaign/message_from_campaign_chair)
-        * [Campaign Website](https://campaign.tau.ac.il/#sect0)
-        * [About the Campaign](https://english.tau.ac.il/tau_global_donor_opportunities)
-        * [Campaign Cabinet](https://english.tau.ac.il/global_campaign/campaign_cabinet)
     * Give Online Now
         * [All Giving Options](https://english.tau.ac.il/online_giving)
         * [Give through American Friends](https://www.aftau.org/general-fund-donation-form)
