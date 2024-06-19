@@ -1,14 +1,14 @@
-[![Share in Abundance through Seeds](//images.squarespace-cdn.com/content/v1/5bf36b4936099bd154911b7e/1592428554342-PP47P5BP6DD7WML6KW13/Seeds+High+Res+Logo.png?format=1500w)](https://www.seedsgives.com/)
+[![Share in Abundance through Seeds](//images.squarespace-cdn.com/content/v1/5bf36b4936099bd154911b7e/75db92a4-6d18-451a-85b7-a8fbba12bb29/white+seeds+logo.png?format=1500w)](https://www.seedsgives.com/)
 
 [](https://www.seedsgives.com/search)
 
-[Help (& Receive SEEDS)](https://www.seedsgives.com/help) [Ask For Help](https://www.seedsgives.com/ask-for-help) [Buy SEEDS on Uniswap](https://app.uniswap.org/explore/tokens/ethereum/0x61404d2d3f2100b124d6827d3f2ddf6233cd71c0) [Course](https://www.seedsgives.com/course-registration) Dive Deeper
+[1-on-1 Session](https://www.seedsgives.com/one-on-one) [Help (& Receive SEEDS)](https://www.seedsgives.com/help) [Ask For Help](https://www.seedsgives.com/ask-for-help) [Buy SEEDS on Uniswap](https://app.uniswap.org/explore/tokens/ethereum/0x61404d2d3f2100b124d6827d3f2ddf6233cd71c0) [Course](https://www.seedsgives.com/course-registration) Dive Deeper
 
 Back [Blog](https://www.seedsgives.com/blog) [FAQ](https://www.seedsgives.com/faq) [Spiritual Crypto](https://spiritualcrypto.buzzsprout.com/) [Discord](https://discord.gg/J8F5AdJ9mz) [$10 mil for social good](https://www.seedsgives.com/10-mil-for-social-good-orgs) [Become a Liquidity Provider](https://www.seedsgives.com/how-to-stake) [Manage Your Giving](https://www.seedsgives.com/update-your-card) [Get Updates!](https://www.seedsgives.com/you-deserve-abundance)
 
-[Help (& Receive SEEDS)](https://www.seedsgives.com/help) [Ask For Help](https://www.seedsgives.com/ask-for-help)[Buy SEEDS on Uniswap](https://app.uniswap.org/explore/tokens/ethereum/0x61404d2d3f2100b124d6827d3f2ddf6233cd71c0)[Course](https://www.seedsgives.com/course-registration) [Dive Deeper](https://www.seedsgives.com/deeper-dive) [Blog](https://www.seedsgives.com/blog) [FAQ](https://www.seedsgives.com/faq) [Spiritual Crypto](https://spiritualcrypto.buzzsprout.com/) [Discord](https://discord.gg/J8F5AdJ9mz) [$10 mil for social good](https://www.seedsgives.com/10-mil-for-social-good-orgs) [Become a Liquidity Provider](https://www.seedsgives.com/how-to-stake) [Manage Your Giving](https://www.seedsgives.com/update-your-card) [Get Updates!](https://www.seedsgives.com/you-deserve-abundance)
+[1-on-1 Session](https://www.seedsgives.com/one-on-one)[Help (& Receive SEEDS)](https://www.seedsgives.com/help) [Ask For Help](https://www.seedsgives.com/ask-for-help)[Buy SEEDS on Uniswap](https://app.uniswap.org/explore/tokens/ethereum/0x61404d2d3f2100b124d6827d3f2ddf6233cd71c0)[Course](https://www.seedsgives.com/course-registration) [Dive Deeper](https://www.seedsgives.com/deeper-dive) [Blog](https://www.seedsgives.com/blog) [FAQ](https://www.seedsgives.com/faq) [Spiritual Crypto](https://spiritualcrypto.buzzsprout.com/) [Discord](https://discord.gg/J8F5AdJ9mz) [$10 mil for social good](https://www.seedsgives.com/10-mil-for-social-good-orgs) [Become a Liquidity Provider](https://www.seedsgives.com/how-to-stake) [Manage Your Giving](https://www.seedsgives.com/update-your-card) [Get Updates!](https://www.seedsgives.com/you-deserve-abundance)
 
-[![Share in Abundance through Seeds](//images.squarespace-cdn.com/content/v1/5bf36b4936099bd154911b7e/1592428554342-PP47P5BP6DD7WML6KW13/Seeds+High+Res+Logo.png?format=1500w)](https://www.seedsgives.com/)
+[![Share in Abundance through Seeds](//images.squarespace-cdn.com/content/v1/5bf36b4936099bd154911b7e/75db92a4-6d18-451a-85b7-a8fbba12bb29/white+seeds+logo.png?format=1500w)](https://www.seedsgives.com/)
 
 ### **Terms and Conditions** 
 
