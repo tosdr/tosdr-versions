@@ -184,8 +184,8 @@ _If you are in a crisis or dangerous situation, you can [get immediate help](htt
 * [Good Faith Estimate](https://therapydave.com/good-faith-estimate.pdf)
 * [Client Portal](https://clients.therapydave.com/)
 
-Certified Gottman Therapist providing in-person sessions in Eugene Oregon and virtual counseling for individuals and couples, ages 18 and older. [Schedule now](https://therapydave.com/therapist-appointments/)
+Certified Gottman Therapist in Eugene, Oregon.
 
-[Schedule Now](https://therapydave.com/therapist-appointments/)
+[More Info](https://therapydave.com/therapist-appointments/)
 
 X
