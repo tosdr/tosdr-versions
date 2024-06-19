@@ -214,10 +214,10 @@ Homepage](https://atos.net/en)
         * [Media Resources](https://atos.net/en/newsroom/media-resources)
         * [Media Contacts](https://atos.net/en/newsroom#contacts)
         
-        13 June 2024
+        17 June 2024
         
-        Market Update - June 13, 2024
-        -----------------------------
+        Eviden announces SICS ALAT, the combat information system of the SCORPION program, to be embedded in the aircraft of the French Army Light Aviation by 2026
+        -----------------------------------------------------------------------------------------------------------------------------------------------------------
         
     * [Blog](https://atos.net/en/atos-blog)˅
         
@@ -322,7 +322,7 @@ Homepage](https://atos.net/en)
         
         € 11 billion revenue
         
-        105,000 employees
+        95,000 employees
         
         69 countries
         
