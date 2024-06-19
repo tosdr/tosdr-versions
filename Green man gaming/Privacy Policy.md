@@ -77,15 +77,15 @@ Toggle navigation
 
 Top Searches
 
-[Shadow of the Erdtree](https://www.greenmangaming.com/games/elden-ring-shadow-of-the-erdtree-pc/)
-
-[God of War](https://www.greenmangaming.com/games/god-of-war-pc/)
+[God of War Ragnarok](https://www.greenmangaming.com/games/god-of-war-ragnarok-pc/)
 
 [Dave the Diver](https://www.greenmangaming.com/games/dave-the-diver-pc/)
 
 [Ghost of Tsushima](https://www.greenmangaming.com/games/ghost-of-tsushima-directors-cut-pc/)
 
 [SaGa](https://www.greenmangaming.com/games/romancing-saga-minstrel-song-remastered-pc/)
+
+[Final Fantasy](https://www.greenmangaming.com/games/final-fantasy-xiv-dawntrail-digital-collectors-edition-eu-pc/)
 
 [Helldivers](https://www.greenmangaming.com/games/helldivers-2-pc/)
 
@@ -160,7 +160,7 @@ For further information about our Privacy Notice or our processing of data about
 Or escalate your query to:  
 [dataprotection@greenmangaming.com](mailto:dataprotection@greenmangaming.com)  
   
-Green Man Gaming Limited C/O Tc Group 6th Floor Kings House, 9-10 Haymarket, London, SW1Y 4BP is incorporated in England and Wales under the company number 05271628.
+Green Man Gaming Limited of c/o Nyman Libson Paul LLP, 124 Finchley Road, London, United Kingdom, NW3 5JS is incorporated in England and Wales under the company number 05271628.
 
 ### DATA COLLECTION
 
@@ -208,11 +208,7 @@ The data that we access from and store on your devices may include:
   
 **Game Tracking**  
   
-By linking your Steam account with your Green Man Gaming account you grant us an access to your Steam game library and your Steam game play data. Thanks to that you can track your progress, achievements and play time on your Green Man Gaming profile. If you leave your profile public other users will be able to see your stats. If you make your profile private, then only you will see your achievements, game play time and other interesting data on your gaming profile.  
-  
-Data from all the users who linked their Steam accounts is collected and displayed as aggregated community stats.  
-  
-Steam can be used online or offline and it updates your profile as soon as you go online. It takes us up to 24-hours to receive your data from Steam so don’t be surprised if you don’t see your new game achievement straight away displayed on your profile.  
+By linking your Steam account with your Green Man Gaming account you grant us access to your Steam game library and your Steam game play data.  
   
 **Websites, Marketing and Advertising**  
   
@@ -318,7 +314,7 @@ When you create an account for Green Man Gaming, certain information will form p
 This includes:  
 
 1. Your Green Man Gaming Username
-2. "About Me" statement, avatar, gaming activity and statistics (if you choose to link your Steam account), online/offline status, game reviews you write and the games you own or have added to your Want List.
+2. "About Me" statement, avatar, game reviews you write and the games you have added to your Green Man Gaming Wish List.
 3. When you create a Green Man Gaming account, your profile will be set for 'Public' view but you can choose whether to keep your profile public or change it to private through your profile settings ('Settings' tab in 'My profile').
 
   
@@ -394,7 +390,7 @@ We will use our reasonable efforts to notify you of any such changes, which will
   
 Your continued use of our Services will be deemed acceptance of the updated or amended Privacy Notice and these variations shall become effective immediately upon being accessible. If you do not agree to the changes, you should cease using the Service. If there is any conflict between this Privacy Notice and any terms or specific local terms appearing elsewhere on the Service then this notice shall prevail.  
   
-Version 0.8 (February 2024)  
+Version 0.9 (June 2024)  
   
 Effective Date on May 25th, 2018
 
