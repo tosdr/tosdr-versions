@@ -38,10 +38,6 @@ The Session uses this PHP library:
     Written by [Fabien Potencier](https://github.com/sponsors/fabpot).
     
 
-[back](#) [menu](#top)
-
-[Log in](https://thesession.org/login?redirect=%2Fabout) or [Sign up](https://thesession.org/signup)
-
 * [Tunes](https://thesession.org/tunes)
 * [Discography](https://thesession.org/recordings)
 * [Trips](https://thesession.org/trips)
