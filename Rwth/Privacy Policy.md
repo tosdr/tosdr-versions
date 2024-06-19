@@ -306,7 +306,7 @@ _[To Portal Page](https://www.rwth-aachen.de/cms/root/~eex/Die-RWTH/lidx/1/ "To 
 * [Campus Safety](https://www.rwth-aachen.de/cms/root/Die-RWTH/Sicherheit/~udb/Sicherheit-auf-dem-Campus/lidx/1/ "About RWTH > Safety > Campus Safety")
 * [Campus Security](https://www.rwth-aachen.de/cms/root/Die-RWTH/Sicherheit/~epg/Hochschulwache/lidx/1/ "About RWTH > Safety > Campus Security")
 * [Fire Safety](https://www.rwth-aachen.de/cms/root/Die-RWTH/Sicherheit/~cjgp/Brandschutz/lidx/1/ "About RWTH > Safety > Fire Safety")
-* [Occupational and Radiation Protection at RWTH](https://www.rwth-aachen.de/cms/root/Die-RWTH/Sicherheit/~bssq/Arbeitssicherheit-und-Strahlenschutz/lidx/1/ "About RWTH > Safety > Occupational and Radiation Protection at RWTH")
+* [Occupational Safety and Radiation Protection at RWTH](https://www.rwth-aachen.de/cms/root/Die-RWTH/Sicherheit/~bssq/Arbeitssicherheit-und-Strahlenschutz/lidx/1/ "About RWTH > Safety > Occupational Safety and Radiation Protection at RWTH")
 * [Management of Hazardous Waste](https://www.rwth-aachen.de/cms/root/Die-RWTH/Sicherheit/~qntx/Umgang-mit-gefaehrlichen-Abfaellen/lidx/1/ "About RWTH > Safety > Management of Hazardous Waste")
 
 #### [Contact & Directions](https://www.rwth-aachen.de/cms/root/Die-RWTH/~emu/Kontakt-Anreise/lidx/1/ "About RWTH > Contact & Directions")
