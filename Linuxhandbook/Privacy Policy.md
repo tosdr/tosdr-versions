@@ -59,7 +59,7 @@ An independent, reader-supported publication focusing on Linux Command Line, Ser
 Subscribe to LHB Linux Digest Newsletter
 ----------------------------------------
 
-Get a curated assortment of Linux tips, tutorials and memes directly in your inbox. Over 14,000 Linux users enjoy it twice a month.
+Get a curated assortment of Linux tips, tutorials and memes directly in your inbox. Over 18,000 Linux users enjoy it twice a month.
 
 Enter your email Subscribe
 
