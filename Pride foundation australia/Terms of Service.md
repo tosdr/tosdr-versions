@@ -3,7 +3,6 @@
 [![](https://pridefoundation.org.au/wp-content/uploads/2019/03/pridefoundatioon_horizontal_leftt_rgb.png)](https://pridefoundation.org.au/)
 
 * [HOME](https://pridefoundation.org.au/)
-    
 * ABOUT
     
     Close ABOUT Open ABOUT
@@ -82,6 +81,8 @@
 [Donate to PFA](https://pridefoundation.org.au/donate/)
 
 [Fundraising Support Hub](https://pridefoundation.org.au/supporting-pride-foundation-australia/)
+
+[LGBTQIA+ Refugee Community Sponsorship](https://pridefoundation.org.au/lgbtqia-refugee-community-sponsorship-in-australia/)
 
 ### [MENU](#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjIzNTUxIiwidG9nZ2xlIjpmYWxzZX0%3D)
 
@@ -251,7 +252,7 @@ Subscribe
 
 [Terms & Conditions](https://pridefoundation.org.au/terms-conditions/) | [Privacy Policy](https://pridefoundation.org.au/privacy/)
 
-Website designed & built by [Twopence Digital](http://www.twopence.digital/)
+Website designed & built by [Twopence Digital](https://twopence.digital/)
 
 * [Home](https://pridefoundation.org.au/)
 * [Major Grants](https://pridefoundation.org.au/major-grants/)
