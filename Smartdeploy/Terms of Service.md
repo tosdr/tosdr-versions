@@ -59,8 +59,8 @@ Resources
 [Product guide](https://www.smartdeploy.com/download/trial-guide/)  
 [Get up and running quickly with easy step-by-step instructions](https://www.smartdeploy.com/download/trial-guide/)
 
-[\[email protected\]](https://www.smartdeploy.com/cdn-cgi/l/email-protection)  
-[\[email protected\]](https://www.smartdeploy.com/cdn-cgi/l/email-protection)
+[Product roadmap](https://www.smartdeploy.com/roadmap/)  
+[Product roadmap](https://www.smartdeploy.com/roadmap/)
 
 [Pricing](https://www.smartdeploy.com/buy/ "Pricing")
 
@@ -300,6 +300,7 @@ Resources
 * [Case studies](https://www.smartdeploy.com/customers/)
 * [Webcasts](https://www.smartdeploy.com/events/)
 * [Product guide](https://www.smartdeploy.com/download/trial-guide/)
+* [Product roadmap](https://www.smartdeploy.com/roadmap/)
 * [\[email protected\]](https://www.smartdeploy.com/cdn-cgi/l/email-protection)
 
 Solutions
