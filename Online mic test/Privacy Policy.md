@@ -7,6 +7,7 @@
     * [Keyboard Test](https://www.onlinemictest.com/keyboard-test/)
     * [Mouse Test](https://www.onlinemictest.com/mouse-test/)
     * [Controller Test](https://www.onlinemictest.com/controller-tester/)
+    * [Touch Screen Test](https://www.onlinemictest.com/touch-screen-test/)
     * [Voice Recorder](https://www.onlinemictest.com/voice-recorder/)
     * [Tone Generator](https://www.onlinemictest.com/tone-generator/)
 * Tuners
