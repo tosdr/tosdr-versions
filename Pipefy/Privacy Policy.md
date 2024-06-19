@@ -1,3 +1,5 @@
+Join us! Webinar: How IT Can Expand Their Zone of Influence | 4/25 [Register today](https://www.pipefy.com//webinar/move-the-line?utm_campaign=US_INB_Website_AWA_LeadGen_None_Lead_DemandGen_IT_Webinar-Move-the-Line-Top-bar&utm_source=webinar&utm_medium=organic&utm_content=topbar-cta)
+
 [](https://www.pipefy.com/ "Pipefy")
 
 Products
@@ -17,6 +19,8 @@ Platform
 [Enterprise Workflow Platform For enterprises across all segments](https://www.pipefy.com/enterprise-process-management-software/)
 
 [Integrations Integrate your tech stack](https://www.pipefy.com/integrations/)
+
+[Pipefy for SMBs Automation that scales with your business](https://www.pipefy.com/pipefy-for-smb/)
 
 [Platform Overview Fast-track digital transformation](https://www.pipefy.com/platform/)
 
@@ -340,6 +344,8 @@ Platform
 [What is Pipefy](https://www.pipefy.com/how-pipefy-works/)
 
 [Enterprise](https://www.pipefy.com/enterprise-process-management-software/)
+
+[Pipefy for SMBs](https://www.pipefy.com/pipefy-for-smb/)
 
 [Pricing](https://www.pipefy.com/pricing/)
 
