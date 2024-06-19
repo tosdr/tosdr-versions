@@ -308,37 +308,37 @@ Washington, DC 20006
 
 TRENDING
 
-[![](/files/images/1x1.trans.gif)](https://dailycaller.com/2024/06/08/biden-admin-radical-policies-housing-market-system/ "Biden Admin Quietly Injecting Radical Policies Into Housing Market — And It Might Bring The Whole System Down")
+[![](/files/images/1x1.trans.gif)](https://dailycaller.com/2024/06/18/three-teenagers-arrested-for-allegedly-raping-girl-for-being-jewish-report/ "Three Teenagers Arrested For Allegedly Raping Girl For Being Jewish: REPORT")
 
 1
 
-[Biden Admin Quietly Injecting Radical Policies Into Housing Market — And It Might Bring The Whole System Down](https://dailycaller.com/2024/06/08/biden-admin-radical-policies-housing-market-system/)
+[Three Teenagers Arrested For Allegedly Raping Girl For Being Jewish: REPORT](https://dailycaller.com/2024/06/18/three-teenagers-arrested-for-allegedly-raping-girl-for-being-jewish-report/)
 
-Business
+World
 
 2
 
-['They're Not Going To Go Down Easily': Gingrich Raises Concerns Democrats Are Becoming More 'Radical And Dangerous'](https://dailycaller.com/2024/06/08/newt-gingrich-concerns-democratic-party-2024-election/)
+['Mysterious Monolith' Crops Up In Desert, Authorities Say](https://dailycaller.com/2024/06/18/mysterious-monolith-desert-las-vegas-nevada/)
 
-Media
+US
 
 3
 
-[Jake Paul Vs Mike Tyson Fight Is Back On](https://dailycaller.com/2024/06/07/jake-paul-vs-mike-tyson-fight-is-back-on/)
+[Josh Hawley Confronts Scientist For Engaging In 'Propaganda Effort' To Cast Doubt On COVID-19 Lab Leak Theory](https://dailycaller.com/2024/06/18/josh-hawley-confronts-scientist-engaging-propaganda-effort-cast-doubt-covid-19-lab-leak-theory/)
 
-Editorial
+Health
 
 4
 
-[Injury Suffered By Police Officer Which Could Have Sent World's No. 1 Golfer To Jail Revealed](https://dailycaller.com/2024/06/08/bryan-gillis-injury-scottie-scheffler-arrest/)
+[Massive Cocaine Haul Worth $2.7 Billion Seized](https://dailycaller.com/2024/06/17/cocaine-2-7-billion-seized-germany/)
 
-Sports
+World
 
 5
 
-[‘A Total Meltdown’: Lunden Roberts Claims Phone ‘Crashed,’ ‘Everything’ With Hunter Biden ‘Gone’ After Pregnancy Discovery](https://dailycaller.com/2024/06/08/luden-roberts-phones-crashed-hunter-biden-pregnancy-megyn-kelly/)
+[D.C. Bureaucrats Have Unleashed A Hell On American Men They May Come To Regret](https://dailycaller.com/2024/06/18/zyn-nicotine-pouches-shipping-ban-washington-dc-flavored-tobacco-philip-morris/)
 
-Politics
+Health
 
 [![The Daily Caller logo](/files/images/logo-white.png)](https://dailycaller.com/ "To home page")
 
