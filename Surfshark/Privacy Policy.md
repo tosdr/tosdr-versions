@@ -156,7 +156,7 @@ If you use our Alert service, you may enter email addresses which you would like
 
 If you use the Dedicated IP service, we will process your email address, therefore, certain online activities can be traced back to your account information as long as you don’t select an anonymous Dedicated IP option after the Dedicated IP installation process. Anonymous Dedicated IP option removes any information we have in our database about your Dedicated IP address.
 
-If you use the Alternative ID service, we will process your email address. To be able to use this service, you will have to verify your email address. The emails you receive via Alternative ID along with sender and recipient email server IP address, sender email address, recipient email address and timestamps are deleted as soon as they are forwarded to your email address. We use a trusted email service provider to facilitate this service.
+If you use the Alternative Email service, we will process your email address, email mask and its description, also we will process the content of the email only for technical reasons (i.e. to forward it), email forwarding status, user profile data, metadata associated with the email. To be able to use this service, you will have to verify your email address to which emails are forwarded. The emails you receive via Alternative ID along with sender and recipient email server IP address, sender email address and timestamps are deleted as soon as they are forwarded to your email address. We use a trusted email service provider to facilitate this service. If you use the Alternative Number service, we will process the telephone number that has been assigned to you by Surfshark, as well as your call and SMS log, your content. We use a trusted VoIP service provider to facilitate this service. We respect your privacy and we do not access your private content.
 
 Legal basis for the processing of information is performance of a contract to which you are a party. Please note that this information is necessary to enter into a contract and if you do not provide this information (or if we cannot retain this information), we will not be able to provide you with our Services.
 
@@ -200,7 +200,7 @@ Legal basis for the processing of personal information is our legitimate interes
 
 We are subject to accounting, tax and other statutory requirements. We may have to protect our legitimate interests and legal rights. In these cases we may be required to collect and store a limited amount of certain information: email address, subscription information, payment related information, legal documents.
 
-As for payment related information, our payment processing partners collect usual data necessary for payment processing and/or refund requests (transaction date, payer’s IP address, credit card number, credit card owner’s full name, in some jurisdictions also personal identity code, passport or identity card number and/or residence address). We process only very small part of this payment related information (part of the credit card number, payer’s IP address, payment amount, currency, date of payment and card expiry date) for solving payment related issues (such as fraud prevention cases). We also collect information about your residence country (and your state) as this information is needed to calculate applicable VAT/sales tax. If you elect so, we may retain your data which is used to generate and issue invoice for the rendered Services. If you choose the open banking payment method to pay for our Services, we will collect your name and surname, as well as your bank details.
+As for payment related information, our payment processing partners collect usual data necessary for payment processing and/or refund requests (transaction date, payer’s IP address, credit card number, credit card owner’s full name, in some jurisdictions also personal identity code, passport or identity card number and/or residence address). We process only a very small part of this payment related information (part of the credit card number, payer’s IP address, payment amount, currency, date of payment and card expiry date) for solving payment related issues (such as fraud prevention cases). We also collect information about your residence country (and your state) as this information is needed to calculate applicable VAT/sales tax. If you elect so, we may retain your data which is used to generate and issue invoice for the rendered Services. If you choose the open banking payment method to pay for our Services, we will collect your name and surname, as well as your bank details.
 
 Legal basis for the processing of personal information is a legal obligation to which we are subject (in case we need to collect your information statutorily) and our legitimate interest to defend our rights and interests (in case of other legal processes related to you, if any).
 
@@ -209,13 +209,14 @@ Legal basis for the processing of personal information is a legal obligation to 
 
 Information Retention
 
-Please keep in mind, that one of our most important principles is No-logs Policy (see more in our Terms of Service), therefore we collect only the minimum amount of information about you, which is required to provide you with our Services.
+Please keep in mind that one of our most important principles is No-logs Policy (see more in our Terms of Service), therefore we collect only the minimum amount of information about you, which is required to provide you with our Services.
 
 We apply different retention periods depending on the purpose for which your personal information is processed as detailed in Clause 1 of this Policy:
 
 * Personal information which is needed to provide our Services is processed for as long as you use Surfshark and no more than 2 years after you stop.
 * Personal information which is needed to provide our Smart DNS services (i.e. your IP address) is processed for as long as you use our Services.
 * Personal information which is needed to provide our Trust DNS service is processed for as long as you use Trust DNS service.
+* Personal information which is needed to provide our Alternative Number service is processed for as long as you use Alternative Number and 2 years after the end of this service.
 * Personal information which is needed for analysing and improving the performance of our Website/Services and user experience is processed until the deletion of your account.
 * Personal information which is needed to offer you our Services is processed as long as you use them or have given us a consent and 2 years thereafter.
 * Personal information which is needed to communicate with users and provide customer support is processed for no longer than 2 years following the last communication with the exception of the device information (collected with your consent to solve your problems with the app), which we store for no longer than 7 days.
@@ -254,7 +255,7 @@ We only disclose personal information to law enforcement authorities or courts o
 | Storage and infrastructure service providers, such as BigQuery (by Google), Stitch (by Talend) | they help us to deliver targeted advertising to the Website visitors | United States |
 | Live chat and support service providers, such as Zendesk | we use them to provide live chat technology and provide support to our users | United States |
 | Security service providers, such as Cloudflare | we work with them to provide improved security and performance | United States |
-| Attorneys, notaries, bailiffs | we transfer personal information in cases when we seek to defend our rights and legal interests | United States, United Kingdom, the Netherlands |
+| Providers that help us deliver the Alternative ID service, such as Vonage | we work with them to provide you Alternative ID services (such as Alternative Number) | United States |
 
 4\. What choices do you have over how your information is used?
 ---------------------------------------------------------------
@@ -277,7 +278,7 @@ If you wish to implement any of the above-mentioned rights, please contact us at
 
 No.
 
-Automated decision-making is the process of making a decision by automated means without any human involvement. Profiling analyses aspects of individual’s personality, behaviour, interests and habits to make predictions or decisions about them. We assure you, that we do not make decisions based solely on automated processing, including profiling, which would produce legal effects concerning you.
+Automated decision-making is the process of making a decision by automated means without any human involvement. Profiling analyses aspects of individual’s personality, behaviour, interests and habits to make predictions or decisions about them. We assure you that we do not make decisions based solely on automated processing, including profiling, which would produce legal effects concerning you.
 
 6\. Cookies and web beacons
 ---------------------------
@@ -404,20 +405,15 @@ While translations of this Privacy Policy may be provided in other languages, th
 
 Keep in mind that we can update this Policy in the future & check it regularly.
 
-May 20, 2024.
-
-###### Bundle
-
-* [Surfshark One](https://surfshark.com/one "Surfshark One")
-* [Benefits](https://surfshark.com/use-cases "Benefits")
+June 17, 2023.
 
 ###### Products
 
 * [Surfshark VPN](https://surfshark.com/vpn "Surfshark VPN")
+* [Alternative ID](https://surfshark.com/alternative-id "Alternative ID")
 * [Surfshark Alert](https://surfshark.com/alert "Surfshark Alert")
 * [Surfshark Antivirus](https://surfshark.com/antivirus "Surfshark Antivirus")
 * [Surfshark Search](https://surfshark.com/search "Surfshark Search")
-* [Alternative ID](https://surfshark.com/alternative-id "Alternative ID")
 * [Pricing](https://surfshark.com/pricing "Pricing")
 
 ###### Other products
@@ -427,7 +423,8 @@ May 20, 2024.
 ###### Surfshark VPN
 
 * [What is a VPN?](https://surfshark.com/learn/what-is-vpn "What is a VPN?")
-* [VPN Features](https://surfshark.com/features "VPN Features")
+* [VPN features](https://surfshark.com/features "VPN features")
+* [VPN use cases](https://surfshark.com/use-cases "VPN use cases")
 * [VPN servers](https://surfshark.com/servers "VPN servers")
 * [Dedicated IP](https://surfshark.com/dedicated-ip "Dedicated IP")
 * [Reviews](https://surfshark.com/surfshark-review "Reviews")
@@ -436,14 +433,15 @@ May 20, 2024.
 
 ###### Solution
 
-* [VPN for Teams](https://surfshark.com/for-teams "VPN for Teams")
+* [VPN for teams](https://surfshark.com/for-teams "VPN for teams")
 
 ###### Resources
 
 * [About us](https://surfshark.com/about-us "About us")
-* [Media Center](https://surfshark.com/press "Media Center")
+* [Media center](https://surfshark.com/press "Media center")
 * [Career](https://surfshark.com/career "Career")
 * [Blog](https://surfshark.com/blog "Blog")
+* [Blog newsletter](https://surfshark.com/blog-subscription "Blog newsletter")
 * [Warrant canary](https://surfshark.com/warrant-canary "Warrant canary")
 
 ###### Programs
@@ -464,17 +462,15 @@ May 20, 2024.
 * [Help center](https://support.surfshark.com/hc/en-us "Help center")
 * [Setup guides](https://support.surfshark.com/hc/en-us/sections/4414400041362-Applications "Setup guides")
 
-[macOS](https://surfshark.com/download/macos "macOS")
-
 [Windows](https://surfshark.com/download/windows "Windows")
+
+[macOS](https://surfshark.com/download/macos "macOS")
 
 [Linux](https://surfshark.com/download/linux "Linux")
 
-[iOS](https://surfshark.com/download/ios "iOS")
-
 [Android](https://surfshark.com/download/android "Android")
 
-[Fire TV](https://surfshark.com/download/amazon-fire-tv "Fire TV")
+[iOS](https://surfshark.com/download/ios "iOS")
 
 [Chrome](https://surfshark.com/download/chrome "Chrome")
 
@@ -482,7 +478,11 @@ May 20, 2024.
 
 [Edge](https://surfshark.com/download/edge "Edge")
 
-[Facebook](https://www.facebook.com/SurfsharkPrivacy/)[Twitter](https://twitter.com/surfshark)[Instagram](https://www.instagram.com/surfshark/)[Youtube](https://www.youtube.com/channel/UCEFFKGOqb1Mtvj3g3gjc6tQ)[Reddit](https://www.reddit.com/r/surfshark/)[TikTok](https://www.tiktok.com/@surfshark)[Pinterest](https://www.pinterest.com/surfsharkVPN/)
+[Apple TV](https://surfshark.com/download/apple-tv-vpn "Apple TV")
+
+[Fire TV](https://surfshark.com/download/amazon-fire-tv "Fire TV")
+
+[Facebook](https://www.facebook.com/SurfsharkPrivacy/)[X (Twitter)](https://x.com/surfshark)[Instagram](https://www.instagram.com/surfshark/)[Youtube](https://www.youtube.com/channel/UCEFFKGOqb1Mtvj3g3gjc6tQ)[Reddit](https://www.reddit.com/r/surfshark/)[TikTok](https://www.tiktok.com/@surfshark)[Pinterest](https://www.pinterest.com/surfsharkVPN/)[Naver](https://blog.naver.com/surfshark_korea)
 
 EnglishDeutschEspañolFrançaisItalianoNederlandsPolskiPortuguêsSuomiTürkçeРусскийУкраїнська한국어简体中文香港繁體台灣繁體日本語
 
