@@ -160,15 +160,15 @@ Advanced Search
 
 Trending Splashtags
 
+[#juneteenth](https://spoutible.com/search/posts?q=%23juneteenth)
+
+[#williemays](https://spoutible.com/search/posts?q=%23williemays)
+
+[#horn](https://spoutible.com/search/posts?q=%23horn)
+
 [#dailypicturetheme](https://spoutible.com/search/posts?q=%23dailypicturetheme)
 
-[#reflect](https://spoutible.com/search/posts?q=%23reflect)
-
 [#eqnz](https://spoutible.com/search/posts?q=%23eqnz)
-
-[#insignificant](https://spoutible.com/search/posts?q=%23insignificant)
-
-[#earthquake](https://spoutible.com/search/posts?q=%23earthquake)
 
 [Show More](https://spoutible.com/trending)
 
