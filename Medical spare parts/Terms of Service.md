@@ -10,7 +10,7 @@ Customer Service: [\+ 31 88 0531000](tel:+3188 0531000)
 
 [![Go to homepage](https://msp-medical.com/media/2c/48/82/1639650665/msp-logo.svg)](https://www.medicalspareparts.com/ "Go to homepage")
 
-![language flag](https://msp-medical.com/theme/a8836e05a2694e89855145d497ca3d13/assets/images/flag.svg?1717768483)
+![language flag](https://msp-medical.com/theme/a8836e05a2694e89855145d497ca3d13/assets/images/flag.svg?1718196896)
 
 EN
 
@@ -106,10 +106,10 @@ or [sign up](https://www.medicalspareparts.com/account/login "Sign up")
     [Type of Equipment](https://msp-medical.com/spare-parts/chargers/type-of-equipment/ "Type of Equipment")
     
     * [Patient Hoists](https://msp-medical.com/spare-parts/chargers/type-of-equipment/patient-hoists/ "Patient Hoists")
-    * [Mobility Scooters](https://msp-medical.com/spare-parts/chargers/type-of-equipment/mobility-scooters/ "Mobility Scooters")
     * [Shower Chairs/Trolley](https://msp-medical.com/spare-parts/chargers/type-of-equipment/shower-chairs-trolley/ "Shower Chairs/Trolley")
     * [Working Chairs](https://msp-medical.com/spare-parts/chargers/type-of-equipment/working-chairs/ "Working Chairs")
     * [Hospital Beds](https://msp-medical.com/spare-parts/chargers/type-of-equipment/hospital-beds/ "Hospital Beds")
+    * [Mobility Scooters](https://msp-medical.com/spare-parts/chargers/type-of-equipment/mobility-scooters/ "Mobility Scooters")
     
     [Suited for OEM](https://msp-medical.com/spare-parts/chargers/suited-for-oem/ "Suited for OEM")
     
@@ -409,7 +409,7 @@ We are your partner in Reliable Spare Parts
 
 Close menu
 
-![language flag](https://msp-medical.com/theme/a8836e05a2694e89855145d497ca3d13/assets/images/flag.svg?1717768483)
+![language flag](https://msp-medical.com/theme/a8836e05a2694e89855145d497ca3d13/assets/images/flag.svg?1718196896)
 
 Language: EN
 
@@ -449,7 +449,7 @@ Categories
 * [Battery Technology](https://msp-medical.com/battery-technology/ "Battery Technology")
 * [Chemicals](https://msp-medical.com/chemicals/ "Chemicals")
 
-![](https://msp-medical.com/media/5d/24/31/1667294525/nurse2.jpg)
+![Face, Head, Person, Smile, Woman](https://msp-medical.com/media/e2/51/70/1718614711/nurse4.jpg)
 
 MSP is the smarter alternative. Always!
 
@@ -529,7 +529,7 @@ Art. nr.: MSP-HH-AH-10910
 
 incl. VAT €136.67 Excl. VAT €112.95
 
-1 2 3 4 5 6 7 8
+1 2 3 4 5 6
 
         
 
