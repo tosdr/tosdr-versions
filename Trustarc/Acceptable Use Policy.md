@@ -88,11 +88,11 @@ Javascript must be enabled for the correct page display
     
     [Explore all Regulations](https://trustarc.com/regulations/)
     
-    Colorado Privacy Act
+    EU Artificial Intelligence Act (EU AI Act)
     
-    Colorado's comprehensive privacy legislation
+    EU's regulation on the use of AI and the world's first comprehensive AI law.
     
-    [Learn more](https://trustarc.com/regulations/colorado-privacy-act/)
+    [Learn more](https://trustarc.com/regulations/eu-ai-act//)
     
     Data Privacy Framework (DPF)
     
