@@ -484,6 +484,8 @@ Third Party
 
 [Open Element Web](https://app.element.io/) [Download](https://element.io/download) [Contact Sales](https://element.io/contact-sales) [Admin Dashboard](https://ems.element.io/user/hosting#/hosts)
 
+![](images/cyber-essentials-plus.webp)
+
 Copyright © 2024 Element • [Legal](https://element.io/legal) • [Privacy](https://element.io/privacy)
 
 All Rights Reserved. The Element name, logo and device are registered trade marks of New Vector Ltd
