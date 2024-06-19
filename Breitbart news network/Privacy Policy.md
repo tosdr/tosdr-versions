@@ -54,12 +54,13 @@
 
 [BREITBART](https://www.breitbart.com/ "Breitbart News Network")
 
-* [Trump Trial](https://www.breitbart.com/tag/alvin-bragg/)
-* [Anti-Israel Campus Protests](https://www.breitbart.com/tag/columbia-university/)
-* [Ukraine Funding Betrayal](https://www.breitbart.com/tag/ukraine/)
-* [2024 Race](https://www.breitbart.com/tag/2024-presidential-election/)
-* [Wide Open Border](https://www.breitbart.com/tag/illegal-immigration/)
-* [Bidenomics Bust](https://www.breitbart.com/tag/bidenomics/)
+* [2024 Election](https://www.breitbart.com/2024-election/)
+* [Convicted Felon Biden](https://www.breitbart.com/tag/hunter-biden/)
+* [Trump vs Lawfare](https://www.breitbart.com/tag/alvin-bragg/)
+* [Pride Propaganda](https://www.breitbart.com/tag/pride-month/)
+* [Border Crisis](https://www.breitbart.com/tag/illegal-immigration/)
+* [UK Election](https://www.breitbart.com/tag/uk-election/)
+* [Israel War](https://www.breitbart.com/middle-east/)
 
 Breitbart Privacy Policy
 ========================
