@@ -24,7 +24,7 @@
 
 Quick Jump
 
-[Gaming Forum](https://www.resetera.com/forums/7/) [Gaming Hangouts](https://www.resetera.com/forums/8/) [EtcetEra Forum](https://www.resetera.com/forums/9/) [EtcetEra Hangouts](https://www.resetera.com/forums/10/) [Trending Threads](https://www.resetera.com/trending/threads.1/) [Latest threads](https://www.resetera.com/forums/-/latest-threads) [Watched threads](https://www.resetera.com/watched/threads)
+[Gaming Forum](https://www.resetera.com/forums/gaming-forum.7/) [Gaming Hangouts](https://www.resetera.com/forums/gaming-hangouts.8/) [EtcetEra Forum](https://www.resetera.com/forums/etcetera-forum.9/) [EtcetEra Hangouts](https://www.resetera.com/forums/etcetera-hangouts.10/) [Trending Threads](https://www.resetera.com/trending/threads.1/) [Latest threads](https://www.resetera.com/forums/-/latest-threads)
 
 [Log in](https://www.resetera.com/login/)
 
@@ -41,17 +41,17 @@ Light/Dark
 
 * [Forums](https://www.resetera.com/)
     
-* [Gaming Forum](https://www.resetera.com/forums/video-games.7/)
+* [Gaming Forum](https://www.resetera.com/forums/gaming-forum.7/)
     
-* [Gaming Hangouts](https://www.resetera.com/forums/hangouts.8/)
+* [Gaming Hangouts](https://www.resetera.com/forums/gaming-hangouts.8/)
     
-* [EtcetEra Forum](https://www.resetera.com/forums/etcetera.9/)
+* [EtcetEra Forum](https://www.resetera.com/forums/etcetera-forum.9/)
     
-* [EtcetEra Hangouts](https://www.resetera.com/forums/hangouts.10/)
+* [EtcetEra Hangouts](https://www.resetera.com/forums/etcetera-hangouts.10/)
     
 * [Gaming Headlines](https://www.resetera.com/forums/gaming-headlines.54/)
     
-* [Trending Threads](https://www.resetera.com/trending/)
+* [Trending Threads](https://www.resetera.com/trending/threads.1/)
     
 * [Latest threads](https://www.resetera.com/forums/-/latest-threads)
     
@@ -220,9 +220,7 @@ To learn more about cookies, and find more information about blocking certain ty
 
 [Start a thread
 
-Start a new thread to share your experiences with like-minded people.](https://www.resetera.com/forums/-/create-thread)[read our faq
-
-We want to create an inspiring environment for our members and have defined a set of guidelines.](https://www.resetera.com/help/cookies/index.php?pages/faq/)
+Start a new thread to share your experiences with like-minded people.](https://www.resetera.com/forums/-/create-thread)
 
 ![](/styles/resetera/resetera/images/subscription-icon-white.png)
 
