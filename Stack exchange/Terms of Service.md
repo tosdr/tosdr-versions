@@ -37,9 +37,7 @@ Loading…
 3. [Log in](https://stackoverflow.com/users/login?ssrc=head&returnurl=https%3a%2f%2fstackoverflow.com%2flegal%2fterms-of-service%2fpublic)
 4. [Sign up](https://stackoverflow.com/users/signup?ssrc=head&returnurl=https%3a%2f%2fstackoverflow.com%2flegal%2fterms-of-service%2fpublic)
 
-2024 Developer survey is here and we would like to hear from you!
-
-[Take the 2024 Developer Survey](https://stackoverflow.com/dev-survey/start?utm_medium=referral&utm_source=stackexchange-community&utm_campaign=dev-survey-2024&utm_content=announcement-banner)
+2024 Developer survey is here and we would like to hear from you! [Take the 2024 Developer Survey](https://stackoverflow.com/dev-survey/start?utm_medium=referral&utm_source=stackexchange-community&utm_campaign=dev-survey-2024&utm_content=announcement-banner)
 
 [](# "dismiss")
 
@@ -317,4 +315,4 @@ Last update: January 12, 2022
 * [LinkedIn](https://linkedin.com/company/stack-overflow)
 * [Instagram](https://www.instagram.com/thestackoverflow)
 
-Site design / logo © 2024 Stack Exchange Inc; user contributions licensed under [CC BY-SA](https://stackoverflow.com/help/licensing). rev 2024.6.4.10328
+Site design / logo © 2024 Stack Exchange Inc; user contributions licensed under [CC BY-SA](https://stackoverflow.com/help/licensing). rev 2024.6.17.11080
