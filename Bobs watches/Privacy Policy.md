@@ -1,4 +1,4 @@
-[Shop New Arrivals](https://www.bobswatches.com/new-arrivals)
+[Celebrate The Class of 2024](https://www.bobswatches.com/gift-guide/graduation-1.html)
 
 100% Certified Authentic
 
@@ -49,8 +49,14 @@ Close Menu
     * [Day-Date II](https://www.bobswatches.com/rolex-day-date-ii-1.html)
     * [Datejust II](https://www.bobswatches.com/rolex-datejust-ii-1.html)
     * [Day-Date 40](https://www.bobswatches.com/rolex-day-date-40-1.html)
-* Omega
-    * [Omega](https://www.bobswatches.com/omega/)
+    * Rolex Prices
+        * [Rolex Under $5,000](https://www.bobswatches.com/rolex-under-5000-1.html)
+        * [Rolex Under $10,000](https://www.bobswatches.com/rolex-under-10000-1.html)
+        * [Rolex Under $15,000](https://www.bobswatches.com/rolex-under-15000-1.html)
+        * [Rolex Under $20,000](https://www.bobswatches.com/rolex-under-20000-1.html)
+        * [Rolex Over $20,000](https://www.bobswatches.com/rolex-over-20000-1.html)
+* OMEGA
+    * [OMEGA](https://www.bobswatches.com/omega/)
     * [Speedmaster](https://www.bobswatches.com/omega/speedmaster-1.html)
     * [Seamaster](https://www.bobswatches.com/omega/seamaster-1.html)
     * [Constellation](https://www.bobswatches.com/omega/constellation-1.html)
@@ -58,7 +64,7 @@ Close Menu
     * [Vintage](https://www.bobswatches.com/omega/vintage-1.html)
 * Brands
     * [Rolex](https://www.bobswatches.com/rolex/)
-    * [Omega](https://www.bobswatches.com/omega/)
+    * [OMEGA](https://www.bobswatches.com/omega/)
     * [Cartier](https://www.bobswatches.com/cartier/)
     * [Patek Philippe](https://www.bobswatches.com/patek-philippe/)
     * [Audemars Piguet](https://www.bobswatches.com/audemars-piguet/)
@@ -96,8 +102,12 @@ Close Menu
     * [Watches Under $20K](https://www.bobswatches.com/collections/watches-under-20000-1.html)
     * [Watches Over $20k](https://www.bobswatches.com/collections/watches-over-20000-1.html)
     * [All Collections](https://www.bobswatches.com/collections/)
-* [Men's Watches](https://www.bobswatches.com/luxury-watches/mens)
-* [Women's Watches](https://www.bobswatches.com/luxury-watches/womens)
+* Men's Watches
+    * [Rolex Watches for Men](https://www.bobswatches.com/rolex/watches-mens)
+    * [OMEGA Watches for Men](https://www.bobswatches.com/omega/mens)
+* Womens's Watches
+    * [Rolex Watches for Women](https://www.bobswatches.com/rolex/watches-womens)
+    * [OMEGA Watches for Women](https://www.bobswatches.com/omega/womens)
 * [Accessories](https://www.bobswatches.com/accessories/)
 * [Auctions](https://www.bobswatches.com/auctions/)
 
@@ -353,6 +363,7 @@ MON - FRI 9AM - 5PM (EST)
 
 * [Seller Terms & Conditions](https://www.bobswatches.com/shipping-label-terms)
 * [Consignor Terms](https://www.bobswatches.com/consignor-terms)
+* [Payment Methods](https://www.bobswatches.com/payment-methods)
 * [Contact Us](https://www.bobswatches.com/contact-us)
 * [FAQ](https://www.bobswatches.com/faqs)
 
@@ -377,13 +388,13 @@ MON - FRI 9AM - 5PM (EST)
 
 Subscribe today to receive email updates on our timepieces.
 
-    Subscribe
+    Your email address Subscribe
 
 © 2024 Bob's Watches. All Rights Reserved
 
 [Privacy](https://www.bobswatches.com/privacy-policy) · [Terms](https://www.bobswatches.com/terms-and-conditions) · [Sitemap](https://www.bobswatches.com/site-map) · [Accessibility](https://www.bobswatches.com/accessibility-help)
 
-[](https://twitter.com/BobsWatches)[](https://www.facebook.com/bobswatches/)[](https://www.instagram.com/bobswatches/)[](https://www.youtube.com/@bobswatches)[](https://www.youtube.com/@bobswatches)
+[](https://twitter.com/BobsWatches)[](https://www.facebook.com/bobswatches/)[](https://www.instagram.com/bobswatches/)[](https://www.youtube.com/@bobswatches)[](https://www.tiktok.com/@bobswatchesofficial)
 
 All rights reserved. Bob's Watches is not affiliated with Rolex S.A., Rolex USA, or any of its subsidiaries.
 
