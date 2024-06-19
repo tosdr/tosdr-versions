@@ -14,7 +14,7 @@ Servicemenü
 -----------
 
 * [Pres­se](https://www.bfdi.bund.de/DE/DerBfDI/Presse/presse_node.html)
-* [Stel­len­an­ge­bo­te](https://www.bfdi.bund.de/DE/DerBfDI/UeberUns/Stellenangebote/Stellenangebote-node.html "Stellenangebote")
+* [Kar­rie­re](https://www.bfdi.bund.de/DE/DerBfDI/Karriere/Karriere-node.html "Karriere")
 * [Hil­fe](https://www.bfdi.bund.de/DE/Meta/Hilfe/hilfe_node.html)
 * **Im­pres­s­um**
 * [Da­ten­schutz](https://www.bfdi.bund.de/DE/Meta/Datenschutz/datenschutz_node.html)
@@ -38,7 +38,7 @@ Hauptmenü
     ---------------------------------------------------------------------------------------
     
     * [... zum Da­ten­schutz](https://www.bfdi.bund.de/DE/Buerger/Basiswissen/BasiswissenDatenschutz/BasiswissenDatenschutz_node.html)
-    * [... die Be­trof­fe­nen­rech­te](https://www.bfdi.bund.de/DE/Buerger/Basiswissen/Betroffenenrechte/BetroffenenRechte_node.html)
+    * [... die Be­trof­fe­nen­rech­te](https://www.bfdi.bund.de/DE/Buerger/Basiswissen/Betroffenenrechte/BetroffenenRechte_node.html "Betroffenenrechte der DSGVO")
     * [... für Be­schäf­tig­te](https://www.bfdi.bund.de/DE/Buerger/Basiswissen/Beschaeftigte/Beschaeftigte_node.html)
     * [... für Kin­der und Ju­gend­li­che](https://www.bfdi.bund.de/DE/Buerger/Basiswissen/KinderundJugendliche/KinderundJugendliche-node.html)
     
@@ -56,7 +56,6 @@ Hauptmenü
     
     * [Te­le­me­di­en, Mes­sen­ger & Coo­kies](https://www.bfdi.bund.de/DE/Buerger/Privatwirtschaft/Telemedien/Telemedien_node.html)
     * [Te­le­kom­mu­ni­ka­ti­on](https://www.bfdi.bund.de/DE/Buerger/Privatwirtschaft/Telekommunikation/Telekommunikation_node.html)
-    * [Ih­re Rech­te – Te­le­kom­mu­ni­ka­ti­on](https://www.bfdi.bund.de/DE/Buerger/Privatwirtschaft/Rechte_Telekommunikation/RechteTelekommunikation_node.html)
     * [Brief und Pa­ket](https://www.bfdi.bund.de/DE/Buerger/Privatwirtschaft/Post/Post_node.html "Brief und Paket")
     * [Aus­kunf­tei­en](https://www.bfdi.bund.de/DE/Buerger/Privatwirtschaft/Auskunfteien/Auskunfteien-node.html)
     
@@ -77,6 +76,8 @@ Hauptmenü
     
     [Tech­ni­sche An­wen­dun­gen](https://www.bfdi.bund.de/DE/Buerger/Technische-Anwendungen/Technische-Anwendungen_node.html)
     --------------------------------------------------------------------------------------------------------------------------
+    
+    * [Smart­wat­ches für Kin­der](https://www.bfdi.bund.de/DE/Buerger/Technische-Anwendungen/Smartwatch/Smartwatch_node.html)
     
     [In­for­ma­ti­ons­frei­heit](https://www.bfdi.bund.de/DE/Buerger/Informationsfreiheit/informationsfreiheit_node.html)
     ---------------------------------------------------------------------------------------------------------------------
@@ -134,8 +135,29 @@ Hauptmenü
     
     * [Der BfDI](https://www.bfdi.bund.de/DE/DerBfDI/UeberUns/DerBfDI/derbfdi_node.html)
     * [Or­ga­ni­sa­ti­on der Be­hör­de](https://www.bfdi.bund.de/DE/DerBfDI/UeberUns/Organisation/organisation-node.html)
-    * [Der BfDI als Ar­beit­ge­ber](https://www.bfdi.bund.de/DE/DerBfDI/UeberUns/DerBfDIAlsArbeitgeber/derbfdialsarbeitgeber_node.html)
-    * [Stel­len­an­ge­bo­te](https://www.bfdi.bund.de/DE/DerBfDI/UeberUns/Stellenangebote/Stellenangebote-node.html "Stellenangebote")
+    * [Da­ten­schutz-Gar­ten](https://www.bfdi.bund.de/DE/DerBfDI/Datenschutzpfad/Datenschutzpfad_node.html)
+    
+    [Kar­rie­re](https://www.bfdi.bund.de/DE/DerBfDI/Karriere/Karriere-node.html "Karriere")
+    ----------------------------------------------------------------------------------------
+    
+    * [Stel­len­an­ge­bo­te](https://www.bfdi.bund.de/DE/DerBfDI/Karriere/Stellenangebote/Stellenangebote-node.html "Stellenangebote")
+    * [Ar­bei­ten beim BfDI](https://www.bfdi.bund.de/DE/DerBfDI/Karriere/Arbeiten-beim-BfDI/Arbeiten-beim-BfDI-node.html "Arbeiten beim BfDI")
+    * [Prak­ti­kum und Re­fe­ren­da­ri­at](https://www.bfdi.bund.de/DE/DerBfDI/Karriere/Praktikum-und-Referendariat/Praktikum-und-Referendariat-node.html "Praktikum und Referendariat")
+    * [Kar­rie­re­mes­sen](https://www.bfdi.bund.de/DE/DerBfDI/Karriere/Karrieremessen/Karrieremessen-node.html "Karrieremessen")
+    
+    [Pres­se](https://www.bfdi.bund.de/DE/DerBfDI/Presse/presse_node.html)
+    ----------------------------------------------------------------------
+    
+    * [Pres­se­mit­tei­lun­gen](https://www.bfdi.bund.de/DE/DerBfDI/Presse/Pressemitteilungen/pressemitteilungen_node.html)
+    * [Kurz­mel­dun­gen](https://www.bfdi.bund.de/DE/DerBfDI/Presse/Kurzmeldungen/kurzmeldungen_node.html)
+    * [So­ci­al Me­dia – Mas­to­don](https://www.bfdi.bund.de/DE/DerBfDI/Presse/SocialMedia/socialmedia_node.html)
+    * [Pres­se­bil­der](https://www.bfdi.bund.de/DE/DerBfDI/Presse/Pressebilder/Pressebilder_node.html)
+    
+    [Kon­sul­ta­ti­ons­ver­fah­ren](https://www.bfdi.bund.de/DE/DerBfDI/Konsultationsverfahren/Konsultationsverfahren_node.html)
+    ----------------------------------------------------------------------------------------------------------------------------
+    
+    * [KI in Straf­ver­fol­gung und Ge­fah­ren­ab­wehr](https://www.bfdi.bund.de/DE/DerBfDI/Konsultationsverfahren/KI-Strafverfolgung/KI-Strafverfolgung_node.html)
+    * [An­ony­mi­sie­rung un­ter der DSGVO](https://www.bfdi.bund.de/DE/DerBfDI/Konsultationsverfahren/Anonymisierung-TK/Anonymisierung-TK_node.html)
     
     [Do­ku­men­te](https://www.bfdi.bund.de/DE/DerBfDI/Dokumente/dokumente_node.html)
     ---------------------------------------------------------------------------------
@@ -149,23 +171,6 @@ Hauptmenü
     * [Par­la­ments­brief](https://www.bfdi.bund.de/DE/DerBfDI/Dokumente/Parlamentsbrief/Parlamentsbrief-node.html)
     * [Stel­lung­nah­men](https://www.bfdi.bund.de/DE/DerBfDI/Dokumente/Stellungnahmen/stellungnahmen_node.html)
     * [Ver­hal­tens­re­geln](https://www.bfdi.bund.de/DE/DerBfDI/Dokumente/Verhaltensregeln/Verhaltensregeln_node.html)
-    
-    [Kon­sul­ta­ti­ons­ver­fah­ren](https://www.bfdi.bund.de/DE/DerBfDI/Konsultationsverfahren/Konsultationsverfahren_node.html)
-    ----------------------------------------------------------------------------------------------------------------------------
-    
-    * [KI in Straf­ver­fol­gung und Ge­fah­ren­ab­wehr](https://www.bfdi.bund.de/DE/DerBfDI/Konsultationsverfahren/KI-Strafverfolgung/KI-Strafverfolgung_node.html)
-    * [An­ony­mi­sie­rung un­ter der DSGVO](https://www.bfdi.bund.de/DE/DerBfDI/Konsultationsverfahren/Anonymisierung-TK/Anonymisierung-TK_node.html)
-    
-    [Pres­se](https://www.bfdi.bund.de/DE/DerBfDI/Presse/presse_node.html)
-    ----------------------------------------------------------------------
-    
-    * [Pres­se­mit­tei­lun­gen](https://www.bfdi.bund.de/DE/DerBfDI/Presse/Pressemitteilungen/pressemitteilungen_node.html)
-    * [Kurz­mel­dun­gen](https://www.bfdi.bund.de/DE/DerBfDI/Presse/Kurzmeldungen/kurzmeldungen_node.html)
-    * [So­ci­al Me­dia – Mas­to­don](https://www.bfdi.bund.de/DE/DerBfDI/Presse/SocialMedia/socialmedia_node.html)
-    * [Pres­se­bil­der](https://www.bfdi.bund.de/DE/DerBfDI/Presse/Pressebilder/Pressebilder_node.html)
-    
-    [Da­ten­schutz-Gar­ten](https://www.bfdi.bund.de/DE/DerBfDI/Datenschutzpfad/Datenschutzpfad_node.html)
-    ------------------------------------------------------------------------------------------------------
     
 * [Ser­vice](https://www.bfdi.bund.de/DE/Service/service_node.html)
     
@@ -234,7 +239,7 @@ Schließen
 * Bürgerinnen und Bürger
     * Basiswissen
         * [... zum Da­ten­schutz](https://www.bfdi.bund.de/DE/Buerger/Basiswissen/BasiswissenDatenschutz/BasiswissenDatenschutz_node.html)
-        * [... die Be­trof­fe­nen­rech­te](https://www.bfdi.bund.de/DE/Buerger/Basiswissen/Betroffenenrechte/BetroffenenRechte_node.html)
+        * [... die Be­trof­fe­nen­rech­te](https://www.bfdi.bund.de/DE/Buerger/Basiswissen/Betroffenenrechte/BetroffenenRechte_node.html "Betroffenenrechte der DSGVO")
         * [... für Be­schäf­tig­te](https://www.bfdi.bund.de/DE/Buerger/Basiswissen/Beschaeftigte/Beschaeftigte_node.html)
         * [... für Kin­der und Ju­gend­li­che](https://www.bfdi.bund.de/DE/Buerger/Basiswissen/KinderundJugendliche/KinderundJugendliche-node.html)
     * Sozialverwaltung
@@ -246,7 +251,6 @@ Schließen
     * Privatwirtschaft
         * [Te­le­me­di­en, Mes­sen­ger & Coo­kies](https://www.bfdi.bund.de/DE/Buerger/Privatwirtschaft/Telemedien/Telemedien_node.html)
         * [Te­le­kom­mu­ni­ka­ti­on](https://www.bfdi.bund.de/DE/Buerger/Privatwirtschaft/Telekommunikation/Telekommunikation_node.html)
-        * [Ih­re Rech­te – Te­le­kom­mu­ni­ka­ti­on](https://www.bfdi.bund.de/DE/Buerger/Privatwirtschaft/Rechte_Telekommunikation/RechteTelekommunikation_node.html)
         * [Brief und Pa­ket](https://www.bfdi.bund.de/DE/Buerger/Privatwirtschaft/Post/Post_node.html "Brief und Paket")
         * [Aus­kunf­tei­en](https://www.bfdi.bund.de/DE/Buerger/Privatwirtschaft/Auskunfteien/Auskunfteien-node.html)
     * Straf- und Sicherheitsrecht
@@ -258,7 +262,8 @@ Schließen
         * [Fi­nan­zen und Steu­ern](https://www.bfdi.bund.de/DE/Buerger/Allgemeine-Verwaltung/FinanzenSteuern/FinanzenSteuern-node.html "Finanzen und Steuern")
         * [Mel­de­we­sen und Sta­tis­tik](https://www.bfdi.bund.de/DE/Buerger/Allgemeine-Verwaltung/Meldewesen-Statistik/Meldewesen-Statistik_node.html)
         * [Wei­te­re Ver­wal­tungs­tä­tig­kei­ten](https://www.bfdi.bund.de/DE/Buerger/Allgemeine-Verwaltung/Weitere-Verwaltungstaetigkeiten/Weitere-Verwaltungstaetigkeiten-node.html)
-    * [Tech­ni­sche An­wen­dun­gen](https://www.bfdi.bund.de/DE/Buerger/Technische-Anwendungen/Technische-Anwendungen_node.html)
+    * Technische Anwendungen
+        * [Smart­wat­ches für Kin­der](https://www.bfdi.bund.de/DE/Buerger/Technische-Anwendungen/Smartwatch/Smartwatch_node.html)
     * [In­for­ma­ti­ons­frei­heit](https://www.bfdi.bund.de/DE/Buerger/Informationsfreiheit/informationsfreiheit_node.html)
     * [Mus­ter­tex­te](https://www.bfdi.bund.de/DE/Buerger/Mustertexte/Mustertexte_node.html)
 * Fachthemen
@@ -288,8 +293,20 @@ Schließen
     * Über Uns
         * [Der BfDI](https://www.bfdi.bund.de/DE/DerBfDI/UeberUns/DerBfDI/derbfdi_node.html)
         * [Or­ga­ni­sa­ti­on der Be­hör­de](https://www.bfdi.bund.de/DE/DerBfDI/UeberUns/Organisation/organisation-node.html)
-        * [Der BfDI als Ar­beit­ge­ber](https://www.bfdi.bund.de/DE/DerBfDI/UeberUns/DerBfDIAlsArbeitgeber/derbfdialsarbeitgeber_node.html)
-        * [Stel­len­an­ge­bo­te](https://www.bfdi.bund.de/DE/DerBfDI/UeberUns/Stellenangebote/Stellenangebote-node.html "Stellenangebote")
+        * [Da­ten­schutz-Gar­ten](https://www.bfdi.bund.de/DE/DerBfDI/Datenschutzpfad/Datenschutzpfad_node.html)
+    * Karriere
+        * [Stel­len­an­ge­bo­te](https://www.bfdi.bund.de/DE/DerBfDI/Karriere/Stellenangebote/Stellenangebote-node.html "Stellenangebote")
+        * [Ar­bei­ten beim BfDI](https://www.bfdi.bund.de/DE/DerBfDI/Karriere/Arbeiten-beim-BfDI/Arbeiten-beim-BfDI-node.html "Arbeiten beim BfDI")
+        * [Prak­ti­kum und Re­fe­ren­da­ri­at](https://www.bfdi.bund.de/DE/DerBfDI/Karriere/Praktikum-und-Referendariat/Praktikum-und-Referendariat-node.html "Praktikum und Referendariat")
+        * [Kar­rie­re­mes­sen](https://www.bfdi.bund.de/DE/DerBfDI/Karriere/Karrieremessen/Karrieremessen-node.html "Karrieremessen")
+    * Presse
+        * [Pres­se­mit­tei­lun­gen](https://www.bfdi.bund.de/DE/DerBfDI/Presse/Pressemitteilungen/pressemitteilungen_node.html)
+        * [Kurz­mel­dun­gen](https://www.bfdi.bund.de/DE/DerBfDI/Presse/Kurzmeldungen/kurzmeldungen_node.html)
+        * [So­ci­al Me­dia – Mas­to­don](https://www.bfdi.bund.de/DE/DerBfDI/Presse/SocialMedia/socialmedia_node.html)
+        * [Pres­se­bil­der](https://www.bfdi.bund.de/DE/DerBfDI/Presse/Pressebilder/Pressebilder_node.html)
+    * Konsultationsverfahren
+        * [KI in Straf­ver­fol­gung und Ge­fah­ren­ab­wehr](https://www.bfdi.bund.de/DE/DerBfDI/Konsultationsverfahren/KI-Strafverfolgung/KI-Strafverfolgung_node.html)
+        * [An­ony­mi­sie­rung un­ter der DSGVO](https://www.bfdi.bund.de/DE/DerBfDI/Konsultationsverfahren/Anonymisierung-TK/Anonymisierung-TK_node.html)
     * Dokumente
         * [BfDI-Dokumentensuche](https://www.bfdi.bund.de/SiteGlobals/Forms/Suche/Dokumentensuche_Formular.html?nn=252090)
         * [Ac­cess for one - Ac­cess for all](https://www.bfdi.bund.de/DE/DerBfDI/Dokumente/AccessForOne_AccessForAll/accessforone_accessforall_node.html)
@@ -303,15 +320,6 @@ Schließen
         * [Par­la­ments­brief](https://www.bfdi.bund.de/DE/DerBfDI/Dokumente/Parlamentsbrief/Parlamentsbrief-node.html)
         * [Stel­lung­nah­men](https://www.bfdi.bund.de/DE/DerBfDI/Dokumente/Stellungnahmen/stellungnahmen_node.html)
         * [Ver­hal­tens­re­geln](https://www.bfdi.bund.de/DE/DerBfDI/Dokumente/Verhaltensregeln/Verhaltensregeln_node.html)
-    * Konsultationsverfahren
-        * [KI in Straf­ver­fol­gung und Ge­fah­ren­ab­wehr](https://www.bfdi.bund.de/DE/DerBfDI/Konsultationsverfahren/KI-Strafverfolgung/KI-Strafverfolgung_node.html)
-        * [An­ony­mi­sie­rung un­ter der DSGVO](https://www.bfdi.bund.de/DE/DerBfDI/Konsultationsverfahren/Anonymisierung-TK/Anonymisierung-TK_node.html)
-    * Presse
-        * [Pres­se­mit­tei­lun­gen](https://www.bfdi.bund.de/DE/DerBfDI/Presse/Pressemitteilungen/pressemitteilungen_node.html)
-        * [Kurz­mel­dun­gen](https://www.bfdi.bund.de/DE/DerBfDI/Presse/Kurzmeldungen/kurzmeldungen_node.html)
-        * [So­ci­al Me­dia – Mas­to­don](https://www.bfdi.bund.de/DE/DerBfDI/Presse/SocialMedia/socialmedia_node.html)
-        * [Pres­se­bil­der](https://www.bfdi.bund.de/DE/DerBfDI/Presse/Pressebilder/Pressebilder_node.html)
-    * [Da­ten­schutz-Gar­ten](https://www.bfdi.bund.de/DE/DerBfDI/Datenschutzpfad/Datenschutzpfad_node.html)
 * Service
     * Publikationen
         * [Tä­tig­keits­be­rich­te](https://www.bfdi.bund.de/DE/Service/Publikationen/Taetigkeitsberichte/taetigkeitsberichte_node.html)
@@ -345,7 +353,7 @@ Schließen
 * [Su­che](https://www.bfdi.bund.de/DE/Meta/Suche/suche_node.html)
 * [Wa­ren­korb](https://www.bfdi.bund.de/DE/Meta/Warenkorb/warenkorb_node.html)
 * [Pres­se](https://www.bfdi.bund.de/DE/DerBfDI/Presse/presse_node.html)
-* [Stel­len­an­ge­bo­te](https://www.bfdi.bund.de/DE/DerBfDI/UeberUns/Stellenangebote/Stellenangebote-node.html "Stellenangebote")
+* [Kar­rie­re](https://www.bfdi.bund.de/DE/DerBfDI/Karriere/Karriere-node.html "Karriere")
 * [Hil­fe](https://www.bfdi.bund.de/DE/Meta/Hilfe/hilfe_node.html)
 * **Im­pres­s­um**
 * [Da­ten­schutz](https://www.bfdi.bund.de/DE/Meta/Datenschutz/datenschutz_node.html)
@@ -468,6 +476,7 @@ Unternavigation aller Website-Bereiche
 ### Der BfDI
 
 * [Über Uns](https://www.bfdi.bund.de/DE/DerBfDI/UeberUns/ueberuns_node.html)
+* [Kar­rie­re](https://www.bfdi.bund.de/DE/DerBfDI/Karriere/Karriere-node.html "Karriere")
 * [Do­ku­men­te](https://www.bfdi.bund.de/DE/DerBfDI/Dokumente/dokumente_node.html)
 * [Da­ten­schutz-Gar­ten](https://www.bfdi.bund.de/DE/DerBfDI/Datenschutzpfad/Datenschutzpfad_node.html)
 * [Kon­sul­ta­ti­ons­ver­fah­ren](https://www.bfdi.bund.de/DE/DerBfDI/Konsultationsverfahren/Konsultationsverfahren_node.html)
