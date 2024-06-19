@@ -1,4 +1,4 @@
-Free delivery **from 943,57 €**
+Free delivery **from 930,23 €**
 
 [![Solar Power Supplies](/data/gfx/mask/eng/logo_1_small.png)](https://sps24.eu/)
 
@@ -20,9 +20,13 @@ Country of collecting the order:
     
     fr
     
+    nl
+    
+    it
+    
 * Prices in
     
-    €£ (1 € = 0.8487£) $ (1 € = 1.0942$) zł (1 € = 4.2392zł)
+    €£ (1 € = 0.86£) $ (1 € = 1.1099$) zł (1 € = 4.3zł)
     
     Country of collecting the order
     
@@ -45,8 +49,6 @@ ProductQuantityPrice
 
 Delivery cost from
 
-* [Mounting Structures](https://sps24.eu/en/menu/mounting-structures-4824.html "Mounting Structures")
-    * [Sloped Roofs](https://sps24.eu/en/menu/mounting-structures/sloped-roofs-4826.html "Sloped Roofs")
 * [Solar Modules](https://sps24.eu/en/menu/solar-modules-3748.html "Solar Modules")
     * [JinKO](https://sps24.eu/en/menu/solar-modules/jinko-3818.html "JinKO")
     * [LONGi Solar](https://sps24.eu/en/menu/solar-modules/longi-solar-3820.html "LONGi Solar")
@@ -115,11 +117,19 @@ Delivery cost from
 * [Complete PV Systems](https://sps24.eu/en/menu/complete-pv-systems-3868.html "Complete PV Systems")
 * [Electric Vehicle Chargers](https://sps24.eu/en/menu/electric-vehicle-chargers-4808.html "Electric Vehicle Chargers")
 * [Gate automation](https://sps24.eu/en/menu/gate-automation-4810.html "Gate automation")
+    * [Genius](https://sps24.eu/en/menu/gate-automation/genius-4828.html "Genius")
+    * [Beninca](https://sps24.eu/en/menu/gate-automation/beninca-4829.html "Beninca")
+    * [BFt](https://sps24.eu/en/menu/gate-automation/bft-4830.html "BFt")
+    * [CAME](https://sps24.eu/en/menu/gate-automation/came-4831.html "CAME")
+    * [DEA](https://sps24.eu/en/menu/gate-automation/dea-4832.html "DEA")
+    * [FAAC](https://sps24.eu/en/menu/gate-automation/faac-4833.html "FAAC")
+    * [Nice](https://sps24.eu/en/menu/gate-automation/nice-4834.html "Nice")
+    * [Proxima](https://sps24.eu/en/menu/gate-automation/proxima-4835.html "Proxima")
+    * [Somfy](https://sps24.eu/en/menu/gate-automation/somfy-4836.html "Somfy")
 * [Battery-powered tools and devices](https://sps24.eu/en/menu/battery-powered-tools-and-devices-4811.html "Battery-powered tools and devices")
     * [Milling machines](https://sps24.eu/en/menu/battery-powered-tools-and-devices/milling-machines-4812.html "Milling machines")
     * [Nailers and staplers](https://sps24.eu/en/menu/battery-powered-tools-and-devices/nailers-and-staplers-4813.html "Nailers and staplers")
     * [Impact wrenches](https://sps24.eu/en/menu/battery-powered-tools-and-devices/impact-wrenches-4814.html "Impact wrenches")
-    * [Compressors](https://sps24.eu/en/menu/battery-powered-tools-and-devices/compressors-4815.html "Compressors")
 * [Electric water heaters](https://sps24.eu/en/menu/electric-water-heaters-4821.html "Electric water heaters")
 * [Recuperation](https://sps24.eu/en/menu/recuperation-4822.html "Recuperation")
     * [VASCO](https://sps24.eu/en/menu/recuperation/vasco-4823.html "VASCO")
@@ -132,7 +142,7 @@ Back
 
 ##### Trusted Shops guarantee up to €20,000. You receive the purchased item or a refund.
 
-![Idosell security badge](/gfx/standards/safe_light.svg?r=1716801633)
+![Idosell security badge](/gfx/standards/safe_light.svg?r=1718050514)
 
 Shopping lists
 
@@ -206,7 +216,7 @@ Marketing Activities of the Data Controller
 
 The data controller may place marketing information about his/her Goods or services on the Online Shop’s website. Such content shall be displayed by the data controller in accordance with Article 6 section 1 letter f of the GDPR, in accordance with the legitimate interest pursued by the data controller, in publishing the content related to the services provided and the promotional content of the actions in which the data controller is involved. At the same time, the action does not infringe the rights and freedoms of the Customers/Users, the Customers/Users expect to receive similar content, or even expect it or it is their direct purpose to visit the website(s) of the Online Shop.
 
-![pixel](https://client4733.idosell.com/checkup.php?c=8c11a207d1191fbe1350a62bff233d7f)
+![pixel](https://client4733.idosell.com/checkup.php?c=1ee97283f4ce49b2c2cf4a6a98a9afaa)
 
 * [ORDERS](https://sps24.eu/en/client-orders.html)
     * [Order status](https://sps24.eu/en/order-open.html)
@@ -238,7 +248,7 @@ The data controller may place marketing information about his/her Goods or servi
 
 In the store we present the gross prices (incl. VAT).
 
-[![store application system IdoSell](/gfx/standards/loader.gif?r=1716801633)](https://www.idosell.com/en/?utm_source=clientShopSite&utm_medium=Label&utm_campaign=PoweredByBadgeLink "store application system IdoSell")
+[![store application system IdoSell](/gfx/standards/loader.gif?r=1718050514)](https://www.idosell.com/en/?utm_source=clientShopSite&utm_medium=Label&utm_campaign=PoweredByBadgeLink "store application system IdoSell")
 
 * [Contact](https://sps24.eu/en/contact.html)
 * [537716596](tel:537716596)
