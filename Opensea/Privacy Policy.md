@@ -131,6 +131,10 @@ Join the community
 
 [](https://twitter.com/opensea)[](https://www.instagram.com/opensea/)[](https://discord.gg/opensea)[](https://reddit.com/r/opensea)[](https://www.youtube.com/c/OpenSeaTV)[](https://www.tiktok.com/@opensea?lang=en)[_mail_](https://opensea.io/blog/newsletter/)
 
+Need help?
+
+Contact Support
+
 ![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2744%27%20height=%2744%27/%3e)![Logo](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
 ![Logo](https://opensea.io/static/images/logos/opensea-white.svg)
