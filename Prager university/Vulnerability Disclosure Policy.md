@@ -109,7 +109,7 @@ Main Menu
     
     [Presenters](https://www.prageru.com/presenters)
     
-    [2023 Annual Report](https://downloads.ctfassets.net/qnesrjodfi80/5CKH6Ji47c5yxhvfpeQuWY/854d8f1082a44e96a4522abfc843adb5/2023_AnnualReport_FullDoc_FINAL_Web_Single_Compressed.pdf)
+    [2024 Biannual Report](https://downloads.ctfassets.net/qnesrjodfi80/21vzuHL2bPkPehO5YhyUXp/69c4f2dd1102c512a7d9551776d4bc3f/PragerU_2024_Biannual_Report_FINAL_Pages.pdf)
     
     [FAQs](https://www.prageru.com/faq)
     
