@@ -7,11 +7,7 @@ Breadcrumb
 2. [Donate](https://www.crohnscolitisfoundation.org/donate)
 3. Donor Privacy Policy
 
-Choose a language:
-
-Language EnglishArabic | عربىChinese | 中文Korean | 한국어Portuguese | PortuguêsSpanish | Español
-
-  
+ 
 
 Donor Privacy Policy
 ====================
@@ -69,7 +65,7 @@ The Foundation's website also contains links to other Internet sites. The Founda
 * Donate
     
 * [Donate Online](https://on-line.crohnscolitisfoundation.org/index.cfm?fuseaction=donate.event&eventID=1036)
-* [Honors and Memorials](https://www.crohnscolitisfoundation.org/donate/honors-and-memorials)
+* [DIY Fundraising](https://www.crohnscolitisfoundation.org/diy)
 * [Special Occasion Gifts](https://www.crohnscolitisfoundation.org/donate/special-occasion-gifts)
 * [Matching Gifts](https://www.crohnscolitisfoundation.org/donate/matching-gifts)
 * [Workplace Giving](https://www.crohnscolitisfoundation.org/donate/workplace-giving)
