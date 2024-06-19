@@ -41,7 +41,7 @@ Choose your language
     
     ### Jira
     
-    Flexible project management](https://www.loom.com/software/confluence)
+    Flexible project management](https://www.loom.com/software/jira)
     
     [![](https://wac-cdn.atlassian.com/misc-assets/adg4-nav/prod-icon-Confluence.svg)
     
@@ -60,6 +60,12 @@ Choose your language
     ### Trello
     
     Organized & visualized work](https://trello.com/home)
+    
+    [![Rovo icon](https://wac-cdn-bfldr.atlassian.com/K3MHR9G8/at/k5xhw8hpqxghzb55nfktt4/logo-light_Rovo_mark_brand_RGB.svg)
+    
+    ### Rovo NEW
+    
+    Unlock enterprise knowledge](https://www.loom.com/software/rovo)
     
     [![](https://wac-cdn.atlassian.com/misc-assets/adg4-nav/prod-icon-Jira-Product-Discovery.svg)
     
@@ -91,7 +97,7 @@ Choose your language
     
     ### Jira
     
-    Flexible project management](https://www.loom.com/software/bitbucket)
+    Flexible project management](https://www.loom.com/software/jira)
     
     [![](https://wac-cdn.atlassian.com/misc-assets/adg4-nav/prod-icon-Bitbucket.svg)
     
@@ -111,7 +117,7 @@ Choose your language
     
     ### Jira
     
-    Flexible project management](https://www.loom.com/software/confluence)
+    Flexible project management](https://www.loom.com/software/jira)
     
     [![](https://wac-cdn.atlassian.com/misc-assets/adg4-nav/prod-icon-Confluence.svg)
     
@@ -145,7 +151,7 @@ Choose your language
     
     ### Jira
     
-    Flexible project management](https://www.loom.com/software/confluence)
+    Flexible project management](https://www.loom.com/software/jira)
     
     [![](https://wac-cdn.atlassian.com/misc-assets/adg4-nav/prod-icon-Confluence.svg)
     
@@ -348,7 +354,7 @@ Back
 
 * * *
 
- [![Atlassian logo](/assets/img/icons/imkt/imkt-navbar__charlie-logo.svg?cdnVersion=1794)](https://www.atlassian.com/ "Visit the Atlassian homepage")[Legal](https://www.loom.com/legal)
+ [![Atlassian logo](/assets/img/icons/imkt/imkt-navbar__charlie-logo.svg?cdnVersion=1825)](https://www.atlassian.com/ "Visit the Atlassian homepage")[Legal](https://www.loom.com/legal)
 
 * [Legal information](https://www.loom.com/legal)
 * [Privacy Policy](https://www.loom.com/legal/privacy-policy)
@@ -758,13 +764,15 @@ Subscribe to receive notifications from us about updates to our legal terms (inc
 
 [Sign up for updates](https://privacy.atlassian.net/servicedesk/customer/portal/1/group/1/create/39)
 
-![](https://wac-cdn.atlassian.com/dam/jcr:9c4bf443-5045-4ff9-a48d-36ae466f3ced/logos-atlassian-mini-icon-onecolor-blue.svg?cdnVersion=1794)
+![](https://wac-cdn.atlassian.com/dam/jcr:9c4bf443-5045-4ff9-a48d-36ae466f3ced/logos-atlassian-mini-icon-onecolor-blue.svg?cdnVersion=1825)
 
 [Company](https://www.loom.com/company)
 
 [Careers](https://www.loom.com/company/careers)
 
-[Work Life blog](https://atlassian.com/blog)
+[Events](https://www.loom.com/company/events)
+
+[Blogs](https://atlassian.com/blog)
 
 [Investor Relations](https://investors.atlassian.com/)
 
@@ -773,6 +781,8 @@ Subscribe to receive notifications from us about updates to our legal terms (inc
 [Contact us](https://www.loom.com/company/contact)
 
 ##### products
+
+[Rovo](https://www.loom.com/software/rovo)
 
 [Jira](https://www.loom.com/software/jira)
 
