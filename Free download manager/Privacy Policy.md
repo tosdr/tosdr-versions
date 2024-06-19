@@ -195,11 +195,11 @@ How to clean registry](https://en.freedownloadmanager.org/tutorials/how-to-clean
 
 [Featured
 
-How to create vector graphics](https://en.freedownloadmanager.org/tutorials/how-to-create-vector-graphics.html)
+How to speed up Windows 10](https://en.freedownloadmanager.org/tutorials/how-to-speed-up-windows-10.html)
 
 [Featured
 
-How to download and install Windows 10 Creators Update](https://en.freedownloadmanager.org/tutorials/how-to-download-and-install-windows-10-creators-update.html)
+How to create vector graphics](https://en.freedownloadmanager.org/tutorials/how-to-create-vector-graphics.html)
 
 [Terms & Privacy](https://www.freedownloadmanager.org/privacy.htm) • [Contact us](https://www.freedownloadmanager.org/contactus.htm) • [Donate](https://www.freedownloadmanager.org/donate.htm)
 
