@@ -38,6 +38,8 @@ Quick Escape
 
 [What We Do Overview](https://www.ywca.org/what-we-do)
 
+[Our Mission](https://www.ywca.org/what-we-do/our-mission)
+
 [Racial Justice & Civil Rights](https://www.ywca.org/what-we-do/racial-justice-civil-rights)
 
 [Empowerment & Economic Advancement](https://www.ywca.org/what-we-do/empowerment-economic-advancement)
@@ -63,8 +65,6 @@ Quick Escape
 [YW WE360°](https://www.ywca.org/what-we-do/programs/women-empowerment-360)
 
 [Level Up! Pitch Competition](https://www.ywca.org/what-we-do/programs/level-up-pitch-competition)
-
-[Our Mission](https://www.ywca.org/what-we-do/our-mission)
 
 [Advocacy](https://www.ywca.org/menu-advocacy)
 
@@ -146,6 +146,8 @@ Open Menu Close Menu
 
 [What We Do Overview](https://www.ywca.org/what-we-do)
 
+[Our Mission](https://www.ywca.org/what-we-do/our-mission)
+
 [Racial Justice & Civil Rights](https://www.ywca.org/what-we-do/racial-justice-civil-rights)
 
 [Empowerment & Economic Advancement](https://www.ywca.org/what-we-do/empowerment-economic-advancement)
@@ -171,8 +173,6 @@ Open Menu Close Menu
 [YW WE360°](https://www.ywca.org/what-we-do/programs/women-empowerment-360)
 
 [Level Up! Pitch Competition](https://www.ywca.org/what-we-do/programs/level-up-pitch-competition)
-
-[Our Mission](https://www.ywca.org/what-we-do/our-mission)
 
 [Advocacy](https://www.ywca.org/menu-advocacy)
 
@@ -256,6 +256,8 @@ Open Menu Close Menu
 
 [What We Do Overview](https://www.ywca.org/what-we-do)
 
+[Our Mission](https://www.ywca.org/what-we-do/our-mission)
+
 [Racial Justice & Civil Rights](https://www.ywca.org/what-we-do/racial-justice-civil-rights)
 
 [Empowerment & Economic Advancement](https://www.ywca.org/what-we-do/empowerment-economic-advancement)
@@ -281,8 +283,6 @@ Open Menu Close Menu
 [YW WE360°](https://www.ywca.org/what-we-do/programs/women-empowerment-360)
 
 [Level Up! Pitch Competition](https://www.ywca.org/what-we-do/programs/level-up-pitch-competition)
-
-[Our Mission](https://www.ywca.org/what-we-do/our-mission)
 
 [Folder: Advocacy](https://www.ywca.org/menu-advocacy)
 
