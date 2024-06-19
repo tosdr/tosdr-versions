@@ -1,7 +1,7 @@
 Privacy policy
 ==============
 
-Last modified: March 11th, 2024
+Last modified: June 10th, 2024
 
 1. General information and legal basis
     -----------------------------------
@@ -391,6 +391,10 @@ Last modified: March 11th, 2024
         6. #### Google Tag Manager
             
             We use the Google Tag Manager. This allows us to manage website tags via an interface and thus, for example, integrate Google marketing services into our online offering. The Tag Manager itself does not process any personal data of the users. For the respective Google services, please refer to the respective notices and usage guidelines at [https://www.google.com/intl/de/tagmanager/use-policy.html](https://www.google.com/intl/de/tagmanager/use-policy.html).
+            
+        7. #### Google Cloud
+            
+            We use the Google Cloud Platform as a cloud service provider and hosting provider for our website and our software. An order processing contract has been concluded with Google. Further information can also be found in the privacy policy at [https://policies.google.com/privacy?hl=en](https://policies.google.com/privacy?).
             
     2. ### Facebook
         
