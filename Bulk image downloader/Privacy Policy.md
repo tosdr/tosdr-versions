@@ -69,6 +69,6 @@ By e-mail: This e-mail address is being protected from spam bots, you need JavaS
 
 We reserve the right to make changes to this policy. Any changes to this policy will be posted.
 
-Copyright © 2024 [Antibody Software Limited](https://antibody-software.com/). All Rights Reserved.
+Copyright © 2024 [Antibody Software Limited](https://antibody-software.com/). All Rights Reserved. ()
 
 [](#)
