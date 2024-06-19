@@ -73,11 +73,11 @@ MENUMENU
                 * [What is Visual Scanning](https://www.theottoolbox.com/what-is-visual-scanning/)
                 * [Classroom Accommodations for Visual Impairments](https://www.theottoolbox.com/visual-impairment-accommodations/)
             * [Vision](https://www.theottoolbox.com/vision/)
-        * * [![hand strength with image of child's hand pinching play dough](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        * * [![Image has colorful ice on a cutting board. A child's hands are holding a hammer and smashing ice. Text reads "sensory ice smash"](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
                 
-                ![hand strength with image of child's hand pinching play dough](https://www.theottoolbox.com/wp-content/uploads/2024/06/hand-strength-exercises.png)](https://www.theottoolbox.com/hand-strengthening-activities/)
+                ![Image has colorful ice on a cutting board. A child's hands are holding a hammer and smashing ice. Text reads "sensory ice smash"](https://www.theottoolbox.com/wp-content/uploads/2024/06/smash-ice-with-a-hammer.png)](https://www.theottoolbox.com/ice-cube-proprioception-jump-and-smash/)
                 
-                #### [Hand Strengthening Activities](https://www.theottoolbox.com/hand-strengthening-activities/)
+                #### [Ice Cube Jump and Smash](https://www.theottoolbox.com/ice-cube-proprioception-jump-and-smash/)
                 
 * [Free Resources](https://www.theottoolbox.com/category/free-resources/)
 * [The Shop](https://www.theottoolbox.com/shop/)
