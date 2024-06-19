@@ -96,19 +96,6 @@ Also, some free ware programs that you may have installed on your system may cau
   
 If you are experiencing this problem, you can help us track it by sending email to [webadmin@odu.edu](mailto:webadmin@odu.edu)
 
-Contact
-=======
-
-* **[Information Technology Services](https://www.odu.edu/its)**
-* 4300 Engineering & Computational Sciences Building
-* Norfolk, VA 23529
-
-757-683-3189 (office)
-
-757-683-5155 (fax)
-
-* [itshelp@odu.edu](mailto:itshelp@odu.edu)
-
 [![Old Dominion University Logo](/etc/designs/odu/images/odu-logo-drupal.svg)](https://www.odu.edu/)
 
 [5115 Hampton Blvd  
