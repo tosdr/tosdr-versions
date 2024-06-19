@@ -203,7 +203,6 @@ Toggle Navigation
         * [Downtown Campus](https://web.ucalgary.ca/about/our-campuses/downtown-campus)
         * [Spyhill Campus](https://web.ucalgary.ca/about/our-campuses/spyhill-campus)
         * [Campus maps and room finder](https://web.ucalgary.ca/about/our-campuses/campus-maps-and-room-finder)
-* [Graduation](https://web.ucalgary.ca/graduation)
 
 Website Terms & Conditions of Use
 =================================
