@@ -1,4 +1,4 @@
-WP                                                Website Terms of Use | Legal                                                                        
+WP                                                  Website Terms of Use | Legal                                                                         
 
 [![Imperva](https://www.imperva.com/legal/wp-content/uploads/2023/12/imperva-a-thales-company-light.svg)](https://www.imperva.com/)
 
