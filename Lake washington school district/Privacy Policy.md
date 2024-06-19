@@ -85,7 +85,7 @@
     * [Volunteering in LWSD](https://www.lwsd.org/get-involved/volunteering-in-lwsd)
     * [LINKS Lunch Buddy Program](https://www.lwsd.org/get-involved/volunteering-in-lwsd/links-volunteer-program)
     
-* [Budget Planning](https://www.lwsd.org/programs-and-services/business-services/budgets-and-financial-reports/budget-planning-2023-24)
+* [November 2024 Levy](https://www.lwsd.org/2024-levy)
 
 * [Students & Families](https://www.lwsd.org/students-families/for-students-and-families)
     
@@ -176,38 +176,34 @@ News
 
 May 21 2024
 
-[](https://www.lwsd.org/programs-and-services/communications/news/school-news-for-direct-link/~board/middle-schools/post/lwsd-student-win-awards-at-state-high-school-art-show)
+[](https://www.lwsd.org/programs-and-services/communications/news/school-news-for-direct-link/~board/students-and-schools/post/two-lwsd-students-take-top-spots-in-regional-holocaust-writing-art-and-film-contest)
 
-[LWSD student win awards at state high school art show](https://www.lwsd.org/programs-and-services/communications/news/school-news-for-direct-link/~board/middle-schools/post/lwsd-student-win-awards-at-state-high-school-art-show)
+[Two LWSD students take top spots in regional Holocaust writing, art and film contest](https://www.lwsd.org/programs-and-services/communications/news/school-news-for-direct-link/~board/students-and-schools/post/two-lwsd-students-take-top-spots-in-regional-holocaust-writing-art-and-film-contest)
 
-Jun 7 2024
+Jun 17 2024
 
-[](https://www.lwsd.org/programs-and-services/communications/news/school-news-for-direct-link/~board/high-schools/post/students-use-public-health-data-to-improve-their-communities)
+[](https://www.lwsd.org/programs-and-services/communications/news/school-news-for-direct-link/~board/students-and-schools/post/movin-on-up-lwsd-earns-level-one-district-recognition-three-schools-earn-sustaining-level-in-king-county-green-schools-program)
 
-[Students use public health data to improve their communities](https://www.lwsd.org/programs-and-services/communications/news/school-news-for-direct-link/~board/high-schools/post/students-use-public-health-data-to-improve-their-communities)
+[Movin’ on up – LWSD earns Level One District recognition, three schools earn Sustaining level in King County Green Schools program](https://www.lwsd.org/programs-and-services/communications/news/school-news-for-direct-link/~board/students-and-schools/post/movin-on-up-lwsd-earns-level-one-district-recognition-three-schools-earn-sustaining-level-in-king-county-green-schools-program) 
 
-Jun 7 2024
+Jun 17 2024
 
-[](https://www.lwsd.org/programs-and-services/communications/news/school-news-for-direct-link/~board/high-schools/post/fun-for-all-lwsd-hosts-inclusive-soccer-matches-through-unified-soccer-program)
+[](https://www.lwsd.org/programs-and-services/communications/news/school-news-for-direct-link/~board/high-schools/post/several-students-place-at-or-near-the-top-at-deca-international-competition-2024)
 
-[Fun for all – LWSD hosts inclusive soccer matches through Unified Soccer program](https://www.lwsd.org/programs-and-services/communications/news/school-news-for-direct-link/~board/high-schools/post/fun-for-all-lwsd-hosts-inclusive-soccer-matches-through-unified-soccer-program)
+[Several students place at or near the top at DECA International competition](https://www.lwsd.org/programs-and-services/communications/news/school-news-for-direct-link/~board/high-schools/post/several-students-place-at-or-near-the-top-at-deca-international-competition-2024)
 
-Jun 6 2024
+Jun 13 2024
 
-[](https://www.lwsd.org/programs-and-services/communications/news/news-details/~board/2023-24-announcements/post/lwsd-student-receives-national-merit-college-sponsored-scholarships)
+[](https://www.lwsd.org/programs-and-services/communications/news/school-news-for-direct-link/~board/middle-schools/post/ems-students-learn-about-emergency-response-from-rfd)
 
-[LWSD student receives National Merit College-Sponsored Scholarships](https://www.lwsd.org/programs-and-services/communications/news/news-details/~board/2023-24-announcements/post/lwsd-student-receives-national-merit-college-sponsored-scholarships)
+[EMS students learn about emergency response from RFD](https://www.lwsd.org/programs-and-services/communications/news/school-news-for-direct-link/~board/middle-schools/post/ems-students-learn-about-emergency-response-from-rfd)
 
-Jun 5 2024
+Jun 13 2024
 
 Events
 ------
 
 [Full Calendar](https://www.lwsd.org/about-us/district-calendar)
-
-Thu Jun. 13
-
-[LWSD - Elementary grades due](#)
 
 Tue Jun. 18
 
@@ -236,6 +232,10 @@ Mon Jun. 24
 Mon Jun. 24
 
 [LWSD - School Board Meeting](#)
+
+Mon Aug. 05
+
+[LWSD - School Board Study Session](#)
 
 X
 -
@@ -494,7 +494,7 @@ Recent News
     * [Volunteering in LWSD](https://www.lwsd.org/get-involved/volunteering-in-lwsd)
     * [LINKS Lunch Buddy Program](https://www.lwsd.org/get-involved/volunteering-in-lwsd/links-volunteer-program)
     
-* [Budget Planning](https://www.lwsd.org/programs-and-services/business-services/budgets-and-financial-reports/budget-planning-2023-24)
+* [November 2024 Levy](https://www.lwsd.org/2024-levy)
 
 drawer trigger
 
