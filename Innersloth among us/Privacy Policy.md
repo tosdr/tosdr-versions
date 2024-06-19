@@ -436,31 +436,18 @@ Subscribe
 
 Games
 
-* [Among Us Show](https://www.innersloth.com/among-us-show/)
-* [More](https://www.innersloth.com/more/)
-* [Outersloth](https://www.innersloth.com/outersloth/)
-* [Terms of Use (Among Us VR)](https://www.innersloth.com/among-us-vr-terms-of-use/)
-* [Merch Licensing](https://www.innersloth.com/merch-licensing/)
-* [Terms of Use for the Websites](https://www.innersloth.com/terms-of-use-for-the-websites/)
-* [Code of Conduct](https://www.innersloth.com/code-of-conduct/)
-* [Terms of Use for the Games](https://www.innersloth.com/terms-of-use-for-the-games/)
-* [Among Us Mod Policy](https://www.innersloth.com/among-us-mod-policy/)
-* [Fan Creation Policy](https://www.innersloth.com/fan-creation-policy/)
-* [Press Kit Among Us](https://www.innersloth.com/press-kit-among-us/)
-* [Press Kit](https://www.innersloth.com/press-kit/)
-* [Contact](https://www.innersloth.com/contact/)
-* [FAQ](https://www.innersloth.com/faq/)
-* [Inside Innersloth](https://www.innersloth.com/inside-innersloth/)
-* [Basic page](https://www.innersloth.com/basic-page/)
-* [Privacy Policy and Notice at Collection](https://www.innersloth.com/privacy-policy/)
-* [News](https://www.innersloth.com/news/)
-* [Home](https://www.innersloth.com/)
+* [Among Us](https://www.innersloth.com/games/among-us/)
+* [Among Us VR](https://www.innersloth.com/games/among-us-vr/)
+* [Henry Stickmin](https://www.innersloth.com/games/the-henry-stickmin-collection/)
+* [Dig2China](https://www.innersloth.com/games/dig2china/)
 
 About
 
 * [About Innersloth](https://www.innersloth.com/inside-innersloth/)
 * [Press Kit](https://www.innersloth.com/press-kit/)
 * [Game News](https://www.innersloth.com/news/)
+* [Outersloth](https://innersloth.com/outersloth)
+* [Among Us Show](https://www.innersloth.com/among-us-show/)
 
 Support
 
