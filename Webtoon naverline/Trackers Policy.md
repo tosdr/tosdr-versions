@@ -32,7 +32,7 @@ COOKIE POLICY
 
 ### WEBTOON™ Cookie Policy
 
-Last Modified : December 05, 2023
+Last Modified : June 11, 2024
 
 #### 1\. COOKIES
 
