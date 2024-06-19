@@ -9,7 +9,7 @@ Site [Communauté](https://community.lecrabeinfo.net/ "Communauté")
 * [Rechercher](#)
 * [Activité](#offcanvasActivity)
 
-* [User (logged out)](#)
+* [Mon compte](#)
     
     [Se connecter](https://lecrabeinfo.net/wp/wp-login.php?redirect_to=https%3A%2F%2Flecrabeinfo.net%2Fpolitique-de-confidentialite) [S'inscrire](https://lecrabeinfo.net/wp/wp-login.php?action=register&redirect_to=https%3A%2F%2Flecrabeinfo.net%2Fpolitique-de-confidentialite)
     
@@ -103,7 +103,7 @@ Le Crabe Info utilise Cloudflare pour se protéger contre le piratage et les att
 ##### Raccourcis
 
 * [Windows 11](https://lecrabeinfo.net/faq-windows-11.html)
-* [PC portables pas cher 1](https://lecrabeinfo.net/pc-portables-pas-cher-les-meilleurs-a-moins-de-500-euros.html)
+* [PC portables pas cher 0](https://lecrabeinfo.net/pc-portables-pas-cher-les-meilleurs-a-moins-de-500-euros.html)
 * [Meilleurs Antivirus (2024)](https://lecrabeinfo.net/meilleur-antivirus-quel-antivirus-choisir-pour-windows-en-2024.html)
 * [Meilleurs VPN (2024)](https://lecrabeinfo.net/quel-vpn-choisir-le-guide-pour-les-debutants.html)
 * [ISO Windows](https://lecrabeinfo.net/telecharger-iso-de-windows-7-8-10-et-11-gratuitement.html)
@@ -120,7 +120,7 @@ En acceptant les cookies, vous aideriez et contribueriez à la gratuité du Crab
 
 Si vous changez d'avis et que **vous avez envie de nous donner un coup de pince**, cliquez ici : J'accepte les cookies 🍪️
 
-##### 422 utilisateurs actifs
+##### 118 utilisateurs actifs
 
 Chargement en cours
 
@@ -130,9 +130,9 @@ Chargement en cours
 
 ### À la une
 
-* [WingetUI : installer et mettre à jour ses applications Windows, en un clic !](https://lecrabeinfo.net/wingetui-installer-et-mettre-a-jour-ses-applications-windows.html)
-* [Windows 11 : restaurer l’ancien ruban dans l’Explorateur de fichiers](https://lecrabeinfo.net/windows-11-restaurer-lancien-ruban-dans-lexplorateur-de-fichiers.html)
-* [Windows 11 : changer le lecteur PDF par défaut](https://lecrabeinfo.net/windows-11-changer-le-lecteur-pdf-par-defaut.html)
+* [Pourquoi mon PC sort de veille tout seul ? 4 raisons possibles !](https://lecrabeinfo.net/pourquoi-mon-pc-sort-de-veille-tout-seul-4-raisons-possibles.html)
+* [WinMerge : comment comparer des dossiers sur Windows ?](https://lecrabeinfo.net/winmerge-comment-comparer-des-dossiers-sur-windows.html)
+* [Windows 11 : retrouver le menu Démarrer de Windows 10](https://lecrabeinfo.net/windows-11-retrouver-le-menu-demarrer-de-windows-10.html)
 
 ### Tendance
 
@@ -151,14 +151,11 @@ Chargement en cours
 
 ### Statistiques
 
-* 68 246 membres
-* 836 articles
-* 26 154 commentaires
-* [2 014 abonnés Facebook](https://www.facebook.com/lecrabeinfo)
+* 68 278 membres
+* 840 articles
+* 26 220 commentaires
 
 * [BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr "CC BY-NC-SA")
 * 2013-2024
 * Le Crabe Info
 * [Quelle est mon adresse IP ?](https://mon-ip.info/)
-
-[Le Crabe Info](https://lecrabeinfo.net/wp/?blackhole=ecc24ac346 "NE PAS suivre ce lien ou vous serez banni du site!")
