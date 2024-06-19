@@ -18,6 +18,7 @@ About Credit Karma
 * [Careers at Credit Karma](https://www.creditkarma.com/careers)
 * [Privacy Policy](https://www.intuit.com/privacy/statement/)
 * [Terms of Service](https://www.creditkarma.com/about/terms)
+* [Purchase Order Terms & Conditions](https://www.creditkarma.com/about/purchaseorderterms)
 * [User Content Rules](https://www.creditkarma.com/about/rules)
 * [Credit Builder](https://www.creditkarma.com/about/credit-builder)
 * [Check Your Rate Platform Terms for Loans](https://www.creditkarma.com/about/checkyourrate-platform-authorization)
@@ -195,6 +196,7 @@ Scan the QR code to download the app
     * [Engineering Blog](https://engineering.creditkarma.com/)
     * [Product Blog](https://product.creditkarma.com/)
 * Help
+    * [Help Center](https://support.creditkarma.com/s/?sessid=0474765d-7880-436e-aeb1-8a67fec8c56d)
     * [How Credit Karma Works?](https://www.creditkarma.com/faq/howitworks)
     * [Security Practices](https://www.creditkarma.com/about/security)
     * [Editorial Guidelines](https://www.creditkarma.com/advice/i/editorial-guidelines)
@@ -202,6 +204,7 @@ Scan the QR code to download the app
     * [Privacy Policy](https://www.intuit.com/privacy/statement/)
     * [CA Privacy Policy](https://www.creditkarma.com/about/privacy-ca-20200101)
     * [Terms of Service](https://www.creditkarma.com/about/terms)
+    * [Data Preferences](https://www.creditkarma.com/myprofile/personal)
 * Notable Links
     * [Credit Card Insights](https://www.creditkarma.com/credit-cards/insights)
     * [4 Best Quick Loans for Emergency Cash](https://www.creditkarma.com/personal-loans/i/quick-loans-fast-money)
