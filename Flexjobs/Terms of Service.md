@@ -458,6 +458,7 @@ Questions about these Terms may be sent to support@flexjobs.com or as otherwise 
 * [FlexJobs FAQ](https://www.flexjobs.com/faq)
 * [Affiliate Program](https://www.flexjobs.com/blog/flexjobs-affiliate-program-2/)
 * [Contact Us](https://www.flexjobs.com/contact)
+* [Fraud Awareness](https://www.flexjobs.com/fraud-awareness)
 * [FlexJobs Reviews](https://www.flexjobs.com/reviews-success-stories)
 
 ##### Job Search Resources
