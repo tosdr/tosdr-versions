@@ -225,9 +225,6 @@ Header area, including main menu and site search
             
             Riverford's gender pay gap report](https://www.riverford.co.uk/ethics-and-ethos/gender-pay-gap)
         
-    * [Get fair about farming 
-        
-        Our mission to make supermarkets get fair about farming.](https://getfairaboutfarming.co.uk/)
     * [Planet action
         
         We’re investing millions to fight the climate crisis, encourage biodiversity, and support sustainable farming](https://www.riverford.co.uk/planet-action)
@@ -251,6 +248,9 @@ Header area, including main menu and site search
     * [Careers
         
         Learn more about a career at Riverford, including current vacancies](https://www.riverford.co.uk/about/work-with-us)
+    * [Get fair about farming 
+        
+        Our mission to make supermarkets get fair about farming.](https://getfairaboutfarming.co.uk/)
     * [Wicked Leeks magazine 
         
         Interviews, opinion pieces, ethical lifestyle tips & more](https://wickedleeks.riverford.co.uk/)
@@ -623,7 +623,7 @@ Or [sign in](#) to your account
 
 * [Terms and conditions](https://www.riverford.co.uk/terms-and-conditions?src=footer-nav)
 * [Privacy information](https://www.riverford.co.uk/privacy?src=footer-nav)
-* [Cookie policy](https://media.riverford.co.uk/downloads/Cookie+Policy+2021-10-05.pdf)
+* [Cookie policy](https://www.riverford.co.uk/cookie-policy?src=footer-nav)
 
 © 2017-2024
 
