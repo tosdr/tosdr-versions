@@ -77,15 +77,15 @@ Toggle navigation
 
 Top Searches
 
-[Shadow of the Erdtree](https://www.greenmangaming.com/games/elden-ring-shadow-of-the-erdtree-pc/)
-
-[God of War](https://www.greenmangaming.com/games/god-of-war-pc/)
+[God of War Ragnarok](https://www.greenmangaming.com/games/god-of-war-ragnarok-pc/)
 
 [Dave the Diver](https://www.greenmangaming.com/games/dave-the-diver-pc/)
 
 [Ghost of Tsushima](https://www.greenmangaming.com/games/ghost-of-tsushima-directors-cut-pc/)
 
 [SaGa](https://www.greenmangaming.com/games/romancing-saga-minstrel-song-remastered-pc/)
+
+[Final Fantasy](https://www.greenmangaming.com/games/final-fantasy-xiv-dawntrail-digital-collectors-edition-eu-pc/)
 
 [Helldivers](https://www.greenmangaming.com/games/helldivers-2-pc/)
 
@@ -179,7 +179,7 @@ By accessing the Service (and each time that you do so) you signify that you hav
 
 ### 1\. INTRODUCTION AND DEFINITIONS
 
-The following services are made available by Green Man Gaming Limited C/O Tc Group 6th Floor Kings House, 9-10 Haymarket, London, SW1Y 4BP, incorporated in England and Wales with company number 05271628, and all subsidiaries of Green Man Gaming Limited (“GMGL”, “we”, “us” or “our”):  
+The following services are made available by Green Man Gaming Limited, c/o Nyman Libson Paul LLP, 124 Finchley Road, London, NW3 5JS, United Kingdom incorporated in England and Wales with company number 05271628, and all subsidiaries of Green Man Gaming Limited (“GMGL”, “we”, “us” or “our”):  
   
 
 * the online digital distribution e-commerce and entertainment platform owned and operated by GMGL and available from time to time at or using:
