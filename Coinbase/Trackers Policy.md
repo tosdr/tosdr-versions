@@ -257,19 +257,19 @@ Developers
 Support
 -------
 
-* [Help center](https://help.coinbase.com/en)
+* [Help center](https://help.coinbase.com/en-gb)
 
-* [Contact us](https://help.coinbase.com/en/contact-us/)
+* [Contact us](https://help.coinbase.com/en-gb/contact-us/)
 
-* [Create account](https://help.coinbase.com/en/coinbase/getting-started/getting-started-with-coinbase/create-a-coinbase-account/)
+* [Create account](https://help.coinbase.com/en-gb/coinbase/getting-started/getting-started-with-coinbase/create-a-coinbase-account/)
 
-* [ID verification](https://help.coinbase.com/en/coinbase/managing-my-account#identity-verification/)
+* [ID verification](https://help.coinbase.com/en-gb/coinbase/managing-my-account#identity-verification/)
 
-* [Account information](https://help.coinbase.com/en/coinbase/managing-my-account/)
+* [Account information](https://help.coinbase.com/en-gb/coinbase/managing-my-account/)
 
-* [Payment methods](https://help.coinbase.com/en/coinbase/getting-started#add-a-payment-method/)
+* [Payment methods](https://help.coinbase.com/en-gb/coinbase/getting-started#add-a-payment-method/)
 
-* [Account access](https://help.coinbase.com/en/coinbase/managing-my-account/)
-* [Supported crypto](https://help.coinbase.com/en/supported-crypto.html)
+* [Account access](https://help.coinbase.com/en-gb/coinbase/managing-my-account/)
+* [Supported crypto](https://help.coinbase.com/en-gb/supported-crypto.html)
 
 * [Status](https://status.coinbase.com/)
