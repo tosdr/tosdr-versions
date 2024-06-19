@@ -1,4 +1,4 @@
-[![XAPO bank logo](https://assets-global.website-files.com/6418a2db660efc1ed7519fb2/6418a2db660efc52aa51a01c_Logo.svg)](https://www.xapobank.com/)
+[![XAPO bank logo](https://cdn.prod.website-files.com/6418a2db660efc1ed7519fb2/6418a2db660efc52aa51a01c_Logo.svg)](https://www.xapobank.com/)
 
 PRIVACY POLICY
 ==============
@@ -1070,4 +1070,4 @@ In addition to the previous sections, in case the Brazilian General Personal Dat
 5. With respect to data transfers from Mexico, Xapo is allowed to carry out such processing operations to jurisdictions that are signatories of international treaties Mexico is a party to. In this context, please note that both Gibraltar and Argentina are part of Convention 108 (Convention for the Protection of Individuals with Regard to the Processing of Personal Data), meaning that similar privacy standards are applicable. At the same time, such transfers are lawful whenever they are needed for the performance of a contract concluded in the interest or with the data subject.
 6. The Supervisory Authority you can refer to for exercising your rights under the Law is the National Institute for Transparency, Access to Information and Personal Data Protection
 
-© Xapo Holdings Limited 2023. All Rights Reserved.
+© Xapo Holdings Limited 2024. All Rights Reserved.
