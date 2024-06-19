@@ -74,7 +74,7 @@ Should any part of this Agreement be held invalid or unenforceable, that portion
 
 CUSTOMER SERVICE:
 
-If you have any questions, please email [\[email protected\]](https://omgsweeps.com/cdn-cgi/l/email-protection) or write to OMGSweeps 24 W. Railroad Ave., # 139, Tenafly, NJ 07670
+If you have any questions, please email [\[email protected\]](https://omgsweeps.com/cdn-cgi/l/email-protection) or write to OMGSweeps 4601 Carnes Rd Ste 8 #1015 Roseburg, OR 97471
 
 ![](https://omgsweeps.com/wp-content/uploads/2024/06/OMG-logo-negative-300x70.png)
 
