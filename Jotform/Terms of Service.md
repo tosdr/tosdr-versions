@@ -240,6 +240,8 @@ You agree not to reproduce, duplicate, reverse engineer, copy, sell, resell, or 
 
 You accept and have sole responsibility for the forms, tables, submission pages, and other content that you create or that is generated as you use the Platform. When you make such content “public”, or set your account settings to allow the content to become public, or you don’t change a default setting that would allow a form, a table or other content that is generated as you use the Platform to be made public, you acknowledge and agree that the content will in fact be available to the public on our websites. By allowing such content to become public, you grant Jotform a worldwide and fully sublicensable license to use, distribute, reproduce, modify, adapt, publish, translate, publicly perform, and publicly display such content on our websites. Of course, you may choose to apply settings to your account to make or keep forms private. 
 
+You agree that you will not assert any copyright claim or other intellectual property claims or rights in forms you build or create using the Platform against Jotform, and that you waive any such legal claims against Jotform relating to such forms. This includes whole forms and parts of such forms. You acknowledge and agree that Jotform may display your forms on our websites and platforms, and that we may use your forms for the purposes of improving the form builder, for learning about how you and other people use, build, and create and submit forms, for teaching our staff, systems, and products about such matters, and for other purposes.
+
 4\. Account Creation & Security
 -------------------------------
 
@@ -297,10 +299,12 @@ EXCEPT AS IMPERMISSIBLE UNDER LAW, IN NO EVENT SHALL JOTFORM’S LIABILITY ARISI
 
 JOTFORM ACCEPTS NO LIABILITY FOR THE ACTIONS OF ANY THIRD PARTY YOU ENGAGE OR WORK WITH TO ASSIST OR HELP YOU WITH YOUR USE OF OUR PLATFORM OR FORMS.
 
+“JOTFORM” AS USED IN THIS SECTION 10 REFERS TO JOTFORM AND ALL OF ITS RELATED AND AFFILIATED JOTFORM COMPANIES.
+
 11\. Limitation on Types of Damages
 -----------------------------------
 
-EXCEPT IF AND TO THE EXTENT PROHIBITED BY LAW, IN NO EVENT SHALL WE BE LIABLE TO YOU FOR (A) ANY LOST PROFITS, LOST TIME, LOST BUSINESS, LOST REVENUES, REIMBURSEMENT OF MONIES PAID BY YOU TO THIRD PARTIES TO HELP YOU USE OR LEARN TO USE OR OPERATE THE PLATFORM OR TO DEAL WITH REAL OR PERCEIVED ISSUES WITH THE PLATFORM, OR FOR ANY INDIRECT, SPECIAL, PUNITIVE, INCIDENTAL, OR CONSEQUENTIAL DAMAGES ARISING UNDER THIS AGREEMENT, EVEN IF YOU HAVE ADVISED US OF THE POSSIBILITY OF SUCH DAMAGES OCCURRING, OR (B) ANY FORM OF STATUTORY DAMAGES IN THE ABSENCE OF YOU SUFFERING DIRECT MONETARY DAMAGES AS A RESULT OF A PROVEN VIOLATION OF LAW BY JOTFORM.
+EXCEPT IF AND TO THE EXTENT PROHIBITED BY LAW, IN NO EVENT SHALL WE BE LIABLE TO YOU FOR ANY OR ALL OF THE FOLLOWING TYPES OF DAMAGES, WHETHER ARISING AT COMMON LAW OR BY STATUTE: DAMAGES FOR LOST PROFITS, LOST TIME, LOST BUSINESS, OR LOST REVENUES, REIMBURSEMENT OF MONIES PAID BY YOU TO THIRD PARTIES TO HELP YOU USE OR LEARN TO USE THE PLATFORM OR TO DEAL WITH REAL OR PERCEIVED ISSUES WITH THE PLATFORM, FOR ANY FORM OF COPYRIGHT OR OTHER INTELLECTUAL PROPERTY DAMAGES ARISING FROM OUR DISPLAY OR USE OF FORMS IN WHOLE OR PART THAT YOU HAVE CREATED USING OUR THE PLATFORM, AS DESCRIBED IN SECTION 10 OF THESE TERMS, OR FOR ANY INDIRECT, SPECIAL, PUNITIVE, INCIDENTAL, OR CONSEQUENTIAL DAMAGES ARISING FROM YOUR USE OF THE PLATFORM OR OUR OPERATION OF THE PLATFORM, EVEN IF YOU HAVE ADVISED US OF THE POSSIBILITY OF SUCH DAMAGES OCCURRING.
 
 THE LIMITATIONS SET FORTH IN THIS SECTION 11 SHALL APPLY NOTWITHSTANDING THE FAILURE OF THE ESSENTIAL PURPOSE OF ANY REMEDY AND REGARDLESS OF THE LEGAL OR EQUITABLE THEORY ON WHICH CLAIMS ARE BROUGHT.
 
@@ -366,7 +370,7 @@ If you have any questions about this terms of use, please feel free to [contact 
 
   
 
-Revision May 15, 2024
+Revision June 14, 2024
 
   
 
