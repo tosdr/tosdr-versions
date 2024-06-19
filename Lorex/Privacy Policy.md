@@ -110,7 +110,7 @@ triangle borderless
     
     * [Deals](https://www.lorex.com/pages/promotions)
     * [Deals of the Day](https://www.lorex.com/pages/promotions#dotd)
-    * [Father's Day Sale](https://www.lorex.com/pages/promotions)
+    * [Big Deals on Security](https://www.lorex.com/pages/promotions)
     * [Lorex Clearance Outlet](https://www.lorex.com/pages/outlet)
     * [Not-for-profit Support Program](https://www.lorex.com/pages/nonprofit)
     * [Lorex Upgrade Program](https://www.lorex.com/pages/upgrade)
@@ -208,7 +208,7 @@ arrow left Back
 
 Clear close
 
-All categories arrow bottom All categoriesAccessoriesAnalog Security CameraAnalog Security CamerasAnalog Security SystemCablesConnectorsConverterDoorbell AccessoriesDoorbellsDVR Camera SystemExtend Service ContractExtend Shipping ContractFloodlightsHard DrivesIP CameraIP Security CameraIP Security CamerasIP Security SystemJunction BoxesLorex Smart Home Security CenterMicroSD CardsMounts and BracketsNVRPoE SwitchesPower AdaptersRange ExtendersRechargeable Battery PacksSecurity DVRSecurity NVRSensorsSmart LockSolar PanelsThe Fusion CollectionWarning DecalWi-Fi Security CameraWi-Fi Security CamerasWire-Free Security CamerasWire-Free Security Systems
+All categories arrow bottom All categoriesAccessoriesAnalog Security CameraAnalog Security CamerasAnalog Security SystemCablesCloud SubscriptionConnectorsConverterDoorbell AccessoriesDoorbellsDVR Camera SystemExtend Service ContractExtend Shipping ContractFloodlightsHard DrivesIP CameraIP Security CameraIP Security CamerasIP Security SystemJunction BoxesLorex Smart Home Security CenterMicroSD CardsMounts and BracketsNVRPoE SwitchesPower AdaptersRange ExtendersRechargeable Battery PacksSecurity DVRSecurity NVRSensorsSmart LockSolar PanelsThe Fusion CollectionWarning DecalWi-Fi Security CameraWi-Fi Security CamerasWire-Free Security CamerasWire-Free Security Systems
 
 search search loader
 
@@ -512,7 +512,7 @@ Your cart is empty
     
     [Deals of the Day](https://www.lorex.com/pages/promotions#dotd)
     
-    [Father's Day Sale](https://www.lorex.com/pages/promotions)
+    [Big Deals on Security](https://www.lorex.com/pages/promotions)
     
     [Lorex Clearance Outlet](https://www.lorex.com/pages/outlet)
     
@@ -735,7 +735,7 @@ You have choices when it comes to your Personal Information. Where you choose to
   
 * **App Features:** You have the option to opt-in to certain features of the App, which are turned off by default. Those include but are not limited to your location information, the use of your mobile device camera and microphone, and receiving push notifications, including thumbnail event photos. You may opt out of these features at any time. You also have the choice to share access to your Product by sending an invitation or revoking an invitation. These features can be found under Settings in the App or on your mobile device.
   
-* **Promotional Communications:** We may send you promotional communications in accordance with applicable anti-spam laws. You may opt out of marketing communication from us either by clicking the “Unsubscribe” link on the marketing or promotional email or by contacting us at [privacy@lorextechnology.com](mailto:privacy@lorextechnology.com). If you opt out of receiving communications from us, you may still receive communication from us that are related to the provision of our Services to you, such as notices about Product upgrades. (If you are a resident of the EEA (EU)/UK, you will need to explicitly opt-in to receiving promotional communication as per applicable laws).
+* **Promotional Communications:** We may send you promotional communications in accordance with applicable anti-spam laws. You may opt out of marketing communication from us either by clicking the “Unsubscribe” link on the marketing or promotional email or by contacting us at [privacy@lorex.com](mailto:privacy@lorex.com). If you opt out of receiving communications from us, you may still receive communication from us that are related to the provision of our Services to you, such as notices about Product upgrades. (If you are a resident of the EEA (EU)/UK, you will need to explicitly opt-in to receiving promotional communication as per applicable laws).
   
 * **Cookies:** You may also withdraw your consent to cookies or similar technologies either on your browser or on the cookie banner on our Websites and Apps. Please note that if you opt out of cookies, it may affect the functionality of our Services. Please see the [Cookie Notice](https://www.lorex.com/pages/cookie-notice) for more information.
   
@@ -763,7 +763,7 @@ Depending on where you reside, applicable privacy laws may give you certain righ
 
 Verification Process and Required Information – Note that we may need to request additional information from you to verify your identity or understand the scope of your request. We will require you to verify the Personal Information we already have about you. You may also make a verifiable consumer request on behalf of your minor child.
 
-Authorized Agent – To designate an authorized agent, please issue a power of attorney granting the agent the power to submit a consumer request to Lorex on your behalf, and send a copy of such power of attorney to Lorex via email to [privacy@lorextechnology.com](mailto:privacy@lorextechnology.com).
+Authorized Agent – To designate an authorized agent, please issue a power of attorney granting the agent the power to submit a consumer request to Lorex on your behalf, and send a copy of such power of attorney to Lorex via email to [privacy@lorex.com](mailto:privacy@lorex.com).
 
 10.0 CHILDREN UNDER THE AGE OF 18
 ---------------------------------
@@ -772,7 +772,7 @@ Our Websites and Apps are not intended for children under the age of 18 years ol
 
 We have no control over recordings and whether those recordings capture children under that age of 18. We also do not have access to the video recordings, however, we do store thumbnail photos for a short time, which may capture children under the age of 18. We do not readily have access to those photos.
 
-The Websites and Apps are not intended for children under 18 years of age. No one under the age 18 should provide any Personal Information to or on our Websites or Apps. We do not knowingly collect Personal Information from children under 18 on our Websites and Apps. If you believe we have information about an individual under the age of 18 without parental or legal guardian consent, please contact us at [pprivacy@lorextechnology.com](mailto:privacy@lorextechnology.com) and we will delete the information.
+The Websites and Apps are not intended for children under 18 years of age. No one under the age 18 should provide any Personal Information to or on our Websites or Apps. We do not knowingly collect Personal Information from children under 18 on our Websites and Apps. If you believe we have information about an individual under the age of 18 without parental or legal guardian consent, please contact us at [privacy@lorex.com](mailto:privacy@lorex.com) and we will delete the information.
 
 11.0 INTERNATIONAL DATA TRANSFERS
 ---------------------------------
@@ -859,13 +859,13 @@ California residents have certain rights with respect to their Personal Informat
 If you are a California resident, to exercise your rights, please contact us using the following information and submit the requested verifying information, as described below:
 
 * Toll free: 1-866-467-8688 (enter service code 739 to leave us a message)
-* Email: [privacy@lorextechnology.com](mailto:%20privacy@lorextechnology.com)
+* Email: [privacy@lorex.com](mailto:%20privacy@lorex.com)
 
   
 
 **Other California Privacy Rights**
 
-California's "Shine the Light" law (Civil Code Section § 1798.83) permits users of our Websites and Apps that are California residents to request certain information regarding our disclosure of Personal Information to third parties for their direct marketing purposes. To make such a request, please send an email to [privacy@lorextechnology.com](mailto:%20privacy@lorextechnology.com).
+California's "Shine the Light" law (Civil Code Section § 1798.83) permits users of our Websites and Apps that are California residents to request certain information regarding our disclosure of Personal Information to third parties for their direct marketing purposes. To make such a request, please send an email to [privacy@lorex.com](mailto:%20privacy@lorex.com).
 
 13.0 POLICY CHANGES
 -------------------
@@ -877,16 +877,16 @@ This Privacy Policy was last updated on October 11, 2023. We keep our Privacy Po
 14.0 HOW TO MAKE A PRIVACY INQUIRY/COMPLAINT
 --------------------------------------------
 
-You may contact us at any time at [privacy@lorextechnology.com](mailto:privacy@lorextechnology.com) with any inquiries relating to your Personal Information.
+You may contact us at any time at [privacy@lorex.com](mailto:privacy@lorex.com) with any inquiries relating to your Personal Information.
 
-If you have any concerns about how we handle your Personal Information or if you disagree with our response to your request for exercising your rights, we would like to know so we can address your concern. Please contact our Privacy Office at [privacy@lorextechnology.com](mailto:privacy@lorextechnology.com).
+If you have any concerns about how we handle your Personal Information or if you disagree with our response to your request for exercising your rights, we would like to know so we can address your concern. Please contact our Privacy Office at [privacy@lorex.com](mailto:privacy@lorex.com).
 
 Complaints and inquiries lodged with the Privacy Office will be responded to within ten days. You may be contacted in this time to validate your identity and/or product ownership before we can proceed with your request. In cases where we cannot comply with your request, we will offer you feedback as to the reasoning behind our decision. If a request is not fulfilled to your satisfaction, you have the right to complain to your data protection supervisory authority or privacy commissioner, as the case may be.
 
 15.0 CONTACT US
 ---------------
 
-If you have any questions or comments about this Privacy Policy and our privacy practices, please contact our privacy office at [privacy@lorextechnology.com](mailto:privacy@lorextechnology.com) or write to us at:
+If you have any questions or comments about this Privacy Policy and our privacy practices, please contact our privacy office at [privacy@lorex.com](mailto:privacy@lorex.com) or write to us at:
 
 Our head office:  
 250 Royal Crest Court  
