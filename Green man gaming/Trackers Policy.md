@@ -77,15 +77,15 @@ Toggle navigation
 
 Top Searches
 
-[Shadow of the Erdtree](https://www.greenmangaming.com/games/elden-ring-shadow-of-the-erdtree-pc/)
-
-[God of War](https://www.greenmangaming.com/games/god-of-war-pc/)
+[God of War Ragnarok](https://www.greenmangaming.com/games/god-of-war-ragnarok-pc/)
 
 [Dave the Diver](https://www.greenmangaming.com/games/dave-the-diver-pc/)
 
 [Ghost of Tsushima](https://www.greenmangaming.com/games/ghost-of-tsushima-directors-cut-pc/)
 
 [SaGa](https://www.greenmangaming.com/games/romancing-saga-minstrel-song-remastered-pc/)
+
+[Final Fantasy](https://www.greenmangaming.com/games/final-fantasy-xiv-dawntrail-digital-collectors-edition-eu-pc/)
 
 [Helldivers](https://www.greenmangaming.com/games/helldivers-2-pc/)
 
@@ -274,31 +274,10 @@ We may make alterations to this Cookie Policy from time to time and these variat
   
 We will use our reasonable efforts to notify you of any such changes, which will not apply to any earlier use of the Service or purchases of Games through the Service.  
   
-Your continued use of our Services will be deemed acceptance of the updated or amended Cookie Policy and these variations shall become effective immediately upon being accessible. If you do not agree to the changes, you should cease using the Service. If there is any conflict between this Cookie Policy and any terms or specific local terms appearing elsewhere on the Service then this policy shall prevail.
-
-### Cookie Policy Recipe
-
-Ingredients  
-125g butter, softened  
-100g light brown soft sugar  
-125g caster sugar  
-1 egg, lightly beaten  
-1 tsp vanilla extract  
-225g self-raising flour  
-½ tsp salt  
-200g chocolate chips  
+Your continued use of our Services will be deemed acceptance of the updated or amended Cookie Policy and these variations shall become effective immediately upon being accessible. If you do not agree to the changes, you should cease using the Service. If there is any conflict between this Cookie Policy and any terms or specific local terms appearing elsewhere on the Service then this policy shall prevail.  
   
-Method:
-
-1. Preheat the oven to 180°C, gas mark 4
-2. Cream butter and sugars, once creamed, combine in the egg and vanilla.
-3. Sift in the flour and salt, then the chocolate chips.
-4. Roll into walnut size balls, for a more homemade look, or roll into a long, thick sausage shape and slice to make neater looking cookies.
-5. Place on ungreased baking paper. If you want to have the real Millies experience then bake for just 7 minutes, till the cookies are just setting - the cookies will be really doughy and delicious. Otherwise cook for 10 minutes until just golden round the edges.
-6. Take out of the oven and leave to harden for a minute before transferring to a wire cooling rack. These are great warm, and they also store well, if they don't all get eaten straight away!
-
 Version 0.3. (July 2023)  
-Effective Date on May 25th, 2018
+Effective Date on May 25th, 2018  
 
 Ways to pay:
 
