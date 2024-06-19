@@ -14,7 +14,7 @@ Developers
 
 SNT
 
-Mobile early accessBeta for macOS[Beta for Windows](https://status.im/api/download/windows)[Beta for Linux](https://status.im/api/download/linux)
+Mobile early accessBeta 2.0 for macOS[Beta 2.0 for Windows](https://status.im/api/download/windows)[Beta 2.0 for Linux](https://status.im/api/download/linux)
 
 [![](https://res.cloudinary.com/dhgck7ebz/image/upload/f_auto,c_limit,w_1080,q_auto/Brand/Logo%20Section/Mark/Mark_01)](https://status.im/)
 
@@ -26,7 +26,7 @@ Mobile early accessBeta for macOS[Beta for Windows](https://status.im/api/downlo
 * Developers
 * SNT
 
-Beta for macOS[Beta for Windows](https://status.im/api/download/windows)[Beta for Linux](https://status.im/api/download/linux)Mobile early access
+Beta 2.0 for macOS[Beta 2.0 for Windows](https://status.im/api/download/windows)[Beta 2.0 for Linux](https://status.im/api/download/linux)Mobile early access
 
 [![](https://res.cloudinary.com/dhgck7ebz/image/upload/f_auto,c_limit,w_1080,q_auto/Brand/Logo%20Section/Mark/Mark_01)](https://status.im/)
 
@@ -38,7 +38,7 @@ Beta for macOS[Beta for Windows](https://status.im/api/download/windows)[Beta fo
 * Developers
 * SNT
 
-Beta for macOS[Beta for Windows](https://status.im/api/download/windows)[Beta for Linux](https://status.im/api/download/linux)Mobile early access
+Beta 2.0 for macOS[Beta 2.0 for Windows](https://status.im/api/download/windows)[Beta 2.0 for Linux](https://status.im/api/download/linux)Mobile early access
 
 [![](https://res.cloudinary.com/dhgck7ebz/image/upload/f_auto,c_limit,w_1080,q_auto/Brand/Logo%20Section/Mark/Mark_01)](https://status.im/)
 
@@ -56,11 +56,11 @@ Developers
 
 SNT
 
-Beta for macOS[Beta for Windows](https://status.im/api/download/windows)[Beta for Linux](https://status.im/api/download/linux)Mobile early access
+Beta 2.0 for macOS[Beta 2.0 for Windows](https://status.im/api/download/windows)[Beta 2.0 for Linux](https://status.im/api/download/linux)Mobile early access
 
 [New
 
-Status Desktop Public Beta 1.0 is Here!](https://status.im/blog/status-desktop-public-beta-1)
+A New Dawn for Status and SNT: Embracing Decentralisation](https://status.im/blog/new-dawn-for-status-and-snt-embracing-decentralisation)
 
 Make the  
 jump to web3
@@ -68,21 +68,21 @@ jump to web3
 
 Use the open source, decentralised crypto communication super app.
 
-Mobile early accessBeta for macOS[Beta for Windows](https://status.im/api/download/windows)[Beta for Linux](https://status.im/api/download/linux)
+Mobile early accessBeta 2.0 for macOS[Beta 2.0 for Windows](https://status.im/api/download/windows)[Beta 2.0 for Linux](https://status.im/api/download/linux)
 
 iOS & Android betas coming soon.  
-Desktop beta 1.0 is live!
+Desktop beta 2.0 is live!
 
 Status Desktop Beta
 
 ### Get Status  
 for Desktop
 
-Test out Status Desktop’s first early public beta release today.
+Try Status Desktop’s public beta release today.
 
-Beta for macOS[Beta for Windows](https://status.im/api/download/windows)[Beta for Linux](https://status.im/api/download/linux)
+Beta 2.0 for macOS[Beta 2.0 for Windows](https://status.im/api/download/windows)[Beta 2.0 for Linux](https://status.im/api/download/linux)
 
-This is our first beta - bugs and issues are expected.
+Beta releases may occasionally contain bugs and issues.
 
 Report bugs on [GitHub](https://github.com/status-im/status-desktop/issues/new?assignees=&labels=bug&projects=&template=bug.md)
 
@@ -278,10 +278,10 @@ Be unstoppable
 
 Use the open source, decentralised crypto communication super app.
 
-Mobile early accessBeta for macOS[Beta for Windows](https://status.im/api/download/windows)[Beta for Linux](https://status.im/api/download/linux)
+Mobile early accessBeta 2.0 for macOS[Beta 2.0 for Windows](https://status.im/api/download/windows)[Beta 2.0 for Linux](https://status.im/api/download/linux)
 
 iOS & Android betas coming soon.  
-Desktop beta 1.0 is live!
+Desktop beta 2.0 is live!
 
 [![](https://res.cloudinary.com/dhgck7ebz/image/upload/f_auto,c_limit,w_1080,q_auto/Brand/Logo%20Section/Mark/Mark_01)](https://status.im/)
 
