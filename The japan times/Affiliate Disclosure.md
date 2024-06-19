@@ -20,7 +20,7 @@ link policy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[June 09, 2024](https://www.japantimes.co.jp/archive/2024/06/09/ "archive page")
+[June 19, 2024](https://www.japantimes.co.jp/archive/2024/06/19/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -30,9 +30,9 @@ Subscribe
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-* [China geopolitics](https://www.japantimes.co.jp/tag/china// "China geopolitics")
-* [Fumio Kishida](https://www.japantimes.co.jp/tag/fumio-kishida// "Fumio Kishida")
-* [Japan crime](https://www.japantimes.co.jp/news/japan/crime-legal// "Japan crime")
+* [Tokyo governor race](https://www.japantimes.co.jp/tag/2024-tokyo-gubernatorial-election/ "Tokyo governor race")
+* [Kim-Putin summit](https://www.japantimes.co.jp/tag/north-korea/ "Kim-Putin summit")
+* [Japan economy](https://www.japantimes.co.jp/tag/japanese-economy/ "Japan economy")
 * [Latest News](https://www.japantimes.co.jp/latest-news/ "Latest News")
 * [Deep Dive Podcast](https://www.japantimes.co.jp/podcast/deep-dive/ "Deep Dive Podcast")
 
@@ -130,64 +130,64 @@ If you would like to quote more than 20 percent of an article, please contact us
 
 * Editors' Picks
 
-[Photos of Emperor Naruhito's family released](https://www.japantimes.co.jp/news/2024/06/07/japan/society/imperial-family-photos/ "Photos of Emperor Naruhito's family released")
+[Rare tissue-damaging bacteria spreads in Japan](https://www.japantimes.co.jp/news/2024/06/15/japan/science-health/stss-japan-spread/ "Rare tissue-damaging bacteria spreads in Japan")
 
-  [![Emperor Naruhito, Empress Masako and Princess Aiko enjoy cycling at the Imperial Stock Farm in Tochigi Prefecture in May.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/07/401734.jpg&w=400&q=100&f=jpg&t=1.2 "Emperor Naruhito, Empress Masako and Princess Aiko enjoy cycling at the Imperial Stock Farm in Tochigi Prefecture in May.")](https://www.japantimes.co.jp/news/2024/06/07/japan/society/imperial-family-photos/ "Photos of Emperor Naruhito's family released")
+  [![Group A Streptococcus typically causes swelling and a sore throat in children, but some types of the bacteria can lead to symptoms developing rapidly.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/15/403395.jpg&w=400&q=100&f=jpg&t=1.2 "Group A Streptococcus typically causes swelling and a sore throat in children, but some types of the bacteria can lead to symptoms developing rapidly.")](https://www.japantimes.co.jp/news/2024/06/15/japan/science-health/stss-japan-spread/ "Rare tissue-damaging bacteria spreads in Japan")
 
-[Japanese man fatally stabbed in Canada](https://www.japantimes.co.jp/news/2024/06/07/japan/crime-legal/japanese-stabbed-vancouver/ "Japanese man fatally stabbed in Canada")
+[Japan team succeeds in muon reacceleration in major breakthrough](https://www.japantimes.co.jp/news/2024/06/16/japan/japan-muon-reacceleration-breakthrough/ "Japan team succeeds in muon reacceleration in major breakthrough")
 
-  [![A street in Vancouver, Canada.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/07/401937.jpg&w=400&q=100&f=jpg&t=1.2 "A street in Vancouver, Canada.")](https://www.japantimes.co.jp/news/2024/06/07/japan/crime-legal/japanese-stabbed-vancouver/ "Japanese man fatally stabbed in Canada")
+  [![Muons can penetrate dense materials, even bedrock several kilometers thick, and therefore are used for internal inspections for volcanos and pyramids, as well as the reactors at the tsunami-crippled Fukushima No. 1 nuclear power station.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/16/403555.jpg&w=400&q=100&f=jpg&t=1.2 "Muons can penetrate dense materials, even bedrock several kilometers thick, and therefore are used for internal inspections for volcanos and pyramids, as well as the reactors at the tsunami-crippled Fukushima No. 1 nuclear power station.")](https://www.japantimes.co.jp/news/2024/06/16/japan/japan-muon-reacceleration-breakthrough/ "Japan team succeeds in muon reacceleration in major breakthrough")
 
-[Kishida could break with Motegi and Aso over fund regulation](https://www.japantimes.co.jp/news/2024/06/08/japan/politics/kishida-motegi-aso-friction/ "Kishida could break with Motegi and Aso over fund regulation")
+[France's Le Pen says she will work with Macron to appeal to moderates](https://www.japantimes.co.jp/news/2024/06/17/world/politics/le-pen-macron-moderates/ "France's Le Pen says she will work with Macron to appeal to moderates")
 
-  [![Liberal Democratic Party Vice President Taro Aso (left), Prime Minister Fumio Kishida (center) and LDP Secretary-General Toshimitsu Motegi sing the LDP song at the party's annual convention in Tokyo on March 17.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/07/401747.jpg&w=400&q=100&f=jpg&t=1.2 "Liberal Democratic Party Vice President Taro Aso (left), Prime Minister Fumio Kishida (center) and LDP Secretary-General Toshimitsu Motegi sing the LDP song at the party's annual convention in Tokyo on March 17.")](https://www.japantimes.co.jp/news/2024/06/08/japan/politics/kishida-motegi-aso-friction/ "Kishida could break with Motegi and Aso over fund regulation")
+  [![Marine Le Pen speaks during a European election campaign rally in Paris on June 2.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/17/403587.jpg&w=400&q=100&f=jpg&t=1.2 "Marine Le Pen speaks during a European election campaign rally in Paris on June 2.")](https://www.japantimes.co.jp/news/2024/06/17/world/politics/le-pen-macron-moderates/ "France's Le Pen says she will work with Macron to appeal to moderates")
 
-[Japan's consumer watchdog warns of accidents in the sauna](https://www.japantimes.co.jp/news/2024/06/07/japan/society/sauna-accidents/ "Japan's consumer watchdog warns of accidents in the sauna")
+[Man who sprung Ghosn challenges depiction of Fuchu Prison](https://www.japantimes.co.jp/news/2024/06/18/japan/crime-legal/michael-taylor-fuchu-prison/ "Man who sprung Ghosn challenges depiction of Fuchu Prison")
 
-  [![Amid the rising popularity of saunas, the Consumer Affairs Agency is urging users to exercise caution following a spike in the number of sauna-related accidents.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/07/401790.jpg&w=400&q=100&f=jpg&t=1.2 "Amid the rising popularity of saunas, the Consumer Affairs Agency is urging users to exercise caution following a spike in the number of sauna-related accidents.")](https://www.japantimes.co.jp/news/2024/06/07/japan/society/sauna-accidents/ "Japan's consumer watchdog warns of accidents in the sauna")
+  [![Michael Taylor, former U.S. Green Beret and architect of the 2019 Carlos Ghosn escape plot, said that other inmates deported from Fuchu Prison to a detention center in Los Angeles were so traumatized that they ended up with psychological problems.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/18/403199.jpg&w=400&q=100&f=jpg&t=1.2 "Michael Taylor, former U.S. Green Beret and architect of the 2019 Carlos Ghosn escape plot, said that other inmates deported from Fuchu Prison to a detention center in Los Angeles were so traumatized that they ended up with psychological problems.")](https://www.japantimes.co.jp/news/2024/06/18/japan/crime-legal/michael-taylor-fuchu-prison/ "Man who sprung Ghosn challenges depiction of Fuchu Prison")
 
-[Kishida maintains 2037 target for Tokyo-Osaka maglev line](https://www.japantimes.co.jp/news/2024/06/07/japan/society/maglev2037kishida/ "Kishida maintains 2037 target for Tokyo-Osaka maglev line")
+[Nagoya hospital error results in high school student’s death](https://www.japantimes.co.jp/news/2024/06/18/japan/japan-hospital-error-student-death/ "Nagoya hospital error results in high school student’s death")
 
-  [![Shizuoka Gov. Yasutomo Suzuki (left) meets with JR Central President Shunsuke Niwa in the city of Shizuoka on June 5.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/07/401881.jpg&w=400&q=100&f=jpg&t=1.2 "Shizuoka Gov. Yasutomo Suzuki (left) meets with JR Central President Shunsuke Niwa in the city of Shizuoka on June 5.")](https://www.japantimes.co.jp/news/2024/06/07/japan/society/maglev2037kishida/ "Kishida maintains 2037 target for Tokyo-Osaka maglev line")
+  [![A high school student was taken to the emergency room after he complained of symptoms including vomiting. The resident physician conducted a CT scan, identified gastric dilation and diagnosed the teenager as suffering from gastroenteritis before sending him home.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/18/403898.jpg&w=400&q=100&f=jpg&t=1.2 "A high school student was taken to the emergency room after he complained of symptoms including vomiting. The resident physician conducted a CT scan, identified gastric dilation and diagnosed the teenager as suffering from gastroenteritis before sending him home.")](https://www.japantimes.co.jp/news/2024/06/18/japan/japan-hospital-error-student-death/ "Nagoya hospital error results in high school student’s death")
 
 Editors' Picks
 --------------
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Photos of Emperor Naruhito's family released](https://www.japantimes.co.jp/news/2024/06/07/japan/society/imperial-family-photos/ "Photos of Emperor Naruhito's family released")
+[Rare tissue-damaging bacteria spreads in Japan](https://www.japantimes.co.jp/news/2024/06/15/japan/science-health/stss-japan-spread/ "Rare tissue-damaging bacteria spreads in Japan")
 
-  [![Emperor Naruhito, Empress Masako and Princess Aiko enjoy cycling at the Imperial Stock Farm in Tochigi Prefecture in May.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/07/401734.jpg&w=400&q=100&f=jpg&t=1.2 "Emperor Naruhito, Empress Masako and Princess Aiko enjoy cycling at the Imperial Stock Farm in Tochigi Prefecture in May.")](https://www.japantimes.co.jp/news/2024/06/07/japan/society/imperial-family-photos/ "Photos of Emperor Naruhito's family released")
+By [Akemi Terukina](https://www.japantimes.co.jp/author/4988/akemi-terukina/ "Akemi Terukina")  
 
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[Japanese man fatally stabbed in Canada](https://www.japantimes.co.jp/news/2024/06/07/japan/crime-legal/japanese-stabbed-vancouver/ "Japanese man fatally stabbed in Canada")
-
-  [![A street in Vancouver, Canada.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/07/401937.jpg&w=400&q=100&f=jpg&t=1.2 "A street in Vancouver, Canada.")](https://www.japantimes.co.jp/news/2024/06/07/japan/crime-legal/japanese-stabbed-vancouver/ "Japanese man fatally stabbed in Canada")
+  [![Group A Streptococcus typically causes swelling and a sore throat in children, but some types of the bacteria can lead to symptoms developing rapidly.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/15/403395.jpg&w=400&q=100&f=jpg&t=1.2 "Group A Streptococcus typically causes swelling and a sore throat in children, but some types of the bacteria can lead to symptoms developing rapidly.")](https://www.japantimes.co.jp/news/2024/06/15/japan/science-health/stss-japan-spread/ "Rare tissue-damaging bacteria spreads in Japan")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Kishida could break with Motegi and Aso over fund regulation](https://www.japantimes.co.jp/news/2024/06/08/japan/politics/kishida-motegi-aso-friction/ "Kishida could break with Motegi and Aso over fund regulation")
+[Japan team succeeds in muon reacceleration in major breakthrough](https://www.japantimes.co.jp/news/2024/06/16/japan/japan-muon-reacceleration-breakthrough/ "Japan team succeeds in muon reacceleration in major breakthrough")
 
-By [Eric Johnston](https://www.japantimes.co.jp/author/174/eric-johnston/ "Eric Johnston")  
+  [![Muons can penetrate dense materials, even bedrock several kilometers thick, and therefore are used for internal inspections for volcanos and pyramids, as well as the reactors at the tsunami-crippled Fukushima No. 1 nuclear power station.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/16/403555.jpg&w=400&q=100&f=jpg&t=1.2 "Muons can penetrate dense materials, even bedrock several kilometers thick, and therefore are used for internal inspections for volcanos and pyramids, as well as the reactors at the tsunami-crippled Fukushima No. 1 nuclear power station.")](https://www.japantimes.co.jp/news/2024/06/16/japan/japan-muon-reacceleration-breakthrough/ "Japan team succeeds in muon reacceleration in major breakthrough")
 
-  [![Liberal Democratic Party Vice President Taro Aso (left), Prime Minister Fumio Kishida (center) and LDP Secretary-General Toshimitsu Motegi sing the LDP song at the party's annual convention in Tokyo on March 17.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/07/401747.jpg&w=400&q=100&f=jpg&t=1.2 "Liberal Democratic Party Vice President Taro Aso (left), Prime Minister Fumio Kishida (center) and LDP Secretary-General Toshimitsu Motegi sing the LDP song at the party's annual convention in Tokyo on March 17.")](https://www.japantimes.co.jp/news/2024/06/08/japan/politics/kishida-motegi-aso-friction/ "Kishida could break with Motegi and Aso over fund regulation")
+[WORLD](https://www.japantimes.co.jp/news/world/ "WORLD")
 
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+[France's Le Pen says she will work with Macron to appeal to moderates](https://www.japantimes.co.jp/news/2024/06/17/world/politics/le-pen-macron-moderates/ "France's Le Pen says she will work with Macron to appeal to moderates")
 
-[Japan's consumer watchdog warns of accidents in the sauna](https://www.japantimes.co.jp/news/2024/06/07/japan/society/sauna-accidents/ "Japan's consumer watchdog warns of accidents in the sauna")
+By [Samy Adghirni](https://www.japantimes.co.jp/author/2697/samy-adghirni/ "Samy Adghirni") and [Angelina Rascouet](https://www.japantimes.co.jp/author/1418/angelina-rascouet/ "Angelina Rascouet")  
 
-By [Jessica Speed](https://www.japantimes.co.jp/author/5338/jessica-speed/ "Jessica Speed")  
-
-  [![Amid the rising popularity of saunas, the Consumer Affairs Agency is urging users to exercise caution following a spike in the number of sauna-related accidents.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/07/401790.jpg&w=400&q=100&f=jpg&t=1.2 "Amid the rising popularity of saunas, the Consumer Affairs Agency is urging users to exercise caution following a spike in the number of sauna-related accidents.")](https://www.japantimes.co.jp/news/2024/06/07/japan/society/sauna-accidents/ "Japan's consumer watchdog warns of accidents in the sauna")
+  [![Marine Le Pen speaks during a European election campaign rally in Paris on June 2.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/17/403587.jpg&w=400&q=100&f=jpg&t=1.2 "Marine Le Pen speaks during a European election campaign rally in Paris on June 2.")](https://www.japantimes.co.jp/news/2024/06/17/world/politics/le-pen-macron-moderates/ "France's Le Pen says she will work with Macron to appeal to moderates")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Kishida maintains 2037 target for Tokyo-Osaka maglev line](https://www.japantimes.co.jp/news/2024/06/07/japan/society/maglev2037kishida/ "Kishida maintains 2037 target for Tokyo-Osaka maglev line")
+[Man who sprung Ghosn challenges depiction of Fuchu Prison](https://www.japantimes.co.jp/news/2024/06/18/japan/crime-legal/michael-taylor-fuchu-prison/ "Man who sprung Ghosn challenges depiction of Fuchu Prison")
 
-By [Francis Tang](https://www.japantimes.co.jp/author/5450/francis-tang/ "Francis Tang") and [Karin Kaneko](https://www.japantimes.co.jp/author/4420/karin-kaneko/ "Karin Kaneko")  
+By [Karin Kaneko](https://www.japantimes.co.jp/author/4420/karin-kaneko/ "Karin Kaneko")  
 
-  [![Shizuoka Gov. Yasutomo Suzuki (left) meets with JR Central President Shunsuke Niwa in the city of Shizuoka on June 5.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/07/401881.jpg&w=400&q=100&f=jpg&t=1.2 "Shizuoka Gov. Yasutomo Suzuki (left) meets with JR Central President Shunsuke Niwa in the city of Shizuoka on June 5.")](https://www.japantimes.co.jp/news/2024/06/07/japan/society/maglev2037kishida/ "Kishida maintains 2037 target for Tokyo-Osaka maglev line")
+  [![Michael Taylor, former U.S. Green Beret and architect of the 2019 Carlos Ghosn escape plot, said that other inmates deported from Fuchu Prison to a detention center in Los Angeles were so traumatized that they ended up with psychological problems.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/18/403199.jpg&w=400&q=100&f=jpg&t=1.2 "Michael Taylor, former U.S. Green Beret and architect of the 2019 Carlos Ghosn escape plot, said that other inmates deported from Fuchu Prison to a detention center in Los Angeles were so traumatized that they ended up with psychological problems.")](https://www.japantimes.co.jp/news/2024/06/18/japan/crime-legal/michael-taylor-fuchu-prison/ "Man who sprung Ghosn challenges depiction of Fuchu Prison")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[Nagoya hospital error results in high school student’s death](https://www.japantimes.co.jp/news/2024/06/18/japan/japan-hospital-error-student-death/ "Nagoya hospital error results in high school student’s death")
+
+  [![A high school student was taken to the emergency room after he complained of symptoms including vomiting. The resident physician conducted a CT scan, identified gastric dilation and diagnosed the teenager as suffering from gastroenteritis before sending him home.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/18/403898.jpg&w=400&q=100&f=jpg&t=1.2 "A high school student was taken to the emergency room after he complained of symptoms including vomiting. The resident physician conducted a CT scan, identified gastric dilation and diagnosed the teenager as suffering from gastroenteritis before sending him home.")](https://www.japantimes.co.jp/news/2024/06/18/japan/japan-hospital-error-student-death/ "Nagoya hospital error results in high school student’s death")
 
 Podcast
 -------
@@ -199,18 +199,18 @@ Podcast
 Longform
 --------
 
-  [![The view from the top of one of the five 70-meter-deep shafts spread across the tunnel system of the ¥230 billion Metropolitan Area Outer Underground Discharge Channel.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/02/399939.jpg&w=400&q=100&f=jpg&t=1.2 "The view from the top of one of the five 70-meter-deep shafts spread across the tunnel system of the ¥230 billion Metropolitan Area Outer Underground Discharge Channel.")](https://www.japantimes.co.jp/news/2024/06/03/japan/society/tokyo-underground-flooding-tunnel/ "Tokyo underground: Exploring what lies beneath the world’s largest city")
+  [![Father's Day is said to have come to Japan around 1950, shortly after the establishment of Mother's Day. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/14/402581.jpg&w=400&q=100&f=jpg&t=1.2 "Father's Day is said to have come to Japan around 1950, shortly after the establishment of Mother's Day. ")](https://www.japantimes.co.jp/news/2024/06/15/japan/society/japan-fathers-marriage-depopulation/ "The evolving nature of fatherhood in Japan")
 
-[Tokyo underground: Exploring what lies beneath the world’s largest city](https://www.japantimes.co.jp/news/2024/06/03/japan/society/tokyo-underground-flooding-tunnel/ "Tokyo underground: Exploring what lies beneath the world’s largest city")
+[The evolving nature of fatherhood in Japan](https://www.japantimes.co.jp/news/2024/06/15/japan/society/japan-fathers-marriage-depopulation/ "The evolving nature of fatherhood in Japan")
 
 By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "Alex K.T. Martin")  
 
 SUSTAINABLE JAPAN
 -----------------
 
-[In Tokachi, a food supply chain for ‘receiving life’](https://sustainable.japantimes.com/magazine/vol36/36-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "In Tokachi, a food supply chain for ‘receiving life’")
+[Destination Restaurants express the land of Japan](https://sustainable.japantimes.com/magazine/vol36/36-01?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "Destination Restaurants express the land of Japan")
 
-[![In Tokachi, a food supply chain for ‘receiving life’](https://wp.japantimes.co.jp/wp-content/uploads/2024/05/img_magazine_36_04_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol36/36-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "In Tokachi, a food supply chain for ‘receiving life’")
+[![Destination Restaurants express the land of Japan](https://wp.japantimes.co.jp/wp-content/uploads/2024/05/img_magazine_36_01_03-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol36/36-01?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "Destination Restaurants express the land of Japan")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -250,15 +250,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Kishida faces tough time constraints in parliament after bill's delay](https://www.japantimes.co.jp/news/2024/06/08/japan/politics/kishida-diet-time-constraints/ "Kishida faces tough time constraints in parliament after bill's delay")
+[Japan’s GMO takes aim at labor shortage with AI and robotics company](https://www.japantimes.co.jp/business/2024/06/19/companies/gmo-ai-robots/ "Japan’s GMO takes aim at labor shortage with AI and robotics company")
 
-[Attacks leave Sudanese refugees stranded in Ethiopian forest](https://www.japantimes.co.jp/news/2024/06/08/world/society/sudan-refugees-stranded/ "Attacks leave Sudanese refugees stranded in Ethiopian forest")
+20 mins ago
 
-[Victims of fatal Akihabara rampage remembered 16 years on](https://www.japantimes.co.jp/news/2024/06/08/japan/crime-legal/akihabara-fatal-rampage-16-years/ "Victims of fatal Akihabara rampage remembered 16 years on")
+[U.S. approves sale of more than 1,000 ‘suicide drones’ to Taiwan](https://www.japantimes.co.jp/news/2024/06/19/asia-pacific/politics/us-taiwan-suicide-drones/ "U.S. approves sale of more than 1,000 ‘suicide drones’ to Taiwan")
 
-[The moment the Tories have long dreaded is finally upon them](https://www.japantimes.co.jp/news/2024/06/08/world/politics/uk-rishi-sunak-political-crisis/ "The moment the Tories have long dreaded is finally upon them")
+45 mins ago
 
-[Diminished Hamas switches to full insurgent mode in Gaza](https://www.japantimes.co.jp/news/2024/06/08/world/politics/diminished-hamas-insurgent-mode/ "Diminished Hamas switches to full insurgent mode in Gaza")
+[Revised guidelines drafted for investigating serious cases of school bullying](https://www.japantimes.co.jp/news/2024/06/19/japan/society/serious-bullying-cases/ "Revised guidelines drafted for investigating serious cases of school bullying")
+
+1 hours ago
+
+[Netflix uses ‘Squid Game’ playbook for untapped Southeast Asia](https://www.japantimes.co.jp/business/2024/06/19/companies/netflix-squid-game-southeast-asia/ "Netflix uses ‘Squid Game’ playbook for untapped Southeast Asia")
+
+1 hours ago
+
+[Putin and Kim eye upgraded ties as Russian leader visits North Korea](https://www.japantimes.co.jp/news/2024/06/19/asia-pacific/politics/kim-putin-summit-meeting/ "Putin and Kim eye upgraded ties as Russian leader visits North Korea")
+
+1 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
