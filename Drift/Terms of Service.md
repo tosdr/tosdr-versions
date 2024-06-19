@@ -287,10 +287,7 @@ Please read these Terms of Service (the “Agreement”) carefully before using 
     * [Drift for Chrome](https://www.drift.com/chrome-extension/)
     * [Get a Demo](#getademo)
 
-* [![](https://www.drift.com/wp-content/themes/drift-v3/dist/images/v2/svg/facebook-cyan.svg)](https://www.facebook.com/heydrift)
-* [![](https://www.drift.com/wp-content/themes/drift-v3/dist/images/v2/svg/twitter-cyan.svg)](https://twitter.com/drift)
 * [![](https://www.drift.com/wp-content/themes/drift-v3/dist/images/v2/svg/linkedin-cyan.svg)](https://www.linkedin.com/company/drift/)
-* [![](https://www.drift.com/wp-content/themes/drift-v3/dist/images/v2/svg/instagram-cyan.svg)](https://www.instagram.com/drift/)
 * [![](https://www.drift.com/wp-content/themes/drift-v3/dist/images/v2/svg/youtube-cyan.svg)](https://www.youtube.com/channel/UCwdKmeYQ76Sh22lfTiFg5fg)
 
 [Terms](https://www.drift.com/terms-of-service/) [Privacy Policy](https://www.drift.com/privacy-policy/) [Privacy Settings](#) [Drift Status](https://drift.status.io/) [Sitemap](https://www.drift.com/sitemap/)
