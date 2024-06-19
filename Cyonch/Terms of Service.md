@@ -1,5 +1,3 @@
-Lass uns gemeinsam das Internet zu einem besseren Ort machen. Werde Teil unseres Teams als [Service Owner](https://www.cyon.ch/ueber-cyon/jobs#service-owner "Komm ins cyon-Team!").
-
  [![cyon logo](/svg/cyon-logo.svg) cyon](https://www.cyon.ch/)
 
 * Hosting
