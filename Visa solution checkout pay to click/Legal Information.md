@@ -440,7 +440,7 @@ If you have applied for a job at Visa, the Personal Information in your applicat
 
 ### Children's Data
 
-Visa’s platforms are not directed to children, and Visa only collects information from children as permitted by law. For example, we may collect data from children over 16 who are allowed by law to interact with Visa or otherwise if we have appropriate parental or caregiver consent, such as if children attend Visa sponsored events with adult caregivers. If you believe that we are processing a child’s information inappropriately, please [\[email protected\]](https://usa.visa.com/cdn-cgi/l/email-protection).   
+Visa’s platforms are not directed to children, and Visa only collects information from children as permitted by law. For example, we may collect data from children over 16 who are allowed by law to interact with Visa or otherwise if we have appropriate parental or caregiver consent, such as if children attend Visa sponsored events with adult caregivers. If you believe that we are processing a child’s information inappropriately, please [Contact Us](mailto:privacy@visa.com).   
 
 ### Changes to this Privacy Notice
 
@@ -452,7 +452,7 @@ If you would like to exercise your privacy rights under relevant laws, please re
 
 For any other assistance you may contact us, including any queries to the applicable Data Protection Officers within Visa, at the information below:  
 
-* Email us: [\[email protected\]](https://usa.visa.com/cdn-cgi/l/email-protection)  
+* Email us: [privacy@visa.com](mailto:privacy@visa.com)  
     _Please do not include sensitive information, such as your account number, in emails._
 * Mail us a letter:  
     Visa Global Privacy Office  
@@ -475,7 +475,7 @@ This Global Privacy Notice is supplemented by the following additional notices, 
 * [For Japan (Japanese)](https://www.visa.co.jp/legal/p-protection.html)
 * [For Taiwan (Traditional Chinese)](https://www.visa.com.tw/legal/global-privacy-notice/jurisdictional-notice-taiwan.html)
 * [For Turkey (Turkish)](https://www.visa.com.tr/kullanim-sartlari/visa-kuresel-gizlilik-bildirimi/jurisdictional-notice-turkey.html)
-* [U.S. - California Privacy Rights](https://usa.visa.com/legal/global-privacy-notice/ca-privacy-rights.html)
+* [U.S. State Privacy Laws Supplementary Notice](https://usa.visa.com/legal/global-privacy-notice/ca-privacy-rights.html)
 * [U.S. - Social Security Number Policy and Sensitive Personal Information Statement](https://usa.visa.com/legal/global-privacy-notice/us-ssn-policy-statement.html)
 * [U.S. – End User Open Banking Privacy Notice](https://usa.visa.com/legal/open-banking-privacy-notice.html)
 
