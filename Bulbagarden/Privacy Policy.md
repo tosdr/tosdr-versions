@@ -435,7 +435,7 @@ Navigation menu
 
 [](#sidebar "Jump to navigation")[](#p-personal "user tools")[](#globalWrapper "back to top")
 
-[![https://creativecommons.org/licenses/by-nc-sa/2.5/](http://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png)](https://creativecommons.org/licenses/by-nc-sa/2.5/)
+[![https://creativecommons.org/licenses/by-nc-sa/2.5/](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png)](https://creativecommons.org/licenses/by-nc-sa/2.5/)
 
 [![Powered by MediaWiki](/w/resources/assets/poweredby_mediawiki_88x31.png)](https://www.mediawiki.org/)
 
