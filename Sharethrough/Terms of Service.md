@@ -86,9 +86,9 @@ Sharethrough is a global omnichannel ad exchange, with a mission to provide user
 
 **Press**
 
-Scope3, the market leader in sustainable advertising, introduced GMP+, a standardized media offering that will protect advertisers
+Complementary capabilities and inventory create a commercially scaled industry player with a powerful global presence.
 
-[Learn More →](https://www.sharethrough.com/company/press/scope3-introduces-gmp-industrys-first-product-to-prevent-problematic-placements-sharethrough-to-launch-today)
+[Learn More →](https://www.sharethrough.com/company/press/sharethrough-and-equativ-are-merging)
 
 Resources
 
@@ -110,11 +110,11 @@ Stay up-to-date on our latest product updates, case studies and market analysis 
 
 **Recent Blog Post**
 
-5 More Use Cases for Advertising AI
+Sharethrough & Equativ Merge to Create One of The Largest Independent Ad Platforms in The World
 
-May 29, 2024
+June 12, 2024
 
-[Read Blog Post →](https://www.sharethrough.com/blog/5-more-use-cases-for-advertising-ai)
+[Read Blog Post →](https://www.sharethrough.com/blog/sharethrough-and-equativ-are-merging)
 
 [Contact](https://www.sharethrough.com/contact)
 
@@ -128,15 +128,15 @@ En
 
 Advertisers
 
-[Advertiser Solutions](https://www.sharethrough.com/advertisers-old)[Creative Gallery](https://www.sharethrough.com/advertisers/ad-enhancements/ctv-countdown-overlay)[Enhanced Ad Formats](https://www.sharethrough.com/advertisers/ad-enhancements)[Curated Marketplace](https://www.sharethrough.com/advertisers/curation)[Sustainability](https://www.sharethrough.com/advertisers/sustainability)[Addressability](https://www.sharethrough.com/advertisers/cookieless-advertising-old)[Inventory Curation](https://www.sharethrough.com/advertisers/curation/inventory-curation)[Advertiser Case Studies](https://www.sharethrough.com/advertisers/case-studies)
+[Advertiser Solutions](https://www.sharethrough.com/advertisers)[Creative Gallery](https://www.sharethrough.com/advertisers/ad-enhancements/ctv-countdown-overlay)[Enhanced Ad Formats](https://www.sharethrough.com/advertisers/ad-enhancements)[Curated Marketplace](https://www.sharethrough.com/advertisers/curation)[Sustainability](https://www.sharethrough.com/advertisers/sustainability)[Addressability](https://www.sharethrough.com/advertisers/cookieless-advertising)[Inventory Curation](https://www.sharethrough.com/advertisers/curation/inventory-curation)[Advertiser Case Studies](https://www.sharethrough.com/advertisers/case-studies)
 
 Publishers
 
-[Publisher Solutions](https://www.sharethrough.com/publishers-old)[SmartSuite™ Technology](https://www.sharethrough.com/publishers/smartsuite-technology)[Inventory Curation](https://www.sharethrough.com/advertisers/curation/inventory-curation)
+[Publisher Solutions](https://www.sharethrough.com/publishers)[SmartSuite™ Technology](https://www.sharethrough.com/publishers/smartsuite-technology)[Inventory Curation](https://www.sharethrough.com/advertisers/curation/inventory-curation)
 
 Company
 
-[About](https://www.sharethrough.com/company)[Leadership](https://www.sharethrough.com/company/leadership-copy)[Careers](https://www.sharethrough.com/careers)[Career Opportunities](https://www.sharethrough.com/careers/career-opportunities)[DEIB Initiatives](https://www.sharethrough.com/careers/diversity-equity-inclusion-at-sharethrough)
+[About](https://www.sharethrough.com/company)[Leadership](https://www.sharethrough.com/company/leadership)[Careers](https://www.sharethrough.com/careers)[Career Opportunities](https://www.sharethrough.com/careers/career-opportunities)[DEIB Initiatives](https://www.sharethrough.com/careers/diversity-equity-inclusion-at-sharethrough)
 
 Resources
 
@@ -323,3 +323,5 @@ Subscribe to our newsletter and receive cutting-edge digital advertising insight
 Thank you! Your submission has been received!
 
 Oops! Something went wrong while submitting the form.
+
+Sharethrough & Equativ are Merging! [Learn More →](https://www.sharethrough.com/blog/sharethrough-and-equativ-are-merging)
