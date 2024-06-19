@@ -65,4 +65,4 @@ By accessing and using SnapTik App, you express your voluntary acceptance of thi
 * [Download Tiktok Story](https://snaptik.app/download-story-tiktok)
 * [How to Download video tiktok](https://snaptik.app/how-to-download-video-tiktok)
 
-© 2019 - 2023 SnapTik - [TikTok Video Download](https://snaptik.app/) Version 18.4
+© 2019 - 2023 SnapTik - [TikTok Video Download](https://snaptik.app/en1) Version 18.4
