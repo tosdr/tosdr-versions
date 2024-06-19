@@ -6,7 +6,7 @@ Experiment with 200+ high-quality presets
 
 [Download](https://vs.co/download)
 
-_Please click_ [**_here_**](https://vsco.co/about/privacy-policy-old) _to view the previous version of our Privacy Policy_
+_We’re updating our Privacy Policy, effective July 10, 2024. To read our updated Privacy Policy,_ [_click here._](https://vsco.co/about/privacy-policy-effective-10-july-2024)
 
 Privacy Policy
 
@@ -49,7 +49,7 @@ Examples
 Name, email address, phone number, username, password, redemption code, age, date of birth
 
 **Profile Data  
-**You can customize your profile on our Services so other creators can get to know you better
+**You can customize your profile on our Services so other creators can get to know you better.
 
 Any information you add about yourself to your profile, such as your biographical details, photograph, social media links, interests, preferences
 
