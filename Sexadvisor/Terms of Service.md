@@ -12,7 +12,7 @@ Members Login always free
 
 I’m Looking For
 
-[Brothels (1571)](https://sexadvisor.com/brothels/) [Erotic Massages (1829)](https://sexadvisor.com/erotic-massages/) [FKK (194)](https://sexadvisor.com/fkk/) [Nightclubs (2142)](https://sexadvisor.com/nightclubs/) [Escort Agency (885)](https://sexadvisor.com/escort-agencies/) [Swinger Clubs (524)](https://sexadvisor.com/swinger-clubs/)
+[Brothels (1793)](https://sexadvisor.com/brothels/) [Erotic Massages (1985)](https://sexadvisor.com/erotic-massages/) [FKK (227)](https://sexadvisor.com/fkk/) [Nightclubs (2234)](https://sexadvisor.com/nightclubs/) [Escort Agency (846)](https://sexadvisor.com/escort-agencies/) [Swinger Clubs (547)](https://sexadvisor.com/swinger-clubs/)
 
 Sex Brothel Finder, the number one site for finding the best brothels
 =====================================================================
@@ -106,18 +106,6 @@ closest to you](https://sexadvisor.com/france/paris/les-chandelles/)[Les Chandel
 
 ![fr](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==) Paris, France](https://sexadvisor.com/france/paris/les-chandelles/)
 
-[Escort Agency
-
-closest to you](https://sexadvisor.com/france/paris/paris-babes/)[Paris Babes
-
-![fr](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==) Paris, France](https://sexadvisor.com/france/paris/paris-babes/)
-
-[Escort Agency
-
-closest to you](https://sexadvisor.com/france/paris/escorts-in-paris/)[Escorts in Paris
-
-![fr](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==) Paris, France](https://sexadvisor.com/france/paris/escorts-in-paris/)
-
 Overall rating
 
 2.0 /5
@@ -150,36 +138,6 @@ closest to you](https://sexadvisor.com/france/paris/paris-escort/)[Paris Escort
 
 Overall rating
 
-2.0 /5
-
-Excellent
-
-0
-
-Very good
-
-0
-
-Average
-
-0
-
-Poor
-
-2
-
-Terrible
-
-0
-
-[Escort Agency
-
-closest to you](https://sexadvisor.com/france/paris/sens-high-class-escort-paris/)[Sens High Class Escort (Paris)
-
-![fr](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==) Paris, France](https://sexadvisor.com/france/paris/sens-high-class-escort-paris/)
-
-Overall rating
-
 4.2 /5
 
 Excellent
@@ -188,7 +146,7 @@ Excellent
 
 Very good
 
-2
+3
 
 Average
 
@@ -210,57 +168,9 @@ closest to you](https://sexadvisor.com/france/paris/golden-dolls3/)[Golden Dolls
 
 [Escort Agency
 
-closest to you](https://sexadvisor.com/france/paris/girls-students/)[Girls Students
-
-![fr](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==) Paris, France](https://sexadvisor.com/france/paris/girls-students/)
-
-[Escort Agency
-
-closest to you](https://sexadvisor.com/france/paris/stars-models/)[Stars Models
-
-![fr](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==) Paris, France](https://sexadvisor.com/france/paris/stars-models/)
-
-[Escort Agency
-
-closest to you](https://sexadvisor.com/france/paris/babes-of-paris/)[Babes of Paris
-
-![fr](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==) Paris, France](https://sexadvisor.com/france/paris/babes-of-paris/)
-
-[Escort Agency
-
-closest to you](https://sexadvisor.com/france/paris/frgirls-net/)[Frgirls.net
-
-![fr](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==) Paris, France](https://sexadvisor.com/france/paris/frgirls-net/)
-
-[Escort Agency
-
-closest to you](https://sexadvisor.com/france/paris/roses-paris/)[Roses Paris
-
-![fr](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==) Paris, France](https://sexadvisor.com/france/paris/roses-paris/)
-
-[Escort Agency
-
 closest to you](https://sexadvisor.com/france/paris/collection-models/)[Collection Models
 
 ![fr](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==) Paris, France](https://sexadvisor.com/france/paris/collection-models/)
-
-[Escort Agency
-
-closest to you](https://sexadvisor.com/france/paris/model-4-tonight/)[Model 4 Tonight
-
-![fr](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==) Paris, France](https://sexadvisor.com/france/paris/model-4-tonight/)
-
-[Escort Agency
-
-closest to you](https://sexadvisor.com/france/paris/royal-plamates/)[Royal Plamates
-
-![fr](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==) Paris, France](https://sexadvisor.com/france/paris/royal-plamates/)
-
-[Escort Agency
-
-closest to you](https://sexadvisor.com/france/paris/real-models/)[Real Models
-
-![fr](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==) Paris, France](https://sexadvisor.com/france/paris/real-models/)
 
 [Escort Agency
 
@@ -270,63 +180,15 @@ closest to you](https://sexadvisor.com/france/paris/69-papillon/)[69 Papillon
 
 [Escort Agency
 
-closest to you](https://sexadvisor.com/france/paris/mia-elite-courtesan-paris/)[Mia Elite Courtesan Paris
-
-![fr](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==) Paris, France](https://sexadvisor.com/france/paris/mia-elite-courtesan-paris/)
-
-[Escort Agency
-
 closest to you](https://sexadvisor.com/france/paris/paris-models/)[Paris Models
 
 ![fr](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==) Paris, France](https://sexadvisor.com/france/paris/paris-models/)
 
 [Escort Agency
 
-closest to you](https://sexadvisor.com/france/paris/evita-girls/)[Evita Girls
-
-![fr](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==) Paris, France](https://sexadvisor.com/france/paris/evita-girls/)
-
-[Escort Agency
-
-closest to you](https://sexadvisor.com/france/paris/escort-service-paris-vika/)[Escort Service Paris Vika
-
-![fr](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==) Paris, France](https://sexadvisor.com/france/paris/escort-service-paris-vika/)
-
-[Escort Agency
-
-closest to you](https://sexadvisor.com/france/paris/only-the-best/)[Only the Best
-
-![fr](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==) Paris, France](https://sexadvisor.com/france/paris/only-the-best/)
-
-[Escort Agency
-
-closest to you](https://sexadvisor.com/france/paris/vip-escorts-girls/)[VIP Escorts Girls
-
-![fr](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==) Paris, France](https://sexadvisor.com/france/paris/vip-escorts-girls/)
-
-[Escort Agency
-
-closest to you](https://sexadvisor.com/france/paris/dreams-for-me/)[Dreams For Me
-
-![fr](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==) Paris, France](https://sexadvisor.com/france/paris/dreams-for-me/)
-
-[Escort Agency
-
 closest to you](https://sexadvisor.com/france/paris/models-of-france/)[Models of France
 
 ![fr](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==) Paris, France](https://sexadvisor.com/france/paris/models-of-france/)
-
-[Escort Agency
-
-closest to you](https://sexadvisor.com/france/paris/supermodel-escorts/)[Supermodel Escorts
-
-![fr](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==) Paris, France](https://sexadvisor.com/france/paris/supermodel-escorts/)
-
-[Escort Agency
-
-closest to you](https://sexadvisor.com/france/paris/your-escort-models/)[Your Escort Models
-
-![fr](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==) Paris, France](https://sexadvisor.com/france/paris/your-escort-models/)
 
 Overall rating
 
@@ -357,36 +219,6 @@ Terrible
 closest to you](https://sexadvisor.com/france/paris/gaia-massage/)[Gaia Massage
 
 ![fr](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==) Paris, France](https://sexadvisor.com/france/paris/gaia-massage/)
-
-Overall rating
-
-5.0 /5
-
-Excellent
-
-1
-
-Very good
-
-0
-
-Average
-
-0
-
-Poor
-
-0
-
-Terrible
-
-0
-
-[Escort Agency
-
-closest to you](https://sexadvisor.com/france/paris/world-elite-companions/)[World Elite Companions
-
-![fr](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==) Paris, France](https://sexadvisor.com/france/paris/world-elite-companions/)
 
 Overall rating
 
@@ -508,7 +340,7 @@ closest to you](https://sexadvisor.com/france/paris/sauna-provence/)[Sauna Prove
 
 Overall rating
 
-3.2 /5
+3.1 /5
 
 Excellent
 
@@ -528,7 +360,7 @@ Poor
 
 Terrible
 
-2
+3
 
 [![Natur & Zen](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
@@ -824,6 +656,358 @@ closest to you](https://sexadvisor.com/france/paris/sauna-cameleon/)[Sauna Camel
 
 ![fr](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==) Paris, France](https://sexadvisor.com/france/paris/sauna-cameleon/)
 
+[![Château des Lys](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+Nightclubs
+
+closest to you](https://sexadvisor.com/france/paris/chateau-des-lys/)[Château des Lys
+
+![fr](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==) Paris, France](https://sexadvisor.com/france/paris/chateau-des-lys/)
+
+[![Bijoux Noir L'Aisance Des Sens](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+Erotic Massages
+
+closest to you](https://sexadvisor.com/france/paris/bijoux-noir-l-aisance-des-sens/)[Bijoux Noir L'Aisance Des Sens
+
+![fr](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==) Paris, France](https://sexadvisor.com/france/paris/bijoux-noir-l-aisance-des-sens/)
+
+Overall rating
+
+1.5 /5
+
+Excellent
+
+0
+
+Very good
+
+0
+
+Average
+
+0
+
+Poor
+
+1
+
+Terrible
+
+1
+
+[![Secret Square](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+Nightclubs
+
+closest to you](https://sexadvisor.com/france/paris/secret-square/)[Secret Square
+
+![fr](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==) Paris, France](https://sexadvisor.com/france/paris/secret-square/)
+
+[![Rituel Foch](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+Swinger club
+
+closest to you](https://sexadvisor.com/france/paris/rituel-foch/)[Rituel Foch
+
+![fr](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==) Paris, France](https://sexadvisor.com/france/paris/rituel-foch/)
+
+[![Qai 17](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+Nightclubs
+
+closest to you](https://sexadvisor.com/france/paris/qai-17/)[Qai 17
+
+![fr](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==) Paris, France](https://sexadvisor.com/france/paris/qai-17/)
+
+Overall rating
+
+2.0 /5
+
+Excellent
+
+1
+
+Very good
+
+0
+
+Average
+
+1
+
+Poor
+
+1
+
+Terrible
+
+4
+
+[![Natur & Zen](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+Erotic Massages
+
+closest to you](https://sexadvisor.com/france/paris/natur-zen/)[Natur & Zen
+
+![fr](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==) Paris, France](https://sexadvisor.com/france/paris/natur-zen/)
+
+Overall rating
+
+3.4 /5
+
+Excellent
+
+8
+
+Very good
+
+10
+
+Average
+
+8
+
+Poor
+
+2
+
+Terrible
+
+5
+
+[![WA-TAÏ](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+Erotic Massages
+
+closest to you](https://sexadvisor.com/france/paris/wa-tai/)[WA-TAÏ
+
+![fr](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==) Paris, France](https://sexadvisor.com/france/paris/wa-tai/)
+
+Overall rating
+
+3.4 /5
+
+Excellent
+
+3
+
+Very good
+
+1
+
+Average
+
+3
+
+Poor
+
+1
+
+Terrible
+
+1
+
+[![The Dream Studio](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+Nightclubs
+
+closest to you](https://sexadvisor.com/france/paris/the-dream-studio/)[The Dream Studio
+
+![fr](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==) Paris, France](https://sexadvisor.com/france/paris/the-dream-studio/)
+
+[![Shoushou Club](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+Swinger club](https://sexadvisor.com/belgium/bernissart/shoushou-club/)[Shoushou Club
+
+![be](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==) Bernissart, Belgium](https://sexadvisor.com/belgium/bernissart/shoushou-club/)
+
+Overall rating
+
+5.0 /5
+
+Excellent
+
+1
+
+Very good
+
+0
+
+Average
+
+0
+
+Poor
+
+0
+
+Terrible
+
+0
+
+[![Only4you](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+Swinger club](https://sexadvisor.com/belgium/merbes-le-chateau/only4you/)[Only4you
+
+![be](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==) Merbes-le-Château, Belgium](https://sexadvisor.com/belgium/merbes-le-chateau/only4you/)
+
+Overall rating
+
+5.0 /5
+
+Excellent
+
+1
+
+Very good
+
+0
+
+Average
+
+0
+
+Poor
+
+0
+
+Terrible
+
+0
+
+[![Mi Noi](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+Swinger club](https://sexadvisor.com/belgium/tournai/mi-noi/)[Mi Noi
+
+![be](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==) Tournai, Belgium](https://sexadvisor.com/belgium/tournai/mi-noi/)
+
+[![Au Pas Sage Secret](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+Swinger club](https://sexadvisor.com/belgium/anderlues/au-pas-sage-secret/)[Au Pas Sage Secret
+
+![be](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==) Anderlues, Belgium](https://sexadvisor.com/belgium/anderlues/au-pas-sage-secret/)
+
+[![Le Cap Hot](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+Swinger club](https://sexadvisor.com/belgium/menen/le-cap-hot/)[Le Cap Hot
+
+![be](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==) Menen, Belgium](https://sexadvisor.com/belgium/menen/le-cap-hot/)
+
+Overall rating
+
+4.8 /5
+
+Excellent
+
+3
+
+Very good
+
+1
+
+Average
+
+0
+
+Poor
+
+0
+
+Terrible
+
+0
+
+[![L Ascott Club Prive](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+Brothels](https://sexadvisor.com/belgium/kortrijk/l-ascott-club-prive/)[L Ascott Club Prive
+
+![be](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==) Kortrijk, Belgium](https://sexadvisor.com/belgium/kortrijk/l-ascott-club-prive/)
+
+[![Menin 51](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+Swinger club](https://sexadvisor.com/belgium/menen/menin-51/)[Menin 51
+
+![be](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==) Menen, Belgium](https://sexadvisor.com/belgium/menen/menin-51/)
+
+Overall rating
+
+2.5 /5
+
+Excellent
+
+0
+
+Very good
+
+1
+
+Average
+
+1
+
+Poor
+
+1
+
+Terrible
+
+1
+
+[![Mystique Bar](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+Nightclubs](https://sexadvisor.com/belgium/ieper/mystique-bar/)[Mystique Bar
+
+![be](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==) Ieper, Belgium](https://sexadvisor.com/belgium/ieper/mystique-bar/)
+
+[![New Fantasme](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+Swinger club](https://sexadvisor.com/belgium/charleroi/new-fantasme/)[New Fantasme
+
+![be](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==) Charleroi, Belgium](https://sexadvisor.com/belgium/charleroi/new-fantasme/)
+
+[![Eyes Club](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+Brothels](https://sexadvisor.com/belgium/harelbeke/eyes-club/)[Eyes Club
+
+![be](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==) Harelbeke, Belgium](https://sexadvisor.com/belgium/harelbeke/eyes-club/)
+
+Overall rating
+
+4.0 /5
+
+Excellent
+
+1
+
+Very good
+
+3
+
+Average
+
+1
+
+Poor
+
+0
+
+Terrible
+
+0
+
+[![Loft Club](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+Swinger club](https://sexadvisor.com/belgium/charleroi/loft-club/)[Loft Club
+
+![be](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==) Charleroi, Belgium](https://sexadvisor.com/belgium/charleroi/loft-club/)
+
+[![Acanthus](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+Swinger club](https://sexadvisor.com/belgium/harelbeke/acanthus/)[Acanthus
+
+![be](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==) Harelbeke, Belgium](https://sexadvisor.com/belgium/harelbeke/acanthus/)
+
 * Back
 * ...
 * 1
@@ -838,7 +1022,7 @@ closest to you](https://sexadvisor.com/france/paris/sauna-cameleon/)[Sauna Camel
 * [...](https://sexadvisor.com/terms/10)
 * [Next](https://sexadvisor.com/terms/2)
 
-### Theatre Chochotte, Les Chandelles, Paris Babes, Escorts in Paris, Paris Escort, Sens High Class Escort (Paris), Golden Dolls, Girls Students, Stars Models, Babes of Paris, Frgirls.net, Roses Paris, Collection Models, Model 4 Tonight, Royal Plamates, Real Models, 69 Papillon, Mia Elite Courtesan Paris, Paris Models, Evita Girls, Escort Service Paris Vika, Only the Best, VIP Escorts Girls, Dreams For Me, Models of France, Supermodel Escorts, Your Escort Models, Gaia Massage, World Elite Companions, Love Spa Eclypse Sauna, Chloé Erotic Massages Paris, The Mask Club, Taken-Club, Overside, Sauna Provence, Natur & Zen, 2Plus2, Yoko Institute, Tantrahome Relaxation Massages, Le Boudoir de Gala, Sweet Sensations, SAOUNA MASSAGE PARIS, Pink Paradise, Star City, Moon City Sauna, Michou, Azur Club Chez Regina, Crazy Horse, Atlantide Sauna Hammam, Bal du Moulin Rouge, Penthouse Club, Cris & Chuchotements, Le Bain des Sens, Sauna Cameleon
+### Theatre Chochotte, Les Chandelles, Paris Escort, Golden Dolls, Collection Models, 69 Papillon, Paris Models, Models of France, Gaia Massage, Love Spa Eclypse Sauna, Chloé Erotic Massages Paris, The Mask Club, Taken-Club, Overside, Sauna Provence, Natur & Zen, 2Plus2, Yoko Institute, Tantrahome Relaxation Massages, Le Boudoir de Gala, Sweet Sensations, SAOUNA MASSAGE PARIS, Pink Paradise, Star City, Moon City Sauna, Michou, Azur Club Chez Regina, Crazy Horse, Atlantide Sauna Hammam, Bal du Moulin Rouge, Penthouse Club, Cris & Chuchotements, Le Bain des Sens, Sauna Cameleon, Château des Lys, Bijoux Noir L'Aisance Des Sens, Secret Square, Rituel Foch, Qai 17, Natur & Zen, WA-TAÏ, The Dream Studio, Shoushou Club, Only4you, Mi Noi, Au Pas Sage Secret, Le Cap Hot, L Ascott Club Prive, Menin 51, Mystique Bar, New Fantasme, Eyes Club, Loft Club, Acanthus
 
 All Countries
 
@@ -1028,7 +1212,7 @@ All Countries
     * [Freistadt 1](https://sexadvisor.com/austria/freistadt/)
     * [Geinberg 1](https://sexadvisor.com/austria/geinberg/)
     * [Gniebing 1](https://sexadvisor.com/austria/gniebing/)
-    * [Graz 41](https://sexadvisor.com/austria/graz/)
+    * [Graz 42](https://sexadvisor.com/austria/graz/)
     * [Hadersdorf am Kamp 1](https://sexadvisor.com/austria/hadersdorf-am-kamp/)
     * [Haibach bei Schärding 1](https://sexadvisor.com/austria/haibach-bei-scharding/)
     * [Hitzendorf 1](https://sexadvisor.com/austria/hitzendorf/)
@@ -1505,7 +1689,7 @@ All Countries
     * [Frankfurt (Oder) 3](https://sexadvisor.com/germany/frankfurt-oder/)
     * [Frankfurt am Main 28](https://sexadvisor.com/germany/frankfurt-am-main/)
     * [Frechen 2](https://sexadvisor.com/germany/frechen/)
-    * [Freiburg im Breisgau 7](https://sexadvisor.com/germany/freiburg-im-breisgau/)
+    * [Freiburg im Breisgau 11](https://sexadvisor.com/germany/freiburg-im-breisgau/)
     * [Friedrichsdorf 1](https://sexadvisor.com/germany/friedrichsdorf/)
     * [Fürth 6](https://sexadvisor.com/germany/furth/)
     * [Gelsenkirchen 1](https://sexadvisor.com/germany/gelsenkirchen/)
@@ -2479,7 +2663,7 @@ All Countries
     * [Ivankiv 3](https://sexadvisor.com/ukraine/ivankiv/)
     * [Ivano-Frankivs'k 1](https://sexadvisor.com/ukraine/ivano-frankivs-k/)
     * [Ivano-Frankivs'k 1](https://sexadvisor.com/ukraine/ivano-frankivs-k2/)
-    * [Kharkiv 18](https://sexadvisor.com/ukraine/kharkiv/)
+    * [Kharkiv 19](https://sexadvisor.com/ukraine/kharkiv/)
     * [Kryvyi Rih 1](https://sexadvisor.com/ukraine/kryvyi-rih/)
     * [Kyiv 33](https://sexadvisor.com/ukraine/kyiv/)
     * [L'viv 1](https://sexadvisor.com/ukraine/l-viv/)
@@ -3078,7 +3262,6 @@ All Countries
     * [Tyler 2](https://sexadvisor.com/united-states/tyler/)
     * [Umatilla 1](https://sexadvisor.com/united-states/umatilla/)
     * [Urbana 1](https://sexadvisor.com/united-states/urbana/)
-    * [Valley View 1](https://sexadvisor.com/united-states/valley-view/)
     * [Vernon 2](https://sexadvisor.com/united-states/vernon/)
     * [Victoria 2](https://sexadvisor.com/united-states/victoria/)
     * [Virginia 1](https://sexadvisor.com/united-states/virginia/)
