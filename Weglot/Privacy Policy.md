@@ -320,376 +320,609 @@ Learn the best website translation practices through our online courses and earn
 
 [Get Started](https://dashboard.weglot.com/register)
 
-The easiest way to translate a website
-======================================
+Privacy Policy
+==============
 
-Everything you need to translate, display and manage your multilingual website, with full editing control.
+As an innovative player in the digital economy, we are particularly concerned about the protection of our users’ personal data.
 
-[Get started for free](https://dashboard.weglot.com/register)
+You will find below WEGLOT’s Privacy Policy, which explains our practices and commitments with respect to the processing of your personal data, in particular in accordance with the General Data Protection Regulation (GDPR).
 
-_No commitment_
+By browsing the Weglot website and using its services, you agree to this privacy policy. Aware of the importance of clear and transparent information in this regard, we have integrated various tables and visuals to help you better understand and exercise your rights.
 
-4.8
+**This policy was last updated on 2023/10/01.**
 
-★★★★★
+Who is responsible for the processing of your data?
+---------------------------------------------------
 
-G2 Reviews
+WEGLOT is a simplified joint-stock company whose head office is located at 7 cité Paradis in Paris (75010). Among other things, it manages the website weglot.com, which offers translation services.
 
-4.9
+Within the framework of the activities of this company, we are likely to collect and process personal data relating to our customers, users, prospects, suppliers/providers as well as our other interlocutors.
 
-★★★★★
+These various data processing operations are detailed in this Privacy Policy.
 
-WordPress Plugin Directory
+**WEGLOT is responsible for these various data processing operations within the meaning of the** [**General Data Protection Regulation (GDPR)**](https://www.cnil.fr/fr/reglement-europeen-protection-donnees/)**.**
 
-4.9
+This means that we are your point of contact for any questions or concerns regarding the collection and use of this data. You can do this by writing to us at the address [\[email protected\]](https://weglot.com/cdn-cgi/l/email-protection)
 
-★★★★★
+> **Important** : We are not responsible for data processing consisting in the translation and posting of content provided by our clients for translation via our services; if you consider that this content violates your privacy or the protection of your personal data, we invite you to contact the publisher of this content directly.
 
-Trustpilot
+What data is collected about you, and for what purpose?
+-------------------------------------------------------
 
-Join 70,000+ global brands from every industry
-----------------------------------------------
+For the sake of clarity, we have detailed the various data processing operations that we implement according to the relationship that binds us to the persons concerned by these operations:
 
-![hbo](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/6560d6dd514c51af627b81a7_HBO%20logo.svg)
+* You are a client or user of our services (or the representative of one of our clients)
+* You are a candidate for a position at WEGLOT
+* You are one of our suppliers or providers (or the representative of one of our suppliers or providers)
+* You are a potential client of our services (prospecting and advertising)
+* You are one of our business contributors (affiliation contract)
+* You are involved in a dispute (actual or potential) with WEGLOT
+* You are in contact with WEGLOT for a reason other than the above.
 
-![](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/6560d6ddcaeea4497815c0a4_IBM%20logo.svg)
+‍
 
-![Nielsen logo](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/6618f1dde9766d9949b6cdb4_Nielsen.webp)
+### 1\. You are a client or user of our services (or the representative of one of our clients)
 
-![](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/6560d6dd1c95b74eceb7ecc4_NCR%20logo.svg)
+#### a. Login to weglot.com
 
-![Amazon logo](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/6618f0fd2756fb27f224c233_Amazon-white.webp)
+When you connect to the weglot.com site, a certain amount of data is automatically collected by the site host concerning your terminal (computer, smartphone, tablet) and your browser. This includes your IP address.
 
-![Roche](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/64f71b9bb5158f0e30e57650_Roche.svg)
+This data is collected in order to ensure the connection between your terminal and the site’s servers, as well as later to detect bugs and cyber-attack attempts.
 
-Say goodbye to language barriers
---------------------------------
+The collection and processing of this data is thus justified by WEGLOT’s legitimate interest in providing a site that is functional, secure and adapted to the different types of terminals and browsers available on the market, in accordance with article 6.1.f) of the GDPR.
 
-![Weglot integration ](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/649166b9c984df721fed1cad_Group%205139836.svg)
+#### b. Cookies for audience measurement
 
-![Pattern 8](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/646cc30ee38b3f6c5226a15a_Pattern.svg)
+The weglot.com website uses audience measurement cookies (Google Analytics cookies). These cookies collect data relating to your navigation, such as the pages visited, the contents consulted or the duration of navigation.
 
-Remove the complexity  
-of website translation
-----------------------------------------------
+This data is aggregated and used to understand the preferences of our users in order to improve the presentation and content of the site. This use is justified by WEGLOT’s legitimate interest in improving its site and its content, in accordance with article 6.1.f) of the GDPR.
 
-Connect Weglot with any website technology for a fully translated and displayed website in minutes. Without development efforts, our simple integration can be handled by anyone in your team.
+#### c. Cookies allowing the correction of bugs encountered on the platform
 
-[See our integrations
+The weglot.com site also uses, with your authorisation (which is requested when you register for the service) cookies allowing the reproduction and correction of bugs encountered on the dashboard. These cookies are only used on the dashboard.weglot.com sub-domain.
 
-![Blue arrow
-](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/646b24412fc9ba17a80070fe_Vector.webp)](https://weglot.com/integrations)
+These cookies collect data relating to your navigation, allowing to visually reproduce the moment of your navigation when the bug occurred. This data may also be used to analyse the browsing preferences of our users and evolve the site on that basis.
 
-Put your website translation project on autopilot
--------------------------------------------------
+This data is thus used for the purpose of reproducing, analysing and correcting bugs encountered by users on the site. Their collection and use are justified by WEGLOT’s legitimate interest in improving its site, in accordance with article 6.1.f) of the GDPR.
 
-Automatic content detection scans and detects the text, images, and SEO metadata of your site, replacing the process of manually gathering website content for translation. Just sit back and let Weglot continuously detect and translate any new content or page as you go.
+[**Change my cookie preferences**](http://javascript:openAxeptioCookies())
 
-[Discover how to automate your workflow
+#### d. Customer management
 
-![Blue arrow
-](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/646b24412fc9ba17a80070fe_Vector.webp)](https://weglot.com/automatic-workflow)
+In order to ensure the proper follow-up of our customer relationship, and to manage the various aspects of this relationship (including billing), we collect a certain amount of information about our contacts (customers or customer representatives), such as their full name, e-mail address, business mailing address and telephone number. We also keep a copy of written exchanges with these interlocutors.
 
-![Weglot content detection](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/649167d1843009bf0053dd99_Skeleton%20-%20Content%20detection%201%20(1).svg)![Website mockup header image](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/646cc3fede7459f018f4faeb_Img.webp)
+All such data is retained for the duration of the customer relationship and thereafter for the applicable limitation period for the purposes of dispute management as described under point 6 below.
 
-![](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/646cc52c30c08c80dd954938_Vector%2082.svg)
+This data processing is justified by WEGLOT’s legitimate interest in ensuring the management of its customer relations, in accordance with article 6.1.f) of the GDPR.
 
-![Weglot team management](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/649167d1ce1ed295b010c233_Group%205139837%20(2).svg)![Collaborate with teammates](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/646cc6a80869f1443cdb6957_Group%205139830.webp)![Male user profile photo](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/646cc706083793119f9828db_Img.webp)
+#### e. Sales and technical support
 
-Translation quality without months of manual work
--------------------------------------------------
+When you ask us to resolve a business or technical issue, we collect certain information related to the Support Ticket, such as the full name and email address of the ticket issuer, the date and time of the ticket, and the circumstances of the reported issue.
 
-Remove lengthy back-and-forth processes between the marketing team, translators, and developers with integrated translation management tools. Get complete editing control over your translations by adding translators to your dashboard, assigning tasks, collaborating with teammates and/or ordering professional translations within your own Weglot project dashboard.
+This data is retained until the problem is resolved, and then for the applicable limitation period for the purposes of dispute management described in point 6 below.
 
-[Learn more about translation quality
+This data processing is justified by WEGLOT’s legitimate interest in offering technical and commercial support to its clients, in accordance with article 6.1.f) of the GDPR.
 
-![Blue arrow
-](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/646b24412fc9ba17a80070fe_Vector.webp)](https://weglot.com/translation-quality)
+#### f. Accounting management
 
-Reach new audiences  
-with multilingual SEO
--------------------------------------------
+Information relating to our clients and our clients’ representatives may appear in various documents (invoices, etc.) that we keep for accounting management purposes.
 
-Say hi to your new visitors! Automatically created language subdomains or subdirectories, hreflang tag implementation, and translated metadata rank your translated pages on search engines.
+The conservation of these documents, and consequently, the data they include, is ensured by WEGLOT for 10 years from the end of the fiscal year in question, in accordance with our legal obligations in this matter.
 
-[Read more about multilingual SEO
+This data processing is thus justified by legal obligations incumbent on WEGLOT, in accordance with article 6.1.c) of the GDPR.
 
-![Blue arrow
-](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/646b24412fc9ba17a80070fe_Vector.webp)](https://weglot.com/multilingual-seo)
+#### g. Improving our products and services
 
-![Weglot multilingual SEO](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/649166b9c1eb2dea690d6fd8_Skeleton%20-%20Multilingual%20SEO.svg)![Pattern 6](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/646cc848de7459f018f99c03_pattern.svg)
+We use data related to the use of our translation services to evolve these products and services to make them more effective for our customers.
 
-[\+ See all integrations](https://weglot.com/integrations)
+The data processed for this purpose includes user navigation data on our services, as well as content provided by our customers to be translated via our services.
 
-[![WordPress
-translation plugin](https://cdn.prod.website-files.com/646343df6afc95b84af2d36c/66190ec3bd104cec7fb5633e_WordPress.webp)](https://weglot.com/integrations/wordpress-translation-plugin)
+We keep this data only for the time necessary for the analysis that allows us to identify ways to improve our services.
 
-[![Webflow multilingual solution](https://cdn.prod.website-files.com/646343df6afc95b84af2d36c/66191017bbdf2eeae84374da_Webflow.webp)](https://weglot.com/integrations/translate-webflow)
+This data processing is justified by WEGLOT’s legitimate interest in developing and improving its products and services, in accordance with article 6.1.f) of the GDPR.
 
-[![Shopify translation app](https://cdn.prod.website-files.com/646343df6afc95b84af2d36c/66190fec471caacdc6cd4670_Shopify.webp)](https://weglot.com/integrations/shopify-translation-app)
+#### h. Updates on Weglot Sub-Processors
 
-[![Squarespace multilingual extension](https://cdn.prod.website-files.com/646343df6afc95b84af2d36c/66191165bd104cec7fb7afcc_SquareSpace.webp)](https://weglot.com/integrations/translate-squarespace-website)
+We collect your email address to inform you of any change on Weglot’s Sub-Processors list, which you can access here [https://trust.weglot.com/](https://trust.weglot.com/).
 
-[![Wix multilingual solution](https://cdn.prod.website-files.com/646343df6afc95b84af2d36c/6619110be0769de30190d8f1_Wix.webp)](https://weglot.com/integrations/wix-multilingual-website)
+This data is retained for the duration of the customer relationship.
 
-[![Bubble multilingual solution](https://cdn.prod.website-files.com/646343df6afc95b84af2d36c/661910d1f1663424c7218d31_Bubble.webp)](https://weglot.com/integrations/translate-bubble-website)
+This data processing is justified by WEGLOT’s compliance with a legal obligation to inform the customer on any change regarding the sub-processors list, in accordance with article 6.1.c) of the GDPR.
 
-[![JavaScript translation snippet](https://cdn.prod.website-files.com/646343df6afc95b84af2d36c/6619126c949f7cd002ee47de_JS.webp)](https://weglot.com/integrations/translate-website-javascript)
+#### i. Tracking Adwords Campaign Conversions
 
-[![Translate your BigCommerce store](https://cdn.prod.website-files.com/646343df6afc95b84af2d36c/661911f7335585aaa62b5d76_BigCommerce.webp)](https://weglot.com/integrations/translate-bigcommerce-website)
+We use Google's conversion tracking service for our Adwords campaigns, which allows us to determine the percentage of our customers who discovered us through the Adwords service.
 
-[![Translate your Square Online store](https://cdn.prod.website-files.com/646343df6afc95b84af2d36c/6619115fbba67f40a5e9dc73_SquareOnline.webp)](https://weglot.com/integrations/translate-square-online-store)
+The data collected includes your email, which is sent to Google in a hashed form. In other words, we do not send any personally identifiable data to Google as part of this process.
 
-[![Translate your website](https://cdn.prod.website-files.com/646343df6afc95b84af2d36c/6619120e91190b3f296f83b5_Custom%20Code.webp)](https://weglot.com/integrations/translate-website)
+However, since this processing may be justified for marketing purposes and in accordance with the CNIL's guidelines on hashing techniques, this data processing is subject to your consent as governed by GDPR 6.1.a).
 
-[![WooCommerce translation plugin](https://cdn.prod.website-files.com/646343df6afc95b84af2d36c/66191101b6c7e82f239725c7_WooCommerce.webp)](https://weglot.com/integrations/woocommerce-translation-plugin)
+### 2\. You are a candidate for a position at WEGLOT
 
-[![Translate your Help Scout docs](https://cdn.prod.website-files.com/646343df6afc95b84af2d36c/661913c51e8a837ea028e5f7_HelpScout.webp)](https://weglot.com/integrations/translate-your-helpscout-docs)
+If you apply for a position at WEGLOT, and send us information about yourself (resume, cover letter, letter of recommendation, etc.), we will use this information for the time necessary to process your application.
 
-[![Translate your Jimdo website](https://cdn.prod.website-files.com/646343df6afc95b84af2d36c/66192315993f4737cb807072_Jimdo.webp)](https://weglot.com/integrations/jimdo-translation-app)
+This data processing is justified by its necessity for pre-contractual measures implemented at your request, in accordance with article 6.1.b) of the GDPR.
 
-[![Elementor translation plugin](https://cdn.prod.website-files.com/646343df6afc95b84af2d36c/661910eacca0ecf58683824b_Elementor.webp)](https://weglot.com/integrations/elementor-translation)
+We are also likely, in case of refusal of your application, to keep the related information (application file) for 2 years, in order to contact you again (if we consider it relevant) to offer you other positions.
 
-[![Learnworlds translation](https://cdn.prod.website-files.com/646343df6afc95b84af2d36c/65819e5b713b9c44fb29da09_Learnworlds.svg)](https://weglot.com/integrations/learnworlds-translation)
+This retention of your data is justified by WEGLOT’s legitimate interest in ensuring its long-term recruitment, in accordance with Article 6.1.f) of the GDPR. In accordance with the recommendations of the CNIL in this matter, we will give you the possibility to refuse this long-term retention in case of rejection of your application.
 
-[![Translate your Zendesk Help Center](https://cdn.prod.website-files.com/646343df6afc95b84af2d36c/6479bca6230dbbddbfbe1c2e_646cca166b6fe7807b9f58df_Clip%2520path%2520group%2520(6).webp)](https://weglot.com/integrations/translate-zendesk-help-center)
+### 3\. You are one of our suppliers or providers (or the representative of one of our suppliers or providers)
 
-[![WordPress
-translation plugin](https://cdn.prod.website-files.com/646343df6afc95b84af2d36c/66190ec3bd104cec7fb5633e_WordPress.webp)](https://weglot.com/integrations/wordpress-translation-plugin)
+#### a. Business Relationship Management
 
-[![Shopify translation app](https://cdn.prod.website-files.com/646343df6afc95b84af2d36c/66190fec471caacdc6cd4670_Shopify.webp)](https://weglot.com/integrations/shopify-translation-app)
+In order to manage our relationships with our suppliers and service providers, it is necessary for us to collect a certain amount of information relating to our contacts at these suppliers and service providers. This data consists mainly of the surname, first name, e-mail address, postal address and telephone number of the said interlocutors; we also keep a record of our written exchanges with the latter.
 
-[![WooCommerce translation plugin](https://cdn.prod.website-files.com/646343df6afc95b84af2d36c/66191101b6c7e82f239725c7_WooCommerce.webp)](https://weglot.com/integrations/woocommerce-translation-plugin)
+All such data shall be retained for the duration of our business relationship with the respective supplier/service provider and thereafter for the applicable limitation period for the purposes of dispute management as described under point 6 below.
 
-[![Wix multilingual solution](https://cdn.prod.website-files.com/646343df6afc95b84af2d36c/6619110be0769de30190d8f1_Wix.webp)](https://weglot.com/integrations/wix-multilingual-website)
+This data processing is justified by WEGLOT’s legitimate interest in ensuring the proper management of its commercial relations with its suppliers and service providers, in accordance with article 6.1.f) of the GDPR.
 
-[![SAP Commerce Cloud translation plugin](https://cdn.prod.website-files.com/646343df6afc95b84af2d36c/66191115ec25742be2273182_SAP.webp)](https://weglot.com/integrations/translate-your-sap-commerce-cloud-store)
+#### b. Accounting management
 
-Connect Weglot easily with your favorite tools
-----------------------------------------------
+In addition, information relating to our suppliers/providers and the representatives of our suppliers/providers may appear in various documents (invoices, etc.) that we keep for accounting purposes.
 
-Don’t change the way your website works. Weglot is compatible with all Content Management Systems, web technologies and tools.
+The conservation of these documents, and consequently, the data they include, is ensured by WEGLOT for 10 years from the end of the fiscal year in question, in accordance with our legal obligations in this matter.
 
-[Explore all integrations
+This data processing is thus justified by legal obligations incumbent on WEGLOT, in accordance with article 6.1.c) of the GDPR.
 
-![Blue arrow
-](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/646b24412fc9ba17a80070fe_Vector.webp)](https://weglot.com/integrations)
+### 4\. You are a potential customer of our services (prospecting and advertising)
 
-![Time to open your website to the world](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/646cf62ba8237b6a7a057a6d_Illustration%20Royal%20Blue.svg)
+#### a. Newsletter
 
-Time to open your  
-website to the world
-----------------------------------------
+To subscribe to our newsletter, we need to collect your email address. This will be used for the sole purpose of sending you the newsletter for the duration of your subscription.
 
-Get started for free and have a multilingual website up and running in minutes.
+This processing of your e-mail address is based on your consent (article 6.1.a) of the GDPR), expressed through your subscription to the newsletter; you may withdraw this consent at any time.
 
-[Get started for free](https://dashboard.weglot.com/register/)
+We will also stop sending you the newsletter if you stop opening this newsletter for 3 consecutive years.
 
-Hear it from our satisfied customers
-------------------------------------
+#### b. Campaign adwords
 
-Weglot’s impact speaks for itself with customers reporting more than a 400% traffic and a 20% conversion rate increase!
+We set up adwords advertising campaigns on different search engines to promote our products and services.
 
-![G2 best usability](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/6615705623fcdfb32d15ebba_usability.svg)![Leader G2 badge](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/6618edd9ea0e246de5ffa6f6_Leader.svg)![Best support G2 badge](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/66157056e902e166f1d17ae6_best%20support.svg)
+These campaigns involve the collection and processing of certain navigation data by the publishers of the search engines in question, including your user agent and the terms of the query you have formulated in the search engine.
 
-[![](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/646cf91d5c1fa0c80e1de661_the-bradery-logo_v2%201.webp)
+This data is used to display the WEGLOT advertising links corresponding to your request, and to edit adwords campaign performance statistics, which is the only information we access.
 
-“Weglot removed the pain of having to manage multiple stores for multiple locales. The integration was easy and the support is incredibly helpful. I highly recommend Weglot to anyone looking for a simple and cost-effective solution to translate their stores!”
+This data processing is justified by WEGLOT’s legitimate interest in promoting its products and services, in accordance with article 6.1.f) of the GDPR.
 
-![](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/6489dea47bc219a9dcc1e40e_1618420859867.jpeg)
+#### c. Targeted advertising and retargeting
 
-Adèle Aubry
+In addition, we use targeted advertising and retargeting services provided by advertising agencies on various sites and social networks (such as Facebook Ads or LinkedIn Ads) to promote our products and services.
 
-Oct. 11, 2023](#)
+These targeted advertising and retargeting services involve the processing of personal data about you, such as navigational data to establish your “profile” and to present you with advertisements adapted to this profile, as well as information about your behaviour with respect to these advertisements (views, clicks, etc.).
 
-[![](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/6489ddd145d33acf455d62e5_Nikon%20logo%20(1).webp)
+WEGLOT never accesses this profile data, but only the advertising campaign reports established by the advertising agencies concerned and containing aggregated information (total number of views, total number of clicks, etc.).
 
-“Weglot removed the pain of having to manage multiple stores for multiple locales. The integration was easy and the support is incredibly helpful. I highly recommend Weglot to anyone looking for a simple and cost-effective solution to translate their stores!”
+This data processing is justified by WEGLOT’s legitimate interest in promoting its products and services, in accordance with article 6.1.f) of the GDPR.
 
-![Mike Robertson](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/6489dee3a6e32d4132566208_mike-robertson-963df14d.jpg)
+#### d. Prospecting by email (B2B)
 
-Mike Robertson
+We may collect business email addresses accessible on the web through various tools and databases, for the purpose of promoting our B2B services through the sending of emails.
 
-Oct. 11, 2023](#)
+The collection of these professional email addresses and their use in the context of B2B email prospecting is justified by WEGLOT’s legitimate interest in promoting its services to a professional public, in accordance with article 6.1.f) of the GDPR.
 
-[![](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/648b224daada888aef0cec68_reviews-logo%201%20(1).webp)
+We will stop using your address for this purpose if you object, and in any case if we remain without contact from you for 3 consecutive years.
 
-“Whilst providing a localized product has historically involved costly translation services and constant updates, Weglot makes the whole process simple and instantaneous. For REVIEWS.io, this has really helped us accelerate our entry into Germany”
+#### e. Affiliate Program
 
-![](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/648b21b17b616592e1f6a0d1_Shane%20Forster.jpeg)
+We have set up an affiliate program, through which publishers of sites and applications can commit to advertise our services on their sites and applications.
 
-Shane Forster
+The operation of this program implies that we are able to identify new customers who come to us through these business links.
 
-Oct. 11, 2023](#)
+To do this, we use an affiliate cookie, which is placed on your device when you click on an advertisement for WEGLOT services on a partner site or application. This cookie is kept on your terminal for 60 days to allow us to identify you if you subscribe to our services during this 60-day period. The data collected via the affiliate cookie is also deleted after 60 days.
 
-[![](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/648b22eda72266daf603a89f_Property%201%3DVolcom.webp)
+We have a binding agreement in place with our various business contributors to the affiliate program to ensure that the affiliate cookie is not deposited without your prior consent.
 
-“We needed a quick solution to launch our Italian store. Immediate translations accelerated our conversions and let our merchandisers focus on other tasks. We now have more flexibility and launch available stock much faster.”
+> **Important**: With regard to this processing of your data in connection with the affiliate system, WEGLOT shares responsibility with the business contributor on whose site or application the advertisement on which you clicked is located. Nevertheless, in order to facilitate the exercising of your rights, WEGLOT is designated as your contact for any questions or requests relating to this processing, which you may address to us as explained in the section below entitled “What rights do you have to control the processing of your data? ».
 
-![Matthieu Galtie](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/648b22c070b30fac1c265c9a_Matthieu%20GALTIE.jpeg)
+### 5\. You are one of our business contributors (affiliation contract)
 
-Matthieu GALTIE
+If you join the affiliate program presented on weglot.com, we will collect a certain amount of data about you, such as your first name, last name and email address. We will also keep a copy of our written exchanges.
 
-Oct. 11, 2023](#)
+This data will be used for the conclusion of the affiliation contract with you, and the follow-up of its execution. They will be retained for the duration of our business relationship and thereafter for the applicable statute of limitations as described in Section 6 below.
 
-[![](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/646cf91d5c1fa0c80e1de661_the-bradery-logo_v2%201.webp)
+This data processing is justified by WEGLOT’s legitimate interest in promoting its services and managing its affiliation program, in accordance with article 6.1.f) of the GDPR.
 
-“Weglot removed the pain of having to manage multiple stores for multiple locales. The integration was easy and the support is incredibly helpful. I highly recommend Weglot to anyone looking for a simple and cost-effective solution to translate their stores!”
+### 6\. You are involved in a dispute (actual or potential) with WEGLOT
 
-![Woman user profile photo](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/646b8ab0c0a3299b04d359df_Img.webp)
+We may retain any data that we deem necessary or useful to prevent a dispute and to manage any litigation or pre-litigation.
 
-Adèle Aubry
+We will use it, as appropriate, to prevent, initiate or respond to any such dispute, whether or not you are a party to that dispute (for example, a commercial dispute relating to the use of our services).
 
-Oct. 11, 2023](#)
+This conservation is justified by WEGLOT’s legitimate interest in protecting and defending its rights and interests, including in court, in accordance with Article 6.1.f) of the GDPR.
 
-[![](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/646cf91d5c1fa0c80e1de661_the-bradery-logo_v2%201.webp)
+In this way, we will retain all data relevant to evidence for the duration of the legally applicable statute of limitations, i.e. in principle 5 years (civil statute of limitations under ordinary law).
 
-“Weglot removed the pain of having to manage multiple stores for multiple locales. The integration was easy and the support is incredibly helpful. I highly recommend Weglot to anyone looking for a simple and cost-effective solution to translate their stores!”
+### 7\. You are in contact with WEGLOT for a reason other than the above.
 
-![Woman user profile photo](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/646b8ab0c0a3299b04d359df_Img.webp)
+We are likely to exchange with you for various reasons that do not fall within the scope of the above categories, for example in the context of financial transactions, institutional exchanges or grant applications.
 
-Adèle Aubry
+In these cases, we collect identifying data such as your first name, last name, e-mail address, postal address and/or telephone number, and we keep a copy of our written exchanges.
 
-Oct. 11, 2023](#)
+This data is collected and stored for the purposes of monitoring our relationship, until the end of it, and then for the legally applicable prescription period for the evidentiary purposes described in point 6 above.
 
-![Arrow slider](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/646cfa880d24bb07d75d4c9d_Arrow.svg)
+This data processing is justified by WEGLOT’s legitimate interest in ensuring the follow-up of its business relations and institutional contacts, in accordance with article 6.1.f) of the GDPR.
 
-![Arrow slider](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/646cfa889dac5cc847c1ff7b_Arrow-1.svg)
+Collected data
 
-![](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/646cfc9869dacf36af703651_Group%205139831.svg)
+Purpose (intended or possible use of the data)
 
-[![NCR](https://cdn.prod.website-files.com/646343df6afc95b84af2d36c/6605318823a534e401ec1d95_NCR.svg)
+Rationale for the purpose in terms of the GDPR
 
-"We looked at many other solutions that had dozens of features that were costly and not actually required by the team. Weglot is incredibly usable, very cost-effective, accessible, and fast."
+Maximum retention time of data in a form that allows you to be identified
 
-![](https://cdn.prod.website-files.com/646343df6afc95b84af2d36c/64fb38adf868b9927957ea2b_E02V3V16UJW-UPE6CVCBS-12f666199022-512.webp)
+Treatments related to our customers and users
 
-Dan Dawson
+Information relating to your Internet browser and your terminal (http  
+request)
 
-Sr. Manager & Principal Technologist](https://weglot.com/customers/ncr)
+Allow your connection to the weglot.com site; detect bugs and cyber  
+attack attempts
 
-[![The Bradery](https://cdn.prod.website-files.com/646343df6afc95b84af2d36c/66053195dfecbb144aae7088_The%20Bradery.svg)
+Legitimate interest of WEGLOT (article 6.1.f) GDPR)
 
-“The biggest win for us is the time we’ve saved. It takes us about ten minutes twice a week to double-check everything is running how we want it. Everything else is done by Weglot.”
+Legally applicable limitation period (in principle 5 years) (storage as evidence for possible litigation)
 
-![](https://cdn.prod.website-files.com/646343df6afc95b84af2d36c/648c30a9c4e9b2d9a229cfd1_Adele%20Aubry.webp)
+Data relating to your navigation (collected via Google Analytics cookies)
 
-Adèle Aubry
+Understanding your preferences in order to improve the site and its content
 
-Ecommerce Manager at The Bradery](https://weglot.com/customers/the-bradery)
+Legitimate interest of WEGLOT (article 6.1.f) GDPR)
 
-[![REVIEWS.io](https://cdn.prod.website-files.com/646343df6afc95b84af2d36c/660546852721fece98faf224_Reviews.io.svg)
+Anonymisation of data within a short period of time following their collection
 
-“We needed a product that dramatically increased the speed of website translation. Our clunky manual coding approach was time-consuming, but with Weglot, it’s fast and effortless.”
+Data relating to bugs encountered
 
-![](https://cdn.prod.website-files.com/646343df6afc95b84af2d36c/648c2e585d647e80489c36c7_Rich%20Ball.webp)
+Reproduce, analyse and correct the bugs encountered in the course of your navigation
 
-Rich Ball
+Legitimate interest of WEGLOT (article 6.1.f) GDPR)
 
-Marketing Manager, REVIEWS.io](https://weglot.com/customers/reviews-io)
+1 year following data collection
 
-[![Polaar](https://cdn.prod.website-files.com/646343df6afc95b84af2d36c/6619057171ee454ab6e4bc34_Polaar.webp)
+Identification data and written exchanges
 
-“We’ve seen undeniable time-saving through Weglot’s instant translation. If a modification is made on a product page, we know that it’s automatically translated and live on our multilingual pages.”
+Customer management
 
-![](https://cdn.prod.website-files.com/646343df6afc95b84af2d36c/648c2cf4b24c80339e20f907_Sophie%20von%20Kirchmann.webp)
+Legitimate interest of WEGLOT (article 6.1.f) GDPR)
 
-Sophie von Kirchmann
+Duration of the business relationship and then the legally applicable statute of limitations (in principle 5 years) (storage as evidence for possible litigation)
 
-E-Store Manager at Polaar](https://weglot.com/customers/polaar)
+Identification data
 
-[![Bigblue](https://cdn.prod.website-files.com/646343df6afc95b84af2d36c/6605444d52ade253d2445d87_Bigblue.svg)
+Customer relationship management (creation of personal space and follow-up of subscriptions)
 
-"We needed to have the entire website in French, including the blog. Now we spend 1/3 of the time we spent before to translate new pages and a better SEO result, so it’s a big win for us!"
+Legitimate interest of WEGLOT (article 6.1.f) GDPR)
 
-![](https://cdn.prod.website-files.com/646343df6afc95b84af2d36c/648c27fdab407caeda373ea4_Tim%20Dumain.webp)
+Duration of the business relationship and then the legally applicable statute of limitations (in principle 5 years) (storage as evidence for possible litigation)
 
-Tim Dumain
+Data related to the support ticket
 
-Co-founder, Bigblue](https://weglot.com/customers/bigblue)
+Sales and technical support
 
-Learn the best practices to thrive with your multilingual website
------------------------------------------------------------------
+Legitimate interest of WEGLOT (article 6.1.f) GDPR)
 
-Improve your skills and find the key information you need to grow your business globally from our vast collection of resources.
+Resolution of the ticket and then the legally applicable statute of limitations (in principle 5 years) (storage as evidence in case of a possible dispute)
 
-[Tool
+Data appearing in accounting vouchers
 
-![Prism](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/64c90549631b69ee4b095e4c_Illustration-Prisme.svg)
+Accounting management
 
-### Word Count Tool
+Legitimate interest of WEGLOT (article 6.1.f) GDPR)
 
-Get an estimate of how much your website translation project can cost.](https://wordcount.weglot.com/)
+10 years from the end of the financial year in question
 
-[![Angell Mobility & MINI by Stellar](https://cdn.prod.website-files.com/646343df6afc95b84af2d36c/6619028c4327f423e2d44a35_Angell%20Thumbnail.webp)
+Improving our products and services
 
-Case Study
+Legitimate interest of WEGLOT (article 6.1.f) GDPR)
 
-![](https://cdn.prod.website-files.com/646343df6afc95b84af2d36c/660545f29bfd03888d05a18b_Angell.svg)
+Customer’s email address
 
-Wanting to share a reimagined classic—MINI’s first electric bike—with the world, Angell Mobility needed a simple, seamless solution to launch a multilingual website for the MINI brand’s loyal fan base.](https://weglot.com/customers/angell-mobility-mini-stellar)
+Providing update on Weglot Sub-Processors list
 
-[Guide
+Legal obligation of WEGLOT (article 6.1.c) GDPR)
 
-![Guide icon
-](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/646cff795c1fa0c80e25c0d5_Illustration%20Royal%20Blue.svg)
+Duration of the business relationship
 
-### 4 Key Search Engine Optimization Tips for Your Multilingual Website in 2024
+Customer’s email address
 
-Discover how to follow the best practices in terms of multilingual SEO in 2024 and 4 ways to optimize your site’s search engine rankings.](https://weglot.com/guides/multilingual-seo-tips)
+Conversion tracking for Adwords marketing campaigns
 
-[E-book
+Your consent (article 6.1.a) GDPR)
 
-![Ebooks
-](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/646d00ce359ae224a04df6ee_Illustration%20Light%20Color.svg)
+120 days from conversion on the website
 
-### Best practices for translating your website
+Salaries relating to candidates for a position at WEGLOT
 
-Learn how to complete a thoroughly translated and localized website and appeal to global audiences with our comprehensive ebook.](https://weglot.com/ebooks/best-practices-translating-website)
+All data included in your application (CV, cover letter, letter of recommendation, etc.)
 
-[![Crayon
-](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/6618ffeb9f73bf1fa662884d_Crayon.svg)
+Processing your application
 
-Blog
+Pre-contractual measures at your request (Article 6.1(b) GDPR)
 
-![Blog icon
-](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/646d0169723219aed499ff43_Frame%2010056.svg)
+Time needed to process your application
 
-### 7 Reasons Why Having a Multi-Language Site Benefits Your Business
+All data included in your application (CV, cover letter, letter of recommendation, etc.)
 
-Having your website and its content available in a language accessible to visitors is crucial. Read our 7 reasons why you need a multilingual website.](https://weglot.com/blog/reasons-why-a-multi-language-site-benefits-your-business)
+Keeping your application on file for possible future job offers
 
-![Rocket
-](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/64f98e65baacccad71cb7634_648dfbf7133d3a3e0947834f_Illustration%20Light%20Color.svg)
+Legitimate interest of WEGLOT (article 6.1.f) GDPR)
 
-Weglot is free — try now!
--------------------------
+2 years after rejection of your initial application
 
-Get instant access to Weglot and see how it works for yourself. Keep using it for free, or upgrade when you’re ready to unlock premium benefits.
+Treatments relating to our suppliers and service providers
 
-[Get started free
+Identification data and written exchanges
 
-\- No commitment](https://dashboard.weglot.com/register/)
+Business Relationship Management
 
-![](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/65bb7e62c3d98256def5e70d_laptop-shopping-cart%201.svg)
+Legitimate interest of WEGLOT (article 6.1.f) GDPR)
 
-No-code solution
+Duration of the business relationship and then the legally applicable statute of limitations (in principle 5 years) (storage as evidence for possible litigation)
 
-![](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/65bb7e62c3d98256def5e70d_laptop-shopping-cart%201.svg)
+Data appearing in accounting vouchers
 
-AI translation
+Accounting management
 
-![](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/65bb7e62c3d98256def5e70d_laptop-shopping-cart%201.svg)
+Legitimate interest of WEGLOT (article 6.1.f) GDPR)
 
-Full editing control
+10 years from the end of the financial year in question
 
-![](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/65bb7e62c3d98256def5e70d_laptop-shopping-cart%201.svg)
+Treatments relating to commercial prospecting
 
-Multilingual SEO
+Your email address used to subscribe to the newsletter
 
-![](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/65bb7e62c3d98256def5e70d_laptop-shopping-cart%201.svg)
+Newsletter
 
-Language-specific URLs
+Your consent (Article 6.1.a) GDPR)
+
+Until you object or at the latest 3 years after the last contact received from you
+
+Navigation data and search engine queries
+
+Adwords campaigns
+
+Legitimate interest of WEGLOT (article 6.1.f) GDPR)
+
+Anonymisation at short notice
+
+Profile data collected and created by the agencies providing targeted advertising and retargeting services
+
+Targeted advertising and retargeting campaigns
+
+Legitimate interest of WEGLOT (article 6.1.f) GDPR)
+
+Anonymisation at short notice
+
+Your professional e-mail address (collected from web sources)
+
+Direct canvassing by email (B2B)
+
+Legitimate interest of WEGLOT (article 6.1.f) GDPR)
+
+Until you object or at the latest 3 years after the last contact received from you
+
+Data collected by means of the affiliation cookie deposited via WEGLOT’s partner sites and applications
+
+Affiliate Program
+
+Legitimate interest of WEGLOT (article 6.1.f) GDPR)
+
+60 days from the deposit of the cookie
+
+Treatments relating to our business contributors (affiliate programme)
+
+Identification data and written exchanges
+
+Business Relationship Management
+
+Legitimate interest of WEGLOT (article 6.1.f) GDPR)
+
+Duration of the business relationship and then the legally applicable statute of limitations (in principle 5 years) (storage as evidence for possible litigation)
+
+Treatment relating to the management of disputes, litigation and pre-litigation
+
+All data appearing relevant for the management of a dispute, litigation or pre-litigation
+
+Litigation, litigation and pre-litigation management
+
+Legitimate interest of WEGLOT (article 6.1.f) GDPR)
+
+Legally applicable limitation period (in principle 5 years)
+
+Other processes
+
+Identification data and written exchanges with our institutional contacts, investors, etc.
+
+Management of business relations and institutional contacts
+
+Legitimate interest of WEGLOT (article 6.1.f) GDPR)
+
+Duration of the relationship and then the legally applicable statute of limitations (in principle 5 years) (storage as evidence for possible litigation)
+
+Who has access to your data? With whom are they shared?
+-------------------------------------------------------
+
+Your data is hosted by a secure professional service provider on servers located in the European Union. WEGLOT’s teams and employees are likely to have access to it within the framework and limits of their functions.
+
+Some of your data may also be accessed or at least hosted by the following people and organisations:
+
+* The technical service providers assisting WEGLOT for the maintenance and development of the weglot.com website and its translation services;
+* The service providers publish audience measurement cookies and cookies to correct bugs;
+* WEGLOT’s legal advisers, accountancy firms and lawyers;
+* Payment service providers and banks used by WEGLOT;
+* Website publishers and advertising agencies for the purposes of targeted advertising, retargeting and marketing conversion tracking.
+
+These service providers are all located in the European Union or the United States. Those located in the United States have formally adhered to the principles of the Data Privacy Framework and are included in the Data Privacy Framework List (available [here](https://www.dataprivacyframework.gov/s/participant-search)), a mechanism to ensure that the transfer of your data to that country is compliant with the GDPR.
+
+If, by way of exception, a person, entity or organisation accesses personal data concerning you in the context of the processing operations covered by this Policy from a country other than the Member States of the European Union (and apart from the specific case of the above mentioned Data Privacy Framework, governed by the European Commission's adequacy decision of July 10, 2023), this transfer of your data will be governed by an appropriate mechanism such as contractual clauses adopted or approved by the European Commission or a European supervisory authority.
+
+What rights do you have to control the processing of your own data?
+-------------------------------------------------------------------
+
+You have, in the same way as any other person whose personal data we collect and process, a number of rights provided for in the regulations.
+
+You will find the details below. A summary table is also provided below.
+
+You can exercise these rights simply by writing directly to the following e-mail address: [\[email protected\]](https://weglot.com/cdn-cgi/l/email-protection). Remember to indicate in your email the nature of the right you wish to exercise and the reasons that justify, if necessary, your request to exercise this right.
+
+### 1\. Right of access
+
+You have the right to request a copy of the personal data we hold about you, in an easily understandable format, as well as a copy of this policy on a durable medium.
+
+### 2\. Right of rectification
+
+You have the right to ask us to correct, complete or update the data we have in our possession about you, in the event that they appear to you to be inaccurate, incomplete or out of date.
+
+In this case, we would be grateful if you would spontaneously communicate to us, as far as possible, the new information necessary to carry out the requested correction, completion or update.
+
+### 3\. Right to withdraw consent
+
+In the case of processing based on your consent (newsletter registration), you can withdraw this consent at any time without justification. Withdrawal of your consent will result in the cessation of the treatment of your data going forward (cessation of the sending of newsletters).
+
+### 4\. Right of opposition
+
+With regard to the data processing listed above, which is justified by the legitimate interests of WEGLOT, you have the right to oppose it for reasons relating to your particular situation.
+
+In other words, you can ask WEGLOT to stop any of these processes relating to you, stating the specific reasons that justify this request from your point of view.
+
+However, WEGLOT may refuse to comply with your request if further processing is necessary for compelling reasons from our point of view (e.g. if the data concerned is necessary for the protection and defence of WEGLOT’s rights in court).
+
+Opposition (if it is based on valid reasons and no compelling reasons oppose it) will lead to the cessation of processing for the future, but not necessarily to the destruction of the data concerned: in order to obtain this destruction, you must exercise your right of deletion under the conditions described below, it being specified that the latter is subject to limitations relating, for example, once again, to the need to keep the data for the protection and defence of WEGLOT’s interests in court.
+
+### 5\. Right to erasure
+
+You can ask us to delete all or part of the data we hold about you, provided that at least one of the following conditions is met:
+
+* You have withdrawn your consent in accordance with point 3 above, and this data is not processed for any other purpose than that for which you withdrew your consent;
+* You have objected to the continuation of this processing in accordance with point 4 above, and furthermore wish WEGLOT to proceed with the destruction of the data concerned.
+* The data concerned no longer appear to be necessary for any of the purposes set out above.
+* You consider that WEGLOT has collected and/or processed the data concerned in a manner contrary to the law.
+* The deletion of the data concerned is imposed as a legal obligation.
+* The data concerned relates to a person who was under fifteen (15) years of age at the time of collection of the data.
+
+Please be aware, however, that WEGLOT is entitled to object to the deletion of certain data when their retention is necessary for particularly important reasons, such as the protection and defence of its interests in court.
+
+You should also be aware that, instead of deleting your data, we may choose to completely and irreversibly anonymise it. In this way, we will be entitled to store this data in a format that no longer allows you to be identified (e.g. for statistical purposes).
+
+### 6\. Right to limitation of processing
+
+If, for example, you do not exercise your right of deletion, you can also ask WEGLOT to “set aside” certain data concerning you, i.e. to keep these data separately, without using them any more (except for legal obligations).
+
+You may make such an application if at least one of the following conditions is met:
+
+* The data concerned appear to you to be inaccurate, and you would prefer that WEGLOT stop using them for the time it takes to check and rectify them if necessary.
+* You have exercised your right of opposition in accordance with point 4 above, and you prefer that WEGLOT stops using the data concerned while the validity of your opposition is being verified.
+* You consider that WEGLOT has collected and/or processed the data concerned in a manner contrary to the law, but nevertheless prefer that we retain the data rather than delete it.
+* The data concerned is no longer necessary for any of the purposes set out above, but you wish WEGLOT to keep it nevertheless for the purposes of defending your interests in court.
+
+In such cases, we will “quarantine” the data for the necessary period of time, e.g. by means of a marking “Do not use – Right to limitation”.
+
+### 7\. Right to data portability
+
+You can ask us to send you a copy of the data collected on the basis of your consent, allowing it to be re-used by you or another service provider.
+
+This “right of portability” differs from the right of access in that its purpose is not to obtain a copy that is necessarily readable by you, but rather a reusable copy of the data, in particular with a view to a change of service provider.
+
+### 8\. Right to set guidelines on the fate of your data after your death
+
+Finally, you have the right to tell us how you would like us to handle your data in the unfortunate event of your death.
+
+In particular, you can ask us to destroy all of your data (subject to any compelling conservation needs we may have, for example to defend WEGLOT’s rights in court), or to transmit a copy of all such data to a person of your choice.
+
+You may also designate any person of your choice to be responsible for the execution of these “last wishes”; this person does not necessarily have to be one of your heirs or even the executor in charge of your estate.
+
+Your rights
+
+What they allow you to obtain
+
+Treatments / data concerned
+
+Conditions, exceptions or limitations identified
+
+Right of access
+
+A legible and comprehensible copy of the data WEGLOT has about you, as well as a copy of this Policy on a durable medium.
+
+All
+
+None
+
+Right of rectification
+
+The rectification, updating or completion of data concerning you
+
+All
+
+Clearly indicate the data to be corrected, supplemented or updated, as well as the new data where appropriate.
+
+Right to withdraw consent
+
+Cessation of processing for the future (cessation of sending newsletters)
+
+Treatments based on your consent (newsletter registration)
+
+None
+
+Right of opposition
+
+Discontinuing the processing of your data for the future
+
+Treatments based on a legitimate interest of WEGLOT
+
+Explain the reasons relating to your particular situation which justify the cessation of the processing operation.
+
+Right to erasure
+
+The deletion of your data, or their complete and irreversible anonymisation
+
+All
+
+See the relevant assumptions in the text above
+
+Right to limitation of processing
+
+Retention of your data without further use
+
+All
+
+See the relevant assumptions in the text above
+
+Right to data portability
+
+A copy of your data in a common computer format, allowing you or a service provider of your choice to reuse it.
+
+Data collected on the basis of your consent
+
+Clearly indicate, if applicable, the identity of the person or organisation to whom you would like WEGLOT to send the copy of the data.
+
+Right to set guidelines on the fate of your data after your death
+
+The respect of your “last wishes” with regard to your personal data (for example: their deletion or their transmission to any person of your choice).
+
+All
+
+Clearly indicate the persons responsible for following up on the proper execution of your instructions, who will be our contacts after your death.
+
+**Do you consider that we have not responded satisfactorily to your request, or that we are processing your data unlawfully?**
+
+Of course, we invite you first of all to get in touch with WEGLOT, so that we can discuss the problem together and try to solve it together in the best possible way. If you wish, however, you have the right to refer the matter to the competent authority for data protection in France, namely the Commission Nationale de l’Informatique et des Libertés (CNIL), via its website cnil.fr or by post at the following address: CNIL – 3, place de Fontenoy – TSA 80715 – 75334 PARIS CEDEX 07.This right may be exercised at any time and at no cost to you, apart from the cost of sending postal mail if necessary, and any costs of assistance or representation if you choose to be assisted in this procedure by a third party.
+
+In this article, we're going to look into:
+
+[Text Link](#)
+
+[Text Link](#)
+
+![Pattern 5](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/646d043750a186a2f34caa90_Patterns.svg)
+
+![Have questions icons](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/646e1212b9fc32b4f21f2a12_Illustration%20Light%20Color.svg)
+
+Have questions?
+---------------
+
+Please feel free to contact us at [\[email protected\]](https://weglot.com/cdn-cgi/l/email-protection) would love to hear from you.
+
+[Contact us](https://weglot.com/contact/enterprise)
 
 Product
 
@@ -742,5 +975,9 @@ Thank you for subscribing to our newsletter!
 Oops! Something went wrong while submitting the form.
 
 [![](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/649d90cd4298dcc8a14149b2_Cross.svg)](#)
+
+Summary :
+
+[Text Link](https://weglot.com/terms)[Text Link](#)
 
 [Try for free](https://dashboard.weglot.com/register)
