@@ -56,7 +56,7 @@ Toggle navigation
     
     * [CI/CD & Automation](https://github.com/solutions/ci-cd)
     * [DevOps](https://github.com/solutions/devops)
-    * [DevSecOps](https://resources.github.com/devops/fundamentals/devsecops)
+    * [DevSecOps](https://github.com/solutions/devsecops)
     
     Resources
     
@@ -144,7 +144,7 @@ You signed in with another tab or window. Reload to refresh your session. You si
 [HermanMartinus](https://github.com/HermanMartinus) / **[bearblog](https://github.com/HermanMartinus/bearblog)** Public
 
 * [Notifications](https://github.com/login?return_to=%2FHermanMartinus%2Fbearblog) You must be signed in to change notification settings
-* [Fork 71](https://github.com/login?return_to=%2FHermanMartinus%2Fbearblog)
+* [Fork 72](https://github.com/login?return_to=%2FHermanMartinus%2Fbearblog)
 * [Star 2.3k](https://github.com/login?return_to=%2FHermanMartinus%2Fbearblog)
     
 
