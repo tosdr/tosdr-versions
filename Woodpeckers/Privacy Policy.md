@@ -18,7 +18,7 @@ The store will not work correctly in the case when cookies are disabled.
 
 [Skip to Content](#contentarea)
 
-Toggle Nav [![Woodpeckers](https://cdn.woodpeck.com/static/version1716406409/frontend/Woodpeck/woodpeck/en_US/images/logo.png "Woodpeckers")](https://www.woodpeck.com/ "Woodpeckers")
+Toggle Nav [![Woodpeckers](https://cdn.woodpeck.com/static/version1718645361/frontend/Woodpeck/woodpeck/en_US/images/logo.png "Woodpeckers")](https://www.woodpeck.com/ "Woodpeckers")
 
 [Join our newsletter](https://www.woodpeck.com/sign-up-for-newsletter)
 
@@ -90,6 +90,7 @@ Toggle Nav [![Woodpeckers](https://cdn.woodpeck.com/static/version1716406409/fro
 * [Measuring](https://www.woodpeck.com/measuring.html)
     * [Aluminum Squares](https://www.woodpeck.com/measuring/aluminum-squares.html)
     * [Angle Divider](https://www.woodpeck.com/measuring/angle-divider.html)
+    * [Bar Gauges](https://www.woodpeck.com/measuring/bar-gauges.html)
     * [Bevel Squares](https://www.woodpeck.com/measuring/bevel-squares.html)
     * [Stainless Steel Squares](https://www.woodpeck.com/measuring/stainless-steel-squares.html)
     * [Combination/Double Squares](https://www.woodpeck.com/measuring/combination-double-squares.html)
@@ -137,6 +138,8 @@ Toggle Nav [![Woodpeckers](https://cdn.woodpeck.com/static/version1716406409/fro
     * [Ultra-Shear Router Bits](https://www.woodpeck.com/routing/ultra-shear-router-bits.html)
         * [Bits for Multi-Router](https://www.woodpeck.com/routing/ultra-shear-router-bits/bits-for-multi-router.html)
         * [Bits for Shaper Origin](https://www.woodpeck.com/routing/ultra-shear-router-bits/bits-for-shaper-origin.html)
+        * [Half Round](https://www.woodpeck.com/routing/ultra-shear-router-bits/half-round.html)
+            * [Inch](https://www.woodpeck.com/routing/ultra-shear-router-bits/half-round/inch.html)
         * [Solid Carbide](https://www.woodpeck.com/routing/ultra-shear-router-bits/solid-carbide.html)
             * [Ball Nose](https://www.woodpeck.com/routing/ultra-shear-router-bits/solid-carbide/ball-nose.html)
             * [Compression](https://www.woodpeck.com/routing/ultra-shear-router-bits/solid-carbide/compression.html)
@@ -429,7 +432,7 @@ Sign Up for Our Newsletter:
 
 Subscribe
 
-![Woodpeckers](https://cdn.woodpeck.com/static/version1716406409/frontend/Woodpeck/woodpeck/en_US/images/logo-footer.png) All Rights Reserved, ©2024
+![Woodpeckers](https://cdn.woodpeck.com/static/version1718645361/frontend/Woodpeck/woodpeck/en_US/images/logo-footer.png) All Rights Reserved, ©2024
 
   
 [Do Not Sell My Personal Information](https://www.woodpeck.com/ccpa-opt-out)
