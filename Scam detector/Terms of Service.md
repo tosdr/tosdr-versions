@@ -288,6 +288,12 @@ In case any part of these Terms and Conditions is declared legally invalid, this
 * Trending Scams
     --------------
     
+    * [![Crypto coins](https://www.scam-detector.com/wp-content/uploads/2024/06/traxer-5WRRg1_DQn0-unsplash-1-150x150.jpg)](https://www.scam-detector.com/crypto-airdrop-scam/)
+        
+        ### [Crypto Airdrop Scams: How to Keep Your Wallet Safe](https://www.scam-detector.com/crypto-airdrop-scam/)
+        
+        [Read More](https://www.scam-detector.com/crypto-airdrop-scam/)
+        
     * [![Falling-Lady-Scam](https://www.scam-detector.com/wp-content/uploads/2024/06/Falling-Lady-Scam-150x150.jpg)](https://www.scam-detector.com/falling-lady-scam/)
         
         ### [Don't Fall for the Falling Lady Scam](https://www.scam-detector.com/falling-lady-scam/)
@@ -299,12 +305,6 @@ In case any part of these Terms and Conditions is declared legally invalid, this
         ### [Stolen iPhone Extortion Scam](https://www.scam-detector.com/stolen-iphone-extortion-scam/)
         
         [Read More](https://www.scam-detector.com/stolen-iphone-extortion-scam/)
-        
-    * [![Depop-Phishing-Scams](https://www.scam-detector.com/wp-content/uploads/2024/05/Depop-Phishing-Scams-150x150.jpg)](https://www.scam-detector.com/depop-phishing-scams/)
-        
-        ### [Depop Phishing Scams Explained \[3 Scenarios\]](https://www.scam-detector.com/depop-phishing-scams/)
-        
-        [Read More](https://www.scam-detector.com/depop-phishing-scams/)
         
     
 * [![“fraud](https://www.scam-detector.com/wp-content/uploads/2023/10/One_Fraud-Prevention.png)](https://get.surfshark.net/aff_c?offer_id=1124&aff_id=16683&url_id=1369)
