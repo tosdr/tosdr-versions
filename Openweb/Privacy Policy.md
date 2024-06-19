@@ -34,143 +34,172 @@ It all starts with a conversation](https://www.openweb.com/)
 
 [Contact us](https://www.openweb.com/contact/)
 
-OpenWeb Privacy Policy
-======================
+OpenWeb Group Privacy Policy
+============================
 
-Last revised January 4th, 2021
+Last revised: June, 2024
 
-**OpenWeb Website Visitor Privacy Policy**
+**OpenWeb Group Privacy Policy**
 
-Last updated: September 17, 2022
+We, Open Web Technologies Ltd. (together with our subsidiaries and affiliated companies, as set forth in Annex 1 to this Policy – “**OpenWeb**”, “**we**”, “**our**” or “**us**”) are dedicated to protecting your privacy rights and making our practices regarding the processing of your Personal Data (as defined below) transparent and fair. 
 
-This Privacy Policy describes how we – OpenWeb Technologies Ltd. (together with its affiliates companies – “**OpenWeb**”, “**we**”, “**our**” or “**us**”) collect, store, use and disclose personal data regarding individuals (“**you**”): (i) who visit or otherwise interact with our website (“**Visitors**”), available at [www.openweb.com](http://www.openweb.com/) or any other website, webpage, e-mail, text message or online ad under our control (collectively – the “**Sites**”); (ii) who are a prospective or existing customer or publisher, who uses or is interested in using our social engagement and content personalization platform, or any of our related services (collectively with the Sites – the “**Services**”) for their business website(s) and digital properties (a “**Publisher**”); and/or (iii) who are a prospective or existing advertising partner, agency or network who wishes to advertise to individuals on Publisher website through our Services (an “**Advertiser**”) 
+This privacy policy (the “**Policy**” or the “**Privacy Policy**“) describes how we collect, store, use and disclose Personal Data regarding individuals who use, interact with, exposed to, and/or sign up to our Services, including visitors to our Websites, our business partners and other end users (“**End User**” or “**you**”). 
 
-If you have signed up for or interacted with our platform or related services on a Publisher’s online properties, and wish to learn how your personal data may be processed in such circumstances, please refer to our dedicated End User Privacy Policy. 
+This Policy applies to all our websites (including, [https://www.openweb.com](https://www.openweb.com/); [https://www.adyoulike.com](https://www.adyoulike.com/); [https://www.jeeng.com](https://www.jeeng.com/); collectively, the “**Websites**”), as well as to all services provided by OpenWeb, including, among others:
 
-For individuals in the EU or UK, this Privacy Policy should be read alongside our [GDPR Notice](https://www.openweb.com/legal-and-privacy/gdpr-resource-page/), which provides more information on our GDPR specific processing activities, including our role as a controller or processor, the legal basis for processing, cross border transfers of personal data, GDPR data subject rights and EU/UK privacy contact details. 
+* The commenting and social engagement platform (“**Platform**”);
+* The performance of Cross Advertising and Ad Monetization;
+* Email & Newsreader Monetization Services;
+* AdServer for Email, RevenueStripe, email, web and push notifications, and Advertiser Network (“**Email Monetization**”). 
 
-For California residents, this Privacy Policy should be read alongside our [CCPA Notice](https://www.openweb.com/legal-and-privacy/ccpa-resource-page/), which provides more information on our specific processing activities regarding personal information subject to the California Consumer Privacy Act in our role as a business.
+The Websites, Platform, Email Monetization and any other features or services described hereunder are collectively referred to as the “**Services**”.
 
-Please read this Privacy Policy carefully and make sure that you fully understand. You are not legally required to provide us with any personal data, and may do so (or avoid doing so) at your own free will. If you do not wish to provide us with your personal data, or to have it processed by us or any of our Service Providers (defined below), please avoid any interaction with us or use of our Services. 
+This policy also refers to any processing of Personal Data by us in the context of Advertisements we serve on behalf of third-party companies, (“**Advertiser(s)**“) through publishers’ assets  or email providers (“**Publisher(s)**”), on such Publishers’ properties (“**Properties**“) via any of the abovementioned Company Services. 
+
+To learn how your Personal Data is handled by any business customer of our Services – the list of our main Advertising partners can be found [here](https://www.openweb.com/legal-and-privacy/cookie-policy/); and additional information is elaborated in each Publisher or Property’s legal disclosure and consent mechanisms. 
+
+Please note that this Policy does not apply to job seekers. In order to understand our privacy practices in relation to these matters, please refer to our [Job Candidate Privacy Notice](https://www.openweb.com/legal-and-privacy/candidates-privacy/).
+
+Please read this Privacy Policy carefully and make sure that you fully understand. You are not legally required to provide us with any personal data, and may do so (or avoid doing so) at your own free will. If you do not wish to provide us with your personal data, or to have it processed by us or any of our Service Providers (defined below), please avoid any interaction with us or use of our Services.
+
+For individuals in the EU or UK, this Privacy Policy should be read alongside our GDPR Privacy Notice (available [here](https://www.openweb.com/legal-and-privacy/gdpr-resource-page/)), which provides more information on our GDPR specific processing activities, including our role as a controller or processor, the legal basis for processing, cross border transfers of personal data, GDPR data subject rights and EU/UK privacy contact details. 
+
+For US residents, this Privacy Policy should be read alongside our US Privacy Notice (available [here](https://www.openweb.com/legal-and-privacy/ccpa-resource-page/)), which provides more information on our specific processing activities of personal information subject to US privacy laws.
 
 **Table of Contents**
 
-[1\. Data Collection, Sources & Use](#data-collection-sources-and-Use)
+1. [Types of Personal Data Collected, Purposes, and Methods](#Types-of-Personal-Data-Collected,-Purposes,-and-Methods)
+2. [Categories of Recipients We Disclose Personal Data To; Purpose of Disclosure](#Categories-of-Recipients-We-Disclose-Personal-Data-To;-Purposes-Disclosure)
+3. [Tracking Technologies](#Tracking-Technologies)
+4. [Data Subject Rights](#Data-Subject-Rights)
+5. [Data Security](#Data-Security)
+6. [Data Retention](#Data-Retention)
+7. [Communications](#Communications)
+8. [User Generated Content](#User-Generated-Content)
+9. [Additional Notes](#Additional-Notes)
+10. [Contact us](#Contact-us)
 
-[2\. Data Sharing](#data-sharing)
+1. **Types of Personal Data Collected, Purposes, and Methods**
 
-[3\. Data Location & Retention](#data-location-and-retention)
+Depending on your interaction with us, we may collect two types of data from you:
 
-[4\. Cookies & Tracking Technologies](#cookies-and-tracking-technologies)
+_“Personal Data”_ or _“Personal Information”_ (as defined under applicable US privacy laws) meaning individually identifiable information, namely information that identifies an individual or may, with reasonable effort, be used to identify an individual.
 
-[5\. Communications](#communications)
+_“Non-Personal Data”_ means aggregated, non-personal non-identifiable information, which may be made available or gathered via your access to and use of the Service. We are not aware of the identity of the user from which the Non-Personal Data is collected. Such Non-Personal Data may include aggregated usage information and technical information transmitted by your device, such as browser version, operating system type and version, mobile network information, device settings, and software data.
 
-[6\. Data Security](#data-security)
+For the avoidance of doubt, any Non-Personal Data connected or linked to any Personal Data shall be deemed as Personal Data as long as such connection or linkage exists.
 
-[7\. Data Subject Rights](#data-subject-rights)
+Below are the details of the categories of Personal Data we collect, the methods and the purposes of such collection:
 
-[8\. Additional Notices](#additional-notices)
+**Directly Identifying Information**
 
-[9\. Contact Us](#contact-us)
+* We collect directly identifying information of our End Users, our business partners’ End Users and representatives, as well as of prospective business partners. This includes information such as name, surname, email, phone number, username, password, social media accounts, and profile picture. 
+* You may voluntarily provide us with your directly identifying information when you register to our Services (whether directly from you or by using an SSO authentication option, and connecting any of your personal account, e.g., with Facebook, Google or Microsoft), when you contact us through contact forms and demo request forms on our Websites, or otherwise through emails or direct massages you sent us, etc. 
+* We may receive your directly identifying information from the Publisher with whom you already have an existing account. We may also receive Directly Identifying Information (including your professional details) from an organization you represent or associated with, from service providers or from other tools and channels commonly used for exploring potential business opportunities (e.g., LinkedIn and data enrichment providers), etc. 
+* We collect this information to provide you with the Services, authenticate your identity, secure your account with us, protect our Services against fraud, abuse or similar types of activity and exercise our legal rights, personalize the Services for you, communicate with you or respond to your requests, perform customer service and support operations, market our Services to you and facilitate, sponsor, and offer certain events and promotions, improve and enhance our Services, and conduct research and analytics.
 
-1. **Data Collection, Sources & Use**
+**Technical Information**
 
-We collect data regarding our Visitors, Publishers and Advertisers. Such data is typically collected and generated through your interaction with our Sites, through automatic means, directly from you, or from other third parties. Specifically, we collect the following categories of data (which, to the extent it relates to an identified or identifiable individual, will be deemed as “personal data“):
+* We collect your interactions with the Services, for example, likes, preferences, and other interactions within our Services, including with other users on our Services. We collect information related to your interactions to provide you with the Services, personalize the Services based on your preferences and interactions, improve and expand our Services, and conduct research and analytics.
+* Additional technical information also includes IP addresses, unique device identifiers, device and operating system, browser version, pages visited, advertisements viewed or clicked on, your geographic location, log data and other information derived from your interaction with our Services, including through the use of cookies or other tracking technologies (see Section ‎3 below).
+* We may supplement this technical information with data obtained from third parties, this may include inferred demographic information, including presumed age, gender, income level and general location (state/city based on IP address). 
+* We collect and process technical information to provide you with our Services, to personalize and improve them, to identify fraud, abuse or similar activities, to conduct research and analytics.
 
-* _Prospect contact details_ – such as name, telephone number, email address, location (country, city), your position and other information that might be relevant for our further growth and business relationship. We collect such details to communicate with you, provide you with the Services, products or demonstrations that you might request, customize the Services for you, improve and enhance our Services, market our Services to you and facilitate, sponsor, and offer certain events and promotions; 
+**Other Information**
 
-* _Account information for your business account_ – such as username, password, product interaction, feedback and any other information you choose to include in communications with us or arising from your use of the Services. We collect this information to provide you with the Services, authenticate your identity, secure your account with us, personalize the Services for you, communicate with you, administer the relationship between our companies, improve and enhance our Services, and conduct research and analytics. 
+* Where we have been contracted to provide monetization services, we may also process technical information and Personal Information to advertise to you, including by displaying interest based, cross-channel and cross-device advertising and other types of targeted advertising, or contextual advertising. We may also use such information to monitor the performance of our Services and advertising campaigns.
+* We may process any information included in comments as part of our Services, in a similar manner to that described in section ‎1.2.1 above with respect to Platform interactions. Additional information can be found below under the “User Generated Content” section of this Policy.
+* Through the course of using the Services, you and others may provide us with additional information which constitutes Personal Data. Any such Personal Data will be treated in accordance with this Privacy Policy.
 
-* _Data automatically collected and generated –_ such data mainly consists of connectivity, technical and aggregated usage data, such as IP addresses, data regarding the device, operating system, browser version, and locale settings used when interacting with the Sites, the cookies and pixels installed on such device and your activity (clicks and other interactions) in connection with our Services.  
+We do not process Special Categories of Data as defined under the GDPR, or any other type of Personal Data of a sensitive nature as defined under any applicable law (e.g., Sensitive Personal Information under US privacy laws).
 
-* _Data received from our Publishers and Advertisers_ _–_ such data consists of name, role_,_ company and work or personal contact details, as relevant, however additional data may be provided at the Publisher’s or Advertiser’s discretion. Our Publishers and Advertisers may provide us with this data concerning their colleagues or employees so we could contact them to offer or provide them with our Services. 
+2. **Categories of Recipients We Disclose Personal Data To; Purposes Disclosure**
 
-Publishers and Advertisers may provide us additional information concerning their business, such as their payment information, billing details, business needs and preferences. Where such data concerns a non-human entity, we will not regard it as “personal data” and this Privacy Policy will not apply to it.
+OpenWeb may disclose your Personal Data with third parties that help us maintain and provide our Services. More information about the categories of such third-party recipients is described below:
 
-* _Data received from other third parties:_ we may receive your personal data from other sources. For example, if you participate in an event or webinar that we sponsor or participate in, we may receive your personal data from the event organizers. We may also receive your contact and professional details (e.g., your name, company, position, contact details and professional experience, preferences and interests) from our business partners or services providers, and through the use of tools and channels commonly used for connecting between companies and individuals in order to explore potential business and employment opportunities, such as LinkedIn, data enrichment and other networking or sourcing services.
+* **Entities within OpenWeb Group**: We may share your Personal Data internally within the OpenWeb Group as described in Annex 1, as necessary for administrative, management or other business-relates purposes, to operate our Websites, to communicate with you, to offer and provide our Services to you, etc.  
+* **Service Providers**: We may disclose Personal and Non-Personal Data with our affiliated companies and additional third parties that perform services on our behalf, such as hosting, storage, analytics, advertising and marketing, database management, user engagement, cyber and data security. We may also share such data with our business, legal and financial advisors. 
+* **Business Partners**: We may disclose Personal and Non-Personal Data with Advertisers and Publishers. 
+    * We disclose said data to Advertisers to either display advertisements on or through our Services or to manage our advertising on other websites or apps. Advertisers use Tracking Technologies to gather information about your activities on our Services and other websites and apps in order to provide you advertising based upon your browsing activities and interests (see further information in Section ‎3 below). Where applicable, we will only do so on the basis of end users’ explicit consent which is obtained by our Publishers in the normal course of providing our Services to them. More information and options can be found on each of our Publishers’ respective Properties. 
+    * We may also disclose your Personal Data to Publishers to whom we provide our Services, for example for analytics reporting and monitoring purposes.
+* **Legal and Regulatory Entities**: We may disclose any type of Personal Data, in case we believe, in good faith, that such disclosure is necessary in order to enforce our policies, take precautions against liabilities, investigate and defend ourselves against any third-party claims or allegations, protect the security or integrity of the Service and protect the rights and property of OpenWeb. We may also disclose your Personal Data when requested by legal or regulatory authorities in response to a verified request relating to terror acts, criminal investigations or similar illegal activity, or any other activity that may expose us, you, or any other user to legal liability, and solely to the extent necessary to comply with such purpose.
+* **Mergers and Acquisitions**: We may use and disclose any of the Personal Data In connection with any merger, sale, transfer of any of our assets, investment, acquisition, bankruptcy, or similar event or any corporate transaction.
 
-In addition, we use personal data as necessary for the performance of our Services; to comply with applicable law; and to support our legitimate interests in maintaining and improving our Services and offerings, understanding how our Services are used, optimizing our marketing, advertising, customer service and support operations, and protecting and securing you, ourselves and our Services, as well as members of the general public.
+We reserve the right to use, disclose or transfer (for business purposes or otherwise) aggregated and processed Non-Personal Data to third parties for various purposes including commercial use. This information may be collected, processed and analyzed by us and transferred in a combined, collectively and aggregated manner (i.e., your information is immediately aggregated with other users) to third parties.
 
-If you reside or are interacting with us or with our Services in a territory governed by privacy laws under which “consent” is the only or most appropriate legal basis for processing personal data (in general, or specifically with respect to the types of personal data you choose to share), your acceptance of our [Terms of Use](https://www.openweb.com/legal-and-privacy/terms-of-use/) and of this Privacy Policy will be deemed as your consent to the processing of your personal data for all purposes detailed in this Privacy Policy. If you wish to revoke such consent, please contact us by e-mail at [privacy@openweb.com](mailto:privacy@openweb.com).
+When disclosing Personal Data to third parties, they are required to secure the Personal Data they receive and to use that Personal Data only in compliance with all applicable data protection regulations (such service providers may use other Non-Personal Data for their own benefit).
 
-Further, we use personal data for the following purposes:
+3. **Tracking Technologies**
 
-* To facilitate, operate, and provide our Services;
-* To authenticate your identity, and to allow you access to our Services;
-* To provide you with assistance and support;
-* To further develop, customize and improve the Services and your experience, based on common or personal preferences, experiences and difficulties;
-* To facilitate and optimize our marketing campaigns, ad management and sales operations, and to manage and deliver advertisements for our products and services more effectively, including on other websites and applications. Such activities allow us to highlight the benefits of using our Services, and thereby increase your engagement and overall satisfaction with our Services.
-* To contact you with general or personalized service-related messages and calls, and promotional messages and calls (as further described in Section 6 below); and to facilitate, sponsor and offer certain events and promotions;
-* To support and enhance our data security and content compliance measures, including for the purposes of preventing and mitigating the risks of fraud, abuse, error or any illegal or prohibited activity;
-* To create aggregated statistical data, inferred non-personal data or anonymized or pseudonymized data (rendered non-personal), which we or our business partners may use to provide and improve our respective services; and
-* To comply with any applicable laws and regulations.
+Our Services utilize “cookies,” anonymous identifiers, pixels and other technologies. A “cookie” is a small piece of information that a website assigns and stores on your computer while you are viewing it. You can find more information about cookies at [http://www.allaboutcookies.org](http://www.allaboutcookies.org/). These tracking technologies help us provide our Services, secure and improve them, personalize your experience and monitor the performance of our activities and campaigns. We recommend the use of cookies, but if you choose to remove or block them, we will respect your choice. You may opt out our cookie preferences tool, please contact us at privacy@openweb.com.
 
-2. **Data Sharing**
+A list of the cookies we use, information concerning our Advertisers, their policies as well as additional information about cookies, including our support of transparency and control initiatives and your opt-out options, can be found [here](https://www.openweb.com/legal-and-privacy/cookie-policy/).
 
-In certain instances, we may share your personal data with third parties, as described below: 
+Any of the cookies we may place on Properties are ultimately controlled by such Publisher. Most Publishers typically allow you to control cookies, including whether or not to accept or remove them. We recommend you review the cookie policy of the respective Publisher to learn more about their practices.
 
-* _Third-party service providers_: companies that perform services on our behalf and complementary to our own (e.g. data hosting, analytics, advertising and marketing, data and cyber security, payment processors, user engagement services, e-mail distribution and monitoring services, text messaging services, and our business, legal and financial advisors) (collectively, “**Service Providers**“);
-* With our affiliates or otherwise within our corporate group; 
-* To comply with applicable law or any obligations thereunder, including cooperation with law enforcement, judicial orders, and regulatory inquiries;
-* In connection with an asset sale, merger, bankruptcy, or other business transaction; 
-* To enforce any applicable terms of use or service;
-* To ensure the rights, interests, safety, health and security of OpenWeb, you, our Publishers, Advertisers, personnel and users.
+Please note that in some cases, opting out of cookies, removing cookies, or completely blocking them, will not prevent you from seeing ads sourced from us, but it will affect the types of Ads that you will see. These ads will no longer be tailored to your interests and instead will be chosen based on the particular website that you are viewing (i.e., contextually based ads).
 
-For the avoidance of doubt, we may share your personal data in additional manners, pursuant to your explicit approval, or if we are legally obligated to do so, or if we have successfully rendered such data non-personal and anonymous.
+Do-Not-Track (DNT) signals: Your browser settings may also allow you to transmit a “Do Not Track” signal when you visit various websites. Like many websites, our Services are not specifically designed to respond to “Do Not Track” signals received from browsers. To learn more about “Do Not Track” signals, you can visit [http://www.allaboutdnt.com](http://www.allaboutdnt.com/).
 
-3. **Data Location & Retention**
+4. **Data Subject Rights**
 
-_Data Location_: We and our authorized Service Providers maintain, store and process personal data in the United States, the European Union, Israel and other locations as reasonably necessary for the proper performance and delivery of our Services, or as may be required by law.
+We acknowledge that different people have different privacy concerns and preferences. Our goal is to be clear about what information we collect so that you can make meaningful choices about how it is used. 
 
-While privacy laws may vary between jurisdictions, OpenWeb and its affiliates and Service Providers are each committed to protect personal data in accordance with this Privacy Policy, customary industry standards, and such appropriate lawful mechanisms and contractual terms requiring adequate data protection, regardless of any lesser legal requirements that may apply in the jurisdiction to which such data is transferred.
+If you wish to exercise your privacy rights under applicable law, including the GDPR, UK GPDR or US data protection laws, please follow the instructions available on our dedicated GDPR & US Privacy Notices, as applicable to you, or contact us by email at [privacy@openweb.com](mailto:privacy@openweb.com).
 
-_Data Retention_: We keep your personal data for as long as reasonably necessary in order to maintain and expand our relationship and to provide you with our Services.
+Please note that once you contact us by e-mail, we may require additional information and documents, including certain Personal Data, in order to authenticate and validate your or your authorized agent’s identity and to process your request. Such additional data will be then retained by us for legal purposes (e.g., as proof of the identity of the person submitting the request), in accordance with this Policy.
 
-We will also retain your personal data for as long as is required in order to comply with our legal and contractual obligations, or to protect ourselves from any potential disputes (i.e. as required by laws applicable to log-keeping, records and bookkeeping, and in order to have proof and evidence concerning our relationship, should any legal issues arise following your discontinuance of use), in accordance with our internal data retention policy.
+5. **Data Security**
 
-Please note that except as required by applicable law, we will not be obligated to retain your personal data for any particular period, and we are free to securely delete it for any reason and at any time, with or without notice to you. If you have any questions about our data retention policy, please contact us by email at [privacy@openweb.com](mailto:privacy@openweb.com). 
+We work hard to protect the Personal Data we process from unauthorized access, alteration, disclosure, or destruction. We are using industry-standard physical, administrative and technical security measures to protect your Personal Data held with us, including by vendor security assessments, penetration testing, minimizing the amount of data that we store on our servers, restricting access to Personal Data by OpenWeb employees, contractors, agents, and encryption as appropriate. 
 
-4. **Cookies & Tracking Technologies**
+However, please be aware that regardless of any security measures used, we cannot and do not guarantee the absolute protection and security of any personal data stored with us or with any other third party. You should be aware that there is always some risk involved in transmitting information over the internet and that there is also some risk that others could find a way to thwart our security systems. As a result, while we strive to protect your Personal Information, we cannot ensure or warrant the security and privacy of your Personal Data or other content you transmit using the Service, and you do so at your own risk. Thus, we encourage you to exercise discretion regarding the Personal Data you choose to disclose.
 
-Our Services utilize “cookies,” anonymous identifiers, pixels and other technologies which help us provide, secure and improve our Services, personalize your experience and monitor the performance of our activities and campaigns. 
+6. **Data Retention**
 
-A list of the cookies we use, information concerning our advertising partners, their policies as well as additional information about cookies, including our support of transparency and control initiatives (such as NAI & EDAA), can be found [HERE](https://www.openweb.com/cookies/)
+We may retain Personal Data about you for as long as your account is active or as long as needed for the purposes set out in this Privacy Policy, including to provide you with our Services.
 
-Do-Not-Track (DNT) signals: Your browser settings may also allow you to transmit a “Do Not Track” signal when you visit various websites. Like many websites, our Services are not specifically designed to respond to “Do Not Track” signals received from browsers. To learn more about “Do Not Track” signals, you can visit [http://www.allaboutdnt.com/](http://www.allaboutdnt.com/).
+We may also retain and use Personal Data about you to the extent necessary to comply with our legal obligations, resolve disputes and enforce our terms and conditions, other applicable terms of service, and our policies. If you stop using our Services, we may store your data in an aggregated and anonymized format, in which case, we may use this data for a longer period without further notice to you. 
 
-5. **Communications**
+Please note that except as required by applicable law, we will not be obligated to retain your Personal Data for any particular period, and we are free to securely delete it for any reason and at any time, with or without notice to you. If you have any questions about our data retention policy, please contact us by sending an email to [privacy@openweb.com](mailto:privacy@openweb.com).
 
-_Service Communications:_ We may contact you with important information regarding our Services. For example, we may notify you, through any of the means available to us, of changes or updates to our Services, password reset requests, etc. Typically, you will not be able to opt-out of receiving such service communications while using our Services, as they are integral to such use. 
+7. **Communications**
 
-_Notifications and Promotional Communications:_ We may also send you notifications, messages and other updates about new features, offerings, events and special opportunities or any other information we think you will find valuable. We may provide such notices through any of the contact means available to us, through the Services, or through our marketing campaigns on any other sites or platforms.
+We may contact you with important information regarding our Services. For example, we may notify you, through any of the means available to us, of changes or updates to our Services, password reset requests, etc. Typically, you will not be able to opt-out of receiving such service communications while using our Services, as they are integral to such use.
 
-If you do not wish to receive such promotional communications, you may notify us at any time by changing your communications preferences in your account, by following the “unsubscribe”, “stop”, “opt-out” or “change e-mail preferences” instructions contained in the promotional communications you receive, or by sending an email to [privacy@openweb.com](mailto:privacy@openweb.com).
+We may also send you messages and other updates about new features, offering, events and special opportunities, as well as information which relate to your interaction with the Service (likes, comments, etc.). If you do not wish to receive such communications, you may notify OpenWeb at any time by changing your communications preferences in your account, by following the “unsubscribe”, “stop”, “opt-out” or “change e-mail preferences” instructions contained in the communications you receive, or by sending an email to [privacy@openweb.com](mailto:privacy@openweb.com). 
 
-6. **Data Security**
+8. **User Generated Content**
 
-We use physical, procedural and electronic security measures to protect your personal data held with us, including encryption as appropriate. However, please be aware that regardless of any security measures used, we cannot and do not guarantee the absolute protection and security of any data, including personal data stored with us or with any other third party.
+Our Services allow individuals to comment and upload content to the Services, which others may engage and interact with. Such content may include messages, photos, etc. and may also include Personal Data (“**User-Generated Content**” or “**UGC**”). We or others may store, display, reproduce, publish, or otherwise use UGC, and may or may not attribute it to you. Given the nature of our Services, others who have access to UGC may have the ability to share it with third parties. If you choose to submit UGC to the Services, your UGC, including any Personal Data contained therein, will be considered “public” and will be accessible by anyone.
 
-7. **Data Subject Rights**
+Please note that we do not control who will have access to the information that you choose to make available to others, and cannot ensure that parties who have access to such information will respect your privacy or keep it secure. We are not responsible for the privacy or security of any information that you make publicly available on our Services or on the Properties, or what others do with information you share with them on such platforms. We are not responsible for the accuracy, use or misuse of any UGC that you disclose or receive from third parties through the forums or email lists.
 
-If you wish to exercise your privacy rights under applicable law, including the GDPR, UK GPDR or the CCPA, please follow the instructions available on our dedicated GDPR & CCPA Notices or contact us by email at [privacy@openweb.com](mailto:privacy@openweb.com).
+9. **Additional Notes**
 
-Please note that once you contact us by e-mail, we may require additional information and documents, including certain personal data, in order to authenticate and validate your or your authorized agent’s identity and to process your request. Such additional data will be then retained by us for legal purposes (e.g. as proof of the identity of the person submitting the request), in accordance with Section 4 above.
+Updates and Amendments: We may modify this Privacy Policy from time to time, in which case we will update the “Last updated” date at the top of this Privacy Policy, as well as notify you or take other steps as required by applicable law. The updated Privacy Policy will be effective as of the time of posting, or such later date as may be specified in the updated Privacy Policy.
 
-8. **Additional Notices**
+Third Party Websites and Services: While our Services may contain links to other websites or services, or may be offered via Properties, we are not responsible for their privacy practices, and encourage you to pay attention when you interact with any such website, service or application of such third parties, and to read the privacy policies of each and every website, service and application you interact with. This Privacy Policy applies only to our Services.
 
-_Updates and Amendments:_ We may modify this Privacy Policy from time to time, in which case we will update the “Last updated” date at the top of this Privacy Policy, as well as notify you or take other steps as required by applicable law. The updated Privacy Policy will be effective as of the time of posting, or such later date as may be specified in the updated Privacy Policy.
+Please be advised that when you post links to/from YouTube, we make use of the YouTube API in order to support the preview of such content. Such activity is governed by [YouTube TOS](https://www.youtube.com/t/terms) and [Google Privacy Policy](https://policies.google.com/privacy). We encourage you to review their practices carefully.
 
-_Third party websites and services_: While our Services may contain links to other websites or services, or may be offered via Publisher Sites, we are not responsible for their privacy practices, and encourage you to pay attention when you interact with any such website, service or application of such third parties, and to read the privacy policies of each and every website, service and application you interact with. This Privacy Policy applies only to our Services.
+Children’s Privacy: Our Services are not designed to attract children under the age of 16. We do not knowingly collect Personal Data from children and do not wish to do so. If we learn that a person under the age of 16 is using the Services, we will prohibit and block such use and will make all efforts to promptly delete any personal data stored with us with regard to such a child. If you believe that we might have any such data, please contact us by email at [privacy@openweb.com](mailto:privacy@openweb.com).
 
-_California Requirements:_ This policy describes the categories of personal information we collect and the sources of such information (in Section ‎1 above), and our retention (Section ‎3) and deletion (Section ‎8) practices in the preceding 12 months. We also included information about how we may process your information (in Sections ‎1 through ‎6), which includes for “business purposes” under the California Consumer Privacy Act (CCPA). We do not sell your personal information for the intents and purposes of CCPA. For additional information regarding how we handle information of California residents, please review our [CCPA Notice](https://www.openweb.com/legal-and-privacy/ccpa-resource-page/).
+10. **Contact Us**
 
-_Children’s Privacy:_ Our Services are not designed to attract children under the age of 16. We do not knowingly collect personal data from children and do not wish to do so. If we learn that a person under the age of 16 is using the Services, we will prohibit and block such use and will make all efforts to promptly delete any personal data stored with us with regard to such child. If you believe that we might have any such data, please contact us by email at [privacy@openweb.com](mailto:privacy@openweb.com).
+Data Protection Officer: OpenWeb has appointed a Data Protection Officer for monitoring and advising on our ongoing privacy compliance, as well as serving as a point of contact on privacy matters for data subjects and supervisory authorities. Our DPO may be reached by email at [dpo@openweb.com](mailto:dpo@openweb.com), or by mail at: OpenWeb Ltd. (Attn: DPO), Yigal Alon 94, Tel Aviv 6789156, Israel.Questions, Concerns or Complaints: If you have any additional comments or questions about this Privacy Policy or if you have any concerns regarding your privacy, please contact us by email at [privacy@openweb.com](mailto:privacy@openweb.com) or via mail at OpenWeb Technologies Ltd. (Attn: DPO), Yigal Alon 94, Tel Aviv 6789156, Israel.
 
-9. **Contact Us**
+**Annex 1: OpenWeb Entities Covered by this Policy**
 
-_Data Protection Officer:_ OpenWeb has appointed a Data Protection Officer for monitoring and advising on our ongoing privacy compliance, as well as serving as a point of contact on privacy matters for data subjects and supervisory authorities. Our DPO may be reached by email at [dpo@openweb.com](mailto:dpo@openweb.com), or by mail at: OpenWeb Ltd. (Attn: DPO), Yigal Alon 94, Tel Aviv 6789156, Israel.
-
-_Questions, Concerns or Complaints:_ If you have any additional comments or questions about this Privacy Policy or if you have any concerns regarding your privacy, please contact us by email at [privacy@openweb.com](mailto:privacy@openweb.com), or via mail at OpenWeb Technologies Ltd. (Attn: DPO), Yigal Alon 94, Tel Aviv 6789156, Israel. 
+|     |     |     |
+| --- | --- | --- |
+| **Country** | **Entity Name** | **Address** |
+| Israel | OpenWeb Technologies ltd. | 94 Yigal Alon, Building 2, Tel Aviv-Yafo 6706701, Israel |
+| USA | OpenWeb Inc. | 38 Greene St. New York, US, 10013 |
+| UK  | AdYouLike limited. | 235 High Holborn, London WC1V 7LE, United Kingdom, 1st Floor |
+| France | AdYouLike SASU. | 88 avenue Charles de Gaulle 92200 Neuilly-sur-Seine |
+| USA | AdYouLike Corp. | 38 Greene St. New York, US, 10013 |
+| USA | Powerinbox Inc. | 38 Greene St. New York, US, 10013 |
 
 [Legal and Privacy Center](https://www.openweb.com/legal-and-privacy/)
 
