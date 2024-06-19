@@ -20,8 +20,6 @@
 *  [![](/images/00_search_icon_grey.svg)](#)
 *  [![](/images/00_customer_icon_grey.svg)](https://customer.navicat.com/)
 
-Search
-
 GO
 
 Legal Statement
@@ -99,7 +97,8 @@ The BEST GUI database admin tool, MySQL administrator, MySQL GUI manager, MySQL 
     ![](/images/00_expand_up_icon.svg)
     
 * * [Navicat](https://www.navicat.com/products#navicat)
-    * [Navicat Collaboration](https://www.navicat.com/products#navicat-collaboration)
+    * [Navicat Cloud](https://www.navicat.com/products#navicat-collaboration)
+    * [Navicat On-Prem Server](https://www.navicat.com/products#navicat-collaboration)
     * [Navicat BI](https://www.navicat.com/products#navicat-charts)
     * [Navicat Monitor](https://www.navicat.com/products#navicat-monitor)
     * [Navicat Data Modeler](https://www.navicat.com/products#navicat-data-modeler)
