@@ -4,108 +4,191 @@ Menu
 
 * Explore Courses
     
-    * [Start a Free Course](https://corporatefinanceinstitute.com/collections/free/?tab=courses)
     * [Earn a Certification](https://corporatefinanceinstitute.com/certifications/)
         * [CFI Certifications](#)
-        * [**FMVA®**Financial Modeling & Valuation Analyst](https://corporatefinanceinstitute.com/certifications/financial-modeling-valuation-analyst-fmva-program/)
-        * [**CBCA®**Commercial Banking & Credit Analyst](https://corporatefinanceinstitute.com/certifications/commercial-banking-credit-analyst-certification-cbca/)
-        * [**CMSA®**Capital Markets & Securities Analyst](https://corporatefinanceinstitute.com/certifications/capital-markets-securities-analyst-cmsa/)
-        * [**BIDA®**Business Intelligence & Data Analyst](https://corporatefinanceinstitute.com/certifications/business-intelligence-data-analyst-bida/)
-        * [**FPWM™**Financial Planning & Wealth Management](https://corporatefinanceinstitute.com/certifications/financial-planning-and-wealth-management-fpwm-program/)
-        * [**FTIP™**FinTech Industry Professional](https://corporatefinanceinstitute.com/certifications/fintech-industry-professional/)
+        
+        * [Financial Modeling & Valuation Analyst (FMVA®)](https://corporatefinanceinstitute.com/certifications/financial-modeling-valuation-analyst-fmva-program/)
+        * [Commercial Banking & Credit Analyst (CBCA®)](https://corporatefinanceinstitute.com/certifications/commercial-banking-credit-analyst-certification-cbca/)
+        * [Capital Markets & Securities Analyst (CMSA®)](https://corporatefinanceinstitute.com/certifications/capital-markets-securities-analyst-cmsa/)
+        * [Business Intelligence & Data Analyst (BIDA®)](https://corporatefinanceinstitute.com/certifications/business-intelligence-data-analyst-bida/)
+        * [Financial Planning & Wealth Management (FPWM™)](https://corporatefinanceinstitute.com/certifications/financial-planning-and-wealth-management-fpwm-program/)
+        * [FinTech Industry Professional (FTIP™)](https://corporatefinanceinstitute.com/certifications/fintech-industry-professional/)
+        
     * [Master a Specialization](#)
         * [CFI Specializations](#)
-        * [**Financial Planning & Analysis (FP&A)**](https://corporatefinanceinstitute.com/certifications/financial-planning-and-analysis-program/)
-        * [**Environmental, Social, & Governance(ESG)**](https://corporatefinanceinstitute.com/certifications/environmental-social-governance-specialist/)
-        * [**Leadership Effectiveness**](https://corporatefinanceinstitute.com/certifications/leadership-effectiveness-program/)
-        * [**Data Analyst in Excel**](https://corporatefinanceinstitute.com/certifications/excel-data-analysis-specialist/)
-        * [**Business Intelligence**](https://corporatefinanceinstitute.com/certifications/bi-analyst/)
-        * [**Data Science**](https://corporatefinanceinstitute.com/certifications/become-data-science-analyst/)
-        * [**Macabacus**](https://corporatefinanceinstitute.com/certifications/macabacus-specialist/)
-        * [**Real Estate Finance**](https://corporatefinanceinstitute.com/certifications/commercial-real-estate-finance-specialist/)
-        * [**Crypto and Digital Assets**](https://corporatefinanceinstitute.com/certifications/crypto-digital-assets-specialist/)
-        * [**BE Bundle**](https://corporatefinanceinstitute.com/certifications/business-essentials-bundle/)
+        
+        * [FP&A](https://corporatefinanceinstitute.com/certifications/financial-planning-and-analysis-program/)
+        * [Leadership Effectiveness](https://corporatefinanceinstitute.com/certifications/leadership-effectiveness-program/)
+        * [ESG](https://corporatefinanceinstitute.com/certifications/environmental-social-governance-specialist/)
+        * [Data Analysis in Excel](https://corporatefinanceinstitute.com/certifications/excel-data-analysis-specialist/)
+        * [Business Intelligence](https://corporatefinanceinstitute.com/certifications/bi-analyst/)
+        * [Data Science](https://corporatefinanceinstitute.com/certifications/become-data-science-analyst/)
+        * [Macabacus](https://corporatefinanceinstitute.com/certifications/macabacus-specialist/)
+        * [Real Estate Finance](https://corporatefinanceinstitute.com/certifications/commercial-real-estate-finance-specialist/)
+        * [Crypto and Digital Assets](https://corporatefinanceinstitute.com/certifications/crypto-digital-assets-specialist/)
+        * [Business Essentials](https://corporatefinanceinstitute.com/certifications/business-essentials-bundle/)
+        
+    * [Roles](#)
+        * [Roles](#)
+        
+        * [Investment Banking](#)
+            * [Investment Banking](#)
+            
+            * [Advisory](https://corporatefinanceinstitute.com/learning-paths/#lp1)
+            * [DCM](https://corporatefinanceinstitute.com/learning-paths/#lp2)
+            * [ECM](https://corporatefinanceinstitute.com/learning-paths/#lp3)
+            
+        * [Capital Markets](#)
+            * [Capital Markets](#)
+            
+            * [Commercial Relationship Manager](https://corporatefinanceinstitute.com/learning-paths/#lp6)
+            * [Commercial Credit Analyst](https://corporatefinanceinstitute.com/learning-paths/#lp4)
+            * [Commercial Real Estate Lender](https://corporatefinanceinstitute.com/learning-paths/#lp5)
+            
+        * [Global Markets – Sales and Trading](#)
+            * [Global Markets – Sales and Trading](#)
+            
+            * [Equity Sales-Trader](https://corporatefinanceinstitute.com/learning-paths/#lp8)
+            * [Fixed Income Credit Sales](https://corporatefinanceinstitute.com/learning-paths/#lp9)
+            
+        * [Buy-Side Institutions](#)
+            * [Buy-Side Institutions](#)
+            
+            * [Derivatives Risk](https://corporatefinanceinstitute.com/learning-paths/#lp12)
+            * [Equity Execution Trader](https://corporatefinanceinstitute.com/learning-paths/#lp13)
+            * [Fixed Income Researcher](https://corporatefinanceinstitute.com/learning-paths/#lp14)
+            * [Hedge Fund](https://corporatefinanceinstitute.com/learning-paths/#lp15)
+            
+        * [FP&A](#)
+            * [FP&A](#)
+            
+            * [Business Intelligence](https://corporatefinanceinstitute.com/learning-paths/#lp16)
+            * [Data Science Analyst](https://corporatefinanceinstitute.com/learning-paths/#lp17)
+            
+        * [Wealth Management](#)
+            * [Wealth Management](#)
+            
+            * [Financial Planner](https://corporatefinanceinstitute.com/learning-paths/#lp18)
+            * [Investment Advisor](https://corporatefinanceinstitute.com/learning-paths/#lp19)
+            
+        
     * [Categories](#)
         * [Categories](#)
-        * [Corporate Finance (FP&A)](#)
-            * [Certifications](#)
-            * [**FMVA®**Financial Modeling & Valuation Analyst](https://corporatefinanceinstitute.com/certifications/financial-modeling-valuation-analyst-fmva-program/)
-            * [Popular Corporate Finance (FP&A) courses](#)
-            * [Corporate Finance Fundamentals](#)
-            * [Accounting Fundamentals](#)
-            * [Financial Analysis Fundamentals](#)
-            * [View All](https://corporatefinanceinstitute.com/collections/?categories=86431)
-        * [Investment Banking](#)
-            * [Certifications](#)
-            * [**FMVA®**Financial Modeling & Valuation Analyst](https://corporatefinanceinstitute.com/certifications/financial-modeling-valuation-analyst-fmva-program/)
-            * [Popular Investment Banking courses](#)
-            * [Mergers & Acquisitions (M&A) Modeling](#)
-            * [Excel Fundamentals - Formulas for Finance](#)
-            * [PowerPoint & Pitchbooks](#)
-            * [View All](https://corporatefinanceinstitute.com/collections/?categories=86428)
-        * [Private Equity](#)
-            * [Certifications](#)
-            * [**FMVA®**Financial Modeling & Valuation Analyst](https://corporatefinanceinstitute.com/certifications/financial-modeling-valuation-analyst-fmva-program/)
-            * [Popular Private Equity courses](#)
-            * [Advanced Excel Formulas & Functions](#)
-            * [DCF Valuation Modeling](#)
-            * [Comparable Valuation Analysis](#)
-            * [View All](https://corporatefinanceinstitute.com/collections/?categories=86427)
-        * [Business Intelligence & Analytics](#)
-            * [Certifications](#)
-            * [**BIDA®**Business Intelligence & Data Analyst](https://corporatefinanceinstitute.com/certifications/business-intelligence-data-analyst-bida/)
-            * [Popular Business Intelligence & Analytics courses](#)
-            * [SQL Fundamentals](#)
-            * [Tableau Fundamentals](#)
-            * [Power Query Fundamentals](#)
-            * [View All](https://corporatefinanceinstitute.com/collections/?categories=86432)
+        
         * [Commercial Banking](#)
-            * [Certifications](#)
-            * [**CBCA®**Commercial Banking & Credit Analyst](https://corporatefinanceinstitute.com/certifications/commercial-banking-credit-analyst-certification-cbca/)
+            * [Commercial Banking](#)
+            
+            * [Commercial Banking & Credit Analyst (CBCA®)](https://corporatefinanceinstitute.com/certifications/commercial-banking-credit-analyst-certification-cbca/)
+            
             * [Popular Commercial Banking courses](#)
+            
             * [Fundamentals of Credit](https://corporatefinanceinstitute.com/course/fundamentals-of-credit/)
             * [Venture Debt](#)
             * [Lending to Complex Structures](#)
             * [View All](https://corporatefinanceinstitute.com/collections/?categories=86425)
-        * [Asset Management](#)
-            * [Certifications](#)
-            * [**CMSA®**Capital Markets & Securities Analyst](https://corporatefinanceinstitute.com/certifications/capital-markets-securities-analyst-cmsa/)
-            * [Popular Asset Management courses](#)
-            * [Portfolio Management Fundamentals](#)
-            * [Hedge Fund Fundamentals](#)
-            * [Prime Services and Securities Lending](#)
-            * [View All](https://corporatefinanceinstitute.com/collections/?categories=86430)
+            
         * [Capital Markets](#)
-            * [Certifications](#)
-            * [**CMSA®**Capital Markets & Securities Analyst](https://corporatefinanceinstitute.com/certifications/capital-markets-securities-analyst-cmsa/)
+            * [Capital Markets](#)
+            
+            * [Capital Markets & Securities Analyst (CMSA®)](https://corporatefinanceinstitute.com/certifications/capital-markets-securities-analyst-cmsa/)
+            
             * [Popular Capital Markets courses](#)
+            
             * [Introduction to Capital Markets](#)
             * [Applied Fixed Income](#)
             * [Convertible Bonds](#)
             * [View All](https://corporatefinanceinstitute.com/collections/?categories=86426)
+            
+        * [Private Equity](#)
+            * [Private Equity](#)
+            
+            * [Financial Modeling & Valuation Analyst (FMVA®)](https://corporatefinanceinstitute.com/certifications/financial-modeling-valuation-analyst-fmva-program/)
+            
+            * [Popular Private Equity courses](#)
+            
+            * [Advanced Excel Formulas & Functions](#)
+            * [DCF Valuation Modeling](#)
+            * [Comparable Valuation Analysis](#)
+            * [View All](https://corporatefinanceinstitute.com/collections/?categories=86427)
+            
+        * [Investment Banking](#)
+            * [Investment Banking](#)
+            
+            * [Financial Modeling & Valuation Analyst (FMVA®)](https://corporatefinanceinstitute.com/certifications/financial-modeling-valuation-analyst-fmva-program/)
+            
+            * [Popular Investment Banking courses](#)
+            
+            * [Mergers & Acquisitions (M&A) Modeling](#)
+            * [Excel Fundamentals - Formulas for Finance](#)
+            * [PowerPoint & Pitchbooks](#)
+            * [View All](https://corporatefinanceinstitute.com/collections/?categories=86428)
+            
         * [Wealth Management](#)
-            * [Certifications](#)
-            * [**FPWM™**Financial Planning & Wealth Management](https://corporatefinanceinstitute.com/certifications/financial-planning-and-wealth-management-fpwm-program/)
+            * [Wealth Management](#)
+            
+            * [Financial Planning & Wealth Management (FPWM™)](https://corporatefinanceinstitute.com/certifications/financial-planning-and-wealth-management-fpwm-program/)
+            
             * [Popular Wealth Management courses](#)
+            
             * [Behavioral Finance](#)
             * [Mastering Client Discovery](#)
             * [Portfolio Management for Retail Clients](#)
             * [View All](https://corporatefinanceinstitute.com/collections/?categories=86429)
+            
+        * [Asset Management](#)
+            * [Asset Management](#)
+            
+            * [Capital Markets & Securities Analyst (CMSA®)](https://corporatefinanceinstitute.com/certifications/capital-markets-securities-analyst-cmsa/)
+            
+            * [Popular Asset Management courses](#)
+            
+            * [Portfolio Management Fundamentals](#)
+            * [Hedge Fund Fundamentals](#)
+            * [Prime Services and Securities Lending](#)
+            * [View All](https://corporatefinanceinstitute.com/collections/?categories=86430)
+            
+        * [Corporate Finance (FP&A)](#)
+            * [Corporate Finance (FP&A)](#)
+            
+            * [Financial Modeling & Valuation Analyst (FMVA®)](https://corporatefinanceinstitute.com/certifications/financial-modeling-valuation-analyst-fmva-program/)
+            
+            * [Popular Corporate Finance (FP&A) courses](#)
+            
+            * [Corporate Finance Fundamentals](#)
+            * [Accounting Fundamentals](#)
+            * [Financial Analysis Fundamentals](#)
+            * [View All](https://corporatefinanceinstitute.com/collections/?categories=86431)
+            
+        * [Business Intelligence & Analytics](#)
+            * [Business Intelligence & Analytics](#)
+            
+            * [Business Intelligence & Data Analyst (BIDA®)](https://corporatefinanceinstitute.com/certifications/business-intelligence-data-analyst-bida/)
+            
+            * [Popular Business Intelligence & Analytics courses](#)
+            
+            * [SQL Fundamentals](#)
+            * [Tableau Fundamentals](#)
+            * [Power Query Fundamentals](#)
+            * [View All](https://corporatefinanceinstitute.com/collections/?categories=86432)
+            
+        
     * [Popular Topics](#)
+        * [Popular Topics](#)
+        
+        * [Cryptocurrency](https://corporatefinanceinstitute.com/topic/cryptocurrency/)
+        * [Excel](https://corporatefinanceinstitute.com/topic/excel/)
+        * [Accounting](https://corporatefinanceinstitute.com/topic/accounting/)
+        * [Commercial Real Estate](https://corporatefinanceinstitute.com/topic/commercial-real-estate/)
+        * [ESG](https://corporatefinanceinstitute.com/topic/environment-social-governance-esg/)
+        * [Wealth Management](https://corporatefinanceinstitute.com/topic/wealth-management/)
+        * [Foreign Exchange](https://corporatefinanceinstitute.com/topic/foreign-exchange/)
+        * [Management Skills](https://corporatefinanceinstitute.com/topic/management-skills/)
+        * [Machine Learning](https://corporatefinanceinstitute.com/topic/data-science-machine-learning/)
+        * [Financial Modeling](https://corporatefinanceinstitute.com/topic/financial-modeling/)
+        * [FP&A](https://corporatefinanceinstitute.com/topic/financial-planning-analysis-fpa/)
+        * [Business Intelligence](https://corporatefinanceinstitute.com/topic/business-intelligence/)
+        
         * [Explore All Topics](https://corporatefinanceinstitute.com/topics/)
-            * [Popular Topics](#)
-            * [**Cryptocurrency**](https://corporatefinanceinstitute.com/topic/cryptocurrency/)
-            * [**Excel**](https://corporatefinanceinstitute.com/topic/excel/)
-            * [**Accounting**](https://corporatefinanceinstitute.com/topic/accounting/)
-            * [**Commercial Real Estate**](https://corporatefinanceinstitute.com/topic/commercial-real-estate/)
-            * [**ESG**](https://corporatefinanceinstitute.com/topic/environment-social-governance-esg/)
-            * [**Wealth Management**](https://corporatefinanceinstitute.com/topic/wealth-management/)
-            * [**Foreign Exchange**](https://corporatefinanceinstitute.com/topic/foreign-exchange/)
-            * [**Management Skills**](https://corporatefinanceinstitute.com/topic/management-skills/)
-            * [**Machine Learning**](https://corporatefinanceinstitute.com/topic/data-science-machine-learning/)
-            * [**Financial Modeling**](https://corporatefinanceinstitute.com/topic/financial-modeling/)
-            * [**FP&A**](https://corporatefinanceinstitute.com/topic/financial-planning-analysis-fpa/)
-            * [**Business Intelligence**](https://corporatefinanceinstitute.com/topic/business-intelligence/)
     * [View All Courses](https://corporatefinanceinstitute.com/collections/)
     
 * CFI For Teams
@@ -115,16 +198,21 @@ Menu
         * [Pricing](https://corporatefinanceinstitute.com/cfi-for-teams/pricing-plans/)
         * [Why CFI Certifications?](https://corporatefinanceinstitute.com/cfi-for-teams/certified-professionals/)
         * [Get Started](https://corporatefinanceinstitute.com/cfi-for-teams/pricing-plans/)
-    * [CFI Help](#)
-        * How CFI Can Help
-            * [New Hire Training](https://corporatefinanceinstitute.com/cfi-for-teams/onboarding/)
-            * [Hybrid Team Training](https://corporatefinanceinstitute.com/cfi-for-teams/distributed-training/)
-            * [Upskilling and Reskilling](https://corporatefinanceinstitute.com/cfi-for-teams/upskilling-reskilling/)
-            * [Retaining Talent](https://corporatefinanceinstitute.com/cfi-for-teams/hiring-retention/)
-        * Corporate Solutions
-            * [Finance Teams](https://corporatefinanceinstitute.com/cfi-for-teams/for-finance-teams/)
-            * [Financial Services](https://corporatefinanceinstitute.com/cfi-for-teams/for-financial-services/)
-            * [Professional Services](https://corporatefinanceinstitute.com/cfi-for-teams/for-professional-services/)
+    * [How CFI Can Help](#)
+        * [How CFI Can Help](#)
+        
+        * [New Hire Training](https://corporatefinanceinstitute.com/cfi-for-teams/onboarding/)
+        * [Hybrid Team Training](https://corporatefinanceinstitute.com/cfi-for-teams/distributed-training/)
+        * [Upskilling and Reskilling](https://corporatefinanceinstitute.com/cfi-for-teams/upskilling-reskilling/)
+        * [Retaining Talent](https://corporatefinanceinstitute.com/cfi-for-teams/hiring-retention/)
+        
+    * [Corporate Solutions](#)
+        * [Corporate Solutions](#)
+        
+        * [Finance Teams](https://corporatefinanceinstitute.com/cfi-for-teams/for-finance-teams/)
+        * [Financial Services](https://corporatefinanceinstitute.com/cfi-for-teams/for-financial-services/)
+        * [Professional Services](https://corporatefinanceinstitute.com/cfi-for-teams/for-professional-services/)
+        
     
 * Pricing
     
@@ -133,24 +221,25 @@ Menu
     
 * Resources
     
-    * [Financial Ratios Definitive Guide
+    * [Card](#)
+        *  Financial Ratios Definitive Guide A free best practices guide for essential ratios in comprehensive financial analysis and business decision-making. Download Now
+    * [Resources](#)
+        * [Resources](#)
         
-        A free best practices guide for essential ratios in comprehensive financial analysis and business decision-making.
+        * [eLearning](https://corporatefinanceinstitute.com/topic/elearning/)
+        * [Career](https://corporatefinanceinstitute.com/topic/career/)
+        * [Team Development](https://corporatefinanceinstitute.com/topic/team-development/)
+        * [Management](https://corporatefinanceinstitute.com/topic/management-skills/)
+        * [Excel](https://corporatefinanceinstitute.com/topic/excel/)
+        * [Accounting](https://corporatefinanceinstitute.com/topic/accounting/)
+        * [Valuation](https://corporatefinanceinstitute.com/topic/valuation/)
+        * [Economics](https://corporatefinanceinstitute.com/topic/economics/)
+        * [ESG](https://corporatefinanceinstitute.com/topic/environment-social-governance-esg/)
+        * [Capital Markets](https://corporatefinanceinstitute.com/topic/capital-markets/)
+        * [Data Science](https://corporatefinanceinstitute.com/topic/data-science/)
+        * [Risk Management](https://corporatefinanceinstitute.com/topic/risk-management/)
         
-        Download Now](https://corporatefinanceinstitute.com/resources/accounting/financial-ratios-definitive-guide/)
-        * [Browse All Resources](https://corporatefinanceinstitute.com/resources/)
-            * [**Financial Modeling**](https://corporatefinanceinstitute.com/topic/financial-modeling/)
-            * [**FP&A**](https://corporatefinanceinstitute.com/topic/financial-planning-analysis-fpa/)
-            * [**Career**](https://corporatefinanceinstitute.com/topic/career/)
-            * [**Management**](https://corporatefinanceinstitute.com/topic/management-skills/)
-            * [**Excel**](https://corporatefinanceinstitute.com/topic/excel/)
-            * [**Accounting**](https://corporatefinanceinstitute.com/topic/accounting/)
-            * [**Valuation**](https://corporatefinanceinstitute.com/topic/valuation/)
-            * [**Economics**](https://corporatefinanceinstitute.com/topic/economics/)
-            * [**ESG**](https://corporatefinanceinstitute.com/topic/environment-social-governance-esg/)
-            * [**Capital Markets**](https://corporatefinanceinstitute.com/topic/capital-markets/)
-            * [**Data Science**](https://corporatefinanceinstitute.com/topic/data-science/)
-            * [**Risk Management**](https://corporatefinanceinstitute.com/topic/risk-management/)
+        * [Corporate Finance Resources](https://corporatefinanceinstitute.com/resources/)
     
 
 * [My Account](#)
@@ -388,8 +477,6 @@ johndoefmva.net
 
 Return to [All Legal Notices](https://corporatefinanceinstitute.com/about-cfi/legal/).
 
-[CFI logo](https://corporatefinanceinstitute.com/)
-
 * [Company](https://corporatefinanceinstitute.com/about-cfi/)
     * [About CFI](https://corporatefinanceinstitute.com/about-cfi/)
     * [Meet Our Team](https://corporatefinanceinstitute.com/about-cfi/faculty-team/)
@@ -420,7 +507,6 @@ Return to [All Legal Notices](https://corporatefinanceinstitute.com/about-cfi/le
 * [Community](#)
     * [Member Community](https://corporatefinanceinstitute.com/member-community/)
     * [What’s New](https://corporatefinanceinstitute.com/whats-new/)
-    * [NetLearnings](https://corporatefinanceinstitute.com/shows/net-learnings/)
     * [Resources](https://corporatefinanceinstitute.com/resources/)
     * [Podcast](https://corporatefinanceinstitute.com/resources/finpod/)
 
@@ -429,18 +515,6 @@ Return to [All Legal Notices](https://corporatefinanceinstitute.com/about-cfi/le
 [](https://www.bbb.org/ca/bc/vancouver/profile/online-education/corporate-finance-institute-cfi-0037-2405665/#sealclick)
 
 [Trustpilot](https://www.trustpilot.com/review/corporatefinanceinstitute.com)
-
-[Logo](https://www.g2.com/best-software-companies/top-companies#list) 
-
-[Logo](https://corporatefinanceinstitute.com/about-cfi/about-macabacus/) 
-
-[Logo](https://corporatefinanceinstitute.com/about-cfi/about-macabacus/) 
-
-[](https://www.bbb.org/ca/bc/vancouver/profile/online-education/corporate-finance-institute-cfi-0037-2405665/#sealclick)
-
-[Trustpilot](https://www.trustpilot.com/review/corporatefinanceinstitute.com)
-
-[Logo](https://www.g2.com/best-software-companies/top-companies#list) 
 
 © 2015 to 2024 CFI Education Inc.
 
@@ -457,7 +531,7 @@ Return to [All Legal Notices](https://corporatefinanceinstitute.com/about-cfi/le
 
 0 search results for ‘’
 
-People also search for: excel Free courses esg accounting Free fmva real estate
+People also search for: excel esg Free courses accounting real estate Free Forex trading courses
 
 Explore Our Certifications
 
