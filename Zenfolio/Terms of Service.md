@@ -1,6 +1,6 @@
 [Skip to content](#primary)
 
-[![Sell Photos, Prints and Packages Online with Zenfolio](https://zenfolio.com/wp-content/uploads/2023/10/next-zen-logo-black-orange@2x.png)](https://zenfolio.com/)
+ [![Sell Photos, Prints and Packages Online with Zenfolio](https://zenfolio.com/wp-content/uploads/2023/10/next-zen-logo-black-orange@2x.png)](https://zenfolio.com/)
 
 * [Features](https://zenfolio.com/features/ "Features")
     
@@ -32,13 +32,13 @@
     
 * [Templates NEW](# "Templates")
     
-    ![Gallery Layouts](/wp-content/uploads/2021/05/share-icon.png)
+     ![Gallery Layouts](/wp-content/uploads/2021/05/share-icon.png)
     
     [Gallery Layouts](https://zenfolio.com/templates/galleries/ "Gallery Layouts")
     
     [Custom, online photo and video galleries for your clients to share and favorite.](https://zenfolio.com/templates/galleries/ "Custom, online photo galleries for your clients to share and favorite.")
     
-    ![Website Templates](/wp-content/uploads/2021/05/showcase-icon.png)
+     ![Website Templates](/wp-content/uploads/2021/05/showcase-icon.png)
     
     [Website Templates](https://zenfolio.com/templates/websites/ "Website Templates")
     
@@ -307,4 +307,4 @@ Help
 * [](https://www.tiktok.com/@zenfolioinc "TikTok")
 * [](https://www.pinterest.com/zenfolio/ "Pinterest")
 
-[Act Now – **SAVE up to 50%.**\* – View Plans](https://zenfolio.com/plans-pricing/)
+[Get Started Today and **SAVE up to 50%.**\* – View Plans](https://zenfolio.com/plans-pricing/)
