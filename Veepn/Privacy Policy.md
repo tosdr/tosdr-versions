@@ -1,4 +1,4 @@
-[![veepn home](/assets/bba5959a/images/logo-main.svg)](https://veepn.com/)
+[![veepn home](/assets/424c22ea/images/logo-main.svg)](https://veepn.com/)
 
 * VPN Apps
     
@@ -82,7 +82,7 @@
 
 [Get VeePN Now](https://order.veepn.com/pricing/)
 
-![en language](/assets/bba5959a/images/flags/en.svg) en
+![en language](/assets/424c22ea/images/flags/en.svg) en
 
 *  [Українська](https://veepn.com/uk/privacy-policy/)
 *  [Deutsch](https://veepn.com/de/privacy-policy/)
@@ -360,7 +360,7 @@ This notice outlines the manner in which we, acting as a "Controller" under Conn
 
 _Last updated May 13, 2024_
 
-[![veepn home](/assets/bba5959a/images/logo-main.svg)](https://veepn.com/)
+[![veepn home](/assets/424c22ea/images/logo-main.svg)](https://veepn.com/)
 
 Products
 
@@ -407,6 +407,13 @@ Tools
 
 * [What Is My IP?](https://veepn.com/what-is-my-ip/)
 * [Hide Your IP](https://veepn.com/hide-ip/)
+
+Countries
+
+* [US VPN](https://veepn.com/vpn-servers/usa/)
+* [UK VPN](https://veepn.com/vpn-servers/uk-vpn/)
+* [Canada VPN](https://veepn.com/vpn-servers/canada-vpn/)
+* [Turkey VPN](https://veepn.com/vpn-servers/turkey-vpn/)
 
 Earn Money
 
