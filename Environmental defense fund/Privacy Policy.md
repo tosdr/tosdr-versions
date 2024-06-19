@@ -44,7 +44,7 @@ Close Featured
 
 [Bill Nye the Science Guy highlights the fastest way to slow global warming](https://www.edf.org/whats-fastest-way-slow-global-warming-bill-nye-has-answer)
 
-          [![Bill Nye holding a wrench in one hand and a plunger in the other](/sites/default/files/styles/2_1_366_183_focal_point/public/2023-03/Bill%20Nye%20sharpened.jpg?h=68256770&itok=rTVAI2ur)](https://www.edf.org/whats-fastest-way-slow-global-warming-bill-nye-has-answer)
+          [![Bill Nye holding a wrench in one hand and a plunger in the other.](/sites/default/files/styles/2_1_366_183_focal_point/public/2024-06/bill-nye-methane.jpg?h=e519d38c&itok=nCrbo1IZ)](https://www.edf.org/whats-fastest-way-slow-global-warming-bill-nye-has-answer)
 
 [Global food companies join EDF for a groundbreaking step on dairy methane](https://www.edf.org/article/global-food-companies-join-edf-for-groundbreaking-step-on-dairy-methane)
 
