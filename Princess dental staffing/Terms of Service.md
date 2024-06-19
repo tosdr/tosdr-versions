@@ -598,7 +598,7 @@ Remember sign in for 60 days
 
 [Continue with Apple](https://www.princessdentalstaffing.com/users/auth/apple) [Continue with Facebook](https://www.princessdentalstaffing.com/users/auth/facebook)[Continue with Google](https://www.princessdentalstaffing.com/users/auth/google_oauth2)
 
-Don’t have an account? [Sign up](#sign-up-794605)
+Don’t have an account? [Sign up](#sign-up-153678)
 
 Sign up for an account
 ----------------------
@@ -617,7 +617,7 @@ By registering, you acknowledge you've read and agree to the [Terms and Conditio
 
 [Continue with Apple](https://www.princessdentalstaffing.com/users/auth/apple) [Continue with Facebook](https://www.princessdentalstaffing.com/users/auth/facebook)[Continue with Google](https://www.princessdentalstaffing.com/users/auth/google_oauth2)
 
-Already have an account? [Sign in](#sign-in-794605)
+Already have an account? [Sign in](#sign-in-153678)
 
 Log in to your account
 ----------------------
@@ -638,7 +638,7 @@ Remember sign in for 60 days
 
 [Continue with Apple](https://www.princessdentalstaffing.com/users/auth/apple) [Continue with Facebook](https://www.princessdentalstaffing.com/users/auth/facebook)[Continue with Google](https://www.princessdentalstaffing.com/users/auth/google_oauth2)
 
-Don’t have an account? [Sign up](#sign-up-312290)
+Don’t have an account? [Sign up](#sign-up-606831)
 
 Sign up for an account
 ----------------------
@@ -657,7 +657,7 @@ By registering, you acknowledge you've read and agree to the [Terms and Conditio
 
 [Continue with Apple](https://www.princessdentalstaffing.com/users/auth/apple) [Continue with Facebook](https://www.princessdentalstaffing.com/users/auth/facebook)[Continue with Google](https://www.princessdentalstaffing.com/users/auth/google_oauth2)
 
-Already have an account? [Sign in](#sign-in-312290)
+Already have an account? [Sign in](#sign-in-606831)
 
 Success
 
