@@ -296,11 +296,12 @@ Miami, FL 33127
 
 * ### Company
     
+    * [About Us](https://www.binance.us/about)
     * [Trust](https://www.binance.us/trust)
-    * [About US](https://www.binance.us/about)
+    * [Compliance](https://www.binance.us/compliance)
+    * [Licenses](https://support.binance.us/hc/en-us/articles/360050532193)
     * [Blog](https://blog.binance.us/)
     * [Announcements](https://support.binance.us/hc/en-us/categories/360003671074-Announcements)
-    * [Licenses](https://support.binance.us/hc/en-us/articles/360050532193)
     * [Careers](https://bamus.bamboohr.com/careers)
     * [Terms of Use](https://www.binance.us/terms-of-use)
     * [Privacy Policy](https://www.binance.us/privacy-policy)
