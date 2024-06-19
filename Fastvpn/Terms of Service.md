@@ -48,7 +48,7 @@ Search
 
 [Marketing ToolsNEW](https://www.namecheap.com/apps/)
 
-[Marketplace](https://www.namecheap.com/apps/)[Subscriptions](https://www.namecheap.com/apps/subscriptions)[Business FormationFREE](https://www.namecheap.com/apps/business-formation/)[Relate](https://www.namecheap.com/relate/)[SocialAI](https://www.namecheap.com/relate/social/)[ReviewsAI](https://www.namecheap.com/relate/reviews/)[LocalNEWAI](https://www.namecheap.com/relate/local/)[SEONEWAI](https://www.namecheap.com/relate/seo/)[AdsNEWAI](https://www.namecheap.com/relate/ads/)[Visual](https://www.namecheap.com/visual/)[Site MakerNEW](https://www.namecheap.com/visual/site-maker/)[Font MakerNEW](https://www.namecheap.com/visual/font-generator/)[Logo MakerAI](https://www.namecheap.com/logo-maker/)[Business Name GeneratorAI](https://www.namecheap.com/visual/business-name-generator/)[Stencil Graphics](https://www.namecheap.com/visual/stencil/) [Business Card Maker](https://www.namecheap.com/visual/card-maker/)
+[Business FormationFREE](https://www.namecheap.com/apps/business-formation/)[Relate](https://www.namecheap.com/relate/)[SocialAI](https://www.namecheap.com/relate/social/)[ReviewsAI](https://www.namecheap.com/relate/reviews/)[LocalNEWAI](https://www.namecheap.com/relate/local/)[SEONEWAI](https://www.namecheap.com/relate/seo/)[AdsNEWAI](https://www.namecheap.com/relate/ads/)[Brand MonitoringNEWAI](https://www.namecheap.com/relate/radar/)[Visual](https://www.namecheap.com/visual/)[Site MakerNEW](https://www.namecheap.com/visual/site-maker/)[Font MakerNEW](https://www.namecheap.com/visual/font-generator/)[Logo MakerAI](https://www.namecheap.com/logo-maker/)[Business Name GeneratorAI](https://www.namecheap.com/visual/business-name-generator/)[Stencil Graphics](https://www.namecheap.com/visual/stencil/) [Business Card Maker](https://www.namecheap.com/visual/card-maker/)
 
 [SecurityNEW](https://www.namecheap.com/security/)
 
@@ -64,7 +64,7 @@ Search
 
 Account
 
-DashboardExpiring SoonDomain ListHosting ListPrivate EmailSSL CertificatesProfile
+DashboardExpiring SoonDomain ListHosting ListPrivate EmailSSL Certificates[Subscriptions](https://www.namecheap.com/apps/subscriptions)Profile
 
 [Legal Pages](https://www.namecheap.com/legal/)FastVPN Terms of Service
 
@@ -202,7 +202,7 @@ The section headings appearing in this Agreement are inserted only as a matter o
 
 Need help? We're always here for you.
 
-[Go to Live Chat page](https://www.namecheap.com/help-center/live-chat?loc=/general/)
+[Go to Live Chat page](https://www.namecheap.com/help-center/live-chat?loc=)
 
 ![Ukraine flag](https://static.nc-img.com/uilayout2/34735a65a0c63bd007fa4c32f67dab4c.svg)We ❤️ Ukraine. Namecheap is a US based registrar. Many of our colleagues originate from or are located within Ukraine. To support Ukraine in their time of need visit this [page](https://war.ukraine.ua/support-ukraine/).
 
@@ -305,7 +305,6 @@ Join
 **[Marketing Tools](https://www.namecheap.com/apps/)**
 
 * [Marketplace](https://www.namecheap.com/apps/)
-* [Subscriptions](https://www.namecheap.com/apps/subscriptions)
 * [Business FormationFREE](https://www.namecheap.com/apps/business-formation/)
 * [Relate](https://www.namecheap.com/relate/)
 * [RelateSocialAI](https://www.namecheap.com/relate/social/)
@@ -313,19 +312,18 @@ Join
 * [RelateLocalNEWAI](https://www.namecheap.com/relate/local/)
 * [RelateSEONEWAI](https://www.namecheap.com/relate/seo/)
 * [RelateAdsNEWAI](https://www.namecheap.com/relate/ads/)
+* [Brand MonitoringNEWAI](https://www.namecheap.com/relate/radar/)
 * [Visual](https://www.namecheap.com/visual/)
-* [Site MakerNEW](https://www.namecheap.com/visual/site-maker/)
-* [Font MakerNEW](https://www.namecheap.com/visual/font-generator/)
-* [Logo Maker AI](https://www.namecheap.com/logo-maker/)
-* [Business Name Generator](https://www.namecheap.com/visual/business-name-generator/)
 * [Stencil Graphics](https://www.namecheap.com/visual/stencil/)
+* [Logo MakerAI](https://www.namecheap.com/logo-maker/)
 * [Business Card Maker](https://www.namecheap.com/visual/card-maker/)
+* [Business Name Generator](https://www.namecheap.com/visual/business-name-generator/)
 
 **[Careers](https://www.namecheap.com/careers/)**
 
 **[Affiliates](https://www.namecheap.com/affiliates/)**
 
-**[Send us Feedback](https://support.namecheap.com/index.php?/Tickets/Submit/RenderForm/59)**
+**[Send us Feedback](mailto:feedback@namecheap.com?subject=Send%20us%20Feedback)**
 
 **
 
