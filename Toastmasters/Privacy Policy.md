@@ -31,10 +31,6 @@ Search  Search
 1. [Home](https://www.toastmasters.org/)
 2. /Privacy Policy
 
-[×](#)
-
-June 14 is the last day for District Directors to place District supply orders for the 2023-2024 term.
-
 Privacy Policy
 ==============
 
