@@ -419,7 +419,7 @@ Legal
 
 * * *
 
-[](https://mega.io/)The Privacy Company. User-encrypted cloud services © MEGA 2024 All rights reserved Follow MEGA
+[](https://mega.io/)The Privacy Company User-encrypted cloud services © MEGA 2024 All rights reserved Follow MEGA
 
 [](https://www.facebook.com/MEGAprivacy)[](https://www.instagram.com/MEGA_privacy/)[](https://twitter.com/MEGAprivacy)[](https://www.linkedin.com/company/mega-the-privacy-company)[](https://www.youtube.com/channel/UCL0n8SACU_eghsvHxbizKCA)[](https://www.threads.net/@mega_privacy)
 
@@ -538,9 +538,3 @@ Save settings
 العربية 简体中文 繁體中文 Nederlands English Français Deutsch Indonesia Italiano 日本語 한국어 Polski Português Română Русский Español ไทย Tiếng Việt
 
 Save
-
-##### You're not logged in
-
-Log in to MEGA to complete your purchase. If you don't have an account, create one first.
-
-Log inCreate an account
