@@ -1,6 +1,4 @@
-Online Converter
-
-[Home](https://www.onlineconverter.com/) > [Terms of Service](https://www.onlineconverter.com/terms)
+[Online Converter](https://www.onlineconverter.com/)
 
 Terms of Service
 ================
@@ -103,4 +101,4 @@ As used in Terms of Service ("Agreement"), "you", "user" or "your" refers to you
     Your use of OnlineConverter.com is at your own risk. If you are dissatisfied with any aspect of our Service or with these terms of service, or any other rules or policies, or if you have any questions about these Terms of Service, please contact us.
     
 
-[Home](https://www.onlineconverter.com/) | [About](https://www.onlineconverter.com/about) | [Terms](https://www.onlineconverter.com/terms) | [Privacy](https://www.onlineconverter.com/privacy) | [Support](https://www.onlineconverter.com/support) | © 2024 OnlineConverter.com, All Rights Reserved.
+[About](https://www.onlineconverter.com/about) | [Terms](https://www.onlineconverter.com/terms) | [Privacy](https://www.onlineconverter.com/privacy) | [Support](https://www.onlineconverter.com/support) | © 2024 OnlineConverter.com, All Rights Reserved.
