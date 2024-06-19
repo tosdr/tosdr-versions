@@ -1,4 +1,4 @@
-[![Daft.ie](https://c1.dmstatic.com/1051/frontend/images/logo@2x.png)](https://publish.daft.ie/)
+[![Daft.ie](https://c1.dmstatic.com/ad03aff49d544627f3dc1/frontend/images/logo@2x.png)](https://publish.daft.ie/)
 
 * [Login to MyDaft](https://publish.daft.ie/my-daft/?auth[login]=1)
 * [Register](https://publish.daft.ie/my-daft/?register[u]=1)
@@ -30,7 +30,7 @@ Advertise My Property
     * [Find Estate Agent](https://publish.daft.ie/estate-agents/)
     * [Sold Prices/Price Register](https://publish.daft.ie/price-register/)
     * [Advanced Sale Search](https://publish.daft.ie/sales/?s[advanced]=1)
-    * ![New Badge](https://c1.dmstatic.com/1051/i/new_label_alt.svg) [Calculate your Max Budget ![chevron link](https://c1.dmstatic.com/1051/images/search/chevron.svg)](https://www.daftmortgages.com/?utm_source=Daft%20web%20primarynav) 
+    * ![New Badge](https://c1.dmstatic.com/1052/i/new_label_alt.svg) [Calculate your Max Budget ![chevron link](https://c1.dmstatic.com/1052/images/search/chevron.svg)](https://www.daftmortgages.com/?utm_source=Daft%20web%20primarynav) 
     
 
 * [To Rent](https://publish.daft.ie/lettings/)
@@ -58,7 +58,7 @@ Advertise My Property
 
 * [Overseas](https://publish.daft.ie/overseas/)
 
-[Home](https://publish.daft.ie/) / information **50,125** properties online (104 in the last 24 hours)
+[Home](https://publish.daft.ie/) / information **50,419** properties online (565 in the last 24 hours)
 
 [](https://facebook.com/sharer.php?u=https%3A%2F%2Fwww.daft.ie%2Fprivacy%2F&t=Information)[](https://twitter.com/share?via=daftmedia&url=https%3A%2F%2Fwww.daft.ie%2Fprivacy%2F&text=Information)[](https://plus.google.com/share?url=https%3A%2F%2Fwww.daft.ie%2Fprivacy%2F)
 
