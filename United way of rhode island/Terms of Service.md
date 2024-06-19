@@ -146,6 +146,18 @@ In the News
 
 [See all news](https://www.unitedwayri.org/about-us/newsroom/)
 
+![Studio10's Ben DeCastro talking with Kevin Matta, senior director of people and culture for United Way of Rhode Island.](https://www.unitedwayri.org/wp-content/uploads/bb-plugin/cache/Screen-Shot-2024-06-17-at-9.21.26-AM-1024x577-landscape-898330ae2a425dd551d96965c925002f-.png "Ben_DeCastro_Kevin_Matta")
+
+#### United Way’s Equity Challenge to honor Juneteenth
+
+June 17, 2024
+
+###### Studio10
+
+[Studio10](https://turnto10.com/studio10)'s Ben DeCastro is learning more about... [United Way of Rhode Island's Equity Challenge](https://www.unitedwayri.org/get-involved/commit-to-equity/). The event is meant to help people and businesses become more knowledgeable about topics surrounding diversity, equity, inclusion, justice and more.
+
+[VIEW ON SITE](https://turnto10.com/studio10/united-way-of-rhode-islands-equity-challenge-to-honor-juneteenth#)
+
 ![Roshni Darnal is United Way of Rhode Island’s director of community investments. / Courtesy United Way of Rhode Island.](https://www.unitedwayri.org/wp-content/uploads/bb-plugin/cache/Five_Questions_With_Roshni_Darnal_Featured_Image-landscape-20d9e5a7c321ddf7475f491e433bfaa4-.png "Five_Questions_With_Roshni_Darnal_Featured_Image")
 
 #### Five Questions With: Roshni Darnal
@@ -167,18 +179,6 @@ May 10, 2023
 According to the Kaiser Family Foundation, 89% of adults 65 and older take prescription medicine. For seniors who have mobility issues or are unable to leave their homes to go to the pharmacy, using a prescription delivery service is a simple solution.
 
 This resource provides seniors and their caregivers with the top prescription delivery services, information on financial assistance options, and guidance on choosing the best service for their specific needs. Learn more at: [www.caring.com/best-prescription-delivery-services/](https://www.caring.com/best-prescription-delivery-services/)
-
-![Providence Business News Best Places to Work RI Awards Winner 2023 logo.](https://www.unitedwayri.org/wp-content/uploads/bb-plugin/cache/BPTWRI2023winner_31711840_Featured_Image-landscape-3b9844baedf09f548310127fb65f7638-.png "BPTWRI2023winner_31711840_Featured_Image")
-
-#### PBN announces 2023 Best Places to Work honorees
-
-April 28, 2023
-
-###### Providence Business News
-
-Sixty-seven honorees, including [United Way of Rhode Island](https://www.unitedwayri.org/), have been named by Providence Business News for its 2023 Best Places to Work Awards program... The honorees will be recognized June 7 for their efforts in a [ceremony at Crowne Plaza Providence-Warwick in Warwick](https://pbn.com/event/2023-best-places-to-work/), where the company rankings in each category will be announced.
-
-[READ ON SITE](https://pbn.com/pbn-announces-2023-best-places-to-work-honorees/?bypass=644a996b28f1f)
 
 Press Releases
 
@@ -214,40 +214,6 @@ UPCOMING EVENTS
 ---------------
 
 [See all events](https://www.unitedwayri.org/get-involved/join-an-event/)
-
-[![United Way of Rhode Island](https://www.unitedwayri.org/wp-content/uploads/bb-plugin/cache/United-Way-Day-of-Action-76-scaled-1024x576-landscape-7146feb0d6073cea205f26b248b74710-.jpg "United Way of Rhode Island")](https://www.unitedwayri.org/event/day-of-action-2/)
-
-08 Jun
-
-#### [Day of Action](https://www.unitedwayri.org/event/day-of-action-2/ "Day of Action")
-
-Saturday, June 8, 2024  
-9 a.m. - 3:30 p.m.
-
-Join us at United Way of Rhode Island to sort and label donated children's books!  
-50 Valley Street, Providence, RI  02909
-
-Morning shift  | 9 a.m. - 12 p.m.  
-Afternoon shift | 12:30 - 3:30 p.m.
-
-United Way LIVE UNITED t-shirts and refreshments will be provided.
-
-[REGISTER](https://uwriweb.org/comm/SinglePageRegEvent.jsp?EventKeyHex=3133383730)
-
-[![DSC_8255](https://www.unitedwayri.org/wp-content/uploads/bb-plugin/cache/DSC_8255-scaled-1024x682-landscape-8de31f79ee2d3b401c0257ccfdeb1fe7-.jpeg "DSC_8255")](https://www.unitedwayri.org/event/women-united-summer-social/)
-
-12 Jun
-
-#### [Women United Summer Social](https://www.unitedwayri.org/event/women-united-summer-social/ "Women United Summer Social")
-
-Join Women United members for a summer social.
-
-Wednesday, June 12, 2024  
-5:30 - 8 p.m.
-
-Cafe Nuovo, One Citizens Plaza, Providence
-
-[Register](https://uwriweb.org/comm/SinglePageRegEvent.jsp?EventKeyHex=3134323832)
 
 [![WebBanners1](https://www.unitedwayri.org/wp-content/uploads/bb-plugin/cache/WebBanners1-scaled-1024x455-landscape-d1e25a036d62cdc3377f93e606b98a7d-.jpg "WebBanners1")](https://www.unitedwayri.org/event/equity-challenge-2024/)
 
