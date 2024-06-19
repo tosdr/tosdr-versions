@@ -551,7 +551,7 @@ SearchCtrl + K
         * [Request Discord Role](https://info.sonorancad.com/pricing/faq/request-discord-role)
             
         
-    * [View and Compare Plans](https://app.sonorancad.com/#/pricing)
+    * [View and Compare Plans](https://sonorancad.com/pricing)
 * Roadmap
     
     * [📋Changelog](https://info.sonorancad.com/roadmap/changelog)
@@ -688,7 +688,7 @@ If you have any questions or concerns about our use of your information, please 
 
 [PreviousTerms of Service](https://info.sonorancad.com/other/policy/terms-of-service)[NextRefund and Purchase Policy](https://info.sonorancad.com/other/policy/refund-and-purchase-policy)
 
-Last updated 27 days ago
+Last updated 1 month ago
 
 On this page
 
