@@ -117,8 +117,8 @@ ABOUT WILBOOKS
 
 CONTACT WILBOOKS
 
-1311 West Chester Pike  
-West Chester, PA 19382  
+929 South High Street  
+Suite 17, Box 155  
 Tel: 610-436-8755  
 Fax: 610-436-6288  
 [EMAIL US](https://www.wilbooks.com/contact-wilbooks)  
