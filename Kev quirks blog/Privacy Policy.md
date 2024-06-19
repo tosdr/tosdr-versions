@@ -3,7 +3,7 @@ Kev Quirk
 
 Menu
 
-[Blog](https://kevquirk.com/) [Notes](https://kevquirk.com/notes) [About](https://kevquirk.com/about) [Contact](https://kevquirk.com/contact) [Search](https://kevquirk.com/search) [Subscribe](https://kevquirk.com/subscribe) More... [Blogroll](https://kevquirk.com/blogroll) [Contribute](https://kevquirk.com/contribute) [Guestbook](https://kevquirk.com/guestbook) [PenPals](https://kevquirk.com/penpals) [Projects](https://kevquirk.com/projects) [Watches](https://kevquirk.com/watches) [Watch Log](https://kevquirk.com/watch-log)
+[Blog](https://kevquirk.com/) [Notes](https://kevquirk.com/notes) [About](https://kevquirk.com/about) [Contact](https://kevquirk.com/contact) [Search](https://kevquirk.com/search) [Subscribe](https://kevquirk.com/subscribe) More... [Blogroll](https://kevquirk.com/blogroll) [Guestbook](https://kevquirk.com/guestbook) [PenPals](https://kevquirk.com/penpals) [Projects](https://kevquirk.com/projects) [Supporters](https://kevquirk.com/supporters) [Watches](https://kevquirk.com/watches) [Watch Log](https://kevquirk.com/watch-log)
 
 Privacy
 =======
@@ -65,15 +65,15 @@ An acceptable attribution that complies with the license would be something simi
 > 
 > \- Stephen King
 
-[Blog](https://kevquirk.com/) [Notes](https://kevquirk.com/notes) [About](https://kevquirk.com/about) [Contact](https://kevquirk.com/contact) [Search](https://kevquirk.com/search) [Subscribe](https://kevquirk.com/subscribe) More... [Blogroll](https://kevquirk.com/blogroll) [Contribute](https://kevquirk.com/contribute) [Guestbook](https://kevquirk.com/guestbook) [PenPals](https://kevquirk.com/penpals) [Projects](https://kevquirk.com/projects) [Watches](https://kevquirk.com/watches) [Watch Log](https://kevquirk.com/watch-log)
+[Blog](https://kevquirk.com/) [Notes](https://kevquirk.com/notes) [About](https://kevquirk.com/about) [Contact](https://kevquirk.com/contact) [Search](https://kevquirk.com/search) [Subscribe](https://kevquirk.com/subscribe) More... [Blogroll](https://kevquirk.com/blogroll) [Guestbook](https://kevquirk.com/guestbook) [PenPals](https://kevquirk.com/penpals) [Projects](https://kevquirk.com/projects) [Supporters](https://kevquirk.com/supporters) [Watches](https://kevquirk.com/watches) [Watch Log](https://kevquirk.com/watch-log)
 
 [](https://fosstodon.org/@kev "Mastodon")[](https://signal.me/#eu/iBLb4wMVSnBCrHCHnyWf8Ef0ou9ednD1ALTbPMUSZwuaTk4xOzlACaSjI16V5eJk "Signal Messenger")[](mailto:72ja@qrk.one "Email")[](https://kevq.uk/feed "RSS Feed")
 
-Enjoyed my content? You can say thanks by buying me a coffee if you like.
+If you enjoy my content and feel generous, please consider supporting what I do, [like some others have](https://kevq.uk/supporters).
 
 Thank you.
 
-[Buy me a coffee](https://ko-fi.com/kevquirk)
+[Donate](https://ko-fi.com/kevquirk)
 
 Enter your email below to subscribe to new posts by email. No spam, ever. Pinky-promise.
 
