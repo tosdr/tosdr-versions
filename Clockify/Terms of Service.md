@@ -365,7 +365,7 @@ User must keep all the billing data in the User Account complete and accurate (s
 
 **17.2 Payment Authorization and Payment Roles.** Anyone who subscribes to our Services, including anyone who has permitted or caused another person or Enterprise to participate in a Subscription Plan or who permits or causes another person to make an order on their behalf, is deemed to have agreed to and accepted liability for the payments under such Subscription Plan. The same rules will apply to anyone who permits to be designated as a payer for a Subscription Plan.
 
-For the purpose of this Agreement, all Business Users and Authorizes Users are categorized as Owners or Admins, according to their payment roles, whereas Business Users are designated as Owners and Authorized Users are designated as Admins.
+For the purpose of this Agreement, all Business Users and Authorized Users are categorized as Owners or Admins, according to their payment roles, whereas Business Users are designated as Owners and Authorized Users are designated as Admins.
 
 Business User, who on behalf of an Enterprise, owns or manages a Workspace ("**Owner**") is entitled to authorize and make payments to CAKE.com for all amounts due and owing in connection with your use of the Services. Additionally, each Authorized User, as an end user who has been invited, permitted, or caused to have access to a shared Workspace by a Business User, and who uses our Services based on the license lawfully obtained by the Enterprise ("**Admin**") is entitled to authorize and make payments to CAKE.com independently, for all amounts due and owing in connection with your use of the Services.
 
@@ -817,12 +817,13 @@ If any provision of this Agreement violates any mandatory rule of applicable Law
 
 ##### Products
 
-* [Try](https://clockify.me/try)
 * [Suite](https://clockify.me/suite)
 * [Bundle](https://clockify.me/bundle)
 * [Plaky](https://clockify.me/plaky)
 * [Pumble](https://clockify.me/pumble)
 * [Clockify](https://clockify.me/clockify)
+* [Updates](https://clockify.me/updates/)
+* [Try for free](https://clockify.me/try)
 * [Request a demo](https://clockify.me/empowered-team/bundle-sales/)
 
 ##### Company
@@ -831,9 +832,10 @@ If any provision of this Agreement violates any mandatory rule of applicable Law
 * [Careers](https://clockify.me/careers)
 * [Press](https://clockify.me/press)
 * [Customers](https://clockify.me/customers)
-* [Marketplace![](/assets/images/icons/arrow-up-right.svg)](https://marketplace.cake.com/)
-* [Brand ![](/assets/images/icons/arrow-up-right.svg)](https://brand.cake.com/) 
-* [Blog ![](/assets/images/icons/arrow-up-right.svg)](https://cake.com/empowered-team/) 
+* [Affiliate](https://clockify.me/affiliate)
+* [Marketplace](https://marketplace.cake.com/)
+* [Brand](https://brand.cake.com/)
+* [Blog](https://cake.com/empowered-team/)
 
 ##### Follow us
 
