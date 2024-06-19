@@ -1,8 +1,8 @@
 [Skip to main content](#main-content)
 
-NRF PROTECT 2024 Jun 4-6 June 4-6
+NRF Nexus Jun 4-6 July 15-17
 
-[](https://nrfprotect.nrf.com/)
+[](https://nexus.nrf.com/?utm_source=Website&utm_medium=nrf.com&utm_campaign=Nexus%202024)
 
 Related Sites Menu
 ------------------
