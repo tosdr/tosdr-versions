@@ -86,11 +86,11 @@ We may make changes to this document with no less than 2 weeks notice. Notice of
 
 ### About this wiki
 
-commit [a290ce243e74f89fc35cd4e3467a580edbc35399](https://git.sr.ht/~sircmpwn/sr.ht-docs/commit/a290ce243e74f89fc35cd4e3467a580edbc35399)
-Author: Drew DeVault <sir@cmpwn.com>
-Date:   2024-05-27T14:24:11+02:00
+commit [48012c22fb5241abb7736a2f9627b50234fa6510](https://git.sr.ht/~sircmpwn/sr.ht-docs/commit/48012c22fb5241abb7736a2f9627b50234fa6510)
+Author: Taavi Väänänen <hi@taavi.wtf>
+Date:   2024-05-31T15:35:19+02:00
 
-license.md: add link to joinup chooser
+builds.sr.ht/compatibility: Update my email address
 
 **Clone this wiki**
 
