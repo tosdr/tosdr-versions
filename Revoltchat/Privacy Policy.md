@@ -94,3 +94,7 @@ Data processing is based on Art. 6(1)(f) of the GDPR (DSGVO): the website or mob
 #### Legal
 
 [Community Guidelines](https://revolt.chat/aup)[Terms of Service](https://revolt.chat/terms)[Privacy Policy](https://revolt.chat/privacy)
+
+#### Subscribe
+
+[RSS](https://revolt.chat/feed/rss)[Atom](https://revolt.chat/feed/atom)[JSON](https://revolt.chat/feed/json)
