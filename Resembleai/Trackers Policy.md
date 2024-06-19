@@ -4,7 +4,7 @@
 
 Q
 
-[![Resemble AI - AI Voice Generator](data:image/svg+xml;nitro-empty-id=MzQ3OjIzNg==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTI4MCAyNjkiIHdpZHRoPSIxMjgwIiBoZWlnaHQ9IjI2OSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://www.resemble.ai/)
+[![Resemble AI - AI Voice Generator](data:image/svg+xml;nitro-empty-id=MzQ2OjIzNg==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTI4MCAyNjkiIHdpZHRoPSIxMjgwIiBoZWlnaHQ9IjI2OSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://www.resemble.ai/)
 
 * [Generative](https://www.resemble.ai/our-solution/)
 * [Detect](https://www.resemble.ai/detect-solution/)
