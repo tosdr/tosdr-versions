@@ -54,3 +54,5 @@ By submitting information or material (such as feedback, data, answers, question
 Copyright © Cargotec Corporation 2011
 
 [Privacy Statement - Sales and Marketing](https://www.cargotec.com/en/privacy-statement/)
+
+[Cookie Policy](https://www.cargotec.com/en/cookie-policy/)
