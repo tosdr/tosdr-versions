@@ -1,8 +1,8 @@
-[![](https://assets-global.website-files.com/607e95dd55a23da7c01cb8f5/6543cf1eaff95912b51280b8_Ntegra%20Logo.svg)](https://www.ntegra.com/)
+[![](https://cdn.prod.website-files.com/607e95dd55a23da7c01cb8f5/6543cf1eaff95912b51280b8_Ntegra%20Logo.svg)](https://www.ntegra.com/)
 
 [Our Work](https://www.ntegra.com/work)[Our Events](https://www.ntegra.com/events)[Our Resources](https://www.ntegra.com/resources)[Our Blog](https://www.ntegra.com/insights)[Collaborate!](https://www.ntegra.com/contact)
 
-![](https://assets-global.website-files.com/607e95dd55a23da7c01cb8f5/6558828f6ee50ee7971cbfba_Cookie%20Policy%20Hero.webp)
+![](https://cdn.prod.website-files.com/607e95dd55a23da7c01cb8f5/6558828f6ee50ee7971cbfba_Cookie%20Policy%20Hero.webp)
 
 Our Cookie Policy
 =================
@@ -34,7 +34,7 @@ You block cookies by activating the setting on your browser that allows you to r
 
 Except for essential cookies, all cookies will expire after 1 day.
 
-[![](https://assets-global.website-files.com/607e95dd55a23da7c01cb8f5/65492dcb0d7b52b55d4e816b_footer-logo.png)](#)
+[![](https://cdn.prod.website-files.com/607e95dd55a23da7c01cb8f5/65492dcb0d7b52b55d4e816b_footer-logo.png)](#)
 
 Sign up to our newsletter
 
@@ -44,7 +44,7 @@ Thank you! Your submission has been received!
 
 Oops! Something went wrong while submitting the form.
 
-[](#)[](https://twitter.com/Ntegra)[](https://www.linkedin.com/company/636263)
+[](#)[](https://www.linkedin.com/company/636263)
 
 #### About
 
@@ -60,11 +60,11 @@ Oops! Something went wrong while submitting the form.
 
 #### Socials
 
-[LinkedIn](https://www.linkedin.com/company/636263)[Twitter](https://twitter.com/Ntegra)[Facebook](#)
+[LinkedIn](https://www.linkedin.com/company/636263)[Facebook](#)
 
 ©2022 Ntegra Ltd. All rights reserved
 
-![](https://assets-global.website-files.com/607e95dd55a23da7c01cb8f5/609a6407ae5620546a798fd6_chocolate-chip.svg)
+![](https://cdn.prod.website-files.com/607e95dd55a23da7c01cb8f5/609a6407ae5620546a798fd6_chocolate-chip.svg)
 
 We use cookies to improve your experience on this site.  
 
