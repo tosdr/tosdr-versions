@@ -185,7 +185,7 @@ English
 DOWNLOAD
 --------
 
-![](https://www.pokemonsleep.net/wp/wp-content/themes/sleep/img/logo-4.png)
+![Pokémon Sleep](/img/logo-4.png)
 
 ![](https://www.pokemonsleep.net/wp/wp-content/themes/sleep/img/logo-2.jpg)
 
