@@ -102,17 +102,17 @@ All Resources](https://www.ownbackup.com/resources)
 
 On The Blog
 
-[Compliance
-
-23 NYCRR 500: How Financial Institutions and Insurers Can Accelerate Compliance for SaaS Data](https://www.ownbackup.com/blog/23-nycrr-500-how-financial-services-companies-can-accelerate-compliance-for-saas-data)
-
 [Featured
 
 5 Ways to Improve Your Cloud Security Posture](https://www.ownbackup.com/blog/five-ways-to-improve-your-cloud-security-posture)
 
-[Backup and Recovery
+[Salesforce
 
-5 Steps For Creating a Backup Strategy](https://www.ownbackup.com/blog/5-steps-in-creating-a-backup-strategy)
+Everything You Need to Know About Salesforce Experience Cloud (and Mistakes to Avoid)](https://www.ownbackup.com/blog/everything-you-need-to-know-about-salesforce-experience-cloud-and-mistakes-to-avoid)
+
+[Data Management
+
+Evolve Your Data Vigilance With Your Use of Salesforce](https://www.ownbackup.com/blog/evolve-your-data-vigilance-with-your-use-of-salesforce)
 
 Company
 
@@ -193,6 +193,10 @@ Hyderabad, Telangana 500081
 [](https://www.ownbackup.com/search)[Support](https://www.ownbackup.com/support)[Get a Demo](https://www.ownbackup.com/request-demo)
 
 [![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/64d3993aeb60ee547f18c083_4c%20Black.png)](https://www.ownbackup.com/)
+
+Thank you! Your submission has been received!
+
+Oops! Something went wrong while submitting the form.
 
 Products
 
@@ -304,17 +308,17 @@ All Resources](https://www.ownbackup.com/resources)
 
 On The Blog
 
-[Compliance
-
-23 NYCRR 500: How Financial Institutions and Insurers Can Accelerate Compliance for SaaS Data](https://www.ownbackup.com/blog/23-nycrr-500-how-financial-services-companies-can-accelerate-compliance-for-saas-data)
-
 [Featured
 
 5 Ways to Improve Your Cloud Security Posture](https://www.ownbackup.com/blog/five-ways-to-improve-your-cloud-security-posture)
 
-[Backup and Recovery
+[Salesforce
 
-5 Steps For Creating a Backup Strategy](https://www.ownbackup.com/blog/5-steps-in-creating-a-backup-strategy)
+Everything You Need to Know About Salesforce Experience Cloud (and Mistakes to Avoid)](https://www.ownbackup.com/blog/everything-you-need-to-know-about-salesforce-experience-cloud-and-mistakes-to-avoid)
+
+[Data Management
+
+Evolve Your Data Vigilance With Your Use of Salesforce](https://www.ownbackup.com/blog/evolve-your-data-vigilance-with-your-use-of-salesforce)
 
 [Support](https://www.ownbackup.com/support)
 
