@@ -14,7 +14,7 @@ Menu Close
     * [All Creatures Great and Small](https://www.gpb.org/television/show/all-creatures-great-and-small)
     * [Miss Scarlet & The Duke](https://www.gpb.org/television/show/miss-scarlet-the-duke)
     * [Antiques Roadshow](https://www.gpb.org/television/show/antiques-roadshow)
-    * [PBS Newshour](https://www.gpb.org/television/show/pbs-newshour)
+    * [PBS Newshour](https://www.gpb.org/television/show/pbs-news-hour)
     * [Finding Your Roots](https://www.gpb.org/television/show/finding-your-roots)
     * [The U.S. and the Holocaust](https://www.gpb.org/television/show/the-us-and-the-holocaust)
     
