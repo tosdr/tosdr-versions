@@ -1,10 +1,12 @@
 [Cal.com logo](https://cal.com/)®
 
+[Hiring](https://cal.com/jobs)
+
 * [Pricing](https://cal.com/pricing)
     
-* plans
+* Products
     
-* [Products](https://cal.com/resources/features)
+* [Features](https://cal.com/resources/features)
     
 * [Docs](https://cal.com/docs)
     
@@ -13,7 +15,7 @@
 
 [Login](https://app.cal.com/)
 
-[Pricing](https://cal.com/pricing)[Platform](https://cal.com/platform)[Enterprise](https://cal.com/enterprise)[Products](https://cal.com/resources/features)[Docs](https://cal.com/docs)[Blog](https://cal.com/blog)[Merch](https://cal.com/merch)
+[Pricing](https://cal.com/pricing)[Platform](https://cal.com/platform)[Enterprise](https://cal.com/enterprise)[Features](https://cal.com/resources/features)[Docs](https://cal.com/docs)[Blog](https://cal.com/blog)[Merch](https://cal.com/merch)
 
 Existing customer? [Login](https://app.cal.com/)
 
@@ -342,15 +344,17 @@ Let people book when it works for both of you
 
 -------------------------------------------------
 
-cal.com/
+[Get Started](https://cal.com/signup)[Contact Sales](https://cal.com/sales)
 
-Claim username
+![Product of the Day](/product-of-the-day.svg)![Product of the Week](/product-of-the-week.svg)![Product of the Month](/product-of-the-month.svg)![Cal.com on Product Hunt](/producthunt.svg)![Cal.com on Google](/google-reviews.svg)![Cal.com on G2](/g2.svg)
 
 ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
 ![](/_next/static/media/grid.cf5386be.svg)
 
 [Cal logo](https://cal.com/)
+
+[Hiring](https://cal.com/jobs)
 
 ®
 
@@ -371,20 +375,28 @@ English
 * [SaaS Hosting](https://cal.com/pricing)
 * [Docs](https://cal.com/docs/)
 * [Cal.ai – AI Phone Agent](https://cal.com/ai)
-* [FAQ](https://cal.com/faq)
 * [Enterprise](https://cal.com/enterprise)
 * [Platform](https://cal.com/platform)
+* [Cal.com Atoms](https://cal.com/platform)
+* [Unified Calendar API](https://cal.com/unified)
 * [Desktop App](https://cal.com/download)
+* [FAQ](https://cal.com/faq)
 * [Enterprise API](https://cal.com/docs/enterprise-features/api)
 * [Github](https://github.com/calcom/cal.com)
 * [Docker](https://cal.com/docs/introduction/quick-start/self-hosting/docker)
 
 * Use Cases
-* [Recruiting](https://cal.com/resources/usecases/recruiting)
-* [Sales Team](https://cal.com/resources/usecases/sales-team)
-* [Education](https://cal.com/resources/usecases/education)
-* [Hiring Marketplace](https://cal.com/resources/usecases/hiring-marketplace)
+* [Sales](https://cal.com/scheduling/sales-teams)
+* [Talent Acquisition](https://cal.com/scheduling/talent-acquisition-teams)
+* [Customer Support](https://cal.com/scheduling/customer-support)
+* [Higher Education](https://cal.com/scheduling/higher-education)
 * [Telehealth](https://cal.com/resources/usecases/telehealth)
+* [Professional Services](https://cal.com/scheduling/professional-services)
+* [Hiring Marketplace](https://cal.com/resources/usecases/hiring-marketplace)
+* [Human Resources](https://cal.com/scheduling/people-operations)
+* [Tutoring](https://cal.com/resources/usecases/education)
+* [C-suite](https://cal.com/scheduling/c-suite)
+* [Law](https://cal.com/scheduling/law)
 
 * resources
 * [Blog](https://cal.com/blog)
@@ -410,3 +422,12 @@ English
 * [License](https://github.com/calcom/cal.com/blob/main/LICENSE)
 * [Security](https://cal.com/security)
 * [Changelog](https://cal.com/subscribe)
+
+* Compare to
+* [Calendly](https://cal.com/scheduling/calendly-alternative)
+* [ChiliPiper](https://cal.com/scheduling/chilipiper-alternative)
+* [Acuity](https://cal.com/scheduling/acuity-alternative)
+* [Nylas](https://cal.com/scheduling/nylas-alternative)
+* [Savvycal](https://cal.com/scheduling/savvycal-alternative)
+* [Cronofy](https://cal.com/scheduling/cronofy-alternative)
+* [Timekit](https://cal.com/scheduling/timekit-alternative)
