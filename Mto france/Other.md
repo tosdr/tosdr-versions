@@ -202,7 +202,7 @@ Suivez-nous
 Droits de Reproduction
 ======================
 
-09/06/2024
+19/06/2024
 
 Décharge de responsabilité
 --------------------------
@@ -251,7 +251,7 @@ Météo-France se réserve cependant le droit de
 
 Tous les droits qui ne sont pas expressément concédés aux termes des présentes sont réservés par Météo-France. 
 
-[![En vigilance pluie-inondation, un petit trajet, c'est un grand danger](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "En vigilance pluie-inondation, un petit trajet, c'est un grand danger")](https://meteofrance.com/comprendre-la-vigilance)
+[![Participez au concours photo l'oeil du climat](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Concours photo l'oeil du climat")](https://www.geo.fr/page/concours-photo-climat)
 
 Top 20 des villes les plus consultées
 
