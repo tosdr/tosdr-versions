@@ -465,7 +465,7 @@ Choose region
 
 * * *
 
-[CA Transparency in Supply Chains Act](https://www.chobani.com/legal-and-regulatory-complicance)
+[CA Transparency in Supply Chains Act](https://www.chobani.com/legal-and-regulatory-compliance)
 
 * * *
 
@@ -541,7 +541,7 @@ Choose region
 
 * * *
 
-[CA Transparency in Supply Chains Act](https://www.chobani.com/legal-and-regulatory-complicance)
+[CA Transparency in Supply Chains Act](https://www.chobani.com/legal-and-regulatory-compliance)
 
 * * *
 
