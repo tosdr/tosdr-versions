@@ -18,13 +18,13 @@
 
 [Vote now](https://nextcloud.com/blog/vote-for-nextcloud-in-the-cloudcomputing-insider-award-2024/ "Vote for Nextcloud in the CloudComputing-Insider Award 2024")
 
-[![Migration to Nextcloud](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
-![Migration to Nextcloud](https://nextcloud.com/c/uploads/2022/12/nextcloud-migration.png)](https://nextcloud.com/migration/ "Migration")
+![](https://nextcloud.com/c/uploads/2024/06/conference-icon-blue-2.svg)](https://nextcloud.com/conference-2024/ "Nextcloud Community Conference 2024")
 
-[Looking to **migrate to Nextcloud?**](https://nextcloud.com/migration/ "Migration")
+[Nextcloud Community **Conference 2024**](https://nextcloud.com/conference-2024/ "Nextcloud Community Conference 2024")
 
-[Move now](https://nextcloud.com/migration/ "Migration")
+[Register now](https://nextcloud.com/conference-2024/ "Nextcloud Community Conference 2024")
 
 [![Nextcloud logo](https://nextcloud.com/c/uploads/2023/02/logo_nextcloud_white.svg)](https://nextcloud.com/ "Nextcloud")
 
@@ -73,7 +73,7 @@
         Nextcloud at homeFor families, students & you](https://nextcloud.com/athome/)
 * [Resources](#)
     * [Blog](https://nextcloud.com/blog/)
-    * [Events](https://nextcloud.com/events)
+    * [Events](https://nextcloud.com/events/)
     * [Press](https://nextcloud.com/press/)
     * [Webinars](https://nextcloud.com/webinars/)
     * [Nextcloud Podcast](https://nextcloud.com/podcast/)
@@ -442,15 +442,17 @@ Consent
 
 Statistics [More details](#)
 
-Statistics cookies collect information anonymously and help us understand how our visitors use our website. We use on-premises [Matomo](https://matomo.org/)
+Statistics cookies collect information anonymously and help us understand how our visitors use our website. We use cloud-hosted [Matomo](https://matomo.org/matomo-cloud/)
 
 Service:Matomo
 
 Cookies description: \_pk\_ses\*: Counts the first visit of the user  
-\_pk\_id\*: Helps not to double count the visits.
+\_pk\_id\*: Helps not to double count the visits.  
+mtm\_cookie\_consent: Remembers that consent for storing and using cookies was given by the user.
 
 Cookies expiry:\_pk\_ses\*: 30 minutes  
-\_pk\_id\*: 28 days
+\_pk\_id\*: 28 days  
+mtm\_cookie\_consent: 30 days
 
 Consent 
 
