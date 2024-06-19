@@ -1,8 +1,3 @@
-Cookies on the FT
------------------
-
-We use [cookies](https://help.ft.com/help/legal-privacy/cookies/) for a number of reasons, such as keeping FT Sites reliable and secure, personalising content and ads, providing social media features and to analyse how our Sites are used.
-
 [Open drawer menu](#o-header-drawer "Open drawer menu")
 
 [Financial Times](https://www.ft.com/ "Go to Financial Times homepage")
