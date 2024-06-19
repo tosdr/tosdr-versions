@@ -1,4 +1,4 @@
-[Download Now: The Supergraph Architecture Guide, 2024 Edition](https://hasura.io/resources/supergraph-architecture-guide)
+[Is GraphQL dead? We debate on this month's Community Call. Join us on 6/27](https://hasura.io/events/community-call/2024/june?utm_campaign=2024-06-community-call&utm_source=&utm_medium=website&utm_content=)
 
 [](https://hasura.io/)
 
