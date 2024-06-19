@@ -1,6 +1,6 @@
 [Skip to content](#content)
 
- [![Weekly | A Better Budget App Logo](data:image/svg+xml;nitro-empty-id=MTYzOjQ1MQ==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTIyIDU0IiB3aWR0aD0iMTIyIiBoZWlnaHQ9IjU0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==) ![Weekly | A Better Budget App Logo](data:image/svg+xml;nitro-empty-id=MTY2OjQ4OQ==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNzQgMzMiIHdpZHRoPSI3NCIgaGVpZ2h0PSIzMyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://weeklybudgeting.com/)
+ [![Weekly | A Better Budget App Logo](data:image/svg+xml;nitro-empty-id=MTUxOjQ1MQ==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTIyIDU0IiB3aWR0aD0iMTIyIiBoZWlnaHQ9IjU0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==) ![Weekly | A Better Budget App Logo](data:image/svg+xml;nitro-empty-id=MTU0OjQ4OQ==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNzQgMzMiIHdpZHRoPSI3NCIgaGVpZ2h0PSIzMyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://weeklybudgeting.com/)
 
 Search for: 
 
