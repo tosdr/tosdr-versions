@@ -3,7 +3,7 @@
 ![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27300%27%20height=%2752%27/%3e)![EarthLink logo](/images/elnk-logo-type.svg)](https://www.earthlink.net/)
 
 * [Home](https://www.earthlink.net/tcs/dmca-policy/#)
-* [Business Internet](https://www.earthlink.net/internet/business-internet/)
+* [Business Internet](https://business.earthlink.net/business-internet/)
 
 [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![agent image](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
@@ -87,7 +87,7 @@ Internet
 * [Internet](https://www.earthlink.net/internet/)
 * [Fiber Internet](https://www.earthlink.net/internet/fiber-internet/)
 * [Wireless Home Internet](https://www.earthlink.net/internet/wireless-home-internet/)
-* [Business Internet](https://www.earthlink.net/internet/business-internet/)
+* [Business Internet](https://business.earthlink.net/business-internet/)
 * [Internet Near Me](https://www.earthlink.net/internet-near-me/)
 * [Satellite Internet](https://www.earthlink.net/internet/satellite-internet/)
 * [Rural Internet](https://www.earthlink.net/internet/rural-internet/)
