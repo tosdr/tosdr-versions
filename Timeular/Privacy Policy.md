@@ -125,13 +125,13 @@
     
     [See all](https://timeular.com/blog/)
     
-    [14 Best Digital Planners (Free and Paid)](https://timeular.com/blog/best-free-digital-planners/)
+    [Resource Allocation 101: How Are Resources Allocated](https://timeular.com/blog/resource-allocation/)
     
-    [The 4 Quadrants of Time Management Matrix \[Guide\]](https://timeular.com/blog/time-management-matrix/)
+    [10 Best Lawyer Time Tracking Software](https://timeular.com/blog/best-time-tracking-lawyers/)
     
-    [10 Best Prioritization Techniques for Agile in 2024](https://timeular.com/blog/best-prioritization-techniques/)
+    [Time Blocking: My Favorite Productivity Tool \[2024\]](https://timeular.com/blog/time-blocking/)
     
-    [How to Use a Planner: Tips and Ideas for Beginners](https://timeular.com/blog/how-to-use-a-planner/)
+    [The 12 Best Productivity Podcasts You Should Listen To](https://timeular.com/blog/7-best-productivity-podcasts-you-need-to-listen-to/)
     
 * [Pricing](https://timeular.com/pricing/)
 * [Tracker](https://timeular.com/tracker/)
