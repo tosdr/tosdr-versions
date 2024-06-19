@@ -10,11 +10,13 @@ K
 
 [Purchase Information](https://topazlabs.com/sales-account-licensing/before-you-buy)
 
-[How Many Computers Can I Install My Apps On?](https://topazlabs.com/sales-account-licensing/before-you-buy/how-many-computers-can-i-install-my-apps-on)[Is Your Purchase A Subscription?](https://topazlabs.com/sales-account-licensing/before-you-buy/is-our-software-a-subscription)[User Licenses and Upgrade Licenses](https://topazlabs.com/sales-account-licensing/before-you-buy/user-licenses-and-upgrade-licenses)[Refund Policy](https://topazlabs.com/sales-account-licensing/before-you-buy/refund-policy)[What Languages Are Available In Each App?](https://topazlabs.com/sales-account-licensing/before-you-buy/what-languages-are-available)[Topaz Labs End User License Agreement (EULA)](https://topazlabs.com/sales-account-licensing/before-you-buy/topaz-labs-eula)[Privacy Policy](https://topazlabs.com/sales-account-licensing/before-you-buy/privacy-policy)[Terms and Conditions](https://topazlabs.com/sales-account-licensing/before-you-buy/terms)
+[How Many Computers Can I Install My Apps On?](https://topazlabs.com/sales-account-licensing/before-you-buy/how-many-computers-can-i-install-my-apps-on)[Is Your Purchase A Subscription?](https://topazlabs.com/sales-account-licensing/before-you-buy/is-our-software-a-subscription)[User Licenses and Upgrade Licenses](https://topazlabs.com/sales-account-licensing/before-you-buy/user-licenses-and-upgrade-licenses)[Refund Policy](https://topazlabs.com/sales-account-licensing/before-you-buy/refund-policy)[What Languages Are Available In Each App?](https://topazlabs.com/sales-account-licensing/before-you-buy/what-languages-are-available)[Privacy Policy](https://topazlabs.com/sales-account-licensing/before-you-buy/privacy-policy)[Terms and Conditions](https://topazlabs.com/sales-account-licensing/before-you-buy/terms)
 
 [Your Account](https://topazlabs.com/sales-account-licensing/your-account)
 
 [What Are Seats?](https://topazlabs.com/sales-account-licensing/your-account/what-are-seats)[See and Download Products You Own](https://topazlabs.com/sales-account-licensing/your-account/see-what-products-you-own)[Reset Your Topaz Labs Password](https://topazlabs.com/sales-account-licensing/your-account/reset-your-topaz-labs-password)[Create A Topaz Labs Account](https://topazlabs.com/sales-account-licensing/your-account/how-to-create-a-topaz-labs-account)[Log In To Your Account](https://topazlabs.com/sales-account-licensing/your-account/log-in-to-your-account)[Log Out Of Your Account](https://topazlabs.com/sales-account-licensing/your-account/log-out-of-your-account)[Access Previous Orders And Invoices](https://topazlabs.com/sales-account-licensing/your-account/view-previous-orders)
+
+[End User License Agreements](https://topazlabs.com/sales-account-licensing/end-user-license-agreements)
 
 [Join Topaz Labs' Beta programs!](https://topazlabs.com/sales-account-licensing/join-topaz-labs-beta-programs)
 
@@ -45,6 +47,8 @@ K
 [Lightroom Classic](https://topazlabs.com/photo-ai/plugins/lightroom-classic)[Photoshop & Photoshop Elements](https://topazlabs.com/photo-ai/plugins/photoshop-and-photoshop-elements)[Capture One](https://topazlabs.com/photo-ai/plugins/capture-one)[Apple Photos](https://topazlabs.com/photo-ai/plugins/apple-photos)[Affinity Photo](https://topazlabs.com/photo-ai/plugins/affinity-photo)[Other Applications](https://topazlabs.com/photo-ai/plugins/other-applications)
 
 [Troubleshooting](https://topazlabs.com/photo-ai/troubleshooting)
+
+[End User License Agreement](https://topazlabs.com/photo-ai/end-user-license-agreement)
 
 #### Video AI
 
@@ -102,7 +106,7 @@ K
 
 [Prepare Your File for Printing](https://topazlabs.com/gigapixel-ai/recommended-workflows/prep-your-file-for-printing)[Customize Your Preferences](https://topazlabs.com/gigapixel-ai/recommended-workflows/customize-your-preferences)
 
-[End User License Agreement](https://topazlabs.com/gigapixel-ai/end-user-license-agreement)
+[End User License Agreements](https://topazlabs.com/gigapixel-ai/end-user-license-agreements)
 
 #### Other Apps
 
