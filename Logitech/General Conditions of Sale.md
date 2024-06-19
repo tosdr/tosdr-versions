@@ -84,16 +84,18 @@ Free standard shipping on orders over $29.00
         * [Portable Mice & Keyboards](https://www.logitech.com/en-us/products/tablet-keyboards.html)
         * [Presentation Remotes](https://www.logitech.com/en-us/products/presenters.html)
         
-        [For Apple®](https://www.logitech.com/en-us/apple.html)
-        -------------------------------------------------------
+        New & Featured
+        --------------
         
-        ![For Apple icon](https://resource.logitech.com/w_316,c_limit,f_auto,q_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/navigation/for-apple-icon.png?v=1)
+        ![Icon with New text](https://resource.logitech.com/w_316,c_limit,f_auto,q_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/navigation/shop-new-products.png?v=1)
         
-        For Apple®
+        New & Featured
         
-        * [For iPad®](https://www.logitech.com/en-us/apple/for-ipad.html)
-        * [For Mac®](https://www.logitech.com/en-us/apple/for-mac.html)
-        * [Explore All](https://www.logitech.com/en-us/apple.html)
+        * [MX Ink for Meta Quest](https://www.logitech.com/en-us/products/vr/mx-ink.html)
+        * [Casa Pop up Desk](https://www.logitech.com/en-us/products/combos/casa-pop-up-desk.html)
+        * [MX Keys S Combo for Mac](https://www.logitech.com/en-us/products/combos/mx-keys-s-combo-for-mac.html)
+        * [MX Brio](https://www.logitech.com/en-us/products/webcams/mx-brio-4k-webcam.html)
+        * [Keys 2 Go](https://www.logitech.com/en-us/products/tablet-keyboards/keys-to-go2-universal.html)
         
         [For Business](https://www.logitech.com/en-us/business.html)
         ------------------------------------------------------------
@@ -143,9 +145,51 @@ Free standard shipping on orders over $29.00
         * [Microphones](https://www.logitechg.com/en-us/products/microphones.html)
         * [Explore all](https://www.logitechg.com/en-us)
         
-        ![Illustration of products](https://resource.logitech.com/w_316,c_limit,f_auto,q_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/navigation/shop-feature-offers.png?v=1)
+        Shop our series
+        ---------------
         
-        * [**See Special Offers** Special Offers](https://www.logitech.com/en-us/sales.html)
+        ![Desk with keyboard and mouse](https://resource.logitech.com/w_316,c_limit,f_auto,q_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/navigation/shop-by-series.png?v=1)
+        
+        Shop our series
+        
+        * [MX Master Series](https://www.logitech.com/en-us/mx/master-series.html)
+        * [Ergo Series](https://www.logitech.com/en-us/ergo/ergo-series.html)
+        * [Made for Apple®](https://www.logitech.com/en-us/apple.html)
+        * [Made for iPad®](https://www.logitech.com/en-us/apple/for-ipad.html)
+        * [Made for Mac®](https://www.logitech.com/en-us/apple/for-mac.html)
+        * [On the Go](https://www.logitech.com/en-us/mobility/mobile-solutions.html)
+        
+    
+* Deals
+    
+    Deals Close
+    
+    * [Current Offers](https://www.logitech.com/en-us/sales.html#current-deals)
+        -------------------------------------------------------------------------
+        
+        [![Multiple product images with discount tags](https://resource.logitech.com/w_316,c_limit,f_auto,q_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/navigation/deals-current-offers.png?v=1)](https://www.logitech.com/en-us/sales.html#current-deals)
+        
+        Current Offers
+        
+        * [Current Offers](https://www.logitech.com/en-us/sales.html#current-deals)
+        
+        [Gifts with Purchase](https://www.logitech.com/en-us/sales.html#gift)
+        ---------------------------------------------------------------------
+        
+        [![Keyboard with sleeve](https://resource.logitech.com/w_316,c_limit,f_auto,q_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/navigation/deals-gifts-with-purchase.png?v=1)](https://www.logitech.com/en-us/sales.html#gift)
+        
+        Gifts with Purchase
+        
+        * [Gifts with Purchase](https://www.logitech.com/en-us/sales.html#gift)
+        
+        [Save with Combos](https://www.logitech.com/en-us/products/combos.html)
+        -----------------------------------------------------------------------
+        
+        [![Hands typing on keyboard and holding a mouse](https://resource.logitech.com/w_316,c_limit,f_auto,q_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/navigation/deals-partner-offers.png?v=1)](https://www.logitech.com/en-us/products/combos.html)
+        
+        Save with Combos
+        
+        * [Save with Combos](https://www.logitech.com/en-us/products/combos.html)
         
     
 * Discover
@@ -242,20 +286,20 @@ Free standard shipping on orders over $29.00
         * [Accessories](https://www.logitech.com/en-us/products/video-conferencing/accessories.html)
         * [Explore all](https://www.logitech.com/en-us/business/products.html)
         
-        [Software & Services](https://www.logitech.com/en-us/video-collaboration/services-and-software.html)
-        ----------------------------------------------------------------------------------------------------
+        [Software & Services](https://www.logitech.com/en-us/business/services-and-software.html)
+        -----------------------------------------------------------------------------------------
         
-        ![Logitech software and service icons](https://resource.logitech.com/w_316,c_limit,f_auto,q_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/navigation/business-software-services.png?v=1)
+        ![Logitech software and service icons](https://resource.logitech.com/w_316,c_limit,f_auto,q_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/navigation/business-software-services-new.png?v=1)
         
         Software & Services
         
-        * [Select Service Plan](https://www.logitech.com/en-us/products/video-conferencing/room-solutions/select-premium-service-plan.html)
+        * [Select Service Plan](https://www.logitech.com/en-us/products/video-conferencing/room-solutions/select-comprehensive-service-plan.html)
         * [Sync Management](https://www.logitech.com/en-us/video-collaboration/products/sync.html)
         * [Tune App](https://www.logitech.com/en-us/video-collaboration/software/logi-tune-software.html)
+        * [Room Booking](https://www.logitech.com/en-us/products/video-conferencing/solutions/roombooking.html)
         * [Desk Booking](https://www.logitech.com/en-us/products/video-conferencing/solutions/deskbooking.html)
-        * [Extended Warranty](https://www.logitech.com/en-us/video-collaboration/products/extended-warranty.html)
         * [Room As a Service](https://www.logitech.com/en-us/video-collaboration/vc-as-a-service.html)
-        * [Explore all](https://www.logitech.com/en-us/video-collaboration/services-and-software.html)
+        * [Explore all](https://www.logitech.com/en-us/business/services-and-software.html)
         
         Partners
         --------
