@@ -276,11 +276,11 @@ El contenido que se recoge a continuación no es accesible por lo siguiente:
 Preparación de la presente declaración de conformidad
 -----------------------------------------------------
 
-La presente declaración fue preparada el 24 de octubre de 2018, con conformidad del nivel AA de las WCAG 2.1.
+La presente declaración fue preparada el 24 de septiembre de 2021, con conformidad del nivel AA de las WCAG 2.1.
 
 La preparación se ha realizado mediante una autoevaluación de los requisitos de la norma [UNE-EN 301-549:2019](http://administracionelectronica.gob.es/PAe/accesibilidad/une-en-301549-2019.pdf).
 
-Última revisión realizada: 19 de junio de 2023.
+Última revisión realizada: 19 de junio de 2024.
 
 Observaciones y datos de contacto
 ---------------------------------
