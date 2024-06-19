@@ -4,7 +4,7 @@
 
           
 
-[Share Your Thoughts, Win a $50 Amazon Gift Card!](https://s.qdtech.ai/sl/cCwYBc)
+[Win Your Ultimate Father’s Day Wishlist!](https://www.eufy.com/eufy-security)
 
 [](https://www.eufy.com/livestream?ref=navimenu_9_copy)
 
@@ -22,7 +22,7 @@
     * [eufy Robot Vacuum Omni S1 Pro](https://www.eufy.com/robot-vacuum-s1-pro?ref=navimenu_1_1_1_img)
     * [eufy Robot Vacuum X10 Pro Omni
         
-        Save $120 Now](https://us.eufy.com/products/t2351111?ref=navimenu_1_1_2_img)
+        Hot](https://us.eufy.com/products/t2351111?ref=navimenu_1_1_2_img)
     
     * [](https://www.eufy.com/appliance-x10-omni?ref=navimenu_1_2_1_copy)
         
@@ -150,7 +150,7 @@
     5. Smart Locks
     6. Accessories
     
-    [See More](https://www.eufy.com/collections/security?ref=navimenu_2_7_copy) [Protection Plan](https://us.eufy.com/pages/professional-monitoring-service?ref=navimenu_2_8_copy) [eufy Local Security](https://www.eufy.com/eufy-local-security?ref=navimenu_2_9_copy)
+    [See More](https://www.eufy.com/collections/security?ref=navimenu_2_7_copy) [Cloud Backup](https://www.eufy.com/cloud-storage?ref=navimenu_2_8_copy) [Protection Plan](https://us.eufy.com/pages/professional-monitoring-service?ref=navimenu_2_9_copy) [eufy Local Security](https://www.eufy.com/eufy-local-security?ref=navimenu_2_10_copy)
     
     * [eufyCam S330 (eufyCam 3) 4-Cam Kit + 1 TB Hard Drive
         
@@ -688,10 +688,10 @@ This limited warranty provided by the manufacturer in no way affects a potential
 | **Item** | **Warranty Period** | **Software support security update period** |
 | StickVac with Mop | 24 Months | 24 Months |
 | RoboVac | 12 Months | 12 Months |
-| HomeVac | 24 Months | 24 Months |
-| Smart Home | 18 months | 18 months |
+| HomeVac | 24 Months | NA  |
+| Smart Home | 18 months | NA  |
 | Smart Scales | 15 Months | 15 Months |
-| Accessories | 30 Days | 30 Days |
+| Accessories | 30 Days | NA  |
 | Security | 12 Months | 12 Months |
 
   
@@ -732,9 +732,24 @@ eufy’s limited warranty is restricted to the country of purchase. The limited 
 
 Quality-related warranty claims on purchases made through eufy’s authorized distributors and retailers are handled through eufy.
 
-For quality-related warranty claims, items will be replaced with suitable replacement parts or a factory refurbished model of equal value when available, otherwise a new item will be sent.
+For quality-related warranty claims, eufy will provide one or several of the following solutions, at eufy's sole discretion:
+
+* assess the product type
+    
+* provide replacement parts
+    
+* repair the Product
+    
+* exchange the Product with a factory refurbished unit if it's available
+    
+* provide a brand-new unit
+    
 
 Warranties on all replacements follow the same warranty timeframe of the original defective item, or 3 months after being replaced, whichever is longer. Warranties on products are void after having been fully refunded.
+
+Products (RoboVac/HomeVac/Vacuum Cleaner) that are out of warranty are also eligible for paid repair services. For a list of products that can be repaired and their corresponding repair costs, please contact support@eufy.com to obtain the relevant information.
+
+  
 
 **Warranty Applicable Exclusively to Breast Pump Products**
 
@@ -1152,7 +1167,7 @@ Download App
 Security
 
 * [![](https://cdn.shopify.com/s/files/1/0521/9411/5753/files/appstore_3_50x.png?v=1657087633)](https://apps.apple.com/app/id1424956516)
-* [![](https://cdn.shopify.com/s/files/1/0521/9411/5753/files/googleplay_1_50x.png?v=1657087633)](https://us.eufylife.com/pages/appliances-app-download)
+* [![](https://cdn.shopify.com/s/files/1/0521/9411/5753/files/googleplay_1_50x.png?v=1657087633)](https://www.eufy.com/appliances-app-download)
 * [![](https://cdn.shopify.com/s/files/1/0521/9411/5753/files/Web_Portal_50x.png?v=1657087633)](https://mysecurity.eufylife.com/#/login?type=/)
 
 eufy Clean
@@ -1170,7 +1185,7 @@ American Express Apple Pay Diners Club Discover Google Pay Mastercard PayPal Sho
 * [](https://anker.com/?ref=footer)
 * [](https://anker.com/?ref=footer)
 * [](https://us.soundcore.com/?ref=footer)
-* [](https://us.eufylife.com/?ref=footer)
+* [](https://www.eufy.com/?ref=footer)
 * [](https://us.seenebula.com/?ref=footer)
 * [](https://ankermake.com/?ref=footer)
 * [](https://us.ankerwork.com/?ref=footer)
