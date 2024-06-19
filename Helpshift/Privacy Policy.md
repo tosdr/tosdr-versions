@@ -9,9 +9,7 @@
     
     Close Services Open Services
 * [Pricing](https://www.helpshift.com/pricing/)
-    
 * [Case Studies](https://www.helpshift.com/customers/)
-    
 * Company
     
     Close Company Open Company
@@ -207,13 +205,13 @@ AI cooling off period projected by Helpshift in 2024
 
 #### Featured Resource
 
-[![Harmonizing AI and Human Intelligence for Modern Customer Service](https://www.helpshift.com/wp-content/uploads/2024/05/Harmonizing-AI-and-Human-Intelligence-for-Modern-Customer-Service.png)](https://get.helpshift.com/helpshift-ai-guide#new_tab)
+[![Multilingual Support Guide](https://www.helpshift.com/wp-content/uploads/2024/06/Multilingual-Support-Guide-1024x649.png)](https://get.helpshift.com/how-multilingual-support-improves-global-customer-experiences)
 
 **read**
 
-### [Harmonizing AI and Human Intelligence for Modern Customer Service](https://get.helpshift.com/helpshift-ai-guide#new_tab)
+### [How Multilingual Support Improves Global Customer Experiences](https://get.helpshift.com/how-multilingual-support-improves-global-customer-experiences)
 
-[Read more](https://get.helpshift.com/helpshift-ai-guide#new_tab)
+[Read more](https://get.helpshift.com/how-multilingual-support-improves-global-customer-experiences)
 
 [Free Trial](https://get.helpshift.com/evaluation-sign-up)
 
@@ -368,9 +366,9 @@ We do not knowingly collect or solicit Personal Data about children under 16 yea
 
 Depending on the laws of the state or country in which you are located or reside, you may have certain rights with respect to your Personal Data, including those set forth below. Residents of certain states or countries may have different or additional rights, which you can find below in the state-specific sections. For more information about these rights, or to submit a request, please email us at [\[email protected\]](https://www.helpshift.com/cdn-cgi/l/email-protection).
 
-* **Access:**  You may at any time request a copy of your Personal Data from Keywords. This right can be exercised by writing to us at [\[email protected\]](https://www.helpshift.com/cdn-cgi/l/email-protection).
-* **Rectification, Erasure & Restriction:**  If you believe that any Personal Data we are holding about you is incorrect or incomplete, you have the right to correct any inaccuracies, and in certain circumstances, to request erasure, or restriction on the use, of your Personal Data, and to object to certain uses of your Personal Data, in each case subject to the restrictions set out in applicable data privacy laws. Further information on these rights, and the circumstances in which they may arise in connection with Keywords’ processing of Personal Data, can be obtained by writing to us at [\[email protected\]](https://www.helpshift.com/cdn-cgi/l/email-protection).
-* **Withdrawal of Consent:**  If we are processing your Personal Data based on your consent (as indicated at the time of collection of such data), you have the right to change your mind and withdraw your consent to future processing of Personal Data by writing to us at [\[email protected\]](https://www.helpshift.com/cdn-cgi/l/email-protection).
+* **Access:**  You may at any time request a copy of your Personal Data from Keywords. This right can be exercised by writing to us at [\[email protected\]](https://www.helpshift.com/cdn-cgi/l/email-protection).
+* **Rectification, Erasure & Restriction:**  If you believe that any Personal Data we are holding about you is incorrect or incomplete, you have the right to correct any inaccuracies, and in certain circumstances, to request erasure, or restriction on the use, of your Personal Data, and to object to certain uses of your Personal Data, in each case subject to the restrictions set out in applicable data privacy laws. Further information on these rights, and the circumstances in which they may arise in connection with Keywords’ processing of Personal Data, can be obtained by writing to us at [\[email protected\]](https://www.helpshift.com/cdn-cgi/l/email-protection).
+* **Withdrawal of Consent:**  If we are processing your Personal Data based on your consent (as indicated at the time of collection of such data), you have the right to change your mind and withdraw your consent to future processing of Personal Data by writing to us at [\[email protected\]](https://www.helpshift.com/cdn-cgi/l/email-protection).
 * **Portability**:  You can ask for a copy of your Personal Data in a machine-readable format. You can also request that we transmit the data to another data controller where technically feasible.
 * **Objection**:  Where Keywords is relying on a legitimate interest, in order to use and disclose Personal Data, you may to object to such use or disclosure of your Personal Data, and we will cease to use and process the Personal Data for that purpose, unless we can show there are compelling legitimate reasons for processing to continue or we need to use the Personal Data for the purposes of legal claims. 
 * **Right to File Complaint:**  You have the right to lodge a complaint about Keywords’ practices with respect to your Personal Data with the supervisory authority of your country or EU Member State. A list of Supervisory Authorities is available here: [https://edpb.europa.eu/about-edpb/board/members\_en](https://edpb.europa.eu/about-edpb/board/members_en).
@@ -385,7 +383,7 @@ If you are a resident of the Philippines, this section forms part of the Privacy
 As a resident of the Philippines, you are entitled to the following rights:
 
 * **Right to be informed:** You have the right to be informed whether Personal Data pertaining to you shall be, is being, or has been processed, including the existence of automated decision-making and profiling. 
-* **Access**:  You may at any time request a copy of your Personal Data from Keywords. This right can be exercised by writing to us at [\[email protected\]](https://www.helpshift.com/cdn-cgi/l/email-protection). You should be given access to information about, and obtain a copy of your Personal Data that we are processing, including information on the following where applicable: 
+* **Access**:  You may at any time request a copy of your Personal Data from Keywords. This right can be exercised by writing to us at [\[email protected\]](https://www.helpshift.com/cdn-cgi/l/email-protection). You should be given access to information about, and obtain a copy of your Personal Data that we are processing, including information on the following where applicable: 
 
 1. Contents of Personal Data and categories of data that were processed;
 2. Sources from which your Personal Data were obtained, if the data was not collected from you;
@@ -399,7 +397,7 @@ As a resident of the Philippines, you are entitled to the following rights:
 10. Period for which particular categories of information will be stored; and
 11. The designation, name or identity, and address of the Keywords’ data protection officer, if any.
 
-* **Rectification & Restriction:**  If you believe that any Personal Data we are holding about you is incorrect or incomplete, you have the right to correct any inaccuracies in, to request completion of incomplete data, and in certain circumstances, to request erasure, or restriction on the use, of your Personal Data, and to object to certain uses of your Personal Data. Further information on these rights, and the circumstances in which they may arise in connection with Keywords’ processing of Personal Data, can be obtained by writing to us at [\[email protected\]](https://www.helpshift.com/cdn-cgi/l/email-protection). If the Personal Data has been corrected, Keywords shall ensure the accessibility of both the new and the retracted information and the simultaneous receipt of the new and the retracted information by the intended recipients thereof, provided that recipients or other entities who have previously received such processed Personal Data shall be informed of its inaccuracy and its rectification, upon your reasonable request.
+* **Rectification & Restriction:**  If you believe that any Personal Data we are holding about you is incorrect or incomplete, you have the right to correct any inaccuracies in, to request completion of incomplete data, and in certain circumstances, to request erasure, or restriction on the use, of your Personal Data, and to object to certain uses of your Personal Data. Further information on these rights, and the circumstances in which they may arise in connection with Keywords’ processing of Personal Data, can be obtained by writing to us at [\[email protected\]](https://www.helpshift.com/cdn-cgi/l/email-protection). If the Personal Data has been corrected, Keywords shall ensure the accessibility of both the new and the retracted information and the simultaneous receipt of the new and the retracted information by the intended recipients thereof, provided that recipients or other entities who have previously received such processed Personal Data shall be informed of its inaccuracy and its rectification, upon your reasonable request.
 * **Erasure or Blocking:** You have the right to request the suspension, withdrawal, or order the blocking, removal, deletion, or destruction of your Personal Data from the Keywords’ filing system under certain circumstances, in particular when:
 
 1. the Personal Data is no longer necessary in relation to the purposes for which it was originally collected or otherwise processed;
@@ -413,7 +411,7 @@ As a resident of the Philippines, you are entitled to the following rights:
 
 Keywords may notify other entities who have previously received such processed Personal Data.
 
-* **Withdrawal of Consent:**  If we are processing your Personal Data based on your consent (as indicated at the time of collection of such data), you have the right has the right to change your mind and withdraw consent to future processing of Personal Data by writing to us at [\[email protected\]](https://www.helpshift.com/cdn-cgi/l/email-protection). This will not affect the lawfulness of any processing carried out before you withdraw your consent. If you withdraw your consent, we may not be able to provide certain products or Services to you. We will advise you if this is the case at the time you withdraw your consent.
+* **Withdrawal of Consent:**  If we are processing your Personal Data based on your consent (as indicated at the time of collection of such data), you have the right has the right to change your mind and withdraw consent to future processing of Personal Data by writing to us at [\[email protected\]](https://www.helpshift.com/cdn-cgi/l/email-protection). This will not affect the lawfulness of any processing carried out before you withdraw your consent. If you withdraw your consent, we may not be able to provide certain products or Services to you. We will advise you if this is the case at the time you withdraw your consent.
 * **Portability**:  You can ask for a copy of your Personal Data in a machine-readable format. You can also request that we transmit the data to another data controller, where technically feasible, in an electronic or structured format that is commonly used and allows for your further use.
 * **Objection**:  You shall have the right to object to the processing of your Personal Data, including processing for direct marketing, automated processing or profiling. You shall also be notified and given an opportunity to withhold consent to the processing in case of changes or any amendment to the information supplied or declared to you. When you object or withhold consent, Keywords shall no longer process the Personal Data, unless: (a) the Personal Data is needed pursuant to a subpoena; (b) the collection and processing are for obvious purposes, including, when it is necessary for the performance of or in relation to a contract or service to which you are a party, or when necessary or desirable in the context of an employer-employee relationship between you and the collector; or (c) the information is being collected and processed as a result of a legal obligation.
 * **Right to File Complaint:**  You have the right to lodge a complaint about Keywords’ practices with respect to your Personal Data with the National Privacy Commission through its website: [https://www.privacy.gov.ph](https://www.privacy.gov.ph/).
@@ -455,9 +453,9 @@ We do not knowingly collect or solicit Personal Data about children under 21 yea
 
 You have certain rights with respect to your Personal Data, including those set forth below. For more information about these rights, or to submit a request, please email us at [\[email protected\]](https://www.helpshift.com/cdn-cgi/l/email-protection).
 
-* **Access**:  You have a right of access to the Personal Data we process about you. You may at any time request a copy of your Personal Data from Keywords. You also have a right to information on how we have used or disclosed your Personal Data in the 12 months prior to your request. This right can be exercised by writing to us at [\[email protected\]](https://www.helpshift.com/cdn-cgi/l/email-protection). 
-* **Rectification**:  If you believe that any Personal Data we are holding about you is incorrect or incomplete, you have the right to correct any inaccuracies in your Personal Data free of charge. Further information on this right can be obtained by writing to us at [\[email protected\]](https://www.helpshift.com/cdn-cgi/l/email-protection).
-* **Withdrawal of Consent:**  If we are processing your Personal Data based on your consent (as indicated at the time of collection of such data), you have the right has the right to change your mind and withdraw consent to future processing of Personal Data by writing to us at [\[email protected\]](https://www.helpshift.com/cdn-cgi/l/email-protection). However, depending on the nature of the consent that is withdrawn, you may no longer be able to visit the Website or use the Services. Any withdrawal of your consent will not affect the processing of Personal Data which occurred before you withdrew your consent.
+* **Access**:  You have a right of access to the Personal Data we process about you. You may at any time request a copy of your Personal Data from Keywords. You also have a right to information on how we have used or disclosed your Personal Data in the 12 months prior to your request. This right can be exercised by writing to us at [\[email protected\]](https://www.helpshift.com/cdn-cgi/l/email-protection). 
+* **Rectification**:  If you believe that any Personal Data we are holding about you is incorrect or incomplete, you have the right to correct any inaccuracies in your Personal Data free of charge. Further information on this right can be obtained by writing to us at [\[email protected\]](https://www.helpshift.com/cdn-cgi/l/email-protection).
+* **Withdrawal of Consent:**  If we are processing your Personal Data based on your consent (as indicated at the time of collection of such data), you have the right has the right to change your mind and withdraw consent to future processing of Personal Data by writing to us at [\[email protected\]](https://www.helpshift.com/cdn-cgi/l/email-protection). However, depending on the nature of the consent that is withdrawn, you may no longer be able to visit the Website or use the Services. Any withdrawal of your consent will not affect the processing of Personal Data which occurred before you withdrew your consent.
 * **Right to File Complaint:**  You have the right to lodge a complaint about Keywords’ practices with respect to your Personal Data with the competent data protection authority through its website: [https://www.pdpc.gov.sg](https://www.pdpc.gov.sg/).
 
 To exercise the above rights with regard to the processing activities for which we are the data controller, please contact us by e-mail or regular mail (see below for our contact details). Your request should be accompanied by your full contact details and a means of verifying your identity (e.g. a copy of the front of your ID card or driving licence). We may request further information as necessary in order to verify your identity or for security purposes. Where permitted to do so under applicable law, we may charge a reasonable fee for processing your request. We may also reject your requests where permitted to do so by law.
@@ -514,7 +512,7 @@ You have certain rights with respect to your Personal Data, including those set 
 * If you believe that any Personal Data we are holding about you is incorrect or incomplete, you have the right to request correction of any inaccuracies and, in certain circumstances, to request erasure of the Personal Data.
 * You may request, in certain circumstances, that we ‎cease disseminating your Personal Data or to ‎‎de-‎index any hyperlink that allows access to ‎that Personal Data by technological means, ‎‎if ‎such dissemination contravenes applicable ‎law or a court.‎
 
-Any such access/correction/erasure requests can be made to Keywords’ Québec Data Protection Officer at [\[email protected\]](https://www.helpshift.com/cdn-cgi/l/email-protection).
+Any such access/correction/erasure requests can be made to Keywords’ Québec Data Protection Officer at [\[email protected\]](https://www.helpshift.com/cdn-cgi/l/email-protection).
 
 12.2 Canadian Residents Outside the Province of Québec:
 -------------------------------------------------------
@@ -668,7 +666,7 @@ Residents of Virginia (as of January 1, 2023), Connecticut and Colorado (as of J
 * **Deletion**. You may have the right to request deletion of your data unless an exception applies. 
 * **Opt-Out of Sale, Sharing, or Targeted Advertising.**
 * **Opt-Out of Profiling with Legal or Significant Effects**: You may have the right to opt out of profiling in furtherance of decisions that produce legal or similarly significant effects. However, we do not engage in such activities, so there is no need to exercise this right.
-* **Right to Appeal (VA, CT, and CO only):** If we deny or reject your privacy rights request, you may have a right to appeal our decision if permitted by your state’s privacy law. To appeal our denial or rejection, please contact us at [\[email protected\]](https://www.helpshift.com/cdn-cgi/l/email-protection) and include in the subject line “Request to Appeal Privacy Right Request Decision.” Please provide us sufficient information to locate your privacy right request record, such as any unique number you were provided. Our privacy office will review your appeal request, our original determination, and will inform you of our decision on your appeal.
+* **Right to Appeal (VA, CT, and CO only):** If we deny or reject your privacy rights request, you may have a right to appeal our decision if permitted by your state’s privacy law. To appeal our denial or rejection, please contact us at [\[email protected\]](https://www.helpshift.com/cdn-cgi/l/email-protection) and include in the subject line “Request to Appeal Privacy Right Request Decision.” Please provide us sufficient information to locate your privacy right request record, such as any unique number you were provided. Our privacy office will review your appeal request, our original determination, and will inform you of our decision on your appeal.
 
 15\. Changes to this Privacy Notice
 -----------------------------------
@@ -681,7 +679,7 @@ Overall, we’re constantly trying to improve our Services which includes optimi
 If you have any questions or queries about this Privacy Notice, the ways in which we collect and use your Personal Data or your choices and rights regarding such collection and use, please do not hesitate to contact us at:
 
 * Phone: +353 1 902 2730;
-* Email: [\[email protected\]](https://www.helpshift.com/cdn-cgi/l/email-protection); or
+* Email: [\[email protected\]](https://www.helpshift.com/cdn-cgi/l/email-protection); [\[email protected\]](https://www.helpshift.com/cdn-cgi/l/email-protection) or
 * Address:  South County Business Park, Leopardstown, Dublin 18, D18 T9P8, Ireland.
 
 17\. Cookie List
