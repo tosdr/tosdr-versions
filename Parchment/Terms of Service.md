@@ -144,9 +144,9 @@
         
         [Podcast
         
-        ![Parchment Podcast - Credentials Unscripted - Episode-15](https://www.parchment.com/wp-content/uploads/2024/06/Parchment-Podcast-Credentials-Unscripted-Episode-15-320x192.jpg)
+        ![Parchment-Podcast-Episode-16](https://www.parchment.com/wp-content/uploads/2024/06/Parchment-Podcast-Episode-16-320x192.jpg)
         
-        State Initiatives on Skills-Based Hiring](https://www.parchment.com/resources/podcast/)
+        The Impact of Course Sharing on Student Success](https://www.parchment.com/resources/podcast/)
         
     *  [![Computer-eLearning - icon (1)](https://www.parchment.com/wp-content/uploads/2023/10/Computer-eLearning-icon-1-40x40.png) Training](https://www.parchment.com/resources/training/)
     
