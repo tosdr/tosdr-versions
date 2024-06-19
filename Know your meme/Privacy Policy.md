@@ -99,30 +99,30 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 * [Meme Insider](https://memeinsider.com/)
 * [Newsletter](https://knowyourmeme.com/newsletter)
 
-* [![Scared Hamster's Terror Is Our Pleasure](https://i.kym-cdn.com/featured_items/icons/wide/000/024/628/hamster.jpg "It's Been Eight Years Since This Scared Hamster Made His Internet Debut")
+* [![UK woman trying to refresh herself by pouring water from a fountain on her head. ](https://i.kym-cdn.com/featured_items/icons/wide/000/024/759/June_2024_Heat_Wave_meme.jpg "Unprecedented Heat Waves In The U.S. And U.K. Ignite Memes And Comparisons Online")
     
-    It's Been Eight Years Since This Scared Hamster Made His Internet Debut](https://knowyourmeme.com/memes/scared-hamster)
+    Unprecedented Heat Waves In The U.S. And U.K. Ignite Memes And Comparisons Online](https://knowyourmeme.com/memes/events/june-2024-heat-waves)
     
-* [![Slender Man](https://i.kym-cdn.com/featured_items/icons/wide/000/024/627/c59.jpg "15 Years Ago Today, The 'Something Awful' Photoshop Contest That Gave Us 'Slender Man' Began")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/024/760/GQXQKpmWoAABjUk.jpeg "Vague Release Window For 'Metroid Prime 4: Beyond' Headlines Nintendo Direct As Fans React With Excitement And Memes")
     
-    15 Years Ago Today, The 'Something Awful' Photoshop Contest That Gave Us 'Slender Man' Began](https://knowyourmeme.com/memes/slender-man)
+    Vague Release Window For 'Metroid Prime 4: Beyond' Headlines Nintendo Direct As Fans React With Excitement And Memes](https://knowyourmeme.com/news/vague-release-window-for-metroid-prime-4-headlines-nintendo-direct)
     
-* [![John Coffey's Line From 'Green Mile' Becomes A Meme About Being Tired, And Not In A Way Sleep Can Fix](https://i.kym-cdn.com/featured_items/icons/wide/000/024/626/cover2.jpg "The 'I'm Tired, Boss' Meme Appeared Online Around Six Years Ago Today")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/024/758/time_traveller.jpg "Where Are All The AI Extended Vines Coming From? Memes About Time Travelers Stopping Vines Explained ")
     
-    The 'I'm Tired, Boss' Meme Appeared Online Around Six Years Ago Today](https://knowyourmeme.com/memes/im-tired-boss-estoy-cansado-jefe)
+    Where Are All The AI Extended Vines Coming From? Memes About Time Travelers Stopping Vines Explained](https://knowyourmeme.com/editorials/guides/where-are-all-the-ai-extended-vines-coming-from-memes-about-time-travelers-stopping-vines-explained)
     
-* [![Cat Sticks Its Head Through Cable Hole, Becomes Redraw Reference For Twitter](https://i.kym-cdn.com/featured_items/icons/wide/000/024/625/new_kind_of_cable.jpg "Cat Sticks Its Head Through Cable Hole, Becomes Redraw Reference For Twitter")
+* [![cool autistic gamer examples](https://i.kym-cdn.com/featured_items/icons/wide/000/024/757/tcag.jpg "'Smiling Friends' Clip Channel 'The Cool Autistic Gamer 774' Goes Viral For His Insane Watermarking Practices")
     
-    Cat Sticks Its Head Through Cable Hole, Becomes Redraw Reference For Twitter](https://knowyourmeme.com/memes/kitten-appears-from-the-cable-hole)
+    'Smiling Friends' Clip Channel 'The Cool Autistic Gamer 774' Goes Viral For His Insane Watermarking Practices](https://knowyourmeme.com/memes/people/the-cool-autistic-gamer-774)
     
-* [![Normal pills meme scene during Dream's music video for Mask.](https://i.kym-cdn.com/featured_items/icons/wide/000/024/624/cover2.jpg "Remember To Take Your Normal Pills This Weekend, As You Have (Hopefully) For The Past Three Years")
+* [![Twitter Really Didn't Like That One Awkward Dance Move Taylor Swift Did During Her Concert](https://i.kym-cdn.com/featured_items/icons/wide/000/024/756/cover2.jpg "Many, Apparently, Really Didn't Like That One Awkward Dance Move Taylor Swift Did During Her Concert")
     
-    Remember To Take Your Normal Pills This Weekend, As You Have (Hopefully) For The Past Three Years](https://knowyourmeme.com/memes/normal-pills)
+    Many, Apparently, Really Didn't Like That One Awkward Dance Move Taylor Swift Did During Her Concert](https://knowyourmeme.com/memes/taylor-swifts-awkward-dance)
     
 
 ##### Also Trending:
 
-[Biden Pooping Himself At Normandy Allegations](https://knowyourmeme.com/memes/president-joe-biden-pooping-himself-at-normandy-allegations "Biden Pooping Himself At Normandy Allegations") [Killer Bean (Video Game)](https://knowyourmeme.com/memes/subcultures/killer-bean-video-game "Killer Bean (Video Game)")
+[That Casually Misogynistic Remark](https://knowyourmeme.com/memes/that-casually-misogynistic-remark "That Casually Misogynistic Remark") [I Might Go Homeless?](https://knowyourmeme.com/memes/i-might-go-homeless "I Might Go Homeless?") [Verbalase's "Roxanne Wolf Beatbox"](https://knowyourmeme.com/memes/verbalases-roxanne-wolf-beatbox "Verbalase's "Roxanne Wolf Beatbox"") [Metroid Prime 4: Beyond](https://knowyourmeme.com/memes/subcultures/metroid-prime-4-beyond "Metroid Prime 4: Beyond") [June 2024 Heat Waves](https://knowyourmeme.com/memes/events/june-2024-heat-waves "June 2024 Heat Waves") [The Acolyte Episode 3 Controversy](https://knowyourmeme.com/memes/events/the-acolyte-episode-3-force-baby-controversy "The Acolyte Episode 3 Controversy")
 
 Privacy Policy
 ==============
@@ -318,7 +318,7 @@ Please be sure to include your information in any correspondence to us so that w
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Yo! You must login or signup first!
+### Hauu! You must login or signup first!
 
 |     |     |
 | --- | --- |
