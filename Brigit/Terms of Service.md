@@ -28,7 +28,7 @@
 Brigit Terms of Service
 =======================
 
-(Last revised January 17, 2024)
+(Last revised June 18, 2024)
 
 The following terms of use are a legal agreement (the “Agreement”) between you (“you”, “your”, or “user”) and Bridge IT, Inc., its subsidiaries, affiliates, agents, and assigns (“Brigit”, “we”, “us”, or “our”) that sets forth the terms and conditions for your use of Brigit’s website located at \[www.hellobrigit.com\] and/or the products and services offered, operated or made available by Brigit, including but not limited to its mobile applications (collectively, the “Services”).
 
@@ -256,7 +256,7 @@ Brigit may, from time to time, offer rewards programs. The specific terms of any
 
 ### 10\. Cancellation of Brigit Subscription Membership
 
-If you wish to cancel your Brigit Subscription you may do so on the Brigit website. You may cancel your Brigit Subscription regardless of whether you have an outstanding Instant Cash Advance and you can close your Credit Builder account at anytime with no cost. You must cancel before your subscription is charged in order to avoid billing for the subsequent month. You may also cancel your subscription membership at any time by emailing [\[email protected\]](https://www.hellobrigit.com/cdn-cgi/l/email-protection).
+If you wish to cancel your Brigit Subscription you may do so on the Brigit App or on the Brigit website. You may also cancel your subscription membership at any time by emailing [\[email protected\]](https://www.hellobrigit.com/cdn-cgi/l/email-protection). You may cancel your Brigit Subscription regardless of whether you have an outstanding Instant Cash Advance and you can close your Credit Builder account at anytime with no cost. As a reminder, Brigit bills for subscription fees at the end of the month for the services provided during the current month. You must cancel at least three (3) business days before your scheduled subscription payment date in order to avoid billing for the next month.
 
 ### 11\. Termination
 
