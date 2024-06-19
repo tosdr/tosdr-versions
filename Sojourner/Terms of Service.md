@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-a01f6516acfd892c7556dcdcc5c281f6
+d01e154a166e30bacd6f24f9185efc54
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![4 mm faceted sea blue-green apatite beads](https://sojourner.biz/images/cache/stone/APT005.200.jpg)](https://sojourner.biz/beads/stone-a-l/apatite/4-mm-faceted-sea-blue-green-apatite-beads.html "4 mm faceted sea blue-green apatite beads")
+[![Sterling silver octopus necklace](https://sojourner.biz/images/cache/jewelry/N0102.200.jpg)](https://sojourner.biz/jewelry/necklaces/sterling-silver-octopus-necklace.html "Sterling silver octopus necklace")
 
-#### [4 mm faceted sea blue-green apatite beads](https://sojourner.biz/beads/stone-a-l/apatite/4-mm-faceted-sea-blue-green-apatite-beads.html "4 mm faceted sea blue-green apatite beads")
+#### [Sterling silver octopus necklace](https://sojourner.biz/jewelry/necklaces/sterling-silver-octopus-necklace.html "Sterling silver octopus necklace")
 
-$20.00
+$350.00
 
 ### Best Sellers
 
@@ -166,10 +166,10 @@ $20.00
     $15.00
 8. [Red bar clasp](https://sojourner.biz/clasps/glass/red-bar-clasp.html "Red bar clasp")  
     $23.00
-9. [Mother-of-pearl box clasp](https://sojourner.biz/clasps/pearl/mother-of-pearl-box-clasp.html "Mother-of-pearl box clasp")  
-    $17.00
-10. [Citrine clasp](https://sojourner.biz/clasps/faux-stone/citrine-clasp.html "Citrine clasp")  
+9. [Citrine clasp](https://sojourner.biz/clasps/faux-stone/citrine-clasp.html "Citrine clasp")  
     $26.00
+10. [Mother-of-pearl box clasp](https://sojourner.biz/clasps/pearl/mother-of-pearl-box-clasp.html "Mother-of-pearl box clasp")  
+    $17.00
 
 [Top](#)
 
