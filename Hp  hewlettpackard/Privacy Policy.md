@@ -2,7 +2,7 @@
 
     
 
-[Skip to Content](#skiptobody "Skip to Content") [Skip to Footer](#skiptofooter "Skip to Footer")
+[Skip to content](#skiptobody "Skip to content") [Skip to footer](#skiptofooter "Skip to footer")
 
 [](https://www.hp.com/gb-en/home.html "HP® United Kingdom | Laptops, Computers, Desktops , Printers, and more")
 
@@ -196,7 +196,7 @@ https://tracking-na.hawksearch.com/api/trackevent
 
 [](javascript:void(0))
 
-[Skip to Content](#skiptobody "Skip to Content") [Skip to Footer](#skiptofooter "Skip to Footer")[](https://www.hp.com/gb-en/home.html "HP® United Kingdom | Laptops, Computers, Desktops , Printers, and more")
+[Skip to content](#skiptobody "Skip to content") [Skip to footer](#skiptofooter "Skip to footer")[](https://www.hp.com/gb-en/home.html "HP® United Kingdom | Laptops, Computers, Desktops , Printers, and more")
 
 Explore Open Explore
 
@@ -325,7 +325,6 @@ Select Your Country/Region and Language
 * [English](https://www8.hp.com/us/en/home.html "English")
 * [España](https://www.hp.com/es-es/home.html "España")
 * [France](https://www.hp.com/fr-fr/home.html "France")
-* [French](https://www8.hp.com/us/en/home.html "French")
 * [Hrvatska](https://www.hp.com/hr-hr/home.html "Hrvatska")
 * [Ireland](https://www.hp.com/ie-en/home.html "Ireland")
 * [Italia](https://www.hp.com/it-it/home.html "Italia")
@@ -395,7 +394,6 @@ Click or use the tab key to select your country
 * [English](https://www8.hp.com/us/en/home.html "English")
 * [España](https://www.hp.com/es-es/home.html "España")
 * [France](https://www.hp.com/fr-fr/home.html "France")
-* [French](https://www8.hp.com/us/en/home.html "French")
 * [Hong Kong SAR](https://www.hp.com/hk-en/home.html "Hong Kong SAR")
 * [Hrvatska](https://www.hp.com/hr-hr/home.html "Hrvatska")
 * [India](https://www.hp.com/in-en/home.html "India")
