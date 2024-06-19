@@ -90,7 +90,7 @@ disabled Mode
     
     * [Specific needs and assistance](https://www.virginaustralia.com/au/en/travel-info/specific-travel/specific-needs-assistance/)
     * [Flying with kids](https://www.virginaustralia.com/au/en/travel-info/specific-travel/children/)
-    * [Travelling with pets](https://www.virginaustralia.com/au/en/travel-info/specific-travel/pets/)
+    * [Virgin Pet Travel](https://www.virginaustralia.com/au/en/travel-info/specific-travel/pets/)
     * [Charters](https://www.virginaustralia.com/au/en/travel-info/specific-travel/charters/)
     * [Group travel](https://www.virginaustralia.com/au/en/travel-info/specific-travel/group-travel/)
     
@@ -230,7 +230,7 @@ There are several different types of cookies that may be used on our websites.
 
 We also use web tracking (including pixel tags / web beacons) and analytics tools on our websites and third party websites to generate detailed statistics about traffic to our websites, the source of that traffic and how you interact with advertisements on our websites and third party websites. These tools can also measure and record conversions and sales.
 
-We sometimes allow our trusted partners to use cookies or similar technologies on our websites for the purpose of analytics and targeted online advertising. Our trusted partners use cookies to collect data and allow them to recognize your computer or device when you visit our websites. The data they collect is kept separate from the personal information about you that we collect. We do not access or control our trusted partner’s cookies. It is our trusted partner’s privacy and cookie policies that apply to their use of these cookies and technologies.
+We sometimes allow our trusted partners to use cookies or similar technologies on our websites for the purpose of analytics and targeted online advertising. Our trusted partners use cookies to collect data and allow them to recognise your computer or device when you visit our websites. The data they collect is kept separate from the personal information about you that we collect. We do not access or control our trusted partner’s cookies. It is our trusted partner’s privacy and cookie policies that apply to their use of these cookies and technologies.
 
 How you can manage cookies and similar technologies
 ---------------------------------------------------
