@@ -84,7 +84,7 @@ Vivaldi Help
 
 **Browser**
 
-* [Desktop](https://vivaldi.com/features/)
+* [Desktop](https://vivaldi.com/desktop/)
 * [Android](https://vivaldi.com/android/)
 * [iOS](https://vivaldi.com/ios/)
 * [Automotive](https://vivaldi.com/android/automotive/)
