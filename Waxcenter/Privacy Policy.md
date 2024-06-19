@@ -2,7 +2,7 @@
 
 [Save 25%, Buy 9 waxes, get 3 free\*](https://waxcenter.com/pages/wax-passes)
 
-[New Ingrown Hair Bronzing Drops!](https://waxcenter.com/collections/all/products/ingrown-hair-bronzing-drops)
+[Get a FREE $10 Gift Card with purchase of $50+](https://waxcenter.com/pages/gift-cards)
 
  [![icon](https://cdn.shopify.com/s/files/1/0366/6670/4007/files/DiscountIcon.svg?v=1667333405) Refer a friend, Get $10 off\*](https://waxcenter.com/pages/refer-a-friend)
 
