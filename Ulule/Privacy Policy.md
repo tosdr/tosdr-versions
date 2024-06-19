@@ -597,7 +597,7 @@ For more information on your rights regarding the use and processing of your per
 
 For any requests please contacts us :
 
-* by email at [\[email protected\]](https://www.ulule.com/cdn-cgi/l/email-protection) 
+* by email at [\[email protected\]](https://www.ulule.com/cdn-cgi/l/email-protection)
     
 * by postal mail (with an attached copy of your ID) to the following address Ulule  To the attention of the Data Protection Officer (DPO) 10 rue de Penthièvre 75008 Paris FRANCE
     
@@ -613,7 +613,7 @@ Some of the processing operations that we entrust to our subcontractors are carr
 
 If you have any questions about the processing of your personal data or if you wish to exercise your rights regarding your data, the Data Protection Officer (DPO), appointed by Ulule SAS, can be contacted:
 
-* by email at [\[email protected\]](https://www.ulule.com/cdn-cgi/l/email-protection) 
+* by email at [\[email protected\]](https://www.ulule.com/cdn-cgi/l/email-protection)
     
 * by postal mail (with an attached copy of your ID) to the following address Ulule  To the attention of the Data Protection Officer (DPO) 10 rue Penthièvre 75008 Paris France
     
