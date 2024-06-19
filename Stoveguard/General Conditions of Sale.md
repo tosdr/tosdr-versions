@@ -85,8 +85,7 @@ by checkout out, I'm agreeing to the [Terms and Conditions](https://stoveguard.c
 
 ### FridgeGuard
 
-_limited to Samsung models only  
-_Custom Cut Your Exact  
+Custom Cut Your Exact  
 Refrigerator Model
 
 [Buy Now](https://stoveguard.com/pages/product-landing-fridgeguard)
@@ -120,8 +119,7 @@ Refrigerator Model
     
     ### FridgeGuard
     
-    _limited to Samsung models only  
-    _Custom Cut Your Exact  
+    Custom Cut Your Exact  
     Refrigerator Model
     
     [Buy Now](https://stoveguard.com/pages/product-landing-fridgeguard)
@@ -172,21 +170,23 @@ All claims for orders arriving with missing or wrong items must be made within 1
 
  **Warranty Policy**
 
-_StoveGuard Premium Stovetop Protector_ 
+_StoveGuard Premium Stovetop Protector/ FridgeGuard_
 
-The purchase of any StoveGuard Premium stovetop protectors automatically includes a one (1) year limited warranty.  
+The purchase of any StoveGuard Premium stovetop protectors and FridgeGuard automatically includes a one (1) year limited warranty.  
 
 _StoveGuard Lite Stovetop Protector_ 
 
 An extended warranty for StoveGuard Lite stovetop protectors may be purchased for an additional cost of $9.99. This warranty is valid 12 months from the date of receipt of the product and includes up to 1 free replacement of the same product purchased if the damage is deemed to be a manufacturer’s defect or damaged in shipping. **Photos are required when submitting a warranty claim**. 
 
-Warranty Claims will be accepted for defects that include holes, burns, or warping. While the customer may consider this to be a defect Stoveguard considers these to be normal wear and tear: fraying, watermarks, or folds that are not caused by shipping. **Photos are required for defect claims.**  
+Warranty Claims will be accepted for defects that include holes, burns, or warping. While the customer may consider this to be a defect Stoveguard considers these to be normal wear and tear: fraying, watermarks, or folds that are not caused by shipping. **Photos are required for defect  claims.**  
 
- Our stovetop protectors are made-to-order and custom designed to fit your exact stove model. Therefore, any product that has been altered from its original design automatically forfeits the warranty, refund, replacement, and exchange policy. 
+ Our stovetop protectors and FridgeGuards are made-to-order and custom designed to fit your exact stove/fridge model. Therefore, any product that has been altered from its original design automatically forfeits the warranty, refund, replacement, and exchange policy. 
 
  **Shipping Return Address** 
 
-Attn: StoveGuard Returns (your order number here) 6909 Engle Rd. Suite 40
+Attn: Returns (your order number here) 6909 Engle Rd.
+
+Building D, Suite 40
 
 Middleburgh Heights, Ohio 44130 USA 
 
