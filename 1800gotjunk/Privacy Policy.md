@@ -12,7 +12,7 @@ Check Availability - Mega menu (Mobile)
 
 [Image
 
-![1-800-GOT-JUNK?](/sites/default/files/logo-notagline.svg)](https://www.1800gotjunk.com/us_en/)
+![1-800-got-junk](/sites/default/files/1-800-GOT-JUNK_large.png)](https://www.1800gotjunk.com/us_en)
 
 Check Availability - Mega menu (Upper)
 
@@ -504,14 +504,6 @@ Kim Wong Calgary 01/12/2023
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Nate and Chris did a great job. Fast, efficient and courteous service.
-
-Jeff Rowan Niagara 30/11/2023
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
 Amazing service Anton! THX!
 
 Flame .\\/. Calgary 30/11/2023
@@ -520,17 +512,17 @@ Flame .\\/. Calgary 30/11/2023
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Sawyer and Peter were incredible. Polite and friendly. Same day service. Great job guys!
+Nate and Chris did a great job. Fast, efficient and courteous service.
 
-carolyn neary Calgary 29/11/2023
+Jeff Rowan Niagara 30/11/2023
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Quick and efficient. For Ryan and Brandon excellent job. Sal
+Sawyer and Peter were incredible. Polite and friendly. Same day service. Great job guys!
 
-Sal Hoss Niagara 28/11/2023
+carolyn neary Calgary 29/11/2023
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -560,6 +552,22 @@ Monica Cioni Calgary 28/11/2023
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
+Quick and efficient. For Ryan and Brandon excellent job. Sal
+
+Sal Hoss Niagara 28/11/2023
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Guys (Ryan and Jamar) were able to come early and called to confirm. Showed up and got rid of all my junk super quick! Highly recommend!
+
+Alex Niagara 27/11/2023
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
 Fast, efficient, friendly and responsive!
 
 Dean Reynolds Calgary 27/11/2023
@@ -571,14 +579,6 @@ Dean Reynolds Calgary 27/11/2023
 Trey and Chay were very attentive and friendly. Even when they were delayed they kept me updated. Great job.
 
 Darrin Hill Calgary 27/11/2023
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Guys (Ryan and Jamar) were able to come early and called to confirm. Showed up and got rid of all my junk super quick! Highly recommend!
-
-Alex Niagara 27/11/2023
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -744,6 +744,30 @@ Pierre Denis Monteregie Metro 20/11/2022
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
+Hank and Nick were fast and great!
+
+Matt Heath Wisconsin 02/12/2023
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Jason and Everett were great
+
+Oliver Walsh LA Metro 02/12/2023
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Awesome work! Evan and Max worked quickly and were very friendly!
+
+Kolver Matos Wisconsin 02/12/2023
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
 Jacob and Connor were a great help
 
 John Tyree Wisconsin 02/12/2023
@@ -803,30 +827,6 @@ Amber Fedosh Seattle 02/12/2023
 Aaron and DJ are very professional and helpful. Great service so far.
 
 Jun-ji Barber Seattle 02/12/2023
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Hank and Nick were fast and great!
-
-Matt Heath Wisconsin 02/12/2023
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Jason and Everett were great
-
-Oliver Walsh LA Metro 02/12/2023
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Awesome work! Evan and Max worked quickly and were very friendly!
-
-Kolver Matos Wisconsin 02/12/2023
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
