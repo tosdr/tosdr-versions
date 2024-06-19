@@ -1,4 +1,7 @@
-Need to see a provider but struggling to find the time? Many primary care, urgent care, and specialty care visits may be eligible for telehealth! Learn more about telehealth options [here.](https://www.valleymed.org/patients--visitors/appointments--pre-registration/telehealth-appointments) 
+**Apple Health Expansion for Immigrants:**  
+You may be eligible to sign up for Apple Health Expansion insurance if you live in the state of Washington, even if you immigrated to the United States and/or are undocumented. [Learn more](https://www.uwmedicine.org/patient-resources/billing-and-insurance/washington-health-benefit-exchange/apple-health-expansion).
+
+Puede que usted sea elegible para inscribirse en Apple Health Expansion seguro médico si vive en el estado de Washington, incluso si usted inmigró a los Estados Unidos y/o es indocumentado. [Aprende más](https://www.uwmedicine.org/patient-resources/billing-and-insurance/washington-health-benefit-exchange/apple-health-expansion/es-us).
 
 ![dismiss-icon](/globalassets/valley-medical/images/icons/dismiss-icon.svg)
 
