@@ -14,14 +14,6 @@ Recommendations
 
 Audio
 
-* [![New Releases](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/05/31102159/PRH_Site_600x314_nav-JUN.jpg)
-    
-    New Releases
-    
-    Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-book-releases-june/)
-
-* * *
-
 * [![Books Bans Are on the Rise in America](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171820/Let-Kids-Read_600x314-nav.jpg)
     
     Books Bans Are on the Rise in America
@@ -30,11 +22,19 @@ Audio
 
 * * *
 
-* [![Join Our Authors for Upcoming Events](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171722/Author-Events-Module_600x314-nav.jpg)
+* [![30 Great LGBTQ+ Picture Books for Kids](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/05/31102400/Pride2024_850x607.jpg)
     
-    Join Our Authors for Upcoming Events
+    30 Great LGBTQ+ Picture Books for Kids
     
-    Learn More >](https://www.penguinrandomhouse.com/authors/events/)
+    Learn More >](https://www.readbrightly.com/30-great-lgbtq-books-kids/)
+
+* * *
+
+* [![Books To Read if You Love <em>The Tortured Poets Department</em>](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/05/10091600/PRH_Site_1200x628_TorturedPoe_1.jpg)
+    
+    Books To Read if You Love _The Tortured Poets Department_
+    
+    Read More >](https://www.penguinrandomhouse.com/the-read-down/books-like-the-tortured-poets-department/)
 
 * <
     
@@ -365,8 +365,6 @@ Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-in-audio/)
 Learn More >](https://www.penguinrandomhouse.com/articles/staff-picks-best-audiobooks-for-road-trips/)
 
 [![search](https://www.penguinrandomhouse.com/wp-content/themes/penguinrandomhouse/images/nav-search.svg)](javascript:void(0) "Search site")
-
-Open Navigation
 
  [![Penguin Random House](https://www.penguinrandomhouse.com/wp-content/themes/penguinrandomhouse/images/prh-logo.svg) ![Penguin Random House](https://www.penguinrandomhouse.com/wp-content/themes/penguinrandomhouse/images/logo-mobile.svg)](https://www.penguinrandomhouse.com/)
 
@@ -875,11 +873,11 @@ Visit other sites in the Penguin Random House Network
 
 [Brightly
 
-Raise kids who love to read](http://www.readbrightly.com/?ref=822975591A1E "Raise kids who love to read")[Today's Top Books
+Raise kids who love to read](http://www.readbrightly.com/?ref=822975591A1E)[Today's Top Books
 
-Want to know what people are actually reading right now?](https://www.penguinrandomhouse.com/interactive/todays-top-books/?ref=PRHC64566FB69&aid=14950&linkid=PRHC64566FB69 "Today's Top Books")[TASTE
+Want to know what people are actually reading right now?](https://www.penguinrandomhouse.com/interactive/todays-top-books/?ref=PRHC64566FB69&aid=14950&linkid=PRHC64566FB69)[TASTE
 
-An online magazine for today’s home cook](http://www.tastecooking.com/?ref=E8C77968C21F "An online magazine for today’s home cook")
+An online magazine for today’s home cook](http://www.tastecooking.com/?ref=E8C77968C21F)
 
               
 
