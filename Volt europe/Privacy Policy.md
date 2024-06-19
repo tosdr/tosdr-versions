@@ -30,7 +30,7 @@ People
 
 News
 
-Events
+[Events](https://volteuropa.org/events)
 
 [Open positions at Volt Europa](https://www.volteuropa.org/vacancies) [Get involved](https://www.volteuropa.org/get-involved) [Volt in the News](https://www.volteuropa.org/volt-in-the-news)
 
@@ -44,7 +44,7 @@ Back
 
 [![The newly elected board of Volt Europa gives a speech in front of members in Paris in November 2023.](/img/containers/assets/images/eur_board_members_images/eurboard_grouppic.png/a58c91ce2380b93ade8042eeb530f3d6.png)
 
-Our Policies](https://www.volteuropa.org/policies/policies)
+Our Policies](https://volteuropa.org/policies/policies)
 
 Themes
 
@@ -54,51 +54,41 @@ Themes
 
 Back [About us](https://www.volteuropa.org/about) [Volt Violet](https://www.volteuropa.org/volt-violet) [We are Europe!](https://www.volteuropa.org/we-are-europe) [Volt Sense - A European Citizen Sensor Network](https://www.volteuropa.org/voltsense)
 
-Back[![The European lead candidates for the EU elections Damian Boeselager and Sophie in ‘t Veld](/img/containers/assets/images/news_images/boeselager_in-%27t-veld_copyright-ginevra-formentini_3.jpg/2e33481051309ed16c7aed284a755fac.jpg)
+Back[![The newly elected board of Volt Europa gives a speech in front of members in Paris in November 2023.](/img/containers/assets/images/eur_board_members_images/eurboard_grouppic.png/a58c91ce2380b93ade8042eeb530f3d6.png)
 
-Transnational list of candidates to the European election 2024](https://www.volteuropa.org/people/transnational-list-candidates-european-election-2024)[![The newly elected board of Volt Europa gives a speech in front of members in Paris in November 2023.](/img/containers/assets/images/eur_board_members_images/eurboard_grouppic.png/a58c91ce2380b93ade8042eeb530f3d6.png)
+European Board](https://www.volteuropa.org/people/peoplegroup-eur-board)[![](/img/containers/assets/images/people_images/5-meps-volt-damian-kai-nela-reinier-anna.jpg/96fb70f8749f59c19c82dcbf385f5664.jpg)
 
-European Board](https://www.volteuropa.org/people/peoplegroup-eur-board)[![](/img/containers/assets/images/policy_images/eu-parliament-building.jpeg/04aa654e4bfc65add700a62e3ce9fd65.jpeg)
+Members of the European Parliament](https://www.volteuropa.org/people/members-eu-parliament)[![](/img/containers/assets/images/delegates_images/volt_person.jpg/068e6dc65972b46599aa42ccf96fea33.jpg)
 
-Delegates in the EU and national parliaments](https://www.volteuropa.org/people/peoplegroup-eu-national-parliament)[![](/img/containers/assets/images/volt-chapters-images/reichstag-berlin.jpg/c0edb26cfd487e3b8bf2db9fd4cf0ead.jpg)
+Delegates in National Parliaments](https://www.volteuropa.org/people/peoplegroup-national-parliament)[![](/img/containers/assets/images/volt-chapters-images/reichstag-berlin.jpg/c0edb26cfd487e3b8bf2db9fd4cf0ead.jpg)
 
-Delegates in Germany](https://www.volteuropa.org/people/peoplegroup-delegates-germany)[![](/img/containers/assets/images/volt-chapters-images/rome-and-tiber-river.jpg/bc32c8b1c6ce9072da3ba1a3f529ae0d.jpg)
+Regional & local delegates in Germany](https://www.volteuropa.org/people/peoplegroup-delegates-germany)[![](/img/containers/assets/images/volt-chapters-images/parthenon-greece.jpg/b07d4d2ecd75458b4985811aedbc5d8a.jpg)
 
-Delegates in Italy](https://www.volteuropa.org/people/peoplegroup-delegates-italy)[![](/img/containers/assets/images/volt-chapters-images/coimbra-portugal.jpg/3aaa14a6fec217107e8073391a8e399e.jpg)
+Regional & local delegates in Greece](https://www.volteuropa.org/people/peoplegroup-delegates-greece)[![](/img/containers/assets/images/volt-chapters-images/rome-and-tiber-river.jpg/bc32c8b1c6ce9072da3ba1a3f529ae0d.jpg)
 
-Delegates in Portugal](https://www.volteuropa.org/people/peoplegroup-delegates-portugal)[![](/img/containers/assets/images/volt-chapters-images/parliament-netherlands.jpg/becad399ef5d4d1fbf3739cc944e9c29.jpg)
+Regional & local delegates in Italy](https://www.volteuropa.org/people/peoplegroup-delegates-italy)[![](/img/containers/assets/images/volt-chapters-images/coimbra-portugal.jpg/3aaa14a6fec217107e8073391a8e399e.jpg)
 
-Delegates in the Netherlands](https://www.volteuropa.org/people/peoplegroup-delegates-netherlands)
+Regional & local delegates in Portugal](https://www.volteuropa.org/people/peoplegroup-delegates-portugal)[![](/img/containers/assets/images/volt-chapters-images/parliament-netherlands.jpg/becad399ef5d4d1fbf3739cc944e9c29.jpg)
+
+Regional & local delegates in the Netherlands](https://www.volteuropa.org/people/peoplegroup-delegates-netherlands)
 
 [All people](https://volteuropa.org/people)
 
-Back[![Young woman viewing screen and typing on mobile phone](/img/containers/assets/images/news_images/woman-with-mobile-phone-daria-nepriakhina-unsplash.jpg/4810787e388ca51db1986510622f4496.jpg)
+Back[![](/img/containers/assets/images/policy_images/eu_parliament_plenary.png/31e1b62057a3f4f8fbead88f71126220.png)
 
-Chat control won’t protect children. Instead, it will erode our rights 5 Jun 2024](https://www.volteuropa.org/news/chat-control-wont-protect-children)[![](/img/containers/assets/images/news_images/girl-with-armenian-flag.png/23a71bdb26591edefc0681a7e1b3a661.png)
+Volt gets 5 pan-European MEPs elected 10 Jun 2024](https://volteuropa.org/news/volt-gets-5-pan-european-meps-elected)[![Young woman viewing screen and typing on mobile phone](/img/containers/assets/images/news_images/woman-with-mobile-phone-daria-nepriakhina-unsplash.jpg/4810787e388ca51db1986510622f4496.jpg)
 
-Armenia: a country Europe should take seriously for what it promises 2 Jun 2024](https://www.volteuropa.org/news/armenia-a-country-europe-should-take-seriously-for-what-it-promises)[![](/img/containers/assets/images/news_images/demo-armenia.png/f241b33d670b1cb4c7f7704ba0eb9632.png)
+Chat control won’t protect children. Instead, it will erode our rights 5 Jun 2024](https://volteuropa.org/news/chat-control-wont-protect-children)[![](/img/containers/assets/images/news_images/girl-with-armenian-flag.png/23a71bdb26591edefc0681a7e1b3a661.png)
 
-Armenia and the EU: two perspectives on why it matters 2 Jun 2024](https://www.volteuropa.org/news/armenia-and-the-eu-two-perspectives-on-why-it-matters)[![](/img/containers/assets/images/news_images/wall_with_flowers_for_ukrainian_war_victims.jpg/8a3fdbaf8aebe3e97fc9db45ce57b1bf.jpg)
+Armenia: a country Europe should take seriously for what it promises 2 Jun 2024](https://volteuropa.org/news/armenia-a-country-europe-should-take-seriously-for-what-it-promises)[![](/img/containers/assets/images/news_images/demo-armenia.png/f241b33d670b1cb4c7f7704ba0eb9632.png)
 
-Ukraine’s Fight for the Future: The Urgent Need for More Consistent European Military Support 28 May 2024](https://www.volteuropa.org/news/ukraines-fight-for-future)[![](/img/containers/assets/images/news_images/court-of-justice-den-haag.jpg/99f848f28ce67fbef63d2556c49649fc.jpg)
+Armenia and the EU: two perspectives on why it matters 2 Jun 2024](https://volteuropa.org/news/armenia-and-the-eu-two-perspectives-on-why-it-matters)[![](/img/containers/assets/images/news_images/wall_with_flowers_for_ukrainian_war_victims.jpg/8a3fdbaf8aebe3e97fc9db45ce57b1bf.jpg)
 
-Upholding International Justice: The Imperative of Supporting the ICC and the ICJ in the Hamas-Israel War 25 May 2024](https://www.volteuropa.org/news/upholding-international-justice)[![Volt-Pride](/img/containers/assets/images/event_images/volt_demo_in_rome_2019.jpg/ee72a3f0da4ab665b70c7faf77651c0d.jpg)
+Ukraine’s Fight for the Future: The Urgent Need for More Consistent European Military Support 28 May 2024](https://volteuropa.org/news/ukraines-fight-for-future)[![](/img/containers/assets/images/news_images/court-of-justice-den-haag.jpg/99f848f28ce67fbef63d2556c49649fc.jpg)
 
-“Show Up for Europe” Day : Meet Volt on the streets across Europe 21 May 2024](https://www.volteuropa.org/news/europe-day-event)
+Upholding International Justice: The Imperative of Supporting the ICC and the ICJ in the Hamas-Israel War 25 May 2024](https://volteuropa.org/news/upholding-international-justice)
 
 [View more news](https://volteuropa.org/news)
-
-Back[![](/img/containers/assets/img_5682.jpeg/6796baaf3039fb37a7f3a98bfde82cee.jpeg)
-
-Events Happening This Week: European Overview
-
-9 Jun 2024 Europe](https://www.volteuropa.org/events/events-happening-this-week-european-overview)[![](/img/containers/assets/slide-16_9---3.png/b50daf9513cfefe3278e4f0cfc78ef41.png)
-
-Election Night
-
-9 Jun 2024 Online](https://www.volteuropa.org/events/election-night)
-
-[All events](https://volteuropa.org/events)
 
 Back
 
