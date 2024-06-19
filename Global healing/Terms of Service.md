@@ -102,6 +102,7 @@
     * [Our Proprietary Technologies](https://globalhealing.com/pages/our-proprietary-technologies)
     
 * [Courses](https://globalhealing.com/pages/courses)
+* [A.G.E.S. Conference](https://globalhealing.com/pages/ages-conference)
 
 [Log in](https://globalhealing.com/account/login)
 
@@ -419,6 +420,7 @@ USD $ | United Kingdom
     * [Our Proprietary Technologies](https://globalhealing.com/pages/our-proprietary-technologies)
     
 * [Courses](https://globalhealing.com/pages/courses)
+* [A.G.E.S. Conference](https://globalhealing.com/pages/ages-conference)
 
  Search [Search](#) [Log in](https://globalhealing.com/account/login) [Cart](https://globalhealing.com/cart)
 
