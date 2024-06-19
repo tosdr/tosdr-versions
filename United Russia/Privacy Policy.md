@@ -301,53 +301,53 @@
 
 [Все новости](https://er.ru/activity/news)
 
-[![Андрей Исаев: «Единая Россия» представит в Правительство предложения по возобновлению индексации пенсий работающим пенсионерам](https://cdn.er.ru/media/news/June2024/AMOZ59YVtL1ljXz98OW4-small.jpg)](https://er.ru/activity/news/andrej-isaev-edinaya-rossiya-predstavit-v-pravitelstvo-predlozheniya-po-vozobnovleniyu-indeksacii-pensij-rabotayushim-pensioneram)
+[![«Единая Россия» внесёт в Госдуму законопроект, который позволит бесплатно транслировать и исполнять военные песни в День Победы и другие памятные даты](https://cdn.er.ru/media/news/June2024/56agVINzxJwlNkvcv4kn-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-vnesyot-v-gosdumu-zakonoproekt-kotoryj-pozvolit-besplatno-translirovat-i-ispolnyat-voennye-pesni-v-den-pobedy-i-drugie-pamyatnye-daty)
 
-[Андрей Исаев: «Единая Россия» представит в Правительство предложения по возобновлению индексации пенсий работающим пенсионерам](https://er.ru/activity/news/andrej-isaev-edinaya-rossiya-predstavit-v-pravitelstvo-predlozheniya-po-vozobnovleniyu-indeksacii-pensij-rabotayushim-pensioneram)
+[«Единая Россия» внесёт в Госдуму законопроект, который позволит бесплатно транслировать и исполнять военные песни в День Победы и другие памятные даты](https://er.ru/activity/news/edinaya-rossiya-vnesyot-v-gosdumu-zakonoproekt-kotoryj-pozvolit-besplatno-translirovat-i-ispolnyat-voennye-pesni-v-den-pobedy-i-drugie-pamyatnye-daty)
 
-[#Исаева](https://er.ru/activity/news?tags%5B0%5D=21241) [#пенсиии](https://er.ru/activity/news?tags%5B0%5D=103163) [#индексацияпенсий](https://er.ru/activity/news?tags%5B0%5D=126561) [#законопроекты](https://er.ru/activity/news?tags%5B0%5D=863) [#Путин](https://er.ru/activity/news?tags%5B0%5D=60) [#ПМЭФ](https://er.ru/activity/news?tags%5B0%5D=45)
+[#Хинштейн](https://er.ru/activity/news?tags%5B0%5D=897) [#авторскоеправо](https://er.ru/activity/news?tags%5B0%5D=142197) [#памятнаядата](https://er.ru/activity/news?tags%5B0%5D=120757) [#песни](https://er.ru/activity/news?tags%5B0%5D=35291) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=110930) [#законодательнаяинициативаЕР](https://er.ru/activity/news?tags%5B0%5D=152136) [#военнаяпесня](https://er.ru/activity/news?tags%5B0%5D=116709) [#ДеньПобеды](https://er.ru/activity/news?tags%5B0%5D=118505) [#ДеньЗащитникаОтечества](https://er.ru/activity/news?tags%5B0%5D=128670) [#ДеньвоинскойславыРоссии](https://er.ru/activity/news?tags%5B0%5D=144167)
 
-07.06.24
+Сегодня 10:49
 
-[![Максим Топилин: «Единая Россия» совместно с бизнес-сообществом законодательно закрепит понятие «инвестиционный стандарт»](https://cdn.er.ru/media/news/June2024/iPuacral26HznPwcQe98-small.jpg)](https://er.ru/activity/news/maksim-topilin-edinaya-rossiya-sovmestno-s-biznes-soobshestvom-zakonodatelno-zakrepit-ponyatie-investicionnyj-standart)
+[![«Единая Россия» дала старт очному обучению второго потока участников кадрового проекта «ПолитСтарт»](https://cdn.er.ru/media/news/June2024/GaqeOFI5fJGK8nzB9CHy-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-dala-start-ochnomu-obucheniyu-vtorogo-potoka-uchastnikov-kadrovogo-proekta-politstart)
 
-[Максим Топилин: «Единая Россия» совместно с бизнес-сообществом законодательно закрепит понятие «инвестиционный стандарт»](https://er.ru/activity/news/maksim-topilin-edinaya-rossiya-sovmestno-s-biznes-soobshestvom-zakonodatelno-zakrepit-ponyatie-investicionnyj-standart)
+[«Единая Россия» дала старт очному обучению второго потока участников кадрового проекта «ПолитСтарт»](https://er.ru/activity/news/edinaya-rossiya-dala-start-ochnomu-obucheniyu-vtorogo-potoka-uchastnikov-kadrovogo-proekta-politstart)
 
-[#Топилин](https://er.ru/activity/news?tags%5B0%5D=10362) [#инвестиции](https://er.ru/activity/news?tags%5B0%5D=121539) [#ПМЭФ](https://er.ru/activity/news?tags%5B0%5D=45) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#бизнес](https://er.ru/activity/news?tags%5B0%5D=18)
+[#Романов](https://er.ru/activity/news?tags%5B0%5D=8320) [#ВПШ](https://er.ru/activity/news?tags%5B0%5D=36818) [#обучение](https://er.ru/activity/news?tags%5B0%5D=127565) [#участникиСВО](https://er.ru/activity/news?tags%5B0%5D=1094633) [#политстарт](https://er.ru/activity/news?tags%5B0%5D=1095389)
 
-07.06.24
+Сегодня 10:19
 
-[![Денис Кравченко: Законопроект о креативных индустриях поддержит творческих предпринимателей в каждом регионе](https://cdn.er.ru/media/news/June2024/pYqX3bDcc4YvTT1EQgrH-small.jpg)](https://er.ru/activity/news/denis-kravchenko-zakonoproekt-o-kreativnyh-industriyah-podderzhit-tvorcheskih-predprinimatelej-v-kazhdom-regione)
+[![Богатые тоже платят. Часть 2. Статья Андрея Исаева](https://cdn.er.ru/media/news/June2024/UVUvHieIgAseaC296F8Y-small.jpg)](https://er.ru/activity/news/bogatye-tozhe-platyat-chast-2-statya-andreya-isaeva)
 
-[Денис Кравченко: Законопроект о креативных индустриях поддержит творческих предпринимателей в каждом регионе](https://er.ru/activity/news/denis-kravchenko-zakonoproekt-o-kreativnyh-industriyah-podderzhit-tvorcheskih-predprinimatelej-v-kazhdom-regione)
+[Богатые тоже платят. Часть 2. Статья Андрея Исаева](https://er.ru/activity/news/bogatye-tozhe-platyat-chast-2-statya-andreya-isaeva)
 
-[#Кравченко](https://er.ru/activity/news?tags%5B0%5D=5003) [#Путин](https://er.ru/activity/news?tags%5B0%5D=60) [#ПМЭФ](https://er.ru/activity/news?tags%5B0%5D=45) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#законодательнаяинициативаЕР](https://er.ru/activity/news?tags%5B0%5D=152136) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#креативныеиндустрии](https://er.ru/activity/news?tags%5B0%5D=1092551)
+[#Исаев](https://er.ru/activity/news?tags%5B0%5D=121396) [#РГ](https://er.ru/activity/news?tags%5B0%5D=8568) [#статья](https://er.ru/activity/news?tags%5B0%5D=71) [#законодательство](https://er.ru/activity/news?tags%5B0%5D=692) [#налоги](https://er.ru/activity/news?tags%5B0%5D=329)
 
-07.06.24
+Сегодня 09:00
 
-[![Александр Якубовский: «Единая Россия» законодательно обеспечит выполнение поручения Президента о расширении семейной ипотеки](https://cdn.er.ru/media/news/June2024/uMpTiaLJ2NhaYIBdR62K-small.jpg)](https://er.ru/activity/news/aleksandr-yakubovskij-edinaya-rossiya-zakonodatelno-obespechit-vypolnenie-porucheniya-prezidenta-o-rasshirenii-semejnoj-ipoteki)
+[![Высшая партийная школа «Единой России» выпустила спецкурс «Идеологический вызов русской цивилизации»](https://cdn.er.ru/media/news/June2024/gkDHlsV3lZ4mTYeQMVIH-small.jpg)](https://er.ru/activity/news/vysshaya-partijnaya-shkola-edinoj-rossii-vypustila-speckurs-ideologicheskij-vyzov-russkoj-civilizacii)
 
-[Александр Якубовский: «Единая Россия» законодательно обеспечит выполнение поручения Президента о расширении семейной ипотеки](https://er.ru/activity/news/aleksandr-yakubovskij-edinaya-rossiya-zakonodatelno-obespechit-vypolnenie-porucheniya-prezidenta-o-rasshirenii-semejnoj-ipoteki)
+[Высшая партийная школа «Единой России» выпустила спецкурс «Идеологический вызов русской цивилизации»](https://er.ru/activity/news/vysshaya-partijnaya-shkola-edinoj-rossii-vypustila-speckurs-ideologicheskij-vyzov-russkoj-civilizacii)
 
-[#Якубовский](https://er.ru/activity/news?tags%5B0%5D=12184) [#ипотека](https://er.ru/activity/news?tags%5B0%5D=915) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Путин](https://er.ru/activity/news?tags%5B0%5D=60) [#законодательство](https://er.ru/activity/news?tags%5B0%5D=692) [#мерыподдержкисемей](https://er.ru/activity/news?tags%5B0%5D=145903)
+[#Исаев](https://er.ru/activity/news?tags%5B0%5D=121396) [#Романов](https://er.ru/activity/news?tags%5B0%5D=8320) [#ВПШ](https://er.ru/activity/news?tags%5B0%5D=36818) [#лекции](https://er.ru/activity/news?tags%5B0%5D=18064) [#спецкурсы](https://er.ru/activity/news?tags%5B0%5D=58985) [#идеология](https://er.ru/activity/news?tags%5B0%5D=985)
 
-07.06.24
+18.06.24
 
-[![Владимир Путин объявил о запуске программы строительства и благоустройства набережных и парков](https://cdn.er.ru/media/news/June2024/ABbxY74UoYc0bk758QKX-small.jpg)](https://er.ru/activity/news/vladimir-putin-obyavil-o-zapuske-programmy-stroitelstva-i-blagoustrojstva-naberezhnyh-i-parkov)
+[![По инициативе «Единой России» в Госдуму внесён законопроект об увековечении памяти жертв геноцида советского народа](https://cdn.er.ru/media/news/June2024/NxMPQ4hTlZ9v7rQziqcJ-small.jpg)](https://er.ru/activity/news/po-iniciative-edinoj-rossii-v-gosdumu-vnesen-zakonoproekt-ob-uvekovechenii-pamyati-zhertv-genocida-sovetskogo-naroda)
 
-[Владимир Путин объявил о запуске программы строительства и благоустройства набережных и парков](https://er.ru/activity/news/vladimir-putin-obyavil-o-zapuske-programmy-stroitelstva-i-blagoustrojstva-naberezhnyh-i-parkov)
+[По инициативе «Единой России» в Госдуму внесён законопроект об увековечении памяти жертв геноцида советского народа](https://er.ru/activity/news/po-iniciative-edinoj-rossii-v-gosdumu-vnesen-zakonoproekt-ob-uvekovechenii-pamyati-zhertv-genocida-sovetskogo-naroda)
 
-[#Путин](https://er.ru/activity/news?tags%5B0%5D=60) [#ПМЭФ](https://er.ru/activity/news?tags%5B0%5D=45) [#Формированиекомфортнойгородскойсреды](https://er.ru/activity/news?tags%5B0%5D=111554) [#Правительство](https://er.ru/activity/news?tags%5B0%5D=1090296) [#благоустройствогорода](https://er.ru/activity/news?tags%5B0%5D=122041)
+[#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116) [#геноцид](https://er.ru/activity/news?tags%5B0%5D=58283) [#Занко](https://er.ru/activity/news?tags%5B0%5D=1092667) [#ВОВ](https://er.ru/activity/news?tags%5B0%5D=357)
 
-07.06.24
+18.06.24
 
-[![Владимир Путин: Семьи в малых городах смогут воспользоваться семейной ипотекой под 6%, независимо от возраста детей](https://cdn.er.ru/media/news/June2024/DwBMTQHA3oJ4m5zaa8Ol-small.jpg)](https://er.ru/activity/news/vladimir-putin-semi-v-malyh-gorodah-smogut-vospolzovatsya-semejnoj-ipotekoj-pod-6-nezavisimo-ot-vozrasta-detej)
+[![«Единая Россия»: В летнем этапе Всероссийского спортивного марафона «Сила России» приняли участие уже более 100 тысяч человек](https://cdn.er.ru/media/news/June2024/ii1pDHtlkZZCyHhjYIlt-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-v-letnem-etape-vserossijskogo-sportivnogo-marafona-sila-rossii-prinyali-uchastie-uzhe-bolee-100-tysyach-chelovek)
 
-[Владимир Путин: Семьи в малых городах смогут воспользоваться семейной ипотекой под 6%, независимо от возраста детей](https://er.ru/activity/news/vladimir-putin-semi-v-malyh-gorodah-smogut-vospolzovatsya-semejnoj-ipotekoj-pod-6-nezavisimo-ot-vozrasta-detej)
+[«Единая Россия»: В летнем этапе Всероссийского спортивного марафона «Сила России» приняли участие уже более 100 тысяч человек](https://er.ru/activity/news/edinaya-rossiya-v-letnem-etape-vserossijskogo-sportivnogo-marafona-sila-rossii-prinyali-uchastie-uzhe-bolee-100-tysyach-chelovek)
 
-[#Путин](https://er.ru/activity/news?tags%5B0%5D=60) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#льготнаяипотека](https://er.ru/activity/news?tags%5B0%5D=136631) [#многодетныесемьи](https://er.ru/activity/news?tags%5B0%5D=109325) [#мерыподдержки](https://er.ru/activity/news?tags%5B0%5D=147555) [#ПМЭФ](https://er.ru/activity/news?tags%5B0%5D=45) [#Правительство](https://er.ru/activity/news?tags%5B0%5D=1090296)
+[#СилаРоссии](https://er.ru/activity/news?tags%5B0%5D=1094187) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Занко](https://er.ru/activity/news?tags%5B0%5D=1092667) [#спортивныемероприятия](https://er.ru/activity/news?tags%5B0%5D=134169)
 
-07.06.24
+18.06.24
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
