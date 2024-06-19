@@ -6,7 +6,7 @@ Empowering Privacy with Open Source](https://private.coffee/)
 * [Home](https://private.coffee/index.html)
 * [Status](https://status.private.coffee/)
 
-[JOIN & REBEL](https://private.coffee/membership.html)
+[JOIN & SUPPORT](https://private.coffee/membership.html)
 
 Terms of Service
 ================
