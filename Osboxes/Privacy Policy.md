@@ -109,6 +109,24 @@ Root account password: osboxes.org
 
 ### Recent Posts
 
+[![Arch Linux](https://www.osboxes.org/wp-content/uploads/2014/09/arch-linux.jpg)](https://www.osboxes.org/arch-linux-20240601-cli-and-xfce-images-available-for-virtualbox-and-vmware/)
+
+##### [Arch Linux 20240601 CLI and XFCE Images Available for VirtualBox and VMware](https://www.osboxes.org/arch-linux-20240601-cli-and-xfce-images-available-for-virtualbox-and-vmware/)
+
+14-06-2024
+
+[![ubuntu flavors](https://www.osboxes.org/wp-content/uploads/2016/04/ubuntu-flavors-85x85.jpg)](https://www.osboxes.org/ubuntu-studio-and-xubuntu-24-04-vm-images-available/)
+
+##### [Ubuntu Studio and Xubuntu 24.04 VM Images for VirtualBox and VMware](https://www.osboxes.org/ubuntu-studio-and-xubuntu-24-04-vm-images-available/)
+
+14-06-2024
+
+[![ubuntu flavors](https://www.osboxes.org/wp-content/uploads/2016/04/ubuntu-flavors-85x85.jpg)](https://www.osboxes.org/ubuntu-budgie-and-ubuntu-mate-24-04-vm-images-available/)
+
+##### [Ubuntu Budgie and Ubuntu Mate 24.04 VM Images for VirtualBox and VMware](https://www.osboxes.org/ubuntu-budgie-and-ubuntu-mate-24-04-vm-images-available/)
+
+14-06-2024
+
 [![ubuntu flavors](https://www.osboxes.org/wp-content/uploads/2016/04/ubuntu-flavors-85x85.jpg)](https://www.osboxes.org/kubuntu-and-lubuntu-24-04-vm-images-for-virtualbox-and-vmware/)
 
 ##### [Kubuntu and Lubuntu 24.04 VM Images for VirtualBox and VMware](https://www.osboxes.org/kubuntu-and-lubuntu-24-04-vm-images-for-virtualbox-and-vmware/)
@@ -126,24 +144,6 @@ Root account password: osboxes.org
 ##### [Linux Lite 7.0 Virtual Machine Images Available for VirtualBox and VMware](https://www.osboxes.org/linux-lite-7-0-virtual-machine-images-available-for-virtualbox-and-vmware/)
 
 06-06-2024
-
-[![fedora](https://www.osboxes.org/wp-content/uploads/2014/09/fedora-linux.png)](https://www.osboxes.org/fedora-40-and-server-vm-images-available-for-virtualbox-and-vmware/)
-
-##### [Fedora 40 and Server VM Images Available for VirtualBox and VMware](https://www.osboxes.org/fedora-40-and-server-vm-images-available-for-virtualbox-and-vmware/)
-
-05-06-2024
-
-[![Ubuntu](https://www.osboxes.org/wp-content/uploads/2014/09/ubuntu-logo1.png)](https://www.osboxes.org/ubuntu-24-04-and-ubuntu-server-24-04-images-for-virtualbox-and-vmware/)
-
-##### [Ubuntu 24.04 and Ubuntu Server 24.04 Images for VirtualBox and VMware](https://www.osboxes.org/ubuntu-24-04-and-ubuntu-server-24-04-images-for-virtualbox-and-vmware/)
-
-04-06-2024
-
-[![parrot os](https://www.osboxes.org/wp-content/uploads/2017/01/Parrot-security-os-desktop-85x85.jpg)](https://www.osboxes.org/parrot-security-os-6-0-images-released-for-virtualbox-and-vmware/)
-
-##### [Parrot Security OS 6.0 Images Released for VirtualBox and VMware](https://www.osboxes.org/parrot-security-os-6-0-images-released-for-virtualbox-and-vmware/)
-
-18-03-2024
 
 Get in Touch!
 
