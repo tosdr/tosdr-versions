@@ -45,7 +45,7 @@ If, however, you wish to use some of the Website’s features, you will be asked
 – **Account details** such as user [name](https://www.dogfluffy.com/swedish-dog-names/), [unique](https://www.dogfluffy.com/101-dalmatians-dog-names) user ID, password, etc.  
 – **Proof of identity** such as a photocopy of a government ID.  
 – **Payment information** such as credit card details, bank details, etc.  
-– **Information about other individuals** such as your family members, friends, etc.  
+– **Information about other individuals** such as your [family](https://www.dogfluffy.com/fluffy-dogs-for-families) members, friends, etc.  
 – **Any other materials** you willingly submit to us such as articles, images, feedback, etc.
 
 You can choose not to provide us with your **Personal Information**, but then you may not be able to take advantage of some of the Website’s features. Users who are uncertain about what information is mandatory are welcome to [contact us](https://www.dogfluffy.com/contact-fluffy/).
@@ -143,7 +143,7 @@ These requests can be exercised free of charge and will be addressed by Website 
 California Privacy Rights
 -------------------------
 
-In addition to the rights as explained in this Privacy Policy, California residents who provide Personal Information (as defined in the statute) to obtain products or services for personal, family, or household use are entitled to request and obtain from us, once a calendar year, information about the Personal Information we shared, if any, with other businesses for marketing uses.
+In addition to the rights as explained in this Privacy Policy, California residents who provide Personal Information (as defined in the statute) to obtain products or services for personal, [family](https://www.dogfluffy.com/fluffy-dogs-for-families), or household use are entitled to request and obtain from us, once a calendar year, information about the Personal Information we shared, if any, with other businesses for marketing uses.
 
 If applicable, this information would include the categories of Personal Information and the [names](https://www.dogfluffy.com/female-american-bulldog-names) and addresses of those businesses with which we shared such personal information for the immediately prior calendar year (e.g., requests made in the current year will receive information about the prior year). To obtain this information please [contact us](https://www.dogfluffy.com/contact-fluffy/).
 
@@ -251,9 +251,9 @@ Therefore, while we strive to protect your Personal Information, you acknowledge
 Data Breach
 -----------
 
-In the event we become aware that the security of the Website has been compromised or users Personal Information has been disclosed to unrelated third parties as a result of external [activity](https://www.dogfluffy.com/how-big-is-a-mini-goldendoodle), including, but not limited to, security attacks or fraud, we reserve the right to take reasonably appropriate measures, including, but not limited to, investigation and reporting, as well as notification to and cooperation with law enforcement authorities.
+In the [event](https://www.dogfluffy.com/fluffy-dog-events) we become aware that the security of the Website has been compromised or users Personal Information has been disclosed to unrelated third parties as a result of external [activity](https://www.dogfluffy.com/how-big-is-a-mini-goldendoodle), including, but not limited to, security attacks or fraud, we reserve the right to take reasonably appropriate measures, including, but not limited to, investigation and reporting, as well as notification to and cooperation with law enforcement authorities.
 
-In the event of a data breach, we will make reasonable efforts to notify affected individuals if we believe that there is a reasonable risk of harm to the user as a result of the breach or if notice is otherwise required by law.
+In the [event](https://www.dogfluffy.com/fluffy-dog-events) of a data breach, we will make reasonable efforts to notify affected individuals if we believe that there is a reasonable risk of harm to the user as a result of the breach or if notice is otherwise required by law.
 
 When we do, we will post a notice on the Website, send you an email, get in touch with you over the phone, mail you a letter.
 
@@ -292,17 +292,17 @@ If you would like to [contact us](https://www.dogfluffy.com/contact-fluffy/) t
 Latest posts
 ------------
 
-* [![French Bulldog Feeding Chart by Age: Essential Best Tips for Each Stage](https://www.dogfluffy.com/wp-content/uploads/French-Bulldog-Feeding-Chart-by-Age-Essential-Best-Tips-for-Each-Stage.png "French Bulldog Feeding Chart by Age: Essential Best Tips for Each Stage 1")](https://www.dogfluffy.com/french-bulldog-feeding-chart-by-age)
+* [![French Bulldog Raw Diet: Best Tips and Benefits for Your Pup](https://www.dogfluffy.com/wp-content/uploads/French-Bulldog-Raw-Diet-Best-Tips-and-Benefits-for-Your-Pup.png "French Bulldog Raw Diet: Best Tips and Benefits for Your Pup 1")](https://www.dogfluffy.com/french-bulldog-raw-diet)
     
-    ### [French Bulldog Feeding Chart by Age: Essential Best Tips for Each Stage](https://www.dogfluffy.com/french-bulldog-feeding-chart-by-age)
+    ### [French Bulldog Raw Diet: Best Tips and Benefits for Your Pup](https://www.dogfluffy.com/french-bulldog-raw-diet)
     
-* [![Best 4 Coolest Outdoor Bulldog Toys](https://www.dogfluffy.com/wp-content/uploads/Best-4-Coolest-Outdoor-Bulldog-Toys.png "Best 4 Coolest Outdoor Bulldog Toys 2")](https://www.dogfluffy.com/outdoor-bulldog-toys)
+* [![Best Dog Food for Fluffy Frenchies: Top Picks for Health and Happiness](https://www.dogfluffy.com/wp-content/uploads/Best-Dog-Food-for-Fluffy-Frenchies-Top-Picks-for-Health-and-Happiness.png "Best Dog Food for Fluffy Frenchies: Top Picks for Health and Happiness 2")](https://www.dogfluffy.com/best-dog-food-for-fluffy-frenchies)
     
-    ### [Best 4 Coolest Outdoor Bulldog Toys](https://www.dogfluffy.com/outdoor-bulldog-toys)
+    ### [Best Dog Food for Fluffy Frenchies: Top Picks for Health and Happiness](https://www.dogfluffy.com/best-dog-food-for-fluffy-frenchies)
     
-* [![What Are The Pied French Bulldog Colors? – Best Explained](https://www.dogfluffy.com/wp-content/uploads/2022/06/What-are-The-Pied-French-Bulldog-Colors.jpg "What Are The Pied French Bulldog Colors? - Best Explained 3")](https://www.dogfluffy.com/pied-french-bulldog-colors)
+* [![Best Fluffy Frenchie Grooming Tools for Stress-Free Pet Care](https://www.dogfluffy.com/wp-content/uploads/Best-Fluffy-Frenchie-Grooming-Tools-for-Stress-Free-Pet-Care.png "Best Fluffy Frenchie Grooming Tools for Stress-Free Pet Care 3")](https://www.dogfluffy.com/fluffy-frenchie-grooming-tools)
     
-    ### [What Are The Pied French Bulldog Colors? – Best Explained](https://www.dogfluffy.com/pied-french-bulldog-colors)
+    ### [Best Fluffy Frenchie Grooming Tools for Stress-Free Pet Care](https://www.dogfluffy.com/fluffy-frenchie-grooming-tools)
     
 
 #### Pages
