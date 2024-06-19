@@ -16,38 +16,38 @@ New orders are expected to ship by
     Gear
     
     * [Gear Collection](https://www.lttstore.com/collections/accessories)
-    * [](https://www.lttstore.com/collections/accessories)[Bags](https://www.lttstore.com/collections/accessories?filter.p.m.filter.gear_type=Bags+%26+Backpacks&sort_by=created-descending)
+    * [](https://www.lttstore.com/collections/accessories)[Bags](https://www.lttstore.com/bags)
     
-    * [Bottles](https://www.lttstore.com/collections/accessories?filter.p.m.filter.gear_type=Bottle&sort_by=created-descending)
-    * [Deskpads](https://www.lttstore.com/collections/accessories?filter.p.m.filter.gear_type=Deskpads&sort_by=manual)
-    * [Tools](https://www.lttstore.com/collections/accessories?filter.p.m.filter.gear_type=Tools&sort_by=manual)
-    * [Plushies](https://www.lttstore.com/collections/accessories?filter.p.m.filter.gear_type=Plushies&sort_by=manual)
+    * [Bottles](https://www.lttstore.com/bottles)
+    * [Deskpads](https://www.lttstore.com/deskpads)
+    * [Tools](https://www.lttstore.com/tools)
+    * [Plushies](https://www.lttstore.com/plushies)
     
-    * [Stickers](https://www.lttstore.com/collections/accessories?filter.p.m.filter.gear_type=Stickers&sort_by=created-descending)
-    * [Pets](https://www.lttstore.com/collections/accessories?filter.p.m.filter.gear_type=Pets&sort_by=manual)
-    * [Other](https://www.lttstore.com/collections/accessories?filter.p.m.filter.gear_type=Cable+Management&filter.p.m.filter.gear_type=Toy&filter.p.m.filter.gear_type=Other&sort_by=manual)
+    * [Stickers](https://www.lttstore.com/stickers)
+    * [Pets](https://www.lttstore.com/pets)
+    * [Other](https://www.lttstore.com/other-gear)
     
 * Clothing
     
     Clothing
     
     * [Clothing Collection](https://www.lttstore.com/collections/clothing)
-    * [](https://www.lttstore.com/collections/clothing)[Tops](https://www.lttstore.com/collections/clothing?filter.p.m.filter.clothing_type=Jackets&filter.p.m.filter.clothing_type=Long+Sleeves&filter.p.m.filter.clothing_type=Sweaters&filter.p.m.filter.clothing_type=T-Shirts&sort_by=manual)
+    * [](https://www.lttstore.com/collections/clothing)[Tops](https://www.lttstore.com/tops)
     
-    * [T-Shirts](https://www.lttstore.com/collections/clothing?filter.p.m.filter.clothing_type=T-Shirts&sort_by=manual)
-    * [Sweaters](https://www.lttstore.com/collections/clothing?filter.p.m.filter.clothing_type=Sweaters&sort_by=manual)
-    * [Long Sleeves](https://www.lttstore.com/collections/clothing?filter.p.m.filter.clothing_type=Long+Sleeves&sort_by=created-descending)
-    * [Jackets](https://www.lttstore.com/collections/clothing?filter.p.m.filter.clothing_type=Jackets&sort_by=manual)
-    * [Bottoms](https://www.lttstore.com/collections/clothing?filter.p.m.filter.clothing_type=Pants&filter.p.m.filter.clothing_type=Shorts&filter.p.m.filter.clothing_type=Underwear&sort_by=created-descending)
+    * [T-Shirts](https://www.lttstore.com/tshirts)
+    * [Sweaters](https://www.lttstore.com/sweaters)
+    * [Long Sleeves](https://www.lttstore.com/long-sleeves)
+    * [Jackets](https://www.lttstore.com/jackets)
+    * [Bottoms](https://www.lttstore.com/bottoms)
     
-    * [Pants](https://www.lttstore.com/collections/clothing?filter.p.m.filter.clothing_type=Pants&sort_by=created-descending)
-    * [Shorts](https://www.lttstore.com/collections/clothing?filter.p.m.filter.clothing_type=Shorts&sort_by=created-descending)
-    * [Unisex](https://www.lttstore.com/collections/clothing?filter.p.m.filter.gender=Unisex&sort_by=created-descending)
+    * [Pants](https://www.lttstore.com/pants)
+    * [Shorts](https://www.lttstore.com/shorts)
+    * [Unisex](https://www.lttstore.com/unisex)
     
-    * [Mens](https://www.lttstore.com/collections/clothing?filter.p.m.filter.gender=Men%27s&sort_by=created-descending)
-    * [Womens](https://www.lttstore.com/collections/clothing?filter.p.m.filter.gender=Women%27s&sort_by=created-descending)
-    * [Underwear](https://www.lttstore.com/collections/clothing?filter.p.m.filter.clothing_type=Underwear&sort_by=created-descending)
-    * [Headwear](https://www.lttstore.com/collections/clothing?filter.p.m.filter.clothing_type=Headwear&sort_by=manual)
+    * [Mens](https://www.lttstore.com/mens)
+    * [Womens](https://www.lttstore.com/womens)
+    * [Underwear](https://www.lttstore.com/underwear)
+    * [Headwear](https://www.lttstore.com/headwear)
     
 * [Cable Management](https://www.lttstore.com/collections/mcm-landing)
 * All Products
@@ -69,17 +69,17 @@ New orders are expected to ship by
 * [Home](https://www.lttstore.com/)
 * [Gear](https://www.lttstore.com/collections/accessories)
     
-    [Bags](https://www.lttstore.com/collections/accessories?filter.p.m.filter.gear_type=Bags+%26+Backpacks&sort_by=created-descending) [Bottles](https://www.lttstore.com/collections/accessories?filter.p.m.filter.gear_type=Bottle&sort_by=created-descending) [Deskpads](https://www.lttstore.com/collections/accessories?filter.p.m.filter.gear_type=Deskpads&sort_by=manual) [Tools](https://www.lttstore.com/collections/accessories?filter.p.m.filter.gear_type=Tools&sort_by=manual)
+    [Bags](https://www.lttstore.com/bags) [Bottles](https://www.lttstore.com/bottles) [Deskpads](https://www.lttstore.com/deskpads) [Tools](https://www.lttstore.com/tools)
     
-    [Plushies](https://www.lttstore.com/collections/accessories?filter.p.m.filter.gear_type=Plushies&sort_by=manual) [Stickers](https://www.lttstore.com/collections/accessories?filter.p.m.filter.gear_type=Stickers&sort_by=created-descending) [Pets](https://www.lttstore.com/collections/accessories?filter.p.m.filter.gear_type=Pets&sort_by=manual) [Other](https://www.lttstore.com/collections/accessories?filter.p.m.filter.gear_type=Cable+Management&filter.p.m.filter.gear_type=Toy&filter.p.m.filter.gear_type=Other&sort_by=manual)
+    [Plushies](https://www.lttstore.com/plushies) [Stickers](https://www.lttstore.com/stickers) [Pets](https://www.lttstore.com/pets) [Other](https://www.lttstore.com/other-gear)
     
 * [Clothing](https://www.lttstore.com/collections/clothing)
     
-    [Tops](https://www.lttstore.com/collections/clothing?filter.p.m.filter.clothing_type=Jackets&filter.p.m.filter.clothing_type=Long+Sleeves&filter.p.m.filter.clothing_type=Sweaters&filter.p.m.filter.clothing_type=T-Shirts&sort_by=manual) [T-Shirts](https://www.lttstore.com/collections/clothing?filter.p.m.filter.clothing_type=T-Shirts&sort_by=manual) [Sweaters](https://www.lttstore.com/collections/clothing?filter.p.m.filter.clothing_type=Sweaters&sort_by=manual) [Long Sleeves](https://www.lttstore.com/collections/clothing?filter.p.m.filter.clothing_type=Long+Sleeves&sort_by=created-descending) [Jackets](https://www.lttstore.com/collections/clothing?filter.p.m.filter.clothing_type=Jackets&sort_by=manual)
+    [Tops](https://www.lttstore.com/tops) [T-Shirts](https://www.lttstore.com/tshirts) [Sweaters](https://www.lttstore.com/sweaters) [Long Sleeves](https://www.lttstore.com/long-sleeves) [Jackets](https://www.lttstore.com/jackets)
     
-    [Bottoms](https://www.lttstore.com/collections/clothing?filter.p.m.filter.clothing_type=Pants&filter.p.m.filter.clothing_type=Shorts&filter.p.m.filter.clothing_type=Underwear&sort_by=created-descending) [Pants](https://www.lttstore.com/collections/clothing?filter.p.m.filter.clothing_type=Pants&sort_by=created-descending) [Shorts](https://www.lttstore.com/collections/clothing?filter.p.m.filter.clothing_type=Shorts&sort_by=created-descending)
+    [Bottoms](https://www.lttstore.com/bottoms) [Pants](https://www.lttstore.com/pants) [Shorts](https://www.lttstore.com/shorts)
     
-    [Unisex](https://www.lttstore.com/collections/clothing?filter.p.m.filter.gender=Unisex&sort_by=created-descending) [Mens](https://www.lttstore.com/collections/clothing?filter.p.m.filter.gender=Men%27s&sort_by=created-descending) [Womens](https://www.lttstore.com/collections/clothing?filter.p.m.filter.gender=Women%27s&sort_by=created-descending) [Underwear](https://www.lttstore.com/collections/clothing?filter.p.m.filter.clothing_type=Underwear&sort_by=created-descending) [Headwear](https://www.lttstore.com/collections/clothing?filter.p.m.filter.clothing_type=Headwear&sort_by=manual)
+    [Unisex](https://www.lttstore.com/unisex) [Mens](https://www.lttstore.com/mens) [Womens](https://www.lttstore.com/womens) [Underwear](https://www.lttstore.com/underwear) [Headwear](https://www.lttstore.com/headwear)
     
 * [Cable Management](https://www.lttstore.com/collections/mcm-landing)
 * [All Products](https://www.lttstore.com/collections/all-products-1)
@@ -271,7 +271,7 @@ Support
 -------
 
 * [Help Center / Contact Us](https://www.lttstore.com/pages/contact-us)
-![linus tech tips logo](//www.lttstore.com/cdn/shop/t/108/assets/ltt-logo.svg?v=133296236752336137041715135509)
+![linus tech tips logo](//www.lttstore.com/cdn/shop/t/110/assets/ltt-logo.svg?v=133296236752336137041717631269)
 
 © LINUS TECH TIPS STORE Powered by Shopify
 
