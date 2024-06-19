@@ -14,7 +14,8 @@
 
 * [Prices & Access](https://www.statista.com/accounts/pa)
     
-    * [Business Solutions](https://www.statista.com/accounts/pa)
+    * [Single Accounts](https://www.statista.com/accounts/pa)
+    * [Business Solutions](https://www.statista.com/accounts/ca)
     * [Academia and Government](https://www.statista.com/accounts/cl)
     
 * [Statistics](https://www.statista.com/markets/)
@@ -187,7 +188,8 @@
 
 * Prices & Access
 
-* [Business Solutions](https://www.statista.com/accounts/pa)
+* [Single Accounts](https://www.statista.com/accounts/pa)
+* [Business Solutions](https://www.statista.com/accounts/ca)
 * [Academia and Government](https://www.statista.com/accounts/cl)
 
 * Statistics
