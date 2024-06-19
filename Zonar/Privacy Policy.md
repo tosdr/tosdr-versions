@@ -76,7 +76,7 @@
     * * Resource Hub
             
             * [Articles](https://www.zonarsystems.com/resources/articles/ "Articles")
-            * [White papers](https://www.zonarsystems.com/resources/whitepapers/ "White papers")
+            * [White Papers](https://www.zonarsystems.com/resources/whitepapers/ "White Papers")
             * [Infographics](https://www.zonarsystems.com/resources/infographics/ "Infographics")
             * [Webinars](https://www.zonarsystems.com/resources/webinars/ "Webinars")
             * [Solution Q&A](https://www.zonarsystems.com/resources/qa/ "Solution Q&A")
@@ -89,10 +89,11 @@
             * [Press Releases](https://www.zonarsystems.com/news-events/press-releases/ "Press Releases")
             * [Event Calendar](https://www.zonarsystems.com/resources/event-calendar/)
             * [User Conference New](https://www.zonarsystems.com/zonar-together/)
-        * Customer Success
+        * ROI Calculators
             
-            * [Tire Pressure Savings Calculator](https://www.zonarsystems.com/solutions/tire-pressure-monitoring/savings-calculator/ "Tire Pressure Savings Calculator")
-            * [Safe Driving ROI Calculator](https://www.zonarsystems.com/resources/safe-driving-roi-calculator/ "Safe Driving ROI Calculator")
+            * [Tire Pressure Savings](https://www.zonarsystems.com/solutions/tire-pressure-monitoring/savings-calculator/ "Tire Pressure Savings ROI Calculator")
+            * [Predictive Maintenance](https://www.zonarsystems.com/faultiq-roi.html "Predictive Maintenance ROI Calculator")
+            * [Safe Driving](https://www.zonarsystems.com/resources/safe-driving-roi-calculator/ "Safe Driving ROI Calculator")
     
     * * * * *
             
