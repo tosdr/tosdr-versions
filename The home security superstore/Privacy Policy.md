@@ -1,12 +1,12 @@
 [Skip to content](#site-main)
 
-[15% Off Stun Guns & Batons | Use Code: 15OFF](https://www.thehomesecuritysuperstore.com/collections/self-defense?utm_source=website&utm_medium=merchant&utm_campaign=15%25+Off+Stun+Guns+%26+Batons)
+[15% OFF SITEWIDE SALE I Use Code: SAVE15%](https://www.thehomesecuritysuperstore.com/collections/homepage-high-recommended-products?view_all=true&utm_source=website&utm_medium=banner&utm_campaign=15%25+OFF+SITEWIDE+Code%3A+OFF15)
 
-Today’s offer: :: | 15% Off Stun Guns & Batons | Use Code: 15OFF
+Today’s offer: :: | 15% OFF SITEWIDE SALE I Use Code: SAVE15%
 
 Today’s offer: : :
 
- 15% Off Stun Guns & Batons Use Code: 15OFF
+ 15% OFF SITEWIDE SALE I Use Code: SAVE15%
 
  [![Menu icon](//www.thehomesecuritysuperstore.com/cdn/shop/t/278/assets/thsss-icon-menu.svg?v=3386669279103324361717265611) Menu](#)
 
@@ -455,19 +455,17 @@ Privacy Policy
 
 ### We care about your Privacy and as such we are 100% transparent!
 
-In an age where digital shopping is often what we use and trust most, it is important to provide the best experience a shopper can have. This often requires the collection of relevant content regarding you as a shopper. Who needs to see ads and emails for products you care nothing about? Nothing can be more annoying and time wasting. With that in mind, we have tapped trustworthy partners to work with you behind the scenes. They may collect non-personal information, like your IP address, device ID, shopping behavior, and information about your browser or operating system, but they give back a personalized shopping experience that truly caters to your wants and needs. Your email, IP address, device ID, shopping behavior, and information about your browser or operating system or others identifiers may be shared with them, but it is always done in such a way that not a single human is seeing or reading this information, which provides the utmost security for your information. Once our partners have this basic information, they may combine it with other friendly sources to get a complete picture of you as a shopper.
-
-Additionally, we utilize the Criteo-Service to advertise us on our site and on third party websites to our previous visitors. These advertisements are displayed using the information that is stored in cookies, which Criteo places on your computer. Cookies are small text files used to store a small record that includes information on your visit of our website. Specifically, what products you viewed and showed interest in. This is done to offer specific product recommendations when visiting our site or third party sites. But don’t worry, the cookie uses a random alias for Criteo to recognize you, which means the information cannot be connected to you personally. We or Criteo do NOT and will NOT connect this alias with your personal data and will not disclose any of your personal data to any third party.
-
-At the end of the day, choice is what it is all about. That is why you can always opt-out of these services at any time you want. This can be easily done. Simply follow the directions and links below.
-
-To opt out of Criteo’s services, please go to [https://www.criteo.com/privacy/](https://www.criteo.com/privacy/)
-
-To opt out of LiveRamp’s services, please go to https://liveramp.com/.
-
-To opt-out of third party cookies, please go to https://optout.aboutads.info/.
-
-To opt-out of the use of your mobile device ID for targeted advertising, please see https://youradchoices.com/appchoices
+In an age where digital shopping is often what we use and trust most, it is important to provide the best experience a shopper can have. This often requires the collection of relevant content regarding you as a shopper. Who needs to see ads and emails for products you care nothing about? Nothing can be more annoying and time wasting. With that in mind, we have tapped trustworthy partners to work with you behind the scenes. They may collect non-personal information, like your IP address, device ID, shopping behavior, and information about your browser or operating system, but they give back a personalized shopping experience that truly caters to your wants and needs. Once our partners have this basic information, they may combine it with other friendly sources to get a complete picture of you as a shopper.  
+  
+In addition, when you visit or log in to our website, cookies and similar technologies may be used by our online data partner, Retention, to associate these activities with other personal information they or others have about you, including by association with your email or home address. We (or service providers on our behalf) may then send communications and marketing to these email or home addresses.  
+  
+At the end of the day, choice is what it is all about. That is why you can always opt-out of these services at any time you want. This can be easily done. Simply follow the directions and links below.  
+  
+To opt-out of third party cookies, please go to [http://www.aboutads.info/choices](http://www.aboutads.info/choices "Third-party cookie opt-out").  
+  
+To opt-out of the use of your mobile device ID for targeted advertising, please see [http://www.aboutads.info/appchoices](http://www.aboutads.info/appchoices "Mobile ad opt-out").  
+  
+To opt-out of Retension’s services, please go to [https://app.retention.com/optout](https://app.retention.com/optout "Retention opt-out").
 
 [](http://www.aboutads.info/appchoices)Safe Shopping Guarantee
 --------------------------------------------------------------
@@ -563,6 +561,7 @@ Copyright © 2024 The Home Security Superstore.
 
 * American Express
 * Apple Pay
+* Diners Club
 * Discover
 * JCB
 * Mastercard
