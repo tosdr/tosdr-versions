@@ -7,21 +7,21 @@ Forum to discuss Flagfox - a Firefox extension.
 
 [Skip to content](#start_here)
 
- Search [Advanced search](https://flagfox.net/search.php?sid=b8a3b3ea6eedecd9f657ef473c24d118 "Advanced search") 
+ Search [Advanced search](https://flagfox.net/search.php?sid=8db97b62a7b58dcaf359e9c4fb3f8ccf "Advanced search") 
 
 * [Quick links](#)
     
-    * [Unanswered topics](https://flagfox.net/search.php?search_id=unanswered&sid=b8a3b3ea6eedecd9f657ef473c24d118)
-    * [Active topics](https://flagfox.net/search.php?search_id=active_topics&sid=b8a3b3ea6eedecd9f657ef473c24d118)
+    * [Unanswered topics](https://flagfox.net/search.php?search_id=unanswered&sid=8db97b62a7b58dcaf359e9c4fb3f8ccf)
+    * [Active topics](https://flagfox.net/search.php?search_id=active_topics&sid=8db97b62a7b58dcaf359e9c4fb3f8ccf)
     
-    * [Search](https://flagfox.net/search.php?sid=b8a3b3ea6eedecd9f657ef473c24d118)
+    * [Search](https://flagfox.net/search.php?sid=8db97b62a7b58dcaf359e9c4fb3f8ccf)
     
-* [FAQ](https://flagfox.net/help/faq?sid=b8a3b3ea6eedecd9f657ef473c24d118 "Frequently Asked Questions")
-* [Login](https://flagfox.net/ucp.php?mode=login&sid=b8a3b3ea6eedecd9f657ef473c24d118 "Login")
-* [Register](https://flagfox.net/ucp.php?mode=register&sid=b8a3b3ea6eedecd9f657ef473c24d118)
+* [FAQ](https://flagfox.net/help/faq?sid=8db97b62a7b58dcaf359e9c4fb3f8ccf "Frequently Asked Questions")
+* [Login](https://flagfox.net/ucp.php?mode=login&sid=8db97b62a7b58dcaf359e9c4fb3f8ccf "Login")
+* [Register](https://flagfox.net/ucp.php?mode=register&sid=8db97b62a7b58dcaf359e9c4fb3f8ccf)
 
-* [Home](https://flagfox.net/) [Board index](https://flagfox.net/index.php?sid=b8a3b3ea6eedecd9f657ef473c24d118)
-* [Search](https://flagfox.net/search.php?sid=b8a3b3ea6eedecd9f657ef473c24d118 "View the advanced search options")
+* [Home](https://flagfox.net/) [Board index](https://flagfox.net/index.php?sid=8db97b62a7b58dcaf359e9c4fb3f8ccf)
+* [Search](https://flagfox.net/search.php?sid=8db97b62a7b58dcaf359e9c4fb3f8ccf "View the advanced search options")
 
 Flagfox - Terms of use
 ----------------------
@@ -34,18 +34,18 @@ You agree not to post any abusive, obscene, vulgar, slanderous, hateful, threate
 
 * * *
 
-[Back to previous page](https://flagfox.net/ucp.php?mode=login&sid=b8a3b3ea6eedecd9f657ef473c24d118)
+[Back to previous page](https://flagfox.net/ucp.php?mode=login&sid=8db97b62a7b58dcaf359e9c4fb3f8ccf)
 
-* [Home](https://flagfox.net/) [Board index](https://flagfox.net/index.php?sid=b8a3b3ea6eedecd9f657ef473c24d118)
+* [Home](https://flagfox.net/) [Board index](https://flagfox.net/index.php?sid=8db97b62a7b58dcaf359e9c4fb3f8ccf)
 * All times are UTC+01:00
-* [Delete cookies](https://flagfox.net/ucp.php?mode=delete_cookies&sid=b8a3b3ea6eedecd9f657ef473c24d118)
+* [Delete cookies](https://flagfox.net/ucp.php?mode=delete_cookies&sid=8db97b62a7b58dcaf359e9c4fb3f8ccf)
 
 Powered by [phpBB](https://www.phpbb.com/)® Forum Software © phpBB Limited
 
-[Privacy](https://flagfox.net/ucp.php?mode=privacy&sid=b8a3b3ea6eedecd9f657ef473c24d118 "Privacy") | [Terms](https://flagfox.net/ucp.php?mode=terms&sid=b8a3b3ea6eedecd9f657ef473c24d118 "Terms")
+[Privacy](https://flagfox.net/ucp.php?mode=privacy&sid=8db97b62a7b58dcaf359e9c4fb3f8ccf "Privacy") | [Terms](https://flagfox.net/ucp.php?mode=terms&sid=8db97b62a7b58dcaf359e9c4fb3f8ccf "Terms")
 
 [](#)
 
 [](#)
 
-![cron](./cron.php?cron_type=cron.task.core.tidy_warnings&sid=b8a3b3ea6eedecd9f657ef473c24d118)
+![cron](./cron.php?cron_type=cron.task.core.tidy_sessions&sid=8db97b62a7b58dcaf359e9c4fb3f8ccf)
