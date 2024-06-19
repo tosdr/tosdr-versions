@@ -14,6 +14,7 @@
     
     * [Response Protection](https://pinkerton.com/protection/response-services)
     * [Workplace Violence Mitigation](https://pinkerton.com/protection/workplace-violence-mitigation)
+    * [Event Security](https://pinkerton.com/advisory/event-security)
     
     Dedicated protection
     
@@ -31,6 +32,7 @@
     * [Litigation Support](https://pinkerton.com/investigations/litigation-support)
     * [Threat Management](https://pinkerton.com/investigations/threat-assessment-and-management)
     * [Threat Analysis](https://pinkerton.com/advisory/threat-analysis)
+    * [Event Security](https://pinkerton.com/advisory/event-security)
     
     Reports
     
@@ -43,6 +45,7 @@
     * [Security and Risk Consulting](https://pinkerton.com/advisory/security-and-risk-consulting)
     * [Risk Assessments](https://pinkerton.com/advisory/risk-assessments)
     * [Enterprise Security Risk Management](https://pinkerton.com/advisory/enterprise-security-risk-management)
+    * [Event Security](https://pinkerton.com/advisory/event-security)
     
     Analysis
     
@@ -386,6 +389,7 @@ Pinkerton utilizes BBB National Programs for dispute resolutions.
     
     * [Response Protection](https://pinkerton.com/protection/response-services)
     * [Workplace Violence Mitigation](https://pinkerton.com/protection/workplace-violence-mitigation)
+    * [Event Security](https://pinkerton.com/advisory/event-security)
     
     Dedicated protection
     
@@ -403,6 +407,7 @@ Pinkerton utilizes BBB National Programs for dispute resolutions.
     * [Litigation Support](https://pinkerton.com/investigations/litigation-support)
     * [Threat Management](https://pinkerton.com/investigations/threat-assessment-and-management)
     * [Threat Analysis](https://pinkerton.com/advisory/threat-analysis)
+    * [Event Security](https://pinkerton.com/advisory/event-security)
     
     Reports
     
@@ -415,6 +420,7 @@ Pinkerton utilizes BBB National Programs for dispute resolutions.
     * [Security and Risk Consulting](https://pinkerton.com/advisory/security-and-risk-consulting)
     * [Risk Assessments](https://pinkerton.com/advisory/risk-assessments)
     * [Enterprise Security Risk Management](https://pinkerton.com/advisory/enterprise-security-risk-management)
+    * [Event Security](https://pinkerton.com/advisory/event-security)
     
     Analysis
     
