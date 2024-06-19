@@ -17,6 +17,7 @@ AI IS HERE TO STAY. CONTENT CREATORS SHOULD BE TOO. [SIGN THE LETTER](https://ra
     * [Blog](https://raptive.com/blog/)
     * [Resources](https://raptive.com/resources/)
     * [AI](https://raptive.com/ai/)
+    * [Raptive Rise](https://raptive.com/raptive-rise-apply-now/)
     * [Support](https://help.raptive.com/hc/en-us)
     
 * [Enterprise](https://raptive.com/enterprise/)
