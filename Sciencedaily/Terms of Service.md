@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**June 9, 2024**
+**June 18, 2024**
 
 * * *
 
@@ -229,16 +229,16 @@ this hour
 
 * * *
 
-* [Animal Flapping: Universal Equation](https://www.sciencedaily.com/releases/2024/06/240605162702.htm)
-* [CRISPR/Cas9 Can Alter Photosynthesis](https://www.sciencedaily.com/releases/2024/06/240607151714.htm)
-* [Regenerating Damaged Heart Cells](https://www.sciencedaily.com/releases/2024/06/240606152151.htm)
-* ['Missing' Early Sea Sponges Discovered](https://www.sciencedaily.com/releases/2024/06/240605162409.htm)
-* [Younger Classmates Diagnosed With ADHD](https://www.sciencedaily.com/releases/2024/06/240606152231.htm)
-* [Upending Theory of Milky Way Formation](https://www.sciencedaily.com/releases/2024/06/240606152204.htm)
-* [Black Holes a Byproduct of Dark Matter?](https://www.sciencedaily.com/releases/2024/06/240606152154.htm)
-* [Marine Cyanobacteria Can Communicate](https://www.sciencedaily.com/releases/2024/06/240606152330.htm)
-* ['Tweezer-Like' Bionic Tools Feel Right](https://www.sciencedaily.com/releases/2024/06/240606152145.htm)
-* [Odd Planet-Forming Disks Around Low-Mass Stars](https://www.sciencedaily.com/releases/2024/06/240606152101.htm)
+* [Quake Changed the Course of the Ganges](https://www.sciencedaily.com/releases/2024/06/240617173557.htm)
+* [Speed of Cepheid Stars](https://www.sciencedaily.com/releases/2024/06/240614141918.htm)
+* [Wildfires Create Weather That Favors More Fire](https://www.sciencedaily.com/releases/2024/06/240618115618.htm)
+* [Astronomers See a Massive Black Hole Awaken](https://www.sciencedaily.com/releases/2024/06/240618115433.htm)
+* [A Million Light Years and Still Going](https://www.sciencedaily.com/releases/2024/06/240617173533.htm)
+* [Brain-Computer Interfaces](https://www.sciencedaily.com/releases/2024/06/240617173427.htm)
+* [1 in 4 Kids May Be Too Anxious to Get to Sleep](https://www.sciencedaily.com/releases/2024/06/240617173714.htm)
+* [Measuring Aging With Protein Aggregation Clock](https://www.sciencedaily.com/releases/2024/06/240617173433.htm)
+* [Dairy Consumption in The Early Neolithic](https://www.sciencedaily.com/releases/2024/06/240617173552.htm)
+* [A High-Fat Diet May Fuel Anxiety](https://www.sciencedaily.com/releases/2024/06/240617173547.htm)
 
 Trending Topics
 ---------------
@@ -249,27 +249,27 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Heart Disease](https://www.sciencedaily.com/news/health_medicine/heart_disease/)
+[Nervous System](https://www.sciencedaily.com/news/health_medicine/nervous_system/)
 
-[Chronic Illness](https://www.sciencedaily.com/news/health_medicine/chronic_illness/)
+[Bird Flu](https://www.sciencedaily.com/news/health_medicine/bird_flu/)
 
-[Breast Cancer](https://www.sciencedaily.com/news/health_medicine/breast_cancer/)
+[Breastfeeding](https://www.sciencedaily.com/news/health_medicine/breastfeeding/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
-[Computer Modeling](https://www.sciencedaily.com/news/computers_math/computer_modeling/)
+[Materials Science](https://www.sciencedaily.com/news/matter_energy/materials_science/)
 
-[Technology](https://www.sciencedaily.com/news/matter_energy/technology/)
+[Organic Chemistry](https://www.sciencedaily.com/news/matter_energy/organic_chemistry/)
 
-[Information Technology](https://www.sciencedaily.com/news/computers_math/information_technology/)
+[Biochemistry](https://www.sciencedaily.com/news/matter_energy/biochemistry/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Environmental Awareness](https://www.sciencedaily.com/news/earth_climate/environmental_awareness/)
+[Fossils](https://www.sciencedaily.com/news/fossils_ruins/fossils/)
 
-[Environmental Policy](https://www.sciencedaily.com/news/earth_climate/environmental_policy/)
+[Organic](https://www.sciencedaily.com/news/plants_animals/organic/)
 
-[Biology](https://www.sciencedaily.com/news/plants_animals/biology/)
+[Fish](https://www.sciencedaily.com/news/plants_animals/fish/)
 
   
 
