@@ -1,6 +1,6 @@
 [Skip Navigation](#)
 
-[![](https://cdn.prod.website-files.com/64ad8cecda5417d65d91a876/64ad8cecda5417d65d91aa2f_lookout-logo-r.svg)](https://security.lookout.com/)
+[![Lookout logo](https://cdn.prod.website-files.com/64ad8cecda5417d65d91a876/64ad8cecda5417d65d91aa2f_lookout-logo-r.svg)](https://security.lookout.com/)
 
 [Products](#)
 
