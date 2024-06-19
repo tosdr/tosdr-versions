@@ -145,12 +145,12 @@ We collect “Personal Information” which is defined under the CCPA as: “…
 
 During the 12-month period prior to the effective date of this Policy, we may have:
 
-10.3.1. Collected the following categories of Personal Information about you:* Identifiers (personal) (including, for example, name, online and device identifier, IP address, email address, account name and number).
+**10.3.1.** Collected the following categories of Personal Information about you:* Identifiers (personal) (including, for example, name, online and device identifier, IP address, email address, account name and number).
 * UsageInformation (including, for example, online browsing and website interaction histories; and direct marketing histories).
 * Computing or mobile-device information and internet or other electronic- network-activity information (including, for example, login credentials; online advertisement engagements; and cookies, tags).
 * Geolocation information.
 
-10.3.2. Collected Personal Information about you from the following categories of sources:* You (for example, through your use of our Site).
+**10.3.2.** Collected Personal Information about you from the following categories of sources:* You (for example, through your use of our Site).
 * Your computing or mobile devices.
 * Our technology (for example, through observed consumer interactions with
 us and through our Site).* Our Services and systems.
@@ -158,7 +158,7 @@ us and through our Site).* Our Services and systems.
 * Public records.
 * Unaffiliated third parties.
 
-10.3.3. Collected Personal Information about you for the following business or commercial purposes (supplementing the information described in section 3 above to this Privacy Policy):* Operating our Site and services.
+**10.3.3.** Collected Personal Information about you for the following business or commercial purposes (supplementing the information described in section 3 above to this Privacy Policy):* Operating our Site and services.
 * Auditing related to a current interaction with you and concurrent transactions, including, but not limited to, counting ad impressions to unique visitors, verifying positioning and quality of ad impressions, and auditing compliance.
 * Detecting security incidents, protecting against malicious, deceptive, fraudulent, or illegal activity, and prosecuting those responsible for that activity.
 * Undertaking internal research for technological development and optimization.
@@ -166,40 +166,79 @@ us and through our Site).* Our Services and systems.
 * Administering technology and ensure technology integrity (including, for example, by maintaining and improving networks; and identifying and fixing problems).
 * To fulfill or meet the reason for which you provided the Personal Information (respond to a query, provide you with access to certain functions and features of the Site, for support).
 
-10.3.4. Shared your Personal Information for business or commercial purposes, with the following categories of third parties:* Vendors who provide services on our behalf, including:
+**10.3.4.** Shared your Personal Information for business or commercial purposes, with the following categories of third parties:* Vendors who provide services on our behalf, including:
 * 1\. Data center/host/cloud-service provider.
 * 2\. Vendor (miscellaneous) services.
 
-10.3.5. Disclosed to third parties for a business purpose the following categories of Personal Information about you:* Identifiers (personal) (including, for example, name, alias, postal address,, online and device identifier, IP address, email address, account name and number,).
+**10.3.5.** Disclosed to third parties for a business purpose the following categories of Personal Information about you:* Identifiers (personal) (including, for example, name, alias, postal address,, online and device identifier, IP address, email address, account name and number,).
 * Commercial Information (including, for example, online browsing and website interaction histories; and direct marketing histories).
 * Internet or other electronic-network-activity information (including, for example, online advertisement engagements; cookies, tags, and similar device or user identifying information).
 * Geolocation information.
 
-10.3.6. Categories of third parties to whom Personal Information has been disclosed for a business purpose:* Internet Service Providers.
+**10.3.6.** Categories of third parties to whom Personal Information has been disclosed for a business purpose:* Internet Service Providers.
 * Data Analytics Providers.
 * Operating Systems and Platforms.
 
 In the preceding twelve (12) months, we have not sold personal information.  
 We also do not use or disclose any sensitive Personal Information for purposes other than those authorized by you or as permitted by law.
 
-10.4. Your Rights
+**10.4. Your Rights**
 
 You may be entitled to the following specific rights under the CCPA and the CPRA regarding your Personal Information:  
 You have the right to opt out of the “selling” or “sharing” of your Personal Information.  
 You have the right to opt out of “targeted ads” or “profiling,” as these terms are defined under the privacy laws.  
+
 You may have the right to request, twice in a 12-month period (depending on the law in your state), the following information about the Personal Information we have collected about you during the past 12 months:  
 
-* 1\. The categories and specific pieces of Personal Information we have collected about you;
-* 2\. The categories of sources from which we collected the Personal Information;
-* 3\. The business or commercial purpose for which we collected the Personal Information;
-* 4\. The categories of third parties with whom we shared the Personal Information; and
-* 5\. The categories of Personal Information about you that we disclosed for a business purpose, and the categories of third parties to whom we disclosed that information for a business purpose.
+* The categories and specific pieces of Personal Information we have collected about you;
+* The categories of sources from which we collected the Personal Information;
+* The business or commercial purpose for which we collected the Personal Information;
+* The categories of third parties with whom we shared the Personal Information; and
+* The categories of Personal Information about you that we disclosed for a business purpose, and the categories of third parties to whom we disclosed that information for a business purpose.
 
 In addition, you have the right to request that we delete or correct the Personal Information we have collected from you.
 
 To help protect your privacy and maintain security, we take steps to verify your identity before granting access to information or complying with a request. To the extent permitted by applicable law, we may charge a reasonable fee to comply with your request.
 
-Right to Non-Discrimination or Retaliatory Treatment for Exercise of Privacy Rights: You have the right to exercise your privacy rights without receiving discriminatory or retaliatory treatment. If you exercise any of your privacy rights, including the right to restrict the selling or sharing of your Personal Information, you will not be treated differently from those who do not exercise their privacy rights. 10.5. Additional Rights and Provisions for Colorado, Connecticut and Virginia Residents This section applies to Colorado, Connecticut and Virginia Residents as defined by the Colorado Privacy Act (“CPA”), Connecticut Data Privacy Act (“CTDPA”), and Virginia Consumer Data Protection Act (“VCDPA”). Capitalized terms defined in the CTDPA, CPA, VCDPA that are used in this section shall have the same meaning as in the CTDPA, CPA and VCDPA. This section describes our collection, use, and disclosure of personal information. You can learn more about the personal information we process, how we process the personal information, the purpose for processing such personal information and the categories of third parties with whom we share such data, in sections 10.2 and 10.3 above. We do not sell personal information (as defined under the CTDPA, CPA, VCDPA) for monetary consideration. If you are a Colorado, Connecticut, or Virginia Consumer, subject to certain conditions and restrictions set out in the CTDPA, CPA, VCDPA and other applicable laws, you may have certain rights regarding your personal information (as applicable, depending on where you reside), as described below: 1. Access the personal information that we may hold about you. 2. Request that we correct inaccuracies in your personal information. 3. Request that we delete personal information that we have collected from or obtained about you. 4. Opt-out of the processing of your personal information for purposes of, targeted advertising or the sale of your personal information. 5. You may have the right to opt-out of the processing of personal information for the purposes of profiling. 6. Right to appeal if we refuse to take action on your rights request. Instructions on how to appeal will be provided to you upon such a denial. The appeal should be submitted in accordance with section 5.3 below. Please note that, depending on the nature of your request, you may be asked to provide information to verify your identity before your request can be processed. You may exercise your privacy rights under the CTDPA, CPA, and VCDPA no more than twice in a 12-month period. 10.6. Exercising Your Rights To exercise the rights described above, please submit your inquiry or request via the following two methods: · Submitting an inquiry to [\[email protected\]](https://www.moviefinderhub.com/cdn-cgi/l/email-protection) · Sending a physical inquiry to 4 World Trade Center, Suite 2983, New York, New York 10007, United States We will not discriminate against you for exercising any of your rights. Please note, we do not explicitly sell your personal information, therefore, there is no need for you to opt-out of the potential sale of your personal information. Only you or a person authorized to act on your behalf, may make a request related to your Information. You may also make a verifiable consumer request on behalf of your minor child. If you submit your request through an authorized agent, we may request that the agent provide proof of your prior authorization, as well as information necessary to verify your identity. We can meet sufficiently verifiable user requests. Sufficiently verifiable user requests refer to requests that allow us to reasonably match the information provided by the user making the request with the information already available with us. Any disclosures we provide will only cover the 12-month period preceding receipt of your request.
+Right to Non-Discrimination or Retaliatory Treatment for Exercise of Privacy Rights: You have the right to exercise your privacy rights without receiving discriminatory or retaliatory treatment. If you exercise any of your privacy rights, including the right to restrict the selling or sharing of your Personal Information, you will not be treated differently from those who do not exercise their privacy rights.
+
+**10.5. Additional Rights and Provisions for Colorado, Connecticut and Virginia Residents**
+
+This section applies to Colorado, Connecticut and Virginia Residents as defined by the Colorado Privacy Act (“CPA”), Connecticut Data Privacy Act (“CTDPA”), and Virginia Consumer Data Protection Act (“VCDPA”). Capitalized terms defined in the CTDPA, CPA, VCDPA that are used in this section shall have the same meaning as in the CTDPA, CPA and VCDPA.
+
+This section describes our collection, use, and disclosure of personal information. You can learn more about the personal information we process, how we process the personal information, the purpose for processing such personal information and the categories of third parties with whom we share such data, in sections 10.2 and 10.3 above.
+
+We do not sell personal information (as defined under the CTDPA, CPA, VCDPA) for monetary consideration.
+
+If you are a Colorado, Connecticut, or Virginia Consumer, subject to certain conditions and restrictions set out in the CTDPA, CPA, VCDPA and other applicable laws, you may have certain rights regarding your personal information (as applicable, depending on where you reside), as described below:
+
+* Access the personal information that we may hold about you.
+* Request that we correct inaccuracies in your personal information.
+* Request that we delete personal information that we have collected from or obtained about you.
+* Opt-out of the processing of your personal information for purposes of, targeted advertising or the sale of your personal information.
+* You may have the right to opt-out of the processing of personal information for the purposes of profiling.
+* Right to appeal if we refuse to take action on your rights request. Instructions on how to appeal will be provided to you upon such a denial. The appeal should be submitted in accordance with section 5.3 below.
+
+Please note that, depending on the nature of your request, you may be asked to provide information to verify your identity before your request can be processed.
+
+You may exercise your privacy rights under the CTDPA, CPA, and VCDPA no more than twice in a 12-month period.
+
+**10.6. Exercising Your Rights**
+
+To exercise the rights described above, please submit your inquiry or request via the following two methods:
+
+* Submitting an inquiry to [\[email protected\]](https://www.moviefinderhub.com/cdn-cgi/l/email-protection)
+* Sending a physical inquiry to 4 World Trade Center, Suite 2983, New York, New York 10007, United States
+
+We will not discriminate against you for exercising any of your rights.  
+
+Please note, we do not explicitly sell your personal information, therefore, there is no need for you to opt-out of the potential sale of your personal information.
+
+Only you or a person authorized to act on your behalf, may make a request related to your Information. You may also make a verifiable consumer request on behalf of your minor child. If you submit your request through an authorized agent, we may request that the agent provide proof of your prior authorization, as well as information necessary to verify your identity.
+
+We can meet sufficiently verifiable user requests. Sufficiently verifiable user requests refer to requests that allow us to reasonably match the information provided by the user making the request with the information already available with us.
+
+Any disclosures we provide will only cover the 12-month period preceding receipt of your request.
 
 **Personal Information**
 
