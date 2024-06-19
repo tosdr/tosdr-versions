@@ -18,7 +18,7 @@ Cart](https://pianopronto.com/cart/)
 
 [Resources & More](https://pianopronto.com/resources/)[Shop By](https://pianopronto.com/shop-by/)[Method Books](https://pianopronto.com/method-books/)[Songbooks](https://pianopronto.com/songbooks/)[Sheet Music](https://pianopronto.com/sheet-music/)[Audio](https://pianopronto.com/audio/)[Composers Community™](https://pianopronto.com/composers-community/)[Viva Violin™](https://pianopronto.com/viva-violin/)[KiddyKeys®](https://pianopronto.com/kiddykeys/)[Theory Time®](https://pianopronto.com/theory-time/)[Games](https://pianopronto.com/games/)[Deals](https://pianopronto.com/deals/)[Blog](https://blog.pianopronto.com/)
 
-[15% Off All Method Books](https://pianopronto.com/resources/promo/)
+[Earn double Pronto Points on all orders](https://pianopronto.com/resources/promo/)
 
 [Hello, Sign in](https://secure.pianopronto.com/login/?then=L2Nvb2tpZS1wb2xpY3kv)
 
