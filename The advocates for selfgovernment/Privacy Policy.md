@@ -335,6 +335,10 @@ Articles
 
 [](#)[](#)
 
+* [![](https://www.theadvocates.org/wp-content/uploads/2024/05/Screenshot-2024-05-31-at-12.37.06 PM-300x200.png)](https://www.theadvocates.org/principles-of-market-fundamentalism-no-8-emergence/)
+    
+    #### [Principles of Market Fundamentalism, No. 8: Emergence](https://www.theadvocates.org/principles-of-market-fundamentalism-no-8-emergence/)
+    
 * [![](https://www.theadvocates.org/wp-content/uploads/2024/05/Screenshot-2024-05-30-at-5.09.20 PM-300x200.png)](https://www.theadvocates.org/the-protection-racket/)
     
     #### [The Protection Racket](https://www.theadvocates.org/the-protection-racket/)
@@ -362,10 +366,6 @@ Articles
 * [![](https://www.theadvocates.org/wp-content/uploads/2024/04/Screenshot-2024-04-22-at-10.30.05 AM-300x200.png)](https://www.theadvocates.org/principles-of-market-fundamentalism-no-5-entrepreneurism/)
     
     #### [Principles of Market Fundamentalism, No. 5: Entrepreneurism](https://www.theadvocates.org/principles-of-market-fundamentalism-no-5-entrepreneurism/)
-    
-* [![](https://www.theadvocates.org/wp-content/uploads/2024/04/Screenshot-2024-04-15-at-1.17.22 PM-300x200.png)](https://www.theadvocates.org/should-you-vote/)
-    
-    #### [Should You Vote?](https://www.theadvocates.org/should-you-vote/)
     
 * [#### All Articles](https://www.theadvocates.org/articles/)
     
