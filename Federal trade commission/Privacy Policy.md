@@ -18,8 +18,10 @@ Federal government websites often end in .gov or .mil. Before sharing sensitive 
 **The site is secure.**  
 The **https://** ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely.
 
-* [English](https://www.ftc.gov/)
-* [español](https://www.ftc.gov/es/ftc-en-espa%C3%B1ol)
+Translation Menu
+----------------
+
+* [Español](https://www.ftc.gov/es)
 
 Secondary Menu
 --------------
@@ -149,11 +151,11 @@ Main Menu Mega
     
     Technology Blog
     
-    ### [P = NP? Not exactly, but here are some research questions from the Office of Technology.](https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2024/05/p-np-not-exactly-here-are-some-research-questions-office-technology)
+    ### [Global Perspectives from the International Competition Network Tech Forum](https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2024/06/global-perspectives-international-competition-network-tech-forum)
     
     Staff in the Office of Technology
     
-    May 16, 2024
+    June 13, 2024
     
     [View all Technology Blog posts](https://www.ftc.gov/policy/advocacy-research/tech-at-ftc)
     
@@ -224,20 +226,20 @@ Main Menu Mega
     
     [Press Release](https://www.ftc.gov/news-events/news/press-releases)
     
-    ### [FTC Approves Modification to Horseracing Integrity and Safety Authority’s Racetrack Safety Rule](https://www.ftc.gov/news-events/news/press-releases/2024/06/ftc-approves-modification-horseracing-integrity-safety-authoritys-racetrack-safety-rule)
+    ### [Statement of the Commission Regarding TikTok Complaint Referral to DOJ](https://www.ftc.gov/news-events/news/press-releases/2024/06/statement-commission-regarding-tiktok-complaint-referral-doj)
     
-    June 7, 2024
+    June 18, 2024
     
     [View News and Events](https://www.ftc.gov/news-events)
     
     Upcoming Event
     --------------
     
-    Nov14
+    Jun20
     
-    ### [Seventeenth Annual Microeconomics Conference](https://www.ftc.gov/news-events/events/2024/11/seventeenth-annual-microeconomics-conference)
+    ### [Closed Commission Meeting - June 20, 2024](https://www.ftc.gov/news-events/events/2024/06/closed-commission-meeting-june-20-2024)
     
-    Thursday, November 14, 2024 | 9:00AM - Friday, November 15, 2024 | 5:00PM
+    Thursday, June 20, 2024 | 12:30PM
     
     [View more Events](https://www.ftc.gov/news-events/events)
     
@@ -316,8 +318,10 @@ Main Menu Mega
     Looking for legal documents or records? Search the [Legal Library](https://www.ftc.gov/legal-library) instead.
     
 
-* [English](https://www.ftc.gov/)
-* [español](https://www.ftc.gov/es/ftc-en-espa%C3%B1ol)
+Translation Menu
+----------------
+
+* [Español](https://www.ftc.gov/es)
 
 Secondary Menu
 --------------
