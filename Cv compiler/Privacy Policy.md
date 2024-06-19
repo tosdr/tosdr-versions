@@ -947,6 +947,84 @@ What do top resumes look like? Check out these expertly-written samples:
 
 [Medical Receptionist](https://cvcompiler.com/medical-receptionist-resume-examples)
 
+[Finance Manager](https://cvcompiler.com/finance-manager-resume-examples)
+
+[Server](https://cvcompiler.com/server-resume-examples)
+
+[Call Center](https://cvcompiler.com/call-center-resume-examples)
+
+[Student Teacher](https://cvcompiler.com/student-teacher-resume-examples)
+
+[Writer](https://cvcompiler.com/writer-resume-examples)
+
+[Quality Control](https://cvcompiler.com/quality-control-resume-examples)
+
+[Research Assistant](https://cvcompiler.com/research-assistant-resume-examples)
+
+[Accountant Assistant](https://cvcompiler.com/accountant-assistant-resume-examples)
+
+[Automation Tester](https://cvcompiler.com/automation-tester-resume-examples)
+
+[Insurance Agent](https://cvcompiler.com/insurance-agent-resume-examples)
+
+[Entry-Level Cybersecurity](https://cvcompiler.com/entry-level-cybersecurity-resume-examples)
+
+[Esthetician](https://cvcompiler.com/esthetician-resume-examples)
+
+[Preschool Teacher](https://cvcompiler.com/preschool-teacher-resume-examples)
+
+[Entry-Level Dental Assistant](https://cvcompiler.com/entry-level-dental-assistant-resume-examples)
+
+[Procurement](https://cvcompiler.com/procurement-resume-examples)
+
+[Bank Teller](https://cvcompiler.com/bank-teller-resume-examples)
+
+[Entry-Level Medical Assistant](https://cvcompiler.com/entry-level-medical-assistant-resume-examples)
+
+[Personal Care Assistant](https://cvcompiler.com/personal-care-assistant-resume-examples)
+
+[Art Teacher](https://cvcompiler.com/art-teacher-resume-examples)
+
+[Cybersecurity Analyst](https://cvcompiler.com/cybersecurity-analyst-resume-examples)
+
+[Daycare Teacher](https://cvcompiler.com/daycare-teacher-resume-examples)
+
+[Education](https://cvcompiler.com/education-resume-examples)
+
+[Excel Expert](https://cvcompiler.com/excel-expert-resume-examples)
+
+[Finance Director](https://cvcompiler.com/finance-director-resume-examples)
+
+[Systems Analyst](https://cvcompiler.com/systems-analyst-resume-examples)
+
+[Kindergarten Teacher](https://cvcompiler.com/kindergarten-teacher-resume-examples)
+
+[Entry-Level Nursing Assistant](https://cvcompiler.com/entry-level-nursing-assistant-resume-examples)
+
+[Senior Accountant](https://cvcompiler.com/senior-accountant-resume-examples)
+
+[Staff Accountant](https://cvcompiler.com/staff-accountant-resume-examples)
+
+[Retail Associate](https://cvcompiler.com/retail-associate-resume-examples)
+
+[Assistant Retail Manager](https://cvcompiler.com/assistant-retail-manager-resume-examples)
+
+[E-commerce](https://cvcompiler.com/ecommerce-resume-examples)
+
+[Entry-Level Legal Assistant](https://cvcompiler.com/entry-level-legal-assistant-resume-examples)
+
+[Filmmaker](https://cvcompiler.com/filmmaker-resume-examples)
+
+[Production Engineer](https://cvcompiler.com/production-engineer-resume-examples)
+
+[HR Recruiter](https://cvcompiler.com/hr-recruiter-resume-examples)
+
+[Non-Certified Medical Assistant](https://cvcompiler.com/non-certified-medical-assistant-resume-examples)
+
+[Technical Sales](https://cvcompiler.com/technical-sales-resume-examples)
+
+[Change Management](https://cvcompiler.com/change-management-resume-examples)
+
 ![Upload resume illustration](uploads-pre-acq/img/upload-illustration.svg)
 
 ### Upload  
