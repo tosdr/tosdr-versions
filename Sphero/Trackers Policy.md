@@ -18,7 +18,7 @@ Using information available, combined with skills acquired, can help make good d
 
        
 
-[🌀 Preseason registration for the Sphero Global Challenge: Time Travelers is now open 🌀 Register today and join the adventure >](https://sphero.com/pages/global-challenge)
+[⚡ Looking to upgrade your BOLT robot to BOLT+? Learn more here > ⚡](https://sphero.activehosted.com/f/296)
 
 * Shop
 * Teach
