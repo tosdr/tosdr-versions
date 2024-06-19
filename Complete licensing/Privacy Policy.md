@@ -1,8 +1,6 @@
 [Skip to content](#content)
 
-[![Complete Licensing logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E)
-
-![Complete Licensing logo](https://completelicensing.uk/wp-content/uploads/2020/05/complete-licensing-logo-1.svg)](https://completelicensing.uk/)
+[![Complete Licensing logo](https://completelicensing.uk/wp-content/uploads/2020/05/complete-licensing-logo-1.svg)](https://completelicensing.uk/)
 
 * [About](https://completelicensing.uk/about/)
 * [Services](https://completelicensing.uk/services/)
