@@ -20,7 +20,7 @@
     
     [Patient & Visitor Guide](https://www.mayoclinic.org/patient-visitor-guide)
     
-    [Insurance & Billing](https://www.mayoclinic.org/patient-visitor-guide/billing-insurance)
+    [Billing & Insurance](https://www.mayoclinic.org/billing-insurance)
     
     [Departments & Centers](https://www.mayoclinic.org/departments-centers)
     
@@ -167,7 +167,7 @@
     
     [Patient & Visitor Guide](https://www.mayoclinic.org/patient-visitor-guide)
     
-    [Insurance & Billing](https://www.mayoclinic.org/patient-visitor-guide/billing-insurance)
+    [Billing & Insurance](https://www.mayoclinic.org/billing-insurance)
     
     [Departments & Centers](https://www.mayoclinic.org/departments-centers)
     
