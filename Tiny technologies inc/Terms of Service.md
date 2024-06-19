@@ -11,7 +11,6 @@ The world's most trusted WYSIWYG HTML editor, for total control over your rich t
 * [Pricing](https://www.tiny.cloud/pricing/)
 * [Documentation](https://www.tiny.cloud/docs/tinymce/latest/)
 * [Demos](https://www.tiny.cloud/docs/tinymce/latest/full-featured-premium-demo/)
-* [Download TinyMCE for Free](https://www.tiny.cloud/get-tiny/)
 
 [MoxieManager
 
@@ -115,7 +114,6 @@ The world's most trusted WYSIWYG HTML editor, for total control over your rich t
 * [Pricing](https://www.tiny.cloud/pricing/)
 * [Documentation](https://www.tiny.cloud/docs/tinymce/latest/)
 * [Demos](https://www.tiny.cloud/docs/tinymce/latest/full-featured-premium-demo/)
-* [Download TinyMCE for Free](https://www.tiny.cloud/get-tiny/)
 
 [MoxieManager
 
