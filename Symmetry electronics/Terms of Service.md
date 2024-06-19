@@ -58,7 +58,6 @@ Back
         * [Embedded Solutions](https://www.symmetryelectronics.com/products/embedded-solutions/)
         * [Audio Modules](https://www.symmetryelectronics.com/products/embedded-solutions/audio-modules/)
         * [Computing](https://www.symmetryelectronics.com/products/embedded-solutions/computing/)
-        * [Data Conversion Modules](https://www.symmetryelectronics.com/products/embedded-solutions/data-conversion-modules/)
         * [Display Modules](https://www.symmetryelectronics.com/products/embedded-solutions/display-modules/)
         * [Engineering Tools](https://www.symmetryelectronics.com/products/embedded-solutions/engineering-tools/)
         * [Ethernet & Communication Modules](https://www.symmetryelectronics.com/products/embedded-solutions/ethernet-communication-modules/)
