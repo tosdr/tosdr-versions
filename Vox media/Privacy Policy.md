@@ -32,7 +32,7 @@ Vox Media main menu
     * [New York Magazine](http://nymag.com/)
     * [NowThis](https://nowthisnews.com/)
     * [Polygon](https://www.polygon.com/)
-    * [Popsugar](https://www.popsugar.com/)
+    * [PS](https://www.popsugar.com/)
     * [SB Nation](https://www.sbnation.com/)
     
     * [The Strategist](http://nymag.com/strategist/)
