@@ -41,6 +41,9 @@ Header - Shapes Theme
     
 * Merch
     
+    * [![3 SILICONE WRISTBANDS](//www.unspeakable.com/cdn/shop/files/DSC_0999.jpg?v=1718112203&width=700)
+        
+        3 SILICONE WRISTBANDS](https://www.unspeakable.com/products/3-silicon-wristbands)
     * [![DOG TAGS](//www.unspeakable.com/cdn/shop/files/DSC_0993_1.jpg?v=1715092722&width=700)
         
         DOG TAGS](https://www.unspeakable.com/products/dog-tags)
@@ -56,9 +59,6 @@ Header - Shapes Theme
     * [![WHITE SMILEY SWIRL T-SHIRT](//www.unspeakable.com/cdn/shop/files/dsc09168_1.jpg?v=1713194256&width=700)
         
         WHITE SMILEY SWIRL T-SHIRT](https://www.unspeakable.com/products/white-smiley-swirl-t-shirt)
-    * [![BLUE SMILEY SWIRL T-SHIRT](//www.unspeakable.com/cdn/shop/files/dsc09438_2.jpg?v=1713193666&width=700)
-        
-        BLUE SMILEY SWIRL T-SHIRT](https://www.unspeakable.com/products/blue-smiley-swirl-t-shirt)
     
     [View All](https://www.unspeakable.com/collections/merch)
     
