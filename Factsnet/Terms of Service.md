@@ -206,21 +206,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![19 Facts About Attensi ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/general/19-facts-about-attensi/)
+[![18 Facts About Data Infrastructure ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2279%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/tech-and-sciences/18-facts-about-data-infrastructure/)
+
+Tech & Sciences
+
+18 Jun 2024
+
+[18 Facts About Data Infrastructure](https://facts.net/tech-and-sciences/18-facts-about-data-infrastructure/)
+
+[![17 Facts About Brand Tracking ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22125%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/general/17-facts-about-brand-tracking/)
 
 General
 
-09 Jun 2024
+18 Jun 2024
 
-[19 Facts About Attensi](https://facts.net/general/19-facts-about-attensi/)
-
-[![28 Best Sawfish Facts ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2272%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/nature/28-best-sawfish-facts/)
-
-Nature
-
-09 Jun 2024
-
-[28 Best Sawfish Facts](https://facts.net/nature/28-best-sawfish-facts/)
+[17 Facts About Brand Tracking](https://facts.net/general/17-facts-about-brand-tracking/)
 
 [Home](https://facts.net/) [Terms](https://facts.net/terms/)
 
