@@ -3,7 +3,7 @@
 * * *
 
 * [Help](https://www.worldremit.com/en/faq)
-* [Login](https://www.worldremit.com/en/download-our-app)
+* [Currency Converter](https://www.worldremit.com/en/currency-converter)
 * [Create account](https://www.worldremit.com/en/signup)
 
 Privacy Policy
