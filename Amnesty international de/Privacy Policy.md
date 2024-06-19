@@ -120,11 +120,13 @@ DATENSCHUTZHINWEISE
 Auf dieser Seite informiert Amnesty International Deutschland e.V. (nachfolgend auch kurz: "Amnesty International"; oder "wir" oder "uns") darüber, welche personenbezogenen Daten zu welchen Zwecken und auf welche Art und Weise bei der Nutzung dieser Internetseite, ihrer Angebote oder im Rahmen von sonstigen Interaktionen (auch offline oder über andere Medien) verarbeitet werden. Es bestehen grundsätzlich keine gesetzlichen oder vertraglichen Pflichten zur Bereitstellung von personenbezogenen Daten. Diese Datenschutzhinweise werden bei Bedarf an neue Angebote und Datenverarbeitungen oder veränderte sachliche oder rechtliche Bedingungen angepasst. Letzte Änderung: 6. Juni 2024
 
 Verantwortlich für die Datenverarbeitung ist  
-**Amnesty International Deutschland e. V.**   
-**Zinnowitzer Straße 8**  
-**10115 Berlin**
+**Amnesty International Deutschland e. V.** 
 
-Sie erreichen uns postalisch, per E-Mail an [info@amnesty.de](mailto:info@amnesty.de) oder telefonisch unter +49-30-420248-0. Unseren Datenschutzbeauftragten erreichen Sie per Post oder per E-Mail an [datenschutz@amnesty.de](mailto:datenschutz@amnesty.de).
+**Sonnenallee 221 C**
+
+**12059 Berlin**
+
+Sie erreichen uns postalisch, per E-Mail an [info@amnesty.de](mailto:info@amnesty.de) oder telefonisch unter +49-30-420248-0. Unseren Datenschutzbeauftragten erreichen Sie per Post (adressiert an "Datenschutzbeauftragter") unter obiger Anschrift, unser Datenschutzteam erreichen Sie per E-Mail an [datenschutz@amnesty.de](mailto:datenschutz@amnesty.de).
 
 Mitgliedschaft
 
@@ -145,6 +147,8 @@ Hierzu ist die Angabe der im jeweiligen Formular mit einem Sternchen (\*) gekenn
 Amnesty International verarbeitet die Daten zum Zweck der Abwicklung einer Spende, der Förderung oder der jeweils anderen Art Ihrer Unterstützung und stets zur Erreichung der satzungsgemäßen Ziele.
 
 Rechtsgrundlage kann Ihre Einwilligung gem. Art. 6 Abs. 1 lit. a) DSGVO sein, wenn diese entsprechend eingeholt wird, bzw. unser überwiegendes berechtigtes Interesse gem. Art. 6 Abs. 1 lit. f) DSGVO, über welches wir im jeweiligen Kontext der Erhebung Ihrer Daten informieren. Rechtsgrundlage der Datenverarbeitung kann auch Art. 6 Abs. 1 lit. b) DSGVO sein, wenn die Verarbeitung für die Erfüllung eines Vertrags oder die Durchführung vorvertraglicher Maßnahmen erforderlich ist. 
+
+Eine Einwilligung kann jederzeit mit Wirkung für die Zukunft widerrufen werden, bzw. **können Sie gemäß Art. 21 Abs. 1 DSGVO aus Gründen, die sich aus Ihrer besonderen Situation ergeben, jederzeit der Verarbeitung Ihrer personenbezogenen Daten widersprechen.**
 
 Die Daten von Spender\*innen, Förderer\*innen und Unterstützer\*innen werden so lange verarbeitet, wie dies für die Erreichung des Zwecks der Verarbeitung, die Erfüllung vertraglicher Pflichten oder gesetzlicher Aufbewahrungsfristen erforderlich ist. Verschiedene Kategorien von Daten können verschiedenen Verarbeitungszwecken und abweichenden Löschfristen unterliegen. Die Verarbeitung kann daher bis zu zehn Jahre nach Ende des Kalenderjahres, in dem die letzte Unterstützung einging, erfolgen.
 
@@ -208,6 +212,8 @@ Die eingegebenen Daten werden von Amnesty International zum Zweck der Durchführ
 
 Rechtsgrundlage für Erhalt von Informationen per E-Mail, die über Informationen zur konkreten Aktion hinausgehen, unser überwiegendes berechtigtes Interesse, Sie über Spendenmöglichkeiten für gemeinnützige Zwecke und die satzungsgemäßen Ziele zu informieren (Art. 6 Abs. 1 lit. f DSGVO).
 
+Eine Einwilligung kann jederzeit mit Wirkung für die Zukunft widerrufen werden, bzw. **können Sie gemäß Art. 21 Abs. 1 DSGVO aus Gründen, die sich aus Ihrer besonderen Situation ergeben, jederzeit der Verarbeitung Ihrer personenbezogenen Daten widersprechen.**
+
 Je nach Aktion werden die Daten der Teilnehmer\*innen auch an politische Entscheidungsträger\*innen und andere Adressat\*innen der jeweiligen Aktion übermittelt. 
 
 Dabei erfolgt häufig eine Übermittlung von Daten in so genannte Drittländer außerhalb der Europäischen Union, die datenschutzrechtlich als unsichere Drittstaaten zu betrachten sind. Rechtsgrundlage für die Datenübermittlung in das jeweilige Drittland bei Teilnahme an einer Petition ist die ausdrückliche Einwilligung gem. Art. 49 Abs. 1 lit. a) DSGVO. 
@@ -270,6 +276,8 @@ Wir löschen die Daten nach Ablauf gesetzlicher Gewährleistungs- und vergleichb
 
 **Rechtsgrundlagen**: Vertragserfüllung und vorvertragliche Anfragen (Art. 6 Abs. 1 S. 1 lit. b) DSGVO); Rechtliche Verpflichtung (Art. 6 Abs. 1 S. 1 lit. c) DSGVO). Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO).
 
+**Sie können gemäß Art. 21 Abs. 1 DSGVO aus Gründen, die sich aus Ihrer besonderen Situation ergeben, jederzeit der Verarbeitung Ihrer personenbezogenen Daten widersprechen.**
+
 Detailliertere Angaben zu eingesetzten Diensten finden Sie auch im Abschnitt "Nähere Hinweise zu Verarbeitungsprozessen, Verfahren und Diensten".
 
 Bewerbungsverfahren
@@ -304,6 +312,8 @@ Die Aufnahme in einen Bewerber-Pool, sofern angeboten, erfolgt auf Grundlage ein
 
 **Rechtsgrundlagen**: Bewerbungsverfahren als vorvertragliches bzw. vertragliches Verhältnis (Art. 6 Abs. 1 S. 1 lit. b) DSGVO). Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO).
 
+**Sie können gemäß Art. 21 Abs. 1 DSGVO aus Gründen, die sich aus Ihrer besonderen Situation ergeben, jederzeit der Verarbeitung Ihrer personenbezogenen Daten widersprechen.**
+
 Detailliertere Angaben zu eingesetzten Diensten finden Sie auch im Abschnitt "Nähere Hinweise zu Verarbeitungsprozessen, Verfahren und Diensten", insb.auch zu LinkedIn, Onlyfy und Xing.
 
 Publikationstätigkeit
@@ -318,7 +328,7 @@ Diese Foto-, Film-, Ton- und/oder Streamingaufnahmen werden ggf. auf unserer Web
 
 Die Verarbeitung erfolgt auf Grundlage von berechtigten Interessen, Art. 6 Abs. 1 S. 1 lit. f. DSGVO zum Zwecken der Presse- und Öffentlichkeitsarbeit im Rahmen unserer Satzung. 
 
-Sie haben gemäß Art. 21 Abs. 1 DSGVO das Recht aus Gründen, die sich aus Ihrer besonderen Situation ergeben, jederzeit der Verarbeitung Ihrer Foto-, Film-, Ton- und/oder Streamingaufnahmen zu widersprechen, indem Sie uns Ihren Widerspruch senden, s. hierzu den Abschnitt "Ihre Rechte" und die Kontakmöglichkeiten der Verantwortlichen. 
+**Sie haben gemäß Art. 21 Abs. 1 DSGVO das Recht aus Gründen, die sich aus Ihrer besonderen Situation ergeben, jederzeit der Verarbeitung Ihrer Foto-, Film-, Ton- und/oder Streamingaufnahmen zu widersprechen, indem Sie uns Ihren Widerspruch senden, s. hierzu den Abschnitt "Ihre Rechte" und die Kontakmöglichkeiten der Verantwortlichen.** 
 
 Wir weisen ausdrücklich darauf hin, dass bei einigen öffentlichkeitswirksamen Veranstaltungen auch externe Berichterstatter anwesend sein können, die ebenfalls Foto-, Film-, Ton- und/oder Streamingaufnahmen erstellen. Da wir aber keinen Einfluss auf die von externen Berichterstattern erstellten Aufnahmen und deren Verwendung durch diese haben, können wir zu Zweck und Umfang der Verarbeitung Ihrer Daten durch diese externen Berichterstatter keine Angaben machen. Wenden Sie sich in diesen Fällen am besten direkt an die Berichterstatter.
 
@@ -336,6 +346,8 @@ Auf derselben Rechtsgrundlage behalten wir uns vor, im Fall von Umfragen die IP-
 
 Die im Rahmen der Kommentare und Beiträge mitgeteilten Informationen zur Person, etwaige Kontakt- sowie Webseiteninformationen als auch die inhaltlichen Angaben werden von uns bis zum Widerspruch der Nutzer\*in dauerhaft gespeichert; Rechtsgrundlagen: Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO).
 
+**Sie können gemäß Art. 21 Abs. 1 DSGVO aus Gründen, die sich aus Ihrer besonderen Situation ergeben, jederzeit der Verarbeitung Ihrer personenbezogenen Daten widersprechen.**
+
 Kontakt- und Anfrageverwaltung
 
 Bei der Kontaktaufnahme mit uns (z. B. per Post, Kontaktformular, E-Mail, Telefon oder via soziale Medien) sowie im Rahmen bestehender Nutzer\*innen- und Geschäftsbeziehungen werden die Angaben der anfragenden Personen verarbeitet soweit dies zur Beantwortung der Kontaktanfragen und etwaiger angefragter Maßnahmen erforderlich ist.
@@ -347,6 +359,8 @@ Bei der Kontaktaufnahme mit uns (z. B. per Post, Kontaktformular, E-Mail, Telefo
 **Zwecke der Verarbeitung**: Kontaktanfragen und Kommunikation; Verwaltung und Beantwortung von Anfragen; Feedback (z. B. Sammeln von Feedback via Online-Formular); Bereitstellung unseres Onlineangebotes und Nutzer\*innenfreundlichkeit; Erbringung vertraglicher Leistungen und Erfüllung vertraglicher Pflichten; Konversionsmessung (Messung der Effektivität von Ansprachemaßnahmen). Ansprache.
 
 **Rechtsgrundlagen**: Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO). Vertragserfüllung und vorvertragliche Anfragen (Art. 6 Abs. 1 S. 1 lit. b) DSGVO).
+
+**Sie können gemäß Art. 21 Abs. 1 DSGVO aus Gründen, die sich aus Ihrer besonderen Situation ergeben, jederzeit der Verarbeitung Ihrer personenbezogenen Daten widersprechen.**
 
 Detailliertere Angaben zu eingesetzten Diensten finden Sie auch im Abschnitt "Nähere Hinweise zu Verarbeitungsprozessen, Verfahren und Diensten".
 
@@ -384,15 +398,9 @@ Vorbehalt des Verweises auf andere Kommunikationswege: Zum Abschluss möchten wi
 
 **Rechtsgrundlagen**: Einwilligung (Art. 6 Abs. 1 S. 1 lit. a) DSGVO). Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO).
 
+Eine Einwilligung kann jederzeit mit Wirkung für die Zukunft widerrufen werden, bzw. **können Sie gemäß Art. 21 Abs. 1 DSGVO aus Gründen, die sich aus Ihrer besonderen Situation ergeben, jederzeit der Verarbeitung Ihrer personenbezogenen Daten widersprechen.**
+
 Detailliertere Angaben zu eingesetzten Diensten finden Sie auch im Abschnitt "Nähere Hinweise zu Verarbeitungsprozessen, Verfahren und Diensten".
-
-(Online-)Veranstaltungen
-
-Wir setzen Plattformen und Anwendungen anderer Anbieter\*innen (nachfolgend bezeichnet als "Drittanbieter\*innen") zu Zwecken der Durchführung von Video- und Audio-Konferenzen sowie Online-Veranstaltungen ein.  
-In diesem Rahmen werden Daten der Kommunikationsteilnehmer\*innen verarbeitet und auf den Servern der Drittanbieter\*innen gespeichert. Zu diesen Daten können insbesondere Anmelde- und Kontaktdaten, visuelle sowie stimmliche Beiträge sowie Eingaben in Chats und geteilte Bildschirminhalte gehören.  
-Sofern Sie im Rahmen der Kommunikation, Geschäfts- oder anderen Beziehungen mit uns auf die Drittanbieter\*innen, bzw. deren Software oder Plattformen verwiesen werden, können die Drittanbieter\*innen Nutzungsdaten und Metadaten zu Sicherheitszwecken, Serviceoptimierung oder Ansprachezwecken verarbeiten. Bitte beachten Sie daher auch die Datenschutzhinweise der jeweiligen Drittanbieter\*innen.
-
-Nähere Hinweise zur Verarbeitung personenbezogener Daten im Rahmen siehe [https://www.amnesty.de/datenschutzhinweise-veranstaltungen](https://www.amnesty.de/datenschutzhinweise-veranstaltungen)
 
 Protokolldaten des Webservers
 
@@ -427,6 +435,8 @@ Allgemeine Hinweise zum Widerruf und Widerspruch (Opt-out): Nutzer\*innen könne
 **Zwecke der Verarbeitung**: Bereitstellung unseres Onlineangebotes und Nutzer\*innenfreundlichkeit; Erbringung vertraglicher Leistungen und Erfüllung vertraglicher Pflichten; Kontaktanfragen und Kommunikation; Konversionsmessung (Messung der Effektivität von Ansprachemaßnahmen); Ansprache; Reichweitenmessung (z. B. Zugriffsstatistiken, Erkennung wiederkehrender Besucher); Tracking (z. B. interessens-/verhaltensbezogenes Profiling, Nutzung von Cookies); Remarketing; Zielgruppenbildung; A/B-Tests; Cross-Device Tracking (geräteübergreifende Verarbeitung von Nutzer\*innendaten für Ansprachezwecke); Profile mit nutzer\*innenbezogenen Informationen (Erstellen von Nutzer\*innenprofilen); Büro- und Organisationsverfahren; Informationstechnische Infrastruktur (Betrieb und Bereitstellung von Informationssystemen und technischen Geräten (Computer, Server etc.).); Sicherheitsmaßnahmen; Direktansprache (z. B. per E-Mail oder postalisch); Verwaltung und Beantwortung von Anfragen. Feedback (z. B. Sammeln von Feedback via Online-Formular).
 
 **Rechtsgrundlagen**: Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO); Einwilligung (Art. 6 Abs. 1 S. 1 lit. a) DSGVO). Vertragserfüllung und vorvertragliche Anfragen (Art. 6 Abs. 1 S. 1 lit. b) DSGVO).
+
+**Eine Einwilligung kann jederzeit mit Wirkung für die Zukunft widerrufen werden, bzw. können Sie gemäß Art. 21 Abs. 1 DSGVO aus Gründen, die sich aus Ihrer besonderen Situation ergeben, jederzeit der Verarbeitung Ihrer personenbezogenen Daten widersprechen.**
 
 Detailliertere Angaben zu eingesetzten Diensten finden Sie auch im Abschnitt "Nähere Hinweise zu Verarbeitungsprozessen, Verfahren und Diensten" bzw. im Abschnitt "Plug-ins und eingebettete Funktionen sowie Inhalte". Die aktuell tatsächlich eingesetzten Anbieter auf der Website amnesty.de finden Sie, wenn Sie in der Fußzeile der Website die Schaltfläche "Cookies verwalten" betätigen, dann "Details anzeigen" auswählen, und die Pfeilsymbole bedienen, um Details für den entsprechenden Bereich anzuzeigen.
 
@@ -468,6 +478,8 @@ c) USA: [https://www.aboutads.info/choices](https://www.aboutads.info/choices)
 
 d) Gebietsübergreifend: [https://optout.aboutads.info](https://optout.aboutads.info/)
 
+Eine Einwilligung kann jederzeit mit Wirkung für die Zukunft widerrufen werden, **bzw. können Sie gemäß Art. 21 Abs. 1 DSGVO aus Gründen, die sich aus Ihrer besonderen Situation ergeben, jederzeit der Verarbeitung Ihrer personenbezogenen Daten widersprechen.**
+
 Detailliertere Angaben zu eingesetzten Diensten finden Sie auch im Abschnitt "Nähere Hinweise zu Verarbeitungsprozessen, Verfahren und Diensten".
 
 Webanalyse, Monitoring und Optimierung
@@ -494,6 +506,8 @@ Hinweise zu Rechtsgrundlagen: Sofern wir die Nutzer\*innen um deren Einwilligung
 
 **Rechtsgrundlagen**: Einwilligung (Art. 6 Abs. 1 S. 1 lit. a) DSGVO).
 
+Eine Einwilligung kann jederzeit mit Wirkung für die Zukunft widerrufen werden.
+
 Detailliertere Angaben zu eingesetzten Diensten finden Sie auch im Abschnitt "Nähere Hinweise zu Verarbeitungsprozessen, Verfahren und Diensten".
 
 Plug-ins und eingebettete Funktionen sowie Inhalte
@@ -513,6 +527,8 @@ Hinweise zu Rechtsgrundlagen: Sofern wir die Nutzer\*innen um ihre Einwilligung 
 **Zwecke der Verarbeitung**: Bereitstellung unseres Onlineangebotes und Nutzer\*innenfreundlichkeit.
 
 **Rechtsgrundlagen**: Einwilligung (Art. 6 Abs. 1 S. 1 lit. a) DSGVO). Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO).
+
+Eine Einwilligung kann jederzeit mit Wirkung für die Zukunft widerrufen werden, **bzw. können Sie gemäß Art. 21 Abs. 1 DSGVO aus Gründen, die sich aus Ihrer besonderen Situation ergeben, jederzeit der Verarbeitung Ihrer personenbezogenen Daten widersprechen.**
 
 Detailliertere Angaben zu eingesetzten Diensten finden Sie auch im Abschnitt "Nähere Hinweise zu Verarbeitungsprozessen, Verfahren und Diensten". 
 
@@ -539,11 +555,11 @@ Ihre Daten werden gelöscht, sobald sie für die Erreichung des Zweckes ihrer Er
 
 Unter folgendem Link wird der Austragungsprozess detailliert erklärt: [https://cleverpush.com/faq](https://cleverpush.com/faq).
 
+**Sie können gemäß Art. 21 Abs. 1 DSGVO aus Gründen, die sich aus Ihrer besonderen Situation ergeben, jederzeit der Verarbeitung Ihrer personenbezogenen Daten widersprechen.**
+
 Onlineshop, Bestellformulare, E-Commerce und Auslieferung
 
-Wir verarbeiten die Daten unserer Unterstützer\*innen, um Ihnen die Auswahl, den Erwerb, bzw. die Bestellung der gewählten Produkte, Waren sowie verbundener Leistungen, als auch deren Bezahlung und Zustellung, bzw. Ausführung zu ermöglichen. Sofern für die Ausführung einer Bestellung erforderlich, setzen wir Dienstleister\*innen, insbesondere Post-, Speditions- und Versandunternehmen ein, um die Lieferung, bzw. Ausführung gegenüber unseren Unterstützer\*innen durchzuführen. Für die Abwicklung der Zahlungsvorgänge nehmen wir die Dienste von Banken und Zahlungsdienstleister\*innen
-
- in Anspruch. Die erforderlichen Angaben sind als solche im Rahmen des Bestell- bzw. vergleichbaren Erwerbsvorgangs gekennzeichnet und umfassen die zur Auslieferung, bzw. Zurverfügungstellung und Abrechnung benötigten Angaben sowie Kontaktinformationen, um etwaige Rücksprache halten zu können; Rechtsgrundlagen: Vertragserfüllung und vorvertragliche Anfragen (Art. 6 Abs. 1 S. 1 lit. b) DSGVO).
+Wir verarbeiten die Daten unserer Unterstützer\*innen, um Ihnen die Auswahl, den Erwerb, bzw. die Bestellung der gewählten Produkte, Waren sowie verbundener Leistungen, als auch deren Bezahlung und Zustellung, bzw. Ausführung zu ermöglichen. Sofern für die Ausführung einer Bestellung erforderlich, setzen wir Dienstleister\*innen, insbesondere Post-, Speditions- und Versandunternehmen ein, um die Lieferung, bzw. Ausführung gegenüber unseren Unterstützer\*innen durchzuführen. Für die Abwicklung der Zahlungsvorgänge nehmen wir die Dienste von Banken und Zahlungsdienstleister\*innen in Anspruch. Die erforderlichen Angaben sind als solche im Rahmen des Bestell- bzw. vergleichbaren Erwerbsvorgangs gekennzeichnet und umfassen die zur Auslieferung, bzw. Zurverfügungstellung und Abrechnung benötigten Angaben sowie Kontaktinformationen, um etwaige Rücksprache halten zu können; Rechtsgrundlagen: Vertragserfüllung und vorvertragliche Anfragen (Art. 6 Abs. 1 S. 1 lit. b) DSGVO).
 
 Wenn wir Ihre Daten für eine Bestellung erheben halten wir Sie über unsere Petitionen und Menschenrechts-Aktivitäten per E-Mail auf dem Laufenden, nähere Informationen hierzu siehe auch im Abschnitt Informationen per E-Mail für Unterstützer\*innen. 
 
@@ -563,6 +579,8 @@ Für die Zahlungsgeschäfte gelten die Geschäftsbedingungen und die Datenschutz
 
 **Rechtsgrundlagen:** Vertragserfüllung und vorvertragliche Anfragen (Art. 6 Abs. 1 S. 1 lit. b) DSGVO). Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO).
 
+**Sie können gemäß Art. 21 Abs. 1 DSGVO aus Gründen, die sich aus Ihrer besonderen Situation ergeben, jederzeit der Verarbeitung Ihrer personenbezogenen Daten widersprechen.**
+
 Detailliertere Angaben zu eingesetzten Diensten finden Sie auch im Abschnitt "Nähere Hinweise zu Verarbeitungsprozessen, Verfahren und Diensten", insb.auch zu PAYONE, Paypal und RaiseNow.
 
 Abbuchungs-Benachrichtigung bzw. Pre-Notification bei SEPA
@@ -574,6 +592,8 @@ Unterstützer\*innen von Amnesty International die Online per Lastschrift spende
 Videoüberwachung
 
 Amnesty International setzt zur Wahrnehmung des Hausrechts, zur Verhinderung von Straftaten sowie zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen Videoüberwachung in eindeutig entsprechend bezeichneten Bereichen ein. Rechtsgrundlage der Videoüberwachung ist Art. 6 Abs. 1 lit. f) DSGVO, wobei unsere Interessen sich aus den vorgenannten Zwecken ergeben. Soweit besondere Kategorien personenbezogener Daten verarbeitet werden, erfolgt dies auf Grundlage von Art. 9 Abs. 2 lit. f) i.V.m. Art. 6 Abs. 1 lit. f) DSGVO. Beim Klingeln an mit Videotechnik überwachten Türeingängen erfolgt die Erfassung des Aufnahmebereichs. Die Aufnahmen werden regelmäßig und unverzüglich gelöscht, es sei denn ihre Weiterverarbeitung ist für die Wahrung berechtigter Interessen oder für die Erhaltung von Beweismitteln im Rahmen von Verjährungsvorschriften erforderlich. 
+
+**Sie können gemäß Art. 21 Abs. 1 DSGVO aus Gründen, die sich aus Ihrer besonderen Situation ergeben, jederzeit der Verarbeitung Ihrer personenbezogenen Daten widersprechen.**
 
 Präsenzen in sozialen Netzwerken (Social Media)
 
@@ -665,6 +685,8 @@ Sofern wir mit Hilfe der Cloud-Dienste für andere Nutzer\*innen oder öffentlic
 
 **Rechtsgrundlagen**: Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO).
 
+**Sie können gemäß Art. 21 Abs. 1 DSGVO aus Gründen, die sich aus Ihrer besonderen Situation ergeben, jederzeit der Verarbeitung Ihrer personenbezogenen Daten widersprechen.**
+
 Detailliertere Angaben zu eingesetzten Diensten finden Sie auch im Abschnitt "Nähere Hinweise zu Verarbeitungsprozessen, Verfahren und Diensten", insb.auch zu Dotplex, Microsoft und Nextcloud.
 
 Management, Organisation und Hilfswerkzeuge
@@ -693,11 +715,15 @@ Die Weitergabe einzelner Daten erfolgt innerhalb der Sektion, an Empfänger\*inn
 
 Angaben in Freitext- oder Bemerkungsfeldern freiwillig bereitgestellter 'besonderer Kategorien personenbezogener Daten', also z.B. Gesundheitsdaten, Daten zur sexuellen Orientierung, der ethnischen Herkunft, zu politischen Meinungen oder religiösen und weltanschaulichen Überzeugungen erfolgen zu Zwecken der Durchführung und Organisation der Veranstaltung, ggf. der Wahrung der Fürsorgepflicht sowie der Aufstellung von Notfallplänen, und werden auf Basis der ausdrücklichen Einwilligung der Betroffenen (s. Hinweise im Formular) gem. Art. 9 Abs. 2 lit. a) DSGVO verarbeitet.
 
+Eine Einwilligung kann jederzeit mit Wirkung für die Zukunft widerrufen werden, **bzw. können Sie gemäß Art. 21 Abs. 1 DSGVO aus Gründen, die sich aus Ihrer besonderen Situation ergeben, jederzeit der Verarbeitung Ihrer personenbezogenen Daten widersprechen.**
+
 Detailliertere Angaben zu eingesetzten Diensten finden Sie auch im Abschnitt "Nähere Hinweise zu Verarbeitungsprozessen, Verfahren und Diensten", insb. auch zu Microsoft Forms oder Salesforce Marketing Cloud. 
 
 Mitglieder-Veranstaltungen: Abwicklung, Anträge, Wahlen
 
-Zur Darstellung und Verwaltung von Tagesordnung, Anträgen und Wahlen sowie für die elektronische Stimmabgabe wird das Versammlungssystem des Anbieters OpenSlides genutzt. Alle Teilnehmer\*innen von Veranstaltungen erhalten einen personalisierten Zugang zu OpenSlides, welchen sie selbständig verwalten können. Der Dienst wird im Zuge einer Verarbeitung im Auftrag durch die Intevation GmbH zum Zwecke der satzungsgemäßen und vereinsrechtskonformen Durchführung von Veranstaltungen bereitgestellt, die in dieser Hinsicht Empfänger\*inn ist. Diensteanbieter: Intevation GmbH, Neuer Graben 17, 49074 Osnabrück; Rechtsgrundlagen: Berechtigte Interessen (Art. 6 Abs. 1 lit. f) DSGVO). Die genannten Zwecke bezeichnen die berechtigten Interessen.
+Zur Darstellung und Verwaltung von Tagesordnung, Anträgen und Wahlen sowie für die elektronische Stimmabgabe wird das Versammlungssystem des Anbieters OpenSlides genutzt. Alle Teilnehmer\*innen von Veranstaltungen erhalten einen personalisierten Zugang zu OpenSlides, welchen sie selbständig verwalten können. Der Dienst wird im Zuge einer Verarbeitung im Auftrag durch die Intevation GmbH zum Zwecke der satzungsgemäßen und vereinsrechtskonformen Durchführung von Veranstaltungen bereitgestellt, die in dieser Hinsicht Empfänger\*in ist. Diensteanbieter: Intevation GmbH, Neuer Graben 17, 49074 Osnabrück; Rechtsgrundlagen: Berechtigte Interessen (Art. 6 Abs. 1 lit. f) DSGVO). Die genannten Zwecke bezeichnen die berechtigten Interessen.
+
+**Sie können gemäß Art. 21 Abs. 1 DSGVO aus Gründen, die sich aus Ihrer besonderen Situation ergeben, jederzeit der Verarbeitung Ihrer personenbezogenen Daten widersprechen.**
 
 Videokonferenzen, Onlinemeetings, Webinare und Bildschirm-Sharing
 
@@ -725,6 +751,8 @@ Hinweise zu Rechtsgrundlagen: Sofern neben den Konferenzplattformen auch wir die
 
 **Rechtsgrundlagen**: Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO).
 
+**Sie können gemäß Art. 21 Abs. 1 DSGVO aus Gründen, die sich aus Ihrer besonderen Situation ergeben, jederzeit der Verarbeitung Ihrer personenbezogenen Daten widersprechen.**
+
 Detailliertere Angaben zu eingesetzten Diensten finden Sie auch im Abschnitt "Nähere Hinweise zu Verarbeitungsprozessen, Verfahren und Diensten", insb.auch zu Microsoft Teams und Zoom.
 
 Parlamentarische Veranstaltungen
@@ -734,6 +762,8 @@ Zum Zweck der Förderung des Austausches mit politischen Meinungsbildner\*innen 
 Die Weitergabe von Daten außerhalb von Amnesty International erfolgt ausschließlich und immer nur insoweit dies zur Erfüllung der genannten Zwecke erforderlich ist, so z.B. auch die Weitergabe an andere teilnehmende NGOs. Empfänger\*innen können Unternehmen sein, die Daten im Auftrag von Amnesty International verarbeiten, wie EDV-Anbieter\*innen oder Hosting-Unternehmen. Von diesen Service-Anbieter\*innen verlangen wir die Einhaltung strenger Regeln zur Gewährleistung der Sicherheit der Daten.
 
 Die Bereitstellung der in Teilnahme-Formularen erbetenen Daten erfolgt freiwillig und kann – statt im Formular – auch per E-Mail erfolgen.
+
+**Sie können gemäß Art. 21 Abs. 1 DSGVO aus Gründen, die sich aus Ihrer besonderen Situation ergeben, jederzeit der Verarbeitung Ihrer personenbezogenen Daten widersprechen.**
 
 Meldungen nach Hinweisgeber\*innen-Schutzgesetz
 
