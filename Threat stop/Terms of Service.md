@@ -8,7 +8,7 @@
 * [Solutions](https://www.threatstop.com/case-studies?hsLang=en)
     * [For Healthcare](https://www.threatstop.com/healthcare-geisinger?hsLang=en)
     * [For Education](https://www.threatstop.com/education-university-baltimore?hsLang=en)
-    * [For Service Providers](https://www.threatstop.com/msp?hsLang=en)
+    * [For MSPs](https://www.threatstop.com/msp?hsLang=en)
     * [For Enterprises](https://www.threatstop.com/enterprise?hsLang=en)
     * [For SMBs](https://www.threatstop.com/smbs-earth-systems?hsLang=en)
 * [Products](https://www.threatstop.com/threatstop-platform?hsLang=en)
@@ -46,6 +46,8 @@
  Search...
 
 ×
+
+#### Connect with Customers. Disconnect from Risks.
 
 Terms of Service
 ================
@@ -233,9 +235,9 @@ Customer shall use DHS AIS Targets via ThreatSTOP Services only in accordance wi
 
 ★★★★★
 
-By automating the process and providing the reports, ThreatSTOP provides me a peace of mind and saves me time.
+ThreatSTOP works great. We are attacked every day and it stops them. It gives me the warm and fuzzies that I am protected. It's well worth every penny.
 
-Carol Maffitt - CIO
+Richard Gaustad - VP & CIO
 
 * [Solutions](https://www.threatstop.com/case-studies?hsLang=en)
 * [Products](https://www.threatstop.com/threatstop-platform?hsLang=en)
