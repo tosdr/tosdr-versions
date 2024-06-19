@@ -1,7 +1,7 @@
 Adobe Privacy Policy
 ====================
 
-Last updated: February 14, 2024
+Last updated: June 18, 2024
 
 The Adobe Privacy Policy describes the privacy practices of Adobe’s Services and Software (as defined in our General [Terms of Use)](https://www.adobe.com/legal/terms.html) and anywhere we display or reference this policy.
 
@@ -15,12 +15,15 @@ If the content or information that you store in Adobe Services and Software cont
 
 ### Summary of Key Points
 
-* **Where your consent is required, we will obtain your permission before (i) sending you news and promotional material about Adobe; (ii) accessing information stored on your device relating to your use of, and engagement with, Services and Software (e.g., Adobe Connect meetings) and crash reports; and (iii) analyzing your content. You can withdraw your consent to such activities at any time.  [Learn more](#withdraw-consent).  
-      
-    **
+At Adobe we take data privacy seriously. We believe in transparency so you can control your data and make informed choices about how it is used. We are here to support and protect your privacy decisions wherever you use our products and services. Adobe prioritizes your control over the data you store in the cloud in the following ways:  
+ 
+
 * **This policy explains when we process personal information for our legitimate interests. You can ask us to stop processing this information. [Learn more about your rights and how you can exercise them](https://www.adobe.com/privacy/policy.html#rights).  
       
     **
+* This policy also explains when we will first get your consent before processing your personal information, including when doing so is required by law.  
+      
+    
 * We use your personal information to enable you to register with Adobe and to provide you with our Services and Software, and other products or services that you request. [Learn more](https://www.adobe.com/privacy/policy.html#info-use).  
       
     
@@ -149,7 +152,8 @@ Analytics or other electronic network activity, such as:
 * Search terms entered into a search engine which led you to an Adobe website;
 * Use and navigation of Services and Software, including how you interact with Adobe websites (collected through cookies and similar technologies, or by Adobe servers when you are logged into the app or website);  
     
-* Analysis of your use and navigation of the Services and Software as well as your content
+* Analysis of your use and navigation of the Services and Software;
+* Analysis of your content subject to your opt-out and consent rights.
 
 Professional, Education or other demographic information, such as:  
 
@@ -166,14 +170,14 @@ Sensitive personal information, such as:
 The following links provide further information on:
 
 * [Adobe product improvement program](https://www.adobe.com/privacy/apip.html);
-* [](https://www.adobe.com/privacy/app-usage-info-faq.html)[Creative Cloud, Document Cloud, and Substance App Diagnostic and Usage Information FAQ](https://www.adobe.com/privacy/app-usage-info-faq.html)
+* [Usage Data FAQ: Creative Cloud and Document Cloud Apps](https://www.adobe.com/privacy/app-usage-info-faq.html)
 * [Experience Cloud usage information FAQ](https://www.adobe.com/privacy/experience-cloud-usage-info-faq.html);
 * [Adobe Genuine Software](https://www.adobe.com/genuine.html)
 * Your [privacy choices](https://www.adobe.com/privacy/opt-out.html) regarding how we use this information;
 * Adobe products and services licensed by [educational institutions](https://www.adobe.com/privacy/student-policy.html);
 * How Adobe uses [cookies and similar technologies](https://www.adobe.com/privacy/cookies.html); and
 * How Adobe [analyzes your content](https://helpx.adobe.com/manage-account/amr/machine-learning-faq.html) using techniques such as machine learning in order to improve our Services and Software, and how to [opt out](http://www.adobe.com/go/machine_learning_opt_out) of this.  
-     
+    
 
 **Adobe Software activation and automatic updates**
 
@@ -222,7 +226,7 @@ You can learn more about Adobe’s practices with respect to social networking p
 
 In certain instances, Adobe is acting only on your behalf for personal information collected and processed by our services (for example, for the address book contacts shared by users when entering recipient information). In such cases, Adobe is acting only on your instructions in order to facilitate the Service requested by you, and you will be responsible for the information shared. In these instances, we will inform you through in-app notifications or other in-time communications. If you submit any information relating to other people to us or to our service providers in connection with your use of Adobe apps or websites, you represent that you have the authority to do so and to permit us to use the information in accordance with this policy.  
 
-**How we analyze your content to deliver features requested by you**
+**How we process your content to deliver features requested by you**
 
 Adobe offers certain features that let you edit and organize your photographs, videos, and other types of content using characteristics like face and voice (e.g., you can group similar faces, places, and image characteristics within your collection), and such characteristics may be considered biometric identifiers or biometric information under certain US laws or other applicable privacy laws. When you choose to use these features, Adobe is acting only on your instructions in order to facilitate the service requested by you. These features are off by default and, should you choose to enable them, you can always disable these features. Where we process biometric identifiers or biometric information to deliver a feature requested by you, we delete this information once you turn off the feature, unless otherwise specified in the Software or Services.
 
@@ -243,20 +247,29 @@ Adobe uses the information we collect about you for the following purposes:
     * Processing payments;
     * Sending you necessary communications (for example, related to payments or expiration of your subscription); and
     * Providing customer service or support.
-* As required by Adobe to conduct our business and pursue our legitimate interests, in particular:
+* As required by Adobe to conduct our business and pursue our legitimate interests:
+    * Analyzing your **content** and its characteristics using automated techniques, in the following circumstances:  
+        * **Operational Use**. Our Services and Software will access your content stored locally on your device (“Local Content”) and content that you have uploaded to our servers or create using our cloud-based Services (“**Cloud Content**”), to enable the normal running of the Services and Software.
+        * **Content Analytics with Cloud Content**. Subject to your opt-out rights, including those described [here](https://helpx.adobe.com/manage-account/using/machine-learning-faq.html), we may perform analytics with Cloud Content to help us understand how our users are using our Services and Software to allow us to improve your Services and Software experience, provide recommendations to you, and customize your experience. Insights from Content Analytics may be used to inform our marketing to you, subject to your opt-out rights regarding our marketing. 
+    * Analyzing your **content** and its characteristics using automated techniques or with human review, in the following circumstances:
+        * **Illegal and Abusive Cloud Content**. Cloud Content may be automatically scanned to ensure we are not hosting illegal or abusive content, like Child Sexual Abuse Material. Human review may occur when your Cloud Content is flagged or reported as illegal or abusive.
+        * **Public and Shared Cloud Content**. All public and shared Cloud Content is subject to review for intellectual property issues and safety issues (for example, violence and nudity). If you choose to share your Cloud Content with others using our Software and Services, we may automatically review this shared Cloud Content to flag abusive behavior (such as spam or phishing). When you make your Cloud Content publicly available, additional human review may occur.
     * Providing you with the Adobe Services and Software for which you have registered and any other products and services you have requested;
     * Analyzing your use and measuring effectiveness of our Services and Software, including recordings, to better understand how they are being used so we can improve them and engage and retain users;
-    * Sending you information about Adobe products and services, special offers and similar information, and sharing your information with third parties for their own marketing purposes (where your consent is not required);
-    * Analyzing your use and navigation of our Services and Software, your content, your profile information, and your interaction with our communications, through both automated (e.g., machine learning) and manual methods to tailor, customize, and improve the Services and Software, and marketing communications ([learn more](https://www.adobe.com/privacy/marketing.html#mktg-email)) (where your consent is not required);
-    * Analyzing your use and navigation of our Services and Software, as well as your content and metadata about your content through both automated (e.g., machine learning) and manual methods to:
-        * Detect and prevent fraudulent, deceptive, or, illegal activity, or misuse of our Services and Software (where your consent is not required)
-        * Improve our Services and Software, and the user experience (where your consent is not required, and subject to settings we may provide you, including those described [here](https://helpx.adobe.com/manage-account/using/machine-learning-faq.html));
+    * Sending you information about Adobe products and services, special offers and similar information, and sharing your information with third parties for their own marketing purposes, where your consent is not required;
+    * Analyzing your use and navigation of our Services and Software, your profile information, your interaction with our communications (excluding your content), to:
+        
+        * Detect and prevent fraudulent, deceptive, or, illegal activity, or misuse of our Services and Software;
+        
+        * Improve our Services and Software, and the user experience, subject to your opt-out and consent rights, including those described here; and
+        
+        * Tailor and customize the Services and Software through marketing communications ([learn more](https://www.adobe.com/privacy/marketing.html#mktg-email))
     * Diagnosing problems in our Services and Software;  
         
-    * Detecting, preventing, or otherwise addressing fraudulent, deceptive, or illegal activity, and misuse of Services and Software, security or technical issues, as well as protecting against harm to the rights, property or safety of Adobe, our users, or the public;
-    * Conducting surveys and market research about our customers, their interests, the effectiveness of our marketing campaigns, and customer satisfaction (unless we need consent to undertake such surveys, in which case we will only do this with your permission);
+    * Conducting surveys and market research about our customers, their interests, the effectiveness of our marketing campaigns, and customer satisfaction (unless we need consent to undertake such surveys, in which case we will only do this with your permission);  
+        
     * Investigating and responding to any comments or complaints that you may send us;
-    * Checking the validity of the sort code, account number, and card number you submit if you use a credit or debit card for payment, in order to prevent payment fraud or other illegal or deceptive payment practices (we use third parties for this – see “Does Adobe disclose my personal information to others?” below); 
+    * Checking the validity of the sort code, account number and card number you submit if you use a credit or debit card for payment, in order to prevent payment fraud or other illegal or deceptive payment practices (we use third parties for this – see “Does Adobe disclose my personal information to others?” below); 
     * Sharing account information registered under a business email address with employers for account migration purposes;
     * Combining with other data we may have about how you interacted with our products and services when logged out or logged in, in order to provide a more seamless experience, show you the most relevant content and services, and for marketing purposes, with your consent where required;
     * If we merge with or are acquired by another company, sell an Adobe website, app, or business unit, or if all or a substantial portion of our assets are acquired by another company, your information will likely be disclosed to the prospective purchaser, our advisers and any other prospective purchaser's advisers and will be one of the assets that is transferred to the new owner; and
@@ -266,15 +279,21 @@ Where we process your information based on legitimate interests, you can object 
 
 If legitimate interest is not an available legal basis in a particular jurisdiction, we will engage in the processing activities described above on a legal basis that is available in that particular jurisdiction.
 
-* Where required, when you give Adobe your consent or otherwise consistent with your choices:
+* Where required, **when you give Adobe your consent** or otherwise consistent with your choices:
     
     * Sending you information about Adobe products and services, special offers and similar information, and sharing your information with third parties for their own marketing purposes;
     * Placing cookies and using similar technologies in our Services and Software and in email communications, in accordance with our [Cookies Policy](https://www.adobe.com/privacy/cookies.html) and the information provided to you when those technologies are used;
-    * Accessing information stored on your device relating to your use of, and engagement with, Services and Software (e.g., Adobe Connect meetings) and crash reports;
+    * Accessing information stored on your device for the following operational uses:
+        * Information relating to your use of, and engagement with, Services and Software related to crash reports in order to fix the underlying problem causing the crash;
+        * Information which you allow us to receive through device-based settings (e.g., photos, location and camera) in order to provide certain functionality within our Services and Software;
     
-    * Accessing information stored on your device which you allow us to receive through device-based settings (e.g., photos, location and camera) in order to provide certain functionality within our Services and Software;
-    
-    * Analyzing your use and navigation of the Services and Software or your content (including metadata about your content) using techniques such as machine learning in order to detect and prevent fraudulent, deceptive, or illegal activity or misuse of the Services and Software, and improve our services and the user experience; and
+    * Analyzing your use and navigation of the Services and Software or your content and its characteristics using automated techniques or human review in order to:
+        
+        * Detect and prevent fraudulent, deceptive, or illegal activity or misuse of the Services and Software;
+        
+        * Improve our services and the user experience, such as through the Adobe Product Improvement Program as described [here](https://www.adobe.com/privacy/apip.html); and
+        
+        * Respond to your request (e.g., customer service).
     
     * Allowing you to participate in sweepstakes, contests, and similar promotions and to administer these activities.
 
