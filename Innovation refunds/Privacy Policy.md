@@ -6,7 +6,7 @@ Due to the IRS moratorium, we are not currently assisting with new ERC claims.
 
 [](#)
 
-[![](https://assets-global.website-files.com/6331512d4184db91bf3fe473/6594578fc672018fa790b27f_Innovation-Refunds-Logo_Black.svg)](https://www.innovationrefunds.com/)
+[![](https://cdn.prod.website-files.com/6331512d4184db91bf3fe473/6594578fc672018fa790b27f_Innovation-Refunds-Logo_Black.svg)](https://www.innovationrefunds.com/)
 
 [Contact Us](https://www.innovationrefunds.com/contact)
 
@@ -54,7 +54,7 @@ Overview
 
 This Privacy Policy describes Innovation Refunds LLC’s and IR Advance LLC’s (collectively, “Innovation Refunds,” “we,” “us,” “our”) policies regarding the collection, use, and disclosure of personal information about you when you visit our website or use our platform at [https://www.innovationrefunds.com/](https://www.innovationrefunds.com/), use our app(s) (e.g., the Innovations Refunds App), or otherwise interact with us concerning your actual or potential tax refund (collectively, “Services”). “Personal information” is non-public information that identifies, relates to, describes, is reasonably capable of being associated with, or could reasonably be linked to an individual. When you use our Services, you agree to our collection, use, and disclosure of personal information about you as described in this Privacy Policy. If you do not provide us with personal information we request, we may not be able to provide you with our Services or your experience when using those Services may be impaired.  
   
-A link to a Portable Document Format (PDF) version of this privacy policy can be found here: [Privacy Policy](https://assets-global.website-files.com/6331512d4184db91bf3fe473/659479f1d152904ebeb3d01f_Innovation%20Refunds%20Privacy%20Policy%20January%202024.pdf).
+A link to a Portable Document Format (PDF) version of this privacy policy can be found here: [Privacy Policy](https://cdn.prod.website-files.com/6331512d4184db91bf3fe473/659479f1d152904ebeb3d01f_Innovation%20Refunds%20Privacy%20Policy%20January%202024.pdf).
 
 Scope
 -----
@@ -248,7 +248,7 @@ This privacy policy replaces all previous privacy policies and cannot be modifie
 ‍  
 **Effective date:** This Privacy Policy is effective, and was last updated on December 29, 2023.
 
-[![](https://assets-global.website-files.com/6331512d4184db91bf3fe473/6594578fc672018fa790b27f_Innovation-Refunds-Logo_Black.svg)](https://www.innovationrefunds.com/)
+[![](https://cdn.prod.website-files.com/6331512d4184db91bf3fe473/6594578fc672018fa790b27f_Innovation-Refunds-Logo_Black.svg)](https://www.innovationrefunds.com/)
 
 [](https://www.trustpilot.com/review/innovationrefunds.com)
 
@@ -256,9 +256,9 @@ This privacy policy replaces all previous privacy policies and cannot be modifie
 
 [](https://www.trustpilot.com/review/innovationrefunds.com)[Trustpilot](https://www.trustpilot.com/review/innovationrefunds.com)
 
-[![](https://assets-global.website-files.com/6331512d4184db91bf3fe473/63501725e63f449659c1a10d_bbb-logo-v3.png)](https://www.bbb.org/us/ia/west-des-moines/profile/business-consultant/innovation-refunds-0664-32147635)
+[![](https://cdn.prod.website-files.com/6331512d4184db91bf3fe473/63501725e63f449659c1a10d_bbb-logo-v3.png)](https://www.bbb.org/us/ia/west-des-moines/profile/business-consultant/innovation-refunds-0664-32147635)
 
-[![](https://assets-global.website-files.com/6331512d4184db91bf3fe473/64220738800373b84bb6b2ed_AICPA%20SOC%20Badge.webp)](https://www.accesswire.com/749048/Innovation-Refunds-Earns-SOC-2-Compliance-Designation-Under-AICPA-Standard)[![](https://assets-global.website-files.com/6331512d4184db91bf3fe473/640a0afc7a32f65c1976c91f_GTPW.webp)](https://www.greatplacetowork.com/certified-company/7051366)
+[![](https://cdn.prod.website-files.com/6331512d4184db91bf3fe473/64220738800373b84bb6b2ed_AICPA%20SOC%20Badge.webp)](https://www.accesswire.com/749048/Innovation-Refunds-Earns-SOC-2-Compliance-Designation-Under-AICPA-Standard)[![](https://cdn.prod.website-files.com/6331512d4184db91bf3fe473/640a0afc7a32f65c1976c91f_GTPW.webp)](https://www.greatplacetowork.com/certified-company/7051366)
 
 COMPANY
 
@@ -276,6 +276,6 @@ POLICIES & TERMS
 
 [Privacy Policy](https://www.innovationrefunds.com/privacy)[Terms of use](https://www.innovationrefunds.com/terms)[Notice at Collection](https://www.innovationrefunds.com/notice-at-collection)[Do Not Sell or Share My Personal Information](https://qualify.innovationrefunds.com/partner-share-opt-out)[Do Not Call](https://www.innovationrefunds.com/do-not-call)
 
-[![](https://assets-global.website-files.com/6331512d4184db91bf3fe473/63517af0a315317a062fc4f1_fb-social.png)](https://www.facebook.com/innovationrefunds)[![](https://assets-global.website-files.com/6331512d4184db91bf3fe473/63517af1baa2a3cabb1a7aca_insta-social.png)](https://www.instagram.com/innovation_refunds/?hl=en)[![](https://assets-global.website-files.com/6331512d4184db91bf3fe473/63517af078dd7e1c39bee6ee_linkedin-social.png)](https://www.linkedin.com/company/74399983/)[![](https://assets-global.website-files.com/6331512d4184db91bf3fe473/651c513a997be9a662bfda6f_Twitter-X.png)](https://twitter.com/getrefunds)
+[![](https://cdn.prod.website-files.com/6331512d4184db91bf3fe473/63517af0a315317a062fc4f1_fb-social.png)](https://www.facebook.com/innovationrefunds)[![](https://cdn.prod.website-files.com/6331512d4184db91bf3fe473/63517af1baa2a3cabb1a7aca_insta-social.png)](https://www.instagram.com/innovation_refunds/?hl=en)[![](https://cdn.prod.website-files.com/6331512d4184db91bf3fe473/63517af078dd7e1c39bee6ee_linkedin-social.png)](https://www.linkedin.com/company/74399983/)[![](https://cdn.prod.website-files.com/6331512d4184db91bf3fe473/651c513a997be9a662bfda6f_Twitter-X.png)](https://twitter.com/getrefunds)
 
 All product and company names are trademarks or registered trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them.
