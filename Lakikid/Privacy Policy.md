@@ -153,16 +153,6 @@ $14.97$9.97](https://lakikid.com/products/fidget-bubble-pop?variant=393010584945
 
 [![Image without description.](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)
 
-![Image without description.](//lakikid.com/cdn/shop/products/DadCoin_5_280x.png?v=1644443817)
-
-### Great Dad Coin
-
-$14.97](https://lakikid.com/products/great-dad-coin?variant=39541100707901 "Default Title")
-
-[](https://lakikid.com/products/great-dad-coin?variant=39541100707901 "Default Title")[](#looxReviews "Number Reviews")
-
-[![Image without description.](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)
-
 ![Image without description.](//lakikid.com/cdn/shop/products/unisex-premium-t-shirt-aqua-front-6034b9ccadeb3_280x.jpg?v=1614068177)
 
 ### LakiKid Ambassador T-Shirt
@@ -170,6 +160,16 @@ $14.97](https://lakikid.com/products/great-dad-coin?variant=39541100707901 "Defa
 $22.97](https://lakikid.com/products/ambassador-t-shirt?variant=33055128125501 "Dark Grey Heather / XS")
 
 [](https://lakikid.com/products/ambassador-t-shirt?variant=33055128125501 "Dark Grey Heather / XS")[](#looxReviews "Number Reviews")
+
+[![Image without description.](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)
+
+![Image without description.](//lakikid.com/cdn/shop/products/Bundle_Hero_280x.jpg?v=1637372704)
+
+### Calm Down Corner Kit
+
+$129.88](https://lakikid.com/products/calm-down-duo?variant=33026901409853 "Default Title")
+
+[](https://lakikid.com/products/calm-down-duo?variant=33026901409853 "Default Title")[](#looxReviews "Number Reviews")
 
 ![Image without description.](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)
 
