@@ -2,8 +2,6 @@
 
 Our Top 10 Water-Friendly Sandals [Shop the Edit](https://www.zappos.com/c/10-water-friendly-sandals)
 
-Treat Dad to styles he’ll love. [Shop Our Father’s Day Gift Guide](https://www.zappos.com/c/fathers-day-gifts)
-
 [![Welcome! Go to the Zappos homepage!](https://m.media-amazon.com/images/G/01/Zappos/25th-birthday-logo/Zappos-25-Years-Logo-Site.svg)](https://www.zappos.com/)
 
 Search for shoes, clothes, etc.Search
