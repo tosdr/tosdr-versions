@@ -134,6 +134,7 @@ Menu Close
         * [Bicycle insurance](https://www.axa.co.uk/home-insurance/bicycle-insurance/)
     * [Existing customers](https://www.axa.co.uk/home-insurance/existing-customers/)[](javascript:void(0))
         * [Manage your policy](https://customer.axa.co.uk/login/my-axa-account/)
+        * [Making changes to my policy online](https://www.axa.co.uk/home-insurance/making-policy-changes/)
         * [Policy details](https://www.axa.co.uk/home-insurance/policy-details/)
         * [Make a claim](https://www.axa.co.uk/home-insurance/make-a-claim/)
         * [Help](https://help.axa.co.uk/s/home-topics/)
@@ -426,7 +427,7 @@ Type of home insurance cover
 
 Existing customers
 
-* [Manage your policy](https://customer.axa.co.uk/login/my-axa-account/ "Manage your policy")
+* [How to make a policy change](https://www.axa.co.uk/home-insurance/making-policy-changes/)
 * [Policy details](https://www.axa.co.uk/home-insurance/policy-details/ "Policy details")
 * [Make a claim](https://www.axa.co.uk/home-insurance/make-a-claim/ "Make a claim")
 * [Premiums explained](https://www.axa.co.uk/home-insurance/premiums/ "Premiums explained")
@@ -545,6 +546,10 @@ Submit Search Close Search
 
 1. [Home page](https://www.axa.co.uk/)
 2. [Terms and Conditions](https://www.axa.co.uk/terms-and-conditions/)
+
+![](/globalassets/new-website/icons/info-tosca-48dp.svg)
+
+We’re working on improving your experience of our website. While we upgrade things, you may find some features are out of action. Please check back later, or find more ways to get in touch on our [contact page](https://www.axa.co.uk/contact-us/).
 
 Terms and Conditions
 ====================
