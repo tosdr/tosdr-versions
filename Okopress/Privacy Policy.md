@@ -22,7 +22,7 @@ Wesprzyj
 
 TematyKategorieMultimedia
 
-[Kompas Kompas eurowyborczy](https://oko.press/kompas-wyborczy-pe)[Wesprzyj](https://oko.press/wesprzyj)
+[Wesprzyj](https://oko.press/wesprzyj)
 
 [](https://oko.press/zaloguj)
 
