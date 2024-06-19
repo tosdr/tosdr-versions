@@ -2,10 +2,6 @@
 
 [![Wakelet Logo](https://assets.wakelet.com/logo/wklt-blue.svg)](https://wakelet.com/)
 
-Login
-
-Sign up
-
 * [Privacy](https://wakelet.com/privacy)
 * [Terms](https://wakelet.com/terms)
 * [Rules](https://wakelet.com/rules)
