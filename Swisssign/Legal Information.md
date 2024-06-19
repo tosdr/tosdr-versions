@@ -140,8 +140,8 @@ Support
 * [FAQ](https://www.swisssign.com/en/support/faq.html)
 * [System status](https://www.swisssign.com/en/support/systemstatus.html)
 * [Support](https://www.swisssign.com/en/support.html)
-* [Point of contact (DSA)](https://www.swisssign.com/en/kontaktstelle-dsa.html)
-* [Reporting unlawful content (DSA)](https://www.swisssign.com/en/meldeverfahren.html)
+* [DSA – Point of contact](https://www.swisssign.com/en/kontaktstelle-dsa.html)
+* [DSA – Reporting unlawful content](https://www.swisssign.com/en/meldeverfahren.html)
 
 A data security specialist  
 by Swiss Post
