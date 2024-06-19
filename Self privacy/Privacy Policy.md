@@ -28,10 +28,10 @@
 
 1. Privacy Policy
 
+  4 minute read  
+
 Privacy Policy
 ==============
-
-  4 minute read  
 
 **Last updated: May 15, 2023**
 
