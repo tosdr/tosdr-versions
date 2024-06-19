@@ -28,15 +28,15 @@
     
     [Eco-Friendly![Eco-Friendly](https://img.ebdcdn.com/cms/eco_frindly_icon_update_66c789cf2e.gif)](https://www.eyebuydirect.com/collections/sustainability "Eco-Friendly")
     
-    [![Pride On](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    [![Grandpa Core](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![Grandpa Core](https://img.ebdcdn.com/cms/Top_Nav_320_424_2a47d98da6.jpg?q=85&seo=grandpa-core)
+    
+    Grandpa Core](https://www.eyebuydirect.com/collections/grandpa-core "Grandpa Core")[![Pride On](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
     ![Pride On](https://img.ebdcdn.com/cms/Top_Nav_320_424_1f6285a91e.jpg?q=85&seo=pride-on)
     
-    Pride On](https://www.eyebuydirect.com/collections/pride-on "Pride On")[![Retro Revival](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Retro Revival](https://img.ebdcdn.com/cms/Top_Nav_320_424_a7e412c677.jpg?q=85&seo=retro-revival)
-    
-    Retro Revival](https://www.eyebuydirect.com/collections/retro-revival "Retro Revival")[![Transitions® GEN S™](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    Pride On](https://www.eyebuydirect.com/collections/pride-on "Pride On")[![Transitions® GEN S™](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
     ![Transitions® GEN S™](https://img.ebdcdn.com/cms/Top_Nav_320_424_73b18d42b5.jpg?q=85&seo=transitions®-gen-s™)
     
