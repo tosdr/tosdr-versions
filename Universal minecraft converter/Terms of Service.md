@@ -18,7 +18,7 @@ suite of tools has been the go-to choice for millions of Minecrafters for over a
 
 [Try For Free](https://www.universalminecraftconverter.com/auth/login?register=true)
 
-Updated For 1.20
+Updated For 1.21
 ----------------
 
 Supports the latest world formats.
