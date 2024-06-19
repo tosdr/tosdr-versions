@@ -93,9 +93,9 @@ If you have questions and concerns please feel free to contact us at:
 
 M e t a l b o n d N Y C @ g m a i l . c o m .
 
-[![male bondage restraints for sale](https://metalbondnyc.com/wp-content/uploads/2015/02/03_ChurchOfSinvention-2_200_by_188.jpg)](http://www.churchofsinvention.com/?tracking=528a7c1bc0f60)
-
 [![estim discoount code](https://metalbondnyc.com/wp-content/uploads/2017/02/Gay_Bondage_e_stim.jpg)](http://store.e-stimsystems.com/?utm_source=metal&utm_medium=banner&utm_campaign=metalbond)
+
+[![male bondage restraints for sale](https://metalbondnyc.com/wp-content/uploads/2015/02/03_ChurchOfSinvention-2_200_by_188.jpg)](http://www.churchofsinvention.com/?tracking=528a7c1bc0f60)
 
 [![KinkMen on Kinkmen.com](https://cdnp.kink.com/kd/44262_44457_44458_bg_200x300_ns_190430_v01.gif)](https://kinkmen.com/?aff=Metalbondnyc&campaign=default "Watch KinkMen on Kinkmen.com")
 
@@ -171,7 +171,7 @@ What’s your kink?
 Older Posts
 ===========
 
-* [June 2024](https://metalbondnyc.com/2024/06/) (33)
+* [June 2024](https://metalbondnyc.com/2024/06/) (75)
 * [May 2024](https://metalbondnyc.com/2024/05/) (108)
 * [April 2024](https://metalbondnyc.com/2024/04/) (110)
 * [March 2024](https://metalbondnyc.com/2024/03/) (113)
