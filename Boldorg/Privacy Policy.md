@@ -1,33 +1,21 @@
-[For Donors](https://bold.org/donors/)[For Applicants](https://bold.org/applicants/)
-
 [](https://bold.org/)
 
-View Scholarships* [Resources](https://bold.org/resources/)
-* [Leaders](https://bold.org/leaders/)
-* [Funds](https://bold.org/funds/)
-Company
-
-[Login](https://app.bold.org/login?redirect=)[Join Bold.org](https://bold.org/apply/)
+[Login](https://app.bold.org/login)[Join Bold.org](https://bold.org/apply/)
 
 [For Donors](https://bold.org/donors/)[For Applicants](https://bold.org/applicants/)
 
 [](https://bold.org/)
 
-View Scholarships* [Resources](https://bold.org/resources/)
-* [Leaders](https://bold.org/leaders/)
-* [Funds](https://bold.org/funds/)
-Company
-
-[Login](https://app.bold.org/login?redirect=)[Join Bold.org](https://bold.org/apply/)
+[Login](https://app.bold.org/login)[Join Bold.org](https://bold.org/apply/)
 
 THE BOLD.ORG PRIVACY POLICY
 ===========================
 
-Effective Date: April 5, 2024
+Effective date: July 13, 2023
 
 The Bold.org Privacy Policy (“Privacy Policy”) describes how your personal information is collected, used, and shared when you visit or use the Bold.org, Inc. (“Bold”) website (https://bold.org/) (the “Site”) and when you use and engage our services (“Services”) which includes Personal Information collected via email, SMS, telephone, social media accounts, or other means. At Bold, your privacy is a top priority. By using or accessing the Site or Services, you acknowledge our practices and processing of your information as described in this Privacy Policy.
 
-Please click [here](https://bold-resources-prod.s3.us-east-2.amazonaws.com/Bold.org+Privacy+Policy+-+HK+Updates+062623+(Privileged)(224481589.8).docx+(1).pdf) for a printable PDF version of this Privacy Policy.
+Please click [here](https://static.bold.org/website/privacy-policy-july-13-2023.pdf) for a printable PDF version of this Privacy Policy.
 
 Our Privacy Policy does not apply to services offered by other companies or individuals, including products or sites that may be displayed to you, or other sites linked from our Services. Our Privacy Policy does not cover the information practices of other companies and organizations who advertise our Services on other websites.
 
@@ -87,12 +75,11 @@ How We Share Your Information
 
 We may share any of the categories of personal information listed above for our commercial and other business purposes as described below.
 
-Partners (such as scholarship providers, enrollment platforms like Appily, academic institutions, consumer reward providers, data partners (including data modeling, AI and LLM training, big data, and data appending), fraud prevention and detection providers, identity services or identity graph providers, market research providers, healthtech, insuretech, and fintech providers, and bipartisan political campaigns):
+Partners (such as scholarship providers, academic institutions, consumer reward providers, data partners (including data modeling, AI and LLM training, big data, and data appending), fraud prevention and detection providers, identity services or identity graph providers, market research providers, healthtech, insuretech, and fintech providers, and bipartisan political campaigns):
 
 * We may sell to or share your information with, and generate revenue from, scholarship providers, applicable academic institutions, and other third parties in which you have expressed interest while using the Site. Of course, you can opt-out of this sharing at any time by providing us notice that you want us to delete and no longer use your information for any or all of those purposes. For more information about opting out, please see the “Jurisdiction-Specific Notices” section below.
 * We will share your information with scholarship providers, applicable academic institutions, and as otherwise necessary to provide the Service to you. If you agree to Bold to sharing your information with a scholarship provider, academic institution, or other third party partner of Bold, Bold may generate revenue in connection with sharing that information.
 * Additionally, if you indicate you are interested in particular educational institutions in your profile or via other means when using Bold’s platform, Bold may sell your information to or share your information with those educational institutions from time to time. For more information about opting out of such selling and sharing, please see the “Jurisdiction-Specific Notices” section below.
-* Additionally, you consent to receive marketing texts, phone calls, or email messages from Bold and its Partners (as defined in our Privacy Policy), representatives, and/or higher ed institutional partner enrollment marketing at the phone number and email address you share, and agree that that these communications may be delivered using an autodialer or other automated systems for the selection or dialing of numbers. You acknowledge that your consent to these communications is not a condition of any purchase. You also agree that all calls may be monitored or recorded for quality assurance and training purposes.
 
 Vendors and service providers: We share personal information with vendors and service providers that process such information to perform services for us in connection with the Site, and our other business operations. We require that such vendors and services providers will only use your personal information in a manner that is consistent with this Privacy Policy. This includes technology vendors that may need access to and use of your personal information to give us additional personal information about you. These vendors are bound by law and/or contract to protect the confidentiality and security of your personal information. They only process your personal information to provide requested services for us, and only act on our documented instructions.
 
@@ -272,11 +259,11 @@ You may learn more about advertising networks and opt out of receiving personali
 
 Network Advertising Initiative:
 
-* Browser Opt-Out: [http://www.networkadvertising.org/choices](http://www.networkadvertising.org/choices)   
+* Browser Opt-Out: [https://www.networkadvertising.org/choices](https://www.networkadvertising.org/choices)   
 
 Digital Advertising Alliance:
 
-* Browser Opt-Out: [http://www.aboutads.info/choices](http://www.aboutads.info/choices)   
+* Browser Opt-Out: [https://www.aboutads.info/choices](https://www.aboutads.info/choices)   
 
 Note that, when you opt out of personalized advertising, you may continue to see online advertising on the Site and/or our ads on other websites and online services. Also, given that many opt-outs themselves use a cookie to effectuate an opt-out preference, you may need to opt-out again if you clear cookies on your browser.
 
@@ -308,15 +295,13 @@ Join 250k+ followers across:
 
 [Do Not Sell or Share My Personal Information](https://bold.org/privacy-overview/)
 
-* * *
-
 Donors
 
 [How It Works](https://bold.org/donors/how-it-works/)[Award Features](https://bold.org/donors/award-features/)[Pricing](https://bold.org/donors/pricing/)[Donor FAQ](https://bold.org/donors/faq/)[Terms and Conditions](https://bold.org/donor-terms-and-conditions/)
 
 Applicants
 
-[Scholarship Rules](https://bold.org/scholarship-rules/)[Scholarship Blog](https://bold.org/blog/)[Graduate School Scholarships](https://bold.org/scholarships/by-year/graduate-students-scholarships/)[Scholarships for Black Students](https://bold.org/scholarships/by-demographics/minorities/black-students-scholarships/)[Scholarships for Women](https://bold.org/scholarships/by-demographics/women/)[Scholarships for Hispanic Students](https://bold.org/scholarships/by-demographics/minorities/hispanic-students-scholarships/)[Texas Scholarships](https://bold.org/scholarships/by-state/texas-scholarships/)[Merit-Based Scholarships](https://bold.org/scholarships/by-type/merit-based/)[Scholarships for Nursing Students](https://bold.org/scholarships/by-major/nursing-scholarships/)[Scholarships for High School Seniors](https://bold.org/scholarships/by-year/high-school/seniors/)[High School Scholarships](https://bold.org/scholarships/by-year/high-school/)[Explore More Scholarship Categories](https://bold.org/scholarships/)
+[Scholarship Rules](https://bold.org/scholarship-rules/)[Scholarship Blog](https://bold.org/blog/)[Scholarships for High School Seniors](https://bold.org/scholarships/by-year/high-school/seniors/)[Scholarships for Nursing Students](https://bold.org/scholarships/by-major/nursing-scholarships/)[High School Scholarships](https://bold.org/scholarships/by-year/high-school/)[Merit-Based Scholarships](https://bold.org/scholarships/by-type/merit-based/)[Scholarships for Women](https://bold.org/scholarships/by-demographics/women/)[Texas Scholarships](https://bold.org/scholarships/by-state/texas-scholarships/)[Scholarships for Hispanic Students](https://bold.org/scholarships/by-demographics/minorities/hispanic-students-scholarships/)[Scholarships for Black Students](https://bold.org/scholarships/by-demographics/minorities/black-students-scholarships/)[Graduate School Scholarships](https://bold.org/scholarships/by-year/graduate-students-scholarships/)[Explore More Scholarship Categories](https://bold.org/scholarships/)
 
 Company
 
