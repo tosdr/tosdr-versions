@@ -241,6 +241,8 @@ We may disclose Personal Information to the following categories of recipients:
 * **Third Party Advertising.** As part of our advertising and marketing efforts, we may disclose the following categories of Personal Information with third party advertising companies, marketing companies, social media platforms, and analytics partners for targeted advertising, marketing, and campaign management purposes: identifiers, internet and network activity information, and other information about how you interact with our websites or mobile applications.
     
 
+All the above categories exclude text messaging originator opt-in data and consent; this information will not be shared with any third parties, excluding aggregators and providers of the Text Message services. 
+
 5\. Ads and Cookie Policy
 -------------------------
 
