@@ -1,161 +1,85 @@
-![](/9x8pyxy3fv/icon_loading.png) loading...
+[](https://potatovpn.io/)
 
-Privacy Policy
+[Home](https://potatovpn.io/)[Pricing](https://potatovpn.io/pricing)[Blog](https://potatovpn.io/blog)
 
-Last Updated: August 8, 2023
+About
 
-PotatoVPN is offered by FASTPOTATO PTE. LTD. We will help you understand what information we do/don't collect, and how we collect, store, and use them.
+[Privacy Policy](https://potatovpn.io/privacy-policy)[Terms of service](https://potatovpn.io/terms-of-service)[Bug Bounty](https://potatovpn.io/bug-bounty-program)
 
-This Policy applies to all services (collectively as the “Service”) offered by PotatoVPN (Software versions like Android, iOS) and PotatoVPN official websites.
+[Sign In](https://potatovpn.io/sign-in)
 
-We recommend you read it carefully. Once you start using PotatoVPN, you confirm that you understand and agree to the content of this Privacy Policy.
+[](https://potatovpn.io/)
 
-Data We Collect
+* [Home](https://potatovpn.io/)
+* [Pricing](https://potatovpn.io/pricing)
+* [Blog](https://potatovpn.io/blog)
+* [Privacy Policy](https://potatovpn.io/privacy-policy)
+* [Terms of service](https://potatovpn.io/terms-of-service)
+* [Sign In](https://potatovpn.io/sign-in)
 
-We are committed to protecting your privacy right by consistently following the data minimization principle. We only collect your personal data to maintain excellent user support and quality of service. The section below elaborates what data we collect and what we use it for. Please note we never collect the data of your IP address or what servers you connected to, meaning that any of your browsing history, queries and data contents are strictly confidential.
+Download PotatoVPN for iOS
+==========================
 
-| Account Creation and Management | What We Use It For |
-| --- | --- |
-| Registration date | To facilitate your login to PotatoVPN. |
-| Email address | When you forget your password, we help you retrieve it by sending a verification code to your email address. It will be collected only if you choose to sign up with an email. |
-| Above data will be automatically collected in process of creating an account. This data is stored for as long as you use the Service, as it is necessary for us to provide it. However, this data is not paired with your activity of using the Service, and you always have the right to request a deletion of it. |     |
+Stay private and protect yourself online
+----------------------------------------
 
-| Billing and Payment | What We Use It For |
-| --- | --- |
-| Payment method | To provide better product experience and improve after-sales service by planning user support. |
-| Transaction ID/Reference ID |
-| Timestamp |
-| Subscription status |
-| Above data will be automatically collected in process of purchasing. We use them for purpose of user support and troubleshooting only.  <br>Third-parties collection: when you place an order on a third-party platform, your information (e.g., geolocation, cardholder last name and last four digits of Credit card) might be collected by it. To understand what information a third party may collect, please refer to the respective privacy policy of PayPal. |     |
+Access global sites and streaming content
+-----------------------------------------
 
-| Client Data | What We Use It For |
-| --- | --- |
-| Usage data: Choice of protocol / Connection timestamp / Network type | To provide high-quality VPN service by identifying connection problems, fixing network issues and providing technical support. This data is non-personally identifiable. |
-| Application data: Geolocation (city-level) / Device information / App version | To improve VPN service and provide better user experience. Application data is not associated with any other data, so users will not be identified by it. |
-| Crash reports: Error reports | To help troubleshoot the issue. |
-| Aggregated data: Aggregated data | Aggregated data is from tens of millions of users, such as the most popular sites visited via servers, but it's 100% anonymous and will not identify any user. |
-| Above data will be automatically collected when you launch and use PotatoVPN. This information assists us identifying connection problems, fixing network issues, and providing technical support to improve user experience. |     |
+[![Download PotatoVPN for iOS](/assets/static/icon_store_ios.G7RelSvT.png)](https://apps.apple.com/app/id1473774730)
 
-Data We Control and Store
+[![Download PotatoVPN for Android](/assets/static/icon_store_google.-INu-O7A.png)](https://play.google.com/store/apps/details?id=com.potatovpn.free.proxy.wifi)
 
-FASTPOTATO PTE. LTD. is the Data Controller of the personal data you offer to us.
+[Download](https://soft.potatovpn.io/Download/PotatoVPN_1.3_1015_6c1c27e8_2022-12-16-05-31-59.dmg)
 
-How long we store your data
+[Download](https://www.microsoft.com/store/apps/9NJ4T9QH1VBH)
 
-You can always request a deletion of your data on your personal information. Your **usage data** will only be stored for no more than 48 hours, after which it will be automatically deleted.
+[![Download PotatoVPN for Amazon FireTV](/assets/static/icon_store_amazon.m_jFkngx.png)](https://www.amazon.com/VPN-PotatoVPN-Fast-Secure-Proxy/dp/B08DXXJRW2)
 
-Again, our guiding principle towards data collection is to collect only the minimal data to maintain VPN service. Therefore, we delete your personal data as soon as it is unnecessary to store.
+![iOS preview](/assets/static/icon_preview_ios2.0VbWiefM.png)![Android preview](/assets/static/icon_preview_android2.bt43ZAzO.png)![macOS preview](/assets/static/icon_preview_pc.XBgs3qLG.png)![Windows preview](/assets/static/icon_preview_pc.XBgs3qLG.png)![Amazon Fire TV preview](/assets/static/icon_preview_pc.XBgs3qLG.png)
 
-Where We Store Your Data
+![iOS icon](data:image/png;base64,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)iOS
 
-When you use our Service, you may be using servers located in a variety of different countries. However, there is a difference between use and storage. The data we collect are mostly stored in servers located in the European Union.
+![Android icon](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAMAAABHPGVmAAABmFBMVEVHcEzMzMzMzMzNzc3MzMzMzMzMzMzMzMzOzs7MzMzMzMzMzMzNzc3MzMzNzc3MzMzNzc3MzMzMzMzNzc3MzMzR0dHMzMzNzc3MzMz////a2trPz8/Nzc3Nzc3Nzc3MzMzMzMzU1NTMzMzMzMzMzMzNzc3MzMzMzMzMzMzOzs7MzMzMzMzMzMzOzs7Nzc3Ozs7Nzc3MzMzOzs7////Nzc3MzMzMzMzMzMzMzMzMzMzMzMzOzs7MzMzNzc3Nzc3MzMzPz8/Q0NDMzMzNzc3Nzc3MzMzMzMzMzMzMzMzi4uLMzMzOzs7MzMzNzc3MzMzT09PMzMzMzMzNzc3////Nzc3S0tLMzMzMzMzMzMzMzMzMzMzMzMzMzMzNzc3MzMzMzMzNzc3Q0NDMzMzNzc3Nzc3R0dHMzMzMzMzNzc3MzMzMzMzNzc3S0tLMzMz////a2trMzMzMzMzNzc3MzMzMzMzU1NTU1NTMzMzf39/Ozs7Nzc3MzMzMzMzMzMzMzMzMzMzNzc3MzMzPz8/MzMzMzMzMzMzNzc3MzMzm2ofkAAAAiHRSTlMAUeVIRlb/6RUU6LauqxrtXVsZWPAc76m7AQ4wUmdyfroS5msobajiakn1iNRKNDUprSoEgPvLQfn9sU+dpIHnKwuEYYXQ/PRCCfhEpZm+HVBaOQNiF+NM1uwFzf5D0aa9LMAuuCeWCj6syZQRygIHqlWztNMYBoIIOlOioTyyPTMtG+6Y5IrZ9awN6QAAAtBJREFUeAHs1AOTM1sAhOFe9dq2bdv7GWvbtv3X71QmOxMn55xcz1Ps0lts+BESGgY/wkNDoCaCkVHwKTqGEVAUyzj4FM9YqEpIZBJ8SGZiCpSlMi0dXqVnMBVBkMmsbNjk5OblFxQWFuTn5ebAJruImQiG4hKWAmXlFZV0UFlRXgZUsaQYQVHNmto6elBXW8N6BEdDDL2KaUQwNDXTp7gWqGpta6cf7W2tUFLWwQB0lEFBZxoDktYJaaldDFBXKiSFdFPX0xvWRw/6wnp7qOsOgZTGGur6oRmgmwFo+qmraYSE6EHaNUJTTDfF0DTSbjAa4vr5YQia4W666B6GZogf+iEsjIYRaEbpZhSaMRrCIOoTDZ8L06OqvtDNl6qo9MLPNHyCoK+U8BVieiihB0K+faeE798g4gel/ICIEUoZgYiflPITIrIoJQsifv2W8gtBZRmfmJyahi5vRkoedNNTkxPjcDcbT83cPGwWKGUBNvNz1MTPwkXLInVj6pEx6hJb4GRpmXYrq6qR1RXaLS/B0QwNa6qRNRpm4Gidpmi1SLTXm9mgaVMtsknTBhxt0bStFtmmacuKOLMiVsSKWBErYkWsiBXZoWlXLbJL0w4c7dHQta8W2e+iYQ+ODmg4hFoEhzQcwMkv2iUmqEYSEmn3C86Ge2gzuArVCFYHadMzDFepR+0sOT6BegQnxyVsP02FJ2fnAJQjuvMz+KYSMf0bI1ZkmVKWIeKCUi4g4pJSLiHkihKuIWb2hsLqbiHo7r6GQmru7yDu4XHi6ekpmab4J0M8TcnaDnl8gLwhmp5heKFpE6peabqC4Y2mdytiRayIFfmnRf5YA3IpjLxiBgEoX/CRgzS564J1jtCSguUxmAHj1ogQTTRFCkTKQVMzYiUBEjCBiYqJMlABmIdBJlZajJFFjVsg0ySt5gxUAVJt7V6R3OYYlnNHerW3SRFhAAClSzmzWBEPfwAAAABJRU5ErkJggg==)Android
 
-Since we are a Singapore company, we may access the data outside from the EU when necessary, for example, when user support is required.  
-In all cases, we follow generally accepted standards and security measures to protect the personal data submitted to us, both during transmission and once we receive it. We always strive to protect your data to the maximum extent we can.
+![macOS icon](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABmCAMAAAAK9MRtAAABsFBMVEVHcEyqqqqZmZmZmZmZmZmZmZmZmZmZmZmcnJybm5ubm5uioqKZmZmZmZmqqqqZmZmbm5uZmZmZmZmZmZmqqqqZmZmZmZmampqampqdnZ2ZmZmZmZmampqZmZmcnJyZmZn///+ZmZmZmZmioqKZmZmZmZm2traZmZmZmZnOzs6rq6uysrLa2trZ2dnDw8PBwcGdnZ2qqqrZ2dna2tqxsbHNzc2bm5uwsLCamprR0dHCwsKzs7Ovr6/T09O1tbWysrKcnJy0tLSgoKC6urqfn5/W1tatra2+vr6ioqK5ubm8vLy4uLimpqapqam9vb3ExMSurq6hoaHY2NjU1NSrq6u2trbX19ekpKS3t7ejo6PAwMDIyMjPz8/Hx8fMzMyenp6lpaWsrKzOzs67u7vJycnV1dWnp6fFxcXQ0NC/v7+oqKjS0tLGxsbLy8vKysrKysq0tLSgoKDZ2dnb29uenp7///+ZmZmZmZmampqZmZmlpaWZmZmampqZmZmZmZmbm5uZmZmbm5ucnJyZmZmampqampqcnJyZmZmZmZmZmZmZmZmbm5uampqZmZmZmZmZmZnS4X9jAAAAkHRSTlMABnORN6H/9xpIRQvg6wyPXDX9uQPP9SFrFe/Onf45nwHJ8BZYbgff1XmifEYi//////9////////////////////////////////////////////////////////////////////////////////Z2O6dTh0CZ6Ox9BH8Ub2uYfkSDfZ1ojRVx9JQLibD5IURleXLAAADSklEQVR4AbTNhRGAMAADwDruxSm+/4xkBy6/wIs/pNJGsFnnoph8JA5S7pHlOIqSm1QOau7RtDg67uF7HMPITSYHinvMC47Vc5MNR9i5hwlIDu5xXjjuh5u8H691se42DIRheDd3Um5jVyGFFYeZmXuYcv/L/o8PmgKup99yNq9REqFPvMbnLzC+nv3Wv53Vd0I/fh7vlwUJnZOmw/gtTijsH4kQivIiWgxGXPAiERgywYskJZCU4EXSMGSGFzHfSFbwIjkYsQwvoinzjfAiefPTCgyJK6PgnBaBpIWlUlmVS/6QChFVHdOay89ex6juD2kQke6YNjFtCWt5zPL+kJob0ibUYUa6GPb6vEhSmY+fFTFncsCMtDAbCl7EXH9DzMgIIzUOEikQUdE6mmAUEY6mGE/9IckZUcQymRNaCEdLRWrpC4HSqDu3XUO4NFgNAluFZ5bHwrPUzwmtmZEpjI1gRoZA4tyIAhJiRtqEBsxIFsZWMCM7ICluxACiMSMaoT/MyAUMJZiREZBex9Jl4EicnHWDRrrkUiZgJOuGXAWKoFzTkgFjxnCqd+xgaW7kGkiNG9kAuWFGNEK3zMgdoTEzcgGjKJiRKZBr/4h2r7bTo0jO4wt+aFRnj8eROCE9fXcYKbuewRZlibneP4p0yUze1479JhWrMKhXySw2PorcGfSS0a0lvZCZ7eiS0boxQki2T3jxydGWXlP3Kffn1iOilXjpqdGk1zbTxIlfV32n6K1qOXWh2RGdiPYCd7Cqpzf01n1ofMYnnEz16GPFZjlbq1fmL89Pk5iNUvew3lOp6Nn/yUV6JsmR1I2NcpkXc52Sv59xnm3pdDx5fxH9tz/+In7fk96AMRyFBsEsK+1s975XVFbsOj/fXzGsXdpdu9CoXVTMFx/lXiAVkCdupAhkwY30gHS4kXsgdW4kDSTPjeSBDLmRBpAJN3IBRI7/x7lrzYyYW2OFG+kCifxtbx6MGAgAIABeOIgxil1ebNtoOVfB+4a/DazNpGdXn8lgaGYEVzJRGkNrkmAyhdiMyRxiLSaLDrSWKy5riG2YbCG2Y7I/QOt44nKG2IVJPA+ta5RuELszeUyg9YxSGFq1IpMXxN6f7w9e8/0BHDWISqNFqd8AAAAASUVORK5CYII=)macOS
 
-Lawful Bases for Processing Personal Data
+![Windows icon](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAMAAABHPGVmAAAAn1BMVEVHcEzU1NTOzs7Nzc3MzMzMzMz////MzMzMzMzMzMzMzMzMzMzMzMzNzc3MzMzMzMzMzMzMzMzQ0NDOzs7Nzc3MzMzMzMzQ0NDMzMz////Pz8/Nzc3MzMzPz8/MzMzNzc3MzMzMzMzMzMzMzMzNzc3Nzc3MzMzMzMzMzMzR0dHNzc3Nzc3MzMz////MzMzNzc3MzMzMzMzMzMzMzMzNzc2BXbxjAAAANXRSTlMADD92reQCLWSb0fz/GlGIv/MLY5qs4yz+AxtS9EDlLtL9icB3rmWc0xxTisEB8j51GYe+mU69ouYAAAEjSURBVHgB7doFbgNBFAPQMDMny1tmvP/VSi590aKLtigwoyc5nPmVhCjVWr3RrPDSane6vf7gKSRgOBpPpgOEgcyeCxqYlFzQfIGCbAgFERAUtFwNEAbSWn8UREFsQSRkM0AIyPbpJUZFds544mITBal69YY/QBjINuh0w2iAMJCdE++5A4SBVL39AxTEQbbB4dExCuIgJ6dn5yiIiKTeJESIECFChAgRIkQItqYIVka4knq9olykSLqVZr1NNEjOtujrRIgQIUKECBEiJG2ECEGGTjyZMhF7/kxE7EExEbEHlpdMxB69khGUd3W9XJER5GZ0e3fJQ0x59y02gvAR7lF5+qkIG9J8xy8dxEh8z/t9wzF2BmFKREx5YZ+J2NGrP5dHw3cpfu9b3TQAAAAASUVORK5CYII=)Windows
 
-We rely on the following legal bases for processing your personal data.
+![Amazon Fire TV icon](data:image/png;base64,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)Amazon Fire TV
 
-Consent
+Unblock
 
-We may process your personal data provided that we have obtained your prior and express consent to the processing (this legal basis is only used in relation to processing that is entirely voluntary – it is not used for processing that is necessary or obligatory in any way).
+Enjoy all apps & sites without restriction anywhere, like Netflix, Hulu, etc.
 
-Contractual necessity
+Secure
 
-We may process your personal data on the basis of fulfilling our contract with you or entering into a contract with you on your request.
+Multi encrypt methods built-in, say goodbye to hackers and spies.
 
-Compliance with applicable law
+Anonymous
 
-We may process your personal data where the processing is required by applicable law.
+Hide your real IP address with our thousands of virtual IP addresses.
 
-With Whom Do We Share Personal Data
+Access all content with no restriction
 
-We are committed to maintaining your trust, and we want you to understand when and with whom we may share the information we collect.
+PotatoVPN provides multi-protocols to access all restrictions of internet. Connect PotatoVPN and enjoy all social networks, video streaming, music, gaming, sports now!
 
-State authorities and legal requirements
+Protect your Privacy
 
-In some cases, we may use or disclose your personal data to a third party if we are required to do so by law or if we in good faith believe that such action is necessary to comply with the law or legal process; to protect and defend our rights or to prevent misuse of our Service; or to protect the personal safety of our employees, agents, partners, the users of the Service, or the public.  
-Please note that since we do not collect your IP address and the servers you connected to, we are unable to disclose such data under any circumstances.
+Browse safely, PotatoVPN secures your internet data with 256-bit encryption Bank-grade multi-layered encryption technology. Hide your personal IP address and keep anonymous online.
 
-Mergers, acquisitions and corporate restructurings
+No log shared
 
-We may share some or all of your personal data in connection with or during negotiation of any merger, financing, acquisition or dissolution, transaction or proceeding involving sale, transfer, divestiture, or disclosure of all or a portion of our business or assets, or in the event of an insolvency, bankruptcy, or receivership. If we are involved in such a case, we'll continue to ensure the confidentiality of your personal data and give affected users notice before personal data is transferred or becomes subject to a different privacy policy.
+We do not store your original IP address. We do not log how you Utilize VPN connection. We do not sell, use, or disclose any personal data. You are safe with PotatoVPN.
 
-Your Rights to Access, Correct, Delete, and Request Restriction
+Easy to use
 
-You have the right to access, correct, delete, or object to the processing of your personal information by contacting us at [\[email protected\]](https://potatovpn.io/cdn-cgi/l/email-protection). However, deleting information may prevent you from continuing using our Services.
+Just one step, click connect then you are all set.
 
-Your Rights Under GDPR:
+[Advertisement Cooperation](https://potatovpn.io/cooperation)
 
-The General Data Protection Regulation (GDPR) of the European Union (EU) requires us to specifically underline users’ rights in the EU, which are:
+[Privacy Policy](https://potatovpn.io/privacy-policy)[Terms of service](https://potatovpn.io/terms-of-service)
 
-1. The right to be informed.
-2. The right to access.
-3. The right of rectification.
-4. The right to erasure, or the right to be forgotten.
-5. The right to restrict processing.
-6. The right to data portability.
-7. The right to object.
-8. Rights in relation to automated decision-making and profiling.
+[\[email protected\]](https://potatovpn.io/cdn-cgi/l/email-protection)
 
-Legal Basis
-
-PotatoVPN is committed to user privacy globally, and our existing practices reflect that through minimal collection of data and ensuring users have control over their personal information. GDPR requires us to outline those practices in a specific manner for users in the EU.
-
-In line with the GDPR, we collect and process the data outlined in this Privacy Policy on one of the following bases, depending on the circumstances:
-
-1. For the purposes of fulfilling our contractual obligations to users, including:
-    * Providing users with the Services and Apps they have requested.
-    * Managing user subscriptions and processing payments.
-    * Providing customer support.
-2. For a legitimate interest associated with the operation of our business, including:
-    * Enhancing the quality, reliability, and effectiveness of our Site, Services, and Apps.
-    * Communicating with customers to provide information and seek feedback related to our Services and Apps.
-
-You can exercise your rights under GDPR to access, transfer, correct, delete, or object to the processing of your personal information by contacting us at [\[email protected\]](https://potatovpn.io/cdn-cgi/l/email-protection).
-
-Your Rights Under CCPA
-
-If you are a California resident, your privacy rights are outlined in the California Consumer Privacy Act (CCPA). As per definitions in CCPA, PotatoVPN does not sell your personal information to non-affiliated third parties.
-
-If you would like to know further information regarding your legal rights under California law or would like to exercise any of them, please contact us at: [\[email protected\]](https://potatovpn.io/cdn-cgi/l/email-protection).
-
-Third Parties
-
-PotatoVPN may contain external links that direct to Third-Party Sites. Please notice that we are not responsible for any content or practices of these external websites, thus we encourage you to carefully read the privacy policy of any website you visit.
-
-Some third parties may collect certain information from you independently from us, such as third-party payment platforms, analytics-tool providers, or advertisers. These third parties are:
-
-* [CoinPayments](https://www.coinpayments.net/help-privacy)
-* [PayPal](https://www.paypal.com/myaccount/privacy/privacyhub)
-* [Stripe](https://stripe.com/privacy)
-* [Admob](https://policies.google.com/privacy)
-* [AppLovin](https://www.applovin.com/privacy/)
-* [Chartboost](https://answers.chartboost.com/en-us/articles/200780269)
-* [Firebase](https://policies.google.com/privacy)
-* [Adjust](https://www.adjust.com/terms/privacy-policy/)
-* [AdColony](https://www.adcolony.com/consumer-privacy/)
-* [ironSource](https://www.is.com/privacy-policy/)
-* [Google Analytics](https://policies.google.com/privacy)
-
-Cookies
-
-| Name | Purpose | Provider | Expires |
-| --- | --- | --- | --- |
-| 3hgj7aadzg | To help us know whether cookies popovers have been shown. | PotatoVPN | 1 year |
-| id  | To identify users' unique ID and login status. | PotatoVPN | 1 year |
-
-You can prevent the setting of cookies by adjusting the settings on your browser. However, disabling cookies may affect the functionality of this site and other websites that you visit. Therefore, it is recommended that you do not disable cookies.
-
-Age Restrictions
-
-The Services are intended for adults aged 18 and above. We do not log information from minors. **DO NOT USE** PotatoVPN if you are under 18.
-
-Privacy Policy Updates
-
-PotatoVPN may update this Privacy Policy from time to time for reasons such as changes in laws, industry standards, and business practices. PotatoVPN will post updates to this page and update the “Last Updated” date above. If we make updates that materially alter your privacy rights, we will also provide you with advance notice, such as via email or through the Services. If you disagree with such an update to this policy, you may cancel your services account. If you do not cancel your account before the date the update becomes effective, your continued use of our services will be subject to the updated Privacy Policy.
-
-Contact Us
-
-If you have any further questions on this Privacy Policy, please feel free to contact us at: [\[email protected\]](https://potatovpn.io/cdn-cgi/l/email-protection).
+© FASTPOTATO PTE. LTD All Right Reserved
