@@ -24,7 +24,7 @@ Instantly improve your grammar and correct your spelling.](https://www.wordtune.
 
 Ensure your writing is clear, concise, and fluent.](https://www.wordtune.com/proofreading)
 
-[Wordtune Business](https://www.wordtune.com/business/home)[Plans & pricing](https://www.wordtune.com/plans)[Log in](https://app.wordtune.com/auth/login)
+[Plans & pricing](https://www.wordtune.com/plans)[Log in](https://app.wordtune.com/auth/login)
 
 [Get started](https://app.wordtune.com/welcome)
 
@@ -263,7 +263,7 @@ Last updated: **March 2024**
 * [Proofreading tool](https://www.wordtune.com/proofreading)
 * [Blog](https://www.wordtune.com/blog)
 * [Help center](https://support.wordtune.com/en/)
-* [Student discount](https://www.wordtune.com/ua/wordtune-discount-page-old)
+* [Student discount](https://www.wordtune.com/ua/wordtune-discount-page)
 * [AI content detector](https://www.wordtune.com/ai-content-detector)
 
 ### **Get Wordtune**
