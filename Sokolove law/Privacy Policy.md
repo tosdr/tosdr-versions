@@ -90,6 +90,7 @@ Menu
     * [Onewheel Skateboards](https://www.sokolovelaw.com/product-liability/onewheel-skateboard/)
     * [Paraquat](https://www.sokolovelaw.com/product-liability/paraquat/)
     * [Roundup Weed-Killer](https://www.sokolovelaw.com/product-liability/monsanto-roundup/ "Roundup Weed-Killer")
+    * [STIIIZY](https://www.sokolovelaw.com/product-liability/stiiizy/)
     * [Talcum Powder](https://www.sokolovelaw.com/product-liability/talcum-powder/ "Talcum Powder")
     
     * **[Medical Devices](https://www.sokolovelaw.com/product-liability/medical-devices/ "Medical Devices")**
