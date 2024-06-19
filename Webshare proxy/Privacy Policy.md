@@ -1,4 +1,4 @@
-     
+   
 
 ### Enterprise-Grade Proxy Servers: Scalable Solutions for Premium Performance
 
@@ -33,6 +33,26 @@ Webshare.io will process your data to manage your inquiry and inform you about o
 Thank you! Our Account Executive will get back to you within 24h
 
 Oops! Something went wrong while submitting the form.
+
+[](https://www.webshare.io/verified-proxy)
+
+![](https://cdn.prod.website-files.com/5e42f62100b3490abec730e4/666816fba3bafb4036380c42_web-store.svg)
+
+Chrome Proxy Extension is live
+
+[Learn more](https://www.webshare.io/chrome-proxy-extension)
+
+[Add for free](https://chromewebstore.google.com/detail/webshare/bdokeillmfmaogjpficejjcjekcflkdh)
+
+![](https://cdn.prod.website-files.com/5e42f62100b3490abec730e4/666816fba3bafb4036380c42_web-store.svg)
+
+Free Proxy Extension for Chrome by Webshare
+
+[Learn more](https://www.webshare.io/chrome-proxy-extension)
+
+[Add extension for free](https://chromewebstore.google.com/detail/webshare/bdokeillmfmaogjpficejjcjekcflkdh)
+
+![](https://cdn.prod.website-files.com/5e42f62100b3490abec730e4/65a14d60685db328f867778a_cross-banner.svg)
 
 [![](https://cdn.prod.website-files.com/5e42f62100b3490abec730e4/64e8bb146138e4eb28353321_Webshare%20Logo.svg)](https://www.webshare.io/)
 
@@ -142,7 +162,7 @@ Dashboard that works for you](https://www.webshare.io/features/dashboard)
 
 tools
 
-[![](https://cdn.prod.website-files.com/5e42f62100b3490abec730e4/66616e99dc6e3d36b6c3bd20_chrome.svg)
+[![](https://cdn.prod.website-files.com/5e42f62100b3490abec730e4/667150ae8710664068d94c11_chrome.svg)
 
 Proxy Extension for Chrome
 
@@ -205,9 +225,7 @@ No credit card required.
 
 [Get 10 Free Proxies](https://proxy2.webshare.io/register)
 
-[Talk To Sales](#)
-
-[Log In](https://proxy2.webshare.io/login/?source=nav_login)[Sign Up](https://proxy2.webshare.io/register/?source=nav_register)
+[Talk To Sales](#)[Log In](https://proxy2.webshare.io/login/?source=nav_login)[Sign Up](https://proxy2.webshare.io/register/?source=nav_register)
 
 Privacy Policy
 --------------
