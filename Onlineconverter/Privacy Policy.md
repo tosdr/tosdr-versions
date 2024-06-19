@@ -1,6 +1,4 @@
-Online Converter
-
-[Home](https://www.onlineconverter.com/) > [Privacy Policy](https://www.onlineconverter.com/privacy)
+[Online Converter](https://www.onlineconverter.com/)
 
 Privacy Policy
 ==============
@@ -43,4 +41,4 @@ OnlineConverter.com is committed to safeguarding the privacy and confidentiality
     This Privacy Policy replaces all prior Privacy Policies issued by OnlineConverter.com. We reserve the right to modify our Privacy Policy at any time.
     
 
-[Home](https://www.onlineconverter.com/) | [About](https://www.onlineconverter.com/about) | [Terms](https://www.onlineconverter.com/terms) | [Privacy](https://www.onlineconverter.com/privacy) | [Support](https://www.onlineconverter.com/support) | © 2024 OnlineConverter.com, All Rights Reserved.
+[About](https://www.onlineconverter.com/about) | [Terms](https://www.onlineconverter.com/terms) | [Privacy](https://www.onlineconverter.com/privacy) | [Support](https://www.onlineconverter.com/support) | © 2024 OnlineConverter.com, All Rights Reserved.
