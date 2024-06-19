@@ -1,4 +1,4 @@
-Sunday, June 9 2024
+Wednesday, June 19 2024
 
 * [About](https://fifthperson.com/about/)
 * [Charity](https://fifthperson.com/charity/)
@@ -141,6 +141,10 @@ We hope this information satisfies any questions or concerns you may have regard
 
 [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
+![](https://fifthperson.com/wp-content/uploads/2024/06/AQ-Banner1.png)](https://alphaquadrant.com/?utm_source=website&utm_medium=banner&utm_campaign=alpha-quadrant-2024&utm_content=website&el=AQ-launch-2024-website)
+
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
 ![](https://fifthperson.com/wp-content/uploads/2023/08/BNR23-732-Expanded-Overnight-Stocks-and-ETFs-SG.jpg)](https://www.interactivebrokers.com.sg/mkt/?src=fifth5)
 
 Newsletter
@@ -170,11 +174,43 @@ Quick Guides
 
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
+    ![](https://fifthperson.com/wp-content/uploads/2024/06/lululemon-220x150.jpg)](https://fifthperson.com/lululemon-crashed-is-there-an-undervalued-opportunity/)
+    
+    [Lululemon’s stock has crashed by 40%. Is there an undervalued opportunity?](https://fifthperson.com/lululemon-crashed-is-there-an-undervalued-opportunity/) 
+    
+    1 day ago
+    
+* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://fifthperson.com/wp-content/uploads/2024/06/federal-reserve-220x150.jpg)](https://fifthperson.com/fed-maintains-rates-impacts-on-singapore-and-malaysia/)
+    
+    [Fed maintains rates amid easing inflation: Future impacts on Singapore and Malaysia](https://fifthperson.com/fed-maintains-rates-impacts-on-singapore-and-malaysia/)
+    
+    5 days ago
+    
+* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://fifthperson.com/wp-content/uploads/2024/06/fear-greed-220x150.jpg)](https://fifthperson.com/indicators-market-sentiment/)
+    
+    [From fear to greed: 5 indicators to gauge overall market sentiment](https://fifthperson.com/indicators-market-sentiment/)
+    
+    1 week ago
+    
+* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://fifthperson.com/wp-content/uploads/2022/06/AQ-thumbnail-220x150.png)](https://fifthperson.com/alpha-quadrant-is-live/)
+    
+    [Alpha Quadrant 2024 is LIVE!](https://fifthperson.com/alpha-quadrant-is-live/)
+    
+    1 week ago
+    
+* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
     ![](https://fifthperson.com/wp-content/uploads/2018/05/carlsberg.jpg)](https://fifthperson.com/2024-carlsberg-malaysia-agm/)
     
     [7 things I learned from the 2024 Carlsberg Malaysia AGM](https://fifthperson.com/2024-carlsberg-malaysia-agm/)
     
-    2 days ago
+    2 weeks ago
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -182,7 +218,7 @@ Quick Guides
     
     [Why Wingstop has soared 1,100% since IPO and whether it can continue rising](https://fifthperson.com/wingstop-soared-this-year-and-whether-it-can-continue-rising/)
     
-    5 days ago
+    2 weeks ago
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -190,7 +226,7 @@ Quick Guides
     
     [Gold bars vs. Big Macs: A tale of purchasing power and value](https://fifthperson.com/gold-bars-big-macs-purchasing-power-value/)
     
-    1 week ago
+    3 weeks ago
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -198,7 +234,7 @@ Quick Guides
     
     [8 things I learned from the 2024 Parkway Life REIT AGM](https://fifthperson.com/2024-parkway-life-reit-agm/)
     
-    2 weeks ago
+    3 weeks ago
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -206,45 +242,13 @@ Quick Guides
     
     [10 things I learned from the 2024 Heineken Malaysia AGM](https://fifthperson.com/2024-heineken-malaysia-agm/)
     
-    2 weeks ago
+    4 weeks ago
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![](https://fifthperson.com/wp-content/uploads/2024/05/nvidia-220x150.jpg)](https://fifthperson.com/nvidia-q1-2025-earnings-call/)
     
     [Nvidia’s Q1 2025 earnings call: Record revenue driven by AI data center growth](https://fifthperson.com/nvidia-q1-2025-earnings-call/)
-    
-    2 weeks ago
-    
-* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](https://fifthperson.com/wp-content/uploads/2020/04/plaza-singapura.jpg)](https://fifthperson.com/2024-capitaland-integrated-commercial-trust-agm/)
-    
-    [10 things I learned from the 2024 CapitaLand Integrated Commercial Trust AGM](https://fifthperson.com/2024-capitaland-integrated-commercial-trust-agm/)
-    
-    3 weeks ago
-    
-* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](https://fifthperson.com/wp-content/uploads/2021/08/maybank-220x150.jpg)](https://fifthperson.com/2024-maybank-agm/)
-    
-    [15 things I learned from the 2024 Maybank AGM](https://fifthperson.com/2024-maybank-agm/)
-    
-    3 weeks ago
-    
-* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](https://fifthperson.com/wp-content/uploads/2019/06/uob.jpg)](https://fifthperson.com/2024-uob-agm/)
-    
-    [8 things I learned from the 2024 UOB AGM](https://fifthperson.com/2024-uob-agm/)
-    
-    4 weeks ago
-    
-* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](https://fifthperson.com/wp-content/uploads/2020/05/SunwayCityKL.jpg)](https://fifthperson.com/2024-sunway-reit-agm/)
-    
-    [8 things I learned from the 2024 Sunway REIT AGM](https://fifthperson.com/2024-sunway-reit-agm/)
     
     4 weeks ago
     
@@ -330,6 +334,52 @@ Quick Guides
     February 18, 2020
     
 
+* [![Photo of Adam Wong](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![Photo of Adam Wong](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![Photo of Adam Wong](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![Photo of Adam Wong](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![Photo of Adam Wong](https://secure.gravatar.com/avatar/1d16fe1e9cc5ddc7e4a6d7ea456395db?s=70&d=mm&r=g)](https://fifthperson.com/lululemon-crashed-is-there-an-undervalued-opportunity/#comment-672951)
+    
+    [Adam Wong](https://fifthperson.com/lululemon-crashed-is-there-an-undervalued-opportunity/#comment-672951)
+    
+    Oh yes, I remember the hype surrounding Under Armour as well...
+    
+* [![Photo of Jonathan Lloyd](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![Photo of Jonathan Lloyd](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![Photo of Jonathan Lloyd](https://secure.gravatar.com/avatar/5175be3cf6b0cfb3c8c9a163bbd739b4?s=70&d=mm&r=g)](https://fifthperson.com/lululemon-crashed-is-there-an-undervalued-opportunity/#comment-672910)
+    
+    [Jonathan Lloyd](https://fifthperson.com/lululemon-crashed-is-there-an-undervalued-opportunity/#comment-672910)
+    
+    I'm wondering if Lululemon might be a repeat of Under Armour...
+    
+* [![Photo of Adam Wong](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![Photo of Adam Wong](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![Photo of Adam Wong](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![Photo of Adam Wong](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![Photo of Adam Wong](https://secure.gravatar.com/avatar/1d16fe1e9cc5ddc7e4a6d7ea456395db?s=70&d=mm&r=g)](https://fifthperson.com/how-to-open-a-brokerage-account-in-singapore/#comment-672863)
+    
+    [Adam Wong](https://fifthperson.com/how-to-open-a-brokerage-account-in-singapore/#comment-672863)
+    
+    Hi Max, You don't need to be a Singapore resident to open an...
+    
+* [![Photo of md nur](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![Photo of md nur](https://secure.gravatar.com/avatar/153ad4eb830ee54049af900c5467d767?s=70&d=mm&r=g)](https://fifthperson.com/dont-pay-off-your-home-loan-immediately/#comment-672358)
+    
+    [md nur](https://fifthperson.com/dont-pay-off-your-home-loan-immediately/#comment-672358)
+    
+    good...
+    
 * [![Photo of Max](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![Photo of Max](https://secure.gravatar.com/avatar/443af085e945c4eb00fddb53e71f13e1?s=70&d=mm&r=g)](https://fifthperson.com/how-to-open-a-brokerage-account-in-singapore/#comment-672112)
@@ -339,6 +389,10 @@ Quick Guides
     Hi I m thinking to open a DBS premier Account next year.But...
     
 * [![Photo of Adam Wong](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![Photo of Adam Wong](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![Photo of Adam Wong](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![Photo of Adam Wong](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -360,6 +414,10 @@ Quick Guides
     
     ![Photo of Adam Wong](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
+    ![Photo of Adam Wong](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![Photo of Adam Wong](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
     ![Photo of Adam Wong](https://secure.gravatar.com/avatar/1d16fe1e9cc5ddc7e4a6d7ea456395db?s=70&d=mm&r=g)](https://fifthperson.com/2024-uob-agm/#comment-670596)
     
     [Adam Wong](https://fifthperson.com/2024-uob-agm/#comment-670596)
@@ -367,6 +425,8 @@ Quick Guides
     All three Singapore banks still looking pretty good!...
     
 * [![Photo of Jonathan Lloyd](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![Photo of Jonathan Lloyd](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![Photo of Jonathan Lloyd](https://secure.gravatar.com/avatar/5175be3cf6b0cfb3c8c9a163bbd739b4?s=70&d=mm&r=g)](https://fifthperson.com/2024-uob-agm/#comment-670518)
     
@@ -376,55 +436,11 @@ Quick Guides
     
 * [![Photo of Darren Yeo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![Photo of Darren Yeo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![Photo of Darren Yeo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
     ![Photo of Darren Yeo](https://secure.gravatar.com/avatar/b60f9a3df7cf7d46e57ba880e0feb0cc?s=70&d=mm&r=g)](https://fifthperson.com/best-sp-500-etf-to-buy/#comment-670184)
     
     [Darren Yeo](https://fifthperson.com/best-sp-500-etf-to-buy/#comment-670184)
     
     Hi Ivan, You may try out IBKR as they are offering quite com...
-    
-* [![Photo of Darren Yeo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![Photo of Darren Yeo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![Photo of Darren Yeo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![Photo of Darren Yeo](https://secure.gravatar.com/avatar/b60f9a3df7cf7d46e57ba880e0feb0cc?s=70&d=mm&r=g)](https://fifthperson.com/best-sp-500-etf-to-buy/#comment-670183)
-    
-    [Darren Yeo](https://fifthperson.com/best-sp-500-etf-to-buy/#comment-670183)
-    
-    Hi Martin, Thanks for your comment and insights. I just want...
-    
-* [![Photo of Darren Yeo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![Photo of Darren Yeo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![Photo of Darren Yeo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![Photo of Darren Yeo](https://secure.gravatar.com/avatar/b60f9a3df7cf7d46e57ba880e0feb0cc?s=70&d=mm&r=g)](https://fifthperson.com/best-sp-500-etf-to-buy/#comment-670182)
-    
-    [Darren Yeo](https://fifthperson.com/best-sp-500-etf-to-buy/#comment-670182)
-    
-    Hi Allen, Take IBKR as an example since they have the lowest...
-    
-* [![Photo of Ivan](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![Photo of Ivan](https://secure.gravatar.com/avatar/807db7b532d701b3ae620657ddf6c035?s=70&d=mm&r=g)](https://fifthperson.com/best-sp-500-etf-to-buy/#comment-670176)
-    
-    [Ivan](https://fifthperson.com/best-sp-500-etf-to-buy/#comment-670176)
-    
-    Darren, could you kindly share which is the current platform...
-    
-* [![Photo of Martin](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![Photo of Martin](https://secure.gravatar.com/avatar/8df753757fb7634863de2206cb5614b6?s=70&d=mm&r=g)](https://fifthperson.com/best-sp-500-etf-to-buy/#comment-670169)
-    
-    [Martin](https://fifthperson.com/best-sp-500-etf-to-buy/#comment-670169)
-    
-    If you buy a swap based UCITS ETF there is 0% dividend withh...
     
 
 Advertisement
