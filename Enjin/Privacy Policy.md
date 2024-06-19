@@ -76,7 +76,7 @@ More INfo
 
 [JOIN ECOSYSTEM](https://www.enjin.com/join)
 
-[Enjin Spark](https://www.enjin.com/join)[Collab Network](https://enjin.io/blog/announcing-the-ecosystem-collab-network-a-support-system-for-enjin-adopters)[Governance](https://www.enjin.com/governance-and-staking)[Blog](https://www.enjin.com/blog)
+[Enjin Spark](https://www.enjin.com/join)[Collab Network](https://enjin.io/join#collab-network)[Governance](https://www.enjin.com/governance-and-staking)[Blog](https://www.enjin.com/blog)
 
 [](https://enj.in/discord)[](https://t.me/enjin)[](https://twitter.com/enjin)[](https://www.youtube.com/channel/UC7F0a-BLue6W5E0Qcg-r5kw)[](https://www.facebook.com/enjinsocial)[](https://www.linkedin.com/company/enjin/)[](https://www.reddit.com/r/EnjinCoin/)[](https://www.instagram.com/enjin/)[](https://enj.in/Enjin-CMC)
 
@@ -122,6 +122,10 @@ News
 
 Latest Adopters
 
+[BeamGo
+
+Beamgo Brings Bingo to 1.0 Billion Telegram Users](https://www.enjin.com/ecosystem/beamgo)
+
 [Subscan
 
 Explore dynamic Enjin Blockchain status and transactions with Subscan](https://www.enjin.com/ecosystem/subscan)
@@ -130,13 +134,11 @@ Explore dynamic Enjin Blockchain status and transactions with Subscan](https://w
 
 NFToinks’ Transformation from Enjin NFT Enthusiast to Web3 Artist and Game Creator](https://www.enjin.com/ecosystem/nftoinks)
 
-[ENJ Beam Club
-
-Fuel your passion for Beams with ENJ Beam Club](https://www.enjin.com/ecosystem/enj-beam-club)
-
 Lastest News
 
 [Explore Blog](https://www.enjin.com/blog)
+
+[Enjin scales RWAs and NFTs to millions of artists with tokenized vinyl records](https://www.enjin.com/blog/enjin-scales-rwas-and-nfts-with-tokenized-vinyl-records)
 
 [Enjin Coin 95% Unlocked: June 2024 Token Supply Update](https://www.enjin.com/blog/june-2024-token-supply-update)
 
@@ -147,8 +149,6 @@ Lastest News
 [Announcing the Ecosystem Collab Network: A Support System for Enjin Adopters](https://www.enjin.com/blog/announcing-the-ecosystem-collab-network-a-support-system-for-enjin-adopters)
 
 [Say Hello to Enjin Discord Bot, Providing Instant Social Utility for NFTs via Discord](https://www.enjin.com/blog/say-hello-to-the-enjin-discord-bot)
-
-[Enjin Ecosystem Legal Team Finalist for “SE Asia In-House Team of the Year”](https://www.enjin.com/blog/enjin-ecosystem-legal-team-finalist-for-se-asia-in-house-team-of-the-year)
 
 [ADD YOUR PROJECT](https://www.enjin.com/join)
 
@@ -234,7 +234,7 @@ NFTS MINTED
 
 ###### Enjin Platform & API
 
-3.5M
+4M
 
 USERS
 
@@ -578,6 +578,20 @@ An intuitive NFT marketplace that _anyone_ can use – create, distribute, and 
 Latest news
 -----------
 
+[.](https://www.enjin.com/blog/enjin-scales-rwas-and-nfts-with-tokenized-vinyl-records)
+
+![](https://cdn.prod.website-files.com/60f93c8e038fc32afa829f7d/6669623ba11ef8e35354a5c7_George_Murphy_-_blog.jpg)
+
+News
+
+Community
+
+Ecosystem
+
+June 13, 2024
+
+Enjin scales RWAs and NFTs to millions of artists with tokenized vinyl records
+
 [.](https://www.enjin.com/blog/june-2024-token-supply-update)
 
 ![](https://cdn.prod.website-files.com/60f93c8e038fc32afa829f7d/6663144c19005ef34f3ba436_BLOG-Token%20Update%20(2600%20x%201720%20px).png)
@@ -597,20 +611,6 @@ Dev Updates
 May 21, 2024
 
 Announcing Quick Wallet: Claim Enjin NFTs Anytime, Anywhere
-
-[.](https://www.enjin.com/blog/ecosystem-update-q1-2024)
-
-![](https://cdn.prod.website-files.com/60f93c8e038fc32afa829f7d/66440063679109613030ad17_ecosystem%20updates%20-%20blog.jpg)
-
-Ecosystem
-
-Dev Updates
-
-Product Updates
-
-May 14, 2024
-
-Recapping the Biggest Developments Across the Enjin Ecosystem in Q1 2024
 
 [Read More](https://www.enjin.com/blog)
 
@@ -657,7 +657,7 @@ Support
 
 ###### Join the Community](https://www.enjin.com/community)
 
-[Terms of Service](https://www.enjin.com/terms-of-service)[Privacy Policy](https://www.enjin.com/privacy-policy)
+[Privacy Policy](https://www.enjin.com/privacy-policy)[Terms of Service](https://www.enjin.com/terms-of-service)
 
 [![](https://cdn.prod.website-files.com/60f57c496975b84c29335fb7/662c011fedd6c638410ff34a_Lil%20Blobby.png)](https://www.enjin.com/community)
 
