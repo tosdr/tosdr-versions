@@ -69,6 +69,15 @@ SHARING YOUR PERSONAL INFORMATION
 
 We share your Personal Information with third parties to help us use your Personal Information, as described above. For example we use Google Analytics to help us understand how our customers use the Site--you can read more about how Google uses your Personal Information here: https://www.google.com/intl/en/policies/privacy/. You can also opt-out of Google Analytics here: https://tools.google.com/dlpage/gaoptout. Finally, we may also share your Personal Information to comply with applicable laws and regulations, to respond to a subpoena, search warrant or other lawful request for information we receive, or to otherwise protect our rights.
 
+INFORMATION WE RECEIVE FROM OTHER SOURCES
+-----------------------------------------
+
+Authentication Services: We allow End Users with certain third-party accounts to authenticate on the Services using those third-party accounts. We support the OAuth standard and will use the OAuth standard to facilitate End Users’ use of the Services to upload their data from their respective contact management provider whenever possible. Use of the Service with respect to third-party contact management providers that support the OAuth standard does not require neatCal to have access to, and neatCal will not in fact have access to, your End Users’ passwords in such instances. neatCal may request End Users’ credentials for certain third party contact management providers in order to complete the upload of their address book information from any source that does not support the OAuth standard. When we request this information from a third party contact management service or use the OAuth standard to facilitate authentication with a third party contact management service, we receive certain End User Content, namely registration or basic profile information from that third party service and other information that your End Users may authorize. This information enables us to authenticate the End User on that third party service and improve the Services. The information we receive depends on which contact management services the End User authorizes and any options that are available. End Users should always review, and if necessary, adjust your privacy settings on third-party websites and services before linking or connecting them to our Services.  
+  
+Third Party Analytics Services: We may also receive information from third party services to help us better understand you and how you use our Services.  
+  
+End Users: We also process information about our End Users, on behalf of our Users and in accordance with our user agreements. Typically, the information we receive from an End User may include the End User’s address books information, namely contact lists, contact notes, and any images associated with an End User’s address book. For clarity, neatCal only collects the minimum amount of personal data necessary for it to perform its obligations under its Terms of Service with its respective User Accordingly, any personal data about an End User is only stored in the random access memory of neatCal’s servers and never written to a physical disc. The pseudoanonymous data about an End User that remains with neatCal, is limited to a hash of each End User’s email address, the End User’s IP address, the source of the address book, and the number of contacts in the address book.
+
 DO NOT TRACK
 ------------
 
@@ -145,5 +154,6 @@ Last Updated: April 15, 2020
 * [Contact](https://www.neatcal.com/contact)
 * [Privacy](https://www.neatcal.com/privacy)
 * [Terms of Service](https://www.neatcal.com/tos)
+* [Google API Services Usage Disclosure](https://www.neatcal.com/google-api-disclosure)
 
 [![](img/whatsapp.png)](https://wa.me/908503090449)
