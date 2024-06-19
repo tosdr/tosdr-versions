@@ -2,37 +2,40 @@
 
 * [Platform](#)
     
-    Developer
+    Products
     
     * ![Icon](data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="78" height="78"><rect width="100%" height="100%"><animate attributeName="fill" values="rgba(153,153,153,0.5);rgba(153,153,153,0.1);rgba(153,153,153,0.5)" dur="2s" repeatCount="indefinite" /></rect></svg>)
         
         [Programmable MediaAPIs to automate image and video lifecycles](https://cloudinary.com/products/programmable_media)
+    * ![Icon](data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="37" height="37"><rect width="100%" height="100%"><animate attributeName="fill" values="rgba(153,153,153,0.5);rgba(153,153,153,0.1);rgba(153,153,153,0.5)" dur="2s" repeatCount="indefinite" /></rect></svg>)
+        
+        [AssetsDigital Asset Management](https://cloudinary.com/products/digital_asset_management)
+    * ![Icon](data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30"><rect width="100%" height="100%"><animate attributeName="fill" values="rgba(153,153,153,0.5);rgba(153,153,153,0.1);rgba(153,153,153,0.5)" dur="2s" repeatCount="indefinite" /></rect></svg>)
+        
+        [MediaFlowsLow-code workflow automation for image & video](https://home.mediaflows.cloudinary.com/?utm_source=website&utm_medium=platform-nagivation)
+    
+    APIS
+    
     * ![Icon](data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="72" height="66"><rect width="100%" height="100%"><animate attributeName="fill" values="rgba(153,153,153,0.5);rgba(153,153,153,0.1);rgba(153,153,153,0.5)" dur="2s" repeatCount="indefinite" /></rect></svg>)
         
         [Video APIAdd video to your website or app in minutes](https://cloudinary.com/video_api)
     * ![Icon](data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="75" height="69"><rect width="100%" height="100%"><animate attributeName="fill" values="rgba(153,153,153,0.5);rgba(153,153,153,0.1);rgba(153,153,153,0.5)" dur="2s" repeatCount="indefinite" /></rect></svg>)
         
         [Cloudinary AIGenerative AI and Machine Learning to speed creativity](https://cloudinary.com/products/cloudinary_ai)
-    * ![Icon](data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30"><rect width="100%" height="100%"><animate attributeName="fill" values="rgba(153,153,153,0.5);rgba(153,153,153,0.1);rgba(153,153,153,0.5)" dur="2s" repeatCount="indefinite" /></rect></svg>)
+    * ![Icon](data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="72" height="66"><rect width="100%" height="100%"><animate attributeName="fill" values="rgba(153,153,153,0.5);rgba(153,153,153,0.1);rgba(153,153,153,0.5)" dur="2s" repeatCount="indefinite" /></rect></svg>)
         
-        [MediaFlowsLow-code workflow automation for image & video](https://home.mediaflows.cloudinary.com/?utm_source=website&utm_medium=platform-nagivation)
+        [Image APIChain image effects at a scale improving performance](https://cloudinary.com/image-api)
     
-    Digital Asset Management
+    BETA
     
-    * ![Icon](data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="37" height="37"><rect width="100%" height="100%"><animate attributeName="fill" values="rgba(153,153,153,0.5);rgba(153,153,153,0.1);rgba(153,153,153,0.5)" dur="2s" repeatCount="indefinite" /></rect></svg>)
-        
-        [AssetsDigital Asset Management](https://cloudinary.com/products/digital_asset_management)
-    * BETA
-        
     * ![Icon](data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200"><rect width="100%" height="100%"><animate attributeName="fill" values="rgba(153,153,153,0.5);rgba(153,153,153,0.1);rgba(153,153,153,0.5)" dur="2s" repeatCount="indefinite" /></rect></svg>)
         
         [FinalTouchCreate quality product photos with Gen-AI](https://final-tou.ch/)
     * ![Icon](data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"><rect width="100%" height="100%"><animate attributeName="fill" values="rgba(153,153,153,0.5);rgba(153,153,153,0.1);rgba(153,153,153,0.5)" dur="2s" repeatCount="indefinite" /></rect></svg>)
         
         [Dimensions3D models transformed into stunning creatives](https://www.welcome.dimensions.cloudinary.com/?utm_source=cloudinary&utm_medium=console&utm_campaign=product-page)
-    
-    EXPLORE
-    
+    * EXPLORE
+        
     * [Demos](https://cloudinary.com/demos)
     * [Integrations](https://cloudinary.com/integrations)
     
@@ -79,6 +82,7 @@
     Support
     
     * [Knowledge Base](https://support.cloudinary.com/)
+    * [Professional Services](https://cloudinary.com/professional-services)
     * [Technical Support](https://support.cloudinary.com/)
     
     Tech Articles
@@ -91,13 +95,13 @@
     * [E-Commerce Platform](https://cloudinary.com/guides/e-commerce-platform/select-the-right-e-commerce-platform-for-your-needs)
     * [Front-End Development](https://cloudinary.com/guides/front-end-development/front-end-development-the-complete-guide)
     
-    * [Web Performance](https://cloudinary.com/guides/web-performance/web-performance-what-is-it-trends-and-insights-for-2023)
+    * [AI](https://cloudinary.com/guides/ai/cropping-images-using-ai)
+    * [Web Performance](https://cloudinary.com/guides/web-performance/web-performance-what-is-it-trends-and-insights-for-2024)
     * [Responsive Images](https://cloudinary.com/guides/responsive-images/4-techniques-for-creating-responsive-images-with-bootstrap)
     * [Bulk Image Resize](https://cloudinary.com/guides/bulk-image-resize/bulk-image-resize-in-css-javascript-python-java-node-js-and-other-languages)
     * [Automatic Image Cropping](https://cloudinary.com/guides/automatic-image-cropping/auto-image-crop-use-cases-features-and-best-practices)
     * [Marketing Videos](https://cloudinary.com/guides/marketing-videos/12-types-of-marketing-videos-and-10-ways-to-make-them-great)
     * [WordPress Plugin](https://cloudinary.com/guides/wordpress-plugin/optimize-video-for-wordpress-a-guide-for-seamless-performance)
-    * [User-Generated Content](https://cloudinary.com/guides/user-generated-content/user-generated-content-marketing-opportunity-of-the-century-and-its-only-the-beginning)
     
 * [About Us](#)
     
@@ -106,7 +110,7 @@
     * [About Us](https://cloudinary.com/about)
     * [Customers](https://cloudinary.com/customers)
     * [Become a Partner](https://cloudinary.com/partners)
-    * [Find a Solution Partner](https://cloudinary.com/solutionpartners)
+    * [Find a Solution Partner](https://cloudinary.com/solution-partners)
     
     * [Careers](https://cloudinary.com/careers)
     * [Newsroom](https://cloudinary.com/newsroom)
@@ -528,7 +532,7 @@ Last updated: April 18, 2024
 
 **Developers**
 
-* [Getting Started](https://cloudinary.com/solutions/cloudinary_for_developers)
+* [Getting Started](https://cloudinary.com/developers)
 * [Documentation](https://cloudinary.com/documentation)
 * [Community](https://community.cloudinary.com/)
 * [SDKs](https://cloudinary.com/documentation/cloudinary_sdks)
@@ -568,7 +572,7 @@ Last updated: April 18, 2024
 * ![Best Places to Work SVBJ 2021](https://res.cloudinary.com/cloudinary-marketing/image/upload/dpr_auto,c_scale,f_auto,q_auto,w_99/creative_staging/cloudinary_internal/Website/primary_navigation/2021-BPTW_Logo.png)
 * ![2020 The World's Best Cloud Companies](https://res.cloudinary.com/cloudinary-marketing/image/upload/dpr_auto,c_scale,f_auto,q_auto,w_63/v1601359190/creative_staging/cloudinary_internal/Website/primary_navigation/Cloud1002020.eps)
 
-* [Terms of Use](https://cloudinary.com/tos)
+* [Terms of Use](https://cloudinary.com/tou)
 * [Privacy Policy](https://cloudinary.com/privacy)
 * [DMCA Notice](https://cloudinary.com/dmca)
 
