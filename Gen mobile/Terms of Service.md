@@ -21,11 +21,12 @@ Search
 * [Government Phone Service +](https://www.genmobile.com/pages/acp)
     * [ACP](https://www.genmobile.com/pages/acp)
     * [Lifeline](https://www.genmobile.com/pages/lifeline-program)
+* [Why Gen](https://www.genmobile.com/pages/why-gen-mobile)
 * [Help +](https://www.genmobile.com/apps/store-locator)
     * [FAQ](https://www.genmobile.com/apps/help-center)
     * [Contact Us](https://www.genmobile.com/pages/contact-us)
     * [Coverage](https://www.genmobile.com/pages/5g)
-* [Find a Store](https://www.genmobile.com/apps/store-locator)
+    * [Easy Pay](https://www.genmobile.com/pages/easypay)
 * [Cart (00)](https://www.genmobile.com/cart)
     
 
