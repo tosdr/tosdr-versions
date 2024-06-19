@@ -171,11 +171,11 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![John E. Todd](https://cdn.returningveterans.org/images/honor/flag_generic_wall_of_honor.jpg)  
+![Ed Castellani](https://cdn.returningveterans.org/images/honor/9_Ed_Castellani_AR.png)  
 
-**In Memory of John E. Todd**  
+**In Honor of Ed Castellani**  
 United States Army  
-Submitted by Anonymous](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
+Submitted by Messiah Lutheran Church, Vancouver Wa](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
 
@@ -222,5 +222,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 ![](https://dc.ads.linkedin.com/collect/?pid=576569&fmt=gif)
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 6/09/24 - 8:37:14  
+Printed 6/18/24 - 11:43:11  
 © 2024 Returning Veterans Project
