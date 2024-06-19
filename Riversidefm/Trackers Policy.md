@@ -342,7 +342,7 @@ Podcast guides
 
 [How to Start a Podcast | Complete Step-by-Step Guide for 2024](https://riverside.fm/blog/how-to-start-a-podcast)
 
-[How to Start a Podcast on YouTube in 7 Steps \[2024 Guide\]](https://riverside.fm/blog/how-to-start-a-podcast-on-youtube)
+[How to Start a Podcast on YouTube in 5 Steps \[2024 Guide\]](https://riverside.fm/blog/how-to-start-a-podcast-on-youtube)
 
 [How to Record A Podcast Remotely in Studio Quality \[2024\]](https://riverside.fm/blog/how-to-record-a-podcast-remotely)
 
