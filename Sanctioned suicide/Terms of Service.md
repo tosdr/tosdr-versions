@@ -47,8 +47,6 @@ Install
     
     If you want to donate, we have a thread with updated donation options here at this link: [About Donations](https://sanctioned-suicide.net/threads/about-donations.88545)
     
-* [](https://sanctioned-suicide.net/account/dismiss-notice?notice_id=50 "Dismiss notice")Twitter/X is a shitty platform that no one should ever use: [Read More here](https://x.com/sanctionedsui/status/1799601614023725462)
-    
 
 Terms and rules
 ===============
