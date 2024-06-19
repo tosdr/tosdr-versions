@@ -93,11 +93,11 @@ Search for:
 
 ### Recent Posts
 
+* [The Perfect Present for that Special Person in Your Life](https://xworld.org/shopping/the-perfect-present-for-that-special-person-in-your-life/)
 * [Tasty Treats are the Perfect Present](https://xworld.org/food/tasty-treats-are-the-perfect-present/)
 * [The benefits of lip fillers](https://xworld.org/health/the-benefits-of-lip-fillers/)
 * [Hiring a Meeting Room that Suits Your Needs](https://xworld.org/business/hiring-a-meeting-room-that-suits-your-needs/)
 * [Do you know these things about renewable energy?](https://xworld.org/technology-and-gadget/do-you-know-these-things-about-renewable-energy/)
-* [3 great reasons to pick wool clothes](https://xworld.org/fashion/3-great-reasons-to-pick-wool-clothes/)
 
 ### Categories
 
