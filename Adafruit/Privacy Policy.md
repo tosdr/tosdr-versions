@@ -75,27 +75,23 @@ Search
     
     New Products[view all](https://www.adafruit.com/new)
     
+    ![Angled Top Shot of the Enclosure for Adafruit TRRS Trinkey showing the Headphone Jack.](https://cdn-shop.adafruit.com/230x173/5981-02.jpg)[Snap-on Enclosure for Adafruit TRRS Trinkey
+    
+    $2.50](https://www.adafruit.com/product/5981)
+    
     ![Angled Shot of the Adafruit HX711 24-bit ADC.](https://cdn-shop.adafruit.com/230x173/5974-00.jpg)[Adafruit HX711 24-bit ADC for Load Cells / Strain Gauges
     
     $9.95](https://www.adafruit.com/product/5974)
     
-    ![Angled shot of M.2 HAT+ and compute module.](https://cdn-shop.adafruit.com/230x173/5979-01.jpg)[Raspberry Pi AI Kit with M.2 HAT and Hailo AI Module
+    ![Angled shot of USB type C breakout.](https://cdn-shop.adafruit.com/230x173/5978-00.jpg)[Adafruit USB Type C Plug Breakout
     
-    $70.00](https://www.adafruit.com/product/5979)
+    $2.95](https://www.adafruit.com/product/5978)
     
     ![Video of gloved hands playing with a green LED strip.](https://cdn-shop.adafruit.com/product-videos/320x240/5920-03.jpg)[Flexible 12V LED Strip - 480 LEDs per meter - 1m long - Green
     
     $11.95](https://www.adafruit.com/product/5920)
     
-    ![Video of gloved hands playing with a blue LED strip.](https://cdn-shop.adafruit.com/product-videos/320x240/5921-00.jpg)[Flexible 12V LED Strip - 480 LEDs per meter - 1m long - Blue
-    
-    $11.95](https://www.adafruit.com/product/5921)
-    
     Featured Products[view all](https://www.adafruit.com/featured)
-    
-    ![Adafruit MetroX Classic Kit - Experimentation Kit for Metro 328 with lots of components, and booklet](https://cdn-shop.adafruit.com/230x173/170-04.jpg)[Adafruit MetroX Classic Kit - Experimentation Kit for Metro 328
-    
-    $84.95](https://www.adafruit.com/product/170)
     
     ![Angled shot of black, rectangular doubler prototyping board.](https://cdn-shop.adafruit.com/230x173/5906-00.jpg)[Adafruit Proto Doubler PiCowbell for Pico and PicoW
     
@@ -108,6 +104,10 @@ Search
     ![Overhead shot of TFT driver board connected to a round TFT display, which says, "Hello world!"](https://cdn-shop.adafruit.com/230x173/5800-06.jpg)[Adafruit Qualia ESP32-S3 for TTL RGB-666 Displays
     
     $19.95](https://www.adafruit.com/product/5800)
+    
+    ![Angled shot of black, credit-card-sized development board.](https://cdn-shop.adafruit.com/230x173/5786-00.jpg)[Adafruit Metro RP2040
+    
+    $14.95](https://www.adafruit.com/product/5786)
     
 * [Gift Ideas](https://www.adafruit.com/explore)
 * [What's New](https://www.adafruit.com/new)
@@ -402,9 +402,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ To be successful, you have to have your heart in your business and your business in your heart”
+“ Either I win or I learn”
 
-[Thomas J. Watson](http://en.wikipedia.org/wiki/Thomas_J._Watson)
+[Nelson Mandela](https://en.wikipedia.org/wiki/Nelson_Mandela)
 
 [](https://www.adafruit.com/about)
 
