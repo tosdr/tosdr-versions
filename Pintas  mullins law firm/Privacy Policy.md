@@ -263,7 +263,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including phone calls, text messages, autodialed / auto-selected or pre-recorded calls). My own message and data rates may apply. I know my consent to such contact is not required for use of these services.
 
-Comments
+Email
 
 This field is for validation purposes and should be left unchanged.
 
@@ -273,17 +273,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![How long does it take to settle a nursing home lawsuit?](https://www.pintas.com/wp-content/uploads/2021/04/a-neglected-senior-in-a-wheelchair-300x200.jpg "How Long Does it Take to Settle a Nursing Home Lawsuit?")](https://www.pintas.com/practice-areas/personal-injury/nursing-home-abuse-lawyer/nursing-home-settlement-timeline/ "How Long Does it Take to Settle a Nursing Home Lawsuit?")
+[![What is the average mesothelioma settlement?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-what-is-the-average-mesothelioma-settlement.jpg "What Is the Average Mesothelioma Settlement?")](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/average-settlement "What Is the Average Mesothelioma Settlement?")
 
-[#### How Long Does it Take to Settle a Nursing Home Lawsuit?](https://www.pintas.com/practice-areas/personal-injury/nursing-home-abuse-lawyer/nursing-home-settlement-timeline/)
+[#### What Is the Average Mesothelioma Settlement?](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/average-settlement)
 
-[![How long do you have to file a lawsuit against a nursing home?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-how-long-do-you-have-to-file-a-lawsuit-against-a-nursing-home-scaled.jpg "How Long Do You Have to File a Lawsuit Against a Nursing Home?")](https://www.pintas.com/faq/how-long-do-you-have-to-file-a-lawsuit-against-a-nursing-home/ "How Long Do You Have to File a Lawsuit Against a Nursing Home?")
+[![What are the odds of beating lung cancer?](https://www.pintas.com/wp-content/uploads/2020/11/what-are-the-odds-of-beating-lung-cancer.jpg "What Are the Odds of Beating Lung Cancer?")](https://www.pintas.com/lung-cancer/what-are-the-odds-of-beating-lung-cancer/ "What Are the Odds of Beating Lung Cancer?")
 
-[#### How Long Do You Have to File a Lawsuit Against a Nursing Home?](https://www.pintas.com/faq/how-long-do-you-have-to-file-a-lawsuit-against-a-nursing-home/)
+[#### What Are the Odds of Beating Lung Cancer?](https://www.pintas.com/lung-cancer/what-are-the-odds-of-beating-lung-cancer/)
 
-[![What is the life expectancy of a person with mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/07/mesothelioma-what-is-the-life-expectancy-of-a-person-with-mesothelioma-scaled.jpg "What Is the Life Expectancy of a Person with Mesothelioma?")](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/life-expectancy "What Is the Life Expectancy of a Person with Mesothelioma?")
+[![What are the signs of assisted living neglect?](https://www.pintas.com/wp-content/uploads/2021/03/practice-areas-personal-injury-assisted-living-accident-lawyer-what-are-the-signs-of-assisted-living-neglect-300x200.jpg "What Are the Signs of Assisted Living Neglect?")](https://www.pintas.com/faq/what-are-the-signs-of-assisted-living-neglect/ "What Are the Signs of Assisted Living Neglect?")
 
-[#### What Is the Life Expectancy of a Person with Mesothelioma?](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/life-expectancy)
+[#### What Are the Signs of Assisted Living Neglect?](https://www.pintas.com/faq/what-are-the-signs-of-assisted-living-neglect/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -306,7 +306,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by my email or telephone (including phone calls, text messages, autodialed / auto-selected or pre-recorded calls). My own message and data rates may apply. I know my consent to such contact is not required for use of these services.
 
-Email
+Name
 
 This field is for validation purposes and should be left unchanged.
 
