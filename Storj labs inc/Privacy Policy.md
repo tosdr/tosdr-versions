@@ -20,7 +20,7 @@ Resellers](https://www.storj.io/partner/resellers)[b
 
 Technology alliances](https://www.storj.io/partner/technology-alliance)[a
 
-Storage suppliers](https://www.storj.io/partner/storage-suppliers)[0
+Storage providers](https://www.storj.io/partner/storage-providers)[0
 
 Partner portal](https://partners.storj.io/)[#
 
@@ -82,7 +82,7 @@ Resellers](https://www.storj.io/partner/resellers)[![outline of tilde symbol](ht
 
 Technology Alliances](https://www.storj.io/partner/technology-alliance)[![outline of cloud symbol](https://cdn.prod.website-files.com/65d78d3b8dbb1f54a94020c7/66059620bf5a365b66c783a5_Icon%20Weight%3Dlight%2C%20Icon%20List%3Dcloud.svg)
 
-Storage Suppliers](https://www.storj.io/partner/storage-suppliers)[![outline of star](https://cdn.prod.website-files.com/65d78d3b8dbb1f54a94020c7/66059622a8a4ad4fffd7a01c_Icon%20Weight%3Dlight%2C%20Icon%20List%3Dstar.svg)
+Storage Providers](https://www.storj.io/partner/storage-providers)[![outline of star](https://cdn.prod.website-files.com/65d78d3b8dbb1f54a94020c7/66059622a8a4ad4fffd7a01c_Icon%20Weight%3Dlight%2C%20Icon%20List%3Dstar.svg)
 
 Partner Library](https://www.storj.io/partner/library)
 
@@ -374,11 +374,11 @@ Product
 
 Support
 
-[Customer support](https://supportdcs.storj.io/hc/en-us)[Technical docs](https://docs.storj.io/)[Supplier support](https://support.storj.io/hc/en-us)[Community forum](https://forum.storj.io/)[Partner login](https://partners.storj.io/)[GitHub](https://github.com/Storj/)
+[Customer support](https://supportdcs.storj.io/hc/en-us)[Technical docs](https://docs.storj.io/)[Provider support](https://support.storj.io/hc/en-us)[Community forum](https://forum.storj.io/)[Partner login](https://partners.storj.io/)[GitHub](https://github.com/Storj/)
 
 Legal
 
-[Privacy policy](https://www.storj.io/legal/privacy-policy)[Terms of service](https://www.storj.io/legal/terms-of-service)[Terms of use](https://www.storj.io/legal/terms-of-use)[Supplier T&C](https://www.storj.io/legal/supplier-terms-conditions)[Disclosures](https://www.storj.io/legal/disclosures)[Bug Bounty](https://www.storj.io/company/bug-bounty)[Canary](https://www.storj.io/canary.txt)
+[Privacy policy](https://www.storj.io/legal/privacy-policy)[Terms of service](https://www.storj.io/legal/terms-of-service)[Terms of use](https://www.storj.io/legal/terms-of-use)[Storage Provider T&C](https://www.storj.io/legal/supplier-terms-conditions)[Disclosures](https://www.storj.io/legal/disclosures)[Bug Bounty](https://www.storj.io/company/bug-bounty)[Canary](https://www.storj.io/canary.txt)
 
 Copyright © 2024 Storj Labs Inc | All Rights Reserved
 
