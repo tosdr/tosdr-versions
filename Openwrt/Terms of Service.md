@@ -96,7 +96,7 @@ Borrowed from the [WordPress Terms of Service](http://en.wordpress.com/tos/).
 
 * [Home](https://forum.openwrt.org/)
 * [Categories](https://forum.openwrt.org/categories)
-* [FAQ/Guidelines](https://forum.openwrt.org/guidelines)
+* [Guidelines](https://forum.openwrt.org/guidelines)
 * [Terms of Service](https://forum.openwrt.org/tos)
 * [Privacy Policy](https://forum.openwrt.org/privacy)
 
