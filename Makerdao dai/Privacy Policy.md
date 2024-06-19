@@ -250,7 +250,6 @@ By using our site you agree to our [Cookie Policy](https://makerdao.com/en/priva
 Resources
 
 * [Whitepaper](https://makerdao.com/en/whitepaper)
-* [Brand Assets](http://brand.makerdao.com/)
 * [Service Status](https://makerdao.statuspage.io/)
 
 Products
