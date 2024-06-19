@@ -89,7 +89,7 @@ Taal
 
 Legal
 
-![](https://assets-global.website-files.com/5f39912be9da2f5c8fc5cc45/64ef6dc1946c1218ca171412_mh-logo-footer.svg)
+![](https://cdn.prod.website-files.com/5f39912be9da2f5c8fc5cc45/64ef6dc1946c1218ca171412_mh-logo-footer.svg)
 
 The comprehensive mental health care platform for enterprises around the world.
 
