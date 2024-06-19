@@ -1,7 +1,7 @@
 **BLACK FRIDAY SALE - GET 50% OFF  
 **Use code **_BF50_** at checkout. Valid for all yearly plans.
 
-[![](https://assets-global.website-files.com/605dd4e52b25d325bdc4370e/62e3f4f4e0c0cc6334ba8186_logo.svg)](https://www.ocoya.net/)
+[![](https://cdn.prod.website-files.com/605dd4e52b25d325bdc4370e/62e3f4f4e0c0cc6334ba8186_logo.svg)](https://www.ocoya.net/)
 
 Features
 
@@ -81,17 +81,17 @@ Our Privacy Policy applies only to our online activities and is valid for visito
   
 By using our website, you hereby consent to our Privacy Policy and agree to its terms.  
 
-![](https://assets-global.website-files.com/605dd4e52b25d325bdc4370e/64387d7b5a4c5e08e2d14cd9_logo_white%20(1).svg)
+![](https://cdn.prod.website-files.com/605dd4e52b25d325bdc4370e/64387d7b5a4c5e08e2d14cd9_logo_white%20(1).svg)
 
-![](https://assets-global.website-files.com/605dd4e52b25d325bdc4370e/64a7e47eeeff732fc3f839c4_location-sign-svgrepo-com-2.svg)
+![](https://cdn.prod.website-files.com/605dd4e52b25d325bdc4370e/64a7e47eeeff732fc3f839c4_location-sign-svgrepo-com-2.svg)
 
 ### US Office: 3422 Old Capitol Trail, New Castle, DE 19808-6192,
 
-![](https://assets-global.website-files.com/605dd4e52b25d325bdc4370e/64a7e47eeeff732fc3f839c4_location-sign-svgrepo-com-2.svg)
+![](https://cdn.prod.website-files.com/605dd4e52b25d325bdc4370e/64a7e47eeeff732fc3f839c4_location-sign-svgrepo-com-2.svg)
 
 ### Italy Office: Largo Augusto 3, 20122, Milan
 
-![](https://assets-global.website-files.com/605dd4e52b25d325bdc4370e/64a7e47eeeff732fc3f839c4_location-sign-svgrepo-com-2.svg)
+![](https://cdn.prod.website-files.com/605dd4e52b25d325bdc4370e/64a7e47eeeff732fc3f839c4_location-sign-svgrepo-com-2.svg)
 
 ### Lithuania Office: Technopolis Ozas, J. Balčikonio st. 3, LT-08247, Vilnius
 
@@ -99,7 +99,7 @@ By using our website, you hereby consent to our Privacy Policy and agree to its 
 
 [![Ocoya 2.0 - Canva + Hootsuite + Copy.ai | Product Hunt](https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=309086&theme=light&period=daily)](https://www.producthunt.com/posts/ocoya-2-0-1?utm_source=badge-top-post-badge&utm_medium=badge&utm_souce=badge-ocoya-2-0-1)
 
-[![Facebook](https://assets-global.website-files.com/605dd4e52b25d325bdc4370e/64a823775cfc27b40ef36424_facebook-176-svgrepo-com.svg)](https://www.facebook.com/ocoyadotcom)[![Twitter](https://assets-global.website-files.com/605dd4e52b25d325bdc4370e/650db26ed2690bc9f3a0ec36_logo-black.png)](https://twitter.com/intent/follow?screen_name=ocoya_com)[![LinkedIn](https://assets-global.website-files.com/605dd4e52b25d325bdc4370e/64a8234582baeec0b6a33afa_linkedin-svgrepo-com.svg)](https://www.linkedin.com/company/ocoya)[![Instagram](https://assets-global.website-files.com/605dd4e52b25d325bdc4370e/64a82323b6461b26ddb0ef6a_instagram-fill-svgrepo-com.svg)](https://www.instagram.com/ocoya)[![Instagram](https://assets-global.website-files.com/605dd4e52b25d325bdc4370e/64a82407a134891a5b832bc6_tiktok-svgrepo-com.svg)](https://www.tiktok.com/@ocoya_com)[![Instagram](https://assets-global.website-files.com/605dd4e52b25d325bdc4370e/64a823e9a134891a5b830f07_youtube-168-svgrepo-com.svg)](http://youtube.com/ocoya?sub_confirmation=1)
+[![Facebook](https://cdn.prod.website-files.com/605dd4e52b25d325bdc4370e/64a823775cfc27b40ef36424_facebook-176-svgrepo-com.svg)](https://www.facebook.com/ocoyadotcom)[![Twitter](https://cdn.prod.website-files.com/605dd4e52b25d325bdc4370e/650db26ed2690bc9f3a0ec36_logo-black.png)](https://twitter.com/intent/follow?screen_name=ocoya_com)[![LinkedIn](https://cdn.prod.website-files.com/605dd4e52b25d325bdc4370e/64a8234582baeec0b6a33afa_linkedin-svgrepo-com.svg)](https://www.linkedin.com/company/ocoya)[![Instagram](https://cdn.prod.website-files.com/605dd4e52b25d325bdc4370e/64a82323b6461b26ddb0ef6a_instagram-fill-svgrepo-com.svg)](https://www.instagram.com/ocoya)[![Instagram](https://cdn.prod.website-files.com/605dd4e52b25d325bdc4370e/64a82407a134891a5b832bc6_tiktok-svgrepo-com.svg)](https://www.tiktok.com/@ocoya_com)[![Instagram](https://cdn.prod.website-files.com/605dd4e52b25d325bdc4370e/64a823e9a134891a5b830f07_youtube-168-svgrepo-com.svg)](http://youtube.com/ocoya?sub_confirmation=1)
 
 Resources
 
