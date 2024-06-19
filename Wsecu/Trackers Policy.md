@@ -39,7 +39,7 @@ WSECU Routing Number: **325181028**
     
     * [Personal Savings Calculator](https://wsecu.org/resources/personal-savings-calculator)
     * [How to Order Checks](https://wsecu.org/resources/how-to-order-checks)
-    * [FAQs](https://wsecu.org/resources?format=FAQ)
+    * [FAQ](https://wsecu.org/resources?format=FAQ)
     * [View All](https://wsecu.org/resources?topic=Checking+and+Savings)
     
      [![](/Images/Mega%20Menu/share-certificates.jpg) Earn 4.75% APY on 7-month Certificates Open today](https://wsecu.org/checking-and-savings/share-certificates)
@@ -289,7 +289,7 @@ Go back to the search field
     
     * [Personal Savings Calculator](https://wsecu.org/resources/personal-savings-calculator)
     * [How to Order Checks](https://wsecu.org/resources/how-to-order-checks)
-    * [FAQs](https://wsecu.org/resources?format=FAQ)
+    * [FAQ](https://wsecu.org/resources?format=FAQ)
     * [View All](https://wsecu.org/resources?topic=Checking+and+Savings)
     
      [![](/Images/Mega%20Menu/share-certificates.jpg) Earn 4.75% APY on 7-month Certificates Open today](https://wsecu.org/checking-and-savings/share-certificates)
