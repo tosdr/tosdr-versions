@@ -394,11 +394,11 @@ About Herbalife
         
     * [Peachy Tropical Tea](https://www.herbalife.com/en-us/wellness-resources/recipes/peachy-tropical-tea)
         
+    * [Ziaire’s Cherry Hydr8r](https://www.herbalife.com/en-us/wellness-resources/recipes/ziaires-cherry-hydr8r)
+        
     * [Citrusy Collagen Tea](https://www.herbalife.com/en-us/wellness-resources/recipes/citrusy-collagen-tea)
         
     * [Pretty in Pink](https://www.herbalife.com/en-us/wellness-resources/recipes/pretty-in-pink)
-        
-    * [Ziaire’s Cherry Hydr8r](https://www.herbalife.com/en-us/wellness-resources/recipes/ziaires-cherry-hydr8r)
         
 
 * [Back](javascript:;)
@@ -418,10 +418,11 @@ Privacy Policy
 Privacy Policy
 
 1. [Privacy Policy](https://www.herbalife.com/en-us/footer/privacy-policy)
-2. [Terms of Use](https://www.herbalife.com/en-us/footer/terms-of-use)
-3. [Ethics and Compliance](https://www.herbalife.com/en-us/footer/ethics-and-compliance)
-4. [Refund policy](https://www.herbalife.com/en-us/footer/refund-policy)
-5. [Herbalife Terms and Conditions of Purchase](https://www.herbalife.com/en-us/footer/supplier-terms)
+2. [Cookie Policy](https://www.herbalife.com/en-us/footer/cookie-policy)
+3. [Terms of Use](https://www.herbalife.com/en-us/footer/terms-of-use)
+4. [Ethics and Compliance](https://www.herbalife.com/en-us/footer/ethics-and-compliance)
+5. [Refund policy](https://www.herbalife.com/en-us/footer/refund-policy)
+6. [Herbalife Terms and Conditions of Purchase](https://www.herbalife.com/en-us/footer/supplier-terms)
 
 Privacy Policy
 ==============
@@ -438,7 +439,7 @@ About Herbalife
 
 Get Help
 
-[Support Center](https://support.herbalife.com/s/?language=en_US) [Contact Us](https://support.herbalife.com/s/contactsupport?language=en_US) [Refund Policy](https://www.herbalife.com/en-us/footer/refund-policy)
+[Support Center](https://support.herbalife.com/s/?language=en_US) [Contact Us](https://support.herbalife.com/s/contactsupport?language=en_US) [Refund Policy](https://www.herbalife.com/en-us/footer/refund-policy) [Frequently Asked Questions](https://www.herbalife.com/en-us/frequently-asked-questions/herbalife-nutrition-club)
 
 For Distributors
 
