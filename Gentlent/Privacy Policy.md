@@ -10,7 +10,7 @@ Coming soon](https://gentlent.com/)
 [Contact  
 Gentlent's global support is free of charge for all our customers.](https://gentlent.com/contact)
 
-[API Docs](https://developers.gentlent.com/)[Knowledge Base](https://support.gentlent.com/)
+[Case Studies](https://gentlent.com/case-studies)[Knowledge Base](https://support.gentlent.com/)
 
 [Community](https://gentlent.com/community)[Login](https://app.gentlent.com/)
 
@@ -328,7 +328,7 @@ If the objection is successful, we will no longer process the personal data, unl
 ### Wanna learn more?  
 Get in touch today.
 
-[Contact us](https://gentlent.com/contact)
+[Contact us →](https://gentlent.com/contact)
 
 [![Gentlent](https://s1.gentcdn.com/images/branding/gentlentg/g_white.svg)](https://gentlent.com/)
 
@@ -350,11 +350,11 @@ Get in touch today.
 
 #### Company
 
-[About us](https://gentlent.com/about)[Blog](https://gentlent.com/blog)[Careers Soon](https://gentlent.com/careers)[Contact us](https://gentlent.com/contact)[Peering](https://peering.gentlent.com/)[System Status](https://status.gentlent.com/)
+[About us](https://gentlent.com/about)[Blog](https://gentlent.com/blog)[Careers Soon](https://gentlent.com/careers)[Case Studies](https://gentlent.com/case-studies)[Contact us](https://gentlent.com/contact)[Peering](https://peering.gentlent.com/)[System Status](https://status.gentlent.com/)
 
 #### Company
 
-[About us](https://gentlent.com/about)[Blog](https://gentlent.com/blog)[Careers Soon](https://gentlent.com/careers)[Contact us](https://gentlent.com/contact)[Peering](https://peering.gentlent.com/)[System Status](https://status.gentlent.com/)
+[About us](https://gentlent.com/about)[Blog](https://gentlent.com/blog)[Careers Soon](https://gentlent.com/careers)[Case Studies](https://gentlent.com/case-studies)[Contact us](https://gentlent.com/contact)[Peering](https://peering.gentlent.com/)[System Status](https://status.gentlent.com/)
 
 #### [![Gentlent](https://s1.gentcdn.com/images/branding/gentlentlogo/logo_white.svg)](https://gentlent.com/)
 
@@ -362,7 +362,7 @@ Gentlent™ is a software company aiming to make complex web technologies easy a
 
 [](https://gentlent.com/community)
 
-[](https://facebook.com/gentlent)[](https://x.com/gentlentgroup)[](https://linkedin.com/company/gentlent)[](https://github.com/gentlent)[](https://instagram.com/gentlentgroup)[](https://youtube.com/@gentlent)
+[](https://facebook.com/gentlent)[](https://x.com/gentlentgroup)[](https://linkedin.com/company/gentlent)[](https://github.com/gentlent)[](https://instagram.com/gentlentgroup)[](https://youtube.com/@gentlent)[](https://www.tiktok.com/@gentlentgroup)
 
 [![Trustify](https://app.trustify.ch/assets/media/logos/logo-light.png)](https://in.trustify.ch/gentlent)
 
