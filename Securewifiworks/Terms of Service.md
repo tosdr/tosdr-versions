@@ -138,3 +138,5 @@ Cary, NC 27518
 
 **SecureWiFiWorks.com is a division of [BlueAlly, an authorized Mojo Networks Partner.](https://www.blueally.com/)**  
 Copyright © 2000. All Rights Reserved. [Site Terms](https://www.securewifiworks.com/policies/legal.asp) and [Privacy Policy](https://www.securewifiworks.com/policies/privacy-policy.asp)
+
+ PHP Warning: include(../dynamicpricing/dp.php): failed to open stream: No such file or directory in D:\\webs\\SecureWifiWorks\\includes\\Head.inc on line 61 PHP Warning: include(): Failed opening '../dynamicpricing/dp.php' for inclusion (include\_path='.;C:\\php\\pear') in D:\\webs\\SecureWifiWorks\\includes\\Head.inc on line 61
