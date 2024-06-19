@@ -97,7 +97,7 @@ Prototype and integrate with LLMs faster using search AI.
 * [Search Labs tutorials](https://www.elastic.co/search-labs/tutorials)
 * [Elastic Community](https://www.elastic.co/community)
 
-[Generative AI overview](https://www.elastic.co/enterprise-search/generative-ai)
+[Generative AI overview](https://www.elastic.co/generative-ai)
 
 [![](https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt549f7d977c2a88f4/5d082d34616162aa5a85707d/logo-enterprise-search-32-color.svg)](https://www.elastic.co/enterprise-search)[Search
 ------](https://www.elastic.co/enterprise-search)[](https://www.elastic.co/enterprise-search)[](https://www.elastic.co/enterprise-search)[](https://www.elastic.co/enterprise-search)[](https://www.elastic.co/enterprise-search)
