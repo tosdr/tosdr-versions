@@ -117,9 +117,9 @@ Type your search query  Submit your search
         
         * [Tax and rebates](https://www.hbf.com.au/health-insurance/explained/tax-and-rebates)
         * [Premium change 2024](https://www.hbf.com.au/members/useful-articles/health-insurance-premium-increase-faqs)
+        * [Pharmacy changes](https://www.hbf.com.au/members/useful-articles/non-pbs-pharmaceutical-changes)
         * [Telehealth services](https://www.hbf.com.au/members/useful-articles/telehealth-treatments)
         * [Member assistance](https://www.hbf.com.au/members/member-assistance)
-        * [Suspension FAQs](https://www.hbf.com.au/members/useful-articles/suspension-faqs)
         * [General insurance changes](https://www.hbf.com.au/members/useful-articles/general-insurance-changes)
         
         [Close menu](javascript:;)
@@ -531,9 +531,9 @@ Type your search query
         
         * [Tax and rebates](https://www.hbf.com.au/health-insurance/explained/tax-and-rebates)
         * [Premium change 2024](https://www.hbf.com.au/members/useful-articles/health-insurance-premium-increase-faqs)
+        * [Pharmacy changes](https://www.hbf.com.au/members/useful-articles/non-pbs-pharmaceutical-changes)
         * [Telehealth services](https://www.hbf.com.au/members/useful-articles/telehealth-treatments)
         * [Member assistance](https://www.hbf.com.au/members/member-assistance)
-        * [Suspension FAQs](https://www.hbf.com.au/members/useful-articles/suspension-faqs)
         * [General insurance changes](https://www.hbf.com.au/members/useful-articles/general-insurance-changes)
         
         [Close menu](javascript:;)
