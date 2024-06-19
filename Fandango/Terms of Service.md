@@ -18,14 +18,18 @@ Offers
 Go to previous offer
 
 *  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Get Deadpool's Premium Package** Including the Official Best Friends Necklaces!
-*  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **NBC's coverage of the Paris Olympics** Get tickets for live broadcasts in AMC Theatres!
+*  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Save $8 on Despicable Me and Minions Films** When you buy a ticket to Despicable Me 4
 *  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Buy a ticket to Illumination’s Despicable Me 4** Chance to win a Universal theme park vacation
 *  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Buy a ticket to Inside Out 2** Win a Pixar Fest trip for 4 at Pixar Place Hotel
-*  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Save $8 on Despicable Me and Minions Films** When you buy a ticket to Despicable Me 4
+*  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Join The Frontier Pass** For Horizon: An American Saga
+*  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **NBC's coverage of the Paris Olympics** Get tickets for live broadcasts in AMC Theatres!
+*  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Buy a ticket to A Quiet Place: Day 1** Get $5 off A Quiet Place 3-Movie Collection
 *  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Buy a ticket to Bad Boys: Ride or Die** Get $5 off the Bad Boys 4-Movie Collection
 *  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Buy a ticket to Deadpool & Wolverine** Get $12 off Deadpool 2-Film Collection
-*  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Get any select horror titles for $5 each** When you buy a ticket to Tarot
+*  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Buy select titles on Fandango at Home** Get $8 off Despicable Me 4 on Fandango!
+*  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Save on select movies** Learn more on this offer!
 *  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Gift, Give or Receive a ticket to The Forge** With The Kingdom Builders Gifted Ticket Program
+* **LEGOLANDOFFER 2024** Receive Promo Link with any ticket purchase
 
 Go to next offer
 
@@ -212,22 +216,6 @@ Offers
 
 [SEE ALL OFFERS](https://www.fandango.com/offers)
 
-* [GET DEADPOOL'S PREMIUM PACKAGE image link ![GET DEADPOOL'S PREMIUM PACKAGE](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/da59af90-13af-11ef-a14e-3f3f55d13640--fan-globalofferunit-homepage-deadpoolpackage-292x118.png)](https://deadpoolandwolverine.fandango.egifter.com/?cmp=TARS~FANDANGO~DeadpoolMicrosite_Footer) 
-    
-    ### GET DEADPOOL'S PREMIUM PACKAGE
-    
-    Includes 2 tickets to Deadpool & Wolverine, the Official Best Friends Necklaces, and more
-    
-    [BUY NOW](https://deadpoolandwolverine.fandango.egifter.com/?cmp=TARS~FANDANGO~DeadpoolMicrosite_Footer)
-    
-* [NBC'S COVERAGE OF THE PARIS OLYMPICS image link ![NBC'S COVERAGE OF THE PARIS OLYMPICS](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/717f5460-21fc-11ef-a07e-5b03d6159fe4--fan-globalofferunit-homepage-amcdailyolympics-292x118.png)](https://www.fandango.com/paris-olympics-on-nbc-at-amc-theatres-2024-236338/movie-overview?cmp=TARS~FANDANGO~AMCDailyOlympics_Footer) 
-    
-    ### NBC'S COVERAGE OF THE PARIS OLYMPICS
-    
-    Get tickets now for the live broadcasts in AMC Theatres!
-    
-    [BUY NOW](https://www.fandango.com/paris-olympics-on-nbc-at-amc-theatres-2024-236338/movie-overview?cmp=TARS~FANDANGO~AMCDailyOlympics_Footer)
-    
 * [WIN A PIXAR FEST TRIP FOR 4 AT PIXAR PLACE HOTEL image link ![WIN A PIXAR FEST TRIP FOR 4 AT PIXAR PLACE HOTEL](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/ab24a5a0-1156-11ef-a14e-3f3f55d13640--fan-globalofferunit-homepage-insideout2-292x118.png)](https://www.fandangomovietickets.com/fandangosnewemotionssweepstakes?cmp=TARS~FANDANGO~PixarPlaceSweeps_Footer) 
     
     ### WIN A PIXAR FEST TRIP FOR 4 AT PIXAR PLACE HOTEL
@@ -236,42 +224,58 @@ Offers
     
     [BUY A TICKET](https://www.fandangomovietickets.com/fandangosnewemotionssweepstakes?cmp=TARS~FANDANGO~PixarPlaceSweeps_Footer)
     
-* [SAVE $12 ON DEADPOOL 2-FILM COLLECTION image link ![SAVE $12 ON DEADPOOL 2-FILM COLLECTION](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/edee52f0-22c7-11ef-ab6e-6bc4e16d49df--fan-globalofferunit-homepage-deadpoolgwp-292x118.png)](https://www.fandangomovietickets.com/DeadpoolFAHGWP?cmp=TARS~FANDANGO~DeadpoolFAHGWP_Footer) 
+* [SAVE $5 ON BAD BOYS 4-MOVIE COLLECTION image link ![SAVE $5 ON BAD BOYS 4-MOVIE COLLECTION](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/501c40f0-242a-11ef-a588-3b078e6b3d8a--fan-globalofferunit-homepage-badboys4-gwp-292x118.png)](https://www.fandangomovietickets.com/BadBoys4GWP?cmp=TARS~FANDANGO~BadBoys4GWP_Footer) 
     
-    ### SAVE $12 ON DEADPOOL 2-FILM COLLECTION
+    ### SAVE $5 ON BAD BOYS 4-MOVIE COLLECTION
     
-    Buy a ticket to Deadpool & Wolverine on Fandango and get $12 off the Deadpool 2-Movie Collection
+    Buy a ticket to Bad Boys: Ride or Die on Fandango and get $5 off the Bad Boys 4-Movie Collection
     
-    [BUY TICKETS](https://www.fandangomovietickets.com/DeadpoolFAHGWP?cmp=TARS~FANDANGO~DeadpoolFAHGWP_Footer)
+    [BUY TICKETS](https://www.fandangomovietickets.com/BadBoys4GWP?cmp=TARS~FANDANGO~BadBoys4GWP_Footer)
+    
+* [JOIN THE FRONTIER PASS FOR HORIZON: AN AMERICAN SAGA image link ![JOIN THE FRONTIER PASS FOR HORIZON: AN AMERICAN SAGA](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/f10d1220-2838-11ef-ab6e-6bc4e16d49df--fan-globalofferunit-homepage-horizon-292x118.png)](https://links.fandango.com/join/68x/horizon?cmp=TARS~FANDANGO~HorizonCh1FrontierPass_footer) 
+    
+    ### JOIN THE FRONTIER PASS FOR HORIZON: AN AMERICAN SAGA
+    
+    For new content, deals, and more!
+    
+    [SIGN UP](https://links.fandango.com/join/68x/horizon?cmp=TARS~FANDANGO~HorizonCh1FrontierPass_footer)
+    
+* [$1 FAMILY MOVIES AT REGAL image link ![$1 FAMILY MOVIES AT REGAL](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/0b5522c0-2a6f-11ef-ab6e-6bc4e16d49df--fan-globalofferunit-regal-292x118.jpg)](https://www.fandango.com/32804_movietimes?ccode=REGL&chainID=REGL) 
+    
+    ### $1 FAMILY MOVIES AT REGAL
+    
+    Every Tuesday and Wednesday at 11am.
+    
+    [BUY TICKETS](https://www.fandango.com/32804_movietimes?ccode=REGL&chainID=REGL)
     
 
 New & Coming soon
 -----------------
 
+* [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/234178/insideout2-posterart.jpg)
+    
+    Inside Out 2 (2024)](https://www.fandango.com/inside-out-2-2024-234178/movie-overview)
 * [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/234516/FND_poster_DeadpoolWolverine_fighting-Presale.jpg)
     
     Deadpool & Wolverine (2024)](https://www.fandango.com/deadpool-and-wolverine-2024-234516/movie-overview)
 * [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/234517/FND_poster_DespicableMe4-Presale.jpg)
     
     Despicable Me 4 (2024)](https://www.fandango.com/despicable-me-4-2024-234517/movie-overview)
-* [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/234520/FND_poster_QuietPlaceDayOne-Presale.jpg)
+* [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/229305/FND_poster_MaXXXine-Presale.jpg)
     
-    A Quiet Place: Day One (2024)](https://www.fandango.com/a-quiet-place-day-one-2024-234520/movie-overview)
-* [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/234178/FND_poster_InsideOut2-Presale.jpg)
-    
-    Inside Out 2 (2024)](https://www.fandango.com/inside-out-2-2024-234178/movie-overview)
-* [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/234402/FRIOSA_VERT_MAIN_2764x4096_DOM.jpg)
-    
-    Furiosa: A Mad Max Saga (2024)](https://www.fandango.com/furiosa-a-mad-max-saga-2024-234402/movie-overview)
-* [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/234526/TheWatchers_final.jpg)
-    
-    The Watchers (2024)](https://www.fandango.com/the-watchers-2024-234526/movie-overview)
-* [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/234221/GF_OnLine_6072x9000_Chilling_02.jpg)
-    
-    The Garfield Movie (2024)](https://www.fandango.com/the-garfield-movie-2024-234221/movie-overview)
+    MaXXXine (2024)](https://www.fandango.com/maxxxine-2024-229305/movie-overview)
 * [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/234522/BB4_OnLine_1400x2100_04.jpg)
     
     Bad Boys: Ride or Die (2024)](https://www.fandango.com/bad-boys-ride-or-die-2024-234522/movie-overview)
+* [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/234520/FND_poster_QuietPlaceDayOne-Presale.jpg)
+    
+    A Quiet Place: Day One (2024)](https://www.fandango.com/a-quiet-place-day-one-2024-234520/movie-overview)
+* [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/234787/FND_poster_HorizonNew-Presale.jpg)
+    
+    Horizon: An American Saga Chapter 1 (2024)](https://www.fandango.com/horizon-an-american-saga-chapter-1-2024-234787/movie-overview)
+* [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/234221/GF_OnLine_6072x9000_Chilling_02.jpg)
+    
+    The Garfield Movie (2024)](https://www.fandango.com/the-garfield-movie-2024-234221/movie-overview)
 
 ### Experience + Explore
 
@@ -352,15 +356,15 @@ Close
 
 Deadpool’s Premium Package is non-refundable. While supplies last. Tickets are non-refundable and non-exchangeable. You must be 18 years of age or older to purchase a package. See Offer Terms for full terms and conditions for each item included in Deadpool’s Premium Package, including full rules for the sweepstakes. [Buy Now](https://www.fandango.com/deadpoolandwolverine?cmp=TARS~FANDANGO~DeadpoolMicrosite_GlobalNav)
 
-### Special Event
+### Special Offer
 
 Close
 
-![NBC's coverage of the Paris Olympics](https://images.fandango.com/cms/assets/ffcab640-1939-11ef-a07e-5b03d6159fe4--fan-globalnavbar-amcdailyolympics-343x362.jpg)
+![Save $8 on Despicable Me and Minions Films](https://images.fandango.com/cms/assets/0d1e5ca0-2201-11ef-a588-3b078e6b3d8a--fan-globalnavbar-despicableme4gwp-343x362.jpg)
 
-#### Get tickets to see NBC's coverage of the Paris Olympics, broadcasted live in AMC Theatres!
+#### Buy a ticket to Despicable Me 4 from June 5 - July 15 for $8 off t $8 off Despicable Me, Despicable Me 2, Despicable Me 3, Minions, & Minions: The Rise of Gru. Promo code expires on July 20, 2024.
 
-[Buy Tickets](https://www.fandango.com/paris-olympics-on-nbc-at-amc-theatres-2024-236338/movie-overview?cmp=TARS~FANDANGO~AMCDailyOlympics_GlobalNav)
+\*Limited time offer. Purchase one or more movie tickets to see ‘Despicable Me 4’ using your account on Fandango.com or the Fandango app between 9:00am PT on 6/5/24 and 11:59pm PT on 7/15/24 (the “Offer Period”) and receive a post-purchase email containing one (1) Fandango at Home Promotional Code (“Code”) that, once activated, is good for $8 off the purchase (and not the rental) of the Despicable Me and Minions films (including Despicable Me, Despicable Me 2, Despicable Me 3, Minions, & Minions: The Rise of Gru) in My Offers in your account on http://fandangoathome.com and via participating Fandango at Home apps. Code expires on (and must be used by) 7/20/24 at 11:59pm PT. You must have, and be logged into, your Fandango account at time of ticket purchase to receive a Code. Fandango is free to join; you must be 18 years of age to open a Fandango account. Limit one Code per movie ticket purchase. You may have to pay taxes additionally. Void where prohibited. Offer is non-transferable and cannot be combined with any other offer or discount. No cash value, except as required by law. Not for resale; void if sold or exchanged. Offer valid in the U.S. only. You must have a Fandango at Home account to redeem your Code on Fandango at Home. Fandango at Home is free to join; you must be 18 years of age or older to open a Fandango at Home account. Credit card may be required for transactions on fandangoathome.com. Fandango reserves the right to modify or cancel this offer at any time and without notice. This offer and redemption of the Code is subject to Fandango’s Terms and Policies and Privacy Policy at https://www.fandango.com/policies/terms-and-policies. [Buy Tickets](https://www.fandangomovietickets.com/DM4FAHGWPOffer?cmp=TARS~FANDANGO~DM4GWP_GlobalNav)
 
 ### Chance to win a Universal theme park vacation
 
@@ -386,11 +390,31 @@ NO PURCHASE OR APP NECESSARY. Open to legal residents of the 50 United States an
 
 Close
 
-![Save $8 on Despicable Me and Minions Films](https://images.fandango.com/cms/assets/0d1e5ca0-2201-11ef-a588-3b078e6b3d8a--fan-globalnavbar-despicableme4gwp-343x362.jpg)
+![Join The Frontier Pass](https://images.fandango.com/cms/assets/ad65bf50-283c-11ef-a588-3b078e6b3d8a--fan-globalnavbar-horizon-343x362.jpg)
 
-#### Buy a ticket to Despicable Me 4 from June 5 - July 15 for $8 off t $8 off Despicable Me, Despicable Me 2, Despicable Me 3, Minions, & Minions: The Rise of Gru. Promo code expires on July 20, 2024.
+#### Join the Frontier Pass for Horizon: An American Saga for new content, deals, and more!
 
-\*Limited time offer. Purchase one or more movie tickets to see ‘Despicable Me 4’ using your account on Fandango.com or the Fandango app between 9:00am PT on 6/5/24 and 11:59pm PT on 7/15/24 (the “Offer Period”) and receive a post-purchase email containing one (1) Fandango at Home Promotional Code (“Code”) that, once activated, is good for $8 off the purchase (and not the rental) of the Despicable Me and Minions films (including Despicable Me, Despicable Me 2, Despicable Me 3, Minions, & Minions: The Rise of Gru) in My Offers in your account on http://fandangoathome.com and via participating Fandango at Home apps. Code expires on (and must be used by) 7/20/24 at 11:59pm PT. You must have, and be logged into, your Fandango account at time of ticket purchase to receive a Code. Fandango is free to join; you must be 18 years of age to open a Fandango account. Limit one Code per movie ticket purchase. You may have to pay taxes additionally. Void where prohibited. Offer is non-transferable and cannot be combined with any other offer or discount. No cash value, except as required by law. Not for resale; void if sold or exchanged. Offer valid in the U.S. only. You must have a Fandango at Home account to redeem your Code on Fandango at Home. Fandango at Home is free to join; you must be 18 years of age or older to open a Fandango at Home account. Credit card may be required for transactions on fandangoathome.com. Fandango reserves the right to modify or cancel this offer at any time and without notice. This offer and redemption of the Code is subject to Fandango’s Terms and Policies and Privacy Policy at https://www.fandango.com/policies/terms-and-policies. [Buy Tickets](https://www.fandangomovietickets.com/DM4FAHGWPOffer?cmp=TARS~FANDANGO~DM4GWP_GlobalNav)
+By clicking Sign Up below you agree to receive promotional Frontier Pass emails for Horizon: An American Saga Chapter 1 and Chapter 2! By electing to receive emails, you agree to the Privacy Policy and the Terms and Policies. [Sign Up](https://links.fandango.com/join/68x/horizon?cmp=TARS~FANDANGO~HorizonCh1FrontierPass_globalnav)
+
+### Special Event
+
+Close
+
+![NBC's coverage of the Paris Olympics](https://images.fandango.com/cms/assets/ffcab640-1939-11ef-a07e-5b03d6159fe4--fan-globalnavbar-amcdailyolympics-343x362.jpg)
+
+#### Get tickets to see NBC's coverage of the Paris Olympics, broadcasted live in AMC Theatres!
+
+[Buy Tickets](https://www.fandango.com/paris-olympics-on-nbc-at-amc-theatres-2024-236338/movie-overview?cmp=TARS~FANDANGO~AMCDailyOlympics_GlobalNav)
+
+### Special Offer
+
+Close
+
+![Buy a ticket to A Quiet Place: Day 1](https://images.fandango.com/cms/assets/993a5240-24ed-11ef-ab6e-6bc4e16d49df--fan-globalnavbar-aquietplace-gwp-343x362.jpg)
+
+#### Buy a ticket to A Quiet Place: Day One on Fandango and get $5 off A Quiet Place 3-Movie Collection Pre-Order
+
+Limited time offer. Fandango movie ticket purchase to ‘A Quiet Place: Day One’ must be made between 12:01am PT on 6/11/24 and 11:59pm PT on 7/8/24 (the “Offer Period”). Purchaser will receive a post purchase email containing 1 Fandango at Home Promotional Code (“Code”) that is good for the purchase (and not the rental) of A Quiet Place 3-Movie Collection for $29.99 in My Offers in your account on http://FandangoatHome.com and via participating Fandango at Home apps. When you purchase the bundle, you will receive viewing access to A Quiet Place and A Quiet Place Part II immediately, and will have a pre-order for A Quiet Place: Day One so that you can view it when the studio makes it available. Code expires on (and must be used by) 7/15/24 at 11:59pm PT. Limit one per transaction. You may have to pay taxes additionally. One-time use only. Void where prohibited. Offer is non-transferable and cannot be combined with any other offer or discount. No cash value, except as required by law. Not for resale; void if sold or exchanged. Offer valid in the U.S. only. You must have a Fandango at Home account to redeem your Code on Fandango at Home. Fandango at Home is free to join; you must be 18 years of age or older to open a Fandango at Home account. Credit card may be required for transactions on FandangoatHome.com. Fandango at Home reserves the right to modify or cancel this offer at any time and without notice. This offer is subject to Fandango at Home Terms and Policies and Privacy Policy at Terms and Policies at http://www.fandango.com/terms-and-policies. [Buy Tickets](https://www.fandangomovietickets.com/QuietPlaceDayOneGWP?cmp=TARS~FANDANGO~QuietPlaceDayOneGWP_GlobalNav)
 
 ### Save $5 on Bad Boys 4-Movie Collection
 
@@ -416,11 +440,21 @@ Limited time offer. Fandango movie ticket purchase to ‘Deadpool & Wolverine’
 
 Close
 
-![Get any select horror titles for $5 each](https://images.fandango.com/cms/assets/7504ace0-0337-11ef-a14e-3f3f55d13640--fan-globalnavbar-tarot-343x362.jpg)
+![Buy select titles on Fandango at Home](https://images.fandango.com/cms/assets/15a834d0-2a9a-11ef-a588-3b078e6b3d8a--fan-globalnavbar-despicableme4-343x362.jpg)
 
-#### Buy a ticket to Tarot from April 30 - June 17 to get any select Horror titles for $5 each. Promo code expires on June 22.
+#### Save on select movies and get up to $8.00 towards a movie ticket\* to see Despicable Me 4 in theaters.
 
-\*Limited time offer. Purchase one or more movie tickets to see ‘Tarot’ using your account on Fandango.com or the Fandango app between 6:00am PT on 4/30/24 and 11:59pm PT on 6/17/24 (the “Offer Period”) and receive a post-purchase email containing 1 Fandango at Home Promotional Code (“Code”) that, once activated, is good for a purchase (and not the rental) of any or all of these titles for $5 each: Don't Breathe, Don't Breathe 2, Insidious, Insidious: Chapter 2, Insidious: Chapter 3, Insidious: The Last Key, Insidious: The Red Door, Thanksgiving (2023), The Exorcism of Emily Rose, Escape Room (2019), Escape Room: Tournament of Champions, Evil Dead (2013), The Evil Dead (1981), The Pope's Exorcist, The Grudge 2 (2006), The Grudge (2020), Missing (2023), Searching (2018), The Craft: Legacy, and The Craft, in My Offers in your account on http://fandangoathome.com and via participating Fandango at Home apps. Code expires on (and must be used by) 11:59pm PT on 6/22/24. You must have, and be logged into, your Fandango account at time of ticket purchase to receive a Code. Fandango is free to join; you must be 18 years of age to open a Fandango account. Limit one Code per movie ticket purchase; Code may be used multiple times in My Offers to purchase each title listed above. You may have to pay taxes additionally. Void where prohibited. Offer is non-transferable and cannot be combined with any other offer or discount. No cash value, except as required by law. Not for resale; void if sold or exchanged. Offer valid in the U.S. only. You must have a Fandango at Home account to redeem your Code on Fandango at Home. Fandango at Home is free to join; you must be 18 years of age or older to open a Fandango at Home account. Credit card may be required for transactions on FandangoAtHome.com. Fandango reserves the right to modify or cancel this offer at any time and without notice. This offer and the redemption of the Code is subject to Fandango’s Terms and Policies and Privacy Policy at https://www.fandango.com/policies/terms-and-policies. [Buy Tickets](https://www.fandangomovietickets.com/tarotfandangogwpoffer?cmp=TARS~FANDANGO~TarotFandangoGWP_GlobalNav)
+\*Purchase any of the titles (in any format) listed at https://www.vudu.com/content/movies/uxrow/collection/21609 on Fandango at Home or via participating Fandango at Home apps between 12:01 am PT on 6/18/2024 and 11:59 pm PT on 7/8/2024 and receive a Fandango Promotional Code ("Code") good towards the purchase of one movie ticket (up to $8 total ticket price and associated fees and charges) to see Despicable Me 4 at Fandango partner theaters in the US. Code is void if not redeemed by 7/29/24 or when Despicable Me 4 is no longer in theaters, whichever comes first. Only valid for purchase of movie tickets made at Fandango.com or via the Fandango app and cannot be redeemed directly at any theater box office. If lost or stolen, cannot be replaced. No cash value, except as required by law. Void where prohibited. Not valid with any other offer. Offer valid in U.S. and D.C., excluding U.S. territories and where prohibited by law. One-time use only. Not for resale; void if sold or exchanged. One Code per transaction. If cost of movie ticket and associated fees and charges are more than maximum value of the Code, then user must pay the difference. Any price difference between movie ticket purchased and maximum value of the Code will not be refunded. The redemption of the Code is subject to Fandango's Terms and Policies at https://www.fandango.com/policies/terms-and-policies. [Learn More](https://www.watchfandangoathome.com/DM4?cmp=TARS~FANDANGO~RewardsDM4Promo_GlobalNav)
+
+### Special Offer
+
+Close
+
+![Save on select movies](https://images.fandango.com/cms/assets/f18614c0-24ed-11ef-a588-3b078e6b3d8a--fan-globalnavbar-aquietplace-343x362.jpg)
+
+#### Save on select movies and get up to $5.00 towards a movie ticket\* to see A Quiet Place: Day One in theaters.
+
+\*Purchase any of the titles (in any format) listed at https://www.vudu.com/content/movies/uxrow/A-Quiet-Place-Day-One-MCO/21517 on Fandango at Home or via participating Fandango at Home apps between 12:01 am PT on 6/11/2024 and 11:59 pm PT on 7/1/2024 and receive a Fandango Promotional Code ("Code") good towards the purchase of one movie ticket (up to $5 total ticket price and associated fees and charges) to see A Quiet Place: Day One at Fandango partner theaters in the US. Code is void if not redeemed by 7/22/24 or when A Quiet Place: Day One is no longer in theaters, whichever comes first. Only valid for purchase of movie tickets made at Fandango.com or via the Fandango app and cannot be redeemed directly at any theater box office. If lost or stolen, cannot be replaced. No cash value, except as required by law. Void where prohibited. Not valid with any other offer. Offer valid in U.S. and D.C., excluding U.S. territories and where prohibited by law. One-time use only. Not for resale; void if sold or exchanged. One Code per transaction. If cost of movie ticket and associated fees and charges are more than maximum value of the Code, then user must pay the difference. Any price difference between movie ticket purchased and maximum value of the Code will not be refunded. The redemption of the Code is subject to Fandango's Terms and Policies at https://www.fandango.com/policies/terms-and-policies. [Learn More](https://www.watchfandangoathome.com/aquietplace?cmp=TARS~FANDANGO~RewardAQP_GlobalNav)
 
 ### Fandango offer: Gift, Give or Receive a ticket to The Forge
 
@@ -431,3 +465,13 @@ Close
 #### Buy a ticket for yourself and everyone else you want to share the movie with through The Kingdom Builders Gifted Ticket Program.
 
 See Terms at https://theforge.egifter.com/offer-terms. [Give and Get Tickets](https://theforge.egifter.com/?cmp=TARS~FANDANGO~TheForgeGiftedTicket_globalnav)
+
+SPECIAL OFFER
+
+Close ![LEGOLANDOFFER 2024](https://images.fandango.com/images/offers/489/1/FAN_MOPLightboxUnit_Desktop_Legoland_620x350_lg.jpg)
+
+#### Purchase a ticket with Fandango and get one free admission ticket to LEGOLAND® with the purchase of a full-price adult ticket. \*Limited time offer. Terms apply.
+
+Not a member? Join now or during checkout - it's free!
+
+"Limited time offer. Buy a ticket to any movie on Fandango.com or via the Fandango app between 12:01am PT on June 14, 2024, and 11:59pm PT on August 4, 2024, to receive a link from Fandango via email. The link will allow you to receive one (1) free ticket with a paid adult full-price admission ticket to a LEGOLAND® California, Florida, or New York Resort; or to a LEGOLAND Discovery Center, LEGO Discovery Center, SEA LIFE Aquarium or Madame Tussauds in North America.. LEGOLAND California offer valid on a One-Day Hopper Ticket to LEGOLAND California and SEA LIFE Aquarium or to LEGOLAND California and LEGOLAND California Water Park. LEGOLAND Florida offer valid on a One- Day General Admission Theme Park and Water Park Combo Ticket. LEGOLAND New York offer valid on One-Day General Admission Theme Park Ticket. LEGOLAND New York is a seasonal attraction. The link will expire on December 31, 2024. Availability of offer tickets may be limited on weekends. LEGOLAND attractions are closed on select weekdays. See Operating Days and Hours online. Blackout dates and capacity restrictions may apply to this offer. Offer can only be used online and cannot be applied to tickets bought by phone, pre-purchased discounted tickets or combined with any other discounts or offers. Additional restrictions may apply. Not for resale. The right of final interpretation resides with the applicable attraction. LEGO, the LEGO logo, the Brick and Knob configurations, the Minifigure and LEGOLAND are trademarks of the LEGO Group. ©2024 The LEGO Group. LEGOLAND, SEA LIFE and Madame Tussauds are part of Merlin Entertainments Ltd "
