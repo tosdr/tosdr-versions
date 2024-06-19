@@ -24,7 +24,7 @@
         * [Author Discord](https://discord.gg/curseforge)
     * [Game Servers](#)
         * [Monetize your server](https://www.tebex.io/)
-    * [GAMING WEBSITE](#)
+    * [Gaming Website](#)
         * [Monetize your websites](https://nitropay.com/)
     * [Services](#)
         * [Accelerator](https://www.overwolf.com/acceleration)
