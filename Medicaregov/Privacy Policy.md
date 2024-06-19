@@ -265,7 +265,6 @@ Site Menu
 
 * [What Medicare covers](https://www.medicare.gov/what-medicare-covers "What Medicare covers")
 * [Drug coverage (Part D)](https://www.medicare.gov/drug-coverage-part-d "Drug coverage (Part D)")
-* [Supplements & other insurance](https://www.medicare.gov/supplements-other-insurance "Supplements & other insurance")
 * [Claims & appeals](https://www.medicare.gov/claims-appeals "Claims & appeals")
 * [Manage your health](https://www.medicare.gov/manage-your-health "Manage your health")
 * [Site map](https://www.medicare.gov/sitemap "Site map")
