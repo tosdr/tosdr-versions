@@ -4,7 +4,7 @@ Go directly to:
 * [Go directly to: Content](https://www.rabobank.com/privacy#content)
 * [Go directly to: Footer](https://www.rabobank.com/privacy#footer)
 
-[![Rabo logo](https://media.rabobank.com/m/5c0d2c496819b02f/original/Rabobank-text-logo.png)](https://www.rabobank.com/ "to homepage")
+[to homepage](https://www.rabobank.com/ "to homepage")
 
 * Products
     
