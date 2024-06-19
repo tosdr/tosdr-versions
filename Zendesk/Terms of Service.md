@@ -312,6 +312,8 @@ Company
 * [Contact us](https://www.zendesk.com/contact/)
 * [Site map](https://www.zendesk.com/sitemap/)
 * [Systems status](https://status.zendesk.com/)
+* [Zendesk Foundation](https://www.zendesk.org/)
+* [Zendesk Ventures](https://www.zendesk.com/ventures/)
 * [Legal](https://www.zendesk.com/company/legal/)
 
 Favourite Things
