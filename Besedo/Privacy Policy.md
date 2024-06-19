@@ -21,6 +21,7 @@
 * [Use Cases](https://besedo.com/use-cases/)
 * [Blog](https://besedo.com/blog/)
 * [Resources](https://besedo.com/knowledge-hub/)[](#)
+    * [Podcast](https://besedo.com/podcast/)
     * [Webinars](https://besedo.com/knowledge-hub/library-overview/webinars/)
     * [eBooks](https://besedo.com/knowledge-hub/library-overview/ebooks/)
     * [Presentations](https://besedo.com/knowledge-hub/library-overview/presentations/)
