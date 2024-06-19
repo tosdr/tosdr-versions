@@ -26,8 +26,6 @@ Open menu
     * [Tutorials](https://www.ovhcloud.com/en-ie/community/tutorials/)
     * [Use cases](https://www.ovhcloud.com/en-ie/use-cases/)
     * [Learn](https://www.ovhcloud.com/en-ie/learn/)
-    * [Cloud Security](https://www.ovhcloud.com/en-ie/cloud-security/)
-    * [Manifesto](https://www.ovhcloud.com/en-ie/lp/manifesto/)
 * [OVHcloud Blog](https://blog.ovhcloud.com/ "OVHcloud Blog")
 *  ![](/7af16cdb/contrib/ovh_theme_patternlab/images/language-switcher/flags/en-ie.svg) Ireland \[€\]
     
@@ -156,6 +154,7 @@ Log in to order, manage your products and services, and track your orders.
             
         * VPS - Virtual Private Servers
             
+            * [VPS New](https://www.ovhcloud.com/en-ie/vps/) New VPS — with twice the cores — at the most competitive price on the market! Based on AMD EPYC platforms.
             * [Distributions and licences](https://www.ovhcloud.com/en-ie/vps/os/) See all our distributions and licences
             * [Help](https://docs.ovh.com/ie/en/vps/)
     * [Managed Bare Metal](https://www.ovhcloud.com/en-ie/managed-bare-metal/)
@@ -209,9 +208,9 @@ Log in to order, manage your products and services, and track your orders.
         * Identity, Security & Operations
             
             * Identity and Access Management (IAM) Secure your access management and enhance your productivity
-    * [SecNumCloud](https://www.ovhcloud.com/en-ie/enterprise/products/secnumcloud/)
+    * [SecNumCloud](https://www.ovhcloud.com/en-ie/solutions/uc-secnumcloud-environment/)
         * Back to menu
-        * [SecNumCloud](https://www.ovhcloud.com/en-ie/enterprise/products/secnumcloud/)
+        * [SecNumCloud](https://www.ovhcloud.com/en-ie/solutions/uc-secnumcloud-environment/)
             
         * SecNumCloud
             
@@ -326,6 +325,7 @@ Log in to order, manage your products and services, and track your orders.
             * [Compliance & Certifications](https://www.ovhcloud.com/en-ie/enterprise/certification-conformity/) Explore how OVHcloud builds trusted solutions
             * Trusted Zones Deploy your critical data in high-security zones
             * [Availability by region](https://www.ovhcloud.com/en-ie/public-cloud/regions-availability/) Explore our catalogue coverage by region
+            * [Local Zone New](https://www.ovhcloud.com/en-ie/about-us/global-infrastructure/local-zone/) Deploy cloud services closer to your users
             * Our documentation Read our guides and tutorials
     * [Compute](https://www.ovhcloud.com/en-ie/public-cloud/compute/)
         * Back to menu
@@ -341,7 +341,7 @@ Log in to order, manage your products and services, and track your orders.
             * [Discovery](https://www.ovhcloud.com/en-ie/public-cloud/sandbox/) Get started with Public Cloud instances with shared resources
             * [Metal Instances](https://www.ovhcloud.com/en-ie/public-cloud/metal-instances/) Combine the power of Bare Metal with cloud automation
             * Our documentation Browse our documentation for the Compute range
-            * [Local Zone Compute New](https://www.ovhcloud.com/en-ie/public-cloud/local-zone-compute/) The power of premium servers, the flexibility of the Public Cloud close to where you need it.
+            * [Local Zone New](https://www.ovhcloud.com/en-ie/about-us/global-infrastructure/local-zone/) Deploy cloud services closer to your users
     * [Storage](https://www.ovhcloud.com/en-ie/public-cloud/storage/)
         * Back to menu
         * [Storage](https://www.ovhcloud.com/en-ie/public-cloud/storage/)
@@ -355,7 +355,7 @@ Log in to order, manage your products and services, and track your orders.
             * [Volume Backup](https://www.ovhcloud.com/en-ie/public-cloud/volume-backup/) Back up your Block Storage volumes. The backed-up data is stored on our Object Storage service
             * [Instance Backup](https://www.ovhcloud.com/en-ie/public-cloud/instance-backup/) Get a backup service for your instances
             * [Our documentation](https://docs.ovh.com/ie/en/public-cloud/) Browse our documentation for the Storage range
-            * [Local Zone Storage New](https://www.ovhcloud.com/en-ie/public-cloud/local-zone-storage/) Secure and flexible storage volumes available on demand close to where you need it.
+            * [Local Zone New](https://www.ovhcloud.com/en-ie/about-us/global-infrastructure/local-zone/) Deploy cloud services closer to your users
     * [Network](https://www.ovhcloud.com/en-ie/public-cloud/network/)
         * Back to menu
         * [Network](https://www.ovhcloud.com/en-ie/public-cloud/network/)
@@ -412,7 +412,7 @@ Log in to order, manage your products and services, and track your orders.
         * Back to menu
         * [Data Platform](https://www.ovhcloud.com/en-ie/public-cloud/data-platform/)
             
-        * Data Platform
+        * Data Platform Browse all our Data Platform products
             
             * [Data Catalog Bêta](https://www.ovhcloud.com/en-ie/public-cloud/data-catalog/) Data Platform central repository for managing all data sources: connect, analyse and add blueprint rules.
             * [Data Processing Engine Bêta](https://www.ovhcloud.com/en-ie/public-cloud/data-processing-engine/) Data Platform automation service: transform data, run and orchestrate production-grade ETL/ELT workflows.
@@ -452,14 +452,6 @@ Log in to order, manage your products and services, and track your orders.
         * Identity, Security & Operations
             
             * Identity and Access Management (IAM) Secure your access management and improve your productivity
-    * [Local Zone New](https://www.ovhcloud.com/en-ie/public-cloud/local-zone/)
-        * Back to menu
-        * [Local Zone](https://www.ovhcloud.com/en-ie/public-cloud/local-zone/)
-            
-        * Local Zone [Discover Local Zone](https://www.ovhcloud.com/en-ie/public-cloud/local-zone/)
-            
-            * [Local Zone Compute](https://www.ovhcloud.com/en-ie/public-cloud/local-zone-compute/) The power of premium servers, the flexibility of the Public Cloud close to where you need it.
-            * [Local Zone Storage](https://www.ovhcloud.com/en-ie/public-cloud/local-zone-storage/) Secure and flexible storage volumes available on demand close to where you need it.
 * [Hosted Private Cloud](https://www.ovhcloud.com/en-ie/hosted-private-cloud/)
     * Back to menu
     * [Hosted Private Cloud](https://www.ovhcloud.com/en-ie/hosted-private-cloud/)
@@ -481,7 +473,7 @@ Log in to order, manage your products and services, and track your orders.
             * Datacentre extension and migration
             * Hybrid and Multi-Cloud Solutions
             * Disaster recovery solutions
-            * [European Trusted Zone Solutions](https://www.ovhcloud.com/en-ie/enterprise/trusted-zone/)
+            * [European Trusted Zone Solutions](https://www.ovhcloud.com/en-ie/solutions/uc-trusted-zone/)
             * View all solutions
     * [Nutanix](https://www.ovhcloud.com/en-ie/hosted-private-cloud/nutanix/)
         * Back to menu
@@ -520,6 +512,7 @@ Log in to order, manage your products and services, and track your orders.
             * PCI DSS Financial data hosting
             * ISO/IEC 27001, 27017 and 27018 Information Security Management
             * ISO/IEC 27701 Managing the security of personal data processing
+            * [ISO 50001](https://www.ovhcloud.com/en-ie/enterprise/certification-conformity/iso-50001/) Energy management
             * SOC 1, 2 and 3 AICPA SSAE 16/ISAE 3402 type II attestation and reports
             * EBA and ACPR Compliance for financial services operators in Europe
             * G-Cloud Public sector cloud service delivery in the UK
@@ -551,69 +544,79 @@ Log in to order, manage your products and services, and track your orders.
         * Identity, Security & Operations
             
             * [Identity and Access Management (IAM)](https://www.ovhcloud.com/en-ie/identity-security/identity-access-management/) Secure your access management and enhance your productivity
-* [Enterprise](https://www.ovhcloud.com/en-ie/enterprise/)
+* [Solutions](https://www.ovhcloud.com/en-ie/solutions/)
     * Back to menu
-    * [Enterprise](https://www.ovhcloud.com/en-ie/enterprise/)
+    * [Solutions](https://www.ovhcloud.com/en-ie/solutions/)
         
-    * Solutions by industry
-        
-        * Back to menu
-        * Solutions by industry
-        * Solutions by industry [Explore our solutions](https://www.ovhcloud.com/en-ie/enterprise/solutions/certified-cloud-solutions/)
-            
-            * [Industrial sensitive data](https://www.ovhcloud.com/en-ie/enterprise/solutions/certified-cloud-solutions/industrial-sector-data-hosting/) The trusted cloud solution for European manufacturers
-            * [Public sector](https://www.ovhcloud.com/en-ie/enterprise/solutions/certified-cloud-solutions/public-sector-data-hosting-sovereignty/) The trusted cloud solution for local authorities and governments
-            * [Healthcare sector](https://www.ovhcloud.com/en-ie/enterprise/solutions/certified-cloud-solutions/healthcare-data-hosting-hds/) The trusted cloud solution for healthcare professionals
-            * [Financial services sector](https://www.ovhcloud.com/en-ie/enterprise/solutions/certified-cloud-solutions/financial-data-hosting-pci-dss/) The trusted cloud solution for banks and fintech companies
-        * Quick Access
-            
-            * [HDS and healthcare data](https://www.ovhcloud.com/en-ie/enterprise/certification-conformity/hds/)
-            * [PCI DSS: banking data](https://www.ovhcloud.com/en-ie/enterprise/certification-conformity/pci-dss/)
-            * [SecNumCloud Security Visa](https://www.ovhcloud.com/en-ie/enterprise/certification-conformity/secnumcloud/)
-            * More Information about OVHcloud
-    * Support and services
+    * Use Cases
         
         * Back to menu
-        * Support and services
-        * Support and services [Compare our support levels](https://www.ovhcloud.com/en-ie/support-levels/plans/)
+        * Use Cases
+        * Use Cases
             
-            * [OVHcloud support levels](https://www.ovhcloud.com/en-ie/support-levels/) Technical support to fit your needs
-            * [Business Support](https://www.ovhcloud.com/en-ie/support-levels/business/) The right level of support for production environments
-            * [Enterprise Support](https://www.ovhcloud.com/en-ie/support-levels/enterprise/) Key experience for critical production environments
-            * [Professional Services](https://www.ovhcloud.com/en-ie/professional-services/) Consulting and training services for your business transformation
-    * SecNumCloud
+            * [Migrate to the cloud](https://www.ovhcloud.com/en-ie/solutions/uc-cloud-migration/)
+            * [Hybrid cloud & Multi Cloud](https://www.ovhcloud.com/en-ie/solutions/uc-hybrid-multi-cloud/)
+            * [App Modernization](https://www.ovhcloud.com/en-ie/solutions/uc-app-modernization/)
+            * [Cloud Native App](https://www.ovhcloud.com/en-ie/solutions/uc-cloud-native-app/)
+            * [Artificial Intelligence](https://www.ovhcloud.com/en-ie/solutions/uc-artificial-intelligence/)
+            * [Big Data Analytics](https://www.ovhcloud.com/en-ie/solutions/uc-big-data-analytics/)
+            * [Data Management](https://www.ovhcloud.com/en-ie/solutions/uc-data-management/)
+            * [High-Performance Workloads](https://www.ovhcloud.com/en-ie/solutions/uc-high-performance-workloads/)
+            * [Large Data set storage](https://www.ovhcloud.com/en-ie/solutions/uc-storage-large-data-sets/)
+            * [Grid Computing](https://www.ovhcloud.com/en-ie/bare-metal/uc-grid-computing/)
+            * [Move to PaaS](https://www.ovhcloud.com/en-ie/solutions/uc-discover-paas/)
+            * [Disaster Recovery](https://www.ovhcloud.com/en-ie/solutions/uc-disaster-recovery/)
+            * [Business Continuity](https://www.ovhcloud.com/en-ie/solutions/uc-business-continuity/)
+            * [White label cloud](https://www.ovhcloud.com/en-ie/solutions/uc-white-label-cloud/)
+            * [Trusted Zone](https://www.ovhcloud.com/en-ie/solutions/uc-trusted-zone/)
+            * [SecNumCloud Environment](https://www.ovhcloud.com/en-ie/solutions/uc-secnumcloud-environment/)
+            * [Cloud Security](https://www.ovhcloud.com/en-ie/solutions/uc-cloud-security/)
+            * [Extension & Migration Datacenter](https://www.ovhcloud.com/en-ie/solutions/uc-datacenter-extension-migration/)
+            * [Datacenter transformation](https://www.ovhcloud.com/en-ie/solutions/uc-datacenter-transformation/)
+            * [Elevate your brand reputation](https://www.ovhcloud.com/en-ie/solutions/uc-elevate-brand-reputation-online/)
+            * [Prioritise financial stability](https://www.ovhcloud.com/en-ie/solutions/uc-financial-stability-digital-solutions/)
+            * [Protect your business against cyberthreats](https://www.ovhcloud.com/en-ie/solutions/uc-protect-business-against-cyberthreats/)
+    * [Industry](https://www.ovhcloud.com/en-ie/solutions/industries/)
+        * Back to menu
+        * [Industry](https://www.ovhcloud.com/en-ie/solutions/industries/)
+            
+        * Industry
+            
+            * [Public Sector](https://www.ovhcloud.com/en-ie/solutions/industries/public-sector/) A trusted solution for governments and authorities
+            * [Healthcare](https://www.ovhcloud.com/en-ie/solutions/industries/healthcare/) The trusted solution for the healthcare sector
+            * [Financial Service](https://www.ovhcloud.com/en-ie/solutions/industries/financial-services/) Our solutions for financial services operators
+            * [Manufacturing](https://www.ovhcloud.com/en-ie/solutions/industries/manufacturing/) The trusted cloud solution for European manufacturers
+            * [Software/Information Technology](https://opentrustedcloud.ovhcloud.com/en-ie/) SaaS and PaaS solutions from OVHcloud Partner Software Publishers
+            * [Gaming](https://www.ovhcloud.com/en-ie/solutions/industries/gaming/) Cloud solutions for companies and individuals in the gaming industry
+            * [Blockchain](https://www.ovhcloud.com/en-ie/solutions/industries/blockchain/) Free up your blockchain projects with OVHcloud solutions
+    * Organisation Type
         
         * Back to menu
-        * SecNumCloud
-        * SecNumCloud Find out more about Trusted Zones
+        * Organisation Type
+        * Organisation Type
             
-            * [SecNumCloud-certified SAP HANA on Private Cloud](https://www.ovhcloud.com/en-ie/enterprise/products/secnumcloud/) The solution that facilitates your SAP deployments in a sovereign cloud
-            * [SecNumCloud-certified VMware on OVHcloud](https://www.ovhcloud.com/en-ie/enterprise/products/secnumcloud/) The VMware platform in a trusted zone with the ANSSI security visa
-            * Veeam Backup option for VMware - SecNumCloud certified The Veeam Managed Backup solution for backing up your VMware VMs
-            * [SecNumCloud-qualified Baremetal Pod](https://www.ovhcloud.com/en-ie/enterprise/products/secnumcloud/bare-metal/) The power of Bare Metal, combined with the flexibility of OpenStack cloud and the security of the SecNumCloud-qualified sovereign cloud.
-        * Solutions
-            
-            * [The ANSSI SecNumCloud qualification](https://www.ovhcloud.com/en-ie/enterprise/certification-conformity/secnumcloud/)
-            * [Datacentre extension and migration](https://www.ovhcloud.com/en-ie/enterprise/solutions/datacenter-extension-cloud/datacenter-extension-migration/)
-            * [Hybrid and Multi-Cloud Solutions](https://www.ovhcloud.com/en-ie/enterprise/solutions/datacenter-extension-cloud/hybrid-multi-cloud/)
-            * [Disaster recovery solutions](https://www.ovhcloud.com/en-ie/enterprise/solutions/datacenter-extension-cloud/disaster-recovery/)
-            * [View all solutions](https://www.ovhcloud.com/en-ie/enterprise/solutions/)
-    * Compliance and certifications
+            * [Enterprise](https://www.ovhcloud.com/en-ie/solutions/enterprise/) Solutions for enterprise-level digital transformation
+            * [Software publishers (SaaS/PaaS)](https://opentrustedcloud.ovhcloud.com/en-ie/) SaaS and PaaS solutions from OVHcloud Partner Software Publishers
+            * [System Integrator](https://partner.ovhcloud.com/en-ie/) Solutions for integrators, service providers and consulting firms
+            * [Government / Administrations](https://www.ovhcloud.com/en-ie/solutions/industries/public-sector/) Trusted solutions for governments and authorities
+            * [Startup](https://startup.ovhcloud.com/en-ie/startups/) Support solutions for start-ups
+            * [Scaleup](https://startup.ovhcloud.com/en-ie/scaleups/) Support solutions for scale-ups
+    * Technology
+        
         * Back to menu
-        * Compliance and certifications
-        * Compliance and certifications Full list of standards and regulations
+        * Technology
+        * Technology
             
-            * GDPR Compliance with the General Data Protection Regulation (EU) 2016/679
-            * SecNumCloud ANSSI Security Visa Qualification
-            * HDS and healthcare data hosting Hosting healthcare data in the UK and across Europe
-            * HIPAA and HITECH Hosting healthcare data in the US
-            * PCI DSS Financial data hosting
-            * ISO/IEC 27001, 27017 and 27018 Information Security Management
-            * ISO/IEC 27701 Managing the security of personal data processing
-            * SOC 1, 2 and 3 AICPA SSAE 16/ISAE 3402 type II attestation and reports
-            * EBA and ACPR Compliance for financial services operators in Europe
-            * G-Cloud Public sector cloud service delivery in the UK
-            * C5 Cloud Computing Compliance Criteria Catalogue
+            * [VMware by Broadcom](https://www.ovhcloud.com/en-ie/solutions/vmware/) VMware by Broadcom and OVHcloud solutions for all your projects
+            * [Nutanix](https://www.ovhcloud.com/en-ie/solutions/nutanix/) Nutanix and OVHcloud solutions for your hybrid and multi-cloud environments
+            * [SAP](https://www.ovhcloud.com/en-ie/solutions/sap/) SAP on OVHcloud solutions for your ERP delivering a smooth, optimal experience
+            * [NetApp](https://www.ovhcloud.com/en-ie/solutions/netapp/) NetApp storage solutions with cost control and high performance
+            * [Nvidia](https://www.ovhcloud.com/en-ie/solutions/nvidia/) Nvidia GPU solutions for accelerating your innovation and AI projects
+            * [MongoDB](https://www.ovhcloud.com/en-ie/public-cloud/mongodb/) MongoDB solutions that simplify data management
+            * [OpenStack](https://www.ovhcloud.com/en-ie/public-cloud/openstack/) OpenStack solutions integrated with OVHcloud for cloud infrastructure
+            * [Intel](https://www.ovhcloud.com/en-ie/bare-metal/dedicated-servers-intel/) Top-of-the-line cloud solutions powered by AMD processors
+            * [AMD](https://www.ovhcloud.com/en-ie/bare-metal/dedicated-servers-amd/) Expert solutions powered by Intel® Xeon® that accelerate cloud processes
+            * [Hadoop Cloudera](https://www.ovhcloud.com/en-ie/solutions/uc-big-data-managed-hadoop-clusters/) Your 100% managed Cloudera solution with Claranet
 * [Ecosystem](https://www.ovhcloud.com/en-ie/ecosystem/)
     * Back to menu
     * [Ecosystem](https://www.ovhcloud.com/en-ie/ecosystem/)
@@ -643,6 +646,7 @@ Log in to order, manage your products and services, and track your orders.
         * Newsroom
         * [Global infrastructure](https://www.ovhcloud.com/en-ie/about-us/global-infrastructure/)
         * Our datacenters
+        * [Our Local Zones](https://www.ovhcloud.com/en-ie/about-us/global-infrastructure/local-zone/)
         * [Backbone network](https://www.ovhcloud.com/en-ie/network/backbone/)
         * [Join the OVHcloud adventure](https://corporate.ovhcloud.com/en-ie/careers/)
         * [Patent Pledge](https://www.ovhcloud.com/en-ie/about-us/patent-pledge/)
@@ -654,7 +658,6 @@ Log in to order, manage your products and services, and track your orders.
         * Sustainable cloud
         * Trusted cloud
         * [Investor Relations](https://corporate.ovhcloud.com/en-ie/investor-relations/)
-* [Special offers](https://www.ovhcloud.com/en-ie/deals/)
 
 Open search bar
 
