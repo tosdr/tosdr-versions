@@ -1,9 +1,10 @@
-[![bitninja server security logo linux malware scanner](https://bitninja.com/wp-content/uploads/2023/10/Group-8-3.png)![bitninja server security logo linux malware scanner](https://bitninja.com/wp-content/uploads/2023/10/Group-7-2.png)![](https://bitninja.com/wp-content/uploads/2024/03/Dark.svg)](https://bitninja.io/)
+[![bitninja server security logo linux malware scanner](https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img/https://bitninja.com/wp-content/uploads/2023/10/Group-8-3.png)![bitninja server security logo linux malware scanner](https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img/https://bitninja.com/wp-content/uploads/2023/10/Group-7-2.png)![](https://bitninja.com/wp-content/uploads/2024/03/Dark.svg)](https://bitninja.io/)
 
 * [Solutions](https://bitninja.com/cybersecurity-solutions/)
     * [ANTI-MALWARE](https://bitninja.com/cybersecurity-solutions/anti-malware/)
     * [WAF](https://bitninja.com/cybersecurity-solutions/waf/)
     * [IP REPUTATION](https://bitninja.com/cybersecurity-solutions/ip-reputation/)
+    * [FilePatcher](https://bitninja.com/cybersecurity-solutions/filepatcher/)
     * [Outbound Spam Detection](https://bitninja.com/cybersecurity-solutions/outbound_spam_detection/)
     * [SiteProtection](https://bitninja.com/cybersecurity-solutions/siteprotection/)
     * [Additional Solutions](https://bitninja.com/cybersecurity-solutions/extra-security-components/)
@@ -58,7 +59,7 @@ close
     * [Partners](https://bitninja.com/partners/)
     * [CONTACT US](https://bitninja.com/contact-us/)
 
-[FREE TRIAL](https://registration.bitninja.io/)[![Ninja logo BitNinja server security linux malware scanner](https://bitninja.com/wp-content/uploads/2023/02/plus.png)
+[FREE TRIAL](https://registration.bitninja.io/)[![Ninja logo BitNinja server security linux malware scanner](https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img/https://bitninja.com/wp-content/uploads/2023/02/plus.png)
 
 Login](https://admin.bitninja.io/site/login)
 
@@ -492,7 +493,7 @@ Clause 9. Non-compliance with the Clauses and termination
 
 (d) Following termination of the contract, the processor shall, at the choice of the controller, delete all personal data processed on behalf of the controller and certify to the controller that it has done so, or, return all the personal data to the controller and delete existing copies unless Union or Member State law requires storage of the personal data. Until the data is deleted or returned, the processor shall continue to ensure compliance with these Clauses.
 
-![BitNinja Server Security Logo White](https://bitninja.com/wp-content/uploads/2023/02/Dark.png)
+![BitNinja Server Security Logo White](https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img/https://bitninja.com/wp-content/uploads/2023/02/Dark.png)
 
 [try without install](https://bitninja.com/sandbox-2/)
 
@@ -511,7 +512,7 @@ Resources
 Company
 -------
 
-[About](https://bitninja.com/about-us/)[Customers](https://bitninja.com/success-stories/)[Jobs at BitNinja](https://bitninja-technologies-zrt.breezy.hr/)[Legal Terms](https://bitninja.com/terms-and-conditions/)[Privacy](https://bitninja.com/privacy-policy/)[Events](https://ujbitninja.kinsta.cloud/?page_id=123)[Bug Bounty](https://hckrt.com/Reports/EmbeddedReportForm?program=bitninja)[Partners](https://bitninja.com/partners/)[Impact](https://bitninja.com/bitninja_impact/)
+[About](https://bitninja.com/about-us/)[Customers](https://bitninja.com/success-stories/)[Jobs at BitNinja](https://bitninja-technologies-zrt.breezy.hr/)[Legal Terms](https://bitninja.com/terms-and-conditions/)[Privacy](https://bitninja.com/privacy-policy/)[Events](https://ujbitninja.kinsta.cloud/?page_id=123)[Bug Bounty](mailto:info@bitninja.io)[Partners](https://bitninja.com/partners/)[Impact](https://bitninja.com/bitninja_impact/)
 
 Connect
 -------
@@ -522,25 +523,25 @@ BitNinja
 
 Proactive server protection from a centralized, easy-to-use console. Secure your web servers and customers’ websites against all kinds of cyber threats with our multi-layered security tool
 
-[![Facebook BitNinja Server Security Platform](https://bitninja.com/wp-content/uploads/2023/03/Vector-4.png)](https://www.facebook.com/bitninja.io)[![Twitter BitNinja Server Security Platform](https://bitninja.com/wp-content/uploads/2023/03/Vector-5.png)](https://twitter.com/bitninjaio)[![LinkedIn BitNinja Server Security Platform](https://bitninja.com/wp-content/uploads/2023/03/Vector-6.png)](https://www.linkedin.com/company/bitninja-io)[![Instagram BitNinja Server Security Platform](https://bitninja.com/wp-content/uploads/2023/03/Vector-7.png)](https://www.instagram.com/bitninja_official/)[![Youtube BitNinja Server Security Platform](https://bitninja.com/wp-content/uploads/2023/03/Vector-8.png)](https://www.youtube.com/c/BitninjaIo/videos)
+[![Facebook BitNinja Server Security Platform](https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img/https://bitninja.com/wp-content/uploads/2023/03/Vector-4.png)](https://www.facebook.com/bitninja.io)[![Twitter BitNinja Server Security Platform](https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img/https://bitninja.com/wp-content/uploads/2023/03/Vector-5.png)](https://twitter.com/bitninjaio)[![LinkedIn BitNinja Server Security Platform](https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img/https://bitninja.com/wp-content/uploads/2023/03/Vector-6.png)](https://www.linkedin.com/company/bitninja-io)[![Instagram BitNinja Server Security Platform](https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img/https://bitninja.com/wp-content/uploads/2023/03/Vector-7.png)](https://www.instagram.com/bitninja_official/)[![Youtube BitNinja Server Security Platform](https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img/https://bitninja.com/wp-content/uploads/2023/03/Vector-8.png)](https://www.youtube.com/c/BitninjaIo/videos)
 
 ![AICPA SOC BitNinja Server Security](https://bitninja.com/wp-content/uploads/2023/05/21972-312_SOC_NonCPA-1.svg)
 
-![Privacy Shield BitNinja Server Security](https://bitninja.com/wp-content/uploads/2023/05/privacy-shield-certified-logo.png)
+![Privacy Shield BitNinja Server Security](https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img/https://bitninja.com/wp-content/uploads/2023/05/privacy-shield-certified-logo.png)
 
-![GDPR BitNinja Server Security](https://bitninja.com/wp-content/uploads/2023/05/eu_gdpr_compliant_logo.png)
+![GDPR BitNinja Server Security](https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img/https://bitninja.com/wp-content/uploads/2023/05/eu_gdpr_compliant_logo.png)
 
-![CCPA BitNinja Server Security](https://bitninja.com/wp-content/uploads/2023/05/CCPA.png)
+![CCPA BitNinja Server Security](https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img/https://bitninja.com/wp-content/uploads/2023/05/CCPA.png)
 
 2024 BitNinja. All Rights reserved.
 
-![Hexa BitNinja Server Security](https://bitninja.com/wp-content/uploads/2023/02/Eszkoz-4-1.png)![Hexa BitNinja Server Security](https://bitninja.com/wp-content/uploads/2023/02/Eszkoz-4-1.png)
+![Hexa BitNinja Server Security](https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img/https://bitninja.com/wp-content/uploads/2023/02/Eszkoz-4-1.png)![Hexa BitNinja Server Security](https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img/https://bitninja.com/wp-content/uploads/2023/02/Eszkoz-4-1.png)
 
-closearrow-rightbarsangle-rightcross              
+closearrow-rightbarsangle-rightcross
 
 Close GDPR Cookie Settings
 
-![BitNinja Security](https://bitninja.com/wp-content/plugins/gdpr-cookie-compliance/dist/images/gdpr-logo.png)
+![BitNinja Security](https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_350,h_233/https://bitninja.com/wp-content/plugins/gdpr-cookie-compliance/dist/images/gdpr-logo.png)
 
 * Privacy Overview
 * Strictly Necessary Cookies
