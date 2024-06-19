@@ -204,6 +204,7 @@ Data Recovery Articles
 * [Computer Recovery and System Restore](https://www.drive-image.com/Computer_Recovery_and_System_Restore.shtml)
 * [Disk Cloning and Mass System Deployment](https://www.drive-image.com/Disk_Cloning_and_Mass_System_Deployment.shtml)
 * [Accessing Individual Files or Folders on a Backed Up Disk Image](https://www.drive-image.com/imaged-disk-access.html)
+* [File Backup for Personal Computers and Laptops of Home and Self-Employed Users](https://www.drive-image.com/backup-files-personal-computers-laptops-of-home-self-employed-users.html)
 * [Creating a Data Consistent, Space Efficient Data Backup Plan for a Small Business Server](https://www.drive-image.com/data-backup-plan.html)
 * [How to Move the Already Installed Windows from an Old HDD to a New SSD Device and Create a Hybrid Data Storage System](https://www.drive-image.com/how-move-installed-Windows-from-HDD-to-SSD.html)
 * [How to Move an Installed Windows to a Larger Disk](https://www.drive-image.com/Moving-Windows-to-New-SSD.html)
