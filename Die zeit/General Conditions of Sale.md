@@ -66,6 +66,7 @@ Verlagsangebote
 
 Anzeigen
 
+* [Beliebteste Arbeitgeber 2024](https://www.zeit.de/angebote/most-wanted-employer-2024/index)
 * [Gemeinsam für Demokratie](https://cmk.zeit.de/cms/hub/13121/anzeige/dm-drogerie-markt-gmbh)
 * [Eine Reise nach Neuseeland](https://www.zeit.de/angebote/reisen-nach-neuseeland/index)
 * [congstar Fairnessheld\*innen](https://www.zeit.de/campus/angebote/congstar/fairnessheldinnen/index)
