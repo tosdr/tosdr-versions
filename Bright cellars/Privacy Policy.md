@@ -1,3 +1,5 @@
+[NEW MEMBERS: GET YOUR FIRST 6 BOTTLES FOR $55 ($150+ VALUE)](https://www.brightcellars.com/pages/wine-quiz)[NEW IN THE SHOP: ALFRESCO BUNDLE, TOP-RATED BRANDS, & MORE!](https://www.brightcellars.com/pages/shop-all)
+
 [Text](https://www.brightcellars.com/)
 
 [0
@@ -37,7 +39,7 @@ Password
 
 Activate Account Forgot Password
 
-Log In Arrow
+Login
 
 Email
 =====
@@ -203,7 +205,7 @@ We will delete or deidentify Personal Information not subject to an exceptions f
 Exercising Your Rights to Know or Delete
 ----------------------------------------
 
-To exercise your Right to Know or Right to Delete, please submit a request by contacting us at [privacy@brightcellars.com](mailto:privacy@brightcellars.com) or by calling 1-844-223-5527.
+To exercise your Right to Know or Right to Delete, please submit a request by contacting us at [concierge@brightcellars.com](mailto:concierge@brightcellars.com "concierge@brightcellars.com") or by calling 1-844-223-5527.
 
 Only you, or someone legally authorized to act on your behalf, may exercise the Right to Know or Right to Delete related to your Personal Information.
 
@@ -223,14 +225,14 @@ We will only use Personal Information provided in the request to verify the requ
 Personal Information Sales Opt-Out and Opt-In Rights
 ----------------------------------------------------
 
-If you do not want use to share your Personal Information with unaffiliated or non-agent third parties for promotional purposes, you can opt-out at any time ("**Right to Opt-Out**") by emailing us at [privacy@brightcellars.com](mailto:privacy@brightcellars.com).
+If you do not want use to share your Personal Information with unaffiliated or non-agent third parties for promotional purposes, you can opt-out at any time ("**Right to Opt-Out**") by emailing us at  [concierge@brightcellars.com](mailto:concierge@brightcellars.com "concierge@brightcellars.com").
 
 You will be asked to provide certain information to exercise this option so we can verify your identity and locate your records with us. Please note that your decision to opt out of the sale of your Personal Information may impact the availability and quality of some of the Services provided to you. Furthermore, your information may still be shared pursuant to the terms of this policy, where such sharing does not constitute a sale.
 
 California's "Shine the Light" Law
 ----------------------------------
 
-California's "Shine the Light" law (Civil Code Section § 1798.83) permits users of our website that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an email to [privacy@brightcellars.com](mailto:privacy@brightcellars.com) or write us at: 313 N Plankinton Avenue, Suite 214, Milwaukee, WI 53203.
+California's "Shine the Light" law (Civil Code Section § 1798.83) permits users of our website that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an email to  [concierge@brightcellars.com](mailto:concierge@brightcellars.com "concierge@brightcellars.com") or write us at: 313 N Plankinton Avenue, Suite 214, Milwaukee, WI 53203.
 
 Not Directed to Children
 ------------------------
@@ -254,23 +256,21 @@ If there are any questions regarding this privacy policy you may contact us usin
 
 313 N Plankinton Avenue, Suite 214 Milwaukee, WI 53203
 
-[privacy@brightcellars.com](mailto:privacy@brightcellars.com)
+[concierge@brightcellars.com](mailto:privacy@brightcellars.com)
 
 [Icon](https://www.brightcellars.com/)
 
 Sip back and relax
 ------------------
 
-Let's make wine fun together. Join our wine-curious community and learn what you like.
-
- Enter your email Arrow
+Discovering new wines should be fun. Forget the rules and enjoy wine the bright way.
 
 About
 -----
 
 * [About Us](https://www.brightcellars.com/pages/about-us)
 * [Membership](https://www.brightcellars.com/pages/membership)
-* [FAQ](https://help.brightcellars.com/en-US)
+* [FAQ](https://www.brightcellars.com/pages/faq)
 * [Press & Partnerships](mailto:pr@brightcellars.com)
 
 Shop
@@ -290,7 +290,7 @@ Rewards
 INFO
 ----
 
-* [Contact Us](https://help.brightcellars.com/en-US)
+* [Contact Us](https://www.brightcellars.com/pages/faq?hcUrl=%2Fen-US%2Fcontact)
 * [Track Order](https://track.brightcellars.com/?page-name=tracking-page)
 * [Terms of Use](https://www.brightcellars.com/pages/terms)
 * [Privacy Policy](https://www.brightcellars.com/pages/privacy)
