@@ -180,7 +180,6 @@ Free tours held M–F at 1:30 p.m. ET.
 
 Shopping Services
 
-* [Digital Catalog](https://www.littletoncoin.com/shop/htf-catalog)
 * [Shop by Catalog](https://www.littletoncoin.com/shop/shop-by-catalog)
 * [Respond to an Ad](https://www.littletoncoin.com/shop/respond-to-ad)
 * [Free Catalogs](https://www.littletoncoin.com/shop/Littleton-Coin-Catalogs)
@@ -219,4 +218,4 @@ Buy with Confidence
 © 1998-2024 Littleton Coin Company, Inc. All rights reserved.  
 1309 Mt. Eustis Road, Littleton, NH 03561
 
-[CHAT NOW](https://webchat.littletoncoin.com/ECCChat/chat.html)![fb](https://fp.listrakbi.com/fp/qNKIE5h0Y6r9.jpg)
+[](https://webchat.littletoncoin.com/ECCChat/chat.html)![fb](https://fp.listrakbi.com/fp/qNKIE5h0Y6r9.jpg)
