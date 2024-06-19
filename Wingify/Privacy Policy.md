@@ -133,7 +133,7 @@
     
     Ebooks
     
-    [![Cover (1)](https://static.wingify.com/gcp/uploads/2024/06/cover-1.png?tr=w-60,h-50)
+    [![The Leaky Funnel Conundrum - How to Stop Users From Leaving Your Website](https://static.wingify.com/gcp/uploads/2024/06/cover.png?tr=w-60,h-50)
     
     The Leaky Funnel Conundrum](https://vwo.com/ebooks/the-leaky-funnel-conundrum/)
     
@@ -157,6 +157,10 @@
     
     Webinars
     
+    [![Steven Waller](https://static.wingify.com/gcp/uploads/2024/06/steve-waller-headshot-1-scaled.jpg?tr=w-60,h-50)
+    
+    Cut Through the Noise to Drive More Conversions](https://vwo.com/webinars/cut-through-the-noise-to-drive-more-conversions/)
+    
     [![Jyoti Malik](https://static.wingify.com/gcp/uploads/2024/06/Photoleap_03_01_2024_20_40_13_pDujm-2.png?tr=w-60,h-50)
     
     Navigation Optimization: The Overlooked Path to Higher Conversions](https://vwo.com/webinars/navigation-optimization-overlooked-path-higher-conversions/)
@@ -172,10 +176,6 @@
     [![Alexandra Cîmpan](https://static.wingify.com/gcp/uploads/2023/06/Alexandra-C.jpg?tr=w-60,h-50)
     
     How to Run Landing Page Tests On and Off Paid Social Platforms](https://vwo.com/webinars/how-run-landing-page-tests-on-off-paid-social-platforms/)
-    
-    [![Ben Labay](https://static.wingify.com/gcp/uploads/2019/08/Ben-Labay-Profile.png?tr=w-60,h-50)
-    
-    Benchmarking and Scaling Testing in 2024](https://vwo.com/webinars/benchmarking-scaling-testing-2024/)
     
     [View all webinars](https://vwo.com/webinars)
     
@@ -229,6 +229,10 @@
     
     Masters of conversion
     
+    Upcoming Webinars
+    
+    [![Resources Menu Upcoming Image Jonathan Lansdown 235 By 235@1x](https://static.wingify.com/gcp/uploads/2024/06/resources-menu-upcoming-image-Jonathan-Lansdown-235-by-235@1x.png?tr=w-300,h-240)](https://vwo.com/webcast/personalization-in-action-maximizing-impact-with-what-youve-got/)
+    
     Past Webinars
     
     [![Craig Sullivan](https://static.wingify.com/gcp/uploads/2024/04/Craig-Sullivan-speaker-photo@2x.png?tr=w-60,h-60)
@@ -248,24 +252,6 @@
     Converting with Comedy: Research Parallels for CRO
     
     \- Viket Benzesin, Mars](https://vwo.com/webcast/converting-with-comedy-research-parallels-for-cro/)
-    
-    [![Rohan Singh Rajput](https://static.wingify.com/gcp/uploads/2024/01/Rohan-Singh-Rajput-speaker-photo.png?tr=w-60,h-60)
-    
-    Building Personalized Meditation Experiences
-    
-    \- Rohan Singh Rajput, Headspace](https://vwo.com/webcast/a-b-testing-personalized-meditation-recommendation-system/)
-    
-    [![Max Bradley](https://static.wingify.com/gcp/uploads/2023/11/Max-Bradley@1x.png?tr=w-60,h-60)
-    
-    Turning Business Challenges into Testable Ideas
-    
-    \- Max Bradley, Wiz](https://vwo.com/webcast/turning-business-challenges-testable-ideas/)
-    
-    [![Bhavik Patel](https://static.wingify.com/gcp/uploads/2023/11/Bhavik-Patel-speaker-photo-1.png?tr=w-60,h-60)
-    
-    Experimentation: Past, Present and Future
-    
-    \- Bhavik Patel, LeanConvert](https://vwo.com/webcast/experimentation-past-present-future/)
     
     [View all webinars](https://vwo.com/webcast/)
     
