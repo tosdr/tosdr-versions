@@ -1,7 +1,7 @@
 Legal
 
-Data Processing Addendum
-========================
+Data Processing Agreement
+=========================
 
 [**Customer Agreement**](https://wasabi.com/en/legal/customer-agreement)
 
