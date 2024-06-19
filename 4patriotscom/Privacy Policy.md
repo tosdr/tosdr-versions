@@ -17,7 +17,7 @@ We Champion Freedom & Self-Reliance
     
     Best Sellers
     
-    * [🇺🇸 July 4 Celebration Event](https://4patriots.com/products/patriot-power-generator-2000x)
+    * [🇺🇸 July 4th Celebration Event](https://4patriots.com/products/patriot-power-generator-2000x)
     * [$700.00 OFF Super-Charged Bundle](https://4patriots.com/products/super-charged-solar-generator-bundle)
     * [Patriot Power Generator 2000X](https://4patriots.com/products/patriot-power-generator-2000x)
     * [3-Month Survival Food Kit](https://4patriots.com/products/3-month-survival-food-kit)
@@ -26,7 +26,6 @@ We Champion Freedom & Self-Reliance
     * [Patriot Power Cell-CX](https://4patriots.com/products/patriot-power-cell)
     * [Patriot Power Generator 1800](https://4patriots.com/products/patriot-power-generator-1800)
     * [Patriot Power Sidekick](https://4patriots.com/products/patriot-power-sidekick)
-    * [Hurricane Emergency Preparation](https://4patriots.com/collections/hurricane-emergency-preparation)
     * [Shop All Best-Sellers](https://4patriots.com/collections/best-sellers)
     
     * [![ Super-Charged Solar Generator Bundle](//4patriots.com/cdn/shop/files/BUNDLE-BLITZ-PPGS-WHITE-BACKGROUND-1024x1024_360x.png?v=1716578922)
@@ -45,7 +44,7 @@ We Champion Freedom & Self-Reliance
         
         ###### 3-Month Survival Food Kit
         
-        3289 reviews](https://4patriots.com/products/3-month-survival-food-kit)
+        3292 reviews](https://4patriots.com/products/3-month-survival-food-kit)
         
     
 * [New Arrivals](https://4patriots.com/collections/newly-added)
@@ -63,7 +62,7 @@ We Champion Freedom & Self-Reliance
     
     * [![ 4Patriots ChillZone Portable AC unit.](//4patriots.com/cdn/shop/files/PACARRAY_360x.png?v=1716391937)
         
-        ###### ChillZone Portable AC](https://4patriots.com/products/chillzone-portable-ac)
+        ###### ChillZone Portable Solar Power AC & 100-Watt Panel](https://4patriots.com/products/chillzone-portable-ac)
         
         [![ 4Patriots 3-Month PlatinumXL Survival Food Kit shown with all pouches.](//4patriots.com/cdn/shop/files/ARRAY-3MO-PLAT-1024x1024_360x.png?v=1716225013)
         
@@ -75,7 +74,7 @@ We Champion Freedom & Self-Reliance
         
         ###### Ultimate Meat Medley Jumbo Survival Food Kit
         
-        26 reviews](https://4patriots.com/products/ultimate-meat-medley-jumbo-survival-food-kit)
+        29 reviews](https://4patriots.com/products/ultimate-meat-medley-jumbo-survival-food-kit)
         
     
 * [Survival Food](https://4patriots.com/collections/food)
@@ -101,13 +100,13 @@ We Champion Freedom & Self-Reliance
         
         ###### 3-Month Survival Food Kit
         
-        3289 reviews](https://4patriots.com/products/3-month-survival-food-kit)
+        3292 reviews](https://4patriots.com/products/3-month-survival-food-kit)
         
         [![ 4Patriots 4-Week Survival Food Kits individual pouches. 196 servings.](//4patriots.com/cdn/shop/products/4WK-ARRAY-192-SERVINGS-WHITE_360x.png?v=1680541659)
         
         ###### 4-Week Survival Food Kit
         
-        1019 reviews](https://4patriots.com/products/4-week-survival-food-kit)
+        1022 reviews](https://4patriots.com/products/4-week-survival-food-kit)
         
     
 * [Power & Solar](https://4patriots.com/collections/power-solar)
@@ -132,13 +131,13 @@ We Champion Freedom & Self-Reliance
         
         ###### Portable Power Station - Patriot Power Cell CX
         
-        1673 reviews](https://4patriots.com/products/patriot-power-cell)
+        1680 reviews](https://4patriots.com/products/patriot-power-cell)
         
-        [![ HaloXT Tactical Solar Flashlight](//4patriots.com/cdn/shop/files/HXT_ROADSIDE_CAR_IN_USE_MAN_SMALL_2000x2000_2_360x.jpg?v=1718140318)
+        [![ HaloXT Tactical Solar Flashlight 1 pack as featured on fox & friends](//4patriots.com/cdn/shop/products/HXT-1PACK-STOREFRONT-ARRAY_360x.jpg?v=1718629734)
         
         ###### HaloXT Tactical Solar Flashlight
         
-        562 reviews](https://4patriots.com/products/haloxt-tactical-solar-flashlights)
+        566 reviews](https://4patriots.com/products/haloxt-tactical-solar-flashlights)
         
     
 * [Water](https://4patriots.com/collections/water)
@@ -161,13 +160,13 @@ We Champion Freedom & Self-Reliance
         
         ###### Patriot Pure Ultimate Water Filtration System
         
-        208 reviews](https://4patriots.com/products/patriot-pure-ultimate-water-filtration-system)
+        213 reviews](https://4patriots.com/products/patriot-pure-ultimate-water-filtration-system)
         
         [![ 1 Patriot Pure Nanomesh Water Filter](//4patriots.com/cdn/shop/files/1-PS-ARRAY-SHOP-ARRAY-NAN-_24x1024_1_360x.png?v=1694450490)
         
         ###### Patriot Pure Nanomesh™ Water Filter
         
-        34 reviews](https://4patriots.com/products/patriot-pure-nanomesh-water-filter)
+        38 reviews](https://4patriots.com/products/patriot-pure-nanomesh-water-filter)
         
     
 * [RV & Camping](https://4patriots.com/collections/camping-outdoor)
@@ -186,13 +185,13 @@ We Champion Freedom & Self-Reliance
         
         ###### StarFire Camp Stove
         
-        85 reviews](https://4patriots.com/products/starfire-camp-stove)
+        86 reviews](https://4patriots.com/products/starfire-camp-stove)
         
         [![ Freedom fridge](//4patriots.com/cdn/shop/products/FRIDGE-1_1_360x.jpg?v=1642003425)
         
         ###### Freedom Fridge
         
-        105 reviews](https://4patriots.com/products/freedom-fridge-1)
+        106 reviews](https://4patriots.com/products/freedom-fridge-1)
         
         [![ BugOUT Solar Lantern](//4patriots.com/cdn/shop/products/ARRAY-1BUG-1024x1024_360x.jpg?v=1664803167)
         
@@ -215,27 +214,26 @@ We Champion Freedom & Self-Reliance
     
     * [![ 4Patriots ChillZone Portable AC unit.](//4patriots.com/cdn/shop/files/PACARRAY_360x.png?v=1716391937)
         
-        ###### ChillZone Portable AC](https://4patriots.com/products/chillzone-portable-ac)
+        ###### ChillZone Portable Solar Power AC & 100-Watt Panel](https://4patriots.com/products/chillzone-portable-ac)
         
         [![ The brand-NEW 4Patriots Emergency Go-Tote array](//4patriots.com/cdn/shop/files/SHOPIFY-GOT-ARRAY-1024x1024_1_360x.png?v=1695653044)
         
         ###### Emergency Go-Tote
         
-        3 reviews](https://4patriots.com/products/4patriots-emergency-go-tote)
+        5 reviews](https://4patriots.com/products/4patriots-emergency-go-tote)
         
         [![ Patriot Power Greens - 1Canister Double Size.](//4patriots.com/cdn/shop/products/ARRAY-PGR1-DS-1024x1024_360x.png?v=1681143255)
         
         ###### Patriot Power Greens - Double Size
         
-        44 reviews](https://4patriots.com/products/patriot-power-greens-1-double-size-can)
+        48 reviews](https://4patriots.com/products/patriot-power-greens-1-double-size-can)
         
     
 * [Deals](https://4patriots.com/collections/deal-of-the-week)
     
     Deals
     
-    * [🇺🇸 July 4 Celebration Event](https://4patriots.com/products/patriot-power-generator-2000x)
-    * [Buy 3, Get 1 FREE HaloXT Flashlight](https://4patriots.com/products/haloxt-tactical-solar-flashlights)
+    * [🇺🇸 July 4th Celebration Event](https://4patriots.com/products/patriot-power-generator-2000x)
     * [$700.00 OFF Super-Charged Bundle](https://4patriots.com/products/super-charged-solar-generator-bundle)
     * [$100.00 OFF Food & Fire Cooking Bundle](https://4patriots.com/products/food-fire-survival-cooking-bundle)
     * [FREE Patriot Power Greens](https://4patriots.com/products/patriot-power-greens-1-regular-size-can)
@@ -248,13 +246,7 @@ We Champion Freedom & Self-Reliance
     * [Last Chance](https://4patriots.com/collections/last-chance)
     * [Shop All Deals](https://4patriots.com/collections/deal-of-the-week)
     
-    * [![ HaloXT Tactical Solar Flashlight](//4patriots.com/cdn/shop/files/HXT_ROADSIDE_CAR_IN_USE_MAN_SMALL_2000x2000_2_360x.jpg?v=1718140318)
-        
-        ###### HaloXT Tactical Solar Flashlight
-        
-        562 reviews](https://4patriots.com/products/haloxt-tactical-solar-flashlights)
-        
-        [![ Super-Charged Solar Generator Bundle](//4patriots.com/cdn/shop/files/BUNDLE-BLITZ-PPGS-WHITE-BACKGROUND-1024x1024_360x.png?v=1716578922)
+    * [![ Super-Charged Solar Generator Bundle](//4patriots.com/cdn/shop/files/BUNDLE-BLITZ-PPGS-WHITE-BACKGROUND-1024x1024_360x.png?v=1716578922)
         
         ###### Super-Charged Solar Generator Bundle
         
@@ -266,11 +258,19 @@ We Champion Freedom & Self-Reliance
         
         7 reviews](https://4patriots.com/products/food-fire-survival-cooking-bundle)
         
+        [![ Patriot Power Greens - 1 canister](//4patriots.com/cdn/shop/products/ARRAY-PGR1-1024x1024-STOREFRONT-1-CAN-WHITE_360x.png?v=1680712018)
+        
+        ###### Patriot Power Greens - 1 Regular Size Can
+        
+        5 reviews](https://4patriots.com/products/patriot-power-greens-1-regular-size-can)
+        
     
 * [Learn](https://4patriots.com/blogs/news)
     
     Learn
     
+    * [Heat Wave Preparedness Guide](https://4patriots.com/blogs/news/extreme-heat-deadlier-than-extreme-storms)
+    * [Heat Wave Tips for Pet Owners](https://4patriots.com/blogs/news/summer-survival-tips-for-pet-owners)
     * [Hurricane Preparedness Guide](https://4patriots.com/blogs/news/when-mother-nature-strikes-will-you-be-ready)
     * [Preparedness Blog](https://4patriots.com/blogs/news)
     * [Online Classes](https://4patriots.com/pages/webinars)
@@ -280,18 +280,11 @@ We Champion Freedom & Self-Reliance
     * [About Us](https://4patriots.com/pages/about-us)
     * [Returns & Exchanges](https://4patriots.com/pages/refund-policy)
     
-* [🎁 Father's Day](https://4patriots.com/pages/gift-guide)
 * [Account](https://4patriots.com/account/login)
 * [FAQs](https://4patriots.com/pages/frequently-asked-questions)
 * [Contact Us](https://4patriots.com/pages/contact-us)
 
  [](#)
-
-[⚡ \[Father's Day Special\] Buy 3, Get 1 FREE HaloXT Flashlight
-
-Shop Now >>](https://4patriots.com/products/haloxt-tactical-solar-flashlights?position=hellobar&collection=hxt)
-
-Enter some text...
 
 [Home](https://4patriots.com/) / Privacy Policy
 
