@@ -1,14 +1,14 @@
-[![Inkscape](https://media.inkscape.org/static/images/inkscape-logo.svg)](https://inkscape.org/zh-hant/)
+[![Inkscape](https://media.inkscape.org/static/images/inkscape-logo.svg)](https://inkscape.org/zh-hans/)
 
-[Inkscape](https://inkscape.org/zh-hant/)
+[Inkscape](https://inkscape.org/zh-hans/)
 =========================================
 
-[自由繪畫。](https://inkscape.org/zh-hant/)
+[自由绘图。](https://inkscape.org/zh-hans/)
 --------------------------------------
 
-* [❤️ 幫助我們讓 Inkscape 更完美！ ❤️](https://inkscape.org/zh-hant/support-us/donate/)
+* [❤️ Help us make Inkscape awesome! ❤️](https://inkscape.org/support-us/donate/)
     
-* 繁體中文
+* 简体中文
     
     [English](https://inkscape.org/en/about/privacy/)
     
@@ -42,64 +42,64 @@
     
     [Indonesia](https://inkscape.org/id/about/privacy/)
     
-* [登入](https://inkscape.org/zh-hant/user/login/?next=/zh-hant/about/privacypolicy/)
+* [登录](https://inkscape.org/zh-hans/user/login/?next=/zh-hans/about/privacypolicy/)
     
-* [註冊](https://inkscape.org/zh-hant/user/register/)
+* [注册](https://inkscape.org/zh-hans/user/register/)
     
 
- ![搜尋](https://media.inkscape.org/static/images/search.svg)
+ ![搜索](https://media.inkscape.org/static/images/search.svg)
 
-* [關於](https://inkscape.org/zh-hant/about/)
-    * [概覽](https://inkscape.org/zh-hant/about/overview/)
-    * [功能](https://inkscape.org/zh-hant/about/features/)
-    * [螢幕截圖](https://inkscape.org/zh-hant/about/screenshots/)
-    * [管委會](https://inkscape.org/zh-hant/*leadership-committee/)
-    * [授權](https://inkscape.org/zh-hant/about/license/)
-    * [品牌與商標](https://inkscape.org/zh-hant/about/branding/)
-* [下載](https://inkscape.org/zh-hant/release/)
-    * [目前版本 1.3.2](https://inkscape.org/zh-hant/release/)
-    * [新版本預覽 1.4beta](https://inkscape.org/zh-hant/release/inkscape-1.4/?latest=1)
-    * [開發版本快照](https://inkscape.org/zh-hant/release/inkscape-dev/?latest=1)
-    * [擴充功能](https://inkscape.org/zh-hant/gallery/=extension/)
-* [新聞](https://inkscape.org/zh-hant/news/)
-    * [日曆](https://inkscape.org/zh-hant/cals/)
-    * [貢獻者網誌](https://inkscape.org/zh-hant/*membership/blog/)
-* [社群](https://inkscape.org/zh-hant/community/)
-    * [行為守則](https://inkscape.org/zh-hant/community/coc/)
-    * [論壇](https://inkscape.org/zh-hant/forums/)
+* [关于](https://inkscape.org/zh-hans/about/)
+    * [概览](https://inkscape.org/zh-hans/about/overview/)
+    * [功能](https://inkscape.org/zh-hans/about/features/)
+    * [截图](https://inkscape.org/zh-hans/about/screenshots/)
+    * [Governance](https://inkscape.org/zh-hans/*board/)
+    * [许可](https://inkscape.org/zh/about/license/)
+    * [品牌和商标](https://inkscape.org/zh/about/branding/)
+* [下载](https://inkscape.org/zh-hans/release/)
+    * [当前版本 1.3.2](https://inkscape.org/zh-hans/release/)
+    * [Next Version Preview 1.4beta](https://inkscape.org/release/inkscape-1.4/?latest=1)
+    * [开发版](https://inkscape.org/zh-hans/release/inkscape-master/?latest=1)
+    * [插件](https://inkscape.org/zh-hans/gallery/=extension/)
+* [新闻](https://inkscape.org/zh-hans/news/)
+    * [Calendars](https://inkscape.org/cals/)
+    * [Contributor Blog](https://inkscape.org/*membership/blog/)
+* [社区](https://inkscape.org/zh-hans/community/)
+    * [行为守则](https://inkscape.org/zh-hans/community/coc/)
+    * [论坛](https://inkscape.org/zh-hans/forums/)
     * [聊天室](https://chat.inkscape.org/channel/inkscape_user)
-    * [郵寄清單](https://lists.inkscape.org/postorius/lists/?all-lists)
-    * [畫廊](https://inkscape.org/zh-hant/gallery/)
-    * [團隊](https://inkscape.org/zh-hant/user/teams/)
-    * [關於畫面大賽](https://inkscape.org/zh-hant/community/about-screen-contests/)
-* [學習](https://inkscape.org/zh-hant/learn/)
-    * [常見問題](https://inkscape.org/zh-hant/learn/faq/)
-    * [書籍與手冊](https://inkscape.org/zh-hant/learn/books/)
-    * [教學](https://inkscape.org/zh-hant/learn/tutorials/)
-    * [動畫](https://inkscape.org/zh-hant/learn/animation/)
-* [貢獻](https://inkscape.org/zh-hant/contribute/)
-    * [測試](https://inkscape.org/zh-hant/contribute/testing/)
-    * [回報程式錯誤](https://inkscape.org/zh-hant/contribute/report-bugs/)
-    * [翻譯](https://inkscape.org/zh-hant/contribute/translations/)
-    * [社群待辦事項](https://inkscape.org/zh-hant/contribute/to-do-list/)
-    * [推廣](https://inkscape.org/zh-hant/contribute/promote/)
-    * [貢獻者統計](https://inkscape.org/zh-hant/contribute/contributors/)
-    * [擴充功能](https://inkscape.gitlab.io/extensions/documentation/)
-* [開發](https://inkscape.org/zh-hant/develop/)
-    * [入門](https://inkscape.org/zh-hant/develop/getting-started/)
-    * [關於 SVG](https://inkscape.org/zh-hant/develop/about-svg/)
-    * [程式碼規範](https://inkscape.org/zh-hant/develop/coding-style/)
-    * [程式錯誤管理](https://inkscape.org/zh-hant/develop/bug-management/)
-    * [Inkscape 的儲存庫](https://inkscape.org/zh-hant/develop/inkscape-git/)
-    * [除錯](https://inkscape.org/zh-hant/develop/debugging/)
-    * [擴充功能](https://inkscape.org/zh-hant/develop/extensions/)
-* [支援我們](https://inkscape.org/zh-hant/support-us/)
-    * [捐贈](https://inkscape.org/zh-hant/support-us/donate/)
-    * [貢獻者會議](https://inkscape.org/zh-hant/support-us/hackfests/)
-    * [SVG 標準化作業](https://inkscape.org/zh-hant/support-us/svg-standards-work/)
-    * [贊助者](https://inkscape.org/zh-hant/support-us/sponsors/)
+    * [邮件列表](https://lists.inkscape.org/postorius/lists/?all-lists)
+    * [画廊](https://inkscape.org/zh-hans/gallery/)
+    * [团队](https://inkscape.org/zh-hans/user/teams/)
+    * [About Screen Contest](https://inkscape.org/community/about-screen-contests/)
+* [学习资源](https://inkscape.org/zh/learn/)
+    * [常见问题](https://inkscape.org/zh-hans/learn/faq/)
+    * [书籍和手册](https://inkscape.org/zh/learn/books/)
+    * [教程](https://inkscape.org/zh-hans/learn/tutorials/)
+    * [动画](https://inkscape.org/zh/learn/animation/)
+* [贡献](https://inkscape.org/zh/contribute/)
+    * [测试](https://inkscape.org/zh/contribute/testing/)
+    * [Report Bugs](https://inkscape.org/zh/contribute/report-bugs/)
+    * [翻译](https://inkscape.org/zh/contribute/translations/)
+    * [社区任务列表](https://inkscape.org/zh/contribute/to-do-list/)
+    * [促进发展](https://inkscape.org/zh/contribute/promote/)
+    * [贡献者统计](https://inkscape.org/zh/contribute/contributors/)
+    * [Extensions](https://inkscape.gitlab.io/extensions/documentation/)
+* [开发](https://inkscape.org/zh/develop/)
+    * [开发入门](https://inkscape.org/zh/develop/getting-started/)
+    * [关于 SVG](https://inkscape.org/zh/develop/about-svg/)
+    * [编程规范](https://inkscape.org/zh/develop/coding-style/)
+    * [Bug Management](https://inkscape.org/zh-hans/develop/bug-management/)
+    * [Inkscape 的代码仓库](https://inkscape.org/zh/develop/inkscape-git/)
+    * [调试](https://inkscape.org/zh/develop/debugging/)
+    * [扩展](https://inkscape.org/zh/develop/extensions/)
+* [支持我们](https://inkscape.org/zh-hans/support-us/)
+    * [捐赠](https://inkscape.org/zh-hans/support-us/donate/)
+    * [Contributor Meetings](https://inkscape.org/zh/support-us/hackfests/)
+    * [SVG Standards Work](https://inkscape.org/zh/support-us/svg-standards-work/)
+    * [Sponsors](https://inkscape.org/zh/support-us/sponsors/)
 
-[首頁](https://inkscape.org/zh-hant/) » [關於](https://inkscape.org/zh-hant/about/) » _隐私条款_
+[主页](https://inkscape.org/zh-hans/) » [关于](https://inkscape.org/zh-hans/simplified-chinese-about/) » _隐私条款_
 
 Software Privacy Policy
 =======================
@@ -203,9 +203,9 @@ If you have any questions about this Privacy Policy, the practices of this site,
 
 This document was last updated on June 28, 2016
 
-Inkscape 是自由暨開源軟體，授權條款採用 [GPL](http://www.gnu.org/licenses/gpl-2.0.html)。
+Inkscape 是遵循[GPL](http://www.gnu.org/licenses/gpl-2.0.html)的自由开源软件。
 
-誠摯感謝： [Fastly](http://www.fastly.com/ "Data Cached by Fastly") [OSUOSL](https://osuosl.org/ "Site Hosted by OSUOSL") [Sponsors](https://inkscape.org/support-us/sponsors/ "All of our Sponsors") [作者](https://inkscape.org/zh-hant/credits/ "作者") [![PY](https://media.inkscape.org/static/images/django.svg "本網站正在運行：
+致谢： [Fastly](http://www.fastly.com/ "Data Cached by Fastly") [OSUOSL](https://osuosl.org/ "Site Hosted by OSUOSL") [Sponsors](https://inkscape.org/support-us/sponsors/ "All of our Sponsors") [作者](https://inkscape.org/zh-hans/credits/ "作者") [![PY](https://media.inkscape.org/static/images/django.svg "此网站运行：
 Python 3.6.8
 Django 2.2
 App: CMS [隐私条款]
