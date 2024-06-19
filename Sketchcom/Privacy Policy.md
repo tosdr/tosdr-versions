@@ -339,6 +339,7 @@ Email  Sign up
 * [Color Variables](https://www.sketch.com/color-variables/)
 * [Commenting](https://www.sketch.com/commenting/)
 * [Libraries](https://www.sketch.com/libraries/)
+* [Smart Layout](https://www.sketch.com/smart-layout/)
 * [Symbols](https://www.sketch.com/symbols/)
 * [Apps](https://www.sketch.com/apps/)
 * [Extensions](https://www.sketch.com/extensions/)
@@ -349,9 +350,8 @@ Email  Sign up
 ### Why Sketch
 
 * [Sketch Myths](https://www.sketch.com/myths/)
-* [Switch to Sketch](https://www.sketch.com/switch-to-sketch/)
-* [Sketch vs. Figma](https://www.sketch.com/vs/figma/)
-* [Sketch vs. Adobe XD](https://www.sketch.com/vs/xd/)
+* [Figma to Sketch](https://www.sketch.com/vs/figma/)
+* [Adobe XD to Sketch](https://www.sketch.com/vs/xd/)
 * [Switch from InVision](https://www.sketch.com/switch-from-invision/)
 * [Free for Education](https://www.sketch.com/education/)
 
