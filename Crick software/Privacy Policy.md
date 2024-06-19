@@ -1,12 +1,8 @@
 [Skip to main content](#main) Toggle navigation [![Crick Software](/image/crick-software-2021.svg)](https://www.cricksoft.com/uk)
 
 * [Search](https://www.cricksoft.com/uk/search)
-* [Shopping Cart](https://ukstore.cricksoft.com/cart)
-* [My Account](https://ukstore.cricksoft.com/login)
 
 * [Search](https://www.cricksoft.com/uk/search)
-* [Shopping Cart](https://ukstore.cricksoft.com/cart)
-* [My Account](https://ukstore.cricksoft.com/login)
 
 * [Products](https://www.cricksoft.com/uk/products)
     
