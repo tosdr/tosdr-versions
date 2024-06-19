@@ -4,7 +4,7 @@
 
 GTAFORUMS
 
-BAD LUCK, I GUESS](https://gtaforums.com/)
+FROM NORTH YANKTON, TO VICE CITY](https://gtaforums.com/)
 
 * [](#)
 
@@ -12,7 +12,7 @@ BAD LUCK, I GUESS](https://gtaforums.com/)
 
 * [Home](https://gtaforums.com/ "Home")
 
-[Coming This Summer to GTA Online: A New Brand of Vigilante Justice](https://gtaforums.com/topic/997386-coming-this-summer-a-new-brand-of-vigilante-justice/)
+[GTA Online: Bottom Dollar Bounties Coming 25th June](https://gtaforums.com/topic/997536-gta-online-bottom-dollar-bounties-coming-25th-june/)
 
 Registration Terms
 ==================
@@ -80,4 +80,4 @@ Important Information
 
 By using GTAForums.com, you agree to our [Terms of Use](https://gtaforums.com/terms/) and [Privacy Policy](https://gtaforums.com/gtanet/privacy).
 
-  [I accept](https://gtaforums.com/index.php?app=core&module=system&controller=terms&do=dismiss&ref=aHR0cHM6Ly9ndGFmb3J1bXMuY29tL3Rlcm1zLw==&csrfKey=14cb956ec721eea3d0bb10ef32dcd5fc)
+  [I accept](https://gtaforums.com/index.php?app=core&module=system&controller=terms&do=dismiss&ref=aHR0cHM6Ly9ndGFmb3J1bXMuY29tL3Rlcm1zLw==&csrfKey=b3b00cdbc85e7945af6f90c55bf39448)
