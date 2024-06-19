@@ -137,23 +137,24 @@ Save settings
 
 ### Featured Articles
 
-[![Ask for a Fade Haircut](https://www.wikihow.com/images/thumb/5/56/Ask-for-a-Fade-Haircut-Step-11.jpg/-crop-126-120-126px-Ask-for-a-Fade-Haircut-Step-11.jpg)
+[![Come Up with a Nickname](https://www.wikihow.com/images/thumb/4/44/Come-Up-with-a-Nickname-Step-22.jpg/-crop-126-120-126px-Come-Up-with-a-Nickname-Step-22.jpg)
 
-How to Get a Fade that Complements Your Style, Hair Type & More](https://www.wikihow.com/Ask-for-a-Fade-Haircut)
+3 Cool Methods for Inventing a Nickname](https://www.wikihow.com/Come-Up-with-a-Nickname)
 
-[![Deal With Aggressive Customers](https://www.wikihow.com/images/thumb/0/08/Deal-With-Aggressive-Customers-Step-12-Version-3.jpg/-crop-126-120-126px-Deal-With-Aggressive-Customers-Step-12-Version-3.jpg)
-
-How to  
-Deal With Aggressive Customers](https://www.wikihow.com/Deal-With-Aggressive-Customers)
-
-[![Enjoy the Outdoors](https://www.wikihow.com/images/thumb/0/00/Enjoy-the-Outdoors-Step-21-Version-2.jpg/-crop-126-120-126px-Enjoy-the-Outdoors-Step-21-Version-2.jpg)
+[![Start a Text Conversation with a Girl](https://www.wikihow.com/images/thumb/4/40/Start-a-Text-Conversation-with-a-Girl-%28test%29-Step-1.jpg/-crop-126-120-126px-Start-a-Text-Conversation-with-a-Girl-%28test%29-Step-1.jpg)
 
 How to  
-Enjoy the Outdoors](https://www.wikihow.com/Enjoy-the-Outdoors)
+Start a Text Conversation with a Girl](https://www.wikihow.com/Start-a-Text-Conversation-with-a-Girl)
 
-[![Learn Speed Reading](https://www.wikihow.com/images/thumb/5/5d/Learn-Speed-Reading-Step-13-Version-5.jpg/-crop-126-120-126px-Learn-Speed-Reading-Step-13-Version-5.jpg)
+[![Learn to Say No](https://www.wikihow.com/images/thumb/b/b1/Learn-to-Say-No-Step-14.jpg/-crop-126-120-126px-Learn-to-Say-No-Step-14.jpg)
 
-The Best Ways to Speed Read & Become a Faster Reader](https://www.wikihow.com/Learn-Speed-Reading)
+How to  
+Learn to Say No](https://www.wikihow.com/Learn-to-Say-No)
+
+[![Enjoy Being Single](https://www.wikihow.com/images/thumb/0/00/Forgive-an-Abusive-Parent-Step-9-Version-2.jpg/-crop-126-120-126px-Forgive-an-Abusive-Parent-Step-9-Version-2.jpg)
+
+How to  
+Enjoy Being Single](https://www.wikihow.com/Enjoy-Being-Single)
 
   
 
@@ -194,4 +195,4 @@ Follow Us
 
 \-
 
-152
+127
