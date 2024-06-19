@@ -12,11 +12,11 @@ Saving
 
 [Movies](https://www.newgrounds.com/movies)[Games](https://www.newgrounds.com/games)[Audio](https://www.newgrounds.com/audio)[Art](https://www.newgrounds.com/art)[Portal](https://www.newgrounds.com/portal)[Community](https://www.newgrounds.com/community)[Your Feed](https://www.newgrounds.com/social)
 
-![Newgrounds Background Image Theme](//img.ngfiles.com/themes/000/skin-fnf-4wk-webp.webp?1650371467)
+![Newgrounds Background Image Theme](//img.ngfiles.com/themes/000/998bbbd41718662371.webp?1718662447)
 
-[](https://amespinkinson.newgrounds.com/)
+[](https://midas215.newgrounds.com/)
 
-[AmesPinkinson](https://amespinkinson.newgrounds.com/) just joined the crew!
+[Midas215](https://midas215.newgrounds.com/) just joined the crew!
 
 We need **you** on the team, too.
 
@@ -292,21 +292,21 @@ If you have any questions about this privacy policy, the practices of this site,
 
 GamesMoviesAudioArtChannelsUsers
 
-[TheRealLifeguardYT **New Songs!**](https://thereallifeguardyt.newgrounds.com/news/post/1450898)
+[Josinator **Outage**](https://josinator.newgrounds.com/news/post/1453241)
 
-[Neutronex **I'm back, eh**](https://neutronex.newgrounds.com/news/post/1450896)
+[CrystalizedSilver **hey how do you guys find me?**](https://crystalizedsilver.newgrounds.com/news/post/1453239)
 
-[TransmorpherDDS **Gears and Guns**](https://transmorpherdds.newgrounds.com/news/post/1450894)
+[TheDanSandoval **Some sketches**](https://thedansandoval.newgrounds.com/news/post/1453238)
 
-[ShyeNewgrounds **I hate hackers**](https://shyenewgrounds.newgrounds.com/news/post/1450892)
+[SongiaXshudder **NEW ICON BOIIIIIIIIIIIIIIIIIIIIIIIII**](https://songiaxshudder.newgrounds.com/news/post/1453237)
 
-[KEIOAudio **SUPER WRATH + Original Soundtrack!**](https://keioaudio.newgrounds.com/news/post/1450891)
+[dryershit **HAPPY JUNETEENTH!**](https://dryershit.newgrounds.com/news/post/1453234)
 
-[TheGorondorf **Door Transition? Door Transition!**](https://thegorondorf.newgrounds.com/news/post/1450890)
+[partybooru **COMMISSIONS!!!!!!!!!**](https://partybooru.newgrounds.com/news/post/1453233)
 
 [**Wall Art by**
 
-**4WK**](https://4wk.newgrounds.com/)
+**IvanAlmighty**](https://ivanalmighty.newgrounds.com/)
 
 #### Main Sections
 
