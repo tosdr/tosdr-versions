@@ -522,6 +522,8 @@ Qualitäts-Software
 
 ![Google Certified Partner](https://www.consentmanager.net/wp-content/uploads/2024/03/277918114-1799c233-adce-43f4-a850-e3d01f099223.svg)
 
+![IAB Canada](https://www.consentmanager.net/wp-content/uploads/2024/06/339798144-68f9ffe4-acc5-456a-adaa-dfafb8952db0.svg)
+
 See also …
 
 * [Cookie Banner für …](#)
