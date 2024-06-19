@@ -11,8 +11,8 @@
 * Health IT
     * [Electronic Health Record](https://www.calmhsa.org/electronic-health-records/)
     * Interoperability
-        * [Planning](https://www.calmhsa.org/interoperability-planning/)
-        * [CalMHSA Connex APIs](https://www.calmhsa.org/interoperability-api/)
+        * [Overview](https://www.calmhsa.org/interoperability-overview/)
+        * [CalMHSA Connex](https://www.calmhsa.org/interoperability-api/)
         * [Patient/Client Opt Out](https://www.calmhsa.org/interoperability-optout/)
 * Managed Care
     * [Authorizations](https://www.calmhsa.org/psychiatric-inpatient-concurrent-review/)
@@ -42,7 +42,7 @@
     * [Clinical Supervision](https://www.calmhsa.org/clinical-supervision/)
     * [Staffing Needs](https://www.calmhsa.org/staffing-needs/)
     * [CalMHSA Loan Repayment Program](https://www.calmhsa.org/loan-repayment/)
-    * [Staff Training](https://www.calmhsa.org/staff-training/)
+    * [5150 Training](https://www.calmhsa.org/5150-training/)
 * CalAIM Training
     * [BHQIP Resources for Counties](https://www.calmhsa.org/bhqip/)
     * [CalAIM Support for Counties](https://www.calmhsa.org/calaim-support-for-counties/)
@@ -51,6 +51,7 @@
     * [Payment Reform](https://www.calmhsa.org/payment-reform/)
 * Quality & Performance
     * [Performance Improvement](https://www.calmhsa.org/performance-improvement/)
+    * [Quality Measures/HEDIS](https://www.calmhsa.org/hedis/)
 * Who We Are
     * [Our Vision](https://www.calmhsa.org/our-vision/)
     * [Leadership](https://www.calmhsa.org/leadership/)
@@ -64,8 +65,8 @@
 * Health IT
     * [Electronic Health Record](https://www.calmhsa.org/electronic-health-records/)
     * Interoperability
-        * [Planning](https://www.calmhsa.org/interoperability-planning/)
-        * [CalMHSA Connex APIs](https://www.calmhsa.org/interoperability-api/)
+        * [Overview](https://www.calmhsa.org/interoperability-overview/)
+        * [CalMHSA Connex](https://www.calmhsa.org/interoperability-api/)
         * [Patient/Client Opt Out](https://www.calmhsa.org/interoperability-optout/)
 * Managed Care
     * [Authorizations](https://www.calmhsa.org/psychiatric-inpatient-concurrent-review/)
@@ -95,7 +96,7 @@
     * [Clinical Supervision](https://www.calmhsa.org/clinical-supervision/)
     * [Staffing Needs](https://www.calmhsa.org/staffing-needs/)
     * [CalMHSA Loan Repayment Program](https://www.calmhsa.org/loan-repayment/)
-    * [Staff Training](https://www.calmhsa.org/staff-training/)
+    * [5150 Training](https://www.calmhsa.org/5150-training/)
 * CalAIM Training
     * [BHQIP Resources for Counties](https://www.calmhsa.org/bhqip/)
     * [CalAIM Support for Counties](https://www.calmhsa.org/calaim-support-for-counties/)
@@ -104,6 +105,7 @@
     * [Payment Reform](https://www.calmhsa.org/payment-reform/)
 * Quality & Performance
     * [Performance Improvement](https://www.calmhsa.org/performance-improvement/)
+    * [Quality Measures/HEDIS](https://www.calmhsa.org/hedis/)
 * Who We Are
     * [Our Vision](https://www.calmhsa.org/our-vision/)
     * [Leadership](https://www.calmhsa.org/leadership/)
