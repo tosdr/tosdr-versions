@@ -59,10 +59,11 @@ Back
 * [Become a Friend](https://bletchleypark.org.uk/friends/)
 * [Codebreakers' Wall - Sponsor a Brick](https://bletchleypark.org.uk/codebreaker-wall/about-our-bricks/)
 * [Volunteer](https://bletchleypark.org.uk/volunteer-with-us/)
+* [Corporate Engagement](https://bletchleypark.org.uk/support-us/corporate-engagement/)
 
 * [Overview](https://bletchleypark.org.uk/learning/)
 * [Bursary Opportunities](https://bletchleypark.org.uk/learning/funding-opportunities/)
-* [Book an Onsite Learning Visit](https://bletchleypark.org.uk/learning/book-a-learning-visit/)
+* [Book a Learning Visit to Bletchley Park](https://bletchleypark.org.uk/learning/book-a-learning-visit/)
 * [Essential Information](https://bletchleypark.org.uk/learning/essential-info/)
 * [Book an Outreach Visit](https://bletchleypark.org.uk/learning/book-an-outreach-visit/)
 
@@ -134,6 +135,11 @@ Volunteer
 ---------
 
 Volunteers are vital to the running of Bletchley Park and an integral part in delivering an exceptional experience to thousands of our visitors each year. Come and join our team of valued volunteers where you’ll help make a real difference.
+
+Corporate Engagement
+--------------------
+
+Bletchley Park offers a range of exclusive opportunities for companies. We can work with your business to deliver tailored benefits designed to meet your objectives.
 
 Learning, virtual & outreach Sessions
 -------------------------------------
