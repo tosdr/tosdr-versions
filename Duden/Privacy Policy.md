@@ -138,7 +138,13 @@
 
 [◁ Sprache und Stil](#listview-sprachwissen)
 
+[Geflügelte Worte](https://www.duden.de/sprachwissen/sprachratgeber/Gefl%C3%BCgelte-Worte)
+
+[Geschoss (süddeutsch/österreichisch auch: Geschoß), Etage, Stock(werk)](https://www.duden.de/sprachwissen/sprachratgeber/Geschoss-s%C3%BCddeutsch%C3%B6sterreichisch-auch-Gescho%C3%9F%2C-Etage%2C-Stockwerk)
+
 [Häufige Fehler und Falsch­schreib­weisen](https://www.duden.de/haeufige_fehler)
+
+[Verwendungsweisen beim Adjektiv](https://www.duden.de/sprachwissen/sprachratgeber/Verwendungsweisen-beim-Adjektiv)
 
 [„Sprachwissen“ im Überblick](https://www.duden.de/sprachwissen/inhaltsuebersicht)
 
@@ -172,7 +178,7 @@
 
 [Konrad Duden](https://www.duden.de/ueber_duden/konrad-duden)
 
-[Sommeraktion 2024: 30% Rabatt bei Duden-Mentor – jetzt testen und sparen!](https://angebot.mentor.duden.de/premium_angebot_so24_2024_06/) [Sommeraktion 2024: 30% Rabatt bei Duden-Mentor – jetzt testen und sparen!](https://angebot.mentor.duden.de/premium_angebot_so24_2024_06/) [Sommeraktion 2024: 30% Rabatt bei Duden-Mentor – jetzt testen und sparen!](https://angebot.mentor.duden.de/premium_angebot_so24_2024_06/) [Sommeraktion 2024: 30% Rabatt bei Duden-Mentor – jetzt testen und sparen!](https://angebot.mentor.duden.de/premium_angebot_so24_2024_06/) [Sommeraktion 2024: 30% Rabatt bei Duden-Mentor – jetzt testen und sparen!](https://angebot.mentor.duden.de/premium_angebot_so24_2024_06/)
+[Sommeraktion 2024: **50% Rabatt** bei Duden-Mentor – jetzt testen und sparen!](https://angebot.mentor.duden.de/premium_angebot_so24_2024_06/) [Sommeraktion 2024: **50% Rabatt** bei Duden-Mentor – jetzt testen und sparen!](https://angebot.mentor.duden.de/premium_angebot_so24_2024_06/) [Sommeraktion 2024: **50% Rabatt** bei Duden-Mentor – jetzt testen und sparen!](https://angebot.mentor.duden.de/premium_angebot_so24_2024_06/) [Sommeraktion 2024: **50% Rabatt** bei Duden-Mentor – jetzt testen und sparen!](https://angebot.mentor.duden.de/premium_angebot_so24_2024_06/) [Sommeraktion 2024: **50% Rabatt** bei Duden-Mentor – jetzt testen und sparen!](https://angebot.mentor.duden.de/premium_angebot_so24_2024_06/)
 
 Datenschutz­erklärung
 =====================
