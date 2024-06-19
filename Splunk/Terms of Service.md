@@ -179,6 +179,10 @@ false
     
     The world’s leading organizations trust Splunk to help keep their digital systems secure and reliable.](https://www.splunk.com/en_us/about-us/why-splunk.html)
     
+    [How Splunk Compares
+    
+    Discover how Splunk’s Unified Security and Observability Platform improves your digital resilience.](https://www.splunk.com/en_us/about-us/how-splunk-compares.html)
+    
     Business Initiatives
     
     * [Digital Resilience](https://www.splunk.com/en_us/solutions/digital-resilience.html)
@@ -535,6 +539,10 @@ BY INDUSTRY
 
 The world’s leading organizations trust Splunk to help keep their digital systems secure and reliable.](https://www.splunk.com/en_us/about-us/why-splunk.html)
 
+[How Splunk Compares
+
+Discover how Splunk’s Unified Security and Observability Platform improves your digital resilience.](https://www.splunk.com/en_us/about-us/how-splunk-compares.html)
+
 Business Initiatives
 
 [Digital Resilience](https://www.splunk.com/en_us/solutions/digital-resilience.html)
@@ -854,6 +862,7 @@ COMPANY
 * [About Splunk](https://www.splunk.com/en_us/about-splunk.html)
 * [Careers](https://www.splunk.com/en_us/careers.html)
 * [Global Impact](https://www.splunk.com/en_us/global-impact.html)
+* [How Splunk Compares](https://www.splunk.com/en_us/about-us/how-splunk-compares.html)
 * [Leadership](https://www.splunk.com/en_us/about-splunk/leadership.html)
 * [Newsroom](https://www.splunk.com/en_us/newsroom.html)
 * [Partners](https://www.splunk.com/en_us/partners.html)
