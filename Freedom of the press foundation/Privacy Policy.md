@@ -5,7 +5,7 @@
 
 * [Donate](https://freedom.press/donate/)
 * [Store](https://freedom-press-store.myshopify.com/)
-* [Jobs](https://freedom.press/jobs/)
+* [Careers](https://freedom.press/careers/)
 * [Contact](https://freedom.press/contact/)
 * [About](https://freedom.press/about/)
 * [Twitter](http://twitter.com/FreedomofPress)
@@ -143,7 +143,7 @@ Search
 
 * [Donate](https://freedom.press/donate/)
 * [Store](https://freedom-press-store.myshopify.com/)
-* [Jobs](https://freedom.press/jobs/)
+* [Careers](https://freedom.press/careers/)
 * [Contact](https://freedom.press/contact/)
 * [About](https://freedom.press/about/)
 
