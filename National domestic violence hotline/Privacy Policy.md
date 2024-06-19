@@ -1,9 +1,9 @@
 Be the spark of hope for survivors.
 -----------------------------------
 
-Your support of The Hotline ensures connections to critical resources are available for victims and survivors of domestic violence every single day. Join the _Hope Can’t Wait Campaign_ today.
+Your support of The Hotline ensures connections to critical resources are available for victims and survivors of domestic violence every single day. Give hope today!
 
-[Give by June 30](https://www.thehotline.org/2024sp-b/)
+[Donate Now](https://www.thehotline.org/2024sp-b/)
 
 [![The Hotline](https://www.thehotline.org/wp-content/themes/hotline-main/assets/images/logo-ndvh.svg "The Hotline")](https://www.thehotline.org/)
 
