@@ -22,7 +22,7 @@ Skip to main contentSkip to footer
     * [Storage & Organization](https://www.samsclub.com/c/home-storage-home-organization/1424?xid=hdr:shop:home:storage-organization)
     * [Furniture](https://www.samsclub.com/c/furniture/1286?xid=hdr:shop:home:furniture)
     * [Mattresses](https://www.samsclub.com/c/mattresses-mattress-sets/1350?xid=hdr:shop:home:mattresses)
-    * [Bedding & Bath](https://www.samsclub.com/c/bed-bath/1433?xid=hdr:shop:home:bedding-bath)
+    * [Bedding](https://www.samsclub.com/c/bed-bath/1433?xid=hdr:shop:home:bedding)
     * [Appliances](https://www.samsclub.com/c/appliances/1004?xid=hdr:shop:home:appliances)
     * [Home Improvement](https://www.samsclub.com/c/home-improvement/1390?xid=hdr:shop:home:home-improvement)
     * [Kitchen & Dining](https://www.samsclub.com/c/housewares/1373?xid=hdr:shop:home:kitchen-dining)
@@ -64,8 +64,7 @@ Skip to main contentSkip to footer
     [### Seasonal](https://www.samsclub.com/c/seasonal-special-occasions/1900101?xid=hdr:shop:seasonal)
     
     * [Summer Entertaining](https://www.samsclub.com/c/summer-entertaining/15800303?xid=hdr:shop:seasonal:summer-entertaining)
-    * [Father's Day](https://www.samsclub.com/c/father-s-day/2400103?xid=hdr:shop:seasonal:fathers-day)
-    * [Graduation](https://www.samsclub.com/c/graduation/2400105?xid=hdr:shop:seasonal:graduation)
+    * [Back to College](https://www.samsclub.com/c/bts-dorm-furniture/7420158?xid=hdr:shop:seasonal:back-to-college)
     * [Disaster Recovery](https://www.samsclub.com/b/disaster-recovery/1240101?xid=hdr:shop:seasonal:disaster-recovery)
     * [Gift Cards, Flowers & Gifts](https://www.samsclub.com/c/jewelry-flowers-gifts/7520117?xid=hdr:shop:seasonal:gift-cards-flowers-gifts)
     * [Outdoor & Patio](https://www.samsclub.com/c/outdoor-living/1852?xid=hdr:shop:seasonal:outdoor-patio)
@@ -77,7 +76,7 @@ Skip to main contentSkip to footer
     * [Member's Mark™](https://www.samsclub.com/c/members-mark/4710101?xid=hdr:shop:more-departments:members-mark)
     * [New & Trending](https://www.samsclub.com/c/new-and-trending/15720522?xid=hdr:shop:more-departments:new-trending)
     * [Auto & Tires](https://www.samsclub.com/c/auto-tires/1055?xid=hdr:shop:more-departments:auto-tires)
-    * [Clothing, Jewelry & Shoes](https://www.samsclub.com/c/apparel-shoes/1959?xid=hdr:shop:more-departments:clothing-jewelry-shoes)
+    * [Clothing & Shoes](https://www.samsclub.com/c/apparel-shoes/1959?xid=hdr:shop:more-departments:clothing-shoes)
     * [Office](https://www.samsclub.com/c/office-supplies/1706?xid=hdr:shop:more-departments:office)
     * [Toys, Games & Books](https://www.samsclub.com/c/toys-and-video-games/1929?xid=hdr:shop:more-departments:toys-games-books)
     * [Restaurant Supplies](https://www.samsclub.com/c/restaurant-supplies/2209?xid=hdr:shop:more-departments:restaurant-supplies)
@@ -122,9 +121,9 @@ Find a club
 Terms and Conditions
 ====================
 
-_Last updated on June 3, 2024_
+_Last updated on June 17, 2024_
 
-[Clubs, Site & Membership](#samsclub) [Sam’s Club Membership Free Trial](https://www.samsclub.com/content/membership-free-trial-terms-and-conditions) [Refer a Friend](#refer-a-friend) [Sam's Cash™ Loyalty Rewards Program](#loyalty-rewards-program) [Curbside Pickup](#pickup) [Free Shipping](#free-shipping) [Sam’s Club Delivery](#delivery) [Free Tire Repair](#tire-repair) [Instant Savings](#instant-savings) [Photos and Customization](#photos-customization) [Prescription Eyeglasses](#optical) [Prescriptions Program](#prescriptions) [Satisfaction Guarantee](#satisfaction-guarantee) [Subscription Order Services](#subscription-order-services) [Third-Party Service Subscription](#subscription) [Scan and Go](#scan-go)
+[Clubs, Site & Membership](#samsclub) [Sam’s Club Membership Free Trial](https://www.samsclub.com/content/membership-free-trial-terms-and-conditions) [Refer a Friend](#refer-a-friend) [Sam's Cash™ Loyalty Rewards Program](#loyalty-rewards-program) [Curbside Pickup](#pickup) [Ship To Home](#ship-to-home) [Sam’s Club Delivery](#delivery) [Free Tire Repair](#tire-repair) [Instant Savings](#instant-savings) [Photos and Customization](#photos-customization) [Prescription Eyeglasses](#optical) [Prescriptions Program](#prescriptions) [Satisfaction Guarantee](#satisfaction-guarantee) [Subscription Order Services](#subscription-order-services) [Third-Party Service Subscription](#subscription) [Scan and Go](#scan-go)
 
 Clubs, Site and Membership Terms of Use
 ---------------------------------------
@@ -191,15 +190,16 @@ This section includes terms specific to Sam's Club Members ("Members") and may n
 
 #### A. General Membership Policies
 
-* Members must be 18 years of age or older and have a valid form of government-issued identification or other Sam's approved identification.
+* Members must be 18 years of age or older, have a valid form of government-issued identification or other Sam's approved identification.
+* Sam’s Club reserves the right to require a valid email address, phone number and valid current credit or debit card to be kept on file at all times.
 * Sam's Club reserves the right to accept, refuse, or revoke Membership with or without cause at any time at its sole discretion.
-* • Annual Membership fee covers a 12-month period. If a Member renews during the sixty (60) days following their annual renewal date, the Annual Membership date remains the same and the Member will be charged for a full year membership.
+* Annual Membership fee covers a 12-month period. If a Member renews during the sixty (60) days following their annual renewal date, the Annual Membership date remains the same and the Member will be charged for a full year membership.
 * The annual membership date remains the same for memberships renewed within 60 days following their annual renewal date and members will be charged a full year membership fee.
 * Members who do not renew their Sam’s Club membership on or before their annual renewal date will not be able to shop at Sam’s Club, on SamsClub.com or through the Sam’s Club mobile app, and a non-member surcharge fee equal to 10% of the total purchase may apply, at Sam’s Club sole discretion, to all post-expiration purchases.
 * Limit one Plus Membership per household or business and one Plus membership cancellation or one membership downgrade refund per year.
 * Members are welcome to bring their children or guardians and up to two guests per visit to any Sam's Club location. A Member must accompany their children or guardians and their guests at all times. Members are responsible for any damage or other liability caused by themselves, their children or guardians, and their guests.
 * Sam's Club reserves the right to inspect any container, backpack, briefcase or other bag of any person upon entering or leaving any Sam's Club location and to refuse entry to anyone at our discretion.
-* Receipts: To ensure that you are charged correctly for the merchandise you have selected, Sam's Club may inspect or electronically scan your merchandise and electronic/phone or paper copy receipt(s) when you exit any Sam's Club location.
+* Receipts: To ensure that you are charged correctly for the merchandise you have selected, Sam's Club may inspect or electronically scan your merchandise, cart and electronic/phone or paper copy receipt(s) when you exit any Sam's Club location.
 * Sam's Club reserves the right to request consumers to show their Sam's Club membership card (physical or digital card) upon entry to a Sam's Club facility. Notwithstanding anything to the contrary, consumers are allowed to shop at Sam's Club without a Sam's Club membership where required by law.
 
 #### B. Membership Period, Cards and Fees
@@ -210,9 +210,9 @@ This section includes terms specific to Sam's Club Members ("Members") and may n
 * Membership cards are non-transferable and are valid at all Sam's Club locations nationwide and to make purchases on the Site.
 * Sam's Club reserves the right to require Members to take a photo in order to verify the Member's identity notwithstanding whether photo is on the Membership Card.
 * A Membership includes a Complimentary Card in addition to the Primary Member card.
-* • Sam's Club Members with a Club-level membership may obtain up to eight (8) Add-on Memberships for an additional reduced fee for each Add-on Membership. Each Add-on Membership is eligible to receive one (1) Complimentary card. Visit a Sam's Club store or call 888-746-7726 to learn about the terms and costs of Add-on Memberships. An Add-on Member may also create their own membership. Click here to learn more about the [Benefits of Club & Plus Membership - Sam's Club (samsclub.com)](https://help.samsclub.com/app/answers/detail/a_id/382/~/benefits-of-club-%26-plus-membership---sams-club)
+* Sam's Club Members with a Club-level membership may obtain up to eight (8) Add-on Memberships for an additional reduced fee for each Add-on Membership. Each Add-on Membership is eligible to receive one (1) Complimentary card. Visit a Sam's Club store or call 888-746-7726 to learn about the terms and costs of Add-on Memberships. An Add-on Member may also create their own membership. Click here to learn more about the [Benefits of Club & Plus Membership - Sam's Club (samsclub.com)](https://help.samsclub.com/app/answers/detail/a_id/382/~/benefits-of-club-%26-plus-membership---sams-club)
 * Sam's Club Plus Members may obtain up to sixteen (16) additional club-level Add-on Memberships for an additional reduced fee for each Add-on Membership. Each Add-on Membership is eligible to receive one (1) Complimentary card. Add-on members are issued a club-level membership card. Only Primary and Complimentary cardholders are eligible for the Plus benefits. If an Add-on member is interested in upgrading to Plus, they must create a new account. Click here to learn more about the [Benefits of Club & Plus Membership - Sam's Club (samsclub.com)](https://help.samsclub.com/app/answers/detail/a_id/382/~/benefits-of-club-%26-plus-membership---sams-club)
-* Sam's Plus Members are eligible for Free Shipping subject to the terms available [here](#free-shipping).
+* Sam's Plus Members with an active membership are eligible for Free Shipping with minimum order value on eligible items subject to the terms available [here](#ship-to-home).
 * Add-on Memberships include a card for the Primary Add-on Member and an Add-on Complimentary Household Cardholder.
 * The Membership period for an Add-on Member will coincide with the Primary Member's membership period. The Membership fee for an Add-On Member added after the Primary Member may be pro-rated.
 
@@ -220,10 +220,10 @@ This section includes terms specific to Sam's Club Members ("Members") and may n
 
 1. **Auto-renew Program**
     * Members not enrolled in the Auto-renew Program may enroll in the Auto-renew Program at any time under then-current Terms.
-    * If the Primary Member or Complimentary Household Cardholder enrolls in the Auto-renew Program, Sam's Club will automatically charge the Membership fee, plus the fee for any existing Add-On Memberships and any applicable taxes, to any card on file or any payment method in the digital wallet approximately one day before the end of the Membership term. By enrolling in the Auto-renew Program, the Primary and Complimentary Member authorizes Sam's Club to charge the scheduled payments (or any adjustment thereof) to any card on file or any payment method in the digital wallet, and represents that they are the owner or authorized user of the account(s) and payment methods to be charged.
-    * Sam's Club will send information about the Auto-renew Program and Membership renewal by email and/or mail. A valid email address is required for enrollment in the Auto-renew Program when Members enroll online. Members may update payment and other account information online or by calling 1-888-746-7726. By enrolling in the Auto-renew Program, a Member agrees to receive communication about Membership renewals only by email and to receive marketing and promotional email from Sam's Club.
-    * A Member's authorization under the Auto-renew Program allows Sam's Club to adjust the scheduled charge to reflect any changes to the Membership fee, Add-On Membership fee (if applicable), or taxes. Sam's Club will notify the Member by email, at least 10 days prior to making any charge, if there is a change to the fee. Although payment will usually be processed on the scheduled date, the Member should allow several days for processing.
-    * ALL AUTHORIZATIONS UNDER THE AUTO-RENEW PROGRAM REMAIN IN EFFECT UNTIL THE AUTOMATIC RENEWAL OPTION IS CANCELLED. Members may cancel enrollment in the Auto-renew Program at any time online through the Site, in Clubs, or by calling 1-888-746-7726. Cancellation of enrollment in the Auto-renew Program is distinct from cancellation of your Sam's Club Membership. A Member can keep his/her Membership active after unenrolling in the Auto-renew Program by paying the renewal fee in Clubs, online or by calling 1-888-746-7726.
+    * If the Primary Member or Complimentary Household Cardholder enrolls in the Auto-renew Program, Sam's Club will automatically charge the Membership fee, plus the fee for any existing Add-On Memberships and any applicable taxes, to any card on file or any payment method in the digital wallet or online account approximately one day before the end of the Membership term. By enrolling in the Auto-renew Program, the Primary and Complimentary Member authorizes Sam's Club to charge the scheduled payments (or any adjustment thereof) to any card on file or any payment method in the digital wallet or online account, and represents that they are the owner or authorized user of the account(s) and payment methods to be charged.
+    * Sam's Club will send information about the Auto-renew Program and Membership renewal by email and/or mail. A valid current credit or debit card, email address and phone number are required. Members may update payment and other account information online or by calling 1-888-746-7726. By enrolling in the Auto-renew Program, a Member agrees to receive communication about Membership renewals only by email and to receive marketing and promotional email from Sam's Club.
+    * A Member's authorization under the Auto-renew Program allows Sam's Club to adjust the scheduled charge to reflect any changes to the Membership fee, Add-On Membership fee (if applicable), or taxes. Sam's Club will notify the Member by email, prior to making any charge, if there is a change to the fee. Although payment will usually be processed on the scheduled date, the Member should allow several days for processing.
+    * ALL AUTHORIZATIONS UNDER THE AUTO-RENEW PROGRAM REMAIN IN EFFECT UNTIL THE AUTOMATIC RENEWAL OPTION OR MEMBERSHIP IS CANCELLED. Sam’s Club may provide Members the option to cancel enrollment in the Auto-renew Program online through the Site, in Clubs, or by calling 1-888-746-7726. Cancellation of enrollment in the Auto-renew Program is distinct from cancellation of your Sam's Club Membership. A Member may be allowed, at Sam’s Club sole discretion, to keep his/her Membership active after unenrolling in the Auto-renew Program by paying the renewal fee in Clubs, online or by calling 1-888-746-7726.
     * Continued participation in the Auto-renew Program after any changes to these Terms or changes to the Membership fee constitutes acceptance of the changes.
 2. **Automatic Billing for Members with Sam's Club Credit**
     
@@ -236,7 +236,7 @@ This section includes terms specific to Sam's Club Members ("Members") and may n
     * A renewal initiated within sixty (60) days after your expiration date will extend your Membership for twelve (12) months from the expiration date. If your Membership has been expired for more than sixty (60) days, Sam's Club has discretion to extend your Membership for twelve (12) months from the date you initiated the renewal.
 4. **Cancelling your Membership**
     
-    Members may cancel their Membership at any time in Clubs or by calling 1-888-746-7726. Members may cancel enrollment in the Auto-renew Program at any time in Clubs, by calling 1-888-746-7726, or online through their account. Members with a Sam's Club Credit Account who are automatically billed for Membership renewal via that Account may also be required to contact the card issuer to unenroll from the automatic billing program.
+    Members may cancel their Membership at any time in Clubs or by calling 1-888-746-7726. If Members cancel their Membership under this section, Members will still have access to their Membership until the end of their Membership Year unless they have received a refund under the 100% Satisfaction Membership Guarantee. Members with a Sam's Club Credit Account who are automatically billed for Membership renewal via that Account are also required to contact the card issuer to unenroll from the automatic billing program.
     
 
 #### D. Payment In Clubs and Online
@@ -335,7 +335,7 @@ Sam's Club may from time to time and in its discretion incorporate additional te
 * [Sam’s Club Membership Free Trial](https://www.samsclub.com/content/membership-free-trial-terms-and-conditions)
 * [Sam's Cash™ Loyalty Rewards Program](#loyalty-rewards-program)
 * [Curbside Pickup](#pickup)
-* [Free Shipping](#free-shipping)
+* [Ship To Home](#ship-to-home)
 * [Sam’s Club Delivery](#delivery)
 * [Free Tire Repair](#tire-repair)
 * [Instant Savings](#instant-savings)
@@ -506,7 +506,7 @@ Notwithstanding anything contrary in this section, Sam’s Club Members must hav
 
 ### V. Expiration of Sam's Cash™, Suspension of Sam's Cash™ Program or Rewards
 
-* Sam's Cash Cash under the Sam’s Cash Program does not expire but a Member must have a current active membership to redeem.
+* Sam's Cash under the Sam’s Cash Program does not expire but a Member must have a current active membership to redeem.
 * Sam's Club reserves the right to amend, cancel, or suspend the Sam's Cash Program, in whole or in part, or change any of these Terms and Conditions at any time for any or no reason.
 * Sam's Club reserves the right to revoke Sam's Cash, suspend a Member's access to Sam's Cash and the Sam's Cash Program in the event of fraud, abuse of the Sam's Cash Program, or violations of these Terms and Conditions, as determined in Sam's Club's sole discretion without notice to the Member. Such action may result in the forfeiture of Sam's Cash not yet redeemed.
 
@@ -515,7 +515,7 @@ Curbside Pickup Terms & Conditions
 
 ### I. Introduction
 
-In a continuing effort to provide legendary member service and experience, Sam's Club offers Curbside Pickup services ("Curbside Pickup") for certain Members shopping on SamsClub.com. Participation is subject to these "Curbside Pickup Terms and Conditions." By participating in Curbside Pickup, you acknowledge that you have read these Curbside Pickup Terms and Conditions, understand them, and agree to be bound by them.
+In a continuing effort to provide legendary member service and experience, Sam's Club offers Curbside Pickup services ("Curbside Pickup") for Members shopping on SamsClub.com. Participation is subject to these "Curbside Pickup Terms and Conditions." By participating in Curbside Pickup, you acknowledge that you have read these Curbside Pickup Terms and Conditions, understand them, and agree to be bound by them.
 
 Participation in Curbside Pickup is subject to these Curbside Pickup Terms and Conditions, the Membership Terms and Conditions, the Website Terms and Conditions, and other Sam's Club rules and policies as may be applicable.
 
@@ -523,7 +523,7 @@ All Sam's Club rules, including these Curbside Pickup Terms and Conditions, may 
 
 ### II. Curbside Pickup
 
-* Curbside Pickup is a free service for certain Sam's Club Members that lets you order online at SamsClub.com and pick up your goods at any Sam's Club in the US or Puerto Rico.
+* Curbside Pickup is a free service for Sam's Club Plus Members that lets Plus Members order eligible items online at SamsClub.com and pick up the goods at any participating Sam's Club in the US or Puerto Rico. For all other members, there may be a minimum order value, which may change from time to time. In addition to the price of goods, a Curbside Pickup charge as shown at checkout, if applicable, may also be payable when the minimum order value is not met. All prices quoted are exclusive of tax and you will see estimated taxes and fees when you place the order. The final taxes and fees will be calculated on the day your order is picked up.
 * Simply place your order online at SamsClub.com, select a day and time that fits your schedule, and then pick up your items from the designated Sam's Club. Sam's Club reserves the right to limit the availability of Curbside Pickup and reserves the right to charge a restocking fee for orders not picked up on time or not picked up.
 * We aim to have your goods ready at the Curbside Pickup time you selected when placing your order, but we do not guarantee that the goods will be ready on or by a certain date and time. Sam's Club will not be liable for not having the goods ready outside of the requested Curbside Pickup slot or for failing to provide all or any of the goods in your order.
 * Not all items are eligible for Curbside Pickup. Eligible items will be noted online with the option "Pickup"
@@ -559,26 +559,30 @@ For Curbside Pickup, orders that are not picked up at the Club 24 hours after th
 
 Sam's Club reserves the right to amend, cancel or temporarily suspend these Curbside Pickup and Delivery Services, in whole or in part, or change any of these Curbside Pickup Terms and Conditions at any time for any or no reason.
 
-Free Shipping Terms & Conditions
---------------------------------
+Ship To Home Terms & Conditions
+-------------------------------
 
-* Free Shipping for Plus Members: Plus Members with an active membership receive free shipping up to a total of ten (10) addresses on eligible online items denoted by a "Free Shipping for Plus" tag.
-* Free Shipping for Club Members: Club Members with an active membership shipping to the contiguous U.S. receive free shipping up to a total of ten (10) addresses on all eligible online items denoted by a "Free Shipping" tag. Club Members shipping items to Hawaii may receive discounted shipping costs on items denoted by a "Free Shipping" tag and those items may also incur a surcharge.
+* Plus Members: Plus Members with an active membership shipping to the contiguous U.S. receive free ground shipping on eligible items with a certain minimum order value, which value may change from time to time. Sam’s Club, in its sole discretion, may limit free shipping for Plus members to a total of ten (10) addresses on eligible online orders, which number of addresses may change from time to time. In addition to the price of goods, a shipping charge for certain items as shown at checkout, if applicable, may also be payable by you.
+* Shipping for Club Members: In addition to the price of goods, Club Members with an active membership shipping to the contiguous U.S. will incur a shipping charge as shown at checkout.
 * If we inadvertently fail to charge for shipping and later discover that we should have done so, we will charge the card on file for the missed shipping charges.
 
 ### Additional Limitations/Exclusions:
 
-* Items that do not have a "Free Shipping" tag or a "Free Shipping for Plus" tag are not eligible for free shipping.
-* Shipping is not available to Alaska, US territories (i.e. Puerto Rico, Guam, the US Virgin Islands, etc.) and post office boxes.
-* Free shipping is limited to ground shipping.
-* Limited items are available for free shipping to Military APO/FPO addresses.
-* Free shipping is available for online items only.
-* Free shipping does not include delivery from Club locations.
-* Free Shipping for Plus Members and Free Shipping for Club Members are not available on Sam's Club Auctions site.
-* Free Shipping is not available for drop ship resellers. A drop ship reseller is someone who purchases products for the purpose of resale on a third-party site. Drop ship reseller purchases returned to Sam's Club as undeliverable due to an incorrect address will be refunded, less any applicable shipping fees.
-* Free shipping does not include delivery from Club locations. However, Sam’s Club may, in its sole discretion, deliver items from a local club or fulfillment center without notice to members and without a shipping box or packaging.
-* Sam’s Club reserves the right to ship the goods from any node and through any shipping partner.
-* Sam's Club reserves the right to make changes to these terms and conditions at any time. Visit Free Shipping FAQs for additional information.
+* Ship To Home:
+    * Not all items are eligible for ship to home.
+    * Shipping is not available to Alaska, US territories (i.e. Puerto Rico, Guam, the US Virgin Islands, etc.) and post office boxes.
+    * In addition to shipping charges, members may incur a surcharge for orders shipped to Hawaii.
+    * Sam’s Club may, in its sole discretion, deliver items from a local club or fulfilment center without notice to members and without a shipping box or packaging.
+    * Sam’s Club reserves the right to ship the goods from any node and through any shipping partner.
+* Plus Members Free Shipping to Home with Minimum Order Value:
+    * Limited to ground shipping.
+    * Limited items are available for shipping to Military APO/FPO addresses.
+    * Available only to the contiguous U.S. and excludes Alaska and Hawaii.
+    * Available for online items only.
+    * Does not include delivery from Club locations.
+    * Not available on Sam's Club Auctions site.
+    * Not available for drop ship resellers. A drop ship reseller is someone who purchases products for the purpose of resale on a third-party site. Drop ship reseller purchases returned to Sam's Club as undeliverable due to an incorrect address will be refunded, less any applicable shipping fees.
+* Sam's Club reserves the right to make changes to these terms and conditions at any time. Visit Free Shipping [FAQs](https://help.samsclub.com/app/answers/detail/a_id/354/kw/free%20shipping) for additional information.
 
 Sam’s Club Delivery Terms & Conditions
 --------------------------------------
@@ -593,9 +597,10 @@ All Sam's Club rules, including these Delivery Terms and Conditions, may be amen
 
 ### II. Delivery
 
-* Delivery is a service for Sam's Club Members that allows you to order your purchases online at SamsClub.com or the Sam’s Club mobile app and have your goods delivered to you at a time and address you designate at your discretion.
+* Delivery is a service for Sam's Club Members that allows you to order your purchases online at SamsClub.com or the Sam’s Club mobile app and have your eligible goods delivered to you at a time and address you designate at your discretion.
+* There may be a minimum order value, which may change from time to time, and a limitation on the number of deliveries within a certain period of time, which may change from time to time. In addition to the price of goods, a delivery charge as shown at checkout, if applicable, may also be payable by you. All prices quoted are exclusive of tax and you will see estimated taxes and fees when you place the order.
 * This service is available for those Sam's Club locations designated by Sam’s Club in the US, excluding Puerto Rico, and which designations may change from time-to-time.
-* Simply place your order online at SamsClub.com or the Sam’s Club app, select a day and time that fits your schedule, and we’ll do our best to have your items delivered at your selected day and time at the location you select when you place your order.
+* Simply place your order online at SamsClub.com or the Sam’s Club app, select a day and time that fits your schedule, and we’ll do our best to have your eligible items delivered at your selected day and time at the location you select when you place your order.
 * Sam’s Club can only deliver to an address stored in your address book in your account.
 * The default address will be the address you have on file for your Sam’s Club membership account. If you do not add and select a new address, the order will be delivered to the default address.
 * Sam's Club reserves the right to limit the availability of Delivery for any reason.
@@ -603,7 +608,7 @@ All Sam's Club rules, including these Delivery Terms and Conditions, may be amen
 * Eligible delivery items will be identified online, and not all items are eligible for Delivery.
 * Merchandise is subject to availability and is limited by the Sam's Club Advertising & Pricing Policy \[Advertising & Pricing Policy (samsclub.com)\]. If the item you requested is not available you will not be charged for that item. Select items require proof of age.
 * If you authorize Sam’s Club during the order process to substitute out of stock items with other substitute in-stock items, Sam’s Club will attempt to secure those in-stock items for you and will charge you the current price for that substitute item based on the instructions you provide during the order process.
-* In certain instances, Sam’s may offer a same-day delivery or other expedited delivery options. Not all items are eligible for same-day or expedited delivery. Items that are eligible for same-day delivery or expedited delivery will be indicated on the Sam’s Club website or Sam’s Club mobile app. Order time limits, geographic restrictions and order size and quantity limits apply.
+* In certain instances, Sam’s may offer a same-day delivery or other expedited delivery options. Not all items are eligible for same-day or expedited delivery. Items that are eligible for same-day delivery or expedited delivery will be indicated on the Sam’s Club website or Sam’s Club mobile app. There may be a minimum order value, which may change from time to time, a limitation on the number of deliveries within a certain period of time, which may change from time to time, and/or delivery charge as shown at checkout, if applicable, in addition to the price of the goods. Order time limits, geographic restrictions and order size and quantity limits apply.
 * During the order process, you will have the opportunity to provide your delivery drop off location preferences. Sam’s Club will make reasonable attempts to follow the preferred drop off location preferences that you provide. If for any reason Sam’s Club is unable to complete the delivery using the instructions you provide, Sam’s Club may elect to make an attempt to contact you to arrange for alternate drop off arrangements or may cancel your order, in Sam’s Club sole discretion.
 * Sam’s Club, in its sole discretion, may use any alternative method of delivery it chooses, which may or may not be Delivery from a local club or fulfillment center. Sam’s Club reserves the right to deliver the goods from any node and through any delivery partner.
 
@@ -618,7 +623,7 @@ All Sam's Club rules, including these Delivery Terms and Conditions, may be amen
 
 ### IV. Fees
 
-* In addition to the price of goods, a delivery charge as shown at checkout, will also be payable by you. The delivery charge will be displayed during your checkout process.
+* In addition to the price of goods, a delivery charge as shown at checkout, if applicable, may also be payable by you. The delivery charge will be displayed during your checkout process.
 * The final taxes and fees will be calculated on the day your order is picked and delivered.
 * Sam’s Club delivery special offers may have initial or recurring purchase requirements. See the applicable offer for details and charges associated with those offers.
 
