@@ -190,7 +190,7 @@ This Privacy Policy only covers Xayn's own collecting and handling of data. We o
 
 Our website may link to external sites that are not operated by us. Please be aware that we have no control over the content and policies of those sites and cannot accept responsibility or liability for their respective privacy practices.
 
-This privacy policy is provided by us, Xayn AG, c/o CMS Deutschland, EUREF-Campus 3, 10829 Berlin, GERMANY. The contact address is [privacy@xayn.com](mailto:privacy@xayn.com?subject=Privacy%20Inquiry) ([imprint](https://www.xayn.com/imprint)).    
+This privacy policy is provided by us, Xayn AG, Muenzstr. 21, 10178 Berlin, GERMANY. The contact address is [privacy@xayn.com](mailto:privacy@xayn.com?subject=Privacy%20Inquiry) ([imprint](https://www.xayn.com/imprint)).    
 
 **_‍_**
 
@@ -222,7 +222,7 @@ We have entered into an agreement with LinkedIn Ireland Unlimited Company regard
 
 Regarding personal data processed by us through social media platforms, you have the same rights as mentioned in our main privacy policy in section 1 above.
 
-This privacy policy is provided by us, Xayn AG, c/o CMS Deutschland, EUREF-Campus 3, 10829 Berlin, GERMANY, [privacy@xayn.com](mailto:privacy@xayn.com?subject=Privacy%20Inquiry) ([imprint](https://www.xayn.com/imprint)).  
+This privacy policy is provided by us, Xayn AG, Muenzstr. 21, 10178 Berlin, GERMANY, [privacy@xayn.com](mailto:privacy@xayn.com?subject=Privacy%20Inquiry) ([imprint](https://www.xayn.com/imprint)).  
 
 **_‍_**
 
