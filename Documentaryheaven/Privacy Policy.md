@@ -118,49 +118,49 @@ Advertisement
     The Trouble With Atheism
     
     The Trouble with Atheism is an hour-long documentary on atheism, presented by Rod Liddle. It aired on Channel 4 in December 2006. The documentary focuses on criticizing atheism, as well as science, fo...](https://documentaryheaven.com/the-trouble-with-atheism/ "The Trouble With Atheism")
-* [![The End Of The World Cult](/wp-content/thumbnails/12046-100x70.jpg?x53432)
+* [![The Struggle For Oil](/wp-content/thumbnails/16534-100x70.jpg?x53432)
     
-    The End Of The World Cult
+    The Struggle For Oil
     
-    In this Channel 4 film British journalist Alex Hannaford sets out on a journey to visit The Lord Our Righteousness Church, also known as Strong City. Strong City is a community located near Clayton, U...](https://documentaryheaven.com/end-of-world-cult/ "The End Of The World Cult")
-* [![The new world order – Illuminati, Freemasons and other secret societies](/wp-content/thumbnails/116-100x70.png?x53432)
+    In April 2010, the drilling rig deepwater horizon blew up in the Gulf of Mexico, approximately 780 million liters of crude oil poured into the Gulf, unleashing the most severe ecological disaster in ...](https://documentaryheaven.com/struggle-for-oil/ "The Struggle For Oil")
+* [![The Third Reich In Colour](/wp-content/thumbnails/16707-100x70.jpg?x53432)
     
-    The new world order – Illuminati, Freemasons and other secret societies
+    The Third Reich In Colour
     
-    Secret societies have been trying to influence politics ever since. With new methods of communication they are now globally connected and more powerful then ever before. The names of those secret soci...](https://documentaryheaven.com/the-new-world-order-illuminati-freemasons-and-other-secret-societies/ "The new world order – Illuminati, Freemasons and other secret societies")
-* [![Cracking the Maya Code](/wp-content/thumbnails/2572-100x70.jpg?x53432)
+    Episode 1: The DictatorDuring the tumultuous years of the 1930s and 1940s, as the world was embroiled in two world wars and political parades unfolded in Nuremberg and Moscow, some individuals we...](https://documentaryheaven.com/the-third-reich-in-colour/ "The Third Reich In Colour")
+* [![Catastrophe: The Day The Sun Went Out](/wp-content/thumbnails/16660-100x70.jpg?x53432)
     
-    Cracking the Maya Code
+    Catastrophe: The Day The Sun Went Out
     
-    This one-hour program is divided into five chapters. The Forgotten Maya Temples. In 1774, Spanish explorer Jose Calderon rediscovers the temples of Palenque and the ancient hieroglyphs of the Maya, a ...](https://documentaryheaven.com/cracking-the-maya-code/ "Cracking the Maya Code")
+    Just under 1500 years ago something terrifying happened to the world's climate something nobody could understand the sun began to go dark and rain the color of blood poured from the skies. Clouds of ...](https://documentaryheaven.com/catastrophe-day-sun-went-out/ "Catastrophe: The Day The Sun Went Out")
 
 ###### Throwback Documentaries
 
-* [![Garavito: The World’s Worst Serial Killer](/wp-content/thumbnails/8437-100x70.jpg?x53432)
+* [![FIFA’s Dirty Secrets](/wp-content/thumbnails/4646-100x70.jpg?x53432)
     
-    Garavito: The World’s Worst Serial Killer
+    FIFA’s Dirty Secrets
     
-    20th centuries most prolific serial killer is largely unknown throughout the world, though he brutally murdered at least 140 children, posing as a priest or teacher he lured poor young boys away from](https://documentaryheaven.com/garavito-worlds-worst-serial-killer/ "Garavito: The World’s Worst Serial Killer")
-* [![Quantum Computer in a Nutshell](/wp-content/thumbnails/13504-100x70.jpg?x53432)
+    The half-hour programme saw investigative journalist Andrew Jennings look into allegations of corruption with FIFA, the world’s governing body of association football. Within the programme he alleged](https://documentaryheaven.com/fifa%e2%80%99s-dirty-secrets/ "FIFA’s Dirty Secrets")
+* [![The Genius of Photography](/wp-content/thumbnails/6352-100x70.jpg?x53432)
     
-    Quantum Computer in a Nutshell
+    The Genius of Photography
     
-    The ability to contemplate the meaning of the world around us brings out a constant desire to deepen our knowledge and broaden our horizons, this curiosity is fundamental to the development of our spe](https://documentaryheaven.com/quantum-computer-nutshell/ "Quantum Computer in a Nutshell")
-* [![Very Young Girls](/wp-content/thumbnails/5947-100x70.png?x53432)
+    Uncover the story of the invention and history of photography.Uncover the story of the invention of photography and the way in which it became an integral part of the modern world, including the r](https://documentaryheaven.com/the-genius-of-photography/ "The Genius of Photography")
+* [![Britains Closest Encounters: Berwyn Mountain Mystery](/wp-content/thumbnails/6506-100x70.png?x53432)
     
-    Very Young Girls
+    Britains Closest Encounters: Berwyn Mountain Mystery
     
-    Very Young Girls, whose title reflects the fact that in the United States the average age of entry into prostitution is just thirteen. The film takes us into the work of a former sexually exploited yo](https://documentaryheaven.com/very-young-girls/ "Very Young Girls")
-* [![America’s Secret War](/wp-content/thumbnails/16623-100x70.jpeg?x53432)
+    The opening instalment looks at an incident dubbed the ‘Welsh Roswell’. In 1974, locals near the Berwyn mountain range experienced an earthquake and reported seeing green lights in the sky. Some](https://documentaryheaven.com/britains-closest-encounters-berwyn-mountain-mystery/ "Britains Closest Encounters: Berwyn Mountain Mystery")
+* [![Sounds for the City](/wp-content/thumbnails/7767-100x70.jpg?x53432)
     
-    America’s Secret War
+    Sounds for the City
     
-    As the United States publicly engaged in the Vietnam War, there was a secret conflict raging right next door in the country of Laos. Under the direction of the CIA, a full-blown military operation to](https://documentaryheaven.com/americas-secret-war/ "America’s Secret War")
-* [![Dog Attacks](/wp-content/thumbnails/8734-100x70.jpg?x53432)
+    During a period of time in Stockholm, the colombian musician Sergio Castrillón (cellist and composer) began to search unconventional places to make them worthy stages for contemporary music.In the](https://documentaryheaven.com/sounds-for-the-city/ "Sounds for the City")
+* [![Broad Street Bullies](/wp-content/thumbnails/7407-100x70.jpg?x53432)
     
-    Dog Attacks
+    Broad Street Bullies
     
-    Something is on the prowl, its aggressive and vicious and the streets of American could be at risk from a menace close to our hearts. Vicious packs of dogs are roaming unchecked so the History Channel](https://documentaryheaven.com/dog-attacks/ "Dog Attacks")
+    Broad Street Bullies the documentary, chronicles the National Hockey League’s Philadelphia Flyers from their beginnings as an expansion team in 1967, to their back to back Stanley Cup championships in](https://documentaryheaven.com/broad-street-bullies/ "Broad Street Bullies")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
