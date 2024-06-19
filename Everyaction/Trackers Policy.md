@@ -500,6 +500,16 @@ Powering CorporationsEducational institutionsEnergyFinancial institutionsFoundat
 
 who power Animal welfareArts & cultureDisaster reliefDiversity, equity, inclusion & belonging (DEIB)EducationEnvironmental changeFaith-basedHealthcareHuman servicesSocial justiceVolunteerismWorkplace developmentsocial impact
 
+![Sun rising over the blue ridge mountains](/sites/default/files/styles/carousel_square_450x450_/public/2024-06/roanoke-istock-1443619685-noise.jpg.webp?itok=Uz35W-fd)
+
+**Championing mental health in the Blue Ridge Mountains**
+
+How Family Service of Roanoke Valley upleveled donor outreach and community support
+
+[Read their story onChampioning mental health in the Blue Ridge Mountains](https://www.everyaction.com/case-studies/championing-mental-health-blue-ridge-mountains)
+
+Impact Powered by:
+
 ![Woman with boxing gloves](/sites/default/files/styles/carousel_square_450x450_/public/2024-05/bonterra-beat-parkinsons-disease-today-customer-story-web-header.jpg.webp?itok=CdmSXWf8)
 
 **Knocking out Parkinson’s Disease**
@@ -574,21 +584,6 @@ Impact Powered by:
 * Employee giving
 * Employee volunteering
 * Grant management & grant making
-
-![A woman sitting at a table wearing a gray t-shirt is smiling while holding a baby in a purple and white striped t-shirt. They are looking at an iPad, which is being held by a nurse wearing a white coat with stethoscope around her neck. The nurse is also sitting at the table and smiling back at the woman and baby.](/sites/default/files/styles/carousel_square_450x450_/public/2023-12/istock-1442379947.jpeg.webp?itok=Lu3GDJUZ)
-
-**Oklahoma State Department of Health**
-
-See how Oklahoma Department of Health Family Support and Prevention Service streamlined processes, empowered their frontline staff, and told a stronger impact story through Bonterra Impact Management.
-
-[Read their story onOklahoma State Department of Health](https://www.everyaction.com/case-studies/oklahoma-state-department-health)
-
-Impact Powered by:
-
-* Program Management
-* Human services
-* Public agencies
-* Coordinating social services
 
 Previous Next
 
