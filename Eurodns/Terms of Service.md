@@ -116,10 +116,10 @@ Legacy
 
 #### Latest blog articles
 
+* 13.06.2024[The Power of ccTLDs in Local and Regional Branding](https://www.eurodns.com/blog/boost-local-branding-with-cctlds)
 * 06.06.2024[Branding and Domain Names: Impact of Domain Name on Brand Identity and Customer Perception](https://www.eurodns.com/blog/domain-names-brand-identity)
 * 05.06.2024[The Ultimate Guide to Choosing the Perfect Domain ...](https://www.eurodns.com/blog/how-choose-perfect-domain-for-your-website)
 * 30.05.2024[SEO and Domain Names: Increase your Search Ranking with SEO-friendly Domain Name](https://www.eurodns.com/blog/boost-seo-with-perfect-domain-name)
-* 23.05.2024[What Exactly is Domain Authority and How Can it Boost your SEO?](https://www.eurodns.com/blog/what-is-domain-authority)
 
 #### Domain Name Discounts
 
@@ -150,9 +150,8 @@ Legacy
 
 * #### Web Hosting
     
-* Plesk Web Hosting
+* [Plesk Web Hosting](https://www.eurodns.com/plesk-web-hosting)
 * [SitePad Website Builder](https://www.eurodns.com/sitepad-website-builder)
-* Web Hosting Comparison
 
 * #### [Microsoft 365](https://www.eurodns.com/office-microsoft-365)
     
@@ -193,7 +192,7 @@ Legacy
 
 * #### Affiliates
     
-* [Join Our Affiliate Programme](https://signup.cj.com/member/signup/publisher/?cid=5732445#/branded)
+* [Join Our Affiliate Programme](https://www.eurodns.com/affiliate)
 
 * #### [Information](https://www.eurodns.com/information)
     
