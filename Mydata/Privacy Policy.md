@@ -25,7 +25,7 @@ MyData
     * [White papers](https://mydata.org/pub_type/white-paper/)
     * [Case Studies (old site)](https://oldwww.mydata.org/cases/)
 * [Events](https://mydata.org/events/)
-    * [MyData Awards 2024-25 Launch Event](https://mydata.org/event/mydata-awards-2024-25-launch-event/)
+    * [Making Sense of Digital Wallets](https://mydata.org/event/making-sense-of-digital-wallets-the-eidas-update-and-what-it-means-for-human-centric-data/)
     * [All events](https://mydata.org/event/)
     * [Webinars](https://mydata.org/event_cat/webinar/)
 * [News](https://mydata.org/updates/)
