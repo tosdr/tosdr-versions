@@ -1,3 +1,5 @@
+      
+
 [![Martinez Tool Company](https://martineztools.com/wp-content/uploads/2021/06/cropped-MARTINEZ-LOGO-2-300x226w.png)](https://martineztools.com/) [![Logo](https://martineztools.com/wp-content/uploads/2021/05/MARTINEZ-LOGO-2.png)](https://martineztools.com/)
 
 ###### [Martinez Tool Company](https://martineztools.com/)
@@ -32,14 +34,14 @@
     * [Build Your Customized Martinez Rapid Square](https://martineztools.com/build-your-custom-square/)
     * [Rapid Square Heels & Accessories](https://martineztools.com/product-category/other-tools/rapid-square-heels-and-accessories/)
     * [Large Framing Squares](https://martineztools.com/product-category/other-tools/large-framing-squares/)
-    * [12-inch Rapid Square](https://martineztools.com/shop/precision-12-inch-aluminum-rapid-square/)
+    * [12-inch Rapid Square](https://martineztools.com/product/precision-12-inch-aluminum-rapid-square/)
     * [Micro Squares](https://martineztools.com/product-category/micro-squares/)
     * [Stair Gauges](https://martineztools.com/product-category/other-tools/stair-gauge/)
     * [Titanium Pry Bar](https://martineztools.com/product/martinez-tool-co-titanium-pry-bar/)
     * [Pencils and Keel Holder](https://martineztools.com/product-category/other-tools/pencils-keel/)
-    * [STICKER PACK](https://martineztools.com/shop/martinez-tool-co-sticker-pack/)
+    * [STICKER PACK](https://martineztools.com/product/martinez-tool-co-sticker-pack/)
 * [Apparel](https://martineztools.com/product-category/apparel/)
-    * [Hats](https://martineztools.com/product-category/apparel/hats/)
+    * [Hats & Shirts](https://martineztools.com/product-category/apparel/hats/)
 * [Contact Us](https://martineztools.com/contact-us/)
     * [Contact Us Now](https://martineztools.com/contact-us/)
     * [Product Informational Videos](https://martineztools.com/product-information-and-videos-2/)
