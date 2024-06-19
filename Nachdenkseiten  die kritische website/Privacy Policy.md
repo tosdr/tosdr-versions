@@ -486,8 +486,6 @@ Weitere Informationen zu Umfang und Zweck der Datenverarbeitung durch INFOnline 
 
 * [E-Mail](https://www.nachdenkseiten.de/?page_id=44004&share=email "Klick, um dies einem Freund per E-Mail zu senden")
 
-### [Pleisweiler Gespräch mit Gabriele Krone-Schmalz](https://www.nachdenkseiten.de/?p=116200)
-
 ### [Was bieten die NachDenkSeiten](https://www.nachdenkseiten.de/?p=48676)
 
 ### Gesprächskreise
@@ -525,9 +523,9 @@ Weitere Informationen zu Umfang und Zweck der Datenverarbeitung durch INFOnline 
 
 ### [NachDenkSeiten im Gespräch](https://www.youtube.com/playlist?list=PLpNi0Wmi7L80YYabA3qOGKP8ZporDTlRA)
 
-[![Dirk Pohlmann von apolut im Gespräch mit Albrecht Müller](https://www.nachdenkseiten.de/wp-content/uploads/2022/12/2022-12-apolut-Pohlmann-im-Gespraech-mit-Albrecht-Mueller.jpg "Dirk Pohlmann von apolut im Gespräch mit Albrecht Müller")](https://www.nachdenkseiten.de/?p=91393)
+[![Wolfgang Kubicki im Gespräch mit Albrecht Müller](https://www.nachdenkseiten.de/wp-content/uploads/2020/11/Wolfgang-Kubicki-im-Gespraech-mit-Albrecht-Mueller-e1605795693982.png "Wolfgang Kubicki im Gespräch mit Albrecht Müller")](https://www.youtube.com/watch?v=8pDOd0KZv7A&list=PLpNi0Wmi7L80YYabA3qOGKP8ZporDTlRA&index=6)
 
-* [Dirk Pohlmann von apolut im Gespräch mit Albrecht Müller](https://www.nachdenkseiten.de/?p=91393)
+* [Wolfgang Kubicki im Gespräch mit Albrecht Müller](https://www.youtube.com/watch?v=8pDOd0KZv7A&list=PLpNi0Wmi7L80YYabA3qOGKP8ZporDTlRA&index=6)
 * [Videoangebot der NachDenkSeiten](https://www.nachdenkseiten.de/?page_id=47509)
 
 ![Albrecht Müller: Glaube wenig. Hinterfrage alles. Denke selbst.](https://www.nachdenkseiten.de/wp-content/uploads/2022/05/220510-glaube.jpg "Albrecht Müller: Glaube wenig. Hinterfrage alles. Denke selbst.")
@@ -542,12 +540,12 @@ Weitere Informationen zu Umfang und Zweck der Datenverarbeitung durch INFOnline 
 
 ### Wichtige Artikel
 
-* [GRÜNFDPSPDCDU – Keine Stimme für die parteiübergreifende „Kriegspartei“](https://www.nachdenkseiten.de/?p=116229)
-* [Die Lügen der Kriegstreiber](https://www.nachdenkseiten.de/?p=116099)
-* [Auftritt von Pistorius: Deutsche Politiker, die unsere Söhne und Töchter in den Kriegstod führen](https://www.nachdenkseiten.de/?p=116326)
-* [Regierungserklärung von Bundeskanzler Scholz: Verkürzungen und Verzerrungen der Realität](https://www.nachdenkseiten.de/?p=116298)
-* [Habecks „Retourkutsche“ gegen die CDU offenbart einmal mehr die vollkommene Ahnungslosigkeit unseres Wirtschaftsministers](https://www.nachdenkseiten.de/?p=116208)
-* [Ohne Personal ist jede Kita schlecht!](https://www.nachdenkseiten.de/?p=116218)
+* [Studie – Überwältigende Mehrheit der Bevölkerung ist für Friedensverhandlungen; sowohl in Europa als auch in den USA](https://www.nachdenkseiten.de/?p=116666)
+* [Regierungssprecher zu Kanzler-Ausruf „Slava Ukraini!“: „Kontext hat sich massiv gewandelt“](https://www.nachdenkseiten.de/?p=116674)
+* [Die autoritären Bestrafungsfantasien der FDP-Bildungsministerin für nicht genehmen „Offenen Brief“](https://www.nachdenkseiten.de/?p=116638)
+* [„Solange es noch ukrainische Männer in Deutschland gibt, die sich gerne auf der Autobahn aufhalten …“](https://www.nachdenkseiten.de/?p=116593)
+* [Die „Geisterfahrer“ der radikalen Mitte: Alles Extremisten – außer mir!](https://www.nachdenkseiten.de/?p=116590)
+* [„Nazis“ – Die letzte Patrone der Ampel](https://www.nachdenkseiten.de/?p=116549)
 
 ### Audioangebot
 
