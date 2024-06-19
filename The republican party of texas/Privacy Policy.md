@@ -45,7 +45,12 @@ Skip links
     
     Please use the following form for media requests and the appropriate staff with respond.](https://texasgop.org/media-requests/)
     
-    [Legislative Priorities](https://texasgop.org/category/legislative-priorities/) | [Press releases](https://texasgop.org/category/press-releases/) | [Statement](https://texasgop.org/category/statement/)
+    [News](https://texasgop.org/category/news/)
+    
+    [2024 Primary Runoff Canvass](https://texasgop.org/2024-primary-runoff-canvass/)
+    --------------------------------------------------------------------------------
+    
+    [Statement](https://texasgop.org/category/statement/) | [Press releases](https://texasgop.org/category/press-releases/) | [Legislative Priorities](https://texasgop.org/category/legislative-priorities/)
     
     [2024 Platform and Legislative Priorities Released](https://texasgop.org/2024-platform-and-legislative-priorities/)
     -------------------------------------------------------------------------------------------------------------------
@@ -54,11 +59,6 @@ Skip links
     
     [Republican Party of Texas Advances Rule to Close Primaries](https://texasgop.org/rule-closed-primaries/)
     ---------------------------------------------------------------------------------------------------------
-    
-    [News](https://texasgop.org/category/news/)
-    
-    [2024 Convention Call](https://texasgop.org/2024-convention-call/)
-    ------------------------------------------------------------------
     
     ###### Contact Us for Latest Updates
     
@@ -127,8 +127,8 @@ X
 * [About](#)
     * [Official Documents](https://texasgop.org/official-documents/)
     * [Leadership Directory](https://texasgop.org/leadership-directory/)
-    * [About Chairman Matt Rinaldi](https://texasgop.org/?page_id=1391)
-    * [About Vice-Chair Dana Myers](https://texasgop.org/?page_id=1396)
+    * [About Chairman Abraham George](https://texasgop.org/about-chairman-abraham-george/)
+    * [About Vice-Chair D’rinda Randall](https://texasgop.org/about-vice-chair-drinda-randall/)
     * [RPT Staff](https://texasgop.org/rpt-staff/)
     * [Partnerships & Auxiliaries](https://texasgop.org/partnerships-auxiliaries/)
 * [News](#)
@@ -158,8 +158,8 @@ X
 * [About](#)
     * [Official Documents](https://texasgop.org/official-documents/)
     * [Leadership Directory](https://texasgop.org/leadership-directory/)
-    * [About Chairman Matt Rinaldi](https://texasgop.org/?page_id=1391)
-    * [About Vice-Chair Dana Myers](https://texasgop.org/?page_id=1396)
+    * [About Chairman Abraham George](https://texasgop.org/about-chairman-abraham-george/)
+    * [About Vice-Chair D’rinda Randall](https://texasgop.org/about-vice-chair-drinda-randall/)
     * [RPT Staff](https://texasgop.org/rpt-staff/)
     * [Partnerships & Auxiliaries](https://texasgop.org/partnerships-auxiliaries/)
 * [News](#)
