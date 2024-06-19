@@ -14,6 +14,7 @@ Main navigation
     * [Rabbit Vibrators](https://www.lelo.com/rabbit-vibrators)
     * [Bullet Vibrators](https://www.lelo.com/bullet-vibrators)
     * [Remote Controlled Vibrators](https://www.lelo.com/remote-controlled-vibrators-for-women)
+    * [Travel Sex Toys](https://www.lelo.com/travel-sex-toys)
     * [Wand Massagers](https://www.lelo.com/wand-massagers)
     * [Ben Wa Balls](https://www.lelo.com/ben-wa-balls)
     * [vibrating anal beads](https://www.lelo.com/anal-beads)
@@ -69,7 +70,7 @@ back to menu
 * [日本語](https://www.lelo.com/ja/terms-of-use)
 * [한국어](https://www.lelo.com/ko/terms-of-use)
 
-SUMMER DEALS: UP TO 40% + FREE TOY
+HOTTEST FLASH SALE - UP TO 40% + FREE TOY
 
 [SHOP NOW](https://www.lelo.com/discount-and-deals)
 
