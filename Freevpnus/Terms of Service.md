@@ -1,4 +1,4 @@
-Your IP: 2001:41d0:801:1000::9de - Unknown · ISP: Unknown · Your Status: Unknown
+Your IP: 51.195.149.220 - Unknown · ISP: Unknown · Your Status: Unknown
 
 [FreeVPN](https://freevpn.us/)
 
@@ -7,6 +7,7 @@ Your IP: 2001:41d0:801:1000::9de - Unknown · ISP: Unknown · Your Status: Unkno
     
     [SSH Tunnel](https://freevpn.us/ssh-tunnel/) [SSH Custom](https://freevpn.us/ssh-custom/) [OpenVPN Server](https://freevpn.us/openvpn/) [PPTP & L2TP](https://freevpn.us/pptp/) [WireGuard](https://freevpn.us/wireguard/) [V2Ray New](https://freevpn.us/v2ray/) [V2Ray Serverless Beta](https://freevpn.us/v2ray-vless/)
     
+* [Premium](https://freevpn.us/pages/pricing.html)
 * [Community](https://discuss.freevpn.us/)
 
 * [Tools](#)
@@ -91,19 +92,19 @@ FreeVPN.us is dedicated to providing free and fast VPN services to users worldwi
 
 [Crypto Currency](#cryptocurrency) [Trakteer.id](https://trakteer.id/roosterkid) [Buy Me a Coffee](https://bit.ly/3dEVJvS)
 
-### Thank you for your loyalty over the past 8 years.
+### Thank you for your loyalty over the past 7 years.
 
 The following is our total achievement so far.
 
-20.948
+23.298
 
 User registered
 
-11.363
+11.714
 
 Active account
 
-1.723.478
+1.736.447
 
 Account created
 
@@ -116,6 +117,7 @@ Since 2016, FreeVPN.us has been dedicated to offering a free VPN service with th
 * [](https://twitter.com/Roosterkid4)
 * [](https://github.com/roosterkid)
 * [](https://t.me/freevpnus)
+* [](https://discord.gg/FywZetcRXE)
 * [](https://play.google.com/store/apps/details?id=com.freevpn.tunnel)
 
 Service
@@ -133,6 +135,7 @@ Help
 * [Contact Us](https://freevpn.us/pages/contact.html)
 * [Disclaimer](https://freevpn.us/pages/disclaimer.html)
 * [Privacy Policy](https://freevpn.us/pages/privacy-policy.html)
+* [Refund Policy](https://freevpn.us/pages/refund-policy.html)
 * [Terms of Service](https://freevpn.us/pages/term-of-service.html)
 * [How to connect?](https://freevpn.us/knowledgebase/how-to-connect-openvpn-server.html)
 
@@ -144,6 +147,16 @@ Tools
 
 * * *
 
+All Transactions are 100% Safe and Secure!
+
+* ![visa](/assets/img/payment/payment-visa.svg)
+* ![mastercard](/assets/img/payment/payment-mastercard.svg)
+* ![paypal](/assets/img/payment/payment-paypal.svg)
+* ![webmoney](/assets/img/payment/webmoney.svg)
+* ![Cryptocurrency](/assets/img/payment/payment-bitcoin.svg)
+* ![BRIVA](/assets/img/payment/BRI.svg)
+* ![BNI](/assets/img/payment/BNI.svg)
+
 2016 - 2024 © [Roosterkid](https://roosterkid.com/) x FreeVPN.us made with in
 
-page loaded in 0.000 seconds
+page loaded in 0.010 seconds
