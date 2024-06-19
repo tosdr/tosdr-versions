@@ -16,7 +16,7 @@ Purchase your next favourite publication](https://issuu.com/store)
 
 [All Categories](https://issuu.com/categories)
 
-![illustration describing how to get more reads from your publications](//static.isu.pub/fe/product-header-frontend/9a2e30b/31d186ba39f38e8c4fac.png)
+![illustration describing how to get more reads from your publications](//static.isu.pub/fe/product-header-frontend/a57d7f9/31d186ba39f38e8c4fac.png)
 
 Show submenu for "Features" sectionFeatures
 
@@ -78,7 +78,7 @@ Show submenu for "Use Cases" sectionUse Cases
 
 [More Content Types](https://issuu.com/solutions)
 
-![illustration describing two different use cases](//static.isu.pub/fe/product-header-frontend/9a2e30b/1e794a8c4ec65e549678.png)
+![illustration describing two different use cases](//static.isu.pub/fe/product-header-frontend/a57d7f9/1e794a8c4ec65e549678.png)
 
 Show submenu for "Learn" sectionLearn
 
