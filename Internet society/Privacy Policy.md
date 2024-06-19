@@ -311,11 +311,13 @@ Suite 400
 Reston, VA 20190  
 +1-703-439-2120  
 
-**Switzerland**  
-Rue Vallin 2  
-CH-1201 Geneva  
-+41-22-807-1444  
-
 [**Other Offices**](https://www.internetsociety.org/contact-us/)
+
+**Switzerland**  
+Internet Society, Reston, succursale de Genève  
+C/o SAFE, Swiss Accounting Fiduciary Experts Sàrl  
+Rue des Eaux-Vives 15  
+CH-1207 Geneva  
++41-22-807-1444  
 
 © 2024 Internet Society
