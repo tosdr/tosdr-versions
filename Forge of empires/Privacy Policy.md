@@ -33,7 +33,7 @@
 Privacy Notice for End Users
 ============================
 
-Last update: June 30, 2024
+Last updated: 13 September 2023
 
 Contents
 --------
@@ -87,7 +87,7 @@ Friesenstraße 13
 20097 Hamburg  
 Germany  
 Email: [privacy@innogames.com](mailto:privacy@innogames.com)  
-Website: [https://innogames.com](https://innogames.com/)  
+Website: [www.innogames.com](https://www.innogames.com/)  
 
 3\. Name and address of the data protection officer
 ---------------------------------------------------
@@ -95,12 +95,12 @@ Website: [https://innogames.com](https://innogames.com/)
 The data protection officer of the controller is:
 
 Prof. Dr. Christian Rauda  
-ARTANA Digital GmbH  
-Alstertwiete 3  
-20099 Hamburg  
+GRAEF Rechtsanwälte Digital PartG mbB  
+Jungfrauenthal 8  
+20149 Hamburg  
 Germany  
 Email: [dpo@innogames.com](mailto:dpo@innogames.com)  
-Website: [https://artana.law](https://artana.law/)
+Website: [www.graef.eu](https://www.graef.eu/)
 
 4\. General information on data processing
 ------------------------------------------
