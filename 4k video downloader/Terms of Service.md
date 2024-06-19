@@ -60,7 +60,7 @@ Send
 
  ![](https://static.4kdownload.com/main/img/redesign/qr-code-wechat.1bff5c2e2972.jpg)
 
-[![Submit to reddit](https://static.4kdownload.com/main/img/redesign/ic-reddit-square.42645315a044.svg)](https://www.reddit.com/submit?url=home)
+[![Submit to reddit](https://static.4kdownload.com/main/img/redesign/ic-reddit-square.42645315a044.svg)](https://www.reddit.com/r/4kdownloadapps/)
 
 * [4K Download Terms of Use](https://www.4kdownload.com/agreement/terms-of-use/8)
 * [4K Download Affiliate Program Agreement](https://www.4kdownload.com/agreement/affiliate/2)
