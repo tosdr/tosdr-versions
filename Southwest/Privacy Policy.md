@@ -170,13 +170,6 @@ on hotel stays.](https://www.southwesthotels.com/?label=SWA-GSUBNAV-OFFERS-HOTEL
 * [Donate Points](https://www.southwest.com/html/rapidrewards/promotions/donate-points-charity.html?clk=GSUBNAV-RR-DONATEPOINTS)
 * [Email Subscriptions](https://www.southwest.com/myaccount/preferences/communication/subscriptions/edit?clk=GSUBNAV-RR-EMAILSUBS)
 
-[![Limited-time offer](/swa-resources/images/promotions/LTO-red-eyebrow.png)Earn 50K 85,000  
-points.Points worth up to  
-**3 round trips** in  
-continental U.S.\*Learn more\*Offer ends 6/26/24. 3 RT flgts. based on avg. WGA  
-fares from Feb. 2024 published service in continental  
-U.S. Terms apply.](https://creditcards.chase.com/a1/southwest/AEP85kPlus624?REF=FULLSITE&clk=CB163668&CELL=6PLT&cbid=CB163668)
-
 ×
 
 Search
@@ -185,7 +178,7 @@ Search
 
 Read below to view our Privacy Policy. You may make the following requests with respect to your personal information: To request that we not sell or share your personal information to third parties for valuable consideration, please click [Do Not Sell or Share My Personal Information](https://t.iluv.southwest.com/webApp/swaAPP_DataPrivacy_OptOut?clk=3873092&cbid=3873092); request a copy of the Personal Information we have collected about you in the last twelve months or request that we delete personal information that we have about you, subject to several exceptions, please [click here.](https://t.iluv.southwest.com/webApp/swaAPP_DataPrivacy_CustomerContact?clk=3873092&cbid=3873092)
 
-[Home](https://www.southwest.com/) / [About](https://www.southwest.com/html/about-southwest/index.html) / Privacy Policy & Data Options
+[Home](https://www.southwest.com/) / Privacy Policy & Data Options
 
 Privacy Policy & Data Options
 =============================
@@ -203,6 +196,8 @@ Last Updated: March 19, 2024.
 * [Terms of Use](https://www.southwest.com/about-southwest/terms-and-conditions/southwest-app-terms-of-use/)
 * [Travel Agency Information](https://www.southwest.com/about-southwest/terms-and-conditions/travel-agency-information/)
 * [Text Message Terms](https://www.southwest.com/about-southwest/terms-and-conditions/text-message-terms/)
+* [Careers Terms & Conditions](https://www.southwest.com/about-southwest/careers-terms-and-conditions/)
+* [Careers Privacy Policy](https://www.southwest.com/about-southwest/careers-privacy-policy/)
 
 * * *
 
@@ -230,7 +225,7 @@ Last Updated: March 19, 2024.
 
 This Privacy Policy describes how Southwest Airlines Co., P.O. Box 36647 TOP-1CR, Dallas, Texas 75235 ("Southwest," "Company," "we," or "us") collects, uses and shares information in connection with Southwest's services, systems, websites, and apps that refer or link to the Privacy Policy (collectively, the "Services").
 
-By using our Services, you agree to our [Terms & Conditions](https://www.southwest.com/html/about-southwest/terms-and-conditions/index.html) and consent to our collection, use and disclosure practices, and other activities as described in this Privacy Policy. This Privacy Policy is not a contract and does not create any legal rights or obligations.
+By using our Services, you agree to our [Terms & Conditions](https://www.southwest.com/about-southwest/terms-and-conditions/) and consent to our collection, use and disclosure practices, and other activities as described in this Privacy Policy. This Privacy Policy is not a contract and does not create any legal rights or obligations.
 
 [Back to Top](#top)  
 
@@ -552,7 +547,7 @@ Need help?[Help Center](https://support.southwest.com/helpcenter/s/?clk=GFOOTER-
 * [Hotels](https://www.southwesthotels.com/index.html?label=SWA-GFOOTER-HTL&clk=GFOOTER-PRODUCTS-HOTELS)
 * [Southwest Vacations](http://www.southwestvacations.com/?clk=GFOOTER-PRODUCTS-VACATIONS)
 * [Inflight Entertainment & Internet](https://www.southwest.com/inflight-entertainment-portal?clk=GFOOTER-PRODUCTS-WIFI)
-* [Food & Beverage](https://www.southwest.com/food-and-beverage/?clk=GFOOTER-PRODUCTS-WIFI-FB)
+* [Drinks & Snacks](https://www.southwest.com/food-and-beverage/?clk=GFOOTER-PRODUCTS-WIFI-FB)
 * [Southwest Business](https://www.southwest.com/html/air/business-groups/corporate-travel.html?clk=GFOOTER-PRODUCTS-BUSINESS-TRAVEL-GROUPS&utm_medium=swafooter&utm_content=southwestbusiness)
 * [Southwest Cargo](https://www.swacargo.com/?clk=GFOOTER-PRODUCTS-CARGO&utm_medium=swafooter&utm_content=southwest)
 * [Group Travel](https://support.southwest.com/helpcenter/s/article/group-travel?clk=GFOOTER-PRODUCTS-GROUPS)
