@@ -80,15 +80,13 @@ Resources
 
 Learn & Get Support
 
-[![Icon](https://cdn.prod.website-files.com/6372338e5477e047032b37a5/637cb6402ecee422b053923a_training%20hub%20icon.svg)
-
-Training Hub
-
-Best practices to upskill your knowledge](https://training.shortcut.com/)[![Icon](https://cdn.prod.website-files.com/6372338e5477e047032b37a5/637cb640f0adefdb821eff48_help%20center%20icon.svg)
+[![Icon](https://cdn.prod.website-files.com/6372338e5477e047032b37a5/637cb640f0adefdb821eff48_help%20center%20icon.svg)
 
 Help Center
 
-Support and product documentation](https://help.shortcut.com/)[![Icon](https://cdn.prod.website-files.com/6372338e5477e047032b37a5/637cb6408ce7c60bd9c44073_release%20notes%20icon.svg)
+Support and product documentation](https://help.shortcut.com/)[Schedule Demo
+
+Meet 1:1 with our Customers Team](https://shortcut.com/demo)[![Icon](https://cdn.prod.website-files.com/6372338e5477e047032b37a5/637cb6408ce7c60bd9c44073_release%20notes%20icon.svg)
 
 Release Notes
 
@@ -466,7 +464,7 @@ Learn
 
 Resources
 
-[Help Center](https://help.shortcut.com/)[Training Hub](https://training.shortcut.com/)[Status](https://status.shortcut.com/)[Release Notes](https://shortcut.com/release-notes)[Customers](https://shortcut.com/customer-stories)[Community](https://shortcut.com/community)[Security](https://shortcut.com/security)[Our Branding](https://shortcut.com/branding)[Request a Demo](https://shortcut.com/demo)
+[Help Center](https://help.shortcut.com/)[Status](https://status.shortcut.com/)[Release Notes](https://shortcut.com/release-notes)[Customers](https://shortcut.com/customer-stories)[Community](https://shortcut.com/community)[Security](https://shortcut.com/security)[Our Branding](https://shortcut.com/branding)[Request a Demo](https://shortcut.com/demo)
 
 Company
 
