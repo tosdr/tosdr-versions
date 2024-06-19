@@ -122,11 +122,11 @@ Tools
 
 ![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/6169c5b701c52c020705d57d_arrow-right.svg)](https://www.qualified.com/resources/roi-calculator)
 
-![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/65e100086c7c7dc5d7853ff3_PS%20SPRING%202024.svg)
+![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/6669ce143029c2b24a7d7b51_nav-ai-workforce.svg)
 
-Save your spot for Pipeline  Summit Spring ‘24
+Save your spot for the  AI Workforce Summit!
 
-[Register Now](https://www.qualified.com/pipeline-summit)
+[Register Now](https://www.qualified.com/ai-workforce-summit)
 
 Say hello to
 
@@ -743,11 +743,11 @@ Functional Cookies
 | Data derived from the above | Identifiers | Service providers  <br>  <br>Third-Party integration partners  <br>  <br>Professional advisors  <br>  <br>Authorities and others  <br>  <br>Business transferees  <br>  <br>Affiliated companies | Advertising partners (to facilitate targeted advertising) |
 | Other Sensitive Personal Information  <br>  <br>**We do not intentionally collect this information, but it may be revealed in identity data or other information we collect** | Protected Classification Characteristics | N/A | None |
 
-![Qualifed+](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/62d5a9348ff2bf04901c6eaf_QualifiedPlus-logo.svg)
+![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/6669c8225c719d063ef54937_ai-workforce-summit_footer.svg)
 
-Discover on-demand B2B sales and marketing content. From Keynotes to Podcasts, we've got you covered.
+### Join thought leaders as they discuss the role of the AI Worker.
 
-[EXPLORE QUALIFIED+](https://www.qualified.com/plus)
+[Register Now](https://www.qualified.com/ai-workforce-summit)
 
 ![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/661946d8571bf6281ff9d4a0_Piper%20Profile.png)
 
