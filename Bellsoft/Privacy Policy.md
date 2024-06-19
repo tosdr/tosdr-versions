@@ -72,7 +72,15 @@
         
         Explore support plans for Alpaquita Linux, the only OS optimised for Java](https://bell-sw.com/alpaquita-support/)
     
-* [About us](https://bell-sw.com/about/)
+* backAbout us
+    
+    * [### Company
+        
+        Learn more about BellSoft, a major OpenJDK contributor](https://bell-sw.com/about/)
+    * [### Newsroom
+        
+        Explore press releases and news about BellSoft](https://bell-sw.com/newsroom/)
+    
 * backDownloads
     
     * [### Download Liberica JDK
