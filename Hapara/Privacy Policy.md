@@ -234,7 +234,8 @@ Power awesome digital learning anywhere, anytime.
     * [Why Hāpara?](https://hapara.com/why-schools-purchase-hapara-classroom-management-software/)
     * [Careers](https://hapara.com/careers/)
     * [Media kit](https://hapara.com/media-kit/)
-    * [Legal](https://hapara.com/privacy-toolkit/)
+    * [Legal](https://legal.cordance.co/hapara)
+    * [Privacy and trust](https://hapara.com/privacy-and-trust/)
     * [Ethical monitoring](https://hapara.com/ethical-monitoring-pledge/)
 * Resources
     * [Contact us](https://hapara.com/contact/)
@@ -250,6 +251,6 @@ Power awesome digital learning anywhere, anytime.
 * [Follow](http://www.youtube.com/c/HaparaYoutube "Follow on Youtube")
 * [Follow](https://www.linkedin.com/company/hapara "Follow on LinkedIn")
 
-© 2010- Hāpara. All rights reserved. [Privacy](https://hapara.com/privacy-policy/) and [Terms](https://legal.cordance.co/hapara). Hāpara is a business unit of Cordance Operations LLC 16 W Martin Street, Raleigh, NC 27601
+© 2010- Hāpara. All rights reserved. [Privacy](https://hapara.com/privacy-policy/) and [Legal](https://legal.cordance.co/hapara). Hāpara is a business unit of Cordance Operations LLC 16 W Martin Street, Raleigh, NC 27601
 
 ### Pin It on Pinterest
