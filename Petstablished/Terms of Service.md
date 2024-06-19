@@ -76,6 +76,12 @@ Remember me
         =============
         
         Protect your pet the smart way](https://petlover.petstablished.com/smart_tag_registrations.confirm_smart_tag_code)
+    * [![microchip registration icon](https://s3.amazonaws.com/Petstablished/images/homepage/Menu+Icons/Microchip+Order.svg)
+        
+        Purchase Microchips
+        ===================
+        
+        Place a new microchip order](https://petlover.petstablished.com/microchip_order_public)
     * [![smart tag search icon](https://s3.amazonaws.com/Petstablished/images/homepage/Menu+Icons/Smart+Tag+Search.svg)
         
         Smart Tag Search
@@ -128,6 +134,12 @@ Remember me
         =============
         
         Protect your pet the smart way](https://petlover.petstablished.com/smart_tag_registrations.confirm_smart_tag_code)
+    * [![microchip registration icon](https://s3.amazonaws.com/Petstablished/images/homepage/Menu+Icons/Microchip+Order.svg)
+        
+        Purchase Microchips
+        ===================
+        
+        Place a new microchip order](https://petlover.petstablished.com/microchip_order_public)
     * [![smart tag search icon](https://s3.amazonaws.com/Petstablished/images/homepage/Menu+Icons/Smart+Tag+Search.svg)
         
         Smart Tag Search
@@ -617,7 +629,7 @@ About Us
 Resources
 =========
 
-[Microchip Search](https://petlover.petstablished.com/microchip_search) [Register Microchips](https://petlover.petstablished.com/microchip_registry_public/confirm_microchip_number) [About Microchips](https://wagtopia.com/pages/microchip-order)
+[Microchip Search](https://petlover.petstablished.com/microchip_search) [Register Microchips](https://petlover.petstablished.com/microchip_registry_public/confirm_microchip_number) [Purchase Microchips](https://petlover.petstablished.com/microchip_order_public) [About Microchips](https://wagtopia.com/pages/microchip-order)
 
 Contact
 =======
@@ -628,4 +640,4 @@ Contact
 
 [Terms & Conditions](https://petlover.petstablished.com/tos) [Privacy Policy](https://petlover.petstablished.com/privacy) [California Privacy Notice](https://petlover.petstablished.com/california_privacy_notice) [Status](https://status.petstablished.com/)
 
-© 2023 Petstablished. All Rights Reserved. v1.0
+© 2024 Petstablished. All Rights Reserved. v1.0
