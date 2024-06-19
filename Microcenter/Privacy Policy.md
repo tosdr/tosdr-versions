@@ -499,12 +499,13 @@ Product category, brand navigation and general site naviation
         
     * Networking
         
-        ### Networking options - 6 groups of items - 27 total selections
+        ### Networking options - 6 groups of items - 28 total selections
         
         * #### Wireless Networking
             
             * [All Wireless Networking](https://www.microcenter.com/category/4294966877/wireless-networking)
             * [Wireless Routers](https://www.microcenter.com/category/4294966869/wireless-routers)
+            * [Wireless Mesh](https://www.microcenter.com/category/4294966869,4294807457/wireless-mesh)
             * [Wireless Network Adapters](https://www.microcenter.com/category/4294966871/wireless-network-adapters)
             * [Wireless Access Points](https://www.microcenter.com/category/4294966873/wireless-access-points)
             * [Antennas & Signal Boosters](https://www.microcenter.com/category/4294966876/antennas-and-signal-boosters)
@@ -622,7 +623,7 @@ Product category, brand navigation and general site naviation
         
     * Gaming & Software
         
-        ### Gaming & Software options - 10 groups of items - 37 total selections
+        ### Gaming & Software options - 11 groups of items - 39 total selections
         
         * #### PC & Mac Gaming
             
@@ -638,6 +639,10 @@ Product category, brand navigation and general site naviation
             
             * [Gaming PCs](https://www.microcenter.com/site/products/gaming_desktops.aspx)
             * [Gaming Laptops](https://www.microcenter.com/site/products/gaming-laptops.aspx)
+        * #### Gaming Furniture
+            
+            * [Gaming Chairs & Accessories](https://www.microcenter.com/category/4294967117/gaming-chairs-and-accessories)
+            * [Gaming Desks & Accessories](https://www.microcenter.com/category/4294967118/gaming-desks-and-accessories)
         * #### Console Gaming
             
             * [Xbox Gaming](https://www.microcenter.com/category/4294803081/xbox-gaming)
