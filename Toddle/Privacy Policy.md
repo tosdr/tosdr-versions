@@ -365,9 +365,21 @@ If you are based in India and you have any grievance or complaint about how your
 
 We value and protect your privacy
 
-![](https://www.toddleapp.com/wp-content/uploads/2021/08/Group-2031.png)
+![](https://www.toddleapp.com/wp-content/uploads/2022/05/Group-2031.webp)
 
-[![COPPA logo](https://www.toddleapp.com/wp-content/uploads/2021/08/Group-4236.png)](https://www.toddleapp.com/coppa/)[![Student Privacy Pledge logo](https://www.toddleapp.com/wp-content/uploads/2021/08/Group-4235.png)](https://www.toddleapp.com/pp/)[![ISO logo](https://www.toddleapp.com/wp-content/uploads/2021/08/Group-4234.png)](https://www.toddleapp.com/pp/)[![FERPA logo](https://www.toddleapp.com/wp-content/uploads/2021/08/Group-4233.png)](https://www.toddleapp.com/ferpa/)
+[![COPPA logo](/wp-content/uploads/2024/06/coppa.webp)](https://www.toddleapp.com/coppa/)[![DPDPA logo](/wp-content/uploads/2024/06/dpdpa.webp)](https://www.toddleapp.com/dpdpa/)
+
+![AICPA logo](/wp-content/uploads/2024/06/aicpa.webp)
+
+[![The Student Privacy Pledge 2020 logo](/wp-content/uploads/2024/06/spp.webp)](https://www.toddleapp.com/pp/)
+
+![ISO/IEC logo](/wp-content/uploads/2024/06/iso.webp)
+
+[![GDPR logo](/wp-content/uploads/2024/06/gdpr.webp)](https://www.toddleapp.com/gdpr/)[![FERPA logo](/wp-content/uploads/2024/06/ferpa.webp)](https://www.toddleapp.com/ferpa/)
+
+![CCPA logo](/wp-content/uploads/2024/06/ccpa.webp)
+
+![](/wp-content/uploads/2024/06/safer-techno.webp)
 
 [Visit Privacy Center ![](https://www.toddleapp.com/wp-content/uploads/2021/08/RightArrowOutlined-1.png)](https://www.toddleapp.com/pc/) 
 
