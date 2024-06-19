@@ -24,6 +24,7 @@ Search for:
     * [Public Relations](https://www.fmaware.org/public-relations/)
     * [Privacy Policy](https://www.fmaware.org/privacy-policy/)
 * [FIBROMYALGIA](https://www.fmaware.org/fibromyalgia/)
+    * [Follow Dr. Fellows Blog](https://www.fmaware.org/share-your-full-story/follow-dr-fellows/)
     * [Fibro Articles & Videos](https://www.fmaware.org/fibromyalgia-news/)
     * [Symptoms](https://www.fmaware.org/fibromyalgia-symptoms/)
     * [Diagnosis](https://www.fmaware.org/fibromyalgia-diagnosis/)
