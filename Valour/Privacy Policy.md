@@ -56,7 +56,7 @@ Toggle navigation
     
     * [CI/CD & Automation](https://github.com/solutions/ci-cd)
     * [DevOps](https://github.com/solutions/devops)
-    * [DevSecOps](https://resources.github.com/devops/fundamentals/devsecops)
+    * [DevSecOps](https://github.com/solutions/devsecops)
     
     Resources
     
@@ -145,7 +145,7 @@ You signed in with another tab or window. Reload to refresh your session. You si
 
 * [Notifications](https://github.com/login?return_to=%2FValour-Software%2FValour) You must be signed in to change notification settings
 * [Fork 22](https://github.com/login?return_to=%2FValour-Software%2FValour)
-* [Star 163](https://github.com/login?return_to=%2FValour-Software%2FValour)
+* [Star 164](https://github.com/login?return_to=%2FValour-Software%2FValour)
     
 
 * [Code](https://github.com/Valour-Software/Valour)
