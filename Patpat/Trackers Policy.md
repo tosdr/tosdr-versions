@@ -392,7 +392,16 @@ This Application uses Trackers to deliver personalized marketing content based o
     
     Place of processing: United Kingdom – [Privacy Policy](https://sonobi.com/privacy-policy/).
     
-    Storage duration: up to 2 months
+    Storage duration:
+    
+    * HAPLB\*: 10 minutes
+    * \_\_uig: 1 month
+    * \_\_uih: 5 minutes
+    * \_\_uin\_\*: 13 months
+    * \_\_uir: 1 month
+    * \_\_uir\_\*: 15 days
+    * \_\_uis: 1 year
+    * \_\_usd: 1 day
     
     #### PubMatic (PubMatic, Inc.)
     
@@ -534,12 +543,13 @@ This Application uses Trackers to deliver personalized marketing content based o
     * OB-CCPA: indefinite
     * OB-CLDT: indefinite
     * OB-CNSNT-2: indefinite
+    * OB-EM-FREQUENCY: indefinite
     * OB-FD-TO: indefinite
     * OB-FDE: indefinite
-    * OB-FREQUENCY: indefinite
     * OB-INTERACTION-STASH: indefinite
     * OB-OD-LSD: indefinite
     * OB-PUB-IN: indefinite
+    * OB-RN-FREQUENCY: indefinite
     * OB-SEID: indefinite
     * OB-SKELETON-STRUCT: indefinite
     * OB-SYNC: indefinite
