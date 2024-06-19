@@ -36,9 +36,9 @@ These items help the website operator understand how its website performs, how v
 
 [Confirm my preferences and close](#)
 
-[![](https://cdn.prod.website-files.com/63e25be3f4b49456411df88b/657c784710015c6679fdf899_new-brand-logo.png)](https://www.rezolve.ai/)
+[![Company Logo](https://cdn.prod.website-files.com/63e25be3f4b49456411df88b/657c784710015c6679fdf899_new-brand-logo.png)](https://www.rezolve.ai/)
 
-[IT Service Desk](https://www.rezolve.ai/automated-it-helpdesk)[HR Service Desk](https://www.rezolve.ai/automated-hr-helpdesk)[![](https://cdn.prod.website-files.com/63e25be3f4b49456411df88b/654e9d87caf576c8f76dfb9f_GenAI%20Sidekick%20Italic%201.png)
+[IT Service Desk](https://www.rezolve.ai/automated-it-helpdesk)[HR Service Desk](https://www.rezolve.ai/automated-hr-helpdesk)[![GenAI Sidekick](https://cdn.prod.website-files.com/63e25be3f4b49456411df88b/654e9d87caf576c8f76dfb9f_GenAI%20Sidekick%20Italic%201.png)
 
 New](https://www.rezolve.ai/generative-ai)[Integrations](https://www.rezolve.ai/integrations)
 
@@ -410,14 +410,6 @@ Oops! Something went wrong while submitting the form.
 By submitting this form, you agree to receive updates and marketing material from Rezolve.ai, subject to our [Privacy Policy](https://www.rezolve.ai/legal/privacy-policy-20231017-v2-0).
 
 ![Certified logos](https://cdn.prod.website-files.com/63e25be3f4b49456411df88b/64e0a88c0d4d27bf8e59f58a_64bf723657d39ac56607a688_ee7e6df2-screen-shot-2023-07-19-at-7-14-47-pm_10lm05m000000000000028.png)
-
-![](https://cdn.prod.website-files.com/63e25be3f4b49456411df88b/63e4b70b17406df6e80702ae_se4.webp)
-
-![](https://cdn.prod.website-files.com/63e25be3f4b49456411df88b/63e4b70bcde96a24ec940838_gdpr.webp)
-
-![](https://cdn.prod.website-files.com/63e25be3f4b49456411df88b/63e4b70b6c95f41f40376f07_Logo-HIPAA.webp)
-
-![](https://cdn.prod.website-files.com/63e25be3f4b49456411df88b/63e4b70b08608b517561635a_iso.webp)
 
 [1-833-5ACTION (1-833-5228466)](tel:1-833-5228466)[info@rezolve.ai](mailto:info@rezolve.ai?subject=You've%20got%20email%20from%20website)
 
