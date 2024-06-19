@@ -9,13 +9,13 @@ Les experts du groupe Biggie se sont rassemblés pour vous donner les 6 insights
 2. **Mesure d'Attention :** Évaluez l'impact de vos campagnes dans un univers publicitaire en évolution.
 3. 🎁 et bien plus à découvrir !
 
-![Téléchargez notre Trendbook 2024 ](https://assets-global.website-files.com/60d04749fc9b057948ae4641/659814c70c1fe1999ca71cde_Capture%20d%E2%80%99e%CC%81cran%202023-12-29%20a%CC%80%2011.19.47.png)
+![Téléchargez notre Trendbook 2024 ](https://cdn.prod.website-files.com/60d04749fc9b057948ae4641/659814c70c1fe1999ca71cde_Capture%20d%E2%80%99e%CC%81cran%202023-12-29%20a%CC%80%2011.19.47.png)
 
 [Je télécharge le guide](https://www.gamned.com/lp/trendbook-2024-les-dernieres-tendances-marketing?utm_source=lead-magnet&utm_campaign=trendbook-2024&utm_content=popup)
 
 [](#)
 
-[![gamned logo](https://assets-global.website-files.com/60c1dd41dc7dd910b6b1446b/60c1e62f2aac024a4cad713d_gamned-logo-red.svg)](https://www.gamned.com/)
+[![gamned logo](https://cdn.prod.website-files.com/60c1dd41dc7dd910b6b1446b/60c1e62f2aac024a4cad713d_gamned-logo-red.svg)](https://www.gamned.com/)
 
 [Média](https://www.gamned.com/commerce-media-omnicanal)
 
@@ -25,7 +25,7 @@ Les experts du groupe Biggie se sont rassemblés pour vous donner les 6 insights
 
 [Projets](https://www.gamned.com/success-stories)[Formations](https://www.gamned.com/training)[A propos](https://www.gamned.com/company)[Blog](https://www.gamned.com/blog)[Presse](https://www.gamned.com/presse)
 
-![icone traduction](https://assets-global.website-files.com/60c1dd41dc7dd910b6b1446b/611cfeb3c0fbd0dae0607d58_translation-black.webp)
+![icone traduction](https://cdn.prod.website-files.com/60c1dd41dc7dd910b6b1446b/611cfeb3c0fbd0dae0607d58_translation-black.webp)
 
 [FR](https://www.gamned.com/)[EN](https://en.gamned.com/)[DE](https://ch-de.gamned.com/)[NL](https://be-nl.gamned.com/)[CZ](https://www.gamned.cz/)[IT](https://it.gamned.com/)[PT](https://pt.gamned.com/)[BE-FR](https://be-fr.gamned.com/)[CH-FR](https://ch-fr.gamned.com/)
 
@@ -59,7 +59,7 @@ Gamned ! est un _trading desk_ et un éditeur de solutions programmatiques. Les 
 
 Gamned ! est référencé comme _vendor_ dans le _Transparency and Consent Framework_ de l’Interactive Advertising Bureau (IAB) Europe – association de producteurs de publicité sur le web. Un tel référencement permet aux internautes de choisir, sur n’importe quel site équipé d’une Consent Management Platform, quelles données il autorise quelles entités à collecter.
 
-![](https://assets-global.website-files.com/60c1dd41dc7dd910b6b1446b/613888f4177e83873f0a988b_icne-adchoices.webp)
+![](https://cdn.prod.website-files.com/60c1dd41dc7dd910b6b1446b/613888f4177e83873f0a988b_icne-adchoices.webp)
 
 De même, Gamned! suit les recommandations de la plateforme de choix **YOC** [**« Youronlinechoices »**](http://www.youronlinechoices.com/) qui permet aux internautes de désactiver tous les cookies que Gamned! et les autres entreprises membres auraient placés sur leur ordinateur.  
 ‍
@@ -192,7 +192,8 @@ En application de la Réglementation, vous disposez des droits suivants, concern
 
 Si vous souhaitez exercer tout ou partie des droits susvisés ou bénéficier d’informations supplémentaires, vous pouvez adresser une demande au délégué à la protection des données (DPO) de Gamned!, accompagnée de la copie d’un justificatif de votre identité signé et de toute autre information nécessaire pour confirmer votre identité et nous permettre de traiter votre demande (votre adresse postale par exemple) :
 
-* par email à : [dpo@gamned.com](mailto:dpo@gamned.com),
+* via notre formulaire en ligne, accessible ici :
+
 * par courrier à : Gamned!, DPO, 125 rue de Saussure, 75017 PARIS
 
 Une réponse vous sera adressée dans un délai d’un (1) mois à compter de la réception de votre demande.
@@ -211,7 +212,7 @@ _Dernière mise à jour le 22 janvier 2020._
 
 ‍
 
-[![Gamned - logo](https://assets-global.website-files.com/60c1dd41dc7dd910b6b1446b/6253ec3bbc0dfb2cd3a8c93f_Gamned_baseline_blanc.png)](https://www.gamned.com/)
+[![Gamned - logo](https://cdn.prod.website-files.com/60c1dd41dc7dd910b6b1446b/6253ec3bbc0dfb2cd3a8c93f_Gamned_baseline_blanc.png)](https://www.gamned.com/)
 
 Solutions
 
@@ -229,6 +230,6 @@ Legal
 
 [Mentions légales](https://www.gamned.com/legal-disclaimer)[Vie privée](https://www.gamned.com/privacy-policy)
 
-[![LinkedIn - Gamned](https://assets-global.website-files.com/60c1dd41dc7dd910b6b1446b/60c76d9065538924491293cf_linkedin.svg)](https://fr.linkedin.com/company/gamned)[![Twitter - Gamned](https://assets-global.website-files.com/60c1dd41dc7dd910b6b1446b/60c76d91fd9ca56f4b79be6e_twitter.svg)](https://twitter.com/gamned)[![Instagram - Gamned](https://assets-global.website-files.com/60c1dd41dc7dd910b6b1446b/60c76d90c3dcc431bd91a407_instagram.svg)](https://www.instagram.com/gamned_eu/)[![Youtube - Gamned](https://assets-global.website-files.com/60c1dd41dc7dd910b6b1446b/60f84ad4e942c0d8984915a1_youtube.svg)](https://www.youtube.com/channel/UCU8qAfmkKgWvkJkKIhe9cmw)
+[![LinkedIn - Gamned](https://cdn.prod.website-files.com/60c1dd41dc7dd910b6b1446b/60c76d9065538924491293cf_linkedin.svg)](https://fr.linkedin.com/company/gamned)[![Twitter - Gamned](https://cdn.prod.website-files.com/60c1dd41dc7dd910b6b1446b/60c76d91fd9ca56f4b79be6e_twitter.svg)](https://twitter.com/gamned)[![Instagram - Gamned](https://cdn.prod.website-files.com/60c1dd41dc7dd910b6b1446b/60c76d90c3dcc431bd91a407_instagram.svg)](https://www.instagram.com/gamned_eu/)[![Youtube - Gamned](https://cdn.prod.website-files.com/60c1dd41dc7dd910b6b1446b/60f84ad4e942c0d8984915a1_youtube.svg)](https://www.youtube.com/channel/UCU8qAfmkKgWvkJkKIhe9cmw)
 
-[![](https://assets-global.website-files.com/60c1dd41dc7dd910b6b1446b/60f9df3b21d070c8e9b76ce5_arrow-pointing-up.svg)](#)
+[![](https://cdn.prod.website-files.com/60c1dd41dc7dd910b6b1446b/60f9df3b21d070c8e9b76ce5_arrow-pointing-up.svg)](#)
