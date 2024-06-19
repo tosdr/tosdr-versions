@@ -29,6 +29,7 @@ What you agree to do
 * Notify Vivaldi of any unauthorized use of your information, your account or any other security breaches.
 * Follow our [Code of Conduct](https://vivaldi.com/privacy/code-of-conduct/).
 * Respect the intellectual property rights and privacy of any third party and only publish content or other material that you have full rights for.
+* Disclose the use of generative artificial intelligence tools in your content.
 * Accept our [Privacy Policy](https://vivaldi.com/privacy/community-privacy-policy/).
 * Use our services at your own risk.
 * Be fully responsible for any claim, expense, liability or losses arising from any infringement of these Terms of Use.
@@ -138,7 +139,7 @@ Policy enforcement
 You can report abuse at [vivaldi.com/contact](https://vivaldi.com/contact/).  
 Vivaldi may disable accounts that are found to be in violation of these policies. If your account is suspended, and you believe that it was a mistake, please [contact us](https://help.vivaldi.com/services/account/locked-vivaldi-account/).
 
-If you have any questions about these Terms of Use, we can be reached at [vivaldi.com/contact](https://vivaldi.com/contact).
+If you have any questions about these Terms of Use, we can be reached at [vivaldi.com/contact](https://vivaldi.com/contact/).
 
 Last modified and effective: November 17, 2022
 
@@ -175,7 +176,7 @@ Vivaldi Help
 
 **Browser**
 
-* [Desktop](https://vivaldi.com/features/)
+* [Desktop](https://vivaldi.com/desktop/)
 * [Android](https://vivaldi.com/android/)
 * [iOS](https://vivaldi.com/ios/)
 * [Automotive](https://vivaldi.com/android/automotive/)
