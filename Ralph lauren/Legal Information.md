@@ -1,6 +1,8 @@
 [Skip to main content](#main)
 
-Free Standard Delivery & Returns Details
+Summer Sale | [Shop Now](https://www.ralphlauren.co.uk/en/sale/10030)  
+
+Free Standard Delivery on orders over £100 |  Details
 
 Sites-RalphLauren\_GB-Site
 
@@ -212,7 +214,7 @@ Please select your shipping region
     
     [](https://www.ralphlauren.co.uk/en/men/brands/mens-golf/709452?webcat=content-brands-golf&ab=EU_navimage_men_brands_S4_IMAGE)
     
-    ![](https://cdn-fsly.yottaa.net/5f85aab3d93140f2cca82579/www.ralphlauren.co.uk/v~4b.9e/on/demandware.static/-/Library-Sites-RalphLauren_EU_Library/en_GB/v1717830387598/img/Brand_Logo_Library/RLX/2022_rlx_stacked_logo_white.svg?yocs=8I_8L_8M_8Q_)
+    ![](https://cdn-fsly.yottaa.net/5f85aab3d93140f2cca82579/www.ralphlauren.co.uk/v~4b.a0/on/demandware.static/-/Library-Sites-RalphLauren_EU_Library/en_GB/v1718694389698/img/Brand_Logo_Library/RLX/2022_rlx_stacked_logo_white.svg?yocs=8I_8L_8M_8Q_)
     
     * Brands [Brands](javascript:void(0))
         
@@ -234,11 +236,9 @@ Please select your shipping region
         Explore
         
         * [New Arrivals](https://www.ralphlauren.co.uk/en/men/whats-new/new-arrivals/10101?webcat=men%7Cfeatures%7Cmen-new-arrivals)
-        * [Coastal Summer](https://www.ralphlauren.co.uk/en/men/explore/coastal-summer/12030116?webcat=men%7Cfeatures%7Cmen-curated-coastal-summer)
+        * [Wimbledon Style](https://www.ralphlauren.co.uk/en/men/explore/wimbledon-style/130104?webcat=men%7Cfeatures%7Ccurated-mixed-wimbledon)
         * [Summer Style](https://www.ralphlauren.co.uk/en/men/whats-new/summer-essentials/101020?webcat=men%7Cfeatures%7Cmen-the-beach-shop)
-        * [The Beach Shop](https://www.ralphlauren.co.uk/en/men/explore/the-beach-shop/102030?webcat=men%7Cfeatures%7Cmen-resort-shop)
         * [Linen Collection](https://www.ralphlauren.co.uk/en/mens-linen-shirts/1203023?webcat=men%7Cfeatures%7Ccurated-men-linen-shirts)
-        * [Formalwear](https://www.ralphlauren.co.uk/en/men/clothing/formalwear/101024?webcat=men%7Cfeatures%7Cmen-occasionwear)
         * [Father & Son Day](https://www.ralphlauren.co.uk/en/men/explore/father-son-day/12030152?webcat=men%7Cfeatures%7Cfathers-day-campaign)
         
     * Clothing [Clothing](https://www.ralphlauren.co.uk/en/men/clothing/1020?webcat=men-clothing)
@@ -261,6 +261,7 @@ Please select your shipping region
         * [Blazers](https://www.ralphlauren.co.uk/en/men/clothing/blazers/10209?webcat=men%7Cclothing%7Cmen-clothing-blazers)
         * [Formal Shirts](https://www.ralphlauren.co.uk/en/men/clothing/formal-shirts/10207?webcat=men%7Cclothing%7Cmen-clothing-dress-shirts)
         * [Suits](https://www.ralphlauren.co.uk/en/men/clothing/suits/102019?webcat=men%7Cclothing%7Cmen-clothing-suits-tailoring)
+        * [Formalwear](https://www.ralphlauren.co.uk/en/men/clothing/formalwear/101024?webcat=men%7Cclothing%7Cmen-occasionwear)
         * [Double RL Denim](https://www.ralphlauren.co.uk/en/men/clothing/double-rl-denim/12030100?webcat=men%7Cclothing%7Cmen-rrl-denim)
         * [Loungewear](https://www.ralphlauren.co.uk/en/men/clothing/loungewear/105039?webcat=men%7Cclothing%7Cmen-clothing-loungewear)
         * [Sleepwear](https://www.ralphlauren.co.uk/en/men/clothing/loungewear/102012?webcat=men%7Cclothing%7Cmen-accessories-loungewear-sleepwear)
@@ -332,6 +333,17 @@ Please select your shipping region
         * [The Custom Polo, Made to Order](https://www.ralphlauren.co.uk/en/bespoke-polo-shirt/70702275?webcat=customise%7cmen%7cmen-rd&orignalCatID=men-rd&altrurlID=men-rd)
         * [Custom Outerwear](https://www.ralphlauren.co.uk/en/custom-outerwear/70702244?webcat=customise%7cmen%7ccustom-outerwear-rd&orignalCatID=custom-outerwear-rd&altrurlID=custom-outerwear-rd)
         * [The Monogram Shop](https://www.ralphlauren.co.uk/en/home/whats-new/the-monogram-shop/501033-1?webcat=customise%7cmen%7chome-monogram-shop-rd&orignalCatID=home-monogram-shop-rd&altrurlID=home-monogram-shop-rd)
+        * [Wimbledon](https://www.ralphlauren.co.uk/en/men/create-your-own/wimbledon/605010?webcat=customise%7Cmen%7Ccustomise-wimbledon)
+        
+    * Sale [Sale](https://www.ralphlauren.co.uk/en/sale/men/shop-all/100111?webcat=mens-sale-shop-all-uk-rd&orignalCatID=mens-sale-shop-all-uk-rd&altrurlID=mens-sale-shop-all-uk-rd)
+        
+        [Sale](https://www.ralphlauren.co.uk/en/sale/men/shop-all/100111?webcat=mens-sale-shop-all-uk-rd&orignalCatID=mens-sale-shop-all-uk-rd&altrurlID=mens-sale-shop-all-uk-rd)
+        
+        Sale
+        
+        * [Clothing](https://www.ralphlauren.co.uk/en/sale/men/clothing/100312?webcat=mens%7csale-shop-all-uk-rd%7csale-men-clothing-uk-rd&orignalCatID=sale-men-clothing-uk-rd&altrurlID=sale-men-clothing-uk-rd)
+        * [Shoes](https://www.ralphlauren.co.uk/en/sale/men/shoes/100315?webcat=mens%7csale-shop-all-uk-rd%7csale-men-shoes-uk-rd&orignalCatID=sale-men-shoes-uk-rd&altrurlID=sale-men-shoes-uk-rd)
+        * [Accessories](https://www.ralphlauren.co.uk/en/sale/men/accessories/100314?webcat=mens%7csale-shop-all-uk-rd%7csale-men-accessories-uk-rd&orignalCatID=sale-men-accessories-uk-rd&altrurlID=sale-men-accessories-uk-rd)
         
     
 * Women [Women](https://www.ralphlauren.co.uk/en/women/20?webcat=women)
@@ -376,11 +388,11 @@ Please select your shipping region
         Explore
         
         * [New Season](https://www.ralphlauren.co.uk/en/women/whats-new/new-arrivals/20101?webcat=women%7Cfeatures%7Cwomen-new-arrivals)
+        * [Wimbledon Style](https://www.ralphlauren.co.uk/en/men/explore/wimbledon-style/130104?webcat=women%7cfeatures%7ccurated-mixed-wimbledon-rd&orignalCatID=curated-mixed-wimbledon-rd&altrurlID=curated-mixed-wimbledon-rd)
+        * [Sportswear](https://www.ralphlauren.co.uk/en/women/explore/sportswear/903090?webcat=women%7Cfeatures%7Cwomen-athleisure-2)
         * [Wardrobe Classics](https://www.ralphlauren.co.uk/en/women/explore/wardrobe-classics/9030107?webcat=women%7Cfeatures%7Cwomen-wardrobe-classics)
         * [Summer Style](https://www.ralphlauren.co.uk/en/women/whats-new/summer-shop/903028?webcat=women%7Cfeatures%7Cwomen-summer-essentials)
         * [Holiday Shop](https://www.ralphlauren.co.uk/en/women/whats-new/holiday-shop/201014?webcat=women%7Cfeatures%7Cwomen-the-beach-shop)
-        * [Wedding Guest Outfits](https://www.ralphlauren.co.uk/en/women/whats-new/wedding-outfits/903020?webcat=women%7Cfeatures%7Cwomen-wedding-shop)
-        * [Sportswear](https://www.ralphlauren.co.uk/en/women/explore/sportswear/903090?webcat=women%7Cfeatures%7Cwomen-athleisure-2)
         
     * Clothing [Clothing](https://www.ralphlauren.co.uk/en/women/clothing/2020?webcat=women-clothing)
         
@@ -502,6 +514,17 @@ Please select your shipping region
         * [The Custom Polo, Made to Order](https://www.ralphlauren.co.uk/en/bespoke-polo-shirt/70702275?webcat=customise%7cwomen%7cwomen-rd-1&orignalCatID=women-rd-1&altrurlID=women-rd-1)
         * [Custom Outerwear](https://www.ralphlauren.co.uk/en/custom-outerwear/70702244?webcat=customise%7cwomen%7ccustom-outerwear-rd-1&orignalCatID=custom-outerwear-rd-1&altrurlID=custom-outerwear-rd-1)
         * [The Monogram Shop](https://www.ralphlauren.co.uk/en/home/whats-new/the-monogram-shop/501033-1?webcat=customise%7cwomen%7chome-monogram-shop-rd2&orignalCatID=home-monogram-shop-rd2&altrurlID=home-monogram-shop-rd2)
+        * [Wimbledon](https://www.ralphlauren.co.uk/en/men/create-your-own/wimbledon/605010?webcat=customise%7cwomen%7ccustomise-wimbledon-rd&orignalCatID=customise-wimbledon-rd&altrurlID=customise-wimbledon-rd)
+        
+    * Sale [Sale](https://www.ralphlauren.co.uk/en/sale/women/shop-all/100321?webcat=womens-sale-uk-shop-all-rd&orignalCatID=womens-sale-uk-shop-all-rd&altrurlID=womens-sale-uk-shop-all-rd)
+        
+        [Sale](https://www.ralphlauren.co.uk/en/sale/women/shop-all/100321?webcat=womens-sale-uk-shop-all-rd&orignalCatID=womens-sale-uk-shop-all-rd&altrurlID=womens-sale-uk-shop-all-rd)
+        
+        Sale
+        
+        * [Clothing](https://www.ralphlauren.co.uk/en/sale/women/clothing/1003230?webcat=womens%7csale-uk-shop-all-rd%7csale-women-clothing-uk-1&orignalCatID=sale-women-clothing-uk-1&altrurlID=sale-women-clothing-uk-1)
+        * [Accessories](https://www.ralphlauren.co.uk/en/sale/women/accessories/100324?webcat=womens%7csale-uk-shop-all-rd%7csale-women-accessories-uk-1&orignalCatID=sale-women-accessories-uk-1&altrurlID=sale-women-accessories-uk-1)
+        * [Shoes](https://www.ralphlauren.co.uk/en/sale/women/shoes/100325?webcat=womens%7csale-uk-shop-all-rd%7csale-women-shoes-uk-1&orignalCatID=sale-women-shoes-uk-1&altrurlID=sale-women-shoes-uk-1)
         
     
 * Kids [Kids](https://www.ralphlauren.co.uk/en/kids/30?webcat=kids)
@@ -516,10 +539,10 @@ Please select your shipping region
         
         * [New Arrivals for Boys](https://www.ralphlauren.co.uk/en/kids/whats-new/new-arrivals-for-boys/30506?webcat=kids%7Cinspiration%7Cboys-new-arrivals)
         * [New Arrivals for Girls](https://www.ralphlauren.co.uk/en/kids/whats-new/new-arrivals-for-girls/30507?webcat=kids%7Cinspiration%7Cgirls-new-arrivals)
+        * [Wimbledon Style](https://www.ralphlauren.co.uk/en/men/explore/wimbledon-style/130104?webcat=kids%7cinspiration%7ccurated-mixed-wimbledon-rd-1&orignalCatID=curated-mixed-wimbledon-rd-1&altrurlID=curated-mixed-wimbledon-rd-1)
         * [Summer Classics](https://www.ralphlauren.co.uk/en/kids/explore/summer-classics/305052?webcat=kids%7Cinspiration%7Ckids-summer-classics)
-        * [Linen Collection](https://www.ralphlauren.co.uk/en/kids/explore/linen-collection/305046?webcat=kids%7Cinspiration%7Ckids-linen-collection)
-        * [Mini Me for Boys](https://www.ralphlauren.co.uk/en/kids/whats-new/mini-me-for-boys/706236-1?webcat=kids%7cinspiration%7cboys-mini-me-rd&orignalCatID=boys-mini-me-rd&altrurlID=boys-mini-me-rd)
-        * [Mini Me for Girls](https://www.ralphlauren.co.uk/en/kids/whats-new/mini-me-for-girls/706237-1?webcat=kids%7cinspiration%7cgirls-mini-me-rd&orignalCatID=girls-mini-me-rd&altrurlID=girls-mini-me-rd)
+        * [Seaside Ease for Boys](https://www.ralphlauren.co.uk/en/kids/explore/seaside-ease-for-boys/305050?webcat=kids%7Cinspiration%7Cboys-seaside-ease)
+        * [Seaside Ease for Girls](https://www.ralphlauren.co.uk/en/kids/explore/seaside-ease-for-girls/305051?webcat=kids%7Cinspiration%7Cgirls-seaside-ease)
         
     * Shop by Age Range [Shop by Age Range](javascript:void(0))
         
@@ -547,6 +570,7 @@ Please select your shipping region
         * [Trousers & Shorts](https://www.ralphlauren.co.uk/en/kids/boys/trousers-shorts/30608?webcat=boys%7Cboys-trousers-shorts)
         * [Rugby & Polo Shirts](https://www.ralphlauren.co.uk/en/kids/boys/rugby-polo-shirts/30605?webcat=boys%7Cboys-polo-shirts)
         * [Matching Outfits](https://www.ralphlauren.co.uk/en/kids/whats-new/matching-outfits/305010?webcat=boys%7Ckids-matching-outfits)
+        * [Mini Me](https://www.ralphlauren.co.uk/en/kids/whats-new/mini-me-for-boys/706236-1?webcat=boys%7cboys-mini-me-rd&orignalCatID=boys-mini-me-rd&altrurlID=boys-mini-me-rd)
         * [Occasionwear](https://www.ralphlauren.co.uk/en/kids/boys/occasionwear/30609?webcat=boys%7Cboys-occasionwear)
         * [Activewear](https://www.ralphlauren.co.uk/en/kids/boys/activewear/302326?webcat=boys%7Colder-boys-athleisure)
         * [Swimwear](https://www.ralphlauren.co.uk/en/kids/boys/swimwear/306010?webcat=boys%7Cboys-swimwear)
@@ -569,6 +593,7 @@ Please select your shipping region
         * [Tops & Shirts](https://www.ralphlauren.co.uk/en/kids/girls/tops-shirts/30707?webcat=girls%7Cgirls-tops-shirts)
         * [Polo Shirts](https://www.ralphlauren.co.uk/en/kids/girls/polo-shirts/30705?webcat=girls%7Cgirls-polo-shirts)
         * [Matching Outfits](https://www.ralphlauren.co.uk/en/kids/explore/matching-outfits-for-girls/305012?webcat=girls%7Cgirls-matching-outfits)
+        * [Mini Me](https://www.ralphlauren.co.uk/en/kids/whats-new/mini-me-for-girls/706237-1?webcat=girls%7cgirls-mini-me-rd&orignalCatID=girls-mini-me-rd&altrurlID=girls-mini-me-rd)
         * [Occasionwear](https://www.ralphlauren.co.uk/en/kids/girls/occasionwear/30709?webcat=girls%7Cgirls-occasionwear)
         * [Activewear](https://www.ralphlauren.co.uk/en/kids/girls/activewear/304023?webcat=girls%7Colder-girls-athleisure)
         * [Swimwear](https://www.ralphlauren.co.uk/en/kids/girls/swimwear/307010?webcat=girls%7Cgirls-swimwear)
@@ -635,29 +660,30 @@ Please select your shipping region
         * [Girls](https://www.ralphlauren.co.uk/en/kids/create-your-own/girls/603016?webcat=customise%7Ckids-ourfavourites%7Cgirls-customise-ourfavourites)
         * [Baby](https://www.ralphlauren.co.uk/en/kids/create-your-own/baby/60407?webcat=customise%7Ckids-ourfavourites%7Ccustomise-baby-ourfavourites)
         * [Custom Outerwear](https://www.ralphlauren.co.uk/en/custom-outerwear/70702244?webcat=customise%7ckids-ourfavourites%7ccustom-outerwear-rd-2&orignalCatID=custom-outerwear-rd-2&altrurlID=custom-outerwear-rd-2)
+        * [Wimbledon](https://www.ralphlauren.co.uk/en/men/create-your-own/wimbledon/605010?webcat=customise%7ckids-ourfavourites%7ccustomise-wimbledon-rd2&orignalCatID=customise-wimbledon-rd2&altrurlID=customise-wimbledon-rd2)
+        
+    * Sale [Sale](https://www.ralphlauren.co.uk/en/sale/10030?webcat=kids-sale-shop-all-uk-rd&orignalCatID=kids-sale-shop-all-uk-rd&altrurlID=kids-sale-shop-all-uk-rd)
+        
+        [Sale](https://www.ralphlauren.co.uk/en/sale/10030?webcat=kids-sale-shop-all-uk-rd&orignalCatID=kids-sale-shop-all-uk-rd&altrurlID=kids-sale-shop-all-uk-rd)
+        
+        Sale
+        
+        * [Boys](https://www.ralphlauren.co.uk/en/sale/boys/shop-all/100331?webcat=kids%7csale-shop-all-uk-rd%7csale-boys-uk-rd&orignalCatID=sale-boys-uk-rd&altrurlID=sale-boys-uk-rd)
+        * [Girls](https://www.ralphlauren.co.uk/en/sale/girls/shop-all/100341?webcat=kids%7csale-shop-all-uk-rd%7csale-girls-uk-rd&orignalCatID=sale-girls-uk-rd&altrurlID=sale-girls-uk-rd)
+        * [Baby](https://www.ralphlauren.co.uk/en/sale/baby/shop-all/100351?webcat=kids%7csale-shop-all-uk-rd%7csale-baby-uk-rd&orignalCatID=sale-baby-uk-rd&altrurlID=sale-baby-uk-rd)
         
     
-    [](https://www.ralphlauren.co.uk/en/kids/explore/seaside-ease-for-boys/305050?webcat=content-boys-seaside-ease&ab=EU_navimage_kids_IMAGE)
+    [](https://www.ralphlauren.co.uk/en/wimbledon/1109013?webcat=content-wimbledon-feat&ab=EU_navimage_kids_IMAGE1)
     
-    #### Boys'
+    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)[](https://www.ralphlauren.co.uk/en/wimbledon/1109013?webcat=content-wimbledon-feat&ab=EU_navimage_kids_IMAGE1)
     
-    ### Seaside Ease
+    [](https://www.ralphlauren.co.uk/en/kids/explore/only-polo-for-boys/1205051?webcat=content-boys-curated-only-polo&ab=EU_navimage_kids_IMAGE2)
     
-    [](https://www.ralphlauren.co.uk/en/kids/explore/seaside-ease-for-boys/305050?webcat=content-boys-seaside-ease&ab=EU_navimage_kids_L1)
+    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)[](https://www.ralphlauren.co.uk/en/kids/explore/only-polo-for-boys/1205051?webcat=content-boys-curated-only-polo&ab=EU_navimage_kids_IMAGE2)
     
-    [](https://www.ralphlauren.co.uk/en/kids/explore/seaside-ease-for-girls/305051?webcat=content-girls-seaside-ease&ab=EU_navimage_kids_IMAGE)
+    [](https://www.ralphlauren.co.uk/en/gifts/for-baby/our-favourite-gifts/80401?webcat=content-baby-our-favourite-gifts&ab=EU_navimage_kids_IMAGE3)
     
-    #### Girls'
-    
-    ### Seaside Ease
-    
-    [](https://www.ralphlauren.co.uk/en/kids/explore/seaside-ease-for-girls/305051?webcat=content-girls-seaside-ease&ab=EU_navimage_kids_L1)
-    
-    [](https://www.ralphlauren.co.uk/en/gifts/for-baby/our-favourite-gifts/80401?webcat=content-baby-our-favourite-gifts&ab=EU_navimage_kids_IMAGE)
-    
-    ### Baby Gifting
-    
-    [](https://www.ralphlauren.co.uk/en/gifts/for-baby/our-favourite-gifts/80401?webcat=content-baby-our-favourite-gifts&ab=EU_navimage_kids_L1)
+    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)[](https://www.ralphlauren.co.uk/en/gifts/for-baby/our-favourite-gifts/80401?webcat=content-baby-our-favourite-gifts&ab=EU_navimage_kids_IMAGE3)
     
 * Home [Home](https://www.ralphlauren.co.uk/en/home/50?webcat=home)
     
@@ -813,6 +839,14 @@ Please select your shipping region
         * [Furniture & Rug Care](https://www.ralphlauren.co.uk/en/home/home-services/furniture-rug-care/5020011?webcat=home%7Ctrade%7Cfurniture-and-rugs)
         * [Virtual Showroom](https://www.ralphlauren.co.uk/en/home/home-services/virtual-showroom/508016?webcat=home%7Ctrade%7Chome-virtual-showroom-en)
         
+    * Sale [Sale](https://www.ralphlauren.co.uk/en/sale/home/shop-all/100361?webcat=home-sale-shop-all-uk-rd&orignalCatID=home-sale-shop-all-uk-rd&altrurlID=home-sale-shop-all-uk-rd)
+        
+        [Sale](https://www.ralphlauren.co.uk/en/sale/home/shop-all/100361?webcat=home-sale-shop-all-uk-rd&orignalCatID=home-sale-shop-all-uk-rd&altrurlID=home-sale-shop-all-uk-rd)
+        
+        Sale
+        
+        * [Shop all](https://www.ralphlauren.co.uk/en/sale/home/shop-all/100361?webcat=home-sale-shop-all-uk-rd&orignalCatID=home-sale-shop-all-uk-rd&altrurlID=home-sale-shop-all-uk-rd)
+        
     
 * Gifts [Gifts](https://www.ralphlauren.co.uk/en/gifts/80?webcat=gifts)
     
@@ -941,10 +975,9 @@ Please select your shipping region
         
         What's New
         
+        * [Wimbledon](https://www.ralphlauren.co.uk/en/wimbledon/1109013?webcat=world%7cof-rl-stories%7cwimbledon-feat-rd&orignalCatID=wimbledon-feat-rd&altrurlID=wimbledon-feat-rd)
         * [Fall 2024 Runway](https://www.ralphlauren.co.uk/en/fall-runway/70702325?webcat=world%7cof-rl-stories%7crunway-rd&orignalCatID=runway-rd&altrurlID=runway-rd)
         * [Only Polo](https://www.ralphlauren.co.uk/en/men/explore/only-polo/12030147?webcat=world%7cof-rl-stories%7conly-polo-feat-rd&orignalCatID=only-polo-feat-rd&altrurlID=only-polo-feat-rd)
-        * [PRL x Naiomi Glasses](https://www.ralphlauren.co.uk/en/artist-in-residence-2/70702323?webcat=world%7cof-rl-stories%7cartist-in-residence-feat-rd&orignalCatID=artist-in-residence-feat-rd&altrurlID=artist-in-residence-feat-rd)
-        * [Heritage Icons](https://www.ralphlauren.co.uk/en/mens-polo-heritage-icons/709438?webcat=world%7cof-rl-stories%7cbrands-polo-ralph-lauren-men-heritage-rd&orignalCatID=brands-polo-ralph-lauren-men-heritage-rd&altrurlID=brands-polo-ralph-lauren-men-heritage-rd)
         * [The Gift Guide](https://www.ralphlauren.co.uk/en/gifts/80?webcat=world%7cof-rl-stories%7cgift-guide-rd&orignalCatID=gift-guide-rd&altrurlID=gift-guide-rd)
         * [Sporting Life](https://www.ralphlauren.co.uk/en/sporting-life/70702281?webcat=world%7cof-rl-stories%7csporting-life-feat-rd&orignalCatID=sporting-life-feat-rd&altrurlID=sporting-life-feat-rd)
         
@@ -1058,9 +1091,104 @@ Please select your shipping region
         * [Elevate Your Office Outfits With These 8 Items](https://www.ralphlauren.co.uk/en/wear-to-work/70702318?webcat=world%7cof-rl-inspiration%7cwear-to-work-feat-rd&orignalCatID=wear-to-work-feat-rd&altrurlID=wear-to-work-feat-rd)
         
     
-    [](https://www.ralphlauren.co.uk/en/fall-runway/70702325?webcat=content-fall-runway&ab=EU_navimage_women_IMAGE)
+    [](https://www.ralphlauren.co.uk/en/men/705862?webcat=content-brands-purple-label-presentation&ab=EU_navimage_discover_S1_IMAGE)
     
-    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    #### Purple Label
+    
+    ### Spring 2025
+    
+    [](https://www.ralphlauren.co.uk/en/men/705862?webcat=content-brands-purple-label-presentation&ab=EU_navimage_discover_S1_L1)
+    
+    [](https://www.ralphlauren.co.uk/en/wimbledon/1109013?webcat=content-wimbledon-feat&ab=EU_navimage_discover_S2_IMAGE)
+    
+    #### Polo Ralph Lauren
+    
+    ### Wimbledon Collection
+    
+    [](https://www.ralphlauren.co.uk/en/wimbledon/1109013?webcat=content-wimbledon-feat&ab=EU_navimage_discover_S2_L1)
+    
+    [](https://www.ralphlauren.co.uk/en/only-polo/70702324?webcat=content-only-polo-feat&ab=EU_navimage_discover_S3_IMAGE)
+    
+    #### Polo Ralph Lauren
+    
+    ### Only Polo
+    
+    [](https://www.ralphlauren.co.uk/en/only-polo/70702324?webcat=content-only-polo-feat&ab=EU_navimage_discover_S3_L1)
+    
+* Sale [Sale](https://www.ralphlauren.co.uk/en/sale/10030?webcat=sale-uk)
+    
+    [Sale](https://www.ralphlauren.co.uk/en/sale/10030?webcat=sale-uk)
+    
+    * Men [Men](javascript:void(0))
+        
+        Men
+        
+        Men
+        
+        * [Clothing](https://www.ralphlauren.co.uk/en/sale/men/clothing/100312?webcat=sale%7cmen-uk%7csale-men-clothing-uk&orignalCatID=sale-men-clothing-uk&altrurlID=sale-men-clothing-uk)
+        * [Accessories](https://www.ralphlauren.co.uk/en/sale/men/accessories/100314?webcat=sale%7cmen-uk%7csale-men-accessories-uk&orignalCatID=sale-men-accessories-uk&altrurlID=sale-men-accessories-uk)
+        * [Shoes](https://www.ralphlauren.co.uk/en/sale/men/shoes/100315?webcat=sale%7cmen-uk%7csale-men-shoes-uk&orignalCatID=sale-men-shoes-uk&altrurlID=sale-men-shoes-uk)
+        * [Shop All](https://www.ralphlauren.co.uk/en/sale/men/shop-all/100311?webcat=sale%7cmen-uk%7csale-men2-uk&orignalCatID=sale-men2-uk&altrurlID=sale-men2-uk)
+        * [Under £100](https://www.ralphlauren.co.uk/en/sale/men/under-100/1003126?webcat=sale%7Cmen-uk%7Csale-men-under-100-uk)
+        * [£100 - £200](https://www.ralphlauren.co.uk/en/sale/men/100---200/1003127?webcat=sale%7Cmen-uk%7Csale-men-150-200-uk)
+        
+    * Women [Women](javascript:void(0))
+        
+        Women
+        
+        Women
+        
+        * [Clothing](https://www.ralphlauren.co.uk/en/sale/women/clothing/1003230?webcat=sale%7cwomen-uk%7csale-women-clothing-uk&orignalCatID=sale-women-clothing-uk&altrurlID=sale-women-clothing-uk)
+        * [Accessories](https://www.ralphlauren.co.uk/en/sale/women/accessories/100324?webcat=sale%7cwomen-uk%7csale-women-accessories-uk&orignalCatID=sale-women-accessories-uk&altrurlID=sale-women-accessories-uk)
+        * [Shoes](https://www.ralphlauren.co.uk/en/sale/women/shoes/100325?webcat=sale%7cwomen-uk%7csale-women-shoes-uk&orignalCatID=sale-women-shoes-uk&altrurlID=sale-women-shoes-uk)
+        * [Shop All](https://www.ralphlauren.co.uk/en/sale/women/shop-all/100321?webcat=sale%7cwomen-uk%7csale-women2-uk&orignalCatID=sale-women2-uk&altrurlID=sale-women2-uk)
+        * [Under £100](https://www.ralphlauren.co.uk/en/sale/women/under-100/1003237?webcat=sale%7Cwomen-uk%7Csale-women-under-100-uk)
+        * [£100 - £200](https://www.ralphlauren.co.uk/en/sale/women/100---200/1003236?webcat=sale%7Cwomen-uk%7Csale-women-150-200-uk)
+        
+    * Boys [Boys](javascript:void(0))
+        
+        Boys
+        
+        Boys
+        
+        * [Boys 6-14 Years](https://www.ralphlauren.co.uk/en/sale/boys/boys-6-14-years/100333?webcat=sale%7cboys-uk%7csale-boys-6-14-years-uk&orignalCatID=sale-boys-6-14-years-uk&altrurlID=sale-boys-6-14-years-uk)
+        * [Boys 1.5-6 Years](https://www.ralphlauren.co.uk/en/sale/boys/boys-1.5-6-years/100332?webcat=sale%7cboys-uk%7csale-boys-2-6-years-uk&orignalCatID=sale-boys-2-6-years-uk&altrurlID=sale-boys-2-6-years-uk)
+        * [Shop All](https://www.ralphlauren.co.uk/en/sale/boys/shop-all/100331?webcat=sale%7cboys-uk%7csale-boys2-uk&orignalCatID=sale-boys2-uk&altrurlID=sale-boys2-uk)
+        
+    * Girls [Girls](javascript:void(0))
+        
+        Girls
+        
+        Girls
+        
+        * [Girls 7-14 Years](https://www.ralphlauren.co.uk/en/sale/girls/girls-7-14-years/100343?webcat=sale%7cgirls-uk%7csale-girls-7-14-years-uk&orignalCatID=sale-girls-7-14-years-uk&altrurlID=sale-girls-7-14-years-uk)
+        * [Girls 1.5-6.5 Years](https://www.ralphlauren.co.uk/en/sale/girls/girls-1.5-6.5-years/100342?webcat=sale%7cgirls-uk%7csale-girls-2-6-years-uk&orignalCatID=sale-girls-2-6-years-uk&altrurlID=sale-girls-2-6-years-uk)
+        * [Shop All](https://www.ralphlauren.co.uk/en/sale/girls/shop-all/100341?webcat=sale%7cgirls-uk%7csale-girls2-uk&orignalCatID=sale-girls2-uk&altrurlID=sale-girls2-uk)
+        
+    * Baby [Baby](javascript:void(0))
+        
+        Baby
+        
+        Baby
+        
+        * [Baby Boy](https://www.ralphlauren.co.uk/en/sale/baby/baby-boy/100352?webcat=sale%7cbaby-uk%7csale-baby-boy-uk&orignalCatID=sale-baby-boy-uk&altrurlID=sale-baby-boy-uk)
+        * [Baby Girl](https://www.ralphlauren.co.uk/en/sale/baby/baby-girl/100353?webcat=sale%7cbaby-uk%7csale-baby-girl-uk&orignalCatID=sale-baby-girl-uk&altrurlID=sale-baby-girl-uk)
+        * [Shop All](https://www.ralphlauren.co.uk/en/sale/baby/shop-all/100351?webcat=sale%7cbaby-uk%7csale-baby2-uk&orignalCatID=sale-baby2-uk&altrurlID=sale-baby2-uk)
+        
+    * Home [Home](javascript:void(0))
+        
+        Home
+        
+        Home
+        
+        * [Shop All](https://www.ralphlauren.co.uk/en/sale/home/shop-all/100361?webcat=sale%7chome-uk%7csale-home2-uk&orignalCatID=sale-home2-uk&altrurlID=sale-home2-uk)
+        
+    
+    [](https://www.ralphlauren.co.uk/en/sale/10030?webcat=content-sale-uk&ab=EU_navimage_sale_IMAGE)
+    
+    ### Summer Sale
+    
+    ENJOY UP TO 50% OFF
     
 
 Use down arrow to navigate to the submenus
@@ -1147,6 +1275,40 @@ Your browser's JavaScript functionality is turned off. Please turn it on so that
 
 Current Page
 
+ 
+
+  [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.ralphlauren.co.uk/en/sale/men/shop-all/100311?ab=EU_HP_Slot_11_S1_L1_Image_SHOP)
+
+### Summer Sale
+
+NEW LINES ADDED
+
+Enjoy up to 50% off
+
+[Men](https://www.ralphlauren.co.uk/en/sale/men/shop-all/100311?ab=EU_HP_Slot_11_S1_L1_SHOP) [Women](https://www.ralphlauren.co.uk/en/sale/women/shop-all/100321?ab=EU_HP_Slot_11_S1_L2_SHOP) [Boys](https://www.ralphlauren.co.uk/en/sale/boys/shop-all/100331?ab=EU_HP_Slot_11_S1_L3_SHOP) [Girls](https://www.ralphlauren.co.uk/en/sale/girls/shop-all/100341?ab=EU_HP_Slot_11_S1_L4_SHOP) [Baby](https://www.ralphlauren.co.uk/en/sale/baby/shop-all/100351?ab=EU_HP_Slot_11_S1_L5_SHOP) [Home](https://www.ralphlauren.co.uk/en/sale/home/shop-all/100361?ab=EU_HP_Slot_11_S1_L6_SHOP)
+
+[See Details
+
+eu-summer-sale-disclaimers-public
+
+From 12/06/2024 to 29/07/2024 only for purchases made on this website. Applies only to items identified with a discount tag (“Eligible items”). Discount may vary per item and is reflected directly on the Eligible items price tag. The Discount has no cash value and cannot be applied to previously purchased items. Subject to stock availability. Products offered for sale are for personal use only. Resale or bulk buying is forbidden. Eligible returns shall be refunded at the discounted price. We reserve the right to cancel, amend, terminate or suspend the Discount in circumstances outside our reasonable control. By redeeming your discount, you accept and agree to be bound by these conditions. We reserve the right to refuse to apply the Discount if you breach these.](javascript::)
+
+ 
+
+  
+
+[](https://www.ralphlauren.co.uk/en/men/705862?webcat=content-brands-purple-label-presentation&ab=EU_HP_Slot_0_S1_Image_SHOP)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+Spring 2025 Milan Presentation
+------------------------------
+
+Spring 2025 Milan Presentation
+------------------------------
+
+[Explore Now](https://www.ralphlauren.co.uk/en/men/705862?webcat=content-brands-purple-label-presentation&ab=EU_HP_Slot_0_S1_L1_SHOP)
+
            
 
   ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
@@ -1178,7 +1340,7 @@ The Linen Shop
 Seaside Ease
 ------------
 
-[Shop Boys](https://www.ralphlauren.co.uk/en/kids/explore/seaside-ease-for-boys/305050?webcat=content-boys-seaside-ease) [Shop Girls](https://www.ralphlauren.co.uk/en/kids/explore/seaside-ease-for-girls/305051?webcat=content-girls-seaside-ease)
+[Boys](https://www.ralphlauren.co.uk/en/kids/explore/seaside-ease-for-boys/305050?webcat=content-boys-seaside-ease) [Girls](https://www.ralphlauren.co.uk/en/kids/explore/seaside-ease-for-girls/305051?webcat=content-girls-seaside-ease)
 
   
 
@@ -1244,6 +1406,44 @@ Eid Entertaining
 
   
 
+[](https://www.ralphlauren.co.uk/en/wimbledon/1109013?webcat=content-wimbledon-feat)
+
+![Wimbledon | PRL](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+Ralph Lauren proudly celebrates Wimbledon’s rich traditions in sportsmanship and elegance
+
+[Explore Now](https://www.ralphlauren.co.uk/en/wimbledon/1109013?webcat=content-wimbledon-feat)
+
+  [](https://www.ralphlauren.co.uk/en/men/brands/mens-golf/709452?webcat=content-brands-golf)
+
+![Polo Ralph Lauren](https://cdn-fsly.yottaa.net/5f85aab3d93140f2cca82579/www.ralphlauren.co.uk/v~4b.a0/on/demandware.static/-/Library-Sites-RalphLauren_EU_Library/default/dwc59bf9cf/img/Brand_Logo_Library/RLX/2022_rlx_stacked_logo_white.svg?yocs=8I_8L_8M_8Q_)
+
+Tournament Style
+----------------
+
+Shop the looks RL Ambassador Billy Horschel will be wearing at the US Open
+
+[Shop Men’s Golf](https://www.ralphlauren.co.uk/en/men/brands/mens-golf/709452?webcat=content-brands-golf)
+
+Billy Horschel RL Ambassador
+
+  
+
+[](https://www.ralphlauren.co.uk/en/womens-golf/707230?webcat=content-womens-golf-feat)
+
+![Polo Ralph Lauren](https://cdn-fsly.yottaa.net/5f85aab3d93140f2cca82579/www.ralphlauren.co.uk/v~4b.a0/on/demandware.static/-/Library-Sites-RalphLauren_EU_Library/default/dwc59bf9cf/img/Brand_Logo_Library/RLX/2022_rlx_stacked_logo_white.svg?yocs=8I_8L_8M_8Q_)
+
+Tournament Style
+----------------
+
+Shop the looks RL Ambassador Andrea Lee will be wearing at the US Open
+
+[Shop Women’s Golf](https://www.ralphlauren.co.uk/en/womens-golf/707230?webcat=content-womens-golf-feat)
+
+Andrea Lee RL Ambassador
+
+  
+
 [](https://www.ralphlauren.co.uk/en/gifts/for-him/fathers-day-gifts/12010028?webcat=content-gifts-fathers-day-our-favourites)
 
 Father’s Day Gifts
@@ -1261,9 +1461,9 @@ From Polo shirts to silk ties, find a perfect present Dad will love
 
 [](https://www.ralphlauren.co.uk/en/men/explore/father-son-day/12030152?webcat=content-fathers-day-campaign)
 
-![](https://cdn-fsly.yottaa.net/5f85aab3d93140f2cca82579/www.ralphlauren.co.uk/v~4b.9e/on/demandware.static/-/Library-Sites-RalphLauren_EU_Library/default/dw83c54efe/img/202406/06062024-eu-father-son-banner/0606_father_banner_icon_a.png?yocs=8I_8L_8M_8Q_)
+![](https://cdn-fsly.yottaa.net/5f85aab3d93140f2cca82579/www.ralphlauren.co.uk/v~4b.a0/on/demandware.static/-/Library-Sites-RalphLauren_EU_Library/default/dw83c54efe/img/202406/06062024-eu-father-son-banner/0606_father_banner_icon_a.png?yocs=8I_8L_8M_8Q_)
 
-![](https://cdn-fsly.yottaa.net/5f85aab3d93140f2cca82579/www.ralphlauren.co.uk/v~4b.9e/on/demandware.static/-/Library-Sites-RalphLauren_EU_Library/default/dw680a0486/img/202406/06062024-eu-father-son-banner/0606_father_banner_icon_b.png?yocs=8I_8L_8M_8Q_)
+![](https://cdn-fsly.yottaa.net/5f85aab3d93140f2cca82579/www.ralphlauren.co.uk/v~4b.a0/on/demandware.static/-/Library-Sites-RalphLauren_EU_Library/default/dw680a0486/img/202406/06062024-eu-father-son-banner/0606_father_banner_icon_b.png?yocs=8I_8L_8M_8Q_)
 
 ### Join Us in the Fight Against Cancer
 
