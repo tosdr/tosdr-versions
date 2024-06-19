@@ -99,6 +99,8 @@
         
         #### [Livret Hello +](https://www.hellobank.fr/fr/offre/epargne/livret-epargne-hello-plus/)
         
+        Offre
+        
     * ![](/content/dam/hellobank/header/new-hnc/icon-livret-a.svg)
         
         [Livret A](https://www.hellobank.fr/fr/offre/epargne/livret-a/)
@@ -122,8 +124,6 @@
             
             #### [Assurance vie Hello!](https://www.hellobank.fr/fr/offre/assurance-vie/assurance-vie-hello/)
             
-            Offre
-            
         * ![](/content/dam/hellobank/header/new-hnc/icon-bourse.svg)
             
             [Bourse - Offres et tarifications](https://www.hellobank.fr/fr/offre/bourse/offres-et-tarifications/)
@@ -136,9 +136,11 @@
     * [Bourse sur mobile](https://www.hellobank.fr/fr/offre/bourse/application-mobile-bourse/)
     * [Tout savoir sur la bourse](https://www.hellobank.fr/fr/offre/bourse/tout-savoir-bourse/)
     
-    EN CE MOMENT Une solution d'épargne sûre
+    EN CE MOMENT
     
-    Avec le Compte à Terme Hello Max, découvrez l’épargne rémunérée à 3,75 % annuel brut pour l’ouverture d’un compte à terme de 6 mois à partir de 50 000 € au 01/06/2024.​
+    ### Une solution d'épargne sûre
+    
+    Avec le Compte à Terme Hello Max, découvrez l’épargne rémunérée à 3,75 % annuel brut pour l’ouverture d’un compte à terme de 6 mois à partir de 50 000 € au 01/06/2024.
     
     [En savoir plus](https://www.hellobank.fr/fr/offre/epargne/compte-terme-hello-max/)
     
@@ -171,9 +173,11 @@
     * [Simuler mon crédit immobilier](https://www.hellobank.fr/fr/offre/credit/credit-immobilier/demande-credit-immo/#/PretImmobilier)
     * [Simuler mon crédit conso](https://www.hellobank.fr/fr/offre/credit/simulateur-de-credit/#/)
     
-    EN CE MOMENT Financez vos projets avec le Prêt Personnel
+    EN CE MOMENT
     
-    Auto, travaux ou vacances ? Vous pouvez emprunter jusqu’à 75 000 € sur 4 à 108 mois. C’est sans frais et 100 % en ligne !
+    ### Financez vos projets avec le Prêt Personnel​
+    
+    Auto, travaux ou vacances ? Vous pouvez emprunter jusqu’à 75 000 € sur 4 à 108 mois. C’est sans frais et 100 % en ligne !
     
     [En savoir plus](https://www.hellobank.fr/fr/offre/credit/credit-consommation/)
     
@@ -201,9 +205,9 @@
             [Assurance auto](https://www.hellobank.fr/fr/offre/assurance-prevoyance/assurance-auto/)
             
     
-    Assurance des appareils mobiles
+    ### Assurance appareils mobiles
     
-    Mobileo assure vos appareils nomades et ceux de votre famille, contre le vol, la casse et l’oxydation.
+    Avec Mobileo assurez vos appareils mobiles contre les imprévus du quotidien, dégâts, vol etc…
     
     [En savoir plus](https://www.hellobank.fr/fr/offre/assurance-prevoyance/assurance-appareils-mobiles/)
     
