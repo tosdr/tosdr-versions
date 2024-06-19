@@ -17,13 +17,13 @@ MENU
     * [Press](https://www.av-test.org/en/press/)
     * [Jobs](https://www.av-test.org/en/about-the-institute/jobs/)
 * [News](https://www.av-test.org/en/news/)
-    * [MacOS Sonoma 14.3: The Best Security Solutions Put to the Test](https://www.av-test.org/en/news/macos-sonoma-143-the-best-security-solutions-put-to-the-test/ "MacOS Sonoma 14.3: The Best Security Solutions Put to the Test") [](https://www.av-test.org/en/news/macos-sonoma-143-the-best-security-solutions-put-to-the-test/ "MacOS Sonoma 14.3: The Best Security Solutions Put to the Test")
+    * [Disguise and deception – how brand-new malware attacks are carried out...](https://www.av-test.org/en/news/disguise-and-deception-how-brand-new-malware-attacks-are-carried-out-on-windows-systems/ "Disguise and deception &ndash; how brand-new malware attacks are carried out on Windows systems ") [](https://www.av-test.org/en/news/disguise-and-deception-how-brand-new-malware-attacks-are-carried-out-on-windows-systems/ "Disguise and deception – how brand-new malware attacks are carried out on Windows systems ")
+        
+        [MacOS Sonoma 14.3: The Best Security Solutions Put to the Test](https://www.av-test.org/en/news/macos-sonoma-143-the-best-security-solutions-put-to-the-test/ "MacOS Sonoma 14.3: The Best Security Solutions Put to the Test") [](https://www.av-test.org/en/news/macos-sonoma-143-the-best-security-solutions-put-to-the-test/ "MacOS Sonoma 14.3: The Best Security Solutions Put to the Test")
         
         [Kaspersky Safe Kids Premium: Parental Control Test 2023](https://www.av-test.org/en/news/kaspersky-safe-kids-premium-parental-control-test-2023/ "Kaspersky Safe Kids Premium: Parental Control Test 2023") [](https://www.av-test.org/en/news/kaspersky-safe-kids-premium-parental-control-test-2023/ "Kaspersky Safe Kids Premium: Parental Control Test 2023")
         
         [Cybersecurity: Defense Against the Latest Attacking Techniques in the...](https://www.av-test.org/en/news/cybersecurity-defense-against-the-latest-attacking-techniques-in-the-atp-test/ "Cybersecurity: Defense Against the Latest Attacking Techniques in the ATP Test") [](https://www.av-test.org/en/news/cybersecurity-defense-against-the-latest-attacking-techniques-in-the-atp-test/ "Cybersecurity: Defense Against the Latest Attacking Techniques in the ATP Test")
-        
-        [Test: More Protection for Mobile Devices with Android](https://www.av-test.org/en/news/test-more-protection-for-mobile-devices-with-android/ "Test: More Protection for Mobile Devices with Android") [](https://www.av-test.org/en/news/test-more-protection-for-mobile-devices-with-android/ "Test: More Protection for Mobile Devices with Android")
         
     * News by category
         
