@@ -48,7 +48,9 @@
     
     Join the fight to make the internet a better place.](https://protonmail.com/community)[Open source
     
-    Everyone is welcome to inspect our code. We're open.](https://protonmail.com/community/open-source)
+    Everyone is welcome to inspect our code. We're open.](https://protonmail.com/community/open-source)[Proton Foundation
+    
+    Our non-profit model puts people before profit.](https://protonmail.com/foundation)
     
 * Resources & Support
     
@@ -183,6 +185,7 @@ Proton - Privacy by default
     * [About us](https://protonmail.com/about)
     * [Team](https://protonmail.com/about/team)
     * [Impact](https://protonmail.com/about/impact)
+    * [Proton Foundation](https://protonmail.com/foundation)
     * [Careers
         
         We’re hiring](https://protonmail.com/careers)
