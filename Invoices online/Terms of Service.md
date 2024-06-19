@@ -197,59 +197,57 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Quick and efficient support
-> ---------------------------
+> One of the best decisions I've made for my business
+> ---------------------------------------------------
 > 
-> Thanks its perfect.  Thanks for your prompt response and help.  Much appreciated.
-> 
-> Gheez, you are really going out your way to help! Thanks.  Yes that is exactly what is needed, I fully understand the law as per below and agree. Thanks so much.
+> I've been searching for a reliable, easy-to-use, online invoicing system for my small business. After investigating various options, I came across InvoicesOnline and was pleasantly surprised to learn that it is a South African product. I decided to give it a try which turned out to be one of the best decisions I made for my business! It is user-friendly, reliable and saves me tons of time, time that I can now focus on growing my business. Their technical support is always just a phonecall or email away and I have piece of mind knowing that my accounting docs are safe and available when I need them.
 
-Rudi Franz - Vaxolog (Pty) Ltd t/a Streamline Distributors
+Anri van der Linde
 
-![valued client Frequency Fanatics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8558&file=logo_300_100&type=&fe=0e3e9eeeb820298377c071c62ab2ad53dd745c9b9f354e3df056e7c972548bdb&c=133868176)  
-Frequency Fanatics (Pty) Ltd
+![valued client Digifax (Pty) Ltd T/A SecurityHyper](https://www.invoicesonline.co.za/scripts/image.php?bid=3135&file=logo_300_100&type=&fe=f76cf06090dc7570027da53850024ca80a09b26972ced773fe4683f7155567fa&c=158926571)  
+Digifax (Pty) Ltd T/A SecurityHyper
 
-![valued client IAS Logistics ta Multi transit](https://www.invoicesonline.co.za/scripts/image.php?bid=7064&file=logo_300_100&type=&fe=0e3e9eeeb820298377c071c62ab2ad53dd745c9b9f354e3df056e7c972548bdb&c=156207426)  
-IAS Logistics ta Multi transit
+![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=f76cf06090dc7570027da53850024ca80a09b26972ced773fe4683f7155567fa&c=171512739)  
+Little Nutty Professors
 
-![valued client NIMAWELL  ](https://www.invoicesonline.co.za/scripts/image.php?bid=6419&file=logo_300_100&type=&fe=0e3e9eeeb820298377c071c62ab2ad53dd745c9b9f354e3df056e7c972548bdb&c=156460085)  
-NIMAWELL
+![valued client Abandoned Vehicle and Truck Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=8300&file=logo_300_100&type=&fe=f76cf06090dc7570027da53850024ca80a09b26972ced773fe4683f7155567fa&c=88696580)  
+Abandoned Vehicle and Truck Solutions
 
-![valued client kidoscabbie](https://www.invoicesonline.co.za/scripts/image.php?bid=4488&file=logo_300_100&type=&fe=0e3e9eeeb820298377c071c62ab2ad53dd745c9b9f354e3df056e7c972548bdb&c=60005405)  
-kidoscabbie
+![valued client CHARLIEX CONSTRUCTIONS](https://www.invoicesonline.co.za/scripts/image.php?bid=4959&file=logo_300_100&type=&fe=f76cf06090dc7570027da53850024ca80a09b26972ced773fe4683f7155567fa&c=63824381)  
+CHARLIEX CONSTRUCTIONS
 
-![valued client IEMS (PTY) ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7805&file=logo_300_100&type=&fe=0e3e9eeeb820298377c071c62ab2ad53dd745c9b9f354e3df056e7c972548bdb&c=55922589)  
-IEMS (PTY) ltd
+![valued client BD Maintenance](https://www.invoicesonline.co.za/scripts/image.php?bid=4541&file=logo_300_100&type=&fe=f76cf06090dc7570027da53850024ca80a09b26972ced773fe4683f7155567fa&c=100831240)  
+BD Maintenance
 
-![valued client AFS Electrical](https://www.invoicesonline.co.za/scripts/image.php?bid=3660&file=logo_300_100&type=&fe=0e3e9eeeb820298377c071c62ab2ad53dd745c9b9f354e3df056e7c972548bdb&c=142512506)  
-AFS Electrical
+![valued client Enhle Oarabile Kea](https://www.invoicesonline.co.za/scripts/image.php?bid=7451&file=logo_300_100&type=&fe=f76cf06090dc7570027da53850024ca80a09b26972ced773fe4683f7155567fa&c=147862902)  
+Enhle Oarabile Kea
 
-![valued client Wiselink Broadband Dundee](https://www.invoicesonline.co.za/scripts/image.php?bid=5399&file=logo_300_100&type=&fe=0e3e9eeeb820298377c071c62ab2ad53dd745c9b9f354e3df056e7c972548bdb&c=76163109)  
+![valued client AquariumSmiths](https://www.invoicesonline.co.za/scripts/image.php?bid=7183&file=logo_300_100&type=&fe=f76cf06090dc7570027da53850024ca80a09b26972ced773fe4683f7155567fa&c=124196266)  
+AquariumSmiths
+
+![valued client Gemini-IT Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8156&file=logo_300_100&type=&fe=f76cf06090dc7570027da53850024ca80a09b26972ced773fe4683f7155567fa&c=18696957)  
+Gemini-IT Group
+
+![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=f76cf06090dc7570027da53850024ca80a09b26972ced773fe4683f7155567fa&c=156579845)  
+West Coast Horse Trails
+
+![valued client Wiselink Broadband Dundee](https://www.invoicesonline.co.za/scripts/image.php?bid=5399&file=logo_300_100&type=&fe=f76cf06090dc7570027da53850024ca80a09b26972ced773fe4683f7155567fa&c=75306278)  
 Wiselink Broadband Dundee
 
-![valued client Import Maaw](https://www.invoicesonline.co.za/scripts/image.php?bid=6159&file=logo_300_100&type=&fe=0e3e9eeeb820298377c071c62ab2ad53dd745c9b9f354e3df056e7c972548bdb&c=27570757)  
-Import Maaw
-
-![valued client INVOICES/JOBCARDS ONLINE](https://www.invoicesonline.co.za/scripts/image.php?bid=6974&file=logo_300_100&type=&fe=0e3e9eeeb820298377c071c62ab2ad53dd745c9b9f354e3df056e7c972548bdb&c=178514354)  
+![valued client INVOICES/JOBCARDS ONLINE](https://www.invoicesonline.co.za/scripts/image.php?bid=6974&file=logo_300_100&type=&fe=f76cf06090dc7570027da53850024ca80a09b26972ced773fe4683f7155567fa&c=44946021)  
 INVOICES/JOBCARDS ONLINE
 
-![valued client FX ACCOUNTING](https://www.invoicesonline.co.za/scripts/image.php?bid=6924&file=logo_300_100&type=&fe=0e3e9eeeb820298377c071c62ab2ad53dd745c9b9f354e3df056e7c972548bdb&c=111168224)  
-FX ACCOUNTING
+![valued client Shades of Summer Investments 184cc t/a Junker Construction](https://www.invoicesonline.co.za/scripts/image.php?bid=7053&file=logo_300_100&type=&fe=f76cf06090dc7570027da53850024ca80a09b26972ced773fe4683f7155567fa&c=2432301)  
+Shades of Summer Investments 184cc t/a Junker Construction
 
-![valued client TechnoDezi PTY(LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=2471&file=logo_300_100&type=&fe=0e3e9eeeb820298377c071c62ab2ad53dd745c9b9f354e3df056e7c972548bdb&c=102776897)  
-TechnoDezi PTY(LTD)
+![valued client Vplay Grafix](https://www.invoicesonline.co.za/scripts/image.php?bid=7578&file=logo_300_100&type=&fe=f76cf06090dc7570027da53850024ca80a09b26972ced773fe4683f7155567fa&c=184365211)  
+Vplay Grafix
 
-![valued client Mountain Lion Properties](https://www.invoicesonline.co.za/scripts/image.php?bid=4949&file=logo_300_100&type=&fe=0e3e9eeeb820298377c071c62ab2ad53dd745c9b9f354e3df056e7c972548bdb&c=170165389)  
-Mountain Lion Properties
+![valued client Fox Alarms & Security](https://www.invoicesonline.co.za/scripts/image.php?bid=4937&file=logo_300_100&type=&fe=f76cf06090dc7570027da53850024ca80a09b26972ced773fe4683f7155567fa&c=29911865)  
+Fox Alarms & Security
 
-![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=0e3e9eeeb820298377c071c62ab2ad53dd745c9b9f354e3df056e7c972548bdb&c=160605995)  
-Lion Software Develepment
-
-![valued client CrossRoads Pregnancy Help Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=5466&file=logo_300_100&type=&fe=0e3e9eeeb820298377c071c62ab2ad53dd745c9b9f354e3df056e7c972548bdb&c=206454992)  
-CrossRoads Pregnancy Help Centre
-
-![valued client Khiya Technology Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=5545&file=logo_300_100&type=&fe=0e3e9eeeb820298377c071c62ab2ad53dd745c9b9f354e3df056e7c972548bdb&c=174609062)  
-Khiya Technology Solutions
+![valued client Nilbet T/A Waterman](https://www.invoicesonline.co.za/scripts/image.php?bid=4407&file=logo_300_100&type=&fe=f76cf06090dc7570027da53850024ca80a09b26972ced773fe4683f7155567fa&c=207519658)  
+Nilbet T/A Waterman
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
