@@ -112,6 +112,14 @@
     * [Transhumanism](https://thefreedomarticles.com/category/conspiracy/transhumanism/)
     * [9/11 Inside Job](https://thefreedomarticles.com/category/conspiracy/911-inside-job/)
     
+    [![Epstein Island Satanism](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![Epstein Island Satanism](https://thefreedomarticles.com/wp-content/uploads/2024/06/alandra-markman-1-183x96.png)](https://thefreedomarticles.com/epstein-island-satanism-sra-montauk-ssp-he-went-through-it-all/)
+    
+    [Epstein Island, Satanism, SRA, Montauk, SSP – He Went Through it All – Video #109](https://thefreedomarticles.com/epstein-island-satanism-sra-montauk-ssp-he-went-through-it-all/)
+    
+    [Makia Freeman](https://thefreedomarticles.com/author/makia/) June 12, 2024
+    
     [![One Health](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
     
     ![One Health](https://thefreedomarticles.com/wp-content/uploads/2024/05/One-Health-183x96.png)](https://thefreedomarticles.com/un-who-one-health-precursor-to-one-world-government/)
@@ -135,14 +143,6 @@
     [At the Top, They’re ALL on the SAME SIDE – Part 2 – Video #104](https://thefreedomarticles.com/at-the-top-theyre-all-on-the-same-side-part-2/)
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) April 26, 2024
-    
-    [![same side](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
-    
-    ![same side](https://thefreedomarticles.com/wp-content/uploads/2024/04/All-on-Same-Side-183x96.jpg)](https://thefreedomarticles.com/at-the-top-theyre-all-on-the-same-side-part-1/)
-    
-    [At the Top, They’re ALL on the SAME SIDE – Part 1 – Video #103](https://thefreedomarticles.com/at-the-top-theyre-all-on-the-same-side-part-1/)
-    
-    [Makia Freeman](https://thefreedomarticles.com/author/makia/) April 25, 2024
     
     [![climate change law](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
     
@@ -488,6 +488,14 @@
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) January 10, 2024
     
+    [![Epstein Island Satanism](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![Epstein Island Satanism](https://thefreedomarticles.com/wp-content/uploads/2024/06/alandra-markman-1-183x96.png)](https://thefreedomarticles.com/epstein-island-satanism-sra-montauk-ssp-he-went-through-it-all/)
+    
+    [Epstein Island, Satanism, SRA, Montauk, SSP – He Went Through it All – Video #109](https://thefreedomarticles.com/epstein-island-satanism-sra-montauk-ssp-he-went-through-it-all/)
+    
+    [Makia Freeman](https://thefreedomarticles.com/author/makia/) June 12, 2024
+    
     [![International Satanic Network](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
     
     ![International Satanic Network](https://thefreedomarticles.com/wp-content/uploads/2024/04/International-Satanic-Network-183x96.jpg)](https://thefreedomarticles.com/thoughts-on-my-book-international-satanic-network-exposed/)
@@ -511,14 +519,6 @@
     [Victim Confirms Satanic Ritual and Child Sacrifice Under Vatican – Video #71](https://thefreedomarticles.com/victim-confirms-satanic-ritual-child-sacrifice-under-vatican/)
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) February 13, 2024
-    
-    [![Dershowitz Epstein Rothschild](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
-    
-    ![Dershowitz Epstein Rothschild](https://thefreedomarticles.com/wp-content/uploads/2024/01/Dershowitz-Epstein-Rothschild-183x96.jpg)](https://thefreedomarticles.com/guess-who-introduced-dershowitz-to-epstein-rothschild/)
-    
-    [Guess Who Introduced Dershowitz to Epstein? – Video #59](https://thefreedomarticles.com/guess-who-introduced-dershowitz-to-epstein-rothschild/)
-    
-    [Makia Freeman](https://thefreedomarticles.com/author/makia/) January 16, 2024
     
     [![COVID trends feb 2022](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
     
@@ -552,6 +552,14 @@
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) March 16, 2021
     
+    [![Epstein Island Satanism](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![Epstein Island Satanism](https://thefreedomarticles.com/wp-content/uploads/2024/06/alandra-markman-1-183x96.png)](https://thefreedomarticles.com/epstein-island-satanism-sra-montauk-ssp-he-went-through-it-all/)
+    
+    [Epstein Island, Satanism, SRA, Montauk, SSP – He Went Through it All – Video #109](https://thefreedomarticles.com/epstein-island-satanism-sra-montauk-ssp-he-went-through-it-all/)
+    
+    [Makia Freeman](https://thefreedomarticles.com/author/makia/) June 12, 2024
+    
     [![International Satanic Network](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
     
     ![International Satanic Network](https://thefreedomarticles.com/wp-content/uploads/2024/04/International-Satanic-Network-183x96.jpg)](https://thefreedomarticles.com/thoughts-on-my-book-international-satanic-network-exposed/)
@@ -575,14 +583,6 @@
     [Victim Confirms Satanic Ritual and Child Sacrifice Under Vatican – Video #71](https://thefreedomarticles.com/victim-confirms-satanic-ritual-child-sacrifice-under-vatican/)
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) February 13, 2024
-    
-    [![Epstein Eugenics Transhumanism Satanism Shapeshifting](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
-    
-    ![Epstein Eugenics Transhumanism Satanism Shapeshifting](https://thefreedomarticles.com/wp-content/uploads/2024/01/Epstein-Eugenics-Transhumanism-Satanism-Shapeshifting-183x96.jpg)](https://thefreedomarticles.com/7-key-points-consider-epstein-eugenics-transhumanism-satanism/)
-    
-    [7 Key Points to Consider re: the Epstein Saga – Video #53](https://thefreedomarticles.com/7-key-points-consider-epstein-eugenics-transhumanism-satanism/)
-    
-    [Makia Freeman](https://thefreedomarticles.com/author/makia/) January 6, 2024
     
     [![god of freemasonry demiurge satan lucifer](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2090%2096'%3E%3C/svg%3E)
     
@@ -1767,6 +1767,14 @@
     * [Whistleblowers & Activists](https://thefreedomarticles.com/category/solutions/whistleblowers-truth-activists/)
     * [Sovereignty](https://thefreedomarticles.com/category/solutions/sovereignty/)
     
+    [![Epstein Island Satanism](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![Epstein Island Satanism](https://thefreedomarticles.com/wp-content/uploads/2024/06/alandra-markman-1-183x96.png)](https://thefreedomarticles.com/epstein-island-satanism-sra-montauk-ssp-he-went-through-it-all/)
+    
+    [Epstein Island, Satanism, SRA, Montauk, SSP – He Went Through it All – Video #109](https://thefreedomarticles.com/epstein-island-satanism-sra-montauk-ssp-he-went-through-it-all/)
+    
+    [Makia Freeman](https://thefreedomarticles.com/author/makia/) June 12, 2024
+    
     [![enlightened activism](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
     
     ![enlightened activism](https://thefreedomarticles.com/wp-content/uploads/2024/05/Enlightened-Activism-183x96.jpg)](https://thefreedomarticles.com/spiritual-warriors-enlightened-activism/)
@@ -1790,14 +1798,6 @@
     [Thoughts on My Book “The International Satanic Network Exposed” – Video #97](https://thefreedomarticles.com/thoughts-on-my-book-international-satanic-network-exposed/)
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) April 12, 2024
-    
-    [![teal swan satanism](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
-    
-    ![teal swan satanism](https://thefreedomarticles.com/wp-content/uploads/2024/04/teal-swan-2-183x96.jpg)](https://thefreedomarticles.com/satanism-is-everywhere-teal-swan-also-an-sra-victim/)
-    
-    [Satanism is Everywhere: Teal Swan Also an SRA Victim – Video #93](https://thefreedomarticles.com/satanism-is-everywhere-teal-swan-also-an-sra-victim/)
-    
-    [Makia Freeman](https://thefreedomarticles.com/author/makia/) April 1, 2024
     
     [![real revolution](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
     
@@ -1863,6 +1863,14 @@
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) June 25, 2013
     
+    [![Epstein Island Satanism](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![Epstein Island Satanism](https://thefreedomarticles.com/wp-content/uploads/2024/06/alandra-markman-1-183x96.png)](https://thefreedomarticles.com/epstein-island-satanism-sra-montauk-ssp-he-went-through-it-all/)
+    
+    [Epstein Island, Satanism, SRA, Montauk, SSP – He Went Through it All – Video #109](https://thefreedomarticles.com/epstein-island-satanism-sra-montauk-ssp-he-went-through-it-all/)
+    
+    [Makia Freeman](https://thefreedomarticles.com/author/makia/) June 12, 2024
+    
     [![underwater UFOs](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
     
     ![underwater UFOs](https://thefreedomarticles.com/wp-content/uploads/2024/04/underwater-UFOs-183x96.jpg)](https://thefreedomarticles.com/underwater-ufos-tucker-carlson-bill-cooper/)
@@ -1886,14 +1894,6 @@
     [Satanism is Everywhere: Teal Swan Also an SRA Victim – Video #93](https://thefreedomarticles.com/satanism-is-everywhere-teal-swan-also-an-sra-victim/)
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) April 1, 2024
-    
-    [![Musk vs Icke](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
-    
-    ![Musk vs Icke](https://thefreedomarticles.com/wp-content/uploads/2024/02/Elon-Musk-183x96.jpg)](https://thefreedomarticles.com/elon-musk-goes-head-to-head-with-david-icke/)
-    
-    [Elon Musk Goes Head-to-Head with David Icke – Video #74](https://thefreedomarticles.com/elon-musk-goes-head-to-head-with-david-icke/)
-    
-    [Makia Freeman](https://thefreedomarticles.com/author/makia/) February 19, 2024
     
     [![mentally sovereign](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
     
@@ -1936,37 +1936,13 @@
     * [Nature of Reality](https://thefreedomarticles.com/category/mysteries/nature-of-reality/)
     * [Interspecies Communication](https://thefreedomarticles.com/category/mysteries/interspecies-communication/)
     
-    [![underwater UFOs](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    [![Epstein Island Satanism](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
     
-    ![underwater UFOs](https://thefreedomarticles.com/wp-content/uploads/2024/04/underwater-UFOs-183x96.jpg)](https://thefreedomarticles.com/underwater-ufos-tucker-carlson-bill-cooper/)
+    ![Epstein Island Satanism](https://thefreedomarticles.com/wp-content/uploads/2024/06/alandra-markman-1-183x96.png)](https://thefreedomarticles.com/epstein-island-satanism-sra-montauk-ssp-he-went-through-it-all/)
     
-    [Underwater UFOs, Tucker Carlson & Bill Cooper – Video #102](https://thefreedomarticles.com/underwater-ufos-tucker-carlson-bill-cooper/)
+    [Epstein Island, Satanism, SRA, Montauk, SSP – He Went Through it All – Video #109](https://thefreedomarticles.com/epstein-island-satanism-sra-montauk-ssp-he-went-through-it-all/)
     
-    [Makia Freeman](https://thefreedomarticles.com/author/makia/) April 23, 2024
-    
-    [![overcome archons](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
-    
-    ![overcome archons](https://thefreedomarticles.com/wp-content/uploads/2024/04/overcome-archons-183x96.jpg)](https://thefreedomarticles.com/how-to-overcome-archons-psychic-predators-part-2/)
-    
-    [How to Overcome the Archons (Psychic Predators) – Part 2 – Video #101](https://thefreedomarticles.com/how-to-overcome-archons-psychic-predators-part-2/)
-    
-    [Makia Freeman](https://thefreedomarticles.com/author/makia/) April 21, 2024
-    
-    [![overcome archons](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
-    
-    ![overcome archons](https://thefreedomarticles.com/wp-content/uploads/2024/04/overcome-archons-183x96.jpg)](https://thefreedomarticles.com/how-to-overcome-archons-psychic-predators-part-1/)
-    
-    [How to Overcome the Archons (Psychic Predators) – Part 1 – Video #100](https://thefreedomarticles.com/how-to-overcome-archons-psychic-predators-part-1/)
-    
-    [Makia Freeman](https://thefreedomarticles.com/author/makia/) April 20, 2024
-    
-    [![COVID vax nanotech](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
-    
-    ![COVID vax nanotech](https://thefreedomarticles.com/wp-content/uploads/2024/03/COVID-vax-nanotech-183x96.png)](https://thefreedomarticles.com/identical-nanotech-in-covid-vax-as-in-alien-implants/)
-    
-    [Identical Nanotech in COVID Vax as in Alien Implants – Video #78](https://thefreedomarticles.com/identical-nanotech-in-covid-vax-as-in-alien-implants/)
-    
-    [Makia Freeman](https://thefreedomarticles.com/author/makia/) March 1, 2024
+    [Makia Freeman](https://thefreedomarticles.com/author/makia/) June 12, 2024
     
     [![underwater UFOs](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
     
@@ -1992,13 +1968,45 @@
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) April 20, 2024
     
-    [![COVID vax nanotech](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    [![Epstein Island Satanism](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
     
-    ![COVID vax nanotech](https://thefreedomarticles.com/wp-content/uploads/2024/03/COVID-vax-nanotech-183x96.png)](https://thefreedomarticles.com/identical-nanotech-in-covid-vax-as-in-alien-implants/)
+    ![Epstein Island Satanism](https://thefreedomarticles.com/wp-content/uploads/2024/06/alandra-markman-1-183x96.png)](https://thefreedomarticles.com/epstein-island-satanism-sra-montauk-ssp-he-went-through-it-all/)
     
-    [Identical Nanotech in COVID Vax as in Alien Implants – Video #78](https://thefreedomarticles.com/identical-nanotech-in-covid-vax-as-in-alien-implants/)
+    [Epstein Island, Satanism, SRA, Montauk, SSP – He Went Through it All – Video #109](https://thefreedomarticles.com/epstein-island-satanism-sra-montauk-ssp-he-went-through-it-all/)
     
-    [Makia Freeman](https://thefreedomarticles.com/author/makia/) March 1, 2024
+    [Makia Freeman](https://thefreedomarticles.com/author/makia/) June 12, 2024
+    
+    [![underwater UFOs](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![underwater UFOs](https://thefreedomarticles.com/wp-content/uploads/2024/04/underwater-UFOs-183x96.jpg)](https://thefreedomarticles.com/underwater-ufos-tucker-carlson-bill-cooper/)
+    
+    [Underwater UFOs, Tucker Carlson & Bill Cooper – Video #102](https://thefreedomarticles.com/underwater-ufos-tucker-carlson-bill-cooper/)
+    
+    [Makia Freeman](https://thefreedomarticles.com/author/makia/) April 23, 2024
+    
+    [![overcome archons](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![overcome archons](https://thefreedomarticles.com/wp-content/uploads/2024/04/overcome-archons-183x96.jpg)](https://thefreedomarticles.com/how-to-overcome-archons-psychic-predators-part-2/)
+    
+    [How to Overcome the Archons (Psychic Predators) – Part 2 – Video #101](https://thefreedomarticles.com/how-to-overcome-archons-psychic-predators-part-2/)
+    
+    [Makia Freeman](https://thefreedomarticles.com/author/makia/) April 21, 2024
+    
+    [![overcome archons](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![overcome archons](https://thefreedomarticles.com/wp-content/uploads/2024/04/overcome-archons-183x96.jpg)](https://thefreedomarticles.com/how-to-overcome-archons-psychic-predators-part-1/)
+    
+    [How to Overcome the Archons (Psychic Predators) – Part 1 – Video #100](https://thefreedomarticles.com/how-to-overcome-archons-psychic-predators-part-1/)
+    
+    [Makia Freeman](https://thefreedomarticles.com/author/makia/) April 20, 2024
+    
+    [![Epstein Island Satanism](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![Epstein Island Satanism](https://thefreedomarticles.com/wp-content/uploads/2024/06/alandra-markman-1-183x96.png)](https://thefreedomarticles.com/epstein-island-satanism-sra-montauk-ssp-he-went-through-it-all/)
+    
+    [Epstein Island, Satanism, SRA, Montauk, SSP – He Went Through it All – Video #109](https://thefreedomarticles.com/epstein-island-satanism-sra-montauk-ssp-he-went-through-it-all/)
+    
+    [Makia Freeman](https://thefreedomarticles.com/author/makia/) June 12, 2024
     
     [![SSP experiencers](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20144%2096'%3E%3C/svg%3E)
     
@@ -2023,14 +2031,6 @@
     [20 and Back: 2 More Whistleblowers Divulge Involvement in Secret Space Program](https://thefreedomarticles.com/20-and-back-secret-space-program/)
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) November 27, 2017
-    
-    [![nazis won the war](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20144%2096'%3E%3C/svg%3E)
-    
-    ![nazis won the war](https://thefreedomarticles.com/wp-content/uploads/2017/11/nazis-won-the-war.jpg)](https://thefreedomarticles.com/nazis-won-the-war-really/)
-    
-    [Why, Really, the Nazis Won the War](https://thefreedomarticles.com/nazis-won-the-war-really/)
-    
-    [Makia Freeman](https://thefreedomarticles.com/author/makia/) November 6, 2017
     
     [![Vatican child sacrifice](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
     
@@ -2110,13 +2110,13 @@
 
 Breaking News
 
+[Epstein Island, Satanism, SRA, Montauk, SSP – He Went Through it All – Video #109](https://thefreedomarticles.com/epstein-island-satanism-sra-montauk-ssp-he-went-through-it-all/)
+
 [UN/WHO One Health: Precursor to One World Government – Video #108](https://thefreedomarticles.com/un-who-one-health-precursor-to-one-world-government/)
 
 [Spiritual Warriors, Enlightened Activism – Video #107](https://thefreedomarticles.com/spiritual-warriors-enlightened-activism/)
 
 [Sabbatean Cult of Zion Tightens its Noose on America – Video #106](https://thefreedomarticles.com/sabbatean-cult-of-zion-tightens-noose-on-america/)
-
-[Beware the 7 Requirements of Technocracy – Video #105](https://thefreedomarticles.com/beware-the-7-requirements-of-technocracy/)
 
 ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2030%2030'%3E%3C/svg%3E)
 
@@ -2327,7 +2327,7 @@ Last updated on July 10, 2019
 
 ##### Tag Cloud
 
-[cultural Marxism](https://thefreedomarticles.com/tag/cultural-marxism/) [fake authority](https://thefreedomarticles.com/tag/fake-authority/) [vaccine fraud](https://thefreedomarticles.com/tag/vaccine-fraud/) [Shadow Government](https://thefreedomarticles.com/tag/shadow-government/) [natural cancer cures](https://thefreedomarticles.com/tag/natural-cancer-cures/) [question everything](https://thefreedomarticles.com/tag/question-everything/) [petrodollar](https://thefreedomarticles.com/tag/petrodollar/) [predictive programming](https://thefreedomarticles.com/tag/predictive-programming/) [Russia](https://thefreedomarticles.com/tag/russia/) [Bilderberg Group](https://thefreedomarticles.com/tag/bilderberg-group/) [transhumanism](https://thefreedomarticles.com/tag/transhumanism/) [ET whistleblower](https://thefreedomarticles.com/tag/et-whistleblower/) [cannabis oil](https://thefreedomarticles.com/tag/cannabis-oil/) [God of Freemasonry](https://thefreedomarticles.com/tag/god-of-freemasonry/) [global carbon tax](https://thefreedomarticles.com/tag/global-carbon-tax/) [ex-Intelligence agents](https://thefreedomarticles.com/tag/ex-intelligence-agents/) [Wolfowitz Doctrine](https://thefreedomarticles.com/tag/wolfowitz-doctrine/) [jihad](https://thefreedomarticles.com/tag/jihad/) [MKUltra](https://thefreedomarticles.com/tag/mkultra/) [centralization of power](https://thefreedomarticles.com/tag/centralization-of-power/) [heavy metal detox](https://thefreedomarticles.com/tag/heavy-metal-detox/) [sex slave](https://thefreedomarticles.com/tag/sex-slave/) [US-UK-Israeli axis](https://thefreedomarticles.com/tag/us-uk-israeli-axis/) [islamophobia](https://thefreedomarticles.com/tag/islamophobia/) [PNAC](https://thefreedomarticles.com/tag/pnac/) [everything is fake](https://thefreedomarticles.com/tag/everything-is-fake/) [EMF](https://thefreedomarticles.com/tag/emf/) [black military operations](https://thefreedomarticles.com/tag/black-military-operations/) [microbiome](https://thefreedomarticles.com/tag/microbiome/) [alien agenda](https://thefreedomarticles.com/tag/alien-agenda/) [Sesame Credit](https://thefreedomarticles.com/tag/sesame-credit/) [IRS](https://thefreedomarticles.com/tag/irs/) [One World Religion](https://thefreedomarticles.com/tag/one-world-religion/) [child trafficking](https://thefreedomarticles.com/tag/child-trafficking/) [pivot to Asia](https://thefreedomarticles.com/tag/pivot-to-asia/) [carcinogenic](https://thefreedomarticles.com/tag/carcinogenic/) [consent of the governed](https://thefreedomarticles.com/tag/consent-of-the-governed/) [MJ-12](https://thefreedomarticles.com/tag/mj-12/) [Rockefeller](https://thefreedomarticles.com/tag/rockefeller/) [NSA](https://thefreedomarticles.com/tag/nsa/) [western medicine](https://thefreedomarticles.com/tag/western-medicine/) [California wildfires](https://thefreedomarticles.com/tag/california-wildfires/) [post-truth world](https://thefreedomarticles.com/tag/post-truth-world/) [Illuminati](https://thefreedomarticles.com/tag/illuminati/) [omega 6:3 ratio](https://thefreedomarticles.com/tag/omega-63-ratio/) [Rothschild](https://thefreedomarticles.com/tag/rothschild/) [mass shootings](https://thefreedomarticles.com/tag/mass-shootings/) [catholic church](https://thefreedomarticles.com/tag/catholic-church/) [Russophobia](https://thefreedomarticles.com/tag/russophobia/) [cancer cure](https://thefreedomarticles.com/tag/cancer-cure/) [JFK](https://thefreedomarticles.com/tag/jfk/) [right to travel](https://thefreedomarticles.com/tag/right-to-travel/) [Mossad](https://thefreedomarticles.com/tag/mossad/) [sunni vs shia](https://thefreedomarticles.com/tag/sunni-vs-shia/) [bioweapons](https://thefreedomarticles.com/tag/bioweapons/) [Mind Control](https://thefreedomarticles.com/tag/mind-control/) [QAnon hoax](https://thefreedomarticles.com/tag/qanon-hoax/) [cognitive dissonance](https://thefreedomarticles.com/tag/cognitive-dissonance/) [R2P](https://thefreedomarticles.com/tag/r2p/) [Google](https://thefreedomarticles.com/tag/google/) [CIA](https://thefreedomarticles.com/tag/cia/) [tax exempt foundation](https://thefreedomarticles.com/tag/tax-exempt-foundation/) [zionism](https://thefreedomarticles.com/tag/zionism-2/) [Satanism](https://thefreedomarticles.com/tag/satanism/) [9/11](https://thefreedomarticles.com/tag/911/) [HAARP](https://thefreedomarticles.com/tag/haarp/) [Facebook](https://thefreedomarticles.com/tag/facebook/) [Green New Deal](https://thefreedomarticles.com/tag/green-new-deal/) [conspiracy fact](https://thefreedomarticles.com/tag/conspiracy-fact/) [divide and rule](https://thefreedomarticles.com/tag/divide-and-rule/) [psyops](https://thefreedomarticles.com/tag/psyops/) [Iran](https://thefreedomarticles.com/tag/iran/) [NWO](https://thefreedomarticles.com/tag/nwo/) [DNA repair](https://thefreedomarticles.com/tag/dna-repair/) [radical Islamic terrorism](https://thefreedomarticles.com/tag/radical-islamic-terrorism/) [doublespeak](https://thefreedomarticles.com/tag/doublespeak/) [DUMB](https://thefreedomarticles.com/tag/dumb/) [censorship purge](https://thefreedomarticles.com/tag/censorship-purge/) [V2K](https://thefreedomarticles.com/tag/v2k/) [depopulation](https://thefreedomarticles.com/tag/depopulation/) [Unit 8200](https://thefreedomarticles.com/tag/unit-8200/) [vaccine-autism link](https://thefreedomarticles.com/tag/vaccine-autism-link/) [smart grid](https://thefreedomarticles.com/tag/smart-grid/) [fake war on terror](https://thefreedomarticles.com/tag/fake-war-on-terror/) [islam](https://thefreedomarticles.com/tag/islam/) [whistleblowers](https://thefreedomarticles.com/tag/whistleblowers/) [UFOs](https://thefreedomarticles.com/tag/ufos/) [Putin](https://thefreedomarticles.com/tag/putin/) [fake news](https://thefreedomarticles.com/tag/fake-news/) [common law jurisdiction](https://thefreedomarticles.com/tag/common-law-jurisdiction/) [gun control agenda](https://thefreedomarticles.com/tag/gun-control-agenda/) [IoT](https://thefreedomarticles.com/tag/iot/) [unalienable rights](https://thefreedomarticles.com/tag/unalienable-rights/) [US interference](https://thefreedomarticles.com/tag/us-interference/) [WW3](https://thefreedomarticles.com/tag/ww3/) [Deep State](https://thefreedomarticles.com/tag/deep-state/) [ISIS](https://thefreedomarticles.com/tag/isis/) [micronutrients](https://thefreedomarticles.com/tag/micronutrients/) [oxidative stress](https://thefreedomarticles.com/tag/oxidative-stress/) [Nazi Antarctica](https://thefreedomarticles.com/tag/nazi-antarctica/) [anti-aging](https://thefreedomarticles.com/tag/anti-aging/) [synthetic agenda](https://thefreedomarticles.com/tag/synthetic-agenda/) [glyphosate](https://thefreedomarticles.com/tag/glyphosate/) [weather control](https://thefreedomarticles.com/tag/weather-control/) [black magic](https://thefreedomarticles.com/tag/black-magic/) [hijacked environmental movement](https://thefreedomarticles.com/tag/hijacked-environmental-movement/) [fluoride](https://thefreedomarticles.com/tag/fluoride/) [Bill Clinton](https://thefreedomarticles.com/tag/bill-clinton/) [SSP](https://thefreedomarticles.com/tag/ssp/) [chronic disease](https://thefreedomarticles.com/tag/chronic-disease/) [human habitat](https://thefreedomarticles.com/tag/human-habitat/) [manmade global warming hoax](https://thefreedomarticles.com/tag/manmade-global-warming-hoax-2/) [false left-right paradigm](https://thefreedomarticles.com/tag/false-left-right-paradigm/) [pedophilia](https://thefreedomarticles.com/tag/pedophilia/) [propaganda](https://thefreedomarticles.com/tag/propaganda/) [Social Engineering](https://thefreedomarticles.com/tag/social-engineering/) [Selfish Ledger](https://thefreedomarticles.com/tag/selfish-ledger/) [Archon](https://thefreedomarticles.com/tag/archon/) [political correctness](https://thefreedomarticles.com/tag/political-correctness/) [israeli nuclear program](https://thefreedomarticles.com/tag/israeli-nuclear-program/) [chemtrails](https://thefreedomarticles.com/tag/chemtrails-2/) [self-aware AI](https://thefreedomarticles.com/tag/self-aware-ai/) [5G](https://thefreedomarticles.com/tag/5g/) [Council on Foreign Relations](https://thefreedomarticles.com/tag/council-on-foreign-relations/) [NGOs](https://thefreedomarticles.com/tag/ngos/) [false flag formula](https://thefreedomarticles.com/tag/false-flag-formula/) [political authority](https://thefreedomarticles.com/tag/political-authority/) [Sandy Hook](https://thefreedomarticles.com/tag/sandy-hook/) [israel](https://thefreedomarticles.com/tag/israel/) [crisis actors](https://thefreedomarticles.com/tag/crisis-actors/) [iodine](https://thefreedomarticles.com/tag/iodine/) [Bush crime family](https://thefreedomarticles.com/tag/bush-crime-family/) [North Korea](https://thefreedomarticles.com/tag/north-korea/) [false dichotomy](https://thefreedomarticles.com/tag/false-dichotomy/) [Syria](https://thefreedomarticles.com/tag/syria/)
+[Green New Deal](https://thefreedomarticles.com/tag/green-new-deal/) [islamophobia](https://thefreedomarticles.com/tag/islamophobia/) [Unit 8200](https://thefreedomarticles.com/tag/unit-8200/) [centralization of power](https://thefreedomarticles.com/tag/centralization-of-power/) [Putin](https://thefreedomarticles.com/tag/putin/) [crisis actors](https://thefreedomarticles.com/tag/crisis-actors/) [vaccine-autism link](https://thefreedomarticles.com/tag/vaccine-autism-link/) [transhumanism](https://thefreedomarticles.com/tag/transhumanism/) [One World Religion](https://thefreedomarticles.com/tag/one-world-religion/) [smart grid](https://thefreedomarticles.com/tag/smart-grid/) [self-aware AI](https://thefreedomarticles.com/tag/self-aware-ai/) [false flag formula](https://thefreedomarticles.com/tag/false-flag-formula/) [Illuminati](https://thefreedomarticles.com/tag/illuminati/) [black military operations](https://thefreedomarticles.com/tag/black-military-operations/) [conspiracy fact](https://thefreedomarticles.com/tag/conspiracy-fact/) [predictive programming](https://thefreedomarticles.com/tag/predictive-programming/) [North Korea](https://thefreedomarticles.com/tag/north-korea/) [omega 6:3 ratio](https://thefreedomarticles.com/tag/omega-63-ratio/) [question everything](https://thefreedomarticles.com/tag/question-everything/) [microbiome](https://thefreedomarticles.com/tag/microbiome/) [God of Freemasonry](https://thefreedomarticles.com/tag/god-of-freemasonry/) [fluoride](https://thefreedomarticles.com/tag/fluoride/) [glyphosate](https://thefreedomarticles.com/tag/glyphosate/) [Mossad](https://thefreedomarticles.com/tag/mossad/) [Bush crime family](https://thefreedomarticles.com/tag/bush-crime-family/) [fake authority](https://thefreedomarticles.com/tag/fake-authority/) [anti-aging](https://thefreedomarticles.com/tag/anti-aging/) [divide and rule](https://thefreedomarticles.com/tag/divide-and-rule/) [Archon](https://thefreedomarticles.com/tag/archon/) [Sandy Hook](https://thefreedomarticles.com/tag/sandy-hook/) [HAARP](https://thefreedomarticles.com/tag/haarp/) [UFOs](https://thefreedomarticles.com/tag/ufos/) [DUMB](https://thefreedomarticles.com/tag/dumb/) [Rockefeller](https://thefreedomarticles.com/tag/rockefeller/) [right to travel](https://thefreedomarticles.com/tag/right-to-travel/) [chemtrails](https://thefreedomarticles.com/tag/chemtrails-2/) [heavy metal detox](https://thefreedomarticles.com/tag/heavy-metal-detox/) [cultural Marxism](https://thefreedomarticles.com/tag/cultural-marxism/) [Nazi Antarctica](https://thefreedomarticles.com/tag/nazi-antarctica/) [Wolfowitz Doctrine](https://thefreedomarticles.com/tag/wolfowitz-doctrine/) [ET whistleblower](https://thefreedomarticles.com/tag/et-whistleblower/) [cannabis oil](https://thefreedomarticles.com/tag/cannabis-oil/) [ISIS](https://thefreedomarticles.com/tag/isis/) [catholic church](https://thefreedomarticles.com/tag/catholic-church/) [political correctness](https://thefreedomarticles.com/tag/political-correctness/) [weather control](https://thefreedomarticles.com/tag/weather-control/) [psyops](https://thefreedomarticles.com/tag/psyops/) [9/11](https://thefreedomarticles.com/tag/911/) [everything is fake](https://thefreedomarticles.com/tag/everything-is-fake/) [IRS](https://thefreedomarticles.com/tag/irs/) [NWO](https://thefreedomarticles.com/tag/nwo/) [cognitive dissonance](https://thefreedomarticles.com/tag/cognitive-dissonance/) [petrodollar](https://thefreedomarticles.com/tag/petrodollar/) [Facebook](https://thefreedomarticles.com/tag/facebook/) [SSP](https://thefreedomarticles.com/tag/ssp/) [US interference](https://thefreedomarticles.com/tag/us-interference/) [false dichotomy](https://thefreedomarticles.com/tag/false-dichotomy/) [doublespeak](https://thefreedomarticles.com/tag/doublespeak/) [oxidative stress](https://thefreedomarticles.com/tag/oxidative-stress/) [mass shootings](https://thefreedomarticles.com/tag/mass-shootings/) [Google](https://thefreedomarticles.com/tag/google/) [western medicine](https://thefreedomarticles.com/tag/western-medicine/) [Russophobia](https://thefreedomarticles.com/tag/russophobia/) [DNA repair](https://thefreedomarticles.com/tag/dna-repair/) [Deep State](https://thefreedomarticles.com/tag/deep-state/) [sunni vs shia](https://thefreedomarticles.com/tag/sunni-vs-shia/) [US-UK-Israeli axis](https://thefreedomarticles.com/tag/us-uk-israeli-axis/) [Social Engineering](https://thefreedomarticles.com/tag/social-engineering/) [Council on Foreign Relations](https://thefreedomarticles.com/tag/council-on-foreign-relations/) [censorship purge](https://thefreedomarticles.com/tag/censorship-purge/) [NGOs](https://thefreedomarticles.com/tag/ngos/) [Syria](https://thefreedomarticles.com/tag/syria/) [hijacked environmental movement](https://thefreedomarticles.com/tag/hijacked-environmental-movement/) [islam](https://thefreedomarticles.com/tag/islam/) [natural cancer cures](https://thefreedomarticles.com/tag/natural-cancer-cures/) [common law jurisdiction](https://thefreedomarticles.com/tag/common-law-jurisdiction/) [sex slave](https://thefreedomarticles.com/tag/sex-slave/) [vaccine fraud](https://thefreedomarticles.com/tag/vaccine-fraud/) [fake news](https://thefreedomarticles.com/tag/fake-news/) [Bill Clinton](https://thefreedomarticles.com/tag/bill-clinton/) [child trafficking](https://thefreedomarticles.com/tag/child-trafficking/) [Shadow Government](https://thefreedomarticles.com/tag/shadow-government/) [EMF](https://thefreedomarticles.com/tag/emf/) [propaganda](https://thefreedomarticles.com/tag/propaganda/) [carcinogenic](https://thefreedomarticles.com/tag/carcinogenic/) [whistleblowers](https://thefreedomarticles.com/tag/whistleblowers/) [Bilderberg Group](https://thefreedomarticles.com/tag/bilderberg-group/) [political authority](https://thefreedomarticles.com/tag/political-authority/) [alien agenda](https://thefreedomarticles.com/tag/alien-agenda/) [depopulation](https://thefreedomarticles.com/tag/depopulation/) [JFK](https://thefreedomarticles.com/tag/jfk/) [NSA](https://thefreedomarticles.com/tag/nsa/) [jihad](https://thefreedomarticles.com/tag/jihad/) [chronic disease](https://thefreedomarticles.com/tag/chronic-disease/) [false left-right paradigm](https://thefreedomarticles.com/tag/false-left-right-paradigm/) [gun control agenda](https://thefreedomarticles.com/tag/gun-control-agenda/) [micronutrients](https://thefreedomarticles.com/tag/micronutrients/) [Satanism](https://thefreedomarticles.com/tag/satanism/) [5G](https://thefreedomarticles.com/tag/5g/) [iodine](https://thefreedomarticles.com/tag/iodine/) [MKUltra](https://thefreedomarticles.com/tag/mkultra/) [manmade global warming hoax](https://thefreedomarticles.com/tag/manmade-global-warming-hoax-2/) [Mind Control](https://thefreedomarticles.com/tag/mind-control/) [israel](https://thefreedomarticles.com/tag/israel/) [Iran](https://thefreedomarticles.com/tag/iran/) [Selfish Ledger](https://thefreedomarticles.com/tag/selfish-ledger/) [WW3](https://thefreedomarticles.com/tag/ww3/) [radical Islamic terrorism](https://thefreedomarticles.com/tag/radical-islamic-terrorism/) [unalienable rights](https://thefreedomarticles.com/tag/unalienable-rights/) [consent of the governed](https://thefreedomarticles.com/tag/consent-of-the-governed/) [QAnon hoax](https://thefreedomarticles.com/tag/qanon-hoax/) [IoT](https://thefreedomarticles.com/tag/iot/) [israeli nuclear program](https://thefreedomarticles.com/tag/israeli-nuclear-program/) [black magic](https://thefreedomarticles.com/tag/black-magic/) [CIA](https://thefreedomarticles.com/tag/cia/) [MJ-12](https://thefreedomarticles.com/tag/mj-12/) [R2P](https://thefreedomarticles.com/tag/r2p/) [post-truth world](https://thefreedomarticles.com/tag/post-truth-world/) [Rothschild](https://thefreedomarticles.com/tag/rothschild/) [global carbon tax](https://thefreedomarticles.com/tag/global-carbon-tax/) [tax exempt foundation](https://thefreedomarticles.com/tag/tax-exempt-foundation/) [bioweapons](https://thefreedomarticles.com/tag/bioweapons/) [human habitat](https://thefreedomarticles.com/tag/human-habitat/) [ex-Intelligence agents](https://thefreedomarticles.com/tag/ex-intelligence-agents/) [cancer cure](https://thefreedomarticles.com/tag/cancer-cure/) [California wildfires](https://thefreedomarticles.com/tag/california-wildfires/) [zionism](https://thefreedomarticles.com/tag/zionism-2/) [PNAC](https://thefreedomarticles.com/tag/pnac/) [Russia](https://thefreedomarticles.com/tag/russia/) [V2K](https://thefreedomarticles.com/tag/v2k/) [pedophilia](https://thefreedomarticles.com/tag/pedophilia/) [synthetic agenda](https://thefreedomarticles.com/tag/synthetic-agenda/) [pivot to Asia](https://thefreedomarticles.com/tag/pivot-to-asia/) [Sesame Credit](https://thefreedomarticles.com/tag/sesame-credit/) [fake war on terror](https://thefreedomarticles.com/tag/fake-war-on-terror/)
 
 ##### Follow Us
 
@@ -2364,7 +2364,7 @@ Our research takes lots of time and energy. Just $1 a month funds investigative 
 
 [![web analytics](https://c.statcounter.com/12238001/0/7e594709/1/)](https://statcounter.com/ "web analytics")
 
-Saturday, June 8, 2024
+Wednesday, June 19, 2024
 
       Please leave this field empty.
 
