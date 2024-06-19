@@ -8,7 +8,7 @@ Accessibility: Enable blind mode
 
 [Puzzles](https://lichess.org/training)
 
-[Puzzles](https://lichess.org/training)[Puzzle Dashboard](https://lichess.org/training/dashboard/30)[Puzzle Streak](https://lichess.org/streak)[Puzzle Storm](https://lichess.org/storm)[Puzzle Racer](https://lichess.org/racer)
+[Puzzles](https://lichess.org/training)[Puzzle themes](https://lichess.org/training/themes)[Puzzle Dashboard](https://lichess.org/training/dashboard/30)[Puzzle Streak](https://lichess.org/streak)[Puzzle Storm](https://lichess.org/storm)[Puzzle Racer](https://lichess.org/racer)
 
 [Learn](https://lichess.org/learn)
 
@@ -32,7 +32,7 @@ Accessibility: Enable blind mode
 
 [Sign in](https://lichess.org/login?referrer=/privacy)
 
-[About lichess.org](https://lichess.org/about)[Lichess updates](https://lichess.org/feed)[FAQ](https://lichess.org/faq)[Contact](https://lichess.org/contact)[Terms of Service](https://lichess.org/terms-of-service)[Privacy](https://lichess.org/privacy)[Title verification](https://lichess.org/help/master)
+[About lichess.org](https://lichess.org/about)[Lichess updates](https://lichess.org/feed)[FAQ](https://lichess.org/faq)[Contact](https://lichess.org/contact)[Terms of Service](https://lichess.org/terms-of-service)[Privacy](https://lichess.org/privacy)[Title verification](https://lichess.org/verify-title)
 
 [Source Code](https://lichess.org/source)[Contribute](https://lichess.org/help/contribute)[Changelog](https://lichess.org/changelog)[Thank you!](https://lichess.org/thanks)
 
