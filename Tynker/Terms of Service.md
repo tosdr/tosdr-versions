@@ -278,6 +278,7 @@ Parents
 * [Featured Makers](https://www.tynker.com/blog/category/success-stories/featured-makers/)
 * [Plans & Pricing](https://www.tynker.com/parents/pricing/)
 * [Coding eBooks](https://www.tynker.com/ebooks/)
+* [Summer](https://www.tynker.com/summer/)
 
 Play
 ----
