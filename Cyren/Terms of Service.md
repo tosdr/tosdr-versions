@@ -74,9 +74,7 @@ Menu
 * Company
     
     Close Company Open Company
-* [Demo](https://data443.com/live-demo/)
-    
-    Close Demo Open Demo
+* [Demo](https://data443.com/live-demo/) Close Demo Open Demo
 * Products
     
     Close Products Open Products
@@ -89,9 +87,7 @@ Menu
 * Resources
     
     Close Resources Open Resources
-* [Investor Relations](https://data443.com/investor-relations)
-    
-    Close Investor Relations Open Investor Relations
+* [Investor Relations](https://data443.com/investor-relations) Close Investor Relations Open Investor Relations
 
 * [Why Data443?](https://data443.com/why-data443/)
 * [Leadership](https://data443.com/leadership/)
@@ -264,7 +260,7 @@ Close this search box.
 [Get Demo](https://www.cyren.com/get-demo/)
 
 Privacy Notice & Legal
-----------------------
+======================
 
 ![](https://data443.com/wp-content/uploads/2023/06/graphic3.png)
 
