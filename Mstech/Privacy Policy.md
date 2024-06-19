@@ -1,8 +1,8 @@
 [Skip to content](#content "Skip to content")
 
-[![MSTECH GLOBAL](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20263%2070'%3E%3C/svg%3E)
+[![MSTECH GLOBAL Header Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20180%2044'%3E%3C/svg%3E)
 
-![MSTECH GLOBAL](https://mstechglobal.com/wp-content/uploads/2021/12/HeaderFinal.png)](https://mstechglobal.com/)
+![MSTECH GLOBAL Header Logo](https://mstechglobal.com/wp-content/uploads/2024/05/HeaderLogo.png)](https://mstechglobal.com/)
 
 * [Products](#)
     * [MG Easy Desktop Organizer](https://mstechglobal.com/easy-desktop-organizer/)
@@ -29,80 +29,19 @@
     * [My Tickets](https://mstechglobal.com/my-account/my-tickets/)
 * [Register](#register)
 * [Log In](https://mstechglobal.com/wp-login.php)
-* [0 items0.00 $](https://mstechglobal.com/store/ "Start shopping")
 
 [](https://mstechglobal.com/)
 
 X
-
-* [Products](#)
-    * [MG Easy Desktop Organizer](https://mstechglobal.com/easy-desktop-organizer/)
-    * [MG Folder Icon](https://mstechglobal.com/mg-folder-icon/)
-    * [MG Image Resize](https://mstechglobal.com/mg-image-resize/)
-    * [MG Office Suite](https://mstechglobal.com/mg-office/)
-    * [MG PDF Split Merge](https://mstechglobal.com/mg-pdf-split-merge/)
-    * [MG QR Code Generator](https://mstechglobal.com/mg-qr-code-generator/)
-    * [MG Search in Contents](https://mstechglobal.com/search-in-contents/)
-* [Downloads](#)
-    * [Download Products](https://mstechglobal.com/download-products/)
-    * [Folder Icon](#)
-        * [Free Icon Packs](https://mstechglobal.com/free-icon-packs/)
-        * [Premium Icon Packs](https://mstechglobal.com/icon-packs/)
-        * [Folder Icon Mockups​](https://mstechglobal.com/folder-icon-mockups/)
-        * [Icon Merge Packs](https://mstechglobal.com/icon-merge-packs/)
-    * [Easy Desktop Organizer](#)
-        * [Premium Wallpapers](https://mstechglobal.com/premium-wallpapers/)
-        * [Folder Structure Download](https://mstechglobal.com/folder-structure-download/)
-    * [Office Templates](https://mstechglobal.com/office-templates/)
-* [Shop](https://mstechglobal.com/store/)
-* [Support](#)
-    * [New Ticket](https://mstechglobal.com/my-account/create-new-ticket/)
-    * [My Tickets](https://mstechglobal.com/my-account/my-tickets/)
-* [Register](#register)
-* [Log In](https://mstechglobal.com/wp-login.php)
-* [0 items0.00 $](https://mstechglobal.com/store/ "Start shopping")
-
-Menu
-
-* [Products](#)
-    * [MG Easy Desktop Organizer](https://mstechglobal.com/easy-desktop-organizer/)
-    * [MG Folder Icon](https://mstechglobal.com/mg-folder-icon/)
-    * [MG Image Resize](https://mstechglobal.com/mg-image-resize/)
-    * [MG Office Suite](https://mstechglobal.com/mg-office/)
-    * [MG PDF Split Merge](https://mstechglobal.com/mg-pdf-split-merge/)
-    * [MG QR Code Generator](https://mstechglobal.com/mg-qr-code-generator/)
-    * [MG Search in Contents](https://mstechglobal.com/search-in-contents/)
-* [Downloads](#)
-    * [Download Products](https://mstechglobal.com/download-products/)
-    * [Folder Icon](#)
-        * [Free Icon Packs](https://mstechglobal.com/free-icon-packs/)
-        * [Premium Icon Packs](https://mstechglobal.com/icon-packs/)
-        * [Folder Icon Mockups​](https://mstechglobal.com/folder-icon-mockups/)
-        * [Icon Merge Packs](https://mstechglobal.com/icon-merge-packs/)
-    * [Easy Desktop Organizer](#)
-        * [Premium Wallpapers](https://mstechglobal.com/premium-wallpapers/)
-        * [Folder Structure Download](https://mstechglobal.com/folder-structure-download/)
-    * [Office Templates](https://mstechglobal.com/office-templates/)
-* [Shop](https://mstechglobal.com/store/)
-* [Support](#)
-    * [New Ticket](https://mstechglobal.com/my-account/create-new-ticket/)
-    * [My Tickets](https://mstechglobal.com/my-account/my-tickets/)
-* [Register](#register)
-* [Log In](https://mstechglobal.com/wp-login.php)
-* [0 items0.00 $](https://mstechglobal.com/store/ "Start shopping")
 
 Experience Efficiency  
 With MSTECH Solutions And  
 Time-saving Tools!
 ======================================================================
 
-![MSTECH Products](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201304%20596'%3E%3C/svg%3E)
+![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20381'%3E%3C/svg%3E)
 
-![MSTECH Products](https://mstechglobal.com/wp-content/uploads/2024/02/HomeHeader.png)
-
-![MSTECH Products](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201004%201024'%3E%3C/svg%3E)
-
-![MSTECH Products](https://mstechglobal.com/wp-content/uploads/2024/02/MSTECH-Main-Page_Mobile_01-copy-1004x1024.png)
+![](https://mstechglobal.com/wp-content/uploads/2024/06/HomeHeader_Resized_0.jpg)
 
 Easy Computer Organizer
 -----------------------
@@ -306,22 +245,6 @@ Email \*
 
 ![](https://mstechglobal.com/wp-content/uploads/2021/12/positivessl_trust_seal_md_167x42.png)
 
-![Stripe](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20100'%3E%3C/svg%3E)
-
-![Stripe](https://mstechglobal.com/wp-content/uploads/2023/11/Stripe.png)
-
-![PayPal](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20100'%3E%3C/svg%3E)
-
-![PayPal](https://mstechglobal.com/wp-content/uploads/2023/11/Paypal.png)
-
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20100'%3E%3C/svg%3E)
-
-![](https://mstechglobal.com/wp-content/uploads/2023/11/Visa.png)
-
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20100'%3E%3C/svg%3E)
-
-![](https://mstechglobal.com/wp-content/uploads/2023/11/MasterCard.png)
-
 [![MSTECH GLOBAL](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20263%2070'%3E%3C/svg%3E)
 
 ![MSTECH GLOBAL](https://mstechglobal.com/wp-content/uploads/2021/12/Footer_Final.png)](https://mstechglobal.com/)
@@ -439,7 +362,17 @@ Or get Folder Icon Pro v7.0 for
 
 ×
 
-                                                                                                      
+0
+
+0
+
+Your Cart
+
+Your cart is empty[Return to Shop](https://mstechglobal.com/shop/)
+
+[Continue Shopping](#)
+
+                                                                                           
 
 Insert/edit link
 ================
