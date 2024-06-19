@@ -14,7 +14,7 @@
     * [SecureMyEmail Dashboard](https://www.securemyemail.com/account/dashboard)
     * [VPN Dashboard](https://www.personalvpn.com/my.php)
 
- [![personalVPN.com](https://www.personalvpn.com/wp-content/uploads/logo-vpn-2-2.png)](https://www.personalvpn.com/)
+[![personalVPN.com](https://s3.amazonaws.com/www.personalvpn.com/wp-content/uploads/vpn-logo%402x.png)](https://www.personalvpn.com/)
 
 [](javascript:void(0);)
 
