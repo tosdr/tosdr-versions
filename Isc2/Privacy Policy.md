@@ -240,6 +240,6 @@ All contents of this site constitute the property of ISC2, Inc. and may not be c
 
   
 
-[Sitemap](https://www.isc2.org/sitemap.xml)
+[Sitemap](https://www.isc2.org/sitemap.html)
 
 [![ISC2 Community Icon](/-/media/Project/ISC2/Main/Components/Social-Media/community-w.png?h=72&iar=0&w=72&rev=1e4d92dff4ab453aa2fc3285f05b4175&hash=1151E35DCE3B4E9312431105FA43D6FF)](https://community.isc2.org/)[![Facebook Icon](/-/media/Project/ISC2/Main/Components/Social-Media/facebook-w.png?h=72&iar=0&w=72&rev=b54ec2a1711447f1853a3c62e7cc0e13&hash=FC0801237F92D159D959BB5AA5E17AE2)](https://www.facebook.com/isc2fb)[![LinkedIn Icon](/-/media/Project/ISC2/Main/Components/Social-Media/linkedin-w.png?h=72&iar=0&w=72&rev=f6c742b4492d474999edbd791c32e427&hash=A16295A1249A8CFDA838D87BDA2680B4)](https://www.linkedin.com/company/isc2)[![X Icon](/-/media/Project/ISC2/Main/Components/Social-Media/twitter-w.png?h=72&iar=0&w=73&rev=01a132f22d8c4b328f9d30a14d3158d1&hash=8B418395E64E48A3960B556D7D14A18B)](https://twitter.com/ISC2)[![Youtube Icon](/-/media/Project/ISC2/Main/Components/Social-Media/youtube-w.png?h=72&iar=0&w=72&rev=959950e6557543839a3fd088f9336e46&hash=DA78895FA5CE1630271DB6A05BE1BE3A)](https://www.youtube.com/user/ISC2TV)
