@@ -5,7 +5,11 @@ Privacy Policy Agreement
 [![](https://store.akamai.steamstatic.com/public/images/languageflags/english.gif)](https://store.steampowered.com/privacy_agreement/english/) [![](https://store.akamai.steamstatic.com/public/images/languageflags/spanish.gif)](https://store.steampowered.com/privacy_agreement/spanish/) [![](https://store.akamai.steamstatic.com/public/images/languageflags/french.gif)](https://store.steampowered.com/privacy_agreement/french/) [![](https://store.akamai.steamstatic.com/public/images/languageflags/german.gif)](https://store.steampowered.com/privacy_agreement/german/) [![](https://store.akamai.steamstatic.com/public/images/languageflags/italian.gif)](https://store.steampowered.com/privacy_agreement/italian/) [![](https://store.akamai.steamstatic.com/public/images/languageflags/russian.gif)](https://store.steampowered.com/privacy_agreement/russian/) [![](https://store.akamai.steamstatic.com/public/images/languageflags/japanese.gif)](https://store.steampowered.com/privacy_agreement/japanese/) [![](https://store.akamai.steamstatic.com/public/images/languageflags/portuguese.gif)](https://store.steampowered.com/privacy_agreement/portuguese/) [![](https://store.akamai.steamstatic.com/public/images/languageflags/brazilian.gif)](https://store.steampowered.com/privacy_agreement/brazilian/)
 
   
-![Privacy Policy](https://store.akamai.steamstatic.com/public/images//title_privacy.png)  
+
+Privacy Policy
+==============
+
+  
 
 Valve respects the privacy of its online visitors and customers of its products and services and complies with applicable laws for the protection of your privacy, including, without limitation, the California Consumer Privacy Act ("CCPA"), the European Union General Data Protection Regulation ("GDPR") and the UK GDPR.  
   
