@@ -57,6 +57,7 @@ ShowMoreShow More
 * [ ] Sport
     
     * [View all Sport](https://www.theguardian.com/sport)
+    * [football/euro-2024](https://www.theguardian.com/football/euro-2024)
     * [Football](https://www.theguardian.com/football)
     * [Cricket](https://www.theguardian.com/sport/cricket)
     * [Rugby union](https://www.theguardian.com/sport/rugby-union)
