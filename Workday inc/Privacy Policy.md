@@ -556,7 +556,7 @@ Workday will rely on the Swiss-U.S. DPF as a legal basis to transfer personal in
 
 **APEC Cross-Border Privacy Rules System.**
 
-Workday’s privacy practices, described in this Privacy Statement, comply with the APEC Cross-Border Privacy Rules (CBPR) System. The APEC CBPR System provides a framework for organizations to ensure protection of personal information transferred among participating APEC economies. More information about the APEC framework can be found [here.](https://www.apec.org/sitefinity/status?ReturnUrl=https:%2F%2Fwww.apec.org%2FAbout-Us%2FAbout-APEC%2FFact-Sheets%2FWhat-is-the-Cross-Border-Privacy-Rules-System)
+Workday’s privacy practices, described in this Privacy Statement, comply with the APEC Cross-Border Privacy Rules (CBPR) System. The APEC CBPR System provides a framework for organizations to ensure protection of personal information transferred among participating APEC economies. More information about the APEC framework can be found [here.](https://cbprs.org/)
 
 Your privacy rights.
 
