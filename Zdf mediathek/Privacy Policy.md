@@ -113,7 +113,8 @@ Der Rundfunkdatenschutzbeauftragte
 Stephan Schwarze  
 Kantstraße 71-73  
 04275 Leipzig  
-kontakt@rundfunkdatenschutz.de
+[Beschwerdeformular der Aufsichtsbehörde](https://www.mdr.de/rundfunkdatenschutz/buerger-innen/beschwerden/index.html "Beschwerdeformular Datenschutz. Link öffnet in neuem Tab/Fenster.")  
+[www.rundfunkdatenschutz.de](https://www.mdr.de/rundfunkdatenschutz/index.html "Rundfunkdatenschutz.de. Link öffnet in neuem Tab/Fenster.")
 
 Verarbeitung personenbezogener Daten beim ZDF
 ---------------------------------------------
@@ -263,7 +264,7 @@ Footer mit Inhaltsangabe
 ### Mehr ZDF
 
 * [ZDFapps](https://www.zdf.de/service-und-hilfe/apps-und-mobile-angebote-des-zdf-100.html "Überall fernsehen")
-* [Smart TV](https://www.zdf.de/service-und-hilfe/smarttv-100.html "Die ZDFmediathek auf deinem TV-Gerät")
+* [Smart TV & HbbTV](https://www.zdf.de/service-und-hilfe/smarttv-100.html "Die ZDFmediathek auf deinem TV-Gerät")
 * [ZDFtext](https://www.zdftext.de/ "ZDFtext. Link öffnet in neuem Tab/Fenster.")
 * [Livestreams](https://www.zdf.de/live-tv "Live TV")
 * [Sendungen A-Z](https://www.zdf.de/sendungen-a-z "Sendungen A - Z")
@@ -499,14 +500,14 @@ Du wechselst in den Kinderbereich und bewegst dich mit deinem Kinderprofil weite
 
 Weiter zum Kinderbereich
 
-![](/static/0.106.2328/img/cmp/det.png)
+![](/static/0.109.2334/img/cmp/det.png)
 
 Datenschutzeinstellungen
 ------------------------
 
 An dieser Stelle würden wir dir gerne die Datenschutzeinstellungen anzeigen. Entweder hast du einen Ad-Blocker oder ähnliches in deinem Browser aktiviert, welcher dies verhindert, oder deine Internetverbindung ist derzeit gestört. Falls du die Datenschutzeinstellungen sehen und bearbeiten möchtest, prüfe, ob ein Ad-Blocker oder ähnliches in deinem Browser aktiv ist und schalte es aus. So lange werden die standardmäßigen Einstellungen bei der Nutzung der ZDFmediathek verwendet. Dies bedeutet, das die Kategorien "Erforderlich" und "Erforderliche Erfolgsmessung" zugelassen sind. Weitere Details erfährst du in unserer Datenschutzerklärung.
 
-![](/static/0.106.2328/img/cmp/det.png)
+![](/static/0.109.2334/img/cmp/det.png)
 
 Datenschutzeinstellungen
 ------------------------
