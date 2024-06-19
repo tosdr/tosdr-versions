@@ -269,3 +269,5 @@ Company
 * [Privacy](https://render.com/privacy)
 * [Security and Trust](https://render.com/trust)
 * © Render 2024
+
+</noscript><script src="/scripts/theme.js"></script></body></html>
