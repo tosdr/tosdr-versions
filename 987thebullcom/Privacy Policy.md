@@ -11,11 +11,11 @@
     * [Contact](https://www.987thebull.com/contact/)
     * [Wall Of Winners](https://www.987thebull.com/winners/)
 * [Concerts & Events](https://www.987thebull.com/events/)
+* [Positively Portland Stories](http://www.positivelyportlandstories.com/)
+* [Win](https://www.987thebull.com/contests/)
 * [Watch](https://www.987thebull.com/videos/)
     * [Bull Sessions](https://www.987thebull.com/category/bull-tv/pdx-live-studio/)
     * [Coors Light Cam](https://www.987thebull.com/category/bull-tv/coors-light-country-cam/)
-* [Win](https://www.987thebull.com/contests/)
-* [Positively Portland Stories](http://www.positivelyportlandstories.com/)
 * [We Need Influencers](https://music.musicdoodad.com/s3/c84aa2f30d04)
 * [PNC Live Studio RSVP](http://www.pnclivestudio.com/)
 * [Portland Marketplace](https://www.portlandmarketplace.com/)
@@ -51,12 +51,12 @@
     * [Contact](https://www.987thebull.com/contact/)
     * [Wall Of Winners](https://www.987thebull.com/winners/)
 * [Concerts & Events](https://www.987thebull.com/events/)
+* [Positively Portland Stories](http://www.positivelyportlandstories.com/)
+* [Win](https://www.987thebull.com/contests/)
 * [Watch](https://www.987thebull.com/videos/)
     
     * [Bull Sessions](https://www.987thebull.com/category/bull-tv/pdx-live-studio/)
     * [Coors Light Cam](https://www.987thebull.com/category/bull-tv/coors-light-country-cam/)
-* [Win](https://www.987thebull.com/contests/)
-* [Positively Portland Stories](http://www.positivelyportlandstories.com/)
 * [We Need Influencers](https://music.musicdoodad.com/s3/c84aa2f30d04)
 * [PNC Live Studio RSVP](http://www.pnclivestudio.com/)
 * [Portland Marketplace](https://www.portlandmarketplace.com/)
@@ -82,7 +82,7 @@ Privacy Policy
 
 * * *
 
-**Effective & Last Updated On: 06-13-2024**
+**Effective & Last Updated On: 06-18-2024**
 
 Alpha Media (“Alpha,” “we,” “us,” or “our”) is a diverse multimedia company sharing your favorite music, sports and news across a variety of platforms. In fulfilling this mission, we collect, use, and share certain information about you. We take your privacy seriously, and this Privacy Policy is meant to help you understand how and why we collect, use, and share your personal information. This Privacy Policy also describes certain choices and rights you may have.
 
@@ -327,37 +327,20 @@ The information we need to verify your request will depend on the nature and sco
 
 If we cannot verify your identity, we may deny your request in whole or in part. Under the VCDPA, you may appeal our decision with regard to your request. To do so, please send an email to [\[email protected\]](https://www.987thebull.com/cdn-cgi/l/email-protection), with the word “Appeal” in the subject line. 
 
-SMS PRIVACY POLICY
-==================
+**Section 5: Text Opt-In Information**
 
-Most Recent Update: 06-13-2024
-
-This Privacy Policy explains how Alpha Media LLC collects, uses and discloses personal information of its subscribers, prospective subscribers, or former subscribers to its SMS programs. We have adopted the following policies and procedures to safeguard the personal information about you in our possession.
-
-### Our Privacy Policy for Consumers That Opt-in to SMS Messages
-
-* Through the use of our SMS programs, we may collect personally identifiable information such as mobile numbers, names, locations, and any other personal information you may choose to provide to us.
-* Personally identifiable information may be used internally by Alpha Media LLC for the sole purpose of executing our SMS programs and will not be shared with any third party affiliates for any reason. Our treatment of all personally identifiable information is consistent with this privacy policy.
-* We do not sell or rent customer information obtained through SMS origination.
-* Our policy is to require all employees and companies providing services on our behalf to keep customer information confidential.
-* Our SMS privacy policy applies to potential subscribers as well as current and former subscribers.
-* You will only receive messages applicable to the campaign that you have opted-in for unless you have provided us with express consent to receive additional forms of communication from Alpha Media LLC
-* If you wish to be removed from receiving future communications, you can opt out by texting STOP.
-
-### Changes to This Privacy Policy
-
-Any changes we may make to our Privacy Policy will be posted on this page and/or communicated to you in other ways if required by law. Please check back frequently to see any updates or changes to our Privacy Policy. If you do not agree or consent to these updates or changes, do not continue to use the Platform.
+Mobile information will not be shared with third parties/affiliates for marketing/promotional purposes. All the above categories exclude text messaging originator opt-in data and consent; this information will not be shared with any third parties.
 
 Recently Played
 ---------------
 
 |     |
 | --- |
-| The Man He Sees In MeLuke Combs<br><br>5:35pm |
-| Damn Good Day To LeaveRiley Green<br><br>5:32pm |
-| CowgirlsMorgan Wallen Ft Ernest<br><br>5:29pm |
-| I Remember EverythingZach Bryan Ft Kacey Musgraves<br><br>5:25pm |
-| Your PlaceAshley Cooke<br><br>5:22pm |
+| ChevroletDustin Lynch Ft Jelly Roll<br><br>4:39pm |
+| Get AlongKenny Chesney<br><br>4:35pm |
+| Mind On YouGeorge Birge<br><br>4:32pm |
+| I Had Some HelpPost Malone Ft Morgan Wallen<br><br>4:29pm |
+| Dirt Road AnthemJason Aldean<br><br>4:25pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -366,21 +349,21 @@ Recently Played
 You Might Also Like
 -------------------
 
-![](https://s3.amazonaws.com/syndication.abcaudio.com/files/2024-06-06/M_2024CMAFestABC.jpg)
+![](https://s3.amazonaws.com/syndication.abcaudio.com/files/2024-06-13/Getty_ScottyMcCreeryTurqoiseTshirt.jpg)
 
-[Country News](https://www.987thebull.com/category/country/)[### Jordan Davis is "all gas, no brakes" and TR's "feeling very jacked" as CMA Fest 2024 gets underway](https://www.987thebull.com/jordan-davis-is-all-gas-no-brakes-and-trs-feeling-very-jacked-as-cma-fest-2024-gets-underway/)
-
-* * *
-
-![](https://s3.amazonaws.com/syndication.abcaudio.com/files/2024-06-05/M_LukeCombsCMAAwards2023backstageScottKirkland.jpg)
-
-[Country News](https://www.987thebull.com/category/country/)[### Luke Combs pens heartfelt note to sons, Tex + Beau](https://www.987thebull.com/luke-combs-pens-heartfelt-note-to-sons-tex-beau/)
+[Country News](https://www.987thebull.com/category/country/)[### Scotty McCreery's certain he doesn't want to be a judge on 'American Idol'](https://www.987thebull.com/scotty-mccreerys-certain-he-doesnt-want-to-be-a-judge-on-american-idol/)
 
 * * *
 
-![](https://s3.amazonaws.com/syndication.abcaudio.com/files/2024-06-05/M_LukeBryanCMAFestAbc.jpg)
+![](https://s3.amazonaws.com/syndication.abcaudio.com/files/2024-06-10/M_MarenMorrisWhatHappensLiveWithAndyCohenCharles%20SykesBravo.jpg)
 
-[Country News](https://www.987thebull.com/category/country/)[### Luke Bryan on his first time playing CMA Fest: "I remember just being as nervous as you could be"](https://www.987thebull.com/luke-bryan-on-his-first-time-playing-cma-fest-i-remember-just-being-as-nervous-as-you-could-be/)
+[Country News](https://www.987thebull.com/category/country/)[### Maren Morris comes out as bisexual in Pride Month post](https://www.987thebull.com/maren-morris-comes-out-as-bisexual-in-pride-month-post/)
+
+* * *
+
+![](https://s3.amazonaws.com/syndication.abcaudio.com/files/2024-06-10/M_LittleBigTownGreatestHitsCapitolRecordsNashville.jpg)
+
+[Country News](https://www.987thebull.com/category/country/)[### Little Big Town unveils track list for "carefully curated" 'Greatest Hits' album](https://www.987thebull.com/little-big-town-unveils-track-list-for-carefully-curated-greatest-hits-album/)
 
 * * *
 
@@ -524,9 +507,13 @@ State
 Featured Brands
 ---------------
 
-[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
+[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
 
-News Talk • Eastern
+Country • Western
+
+[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
+
+Sports • Midwest
 
 [![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
 
@@ -535,10 +522,6 @@ Top 40 • Pacific NW
 [![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
 
 Top 40 • Eastern
-
-[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
-
-Sports • Midwest
 
 [](https://www.alphamediausa.com/)
 
