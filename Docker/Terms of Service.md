@@ -14,11 +14,11 @@
         * [See our product roadmap](https://github.com/docker/roadmap)
     * MORE resources for developers
         
-        ### Docker Desktop v4.30
+        Docker Desktop v4.31
         
         Find out what’s new to Docker Desktop in the latest release
         
-        [Read more](https://www.docker.com/blog/docker-desktop-4-30/)
+        [Read more](https://www.docker.com/blog/docker-desktop-4-31/)
         
     
 * [Developers](#)
@@ -65,20 +65,25 @@
             ![icon](https://www.docker.com/wp-content/uploads/2024/05/icon-eye.svg)
             
             [Preview Program](https://www.docker.com/community/get-involved/developer-preview/)Help shape the future of Docker
-        * [Keep up with Docker](https://www.docker.com/newsletter-subscription/)
+        * ![icon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2024%2024'%3E%3C/svg%3E)
+            
+            ![icon](https://www.docker.com/wp-content/uploads/2024/06/icon-blue-users-01.svg)
+            
+            [Customer Stories](https://www.docker.com/customer-stories/)Get inspired with customer stories
+        * [Get the latest Docker news](https://www.docker.com/newsletter-subscription/)
     * MORE resources for developers
         
-        ### Case Study: Ataccama
+        2024 State Of Application Development Report
         
-        How Ataccama accelerated its AI journey with Docker
+        A deep-focus snapshot of the evolving software development world
         
-        [Read more](https://www.docker.com/resources/ataccama/)
+        [Read more](https://www.docker.com/resources/2024-state-of-application-development-report/)
         
-        ### Docker Racing
+        Case Study: CDS
         
-        Indulge your need for speed with Megennis Motor Sports + Docker
+        How CDS embraced cloud native development with Docker
         
-        [Read more](https://www.docker.com/megennis-motorsport/)
+        [Read more](https://www.docker.com/resources/cds/)
         
     
 * [Pricing](https://www.docker.com/pricing/)
@@ -95,7 +100,7 @@
         * [Partners](https://www.docker.com/partners/)Become a Docker partner
         * [Customer Success](https://www.docker.com/customer-success/)Learn how you can succeed with Docker
         * [Events](https://www.docker.com/events/)Attend live and virtual meet ups
-        * [Docker Store](https://docker.postal.store/) Gear up with exclusive SWAG
+        * [Docker Store](https://stores.kotisdesign.com/docker) Gear up with exclusive SWAG
         * [Careers](https://www.docker.com/careers/)Apply to join our team
         * [Contact Us](https://www.docker.com/company/contact/)We’d love to hear from you
     
@@ -124,11 +129,11 @@
         * [See our product roadmap](https://github.com/docker/roadmap)
     * MORE resources for developers
         
-        ### Docker Desktop v4.30
+        Docker Desktop v4.31
         
         Find out what’s new to Docker Desktop in the latest release
         
-        [Read more](https://www.docker.com/blog/docker-desktop-4-30/)
+        [Read more](https://www.docker.com/blog/docker-desktop-4-31/)
         
     
 * [Developers](#)
@@ -175,20 +180,25 @@
             ![icon](https://www.docker.com/wp-content/uploads/2024/05/icon-eye.svg)
             
             [Preview Program](https://www.docker.com/community/get-involved/developer-preview/)Help shape the future of Docker
-        * [Keep up with Docker](https://www.docker.com/newsletter-subscription/)
+        * ![icon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2024%2024'%3E%3C/svg%3E)
+            
+            ![icon](https://www.docker.com/wp-content/uploads/2024/06/icon-blue-users-01.svg)
+            
+            [Customer Stories](https://www.docker.com/customer-stories/)Get inspired with customer stories
+        * [Get the latest Docker news](https://www.docker.com/newsletter-subscription/)
     * MORE resources for developers
         
-        ### Case Study: Ataccama
+        2024 State Of Application Development Report
         
-        How Ataccama accelerated its AI journey with Docker
+        A deep-focus snapshot of the evolving software development world
         
-        [Read more](https://www.docker.com/resources/ataccama/)
+        [Read more](https://www.docker.com/resources/2024-state-of-application-development-report/)
         
-        ### Docker Racing
+        Case Study: CDS
         
-        Indulge your need for speed with Megennis Motor Sports + Docker
+        How CDS embraced cloud native development with Docker
         
-        [Read more](https://www.docker.com/megennis-motorsport/)
+        [Read more](https://www.docker.com/resources/cds/)
         
     
 * [Pricing](https://www.docker.com/pricing/)
@@ -205,7 +215,7 @@
         * [Partners](https://www.docker.com/partners/)Become a Docker partner
         * [Customer Success](https://www.docker.com/customer-success/)Learn how you can succeed with Docker
         * [Events](https://www.docker.com/events/)Attend live and virtual meet ups
-        * [Docker Store](https://docker.postal.store/) Gear up with exclusive SWAG
+        * [Docker Store](https://stores.kotisdesign.com/docker) Gear up with exclusive SWAG
         * [Careers](https://www.docker.com/careers/)Apply to join our team
         * [Contact Us](https://www.docker.com/company/contact/)We’d love to hear from you
     
