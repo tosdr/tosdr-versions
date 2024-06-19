@@ -1,6 +1,6 @@
 CONDITIONS GÉNÉRALES D'UTILISATION
 
-Mis à jour le 21 mai 2024
+Mis à jour le 11 juin 2024
 
 
 
@@ -88,9 +88,9 @@ site(s) internet(s) de Chance ou dès leur communication directe à l'Utilisateu
 
 lorsqu’il lui est demandé d’accepter les Conditions générales en cochant une case.
 
-
-
 MENTIONS LÉGALES
+
+
 
 En vertu des dispositions de l'article 6 de la loi n° 2004-575 du 21 juin 2004 pour la
 
@@ -155,12 +155,6 @@ réinvention, orientation, transformation, ou formation professionnelle d’êtr
 dans la définition du projet professionnel qui leur correspond et dans la définition d’un plan
 
 d’actions pour atteindre le projet professionnel identifié.
-
-
-
-Service Free Trial: programme gratuit qui peut être souscrit par un Utilisateur à titre d’essai,
-
-avant la souscription au programme payant.
 
 
 
