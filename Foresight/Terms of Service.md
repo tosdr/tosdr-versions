@@ -16,13 +16,8 @@ Popular products
 * [See all templates, courses, and services](https://foresight.is/products/)
 
 * [73k+ Downloads](https://foresight.is/users/)
-* [Updates 3](#)
-    
-    * [Changelog](https://foresight.is/changelog/)
-    * [Maven 100 Promotion](https://foresight.is/changelog/#2024-06-02-maven-100)
-    * [Anti-Dilution edits to Cap Table Tool](https://foresight.is/changelog/#2024-06-02-anti-dilution-edits)
-    * [Lightning Lesson on anti-dilution](https://foresight.is/changelog/#2024-05-28-lightning-lesson)
-    
+* [Blog](https://foresight.is/blog/)
+* [Changelog](https://foresight.is/changelog/)
 * [Docs](https://foresight.is/docs/)
 
 Login
@@ -51,7 +46,7 @@ Close
 
 [Templates](https://foresight.is/templates) [Courses](https://foresight.is/courses) [Services](https://foresight.is/services)
 
-[About](https://foresight.is/hello/) [73k+ Downloads](https://foresight.is/users/) [Blog](https://foresight.is/blog/) [Changelog 3](https://foresight.is/changelog/) [Documentation 0](https://foresight.is/docs/) [Help](https://foresight.is/help/) [Talent](https://foresight.is/talent/) [Contact](https://foresight.is/contact/) [Home](https://foresight.is/)
+[About](https://foresight.is/hello/) [73k+ Downloads](https://foresight.is/users/) [Blog](https://foresight.is/blog/) [Changelog](https://foresight.is/changelog/) [Documentation](https://foresight.is/docs/) [Help](https://foresight.is/help/) [Talent](https://foresight.is/talent/) [Contact](https://foresight.is/contact/) [Home](https://foresight.is/)
 
 [Legal](https://foresight.is/legal/)
 
