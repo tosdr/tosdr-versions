@@ -715,39 +715,39 @@ Powered By
 
 ### Other top stories on FutureLearn
 
+* [![Two office workers](https://cdn-wordpress-info.futurelearn.com/wp-content/uploads/Untitled-design-49-150x150.png)](https://www.futurelearn.com/info/blog/business-and-management-degree-guide)
+    
+    [A complete guide to business and management degrees](https://www.futurelearn.com/info/blog/business-and-management-degree-guide)
+    ---------------------------------------------------------------------------------------------------------------------------------
+    
+    Dive into the exciting and lucrative world of business by joining a business and management …
+    
+    Category: [Business and Management](https://www.futurelearn.com/info/businessandmanagement)
+    
+* [![Man working on laptop](https://cdn-wordpress-info.futurelearn.com/wp-content/uploads/Untitled-design-48-150x150.png)](https://www.futurelearn.com/info/blog/highest-paying-mba-jobs)
+    
+    [10 highest paying jobs with an MBA degree](https://www.futurelearn.com/info/blog/highest-paying-mba-jobs)
+    ----------------------------------------------------------------------------------------------------------
+    
+    Fast-track your career progression with an online MBA and discover the top 10 best paid …
+    
+    Category: [Business and Management](https://www.futurelearn.com/info/businessandmanagement), [Degrees](https://www.futurelearn.com/info/faq/degrees)
+    
+* [![Teacher and student](https://cdn-wordpress-info.futurelearn.com/wp-content/uploads/Untitled-design-40-150x150.png)](https://www.futurelearn.com/info/blog/teaching-degree-guide)
+    
+    [A complete guide to teaching degrees](https://www.futurelearn.com/info/blog/teaching-degree-guide)
+    ---------------------------------------------------------------------------------------------------
+    
+    Passionate about education? Learn about the different types of teaching degrees, how to apply, and …
+    
+    Category: [Teaching](https://www.futurelearn.com/info/educators/teaching)
+    
 * [![Two women in office](https://cdn-wordpress-info.futurelearn.com/wp-content/uploads/Untitled-design-31-150x150.png)](https://www.futurelearn.com/info/blog/hr-degree-guide)
     
     [A complete guide to HR management degrees](https://www.futurelearn.com/info/blog/hr-degree-guide)
     --------------------------------------------------------------------------------------------------
     
     Discover how a human resources degree could propel your career forward, and get tips on …
-    
-    Category: [Degrees](https://www.futurelearn.com/info/faq/degrees)
-    
-* [![Construction manager](https://cdn-wordpress-info.futurelearn.com/wp-content/uploads/Untitled-design-29-150x150.png)](https://www.futurelearn.com/info/blog/construction-management-degree-guide)
-    
-    [A complete guide to construction management degrees](https://www.futurelearn.com/info/blog/construction-management-degree-guide)
-    ---------------------------------------------------------------------------------------------------------------------------------
-    
-    Discover how a construction management degree could propel your career forward, and get tips on …
-    
-    Category: [Degrees](https://www.futurelearn.com/info/faq/degrees)
-    
-* [![Two women in a work office](https://cdn-wordpress-info.futurelearn.com/wp-content/uploads/Untitled-design-30-150x150.png)](https://www.futurelearn.com/info/blog/leadership-degree-guide)
-    
-    [A complete guide to leadership degrees](https://www.futurelearn.com/info/blog/leadership-degree-guide)
-    -------------------------------------------------------------------------------------------------------
-    
-    Get the lowdown on leadership degrees, including what you’ll study, how to apply, and what …
-    
-    Category: [Degrees](https://www.futurelearn.com/info/faq/degrees)
-    
-* [![Woman in a lab](https://cdn-wordpress-info.futurelearn.com/wp-content/uploads/Untitled-design-28-150x150.png)](https://www.futurelearn.com/info/blog/criminology-degree-guide)
-    
-    [A complete guide to criminology degrees](https://www.futurelearn.com/info/blog/criminology-degree-guide)
-    ---------------------------------------------------------------------------------------------------------
-    
-    Intrigued about the world of criminology? Learn everything you need to know about criminology degrees, …
     
     Category: [Degrees](https://www.futurelearn.com/info/faq/degrees)
     
