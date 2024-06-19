@@ -30,7 +30,7 @@ Menu
 * [For Students](https://www.snexplores.org/)
 * [Our Store](https://www.societyforscience.org/store/)
 
-SIGN IN [Donate](https://www.sciencenews.org/give)
+SIGN IN [Donate](https://www.sciencenews.org/give?key=9MDONBUT)
 
 [Science News
 ------------
@@ -87,23 +87,23 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
         * [Archaeology](https://www.sciencenews.org/topic/archaeology)
         * [Psychology](https://www.sciencenews.org/topic/psychology)
-    * * [Anthropology](https://www.sciencenews.org/topic/anthropology)
+    * * [Science & Society](https://www.sciencenews.org/topic/science-society)
             
-            ### [Fossil finds amplify Europe’s status as a hotbed of great ape evolution](https://www.sciencenews.org/article/fossil-europe-hotbed-great-ape-evolution)
+            ### [‘After 1177 B.C.’ describes how societies fared when the Bronze Age ended](https://www.sciencenews.org/article/1177-bc-bronze-age-societies-review)
             
-            By [Bruce Bower](https://www.sciencenews.org/author/bruce-bower "Posts by Bruce Bower")June 7, 2024
+            By [Bruce Bower](https://www.sciencenews.org/author/bruce-bower "Posts by Bruce Bower")10 hours ago
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
-            ### [Wildfire smoke may cause tens of thousands of premature deaths](https://www.sciencenews.org/article/wildfire-smoke-pollution-premature-death)
+            ### [AI could take medical imaging to the next level](https://www.sciencenews.org/article/ai-medical-imaging-artificial-intelligence) 
             
-            By [Aimee Cunningham](https://www.sciencenews.org/author/aimee-cunningham "Posts by Aimee Cunningham")June 7, 2024
+            By [Meghan Rosen](https://www.sciencenews.org/author/meghan-rosen "Posts by Meghan Rosen")June 17, 2024
             
-        * [Genetics](https://www.sciencenews.org/topic/genetics)
+        * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
-            ### [Horses may have been domesticated twice. Only one attempt stuck](https://www.sciencenews.org/article/horses-domesticated-mobility-timing)
+            ### [A malaria drug could be used to treat PCOS, a common hormone disorder](https://www.sciencenews.org/article/malaria-drug-treat-pcos-hormone-disorder)
             
-            By [Tina Hesman Saey](https://www.sciencenews.org/author/tina-hesman-saey "Posts by Tina Hesman Saey")June 6, 2024
+            By [Darren Incorvaia](https://www.sciencenews.org/author/darren-incorvaia "Posts by Darren Incorvaia")June 13, 2024
             
 * [Life](https://www.sciencenews.org/topic/life)
     * [Life](https://www.sciencenews.org/topic/life)
@@ -114,23 +114,23 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
         * [Genetics](https://www.sciencenews.org/topic/genetics)
         * [Microbes](https://www.sciencenews.org/topic/microbes)
-    * * [Anthropology](https://www.sciencenews.org/topic/anthropology)
+    * * [Plants](https://www.sciencenews.org/topic/plants)
             
-            ### [Fossil finds amplify Europe’s status as a hotbed of great ape evolution](https://www.sciencenews.org/article/fossil-europe-hotbed-great-ape-evolution)
+            ### [This tentacled, parasitic ‘fairy lantern’ plant is new to science](https://www.sciencenews.org/article/parasitic-fairy-lantern-plant-science)
             
-            By [Bruce Bower](https://www.sciencenews.org/author/bruce-bower "Posts by Bruce Bower")June 7, 2024
+            By [Jake Buehler](https://www.sciencenews.org/author/jake-buehler "Posts by Jake Buehler")June 17, 2024
             
-        * [Life](https://www.sciencenews.org/topic/life)
+        * [Paleontology](https://www.sciencenews.org/topic/paleontology)
             
-            ### [This protist unfolds its ‘neck’ up to 30 times its body length to scout prey](https://www.sciencenews.org/article/protist-neck-origami-unfold-lacrymaria)
+            ### [Early ants may have had complex social lives, fossil data suggests](https://www.sciencenews.org/article/early-ants-complex-social-lives-fossil)
             
-            By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")June 6, 2024
+            By [Jake Buehler](https://www.sciencenews.org/author/jake-buehler "Posts by Jake Buehler")June 14, 2024
             
-        * [Genetics](https://www.sciencenews.org/topic/genetics)
+        * [Paleontology](https://www.sciencenews.org/topic/paleontology)
             
-            ### [Horses may have been domesticated twice. Only one attempt stuck](https://www.sciencenews.org/article/horses-domesticated-mobility-timing)
+            ### [‘Echidnapus’ hints at a lost age of egg-laying mammals](https://www.sciencenews.org/article/echidnapus-newfound-species-mammal)
             
-            By [Tina Hesman Saey](https://www.sciencenews.org/author/tina-hesman-saey "Posts by Tina Hesman Saey")June 6, 2024
+            By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")June 13, 2024
             
 * [Earth](https://www.sciencenews.org/topic/earth)
     * [Earth](https://www.sciencenews.org/topic/earth)
@@ -140,44 +140,44 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Environment](https://www.sciencenews.org/topic/environment)
     * * [Earth](https://www.sciencenews.org/topic/earth)
             
+            ### [50 years ago, the sun’s influence on Earth’s lightning was revealed](https://www.sciencenews.org/article/50-years-ago-sun-earth-lightning)
+            
+            By [Cassie Martin](https://www.sciencenews.org/author/cassie-martin "Posts by Cassie Martin")17 hours ago
+            
+        * [Climate](https://www.sciencenews.org/topic/climate)
+            
+            ### [The Arctic is warming rapidly. These clouds may hold clues as to why](https://www.sciencenews.org/article/arctic-warming-rapidly-clouds-clues-why)
+            
+            By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")June 14, 2024
+            
+        * [Earth](https://www.sciencenews.org/topic/earth)
+            
             ### [Geoscientists found the most dangerous part of a famous West Coast fault](https://www.sciencenews.org/article/geoscientist-dangerous-west-coast-fault)
             
             By [Nikk Ogasa](https://www.sciencenews.org/author/nikk-ogasa "Posts by Nikk Ogasa")June 7, 2024
-            
-        * [Earth](https://www.sciencenews.org/topic/earth)
-            
-            ### [In 2018, Hawaii’s Kilauea volcano erupted like a stomp rocket](https://www.sciencenews.org/article/2018-kilauea-volcano-erupt-stomp-rocket)
-            
-            By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")June 5, 2024
-            
-        * [Earth](https://www.sciencenews.org/topic/earth)
-            
-            ### [Freshwater first appeared on Earth 4 billion years ago, ancient crystals hint](https://www.sciencenews.org/article/freshwater-earth-ancient-crystal-years)
-            
-            By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")June 3, 2024
             
 * [Physics](https://www.sciencenews.org/topic/physics)
     * [Physics](https://www.sciencenews.org/topic/physics)
         * [Materials Science](https://www.sciencenews.org/topic/materials-science)
         * [Quantum Physics](https://www.sciencenews.org/topic/quantum-physics)
         * [Particle Physics](https://www.sciencenews.org/topic/particle-physics)
-    * * [Particle Physics](https://www.sciencenews.org/topic/particle-physics)
+    * * [Quantum Physics](https://www.sciencenews.org/topic/quantum-physics)
+            
+            ### [Physicists measured Earth’s rotation using quantum entanglement](https://www.sciencenews.org/article/earth-rotation-quantum-entanglement)
+            
+            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")June 14, 2024
+            
+        * [Physics](https://www.sciencenews.org/topic/physics)
+            
+            ### [The second law of thermodynamics underlies nearly everything. But is it inviolable?](https://www.sciencenews.org/article/disorder-thermodynamics-second-law)
+            
+            By [Tom Siegfried](https://www.sciencenews.org/author/tom-siegfried "Posts by Tom Siegfried")June 12, 2024
+            
+        * [Particle Physics](https://www.sciencenews.org/topic/particle-physics)
             
             ### [Scientists propose a hunt for never-before-seen ‘tauonium’ atoms](https://www.sciencenews.org/article/tauonium-atoms-particles) 
             
             By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")May 29, 2024
-            
-        * [Quantum Physics](https://www.sciencenews.org/topic/quantum-physics)
-            
-            ### [Two real-world tests of quantum memories bring a quantum internet closer to reality](https://www.sciencenews.org/article/quantum-physics-memories-internet)
-            
-            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")May 23, 2024
-            
-        * [Physics](https://www.sciencenews.org/topic/physics)
-            
-            ### [Here’s how ice may get so slippery](https://www.sciencenews.org/article/ice-slippery-molecules-water) 
-            
-            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")May 22, 2024
             
 * [Space](https://www.sciencenews.org/topic/space)
     * [Space](https://www.sciencenews.org/topic/space)
@@ -186,21 +186,21 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Cosmology](https://www.sciencenews.org/topic/cosmology)
     * * [Space](https://www.sciencenews.org/topic/space)
             
-            ### [NASA’s James Webb Space Telescope could help solve these 5 exoplanet puzzles](https://www.sciencenews.org/article/nasa-jwst-space-telescope-exoplanet)
+            ### [Astronomers watch a supermassive black hole turn on for the first time](https://www.sciencenews.org/article/supermassive-black-hole-turn-on-agn)
             
-            By [Elise Cutts](https://www.sciencenews.org/author/elise-cutts "Posts by Elise Cutts")June 7, 2024
+            By [Adam Mann](https://www.sciencenews.org/author/adam-mann "Posts by Adam Mann")10 hours ago
+            
+        * [Earth](https://www.sciencenews.org/topic/earth)
+            
+            ### [50 years ago, the sun’s influence on Earth’s lightning was revealed](https://www.sciencenews.org/article/50-years-ago-sun-earth-lightning)
+            
+            By [Cassie Martin](https://www.sciencenews.org/author/cassie-martin "Posts by Cassie Martin")17 hours ago
             
         * [Space](https://www.sciencenews.org/topic/space)
             
-            ### [China’s Chang’e-6 snagged the first samples from the farside of the moon](https://www.sciencenews.org/article/change-6-first-samples-farside-moon)
+            ### [Human spaceflight’s new era is fraught with medical and ethical questions](https://www.sciencenews.org/article/human-spaceflight-medical-and-ethical-questions)
             
-            By [Adam Mann](https://www.sciencenews.org/author/adam-mann "Posts by Adam Mann")June 5, 2024
-            
-        * [Space](https://www.sciencenews.org/topic/space)
-            
-            ### [The sun is entering solar maximum. Expect auroras, and more](https://www.sciencenews.org/article/sun-auroras-solar-maximum-2024)
-            
-            By [Adam Mann](https://www.sciencenews.org/author/adam-mann "Posts by Adam Mann")June 4, 2024
+            By [Adam Mann](https://www.sciencenews.org/author/adam-mann "Posts by Adam Mann")June 11, 2024
             
 
 Privacy Policy
