@@ -56,7 +56,7 @@ Solutions
 
 Use cases
 
-[###### Launch your SaaS business](https://www.paddle.com/solutions/launch)[###### Sell your SaaS globally](https://www.paddle.com/solutions/selling-globally)[###### Introduce product-led growth](https://www.paddle.com/solutions/self-serve)[###### Unify your revenue data](https://www.paddle.com/solutions/revenue-data)[###### Prepare for funding, IPO or exit](https://www.paddle.com/solutions/investment-ready)[###### Paddle for games](https://www.paddle.com/solutions/paddle-for-games)
+[###### Launch your SaaS business](https://www.paddle.com/solutions/launch)[###### Sell your SaaS globally](https://www.paddle.com/solutions/selling-globally)[###### Introduce product-led growth](https://www.paddle.com/solutions/self-serve)[###### Unify your revenue data](https://www.paddle.com/solutions/revenue-data)[###### Prepare for funding, IPO or exit](https://www.paddle.com/solutions/investment-ready)[###### Paddle for games](https://www.paddle.com/solutions/paddle-for-games)[###### Web stores](https://www.paddle.com/solutions/web-stores)
 
 [###### Partner with Paddle
 
