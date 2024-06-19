@@ -1,24 +1,12 @@
-[For Donors](https://bold.org/donors/)[For Applicants](https://bold.org/applicants/)
-
 [](https://bold.org/)
 
-View Scholarships* [Resources](https://bold.org/resources/)
-* [Leaders](https://bold.org/leaders/)
-* [Funds](https://bold.org/funds/)
-Company
-
-[Login](https://app.bold.org/login?redirect=)[Join Bold.org](https://bold.org/apply/)
+[Login](https://app.bold.org/login)[Join Bold.org](https://bold.org/apply/)
 
 [For Donors](https://bold.org/donors/)[For Applicants](https://bold.org/applicants/)
 
 [](https://bold.org/)
 
-View Scholarships* [Resources](https://bold.org/resources/)
-* [Leaders](https://bold.org/leaders/)
-* [Funds](https://bold.org/funds/)
-Company
-
-[Login](https://app.bold.org/login?redirect=)[Join Bold.org](https://bold.org/apply/)
+[Login](https://app.bold.org/login)[Join Bold.org](https://bold.org/apply/)
 
 Terms of Use
 ============
@@ -27,7 +15,7 @@ This website is operated by Bold.org, Inc (“Bold”). Throughout this website 
 
 By visiting our Site and/or purchasing the Service from us, you are engaging in our Service and agree to be bound by the Terms. These Terms apply to all users of the Site, including without limitation users who are browsers, vendors, customers, merchants, and/ or contributors of content.
 
-Personal information that is collected on the Site and through the Service is handled in accordance with our Privacy Policy. Your use of the Service is also subject to additional terms as set forth in the “Specific Additional Terms and Conditions” section below (the "Additional Terms").  In the event that any of these Terms conflict with the Additional Terms or other terms and guidelines contained within any particular section of the Site or with any terms included with any product or service purchased from Bold, then these Terms shall control.
+Personal information that is collected on the Site and through the Service is handled in accordance with our Privacy Policy. Your use of the Service is also subject to additional terms as set forth in the [“Specific Additional Terms and Conditions”](#specific-additional-terms) section below (the "Additional Terms").  In the event that any of these Terms conflict with the Additional Terms or other terms and guidelines contained within any particular section of the Site or with any terms included with any product or service purchased from Bold, then these Terms shall control.
 
 Please note, by using the Service, you acknowledge, confirm, and consent to: (i) Bold’s generation of revenue from its partnerships with scholarship providers, applicable academic institutions, and other third parties who are necessary for Bold to provide its Service to you, and (ii) Bold’s use of your information and data on Bold’s platform in order to do so.
 
@@ -250,15 +238,13 @@ Join 250k+ followers across:
 
 [Do Not Sell or Share My Personal Information](https://bold.org/privacy-overview/)
 
-* * *
-
 Donors
 
 [How It Works](https://bold.org/donors/how-it-works/)[Award Features](https://bold.org/donors/award-features/)[Pricing](https://bold.org/donors/pricing/)[Donor FAQ](https://bold.org/donors/faq/)[Terms and Conditions](https://bold.org/donor-terms-and-conditions/)
 
 Applicants
 
-[Scholarship Rules](https://bold.org/scholarship-rules/)[Scholarship Blog](https://bold.org/blog/)[Graduate School Scholarships](https://bold.org/scholarships/by-year/graduate-students-scholarships/)[Scholarships for Black Students](https://bold.org/scholarships/by-demographics/minorities/black-students-scholarships/)[Scholarships for Women](https://bold.org/scholarships/by-demographics/women/)[Scholarships for Hispanic Students](https://bold.org/scholarships/by-demographics/minorities/hispanic-students-scholarships/)[Texas Scholarships](https://bold.org/scholarships/by-state/texas-scholarships/)[Merit-Based Scholarships](https://bold.org/scholarships/by-type/merit-based/)[Scholarships for Nursing Students](https://bold.org/scholarships/by-major/nursing-scholarships/)[Scholarships for High School Seniors](https://bold.org/scholarships/by-year/high-school/seniors/)[High School Scholarships](https://bold.org/scholarships/by-year/high-school/)[Explore More Scholarship Categories](https://bold.org/scholarships/)
+[Scholarship Rules](https://bold.org/scholarship-rules/)[Scholarship Blog](https://bold.org/blog/)[Scholarships for High School Seniors](https://bold.org/scholarships/by-year/high-school/seniors/)[Scholarships for Nursing Students](https://bold.org/scholarships/by-major/nursing-scholarships/)[High School Scholarships](https://bold.org/scholarships/by-year/high-school/)[Merit-Based Scholarships](https://bold.org/scholarships/by-type/merit-based/)[Scholarships for Women](https://bold.org/scholarships/by-demographics/women/)[Texas Scholarships](https://bold.org/scholarships/by-state/texas-scholarships/)[Scholarships for Hispanic Students](https://bold.org/scholarships/by-demographics/minorities/hispanic-students-scholarships/)[Scholarships for Black Students](https://bold.org/scholarships/by-demographics/minorities/black-students-scholarships/)[Graduate School Scholarships](https://bold.org/scholarships/by-year/graduate-students-scholarships/)[Explore More Scholarship Categories](https://bold.org/scholarships/)
 
 Company
 
