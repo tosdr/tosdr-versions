@@ -106,6 +106,7 @@ Show More
     * [Sell VaultChainTM Silver](https://online.kitco.com/kitco-vault-chain-silver#sell "Sell VaultChain Silver")
     * [Kitco Pool - Metal Accounts](https://online.kitco.com/kitco-pool#sell "Sell Kitco Pool")
     * [Refining and Scrap](https://online.kitco.com/refining/gold-silver-.html "Sell Refining and Scrap")
+    * [Selling Your Bullion](https://online.kitco.com/selling-bullion-bars-coins "Selling Your Bullion")
 * [Storage Programs](https://online.kitco.com/storage "Storage Programs")
     
     * [VaultChainTM Gold](https://online.kitco.com/vaultchain-digital-gold-silver-using-blockchain/ "VaultChain Gold")
