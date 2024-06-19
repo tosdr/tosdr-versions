@@ -23,8 +23,8 @@ Popular Games
 
 Latest game news
 
-* [DRAGON BALL: Sparking! ZERO - GAMEPLAY SHOWCASE](https://en.bandainamcoent.eu/dragon-ball/news/dragon-ball-sparking-zero-gameplay-showcase)
-* [ELDEN RING - Story Summary Explained](https://en.bandainamcoent.eu/elden-ring/news/elden-ring-story-summary-explained)
+* [Learn more about GUNDAM BREAKER 4 story and characters!](https://en.bandainamcoent.eu/gundam/news/learn-more-about-gundam-breaker-4-story-and-characters)
+* [WINGS OF THE HEART TAKE FLIGHT ONCE MORE WITH BATEN KAITOS I & II™ HD REMASTER NOW AVAILABLE ON PC](https://en.bandainamcoent.eu/baten-kaitos/news/wings-of-the-heart-take-flight-once-more-baten-kaitos-i-iitm-hd-remaster-now)
 
    ![](/themes/custom/bne_main/images/newsletter/banner-newsletter.jpg?1648764000)
 
