@@ -98,6 +98,8 @@ Incoming data by context
     3. [Search Query](#search-request): Will not be saved or shared.
     4. Location Data: Will not be saved or shared.
     
+    We are using your IP address to estimate a good starting location to focus the map on initially. To do so your IP address is processed locally. The results are not stored anywhere and will be immediately deleted after your request.
+    
     Use of the anonymizing proxy
     ============================
     
@@ -268,4 +270,4 @@ Changes to this Statement
 
 Like our offers, this data protection declaration is also subject to constant change. You should therefore read them again regularly.
 
-This version of our privacy policy is dated: 2023-09-04
+This version of our privacy policy is dated: 2024-06-11
