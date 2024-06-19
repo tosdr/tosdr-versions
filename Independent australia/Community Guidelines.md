@@ -86,15 +86,15 @@ MENU SEARCH FIND [SUBSCRIBE](https://independentaustralia.net/about-ia/subscribe
 
 * * *
 
-[Laura Tingle and aliens at the ABC](https://independentaustralia.net/article-display/laura-tingle-and-aliens-at-the-abc,18660)
+[Lessons learned from Robodebt RC: Zero NACC unknown culprits: Six](https://independentaustralia.net/article-display/lessons-learned-from-robodebt-rc-zero-nacc-unknown-culprits-six,18679)
 
 [IA Writing Competition wants YOU](https://independentaustralia.net/article-display/calling-all-writers-ia-wants-you,17378)
 
-[EU Elections a chance to push out warmongers](https://independentaustralia.net/article-display/eu-elections-a-chance-to-push-out-warmongers,18662)
+[The fable of the Under Down Land](https://independentaustralia.net/article-display/the-fable-of-the-under-down-land,18691)
 
-[Joe Biden making America green again](https://independentaustralia.net/article-display/joe-biden-making-america-green-again,18661)
+[NBN and telcos feeling pressure from new satellite operators](https://independentaustralia.net/article-display/nbn-and-telcos-feeling-pressure-from-new-satellite-operators,18675)
 
-[Vic Government's Registry sell-off plan inflates debt hysteria](https://independentaustralia.net/article-display/vic-governments-registry-sell-off-plan-inflates-debt-hysteria,18658)
+[The ABC subtly and systematically pushes a Liberal Party agenda](https://independentaustralia.net/article-display/the-abc-subtly-and-systematically-pushes-a-liberal-party-agenda,18689)
 
 Comments Policy
 
@@ -134,13 +134,13 @@ Join the **I_A_** newsletter for regular updates on our latest news stories.
 Just in
 
 * [The growth of Australia's flexible office in 2024](https://independentaustralia.net/article-display/the-growth-of-australias-flexible-office-in-2024,18626 "Permanent Link : The growth of Australia's flexible office in 2024")
-* [Laura Tingle and aliens at the ABC](https://independentaustralia.net/article-display/laura-tingle-and-aliens-at-the-abc,18660 "Permanent Link : Laura Tingle and aliens at the ABC")
-* [Great Australian Dream a housing nightmare for young Australians](https://independentaustralia.net/article-display/great-australian-dream-a-housing-nightmare-for-young-australians,18663 "Permanent Link : Great Australian Dream a housing nightmare for young Australians")
-* [CARTOONS: Robodebt, racism and rich men's media empires](https://independentaustralia.net/article-display/cartoons-robodebt-racism-and-rich-mens-media-empires,18668 "Permanent Link : CARTOONS: Robodebt, racism and rich men's media empires")
-* [Julian Lennon — Like father, like son](https://independentaustralia.net/article-display/julian-lennon-like-father-like-son,18655 "Permanent Link : Julian Lennon — Like father, like son")
-* [Fearful and forceless: NACC fails Robodebt victims](https://independentaustralia.net/article-display/fearful-and-forceless-nacc-fails-robodebt-victims,18667 "Permanent Link : Fearful and forceless: NACC fails Robodebt victims")
-* [Lockheed Martin hides Australia's complicity in Gaza bombings](https://independentaustralia.net/article-display/lockheed-martin-hides-australias-complicity-in-gaza-bombings,18666 "Permanent Link : Lockheed Martin hides Australia's complicity in Gaza bombings")
-* [ABBA: Knight time for Sweden's pop royalty](https://independentaustralia.net/article-display/abba-knight-time-for-swedens-pop-royalty,18665 "Permanent Link : ABBA: Knight time for Sweden's pop royalty")
+* [Reserve Bank playing with fire — beware of the creeping recession](https://independentaustralia.net/article-display/reserve-bank-playing-with-fire-beware-of-the-creeping-recession,18690 "Permanent Link : Reserve Bank playing with fire — beware of the creeping recession")
+* [Australia investing heavily into counter-drone military technology](https://independentaustralia.net/article-display/australia-investing-heavily-into-counter-drone-military-technology,18695 "Permanent Link : Australia investing heavily into counter-drone military technology")
+* [The forces behind Australia's regional bank closures](https://independentaustralia.net/article-display/the-forces-behind-australias-regional-bank-closures,18694 "Permanent Link : The forces behind Australia's regional bank closures")
+* [This Week on IA: Dutton, Labor and immigration detention](https://independentaustralia.net/article-display/this-week-on-ia-dutton-labor-and-immigration-detention,18693 "Permanent Link : This Week on IA: Dutton, Labor and immigration detention")
+* [The fable of the Under Down Land](https://independentaustralia.net/article-display/the-fable-of-the-under-down-land,18691 "Permanent Link : The fable of the Under Down Land")
+* [Indonesia's new capital city project is an ongoing disaster](https://independentaustralia.net/article-display/indonesias-new-capital-city-project-is-an-ongoing-disaster,18692 "Permanent Link : Indonesia's new capital city project is an ongoing disaster")
+* [The ABC subtly and systematically pushes a Liberal Party agenda](https://independentaustralia.net/article-display/the-abc-subtly-and-systematically-pushes-a-liberal-party-agenda,18689 "Permanent Link : The ABC subtly and systematically pushes a Liberal Party agenda")
 
 [![](https://independent-australia.myshopify.com/cdn/shop/files/2024MagCover1_aff90a98-8997-4ca5-8e59-d49c1b50ea32_large.jpg?v=1698989656)](https://independent-australia.myshopify.com/collections/magazines-and-newspapers/products/copy-of-2024-ia-print-magazine-subscriber-advance-order-discounted-price-1)
 
