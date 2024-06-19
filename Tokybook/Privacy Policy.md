@@ -30,6 +30,8 @@ Menu
 * [Contact us](https://tokybook.com/contact)
 * [](#)
 
+[![](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs= "Tokybook")](https://file.tokybook.com/upload/app-two-release.apk)
+
 Privacy Policy
 ==============
 
