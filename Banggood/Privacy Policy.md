@@ -308,6 +308,7 @@ CN Entrepôt
 * IT Entrepôt
 * MX Entrepôt
 * ZA Entrepôt
+* CL Entrepôt
 
 Cet entrepôt ne peut pas être expédié à votre emplacement.
 
