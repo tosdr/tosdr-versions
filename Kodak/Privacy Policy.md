@@ -341,7 +341,6 @@ Arrow Down
 * [Camera Films](https://www.kodak.com/en/motion/products/camera-films/ "Camera Films")
 * [Post Production](https://www.kodak.com/en/motion/products/post/ "Post Production")
 * [Order Film](https://www.kodak.com/en/motion/page/order-film/ "Order Film Products")
-* [Shot On Film](https://www.kodak.com/en/motion/page/shot-on-film/ "Shot On Film")
 * [Filmmaker Stories](https://www.kodak.com/en/motion/blog/ "Filmmaker Stories")
 * [Lab Directory](https://www.kodak.com/en/motion/page/labs/ "Lab Directory")
 * [Commercial Dealers](https://www.kodak.com/en/motion/page/worldwide-film-suppliers/ "Commercial Dealers")
