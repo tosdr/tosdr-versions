@@ -1,30 +1,32 @@
 [Skip to main content](#main-content)
 
-Best Sellers BOGO Free! DETAILS
+Warehouse Sale! Save Up To 75% DETAILS
 
-BUY 1 GET 1 FREE
+\+ BOGO Free Compression Sleeves! DETAILS
 
-Close the Modal
-
-#### Best Sellers: Buy 1 Get 1 FREE!
-
-[SHOP NOW](https://www.tommiecopper.com/special/best-sellers/)
-
-Offer valid 6/7/2024 8AM ET - 6/10/2024 6AM ET.
-
-To receive Buy 1 Get 1 Free discount on all Best Sellers, must add two (2) eligible products to cart. Discount automatically applied on lowest priced item. Offer only valid on tommiecopper.com. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
-
-FREE GIFT WITH PURCHASE
+THE WAREHOUSE SALE
 
 Close the Modal
 
-#### Free Pain Relief Liquid Roller on Orders $100+
+#### SAVE UP TO 75%
 
-[SHOP MEN](https://www.tommiecopper.com/men/)    [SHOP WOMEN](https://www.tommiecopper.com/women/)
+[SHOP MEN](https://www.tommiecopper.com/men/featured/mens-outlet/)    [SHOP WOMEN](https://www.tommiecopper.com/women/featured/womens-outlet/)
 
-Offer valid 8/1/2023 8AM EST - 8/5/2023 6AM EST.
+Offer valid 6/18/2024 8AM ET - 6/20/2024 6AM ET.
 
-Free Pain Relief Liquid Roller - Cucumber & Peppermint automatically applied on orders $100+. Order subtotal must reach $100 before taxes and shipping. Offer only valid on tommiecopper.com. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
+Warehouse Sale discounts on Outlet products priced as marked. Offer only valid on tommiecopper.com. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
+
+COMPRESSION SLEEVES
+
+Close the Modal
+
+#### Buy 1 Get 1 Free Today!
+
+[SHOP MEN](https://www.tommiecopper.com/men/compression-wear/sleeves/)    [SHOP WOMEN](https://www.tommiecopper.com/women/compression-wear/sleeves/)
+
+Offer valid 6/18/2024 8AM ET - 6/20/2024 6AM ET.
+
+To receive Buy 1 Get 1 Free discount on all compression sleeves, must add two (2) eligible full-price items to cart. Discount automatically applied on lowest priced item. Offer only valid on tommiecopper.com. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
 
 [Toggle menu](#)
 
