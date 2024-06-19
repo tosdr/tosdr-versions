@@ -1,4 +1,4 @@
-Stealth mode: [Exposed](https://www.vpncity.com/page/hide-my-ip) 51.77.108.160 FR OVH SAS
+Stealth mode: [Exposed](https://www.vpncity.com/page/hide-my-ip) 51.195.149.220 FR OVH SAS
 
 [![VPNCity Logo](https://d1eb2n65zrr15p.cloudfront.net/img/vpncity-logo-blue.svg)](https://www.vpncity.com/)
 
