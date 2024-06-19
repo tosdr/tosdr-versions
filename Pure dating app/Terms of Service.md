@@ -237,7 +237,7 @@ Your rights regarding payment policy and refunds, when purchases of subscription
 
 ##### **b. Subscriptions, payments and refunds via Website**
 
-* All payments are charged to your registered bank account. Your payment information will be stored and subsequently used for the automatic payments in accordance with your subscription plan and the Agreement.
+* All payments are charged to your registered bank account or other selected and authorized payment method. Your payment information will be stored and subsequently used for the automatic payments in accordance with your subscription plan and the Agreement.
 
 In order to exercise any of the rights regarding the subscriptions, payments and refunds via our Website, please contact us by email at [\[email protected\]](https://pure.app/cdn-cgi/l/email-protection).
 
