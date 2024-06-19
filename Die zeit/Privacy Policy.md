@@ -1915,8 +1915,7 @@ Betätigen Sie den Button "Zustimmung widerrufen" oder löschen Ihre Cookies im 
 Kontakt
 
 Mail: [email@zeit.de](mailto:email@zeit.de)  
-Telefon: 040 / 32 80-0  
-Fax: 040 / 32 71 11
+Telefon: 040 / 32 80-0
 
 ZEIT Online GmbH  
 Buceriusstraße - Speersort 1  
