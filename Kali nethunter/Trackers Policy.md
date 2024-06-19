@@ -31,7 +31,7 @@
     
     Build your team's defensive skill sets
     
-    ![OffSec MITRE D3FEND Learning Paths](/_astro/mitre_defend_lp_1r5xcr.png)](https://www.offsec.com/learning/paths/mitre-defend-training/)
+    ![OffSec MITRE D3FEND Learning Paths](https://manage.offsec.com/app/uploads/2024/05/mitre_defend_lp.png)](https://www.offsec.com/learning/paths/mitre-defend-training/)
     
     [Enterprise Cyber Range & Versus
     
@@ -50,7 +50,7 @@
     
     Use our most powerful cyber range to develop a cyber resilient workforce
     
-    ![Hands-on training in live-fire, enterprise environments](/_astro/live_fire_feat_Z2njCaO.png)](https://www.offsec.com/enterprise/cyber-range/versus/)
+    ![Hands-on training in live-fire, enterprise environments](https://manage.offsec.com/app/uploads/2024/05/live_fire_feat.png)](https://www.offsec.com/enterprise/cyber-range/versus/)
     
 * Why OffSec
     
@@ -79,7 +79,7 @@
     
     Address your talent gap through continuous skills development and knowledge acquisition
     
-    ![Learn Enterprise](/_astro/le_feat_nav_icon_6Ok2w.png)](https://www.offsec.com/products/learn-enterprise/)
+    ![Learn Enterprise](https://manage.offsec.com/app/uploads/2024/05/le_feat_nav_icon.png)](https://www.offsec.com/products/learn-enterprise/)
     
     [Attain a Certification
     
@@ -89,7 +89,7 @@
     
     Ready yourself for the next step in your cybersecurity career](https://www.offsec.com/products/)
     
-    [Register now](https://portal.offsec.com/registration?utm_source=offsec)
+    [Buy now](https://portal.offsec.com/registration?utm_source=offsec)
     
     [Recommended
     
@@ -98,7 +98,7 @@
     
     Get access to a course and labs for one full year. Balance life and learning while reducing stress and time pressure
     
-    ![Learn One](/_astro/learn_one_nav_icon_Z1ycD47.png)](https://www.offsec.com/products/learn-one/)
+    ![Learn One](https://manage.offsec.com/app/uploads/2024/05/learn_one_nav_icon.png)](https://www.offsec.com/products/learn-one/)
     
 * Pricing Plans & Pricing
     
@@ -127,7 +127,7 @@
     
     Provide continuous learning and skill development with Learn Enterprise. Access to the entire Learning Library and the Enterprise Cyber Range for everyone on your team.
     
-    ![Learn Enterprise](/_astro/le_feat_nav_icon_6Ok2w.png)](https://www.offsec.com/products/learn-enterprise/)
+    ![Learn Enterprise](https://manage.offsec.com/app/uploads/2024/05/le_feat_nav_icon.png)](https://www.offsec.com/products/learn-enterprise/)
     
     [Pricing
     
@@ -147,7 +147,7 @@
     
     OffSec-curated private labs to practice and perfect your pentesting skills](https://www.offsec.com/labs/)
     
-    [Register now](https://portal.offsec.com/registration?utm_source=offsec)
+    [Buy now](https://portal.offsec.com/registration?utm_source=offsec)
     
     [Recommended
     
@@ -156,7 +156,7 @@
     
     Get access to a course and labs for one full year. Balance life and learning while reducing stress and time pressure
     
-    ![Learn One](/_astro/learn_one_nav_icon_Z1ycD47.png)](https://www.offsec.com/products/learn-one/)
+    ![Learn One](https://manage.offsec.com/app/uploads/2024/05/learn_one_nav_icon.png)](https://www.offsec.com/products/learn-one/)
     
 * Partners
     
@@ -228,10 +228,10 @@
     
     Carahsoft's CarahCloud-Marketplace Program Simplifies Procurement Process for OffSec's Offerings
     
-    ![OffSec's Cybersecurity Training Solutions Now Available in AWS Marketplace Through Carahsoft](/_astro/Homepage-default-preview_ZhXSTr.png)](https://www.offsec.com/press-room/)
+    ![OffSec's Cybersecurity Training Solutions Now Available in AWS Marketplace Through Carahsoft](https://manage.offsec.com/wp-content/uploads/2023/08/Homepage-default-preview.jpg)](https://www.offsec.com/press-room/)
     
 
-[Register](https://www.offensive-security.com/pre-registration) [Sign In](https://portal.offensive-security.com/sign-in) [Contact](https://www.offensive-security.com/contact-us)
+[Buy now](https://www.offensive-security.com/pre-registration) [Sign In](https://portal.offensive-security.com/sign-in) [Contact](https://www.offensive-security.com/contact-us)
 
 Learning Solutions
 
@@ -287,7 +287,7 @@ Challenge yourself in real-world lab environments](https://www.offsec.com/labs/)
 
 Ready yourself for the next step in your cybersecurity career](https://www.offsec.com/products/)
 
-[Register now](https://portal.offsec.com/registration?utm_source=offsec)
+[Buy now](https://portal.offsec.com/registration?utm_source=offsec)
 
 Plans & Pricing
 
@@ -323,7 +323,7 @@ Learn Fundamentals
 
 OffSec-curated private labs to practice and perfect your pentesting skills](https://www.offsec.com/labs/)
 
-[Register now](https://portal.offsec.com/registration?utm_source=offsec)
+[Buy now](https://portal.offsec.com/registration?utm_source=offsec)
 
 Partners
 
@@ -386,11 +386,14 @@ Resources
 
 * [Swag Store](https://offsec.usa.dowlis.com/?utm_source=offsec)
 
-![2024 Global Infosec Award Winner](/_astro/global-infosec-award.CS27lFIr_Z1fQrfe.webp)
+![](/_astro/cybercore.C3lrBLvZ_Z22aMeo.svg)
 
-OffSec Wins Seven Global InfoSec Awards during RSA Conference 2024
+SEC-100: CyberCore - Security Essentials
+----------------------------------------
 
-[Read blog](https://www.offensive-security.com/offsec/award-winning-april/)
+OffSec's new course and certification opens doors to an exciting cybersecurity career.
+
+[Learn more](https://www.offensive-security.com/learning/paths/cybercore/)
 
 Legal
 =====
