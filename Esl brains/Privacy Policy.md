@@ -57,10 +57,10 @@ The place for ready-to-use ESL lesson plans for teaching online and offline.
 
 ### New Lessons
 
-* [Expressing likelihood](https://eslbrains.com/lesson-set/expressing-likelihood/ "Expressing likelihood")
-* [A ban on cigarettes](https://eslbrains.com/a-ban-on-cigarettes/ "A ban on cigarettes")
-* [Present Perfect activities](https://eslbrains.com/present-perfect-activities/ "Present Perfect activities")
-* [Posh and fancy (Past Simple and Continuous practice)](https://eslbrains.com/posh-and-fancy-past-simple-and-continuous-practice/ "Posh and fancy (Past Simple and Continuous practice)")
+* [When exercise meets cosy…](https://eslbrains.com/when-exercise-meets-cosy/ "When exercise meets cosy…")
+* [Journalism and the news](https://eslbrains.com/journalism-and-the-news/ "Journalism and the news")
+* [Agree to disagree? Negotiating conflict](https://eslbrains.com/agree-to-disagree-negotiating-conflict/ "Agree to disagree? Negotiating conflict")
+* [The fastest shoe in the world](https://eslbrains.com/the-fastest-shoe-in-the-world/ "The fastest shoe in the world")
 
 © ESL Brains 2023
 
