@@ -16,8 +16,6 @@ English
 
 [Create Account](https://www.f2pool.com/user/signup) [Sign In](https://www.f2pool.com/user/signin)
 
-* [Closing BEL mining pool](https://f2pool.zendesk.com/hc/en-us/articles/32979541542681-Closing-BEL-mining-pool) [More >](https://f2pool.zendesk.com/hc/en-us/sections/360013149492)
-
 Terms of Service
 ----------------
 
