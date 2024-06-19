@@ -7,7 +7,9 @@
 * MAIN: [210-358-4000](tel:210-358-4000 "Main Phone Number")
 * [Go to Patient Portal](https://www.universityhealth.com/patient-visitor-resources/patients/patient-portal)
 
-[![Return to University Health's Homepage.](/-/media/Images/Controls/Header/Logo.ashx?la=en&hash=C375C4BD5FA6FA1E2DBE8518A4CBB545)](https://www.universityhealth.com/ "Return to University Health's Homepage.")[](tel:210-358-4000 "Main Phone Number")
+[![Return to University Health's Homepage.](/-/media/Images/Controls/Header/Logo.ashx?la=en&hash=C375C4BD5FA6FA1E2DBE8518A4CBB545)](https://www.universityhealth.com/ "Return to University Health's Homepage.")
+
+[](tel:210-358-4000 "Main Phone Number")
 
 * Site Search
     
@@ -71,7 +73,7 @@
     
     * [Skip Section](#)
     * * [Why Choose University Health?](https://www.universityhealth.com/patient-visitor-resources/why-choose-university-health)
-        * [Advance Directives](https://www.universityhealth.com/patient-visitor-resources/patients/advanced-directives)
+        * [Advance Directives](https://www.universityhealth.com/patient-visitor-resources/patients/advance-care-planning)
         * [Billing & Insurance](https://www.universityhealth.com/patient-visitor-resources/patients/billing-insurance)
         * [CareLink](https://www.universityhealth.com/patient-visitor-resources/patients/financial-assistance-health-coverage/carelink)
         * [Compliments & Complaints](https://www.universityhealth.com/patient-visitor-resources/patients/support/patient-relations)
