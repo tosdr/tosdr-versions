@@ -26,7 +26,7 @@
 
 [Analytics for SharePoint Intranet](https://www.swoopanalytics.com/swoop-for-sharepoint)
 
-[Analytics for Viva Engage & Yammer](https://www.swoopanalytics.com/swoop-for-yammer)
+[Analytics for Viva Engage](https://www.swoopanalytics.com/swoop-for-viva-engage)
 
 [Analytics for Workplace from Meta](https://www.swoopanalytics.com/swoop-for-workplace)
 
@@ -118,7 +118,7 @@ Open Menu Close Menu
 
 [Analytics for SharePoint Intranet](https://www.swoopanalytics.com/swoop-for-sharepoint)
 
-[Analytics for Viva Engage & Yammer](https://www.swoopanalytics.com/swoop-for-yammer)
+[Analytics for Viva Engage](https://www.swoopanalytics.com/swoop-for-viva-engage)
 
 [Analytics for Workplace from Meta](https://www.swoopanalytics.com/swoop-for-workplace)
 
@@ -212,7 +212,7 @@ Open Menu Close Menu
 
 [Analytics for SharePoint Intranet](https://www.swoopanalytics.com/swoop-for-sharepoint)
 
-[Analytics for Viva Engage & Yammer](https://www.swoopanalytics.com/swoop-for-yammer)
+[Analytics for Viva Engage](https://www.swoopanalytics.com/swoop-for-viva-engage)
 
 [Analytics for Workplace from Meta](https://www.swoopanalytics.com/swoop-for-workplace)
 
