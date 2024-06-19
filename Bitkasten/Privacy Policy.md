@@ -136,7 +136,7 @@ Menü
 Datenschutzerklärung
 ====================
 
-Stand: September 2023
+Stand: Juni 2024
 
 1\. Information über die Erhebung personenbezogener Daten und Zweck der Verarbeitung
 ------------------------------------------------------------------------------------
@@ -320,7 +320,7 @@ Nach Ihrer Einwilligung, die durch Zusendung einer Bestätigungs-E-Mail erfragt 
 
 b) Weitergabe und Löschung der personenbezogenen Daten
 
-Die für die Newsletter-Registrierung von Ihnen angegebene E-Mail-Adresse und Ihr Name wird nicht an Dritte weitergegeben. Lediglich zur Datenverarbeitung im Auftrag bedient sich die bitkasten GmbH für den Newsletter-Versand der rapidmail GmbH, Augustinerplatz 2, 79098 Freiburg i.Br., Deutschland. Es wurde diesbezüglich ein schriftlicher Auftragsverarbeitungsvertrag abgeschlossen. Wenn Sie die Zusendung des Newsletters nicht mehr wünschen, wird Ihre E-Mail-Adresse aus der Verteilerliste gelöscht.
+Die für die Newsletter-Registrierung von Ihnen angegebene E-Mail-Adresse und Ihr Name wird nicht an Dritte weitergegeben. Lediglich zur Datenverarbeitung im Auftrag bedient sich die bitkasten GmbH für den Newsletter-Versand der Sendinblue GmbH, Köpenicker Straße 126, 10179 Berlin, Deutschland. Es wurde diesbezüglich ein schriftlicher Auftragsverarbeitungsvertrag abgeschlossen. Wenn Sie die Zusendung des Newsletters nicht mehr wünschen, wird Ihre E-Mail-Adresse aus der Verteilerliste gelöscht.
 
 c) Ihre Rechte
 
@@ -387,8 +387,8 @@ Wallensteinstraße 63
 90431 Nürnberg
 
 Standort Niederrhein  
-Eurotec-Ring 15  
-47445 Moers
+Ernst-Dietrich-Platz 2  
+40882 Ratingen
 
 [+49 911 | 6000 2874](tel:+4991160002874)  
 [Kontaktformular](https://www.bitkasten.de/kontakt/) [](https://stage.bitkasten.de/login)
@@ -417,6 +417,7 @@ bitkasten App herunterladen
 * [Transparenzerklärung](https://www.bitkasten.de/transparenzerklaerung/)
 * [AGB](https://www.bitkasten.de/agb/)
 * [Impressum](https://www.bitkasten.de/impressum/)
+* [Barrierefreiheit](https://www.bitkasten.de/barrierefreiheit/)
 
 * [Datenschutzerklärung](https://www.bitkasten.de/datenschutzerklaerung/)
 * [Nutzungsbedingungen](https://www.bitkasten.de/nutzungsbedingungen/)
@@ -424,6 +425,7 @@ bitkasten App herunterladen
 * [Transparenzerklärung](https://www.bitkasten.de/transparenzerklaerung/)
 * [AGB](https://www.bitkasten.de/agb/)
 * [Impressum](https://www.bitkasten.de/impressum/)
+* [Barrierefreiheit](https://www.bitkasten.de/barrierefreiheit/)
 
 Nach oben scrollen
 
