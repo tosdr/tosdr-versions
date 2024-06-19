@@ -10,18 +10,27 @@
         
         [Ancestry  
         Service](https://www.23andme.com/en-gb/dna-ancestry/)
+        
+        The most comprehensive ancestry breakdown on the market.
+        
     * ![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27240%27%20height=%27178%27/%3e)![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
         
         ![](/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Fhealth-ancestry.e39301b0.png&w=640&q=100)
         
         [Health +plus Ancestry  
         Service](https://www.23andme.com/en-gb/dna-health-ancestry/)
+        
+        Everything in Ancestry Service, plus a more complete picture of your health with insights from your genetic data.
+        
     * ![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27240%27%20height=%27178%27/%3e)![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
         
         ![](/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Fpremium-uk.03a9cb8a.png&w=640&q=100)
         
         [![23andMe plus](/_next/static/media/ttam-plus.e477b869.svg)  
         Premium](https://www.23andme.com/en-gb/membership/)
+        
+        Everything in Health +plus Ancestry, plus access to new premium reports and features throughout the year.
+        
     
     [Compare our services](https://www.23andme.com/en-gb/compare-dna-tests/)
     
@@ -62,18 +71,27 @@ Open Menu
         
         [Ancestry  
         Service](https://www.23andme.com/en-gb/dna-ancestry/)
+        
+        The most comprehensive ancestry breakdown on the market.
+        
     * ![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27240%27%20height=%27178%27/%3e)![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
         
         ![](/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Fhealth-ancestry.e39301b0.png&w=640&q=100)
         
         [Health +plus Ancestry  
         Service](https://www.23andme.com/en-gb/dna-health-ancestry/)
+        
+        Everything in Ancestry Service, plus a more complete picture of your health with insights from your genetic data.
+        
     * ![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27240%27%20height=%27178%27/%3e)![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
         
         ![](/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Fpremium-uk.03a9cb8a.png&w=640&q=100)
         
         [![23andMe plus](/_next/static/media/ttam-plus.e477b869.svg)  
         Premium](https://www.23andme.com/en-gb/membership/)
+        
+        Everything in Health +plus Ancestry, plus access to new premium reports and features throughout the year.
+        
     
     [Compare our services](https://www.23andme.com/en-gb/compare-dna-tests/)
     
