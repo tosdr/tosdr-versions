@@ -163,13 +163,11 @@ Explains what information we collect and why, how we use it, and how to review a
 
 [Pendants](https://www.icebox.com/results/pendants) [Gold Chains](https://www.icebox.com/results/gold-chains) [Earrings](https://www.icebox.com/results/earrings) [Necklaces](https://www.icebox.com/results/necklaces) [Rings](https://www.icebox.com/results/rings) [Bracelets](https://www.icebox.com/results/bracelets) [Bustdowns](https://www.icebox.com/results/watches) [Custom](https://www.icebox.com/results/custom) [Watches](https://www.icebox.com/results/watch-market) [Travel Cases](https://www.icebox.com/results/travel-cases)
 
-##### Our Locations
-
 ##### Change Currency
 
 ![](/themes/default/frontend/oct-2023/assets/flags/usd.svg) $ USD
 
-![Icebox Logotype](/themes/default/frontend/oct-2023/assets/ICBX.webp)
+![Icebox Logo](/assets/public-2020/img/logos/bfcf00d9a70b7f8b520fb5a2a42187be.png)
 
 3255 Peachtree Rd NE,  
 Suite #2  
