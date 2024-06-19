@@ -14,7 +14,6 @@
     * [ParcelOn Demand Delivery at Your Doorstep](https://pathao.com/parcel/ "Parcel")
     * [CourierReliable Delivery for Your Business](https://pathao.com/courier/ "Courier")
     * [ShopYour One-stop Shop](https://pathao.com/shop/ "Shop")
-    * [RentalBeat the Traffic, Save Time](https://pathao.com/rent-a-car/ "Rental")
     * Download User App[![](https://pathao.com/wp-content/uploads/2018/12/Google-Play-nb.png "Google-Play-nb")](http://bit.ly/2EeMXYQ)[![](https://pathao.com/wp-content/uploads/2018/12/App-Store-nb.png "App-Store-nb")](https://apple.co/2Eiz1gt%20)
         
         Download Drive App[![](https://pathao.com/wp-content/uploads/2018/12/Google-Play-nb.png "Google-Play-nb")](http://bit.ly/2VWJbIn)
