@@ -101,3 +101,7 @@ Feel free to contact us if you have any questions regarding our Terms of Service
 #### Legal
 
 [Community Guidelines](https://revolt.chat/aup)[Terms of Service](https://revolt.chat/terms)[Privacy Policy](https://revolt.chat/privacy)
+
+#### Subscribe
+
+[RSS](https://revolt.chat/feed/rss)[Atom](https://revolt.chat/feed/atom)[JSON](https://revolt.chat/feed/json)
