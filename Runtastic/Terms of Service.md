@@ -88,7 +88,6 @@ MORE
 * [Community Guidelines](https://www.runtastic.com/community-guidelines)
 * [Privacy Notice](https://www.runtastic.com/privacy-notice/runtastic/en)
 * [Legal](https://www.runtastic.com/legal)
-* [Report Complaints](https://www.runtastic.com/report-complaints)
 
 ![Proud part of adidas](/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-part-of-adidas.98fc3bd7.png&w=256&q=75)
 
