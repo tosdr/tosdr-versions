@@ -304,7 +304,7 @@
 * [SEARCH ![Search](https://d3l97e4uq59tzn.cloudfront.net/images/mag-glass.png)](#) 
 * [CART ![Cart](/media/themesmedia/cart-black.gif)](https://www.crystalclassics.com/cgi-crystalclassics/sb/order.cgi?storeid=*22a73a1a69eaa8741bab1114a426958d5fe954&function=show) 
 
-[FREE U.S. SHIPPING OVER $99](https://www.crystalclassics.com/free_services.htm) · 1-800-999-0655 · FREE RETURNS
+[FREE U.S. SHIPPING OVER $99](https://www.crystalclassics.com/free_services.htm) · FREE RETURNS
 
 |     |
 | --- |
