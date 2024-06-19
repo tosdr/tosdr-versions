@@ -29,15 +29,6 @@ Menu [![The American Conservative Logo](https://www.theamericanconservative.com/
 
 [Politics](https://www.theamericanconservative.com/category/politics/) [Foreign Affairs](https://www.theamericanconservative.com/category/foreign-affairs/) [Culture](https://www.theamericanconservative.com/category/culture/) [Fellows Program](https://www.theamericanconservative.com/fellows/) [Login](https://www.theamericanconservative.com/login/)
 
-![](https://www.theamericanconservative.com/wp-content/uploads/2022/06/Group-688.png)
-
-Subscribe Today
----------------
-
-Become a member and enjoy the very best from The American Conservative in print & digital.
-
-[Become a Member](https://www.theamericanconservative.com/subscribe-monthly/)
-
  _search_
 
 [Donate](https://www.theamericanconservative.com/donate) [Become a Member](https://www.theamericanconservative.com/subscribe-monthly) [Subscribe](https://www.theamericanconservative.com/subscribe)
@@ -223,9 +214,9 @@ It is the policy of TAC to strictly enforce this Privacy Policy. If at any time 
 
 This Privacy Policy was last updated on March 15, 2019.
 
-![May/June 2024](https://www.theamericanconservative.com/wp-content/uploads/2024/04/TAC_May-June-24_Cover_Digital2.jpg)
+![July/August 2024](https://www.theamericanconservative.com/wp-content/uploads/2024/06/big-nato.jpg)
 
-![May/June 2024](https://www.theamericanconservative.com/wp-content/uploads/2024/04/TAC_May-June-24_Cover_Digital2.jpg)
+![July/August 2024](https://www.theamericanconservative.com/wp-content/uploads/2024/06/big-nato.jpg)
 
 Subscribe Today
 ---------------
