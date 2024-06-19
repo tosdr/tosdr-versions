@@ -8,7 +8,7 @@
 
 [Request a Demo](https://www.kapwing.com/demo)
 
-[Start EditingSign In](https://www.kapwing.com/signin)[Try Kapwing Free](https://www.kapwing.com/signin)
+[Sign In](https://www.kapwing.com/signin)[Try Kapwing Free](https://www.kapwing.com/signin)
 
 [![Kapwing Logo](https://cdn-useast1.kapwing.com/static/9XE-logo-small.webp)](https://www.kapwing.com/)[KAPWING](https://www.kapwing.com/)
 
@@ -127,7 +127,7 @@ These Terms were last modified in December, 2022.
 
 Learn
 
-[About Us](https://www.kapwing.com/about)[Resources](https://www.kapwing.com/help/)[Help Center](https://www.kapwing.com/help/)[Blog](https://www.kapwing.com/blog/)[EDU](https://www.kapwing.com/edu)[Explore](https://www.kapwing.com/explore)[Teams](https://www.kapwing.com/teams)[Contact Us](https://www.kapwing.com/contact-us)
+[About Us](https://www.kapwing.com/about)[Resources](https://www.kapwing.com/help/)[Help Center](https://www.kapwing.com/help/)[Blog](https://www.kapwing.com/blog/)[EDU](https://www.kapwing.com/edu)[Create](https://www.kapwing.com/create)[Explore](https://www.kapwing.com/explore)[Teams](https://www.kapwing.com/teams)[Contact Us](https://www.kapwing.com/contact-us)
 
 Company
 
