@@ -12,70 +12,6 @@ Open menu
 
 Menu
 
-* Open Father's Day dropdown[![Father's Day](https://static.web-explore-server.prod.moonpig.net/_next/static/images/fathersday-03e9d3617681100c250b81fcce8a5208.svg)
-    
-    Father's Day](https://www.moonpig.com/uk/fathers-day/)
-    
-    ### Who's it for?
-    
-    * [All Father's Day Cards](https://www.moonpig.com/uk/personalised-cards/fathers-day/)
-    * [For Dad](https://www.moonpig.com/uk/personalised-cards/fathers-day/for-dad/)
-    * [For Daddy](https://www.moonpig.com/uk/personalised-cards/fathers-day/for-daddy/)
-    * [For Grandad](https://www.moonpig.com/uk/personalised-cards/fathers-day/for-grandad/)
-    * [For Step Dad](https://www.moonpig.com/uk/personalised-cards/fathers-day/for-stepdad/)
-    * [For Partner](https://www.moonpig.com/uk/personalised-cards/fathers-day/for-partner/)
-    * [For Dad-to-Be](https://www.moonpig.com/uk/personalised-cards/fathers-day/for-dad-to-be/)
-    
-    ### Cards by Theme
-    
-    * [From the Kids](https://www.moonpig.com/uk/personalised-cards/fathers-day/from-kids/)
-    * [1st Father's Day](https://www.moonpig.com/uk/personalised-cards/fathers-day/1st-time-dad/)
-    * [From the Pet](https://www.moonpig.com/uk/personalised-cards/fathers-day/from-pet/)
-    * [Across the Miles](https://www.moonpig.com/uk/personalised-cards/fathers-day/across-the-miles/)
-    * [Funny](https://www.moonpig.com/uk/personalised-cards/fathers-day/funny/)
-    * [LGBTQ+](https://www.moonpig.com/uk/personalised-cards/fathers-day/for-lgbtq/)
-    * [New for 2024](https://www.moonpig.com/uk/personalised-cards/fathers-day/new/)
-    * [From the Bump](https://www.moonpig.com/uk/personalised-cards/fathers-day/from-the-bump/)
-    
-    ### Elevate Your Card
-    
-    * [Photo Cards](https://www.moonpig.com/uk/personalised-cards/fathers-day/photo-upload/)
-    * [Large Cards](https://www.moonpig.com/uk/personalised-cards/fathers-day/large/)
-    * [Giant Cards](https://www.moonpig.com/uk/personalised-cards/fathers-day/giant/)
-    * [Stickers & Emojis](https://www.moonpig.com/uk/personalised-cards/stickers-emojis/)
-    * [Add a Video](https://www.moonpig.com/uk/personalised-cards/video-cards/)
-    * [Add a Photo](https://www.moonpig.com/uk/personalised-cards/photo-upload/)
-    * [Postcards](https://www.moonpig.com/uk/personalised-cards/postcards/fathers-day/)
-    * [eCards](https://www.moonpig.com/uk/personalised-cards/ecards/fathers-day/)
-    
-    ### Gift Ideas
-    
-    * [All Father's Day Gifts](https://www.moonpig.com/uk/gifts/fathers-day/)
-    * [For Daddy](https://www.moonpig.com/uk/gifts/fathers-day/for-daddy/)
-    * [For Dad](https://www.moonpig.com/uk/gifts/fathers-day/for-dad/)
-    * [For Grandad](https://www.moonpig.com/uk/gifts/fathers-day/for-grandad/)
-    * [Gifts £15 & under](https://www.moonpig.com/uk/gifts/fathers-day/15-under/)
-    * [Top Picks](https://www.moonpig.com/uk/gifts/fathers-day/top-picks/)
-    * [Balloons from £12](https://www.moonpig.com/uk/gifts/balloons/fathers-day/)
-    * [Beer, Wine & Spirits](https://www.moonpig.com/uk/gifts/alcohol/fathers-day/)
-    * [Personalised Gifts](https://www.moonpig.com/uk/gifts/personalised-gifts/fathers-day/)
-    * [Fun & Novelty](https://www.moonpig.com/uk/gifts/fun-novelty/fathers-day/)
-    * [Sweets & Treats](https://www.moonpig.com/uk/gifts/fathers-day/sweets-treats/)
-    * [Experience Gifts](https://www.moonpig.com/uk/gifts/experience-gifts/fathers-day/)
-    * [Plants](https://www.moonpig.com/uk/flowers-and-plants/fathers-day-plants/)
-    
-    ### Our Top Brands
-    
-    * [Lindt](https://www.moonpig.com/uk/gifts/food/lindt-chocolate/fathers-day/)
-    * [Maltesers, M&M's & Celebrations](https://www.moonpig.com/uk/gifts/mars/fathers-day/)
-    * [Hotel Chocolat](https://www.moonpig.com/uk/gifts/hotel-chocolat/fathers-day/)
-    * [Stormtrooper](https://www.moonpig.com/uk/gifts/alcohol/beer-cider/stormtrooper/)
-    * [Virgin Wines](https://www.moonpig.com/uk/gifts/alcohol/virgin-wines/fathers-day/)
-    * [Buyagift](https://www.moonpig.com/uk/gifts/experience-gifts/fathers-day/buyagift/)
-    * [Red Letter Days](https://www.moonpig.com/uk/gifts/experience-gifts/fathers-day/redletterdays/)
-    * [Cadbury](https://www.moonpig.com/uk/gifts/food/chocolate/cadbury/fathers-day/)
-    * [LEGO](https://www.moonpig.com/uk/gifts/lego/fathers-day/)
-    
 * Open Birthday dropdown[![Birthday](https://static.web-explore-server.prod.moonpig.net/_next/static/images/birthday-f0b12328b3bd6540e96cf61a50bbbf53.svg)
     
     Birthday](https://www.moonpig.com/uk/birthday/)
@@ -132,24 +68,12 @@ Menu
     
     * [Birthday](https://www.moonpig.com/uk/personalised-cards/birthday/all/)
     * [Anniversary](https://www.moonpig.com/uk/personalised-cards/anniversary/all/)
+    * [Eid](https://www.moonpig.com/uk/personalised-cards/eid/)
     * [Wedding](https://www.moonpig.com/uk/personalised-cards/weddings/all/)
-    * [New Baby](https://www.moonpig.com/uk/personalised-cards/new-baby/all)
+    * [New Baby](https://www.moonpig.com/uk/personalised-cards/new-baby/all/)
     * [New Home](https://www.moonpig.com/uk/personalised-cards/new-home/)
     * [New Job](https://www.moonpig.com/uk/personalised-cards/new-job/)
     * [Congratulations](https://www.moonpig.com/uk/personalised-cards/congratulations/)
-    
-    ### Father's Day
-    
-    * [All Father's Day Cards](https://www.moonpig.com/uk/personalised-cards/fathers-day/)
-    * [For Dad](https://www.moonpig.com/uk/personalised-cards/fathers-day/for-dad/)
-    * [For Daddy](https://www.moonpig.com/uk/personalised-cards/fathers-day/for-daddy/)
-    * [For Grandad](https://www.moonpig.com/uk/personalised-cards/fathers-day/for-grandad/)
-    * [For Stepdad](https://www.moonpig.com/uk/personalised-cards/fathers-day/for-stepdad/)
-    * [Funny](https://www.moonpig.com/uk/personalised-cards/fathers-day/funny/)
-    * [From the Kids](https://www.moonpig.com/uk/personalised-cards/fathers-day/from-kids/)
-    * [1st Father's Day](https://www.moonpig.com/uk/personalised-cards/fathers-day/1st-time-dad/)
-    * [Across the Miles](https://www.moonpig.com/uk/personalised-cards/fathers-day/across-the-miles/)
-    * [From the Pet](https://www.moonpig.com/uk/personalised-cards/fathers-day/from-pet/)
     
     ### Sentiment
     
@@ -157,6 +81,7 @@ Menu
     * [Good Luck](https://www.moonpig.com/uk/personalised-cards/good-luck/)
     * [Just A Note](https://www.moonpig.com/uk/personalised-cards/just-note/)
     * [Thinking Of You](https://www.moonpig.com/uk/personalised-cards/thinking-of-you/)
+    * [Thank You Teacher](https://www.moonpig.com/uk/thank-you/teacher/)
     * [Sympathy](https://www.moonpig.com/uk/personalised-cards/sympathy/)
     * [Get Well Soon](https://www.moonpig.com/uk/personalised-cards/get-well-soon/)
     * [Leaving](https://www.moonpig.com/uk/personalised-cards/leaving/)
@@ -165,7 +90,8 @@ Menu
     ### Format
     
     * [Features](https://www.moonpig.com/uk/moonpig-features/)
-    * [Audio & Video Message Cards](https://www.moonpig.com/uk/personalised-cards/video-cards/)
+    * [Add a Voice Note](https://www.moonpig.com/uk/personalised-cards/video-cards/)
+    * [Add a Video](https://www.moonpig.com/uk/personalised-cards/video-cards/)
     * [Photo Cards](https://www.moonpig.com/uk/personalised-cards/photo-upload/)
     * [Group Cards](https://www.moonpig.com/uk/group-cards/)
     * [Large Cards](https://www.moonpig.com/uk/personalised-cards/large/all/)
@@ -189,10 +115,10 @@ Menu
     
     ### Shop By Price
     
-    * [Birthday From £16](https://www.moonpig.com/uk/flowers-and-plants/birthday/)
-    * [For Friends From £14](https://www.moonpig.com/uk/flowers-and-plants/for-friend/)
+    * [Birthday From £18](https://www.moonpig.com/uk/flowers-and-plants/birthday/)
+    * [For Friends From £18](https://www.moonpig.com/uk/flowers-and-plants/for-friend/)
     * [Flowers From £20](https://www.moonpig.com/uk/flowers-and-plants/all-flowers/)
-    * [Plants From £14](https://www.moonpig.com/uk/flowers-and-plants/all-plants/)
+    * [Plants From £18](https://www.moonpig.com/uk/flowers-and-plants/all-plants/)
     * [Great Value Gift Sets](https://www.moonpig.com/uk/flowers-and-plants/gift-sets/)
     * [Luxury Flowers](https://www.moonpig.com/uk/flowers-and-plants/luxury/)
     * [Go Large for £5 Extra](https://www.moonpig.com/uk/flowers-and-plants/go-large/)
@@ -202,7 +128,6 @@ Menu
     * [Birthday](https://www.moonpig.com/uk/flowers-and-plants/birthday/)
     * [Sympathy](https://www.moonpig.com/uk/flowers-and-plants/sympathy/)
     * [Anniversary](https://www.moonpig.com/uk/flowers-and-plants/anniversary/)
-    * [Father's Day](https://www.moonpig.com/uk/flowers-and-plants/fathers-day-plants/)
     * [Celebrations](https://www.moonpig.com/uk/flowers-and-plants/congratulations/)
     * [Thank You](https://www.moonpig.com/uk/flowers-and-plants/thank-you/)
     * [New Baby](https://www.moonpig.com/uk/flowers-and-plants/new-baby/)
@@ -241,7 +166,6 @@ Menu
     * [Best Value Gift Sets](https://www.moonpig.com/uk/gifts/our-best-gift-sets/)
     * [Special Offers](https://www.moonpig.com/uk/offers/)
     * [Luxury](https://www.moonpig.com/uk/gifts/luxury/)
-    * [Fathers Day Gifts £15 & Under](https://www.moonpig.com/uk/gifts/fathers-day/15-under/)
     
     ### Most Popular
     
@@ -254,19 +178,6 @@ Menu
     * [Hampers](https://www.moonpig.com/uk/gifts/hampers/)
     * [Jewellery](https://www.moonpig.com/uk/gifts/jewellery/for-her/)
     * [Beauty & Grooming](https://www.moonpig.com/uk/gifts/beauty/all/)
-    
-    ### Father's Day
-    
-    * [All Father's Day Gifts](https://www.moonpig.com/uk/gifts/fathers-day/all/)
-    * [For Dad](https://www.moonpig.com/uk/gifts/fathers-day/for-dad/)
-    * [For Daddy](https://www.moonpig.com/uk/gifts/fathers-day/for-daddy/)
-    * [For Grandad](https://www.moonpig.com/uk/gifts/fathers-day/for-grandad/)
-    * [Top Picks](https://www.moonpig.com/uk/gifts/fathers-day/top-picks/)
-    * [Alcohol Gifts](https://www.moonpig.com/uk/gifts/fathers-day/alcohol-gifts/)
-    * [Fun & Novelty](https://www.moonpig.com/uk/gifts/fathers-day/novelty/)
-    * [Sweets & Treats](https://www.moonpig.com/uk/gifts/fathers-day/sweets-treats/)
-    * [Personalised Gifts](https://www.moonpig.com/uk/gifts/fathers-day/personalised-gifts/)
-    * [Experience Gifts](https://www.moonpig.com/uk/gifts/fathers-day/time-for-dad/)
     
     ### Shop by Recipient
     
@@ -316,7 +227,6 @@ Menu
     ### Shop by Occasion
     
     * [Birthday](https://www.moonpig.com/uk/gifts/experience-gifts/experience-vouchers/birthday/)
-    * [Father's Day](https://www.moonpig.com/uk/gifts/experience-gifts/fathers-day/)
     * [Anniversary](https://www.moonpig.com/uk/gifts/experience-gifts/experience-vouchers/anniversary/)
     * [Wedding](https://www.moonpig.com/uk/gifts/experience-gifts/experience-vouchers/wedding/)
     * [For Her](https://www.moonpig.com/uk/gifts/experience-gifts/experience-vouchers/for-her/)
@@ -328,13 +238,13 @@ Menu
     ### Shop by Type
     
     * [Subscriptions](https://www.moonpig.com/uk/gifts/experience-gifts/experience-vouchers/subscriptions/)
-    * [Spa & Pamper](https://www.moonpig.com/uk/gifts/experience-gifts/experience-vouchers/spa-days/)
-    * [Afternoon Tea](https://www.moonpig.com/uk/gifts/experience-gifts/experience-vouchers/afternoon-tea/)
+    * [Action & Adventure](https://www.moonpig.com/uk/gifts/experience-gifts/experience-vouchers/adventure/)
+    * [Driving](https://www.moonpig.com/uk/gifts/experience-gifts/experience-vouchers/driving/)
     * [Food & Drink](https://www.moonpig.com/uk/gifts/experience-gifts/experience-vouchers/foodies/)
     * [Days Out](https://www.moonpig.com/uk/gifts/experience-gifts/experience-vouchers/days-out/)
+    * [Spa & Pamper](https://www.moonpig.com/uk/gifts/experience-gifts/experience-vouchers/spa-days/)
+    * [Afternoon Tea](https://www.moonpig.com/uk/gifts/experience-gifts/experience-vouchers/afternoon-tea/)
     * [Short Breaks](https://www.moonpig.com/uk/gifts/experience-gifts/experience-vouchers/short-breaks/)
-    * [Driving](https://www.moonpig.com/uk/gifts/experience-gifts/experience-vouchers/driving/)
-    * [Action & Adventure](https://www.moonpig.com/uk/gifts/experience-gifts/experience-vouchers/adventure/)
     * [Theatre](https://www.moonpig.com/uk/gifts/experience-gifts/experience-vouchers/theatre/)
     
     ### Shop by Location
