@@ -1458,7 +1458,8 @@ The best social media marketing app, influencer marketing management platform & 
     
     Use Cases
     
-    * [eCommerce](https://www.mavrck.co/ecommerce-influencers/)
+    * [CPG](https://www.mavrck.co/cpg-influencers/)
+    * [E-Commerce](https://www.mavrck.co/ecommerce-influencers/)
     
     Demo
     
