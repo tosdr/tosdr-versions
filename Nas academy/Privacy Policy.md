@@ -73,7 +73,7 @@ We may revise this Notice from time to time without any prior notice. You may de
 
 [Creator Accelerator Program](https://nasacademy.com/cap)
 
-[Nas Academy Challenges](https://nasacademy.com/challenges)
+[Challenges](https://nasacademy.com/challenges)
 
 [Artificial Intelligence](https://nasacademy.com/ai)
 
@@ -91,7 +91,7 @@ Copyright©2023 All Rights Reserved by Nas Education
 
 [Creator Accelerator Program](https://nasacademy.com/)
 
-[Nas Academy Challenges](https://nasacademy.com/challenges)
+[Challenges](https://nasacademy.com/challenges)
 
 [Artificial Intelligence](https://nasacademy.com/ai)
 
@@ -109,7 +109,7 @@ Copyright©2023 All Rights Reserved by Nas Education
 
 [Creator Accelerator Program](https://nasacademy.com/)
 
-[Nas Academy Challenges](https://nasacademy.com/challenges)
+[Challenges](https://nasacademy.com/challenges)
 
 [Artificial Intelligence](https://nasacademy.com/ai)
 
