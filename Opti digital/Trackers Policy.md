@@ -8,10 +8,10 @@
     * [Opti Yield](https://www.optidigital.com/opti-yield-la-solution-doptimisation-dynamique-des-revenus/)
     * [Opti Engage](https://www.optidigital.com/opti-engage/)
 * [Ressources](#)
+    * [Actualité](https://www.optidigital.com/actualite/)
     * [Études de Cas](https://www.optidigital.com/cas-clients/)
     * [Événements](https://www.optidigital.com/en/events/)
     * [FAQ](https://knowledge-base.optidigital.com/knowledge)
-* [Actualité](https://www.optidigital.com/actualite/)
 * [Recrutement](https://www.optidigital.com/recrutement/)
 * [Contact](https://www.optidigital.com/contact/)
 
@@ -23,10 +23,10 @@
     * [Opti Yield](https://www.optidigital.com/opti-yield-la-solution-doptimisation-dynamique-des-revenus/)
     * [Opti Engage](https://www.optidigital.com/opti-engage/)
 * [Ressources](#)
+    * [Actualité](https://www.optidigital.com/actualite/)
     * [Études de Cas](https://www.optidigital.com/cas-clients/)
     * [Événements](https://www.optidigital.com/en/events/)
     * [FAQ](https://knowledge-base.optidigital.com/knowledge)
-* [Actualité](https://www.optidigital.com/actualite/)
 * [Recrutement](https://www.optidigital.com/recrutement/)
 * [Contact](https://www.optidigital.com/contact/)
 
