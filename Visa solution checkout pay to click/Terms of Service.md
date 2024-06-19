@@ -7,11 +7,11 @@ Visa Solution Terms of Service
 
 IMPORTANT: PLEASE CAREFULLY READ THE FOLLOWING VISA SOLUTION TERMS OF SERVICE ("TERMS"). YOU HAVE ACKNOWLEDGED THAT YOU UNDERSTAND AND AGREE TO ALL OF THESE TERMS IF YOU HAVE REGISTERED IN THE VISA SOLUTION OR ACTIVATED A CARD FOR THE VISA SOLUTION. THESE TERMS REPLACE ALL PRIOR TERMS IN RESPECT TO THE VISA SOLUTION. 
 
-These Terms will become effective on August 02, 2024.
+These Terms will become effective on August 31, 2024.
 
  
 
-For registrations of the Visa Solution after August 02, 2024, the following section shall apply.
+For registrations of the Visa Solution after August 31, 2024, the following section shall apply.
 
 The Visa Solution is subject to cardholder eligibility. You understand that where your Issuer provides Click to Pay, you may not be eligible for the Visa Solution. Visa may however, co-ordinate with your Issuer (including by sharing information you have provided to register for the Visa Solution) to ensure you receive appropriate and streamlined services. If you are ineligible for the Visa Solution, you understand that acknowledgement and confirmation of these Terms does not create an agreement with Visa and the remaining Terms shall not apply. Capitalized terms are as defined in these Terms.
 
@@ -356,7 +356,7 @@ vi. Czech Republic Residents Only
 
 Subject to section 7 (Charges, Fees and Taxes) above, the Visa Solution is free of charge. The Visa Solution is available for an indefinite period of time until it is terminated by you or Visa and can be terminated at any time.
 
-You have the right to file a complaint to Visa regarding the Visa Solution by using the contact information provided below. Visa will handle the complaint confidentially. Visa will promptly confirm the receipt of your complaint and within thirty (30) days of receiving the complaint, will clearly state what action was taken to address the complaint. If Visa was unable to resolve your complaint, you may refer your complaint to Česká obchodní inspekce (“ČOI”). You can submit your complaint in any official language of the European Union through the ODR-platform provided by the European Commission: [https://ec.europa.eu/consumers/odr/](https://ec.europa.eu/consumers/odr/). The complaint will then be forwarded to ČOI. You may also contact ČOI in the Czech Republic by postal mail or personally: Česká obchodní inspekce, Ústřední inspektorát – oddělení ADR, Štěpánská 44, 110 00 Praha 1, Email: [\[email protected\]](https://usa.visa.com/cdn-cgi/l/email-protection). More information can be found on ČOI’s website: [https://www.coi.cz](https://www.coi.cz/).
+You have the right to file a complaint to Visa regarding the Visa Solution by using the contact information provided below. Visa will handle the complaint confidentially. Visa will promptly confirm the receipt of your complaint and within thirty (30) days of receiving the complaint, will clearly state what action was taken to address the complaint. If Visa was unable to resolve your complaint, you may refer your complaint to Česká obchodní inspekce (“ČOI”). You can submit your complaint in any official language of the European Union through the ODR-platform provided by the European Commission: [https://ec.europa.eu/consumers/odr/](https://ec.europa.eu/consumers/odr/). The complaint will then be forwarded to ČOI. You may also contact ČOI in the Czech Republic by postal mail or personally: Česká obchodní inspekce, Ústřední inspektorát – oddělení ADR, Štěpánská 44, 110 00 Praha 1, Email: [adr@coi.cz](mailto:adr@coi.cz). More information can be found on ČOI’s website: [https://www.coi.cz](https://www.coi.cz/).
 
 vii. Residents of People’s Republic of China (excluding Hong Kong Special Administration Region, Macau Special Administration Region and Taiwan) Only
 
@@ -428,11 +428,11 @@ Visa may, in its sole discretion terminate, suspend and/or discontinue any or al
 
  
 
-If you have any complaint about the Visa Solution, you are entitled to submit it to the Budapest Conciliation Body (mailing address: H-1253 Budapest, POB 10; e-mail: [\[email protected\]](https://usa.visa.com/cdn-cgi/l/email-protection); online submission: [https://uj.bekeltetes.hu/publikus/online-ugy-inditas](https://uj.bekeltetes.hu/publikus/online-ugy-inditas); seat: H- 1016 Budapest, Krisztina krt. 99. I. em. 111; phone: +36 (1) 488 21 31; website for more information: [https://bekeltet.bkik.hu](https://bekeltet.bkik.hu/)).  
+If you have any complaint about the Visa Solution, you are entitled to submit it to the Budapest Conciliation Body (mailing address: H-1253 Budapest, POB 10; e-mail: [bekelteto.testulet@bkik.hu](mailto:bekelteto.testulet@bkik.hu); online submission: [https://uj.bekeltetes.hu/publikus/online-ugy-inditas](https://uj.bekeltetes.hu/publikus/online-ugy-inditas); seat: H- 1016 Budapest, Krisztina krt. 99. I. em. 111; phone: +36 (1) 488 21 31; website for more information: [https://bekeltet.bkik.hu](https://bekeltet.bkik.hu/)).  
 
 You can submit your complaint in any official language of the European Union through the ODR-platform provided by the European Commission: [https://ec.europa.eu/consumers/odr/](https://ec.europa.eu/consumers/odr/).
 
-You can also submit your complaint to the consumer protection authority having competence based on your home address in Hungary. If you do not have a home address in Hungary, the competent authority is the Budapest consumer protection authority (seat and mailing address: H-1117 Budapest, Prielle Kornélia u. 4/b; e-mail: [\[email protected\]](https://usa.visa.com/cdn-cgi/l/email-protection); phone: 06 (1) 450 25 98).
+You can also submit your complaint to the consumer protection authority having competence based on your home address in Hungary. If you do not have a home address in Hungary, the competent authority is the Budapest consumer protection authority (seat and mailing address: H-1117 Budapest, Prielle Kornélia u. 4/b; e-mail: [fogyved\_kmf\_budapest@bfkh.gov.hu](mailto:fogyved_kmf_budapest@bfkh.gov.hu); phone: 06 (1) 450 25 98).
 
 The language of the contract based on these Terms shall be Hungarian.
 
@@ -486,7 +486,7 @@ xii. Poland Residents Only
 
  
 
-If you are a resident of Poland and you signed up after August 02, 2024, the following provisions apply to you instead of the respectively numbered sections above:
+If you are a resident of Poland and you signed up after August 31, 2024, the following provisions apply to you instead of the respectively numbered sections above:
 
 **PREAMBLE:**
 
@@ -671,7 +671,7 @@ xv. Slovakia Residents Only
 
 Subject to section 7 (Charges, Fees and Taxes) above, the Visa Solution is free of charge. The Visa Solution is available for an indefinite period of time until it is terminated by you or Visa at any time in accordance with section 16 (Modification of the Visa Solution and these Terms; Termination), which includes your withdrawal rights under applicable laws.
 
-You have the right to file a complaint to Visa regarding the Visa Solution by using the contact information provided below. Visa will handle your complaint confidentially. Visa will promptly confirm the receipt of your complaint and within thirty (30) days of receiving the complaint, will clearly state what action was taken to address the complaint. If Visa was unable to resolve your complaint, you may refer your complaint to Slovenská obchodná inšpekcia (“SOI”). You can submit your complaint in any official language of the European Union through the ODR-platform provided by the European Commission: [https://ec.europa.eu/consumers/odr/](https://ec.europa.eu/consumers/odr/). The complaint will then be forwarded to SOI. You may also contact SOI in Slovakia by postal mail or personally: Slovenská obchodná inšpekcia, Odbor pre medzinárodné vzťahy a alternatívne riešenie spotrebiteľských sporov, Bajkalská 21/A, 827 99 Bratislava, Email: [\[email protected\]](https://usa.visa.com/cdn-cgi/l/email-protection). More information can be found on the SOI’s website: [https://www.soi.sk/sk/alternativne-riesenie-spotrebitelskych-sporov.soi](https://www.soi.sk/sk/alternativne-riesenie-spotrebitelskych-sporov.soi).
+You have the right to file a complaint to Visa regarding the Visa Solution by using the contact information provided below. Visa will handle your complaint confidentially. Visa will promptly confirm the receipt of your complaint and within thirty (30) days of receiving the complaint, will clearly state what action was taken to address the complaint. If Visa was unable to resolve your complaint, you may refer your complaint to Slovenská obchodná inšpekcia (“SOI”). You can submit your complaint in any official language of the European Union through the ODR-platform provided by the European Commission: [https://ec.europa.eu/consumers/odr/](https://ec.europa.eu/consumers/odr/). The complaint will then be forwarded to SOI. You may also contact SOI in Slovakia by postal mail or personally: Slovenská obchodná inšpekcia, Odbor pre medzinárodné vzťahy a alternatívne riešenie spotrebiteľských sporov, Bajkalská 21/A, 827 99 Bratislava, Email: [ars@soi.sk](mailto:ars@soi.sk). More information can be found on the SOI’s website: [https://www.soi.sk/sk/alternativne-riesenie-spotrebitelskych-sporov.soi](https://www.soi.sk/sk/alternativne-riesenie-spotrebitelskych-sporov.soi).
 
 xvi. Slovenia Residents Only
 
@@ -715,7 +715,7 @@ L. **Contact Us.
 
  
 
-Last Updated: August 2, 2024
+Last Updated: August 31, 2024
 
 © 2024 Visa. All rights reserved.
 
