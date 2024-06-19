@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Thanks again for the excellent customer support. I have been a customer for several years now and continue to be impressed.
+A great service. This allowed me to catch up on all my UK TV Shows via iPlayer from Australia. Great speed and high reliability. I also used the service to manage and test a GeoIP'd website I run from the UK. Again... quick, easy no hassle.
 
-Patrick O'Toole
+Ian Bissett
