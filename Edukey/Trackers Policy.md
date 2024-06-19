@@ -6,7 +6,7 @@
     
 * [Contact us](https://www.tes.com/en-gb/contact)
     
-* [Login](https://www.tes.com/en-gb/login)
+* [Log in](https://www.tes.com/en-gb/login)
     
 
 Select a language
@@ -120,7 +120,7 @@ TES Close
     
 * [Contact us](https://www.tes.com/en-gb/contact)
     
-* [Login](https://www.tes.com/en-gb/login)
+* [Log in](https://www.tes.com/en-gb/login)
     
 
 Select a language
@@ -132,7 +132,7 @@ International schoolsUK editionAustralia edition
 Cookies Policy
 ==============
 
-LAST UPDATED 09 JUNE 2024 Open all
+LAST UPDATED 17 JUNE 2024 Open all
 
 1\. What are cookies?
 
