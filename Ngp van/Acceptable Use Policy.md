@@ -124,7 +124,6 @@ Programs
 * [DLCC GO](http://www.dlccgo.com/ "DLCC GO")
 * [DMO Go](http://www.dmo-go.com/ "DMO Go")
 * [Votebuilder](http://votebuilder.com/ "Votebuilder")
-* [Run for Something](https://go.ngpvan.com/ngp-run-for-something.html "Run for Something")
 
 We use [cookies](https://www.ngpvan.com/cookie-policy/) on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking “Accept”, you consent to the use of ALL the cookies. However you may visit Cookie Settings to provide a controlled consent.
 
