@@ -271,7 +271,7 @@ Claim your Linktree
 
 #### Community
 
-[Linktree for Enterprise](https://linktr.ee/s/about/enterprise/)[2023 Creator Report](https://linktr.ee/creator-report-23)[2022 Creator Report](https://linktr.ee/creator-report/)[Charities](https://linktr.ee/s/about/charities/)[Creator Profile Directory](https://linktr.ee/discover/profile-directory/)[Explore Templates](https://linktr.ee/s/templates/)
+[Linktree for Enterprise](https://linktr.ee/s/about/enterprise/)[2023 Creator Report](https://linktr.ee/creator-report-23)[2022 Creator Report](https://linktr.ee/creator-report/)[Charities](https://linktr.ee/s/about/charities/)[What's Trending](https://linktr.ee/discover/trending)[Creator Profile Directory](https://linktr.ee/discover/profile-directory/)[Explore Templates](https://linktr.ee/s/templates/)
 
 #### Support
 
@@ -291,7 +291,7 @@ Cookie Preferences
 
 [](https://linktr.ee/linktr.ee)
 
-[](https://twitter.com/linktree_)
+[](https://www.threads.net/@linktr.ee)
 
 [](https://tiktok.com/@linktr.ee)
 
