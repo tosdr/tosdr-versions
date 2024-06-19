@@ -11,16 +11,16 @@ Get your deals](https://www.thomann.de/gb/social_70th-anniversary.html)
 * [About Us](https://www.thomann.de/gb/compinfo.html)
 
 * [Categories](#)
-* [Hot Deals](https://www.thomann.de/gb/hotdeals.html?ref=hea_hod)
-* [New](https://www.thomann.de/gb/prodnews.html?ref=hea_new)
-* [Top-Seller](https://www.thomann.de/gb/topseller.html?ref=hea_tos)
-* [Bargains](https://www.thomann.de/gb/blowouts.html?ref=hea_blo)
+* [Hot Deals](https://www.thomann.de/gb/hotdeals.html)
+* [New](https://www.thomann.de/gb/prodnews.html)
+* [Top-Seller](https://www.thomann.de/gb/topseller.html)
+* [Bargains](https://www.thomann.de/gb/blowouts.html)
 
 [![Thomann](https://fast-images.static-thomann.de/pics//images/logos/thomann-cyan-black.svg)](https://www.thomann.de/gb/index.html)
 
 search  
 
-* [Free Shipping Over £149](https://www.thomann.de/gb/helpdesk_shipping.html?ref=hea_shf)
+* [Repair Service](https://www.thomann.de/gb/helpdesk_repair.html)
 * [30-Days Money-Back](https://www.thomann.de/gb/helpdesk_moneyback.html)
 
 en · £
@@ -714,7 +714,7 @@ Give Feedback
 
 Your Feedback
 
-  ![newsletter](https://fast-images.static-thomann.de/pics/images/misc/placeholder.svg)Looking for inspiration, new gear and deals? Subscribe to the Thomann Newsletter and with a bit of luck win one of 70 vouchers worth €70 each! [Sign up now](https://www.thomann.de/gb/newsletter.html?ref=nl_scta_alternative)
+  ![newsletter](https://fast-images.static-thomann.de/pics/images/misc/placeholder.svg)Looking for inspiration, new gear and deals? Subscribe to the Thomann Newsletter and with a bit of luck win one of 70 vouchers worth €70 each! [Sign up now](https://www.thomann.de/gb/newsletter.html)
 
 #### Shop and pay safely
 
@@ -740,12 +740,7 @@ Payment can be made safely and securely with PayPal, Credit Card or Bank Transfe
 * [Walk-in Store](https://www.thomann.de/intl/compinfo_route.html)
 * [Service Overview](https://www.thomann.de/intl/helpdesk_service.html)
 
-* [Terms & Conditions](https://www.thomann.de/intl/compinfo_terms.html)
-    
-    /
-    
-    [Imprint](https://www.thomann.de/intl/compinfo_imprint.html)
-    
+* [Terms & Conditions](https://www.thomann.de/intl/compinfo_terms.html) / [Imprint](https://www.thomann.de/intl/compinfo_imprint.html)
 * [Privacy Policy](https://www.thomann.de/intl/compinfo_privacy.html)
 * [Cookie Settings](#cookie-privacy-settings)
 * [Right of Withdrawal](https://www.thomann.de/intl/compinfo_cancellation.html)
@@ -762,6 +757,8 @@ Payment can be made safely and securely with PayPal, Credit Card or Bank Transfe
 * [Classified Ads](https://www.thomann.de/intl/classified.html)
 * [Whistleblower system](https://www.thomann.de/intl/compinfo_compliance.html)
 
-© 1996–2024 Thomann GmbH. Thomann loves you, because you rock!
-
  [![](https://thumbs.static-thomann.de/thumb//convert/pics/images/footer/download-app-store.svg)](https://apps.apple.com/gb/app/id1035256782)[![](https://thumbs.static-thomann.de/thumb//convert/pics/images/footer/download-google-play.svg)](https://play.google.com/store/apps/details?id=de.thomann)
+
+© 1996–2024 Thomann GmbH.
+
+Thomann loves you, because you rock!
