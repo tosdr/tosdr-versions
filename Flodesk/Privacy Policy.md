@@ -30,7 +30,7 @@ Table of contents
 
 [All Collections](https://help.flodesk.com/en/)
 
-[Compliance and Deliverability](https://help.flodesk.com/en/collections/1860807-compliance-and-deliverability)
+[Compliance](https://help.flodesk.com/en/collections/1860807-compliance)
 
 Data Processing Addendum
 
@@ -166,7 +166,7 @@ Did this answer your question?
 
 [![Flodesk Help Center](https://downloads.intercomcdn.com/i/o/435002/a15ede81807d21626d07a3b4/1ab24cd1227b36f899eb4f0140cc6a52.png)](https://help.flodesk.com/en/)
 
-support@flodesk.com
+To contact our help desk, send us an email to support@flodesk.com.
 
 * [![](https://intercom.help/flodeskinc/assets/svg/icon:social-facebook/737a80)](https://www.facebook.com/flodeskinc)
 * [![](https://intercom.help/flodeskinc/assets/svg/icon:social-twitter/737a80)](https://www.twitter.com/flodeskinc)
