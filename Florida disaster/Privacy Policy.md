@@ -60,7 +60,7 @@ Search
         * [Budget](https://www.floridadisaster.org/dem/finance/budget/)
         * [Disbursement](https://www.floridadisaster.org/dem/finance/disbursement/)
         * [Financial Grants Management](https://www.floridadisaster.org/dem/finance/financial-grants-management/)
-        * [Fiscal Program Management](https://www.floridadisaster.org/dem/finance/fiscal-program-management/)
+        * [Fiscal Operations](https://www.floridadisaster.org/dem/finance/fiscal-operations/)
     * [Procurement](https://www.floridadisaster.org/dem/procurement-and-contract-management/)
         * [How to Do Business With the State](https://www.floridadisaster.org/dem/procurement-and-contract-management/how-to-do-business-with-the-state/)
     * [Preparedness](https://www.floridadisaster.org/dem/preparedness/)
@@ -162,6 +162,8 @@ Search
 
  ![](/Content/images/icon-menu.png) MENU
 
+June South FL Flash Flooding [For Updates](https://www.floridadisaster.org/june-south-florida-flash-flooding/)
+
 May Severe Weather Updates [For Recovery Information](https://www.floridadisaster.org/may-north-florida-severe-weather/)
 
 January Severe Weather Updates [For Recovery Information](https://www.floridadisaster.org/storminfo/)
@@ -199,9 +201,9 @@ Dial 711 (TDD/TTY)        
 
 ### Weather Outlook
 
-**Saturday, June 8, 2024**
+**Tuesday, June 18, 2024**
 
-**...Scattered Showers and Thunderstorms Ongoign Across South Florida This Morning...Scattered Showers and Thunderstorms To Develop South of I-4 and Along the Keys With The Sea Breezes This Afternoon, Continuing Into The Overnight Hours...A Few Storms May Be Strong to Severe...Instances of Flooding and Ponding of Water Cannot Be Ruled Out Over Urban and Low-Lying/Poor Drainage Areas...Mostly Sunny and Dry Conditions North of I-4 And Along the Florida Panhandle...Heat Indices In the Triple Digits (100-106) Across The Peninsula and Keys; Heat Advisories Cannot Be Ruled Out...Sensitive to Locally Elevated Wildfire Conditions Across Interior North and Central Florida...Wind Gusts Near 15-25 MPH At Times InThe Northern Peninsula..Patchy Fog Possible Overnight and Early Sunday Morning Across Interior North and Central Florida...**
+**...High Pressure Continues to Drier Conditions Across the Sunshine State...Shower and Thunderstorm Activity to Be Limited, But Possible for the Eastern Peninsula...Greatest Coverage for Showers and Possible Thunderstorms Across Space and Treasure Coasts...Breezy Wind Gusts of 20-25 MPH Nearly Statewide, With Stronger Wind Gusts Upwards of 30 MPH...Heat Index Values Near or At Triple Digits for Portions of West-Central and Southwest Florida This Afternoon...High Risk for Rip Currents and Dangerous Beach and Boating Conditions for All Panhandle and East Coast Beaches...Potential Tropical Cyclone (PTC) One Over Southwestern Gulf of Mexico to Approch Western Gulf Coast Late Wednesday; No Direct Threat to Florida...Area of Cloudiness and Showers Well East of Bahamas to Apprach Southeastern U.S. Coast on Friday; System Continues to Be Monitored...Another Broad Area of Low Pressure Forecast to Develop Over Southwestern Gulf of Mexico this Weekend; No Direct Threat to Florida At This Time...**
 
 [More Details](https://www.floridadisaster.org/weather/)
 
