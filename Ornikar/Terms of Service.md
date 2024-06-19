@@ -4,7 +4,7 @@
 
 Permis de conduire
 
-[Permis B](https://www.ornikar.com/permis)[Conduite accompagnée](https://www.ornikar.com/conduite-accompagnee)[Conduite à la carte](https://www.ornikar.com/conduite)[Financement CPF](https://www.ornikar.com/permis/demarches/financer-permis/cpf)[Contacter un conseiller](https://app.ornikar.com/contacter-un-conseiller?origin=menu)
+[Permis B](https://www.ornikar.com/permis)[Conduite accompagnée](https://www.ornikar.com/conduite-accompagnee)[Conduite à la carte](https://www.ornikar.com/conduite)[Financement CPF](https://www.ornikar.com/permis/demarches/financer-permis/cpf)[Contacter un conseiller](https://app.ornikar.com/inscription?redirect=%2Fcontacter-un-conseiller%3Forigin%3Dmenu)
 
 [Assurance auto](https://www.ornikar.com/assurance-auto)
 
@@ -209,11 +209,11 @@ adaptée à votre profil de conducteur.
 
 J'obtiens mon tarif](https://www.ornikar.com/assurance-auto)
 
-[**_Télécharger la version actuelle_**](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/665732a85b5f02034320e24b_CGV_2024_05_28.pdf)
+[**_Télécharger la version actuelle_**](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/666ffa17beb2276aeffaf47b_2024-06-17-CGV-ORNIKAR.pdf)
 
 [**_Voir les versions précédentes_**](https://www.ornikar.com/a-propos/conditions-generales-de-vente#versions-precedentes)
 
-**Dernière mise à jour le 28 mai 2024**
+**Dernière mise à jour le 17 juin 2024**
 
 **‍**
 
@@ -312,7 +312,7 @@ Notre Société propose sur le Site les Produits et Services suivants :
 
 Cette formule, applicable à l’Examen Théorique Général (ci-après « ETG ») uniquement et disponible sous l’onglet « _Code de la route »_, ou _« Boutique »_ comprend les éléments suivants :
 
-* des contenus pédagogiques présentés sous la forme de séries de  questions (plus de 2000 questions) avec leur correction, réparties en dix (10) thèmes, conformément au code de la route et au Référentiel pour l’Education à une Mobilité Citoyenne (REMC).
+* des contenus pédagogiques présentés sous la forme de séries de  questions (plus de 1500 questions) avec leur correction, réparties en dix (10) thèmes, conformément au code de la route et au Référentiel pour l’Education à une Mobilité Citoyenne (REMC).
 * trois (3) modes d’évaluation des connaissances sont proposés : le mode entraînement, qui Vous permet de Vous entraîner à votre rythme, avec une réponse commentée à chaque fin de question ; le mode examen, qui Vous permet de Vous entraîner dans les mêmes conditions que l’examen officiel, avec un temps limité par question ; et enfin le mode thématique, qui Vous permet de Vous entraîner par thème officiel du REMC pour les approfondir à votre rythme.
 
 #### 4.1.1. Sur le site internet
@@ -332,7 +332,7 @@ Sur l’application mobile, la formule « Code de la route » est disponible sou
 
 **Cette** formule vous est proposé uniquement si Vous avez déjà acheté la formule “Code de la route” ou une formule conduite comprenant le Produit code de la route.  
   
-Il est composé de contenus pédagogiques répartis en quatres (4) chapitres sous forme de vidéos (face caméra et motion design) et de fiches de cours. 
+Il est composé de contenus pédagogiques répartis en quatre (4) chapitres sous forme de vidéos (face caméra et motion design) et de fiches de cours. 
 
 Le prix de la formule « _Réussite Code_\+ » se trouve en Annexe 1.
 
@@ -350,7 +350,7 @@ Cette formule est valable pour une durée de douze (12) mois à compter de la Co
 
 Cette formule, disponible sous l’onglet « _Boutique_ », puis « _Code + 1h d’évaluation_ », comprend les éléments suivants :
 
-* La formule “Code de la route”, qui comprend des contenus pédagogiques présentés sous la forme de séries de questions (plus de 2000 questions) avec leur correction, réparties en dix (10) thèmes, conformément au code de la route et au Référentiel pour l’Education à une Mobilité Citoyenne (REMC). Trois modes d’évaluation des connaissances sont proposés : le mode entraînement, qui vous permet de vous entraîner à votre rythme, avec une réponse commentée à chaque fin de question, le mode examen, qui vous permet de vous entraîner dans les mêmes conditions que l’examen officiel, avec un temps limité par question, et enfin le mode thématique qui vous permet de vous entraîner par thème officiel du REMC pour les approfondir à son rythme ;
+* La formule “Code de la route”, qui comprend des contenus pédagogiques présentés sous la forme de séries de questions (plus de 1500 questions) avec leur correction, réparties en dix (10) thèmes, conformément au code de la route et au Référentiel pour l’Education à une Mobilité Citoyenne (REMC). Trois modes d’évaluation des connaissances sont proposés : le mode entraînement, qui vous permet de vous entraîner à votre rythme, avec une réponse commentée à chaque fin de question, le mode examen, qui vous permet de vous entraîner dans les mêmes conditions que l’examen officiel, avec un temps limité par question, et enfin le mode thématique qui vous permet de vous entraîner par thème officiel du REMC pour les approfondir à son rythme ;
 * La formule “Une heure d’évaluation”, qui comprend une première heure d’évaluation avec un Enseignant titulaire du brevet pour l’exercice de la profession d’Enseignant de la conduite automobile et de la sécurité routière (BEPECASER), permettant d’évaluer votre besoin de formation. Cette évaluation est réalisée avant toute formation pratique, conformément à l’article L. 213-2 du code de la route ;
 
 Le prix de la formule « _Code + 1h d’évaluation_ » se trouve en Annexe 1 (Grille tarifaire).
@@ -369,7 +369,7 @@ Les leçons de conduite sont valables pour une durée de douze (12) mois à comp
 
 Cette formule, disponible sur la page « _Espace examen_ » ou « _Boutique_ » est composée du « _Code de la route_ » ainsi que de dix-sept (17) leçons de conduite et comprend les éléments suivants :
 
-* des contenus pédagogiques présentés sous la forme de séries de questions (plus de 2000 questions) avec leur correction, réparties en dix (10) thèmes, conformément au code de la route et au Référentiel pour l’Education à une Mobilité Citoyenne (REMC). Trois (3) modes d’évaluation des connaissances sont proposés : le mode entraînement, qui Vous permet de vous entrainer à votre rythme, avec une réponse commentée à chaque fin de question ; le mode examen, qui Vous permet de Vous entrainer dans les mêmes conditions que l’examen officiel, avec un temps limité par question ; et enfin le mode thématique qui Vous permet de vous entrainer par thème officiel du REMC pour les approfondir à votre rythme ;
+* des contenus pédagogiques présentés sous la forme de séries de questions (plus de 1500 questions) avec leur correction, réparties en dix (10) thèmes, conformément au code de la route et au Référentiel pour l’Education à une Mobilité Citoyenne (REMC). Trois (3) modes d’évaluation des connaissances sont proposés : le mode entraînement, qui Vous permet de vous entrainer à votre rythme, avec une réponse commentée à chaque fin de question ; le mode examen, qui Vous permet de Vous entrainer dans les mêmes conditions que l’examen officiel, avec un temps limité par question ; et enfin le mode thématique qui Vous permet de vous entrainer par thème officiel du REMC pour les approfondir à votre rythme ;
 * Dix-sept (17) leçons de conduite, dont une heure d’évaluation, avec un Enseignant titulaire du brevet pour l’exercice de la profession d’Enseignant de la conduite automobile et de la sécurité routière (BEPECASER), permettant d’évaluer votre besoin de formation. Cette évaluation est réalisée avant toute formation pratique, conformément à l’article L. 213-2 du code de la route ;
 * Elearn : contenu d’apprentissage de la conduite en ligne découpé en huit (8) parcours thématiques, à savoir :
 
@@ -393,7 +393,7 @@ La formule « Code de la route », l’Elearn et les leçons de conduite sont va
 
 Cette formule, disponible sur la page « Espace examen » ou « Boutique » est composée du « Code de la route » ainsi que de douze (12) leçons de conduite et comprend les éléments suivants :
 
-* des contenus pédagogiques présentés sous la forme de séries de questions (plus de 2000 questions) avec leur correction, réparties en dix (10) thèmes, conformément au code de la route et au Référentiel pour l’Education à une Mobilité Citoyenne (REMC). Trois (3) modes d’évaluation des connaissances sont proposés : le mode entraînement, qui Vous permet de vous entrainer à votre rythme, avec une réponse commentée à chaque fin de question ; le mode examen, qui Vous permet de Vous entrainer dans les mêmes conditions que l’examen officiel, avec un temps limité par question ; et enfin le mode thématique qui Vous permet de vous entrainer par thème officiel du REMC pour les approfondir à votre rythme ;
+* des contenus pédagogiques présentés sous la forme de séries de questions (plus de 1500 questions) avec leur correction, réparties en dix (10) thèmes, conformément au code de la route et au Référentiel pour l’Education à une Mobilité Citoyenne (REMC). Trois (3) modes d’évaluation des connaissances sont proposés : le mode entraînement, qui Vous permet de vous entrainer à votre rythme, avec une réponse commentée à chaque fin de question ; le mode examen, qui Vous permet de Vous entrainer dans les mêmes conditions que l’examen officiel, avec un temps limité par question ; et enfin le mode thématique qui Vous permet de vous entrainer par thème officiel du REMC pour les approfondir à votre rythme ;
 * Douze (12) leçons de conduite, dont une heure d’évaluation, avec un Enseignant titulaire du brevet pour l’exercice de la profession d’Enseignant de la conduite automobile et de la sécurité routière (BEPECASER), permettant d’évaluer votre besoin de formation. Cette évaluation est réalisée avant toute formation pratique, conformément à l’article L. 213-2 du code de la route ;
 * Elearn : contenu d’apprentissage de la conduite en ligne découpé en huit (8) parcours thématiques, à savoir :
 
@@ -417,7 +417,7 @@ La formule « Code de la route », l’Elearn et les leçons de conduite sont va
 
 Cette formule, composée du « Code de la route » ainsi que de vingt-huit (28) leçons de conduite, comprend les éléments suivants :
 
-* des contenus pédagogiques présentés sous la forme de séries de questions (plus de 2000 questions) avec leur correction, réparties en dix (10) thèmes, conformément au code de la route et au Référentiel pour l’Education à une Mobilité Citoyenne (REMC). Trois modes d’évaluation des connaissances sont proposés : le mode entraînement, qui vous permet de vous entrainer à votre rythme, avec une réponse commentée à chaque fin de question, le mode examen, qui vous permet de vous entrainer dans les mêmes conditions que l’examen officiel, avec un temps limité par question, et enfin le mode thématique qui vous permet de vous entrainer par thème officiel du REMC pour les approfondir à son rythme ;
+* des contenus pédagogiques présentés sous la forme de séries de questions (plus de 1500 questions) avec leur correction, réparties en dix (10) thèmes, conformément au code de la route et au Référentiel pour l’Education à une Mobilité Citoyenne (REMC). Trois modes d’évaluation des connaissances sont proposés : le mode entraînement, qui vous permet de vous entrainer à votre rythme, avec une réponse commentée à chaque fin de question, le mode examen, qui vous permet de vous entrainer dans les mêmes conditions que l’examen officiel, avec un temps limité par question, et enfin le mode thématique qui vous permet de vous entrainer par thème officiel du REMC pour les approfondir à son rythme ;
 * une (1) heure d’évaluation préalable
 * vingt-sept (27) leçons de conduite dont :
 
@@ -461,7 +461,7 @@ Cette formule est valable pour une durée de vingt-quatre (24) mois à compter d
 
 Cette formule, composée du « Code de la route » ainsi que de vingt-et-un (21) leçons de conduite, comprend les éléments suivants :
 
-* des contenus pédagogiques présentés sous la forme de séries de questions (plus de 2000 questions) avec leur correction, réparties en dix (10) thèmes, conformément au code de la route et au Référentiel pour l’Education à une Mobilité Citoyenne (REMC). Trois modes d’évaluation des connaissances sont proposés : le mode entraînement, qui vous permet de vous entrainer à votre rythme, avec une réponse commentée à chaque fin de question, le mode examen, qui vous permet de vous entrainer dans les mêmes conditions que l’examen officiel, avec un temps limité par question, et enfin le mode thématique qui vous permet de vous entrainer par thème officiel du REMC pour les approfondir à son rythme ;
+* des contenus pédagogiques présentés sous la forme de séries de questions (plus de 1500 questions) avec leur correction, réparties en dix (10) thèmes, conformément au code de la route et au Référentiel pour l’Education à une Mobilité Citoyenne (REMC). Trois modes d’évaluation des connaissances sont proposés : le mode entraînement, qui vous permet de vous entrainer à votre rythme, avec une réponse commentée à chaque fin de question, le mode examen, qui vous permet de vous entrainer dans les mêmes conditions que l’examen officiel, avec un temps limité par question, et enfin le mode thématique qui vous permet de vous entrainer par thème officiel du REMC pour les approfondir à son rythme ;
 * une (1) heure d’évaluation préalable
 * vingt (20) leçons de conduite dont :
 
@@ -971,6 +971,8 @@ Une tarification différente peut vous être appliquée en fonction de la zone g
 
 ![](https://cdn.prod.website-files.com/6413856d54d41b5f298d5953/65b7d468321d81a99834a4d8_zones-30-01-24.PNG)
 
+‍
+
 Annexe 2 – Modèle de formulaire de rétractation
 -----------------------------------------------
 
@@ -999,9 +1001,10 @@ _(\*) Rayez si mention inutile._
 Versions précédentes
 --------------------
 
-* [Version applicable du 18 mars 2024 au 27 mai 2024](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/665732a8268640a6cafe720b_CGV_2024_03_18.pdf)
-* [Version applicable du 30 janvier 2024 au 17 mars 2024](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/665732a8e4d5e237b7eaa6e7_CGV_2024_01_30.pdf)
-* [Version applicable du 15 novembre 2023 au 29 janvier 2024](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/665732a811def3fe1600c51b_CGV_2023_11_15.pdf)
+* [**Version applicable du 28 mai 2021 au 16 juin 2024**](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/665732a85b5f02034320e24b_CGV_2024_05_28.pdf)
+* [**Version applicable du 18 mars 2024 au 27 mai 2024**](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/665732a8268640a6cafe720b_CGV_2024_03_18.pdf)
+* [**Version applicable du 30 janvier 2024 au 17 mars 2024**](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/665732a8e4d5e237b7eaa6e7_CGV_2024_01_30.pdf)
+* [**Version applicable du 15 novembre 2023 au 29 janvier 2024**](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/665732a811def3fe1600c51b_CGV_2023_11_15.pdf)
 * [**Version applicable du 6 septembre 2023 au 14 novembre 2023**](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/64f89e6632b00a1048468c31_2023-09-06-CGV%20Ornikar.pdf)
 * [**Version applicable du 20 juillet 2023 au 5 septembre 2023**](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/64c0f0074aa4f4832e328656_2023_07_20%20-%20CGV%20Ornikar.pdf)
 * [**Version applicable du 24 mai 2023 au 19 juillet 2023**](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/646e014f9c3fa7c23806b589_Les%20Conditions%20ge%CC%81ne%CC%81rales%20de%20vente%2024-05-2023.pdf)
@@ -1132,6 +1135,8 @@ Envie d'en savoir plus
 [Ornikar dans le FT120 2024](https://www.ornikar.com/a-propos/french-tech-120)
 
 [Les jours Ornikar](https://www.ornikar.com/a-propos/promo-mai-2024)
+
+[Partenaires d'Ornikar](https://www.ornikar.com/a-propos/nos-partenaires-education-et-assurance)
 
 [Promo Flash Avril 2024](https://www.ornikar.com/a-propos/bons-plans/promo-flash-avril-2024)
 
