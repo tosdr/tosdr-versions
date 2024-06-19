@@ -2,8 +2,8 @@
 
 [![alt text](/fileadmin/twipla/typo3-website-theme/template/images/flags/svg/en-us.svg)](# "English")
 
-* [![alt text](/fileadmin/twipla/typo3-website-theme/template/images/flags/svg/en-us.svg)English](https://www.visitor-analytics.io/en/support/legal-data-privacy-certificates/standard-integration/privacy-policy?amp%3Butm_campaign=octobercms "English")
-* [![alt text](/fileadmin/twipla/typo3-website-theme/template/images/flags/svg/de-de.svg)Deutsch](https://www.visitor-analytics.io/de/support/rechtliches-datenschutz-zertifikate/standardintegration/datenverarbeitungsvertrag-cookie-informationen?amp%3Butm_campaign=octobercms "Deutsch")
+* [![alt text](/fileadmin/twipla/typo3-website-theme/template/images/flags/svg/en-us.svg)English](https://www.visitor-analytics.io/en/support/legal-data-privacy-certificates/standard-integration/privacy-policy?mdrv%3Dwww_twipla_com= "English")
+* [![alt text](/fileadmin/twipla/typo3-website-theme/template/images/flags/svg/de-de.svg)Deutsch](https://www.visitor-analytics.io/de/support/rechtliches-datenschutz-zertifikate/standardintegration/datenverarbeitungsvertrag-cookie-informationen?mdrv%3Dwww_twipla_com= "Deutsch")
 
 * [Why Us?](https://www.visitor-analytics.io/en/why-us/why-you-should-use-twipla "Why Us?")![](/fileadmin/twipla/typo3-website-theme/template/images/icons/down-arrow.svg)
     * [Why You Should Use TWIPLA](https://www.visitor-analytics.io/en/why-us/why-you-should-use-twipla "Why You Should Use TWIPLA")
@@ -89,10 +89,10 @@
     * [Book a Free Product Demo](https://www.visitor-analytics.io/en/book-a-free-demo "Book a Free Product Demo")
     
 
-[![alt text](/fileadmin/twipla/typo3-website-theme/template/images/flags/svg/en-us.svg)](https://www.visitor-analytics.io/en/support/legal-data-privacy-certificates/standard-integration/privacy-policy?amp%3Butm_campaign=octobercms "English")
+[![alt text](/fileadmin/twipla/typo3-website-theme/template/images/flags/svg/en-us.svg)](https://www.visitor-analytics.io/en/support/legal-data-privacy-certificates/standard-integration/privacy-policy?mdrv%3Dwww_twipla_com= "English")
 
-* [![alt text](/fileadmin/twipla/typo3-website-theme/template/images/flags/svg/en-us.svg)English](https://www.visitor-analytics.io/en/support/legal-data-privacy-certificates/standard-integration/privacy-policy?amp%3Butm_campaign=octobercms "English")
-* [![alt text](/fileadmin/twipla/typo3-website-theme/template/images/flags/svg/de-de.svg)Deutsch](https://www.visitor-analytics.io/de/support/rechtliches-datenschutz-zertifikate/standardintegration/datenverarbeitungsvertrag-cookie-informationen?amp%3Butm_campaign=octobercms "Deutsch")
+* [![alt text](/fileadmin/twipla/typo3-website-theme/template/images/flags/svg/en-us.svg)English](https://www.visitor-analytics.io/en/support/legal-data-privacy-certificates/standard-integration/privacy-policy?mdrv%3Dwww_twipla_com= "English")
+* [![alt text](/fileadmin/twipla/typo3-website-theme/template/images/flags/svg/de-de.svg)Deutsch](https://www.visitor-analytics.io/de/support/rechtliches-datenschutz-zertifikate/standardintegration/datenverarbeitungsvertrag-cookie-informationen?mdrv%3Dwww_twipla_com= "Deutsch")
 
 [![](/fileadmin/twipla/typo3-website-theme/template/images/icons/user-circle.svg)
 
@@ -277,16 +277,6 @@ We comply with the [Google API Services User Data Policy](https://developers.goo
 Please insert a valid email address.
 
 **Subscribe**![](/fileadmin/twipla/typo3-website-theme/template/images/icons/circle-arrow-right.svg)
-
-[**Latest News From Our Blog**](https://www.visitor-analytics.io/en/blog)
-
-[Sleep Tight, Data Safe: Secure Data Storage Guide](https://www.visitor-analytics.io/en/blog/secure-data-storage)
-
-[Website Intelligence News Roundup May 2024](https://www.visitor-analytics.io/en/blog/website-intelligence-news-roundup-may-2024)
-
-[Data Detox: Mastering the Principles of Data Minimization](https://www.visitor-analytics.io/en/blog/data-minimization)
-
-[Read More Articles ![read-arrow.svg](/fileadmin/twipla/typo3-website-theme/template/images/icons/read-arrow.svg)](https://www.visitor-analytics.io/en/blog) 
 
 **Quicklinks**
 
