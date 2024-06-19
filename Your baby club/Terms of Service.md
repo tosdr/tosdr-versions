@@ -20,7 +20,7 @@
         * [All Things Pregnancy](https://www.yourbabyclub.com/category/pregnancy-865)
         * [Pregnancy By Week](https://www.yourbabyclub.com/category/pregnancy-by-week-799)
         * [Pregnancy By Trimester](https://www.yourbabyclub.com/category/pregnancy-by-trimester-13)
-        * [Prenatal Health & Fitness](https://www.yourbabyclub.com/category/prenatal-health-fitness-wellbeing-741)
+        * [Prenatal Health & Fitness](https://www.yourbabyclub.com/category/prenatal-health-fitness-741)
         * [Labor](https://www.yourbabyclub.com/category/labor-120)
         * [Baby Names](https://www.yourbabyclub.com/category/baby-names-621)
         * [Miscarriage, Loss & Birth Trauma](https://www.yourbabyclub.com/category/miscarriage-loss-birth-trauma-277)
@@ -88,7 +88,7 @@
     * [All Things Pregnancy](https://www.yourbabyclub.com/category/pregnancy-865)
     * [Pregnancy By Week](https://www.yourbabyclub.com/category/pregnancy-by-week-799)
     * [Pregnancy By Trimester](https://www.yourbabyclub.com/category/pregnancy-by-trimester-13)
-    * [Prenatal Health & Fitness](https://www.yourbabyclub.com/category/prenatal-health-fitness-wellbeing-741)
+    * [Prenatal Health & Fitness](https://www.yourbabyclub.com/category/prenatal-health-fitness-741)
     * [Labor](https://www.yourbabyclub.com/category/labor-120)
     * [Baby Names](https://www.yourbabyclub.com/category/baby-names-621)
     * [Miscarriage, Loss & Birth Trauma](https://www.yourbabyclub.com/category/miscarriage-loss-birth-trauma-277)
@@ -138,9 +138,31 @@ Join Your Baby Club today for [exclusive offers](https://www.yourbabyclub.com/of
 Featured articles
 -----------------
 
-[![](https://cdn.verticalize.ai/2c716bae-d09c-4c75-91ed-1b4e64857402/ba8ebd98-0e5c-44fa-a674-247c3ab46dd3-2-small.jpeg)
+[![](https://cdn.verticalize.ai/2c716bae-d09c-4c75-91ed-1b4e64857402/ff268970-0b5e-49a2-b1a4-2492c20e9683-2-small.jpeg)
 
-Emotional Well-being
+Giving Birth
+
+06/17/2024
+
+###### Emergency Childbirth: How to Deliver a Baby Yourself Safely
+
+I will preface this article with the fact that I am a big believer in the human body’s ability to birth babies. Equally, I am a big believer in having a care provider who is there and supportive of your birth but who can help with any possible interventions if needed. In one article, I cannot teach you what I or other care providers have learned in the 4-7+ years of schooling we have undergone. With that said, when babies decide to enter the world at a rapid rate where providers miss their big d](https://www.yourbabyclub.com/emergency-childbirth-how-to-deliver-a-baby-yourself-safely-824)
+
+[](https://www.yourbabyclub.com/emergency-childbirth-how-to-deliver-a-baby-yourself-safely-824)[Read article](https://www.yourbabyclub.com/emergency-childbirth-how-to-deliver-a-baby-yourself-safely-824)
+
+[![](https://cdn.verticalize.ai/2c716bae-d09c-4c75-91ed-1b4e64857402/47f20900-e89b-40de-a3c2-248451141e5a-2-small.jpeg)
+
+Pregnancy Symptoms and Challenges
+
+06/10/2024
+
+###### Fetal Macrosomia: What Happens When Your Baby Is Too Big
+
+Fetal Macrosomia is when a baby is born at a much higher birth weight than average. Babies who are considered to have Macrosomia are born at 8lbs 13oz or more, which only occurs about 9% worldwide. In many cases, individuals can birth “big babies” vaginally, but in some cases, a cesarean section might want to be considered. The first thing that I want to note is that ultrasound technology is generally incorrect when it comes to measurements of a fetus. Typically, they seem to overestimate or und](https://www.yourbabyclub.com/fetal-macrosomia-what-happens-when-your-baby-is-too-big-209)
+
+[](https://www.yourbabyclub.com/fetal-macrosomia-what-happens-when-your-baby-is-too-big-209)[Read article](https://www.yourbabyclub.com/fetal-macrosomia-what-happens-when-your-baby-is-too-big-209)
+
+[Emotional Well-being
 
 06/06/2024
 
@@ -150,9 +172,7 @@ We always hear people stating, “Sleep when the baby sleeps,” and chuck at th
 
 [](https://www.yourbabyclub.com/sleep-deprivation-unveiled-why-ignoring-it-is-risky-business-208)[Read article](https://www.yourbabyclub.com/sleep-deprivation-unveiled-why-ignoring-it-is-risky-business-208)
 
-[![](https://cdn.verticalize.ai/2c716bae-d09c-4c75-91ed-1b4e64857402/bf74b21f-2293-49d4-bc09-24783198c13a-2-small.jpeg)
-
-Pregnancy Symptoms and Challenges
+[Pregnancy Symptoms and Challenges
 
 06/04/2024
 
@@ -172,45 +192,45 @@ As with describing what contractions feel like, explaining how to push during la
 
 [](https://www.yourbabyclub.com/mastering-the-art-of-pushing-essential-tips-for-a-smooth-labor-122)[Read article](https://www.yourbabyclub.com/mastering-the-art-of-pushing-essential-tips-for-a-smooth-labor-122)
 
-[Labor Preparation
+[![](https://cdn.verticalize.ai/2c716bae-d09c-4c75-91ed-1b4e64857402/ff268970-0b5e-49a2-b1a4-2492c20e9683-2-small.jpeg)
 
-05/28/2024
+Giving Birth
 
-###### Is Castor Oil Safe for Inducing Labor? Pros, Cons, and Expert Insights
+06/17/2024
 
-As you get to the end of your pregnancy, it can feel challenging to sit in the unknown and wait for your baby to come. In general, I believe babies know their birthdays and that due dates are just a number, not something to stress over. Many OBGYNs are big at pushing for induction between 39-41 weeks. You can always say "no" or simply not show up for the induction, but for some individuals, fighting their provider feels like too much emotional work at the end of pregnancy. As I always say, it i](https://www.yourbabyclub.com/is-castor-oil-safe-for-inducing-labor-pros-cons-and-expert-insights-748)
+##### Emergency Childbirth: How to Deliver a Baby Yourself Safely
 
-[](https://www.yourbabyclub.com/is-castor-oil-safe-for-inducing-labor-pros-cons-and-expert-insights-748)[Read article](https://www.yourbabyclub.com/is-castor-oil-safe-for-inducing-labor-pros-cons-and-expert-insights-748)
+I will preface this article with the fact that I am a big believer in the human body’s ability to birth babies. Equally, I am a big believer in having a care provider who is there and supportive of your birth but who can help with any possible interventions if needed. In one article, I cannot teach you what I or other care providers have learned in the 4-7+ years of schooling we have undergone. With that said, when babies decide to enter the world at a rapid rate where providers miss their big d](https://www.yourbabyclub.com/emergency-childbirth-how-to-deliver-a-baby-yourself-safely-824)
 
-[Formula Feeding
+[](https://www.yourbabyclub.com/emergency-childbirth-how-to-deliver-a-baby-yourself-safely-824)[Read article](https://www.yourbabyclub.com/emergency-childbirth-how-to-deliver-a-baby-yourself-safely-824)
 
-05/24/2024
+[![](https://cdn.verticalize.ai/2c716bae-d09c-4c75-91ed-1b4e64857402/47f20900-e89b-40de-a3c2-248451141e5a-2-small.jpeg)
 
-###### Formula Allergy or Intolerance: When To Worry
+Pregnancy Symptoms and Challenges
 
-There are many reasons a baby may be formula-fed, but what to do when the formula you need for your baby seems to be doing more harm than good? If you suspect your baby may have a formula allergy, read on to see what signs to look out for and what next steps to take. Allergy vs. Intolerance Like children and adults, babies are just as susceptible to having allergies and intolerances. A formula allergy (such as cow milk allergy) is an immunologic response while a formula intolerance (such as lact](https://www.yourbabyclub.com/formula-allergy-or-intolerance-when-to-worry-466)
+06/10/2024
 
-[](https://www.yourbabyclub.com/formula-allergy-or-intolerance-when-to-worry-466)[Read article](https://www.yourbabyclub.com/formula-allergy-or-intolerance-when-to-worry-466)
+##### Fetal Macrosomia: What Happens When Your Baby Is Too Big
 
-[![](https://cdn.verticalize.ai/2c716bae-d09c-4c75-91ed-1b4e64857402/ba8ebd98-0e5c-44fa-a674-247c3ab46dd3-2-small.jpeg)
+Fetal Macrosomia is when a baby is born at a much higher birth weight than average. Babies who are considered to have Macrosomia are born at 8lbs 13oz or more, which only occurs about 9% worldwide. In many cases, individuals can birth “big babies” vaginally, but in some cases, a cesarean section might want to be considered. The first thing that I want to note is that ultrasound technology is generally incorrect when it comes to measurements of a fetus. Typically, they seem to overestimate or und](https://www.yourbabyclub.com/fetal-macrosomia-what-happens-when-your-baby-is-too-big-209)
 
-Emotional Well-being
+[](https://www.yourbabyclub.com/fetal-macrosomia-what-happens-when-your-baby-is-too-big-209)[Read article](https://www.yourbabyclub.com/fetal-macrosomia-what-happens-when-your-baby-is-too-big-209)
+
+[Emotional Well-being
 
 06/06/2024
 
-##### Sleep Deprivation Unveiled: Why Ignoring It Is Risky Business!
+###### Sleep Deprivation Unveiled: Why Ignoring It Is Risky Business!
 
 We always hear people stating, “Sleep when the baby sleeps,” and chuck at the seeming impossibility of it, but why do they say this? You have just labored for countless hours to birth your baby, or you have had surgery to birth your baby, you are tired, possibly coming off of drugs, and yet there is this tiny newborn who needs your love, attention, milk, and snuggles. It is no wonder that sleep deprivation in the immediate postpartum poses a risk to many new parents trying to find balance in thi](https://www.yourbabyclub.com/sleep-deprivation-unveiled-why-ignoring-it-is-risky-business-208)
 
 [](https://www.yourbabyclub.com/sleep-deprivation-unveiled-why-ignoring-it-is-risky-business-208)[Read article](https://www.yourbabyclub.com/sleep-deprivation-unveiled-why-ignoring-it-is-risky-business-208)
 
-[![](https://cdn.verticalize.ai/2c716bae-d09c-4c75-91ed-1b4e64857402/bf74b21f-2293-49d4-bc09-24783198c13a-2-small.jpeg)
-
-Pregnancy Symptoms and Challenges
+[Pregnancy Symptoms and Challenges
 
 06/04/2024
 
-##### Placenta Previa
+###### Placenta Previa
 
 Typically, the placenta position in the uterus does not lead to any concerns or problems. The first thing your ultrasound tech will tell you about your placenta is whether it is anterior or posterior. Anterior placentas are on the front of your uterus. They can make it more difficult to feel kicks and movements in early pregnancy and more challenging for your baby to be heard on a Doppler or baby monitor. There is nothing wrong with an anterior placenta, but many individuals report different ex](https://www.yourbabyclub.com/placenta-previa-559)
 
@@ -226,45 +246,45 @@ As with describing what contractions feel like, explaining how to push during la
 
 [](https://www.yourbabyclub.com/mastering-the-art-of-pushing-essential-tips-for-a-smooth-labor-122)[Read article](https://www.yourbabyclub.com/mastering-the-art-of-pushing-essential-tips-for-a-smooth-labor-122)
 
-[Labor Preparation
+[![](https://cdn.verticalize.ai/2c716bae-d09c-4c75-91ed-1b4e64857402/ff268970-0b5e-49a2-b1a4-2492c20e9683-2-thumbnail.jpeg)
 
-05/28/2024
+Giving Birth
 
-###### Is Castor Oil Safe for Inducing Labor? Pros, Cons, and Expert Insights
+06/17/2024
 
-As you get to the end of your pregnancy, it can feel challenging to sit in the unknown and wait for your baby to come. In general, I believe babies know their birthdays and that due dates are just a number, not something to stress over. Many OBGYNs are big at pushing for induction between 39-41 weeks. You can always say "no" or simply not show up for the induction, but for some individuals, fighting their provider feels like too much emotional work at the end of pregnancy. As I always say, it i](https://www.yourbabyclub.com/is-castor-oil-safe-for-inducing-labor-pros-cons-and-expert-insights-748)
+##### Emergency Childbirth: How to Deliver a Baby Yourself Safely
 
-[](https://www.yourbabyclub.com/is-castor-oil-safe-for-inducing-labor-pros-cons-and-expert-insights-748)[Read article](https://www.yourbabyclub.com/is-castor-oil-safe-for-inducing-labor-pros-cons-and-expert-insights-748)
+I will preface this article with the fact that I am a big believer in the human body’s ability to birth babies. Equally, I am a big believer in having a care provider who is there and supportive of your birth but who can help with any possible interventions if needed. In one article, I cannot teach you what I or other care providers have learned in the 4-7+ years of schooling we have undergone. With that said, when babies decide to enter the world at a rapid rate where providers miss their big d](https://www.yourbabyclub.com/emergency-childbirth-how-to-deliver-a-baby-yourself-safely-824)
 
-[Formula Feeding
+[](https://www.yourbabyclub.com/emergency-childbirth-how-to-deliver-a-baby-yourself-safely-824)[Read article](https://www.yourbabyclub.com/emergency-childbirth-how-to-deliver-a-baby-yourself-safely-824)
 
-05/24/2024
+[![](https://cdn.verticalize.ai/2c716bae-d09c-4c75-91ed-1b4e64857402/47f20900-e89b-40de-a3c2-248451141e5a-2-small.jpeg)
 
-###### Formula Allergy or Intolerance: When To Worry
+Pregnancy Symptoms and Challenges
 
-There are many reasons a baby may be formula-fed, but what to do when the formula you need for your baby seems to be doing more harm than good? If you suspect your baby may have a formula allergy, read on to see what signs to look out for and what next steps to take. Allergy vs. Intolerance Like children and adults, babies are just as susceptible to having allergies and intolerances. A formula allergy (such as cow milk allergy) is an immunologic response while a formula intolerance (such as lact](https://www.yourbabyclub.com/formula-allergy-or-intolerance-when-to-worry-466)
+06/10/2024
 
-[](https://www.yourbabyclub.com/formula-allergy-or-intolerance-when-to-worry-466)[Read article](https://www.yourbabyclub.com/formula-allergy-or-intolerance-when-to-worry-466)
+##### Fetal Macrosomia: What Happens When Your Baby Is Too Big
 
-[![](https://cdn.verticalize.ai/2c716bae-d09c-4c75-91ed-1b4e64857402/ba8ebd98-0e5c-44fa-a674-247c3ab46dd3-2-thumbnail.jpeg)
+Fetal Macrosomia is when a baby is born at a much higher birth weight than average. Babies who are considered to have Macrosomia are born at 8lbs 13oz or more, which only occurs about 9% worldwide. In many cases, individuals can birth “big babies” vaginally, but in some cases, a cesarean section might want to be considered. The first thing that I want to note is that ultrasound technology is generally incorrect when it comes to measurements of a fetus. Typically, they seem to overestimate or und](https://www.yourbabyclub.com/fetal-macrosomia-what-happens-when-your-baby-is-too-big-209)
 
-Emotional Well-being
+[](https://www.yourbabyclub.com/fetal-macrosomia-what-happens-when-your-baby-is-too-big-209)[Read article](https://www.yourbabyclub.com/fetal-macrosomia-what-happens-when-your-baby-is-too-big-209)
+
+[Emotional Well-being
 
 06/06/2024
 
-##### Sleep Deprivation Unveiled: Why Ignoring It Is Risky Business!
+###### Sleep Deprivation Unveiled: Why Ignoring It Is Risky Business!
 
 We always hear people stating, “Sleep when the baby sleeps,” and chuck at the seeming impossibility of it, but why do they say this? You have just labored for countless hours to birth your baby, or you have had surgery to birth your baby, you are tired, possibly coming off of drugs, and yet there is this tiny newborn who needs your love, attention, milk, and snuggles. It is no wonder that sleep deprivation in the immediate postpartum poses a risk to many new parents trying to find balance in thi](https://www.yourbabyclub.com/sleep-deprivation-unveiled-why-ignoring-it-is-risky-business-208)
 
 [](https://www.yourbabyclub.com/sleep-deprivation-unveiled-why-ignoring-it-is-risky-business-208)[Read article](https://www.yourbabyclub.com/sleep-deprivation-unveiled-why-ignoring-it-is-risky-business-208)
 
-[![](https://cdn.verticalize.ai/2c716bae-d09c-4c75-91ed-1b4e64857402/bf74b21f-2293-49d4-bc09-24783198c13a-2-small.jpeg)
-
-Pregnancy Symptoms and Challenges
+[Pregnancy Symptoms and Challenges
 
 06/04/2024
 
-##### Placenta Previa
+###### Placenta Previa
 
 Typically, the placenta position in the uterus does not lead to any concerns or problems. The first thing your ultrasound tech will tell you about your placenta is whether it is anterior or posterior. Anterior placentas are on the front of your uterus. They can make it more difficult to feel kicks and movements in early pregnancy and more challenging for your baby to be heard on a Doppler or baby monitor. There is nothing wrong with an anterior placenta, but many individuals report different ex](https://www.yourbabyclub.com/placenta-previa-559)
 
@@ -279,26 +299,6 @@ Typically, the placenta position in the uterus does not lead to any concerns or 
 As with describing what contractions feel like, explaining how to push during labor can be challenging. In my practice, each first-time parent gets the idea to click with different suggestions and techniques. It can be even more difficult to figure out how to push if you have received an epidural because you will not be feeling much more than pressure, and in some cases, you will feel nothing at all.  What Is "Pushing"? Some ways that I have heard pushing described are: First, the most commonly](https://www.yourbabyclub.com/mastering-the-art-of-pushing-essential-tips-for-a-smooth-labor-122)
 
 [](https://www.yourbabyclub.com/mastering-the-art-of-pushing-essential-tips-for-a-smooth-labor-122)[Read article](https://www.yourbabyclub.com/mastering-the-art-of-pushing-essential-tips-for-a-smooth-labor-122)
-
-[Labor Preparation
-
-05/28/2024
-
-###### Is Castor Oil Safe for Inducing Labor? Pros, Cons, and Expert Insights
-
-As you get to the end of your pregnancy, it can feel challenging to sit in the unknown and wait for your baby to come. In general, I believe babies know their birthdays and that due dates are just a number, not something to stress over. Many OBGYNs are big at pushing for induction between 39-41 weeks. You can always say "no" or simply not show up for the induction, but for some individuals, fighting their provider feels like too much emotional work at the end of pregnancy. As I always say, it i](https://www.yourbabyclub.com/is-castor-oil-safe-for-inducing-labor-pros-cons-and-expert-insights-748)
-
-[](https://www.yourbabyclub.com/is-castor-oil-safe-for-inducing-labor-pros-cons-and-expert-insights-748)[Read article](https://www.yourbabyclub.com/is-castor-oil-safe-for-inducing-labor-pros-cons-and-expert-insights-748)
-
-[Formula Feeding
-
-05/24/2024
-
-###### Formula Allergy or Intolerance: When To Worry
-
-There are many reasons a baby may be formula-fed, but what to do when the formula you need for your baby seems to be doing more harm than good? If you suspect your baby may have a formula allergy, read on to see what signs to look out for and what next steps to take. Allergy vs. Intolerance Like children and adults, babies are just as susceptible to having allergies and intolerances. A formula allergy (such as cow milk allergy) is an immunologic response while a formula intolerance (such as lact](https://www.yourbabyclub.com/formula-allergy-or-intolerance-when-to-worry-466)
-
-[](https://www.yourbabyclub.com/formula-allergy-or-intolerance-when-to-worry-466)[Read article](https://www.yourbabyclub.com/formula-allergy-or-intolerance-when-to-worry-466)
 
 [See all articles](https://www.yourbabyclub.com/content)
 
