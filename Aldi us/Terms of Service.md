@@ -215,7 +215,7 @@ Shopping List
         
     * [Seasonal Products](https://www.aldi.us/products/seasonal-products/ "ALDI is ready for summer with limited time seasonal foods. Browse our selection of ice cream, hot dogs and chips. Learn more!")
         
-    * [Expand MenuCollapse Menu](https://www.aldi.us/products/bbq-picnic/#main-nav)[BBQ & Picnic](https://www.aldi.us/products/bbq-picnic/ "Your local ALDI has everything you need this summer to make delicious outdoor memories. Browse our selection of meats, fresh produce and sides.")
+    * [Expand MenuCollapse Menu](https://www.aldi.us/products/bbq-picnic/#main-nav)[BBQ & Picnic](https://www.aldi.us/products/bbq-picnic/ "Dive into spring and summer with ALDI’s barbecue and picnic essentials! Browse our finest selection of meats, fresh produce and sides for your outdoor feast.")
         
         * [BBQ & Picnic FAQ](https://www.aldi.us/products/bbq-picnic/bbq-picnic-faq/)
             
