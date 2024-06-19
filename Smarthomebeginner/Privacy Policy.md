@@ -57,7 +57,7 @@ Menu
 * [Courses](#)
     * [How to use Auto-Traefik?](https://www.smarthomebeginner.com/course/how-to-use-auto-traefik/)
 * [Shop](#)
-    * [Auto-Traefik](https://www.smarthomebeginner.com/auto-traefik/)
+    * [Deployarr: Automate Homelab Setup](https://www.smarthomebeginner.com/deployarr/)
 * [Members](https://www.smarthomebeginner.com/membership-account/)
     * [Log In](https://www.smarthomebeginner.com/login/)
     * [Membership Account](https://www.smarthomebeginner.com/membership-account/)
@@ -119,7 +119,7 @@ Menu
 * [Courses](#)
     * [How to use Auto-Traefik?](https://www.smarthomebeginner.com/course/how-to-use-auto-traefik/)
 * [Shop](#)
-    * [Auto-Traefik](https://www.smarthomebeginner.com/auto-traefik/)
+    * [Deployarr: Automate Homelab Setup](https://www.smarthomebeginner.com/deployarr/)
 * [Members](https://www.smarthomebeginner.com/membership-account/)
     * [Log In](https://www.smarthomebeginner.com/login/)
     * [Membership Account](https://www.smarthomebeginner.com/membership-account/)
@@ -161,13 +161,13 @@ If you would like more information about this practice and to know your choices 
 
 For specific information about Mediavine Partners, the data each collects and their data collection and privacy policies, please visit [Mediavine Partners](https://www.mediavine.com/ad-partners/).
 
-[![](https://www.smarthomebeginner.com/wp-content/plugins/wp-youtube-lyte/lyteCache.php?origThumbUrl=https%3A%2F%2Fimg.youtube.com%2Fvi%2FKMZIyoZ3jWM%2Fhqdefault.jpg)](https://youtu.be/KMZIyoZ3jWM)
+[![](https://www.smarthomebeginner.com/wp-content/plugins/wp-youtube-lyte/lyteCache.php?origThumbUrl=https%3A%2F%2Fimg.youtube.com%2Fvi%2F6S9PwhAlZUs%2Fhqdefault.jpg)](https://youtu.be/6S9PwhAlZUs)
 
-Master Traefik 3 in 60 min: Best Docker Reverse Proxy
+Adding Apps Behind Traefik Reverse Proxy
 
 > **Be the 1 in 200,000. Help us sustain what we do.**
 > 
-> 56 / 150 by Dec 31, 2024
+> 57 / 150 by Dec 31, 2024
 > 
 > [Join Us](https://www.smarthomebeginner.com/membership-account/memberships-products-services/)
 > 
@@ -182,31 +182,31 @@ Master Traefik 3 in 60 min: Best Docker Reverse Proxy
 Recent Posts
 ------------
 
-* [![Bash Aliases For Docker](https://www.smarthomebeginner.com/images/2024/05/bash-aliases-for-Docker-150x84.webp "Simplify Docker, Docker Compose, and Linux Commands with Bash Aliases 2")
+* [![Deployarr - Automated Homelab Setup](https://www.smarthomebeginner.com/images/2024/06/Deployarr-4-40-plus-Docker-Apps-150x84.jpg "Deployarr: 40+ Docker Apps in Minutes with Traefik, SSL, Authelia 2")
     
-    ![Bash Aliases For Docker](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20150%2084%22%3E%3C/svg%3E "Simplify Docker, Docker Compose, and Linux Commands with Bash Aliases 2")](https://www.smarthomebeginner.com/bash-aliases-for-docker-and-linux/)
+    ![Deployarr - Automated Homelab Setup](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20150%2084%22%3E%3C/svg%3E "Deployarr: 40+ Docker Apps in Minutes with Traefik, SSL, Authelia 2")](https://www.smarthomebeginner.com/deployarr/)
+    
+    [Deployarr: 40+ Docker Apps in Minutes with Traefik, SSL, Authelia](https://www.smarthomebeginner.com/deployarr/)
+* [![Bash Aliases For Docker](https://www.smarthomebeginner.com/images/2024/05/bash-aliases-for-Docker-150x84.webp "Simplify Docker, Docker Compose, and Linux Commands with Bash Aliases 3")
+    
+    ![Bash Aliases For Docker](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20150%2084%22%3E%3C/svg%3E "Simplify Docker, Docker Compose, and Linux Commands with Bash Aliases 3")](https://www.smarthomebeginner.com/bash-aliases-for-docker-and-linux/)
     
     [Simplify Docker, Docker Compose, and Linux Commands with Bash Aliases](https://www.smarthomebeginner.com/bash-aliases-for-docker-and-linux/)
-* [![Traefik V3 Docker Compose](https://www.smarthomebeginner.com/images/2024/05/Docker-Series-05-Traefik-v3-150x84.png "Ultimate Traefik v3 Docker Compose Guide [2024]: LE, SSL, Reverse Proxy 3")
+* [![Traefik V3 Docker Compose](https://www.smarthomebeginner.com/images/2024/05/Docker-Series-05-Traefik-v3-150x84.png "Ultimate Traefik v3 Docker Compose Guide [2024]: LE, SSL, Reverse Proxy 4")
     
-    ![Traefik V3 Docker Compose](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20150%2084%22%3E%3C/svg%3E "Ultimate Traefik v3 Docker Compose Guide [2024]: LE, SSL, Reverse Proxy 3")](https://www.smarthomebeginner.com/traefik-v3-docker-compose-guide-2024/)
+    ![Traefik V3 Docker Compose](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20150%2084%22%3E%3C/svg%3E "Ultimate Traefik v3 Docker Compose Guide [2024]: LE, SSL, Reverse Proxy 4")](https://www.smarthomebeginner.com/traefik-v3-docker-compose-guide-2024/)
     
     [Ultimate Traefik v3 Docker Compose Guide \[2024\]: LE, SSL, Reverse Proxy](https://www.smarthomebeginner.com/traefik-v3-docker-compose-guide-2024/)
-* [![Best Mini Pc For Proxmox](https://www.smarthomebeginner.com/images/2024/04/Best-Mini-PC-for-Proxmox-150x84.png "5 Best Mini PC for Proxmox Home Server [2024] 4")
+* [![Best Mini Pc For Proxmox](https://www.smarthomebeginner.com/images/2024/04/Best-Mini-PC-for-Proxmox-150x84.png "5 Best Mini PC for Proxmox Home Server [2024] 5")
     
-    ![Best Mini Pc For Proxmox](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20150%2084%22%3E%3C/svg%3E "5 Best Mini PC for Proxmox Home Server [2024] 4")](https://www.smarthomebeginner.com/best-mini-pc-for-proxmox-2024/)
+    ![Best Mini Pc For Proxmox](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20150%2084%22%3E%3C/svg%3E "5 Best Mini PC for Proxmox Home Server [2024] 5")](https://www.smarthomebeginner.com/best-mini-pc-for-proxmox-2024/)
     
     [5 Best Mini PC for Proxmox Home Server \[2024\]](https://www.smarthomebeginner.com/best-mini-pc-for-proxmox-2024/)
-* [![Google Oauth](https://www.smarthomebeginner.com/images/2024/04/Docker-Series-07-Google-OAuth-150x84.png "Google OAuth Traefik Forward Auth [2024]: Most Convenient MFA 5")
+* [![Google Oauth](https://www.smarthomebeginner.com/images/2024/04/Docker-Series-07-Google-OAuth-150x84.png "Google OAuth Traefik Forward Auth [2024]: Most Convenient MFA 6")
     
-    ![Google Oauth](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20150%2084%22%3E%3C/svg%3E "Google OAuth Traefik Forward Auth [2024]: Most Convenient MFA 5")](https://www.smarthomebeginner.com/google-oauth-traefik-forward-auth-2024/)
+    ![Google Oauth](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20150%2084%22%3E%3C/svg%3E "Google OAuth Traefik Forward Auth [2024]: Most Convenient MFA 6")](https://www.smarthomebeginner.com/google-oauth-traefik-forward-auth-2024/)
     
     [Google OAuth Traefik Forward Auth \[2024\]: Most Convenient MFA](https://www.smarthomebeginner.com/google-oauth-traefik-forward-auth-2024/)
-* [![Vaultwarden Docker Compose](https://www.smarthomebeginner.com/images/2023/12/vaultwarden-install-header-1-150x84.webp "Vaultwarden Docker Compose + Detailed Configuration Guide 6")
-    
-    ![Vaultwarden Docker Compose](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20150%2084%22%3E%3C/svg%3E "Vaultwarden Docker Compose + Detailed Configuration Guide 6")](https://www.smarthomebeginner.com/vaultwarden-docker-compose-guide/)
-    
-    [Vaultwarden Docker Compose + Detailed Configuration Guide](https://www.smarthomebeginner.com/vaultwarden-docker-compose-guide/)
 
 [Post Archives](https://www.smarthomebeginner.com/archives/)
 
