@@ -52,7 +52,7 @@ Next
     
 * Understand reports
     
-    [Get started with reports](https://support.google.com/analytics/topic/12235453?hl=en&ref_topic=12153537,12153943,2986333,)[Data freshness](https://support.google.com/analytics/topic/12234705?hl=en&ref_topic=12153537,12153943,2986333,)[Dimensions & metrics](https://support.google.com/analytics/topic/12235128?hl=en&ref_topic=12153537,12153943,2986333,)[Get started with Explorations](https://support.google.com/analytics/topic/12235971?hl=en&ref_topic=12153537,12153943,2986333,)[Reporting identity](https://support.google.com/analytics/topic/12235454?hl=en&ref_topic=12153537,12153943,2986333,)[Analytics Insights](https://support.google.com/analytics/topic/12235972?hl=en&ref_topic=12153537,12153943,2986333,)
+    [Get started with reports](https://support.google.com/analytics/topic/12235453?hl=en&ref_topic=12153537,12153943,2986333,)[Data freshness](https://support.google.com/analytics/topic/12234705?hl=en&ref_topic=12153537,12153943,2986333,)[Get started with Explorations](https://support.google.com/analytics/topic/12235971?hl=en&ref_topic=12153537,12153943,2986333,)[Reporting identity](https://support.google.com/analytics/topic/12235454?hl=en&ref_topic=12153537,12153943,2986333,)[Analytics Insights](https://support.google.com/analytics/topic/12235972?hl=en&ref_topic=12153537,12153943,2986333,)
     
 * Google Ads and attribution
     
@@ -244,7 +244,7 @@ Google apps
 
 Main menu
 
-494606064814088304
+13124598214126830693
 
 true
 
