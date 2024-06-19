@@ -1,6 +1,6 @@
 [Skip to Main Content](#main-content-link) [Skip to Footer Content](#footer-content-link)
 
-**Free 2-Day Shipping On All Orders For Father's Day**
+**Free Shipping On Orders Over $75**
 
  [![](/4ab56e/globalassets/material-icons/gift-card-icom-01.png) Gift Cards](https://www.fjallraven.com/us/en-us/customer-service/gift-card-information/) [Store Locator](https://www.fjallraven.com/us/en-us/store-locator/) [United States | $](javascript:void(0)) English (United States) [My account](https://www.fjallraven.com/us/en-us/my-account/login/)
 
@@ -42,6 +42,7 @@ Save Cancel
     * [Show all](https://www.fjallraven.com/us/en-us/men/)
     * [New Arrivals](https://www.fjallraven.com/us/en-us/men/new-arrivals/)
     * [Best Sellers](https://www.fjallraven.com/us/en-us/men/best-sellers/)
+    * [Limited Edition](https://www.fjallraven.com/us/en-us/men/limited-edition/)
     * [Fjällräven/Specialized](https://www.fjallraven.com/us/en-us/men/fjallraven-specialized/)
     *  Jackets
         
@@ -90,6 +91,7 @@ Save Cancel
     * [Show all](https://www.fjallraven.com/us/en-us/women/)
     * [New Arrivals](https://www.fjallraven.com/us/en-us/women/new-arrivals/)
     * [Best Sellers](https://www.fjallraven.com/us/en-us/women/best-sellers/)
+    * [Limited Edition](https://www.fjallraven.com/us/en-us/women/limited-edition/)
     * [Fjällräven/Specialized](https://www.fjallraven.com/us/en-us/women/fjallraven-specialized/)
     *  Jackets
         
@@ -113,7 +115,6 @@ Save Cancel
         * [Outdoor Trousers](https://www.fjallraven.com/us/en-us/women/trousers/outdoor-trousers/)
         * [Shorts & Skirts](https://www.fjallraven.com/us/en-us/women/trousers/shorts-skirts/)
         * [Shell Trousers](https://www.fjallraven.com/us/en-us/women/trousers/shell-trousers/)
-        * [Hunting Trousers](https://www.fjallraven.com/us/en-us/women/trousers/hunting-trousers/)
         * [Mountaineering Trousers](https://www.fjallraven.com/us/en-us/women/trousers/mountaineering-trousers/)
         * [Base Layer Bottoms](https://www.fjallraven.com/us/en-us/women/trousers/base-layer-bottoms/)
         * [Insulated Trousers](https://www.fjallraven.com/us/en-us/women/trousers/insulated-trousers/)
@@ -178,7 +179,7 @@ Save Cancel
 * [ ]  Sustainability
     * [Explore](https://www.fjallraven.com/us/en-us/about/sustainability/)
 * [ ]  EXPERIENCES
-    * [Show all](https://experience.fjallraven.com/us/en-us?id=7378a501-b5e6-477c-90eb-65838d8dd862)
+    * [Show all](https://experience.fjallraven.com/us/en-us?id=25f60ab8-7b84-4383-ab20-bcb3a10d72a5)
     * [Foxtrail](https://foxtrail.fjallraven.com/)
     * [Classic](https://classic.fjallraven.com/)
     * [Polar](https://experience.fjallraven.com/polar)
@@ -234,7 +235,7 @@ Save Cancel
 
 * [Men](https://www.fjallraven.com/us/en-us/men/)
     
-    * [New Arrivals](https://www.fjallraven.com/us/en-us/men/new-arrivals/) [Best Sellers](https://www.fjallraven.com/us/en-us/men/best-sellers/) [Fjällräven/Specialized](https://www.fjallraven.com/us/en-us/men/fjallraven-specialized/)
+    * [New Arrivals](https://www.fjallraven.com/us/en-us/men/new-arrivals/) [Best Sellers](https://www.fjallraven.com/us/en-us/men/best-sellers/) [Limited Edition](https://www.fjallraven.com/us/en-us/men/limited-edition/) [Fjällräven/Specialized](https://www.fjallraven.com/us/en-us/men/fjallraven-specialized/)
     * [Jackets](https://www.fjallraven.com/us/en-us/men/jackets/)
         * [Outdoor Jackets](https://www.fjallraven.com/us/en-us/men/jackets/outdoor-jackets/)
         * [Trekking Jackets](https://www.fjallraven.com/us/en-us/men/jackets/trekking-jackets/)
@@ -267,12 +268,11 @@ Save Cancel
         * [Care Products](https://www.fjallraven.com/us/en-us/men/accessories/care-products/)
         * [Other Accessories](https://www.fjallraven.com/us/en-us/men/accessories/other-accessories/)
     * [Featured Collections](javascript:void(0))
-        * [Acne Studios x Fjällräven](https://www.fjallraven.com/us/en-us/clothes/acne-studios/?Gender=Men%e2%80%99s_Unisex "Acne Studios x Fjällräven")
         * [Heritage Classics](https://www.fjallraven.com/us/en-us/heritage-classics/?Gender=Men%e2%80%99s "Heritage Classics")
     
 * [Women](https://www.fjallraven.com/us/en-us/women/)
     
-    * [New Arrivals](https://www.fjallraven.com/us/en-us/women/new-arrivals/) [Best Sellers](https://www.fjallraven.com/us/en-us/women/best-sellers/) [Fjällräven/Specialized](https://www.fjallraven.com/us/en-us/women/fjallraven-specialized/)
+    * [New Arrivals](https://www.fjallraven.com/us/en-us/women/new-arrivals/) [Best Sellers](https://www.fjallraven.com/us/en-us/women/best-sellers/) [Limited Edition](https://www.fjallraven.com/us/en-us/women/limited-edition/) [Fjällräven/Specialized](https://www.fjallraven.com/us/en-us/women/fjallraven-specialized/)
     * [Jackets](https://www.fjallraven.com/us/en-us/women/jackets/)
         * [Outdoor Jackets](https://www.fjallraven.com/us/en-us/women/jackets/outdoor-jackets/)
         * [Trekking Jackets](https://www.fjallraven.com/us/en-us/women/jackets/trekking-jackets/)
@@ -290,7 +290,6 @@ Save Cancel
         * [Outdoor Trousers](https://www.fjallraven.com/us/en-us/women/trousers/outdoor-trousers/)
         * [Shorts & Skirts](https://www.fjallraven.com/us/en-us/women/trousers/shorts-skirts/)
         * [Shell Trousers](https://www.fjallraven.com/us/en-us/women/trousers/shell-trousers/)
-        * [Hunting Trousers](https://www.fjallraven.com/us/en-us/women/trousers/hunting-trousers/)
         * [Mountaineering Trousers](https://www.fjallraven.com/us/en-us/women/trousers/mountaineering-trousers/)
         * [Base Layer Bottoms](https://www.fjallraven.com/us/en-us/women/trousers/base-layer-bottoms/)
         * [Insulated Trousers](https://www.fjallraven.com/us/en-us/women/trousers/insulated-trousers/)
@@ -307,7 +306,6 @@ Save Cancel
         * [Care Products](https://www.fjallraven.com/us/en-us/women/accessories/care-products/)
         * [Other Accessories](https://www.fjallraven.com/us/en-us/women/accessories/other-accessories/)
     * [Featured Collections](javascript:void(0))
-        * [Acne Studios x Fjällräven](https://www.fjallraven.com/us/en-us/clothes/acne-studios/?Gender=Unisex_Women%e2%80%99s "Acne Studios x Fjällräven")
         * [Heritage Classics](https://www.fjallraven.com/us/en-us/heritage-classics/?Gender=Women%e2%80%99s "Heritage Classics")
     
 * [Bags & Gear](https://www.fjallraven.com/us/en-us/bags-gear/)
@@ -343,14 +341,12 @@ Save Cancel
     
     * [Explore](https://www.fjallraven.com/us/en-us/about/sustainability/)
     
-* [EXPERIENCES](https://experience.fjallraven.com/us/en-us?id=7378a501-b5e6-477c-90eb-65838d8dd862)
+* [EXPERIENCES](https://experience.fjallraven.com/us/en-us?id=25f60ab8-7b84-4383-ab20-bcb3a10d72a5)
     
     * [Foxtrail](https://foxtrail.fjallraven.com/) [Classic](https://classic.fjallraven.com/) [Polar](https://experience.fjallraven.com/polar) [Nature Is Waiting](https://www.fjallraven.com/us/en-us/nature-is-waiting/)
     
 
 0 $0.00 Hide cart Empty cart
-
-**Father's Day | Free 2-Day Shipping Until 6/11**
 
 [](javascript:void(0))[Our Heritage](javascript:void(0)) ![Man with backpack](/4a5a97/contentassets/f6bd9e7070854e8e8bc7466993bb994a/men_with_backpack.jpg)
 
@@ -662,7 +658,7 @@ Discover
 Discover
 
 * [Fjällräven Experience](https://experience.fjallraven.com/us/en-us)
-* [Fjällräven Polar](https://experience.fjallraven.com/polar/2024?id=7378a501-b5e6-477c-90eb-65838d8dd862)
+* [Fjällräven Polar](https://experience.fjallraven.com/polar/2024?id=25f60ab8-7b84-4383-ab20-bcb3a10d72a5)
 * [Fjällräven Classic](https://classic.fjallraven.com/)
 * [Our Community](https://www.fjallraven.com/us/en-us/our-community/)
 * [Do Not Sell or Share My Personal Information](#)
