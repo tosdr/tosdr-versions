@@ -1,8 +1,16 @@
+* [How It Works](https://www.fivestars.com/businesses/how-it-works/)
+* [Customer Acquisition](https://www.fivestars.com/products/customer-acquisition/)
+* [Marketing Automation](https://www.fivestars.com/products/marketing-automation/)
+* [Promotions](https://www.fivestars.com/products/promotions/)
 * [Find Locations](https://www.fivestars.com/locations/)
 * [Sign in](https://www.fivestars.com/customer/)
 
 [](https://www.fivestars.com/)
 
+* [Loyalty and Retention](https://www.fivestars.com/products/loyalty-retention/)
+* [Customer Acquisition](https://www.fivestars.com/products/customer-acquisition/)
+* [Promotions](https://www.fivestars.com/products/promotions/)
+* [Marketing Automation](https://www.fivestars.com/products/marketing-automation/)
 * [Find Locations](https://fivestars.app.link/H5xo4xAVWB)
 * [Sign In](https://fivestars.com/accounts/login/)
 
