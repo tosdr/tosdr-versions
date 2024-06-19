@@ -50,7 +50,7 @@ Checkout
 
 Error
 
-Save 20% today with code: DAD20
+Save 15% today with code: GIFT15
 
        
 
