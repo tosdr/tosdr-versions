@@ -133,8 +133,6 @@ PO Box 9009
 Portland, OR 97207  
 United States
 
-[Twitter](https://twitter.com/fakku) [Discord](https://discord.gg/SCjbSWkMHB)
-
 [Vanilla](https://www.fakku.net/tags/vanilla "Vanilla Hentai")
 
 [Tomboy](https://www.fakku.net/tags/tomboy "Tomboy Hentai")
@@ -147,21 +145,11 @@ United States
 
 Popular Tags Today:
 
-[Forums](https://www.fakku.net/forums)
-
-[Contact](https://www.fakku.net/contact)
-
-[Support](https://www.fakku.net/support)
-
-[Jobs](https://www.fakku.net/jobs)
-
-[Terms](https://www.fakku.net/terms)
-
-[Privacy](https://www.fakku.net/privacy)
-
-[Merch](https://merch.fakku.net/)
+[Twitter](https://twitter.com/fakku) [Discord](https://discord.gg/SCjbSWkMHB)
 
 © FAKKU, LLC 2024 All rights reserved.
+
+[Forums](https://www.fakku.net/forums) [Contact](https://www.fakku.net/contact) [Support](https://www.fakku.net/support) [Jobs](https://www.fakku.net/jobs) [Terms](https://www.fakku.net/terms) [Privacy](https://www.fakku.net/privacy) [Merch](https://merch.fakku.net/)
 
 Close sidebar [Notifications](https://www.fakku.net/notifications) Dark mode
 
