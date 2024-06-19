@@ -2,7 +2,7 @@ Privacy Policy
 
 
 
-(Version 9.2., Date 06.06.2024)
+(Version 9.3., Date 10.06.2024)
 
 
 
@@ -1770,25 +1770,21 @@ To create custom and lookalike audiences, we use the services of our Advertising
 
 ● Google Ireland Ltd, Google Building Gordon House, 4 Barrow St, dublin, Ireland (“Google”);
 
-
-
 ● Meta Platforms Ireland Ltd, 4 Grand Canal Square, Grand Canal Harbour, dublin 2, Ireland ("Meta");
 
-
-
-● TikTok Technology Ltd, 10 Earlsfort Terrace, dublin, D02 T380, Ireland (“TikTok”).
+● TikTok Technology Ltd, 10 Earlsfort Terrace, Dublin, D02 T380, Ireland (“TikTok”).
 
 
 
-For the purposes described above, we transfer your pseudonymised email address to Google, Meta and TikTok.
+For the purposes described above, we transfer your pseudonymised email address to Google and Meta.
 
-Furthermore we transfer your IDFA (advertising identifier) and phone number to TikTok. They then match this
+Furthermore we transfer your IDFA (advertising identifier) or Google ID to TikTok. They then match this data
 
-data against a potential account you might have on their services. For this purpose, and regardless of whether
+against a potential account you might have on their services. For this purpose, and regardless of whether the
 
-the matching is successful or not, the data is retained by Google for up to 48 hours, by Meta for up to 8 hours
+matching is successful or not, the data is retained by Google for up to 48 hours, by Meta for up to 8 hours and
 
-and by TikTok for up to 14 days, after which it is deleted. You can find further information on how these
+by TikTok for up to 14 days, after which it is deleted. You can find further information on how these
 
 technologies work under How Google uses Customer Match data, in the terms of Facebook Custom Audiences
 
@@ -1812,33 +1808,25 @@ conversions.
 
 
 
-For the purposes described above, we use the services of Google, Meta and TikTok (as identified in the previous
+For the purposes described above, we use the services of Google and Meta (as identified in the previous
 
-section). We transfer conversion data, including date and time, to
+section). We transfer conversion data, including date and time, to Google and Meta together with the following
 
+personal data, which is transmitted with encryption: email address, first name, last name, phone number,
 
-
-● Google and Meta together with the following personal data, which is transmitted with encryption: email
-
-address, first name, last name, phone number, gender, city, zip code and country of residence, IP
-
-address, customer ID and predicted customer lifetime value.
-
-● TikTok together with the following personal data, which is transmitted with encryption: Event, Event-ID,
-
-Timestamp, Click-ID, URL, Page Referrer, hashed email address, hashed phone number, hashed
-
-shadow id, IP-Address, User Agent.
+gender, city, zip code and country of residence, IP address, customer ID and predicted customer lifetime value.
 
 
 
 These data points are associated with other personal data collected on our website (see the section on
 
-Personalisation/Targeting Cookies in our Cookie Policies for N26 websites and apps). Google, Meta and TikTok
+Personalisation/Targeting Cookies in our Cookie Policies for N26 websites and apps). Google and Meta are able
 
-are able to associate these data with your account on their services, if existent. The data is deleted by Google
+to associate these data with your account on their services, if existent. The data is deleted by Google after a
 
-and TikTok after a maximum of 18 months and by Meta after a maximum of 2 years.
+maximum of 18 months and by Meta after a maximum of 2 years.
+
+
 
 VIII. International transfers of personal data
 
@@ -1851,8 +1839,6 @@ of personal data, N26 has implemented one or more of the following transfer mech
 safeguards in accordance with the international data transfer impact assessment on the respective data
 
 transfer, if applicable:
-
-
 
 ● A decision of the European Commission deciding that the third country ensures an adequate level of
 
@@ -2021,6 +2007,8 @@ legitimate reasons to continue the processing, which exceed your interests, righ
 when the processing is necessary to enforce, exercise or defend legal claims. The processing of your
 
 personal data remains justified until the date of your objection.
+
+
 
 You can exercise your right to revoke your consent and your right of objection, as mentioned above, either via
 
