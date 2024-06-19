@@ -1,12 +1,12 @@
 [Skip to main content](#maincontent) [Skip to footer content](#footercontent)
 
-**Father's Day Sale** Save over $200! [Shop Now](https://www.horizonhobby.com/fathers-day-sale/)
+**Earn More Points** with the Horizon Hobby Visa® Credit Card [Learn More](https://www.horizonhobby.com/credit-card.html)
 
 **Elite Club Members** enjoy FREE 2-Day Shipping and more! [Learn More](https://www.horizonhobby.com/product/rc-club-elite-membership/RCCELITE.html?cp_source=global&cp_medium=tippy-top)
 
  
 
-[![Horizon Hobby](/on/demandware.static/Sites-horizon-us-Site/-/default/dwcd35ff36/images/horizon-hobby-logo-blue.svg)](https://www.horizonhobby.com/ "Horizon Hobby Home")
+[![Horizon Hobby](/on/demandware.static/Sites-horizon-us-Site/-/default/dw9fd267a2/images/horizon-hobby-logo-blue.svg)](https://www.horizonhobby.com/ "Horizon Hobby Home")
 
 Search Name or Part Number
 
@@ -41,11 +41,11 @@ My Account
 * [Order Status](https://www.horizonhobby.com/orderstatus)
 * [View My Points](https://www.horizonhobby.com/rcclub?rurl=6)
 
-  ![mini cart](/on/demandware.static/Sites-horizon-us-Site/-/default/dw8c63ddb3/images/new-cart-icon.svg) ![mini cart](/on/demandware.static/Sites-horizon-us-Site/-/default/dw270672e9/images/new-cart-icon-hover.svg) 0
+  ![mini cart](/on/demandware.static/Sites-horizon-us-Site/-/default/dweb6162df/images/new-cart-icon.svg) ![mini cart](/on/demandware.static/Sites-horizon-us-Site/-/default/dwe4f37649/images/new-cart-icon-hover.svg) 0
 
 Cart
 
-  [![mini cart](/on/demandware.static/Sites-horizon-us-Site/-/default/dw8c63ddb3/images/new-cart-icon.svg) ![mini cart](/on/demandware.static/Sites-horizon-us-Site/-/default/dw270672e9/images/new-cart-icon-hover.svg) 0
+  [![mini cart](/on/demandware.static/Sites-horizon-us-Site/-/default/dweb6162df/images/new-cart-icon.svg) ![mini cart](/on/demandware.static/Sites-horizon-us-Site/-/default/dwe4f37649/images/new-cart-icon-hover.svg) 0
 
 Cart](https://www.horizonhobby.com/cart "Cart 0 Item(s)")
 
@@ -71,7 +71,7 @@ water
 
 [Shop Boats](https://www.horizonhobby.com/boats/)
 
-  [![mini cart](/on/demandware.static/Sites-horizon-us-Site/-/default/dw8c63ddb3/images/new-cart-icon.svg) ![mini cart](/on/demandware.static/Sites-horizon-us-Site/-/default/dw270672e9/images/new-cart-icon-hover.svg) 0](https://www.horizonhobby.com/cart "Cart 0 Item(s)")
+  [![mini cart](/on/demandware.static/Sites-horizon-us-Site/-/default/dweb6162df/images/new-cart-icon.svg) ![mini cart](/on/demandware.static/Sites-horizon-us-Site/-/default/dwe4f37649/images/new-cart-icon-hover.svg) 0](https://www.horizonhobby.com/cart "Cart 0 Item(s)")
 
 [My store
 
@@ -79,15 +79,15 @@ Select A Store](javascript:void(0))
 
 My store
 
-![Horizon Hobby](/on/demandware.static/Sites-horizon-us-Site/-/default/dwcd35ff36/images/horizon-hobby-logo-blue.svg)
+![Horizon Hobby](/on/demandware.static/Sites-horizon-us-Site/-/default/dw9fd267a2/images/horizon-hobby-logo-blue.svg)
 
 [icon-arrow-white Back](#)
 
-[![Horizon Hobby](/on/demandware.static/Sites-horizon-us-Site/-/default/dwcd35ff36/images/horizon-hobby-logo-blue.svg)](https://www.horizonhobby.com/ "Horizon Hobby Home")
+[![Horizon Hobby](/on/demandware.static/Sites-horizon-us-Site/-/default/dw9fd267a2/images/horizon-hobby-logo-blue.svg)](https://www.horizonhobby.com/ "Horizon Hobby Home")
 
 [](#)
 
-**Father's Day Sale** Save over $200! [Shop Now](https://www.horizonhobby.com/fathers-day-sale/)
+**Earn More Points** with the Horizon Hobby Visa® Credit Card [Learn More](https://www.horizonhobby.com/credit-card.html)
 
 **Elite Club Members** enjoy FREE 2-Day Shipping and more! [Learn More](https://www.horizonhobby.com/product/rc-club-elite-membership/RCCELITE.html?cp_source=global&cp_medium=tippy-top)
 
@@ -201,7 +201,7 @@ My store
             * [Motors](https://www.horizonhobby.com/boats/parts-electronics-and-accessories/motors/)
             * [Engines](https://www.horizonhobby.com/boats/parts-electronics-and-accessories/engines/)
             * [Hardware](https://www.horizonhobby.com/boats/parts-electronics-and-accessories/hardware/)
-            * [Parts](hhttps://www.horizonhobby.com/boats/parts-electronics-and-accessories/parts/)
+            * [Parts](https://www.horizonhobby.com/boats/parts-electronics-and-accessories/parts/)
             * [Electronic Speed Controls](https://www.horizonhobby.com/boats/parts-electronics-and-accessories/electronic-speed-controls/)
             * [View All](https://www.horizonhobby.com/boats/parts-electronics-and-accessories/)
         * [View All](https://www.horizonhobby.com/boats/)
@@ -332,7 +332,7 @@ My store
     
 
 * * [Our Story](https://www.horizonhobby.com/hh-this-is-horizon-hobby.html)
-    * [RC Blog](https://www.horizonhobby.com/s/horizon-us/blog/)
+    * [RC Blog](https://www.horizonhobby.com/blog/)
     * [RC Nation Forum](https://www.rcnation.com/)
     * [Podcast](https://www.horizonhobby.com/hh-podcasts.html)
     * [Hobbies for Good](https://www.horizonhobby.com/hobbiesforgood-landing.html)
@@ -380,24 +380,6 @@ Check out all the deals on your favorite RC Product.
 [SEE ALL DEALS](https://www.horizonhobby.com/horizon-hobby-deals/)
 
 Shop & Save!
-
-##### OFFER ENDS SOON
-
-![deals 2](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dw96e4378f/merch/promotions/eGift-Card/944150-Fathers-Day-324x190.jpg)
-
-Not sure what to get dad?
-
-Earn a $10 E-Gift Card for every $100 E-Gift Card purchased. Ends 6/9.
-
-[SHOP NOW](https://www.horizonhobby.com/product/e-gift-card-emailed/HHDGIFT.html)
-
-![deals 2](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dwd277751a/merch/promotions/905633-fathers-day-2024/905633-324x190.jpg)
-
-Save over $200!
-
-Shop amazing gifts for any budget.
-
-[SHOP NOW](https://www.horizonhobby.com/fathers-day-sale/)
 
 ![image asset2](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dwcc75a16e/merch/promotions/nelp/nelp-324x190.jpg)
 
@@ -967,7 +949,7 @@ Never miss out - text **HOBBY** to **44721**[Learn More](https://www.horizonhobb
 ##### Support
 
 * [RC Product Support](https://www.horizonhobby.com/product-support-landing.html?cp_source=footer&cp_medium=support "Go to RC Product Support")
-* [RC Blog](https://www.horizonhobby.com/s/horizon-us/blog/)
+* [RC Blog](https://www.horizonhobby.com/on/demandware.store/Sites-horizon-us-Site/default/blog)
 * [Order Status](https://www.horizonhobby.com/orderstatus?cp_source=footer&cp_medium=support "Go to Order Status")
 * [Product Repairs](https://www.horizonhobby.com/service-center.html?cp_source=footer&cp_medium=support "Go to Product Repairs")
 * [Product Registration](https://www.horizonhobby.com/login?isRegisterProductLogin=true&cp_source=footer&cp_medium=support "Go to Product Registration")
