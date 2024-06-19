@@ -117,9 +117,9 @@ Toggle navigation
     
     ##### Promoted Content
     
-    * [EU Agri-Food Value Chain Calls on Lawmakers to Ensure a Low Carbon Food Future](https://www.euractiv.com/section/agriculture-food/opinion/eu-agri-food-value-chain-calls-on-lawmakers-to-ensure-a-low-carbon-food-future/)
-    * [What Members of the European Parliament need to know to call for a science-based regulation for food safety in the European fish processing industry](https://www.euractiv.com/section/agriculture-food/opinion/what-members-of-the-european-parliament-need-to-know-to-call-for-a-science-based-regulation-for-food-safety-in-the-european-fish-processing-industry/)
-    * [Shift towards animal-testing free chemicals regulation is progressing](https://www.euractiv.com/section/agriculture-food/opinion/shift-towards-animal-testing-free-chemicals-regulation-is-progressing/)
+    * [Why Europe needs to rethink its pesticide classifications](https://www.euractiv.com/section/agriculture-food/opinion/why-europe-needs-to-rethink-its-pesticide-classifications/)
+    * [Bold policymaking is vital for transforming Europe’s food system](https://www.euractiv.com/section/agriculture-food/opinion/bold-policymaking-is-vital-for-transforming-europes-food-system/)
+    * [Animal health is integral to secure food systems. Is the EU ready for the challenges ahead?](https://www.euractiv.com/section/agriculture-food/opinion/animal-health-is-integral-to-secure-food-systems-is-the-eu-ready-for-the-challenges-ahead/)
     
 * [Economy](https://www.euractiv.com/sections/economy-jobs/)
     
@@ -145,13 +145,14 @@ Toggle navigation
     ##### Special Reports
     
     * [Industrial Competitiveness](https://www.euractiv.com/section/economy-jobs/special_report/industrial-competitiveness/)
+    * [Just Transition](https://www.euractiv.com/section/economy-jobs/special_report/just-transition/)
     * [European resilience and opportunities in the global economy](https://www.euractiv.com/section/economy-jobs/special_report/fnf/)
     
     ##### Promoted Content
     
+    * [ACCA EU 2024-2029: Three calls to action for a sustainable and competitive Future for Europe](https://www.euractiv.com/section/economy-jobs/opinion/acca-eu-2024-2029-three-calls-to-action-for-a-sustainable-and-competitive-future-for-europe/)
     * [EU biodiesel industry may not survive 2024 if left unprotected from Chinese unfair imports](https://www.euractiv.com/section/economy-jobs/opinion/eu-biodiesel-industry-may-not-survive-2024-if-left-unprotected-from-chinese-unfair-imports/)
     * [Celebrating a Milestone for Inventors – One Year of the Unitary Patent](https://www.euractiv.com/section/economy-jobs/opinion/celebrating-a-milestone-for-inventors-one-year-of-the-unitary-patent/)
-    * [The ongoing quest for Social Europe](https://www.euractiv.com/section/economy-jobs/opinion/the-ongoing-quest-for-social-europe/)
     
 * [Energy & Environment](https://www.euractiv.com/sections/energy-environment/)
     
@@ -199,15 +200,15 @@ Toggle navigation
     
     * [New World Bank reports paint Europe’s climate preparedness as a hot mess in a hurry](https://www.euractiv.com/section/energy-environment/special_report/new-world-bank-reports-paint-europes-climate-preparedness-as-a-hot-mess-in-a-hurry/)
     * [Game on. Tackling the impact of large-scale sporting events](https://www.euractiv.com/section/energy/special_report/tackling-the-impact-of-large-scale-sporting-events/)
-    * [Raw Materials](https://www.euractiv.com/section/energy-environment/special_report/raw-materials-2/)
+    * [Raw materials, meeting Europe’s strategic needs](https://www.euractiv.com/section/energy-environment/special_report/raw-materials-2/)
     * [Biosolutions – the hi-tech ecosystem accelerating Europe’s Green Deal](https://www.euractiv.com/section/energy-environment/special_report/biosolutions-the-hi-tech-ecosystem-accelerating-europes-green-deal/)
     * [Certification as a tool to reduce greenhouse gas emissions](https://www.euractiv.com/section/energy-environment/special_report/certification-as-a-tool-to-reduce-greenhouse-gas-emissions/)
     
     ##### Promoted Content
     
+    * [Harnessing biosolutions for a sustainable and prosperous future: A call to action for the new European Parliament and upcoming Commission](https://www.euractiv.com/section/energy-environment/opinion/harnessing-biosolutions-for-a-sustainable-and-prosperous-future-a-call-to-action-for-the-new-european-parliament-and-upcoming-commission/)
     * [Green Deal or Industrial Deal? Why Grids Always Matter!](https://www.euractiv.com/section/energy-environment/opinion/green-deal-or-industrial-deal-why-grids-always-matter/)
     * [Citizens would vote for the Green Deal – if only they knew about it](https://www.euractiv.com/section/energy-environment/opinion/citizens-would-vote-for-the-green-deal-if-only-they-knew-about-it/)
-    * [Putting the ‘net’ in net zero: scaling up carbon removal technologies in Europe](https://www.euractiv.com/section/energy-environment/opinion/putting-the-net-in-net-zero-scaling-up-carbon-removal-technologies-in-europe/)
     
 * [Global Europe](https://www.euractiv.com/sections/global-europe/)
     
@@ -242,17 +243,17 @@ Toggle navigation
     
     ##### Special Reports
     
+    * [EU-Kazakhstan relations strengthening, market opportunities growing](https://www.euractiv.com/section/central-asia/special_report/eu-kazakhstan-relations-strengthening-market-opportunities-growing/)
     * [EU-India relations 2024: what lies ahead?](https://www.euractiv.com/section/global-europe/special_report/eu-india-relations-2024-what-lies-ahead/)
     * [EU-China relations 2024: what lies ahead?](https://www.euractiv.com/section/global-europe/special_report/eu-china-relations-2024-what-lies-ahead/)
     * [Rethinking the global order](https://www.euractiv.com/section/central-asia/special_report/rethinking-the-global-order-2/)
     * [The road to Georgia’s accession to the EU](https://www.euractiv.com/section/europe-s-east/special_report/the-road-to-georgias-accession-to-the-eu/)
-    * [Kazakhstan’s constitutional referendum](https://www.euractiv.com/section/central-asia/special_report/kazakhstans-constitutional-referendum/)
     
     ##### Promoted Content
     
+    * [Keynote Speech by Minister Peng Gang at the CCCEU 2024 Europe-China Business Summit](https://www.euractiv.com/section/eu-china/opinion/keynote-speech-by-minister-peng-gang-at-the-ccceu-2024-europe-china-business-summit/)
+    * [Resilience, reliance, readjustment: How Ukrainians are coping with the war](https://www.euractiv.com/section/global-europe/opinion/resilience-reliance-readjustment-how-ukrainians-are-coping-with-the-war/)
     * [This World Press Freedom Day, everyone must commit to preserving and strengthening media freedom](https://www.euractiv.com/section/global-europe/opinion/this-world-press-freedom-day-everyone-must-commit-to-preserving-and-strengthening-media-freedom/)
-    * [A robust EU cohesion policy – a cure to counteract depopulation](https://www.euractiv.com/section/global-europe/opinion/a-robust-eu-cohesion-policy-a-cure-to-counteract-depopulation/)
-    * [A New Path Forward: Moldova’s Journey to European Integration](https://www.euractiv.com/section/global-europe/opinion/a-new-path-forward-moldovas-journey-to-european-integration/)
     
 * [Health](https://www.euractiv.com/sections/health-consumers/)
     
@@ -330,9 +331,9 @@ Toggle navigation
     
     ##### Promoted Content
     
+    * [Reconciling European sovereignty, defense posture and transatlantic cooperation](https://www.euractiv.com/section/politics/opinion/reconciling-european-sovereignty-defense-posture-and-transatlantic-cooperation/)
     * [Cohesion is more than a policy, it’s the guiding principle to strengthen and unite](https://www.euractiv.com/section/politics/opinion/cohesion-is-more-than-a-policy-its-the-guiding-principle-to-strengthen-and-unite/)
     * [Now it’s time to fight for Europe. It’s time to vote.](https://www.euractiv.com/section/politics/opinion/now-its-time-to-fight-for-europe-its-time-to-vote/)
-    * [Let’s Redesign Public Spaces with Cycling](https://www.euractiv.com/section/politics/opinion/lets-redesign-public-spaces-with-cycling/)
     
 * [Technology](https://www.euractiv.com/sections/digital/)
     
@@ -368,15 +369,11 @@ Toggle navigation
     * [Empowerment and protection: Building digital citizenship in the EU](https://www.euractiv.com/section/digital/special_report/empowerment-and-protection-building-digital-citizenship-in-the-eu/)
     * [Short-term rental: upcoming rules and existing trends](https://www.euractiv.com/section/digital/special_report/short-term-rental-upcoming-rules-and-existing-trends/)
     
-    ##### Events
-    
-    * 12 June - [Media Partnership - How to master Europe's digital infrastructure needs?](https://events.euractiv.com/event/info/how-to-master-europes-digital-infrastructure-needs)
-    
     ##### Promoted Content
     
+    * [Do We Have All the Right Networks for the Future?](https://www.euractiv.com/section/digital/opinion/do-we-have-all-the-right-networks-for-the-future/)
     * [How Open Digital Ecosystems Can Boost Europe’s Competitiveness](https://www.euractiv.com/section/digital/opinion/how-open-digital-ecosystems-can-boost-europes-competitiveness/)
     * [A New Era for Business – E-invoicing as the Critical Enabler of Europe’s Digital and Competitive Growth](https://www.euractiv.com/section/digital/opinion/a-new-era-for-business-e-invoicing-as-the-critical-enabler-of-europes-digital-and-competitive-growth/)
-    * [Telco infrastructures, crucial for growth in EU’s Outermost Regions](https://www.euractiv.com/section/digital/opinion/telco-infrastructures-crucial-for-growth-in-eus-outermost-regions/)
     
 * [Transport](https://www.euractiv.com/sections/transport/)
     
@@ -468,16 +465,16 @@ Languages: [Français](https://www.euractiv.fr/?post_type=page&p=364525)
 
 ### Most read articles
 
-* 1[Sweden to ban bottom fishing in territorial waters](http://en.euractiv.eu/section/agriculture-food/news/sweden-to-ban-bottom-trawling-in-territorial-waters/?utm_source=website&utm_campaign=popular)
-* 2[Socialists-Greens head to head with Wilders' far-right in the Netherlands: EU election exit poll](http://en.euractiv.eu/section/politics/news/european-election-exit-poll-socialists-greens-win-in-the-netherlands/?utm_source=website&utm_campaign=popular)
-* 3[Nuclear: SMRs alliance unveils their roadmap up to early 2025](http://en.euractiv.eu/section/energy-environment/news/donagh-nuclear-smrs-alliance-unveils-their-roadmap-up-to-early-2025/?utm_source=website&utm_campaign=popular)
-* 4[Europe Decides: Live updates of the 2024 European Parliament election](http://en.euractiv.eu/section/elections/news/https-www-euractiv-com-section-politics-news-meet-the-parties-fighting-for-power-in-the-european-elections/?utm_source=website&utm_campaign=popular)
-* 5[What you need to know about the upcoming results: EU election projection](http://en.euractiv.eu/section/elections/news/what-you-need-to-know-about-the-results-eu-election-projection/?utm_source=website&utm_campaign=popular)
-* 6[Sinn Féin ambitions face reality check at Irish local and EU elections](http://en.euractiv.eu/section/elections/news/sinn-fein-ambitions-face-reality-check-at-irish-local-and-eu-elections/?utm_source=website&utm_campaign=popular)
-* 7[Twelve EU countries push for key next step in Ukraine, Moldova accession process](http://en.euractiv.eu/section/enlargement-neighbourhood/news/twelve-eu-countries-push-for-key-next-step-in-ukraine-moldova-accession-process/?utm_source=website&utm_campaign=popular)
-* 8[EU Commission tells member states to move with Ukraine, Moldova negotiation frameworks](http://en.euractiv.eu/section/enlargement-neighbourhood/news/eu-commission-tells-member-states-to-move-with-ukraine-moldova-negotiation-frameworks/?utm_source=website&utm_campaign=popular)
-* 9[Putin warns Europe of asymmetric response to Ukraine ‘escalation’](http://en.euractiv.eu/section/global-europe/news/putin-warns-europe-of-asymmetric-response-to-ukraine-escalation/?utm_source=website&utm_campaign=popular)
-* 10[Electrification: Europe's forgotten industry decarbonisation option](http://en.euractiv.eu/section/energy-environment/news/electrification-europes-forgotten-industry-decarbonisation-option/?utm_source=website&utm_campaign=popular)
+* 1[EU countries rubberstamp Nature Restoration Law after months of deadlock](http://en.euractiv.eu/section/agriculture-food/news/breaking-eu-countries-rubberstamp-nature-restoration-law-after-months-of-deadlock/?utm_source=website&utm_campaign=popular)
+* 2[On warships in Cuba, Russia says West is deaf to Moscow's diplomatic signals](http://en.euractiv.eu/section/global-europe/news/on-warships-in-cuba-russia-says-west-is-deaf-to-moscows-diplomatic-signals/?utm_source=website&utm_campaign=popular)
+* 3[UK polls point to 'electoral extinction' for Prime Minister Sunak's Conservatives](http://en.euractiv.eu/section/uk-europe/news/uk-polls-point-to-electoral-extinction-for-prime-minister-sunaks-conservatives/?utm_source=website&utm_campaign=popular)
+* 4[EU 'not worried' as China probes bloc's pork imports](http://en.euractiv.eu/section/agriculture-food/news/eu-not-worried-as-china-probes-blocs-pork-imports/?utm_source=website&utm_campaign=popular)
+* 5[Putin to visit Vietnam, sparking US rebuke of Hanoi](http://en.euractiv.eu/section/global-europe/news/putin-to-visit-vietnam-sparking-us-rebuke-of-hanoi/?utm_source=website&utm_campaign=popular)
+* 6[Nature restoration: Austrian conservatives charge Gewessler for abuse of office](http://en.euractiv.eu/section/energy-environment/news/nature-restoration-austrian-conservatives-charge-gewessler-for-abuse-of-office/?utm_source=website&utm_campaign=popular)
+* 7[Switzerland's Ukraine summit reveals split visions for future peace settlement](http://en.euractiv.eu/section/global-europe/news/switzerlands-ukraine-summit-reveals-split-visions-for-future-peace-settlement/?utm_source=website&utm_campaign=popular)
+* 8[EU leaders expected to agree to top job 'package deal' over dinner](http://en.euractiv.eu/section/elections/news/eu-leaders-expected-to-agree-to-top-job-package-deal-over-dinner/?utm_source=website&utm_campaign=popular)
+* 9[Why EU leaders were forced to delay the bloc’s top job deal](http://en.euractiv.eu/section/elections/news/why-eu-leaders-were-forced-to-delay-the-blocs-top-job-deal/?utm_source=website&utm_campaign=popular)
+* 10[National ministers will discuss Nature Restoration Law next Monday, vote not certain](http://en.euractiv.eu/section/biodiversity/news/breaking-national-ministers-will-discuss-but-not-vote-upon-nature-restoration-law-next-monday/?utm_source=website&utm_campaign=popular)
 
 ###### Advertisement
 
