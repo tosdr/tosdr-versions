@@ -90,6 +90,9 @@ All the issues and problems will be resolved pursuant to our Japanese Privacy Po
 
 ###  New entry
 
+* [_![Smash Bros. player "Fujii 4dan" to hold an event in Tokyo Japan, on June 14!](https://i0.wp.com/saiganak.com/wp-content/uploads/2024/06/fujii4dan-ynu-june2024-bar-00-150x150.jpg "Smash Bros. player "Fujii 4dan" to hold an event in Tokyo Japan, on June 14!")_
+    
+    **Smash Bros. player "Fujii 4dan" to hold an event in Tokyo Japan, on June 14!**2024.06.13(Thu)](https://saiganak.com/event/fujii4dan-ynu-june2024-bar/ "Smash Bros. player "Fujii 4dan" to hold an event in Tokyo Japan, on June 14!")
 * [_![Capcom Cafe's Monster Hunter 20th Anniversary Collaboration, Available from May 24](https://i0.wp.com/saiganak.com/wp-content/uploads/2024/05/capcomcafe-monsterhunter-20th-collab-may2024-00-150x150.jpg "Capcom Cafe's Monster Hunter 20th Anniversary Collaboration, Available from May 24")_
     
     **Capcom Cafe's Monster Hunter 20th Anniversary Collaboration, Available from May…**2024.05.16(Thu)](https://saiganak.com/event/capcomcafe-monsterhunter-20th-collab-may2024/ "Capcom Cafe's Monster Hunter 20th Anniversary Collaboration, Available from May 24")
@@ -102,31 +105,28 @@ All the issues and problems will be resolved pursuant to our Japanese Privacy Po
 * [_![Unlimited data Wi-Fi Router "WiFiBOX" now available in Apa Hotels for 840 Yen per Day](https://i0.wp.com/saiganak.com/wp-content/uploads/2024/03/telecomsquare-wifibox-for-apahotel-00-150x150.jpg "Unlimited data Wi-Fi Router "WiFiBOX" now available in Apa Hotels for 840 Yen per Day")_
     
     **Unlimited data Wi-Fi Router "WiFiBOX" now available in Apa Hotels for 840 Yen p…**2024.03.18(Mon)](https://saiganak.com/news/telecomsquare-wifibox-for-apahotel/ "Unlimited data Wi-Fi Router "WiFiBOX" now available in Apa Hotels for 840 Yen per Day")
-* [_![Japanese Manga Artist Akira Toriyama Passes Away at the Age of 68](https://i0.wp.com/saiganak.com/wp-content/uploads/2024/03/akira-toriyama-has-passed-away-00-150x150.jpg "Japanese Manga Artist Akira Toriyama Passes Away at the Age of 68")_
-    
-    **Japanese Manga Artist Akira Toriyama Passes Away at the Age of 68**2024.03.08(Fri)](https://saiganak.com/news/akira-toriyama-has-passed-away/ "Japanese Manga Artist Akira Toriyama Passes Away at the Age of 68")
 
 ### Pocket ranking
 
 * No article
 
-[![](//imp.accesstra.de/img.php?rk=0055ck000ymk)](https://click.accesstra.de/adv.php?rk=0055ck000ymk)
+[![Disney Plus](//i0.wp.com/saiganak.com/wp-content/uploads/2023/03/banner_disneyplus_336x280a.jpg)](https://accesstra.de/0050f1000ymk)
 
+* [![8BitDo's NEOGEO Wireless Controller comes with official SNK license!](https://i0.wp.com/saiganak.com/wp-content/uploads/2023/07/8bitdo-neogeo-wireless-controller-release-00-150x150.jpg "8BitDo's NEOGEO Wireless Controller comes with official SNK license!")
+    
+    8BitDo's NEOGEO Wireless Controller comes with official SNK license!](https://saiganak.com/product/8bitdo-neogeo-wireless-controller-release/ "8BitDo's NEOGEO Wireless Controller comes with official SNK license!")
+* [![Collaborative Apparel from Final Fantasy XIV x VOGUE JAPAN Special Project Arrives!](https://i0.wp.com/saiganak.com/wp-content/uploads/2023/09/finalfantasyxiv-vogue-japan-collaboration-special-project-apparel-00a-150x150.jpg "Collaborative Apparel from Final Fantasy XIV x VOGUE JAPAN Special Project Arrives!")
+    
+    Collaborative Apparel from Final Fantasy XIV x VOGUE JAPAN Special Project Arrives!](https://saiganak.com/product/finalfantasyxiv-vogue-japan-collaboration-special-project-apparel/ "Collaborative Apparel from Final Fantasy XIV x VOGUE JAPAN Special Project Arrives!")
+* [![Chainsaw Man × ZONe！Collaboration New ](https://i0.wp.com/saiganak.com/wp-content/uploads/2022/09/chainsaw-man-collabo-zone-blood-release-00-150x150.jpg "Chainsaw Man × ZONe！Collaboration New ")
+    
+    Chainsaw Man × ZONe！Collaboration New "ZONe BLOOD" On Sale!](https://saiganak.com/product/chainsawman-collabo-zone-blood-release/ "Chainsaw Man × ZONe！Collaboration New ")
+* [![](https://i0.wp.com/saiganak.com/wp-content/uploads/2019/08/neogeo-mini-limited-set-kuroko-00-150x150.jpg)
+    
+    "Kuroko version"appeared in "NEOGEO mini SamuSpi"!](https://saiganak.com/product/neogeo-mini-limited-set-kuroko/)
 * [![](https://i0.wp.com/saiganak.com/wp-content/uploads/2023/02/redbull-purple-edition-standard-products-00-150x150.jpg)
     
     "Red Bull Purple Edition" is now a standard product! Now available outside of vending machines!](https://saiganak.com/product/redbull-purple-edition-standard-products/)
-* [![From April Fool's Joke to Reality: Razer's New Energy Drink](https://i0.wp.com/saiganak.com/wp-content/uploads/2019/06/razer-respawn-release00-1-150x150.jpg "From April Fool's Joke to Reality: Razer's New Energy Drink")
-    
-    From April Fool's Joke to Reality: Razer's New Energy Drink](https://saiganak.com/product/razer-respawn-release/ "From April Fool's Joke to Reality: Razer's New Energy Drink")
-* [![New designs for DualSense and PS5 covers featuring FF XVI Available! Along with a bundle for PS5!](https://i0.wp.com/saiganak.com/wp-content/uploads/2023/04/ps5-ffxvi-limited-items-release-00-150x150.jpg "New designs for DualSense and PS5 covers featuring FF XVI Available! Along with a bundle for PS5!")
-    
-    New designs for DualSense and PS5 covers featuring FF XVI Available! Along with a bundle for PS5!](https://saiganak.com/product/ps5-ffxvi-limited-items-release/ "New designs for DualSense and PS5 covers featuring FF XVI Available! Along with a bundle for PS5!")
-* [![](https://i0.wp.com/saiganak.com/wp-content/uploads/2019/05/neogeo-mini-samuraispirits-limited-edition-preorder00-150x150.jpg)
-    
-    "NEOGEO mini Samurai Spirits Limited Set" is here!](https://saiganak.com/product/neogeo-mini-samuraispirits-limited-edition-preorder/)
-* [![【Sad News】 NEOGEO mini discontinued...](https://i0.wp.com/saiganak.com/wp-content/uploads/2019/07/neogeo-mini-eol-00-150x150.jpg "【Sad News】 NEOGEO mini discontinued...")
-    
-    【Sad News】 NEOGEO mini discontinued...](https://saiganak.com/product/neogeo-mini-eol/ "【Sad News】 NEOGEO mini discontinued...")
 
 [](#top)
 
