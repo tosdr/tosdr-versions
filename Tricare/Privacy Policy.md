@@ -131,6 +131,8 @@ Main Navigation
         
     * [Contact Us](https://www.tricare.mil/PatientResources/ContactUs)
         
+    * [Military Health System Customer Service Community Directory](https://www.tricare.mil/PatientResources/MHS-Customer-Service-Directory)
+        
     * [Go Paperless](https://www.tricare.mil/PatientResources/GoPaperless)
         
     * [Multimedia Center](https://www.tricare.mil/PatientResources/MediaCenter)
