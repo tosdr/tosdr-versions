@@ -78,11 +78,11 @@
     * [Comics](https://liftoff.io/mobile-heroes/comics/ "Comics")
     * [About Mobile Heroes](https://liftoff.io/mobile-heroes/about/ "About Mobile Heroes")
     
-    [![Mobile Hero Tessa Benz home page](https://liftoff.io/wp-content/uploads/2024/06/mobile-hero-tessa-benz-home-page-1024x535.jpg)](https://liftoff.io/mobile-heroes/hero/tessa-benz/)
+    [![Betul Ozdemir Product Madness](https://liftoff.io/wp-content/uploads/2024/05/Betul-Eser-profile-banner-1200x627-v2-@2x@2x-1024x535.png)](https://liftoff.io/mobile-heroes/hero/betul-ozdemir/)
     
     ###### FEATURED
     
-    [Meet Tessa Benz From Zynga](https://liftoff.io/mobile-heroes/hero/tessa-benz/)
+    [Meet Betul Ozdemir From Product Madness](https://liftoff.io/mobile-heroes/hero/betul-ozdemir/)
     
 
 Search for:  
@@ -91,11 +91,10 @@ Search for:
 
 Log In
 
-* ![Accelerate Icon](https://liftoff.io/wp-content/uploads/2022/09/Product-Accelerate.svg) [Accelerate / Liftoff](https://signin.liftoff.io/signin)
-* ![Monetize icon](https://liftoff.io/wp-content/uploads/2022/09/Product-Monetize.svg) [Monetize / Vungle](https://app.vungle.com/login/)
-* ![Direct icon](https://liftoff.io/wp-content/uploads/2022/09/Product-Direct.svg) [Direct / Vungle](https://app.vungle.com/login/)
-* ![Influence icon](https://liftoff.io/wp-content/uploads/2022/09/Product-Influence.svg) [Influence / JetFuel](https://dash.jetfuel.it/login)
-* ![Intelligence icon](https://liftoff.io/wp-content/uploads/2022/09/Product-Intelligence.svg) [Gaming Intelligence / GameRefinery](https://app.gamerefinery.com/)
+* ![Accelerate Icon](https://liftoff.io/wp-content/uploads/2022/09/Product-Accelerate.svg) [Accelerate](https://signin.liftoff.io/signin)
+* ![Monetize icon](https://liftoff.io/wp-content/uploads/2022/09/Product-Monetize.svg) [Monetize](https://app.vungle.com/login/)
+* ![Direct icon](https://liftoff.io/wp-content/uploads/2022/09/Product-Direct.svg) [Direct](https://app.vungle.com/login/)
+* ![Intelligence icon](https://liftoff.io/wp-content/uploads/2022/09/Product-Intelligence.svg) [GameRefinery](https://app.gamerefinery.com/)
 
 [Get Started](https://liftoff.io/sign-up/)
 
