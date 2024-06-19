@@ -22,7 +22,7 @@ Hi
 
 [SIGN OUT](#)
 
-[96°F ![weather icon](https://res.cloudinary.com/review-journal/image/upload/f_auto,q_auto,c_scale,w_40/rj-project/apple_weather/CloudyDay.png)](https://www.reviewjournal.com/weather "Weather Forecast") 
+[81°F ![weather icon](https://res.cloudinary.com/review-journal/image/upload/f_auto,q_auto,c_scale,w_40/rj-project/apple_weather/CloudyNight.png)](https://www.reviewjournal.com/weather "Weather Forecast") 
 
 * [News](https://www.reviewjournal.com/news/)
 * [Local](https://www.reviewjournal.com/local/)
@@ -39,9 +39,9 @@ Hi
 
 [](#)
 
-96°F
+81°F
 
-![weather icon](https://res.cloudinary.com/review-journal/image/upload/f_auto,q_auto,c_scale,w_40/rj-project/apple_weather/CloudyDay.png) Cloudy
+![weather icon](https://res.cloudinary.com/review-journal/image/upload/f_auto,q_auto,c_scale,w_40/rj-project/apple_weather/CloudyNight.png) Cloudy
 
 [Las Vegas, NV](https://www.reviewjournal.com/weather "Weather Forecast")
 
@@ -51,8 +51,11 @@ Hi
 * [RJESPAÑOL](https://espanol.reviewjournal.com/?utm_campaign=RJ_Cross_Traffic&utm_source=Main_Nav_Link&utm_medium=NavLink)
 * [Latest Headlines](https://www.reviewjournal.com/archive/)
 * [7@7 video](https://www.reviewjournal.com/7at7/)
-* [Election 2024](https://www.reviewjournal.com/tag/2024-election/)
+* [Top 100 Restaurants](https://www.reviewjournal.com/top-100-restaurants/)
+* [Things To Do In Vegas](https://www.reviewjournal.com/things-to-do-in-vegas/)
 * [What Are They Hiding?](https://www.reviewjournal.com/tag/what-are-they-hiding/)
+* [Election 2024](https://www.reviewjournal.com/tag/2024-election/)
+    * [NV Primary Results](https://www.reviewjournal.com/primary-election-results-2024/)
 * [News](https://www.reviewjournal.com/news/)
     * [Education](https://www.reviewjournal.com/local/education/)
     * [Politics and Government](https://www.reviewjournal.com/news/politics-and-government/)
