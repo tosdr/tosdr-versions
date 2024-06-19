@@ -28,19 +28,11 @@ By Use Case
 
 Resources
 
-[Gather Academy](https://www.gather.town/academy)[Office Tour](https://www.gather.town/take-a-tour)[Customer Stories](https://www.gather.town/blog-categories/customer-spotlights)[Help Center](https://support.gather.town/hc)
+[Gather Academy](https://www.gather.town/academy)[Office Tour](https://www.gather.town/take-a-tour)[Customer Stories](https://www.gather.town/customer-stories)[Help Center](https://support.gather.town/hc)
 
 [Contact Sales](https://www.gather.town/contact-sales)
 
 [Get started](https://app.gather.town/get-started)[Sign In](http://gather.town/signin)
-
-##### This website uses cookies
-
-This site uses cookies to analyze traffic and performance and to save user preferences.  
-‍  
-[Learn more about how we use cookies.](https://www.gather.town/privacy-policy)
-
-[Decline](#)[Accept](#)
 
 **Gather Data Processing Addendum**
 ===================================
@@ -823,8 +815,8 @@ Remote work
 
 Resources
 
-[Gather Academy](https://www.gather.town/academy)[Customer stories](https://www.gather.town/blog?tag=Customer+Spotlights)[Help center](https://support.gather.town/hc)[Status](https://status.gather.town/)
+[Gather Academy](https://www.gather.town/academy)[Customer stories](https://www.gather.town/customer-stories)[Help center](https://support.gather.town/hc)[Status](https://status.gather.town/)
 
 Company
 
-[About](https://www.gather.town/about)[Careers](https://www.gather.town/careers)[Contact us](https://www.gather.town/contact)
+[About](https://www.gather.town/about)[Careers](https://boards.greenhouse.io/gather)[Contact us](https://www.gather.town/contact)
