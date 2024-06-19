@@ -6,7 +6,7 @@
 * [Sports](https://www.fox4news.com/sports)
 * [Good Day](https://www.fox4news.com/shows/good-day)
 * [Traffic](https://www.fox4news.com/traffic)
-* [Election](https://www.fox4news.com/election)
+* [Vote](https://www.fox4news.com/vote)
 * [More](#)
 
 [Watch Live](https://www.fox4news.com/live)
@@ -96,17 +96,13 @@ Search site
 
 [River Flood Warning
 
-until TUE 11:34 PM CDT, Navarro County, Henderson County](https://www.fox4news.com/weather-alerts)
+until SAT 4:00 PM CDT, Anderson County](https://www.fox4news.com/weather-alerts)
 
-3
-
-[River Flood Warning
-
-is in effect, Hopkins County, Delta County, Freestone County, Anderson County, Anderson County, Anderson County](https://www.fox4news.com/weather-alerts)
+2
 
 [River Flood Warning
 
-until TUE 7:00 AM CDT, Red River County](https://www.fox4news.com/weather-alerts)
+until SUN 1:00 AM CDT, Anderson County](https://www.fox4news.com/weather-alerts)
 
 Privacy Policy
 ==============
@@ -402,35 +398,35 @@ _**Consumer Rights under Virginia, Colorado, Connecticut, and other similar laws
 
 [View More](https://www.fox4news.com/news)
 
- [![Meals on Wheels of Collin County distributes 'survival kits' for seniors affected by storms](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/snapshot-77.jpg?ve=1&tl=1)
+ [![Former Highland Village fire chief tried to pay undercover officer $120 for sex act: arrest affidavit](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/highland-village-fire-chief-jason-collier-arrest.png?ve=1&tl=1)
 
- ![Meals on Wheels of Collin County distributes 'survival kits' for seniors affected by storms](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/592/333/snapshot-77.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/meals-wheels-collin-county-distributes-survival-kits-seniors-affected-storms)
+ ![Former Highland Village fire chief tried to pay undercover officer $120 for sex act: arrest affidavit](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/592/333/highland-village-fire-chief-jason-collier-arrest.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/jason-collier-solicitation-of-a-prostitute-arrest-report)
 
-### [Meals on Wheels of Collin County distributes 'survival kits' for seniors affected by storms](https://www.fox4news.com/news/meals-wheels-collin-county-distributes-survival-kits-seniors-affected-storms)
+### [Former Highland Village fire chief tried to pay undercover officer $120 for sex act: arrest affidavit](https://www.fox4news.com/news/jason-collier-solicitation-of-a-prostitute-arrest-report)
 
- [![Boat ramps, recreation areas closed due to flooding at North Texas lakes](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/060824-NTX-LAKE-LEVELS-RAW-JB_KDFW9f85_186_mp4_00.04.38.28.jpg?ve=1&tl=1)
+ [![MLB icon Willie Mays dies at 93](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/96cdc4b0-GENERIC-WEB-MAIN-2.jpg?ve=1&tl=1)
 
- ![Boat ramps, recreation areas closed due to flooding at North Texas lakes](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/592/333/060824-NTX-LAKE-LEVELS-RAW-JB_KDFW9f85_186_mp4_00.04.38.28.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/lake-levels-north-texas-june-2024)
+ ![MLB icon Willie Mays dies at 93](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/592/333/96cdc4b0-GENERIC-WEB-MAIN-2.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/mlb-icon-willie-mays-dies-93)
 
-### [Boat ramps, recreation areas closed due to flooding at North Texas lakes](https://www.fox4news.com/news/lake-levels-north-texas-june-2024)
+### [MLB icon Willie Mays dies at 93](https://www.fox4news.com/news/mlb-icon-willie-mays-dies-93)
 
- [![3 Texas counties added to federal disaster declaration](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/V-INTRO-DALLAS-COUNTY-STORM-DAMAGE-9P_KDFW93fd_146_00.00.09.42.jpg?ve=1&tl=1)
+ [![Boeing CEO apologizes to families of 737 Max crash victims during Senate panel testimony](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/Boeing-CEO-testimony.jpg?ve=1&tl=1)
 
- ![3 Texas counties added to federal disaster declaration](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/592/333/V-INTRO-DALLAS-COUNTY-STORM-DAMAGE-9P_KDFW93fd_146_00.00.09.42.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fema-ellis-navarro-terrell)
+ ![Boeing CEO apologizes to families of 737 Max crash victims during Senate panel testimony](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/592/333/Boeing-CEO-testimony.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/boeing-ceo-testify-senate-panel)
 
-### [3 Texas counties added to federal disaster declaration](https://www.fox4news.com/news/fema-ellis-navarro-terrell)
+### [Boeing CEO apologizes to families of 737 Max crash victims during Senate panel testimony](https://www.fox4news.com/news/boeing-ceo-testify-senate-panel)
 
- [![Caitlin Clark snubbed from Olympic roster partly due to potential backlash over limited playing time: report](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/05/32/18/GettyImages-2154696522.jpg?ve=1&tl=1)
+ [![Iconic American companies that aren't in America anymore](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/GettyImages-533821994.jpg?ve=1&tl=1)
 
- ![Caitlin Clark snubbed from Olympic roster partly due to potential backlash over limited playing time: report](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/05/32/18/592/333/GettyImages-2154696522.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/caitlin-clark-snubbed-from-olympic-roster-partly-due-potential-backlash-over-limited-playing-time-report)
+ ![Iconic American companies that aren't in America anymore](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/592/333/GettyImages-533821994.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/iconic-american-companies-overseas)
 
-### [Caitlin Clark snubbed from Olympic roster partly due to potential backlash over limited playing time: report](https://www.fox4news.com/sports/caitlin-clark-snubbed-from-olympic-roster-partly-due-potential-backlash-over-limited-playing-time-report)
+### [Iconic American companies that aren't in America anymore](https://www.fox4news.com/news/iconic-american-companies-overseas)
 
- [![Heliot Ramos drives in all the Giants runs in a 3-1 win at Bochy-managed Texas to take the series](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/GettyImages-2156098923.jpg?ve=1&tl=1)
+ [![US Secret Service agent robbed at gunpoint during President Biden's California visit](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/GettyImages-2157153391-a.jpg?ve=1&tl=1)
 
- ![Heliot Ramos drives in all the Giants runs in a 3-1 win at Bochy-managed Texas to take the series](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/592/333/GettyImages-2156098923.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/heliot-ramos-drives-all-giants-runs-3-1-win-bochy-managed-texas-take-series)
+ ![US Secret Service agent robbed at gunpoint during President Biden's California visit](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/592/333/GettyImages-2157153391-a.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/secret-service-agent-robbed-gunpoint-biden)
 
-### [Heliot Ramos drives in all the Giants runs in a 3-1 win at Bochy-managed Texas to take the series](https://www.fox4news.com/sports/heliot-ramos-drives-all-giants-runs-3-1-win-bochy-managed-texas-take-series)
+### [US Secret Service agent robbed at gunpoint during President Biden's California visit](https://www.fox4news.com/news/secret-service-agent-robbed-gunpoint-biden)
 
 ###### [News](https://www.fox4news.com/news)
 
