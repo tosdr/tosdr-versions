@@ -23,7 +23,7 @@ Privacy and Terms
 Overleaf Privacy & Terms Overview
 ---------------------------------
 
-Last Modified: 16th August 2023
+Last Modified: 14th June 2024
 
 Thank you for using Overleaf!
 
@@ -38,15 +38,15 @@ Below you will find the full Terms of Service, Privacy Notice, Cookie Policy, Se
 Overleaf Terms of Service
 -------------------------
 
-Last Modified: 16th August 2023
+Last Modified: 14th June 2024
 
-These terms of service (the **“Terms”**) govern your access to and use of the website at [www.overleaf.com](https://www.overleaf.com/) or [www.sharelatex.com](https://www.sharelatex.com/) (the **“Site”**) and services (the **“Services”**) provided by Digital Science UK Limited **(“we”** or **“our”** or **“Overleaf”**), so please carefully read them before using the Services.
+These terms of service (the **“Terms”**) govern your access to and use of the website at [www.overleaf.com](https://www.overleaf.com/) or [www.sharelatex.com](https://www.sharelatex.com/) (the **“Site”**) and the products and services made available via or in connection with the Site, including related apps and browser extensions (the **“Services”**) provided by Digital Science UK Limited (**“we”** or **“our”** or **“Overleaf”**), so please carefully read them before using the Services.
 
 By using the Services, you agree to be bound by these Terms. If you are using the Services on behalf of an organization, you are agreeing to these Terms for that organization and promising that you have the authority to bind that organization to these terms. In that case, “you” and “your” will refer to that organization.
 
 By accessing or otherwise using any part of the Services, including to register an account, you acknowledge your agreement to these Terms, in consideration for the mutual promises and obligations contained herein and to the exclusion (to the maximum extent permitted by applicable law) of all other terms and/or conditions which you may purport to apply, including under any purchase order or similar document, even if they do not explicitly contradict.
 
-You may use the Services only in compliance with these Terms. You may use the Services only if you have the power to form a contract with us and are not barred under any applicable laws from doing so, including if you are too young to enter into a binding contract. The Services may continue to change over time as we refine and add more features. We may stop, suspend, or modify the Services at any time without prior notice to you (but recognising your work is important to you, please read the note below on access to your files in these circumstances). We may also remove any content from our Services at our discretion.
+You may use the Services only in compliance with these Terms. You may use the Services only if you have the power to form a contract with us and are not barred under any applicable laws from doing so, including if you are too young to enter into a binding contract or because you are based in a sanctioned country or are on a sanctions list. The Services may continue to change over time as we refine and add more features. We may stop, suspend, or modify the Services at any time without prior notice to you (but recognising your work is important to you, please read the note below on access to your files in these circumstances). We may also remove any content from our Services at our discretion.
 
 ### Your Stuff & Your Privacy
 
@@ -68,11 +68,11 @@ The Services provide features that allow you to share your stuff with others (in
 
 ### Registering with us
 
-When registering to use a Service you must choose a username and password, unless you use a single sign-on (SSO) option where supported. You are responsible for all actions taken under your chosen username and password, which you will keep private and not allow anyone else to use.
+When registering to use a Service you must choose a username and password, unless you use a single sign-on (SSO) option where supported. You are responsible for all actions taken under your chosen username and password, even if you have not authorized them, which you will keep private and not allow anyone else to use.
 
 You must ensure that the information you provide is accurate and truthful, and to tell us promptly if it changes.
 
-You should immediately notify us of any unauthorized use of your account. You acknowledge that if you wish to protect your transmission of data or files to Overleaf, it is your responsibility to use a secure encrypted connection to communicate with the Services.
+You should immediately notify us of any unauthorized use of your account and update your user credentials if you suspect that they are not secure. You acknowledge that if you wish to protect your transmission of data or files to Overleaf, it is your responsibility to use a secure encrypted connection to communicate with the Services.
 
 ### Managed Accounts
 
@@ -86,7 +86,7 @@ The Service is owned by or licensed to Overleaf and/or its affiliates, and is pr
 
 You agree not to remove, suppress or modify in any way the proprietary markings, including any trademark or copyright notice, used in relation to part of the Service.
 
-Unless otherwise agreed in a Contract, the Service is provided for your own non-commercial, internal and personal use, at all times subject to these Terms. For paid subscriptions **_(excluding personal or student plans)_**, you may also use the Service for your own internal business purposes (which, for the avoidance of doubt, would not include the right to re-sell or commercialize access). You shall not otherwise use any part of the Service without our prior and express written agreement.
+Unless otherwise agreed in a Contract, the Service is provided for your own non-commercial, internal and personal use, at all times subject to these Terms. For paid subscriptions (excluding personal or student plans), you may also use the Service for your own internal business purposes (which, for the avoidance of doubt, would not include the right to re-sell or commercialize access). You shall not otherwise use any part of the Service without our prior and express written agreement.
 
 If you are an organization, unless requested in writing otherwise, we may publicly refer to you as a customer, including on our website(s) and presentational material, provided such reference accurately reflects the nature of our relationship and that any use of your trade marks is in accordance with your reasonable guidelines given as to the form and manner of their use.
 
@@ -98,9 +98,17 @@ Files and other content in the Services you receive or share may be protected by
 
 You are responsible for maintaining and protecting all of your stuff, and should always make sure to keep a local copy. We will not be liable for any loss or corruption of your stuff, or for any costs or expenses associated with backing up or restoring it.
 
+### Beta Services
+
+From time to time, we may make available Beta Services. Beta Services may not always perform as expected and may be changed or withdrawn at any time without notice. Any use of Beta Services, which are provided “AS IS” and “AS AVAILABLE”, is solely at your own risk, and may be subject to additional requirements specified by us and include features that are of a confidential nature. You agree not to make public statements relating to any Beta Service without our prior written approval, and specifically acknowledge that any feedback you provide in relation to any Beta Service, and data collected from their use, may be used to help us develop and improve our products.
+
+All Beta Services shall be considered as being made available subject to these Terms, to the exclusion of all other terms and conditions, including those of any Contract - even where a Beta Service is an additional feature or module to a Service provided as part of a Contract - unless the Beta Service is specifically identified in the Contract as being provided pursuant thereto.
+
+The term “Beta Service” includes any service or feature that is identified, including via the applicable user interface or other communication from us, as “Beta”, “Prototype”, “Limited Release”, “Early Release” or similar, or provided as part of Overleaf Labs.
+
 ### Your Feedback
 
-While we appreciate it when users send us or post in our forums feedback, suggestions or other comments, please be aware that we may use, edit and disclose these without any obligation to you.
+While we appreciate it when users provide us or post in our forums feedback, suggestions or other comments, please be aware that we may use, edit and disclose these without any obligation to you. By providing such comments, you irrevocably grant all rights necessary for their use for product improvement purposes and otherwise as we may choose.
 
 You are responsible for ensuring that any comments you make do not contain any material that could be considered offensive, false, defamatory or unlawful or violates any Proprietary Rights or other rights.
 
@@ -154,7 +162,7 @@ If your subscription for a paid account expires (including where payment has bee
 
 If you don’t want to continue to have an account with us at all, unless you have a managed account, you may close your account via your Account Settings. We may retain and use your stuff as necessary to comply with our legal obligations, resolve disputes and enforce our agreements. Consistent with these requirements, we will try to delete your stuff quickly but there might be latency in deletions from our servers, and backed-up versions might persist. In addition, files that you have in common with other users may be retained.
 
-For managed accounts, the Manager Organization can close your account at any time and access, delete and/or share your stuff, including by re-assigning projects - see “Managed Accounts” section).
+For managed accounts, the Manager Organization can close your account at any time and access, delete and/or share your stuff, including by re-assigning projects - see “Managed Accounts” section.
 
 ### Overleaf is provided “AS-IS”
 
@@ -413,13 +421,13 @@ Overleaf Security Overview
 
 Last Modified: 27th September 2023
 
-We provide this overview so that you can better understand the security measures we’ve put in place to protect the information that you store using Overleaf.
+We provide this overview so that you can better understand the security measures we’ve put in place to protect the information that you store using our Services.
 
 ### Security Certifications
 
 #### Overleaf & Digital Science's Commitment to Information Security and Privacy
 
-Overleaf, as part of Digital Science, is committed to preserving the confidentiality, integrity and availability of its information assets, including customer data in its control. As part of that commitment, Digital Science has established an Information Security and Privacy Management System that has been independently audited and certified to be in compliance with ISO/IEC 27001:2013 (Information Security Management System) and 27701:2019 (Privacy Information Management System) standards.
+Overleaf, as part of Digital Science, is committed to preserving the confidentiality, integrity and availability of its information assets, including customer data in its control. As part of that commitment, Digital Science has established an Information Security and Privacy Management System that has been independently audited and certified to be in compliance with ISO/IEC 27001:2013 (Information Security Management System).
 
 The scope and detail of these ISO certifications are summarized on [the Digital Science website](https://www.digital-science.com/security-certifications/).
 
@@ -469,7 +477,7 @@ You agree not to misuse the Overleaf services. For example, you must not, and mu
 * access or use any non-public area / content or shared area you have not been invited to;
 * interfere with or disrupt any user, host, or network, for example by overloading, flooding, spamming, or mail-bombing;
 * introduce, or otherwise use to facilitate the spread of, spyware or any other malware;
-* access or search by any means other than our publicly supported interfaces (for example, “scraping”);
+* access or search by any means other than our publicly supported interfaces (for example, you must not use any manual or automated means, including robots, scripts, or spiders to access, monitor, crawl, scrape, spider or mine);
 * send unsolicited communications or spam;
 * send altered, deceptive or false source-identifying information, including “spoofing” or “phishing”;
 * promote or advertise products or services;
@@ -567,7 +575,7 @@ What do you need help with?
 
 Please select…Using LaTeXUsing the Overleaf EditorLogging in or managing your accountManaging your subscriptionUsing premium featuresContacting the Sales teamOther
 
-Affected project URL (Optional)
+Affected project URL  (Optional)
 
 Let us know how we can help
 
