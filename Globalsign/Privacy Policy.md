@@ -50,7 +50,6 @@ Menu Menu
             * [Qualified Signatures & Seals](https://www.globalsign.com/en/qualified-electronic-signatures-seals)
             * [Adobe Approved Trust List (AATL) Signatures](https://www.globalsign.com/en/adobe-approved-trust-list-aatl-signatures)
             * [GMO Sign](https://www.globalsign.com/en/gmo-sign/how-it-works)
-            * [GMO Sign](https://www.globalsign.com/en/gmo-sign/how-it-works)
             
         * #### Custom CA/ Private PKI
             
@@ -161,19 +160,22 @@ Menu Menu
         * [Regional Enterprise Partner](https://www.globalsign.com/en/partner/regional-enterprise-partners)
         * [Reseller Partners](https://www.globalsign.com/en/partner/reseller-partners)
         
-* [Resources](https://www.globalsign.com/en/resources)
-    * [Datasheets](https://www.globalsign.com/en/resources/datasheets)
-    * [White Papers & eBooks](https://www.globalsign.com/en/resources/white-papers-ebooks)
+* [Resources](https://www.globalsign.com/en/resources) [Resources](https://www.globalsign.com/en-sg/resources)
+    * [Datasheets](https://www.globalsign.com/en/resources/datasheets) [Datasheets](https://www.globalsign.com/en-sg/resources/datasheets)
+    * [White Papers & eBooks](https://www.globalsign.com/en/resources/white-papers-ebooks) [White Papers & eBooks](https://www.globalsign.com/en-sg/resources/white-papers-ebooks)
     * [Case Studies](https://www.globalsign.com/en/resources/case-studies)
-    * [How-to Videos](https://www.globalsign.com/en/resources/how-videos)
-    * [Webinars](https://www.globalsign.com/en/resources/webinars)
+    * [How-to Videos](https://www.globalsign.com/en/resources/how-videos) [How-to Videos](https://www.globalsign.com/en-sg/resources/how-videos)
+    * [Site Seal](https://www.globalsign.com/en/ssl/secure-site-seal)
+    * [Webinars](https://www.globalsign.com/en/resources/webinars) [Webinars](https://www.globalsign.com/en-sg/resources/webinars)
     * [Information Center](https://www.globalsign.com/en/ssl-information-center)
     * [API Documentation](https://www.globalsign.com/en/resources/apis/api-documentation/)
+    * [Legality Guidelines](https://www.globalsign.com/en/legality-guidelines)
     * [Vetting Guidelines](https://www.globalsign.com/en/company/vetting-guidelines)
 * [Support](https://support.globalsign.com/)
 * [Company](https://www.globalsign.com/en/company)
     * [News & Events](https://www.globalsign.com/en/company/news-events/)
     * [Blog](https://www.globalsign.com/en/blog)
+    * [Blog](https://www.globalsign.com/en-sg/blog)
     * [Leadership](https://www.globalsign.com/en/company/leadership)
     * [Careers](https://www.globalsign.com/en/company/careers)
     * [Locations & Contact](https://www.globalsign.com/en/company/contact)
@@ -198,6 +200,7 @@ Menu Menu
         * [Document Signing](https://shop.globalsign.com/en/document-signing)
         * [Code Signing](https://shop.globalsign.com/en/code-signing)
         * [S/MIME Certificates](https://shop.globalsign.com/en/secure-email)
+        * [GMO Sign](https://www.globalsign.com/en/gmo-sign/how-it-works)
         
     * SPECIALTY CERTIFICATES
         
@@ -457,7 +460,7 @@ APAC
 
 * [日本語 / 日本](https://jp.globalsign.com/)
 * [中文 / 中华人民共和国](https://www.globalsign.cn/)
-* [EN / Hong Kong](https://www.globalsign.com/en-hk)
+* [EN / Hong Kong](https://www.globalsign.com/en)
 * [EN / India](https://www.globalsign.com/en)
 * [EN / Singapore](https://www.globalsign.com/en-sg)
 * [EN / Australia & New Zealand](https://www.globalsign.com/en-au)
