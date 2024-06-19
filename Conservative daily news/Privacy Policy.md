@@ -1,15 +1,15 @@
-Sunday, June 9 2024
+Tuesday, June 18 2024
 
 Breaking News
 
-* [HERO: Surgeon Indicted By Biden DOJ For Blowing Whistle On Child Sex Changes Speaks Out](https://www.conservativedailynews.com/2024/06/hero-surgeon-indicted-by-biden-doj-for-blowing-whistle-on-child-sex-changes-speaks-out/)
-* [President Joe Biden’s Schedule for Sunday, June 9, 2024](https://www.conservativedailynews.com/2024/06/president-joe-bidens-schedule-for-sunday-june-9-2024/)
-* [Pro-Palestinian Protesters Vandalize Statues Outside White House During Massive Protest](https://www.conservativedailynews.com/2024/06/pro-palestinian-protesters-vandalize-statues-outside-white-house-during-massive-protest/)
-* [Texas’ Power Grid Could Be Pushed To The Brink Again This Summer, Utility Exec Says](https://www.conservativedailynews.com/2024/06/texas-power-grid-could-be-pushed-to-the-brink-again-this-summer-utility-exec-says/)
-* [President Biden and President Emmanuel Macron of France Deliver Statements to the Press – 6/8/24](https://www.conservativedailynews.com/2024/06/president-biden-and-president-emmanuel-macron-of-france-deliver-statements-to-the-press-6-8-24/)
-* [Voter ID For ME & The Dinner Table](https://www.conservativedailynews.com/2024/06/voter-id-for-me-the-dinner-table/)
-* [Here Is Why The Left Is Desperate To Keep These Cases Out Of The Supreme Court](https://www.conservativedailynews.com/2024/06/here-is-why-the-left-is-desperate-to-keep-these-cases-out-of-the-supreme-court/)
-* [Biden Admin Cements Latest Rule To Further Force EVs On Americans](https://www.conservativedailynews.com/2024/06/biden-admin-cements-latest-rule-to-further-force-evs-on-americans/)
+* [Jill Biden Says Don’t Believe Your Eyes](https://www.conservativedailynews.com/2024/06/jill-biden-says-dont-believe-your-eyes/)
+* [The Left Is As Trashy As Supermarket Tabloids](https://www.conservativedailynews.com/2024/06/the-left-is-as-trashy-as-supermarket-tabloids/)
+* [President Joe Biden’s Schedule for Tuesday, June 18, 2024](https://www.conservativedailynews.com/2024/06/president-joe-bidens-schedule-for-tuesday-june-18-2024/)
+* [White House Press Briefing with Karine Jean-Pierre – 6/18/24](https://www.conservativedailynews.com/2024/06/white-house-press-briefing-with-karine-jean-pierre-6-18-24/)
+* [Illegal Immigrant ‘Gotaways’ Near Two Million Under Biden Admin](https://www.conservativedailynews.com/2024/06/illegal-immigrant-gotaways-near-two-million-under-biden-admin/)
+* [Ex-CNN Analyst Breaks Down Just How ‘Pro-Biden’ His Former Network’s Rules Are In Upcoming Trump Debate](https://www.conservativedailynews.com/2024/06/ex-cnn-analyst-breaks-down-just-how-pro-biden-his-former-networks-rules-are-in-upcoming-trump-debate/)
+* [Meet The Dark Money Network Secretly Transforming America](https://www.conservativedailynews.com/2024/06/meet-the-dark-money-network-secretly-transforming-america/)
+* [America’s Education System Is Crumbling In Plain Sight](https://www.conservativedailynews.com/2024/06/americas-education-system-is-crumbling-in-plain-sight/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -103,82 +103,80 @@ Support Conservative Daily News with a small donation via [Paypal or credit card
 * [Twitter](https://twitter.com/CDNPosts)
 * [Telegram](https://t.me/CDNMedia)
 
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/01/us-supreme-court-building-g9793e7da6_1280-220x150.jpg)](https://www.conservativedailynews.com/2024/06/here-is-why-the-left-is-desperate-to-keep-these-cases-out-of-the-supreme-court/)
+* [![Joe Biden debate Donald Trump](https://www.conservativedailynews.com/wp-content/uploads/2024/05/gv051824dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/06/ex-cnn-analyst-breaks-down-just-how-pro-biden-his-former-networks-rules-are-in-upcoming-trump-debate/)
     
-    [Here Is Why The Left Is Desperate To Keep These Cases Out Of The Supreme Court](https://www.conservativedailynews.com/2024/06/here-is-why-the-left-is-desperate-to-keep-these-cases-out-of-the-supreme-court/)
+    [Ex-CNN Analyst Breaks Down Just How ‘Pro-Biden’ His Former Network’s Rules Are In Upcoming Trump Debate](https://www.conservativedailynews.com/2024/06/ex-cnn-analyst-breaks-down-just-how-pro-biden-his-former-networks-rules-are-in-upcoming-trump-debate/)
     
-    June 8, 2024
+    June 17, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/08/gv081723dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/06/biden-admin-cements-latest-rule-to-further-force-evs-on-americans/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/12/jack-Smith-220x150.jpg)](https://www.conservativedailynews.com/2024/06/scrutiny-over-jack-smiths-potentially-unlawful-appointment-could-undermine-his-prosecution-of-trump/)
     
-    [Biden Admin Cements Latest Rule To Further Force EVs On Americans](https://www.conservativedailynews.com/2024/06/biden-admin-cements-latest-rule-to-further-force-evs-on-americans/)
+    [Scrutiny Over Jack Smith’s Potentially ‘Unlawful’ Appointment Could Undermine His Prosecution Of Trump](https://www.conservativedailynews.com/2024/06/scrutiny-over-jack-smiths-potentially-unlawful-appointment-could-undermine-his-prosecution-of-trump/)
     
-    June 8, 2024
+    June 16, 2024
     
 
 Recent Posts
 
-* [![gender surgery pediaquack](https://www.conservativedailynews.com/wp-content/uploads/2023/06/mrz061323dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/06/hero-surgeon-indicted-by-biden-doj-for-blowing-whistle-on-child-sex-changes-speaks-out/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/06/IMG_5140-220x150.jpeg)](https://www.conservativedailynews.com/2024/06/jill-biden-says-dont-believe-your-eyes/)
     
-    [HERO: Surgeon Indicted By Biden DOJ For Blowing Whistle On Child Sex Changes Speaks Out](https://www.conservativedailynews.com/2024/06/hero-surgeon-indicted-by-biden-doj-for-blowing-whistle-on-child-sex-changes-speaks-out/)
+    [Jill Biden Says Don’t Believe Your Eyes](https://www.conservativedailynews.com/2024/06/jill-biden-says-dont-believe-your-eyes/)
     
-    June 9, 2024
+    June 18, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/02/Joe-Biden-Air-Force-One-220x150.png)](https://www.conservativedailynews.com/2024/06/president-joe-bidens-schedule-for-sunday-june-9-2024/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/06/IMG_5136-220x150.jpeg)](https://www.conservativedailynews.com/2024/06/the-left-is-as-trashy-as-supermarket-tabloids/)
     
-    [President Joe Biden’s Schedule for Sunday, June 9, 2024](https://www.conservativedailynews.com/2024/06/president-joe-bidens-schedule-for-sunday-june-9-2024/)
+    [The Left Is As Trashy As Supermarket Tabloids](https://www.conservativedailynews.com/2024/06/the-left-is-as-trashy-as-supermarket-tabloids/)
     
-    June 9, 2024
+    June 18, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/06/Protesters-attack-Lafayette-Square-DC-220x150.jpg)](https://www.conservativedailynews.com/2024/06/pro-palestinian-protesters-vandalize-statues-outside-white-house-during-massive-protest/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/12/Joe-Biden-Beach-House-Rehoboth-220x150.jfif)](https://www.conservativedailynews.com/2024/06/president-joe-bidens-schedule-for-tuesday-june-18-2024/)
     
-    [Pro-Palestinian Protesters Vandalize Statues Outside White House During Massive Protest](https://www.conservativedailynews.com/2024/06/pro-palestinian-protesters-vandalize-statues-outside-white-house-during-massive-protest/)
+    [President Joe Biden’s Schedule for Tuesday, June 18, 2024](https://www.conservativedailynews.com/2024/06/president-joe-bidens-schedule-for-tuesday-june-18-2024/)
     
-    June 9, 2024
+    June 18, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/02/Prepare-fun-activities.jpg)](https://www.conservativedailynews.com/2024/06/raising-children-nurture-nature-or-destination/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/07/1657581402_maxresdefault-220x150.jpg)](https://www.conservativedailynews.com/2024/06/white-house-press-briefing-with-karine-jean-pierre-6-18-24/)
     
-    [Raising children, nurture, nature or destination?](https://www.conservativedailynews.com/2024/06/raising-children-nurture-nature-or-destination/)
+    [White House Press Briefing with Karine Jean-Pierre – 6/18/24](https://www.conservativedailynews.com/2024/06/white-house-press-briefing-with-karine-jean-pierre-6-18-24/)
     
-    June 8, 2024
+    June 18, 2024
     
-* [![Electric transmission tower](https://www.conservativedailynews.com/wp-content/uploads/2018/02/Electric-transmission-tower.jpg)](https://www.conservativedailynews.com/2024/06/texas-power-grid-could-be-pushed-to-the-brink-again-this-summer-utility-exec-says/)
+* [How DARE YOU!](https://www.conservativedailynews.com/2024/06/how-dare-you/)
     
-    [Texas’ Power Grid Could Be Pushed To The Brink Again This Summer, Utility Exec Says](https://www.conservativedailynews.com/2024/06/texas-power-grid-could-be-pushed-to-the-brink-again-this-summer-utility-exec-says/)
+    June 18, 2024
     
-    June 8, 2024
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/11/Dennis-Prager-220x150.jpg)](https://www.conservativedailynews.com/2024/06/germans-even-during-the-hitler-era-were-a-better-people-than-the-palestinians/)
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/01/Biden-Jan-6-speech-220x150.jpg)](https://www.conservativedailynews.com/2024/06/president-biden-and-president-emmanuel-macron-of-france-deliver-statements-to-the-press-6-8-24/)
+    [Germans — Even During the Hitler Era — Were a Better People Than the Palestinians](https://www.conservativedailynews.com/2024/06/germans-even-during-the-hitler-era-were-a-better-people-than-the-palestinians/)
     
-    [President Biden and President Emmanuel Macron of France Deliver Statements to the Press – 6/8/24](https://www.conservativedailynews.com/2024/06/president-biden-and-president-emmanuel-macron-of-france-deliver-statements-to-the-press-6-8-24/)
+    June 18, 2024
     
-    June 8, 2024
+* [![Joe Biden old dementia G7ac](https://www.conservativedailynews.com/wp-content/uploads/2024/06/gv061824dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/06/an-old-joke/)
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/06/IMG_5105-1024x528-220x150.jpeg)](https://www.conservativedailynews.com/2024/06/voter-id-for-me-the-dinner-table/)
+    [An Old Joke](https://www.conservativedailynews.com/2024/06/an-old-joke/)
     
-    [Voter ID For ME & The Dinner Table](https://www.conservativedailynews.com/2024/06/voter-id-for-me-the-dinner-table/)
+    June 18, 2024
     
-    June 8, 2024
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/11/Depositphotos_220509704_S-1-220x150.jpg)](https://www.conservativedailynews.com/2024/06/diy-watercolors-free-credit-reports-cosmetics-shelf-life/)
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/01/us-supreme-court-building-g9793e7da6_1280-220x150.jpg)](https://www.conservativedailynews.com/2024/06/here-is-why-the-left-is-desperate-to-keep-these-cases-out-of-the-supreme-court/)
+    [DIY Watercolors, Free Credit Reports, Cosmetics’ Shelf Life](https://www.conservativedailynews.com/2024/06/diy-watercolors-free-credit-reports-cosmetics-shelf-life/)
     
-    [Here Is Why The Left Is Desperate To Keep These Cases Out Of The Supreme Court](https://www.conservativedailynews.com/2024/06/here-is-why-the-left-is-desperate-to-keep-these-cases-out-of-the-supreme-court/)
-    
-    June 8, 2024
+    June 18, 2024
     
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
-* [What’s In Your Range Bag, Marco De La Rosa?](https://www.thegunpage.com/whats-in-your-range-bag-marco-de-la-rosa/10608788)
-* [Bill McGuire Secures FITASC Veteran HOA Win At 2024 World Sporting Clays Championship](https://www.thegunpage.com/bill-mcguire-secures-fitasc-veteran-hoa-win-at-2024-world-sporting-clays-championship/10608782)
-* [NRA Updates Range Development And Operations Online Course](https://www.thegunpage.com/nra-updates-range-development-and-operations-online-course/10608781)
-* [Magpul Adds Rider Sunglasses To Eyewear Lineup](https://www.thegunpage.com/magpul-adds-rider-sunglasses-to-eyewear-lineup/10608779)
-* [Private school founder destroys every argument against arming teachers](https://www.thegunpage.com/private-school-founder-destroys-every-argument-against-arming-teachers/10608771)
-* [Hornady Manufacturing Celebrates 75 Years Of Bullet Making](https://www.thegunpage.com/hornady-manufacturing-celebrates-75-years-of-bullet-making/10608774)
-* [USPSA’s Staci Pulver: 25 Years And Counting](https://www.thegunpage.com/uspsas-staci-pulver-25-years-and-counting/10608770)
-* [NRA Introduces Pistol And Smallbore Classifications: 1939 National Matches](https://www.thegunpage.com/nra-introduces-pistol-and-smallbore-classifications-1939-national-matches/10608769)
-* [Federal Ammunition Renews Support Of Minnesota High School Trap Championship](https://www.thegunpage.com/federal-ammunition-renews-support-of-minnesota-high-school-trap-championship/10608764)
-* [Team Winchester & White Flyer’s Eric Harvey Wins Main Event At 2024 NSCA North Central Regional](https://www.thegunpage.com/team-winchester-white-flyers-eric-harvey-wins-main-event-at-2024-nsca-north-central-regional/10608763)
+* [ISSF Lonato World Cup: Vincent Hancock, Austen Smith Win Skeet Mixed Team Gold](https://www.thegunpage.com/issf-lonato-world-cup-vincent-hancock-austen-smith-win-skeet-mixed-team-gold/10608882)
+* [Even the CDC admits its latest anti-gun report is misleading and full of holes](https://www.thegunpage.com/even-the-cdc-admits-its-latest-anti-gun-report-is-misleading-and-full-of-holes/10608875)
+* [Hillsdale College, USA Shooting Celebrate Partnership](https://www.thegunpage.com/hillsdale-college-usa-shooting-celebrate-partnership/10608881)
+* [New: Tisas USA Fatih B380](https://www.thegunpage.com/new-tisas-usa-fatih-b380/10608877)
+* [USA Shooting: Meet Your Paris 2024 Olympic Shotgun Team](https://www.thegunpage.com/usa-shooting-meet-your-paris-2024-olympic-shotgun-team/10608874)
+* [Register Now For The 2024 NRA National Matches](https://www.thegunpage.com/register-now-for-the-2024-nra-national-matches/10608873)
+* [Erich Mietenkorte Clinches Fourth Consecutive Iron Man Regional Silhouette Championship](https://www.thegunpage.com/erich-mietenkorte-clinches-fourth-consecutive-iron-man-regional-silhouette-championship/10608867)
+* [Grand American World Trapshooting Championships Celebrating 125th Anniversary](https://www.thegunpage.com/grand-american-world-trapshooting-championships-celebrating-125th-anniversary/10608868)
+* [The M1 Rifle In Competition: 1940 National Matches](https://www.thegunpage.com/the-m1-rifle-in-competition-1940-national-matches/10608866)
+* [New: Beretta 92GTS Centurion](https://www.thegunpage.com/new-beretta-92gts-centurion/10608862)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -220,15 +218,15 @@ Contact Us
 
 Recent Comments
 
-* KayCee on [American-Born Workers Are Getting Killed In Biden’s Economy. Here’s Why](https://www.conservativedailynews.com/2024/06/american-born-workers-are-getting-killed-in-bidens-economy-heres-why/#comment-775390)
-* KayCee on [Olympic Committee Warns Media Against Using ‘Biologically Male,’ ‘Female’ When Referring To Trans Athletes](https://www.conservativedailynews.com/2024/06/olympic-committee-warns-media-against-using-biologically-male-female-when-referring-to-trans-athletes/#comment-775389)
-* [clm](http://conservativedailynews.com/) on [Can We Trust The Outcome In November](https://www.conservativedailynews.com/2024/06/can-we-trust-the-outcome-in-november/#comment-775381)
-* KayCee on [Embarrassing](https://www.conservativedailynews.com/2024/06/embarrassing/#comment-775343)
-* KayCee on [NYC Lawmakers Unveil Bill To End City’s Sanctuary Status Amid Immigration Crisis](https://www.conservativedailynews.com/2024/06/nyc-lawmakers-unveil-bill-to-end-citys-sanctuary-status-amid-immigration-crisis/#comment-775342)
-* Will Delito on [Elon Musk’s X Asks Supreme Court To Weigh In On Jack Smith’s Trump Search Warrant](https://www.conservativedailynews.com/2024/06/elon-musks-x-asks-supreme-court-to-weigh-in-on-jack-smiths-trump-search-warrant/#comment-775337)
-* KayCee on [Can We Trust The Outcome In November](https://www.conservativedailynews.com/2024/06/can-we-trust-the-outcome-in-november/#comment-775325)
-* KayCee on [Of ‘Convicted Felons’ and Lying Frauds](https://www.conservativedailynews.com/2024/06/of-convicted-felons-and-lying-frauds/#comment-775317)
-* MeMyself&I on [United Launch Alliance Successfully Launches First Crewed Starliner](https://www.conservativedailynews.com/2024/06/united-launch-alliance-successfully-launches-first-crewed-starliner/#comment-775289)
+* KayCee on [America’s Education System Is Crumbling In Plain Sight](https://www.conservativedailynews.com/2024/06/americas-education-system-is-crumbling-in-plain-sight/#comment-775781)
+* KayCee on [If You Don’t Want To Be Killed, Don’t Take Hostages](https://www.conservativedailynews.com/2024/06/if-you-dont-want-to-be-killed-dont-take-hostages/#comment-775704)
+* Jeff L. on [Psychology Professor Jordan Peterson on Trump Derangement Syndrome](https://www.conservativedailynews.com/2024/06/psychology-professor-jordan-peterson-on-trump-derangement-syndrome/#comment-775675)
+* [Capt. Bligh](https://obbop.wordpress.com/) on [Psychology Professor Jordan Peterson on Trump Derangement Syndrome](https://www.conservativedailynews.com/2024/06/psychology-professor-jordan-peterson-on-trump-derangement-syndrome/#comment-775668)
+* KayCee on [Cortez Claims Trump Will Throw Her In Jail](https://www.conservativedailynews.com/2024/06/cortez-claims-trump-will-throw-her-in-jail/#comment-775642)
+* KayCee on [Wise Guys](https://www.conservativedailynews.com/2024/06/wise-guys/#comment-775638)
+* KayCee on [Major Automaker Throws Hail Mary As It Hemorrhages Cash On Electric Vehicles](https://www.conservativedailynews.com/2024/06/major-automaker-throws-hail-mary-as-it-hemorrhages-cash-on-electric-vehicles/#comment-775637)
+* KayCee on [Red Lights Are Flashing As Biden Ignores Them](https://www.conservativedailynews.com/2024/06/red-lights-are-flashing-as-biden-ignores-them/#comment-775636)
+* KayCee on [It’s Time To Defund Alvin Bragg’s Office](https://www.conservativedailynews.com/2024/06/its-time-to-defund-alvin-braggs-office/#comment-775469)
 
 ![sponsored](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
