@@ -1,4 +1,6 @@
-[0](https://blendermarket.com/cart)
+[#### **It's our 10th Birthday, and we're giving you free gifts!**
+
+Check it out!](https://blendermarket.com/birthday)[0](https://blendermarket.com/cart)
 
 [#### Blender Market
 
@@ -252,4 +254,4 @@ Follow us: [Twitter](https://twitter.com/blendermarket), [Facebook](https://www.
 * [Privacy Policy](https://blendermarket.com/policies/privacy-policy)
 * [\[email protected\]](https://blendermarket.com/cdn-cgi/l/email-protection)
 
-© 2024 Blender Market, LLC. All rights reserved. v**2.7.3**
+© 2024 Blender Market, LLC. All rights reserved. v**2.8.0.2**
