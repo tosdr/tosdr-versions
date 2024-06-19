@@ -45,43 +45,23 @@ MENUMENU
 * [Clearance Sale](https://www.hmebc.com/clearance-sale/)
 * Search
     
-      
-    
-        
-    
     Generic filters
-    
-     Hidden label
     
     Exact matches only
     
-     Hidden label
-    
     Search in title
     
-     Hidden label
-    
     Search in content
-    
-     Hidden label
     
     Search in excerpt
     
     Filter by Custom Post Type
     
-     Hidden label
-    
     Search in pages
-    
-     Hidden label
     
     Search in posts
     
-     Hidden label
-    
     Search in Products
-    
-     Hidden label
     
     Search in Rentals
     
