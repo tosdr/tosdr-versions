@@ -87,7 +87,7 @@ Updates from our team, written with love
 
 Email for marketing subscription
 
- Love is coming your way, soon. Try once more, our server fell asleep for a bit.
+Love is coming your way, soon. Try once more, our server fell asleep for a bit. Captcha is required.
 
 * [Home](https://setapp.com/)
 * [How It Works](https://setapp.com/how-it-works)
@@ -127,11 +127,11 @@ Email for marketing subscription
 * [](https://www.facebook.com/setapp)
 * [](https://discord.gg/D7Kc9eQjx6)
 
-[Crafted by ![Macpaw wordmark](https://cdn.setapp.com/master/b5ca865b80b1c6dc2708d8a021f82409e034336e/static/main/images/macpaw-wordmark.svg)](https://macpaw.com/)  [Terms of Use](https://setapp.com/terms-of-use) [Privacy Policy](https://setapp.com/privacy-policy)
+[Crafted by ![Macpaw wordmark](https://cdn.setapp.com/master/c1d0547a621444e38e30555ea4fbe9f8a9379533/static/main/images/macpaw-wordmark.svg)](https://macpaw.com/)  [Terms of Use](https://setapp.com/terms-of-use) [Privacy Policy](https://setapp.com/privacy-policy)
 
 [](https://setapp.com/)
 
-![Setapp logo](https://cdn.setapp.com/master/b5ca865b80b1c6dc2708d8a021f82409e034336e/static/main/images/components/logo/setapp-icon.svg)
+![Setapp logo](https://cdn.setapp.com/master/c1d0547a621444e38e30555ea4fbe9f8a9379533/static/main/images/components/logo/setapp-icon.svg)
 
 #### Setapp is one subscription to 240+ trusted Mac apps
 
@@ -143,14 +143,14 @@ Email for marketing subscription
 
 Create account
 
-![240+ trusted Mac apps](https://cdn.setapp.com/master/b5ca865b80b1c6dc2708d8a021f82409e034336e/static/main/images/components/onboarding/apps-preview.png)
+![240+ trusted Mac apps](https://cdn.setapp.com/master/c1d0547a621444e38e30555ea4fbe9f8a9379533/static/main/images/components/onboarding/apps-preview.png)
 
 ### Setapp is one subscription to 240+ Mac apps.  
 7 days free, then $9.99/month
 
 1
 
-![Become a Setapp member](https://cdn.setapp.com/master/b5ca865b80b1c6dc2708d8a021f82409e034336e/static/main/images/components/onboarding/onboarding-step-signup.svg)
+![Become a Setapp member](https://cdn.setapp.com/master/c1d0547a621444e38e30555ea4fbe9f8a9379533/static/main/images/components/onboarding/onboarding-step-signup.svg)
 
 **Become a Setapp member**
 
@@ -158,7 +158,7 @@ Sign up and download the Setapp app on your Mac.
 
 2
 
-![Find trusted apps for your tasks](https://cdn.setapp.com/master/b5ca865b80b1c6dc2708d8a021f82409e034336e/static/main/images/components/onboarding/onboarding-step-search.svg)
+![Find trusted apps for your tasks](https://cdn.setapp.com/master/c1d0547a621444e38e30555ea4fbe9f8a9379533/static/main/images/components/onboarding/onboarding-step-search.svg)
 
 **Find trusted apps for your tasks**
 
@@ -166,7 +166,7 @@ Use AI search, explore reviews and recommendations.
 
 3
 
-![Install as many as you want](https://cdn.setapp.com/master/b5ca865b80b1c6dc2708d8a021f82409e034336e/static/main/images/components/onboarding/onboarding-step-install.svg)
+![Install as many as you want](https://cdn.setapp.com/master/c1d0547a621444e38e30555ea4fbe9f8a9379533/static/main/images/components/onboarding/onboarding-step-install.svg)
 
 **Install as many as you want**
 
@@ -182,9 +182,9 @@ Continue
 
 or sign in with
 
-[![Apple icon](https://cdn.setapp.com/master/b5ca865b80b1c6dc2708d8a021f82409e034336e/static/main/images/pages/home/apple.svg)](https://my.setapp.com/?authService=apple)
+[![Apple icon](https://cdn.setapp.com/master/c1d0547a621444e38e30555ea4fbe9f8a9379533/static/main/images/pages/home/apple.svg)](https://my.setapp.com/?authService=apple)
 
-[![Google icon](https://cdn.setapp.com/master/b5ca865b80b1c6dc2708d8a021f82409e034336e/static/main/images/pages/home/google.svg)](https://my.setapp.com/?authService=google)
+[![Google icon](https://cdn.setapp.com/master/c1d0547a621444e38e30555ea4fbe9f8a9379533/static/main/images/pages/home/google.svg)](https://my.setapp.com/?authService=google)
 
 Back
 
