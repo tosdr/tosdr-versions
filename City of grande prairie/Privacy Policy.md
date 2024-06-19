@@ -1,5 +1,7 @@
 [Skip to main content](#main-content) [Skip to main menu](#main-menu-wrapper) [Skip to footer](#footer)
 
+Notice | [Complete the 2024 Municipal Census now!](https://www.cityofgp.com/alerts/complete-2024-municipal-census-now)
+
 Information | [Fire Restriction Lifted](https://www.cityofgp.com/alerts/fire-restriction-lifted)
 
 Quick Menu
@@ -51,6 +53,7 @@ Main navigation
         * [Event Calendar Submission Criteria](https://www.cityofgp.com/culture-community/news-events/event-calendar-submission-criteria)
     * [Programs, Workshops & Camps](https://www.cityofgp.com/parks-recreation/online-booking-portal)
     * [Social Programs and Initiatives](https://www.cityofgp.com/culture-community/social-programs-and-initiatives)
+        * [Aging Well Together](https://www.cityofgp.com/culture-community/social-programs-and-initiatives/aging-well-together)
         * [Community Compass](https://www.cityofgp.com/culture-community/social-programs-and-initiatives/community-compass)
         * [Food Security](https://www.cityofgp.com/foodsecurity)
         * [GP Welcome Package](https://www.cityofgp.com/culture-community/social-programs-and-initiatives/gp-welcome-package)
@@ -125,12 +128,10 @@ Main navigation
         * [Clean Energy Improvement Program (CEIP)](https://www.cityofgp.com/ceip)
         * [Combined Heat and Power (CHP)](https://www.cityofgp.com/city-services/energy/combined-heat-and-power-chp)
         * [Solar Power Initiatives](https://www.cityofgp.com/city-services/energy/solar-power-initiatives)
-    * [Environmental & Park Maintenance](https://www.cityofgp.com/city-services/environmental-park-maintenance)
-        * [GP Grows](https://www.cityofgp.com/parks-recreation/environmental-park-maintenance/gp-grows)
-        * [Naturalization](https://www.cityofgp.com/parks-recreation/environmental-park-maintenance/naturalization)
-        * [Park Maintenance](https://www.cityofgp.com/city-services/environmental-park-maintenance/park-maintenance)
-        * [Urban Forestry](https://www.cityofgp.com/parks-recreation/environmental-park-maintenance/urban-forestry)
-        * [Trees](https://www.cityofgp.com/parks-recreation/environmental-park-maintenance/trees)
+    * [Environment](https://www.cityofgp.com/city-services/environment)
+        * [GP Grows](https://www.cityofgp.com/city-services/environment/gp-grows)
+        * [Naturalization](https://www.cityofgp.com/city-services/environment/naturalization)
+        * [Vegetation Management](https://www.cityofgp.com/city-services/environment/vegetation-management)
         * [Weeds](https://www.cityofgp.com/parks-recreation/environmental-park-maintenance/weeds)
         * [Wildlife: Native & Non-Native Species](https://www.cityofgp.com/wildlifeguide)
     * [Permits, Licenses & Forms](https://www.cityofgp.com/city-services/permits-licenses-forms)
@@ -188,6 +189,7 @@ Main navigation
 * [Roads & Transportation](https://www.cityofgp.com/roads-transportation)
     * [Capital Planning and Construction](https://www.cityofgp.com/roads-transportation/capital-planning-and-construction)
         * [Construction Map](https://www.cityofgp.com/roads-transportation/capital-planning-and-construction/construction-map)
+        * [Park Maintenance](https://www.cityofgp.com/roads-transportation/capital-planning-and-construction/park-maintenance)
     * [Drainage](https://www.cityofgp.com/roads-transportation/drainage)
         * [Stormwater Monitoring Sensor Network](https://www.cityofgp.com/roads-transportation/drainage/stormwater-monitoring-sensor-network)
         * [Watershed](https://www.cityofgp.com/roads-transportation/drainage/watershed)
@@ -317,6 +319,7 @@ Mobile Menu
         * [Event Calendar Submission Criteria](https://www.cityofgp.com/culture-community/news-events/event-calendar-submission-criteria)
     * [Programs, Workshops & Camps](https://www.cityofgp.com/parks-recreation/online-booking-portal)
     * [Social Programs and Initiatives](https://www.cityofgp.com/culture-community/social-programs-and-initiatives)
+        * [Aging Well Together](https://www.cityofgp.com/culture-community/social-programs-and-initiatives/aging-well-together)
         * [Community Compass](https://www.cityofgp.com/culture-community/social-programs-and-initiatives/community-compass)
         * [Food Security](https://www.cityofgp.com/foodsecurity)
         * [GP Welcome Package](https://www.cityofgp.com/culture-community/social-programs-and-initiatives/gp-welcome-package)
@@ -489,12 +492,10 @@ Mobile Menu
         * [Clean Energy Improvement Program (CEIP)](https://www.cityofgp.com/ceip)
         * [Combined Heat and Power (CHP)](https://www.cityofgp.com/city-services/energy/combined-heat-and-power-chp)
         * [Solar Power Initiatives](https://www.cityofgp.com/city-services/energy/solar-power-initiatives)
-    * [Environmental & Park Maintenance](https://www.cityofgp.com/city-services/environmental-park-maintenance)
-        * [GP Grows](https://www.cityofgp.com/parks-recreation/environmental-park-maintenance/gp-grows)
-        * [Naturalization](https://www.cityofgp.com/parks-recreation/environmental-park-maintenance/naturalization)
-        * [Park Maintenance](https://www.cityofgp.com/city-services/environmental-park-maintenance/park-maintenance)
-        * [Urban Forestry](https://www.cityofgp.com/parks-recreation/environmental-park-maintenance/urban-forestry)
-        * [Trees](https://www.cityofgp.com/parks-recreation/environmental-park-maintenance/trees)
+    * [Environment](https://www.cityofgp.com/city-services/environment)
+        * [GP Grows](https://www.cityofgp.com/city-services/environment/gp-grows)
+        * [Naturalization](https://www.cityofgp.com/city-services/environment/naturalization)
+        * [Vegetation Management](https://www.cityofgp.com/city-services/environment/vegetation-management)
         * [Weeds](https://www.cityofgp.com/parks-recreation/environmental-park-maintenance/weeds)
         * [Wildlife: Native & Non-Native Species](https://www.cityofgp.com/wildlifeguide)
     * [Permits, Licenses & Forms](https://www.cityofgp.com/city-services/permits-licenses-forms)
@@ -576,6 +577,7 @@ Mobile Menu
 * [Roads & Transportation](https://www.cityofgp.com/roads-transportation)
     Back to Main Menu* [Capital Planning and Construction](https://www.cityofgp.com/roads-transportation/capital-planning-and-construction)
         * [Construction Map](https://www.cityofgp.com/roads-transportation/capital-planning-and-construction/construction-map)
+        * [Park Maintenance](https://www.cityofgp.com/roads-transportation/capital-planning-and-construction/park-maintenance)
     * [Drainage](https://www.cityofgp.com/roads-transportation/drainage)
         * [Stormwater Monitoring Sensor Network](https://www.cityofgp.com/roads-transportation/drainage/stormwater-monitoring-sensor-network)
         * [Watershed](https://www.cityofgp.com/roads-transportation/drainage/watershed)
@@ -826,3 +828,10 @@ Google Translate is provided as a free tool to enhance the usability of the City
 \>
 
 \>
+
+Close
+
+Complete the 2024 Municipal Census
+----------------------------------
+
+Count yourself in! Completing the census online is a fast and simple process. Visit [cityofgp.com/census](https://www.cityofgp.com/census), enter your unique PIN, and then follow the prompts. If you lost your pin, call 311.
