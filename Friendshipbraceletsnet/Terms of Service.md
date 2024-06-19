@@ -6,7 +6,7 @@
 
 |     |     |
 | --- | --- |
-| [$1911<br>=====<br><br>was donated](https://friendship-bracelets.net/donate) |     |
+| [$1936<br>=====<br><br>was donated](https://friendship-bracelets.net/donate) |     |
 
 * [Home](https://friendship-bracelets.net/)
 * [Patterns](https://friendship-bracelets.net/patterns)
