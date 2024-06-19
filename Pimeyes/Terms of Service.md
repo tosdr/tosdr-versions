@@ -93,7 +93,7 @@ For detailed information about pricing for Open Plus, PROtect and Advanced Users
 
 All payments must be made in advance, before using the Services. To avoid any disruptions in Services, upon termination of Your subscription, the User is entitled to utilize the Services until the conclusion of the current billing cycle. Once the billing period has expired, the User will no longer have access to the source of the results.
 
-To ensure the secure processing of online payments for our Users, PimEyes engages the services of a reputable third-party entities (“**Entities**”), such as: [TransactionCloud](https://transaction.cloud/) and [FastSpring](https://fastspring.com/), which acts as a merchant of records. The responsibility for the administration and management of the available payment methods is solely vested in the hands of the designated merchant of record. With regards to the stipulated period for the remuneration of services rendered, it is imperative to comprehend that the decisive moment of payment occurs when the positive financial transaction is recorded and acknowledged in the account of the designated merchant of record.
+To ensure the secure processing of online payments for our Users, PimEyes engages the services of a reputable third-party entities (“**Entities**”), such as: [LemonSqueezy](https://www.lemonsqueezy.com/) and [FastSpring](https://fastspring.com/), which acts as a merchant of records. The responsibility for the administration and management of the available payment methods is solely vested in the hands of the designated merchant of record. With regards to the stipulated period for the remuneration of services rendered, it is imperative to comprehend that the decisive moment of payment occurs when the positive financial transaction is recorded and acknowledged in the account of the designated merchant of record.
 
 User, through executing this Terms of Service, consents to receiving invoices electronically through approved means of digital communication.
 
@@ -196,6 +196,6 @@ We provide links to external websites, however, we are not responsible for the c
 
 [![twitter](https://pimeyes.com/build/assets/twitter-9f07dc94.svg)](https://twitter.com/PimEyesOfficial)
 
-© 2017 - 2024 PimEyes  v15.5.3
+© 2017 - 2024 PimEyes  v16.1.1
 
 [Report bug](# "Report bug") [FAQ](https://pimeyes.com/en/faq "FAQ") [DMCA](https://pimeyes.com/en/dmca-request-form "DMCA") [SAR](https://pimeyes.com/en/sar-request-form "SAR Request") [Opt-Out Request ![opt-out](https://pimeyes.com/build/assets/opt-out-edf24eeb.svg)](https://pimeyes.com/en/opt-out-request-form "Opt-Out Request")
