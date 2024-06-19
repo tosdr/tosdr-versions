@@ -36,10 +36,10 @@
                 * [Member AcquisitionGrow your audience](https://www.higherlogic.com/solutions/member-acquisition/)
                 * [Member RetentionStrengthen your association](https://www.higherlogic.com/solutions/member-retention/)
         * * CUSTOMERS
-                * [Case DeflectionScale your customer support team](https://vanilla.higherlogic.com/solutions/case-deflection/)
-                * [Customer RetentionBuild relationships that last](https://vanilla.higherlogic.com/solutions/customer-retention/)
-                * [Advocacy & EngagementFoster brand awareness and loyalty](https://vanilla.higherlogic.com/solutions/advocacy-engagement/)
-                * [Product FeedbackListen to and engage your customers](https://vanilla.higherlogic.com/solutions/product-feedback/)
+                * [Case DeflectionScale your customer support team](https://vanilla.higherlogic.com/vanilla/customer-support-community/)
+                * [Customer RetentionBuild relationships that last](https://vanilla.higherlogic.com/vanilla/customer-success-community/)
+                * [Advocacy & EngagementFoster brand awareness and loyalty](https://vanilla.higherlogic.com/vanilla/community-for-marketing/)
+                * [Product FeedbackListen to and engage your customers](https://vanilla.higherlogic.com/vanilla/community-for-product-teams/)
         * * **SOLUTIONS BY ORGANIZATION TYPE**
                 
             * [Professional Associations](https://www.higherlogic.com/solutions/professional-associations/)
