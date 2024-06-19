@@ -37,7 +37,7 @@ Any contests, sweepstakes or other promotions (collectively, “Promotions”) m
 
 Some parts of Service are billed on a subscription basis (“Subscription(s)”). You will be billed on a recurring and periodic basis (“Billing Cycle”). Billing cycles are set on a monthly basis. You will be charged at the end of each Billing Cycle.
 
-At the end of each Billing Cycle, your Subscription will automatically renew under the exact same conditions unless you cancel it or Voicebits cancels it. You may cancel your Subscription renewal through your online account settings page ([https://voicebits.co/billing-portal](https://voicebits.co/billing-portal)).
+At the end of each Billing Cycle, your Subscription will automatically renew under the exact same conditions unless you cancel it or Voicebits cancels it. You may cancel your Subscription renewal through your online account billing portal.
 
 A valid payment method, including credit card, is required to process the payment for your subscription. You shall provide Voicebits with accurate and complete billing information and a valid payment method information. By submitting such payment information, you automatically authorize Voicebits to charge all Subscription fees incurred through your account to any such payment instruments.
 
