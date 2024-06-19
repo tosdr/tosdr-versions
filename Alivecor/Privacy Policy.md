@@ -1,5 +1,3 @@
-[Father’s Day Sale: Save $20 Now | Shop Sale](https://store.kardia.com/)
-
 [](https://kardia.com/)
 
 * [Products](javascript:void(0);)
