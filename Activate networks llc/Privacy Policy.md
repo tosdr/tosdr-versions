@@ -101,5 +101,5 @@ Contact information
 * Owner and Data Controller  
     Activate Software LLC  
     16192 Coastal Highway  
-    Lewes, DE, 19958  
+    Lewes, DE 19958  
     Owner contact: [activatevpn.com/contact](https://activatevpn.com/contact)
