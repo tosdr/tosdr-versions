@@ -1,3 +1,9 @@
+![Notification Image](https://murena.com/wp-content/uploads/2024/06/Notification-image.png)
+
+Own a part of Murena !
+
+[Learn More](https://murena.com/fundraising/)
+
  [![Murena wordmark](https://murena.com/wp-content/themes/wp-theme-esolutions/img/murena-logo.svg) ![Murena wordmark](https://murena.com/wp-content/themes/wp-theme-esolutions/img/murena-favicon.svg)](https://murena.com/)
 
 * [Smartphones](https://murena.com/smartphones/)
@@ -22,9 +28,6 @@
 * [FR](https://murena.com/fr/terms-conditions/)
 * [DE](https://murena.com/de/terms-conditions/)
 * [ES](https://murena.com/es/terms-conditions/)
-
-Terms and Conditions
-====================
 
 #### Scope of application
 
