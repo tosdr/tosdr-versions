@@ -200,8 +200,6 @@ More stuff
 
 TM + © 2024 Vimeo.com, Inc.
 
- I agree to non-essential cookies.
-
 #### Use cases
 
 * [Enterprise](https://vimeo.com/enterprise)
