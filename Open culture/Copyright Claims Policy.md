@@ -107,10 +107,6 @@ We’re hop­ing to rely on our loy­al read­ers rather than errat­ic ads. To 
     * [All 1500 Free Courses](https://www.openculture.com/freeonlinecourses)
     * [1000+ MOOCs & Certificate Courses](https://www.openculture.com/free_certificate_courses)
     
-* newsletter
-    ----------
-    
-
 * Receive our Daily Email
     -----------------------
     
@@ -406,8 +402,8 @@ We’re hop­ing to rely on our loy­al read­ers rather than errat­ic ads. To 
     * [Bertrand Russell](https://www.openculture.com/2011/07/bertrand_russell_bbc_lecture_series_.html)
     * [Oxford Philosophy Lectures](https://www.openculture.com/2012/11/take_first-class_philosophy_lectures_anywhere_with_free_oxford_podcasts.html)
     
-* Receive our newsletter!
-    -----------------------
+* Sign up
+    -------
     
         
     
@@ -419,7 +415,9 @@ We’re hop­ing to rely on our loy­al read­ers rather than errat­ic ads. To 
     
     Please type in the letters in the image to prove you are not a robot. If you cannot read them, click on the image to generate a new one.
     
-    ![](https://www.openculture.com/wp-admin/admin-ajax.php?action=mailster_coolcaptcha_img&nocache=1717975036&formid=1 "click to reload")
+    ![](https://www.openculture.com/wp-content/plugins/native-lazyload/assets/images/placeholder.svg "click to reload")
+    
+    ![](https://www.openculture.com/wp-admin/admin-ajax.php?action=mailster_coolcaptcha_img&nocache=1718775071&formid=1 "click to reload")
     
 * About Us
     --------
@@ -763,4 +761,4 @@ All rights reserved.
 
 Open Culture was founded by [Dan Colman.](https://www.linkedin.com/in/dancolman "Linkedin")
 
-![Cleantalk Pixel](https://moderate9-v4.cleantalk.org/pixel/79a733f0c3ffba6e2985b7ca006634e7.gif "Cleantalk Pixel")
+![Cleantalk Pixel](https://moderate9-v4.cleantalk.org/pixel/65816329663e9ed84b75f9507c9dce94.gif "Cleantalk Pixel")
