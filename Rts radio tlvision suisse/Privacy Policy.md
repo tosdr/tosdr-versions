@@ -3,13 +3,14 @@
 * [Info](https://www.rts.ch/info/)
 * [Sport](https://www.rts.ch/sport/)
 * [Culture](https://www.rts.ch/info/culture/)
+* [Euro 2024](https://www.rts.ch/sport/football/euro/)
 
 * TV & Streaming
 * Audio
 
 * [](https://www.rts.ch/services/recherche/ "Recherche")
-* [](https://www.rts.ch/profile/ "m'inscrire / me connecter")
 * [](https://www.rts.ch/meteo/ "Météo")
+* [](https://www.rts.ch/profile/ "m'inscrire / me connecter")
 
 Retour
 
@@ -22,6 +23,7 @@ Retour
 * [Info](https://www.rts.ch/info/)
 * [Sport](https://www.rts.ch/sport/)
 * [Culture](https://www.rts.ch/info/culture/)
+* [Euro 2024](https://www.rts.ch/sport/football/euro/)
 
 #### S'informer
 
@@ -57,6 +59,7 @@ Retour
 * [Info](https://www.rts.ch/info/)
 * [Sport](https://www.rts.ch/sport/)
 * [Culture](https://www.rts.ch/info/culture/)
+* [Euro 2024](https://www.rts.ch/sport/football/euro/)
 
 * TV & Streaming
 * Audio
@@ -82,6 +85,7 @@ Retour
 * [Info](https://www.rts.ch/info/)
 * [Sport](https://www.rts.ch/sport/)
 * [Culture](https://www.rts.ch/info/culture/)
+* [Euro 2024](https://www.rts.ch/sport/football/euro/)
 
 #### S'informer
 
@@ -603,14 +607,13 @@ La SSR ne garantit ni un accès ininterrompu à ses plateformes Internet et/ou �
 * [FAQ](https://www.rts.ch/entreprise/vos-questions/)
 * [Conditions générales](https://www.rts.ch/conditions)
 * [Charte de confidentialité](https://www.rts.ch/charte)
-* Gérer les paramètres relatifs aux cookies
+* Gestion des cookies
 
 * [Contact](https://www.rts.ch/entreprise/contact/)
 * [Travailler à la RTS](https://jobs.rts.ch/fr/emplois-carriere/)
 * [Communiqués de presse](https://www.rts.ch/entreprise/espace-pro/communiques-de-presse/)
 * [Newsletters](https://www.rts.ch/articles/2023/information/decouvrez-les-newsletters-de-la-rts-27427199.html)
 * [RTS Fiction](https://www.rts.ch/fiction/)
-* [Play Suisse](https://www.playsuisse.ch/)
 
 * [Recevoir nos programmes](https://www.rts.ch/entreprise/l-offre-rts/2017/article/tous-les-chemins-menent-a-nos-programmes-27345854.html)
 * [Comment écouter nos podcasts](https://www.rts.ch/entreprise/2020/information/comment-ecouter-nos-podcasts-28386455.html)
@@ -624,6 +627,6 @@ La SSR ne garantit ni un accès ininterrompu à ses plateformes Internet et/ou �
 * [Médiation](https://ssrsr.ch/mediation/)
 * [Jurisprudence](https://www.rts.ch/entreprise/vos-questions/13388287.html)
 
-[SRF](https://www.srf.ch/) [RSI](https://www.rsi.ch/) [RTR](https://www.rtr.ch/) [SWI](https://www.swissinfo.ch/)
+[SRF](https://www.srf.ch/) [RSI](https://www.rsi.ch/) [RTR](https://www.rtr.ch/) [SWI](https://www.swissinfo.ch/) [Play Suisse](https://www.playsuisse.ch/)
 
 [](https://www.rts.ch/ "Accueil RTS.ch")[RTS Radio Télévision Suisse, succursale de la Société suisse de radiodiffusion et télévision](https://www.srgssr.ch/fr/)
