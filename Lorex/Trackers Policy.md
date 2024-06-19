@@ -110,7 +110,7 @@ triangle borderless
     
     * [Deals](https://www.lorex.com/pages/promotions)
     * [Deals of the Day](https://www.lorex.com/pages/promotions#dotd)
-    * [Father's Day Sale](https://www.lorex.com/pages/promotions)
+    * [Big Deals on Security](https://www.lorex.com/pages/promotions)
     * [Lorex Clearance Outlet](https://www.lorex.com/pages/outlet)
     * [Not-for-profit Support Program](https://www.lorex.com/pages/nonprofit)
     * [Lorex Upgrade Program](https://www.lorex.com/pages/upgrade)
@@ -208,7 +208,7 @@ arrow left Back
 
 Clear close
 
-All categories arrow bottom All categoriesAccessoriesAnalog Security CameraAnalog Security CamerasAnalog Security SystemCablesConnectorsConverterDoorbell AccessoriesDoorbellsDVR Camera SystemExtend Service ContractExtend Shipping ContractFloodlightsHard DrivesIP CameraIP Security CameraIP Security CamerasIP Security SystemJunction BoxesLorex Smart Home Security CenterMicroSD CardsMounts and BracketsNVRPoE SwitchesPower AdaptersRange ExtendersRechargeable Battery PacksSecurity DVRSecurity NVRSensorsSmart LockSolar PanelsThe Fusion CollectionWarning DecalWi-Fi Security CameraWi-Fi Security CamerasWire-Free Security CamerasWire-Free Security Systems
+All categories arrow bottom All categoriesAccessoriesAnalog Security CameraAnalog Security CamerasAnalog Security SystemCablesCloud SubscriptionConnectorsConverterDoorbell AccessoriesDoorbellsDVR Camera SystemExtend Service ContractExtend Shipping ContractFloodlightsHard DrivesIP CameraIP Security CameraIP Security CamerasIP Security SystemJunction BoxesLorex Smart Home Security CenterMicroSD CardsMounts and BracketsNVRPoE SwitchesPower AdaptersRange ExtendersRechargeable Battery PacksSecurity DVRSecurity NVRSensorsSmart LockSolar PanelsThe Fusion CollectionWarning DecalWi-Fi Security CameraWi-Fi Security CamerasWire-Free Security CamerasWire-Free Security Systems
 
 search search loader
 
@@ -512,7 +512,7 @@ Your cart is empty
     
     [Deals of the Day](https://www.lorex.com/pages/promotions#dotd)
     
-    [Father's Day Sale](https://www.lorex.com/pages/promotions)
+    [Big Deals on Security](https://www.lorex.com/pages/promotions)
     
     [Lorex Clearance Outlet](https://www.lorex.com/pages/outlet)
     
