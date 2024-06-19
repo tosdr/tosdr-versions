@@ -34,8 +34,8 @@ Featured links
         * [Red Hat TV](https://www.redhat.com/en/tv)
     * Open source communities
         * [Ansible](https://www.ansible.com/community)
-        * [For system administrators](https://www.redhat.com/sysadmin/)
-        * [For architects](https://www.redhat.com/architect/)
+        * [Global advocacy](https://access.redhat.com/accelerators)
+        * [How we contribute](https://www.redhat.com/en/about/our-community-contributions)
     
 
 [Red Hat](https://www.redhat.com/en)
@@ -210,13 +210,6 @@ Featured links
 * [Locations](https://www.redhat.com/en/about/office-locations)
 * [Newsroom](https://www.redhat.com/en/about/newsroom)
 
-### Communities
-
-* [Ansible](https://www.ansible.com/community)
-* [For system administrators](https://www.redhat.com/sysadmin/)
-* [For architects](https://www.redhat.com/architect/)
-* [Customer advocacy](https://access.redhat.com/accelerators)
-
 [Explore Red Hat](https://www.redhat.com/en/about)
 
 [Contact us](https://www.redhat.com/en/contact)
@@ -254,8 +247,8 @@ Learning resources
 Open source communities
 
 * [Ansible](https://www.ansible.com/community)
-* [For system administrators](https://www.redhat.com/sysadmin/)
-* [For architects](https://www.redhat.com/architect/)
+* [Global advocacy](https://access.redhat.com/accelerators)
+* [How we contribute](https://www.redhat.com/en/about/our-community-contributions)
 
 For you New
 
