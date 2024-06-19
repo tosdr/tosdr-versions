@@ -9,11 +9,11 @@
 * [Corporate (English)](https://qoria.com/legal/data-processing-addendum)
 * [Corporate (Español)](https://qoria.com/es/legal/data-processing-addendum)
 * [Australia (English)](https://www.linewize.io/)
+* [Europe (English)](https://qoria.eu/)
 * [New Zealand/Aotearoa (English)](https://linewize.co.nz/)
-* [Spain (English)](https://qoria.es/)
-* [Spain (Español)](https://qoria.es/es/)
+* [North America (English)](https://www.linewize.com/)
+* [Spain (Español)](https://qoria.es/)
 * [United Kingdom (English)](https://smoothwall.com/)
-* [United States (English)](https://www.linewize.com/)
 
 * [Our story](https://qoria.com/our-story)
 * [Our solutions](https://qoria.com/solutions)
@@ -35,11 +35,11 @@
 * [Corporate (English)](https://qoria.com/legal/data-processing-addendum)
 * [Corporate (Español)](https://qoria.com/es/legal/data-processing-addendum)
 * [Australia (English)](https://www.linewize.io/)
+* [Europe (English)](https://qoria.eu/)
 * [New Zealand/Aotearoa (English)](https://linewize.co.nz/)
-* [Spain (English)](https://qoria.es/)
-* [Spain (Español)](https://qoria.es/es/)
+* [North America (English)](https://www.linewize.com/)
+* [Spain (Español)](https://qoria.es/)
 * [United Kingdom (English)](https://smoothwall.com/)
-* [United States (English)](https://www.linewize.com/)
 
 ##### Legal
 
