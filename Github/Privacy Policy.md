@@ -1,4 +1,4 @@
-[Skip to content](#start-of-content)Get your boss on board for GitHub Universe! Tickets are 35% off for a limited time. [Use our quick email template today.](https://githubuniverse.com/?utm_source=github&utm_medium=banner&utm_campaign=24bannerheader2li-security)
+[Skip to content](#start-of-content)Join us for the 10th anniversary of GitHub Universe. [Get tickets now for 35% off, only until July 8.](https://githubuniverse.com/?utm_source=github&utm_medium=banner&utm_campaign=24bannerheader3li-security)
 
 Navigation Menu
 ---------------
@@ -56,7 +56,7 @@ Toggle navigation
     
     * [CI/CD & Automation](https://github.com/solutions/ci-cd)
     * [DevOps](https://github.com/solutions/devops)
-    * [DevSecOps](https://resources.github.com/devops/fundamentals/devsecops)
+    * [DevSecOps](https://github.com/solutions/devsecops)
     
     Resources
     
@@ -332,7 +332,7 @@ Get tips, technical guides, and best practices. Twice a month. Right in your inb
 * [Docs](https://docs.github.com/)
 * [Community Forum](https://github.community/)
 * [Professional Services](https://services.github.com/)
-* [Premium Support](https://help.github.com/premium-support)
+* [Premium Support](https://help.github.com/enterprise/premium-support)
 * [Skills](https://skills.github.com/)
 * [Status](https://www.githubstatus.com/)
 * [Contact GitHub](https://support.github.com/?tags=dotcom-footer)
