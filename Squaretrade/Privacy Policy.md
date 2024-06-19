@@ -125,7 +125,7 @@ SquareTrade Privacy Statement
 
 Canadian customers: Go to [SquareTrade Privacy Policy Canada](https://squaretrade.ca/privacy-policy)
 
-**LAST UPDATED: April 5, 2024.**
+**LAST UPDATED: May 31, 2024.**
 
 This Privacy Statement (“**Statement**”) describes the privacy practices of SquareTrade, Inc. d/b/a Allstate Protection Plans and its subsidiaries, including, without limitation, CE Care Plan Corp., Complete Product Care Corp, Protection Plan Group, Inc., ST Product Care Corp, SquareTrade Protection Solutions, Inc., SquareTradeGo, Inc. and PlumChoice, Inc. (collectively **"SquareTrade"**, **“our”** or **"we"**). This Privacy Statement explains the Personal Information (as defined below) we collect, why we collect it, how we use and share it and the choices you can make regarding your information.
 
@@ -251,7 +251,7 @@ Various federal and state laws provide privacy rights to consumers including th
 
 **Privacy Rights Under CCPA and Similar State Laws:** 
 
-California residents have certain rights under CCPA to access, correct and delete personal information, and other rights described below. Similar rights exist for Virginia and Connecticut residents for some of the personal information we collect. While these rights apply only to some of the personal information we collect, for transparency and for your convenience you can submit a request no matter where you live.
+California residents have certain rights under CCPA to access, correct and delete personal information, and other rights described below. Similar rights exist for Virginia, Texas, Oregon, New Hampshire, Connecticut and other states' residents for some of the personal information we collect. While these rights apply only to some of the personal information we collect, for transparency and for your convenience you can submit a request no matter where you live.
 
 **Right to Know and Access Your Personal Information:** You have the right to request the specific pieces of personal information we have collected about you and the right to know:
 
@@ -280,7 +280,7 @@ California residents have certain rights under CCPA to access, correct and delet
 
 **Submitting a Request:** To submit an access, deletion, or correction request, please visit the [Access/Correction/Deletion webpage](https://allstateprotectionplans.consumerprivacyinfo.com/) or call us at 1-866-265-4801. Responses to a verified request may take up to 45 calendar days, or longer depending on the nature of the request. If additional time is needed, we will notify you of the additional time. We may only respond to two access requests within a 12-month period. Requests from authorized agents must be submitted via the same online portal or toll-free number but to protect your privacy, consumers will be required to verify their identity directly with us via our online portal or toll-free number. 
 
-**Virginia and Connecticut Resident Right to Appeal:** If we are unable to fulfill your request to access, review, delete or correct your personal information, we will respond to you explaining why. If you would like to appeal for additional review of our inability to fulfill your request, please visit the [Appeals webpage](https://appeals.consumerprivacyinfo.com/). 
+**Virginia, Texas, Oregon, New Hampshire, Connecticut and other states' Residents Right to Appeal:** If we are unable to fulfill your request to access, review, delete or correct your personal information, we will respond to you explaining why. If you would like to appeal for additional review of our inability to fulfill your request, please visit the [Appeals webpage](https://appeals.consumerprivacyinfo.com/). 
 
 **Consumer Request Metrics:** The chart below lists the number of privacy requests SquareTrade received from residents of California and the number of requests complied with and denied, along with the average amount of days it took to complete a request.
 
