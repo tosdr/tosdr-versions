@@ -19,7 +19,7 @@
         * [PR & Code Review](https://www.gitkraken.com/features/pr-and-code-review)
         * [Security & Admin](https://www.gitkraken.com/features/security-and-admin)
         
-* [Planning Tools](# "Planning Tools")
+* [Jira Planning Tools](# "Jira Planning Tools")
     * Products
         --------
         
@@ -34,7 +34,7 @@
         * [Dev Visibility](https://www.gitkraken.com/features/visibility)
         * [Security & Admin](https://www.gitkraken.com/features/jira-security-and-admin)
         
-* [Developer Problems](# "Developer Problems")
+* [Top Dev Pains](# "Top Dev Pains")
     * * [Git Is Complicated](https://www.gitkraken.com/developer-problems/git-is-complicated)
         * [PR & Code Review Friction](https://www.gitkraken.com/developer-problems/pr-and-code-review)
         * [Context Switching](https://www.gitkraken.com/developer-problems/context-switching)
@@ -47,10 +47,9 @@
         * [Dev Talent Retention](https://www.gitkraken.com/developer-problems/retaining-dev-talent)
         * [Lack of DORA Metrics](https://www.gitkraken.com/developer-problems/velocity-metrics)
         * [Lack of Standardization](https://www.gitkraken.com/developer-problems/standardization)
-        * [Too Many Meetings](https://www.gitkraken.com/developer-problems/meeting-hell)
+        * [Too Many Meetings   😂](https://www.gitkraken.com/developer-problems/meeting-hell)
         
-* [Pricing](https://www.gitkraken.com/pricing "Pricing")
-* [Learn Git](# "Learn Git")
+* [Git Resources](# "Git Resources")
     * * [Learn Git Library](https://www.gitkraken.com/learn/git)
         * [Git Course & Certification](https://learn.gitkraken.com/)
         * [Git Blog](https://www.gitkraken.com/blog)
@@ -62,6 +61,7 @@
         * [GitKraken Labs](https://www.gitkraken.com/labs)
         * [Help Center](https://help.gitkraken.com/)
         
+* [Pricing](https://www.gitkraken.com/pricing "Pricing")
 * [Sign In](https://gitkraken.dev/login "Sign In")
 * [Sign Up](https://gitkraken.dev/register "Sign Up")
 
