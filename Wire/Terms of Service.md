@@ -91,11 +91,11 @@ The most demanding organizations in the world rely on Wire with its always-on en
 
 [About us](https://wire.com/en/about-us?hsLang=en)
 
-[Blog](https://wire.com/de/blog?hsLang=en)
+[Blog](https://wire.com/blog?hsLang=en)
 
 [Careers](https://start.wire.com/careers-en?hsLang=en)
 
-[Press](https://start.wire.com/press?hsLang=en)
+[Press](https://start.wire.com/presse?hsLang=en)
 
 [Legal](https://wire.com/legal)
 
@@ -105,11 +105,15 @@ The most demanding organizations in the world rely on Wire with its always-on en
 
 ###### Support
 
-[User-Support](https://support.wire.com/hc/en-us)[](https://wire.com/?hsLang=en)
+[User-Support](https://support.wire.com/)[](https://wire.com/?hsLang=en)
 
 [App-Download](https://wire.com/en/app-download?hsLang=en)
 
-[User-Support](https://docs.wire.com/)
+[Documentation](https://docs.wire.com/)
+
+[Wire Cloud Status](https://status.wire.com/)
+
+[Open Source Library](https://github.com/wireapp/wire)
 
  [![Visit linkedin](https://f.hubspotusercontent10.net/hubfs/8768169/Elements/Theme/icons/social/linkedin.svg)](https://de.linkedin.com/company/wire-secure-communication)[![Visit web](https://wire.com/hs-fs/hubfs/github_logo.png?width=32&name=github_logo.png)](https://github.com/wireapp)
 
