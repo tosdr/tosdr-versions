@@ -1,13 +1,13 @@
 MatchSeniors Privacy Policy
 ===========================
 
-Effective Date: June 1, 2023
+Effective Date: June 18, 2024
 
 This Privacy Policy explains how ConversionSquared Corporation ("ConversionSquared", "we", "us", or "our") collects, uses, and shares your personal information when you use our website and services. Your privacy is important to us, and we are committed to protecting your personal data in accordance with applicable laws and regulations. This policy outlines the types of personal information we collect, the reasons we collect it, how we process and share it, and the rights you have regarding your personal information.
 
 MatchSeniors is a property of Conversion Squared Corporation (Conversion Squared). Your services are provided by Conversion Squared, who acts as a data controller for your information, as defined under the EU General Data Protection Regulation (GDPR) and UK data protection laws.
 
-Conversion Squared values our users' privacy and the protection of their data, and we build our services and operate our business with this in mind. We maintain the confidentiality of your information using security technologies and adhere to policies that prevent unauthorized use of your personal information. We will only process your data in accordance with GDPR and other applicable data protection laws. This privacy policy may be modified in the future, and any updates will be posted on our website.
+Conversion Squared values our users' privacy and the protection of their data, and we build our services and operate our business with this in mind. We maintain the confidentiality of your information using advanced security technologies and robust anonymization techniques. Any shared data will be anonymized to prevent re-identification, ensuring your privacy is protected. We regularly audit our anonymization processes to comply with the highest standards. We will only process your data in accordance with GDPR and other applicable data protection laws. This privacy policy may be modified in the future, and any updates will be posted on our website.
 
 Our website and services are not intended for anyone under 18. We do not knowingly collect personal information from anyone under 18 years of age. If you are under 18, do not use or provide any information on this website or on or through any of its features/register on the website, do not use any of the interactive or public features of this website or provide any information about yourself to us, including your name, address, telephone number, email address, or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 18 years of age, we will delete that information. If you believe we might have any information from or about a child under 18 years of age, please contact us at [request@conversionsquared.com](mailto:request@conversionsquared.com)
 
@@ -34,7 +34,7 @@ Other identifiers may include: Device Information (e.g. device model, operating 
 
 Legal Basis for Processing and Purpose of Data Collection
 
-The information you share is used and shared with our third-party clients to determine which of these clients' services best suit you. This processing is necessary for the performance of a contract with you or to take steps before entering a contract, which is essential for the legitimate interests of our business.
+The information you share is used and shared with third parties for the purposes of marketing, data enrichment, and determining which of our third-party clients' services best suit you. This includes sharing data with partners who may use the information to improve their products, services, and marketing operations. This processing is necessary for the performance of a contract with you or to take steps before entering a contract, which is essential for the legitimate interests of our business. By using our services, you consent to such data sharing.
 
 We process your data based on your consent when you opt-in to receive special offers, new products, services, promotions, and other similar information.
 
@@ -52,9 +52,9 @@ When we have no ongoing legitimate business need to process your personal inform
 
 Sharing Your Information With Third Parties
 
-We work with third parties to help with many aspects of our business, including sharing information with you, supporting you, preventing fraud, protecting our infrastructure, and providing a better experience for you. We may share your personal data with the following categories of recipients:
+We work with third parties to help with many aspects of our business, including sharing information with you, supporting you, preventing fraud, protecting our infrastructure, and providing a better experience for you. By using our services, we may share your personal data with the following categories of recipients:
 
-* Advertising partners and analytics providers
+* Marketing & advertising partners and analytics providers
 * Law enforcement bodies, regulators, government agencies, or courts when required by law or to protect our legal rights and user safety
 * Actual or potential buyers (and their agents and advisers) in connection with an actual or proposed purchase, merger, or acquisition of any part of our business
 
@@ -74,6 +74,7 @@ Below is a list of the key third parties we work with. We may work with third pa
 * Mate1 Social Enterprises Inc
 * McAfee
 * Meetic
+* Menthoda
 * Optimizely
 * RSVP
 * Spark Networks
@@ -84,7 +85,7 @@ If you would like more information about third parties that we work with, furthe
 
 Marketing & Internet Advertising
 
-With your consent, we may make the e-mail addresses of those who access our site available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by writing to us at the above address or sending us an email message to [request@conversionsquared.com](mailto:request@conversionsquared.com). Please include your email address and the words "opt-out" in the subject or content field so that we can process your request promptly. We may also provide aggregate information about site usage and traffic patterns, stripped of any individual identification, to third parties to comply with various reporting obligations and for business or marketing purposes.
+With your consent, we may share your personal information, including your name, email address, and other identifiers, with third-party partners. These partners may use this data to enrich their databases, improve their services, and enhance our marketing strategies. We ensure that any data sharing is conducted in compliance with applicable laws and regulations. If you do not want us to share your personal information with other companies or organizations, please let us know by writing to us at the above address or sending us an email message to [request@conversionsquared.com](mailto:request@conversionsquared.com). Please include your email address and the words "opt-out" in the subject or content field so that we can process your request promptly. We may also provide aggregate information about site usage and traffic patterns, stripped of any individual identification, to third parties to comply with various reporting obligations and for business or marketing purposes.
 
 The Digital Advertising Alliance ("DAA") has made available for consumers tools on which you can register your choices not to be tracked by participating advertising networks or companies in the collection and use of your online activities. These are (1) The DAA Consumer Choice Page for Mobile Web (at [https://www.aboutads.info/choices](https://www.aboutads.info/choices)) and (2) DAA AppChoices (at [https://www.aboutads.info/appchoices](https://www.aboutads.info/appchoices)), which is a mobile app that allows you to opt-out of the collection and use of cross-app data, other than for permitted purposes, by listed third-party AppChoices participants.
 
