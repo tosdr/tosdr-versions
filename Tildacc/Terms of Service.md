@@ -1178,8 +1178,10 @@ MORE
 
 © Tilda Publishing. This website is made on Tilda as well. Email us at [team@tilda.cc](mailto:team@tilda.cc)
 
+[Қазақша](https://tilda.cc/kk/)
+
 [Made on
 
 ![](https://static.tildacdn.com/img/tildacopy.png)
 
-Tilda](https://tilda.ru/)
+Tilda](https://tilda.cc/)
