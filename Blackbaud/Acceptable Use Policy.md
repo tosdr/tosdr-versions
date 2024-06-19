@@ -153,11 +153,11 @@ Main Navigation
         
         Best practices and the latest learning for social good professionals](https://blog.blackbaud.com/)
     
-    ![](https://www.blackbaud.com/wp-content/uploads/2024/04/bbcon-2024-open-reg-resources-megamenu-275X135.png)
+    ![](https://www.blackbaud.com/wp-content/uploads/2024/06/HE-Toolkit-MegaMenu.jpg)
     
-    bbcon 2024 | Sept. 24-26
+    Higher Ed | Free Toolkit
     
-    [bbcon Early-Bird Registration Is Open: Lock in Your Rate by June 13!](https://www.bbconference.com/?ICID=bbwebsite-mega-menu-tile-cb-2024-q2-tl-conf-bbcon-openreg)
+    [A step-by-step guide to evaluate and select software at your institution](https://www.blackbaud.com/industry-insights/resources/higher-education/how-to-choose-the-right-software-for-your-institution?icid=_p-navpromo_t-homepage_c-jun24)
     
     * * *
     
@@ -277,7 +277,7 @@ Acceptable Use Policy
     </ul></div>")
 * [Terms of Use](https://www.blackbaud.com/company/terms-of-use)
 
-© 2023 Blackbaud, Inc. All Rights Reserved.
+© 2024 Blackbaud, Inc. All Rights Reserved.
 
 Select Your Region
 
