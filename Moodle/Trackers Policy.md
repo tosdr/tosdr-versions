@@ -8,9 +8,11 @@ MenuClose
 
 * [Solutions](#)
     * [Moodle LMSEngage your learners with flexible, secure, and accessible online learning spaces.](https://moodle.com/solutions/lms/)
+        * [Explore Moodle LMSImprove your teaching and student outcomes with our feature-rich LMS platform.](https://moodle.com/solutions/lms/)
         * [Certified IntegrationsExtend your online learning ecosystem with powerful and trusted add-ons.](https://moodle.com/certified-integrations/)
         * [Moodle AppAccess Moodle from anywhere, on any device online and offline.](https://moodle.com/solutions/moodle-app/)
     * [Moodle WorkplaceStreamline training, onboarding, and compliance management while driving learning outcomes that you can measure.](https://moodle.com/solutions/workplace/)
+        * [Explore Moodle WorkplaceStreamline employee training with our flexible, end-to-end corporate LMS platform.](https://moodle.com/solutions/workplace/)
         * [Certified IntegrationsExtend your online learning ecosystem with powerful and trusted add-ons.](https://moodle.com/certified-integrations/)
         * [Moodle AppAccess Moodle from anywhere, on any device online and offline.](https://moodle.com/solutions/moodle-app/)
     * [MoodleCloudFrom ready to go cloud-based Standard Plans to fully hosted Premium Solutions.](https://moodle.com/solutions/moodlecloud/)
@@ -42,9 +44,9 @@ MenuClose
     * [AwardsDiscover our global awards and rankings that are a testament to Moodle’s 20+ years of expertise in education technology.](https://moodle.com/about/awards/)
 * [News](https://moodle.com/news/)
     * NewsFind news and resources about Moodle products, solutions, services, releases, case studies, and more.[View All News](https://moodle.com/news/)
-    * [![Convince your boss to attend MoodleMoot Global 2024](https://moodle.com/wp-content/uploads/2024/06/Copy-of-Blog-Image-600-x-450-1-200x150.jpg)Tips for gaining your boss’s approval to attend MoodleMoot Global 2024!](https://moodle.com/news/tips-to-get-your-boss-approval-to-attend-moodlemoot-global/)
-    * [![Gamoteca Moodle Certified Integration](https://moodle.com/wp-content/uploads/2024/06/Copy-of-Blog-Image-600-x-450-200x150.jpg)Boost learning outcomes with Moodle Certified Integration Gamoteca](https://moodle.com/news/boost-learning-outcomes-with-moodle-certified-integration-gamoteca/)
-    * [![Moodle LMS and Edu Labs help FUCS improve healthcare education](https://moodle.com/wp-content/uploads/2024/05/Copy-of-Blog-Image-600-x-450-5-200x150.jpg)How FUCS transformed healthcare education with Moodle LMS and Moodle Premium Certified Partner Edu Labs](https://moodle.com/news/fucs-transforms-healthcare-education-moodle-lms-edu-labs/)
+    * [![Connect. Ignite. Transform. MoodleMoot Global 2024.](https://moodle.com/wp-content/uploads/2024/06/Connect.-Ignite.-Transform-200x150.png)Announcing the provisional agenda for MoodleMoot Global 2024!](https://moodle.com/news/announcing-the-provisional-agenda-for-moodlemoot-global-2024/)
+    * [![Gold Sponsor MoodleMoot Global 2024](https://moodle.com/wp-content/uploads/2024/06/Gold-Sponsor-200x150.png)Announcing our latest Gold Sponsor for MoodleMoot Global 2024: Kialo Edu](https://moodle.com/news/kialo-edu-becomes-gold-sponsor-for-moodlemoot-global/)
+    * [![e-learning touch'moodle premiums certified partner in france](https://moodle.com/wp-content/uploads/2024/06/Copy-of-Blog-Image-600-x-450-2-200x150.jpg)E-learning Touch’ achieves Moodle Premium Certified Partner status in France](https://moodle.com/news/e-learning-touch-is-now-a-moodle-premium-certified-partner-in-france/)
 
 [Get Moodle](https://moodle.com/get-moodle/) [Contact Us](https://moodle.com/contact/)
 
@@ -177,9 +179,11 @@ The tables below list the internal and third-party cookies we use. As the names,
 
 * [Solutions](#)
     * [Moodle LMSEngage your learners with flexible, secure, and accessible online learning spaces.](https://moodle.com/solutions/lms/)
+        * [Explore Moodle LMSImprove your teaching and student outcomes with our feature-rich LMS platform.](https://moodle.com/solutions/lms/)
         * [Certified IntegrationsExtend your online learning ecosystem with powerful and trusted add-ons.](https://moodle.com/certified-integrations/)
         * [Moodle AppAccess Moodle from anywhere, on any device online and offline.](https://moodle.com/solutions/moodle-app/)
     * [Moodle WorkplaceStreamline training, onboarding, and compliance management while driving learning outcomes that you can measure.](https://moodle.com/solutions/workplace/)
+        * [Explore Moodle WorkplaceStreamline employee training with our flexible, end-to-end corporate LMS platform.](https://moodle.com/solutions/workplace/)
         * [Certified IntegrationsExtend your online learning ecosystem with powerful and trusted add-ons.](https://moodle.com/certified-integrations/)
         * [Moodle AppAccess Moodle from anywhere, on any device online and offline.](https://moodle.com/solutions/moodle-app/)
     * [MoodleCloudFrom ready to go cloud-based Standard Plans to fully hosted Premium Solutions.](https://moodle.com/solutions/moodlecloud/)
@@ -211,9 +215,9 @@ The tables below list the internal and third-party cookies we use. As the names,
     * [AwardsDiscover our global awards and rankings that are a testament to Moodle’s 20+ years of expertise in education technology.](https://moodle.com/about/awards/)
 * [News](https://moodle.com/news/)
     * NewsFind news and resources about Moodle products, solutions, services, releases, case studies, and more.[View All News](https://moodle.com/news/)
-    * [![Convince your boss to attend MoodleMoot Global 2024](https://moodle.com/wp-content/uploads/2024/06/Copy-of-Blog-Image-600-x-450-1-200x150.jpg)Tips for gaining your boss’s approval to attend MoodleMoot Global 2024!](https://moodle.com/news/tips-to-get-your-boss-approval-to-attend-moodlemoot-global/)
-    * [![Gamoteca Moodle Certified Integration](https://moodle.com/wp-content/uploads/2024/06/Copy-of-Blog-Image-600-x-450-200x150.jpg)Boost learning outcomes with Moodle Certified Integration Gamoteca](https://moodle.com/news/boost-learning-outcomes-with-moodle-certified-integration-gamoteca/)
-    * [![Moodle LMS and Edu Labs help FUCS improve healthcare education](https://moodle.com/wp-content/uploads/2024/05/Copy-of-Blog-Image-600-x-450-5-200x150.jpg)How FUCS transformed healthcare education with Moodle LMS and Moodle Premium Certified Partner Edu Labs](https://moodle.com/news/fucs-transforms-healthcare-education-moodle-lms-edu-labs/)
+    * [![Connect. Ignite. Transform. MoodleMoot Global 2024.](https://moodle.com/wp-content/uploads/2024/06/Connect.-Ignite.-Transform-200x150.png)Announcing the provisional agenda for MoodleMoot Global 2024!](https://moodle.com/news/announcing-the-provisional-agenda-for-moodlemoot-global-2024/)
+    * [![Gold Sponsor MoodleMoot Global 2024](https://moodle.com/wp-content/uploads/2024/06/Gold-Sponsor-200x150.png)Announcing our latest Gold Sponsor for MoodleMoot Global 2024: Kialo Edu](https://moodle.com/news/kialo-edu-becomes-gold-sponsor-for-moodlemoot-global/)
+    * [![e-learning touch'moodle premiums certified partner in france](https://moodle.com/wp-content/uploads/2024/06/Copy-of-Blog-Image-600-x-450-2-200x150.jpg)E-learning Touch’ achieves Moodle Premium Certified Partner status in France](https://moodle.com/news/e-learning-touch-is-now-a-moodle-premium-certified-partner-in-france/)
 
 Empowering educators to improve our world.
 
