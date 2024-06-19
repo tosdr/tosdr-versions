@@ -134,7 +134,7 @@ Please bear in mind that we can process claims submitted via email to [copyright
 * [Terms of Use](https://bandcamp.com/terms_of_use)
 * [Privacy](https://bandcamp.com/privacy)
 * [Copyright Policy](https://bandcamp.com/copyright)
-* [Acceptable Use & Moderation Policy](https://get.bandcamp.help/hc/en-us/articles/21169764015255-Bandcamp-s-Acceptable-Use-and-Moderation-policy)
+* [Acceptable Use & Moderation Policy](https://get.bandcamp.help/hc/en-us/articles/23005947027991-Bandcamp-s-Acceptable-Use-and-Moderation-policy)
 
 * [Gift Cards](https://bandcamp.com/gift_cards?from=footer)
 * [Bandcamp Daily](https://daily.bandcamp.com/)
@@ -165,6 +165,6 @@ Please bear in mind that we can process claims submitted via email to [copyright
 
 * [Fair Trade Music Policy](https://bandcamp.com/fair_trade_music_policy)
 * [Terms of Use](https://bandcamp.com/terms_of_use) [Privacy](https://bandcamp.com/privacy) [Copyright Policy](https://bandcamp.com/copyright)
-* [Acceptable Use & Moderation Policy](https://get.bandcamp.help/hc/en-us/articles/21169764015255-Bandcamp-s-Acceptable-Use-and-Moderation-policy)
+* [Acceptable Use & Moderation Policy](https://get.bandcamp.help/hc/en-us/articles/23005947027991-Bandcamp-s-Acceptable-Use-and-Moderation-policy)
 * [Bandcamp](https://bandcamp.com/?from=logo)
 * [Switch to desktop version](#)
