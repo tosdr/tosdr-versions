@@ -338,10 +338,6 @@ Ces cookies étant nécessaires au bon fonctionnement des sites WEB sur lesquels
 
 Le Cned utilise ce type de cookies afin d’avoir un retour sur la fréquentation de ses sites et la façon dont ceux-ci sont utilisés. Les informations recueillies dans ce cadre lui permettent d’améliorer continuellement ses services, de les rendre compatibles avec les matériels utilisés, le tout afin de répondre au mieux aux besoins de ses visiteurs.
 
-Le Cned utilise le service « Google analytics ». Il vous est possible de télécharger et installer un module dans son navigateur pour ne pas transmettre d’informations ici :
-
-[https://tools.google.com/dlpage/gaoptout?hl=fr](https://tools.google.com/dlpage/gaoptout?hl=fr)
-
 Le dépôt de ces cookies ne se réalise qu’avec votre accord.
 
 #### Les cookies marketing
