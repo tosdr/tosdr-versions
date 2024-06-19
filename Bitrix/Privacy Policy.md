@@ -1,20 +1,18 @@
-[](https://www.bitrix24.com/)
+[](https://www.bitrix24.uk/)
 
-[Start for free](https://www.bitrix24.com/create.php)
+[Start for free](https://www.bitrix24.uk/create.php)
 
  
 
 [](https://www.bitrix24.com/search/)
 
-[](https://www.bitrix24.com/)
+[](https://www.bitrix24.uk/)
 
-[Product](https://www.bitrix24.com/tools/)
+Product
 
 [CRM](https://www.bitrix24.com/tools/crm/)
 
-CRM
-
-Manage sales and clients effortlessly
+[CRM Manage sales and clients effortlessly](https://www.bitrix24.com/tools/crm/)
 
 [Sales management Manage leads, deals, contacts, pipelines, access permissions & roles](https://www.bitrix24.com/tools/crm/sales-management.php)
 
@@ -32,15 +30,13 @@ Manage sales and clients effortlessly
 
 [Automation & integrations Set CRM rules and triggers, workflow automation, automated funnels, API](https://www.bitrix24.com/tools/crm/automation-and-integrations.php)
 
-[CoPilot in CRM Call audio-to-text transcription, call summary, field autocompletion in deals](https://www.bitrix24.com/tools/copilot-ai-powered-tools-for-business.php#block_2)
+[CoPilot in CRM Call audio-to-text transcription, call summary, field autocompletion in deals](https://www.bitrix24.com/tools/copilot-ai-powered-tools-for-business.php#copilot-in-crm)
 
-[See all СRM features](https://www.bitrix24.com/tools/crm/)
+[See all CRM features](https://www.bitrix24.com/tools/crm/)
 
 [Tasks & Projects](https://www.bitrix24.com/tools/tasks_and_projects/)
 
-Tasks & Projects
-
-Get work done easier & faster
+[Tasks & Projects Get work done easier & faster](https://www.bitrix24.com/tools/tasks_and_projects/)
 
 [Task management Choose between Kanban board, Gantt chart, Scrum, task list](https://www.bitrix24.com/tools/tasks_and_projects/task-management.php)
 
@@ -58,15 +54,13 @@ Get work done easier & faster
 
 [Automation Save time with automatic task creation and workflow automation](https://www.bitrix24.com/tools/tasks_and_projects/automation.php)
 
-[CoPilot in Tasks AI-generated task descriptions, task summaries, checklists, comments](https://www.bitrix24.com/tools/copilot-ai-powered-tools-for-business.php#block_4)
+[CoPilot in Tasks AI-generated task descriptions, task summaries, checklists, comments](https://www.bitrix24.com/tools/copilot-ai-powered-tools-for-business.php#copilot-in-tasks)
 
 [See all Tasks & Projects features](https://www.bitrix24.com/tools/tasks_and_projects/)
 
 [Collaboration](https://www.bitrix24.com/tools/communications/)
 
-Collaboration
-
-Power up your teamwork
+[Collaboration Power up your teamwork](https://www.bitrix24.com/tools/communications/)
 
 [Online workspace Use chat, activity feed, comments, reactions, company-wide video announcements](https://www.bitrix24.com/tools/communications/online-workspace.php)
 
@@ -80,15 +74,13 @@ Power up your teamwork
 
 [Mobile communications Team messenger, video calls, comments, calendar, notifications anywhere](https://www.bitrix24.com/tools/communications/mobile-communications.php)
 
-[CoPilot in Chat Unlimited source of ideas, AI-generated texts, brainstorming, and more](https://www.bitrix24.com/tools/copilot-ai-powered-tools-for-business.php#block_1)
+[CoPilot in Chat Unlimited source of ideas, AI-generated texts, brainstorming, and more](https://www.bitrix24.com/tools/copilot-ai-powered-tools-for-business.php#copilot-in-chat)
 
 [See all Collaboration features](https://www.bitrix24.com/tools/communications/)
 
 [Sites & Stores](https://www.bitrix24.com/tools/websites/)
 
-Sites & Stores
-
-Create websites that sell
+[Sites & Stores Create websites that sell](https://www.bitrix24.com/tools/websites/)
 
 [Website builder Use our free CMS, templates, hosting, AI-generated images and texts to create awesome sites](https://www.bitrix24.com/tools/websites/website-builder.php)
 
@@ -106,15 +98,13 @@ Create websites that sell
 
 [Online marketing tools Increase sales with email marketing, Facebook or Google Ads, marketing automation, CRM integration](https://www.bitrix24.com/tools/websites/marketing.php)
 
-[CoPilot in Sites & Stores Compelling copy on demand, AI-generated images, detailed prompts, text translation](https://www.bitrix24.com/tools/copilot-ai-powered-tools-for-business.php#block_5)
+[CoPilot in Sites & Stores Compelling copy on demand, AI-generated images, detailed prompts, text translation](https://www.bitrix24.com/tools/copilot-ai-powered-tools-for-business.php#copilot-in-sites-and-stores)
 
 [See all Sites & Stores features](https://www.bitrix24.com/tools/websites/)
 
 [HR & Automation](https://www.bitrix24.com/tools/hr_automation/)
 
-HR & Automation
-
-Optimize workflows & manage HR data
+[HR & Automation Optimize workflows & manage HR data](https://www.bitrix24.com/tools/hr_automation/)
 
 [Employee management Use employee profiles, company structure, access permissions, Active Directory](https://www.bitrix24.com/tools/hr_automation/employee-management.php)
 
@@ -126,7 +116,7 @@ Optimize workflows & manage HR data
 
 [Internal communications Communicate via video announcements, memos, public and private chats](https://www.bitrix24.com/tools/hr_automation/internal-communications.php)
 
-[CoPilot in Feed Thread summaries, AI-generated ideas, text editing & creation, AI-written responses, text translation](https://www.bitrix24.com/tools/copilot-ai-powered-tools-for-business.php#block_3)
+[CoPilot in Feed Thread summaries, AI-generated ideas, text editing & creation, AI-written responses, text translation](https://www.bitrix24.com/tools/copilot-ai-powered-tools-for-business.php#copilot-in-feed)
 
 [Information management Work with knowledge bases, online documents, file storage, access permissions](https://www.bitrix24.com/tools/hr_automation/information-management.php)
 
@@ -136,19 +126,17 @@ Optimize workflows & manage HR data
 
 [CoPilot](https://www.bitrix24.com/tools/copilot-ai-powered-tools-for-business.php)
 
-CoPilot
+[CoPilot Your AI-powered assistant in Bitrix24](https://www.bitrix24.com/tools/copilot-ai-powered-tools-for-business.php)
 
-Your AI-powered assistant in Bitrix24
+[CoPilot in CRM Call audio-to-text transcription, call summary, field autocompletion in deals](https://www.bitrix24.com/tools/copilot-ai-powered-tools-for-business.php#copilot-in-crm)
 
-[CoPilot in CRM Call audio-to-text transcription, call summary, field autocompletion in deals](https://www.bitrix24.com/tools/copilot-ai-powered-tools-for-business.php#block_2)
+[CoPilot in Tasks AI-generated task descriptions, task summaries, checklists, comments](https://www.bitrix24.com/tools/copilot-ai-powered-tools-for-business.php#copilot-in-tasks)
 
-[CoPilot in Tasks AI-generated task descriptions, task summaries, checklists, comments](https://www.bitrix24.com/tools/copilot-ai-powered-tools-for-business.php#block_4)
+[CoPilot in Chat Unlimited source of ideas, AI-generated texts, brainstorming, and more](https://www.bitrix24.com/tools/copilot-ai-powered-tools-for-business.php#copilot-in-chat)
 
-[CoPilot in Chat Unlimited source of ideas, AI-generated texts, brainstorming, and more](https://www.bitrix24.com/tools/copilot-ai-powered-tools-for-business.php#block_1)
+[CoPilot in Sites & Stores Compelling copy on demand, AI-generated images, detailed prompts, text translation](https://www.bitrix24.com/tools/copilot-ai-powered-tools-for-business.php#copilot-in-sites-and-stores)
 
-[CoPilot in Sites & Stores Compelling copy on demand, AI-generated images, detailed prompts, text translation](https://www.bitrix24.com/tools/copilot-ai-powered-tools-for-business.php#block_5)
-
-[CoPilot in Feed Thread summaries, AI-generated ideas, text editing & creation, AI-written responses, text translation](https://www.bitrix24.com/tools/copilot-ai-powered-tools-for-business.php#block_3)
+[CoPilot in Feed Thread summaries, AI-generated ideas, text editing & creation, AI-written responses, text translation](https://www.bitrix24.com/tools/copilot-ai-powered-tools-for-business.php#copilot-in-feed)
 
 [See all CoPilot features](https://www.bitrix24.com/tools/copilot-ai-powered-tools-for-business.php)
 
@@ -178,7 +166,7 @@ Read
 
 [Bitrix24 tips & updates](https://www.bitrix24.com/about/blogs/)
 
-[Solutions](https://www.bitrix24.com/solutions/)
+Solutions
 
 Role
 
@@ -238,51 +226,51 @@ Business size
 
 [See all solutions](https://www.bitrix24.com/solutions/)
 
-[Integrations](https://www.bitrix24.com/apps/)
+Integrations
 
 Import & Export
 
- [![jira-migration](/upload/optimizer/converted/images/content_en/icons/menu/jira-migration.png.webp?1713793164707)Jira migration](https://www.bitrix24.com/apps/app/integrations24.jira_migration/)
+ [![jira-migration](/upload/optimizer/converted/images/content_en/icons/menu/jira-migration.png.webp?1698055665138)Jira migration](https://www.bitrix24.com/apps/app/integrations24.jira_migration/)
 
- [![trello-data-migration](/upload/optimizer/converted/images/content_en/icons/menu/trello-data-migration.png.webp?1713793164707)Trello data migration](https://www.bitrix24.com/apps/app/integrations24.trello/)
+ [![trello-data-migration](/upload/optimizer/converted/images/content_en/icons/menu/trello-data-migration.png.webp?1698055665138)Trello data migration](https://www.bitrix24.com/apps/app/integrations24.trello/)
 
- [![asana-data-migration](/upload/optimizer/converted/images/content_en/icons/menu/asana-data-migration.png.webp?1713793164707)Asana data migration](https://www.bitrix24.com/apps/app/integrations24.asana/)
+ [![asana-data-migration](/upload/optimizer/converted/images/content_en/icons/menu/asana-data-migration.png.webp?1698055665138)Asana data migration](https://www.bitrix24.com/apps/app/integrations24.asana/)
 
- [![import-from-excel](/upload/optimizer/converted/images/content_en/icons/menu/import-from-excel.png.webp?1713793164707)Import from Excel](https://www.bitrix24.com/apps/app/informunity.excel_west/)
+ [![import-from-excel](/upload/optimizer/converted/images/content_en/icons/menu/import-from-excel.png.webp?1698055665138)Import from Excel](https://www.bitrix24.com/apps/app/informunity.excel_west/)
 
 Sales & CRM
 
- [![stripe-integration](/upload/optimizer/converted/images/content_en/icons/menu/stripe-integration.png.webp?1713793164707)Stripe integration](https://www.bitrix24.com/apps/app/integrations24.stripeintegration/)
+ [![stripe-integration](/upload/optimizer/converted/images/content_en/icons/menu/stripe-integration.png.webp?1698055665138)Stripe integration](https://www.bitrix24.com/apps/app/integrations24.stripeintegration/)
 
- [![salebot](/upload/optimizer/converted/images/content_en/icons/menu/salebot.png.webp?1713793164707)Salebot](https://www.bitrix24.com/apps/app/salebot.chatter/)
+ [![salebot](/upload/optimizer/converted/images/content_en/icons/menu/salebot.png.webp?1698055665138)Salebot](https://www.bitrix24.com/apps/app/salebot.chatter/)
 
- [![call-center-wizard](/upload/optimizer/converted/images/content_en/icons/menu/call-center-wizard.png.webp?1713793164707)Call Center Wizard](https://www.bitrix24.com/apps/app/informunity.callcenterwizard/)
+ [![call-center-wizard](/upload/optimizer/converted/images/content_en/icons/menu/call-center-wizard.png.webp?1698055665138)Call Center Wizard](https://www.bitrix24.com/apps/app/informunity.callcenterwizard/)
 
- [![chat-booster](/upload/optimizer/converted/images/content_en/icons/menu/chat-booster.png.webp?1713793164707)Chat Booster](https://www.bitrix24.com/apps/app/brs4.lead_booster/)
+ [![chat-booster](/upload/optimizer/converted/images/content_en/icons/menu/chat-booster.png.webp?1698055665138)Chat Booster](https://www.bitrix24.com/apps/app/brs4.lead_booster/)
 
 Marketing
 
- [![wazzup](/upload/optimizer/converted/images/content_en/icons/menu/wazzup.png.webp?1713793164707)Wazzup](https://www.bitrix24.com/apps/app/wazzup.app/)
+ [![wazzup](/upload/optimizer/converted/images/content_en/icons/menu/wazzup.png.webp?1698055665138)Wazzup](https://www.bitrix24.com/apps/app/wazzup.app/)
 
- [![whatsapp-business-api](/upload/optimizer/converted/images/content_en/icons/menu/whatsapp-business-api.png.webp?1713793164707)WhatsApp Business API](https://www.bitrix24.com/apps/app/polyakov.ofitsialnoe_whatsapp_business_api/)
+ [![whatsapp-business-api](/upload/optimizer/converted/images/content_en/icons/menu/whatsapp-business-api.png.webp?1698055665138)WhatsApp Business API](https://www.bitrix24.com/apps/app/polyakov.ofitsialnoe_whatsapp_business_api/)
 
- [![plivo-sms](/upload/optimizer/converted/images/content_en/icons/menu/plivo-sms.png.webp?1713793164707)Plivo SMS](https://www.bitrix24.com/apps/app/integrations24.plivosms/)
+ [![plivo-sms](/upload/optimizer/converted/images/content_en/icons/menu/plivo-sms.png.webp?1698055665138)Plivo SMS](https://www.bitrix24.com/apps/app/integrations24.plivosms/)
 
- [![mailchimp-exporter](/upload/optimizer/converted/images/content_en/icons/menu/mailchimp-exporter.png.webp?1713793164707)MailChimp Exporter](https://www.bitrix24.com/apps/app/webbee.bx24tomailchimp/)
+ [![mailchimp-exporter](/upload/optimizer/converted/images/content_en/icons/menu/mailchimp-exporter.png.webp?1698055665138)MailChimp Exporter](https://www.bitrix24.com/apps/app/webbee.bx24tomailchimp/)
 
 Tasks & Projects
 
- [![mind-map](/upload/optimizer/converted/images/content_en/icons/menu/mind-map.png.webp?1713793164707)Mind Map](https://www.bitrix24.com/apps/app/integrations24.mindmap/)
+ [![mind-map](/upload/optimizer/converted/images/content_en/icons/menu/mind-map.png.webp?1698055665138)Mind Map](https://www.bitrix24.com/apps/app/integrations24.mindmap/)
 
- [![miro-boards](/upload/optimizer/converted/images/content_en/icons/menu/miro-boards.png.webp?1713793164707)Miro Boards](https://www.bitrix24.com/apps/app/integrations24.miro/)
+ [![miro-boards](/upload/optimizer/converted/images/content_en/icons/menu/miro-boards.png.webp?1698055665138)Miro Boards](https://www.bitrix24.com/apps/app/integrations24.miro/)
 
- [![billable-hours-for-tasks](/upload/optimizer/converted/images/content_en/icons/menu/billable-hours-for-tasks.png.webp?1713793164707)Billable Hours For Tasks](https://www.bitrix24.com/apps/app/integrations24.billing/)
+ [![billable-hours-for-tasks](/upload/optimizer/converted/images/content_en/icons/menu/billable-hours-for-tasks.png.webp?1698055665138)Billable Hours For Tasks](https://www.bitrix24.com/apps/app/integrations24.billing/)
 
- [![kpi-company-efficiency](/upload/optimizer/converted/images/content_en/icons/menu/kpi-company-efficiency.png.webp?1713793164707)KPI – Company Efficiency](https://www.bitrix24.com/apps/app/apikit.ikpi/)
+ [![kpi-company-efficiency](/upload/optimizer/converted/images/content_en/icons/menu/kpi-company-efficiency.png.webp?1698055665138)KPI – Company Efficiency](https://www.bitrix24.com/apps/app/apikit.ikpi/)
 
 [See 400+ apps & integrations](https://www.bitrix24.com/apps/)
 
-[Partners](https://www.bitrix24.com/partners/)
+Partners
 
 For clients
 
@@ -326,15 +314,26 @@ Latest from Bitrix24
 
 [](https://www.bitrix24.com/search/)
 
-[Start for free](https://www.bitrix24.com/create.php)
+[Start for free](https://www.bitrix24.uk/create.php)
 
 Log In
 
-en
+Your Bitrix24
+
+Authorize to enter  
+your company's Bitrix24.
+
+Enter[](https://www.bitrix24.net/qr/?user_lang=uk)
+
+Don't have Bitrix24 yet?
+
+[Create your Bitrix24 now](https://www.bitrix24.uk/create.php)
+
+uk
 
 America
 
-[United States (English)](https://www.bitrix24.com/privacy/?moved_from=US) [América Latina (Español)](https://www.bitrix24.es/privacy/?moved_from=ES) [Brasil (Português)](https://www.bitrix24.com.br/privacy/?moved_from=BR) [México (Español)](https://www.bitrix24.mx/privacy/?moved_from=MX) [Colombia (Español)](https://www.bitrix24.co/privacy/?moved_from=CO)
+[United States (English)](https://www.bitrix24.com/privacy/?moved_from=US) [América Latina (Español)](https://www.bitrix24.es/privacy/?moved_from=ES) [Brasil (Português)](https://www.bitrix24.com.br/privacy/?moved_from=AE) [México (Español)](https://www.bitrix24.mx/privacy/?moved_from=MX) [Colombia (Español)](https://www.bitrix24.co/privacy/?moved_from=CO)
 
 Europe
 
@@ -389,11 +388,11 @@ Bitrix24 Privacy Policy
 
 [G. YOUR RIGHTS](#g)
 
-Last Updated: January 10, 2024
+Last Updated: May 6th, 2024
 
 #### A. INTRODUCTION
 
-This Website is operated by Bitrix24. The Data Controllers, depending on your domain zone registration with Bitrix24, are Bitrix24 Limited registered at Frema House, office 102, No. 9, Konstantinou Paparigopoulou Str., 3106, Limassol, Cyprus, Bitrix, Inc. a company organized under the laws of the Commonwealth of Virginia, United States of America with its registered address at 700 North Fairfax St., Suite 614-B, Alexandria, VA 22314, USA and Bitrix24 India Private Limited with its registered office address is #66/1, Coles Road, C Stn F4, Benson Town, Bangalore, Bangalore North, Karnataka, India, 560046, and its affiliates (collectively, "Bitrix24", "We", "Us" "Our" or "Bitrix"). Bitrix24 is committed to keeping your information secure and managing it in accordance with our legal responsibilities under the applicable privacy and data protection laws.
+This Website is operated by Bitrix24. The Data Controllers, depending on your domain zone registration with Bitrix24, are Bitrix24 Limited registered at Frema House, office 102, No. 9, Constantinou Paparigopoulou Str., 3106, Limassol, Cyprus, Bitrix, Inc. a company organized under the laws of the Commonwealth of Virginia, United States of America with its registered address at 700 North Fairfax St., Suite 614-B, Alexandria, VA 22314, USA and Bitrix24 India Private Limited with its registered office address is #66/1, Coles Road, C Stn F4, Benson Town, Bangalore, Bangalore North, Karnataka, India, 560046, and its affiliates (collectively, "Bitrix24", "We", "Us" "Our" or "Bitrix"). Bitrix24 is committed to keeping your information secure and managing it in accordance with our legal responsibilities under the applicable privacy and data protection laws.
 
 This Privacy Policy provides information about how we process personal information through the websites [www.bitrix24.eu](https://www.bitrix24.eu/), [www.bitrix24.com](https://www.bitrix24.com/), [www.bitrix24.de](https://www.bitrix24.de/), [www.bitrix24.pl](https://www.bitrix24.pl/), [www.bitrix24.it](https://www.bitrix24.it/), [www.bitrix24.com.tr](https://www.bitrix24.com.tr/), [www.bitrix24.com.br](https://www.bitrix24.com.br/), [www.bitrix24.es](https://www.bitrix24.es/), [www.bitrix24.fr](https://www.bitrix24.fr/), [www.bitrix24.cn](https://www.bitrix24.cn/), [www.bitrix24.cn/tc/](https://www.bitrix24.cn/tc/), [www.bitrix24.com/my/](https://www.bitrix24.com/my/), [www.bitrix24.com/th/](https://www.bitrix24.com/th), [www.bitrix24.in](https://www.bitrix24.in/), [www.bitrix24.co](https://www.bitrix24.co/), [www.bitrix24.mx](https://www.bitrix24.mx/), [www.bitrix24.uk](https://www.bitrix24.uk/), [www.bitrix24.id](https://www.bitrix24.id/), [www.bitrix24.vn](https://www.bitrix24.vn/), [www.bitrix24.jp](https://www.bitrix24.jp/), [mailinternetsub.com](https://mailinternetsub.com/) ("Website"), our mobile apps and our Products and Services.
 
@@ -499,13 +498,13 @@ If you subscribe to a service or register a product, for example, such informati
 
 Based on our Legitimate interests
 
-Bitrix24 may use statistical data for statistical analysis, marketing, or similar promotional purposes to help improve our offerings to you, to help diagnose any problems with our server and administer the Website or to improve your browsing experience by personalising the Website;
+Bitrix24 may use statistical data to help diagnose any problems with our server and administer the Website or to improve your browsing experience by personalising the Website;
 
 We reserve the right to send a one-time registration confirmation email, and infrequent service alert messages to users to inform them of specific changes that may impact their ability to use a service they have previously signed up for, regardless of email contact opt-in status.
 
 Based on our Legitimate interests and Your consent
 
-We use your personal information to develop and conduct our business. Some examples of how we use personal information include: improving our products and services; personalizing communications with you; conducting market research; conducting customer surveys; engaging in more targeted, customer-specific advertising; processing.
+We use your personal information to develop and conduct our business. Some examples of how we use personal information include: improving our products and services; personalizing communications with you; conducting customer surveys.
 
 Bitrix24 collects your information in order to record and support your participation in the activities you select.
 
@@ -541,11 +540,11 @@ In the event that all or substantially all of Bitrix24's stock and/or all or sub
 
 #### Where we store your personal data
 
-Data storage geography depending on Bitrix24 domain zone is described in the [Bitrix24 Infrastructure, Sub-processors and joint controllers section](https://www.bitrix24.com/upload/DPA/Bitrix24_Infrastructure_and_Sub.pdf).
+Data storage geography depending on Bitrix24 domain zone is described in the [Bitrix24 Infrastructure, Sub-processors and joint controllers section](https://www.bitrix24.uk/upload/DPA/Bitrix24_Infrastructure_and_Sub.pdf).
 
 Personal Data obtained via Bitrix24.eu, Bitrix24.de, Bitrix.it, Bitrix24.pl, Bitrix24.uk and Bitrix24.fr domain zones is processed by BITRIX24 LIMITED registered on Republic of Cyprus inside the European Union Economic Area and stored inside the European Union in Frankfurt, Germany by Amazon Web Services data centers, which are fully GDPR compliant.
 
-For more information about data processing activities related to Users registered through the domain names Bitrix24.com, Bitrix24.in, Bitrix24.tr, Bitrix24.cn, Bitrix24.mx, Bitrix24.co please consult [Bitrix24 Infrastructure, Sub-processors and joint controllers section](https://www.bitrix24.com/upload/DPA/Bitrix24_Infrastructure_and_Sub.pdf).
+For more information about data processing activities related to Users registered through the domain names Bitrix24.com, Bitrix24.in, Bitrix24.tr, Bitrix24.cn, Bitrix24.mx, Bitrix24.co please consult [Bitrix24 Infrastructure, Sub-processors and joint controllers section](https://www.bitrix24.uk/upload/DPA/Bitrix24_Infrastructure_and_Sub.pdf).
 
 #### International transfers
 
@@ -691,11 +690,12 @@ Bitrix24
 * [Contact us](https://www.bitrix24.com/about/contacts.php)
 * [In the press](https://www.bitrix24.com/about/press.php)
 * [Sustainability](https://www.bitrix24.com/pr/sustainability.php)
+* [New Bitrix24 2024](https://www.bitrix24.com/promo/spring-2024-release/)
 
 Support
 
 * [Helpdesk](https://helpdesk.bitrix24.com/)
-* [Webinars](https://www.bitrix24.com/support/webinars.php)
+* [Webinars](https://www.bitrix24.com/webinars/)
 * [How-to videos](https://www.youtube.com/@bitrix24)
 * [Contact support](https://helpdesk.bitrix24.com/ticket.php)
 * [Schedule a demo](https://www.bitrix24.com/partners/)
@@ -759,10 +759,10 @@ Partners
 [](https://play.google.com/store/apps/details?id=com.bitrix24.android)
 
 * [](https://www.facebook.com/bitrix24)
-* [](https://t.me/Bitrix24Talks)
+* [](https://twitter.com/bitrix24uk)
 * [](https://www.youtube.com/@bitrix24)
 * [](https://www.instagram.com/bitrix24/)
-* [](https://www.linkedin.com/company/bitrix24/)
+* [](https://www.linkedin.com/showcase/bitrix24-uk-community/)
 * [](https://www.pinterest.com/bitrix24/)
 
  
@@ -777,11 +777,11 @@ Cookie Settings
 
  Strictly Necessary Cookies
 
- Do Not Sell or Share My Information
+ Analytical Cookies
 
 Cookie Policy
 
-More information about our [Cookie Policy](https://www.bitrix24.com/privacy/#d3)
+More information about our [Cookie Policy](https://www.bitrix24.uk/privacy/#d3)
 
 We use cookies to enhance your browsing experience - [Find out more](https://www.bitrix24.com/about/cookie-policy/). By continuing to browse this site you are agreeing to our use of cookies. Change your [cookie settings](#).
 
