@@ -980,13 +980,13 @@ Background
 
 Colombia Privacy
 
-**Procter & Gamble Colombia Ltda**., with NIT. 800.000.946-4, address at Carrera 7 # 114-33, 12th floor, Bogotá D.C., with phone number: 601-5280000 and email address [notifications.im@pg.com](mailto:notifications.im@pg.com), acting as the Data Controller, and in compliance with articles 15 and 20 of the Constitution of Colombia, Law 1581 of 2012, Law 1266 of 2008, Decree 1377 of 2013, and Decree 1074 of 2015, informs all data subjects that the personal data provided will be processed in accordance with the purposes described in this privacy Policy [https://privacypolicy.pg.com/es-co/](https://privacypolicy.pg.com/es-co/).
+**Procter & Gamble Colombia Ltda**., with NIT. 800.000.946-4, address at Carrera 7 # 114-33, 12th floor, Bogotá D.C., with phone number: 601-5280000 and email address [notifications.im@pg.com](mailto:notifications.im@pg.com), acting as the Data Controller, and in compliance with articles 15 and 20 of the Constitution of Colombia, Law 1581 of 2012, Law 1266 of 2008, Decree 1377 of 2013, and Decree 1074 of 2015, informs all data subjects that the personal data provided will be processed in accordance with the purposes described in this privacy Policy [https://privacypolicy.pg.com/es-CO/](https://privacypolicy.pg.com/es-CO/).
 
 Background
 
 Rights of the Owner of personal data residing in Colombia
 
-In compliance with articles 15 and 20 of the Constitution of Colombia, Law 1581 of 2012, Law 1266 of 2008, Decree 1377 of 2013, and Decree 1074 of 2015, data subjects are informed that the personal data provided will be processed in accordance with the purposes described in this privacy policy. Likewise, it is informed that data subjects have the following rights: a) to know, update, and rectify their personal data regarding partial, inaccurate, incomplete, fractioned, misleading, or data whose processing is expressly prohibited or has not been authorized; b) to request proof of the authorization granted, unless expressly exempted as a requirement for processing; c) to be informed, upon request, of the use that has been given to their personal data; d) to file complaints with the Superintendence of Industry and Commerce for violations of Law 1581 of 2012 and other regulations that modify, add, or complement it; e) to revoke the authorization and/or request the deletion of the data when the processing does not comply with constitutional and legal principles, rights, and guarantees. The revocation and/or deletion will proceed when the Superintendence of Industry and Commerce has determined that the Data Controller or Processor have engaged in conduct contrary to this law and the Constitution; f) to access their personal data that have been subject to processing free of charge. The aforementioned rights may be exercised in accordance with the provisions set forth in this section and the privacy policy, which can be found at the following link: [https://privacypolicy.pg.com/es-co/](https://privacypolicy.pg.com/es-co/).
+In compliance with articles 15 and 20 of the Constitution of Colombia, Law 1581 of 2012, Law 1266 of 2008, Decree 1377 of 2013, and Decree 1074 of 2015, data subjects are informed that the personal data provided will be processed in accordance with the purposes described in this privacy policy. Likewise, it is informed that data subjects have the following rights: a) to know, update, and rectify their personal data regarding partial, inaccurate, incomplete, fractioned, misleading, or data whose processing is expressly prohibited or has not been authorized; b) to request proof of the authorization granted, unless expressly exempted as a requirement for processing; c) to be informed, upon request, of the use that has been given to their personal data; d) to file complaints with the Superintendence of Industry and Commerce for violations of Law 1581 of 2012 and other regulations that modify, add, or complement it; e) to revoke the authorization and/or request the deletion of the data when the processing does not comply with constitutional and legal principles, rights, and guarantees. The revocation and/or deletion will proceed when the Superintendence of Industry and Commerce has determined that the Data Controller or Processor have engaged in conduct contrary to this law and the Constitution; f) to access their personal data that have been subject to processing free of charge. The aforementioned rights may be exercised in accordance with the provisions set forth in this section and the privacy policy, which can be found at the following link: [https://privacypolicy.pg.com/es-CO/](https://privacypolicy.pg.com/es-CO/).
 
 Background
 
@@ -1011,7 +1011,7 @@ Background
 
 Processing of personal data
 
-**Procter & Gamble Colombia Ltda** uses personal data to fulfill the purpose of affecting and improving people's lives, better understanding their interests and preferences as consumers and individuals. We use your information for the processing purposes designated in the privacy policy, which can be found at the following link: [https://privacypolicy.pg.com/es-co/](https://privacypolicy.pg.com/ames/), and for the following purposes:
+**Procter & Gamble Colombia Ltda** uses personal data to fulfill the purpose of affecting and improving people's lives, better understanding their interests and preferences as consumers and individuals. We use your information for the processing purposes designated in the privacy policy, which can be found at the following link: [https://privacypolicy.pg.com/es-CO/](https://privacypolicy.pg.com/es-CO/), and for the following purposes:
 
 * Carrying out marketing, promotion, and/or advertising activities through different means such as personal visits to customers, marketing, and sending information by physical and electronic means.
     
@@ -1078,7 +1078,7 @@ In the event that the request is submitted through our Preference Center, upon r
 
 Likewise, any other Interested Party who is not the Data Subject must prove their identity and their status as their successor in interest, representative, or the representation or stipulation in favor of another or for another.
 
-For further reference on the aforementioned identity verification, please refer to the privacy policy located at the following link: [https://privacypolicy.pg.com/es-co/](https://privacypolicy.pg.com/es-co/)
+For further reference on the aforementioned identity verification, please refer to the privacy policy located at the following link: [https://privacypolicy.pg.com/es-CO/](https://privacypolicy.pg.com/es-CO/)
 
 Taking into account the above, requests related to the processing of Personal Data must contain at least:
 
