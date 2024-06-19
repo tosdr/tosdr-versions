@@ -1,5 +1,5 @@
 1. [Legal Information](https://parsecgaming.com/en/legal)
-2. Privacy Policy
+2. Privacy Policy Hub
     
 
 Privacy Policy Hub
@@ -41,10 +41,11 @@ This sets forth special privacy terms regarding use of the Unity MARS Companion 
 [DPA Amendment for EU, UK, and Swiss SCCs](https://images.response.unity3d.com/Web/Unity/%7B24ba944e-c78e-4c4b-83e9-edde4d37216c%7D_Amendment_to_Unity_Data_Processing_Addendum_-_FINAL.pdf)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-In 2021, the European Commission and the Swiss Federal Data Protection and Information Commission issued new Standard Contractual Clauses ("2021 SCCs"). Additionally, in 2022, the UK Parliament approved the UK International Data Transfer Addendum to the EU SCCs (“UK Addendum”). The 2021 SCCs and UK Addendum replace the Standard Contractual Clauses enacted in 2010 (“2010 SCCs”). This is a pre-signed copy of this document which you may download, execute on your side, and return to [DPA@unity3d.com](mailto:DPA@unity3d.com).
+In 2021, the European Commission and the Swiss Federal Data Protection and Information Commission issued new Standard Contractual Clauses ("2021 SCCs"). Additionally, in 2022, the UK Parliament approved the UK International Data Transfer Addendum to the EU SCCs (“UK Addendum”). The 2021 SCCs and UK Addendum replace the Standard Contractual Clauses enacted in 2010 (“2010 SCCs”). This is a pre-signed copy of this document which you may download, execute on your side, and return to DPA@unity3d.com.  
+  
+[GENERATIVE AI SUPPLEMENTAL PRIVACY NOTICE](https://unity.com/legal/supplemental-privacy-statement-unity-muse)  
 
-[GENERATIVE AI SUPPLEMENTAL PRIVACY NOTICE](https://unity.com/legal/supplemental-privacy-statement-unity-muse)
---------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 This notice explains Unity's processing activities with respect to Personal Information collected through users of Generative AI Tools  
 
