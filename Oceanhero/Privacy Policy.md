@@ -1,4 +1,4 @@
-[![](https://assets-global.website-files.com/60c729ddebd7c14b8602c1fd/6116260f10fa1e3453294f00_OceanHero%20white%20Logo-01.png)](https://oceanhero.today/)
+[![](https://cdn.prod.website-files.com/60c729ddebd7c14b8602c1fd/6116260f10fa1e3453294f00_OceanHero%20white%20Logo-01.png)](https://oceanhero.today/)
 
 [About us](https://oceanhero.today/about-us/)[Our mission](https://oceanhero.today/about-us/our-mission)[Encyclopedia](https://oceanhero.today/marine-life)[How it works](https://oceanhero.today/about-us/how-it-works)
 
@@ -379,9 +379,9 @@ OR DELETE THE DATA WE COLLECT FROM YOU?
 
 Based on the applicable laws of your country, you may have the right to request access to the personal information we collect from you, change that information, or delete it in some circumstances. To request to review, update, or delete your personal information, please submit a request form by clicking [here](https://app.termly.io/notify/759b2108-ef4a-49fd-aebf-9046d3942a24).
 
-[![](https://assets-global.website-files.com/60c729ddebd7c14b8602c1fd/60e2d3d9efdd504147619934_image%207.png)](#)
+[![](https://cdn.prod.website-files.com/60c729ddebd7c14b8602c1fd/60e2d3d9efdd504147619934_image%207.png)](#)
 
-[![](https://assets-global.website-files.com/60c729ddebd7c14b8602c1fd/60e2d3d9efdd505944619936_image%208%20(1).png)](https://www.instagram.com/oceanhero.today/)[![](https://assets-global.website-files.com/60c729ddebd7c14b8602c1fd/60e2d3d9efdd5074a761993c_image%208%20(2).png)](https://www.facebook.com/Oceanhero.today/)[![](https://assets-global.website-files.com/60c729ddebd7c14b8602c1fd/60e2d3d9efdd501d40619940_image%208%20(3).png)](https://twitter.com/OceanheroToday)[![](https://assets-global.website-files.com/60c729ddebd7c14b8602c1fd/60e2d3d9efdd503e4a61993e_image%208%20(4).png)](https://www.youtube.com/channel/UCqzXrRF25g4o_Pl7VnRhrGg)[![](https://assets-global.website-files.com/60c729ddebd7c14b8602c1fd/60e2d3d9efdd50c4dc619938_image%208%20(5).png)](https://www.tiktok.com/@oceanhero.today?)[![](https://assets-global.website-files.com/60c729ddebd7c14b8602c1fd/60e2d3d9efdd50fa2761993a_image%208%20(6).png)](https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Foceanhero%2Fabout%2F)
+[![](https://cdn.prod.website-files.com/60c729ddebd7c14b8602c1fd/60e2d3d9efdd505944619936_image%208%20(1).png)](https://www.instagram.com/oceanhero.today/)[![](https://cdn.prod.website-files.com/60c729ddebd7c14b8602c1fd/60e2d3d9efdd5074a761993c_image%208%20(2).png)](https://www.facebook.com/Oceanhero.today/)[![](https://cdn.prod.website-files.com/60c729ddebd7c14b8602c1fd/60e2d3d9efdd501d40619940_image%208%20(3).png)](https://twitter.com/OceanheroToday)[![](https://cdn.prod.website-files.com/60c729ddebd7c14b8602c1fd/60e2d3d9efdd503e4a61993e_image%208%20(4).png)](https://www.youtube.com/channel/UCqzXrRF25g4o_Pl7VnRhrGg)[![](https://cdn.prod.website-files.com/60c729ddebd7c14b8602c1fd/60e2d3d9efdd50c4dc619938_image%208%20(5).png)](https://www.tiktok.com/@oceanhero.today?)[![](https://cdn.prod.website-files.com/60c729ddebd7c14b8602c1fd/60e2d3d9efdd50fa2761993a_image%208%20(6).png)](https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Foceanhero%2Fabout%2F)
 
 About
 
