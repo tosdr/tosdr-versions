@@ -90,18 +90,19 @@ SearchSubmit search
 * [NGI0 Commons Fund](https://nlnet.nl/commonsfund/)
 * [NGI TALER](https://nlnet.nl/taler/)
 * [NGI Mobifree](https://nlnet.nl/mobifree/)
+* [NGI Fediversity](https://nlnet.nl/fediversity/)
 
 [![git merge icon](/image/git-merge-2.svg)
 
-##### Job opening.
+##### Job opening
 
-We are looking for a technology assessor.](https://nlnet.nl/foundation/jobs/assessor.html)
+NGI Zero is looking for a Regional Representative.](https://nlnet.nl/foundation/jobs/regionalrepresentative.html)
 
-[![bluehats logo, three blue hats](/image/hat.svg)
+[![fediverse logo, 5 nodes in pentagon shape with all diagonals, black](/image/ic_fediverse.svg)
 
-##### Nominate FOSS projects
+##### Come meet us in the Fediverse
 
-Nominate Free Software Projects for the four €10.000 BlueHats Prizes.](https://nlnet.nl/bluehatsprize/)
+@nlnet@nlnet.nl](https://social.nlnet.nl/@nlnet)
 
 ### Events
 
@@ -116,23 +117,23 @@ Nominate Free Software Projects for the four €10.000 BlueHats Prizes.](https:/
 
 ### News
 
+[45 Projects Receiving New NGI Zero Grants](https://nlnet.nl/news/2024/20240618-Call-announcement.html) 2024-06-18
+
+[node-oidc-provider Wins BlueHats Prize for FOSS maintainers](https://nlnet.nl/news/2024/20240610-Winner-of-2nd-BlueHatsPrize.html) 2024-06-10
+
 [Apply before October 1st 2024](https://nlnet.nl/news/2024/20240601-call.html) 2024-06-01
 
 [NGI Mobifree Launches to Develop Ethical Mobile Software](https://nlnet.nl/news/2024/20240521-Mobifree-official-launch.html) 2024-05-21
 
 [Projets Libres Podcast With Lwenn Bussière](https://nlnet.nl/news/2024/20240508-podcast.html) 2024-05-08
 
-[Call for Participants Summer of Nix 2024](https://nlnet.nl/news/2024/20240508-Summer-of-Nix24.html) 2024-05-08
-
-[Radically Open Security Donates 1 Million Euro to NLnet](https://nlnet.nl/news/2024/20240507-ROS-10y.html) 2024-05-07
-
 * [More news](https://nlnet.nl/news)
 
-[![](/image/ic_hand.svg)
+[![bluehats logo, three blue hats](/image/ic_hat.svg)
 
-##### Want to do us a favour?
+##### Nominate FOSS projects
 
-Help us with 5 minutes of your time.](https://nlnet.nl/help)
+Nominate Free Software Projects for the four €10.000 BlueHats Prizes.](https://nlnet.nl/bluehatsprize/)
 
 [![icon of a flower](/image/ic_flower.svg)
 
@@ -149,15 +150,18 @@ Your donation can help grow the future!](https://nlnet.nl/donating/)
 * [Contact](https://nlnet.nl/contact/)
 * [Privacy statement](https://nlnet.nl/privacy/)
 
-**Newsletter**
+**News & events**
 
-Subscribe to our newsletter
-
-[Subscribe](https://lists.nlnet.nl/mailman3/lists/newsletter.lists.nlnet.nl/)
+* [News](https://nlnet.nl/news/)
+* [Events](https://nlnet.nl/events/)
+* [Webinars](https://nlnet.nl/webinars/)
+* [NGI Zero Tour Schedule](https://nlnet.nl/tour-schedule/)
+* [Speaker bureau](https://nlnet.nl/speakerbureau/)
 
 **Find us**
 
-* [Fediverse](https://mastodon.xyz/@NGIZero)
+* [Fediverse: NLnet](https://social.nlnet.nl/@nlnet)
+* [Fediverse: NGI Zero](https://mastodon.xyz/@NGIZero)
 * [RSS feed](https://nlnet.nl/feed.atom)
 * [Our BBB server](https://vc.ngi-0.eu/rooms/ahq-y96-uhs-jka/public_recordings)
 
@@ -176,13 +180,11 @@ SearchSubmit search
 * [Currently running](https://nlnet.nl/project/current.html)
 * [Thematic index](https://nlnet.nl/thema/)
 
-**News & events**
+**Newsletter**
 
-* [News](https://nlnet.nl/news/)
-* [Events](https://nlnet.nl/events/)
-* [Webinars](https://nlnet.nl/webinars/)
-* [NGI Zero Tour Schedule](https://nlnet.nl/tour-schedule/)
-* [Speaker bureau](https://nlnet.nl/speakerbureau/)
+Subscribe to our newsletter
+
+[Subscribe](https://lists.nlnet.nl/mailman3/lists/newsletter.lists.nlnet.nl/)
 
 **Support NLnet**
 
