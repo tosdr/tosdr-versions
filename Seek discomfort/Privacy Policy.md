@@ -13,31 +13,31 @@ X
 
 ![search icon](https://cdn.shopify.com/s/files/1/2580/8892/t/47/assets/search.svg?v=16291869291033789840)
 
-[![Usa Site](//www.seekdiscomfort.com/cdn/shop/t/195/assets/european-flag.png?v=3483897872288383491715976301)](https://eu.seekdiscomfort.com/)
+[![Usa Site](//www.seekdiscomfort.com/cdn/shop/t/197/assets/european-flag.png?v=3483897872288383491717788258)](https://eu.seekdiscomfort.com/)
 
 Go to European Site
 
-[![Cart](//www.seekdiscomfort.com/cdn/shop/t/195/assets/cart.svg?v=101679991043725219261715976295)](https://www.seekdiscomfort.com/cart)
+[![Cart](//www.seekdiscomfort.com/cdn/shop/t/197/assets/cart.svg?v=101679991043725219261717788251)](https://www.seekdiscomfort.com/cart)
 
 X
 
- ![close](//www.seekdiscomfort.com/cdn/shop/t/195/assets/close.svg?v=141251416448518661441715976297)![back to main menu](//www.seekdiscomfort.com/cdn/shop/t/195/assets/right-arrow.svg?v=76040689179243775741715976365)
+ ![close](//www.seekdiscomfort.com/cdn/shop/t/197/assets/close.svg?v=141251416448518661441717788253)![back to main menu](//www.seekdiscomfort.com/cdn/shop/t/197/assets/right-arrow.svg?v=76040689179243775741717788340)
 
 [![Seek Discomfort Logo](//www.seekdiscomfort.com/cdn/shop/files/new_logo_1.png?v=1715714632)](https://www.seekdiscomfort.com/)
 
-[![Usa Site](//www.seekdiscomfort.com/cdn/shop/t/195/assets/european-flag.png?v=3483897872288383491715976301)](https://eu.seekdiscomfort.com/)
+[![Usa Site](//www.seekdiscomfort.com/cdn/shop/t/197/assets/european-flag.png?v=3483897872288383491717788258)](https://eu.seekdiscomfort.com/)
 
 Go to European Site
 
-[![Cart](//www.seekdiscomfort.com/cdn/shop/t/195/assets/cart.svg?v=101679991043725219261715976295)](https://www.seekdiscomfort.com/cart)
+[![Cart](//www.seekdiscomfort.com/cdn/shop/t/197/assets/cart.svg?v=101679991043725219261717788251)](https://www.seekdiscomfort.com/cart)
 
  Search in Seek Discomfort Created with sketchtool.
 
-* [Shop ![right arrow simple](//www.seekdiscomfort.com/cdn/shop/t/195/assets/right-arrow.svg?v=76040689179243775741715976365)](#) 
-* [Collections ![right arrow simple](//www.seekdiscomfort.com/cdn/shop/t/195/assets/right-arrow.svg?v=76040689179243775741715976365)](#) 
+* [Shop ![right arrow simple](//www.seekdiscomfort.com/cdn/shop/t/197/assets/right-arrow.svg?v=76040689179243775741717788340)](#) 
+* [Collections ![right arrow simple](//www.seekdiscomfort.com/cdn/shop/t/197/assets/right-arrow.svg?v=76040689179243775741717788340)](#) 
 * [Sale](https://www.seekdiscomfort.com/collections/sale)
-* [About ![right arrow simple](//www.seekdiscomfort.com/cdn/shop/t/195/assets/right-arrow.svg?v=76040689179243775741715976365)](#) 
-* [Account ![right arrow simple](//www.seekdiscomfort.com/cdn/shop/t/195/assets/right-arrow.svg?v=76040689179243775741715976365)](#) 
+* [About ![right arrow simple](//www.seekdiscomfort.com/cdn/shop/t/197/assets/right-arrow.svg?v=76040689179243775741717788340)](#) 
+* [Account ![right arrow simple](//www.seekdiscomfort.com/cdn/shop/t/197/assets/right-arrow.svg?v=76040689179243775741717788340)](#) 
 
 Our goal is to be a daily reminder that the best things in life exist outside your comfort zone. [Learn more.](#)
 
