@@ -28,7 +28,9 @@ Chartbeat Terms of Service
 
 **Effective date: April 15, 2024**
 
-These Terms of Service (the “Terms”) are a binding contract between the customer listed on the applicable Work Order (including any end-users, “Customer”) and Chartbeat, Inc. These Terms govern Customer’s use of the website(s), products, services and applications (the “Services”) offered by Chartbeat, Inc. (the “Chartbeat Services”) and/or by its affiliate, Tubular Labs, Inc. (“Tubular” and, such Services, the “Tubular Services”). Chartbeat, Inc. and Tubular are collectively referred to as “Chartbeat”. For any questions, comments, or concerns regarding these terms or the Services, please contact:
+These Terms of Service (the “Terms”) are a binding contract between the customer listed on the applicable Work Order (including any end-users, “Customer”) and Chartbeat, Inc. These Terms govern Customer’s use of the website(s), products, services and applications (the “Services”) offered by Chartbeat, Inc. (the “Chartbeat Services”) and/or by its affiliate, Tubular Labs, Inc. (“Tubular” and, such Services, the “Tubular Services”). Chartbeat, Inc. and Tubular are collectively referred to as “Chartbeat”.
+
+For any questions, comments, or concerns regarding these terms or the Services, please contact:
 
 **Chartbeat  
 **Email: [privacy@chartbeat.com](mailto:privacy@chartbeat.com)  
@@ -265,7 +267,7 @@ This Data Processing Addendum (“DPA”) supplements the Terms of Service (the 
 
 2.3 The subject matter, nature, purpose, and duration of this processing, as well as the types of Personal Data collected and categories of Data Subjects, are described in Exhibit A to this DPA.
 
-2.4 Following completion of the Services, at Customer’s choice, Company shall return or delete Customer’s Personal Data, unless further storage of such Personal Data is required or authorized by applicable law. If return or destruction is impracticable or prohibited by law, rule or regulation, Company shall take measures to block such Personal Data from any further processing (except to the extent necessary for its continued hosting or processing required by law, rule or regulation) and shall continue to appropriately protect the Personal Data remaining in its possession, custody, or control. If Customer and Company have entered into Standard Contractual Clauses as described in Section 6 (Transfers of Personal Data), the parties agree that the certification of deletion of Personal Data that is described in Clause 8.1(d) and Clause 8.5 of the EU SCCs (as applicable) shall be provided by Company to Customer only upon Customer’s request.
+2.4 Following completion of the Services, at Customers’ choice, Company shall return or delete Customers’ Personal Data, unless further storage of such Personal Data is required or authorized by applicable law (provided that Company may store Customers’ employee/users’ Personal Data to provide future notices to Customer and respond to future Customer or legal inquiries). Company shall, however, take measures to block any such stored Personal Data from any further processing (except to the extent necessary for its continued hosting or processing required by law, rule or regulation) and shall continue to appropriately protect all Personal Data remaining in its possession, custody, or control. If Customer and Company have entered into Standard Contractual Clauses as described in Section 6 (Transfers of Personal Data), the parties agree that the certification of deletion of Personal Data that is described in Clause 8.1(d) and Clause 8.5 of the EU SCCs (as applicable) shall be provided by Company to Customer only upon Customer’s request.
 
 2.5 State Privacy Language. The Parties acknowledge and agree that the processing of personal information or personal data that is subject to the CCPA, VCDPA, CPA, CTDPA, or UCPA shall be carried out in accordance with the terms set forth in Exhibit E.
 
