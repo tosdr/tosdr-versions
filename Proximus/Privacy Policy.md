@@ -165,7 +165,6 @@ Conditions générales
 **Services additionnels**
 
 * [Norton Security(PDF, 192Kb)](https://www.proximus.be/dam/jcr:0c14549a-f611-41dc-acf8-41672a42e037/cdn/sites/iportal/documents/pdfs/res/fr-conditions-specifiques-norton-security~2023-03-23-16-35-44~cache.pdf)
-* [Family life(PDF, 127Kb)](https://www.proximus.be/dam/jcr:4fd94865-dc2c-42da-b8c3-2a5f3621abe0/cdn/sites/iportal/documents/pdfs/common/Conditions_generales_Family_life_FR~2022-01-21-09-23-54~cache.pdf)
 * [Smartphone Omnium(PDF, 234Kb)](https://www.proximus.be/dam/cdn/sites/iportal/documents/pdfs/common/Smartphone-Omnium-pdfs/Conditions-G-n-rales-SMARTPHONE-OMNIUM.pdf)
 * [Smartphone Omnium light – screen care(PDF, 247Kb)](https://www.proximus.be/dam/cdn/sites/iportal/documents/pdfs/common/Smartphone-Omnium-pdfs/Conditions-G-n-rales-Smartphone-Omnium-Light-Screencare.pdf)
 
@@ -416,11 +415,10 @@ Les Conditions générales pour les consommateurs et petites entreprises sont ad
 
 * [Sites web de Proximus et MyProximus pour consommateurs(PDF, 325Kb)](https://www.proximus.be/dam/jcr:0b9908b9-49a4-471d-a6d5-464d38a1734f/cdn/sites/iportal/documents/pdfs/common/GTC_WEB_FR_2014_proximus~2022-01-21-09-23-57~cache.pdf)
 * [MyProximus pour entreprises(PDF, 282Kb)](https://www.proximus.be/dam/jcr:00e121ba-28cb-46b8-9f84-2ab329e66f8e/cdn/sites/iportal/documents/pdfs/common/GTC_MyProximus_FR_20201116~2022-09-22-08-45-43~cache.pdf)
-* [Invoice Insights CSD(PDF, 445Kb)](https://www.proximus.be/dam/jcr:672c705b-e321-4347-8cbc-16a9151e701f/cdn/sites/iportal/documents/pdfs/common/CSD-Invoice-Insight-FR~2018-05-18-10-01-54~cache.pdf)
 
 ### Loyalty Programs
 
-[Enjoy!(PDF, 222Kb)](https://www.proximus.be/dam/jcr:728320c9-c60b-4682-b2fc-b3b809f631cd/cdn/sites/iportal/documents/pdfs/common/enjoy-program-gtc-fr~2019-06-24-15-34-26~cache.pdf)
+[Proximus for You(PDF, 168Kb)](https://www.proximus.be/dam/jcr:33fc1403-6f59-45b8-bec0-c571797c9690/cdn/sites/iportal/documents/pdfs/common/proximusforyou-gtc-fr-2024-06-18~2024-06-18-07-37-08~cache.pdf)
 
 #### Interactions automatisées avec notre service clientèle
 
@@ -493,7 +491,7 @@ Les prix des produits et services Proximus peuvent être consultés sur les page
 **Appels nationaux (ligne fixe)**
 
 * [_​_Free Calls National(PDF, 62.5Kb)](https://www.proximus.be/dam/jcr:b04107d6-bf68-4b5b-9cd1-693b9084310b/cdn/sites/iportal/documents/pdfs/res/rates_-free_calls_national-_fr~2023-07-03-06-10-29~cache.pdf)
-* [_​_Unlimited Calls National(PDF, 108.4Kb)](https://www.proximus.be/dam/jcr:9f60e010-f8e0-4c09-8e3f-bb1d17145b43/cdn/sites/iportal/documents/pdfs/res/Pricelist_Unlimited_Calls_National_RES_FR.PDF~2022-02-21-12-08-13~cache.pdf)
+* [_​_Unlimited Calls National(PDF, 108.4Kb)](https://www.proximus.be/dam/jcr:9f60e010-f8e0-4c09-8e3f-bb1d17145b43/cdn/sites/iportal/documents/pdfs/res/Pricelist_Unlimited_Calls_National_RES_FR.PDF~2022-02-21-12-08-12~cache.pdf)
 
 **Appels internationaux (ligne fixe)**
 
@@ -727,13 +725,6 @@ Vous avez une plainte? Dans ce cas, vous pouvez contacter votre service Proximus
 
 Vous pouvez également vous adresser au Service de Médiation pour les télécommunications par e-mail [plaintes@mediateurtelecom.be](mailto:plaintes@mediateurtelecom.be) ou par la poste: Boulevard du Roi Albert II 8 boîte 3 à 1000 Bruxelles ,  tél. 02 223 06 06. Ou bien vous contactez le [Online Dispute Resolution Platform](http://ec.europa.eu/odr).
 
-Changement de noms
-------------------
-
-Dans un souci de simplification et d’alignement dans notre gamme de produits, le nom de certains produits a changé. Mais rassurez-vous, le produit, lui, ne change pas: vous profitez toujours des mêmes avantages, du même service aux mêmes conditions!
-
-[Vous trouverez ici la liste complète des produits qui ont changé de nom ainsi que leur nouveau nom(PDF, 66.9Kb)](https://www.proximus.be/dam/jcr:0febcd3d-d7a0-402a-b910-01c011f7c971/cdn/sites/iportal/documents/pdfs/common/Renaming_fr~2017-05-31-16-48-21~cache.pdf)
-
 Certains fichiers PDF peuvent présenter des défauts d’accessibilité à certaines personnes. [Dans ce cas, nous vous invitons à nous contacter](https://www.proximus.be/fr/id_f_cr_ask_mail_express/particuliers/r-orphans/forms/f-cr-ask-mail-express.html).
 
 [](#)
@@ -800,7 +791,7 @@ Blog
 
 * [Actualités/nouvelles](https://www.proximus.be/fr/id_catr_blog/particuliers/blog/news.html)
 * [Think possible](https://www.proximus.be/fr/id_catr_blog/particuliers/blog/news.html?tag=dc6c40b2-450c-4dbc-ace1-b088274b6b2b)
-* [Avantages fidélités](https://www.proximus.be/fr/id_catr_blog/particuliers/blog/news.html?tag=4c375870-f595-4e65-81d3-3ee15fcc60ec)
+* [Avantages clients](https://www.proximus.be/fr/id_proximus-for-you/particuliers/r-orphans/profitez-de-proximus-for-you.html)
 
 [PickxNouvelle fenêtre](https://www.proximus.be/pickx/fr)
 
