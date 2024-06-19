@@ -26,6 +26,7 @@ MENUMENU
     * * * [Plans Overview](https://www.chpw.org/find-health-plan/)
             * [Apple Health Plan](https://www.chpw.org/find-health-plan/apple-health-plan/)
                 * [CHPW Apple Health](https://www.chpw.org/find-health-plan/apple-health-plan/apple-health-integrated-managed-care-medicaid/)
+                * [Apple Health Expansion](https://www.chpw.org/find-health-plan/applehealth-expansion/)
                 * [Plan Benefits](https://www.chpw.org/find-health-plan/apple-health-plan/chpw-plan-benefits/)
                 * [Enrollment](https://www.chpw.org/find-health-plan/apple-health-plan/enrollment/)
                 * [Renewal](https://www.chpw.org/find-health-plan/apple-health-plan/plan-renewal/)
