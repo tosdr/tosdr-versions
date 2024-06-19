@@ -1,4 +1,8 @@
-[![Sustain Life Logo](https://cdn.prod.website-files.com/6266b5e20215f61058171191/64b99aa6446fb290326a7679_logo_color_black.svg)](https://www.sustain.life/)
+Sustain.Life has been acquired by Workiva, the world’s leading cloud platform for assured, integrated reporting.
+
+[Learn more](http://www.sustain.life/blog/news-sustain-life-has-been-acquired-by-workiva)
+
+[![Workiva Carbon logo](https://cdn.prod.website-files.com/6266b5e20215f61058171191/6670d924a5793823aac5912b_workiva-carbon-logo-k.svg)](https://www.sustain.life/)
 
 Product
 
@@ -102,7 +106,7 @@ Webinars and more
 
 Our weekly video podcast
 
-[Partnerships](https://www.sustain.life/partnerships)[Pricing](https://www.sustain.life/pricing)
+[Partnerships](https://www.sustain.life/partnerships)
 
 [Sign in](https://app.sustain.life/?_gl=1*q5i2pf*_ga*MTU1OTgxOTg0OC4xNjMzNzAyNzY1*_ga_4HH0ERCKY0*MTY1MTUwMjQ3OS4zMy4wLjE2NTE1MDI0NzkuNjA.&_ga=2.186069289.1438148479.1651502480-1559819848.1633702765#/signIn)[Demo](https://www.sustain.life/demo)
 
@@ -567,10 +571,6 @@ These Clauses shall be governed by the law of one of the EU Member States, provi
 
 ‍
 
-![](https://cdn.prod.website-files.com/6266b5e20215f61058171191/6376b70383994a1a568dde22_sl-logo-secondary.svg)
-
-Your path to net-zero
-
 2023 Emissions
 
 585.79
@@ -581,7 +581,7 @@ MT CO2e
 
 PRODUCT
 
-[Measure](https://www.sustain.life/measure)[Manage](https://www.sustain.life/manage)[Report](https://www.sustain.life/report)[Supply chain](#)[Partnerships](#)[Pricing](https://www.sustain.life/pricing)[Sign in](https://app.sustain.life/?_gl=1*q5i2pf*_ga*MTU1OTgxOTg0OC4xNjMzNzAyNzY1*_ga_4HH0ERCKY0*MTY1MTUwMjQ3OS4zMy4wLjE2NTE1MDI0NzkuNjA.&_ga=2.186069289.1438148479.1651502480-1559819848.1633702765#/signIn)
+[Measure](https://www.sustain.life/measure)[Manage](https://www.sustain.life/manage)[Report](https://www.sustain.life/report)[Supply chain](#)[Partnerships](#)[Sign in](https://app.sustain.life/?_gl=1*q5i2pf*_ga*MTU1OTgxOTg0OC4xNjMzNzAyNzY1*_ga_4HH0ERCKY0*MTY1MTUwMjQ3OS4zMy4wLjE2NTE1MDI0NzkuNjA.&_ga=2.186069289.1438148479.1651502480-1559819848.1633702765#/signIn)
 
 Use cases and features
 
