@@ -14,7 +14,6 @@
     * Products
     * [Vidyard Video MessagesRecord personal videos to reach more customers](https://www.vidyard.com/products/vidyard-video-messages/)
     * [Vidyard HostingManage all your business videos in one central spot](https://www.vidyard.com/products/vidyard-hosting/)
-    * [Vidyard RoomsEngage stakeholders and accelerate deals](https://www.vidyard.com/products/vidyard-rooms/)
     * [Vidyard ProspectorAI-powered sales outreach at scale](https://www.vidyard.com/products/vidyard-prospector/)
     * [AI AvatarsNewGenerate personalized AI videos at scale](https://www.vidyard.com/products/ai-avatars/)
     * [See All Features](https://www.vidyard.com/products/product-features/)
@@ -108,7 +107,6 @@ Product
 * Products
 * [Vidyard Video MessagesRecord personal videos to reach more customers](https://www.vidyard.com/products/vidyard-video-messages/)
 * [Vidyard HostingManage all your business videos in one central spot](https://www.vidyard.com/products/vidyard-hosting/)
-* [Vidyard RoomsEngage stakeholders and accelerate deals](https://www.vidyard.com/products/vidyard-rooms/)
 * [Vidyard ProspectorAI-powered sales outreach at scale](https://www.vidyard.com/products/vidyard-prospector/)
 * [AI AvatarsNewGenerate personalized AI videos at scale](https://www.vidyard.com/products/ai-avatars/)
 * [See All Features](https://www.vidyard.com/products/product-features/)
@@ -536,9 +534,8 @@ We may change this Privacy Policy. Please check back periodically for changes. I
 
 Last Updated: 03/27/2024
 
-See Vidyard's Video Platform
-
 Get in Touch with Our Sales Team
+--------------------------------
 
 [Book A Demo](https://www.vidyard.com/contact-us/?sfc=7014O000001BcX7QAK)
 
@@ -550,7 +547,6 @@ Get in Touch with Our Sales Team
 
 * [Vidyard Video Messages](https://www.vidyard.com/products/vidyard-video-messages/)
 * [AI AvatarsNew](https://www.vidyard.com/products/ai-avatars/)
-* [Vidyard Rooms](https://www.vidyard.com/products/vidyard-rooms/)
 * [AI Script Generator](https://www.vidyard.com/products/ai-script-generator/)
 * [Vidyard Hosting](https://www.vidyard.com/products/vidyard-hosting/)
 * [Vidyard Prospector](https://www.vidyard.com/products/vidyard-prospector/)
