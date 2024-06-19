@@ -29,11 +29,11 @@ Close ×
         
     * [Collections](# "Collections")
         
+        * [Travel Accessories](https://www.belkin.com/shop-by/collections/travel-accessories/ "Travel Accessories")
         * [Qi2 Wireless Chargers](https://www.belkin.com/company/blog/qi2-wireless-charging-standard/ "Qi2 Wireless Chargers")
         * [iPhone 15 Favorites](https://www.belkin.com/shop-by/collections/iphone-15-favorites/ "iPhone 15 Favorites")
         * [USB-C must-haves for iPhone 15](https://www.belkin.com/shop-by/collections/usb-c-must-haves-for-iphone-15/ "USB-C must-haves for iPhone 15")
         * [Samsung Galaxy S24 Favorites](https://www.belkin.com/shop-by/collections/samsung-galaxy-s24-favorites/ "Samsung Galaxy S24 Favorites")
-        * [Best Travel Accessories](https://www.belkin.com/shop-by/collections/best-travel-accessories/ "Best Travel Accessories")
         
     * [AT&T Deals](https://www.belkin.com/att-deals/ "AT&T Deals")
     
@@ -136,11 +136,11 @@ Close ×
         
     * [Collections](# "Collections")
         
+        * [Travel Accessories](https://www.belkin.com/shop-by/collections/travel-accessories/ "Travel Accessories")
         * [Qi2 Wireless Chargers](https://www.belkin.com/company/blog/qi2-wireless-charging-standard/ "Qi2 Wireless Chargers")
         * [iPhone 15 Favorites](https://www.belkin.com/shop-by/collections/iphone-15-favorites/ "iPhone 15 Favorites")
         * [USB-C must-haves for iPhone 15](https://www.belkin.com/shop-by/collections/usb-c-must-haves-for-iphone-15/ "USB-C must-haves for iPhone 15")
         * [Samsung Galaxy S24 Favorites](https://www.belkin.com/shop-by/collections/samsung-galaxy-s24-favorites/ "Samsung Galaxy S24 Favorites")
-        * [Best Travel Accessories](https://www.belkin.com/shop-by/collections/best-travel-accessories/ "Best Travel Accessories")
         
     * [AT&T Deals](https://www.belkin.com/att-deals/ "AT&T Deals")
     
