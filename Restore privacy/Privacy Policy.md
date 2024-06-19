@@ -1,106 +1,59 @@
 * [Skip to main content](#genesis-content)
 * [Skip to header right navigation](#nav-header-right)
+* [Skip to after header navigation](#nav-after-header)
 * [Skip to site footer](#site-footer)
 
-[![RestorePrivacy](https://cdn-resprivacy.pressidium.com/wp-content/uploads/2022/10/restore-privacy-new-02-copy.png)](https://restoreprivacy.com/)
+Menu
+
+[![RestorePrivacy](https://cdn-resprivacy.pressidium.com/wp-content/uploads/2024/06/RP-Logo-header.png)](https://restoreprivacy.com/)
 
 RestorePrivacy
 
-Resources to stay safe and secure online
-
-Menu
+Your online privacy resource center
 
 Header Search
 
 Search siteSubmit search
 
-* [News](https://restoreprivacy.com/category/news-reports)
-* Tools
-    * [Secure Browser](https://restoreprivacy.com/browser/secure/)
-    * [VPN](https://restoreprivacy.com/vpn/)
-    * [Ad Blocker](https://restoreprivacy.com/best-ad-blocker/)
-    * [Secure Email](https://restoreprivacy.com/email/secure/)
-    * [Private Search Engine](https://restoreprivacy.com/private-search-engine/)
-    * [Password Manager](https://restoreprivacy.com/password-manager/)
-    * [Secure Messaging App](https://restoreprivacy.com/secure-encrypted-messaging-apps/)
-    * [Tor](https://restoreprivacy.com/tor/)
-    * [Identity Theft Protection](https://restoreprivacy.com/identity-theft-protection/)
-    * [Unblock Websites](https://restoreprivacy.com/unblock-websites/)
-    * [Browser Fingerprinting](https://restoreprivacy.com/browser-fingerprinting/)
-    * [Privacy Tools](https://restoreprivacy.com/privacy-tools/)
-* Email
-    * [Secure Email](https://restoreprivacy.com/email/secure/)
-    * [ProtonMail Review](https://restoreprivacy.com/email/reviews/protonmail/)
-    * [Tutanota Review](https://restoreprivacy.com/email/reviews/tuta-mail/)
-    * [Mailfence Review](https://restoreprivacy.com/email/reviews/mailfence/)
-    * [Mailbox.org Review](https://restoreprivacy.com/email/reviews/mailbox-org/)
-    * [Hushmail Review](https://restoreprivacy.com/email/reviews/hushmail/)
-    * [Posteo Review](https://restoreprivacy.com/email/reviews/posteo/)
-    * [Fastmail Review](https://restoreprivacy.com/email/reviews/fastmail/)
-    * [Skiff Mail Review](https://restoreprivacy.com/email/reviews/skiff-mail/)
-    * [StartMail Review](https://restoreprivacy.com/email/reviews/startmail/)
-    * [Runbox Review](https://restoreprivacy.com/email/reviews/runbox/)
-    * [Temporary Disposable Email](https://restoreprivacy.com/email/temporary-disposable/)
-    * [Encrypted Email](https://restoreprivacy.com/email/best-encrypted-email/)
-    * [Alternatives to Gmail](https://restoreprivacy.com/email/alternatives-to-gmail/)
-* VPN
-    * [What is VPN](https://restoreprivacy.com/vpn/)
-    * [VPN Reviews](https://restoreprivacy.com/vpn/reviews/)
-    * [VPN Comparisons](https://restoreprivacy.com/vpn/comparison/)
-    * [Best VPNs](https://restoreprivacy.com/vpn/best/)
-    * [VPN Coupons](https://restoreprivacy.com/vpn/coupons-discounts-deals/)
-    * [VPN Routers](https://restoreprivacy.com/vpn-router/)
-* Password
-    * [Best Password Managers](https://restoreprivacy.com/password-manager/best-password-manager/)
-    * [KeePass Review](https://restoreprivacy.com/password-manager/reviews/keepass/)
-    * [NordPass Review](https://restoreprivacy.com/nordpass/)
-    * [1Password Review](https://restoreprivacy.com/password-manager/reviews/1password/)
-    * [Dashlane Review](https://restoreprivacy.com/password-manager/reviews/dashlane/)
-    * [RoboForm Review](https://restoreprivacy.com/password-manager/reviews/roboform-review/)
-    * [LastPass Review](https://restoreprivacy.com/password-manager/reviews/lastpass/)
-    * [Bitwarden Review](https://restoreprivacy.com/password-manager/reviews/bitwarden/)
-    * [Strong Password](https://restoreprivacy.com/strong-password/)
-* Storage
-    * [Best Cloud Storage](https://restoreprivacy.com/cloud-storage/best/)
-    * [pCloud Review](https://restoreprivacy.com/cloud-storage/reviews/pcloud/)
-    * [Nextcloud Review](https://restoreprivacy.com/cloud-storage/reviews/nextcloud/)
-    * [IDrive Review](https://restoreprivacy.com/cloud-storage/reviews/idrive/)
-    * [SpiderOak Review](https://restoreprivacy.com/cloud-storage/reviews/spideroak-one/)
-    * [Sync.com Review](https://restoreprivacy.com/cloud-storage/reviews/sync-com/)
-    * [MEGA Cloud Review](https://restoreprivacy.com/cloud-storage/reviews/mega/)
-    * [NordLocker Review](https://restoreprivacy.com/cloud-storage/reviews/nordlocker/)
-    * [Tresorit Review](https://restoreprivacy.com/cloud-storage/reviews/tresorit/)
-    * [Google Drive Alternatives](https://restoreprivacy.com/google-drive-alternatives/)
-* Messenger
-    * [Secure Messaging Apps](https://restoreprivacy.com/secure-encrypted-messaging-apps/)
-    * [Signal Review](https://restoreprivacy.com/secure-encrypted-messaging-apps/signal/)
-    * [Telegram Review](https://restoreprivacy.com/secure-encrypted-messaging-apps/telegram/)
-    * [Wire Review](https://restoreprivacy.com/secure-encrypted-messaging-apps/wire/)
-    * [Threema Review](https://restoreprivacy.com/secure-encrypted-messaging-apps/threema/)
-    * [Session Review](https://restoreprivacy.com/secure-encrypted-messaging-apps/session/)
-* Info
-    * [Mission and Site Guidelines](https://restoreprivacy.com/mission/)
-    * [Press](https://restoreprivacy.com/press/)
-    * [Contact](https://restoreprivacy.com/contact/)
-* Search
-    
-    Search siteSubmit search
-    
+* [Home](https://restoreprivacy.com/)
 
+General
+-------
+
+[Home](https://restoreprivacy.com/)
+
+[News](https://restoreprivacy.com/category/news-reports/)
+
+[About](https://restoreprivacy.com/mission/)
+
+[Contact](https://restoreprivacy.com/contact/)
+
+Privacy Tools
+-------------
+
+* [Secure Browsers](https://restoreprivacy.com/browser/secure/)
+* [Secure Email](https://restoreprivacy.com/email/secure/)
+* [Private Search Engine](https://restoreprivacy.com/private-search-engine/)
+* [Best VPN Services](https://restoreprivacy.com/vpn/best/)
+* [Data Removal Services](https://restoreprivacy.com/data-removal/best-data-removal-services/)
+* [Best Password Managers](https://restoreprivacy.com/password-manager/best-password-manager/)
+* [Secure Messaging Apps](https://restoreprivacy.com/secure-encrypted-messaging-apps/)
+* [Ad Blockers](https://restoreprivacy.com/best-ad-blocker/)
+* [Identity Theft Protection](https://restoreprivacy.com/identity-theft-protection/)
+
+Newsletter
+----------
+
+Coming soon.
+
+Name 
+
+Email 
+
+_No spam, ever._
+
+* [Home](https://restoreprivacy.com/)
 * [News](https://restoreprivacy.com/category/news-reports)
-* Tools
-    * [Secure Browser](https://restoreprivacy.com/browser/secure/)
-    * [VPN](https://restoreprivacy.com/vpn/)
-    * [Ad Blocker](https://restoreprivacy.com/best-ad-blocker/)
-    * [Secure Email](https://restoreprivacy.com/email/secure/)
-    * [Private Search Engine](https://restoreprivacy.com/private-search-engine/)
-    * [Password Manager](https://restoreprivacy.com/password-manager/)
-    * [Secure Messaging App](https://restoreprivacy.com/secure-encrypted-messaging-apps/)
-    * [Tor](https://restoreprivacy.com/tor/)
-    * [Identity Theft Protection](https://restoreprivacy.com/identity-theft-protection/)
-    * [Unblock Websites](https://restoreprivacy.com/unblock-websites/)
-    * [Browser Fingerprinting](https://restoreprivacy.com/browser-fingerprinting/)
-    * [Privacy Tools](https://restoreprivacy.com/privacy-tools/)
 * Email
     * [Secure Email](https://restoreprivacy.com/email/secure/)
     * [ProtonMail Review](https://restoreprivacy.com/email/reviews/protonmail/)
@@ -116,13 +69,6 @@ Search siteSubmit search
     * [Temporary Disposable Email](https://restoreprivacy.com/email/temporary-disposable/)
     * [Encrypted Email](https://restoreprivacy.com/email/best-encrypted-email/)
     * [Alternatives to Gmail](https://restoreprivacy.com/email/alternatives-to-gmail/)
-* VPN
-    * [What is VPN](https://restoreprivacy.com/vpn/)
-    * [VPN Reviews](https://restoreprivacy.com/vpn/reviews/)
-    * [VPN Comparisons](https://restoreprivacy.com/vpn/comparison/)
-    * [Best VPNs](https://restoreprivacy.com/vpn/best/)
-    * [VPN Coupons](https://restoreprivacy.com/vpn/coupons-discounts-deals/)
-    * [VPN Routers](https://restoreprivacy.com/vpn-router/)
 * Password
     * [Best Password Managers](https://restoreprivacy.com/password-manager/best-password-manager/)
     * [KeePass Review](https://restoreprivacy.com/password-manager/reviews/keepass/)
@@ -144,6 +90,15 @@ Search siteSubmit search
     * [NordLocker Review](https://restoreprivacy.com/cloud-storage/reviews/nordlocker/)
     * [Tresorit Review](https://restoreprivacy.com/cloud-storage/reviews/tresorit/)
     * [Google Drive Alternatives](https://restoreprivacy.com/google-drive-alternatives/)
+* Identity Theft
+    * [Identity Theft Protection](https://restoreprivacy.com/identity-theft-protection/)
+* VPN
+    * [What is VPN](https://restoreprivacy.com/vpn/)
+    * [VPN Reviews](https://restoreprivacy.com/vpn/reviews/)
+    * [VPN Comparisons](https://restoreprivacy.com/vpn/comparison/)
+    * [Best VPNs](https://restoreprivacy.com/vpn/best/)
+    * [VPN Coupons](https://restoreprivacy.com/vpn/coupons-discounts-deals/)
+    * [VPN Routers](https://restoreprivacy.com/vpn-router/)
 * Messenger
     * [Secure Messaging Apps](https://restoreprivacy.com/secure-encrypted-messaging-apps/)
     * [Signal Review](https://restoreprivacy.com/secure-encrypted-messaging-apps/signal/)
@@ -151,14 +106,24 @@ Search siteSubmit search
     * [Wire Review](https://restoreprivacy.com/secure-encrypted-messaging-apps/wire/)
     * [Threema Review](https://restoreprivacy.com/secure-encrypted-messaging-apps/threema/)
     * [Session Review](https://restoreprivacy.com/secure-encrypted-messaging-apps/session/)
+* Tools
+    * [Secure Browser](https://restoreprivacy.com/browser/secure/)
+    * [Ad Blocker](https://restoreprivacy.com/best-ad-blocker/)
+    * [Secure Email](https://restoreprivacy.com/email/secure/)
+    * [Private Search Engine](https://restoreprivacy.com/private-search-engine/)
+    * [Password Manager](https://restoreprivacy.com/password-manager/)
+    * [Secure Messaging App](https://restoreprivacy.com/secure-encrypted-messaging-apps/)
+    * [Tor](https://restoreprivacy.com/tor/)
+    * [Identity Theft Protection](https://restoreprivacy.com/identity-theft-protection/)
+    * [Unblock Websites](https://restoreprivacy.com/unblock-websites/)
+    * [Browser Fingerprinting](https://restoreprivacy.com/browser-fingerprinting/)
+    * [Privacy Tools](https://restoreprivacy.com/privacy-tools/)
 * Info
     * [Mission and Site Guidelines](https://restoreprivacy.com/mission/)
     * [Press](https://restoreprivacy.com/press/)
     * [Contact](https://restoreprivacy.com/contact/)
-* Search  
-    
-    Search siteSubmit search
-    
+
+If you buy through links on this site, we may earn a commission, which helps support our [mission](https://restoreprivacy.com/mission/?customize_changeset_uuid=b815c405-9a98-4d70-9f77-4046eb9202d9&customize_autosaved=on&customize_messenger_channel=preview-30).
 
 Privacy Policy
 ==============
@@ -172,7 +137,7 @@ This website (restoreprivacy.com) **does not use any invasive tracking software
 
 ### Anonymous tips and comments
 
-If you want to leave a comment on the site or send us a message, you **never have to use your real email address or name**. You can simply use any name or email you wish for the form (real or fake) and we will still get the comment or message. If you want to use your real name and email, that’s fine too. You can also create an anonymous email address for free using one of the providers mentioned on the [privacy tools](https://restoreprivacy.com/privacy-tools/) page.
+If you want to leave a comment on the site or send us a message, you **never have to use your real email address or name**. You can simply use any name or email you wish for the form (real or fake) and we will still get the comment or message. If you want to use your real name and email, that’s fine too. You can also create an anonymous email address for free using one of the providers mentioned on our [secure email](https://restoreprivacy.com/email/secure/) page.
 
 **Overview**
 
@@ -184,7 +149,7 @@ If you choose to correspond with us through email, we may retain the content of 
 
 **2\. WEBSITE USE INFORMATION**
 
-Similar to other websites, this website utilizes a standard technology called “cookies” and Web server logs to collect information about how this site is used. Information gathered through cookies and web server logs may include the date and time of visits, the pages viewed, and time spent at this site.
+Similar to other websites, this website utilizes a standard technology called “cookies�? and Web server logs to collect information about how this site is used. Information gathered through cookies and web server logs may include the date and time of visits, the pages viewed, and time spent at this site.
 
 Therefore we get the basic analytics data necessary to run the site, and your privacy remains secure.
 
@@ -212,22 +177,38 @@ We are not responsible for the practices employed by websites linked to or from 
 
 By using this site you consent to this Privacy Policy. If we change our policies, we will post those changes on this site to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it.
 
-#### RestorePrivacy Checklist \[2024\]
+![Avatar photo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E)
 
-1. **Secure browser**: [Brave](https://brave.com/) or [Modified Firefox](https://restoreprivacy.com/firefox-privacy/)
-2. **VPN**: [NordVPN](https://restoreprivacy.com/vpn/reviews/nordvpn/) or [Surfshark](https://restoreprivacy.com/vpn/reviews/surfshark-vpn/)
-3. **Ad blocker**: [uBlock Origin](https://github.com/gorhill/uBlock) or [AdGuard](https://restoreprivacy.com/go/adguard)
-4. **Secure email**: [ProtonMail](https://restoreprivacy.com/email/reviews/protonmail/) or [StartMail](https://restoreprivacy.com/email/reviews/startmail/)
-5. **Secure Messenger**: [Signal](https://restoreprivacy.com/secure-encrypted-messaging-apps/signal/) or [Threema](https://restoreprivacy.com/secure-encrypted-messaging-apps/threema/)
+![Avatar photo](https://cdn-resprivacy.pressidium.com/wp-content/uploads/2024/06/alexlekander-80x80.jpeg)
+
+#### About Alex Lekander
+
+Alex Lekander is the Editor-in-Chief and founder of RestorePrivacy. With a passion for digital privacy and accessible information, he created RestorePrivacy in 2017 to provide you with honest, useful, and up-to-date information about online privacy, security, and related topics.
+
+About
+-----
+
+RestorePrivacy is a digital privacy advocacy group committed to helping you stay safe, secure, and private online. You can support this project through donations, purchasing items through our links (we may earn a commission at no extra cost to you), or sharing this information with others. See our [mission here](https://restoreprivacy.com/mission/).
+
+* [X](https://x.com/ResPrivacy)
+* [Facebook](https://www.facebook.com/resprivacy/)
+* [Mastodon](https://infosec.exchange/@restoreprivacy)
+
+And for cybersecurity news, check out **[Cyber Insider](https://cyberinsider.com/)**.
+
+Digital privacy Checklist:
+--------------------------
+
+1. **Secure browser**: [Brave](https://brave.com/) or [Modified Firefox](https://restoreprivacy.com/firefox-privacy/)
+2. **VPN**: [NordVPN](https://restoreprivacy.com/go/nordvpn-deals) ([72% off coupon](https://restoreprivacy.com/go/nordvpn-deals))
+3. **Ad blocker**: [uBlock Origin](https://github.com/gorhill/uBlock/) or [AdGuard](https://adguard.com/)
+4. **Secure email**: [ProtonMail](https://restoreprivacy.com/go/protonmail) or [StartMail](https://restoreprivacy.com/go/startmail)
+5. **Secure messaging**: [Signal](https://restoreprivacy.com/secure-encrypted-messaging-apps/signal/) or [Threema](https://restoreprivacy.com/secure-encrypted-messaging-apps/threema/)
 6. **Private search engine**: [MetaGer](https://metager.org/) or [Brave](https://search.brave.com/)
-7. **Password manager**: [NordPass](https://restoreprivacy.com/password-manager/reviews/nordpass/) or [Bitwarden](https://restoreprivacy.com/password-manager/reviews/bitwarden/)
+7. **Password manager**: [NordPass](https://restoreprivacy.com/go/nordpass) or [Bitwarden](https://restoreprivacy.com/password-manager/reviews/bitwarden/)
+8. **Identity theft protection**: [Aura](https://restoreprivacy.com/go/aura)
+9. **Data removal service**: [Incogni](https://restoreprivacy.com/go/incogni)
 
-#### About
+Copyright © 2024 Restore Privacy, LLC · [Privacy Policy](https://restoreprivacy.com/privacy-policy/) · [Terms of Use](https://restoreprivacy.com/terms-of-use/) · [Contact](https://restoreprivacy.com/contact/) · [Sitemap](https://restoreprivacy.com/sitemap/) · All Rights Reserved
 
-RestorePrivacy is a digital privacy advocacy group committed to helping people stay safe and secure online. You can support this project through [donations](https://restoreprivacy.com/donate/), purchasing items through our links (we may earn a commission at no extra cost to you), and sharing this information with others. See our [**mission here**](https://restoreprivacy.com/mission/).
-
-We’re available for [Press and media inquiries here](https://restoreprivacy.com/press/).
-
-RestorePrivacy is also on [**X (formerly Twitter)**](https://twitter.com/ResPrivacy)
-
-COPYRIGHT © 2024 RESTORE PRIVACY, LLC · [PRIVACY POLICY](https://restoreprivacy.com/privacy-policy/) · [TERMS OF USE](https://restoreprivacy.com/terms-of-use/) · [CONTACT](https://restoreprivacy.com/contact/) · [SITEMAP](https://restoreprivacy.com/sitemap/)
+[](#genesis-content)
