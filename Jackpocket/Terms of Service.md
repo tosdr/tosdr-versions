@@ -4,7 +4,7 @@ About
 
 [About Us](https://www.jackpocket.com/team)[FAQ](https://support.jackpocket.com/hc/en-us)[Careers](https://www.jackpocket.com/careers)[Press](https://www.jackpocket.com/press)
 
-[Winners](https://blog.jackpocket.com/featured-winners/)[News](https://blog.jackpocket.com/)[Sweepstakes](https://www.jackpocket.com/sweepstakes)
+[Winners](https://blog.jackpocket.com/featured-winners/)[News](https://blog.jackpocket.com/)[Lottery Results](https://www.jackpocket.com/lottery-results)[Sweepstakes](https://www.jackpocket.com/sweepstakes)
 
 GET THE APP
 
