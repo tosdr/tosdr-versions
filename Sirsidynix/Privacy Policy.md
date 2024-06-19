@@ -1,83 +1,99 @@
-[×](javascript:void(0))
+[![](https://www.sirsidynix.com/wp-content/uploads/2023/12/SD-header-logo-white.png)](https://www.sirsidynix.com/)
 
-[«](javascript:void(0))
-
-* [**Products**](#)
-* [**Why**SirsiDynix](#)
-* [**Customer**Success](#)
-* [**Resources**](#)
+* [**Products**](https://www.sirsidynix.com/products/) Close **Products** Open **Products**
+* [**Why**SirsiDynix](https://www.sirsidynix.com/why-sirsidynix/) Close **Why**SirsiDynix Open **Why**SirsiDynix
+* [**Customer**Success](https://www.sirsidynix.com/customer-success/) Close **Customer**Success Open **Customer**Success
+* [**Resources**](https://www.sirsidynix.com/resources/) Close **Resources** Open **Resources**
 * [**Support**Center](https://support.sirsidynix.com/)
-* [**Company**](#)
+* [**Company**](https://www.sirsidynix.com/about-us/) Close **Company** Open **Company**
 
-Search for:  
+###### Content Solutions
 
- 
+[CloudSource](https://cloudsource.net/)
 
-### Content Solutions
+###### Library Systems
 
-* [CloudSource](https://www.cloudsource.net/)
+[BLUEcloud](https://www.sirsidynix.com/bluecloud/)
 
-### Library Systems
+[BLUEcloud Campus](https://www.sirsidynix.com/bluecloud-campus/)
 
-* [BLUEcloud](https://www.sirsidynix.com/bluecloud/)
-* [BLUEcloud Campus](https://www.sirsidynix.com/bluecloud-campus/)
-* [Symphony](https://www.sirsidynix.com/symphony/)
+[Symphony](https://www.sirsidynix.com/symphony/)
 
-* [Horizon](https://www.sirsidynix.com/horizon/)
-* [EOS.Web](https://www.sirsidynix.com/eos-web/)
+[Horizon](https://www.sirsidynix.com/horizon/)
 
-### Modules
+[EOS.Web](https://www.sirsidynix.com/eos-web/)
 
-* [BLUEcloud Acquisitions](https://www.sirsidynix.com/bluecloud-acquisitions/)
-* [BLUEcloud Analytics](https://www.sirsidynix.com/bluecloud-analytics/)
-* [BLUEcloud Cataloging](https://www.sirsidynix.com/bluecloud-cataloging/)
-* [BLUEcloud Central](https://www.sirsidynix.com/bluecloud-central/)
-* [BLUEcloud Circulation](https://www.sirsidynix.com/bluecloud-circulation/)
-* [BLUEcloud Commerce](https://www.sirsidynix.com/bluecloud-commerce/)
-* [BLUEcloud Course Lists](https://www.sirsidynix.com/bluecloud-course-lists/)
-* [BLUEcloud eRM](https://www.sirsidynix.com/bluecloud-erm/)
+###### Modules
 
-* [BLUEcloud Mobile2](https://www.sirsidynix.com/bluecloud-mobile2/)
-* [BLUEcloud Visibility+](https://www.sirsidynix.com/bluecloud-visibility/)
-* [Community Engagement Platform](https://www.sirsidynix.com/community-engagement-platform/)
-* [Enterprise](https://www.sirsidynix.com/enterprise/)
-* [eResource Central](https://www.sirsidynix.com/eresource-central/)
-* [MobileStaff](https://www.sirsidynix.com/mobilestaff/)
-* [SymphonyWeb](https://www.sirsidynix.com/symphonyweb/)
-* [Web Services & APIs](https://www.sirsidynix.com/web-services-apis/)
+[BLUEcloud Aquisitions](https://www.sirsidynix.com/bluecloud-acquisitions/)
 
-### Need
+[BLUEcloud Analytics](https://www.sirsidynix.com/bluecloud-analytics-2/)
 
-* [Library Automation](https://www.sirsidynix.com/library-automation/)
-* [Discovery](https://www.sirsidynix.com/discovery/)
+[BLUEcloud Cataloging](https://www.sirsidynix.com/bluecloud-cataloging/)
 
-* [Library Marketing](https://www.sirsidynix.com/library-marketing/)
-* [Mobile Experience](https://www.sirsidynix.com/mobile-experience/)
+[BLUEcloud Central](https://www.sirsidynix.com/bluecloud-central/)
 
-### Library Type
+[BLUEcloud Circulation](https://www.sirsidynix.com/bluecloud-circulation-2/)
 
-* [Public](https://www.sirsidynix.com/public/)
-* [Academic](https://www.sirsidynix.com/academic/)
-* [K-12](https://www.sirsidynix.com/k-12/)
+[BLUEcloud Commerce](https://www.sirsidynix.com/bluecloud-commerce-2/)
 
-* [Consortia](https://www.sirsidynix.com/consortia/)
-* [Special](https://www.sirsidynix.com/special/)
+[BLUEcloud Course Lists](https://www.sirsidynix.com/bluecloud-course-lists/)
 
-[Power of Libraries](https://www.sirsidynix.com/why-sd/#pol)
+[BLUEcloud eRM](https://www.sirsidynix.com/bluecloud-erm-2/)
 
-[Customer Experience](https://www.sirsidynix.com/why-sd/#focus)
+[BLUEcloud Mobile2](https://www.sirsidynix.com/bluecloud-mobile2/)
 
-[Open & Transparent](https://www.sirsidynix.com/why-sd/#open)
+[BLUEcloud Visibility+](https://www.sirsidynix.com/bluecloud-visibility-2/)
 
-[Best-of-Breed](https://www.sirsidynix.com/why-sd/#bob)
+[Community Engagement Plaform](https://www.sirsidynix.com/community-engagement-platform/)
 
-[BLUE](https://www.sirsidynix.com/why-sd/#blue)
+[Enterprise](https://www.sirsidynix.com/enterprise/)
 
-[Connections](https://www.sirsidynix.com/why-sd/#connections)
+[eResource Central](https://www.sirsidynix.com/eresource-central/)
 
-[Your Partner](https://www.sirsidynix.com/why-sd/#partner)
+[MobileStaff](https://www.sirsidynix.com/mobilestaff/)
 
-[Community](https://www.sirsidynix.com/why-sd/#community)
+[SymphonyWeb](https://www.sirsidynix.com/symphonyweb/)
+
+[Web Services & APIs](https://www.sirsidynix.com/apis-web-services/)
+
+###### Need
+
+[Library Automation](https://www.sirsidynix.com/library-automation/)
+
+[Discovery](https://www.sirsidynix.com/discovery-2/)
+
+[Library Marketing](https://www.sirsidynix.com/library-marketing-2/)
+
+[Mobile Experience](https://www.sirsidynix.com/mobile-experience-2/)
+
+###### Library Type
+
+[Public](https://www.sirsidynix.com/public/)
+
+[Academic](https://www.sirsidynix.com/academic/)
+
+[K-12](https://www.sirsidynix.com/k-12)
+
+[Consortia](https://www.sirsidynix.com/consortia/)
+
+[Special](https://www.sirsidynix.com/special)
+
+[Power Of Libraries](https://www.sirsidynix.com/why-sirsidynix/#pol)
+
+[Customer Experience](https://www.sirsidynix.com/why-sirsidynix/#focus)
+
+[Open & Transparent](https://www.sirsidynix.com/why-sirsidynix/#open)
+
+[Best-of-Breed](https://www.sirsidynix.com/why-sirsidynix/#open)
+
+[BLUE](https://www.sirsidynix.com/why-sirsidynix/#blue)
+
+[Connections](https://www.sirsidynix.com/why-sirsidynix/#connections)
+
+[Your Partner](https://www.sirsidynix.com/why-sirsidynix/#partner)
+
+[Community](https://www.sirsidynix.com/why-sirsidynix/#community)
 
 [Hosting](https://www.sirsidynix.com/hosting/)
 
@@ -89,7 +105,7 @@ Search for:
 
 [Data Services](https://www.sirsidynix.com/data-services/)
 
-[Platinum Services](https://www.sirsidynix.com/platinum-services-package/)
+[Platinum Services](https://www.sirsidynix.com/platinum-services/)
 
 [Customer Support](https://www.sirsidynix.com/customer-support/)
 
@@ -101,11 +117,11 @@ Search for:
 
 [Economic Power of Libraries Video](http://go.sirsidynix.com/economic-power-of-libraries)
 
-[Connections](http://cs.sirsidynix.com/)
+[Connections](https://cs.sirsidynix.com/)
 
 [COVID-19 Resources](https://www.sirsidynix.com/covid-19-resources/)
 
-[Webinars and Events](https://www.sirsidynix.com/events/)
+[Webinars and Events](https://www.sirsidynix.com/events)
 
 [OnDemand Webinars](https://www.sirsidynix.com/ondemand-webinars/)
 
@@ -127,121 +143,21 @@ Search for:
 
 [Contact Us](https://www.sirsidynix.com/contact-us/)
 
-[![SD logo header menu](https://www.sirsidynix.com/wp-content/themes/sirsidynix2019/dev/css/images/SD-header-logo-white.png)](https://www.sirsidynix.com/)
+Search
 
-* [![](https://www.sirsidynix.com/wp-content/themes/sirsidynix2019/dev/css/images/CSOA-logo-white_300w.png)
-    
-    NEW Content Solution](https://www.cloudsourceoa.com/)
-    
-* [**Products**](https://www.sirsidynix.com/products/)
-    
-    ###### Content Solutions
-    
-    * [CloudSource](https://www.cloudsource.net/)
-    
-    ###### Library Systems
-    
-    * [BLUEcloud](https://www.sirsidynix.com/bluecloud/)
-    * [BLUEcloud Campus](https://www.sirsidynix.com/bluecloud-campus/)
-    * [Symphony](https://www.sirsidynix.com/symphony/)
-    * [Horizon](https://www.sirsidynix.com/horizon/)
-    * [EOS.Web](https://www.sirsidynix.com/eos-web/)
-    
-    ###### Modules
-    
-    * [BLUEcloud Acquisitions](https://www.sirsidynix.com/bluecloud-acquisitions/)
-    * [BLUEcloud Analytics](https://www.sirsidynix.com/bluecloud-analytics/)
-    * [BLUEcloud Cataloging](https://www.sirsidynix.com/bluecloud-cataloging/)
-    * [BLUEcloud Central](https://www.sirsidynix.com/bluecloud-central/)
-    * [BLUEcloud Circulation](https://www.sirsidynix.com/bluecloud-circulation/)
-    * [BLUEcloud Commerce](https://www.sirsidynix.com/bluecloud-commerce/)
-    * [BLUEcloud Course Lists](https://www.sirsidynix.com/bluecloud-course-lists/)
-    * [BLUEcloud eRM](https://www.sirsidynix.com/bluecloud-erm/)
-    * [BLUEcloud Mobile2](https://www.sirsidynix.com/bluecloud-mobile2/)
-    * [BLUEcloud Visibility+](https://www.sirsidynix.com/bluecloud-visibility/)
-    
-    * [Community Engagement Platform](https://www.sirsidynix.com/community-engagement-platform/)
-    * [Enterprise](https://www.sirsidynix.com/enterprise/)
-    * [eResource Central](https://www.sirsidynix.com/eresource-central/)
-    * [MobileStaff](https://www.sirsidynix.com/mobilestaff/)
-    * [SymphonyWeb](https://www.sirsidynix.com/symphonyweb/)
-    * [Web Services & APIs](https://www.sirsidynix.com/web-services-apis/)
-    
-    ###### Need
-    
-    * [Library Automation](https://www.sirsidynix.com/library-automation/)
-    * [Discovery](https://www.sirsidynix.com/discovery/)
-    * [Library Marketing](https://www.sirsidynix.com/library-marketing/)
-    * [Mobile Experience](https://www.sirsidynix.com/mobile-experience/)
-    
-    ###### Library Type
-    
-    * [Public](https://www.sirsidynix.com/public/)
-    * [Academic](https://www.sirsidynix.com/academic/)
-    * [K-12](https://www.sirsidynix.com/k-12/)
-    * [Consortia](https://www.sirsidynix.com/consortia/)
-    * [Special](https://www.sirsidynix.com/special/)
-    
-* [**Why**SirsiDynix](https://www.sirsidynix.com/why-sd/)
-    
-    * [Power of Libraries](https://www.sirsidynix.com/why-sd/#pol)
-    * [Customer Experience](https://www.sirsidynix.com/why-sd/#focus)
-    * [Open & Transparent](https://www.sirsidynix.com/why-sd/#open)
-    * [Best-of-Breed](https://www.sirsidynix.com/why-sd/#bob)
-    * [BLUE](https://www.sirsidynix.com/why-sd/#blue)
-    * [Connections](https://www.sirsidynix.com/why-sd/#connections)
-    * [Your Partner](https://www.sirsidynix.com/why-sd/#partner)
-    * [Community](https://www.sirsidynix.com/why-sd/#community)
-    
-* [**Customer**Success](https://www.sirsidynix.com/customer-success/)
-    
-    * [Hosting](https://www.sirsidynix.com/hosting/)
-    * [Training](https://www.sirsidynix.com/training/)
-    * [Consulting](https://www.sirsidynix.com/consulting/)
-    * [Implementation](https://www.sirsidynix.com/implementation/)
-    * [Data Services](https://www.sirsidynix.com/data-services/)
-    * [Platinum Services](https://www.sirsidynix.com/platinum-services-package/)
-    * [Customer Support](https://www.sirsidynix.com/customer-support/)
-    * [Library Relations Manager](https://www.sirsidynix.com/library-relations-manager/)
-    * [Developer Community](https://www.sirsidynix.com/developer-community/)
-    * [Strategic Partners Program](https://www.sirsidynix.com/strategic-partners-program/)
-    
-* [**Resources**](https://www.sirsidynix.com/resources/)
-    
-    * [Economic Power of Libraries Video](http://go.sirsidynix.com/economic-power-of-libraries)
-    * [Connections](http://cs.sirsidynix.com/)
-    * [COVID-19 Resources](https://www.sirsidynix.com/covid-19-resources/)
-    * [Webinars and Events](https://www.sirsidynix.com/events/)
-    * [OnDemand Webinars](https://www.sirsidynix.com/ondemand-webinars/)
-    * [Blog](https://www.sirsidynix.com/blog/)
-    * [Case Studies](https://www.sirsidynix.com/case-studies/)
-    * [Press Releases](https://www.sirsidynix.com/press-releases/)
-    * [eBooks](https://www.sirsidynix.com/ebooks/)
-    
-* [**Support**Center](https://support.sirsidynix.com/)
-* [**Company**](https://www.sirsidynix.com/about-us/)
-    
-    * [About Us](https://www.sirsidynix.com/about-us/)
-    * [Careers](https://www.sirsidynix.com/careers/)
-    * [Leadership](https://www.sirsidynix.com/leadership/)
-    * [Partners](https://www.sirsidynix.com/partners/)
-    * [Contact Us](https://www.sirsidynix.com/contact-us/)
-    
-* Search for:  
-    
-    ![search icon](https://www.sirsidynix.com/wp-content/themes/sirsidynix2019/dev/css/images/Search-icon-lightgray.png)
-    
+Search
 
 Legal & Privacy Terms
 ---------------------
 
-#### SIRSIDYNIX: PRIVACY POLICY
+SIRSIDYNIX: PRIVACY POLICY
+--------------------------
 
 Effective date of Oct 25, 2023
 
-##### This page was last updated October 25, 2023.
+#### This page was last updated October 25, 2023.
 
-[![TRUSTe](//privacy-policy.truste.com/privacy-seal/seal?rid=078a56a4-9e48-4152-bee2-b466a991f9f0)](https://privacy.truste.com/privacy-seal/validation?rid=078a56a4-9e48-4152-bee2-b466a991f9f0)
+![](//privacy-policy.truste.com/privacy-seal/seal?rid=078a56a4-9e48-4152-bee2-b466a991f9f0)
 
 Sirsi Corporation and its affiliated companies, dba SirsiDynix, and its subsidiary, EOS International (referred to collectively in this Privacy Policy as “SirsiDynix,” we,” “us” or the “Company”) are committed to protecting your privacy. This Privacy Policy explains how we collect, use, share, protect and process information relating to individuals (“Personal Data”) and your rights and choices regarding your Personal Data. Personal Data does not include aggregated data from which personally identifiable information has been removed.
 
@@ -249,7 +165,7 @@ This Privacy Policy applies only to our processing of Personal Data as a control
 
 ### 1\. Contact information
 
-##### To exercise rights that may apply to you as described in Section 6 below, please click [here](https://dsar.sirsidynix.com/) for our web form (most efficient) or call 800-288-8020.
+##### To exercise rights that may apply to you as described in Section 6 below, please click [here](https://dsar.sirsidynix.com/) for our web form (most efficient) or call 800-288-8020.
 
 #### For all other data privacy inquiries
 
@@ -257,48 +173,36 @@ If you have questions regarding this Privacy Statement or require assistance wit
 
 #### Attn: Data Protection Officer
 
-![address icon](https://www.sirsidynix.com/wp-content/themes/sirsidynix2019/dev/css/images/icon-contact-info-pin.png)
+### **Address:**
 
-Address:
+3300 North Ashton Blvd, Suite 500  
+Lehi, UT 84043 United States
 
-3300 North Ashton Blvd, Suite 500 Lehi, UT 84043 United States
-
-![address icon](https://www.sirsidynix.com/wp-content/themes/sirsidynix2019/dev/css/images/icon-contact-info-email.png)
-
-Email:
+### **Email:**
 
 legal@sirsidynix.com
 
-![address icon](https://www.sirsidynix.com/wp-content/themes/sirsidynix2019/dev/css/images/icon-contact-info-phone.png)
+### **Phone:**
 
-Phone:
-
-800-288-8020
-
+800-288-8020  
 801-223-5200
 
 Our representative for purposes of Regulation (EU) 2016/679 (General Data Protection Regulation, or GDPR) in the European Union is SirsiDynix SASU:
 
-![address icon](https://www.sirsidynix.com/wp-content/themes/sirsidynix2019/dev/css/images/icon-contact-info-pin.png)
-
-Address:
+### **Address:**
 
 90-92 Route de la Reine  
 92100 Boulogne-Billancourt, France
 
-![address icon](https://www.sirsidynix.com/wp-content/themes/sirsidynix2019/dev/css/images/icon-contact-info-email.png)
-
-Email:
+### **Email:**
 
 legal@sirsidynix.com
 
-![address icon](https://www.sirsidynix.com/wp-content/themes/sirsidynix2019/dev/css/images/icon-contact-info-phone.png)
-
-Phone:
+### **Phone:**
 
 0800 906 580
 
-If you have a privacy or data use concern that we have not addressed satisfactorily, please contact TrustArc, our U.S.-based third party dispute resolution provider, free of charge at [https://feedback-form.truste.com/watchdog/request.](https://feedback-form.truste.com/watchdog/request.)
+If you have a privacy or data use concern that we have not addressed satisfactorily, please contact TrustArc, our U.S.-based third party dispute resolution provider, free of charge at [https://feedback-form.truste.com/watchdog/request.](https://feedback-form.truste.com/watchdog/request.)
 
 ### 2\. Personal Data we collect and the purposes for which we use it
 
@@ -381,7 +285,7 @@ Other parties we may disclose your personal data to include:
 
 We and the third parties described in Section 3 above may collect, transfer and store your Personal Data in countries that may not provide for the same level of data protection as your jurisdiction. In such cases, we ensure that recipients of your Personal Data provide an adequate level of protection and security through mechanisms for the transfer of data approved by applicable governments and regulators.
 
-For purposes of transferring Personal Data between the United States and the EU, the UK and other covered countries, we participate in, and comply with, the EU-U.S. and UK Extension to the EU-U.S. Data Privacy Frameworks administered by the U.S. Department of Commerce (the “Frameworks”). We have certified to the U.S. Department of Commerce that we adhere to the principles described in the Frameworks (the “Principles”) in our treatment of such Personal Data. If there is any conflict between the terms in this Privacy Policy and the Principles, the Principles will govern. You may learn more about the Data Privacy Frameworks at [the U.S. Department of Commerce’s Data Privacy Framework website](https://www.dataprivacyframework.gov/). You may find our listing and the listings of other Data Privacy Framework participants on the [Data Privacy Framework List](https://www.dataprivacyframework.gov/s/).
+For purposes of transferring Personal Data between the United States and the EU, the UK and other covered countries, we participate in, and comply with, the EU-U.S. and UK Extension to the EU-U.S. Data Privacy Frameworks administered by the U.S. Department of Commerce (the “Frameworks”). We have certified to the U.S. Department of Commerce that we adhere to the principles described in the Frameworks (the “Principles”) in our treatment of such Personal Data. If there is any conflict between the terms in this Privacy Policy and the Principles, the Principles will govern. You may learn more about the Data Privacy Frameworks at [the U.S. Department of Commerce’s Data Privacy Framework website](https://www.dataprivacyframework.gov/). You may find our listing and the listings of other Data Privacy Framework participants on the [Data Privacy Framework List](https://www.dataprivacyframework.gov/s/).
 
 If you have any questions or complaints relating to our participation in, or compliance with, the Frameworks, you may contact us via our webform or other methods described in Section 1 above. If we are unable to resolve a complaint, we commit to submitting the complaint to the third-party dispute resolution provider described in Section 1 above to resolve the dispute. The services of the dispute resolution provider will be available at no charge to you. Binding arbitration is available to address complaints not resolved by other means. We are subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC).
 
@@ -389,9 +293,9 @@ In the context of an onward transfer, we are responsible for the processing of P
 
 We utilize data centers in the United States, the United Kingdom, Australia, Canada, Chile and Singapore. Generally, Personal Data is stored and processed in the geographic region where the data subject is located or in the United States.
 
-In compliance with the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF, SirsiDynix commits to refer unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF to TRUSTe, an alternative dispute resolution provider based in the United States. If you do not receive timely acknowledgment of your DPF Principles-related complaint from us, or if we have not addressed your DPF Principles-related complaint to your satisfaction, please visit [https://feedback-form.truste.com/watchdog/request](https://feedback-form.truste.com/watchdog/request) for more information or to file a complaint. These dispute resolution services are provided at no cost to you.
+In compliance with the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF, SirsiDynix commits to refer unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF to TRUSTe, an alternative dispute resolution provider based in the United States. If you do not receive timely acknowledgment of your DPF Principles-related complaint from us, or if we have not addressed your DPF Principles-related complaint to your satisfaction, please visit [https://feedback-form.truste.com/watchdog/request](https://feedback-form.truste.com/watchdog/request) for more information or to file a complaint. These dispute resolution services are provided at no cost to you.
 
-For complaints regarding EU-U.S. DPF and the UK Extension to the EU-U.S. DPF compliance not resolved by any of the other DPF mechanisms, you have the possibility, under certain conditions, to invoke binding arbitration. Further information can be found on the official DPF website: [https://www.dataprivacyframework.gov/s/article/ANNEX-I-introduction-dpf?tabset-35584=2](https://www.dataprivacyframework.gov/s/article/ANNEX-I-introduction-dpf?tabset-35584=2).
+For complaints regarding EU-U.S. DPF and the UK Extension to the EU-U.S. DPF compliance not resolved by any of the other DPF mechanisms, you have the possibility, under certain conditions, to invoke binding arbitration. Further information can be found on the official DPF website: [https://www.dataprivacyframework.gov/s/article/ANNEX-I-introduction-dpf?tabset-35584=2](https://www.dataprivacyframework.gov/s/article/ANNEX-I-introduction-dpf?tabset-35584=2).
 
 ### 5\. Criteria and time for retaining Personal Data
 
@@ -451,9 +355,7 @@ We do not “share” or “sell” your information, as those terms are defined
 \* Additional information for employees and job applicants is available on the SirsiDynix intranet and in application and pre-hire documentation provided by SirsiDynix.  
 \*\* Disclosures are made to the parties and for the purposes describe in this Privacy Policy.
 
-* * *
-
-[Politique de confidentialité en français](https://www.sirsidynix.com/privacy-fr/)
+[Politique de confidentialité en français](https://sd6-dev.sirsidynix.com/privacy-fr/)
 
 ##### More Information
 
@@ -464,17 +366,17 @@ We do not “share” or “sell” your information, as those terms are defined
 
 * [Privacy](https://www.sirsidynix.com/privacy/)
 * [Security](https://www.sirsidynix.com/security/)
-* [Carbon Reduction Plan](https://www.sirsidynix.com/wp-content/uploads/2023/07/2022-SirsiDynix-Carbon-Reduction-Plan-EMEA-R01.pdf)
-* [Connections](https://cs.sirsidynix.com/)
+* [Carbon Reduction Plan](https://www.sirsidynix.com/wp-content/uploads/2024/06/2022-SirsiDynix-Carbon-Reduction-Plan-EMEA-R01.pdf)
+* [Connections](http://cs.sirsidynix.com/)
 
 * [Accessibility](https://www.sirsidynix.com/accessibility/)
 * [Certifications](https://www.sirsidynix.com/certifications/)
-* [Modern Slavery Statement](https://www.sirsidynix.com/wp-content/uploads/2024/03/SirsiDynix-Modern-Slavery-Statement.pdf)
+* [Modern Slavery Statement](https://www.sirsidynix.com/wp-content/uploads/2024/04/SirsiDynix-Modern-Slavery-Statement.pdf)
 
-[![PoL logo footer](https://www.sirsidynix.com/wp-content/themes/sirsidynix2019/dev/css/images/PoL-white-logo-footer.png)](https://www.sirsidynix.com/power-of-libraries)
+[![](https://www.sirsidynix.com/wp-content/uploads/2023/12/PoL-white-logo-footer.png)](https://www.sirsidynix.com/power-of-libraries/)
 
-[![SD Facebook](https://www.sirsidynix.com/wp-content/themes/sirsidynix2019/dev/css/images/Facebook-gray-logo-footer.png)](https://www.facebook.com/sirsidynix) [![SD Twitter](https://www.sirsidynix.com/wp-content/themes/sirsidynix2019/dev/css/images/Twitter-gray-logo-footer.png)](https://www.twitter.com/sirsidynix) [![SD Vimeo](https://www.sirsidynix.com/wp-content/themes/sirsidynix2019/dev/css/images/Vimeo-gray-logo-footer.png)](https://vimeo.com/sirsidynix) [![SD LinkedIn](https://www.sirsidynix.com/wp-content/themes/sirsidynix2019/dev/css/images/LinkedIn-gray-logo-footer.png)](https://www.linkedin.com/company/sirsidynix)
+[Facebook](https://www.facebook.com/sirsidynix) [Twitter](https://www.twitter.com/sirsidynix) [Vimeo](https://vimeo.com/sirsidynix) [Linkedin](https://www.linkedin.com/company/sirsidynix)
 
 Copyright © 2024 Sirsi Corporation
 
-[![SD logo footer](https://www.sirsidynix.com/wp-content/themes/sirsidynix2019/dev/css/images/SD-footer-logo.png)](https://www.sirsidynix.com/)
+[![](https://www.sirsidynix.com/wp-content/uploads/2023/12/SD-footer-logo.png)](https://www.sirsidynix.com/)
