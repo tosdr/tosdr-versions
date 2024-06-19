@@ -5,7 +5,7 @@
 Roommates.com Terms of Service
 ==============================
 
-**Last updated: February 14, 2022**
+**Last updated: June 11, 2024**
 
 Please read these Terms of Service ("Terms") carefully. By downloading, accessing, or using the website or other products or services of Roommates.com, LLC or our parent companies, subsidiaries, or our affiliates ("Roommates", "we", or "us"), or the services, features, or functionality jointly offered with other companies through our website (collectively, the "Service" or "Services"), you agree to be bound by these Terms. These Terms affect your legal rights and obligations, so if you do not agree to these Terms, do not use the Services.
 
@@ -32,9 +32,9 @@ The Roommates Privacy Policy is incorporated into these Terms. By accepting thes
 
 Basic membership is free. Basic members can add listings, browse matches, and send direct messages. In order to read messages received from other members, one must upgrade to VIP Membership. Fees for VIP Membership are as follows: $5.99 for a 3-day trial, $19.99 for 30 days, and $29.99 for 60 days. A recurring monthly membership is available for $15.99 per month and renews automatically. Roommates may occasionally offer discounts. All fees are non-refundable, even if you cancel before the expiration of your VIP Membership. If you do cancel your account before your VIP Membership expires, your VIP Membership will remain active until the expiration of the original VIP Membership upgrade period.
 
-We also offer a verification service, provided through [Stripe, Inc.](https://stripe.com/identity/legal), for $2.99 if you are not a monthly member. All verification data from this service is provided by Stripe, Inc. and we have no control over the data, questions, or other information provided through this service. Stripe, Inc. is solely responsible for the accuracy and completeness of the verification service. The $2.99 fee is non-refundable whether or not the verification process is successfully completed.
+We also offer an ID verification service, provided by [Stripe, Inc.](https://stripe.com/identity/legal), for $2.99 if you are not a monthly member. All verification data from this service is provided by Stripe, Inc. and we have no control over the data, questions, or other information provided through this service. Stripe, Inc. is solely responsible for the accuracy and completeness of the verification service. The $2.99 fee is non-refundable whether or not the verification process is successfully completed.
 
-We also offer phone number verification services through [Twilio, Inc](https://www.twilio.com/). You agree that any and all phone, data, and SMS charges that result from the use of this verification service are at your own expense. We are not responsible for any charges incurred by you through your phone or internet service provider.
+We also require all members to verify their phone number in order to use the Services, and that service is provided by [Twilio, Inc](https://www.twilio.com/). You agree that any and all phone, data, and SMS charges that result from the use of this verification service are at your own expense. We are not responsible for any charges incurred by you through your phone or internet service provider.
 
 4\. User Content
 ----------------
