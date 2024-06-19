@@ -22,7 +22,7 @@ For Companies
 
 * [Security](https://threema.ch/en/security)
 * [Download](https://threema.ch/en/download)
-* [About](https://threema.ch/en/about)
+* About
 * [Support](https://threema.ch/en/support)
 * [Blog](https://threema.ch/en/blog)
 
@@ -37,6 +37,11 @@ English
 Products
 
 Back
+
+* Icon / @64 px / Single / Swiss Quality About
+    * [Our Story](https://threema.ch/en/about)
+    * [Jobs](https://threema.ch/en/jobs)
+    * [Press](https://threema.ch/en/press)
 
 * * [Overview](https://threema.ch/en)
 
