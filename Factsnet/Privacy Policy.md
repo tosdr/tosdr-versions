@@ -206,21 +206,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![19 Facts About Attensi ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/general/19-facts-about-attensi/)
+[![19 Facts About Label Studio ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22102%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/tech-and-sciences/19-facts-about-label-studio/)
+
+Tech & Sciences
+
+18 Jun 2024
+
+[19 Facts About Label Studio](https://facts.net/tech-and-sciences/19-facts-about-label-studio/)
+
+[![17 Facts About Simplex Chat ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2275%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/general/17-facts-about-simplex-chat/)
 
 General
 
-09 Jun 2024
+18 Jun 2024
 
-[19 Facts About Attensi](https://facts.net/general/19-facts-about-attensi/)
-
-[![28 Best Sawfish Facts ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2272%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/nature/28-best-sawfish-facts/)
-
-Nature
-
-09 Jun 2024
-
-[28 Best Sawfish Facts](https://facts.net/nature/28-best-sawfish-facts/)
+[17 Facts About Simplex Chat](https://facts.net/general/17-facts-about-simplex-chat/)
 
 [Home](https://facts.net/) [Privacy Policy](https://facts.net/privacy-policy/)
 
