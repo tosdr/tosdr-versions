@@ -48,6 +48,8 @@ Explore
 
 [* Working Relationship Index](https://www.hp.com/us-en/work-relationship-index.html "Working Relationship Index")
 
+[* Copilot+ PCs](https://www.hp.com/us-en/shop/cv/copilot-in-windows11 "Copilot+ PCs")
+
 * PCs
 
 [* Next-Gen AI PCs](https://www.hp.com/us-en/ai-solutions/next-gen-ai-pcs.html "Next-Gen AI PCs")
@@ -126,7 +128,7 @@ Shop
 
 [* #MyHP](https://www.hp.com/us-en/shop/cv/myhp-social-gallery "#MyHP")
 
-[* HP Sustainable buyer's guide](https://www.hp.com/us-en/shop/slp/sustainability-guide "HP Sustainable buyer's guide")
+[* Copilot+ PCs](https://www.hp.com/us-en/shop/cv/copilot-in-windows11 "Copilot+ PCs")
 
 [* HP Tech Takes](https://www.hp.com/us-en/shop/tech-takes "HP Tech Takes")
 
@@ -279,7 +281,7 @@ https://www.hp.com/webapp/wcs/stores/servlet/HPHeaderServices?storeId=10151&cb=c
 
 * Featured
 
-[* Security](https://www.hp.com/us-en/security/endpoint-security-solutions.html)[* Hybrid Work](https://www.hp.com/us-en/solutions/hybrid-work.html)[* HP+ Smart Printing System](https://www.hp.com/us-en/printers/hp-plus.html)[* Instant Ink](https://www.hp.com/us-en/printers/instant-ink.html)[* 3D Print](https://www.hp.com/us-en/printers/3d-printers.html)[* Construction Layout Robot](https://www.hp.com/us-en/printers/site-print/layout-robot.html)[* Government & Education](https://www.hp.com/us-en/solutions/us-public-sector.html)[* Small & Medium Business](https://www.hp.com/us-en/smb/small-and-medium-business-solutions.html)[* Working Relationship Index](https://www.hp.com/us-en/work-relationship-index.html)
+[* Security](https://www.hp.com/us-en/security/endpoint-security-solutions.html)[* Hybrid Work](https://www.hp.com/us-en/solutions/hybrid-work.html)[* HP+ Smart Printing System](https://www.hp.com/us-en/printers/hp-plus.html)[* Instant Ink](https://www.hp.com/us-en/printers/instant-ink.html)[* 3D Print](https://www.hp.com/us-en/printers/3d-printers.html)[* Construction Layout Robot](https://www.hp.com/us-en/printers/site-print/layout-robot.html)[* Government & Education](https://www.hp.com/us-en/solutions/us-public-sector.html)[* Small & Medium Business](https://www.hp.com/us-en/smb/small-and-medium-business-solutions.html)[* Working Relationship Index](https://www.hp.com/us-en/work-relationship-index.html)[* Copilot+ PCs](https://www.hp.com/us-en/shop/cv/copilot-in-windows11)
 
 * PCs
 
@@ -295,7 +297,7 @@ https://www.hp.com/webapp/wcs/stores/servlet/HPHeaderServices?storeId=10151&cb=c
 
 * Featured
 
-[* HP.com store](https://www.hp.com/us-en/shop)[* Ink & toner cartridges](https://www.hp.com/us-en/shop/cat/ink--toner---paper)[* Business store](https://www.hp.com/us-en/shop/cat/business-solutions)[* Weekly Deals](https://www.hp.com/us-en/shop/slp/weekly-deals)[* New HP All-In Plan](https://www.hp.com/us-en/all-in-plan/printers.html)[* HP Business Technology Advisors](https://www.hp.com/us-en/shop/cv/smallbusinessadvisor)[* Student discounts](https://www.hp.com/us-en/shop/cv/hp-education)[* #MyHP](https://www.hp.com/us-en/shop/cv/myhp-social-gallery)[* HP Sustainable buyer's guide](https://www.hp.com/us-en/shop/slp/sustainability-guide)[* HP Tech Takes](https://www.hp.com/us-en/shop/tech-takes)
+[* HP.com store](https://www.hp.com/us-en/shop)[* Ink & toner cartridges](https://www.hp.com/us-en/shop/cat/ink--toner---paper)[* Business store](https://www.hp.com/us-en/shop/cat/business-solutions)[* Weekly Deals](https://www.hp.com/us-en/shop/slp/weekly-deals)[* New HP All-In Plan](https://www.hp.com/us-en/all-in-plan/printers.html)[* HP Business Technology Advisors](https://www.hp.com/us-en/shop/cv/smallbusinessadvisor)[* Student discounts](https://www.hp.com/us-en/shop/cv/hp-education)[* #MyHP](https://www.hp.com/us-en/shop/cv/myhp-social-gallery)[* Copilot+ PCs](https://www.hp.com/us-en/shop/cv/copilot-in-windows11)[* HP Tech Takes](https://www.hp.com/us-en/shop/tech-takes)
 
 * Shop PCs
 
@@ -579,7 +581,7 @@ Document Part No: 832555-001
 
 [Related links](javascript:void(0))
 
-[Laptop Care Packs](https://www.hp.com/us-en/shop/vwa/laptop-carepacks) [How to Factory Reset a Windows...](https://www.hp.com/us-en/shop/tech-takes/how-to-factory-reset-windows-laptop) [How to Reset BIOS Settings on...](https://www.hp.com/us-en/shop/tech-takes/how-to-reset-bios-settings-on-windows-pcs) [HP Consumer Tech Support & Hardware](https://www.hp.com/us-en/services/consumer/services-overview.html) [HP+ Smart Printing System](https://www.hp.com/us-en/printers/hp-plus.html) [HP Care Pack - PC Repair, Extended Warranty & Support](https://www.hp.com/us-en/services/consumer/carepack-pc.html) [HP Care Pack - Printer Repair, Extended Warranty & Support](https://www.hp.com/us-en/services/consumer/carepack-print.html) [HP Fraud Alert: Protecting Yourself from Scams](https://www.hp.com/us-en/hpfraud-alert.html) [HP Elite SFF 800](https://www.hp.com/us-en/shop/mdp/business-solutions/elitedesk-800-small-form-factor#!&tab=vao) [HP Elite x360 1040 14 inch G11...](https://www.hp.com/us-en/shop/pdp/hp-elite-x360-1040-14-inch-g11-2-in-1-notebook-pc-wolf-pro-security-edition)
+[Laptop Care Packs](https://www.hp.com/us-en/shop/vwa/laptop-carepacks) [How to Factory Reset a Windows...](https://www.hp.com/us-en/shop/tech-takes/how-to-factory-reset-windows-laptop) [How to Reset BIOS Settings on...](https://www.hp.com/us-en/shop/tech-takes/how-to-reset-bios-settings-on-windows-pcs) [HP.com](https://www.hp.com/us-en/home.html) [HP Consumer Tech Support & Hardware](https://www.hp.com/us-en/services/consumer/services-overview.html) [HP+ Smart Printing System](https://www.hp.com/us-en/printers/hp-plus.html) [HP Care Pack - PC Repair, Extended Warranty & Support](https://www.hp.com/us-en/services/consumer/carepack-pc.html) [HP Care Pack - Printer Repair, Extended Warranty & Support](https://www.hp.com/us-en/services/consumer/carepack-print.html) [HP Fraud Alert: Protecting Yourself from Scams](https://www.hp.com/us-en/hpfraud-alert.html) [HP Computer Support Services - Commerical PC Support](https://www.hp.com/us-en/services/workforce-solutions/workforce-computing/support.html)
 
 Select Your Country/Region and Language
 ---------------------------------------
