@@ -397,6 +397,10 @@ Your session expired. Please login again to continue to purchase.
     * [Design my system](https://estimator.enphase.com/)
     * [Find an installer](https://enphase.com/installer-locator)
     
+* Accessories
+    
+* Batteries
+    
 * Business owners
     
     * [EV chargers](https://enphase.com/ev-chargers/business)
