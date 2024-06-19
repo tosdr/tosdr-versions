@@ -1,6 +1,6 @@
-📊 The Q1 2024 Mobile gaming benchmarks are live.
+💰\[NEW\] Monetization Overview - powered by Xsolla: Compare, analyze and optimize your revenue streams - all from one place
 
-[Download here](https://bit.ly/3QGHmNW)
+[Learn more](https://gameanalytics.com/xsolla) [Show me](https://tool.gameanalytics.com/game/0/monetization)
 
 [Skip to content](#main) [![GameAnalytics](https://gameanalytics.com/wp-content/themes/ga-v3/dist/images/logo.png)](https://gameanalytics.com/)
 
