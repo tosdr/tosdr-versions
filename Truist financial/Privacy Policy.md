@@ -82,6 +82,7 @@ Sign in
     
     * [Premier banking](https://www.truist.com/checking/premier-banking)
     * [Online & mobile banking](https://www.truist.com/digital-banking)
+    * [Zelle®](https://www.truist.com/online-banking/zelle)
     
     #### Additional services
     
