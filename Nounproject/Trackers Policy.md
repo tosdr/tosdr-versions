@@ -47,15 +47,25 @@ Cookies dropped by Company:
 | \_ga\_TEXVFE05D4 | * Google analytics<br>* GA4 | Google analytics | * Type: Performance/Analytical<br>* Duration: persistent<br>* Expiration Period: 2 years |
 | \_gat | Google analytics | Google analytics | * Type: Performance/Analytical<br>* Duration: persistent<br>* Expiration Period: 1 minute |
 | \_gid | Google analytics | Google analytics | * Type: Performance/Analytical<br>* Duration: persistent<br>* Expiration Period: 1 day |
+| \_gcl\* | Google ads | Google ads | * Type: Performance/Analytical<br>* Duration: persistent<br>* Expiration Period: 90 days |
 | IDE | Google DoubleClick | Google DoubleClick | * Type: Retargeting/Advertising<br>* Duration: persistent<br>* Expiration Period: 2 years |
-| \_hjSessionUser\_\* | Hotjar User ID | Hotjar | * Type: Performance/Analytical<br>* Duration: Persistent<br>* Expiration Period: 12 months |
-| \_hjHasCachedUserAttributes | Hotjar User Attributes | Hotjar | * Type: Performance/Analytical<br>* Duration: Session |
-| \_hjUserAttributesHash | Hotjar User Attributes | Hotjar | * Type: Performance/Analytical<br>* Duration: Persistent<br>* Expiration Period: 2 minutes |
-| \_hjSession\_\* | Hotjar Session | Hotjar | * Type: Performance/Analytical<br>* Duration: Session |
-| \_hjCookieTest | Hotjar Cookie Test | Hotjar | * Type: Performance/Analytical<br>* Duration: Session |
-| \_hjLocalStorageTest | Hotjar Local Storage Test | Hotjar | * Type: Performance/Analytical<br>* Duration: Session |
-| \_hjSessionStorageTest | Hotjar Session Storage Test | Hotjar | * Type: Performance/Analytical<br>* Duration: Session |
-| \_hjTLDTest | Hotjar Cookie Path | Hotjar | * Type: Performance/Analytical<br>* Duration: Session |
+| \_hjSessionUser\_\* | Hotjar User ID | Hotjar | * Type: Performance/Analytical<br>* Duration: persistent<br>* Expiration Period: 12 months |
+| \_hjHasCachedUserAttributes | Hotjar User Attributes | Hotjar | * Type: Performance/Analytical<br>* Duration: session only |
+| \_hjUserAttributesHash | Hotjar User Attributes | Hotjar | * Type: Performance/Analytical<br>* Duration: persistent<br>* Expiration Period: 2 minutes |
+| \_hjSession\_\* | Hotjar Session | Hotjar | * Type: Performance/Analytical<br>* Duration: session only |
+| \_hjCookieTest | Hotjar Cookie Test | Hotjar | * Type: Performance/Analytical<br>* Duration: session only |
+| \_hjLocalStorageTest | Hotjar Local Storage Test | Hotjar | * Type: Performance/Analytical<br>* Duration: session only |
+| \_hjSessionStorageTest | Hotjar Session Storage Test | Hotjar | * Type: Performance/Analytical<br>* Duration: session only |
+| \_hjTLDTest | Hotjar Cookie Path | Hotjar | * Type: Performance/Analytical<br>* Duration: session only |
+| \_vis\_opt\_exp\_\* | VWO Optimization Tests | VWO | * Type: Performance/Analytical<br>* Duration: persistent<br>* Expiration Period: 100 days |
+| \_vis\_opt\_test\_cookie | VWO Optimization Tests | VWO | * Type: Performance/Analytical<br>* Duration: session only |
+| \_vis\_opt\_s | VWO Optimization Tests | VWO | * Type: Performance/Analytical<br>* Duration: persistent<br>* Expiration Period: 100 days |
+| \_vis\_opt\_out | VWO Optimization Tests | VWO | * Type: Performance/Analytical<br>* Duration: persistent<br>* Expiration Period: 10 years |
+| \_vwo\_uuid\* | VWO Optimization Tests | VWO | * Type: Performance/Analytical<br>* Duration: persistent<br>* Expiration Period: 10 years |
+| \_vwo\_uuid\_v2 | VWO Optimization Tests | VWO | * Type: Performance/Analytical<br>* Duration: persistent<br>* Expiration Period: 366 days |
+| \_vwo\_ds | VWO Optimization Tests | VWO | * Type: Performance/Analytical<br>* Duration: persistent<br>* Expiration Period: 90 days |
+| \_vwo\_sn | VWO Optimization Tests | VWO | * Type: Performance/Analytical<br>* Duration: session only |
+| \_vwo\_referrer | VWO Optimization Tests | VWO | * Type: Performance/Analytical<br>* Duration: persistent<br>* Expiration Period: 15 seconds |
 
 Cookies dropped by third parties:
 
@@ -68,7 +78,7 @@ Cookies dropped by third parties:
 | SNID | to remember user preferences and other information, such as user’s preferred language, how many results you prefer to have shown on a search results page (for example, 10 or 20), and whether the user wants to have Google’s SafeSearch filter turned on | Google | * Duration: persistent<br>* Expiration Period: 13 months | Only applies when opening Google sign-in modal  <br>  <br>[Google Cookie Policy](https://policies.google.com/technologies/cookies?hl=en-US#types-of-cookies) |
 | 1P\_JAR | to provide ad delivery or retargeting | Google | * Duration: persistent<br>* Expiration Period: 1 month | Only applies when opening Google sign-in modal  <br>  <br>[Google Cookie Policy](https://policies.google.com/technologies/cookies?hl=en-US#types-of-cookies) |
 | OTZ | to provide an aggregate analysis of website visitors | Google | * Duration: persistent<br>* Expiration Period: 1 month | Only applies when opening Google sign-in modal  <br>  <br>[Google Cookie Policy](https://policies.google.com/technologies/cookies?hl=en-US#types-of-cookies) |
-| g\_csrf\_token | to verify the google ID token on server side | Google | * Duration: session | Only applies when using Google sign-in |
+| g\_csrf\_token | to verify the google ID token on server side | Google | * Duration: session only | Only applies when using Google sign-in |
 | g\_state | to store user status by Google One Tab | Google | * Duration: persistent<br>* Expiration Period: 6 months | Only applies when using Google sign-in |
 | enforce\_policy | to enable secure transactions through PayPal | PayPal | * Duration: persistent<br>* Expiration Period: 1 year | Only applies when using PayPal option on checkout page |
 | l7\_az | for the PayPal login-function on the website | PayPal | * Duration: persistent<br>* Expiration Period: 1 hour | Only applies when using PayPal option on checkout page |
