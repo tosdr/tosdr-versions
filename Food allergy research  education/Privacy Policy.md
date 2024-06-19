@@ -411,7 +411,7 @@ FARE (Food Allergy Research & Education) is a 501(c)(3) charitable organization 
 * [Instagram](https://www.instagram.com/foodallergy/)
 * [LinkedIn](https://www.linkedin.com/company/fareorg/)
 * [YouTube](https://www.youtube.com/c/livingtealchannel)
-* [TikTok](https://www.tiktok.com/@foodallergy101)
+* [TikTok](https://www.tiktok.com/@foodallergyfare)
 
 * [Contact Us](https://www.foodallergy.org/contact-us)
 * [Careers](https://www.foodallergy.org/careers)
