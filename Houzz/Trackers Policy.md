@@ -362,7 +362,7 @@ Get Advice[Design Dilemmas](https://www.houzz.com/discussions/design-dilemma)[Be
 * [5 x 7 Rugs](https://www.houzz.com/products/area-rugs/size_rug--5-x-7-Ft.-)
 * [8 x 10 Rugs](https://www.houzz.com/products/area-rugs/size_rug--8-x-10-Ft.-)
 * [9 x 12 Rugs](https://www.houzz.com/products/area-rugs/size_rug--9-x-12-Ft.-)
-* [Hall & Stair Runners](https://www.houzz.com/products/hall-and-stair-runners)
+* [Runners](https://www.houzz.com/products/hall-and-stair-runners)
 * [Rug Pads](https://www.houzz.com/products/rug-pads)
 
 * [Home Decor & Accents](https://www.houzz.com/products/home-decor)
@@ -495,39 +495,39 @@ Looking for the perfect gift? Send a [Houzz Gift Card!](https://www.houzz.com/gi
 
 Cancel
 
-[Rug & Decor Event Sale](https://www.houzz.com/shop-houzz/rug-and-decor-event)
+[Bed & Bath Event Sale](https://www.houzz.com/shop-houzz/bed-and-bath-event)
 
 [ON SALE - UP TO 75% OFF](https://www.houzz.com/sales)
 
 [Bathroom Vanities](https://www.houzz.com/products/bathroom-vanities-and-sink-consoles/on-sale)[Chandeliers](https://www.houzz.com/products/chandeliers/on-sale)[Bar Stools](https://www.houzz.com/products/bar-stools-and-counter-stools/on-sale)[Pendant Lights](https://www.houzz.com/products/pendant-lighting/on-sale)[Rugs](https://www.houzz.com/products/rugs/on-sale)[Living Room Chairs](https://www.houzz.com/products/chairs/on-sale)[Dining Room Furniture](https://www.houzz.com/products/kitchen-and-dining-furniture/on-sale)[Wall Lighting](https://www.houzz.com/products/wall-lighting/on-sale)[Coffee Tables](https://www.houzz.com/products/coffee-tables/on-sale)[Side & End Tables](https://www.houzz.com/products/side-tables-and-accent-tables/on-sale)[Home Office Furniture](https://www.houzz.com/products/home-office-furniture/on-sale)[Sofas](https://www.houzz.com/products/sofas/on-sale)[Bedroom Furniture](https://www.houzz.com/products/bedroom-furniture/on-sale)[Lamps](https://www.houzz.com/products/lamps/on-sale)[Mirrors](https://www.houzz.com/products/mirrors/on-sale)
 
-[Rug & Decor Event](https://www.houzz.com/shop-houzz/rug-and-decor-event)
+[Bed & Bath Event](https://www.houzz.com/shop-houzz/bed-and-bath-event)
 
-[![Outdoor Rugs](https://st.hzcdn.com/fimgs/36b1058b066104aa_4219-w150-h150-b0-p0--home-design.jpg)
-
-UP TO 75% OFF
-
-Outdoor Rugs](https://www.houzz.com/ideabooks/92270652) 
-
-[![Organic-Shaped Mirrors](https://st.hzcdn.com/fimgs/86313d3d066104a9_4217-w150-h150-b0-p0--home-design.jpg)
+[![Organic Modern Suite](https://st.hzcdn.com/fimgs/61817834066aeffb_4284-w150-h150-b0-p0--home-design.jpg)
 
 TRENDING NOW
 
-Organic-Shaped Mirrors](https://www.houzz.com/ideabooks/172379924) 
+Organic Modern Suite](https://www.houzz.com/ideabooks/94089163) 
 
-[![Bestselliing Rugs](https://st.hzcdn.com/fimgs/cba121cd066105b3_4484-w150-h150-b0-p0--home-design.jpg)
+[![Ultimate Vanity Sale](https://st.hzcdn.com/fimgs/6141508904b6ff29_4473-w150-h150-b0-p0--home-design.jpg)
 
-UP TO 75% OFF
+UP TO 70% OFF
 
-Bestselliing Rugs](https://www.houzz.com/ideabooks/172634977) 
+Ultimate Vanity Sale](https://www.houzz.com/ideabooks/108801176) 
 
-[![Home Decor Must-Haves](https://st.hzcdn.com/fimgs/46f116f6066104a2_4212-w150-h150-b0-p0--home-design.jpg)
+[![Ultimate Bedroom Sale](https://st.hzcdn.com/fimgs/5c71392a066aeffd_4285-w150-h150-b0-p0--home-design.jpg)
 
-SUMMER FAVES
+UP TO 70% OFF
 
-Home Decor Must-Haves](https://www.houzz.com/ideabooks/175989415) 
+Ultimate Bedroom Sale](https://www.houzz.com/ideabooks/120778100) 
 
-[![Shop Promo Banner](https://st.hzcdn.com/fimgs/b7210a560661bb6d_1009-w566-h722-b0-p0--home-design.jpg)](https://www.houzz.com/shop-houzz/rug-and-decor-event) 
+[![Bathroom Renovation Must-Haves](https://st.hzcdn.com/fimgs/d4d1cca3066aeff9_4282-w150-h150-b0-p0--home-design.jpg)
+
+UP TO 70% OFF
+
+Bathroom Renovation Must-Haves](https://www.houzz.com/ideabooks/172837276) 
+
+[![Shop Promo Banner](https://st.hzcdn.com/fimgs/5d11a48a066aeb0c_3022-w566-h722-b0-p0--home-design.jpg)](https://www.houzz.com/shop-houzz/bed-and-bath-event) 
 
 [0](https://www.houzz.com/viewCart)
 
@@ -559,7 +559,7 @@ Houzz Pro: One simple solution for contractors and design pros
 
 [History of Houzz](https://www.houzz.com/houzz-historyzz)
 
-![Houzz Logo Print](//www.houzz.com/res/28628394/pic/houzz_logo.svg?v=28628394)
+![Houzz Logo Print](//www.houzz.com/res/28646032/pic/houzz_logo.svg?v=28646032)
 
 **COOKIE POLICY**
 =================
