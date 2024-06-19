@@ -25,13 +25,6 @@ Toggle Nav
 
 [Menu](#store.menu)
 
-* [**Father's Day**](https://www.printster.co.uk/occasions/father-s-day-gifts.html)
-    * [All Father's Day Gifts](https://www.printster.co.uk/occasions/father-s-day-gifts.html)
-    * [Father's Day Cards](https://www.printster.co.uk/personalised-cards/cards-by-occasion/fathers-day-cards.html)
-    * [Father's Day Keyrings](https://www.printster.co.uk/personalised-keyrings.html)
-    * [Father's Day Mugs](https://www.printster.co.uk/occasions/fathers-day-mugs.html)
-    * [Father's Day Socks](https://www.printster.co.uk/personalised-socks/personalised-fathers-day-socks.html)
-    * [Father's Day Wrapping Paper](https://www.printster.co.uk/personalised-wrapping-paper/fathers-day-wrapping-paper.html)
 * [Mugs](https://www.printster.co.uk/personalised-mugs.html)
     
     * [All Personalised Mugs](https://www.printster.co.uk/personalised-mugs.html)
