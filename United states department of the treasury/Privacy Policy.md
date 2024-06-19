@@ -525,51 +525,51 @@ MENU MENU
     [Featured Stories](https://home.treasury.gov/news/featured-stories)
     -------------------------------------------------------------------
     
+    June 18, 2024
+    
+    [Project Labor Agreements: A Best Practice for Clean Energy Projects Seeking to Meet IRA Wage and Apprenticeship Standards](https://home.treasury.gov/news/featured-stories/project-labor-agreements-a-best-practice-for-clean-energy-projects-seeking-to-meet-ira-wage-and-apprenticeship-standards)
+    
+    June 12, 2024
+    
+    [U.S. Business Investment in the Post-COVID Expansion](https://home.treasury.gov/news/featured-stories/us-business-investment-in-the-post-covid-expansion)
+    
     June 7, 2024
     
     [Continuing Improvements to IRS Customer Service in Filing Season 2024](https://home.treasury.gov/news/featured-stories/continuing-improvements-to-irs-customer-service-in-filing-season-2024)
-    
-    May 30, 2024
-    
-    [U.S. Department of the Treasury, IRS Announce Direct File as Permanent Free Tax Filing Option, All 50 States and D.C. Invited to Join in Filing Season 2025](https://home.treasury.gov/news/featured-stories/us-department-of-the-treasury-irs-announce-direct-file-as-permanent-free-tax-filing-option-all-50-states-and-dc-invited-to-join-in-filing-season-2025)
-    
-    May 16, 2024
-    
-    [Anchoring Clean Energy Manufacturing Investments in Coal Country and Beyond](https://home.treasury.gov/news/featured-stories/anchoring-clean-energy-manufacturing-investments-in-coal-country-and-beyond)
     
     [View all Featured Stories](https://home.treasury.gov/news/featured-stories "View all Featured Stories")
     
     [Press Releases](https://home.treasury.gov/news/press-releases)
     ---------------------------------------------------------------
     
-    June 7, 2024
+    June 18, 2024
     
-    [Media Advisory - FinCEN Director Andrea Gacki to Travel to Arizona for Beneficial Ownership Outreach Events](https://home.treasury.gov/news/press-releases/jy2398)
+    [U.S. Department of the Treasury, IRS Announce Oregon as First New State to Join IRS Direct File for Filing Season 2025](https://home.treasury.gov/news/press-releases/jy2416)
     
-    June 6, 2024
+    June 18, 2024
     
-    [FSOC and the Brookings Institution Host a Conference on Artificial Intelligence and Financial Stability](https://home.treasury.gov/news/press-releases/jy2396)
+    [Treasury International Capital Data for April](https://home.treasury.gov/news/press-releases/jy2415)
     
-    June 6, 2024
+    June 18, 2024
     
-    [Remarks by Secretary of the Treasury Janet L. Yellen at the Financial Stability Oversight Council Conference on Artificial Intelligence and Financial Stability](https://home.treasury.gov/news/press-releases/jy2395)
+    [Treasury Targets Milorad Dodik’s Network of Wealth Generating Companies, Including Prointer](https://home.treasury.gov/news/press-releases/jy2414)
     
     [View All Press Releases](https://home.treasury.gov/news/press-releases "View all Press Releases")
     
     [Remarks and Statements](https://home.treasury.gov/news/press-releases/statements-remarks)
     ------------------------------------------------------------------------------------------
     
-    June 6, 2024
+    June 14, 2024
     
-    [Remarks by Deputy Assistant Secretary for the Financial Stability Oversight Council Sandra Lee at the Conference on Artificial Intelligence and Financial Stability](https://home.treasury.gov/news/press-releases/jy2397)
+    [Statement from Secretary of the Treasury Janet L. Yellen on G7 Summit Outcomes](https://home.treasury.gov/news/press-releases/jy2407)
     
-    June 4, 2024
+    June 13, 2024
     
-    [Remarks by Assistant Secretary for International Finance Brent Neiman on the Economic Front in Ukraine](https://home.treasury.gov/news/press-releases/jy2390)
+    [Remarks by Secretary of the Treasury Janet L. Yellen at the Economic Club of New York (ECNY)](https://home.treasury.gov/news/press-releases/jy2405)
     
-    May 31, 2024
+    June 10, 2024
     
-    [Remarks by Secretary of the Treasury Janet L. Yellen Following a Bilateral Meeting with Prime Minister Alexander De Croo of Belgium](https://home.treasury.gov/news/press-releases/jy2389)
+    [Remarks by Deputy Assistant Secretary for International Financial Markets Nicholas Tabor on Recent Developments in U.S.-China Financial Regulatory Engagement, in Cambridge, Massachusetts June 6, 2024](https://home.treasury.gov/news/press-releases/jy2400)
     
     [View All Remarks and Statements](https://home.treasury.gov/news/press-releases/statements-remarks "View all Remarks and Statements")
     
