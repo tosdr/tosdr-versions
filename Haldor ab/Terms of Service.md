@@ -116,6 +116,6 @@ Email: [info@haldoredu.com](mailto:info@haldoredu.com)
 
 Subscribe to get news and updates
 
-© 2023 Haldor AB | All rights reserved | [Cookie policy](https://haldoredu.com/cookie-policy/) | [Privacy policy](https://haldoredu.com/privacy-policy/) | [Terms of use](https://haldoredu.com/terms-of-use/)
+© 2024 Haldor AB | All rights reserved | [Cookie policy](https://haldoredu.com/cookie-policy/) | [Privacy policy](https://haldoredu.com/privacy-policy/) | [Terms of use](https://haldoredu.com/terms-of-use/)
 
 [Go to Top](#)
