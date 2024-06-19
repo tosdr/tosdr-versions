@@ -67,10 +67,10 @@
         * [Quality of Support](https://www.vpnranks.com/vpnscore/methodology/quality-of-support/)
 * Events
     * [T20 World Cup 2024](https://www.vpnranks.com/access/sports/watch-t20-world-cup-2024-in-usa/)
-    * [India vs Pakistan T20 World Cup 2024](https://www.vpnranks.com/access/sports/watch-india-vs-pakistan-t20-world-cup-in-usa/)
+    * [Euro 2024](https://www.vpnranks.com/access/sports/watch-euro-in-usa-on-bbc-iplayer/)
 * [News](https://www.vpnranks.com/news/)
 * [About us](https://www.vpnranks.com/about-us/)
-* [Meet the Experts](https://www.vpnranks.com/author-list/)
+* [Meet the Experts](https://www.vpnranks.com/meet-the-team/)
 * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2012'%3E%3C/svg%3E)
     
     ![](https://www.vpnranks.com/wp-content/uploads/flags/us.png)
