@@ -298,12 +298,13 @@ For our users in the EEA, the United Kingdom, or Switzerland, you may also conta
 
 ##### Products
 
-* [Try](https://clockify.me/try)
 * [Suite](https://clockify.me/suite)
 * [Bundle](https://clockify.me/bundle)
 * [Plaky](https://clockify.me/plaky)
 * [Pumble](https://clockify.me/pumble)
 * [Clockify](https://clockify.me/clockify)
+* [Updates](https://clockify.me/updates/)
+* [Try for free](https://clockify.me/try)
 * [Request a demo](https://clockify.me/empowered-team/bundle-sales/)
 
 ##### Company
@@ -312,9 +313,10 @@ For our users in the EEA, the United Kingdom, or Switzerland, you may also conta
 * [Careers](https://clockify.me/careers)
 * [Press](https://clockify.me/press)
 * [Customers](https://clockify.me/customers)
-* [Marketplace![](/assets/images/icons/arrow-up-right.svg)](https://marketplace.cake.com/)
-* [Brand ![](/assets/images/icons/arrow-up-right.svg)](https://brand.cake.com/) 
-* [Blog ![](/assets/images/icons/arrow-up-right.svg)](https://cake.com/empowered-team/) 
+* [Affiliate](https://clockify.me/affiliate)
+* [Marketplace](https://marketplace.cake.com/)
+* [Brand](https://brand.cake.com/)
+* [Blog](https://cake.com/empowered-team/)
 
 ##### Follow us
 
