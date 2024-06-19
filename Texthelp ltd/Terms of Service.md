@@ -25,8 +25,6 @@ Refine
     
 * OrbitNote
     
-* Remote Learning
-    
 * WriQ
     
 * Fluency Tutor for Google
@@ -127,8 +125,6 @@ Table of Contents Table of Contents Toggle navigation
     * Equatio
         
     * OrbitNote
-        
-    * Remote Learning
         
     * WriQ
         
@@ -233,8 +229,6 @@ Table of Contents Table of Contents Toggle navigation
         
     * OrbitNote
         
-    * Remote Learning
-        
     * WriQ
         
     * Fluency Tutor for Google
@@ -336,8 +330,6 @@ Table of Contents Table of Contents Toggle navigation
 * [Equatio](https://support.texthelp.com/help/equatio)
     
 * [OrbitNote](https://support.texthelp.com/help/orbitnote)
-    
-* [Remote Learning](https://docs.google.com/document/d/123FDpwQErLaX-lUa9PI46LirSoDrS3JstpKRAHHer-E/edit?usp=sharing/viewform?embedded=true)
     
 * [WriQ](https://support.texthelp.com/help/wriq-extension)
     
