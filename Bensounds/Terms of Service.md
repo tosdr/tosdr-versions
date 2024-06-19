@@ -203,7 +203,7 @@ Should you have any questions concerning this Agreement and/or any issues or con
 
 Bensound is the best place to find royalty-free music that pops your videos up!
 
-[![X](catalog/view/theme/next/image/X_logo.svg)](https://twitter.com/bensound)[](https://www.facebook.com/bensoundmusic/)[](https://www.instagram.com/bensound/)[](https://www.youtube.com/bensoundmusic)
+[![X](catalog/view/theme/next/image/X_logo.svg)](https://x.com/Bensound)[](https://www.facebook.com/bensoundmusic/)[](https://www.instagram.com/bensound/)[](https://www.youtube.com/bensoundmusic)
 
 Bensound
 
