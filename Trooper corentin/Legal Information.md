@@ -1,5 +1,7 @@
 [Skip to content](#MainContent)
 
+[Click me to purchase with paypal](https://troopercorentin.tebex.io/FAQ)
+
      
 
 * [Home](https://troopercorentin.com/)
