@@ -501,7 +501,9 @@ Order Online or Call Our Sales Dept **(800) 707-0393**
 * [](https://www.instagram.com/CyberPowerPC/?ref=badge "Follow us on your Instagram")
 * [Blog](https://www.cyberpowerpc.com/blog/ "CyberpowerPC blog")
 
-  Subscribe
+ Subscribe
+
+##### Processing...
 
 Products
 
