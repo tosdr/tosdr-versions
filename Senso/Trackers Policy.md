@@ -40,7 +40,13 @@
 * [Your Platform](https://senso.cloud/your-platform/)
     
 
+* [![United States](/wp-content/uploads/flags/senso-us.jpg)](https://senso.cloud/cookies-policy/)
+* [![United Kingdom](/wp-content/uploads/flags/senso-uk.jpg)](https://senso.cloud/gb/cookies-policy/)
+
                 
+
+* [![United States](/wp-content/uploads/flags/senso-us.jpg)](https://senso.cloud/cookies-policy/)
+* [![United Kingdom](/wp-content/uploads/flags/senso-uk.jpg)](https://senso.cloud/gb/cookies-policy/)
 
 [866-664-1520](tel:+8666641520 "Call us on 866-664-1520")
 
