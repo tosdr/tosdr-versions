@@ -1,7 +1,7 @@
 Gay-Torrents.Org - Your Private Gay Torrent Tracker! - Report Abuse
 ===================================================================
 
-[](https://gay-torrents.org/index.php "Happy Birth Day!")
+[](https://gay-torrents.org/index.php "Gay-Torrents.Org - Your private gay torrent tracker!")
 
 * User: 
 * Password: 
