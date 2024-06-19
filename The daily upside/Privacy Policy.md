@@ -155,11 +155,11 @@ The Daily Upside, LLC.
 * [IndustriesArticles about industries](https://www.thedailyupside.com/industries/ "Industry articles")
 * [Policy & PowerArticles about policy and power](https://www.thedailyupside.com/policy-power/ "Policy and power articles")
 
-* [Subscribe](https://www.thedailyupside.com/subscribe/?utm_medium=organic&utm_source=footer)
-* [The Daily Upside](https://www.thedailyupside.com/?utm_medium=organic&utm_source=footer)
-* [FA Upside](https://www.thedailyupside.com/welcome-to-advisor-upside/?utm_medium=organic&utm_source=footer)
-* [Power Corridor](https://www.thedailyupside.com/power-corridor/?utm_medium=organic&utm_source=footer)
-* [Patent Drop](https://www.thedailyupside.com/patent-drop/?utm_medium=organic&utm_source=footer)
+* [Subscribe](https://www.thedailyupside.com/subscribe/)
+* [The Daily Upside](https://www.thedailyupside.com/)
+* [FA Upside](https://www.thedailyupside.com/welcome-to-advisor-upside/)
+* [Power Corridor](https://www.thedailyupside.com/power-corridor/)
+* [Patent Drop](https://www.thedailyupside.com/patent-drop/)
 * [Newsletter Archive](https://www.thedailyupside.com/newsletter/)
 
 * [Advertise With Us](https://www.thedailyupside.com/advertise-with-us/)
