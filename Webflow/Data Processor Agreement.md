@@ -40,8 +40,6 @@
             
             Fast and reliable hosting provided by AWS](https://webflow.com/hosting)
     
-    [![](https://cdn.prod.website-files.com/64f9399ca7d13575ff21a634/663b90d29ee1d7759f72cff0_nav-ad.webp)](https://webflow.com/platform)
-    
     * Ready to get started?
         
         * [Find a Template](https://webflow.com/templates)
@@ -309,15 +307,71 @@ Trusted by teams at
 
 ![Ideo](https://cdn.prod.website-files.com/64f9399ca7d13575ff21a634/663b9782933c303deb76c9fd_ideo.svg)![Monday.com](https://cdn.prod.website-files.com/64f9399ca7d13575ff21a634/650091aaae08d69465da056e_monday.com.svg)![BBDO](https://cdn.prod.website-files.com/64f9399ca7d13575ff21a634/651b2e8a513fd697446c677e_BBDO-black.svg)![The New York Times](https://cdn.prod.website-files.com/64f9399ca7d13575ff21a634/650090fc30787876ba6f4227_nytimes.svg)![Ted](https://cdn.prod.website-files.com/64f9399ca7d13575ff21a634/650091aaae08d69465da056f_TED.svg)![Philips](https://cdn.prod.website-files.com/64f9399ca7d13575ff21a634/650090fc30787876ba6f4228_philips.svg)
 
-Legal
-=====
+Menu
 
-[Terms of Service](https://webflow.com/legal/terms)[Product Terms](https://webflow.com/legal/product-terms)[Beta Terms](https://webflow.com/legal/beta-terms)[Global Privacy Policy](https://webflow.com/legal/privacy)[EU & Swiss Privacy Policy](https://webflow.com/legal/eu-privacy-policy)[Acceptable Use Policy](https://webflow.com/legal/aup)[Intellectual Property Policy](https://webflow.com/legal/intellectual-property-policy)[Cookie Policy](https://webflow.com/legal/cookie-policy)[Trademark Usage Policy](https://webflow.com/legal/trademark-usage-policy)[Data Processing Addendum](https://webflow.com/legal/dpa)[Subprocessors](https://webflow.com/legal/subprocessors)[CCPA Notice](https://webflow.com/legal/ccpa-notice)[Privacy FAQs](https://webflow.com/legal/privacy-faqs)[Developer Terms of Service](https://webflow.com/legal/developer-terms-of-service)[Creator Agreement](https://webflow.com/legal/creator-agreement)
+Terms and agreements
+
+1. [Terms of Service](https://webflow.com/legal/terms)
+2. [Product Terms](https://webflow.com/legal/product-terms)
+3. [Beta Terms](https://webflow.com/legal/beta-terms)
+4. [Webflow Labs Terms](https://webflow.com/legal/labs-terms)
+5. [Data Processing Addendum](https://webflow.com/legal/dpa)
+6. [Creator Agreement](https://webflow.com/legal/creator-agreement)
+
+Privacy Resources
+
+1. [Global Privacy Policy](https://webflow.com/legal/privacy)
+2. [EU & Swiss Privacy Policy](https://webflow.com/legal/eu-privacy-policy)
+3. [Cookie Policy](https://webflow.com/legal/cookie-policy)
+4. [CCPA Notice](https://webflow.com/legal/ccpa-notice)
+5. [Subprocessors](https://webflow.com/legal/subprocessors)
+6. [Privacy FAQs](https://webflow.com/legal/privacy-faqs)
+
+Policies
+
+1. [Acceptable Use Policy](https://webflow.com/legal/aup)
+2. [Intellectual Property Policy](https://webflow.com/legal/intellectual-property-policy)
+3. [Trademark Usage Policy](https://webflow.com/legal/trademark-usage-policy)
+
+Getting started
+
+1. [Overview](https://webflow.com/legal/terms)
+
+Terms
+
+1. [Terms of Service](#)
+2. [Product Terms](#)
+3. [Beta Terms](#)
+4. [Developer Terms of Service](#)
+
+Policies
+
+1. [Global Privacy Policy](#)
+2. [EU & Swiss Privacy Policy](#)
+3. [Acceptable Use Policy](#)
+4. [Intellectual Property Policy](#)
+5. [Cookie Policy](#)
+6. [Trademark Usage Policy](#)
+7. [Subprocessors](#)
+8. [CCPA Notice](#)
+9. [Data Processing Addendum](#)
+
+Agreements
+
+1. [Creator Agreement](#)
+
+FAQ
+
+1. [Privacy FAQs](#)
+
+Archive
+
+1. [Archived Terms of Service](#)
 
 Subprocessors
--------------
+=============
 
-_Effective date: January 13, 2021_
+Effective date: January 13, 2021  
 
 Webflow uses a range of third-party service providers to assist with its data processing, customer engagement, and analytic activities.
 
@@ -331,159 +385,161 @@ For more information, please contact [security@webflow.com](mailto:security@webf
 
 Webflow currently uses the following Subprocessors:
 
-Subprocessor
+**Subprocessor**
 
-Service Provided
+**Service Provided**  
 
-Location
+**Location**  
 
-Amazon Web Services
+Amazon Web Services  
 
-Cloud service provider
+Cloud service provider  
 
-United States
+United States  
 
-Amplitude
+Amplitude  
 
-Usage analytics
+Usage analytics  
 
-United States
+United States  
 
-Bugsnag
+Bugsnag  
 
-Error monitoring and app stability
+Error monitoring and app stability  
 
-United States
+United States  
 
-ChartMogul
+ChartMogul  
 
-Subscription analytics and revenue reporting
+Subscription analytics and revenue reporting  
 
-Germany
+Germany  
 
-Chili Piper
+Chili Piper  
 
-Inbound lead conversion and scheduling
+Inbound lead conversion and scheduling  
 
-United States
+United States  
 
-Clearbit
+Clearbit  
 
-Marketing analytics
+Marketing analytics  
 
-United States
+United States  
 
-Datadog
+Datadog  
 
-Cloud monitoring
+Cloud monitoring  
 
-United States
+United States  
 
-DocuSign
+DocuSign  
 
-E-signature platform
+E-signature platform  
 
-United States
+United States  
 
-Dropbox
+Dropbox  
 
-Cloud storage
+Cloud storage  
 
-United States
+United States  
 
-Fastly
+Fastly  
 
-Content delivery network
+Content delivery network  
 
-United States
+United States  
 
-Gong
+Gong  
 
-Revenue intelligence software
+Revenue intelligence software  
 
-United States
+United States  
 
-Google Workspace
+Google Workspace  
 
-Email, file storage
+Email, file storage  
 
-United States
+United States  
 
-HelpScout
+HelpScout  
 
-User relationship management
+User relationship management  
 
-United States
+United States  
 
-Mailjet
+Mailjet  
 
-Transaction email provider
+Transaction email provider  
 
-United States
+United States  
 
-MongoDB
+MongoDB  
 
-Cloud database provider
+Cloud database provider  
 
-United States
+United States  
 
-Outreach
+Outreach  
 
-Sales engagement platform
+Sales engagement platform  
 
-United States
+United States  
 
-PandaDocs
+PandaDocs  
 
-E-signature platform
+E-signature platform  
 
-United States
+United States  
 
-Papertrail
+Papertrail  
 
-Log management
+Log management  
 
-United States
+United States  
 
-Salesforce
+Salesforce  
 
-Customer relationship management
+Customer relationship management  
 
-United States
+United States  
 
-Segment
+Segment  
 
-Customer data platform
+Customer data platform  
 
-United States
+United States  
 
-Snowflake Inc.
+Snowflake Inc.  
 
-Data storage and analytics
+Data storage and analytics  
 
-United States
+United States  
 
-Stripe
+Stripe  
 
-Payment processor
+Payment processor  
 
-United States
+United States  
 
-Typeform
+Typeform  
 
-Forms and surveys
+Forms and surveys  
 
-United States
+United States  
 
-Zoom
+Zoom  
 
-Video conferencing provider
+Video conferencing provider  
 
-United States
+United States  
 
-### Subprocessor updates
+Subprocessor updates
+--------------------
 
 To be notified when we add a new Subprocessor, please subscribe to our mailing list.  
+‍
 
 Email Address
 
@@ -491,39 +547,54 @@ Thank you for subscribing!
 
 Oops! Something went wrong while submitting the form.
 
-[Webflow](https://webflow.com/?r=0)
+Table of contents
 
-© 2024 Webflow, Inc.  
-All rights reserved
+1. [Table of contents link](#)
 
 Product
 
 * [Platform](https://webflow.com/platform)
 * [Designer](https://webflow.com/designer)
 * [CMS](https://webflow.com/cms)
+* [Ecommerce](https://webflow.com/ecommerce)
 * [Interactions](https://webflow.com/interactions-animations)
-* [Localization](https://webflow.com/localization)
-* [Hosting](https://webflow.com/hosting)
 * [SEO](https://webflow.com/seo)
+* [Localization](https://webflow.com/localization)
 * [Edit mode](https://webflow.com/edit-mode)
-* [Security](https://webflow.com/security)
-* [Figma to Webflow
-    
-    Labs](https://webflow.com/figma-to-webflow)
+* [Hosting](https://webflow.com/hosting)
 * [DevLink
     
     Labs](http://webflow.com/devlink)
-* [Ecommerce](https://webflow.com/ecommerce)
-* [Feature index](https://webflow.com/features)
+* [Figma to Webflow
+    
+    Labs](https://webflow.com/figma-to-webflow)
+* [Security](https://webflow.com/security)
 * [Accessibility](https://webflow.com/accessibility)
 
-Compare
+Solutions
 
-* [Webflow vs WordPress](https://webflow.com/vs/wordpress)
-* [Webflow vs Squarespace](https://webflow.com/vs/squarespace)
-* [Webflow vs Shopify](https://webflow.com/vs/shopify)
-* [Webflow vs Contentful](https://webflow.com/vs/contentful)
-* [Webflow vs Sitecore](https://webflow.com/vs/sitecore)
+* [Enterprise](https://webflow.com/enterprise)
+* [Startups](https://webflow.com/startups)
+* [Global alliances](https://webflow.com/solutions/global-alliances)
+* [Agencies](https://webflow.com/solutions/agencies)
+* [Freelancers](https://webflow.com/solutions/freelancers)
+* [Classrooms](https://webflow.com/for/classroom)
+
+Resources
+
+* [University](https://university.webflow.com/)
+* [Blog](https://webflow.com/blog)
+* [Customer stories](https://webflow.com/customers)
+* [Webinars and ebooks](https://webflow.com/resources)
+* [Apps](https://webflow.com/apps)
+* [Libraries
+    
+    Beta](https://webflow.com/libraries)
+* [Templates](https://webflow.com/templates)
+* [Developers](http://developers.webflow.com/)
+* [Made in Webflow](https://webflow.com/made-in-webflow)
+* [Glossary](https://webflow.com/glossary)
+* [Livestreams](https://webflow.com/events/livestreams)
 
 Company
 
@@ -533,58 +604,22 @@ Company
     We're Hiring](https://webflow.com/careers)
 * [Press](https://webflow.com/press)
 * [Webflow Shop](https://shop.webflow.com/)
-* [Accessibility statement](https://webflow.com/accessibility/statement)
 * [Terms of Service](https://webflow.com/legal/terms)
 * [Privacy policy](https://webflow.com/legal/privacy)
 * [Cookie policy](https://webflow.com/legal/cookie-policy)
 * [Cookie preferences](#)
+* [Accessibility statement](https://webflow.com/accessibility/statement)
 * [Sitemap](https://webflow.com/sitemap)
 
-Solutions
+Community
 
-* [Freelancers](https://webflow.com/solutions/freelancers)
-* [Agencies](https://webflow.com/solutions/agencies)
-* [Enterprise](https://webflow.com/enterprise)
-* [Startups](https://webflow.com/for/startups)
-* [Classrooms](https://webflow.com/for/classroom)
-* [Global alliances](https://webflow.com/solutions/global-alliances)
-
-Explore
-
-* [Dashboard](https://webflow.com/dashboard)
-* [Marketplace](https://webflow.com/marketplace)
-* [Libraries
-    
-    Beta](https://webflow.com/libraries)
-* [Apps](https://webflow.com/apps)
-* [Hire an Expert](https://experts.webflow.com/)
-* [Templates](https://webflow.com/templates)
-* [Made in Webflow](https://webflow.com/made-in-webflow)
-
-Learn
-
-* [University](https://university.webflow.com/)
-* [Blog](https://webflow.com/blog)
-* [Customers](https://webflow.com/customers)
-* [Resources](https://webflow.com/resources)
-* [Community](https://webflow.com/community)
-* [Developers](http://developers.webflow.com/)
-* [Glossary](https://webflow.com/glossary)
-
-Social
-
-* [Made in Webflow](https://webflow.com/discover/popular#recent)
-* [YouTube](https://www.youtube.com/webflow)
-* [X](https://twitter.com/webflow)
-* [Facebook](https://www.facebook.com/webflow/)
-* [Instagram](https://www.instagram.com/webflow/)
-* [TikTok](https://www.tiktok.com/@webflow)
-
-Become a Partner
-
-* [Become an Expert](https://experts.webflow.com/apply)
+* [Discover the community](https://webflow.com/community)
+* [Partner with Webflow](https://webflow.com/partners)
+* [Certified partners](https://experts.webflow.com/)
 * [Become a Template Designer](https://webflow.com/templates/applications)
 * [Become an Affiliate](https://webflow.com/affiliates)
+* [Become a global leader](https://webflow.com/community/global-leaders)
+* [Find a meetup near you](https://webflow.com/events)
 
 Get help
 
@@ -593,3 +628,15 @@ Get help
 * [Status](https://status.webflow.com/)
 * [Forum](https://forum.webflow.com/)
 * [Wishlist](https://wishlist.webflow.com/)
+
+© 2024 Webflow, Inc. All rights reserved
+
+[](https://webflow.com/?r=0)
+
+* [Made in Webflow](https://webflow.com/discover/popular#recent)
+* [YouTube](https://www.youtube.com/webflow)
+* [X](https://twitter.com/webflow)
+* [Facebook](https://www.facebook.com/webflow/)
+* [Linkedin](https://www.linkedin.com/company/webflow-inc-)
+* [Instagram](https://www.instagram.com/webflow/)
+* [TikTok](https://www.tiktok.com/@webflow)
