@@ -2,7 +2,12 @@ The store will not work correctly in the case when cookies are disabled.
 
 **JavaScript seems to be disabled in your browser.** For the best experience on our site, be sure to turn on Javascript in your browser.
 
-[![](https://www.firewalls.com/static/version1720665431/frontend/FWC/Fireball/en_US/images/logo.svg)](https://www.firewalls.com/)
+[![](https://www.firewalls.com/static/version1718248757/frontend/FWC/Fireball/en_US/images/logo.svg)](https://www.firewalls.com/)
+
+![Firewalls](/pub/media/theme/logoBlack.svg)
+
+To Order, Call: 866-661-0973
+----------------------------
 
 Have A Question? [317-225-4117](tel:317-225-4117)
 
@@ -61,7 +66,7 @@ Access Account
 * [Renewals & Licensing](https://www.firewalls.com/licensing.html)
 * [Security Blog](https://www.firewalls.com/blog)
 
-Enter your zip code ![toggle](https://www.firewalls.com/static/version1720665431/frontend/FWC/Fireball/en_US/images/general/chev-up.svg)
+Enter your zip code ![toggle](https://www.firewalls.com/static/version1718248757/frontend/FWC/Fireball/en_US/images/general/chev-up.svg)
 
 ##### Shipping Location
 
@@ -71,7 +76,7 @@ Zip Code
 
 Submit
 
-![deliery banner](https://www.firewalls.com/media/wysiwyg/shippingBadge.png)
+![delieryMan](https://www.firewalls.com/media/wysiwyg/shippingBadge.png)
 
 ##### Expedited Delivery
 
@@ -175,12 +180,12 @@ Accepted Payments
 
 Company Checks, Purchase Orders and Wire Transfers
 
-![Accepted Payments](https://www.firewalls.com/pub/media/wysiwyg/all-credit-card-logos.webp)
+![Accepted Payments](https://www.firewalls.com/static/version1718248757/frontend/FWC/Fireball/en_US/images/footer/pay-pal.png)![Accepted Payments](https://www.firewalls.com/static/version1718248757/frontend/FWC/Fireball/en_US/images/footer/credit-cards.png)
 
-[![DMR partner of the year](https://firewalls.com/media/wysiwyg/DMR_partner_of_the_year_Banner.png)](https://www.sonicwall.com/partnerawards/#us-canada)
+![DMR partner of the year](https://firewalls.com/media/wysiwyg/DMR_partner_of_the_year_Banner.png)
 
 * * *
 
-[![Facebook](https://www.firewalls.com/static/version1720665431/frontend/FWC/Fireball/en_US/images/footer/fb-w.svg)](https://www.facebook.com/Firewallscom/) [![Twitter](https://www.firewalls.com/static/version1720665431/frontend/FWC/Fireball/en_US/images/footer/tw-w.svg)](https://twitter.com/firewallscom) [![Linked In](https://www.firewalls.com/static/version1720665431/frontend/FWC/Fireball/en_US/images/footer/in-w.svg)](https://www.linkedin.com/company/firewalls) [![YouTube](https://www.firewalls.com/static/version1720665431/frontend/FWC/Fireball/en_US/images/footer/yt-w.svg)](https://www.youtube.com/user/firewallsDotCom?sub_confirmation=1)
+[![Facebook](https://www.firewalls.com/static/version1718248757/frontend/FWC/Fireball/en_US/images/footer/fb-w.svg)](https://www.facebook.com/Firewallscom/) [![Twitter](https://www.firewalls.com/static/version1718248757/frontend/FWC/Fireball/en_US/images/footer/tw-w.svg)](https://twitter.com/firewallscom) [![Linked In](https://www.firewalls.com/static/version1718248757/frontend/FWC/Fireball/en_US/images/footer/in-w.svg)](https://www.linkedin.com/company/firewalls) [![YouTube](https://www.firewalls.com/static/version1718248757/frontend/FWC/Fireball/en_US/images/footer/yt-w.svg)](https://www.youtube.com/user/firewallsDotCom?sub_confirmation=1)
 
 © Firewalls.com, Inc. 2024. All Rights Reserved
