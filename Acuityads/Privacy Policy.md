@@ -29,9 +29,9 @@ WEBINAR July 23 - Political Advertising With L2's Paul Westcott
         * [Guides](https://illumin.com/insights/guides/)
         * [Events](https://illumin.com/insights/events/)
         * [Podcasts & Webinars](https://illumin.com/insights/podcasts-webinars/)
-    * ![Is Netflix joining the AdTech market?](https://illumin.com/wp-content/uploads/2024/06/Netflix-adtech-263x300.jpg)
+    * ![Best Father’s Day ads of 2024](https://illumin.com/wp-content/uploads/2024/06/Blog-image-teasers-2024-263x300.jpg)
         
-        Is Netflix joining the AdTech market?[Read More](https://illumin.com/insights/blog/is-netflix-joining-the-adtech-market/)
+        Best Father’s Day ads of 2024[Read More](https://illumin.com/insights/blog/best-fathers-day-ads-of-2024/)
         
 * [Company](#)
     * [Company](#)
