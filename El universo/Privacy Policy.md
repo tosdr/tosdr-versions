@@ -12,7 +12,7 @@ MENÚ
 * [La Revista](https://www.eluniverso.com/larevista)
 * [Juegos](https://www.eluniverso.com/juegos/)
 
-9 de junio de 2024
+19 de junio de 2024
 
 [](https://www.eluniverso.com/ "Logo del universo")
 
@@ -25,6 +25,10 @@ MENÚ
 * [Entretenimiento](https://www.eluniverso.com/entretenimiento)
 * [La Revista](https://www.eluniverso.com/larevista)
 * [Juegos](https://www.eluniverso.com/juegos/)
+
+MENÚ
+
+[](https://www.eluniverso.com/)
 
 Siéntase seguro, su información lo está
 
