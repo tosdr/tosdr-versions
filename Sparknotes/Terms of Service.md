@@ -1,6 +1,6 @@
-[![Audiobook: Hamlet PLUS](https://img.sparknotes.com/house-ad/728x90_Hamlet_Audiobook@2x.jpg)](https://www.sparknotes.com/nofear/shakespeare/hamlet/act-1-scene-1/?inHouse=hamlet-audio-plus)
+[![Audiobook: Top 15 Titles PLUS](https://img.sparknotes.com/house-ad/728x90_Top15Audiobook@2x.jpg)](https://www.sparknotes.com/lit/?scr=1&contentSelected=NoFearAudio)
 
-[![Audiobook: Hamlet PLUS](https://img.sparknotes.com/house-ad/728x90_Hamlet_Audiobook@2x.jpg)](https://www.sparknotes.com/nofear/shakespeare/hamlet/act-1-scene-1/?inHouse=hamlet-audio-plus)
+[![Audiobook: Top 15 Titles PLUS](https://img.sparknotes.com/house-ad/728x90_Top15Audiobook@2x.jpg)](https://www.sparknotes.com/lit/?scr=1&contentSelected=NoFearAudio)
 
 Search all of SparkNotes  Search
 
@@ -8,11 +8,11 @@ Suggestions
 
 Use up and down arrows to review and enter to select.
 
+* As You Like It
 * Fahrenheit 451
 * Great Expectations
-* Macbeth
-* The Odyssey
-* The Picture of Dorian Gray
+* King Lear
+* Othello
 
 Menu[](https://www.sparknotes.com/ "← Back to the homepage")[](https://www.sparknotes.com/ "← Back to the homepage")
 
@@ -206,7 +206,7 @@ You'll be billed after your free trial ends.
 
 Not Applicable
 
-Renews June 17, 2024 June 10, 2024
+Renews June 26, 2024 June 19, 2024
 
 Discounts (applied to next billing)
 
@@ -266,11 +266,11 @@ Suggestions
 
 Use up and down arrows to review and enter to select.
 
+* As You Like It
 * Fahrenheit 451
 * Great Expectations
-* Macbeth
-* The Odyssey
-* The Picture of Dorian Gray
+* King Lear
+* Othello
 
 * Log in Sign Up for  PLUS
 * My Account white
