@@ -12,27 +12,71 @@ Read the Story
 
 Products
 
+Solutions
+
+[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/66662cc17ad31c88299c5958_Disrupt%20Bathroom%20meetups.svg)
+
+Disrupt Bathroom Meetups](#)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64b574a711bb13f2ed3684d6_No%20Smoking.svg)
+
+Prevent Vaping & Vandalism](#)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64b574a722c3e9e54929014a_Graph%20Report.svg)
+
+Enter Instant Emergency Lockdown](#)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64b574a7ce283ae9b99fba1f_Open%20Book-3.svg)
+
+Manage Tardies & Early Dismissals](#)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/66662cf7db65f45506760b94_Briefcase.svg)
+
+Schedule Student Accommodations](#)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64b574a7be24c4d0188c0f0c_Pill%20Bottle.svg)
+
+Monitor Health Room & Counselor Visits](#)
+
+Product Tours
+
+[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/66662a7aa04eecfc856b5c11_Students.svg)
+
+Hall Pass](https://www.smartpass.app/hall-pass-tour)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/666629ec8a410c43db2ccb67_Week%20View.svg)
+
+Flex](https://www.smartpass.app/flex)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/66662a7aeffa3401f8d93009_ID%20cards.svg)
+
+ID Cards
+
+FREE](https://www.smartpass.app/idcards)
+
+![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/66236bc2ac665c1d613c536f_G2%20logo.svg)
+
+SmartPass on G2!
+
+[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/66662e22ca8c5ca3b61c2f53_4-star.svg)
+
+“SmartPass has cut down on office traffic so much and helps kids be more responsible for themselves.”
+
+Read on G2](https://www.g2.com/products/smartpass/reviews#reviews)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/662369d7acf4936897f63d3d_5-Star%20red.svg)
+
+"We have seen the amount of bathroom incidents, whether behavior or vandalism, go down substantially with SmartPass."
+
+Read on G2](https://www.g2.com/products/smartpass/reviews#reviews)
+
+Products
+
 Product Tours
 
 [![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/645c724fb0626a5bdda5bc5e_Hall%20Pass%20icon.svg)
 
 Hall Pass
 
-Make teachers’ lives easier, student-movement data smarter, and school buildings more secure.](https://www.smartpass.app/hall-pass-tour)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/645c7336405cf157ff6856ab_ID%20icon.svg)
+Make teachers’ lives easier, student-movement data smarter, and school buildings more secure.](#)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/645c7336405cf157ff6856ab_ID%20icon.svg)
 
 ID Cards
 
 FREE
 
-Switching from print to digital lets you set up and distribute IDs to everyone in 5 minutes.](https://www.smartpass.app/idcards)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/645c6584481427a891f3f0fd_Flex%20icon.svg)
+Switching from print to digital lets you set up and distribute IDs to everyone in 5 minutes.](#)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/645c6584481427a891f3f0fd_Flex%20icon.svg)
 
 Flex
 
-Streamlined scheduling and improve accountability for intervention/advisory periods, activities, dances, and more.](https://www.smartpass.app/flex)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/645c72ceecf6ba6e6ed23628_Attendance%20icon.svg)
+Streamlined scheduling and improve accountability for intervention/advisory periods, activities, dances, and more.](#)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/645c72ceecf6ba6e6ed23628_Attendance%20icon.svg)
 
 Attendance
 
-Hands free, hassle-free automated attendance for every class, period, and activity, every single day.](https://www.smartpass.app/get-started/attendance)
+Hands free, hassle-free automated attendance for every class, period, and activity, every single day.](#)
 
 Solutions
 
@@ -52,49 +96,47 @@ Tardy & Early Dismissals](https://www.smartpass.app/get-started/attendance?text=
 
 Daily Nurse Medications](https://www.smartpass.app/get-started?text=Daily+Nurse+Medications)
 
-Products
+Solutions
+
+[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/66662cc17ad31c88299c5958_Disrupt%20Bathroom%20meetups.svg)
+
+Disrupt Bathroom Meetups](#)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64b574a711bb13f2ed3684d6_No%20Smoking.svg)
+
+Prevent Vaping & Vandalism](#)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64b574a722c3e9e54929014a_Graph%20Report.svg)
+
+Enter Instant Emergency Lockdown](#)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64b574a7ce283ae9b99fba1f_Open%20Book-3.svg)
+
+Manage Tardies & Early Dismissals](#)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/66662cf7db65f45506760b94_Briefcase.svg)
+
+Schedule Student Accommodations](#)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64b574a7be24c4d0188c0f0c_Pill%20Bottle.svg)
+
+Monitor Health Room & Counselor Visits](#)
 
 Product Tours
 
-[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/645c724fb0626a5bdda5bc5e_Hall%20Pass%20icon.svg)
+[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/66662a7aa04eecfc856b5c11_Students.svg)
 
-Hall Pass
+Hall Pass](https://www.smartpass.app/hall-pass-tour)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/666629ec8a410c43db2ccb67_Week%20View.svg)
 
-Make teachers’ lives easier, student-movement data smarter, and school buildings more secure.](https://www.smartpass.app/hall-pass-tour)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/645c7336405cf157ff6856ab_ID%20icon.svg)
+Flex](https://www.smartpass.app/flex)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/66662a7aeffa3401f8d93009_ID%20cards.svg)
 
 ID Cards
 
-FREE
+FREE](https://www.smartpass.app/idcards)
 
-Switching from print to digital lets you set up and distribute IDs to everyone in 5 minutes.](https://www.smartpass.app/idcards)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/645c6584481427a891f3f0fd_Flex%20icon.svg)
+![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/66236bc2ac665c1d613c536f_G2%20logo.svg)
 
-Flex
+SmartPass on G2!
 
-Streamlined scheduling and improve accountability for intervention/advisory periods, activities, dances, and more.](https://www.smartpass.app/get-started)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/645c72ceecf6ba6e6ed23628_Attendance%20icon.svg)
+[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/66662e22ca8c5ca3b61c2f53_4-star.svg)
 
-Attendance
+“SmartPass has cut down on office traffic so much and helps kids be more responsible for themselves.”
 
-Hands free, hassle-free automated attendance for every class, period, and activity, every single day.](https://www.smartpass.app/get-started)
+Read on G2](https://www.g2.com/products/smartpass/reviews#reviews)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/662369d7acf4936897f63d3d_5-Star%20red.svg)
 
-Solutions
+"We have seen the amount of bathroom incidents, whether behavior or vandalism, go down substantially with SmartPass."
 
-[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64b574a711bb13f2ed3684d6_No%20Smoking.svg)
-
-Prevent Bathroom Meetups](https://www.smartpass.app/get-started?text=Preventing+Bathroom+Meetups)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64b574a722c3e9e54929014a_Graph%20Report.svg)
-
-Instant Emergency Lockdown](https://www.smartpass.app/get-started?text=Instant+Emergency+Lockdowns)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64b574a51720acbe0082b984_Exclude.svg)
-
-Free Student IDs - No Purchase Needed](https://www.smartpass.app/get-started?text=Free+Student+IDs)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64b574a6be24c4d0188c0bed_Open%20Book.svg)
-
-Prom & Event Tickets](https://www.smartpass.app/get-started/attendance?text=Prom+%26+Event+Tickets)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64b574a69d4828ee7ba42ea3_Open%20Book-1.svg)
-
-PBIS Rewards](https://www.smartpass.app/get-started?text=PBIS+Rewards)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64b574a711bb13f2ed3684db_Open%20Book-2.svg)
-
-Cafeteria Check Ins](https://www.smartpass.app/get-started/attendance?text=Cafeteria+Check+Ins)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64b574a7ce283ae9b99fba1f_Open%20Book-3.svg)
-
-Tardy & Early Dismissals](https://www.smartpass.app/get-started/attendance?text=Tardy+%26+Early+Dismissals)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64b574a7be24c4d0188c0f0c_Pill%20Bottle.svg)
-
-Daily Nurse Medications](https://www.smartpass.app/get-started?text=Daily+Nurse+Medications)
+Read on G2](https://www.g2.com/products/smartpass/reviews#reviews)
 
 Customers
 
@@ -114,10 +156,6 @@ Hear from our Customers](https://www.smartpass.app/customers)
 
 Featured Success Stories
 
-[Berlin HS
-
-Reduced Student Behavior Referrals by 45%](https://www.smartpass.app/customers/reduce-student-behavior-referrals)
-
 [Pinelands Regional HS
 
 Reduced Students Cutting Class by 60%](https://www.smartpass.app/customers/how-pinelands-reduced-students-cutting-class-by-60)
@@ -125,6 +163,10 @@ Reduced Students Cutting Class by 60%](https://www.smartpass.app/customers/how-p
 [Simmons MS
 
 Enhanced School Security & Student Accountability](https://www.smartpass.app/customers/ridgeland-school-district-122)
+
+[Berlin HS
+
+Reduced Student Behavior Referrals by 45%](https://www.smartpass.app/customers/reduce-student-behavior-referrals)
 
 ![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/66236bc2ac665c1d613c536f_G2%20logo.svg)
 
@@ -306,7 +348,7 @@ Contact Us](#)
 
 Support
 
-[Search](#)[Search](#)![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/5c3663c87c0559dc5c7d6a7b_icons8-search.webp)
+[Search](#)![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/5c3663c87c0559dc5c7d6a7b_icons8-search.webp)
 
 [![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64952bde061d1c852c6bea07_Help.svg)
 
@@ -570,17 +612,14 @@ SDPC
 Safety & Security are our top priority. All SmartPass products are compliant with data protection regulations and standards.
 
 Products
-========
 
-[Hall Pass](https://www.smartpass.app/get-started)[ID Cards](https://www.smartpass.app/idcards)[Flex](https://www.smartpass.app/flex)[Attendance](https://www.smartpass.app/get-started)[Pricing](https://www.smartpass.app/pricing)[Sign in](http://app.smartpass.app/)
+[Hall Pass](https://www.smartpass.app/get-started)[ID Cards](https://www.smartpass.app/idcards)[Flex](https://www.smartpass.app/flex)[Attendance](https://www.smartpass.app/get-started)[Sign in](http://app.smartpass.app/)
 
 Resources
-=========
 
 [Grants & Funding](https://www.smartpass.app/education-grants-federal-funding)[Case Studies](https://www.smartpass.app/customers)[Blog](https://www.smartpass.app/blog)[eBooks & Guides](https://www.smartpass.app/buyers-guide) [Conferences](https://www.smartpass.app/conferences)[Webinars](https://www.smartpass.app/new-at-smartpass-2023)
 
 Support
-=======
 
 [Help Center](https://www.smartpass.app/support)[SmartPass Academy](https://www.smartpass.app/academy)[Discover Guides](https://www.smartpass.app/discover-guides)
 
@@ -593,7 +632,6 @@ Support
 99.99%
 
 Company
-=======
 
 [About SmartPass](https://www.smartpass.app/about)[Customers](https://www.smartpass.app/customers)
 
@@ -624,7 +662,6 @@ SDPC
 [Safety & Security](https://www.smartpass.app/schedule-a-demo---test) are our top priority. All SmartPass products are compliant with data protection regulations and standards.
 
 Learn
-=====
 
 [Video Case Study: Maximize Time with Students](https://www.smartpass.app/customers/goochland-county-public-schools)[How to Grow Student Accountability](https://www.smartpass.app/customers/northwestern-local-schools)[Hall Pass Buyer’s Guide](https://www.smartpass.app/buyers-guide)[Tips for Quiet Hallways](https://www.smartpass.app/blog/introducing-smartpass-the-best-digital-hall-pass-solution-for-your-school)[Case Study: Switch from Google Forms](https://www.smartpass.app/customers/columbus-city-school-district)[Data-Driven Decisions Case Study](https://www.smartpass.app/customers/pennsbury-school-district)[See All Articles](https://www.smartpass.app/blog)
 
