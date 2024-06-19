@@ -1,4 +1,4 @@
-[![](https://cdn.prod.website-files.com/5ffc384cb3a51a7b1c2d57ad/6239f62a33bc35909f6f9a87_rspace_logo_white.svg)](https://www.researchspace.com/)
+[![](https://cdn.prod.website-files.com/5ffc384cb3a51a7b1c2d57ad/6239f62a33bc35909f6f9a87_rspace_logo_white.svg)](https://www.researchspace.com/old-home-2)
 
 Our product
 
@@ -160,7 +160,7 @@ Contact
 
 Have questions or concerns about RSpace, our Services and privacy? Contact us at [info@researchspace.com](mailto:info@researchspace.com).
 
-[![](https://cdn.prod.website-files.com/5ffc384cb3a51a7b1c2d57ad/6239f62a33bc35909f6f9a87_rspace_logo_white.svg)](https://www.researchspace.com/)
+[![](https://cdn.prod.website-files.com/5ffc384cb3a51a7b1c2d57ad/6239f62a33bc35909f6f9a87_rspace_logo_white.svg)](https://www.researchspace.com/old-home-2)
 
 [![](https://cdn.prod.website-files.com/5ffc384cb3a51a7b1c2d57ad/62cc1399903d3470e02603a2_iconmonstr-twitter-3.svg)](https://twitter.com/TheConnectedLab)[![](https://cdn.prod.website-files.com/5ffc384cb3a51a7b1c2d57ad/62cc139ae819846cb3c9bf87_iconmonstr-youtube-8.svg)](https://www.youtube.com/c/Researchspace/featured)
 
