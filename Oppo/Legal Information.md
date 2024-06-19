@@ -6,11 +6,11 @@
 
 * [Smartphones](https://www.oppo.com/uk/smartphones/) [Smartphones](https://www.oppo.com/uk/smartphones/)
     
+    * [OPPO Reno12 Pro 5G](https://www.oppo.com/uk/smartphones/series-reno/reno12-pro)
+    * [OPPO Reno12 5G](https://www.oppo.com/uk/smartphones/series-reno/reno12)
     * [OPPO Reno11 F 5G _New_](https://www.oppo.com/uk/smartphones/series-reno/reno11-f/)
     * [OPPO Find N2 Flip _New_](https://www.oppo.com/uk/smartphones/series-find-n/find-n2-flip)
     * [OPPO Reno10 5G _New_](https://www.oppo.com/uk/smartphones/series-reno/reno10/)
-    * [OPPO Reno8 Pro 5G](https://www.oppo.com/uk/smartphones/series-reno/reno8-pro-5g/)
-    * [OPPO Reno8 5G](https://www.oppo.com/uk/smartphones/series-reno/reno8-5g/)
     * [OPPO A78 5G _New_](https://www.oppo.com/uk/smartphones/series-a/a78-5g/)
     
     [Find N Series](https://www.oppo.com/uk/smartphones/?tab1) [Find X Series](https://www.oppo.com/uk/smartphones/?tab2) [Reno Series](https://www.oppo.com/uk/smartphones/?tab3) [A Series](https://www.oppo.com/uk/smartphones/?tab4)
@@ -81,6 +81,8 @@ Quick Links
 
 * Smartphones
     
+    * [OPPO Reno12 Pro 5G](https://www.oppo.com/uk/smartphones/series-reno/reno12-pro)
+    * [OPPO Reno12 5G](https://www.oppo.com/uk/smartphones/series-reno/reno12)
     * [OPPO Reno11 F 5G
         
         New](https://www.oppo.com/uk/smartphones/series-reno/reno11-f/)
@@ -90,8 +92,6 @@ Quick Links
     * [OPPO Reno10 5G
         
         New](https://www.oppo.com/uk/smartphones/series-reno/reno10/)
-    * [OPPO Reno8 Pro 5G](https://www.oppo.com/uk/smartphones/series-reno/reno8-pro-5g/)
-    * [OPPO Reno8 5G](https://www.oppo.com/uk/smartphones/series-reno/reno8-5g/)
     * [OPPO A78 5G
         
         New](https://www.oppo.com/uk/smartphones/series-a/a78-5g/)
@@ -101,11 +101,11 @@ Quick Links
     * [Reno Series](https://www.oppo.com/uk/smartphones/?tab3)
     * [A Series](https://www.oppo.com/uk/smartphones/?tab4)
     
+    *  [OPPO Reno12 Pro 5G](https://www.oppo.com/uk/smartphones/series-reno/reno12-pro)
+    *  [OPPO Reno12 5G](https://www.oppo.com/uk/smartphones/series-reno/reno12)
     *  [OPPO Reno11 F 5G](https://www.oppo.com/uk/smartphones/series-reno/reno11-f/)
     *  [OPPO Find N2 Flip](https://www.oppo.com/uk/smartphones/series-find-n/find-n2-flip)
     *  [OPPO Reno10 5G](https://www.oppo.com/uk/smartphones/series-reno/reno10/)
-    *  [OPPO Reno8 Pro 5G](https://www.oppo.com/uk/smartphones/series-reno/reno8-pro-5g/)
-    *  [OPPO Reno8 5G](https://www.oppo.com/uk/smartphones/series-reno/reno8-5g/)
     *  [OPPO A78 5G](https://www.oppo.com/uk/smartphones/series-a/a78-5g/)
     
     [Compare](https://www.oppo.com/uk/compare/) [View All Phones](https://www.oppo.com/uk/smartphones/)
@@ -624,6 +624,10 @@ Should you decide to object to the processing of your personal data, we will sto
 
 Smartphones
 
+[OPPO Reno12 Pro 5G](https://www.oppo.com/uk/smartphones/series-reno/reno12-pro)
+
+[OPPO Reno12 5G](https://www.oppo.com/uk/smartphones/series-reno/reno12)
+
 [OPPO Find N2 Flip](https://www.oppo.com/uk/smartphones/series-find-n/find-n2-flip)
 
 [OPPO Find X5 Lite](https://www.oppo.com/uk/smartphones/series-find-x/find-x5-lite/)
@@ -708,6 +712,10 @@ OPPO Community
 
 Get Support From OPPO
 
+*  [WhatsApp](https://wa.me/message/WTNHAI5WIKEKA1)
+    
+    Mon-Fri 9:00-18:00
+    
 *  [Livechat](https://chat-eu.oppo.com/chat/h5/v2/index.html?sysnum=5015ad22498b422ebf02d18e9a3f2111&channelid=3)
     
     Mon-Fri 9:00-18:00
@@ -735,6 +743,10 @@ Get Support From OPPO
 [Back to Top](javascript:;)
 
 ![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xNC41ODUgMTYuMDAwMUw4LjY5MjUzIDIxLjg5MjVMMTAuMTA2NyAyMy4zMDY3TDE1Ljk5OTIgMTcuNDE0M0wyMS44OTE3IDIzLjMwNjhMMjMuMzA1OSAyMS44OTI1TDE3LjQxMzQgMTYuMDAwMUwyMy4zMDYxIDEwLjEwNzRMMjEuODkxOSA4LjY5MzE5TDE1Ljk5OTIgMTQuNTg1OEwxMC4xMDY2IDguNjkzMjJMOC42OTIzOCAxMC4xMDc0TDE0LjU4NSAxNi4wMDAxWiIgZmlsbD0iYmxhY2siLz4KPC9zdmc+Cg==)
+
+[WhatsApp](https://wa.me/message/WTNHAI5WIKEKA1)
+
+Mon-Fri 9:00-18:00
 
 [Livechat](https://chat-eu.oppo.com/chat/h5/v2/index.html?sysnum=5015ad22498b422ebf02d18e9a3f2111&channelid=3)
 
