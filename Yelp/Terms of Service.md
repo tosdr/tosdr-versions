@@ -125,7 +125,7 @@ These Terms govern your access to and use of our products and services, includin
     7. You agree that no joint venture, partnership, employment, agency, special or fiduciary relationship exists between you and Yelp as a result of these Terms or your use of the Service. 
     8. The section titles in the Terms are for convenience only and have no legal or contractual effect.
 
-Copyright © 2020 Yelp Inc., 350 Mission Street, 10th Floor, San Francisco, CA 94105, U.S.A.
+Copyright © 2024 Yelp Inc., 350 Mission Street, 10th Floor, San Francisco, CA 94105, U.S.A.
 
 * * *
 
@@ -178,6 +178,6 @@ In the event of any termination of these Business Terms, whether by you or us, t
     YOU AND YELP AGREE THAT EACH MAY BRING OR PARTICIPATE IN BUSINESS CLAIMS AGAINST THE OTHER ONLY IN THEIR RESPECTIVE INDIVIDUAL CAPACITIES, AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE PROCEEDING. UNLESS BOTH YOU AND YELP AGREE OTHERWISE, THE ARBITRATOR MAY NOT CONSOLIDATE OR JOIN THE BUSINESS CLAIMS OF OTHER PERSONS OR PARTIES WHO MAY BE SIMILARLY SITUATED, AND MAY NOT OTHERWISE PRESIDE OVER ANY FORM OF A REPRESENTATIVE OR CLASS PROCEEDING. IF A BUSINESS CLAIM IMPLICATES THIS SECTION, AND THIS SECTION IS FOUND TO BE INVALID, UNENFORCEABLE OR ILLEGAL BY A COURT, SUCH BUSINESS CLAIM MUST BE ADJUDICATED BY A COURT AND NOT BY AN ARBITRATOR. 
     
 
-Copyright © 2020 Yelp Inc., 350 Mission Street, 10th Floor, San Francisco, CA 94105, U.S.A.
+Copyright © 2024 Yelp Inc., 350 Mission Street, 10th Floor, San Francisco, CA 94105, U.S.A.
 
 © 2024 Yelp
