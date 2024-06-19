@@ -1,6 +1,6 @@
 [![IFCJ](https://www.ifcj.org/wp-content/themes/ifcj/static/images/logos/ifcj-logo.png)](https://www.ifcj.org/ "IFCJ")
 
-* [Store](https://store.ifcj.org/)
+* [Pledge](https://help.ifcj.org/survey/130/0)
 * [Newsletter](https://help.ifcj.org/subscriptions)
 
 [![IFCJ](https://www.ifcj.org/wp-content/themes/ifcj/static/images/logos/ifcj-white.png)](https://www.ifcj.org/ "IFCJ")
@@ -326,6 +326,22 @@ Stay Connected
 Stay informed about issues affecting Israel, the Jewish people, Jewish-Christian relations, receive daily devotionals, and more.
 
 [Subscribe](https://help.ifcj.org/subscriptions)
+
+![Soldiers in a tank with a fire behind them.](https://www.ifcj.org/wp-content/uploads/Web-ERAP-2023-FireWPpl_14753992-750x375-A.jpg)
+
+Sign Up for Text Updates
+
+Get text messages sent directly to your phone to stay up-to-date on The Fellowship’s life-saving work in Israel and around the world.
+
+[Sign Up](https://help.ifcj.org/survey/112/0)
+
+![Yael Eckstein and her children decorate their sukkah](https://www.ifcj.org/wp-content/uploads/Yael-and-children-building-a-sukkah.14693541.jpg)
+
+Subscribe to Our Newsletter
+
+Stay informed about issues affecting Israel, the Jewish people, and Jewish-Christian relations, receive Daily Devotionals and more.
+
+[Sign Up](https://help.ifcj.org/subscriptions)
 
 Subscribe to Our Newsletter
 
