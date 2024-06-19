@@ -18,7 +18,7 @@ and other mobile devices
 
 [For Linux enthusiasts](https://postmarketos.org/state/)
 
-Latest news: [The Road to systemd](https://postmarketos.org/blog/2024/05/26/the-road-to-systemd/)
+Latest news: [v24.06](https://postmarketos.org/blog/2024/06/16/v24.06-release/)
 
 Code of Conduct
 ===============
