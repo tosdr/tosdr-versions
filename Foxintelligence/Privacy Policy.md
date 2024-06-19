@@ -436,11 +436,11 @@ Check our last articles of blog
 
 [Other articles](https://www.foxintelligence.io/insights/blog)
 
-[![Tendances de consommation foxintelligence](https://www.foxintelligence.io/wp-content/uploads/2024/05/phillip-goldsberry-fZuleEfeA1Q-unsplash-1024x683.jpg)](https://www.foxintelligence.io/ecommerce-trends-in-the-furniture-market-for-q1-2024/)
+[![](https://www.foxintelligence.io/wp-content/uploads/2024/06/pexels-karolina-grabowska-5706273-1024x683.jpg)](https://www.foxintelligence.io/the-vinted-tidal-wave-a-second-hand-essential/)
 
-[eCommerce Trends in the Furniture Market for Q1 2024](https://www.foxintelligence.io/ecommerce-trends-in-the-furniture-market-for-q1-2024/)
+[The Vinted Tidal Wave: A Second-Hand Essential](https://www.foxintelligence.io/the-vinted-tidal-wave-a-second-hand-essential/)
 
-Post-pandemic repercussions have sparked a keen interest in the furniture market. Whether it’s a new sofa, garden furniture, redecorating, or …
+The second-hand market is experiencing a meteoric rise, transforming from a mere trend into a crucial economic pillar. Once marginalized, …
 
 [Other articles](https://www.foxintelligence.io/insights/blog)
 
