@@ -24,9 +24,13 @@ DirectTV](https://www.bfmtv.com/en-direct/ "Direct tv")
 
 [![Regarder le direct](/assets/v5/images/BFMTV.848c19e09c92f3ced2163a1a0399be11.svg)
 
-Regarder le direct](https://www.bfmtv.com/en-direct/ "Regarder le direct")[![Écouter la radio](/assets/v5/images/BFM-Radio.2afb246578899c5f8d87d1f216c22953.svg)
+Regarder le direct](https://www.bfmtv.com/en-direct/ "Regarder le direct")
 
-Écouter la radio](https://www.bfmtv.com/en-direct/bfm-radio/ "Écouter la radio")[![Replay BFMTV](/assets/v5/images/RMC-BFM-Play-radio.62cafa0ab4419da4ac6039b204f52a3e.svg)
+![Écouter la radio](/assets/v5/images/BFM-Radio.2afb246578899c5f8d87d1f216c22953.svg)
+
+Écouter la radio
+
+[![Replay BFMTV](/assets/v5/images/RMC-BFM-Play-radio.62cafa0ab4419da4ac6039b204f52a3e.svg)
 
 Replay BFMTV](https://www.rmcbfmplay.com/chaine/bfm-tv?subMenuId=RefMenuItem::rmcgo_home_bfmtv "Replay BFMTV")
 
@@ -74,6 +78,7 @@ Suivant
 Rubriques
 
 * [News 24/7](https://www.bfmtv.com/news-24-7/ "News 24/7")
+* [Élections législatives](https://www.bfmtv.com/politique/elections/legislatives/ "Élections législatives")
 * [Politique](https://www.bfmtv.com/politique/ "Politique")
 * [Police-justice](https://www.bfmtv.com/police-justice/ " Police-justice ")
 * [International](https://www.bfmtv.com/international/ "International")
@@ -571,17 +576,15 @@ DANS TOUTE LA MESURE PERMISE PAR LA LOI, EN AUCUN CAS L'EDITEUR OU SES PARTENAIR
 Les plus lus
 ------------
 
-1. [![Le chanteur français Kendji Maille alias 'Kendji Girac' pose sur le tapis rouge avant la 23ème cérémonie des NRJ Music Awards le 20 novembre 2021.
-    ](https://images.bfmtv.com/nHYaigkWi_ne_Y-pmJ8lTYn0KIQ=/0x50:1824x1076/300x0/images/Le-chanteur-francais-Kendji-Maille-alias-Kendji-Girac-pose-sur-le-tapis-rouge-avant-la-23eme-ceremonie-des-NRJ-Music-Awards-le-20-novembre-2021-1848985.jpg)
+1. [![Jordan Bardella, président du Rassemblement national, le lundi 10 juin 2024](https://images.bfmtv.com/1-QuNTM4BHWvZJrvr62SU3DnQjQ=/0x62:2048x1214/300x0/images/Jordan-Bardella-president-du-Rassemblement-national-le-lundi-10-juin-2024-1881033.jpg)
     
-    ![Le chanteur français Kendji Maille alias 'Kendji Girac' pose sur le tapis rouge avant la 23ème cérémonie des NRJ Music Awards le 20 novembre 2021.
-    ](https://images.bfmtv.com/nHYaigkWi_ne_Y-pmJ8lTYn0KIQ=/0x50:1824x1076/300x0/images/Le-chanteur-francais-Kendji-Maille-alias-Kendji-Girac-pose-sur-le-tapis-rouge-avant-la-23eme-ceremonie-des-NRJ-Music-Awards-le-20-novembre-2021-1848985.jpg)
+    ![Jordan Bardella, président du Rassemblement national, le lundi 10 juin 2024](https://images.bfmtv.com/1-QuNTM4BHWvZJrvr62SU3DnQjQ=/0x62:2048x1214/300x0/images/Jordan-Bardella-president-du-Rassemblement-national-le-lundi-10-juin-2024-1881033.jpg)
     
-    ### Kendji Girac hospitalisé à Bordeaux: ce que l'on sait sur sa grave blessure par balle](https://www.bfmtv.com/police-justice/kendji-girac-hospitalise-a-bordeaux-ce-que-l-on-sait-sur-sa-grave-blessure-par-balle_AV-202404220326.html "Kendji Girac hospitalisé à Bordeaux: ce que l'on sait sur sa grave blessure par balle")
-2. [### "Pourquoi ne pas protéger l'espace aérien ukrainien?": Zelensky s'interroge après l'aide de la France en Israël](https://www.bfmtv.com/international/europe/ukraine/pourquoi-ne-pas-proteger-l-espace-aerien-ukrainien-zelensky-s-interroge-apres-l-aide-de-la-france-en-israel_AN-202404220341.html ""Pourquoi ne pas protéger l'espace aérien ukrainien?": Zelensky s'interroge après l'aide de la France en Israël")
-3. [### Donald Trump jugé au pénal: à quoi faut-il s'attendre après la sélection des jurés?](https://www.bfmtv.com/international/amerique-nord/etats-unis/donald-trump-juge-au-penal-a-quoi-faut-il-s-attendre-apres-la-selection-des-jures_AD-202404220304.html "Donald Trump jugé au pénal: à quoi faut-il s'attendre après la sélection des jurés?")
-4. [### Lieu, date, heure… sur Tinder, vous pouvez prévenir votre entourage de votre rendez-vous](https://www.bfmtv.com/tech/vie-numerique/lieu-date-heure-sur-tinder-vous-pouvez-prevenir-votre-entourage-de-votre-rendez-vous_AV-202404220446.html "Lieu, date, heure… sur Tinder, vous pouvez prévenir votre entourage de votre rendez-vous")
-5. [### MMA: la date du grand retour de Doumbè est connue (son adversaire également)](https://rmcsport.bfmtv.com/sports-de-combat/mma/pfl-bellator/mma-la-date-du-grand-retour-de-doumbe-est-connue-son-adversaire-egalement_AD-202404220310.html "MMA: la date du grand retour de Doumbè est connue (son adversaire également)")
+    ### Législatives: retraites, TVA, voile... Ces promesses de campagne tempérées ou repoussées par le RN](https://www.bfmtv.com/politique/elections/legislatives/legislatives-retraites-tva-voile-ces-promesses-de-campagne-temperees-ou-repoussees-par-le-rn_AV-202406180057.html "Législatives: retraites, TVA, voile... Ces promesses de campagne tempérées ou repoussées par le RN")
+2. [### Législatives: sur leurs affiches de campagne, les ministres boudent les photos de Macron et Attal](https://www.bfmtv.com/politique/elections/legislatives/legislatives-sur-leurs-affiches-de-campagne-les-ministres-boudent-les-photos-de-macron-et-attal_AN-202406170962.html "Législatives: sur leurs affiches de campagne, les ministres boudent les photos de Macron et Attal")
+3. [### Bac de philosophie 2024: découvrez les sujets de l'épreuve](https://www.bfmtv.com/societe/education/bac-de-philosophie-2024-decouvrez-les-sujets-de-l-epreuve_AN-202406180301.html "Bac de philosophie 2024: découvrez les sujets de l'épreuve")
+4. [### Grèce: ce que l'on sait des deux touristes françaises disparues sur l'île de Sikinos](https://www.bfmtv.com/international/europe/grece/grece-ce-que-l-on-sait-des-deux-touristes-francaises-disparues-sur-l-ile-de-sikinos_AN-202406170810.html "Grèce: ce que l'on sait des deux touristes françaises disparues sur l'île de Sikinos")
+5. [### "Le problème, c'est surtout la respiration", comment la fracture du nez de Mbappé impactera ses performances](https://rmcsport.bfmtv.com/football/euro/le-probleme-c-est-surtout-la-respiration-comment-la-fracture-du-nez-de-mbappe-impactera-ses-performances_AV-202406180056.html ""Le problème, c'est surtout la respiration", comment la fracture du nez de Mbappé impactera ses performances")
 
 ![BFMTV](/assets/v5/images/BFMTV.848c19e09c92f3ced2163a1a0399be11.svg "BFMTV")
 
@@ -633,6 +636,7 @@ en savoir plus
 * [Mentions légales](https://www.bfmtv.com/mentions-legales/ "Mentions légales")
 * [Données personnelles](https://www.bfmtv.com/politique-donnees-personnelles/ "Données personnelles")
 * [Cookies](https://www.bfmtv.com/cookies/ "Cookies")
+* [Gérer Utiq](https://www.bfmtv.com/cookies#utiq "Gérer Utiq")
 * [CGU](https://www.bfmtv.com/cgu/ "CGU")
 * [Charte de déontologie](https://www.bfmtv.com/charte-deontologie/ "Charte de déontologie")
 
