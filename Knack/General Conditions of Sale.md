@@ -250,9 +250,7 @@ Add blocks of additional records without upgrading your plan.
 
 Add additional file storage capacity without upgrading your plan.
 
-Start building with Knack today – no credit card required. You can build an app in just a few minutes by leveraging AI, templates, or Knack’s extensive resource library.
-
-Still have questions? [Contact our team here](https://meetings.hubspot.com/ckolosky/pricing-page-contact-us).
+Start building with Knack today – no credit card required. You can build a web app in just a few minutes by leveraging AI, templates, or Knack’s extensive resource library.
 
 We know some of the terms may be unfamiliar. We have some more info [here](https://www.knack.com/blog/online-database-definitions/) on some of the common database terms.
 
