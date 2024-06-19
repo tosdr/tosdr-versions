@@ -132,7 +132,7 @@ ETF Investment Guides
 * [MSCI World ETF](https://www.justetf.com/en/how-to/msci-world-etfs.html)
 * [Global Dividend ETF](https://www.justetf.com/en/how-to/dividend-etfs-world.html)
 * [S&P 500 ETF](https://www.justetf.com/en/how-to/sp-500-etfs.html)
-* [China ETF](https://www.justetf.com/en/how-to/invest-in-china.html)
+* [Bitcoin-ETF and -ETN](https://www.justetf.com/en/how-to/invest-in-bitcoin.html)
 * [Nasdaq 100 ETF](https://www.justetf.com/en/how-to/nasdaq-100-etfs.html)
 
 ETF Tools
