@@ -21,12 +21,12 @@
     
     * [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2744%27%20height=%2744%27/%3e)![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
         
-        ![](https://images.ctfassets.net/w6r2i5d8q73s/38KcDg5CQvCoEnuQWLCpQn/981ab08660edfd0e55f612748efddf0a/Screenshot_2024-06-06_at_11.52.09.png)
+        ![](https://images.ctfassets.net/w6r2i5d8q73s/38KcDg5CQvCoEnuQWLCpQn/981ab08660edfd0e55f612748efddf0a/Screenshot_2024-06-06_at_11.52.09.png?fm=webp&q=75)
         
         Catch this summer's biggest update on July 17](https://miro.com/whats-next/register/?utm_campaign=FY25Q2-GLB-WB-HI-S2_INX-Whats_New_webinar&utm_source=weblink&utm_medium=redirect&utm_content=Webinar%20-%20High%20Intent&utm_term=Top%20Nav&src=-weblink_glb#CxvHAz7sO)
     * [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2744%27%20height=%2744%27/%3e)![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
         
-        ![](https://images.ctfassets.net/w6r2i5d8q73s/2Zxr4Vx1JDRb6UL7icHtaC/40135e6dbe6bfeb37502c61c49adca15/Tree_planter.png)
+        ![](https://images.ctfassets.net/w6r2i5d8q73s/2Zxr4Vx1JDRb6UL7icHtaC/40135e6dbe6bfeb37502c61c49adca15/Tree_planter.png?fm=webp&q=75)
         
         Navigate through diagrams using keyboard](https://miro.com/blog/what-we-launched-may-2024/#:~:text=And%20last%20but,and%20assistive%20technology.)
     * [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2744%27%20height=%2744%27/%3e)![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
@@ -172,11 +172,11 @@ Privacy Policy
 
 [Local Provisions](#local-provisions)
 
-[Developer Terms of Use](https://miro.com/legal/developer-terms-of-use)
+[Recruitment Privacy Policy](https://miro.com/legal/recruitment-privacy-policy)
 
 [Cookies Policy](https://miro.com/legal/cookies-policy)
 
-[Recruitment Privacy Policy](https://miro.com/legal/recruitment-privacy-policy)
+[Developer Terms of Use](https://miro.com/legal/developer-terms-of-use)
 
 [Online Community Terms of Use](https://miro.com/legal/online-community-terms-of-use)
 
@@ -194,20 +194,28 @@ Privacy Policy
 
 [Vendor Data Processing Addendum](https://miro.com/legal/vendor-data-processing-addendum)
 
+[AI Features Addendum](https://miro.com/legal/ai-features-addendum)
+
 [Miro Assist Beta Program Terms](https://miro.com/legal/miro-assist-terms)
+
+[Prior Master Cloud Agreement "MCA" Versions](https://miro.com/legal/prior-master-cloud-agreement-mca-versions)
+
+[Privacy Policy July 17](https://miro.com/legal/privacy-policy-july-17)
 
 [Miro Imprint](https://miro.com/legal/miro-imprint)
 
 [Code of Conduct](https://miro.com/legal/code-of-conduct)
-
-[Prior Master Cloud Agreement "MCA" Versions](https://miro.com/legal/prior-master-cloud-agreement-mca-versions)
 
 ##### Table of contents
 
 Privacy Policy
 --------------
 
-**Privacy Policy**
+We're updating our Privacy Policy. Read the updated Privacy Policy [here](https://miro.com/legal/privacy-policy-july-17/). The updates will go into effect on July 17, 2024.
+
+We're updating our Privacy Policy. Read the updated Privacy Policy [here](https://miro.com/legal/privacy-policy-july-17/). The updates will go into effect on July 17, 2024.
+
+We're updating our Privacy Policy. Read the updated Privacy Policy [here](https://miro.com/legal/privacy-policy-july-17/). The updates will go into effect on July 17, 2024.
 
 **Last updated: 18 October 2023** 
 
@@ -263,7 +271,7 @@ Miro may collect and receive Customer Content and other personal data (“**Othe
         
     * **Third-Party Services data.** A Customer may choose to use Third-Party Services. If Customer enables Third-Party Services, Miro may access and exchange Customer Content and Other Data with the Third-Party on Customer’s behalf, in accordance with our agreement with the Third-Party Services and any permissions granted by the Customer (including its Authorized User(s)).
         
-    * **Contactdata.** In accordance with the consent provided by your device or other third-party API, we process any contact information that an Authorized User chooses to import when using the Services.
+    * **Contact data.** In accordance with the consent provided by your device or other third-party API, we process any contact information that an Authorized User chooses to import when using the Services.
         
     * **Community data**. We also receive Other Data when submitted to our Websites or in other ways, such as if you participate in the Miro Community, Miro Academy, or Miroverse. This data is either submitted directly to the Services, or collected during Forums, Programs, contests, activities, events, or educational programs hosted by Miro (or a vendor).
         
@@ -472,7 +480,7 @@ If you are based in California, the following provisions apply:
     * [Apps & Integrations](https://miro.com/integrations/)
     * [Templates](https://miro.com/templates/)
     * [Miroverse](https://miro.com/miroverse/)
-    * [Miro Developer Platform](https://miro.com/api/)
+    * [Miro Developer Platform](https://developers.miro.com/)
     * [Miro for Devices](https://miro.com/apps/)
     * [Enterprise Guard](https://miro.com/enterprise-guard/)
     * [Accessibility](https://miro.com/accessibility-statement/)
@@ -532,7 +540,7 @@ If you are based in California, the following provisions apply:
     * [Apps & Integrations](https://miro.com/integrations/)
     * [Templates](https://miro.com/templates/)
     * [Miroverse](https://miro.com/miroverse/)
-    * [Miro Developer Platform](https://miro.com/api/)
+    * [Miro Developer Platform](https://developers.miro.com/)
     * [Miro for Devices](https://miro.com/apps/)
     * [Enterprise Guard](https://miro.com/enterprise-guard/)
     * [Accessibility](https://miro.com/accessibility-statement/)
