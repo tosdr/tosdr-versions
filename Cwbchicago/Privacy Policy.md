@@ -244,39 +244,39 @@ This privacy policy was created in party by using [Termly’s Privacy Policy Ge
 
 [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20326%20245'%3E%3C/svg%3E)
 
-![](https://cwbchicago.com/wp-content/uploads/2024/06/Wilson-Barreno-Union-Station-326x245.jpg)](https://cwbchicago.com/2024/06/california-man-stabbed-woman-as-she-walked-her-dog-near-union-station-police-say.html "California man stabbed woman as she walked her dog near Union Station, police say")
-
-West Loop
-
-### [California man stabbed woman as she walked her dog near Union Station, police say](https://cwbchicago.com/2024/06/california-man-stabbed-woman-as-she-walked-her-dog-near-union-station-police-say.html "California man stabbed woman as she walked her dog near Union Station, police say")
-
-[June 6, 2024 7:53 PM](https://cwbchicago.com/2024/06)
-
-A California man is charged with attempted murder, accused of attacking a 71-year-old woman with a knife outside Union Station on Wednesday afternoon.[](https://cwbchicago.com/2024/06/california-man-stabbed-woman-as-she-walked-her-dog-near-union-station-police-say.html "California man stabbed woman as she walked her dog near Union Station, police say")
-
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20326%20245'%3E%3C/svg%3E)
-
-![](https://cwbchicago.com/wp-content/uploads/2024/06/Manuel-Macon-326x245.jpg)](https://cwbchicago.com/2024/06/woman-charged-with-stabbing-patron-at-uptown-club1.html "Woman charged with stabbing patron at Uptown club")
-
-Uptown
-
-### [Woman charged with stabbing patron at Uptown club](https://cwbchicago.com/2024/06/woman-charged-with-stabbing-patron-at-uptown-club1.html "Woman charged with stabbing patron at Uptown club")
-
-[June 6, 2024 5:22 PM](https://cwbchicago.com/2024/06)
-
-A Cook County judge has detained a woman after prosecutors accused her of stabbing and seriously injuring another woman at an Uptown bar.[](https://cwbchicago.com/2024/06/woman-charged-with-stabbing-patron-at-uptown-club1.html "Woman charged with stabbing patron at Uptown club")
-
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20326%20245'%3E%3C/svg%3E)
-
-![](https://cwbchicago.com/wp-content/uploads/2024/06/Jose-Manuel-Gil-La-Rosa-326x245.jpg)](https://cwbchicago.com/2024/06/migrant-busted-with-fake-id-at-midway-airport-security-checkpoint-report.html "Migrant busted with fake ID at Midway Airport security checkpoint: report")
+![](https://cwbchicago.com/wp-content/uploads/2024/06/Marshone-Copleand-326x245.jpg)](https://cwbchicago.com/2024/06/13-man-shot-3-people-outside-chicago-bar-while-on-felony-pretrial-release.html "#13: Man shot 3 people outside Chicago bar while on felony pretrial release")
 
 Citywide
 
-### [Migrant busted with fake ID at Midway Airport security checkpoint: report](https://cwbchicago.com/2024/06/migrant-busted-with-fake-id-at-midway-airport-security-checkpoint-report.html "Migrant busted with fake ID at Midway Airport security checkpoint: report")
+### [#13: Man shot 3 people outside Chicago bar while on felony pretrial release](https://cwbchicago.com/2024/06/13-man-shot-3-people-outside-chicago-bar-while-on-felony-pretrial-release.html "#13: Man shot 3 people outside Chicago bar while on felony pretrial release")
 
-[June 6, 2024 8:02 AM](https://cwbchicago.com/2024/06)
+[June 16, 2024 5:01 PM](https://cwbchicago.com/2024/06)
 
-A Venezuelan migrant faces felony charges after he allegedly tried to pass through the Midway Airport security checkpoint with fake IDs.[](https://cwbchicago.com/2024/06/migrant-busted-with-fake-id-at-midway-airport-security-checkpoint-report.html "Migrant busted with fake ID at Midway Airport security checkpoint: report")
+Prosecutors have charged a Chicago man with shooting three people at a South Side bar in April while he was on pretrial release for a felony driving case.[](https://cwbchicago.com/2024/06/13-man-shot-3-people-outside-chicago-bar-while-on-felony-pretrial-release.html "#13: Man shot 3 people outside Chicago bar while on felony pretrial release")
+
+[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20326%20245'%3E%3C/svg%3E)
+
+![](https://cwbchicago.com/wp-content/uploads/2023/10/Generic-Chicago-Police-Department-Squad-tape-edited-326x245.jpg)](https://cwbchicago.com/2024/06/uber-driver-is-shot-during-carjacking-on-west-side-3-people-shot-during-robberies-since-thursday.html "Uber driver is shot during carjacking on West Side; 3 people shot during robberies since Thursday")
+
+Citywide
+
+### [Uber driver is shot during carjacking on West Side; 3 people shot during robberies since Thursday](https://cwbchicago.com/2024/06/uber-driver-is-shot-during-carjacking-on-west-side-3-people-shot-during-robberies-since-thursday.html "Uber driver is shot during carjacking on West Side; 3 people shot during robberies since Thursday")
+
+[June 16, 2024 4:16 AM](https://cwbchicago.com/2024/06)
+
+An Uber driver was shot during a carjacking on the West Side yesterday evening, according to Chicago police. He is at least the third robbery victim to be shot in the city since Thursday night.[](https://cwbchicago.com/2024/06/uber-driver-is-shot-during-carjacking-on-west-side-3-people-shot-during-robberies-since-thursday.html "Uber driver is shot during carjacking on West Side; 3 people shot during robberies since Thursday")
+
+[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20313%20245'%3E%3C/svg%3E)
+
+![](https://cwbchicago.com/wp-content/uploads/2023/04/Generic-cpd-media-photo-copy-edited-313x245.jpeg)](https://cwbchicago.com/2024/06/saturday-morning-crime-spree-robbery-victim-shot-in-logan-square-carjackings-reported-in-bucktown-and-albany-park.html "Saturday morning crime spree: Robbery victim shot in Logan Square, carjackings reported in Bucktown and Albany Park")
+
+Bucktown
+
+### [Saturday morning crime spree: Robbery victim shot in Logan Square, carjackings reported in Bucktown and Albany Park](https://cwbchicago.com/2024/06/saturday-morning-crime-spree-robbery-victim-shot-in-logan-square-carjackings-reported-in-bucktown-and-albany-park.html "Saturday morning crime spree: Robbery victim shot in Logan Square, carjackings reported in Bucktown and Albany Park")
+
+[June 15, 2024 8:34 PM](https://cwbchicago.com/2024/06)
+
+Police are investigating a string of robberies and carjackings reported early Saturday morning in Bucktown, Logan Square, and the Northwest Side of the city. A victim was shot during one of the holdups. [](https://cwbchicago.com/2024/06/saturday-morning-crime-spree-robbery-victim-shot-in-logan-square-carjackings-reported-in-bucktown-and-albany-park.html "Saturday morning crime spree: Robbery victim shot in Logan Square, carjackings reported in Bucktown and Albany Park")
 
 Search
 
@@ -292,7 +292,7 @@ Email \*
 
 Message \*
 
-Name
+Comment
 
 Submit
 
