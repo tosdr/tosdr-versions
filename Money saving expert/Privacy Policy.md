@@ -813,47 +813,55 @@ This Privacy Policy explains how we use your personal information, including the
 * [Martin's Blog](#tab-01132106518-1)
 * [Deals Blog](#tab-01132106518-2)
 
-* ### [Martin Lewis: How to earn 8% interest on your savings (and possibly £200 on top, too)](https://www.moneysavingexpert.com/news/2023/12/martin-lewis-best-interest-savings/)
+* ### [Get £50 off energy standing charges with EDF's new discounted Price Cap tariff](https://www.moneysavingexpert.com/news/2024/06/edf-energy-launches-new-tracker-tariff/)
     
-    7 June 2024
+    18 June 2024
     
-    [![](/content/dam/mse/editorial-image-library/guide-images/rhs-safe-savings.jpg.rendition.320.320.jpg)](https://www.moneysavingexpert.com/news/2023/12/martin-lewis-best-interest-savings/)
+    [![](/content/dam/edf%20energy.jpg.rendition.320.320.jpg "2339632191")](https://www.moneysavingexpert.com/news/2024/06/edf-energy-launches-new-tracker-tariff/)
     
-    It’s possible to earn 8% interest on your savings – more than four times what many earn – and gain an extra £200 on top. MoneySavingExpert.com founder Martin Lewis explains how.
+    The new EDF Ensure tracker tariff is effectively a discounted version of the Price Cap that will be £50 cheaper over the year – and it does this by lowering standing charges, not unit rates.
     
-* ### [eBay to stop accepting American Express in August – be careful if you're planning to use PayPal as a workaround](https://www.moneysavingexpert.com/news/2024/06/american-express-ebay/)
+* ### [Warning: Five holiday booking scams to watch out for as £12 million a year lost to travel fraud](https://www.moneysavingexpert.com/news/2024/06/holiday-booking-scams-warning/)
     
-    6 June 2024
+    18 June 2024
     
-    [![](/content/dam/mse/editorial-image-library/guide-images/rhs-guide-images-/rhs-shopping-ebay-buying.jpg.rendition.320.320.jpg)](https://www.moneysavingexpert.com/news/2024/06/american-express-ebay/)
+    [![](/content/dam/hero%20scam.jpg.rendition.320.320.jpg)](https://www.moneysavingexpert.com/news/2024/06/holiday-booking-scams-warning/)
     
-    You'll still be able to use your Amex on eBay by going through PayPal – but be wary of doing this with large purchases, as you may lose valuable Section 75 protection.
+    If you're booking your next holiday, watch out for fake deals, clone websites and bogus cancellations, as criminals are using a variety of sophisticated methods to trick holidaymakers out of their money.
     
-* ### [Plusnet Mobile user? Switch to another provider ASAP to avoid losing your number](https://www.moneysavingexpert.com/news/2024/06/plusnet-mobile-closing-down/)
+* ### [Airports hike 'kiss and fly' charges to as much as £7 for a five-minute drop-off – how to beat them](https://www.moneysavingexpert.com/news/2024/06/airport-drop-off-charges/)
     
-    5 June 2024
+    18 June 2024
     
-    [![](/content/dam/mse/editorial-image-library/homepage/hero-homepage-mobile-phone-smartphone-talking-speaking-call.png.rendition.320.320.png)](https://www.moneysavingexpert.com/news/2024/06/plusnet-mobile-closing-down/)
+    [![](/content/dam/RHS-Card-drop-off.png.rendition.320.320.png)](https://www.moneysavingexpert.com/news/2024/06/airport-drop-off-charges/)
     
-    If you're still using a Plusnet Mobile Sim, you need to switch away as soon as possible – particularly if you want to keep the same phone number – as the provider is closing down this month.
+    Seven major airports across the UK upped the cost of dropping off passengers over the last year, a MoneySavingExpert investigation reveals – and five now charge a whopping £6 or more to let someone out at the kerb.
     
-* ### [Are you one of 577,000 who've had their Child Benefit delayed? It'll be paid on Wednesday – and if you're out of pocket you can claim](https://www.moneysavingexpert.com/news/2024/06/child-benefit-payments-delayed/)
+* ### [Nationwide to pay £100 'Fairer Share' bonus to millions of customers this month – here's who will get the payment](https://www.moneysavingexpert.com/news/2024/05/nationwide-fairer-share-members-bonus-payment/)
     
-    4 June 2024
+    18 June 2024
     
-    [![](/content/dam/mse/editorial-image-library/rhs-images/rhs-family-child-benefit.jpg.rendition.320.320.jpg)](https://www.moneysavingexpert.com/news/2024/06/child-benefit-payments-delayed/)
+    [![](/content/dam/mse/tip/rhs/RHS-nationwide-logo.png.rendition.320.320.png)](https://www.moneysavingexpert.com/news/2024/05/nationwide-fairer-share-members-bonus-payment/)
     
-    Around 577,000 Child Benefit claimants who didn't receive their monthly or weekly payments on Monday 3 June, will now receive it on the morning of Wednesday 5 June, HMRC has confirmed.
+    The £100 bonus will be paid to millions of the building society's current account customers who also have savings or a mortgage with it.
     
-* ### [Twitter/X users report bizarre glitch that takes them to MSE's car finance reclaim page – but we AREN'T behind this](https://www.moneysavingexpert.com/news/2024/05/twitter-glitch-redirecting-mse/)
+* ### [Protect cash and help more people access affordable credit, next Government urged](https://www.moneysavingexpert.com/news/2024/06/general-election-financial-inclusion-education/)
     
-    4 June 2024
+    17 June 2024
     
-    [![](/content/dam/x-twitter-hero.jpg.rendition.320.320.jpg "2336734529")](https://www.moneysavingexpert.com/news/2024/05/twitter-glitch-redirecting-mse/)
+    [![](/content/dam/rhs-pension-saving.jpg.rendition.320.320.jpg)](https://www.moneysavingexpert.com/news/2024/06/general-election-financial-inclusion-education/)
     
-    Users of the social media platform have reported that tapping on any image, video or link unexpectedly takes them to our car finance free reclaim page. To be clear: this isn't an advert, we aren't behind it, and we've reported it to X to investigate.
+    Protecting and expanding access to cash and other essential banking services – such as affordable credit – must be a priority for the next Government, according to a new report published today.
     
 
+* ### [Martin Lewis: Don't shop at Zara before you go to Spain, Greece, France or Italy](https://blog.moneysavingexpert.com/2014/05/buy-zara-clothes-at-a-fraction-of-the-cost-and-get-a-flight-thrown-in/)
+    
+    18 June 2024
+    
+    [![](/content/dam/mse/migrated/martinsblog/news-full-euros.jpg.rendition.320.320.jpg)](https://blog.moneysavingexpert.com/2014/05/buy-zara-clothes-at-a-fraction-of-the-cost-and-get-a-flight-thrown-in/)
+    
+    Update 17 July 2017: We tend to think since Brexit that the pound’s weaker than it has been for decades. While somewhat true against the dollar, against the euro it’s only a tad worse now than when I first wrote this in 2014.   The logic of this blog stands just as strongly now. On the Spanish-English website...
+    
 * ### [Martin Lewis: Get £100s of credit back from your energy firm – it's all about the Direct Debit cycle…](https://blog.moneysavingexpert.com/2024/05/martin-lewis--stop-the-rip-off---get-p100s-credit-back-p100s-fro/)
     
     28 May 2024
@@ -878,18 +886,10 @@ This Privacy Policy explains how we use your personal information, including the
     
     3 May 2024
     
-* ### [Martin Lewis on pension credit: What over-66s need to know](https://blog.moneysavingexpert.com/2022/06/martin-lewis--the-one-thing-every-aged-over-66-needs-to-know/)
-    
-    16 April 2024
-    
-    [![](/content/dam/mse/editorial-image-library/guide-images/in-guide-images/new-pension-01.png.rendition.320.320.png)](https://blog.moneysavingexpert.com/2022/06/martin-lewis--the-one-thing-every-aged-over-66-needs-to-know/)
-    
-    Nearly a million pensioners are missing out on pension credit, a vital benefit worth £1,000s a year for many, which tops up your income.
-    
 
 * ### [How to multi-destination holiday like a MoneySaver](https://www.moneysavingexpert.com/deals/deals-hunter/2024/06/how-to-multi-destination-holiday-like-a-moneysaver/)
     
-    7 June 2024
+    13 June 2024
     
     [![](/content/dam/mse/deals/MSE-Deals-Logo.png.rendition.320.320.png)](https://www.moneysavingexpert.com/deals/deals-hunter/2024/06/how-to-multi-destination-holiday-like-a-moneysaver/)
     
