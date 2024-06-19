@@ -1,3 +1,5 @@
+[NEW MEMBERS: GET YOUR FIRST 6 BOTTLES FOR $55 ($150+ VALUE)](https://www.brightcellars.com/pages/wine-quiz)[NEW IN THE SHOP: ALFRESCO BUNDLE, TOP-RATED BRANDS, & MORE!](https://www.brightcellars.com/pages/shop-all)
+
 [Text](https://www.brightcellars.com/)
 
 [0
@@ -37,7 +39,7 @@ Password
 
 Activate Account Forgot Password
 
-Log In Arrow
+Login
 
 Email
 =====
@@ -243,16 +245,14 @@ These Terms and policies incorporated herein are the entire agreement between yo
 Sip back and relax
 ------------------
 
-Let's make wine fun together. Join our wine-curious community and learn what you like.
-
- Enter your email Arrow
+Discovering new wines should be fun. Forget the rules and enjoy wine the bright way.
 
 About
 -----
 
 * [About Us](https://www.brightcellars.com/pages/about-us)
 * [Membership](https://www.brightcellars.com/pages/membership)
-* [FAQ](https://help.brightcellars.com/en-US)
+* [FAQ](https://www.brightcellars.com/pages/faq)
 * [Press & Partnerships](mailto:pr@brightcellars.com)
 
 Shop
@@ -272,7 +272,7 @@ Rewards
 INFO
 ----
 
-* [Contact Us](https://help.brightcellars.com/en-US)
+* [Contact Us](https://www.brightcellars.com/pages/faq?hcUrl=%2Fen-US%2Fcontact)
 * [Track Order](https://track.brightcellars.com/?page-name=tracking-page)
 * [Terms of Use](https://www.brightcellars.com/pages/terms)
 * [Privacy Policy](https://www.brightcellars.com/pages/privacy)
