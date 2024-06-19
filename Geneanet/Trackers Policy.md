@@ -43,7 +43,7 @@ Geneanet is ad free and your Ad Blocker may affect your Geneanet experience. We 
 * [Community](javascript:;)
     * [Search for Relatives](https://en.geneanet.org/product/cousinage)
     * [Forums](https://en.geneanet.org/forum/en)
-    * [Collaborative Assistance: Photo of a Grave](https://en.geneanet.org/entraide/)
+    * [Get a grave photo](https://en.geneanet.org/entraide/)
 * [Help](javascript:;)
     * [View all help topics](https://en.geneanet.org/help/)
 * [Galaxy Geneanet](javascript:;)
@@ -109,7 +109,7 @@ Geneanet is ad free and your Ad Blocker may affect your Geneanet experience. We 
 
 [Forums](https://en.geneanet.org/forum/en)
 
-[Collaborative Assistance: Photo of a Grave](https://en.geneanet.org/entraide/)
+[Get a grave photo](https://en.geneanet.org/entraide/)
 
 [Help](javascript:;)
 --------------------
