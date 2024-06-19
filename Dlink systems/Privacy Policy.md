@@ -295,7 +295,7 @@ Subscribe
     
     [Press Releases](https://us.dlink.com/us/en/press-centre/press-releases)
     
-    Partners
+    [Partners](https://get.us.dlink.com/partner-access/)
     
     [Contact](https://us.dlink.com/us/en/contact-d-link)
     
