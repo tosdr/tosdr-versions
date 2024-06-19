@@ -159,7 +159,7 @@ Was this article helpful?
 
 Yes No
 
-208 out of 284 found this helpful
+211 out of 288 found this helpful
 
 Need help? [Contact our support team](https://fastmail.com/support)
 
