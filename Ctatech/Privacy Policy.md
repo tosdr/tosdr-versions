@@ -355,7 +355,7 @@ If at any time you would like to contact us with your views about our privacy pr
 
 [![](/Content/Assets/img/ctaces-logo.svg)](https://www.cta.tech/)
 
-[CTA@CTA.tech](mailto: CTA@CTA.tech) [703-907-7600](tel:703-907-7600) 1919 S. Eads Street, Arlington, VA 22202 [Contact Us](https://www.cta.tech/Who-We-Are/Contact-Us)
+[703-907-7600](tel:703-907-7600) 1919 S. Eads Street, Arlington, VA 22202 [Contact Us](https://www.cta.tech/Who-We-Are/Contact-Us)
 
 [About](https://www.cta.tech/Who-We-Are) [CES.TECH](https://www.ces.tech/) [Careers](https://www.cta.tech/Who-We-Are/Work-at-CTA) [Greener Gadgets](https://www.cta.tech/Landing-Pages/Greener-Gadgets) [Store](https://shop.cta.tech/)
 
