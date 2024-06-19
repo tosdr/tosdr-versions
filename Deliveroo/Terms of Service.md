@@ -15,94 +15,6 @@ Search
 
 [Log in](https://deliveroo.nl/login?redirect=/) for your recent addresses.
 
-![](//img2.storyblok.com/filters:format(webp)/f/62776/512x255/e50bd99ee7/sushi-wide.jpg)
-
-![](//img2.storyblok.com/filters:format(webp)/f/62776/256x256/82dc7c7b73/cheesecake.jpg)
-
-![](//img2.storyblok.com/filters:format(webp)/f/62776/512x256/09c5d4671f/poke-wide.jpg)
-
-![](//img2.storyblok.com/filters:format(webp)/f/62776/512x256/31281c8e09/chicken-wide.jpg)
-
-![](//img2.storyblok.com/filters:format(webp)/f/62776/256x256/9788ec70a6/partner-fiveguys.jpg)
-
-![](//img2.storyblok.com/filters:format(webp)/f/62776/256x256/67b5ac9f34/cupcake.jpg)
-
-![](//img2.storyblok.com/filters:format(webp)/f/62776/256x256/c0900bcb47/partner-wagamama.jpg)
-
-![](//img2.storyblok.com/filters:format(webp)/f/62776/512x256/376343eac1/salad-zoomed-wide.jpg)
-
-![](//img2.storyblok.com/filters:format(webp)/f/62776/256x256/ab9081697f/partner-waitrose.jpg)
-
-![](//img2.storyblok.com/filters:format(webp)/f/62776/256x256/05c929c369/strawberries.jpg)
-
-![](//img2.storyblok.com/filters:format(webp)/f/62776/256x256/76ba414158/cola.jpg)
-
-![](//img2.storyblok.com/filters:format(webp)/f/62776/512x256/527a3b013e/ramen-wide.jpg)
-
-![](//img2.storyblok.com/filters:format(webp)/f/62776/512x255/e50bd99ee7/sushi-wide.jpg)
-
-![](//img2.storyblok.com/filters:format(webp)/f/62776/256x256/82dc7c7b73/cheesecake.jpg)
-
-![](//img2.storyblok.com/filters:format(webp)/f/62776/512x256/09c5d4671f/poke-wide.jpg)
-
-![](//img2.storyblok.com/filters:format(webp)/f/62776/512x256/31281c8e09/chicken-wide.jpg)
-
-![](//img2.storyblok.com/filters:format(webp)/f/62776/256x256/9788ec70a6/partner-fiveguys.jpg)
-
-![](//img2.storyblok.com/filters:format(webp)/f/62776/256x256/67b5ac9f34/cupcake.jpg)
-
-![](//img2.storyblok.com/filters:format(webp)/f/62776/256x256/c0900bcb47/partner-wagamama.jpg)
-
-![](//img2.storyblok.com/filters:format(webp)/f/62776/512x256/376343eac1/salad-zoomed-wide.jpg)
-
-![](//img2.storyblok.com/filters:format(webp)/f/62776/256x256/ab9081697f/partner-waitrose.jpg)
-
-![](//img2.storyblok.com/filters:format(webp)/f/62776/256x256/05c929c369/strawberries.jpg)
-
-![](//img2.storyblok.com/filters:format(webp)/f/62776/256x256/76ba414158/cola.jpg)
-
-![](//img2.storyblok.com/filters:format(webp)/f/62776/512x256/527a3b013e/ramen-wide.jpg)
-
-![](//img2.storyblok.com/filters:format(webp)/f/62776/512x256/4114eeb85b/pizza-wide.jpg)
-
-![](//img2.storyblok.com/filters:format(webp)/f/62776/512x256/357deffd34/curry-wide.jpg)
-
-![](//img2.storyblok.com/filters:format(webp)/f/62776/256x256/bc83c233c1/deliveroo-hop.jpg)
-
-![](//img2.storyblok.com/filters:format(webp)/f/62776/512x256/3fee0c3871/edamame-wide.jpg)
-
-![](//img2.storyblok.com/filters:format(webp)/f/62776/512x256/eb03fc27b1/burrito-wide.jpg)
-
-![](//img2.storyblok.com/filters:format(webp)/f/62776/512x256/e5c61788bc/sandwich-wide.jpg)
-
-![](//img2.storyblok.com/filters:format(webp)/f/62776/512x256/21834aa4e7/mozzarellasalad-wide.jpg)
-
-![](//img2.storyblok.com/filters:format(webp)/f/62776/256x256/54666f0dc9/partner-nandos.jpg)
-
-![](//img2.storyblok.com/filters:format(webp)/f/62776/512x256/6480579f84/fries-wide.jpg)
-
-![](//img2.storyblok.com/filters:format(webp)/f/62776/256x256/914ec270d0/eggs.jpg)
-
-![](//img2.storyblok.com/filters:format(webp)/f/62776/512x256/4114eeb85b/pizza-wide.jpg)
-
-![](//img2.storyblok.com/filters:format(webp)/f/62776/512x256/357deffd34/curry-wide.jpg)
-
-![](//img2.storyblok.com/filters:format(webp)/f/62776/256x256/bc83c233c1/deliveroo-hop.jpg)
-
-![](//img2.storyblok.com/filters:format(webp)/f/62776/512x256/3fee0c3871/edamame-wide.jpg)
-
-![](//img2.storyblok.com/filters:format(webp)/f/62776/512x256/eb03fc27b1/burrito-wide.jpg)
-
-![](//img2.storyblok.com/filters:format(webp)/f/62776/512x256/e5c61788bc/sandwich-wide.jpg)
-
-![](//img2.storyblok.com/filters:format(webp)/f/62776/512x256/21834aa4e7/mozzarellasalad-wide.jpg)
-
-![](//img2.storyblok.com/filters:format(webp)/f/62776/256x256/54666f0dc9/partner-nandos.jpg)
-
-![](//img2.storyblok.com/filters:format(webp)/f/62776/512x256/6480579f84/fries-wide.jpg)
-
-![](//img2.storyblok.com/filters:format(webp)/f/62776/256x256/914ec270d0/eggs.jpg)
-
 Track orders to your door
 -------------------------
 
@@ -222,4 +134,4 @@ Looking for an easy way to treat your friends and family? Give the gift of great
 
 © 2024 Deliveroo
 
-![](/anonymous_user_guid.gif?guid=e6f2bfef-abd0-409f-8f29-a2138f4c251c)
+![](/anonymous_user_guid.gif?guid=233c084d-5aec-48b0-aa8e-7f740ee10004)
