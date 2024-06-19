@@ -1,13 +1,14 @@
 Free Shipping On Orders Over €36.00
 
+[](https://eur.patpat.com/)
+
 * [New In](https://eur.patpat.com/category/new-in.html)
 * [Characters](https://eur.patpat.com/category/characters.html)
 * [Baby](https://eur.patpat.com/category/baby.html)
-* [Toddler & Kid](https://eur.patpat.com/category/toddler-kid.html)
+* [Toddler](https://eur.patpat.com/category/toddler.html)
+* [Kids](https://eur.patpat.com/category/kids.html)
 * [Matching Outfits](https://eur.patpat.com/category/matching-outfits.html)
 * [About](https://eur.patpat.com/about)
-
-[](https://eur.patpat.com/)
 
 Search[](https://eur.patpat.com/account/login)
 
