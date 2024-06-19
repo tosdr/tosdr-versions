@@ -92,6 +92,14 @@ $101.30 ~$118.60~
 
    ![](https://cdn.shopify.com/s/files/1/0053/4462/4675/files/plus_circle.svg?v=1687434603)
 
+[![Bodne Routine](//www.trulybeauty.com/cdn/shop/files/BODNE_ROUTINE_BUNDLE_pink_V3_750X937.jpg?v=1718289357)](javascript:void(0))
+
+[##### Bodne Routine](javascript:void(0))
+
+$131.40 ~$146~
+
+   ![](https://cdn.shopify.com/s/files/1/0053/4462/4675/files/plus_circle.svg?v=1687434603)
+
 [![Cooka Colada Luxury Shave Butter](//www.trulybeauty.com/cdn/shop/files/COOKACOLADA_LuxuryShaveButter_NEWFrench_pink_V2_54524dd4-322f-481c-a0ec-08bd637f5861_750X937.jpg?v=1714107560)](javascript:void(0))
 
 [##### Cooka Colada Luxury Shave Butter](javascript:void(0))
@@ -111,14 +119,6 @@ $99 ~$117~
 [![Glazed Donut Whipped Shave Butter](//www.trulybeauty.com/cdn/shop/files/GLAZEDDONUT_WhippedShaveButter_pink_V1_e9058564-c433-4d8f-a124-9e7812efbf35_750X937.jpg?v=1709285290)](javascript:void(0))
 
 [##### Glazed Donut Whipped Shave Butter](javascript:void(0))
-
-$33
-
-   ![](https://cdn.shopify.com/s/files/1/0053/4462/4675/files/plus_circle.svg?v=1687434603)
-
-[![Unicorn Fruit After Shave Moisturizer](//www.trulybeauty.com/cdn/shop/files/UNICORNFRUIT_AfterShaveMoisturizer_pink_V1_de5dfae4-9abd-47ce-890a-12477a7ea99f_750X937.jpg?v=1709285217)](javascript:void(0))
-
-[##### Unicorn Fruit After Shave Moisturizer](javascript:void(0))
 
 $33
 
@@ -217,6 +217,14 @@ $101.30 ~$118.60~
 
    ![](https://cdn.shopify.com/s/files/1/0053/4462/4675/files/plus_circle.svg?v=1687434603)
 
+[![Bodne Routine](//www.trulybeauty.com/cdn/shop/files/BODNE_ROUTINE_BUNDLE_pink_V3_750X937.jpg?v=1718289357)](javascript:void(0))
+
+[##### Bodne Routine](javascript:void(0))
+
+$131.40 ~$146~
+
+   ![](https://cdn.shopify.com/s/files/1/0053/4462/4675/files/plus_circle.svg?v=1687434603)
+
 [![Cooka Colada Luxury Shave Butter](//www.trulybeauty.com/cdn/shop/files/COOKACOLADA_LuxuryShaveButter_NEWFrench_pink_V2_54524dd4-322f-481c-a0ec-08bd637f5861_750X937.jpg?v=1714107560)](javascript:void(0))
 
 [##### Cooka Colada Luxury Shave Butter](javascript:void(0))
@@ -236,14 +244,6 @@ $99 ~$117~
 [![Glazed Donut Whipped Shave Butter](//www.trulybeauty.com/cdn/shop/files/GLAZEDDONUT_WhippedShaveButter_pink_V1_e9058564-c433-4d8f-a124-9e7812efbf35_750X937.jpg?v=1709285290)](javascript:void(0))
 
 [##### Glazed Donut Whipped Shave Butter](javascript:void(0))
-
-$33
-
-   ![](https://cdn.shopify.com/s/files/1/0053/4462/4675/files/plus_circle.svg?v=1687434603)
-
-[![Unicorn Fruit After Shave Moisturizer](//www.trulybeauty.com/cdn/shop/files/UNICORNFRUIT_AfterShaveMoisturizer_pink_V1_de5dfae4-9abd-47ce-890a-12477a7ea99f_750X937.jpg?v=1709285217)](javascript:void(0))
-
-[##### Unicorn Fruit After Shave Moisturizer](javascript:void(0))
 
 $33
 
