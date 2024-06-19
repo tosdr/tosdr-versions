@@ -4,7 +4,7 @@ Oak National Academy](https://www.thenational.academy/)
 
 [Teachers](https://www.thenational.academy/)
 
-[Pupils](https://classroom.thenational.academy/)
+[Pupils](https://www.thenational.academy/pupils/years)
 
 Oak National Academy
 
@@ -33,7 +33,7 @@ Oak National Academy
 
 #### Pupils
 
-* [Learn online](https://classroom.thenational.academy/ "Learn online (opens in a new tab)")
+* [Home](https://www.thenational.academy/pupils/years "Pupils home")
     
 
 #### Oak
@@ -56,11 +56,11 @@ Oak National Academy
 Terms and conditions
 ====================
 
-Updated 24 May 2024
+Updated 13 June 2024
 
 These terms and conditions of use apply to our website (referred to as our website) at [www.thenational.academy](https://www.thenational.academy/), which also includes the following:
 
-* [https://classroom.thenational.academy/](https://classroom.thenational.academy/)
+* [https://thenational.academy/#pupils](https://www.thenational.academy/#pupils)
 * [https://labs.thenational.academy/](https://labs.thenational.academy/)
 
 If you continue to browse or use our website, you are agreeing to comply with and be bound by the following terms and conditions of use.
@@ -87,7 +87,7 @@ We reserve the right to remove or modify your rights to use this website and our
 
 **2\. Using lesson content from our website**
 
-Our website at [https://www.thenational.academy/teachers](https://www.thenational.academy/) and [https://classroom.thenational.academy/](https://classroom.thenational.academy/) provides two collections of lesson content, which are made available on different licences.
+Our website at [https://www.thenational.academy/teachers](https://www.thenational.academy/) and [https://thenational.academy/#pupils](https://www.thenational.academy/#pupils) provides two collections of lesson content, which are made available on different licences.
 
 Lesson content consists of digital materials provided on this website including, but not limited to:
 
@@ -106,7 +106,7 @@ For support in identifying which collection lesson content belongs to and how to
 
 * **Collection 1: Lesson content which was published before September 2022**
 
-Lesson content originally published before 1st September 2022 (as part of Oak’s work pre-dating its establishment as an Arm’s Length Body), which is hosted on the [www.thenational.academy](https://www.thenational.academy/) and [https://classroom.thenational.academy/](https://classroom.thenational.academy/)
+Lesson content originally published before 1st September 2022 (as part of Oak’s work pre-dating its establishment as an Arm’s Length Body), which is hosted on the [www.thenational.academy](https://www.thenational.academy/) and [https://thenational.academy/#pupils](https://www.thenational.academy/#pupils).
 
 This is made available to you on a revocable, non-exclusive, non-transferable, limited licence to use for non-commercial educational purposes. Where Oak allows, lessons (consisting of slides, quizzes, and worksheets) may be downloaded by the user for the aforementioned purposes; however, no licence is granted for the download, recording or reproduction of lesson videos for any reason.
 
@@ -290,7 +290,7 @@ In addition, we highly value user feedback on any content generated using our AI
 Pupils
 ------
 
-* [Learn online](https://classroom.thenational.academy/)
+* [Learn online](https://www.thenational.academy/pupils/years)
     
 
 Teachers
@@ -338,13 +338,13 @@ Oak
 Legal
 -----
 
+* [Terms & conditions](https://www.thenational.academy/legal/terms-and-conditions)
+    
 * [Privacy policy](https://www.thenational.academy/legal/privacy-policy)
     
 * [Cookie policy](https://www.thenational.academy/legal/cookie-policy)
     
 * Manage cookie settings
-    
-* [Terms & conditions](https://www.thenational.academy/legal/terms-and-conditions)
     
 * [Copyright notice](https://www.thenational.academy/legal/copyright-notice)
     
