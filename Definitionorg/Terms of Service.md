@@ -25,7 +25,7 @@ ADVERTISEMENT
 ADVERTISEMENT
 
 Terms of Service
-----------------
+================
 
 This Agreement was last modified on January 1, 2016.
 
