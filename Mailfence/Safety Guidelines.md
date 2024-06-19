@@ -61,6 +61,6 @@ How to protect your account with 2FA/TOTP?
 [](https://twitter.com/mailfence "Twitter")[](https://www.facebook.com/mailfence "Facebook")[](https://www.linkedin.com/company/mailfence)[](https://www.reddit.com/r/mailfence)[](https://www.instagram.com/mailfence_/)[](https://www.youtube.com/@mailfence)
 
 ### 100% Green Energy  
-[](https://mailfence.com/en/gdpr.jsp)
+[COMPLIANT](https://mailfence.com/en/gdpr.jsp)
 
 Mailfence™ - Belgium - Europe
