@@ -102,7 +102,6 @@ Please enter a search term
     * Smart Money Strategies
         
         * [Browse All MakingCents Topics](https://www.navyfederal.org/makingcents.html)
-            * 
         * [Credit & Debt](https://www.navyfederal.org/makingcents/credit-debt.html)
             * [Credit & Debit Card Basics](https://www.navyfederal.org/makingcents/credit-debt/credit-debit-card-basics.html)
             * [Credit Score & Reports](https://www.navyfederal.org/makingcents/credit-debt/credit-scores-and-reports.html)
@@ -150,14 +149,18 @@ Please enter a search term
             * [Estate Planning](https://www.navyfederal.org/investment-services/estate-planning.html)
             * [Digital Investor](https://www.navyfederal.org/investment-services/investments/digital-investor.html)
         * [Life Insurance](https://www.navyfederal.org/investment-services/life-insurance.html)
+        * * Sign In:
+            * [Investment Account](https://mpv3.orcasnet.com/#/login/NAVY?accessor=)
+            * [Digital Investor Account](https://digitalinvestor.navyfederal.org/#/login)
+        * * [Find an Advisor](https://www.navyfederal.org/investment-services/contact.html)
         
-        [![A mother and daughter are lying on their tummies on the floor reading a book together, while dad and their son are watching a digital screen in the background](https://dm-assets.navyfederal.org/is/image/nfcu/gettyimages-1527900211?qlt=80&ts=1717081466130&dpr=off "1527900211")
+        [![A mother and daughter are lying on their tummies on the floor reading a book together, while dad and their son are watching a digital screen in the background](https://dm-assets.navyfederal.org/is/image/nfcu/gettyimages-1527900211?qlt=80&ts=1718734310234&dpr=off "1527900211")
         
         ### Simplifying Investing—for Beginners to Pros
         
         In as little as 10 minutes, you could be investing with Digital Investor’s automated or self-directed tools. Want personalized guidance? Our financial advisors can help you create an investing strategy that matches your needs and preferences.](https://www.navyfederal.org/investment-services/investments.html?intcmp=nfo|nav||nfis|invst|menu|02242024||investments|)
         
-        [![Smiling young couple using laptop while having coffee at table in cottage](https://dm-assets.navyfederal.org/is/image/nfcu/gettyimages-4995505311?qlt=80&ts=1717081466130&dpr=off "499550531")
+        [![Smiling young couple using laptop while having coffee at table in cottage](https://dm-assets.navyfederal.org/is/image/nfcu/gettyimages-4995505311?qlt=80&ts=1718734310234&dpr=off "499550531")
         
         ### 7 Investing Strategies to Multiply Your Earnings
         
