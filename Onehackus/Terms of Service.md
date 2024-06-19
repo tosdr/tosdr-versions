@@ -4,11 +4,7 @@
 
 ##### **Friendly Websites**
 
- [![FILEZU.com](https://onehack.us/uploads/default/original/3X/b/d/bde7747957dd1560693ec9846aa8bcdb645c514c.png)](https://filezu.com/ "FILEZU.com")[![[FCO]FreeCoursesOnline](https://onehack.us/uploads/default/original/3X/b/4/b4d2fc8468becec1e9976784dba394e5a378ec81.jpg)](https://www.freecoursesonline.me/ "freecoursesonline.me")
-
-* * *
-
- [![https://igg-games.com/](https://onehack.us/uploads/default/original/3X/8/e/8e07d02dea73e07f83565d89c8b585864cd2c8b0.png)](https://igg-games.com/ "https://igg-games.com/")[![https://pcgamestorrents.com/](https://onehack.us/uploads/default/original/3X/0/c/0c4f1371db011e7b69c62a0f4d82a55b9ae5e305.png)](https://pcgamestorrents.com/ "https://pcgamestorrents.com/")[![https://glodls.to/](https://onehack.us/uploads/default/original/3X/c/1/c1e3acd811bb6f3a63c80ec43b358e8a07258470.jpg)](https://glodls.to/)[![https://getintoway.com/](https://onehack.us/uploads/default/original/3X/3/9/39728d49c23b493aa8d27da9b7333e65d5074f3f.png)](https://getintoway.com/ "GetintoWAY")[![https://www.sadeempc.com/](https://onehack.us/uploads/default/original/3X/9/4/946652db1868bb530c3e596945c40339b5f6e11a.jpg)](https://www.sadeempc.com/ "sadeempc")
+ [![FILEZU.com](https://onehack.us/uploads/default/original/3X/b/d/bde7747957dd1560693ec9846aa8bcdb645c514c.png)](https://filezu.com/ "FILEZU.com")[![https://igg-games.com/](https://onehack.us/uploads/default/original/3X/8/e/8e07d02dea73e07f83565d89c8b585864cd2c8b0.png)](https://igg-games.com/ "https://igg-games.com/")[![https://pcgamestorrents.com/](https://onehack.us/uploads/default/original/3X/0/c/0c4f1371db011e7b69c62a0f4d82a55b9ae5e305.png)](https://pcgamestorrents.com/ "https://pcgamestorrents.com/")[![https://glodls.to/](https://onehack.us/uploads/default/original/3X/c/1/c1e3acd811bb6f3a63c80ec43b358e8a07258470.jpg)](https://glodls.to/)[![https://getintoway.com/](https://onehack.us/uploads/default/original/3X/3/9/39728d49c23b493aa8d27da9b7333e65d5074f3f.png)](https://getintoway.com/ "GetintoWAY")[![https://www.sadeempc.com/](https://onehack.us/uploads/default/original/3X/9/4/946652db1868bb530c3e596945c40339b5f6e11a.jpg)](https://www.sadeempc.com/ "sadeempc")
 
                          
 
@@ -81,7 +77,7 @@ Should a court of competent jurisdiction rule this Amendment provision invalid, 
 
 * [Home](https://onehack.us/)
 * [Categories](https://onehack.us/categories)
-* [FAQ/Guidelines](https://onehack.us/guidelines)
+* [Guidelines](https://onehack.us/guidelines)
 * [Terms of Use](https://forum.telugudjmusic.com/t/terms-of-service/44971)
 * [Privacy Policy](https://forum.telugudjmusic.com/t/1hack-privacy-policy/44972)
 
