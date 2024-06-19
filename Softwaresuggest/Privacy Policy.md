@@ -1,4 +1,4 @@
-[![SoftwareSuggest Logo](https://images.softwaresuggest.com/logo/sswhite.svg)](https://www.softwaresuggest.com/)
+[![SoftwareSuggest Logo](https://www.softwaresuggest.com/assets2/singleview/assets/img/homepage_new/ss_logo.svg)](https://www.softwaresuggest.com/)
 
 Categories ❯
 
@@ -6,11 +6,11 @@ Categories ❯
 
 [Add a Product](https://www.softwaresuggest.com/vendors)
 
-![Hamburger](https://www.softwaresuggest.com/assets2/mobile_view/img/hamburger.svg)
+![Hamburger](https://www.softwaresuggest.com/assets2/mobile_view/img/hamburger_home.svg)
 
-[![SoftwareSuggest Logo](https://www.softwaresuggest.com/assets2/mobile_view/img/sswhite.svg)](https://www.softwaresuggest.com/)
+[![SoftwareSuggest Logo](https://www.softwaresuggest.com/assets2/singleview/assets/img/homepage_new/SSline_logo_new.svg)](https://www.softwaresuggest.com/)
 
-![Search](https://www.softwaresuggest.com/assets2/mobile_view/img/search_icon.svg)
+![Search](https://www.softwaresuggest.com/assets2/mobile_view/img/search_icon_home.svg)
 
 SOFTWARESUGGEST PRIVACY POLICY
 ==============================
