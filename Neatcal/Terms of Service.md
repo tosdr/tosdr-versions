@@ -205,5 +205,6 @@ Last Updated: April 15, 2020
 * [Contact](https://www.neatcal.com/contact)
 * [Privacy](https://www.neatcal.com/privacy)
 * [Terms of Service](https://www.neatcal.com/tos)
+* [Google API Services Usage Disclosure](https://www.neatcal.com/google-api-disclosure)
 
 [![](img/whatsapp.png)](https://wa.me/908503090449)
