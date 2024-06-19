@@ -260,6 +260,6 @@ Find us on the store
 
 Download Emma today and join the millions of people who live a better and more fulfilling financial life.
 
-![](https://cdn.prod.website-files.com/5dc96d533f57326b74c5225b/626fc38f68b033726e788dd7_qr-code.webp)
+![](https://cdn.prod.website-files.com/5dc96d533f57326b74c5225b/666708d3f864d7bb3d62e080_qr-emma-home.svg)
 
-[![Download on the App Store](https://cdn.prod.website-files.com/5dc96d533f57326b74c5225b/5dc971735e5d7d9ccc28310e_download-app-store.webp)](https://emma-app.com/ios)[![Download on Google Play](https://cdn.prod.website-files.com/5dc96d533f57326b74c5225b/5dc97173673bd933cff5abc4_download-play-store.png)](https://emma-app.com/android)
+[![Download on the App Store](https://cdn.prod.website-files.com/5dc96d533f57326b74c5225b/5dc971735e5d7d9ccc28310e_download-app-store.webp)](https://emma-app.onelink.me/8M7H/website)[![Download on Google Play](https://cdn.prod.website-files.com/5dc96d533f57326b74c5225b/5dc97173673bd933cff5abc4_download-play-store.png)](https://emma-app.onelink.me/8M7H/website)
