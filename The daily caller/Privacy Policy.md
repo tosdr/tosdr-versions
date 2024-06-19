@@ -304,37 +304,39 @@ Copyright (c) 2018, The Daily Caller, Inc.
 
 TRENDING
 
-[![](/files/images/1x1.trans.gif)](https://dailycaller.com/2024/06/08/luden-roberts-phones-crashed-hunter-biden-pregnancy-megyn-kelly/ "‘A Total Meltdown’: Lunden Roberts Claims Phone ‘Crashed,’ ‘Everything’ With Hunter Biden ‘Gone’ After Pregnancy Discovery")
+[![](/files/images/1x1.trans.gif)
+
+BLOG](https://dailycaller.com/2024/06/18/zyn-nicotine-pouches-shipping-ban-washington-dc-flavored-tobacco-philip-morris/ "D.C. Bureaucrats Have Unleashed A Hell On American Men They May Come To Regret")
 
 1
 
-[‘A Total Meltdown’: Lunden Roberts Claims Phone ‘Crashed,’ ‘Everything’ With Hunter Biden ‘Gone’ After Pregnancy Discovery](https://dailycaller.com/2024/06/08/luden-roberts-phones-crashed-hunter-biden-pregnancy-megyn-kelly/)
+[D.C. Bureaucrats Have Unleashed A Hell On American Men They May Come To Regret](https://dailycaller.com/2024/06/18/zyn-nicotine-pouches-shipping-ban-washington-dc-flavored-tobacco-philip-morris/)
 
-Politics
+Health
 
 2
 
-[The Winners And Losers Of Trump's VP Shortlist](https://dailycaller.com/2024/06/07/winners-losers-trump-vp-shortlist/)
+[Whoopi Goldberg Says She Ate Cat Treats In Middle Of The Night](https://dailycaller.com/2024/06/17/whoopi-goldberg-cat-treats-the-view-vatican-pope-francis-dots-pretzels/)
 
-Analysis
+Media
 
 3
 
-[Biden Admin Quietly Injecting Radical Policies Into Housing Market — And It Might Bring The Whole System Down](https://dailycaller.com/2024/06/08/biden-admin-radical-policies-housing-market-system/)
+['You're Gonna Be Embarrassed': Jim Acosta And CNN Commentator Fact-Check Dem Strategist In Real Time](https://dailycaller.com/2024/06/18/jim-acosta-cnn-commentator-fact-check-dem-strategist/)
 
-Business
+Media
 
 4
 
-[Jake Paul Vs Mike Tyson Fight Is Back On](https://dailycaller.com/2024/06/07/jake-paul-vs-mike-tyson-fight-is-back-on/)
+['We See What's Going On': Americans Call Into Popular Hip-Hop Radio Show To Attack Dems And 'Demented' Biden](https://dailycaller.com/2024/06/18/we-see-whats-going-on-americans-call-into-popular-hip-hop-radio-show-to-attack-dems-and-demented-biden/)
 
-Editorial
+Media
 
 5
 
-[Injury Suffered By Police Officer Which Could Have Sent World's No. 1 Golfer To Jail Revealed](https://dailycaller.com/2024/06/08/bryan-gillis-injury-scottie-scheffler-arrest/)
+[State Bar Association Issues Warning To Lawyers Who Speak Out Against Trump's Prosecution](https://dailycaller.com/2024/06/17/state-bar-association-warning-lawyers-jonathan-turley-donald-trump-prosecution/)
 
-Sports
+Politics
 
 [![The Daily Caller logo](/files/images/logo-white.png)](https://dailycaller.com/ "To home page")
 
