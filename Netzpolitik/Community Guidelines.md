@@ -9,6 +9,7 @@
 * [Aktuell](https://netzpolitik.org/aktuell/)
 * [Recherchen](https://netzpolitik.org/dossiers-recherchen/)
 * [Podcast](https://netzpolitik.org/podcast/)
+* [Konferenz](https://netzpolitik.org/bildet-netze/)
 * [Newsletter](https://netzpolitik.org/newsletter)
 * [Spenden](https://netzpolitik.org/spenden/?via=menue)
 * [Shop](https://netzpolitik.org/shop)
