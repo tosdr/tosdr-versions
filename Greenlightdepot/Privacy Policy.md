@@ -112,6 +112,10 @@ Free shipping over $99
         * [4"](https://greenlightdepot.com/collections/4-downlight)
         * [6"](https://greenlightdepot.com/collections/6-downlight)
         * [8"](https://greenlightdepot.com/collections/8-downlight)
+    * ##### [Flush Mounts](https://greenlightdepot.com/collections/flush-mounts)
+        
+        * [Double Ring](https://greenlightdepot.com/collections/double-ring)
+        * [Mushroom](https://greenlightdepot.com/collections/mushroom)
     
 * [Find Rebates](https://greenlightdepot.com/pages/find-rebates)
     * [Rebate Program](https://greenlightdepot.com/pages/encentivizer)
