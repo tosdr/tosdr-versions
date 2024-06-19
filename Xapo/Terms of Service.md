@@ -223,7 +223,7 @@ Oops! Something went wrong while submitting the form.
 
 ### Discover
 
-[About](https://static.xapo.com/about-us)[Careers](https://static.xapo.com/careers)[Help Centre](https://customersupport.xapo.com/)[Contact](https://static.xapo.com/contact-us)[Make a complaint](https://customersupport.xapo.com/en_us/make-a-complaint-rJSfTOAW0)[Fees](https://legal.xapobank.com/fees/fees)
+[About](https://static.xapo.com/about-us)[Refer a friend](https://static.xapo.com/refer-a-friend)[Careers](https://static.xapo.com/careers)[Help Centre](https://customersupport.xapo.com/)[Contact](https://static.xapo.com/contact-us)[Make a complaint](https://customersupport.xapo.com/en_us/make-a-complaint-rJSfTOAW0)[Fees](https://legal.xapobank.com/fees/fees)
 
 ### Legal
 
@@ -255,7 +255,7 @@ Any translation of our website into any language other than English is for conve
 
 3
 
-Capital at risk. This information is not investment advice. Security values can go up as well as down. Past performance is not indicative of future results. Crypto assets are high risk and can lose all their value. To check if U.S. Stocks is available in your country, please visit our [Help Centre](https://customersupport.xapo.com/en_us/which-countries-is-u-s-stocks-available-S1HHME9Qa).
+Capital at risk. This information is not investment advice. Security values can go up as well as down. Past performance is not indicative of future results. To check if U.S. Stocks is available in your country, please visit our [Help Centre](https://customersupport.xapo.com/en_us/which-countries-is-u-s-stocks-available-S1HHME9Qa).
 
 4 Capital at risk. This information is not investment advice. Crypto asset values can go up as well as down and you could lose all the money you invest. This is a high‑risk investment and you are not protected if it loses all or some of its value. Past performance is not indicative of future results. Bitcoin deposits are not covered by the Gibraltar Deposit Guarantee Scheme.
 
