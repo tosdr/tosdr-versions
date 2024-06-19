@@ -44,10 +44,6 @@
 
 We’re on a mission to accelerate a net-zero carbon future by transforming the way people access clean energy
 
-[![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2725%27%20height=%2741%27/%3e)![Inspire is a Certified B Corporation.](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-
-![Inspire is a Certified B Corporation.](/_next/static/media/bcorp-nav.b9309843.svg)](https://bcorporation.net/directory/inspire)
-
 Inspire Privacy Policy
 ======================
 
