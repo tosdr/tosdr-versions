@@ -101,9 +101,9 @@ HARDSTONE PSYCHO](https://www.albumoftheyear.org/album/905366-don-toliver-hardst
 
 NR
 
-[Charli xcx
+[JPEGMAFIA
 
-Brat and it's the same but there's three more songs so it's not](https://www.albumoftheyear.org/album/981047-charli-xcx-brat-and-its-the-same-but-theres-three-more-songs-so-its-not.php)
+don't rely on other men](https://www.albumoftheyear.org/album/987002-jpegmafia-dont-rely-on-other-men.php)
 
 72
 
@@ -111,23 +111,25 @@ Brat and it's the same but there's three more songs so it's not](https://www.alb
 
 DOPAMINE](https://www.albumoftheyear.org/album/882190-normani-dopamine.php)
 
-90
-
-[Ulcerate
-
-Cutting the Throat of God](https://www.albumoftheyear.org/album/901868-ulcerate-cutting-the-throat-of-god.php)
-
-60
+65
 
 [$uicideboy$
 
 New World Depression](https://www.albumoftheyear.org/album/899681-suicideboys-new-world-depression.php)
+
+92
+
+[Ulcerate
+
+Cutting the Throat of God](https://www.albumoftheyear.org/album/901868-ulcerate-cutting-the-throat-of-god.php)
 
 [More Releases](https://www.albumoftheyear.org/releases/this-week/)
 
 [Recent Best Music](https://www.albumoftheyear.org/discover/top-rated/)
 
 [View More](https://www.albumoftheyear.org/discover/top-rated/)
+
+[![Ulcerate - Cutting the Throat of God](https://cdn.albumoftheyear.org/images/clear.gif)](https://www.albumoftheyear.org/album/901868-ulcerate-cutting-the-throat-of-god.php "Ulcerate - Cutting the Throat of God")
 
 [![Charli xcx - BRAT](https://cdn.albumoftheyear.org/images/clear.gif)](https://www.albumoftheyear.org/album/887267-charli-xcx-brat.php "Charli xcx - BRAT")
 
@@ -139,13 +141,11 @@ New World Depression](https://www.albumoftheyear.org/album/899681-suicideboys-ne
 
 [![Jessica Pratt - Here in the Pitch](https://cdn.albumoftheyear.org/images/clear.gif)](https://www.albumoftheyear.org/album/874771-jessica-pratt-here-in-the-pitch.php "Jessica Pratt - Here in the Pitch")
 
+[![Arooj Aftab - Night Reign](https://cdn.albumoftheyear.org/images/clear.gif)](https://www.albumoftheyear.org/album/928256-arooj-aftab-night-reign.php "Arooj Aftab - Night Reign")
+
 [![Beth Gibbons - Lives Outgrown](https://cdn.albumoftheyear.org/images/clear.gif)](https://www.albumoftheyear.org/album/863906-beth-gibbons-lives-outgrown.php "Beth Gibbons - Lives Outgrown")
 
 [![Billie Eilish - HIT ME HARD AND SOFT](https://cdn.albumoftheyear.org/images/clear.gif)](https://www.albumoftheyear.org/album/924853-billie-eilish-hit-me-hard-and-soft.php "Billie Eilish - HIT ME HARD AND SOFT")
-
-[![Arooj Aftab - Night Reign](https://cdn.albumoftheyear.org/images/clear.gif)](https://www.albumoftheyear.org/album/928256-arooj-aftab-night-reign.php "Arooj Aftab - Night Reign")
-
-[![Shellac - To All Trains](https://cdn.albumoftheyear.org/images/clear.gif)](https://www.albumoftheyear.org/album/907210-shellac-to-all-trains.php "Shellac - To All Trains")
 
 Advertisement
 
