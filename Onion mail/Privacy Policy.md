@@ -6,6 +6,7 @@ Toggle navigation [![Onion Mail - Encrypted & Anonymous email](/favicon-32x32.pn
 * [About](https://onionmail.org/about)
 * [Helpdesk](https://helpdesk.onionsearchengine.com/)
 * [FAQ](https://faq.onionmail.org/)
+* [Report Abuse](https://whistleblowing.onionmail.org/)
 * [Privacy Policy](https://onionmail.org/privacy)
 * [Create account](https://onionmail.org/account/create)
 * [Log in](https://onionmail.org/account/login)
