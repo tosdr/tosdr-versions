@@ -7,7 +7,7 @@
 * [In The News](https://www.prettylitter.com/press)
 * [Log In](https://www.prettylitter.com/)
 
-![](https://res.cloudinary.com/prettylitter/image/upload/w_auto,q_auto,f_svg,dpr_2/icons/flags/en_circle)
+![Français (Canada) English Flag](https://res.cloudinary.com/prettylitter/image/upload/w_auto,q_auto,f_svg,dpr_2/icons/flags/en_circle)English
 
 [Log in](https://myaccount.prettylitter.com/)[Get Started](https://www.prettylitter.com/get-started)
 
@@ -16,7 +16,7 @@
 * [In The News](https://www.prettylitter.com/press)
 * [Log In](https://myaccount.prettylitter.com/)
 
-![](https://res.cloudinary.com/prettylitter/image/upload/w_auto,q_auto,f_svg,dpr_2/icons/flags/en_circle)
+![Français (Canada) English Flag](https://res.cloudinary.com/prettylitter/image/upload/w_auto,q_auto,f_svg,dpr_2/icons/flags/en_circle)English
 
 [Get Started](https://www.prettylitter.com/get-started)
 
@@ -118,20 +118,20 @@ PrettyLitter subscribers can cancel their subscriptions and edit or modify an up
 
 Once your change request is processed, a new order will automatically process as scheduled and be shipped to the delivery address on file, unless canceled.
 
-![](https://res.cloudinary.com/prettylitter/image/upload/w_auto,q_auto,f_auto,dpr_2/pages/pl_color_guide)
+![PrettyLitter, cat, and bowl of litter with colored spots](https://res.cloudinary.com/prettylitter/image/upload/w_auto,q_auto,f_auto,dpr_2/pages/pl_color_guide)
 
 The Smarter, More Convenient Cat Litter
 ---------------------------------------
 
-![](https://res.cloudinary.com/prettylitter/image/upload/w_auto,q_auto,f_svg,dpr_2/icons/icon_health_monitoring_primary)
+![Health indicator icon](https://res.cloudinary.com/prettylitter/image/upload/w_auto,q_auto,f_svg,dpr_2/icons/icon_health_monitoring_primary)
 
 Health Monitoring
 
-![](https://res.cloudinary.com/prettylitter/image/upload/w_auto,q_auto,f_svg,dpr_2/icons/icon_odor_control_blue)
+![Absorbent icon](https://res.cloudinary.com/prettylitter/image/upload/w_auto,q_auto,f_svg,dpr_2/icons/icon_odor_control_blue)
 
 Advanced Odor Control
 
-![](https://res.cloudinary.com/prettylitter/image/upload/w_auto,q_auto,f_svg,dpr_2/icons/icon_delivery_primary)
+![Fast delivery icon](https://res.cloudinary.com/prettylitter/image/upload/w_auto,q_auto,f_svg,dpr_2/icons/icon_delivery_primary)
 
 Hassle-Free Delivery
 
