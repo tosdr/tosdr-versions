@@ -11,8 +11,8 @@
     * [Our Instructors](https://www.mathnasium.com/our-instructors)
     * [Results](https://www.mathnasium.com/our-results)
     * [Our History](https://www.mathnasium.com/our-history)
-* [Programs](https://www.mathnasium.com/learning-paths)
-    * [Overview of Programs](https://www.mathnasium.com/learning-paths)
+* [Programs](#)
+    * [Overview of Programs](https://www.mathnasium.com/math-programs)
         
     * * * *
         
@@ -268,7 +268,7 @@ Get Started by Finding a Local Center
 [Download Parent Pack](https://www.mathnasium.com/storage/app/uploads/public/62d/edc/585/62dedc5854fd8651300972.pdf)
 
 * [Mathnasium Method](https://www.mathnasium.com/mathnasium-method)
-* [Programs](https://www.mathnasium.com/learning-paths)
+* [Programs](https://www.mathnasium.com/math-programs)
 * [International Locations](https://www.mathnasium.com/location-international)
 * [Contact Us](https://www.mathnasium.com/contact-us)
 
@@ -283,7 +283,7 @@ Get Started by Finding a Local Center
 * [Blog](https://www.mathnasium.com/blog)
 
 * [Mathnasium Method](https://www.mathnasium.com/mathnasium-method)
-* [Programs](https://www.mathnasium.com/learning-paths)
+* [Programs](https://www.mathnasium.com/math-programs)
 * [International Locations](https://www.mathnasium.com/location-international)
 * [Contact Us](https://www.mathnasium.com/contact-us)
 * [Our Instructors](https://www.mathnasium.com/our-instructors)
