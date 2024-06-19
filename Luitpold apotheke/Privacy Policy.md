@@ -247,6 +247,12 @@ Kategorien durchsuchen
 Meist verkaufte Produkte
 
 * [Alle anzeigen](https://www.medikamente-per-klick.de/listtopseller)
+* [NASENSPRAY-ratiopharm Erwachsene kons.frei](https://www.medikamente-per-klick.de/nasenspray-ratiopharm-erwachsene-kons-frei-15ml-00999848)
+    
+    3,23 €\*
+    
+     1
+    
 * [NASENSPRAY-ratiopharm Kinder kons.frei](https://www.medikamente-per-klick.de/nasenspray-ratiopharm-kinder-kons-frei-10ml-00999854)
     
     1,85 €\*
@@ -268,12 +274,6 @@ Meist verkaufte Produkte
 * [NASENSPRAY RATIO ERW - DOPPELPACK](https://www.medikamente-per-klick.de/nasenspray-ratiopharm-2x15ml-81004356)
     
     6,16 €\*
-    
-     
-    
-* [Paracetamol ratiopharm 500mg - bei Fieber](https://www.medikamente-per-klick.de/paracetamol-ratiopharm-500-mg-tabletten-20st-01126111)
-    
-    1,60 €\*
     
      1
     
@@ -300,25 +300,25 @@ Mo-Fr 8:00 - 17:00
 
 Klick des Tages
 
-[AVENE Sonnencreme SPF 50+ ohne Duftstoffe 50ml](https://www.medikamente-per-klick.de/product?artnr=17293354&simpleContentAttachmentId=14183&wochenklick)  
-\*\*\*Sonderpreis\*\*\*  
-[![Sonderpreis](/images/products/medikamenteperklick/mittel/17293354_m.jpg "Sonderpreis")](https://www.medikamente-per-klick.de/product?artnr=17293354&simpleContentAttachmentId=14183&wochenklick)
+[Ladival allergische Haut Sonnenschutzgel LSF30 200ml](https://www.medikamente-per-klick.de/product?artnr=03373492&simpleContentAttachmentId=14183&wochenklick)  
+\*\*\*inkl. 2EUR Aktionsrabatt - Sonderpreis\*\*\*  
+[![Sonderpreis](/images/products/medikamenteperklick/mittel/03373492_m.jpg "Sonderpreis")](https://www.medikamente-per-klick.de/product?artnr=03373492&simpleContentAttachmentId=14183&wochenklick)
 
 UVP2:
 
-23,90 €\*
+24,30 €\*
 
 Ihr Preis:
 
-18,04 €\*
+12,45 €\*
 
 Sie sparen:
 
-5,86 € \-25%
+11,85 € \-49%
 
-2024-06-08 10:00:00
+2024-06-24 09:00:00
 
-[Jetzt sichern](https://www.medikamente-per-klick.de/quickAddProductsToCart?pzn=17293354&quantity=1&simpleContentAttachmentId=14183&Wochenklick)
+[Jetzt sichern](https://www.medikamente-per-klick.de/quickAddProductsToCart?pzn=03373492&quantity=1&simpleContentAttachmentId=14183&Wochenklick)
 
 layoutStyle2
 
@@ -357,6 +357,12 @@ Auszeichnung von n-tv & DISQ
 **
 
 [_Hier weiterlesen_](https://www.medikamente-per-klick.de/n-tv_DISQ_Preis "n-tv_DISQ Auszeichnung")
+
+Service & Info
+
+* [![Magnesium Verla](/images/generic_attachments/attachments/medikamenteperklick/Verla-190x60.jpg "Magnesium Verla")](https://www.medikamente-per-klick.de/themenshops/mineralstoffe-vitamine/magnesium-verla)
+* [![Doppelherz Kollagen Beauty](/images/generic_attachments/attachments/medikamenteperklick/Kollagen_190x60_Headline.jpg "Doppelherz Kollagen Beauty")](https://www.medikamente-per-klick.de/product?artnr=13332904)
+* [![zum Partnershop - Saniklick](/images/generic_attachments/attachments/medikamenteperklick/sani2.jpg "zum Partnershop - Saniklick")](https://www.saniklick.de/)
 
 Unsere Marken
 
@@ -603,4 +609,4 @@ Haben Sie bitte auch dafür Verständnis, dass wir aus Datenschutzgründen Ausk�
 
 ![](https://www.facebook.com/tr?id=338982736604254&ev=PageView&noscript=1)
 
-![](https://c.paypal.com/v1/r/d/b/ns?f=bihawdeipqwmosskljhajpxeqyncjcej&s=MedikamentePerKlick_53G7W4P47GKSG_RT&js=0&r=1)
+![](https://c.paypal.com/v1/r/d/b/ns?f=fgpqbadwjjtgqykugaajahaifwlafspk&s=MedikamentePerKlick_53G7W4P47GKSG_RT&js=0&r=1)
