@@ -81,6 +81,7 @@ This will direct you to an external website.](https://www.rate.com/insurance)
 
 ### Mortgage
 
+* [Current rates](https://www.rate.com/mortgage-rates)
 * Mortgage resources
 * Refinance & homeownership
 * Loan Options
