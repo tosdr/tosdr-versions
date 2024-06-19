@@ -71,6 +71,7 @@ Reject Cookies
         * [Utilities](https://www.nrla.org.uk/services/utilities)
         * [Lettings](https://www.nrla.org.uk/services/lettings/leaders-romans-group)
         * [Property Fraud](https://www.nrla.org.uk/services/titleguardian)
+        * [Sales & Auctions](https://www.nrla.org.uk/services/sdl-property-auctions)
     * Pre Tenancy Services
         
         * [Advertising & Viewings](https://www.nrla.org.uk/services/advertising-and-viewings)
