@@ -141,7 +141,7 @@ Featured Job Allows Referral
 Job Details | H&R Block
 =======================
 
-View application statusView your applications {{tgSettings.JobDetailsApplyButtonText}}
+View application statusView your applications {{tgSettings.JobDetailsApplyButtonText}} Easy Apply
 
 Save {{jobDetailsButtonText}} Refer Show related jobs
 
