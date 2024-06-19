@@ -19,7 +19,7 @@ Menu
     * [Tools](https://www.how2shout.com/category/tools "Software")
     * [What is?](https://www.how2shout.com/category/what-is "Information")
     * [Apps](https://www.how2shout.com/category/apps)
-* [Linux](https://www.how2shout.com/linux)
+* [Linux](https://linux.how2shout.com/)
 * [Alternatives](https://www.how2shout.com/alternatives/)
 * [Video Saver](https://www.how2shout.com/url-online-video-downloader/)
 
@@ -40,7 +40,7 @@ Menu
     * [Tools](https://www.how2shout.com/category/tools "Software")
     * [What is?](https://www.how2shout.com/category/what-is "Information")
     * [Apps](https://www.how2shout.com/category/apps)
-* [Linux](https://www.how2shout.com/linux)
+* [Linux](https://linux.how2shout.com/)
 * [Alternatives](https://www.how2shout.com/alternatives/)
 * [Video Saver](https://www.how2shout.com/url-online-video-downloader/)
 
