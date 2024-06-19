@@ -40,7 +40,7 @@
     
 * [Suche](# "Suche")
 
- [![](https://www.mietwagen-talk.de/images/styleLogo-acc32a7f008a35818415cc69ce910e2ab6d4ed88.png) ![](https://www.mietwagen-talk.de/images/styleLogo-mobile-073c73ff12ddad755f58b89e3404a3f857aff653.png)](https://www.mietwagen-talk.de/)
+ [![](https://www.mietwagen-talk.de/images/styleLogo-mobile-073c73ff12ddad755f58b89e3404a3f857aff653.png) ![](https://www.mietwagen-talk.de/images/styleLogo-mobile-073c73ff12ddad755f58b89e3404a3f857aff653.png)](https://www.mietwagen-talk.de/)
 
   
 
