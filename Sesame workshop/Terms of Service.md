@@ -1,3 +1,5 @@
+Courses on Sesame Workshop will be temporarily unavailable from June 26 to July 8 for maintenance. [Click here for more info](https://sesameworkshop.org/resources/courses-and-webinars/#course-alert "Click here for more info")
+
 [Skip to content](#start-of-content)
 
 [![Sesame Workshop](https://sesameworkshop.org/wp-content/themes/sesame-workshop/images/logo_full_color.svg)](https://www.sesameworkshop.org/)
@@ -237,13 +239,14 @@ Search
 
 [Sign In](#sign-in) [Donate](https://fundraiser.sesameworkshop.org/donate-main/Donate?rbref=wb_ssw_swwb_yymm)
 
-[Legal Statement](https://sesameworkshop.org/about-us/legal/legal-statement/) [Privacy Policy](https://sesameworkshop.org/about-us/legal/privacy-policy/) [Terms of Use](https://sesameworkshop.org/about-us/legal/terms-of-use/) [Ventures Submission Rules](https://sesameworkshop.org/about-us/legal/submission-rules/)
+[Legal Statement](https://sesameworkshop.org/about-us/legal/legal-statement/) [Privacy Policy](https://sesameworkshop.org/about-us/legal/privacy-policy/) [Terms of Use](https://sesameworkshop.org/about-us/legal/terms-of-use/) [Ventures Submission Rules](https://sesameworkshop.org/about-us/legal/submission-rules/) [Report Wrongdoings](https://sesameworkshop.org/whistleblower-information/)
 
 Terms of Use
 
 * [Legal Statement](https://sesameworkshop.org/about-us/legal/legal-statement/)
 * [Privacy Policy](https://sesameworkshop.org/about-us/legal/privacy-policy/)
 * [Ventures Submission Rules](https://sesameworkshop.org/about-us/legal/submission-rules/)
+* [Report Wrongdoings](https://sesameworkshop.org/whistleblower-information/)
 
 ### Terms of Use
 
@@ -392,7 +395,7 @@ Follow Us[](https://www.instagram.com/sesameworkshop/ "Instagram")[](https://www
 * [Corporate and Institutional Giving](https://sesameworkshop.org/support-us/corporate-giving/ "Corporate and Institutional Giving")
 * [Impact Report](https://sesameworkshop.org/about-us/financials/impact-report/ "Impact Report")
 
-[![Google is a proud partner of Sesame Street](https://sesameworkshop.org/wp-content/uploads/2024/01/BannerAd_728x90_240126.gif)](https://families.google/)
+[![Beaches Resorts Sponsorship](https://sesameworkshop.org/wp-content/uploads/2023/03/BCH-10911-CARIB-PLAYGR-SESAMESTREET-728X90_LO4_cf_jas_Opt.jpg)](https://www.beaches.com/?utm_source=sesamestreet&utm_medium=display&utm_content=Beaches&utm_campaign=2023sst728X90)
 
  [![2023 Gold GuideStar Seal of Transparency](https://sesameworkshop.org/wp-content/themes/sesame-workshop/images/footer/seal_of_transparency.png)](https://www.guidestar.org/profile/13-2655731)[![2020 GlobalGiving Top-Ranked Organization](https://sesameworkshop.org/wp-content/themes/sesame-workshop/images/footer/globalgiving_topranked.png)](https://www.globalgiving.org/)[![BBB Accredited Charity](https://sesameworkshop.org/wp-content/themes/sesame-workshop/images/footer/bbb.png)](https://www.bbb.org/new-york-city/charity-reviews/charity-children-and-youth/sesame-workshop-in-new-york-ny-153900/#sealclick)
 
@@ -404,4 +407,5 @@ Legal
 
 * [Privacy Policy/Your California Privacy Rights](https://sesameworkshop.org/about-us/legal/privacy-policy/ "Privacy Policy/Your California Privacy Rights")
 * [Terms of Use](https://sesameworkshop.org/about-us/legal/terms-of-use/ "Terms of Use")
+* [Report Wrongdoings](https://sesameworkshop.org/whistleblower-information/ "Report Wrongdoings")
 * Cookie Preferences
