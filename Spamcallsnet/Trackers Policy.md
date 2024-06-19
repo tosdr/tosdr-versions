@@ -393,25 +393,25 @@ Submit
 
  [![0091](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.4.6/flags/4x3/in.svg) +91 (Country Code)](https://spamcalls.net/en/country-code/91)
 
- [![0044](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.4.6/flags/4x3/gb.svg) +44 (Country Code)](https://spamcalls.net/en/country-code/44)
-
  [![0063](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.4.6/flags/4x3/ph.svg) +63 (Country Code)](https://spamcalls.net/en/country-code/63)
 
  [![0062](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.4.6/flags/4x3/id.svg) +62 (Country Code)](https://spamcalls.net/en/country-code/62)
 
- [![0095](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.4.6/flags/4x3/mm.svg) +95 (Country Code)](https://spamcalls.net/en/country-code/95)
+ [![0044](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.4.6/flags/4x3/gb.svg) +44 (Country Code)](https://spamcalls.net/en/country-code/44)
 
- [![0027](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.4.6/flags/4x3/za.svg) +27 (Country Code)](https://spamcalls.net/en/country-code/27)
+ [![0061](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.4.6/flags/4x3/cx.svg) +61 (Country Code)](https://spamcalls.net/en/country-code/61)
 
  [![0061](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.4.6/flags/4x3/au.svg) +61 (Country Code)](https://spamcalls.net/en/country-code/61)
 
  [![0061](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.4.6/flags/4x3/cc.svg) +61 (Country Code)](https://spamcalls.net/en/country-code/61)
 
- [![0061](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.4.6/flags/4x3/cx.svg) +61 (Country Code)](https://spamcalls.net/en/country-code/61)
+ [![0086](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.4.6/flags/4x3/cn.svg) +86 (Country Code)](https://spamcalls.net/en/country-code/86)
 
- [![0032](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.4.6/flags/4x3/be.svg) +32 (Country Code)](https://spamcalls.net/en/country-code/32)
+ [![00359](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.4.6/flags/4x3/bg.svg) +359 (Country Code)](https://spamcalls.net/en/country-code/359)
 
- [![0020](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.4.6/flags/4x3/eg.svg) +20 (Country Code)](https://spamcalls.net/en/country-code/20)
+ [![00234](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.4.6/flags/4x3/ng.svg) +234 (Country Code)](https://spamcalls.net/en/country-code/234)
+
+ [![00374](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.4.6/flags/4x3/am.svg) +374 (Country Code)](https://spamcalls.net/en/country-code/374)
 
 ##### SpamCalls.net
 
