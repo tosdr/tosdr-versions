@@ -1,4 +1,4 @@
-![](https://p.alocdn.com/c/mm7och2x/a/etarget/p.gif?label=journeyhlthlife)                           
+![](https://p.alocdn.com/c/mm7och2x/a/etarget/p.gif?label=journeyhlthlife)                      
 
 [Skip to content](#MainContent)
 
@@ -455,13 +455,13 @@ Zone Comparison
 
 Two Zones of Relaxation for Classic Comfort
 
-![Two Zones](//www.shopjourney.com/cdn/shop/t/75/assets/two_zones.png?25061)
+![Two Zones](//www.shopjourney.com/cdn/shop/t/75/assets/two_zones.png?25748)
 
 Five Zones of Relaxation for Ultimate Enjoyment
 
 ![Five Zones](//www.shopjourney.com/cdn/shop/t/75/assets/five_zones_1.png?v=124282190077680381891706812487) ![Five Zones](//www.shopjourney.com/cdn/shop/t/75/assets/five_zones_2.png?v=37361761019131244961706812487)
 
-The Perfect Sleep Chair® can ship only within the 48 contiguous states. Please allow approximately 3 - 6 weeks for delivery.
+The Perfect Sleep Chair® can ship only within the 48 contiguous states. Please allow approximately 3 - 6 weeks for White Glove delivery, and approximately 7 - 10 days for Threshold delivery.
 
 Quantity Subtract Quantity  Quantity Add
 
@@ -575,6 +575,10 @@ Click on the examples below to see larger swatches.
 
 Product Specifications
 
+[**Click here to watch the unboxing and assembling of the Perfect Sleep Chair. (2:50)**](#)
+
+  
+
   
 
 [DOWNLOAD PERFECT SLEEP CHAIR SPECS](https://cdn.shopify.com/s/files/1/0556/3016/8147/files/PSC_Comparison_Sheet_12-13-23.pdf?v=1707502472)
@@ -676,7 +680,13 @@ So who can benefit from a lift chair? It’s simple: everyone!
 
 Shipping & Returns
 
-When your chair is delivered, if you find it to be damaged or defective in any way, we'll be happy to repair or replace it. For more questions regarding returns, please feel free to contact our Customer Service Department at 800-958-8324.
+When your chair is delivered, if you find it to be damaged or defective in any way, we'll be happy to repair or replace it. For more questions regarding returns, please feel free to contact our Customer Service Department at 800-958-8324.  
+  
+**Threshold Delivery**  
+We deliver your product to your home in a brown box, ready for you to unpack and assemble in a few easy steps.  
+  
+**White Glove Delivery**  
+We deliver your product, set it up where you want it, and haul away all packaging material.
 
 Frequently Asked Questions
 
@@ -842,7 +852,7 @@ Sort Most RecentOldestMost HelpfulPhotos & VideosHighest RatingLowest RatingLeas
     
     Was this helpful?
     
-    Yes, this review was helpful. 16 people voted yesNo, this review was not helpful 2 people voted no
+    Yes, this review was helpful. 17 people voted yesNo, this review was not helpful 2 people voted no
     
     **JH** 
     
@@ -878,7 +888,7 @@ Sort Most RecentOldestMost HelpfulPhotos & VideosHighest RatingLowest RatingLeas
     
     Was this helpful?
     
-    Yes, this review was helpful. 31 people voted yesNo, this review was not helpful 4 people voted no
+    Yes, this review was helpful. 33 people voted yesNo, this review was not helpful 4 people voted no
     
 * **Ray P.**
     
@@ -965,7 +975,7 @@ Loading...
 
 Loading...
 
-[Show More](https://www.perfectsleepchair.com/privacy-policy/?okeReviewsNextUrl=%252Fstores%252F8621a839-7b05-4bd3-a484-ab0b23489b38%252Fproducts%252Fshopify-7199302877267%252Freviews%253Flimit%253D5%2526orderBy%253Ddate%252520desc%2526lastEvaluated%253D%25257B%252522subscriberId%252522%25253A%2525228621a839-7b05-4bd3-a484-ab0b23489b38%252522%25252C%252522dateCreated%252522%25253A%2525222023-09-10T21%25253A55%25253A06.290Z%252522%25252C%252522subscriberId_productId%252522%25253A%2525228621a839-7b05-4bd3-a484-ab0b23489b38%25253Ashopify-7199302877267%252522%25252C%252522reviewId%252522%25253A%252522ced4c86b-41e7-4822-9e88-d0ece263cfc4%252522%25257D&okeReviewsPageNum=2)
+[Show More](https://www.perfectsleepchair.com/privacy-policy/?okeReviewsNextUrl=https%253A%252F%252F5i27ysv3j8.execute-api.us-west-2.amazonaws.com%252Fprod%252Fstores%252F8621a839-7b05-4bd3-a484-ab0b23489b38%252Fproducts%252Fshopify-7199302877267%252Freviews%253Flimit%253D5%2526orderBy%253Ddate%252520desc%2526lastEvaluated%253D%25257B%252522subscriberId%252522%25253A%2525228621a839-7b05-4bd3-a484-ab0b23489b38%252522%25252C%252522dateCreated%252522%25253A%2525222023-09-10T21%25253A55%25253A06.290Z%252522%25252C%252522subscriberId_productId%252522%25253A%2525228621a839-7b05-4bd3-a484-ab0b23489b38%25253Ashopify-7199302877267%252522%25252C%252522reviewId%252522%25253A%252522ced4c86b-41e7-4822-9e88-d0ece263cfc4%252522%25257D&okeReviewsPageNum=2)
 
 Reviews LoadedReviews Added
 
