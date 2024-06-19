@@ -155,7 +155,7 @@ Secure German data protection
 
 [Guide & documents](https://easy-feedback.com/privacy/guide-documents/)
 
-[Privacy policy](https://easy-feedback.com/privacy/privacy-policy/)
+[Privacy policy](https://easy-feedback.com/privacy-policy/)
 
 [Responsible party](https://easy-feedback.com/privacy/responsible-party/)
 
