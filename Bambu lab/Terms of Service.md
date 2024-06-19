@@ -6,9 +6,7 @@
     
 [* Accessories](https://store.bambulab.com/collections/accessories?skr=yes)* Software
     
-* Support
-    
-* Company
+[* Support](https://bambulab.com/en/support)* Company
     
 [* MakerWorld](https://makerworld.com/?from=bambulab.com)
 
