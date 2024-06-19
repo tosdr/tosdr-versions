@@ -210,7 +210,6 @@ EnglishDown
 [Search](https://mls.om/search)
 
 * [Customer Reviews](https://mls.om/pages/customer-reviews)
-* [Book Eid Udhiyah Qurbani](https://mls.om/pages/eid-al-adha24)
 * [Beef](https://mls.om/pages/beef-collection)
 * [Lamb](https://mls.om/pages/lamb-sub-collection)
 * [Australian Wagyu Beef](https://mls.om/collections/australian-wagyu-beef)
@@ -228,7 +227,6 @@ EnglishDown
  
 
 * [Customer Reviews](https://mls.om/pages/customer-reviews)
-* [Book Eid Udhiyah Qurbani](https://mls.om/pages/eid-al-adha24)
 * [Beef](https://mls.om/pages/beef-collection) [Toggle menu](#)
     
     * [Beef By Cuts](https://mls.om/pages/beef-collection) [Toggle menu](#)
