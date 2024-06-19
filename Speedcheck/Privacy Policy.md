@@ -1,6 +1,6 @@
 [![Speedcheck](https://cdn.speedcheck.org/assets/images/speedcheck-logo.png "Speedcheck logo and name")](https://www.speedcheck.org/)
 
-###### Last Updated: March 29, 2022
+###### Last Updated: June 11, 2024
 
 Speedcheck Privacy Policy
 =========================
@@ -195,7 +195,12 @@ To read more about the data collected by Opensignal and our privacy policy pleas
 
 ### Outlogic
 
-When this app is in use (or running in the background) we collect and share with our business partners certain device and location data: Precise location data of the device, WiFi signals or Bluetooth Low Energy devices in your proximity, device-based advertising identifiers, app names and/or identifiers, and information about your mobile device such as type of device, operating system version and type, device settings, time zone, carrier, and IP address. That data may be used for the following purposes: (a) to customize and measure ads in apps and other advertising; (b) for app and user analytics; (c) for disease prevention, and cybersecurity,; (d) for market, civic or other research regarding aggregated human foot and traffic patterns, and (e) to generate proprietary pseudonymized identifiers tied to the information collected for the above purposes.
+When this app is in use (or running in the background) we collect and share with our business partners the following device and location data: Precise location data of the device, WiFi signals or Bluetooth Low Energy devices in your proximity, device-based advertising identifiers, app names and/or identifiers, and information about your mobile device such as type of device, operating system version and type, device settings, time zone, carrier, and IP address.
+
+* That data may be used for the following purposes: (a) to customize and measure ads in apps and other advertising; (b) for app and user analytics; (c) for disease prevention, and cybersecurity; (d) for market, civic / government or other research regarding aggregated human foot and traffic patterns, and (e) to generate proprietary pseudonymized identifiers tied to the information collected for the above purposes.
+* The information we collect, including device data and identifiers and precise location data, may be shared with third parties including advertising and data companies, brands, and analytics, non-profit, financial, government and research organizations and other businesses that do location-based analytics (and their service providers).”
+* To opt out of the use and sale of our partner Outlogic, a location data provider, please go to Outlogic’s “Your Privacy Choices” page at https://outlogic.io/opt-out-form/
+* For GDPR, Outlogic’s Trusted Partner List: https://outlogic.io/trusted-partners/
 
 For further information about Outlogic's data practices, please see Outlogic's [Privacy Policy](https://outlogic.io/privacy-policy/).
 
