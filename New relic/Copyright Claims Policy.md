@@ -18,18 +18,32 @@ Submit
     
     View Platform View Platform](https://newrelic.com/platform)
     
-    APM & Digital Experience
+    APM
     
     * [APM 360](https://newrelic.com/platform/application-monitoring)
+    * [Serverless](https://newrelic.com/platform/serverless-monitoring)
+    * [Business Observability](https://newrelic.com/platform/pathpoint)
+    * [SAP Monitoring](https://newrelic.com/solutions/sap)
+    * [CodeStream](https://newrelic.com/codestream)
+    
+    Security
+    
+    * [Interactive Application Security Testing (IAST)](https://newrelic.com/platform/application-security)
+    * [Vulnerability Management](https://newrelic.com/platform/vulnerability-management)
+    
+    Digital Experience Monitoring
+    
     * [Browser Real User Monitoring](https://newrelic.com/platform/browser-monitoring)
     * [Mobile Real User Monitoring](https://newrelic.com/platform/mobile-monitoring)
     * [Session Replay](https://newrelic.com/platform/session-replay)
     * [Synthetics](https://newrelic.com/platform/synthetics)
     * [Web Performance Monitoring](https://newrelic.com/platform/web-performance-monitoring)
-    * [Serverless](https://newrelic.com/platform/serverless-monitoring)
-    * [Business Observability](https://newrelic.com/platform/pathpoint)
-    * [SAP Monitoring](https://newrelic.com/solutions/sap)
-    * [CodeStream](https://newrelic.com/codestream)
+    
+    Artificial Intelligence
+    
+    * [New Relic AI](https://newrelic.com/platform/new-relic-ai)
+    * [AIOps](https://newrelic.com/platform/applied-intelligence)
+    * [AI Monitoring](https://newrelic.com/platform/ai-monitoring)
     
     Infrastructure
     
@@ -44,17 +58,6 @@ Submit
     Logs
     
     * [Log Management](https://newrelic.com/platform/log-management)
-    
-    Security
-    
-    * [Interactive Application Security Testing (IAST)](https://newrelic.com/platform/application-security)
-    * [Vulnerability Management](https://newrelic.com/platform/vulnerability-management)
-    
-    Artificial Intelligence
-    
-    * [New Relic AI](https://newrelic.com/platform/new-relic-ai)
-    * [AIOps](https://newrelic.com/platform/applied-intelligence)
-    * [AI Monitoring](https://newrelic.com/platform/ai-monitoring)
     
     Platform Capabilities
     
@@ -100,11 +103,11 @@ Submit
     
     Use Cases
     
+    * [Digital Experience Monitoring](https://newrelic.com/solutions/digital-experience-monitoring)
     * [Go from reactive to responsive](https://newrelic.com/practices/reactive-to-responsive)
     * [DevOps](https://newrelic.com/devops)
     * [Cloud Adoption](https://newrelic.com/solutions/cloud-adoption)
     * [Tool Consolidation](https://newrelic.com/solutions/tool-consolidation)
-    * [Digital Customer Experience](https://newrelic.com/solutions/topic/digital-customer-experience)
     * [Open Source](https://newrelic.com/solutions/open-source)
     
     Industries
@@ -361,45 +364,82 @@ Without waiving or limiting New Relic’s right to determine what constitutes a 
 
 Company
 
+Company
+
 * [About Us](https://newrelic.com/about)
-* [Leadership](https://newrelic.com/about/leadership)
 * [Careers](https://newrelic.com/about/culture)
-* [Social Impact](https://newrelic.com/social-impact)
-* [Newsroom](https://newrelic.com/about/newsroom)
-* [Customers](https://newrelic.com/customers)
-* [Partner Program](https://newrelic.com/solutions/partners)
+* [Leadership](https://newrelic.com/about/leadership)
+* [Social Impact](https://newrelic.org/)
 * [Code of Conduct](https://newrelic.com/sites/default/files/2024-02/New-Relic-Code-of-Conduct-Feb-2024.pdf)
-* [Suppliers Portal](https://newrelic.com/procurement/suppliers)
-* [Security](https://newrelic.com/security)
-* [Free Tier Pricing](https://newrelic.com/pricing/free-tier)
 * [ESG](https://newrelic.com/about/environmental-social-governance)
-* [Contact Us](https://newrelic.com/about/contact-us)
+* [Suppliers Portal](https://newrelic.com/procurement/suppliers)
+
+Product
+
+Product
+
+* [Integrations](https://newrelic.com/instant-observability)
+* [Platform](https://newrelic.com/platform)
+* [Security](https://newrelic.com/security)
+
+Value
+
+Value
+
+* [Pricing](https://newrelic.com/pricing)
+* [New Relic Free Tier](https://newrelic.com/pricing/free-tier)
 * [New Relic vs Datadog](https://newrelic.com/competitive-comparison/datadog)
+* [New Relic vs Dynatrace](https://newrelic.com/competitive-comparison/newrelic-vs-dynatrace)
+* [New Relic vs Splunk](https://newrelic.com/competitive-comparison/splunk)
+
+Resources
+
+Resources
+
+* [Blog](https://newrelic.com/blog)
+* [Customer Case Studies](https://newrelic.com/customers)
+* [Community Forum](https://forum.newrelic.com/s/)
+* [Press Releases](https://newrelic.com/about/newsroom)
+* [New Relic University](https://learn.newrelic.com/)
+* [Partner Program](https://newrelic.com/solutions/partners)
 * [2023 Observability Forecast](https://newrelic.com/observability-forecast/2023/state-of-observability)
 
-Follow Us
+FAQs
 
-* [](https://github.com/newrelic)
-* [](https://www.twitch.tv/new_relic)
-* [](https://twitter.com/newrelic)
-* [](http://www.facebook.com/NewRelic)
-* [](https://www.linkedin.com/company/new-relic-inc-)
-* [](https://www.instagram.com/newrelic/)
-* [](https://www.youtube.com/user/NewRelicInc/featured)
+FAQs
 
-Download the New Relic App
-
-* [Get it on Google Play](https://play.google.com/store/apps/details?id=com.newrelic.rpm)
-* [](https://itunes.apple.com/us/app/new-relic/id594038638?ls=1&mt=8)
+* [What is Infrastructure Monitoring?](https://newrelic.com/blog/best-practices/what-is-infrastructure-monitoring)
+* [What is Observability?](https://newrelic.com/blog/best-practices/what-is-observability)
+* [What is Kubernetes?](https://newrelic.com/blog/how-to-relic/what-is-kubernetes)
+* [Six steps for achieving business observability](https://newrelic.com/resources/ebooks/six-steps-to-achieve-business-observability)
+* [Log management best practices](https://newrelic.com/blog/best-practices/best-log-management-practices)
+* [Why you need a single tool for infrastructure monitoring and APM](https://newrelic.com/resources/ebooks/single-platform-infrastructure-monitoring-apm)
+* [A quick guide to getting started with New Relic](https://newrelic.com/blog/how-to-relic/a-quick-guide-to-getting-started-with-new-relic)
+* [Why you need IAST](https://newrelic.com/blog/best-practices/why-you-need-iast)
 
 [](https://newrelic.com/ "New Relic Logo")
 
-* [Terms of Service](https://newrelic.com/termsandconditions/terms)
-* [DMCA Policy](https://newrelic.com/termsandconditions/dmca)
-* [Privacy Policy](https://newrelic.com/termsandconditions/privacy)
-* Your Privacy Choices ![California Consumer Privacy Act (CCPA) Opt-Out Icon](/themes/custom/erno/assets/images/icons/misc/ccpa.svg) 
-* [Cookie Policy](https://newrelic.com/termsandconditions/cookie-policy)
-* [UK Slavery Act of 2015](https://newrelic.com/termsandconditions/modern-slavery-act)
+* [](https://www.youtube.com/user/NewRelicInc/featured)
+* [](https://twitter.com/newrelic)
+* [](https://github.com/newrelic)
+* [](https://www.linkedin.com/company/new-relic-inc-)
+* [](https://www.instagram.com/newrelic/)
+* [](https://www.twitch.tv/new_relic)
+* [](http://www.facebook.com/NewRelic)
+
+[Contact Us Contact Us](https://newrelic.com/about/contact-us)
+
+[Terms of Service](https://newrelic.com/termsandconditions/terms)
+
+[DMCA Policy](https://newrelic.com/termsandconditions/dmca)
+
+[Privacy Policy](https://newrelic.com/termsandconditions/privacy)
+
+Your Privacy Choices ![California Consumer Privacy Act (CCPA) Opt-Out Icon](/themes/custom/erno/assets/images/icons/misc/ccpa.svg) 
+
+[Cookie Policy](https://newrelic.com/termsandconditions/cookie-policy)
+
+[UK Slavery Act of 2015](https://newrelic.com/termsandconditions/modern-slavery-act)
 
 English
 
