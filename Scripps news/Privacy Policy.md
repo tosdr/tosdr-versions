@@ -40,7 +40,7 @@ Search site  Go
     * [Entertainment](https://www.scrippsnews.com/entertainment)
     * [Good News](https://www.scrippsnews.com/life/good-news)
     * [Health](https://www.scrippsnews.com/health)
-    * [Life](https://www.scrippsnews.com/life)
+    * [Scripps News Life](https://www.scrippsnews.com/life)
     * [Politics](https://www.scrippsnews.com/politics)
     * [Science and Tech](https://www.scrippsnews.com/science-and-tech)
     * [Sports](https://www.scrippsnews.com/sports)
