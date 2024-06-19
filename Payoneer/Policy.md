@@ -165,7 +165,7 @@ All rights not expressly granted to you in the Payoneer Terms and Conditions are
 
 **Follow us**
 
-* [](https://twitter.com/Payoneer)
+* [](https://x.com/Payoneer)
 * [](https://www.facebook.com/Payoneer)
 * [](https://www.linkedin.com/company/payoneer)
 * [](https://www.youtube.com/user/MyPayoneer)
