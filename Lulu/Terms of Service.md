@@ -12,7 +12,7 @@
     
 * Sell
     
-    [Sell on Lulu](https://www.lulu.com/sell/sell-on-lulu)[Sell Direct](https://www.lulu.com/sell/sell-on-your-site)[Retail Distribution](https://www.lulu.com/sell/retail-distribution)[Order Import](https://www.lulu.com/sell/order-import)[API Printing](https://www.lulu.com/sell/sell-on-your-site/print-api)[Crowdfunding](https://www.lulu.com/resources/kickstarter)
+    [Sell on Lulu Bookstore](https://www.lulu.com/sell/sell-on-lulu)[Sell Direct](https://www.lulu.com/sell/sell-on-your-site)[Retail Distribution](https://www.lulu.com/sell/retail-distribution)[Order Import](https://www.lulu.com/sell/order-import)[API Printing](https://www.lulu.com/sell/sell-on-your-site/print-api)[Crowdfunding](https://www.lulu.com/resources/kickstarter)
     
 * Resources
     
@@ -592,7 +592,7 @@ Submit
 
 [](https://www.lulu.com/ "Lulu Logo")[](https://www.lulu.com/sell/sell-on-your-site/print-api "Lulu API Logo")[](https://www.lulujr.com/ "Lulu Jr. Logo")[](https://www.thetilt.com/ "Tilt Logo")
 
-[Copyright](https://help.lulu.com/en/support/solutions/articles/64000279375-copyright-infringement)[Privacy Policy](https://www.lulu.com/privacy-policy)[Terms & Conditions](https://www.lulu.com/terms-and-conditions)
+[Privacy Policy](https://www.lulu.com/privacy-policy)[Terms & Conditions](https://www.lulu.com/terms-and-conditions)
 
 Copyright © 2024 Lulu Press, Inc. All rights reserved.
 
