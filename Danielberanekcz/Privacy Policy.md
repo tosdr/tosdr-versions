@@ -692,7 +692,7 @@ Telefonní číslo: 724501041
 
 [Copywriting?](https://danielberanek.cz/copywriter-copywriting/)
 
-![SEO specialista a copywriter Daniel Beránek, autor webu danielberanek.cz](https://danielberanek.cz/wp-content/uploads/seo-specialista-copywriter-daniel-beranek.avif "SEO specialista a copywriter Daniel Beránek, autor webu danielberanek.cz")
+![SEO specialista a copywriter Daniel Beránek, autor webu danielberanek.cz](https://danielberanek.cz/wp-content/uploads/seo-specialista-copywriter-daniel-beranek.avif "SEO specialista a copywriter Daniel Beránek: SEO a copy s ostrými hroty!")
 
   
 SEO specialista a copywriter Daniel Beránek  
@@ -706,10 +706,6 @@ Křenová 79, 602 00 Brno
 
 Vyhledat pro:  
 
-[Ochrana osobních údajů](https://danielberanek.cz/ochrana-osobnich-udaju/)
-
-[Zásady cookies EU](https://danielberanek.cz/zasady-cookies-eu/)
-
 SEO, copy & online byznys
 -------------------------
 
@@ -721,6 +717,6 @@ SEO, copy & online byznys
 
 [AI](https://danielberanek.cz/tags/ai/) [Anonymous](https://danielberanek.cz/tags/anonymous/) [Apple](https://danielberanek.cz/tags/apple/) [Avast](https://danielberanek.cz/tags/avast/) [Chrome](https://danielberanek.cz/tags/chrome/) [Chromium](https://danielberanek.cz/tags/chromium/) [Copywriter](https://danielberanek.cz/tags/copywriter/) [Copywriting](https://danielberanek.cz/tags/copywriting/) [E-commerce](https://danielberanek.cz/tags/e-commerce/) [Edge](https://danielberanek.cz/tags/edge/) [Facebook](https://danielberanek.cz/tags/facebook/) [Firefox](https://danielberanek.cz/tags/firefox/) [Google](https://danielberanek.cz/tags/google/) [Kyberbezpečnost](https://danielberanek.cz/tags/kyberbezpecnost/) [Letem online světem](https://danielberanek.cz/tags/letem-online-svetem/) [Live chat](https://danielberanek.cz/tags/live-chat/) [Microsoft](https://danielberanek.cz/tags/microsoft/) [Mozilla](https://danielberanek.cz/tags/mozilla/) [Obrázkové formáty](https://danielberanek.cz/tags/obrazkove-formaty/) [Opera](https://danielberanek.cz/tags/opera/) [Prohlížeč](https://danielberanek.cz/tags/prohlizec/) [SEO](https://danielberanek.cz/tags/seo/) [SEO konzultant](https://danielberanek.cz/tags/seo-konzultant/) [Seznam.cz](https://danielberanek.cz/tags/seznam/) [Smartsupp](https://danielberanek.cz/tags/smartsupp/) [SSODS](https://danielberanek.cz/tags/ssods/) [Technické SEO](https://danielberanek.cz/tags/technicke-seo/) [Umělá inteligence](https://danielberanek.cz/tags/umela-inteligence/) [Vivaldi](https://danielberanek.cz/tags/vivaldi/) [Vyhledávání](https://danielberanek.cz/tags/vyhledavani/) [Windows](https://danielberanek.cz/tags/windows/) [WordPress](https://danielberanek.cz/tags/wordpress/)
 
-Copyright © 2006 - 2023 Daniel Beránek
+© 2006 - 2024 Daniel Beránek [Ochrana os. údajů](https://danielberanek.cz/ochrana-osobnich-udaju/), [Cookies](https://danielberanek.cz/zasady-cookies-eu/)
 
 Svištící rychlost mi dodává [WP-Hosting.cz](https://www.wp-hosting.cz/cenik/?sa_u=ext2qmbpl1&sa_c=834s6uyv "Hosting pro nejrychlejší WordPress") a [WP Rocket](https://shareasale.com/r.cfm?b=1075949&u=2238331&m=74778&urllink=&afftrack= "Zrychlení WP pluginem")
