@@ -1,4 +1,4 @@
- [Skip to main content](#main-content)
+[Skip to main content](#main-content)
 
  [](https://writeaprisoner.com/ "Home")
 
