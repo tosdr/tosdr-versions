@@ -1,4 +1,4 @@
-Terms and Conditions for one.com v.17The following terms apply at one.com as of 8 April 2024 and replace any previous version of these terms and conditions.
+Terms and Conditions for one.com v.17The following terms apply at one.com as of 9 April 2024 and replace any previous version of these terms and conditions.
 
 
 
@@ -358,6 +358,10 @@ When refunding any payment, one.com reserves the right to debit an amount coveri
 
 
 
+If you are a private customer residíng in Belgium, the following rates apply for debt collection: €20 up to €150, €30 +10% for €150-€500, and €65 + 5% for amounts exceeding €500 (up to a maximum of €2000).
+
+
+
 4.7 Duration of subscription
 
 A subscription is active until it is cancelled by one of the parties involved in pursuance of the above conditions.
@@ -380,13 +384,9 @@ In connection with the sale or other transfer of all or significant portions of 
 
 one.com's sales and delivery conditions as well as prices can be changed at 45 days' notice.
 
-
-
 4.11 Third party malfunctions and force majeure
 
-Apart the above, one.com cannot be held liable for damages when interruptions, malfunctions, damage etc. is out ofone.com's control. This includes lightning, flooding, fire, war, acts of terror, industrial action and lockouts (includingamong one.com's own staff), overloading of the Internet, malfunctions in other networks, third party malfunctions,
-
-system breakdowns, or other form of force majeure.
+Apart the above, one.com cannot be held liable for damages when interruptions, malfunctions, damage etc. is out ofone.com's control. This includes lightning, flooding, fire, war, acts of terror, industrial action and lockouts (includingamong one.com's own staff), overloading of the Internet, malfunctions in other networks, third party malfunctions,system breakdowns, or other form of force majeure.
 
 
 
