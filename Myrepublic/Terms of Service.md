@@ -334,7 +334,7 @@ Menu
     * [Internet & Networking](#)
     * Voice Solutions
     * Ignite
-    * [Promotions](https://myrepublic.net/sg/business/whats-happening#move_to_promotion_sec)
+    * [Promotions](https://myrepublic.net/sg/business/promotions/)
     * [Blog](https://myrepublic.net/sg/business/blog)
     * Support
 * [Partner Program](https://myrepublic.net/sg/mpp/)
@@ -700,9 +700,9 @@ What’s Happening
 
 Menu
 
-* [What’s Happening](https://myrepublic.net/sg/business/whats-happening/)
+* [What’s Happening](https://myrepublic.net/sg/business/promotions/)
 * [Blog](https://myrepublic.net/sg/business/blog)
-* [Promotions](https://myrepublic.net/sg/business/whats-happening#move_to_promotion_sec)
+* [Promotions](https://myrepublic.net/sg/business/promotions/)
 
 Recent Blog
 -----------
