@@ -637,11 +637,11 @@ Share This Article
 
  
 
-[![Scam Awareness Teaching Series](https://www.safesearchkids.com/wp-content/uploads/2024/04/Scam-Alert-Educational-Series.jpg)](https://www.safesearchkids.com/common-scams-to-be-aware-of-and-prepare-for-part-1/)
+[![Online Coding for Kids](https://www.safesearchkids.com/wp-content/uploads/2022/01/online-coding-for-kids.jpg)](https://www.safesearchkids.com/coding-for-kids/)
 
 ### 
 
-[Scam Awareness Series - Part 1](https://www.safesearchkids.com/common-scams-to-be-aware-of-and-prepare-for-part-1/)
+[Online Summer Coding Classes](https://www.safesearchkids.com/coding-for-kids/)
 
 ### Article Categories
 
@@ -656,20 +656,21 @@ Share This Article
 * [Human Interest](https://www.safesearchkids.com/well-being/human-interest/)
 * [Well-Being](https://www.safesearchkids.com/well-being/)
 
-[![Teaching Kids Cybersecurity](https://www.safesearchkids.com/wp-content/uploads/2024/03/Kids-in-Computer-Class-with-Teacher-Illustration.webp)](https://www.safesearchkids.com/teaching-kids-about-cybersecurity-engaging-methods-for-young-minds/)
+[![Learning Apps to teach Critical Thinking](https://www.safesearchkids.com/wp-content/uploads/2022/11/Educational-Critical-Thinking-Apps-for-Students.jpg)](https://www.safesearchkids.com/free-learning-apps-to-help-students-develop-critical-thinking/)
 
 ### 
 
-[Kids Learning Cybersecurity](https://www.safesearchkids.com/teaching-kids-about-cybersecurity-engaging-methods-for-young-minds/)
+[Critical Thinking Learning Apps](https://www.safesearchkids.com/free-learning-apps-to-help-students-develop-critical-thinking/)
 
-[![Safe Internet for Schools](https://www.safesearchkids.com/wp-content/uploads/2022/05/Kids-in-Classroom-Searching-the-Web-Safely.jpg)](https://www.safesearchkids.com/internet-filtering/)
+[![Roblox Parental Controls](https://www.safesearchkids.com/wp-content/uploads/2022/11/Parental-Controls-for-Roblox.jpg)](https://www.safesearchkids.com/roblox-parental-controls/)
 
 ### 
 
-[Safe Internet for Schools](https://www.safesearchkids.com/internet-filtering/)
+[Roblox Parental Controls](https://www.safesearchkids.com/roblox-parental-controls/)
 
 ### Parenting and Well-Being
 
+* [Creative Screen-Free Adventures for Kids](https://www.safesearchkids.com/creative-screen-free-adventures-keeping-kids-engaged-for-hours/)
 * [What Parents Should Know About Artificial Intelligence](https://www.safesearchkids.com/what-parents-should-know-about-artificial-intelligence/)
 * [10 Different Career Paths if You Love Working With Kids](https://www.safesearchkids.com/10-career-paths-to-consider-if-you-love-working-with-kids/)
 * [Child Developmental Delays To Look Out For](https://www.safesearchkids.com/child-developmental-delays-to-look-out-for/)
@@ -681,6 +682,7 @@ Share This Article
 * [How to Introduce Cursive Writing to Kids](https://www.safesearchkids.com/a-guide-to-introducing-cursive-writing-to-your-kids/)
 * [The Difficult Conversation About Online Safety for Kids](https://www.safesearchkids.com/the-difficult-conversation-about-online-safety-for-kids/)
 * [5 Signs Your Child Has Math Problems (5 Solutions)](https://www.safesearchkids.com/5-signs-your-child-has-math-problems/)
+* [The Benefits of Introducing Computers to Young Kids](https://www.safesearchkids.com/the-benefits-of-introducing-computers-to-kids-at-an-early-age/)
 * [How to Teach Your Kids About Misinformation Online](https://www.safesearchkids.com/how-to-teach-your-kids-about-misinformation-online/)
 * [Strategies To Help Your Child Transition To Daycare](https://www.safesearchkids.com/strategies-to-help-your-child-transition-to-daycare/)
 * [How to Get Your Children Interested in STEM](https://www.safesearchkids.com/how-to-get-your-children-interested-in-stem/)
@@ -852,6 +854,7 @@ Share This Article
 * [The Rise of the AI Generation – Qustodio Report](https://www.safesearchkids.com/the-rise-of-the-ai-generation/)
 * [Parental Controls on Every Device](https://www.safesearchkids.com/parental-control-software/)
 * [How to Protect Kids on WhatsApp](https://www.safesearchkids.com/how-to-protect-kids-from-online-predators-on-whatsapp/)
+* [The Psychological Impact of Parental Controls](https://www.safesearchkids.com/exploring-the-psychological-impact-of-parental-controls-on-children/)
 * [Android Phone Monitoring](https://www.safesearchkids.com/android-parental-control-app/)
 * [How to Enable Snapchat Parental Monitoring](https://www.safesearchkids.com/how-to-enable-snapchat-parental-monitoring-on-your-child-device/)
 * [Parental Controls for YouTube](https://www.safesearchkids.com/parental-controls-for-youtube/)
@@ -863,21 +866,21 @@ Share This Article
 
  
 
-* [Qustodio App](https://www.safesearchkids.com/best-parental-control-app/)
-* [Roblox Controls](https://www.safesearchkids.com/roblox-parental-controls/)
-* [Snapchat Safety](https://www.safesearchkids.com/snapchat-kids/)
-* [Is TikTok Safe?](https://www.safesearchkids.com/5-things-parents-need-to-know-about-tiktok/)
-* [Navigating Twitch](https://www.safesearchkids.com/parents-guide-to-navigating-twitch-tv/)
-* [CyberBullying](https://www.safesearchkids.com/cyber-bullying-for-parents/)
-* [Instagram Safety](https://www.safesearchkids.com/instagram-sensitive-content-and-family-center/)
-* [Is Threads Safe?](https://www.safesearchkids.com/is-threads-safe-for-teens/)
 * [WhatsApp Safety](https://www.safesearchkids.com/whatsapp-safety-for-kids/)
-* [Kik Messenger](https://www.safesearchkids.com/what-parents-should-know-about-kik-messenger/)
+* [Is TikTok Safe?](https://www.safesearchkids.com/5-things-parents-need-to-know-about-tiktok/)
+* [Teens on X](https://www.safesearchkids.com/tips-to-help-keep-teens-safe-on-twitter/)
+* [Navigating Twitch](https://www.safesearchkids.com/parents-guide-to-navigating-twitch-tv/)
 * [Is Discord Safe?](https://www.safesearchkids.com/is-discord-safe-for-your-kids-a-complete-parental-guide/)
+* [Parental Controls](https://www.safesearchkids.com/best-parental-control-app/)
+* [Instagram Safety](https://www.safesearchkids.com/instagram-sensitive-content-and-family-center/)
+* [Is Mastodon Safe?](https://www.safesearchkids.com/is-mastodon-safe/)
+* [Snapchat Safety](https://www.safesearchkids.com/snapchat-kids/)
+* [Kik Messenger](https://www.safesearchkids.com/what-parents-should-know-about-kik-messenger/)
+* [Is Threads Safe?](https://www.safesearchkids.com/is-threads-safe-for-teens/)
+* [CyberBullying](https://www.safesearchkids.com/cyber-bullying-for-parents/)
 * [Safer Messenger](https://www.safesearchkids.com/parental-controls-for-facebook-messenger/)
 * [Phones in School](https://www.safesearchkids.com/cell-phones-in-school/)
-* [Is Mastodon Safe?](https://www.safesearchkids.com/is-mastodon-safe/)
-* [Teens on X](https://www.safesearchkids.com/tips-to-help-keep-teens-safe-on-twitter/)
+* [Roblox Controls](https://www.safesearchkids.com/roblox-parental-controls/)
 
 Safe and Secure Internet Browsing
 ---------------------------------
