@@ -332,6 +332,7 @@ Search DoomWiki.org
     * [Doom 3](https://doomwiki.org/wiki/Doom_3)
     * [Doom (2016)](https://doomwiki.org/wiki/Doom_(2016))
     * [Doom Eternal](https://doomwiki.org/wiki/Doom_Eternal)
+    * [Doom: The Dark Ages](https://doomwiki.org/wiki/Doom:_The_Dark_Ages)
     * [Add-ons & expansions_›_](https://doomwiki.org/wiki/Category:Expansions)
         * [The Ultimate Doom](https://doomwiki.org/wiki/The_Ultimate_Doom)
         * [Master Levels for Doom II](https://doomwiki.org/wiki/Master_Levels_for_Doom_II)
