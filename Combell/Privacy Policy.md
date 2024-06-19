@@ -24,7 +24,7 @@
     
     A domain name is your web address, the URL of your website and the basis for your e-mail addresses.
     
-    [More domain names](https://www.combell.com/en/domain-names "Domain name free check")[](https://www.trustpilot.com/review/combell.com "Combell reviews")
+    [More domain names](https://www.combell.com/en/domain-names "Domain name free check") [Customer experiences](https://www.combell.com/en/about-combell/customer-experiences "Combell reviews")
     
     Domain names your address on the web
     
@@ -44,7 +44,7 @@
     
     Hosting is the webspace that allows you to get your website or application online.
     
-    [Learn more about hosting](https://www.combell.com/en/hosting "Hosting")[](https://www.trustpilot.com/review/combell.com "Combell reviews")
+    [Learn more about hosting](https://www.combell.com/en/hosting "Hosting") [Customer experiences](https://www.combell.com/en/about-combell/customer-experiences "Combell reviews")
     
     Get your website online with 24/7 support
     
@@ -69,7 +69,7 @@
     
     Create a website or web store you will be proud of by yourself.
     
-    [Learn more about building a website](https://www.combell.com/en/build-your-website "Creating your own website") [Learn more about building a webshop](https://www.combell.com/en/build-your-webshop "Creating your own web store")[](https://www.trustpilot.com/review/combell.com "Combell reviews")
+    [Learn more about building a website](https://www.combell.com/en/build-your-website "Creating your own website") [Learn more about building a webshop](https://www.combell.com/en/build-your-webshop "Creating your own web store") [Customer experiences](https://www.combell.com/en/about-combell/customer-experiences "Combell reviews")
     
     Building a website without technical knowledge
     
@@ -88,7 +88,7 @@
     
     Everything you need to manage your e-mail professionally
     
-    [Find out more about e-mail](https://www.combell.com/en/email-hosting "Find out more about e-mail")[](https://www.trustpilot.com/review/combell.com "Combell reviews")
+    [Find out more about e-mail](https://www.combell.com/en/email-hosting "Find out more about e-mail") [Customer experiences](https://www.combell.com/en/about-combell/customer-experiences "Combell reviews")
     
     Mailboxes synced across all devices
     
@@ -107,7 +107,7 @@
     
     All the tools for your online success
     
-    [All tools](https://www.combell.com/en/tools "All tools")[](https://www.trustpilot.com/review/combell.com "Combell reviews")
+    [All tools](https://www.combell.com/en/tools "All tools") [Customer experiences](https://www.combell.com/en/about-combell/customer-experiences "Combell reviews")
     
     Office
     
@@ -127,7 +127,7 @@
     
     Powerful solutions to keep your website, shop or app online.
     
-    [More about servers](https://www.combell.com/en/servers "Powerful servers with 24/7 support")[](https://www.trustpilot.com/review/combell.com "Combell reviews")
+    [More about servers](https://www.combell.com/en/servers "Powerful servers with 24/7 support") [Customer experiences](https://www.combell.com/en/about-combell/customer-experiences "Combell reviews")
     
     Fully managed servers We manage the server for you
     
@@ -156,7 +156,7 @@
     
     Tailored IT advice to improve your business and make it more successful. Whatever your needs, we will always find a suitable solution. From €199 per month.
     
-    [All managed services](https://www.combell.com/en/managed-services "All of Combell's managed services")[](https://www.trustpilot.com/review/combell.com "Combell reviews")
+    [All managed services](https://www.combell.com/en/managed-services "All of Combell's managed services") [Customer experiences](https://www.combell.com/en/about-combell/customer-experiences "Combell reviews")
     
     Business needs
     
