@@ -17,17 +17,17 @@
         
         Check out Connections Academy reviews!](https://www.connectionsacademy.com/about/reviews/)
         
-        [![Career icon](/content/dam/pvs/ca/icons/careers.svg)
-        
-        ###### Careers
-        
-        Start or grow your Connections Academy career today!](https://www.connectionsacademy.com/careers/)
-        
         [![News icon](/content/dam/pvs/ca/icons/news.svg)
         
         ###### News
         
         Catch up on recent happenings and important updates.](https://www.connectionsacademy.com/news/)
+        
+        [![Homeschool icon](/content/dam/pvs/ca/icons/homeschool.svg)
+        
+        ###### Homeschool Alternative
+        
+        Learn how we help all students thrive.](https://www.connectionsacademy.com/about/what-to-expect/homeschool/)
         
         [![Person icon](/content/dam/pvs/ca/icons/person.svg)
         
@@ -35,11 +35,11 @@
         
         Discover the Connections Academy difference.](https://www.connectionsacademy.com/about/what-to-expect/)
         
-        [![Homeschool icon](/content/dam/pvs/ca/icons/homeschool.svg)
+        [![Career icon](/content/dam/pvs/ca/icons/careers.svg)
         
-        ###### Homeschool Alternative
+        ###### Careers at Pearson
         
-        Learn how we help all students thrive.](https://www.connectionsacademy.com/about/what-to-expect/homeschool/)
+        Work with us!](https://www.connectionsacademy.com/careers/)
         
         * About Us
             [](#mn-root--46856004)
@@ -77,7 +77,13 @@
                 * [High School Courses](https://www.connectionsacademy.com/program/curriculum/online-high-school/)
                 * [Summer Courses](https://www.connectionsacademy.com/program/curriculum/online-summer-school/)
             * [Sample Lessons](https://www.connectionsacademy.com/program/sample-lessons/)
-            * [College & Career Readiness](https://www.connectionsacademy.com/program/college-career-readiness/)
+            * College & Career Readiness
+                [Our Program](#mn-program)
+                
+                College & Career Readiness
+                --------------------------
+                
+                * [Partnerships](https://www.connectionsacademy.com/program/college-career-readiness/partnerships/)
             * [Student Success](https://www.connectionsacademy.com/program/student-stories/)
             * [Socialization](https://www.connectionsacademy.com/program/community/)
             * [Parent Involvement](https://www.connectionsacademy.com/program/parents/)
