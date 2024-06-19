@@ -401,7 +401,7 @@ Log in or sign up to view your favorites [Find someone else's favorites](https:/
     
     [##### Shop All](https://www.shaneco.com/gifts/for-him?promo_name=nav&promo_id=gifts&promo_creative=forhim)
     
-    [Father's Day Gifts](https://www.shaneco.com/gifts/husband-and-father?promo_name=nav&promo_id=gifts&promo_creative=forhim_father) [Groomsmen](https://www.shaneco.com/gifts/groomsmen?promo_name=nav&promo_id=gifts&promo_creative=forhim_groomsmen) [Graduation](https://www.shaneco.com/gifts/graduation-gifts?promo_name=nav&promo_id=gifts&promo_creative=forhim_graduation)
+    [Dad](https://www.shaneco.com/gifts/husband-and-father?promo_name=nav&promo_id=gifts&promo_creative=forhim_father) [Groomsmen](https://www.shaneco.com/gifts/groomsmen?promo_name=nav&promo_id=gifts&promo_creative=forhim_groomsmen) [Graduation](https://www.shaneco.com/gifts/graduation-gifts?promo_name=nav&promo_id=gifts&promo_creative=forhim_graduation)
     
     #### GIFTS BY CATEGORY
     
