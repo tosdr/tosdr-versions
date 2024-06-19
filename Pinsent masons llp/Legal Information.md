@@ -365,7 +365,7 @@ Article 18 of the EU Market Abuse Regulation (2014/596) and EU Commission Implem
 Professional Indemnity Insurance
 --------------------------------
 
-As required under the Solicitors Regulation Authority Indemnity Insurance Rules, Pinsent Masons maintains professional indemnity insurance. That insurance is with QBE UK Ltd and QBE Lloyd’s Syndicate 386 and QBE Europe SA/NV and Lloyd’s Insurance Company SA 5386, Travelers Insurance DAC, Aviva Insurance Ireland Designated Activity Company (AIIDAC)/Aviva Insurance Ltd (AIL) and others and covers both our professional services worldwide and our affiliated offices worldwide.
+As required under the Solicitors Regulation Authority Indemnity Insurance Rules, Pinsent Masons maintains professional indemnity insurance. That insurance is with QBE UK Ltd and QBE Lloyd’s Syndicate 386 (in respect of ROW Exposure) & QBE Europe SA/NV and Lloyd’s Brussels Syndicate 5386 (in respect of EEA Exposure), Aviva Insurance Limited (in respect of ROW Exposure) and Aviva Insurance Ireland DAC (in respect of EEA Exposure) and others and covers both our professional services worldwide and our affiliated offices worldwide.
 
 Terms and Conditions of Website Use
 -----------------------------------
@@ -571,7 +571,7 @@ See our [Terms and Conditions](https://www.pinsentmasons.com/legal-notices/term
     
     Cover provided complies at least with the legal requirements pursuant to the Bundesrechtsanwaltsordnung (BRAO, the German Federal Lawyers’ Act) which requires German lawyers (Rechtsanwältinnen and Rechtsanwälte) to hold professional liability insurance with €250,000 being the minimum sum insured. Details are set out in section 51 BRAO.
     
-    In addition, we maintain professional indemnity insurance with QBE UK Ltd and QBE Lloyd’s Syndicate 386 and QBE Europe SA/NV and Lloyd’s Insurance Company SA 5386, Travelers Insurance DAC, Aviva Insurance Ireland Designated Activity Company (AIIDAC)/Aviva Insurance Ltd (AIL) and others and covers both our professional services worldwide and our affiliated offices worldwide.
+    In addition, we maintain professional indemnity insurance with QBE UK Ltd and QBE Lloyd’s Syndicate 386 (in respect of ROW Exposure) & QBE Europe SA/NV and Lloyd’s Brussels Syndicate 5386 (in respect of EEA Exposure), Aviva Insurance Limited (in respect of ROW Exposure) and Aviva Insurance Ireland DAC (in respect of EEA Exposure) and others and covers both our professional services worldwide and our affiliated offices worldwide.
     
     All requests for further information or any client complaints about Pinsent Masons Rechtsanwälte Steuerberater Solicitors Partnerschaft mbB (including complaints concerning our fees and charges) should be addressed in the first instance with your client partner or head of the Munich office, failing which, they should be addressed to the Senior Partner of Pinsent Masons LLP at 30 Crown Place, London EC2A 4ES, United Kingdom.
     
@@ -595,7 +595,7 @@ See our [Terms and Conditions](https://www.pinsentmasons.com/legal-notices/term
     
     Lawyers registered with the Paris Bar are covered by an insurance policy provided by the Paris Bar, details of which can be supplied by the Bureau des Assurances (+33 1 44 88 59 84).
     
-    In addition, we maintain professional indemnity insurance with QBE UK Ltd and QBE Lloyd’s Syndicate 386 and QBE Europe SA/NV and Lloyd’s Insurance Company SA 5386, Travelers Insurance DAC, Aviva Insurance Ireland Designated Activity Company (AIIDAC)/Aviva Insurance Ltd (AIL) and others and covers both our professional services worldwide and our affiliated offices worldwide.
+    In addition, we maintain professional indemnity insurance with QBE UK Ltd and QBE Lloyd’s Syndicate 386 (in respect of ROW Exposure) & QBE Europe SA/NV and Lloyd’s Brussels Syndicate 5386 (in respect of EEA Exposure), Aviva Insurance Limited (in respect of ROW Exposure) and Aviva Insurance Ireland DAC (in respect of EEA Exposure) and others and covers both our professional services worldwide and our affiliated offices worldwide.
     
     All requests for further information or any client complaints about Pinsent Masons France LLP (including complaints concerning our fees and charges) should be addressed in the first instance with your client partner or head of our Paris office, failing which, they should be addressed to the Senior Partner of Pinsent Masons LLP at 30 Crown Place, London, EC2A 4ES, United Kingdom.
     
@@ -615,7 +615,7 @@ See our [Terms and Conditions](https://www.pinsentmasons.com/legal-notices/term
     
     The regulatory provisions referred to above are available through any of the Spanish Bar Associations, including the Madrid Bar Association.
     
-    Pinsent Masons maintains professional indemnity insurance with QBE UK Ltd and QBE Lloyd’s Syndicate 386 and QBE Europe SA/NV and Lloyd’s Insurance Company SA 5386, Travelers Insurance DAC, Aviva Insurance Ireland Designated Activity Company (AIIDAC)/Aviva Insurance Ltd (AIL) and others and covers both our professional services worldwide and our affiliated offices worldwide.
+    Pinsent Masons maintains professional indemnity insurance with QBE UK Ltd and QBE Lloyd’s Syndicate 386 (in respect of ROW Exposure) & QBE Europe SA/NV and Lloyd’s Brussels Syndicate 5386 (in respect of EEA Exposure), Aviva Insurance Limited (in respect of ROW Exposure) and Aviva Insurance Ireland DAC (in respect of EEA Exposure) and others and covers both our professional services worldwide and our affiliated offices worldwide.
     
     All requests for further information or any client complaints about Pinsent Masons España LLP (including complaints concerning our fees and charges) should be addressed in the first instance with your client partner or head of our Madrid office, failing which, they should be addressed to the Senior Partner of Pinsent Masons LLP at 30 Crown Place, London, EC2A 4ES, United Kingdom.
     
@@ -663,7 +663,7 @@ See our [Terms and Conditions](https://www.pinsentmasons.com/legal-notices/term
     
     #### Insurance
     
-    In accordance with the rules of its professional organization, Pinsent Masons Netherlands LLP maintains professional indemnity insurance. That insurance is with QBE Europe SA/NV, Travelers Insurance DAC and Aviva Insurance Ireland Designated Activity Company (AIIDAC) and covers both our professional services worldwide and our affiliated offices worldwide.
+    In accordance with the rules of its professional organization, Pinsent Masons Netherlands LLP maintains professional indemnity insurance. That insurance is with QBE Europe SA/NV and Aviva Insurance Ireland DAC, UK Branch and covers both our professional services worldwide and our affiliated offices worldwide.
     
     #### Conflicts of Interest
     
@@ -671,7 +671,7 @@ See our [Terms and Conditions](https://www.pinsentmasons.com/legal-notices/term
     
     #### Client Complaints
     
-    We have an enviable record of providing high quality advice and excellent client care. However, we recognise that on occasion, things can go wrong. To raise a concern or to make a complaint, including a complaint about our fees and charges, please in the first instance raise it with your client partner.
+    We have an enviable record of providing high quality advice and excellent client care. However, we recognise that on occasion, things can go wrong. To raise a client concern or to make a client complaint, including a complaint about our fees and charges, please in the first instance raise it with your client partner.
     
     All requests for further information or any client complaints about Pinsent Masons (including complaints concerning our fees and charges) should be addressed in the first instance with your client partner or head of your local office, failing which they should be addressed to our Senior Partner at 30 Crown Place, London EC2A 4ES, United Kingdom. A copy of our Complaints Policy is available on request from [\[email protected\]](https://www.pinsentmasons.com/cdn-cgi/l/email-protection).
     
@@ -689,7 +689,7 @@ See our [Terms and Conditions](https://www.pinsentmasons.com/legal-notices/term
     
     Lawyers registered with the Luxembourg Bar are covered by an insurance policy provided by the Luxembourg Bar, details of which can be supplied by the head of our Luxembourg office.
     
-    In addition, Pinsent Masons maintains professional indemnity insurance. That insurance is with QBE UK Ltd and QBE Lloyd’s Syndicate 386 and QBE UK Ltd and QBE Lloyd’s Syndicate 386 and QBE Europe SA/NV and Lloyd’s Insurance Company SA 5386, Travelers Insurance DAC, Aviva Insurance Ireland Designated Activity Company (AIIDAC)/Aviva Insurance Ltd (AIL)  and others and covers both our professional services worldwide and our affiliated offices worldwide.
+    In addition, Pinsent Masons maintains professional indemnity insurance. That insurance is with QBE UK Ltd and QBE Lloyd’s Syndicate 386 and QBE UK Ltd and QBE Lloyd’s Syndicate 386 (in respect of ROW Exposure) & QBE Europe SA/NV and Lloyd’s Brussels Syndicate 5386 (in respect of EEA Exposure), Aviva Insurance Limited (in respect of ROW Exposure) and Aviva Insurance Ireland DAC (in respect of EEA Exposure and others and covers both our professional services worldwide and our affiliated offices worldwide.
     
     All requests for further information or any client complaints about Pinsent Masons Luxembourg (including complaints concerning our fees and charges) should be addressed in the first instance with your client partner or head of our Luxembourg office, failing which, they should be addressed to the Senior Partner of Pinsent Masons LLP at 30 Crown Place, London, EC2A 4ES, United Kingdom.
     
