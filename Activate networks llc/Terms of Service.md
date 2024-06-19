@@ -13,7 +13,7 @@ activatevpn.com is provided by:
 
 Activate Software LLC  
 16192 Coastal Highway  
-Lewes, DE, 19958
+Lewes, DE 19958
 
 "activatevpn.com" refers to
 
