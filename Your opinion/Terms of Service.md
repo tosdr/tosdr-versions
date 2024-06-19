@@ -233,7 +233,7 @@ The YourOpinion Quarterly Prize Draw gives you a chance to win $1,000 and other 
 
 * **Address:** YourOpinion, 3 Sussex Street, Sydney, NSW 2000
     
-* **Email:** [\[email protected\]](https://www.youropinion.com.au/cdn-cgi/l/email-protection)
+* **Email:** [surveys@youropinion.com.au](mailto:surveys@youropinion.com.au)
     
 
 © FiftyFive5, part of Accenture Song 2018. All Rights Reserved.
