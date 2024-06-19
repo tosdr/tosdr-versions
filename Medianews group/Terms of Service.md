@@ -17,12 +17,12 @@
 Terms of Use
 ============
 
-LAST CHANGED AS OF January 31, 2023.
+LAST CHANGED AS OF June 11, 2024.
 
 Following are the terms and conditions (the “Terms of Use”) that govern your use of web sites, including SMS/Text Alerts and Mobile Web, owned by MediaNews Group (as defined below) , www.medianewsgroup.com and www.adtaxi.com (each, a “Web Site”) and our mobile application (the “Application,” together with Web Site, the “Platform”).
 
 **Supply Chain Surcharge  
-**All home delivery subscriptions will be temporarily charged a “Supply Chain Surcharge” based on your delivery schedule at the rate of up to $0.15 per delivery day. Your subscription fees will be automatically debited each week for the surcharge and your subscription term will be shortened as a result. The surcharge amount is subject to change. Please check back here for the most up-to-date information regarding the Supply Chain Surcharge.
+**All home delivery subscriptions will be temporarily charged a “Supply Chain Surcharge” based on your delivery schedule at the rate of up to $0.18 per delivery day. Your subscription fees will be automatically debited each week for the surcharge and your subscription term will be shortened as a result. The surcharge amount is subject to change. Please check back here for the most up-to-date information regarding the Supply Chain Surcharge.
 
 **General Terms  
 **Using the Platform tells us that you, or, if you represent an entity or other organization, that entity or organization (in either case “you” or “your”) have read and agreed to our Terms of Use detailed below and Privacy Policy, (available at https://www.medianewsgroup.com/privacy-policy/) (“Policy”). Please read the following sections carefully. If you do not agree with the Terms of Use, please exit the Platform or any site affiliated with the Platform. The Terms of Use and Policy apply to the Platform owned and operated by MediaNews Group, Inc. or its subsidiaries or affiliates (“MediaNews Group,” “us,” or “we”). MediaNews Group, reserves the right to deny access to the Platform to any person who violates the Terms of Use.
