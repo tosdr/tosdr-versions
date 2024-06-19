@@ -291,15 +291,15 @@ Show Search
 * Copyright 2024 The Associated Press. All Rights Reserved.
     
 
-[U.S. Open](https://apnews.com/article/us-open-pinehurst-bryson-dechambeau-rory-mcilroy-5f8a3ec8c68a1d341f0e119e364e28df)
+[Noam Chomsky](https://apnews.com/article/noam-chomsky-alive-not-dead-5b7a1b23b8731ca311e1ec38cdc3c119)
 
-[Rochester Hills shooting](https://apnews.com/article/splash-pad-shooting-michigan-gunman-9d9fb4e6dc8f022976bc2bb8f6334d70)
+[Justin Timberlake arrested](https://apnews.com/article/justin-timberlake-arrest-1980b6ad8d5ae6906f57fe9ef6b7fb18)
+
+[Team USA uniforms](https://apnews.com/article/paris-olympics-team-usa-uniforms-ralph-lauren-dc34f3424e0a562eed3c0c3d144c9d09)
+
+[Nvidia stock](https://apnews.com/article/stock-markets-rates-inflation-9f49f89dc375db55bfc8f95a6226782b)
 
 [Israel-Hamas war](https://apnews.com/hub/israel-hamas-war)
-
-[Massachusetts shooting](https://apnews.com/article/methuen-massachusetts-party-shooting-81cc185cab7bd474c76e96e629bf7c21)
-
-[2024 Tony Awards winners](https://apnews.com/article/tony-awards-2024-list-1e2de0f4400e6d98d295dcfeada6292e)
 
 The Associated Press
 ====================
