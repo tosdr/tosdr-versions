@@ -1,7 +1,7 @@
 Terms of Use
 ============
 
-**_Last Updated: July 7, 2024_**
+**_Last Updated: June 7, 2024_**
 
 Welcome! These Terms of Use and all other legal documents incorporated by reference (collectively, the “Terms") set forth the legal contract between either BOLD LLC (352385) or Auxiliant S.à.r.l (B199343) (collectively, “Provider”, “we,” or “us”) and each end-user ("User" or "you" or “your”) with respect to access to and use of our associated internet properties as linked and offered by us, our subsidiaries and affiliated companies, and any software that we provide to you for download in your mobile devices (each a "mobile application") (all of these collectively, the “Site”). Unless otherwise specified, all references to “Site” also include the use of our online platform, materials, proprietary content, tools, software, and services available through the Site (collectively, all of these and the Site are called the **“Service”**).
 
