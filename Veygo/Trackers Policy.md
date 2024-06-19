@@ -120,7 +120,7 @@ January 2021
 ##### Stay in touch
 
 * [Veygo Facebook](https://www.facebook.com/VeygoUK/)
-* [Veygo Twitter](https://twitter.com/VeygoUK)
+* [Veygo X](https://x.com/VeygoUK)
 * [Veygo Instagram](https://www.instagram.com/veygouk/)
 * [Veygo Youtube](https://www.youtube.com/channel/UCvuws7xIFKzWHP6YabGiMZA)
 * [Veygo TikTok](https://www.tiktok.com/@veygouk)
