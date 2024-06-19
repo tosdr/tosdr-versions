@@ -160,34 +160,32 @@ AAA
 Fidelis Care Notice of Privacy Practices
 ========================================
 
-**THIS NOTICE DESCRIBES HOW MEDICAL INFORMATION ABOUT YOU MAY BE USED AND DISCLOSED AND HOW YOU CAN GET ACCESS TO THIS INFORMATION. PLEASE REVIEW IT CAREFULLY.**
+**THIS NOTICE DESCRIBES HOW MEDICAL INFORMATION ABOUT YOU MAY BE USED AND DISCLOSED AND HOW YOU CAN GET ACCESS TO THIS INFORMATION.**   **_PLEASE REVIEW IT CAREFULLY_****.**
 
+**Effective 5/2/2024  
   
+**
 
-**Effective 12/15/2022**
-
-  
-
-For help to translate or understand this, please call 1-(888-343-3547). Hearing impaired TTY: 711  
-Si necesita ayuda para traducir o entender este texto, por favor llame al telefono. 1-(888-343-3547). (TTY: 711).  
+For help to translate or understand this, please call 1-888-343-3547 Hearing impaired TTY: 711  
+Si necesita ayuda para traducir o entender este texto, por favor llame al telefono. 1-888-343-3547. (TTY: 711).  
 
 * * *
 
-### 
-
 ### **Covered Entity’s Duties**
 
-Fidelis Care is a Covered Entity as defined and regulated under the Health Insurance Portability and Accountability Act of 1996 (HIPAA). Fidelis Care is required by law to maintain the privacy of your protected health information (PHI), provide you with this Notice of our legal duties and privacy practices related to your PHI, abide by the terms of the Notice that is currently in affect and notify you in the event of a breach of your unsecured PHI. 
+New York Quality Health Care Corporation, “Fidelis Care” is a Covered Entity as defined and regulated under the Health Insurance Portability and Accountability Act of 1996 (HIPAA). Fidelis Care is required by law to maintain the privacy of your protected health information (PHI), provide you with this Notice of our legal duties and privacy practices related to your PHI, abide by the terms of the Notice that is currently in affect and notify you in the event of a breach of your unsecured PHI.
 
-This Notice describes how we may use and disclose your PHI. It also describes your rights to access, amend and manage your PHI and how to exercise those rights. All other uses and disclosures of your PHI not described in this Notice will be made only with your written authorization. 
+This Notice describes how we may use and disclose your PHI. It also describes your rights to access, amend and manage your PHI and how to exercise those rights. All other uses and disclosures of your PHI not described in this Notice will be made only with your written authorization.
 
-Fidelis Care reserves the right to change this Notice. We reserve the right to make the revised or changed Notice effective for your PHI we already have as well as any of your PHI we receive in the future. Fidelis Care will promptly revise and distribute this Notice whenever there is a material change to the following: 
+Fidelis Care reserves the right to change this Notice. We reserve the right to make the revised or changed Notice effective for your PHI we already have as well as any of your PHI we receive in the future. Fidelis Care will promptly revise and distribute this Notice whenever there is a material change to the following:
 
-* The Uses or Disclosures 
-* Your rights 
-* Our legal duties 
-* Other privacy practices stated in the notice. 
-    
+o   The Uses or Disclosures.
+
+o   Your rights.
+
+o   Our legal duties.
+
+o   Other privacy practices stated in the notice.
 
 We will make any revised Notices available on our website or through a separate mailing.
 
@@ -195,7 +193,10 @@ We will make any revised Notices available on our website or through a separate 
 
 ### **Internal Protections of Oral, Written, and Electronic PHI**
 
-Fidelis Care protects your PHI. We have privacy and security processes to help. These are some of the ways we protect your PHI:  
+Fidelis Care protects your PHI. We are also committed in keeping your race, ethnicity, and language (REL), and sexual orientation and gender identity (SOGI) information confidential. We have privacy and security processes to help.
+
+These are some of the ways we protect your PHI:  
+  
 
 * We train our staff to follow our privacy and security processes. 
 * We require our business associates to follow privacy and security processes. 
@@ -206,158 +207,174 @@ Fidelis Care protects your PHI. We have privacy and security processes to help. 
 
 * * *
 
-### 
-
 ### **Permissible Uses and Disclosures of Your PHI**
 
-The following is a list of how we may use or disclose your PHI without your permission or authorization: 
-
+The following is a list of how we may use or disclose your PHI without your permission or authorization:   
   
 
-**Treatment -** We may use or disclose your PHI to a physician or other health care provider providing treatment to you, to coordinate your treatment among providers, or to assist us in making prior authorization decisions related to your benefits.
-
-  
-
-**Payment -** We may use and disclose your PHI to make benefit payments for the health care services provided to you. We may disclose your PHI to another health plan, to a health care provider, or other entity subject to the federal Privacy Rules for their payment purposes. Payment activities may include:
-
-* processing claims
-* determining eligibility or coverage for claims
-* issuing premium billings
-* reviewing services for medical necessity
-* performing utilization review of claims   
-
-**Healthcare Operations -** We may use and disclose your PHI to perform our healthcare operations.  These activities may include: 
-
-* Providing customer services
-* Responding to complaints and appeals
-* Providing case management and care coordination
-* Conducting medical review of claims and other quality assessment
-* Improvement activities    
+* **Treatment -** We may use or disclose your PHI to a physician or other health care provider providing treatment to you, to coordinate your treatment among providers, or to assist us in making prior authorization decisions related to your benefits.  
+      
+    
+* **Payment -** We may use and disclose your PHI to make benefit payments for the health care services provided to you. We may disclose your PHI to another health plan, to a health care provider, or other entity subject to the federal Privacy Rules for their payment purposes. Payment activities may include processing claims, determining eligibility or coverage for claims, and reviewing services for medical necessity.  
+      
+    
+* **Healthcare Operations -** We may use and disclose your PHI to perform our healthcare operations. These activities may include providing customer service, responding to complaints and appeals, and providing care management and care coordination. 
 
 In our healthcare operations, we may disclose PHI to business associates. We will have written agreements to protect the privacy of your PHI with these associates. We may disclose your PHI to another entity that is subject to the federal Privacy Rules. The entity must also have a relationship with you for its healthcare operations. This includes the following:
 
-* Quality assessment and improvement activities
-* Reviewing the competence or qualifications of healthcare professionals
-* Case management and care coordination
-* Detecting or preventing healthcare fraud and abuse.   
+* Quality assessment and improvement activities.
+* Reviewing the competence or qualifications of healthcare professionals.
+* Case management and care coordination.
+* Detecting or preventing healthcare fraud and abuse.
 
-**Group Health Plan/Plan Sponsor Disclosures –** We may disclose your protected health information to a sponsor of the group health plan, such as an employer or other entity that is providing a health care program to you, if the sponsor has agreed to certain restrictions on how it will use or disclose the protected health information (such as agreeing not to use the protected health information for employment-related actions or decisions). 
+Your race, ethnicity, language, sexual orientation, and gender identity are protected by the health plan’s systems and laws. This means information you provide is private and secure. We can only share this information with health care providers. It will not be shared with others without your permission or authorization. We use this information to help improve the quality of your care and services.
+
+This information helps us to:
+
+* Better understand your healthcare needs.
+* Know your language preference when seeing healthcare providers.
+* Providing healthcare information to meet your care needs.
+* Offer programs to help you be your healthiest        
+
+This information is not used for underwriting purposes or to make decisions about whether you are able to receive coverage or services.
+
+  
+
+* **Group Health Plan/Plan Sponsor Disclosures –** We may disclose your PHI to a sponsor of the group health plan, such as an employer or other entity that is providing a health care program to you, if the sponsor has agreed to certain restrictions on how it will use or disclose the protected health information (such as agreeing not to use the protected health information for employment-related actions or decisions).
 
 * * *
-
-###   
 
 ### Other Permitted or Required Disclosures of Your PHI
 
-**Fundraising Activities –** We may use or disclose your PHI for fundraising activities, such as raising money for a charitable foundation or similar entity to help finance their activities. If we do contact you for fundraising activities, we will give you the opportunity to opt-out, or stop, receiving such communications in the future.
-
-**Underwriting Purposes –** We may use or disclosure your PHI for underwriting purposes, such as to make a determination about a coverage application or request. If we do use or disclose your PHI for underwriting purposes, we are prohibited from using or disclosing your PHI that is genetic information in the underwriting process.
-
-**Appointment Reminders/Treatment Alternatives -** We may use and disclose your PHI to remind you of an appointment for treatment and medical care with us or to provide you with information regarding treatment alternatives or other health-related benefits and services, such as information on how to stop smoking or lose.
-
-**As Required by Law -** If federal, state, and/or local law requires a use or disclosure of your PHI, we may use or disclose your PHI information to the extent that the use or disclosure complies with such law and is limited to the requirements of such law. If two or more laws or regulations governing the same use or disclosure conflict, we will comply with the more restrictive laws or regulations.
-
-**Public Health Activities -** We may disclose your PHI to a public health authority for the purpose of preventing or controlling disease, injury, or disability. We may disclosure your PHI to the Food and Drug Administration (FDA) to ensure the quality, safety or effectiveness products or services under the jurisdiction of the FDA.
-
-**Victims of Abuse and Neglect -** We may disclose your PHI to a local, state, or federal government authority, including social services or a protective services agency authorized by law authorized by law to receive such reports if we have a reasonable belief of abuse, neglect or domestic violence.
-
-**Judicial and Administrative Proceedings -** We may disclose your PHI in judicial and administrative proceedings. We may also disclose it in response to the following: 
-
-* an order of a court 
-* administrative tribunal 
-* subpoena 
-* summons 
-* warrant 
-* discovery request
-* Similar legal request
-
-**Law Enforcement -** We may disclose your relevant PHI to law enforcement when required to do so. For example, in response to a: 
-
-* court order
-* court-ordered warrant 
-* subpoena 
-* summons issued by a judicial officer
-* grand jury subpoena
-
-We may also disclose your relevant PHI to identify or locate a suspect, fugitive, material witness, or missing person.  
-
-**Coroners, Medical Examiners and Funeral Directors -** We may disclose your PHI to a coroner or medical examiner. This may be necessary, for example, to determine a cause of death. We may also disclose your PHI to funeral directors, as necessary, to carry out their duties.
-
-**Organ, Eye and Tissue Donation -** may disclose your PHI to organ procurement organizations. We may also disclose your PHI to those who work in procurement, banking or transplantation of cadaveric organs, eyes, or tissues.
-
-**Threats to Health and Safety -** We may use or disclose your PHI if we believe, in good faith, that the use or disclosure is necessary to prevent or lessen a serious or imminent threat to the health or safety of a person or the public.
-
-**Specialized Government Functions -** If you are a member of U.S. Armed Forces, we may disclose your PHI as required by military command authorities. We may also disclose your PHI: 
-
-* to authorized federal officials for national security 
-* to intelligence activities
-* the Department of State for medical suitability determinations
-* for protective services of the President or other authorized persons
-
-**Workers’ Compensation -** We may disclose your PHI to comply with laws relating to workers’ compensation or other similar programs, established by law, that provide benefits for work-related injuries or illness without regard to fault.
-
-**Emergency Situations –** We may disclose your PHI in an emergency situation, or if you are incapacitated or not present, to a family member, close personal friend, authorized disaster relief agency, or any other person previous identified by you. We will use professional judgment and experience to determine if the disclosure is in your best interests. If the disclosure is in your best interest, we will only disclose the PHI that is directly relevant to the person's involvement in your care.
-
-**Inmates -** If you are an inmate of a correctional institution or under the custody of a law enforcement official, we may release your PHI to the correctional institution or law enforcement official, where such information is necessary for the institution to provide you with health care; to protect your health or safety; or the health or safety of others; or for the safety and security of the correctional institution.
-
-**Research -** Under certain circumstances, we may disclose your PHI to researchers when their clinical research study has been approved and where certain safeguards are in place to ensure the privacy and protection of your PHI.
+* **Fundraising Activities –** We may use or disclose your PHI for fundraising activities, such as raising money for a charitable foundation or similar entity to help finance their activities. If we do contact you for fundraising activities, we will give you the opportunity to opt-out, or stop, receiving such communications in the future.  
+      
+    
+* **Underwriting Purposes –** We may use or disclose your PHI for underwriting purposes, such as to decide about a coverage application or request. If we do use or disclose your PHI for underwriting purposes, we are prohibited from using or disclosing your PHI that is genetic information in the underwriting process.  
+      
+    
+* **Appointment Reminders/Treatment Alternatives -** We may use and disclose your PHI to remind you of an appointment for treatment and medical care with us or to provide you with information regarding treatment alternatives or other health-related benefits and services, such as information on how to stop smoking or lose weight.  
+      
+    
+* **As Required by Law -** If federal, state, and/or local law requires a use or disclosure of your PHI, we may use or disclose your PHI information to the extent that the use or disclosure complies with such law and is limited to the requirements of such law. If two or more laws or regulations governing the same use or disclosure conflict, we will comply with the more restrictive laws or regulations.  
+      
+    
+* **Public Health Activities -** We may disclose your PHI to a public health authority for the purpose of preventing or controlling disease, injury, or disability. We may disclose your PHI to the Food and Drug Administration (FDA) to ensure the quality, safety or effectiveness products or services under the jurisdiction of the FDA.  
+      
+    
+* **Victims of Abuse and Neglect -** We may disclose your PHI to a local, state, or federal government authority, including social services or a protective services agency authorized by law to receive such reports if we have a reasonable belief of abuse, neglect or domestic violence.  
+      
+    
+* **Judicial and Administrative Proceedings -** We may disclose your PHI in response to an administrative or court order. We may also be required to disclose your PHI to respond to a subpoena, discovery request, or other similar requests.  
+* **Law Enforcement -** We may disclose your relevant PHI to law enforcement when required to do so for the purposes of responding to a crime.  
+     
+* **Coroners, Medical Examiners and Funeral Directors -** We may disclose your PHI to a coroner or medical examiner. This may be necessary, for example, to determine a cause of death. We may also disclose your PHI to funeral directors, as necessary, to carry out their duties.  
+      
+    
+* **Organ, Eye and Tissue Donation -** We may disclose your PHI to organ procurement organizations. We may also disclose your PHI to those who work in procurement, banking or transplantation of cadaveric organs, eyes, and tissues.  
+      
+    
+* **Threats to Health and Safety -** We may use or disclose your PHI if we believe, in good faith, that the use or disclosure is necessary to prevent or lessen a serious or imminent threat to the health or safety of a person or the public.  
+      
+    
+* **Specialized Government Functions -** If you are a member of U.S. Armed Forces, we may disclose your PHI as required by military command authorities. We may also disclose your PHI to authorized federal officials for national security concerns, intelligence activities, The Department of State for medical suitability determinations, the protection of the President, and other authorized persons as may be required by law.  
+      
+    
+* **Workers’ Compensation -** We may disclose your PHI to comply with laws relating to workers’ compensation or other similar programs, established by law, that provide benefits for work—related injuries or illness without regard to fault.  
+      
+    
+* **Emergency Situations –** We may disclose your PHI in an emergency situation, or if you are incapacitated or not present, to a family member, close personal friend, authorized disaster relief agency, or any other person previous identified by you. We will use professional judgment and experience to determine if the disclosure is in your best interest. If the disclosure is in your best interest, we will only disclose the PHI that is directly relevant to the person's involvement in your care.  
+      
+    
+* **Inmates -** If you are an inmate of a correctional institution or under the custody of a law enforcement official, we may release your PHI to the correctional institution or law enforcement official, where such information is necessary for the institution to provide you with health care; to protect your health or safety; or the health or safety of others; or for the safety and security of the correctional institution.  
+      
+    
+* **Research -** Under certain circumstances, we may disclose your PHI to researchers when their clinical research study has been approved and where certain safeguards are in place to ensure the privacy and protection of your PHI.
 
 * * *
-
-### 
 
 ### **Uses and Disclosures of Your PHI That Require Your Written Authorization**
 
-We are required to obtain your written authorization to use or disclose your PHI, with limited exceptions, for the following reasons: 
+We are required to obtain your written authorization to use or disclose your PHI, with limited exceptions, for the following reasons:   
 
-**Sale of PHI –** We will request your written authorization before we make any disclosure that is deemed a sale of your PHI, meaning that we are receiving compensation for disclosing the PHI in this manner.
+* **Sale of PHI –** We will request your written authorization before we make any disclosure that is deemed a sale of your PHI, meaning that we are receiving compensation for disclosing the PHI in this manner.  
+      
+    
+* **Marketing –** We will request your written authorization to use or disclose your PHI for marketing purposes with limited exceptions, such as when we have face-to-face marketing communications with you or when we provide promotional gifts of nominal value.  
+      
+    
+* **Psychotherapy Notes** – We will request your written authorization to use or disclose any of your psychotherapy notes that we may have on file with limited exception, such as for certain treatment, payment or healthcare operation functions.
 
-**Marketing –** We will request your written authorization to use or disclose your PHI for marketing purposed with limited exceptions, such as when we have face-to-face marketing communications with you or when we provide promotional gifts of nominal value.
-
-**Psychotherapy Notes** – We will request your written authorization to use or disclose any of you psychotherapy notes that we may have on file with limited exception, such as for certain treatment, payment or healthcare operation functions.
+You have the right to revoke your authorization, in writing at any time except to the extent that we have already used or disclosed your PHI based on that initial authorization.
 
 * * *
-
-### 
 
 ### **Individuals' Rights**
 
-The following are your rights concerning your PHI.  If you would like to use any of the following rights, please contact us using the information at the end of this Notice.
+The following are your rights concerning your PHI. If you would like to use any of the following rights, please contact us using the information at the end of this Notice.
 
-**Right to Request Restrictions -** You have the right to request restrictions on the use and disclosure of your PHI for treatment, payment or healthcare operations, as well as disclosures to persons involved in your care or payment of your care, such as family members or close friends.  Your request should state the restrictions you are requesting and state to whom the restriction applies.  We are not required to agree to this request.  If we agree, we will comply with your restriction request unless the information is needed to provide you with emergency treatment.  However, we will restrict the use or disclosure of PHI for payment or health care operations to a health plan when you have paid for the service or item out of pocket in full.
+* **Right to Request Restrictions -** You have the right to request restrictions on the use and disclosure of your PHI for treatment, payment, or healthcare operations, as well as disclosures to persons involved in your care or payment of your care, such as family members or close friends. Your request should state the restrictions you are requesting and state to whom the restriction applies. We are not required to agree to this request. If we agree, we will comply with your restriction request unless the information is needed to provide you with emergency treatment. However, we will restrict the use or disclosure of PHI for payment or health care operations to a health plan when you have paid for the service or item out of pocket in full.  
+      
+    
+* **Right to Request Confidential Communications -** You have the right to request that we communicate with you about your PHI by alternative means or to alternative locations. This right only applies if the information could endanger you if it is not communicated by the alternative means or to the alternative location you want. You do not have to explain the reason for your request, but you must state that the information could endanger you if the communication means or location is not changed. We must accommodate your request if it is reasonable and specifies the alternative means or location where you PHI should be delivered.  
+      
+    
+* **Right to Access and Receive a Copy of your PHI -** You have the right, with limited exceptions, to look at or get copies of your PHI contained in a designated record set. You may request that we provide copies in a format other than photocopies. We will use the format you request unless we cannot practicably do so**.** You must make a request in writing to obtain access to your PHI. If we deny your request, we will provide you a written explanation and will tell you if the reasons for the denial can be reviewed. We will also tell you how to ask for such a review or if the denial cannot be reviewed.  
+      
+    
+* **Right to Amend your PHI -** You have the right to request that we amend, or change, your PHI if you believe it contains incorrect information. Your request must be in writing, and it must explain why the information should be amended. We may deny your request for certain reasons, for example if we did not create the information you want amended and the creator of the PHI is able to perform the amendment. If we deny your request, we will provide you a written explanation. You may respond with a statement that you disagree with our decision, and we will attach your statement to the PHI you request that we amend. If we accept your request to amend the information, we will make reasonable efforts to inform others, including people you name, of the amendment and to include the changes in any future disclosures of that information.  
+      
+    
+* **Right to Receive an Accounting of Disclosures -** You have the right to receive a list of instances within the last 6—year period in which we or our business associates disclosed your PHI. This does not apply to disclosure for purposes of treatment, payment, health care operations, or disclosures you authorized and certain other activities. If you request this accounting more than once in a 12-month period, we may charge you a reasonable, cost-based fee for responding to these additional requests. We will provide you with more information on our fees at the time of your request.  
+      
+    
+* **Right to File a Complaint -** If you feel your privacy rights have been violated or that we have violated our own privacy practices, you can file a complaint with us in writing or by phone using the contact information at the end of this Notice.
 
-**Right to Request Confidential Communications -** You have the right to request that we communicate with you about your PHI by alternative means or to alternative locations.  This right only applies if the information could endanger you if it is not communicated by the alternative means or to the alternative location you want.  You do not have to explain the reason is for your request, but you must state that the information could endanger you if the communication means or location is not changed.  We must accommodate your request if it is reasonable and specifies the alternative means or location where you PHI should be delivered.
+You can also file a complaint with the Secretary of the U.S. Department of Health and Human Services Office for Civil Rights by sending a letter to 200 Independence Avenue, S.W., Washington, D.C. 20201 or calling **1-800-368-1019** **(TTY:** **1-800-537-7697)** or visiting **hhs.gov/ocr/privacy/hipaa/complaints**/.
 
-**Right to Access and Receive a Copy of your PHI -** You have the right, with limited exceptions, to look at or get copies of your PHI contained in a designated record set.  You may request that we provide copies in a format other than photocopies.  We will use the format you request unless we cannot practicably do so.  You must make a request in writing to obtain access to your PHI.  If we deny your request, we will provide you a written explanation and will tell you if the reasons for the denial can be reviewed and how to ask for such a review or if the denial cannot be reviewed.
+ **WE WILL NOT TAKE ANY ACTION AGAINST YOU FOR FILING A COMPLAINT.**
 
-**Right to Amend your PHI -** You have the right to request that we amend, or change, your PHI if you believe it contains incorrect information.  Your request must be in writing, and it must explain why the information should be amended.  We may deny your request for certain reasons, for example if we did not create the information you want amended and the creator of the PHI is able to perform the amendment. If we deny your request, we will provide you a written explanation. You may respond with a statement that you disagree with our decision and we will attach your statement to the PHI you request that we amend.  If we accept your request to amend the information, we will make reasonable efforts to inform others, including people you name, of the amendment and to include the changes in any future disclosures of that information.
-
-**Right to Receive an Accounting of Disclosures -** You have the right to receive a list of instances within the last 6 years period in which we or our business associates disclosed your PHI.  This does not apply to disclosure for purposes of treatment, payment, health care operations, or disclosures you authorized and certain other activities. If you request this accounting more than once in a 12-month period, we may charge you a reasonable, cost-based fee for responding to these additional requests. We will provide you with more information on our fees at the time of your request.
-
-**Right to File a Complaint -** If you feel your privacy rights have been violated or that we have violated our own privacy practices, you can file a complaint with us in writing or by phone using the contact information at the end of this Notice.    You can also file a complaint with the Secretary of the U.S. Department of Health and Human Services Office for Civil Rights by sending a letter to 200 Independence Avenue, S.W., Washington, D.C. 20201 or calling 1-800-368-1019, (TTY: 1-866-788-4989) or visiting [www.hhs.gov/ocr/privacy/hipaa/complaints/](http://www.hhs.gov/ocr/privacy/hipaa/complaints). 
-
-**WE WILL NOT TAKE ANY ACTION AGAINST YOU FOR FILING A COMPLAINT.**
-
-**Right to Receive a Copy of this Notice -** You may request a copy of our Notice at any time by using the contact information list at the end of the Notice.  If you receive this Notice on our web site or by electronic mail (e-mail), you are also entitled to request a paper copy of the Notice.
+* **Right to Receive a Copy of this Notice -** You may request a copy of our Notice at any time by using the contact information listed at the end of the Notice. If you receive this Notice on our web site or by electronic mail (email), you are also entitled to request a paper copy of the Notice.
 
 * * *
 
-### 
+### **FINANCIAL INFORMATION PRIVACY NOTICE- Marketplace Only**
+
+THIS NOTICE DESCRIBES HOW **FINANCIAL INFORMATION** ABOUT YOU MAY BE USED AND DISCLOSED AND HOW YOU CAN GET ACCESS TO THIS INFORMATION. PLEASE REVIEW IT CAREFULLY.
+
+We are committed to maintaining the confidentiality of your personal financial information. For the purposes of this notice, "personal financial information" means information about an enrollee or an applicant for health care coverage that identifies the individual, is not generally publicly available, and is collected from the individual or is obtained in connection with providing health care coverage to the individual.
+
+**Information We Collect:** We collect personal financial information about you from the following sources:
+
+·   Information we receive from you on applications or other forms, such as name, address, age, medical information and Social Security number;
+
+·   Information about your transactions with us, our affiliates or others, such as premium payment and claims history; and
+
+·   Information from consumer reports.
+
+**Disclosure of Information:**  We do not disclose personal financial information about our enrollees or former enrollees to any third party, except as required or permitted by law. For example, in the course of our general business practices, we may, as permitted by law, disclose any of the personal financial information that we collect about you, without your authorization, to the following types of institutions:
+
+·   To our corporate affiliates, such as other insurers;
+
+·   To nonaffiliated companies for our everyday business purposes, such as to process your transactions, maintain your account(s), or respond to court orders and legal investigations; and
+
+·   To nonaffiliated companies that perform services for us, including sending promotional communications on our behalf.
+
+**Confidentiality and Security:**  We maintain physical, electronic and procedural safeguards, in accordance with applicable state and federal standards, to protect your personal financial information against risks such as loss, destruction or misuse. These measures include computer safeguards, secured files and buildings, and restrictions on who may access your personal financial information.
+
+* * *
 
 ### **Contact Information**
 
-If you have any questions about this Notice, our privacy practices related to your PHI or how to exercise your rights you can contact us in writing or by phone using the contact information listed below. 
+**Questions about this Notice:**  If you have any questions about this notice, our privacy practices related to your PHI or how to exercise your rights you can contact us in writing or by phone by using the contact information listed below.
 
-Fidelis Care  
-Attn: Privacy Officer, Compliance Department  
-25-01 Jackson Avenue  
-Long Island City, NY 11101
-
-Toll Free Phone Number: 1-888-343-3547, TTY: 711
+**_Fidelis Care  
+_****_Attn: Privacy Official, Compliance Department  
+_****_25-01 Jackson Avenue  
+_****_Long Island City, NY 11101  
+_****_Toll Free Phone Number 1-888-343-3547  
+_****_TTY: 711_**
 
 * * *
-
-### 
 
 ### **Google Analytics**
 
@@ -425,7 +442,7 @@ If you have any questions or would like additional information about this Notice
 
 * * *
 
-_Updated 12/15/2022_  
+_Updated 6/12/2024_
 
 ﻿
 
