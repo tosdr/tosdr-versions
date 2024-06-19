@@ -1,6 +1,11 @@
 [](https://www.cloudns.net/)
 
-[English](javascript:void(0);)
+[](javascript:void(0);)
+
+* [Light theme](https://www.cloudns.net/main/theme/light/)
+* [Dark theme](https://www.cloudns.net/main/theme/dark/)
+
+[](javascript:void(0);)
 
 * [Русский](https://www.cloudns.net/tos/lang/ru/)
 * [Deutsch](https://www.cloudns.net/tos/lang/de/)
@@ -68,7 +73,7 @@
 
 [0](https://www.cloudns.net/order/step/1/ "Cart (0)") [](javascript: void(0); "Sign In")Sign In
 
-[English](javascript:void(0);)
+[](javascript:void(0);)
 
 * [Русский](https://www.cloudns.net/tos/lang/ru/)
 * [Deutsch](https://www.cloudns.net/tos/lang/de/)
@@ -90,6 +95,11 @@
 * [繁體中文](https://www.cloudns.net/tos/lang/cht/)
 * [Tiếng Việt](https://www.cloudns.net/tos/lang/vn/)
 * [فارسی](https://www.cloudns.net/tos/lang/ir/)
+
+[](javascript:void(0);)
+
+* [Light theme](https://www.cloudns.net/tos/theme/light/)
+* [Dark theme](https://www.cloudns.net/tos/theme/dark/)
 
 * [DNS Hosting](javascript: void(0);)
     * [Premium DNS](https://www.cloudns.net/premium/)
