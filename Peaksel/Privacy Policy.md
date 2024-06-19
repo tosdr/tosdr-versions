@@ -1,33 +1,13 @@
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://peaksel.com/wp-content/uploads/2018/06/logo.png)](https://peaksel.com/)
+[![](https://peaksel.com/wp-content/uploads/2018/06/logo.png)](https://peaksel.com/)
 
 * [Home](https://peaksel.com/)
 * [About us](https://peaksel.com/about-us/)
 * [Jobs](https://peaksel.com/jobs/)
 * [Contact Us](https://peaksel.com/contact/)
 
-* * ![en](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "English")
+* * ![en](https://peaksel.com/wp-content/themes/peaksel/wpml/templates/language-switchers/peaksel-language-switcher/flags/en.svg "English")en
         
-        ![en](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "English")
-        
-        ![en](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "English")
-        
-        ![en](https://peaksel.com/wp-content/themes/peaksel/wpml/templates/language-switchers/peaksel-language-switcher/flags/en.svg "English")
-        
-        en
-        
-        * [![sr](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "српски")
-            
-            ![sr](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "српски")
-            
-            ![sr](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "српски")
-            
-            ![sr](https://peaksel.com/wp-content/themes/peaksel/wpml/templates/language-switchers/peaksel-language-switcher/flags/sr.svg "српски")
-            
-            sr](https://peaksel.com/sr/politika-privatnosti/)
+        * [![sr](https://peaksel.com/wp-content/themes/peaksel/wpml/templates/language-switchers/peaksel-language-switcher/flags/sr.svg "српски")sr](https://peaksel.com/sr/politika-privatnosti/)
     
 
 * [Virtual Pet Games](https://peaksel.com/category/virtual-pet-games/)
@@ -35,34 +15,14 @@
 * [Quiz Games](https://peaksel.com/category/quiz-games/)
 * [Coloring Pages](https://peaksel.com/category/coloring-pages/)
 * [Math Games](https://peaksel.com/category/math-games/)
-* [Escape Games](https://peaksel.com/category/escape-games/)
+* [Escape Games](http://peaksel.com/category/escape-games/)
 * [Ringtones](https://peaksel.com/category/ringtones/)
 
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+[![](https://peaksel.com/wp-content/uploads/2018/06/logo.png)](https://peaksel.com/)
 
-![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://peaksel.com/wp-content/uploads/2018/06/logo.png)](https://peaksel.com/)
-
-* * ![en](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "English")
+* * ![en](https://peaksel.com/wp-content/themes/peaksel/wpml/templates/language-switchers/peaksel-language-switcher/flags/en.svg "English")en
         
-        ![en](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "English")
-        
-        ![en](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "English")
-        
-        ![en](https://peaksel.com/wp-content/themes/peaksel/wpml/templates/language-switchers/peaksel-language-switcher/flags/en.svg "English")
-        
-        en
-        
-        * [![sr](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "српски")
-            
-            ![sr](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "српски")
-            
-            ![sr](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "српски")
-            
-            ![sr](https://peaksel.com/wp-content/themes/peaksel/wpml/templates/language-switchers/peaksel-language-switcher/flags/sr.svg "српски")
-            
-            sr](https://peaksel.com/sr/politika-privatnosti/)
+        * [![sr](https://peaksel.com/wp-content/themes/peaksel/wpml/templates/language-switchers/peaksel-language-switcher/flags/sr.svg "српски")sr](https://peaksel.com/sr/politika-privatnosti/)
     
 
 * [Home](https://peaksel.com/)
@@ -75,7 +35,7 @@
 * [Quiz Games](https://peaksel.com/category/quiz-games/)
 * [Coloring Pages](https://peaksel.com/category/coloring-pages/)
 * [Math Games](https://peaksel.com/category/math-games/)
-* [Escape Games](https://peaksel.com/category/escape-games/)
+* [Escape Games](http://peaksel.com/category/escape-games/)
 * [Ringtones](https://peaksel.com/category/ringtones/)
 
 Privacy Policy
@@ -386,21 +346,9 @@ If a parent or guardian of a child under the age of 13 becomes aware that his/he
 
 * * *
 
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+[![](https://peaksel.com/wp-content/uploads/2018/06/logo-light.png)](https://peaksel.com/)
 
-![](https://peaksel.com/wp-content/uploads/2018/06/logo-light.png)](https://peaksel.com/)
-
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://peaksel.com/wp-content/uploads/2018/06/red-herring.jpg)](https://www.redherring.com/events/red-herring-europe/2017-rhe-winners/)[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://peaksel.com/wp-content/uploads/2019/10/google-for-startups-peaksel-2019.jpg)](https://startup.google.com/)[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://peaksel.com/wp-content/uploads/2020/12/huawei-best-game-2020.jpg)](https://developer.huawei.com/consumer/en/activity/digixActivity/digixWinnersDetail/101592474457998399/)[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://peaksel.com/wp-content/uploads/2021/12/peaksel-deloitte-impact-stars-2021.jpg)](https://www2.deloitte.com/rs/sr/pages/about-deloitte/articles/technology-fast50-ce-2021.html)![We’re part of the Google for Startups 2024 alumni @GoogleStartups, connecting startups with the right people, products and best practices to help them grow.](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![We’re part of the Google for Startups 2024 alumni @GoogleStartups, connecting startups with the right people, products and best practices to help them grow.](https://peaksel.com/wp-content/uploads/2024/03/GfS_Alumni_WithYear_2024.png)
+[![](https://peaksel.com/wp-content/uploads/2018/06/red-herring.jpg)](https://www.redherring.com/events/red-herring-europe/2017-rhe-winners/) [![](https://peaksel.com/wp-content/uploads/2019/10/google-for-startups-peaksel-2019.jpg)](https://startup.google.com/) [![](https://peaksel.com/wp-content/uploads/2020/12/huawei-best-game-2020.jpg)](https://developer.huawei.com/consumer/en/activity/digixActivity/digixWinnersDetail/101592474457998399/) [![](https://peaksel.com/wp-content/uploads/2021/12/peaksel-deloitte-impact-stars-2021.jpg)](https://www2.deloitte.com/rs/sr/pages/about-deloitte/articles/technology-fast50-ce-2021.html) ![We’re part of the Google for Startups 2024 alumni @GoogleStartups, connecting startups with the right people, products and best practices to help them grow.](https://peaksel.com/wp-content/uploads/2024/03/GfS_Alumni_WithYear_2024.png)
 
 © 2024 Peaksel D.O.O. Kursumlijska 5, 18000 Nis, Serbia. All rights reserved.
 
@@ -411,7 +359,7 @@ If a parent or guardian of a child under the age of 13 becomes aware that his/he
 * [Quiz Games](https://peaksel.com/category/quiz-games/)
 * [Coloring Pages](https://peaksel.com/category/coloring-pages/)
 * [Math Games](https://peaksel.com/category/math-games/)
-* [Escape Games](https://peaksel.com/category/escape-games/)
+* [Escape Games](http://peaksel.com/category/escape-games/)
 * [Ringtones](https://peaksel.com/category/ringtones/)
 
 #### Company
@@ -440,25 +388,9 @@ If a parent or guardian of a child under the age of 13 becomes aware that his/he
 
 [Kid-friendly version of Privacy Policy](https://peaksel.com/privacy-policy/kid-friendly/)
 
-* * ![en](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "English")
+* * ![en](https://peaksel.com/wp-content/themes/peaksel/wpml/templates/language-switchers/peaksel-language-switcher/flags/en.svg "English")en
         
-        ![en](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "English")
-        
-        ![en](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "English")
-        
-        ![en](https://peaksel.com/wp-content/themes/peaksel/wpml/templates/language-switchers/peaksel-language-switcher/flags/en.svg "English")
-        
-        en
-        
-        * [![sr](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "српски")
-            
-            ![sr](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "српски")
-            
-            ![sr](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "српски")
-            
-            ![sr](https://peaksel.com/wp-content/themes/peaksel/wpml/templates/language-switchers/peaksel-language-switcher/flags/sr.svg "српски")
-            
-            sr](https://peaksel.com/sr/politika-privatnosti/)
+        * [![sr](https://peaksel.com/wp-content/themes/peaksel/wpml/templates/language-switchers/peaksel-language-switcher/flags/sr.svg "српски")sr](https://peaksel.com/sr/politika-privatnosti/)
     
 
 Back To Top
@@ -526,6 +458,4 @@ Other uncategorized cookies are those that are being analyzed and have not been 
 
 SAVE & ACCEPT
 
-Powered by [![CookieYes Logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![CookieYes Logo](https://peaksel.com/wp-content/plugins/cookie-law-info/legacy/public/images/logo-cookieyes.svg)](https://www.cookieyes.com/)
+Powered by [![CookieYes Logo](https://peaksel.com/wp-content/plugins/cookie-law-info/legacy/public/images/logo-cookieyes.svg)](https://www.cookieyes.com/)
