@@ -114,7 +114,7 @@ Vad söker du?
         
     * [Ge en gåva](https://www.svenskakyrkan.se/du-behovs/ge-en-gava)
         
-    * [Engagera dig i din församling](https://www.svenskakyrkan.se/du-behovs/du-behovs/du-behovsideellt-arbete)
+    * [Engagera dig i din församling](https://www.svenskakyrkan.se/du-behovs/engagera-dig-i-forsamling)
         
         * [Praktisera i en församling](https://www.svenskakyrkan.se/ung-volontar-i-en-forsamling)
             
@@ -284,7 +284,7 @@ Vad söker du?
             
         * [Sommar](https://www.svenskakyrkan.se/sommar)
             
-    * [Johannes döparens dag](https://www.svenskakyrkan.se/johannes-doparens-dag)
+    * [Midsommar och Johannes döparens dag](https://www.svenskakyrkan.se/johannes-doparens-dag)
         
     * [Den helige Mikaels dag](https://www.svenskakyrkan.se/den-helige-mikaels-dag)
         
