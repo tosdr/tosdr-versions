@@ -21,9 +21,7 @@
 * [Tuition Management/Grant & Aid](https://online.factsmgt.com/)
 * [Student Information System (SIS)](https://login.renweb.com/)
 
-[![FACTS - a Nelnet Company](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%200'%3E%3C/svg%3E)
-
-![FACTS - a Nelnet Company](https://factsmgt.com/wp-content/themes/facts/img/logo-facts.png)](https://factsmgt.com/)
+[![FACTS - a Nelnet Company](https://factsmgt.com/wp-content/themes/facts/img/logo-facts.png)](https://factsmgt.com/)
 
 OPEN MENUCLOSE MENU
 
@@ -82,13 +80,7 @@ OPEN MENUCLOSE MENU
 Privacy Policy
 ==============
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%20520'%3E%3C/svg%3E)
-
-![](https://factsmgt.com/wp-content/themes/facts/img/icon-arrow-blue.svg)
-
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%20520'%3E%3C/svg%3E)
-
-![](https://factsmgt.com/wp-content/themes/facts/img/icon-arrow-orange.svg)
+![](https://factsmgt.com/wp-content/themes/facts/img/icon-arrow-blue.svg) ![](https://factsmgt.com/wp-content/themes/facts/img/icon-arrow-orange.svg)
 
 [Home](https://factsmgt.com/) » Privacy Policy
 
