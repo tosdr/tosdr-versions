@@ -158,7 +158,7 @@ En cualquier caso, puedes inhabilitar las cookies de Google Analytics desde [aq
 [Firmasign](https://firmaprofesional.com/soluciones-para-la-gestion-de-certificados-digitales/firmasign/)
 
 [Sistema de emisión/gestión de certificados](https://firmaprofesional.com/servicios/sistema-de-emision-gestion-de-certificados/)  
-Video ID  
+[Video ID](https://firmaprofesional.com/servicios/video-id-firmaprofesional/)  
 [Custodia de clave de cifrado](https://firmaprofesional.com/servicios/custodia-de-claves-de-cifrado/)
 
 ![](https://firmaprofesional.com/wp-content/uploads/2024/06/segured-negativo-1-1-1024x450.png)
@@ -180,8 +180,14 @@ c/ de Cantabria, 5
 
 [![Logo Ministerio Asuntos Economicos y transformacion digital](https://firmaprofesional.com/wp-content/uploads/2020/12/download.png "ACREDITACIONES")](https://sedeaplicaciones.minetur.gob.es/Prestadores/)
 
-[![](https://firmaprofesional.com/wp-content/uploads/2021/01/unnamed-1.png)](https://webgate.ec.europa.eu/tl-browser/)
+[![](https://firmaprofesional.com/wp-content/uploads/2024/06/eidas-negativo-firma.png)](https://eidas.ec.europa.eu/efda/tl-browser/#/screen/tl/ES/17)
 
-[![](https://firmaprofesional.com/wp-content/uploads/2021/06/image001-247x300.jpg)](https://firmaprofesional.com/wp-content/uploads/pdfs/ENS_FIRMAPROFESIONAL_ALTA_2024.pdf)
+[![](https://firmaprofesional.com/wp-content/uploads/2024/06/distintivo_ens_certificacion_ALTA_RD311-2022-842x1024.png)](https://firmaprofesional.com/wp-content/uploads/pdfs/ENS_FIRMAPROFESIONAL_ALTA_2024.pdf)
+
+[![Sello ISO27001](https://firmaprofesional.com/wp-content/uploads/2024/06/ISO-27001_LOGALTY.jpg)](https://firmaprofesional.com/wp-content/uploads/pdfs/ISO27001_ESP_Logalty-Solutions.pdf)
+
+[![Sello ISO22301](https://firmaprofesional.com/wp-content/uploads/2024/06/ISO-22301_LOGALTY.jpg)](https://firmaprofesional.com/wp-content/uploads/pdfs/ISO22301_ESP_Logalty-Solutions.pdf)
+
+[![ISO9001 Firmaprofesional](https://firmaprofesional.com/wp-content/uploads/2024/05/firmaprofesional_1s_talogo_qm_23-e1717068612393.png)](https://firmaprofesional.com/wp-content/uploads/pdfs/ISO9001_Firmaprofesional_esp_2024.pdf)
 
 © Copyright 2024 Firmaprofesional | [AVISO LEGAL](https://www.firmaprofesional.com/aviso-legal) | [POLÍTICA DE PRIVACIDAD](https://www.firmaprofesional.com/aviso-legal#politica-de-privacidad) | [COOKIES](https://www.firmaprofesional.com/cookies/)
