@@ -171,42 +171,42 @@ F-Droid is powered by your donations!
 
 ### News
 
+* [One twenty for everyone](https://f-droid.org/en/2024/06/13/twif.html) Jun 13, 2024
 * [Dozens of new apps](https://f-droid.org/en/2024/06/06/twif.html) Jun 06, 2024
 * [Want the Universe?](https://f-droid.org/en/2024/05/30/twif.html) May 30, 2024
 * [Finally an alternative to Big Tech, your new open-source mobile ecosystem - Mobifree](https://f-droid.org/en/2024/05/24/mobifree.html) May 24, 2024
 * [Relatively good news](https://f-droid.org/en/2024/05/23/twif.html) May 23, 2024
-* [Repository Overhaul in new Client 1.20](https://f-droid.org/en/2024/05/16/repository-overhaul-in-client-1-20.html) May 16, 2024
 
 ### Last Updated
 
-[![](https://f-droid.org/repo/org.stendhalgame.client/en-US/icon_23DHW_bN-CgktuBnJQthcIazT99tCog8kmT8nfFZrpU=.png)
+[![](https://f-droid.org/repo/spam.blocker/en-US/icon_NvpPfzS3J8Gx5PNIZUjNWQwk8ECPl6nVjaQ_6-8FsxY=.png)
 
-#### Stendhal Game
+#### SpamBlocker (Call & SMS)
 
-A multiplayer adventure with classic 2D graphics](https://f-droid.org/en/packages/org.stendhalgame.client/)[![](https://f-droid.org/repo/org.opensurge2d.surgeengine/en-US/icon_y00XnoBPnodoJADb489FZtgOI5j5dU_rSk2Wp55eHrI=.png)
+Spam Call/SMS blocker](https://f-droid.org/en/packages/spam.blocker/)[![](https://f-droid.org/repo/eu.faircode.email/en-US/icon_0a2E8tt03J6IsBb7HvvI88FYOaaWLuP1Ea73naLIvxg=.png)
 
-#### Open Surge: retro game engine
+#### FairEmail
 
-A retro game engine with a fun platformer for making your dreams come true!](https://f-droid.org/en/packages/org.opensurge2d.surgeengine/)[![](https://f-droid.org/repo/org.openhab.habdroid.beta/en-US/icon_MbJ4aGShNFnfKlhvFAVK16j1qoM_JBPo0xjNuwSsP_g=.png)
+Fully featured email client. Neat, intuitive user interface. Privacy friendly](https://f-droid.org/en/packages/eu.faircode.email/)[![](https://f-droid.org/repo/com.trianguloy.urlchecker/en-US/icon_rZsKdOLVtJ8ntxqmPOAu37uqpFBryzGzV7uWWeicfL4=.png)
 
-#### openHAB Beta
+#### URLCheck
 
-Vendor and technology agnostic open source home automation](https://f-droid.org/en/packages/org.openhab.habdroid.beta/)
+Allows analyzing (or sharing) URLs before opening them.](https://f-droid.org/en/packages/com.trianguloy.urlchecker/)
 
 ### Latest Apps
 
-[![](https://f-droid.org/repo/com.exner.tools.fototimer/en-US/icon_fhqKaTWSlwNjvxJz-tKBTztzLiFIgffw5RXp-RpCSMM=.png)
+[![](https://f-droid.org/repo/com.example.notificationalerter/en-US/icon_Oltgjy9BWau-vDbMXRuL2Ueh8dAu_QF42cEmrznr-do=.jpg)
 
-#### Foto Timer
+#### Notification Listener
 
-App that counts, beeps, and helps with repeating tasks, such as at the gym.](https://f-droid.org/en/packages/com.exner.tools.fototimer/)[![](https://f-droid.org/repo/com.yozachar.apps.soundcraftmixer/en-US/icon_9NSJNH1gLlEP3CeSodwcUfN6ACMXa6V8MM80Df3AaUc=.png)
+Get notified only of important notifications.](https://f-droid.org/en/packages/com.example.notificationalerter/)[![](https://f-droid.org/repo/com.keshav.capturesposed/en-US/icon_W6M--rmiIW-m3bNPTNGDM2WiFlOGfyN_RpTrVn9Y5Ak=.png)
 
-#### Mixer Controller
+#### CaptureSposed
 
-Access digital audio mixer's via WebUI.](https://f-droid.org/en/packages/com.yozachar.apps.soundcraftmixer/)[![](https://f-droid.org/repo/com.kin.easynotes/en-US/icon_H6h46QXWMcqgOjxjPjSN4_nk2P-Epu0hNSB5loaqOaU=.png)
+Add support for blocking the Screenshot Detection API introduced in Android 14!](https://f-droid.org/en/packages/com.keshav.capturesposed/)[![](https://f-droid.org/repo/lying.fengfeng.foodrecords/en-US/icon_RJGg36wokusre3RGMlbGC6kB-0kcTtsZTTK0OiO8gAk=.png)
 
-#### Easy Notes
+#### Fridgey
 
-A modern notes app with material design](https://f-droid.org/en/packages/com.kin.easynotes/)
+A Fridgey to help recording your food!](https://f-droid.org/en/packages/lying.fengfeng.foodrecords/)
 
-© 2010-2024 F-Droid Contributors (F-Droid 2024-06-06, fdroid-website [2.234](https://gitlab.com/fdroid/fdroid-website/tree/3b2dc4db84)) [Status](https://fdroidstatus.org/) | [Edit on GitLab](https://gitlab.com/fdroid/fdroid-website/edit/master/)
+© 2010-2024 F-Droid Contributors (F-Droid 2024-06-18, fdroid-website [2.236](https://gitlab.com/fdroid/fdroid-website/tree/f8e91be5b5)) [Status](https://fdroidstatus.org/) | [Edit on GitLab](https://gitlab.com/fdroid/fdroid-website/edit/master/)
