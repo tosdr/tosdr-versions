@@ -1,4 +1,4 @@
-Wir schenken dir 30 % auf jede Aufladung bis zum 10.06.2024!
+Wir schenken dir 40 % auf jede Aufladung bis zum 23.06.2024!
 
 [Anmelden](#)
 
