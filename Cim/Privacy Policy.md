@@ -20,7 +20,7 @@ Cookie Consent by [Free Privacy Policy Generator website](https://www.freeprivac
 
 ← Back
 
-[Overview](https://www.cimgroup.com/public-investment-programs)[CIM RACR](https://www.cimgroup.com/public-investment-programs/racr)[CMCT Preferred](https://www.cimgroup.com/public-investment-programs/cmct-preferred-old)[CMFT](https://www.cimgroup.com/public-investment-programs/cmft)
+[Overview](https://www.cimgroup.com/public-investment-programs)[CIM RACR](https://www.cimgroup.com/public-investment-programs/racr)[CMCT Preferred](https://www.cimgroup.com/public-investment-programs/cmct-preferred)[CMFT](https://www.cimgroup.com/public-investment-programs/cmft)
 
 ← Back
 
@@ -82,7 +82,7 @@ Investment Platforms
 
 Public Investment Programs
 
-[Overview](https://www.cimgroup.com/public-investment-programs)[CIM RACR](https://www.cimgroup.com/public-investment-programs/racr)[CMCT Preferred](https://shareholders.creativemediacommunity.com/preferred-shareholder-info/cmct-preferred-stock)[CMFT](https://www.cimgroup.com/public-investment-programs/cmft)
+[Overview](https://www.cimgroup.com/public-investment-programs)[CIM RACR](https://www.cimgroup.com/public-investment-programs/racr)[CMCT Preferred](https://www.cimgroup.com/public-investment-programs/cmct-preferred)[CMFT](https://www.cimgroup.com/public-investment-programs/cmft)
 
 [Portfolio](https://www.cimgroup.com/portfolio)
 
