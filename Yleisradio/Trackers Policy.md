@@ -2,7 +2,7 @@
 
 [Etusivu](https://yle.fi/)
 
-[Venäjän hyökkäys](https://yle.fi/t/18-334977/fi)[Vaalikone](https://vaalit.yle.fi/vaalikone/eurovaalit2024)[Futistietäjä](https://yle.fi/a/74-20087576)
+[Venäjän hyökkäys](https://yle.fi/t/18-334977/fi)[Jalkapallon EM](https://yle.fi/t/18-247479/fi)[Futistietäjä](https://yle.fi/a/74-20087576)
 
 [Hae](https://haku.yle.fi/)
 
@@ -13,13 +13,8 @@ Valikko
 Pinnalla nyt
 
 * [Venäjän hyökkäys](https://yle.fi/t/18-334977/fi)
-* [Vaalikone](https://vaalit.yle.fi/vaalikone/eurovaalit2024)
-* [Futistietäjä](https://yle.fi/a/74-20087576)
 * [Jalkapallon EM](https://yle.fi/t/18-247479/fi)
-* [Yleisurheilun EM](https://yle.fi/a/74-20092753)
-* [Kisapähkinä](https://yle.fi/a/74-20092378)
-* [Eurovaalit](https://yle.fi/t/18-354742/fi)
-* [Pesälive](https://yle.fi/a/74-20084002)
+* [Futistietäjä](https://yle.fi/a/74-20087576)
 
 * [Etusivu](https://yle.fi/)
 * [Uutisia lyhyesti](https://yle.fi/uutiset)
