@@ -27,6 +27,7 @@ Toggle navigation
     * [Directions](https://openrouteservice.org/dev/#/api-docs/v2/directions/%7Bprofile%7D/get)
     * [Isochrones](https://openrouteservice.org/dev/#/api-docs/v2/isochrones/%7Bprofile%7D/post)
     * [Matrix](https://openrouteservice.org/dev/#/api-docs/v2/matrix/%7Bprofile%7D/post)
+    * [Snap](https://openrouteservice.org/dev/#/api-docs/v2/snap/%7Bprofile%7D/post)
     * [Geocode](https://openrouteservice.org/dev/#/api-docs/geocode)
     * [Pois](https://openrouteservice.org/dev/#/api-docs/pois)
     * [Elevation](https://openrouteservice.org/dev/#/api-docs/elevation)
