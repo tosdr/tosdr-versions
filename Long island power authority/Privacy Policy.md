@@ -1,6 +1,6 @@
 [Skip to content](#content "Skip to content")
 
-![LIPA Bell Alert Icon 24x24](https://www.lipower.org/wp-content/uploads/2024/01/bell-icon-24x24-1.svg) Alert Icon
+![LIPA Bell Alert Icon 24x24px for Announcement Bar top of page.](https://www.lipower.org/wp-content/uploads/2024/01/bell-icon-24x24-1.svg) Alert Icon
 
 Upcoming Event:
 
@@ -35,8 +35,9 @@ Wednesday, June 26, 2024 | 9:00 AM – 10:00 AM – [Finance and Audit Committee
     
     * [Strategic Direction](https://www.lipower.org/strategic-direction/ "Strategic Direction")
     * [Board Members](https://www.lipower.org/board-of-trustees/ "Board Members")
-    * [Meetings & Materials](https://www.lipower.org/board-of-trustees/board-meetings/ "Meetings & Materials")
     * [Committee Information](https://www.lipower.org/board-of-trustees/committee-information/ "Committee Information")
+    * [Meetings & Materials](https://www.lipower.org/board-of-trustees/board-meetings/ "Meetings & Materials")
+    * [Meeting Webcasts](https://www.lipower.org/board-webcasts/ "Meeting Webcasts")
     
     ![Missing ALT Text](https://www.lipower.org/wp-content/uploads/2024/01/boardoftrustees.jpg)
     
@@ -63,8 +64,8 @@ Wednesday, June 26, 2024 | 9:00 AM – 10:00 AM – [Finance and Audit Committee
     
     [Learn More](https://www.lipower.org/vendor-management/reformed-management-contract-with-pseg-long-island/ "Learn More")
     
-    * [Contracts & Reports](https://www.lipower.org/contracts-and-reports/ "Contracts & Reports")
     * [Reformed Management Contract with PSEG Long Island](https://www.lipower.org/operational-partners/reformed-management-contract-with-pseg-long-island/ "Reformed Management Contract with PSEG Long Island")
+    * [Contracts & Reports](https://www.lipower.org/contracts-and-reports/ "Contracts & Reports")
     * [Performance Metrics](https://www.lipower.org/operational-partners/performance-metrics/ "Performance Metrics")
     
     ![Missing ALT Text](https://www.lipower.org/wp-content/uploads/2024/01/vendormanagement.jpg)
@@ -259,8 +260,6 @@ It is our policy to post any changes we make to our privacy policy on this page.
 **Contact Information**  
 To ask questions or comment about this privacy policy and our privacy practices, contact us at:  
 LIPA, 333 Earle Ovington Blvd. 4th Floor, Uniondale, NY 11553 or call 516.222.7700
-
-4867-3432-0809, v. 1
 
 Footer Menu
 
