@@ -28,6 +28,8 @@ MODELS
 
 [Contact Us](https://www.lotuscars.com/en-US/contact-us)
 
+[Investor Relations](http://www.group-lotus.com/)
+
 LOCATION:
 
 United States
