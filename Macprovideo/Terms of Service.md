@@ -3,8 +3,6 @@
 [](https://macprovideo.com/home)
 
 * [Library](https://macprovideo.com/library)
-* [Classrooms](https://macprovideo.com/classrooms/?nleloc=classrooms)
-* [Curriculums](https://macprovideo.com/classrooms/?nleloc=curriculums)
 * [Articles](https://macprovideo.com/articles)
 * [Pricing](https://macprovideo.com/plans)
 * [Faculty](https://macprovideo.com/about/faculty)
