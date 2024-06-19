@@ -240,7 +240,8 @@ Seravo Oy
 Kauppakatu 3 A 4  
 33200 Tampere  
 
-**help@seravo.com**
+help@seravo.com  
+044 777 0020
 
 ### Seravo
 
@@ -274,6 +275,8 @@ Kauppakatu 3 A 4
 
 ### Ohjeita
 
+* [Aloita tästä](https://seravo.com/fi/aloita-tasta/)
+* [Tietopankki](https://help.seravo.fi/)
 * [Kehittäjäohjeet](https://seravo.com/docs/)
 * [Palvelun tila](https://status.seravo.com/)
 * [Tietoturva](https://seravo.com/fi/usein-kysyttya-tietoturvasta/)
