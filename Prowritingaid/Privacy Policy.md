@@ -184,9 +184,9 @@ España
 
 [Integrations](https://prowritingaid.com/integrations)
 
-[Windows Everywhere Integration](https://prowritingaid.com/everywhere-download-windows)[Mac Everywhere Integration](https://prowritingaid.com/everywhere-download-mac)
+[Desktop Everywhere for Windows](https://prowritingaid.com/everywhere-download-windows)[Desktop Everywhere for Mac](https://prowritingaid.com/everywhere-download-mac)
 
-[Google Docs](https://prowritingaid.com/en/App/GoogleDocs)[Microsoft Office](https://prowritingaid.com/en/App/Office)[Desktop App (Scrivener)](https://prowritingaid.com/download/desktop)
+[Google Docs](https://prowritingaid.com/en/App/GoogleDocs)[Microsoft Office](https://prowritingaid.com/en/App/Office)[Desktop Editor](https://prowritingaid.com/download/desktop)
 
 Features
 
