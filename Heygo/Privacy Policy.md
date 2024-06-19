@@ -9,8 +9,8 @@
     * [Subscribe to job alerts](https://restless.co.uk/join/)
     * [Age diverse employers](https://restless.co.uk/jobs/age-diverse-employers/)
     * [Career advice](https://restless.co.uk/career-advice/)
-        * [CV tips](https://restless.co.uk/career-advice/cv-writing-tips/)
         * [Help finding a job](https://restless.co.uk/career-advice/help-finding-a-job/)
+        * [CV tips](https://restless.co.uk/career-advice/cv-writing-tips/)
         * [Interview advice](https://restless.co.uk/career-advice/job-interview-tips/)
         * [Job ideas](https://restless.co.uk/career-advice/job-ideas/)
         * [Career change guides](https://restless.co.uk/career-advice/career-change-advice/)
@@ -523,6 +523,12 @@ Where to travel abroad by month...
 New in travel
 -------------
 
+[![10 of the best Cornwall hotels with sea views](https://media.restless.co.uk/uploads/2024/06/the-best-cornwall-hotels-with-sea-views-1-768x512.jpg)](https://restless.co.uk/travel/the-best-cornwall-hotels-with-sea-views/)
+
+### [10 of the best Cornwall hotels with sea views](https://restless.co.uk/travel/the-best-cornwall-hotels-with-sea-views/)
+
+[Read More »](https://restless.co.uk/travel/the-best-cornwall-hotels-with-sea-views/)
+
 [![20 best places to cruise month by month](https://media.restless.co.uk/uploads/2024/05/best-places-to-cruise-month-by-month-768x508.jpg)](https://restless.co.uk/travel/best-places-to-cruise-month-by-month/)
 
 ### [20 best places to cruise month by month](https://restless.co.uk/travel/best-places-to-cruise-month-by-month/)
@@ -553,32 +559,8 @@ New in travel
 
 [Read More »](https://restless.co.uk/travel/the-best-last-minute-holiday-destinations/)
 
-[![10 best cruise destinations for 2024-2025](https://media.restless.co.uk/uploads/2024/05/best-cruise-destinations-for-2024-2025-768x512.jpg)](https://restless.co.uk/travel/best-cruise-destinations-for-2024-2025/)
-
-### [10 best cruise destinations for 2024-2025](https://restless.co.uk/travel/best-cruise-destinations-for-2024-2025/) 
-
-[Read More »](https://restless.co.uk/travel/best-cruise-destinations-for-2024-2025/)
-
 Popular travel guides
 ---------------------
-
-[![things to do and places to visit in the UK in March](https://media.restless.co.uk/uploads/2023/02/things-to-do-and-places-to-visit-in-the-uk-in-march-768x576.jpg)](https://restless.co.uk/travel/things-to-do-and-places-to-visit-in-the-uk-in-march/)
-
-### [12 things to do and places to visit in the UK in March](https://restless.co.uk/travel/things-to-do-and-places-to-visit-in-the-uk-in-march/)
-
-[Read More »](https://restless.co.uk/travel/things-to-do-and-places-to-visit-in-the-uk-in-march/)
-
-[![12 things to do and places to visit in February in the UK](https://media.restless.co.uk/uploads/2023/01/things-to-do-and-places-to-visit-in-february-in-the-uk-768x537.jpg)](https://restless.co.uk/travel/things-to-do-and-places-to-visit-in-february-in-the-uk/)
-
-### [12 things to do and places to visit in February in the UK](https://restless.co.uk/travel/things-to-do-and-places-to-visit-in-february-in-the-uk/)
-
-[Read More »](https://restless.co.uk/travel/things-to-do-and-places-to-visit-in-february-in-the-uk/)
-
-[![7 of the cheapest Caribbean islands to visit on a budget](https://media.restless.co.uk/uploads/2023/08/the-cheapest-caribbean-islands-to-visit-on-a-budget-1-768x511.jpg)](https://restless.co.uk/travel/the-cheapest-caribbean-islands-to-visit-on-a-budget/)
-
-### [7 of the cheapest Caribbean islands to visit on a budget](https://restless.co.uk/travel/the-cheapest-caribbean-islands-to-visit-on-a-budget/)
-
-[Read More »](https://restless.co.uk/travel/the-cheapest-caribbean-islands-to-visit-on-a-budget/)
 
 [![9 holiday destinations you can fly to in two hours or under](https://media.restless.co.uk/uploads/2023/07/holiday-destinations-you-can-fly-to-in-two-hours-or-under-768x525.jpg)](https://restless.co.uk/travel/countries-you-can-get-to-in-two-hours-or-under/)
 
@@ -592,6 +574,48 @@ Popular travel guides
 
 [Read More »](https://restless.co.uk/travel/amazing-countries-you-can-get-to-in-under-four-hours/)
 
+[![10 World War II sites you can visit in Europe](https://media.restless.co.uk/uploads/2023/09/world-war-ii-sites-you-can-visit-in-europe-1-768x512.jpg)](https://restless.co.uk/travel/world-war-ii-sites-you-can-visit-in-europe/)
+
+### [10 World War II sites you can visit in Europe](https://restless.co.uk/travel/world-war-ii-sites-you-can-visit-in-europe/)
+
+[Read More »](https://restless.co.uk/travel/world-war-ii-sites-you-can-visit-in-europe/)
+
+[![7 of the cheapest Caribbean islands to visit on a budget](https://media.restless.co.uk/uploads/2023/08/the-cheapest-caribbean-islands-to-visit-on-a-budget-1-768x511.jpg)](https://restless.co.uk/travel/the-cheapest-caribbean-islands-to-visit-on-a-budget/)
+
+### [7 of the cheapest Caribbean islands to visit on a budget](https://restless.co.uk/travel/the-cheapest-caribbean-islands-to-visit-on-a-budget/)
+
+[Read More »](https://restless.co.uk/travel/the-cheapest-caribbean-islands-to-visit-on-a-budget/)
+
+[![10 places with Viking connections to visit in the UK](https://media.restless.co.uk/uploads/2023/05/places-with-viking-connections-to-visit-in-the-uk-768x459.jpg)](https://restless.co.uk/travel/places-with-viking-connections-to-visit-in-the-uk/)
+
+### [10 places with Viking connections to visit in the UK](https://restless.co.uk/travel/places-with-viking-connections-to-visit-in-the-uk/)
+
+[Read More »](https://restless.co.uk/travel/places-with-viking-connections-to-visit-in-the-uk/)
+
+[![](https://media.restless.co.uk/uploads/2021/04/28_of_the_best_historical_sites_to_visit_in_the_uk_hero-768x512.jpg)](https://restless.co.uk/travel/the-best-historical-sites-to-visit-in-the-uk/)
+
+### [28 of the best historical sites to visit in the UK](https://restless.co.uk/travel/the-best-historical-sites-to-visit-in-the-uk/)
+
+[Read More »](https://restless.co.uk/travel/the-best-historical-sites-to-visit-in-the-uk/)
+
+[![6 of the cheapest countries to visit in Southeast Asia](https://media.restless.co.uk/uploads/2023/04/the-cheapest-countries-to-visit-in-southeast-asia-1-768x511.jpg)](https://restless.co.uk/travel/the-cheapest-countries-to-visit-in-southeast-asia/)
+
+### [6 of the cheapest countries to visit in Southeast Asia](https://restless.co.uk/travel/the-cheapest-countries-to-visit-in-southeast-asia/)
+
+[Read More »](https://restless.co.uk/travel/the-cheapest-countries-to-visit-in-southeast-asia/)
+
+[![things to do and places to visit in the UK in March](https://media.restless.co.uk/uploads/2023/02/things-to-do-and-places-to-visit-in-the-uk-in-march-768x576.jpg)](https://restless.co.uk/travel/things-to-do-and-places-to-visit-in-the-uk-in-march/)
+
+### [12 things to do and places to visit in the UK in March](https://restless.co.uk/travel/things-to-do-and-places-to-visit-in-the-uk-in-march/)
+
+[Read More »](https://restless.co.uk/travel/things-to-do-and-places-to-visit-in-the-uk-in-march/)
+
+[![12 things to do and places to visit in February in the UK](https://media.restless.co.uk/uploads/2023/01/things-to-do-and-places-to-visit-in-february-in-the-uk-768x537.jpg)](https://restless.co.uk/travel/things-to-do-and-places-to-visit-in-february-in-the-uk/)
+
+### [12 things to do and places to visit in February in the UK](https://restless.co.uk/travel/things-to-do-and-places-to-visit-in-february-in-the-uk/)
+
+[Read More »](https://restless.co.uk/travel/things-to-do-and-places-to-visit-in-february-in-the-uk/)
+
 [![11 travel destinations where you can avoid crowds](https://media.restless.co.uk/uploads/2023/01/travel-destinations-where-you-can-avoid-crowds-768x512.jpg)](https://restless.co.uk/travel/travel-destinations-where-you-can-avoid-crowds/)
 
 ### [11 travel destinations where you can avoid crowds](https://restless.co.uk/travel/travel-destinations-where-you-can-avoid-crowds/)
@@ -604,12 +628,6 @@ Popular travel guides
 
 [Read More »](https://restless.co.uk/travel/the-cheapest-countries-to-visit-in-europe/)
 
-[![10 World War II sites you can visit in Europe](https://media.restless.co.uk/uploads/2023/09/world-war-ii-sites-you-can-visit-in-europe-1-768x512.jpg)](https://restless.co.uk/travel/world-war-ii-sites-you-can-visit-in-europe/)
-
-### [10 World War II sites you can visit in Europe](https://restless.co.uk/travel/world-war-ii-sites-you-can-visit-in-europe/)
-
-[Read More »](https://restless.co.uk/travel/world-war-ii-sites-you-can-visit-in-europe/)
-
 [![10 budget-friendly all-inclusive holiday destinations](https://media.restless.co.uk/uploads/2023/10/budget-friendly-all-inclusive-holiday-destinations-1-768x511.jpg)](https://restless.co.uk/travel/budget-friendly-all-inclusive-holiday-destinations/)
 
 ### [9 budget-friendly all-inclusive holiday destinations](https://restless.co.uk/travel/budget-friendly-all-inclusive-holiday-destinations/) 
@@ -621,12 +639,6 @@ Popular travel guides
 ### [14 of the best travel destinations to visit in April](https://restless.co.uk/travel/the-best-travel-destinations-to-visit-in-april/)
 
 [Read More »](https://restless.co.uk/travel/the-best-travel-destinations-to-visit-in-april/)
-
-[![6 of the cheapest countries to visit in Southeast Asia](https://media.restless.co.uk/uploads/2023/04/the-cheapest-countries-to-visit-in-southeast-asia-1-768x511.jpg)](https://restless.co.uk/travel/the-cheapest-countries-to-visit-in-southeast-asia/)
-
-### [6 of the cheapest countries to visit in Southeast Asia](https://restless.co.uk/travel/the-cheapest-countries-to-visit-in-southeast-asia/)
-
-[Read More »](https://restless.co.uk/travel/the-cheapest-countries-to-visit-in-southeast-asia/)
 
 [![8 of the most beautiful airports in the world](https://media.restless.co.uk/uploads/2023/06/the-most-beautiful-airports-in-the-world-768x511.jpg)](https://restless.co.uk/travel/the-most-beautiful-airports-in-the-world/)
 
@@ -754,6 +766,8 @@ Rest Less is an Introducer Appointed Representative (IAR) of Seopa Ltd (FRN: 313
 **How does Rest Less make money** – We make money through advertising and commission from affiliate links, which enable us to offer Rest Less as a free service to our users. The content on this page may use affiliate links, which track traffic from our website to a third party provider and enable us to receive a commission or payment from any traffic we refer.
 
 \* Affiliate links on this page have an \* next to them. We place enormous importance on our editorial independence and the integrity of our content which means that we will never change how we write about something as a result of an affiliate link.
+
+Any prices shown are subject to availability and may go up or down. To see the latest accurate pricing, please visit the provider's website.
 
 When using any of our marketplaces – e.g. jobs, courses, energy comparison etc. We may receive money from third parties who are listed on our marketplaces e.g. an employer paying to advertise a job, or a course or energy provider paying a commission to us.
 
