@@ -11,7 +11,7 @@
 * [](https://www.instagram.com/meditohq)
 * [](https://www.linkedin.com/in//company/meditofoundation)
 
-* [Donate](https://meditofoundation.org/donate)
+* [Donate](https://donate.meditofoundation.org/)
 
 Terms of service
 ================
