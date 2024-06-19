@@ -34,7 +34,7 @@ Free pickup today
 
 Set your store
 
-Save $5 on Father’s Day Frames. [Shop now](https://www.hallmark.com/fathers-day/?prefn1=workplace&prefv1=Father%27s+Day+Frames&icid=glbl_rib_060124_shop-fd-frames-offer#productgrid)
+Free Shipping on $30+ with Crown Rewards. [Sign in or Join today](https://www.hallmark.com/login/?icid=glbl_rib_061724_cr-free-shipping)
 
 [Offers](https://www.hallmark.com/offers/)
 
@@ -57,29 +57,6 @@ We found suggestions
 
   [![Hallmark logo](https://www.hallmark.com/on/demandware.static/-/Sites-hmk-onesite-Library/default/dw13b1a67d/images/icons/logo-desktop.svg)](https://www.hallmark.com/ "Home page")
 
-* Father's Day
-    
-    [View all Father's Day](https://www.hallmark.com/fathers-day/)
-    
-    [View all Father's Day](https://www.hallmark.com/fathers-day/)
-    
-    [Father's Day Gift Ideas](#)
-    ----------------------------
-    
-    [View all Father's Day Gift Ideas](#)
-    
-    [Kitchen & Grilling Gifts](https://www.hallmark.com/fathers-day/?prefn1=Department&prefv1=House+%26+Home&prefn2=productLineDisplay&prefv2=Kitchen#productgrid)
-    
-    [Beagle Scouts Snoopy Gifts](https://www.hallmark.com/shop-peanuts/?prefn1=theme&prefv1=Beagle+Scouts#productgrid)
-    
-    [Star Wars™](https://www.hallmark.com/fathers-day/?prefn1=characters&prefv1=Star+Wars#productgrid)
-    
-    [All Gifts](https://www.hallmark.com/fathers-day/fathers-day-gifts/)
-    
-    [All Cards](https://www.hallmark.com/fathers-day/fathers-day-cards/)
-    
-    [All Gift Wrap](https://www.hallmark.com/fathers-day/fathers-day-gift-wrap/)
-    
 * Occasions
     
     [View all Occasions](https://www.hallmark.com/occasions/)
@@ -90,8 +67,6 @@ We found suggestions
     -------------
     
     [View all Holidays](#)
-    
-    [Father's Day (6/16/24)](https://www.hallmark.com/fathers-day/)
     
     [Halloween (10/31/24)](https://www.hallmark.com/halloween/)
     
@@ -105,12 +80,14 @@ We found suggestions
     
     [Mother's Day (5/11/25)](https://www.hallmark.com/mothers-day/)
     
+    [Father's Day (6/15/25)](https://www.hallmark.com/fathers-day/)
+    
     [Celebrations](#)
     -----------------
     
     [View all Celebrations](#)
     
-    [Pride Month (6/1-6/30/24)](https://www.hallmark.com/lgbtqia/)
+    [Pride Month (6/1-6/30)](https://www.hallmark.com/lgbtqia/)
     
     [Anniversary](https://www.hallmark.com/anniversary/)
     
@@ -180,8 +157,6 @@ We found suggestions
     
     [View all Holidays](#)
     
-    [Father's Day (6/16)](https://www.hallmark.com/fathers-day/fathers-day-cards/)
-    
     [Halloween (10/31/24)](https://www.hallmark.com/halloween/halloween-cards/)
     
     [Thanksgiving (11/28/24)](https://www.hallmark.com/thanksgiving/thanksgiving-cards/)
@@ -193,6 +168,8 @@ We found suggestions
     [Easter (4/20/25)](https://www.hallmark.com/easter/easter-cards/)
     
     [Mother's Day (5/11/25)](https://www.hallmark.com/mothers-day/mothers-day-cards/)
+    
+    [Father's Day (6/15/25)](https://www.hallmark.com/fathers-day/fathers-day-cards/)
     
     [Celebrations](#)
     -----------------
@@ -274,8 +251,6 @@ We found suggestions
     
     [eCards](https://www.hallmark.com/ecards/)
     
-    [Add a Video](https://www.hallmark.com/video-greeting-cards/)
-    
     [Shop All Personalized Cards](https://www.hallmark.com/cards/?prefn1=personalizationType&prefv1=Add+a+Message+Inside%7CAdd+Photos%7CAdd+Video)
     
 * Gifts
@@ -288,8 +263,6 @@ We found suggestions
     ------------------------
     
     [View all Holiday & Occasions](#)
-    
-    [Father's Day (6/16)](https://www.hallmark.com/fathers-day/fathers-day-gifts/)
     
     [Anniversary](https://www.hallmark.com/anniversary/anniversary-gifts/)
     
@@ -501,8 +474,6 @@ We found suggestions
     
     [View all Holidays](https://www.hallmark.com/search/?cgid=%2Fgift-wrap%2Fbows-and-ribbons%2F)
     
-    [Father's Day (6/16)](https://www.hallmark.com/fathers-day/fathers-day-gift-wrap/)
-    
     [Halloween (10/31/24)](https://www.hallmark.com/halloween/halloween-gift-wrap/)
     
     [Christmas (12/25/24)](https://www.hallmark.com/christmas/christmas-gift-wrap/)
@@ -512,6 +483,8 @@ We found suggestions
     [Easter (4/20/25)](https://www.hallmark.com/easter/easter-gift-wrap/)
     
     [Mother's Day (5/11/25)](https://www.hallmark.com/mothers-day/mothers-day-gift-wrap/)
+    
+    [Father's Day (6/15/25)](https://www.hallmark.com/fathers-day/fathers-day-gift-wrap/)
     
     [Occasions](#)
     --------------
@@ -581,6 +554,42 @@ We found suggestions
     
     [All Party Supplies](https://www.hallmark.com/party-supplies/)
     
+* Personalized
+    
+    [View all Personalized](#)
+    
+    [Personalized Cards](#)
+    -----------------------
+    
+    [View all Personalized Cards](#)
+    
+    [Custom Greeting Cards](https://www.hallmark.com/customized-cards/)
+    
+    [Invitations](https://www.hallmark.com/cards/invitations/)
+    
+    [Annoucements](https://www.hallmark.com/cards/announcements/)
+    
+    [Holiday Photo Cards](https://www.hallmark.com/cards/photo-cards/)
+    
+    [eCards](https://www.hallmark.com/ecards/)
+    
+    [Shop All](https://www.hallmark.com/cards/?prefn1=personalizationType&prefv1=Add+a+Message+Inside%7CAdd+Photos%7CAdd+Video#productgrid)
+    
+    [Personalized Ornaments](#)
+    ---------------------------
+    
+    [View all Personalized Ornaments](#)
+    
+    [Add Photo(s)](https://www.hallmark.com/ornaments/personalized-ornaments/?prefn1=feature&prefv1=Add+Photo%28s%29#productgrid)
+    
+    [Milestones](https://www.hallmark.com/ornaments/personalized-ornaments/?prefn1=theme&prefv1=Milestones#productgrid)
+    
+    [Favorite Characters](https://www.hallmark.com/ornaments/personalized-ornaments/?prefn1=theme&prefv1=Pop+Culture#productgrid)
+    
+    [Sports](https://www.hallmark.com/ornaments/personalized-ornaments/?prefn1=theme&prefv1=Sports+%26+Activities#productgrid)
+    
+    [Shop All](https://www.hallmark.com/ornaments/personalized-ornaments/)
+    
 * Ideas & Inspiration
     
     [View all Ideas & Inspiration](https://ideas.hallmark.com/)
@@ -624,15 +633,13 @@ We found suggestions
     
     [View all Seasonal Ideas](#)
     
-    [Father's Day (6/16)](https://ideas.hallmark.com/fathers-day-ideas/)
-    
-    [Spring](https://ideas.hallmark.com/spring-ideas/)
-    
     [Summer](https://ideas.hallmark.com/summer-ideas/)
     
     [Fall](https://ideas.hallmark.com/fall-ideas/)
     
     [Winter](https://ideas.hallmark.com/winter-ideas/)
+    
+    [Spring](https://ideas.hallmark.com/spring-ideas/)
     
 * [Offers](https://www.hallmark.com/offers/)
     
@@ -645,7 +652,7 @@ We found suggestions
     [Contact Us](https://care.hallmark.com/)
     
 
-Get it by Father’s Day: Order by Tues., June 11 with expedited shipping. Details
+Buy two, get one free Hallmark Celebrate! [Shop party supplies](https://www.hallmark.com/party-supplies/?prefn1=collections&prefv1=Hallmark+Celebrate%21&icid=glbl_rib_061724_bogo-hallmarkcelebrate#productgrid)
 
 Hallmark Terms of Use
 ---------------------
