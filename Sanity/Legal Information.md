@@ -142,7 +142,7 @@
         Discover
         --------
         
-        [Blog](https://www.sanity.io/blog)[Resource library](https://www.sanity.io/resources)[Glossary](https://www.sanity.io/glossary)[Agency partners](https://www.sanity.io/agency-partners)[Become a partner](https://www.sanity.io/agency-partners?ref=navbar#become-a-partner)[Technical support](https://www.sanity.io/contact/support)
+        [Blog](https://www.sanity.io/blog)[Events](https://www.sanity.io/events?ref=navbar)[Resource library](https://www.sanity.io/resources)[Glossary](https://www.sanity.io/glossary)[Agency partners](https://www.sanity.io/agency-partners)[Technical support](https://www.sanity.io/contact/support)
         
         [Talk to sales](https://www.sanity.io/contact/sales?ref=navbar-resources)
         
