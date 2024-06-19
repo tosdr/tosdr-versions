@@ -21,6 +21,8 @@ Effective Date: May 03, 2022
 
 Welcome to Enpass! We invite you to access our services, but please note that your invitation is subject to your agreement with these Terms of Use. This page represents a legal document and is the Terms of Use (Agreement) for our Website, [www.enpass.io](https://www.enpass.io/), [discussion.enpass.io](https://discussion.enpass.io/), our mobile, web, and desktop applications, collectively and hereinafter called “Platform.”
 
+If you are accessing Enpass Services under a license provided by your employer or any entity, please refer to the [Enpass Business Terms of Use.](https://www.enpass.io/terms-of-use-business/)
+
 #### Definitions
 
 The terms “us”, “we”, and “our” refer to our company Enpass Technologies Inc the owner of the Platform. A “Visitor” is someone who merely browses our Platform. A “Member” is someone who has registered with us to use our Platform. The term “User” is a collective identifier that refers to either a Visitor or a Member.
