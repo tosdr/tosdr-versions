@@ -48,7 +48,9 @@
     
     Join the fight to make the internet a better place.](https://protonmail.com/community)[Open source
     
-    Everyone is welcome to inspect our code. We're open.](https://protonmail.com/community/open-source)
+    Everyone is welcome to inspect our code. We're open.](https://protonmail.com/community/open-source)[Proton Foundation
+    
+    Our non-profit model puts people before profit.](https://protonmail.com/foundation)
     
 * Resources & Support
     
@@ -158,54 +160,54 @@ We are scientists, engineers, and specialists from around the world drawn togeth
 Related articles
 ----------------
 
-![](https://res.cloudinary.com/dbulfrlrz/images/f_auto,q_auto/v1717517008/wp-pme/google-dma-non-compliance/google-dma-non-compliance.?_i=AA)
-
-* Opinion
-
-[Google’s DMA compliance plan is a sham](https://protonmail.com/blog/google-bundling-ignores-dma)
-
-It’s been roughly two months since the European Union’s Digital Markets Act (DMA), which aims to restore competition and fairness to the internet, came into effect for Big Tech monopolies. Since then, Google has done precisely nothing to comply with
-
-![](https://res.cloudinary.com/dbulfrlrz/images/f_auto,q_auto/v1717533228/wp-pme/b2b-mail-pricing-change-blog2x/b2b-mail-pricing-change-blog2x.?_i=AA)
-
-* For business
-
-[We’re improving Proton business plans with more flexibility and features](https://protonmail.com/blog/proton-business-updates)
-
-Today we’re announcing enhancements to our business plans, further enriching our commitment to delivering the best privacy experience for businesses. These upgrades will help us continue expanding our feature suite for organizations, while giving mor
-
-![Proton Pass brings secure and private password management to all devices](https://res.cloudinary.com/dbulfrlrz/images/f_auto,q_auto/v1717662396/wp-pme/gtm-mac-safari-linux-blog/gtm-mac-safari-linux-blog.?_i=AA)
-
-* Product updates
-* Proton Pass
-
-[Proton Pass brings secure and private password management to all devices](https://protonmail.com/blog/proton-pass-all-devices)
-
-Today, we’re excited to announce the launch of the Proton Pass macOS app and the Proton Pass Linux app. One of the most popular requests from the Proton community was a standalone desktop app, which is now available on every major platform — Windows,
-
-![](https://res.cloudinary.com/dbulfrlrz/images/f_auto,q_auto/v1717169464/wp-pme/surveillance_at_home_blog_cover/surveillance_at_home_blog_cover.?_i=AA)
-
-* Privacy news
-
-[The spies in your home: How WiFi companies monitor your private life](https://protonmail.com/blog/wifi-surveillance)
-
-When you use the internet at home, connected to everything from fitness equipment to game consoles, smartphones, and laptops, marketing companies could be watching you with a tiny piece of surveillance tech you might not even know about. We’re talki
-
-![](https://res.cloudinary.com/dbulfrlrz/images/f_auto,q_auto/v1717532520/wp-pme/proton-survey-blog-cover_7458141e70/proton-survey-blog-cover_7458141e70.?_i=AA)
+![](https://res.cloudinary.com/dbulfrlrz/images/f_auto,q_auto/v1718618908/wp-pme/proton-foundation/proton-foundation.png?_i=AA)
 
 * Proton news
 
-[Results of the 2024 Proton community survey](https://protonmail.com/blog/2024-proton-survey-results)
+[Proton is transitioning towards a non-profit structure](https://protonmail.com/blog/proton-non-profit-foundation)
 
-Every year, we send a survey to the Proton community asking for your feedback and ideas. We then use that information to guide our future plans. This year, we received thousands of responses, giving us insight into what you expect from us.  As one o
+From the very beginning, Proton has always been a different type of organization. This was probably evident from the way in which we got started via a public crowdfunding campaign that saw 10,000 people donate over $500,000 to launch development. As
 
-![](https://res.cloudinary.com/dbulfrlrz/images/f_auto,q_auto/v1717193581/wp-pme/what_is_a_rainbow_table_attack_blog_cover2x/what_is_a_rainbow_table_attack_blog_cover2x.?_i=AA)
+![](https://res.cloudinary.com/dbulfrlrz/images/f_auto,q_auto/v1718410500/wp-pme/how_to_protect_personal_information_onlline_blog_cover2x/how_to_protect_personal_information_onlline_blog_cover2x.?_i=AA)
 
 * Privacy guides
 
-[What is a rainbow table attack and how to prevent it?](https://protonmail.com/blog/what-is-rainbow-table-attack)
+[13 ways to protect your personal information online](https://protonmail.com/blog/how-to-protect-personal-information-online)
 
-Hackers use various methods to crack passwords, and one of them is the rainbow table attack. In certain cases, this method can be faster than dictionary attacks or credential stuffing. In this article, we explore how rainbow table attacks work and d
+Your online data is valuable. While it might feel like you’re browsing the web for free, you’re actually paying marketing companies with your personal information. Often, even when you pay for services, these companies still collect and profit from y
+
+![](https://res.cloudinary.com/dbulfrlrz/images/f_auto,q_auto/v1718410162/wp-pme/what_is_a_password_spraying_attack_blog_cover2x/what_is_a_password_spraying_attack_blog_cover2x.?_i=AA)
+
+* Privacy guides
+
+[What is a password spraying attack?](https://protonmail.com/blog/password-spraying-attack)
+
+Password spraying attacks pose a major risk to individuals and organizations as a method to breach network security by trying commonly used passwords across numerous accounts. This article explores password spraying attacks, explaining their methods
+
+![](https://res.cloudinary.com/dbulfrlrz/images/f_auto,q_auto/v1718409051/wp-pme/how_to_autogenerate_passwords_blog_cover2x/how_to_autogenerate_passwords_blog_cover2x.?_i=AA)
+
+* Privacy guides
+
+[How to auto-generate passwords that are actually secure](https://protonmail.com/blog/auto-generate-password)
+
+A secure password is your first defense against unauthorized access to your personal information. While there are tools that generate strong passwords, remembering these complex combinations can become a challenge. Even if you use mnemonic devices,
+
+![](https://res.cloudinary.com/dbulfrlrz/images/f_auto,q_auto/v1718071998/wp-pme/email_hosting_blog_cover/email_hosting_blog_cover.?_i=AA)
+
+* For business
+
+[How to pick the best email hosting provider for your small business](https://protonmail.com/blog/email-hosting-small-business)
+
+Choosing the best email hosting provider for your small business is crucial for maintaining security, control, and compliance with data protection laws.  For one, many popular providers, such as Gmail and Outlook, don’t apply end-to-end encryption b
+
+![](https://res.cloudinary.com/dbulfrlrz/images/f_auto,q_auto/v1718221040/wp-pme/drive-sharing-feat2x/drive-sharing-feat2x.?_i=AA)
+
+* Product updates
+* Proton Drive
+
+[Proton Drive introduces new sharing features for more security and control](https://protonmail.com/blog/enhanced-sharing-drive)
+
+Today, we’re excited to announce new enhancements to Proton Drive’s sharing functionality, giving you greater control over who you share with and how you share your files and folders. This feature builds on how sharing currently works in Drive by le
 
 ![Proton](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693233221/static/logos/proton-logo-p_kftwpv.svg)
 
@@ -244,6 +246,7 @@ Proton - Privacy by default
     * [About us](https://protonmail.com/about)
     * [Team](https://protonmail.com/about/team)
     * [Impact](https://protonmail.com/about/impact)
+    * [Proton Foundation](https://protonmail.com/foundation)
     * [Careers
         
         We’re hiring](https://protonmail.com/careers)
