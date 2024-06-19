@@ -14,12 +14,12 @@ FREE shipping on USA orders of $99+
         
         FEATURED
         
+        * [Summer Vibes](https://dudeperfect.store/collections/summer-vibes)
         * [DP15 - Limited Edition](https://dudeperfect.store/collections/dp-fifteen)
         * [New Arrivals](https://dudeperfect.store/collections/new-arrivals)
         * [Best Sellers](https://dudeperfect.store/collections/best-sellers)
         * [Jerseys](https://dudeperfect.store/collections/all-jerseys)
         * [Autographed Book](https://dudeperfect.store/products/dude-perfect-101-tricks-tips-and-cool-stuff-book-autographed)
-        * [Bundles](https://dudeperfect.store/collections/bundles)
         * [Sale](https://dudeperfect.store/collections/sale)
         * [Shop All](https://dudeperfect.store/collections/all)
         
@@ -236,12 +236,12 @@ United Kingdom | USD $
 * SHOP
     
     * [FEATURED](#)
+        * [Summer Vibes](https://dudeperfect.store/collections/summer-vibes)
         * [DP15 - Limited Edition](https://dudeperfect.store/collections/dp-fifteen)
         * [New Arrivals](https://dudeperfect.store/collections/new-arrivals)
         * [Best Sellers](https://dudeperfect.store/collections/best-sellers)
         * [Jerseys](https://dudeperfect.store/collections/all-jerseys)
         * [Autographed Book](https://dudeperfect.store/products/dude-perfect-101-tricks-tips-and-cool-stuff-book-autographed)
-        * [Bundles](https://dudeperfect.store/collections/bundles)
         * [Sale](https://dudeperfect.store/collections/sale)
         * [Shop All](https://dudeperfect.store/collections/all)
     * [YOUTH](#)
