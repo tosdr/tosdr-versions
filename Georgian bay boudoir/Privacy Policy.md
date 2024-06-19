@@ -7,9 +7,7 @@
 Main Navigation
 ---------------
 
-[![Georgian Bay Boudoir Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20343%20120'%3E%3C/svg%3E)
-
-![Georgian Bay Boudoir Logo](//georgianbayboudoir.com/wp-content/uploads/2023/07/gbb-logo.png)](https://georgianbayboudoir.com/)
+[![Georgian Bay Boudoir Logo](//georgianbayboudoir.com/wp-content/uploads/2023/07/gbb-logo.png)](https://georgianbayboudoir.com/)
 
 * [Portfolio](# "Portfolio")
     * [Women](https://georgianbayboudoir.com/everyday-women-boudoir/ "Women")
