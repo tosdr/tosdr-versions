@@ -141,7 +141,7 @@ Marketing  Marketing
 
 The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.
 
-[Optionen verwalten](#) [Dienste verwalten](#) [Manage {vendor\_count} vendors](#) [Lese mehr über diese Zwecke](https://cookiedatabase.org/tcf/purposes/)
+[Optionen verwalten](#) [Dienste verwalten](#) [Verwalten von {vendor\_count}-Lieferanten](#) [Lese mehr über diese Zwecke](https://cookiedatabase.org/tcf/purposes/)
 
 Alles akzeptieren Alles ablehnen Selbst auswählen Save preferences [Selbst auswählen](#)
 
