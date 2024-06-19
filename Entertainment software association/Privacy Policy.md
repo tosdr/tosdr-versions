@@ -293,7 +293,9 @@ We may amend this Privacy Policy at any time. If we make any material changes in
 Proud member of
 ---------------
 
-[![Logo of IARC - International Age Rating Coalition](/wp-content/uploads/2019/04/iarc.svg)](https://www.globalratings.com/ "IARC - International Age Rating Coalition")
+[![Logo of IARC - International Age Rating Coalition](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20359%20122'%3E%3C/svg%3E)
+
+![Logo of IARC - International Age Rating Coalition](/wp-content/uploads/2019/04/iarc.svg)](https://www.globalratings.com/ "IARC - International Age Rating Coalition")
 
 [Site Map](#)
 
