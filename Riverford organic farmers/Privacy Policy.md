@@ -225,9 +225,6 @@ Header area, including main menu and site search
             
             Riverford's gender pay gap report](https://www.riverford.co.uk/ethics-and-ethos/gender-pay-gap)
         
-    * [Get fair about farming 
-        
-        Our mission to make supermarkets get fair about farming.](https://getfairaboutfarming.co.uk/)
     * [Planet action
         
         We’re investing millions to fight the climate crisis, encourage biodiversity, and support sustainable farming](https://www.riverford.co.uk/planet-action)
@@ -251,6 +248,9 @@ Header area, including main menu and site search
     * [Careers
         
         Learn more about a career at Riverford, including current vacancies](https://www.riverford.co.uk/about/work-with-us)
+    * [Get fair about farming 
+        
+        Our mission to make supermarkets get fair about farming.](https://getfairaboutfarming.co.uk/)
     * [Wicked Leeks magazine 
         
         Interviews, opinion pieces, ethical lifestyle tips & more](https://wickedleeks.riverford.co.uk/)
@@ -399,9 +399,6 @@ Help
 Protecting your privacy
 =======================
 
-Introduction
-------------
-
 **This privacy notice describes how Riverford Organic Farmers Ltd (“We”) collect and use the personal information of our customers and prospective customers in accordance with the General Data Protection Regulation (GDPR) and other relevant legislation.**
 
 To give you the best possible organic experience we need to gather data. We want to be transparent about why we need the personal details we request when you engage with us and how we will use them.
@@ -540,6 +537,7 @@ Who we share your data with, how we protect it and your rights.
 ---------------------------------------------------------------
 
 1. Our business partners and franchisees in order to fulfil our contract with you. Data is accessed from centrally maintained systems. No personal information is sent across the open internet.
+    
 2. We use an external email platform provided by MAPP to fulfil our service and marketing communication needs. MAPP adheres to the GDPR when processing data for customers operating within the EU.
     
     Use of a third party email provider is necessary and legitimate for us to execute the service you sign up for with Riverford. MAPP provide the following statement about how your data is protected:
@@ -567,6 +565,7 @@ Who we share your data with, how we protect it and your rights.
     As an ethical business that uses profits to invest back into protecting the environment, it is our legitimate interest to take all reasonable steps to acquire new customers whilst avoiding unnecessary cost.
     
 7. We use Experian’s services to identify areas of the UK where we may find people similar to our current customers. This enables us to plan and optimise franchise and delivery areas to reduce cost and minimise impact on the environment. Information is shared via Experian’s secure document upload service. Experian protects your information over the internet by using a secure web server, which allows web browser programs to interact with Experian’s web server via an encrypted session.
+    
 8. Selected business partners you consent to hear from (for example when we run joint competitions with companies matching our ethics). If you enter a joint competition and tick a box agreeing that our partner can send you promotional information directly, we will share your information via the legal basis of consent which will be gained each time you enter a competition.
     
     The third party will have their own Privacy Policy
@@ -600,6 +599,7 @@ Your rights and how to activate your rights
 -------------------------------------------
 
 * **To ask us not to process your data for marketing purposes**
+    
     * Update your [preferences online](https://www.riverford.co.uk/account/) (requires login). Changes may take 24 hours to come into effect.
     * Email [help@riverford.co.uk](mailto:help@riverford.co.uk)
     * Call [01803 227 227](tel:+441803227227)
@@ -618,6 +618,7 @@ Your rights and how to activate your rights
     The GDPR requires us to act upon the request within one month of receipt.
     
 * **To ask us not to process your data for the purpose of our legitimate interest. We will action your request unless we believe the legitimate interest overrides your circumstances**
+    
     * Email [datasecurity@riverford.co.uk](mailto:datasecurity@riverford.co.uk)
 
 Changes to this policy
@@ -700,7 +701,7 @@ Or [sign in](#) to your account
 
 * [Terms and conditions](https://www.riverford.co.uk/terms-and-conditions?src=footer-nav)
 * [Privacy information](https://www.riverford.co.uk/privacy?src=footer-nav)
-* [Cookie policy](https://media.riverford.co.uk/downloads/Cookie+Policy+2021-10-05.pdf)
+* [Cookie policy](https://www.riverford.co.uk/cookie-policy?src=footer-nav)
 
 © 2017-2024
 
