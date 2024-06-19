@@ -306,7 +306,7 @@ Main navigation
             
             How are experience research teams keeping pace?
             
-            [Get the report](https://www.usertesting.com/hub-2023-experience-research-industry-report)
+            [Get the report](https://www.usertesting.com/2023-experience-research-report-form)
             
               
             
@@ -331,8 +331,6 @@ Main navigation
                 
             * [Test templates](https://www.usertesting.com/resources/templates)
                 
-            * [Topics](https://www.usertesting.com/resources/topics)
-                
             * [Webinars](https://www.usertesting.com/resources/library/webinars)
                 
             
@@ -349,8 +347,6 @@ Main navigation
             
         * Product Releases
             
-            * [Latest release](https://www.usertesting.com/resources/product-releases)
-                
             * [Previous releases](https://www.usertesting.com/resources/product-releases#previous-product-releases)
                 
             
@@ -512,6 +508,7 @@ Footer
 * Resources
     * Digital Resources
         * [All resources](https://www.usertesting.com/resource-library)
+        * [Usability Testing](https://www.usertesting.com/resources/guides/usability-testing)
         * [Product Design](https://www.usertesting.com/resources/guides/product-design)
         * [Blog](https://www.usertesting.com/blog)
         * [Customer stories](https://www.usertesting.com/resources/customers)
