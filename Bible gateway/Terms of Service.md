@@ -30,7 +30,7 @@ account
     * [Devotionals](https://www.biblegateway.com/devotionals/)
     * [Bible Gateway App](https://www.biblegateway.com/app/)
     * [Bible Audio App](https://www.biblegateway.com/bible-audio-app/)
-    * [Bible Gateway Blog](https://biblegateway.com/blog/)
+    * [News & Knowledge](https://www.biblegateway.com/learn/)
 * store
     
     Store
@@ -38,11 +38,11 @@ account
     * [Deals](https://faithgateway.com/collections/biblegateway-special-deals?utm_source=bg&utm_medium=referral&utm_campaign=nav_deals)
     * [More](https://faithgateway.com/?utm_source=bg&utm_medium=referral&utm_campaign=nav_more)
 
-[Love C.S. Lewis? Sign up for daily inspiration today!](https://www.biblegateway.com/landing/cslewis/?utm_source=bg&utm_medium=alert_mobile&utm_campaign=alert_cslewis20221006)
+[Sign up and be **encouraged** by Max Lucdado daily.](https://www.biblegateway.com/landing/encouragingword/?utm_source=bg&utm_medium=alert_mobile&utm_campaign=alert_lucado1010)
 
 close
 
-[Find answers to your Bible questions with Bible Gateway Plus. Try it free today!](https://www.biblegateway.com/plus/?utm_source=bg&utm_medium=alert&utm_campaign=bgplus_alert_answerquestions0516)
+[For less than $5/mo. get to know the Bible better! Now with $3,100 worth of study resources. Try BibleGateway+ free today!](https://www.biblegateway.com/plus/?utm_source=bg&utm_medium=alert&utm_campaign=bgplus_alert_gettoknow_value053024)
 
 close
 
@@ -195,7 +195,7 @@ I HAVE READ THIS AGREEMENT AND AGREE TO ALL OF THE PROVISIONS CONTAINED ABOVE.
 ### About
 
 * [About](https://www.biblegateway.com/about/)
-* [Learn About the Bible](https://www.biblegateway.com/learn/)
+* [News & Knowledge](https://www.biblegateway.com/learn/)
 * [Statement of Faith](https://www.biblegateway.com/about/faith/)
 * [Mobile App](https://www.biblegateway.com/app/)
 * [Store](https://faithgateway.com/?utm_source=bg&utm_medium=referral&utm_campaign=bgnav_footer)
