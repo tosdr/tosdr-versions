@@ -202,7 +202,7 @@ Menu [![Regions logo](/rdcresources/content/media/img/regions-logo-no-r.svg)](ht
         * [Trust & Asset Administration Services](https://www.regions.com/wealth-management/trust-asset-administration-services)
         * [Estate Planning](https://www.regions.com/wealth-management/estate-planning)
         * [Natural Resources & Real Estate Management](https://www.regions.com/wealth-management/natural-resources-and-real-estate-management)
-        * [Find a Wealth Advisor](https://www.regions.com/locator?type=wa)
+        * [Find a Wealth Advisor](https://www.regions.com/directory/wealth-advisor)
         
     * [Investing & Retirement](#)
         
@@ -410,8 +410,6 @@ You are here:
 * [![](/rdcresources/content/media/img/equal-housing-lender.svg)](https://www.regions.com/help/equal-housing-lender)
 * [![](/rdcresources/content/media/img/member-fdic.svg)](https://www.regions.com/help/fdic-statement)
 
- [![](/rdcresources/content/media/img/maa-icon.svg) Make an Appointment (Opens in a new window)](https://timetrade.com/app/regions/workflows/REGPHONE/schedule/?campaignId=website)
-
 ×
 
 Schedule an Appointment
@@ -448,3 +446,5 @@ You’re leaving Regions.com to visit an external website or app.
 Regions provides links to other websites or apps for your convenience and does not control the content, services or products provided on the linked website or app, whose Privacy and security policies or procedures may differ. Consult the policies or disclosures on their website.
 
 [Continue](#) Cancel
+
+ [![](-/media/Images/Icon/icon-calendar/icon-calendar.svg) Make an Appointment (Opens in a new window)](https://timetrade.com/app/regions/workflows/REGPHONE/schedule/?campaignId=website&view=embed "make-an-appointment")
