@@ -162,6 +162,7 @@
         * [Innovation & Technology](https://www.prettylitter.com/news-and-stories/innovation-technology)
         * [Health & Wellbeing](https://www.prettylitter.com/news-and-stories/health-wellbeing)
         * [Science & Research](https://www.prettylitter.com/news-and-stories/science-research)
+        * [Community Impact](https://www.prettylitter.com/news-and-stories/community-impact)
     * Explore by Type
         * [Perspectives](https://www.prettylitter.com/news-and-stories/perspective)
         * [Press Releases and Statements](https://www.prettylitter.com/news-and-stories/press-releases-statements)
