@@ -30,7 +30,7 @@
 Privacy Policy
 ==============
 
-published October 3, 2013 · updated June 7, 2024
+published October 3, 2013 · updated June 10, 2024
 
 ReligionFacts.com does not collect any personally-identifiable information from visitors. No part of the site requires you to register or log in, and we don't use cookies.
 
@@ -49,10 +49,10 @@ Article Info
 | --- | --- |
 | Article Title | Privacy Policy |
 | Date Published | October 3, 2013 |
-| Last Updated | June 7, 2024 |
+| Last Updated | June 10, 2024 |
 | Full URL | https://religionfacts.com/privacy |
 | Short URL | https://rlft.co/1879 |
-| MLA Citation | “Privacy Policy.” _ReligionFacts._ 3 Oct 2013, https://religionfacts.com/privacy. Accessed 10 Jun 2024. |
+| MLA Citation | “Privacy Policy.” _ReligionFacts._ 3 Oct 2013, https://religionfacts.com/privacy. Accessed 19 Jun 2024. |
 | Embed Link | <a href="https://religionfacts.com/privacy">Privacy Policy</a> — ReligionFacts |
 
 © 2004-2024 [ReligionFacts](https://religionfacts.com/). All rights reserved.
