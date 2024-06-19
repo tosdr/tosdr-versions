@@ -8,10 +8,10 @@ DISMISS
 
 [](https://www.foxsports.com/)
 
-* [Home](https://www.foxsports.com/)
 * [Scores](https://www.foxsports.com/scores)
 * [Watch](https://www.foxsports.com/live)
-* [Podcasts](https://www.foxsports.com/podcasts)
+* [UEFA Euro 2024](https://www.foxsports.com/soccer/2024-uefa-euro-cup)
+* [COPA AMÉRICA](https://www.foxsports.com/soccer/2024-copa-america)
 * [Odds](https://www.foxsports.com/odds)
 * [Super 6](https://www.foxsports.com/fox-super-6)
 * [Stories](https://www.foxsports.com/stories)
@@ -364,7 +364,7 @@ Affiliated Apps
 
 Quick Links
 
- [![Copa America Image](https://b.fssta.com/uploads/application/soccer/competition-logos/copaamerica2024-alternate2.vresize.40.40.medium.0.png) 2024 Copa America](https://www.foxsports.com/soccer/2024-copa-america) [![UEFA Euro 2024 Image](https://b.fssta.com/uploads/application/soccer/competition-logos/eurocup2024-alternate2.vresize.40.40.medium.0.png) UEFA Euro 2024](https://www.foxsports.com/soccer/2024-uefa-euro-cup) [![NBA Playoff Bracket Image](https://b.fssta.com/uploads/application/leagues/logos/NBA.vresize.40.40.medium.0.png) NBA Playoff Bracket](https://www.foxsports.com/stories/nba/nba-playoff-picture-bracket) [![Belmont Stakes Image](https://b.fssta.com/uploads/application/sports/logos/HorseRacing.vresize.40.40..medium.0.png) Belmont Stakes](https://www.foxsports.com/horse-racing/belmont-stakes)
+ [![Copa America Image](https://b.fssta.com/uploads/application/soccer/competition-logos/copaamerica2024-alternate2.vresize.40.40.medium.0.png) 2024 Copa America](https://www.foxsports.com/soccer/2024-copa-america) [![UEFA Euro 2024 Image](https://b.fssta.com/uploads/application/soccer/competition-logos/eurocup2024-alternate2.vresize.40.40.medium.0.png) UEFA Euro 2024](https://www.foxsports.com/soccer/2024-uefa-euro-cup) [![NBA Playoff Bracket Image](https://b.fssta.com/uploads/application/leagues/logos/NBA.vresize.40.40.medium.0.png) NBA Playoff Bracket](https://www.foxsports.com/stories/nba/nba-playoff-picture-bracket) [![MLB at Rickwood Field Game Image](https://b.fssta.com/uploads/application/leagues/logos/MLB.vresize.40.40.medium.0.png) MLB at Rickwood Field Game](https://www.foxsports.com/mlb/san-francisco-giants-vs-st-louis-cardinals-jun-20-2024-game-boxscore-90660) [![USMNT Logo](https://b.fssta.com/uploads/application/countries/flag-logos/840.vresize.40.40.medium.0.png) USMNT](https://www.foxsports.com/soccer/united-states-men-team)
 
 FOX SPORTS™, SPEED™, SPEED.COM™ & © 2024 Fox Media LLC and Fox Sports Interactive Media, LLC. All rights reserved. Use of this website (including any and all parts and components) constitutes your acceptance of these [Updated Terms of Use and](https://www.foxsports.com/terms-of-use) [Privacy Policy |](https://www.foxsports.com/privacy-policy) [Advertising Choices |](https://www.foxsports.com/privacy-policy#relevant_advertising) [Your Privacy Choices |](https://privacy.foxsports.com/main/web/main) [Closed Captioning](https://www.foxsports.com/closed-captioning)
 
