@@ -1,4 +1,4 @@
-[![FlippingBook logo](https://d1qwl4ymp6qhug.cloudfront.net/Release/R10085/icons/common/logo-full-white.svg "FlippingBook - view and share your online documents with ease.")](https://flippingbook.com/)
+[![FlippingBook logo](https://d1qwl4ymp6qhug.cloudfront.net/Release/R10087/icons/common/logo-full-white.svg "FlippingBook - view and share your online documents with ease.")](https://flippingbook.com/)
 
 Products
 
@@ -8,17 +8,17 @@ Most popular
 
 Web service for converting PDFs into HTML5 flipbooks
 
-![Logo](https://d1qwl4ymp6qhug.cloudfront.net/Release/R10085/icons/common/logo-white.svg)](https://flippingbook.com/online-publishing-service?from=products-menu)
+![Logo](https://d1qwl4ymp6qhug.cloudfront.net/Release/R10087/icons/common/logo-white.svg)](https://flippingbook.com/online-publishing-service?from=products-menu)
 
 [Overview](https://flippingbook.com/online-publishing-service?from=products-menu) [Sharing and embedding](https://flippingbook.com/share-documents-online?from=products-menu) [Content protection](https://flippingbook.com/content-protection?from=products-menu) [Document tracking](https://flippingbook.com/document-tracking?from=products-menu) [Teamwork](https://flippingbook.com/teamwork?from=products-menu) [Sales tools](https://flippingbook.com/sales-tools?from=products-menu) [Marketing tools](https://flippingbook.com/online-marketing-tools?from=products-menu) [Video and links](https://flippingbook.com/adding-video-and-links?from=products-menu) [All features](https://flippingbook.com/online-service-features?from=products-menu)
 
 More Products
 
- [![Desktop](https://d1qwl4ymp6qhug.cloudfront.net/Release/R10085/icons/common/products/desktop.svg) FlippingBook Publisher
+ [![Desktop](https://d1qwl4ymp6qhug.cloudfront.net/Release/R10087/icons/common/products/desktop.svg) FlippingBook Publisher
 
-Software for Windows: host HTML5 flipbooks on your server](https://flippingbook.com/digital-publishing-software?from=products-menu) [![Server](https://d1qwl4ymp6qhug.cloudfront.net/Release/R10085/icons/common/products/server.svg) FlippingBook Automation
+Software for Windows: host HTML5 flipbooks on your server](https://flippingbook.com/digital-publishing-software?from=products-menu) [![Server](https://d1qwl4ymp6qhug.cloudfront.net/Release/R10087/icons/common/products/server.svg) FlippingBook Automation
 
-Professional tool: automated PDF to HTML5 conversion](https://flippingbook.com/automation?from=products-menu) [![Salespal](https://d1qwl4ymp6qhug.cloudfront.net/Release/R10085/icons/common/products/salespal.svg) Salespal
+Professional tool: automated PDF to HTML5 conversion](https://flippingbook.com/automation?from=products-menu) [![Salespal](https://d1qwl4ymp6qhug.cloudfront.net/Release/R10087/icons/common/products/salespal.svg) Salespal
 
 Mobile platform: use flipbooks in sales and at tradeshows](https://flippingbook.com/salespal?from=products-menu)
 
@@ -36,15 +36,15 @@ Contact sales
 
 [Request demo](https://calendly.com/flippingbook-sales-team/demo-session-emea?utm_source=sales-menu) Chat [Email](https://flippingbook.com/contacts?contact-form=sales&subject=Contact%20sales) [+44 808 501 5251](tel:+44 808 501 5251)
 
-[Log in](https://logon.flippingbook.com/login?r=site&t=both&asc=ah*uA1uRI9%2fKm*qagiRKblCdPuvZ%2fiZmqR%2fKZwr7T2fjeCmuFSd6owGNIOdMJpQB) [Try for free](https://logon.flippingbook.com/register?r=site&t=both&asc=DVQvJU34qiz6RYhWHGON6%2fsOHw8SuLxkoFcr*Anil8HE%2fESVn%2f8eCVJ3JlwohHFF)
+[Log in](https://logon.flippingbook.com/login?r=site&t=both&asc=GjH7P3Y3JPKB52l4ps3mHf4Dis2uAj*7kUY0acVGC*TZ10LOK11v6vO5CVxr8C3y) [Try for free](https://logon.flippingbook.com/register?r=site&t=both&asc=PQSHMn7squB6HvXejMMX*yrQWg*XCzmcuMOjNcrTGj8lFyEAokTVpyaJdYW9eQvs)
 
 [My account](https://flippingbook.com/account)
 
 ![Crumb left](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='108 -118.5 313.5 512'%3E%3Cpath d='M108.714 138.299l1.758-1.758 255.091-255.09 55.272 55.273L219.26 138.3l199.816 199.825-55.332 55.334-255.03-255.16z' fill='%23ffffff'/%3E%3C/svg%3E)
 
-[![FlippingBook logo](https://d1qwl4ymp6qhug.cloudfront.net/Release/R10085/icons/common/logo-full-white.svg "FlippingBook - view and share your online documents with ease.")](https://flippingbook.com/)
+[![FlippingBook logo](https://d1qwl4ymp6qhug.cloudfront.net/Release/R10087/icons/common/logo-full-white.svg "FlippingBook - view and share your online documents with ease.")](https://flippingbook.com/)
 
-[Log in](https://logon.flippingbook.com/login?r=site&t=both&asc=4dRADDPFX8kttrgLZ6TSEKUVw8aOL1Q2nqsDCpurC%2fsB9wU9TQFdTeyRHEJpjuxv) [Try for free](https://logon.flippingbook.com/register?r=site&t=both&asc=cwcTZS136V4iCtlh1XhDMmwSuRvh6MB05tJ8nYO4YYvUwToNDE8nkU9PPymxGz5U)
+[Log in](https://logon.flippingbook.com/login?r=site&t=both&asc=ySVa%2ftaM6mZZATfxcDK%2f3f5247l7lOEUiJGE6*jBVR91DV3WFT*6rlomyo3I0cQo) [Try for free](https://logon.flippingbook.com/register?r=site&t=both&asc=LMUJDzwv8tfxNuraN7KvlCapVZwOX*psf1EMB13xlVUBrM4XcVewUwJ2mp*2VICV)
 
 [My account](https://flippingbook.com/account/autonav) [Log out](https://flippingbook.com/account/logout)
 
@@ -390,14 +390,14 @@ Was this article helpful?  Yes No The information is confusing I couldn't find t
 Other Resources
 ---------------
 
-*  [![](https://d1qwl4ymp6qhug.cloudfront.net/Release/R10085/icons/help/other-resources/features.svg)System status](https://status.flippingbook.com/)
-*  [![](https://d1qwl4ymp6qhug.cloudfront.net/Release/R10085/icons/help/other-resources/contact-us.svg)Contact Us](https://flippingbook.com/contacts)
-*  [![](https://d1qwl4ymp6qhug.cloudfront.net/Release/R10085/icons/help/other-resources/user-guide.svg)FlippingBook FAQ](https://online.flippingbook.com/view/215165267/)
-*  [![](https://d1qwl4ymp6qhug.cloudfront.net/Release/R10085/icons/help/other-resources/legacy-products-guide.svg)Legacy Products Guide](https://flippingbook.cld.bz/legacy-products-guide/)
+*  [![](https://d1qwl4ymp6qhug.cloudfront.net/Release/R10087/icons/help/other-resources/features.svg)System status](https://status.flippingbook.com/)
+*  [![](https://d1qwl4ymp6qhug.cloudfront.net/Release/R10087/icons/help/other-resources/contact-us.svg)Contact Us](https://flippingbook.com/contacts)
+*  [![](https://d1qwl4ymp6qhug.cloudfront.net/Release/R10087/icons/help/other-resources/user-guide.svg)FlippingBook FAQ](https://online.flippingbook.com/view/215165267/)
+*  [![](https://d1qwl4ymp6qhug.cloudfront.net/Release/R10087/icons/help/other-resources/legacy-products-guide.svg)Legacy Products Guide](https://flippingbook.cld.bz/legacy-products-guide/)
 
 ;
 
- [![Flippingbook logo](https://d1qwl4ymp6qhug.cloudfront.net/Release/R10085/icons/common/logo-full-middle-baseline.svg) products](https://flippingbook.com/)
+ [![Flippingbook logo](https://d1qwl4ymp6qhug.cloudfront.net/Release/R10087/icons/common/logo-full-middle-baseline.svg) products](https://flippingbook.com/)
 
 [FlippingBook Online](https://flippingbook.com/online-publishing-service?from=footer)
 
@@ -421,10 +421,10 @@ Mobile platform for sales and tradeshow collateral
 
 English
 
-* [English](http://flippingbook.com/en/help/common/privacy-policy-and-disclaimer?from=cookie-banner)
-* [Deutsch](http://flippingbook.com/de/help/common/privacy-policy-and-disclaimer?from=cookie-banner)
-* [Español](http://flippingbook.com/es/help/common/privacy-policy-and-disclaimer?from=cookie-banner)
-* [Français](http://flippingbook.com/fr/help/common/privacy-policy-and-disclaimer?from=cookie-banner)
+* [English](https://flippingbook.com/en/help/common/privacy-policy-and-disclaimer?from=cookie-banner)
+* [Deutsch](https://flippingbook.com/de/help/common/privacy-policy-and-disclaimer?from=cookie-banner)
+* [Español](https://flippingbook.com/es/help/common/privacy-policy-and-disclaimer?from=cookie-banner)
+* [Français](https://flippingbook.com/fr/help/common/privacy-policy-and-disclaimer?from=cookie-banner)
 
 **Examples** [Flipbook](https://flippingbook.com/online-flipbook?from=footer) [Ebook](https://flippingbook.com/ebook-creator?from=footer) [Catalog](https://flippingbook.com/online-digital-catalog?from=footer) [Magazine](https://flippingbook.com/online-digital-magazine?from=footer) [Brochure](https://flippingbook.com/online-digital-brochure?from=footer) [Annual report](https://flippingbook.com/online-annual-report?from=footer) [Newsletter](https://flippingbook.com/online-newsletter?from=footer) [Online document](https://flippingbook.com/online-digital-document?from=footer) [Proposal](https://flippingbook.com/digital-proposal?from=footer) [Pitch](https://flippingbook.com/pitch-deck?from=footer) [Bookshelf](https://flippingbook.com/digital-bookshelf?from=footer)
 
@@ -474,4 +474,4 @@ Follow us: [Facebook](https://www.facebook.com/flippingbook), [Twitter](https://
 
 Copyright © FlippingBook.com. All rights reserved.
 
-![drift chat](https://d1qwl4ymp6qhug.cloudfront.net/Release/R10085/icons/drift/chat.svg)
+![drift chat](https://d1qwl4ymp6qhug.cloudfront.net/Release/R10087/icons/drift/chat.svg)
