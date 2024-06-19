@@ -144,81 +144,81 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![Berand](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1442948-1596495217.jpg)](https://lyricstranslate.com/en/translator/berand "Berand")
+[![Lepi_Saša](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1564981-1679838790.jpg)](https://lyricstranslate.com/en/translator/lepisa%C5%A1a "Lepi_Saša")
 
-New song
+New comment
 
-[Kurgan & Agregat - Вчителька](https://lyricstranslate.com/en/kurgan-agregat-vchytelka-lyrics)
+The text that I posted is, one might say, a parody...  [more](https://lyricstranslate.com/en/comment/1149974#comment-1149974)
 
-Surzhyk
-
-[![Hampsicora](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1215565-1407878733.png)](https://lyricstranslate.com/en/translator/hampsicora "Hampsicora")
-
-New song
-
-[Joaquín Díaz - El arriero de Bembibre](https://lyricstranslate.com/en/joaquin-diaz-el-arriero-de-bembibre-lyrics)
-
-Spanish
-
-[![Berand](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1442948-1596495217.jpg)](https://lyricstranslate.com/en/translator/berand "Berand")
-
-New song
-
-[Kurgan & Agregat - Пітарда](https://lyricstranslate.com/en/kurgan-agregat-pitarda-lyrics)
-
-Surzhyk
-
-[![julietarab](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1050123-1706250255.jpg)](https://lyricstranslate.com/en/translator/julietarab "julietarab")
+[![Lepi_Saša](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1564981-1679838790.jpg)](https://lyricstranslate.com/en/translator/lepisa%C5%A1a "Lepi_Saša")
 
 New translation
 
-[Aoife Ní Fhearraigh - Mo Ghrá Thú](https://lyricstranslate.com/en/aoife-ni-fhearraigh-mo-ghra-thu-english)
+[National Anthems & Patriotic Songs - Serbian National Anthem - Bože pravde](https://lyricstranslate.com/en/national-anthems-p-serbian-national-anthem-montenegrin)
 
-Gaelic (Irish Gaelic) → English
+Serbian → Montenegrin
 
-[![Berand](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1442948-1596495217.jpg)](https://lyricstranslate.com/en/translator/berand "Berand")
+[![Anton M](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1467596-1610563434.jpg)](https://lyricstranslate.com/en/translator/anton-m "Anton M")
 
-New song
+New comment
 
-[Kurgan & Agregat - С.Ш.Р.](https://lyricstranslate.com/en/kurgan-agregat-sshr-lyrics)
+This song can be linked to this one: https://...  [more](https://lyricstranslate.com/en/comment/1149973#comment-1149973)
 
-Surzhyk
-
-[![aylar4455](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1556003-1716721890.jpg)](https://lyricstranslate.com/en/translator/aylar4455 "aylar4455")
+[![uyimyumi](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/uyimyumi "uyimyumi")
 
 New translation
 
-[Serdar Ortaç - Dansöz](https://lyricstranslate.com/en/serdar-ortac-dansoz-persian)
+[NAYEON - Count It](https://lyricstranslate.com/en/nayeon-count-it-english)
 
-Turkish → Persian
+English → English
 
-[![retrosubs](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/retrosubs "retrosubs")
+[![Lepi_Saša](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1564981-1679838790.jpg)](https://lyricstranslate.com/en/translator/lepisa%C5%A1a "Lepi_Saša")
+
+New translation
+
+[Marko Perković - Bojna Čavoglave](https://lyricstranslate.com/en/marko-perkovic-bojna-cavoglave-montenegrin)
+
+Croatian → Montenegrin
+
+[![Joseph Unicornvault](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1600574-1711973162.jpg)](https://lyricstranslate.com/en/translator/joseph3101 "Joseph Unicornvault")
 
 New song
 
-[Ox Tales (ost) - Ox Tales Theme Song (English, Saban Dub)](https://lyricstranslate.com/en/ox-tales-ost-ox-tales-theme-song-engl-lyrics)
+[Bali (OST) - Take a Break!](https://lyricstranslate.com/en/bali-ost-take-break-lyrics)
 
 English
 
-[![Berand](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1442948-1596495217.jpg)](https://lyricstranslate.com/en/translator/berand "Berand")
+[![Lepi_Saša](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1564981-1679838790.jpg)](https://lyricstranslate.com/en/translator/lepisa%C5%A1a "Lepi_Saša")
+
+New translation
+
+[Olga Voronets - Колокольчик (Kolokolʹchik)](https://lyricstranslate.com/en/olga-voronets-kolokolchik-croatian)
+
+Russian → Croatian
+
+[![Lepi_Saša](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1564981-1679838790.jpg)](https://lyricstranslate.com/en/translator/lepisa%C5%A1a "Lepi_Saša")
+
+New translation
+
+[Russian Folk - Колокольчик (Kolokolʹchik)](https://lyricstranslate.com/en/russian-folk-kolokolchik-croatian)
+
+Russian → Croatian
+
+[![Mara_R](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/marar "Mara_R")
+
+New translation
+
+[Carlos Mejía Godoy - Las campesinas del Cua](https://lyricstranslate.com/en/carlos-mejia-godoy-las-campesinas-del-cua-english)
+
+Spanish → English
+
+[![Mohamed Zaki](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1550128-1717144476.jpg)](https://lyricstranslate.com/en/translator/mohamed-zaki "Mohamed Zaki")
 
 New song
 
-[Kurgan & Agregat - 4:20 (Intro)](https://lyricstranslate.com/en/kurgan-agregat-420-intro-lyrics)
+[Leila Forouhar - راه شیراز](https://lyricstranslate.com/en/leila-forouhar-rahe-shiraz-lyrics)
 
-Surzhyk
-
-[![Don Juan](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1110108-1706555942.jpg)](https://lyricstranslate.com/en/translator/don-juan "Don Juan")
-
-New comment
-
-Which are them?  [more](https://lyricstranslate.com/en/comment/1148471#comment-1148471)
-
-[![Don Juan](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1110108-1706555942.jpg)](https://lyricstranslate.com/en/translator/don-juan "Don Juan")
-
-New comment
-
-I'm not really sure this is needed - most artists ...  [more](https://lyricstranslate.com/en/comment/1148470#comment-1148470)
+Persian
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
@@ -236,9 +236,9 @@ Bahasa IndonesiaDeutschEnglishEspañolFrançaisHungarianItalianoNederlandsPolski
 
 Theme
 
-DarkLight
+Dark Light
 
- 
+Log in to access more features and avoid seeing ads. It's free!
 
 Artists:
 
