@@ -86,6 +86,8 @@ Ok](https://www.emp.co.uk/home?forceThisShop=1)
     
 * [Band Merch](https://www.emp.de/band-merch/)
     
+* [Brands](https://www.emp.de/markenkleidung/)
+    
 * [Filme & Serien](https://www.emp.de/fan-merch/)
     
 * [Anime](https://www.emp.de/fan-merch/anime/)
@@ -154,11 +156,11 @@ Ok](https://www.emp.co.uk/home?forceThisShop=1)
 
 Katalog durchsuchen  löschen Suchen
 
-[](https://www.emp.de/sommer/?pmid=SAM-1003_promo_CYD)
+[](https://www.emp.de/extra-sale/)
 
-Bis zu -25%\*
+Bis zu 50% Heimvorteil!
 
-[Jetzt bestellen!](https://www.emp.de/sommer/?pmid=SAM-1003_promo_CYD "Jetzt bestellen!") Code **CHOOSE** kopieren
+[Jetzt sparen!](https://www.emp.de/extra-sale/ "Jetzt sparen!")
 
 Die Javascript-Funktion Ihres Browsers ist deaktiviert.
 
