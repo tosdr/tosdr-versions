@@ -6,11 +6,13 @@ Experiment with 200+ high-quality presets
 
 [Download](https://vs.co/download)
 
+_We’re updating our Terms of Use, effective July 10, 2024. To read our updated Terms of Use,_ [_click here._](https://vsco.co/about/terms-of-use-effective-10-july-2024)
+
 Terms of Use
 
 Effective as of April 15, 2024  
   
-Please click [**here**](https://vsco.co/about/terms-of-use-old) to view the previous version of our Privacy Policy
+Please click [**here**](https://vsco.co/about/terms-of-use-old) to view the previous version of our Terms of Use.
 
 Table of Contents
 -----------------
