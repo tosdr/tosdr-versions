@@ -56,6 +56,8 @@ Europe
 
 [Norsk](https://www.max.com/privacy/children/no-emea)
 
+[Polski](https://www.max.com/privacy/children/pl-emea)
+
 [Português](https://www.max.com/privacy/children/pt-emea)
 
 [Română](https://www.max.com/privacy/children/ro-emea)
