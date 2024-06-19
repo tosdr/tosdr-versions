@@ -130,11 +130,23 @@ If you believe that any information we are holding on you is incorrect or incomp
     
     [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAB+AQAAAADubdWgAAAAAnRSTlMAAHaTzTgAAAAZSURBVEjH7cEBDQAAAMKg909tDwcUAAAPBgnYAAHW6F1SAAAAAElFTkSuQmCC)
     
-    ![](https://washingtonautismalliance.org/wp-content/uploads/2024/05/1-150x126.jpg)](https://washingtonautismalliance.org/events/holidays-through-an-autistic-lens-with-dr-hammel-and-dr-kressin-lunch-learn/?occurrence=2024-06-20)
+    ![](https://washingtonautismalliance.org/wp-content/uploads/2024/05/Holidays-through-an-autistic-lens-LL-150x126.jpg)](https://washingtonautismalliance.org/events/holidays-through-an-autistic-lens-with-dr-hammel-and-dr-kressin-lunch-learn/?occurrence=2024-06-20)
     
     Jun 20 2024
     
-    #### [Holidays through an autistic lens with Dr. Hammel and Dr. Kressin](https://washingtonautismalliance.org/events/holidays-through-an-autistic-lens-with-dr-hammel-and-dr-kressin-lunch-learn/?occurrence=2024-06-20)
+    #### [An autistic person’s vacation perspective with Drs. Kressin and Hammel - Summer Solstice 6-20-24](https://washingtonautismalliance.org/events/holidays-through-an-autistic-lens-with-dr-hammel-and-dr-kressin-lunch-learn/?occurrence=2024-06-20)
+    
+    Zoom https://zoom.us (please download the app and check your internet connectivity)
+    
+    August 2024
+    
+    [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAABpJREFUGBntwTEBAAAAwiD7p14ND2AAAMC9AAu4AAHGdJuwAAAAAElFTkSuQmCC)
+    
+    ![](https://washingtonautismalliance.org/wp-content/uploads/2024/06/White-Blue-Illustration-Education-Day-Instagram-Post-150x150.png)](https://washingtonautismalliance.org/events/holidays-through-an-autistic-lens-with-dr-hammel-and-dr-kressin-lunch-learn-104/?occurrence=2024-08-01)
+    
+    Aug 01 2024
+    
+    #### [MY FIRST IEP WORKSHOP](https://washingtonautismalliance.org/events/holidays-through-an-autistic-lens-with-dr-hammel-and-dr-kressin-lunch-learn-104/?occurrence=2024-08-01)
     
     Zoom https://zoom.us (please download the app and check your internet connectivity)
     
@@ -225,9 +237,9 @@ Kirkland, WA 98033
 
 #### LATEST POSTS
 
+* [Autism Friendly Summer Activities](https://washingtonautismalliance.org/autism-friendly-summer-activities-through-the-autistic-lens/ "Autism Friendly Summer Activities")
+* [Autism CARES (H.R. 7213) in the House Energy and Commerce Committee's Wednesday morning session](https://washingtonautismalliance.org/autism-cares-h-r-7213-in-the-house-energy-and-commerce-committees-wednesday-morning-session/ "Autism CARES (H.R. 7213) in the House Energy and Commerce Committee's Wednesday morning session")
 * [Congratulations 2024 Graduates!](https://washingtonautismalliance.org/congratulations-2024-graduates/ "Congratulations 2024 Graduates!")
-* [Cedar Law Wins Impactful Ninth Circuit Decision on IDEA to (age) 22](https://washingtonautismalliance.org/cedar-law-wins-impactful-ninth-circuit-decision-on-idea-to-age-22/ "Cedar Law Wins Impactful Ninth Circuit Decision on IDEA to (age) 22")
-* [Every month is Autism Acceptance Month ?????](https://washingtonautismalliance.org/every-month-is-autism-acceptance-month-%f0%9f%8c%bc%f0%9f%8c%bf%f0%9f%8c%b1%f0%9f%8d%83%f0%9f%8c%ba/ "Every month is Autism Acceptance Month ?????")
 
 #### QUICK LINKS
 
