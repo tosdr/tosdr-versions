@@ -22,9 +22,6 @@
     * [Credits](https://support.sudomemo.net/credits)
 * [Search](https://www.sudomemo.net/search/)
 
-There have been some intermittent issues with our DNS server recently. If you run into issues, try switching to our temporary backup instead.  
-DNS IP: 159.203.169.189 | [How to Set Up Sudomemo](https://support.sudomemo.net/setup/)
-
 ![](https://support.sudomemo.net/wp-content/themes/sudomemo-help-center/images/sudomemo_help_logo.svg)
 
 [Help Center](https://support.sudomemo.net/)
