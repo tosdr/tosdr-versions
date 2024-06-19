@@ -222,19 +222,7 @@ Menutoggle menu
 
 ##### Email A Friend
 
-Your Email Address 
-
-Email Address 1 
-
-Email Address 2 
-
-Email Address 3 
-
-Email Address 4 
-
-Email Address 5 
-
-   
+### This form is temporarily unavailable.
 
 Email A Friend
 
