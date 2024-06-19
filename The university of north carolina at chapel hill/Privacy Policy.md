@@ -94,12 +94,12 @@ Hide Main Navigation Menu
 
 ### Featured
 
-* [![](https://www.unc.edu/wp-content/uploads/2024/06/ParkerWolfeHERO-250x141.jpg)
+* [![](https://www.unc.edu/wp-content/uploads/2024/06/Chapel-Hill-mural-hero-250x141.jpg)
     
-    Parker Wolfe runs to national title](https://www.unc.edu/posts/2024/06/08/parker-wolfe-runs-to-national-title/)
-* [![](https://www.unc.edu/wp-content/uploads/2024/06/Jasmine-King-250x141.jpg)
+    Extras needed for film production in Chapel Hill](https://www.unc.edu/posts/2024/06/17/extras-needed-for-film-production-in-chapel-hill/)
+* [![](https://www.unc.edu/wp-content/uploads/2024/06/StanAhalt-250x141.jpg)
     
-    Pharmacist reprograms cells to treat brain cancer](https://www.unc.edu/posts/2024/06/07/pharmacist-reprograms-cells-to-treat-brain-cancer/)
+    Stan Ahalt studies society through a data lens](https://www.unc.edu/posts/2024/06/17/stan-ahalt-studies-society-through-a-data-lens/)
 
 About the University
 
@@ -477,7 +477,7 @@ Please contact [privacy@unc.edu](mailto:privacy@unc.edu) for more information on
 
  [LinkedIn](https://www.linkedin.com/sharing/share-offsite/?mini=true&url=%url%&title=%title%)
 
- [Email](https://www.unc.edu/wp-admin/admin-ajax.php?action=has_email_social_modal&permalink=%url%&nonce=8795afed37&text=%prefix%%text%%suffix%&post_id=0&type=%type%)
+ [Email](https://www.unc.edu/wp-admin/admin-ajax.php?action=has_email_social_modal&permalink=%url%&nonce=36588e0e30&text=%prefix%%text%%suffix%&post_id=63&type=%type%)
 
 ### Share on Mastodon
 
