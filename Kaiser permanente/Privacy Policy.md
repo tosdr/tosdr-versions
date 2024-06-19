@@ -398,7 +398,7 @@ Follow us on these external social media sites that will open in a new browser w
 
 * [![Share on Twitter](/etc.clientlibs/settings/wcm/designs/kporg/kp-foundation/clientlib-modules/styleguide/resources/assets/icons/twitter-white.svg)](https://twitter.com/kpthrive "Opens in a new window, external")
 * [![Share on Facebook](/etc.clientlibs/settings/wcm/designs/kporg/kp-foundation/clientlib-modules/styleguide/resources/assets/icons/facebook-white.svg)](https://www.facebook.com/kpthrive "Opens in a new window, external")
-* [![Share on Youtube](/etc.clientlibs/settings/wcm/designs/kporg/kp-foundation/clientlib-modules/styleguide/resources/assets/icons/youtube-white.svg)](http://www.youtube.com/user/kaiserpermanenteorg "Opens in a new window, external")
+* [![Share on YouTube](/etc.clientlibs/settings/wcm/designs/kporg/kp-foundation/clientlib-modules/styleguide/resources/assets/icons/youtube-white.svg)](http://www.youtube.com/user/kaiserpermanenteorg "Opens in a new window, external")
 * [![Share on Pinterest](/etc.clientlibs/settings/wcm/designs/kporg/kp-foundation/clientlib-modules/styleguide/resources/assets/icons/pinterest-white.svg)](https://www.pinterest.com/kpthrive "Opens in a new window, external")
 * [![Share on Instagram](/etc.clientlibs/settings/wcm/designs/kporg/kp-foundation/clientlib-modules/styleguide/resources/assets/icons/instagram-white.svg)](https://instagram.com/kaiserpermanente "Opens in a new window, external")
 
