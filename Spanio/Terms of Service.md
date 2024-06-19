@@ -204,6 +204,6 @@ Individual results will vary.
 
 [Instagram](https://www.instagram.com/get_span/)[LinkedIn](https://www.linkedin.com/company/spanio)[Youtube](https://www.youtube.com/channel/UClLe-YG5QZKFJAlJhwdYPGA)[Facebook](https://www.facebook.com/Span-100114435667344)[Twitter](https://twitter.com/span_io?lang=en)[TikTok](https://www.tiktok.com/@span.io)
 
-[![SPAN Logo white](https://cdn.prod.website-files.com/628f26de26f0252b4094378b/639616396204a014699cb399_resources-logo-white.png)](https://www.span.io/homepage)
+[![SPAN Logo white](https://cdn.prod.website-files.com/628f26de26f0252b4094378b/639616396204a014699cb399_resources-logo-white.png)](https://www.span.io/)
 
 ©2024 SPAN.io, Inc. All rights reserved.
