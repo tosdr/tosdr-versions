@@ -334,4 +334,4 @@ Siteimprove is a registered trademark of Siteimprove A/S - All rights reserved. 
 
 Change language: English
 
-* [Deutsch](https://siteimprove.com/de)
+* [Deutsch](https://siteimprove.com/de/)
