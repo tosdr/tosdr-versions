@@ -1,6 +1,6 @@
  
 
-                             [Skip to content](#main)
+                               [Skip to content](#main)
 
 * [Laptop Builder](https://www.therenewedstore.com/products/laptop-builder-1)
 * Apple
