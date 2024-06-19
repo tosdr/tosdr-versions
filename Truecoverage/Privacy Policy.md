@@ -1443,6 +1443,11 @@ Phone: (+1)888-505-1815
 * [Contact Us](https://truecoverage.com/contact-best-insurance-agency/)
 * [Accessibility Statement](https://truecoverage.com/accessibility-statement/)
 
+**Media Inquiries:**  
+Catherine Riedel  
+Next Level Everything  
+catherine@nextleveleverything.com
+
 * [Follow](https://www.facebook.com/TrueCoveragePX "Follow on Facebook")
 * [Follow](https://twitter.com/truecoveragePX "Follow on X")
 * [Follow](https://www.instagram.com/truecoveragepx/ "Follow on Instagram")
@@ -1524,7 +1529,7 @@ CLOSE
     
 * ![](https://api.trustedform.com/ns.gif)
     
-* Email
+* Comments
     
     This field is for validation purposes and should be left unchanged.
     
