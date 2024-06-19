@@ -92,29 +92,29 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
-[Safety
-
-### Jail time for leaving gun in an unlocked car? Cities nudge states on firearm laws.](https://www.csmonitor.com/USA/2024/0607/local-gun-laws-violence-Savannah-community "Jail time for leaving gun in an unlocked car? Cities nudge states on firearm laws.")
-
-[Trust
-
-### Bringing Rebuilding Trust to a close](https://www.csmonitor.com/Commentary/From-the-Editors/2024/0607/Bringing-Rebuilding-Trust-to-a-close "Bringing Rebuilding Trust to a close")
-
 [Resilience
 
-### Old-timey organ-grinders try to keep pace with modern Mexico City](https://www.csmonitor.com/The-Culture/2024/0607/organ-grinders-mexico-city "Old-timey organ-grinders try to keep pace with modern Mexico City")
+### Safe learning for children in war zones](https://www.csmonitor.com/Commentary/the-monitors-view/2024/0618/Safe-learning-for-children-in-war-zones "Safe learning for children in war zones")
+
+[Integrity
+
+### French athletes avoided talking politics. The rise of the far right changed that.](https://www.csmonitor.com/World/Europe/2024/0618/french-far-right-soccer-stars-mbappe "French athletes avoided talking politics. The rise of the far right changed that.")
+
+[Responsibility
+
+### If the far right wins France’s elections, what would that actually mean?](https://www.csmonitor.com/World/Europe/2024/0618/macron-french-elections-far-right-bardella "If the far right wins France’s elections, what would that actually mean?")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
 * * *
 
-Special project
+Featured podcast
 
-[Can trust bring connection and hope in a divided world? Discover how through global news stories.
+[Discover the values that drive the story.
 
-![](//images.csmonitor.com/csm/2024/01/1168917_1_0131-trust-square_standard.jpg?alias=square_200x200)
+![](//images.csmonitor.com/csm/2022/09/1145231_1_why-we-wrote-this-album-cover-1400_square.png?alias=square_200x200)
 
-### Rebuilding trust](https://www.csmonitor.com/trust&icid=values-tab)
+### Why We Wrote This](https://www.csmonitor.com/podcasts/why-we-wrote-this?icid=values-tab)
 
 News
 
@@ -140,11 +140,11 @@ More
 
 Monitor Daily
 
-June 07, 2024
+June 18, 2024
 
-Looking back on Rebuilding Trust
+The best kind of sequel
 
-Today, we close our Rebuilding Trust project. During the past four months, we’ve taken you to a town in France trying to piece itself together after a horrific crime. To a community in Washington state finding that things as simple as gathering trash can help soften partisan lines. And to climate scientists’ struggle to discover where trust in their work begins.Since Feb. 1, we’ve published 59 trust stories and 16 editorials, including five cover stories for the Monitor Weekly, five “Why We Wrote This” podcast episodes, and one online event with author Alexandra Hudson. Of course, we’ll continue to publish stories about trust, but we’re interested in your feedback on the project – what you appreciated, and what can be improved. We hope we were able to dive beneath the surface to show why trust is so essential to human progress, whether in war or in politics or even at the local animal shelter. You can find all the stories from the project here. Please let me know how we did at editor@csmonitor.com. 
+Ask a reader to describe the Monitor, and one word you’ll often hear is “hope.” Today’s review of “Inside Out 2” by Cameron Pugh and Troy Aidan Sambajon gives me hope that, just maybe, Pixar can get back to its best. From “Toy Story” to “Ratatouille,” Pixar did something more than reinvent animation. It produced films of stunning depth, packaged as children’s fare but more likely to leave adults bawling. They reminded us of the power of all those things we most need – innocence, goodness, love, and, yes, hope. A renewal of those years would be a very welcome sequel.
 
 [Listen to or read today's issue](https://www.csmonitor.com/Daily)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
-[### In Ukraine’s south, marines are waging a grueling battle that could decide the region](https://www.csmonitor.com/World/Europe/2024/0607/ukraine-marines-dnieper-river-russia "In Ukraine’s south, marines are waging a grueling battle that could decide the region")
+[### French athletes avoided talking politics. The rise of the far right changed that.](https://www.csmonitor.com/World/Europe/2024/0618/french-far-right-soccer-stars-mbappe "French athletes avoided talking politics. The rise of the far right changed that.")
 
-[### Jail time for leaving gun in an unlocked car? Cities nudge states on firearm laws.](https://www.csmonitor.com/USA/2024/0607/local-gun-laws-violence-Savannah-community "Jail time for leaving gun in an unlocked car? Cities nudge states on firearm laws.")
+[### If the far right wins France’s elections, what would that actually mean?](https://www.csmonitor.com/World/Europe/2024/0618/macron-french-elections-far-right-bardella "If the far right wins France’s elections, what would that actually mean?")
 
-[### Biden echoes Reagan at Normandy, speaking on the price of freedom](https://www.csmonitor.com/USA/2024/0607/Biden-D-Day-Reagan-Democracy "Biden echoes Reagan at Normandy, speaking on the price of freedom")
+[### Criticized, doubted, and now champions. How two Celtics rewrote their story.](https://www.csmonitor.com/USA/Society/2024/0618/jaylen-brown-jayson-tatum-boston-celtics-nba-finals "Criticized, doubted, and now champions. How two Celtics rewrote their story.")
 
 * * *
 
