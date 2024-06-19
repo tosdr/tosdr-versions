@@ -52,7 +52,7 @@
 Toddle - Terms of Service
 =========================
 
-Last Updated: August 10, 2023
+Last Updated: June 19, 2024
 
 It is Toddle’s mission to help teachers create world-class learning experiences by providing to them a one stop end- to- end solution. To ensure this, it is essential that we create a safe and secure environment where teachers, children and parents freely share content and ideas. Creating such a safe and secure environment is central to the success of our endeavours.
 
@@ -85,7 +85,7 @@ In this document, unless the context otherwise requires:
 
 **“Subscription Period”** means the Service subscription period for a specific Subscriber and its registered Users. The Subscription Period is twelve (12) months with automatic renewal every 12 months and will commence on the Effective Date, or where so agreed a longer or shorter time period, as set forth in the subscription service form. Each agreed subscription will have a separate Subscription Period;
 
-**“Terms and conditions of Use”** means the Service Provider’s supplementary document “Terms and conditions of Use” that the Subscriber has to accept to use the Service, available at http://www.toddleapp.com/tos/ as the same may be updated from time to time.
+**“Terms and conditions of Use”** means the Service Provider’s supplementary document “Toddle Terms of Use” that the Subscriber has to accept to use the Service, available at http://www.toddleapp.com/tou/ as the same may be updated from time to time.
 
 **“User Account Information”** means information requested by Service Provider on Subscriber’s Users in order to set up and register the Users for Services.
 
@@ -185,9 +185,21 @@ In this document, unless the context otherwise requires:
 
 We value and protect your privacy
 
-![](https://www.toddleapp.com/wp-content/uploads/2021/08/Group-2031.png)
+![](https://www.toddleapp.com/wp-content/uploads/2022/05/Group-2031.webp)
 
-[![COPPA logo](https://www.toddleapp.com/wp-content/uploads/2021/08/Group-4236.png)](https://www.toddleapp.com/coppa/)[![Student Privacy Pledge logo](https://www.toddleapp.com/wp-content/uploads/2021/08/Group-4235.png)](https://www.toddleapp.com/pp/)[![ISO logo](https://www.toddleapp.com/wp-content/uploads/2021/08/Group-4234.png)](https://www.toddleapp.com/pp/)[![FERPA logo](https://www.toddleapp.com/wp-content/uploads/2021/08/Group-4233.png)](https://www.toddleapp.com/ferpa/)
+[![COPPA logo](/wp-content/uploads/2024/06/coppa.webp)](https://www.toddleapp.com/coppa/)[![DPDPA logo](/wp-content/uploads/2024/06/dpdpa.webp)](https://www.toddleapp.com/dpdpa/)
+
+![AICPA logo](/wp-content/uploads/2024/06/aicpa.webp)
+
+[![The Student Privacy Pledge 2020 logo](/wp-content/uploads/2024/06/spp.webp)](https://www.toddleapp.com/pp/)
+
+![ISO/IEC logo](/wp-content/uploads/2024/06/iso.webp)
+
+[![GDPR logo](/wp-content/uploads/2024/06/gdpr.webp)](https://www.toddleapp.com/gdpr/)[![FERPA logo](/wp-content/uploads/2024/06/ferpa.webp)](https://www.toddleapp.com/ferpa/)
+
+![CCPA logo](/wp-content/uploads/2024/06/ccpa.webp)
+
+![](/wp-content/uploads/2024/06/safer-techno.webp)
 
 [Visit Privacy Center ![](https://www.toddleapp.com/wp-content/uploads/2021/08/RightArrowOutlined-1.png)](https://www.toddleapp.com/pc/) 
 
