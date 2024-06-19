@@ -303,7 +303,7 @@ La UAH tiene una Política de cookies que puedes consultar [**aquí.**](https://
 
 9. **Política de seguridad**
 
-La UAH protege la seguridad de los datos personales, de la información en general y de los servicios y sistemas que utiliza. Puede consultar la **[Política de seguridad](https://uah.es/export/sites/uah/es/conoce-la-uah/organizacion-y-gobierno/.galleries/Galeria-Secretaria-General/Politica-de-Seguridad-informacion.pdf "Política de seguridad")** 
+La UAH protege la seguridad de los datos personales, de la información en general y de los servicios y sistemas que utiliza. Puede consultar la **[Política de seguridad](https://uah.es/export/shared/es/conoce-la-uah/organizacion-y-gobierno/.galleries/Secretaria-General/Politica-de-Seguridad-informacion.pdf "Política de seguridad")** 
 
 [![Logotipo de la Universidad de Alcalá](/export/sites/uah/.galleries/imagenes-estructura/logopie.png "Logotipo de la Universidad de Alcalá")](https://uah.es/)
 
