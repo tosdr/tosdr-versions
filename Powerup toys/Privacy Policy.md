@@ -1,4 +1,4 @@
-FATHER'S DAY SALE | 20% OFF EVERYTHING
+FREE WORLDWIDE SHIPPING ON ORDERS $49+
 
 Menu
 
@@ -261,7 +261,7 @@ Menu
 
 [0](https://www.poweruptoys.com/cart "Cart")
 
-FATHER'S DAY SALE | 20% OFF EVERYTHING
+FREE WORLDWIDE SHIPPING ON ORDERS $49+
 
 * [](mailto:support@poweruptoys.com "Email POWERUP®")
 * [](https://www.facebook.com/Poweruptoys "POWERUP® on Facebook")
@@ -446,12 +446,6 @@ TORNADO UPDRAFT WITH POWERUP 4.0 AIRPLANE](https://www.poweruptoys.com/products/
 
 SHOP ALL PLANES](https://www.poweruptoys.com/collections/planes)
 
-[![Father's Day Sale | POWERUP](//www.poweruptoys.com/cdn/shop/files/Banner_Collection_1024x1024_fathers_day_50x.png?v=1716451113)
-
-![Father's Day Sale | POWERUP](//www.poweruptoys.com/cdn/shop/files/Banner_Collection_1024x1024_fathers_day_2000x.png?v=1716451113)
-
-SALE ENDS JUNE 16](https://www.poweruptoys.com/collections/shop-all-products)
-
 * [![POWERUP 4.0 AIRPLANE](//www.poweruptoys.com/cdn/shop/files/5_50x.png?v=1710950017)
     
     ![POWERUP 4.0 AIRPLANE](//www.poweruptoys.com/cdn/shop/files/5_2000x.png?v=1710950017)
@@ -475,12 +469,6 @@ SALE ENDS JUNE 16](https://www.poweruptoys.com/collections/shop-all-products)
     ![](//www.poweruptoys.com/cdn/shop/products/CompleteHangar_exl4.0_2000x.jpg?v=1653515257)
     
     SHOP ALL PLANES](https://www.poweruptoys.com/collections/planes)
-
-* [![Father's Day Sale | POWERUP](//www.poweruptoys.com/cdn/shop/files/Banner_Collection_1024x1024_fathers_day_50x.png?v=1716451113)
-    
-    ![Father's Day Sale | POWERUP](//www.poweruptoys.com/cdn/shop/files/Banner_Collection_1024x1024_fathers_day_2000x.png?v=1716451113)
-    
-    SALE ENDS JUNE 16](https://www.poweruptoys.com/collections/shop-all-products)
 
 BUNDLES
 
@@ -508,12 +496,6 @@ POWERUP 4.0 ULTIMATE BUNDLE](https://www.poweruptoys.com/products/powerup-4-0-ul
 
 SHOP ALL BUNDLES](https://www.poweruptoys.com/collections/bundles)
 
-[![Father's Day Sale | POWERUP](//www.poweruptoys.com/cdn/shop/files/Banner_Collection_1024x1024_fathers_day_50x.png?v=1716451113)
-
-![Father's Day Sale | POWERUP](//www.poweruptoys.com/cdn/shop/files/Banner_Collection_1024x1024_fathers_day_2000x.png?v=1716451113)
-
-SALE ENDS JUNE 16](https://www.poweruptoys.com/collections/shop-all-products)
-
 * [![POWERUP 4.0 FLIGHT MANUAL BUNDLE](//www.poweruptoys.com/cdn/shop/files/POWERUP_ProductImage_1_50x.png?v=1710949754)
     
     ![POWERUP 4.0 FLIGHT MANUAL BUNDLE](//www.poweruptoys.com/cdn/shop/files/POWERUP_ProductImage_1_2000x.png?v=1710949754)
@@ -537,12 +519,6 @@ SALE ENDS JUNE 16](https://www.poweruptoys.com/collections/shop-all-products)
     ![FLITETEST BUNDLE](//www.poweruptoys.com/cdn/shop/products/WhatsAppImage2021-11-28at11.01.37_2000x.jpg?v=1653513424)
     
     SHOP ALL BUNDLES](https://www.poweruptoys.com/collections/bundles)
-
-* [![Father's Day Sale | POWERUP](//www.poweruptoys.com/cdn/shop/files/Banner_Collection_1024x1024_fathers_day_50x.png?v=1716451113)
-    
-    ![Father's Day Sale | POWERUP](//www.poweruptoys.com/cdn/shop/files/Banner_Collection_1024x1024_fathers_day_2000x.png?v=1716451113)
-    
-    SALE ENDS JUNE 16](https://www.poweruptoys.com/collections/shop-all-products)
 
 ACCESSORIES
 
@@ -570,12 +546,6 @@ ADD-ON INSTALLATION + SPARE PARTS KIT FOR POWERUP 4.0](https://www.poweruptoys.c
 
 SHOP ALL ACCESSORIES](https://www.poweruptoys.com/collections/accessories)
 
-[![Father's Day Sale | POWERUP](//www.poweruptoys.com/cdn/shop/files/Banner_Collection_1024x1024_fathers_day_50x.png?v=1716451113)
-
-![Father's Day Sale | POWERUP](//www.poweruptoys.com/cdn/shop/files/Banner_Collection_1024x1024_fathers_day_2000x.png?v=1716451113)
-
-SALE ENDS JUNE 16](https://www.poweruptoys.com/collections/shop-all-products)
-
 * [![SPARE PARTS KIT FOR POWERUP 4.0](//www.poweruptoys.com/cdn/shop/files/POWERUP_ProductImage_2_50x.png?v=1710951231)
     
     ![SPARE PARTS KIT FOR POWERUP 4.0](//www.poweruptoys.com/cdn/shop/files/POWERUP_ProductImage_2_2000x.png?v=1710951231)
@@ -599,12 +569,6 @@ SALE ENDS JUNE 16](https://www.poweruptoys.com/collections/shop-all-products)
     ![NIGHT FLIGHT ADD-ON FOR POWERUP 4.0 ](//www.poweruptoys.com/cdn/shop/products/Nightflight1_2000x.jpg?v=1653512617)
     
     SHOP ALL ACCESSORIES](https://www.poweruptoys.com/collections/accessories)
-
-* [![Father's Day Sale | POWERUP](//www.poweruptoys.com/cdn/shop/files/Banner_Collection_1024x1024_fathers_day_50x.png?v=1716451113)
-    
-    ![Father's Day Sale | POWERUP](//www.poweruptoys.com/cdn/shop/files/Banner_Collection_1024x1024_fathers_day_2000x.png?v=1716451113)
-    
-    SALE ENDS JUNE 16](https://www.poweruptoys.com/collections/shop-all-products)
 
 EDUCATORS
 
@@ -632,12 +596,6 @@ THE PAPER AIRPLANE BOOK (12 COUNT)](https://www.poweruptoys.com/products/powerup
 
 SHOP MORE FOR EDUCATORS](https://www.poweruptoys.com/collections/powerup-for-educators)
 
-[![Father's Day Sale | POWERUP](//www.poweruptoys.com/cdn/shop/files/Banner_Collection_1024x1024_fathers_day_50x.png?v=1716451113)
-
-![Father's Day Sale | POWERUP](//www.poweruptoys.com/cdn/shop/files/Banner_Collection_1024x1024_fathers_day_2000x.png?v=1716451113)
-
-SALE ENDS JUNE 16](https://www.poweruptoys.com/collections/shop-all-products)
-
 * [![POWERUP 4.0 (4 COUNT)](//www.poweruptoys.com/cdn/shop/products/500-050BBSTEM_1188f460-1f78-400e-9437-00df817a1485_50x.jpg?v=1653514145)
     
     ![POWERUP 4.0 (4 COUNT)](//www.poweruptoys.com/cdn/shop/products/500-050BBSTEM_1188f460-1f78-400e-9437-00df817a1485_2000x.jpg?v=1653514145)
@@ -661,12 +619,6 @@ SALE ENDS JUNE 16](https://www.poweruptoys.com/collections/shop-all-products)
     ![FAMILY SQUADRON BUNDLE](//www.poweruptoys.com/cdn/shop/products/Squareplayingondeck1000X1000copy_2000x.jpg?v=1670515325)
     
     SHOP MORE FOR EDUCATORS](https://www.poweruptoys.com/collections/powerup-for-educators)
-
-* [![Father's Day Sale | POWERUP](//www.poweruptoys.com/cdn/shop/files/Banner_Collection_1024x1024_fathers_day_50x.png?v=1716451113)
-    
-    ![Father's Day Sale | POWERUP](//www.poweruptoys.com/cdn/shop/files/Banner_Collection_1024x1024_fathers_day_2000x.png?v=1716451113)
-    
-    SALE ENDS JUNE 16](https://www.poweruptoys.com/collections/shop-all-products)
 
 Privacy Policy
 ==============
