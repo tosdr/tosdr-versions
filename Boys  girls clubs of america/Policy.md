@@ -38,6 +38,7 @@ Search  ![Search](https://www.bgca.org/wp-content/themes/bgca/images/icons/searc
     * [Mentorship](https://www.bgca.org/empowering-kids/mentorship/)
     * [Youth Advocacy](https://www.bgca.org/empowering-kids/youth-advocacy/)
     * [Kids & Mental Health](https://www.bgca.org/empowering-kids/kids-and-mental-health/)
+    * [Academic Success](https://www.bgca.org/empowering-kids/academic-success/)
     
     ![Close](https://www.bgca.org/wp-content/themes/bgca/images/icons/Icon_Close.svg)
     
@@ -54,8 +55,8 @@ Search  ![Search](https://www.bgca.org/wp-content/themes/bgca/images/icons/searc
     * [Character & Leadership](https://www.bgca.org/programs/character-leadership/)
     * [Teens & Young Adults](https://www.bgca.org/programs/teens-young-adults/)
     * [Initiatives](https://www.bgca.org/programs/initiatives/)
-    * [Youth of the Year](https://www.bgca.org/programs/youth-of-the-year/)
     * [Digital Learning Platforms](https://www.bgca.org/programs/virtual-learning/)
+    * [Youth of the Year](https://www.bgca.org/programs/youth-of-the-year/)
     
     ![Close](https://www.bgca.org/wp-content/themes/bgca/images/icons/Icon_Close.svg)
     
