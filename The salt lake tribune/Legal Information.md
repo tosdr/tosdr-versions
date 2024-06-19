@@ -110,8 +110,8 @@ Report a missed paper by emailing [subscribe@sltrib.com](mailto:subscribe@sltri
 
 For e-edition questions or comments, contact customer support [801-237-2900](tel:801-237-2900) or email [subscribe@sltrib.com](mailto:subscribe@sltrib.com)
 
-[![The Salt Lake Tribune Logo](/pf/resources/svg/sltrib-logo.svg?d=482)](https://www.sltrib.com/)
+[![The Salt Lake Tribune Logo](/pf/resources/svg/sltrib-logo.svg?d=486)](https://www.sltrib.com/)
 
 sltrib.com © 1996-2024 The Salt Lake Tribune. All rights reserved.
 
-[![The Salt Lake Tribune Logo](/pf/resources/svg/Trib_masthead_top_000000.svg?d=482)](https://www.sltrib.com/)
+[![The Salt Lake Tribune Logo](/pf/resources/svg/Trib_masthead_top_000000.svg?d=486)](https://www.sltrib.com/)
