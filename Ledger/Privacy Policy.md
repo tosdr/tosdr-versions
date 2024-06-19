@@ -251,9 +251,9 @@ Payment methods
 
 * Crypto Services
     * [Crypto Prices](https://www.ledger.com/coin/price)
-    * [Buy crypto](https://www.ledger.com/buy)
+    * [Buying crypto](https://www.ledger.com/buy)
     * [Staking crypto](https://www.ledger.com/staking)
-    * [Swap crypto](https://www.ledger.com/swap)
+    * [Swapping crypto](https://www.ledger.com/swap)
 
 * For Business
     * [Ledger Enterprise Solutions](https://enterprise.ledger.com/)
