@@ -114,8 +114,6 @@ Call Us](tel:1-855-871-7377)
             
         * [Get Inspired With Liz Marie](https://www.renewalbyandersen.com/get-inspired/get-inspired-with-liz-marie)
             
-        * [Get Inspired with Matt](https://www.renewalbyandersen.com/get-inspired/get-inspired-with-matt)
-            
         * [Download Brochures](https://www.renewalbyandersen.com/get-inspired/free-catalogs)
             
     * About Us
@@ -231,8 +229,6 @@ Call Us](tel:1-855-871-7377)
         * [Get Inspired with Laurie](https://www.renewalbyandersen.com/get-inspired/Get-Inspired-With-Laurie)
             
         * [Get Inspired with Liz Marie](https://www.renewalbyandersen.com/get-inspired/get-inspired-with-liz-marie)
-            
-        * [Get Inspired with Matt](https://www.renewalbyandersen.com/get-inspired/get-inspired-with-matt)
             
         * [Download a Brochure](https://www.renewalbyandersen.com/get-inspired/free-catalogs)
             
