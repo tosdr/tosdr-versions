@@ -278,4 +278,4 @@ Should any part of these Terms be held invalid or unenforceable, that portion sh
 
 © 2024 Kalibrr, Inc.[Privacy Policy |](https://www.kalibrr.com/privacy) [Terms of Use](https://www.kalibrr.com/terms)
 
-![](https://bat.bing.com/action/0?ti=97059421&tm=gtm002&Ver=2&mid=2b9e0fa8-ac3f-4b47-b362-39b1a3669302&sid=af27f780195d11efadbe0df3486ac73d&vid=af2c3240195d11ef88aa9747a292c01c&vids=0&msclkid=N&gtm_tag_source=1&pi=0&lg=en-US&sw=800&sh=600&sc=24&nwd=1&tl=Kalibrr%3A%20Where%20Jobs%20Find%20You&p=http%3A%2F%2F0.0.0.0%3A1864%2Fterms&r=&lt=346&evt=pageLoad&sv=1&rn=787615)
+![](https://bat.bing.com/action/0?ti=97059421&tm=gtm002&Ver=2&mid=cc7336d6-a8ec-4557-b848-358378ab70da&sid=d317839024e411efb95f91e60f076e4e&vid=d31e693024e411ef8bc28b1404ce9313&vids=0&msclkid=N&gtm_tag_source=1&pi=0&lg=en-US&sw=800&sh=600&sc=24&nwd=1&tl=Kalibrr%3A%20Where%20Jobs%20Find%20You&p=http%3A%2F%2F0.0.0.0%3A1864%2Fterms&r=&lt=491&evt=pageLoad&sv=1&rn=117884)
