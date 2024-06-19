@@ -2,4 +2,4 @@
 
 Loading…
 
-![](https://lh3.googleusercontent.com/drive-viewer/AKGpihaj0KcMtYhuVhIBWlDVYiLOL1sBnECYkh-WoRpEceyPrF5Rnjkv_fwPPsBt8OQgq5BFU2uczqsX6LxmvlkRQ0YxUxkezpEAnw=s1600-rw-v1)
+![](https://lh3.googleusercontent.com/drive-viewer/AKGpihaM6ex5Gq8jFS7GfenJIx39bLhKudUhnE2hOXFot5-82OFf3BCa7VMmme90NJxVUnS13JAp1IUD-24rubY8GdRfW3Izmu5dzw=s1600-rw-v1)
