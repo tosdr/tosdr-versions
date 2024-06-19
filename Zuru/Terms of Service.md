@@ -1,6 +1,6 @@
 [Skip to content](#content)
 
-[![](https://zuru.com/wp-content/uploads/2022/03/ZuruToys_PrimaryLogo_Short.png)](https://zuru.com/)
+[![](data:image/svg+xml;nitro-empty-id=ODE2OjE3NA==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjEyIDEyMiIgd2lkdGg9IjIxMiIgaGVpZ2h0PSIxMjIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://zuru.com/)
 
 * [Toys](https://zurutoys.com/)
 * [Edge](https://zuruedge.com/)
@@ -96,7 +96,7 @@ Right to Assign, No Waivers, Severability
 
 We reserve the right to modify the Terms of Use at any time without prior notice (“Updated Terms”). You agree that we may notify you of the Updated Terms by posting them on the Website so that they are accessible via a link on the Website, and that your use of the Website after we post the Updated Terms (or engaging in such other conduct as we may reasonably specify) constitutes your agreement to the Updated Terms. Therefore, you should review the Terms of Use periodically. The Updated Terms will be effective as of the time that we post them on the home page of the Website, or such later date as may be specified in them.
 
-![](https://zuru.com/wp-content/uploads/2022/03/ZuruToys_PrimaryLogo_RGB-1-1.png)
+![](data:image/svg+xml;nitro-empty-id=MTA1NDoxODI=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjEyIDE3NCIgd2lkdGg9IjIxMiIgaGVpZ2h0PSIxNzQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
 
 * [Careers](https://zuru.com/careers/)
 * [Linked.In](https://www.linkedin.com/company/zurugroup/mycompany/)
@@ -108,7 +108,7 @@ ZURU™ 2023 © All rights reserved. All audio, visual and textual content on th
 * [Terms of Use](https://zuru.com/terms-of-use/)
 * [Cookies](https://zuru.com/cookie-policy/)
 
-[![](https://zuru.com/wp-content/uploads/2022/03/ZuruToys_PrimaryLogo_RGB-1-1.png)](https://zuru.com/)
+[![](data:image/svg+xml;nitro-empty-id=MTEzMjoxNzY=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjEyIDE3NCIgd2lkdGg9IjIxMiIgaGVpZ2h0PSIxNzQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://zuru.com/)
 
 * [Toys](https://zurutoys.com/)
 * [Edge](https://zuruedge.com/)
@@ -131,8 +131,6 @@ ZURU™ 2023 © All rights reserved. All audio, visual and textual content on th
 * [Careers](https://zuru.com/careers/)
 * [Open Roles](https://zuru.com/open-roles/)
 * [Internships](https://zuru.com/internships/)
-
-                       
 
 English
 
