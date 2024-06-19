@@ -13,7 +13,7 @@ English
 
 New
 
-Smart Living with Olio and Smart Meters: Find out ways to reduce waste in your home [here](https://olioapp.com/en/olio-updates/ways-to-be-less-wasteful-around-the-home/)
+**Sign up as a Food Waste Hero with Olio this month to win some mega prizes 🤩 !**  [Find out more here](https://olioapp.com/en/campaigns/olios-10k-community-challenge/).
 
 [Volunteer Hub sign-in](http://volunteers.olioex.com/)
 
