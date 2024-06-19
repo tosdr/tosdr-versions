@@ -47,6 +47,9 @@ Huawei Central
     * [HarmonyOS 2](https://www.huaweicentral.com/?s=harmonyos+2)
 * [Updates](https://www.huaweicentral.com/category/updates/)
     
+    * [![Huawei FreeBuds 6i first update](https://www.huaweicentral.com/wp-content/uploads/2024/06/FreeBuds-6i-400x240.jpg)
+        
+        Huawei FreeBuds 6i receives first update with triple tap gesture optimizations](https://www.huaweicentral.com/huawei-freebuds-6i-receives-first-update-with-triple-tap-gesture-optimizations/)
     * [![Huawei FreeBuds Pro 3 stable HarmonyOS 4.2](https://www.huaweicentral.com/wp-content/uploads/2024/05/FreeBuds-Pro-3-400x240.jpg)
         
         Huawei FreeBuds Pro 3 receives stable HarmonyOS 4.2 software update](https://www.huaweicentral.com/huawei-freebuds-pro-3-receives-stable-harmonyos-4-2-software-update/)
@@ -59,27 +62,24 @@ Huawei Central
     * [![Huawei FreeBuds Pro 3 April 2024 Update](https://www.huaweicentral.com/wp-content/uploads/2024/04/FreeBuds-Pro-3-April-2024-400x240.jpg)
         
         Huawei FreeBuds Pro 3 is getting April 2024 optimizations update](https://www.huaweicentral.com/huawei-freebuds-pro-3-is-getting-april-2024-optimizations-update/)
-    * [![Huawei p60 pro smartphone](https://www.huaweicentral.com/wp-content/uploads/2023/05/huawei-p60-pro-2-400x240.jpg)
-        
-        Huawei releases March 2024 software for P60 Pro (Global)](https://www.huaweicentral.com/huawei-releases-march-2024-software-for-p60-pro-global/)
     
 * [Wearables](https://www.huaweicentral.com/category/wearables/)
     
-    * [![Huawei Watch 3 Pro June 2024 update](https://www.huaweicentral.com/wp-content/uploads/2024/06/Watch-3-Pro-400x240.jpg)
+    * [![Huawei Band 9 stable HarmonyOS 4.2](https://www.huaweicentral.com/wp-content/uploads/2024/06/Huawei-Band-9-400x240.jpg)
         
-        Huawei Watch 3 Pro is receiving June 2024 improvements update](https://www.huaweicentral.com/huawei-watch-3-pro-is-receiving-june-2024-improvements-update/)
-    * [![Huawei Watch Fit 3 global May 2024 update](https://www.huaweicentral.com/wp-content/uploads/2024/05/Watch-Fit-3-image3-400x240.jpg)
+        Huawei Band 9 starts receiving stable HarmonyOS 4.2 update](https://www.huaweicentral.com/huawei-band-9-starts-receiving-stable-harmonyos-4-2-update/)
+    * [![Huawei Watch Fit 3 UI optimizations](https://www.huaweicentral.com/wp-content/uploads/2024/06/Watch-Fit-3-400x240.jpg)
         
-        Huawei Watch Fit 3 global units grabbing second update in May 2024](https://www.huaweicentral.com/huawei-watch-fit-3-global-units-grabbing-second-update-in-may-2024/)
-    * [![Huawei Watch 5 Series](https://www.huaweicentral.com/wp-content/uploads/2024/05/Watch-5-Series-400x240.jpg)
+        New update for Huawei Watch Fit 3 brings UI enhancements](https://www.huaweicentral.com/new-update-for-huawei-watch-fit-3-brings-ui-enhancements/)
+    * [![Huawei Children's Watch 4 Pro June 2024 update](https://www.huaweicentral.com/wp-content/uploads/2024/06/Childrens-Watch-4-Pro-400x240.jpg)
         
-        Huawei Watch 5 series coming soon with new appearance: Leak](https://www.huaweicentral.com/huawei-watch-5-series-coming-soon-with-new-appearance-leak/)
-    * [![Huawei Children's Watch 5 New Edition](https://www.huaweicentral.com/wp-content/uploads/2024/05/Childrens-Watch-5-New-Edition-400x240.jpg)
+        Huawei Children’s Watch 4 Pro bags June 2024 improvements update](https://www.huaweicentral.com/huawei-childrens-watch-4-pro-bags-june-2024-improvements-update/)
+    * [![Huawei Watch GT 3 SE June 2024 optimizations](https://www.huaweicentral.com/wp-content/uploads/2024/06/Watch-GT-3-SE-400x240.jpg)
         
-        Huawei introduces Children’s Watch 5 New Edition with AI positioning, and 800mAh battery](https://www.huaweicentral.com/huawei-introduces-childrens-watch-5-new-edition-with-ai-positioning-and-800mah-battery/)
-    * [![Huawei Watch 3 Active May 2024 update](https://www.huaweicentral.com/wp-content/uploads/2024/05/Watch-3-active-400x240.jpg)
+        Huawei Watch GT 3 SE fetches June 2024 system optimizations](https://www.huaweicentral.com/huawei-watch-gt-3-se-fetches-june-2024-system-optimizations/)
+    * [![Huawei Watch 3 Active May 2024 patch](https://www.huaweicentral.com/wp-content/uploads/2024/06/Watch-3-Active-update-400x240.jpg)
         
-        Huawei Watch 3 Active bags May 2024 update with new optimizations](https://www.huaweicentral.com/huawei-watch-3-active-bags-may-2024-update-with-new-optimizations/)
+        Huawei Watch 3 Active users grabbing May 2024 security patch](https://www.huaweicentral.com/huawei-watch-3-active-users-grabbing-may-2024-security-patch/)
     
 * [Contact Us](https://www.huaweicentral.com/contact/)
 
