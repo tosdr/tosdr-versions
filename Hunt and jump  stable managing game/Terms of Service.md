@@ -146,6 +146,14 @@ HuntAndJump.com Rules
 
 ![](/images/coloricons/News-Alerts-2.png)News & Alerts
 
+6/15/2024 11:15 PM EST
+
+Thank you for the reports about image generation issues. We are very aware of the problem and doing everything we can at the moment to address it. We are working on a fix, it just is taking some time.
+
+6/11/2024 1:27 AM EST
+
+Please see the change long for important changes to max out limiting. Thank you.
+
 6/2/2024 12:36 AM EST
 
 Bluegrass server is open for registration for June celebration month!
@@ -161,19 +169,6 @@ If your sea ponies are not holding on to their colorful tack pack tails add them
 ### All gift exchange entries must be in by 11 pm tonight!
 
 Absolutely no late entries will be accepted.
-
-5/27/2024 11:46 PM EST
-
-### Only 3 days left to enter the exchange.
-
-Do not wait until the last possible moment. Absolutely no late entries will be accepted.
-
-5/23/2024 11:43 PM EST
-
-Only 1 week left to enter the gift exchange!
---------------------------------------------
-
-Don't risk your entry waiting until the last moment. Get your entry in today. You can always edit or delete it later.
 
 ![](/images/coloricons/Gold-Star-2.png)Bonus Stall Progress
 
