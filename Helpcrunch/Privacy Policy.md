@@ -112,7 +112,7 @@ HelpCrunch AI
 
 The future of customer service
 
-[Sign in](https://helpcrunch.com/signin.html) [REQUEST DEMO](https://helpcrunch2.pipedrive.com/scheduler/d2xbe3h5/introduction)
+[Sign in](https://helpcrunch.com/signin.html) [REQUEST DEMO](https://tidycal.com/m4vdynm/30-minute-meeting)
 
 Privacy Policy
 ==============
