@@ -58,7 +58,7 @@
 
 [Catch Up](https://www.gbnews.uk/watch/catch-up/)[Breakfast with Eamonn and Isabel](https://www.gbnews.uk/shows/breakfast-with-eamonn-and-isabel/)[Dewbs & Co](https://www.gbnews.uk/shows/dewbs-co/)[Patrick Christys](https://www.gbnews.uk/shows/patrick-christys/)[Nana Akua](https://www.gbnews.uk/shows/nana-akua/)[Breakfast with Stephen and Anne](https://www.gbnews.uk/shows/breakfast-with-stephen-and-anne/)[Mark Dolan Tonight](https://www.gbnews.uk/shows/mark-dolan-tonight/)[Camilla Tominey Show](https://www.gbnews.uk/shows/the-camilla-tominey-show/)[Sunday with Michael Portillo](https://www.gbnews.uk/shows/sunday-with-michael-portillo/)[Neil Oliver - Live](https://www.gbnews.uk/shows/neil-oliver-live/)[Free Speech Nation](https://www.gbnews.uk/shows/free-speech-nation/)[Headliners](https://www.gbnews.uk/shows/headliners/)
 
-[Your Say](https://www.gbnews.uk/yoursay)[Support](https://www.gbnews.uk/support)[News Alerts](https://www.gbnews.uk/alerts)[Latest](https://www.gbnews.uk/latest)[Puzzles](https://www.gbnews.uk/membership/puzzles/)[BBC](https://www.gbnews.uk/celebrity/bbc/)[Pensions](https://www.gbnews.uk/money/pensions/)[Weather](https://www.gbnews.uk/weather/)[Cars](https://www.gbnews.uk/lifestyle/cars/)[Meghan Markle](https://www.gbnews.uk/royal/meghan-markle/)[Michelle Dewberry](https://www.gbnews.uk/presenters/michelle-dewberry/)[Prince Harry](https://www.gbnews.uk/royal/prince-harry/)[Brexit](https://www.gbnews.uk/news/uk/brexit/)
+[Your Say](https://www.gbnews.uk/yoursay)[Support](https://www.gbnews.uk/support)[News Alerts](https://www.gbnews.uk/alerts)[Latest](https://www.gbnews.uk/latest)[Puzzles](https://www.gbnews.uk/membership/puzzles/)[Win](https://www.gbnews.uk/win)[BBC](https://www.gbnews.uk/celebrity/bbc/)[Pensions](https://www.gbnews.uk/money/pensions/)[Weather](https://www.gbnews.uk/weather/)[Cars](https://www.gbnews.uk/lifestyle/cars/)[Meghan Markle](https://www.gbnews.uk/royal/meghan-markle/)[Michelle Dewberry](https://www.gbnews.uk/presenters/michelle-dewberry/)[Prince Harry](https://www.gbnews.uk/royal/prince-harry/)[Brexit](https://www.gbnews.uk/news/uk/brexit/)
 
 [Presenters](https://www.gbnews.uk/presenters/)
 
@@ -70,7 +70,7 @@
 
 [Comment](#comments)Share[Next](#)
 
-[DON'T LET THEM SILENCE YOU—SUPPORT GB NEWS](https://www.gbnews.uk/support)
+[DON'T LET THEM SILENCE YOU—SUPPORT GB NEWS](https://www.gbnews.uk/support "DON'T LET THEM SILENCE YOU – SUPPORT GB NEWS")
 
 ### Share this
 
