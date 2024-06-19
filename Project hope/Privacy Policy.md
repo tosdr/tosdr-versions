@@ -2,9 +2,9 @@
 
 URGENT ALERT
 
-Inhumane Attacks on Displaced Families in Gaza
+Help Refugees and People in Health Crises
 
-[Donate](https://secure.projecthope.org/site/SPageNavigator/2023_10_IsraelGaza_Unrestricted_Web.html "Donate") Close
+[DONATE](https://secure.projecthope.org/site/SPageNavigator/2024_07_MigrantHealth_web.html "DONATE") Close
 
 [Donate](https://secure.projecthope.org/site/SPageNavigator/2024_Multistep_Main.html?autologin=true&mfc_pref=T&frequency=monthly&amount=50 "Donate")
 
