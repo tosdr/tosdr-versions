@@ -418,7 +418,7 @@ Because of the way this website operates, we may also use information from your 
   
 You can choose whether or not to allow cookies or web beacons using your browser preferences. To find out more about cookies and your choices, visit the Cookies section of this statement.
 
-How we share your your personal information
+How we share your personal information
 
 Some of the services or information you can request on this site may come from other members of our corporate family. Therefore, we may share your information with other companies within Vodafone Group (for example, your local carrier). The laws of the countries where these companies are based may not be the same as those in the EU, but your information will be treated with the same high standard of care wherever it’s processed within the corporate family.
 
