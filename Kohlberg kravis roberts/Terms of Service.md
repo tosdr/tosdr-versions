@@ -8,7 +8,7 @@ Terms of Use
 
 [](https://portal.kkr.com/)
 
-![](/content/experience-fragments/kkr/sites/global/en/header/master/_jcr_content/root/header/bgImage.coreimg.svg/1714747328426/header-ampersand-image.svg)
+![](/content/experience-fragments/kkr/sites/global/en/header/master/_jcr_content/root/header/bgImage.coreimg.svg/1718662599540/header-ampersand-image.svg)
 
 * About
     
@@ -62,11 +62,11 @@ Terms of Use
 * [Contact](https://www.kkr.com/contact)
     
 
-[![Featured card](/content/experience-fragments/kkr/sites/global/en/header/master/_jcr_content/root/header/featuredImage.coreimg.jpeg/1714747328426/real-estate-market-review-nav-image-440x532.jpeg)
+[![Featured card](/content/experience-fragments/kkr/sites/global/en/header/master/_jcr_content/root/header/featuredImage.coreimg.jpeg/1718662599540/2024-midyear-outlook-nav-image-440x532.jpeg)
 
-REAL ESTATE MARKET REVIEW
+MID-YEAR OUTLOOK FOR 2024
 
-###### When Fear Is a Friend – US Multifamily in Focus](https://www.kkr.com/insights/real-estate-multifamily)
+###### Opportunity Knocks](https://www.kkr.com/insights/mid-year-update-2024)
 
 [Skip to Menu Toggle Button](#cmp-header__hamburgerBtn)
 
