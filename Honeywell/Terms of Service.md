@@ -123,7 +123,14 @@
     *  [![Our History](/content/dam/honeywellbt/en/images/content-images/nav-icons/company/hon-icons-history.svg) History](https://www.honeywell.com/us/en/company/our-history)
     
 
-* [News](https://www.honeywell.com/us/en/news)
+* [News & Media](javascript:void(0);)
+    
+    News & Media
+    
+    *  [![Press and Media](/content/dam/honeywellbt/en/images/content-images/nav-icons/news/hon-press-media-icon.svg) Press Releases & Media](https://www.honeywell.com/us/en/press)
+    *  [![Latest Stories](/content/dam/honeywellbt/en/images/content-images/nav-icons/news/hon-latest-stories-icon.svg) Our Stories](https://www.honeywell.com/us/en/news)
+    *  [![Podcast](/content/dam/honeywellbt/en/images/content-images/nav-icons/news/hon-podcast-icon.svg) Podcast](https://www.honeywell.com/us/en/podcast)
+    
 
 * [Careers](https://careers.honeywell.com/)
 
