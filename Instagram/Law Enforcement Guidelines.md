@@ -71,6 +71,13 @@ Law enforcement officials may use the [Law Enforcement Online Request System](ht
 
 Please note:
 
+For U.S. Law Enforcement:
+
+Law enforcement officials seeking Instagram account records must address their request to:  
+Meta Platforms, Inc.,  
+1 Meta Way  
+Menlo Park, CA 94025
+
 For Law Enforcement outside of the U.S.:
 
 Please note that for users of the Instagram services in the European region (excluding the United Kingdom), the service provider and data controller is Meta Platforms Ireland Ltd. If your request is for Meta Platforms Ireland Ltd., it must be addressed to:  
@@ -88,9 +95,9 @@ Law enforcement officials who do not submit requests through the [Law Enforcemen
 
 Related Articles
 
-[Help and support for suicidal or self-injurious thoughts](https://help.instagram.com/1552014535048508?helpref=related&source_cms_id=494561080557017)
-
 [Laws that may require us to process your information](https://help.instagram.com/264930705713965?helpref=related&source_cms_id=494561080557017)
+
+[Help and support for suicidal or self-injurious thoughts](https://help.instagram.com/1552014535048508?helpref=related&source_cms_id=494561080557017)
 
 [What should I do if someone posts something on Facebook related to human trafficking?](https://help.instagram.com/179468058793941?helpref=related&source_cms_id=494561080557017)
 
