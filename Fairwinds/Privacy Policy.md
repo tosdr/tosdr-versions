@@ -1,10 +1,22 @@
+FAIRWINDS Online Scheduled Maintenance |
+
+FAIRWINDS Online Scheduled Maintenance |
+
+FAIRWINDS Online Scheduled Maintenance |
+
+FAIRWINDS Online Scheduled Maintenance |
+
+FAIRWINDS Online Scheduled Maintenance |
+
+FAIRWINDS Online Scheduled Maintenance |
+
 [![FAIRWINDS Credit Union logo](/images/logoFAIRWINDS.svg)](https://www.fairwinds.org/)[![FAIRWINDS Credit Union logo](/images/logoFAIRWINDS_sailboat.svg)](https://www.fairwinds.org/)
 
-[Personal](https://www.fairwinds.org/personal)[Business](https://www.fairwinds.org/business)[Investing](https://www.fairwinds.org/investment)[Insurance](https://www.fairwinds.org/insurance)[Learn](https://www.fairwinds.org/learn)[Member Support](https://www.fairwinds.org/support)
+[Personal](https://www.fairwinds.org/personal)[Business](https://www.fairwinds.org/business)[Investing](https://www.fairwinds.org/investment)[Insurance](https://www.fairwinds.org/insurance)[Learn](https://www.fairwinds.org/learn)[Member Support](https://www.fairwinds.org/support)[Newsroom](https://www.fairwinds.org/newsroom)
 
 Global Search Bar
 
-Search FAIRWINDS site and member support articles
+Search _FAIRWINDS_ site and member support articles
 
 Search Icon
 
@@ -64,6 +76,8 @@ ll financial companies need to share members' personal information to run their 
 
 Mail us a letter with "Do not allow your affiliates to use my personal information to market to me" and include your name, address, city, state, zip, and phone number.
 
+[Download PDF](https://assets.ctfassets.net/dmzde5ytz0gs/24U6NMKSgTWJ27e4iHHGSu/71ebacaa794e9438d251181bc8a8198e/MS-011_PROOF__002__03-2023.pdf)
+
 #### Mail to:
 
 _FAIRWINDS_ Credit Union Attn: Member Services 3087 N. Alafaya Trail Orlando, FL 32826
@@ -119,7 +133,7 @@ Financial Freedom happens here.®
 
 ##### Media
 
-* [Newsroom](https://www.fairwinds.org/press-releases)
+* [Newsroom](https://www.fairwinds.org/newsroom)
 * [Awards and Accolades](https://www.fairwinds.org/media/awards)
 * [Annual Reports](https://www.fairwinds.org/media/annual-reports)
 
