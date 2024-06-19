@@ -17,7 +17,7 @@ Sign in
 
    Sign in
 
-[SIGNUP](https://www.shadi.com/register.htm?token_url=MTcwMTkyY2RkOWFjYzc5NmU4NjQ5MTUyN2E2NzBhNmM "Register to shadi")
+[SIGNUP](https://www.shadi.com/register.htm?token_url=MDg3MjA4NmM0ZmMxZWI4MmNiNzJkYzVmYmYxMGVkOGI "Register to shadi")
 
 [Home](https://www.shadi.com/ "Go to SuperFine.")  Terms of use
 
@@ -138,7 +138,7 @@ Unlike other sites, we have top notch infrastructure online which takes care of 
 
 * [Member Login](https://www.shadi.com/login.htm "Member login")
 * [Shadi® 101](https://www.shadi.com/step-by-step "Step by step insturctions")
-* [Sign Up](https://www.shadi.com/register.htm?token_url=OWU5ZmZlMjZhZmYyZmY2MGNmNDM2YmI5NzczMTMyNjA "Signup")
+* [Sign Up](https://www.shadi.com/register.htm?token_url=MzllMGY1MTc3ZTIxYWExYjNjMzNhNTk4NDg4Nzc2Y2E "Signup")
 * [Partner Search](https://www.shadi.com/search_options "Partner search")
 * [Member Support](https://www.shadi.com/FAQ "Member Support")
 
