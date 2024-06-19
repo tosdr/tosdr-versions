@@ -21,10 +21,10 @@
 * [Live](https://lawandcrime.com/live-trials/)
     * [Watch Live: Law & Crime Network](https://lawandcrime.com/stream/)
     * [Watch the Karen Read trial: An angry girlfriend callously leaving cop to die in a blizzard — or a grand conspiracy?](https://lawandcrime.com/live-trials/live-trials-current/watch-the-karen-read-trial-an-angry-girlfriend-callously-leaving-cop-to-die-in-a-blizzard-or-a-grand-conspiracy/)
-    * [WATCH LIVE: Chad Daybell on trial for allegedly murdering 2 children and his first wife](https://lawandcrime.com/live-trials/live-trials-current/lori-vallow/watch-live-chad-daybell-on-trial-for-allegedly-murdering-2-children-and-his-first-wife/)
     * [WATCH LIVE: Young Thug YSL racketeering trial](https://lawandcrime.com/live-trials/live-trials-current/watch-live-young-thug-ysl-racketeering-trial/)
     * [9 Shocking Times Defendants Testified at Trial](https://lawandcrime.com/live-trials/live-trials-current/lawcrime-network/groves-loyd-and-more-9-shocking-times-defendants-testified-at-trial/)
     * [10 Most Memorable Law&Crime Network Trials](https://lawandcrime.com/live-trials/live-trials-current/lawcrime-network/godejohn-nelson-and-more-10-most-memorable-lawcrime-network-trials/)
+    * [Watch Live: Brevard County Bond Court](https://lawandcrime.com/live-trials/live-trials-current/brevard-county-bond-court/brevard-county-bond-court/)
     * [View All Live Trials](https://lawandcrime.com/live-trials)
 * [Where to Watch](https://lawandcrime.com/where-to-watch/)
 * [TV Schedule](https://lawandcrime.com/schedule)
@@ -61,10 +61,10 @@
 * [Live](https://lawandcrime.com/live-trials/)
     * [Watch Live: Law & Crime Network](https://lawandcrime.com/stream/)
     * [Watch the Karen Read trial: An angry girlfriend callously leaving cop to die in a blizzard — or a grand conspiracy?](https://lawandcrime.com/live-trials/live-trials-current/watch-the-karen-read-trial-an-angry-girlfriend-callously-leaving-cop-to-die-in-a-blizzard-or-a-grand-conspiracy/)
-    * [WATCH LIVE: Chad Daybell on trial for allegedly murdering 2 children and his first wife](https://lawandcrime.com/live-trials/live-trials-current/lori-vallow/watch-live-chad-daybell-on-trial-for-allegedly-murdering-2-children-and-his-first-wife/)
     * [WATCH LIVE: Young Thug YSL racketeering trial](https://lawandcrime.com/live-trials/live-trials-current/watch-live-young-thug-ysl-racketeering-trial/)
     * [9 Shocking Times Defendants Testified at Trial](https://lawandcrime.com/live-trials/live-trials-current/lawcrime-network/groves-loyd-and-more-9-shocking-times-defendants-testified-at-trial/)
     * [10 Most Memorable Law&Crime Network Trials](https://lawandcrime.com/live-trials/live-trials-current/lawcrime-network/godejohn-nelson-and-more-10-most-memorable-lawcrime-network-trials/)
+    * [Watch Live: Brevard County Bond Court](https://lawandcrime.com/live-trials/live-trials-current/brevard-county-bond-court/brevard-county-bond-court/)
     * [View All Live Trials](https://lawandcrime.com/live-trials)
 * [Where to Watch](https://lawandcrime.com/where-to-watch/)
 * [TV Schedule](https://lawandcrime.com/schedule)
@@ -297,25 +297,25 @@ Sponsor may conduct a background check to confirm any potential winner’s eligi
 Top of Today
 ------------
 
-1. [![Troy Marquise Gillard (Greensboro Police Dept.), Kathryn Garton Holmes and authorities investigating the fatal shooting (WGHP/YouTube screenshots)](https://am23.mediaite.com/lc/cnt/uploads/2024/06/Troy-Marquise-Gillard-Greensboro-Police-Dept.-Kathryn-Garton-Holmes-and-authorities-investigating-the-fatal-shooting-WGHPYouTube-screenshots-432x243.jpg)](https://lawandcrime.com/crime/man-ambushed-killed-woman-driving-to-meet-him-after-online-marketplace-sale-police/)
+1. [![James McDonald Jr.](https://am22.mediaite.com/lc/cnt/uploads/2024/06/James-McDonald-432x243.jpg)](https://lawandcrime.com/crime/cnbc-commentator-who-lost-investors-40-million-on-risky-bet-that-economy-would-tank-following-2020-presidential-election-arrested-after-3-years-on-the-run-feds/)
     
-    ### [Man ambushed, killed woman driving to meet him after 'online marketplace' sale: Police](https://lawandcrime.com/crime/man-ambushed-killed-woman-driving-to-meet-him-after-online-marketplace-sale-police/)
+    ### [CNBC commentator who lost investors $40 million on 'risky' bet that economy would tank following 2020 presidential election arrested after 3 years on the run: Feds](https://lawandcrime.com/crime/cnbc-commentator-who-lost-investors-40-million-on-risky-bet-that-economy-would-tank-following-2020-presidential-election-arrested-after-3-years-on-the-run-feds/)
     
-2. [![Booking photos of Rene Trigueros Hernandez, Rene Hernandez-Santos (bottom left), and Claudia Hernandez-Santos (right)](https://am22.mediaite.com/lc/cnt/uploads/2022/05/Rene-Trigueros-Hernandez-Rene-Hernandez-Santos-bottom-left-and-Claudia-Hernandez-Santos-right-432x243.jpg)](https://lawandcrime.com/crime/mother-and-relatives-who-killed-3-year-old-in-torturous-exorcism-have-shown-no-remorse-prosecutor/)
+2. [![Jack Smith, Donald Trump](https://am24.mediaite.com/lc/cnt/uploads/2024/05/Jack-Smith-Donald-Trump-432x243.jpg)](https://lawandcrime.com/high-profile/trump-finally-files-crucial-notice-on-use-of-classified-material-as-part-of-mar-a-lago-defense/)
     
-    ### [Mother and relatives who killed 3-year-old in torturous exorcism have shown no remorse: Prosecutor](https://lawandcrime.com/crime/mother-and-relatives-who-killed-3-year-old-in-torturous-exorcism-have-shown-no-remorse-prosecutor/)
+    ### [Trump finally files 'crucial' notice on use of classified material as part of Mar-a-Lago defense](https://lawandcrime.com/high-profile/trump-finally-files-crucial-notice-on-use-of-classified-material-as-part-of-mar-a-lago-defense/)
     
-3. [![Benicia Knapps, Blake Mohs, David Guillory (image of victim via Facebook; image of suspects via Pleasanton PD)](https://am24.mediaite.com/lc/cnt/uploads/2023/04/Benicia-Knapps-Blake-Mohs-David-Guiillory--432x243.jpg)](https://lawandcrime.com/crime/shoplifter-and-getaway-driver-who-fled-the-scene-with-a-toddler-in-their-vehicle-sentenced-in-killing-of-home-depot-security-guard-shot-dead-months-before-wedding/)
+3. [![Dr. Benjamin Jacob Brown (Santa Rosa County Sheriff's Office) and Hillary Ellington Brown (Rose Lawn Funeral Home)](https://am22.mediaite.com/lc/cnt/uploads/2024/06/Dr.-Benjamin-Jacob-Brown-Santa-Rosa-County-Sheriffs-Office-and-Hillary-Ellington-Brown-Rose-Lawn-Funeral-Home-432x243.jpg)](https://lawandcrime.com/crime/plastic-surgeon-who-left-his-own-wife-seizing-on-operating-table-for-up-to-20-minutes-charged-in-her-death/)
     
-    ### [Shoplifter and getaway driver — who fled the scene with a toddler in their vehicle — sentenced in killing of Home Depot security guard shot dead months before wedding](https://lawandcrime.com/crime/shoplifter-and-getaway-driver-who-fled-the-scene-with-a-toddler-in-their-vehicle-sentenced-in-killing-of-home-depot-security-guard-shot-dead-months-before-wedding/)
+    ### [Plastic surgeon who left his own wife seizing on operating table for up to 20 minutes charged in her death](https://lawandcrime.com/crime/plastic-surgeon-who-left-his-own-wife-seizing-on-operating-table-for-up-to-20-minutes-charged-in-her-death/)
     
-4. [![Jesse Lee Calhoun (Oregon Dept. of Corrections); from top to bottom, Charity Lynn Perry (via Multnomah County DA's office), Bridget Leanne Webster (via Polk County Sheriff's Office), and Joanna Speaks (via Clark County Sheriff's Office).](https://am24.mediaite.com/lc/cnt/uploads/2024/05/Jesse-Lee-Calhoun-Oregon-Dept.-of-Corrections-from-top-to-bottom-Charity-Lynn-Perry-Bridget-Leanne-Websterand-Joanna-Speaks-police-agencies-432x243.jpg)](https://lawandcrime.com/crime/suspected-serial-killer-who-allegedly-murdered-3-women-then-dumped-their-bodies-in-remote-areas-pleads-not-guilty/)
+4. [![Left: Sean McKinnon, booking photo Marion County Sheriff's Office. Right: James ](https://am21.mediaite.com/lc/cnt/uploads/2024/06/mckinnon-bulger-432x243.jpg)](https://lawandcrime.com/high-profile/accused-lookout-to-whitey-bulger-murder-pleads-guilty-to-making-false-statement-sentenced-to-time-served/)
     
-    ### [Suspected serial killer who allegedly murdered 3 women then dumped their bodies in remote areas pleads not guilty](https://lawandcrime.com/crime/suspected-serial-killer-who-allegedly-murdered-3-women-then-dumped-their-bodies-in-remote-areas-pleads-not-guilty/)
+    ### [Accused lookout to Whitey Bulger murder pleads guilty to making false statement, sentenced to time served](https://lawandcrime.com/high-profile/accused-lookout-to-whitey-bulger-murder-pleads-guilty-to-making-false-statement-sentenced-to-time-served/)
     
-5. [![Rudy Giuliani at Four Seasons Total Landscaping](https://am22.mediaite.com/lc/cnt/uploads/2023/07/Rudy-Giuliani-at-Four-Seasons-Total-Landscaping-432x243.jpg)](https://lawandcrime.com/high-profile/bankruptcy-lawyers-subpoena-rudy-giulianis-spokesperson-for-financial-information-about-media-appearances-trump-and-rnc-debts-legal-fundraisers-pandemic-relief-funds/)
+5. [![Denise Kay](https://am22.mediaite.com/lc/cnt/uploads/2024/06/Denise-Kay-432x243.jpg)](https://lawandcrime.com/crime/embarrassed-by-all-of-it-attorney-shows-up-to-dui-sentencing-with-4-times-the-legal-bac-limit-after-3rd-arrest-in-18-months/)
     
-    ### [Bankruptcy lawyers subpoena Rudy Giuliani's spokesperson for financial information about media appearances, Trump and RNC debts, legal fundraisers, pandemic relief funds](https://lawandcrime.com/high-profile/bankruptcy-lawyers-subpoena-rudy-giulianis-spokesperson-for-financial-information-about-media-appearances-trump-and-rnc-debts-legal-fundraisers-pandemic-relief-funds/)
+    ### ['Embarrassed by all of it:' Attorney shows up to DUI sentencing with 4 times the legal BAC limit after 3rd arrest in 18 months](https://lawandcrime.com/crime/embarrassed-by-all-of-it-attorney-shows-up-to-dui-sentencing-with-4-times-the-legal-bac-limit-after-3rd-arrest-in-18-months/)
     
 
 [](http://eepurl.com/c89Jdb)
