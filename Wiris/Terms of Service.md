@@ -36,6 +36,7 @@
     Standard and customized integrations for your app](https://www.wiris.com/en/solutions/integrations/)
     
 * [Pricing](https://www.wiris.com/en/pricing/)
+* [US Funds](https://www.wiris.com/en/us-federal-educational-funds/)
 * [About us](#)
     
     [Company](https://www.wiris.com/en/about-us/company/) [Careers](https://www.wiris.com/en/about-us/careers/) [Blog](https://www.wiris.com/en/blog/)
