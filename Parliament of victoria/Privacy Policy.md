@@ -14,8 +14,8 @@ Hamburger [Parliament of Victoria logo](https://parliament.vic.gov.au/)
     
     #### [Hansard](https://parliament.vic.gov.au/hansard) Chevron-right
     
+    * [Read today's Hansard](https://parliament.vic.gov.au/parliamentary-activity/hansard/hansard-debate/)
     * [Search Hansard](https://hansard.parliament.vic.gov.au/isysadvsearch.html)
-    * [Browse Hansard](https://parliament.vic.gov.au/parliamentary-activity/hansard/hansard-debate/)
     
     #### [Resources](https://parliament.vic.gov.au/link/4e38f172ae854e1fe76eee60cfb9f2ee.aspx#resources) Chevron-right
     
@@ -96,17 +96,17 @@ Hamburger [Parliament of Victoria logo](https://parliament.vic.gov.au/)
     
     * [Next
         
-        Greater accountability proposed for councils
+        Students set for life-changing Kokoda trek with Victorian MPs
         
-        Next](https://parliament.vic.gov.au/news/general-news/council-governance)[Next
+        Next](https://parliament.vic.gov.au/news/general-news/kokodatrek24)[Next
         
-        New horizons for youth leadership
+        State education inquiry’s powerful impact
         
-        Next](https://parliament.vic.gov.au/news/general-news/youth-summit)[Next
+        Next](https://parliament.vic.gov.au/news/society/eduhearingsend)[Next
         
-        Farmers urged to have say on food supply
+        Data care key part of workplace surveillance inquiry
         
-        Next](https://parliament.vic.gov.au/news/society/farmersurvey)
+        Next](https://parliament.vic.gov.au/news/infrastructure/worksurveillance)
     
 * Visit Chevron-down
     
