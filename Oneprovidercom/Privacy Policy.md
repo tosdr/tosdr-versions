@@ -6,6 +6,7 @@
 * [Log Out](https://oneprovider.com/account/logout)
 * [Client Area](https://panel.op-net.com/)
 * [Shopping Cart](https://oneprovider.com/checkout/cart)
+* [Comparison](https://oneprovider.com/comparison)
 * [Contact Us](https://oneprovider.com/contact)
 * USD
     
@@ -32,7 +33,7 @@ Find a location
 
 **C**
 
-[](https://oneprovider.com/fr)
+[](https://oneprovider.com/fr?language=fr)
 
 [OneProvider](https://oneprovider.com/)
 
@@ -314,7 +315,7 @@ Phone: + 1 (800) 380-5112
 
 ![ARIN Logo](/themes/custom/onetheme/img/logo/arin-white.png)
 
- [![Facebook](/sites/default/files/social_icons/facebook.png "Become a fan")](https://www.facebook.com/oneprovider.network)[![Twitter](/sites/default/files/social_icons/x-white.png "Follow us on Twitter")](https://twitter.com/oneprovider)[![Instagram](/sites/default/files/social_icons/instagram.png "Follow us on Instagram")](https://www.instagram.com/oneprovider/)
+ [![Facebook](/sites/default/files/social_icons/facebook.png "Become a fan")](https://www.facebook.com/oneprovider.network)[![Twitter](/sites/default/files/social_icons/x-white.png "Follow us on Twitter")](https://twitter.com/oneprovider)
 
 ![](https://px.ads.linkedin.com/collect/?pid=3481082&fmt=gif)
 
