@@ -106,7 +106,7 @@ Your privacy is important to us. Please review our Privacy Policy ([https://band
 
 ### Rules and Conduct.
 
-As a condition of use, you promise not to use the Service for any purpose that is prohibited by these Terms of Use and as is set out in our Acceptable Use and Content Moderation Policy. The Service (including, without limitation, any Content) is provided only for your own personal, non-commercial use (except with respect to individual recording artists, collections of recording artists, Artist Entities or Represented Artists (each, an “Artist”) selling Music, Merchandise or other Content (each as defined below) as authorized through the Service). You are responsible for all of your activity in connection with the Service. When you interact with our Site or the Service in any way, we require that you comply with our [Acceptable Use and Content Moderation Policy](https://get.bandcamp.help/hc/articles/21169764015255). This covers all interactions any User may have on our Site and all Content submitted. The term “Content” includes, without limitation, any User Submissions, videos, audio clips, written forum comments, information, data, text, photographs, software, scripts, graphics, and interactive features generated, provided, or otherwise made accessible by Company or its partners on or through the Service.
+As a condition of use, you promise not to use the Service for any purpose that is prohibited by these Terms of Use and as is set out in our Acceptable Use and Content Moderation Policy. The Service (including, without limitation, any Content) is provided only for your own personal, non-commercial use (except with respect to individual recording artists, collections of recording artists, Artist Entities or Represented Artists (each, an “Artist”) selling Music, Merchandise or other Content (each as defined below) as authorized through the Service). You are responsible for all of your activity in connection with the Service. When you interact with our Site or the Service in any way, we require that you comply with our [Acceptable Use and Content Moderation Policy](https://get.bandcamp.help/hc/articles/23005947027991). This covers all interactions any User may have on our Site and all Content submitted. The term “Content” includes, without limitation, any User Submissions, videos, audio clips, written forum comments, information, data, text, photographs, software, scripts, graphics, and interactive features generated, provided, or otherwise made accessible by Company or its partners on or through the Service.
 
 ### Fan Personal Information – Fans.
 
@@ -298,7 +298,7 @@ Users who accessed more than one of Songtradr, Inc.’s services or products in 
 * [Terms of Use](https://bandcamp.com/terms_of_use)
 * [Privacy](https://bandcamp.com/privacy)
 * [Copyright Policy](https://bandcamp.com/copyright)
-* [Acceptable Use & Moderation Policy](https://get.bandcamp.help/hc/en-us/articles/21169764015255-Bandcamp-s-Acceptable-Use-and-Moderation-policy)
+* [Acceptable Use & Moderation Policy](https://get.bandcamp.help/hc/en-us/articles/23005947027991-Bandcamp-s-Acceptable-Use-and-Moderation-policy)
 
 * [Gift Cards](https://bandcamp.com/gift_cards?from=footer)
 * [Bandcamp Daily](https://daily.bandcamp.com/)
@@ -329,6 +329,6 @@ Users who accessed more than one of Songtradr, Inc.’s services or products in 
 
 * [Fair Trade Music Policy](https://bandcamp.com/fair_trade_music_policy)
 * [Terms of Use](https://bandcamp.com/terms_of_use) [Privacy](https://bandcamp.com/privacy) [Copyright Policy](https://bandcamp.com/copyright)
-* [Acceptable Use & Moderation Policy](https://get.bandcamp.help/hc/en-us/articles/21169764015255-Bandcamp-s-Acceptable-Use-and-Moderation-policy)
+* [Acceptable Use & Moderation Policy](https://get.bandcamp.help/hc/en-us/articles/23005947027991-Bandcamp-s-Acceptable-Use-and-Moderation-policy)
 * [Bandcamp](https://bandcamp.com/?from=logo)
 * [Switch to desktop version](#)
