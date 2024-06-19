@@ -58,7 +58,7 @@ PikminFanon:Privacy policy
 From Pikmin Fanon
 
 *  [Project page](https://pikminfanon.com/wiki/PikminFanon:Privacy_policy "View the project page [a]")
-*  [Talk](https://pikminfanon.com/w/index.php?title=PikminFanon_talk:Privacy_policy&action=edit&redlink=1 "Discussion about the content page (page does not exist) [t]")
+*  [Talk](https://pikminfanon.com/wiki/PikminFanon_talk:Privacy_policy "Discussion about the content page [t]")
 
 *  [Read](https://pikminfanon.com/wiki/PikminFanon:Privacy_policy)
 *  [View source](https://pikminfanon.com/w/index.php?title=PikminFanon:Privacy_policy&action=edit "This page is protected.
@@ -73,7 +73,7 @@ Page tools
 
  [Printable version](javascript:print(); "Printable version of this page [p]")
 
- [Permanent link](https://pikminfanon.com/w/index.php?title=PikminFanon:Privacy_policy&oldid=146946 "Permanent link to this revision of this page")
+ [Permanent link](https://pikminfanon.com/w/index.php?title=PikminFanon:Privacy_policy&oldid=185667 "Permanent link to this revision of this page")
 
  [Page information](https://pikminfanon.com/w/index.php?title=PikminFanon:Privacy_policy&action=info "More information about this page")
 
@@ -81,18 +81,24 @@ Page tools
 | --- | --- | --- |
 | ![Pikilogo.png](https://cdn.pikminfanon.com/thumb/d/db/Pikilogo.png/50px-Pikilogo.png) | This page contains information relating to Pikmin Fanon's [policies and guidelines](https://pikminfanon.com/wiki/PikminFanon:Policies_and_guidelines "PikminFanon:Policies and guidelines"). | ![Pikilogo.png](https://cdn.pikminfanon.com/thumb/d/db/Pikilogo.png/50px-Pikilogo.png) |
 
-[Pikmin Fanon](https://pikminfanon.com/wiki/PikminFanon:About "PikminFanon:About")'s **privacy policy** details the nature of the data collected from users, and who may access this data. Users that do not agree with any portion of this policy should not use Pikmin Fanon.
+[Pikmin Fanon](https://pikminfanon.com/wiki/PikminFanon:About "PikminFanon:About")'s **privacy policy** details the minimum age a user must be, the nature of the data collected from users, and who may access this data. Users who do not qualify for or agree with any portion of this policy should not use Pikmin Fanon.
 
 Users that have any questions or concerns regarding the collection and use of their data or would like to request to have their personal data removed should contact a [bureaucrat](https://pikminfanon.com/wiki/Special:ListUsers/bureaucrat "Special:ListUsers/bureaucrat"), on their talk page.
 
 Contents
 --------
 
-* [1 Data](#Data)
-    * [1.1 Session](#Session)
-    * [1.2 Personal and account](#Personal_and_account)
-* [2 Contributing](#Contributing)
-* [3 External links](#External_links)
+* [1 User age](#User_age)
+* [2 Data](#Data)
+    * [2.1 Session](#Session)
+    * [2.2 Personal and account](#Personal_and_account)
+* [3 Contributing](#Contributing)
+* [4 External links](#External_links)
+
+User age
+--------
+
+United States law prohibits anyone under 13 years old from making online accounts on any website, wikis such as Pikmin Fanon included. A user that reveals their age to be 12 or younger will be banned from the wiki until they are roughly 13 years old, to avoid legality issues.
 
 Data
 ----
@@ -133,14 +139,14 @@ Pikmin Fanon is not responsible for the content or data collection policies of a
 | Specific articles | [Areas](https://pikminfanon.com/wiki/PikminFanon:Area_article_guidelines "PikminFanon:Area article guidelines") • [Caves](https://pikminfanon.com/wiki/PikminFanon:Cave_article_guidelines "PikminFanon:Cave article guidelines") • [Stages](https://pikminfanon.com/wiki/PikminFanon:Stage_article_guidelines "PikminFanon:Stage article guidelines") • [Characters and ships](https://pikminfanon.com/wiki/PikminFanon:Character_and_ship_article_guidelines "PikminFanon:Character and ship article guidelines") • [Collectibles](https://pikminfanon.com/wiki/PikminFanon:Collectible_article_guidelines "PikminFanon:Collectible article guidelines") • [Enemies and vegetation](https://pikminfanon.com/wiki/PikminFanon:Enemy_and_plant_article_guidelines "PikminFanon:Enemy and plant article guidelines") • [Families](https://pikminfanon.com/wiki/PikminFanon:Family_article_guidelines "PikminFanon:Family article guidelines") • [Games](https://pikminfanon.com/wiki/PikminFanon:Game_article_guidelines "PikminFanon:Game article guidelines") • [Pikmin](https://pikminfanon.com/wiki/PikminFanon:Pikmin_article_guidelines "PikminFanon:Pikmin article guidelines") |
 | Templates | [General](https://pikminfanon.com/wiki/PikminFanon:Template_guidelines "PikminFanon:Template guidelines") • [Navigation box](https://pikminfanon.com/wiki/PikminFanon:Navigation_box_guidelines "PikminFanon:Navigation box guidelines") |
 
-Retrieved from "[https://pikminfanon.com/w/index.php?title=PikminFanon:Privacy\_policy&oldid=146946](https://pikminfanon.com/w/index.php?title=PikminFanon:Privacy_policy&oldid=146946)"
+Retrieved from "[https://pikminfanon.com/w/index.php?title=PikminFanon:Privacy\_policy&oldid=185667](https://pikminfanon.com/w/index.php?title=PikminFanon:Privacy_policy&oldid=185667)"
 
 [Categories](https://pikminfanon.com/wiki/Special:Categories "Special:Categories"):
 
 * [Policies and guidelines](https://pikminfanon.com/wiki/Category:Policies_and_guidelines "Category:Policies and guidelines")
 * [Pikmin Fanon](https://pikminfanon.com/wiki/Category:Pikmin_Fanon "Category:Pikmin Fanon")
 
-* This page was last edited on 5 October 2023, at 04:18.
+* This page was last edited on 12 June 2024, at 13:37.
 * Content is available under [Creative Commons Attribution-ShareAlike](https://creativecommons.org/licenses/by-sa/4.0/) unless otherwise noted.
 
 * [Privacy policy](https://pikminfanon.com/wiki/PikminFanon:Privacy_policy)
