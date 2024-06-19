@@ -407,6 +407,16 @@ ADDITIONAL INFORMATION REGARDING CALIFORNIA RESIDENTS
     
     **To make a request for the disclosures or deletion described above, please contact us at privacy@kongregate.com or [use this form](javascript:util.openURL('https://kongregate-privacy.my.onetrust.com/webform/7424cb27-7013-49a6-a5a7-66b4bfa6c20e/167536ab-aa15-479c-8e0f-0b2911ce1d1e')). You may only make a verifiable consumer request for access or data portability twice within a 12-month period.**
     
+6. **CCPA Metrics Report.**
+    
+    |     |     |     |     |
+    | --- | --- | --- | --- |
+    | **Request type** | **Quantity** | **Stage** | **Status** |
+    | Deletion Request | 1682 | Complete | Completed request |
+    | Deletion Request | 5363 | Incomplete | Incomplete due to: Incomplete/partial data, Request for more information, Failed to verify identity |
+    | Access Request | 130 | Complete | Completed request |
+    | Access Request | 619 | Incomplete | Incomplete due to: Incomplete/partial data, Request for more information, Failed to verify identity |
+    
 
  
 
