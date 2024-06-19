@@ -358,8 +358,8 @@ Suchen
     * [Neuerscheinungen](https://www.test.de/shop/neuerscheinungen/)
 
 * [Kontakt](https://www.test.de/kontakt/)
-* [Über uns](https://www.test.de/unternehmen/)
-* [Presse](https://www.test.de/presse/)
+* [Über uns](https://www.test.de/thema/unternehmen/)
+* [Presse](https://www.test.de/thema/presse/)
 * [Hilfe](https://www.test.de/Hilfe-5836822-0/)
 
 * [Login](https://www.test.de/meintest/login/)
@@ -383,7 +383,7 @@ weiter
 
 Suchen
 
-![test.de print logo](https://cdn.test.de/static/images/modules/header/test-de-print-logo;v107948102.svg)
+![test.de print logo](https://cdn.test.de/static/images/modules/header/test-de-print-logo;v108635066.svg)
 
 1. [Startweiter](https://www.test.de/)
 2. Hilfe
@@ -447,7 +447,7 @@ Mehr Infos zum Ausdrucken oder Speichern von digitalen Inhalten finden Sie [hier
 
 Stiftung Warentest: Unabhängig. Objektiv. Unbestechlich.
 
-[Mehr erfahren seitwärts](https://www.test.de/unternehmen/)
+[Mehr erfahren seitwärts](https://www.test.de/thema/unternehmen/)
 
 Bezahl­möglich­keiten
 ---------------------
@@ -586,29 +586,29 @@ Weitere spannende Themen
 
 Neueste Tests
 
-* [Smartphones im Test: Gute Handys gibt es für weniger als 200 Euro](https://www.test.de/Handys-und-Smartphones-im-Test-4222793-0/ "Smartphones im Test - Gute Handys gibt es für weniger als 200 Euro")
-* [Entnahme­plan mit ETF: Mit dem Pantoffel-Portfolio die Rente aufpeppen](https://www.test.de/pantoffel-portfolio-entnahmeplan-5754765-0/ "Entnahmeplan mit ETF - Mit dem Pantoffel-Portfolio die Rente aufpeppen")
-* [Nach­haltige Banken im Vergleich: Zinsen und Konten im grünen Bereich](https://www.test.de/Nachhaltige-Banken-Vergleich-4590882-0/ "Nachhaltige Banken im Vergleich - Zinsen und Konten im grünen Bereich")
-* [Vergleich Kredite: Sparen Sie richtig viel Zinsen mit dem besten Darlehen](https://www.test.de/Kredite-Die-besten-Darlehen-fuer-Sie-1131971-0/ "Vergleich Kredite - Sparen Sie richtig viel Zinsen mit dem besten Darlehen")
-* [Tages­geld­vergleich: So finden Sie jetzt die besten Zinsen](https://www.test.de/Tagesgeldvergleich-Die-besten-Zinsen-4196794-0/ "Tagesgeldvergleich - So finden Sie jetzt die besten Zinsen")
-* [Fest­geld­vergleich: Hier bringt Ihr Spargeld die beste Rendite – und ist sicher](https://www.test.de/Festgeldvergleich-Die-besten-Zinsen-4196084-0/ "Festgeldvergleich - Hier bringt Ihr Spargeld die beste Rendite – und ist sicher")
+* [Anschluss­finanzierung: So sichern Sie sich einen güns­tigen Anschluss­kredit](https://www.test.de/Anschlussfinanzierung-Kredit-Zinsen-Vergleich-4963970-0/ "Anschlussfinanzierung - So sichern Sie sich einen günstigen Anschlusskredit")
+* [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
+* [Rente mit 63: Planen, rechnen, freuen – so klappt es mit der Frührente](https://www.test.de/Rente-mit-63-5197662-0/ "Rente mit 63 - Planen, rechnen, freuen – so klappt es mit der Frührente")
+* [Krankenkassen­vergleich 2024: Krankenkasse – gibts auch günstig und mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – gibts auch günstig und mit Top-Zusatzleistungen")
+* [Nach­haltige Rentenfonds: Diese Anleihen eignen sich fürs grüne Depot](https://www.test.de/Nachhaltige-Rentenfonds-im-Test-6127665-0/ "Nachhaltige Rentenfonds - Diese Anleihen eignen sich fürs grüne Depot")
+* [Sonnen­schutz­mittel im Test: Nur die Hälfte lässt jubeln](https://www.test.de/Test-Sonnencreme-und-Sonnenspray-fuer-Erwachsene-4868984-0/ "Sonnenschutzmittel im Test - Nur die Hälfte lässt jubeln")
 
 test.de entdecken
 
-* [Temperaturen am Arbeits­platz: Wie kalt es sein darf – oder muss](https://www.test.de/Temperaturen-am-Arbeitsplatz-5933135-0/ "Temperaturen am Arbeitsplatz - Wie kalt es sein darf – oder muss")
-* [Hacker-Angriff auf Pass­wort-Manager: Kunden­daten von LastPass gestohlen](https://www.test.de/Hacker-Angriff-auf-Passwort-Manager-Kundendaten-von-LastPass-gestohlen-5952137-0/ "Hacker-Angriff auf Passwort-Manager - Kundendaten von LastPass gestohlen")
-* [Risiko Psyche: Trotz Therapie gut versichert](https://www.test.de/Gut-versichert-trotz-Psychotherapie-6018021-0/ "Risiko Psyche - Trotz Therapie gut versichert")
-* [Notebook-Reparatur­dienste im Test: Manchmal gut, selten schnell, mitunter preis­wert](https://www.test.de/notebook-reparaturdienste-im-test-6001209-0/ "Notebook-Reparaturdienste im Test - Manchmal gut, selten schnell, mitunter preiswert")
-* [Fest­geld: Selt­same Angebote aus dem Ausland](https://www.test.de/Festgeld-Seltsame-Angebote-aus-dem-Ausland-6051636-0/ "Festgeld - Seltsame Angebote aus dem Ausland")
-* [Digi­taler Euro: Gefälschte E-Mail mit KfW-Angebot](https://www.test.de/Digitaler-Euro-Gefaelschte-E-Mail-mit-KfW-Angebot-6119446-0/ "Digitaler Euro - Gefälschte E-Mail mit KfW-Angebot")
+* [Gewusst wie: Paypal-Konto einrichten](https://www.test.de/Gewusst-wie-Paypal-Konto-einrichten-5986194-0/ "Gewusst wie - Paypal-Konto einrichten")
+* [Energetische Sanierung: Modernisieren Sie richtig – mit unseren Experten-Tipps](https://www.test.de/Energetische-Sanierung-Modernisierung-richtig-anpacken-fuenf-Tipps-6092611-0/ "Energetische Sanierung - Modernisieren Sie richtig – mit unseren Experten-Tipps")
+* [Sicher­heits­lücke: Abus lässt Betroffene im Stich](https://www.test.de/Sicherheitsluecke-Abus-laesst-Betroffene-im-Stich-5923244-0/ "Sicherheitslücke - Abus lässt Betroffene im Stich")
+* [E-Growing: Dubiose Deals bei MyFirst­Plant](https://www.test.de/E-Growing-Dubiose-Deals-bei-MyFirstPlant-5998514-0/ "E-Growing - Dubiose Deals bei MyFirstPlant")
+* [Rück­ruf Babboe-Lastenfahr­räder: Nun auch Slim Mountain betroffen](https://www.test.de/Lastenfahrraeder-von-Babboe-Verkaufsstopp-und-Rueckruf-wegen-Rahmenbruechen-6098753-0/ "Rückruf Babboe-Lastenfahrräder - Nun auch Slim Mountain betroffen")
+* [Olivenöl: Doppelt so teuer wie im Vorjahr](https://www.test.de/Oliven-und-Olivenoel-Ueber-30-Prozent-teurer-als-im-Vorjahr-6048734-0/ "Olivenöl - Doppelt so teuer wie im Vorjahr")
 
 Fußbereich
 
 Service Stiftung Warentest
 
-* [Über uns](https://www.test.de/unternehmen/)
+* [Über uns](https://www.test.de/thema/unternehmen/)
 * [So testen wir](https://www.test.de/unternehmen/testablauf-5017344-0/)
-* [Presse](https://www.test.de/presse/)
+* [Presse](https://www.test.de/thema/presse/)
 * [Kontakt](https://www.test.de/kontakt/)
 * [Jobs & Karriere](https://www.test.de/unternehmen/karriere-bei-der-stiftung-warentest-5017301-0/)
 * [About us](https://www.test.de/aboutus/)
@@ -1050,8 +1050,8 @@ Suchen
     * [Neuerscheinungen](https://www.test.de/shop/neuerscheinungen/)
 
 * [Kontakt](https://www.test.de/kontakt/)
-* [Über uns](https://www.test.de/unternehmen/)
-* [Presse](https://www.test.de/presse/)
+* [Über uns](https://www.test.de/thema/unternehmen/)
+* [Presse](https://www.test.de/thema/presse/)
 * [Hilfe](https://www.test.de/Hilfe-5836822-0/)
 
 * [Login](https://www.test.de/meintest/login/)
@@ -1403,8 +1403,8 @@ Suchen
     * [Neuerscheinungen](https://www.test.de/shop/neuerscheinungen/)
 
 * [Kontakt](https://www.test.de/kontakt/)
-* [Über uns](https://www.test.de/unternehmen/)
-* [Presse](https://www.test.de/presse/)
+* [Über uns](https://www.test.de/thema/unternehmen/)
+* [Presse](https://www.test.de/thema/presse/)
 * [Hilfe](https://www.test.de/Hilfe-5836822-0/)
 
 * [Tests & Themen](https://www.test.de/thema/)
@@ -2151,7 +2151,7 @@ Mehr Infos zum Ausdrucken oder Speichern von digitalen Inhalten finden Sie [hier
 
 Stiftung Warentest: Unabhängig. Objektiv. Unbestechlich.
 
-[Mehr erfahren seitwärts](https://www.test.de/unternehmen/)
+[Mehr erfahren seitwärts](https://www.test.de/thema/unternehmen/)
 
 Bezahl­möglich­keiten
 ---------------------
@@ -2322,7 +2322,7 @@ Mehr Infos zum Ausdrucken oder Speichern von digitalen Inhalten finden Sie [hier
 
 Stiftung Warentest: Unabhängig. Objektiv. Unbestechlich.
 
-[Mehr erfahren seitwärts](https://www.test.de/unternehmen/)
+[Mehr erfahren seitwärts](https://www.test.de/thema/unternehmen/)
 
 Bezahl­möglich­keiten
 ---------------------
@@ -2481,11 +2481,11 @@ Mehr Infos zum Ausdrucken oder Speichern von digitalen Inhalten finden Sie [hier
 
 Stiftung Warentest: Unabhängig. Objektiv. Unbestechlich.
 
-[Mehr erfahren seitwärts](https://www.test.de/unternehmen/)
+[Mehr erfahren seitwärts](https://www.test.de/thema/unternehmen/)
 
 Stiftung Warentest: Unabhängig. Objektiv. Unbestechlich.
 
-[Mehr erfahren seitwärts](https://www.test.de/unternehmen/)
+[Mehr erfahren seitwärts](https://www.test.de/thema/unternehmen/)
 
 Bezahl­möglich­keiten
 ---------------------
@@ -2724,21 +2724,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
-* [Smartphones im Test: Gute Handys gibt es für weniger als 200 Euro](https://www.test.de/Handys-und-Smartphones-im-Test-4222793-0/ "Smartphones im Test - Gute Handys gibt es für weniger als 200 Euro")
-* [Entnahme­plan mit ETF: Mit dem Pantoffel-Portfolio die Rente aufpeppen](https://www.test.de/pantoffel-portfolio-entnahmeplan-5754765-0/ "Entnahmeplan mit ETF - Mit dem Pantoffel-Portfolio die Rente aufpeppen")
-* [Nach­haltige Banken im Vergleich: Zinsen und Konten im grünen Bereich](https://www.test.de/Nachhaltige-Banken-Vergleich-4590882-0/ "Nachhaltige Banken im Vergleich - Zinsen und Konten im grünen Bereich")
-* [Vergleich Kredite: Sparen Sie richtig viel Zinsen mit dem besten Darlehen](https://www.test.de/Kredite-Die-besten-Darlehen-fuer-Sie-1131971-0/ "Vergleich Kredite - Sparen Sie richtig viel Zinsen mit dem besten Darlehen")
-* [Tages­geld­vergleich: So finden Sie jetzt die besten Zinsen](https://www.test.de/Tagesgeldvergleich-Die-besten-Zinsen-4196794-0/ "Tagesgeldvergleich - So finden Sie jetzt die besten Zinsen")
-* [Fest­geld­vergleich: Hier bringt Ihr Spargeld die beste Rendite – und ist sicher](https://www.test.de/Festgeldvergleich-Die-besten-Zinsen-4196084-0/ "Festgeldvergleich - Hier bringt Ihr Spargeld die beste Rendite – und ist sicher")
+* [Anschluss­finanzierung: So sichern Sie sich einen güns­tigen Anschluss­kredit](https://www.test.de/Anschlussfinanzierung-Kredit-Zinsen-Vergleich-4963970-0/ "Anschlussfinanzierung - So sichern Sie sich einen günstigen Anschlusskredit")
+* [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
+* [Rente mit 63: Planen, rechnen, freuen – so klappt es mit der Frührente](https://www.test.de/Rente-mit-63-5197662-0/ "Rente mit 63 - Planen, rechnen, freuen – so klappt es mit der Frührente")
+* [Krankenkassen­vergleich 2024: Krankenkasse – gibts auch günstig und mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – gibts auch günstig und mit Top-Zusatzleistungen")
+* [Nach­haltige Rentenfonds: Diese Anleihen eignen sich fürs grüne Depot](https://www.test.de/Nachhaltige-Rentenfonds-im-Test-6127665-0/ "Nachhaltige Rentenfonds - Diese Anleihen eignen sich fürs grüne Depot")
+* [Sonnen­schutz­mittel im Test: Nur die Hälfte lässt jubeln](https://www.test.de/Test-Sonnencreme-und-Sonnenspray-fuer-Erwachsene-4868984-0/ "Sonnenschutzmittel im Test - Nur die Hälfte lässt jubeln")
 
 test.de entdecken
 
-* [Temperaturen am Arbeits­platz: Wie kalt es sein darf – oder muss](https://www.test.de/Temperaturen-am-Arbeitsplatz-5933135-0/ "Temperaturen am Arbeitsplatz - Wie kalt es sein darf – oder muss")
-* [Hacker-Angriff auf Pass­wort-Manager: Kunden­daten von LastPass gestohlen](https://www.test.de/Hacker-Angriff-auf-Passwort-Manager-Kundendaten-von-LastPass-gestohlen-5952137-0/ "Hacker-Angriff auf Passwort-Manager - Kundendaten von LastPass gestohlen")
-* [Risiko Psyche: Trotz Therapie gut versichert](https://www.test.de/Gut-versichert-trotz-Psychotherapie-6018021-0/ "Risiko Psyche - Trotz Therapie gut versichert")
-* [Notebook-Reparatur­dienste im Test: Manchmal gut, selten schnell, mitunter preis­wert](https://www.test.de/notebook-reparaturdienste-im-test-6001209-0/ "Notebook-Reparaturdienste im Test - Manchmal gut, selten schnell, mitunter preiswert")
-* [Fest­geld: Selt­same Angebote aus dem Ausland](https://www.test.de/Festgeld-Seltsame-Angebote-aus-dem-Ausland-6051636-0/ "Festgeld - Seltsame Angebote aus dem Ausland")
-* [Digi­taler Euro: Gefälschte E-Mail mit KfW-Angebot](https://www.test.de/Digitaler-Euro-Gefaelschte-E-Mail-mit-KfW-Angebot-6119446-0/ "Digitaler Euro - Gefälschte E-Mail mit KfW-Angebot")
+* [Gewusst wie: Paypal-Konto einrichten](https://www.test.de/Gewusst-wie-Paypal-Konto-einrichten-5986194-0/ "Gewusst wie - Paypal-Konto einrichten")
+* [Energetische Sanierung: Modernisieren Sie richtig – mit unseren Experten-Tipps](https://www.test.de/Energetische-Sanierung-Modernisierung-richtig-anpacken-fuenf-Tipps-6092611-0/ "Energetische Sanierung - Modernisieren Sie richtig – mit unseren Experten-Tipps")
+* [Sicher­heits­lücke: Abus lässt Betroffene im Stich](https://www.test.de/Sicherheitsluecke-Abus-laesst-Betroffene-im-Stich-5923244-0/ "Sicherheitslücke - Abus lässt Betroffene im Stich")
+* [E-Growing: Dubiose Deals bei MyFirst­Plant](https://www.test.de/E-Growing-Dubiose-Deals-bei-MyFirstPlant-5998514-0/ "E-Growing - Dubiose Deals bei MyFirstPlant")
+* [Rück­ruf Babboe-Lastenfahr­räder: Nun auch Slim Mountain betroffen](https://www.test.de/Lastenfahrraeder-von-Babboe-Verkaufsstopp-und-Rueckruf-wegen-Rahmenbruechen-6098753-0/ "Rückruf Babboe-Lastenfahrräder - Nun auch Slim Mountain betroffen")
+* [Olivenöl: Doppelt so teuer wie im Vorjahr](https://www.test.de/Oliven-und-Olivenoel-Ueber-30-Prozent-teurer-als-im-Vorjahr-6048734-0/ "Olivenöl - Doppelt so teuer wie im Vorjahr")
 
      ![](https://cdn.test.de/file/image/63/a1/606b5035-a41f-4b3b-8727-c0ee0552058c-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
@@ -2780,45 +2780,45 @@ Weitere spannende Themen
 
 Neueste Tests
 
-* [Smartphones im Test: Gute Handys gibt es für weniger als 200 Euro](https://www.test.de/Handys-und-Smartphones-im-Test-4222793-0/ "Smartphones im Test - Gute Handys gibt es für weniger als 200 Euro")
-* [Entnahme­plan mit ETF: Mit dem Pantoffel-Portfolio die Rente aufpeppen](https://www.test.de/pantoffel-portfolio-entnahmeplan-5754765-0/ "Entnahmeplan mit ETF - Mit dem Pantoffel-Portfolio die Rente aufpeppen")
-* [Nach­haltige Banken im Vergleich: Zinsen und Konten im grünen Bereich](https://www.test.de/Nachhaltige-Banken-Vergleich-4590882-0/ "Nachhaltige Banken im Vergleich - Zinsen und Konten im grünen Bereich")
-* [Vergleich Kredite: Sparen Sie richtig viel Zinsen mit dem besten Darlehen](https://www.test.de/Kredite-Die-besten-Darlehen-fuer-Sie-1131971-0/ "Vergleich Kredite - Sparen Sie richtig viel Zinsen mit dem besten Darlehen")
-* [Tages­geld­vergleich: So finden Sie jetzt die besten Zinsen](https://www.test.de/Tagesgeldvergleich-Die-besten-Zinsen-4196794-0/ "Tagesgeldvergleich - So finden Sie jetzt die besten Zinsen")
-* [Fest­geld­vergleich: Hier bringt Ihr Spargeld die beste Rendite – und ist sicher](https://www.test.de/Festgeldvergleich-Die-besten-Zinsen-4196084-0/ "Festgeldvergleich - Hier bringt Ihr Spargeld die beste Rendite – und ist sicher")
+* [Anschluss­finanzierung: So sichern Sie sich einen güns­tigen Anschluss­kredit](https://www.test.de/Anschlussfinanzierung-Kredit-Zinsen-Vergleich-4963970-0/ "Anschlussfinanzierung - So sichern Sie sich einen günstigen Anschlusskredit")
+* [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
+* [Rente mit 63: Planen, rechnen, freuen – so klappt es mit der Frührente](https://www.test.de/Rente-mit-63-5197662-0/ "Rente mit 63 - Planen, rechnen, freuen – so klappt es mit der Frührente")
+* [Krankenkassen­vergleich 2024: Krankenkasse – gibts auch günstig und mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – gibts auch günstig und mit Top-Zusatzleistungen")
+* [Nach­haltige Rentenfonds: Diese Anleihen eignen sich fürs grüne Depot](https://www.test.de/Nachhaltige-Rentenfonds-im-Test-6127665-0/ "Nachhaltige Rentenfonds - Diese Anleihen eignen sich fürs grüne Depot")
+* [Sonnen­schutz­mittel im Test: Nur die Hälfte lässt jubeln](https://www.test.de/Test-Sonnencreme-und-Sonnenspray-fuer-Erwachsene-4868984-0/ "Sonnenschutzmittel im Test - Nur die Hälfte lässt jubeln")
 
 test.de entdecken
 
-* [Temperaturen am Arbeits­platz: Wie kalt es sein darf – oder muss](https://www.test.de/Temperaturen-am-Arbeitsplatz-5933135-0/ "Temperaturen am Arbeitsplatz - Wie kalt es sein darf – oder muss")
-* [Hacker-Angriff auf Pass­wort-Manager: Kunden­daten von LastPass gestohlen](https://www.test.de/Hacker-Angriff-auf-Passwort-Manager-Kundendaten-von-LastPass-gestohlen-5952137-0/ "Hacker-Angriff auf Passwort-Manager - Kundendaten von LastPass gestohlen")
-* [Risiko Psyche: Trotz Therapie gut versichert](https://www.test.de/Gut-versichert-trotz-Psychotherapie-6018021-0/ "Risiko Psyche - Trotz Therapie gut versichert")
-* [Notebook-Reparatur­dienste im Test: Manchmal gut, selten schnell, mitunter preis­wert](https://www.test.de/notebook-reparaturdienste-im-test-6001209-0/ "Notebook-Reparaturdienste im Test - Manchmal gut, selten schnell, mitunter preiswert")
-* [Fest­geld: Selt­same Angebote aus dem Ausland](https://www.test.de/Festgeld-Seltsame-Angebote-aus-dem-Ausland-6051636-0/ "Festgeld - Seltsame Angebote aus dem Ausland")
-* [Digi­taler Euro: Gefälschte E-Mail mit KfW-Angebot](https://www.test.de/Digitaler-Euro-Gefaelschte-E-Mail-mit-KfW-Angebot-6119446-0/ "Digitaler Euro - Gefälschte E-Mail mit KfW-Angebot")
+* [Gewusst wie: Paypal-Konto einrichten](https://www.test.de/Gewusst-wie-Paypal-Konto-einrichten-5986194-0/ "Gewusst wie - Paypal-Konto einrichten")
+* [Energetische Sanierung: Modernisieren Sie richtig – mit unseren Experten-Tipps](https://www.test.de/Energetische-Sanierung-Modernisierung-richtig-anpacken-fuenf-Tipps-6092611-0/ "Energetische Sanierung - Modernisieren Sie richtig – mit unseren Experten-Tipps")
+* [Sicher­heits­lücke: Abus lässt Betroffene im Stich](https://www.test.de/Sicherheitsluecke-Abus-laesst-Betroffene-im-Stich-5923244-0/ "Sicherheitslücke - Abus lässt Betroffene im Stich")
+* [E-Growing: Dubiose Deals bei MyFirst­Plant](https://www.test.de/E-Growing-Dubiose-Deals-bei-MyFirstPlant-5998514-0/ "E-Growing - Dubiose Deals bei MyFirstPlant")
+* [Rück­ruf Babboe-Lastenfahr­räder: Nun auch Slim Mountain betroffen](https://www.test.de/Lastenfahrraeder-von-Babboe-Verkaufsstopp-und-Rueckruf-wegen-Rahmenbruechen-6098753-0/ "Rückruf Babboe-Lastenfahrräder - Nun auch Slim Mountain betroffen")
+* [Olivenöl: Doppelt so teuer wie im Vorjahr](https://www.test.de/Oliven-und-Olivenoel-Ueber-30-Prozent-teurer-als-im-Vorjahr-6048734-0/ "Olivenöl - Doppelt so teuer wie im Vorjahr")
 
 Neueste Tests
 
-* [Smartphones im Test: Gute Handys gibt es für weniger als 200 Euro](https://www.test.de/Handys-und-Smartphones-im-Test-4222793-0/ "Smartphones im Test - Gute Handys gibt es für weniger als 200 Euro")
-* [Entnahme­plan mit ETF: Mit dem Pantoffel-Portfolio die Rente aufpeppen](https://www.test.de/pantoffel-portfolio-entnahmeplan-5754765-0/ "Entnahmeplan mit ETF - Mit dem Pantoffel-Portfolio die Rente aufpeppen")
-* [Nach­haltige Banken im Vergleich: Zinsen und Konten im grünen Bereich](https://www.test.de/Nachhaltige-Banken-Vergleich-4590882-0/ "Nachhaltige Banken im Vergleich - Zinsen und Konten im grünen Bereich")
-* [Vergleich Kredite: Sparen Sie richtig viel Zinsen mit dem besten Darlehen](https://www.test.de/Kredite-Die-besten-Darlehen-fuer-Sie-1131971-0/ "Vergleich Kredite - Sparen Sie richtig viel Zinsen mit dem besten Darlehen")
-* [Tages­geld­vergleich: So finden Sie jetzt die besten Zinsen](https://www.test.de/Tagesgeldvergleich-Die-besten-Zinsen-4196794-0/ "Tagesgeldvergleich - So finden Sie jetzt die besten Zinsen")
-* [Fest­geld­vergleich: Hier bringt Ihr Spargeld die beste Rendite – und ist sicher](https://www.test.de/Festgeldvergleich-Die-besten-Zinsen-4196084-0/ "Festgeldvergleich - Hier bringt Ihr Spargeld die beste Rendite – und ist sicher")
+* [Anschluss­finanzierung: So sichern Sie sich einen güns­tigen Anschluss­kredit](https://www.test.de/Anschlussfinanzierung-Kredit-Zinsen-Vergleich-4963970-0/ "Anschlussfinanzierung - So sichern Sie sich einen günstigen Anschlusskredit")
+* [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
+* [Rente mit 63: Planen, rechnen, freuen – so klappt es mit der Frührente](https://www.test.de/Rente-mit-63-5197662-0/ "Rente mit 63 - Planen, rechnen, freuen – so klappt es mit der Frührente")
+* [Krankenkassen­vergleich 2024: Krankenkasse – gibts auch günstig und mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – gibts auch günstig und mit Top-Zusatzleistungen")
+* [Nach­haltige Rentenfonds: Diese Anleihen eignen sich fürs grüne Depot](https://www.test.de/Nachhaltige-Rentenfonds-im-Test-6127665-0/ "Nachhaltige Rentenfonds - Diese Anleihen eignen sich fürs grüne Depot")
+* [Sonnen­schutz­mittel im Test: Nur die Hälfte lässt jubeln](https://www.test.de/Test-Sonnencreme-und-Sonnenspray-fuer-Erwachsene-4868984-0/ "Sonnenschutzmittel im Test - Nur die Hälfte lässt jubeln")
 
 test.de entdecken
 
-* [Temperaturen am Arbeits­platz: Wie kalt es sein darf – oder muss](https://www.test.de/Temperaturen-am-Arbeitsplatz-5933135-0/ "Temperaturen am Arbeitsplatz - Wie kalt es sein darf – oder muss")
-* [Hacker-Angriff auf Pass­wort-Manager: Kunden­daten von LastPass gestohlen](https://www.test.de/Hacker-Angriff-auf-Passwort-Manager-Kundendaten-von-LastPass-gestohlen-5952137-0/ "Hacker-Angriff auf Passwort-Manager - Kundendaten von LastPass gestohlen")
-* [Risiko Psyche: Trotz Therapie gut versichert](https://www.test.de/Gut-versichert-trotz-Psychotherapie-6018021-0/ "Risiko Psyche - Trotz Therapie gut versichert")
-* [Notebook-Reparatur­dienste im Test: Manchmal gut, selten schnell, mitunter preis­wert](https://www.test.de/notebook-reparaturdienste-im-test-6001209-0/ "Notebook-Reparaturdienste im Test - Manchmal gut, selten schnell, mitunter preiswert")
-* [Fest­geld: Selt­same Angebote aus dem Ausland](https://www.test.de/Festgeld-Seltsame-Angebote-aus-dem-Ausland-6051636-0/ "Festgeld - Seltsame Angebote aus dem Ausland")
-* [Digi­taler Euro: Gefälschte E-Mail mit KfW-Angebot](https://www.test.de/Digitaler-Euro-Gefaelschte-E-Mail-mit-KfW-Angebot-6119446-0/ "Digitaler Euro - Gefälschte E-Mail mit KfW-Angebot")
+* [Gewusst wie: Paypal-Konto einrichten](https://www.test.de/Gewusst-wie-Paypal-Konto-einrichten-5986194-0/ "Gewusst wie - Paypal-Konto einrichten")
+* [Energetische Sanierung: Modernisieren Sie richtig – mit unseren Experten-Tipps](https://www.test.de/Energetische-Sanierung-Modernisierung-richtig-anpacken-fuenf-Tipps-6092611-0/ "Energetische Sanierung - Modernisieren Sie richtig – mit unseren Experten-Tipps")
+* [Sicher­heits­lücke: Abus lässt Betroffene im Stich](https://www.test.de/Sicherheitsluecke-Abus-laesst-Betroffene-im-Stich-5923244-0/ "Sicherheitslücke - Abus lässt Betroffene im Stich")
+* [E-Growing: Dubiose Deals bei MyFirst­Plant](https://www.test.de/E-Growing-Dubiose-Deals-bei-MyFirstPlant-5998514-0/ "E-Growing - Dubiose Deals bei MyFirstPlant")
+* [Rück­ruf Babboe-Lastenfahr­räder: Nun auch Slim Mountain betroffen](https://www.test.de/Lastenfahrraeder-von-Babboe-Verkaufsstopp-und-Rueckruf-wegen-Rahmenbruechen-6098753-0/ "Rückruf Babboe-Lastenfahrräder - Nun auch Slim Mountain betroffen")
+* [Olivenöl: Doppelt so teuer wie im Vorjahr](https://www.test.de/Oliven-und-Olivenoel-Ueber-30-Prozent-teurer-als-im-Vorjahr-6048734-0/ "Olivenöl - Doppelt so teuer wie im Vorjahr")
 
 Service Stiftung Warentest
 
-* [Über uns](https://www.test.de/unternehmen/)
+* [Über uns](https://www.test.de/thema/unternehmen/)
 * [So testen wir](https://www.test.de/unternehmen/testablauf-5017344-0/)
-* [Presse](https://www.test.de/presse/)
+* [Presse](https://www.test.de/thema/presse/)
 * [Kontakt](https://www.test.de/kontakt/)
 * [Jobs & Karriere](https://www.test.de/unternehmen/karriere-bei-der-stiftung-warentest-5017301-0/)
 * [About us](https://www.test.de/aboutus/)
@@ -2848,9 +2848,9 @@ Social Media
 
 Service Stiftung Warentest
 
-* [Über uns](https://www.test.de/unternehmen/)
+* [Über uns](https://www.test.de/thema/unternehmen/)
 * [So testen wir](https://www.test.de/unternehmen/testablauf-5017344-0/)
-* [Presse](https://www.test.de/presse/)
+* [Presse](https://www.test.de/thema/presse/)
 * [Kontakt](https://www.test.de/kontakt/)
 * [Jobs & Karriere](https://www.test.de/unternehmen/karriere-bei-der-stiftung-warentest-5017301-0/)
 * [About us](https://www.test.de/aboutus/)
@@ -2872,9 +2872,9 @@ Social Media
 
 Service Stiftung Warentest
 
-* [Über uns](https://www.test.de/unternehmen/)
+* [Über uns](https://www.test.de/thema/unternehmen/)
 * [So testen wir](https://www.test.de/unternehmen/testablauf-5017344-0/)
-* [Presse](https://www.test.de/presse/)
+* [Presse](https://www.test.de/thema/presse/)
 * [Kontakt](https://www.test.de/kontakt/)
 * [Jobs & Karriere](https://www.test.de/unternehmen/karriere-bei-der-stiftung-warentest-5017301-0/)
 * [About us](https://www.test.de/aboutus/)
