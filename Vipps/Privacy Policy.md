@@ -178,7 +178,41 @@ For å vise dine personlige medlemsskap og alle fordeler du har gjennom utvalgte
 
 [Avtalen vi har med deg, se vilkårene](https://www.vipps.no/personvern-og-vilkar/vilkar-privat/)
 
-### 1.7 Når vi viser deg varelinjer i Vipps
+### 1.7 Når du bruker oppgjør eller kasse
+
+### **Oppgjør**
+
+### Hvorfor og hvordan behandler vi dine personopplysninger?
+
+For å regne ut og fordele utgiftene i en gruppe brukere, behandler vi følgende informasjon utover det som fremgår av punkt 1.1:
+
+* Selvvalgt bildet for oppgjøret
+* Navn, byrdefordeling og beløp på utlegg i oppgjøret
+* Navn på deltaker, beløp og status på betaling i oppgjøret
+
+**Visste du at?** Alle deltakere i oppgjøret kan se informasjonen som er listet over.
+
+### Hva gir oss lov til dette?
+
+[Avtalen vi har med deg, se vilkårene](https://www.vipps.no/personvern-og-vilkar/vilkar-privat/)
+
+### **Kasse**
+
+### Hvorfor og hvordan behandler vi dine personopplysninger?
+
+For å lage en kasse hvor du enkelt kan samle inn penger for et spesifikt formål, behandler vi følgende informasjon:
+
+* Selvvalgt navn på kassen og bilde
+* Valgt formål for kassen
+* Betalinger som er gått inn og ut av kassen
+
+**Visste du at?** Du som eier av en kasse kan eksportere alle betalinger inn og ut. Eier av kassen kan gi andre lesetilgang til informasjonen i kassen.
+
+### Hva gir oss lov til dette?
+
+[Avtalen vi har med deg, se vilkårene](https://www.vipps.no/personvern-og-vilkar/vilkar-privat/)
+
+### 1.8 Når vi viser deg varelinjer i Vipps
 
 ### Hvorfor og hvordan behandler vi dine personopplysninger?
 
@@ -192,7 +226,7 @@ I tillegg til dine transaksjonsdata, se 1.2, kan vi vise deg varelinjeinformasjo
 
 **Visste du at?** Du kan velge om du vil se varelinjer i appen eller ikke. Dette kan du gjøre ved å gå til Profil -> Innstillinger og skru på/av "Vis digitale kvitteringer"
 
-### 1.8 Når du kjøper bruktbil med Vipps
+### 1.9 Når du kjøper bruktbil med Vipps
 
 ### Hvorfor og hvordan behandler vi dine personopplysninger?
 
@@ -205,7 +239,7 @@ For å levere betaling av bruktbil med NAF og Finn, behandler vi følgende infor
 
 [Avtalen vi har med deg, se vilkårene](https://www.vipps.no/personvern-og-vilkar/vilkar-privat/)
 
-### 1.9 Til deg som er under 15 år
+### 1.10 Til deg som er under 15 år
 
 ![](/media/images/Child_With_Phone_G1DZtMU.width-1056.jpegquality-75.png)
 
@@ -228,7 +262,7 @@ I tillegg til de personopplysningene som fremgår av punkt 1.2 (for betalinger m
 
 For å oppfylle avtalen vi har med dine foreldre/verge og deg, [se vilkårene](https://www.vipps.no/personvern-og-vilkar/vilkar-privat/)
 
-### 1.10 Når du åpner for tilleggsfunksjoner i appen
+### 1.11 Når du åpner for tilleggsfunksjoner i appen
 
 ### Du kan skru av og på følende  
 funksjoner i appen under Profil
@@ -247,7 +281,7 @@ Ditt samtykke.
 
 Du kan når som helst fjerne blokkering. Du finner en oversikt over blokkerte personer under Personlig informasjon.
 
-### 1.11 Når du åpner for funksjonalitet på din telefon
+### 1.12 Når du åpner for funksjonalitet på din telefon
 
 ### Når du bruker appen vår kan du samtykke til følgende funksjoner på mobiltelefonen
 
@@ -263,7 +297,7 @@ Du kan når som helst fjerne blokkering. Du finner en oversikt over blokkerte pe
 
 Ditt samtykke.
 
-### 1.12 Når du har Vipps for bedrift, lag eller forening
+### 1.13 Når du har Vipps for bedrift, lag eller forening
 
 ### **For å vite hvem du er slik vi er lovpålagt** 
 
@@ -538,7 +572,7 @@ Endringer i erklæringen
 
 Vipps jobber kontinuerlig med å forbedre og utvikle våre tjenester. Vi endrer informasjon i denne personvernerklæringen**, enkelte kan omtale det som en personvernpolicy,** ved eventuelle endringer i lov, tjenester vi tilbyr eller i vår egen praksis for behandling av personopplysninger. Dersom Vipps gjør større endringer som kan påvirke ditt personvern eller dine rettigheter vil du bli varslet i appen eller per e-post.
 
-**Versjon 1.16. Oppdatert 13.05.2024**
+**Versjon 1.17. Oppdatert 11.06.2024**
 
 ![Vipps Confirm.png](/media/images/Vipps_Confirm_0zzbAiz.max-400x500.png)
 
