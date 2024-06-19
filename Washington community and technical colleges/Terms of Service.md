@@ -204,7 +204,7 @@ Any unauthorized use of this Site or breach of these Terms of Use will automatic
 
 [![YouTube](/_resources/images/youtube.png)](https://www.youtube.com/user/WAStateBoard4CTC)
 
-[![Twitter](/_resources/images/twitter.png)](https://twitter.com/SBCTCWashington)
+[![Twitter](/_resources/images/twitter.png)](https://x.com/SBCTCWashington)
 
 [![SBCTC Facebook](/_resources/images/facebook.png)](https://www.facebook.com/wasbctc/)
 
