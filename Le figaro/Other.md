@@ -1,6 +1,6 @@
-[![](https://assets-global.website-files.com/5f7749c73b31c45e7d55aefc/6581af71ed29c6a3e852a48a_logo-figaro.JPG)](https://www.lefigaro.fr/)
+[![](https://cdn.prod.website-files.com/5f7749c73b31c45e7d55aefc/6581af71ed29c6a3e852a48a_logo-figaro.JPG)](https://www.lefigaro.fr/)
 
-[Politique de confidentialité](https://mentions-legales.lefigaro.fr/le-figaro/politique-de-confidentialite-figaro)[Info cookies](https://mentions-legales.lefigaro.fr/le-figaro/info-cookies-figaro)[Mentions légales](https://mentions-legales.lefigaro.fr/le-figaro/mentions-legales-figaro)[CGU](https://mentions-legales.lefigaro.fr/le-figaro/cgu-figaro)
+[Politique de confidentialité](https://mentions-legales.lefigaro.fr/le-figaro/politique-de-confidentialite-figaro)[Info cookies](https://mentions-legales.lefigaro.fr/le-figaro/info-cookies-lefigaro)[Mentions légales](https://mentions-legales.lefigaro.fr/le-figaro/mentions-legales-figaro)[CGU](https://mentions-legales.lefigaro.fr/le-figaro/cgu-figaro)
 
 Chartes
 
