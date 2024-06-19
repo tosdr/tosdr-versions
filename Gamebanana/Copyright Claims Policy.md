@@ -13,7 +13,7 @@ DMCA Policy \- A Wiki.
     * [Permits](https://gamebanana.com/wikis/admin/permits/677)
     * [Withhold](https://gamebanana.com/wikis/admin/withhold/677)
 * [Todos](https://gamebanana.com/wikis/todos/677)
-* [8
+* [9
     
     Likes](https://gamebanana.com/wikis/likes/677)
 * [5
