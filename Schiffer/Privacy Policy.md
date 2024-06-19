@@ -27,7 +27,7 @@
 * #### Security
     
 * [OW Shredder](https://schiffer.tech/ow-shredder.html)
-* [Ghostpress](https://schiffer.tech/ghostpress.html) Update
+* [Ghostpress](https://schiffer.tech/ghostpress.html)
 * [ScreenWings](https://schiffer.tech/screenwings.html)
 * [DNSpecter](https://schiffer.tech/dnspecter.html)
 * [CamWings](https://schiffer.tech/camwings.html)
@@ -35,7 +35,7 @@
 
 * #### Management
     
-* [Clipboard to QR code](https://schiffer.tech/clipboardtoqrcode.html)
+* [Clipboard to QR code](https://schiffer.tech/clipboardtoqrcode.html) Update
 
 ### Software for Android
 
