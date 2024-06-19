@@ -8,7 +8,7 @@ Select your language
 
 [Pricing](https://www.okayfreedom.com/en/#offers)
 
-[Download](https://go.okayfreedom.com/download)
+[Download Free VPN](https://go.okayfreedom.com/download)
 
 Preface
 -------
@@ -112,7 +112,7 @@ If you need information about the data we have stored or if you have questions, 
 * [Privacy Policy](https://www.okayfreedom.com/en/privacy)
 * [Legal Notice](https://www.okayfreedom.com/en/legal-notice)
 
-x[](#top)
+[](#top)
 
 We use cookies to personalize content and analyze access to our website.
 
