@@ -8,15 +8,15 @@
 
 Shopping in:
 
-![](/sites/all/themes/leaseweb/assets/images/icons/map-marker.svg)CA, NL, US
+![](/sites/all/themes/leaseweb/assets/images/icons/map-marker.svg)CA, US
 
 Select Country or Region
 
 We are currently updating our website, so the navigation is temporarily different. If you would like to shop in another country or region, please use the selector below.
 
- Australia, Germany, Hong Kong, Japan, Singapore, United Kingdom
+ Australia, Germany, Hong Kong, Japan, Netherlands, Singapore, United Kingdom
 
- Canada, Netherlands, United States
+ Canada, United States
 
 Continue
 
@@ -201,15 +201,15 @@ Language
 * [Français fr](https://www.leaseweb.com/fr/legal/sales-contract)
 * [Nederlands nl](https://www.leaseweb.com/nl/legal/sales-contract)
 
-![](/sites/all/themes/leaseweb/assets/images/icons/map-marker.svg)CA, NL, US
+![](/sites/all/themes/leaseweb/assets/images/icons/map-marker.svg)CA, US
 
 Select Country or Region
 
 We are currently updating our website, so the navigation is temporarily different. If you would like to shop in another country or region, please use the selector below.
 
- Australia, Germany, Hong Kong, Japan, Singapore, United Kingdom
+ Australia, Germany, Hong Kong, Japan, Netherlands, Singapore, United Kingdom
 
- Canada, Netherlands, United States
+ Canada, United States
 
 Continue
 
@@ -222,7 +222,7 @@ Legal & Compliance
 
 Leaseweb is the brand name under which various independent Leaseweb Sales Entities operate. Each of these sales entities is a separate and distinct corporate entity that provides services in a particular geographic area.
 
-[Our sizzling summer sale has started! Buy now](https://www.leaseweb.com/summer-sale-2024?utm_source=website&utm_medium=ribbon&utm_campaign=Summer_Sale&utm_content=Global)
+[Looking for services based in Germany, Singapore, Japan, Australia, Hong Kong, the UK and the Netherlands? View our services here.](https://shop.leaseweb.com/en/products-services)
 
 * [Top](#page)
 * [General](https://www.leaseweb.com/legal)
