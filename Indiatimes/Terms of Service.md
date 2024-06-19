@@ -1,107 +1,64 @@
 ![](https://sb.scorecardresearch.com/p2?c1=2&c2=6036484&cv=2.0&cj=1)![](https://www.facebook.com/tr?id=345736496016245&ev=PageView&noscript=1) ![](https://www.facebook.com/tr?id=853339751421540&ev=PageView&noscript=1)![](https://www.facebook.com/tr?id=303301150147552&ev=PageView&noscript=1)
 
-[](https://www.indiatimes.com/)
+[![](/images/logo-second.gif)](https://www.indiatimes.com/)
 
-* [Entertainment](https://www.indiatimes.com/entertainment) 
-    
-    * [Bollywood](https://www.indiatimes.com/entertainment/bollywood)
-        
-        [Celebscoop](https://www.indiatimes.com/entertainment/celebs)
-        
-        [Hollywood](https://www.indiatimes.com/entertainment/hollywood)
-        
-        [Originals](https://www.indiatimes.com/entertainment/originals)
-        
-        [Binge](https://www.indiatimes.com/entertainment/binge)
-        
-        Latest Stories
-        --------------
-        
-    
+* [Home](https://www.indiatimes.com/) 
 * [Lifestyle](https://www.indiatimes.com/lifestyle) 
-    
     * [Astrology](https://www.indiatimes.com/lifestyle/astrology)
-        
-        [Whats Cooking](https://www.indiatimes.com/lifestyle/whats-cooking)
-        
-        [Relationships](https://www.indiatimes.com/lifestyle/relationships)
-        
-        [Style](https://www.indiatimes.com/lifestyle/style)
-        
-        [Art and Culture](https://www.indiatimes.com/lifestyle/art-and-culture)
-        
-        [Gardening](https://www.indiatimes.com/lifestyle/gardening)
-        
-        [Beauty and Care](https://www.indiatimes.com/lifestyle/beauty-and-care)
-        
-        [Sunny Side Up](https://www.indiatimes.com/lifestyle/sunny-side-up)
-        
-        Latest Stories
-        --------------
-        
-    
+    * [Whats Cooking](https://www.indiatimes.com/lifestyle/whats-cooking)
+    * [Relationships](https://www.indiatimes.com/lifestyle/relationships)
+    * [Style](https://www.indiatimes.com/lifestyle/style)
+    * [Art and Culture](https://www.indiatimes.com/lifestyle/art-and-culture)
+    * [Gardening](https://www.indiatimes.com/lifestyle/gardening)
+    * [Beauty and Care](https://www.indiatimes.com/lifestyle/beauty-and-care)
+* [Health & Wellness](https://www.indiatimes.com/health) 
+    * [Healthy Living](https://www.indiatimes.com/health/healthyliving)
+    * [Recipes](https://www.indiatimes.com/health/recipes)
+    * [Inspire](https://www.indiatimes.com/health/videos)
+    * [Tips & Tricks](https://www.indiatimes.com/health/tips-tricks)
+    * [Buzz](https://www.indiatimes.com/health/buzz)
+* [Relationships](https://www.indiatimes.com/lifestyle/relationships) 
 * [Worth](https://www.indiatimes.com/worth) 
-    
     * [Investment](https://www.indiatimes.com/worth/investment)
-        
-        [Mutual Funds](https://www.indiatimes.com/worth/mutual-funds)
-        
-        [News](https://www.indiatimes.com/worth/news)
-        
-        Worth
-        
-        Latest Stories
-        --------------
-        
+    * [Mutual Funds](https://www.indiatimes.com/worth/mutual-funds)
+    * [News](https://www.indiatimes.com/worth/news)
+* [Entertainment](https://www.indiatimes.com/entertainment) 
+    * [Bollywood](https://www.indiatimes.com/entertainment/bollywood)
+    * [Celebscoop](https://www.indiatimes.com/entertainment/celebs)
+    * [Hollywood](https://www.indiatimes.com/entertainment/hollywood)
+    * [Originals](https://www.indiatimes.com/entertainment/originals)
+    * [Binge](https://www.indiatimes.com/entertainment/binge)
+* Explore
     
-* [Trending](https://www.indiatimes.com/trending) 
+    * [Technology](https://www.indiatimes.com/technology)
+    * [News](https://www.indiatimes.com/technology/news)
+    * [Apps](https://www.indiatimes.com/technology/apps)
+    * [Science And Future](https://www.indiatimes.com/technology/science-and-future)
     
-    * [Human Interest](https://www.indiatimes.com/trending/human-interest)
-        
-        [WTF](https://www.indiatimes.com/trending/wtf)
-        
-        [Social Relevance](https://www.indiatimes.com/trending/social-relevance)
-        
-        [Jugaad](https://www.indiatimes.com/trending/jugaad)
-        
-        [Environment](https://www.indiatimes.com/trending/environment)
-        
-        [Quiz](https://www.indiatimes.com/trending/quiz)
-        
-        [Animal](https://www.indiatimes.com/trending/animal)
-        
-        Latest Stories
-        --------------
-        
+    * [Auto](https://www.indiatimes.com/auto)
+    * [Current](https://www.indiatimes.com/auto/current)
+    * [Electric](https://www.indiatimes.com/auto/electric)
+    * [Alternate](https://www.indiatimes.com/auto/alternative)
     
-* [News](https://www.indiatimes.com/news) 
+    * Specials
+    * [#DubaiLikeALocal](https://www.indiatimes.com/dubai-like-a-local)
+    * [Ayodhya Ram Mandir](https://www.indiatimes.com/ayodhya-ram-mandir)
+    * [IPL 2024](https://www.indiatimes.com/ipl-2024)
+    * [Oscars 2024](https://www.indiatimes.com/oscars-2024)
+    * [Wanderlust](https://www.indiatimes.com/wanderlust)
+    * [Indiatimes Frontlines](https://www.indiatimes.com/frontlines)
+    * [#FitIT](https://www.indiatimes.com/fitit)
     
-    * [India](https://www.indiatimes.com/news/india)
-        
-        [World](https://www.indiatimes.com/news/world)
-        
-        [Sports](https://www.indiatimes.com/news/sports)
-        
-        [Weird](https://www.indiatimes.com/news/weird)
-        
-        Latest Stories
-        --------------
-        
-    
-* [Videos](https://www.indiatimes.com/videos) 
-* [more](https://www.indiatimes.com/)
-    
-    [Events](https://www.indiatimes.com/events) 
-    
-    [Visual Stories](https://www.indiatimes.com/ampstories) 
-    
-    [IPL 2024](https://www.indiatimes.com/ipl-2024) 
+    * [India On Plate](https://www.indiatimes.com/indiaonaplate)
+    * [Sustainability](https://www.indiatimes.com/sustainability-guide)
+    * [Give Up Plastic](https://www.indiatimes.com/the-pollution-today)
+    * [The Great Indian Brain Drain](https://www.indiatimes.com/thought-starter/great-indian-brain-drain)
+    * [Careers](https://www.indiatimes.com/remote-working-work-from-home-culture)
+    * [Equals](https://www.indiatimes.com/gender-equality)
+    * [Spectrum](https://www.indiatimes.com/spectrum)
     
 
-* [](https://www.indiatimes.com/login)
-    
-    [Sign In](https://www.indiatimes.com/login)
-    
+[](https://www.indiatimes.com/search)
 
 **User Agreement**
 
@@ -843,13 +800,13 @@ Get the NEWS that fits your groove.
 
 Quick Links
 
-[Entertainment](https://www.indiatimes.com/entertainment)•[Lifestyle](https://www.indiatimes.com/lifestyle)•[Worth](https://www.indiatimes.com/worth)•[Trending](https://www.indiatimes.com/trending)•[News](https://www.indiatimes.com/news)•[Videos](https://www.indiatimes.com/videos)•[Events](https://www.indiatimes.com/events)•[Visual Stories](https://www.indiatimes.com/ampstories)•[IPL 2024](https://www.indiatimes.com/ipl-2024)•
+[Lifestyle](https://www.indiatimes.com/lifestyle)•[Health & Wellness](https://www.indiatimes.com/health)•[Relationships](https://www.indiatimes.com/lifestyle/relationships)•[Worth](https://www.indiatimes.com/worth)•[Entertainment](https://www.indiatimes.com/entertainment)•[Technology](https://www.indiatimes.com/technology)•[Auto](https://www.indiatimes.com/auto)•[Events](https://www.indiatimes.com/events)•
 
 SPECIALS
 
-[#DubaiLikeALocal](https://www.indiatimes.com/dubai-like-a-local)•[Ayodhya Ram Mandir](https://www.indiatimes.com/ayodhya-ram-mandir)•[IPL 2024](https://www.indiatimes.com/ipl-2024)•[Oscars 2024](https://www.indiatimes.com/oscars-2024)•[Wanderlust](https://www.indiatimes.com/wanderlust)•
+[#DubaiLikeALocal](https://www.indiatimes.com/dubai-like-a-local)•[Ayodhya Ram Mandir](https://www.indiatimes.com/ayodhya-ram-mandir)•[IPL 2024](https://www.indiatimes.com/ipl-2024)•[Oscars 2024](https://www.indiatimes.com/oscars-2024)•[Wanderlust](https://www.indiatimes.com/wanderlust)•[Indiatimes Frontlines](https://www.indiatimes.com/frontlines)•[#FitIT](https://www.indiatimes.com/fitit)•[India On Plate](https://www.indiatimes.com/indiaonaplate)•[Sustainability](https://www.indiatimes.com/sustainability-guide)•[Give Up Plastic](https://www.indiatimes.com/the-pollution-today)•[The Great Indian Brain Drain](https://www.indiatimes.com/thought-starter/great-indian-brain-drain)•[Careers](https://www.indiatimes.com/remote-working-work-from-home-culture)•[Equals](https://www.indiatimes.com/gender-equality)•[Spectrum](https://www.indiatimes.com/spectrum)•
 
-[Times of India](https://timesofindia.indiatimes.com/ "Times of India")•[Economic Times](https://economictimes.indiatimes.com/ "Economic Times")•[Navbharat Times](https://navbharattimes.indiatimes.com/ "Navbharat Times")•[Maharashtra Times](https://maharashtratimes.indiatimes.com/ "Maharashtra Times")•[Cricbuzz](https://www.cricbuzz.com/ "Cricbuzz")
+[Times of India](https://timesofindia.indiatimes.com/ "Times of India")•[Economic Times](https://economictimes.indiatimes.com/ "Economic Times")•[Navbharat Times](https://navbharattimes.indiatimes.com/ "Navbharat Times")•[Maharashtra Times](https://marathi.indiatimes.com/ "Maharashtra Times")•[Cricbuzz](https://www.cricbuzz.com/ "Cricbuzz")
 
 Subscribe to Indiatimes Newsletter and get handpicked updates based on your interests!
 
@@ -859,7 +816,7 @@ Connect With Us On
 
 Latest News
 
-[Key Highlights from PM Modi's Cabinet Oath Ceremony](https://www.indiatimes.com/news/india/pm-narendra-modi-takes-oath-for-historic-third-term-key-highlights-from-swearing-in-ceremony-635957.html "Key Highlights from PM Modi's Cabinet Oath Ceremony") [Only genius with sharpest eyes can spot the '690' in 10 seconds](https://www.indiatimes.com/ampstories/trending/brain-teaser-only-genius-with-sharpest-eyes-can-spot-the-690-in-10-seconds-635955.html " Only genius with sharpest eyes can spot the '690' in 10 seconds")[3 luxurious bedding essentials for a five-star sleeping experience](https://www.indiatimes.com/lifestyle/bedding-essentials-for-a-five-star-sleeping-experience-635822.html "3 luxurious bedding essentials for a five-star sleeping experience")[Watch: Camel gets stuck inside car following crash in Rajasthan](https://www.indiatimes.com/news/india/viral-video-camel-gets-stuck-inside-car-following-crash-in-rajasthan-netizens-show-compassion-for-the-animal-635954.html "Watch: Camel gets stuck inside car following crash in Rajasthan")[India vs Pakistan head to head in T20 World Cup history](https://www.indiatimes.com/ampstories/news/sports/india-vs-pakistan-head-to-head-in-t20-world-cup-history-635953.html "India vs Pakistan head to head in T20 World Cup history")[Who is Puja Tomar, India's first MMA fighter to win a bout in UFC?](https://www.indiatimes.com/news/sports/heres-all-about-puja-tomar-indias-first-mma-fighter-to-win-a-bout-in-ufc-635952.html "Who is Puja Tomar, India's first MMA fighter to win a bout in UFC?")[Kangana Ranaut's old post goes viral and more from ent](https://www.indiatimes.com/entertainment/celebs/gullak-season-4-ending-explained-kangana-ranauts-old-post-goes-viral-and-more-from-ent-635942.html "Kangana Ranaut's old post goes viral and more from ent")[What was the outcome of the last India vs Pakistan T20 WC match?](https://www.indiatimes.com/news/sports/what-was-the-outcome-of-the-last-india-vs-pakistan-t20-world-cup-match-635913.html "What was the outcome of the last India vs Pakistan T20 WC match?")[T20 WC 2024: Drake places Rs 5.4 cr. bet on India vs Pakistan match](https://www.indiatimes.com/news/sports/canadian-rapper-drake-places-rs-54-crore-bet-on-india-vs-pakistan-t20-world-cup-2024-match-find-out-who-hes-backing-635951.html "T20 WC 2024: Drake places Rs 5.4 cr. bet on India vs Pakistan match")[10 players to watch out for in India vs Pakistan T20 WC 2024 clash](https://www.indiatimes.com/news/sports/top-10-players-to-watch-out-for-in-india-vs-pakistan-t20-world-cup-2024-clash-635950.html "10 players to watch out for in India vs Pakistan T20 WC 2024 clash")[Brain teaser: Spot the mistake in this image of a barn in 5 seconds](https://www.indiatimes.com/trending/social-relevance/brain-teaser-spot-the-mistake-in-this-image-of-a-barn-in-5-seconds-635948.html "Brain teaser: Spot the mistake in this image of a barn in 5 seconds")[What's on your lips? Skincare-packed lip tints are the new lip balms in 2024](https://www.indiatimes.com/lifestyle/beauty-and-care/skincare-packed-lip-tints-lip-gloss-635949.html "What's on your lips? Skincare-packed lip tints are the new lip balms in 2024")[Brain teaser: Spot the hidden needle in 7 seconds and test your IQ](https://www.indiatimes.com/trending/social-relevance/brain-teaser-spot-the-hidden-needle-in-7-seconds-and-test-your-iq-635947.html "Brain teaser: Spot the hidden needle in 7 seconds and test your IQ")[Man orders 'first-ever' meal on train, finds live cockroach inside](https://www.indiatimes.com/trending/wtf/man-orders-first-ever-meal-on-train-finds-live-cockroach-inside-635946.html "Man orders 'first-ever' meal on train, finds live cockroach inside")[Meet Shambhavi Chaudhary: India's Youngest MP Making Waves in Politics](https://www.indiatimes.com/worth/news/meet-shambhavi-chaudhary-from-education-to-net-worth-know-all-about-indias-youngest-mp-635945.html "Meet Shambhavi Chaudhary: India's Youngest MP Making Waves in Politics")[Celebs congratulate Narendra Modi on His third term as PM](https://www.indiatimes.com/entertainment/celebs/ajay-devgn-rajinikanth-and-others-congratulate-narendra-modi-on-his-third-term-as-prime-minister-635940.html "Celebs congratulate Narendra Modi on His third term as PM")[Former hospice care worker shares major regrets people have when they die](https://www.indiatimes.com/news/india/life-is-a-choice-choose-happiness-insights-from-a-former-hospice-care-worker-on-regrets-people-have-when-they-die-635944.html "Former hospice care worker shares major regrets people have when they die")[Airbus pilot captures super rare 'gigantic jet' lightning at night](https://www.indiatimes.com/trending/environment/pilot-captures-super-rare-gigantic-jet-lightning-at-night-sprites-635943.html "Airbus pilot captures super rare 'gigantic jet' lightning at night")
+['Vada Pav girl' becomes first confirmed contestant of BB OTT 3](https://www.indiatimes.com/entertainment/celebs/vada-pav-girl-chandrika-dixit-becomes-first-confirmed-contestant-of-bigg-boss-ott-3-636555.html "'Vada Pav girl' becomes first confirmed contestant of BB OTT 3")[Hiware Bazar: This little-known, small Indian village has 80 millionaires!](https://www.indiatimes.com/worth/news/hiware-bazar-this-little-known-small-indian-village-has-80-millionaires-636556.html "Hiware Bazar: This little-known, small Indian village has 80 millionaires!")[US woman celebrates birth of twins born 6 months apart](https://www.indiatimes.com/trending/social-relevance/us-woman-celebrates-birth-of-twins-born-6-months-apart-636554.html "US woman celebrates birth of twins born 6 months apart")[Filing ITR: Check out the slab rates and deductions for old and new tax regimes](https://www.indiatimes.com/worth/news/filing-itr-for-fy23-24-check-out-the-slab-rates-and-deductions-for-old-and-new-tax-regimes-636553.html "Filing ITR: Check out the slab rates and deductions for old and new tax regimes ") [Man finds 'Micromax solution' to safeguard his Apple AirPods](https://www.indiatimes.com/news/india/man-finds-micromax-solution-to-safeguard-his-apple-airpods-from-theft-636552.html "Man finds 'Micromax solution' to safeguard his Apple AirPods")[6 morning drinks for weight loss](https://www.indiatimes.com/ampstories/health/healthyliving/6-morning-drinks-for-weight-loss-636506.html "6 morning drinks for weight loss")[International Yoga Day 2024: Know date, theme, history and more](https://www.indiatimes.com/events/international-yoga-day-2024-when-is-yoga-day-know-date-theme-history-and-more-636550.html "International Yoga Day 2024: Know date, theme, history and more")[Practice these 10-minute yoga stretches every day to boost immunity](https://www.indiatimes.com/health/easy-10-minute-yoga-stretches-to-boost-immunity-636549.html "Practice these 10-minute yoga stretches every day to boost immunity")[Chanakya Niti: When to speak and when to stay silent in different situations](https://www.indiatimes.com/ampstories/trending/chanakya-niti-when-to-speak-and-when-to-stay-silent-in-different-situations-636545.html "Chanakya Niti: When to speak and when to stay silent in different situations")[UK researchers report detection of signal from missing MH370 flight](https://www.indiatimes.com/news/world/uk-researchers-report-detection-of-signal-from-missing-mh370-flight-636546.html "UK researchers report detection of signal from missing MH370 flight")[Watch: Man install makeshift shower on scooter amid heatwave](https://www.indiatimes.com/news/india/viral-video-rajasthan-man-installs-makeshift-shower-on-scooter-amid-heatwave-636544.html "Watch: Man install makeshift shower on scooter amid heatwave")[Unique Gujarati Baby Boy Names Starting With 'I'](https://www.indiatimes.com/ampstories/lifestyle/unique-gujarati-baby-boy-names-starting-with-i-636543.html "Unique Gujarati Baby Boy Names Starting With 'I'")[Gautam Gambhir competes with former cricketer for BCCI head coach](https://www.indiatimes.com/news/sports/gautam-gambhir-competes-with-wv-raman-for-bcci-head-coach-position-report-636541.html "Gautam Gambhir competes with former cricketer for BCCI head coach")[Brain teaser: Spot the mistake in this image of a family dinner in 7 seconds](https://www.indiatimes.com/trending/social-relevance/brain-teaser-spot-the-mistake-in-this-image-of-a-family-dinner-in-7-seconds-636540.html "Brain teaser: Spot the mistake in this image of a family dinner in 7 seconds")[Virat Kohli becomes most valued celeb with Rs 1,900 crore brand worth](https://www.indiatimes.com/worth/news/virat-kohli-dethrones-ranveer-singh-to-become-the-most-valued-celeb-with-a-brand-value-of-rs-1900-crore-check-top-10-636536.html "Virat Kohli becomes most valued celeb with Rs 1,900 crore brand worth")[Brain teaser: Spot the real vampire at the party in 9 seconds](https://www.indiatimes.com/trending/social-relevance/brain-teaser-spot-the-real-vampire-at-the-party-in-9-seconds-636538.html "Brain teaser: Spot the real vampire at the party in 9 seconds")[Beat the heat in style: Your guide to modern ceiling fans](https://www.indiatimes.com/most-searched-products/ceiling-fans-atomberg-fan-with-lights-havells-fan-bldc-fan-crompton-ceiling-fan-price-fan-usha-636537.html "Beat the heat in style: Your guide to modern ceiling fans")[T20 WC 2024: How super 8 groups would look without pre-seeding](https://www.indiatimes.com/news/sports/t20-world-cup-2024-how-the-super-8-groups-would-have-shaped-up-without-pre-seeding-636534.html "T20 WC 2024: How super 8 groups would look without pre-seeding")
 
 Copyright © 2024 [Times Internet Limited](https://timesinternet.in/). Powered by Indiatimes Lifestyle Network. All rights reserved
 
