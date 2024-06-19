@@ -19,7 +19,6 @@
         * [Young: GÖNN - Viel mobil, viel Deal](https://www.telekom.de/goenn "Young: GÖNN - Viel mobil, viel Deal")
         * [Daten-Tarife](https://www.telekom.de/shop/tarife/daten-tarife "Daten-Tarife")
         * [Watch- & Tracker-Tarife](https://www.telekom.de/mobilfunk/tarife/smart-connect/geraet "Watch- & Tracker-Tarife")
-        * [Zusatzkarten](https://www.telekom.de/unterwegs/tarife-und-optionen/zusatzkarten "Zusatzkarten")
         * [Zubuchoptionen](https://www.telekom.de/optionsuebersicht/mobilfunk "Zubuchoptionen")
         * [Infos zu Roaming & Ausland](https://www.telekom.de/unterwegs/tarife-und-optionen/roaming "Infos zu Roaming & Ausland")
     *   [![Geräte](https://www.telekom.de/resources/images/974636/mobilfunk-geraete.svg)![Geräte](https://www.telekom.de/resources/images/974592/mobilfunk-geraete-hover.svg) Geräte ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg) ![Weiter](https://www.telekom.de/resources/images/1080210/arrow-right-hover.svg)](https://www.telekom.de/unterwegs/smartphones-und-tablets "Geräte")  
@@ -51,7 +50,7 @@
         * [Internet-Tarife](https://www.telekom.de/festnetz/tarife-und-optionen/internet-dsl "Internet-Tarife")
         * [Internet-Tarife ohne Laufzeit](https://www.telekom.de/festnetz/tarife-und-optionen/dsl-ohne-vertragslaufzeit "Internet-Tarife ohne Laufzeit")
         * [Für junge Leute unter 28](https://www.telekom.de/festnetz/tarife-und-optionen/fuer-junge-leute "Für junge Leute unter 28")
-        * [Zubuchoptionen](https://www.telekom.de/zubuchoptionen/festnetz "Zubuchoptionen")
+        * [Zubuchoptionen](https://www.telekom.de/optionsuebersicht/festnetz "Zubuchoptionen")
         * [Verfügbarkeitsprüfung](https://www.telekom.de/netz/dsl-vdsl-lte-verfuegbarkeit?wt_mc=ii_sososoxx_navi-internet-tarife-verfuegbarkeitspruefung "Verfügbarkeitsprüfung")
     *   [![Geräte](https://www.telekom.de/resources/images/974628/internet-geraete.svg)![Geräte](https://www.telekom.de/resources/images/974600/internet-geraete-hover.svg) Geräte ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg) ![Weiter](https://www.telekom.de/resources/images/1080210/arrow-right-hover.svg)](https://www.telekom.de/festnetz/geraete "Geräte")  
         * [WLAN & Router](https://www.telekom.de/zuhause/geraete-und-zubehoer/wlan-und-router?wt_mc=ii_sososoxx_navi-internet-geraete-wlan-router "WLAN & Router")
@@ -277,8 +276,6 @@
                 
             * [Watch- & Tracker-Tarife](https://www.telekom.de/mobilfunk/tarife/smart-connect/geraet)
                 
-            * [Zusatzkarten](https://www.telekom.de/unterwegs/tarife-und-optionen/zusatzkarten)
-                
             * [Zubuchoptionen](https://www.telekom.de/optionsuebersicht/mobilfunk)
                 
             * [Infos zu Roaming & Ausland](https://www.telekom.de/unterwegs/tarife-und-optionen/roaming)
@@ -356,7 +353,7 @@
                 
             * [Für junge Leute unter 28](https://www.telekom.de/festnetz/tarife-und-optionen/fuer-junge-leute)
                 
-            * [Zubuchoptionen](https://www.telekom.de/zubuchoptionen/festnetz)
+            * [Zubuchoptionen](https://www.telekom.de/optionsuebersicht/festnetz)
                 
             * [Verfügbarkeitsprüfung](https://www.telekom.de/netz/dsl-vdsl-lte-verfuegbarkeit?wt_mc=ii_sososoxx_navi-internet-tarife-verfuegbarkeitspruefung)
                 
@@ -680,6 +677,25 @@
     * [Kontakt](https://www.telekom.de/kontakt)
     
      ![Schließen](https://www.telekom.de/resources/images/1080216/close.svg)![Schließen](https://www.telekom.de/resources/images/1080218/close-hover.svg)
+    
+
+* ...
+    
+    [Telekom](https://www.telekom.de/start "Telekom")
+    
+    ...
+    
+* ...
+    
+    [Telekom Deutschland GmbH](https://www.telekom.de/ueber-das-unternehmen)
+    
+    ...
+    
+* ...
+    
+    [Datenschutz](https://www.telekom.de/ueber-das-unternehmen/datenschutz)
+    
+    ...
     
 
 *     ![](/resources/resp-images/611502/ratio6x1/1700/283/319032ef05e91036131896ec1b62dea1/55e8/doorpage-buehne.png)
