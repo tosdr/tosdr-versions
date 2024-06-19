@@ -276,7 +276,7 @@
         
         [Trends & Insights](#)
         
-        [Market Pulse](https://www.equifax.com/business/trends-insights/marketpulse/) [Market Pulse Podcast](https://www.equifax.com/business/trends-insights/podcast/) [Recession Readiness Insights](https://www.equifax.com/business/trends-insights/recession-readiness-insights/) [Digital Marketing Solutions](https://www.equifax.com/business/trends-insights/digital-marketing/) [Business Transformation](https://www.equifax.com/business/trends-insights/business-transformation/)
+        [Market Pulse](https://www.equifax.com/business/trends-insights/marketpulse/) [Market Pulse Credit Trends](https://www.equifax.com/business/trends-insights/market-pulse-credit-trends/) [Market Pulse Podcast](https://www.equifax.com/business/trends-insights/podcast/) [Recession Readiness Insights](https://www.equifax.com/business/trends-insights/recession-readiness-insights/) [Digital Marketing Solutions](https://www.equifax.com/business/trends-insights/digital-marketing/)
         
         [View All Trends & Insights](https://www.equifax.com/business/trends-insights/)
         
@@ -614,15 +614,20 @@
     
     [Login](https://my.equifax.com/membercenter/#/login)
     
-    ### Don’t have an account yet?
+    ### Don’t have an account?
     
-    Just answer 3 questions and we'll match you with a product that we think will help you meet your goals.
+    * Get the basics you need to stay on top of your credit
+    * Value plans include 1-bureau credit score access, Equifax credit report lock, and alerts
     
-    ### Don’t have an account yet?
+    Our plans start at **FREE**.
     
-    Just answer 3 questions and we'll match you with a product that we think will help you meet your goals.
+    ### Don’t have an account?
     
-    [Find a Product](https://www.equifax.com/personal/products/product-finder-quiz/)
+    * Value plans include 1-bureau credit score access, Equifax credit report lock, and alerts
+    
+    Our plans start at **FREE**.
+    
+    [Choose My Plan](https://www.equifax.com/personal/products/login-product-comparison/)
     
     Looking for Lock & Alert? [Sign in here](https://lockandalert.equifax.com/member-center/portal/)
     
