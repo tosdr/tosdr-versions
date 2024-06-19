@@ -3,6 +3,7 @@
 * [About](#)
 * [Winners](https://blog.jackpocket.com/featured-winners/)
 * [News](https://blog.jackpocket.com/)
+* [Lottery Results](https://jackpocket.com/lottery-results/)
 * [Sweepstakes](https://jackpocket.com/sweepstakes/)
 
 Get The App
@@ -18,6 +19,7 @@ Get The App
 * [Press](https://jackpocket.com/press/)
 * [Winners](https://blog.jackpocket.com/featured-winners/)
 * [News](https://blog.jackpocket.com/)
+* [Lottery Results](https://jackpocket.com/lottery-results/)
 * [Sweepstakes](https://jackpocket.com/sweepstakes/)
 
 Privacy Policy
