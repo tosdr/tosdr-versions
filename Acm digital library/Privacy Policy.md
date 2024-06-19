@@ -282,13 +282,13 @@ Search
         
         [ACM Education Advisory Committee Applications Open](https://docs.google.com/document/d/1yQ2G7EnB3L9tsEqVwNLE_pMINDdWUwwrJxelsU2D3hw/edit?usp=sharing)
         
-        [![sebastian-raschka-techtalk.jpg](/binaries/ctaimagelarge/content/gallery/acm/ctas/people/sebastian-raschka-techtalk.jpg)](https://events.zoom.us/ev/ArzwACAJCGWLB-pPrWeIwszDr8WDhlEcFLL4VMCb1SJVU4fzrQo9~ApSVrsfa61CGC-c9ndh8nkBei6glIBwPUiv5ABPEiBw_2j-X-7wsaOr89A)
+        [![chip-huyen-techtalk.jpg](/binaries/ctaimagelarge/content/gallery/acm/ctas/people/chip-huyen-techtalk.jpg)](https://events.zoom.us/ev/AuK2GHiGErlhKuJWYRGND-S4fQfnvCgfPO50QMGDk0trhQ2ykP5H~Ap6ZKkpo6vqQbiFjSSw9AR3_1BLffDPbOk8pIR_HvO6MdTbC0_WpovE81A)
         
-        [Sebastian Raschka TechTalk](https://events.zoom.us/ev/ArzwACAJCGWLB-pPrWeIwszDr8WDhlEcFLL4VMCb1SJVU4fzrQo9~ApSVrsfa61CGC-c9ndh8nkBei6glIBwPUiv5ABPEiBw_2j-X-7wsaOr89A)
+        [Chip Huyen TechTalk](https://events.zoom.us/ev/AuK2GHiGErlhKuJWYRGND-S4fQfnvCgfPO50QMGDk0trhQ2ykP5H~Ap6ZKkpo6vqQbiFjSSw9AR3_1BLffDPbOk8pIR_HvO6MdTbC0_WpovE81A)
         
-        [![Image of Yoshua Bengio](/binaries/ctaimagelarge/content/gallery/acm/ctas/yoshua-bengio-bytecast.jpg)](https://learning.acm.org/bytecast/ep54-yoshua-bengio)
+        [![Image of Juan Gilbert](/binaries/ctaimagelarge/content/gallery/acm/ctas/people/juan-e-gilbert-bytecast.jpg)](https://learning.acm.org/bytecast/ep55-juan-gilbert)
         
-        [ByteCast Ep54: Yoshua Bengio](https://learning.acm.org/bytecast/ep54-yoshua-bengio)
+        [ByteCast Ep55: Juan Gilbert](https://learning.acm.org/bytecast/ep55-juan-gilbert)
         
     
 * [Learning Center](#)
@@ -307,17 +307,17 @@ Search
         
         The ACM Learning Center offers ACM members access to lifelong learning tools and resources. Our E-Learning collections offer complimentary access to more than 80,000 online books, courses, and videos from top content publishers. The ACM TechTalk series brings leading computing luminaries and visionaries to your screen. Members enjoy exclusive offers and discounts on IT industry certifications and vendor-specific training.
         
-    * [![Image of Yoshua Bengio](/binaries/ctaimagelarge/content/gallery/acm/ctas/yoshua-bengio-bytecast.jpg)](https://learning.acm.org/bytecast/ep54-yoshua-bengio)
+    * [![Image of Juan Gilbert](/binaries/ctaimagelarge/content/gallery/acm/ctas/people/juan-e-gilbert-bytecast.jpg)](https://learning.acm.org/bytecast/ep55-juan-gilbert)
+        
+        [ByteCast Ep55: Juan Gilbert](https://learning.acm.org/bytecast/ep55-juan-gilbert)
+        
+        [![Image of Yoshua Bengio](/binaries/ctaimagelarge/content/gallery/acm/ctas/yoshua-bengio-bytecast.jpg)](https://learning.acm.org/bytecast/ep54-yoshua-bengio)
         
         [ByteCast Ep54: Yoshua Bengio](https://learning.acm.org/bytecast/ep54-yoshua-bengio)
         
         [![Image of Francesca Rossi](/binaries/ctaimagelarge/content/gallery/acm/ctas/people/francesca-rossi-bytecast.jpg)](https://learning.acm.org/bytecast/ep53-francesca-rossi)
         
         [ByteCast Ep53: Francesca Rossi](https://learning.acm.org/bytecast/ep53-francesca-rossi)
-        
-        [![Image of Partha Talukdar](/binaries/ctaimagelarge/content/gallery/acm/ctas/people/partha-talukdar-bytecast.jpg)](https://learning.acm.org/bytecast/ep52-partha-talukdar)
-        
-        [ByteCast Ep52: Partha Talukdar](https://learning.acm.org/bytecast/ep52-partha-talukdar)
         
     
 * [Public Policy](#)
