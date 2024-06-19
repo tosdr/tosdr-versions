@@ -391,7 +391,8 @@
         [Theses](https://secuso.aifb.kit.edu/english/121.php)
         
         * [Open](https://secuso.aifb.kit.edu/english/121.php)
-        * [Archive until 2023](https://secuso.aifb.kit.edu/english/141.php)
+        * [Ongoing](https://secuso.aifb.kit.edu/english/140.php)
+        * [Completed](https://secuso.aifb.kit.edu/english/141.php)
         
     
 * [SECUSO for Citizens](https://secuso.aifb.kit.edu/english/642.php)
