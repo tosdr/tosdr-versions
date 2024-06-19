@@ -17,7 +17,7 @@
 Terms of Service
 ================
 
-Last modified December 8, 2021
+Last modified June 13, 2024
 
 THESE TERMS OF SERVICE CONTAIN A BINDING ARBITRATION REQUIREMENT AND CLASS ACTION WAIVER THAT IMPACT YOUR LEGAL RIGHTS TO RESOLVE DISPUTES UNLESS YOU OPT OUT. PLEASE READ IT CAREFULLY.
 
@@ -111,7 +111,7 @@ The Services and any necessary software used therein contain proprietary and con
 
 #### b. Our Limited License to You
 
-You are granted a limited, nonexclusive, non-transferable, non-sublicensable, and revocable license to access and use the Services and Service Materials as described in these Terms for your personal, non-commercial use. This license is revocable at any time. This limited license does not change our rights of ownership to the Services and Service Materials. MediaLab continues to own all right, title, and interest in and to the Services and Service Materials, even if you incorporate Service Materials into your User Content. But we do not own your purely original content. MediaLab reserves the right to change, improve, or discontinue the Services, Service Materials, or any aspect thereof at any time without advance notice.
+You are granted a limited, nonexclusive, non-transferable, non-sublicensable, and revocable license to access and use the Services and Service Materials as described in these Terms for your personal, non-commercial use. This license is revocable at any time. This limited license does not change our rights of ownership to the Services and Service Materials. MediaLab continues to own all right, title, and interest in and to the Services and Service Materials, even if you incorporate Service Materials into your User Content. But we do not own your purely original content. MediaLab reserves the right to change, improve, or discontinue the Services, Service Materials, or any aspect thereof at any time without advance notice. For the sake of clarity, if you desire to use, access, display, distribute, license, perform, publish, reproduce, duplicate, copy, create derivative works from, modify, sell, resell, exploit (including, without limitation, for A.I. machine learning purposes), transfer or transmit the Services/Service Materials, any portion of the Service/Service Materials, or access to the Service/Service Materials for any commercial purpose, including without limitation AI machine learning, use on AI platforms, etc., you must first obtain Our express signed written consent prior to such use.
 
 #### c. Your License to Us
 
@@ -120,6 +120,10 @@ To provide the Services, it is necessary for us to have certain permissions to w
 This license also includes the right for MediaLab to make User Content available to other companies, organizations or individuals for the syndication, broadcast, distribution or publication on the Services or on other media and services.
 
 To terminate this license, you will need to delete your User Content or your account. Please note that if your User Content was shared with or by others, it will continue to appear on the Services.
+
+#### D. PROHIBITED EXPLOITATIONS
+
+Except as expressly authorized by us in writing, you agree not to modify, copy, frame, scrape, rent, lease, loan, sell, distribute or create derivative works based on the Service or the Service Materials, in whole or in part, including for any purposes related to AI machine learning/use on AI platforms, except that the foregoing does not apply to your own User Content (as defined herein) that you legally upload to the Service. In connection with your use of the Service/Service Materials you shall not engage in or use any data mining, robots, scraping or similar data gathering or extraction methods, including for any purposes related to AI machine learning/use on AI platforms. Any use of the Service or the Service Materials other than as specifically authorized herein is strictly prohibited.
 
 7\. THIRD-PARTY CONTENT
 -----------------------
@@ -137,11 +141,13 @@ The Services may be subject to U.S. export and re-export control laws and regula
 
 You agree to comply with all applicable export and reexport control laws and regulations, including the EAR, trade and economic sanctions maintained by OFAC, and the ITAR. Specifically, you agree that you shall not – directly or indirectly – sell, export, reexport, transfer, divert, or otherwise dispose of any products, software, or technology (including products derived from or based on such technology) received from MediaLab or the Services to any destination, entity, or person prohibited by any applicable laws or regulations of the United States or any other jurisdiction without obtaining prior authorization from the competent government authorities as required by those laws and regulations.
 
-#### 9\. FEEDBACK AND OTHER SUBMISSIONS
+9\. FEEDBACK AND OTHER SUBMISSIONS
+----------------------------------
 
 Separate from User Content, you may submit questions, comments, feedback, suggestions, and other information regarding the Services (we call these "Submissions"). Submissions are considered User Content and treated accordingly under these Terms, except with regards to ownership rights. You acknowledge and agree that Submissions are non-confidential and will become the sole property of MediaLab and that MediaLab will own all right, title, and interest in and to any Submissions. You agree to execute any documentation required by MediaLab to confirm such assignment to MediaLab.
 
-#### 10\. FEES; PAYMENTS
+10\. FEES; PAYMENTS
+-------------------
 
 For any of the Services that charge a fee or require a subscription, you can make payment or purchase the subscription as described in the applicable Service. MediaLab reserves the right to charge for certain or all Services it offers in the future. We will notify you before any Services you are then using begin carrying a fee, and if you wish to continue using those Services, you will be required to pay all applicable fees at that time. You represent and warrant that if you are making any payments for or purchases through the Services that (i) any credit information you supply is true and complete, (ii) charges incurred by you will be honored by your credit card company or bank, and (iii) you will pay the charges incurred by you at the posted prices, including any applicable taxes.
 
