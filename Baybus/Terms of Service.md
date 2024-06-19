@@ -91,15 +91,15 @@ To
 
   Plan Journey    
 
-* [##### Detour Route CT - Closure of Maunganui Road Southbound (Between Concord Avenue & SH2/SH29A Te Maunga Interchange)
+* [##### Detour, Bus Stop Closures Route 40 - Night & Weekend Day Closure of Welcome Bay Road
     
-    Mon 17 Jun 08:00 pm - Tue 18 Jun 05:00 am](https://www.baybus.co.nz/latest-updates/service-updates/detour-route-ct-closure-of-maunganui-road-southbound-between-concord-avenue-sh2sh29a-te-maunga-interchange/)
+    Now until Mon 05 Aug 06:00 am](https://www.baybus.co.nz/latest-updates/service-updates/detour-bus-stop-closures-route-40-night-weekend-day-closure-of-welcome-bay-road/)
 * [##### Detour, Bus Stop Closures Route CT - Temporary Closure of Poike Road
     
-    Wed 19 Jun 09:00 am - Fri 21 Jun 03:00 pm](https://www.baybus.co.nz/latest-updates/service-updates/detour-bus-stop-closures-route-ct-temporary-closure-of-poike-road/)
+    Now until Fri 21 Jun 03:00 pm](https://www.baybus.co.nz/latest-updates/service-updates/detour-bus-stop-closures-route-ct-temporary-closure-of-poike-road/)
 * [##### Detour, Bus Stop Closures Route 55 - Temporary Closure of Poike Road
     
-    Wed 19 Jun 09:00 am - Fri 21 Jun 03:00 pm](https://www.baybus.co.nz/latest-updates/service-updates/detour-bus-stop-closures-route-55-temporary-closure-of-poike-road/)
+    Now until Fri 21 Jun 03:00 pm](https://www.baybus.co.nz/latest-updates/service-updates/detour-bus-stop-closures-route-55-temporary-closure-of-poike-road/)
 * [##### Detour, Bus Stop Closures Route 21 - Closure of Maranui Street & Oceanbeach Road (Junction of Girven Rd)
     
     Now until Thu 04 Jul 06:00 am](https://www.baybus.co.nz/latest-updates/service-updates/detour-bus-stop-closures-route-21-closure-of-maranui-street-oceanbeach-road-junction-of-girven-rd/)
