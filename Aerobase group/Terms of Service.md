@@ -150,6 +150,16 @@ For further information regarding the applicable laws, regulations, and policies
 
 #### Defense News
 
+* [Congress wants to restore nukes on conventional B-52 bombers](https://www.defensenews.com/air/2024/06/18/congress-wants-to-restore-nukes-on-conventional-b-52-bombers/)  
+    06/18/24 03:34pm  
+    
+    A B-52 Stratofortress assigned to the 2nd Bomb Wing at Barksdale Air Force Base, La., takes off in support of a Bomber Task Force mission from Navy Support Facility, Diego Garcia, March 26, 2024. Congress is moving to restore the ability to carry and release nuclear weapons from about 30 B-52s, which were converted to only carry conventional weapons as part of the New START treaty. (Master Sgt. Staci Kasischke/Air Force)
+    
+* [How many F-35s to buy? Draft defense bills disagree](https://www.defensenews.com/air/2024/06/17/how-many-f-35s-to-buy-draft-defense-bills-disagree/)  
+    06/17/24 03:40pm  
+    
+    Two F-35s from Hill Air Force Base, Utah, return to base after participating in a competition at the Savannah Air National Guard base in Savannah, Ga., on Sept. 15, 2023. (Senior Airman Zachary Rufus/U.S. Air Force)
+    
 * [No 30-year-old drone wingmen: US Air Force eyes regular CCA overhauls](https://www.defensenews.com/air/2024/06/15/no-30-year-old-drone-wingmen-us-air-force-eyes-regular-cca-overhauls/)  
     06/14/24 11:49pm  
     
@@ -160,26 +170,16 @@ For further information regarding the applicable laws, regulations, and policies
     
     A Eurofighter Typhoon with the British Royal Air Force takes off at the Mihail Kogalniceanu Air Base in Romania. (Elisabeth Gosselin-Malo/Staff)
     
-* [Osprey fleet won’t return to full flight operations until 2025](https://www.defensenews.com/news/your-air-force/2024/06/12/osprey-fleet-wont-return-to-full-flight-operations-until-2025/)  
-    06/12/24 05:38pm  
-    
-    A Marine Corps MV-22B Osprey tiltrotor aircraft takes off from the amphibious assault ship USS Wasp to establish a forward base of operations in Sweden during Baltic Operations 24 in the Atlantic Ocean, June 9, 2024. (Lance Cpl. John Allen/Marine Corps)
-    
-* [Congress still waiting on Osprey crash, safety documents from Pentagon](https://www.defensenews.com/news/pentagon-congress/2024/06/12/congress-still-waiting-on-osprey-crash-safety-documents-from-pentagon/)  
-    06/12/24 10:28am  
-    
-    A U.S. Marine Corps MV-22 Osprey aircraft taxies behind another Osprey at Andrews Air Force Base, Md., April 24, 2021. (Patrick Semansky/AP)
-    
 
 Recent parts by keyword  
 
-* [mtc](https://aerobasegroup.com/search/?term=mtc)
-* [18276A400](https://aerobasegroup.com/search/?term=18276A400)
-* [s67-1575-863](https://aerobasegroup.com/search/?term=s67-1575-863)
-* [ms28775-244](https://aerobasegroup.com/search/?term=ms28775-244)
-* [mmbt2222](https://aerobasegroup.com/search/?term=mmbt2222)
-* [lo-700](https://aerobasegroup.com/search/?term=lo-700)
-* [ctz](https://aerobasegroup.com/search/?term=ctz)
+* [permabond 102](https://aerobasegroup.com/search/?term=permabond+102)
+* [d-559b-4m-2.0](https://aerobasegroup.com/search/?term=d-559b-4m-2.0)
+* [u20](https://aerobasegroup.com/search/?term=u20)
+* [rf-5800m-mp](https://aerobasegroup.com/search/?term=rf-5800m-mp)
+* [mil-c-6529](https://aerobasegroup.com/search/?term=mil-c-6529)
+* [79nm408-82](https://aerobasegroup.com/search/?term=79nm408-82)
+* [bacr15dr3a3](https://aerobasegroup.com/search/?term=bacr15dr3a3)
 
 The AeroBase Group Family ..
 
