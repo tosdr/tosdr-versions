@@ -125,7 +125,7 @@
     * [Events](https://www.perimeter81.com/events)
     * [Awards](https://www.perimeter81.com/awards)
     * [Press Center](https://www.perimeter81.com/press)
-    * [Careers](https://www.perimeter81.com/careers)
+    * [Careers](https://careers.checkpoint.com/)
     * [Contact Us](https://www.perimeter81.com/contact)
     
     ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
@@ -145,6 +145,7 @@
         * [Partners Portal](https://perimeter81.my.site.com/partners/login)
         * [Partners Locator](https://www.perimeter81.com/partners/locator)
         * [Off-Site Traning](https://www.perimeter81.com/partners/partner-off-site-training)
+    * [Become a Partner](https://www.perimeter81.com/become-a-partner)
 * [Pricing](https://www.perimeter81.com/pricing)
 * [Login](https://app.perimeter81.com/sign-in)
 * [Support](https://support.perimeter81.com/)
@@ -282,7 +283,7 @@ Platform
 Company
 
 * [About Us](https://www.perimeter81.com/about-us)
-* [Careers](https://www.perimeter81.com/careers)
+* [Careers](https://careers.checkpoint.com/)
 * [Blog](https://www.perimeter81.com/blog)
 * [Press Center](https://www.perimeter81.com/press)
 * [Contact Us](https://www.perimeter81.com/contact)
