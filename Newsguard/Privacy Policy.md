@@ -209,6 +209,7 @@ We are not in the business of selling advertising of any kind or facilitating th
 We may share Personal Information in the following ways:
 
 * We will share Personal Information with our service providers, who are bound by law and contract to protect your Personal Information and only use your Personal Information in accordance with our instructions.
+* When you visit pages on our website related to NewsGuard’s products for businesses, data collected from cookies and similar technologies may be used by our online data partners or vendors to associate these activities with other personal information they or others have about you, including by association with your email or home address. We may then send communications and marketing to these emails or home addresses. You may opt out of receiving this advertising by visiting [https://app.retention.com/optout](https://app.retention.com/optout). Importantly, we do NOT deploy this use of cookies and similar technologies by our online data partners or vendors to associate your activities with other personal information they or others have about you on any pages tied to NewsGuard’s browser extension, including “My Account” pages, Nutrition Label pages, or pages advertising the browser extension.
 * We will share Personal Information when needed to enforce our rights, protect our property or protect the rights, or safety of NewsGuard and others or to support external auditing, compliance and corporate governance functions. 
 * We may share Personal Information with one or more third parties in connection with or during negotiation of any merger, financing, acquisition or dissolution, transition, or proceeding involving the sale, transfer, divestiture, or disclosure of all or a portion of our business or assets.
 * We will disclose Personal Information when legally required to do so and in response to lawful requests by public authorities, including to meet national security or law enforcement requirements, such as in response to a subpoena or other request, including to law enforcement agencies and courts in the United States and other countries where we operate.
@@ -301,7 +302,7 @@ If you no longer wish to receive our newsletters, you may opt out at any time by
 
 We evaluate and update this Privacy Policy periodically in light of changing business practices, technology and legal requirements. Any changes will be posted on this page.  We recommend that you regularly consult this Privacy Policy, to make sure that you are aware of any changes. The most recent version of this Privacy Policy is reflected by the version date located at the bottom of this Policy.
 
-_Last updated: January 17, 2023_  
+_Last updated: June 13, 2024_  
 
 [![NewsGuard. Restoring trust and accountability](https://www.newsguardtech.com/wp-content/themes/newsguard/imgs/logos/NewsGuard_Logo.svg)](https://www.newsguardtech.com/)
 
