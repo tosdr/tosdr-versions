@@ -678,7 +678,8 @@ _Close_
 
 *  _remove_
     
-
+* Camera File Upload 
+    
 * Upload Video
     
 *  _remove_
