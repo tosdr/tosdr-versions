@@ -2,36 +2,50 @@
 
 * What We Do
     
-    * [![Platform](https://erv45qtfazc.exactdn.com/wp-content/uploads/2022/01/carbide-platform.svg)
+    * [![Platform](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2030%2030'%3E%3C/svg%3E)
+        
+        ![Platform](https://erv45qtfazc.exactdn.com/wp-content/uploads/2022/01/carbide-platform.svg)
         
         Platform
         
         Enterprise-class security for fast-growing organizations](https://carbidesecure.com/product/platform/)
-    * [![Continuous Cloud Monitoring](https://erv45qtfazc.exactdn.com/wp-content/uploads/2022/12/Cloud-Monitoring-1.svg)
+    * [![Continuous Cloud Monitoring](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2030%2030'%3E%3C/svg%3E)
+        
+        ![Continuous Cloud Monitoring](https://erv45qtfazc.exactdn.com/wp-content/uploads/2022/12/Cloud-Monitoring-1.svg)
         
         Continuous Cloud Monitoring
         
         More than just monitoring—Actionable recommendations for a well-architected and secure cloud environment](https://carbidesecure.com/product/cloud-monitoring/)
-    * [![Integrations](https://erv45qtfazc.exactdn.com/wp-content/uploads/2022/01/validate-audit-connect.svg)
+    * [![Integrations](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2030%2030'%3E%3C/svg%3E)
+        
+        ![Integrations](https://erv45qtfazc.exactdn.com/wp-content/uploads/2022/01/validate-audit-connect.svg)
         
         Integrations
         
         Automate evidence collection and keep an eye on security across your business with our integrations](https://carbidesecure.com/product/integrations/)
-    * [![Penetration Testing](https://erv45qtfazc.exactdn.com/wp-content/uploads/2023/03/platform-pen-test.svg)
+    * [![Penetration Testing](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2030%2030'%3E%3C/svg%3E)
+        
+        ![Penetration Testing](https://erv45qtfazc.exactdn.com/wp-content/uploads/2023/03/platform-pen-test.svg)
         
         Penetration Testing
         
         Protect your business and prove your compliance with security requirements](https://carbidesecure.com/product/penetration-test/)
-    * [![Subscription Plans](https://erv45qtfazc.exactdn.com/wp-content/uploads/2022/01/wizard-driven.svg)
+    * [![Subscription Plans](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2030%2030'%3E%3C/svg%3E)
+        
+        ![Subscription Plans](https://erv45qtfazc.exactdn.com/wp-content/uploads/2022/01/wizard-driven.svg)
         
         Subscription Plans
         
         From hands-on guidance to in-platform support, find the right plan for you](https://carbidesecure.com/product/subscription-plans/)
-    * [![Trust Center](https://erv45qtfazc.exactdn.com/wp-content/uploads/2024/01/trust-center-icon.svg)
+    * [![Trust Center](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2030%2030'%3E%3C/svg%3E)
+        
+        ![Trust Center](https://erv45qtfazc.exactdn.com/wp-content/uploads/2024/01/trust-center-icon.svg)
         
         Trust Center_New_
         
         Showcase security and build trust](https://carbidesecure.com/company/trust-center/)
+    
+    ![7-Day Free Trial](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20190%20260'%3E%3C/svg%3E)
     
     ![7-Day Free Trial](https://erv45qtfazc.exactdn.com/wp-content/uploads/2023/12/leader-winter-2024-1.svg)
     
@@ -43,37 +57,59 @@
     
 * Frameworks
     
-    * [![SOC 2](https://erv45qtfazc.exactdn.com/wp-content/uploads/2022/12/Group-1-1.svg)
+    * [![SOC 2](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2030%2030'%3E%3C/svg%3E)
+        
+        ![SOC 2](https://erv45qtfazc.exactdn.com/wp-content/uploads/2022/12/Group-1-1.svg)
         
         SOC 2](https://carbidesecure.com/frameworks/soc-2-compliance/)
-    * [![GDPR](https://erv45qtfazc.exactdn.com/wp-content/uploads/2022/12/Group-2.svg)
+    * [![GDPR](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2030%2030'%3E%3C/svg%3E)
+        
+        ![GDPR](https://erv45qtfazc.exactdn.com/wp-content/uploads/2022/12/Group-2.svg)
         
         GDPR](https://carbidesecure.com/frameworks/gdpr-compliance/)
-    * [![ISO 27001](https://erv45qtfazc.exactdn.com/wp-content/uploads/2022/12/Group-2-5.svg)
+    * [![ISO 27001](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2030%2030'%3E%3C/svg%3E)
+        
+        ![ISO 27001](https://erv45qtfazc.exactdn.com/wp-content/uploads/2022/12/Group-2-5.svg)
         
         ISO 27001](https://carbidesecure.com/frameworks/iso-27001-compliance/)
-    * [![HIPAA](https://erv45qtfazc.exactdn.com/wp-content/uploads/2022/12/Group-2-4.svg)
+    * [![HIPAA](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2030%2030'%3E%3C/svg%3E)
+        
+        ![HIPAA](https://erv45qtfazc.exactdn.com/wp-content/uploads/2022/12/Group-2-4.svg)
         
         HIPAA](https://carbidesecure.com/frameworks/hipaa-compliance/)
-    * [![NIST 800-171 ](https://erv45qtfazc.exactdn.com/wp-content/uploads/2022/12/Group-1.svg)
+    * [![NIST 800-171 ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2030%2030'%3E%3C/svg%3E)
+        
+        ![NIST 800-171 ](https://erv45qtfazc.exactdn.com/wp-content/uploads/2022/12/Group-1.svg)
         
         NIST 800-171](https://carbidesecure.com/frameworks/nist-800-171-compliance/)
-    * [![NIST 800-53 ](https://erv45qtfazc.exactdn.com/wp-content/uploads/2022/12/Group-1.svg)
+    * [![NIST 800-53 ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2030%2030'%3E%3C/svg%3E)
+        
+        ![NIST 800-53 ](https://erv45qtfazc.exactdn.com/wp-content/uploads/2022/12/Group-1.svg)
         
         NIST 800-53](https://carbidesecure.com/frameworks/nist-800-53-compliance/)
-    * [![CMMC ](https://erv45qtfazc.exactdn.com/wp-content/uploads/2022/12/Group-1-2.svg)
+    * [![CMMC ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2030%2030'%3E%3C/svg%3E)
+        
+        ![CMMC ](https://erv45qtfazc.exactdn.com/wp-content/uploads/2022/12/Group-1-2.svg)
         
         CMMC](https://carbidesecure.com/frameworks/cmmc-compliance/)
-    * [![FedRAMP ](https://erv45qtfazc.exactdn.com/wp-content/uploads/2022/12/Group-2-1.svg)
+    * [![FedRAMP ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2030%2030'%3E%3C/svg%3E)
+        
+        ![FedRAMP ](https://erv45qtfazc.exactdn.com/wp-content/uploads/2022/12/Group-2-1.svg)
         
         FedRAMP](https://carbidesecure.com/frameworks/fedramp-compliance/)
-    * [![PCI DSS](https://erv45qtfazc.exactdn.com/wp-content/uploads/2022/12/Group-3-1.svg)
+    * [![PCI DSS](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2030%2030'%3E%3C/svg%3E)
+        
+        ![PCI DSS](https://erv45qtfazc.exactdn.com/wp-content/uploads/2022/12/Group-3-1.svg)
         
         PCI DSS](https://carbidesecure.com/frameworks/pci-dss-compliance/)
-    * [![PIPEDA](https://erv45qtfazc.exactdn.com/wp-content/uploads/2022/12/Group-3.svg)
+    * [![PIPEDA](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2030%2030'%3E%3C/svg%3E)
+        
+        ![PIPEDA](https://erv45qtfazc.exactdn.com/wp-content/uploads/2022/12/Group-3.svg)
         
         PIPEDA](https://carbidesecure.com/frameworks/pipeda-compliance/)
-    * [![CCPA](https://erv45qtfazc.exactdn.com/wp-content/uploads/2022/12/Group-2-3.svg)
+    * [![CCPA](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2030%2030'%3E%3C/svg%3E)
+        
+        ![CCPA](https://erv45qtfazc.exactdn.com/wp-content/uploads/2022/12/Group-2-3.svg)
         
         CCPA](https://carbidesecure.com/frameworks/ccpa-compliance/)
     * [![CCCS v1.2](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2030%2030'%3E%3C/svg%3E)
@@ -170,6 +206,8 @@
         
         Stay-up-to-date with news updates](https://carbidesecure.com/resources/category/news/)
     
+    ![Beginner's Guide to Information Security](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20190%20260'%3E%3C/svg%3E)
+    
     ![Beginner's Guide to Information Security](https://erv45qtfazc.exactdn.com/wp-content/uploads/2022/01/carbide-headshot.svg)
     
     ##### Beginner's Guide to Information Security
@@ -237,58 +275,92 @@ Toggle Navigation
 
 Main Menu
 
-* [![Platform](https://erv45qtfazc.exactdn.com/wp-content/uploads/2022/01/carbide-platform.svg)
+* [![Platform](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2030%2030'%3E%3C/svg%3E)
+    
+    ![Platform](https://erv45qtfazc.exactdn.com/wp-content/uploads/2022/01/carbide-platform.svg)
     
     Platform](https://carbidesecure.com/product/platform/)
-* [![Continuous Cloud Monitoring](https://erv45qtfazc.exactdn.com/wp-content/uploads/2022/12/Cloud-Monitoring-1.svg)
+* [![Continuous Cloud Monitoring](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2030%2030'%3E%3C/svg%3E)
+    
+    ![Continuous Cloud Monitoring](https://erv45qtfazc.exactdn.com/wp-content/uploads/2022/12/Cloud-Monitoring-1.svg)
     
     Continuous Cloud Monitoring](https://carbidesecure.com/product/cloud-monitoring/)
-* [![Integrations](https://erv45qtfazc.exactdn.com/wp-content/uploads/2022/01/validate-audit-connect.svg)
+* [![Integrations](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2030%2030'%3E%3C/svg%3E)
+    
+    ![Integrations](https://erv45qtfazc.exactdn.com/wp-content/uploads/2022/01/validate-audit-connect.svg)
     
     Integrations](https://carbidesecure.com/product/integrations/)
-* [![Penetration Testing](https://erv45qtfazc.exactdn.com/wp-content/uploads/2023/03/platform-pen-test.svg)
+* [![Penetration Testing](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2030%2030'%3E%3C/svg%3E)
+    
+    ![Penetration Testing](https://erv45qtfazc.exactdn.com/wp-content/uploads/2023/03/platform-pen-test.svg)
     
     Penetration Testing](https://carbidesecure.com/product/penetration-test/)
-* [![Subscription Plans](https://erv45qtfazc.exactdn.com/wp-content/uploads/2022/01/wizard-driven.svg)
+* [![Subscription Plans](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2030%2030'%3E%3C/svg%3E)
+    
+    ![Subscription Plans](https://erv45qtfazc.exactdn.com/wp-content/uploads/2022/01/wizard-driven.svg)
     
     Subscription Plans](https://carbidesecure.com/product/subscription-plans/)
-* [![Trust Center](https://erv45qtfazc.exactdn.com/wp-content/uploads/2024/01/trust-center-icon.svg)
+* [![Trust Center](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2030%2030'%3E%3C/svg%3E)
+    
+    ![Trust Center](https://erv45qtfazc.exactdn.com/wp-content/uploads/2024/01/trust-center-icon.svg)
     
     Trust Center_New_](https://carbidesecure.com/company/trust-center/)
 
 Main Menu
 
-* [![SOC 2](https://erv45qtfazc.exactdn.com/wp-content/uploads/2022/12/Group-1-1.svg)
+* [![SOC 2](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2030%2030'%3E%3C/svg%3E)
+    
+    ![SOC 2](https://erv45qtfazc.exactdn.com/wp-content/uploads/2022/12/Group-1-1.svg)
     
     SOC 2](https://carbidesecure.com/frameworks/soc-2-compliance/)
-* [![GDPR](https://erv45qtfazc.exactdn.com/wp-content/uploads/2022/12/Group-2.svg)
+* [![GDPR](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2030%2030'%3E%3C/svg%3E)
+    
+    ![GDPR](https://erv45qtfazc.exactdn.com/wp-content/uploads/2022/12/Group-2.svg)
     
     GDPR](https://carbidesecure.com/frameworks/gdpr-compliance/)
-* [![ISO 27001](https://erv45qtfazc.exactdn.com/wp-content/uploads/2022/12/Group-2-5.svg)
+* [![ISO 27001](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2030%2030'%3E%3C/svg%3E)
+    
+    ![ISO 27001](https://erv45qtfazc.exactdn.com/wp-content/uploads/2022/12/Group-2-5.svg)
     
     ISO 27001](https://carbidesecure.com/frameworks/iso-27001-compliance/)
-* [![HIPAA](https://erv45qtfazc.exactdn.com/wp-content/uploads/2022/12/Group-2-4.svg)
+* [![HIPAA](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2030%2030'%3E%3C/svg%3E)
+    
+    ![HIPAA](https://erv45qtfazc.exactdn.com/wp-content/uploads/2022/12/Group-2-4.svg)
     
     HIPAA](https://carbidesecure.com/frameworks/hipaa-compliance/)
-* [![NIST 800-171 ](https://erv45qtfazc.exactdn.com/wp-content/uploads/2022/12/Group-1.svg)
+* [![NIST 800-171 ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2030%2030'%3E%3C/svg%3E)
+    
+    ![NIST 800-171 ](https://erv45qtfazc.exactdn.com/wp-content/uploads/2022/12/Group-1.svg)
     
     NIST 800-171](https://carbidesecure.com/frameworks/nist-800-171-compliance/)
-* [![NIST 800-53 ](https://erv45qtfazc.exactdn.com/wp-content/uploads/2022/12/Group-1.svg)
+* [![NIST 800-53 ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2030%2030'%3E%3C/svg%3E)
+    
+    ![NIST 800-53 ](https://erv45qtfazc.exactdn.com/wp-content/uploads/2022/12/Group-1.svg)
     
     NIST 800-53](https://carbidesecure.com/frameworks/nist-800-53-compliance/)
-* [![CMMC ](https://erv45qtfazc.exactdn.com/wp-content/uploads/2022/12/Group-1-2.svg)
+* [![CMMC ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2030%2030'%3E%3C/svg%3E)
+    
+    ![CMMC ](https://erv45qtfazc.exactdn.com/wp-content/uploads/2022/12/Group-1-2.svg)
     
     CMMC](https://carbidesecure.com/frameworks/cmmc-compliance/)
-* [![FedRAMP ](https://erv45qtfazc.exactdn.com/wp-content/uploads/2022/12/Group-2-1.svg)
+* [![FedRAMP ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2030%2030'%3E%3C/svg%3E)
+    
+    ![FedRAMP ](https://erv45qtfazc.exactdn.com/wp-content/uploads/2022/12/Group-2-1.svg)
     
     FedRAMP](https://carbidesecure.com/frameworks/fedramp-compliance/)
-* [![PCI DSS](https://erv45qtfazc.exactdn.com/wp-content/uploads/2022/12/Group-3-1.svg)
+* [![PCI DSS](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2030%2030'%3E%3C/svg%3E)
+    
+    ![PCI DSS](https://erv45qtfazc.exactdn.com/wp-content/uploads/2022/12/Group-3-1.svg)
     
     PCI DSS](https://carbidesecure.com/frameworks/pci-dss-compliance/)
-* [![PIPEDA](https://erv45qtfazc.exactdn.com/wp-content/uploads/2022/12/Group-3.svg)
+* [![PIPEDA](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2030%2030'%3E%3C/svg%3E)
+    
+    ![PIPEDA](https://erv45qtfazc.exactdn.com/wp-content/uploads/2022/12/Group-3.svg)
     
     PIPEDA](https://carbidesecure.com/frameworks/pipeda-compliance/)
-* [![CCPA](https://erv45qtfazc.exactdn.com/wp-content/uploads/2022/12/Group-2-3.svg)
+* [![CCPA](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2030%2030'%3E%3C/svg%3E)
+    
+    ![CCPA](https://erv45qtfazc.exactdn.com/wp-content/uploads/2022/12/Group-2-3.svg)
     
     CCPA](https://carbidesecure.com/frameworks/ccpa-compliance/)
 * [![CCCS v1.2](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2030%2030'%3E%3C/svg%3E)
@@ -520,7 +592,7 @@ Signup Consent(Required)
 
 CAPTCHA
 
-Phone
+Email
 
 This field is for validation purposes and should be left unchanged.
 
