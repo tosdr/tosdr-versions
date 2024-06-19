@@ -1,7 +1,5 @@
      
 
-☀️ **SUMMER SALE!** 40% off your first month of eTextbooks in Pearson+. Use code **SUMMER40**. [Terms & Conditions](https://www.pearson.com/en-us/pearsonplus/campaigns/summer-terms-and-conditions.html)
-
 * [For School](https://www.pearson.com/en-us/schools.html)
 * [For College](https://www.pearson.com/en-us/higher-education.html)
 * [For Work](https://www.pearson.com/en-us/work.html)
@@ -404,6 +402,7 @@ Please note that blocking or disabling some cookies may prevent or impair functi
 Translated versions of this notice
 ----------------------------------
 
+* [Arabic - عربي](https://www.pearson.com/content/dam/global-store/global/legal/Pearson-Cookies-Notice-Arabic.pdf)
 * [Chinese Simplified - 简体中文](https://www.pearson.com/content/dam/global-store/global/legal/Pearson-Cookies-Notice-SimplifiedChinese.pdf)
 * [Chinese Traditional - 中國傳統的](https://www.pearson.com/content/dam/global-store/global/legal/Pearson-Cookies-Notice-TraditionalChinese.pdf)
 * [Czech - čeština](https://www.pearson.com/content/dam/global-store/global/legal/Pearson-Cookies-Notice-Czech.pdf)
@@ -411,12 +410,20 @@ Translated versions of this notice
 * [French - Français](https://www.pearson.com/content/dam/global-store/global/legal/Pearson-Cookies-Notice-French.pdf)
 * [French Canadian - Français Canadien](https://www.pearson.com/content/dam/global-store/global/legal/Pearson-Cookies-Notice-FrenchCanadian.pdf)
 * [German - Deutsch](https://www.pearson.com/content/dam/global-store/global/legal/Pearson-Cookies-Notice-German-1.pdf)
+* [Hindi - हिंदी](https://www.pearson.com/content/dam/global-store/global/legal/Pearson-Cookies-Notice-Hindi.pdf)
+* [Indonesian - bahasa Indonesia](https://www.pearson.com/content/dam/global-store/global/legal/Pearson-Cookie-Notice-Indonesian.pdf)
 * [Italian - Italiano](https://www.pearson.com/content/dam/global-store/global/legal/Pearson-Cookies-Notice-Italian.pdf)
 * [Japanese - 日本語](https://www.pearson.com/content/dam/global-store/global/legal/Pearson-Cookies-Notice-Japanese.pdf)
 * [Korean - 한국인](https://www.pearson.com/content/dam/global-store/global/legal/Pearson-Cookies-Notice-Korean.pdf)
 * [Polish - Polski](https://www.pearson.com/content/dam/global-store/global/legal/Pearson-Cookie-Notice-Polish.pdf)
 * [Portuguese - Português](https://www.pearson.com/content/dam/global-store/global/legal/Pearson-Cookies-Notice-Portuguese.pdf)
+* [Punjabi - ਪੰਜਾਬੀ](https://www.pearson.com/content/dam/global-store/global/legal/Pearson-Cookie-Notice-Punjabi.pdf)
+* [Serbian Cyrillic - српска ћирилица](https://www.pearson.com/content/dam/global-store/global/legal/Pearson-Cookies-Notice-SerbianCyrl.pdf)
+* [Serbian Latin - српска латиница](https://www.pearson.com/content/dam/global-store/global/legal/Pearson-Cookies-Notice-SerbianLatin.pdf)
 * [Spanish - Español](https://www.pearson.com/content/dam/global-store/global/legal/Pearson-Cookies-Notice-Spanish.pdf)
+* [Thai - แบบไทย](https://www.pearson.com/content/dam/global-store/global/legal/Pearson-Cookie-Notice-Thai.pdf)
+* [Turkish - Türkçe](https://www.pearson.com/content/dam/global-store/global/legal/Pearson-Cookie-Notice-Turkish.pdf)
+* [Ukrainian - українська](https://www.pearson.com/content/dam/global-store/global/legal/Pearson-Cookie-Notice-Ukrainian.pdf)
 * [Vietnamese - Tiếng Việt](https://www.pearson.com/content/dam/global-store/global/legal/Pearson-Cookies-Notice-Vietnamese.pdf)
 
  [![Pearson Home](/content/dam/help/hedReimagined/logos/logo-hed--on-dark.svg)](https://www.pearson.com/en-us.html)
