@@ -15,7 +15,10 @@
         
     * Open Finance
         
-    * [Plaid Link
+    * [Layer
+        
+        Boost conversion with instant onboarding](https://plaid.com/layer/)
+    * [Link
         
         Instantly link users’ financial accounts](https://plaid.com/plaid-link/)
     
@@ -71,7 +74,10 @@
         
     * Open Finance
         
-    * [Plaid Link
+    * [Layer
+        
+        Boost conversion with instant onboarding](https://plaid.com/layer/)
+    * [Link
         
         Instantly link users’ financial accounts](https://plaid.com/plaid-link/)
     
