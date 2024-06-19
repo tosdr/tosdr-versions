@@ -1,11 +1,8 @@
 [![Speaky logo - SVG 7](https://www.speaky.com/wp-content/uploads/elementor/thumbs/Speaky-logo-SVG-7-1-qepri01ujujgznix2z62ew7mtdc1nv7a2ym41jsuua.png "Speaky logo – SVG 7")](https://www.speaky.com/)
 
 * [About Us](https://www.speaky.com/about-us/)
-    
 * [Blog](https://www.speaky.com/blog/)
-    
 * [Support](https://www.speaky.com/support-3/)
-    
 
 [Log in](https://web.speaky.com/login)
 
@@ -14,17 +11,11 @@
 ![](https://www.speaky.com/wp-content/uploads/2023/10/Group-30.png)
 
 * [About Us](https://www.speaky.com/about-us/)
-    
 * [Blog](https://www.speaky.com/blog/)
-    
 * [Support](https://www.speaky.com/support-3/)
-    
 * [Ebooks](https://www.speaky.com/?page_id=529)
-    
 * [Login](https://web.speaky.com/login)
-    
 * [Signup](https://web.speaky.com/register)
-    
 
 Terms & Conditions
 ------------------
@@ -34,13 +25,13 @@ Terms & Conditions
 **AGREEMENT TO OUR LEGAL TERMS**
 --------------------------------
 
-We are [Speaky.com](http://speaky.com/) Brazil Ltda., doing business as Speaky (“**Company**,” “**we**,” “**us**,” “**our**“), a company registered in Brazil.
+We are [Speaky.com](http://speaky.com/), doing business as Speaky  (“**Company**,” “**we**,” “**us**,” “**our**“).
 
 We operate the website [https://speaky.com](https://speaky.com/) (the ”**Site**“), the mobile application Speaky (the ”**App**“), as well as any other related products and services that refer or link to these legal terms (the ”**Legal Terms**“) (collectively, the ”**Services**“).
 
 You can contact us through our [Legal Inquiry Form](https://www.speaky.com/support-legal-inquiry/).
 
-These Legal Terms constitute a legally binding agreement made between you, whether personally or on behalf of an entity (“**you**“), and [Speaky.com](http://speaky.com/) Brazil Ltda., concerning your access to and use of the Services. You agree that by accessing the Services, you have read, understood, and agreed to be bound by all of these Legal Terms. IF YOU DO NOT AGREE WITH ALL OF THESE LEGAL TERMS, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE SERVICES AND YOU MUST DISCONTINUE USE IMMEDIATELY.
+These Legal Terms constitute a legally binding agreement made between you, whether personally or on behalf of an entity (“**you**“), and [Speaky.com](http://speaky.com/), concerning your access to and use of the Services. You agree that by accessing the Services, you have read, understood, and agreed to be bound by all of these Legal Terms. IF YOU DO NOT AGREE WITH ALL OF THESE LEGAL TERMS, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE SERVICES AND YOU MUST DISCONTINUE USE IMMEDIATELY.
 
 We will provide you with prior notice of any scheduled changes to the Services you are using. The modified Legal Terms will become effective upon posting or notifying you by email, as stated in the message. By continuing to use the Services after the effective date of any changes, you agree to be bound by the modified terms.
 
@@ -236,12 +227,12 @@ We cannot guarantee the Services will be available at all times. We may experien
 **14. GOVERNING LAW**
 ---------------------
 
-These Legal Terms shall be governed by and defined following the laws of Brazil. [Speaky.com](http://speaky.com/) Brazil Ltda. and yourself irrevocably consent that the courts of Brazil shall have exclusive jurisdiction to resolve any dispute which may arise in connection with these Legal Terms.
+These Legal Terms shall be governed by and defined following the laws of Belgium. [Speaky.com](http://speaky.com/). and yourself irrevocably consent that the courts of Belgium shall have exclusive jurisdiction to resolve any dispute which may arise in connection with these Legal Terms.
 
 **15. DISPUTE RESOLUTION**
 --------------------------
 
-You agree to irrevocably submit all disputes related to these Legal Terms or the legal relationship established by these Legal Terms to the jurisdiction of the Brazil courts. [Speaky.com](http://speaky.com/) Brazil Ltda. shall also maintain the right to bring proceedings as to the substance of the matter in the courts of the country where you reside or, if these Legal Terms are entered into in the course of your trade or profession, the state of your principal place of business.
+You agree to irrevocably submit all disputes related to these Legal Terms or the legal relationship established by these Legal Terms to the jurisdiction of the Belgian courts. [Speaky.com](http://speaky.com/). shall also maintain the right to bring proceedings as to the substance of the matter in the courts of the country where you reside or, if these Legal Terms are entered into in the course of your trade or profession, the state of your principal place of business.
 
 **16. CORRECTIONS**
 -------------------
