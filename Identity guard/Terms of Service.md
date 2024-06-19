@@ -1,4 +1,4 @@
-[![](https://assets-global.website-files.com/627bf795f0d42b1508d544b1/627c49ddb91f5949627d2e5a_IDGLogo.svg)](https://www.identityguard.com/)
+[![](https://cdn.prod.website-files.com/627bf795f0d42b1508d544b1/627c49ddb91f5949627d2e5a_IDGLogo.svg)](https://www.identityguard.com/)
 
 * [Log In](https://my.identityguard.com/)
 * [Start Membership](https://www.identityguard.com/plans)
@@ -14,9 +14,9 @@ Questions? Call Us
 
 [1-855-443-7748](tel:1-855-443-7748)
 
-![](https://assets-global.website-files.com/627bf795f0d42b1508d544b1/62adfd8352fa1b063dcf81cc_Close%20(1).svg)
+![](https://cdn.prod.website-files.com/627bf795f0d42b1508d544b1/62adfd8352fa1b063dcf81cc_Close%20(1).svg)
 
-![](https://assets-global.website-files.com/627bf795f0d42b1508d544b1/627c4ffb4fa35a551fe490d6_hamburger.svg)
+![](https://cdn.prod.website-files.com/627bf795f0d42b1508d544b1/627c4ffb4fa35a551fe490d6_hamburger.svg)
 
 Website Terms of Use
 ====================
@@ -188,7 +188,7 @@ If you have any questions about these Terms of Use, please contact us at:
 
 Customer Service P.O. Box 222455 Chantilly, VA 20153-2455 Or Email: [Customer Service](mailto:customerservice@intersections.com)
 
-[![](https://assets-global.website-files.com/627bf795f0d42b1508d544b1/627c49ddb91f5949627d2e5a_IDGLogo.svg)](https://www.identityguard.com/)
+[![](https://cdn.prod.website-files.com/627bf795f0d42b1508d544b1/627c49ddb91f5949627d2e5a_IDGLogo.svg)](https://www.identityguard.com/)
 
 Ⓒ 2023 Identity Guard Company All Rights Reserved
 
@@ -220,7 +220,7 @@ Customer Service P.O. Box 222455 Chantilly, VA 20153-2455 Or Email: [Customer Se
 * [Refund Policies](https://www.identityguard.com/legal/terms-of-use)
 * [Your Privacy Choices
     
-    ![](https://assets-global.website-files.com/627bf795f0d42b1508d544b1/65e5b69416f6aca6ee18bb9b_privacyoptions%201.svg)](https://www.identityguard.com/legal/your-privacy-choices)
+    ![](https://cdn.prod.website-files.com/627bf795f0d42b1508d544b1/65e5b69416f6aca6ee18bb9b_privacyoptions%201.svg)](https://www.identityguard.com/legal/your-privacy-choices)
 
 \* The score you receive with Identity Guard is provided for educational purposes to help you understand your credit. It is calculated using the information contained in your Equifax credit file. Lenders use many different credit scoring systems, and the score you receive with Identity Guard is not the same score used by lenders to evaluate your credit.
 
