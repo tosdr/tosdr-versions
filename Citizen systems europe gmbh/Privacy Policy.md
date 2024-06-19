@@ -401,6 +401,7 @@ We reserve the right to change this Privacy Statement for the purpose of adaptin
 * [Imprint](https://www.citizen-systems.com/en/imprint "Imprint")
 * [Legal & Privacy Policy](https://www.citizen-systems.com/en/legal "Legal & Privacy Policy")
 * [UK Tax Strategy](https://www.citizen-systems.com/en/uk-tax-strategy "UK Tax Strategy")
+* [Terms & Conditions](https://www.citizen-systems.com/en/general-terms-and-conditions "Terms & Conditions")
 
 © 2024 All Rights Reserved, Citizen Systems Europe
 
