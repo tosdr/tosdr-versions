@@ -1,6 +1,6 @@
 [Skip to Main Content](#)
 
-[![Wave logo](https://assets-global.website-files.com/62446230dcb514b828a6e237/624dedebca225a69a155c7b6_wave-logo-black.svg)](https://www.waveapps.com/)
+[![Wave logo](https://cdn.prod.website-files.com/62446230dcb514b828a6e237/624dedebca225a69a155c7b6_wave-logo-black.svg)](https://www.waveapps.com/)
 
 Features
 
@@ -32,7 +32,7 @@ Resources
 
 Sign up](https://my.waveapps.com/register/)[Your account](https://my.waveapps.com/)
 
-[![Wave logo](https://assets-global.website-files.com/62446230dcb514b828a6e237/624dedebca225a69a155c7b6_wave-logo-black.svg)](https://www.waveapps.com/)
+[![Wave logo](https://cdn.prod.website-files.com/62446230dcb514b828a6e237/624dedebca225a69a155c7b6_wave-logo-black.svg)](https://www.waveapps.com/)
 
 Features
 
@@ -664,9 +664,9 @@ For Canadian Businesses
 
 [Stripe](https://stripe.com/legal) If your processing of credit card payments is powered by Stripe, you’re bound by their Terms of Service.
 
-[![Wave logo in white](https://assets-global.website-files.com/62446230dcb514b828a6e237/624defe4c09944636ede10a7_wave-logo-icon-white.svg)](https://www.waveapps.com/)
+[![Wave logo in white](https://cdn.prod.website-files.com/62446230dcb514b828a6e237/624defe4c09944636ede10a7_wave-logo-icon-white.svg)](https://www.waveapps.com/)
 
-[![Facebook logo](https://assets-global.website-files.com/62446230dcb514b828a6e237/624defe4c099444b40de10b0_facebook-icon.svg)](https://www.facebook.com/WaveHQ/)[![Twitter logo](https://assets-global.website-files.com/62446230dcb514b828a6e237/624defe4c09944209ade10ac_twitter-icon.svg)](https://twitter.com/WaveHQ)[![Instagram logo](https://assets-global.website-files.com/62446230dcb514b828a6e237/624defe4c099442728de10ae_instagram-icon.svg)](https://www.instagram.com/wave_hq/)[![Linkedin logo](https://assets-global.website-files.com/62446230dcb514b828a6e237/624defe4c09944aacbde10af_linkedin-icon.svg)](https://ca.linkedin.com/company/wave-hq)[![Youtube logo](https://assets-global.website-files.com/62446230dcb514b828a6e237/624defe4c099447956de10ad_youtube-icon.svg)](https://www.youtube.com/channel/UC7HjEprcJT0b3-jqVMRLjIQ)
+[![Facebook logo](https://cdn.prod.website-files.com/62446230dcb514b828a6e237/624defe4c099444b40de10b0_facebook-icon.svg)](https://www.facebook.com/WaveHQ/)[![Twitter logo](https://cdn.prod.website-files.com/62446230dcb514b828a6e237/624defe4c09944209ade10ac_twitter-icon.svg)](https://twitter.com/WaveHQ)[![Instagram logo](https://cdn.prod.website-files.com/62446230dcb514b828a6e237/624defe4c099442728de10ae_instagram-icon.svg)](https://www.instagram.com/wave_hq/)[![Linkedin logo](https://cdn.prod.website-files.com/62446230dcb514b828a6e237/624defe4c09944aacbde10af_linkedin-icon.svg)](https://ca.linkedin.com/company/wave-hq)[![Youtube logo](https://cdn.prod.website-files.com/62446230dcb514b828a6e237/624defe4c099447956de10ad_youtube-icon.svg)](https://www.youtube.com/channel/UC7HjEprcJT0b3-jqVMRLjIQ)
 
 #### Features
 
@@ -695,6 +695,7 @@ For Canadian Businesses
 * [Blog](https://www.waveapps.com/blog)
 * [Help Center](https://support.waveapps.com/)
 * [Invoice templates](https://www.waveapps.com/invoice-templates)
+* [Estimate templates](https://www.waveapps.com/estimate-templates)
 * [Accounting education center](https://www.waveapps.com/accounting-education-center)
 * [Payroll education center](https://www.waveapps.com/payroll-education-center)
 * [QuickBooks alternative](https://www.waveapps.com/compare/quickbooks-alternative)
@@ -721,8 +722,8 @@ Copyright © 2010-2024 Wave Financial Inc. All Rights Reserved.
 * Cookie Settings
     
 
-![](https://assets-global.website-files.com/62446230dcb514b828a6e237/626fb245d608a4ce02a848d0_bbc-accredited.svg)
+![](https://cdn.prod.website-files.com/62446230dcb514b828a6e237/626fb245d608a4ce02a848d0_bbc-accredited.svg)
 
-[![](https://assets-global.website-files.com/61f30ac32529b509c8cb3ad0/61fc06b712cbac7816d10e83_chevron-up.svg)
+[![](https://cdn.prod.website-files.com/61f30ac32529b509c8cb3ad0/61fc06b712cbac7816d10e83_chevron-up.svg)
 
 Back to top](#page-wrapper)
