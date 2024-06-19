@@ -43,6 +43,6 @@ Send
 
 2024  by Grit Brokerage
 
-![domaining-black-250x80.png](https://static.wixstatic.com/media/a53ed9_aa69e6fea29548fb966c87b8d8565515~mv2.png/v1/fill/w_138,h_38,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/domaining-black-250x80.png)
+![domaining-black-250x80.png](https://static.wixstatic.com/media/a53ed9_aa69e6fea29548fb966c87b8d8565515~mv2.png/v1/fill/w_119,h_38,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto/domaining-black-250x80.png)
 
 bottom of page
