@@ -313,9 +313,17 @@ We may occasionally **communicate with you regarding our products, services, new
 
 The DataForSEO website **uses cookies, tracking pixels and related technologies**. Cookies are small data files that are served by our platform and stored on your device. Our site uses cookies dropped by us or third parties for a variety of purposes including to operate and personalize the website. Also, cookies may also be used to track how you use the site to target ads to you on other websites.
 
-### DataForSEO API Connector for Google Sheets
+### DataForSEO API Connector for Google Sheets™
 
-DataForSEO API Connector’s use and transfer to any other app of information received from Google APIs will adhere to the [Google API Service User Data Policy](https://developers.google.com/terms/api-services-user-data-policy), including the [Limited Use Requirements](https://support.google.com/cloud/answer/9110914#explain-types).
+DataForSEO API Connector’s use and transfer to any other app of information received from Google APIs™ will adhere to the [Google API Service User Data Policy](https://developers.google.com/terms/api-services-user-data-policy), including the [Limited Use Requirements](https://support.google.com/cloud/answer/9110914#explain-types).
+
+#### User Information and Google Calendar™ Access
+
+No personal information is shared with DataForSEO or any third parties, including AI models. To use the DataForSEO API Connector tools, you must use the API credentials obtained from your DataForSEO account. Access to your Google Calendar™ is restricted solely to obtaining your timezone information.
+
+#### User Google Drive™ and Google Spreadsheets™ Access
+
+No information is shared with DataForSEO or any third parties, including AI models. Access is limited to deleting spreadsheets created using the DataForSEO add-on and reading user input from the spreadsheet used with the add-on.
 
 ### Data protection
 
@@ -410,27 +418,10 @@ Email: [\[email protected\]](https://dataforseo.com/cdn-cgi/l/email-protection)
 * [Domains Database](https://dataforseo.com/databases/whois-database)
 * [Backlink Database](https://dataforseo.com/databases/backlink-database)
 * [Business Listings Database](https://dataforseo.com/databases/business-listings-database)
-[](https://dataforseo.com/databases/business-listings-database)
 
-[](https://dataforseo.com/databases/business-listings-database)
+#### Solutions
 
-[](https://dataforseo.com/databases/business-listings-database)
-
-[](https://dataforseo.com/databases/business-listings-database)
-
-[](https://dataforseo.com/databases/business-listings-database)
-
-[](https://dataforseo.com/databases/business-listings-database)
-
-[](https://dataforseo.com/databases/business-listings-database)
-
-[](https://dataforseo.com/databases/business-listings-database)
-
-[#### Solutions](https://dataforseo.com/databases/business-listings-database)
-
-[](https://dataforseo.com/databases/business-listings-database)
-
-[](https://dataforseo.com/databases/business-listings-database)* [](https://dataforseo.com/databases/business-listings-database)[Backlink App](https://dataforseo.com/solutions/api-driven-backlinksapp)
+* [Backlink App](https://dataforseo.com/solutions/api-driven-backlinksapp)
 * [SEO Agency](https://dataforseo.com/solutions/seo-agency)
 * [SEO Software](https://dataforseo.com/solutions/seo-software)
 * [Media](https://dataforseo.com/solutions/media)
