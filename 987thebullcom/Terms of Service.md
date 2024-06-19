@@ -11,11 +11,11 @@
     * [Contact](https://www.987thebull.com/contact/)
     * [Wall Of Winners](https://www.987thebull.com/winners/)
 * [Concerts & Events](https://www.987thebull.com/events/)
+* [Positively Portland Stories](http://www.positivelyportlandstories.com/)
+* [Win](https://www.987thebull.com/contests/)
 * [Watch](https://www.987thebull.com/videos/)
     * [Bull Sessions](https://www.987thebull.com/category/bull-tv/pdx-live-studio/)
     * [Coors Light Cam](https://www.987thebull.com/category/bull-tv/coors-light-country-cam/)
-* [Win](https://www.987thebull.com/contests/)
-* [Positively Portland Stories](http://www.positivelyportlandstories.com/)
 * [We Need Influencers](https://music.musicdoodad.com/s3/c84aa2f30d04)
 * [PNC Live Studio RSVP](http://www.pnclivestudio.com/)
 * [Portland Marketplace](https://www.portlandmarketplace.com/)
@@ -51,12 +51,12 @@
     * [Contact](https://www.987thebull.com/contact/)
     * [Wall Of Winners](https://www.987thebull.com/winners/)
 * [Concerts & Events](https://www.987thebull.com/events/)
+* [Positively Portland Stories](http://www.positivelyportlandstories.com/)
+* [Win](https://www.987thebull.com/contests/)
 * [Watch](https://www.987thebull.com/videos/)
     
     * [Bull Sessions](https://www.987thebull.com/category/bull-tv/pdx-live-studio/)
     * [Coors Light Cam](https://www.987thebull.com/category/bull-tv/coors-light-country-cam/)
-* [Win](https://www.987thebull.com/contests/)
-* [Positively Portland Stories](http://www.positivelyportlandstories.com/)
 * [We Need Influencers](https://music.musicdoodad.com/s3/c84aa2f30d04)
 * [PNC Live Studio RSVP](http://www.pnclivestudio.com/)
 * [Portland Marketplace](https://www.portlandmarketplace.com/)
@@ -210,11 +210,11 @@ Recently Played
 
 |     |
 | --- |
-| The Man He Sees In MeLuke Combs<br><br>5:35pm |
-| Damn Good Day To LeaveRiley Green<br><br>5:32pm |
-| CowgirlsMorgan Wallen Ft Ernest<br><br>5:29pm |
-| I Remember EverythingZach Bryan Ft Kacey Musgraves<br><br>5:25pm |
-| Your PlaceAshley Cooke<br><br>5:22pm |
+| ReligiouslyBailey Zimmerman<br><br>5:35pm |
+| AustinDasha<br><br>5:32pm |
+| Buy DirtJordan Davis Ft Luke Bryan<br><br>5:23pm |
+| We RideBryan Martin<br><br>5:20pm |
+| Runnin&Apos; Outta MoonlightRandy Houser<br><br>5:16pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -223,21 +223,21 @@ Recently Played
 You Might Also Like
 -------------------
 
-![](https://s3.amazonaws.com/syndication.abcaudio.com/files/2024-06-06/M_2024CMAFestABC.jpg)
+![](https://s3.amazonaws.com/syndication.abcaudio.com/files/2024-06-13/Getty_ScottyMcCreeryTurqoiseTshirt.jpg)
 
-[Country News](https://www.987thebull.com/category/country/)[### Jordan Davis is "all gas, no brakes" and TR's "feeling very jacked" as CMA Fest 2024 gets underway](https://www.987thebull.com/jordan-davis-is-all-gas-no-brakes-and-trs-feeling-very-jacked-as-cma-fest-2024-gets-underway/)
-
-* * *
-
-![](https://s3.amazonaws.com/syndication.abcaudio.com/files/2024-06-05/M_LukeCombsCMAAwards2023backstageScottKirkland.jpg)
-
-[Country News](https://www.987thebull.com/category/country/)[### Luke Combs pens heartfelt note to sons, Tex + Beau](https://www.987thebull.com/luke-combs-pens-heartfelt-note-to-sons-tex-beau/)
+[Country News](https://www.987thebull.com/category/country/)[### Scotty McCreery's certain he doesn't want to be a judge on 'American Idol'](https://www.987thebull.com/scotty-mccreerys-certain-he-doesnt-want-to-be-a-judge-on-american-idol/)
 
 * * *
 
-![](https://s3.amazonaws.com/syndication.abcaudio.com/files/2024-06-05/M_LukeBryanCMAFestAbc.jpg)
+![](https://s3.amazonaws.com/syndication.abcaudio.com/files/2024-06-10/M_MarenMorrisWhatHappensLiveWithAndyCohenCharles%20SykesBravo.jpg)
 
-[Country News](https://www.987thebull.com/category/country/)[### Luke Bryan on his first time playing CMA Fest: "I remember just being as nervous as you could be"](https://www.987thebull.com/luke-bryan-on-his-first-time-playing-cma-fest-i-remember-just-being-as-nervous-as-you-could-be/)
+[Country News](https://www.987thebull.com/category/country/)[### Maren Morris comes out as bisexual in Pride Month post](https://www.987thebull.com/maren-morris-comes-out-as-bisexual-in-pride-month-post/)
+
+* * *
+
+![](https://s3.amazonaws.com/syndication.abcaudio.com/files/2024-06-10/M_LittleBigTownGreatestHitsCapitolRecordsNashville.jpg)
+
+[Country News](https://www.987thebull.com/category/country/)[### Little Big Town unveils track list for "carefully curated" 'Greatest Hits' album](https://www.987thebull.com/little-big-town-unveils-track-list-for-carefully-curated-greatest-hits-album/)
 
 * * *
 
@@ -385,17 +385,17 @@ Featured Brands
 
 Top 40 • Pacific NW
 
-[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
-
-Sports • Midwest
-
 [![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
 
 Spanish • Western
 
-[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
+[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
 
-Top 40 • Eastern
+News Talk • Eastern
+
+[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
+
+Country • Western
 
 [](https://www.alphamediausa.com/)
 
