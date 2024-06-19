@@ -8,7 +8,7 @@ Products
 
 Engaging and interactive lessons](https://www.knowledgehook.com/teachers.html)[ClassOS Pro
 
-Advanced classroom features](https://www.knowledgehook.com/classroom-pro.html)[After School
+Advanced classroom features](https://www.knowledgehook.com/classos-pro.html)[After School
 
 Home learning support for Parents](https://www.knowledgehook.com/parent-notactive.html)[Knowledgehook for Districts
 
@@ -22,7 +22,7 @@ Solutions
 
 Class-wide activities](https://www.knowledgehook.com/teachers.html)[Schools
 
-Advanced classroom features](https://www.knowledgehook.com/classroom-pro.html)[Home
+Advanced classroom features](https://www.knowledgehook.com/classos-pro.html)[Home
 
 Home learning support for Parents](https://www.knowledgehook.com/parent-notactive.html)[School Districts
 
@@ -182,7 +182,7 @@ Please contact Knowledgehook with any questions or comments about this Privacy N
 
 Product
 
-[ClassOS](https://www.knowledgehook.com/teachers.html) [ClassOS Pro](https://www.knowledgehook.com/classroom-pro.html) [Pricing](https://www.knowledgehook.com/pricing.html) [After School](https://www.knowledgehook.com/parent-notactive.html)
+[ClassOS](https://www.knowledgehook.com/teachers.html) [ClassOS Pro](https://www.knowledgehook.com/classos-pro.html) [Pricing](https://www.knowledgehook.com/pricing.html) [After School](https://www.knowledgehook.com/parent-notactive.html)
 
 Resources
 
@@ -200,7 +200,7 @@ Get Started
 
 Product
 
-[Features](https://www.knowledgehook.com/teachers.html) [Classroom Pro](https://www.knowledgehook.com/classroom-pro.html) [Pricing](https://www.knowledgehook.com/pricing.html) [After School](https://www.knowledgehook.com/parent-notactive.html)
+[Features](https://www.knowledgehook.com/teachers.html) [Classroom Pro](https://www.knowledgehook.com/classos-pro.html) [Pricing](https://www.knowledgehook.com/pricing.html) [After School](https://www.knowledgehook.com/parent-notactive.html)
 
 Resources
 
