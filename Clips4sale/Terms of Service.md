@@ -221,36 +221,10 @@ It is important to us that you and other visitors have the best experience while
     14. **Feedback.** While we cannot accept unsolicited ideas, we always welcome feedback on our existing business. If you want to send us your feedback, please only provide specific feedback on our current business and do not include ideas that the policy stated in section 24.13 prohibits. Any feedback you provide is considered nonconfidential and nonproprietary. We will be free to use that information on an unrestricted basis with no compensation to you or any other person or party.
     15. **English Language.** We drafted this agreement in the English language. No translation into any other language will be used to interpret or construe this agreement. All services, support, notices, designations, specifications, and communications will be provided in English.
     16. **Your Comments and Concerns.** The Website is operated in the US by Tropical Sun Corp., 253 Main Street #222, Matawan, New Jersey 07747, and in the EEA/UK by Tropical Sun Ltd., Gladstonos & Evangelistrias, 1, Agathangelou Business Center, 3032, Limassol, Cyprus. All notices of copyright infringement claims should be sent to the copyright agent designated in our [DMCA Policy](https://www.clips4sale.com/clips/page/dmca) in the manner and by the means stated in it. All abuse notices, including alleged child exploitative material and sex trafficking, should be directed to [\[email protected\]](https://www.clips4sale.com/cdn-cgi/l/email-protection). You should direct all other feedback, comments, requests for technical support, and other communications relating to the Website to us by email at [\[email protected\]](https://www.clips4sale.com/cdn-cgi/l/email-protection) or by phone at +1-877-312-8559 (USA only) or +1-727-498-8515 (Outside USA).
-25. This policy sets out our complaints policy. If you are a user of [**https://www.clips4sale.com/**](https://www.clips4sale.com/) (the “Platform”), this policy forms part of your agreement with us.
-    
-    Applicability 
-    
-    **Whether or not you are a user of the Platform, you can use this policy to alert us to any complaint that you have relating to the Platform.**
-    
-    How to Make a Complaint
-    
-    **If you have a complaint about the Platform (including any complaint about content appearing on the Platform or the conduct of a user), please use the “**[**Report Content**](https://www.clips4sale.com/clips/page/contentremoval)**” button at the bottom of the Platform or send your complaint to** [\[email protected\]](https://www.clips4sale.com/cdn-cgi/l/email-protection)**, including your name, address, contact details, a description of your complaint, and, if your complaint relates to content, the URL for the content to which your complaint relates. If you cannot contact us by email, please write to us at the postal address identified in section 7.**
-    
-    Complaints of Illegal or Nonconsensual Content
-    
-    **After receiving your complaint of illegal or nonconsensual content under section 2, (1) we will take those steps as we consider to be appropriate to investigate your complaint within a timeframe that is appropriate to the nature of your complaint, (2) if we require further information or documents from you, we will contact you to let you know, (3) we will in good faith investigate your complaint within seven business days, (4) if we are satisfied that the content is unlawful or nonconsensual, we will immediately remove that content, and we will notify you of our decision by email or other electronic message, and (5) if we are satisfied that the content is not unlawful or nonconsensual, we will notify you of our decision by email or other electronic message. We will submit any dispute regarding our determination that content is nonconsensual to a neutral arbitration association at our expense.**
-    
-    Complaints of Copyright Infringement
-    
-    **Complaints related to copyright infringement must be submitted to our copyright agent in accordance with our** [**DMCA Policy**](https://www.clips4sale.com/en/clips/page/dmca)**, and we will respond to copyright infringement complaints as set out in that policy.**
-    
-    All Other Complaints
-    
-    **After receiving any other complaints (including complaints related to other breaches of the** [**Content Rules**](https://www.clips4sale.com/clips/page/contentrules)**) under section 2, (1) we will take those steps as we consider to be appropriate to investigate your complaint within a timeframe that is appropriate to the nature of your complaint, (2) if we require further information or documents from you, we will contact you to let you know, and (3) we will in good faith take those actions as we consider appropriate to deal with the issue that your complaint has raised. If you have complained about the content that appears on the Platform and we are satisfied that the content otherwise breaches the** [**Content Rules**](https://www.clips4sale.com/clips/page/contentrules)**, we will act promptly to remove that content. We are not required to inform you of the outcome of your complaint.**
-    
-    Unjustified or Abusive Complaints
-    
-    **If you are a user, you state that you will not make any complaint under this policy that is wholly unjustified, abusive, or made in bad faith. If we determine that you have breached this warranty, we may suspend or terminate your user account.**
-    
-    Contact Information
-    
-    **The Platform is operated in the US by Tropical Sun Corp., 253 Main Street #222, Matawan, New Jersey 07747, and in the EEA/UK by Tropical Sun Ltd., Gladstonos & Evangelistrias, 1, Agathangelou Business Center, 3032, Limassol, Cyprus. You can write to us at the preceding addresses, email us at** [\[email protected\]](https://www.clips4sale.com/cdn-cgi/l/email-protection)**, or otherwise contact us through our support page at** [**https://www.clips4sale.com/clips/page/support**](https://www.clips4sale.com/clips/page/support)**. All notices of copyright infringement claims should be sent to the copyright agent designated in our** [**DMCA Policy**](https://www.clips4sale.com/en/clips/page/dmca) **in the manner and by the means set out in it.**
-    
+
+Join thousands of Creators already selling on Clips4Sale and turn your passion into profit!
+
+[Learn More](https://www.clips4sale.com/clips/page/openastudio)
 
 Discover
 
@@ -280,4 +254,4 @@ Contact
 
 Copyright © 2001-2024 Clips4Sale.com·
 
-[Privacy Policy](https://www.clips4sale.com/clips/page/privacypolicy)·[Complaints Policy](https://www.clips4sale.com/clips/page/complaintspolicy)·[Terms of Service](https://www.clips4sale.com/clips/page/termsofservice)·[Content Rules](https://www.clips4sale.com/clips/page/contentrules)·[DMCA](https://www.clips4sale.com/en/clips/page/dmca)·[2257 Exempt](https://www.clips4sale.com/clips/page/compliancenotice)·[EU DSA](https://www.clips4sale.com/clips/page/eudsa)
+[Privacy Policy](https://www.clips4sale.com/clips/page/privacypolicy)·[Complaints Policy](https://www.clips4sale.com/clips/page/complaintspolicy)·[Terms of Service](https://www.clips4sale.com/clips/page/termsofservice)·[Content Rules](https://www.clips4sale.com/clips/page/contentrules)·[Imprint](https://www.clips4sale.com/clips/page/imprint)·[DMCA](https://www.clips4sale.com/en/clips/page/dmca)·[2257 Exempt](https://www.clips4sale.com/clips/page/compliancenotice)·[EU DSA](https://www.clips4sale.com/clips/page/eudsa)
