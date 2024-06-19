@@ -554,9 +554,9 @@ LE12 7PU
 * [](https://www.youtube.com/@piotaapps)
 * [](https://twitter.com/PiotaApps)
 
-![piota horiz white.png](https://static.wixstatic.com/media/ed9ffe_5266c6e19b5f402aaa8f76ae06ded1ed~mv2.png/v1/crop/x_212,y_230,w_2675,h_1071/fill/w_144,h_58,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto/piota%20horiz%20white.png)
+![piota horiz white.png](https://static.wixstatic.com/media/ed9ffe_5266c6e19b5f402aaa8f76ae06ded1ed~mv2.png/v1/crop/x_212,y_230,w_2675,h_1071/fill/w_144,h_58,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/piota%20horiz%20white.png)
 
-![piota-strapline-whitetrans.png](https://static.wixstatic.com/media/0143de_b9b937d4f98f4beca0a7eac044aa8c60~mv2.png/v1/fill/w_65,h_17,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto/piota-strapline-whitetrans.png)
+![piota-strapline-whitetrans.png](https://static.wixstatic.com/media/0143de_b9b937d4f98f4beca0a7eac044aa8c60~mv2.png/v1/fill/w_258,h_67,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/piota-strapline-whitetrans.png)
 
 Terms and Conditions of Website Use
 
@@ -566,7 +566,7 @@ Terms and Conditions of Website Use
 
 [|  Accessibility Statement](https://www.piota.co.uk/copy-of-accessibility-statement) 
 
-[![!Primary White SP.png](https://static.wixstatic.com/media/8f7070_37a8161d9cff4cdf99529d144a01770d~mv2.png/v1/fill/w_66,h_13,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto/!Primary%20White%20SP.png)](https://www.siliconpractice.co.uk/?utm_source=Piota&utm_medium=Website+&utm_campaign=x)
+[![!Primary White SP.png](https://static.wixstatic.com/media/8f7070_37a8161d9cff4cdf99529d144a01770d~mv2.png/v1/fill/w_263,h_53,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/!Primary%20White%20SP.png)](https://www.siliconpractice.co.uk/?utm_source=Piota&utm_medium=Website+&utm_campaign=x)
 
 bottom of page
 
