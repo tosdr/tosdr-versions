@@ -1,6 +1,6 @@
 [Skip to main content](#main)
 
-[Platform Logins](https://www.itpro.tv/login)[Request a demo](#contact-sales)
+[Platform Logins](https://www.itpro.tv/login/)[Request a demo](#contact-sales)
 
 [](https://www.itpro.tv/)
 
@@ -13,7 +13,7 @@ Site navigation
 
 [Catalog](#)
 
-[Resources](https://www.itpro.tv/resources)
+[Resources](https://www.itpro.tv/resources/)
 
 ACI Learning privacy statement
 ==============================
@@ -263,11 +263,11 @@ Centennial, CO 80112
 
 Business Solutions
 
-* [myACI Learn](https://www.itpro.tv/myaci-learn)
+* [myACI Learn](https://www.itpro.tv/myaci-learn/)
 * [Audit Training](https://www.itpro.tv/auditpro/)
 * [Private Bootcamps](https://www.itpro.tv/live-online-training/)
-* [Channel & Reseller](https://www.itpro.tv/channel-reseller)
-* [Government](https://www.itpro.tv/government)
+* [Channel & Reseller](https://www.itpro.tv/channel-reseller/)
+* [Government](https://www.itpro.tv/government/)
 
 Content Packages
 
@@ -277,16 +277,16 @@ Content Packages
 
 Company
 
-* [About](https://www.itpro.tv/about)
-* [News](https://www.itpro.tv/news)
-* [Resources](https://www.itpro.tv/resources)
+* [About](https://www.itpro.tv/about/)
+* [News](https://www.itpro.tv/news/)
+* [Resources](https://www.itpro.tv/resources/)
 * [Tech Academy](https://www.acitechacademy.com/)
-* [Careers](https://www.itpro.tv/careers)
+* [Careers](https://www.itpro.tv/careers/)
 
 Support
 
 * [Documentation](https://help.acilearning.com/)
-* [Contact Us](https://www.itpro.tv/support)
+* [Contact Us](https://www.itpro.tv/support/)
 
 [](https://www.itpro.tv/)
 
