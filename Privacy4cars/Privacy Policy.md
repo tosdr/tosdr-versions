@@ -202,13 +202,13 @@ Changes to the Privacy Policy: Privacy4Cars may update or revise this privacy po
 
 ##### _**CONTACT US**_
 
-For further information or to contact us with questions, concerns, or comments, you may email us at Info@Privacy4Cars.com . Although Privacy4Cars will, in most circumstances, be able to receive your email, Privacy4Cars does not guarantee that it will receive all such email or other information timely and accurately.
+For further information or to contact us with questions, concerns, or comments, you may email us at [\[email protected\]](https://privacy4cars.com/cdn-cgi/l/email-protection) . Although Privacy4Cars will, in most circumstances, be able to receive your email, Privacy4Cars does not guarantee that it will receive all such email or other information timely and accurately.
 
 ##### _**Privacy4Cars**_
 
 630 Kennesaw Due West Rd  
 Kennesaw GA 30154  
-Email: info@privacy4cars.com
+Email: [\[email protected\]](https://privacy4cars.com/cdn-cgi/l/email-protection)
 
 [PERSONAL USE](https://privacy4cars.com/personal-use/)
 
@@ -248,7 +248,7 @@ Email: info@privacy4cars.com
 
 [Captives & Auto Finance](https://privacy4cars.com/dealers)
 
-[About Us](https://privacy4cars.com/about/) | [Contact Us](https://privacy4cars.com/contact-us/)  | [Claims](https://privacy4cars.com/claims/)  | [Privacy Policy](https://privacy4cars.com/privacy-policy-2/)  |  [Terms of Use](https://privacy4cars.com/terms-of-use/)  |  [Enterprise End User License Agreement](https://privacy4cars.com/enterprise-end-user-license-agreement/)  |  © Copyright 2023 Privacy4Cars, Inc
+[About Us](https://privacy4cars.com/about/) | [Contact Us](https://privacy4cars.com/contact-us/)  | [Claims](https://privacy4cars.com/claims/)  | [Privacy Policy](https://privacy4cars.com/privacy-policy-2/)  |  [Terms of Use](https://privacy4cars.com/terms-of-use/)  |  [Enterprise End User License Agreement](https://privacy4cars.com/enterprise-end-user-license-agreement/)  |  © Copyright Privacy4Cars, Inc
 
 [Page load link](#)
 
