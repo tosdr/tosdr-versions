@@ -1,37 +1,10 @@
 [Skip to main content](#main-content)
 
-[![Home](/sites/g/files/xnuzat2711/files/dewalt_black%402x.png)](https://www.dewalt.com/)
+accessible\_forward
 
-[Accessibility Statement](https://www.stanleyblackanddecker.com/accessibility-statement "Accessibility Statement")
+**Accessibility Statement**. [Read more](https://www.stanleyblackanddecker.com/accessibility-statement).
 
-[](https://www.essentialaccessibility.com/stanley-black-and-decker)
-
-Search 
-
-QUICK LINKS
-
-* [My DEWALT](https://www.dewalt.com/my-dewalt "Quick Link 1")
-* [POWERSHIFT™ Cordless Equipment System](https://www.dewalt.com/systems/powershift)
-* [POWERSTACK™ Battery Technology](https://www.dewalt.com/powerstack)
-* [20V MAX\* System](https://www.dewalt.com/systems/cordless-platforms/20v)
-* [Abrasive Safety Guides](https://www.dewalt.com/support/abrasive-safety)
-* [Safety Notices and Recalls](https://www.dewalt.com/support/safety-notices-and-recalls)
-* [Contact Us](https://www.dewalt.com/submit-a-request/new)
-
-  
-
- 
-
-[](javascript:void(0) "Search")[](javascript:void(0) "User account")
-
-[](https://www.dewalt.com/account-login "User menu")
-
-* [Sign in](https://www.dewalt.com/account-login#user-login)
-* [Create an account](https://www.dewalt.com/account-login#user-registration)
-* [My Account](https://www.dewalt.com/account-login?destination=/node/586)
-* [My Tool Box](https://www.dewalt.com/account-login?destination=/node/606)
-* [Dashboard](https://www.dewalt.com/account-login?destination=/node/611)
-* [Register a Tool](https://www.dewalt.com/account-login?destination=/node/631)
+[![Home](/sites/g/files/xnuzat961/files/dewalt2024_logo.png)](https://www.dewalt.com/)
 
 * Products
     
@@ -39,12 +12,13 @@ QUICK LINKS
         
         Power Tools
         
-        * [Build Your Kit](https://www.dewalt.com/systems/cordless-platforms/cordless-kit-configurator)
+        * [Build Your Kit](https://www.dewalt.com/products/power-tools/cordless-kit-configurator)
         * [Automotive Tools](https://www.dewalt.com/products/power-tools/automotive-tools)
-        * [Electrical Tools](https://www.dewalt.com/products/power-tools/cable-cutting-crimping)
+        * [Cable Cutting & Crimping](https://www.dewalt.com/products/power-tools/cable-cutting-crimping)
         * [Compressors](https://www.dewalt.com/products/power-tools/compressors)
         * [Drills](https://www.dewalt.com/products/power-tools/drills)
         * [Dust Management](https://www.dewalt.com/products/power-tools/dust-management)
+        * [Electrical Tools](https://www.dewalt.com/products/power-tools/cable-cutting-crimping)
         * [Grinders & Polishers](https://www.dewalt.com/products/power-tools/grinders-polishers)
         * [Impact Drivers & Wrenches](https://www.dewalt.com/products/power-tools/impact-drivers-wrenches)
         * [Multi-Function Tools](https://www.dewalt.com/products/power-tools/multi-function-tools)
@@ -92,7 +66,7 @@ QUICK LINKS
         * [Hand Saws](https://www.dewalt.com/products/hand-tools/hand-saws)
         * [Knives & Blades](https://www.dewalt.com/products/hand-tools/knives-blades)
         * [Lasers & Instruments](https://www.dewalt.com/products/hand-tools/lasers-instruments)
-        * [Measuring & Layout Tools](https://www.dewalt.com/products/hand-tools/layout-tools)
+        * [Layout Tools](https://www.dewalt.com/products/hand-tools/layout-tools)
         * [Manual Fastening Tools](https://www.dewalt.com/products/hand-tools/manual-fastening-tools)
         * [Mixed Tool Sets](https://www.dewalt.com/products/hand-tools/mixed-tool-sets)
         * [Pliers & Snips](https://www.dewalt.com/products/hand-tools/pliers-snips)
@@ -135,6 +109,7 @@ QUICK LINKS
         Workspace
         
         * [Generators & Power Supply](https://www.dewalt.com/products/workspace/generators-power-supply)
+        * [Electrical Accessories](https://www.dewalt.com/products/workspace/electrical-accessories)
         * [Heating & Cooling](https://www.dewalt.com/products/workspace/heating-cooling)
         * [Lighting](https://www.dewalt.com/products/workspace/lighting)
         * [Portable Alarms](https://www.dewalt.com/products/workspace/portable-alarms)
@@ -153,19 +128,19 @@ QUICK LINKS
         
               ![DW_20V-Power-tools-Only_G1](https://bynder.sbdinc.com/m/242b2caf7ab1aaf4/Drupal_Small-DW_20V-Power-tools-Only_G1.jpg "DW_20V-Power-tools-Only_G1")
         
-        Find the Right Tools for Your Job
+        Find the Right Tools for your Job
         
-        Use the Cordless Configurator to find your tools, batteries, chargers and accessories.
+        The Cordless Configurator helps find the DEWALT® tools, batteries, chargers, and accessories for your toughest jobs.
         
         [Build Your Kit](https://www.dewalt.com/power-tool-finder)
         
-        * [Cordless Configurator](https://www.dewalt.com/systems/cordless-platforms/cordless-kit-configurator)
+        * [DEWALT® Batteries](https://www.dewalt.com/systems/cordless-platforms/dewalt-batteries)
         * [60V MAX\* System](https://www.dewalt.com/systems/cordless-platforms/60v)
-        * [20V MAX\* System](https://www.dewalt.com/systems/cordless-platforms/20v)
+        * [FLEXVOLT® Batteries](https://www.dewalt.com/systems/cordless-platforms/60v/flexvolt-battery-system)
+        * [20V MAX\* XR® Batteries](https://www.dewalt.com/systems/cordless-platforms/20v-max-xr-batteries)
+        * [20V MAX\* XR® Line](https://www.dewalt.com/systems/cordless-platforms/20v/xr)
         * [12V MAX\* System](https://www.dewalt.com/systems/cordless-platforms/12v)
-        * [FLEXVOLT ADVANTAGE™](https://www.dewalt.com/systems/cordless-platforms/20v/flexvolt-advantage)
-        * [FLEXVOLT® Battery System](https://www.dewalt.com/systems/cordless-platforms/60v/flexvolt-battery-system)
-        * [POWERSTACK™ Battery Technology](https://www.dewalt.com/powerstack)
+        * [Cordless Configurator](https://www.dewalt.com/products/power-tools/cordless-kit-configurator)
         
     * [PERFORM & PROTECT™](https://www.dewalt.com/systems/perform-and-protect)
         
@@ -196,10 +171,10 @@ QUICK LINKS
     * [Shop Safe](https://www.dewalt.com/support/shop-safe)
     * [Rebate Center](https://www.dewalt.com/support/rebate-center)
     
-* [Trade Solutions](https://www.dewalt.com/trade-solutions)
+* Trade Solutions
     
     * [Construction Technology](https://www.dewalt.com/construction-technology)
-    * [Solutions by Trade](https://www.dewalt.com/trade-solutions)
+    * [Solutions by Trade](https://www.dewalt.com/trade-solutions/trade-solutions)
         
         Solutions by Trade
         
@@ -209,7 +184,7 @@ QUICK LINKS
         
         Time to tool up? Click here. The cordless configurator makes it easy: tool bodies, batteries, chargers, lights, lasers, vacuums, etc. Based on your inputs, the builder will deliver a pdf list with images, descriptions, SKUs and quantities.
         
-        [View Configurator](https://www.dewalt.com/systems/cordless-platforms/cordless-kit-configurator)
+        [View Configurator](https://www.dewalt.com/products/power-tools/cordless-kit-configurator)
         
         * [Mechanical Solutions](https://www.dewalt.com/trade-solutions/solutions-trade/mechanical-solutions)
         * [Electrical Solutions](https://www.dewalt.com/trade-solutions/solutions-trade/electrical-solutions)
@@ -218,7 +193,7 @@ QUICK LINKS
         * [Concrete Solutions](https://www.dewalt.com/trade-solutions/solutions-trade/concrete-solutions)
         * [Prefabrication Solutions](https://www.dewalt.com/trade-solutions/solutions-trade/prefabrication-solutions)
         * [Carpentry Solutions](https://www.dewalt.com/total-trade-solutions/browse-trade/carpentry-solutions)
-        * [Demolition Solutions](https://www.dewalt.com/total-trade-solutions/browse-trade/demolition-solutions)
+        * [Demolition Solutions](https://www.dewalt.com/trade-solutions/demolition-solutions)
         * [Elevator & Escalator Solutions](https://www.dewalt.com/total-trade-solutions/browse-trade/elevator-escalator-solutions)
         * [Fire Sprinkler Solutions](https://www.dewalt.com/total-trade-solutions/browse-trade/fire-sprinkler-installation-solutions)
         * [Glazier Solutions](https://www.dewalt.com/total-trade-solutions/browse-trade/glazier-solutions)
@@ -229,8 +204,10 @@ QUICK LINKS
     * [OSHA Training](https://www.dewalt.com/trade-solutions/osha-training)
     
 
+##### Locations
+
 * [Find a Retailer](https://www.dewalt.com/find-retailer)
-* [Product Registration](https://www.dewalt.com/account-login?destination=/node/631)
+* [Service Centers](https://www.dewalt.com/service-center)
 
 [](https://www.dewalt.com/account-login "User menu")
 
@@ -243,7 +220,32 @@ QUICK LINKS
 
 [](https://www.essentialaccessibility.com/stanley-black-and-decker)
 
-[Accessibility Statement](https://www.stanleyblackanddecker.com/accessibility-statement "Accessibility Statement")
+[](javascript:void(0) "Search")
+
+Search 
+
+QUICK LINKS
+
+* [My DEWALT](https://www.dewalt.com/my-dewalt "Quick Link 1")
+* [POWERSHIFT™ Cordless Equipment System](https://www.dewalt.com/systems/powershift)
+* [POWERSTACK™ Battery Technology](https://www.dewalt.com/powerstack)
+* [20V MAX\* System](https://www.dewalt.com/systems/cordless-platforms/20v)
+* [Abrasive Safety Guides](https://www.dewalt.com/support/abrasive-safety)
+* [Safety Notices and Recalls](https://www.dewalt.com/support/safety-notices-and-recalls)
+* [Contact Us](https://www.dewalt.com/submit-a-request/new)
+
+ 
+
+[](javascript:void(0) "Search")[](javascript:void(0) "User account")
+
+[](https://www.dewalt.com/account-login "User menu")
+
+* [Sign in](https://www.dewalt.com/account-login#user-login)
+* [Create an account](https://www.dewalt.com/account-login#user-registration)
+* [My Account](https://www.dewalt.com/account-login?destination=/node/586)
+* [My Tool Box](https://www.dewalt.com/account-login?destination=/node/606)
+* [Dashboard](https://www.dewalt.com/account-login?destination=/node/611)
+* [Register a Tool](https://www.dewalt.com/account-login?destination=/node/631)
 
 Breadcrumb
 ----------
@@ -394,8 +396,6 @@ If any provision in these Terms shall be deemed invalid, void, or for any reason
 
 Effective as of: March 13, 2017
 
-![DEWALT GUARANTEED TOUGH](/sites/g/files/xnuzat2711/files/2021-12/DEWALT-Guaranteed-Tough.png)
-
 * Products
     * [Power Tools](https://www.dewalt.com/products/power-tools "Power Tools")
     * [Hand Tools](https://www.dewalt.com/products/hand-tools "Hand Tools")
@@ -423,6 +423,7 @@ Effective as of: March 13, 2017
     * [Awards](https://www.dewalt.com/why-dewalt/awards)
     * [Featured Articles](https://www.dewalt.com/why-dewalt/featured-articles)
     * [News & Press](https://dewalt.mediaroom.com/)
+    * [Careers](https://www.stanleyblackanddecker.com/careers)
 
 EMAIL SIGNUP
 
@@ -479,10 +480,13 @@ Leave this field blank
     * [Awards](https://www.dewalt.com/why-dewalt/awards)
     * [Featured Articles](https://www.dewalt.com/why-dewalt/featured-articles)
     * [News & Press](https://dewalt.mediaroom.com/)
+    * [Careers](https://www.stanleyblackanddecker.com/careers)
 
 COPYRIGHT © DEWALT 2024
 
 The following are trademarks for one or more DEWALT power tools, accessories, anchors and concrete adhesives: The yellow and black color scheme; the “D”-shaped air intake grill; the array of pyramids on the handgrip; the kit box configuration; and the array of lozenge-shaped humps on the surface of the tool. 
+
+[](https://www.essentialaccessibility.com/stanley-black-and-decker)
 
 [Facebook](https://www.facebook.com/dewalt "Facebook Icon") [Instagram](https://www.instagram.com/dewalttough/ "Instagram Icon") [YouTube](https://www.youtube.com/user/dewalttv "YouTube Icon") [LinkedIn](https://www.linkedin.com/showcase/dewalt/ "LinkedIn Icon")
 
@@ -496,6 +500,18 @@ The following are trademarks for one or more DEWALT power tools, accessories, an
 * [Travel Safety with Cordless Tools](https://www.phmsa.dot.gov/safe-travel/batteries)
 * [DEWALT Patent Information](https://www.dewalt.com/legal/dewalt-patent-information)
 * [Shop Safe](https://www.dewalt.com/support/shop-safe)
+
+![zendesk icon](https://bynder.sbdinc.com/m/2bd9230c9c0d515e/original/DW_Zendesk_Duplo_Icon_circular_LFL1.png)
+
+![](https://holastanley.zendesk.com/system/brands/360000099157/Live_Chat-_DW_thumb.jpg)
+
+DEWALT® Support
+
+Hi there 👋Welcome to DeWalt! Stanley Black & Decker and its vendors use your communications here to provide technical support services and improve customer support. This chat uses an automated bot to respond. By continuing, you consent to the collection, use and sharing of the communications in this chat for the purposes mentioned above and as provided in our Privacy Policy.
+
+!['s avatar](https://holastanley.zendesk.com/system/brands/360000099157/Live_Chat-_DW_thumb.jpg)
+
+I agree to the terms above and want to proceed Please, choose an option no yes
 
 ### Notice
 
