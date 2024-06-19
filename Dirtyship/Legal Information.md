@@ -24,28 +24,6 @@
 
 [Local Nudes](https://fucklocal.com/send-nudes/) [Live Cams](https://tsyndicate.com/api/v1/direct/240350b7113948d4944963bbbfbe3b6f?) [Live Girls](https://heauty-viesected.com/81e9a6b9-24e7-46aa-b031-6ad856d71d7f) [TEEN PORN](https://exploitedteens.com/)
 
-* [Amouranth](https://dirtyship.com/performer/amouranth/ "Amouranth")
-* [Natalie Roush](https://dirtyship.com/performer/natalie-roush/ "Natalie Roush")
-* [Christina Khalil](https://dirtyship.com/performer/christina-khalil/ "Christina Khalil")
-* [Belle Delphine](https://dirtyship.com/performer/belle-delphine-x/ "Belle Delphine")
-* [Ginger ASMR](https://dirtyship.com/performer/ginger-asmr-x/ "Ginger ASMR")
-* [ASMR Network](https://dirtyship.com/performer/asmr-network-1/ "ASMR Network")
-* [AftynRose ASMR](https://dirtyship.com/performer/aftynrose-asmr-a/ "AftynRose ASMR")
-* [Maimy ASMR](https://dirtyship.com/performer/maimy-asmr/ "Maimy ASMR")
-* [Alinity](https://dirtyship.com/performer/alinity-1/ "Alinity")
-* [ALL](https://dirtyship.com/actors-2/)
-
-* [OnlyFans](https://dirtyship.com/category/onlyfans-b/ "OnlyFans")
-* [Big Boobs](https://dirtyship.com/category/big-boobs-b/ "Big Boobs")
-* [Blowjob](https://dirtyship.com/category/blowjob-b/ "Blowjob")
-* [ASMR](https://dirtyship.com/category/asmr-b/ "ASMR")
-* [YouTube](https://dirtyship.com/category/youtube-a/ "YouTube")
-* [Amateur](https://dirtyship.com/category/amateur-b/ "Amateur")
-* [Patreon](https://dirtyship.com/category/patreon-b/ "Patreon")
-* [Teen](https://dirtyship.com/category/teen-b/ "Teen")
-* [Instagram](https://dirtyship.com/category/instagram-a/ "Instagram")
-* [ALL](https://dirtyship.com/categories-b/)
-
  
 
 18 USC 2257
