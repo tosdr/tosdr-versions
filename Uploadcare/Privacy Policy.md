@@ -10,10 +10,7 @@ Developers[Quick start](https://uploadcare.com/docs/start/quickstart/)[API refer
 
 Legal[Terms of Service](https://uploadcare.com/about/terms/)[Privacy Policy](https://uploadcare.com/about/privacy-policy/)[Trust Center](https://uploadcare.com/about/trust/)[SLA](https://uploadcare.com/about/sla/)[DMCA](https://uploadcare.com/about/terms/#10-copyright-infringement-and-dmca-policy)
 
-© 2011–2024 Uploadcare Inc.
-
-Burrard St, Vancouver, BC V7X 1M8, Canada
-
+© 2011–2024 Uploadcare Inc.  
 [Request status](https://status.uploadcare.com/)
 
 [![SOC 2 Type 2 compliant](https://ucarecdn.com/402d1802-7c6f-4a1f-9512-c2c8c9f51cdd/)![GDPR compliant](https://ucarecdn.com/a3026d29-db41-4218-b264-3cf778a9ae3a/)![HIPAA-compliant environment](https://ucarecdn.com/458f86e5-eeed-4222-95b8-5207116aa579/)](https://uploadcare.com/about/trust/)
