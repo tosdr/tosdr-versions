@@ -1,24 +1,12 @@
-[![Connectify](/wp-content/uploads/connectify-topbar-logo04.png)](https://connectify.me/about-us/)
+[![Connectify](//connectify.me/wp-content/uploads/connectify_header-x2.png)](https://connectify.me/) [Navigation](#)
 
-[![Hotspot](/wp-content/uploads/brands-hotspot-full-01.png)![Hotspot](/wp-content/uploads/brands-hotspot-01.png)
+* [Hotspot](https://connectify.me/hotspot/)
+* [Speedify](https://speedify.com/)
+* [Support](https://connectify.me/support/)
 
-_Connectify Hotspot_Virtual Router & Wi-Fi Repeater](#)[![Speedify](/wp-content/uploads/brands-speedify-full-01.png)![Speedify](/wp-content/uploads/brands-speedify-01.png)
-
-_Speedify_Channel Bonding VPN for Speed, Security & Stability](https://speedify.com/)[![Pingify](/wp-content/uploads/brands-pingify-full-02.png)![Pingify](/wp-content/uploads/brands-pingify-02.png)
-
-_Pingify_Network Diagnostics Made Easy](https://pingify.me/)[![EdgeWise](/wp-content/uploads/brands-edgewise-full-01.png)![EdgeWise](/wp-content/uploads/brands-edgewise-01.png)
-
-_EdgeWise_Increased Reliability at the Edge of Wi-Fi](https://edgewise.app/)
-
-[![Connectify](//connectify.me/wp-content/uploads/connectify_header-02-x2.png)](https://connectify.me/) [Navigation](#)
-
-* [Features](https://connectify.me/hotspot/)
-* [Store](https://connectify.me/store/)
-* [Support](https://support.connectify.me/)
-
-* [Features](https://connectify.me/hotspot/)
-* [Store](https://connectify.me/store/)
-* [Support](https://support.connectify.me/)
+* [Hotspot](https://connectify.me/hotspot/)
+* [Speedify](https://speedify.com/)
+* [Support](https://connectify.me/support/)
 
 End User License Agreement
 ==========================
@@ -68,31 +56,13 @@ Components of the Software:
 4. Connectify Filter Driver
 5. Connectify Service
 
-###### Solutions
-
-* [Free WiFi Hotspot Software App for Windows Computers](https://connectify.me/free-wifi-hotspot-software-app/)
-* [Best Mobile WiFi Hotpot for International Travel](https://connectify.me/best-mobile-wifi-hotpot-for-international-travel/)
-* [Best WiFi Range Extender: Use Your Own Laptop with Connectify Hotspot](https://connectify.me/best-wifi-range-extender/)
-* [How to Get Your Chromecast Working on a Hotel Room WiFi](https://connectify.me/chromecast-hotel-wifi/)
-* [Block Web Ads and In-App Ads with a Universal Ad Blocker](https://connectify.me/universal-ad-blocker/)
-* [Wireless Repeater Right on Your Windows PC with Connectify Hotspot](https://connectify.me/wifi-wireless-repeater/)
-* [Block Ads in Apps on iPhone and Android Smartphones](https://connectify.me/block-ads-in-apps-smartphones/)
-
-* [Fix NAT Type Strict Issues with Gaming Mode](https://connectify.me/gaming-mode-fix-nat-type-strict-issues/)
-* [How to Share VPN over WiFi Hotspot on Windows](https://connectify.me/share-vpn-over-wifi-hotspot/)
-* [WiFi Booster App to Increase Network Range](https://connectify.me/wifi-booster-app/)
-* [Turn Your Windows Computer into a Virtual Router](https://connectify.me/virtual-router-for-windows/)
-* [How to Set Up a WiFi Mobile Hotspot with Windows 10 and Your Laptop](https://connectify.me/blog/how-to/create-laptop-hotspot-windows-10/)
-* [Business](https://connectify.me/business/)
-* [Connectify Software Volume Licenses](https://connectify.me/multi-user/)
-
 ###### Company
 
 * [About Us](https://connectify.me/about-us/)
 * [Privacy Policy](https://connectify.me/privacy-policy/)
 * [End User License Agreement](https://connectify.me/eula/)
 * [Frequently Asked Questions](https://connectify.me/faq/)
-* [Jobs](https://connectify.me/jobs/)
+* [Careers](https://connectify.me/jobs/)
 
 ###### Follow Us
 
