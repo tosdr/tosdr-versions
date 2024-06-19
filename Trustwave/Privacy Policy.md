@@ -27,7 +27,7 @@ Trustwave Unveils New Offerings to Maximize Value of Microsoft Security Investme
     [Recommended Actions](https://www.trustwave.com/en-us/company/contact/security-breach/)
     
 
-[![trustwave-logo-white-2](https://www.trustwave.com/hubfs/trustwave-logo-white-2.svg "trustwave-logo-white-2")](https://www.trustwave.com/)
+[![trustwave-logo-white-2](https://www.trustwave.com/hs-fs/hubfs/Web/Logos/trustwave-logo-white.png?width=300&height=43&name=trustwave-logo-white.png "trustwave-logo-white-2")](https://www.trustwave.com/)
 
 [![trustwave-logo-color](https://www.trustwave.com/hubfs/trustwave-logo-color.svg "trustwave-logo-color")](https://www.trustwave.com/)
 
