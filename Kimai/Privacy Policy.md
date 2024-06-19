@@ -3,8 +3,8 @@
 ##### Menu
 
 * [Demo](https://www.kimai.org/en/demo.html)
+* [Pricing](https://www.kimai.org/en/pricing)
 * [Plugins](https://www.kimai.org/store/)
-* [News](https://www.kimai.org/blog/)
 * [Documentation](#)
     * [User manual](https://www.kimai.org/documentation/chapter-manual.html)
     * [Cloud](https://www.kimai.org/documentation/cloud.html)
@@ -192,12 +192,13 @@ English
 
 * [About Kimai](https://www.kimai.org/en/about.html)
 * [Installation](https://www.kimai.org/en/download.html)
+* [Blog](https://www.kimai.org/blog/)
 * [Features](https://www.kimai.org/en/features.html)
 * [Support](https://www.kimai.org/en/support.html)
 * [Reviews](https://www.kimai.org/en/reviews)
 * [Discount codes](https://www.kimai.org/en/kimai-discount-codes)
 
-###### Kimai for [Kimai for](#landing-kimai-for)
+###### Kimai for [Kimai](#landing-kimai-for)
 
 * [Non-Profits](https://www.kimai.org/en/time-tracking-non-profit.html)
 * [Time Log](https://www.kimai.org/en/open-source-time-log "Open-Source Time Log")
