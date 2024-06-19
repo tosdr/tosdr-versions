@@ -108,6 +108,7 @@ Main navigation
     * col 1
         * Insurance
             * [Insurance & Paying for Treatment](https://www.eatingrecoverycenter.com/insurance)
+            * [Price Transparency](https://www.eatingrecoverycenter.com/price-transparency)
             * [Frequently Asked Questions](https://www.eatingrecoverycenter.com/frequently-asked-questions)
     * col 2
         * Admissions
@@ -162,7 +163,7 @@ Main navigation
             * [Love Your Tree](https://www.eatingrecoverycenter.com/love-your-tree)
             * [FAQs](https://www.eatingrecoverycenter.com/frequently-asked-questions)
             * [In the News](https://www.eatingrecoverycenter.com/news)
-    * 2024 ERC Pathlight Conference
+    * 2024 Virtual Eating Recovery and Pathlight Conferences
         
         [Learn more](https://www.eatingrecoverycenter.com/events/erc-pathlight-conference)
         
@@ -261,6 +262,7 @@ Main navigation
     * col 1
         * Insurance
             * [Insurance & Paying for Treatment](https://www.eatingrecoverycenter.com/insurance)
+            * [Price Transparency](https://www.eatingrecoverycenter.com/price-transparency)
             * [Frequently Asked Questions](https://www.eatingrecoverycenter.com/frequently-asked-questions)
     * col 2
         * Admissions
@@ -315,7 +317,7 @@ Main navigation
             * [Love Your Tree](https://www.eatingrecoverycenter.com/love-your-tree)
             * [FAQs](https://www.eatingrecoverycenter.com/frequently-asked-questions)
             * [In the News](https://www.eatingrecoverycenter.com/news)
-    * 2024 ERC Pathlight Conference
+    * 2024 Virtual Eating Recovery and Pathlight Conferences
         
         [Learn more](https://www.eatingrecoverycenter.com/events/erc-pathlight-conference)
         
@@ -560,6 +562,7 @@ Footer (ERC)
     * [Executive Leadership](https://www.eatingrecoverycenter.com/corporate-leadership)
     * [Clinical Leadership](https://www.eatingrecoverycenter.com/clinical-leadership)
     * [Licensing & Accreditation](https://www.eatingrecoverycenter.com/licensing-accreditation)
+    * [Price Transparency](https://www.eatingrecoverycenter.com/price-transparency)
     * [Foundation](https://www.eatingrecoverycenter.com/about-us/foundation)
     * [In The News](https://www.eatingrecoverycenter.com/news)
     * [Media Center](https://www.eatingrecoverycenter.com/media-center)
