@@ -81,44 +81,34 @@ Toggle navigation
 * [Topics](https://www.lexology.com/panoramic/workareas)
 * [Panoramic Next](https://www.lexology.com/panoramicnext)
 
-Analytics
+ANALYTICS
 ---------
 
-Review your content's performance and reach.
+Access real-time intent data to measure your success and maximise engagement.
 
 * [Analytics dashboard](https://www.lexology.com/analytics/dashboard)
 * [Top articles](https://www.lexology.com/analytics/articles)
 * [Top authors](https://www.lexology.com/analytics/authors)
 * [Who's reading?](https://www.lexology.com/analytics/dashboard#audience)
 
-Content Development
+CONTENT DEVELOPMENT
 -------------------
 
-Become your target audience’s go-to resource for today’s hottest topics.
+Use advanced tools to take your marketing strategy to the next level.
 
 * [Trending Topics](https://www.lexology.com/topics/trending)
 * [Discover Content](https://www.lexology.com/create/discover)
+* [Discover Companies](https://www.lexology.com/create/discovercompanies)
 * [Horizons](https://www.lexology.com/horizons)
 * [Ideation](https://www.lexology.com/create/contentideation)
 
-Client Intelligence
--------------------
+BENCHMARKING
+------------
 
-Understand your clients’ strategies and the most pressing issues they are facing.
+Measure the effectiveness of your content against peers.
 
-* [Track Sectors](https://www.lexology.com/track/sector)
-* [Track Clients](https://www.lexology.com/track/company)
-* [Mandates](https://www.lexology.com/insights/mandates)
-* [Discover Companies](https://www.lexology.com/create/discovercompanies)
-* [Reports Centre](https://www.lexology.com/insights/reports)
-
-Competitor Intelligence
------------------------
-
-Keep a step ahead of your key competitors and benchmark against them.
-
-* [Benchmarking](https://www.lexology.com/analytics/benchmarking)
-* [Competitor Mandates](https://www.lexology.com/competitorintelligence/)
+* [Content Benchmarking](https://www.lexology.com/analytics/benchmarking)
+* [Benchmarking and Insight Reports](https://www.lexology.com/insights/reports)
 
 Cookie Policy
 =============
