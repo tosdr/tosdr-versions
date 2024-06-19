@@ -3,22 +3,30 @@
 [![](https://cdn3.toonboom.com/wp-content/uploads/2022/09/28145724/logo-menu.svg)](https://www.toonboom.com/)
 
 * Products
-    * [Harmony 22
+    * [![](https://cdn3.toonboom.com/wp-content/uploads/2024/06/10145105/h-24.svg)
+        
+        Harmony
         
         Creating Worlds of 2D Animation
         
         Discover](https://www.toonboom.com/products/harmony)
-    * [Harmony Gaming
+    * [![](https://cdn3.toonboom.com/wp-content/uploads/2024/06/10145106/h24-gaming.svg)
+        
+        Harmony Gaming
         
         Flexible and optimised for Gaming
         
-        Discover](https://www.toonboom.com/products/harmony-gaming)
-    * [Storyboard Pro 22
+        Discover](https://www.toonboom.com/products/harmony-24-gaming)
+    * [![](https://cdn3.toonboom.com/wp-content/uploads/2022/09/10150000/s24.svg)
+        
+        Storyboard Pro
         
         Where every great story begins
         
         Discover](https://www.toonboom.com/products/storyboard-pro)
-    * [Producer
+    * [![](https://cdn3.toonboom.com/wp-content/uploads/2022/08/10203400/producer-24.svg)
+        
+        Producer
         
         Every production — on time and on budget
         
@@ -100,9 +108,9 @@ Open Menu
 * [Products](#)
     * [Back](#)
     * [Products](#)
-        * [Harmony 22](https://www.toonboom.com/products/harmony)
-        * [Harmony Gaming](https://www.toonboom.com/products/harmony-gaming)
-        * [Storyboard Pro 22](https://www.toonboom.com/products/storyboard-pro)
+        * [Harmony](https://www.toonboom.com/products/harmony)
+        * [Harmony Gaming](https://www.toonboom.com/products/harmony-24-gaming)
+        * [Storyboard Pro](https://www.toonboom.com/products/storyboard-pro)
         * [Producer](https://www.toonboom.com/products/producer)
 * [Services](#)
     * [Back](#)
@@ -347,9 +355,9 @@ Please make any communications as complete and descriptive as possible, and we w
 
 Toon Boom Animation Inc.
 
-4200 St-Laurent Blvd, Suite 1020  
-Montreal, Quebec, Canada  
-H2W 2R2
+55, avenue Mont-Royal Ouest, suite 1000  
+Montréal, Quebec, Canada  
+H2T 2S6
 
 [View on Google Maps](https://www.google.ca/maps/place/Toon+Boom+Animation+Inc/@45.518072,-73.5843112,17z/data=!3m1!4b1!4m5!3m4!1s0x40553295184c548b:0x6ac8f8731091efd5!8m2!3d45.518072!4d-73.5821225) [+1 (514) 278-8666](tel:+1 (514) 278-8666)
 
@@ -362,9 +370,9 @@ Follow us
 * [Linkedin](https://www.linkedin.com/company/toon-boom-animation-inc)
 
 * Software
-    * [Harmony 22](https://www.toonboom.com/products/harmony)
-    * [Harmony Gaming](https://www.toonboom.com/products/harmony-gaming)
-    * [Storyboard Pro 22](https://www.toonboom.com/products/storyboard-pro)
+    * [Harmony](https://www.toonboom.com/products/harmony)
+    * [Harmony Gaming](https://www.toonboom.com/products/harmony-24-gaming)
+    * [Storyboard Pro](https://www.toonboom.com/products/storyboard-pro)
     * [Producer](https://www.toonboom.com/products/producer)
 * [Services](https://www.toonboom.com/services)
     * [Consulting Services](https://www.toonboom.com/services/consulting-services)
@@ -403,7 +411,7 @@ Select your country and language
 
 See country-specific product information and pricing by selecting your country on this page
 
-Country Algeria Argentina Australia Belgium Benin Brazil Cabo Verde Cambodia Cameroon Canada Central African Republic (CAR) Chad Chile China Colombia Comoros Congo, Democratic Republic of the Congo, Republic of the Costa Rica Cote d'Ivoire Cyprus Djibouti Equatorial Guinea France Gabon Germany Guinea Guinea-Bissau India Indonesia Ireland Israel Italy Japan Jordan Laos Lebanon Madagascar Malaysia Mali Mauritania Mauritius Mexico Morocco Netherlands New Zealand Niger Online Palestine Peru Philippines Poland Portugal Rwanda Saudi Arabia Senegal Seychelles South Africa South Korea Spain Syria Togo Trinidad and Tobago Tunisia Turkey U.S. Virgin Islands United Kingdom (UK) United States of America (USA) Vanuatu Vietnam
+Country Algeria Argentina Australia Belgium Benin Brazil Cabo Verde Cambodia Cameroon Canada Central African Republic (CAR) Chad Chile China Colombia Comoros Congo, Democratic Republic of the Congo, Republic of the Costa Rica Cote d'Ivoire Cyprus Djibouti Equatorial Guinea France Gabon Germany Guinea Guinea-Bissau India Indonesia Ireland Israel Italy Japan Jordan Laos Lebanon Madagascar Malaysia Mali Mauritania Mauritius Mexico Morocco Netherlands New Zealand Niger Online Palestine Peru Philippines Poland Portugal Rwanda Saudi Arabia Senegal Seychelles South Africa South Korea Spain Syria Togo Trinidad and Tobago Tunisia Turkey U.S. Virgin Islands Ukraine United Kingdom (UK) United States of America (USA) Vanuatu Vietnam
 
 Language English Español Français 日本語
 
