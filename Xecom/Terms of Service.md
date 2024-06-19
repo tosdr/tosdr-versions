@@ -317,7 +317,7 @@ Language
 
 English
 
-[English (UK)](https://www.xe.com/en-gb/legal/)[Deutsch](https://www.xe.com/de/legal/)[Español](https://www.xe.com/es/legal/)[Español (US)](https://www.xe.com/es-us/legal/)[Français](https://www.xe.com/fr/legal/)[Português](https://www.xe.com/pt/legal/)[Italiano](https://www.xe.com/it/legal/)[Svenska](https://www.xe.com/sv/legal/)[日本語](https://www.xe.com/ja/legal/)[简体中文](https://www.xe.com/zh-CN/legal/)[繁體中文](https://www.xe.com/zh-HK/legal/)[العربية](https://www.xe.com/ar/legal/)
+[English (UK)](https://www.xe.com/en-gb/legal/)[Deutsch](https://www.xe.com/de/legal/)[Español](https://www.xe.com/es/legal/)[Español (US)](https://www.xe.com/es-us/legal/)[Nederlands](https://www.xe.com/nl/legal/)[Français](https://www.xe.com/fr/legal/)[Português](https://www.xe.com/pt/legal/)[Italiano](https://www.xe.com/it/legal/)[Svenska](https://www.xe.com/sv/legal/)[日本語](https://www.xe.com/ja/legal/)[简体中文](https://www.xe.com/zh-CN/legal/)[繁體中文](https://www.xe.com/zh-HK/legal/)[العربية](https://www.xe.com/ar/legal/)
 
 [](http://www.facebook.com/xecom)[](http://twitter.com/xe)[](https://www.linkedin.com/company/xecurrencyauthority/)[](https://www.instagram.com/poweringyou/)
 
