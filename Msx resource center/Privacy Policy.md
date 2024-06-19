@@ -137,37 +137,38 @@ MSX Music player
 
 Latest reactions
 
+* [MSXdev24 #03 Puzzle Mania - MSXdev24 Edition](https://www.msx.org/news/challenges/en/msxdev24-03-Puzzle%20Mania%20-MSXdev24%20Edition "MSXdev24 #03 Puzzle Mania - MSXdev24 Edition")
 * [MSXdev24 #04 Whack 'Em Smack 'Em Byrons](https://www.msx.org/news/challenges/en/msxdev24-04-whackmsmackmbyrons "MSXdev24 #04 Whack 'Em Smack 'Em Byrons")
+* [SX-LITE and SX-E by 8bits4ever](https://www.msx.org/news/hardware/en/sx-lite-and-sx-e-by-8bits4ever "SX-LITE and SX-E by 8bits4ever")
+* [MSXdev23 #26 Snake and Rhino in the sketchbook](https://www.msx.org/news/challenges/en/msxdev23-26SnakeAndRhinoInTheSketchbook "MSXdev23 #26 Snake and Rhino in the sketchbook")
+* [Campanera - Jozelito's Adventure](https://www.msx.org/downloads/campanera-jozelitos-adventure "Campanera - Jozelito's Adventure")
+* [MSXdev24 #05 Minas](https://www.msx.org/news/challenges/en/msxdev24-05-minas "MSXdev24 #05 Minas")
 * [Mr. Balloon Remake by Mapax](https://www.msx.org/news/software/en/mr-balloon-remake "Mr. Balloon Remake by Mapax")
 * [Carnivore2+ is now available for purchasing!](https://www.msx.org/news/en/carnivore2-is-now-available-for-purchasing "Carnivore2+ is now available for purchasing!")
 * [Tecnobytes Shockwave-II and Slot Expander-II](https://www.msx.org/news/hardware/en/tecnobytes-shockwave2-and-expander2 "Tecnobytes Shockwave-II and Slot Expander-II")
-* [SX-LITE and SX-E by 8bits4ever](https://www.msx.org/news/hardware/en/sx-lite-and-sx-e-by-8bits4ever "SX-LITE and SX-E by 8bits4ever")
 * [MultiMente v2.07A+ RC5](https://www.msx.org/downloads/multimente-v207a-rc4 "MultiMente v2.07A+ RC5")
-* [62nd Barcelona MSX users meeting](https://www.msx.org/news/events/en/62nd-barcelona-msx-users-meeting "62nd Barcelona MSX users meeting")
-* [Pixel Memories](https://www.msx.org/news/msx-related/en/pixel-memories-dioramas "Pixel Memories")
-* [Introducing repairbas.com](https://www.msx.org/news/websites/en/introducing-repairbascom "Introducing repairbas.com")
-* [Blade Lords reissue](https://www.msx.org/news/software/en/blade-lords-reissue "Blade Lords reissue")
 
 Latest forum posts
 
-* [Page 0 and ROM mappers](https://www.msx.org/forum/msx-talk/development/page-0-and-rom-mappers "Page 0 and ROM mappers")
-* [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=20 "WonderTANG! Who wants to juice up your MSX?")
-* [Redefining MSX character set.](https://www.msx.org/forum/msx-talk/graphics-and-music/redefining-msx-character-set "Redefining MSX character set.")
-* [Please help testing upcoming openMSX release!](https://www.msx.org/forum/msx-talk/openmsx/please-help-testing-upcoming-openmsx-release?page=106 "Please help testing upcoming openMSX release!")
-* [MSX 1 Demo's ?](https://www.msx.org/forum/msx-talk/software/msx-1-demos "MSX 1 Demo's ?")
-* [MSX Computing Type and Run .BAS or .CAS files](https://www.msx.org/forum/msx-talk/software/msx-computing-type-and-run-bas-or-cas-files "MSX Computing Type and Run .BAS or .CAS files")
-* [HX-10 Physical Reset Switch](https://www.msx.org/forum/msx-talk/hardware/hx-10-physical-reset-switch "HX-10 Physical Reset Switch")
-* [Outrun MSX2 WIP](https://www.msx.org/forum/msx-talk/development/outrun-msx2-wip?page=10 "Outrun MSX2 WIP")
-* [8bits4ever FDC-600 floppy drive power](https://www.msx.org/forum/msx-talk/hardware/8bits4ever-fdc-600-floppy-drive-power "8bits4ever FDC-600 floppy drive power")
-* [Project cv (chaos)](https://www.msx.org/forum/msx-talk/software/project-cv-chaos?page=1 "Project cv (chaos)")
-* [Covers for Keyboards / Computers](https://www.msx.org/forum/msx-talk/general-discussion/covers-for-keyboards-computers "Covers for Keyboards / Computers")
-* [Carnivore2/SofaRun boot issues on Arabic MSX1](https://www.msx.org/forum/msx-talk/general-discussion/carnivore2sofarun-boot-issues-on-arabic-msx1 "Carnivore2/SofaRun boot issues on Arabic MSX1")
-* [Sneak peek of Whack 'Em Smack 'Em Byrons for the MSX](https://www.msx.org/forum/msx-talk/development/sneak-peek-of-whack-em-smack-em-byrons-for-the-msx "Sneak peek of Whack 'Em Smack 'Em Byrons for the MSX")
+* [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=25 "WonderTANG! Who wants to juice up your MSX?")
+* [Shrines of Enigma - impossible level?](https://www.msx.org/forum/msx-talk/software-and-gaming/shrines-enigma-impossible-level?page=5 "Shrines of Enigma - impossible level?")
+* [Sneak peek of Whack 'Em Smack 'Em Byrons for the MSX](https://www.msx.org/forum/msx-talk/development/sneak-peek-of-whack-em-smack-em-byrons-for-the-msx?page=1 "Sneak peek of Whack 'Em Smack 'Em Byrons for the MSX")
+* [Please help testing upcoming openMSX release!](https://www.msx.org/forum/msx-talk/openmsx/please-help-testing-upcoming-openmsx-release?page=108 "Please help testing upcoming openMSX release!")
+* [Wiki editing discussion](https://www.msx.org/forum/msx-talk/msx-resource-center/wiki-editing-discussion?page=221 "Wiki editing discussion")
+* [VGMPlay for MSX](https://www.msx.org/forum/msx-talk/software/vgmplay-msx?page=55 "VGMPlay for MSX")
+* [Dumping/reverse engineering MSX models thread](https://www.msx.org/forum/msx-talk/emulation/dumpingreverse-engineering-msx-models-thread?page=45 "Dumping/reverse engineering MSX models thread")
+* [Outrun MSX2 WIP](https://www.msx.org/forum/msx-talk/development/outrun-msx2-wip?page=13 "Outrun MSX2 WIP")
+* [Philips VG-8235 SCART video blackouts problem](https://www.msx.org/forum/msx-talk/hardware/philips-vg-8235-scart-video-on-of-problem "Philips VG-8235 SCART video blackouts problem")
+* [MSX Goa'uld. Turn an MSX into a MSX 2+?](https://www.msx.org/forum/msx-talk/hardware/msx-goauld-turn-an-msx-into-a-msx-2?page=3 "MSX Goa'uld. Turn an MSX into a MSX 2+?")
+* [CVBasic: New BASIC compiler for MSX](https://www.msx.org/forum/msx-talk/development/cvbasic-new-basic-compiler-for-msx?page=4 "CVBasic: New BASIC compiler for MSX")
+* [Help - Several Sony HB-F1XDJ keys stopped working after recap](https://www.msx.org/forum/msx-talk/general-discussion/help-several-sony-hb-f1xdj-keys-stopped-working-after-recap "Help - Several Sony HB-F1XDJ keys stopped working after recap")
+* [Problem using pt3\_player in sjasm](https://www.msx.org/forum/msx-talk/graphics-and-music/problem-using-pt3-player-in-sjasm "Problem using pt3_player in sjasm")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
 News headlines
 
+* [MSXdev24 #05 Minas](https://www.msx.org/news/challenges/en/msxdev24-05-minas "MSXdev24 #05 Minas")
 * [MSXdev24 #04 Whack 'Em Smack 'Em Byrons](https://www.msx.org/news/challenges/en/msxdev24-04-whackmsmackmbyrons "MSXdev24 #04 Whack 'Em Smack 'Em Byrons")
 * [SX-LITE and SX-E by 8bits4ever](https://www.msx.org/news/hardware/en/sx-lite-and-sx-e-by-8bits4ever "SX-LITE and SX-E by 8bits4ever")
 * [62nd Barcelona MSX users meeting](https://www.msx.org/news/events/en/62nd-barcelona-msx-users-meeting "62nd Barcelona MSX users meeting")
@@ -180,7 +181,6 @@ News headlines
 * [EA 70's Arcade Classics available for pre-order](https://www.msx.org/news/en/ea-70s-arcade-classics-available-for-pre-order "EA 70's Arcade Classics available for pre-order")
 * [Blade Lords reissue](https://www.msx.org/news/software/en/blade-lords-reissue "Blade Lords reissue")
 * [Flashjacks firmware updated to Ver. 2.4 & Ver. 2.5](https://www.msx.org/news/hardware/en/flashjacks-firmware-updated-to-ver-24-ver-25 "Flashjacks firmware updated to Ver. 2.4 & Ver. 2.5")
-* [Zilog stops Z80 production](https://www.msx.org/news/en/halt-forever-zilog-announces-to-stop-z80-production-in-june-2024 "Zilog stops Z80 production")
 
 [](https://www.msx.org/archive/)[More news articles](https://www.msx.org/archive/)
 
