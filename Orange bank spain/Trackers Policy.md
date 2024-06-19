@@ -1,41 +1,9 @@
  [![logo-black--mini](/dam/jcr:1ec3d3e7-25c2-4969-aa2f-53d4008fb6a6/logo-black--mini.svg)](https://orangebank.es/ "Home")
 
-* [Cuenta Orange Bank](https://orangebank.es/cuenta-orange-bank/ "Cuenta Orange Bank")
-    
-    *  [![icon-td](/dam/jcr:9497f167-b61b-4209-9ac6-419af32c6760/icon-td.svg) Tarjeta débito](https://orangebank.es/cuenta-orange-bank/tarjeta-debito/ "Tarjeta Débito")
-    *  [![icon-cc](/dam/jcr:dcdb6623-fe48-435a-94be-9a2a32318184/icon-cc.svg) Cuenta Corriente](https://orangebank.es/cuenta-orange-bank/cuenta-corriente/ "Cuenta Corriente")
-    *  [![icon-ca](/dam/jcr:77ae87c2-32db-4cb4-bc1f-2b293ba4a13a/icon-ca.svg) Cuenta Ahorro](https://orangebank.es/cuenta-orange-bank/cuenta-ahorro/ "Cuenta Ahorro")
-    
-* [Servicios](https://orangebank.es/servicios/ "Servicios")
-    
-    *  [![icon-transferencias](/dam/jcr:9b2af0e2-3cbd-4a6c-81b2-c4014c973ad8/icon-transferencias.svg) Transferencias inmediatas
-        
-        A cualquier banco y sin comisiones](https://orangebank.es/transferencias-inmediatas/ "Transferencias inmediatas")
-    *  [![icon-bizum](/dam/jcr:e8fafdc3-dc73-423c-a684-0290c585dc97/icon-bizum.svg) Bizum
-        
-        Envía y recibe dinero de móvil a móvil](https://orangebank.es/bizum/ "Bizum")
-    *  [![icon-grupos](/dam/jcr:b112f19c-749a-4853-9430-7a6941e39aff/icon-grupos.svg) Grupos
-        
-        Gestiona tus gastos compartidos](https://orangebank.es/grupos/ "Grupos de Orange Bank")
-    *  [![icon-pago-movil](/dam/jcr:7be9376f-af14-4de3-804f-5af98d6634e6/icon-pago-movil.svg) Pago móvil
-        
-        Porque ya no necesitas la cartera](https://orangebank.es/pago-movil/ "Pago Móvil")
-    
-* [Ayuda](https://orangebank.es/ayuda/ "Ayuda ")
 * [Actualidad](https://orangebank.es/blog/ "Blog")
 
 Mostrar / Ocultar Navegación
 
-* [Cuenta Orange Bank](https://orangebank.es/cuenta-orange-bank/ "Cuenta Orange Bank") ![icon-cursor-bottom](/.resources/mgnl-ob-theme/webresources/images/icons/icon-cursor-bottom.svg)
-    * [Tarjeta débito](https://orangebank.es/cuenta-orange-bank/tarjeta-debito/ "Tarjeta Débito")
-    * [Cuenta Corriente](https://orangebank.es/cuenta-orange-bank/cuenta-corriente/ "Cuenta Corriente")
-    * [Cuenta Ahorro](https://orangebank.es/cuenta-orange-bank/cuenta-ahorro/ "Cuenta Ahorro")
-* [Servicios](https://orangebank.es/servicios/ "Servicios") ![icon-cursor-bottom](/.resources/mgnl-ob-theme/webresources/images/icons/icon-cursor-bottom.svg)
-    * [Transferencias inmediatas](https://orangebank.es/transferencias-inmediatas/ "Transferencias inmediatas")
-    * [Bizum](https://orangebank.es/bizum/ "Bizum")
-    * [Grupos](https://orangebank.es/grupos/ "Grupos de Orange Bank")
-    * [Pago móvil](https://orangebank.es/pago-movil/ "Pago Móvil")
-* [Ayuda](https://orangebank.es/ayuda/ "Ayuda ")
 * [Actualidad](https://orangebank.es/blog/ "Blog")
 
 Política de cookies
@@ -312,31 +280,11 @@ Por último y en caso de que tengas algún problema relacionado con el uso de la
 
 [![Orange Bank](/dam/jcr:e37f0725-82b6-4768-9510-d7e0baa70e89/logo-white.svg)](https://orangebank.es/ "Home")
 
-**Descárgate nuestra app en**
-
-* [![appstore](/dam/jcr:54ddb114-a91f-463f-9781-35d05071a9c7/App_Store_es_white.svg)](https://apps.apple.com/es/app/id1470410524)
-* [![google play](/dam/jcr:5ac6d2c1-69a6-4e7f-9140-f81db6c56201/Google_Play_es_white.svg)](https://play.google.com/store/apps/details?id=es.orangebank.app)
-
 * Orange Bank
     * [Quiénes somos](https://orangebank.es/quienes-somos/ "Quiénes somos")
-    * [Trabaja con nosotros](https://orangebank.es/trabaja-con-nosotros/ "Trabaja con nosotros")
     * [Blog](https://orangebank.es/blog/ "Blog")
-    * [Para desarrolladores](https://orangebank.es/para-desarrolladores/ "Para Desarrolladores")
     * [Canal del informante](https://orangebank.es/canal-de-denuncias/ "Canal del informante")
     * [SAC](https://orangebank.es/SAC/ "SAC")
-* Cuenta
-    * [Cuenta Corriente](https://orangebank.es/cuenta-orange-bank/cuenta-corriente/ "Cuenta Corriente")
-    * [Cuenta Ahorro](https://orangebank.es/cuenta-orange-bank/cuenta-ahorro/ "Cuenta Ahorro")
-    * [Tarjeta Débito](https://orangebank.es/cuenta-orange-bank/tarjeta-debito/ "Tarjeta Débito")
-* Ayuda
-    * [Centro de ayuda](https://orangebank.es/ayuda/ "Ayuda ")
-    * [He perdido mi tarjeta](https://orangebank.es/ayuda/pregunta/tarjeta-perdida-robada/000001166/ "He perdido mi tarjeta")
-    * [Habla con Orange Bank](https://orangebank.es/habla-con-orange-bank/ "Habla con Orange Bank")
-* [Pago Móvil](https://orangebank.es/pago-movil/ "Pago Móvil")
-    * [Apple Pay](https://orangebank.es/pago-movil/apple-pay/ "Apple Pay ")
-    * [Samsung Pay](https://orangebank.es/pago-movil/samsung-pay/ "Samsung Pay ")
-    * [Google Pay](https://orangebank.es/pago-movil/google-pay/ "Google Pay ")
-    * [Bizum](https://orangebank.es/bizum/ "Bizum")
 * Redes Sociales
     *  [![twitter-orange-bank](/.resources/mgnl-ob-theme/webresources/images/icons/x-white.png) Twitter](https://twitter.com/OrangeBankES?utm_campaign=es_br_pro_footer_footer&utm_medium=web&utm_source=footer "Twitter")
     *  [![instagram-orange-bank](/.resources/mgnl-ob-theme/webresources/images/icons/instagram.svg) Instagram](https://www.instagram.com/orangebankes/?utm_campaign=es_br_pro_footer_footer&utm_medium=web&utm_source=footer "Instagram")
@@ -350,7 +298,6 @@ Por último y en caso de que tengas algún problema relacionado con el uso de la
 * [Gobierno corporativo y Política de Remuneraciones](https://www.orangebank.fr/informations-financieres "Gobierno corporativo y Política de Remuneraciones")
 * [Tablón de Anuncios](https://orangebank.es/tablon-de-anuncios/ "Tablon de anuncios")
 * [Seguridad](https://orangebank.es/seguridad/ "Seguridad")
-* [Cuenta Básica](https://orangebank.es/dam/jcr:b4daed86-f7ae-43d3-955c-c9ff88caf6cc/Cuenta-B%C3%A1sica.pdf/)
 
 [![Sellos de Confianza Online](/dam/jcr:03f0ae12-8cbd-4f09-8c1d-afe46d26f4fe/sello-confianza-online.webp)](https://www.confianzaonline.es/empresas/orangebank.htm "Sellos de Confianza Online")
 
