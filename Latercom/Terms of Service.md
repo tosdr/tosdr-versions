@@ -605,7 +605,8 @@ The best social media marketing app, influencer marketing management platform & 
     
     Use Cases
     
-    * [eCommerce](https://later.com/ecommerce-influencers/)
+    * [CPG](https://later.com/cpg-influencers/)
+    * [E-Commerce](https://later.com/ecommerce-influencers/)
     
     Demo
     
