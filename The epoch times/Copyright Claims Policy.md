@@ -23,7 +23,7 @@
     * [New York News](https://www.theepochtimes.com/us/nyc)
     * [San Francisco](https://www.theepochtimes.com/us/nor-cal-san-francisco)
     * [Los Angeles](https://www.theepochtimes.com/us/so-cal-los-angeles)
-* [Opinion](https://www.theepochtimes.com/opinion)
+* [Perspectives](https://www.theepochtimes.com/opinion)
     * [Thinking About China](https://www.theepochtimes.com/opinion/thinking-about-china)
     * [Viewpoints](https://www.theepochtimes.com/opinion/viewpoints)
     * [Unbridled Evil: The Corrupt Reign of Jiang Zemin in China](https://www.theepochtimes.com/jiang-zemin-story)
@@ -96,7 +96,7 @@ Search Text  [SEARCH](javascript:void(0);)
 * [EpochTV](https://www.theepochtimes.com/epochtv)
 * [US](https://www.theepochtimes.com/us-news)
 * [US Politics](https://www.theepochtimes.com/us/us-politics)
-* [Opinion](https://www.theepochtimes.com/opinion)
+* [Perspectives](https://www.theepochtimes.com/opinion)
 * [World News](https://www.theepochtimes.com/world)
 * [China](https://www.theepochtimes.com/china-news)
 * [Hong Kong](https://www.theepochtimes.com/hong-kong)
@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [USDA Recalls More Than 20,000 Pounds of Frozen Beef Products](https://www.theepochtimes.com/business/usda-recalls-more-than-20000-pounds-of-frozen-beef-products-5665141)
+* [Rep. Good’s Race Too Early to Call, Other Takeaways From Tuesday’s Primaries](https://www.theepochtimes.com/us/rep-goods-race-too-early-to-call-other-takeaways-from-tuesdays-primaries-5671119)
     
-    NEW By [Lorenz Duchamps](https://www.theepochtimes.com/author/lorenz-duchamps)
+    2hr By [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord), [Austin Alonzo](https://www.theepochtimes.com/author/austin-alonzo) and [Terri Wu](https://www.theepochtimes.com/author/terri-wu)
     
-    [![USDA Recalls More Than 20,000 Pounds of Frozen Beef Products](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Rep. Good’s Race Too Early to Call, Other Takeaways From Tuesday’s Primaries](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![USDA Recalls More Than 20,000 Pounds of Frozen Beef Products](https://img.theepochtimes.com/assets/uploads/2024/06/08/id5665143-beef-recall-205x123.jpg.webp)](https://www.theepochtimes.com/business/usda-recalls-more-than-20000-pounds-of-frozen-beef-products-5665141)
-* [Bird Flu Confirmed in Wyoming Cattle Herd, 12th State to Record Infections](https://www.theepochtimes.com/us/bird-flu-confirmed-in-wyoming-cattle-herd-12th-state-to-record-infections-5665111)
+    ![Rep. Good’s Race Too Early to Call, Other Takeaways From Tuesday’s Primaries](https://img.theepochtimes.com/assets/uploads/2024/06/19/id5671181-Election_2024_Virginia_24171151055106-205x123.jpg.webp)](https://www.theepochtimes.com/us/rep-goods-race-too-early-to-call-other-takeaways-from-tuesdays-primaries-5671119)
+* [Rep. Good Locked in Tight Race With Trump-Backed Challenger](https://www.theepochtimes.com/us/rep-good-locked-in-tight-race-with-trump-backed-challenger-5670839)
     
-    1hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    5hr By [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman)
     
-    [![Bird Flu Confirmed in Wyoming Cattle Herd, 12th State to Record Infections](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Rep. Good Locked in Tight Race With Trump-Backed Challenger](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Bird Flu Confirmed in Wyoming Cattle Herd, 12th State to Record Infections](https://img.theepochtimes.com/assets/uploads/2024/04/24/id5636660-cattle-AP24107677450143-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/bird-flu-confirmed-in-wyoming-cattle-herd-12th-state-to-record-infections-5665111)
-* [Excess Weight Among Children Linked to Lower IQ: Study](https://www.theepochtimes.com/health/excess-weight-among-children-linked-to-lower-iq-study-5665029)
+    ![Rep. Good Locked in Tight Race With Trump-Backed Challenger](https://img.theepochtimes.com/assets/uploads/2024/06/17/id5670279-GettyImages-2147927810-205x123.jpg.webp)](https://www.theepochtimes.com/us/rep-good-locked-in-tight-race-with-trump-backed-challenger-5670839)
+* [Army Veteran, Figure in Trump Impeachment Inquiry Will Vie For Key House Seat](https://www.theepochtimes.com/us/army-veteran-figure-in-trump-impeachment-inquiry-will-vie-for-spanbergers-seat-in-november-5670996)
     
-    3hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
+    5hr By [Terri Wu](https://www.theepochtimes.com/author/terri-wu)
     
-    [![Excess Weight Among Children Linked to Lower IQ: Study](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Army Veteran, Figure in Trump Impeachment Inquiry Will Vie For Key House Seat](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Excess Weight Among Children Linked to Lower IQ: Study](https://img.theepochtimes.com/assets/uploads/2023/06/28/id5361539-GettyImages-72133063-205x123.jpg.webp)](https://www.theepochtimes.com/health/excess-weight-among-children-linked-to-lower-iq-study-5665029)
-* [Wars and Trade Take Center Stage in Biden–Macron Meeting During State Visit](https://www.theepochtimes.com/us/wars-and-trade-take-center-stage-in-biden-macron-meeting-during-state-visit-5665105)
+    ![Army Veteran, Figure in Trump Impeachment Inquiry Will Vie For Key House Seat](https://img.theepochtimes.com/assets/uploads/2024/06/19/id5671098-0-DSC00674-205x123.jpg.webp)](https://www.theepochtimes.com/us/army-veteran-figure-in-trump-impeachment-inquiry-will-vie-for-spanbergers-seat-in-november-5670996)
+* [Virginians Select Candidates in 10th Congressional District](https://www.theepochtimes.com/us/virginians-select-candidates-in-10th-congressional-district-5671033)
     
-    4hr By [Emel Akan](https://www.theepochtimes.com/author/emel-akan)
+    6hr By [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord)
     
-    [![Wars and Trade Take Center Stage in Biden–Macron Meeting During State Visit](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Virginians Select Candidates in 10th Congressional District](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Wars and Trade Take Center Stage in Biden–Macron Meeting During State Visit](https://img.theepochtimes.com/assets/uploads/2024/06/08/id5665110-Biden_Macron-in-Elysee-205x123.jpg.webp)](https://www.theepochtimes.com/us/wars-and-trade-take-center-stage-in-biden-macron-meeting-during-state-visit-5665105)
-* [Israel Rescues 4 Hostages in Gaza in Largest Recovery Operation Since Oct. 7](https://www.theepochtimes.com/world/israel-rescues-4-hostages-in-gaza-in-largest-recovery-operation-since-oct-7-post-5665106)
+    ![Virginians Select Candidates in 10th Congressional District](https://img.theepochtimes.com/assets/uploads/2022/03/18/1-DSC01639-205x123.jpg.webp)](https://www.theepochtimes.com/us/virginians-select-candidates-in-10th-congressional-district-5671033)
+* [Senate Republican Blocks Bill to Ban Bump Stocks After Supreme Court Ruling](https://www.theepochtimes.com/us/senate-republican-blocks-bill-to-ban-bump-stocks-after-supreme-court-ruling-5670795)
     
-    4hr By [Lorenz Duchamps](https://www.theepochtimes.com/author/lorenz-duchamps)
+    6hr By [Stacy Robinson](https://www.theepochtimes.com/author/stacy-robinson)
     
-    [![Israel Rescues 4 Hostages in Gaza in Largest Recovery Operation Since Oct. 7](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Senate Republican Blocks Bill to Ban Bump Stocks After Supreme Court Ruling](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Israel Rescues 4 Hostages in Gaza in Largest Recovery Operation Since Oct. 7](https://img.theepochtimes.com/assets/uploads/2024/06/08/id5665108-Israel-Rescue-205x123.jpg.webp)](https://www.theepochtimes.com/world/israel-rescues-4-hostages-in-gaza-in-largest-recovery-operation-since-oct-7-post-5665106)
-* [Consumer Agency Warns Financial Firms Over Deceptive ‘Fine Print’ in Contracts](https://www.theepochtimes.com/business/consumer-agency-warns-financial-firms-over-deceptive-fine-print-in-contracts-5664766)
+    ![Senate Republican Blocks Bill to Ban Bump Stocks After Supreme Court Ruling](https://img.theepochtimes.com/assets/uploads/2021/06/29/20210624-nebraska-governor-pete-ricketts-petrsvab-8230-205x123.jpg.webp)](https://www.theepochtimes.com/us/senate-republican-blocks-bill-to-ban-bump-stocks-after-supreme-court-ruling-5670795)
+* [House Appropriations Chair Tom Cole Survives Primary Challenge](https://www.theepochtimes.com/us/house-appropriations-chair-tom-cole-survives-primary-challenge-5670927)
     
-    6hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
+    6hr By [Austin Alonzo](https://www.theepochtimes.com/author/austin-alonzo)
     
-    [![Consumer Agency Warns Financial Firms Over Deceptive ‘Fine Print’ in Contracts](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![House Appropriations Chair Tom Cole Survives Primary Challenge](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Consumer Agency Warns Financial Firms Over Deceptive ‘Fine Print’ in Contracts](https://img.theepochtimes.com/assets/uploads/2023/11/01/id5521362-10312023-DSC03023-CFPB-205x123.jpg.webp)](https://www.theepochtimes.com/business/consumer-agency-warns-financial-firms-over-deceptive-fine-print-in-contracts-5664766)
-* [Bipartisan Group of Senators Seeks Report on DOJ Actions Against CCP Intellectual Property Theft](https://www.theepochtimes.com/us/bipartisan-group-of-senators-wants-doj-to-outline-measures-against-ccp-intellectual-property-theft-5664616)
+    ![House Appropriations Chair Tom Cole Survives Primary Challenge](https://img.theepochtimes.com/assets/uploads/2023/03/01/GettyImages-1470066447-205x123.jpg.webp)](https://www.theepochtimes.com/us/house-appropriations-chair-tom-cole-survives-primary-challenge-5670927)
+* [Baseball Icon Willie Mays Dies at 93](https://www.theepochtimes.com/sports/baseball-icon-willie-mays-dies-at-93-post-5671095)
     
-    7hr By [Dorothy Li](https://www.theepochtimes.com/author/dorothy-li)
+    6hr By [Rachel Acenas](https://www.theepochtimes.com/author/rachel-acenas)
     
-    [![Bipartisan Group of Senators Seeks Report on DOJ Actions Against CCP Intellectual Property Theft](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Baseball Icon Willie Mays Dies at 93](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Bipartisan Group of Senators Seeks Report on DOJ Actions Against CCP Intellectual Property Theft](https://img.theepochtimes.com/assets/uploads/2024/06/07/id5664647-GettyImages-2149319917-2-205x123.jpg.webp)](https://www.theepochtimes.com/us/bipartisan-group-of-senators-wants-doj-to-outline-measures-against-ccp-intellectual-property-theft-5664616)
-* [Fetal Abnormalities and Low Alcohol Exposure: Study](https://www.theepochtimes.com/health/fetal-abnormalities-and-low-alcohol-exposure-study-5656824)
+    ![Baseball Icon Willie Mays Dies at 93](https://img.theepochtimes.com/assets/uploads/2024/06/19/id5671110-Willie-Mays-AP24170453478172-205x123.jpg.webp)](https://www.theepochtimes.com/sports/baseball-icon-willie-mays-dies-at-93-post-5671095)
+* [Hung Cao Wins Virginia Senate GOP Primary](https://www.theepochtimes.com/us/hung-cao-wins-virginia-senate-gop-primary-5671035)
     
-    7hr By [Zrinka Peters](https://www.theepochtimes.com/author/zrinka-peters)
+    8hr By [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord)
     
-    [![Fetal Abnormalities and Low Alcohol Exposure: Study](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Hung Cao Wins Virginia Senate GOP Primary](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Fetal Abnormalities and Low Alcohol Exposure: Study](https://img.theepochtimes.com/assets/uploads/2024/06/05/id5663309-shutterstock_488109652-205x123.jpg.webp)](https://www.theepochtimes.com/health/fetal-abnormalities-and-low-alcohol-exposure-study-5656824)
-* [Arkansas Supreme Court Lets Judges Ban Guns in Courtrooms](https://www.theepochtimes.com/us/arkansas-supreme-court-lets-judges-ban-guns-in-courtrooms-5664883)
+    ![Hung Cao Wins Virginia Senate GOP Primary](https://img.theepochtimes.com/assets/uploads/2022/09/18/01-DSC06314-Hung-Cao-205x123.jpg.webp)](https://www.theepochtimes.com/us/hung-cao-wins-virginia-senate-gop-primary-5671035)
+* [GOP Lawmakers File Legislation to Exempt Tips From Federal Taxes](https://www.theepochtimes.com/us/gop-representatives-file-legislation-to-exempt-tips-from-federal-taxes-5670849)
     
-    10hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    11hr By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
     
-    [![Arkansas Supreme Court Lets Judges Ban Guns in Courtrooms](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![GOP Lawmakers File Legislation to Exempt Tips From Federal Taxes](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Arkansas Supreme Court Lets Judges Ban Guns in Courtrooms](https://img.theepochtimes.com/assets/uploads/2022/06/01/handgun-in-holster-205x123.jpg.webp)](https://www.theepochtimes.com/us/arkansas-supreme-court-lets-judges-ban-guns-in-courtrooms-5664883)
-* [Bipartisan Congressional Baseball Game Provides Respite From Hyper-Partisanship](https://www.theepochtimes.com/us/sked-8-a-m-june-8-bipartisan-congressional-baseball-game-provides-respite-from-hyper-partisanship-5661593)
+    ![GOP Lawmakers File Legislation to Exempt Tips From Federal Taxes](https://img.theepochtimes.com/assets/uploads/2024/06/18/id5671060-GettyImages-1241079913KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/gop-representatives-file-legislation-to-exempt-tips-from-federal-taxes-5670849)
+* [Boeing CEO Regrets Door Panel Blowout, Says Company ‘Took Responsibility’ for Incidents](https://www.theepochtimes.com/us/boeing-ceo-regrets-door-panel-blowout-says-company-took-responsibility-for-incidents-5670810)
     
-    10hr By [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman)
+    11hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
     
-    [![Bipartisan Congressional Baseball Game Provides Respite From Hyper-Partisanship](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Boeing CEO Regrets Door Panel Blowout, Says Company ‘Took Responsibility’ for Incidents](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Bipartisan Congressional Baseball Game Provides Respite From Hyper-Partisanship](https://img.theepochtimes.com/assets/uploads/2024/06/07/id5664347-unnamed-61-205x123.jpg.webp)](https://www.theepochtimes.com/us/sked-8-a-m-june-8-bipartisan-congressional-baseball-game-provides-respite-from-hyper-partisanship-5661593)
+    ![Boeing CEO Regrets Door Panel Blowout, Says Company ‘Took Responsibility’ for Incidents](https://img.theepochtimes.com/assets/uploads/2024/06/18/id5671063-calhoanKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/boeing-ceo-regrets-door-panel-blowout-says-company-took-responsibility-for-incidents-5670810)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
@@ -291,7 +291,7 @@ DOWNLOAD OUR APP
     * [New York News](https://www.theepochtimes.com/us/nyc)
     * [San Francisco](https://www.theepochtimes.com/us/nor-cal-san-francisco)
     * [Los Angeles](https://www.theepochtimes.com/us/so-cal-los-angeles)
-* [Opinion](https://www.theepochtimes.com/opinion)
+* [Perspectives](https://www.theepochtimes.com/opinion)
     * [Thinking About China](https://www.theepochtimes.com/opinion/thinking-about-china)
     * [Viewpoints](https://www.theepochtimes.com/opinion/viewpoints)
     * [Unbridled Evil: The Corrupt Reign of Jiang Zemin in China](https://www.theepochtimes.com/jiang-zemin-story)
