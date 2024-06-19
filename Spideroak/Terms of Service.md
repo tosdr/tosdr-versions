@@ -1,62 +1,50 @@
-[![SpiderOak](data:image/svg+xml;nitro-empty-id=Mjc5OjMzOA==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODAwIDE4NSIgd2lkdGg9IjgwMCIgaGVpZ2h0PSIxODUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)![SpiderOak](data:image/svg+xml;nitro-empty-id=Mjc5OjY4NQ==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODAwIDE4NSIgd2lkdGg9IjgwMCIgaGVpZ2h0PSIxODUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://spideroak.com/)
+[![SpiderOak](data:image/svg+xml;nitro-empty-id=MjczOjMzOA==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODAwIDE4NSIgd2lkdGg9IjgwMCIgaGVpZ2h0PSIxODUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)![SpiderOak](data:image/svg+xml;nitro-empty-id=MjczOjY4NQ==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODAwIDE4NSIgd2lkdGg9IjgwMCIgaGVpZ2h0PSIxODUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://spideroak.com/)
 
 * [Home](https://spideroak.com/ "Space Cybersecurity")
-* About
+* [About](https://spideroak.com/about/)
     
-    * [Overview](https://spideroak.com/about)
-    * [Team](https://spideroak.com/about#team)
     * [Advisory Board](https://spideroak.com/about#advisoryboard)
-    * Industries
-        
-        * [Space Cybersecurity](https://spideroak.com/space/)
-        * [Defense and Intelligence](https://spideroak.com/defense-and-intelligence/)
-        
     * [Careers](https://boards.greenhouse.io/spideroak)
+    * [Team](https://spideroak.com/about#team)
     
-* [Orbitsecure](https://spideroak.com/orbitsecure/)
-* [News](https://spideroak.com/news)
+* [Product](https://spideroak.com/orbitsecure/)
     
-    * [News](https://spideroak.com/news)
-    * [Podcasts](https://spideroak.com/podcasts/)
+    * [OrbitSecure](https://spideroak.com/orbitsecure/)
     
-* [Solutions](#)
+* [Solutions](https://spideroak.com/solutions/)
     
-    * [Securing Space-Based Communications](https://spideroak.com/securing-space-based-communications/)
-    * [Securing Mission Operations](https://spideroak.com/securing-mission-operations/)
-    * [Securing Remote Sensing](https://spideroak.com/securing-remote-sensing/)
-    * [Securing Terrestrial Communications and Collaboration](https://spideroak.com/securing-terrestrial-communications-and-collaboration/)
+    * [Space Cybersecurity](https://spideroak.com/space/)
+    * [Mission Operations](https://spideroak.com/mission-operations/)
+    * [Remote Sensing](https://spideroak.com/remote-sensing/)
+    * [Space-Based Communications](https://spideroak.com/space-based-communications/)
+    * [Terrestrial Communications and Collaboration](https://spideroak.com/terrestrial-communications-and-collaboration/)
     
+* [In The News](https://spideroak.com/news)
 
-[![SpiderOak](data:image/svg+xml;nitro-empty-id=Mzc5OjMzOA==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODAwIDE4NSIgd2lkdGg9IjgwMCIgaGVpZ2h0PSIxODUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)![SpiderOak](data:image/svg+xml;nitro-empty-id=Mzc5OjY4NQ==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODAwIDE4NSIgd2lkdGg9IjgwMCIgaGVpZ2h0PSIxODUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://spideroak.com/)
+[![SpiderOak](data:image/svg+xml;nitro-empty-id=MzYyOjMzOA==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODAwIDE4NSIgd2lkdGg9IjgwMCIgaGVpZ2h0PSIxODUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)![SpiderOak](data:image/svg+xml;nitro-empty-id=MzYyOjY4NQ==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODAwIDE4NSIgd2lkdGg9IjgwMCIgaGVpZ2h0PSIxODUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://spideroak.com/)
 
-[![SpiderOak](data:image/svg+xml;nitro-empty-id=NDA4OjMzOA==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODAwIDE4NSIgd2lkdGg9IjgwMCIgaGVpZ2h0PSIxODUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://spideroak.com/)
+[![SpiderOak](data:image/svg+xml;nitro-empty-id=MzkxOjMzOA==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODAwIDE4NSIgd2lkdGg9IjgwMCIgaGVpZ2h0PSIxODUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://spideroak.com/)
 
 * [Home](https://spideroak.com/ "Space Cybersecurity")
-* About
+* [About](https://spideroak.com/about/)
     
-    * [Overview](https://spideroak.com/about)
-    * [Team](https://spideroak.com/about#team)
     * [Advisory Board](https://spideroak.com/about#advisoryboard)
-    * Industries
-        
-        * [Space Cybersecurity](https://spideroak.com/space/)
-        * [Defense and Intelligence](https://spideroak.com/defense-and-intelligence/)
-        
     * [Careers](https://boards.greenhouse.io/spideroak)
+    * [Team](https://spideroak.com/about#team)
     
-* [Orbitsecure](https://spideroak.com/orbitsecure/)
-* [News](https://spideroak.com/news)
+* [Product](https://spideroak.com/orbitsecure/)
     
-    * [News](https://spideroak.com/news)
-    * [Podcasts](https://spideroak.com/podcasts/)
+    * [OrbitSecure](https://spideroak.com/orbitsecure/)
     
-* [Solutions](#)
+* [Solutions](https://spideroak.com/solutions/)
     
-    * [Securing Space-Based Communications](https://spideroak.com/securing-space-based-communications/)
-    * [Securing Mission Operations](https://spideroak.com/securing-mission-operations/)
-    * [Securing Remote Sensing](https://spideroak.com/securing-remote-sensing/)
-    * [Securing Terrestrial Communications and Collaboration](https://spideroak.com/securing-terrestrial-communications-and-collaboration/)
+    * [Space Cybersecurity](https://spideroak.com/space/)
+    * [Mission Operations](https://spideroak.com/mission-operations/)
+    * [Remote Sensing](https://spideroak.com/remote-sensing/)
+    * [Space-Based Communications](https://spideroak.com/space-based-communications/)
+    * [Terrestrial Communications and Collaboration](https://spideroak.com/terrestrial-communications-and-collaboration/)
     
+* [In The News](https://spideroak.com/news)
 
 Service Agreement
 =================
@@ -192,7 +180,7 @@ Contact Our Team to Learn How SpiderOak Can Eliminate the Risk from Your Next Mi
 
 [Request a Demo](https://spideroak.com/request-a-demo/)
 
-[![SpiderOak](data:image/svg+xml;nitro-empty-id=NjEyOjc3Ng==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzAwIDY5IiB3aWR0aD0iMzAwIiBoZWlnaHQ9IjY5IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==)](https://spideroak.com/)
+[![SpiderOak](data:image/svg+xml;nitro-empty-id=NTg0Ojc3Ng==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzAwIDY5IiB3aWR0aD0iMzAwIiBoZWlnaHQ9IjY5IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==)](https://spideroak.com/)
 
 #### About
 
