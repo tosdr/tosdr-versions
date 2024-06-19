@@ -251,16 +251,23 @@ If you have any questions about this Privacy Policy, please contact us:
 
 By email: operations@freedomain.com
 
-Join Stefan Molyneux's Freedomain Community
--------------------------------------------
+Join Stefan Molyneux's Freedomain Community on Locals
+-----------------------------------------------------
 
-Become a part of the movement. Get exclusive content. Interact with Stefan Molyneux.
+Get my new series on the Truth About the French Revolution, access to the audiobook for my new book ‘Peaceful Parenting,’ StefBOT-AI, private livestreams, premium call in shows, the 22 Part History of Philosophers series and more!  
 
-[Become A Member](https://freedomain.locals.com/login)
+[Become A Member on LOCALS](https://freedomain.locals.com/register)
 
-Already have an account? [Log in](https://freedomain.locals.com/login)
+Already have a Locals account? [Log in](https://freedomain.locals.com/login)
 
-[Let me view this content first](https://freedomain.locals.com/?showPosts=1) 
+[Let me view this content first](https://freedomain.locals.com/landing/video) 
+
+Support Stefan Molyneux on freedomain.com
+-----------------------------------------
+
+[SUBSCRIBE ON FREEDOMAIN](https://freedomain.com/membership-account/membership-levels/)
+
+Already have a freedomain.com account? [Log in](https://freedomain.com/membership-account/)
 
 Support the show, using a [variety of donation methods](https://freedomain.com/donate/)
 
