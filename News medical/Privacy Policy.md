@@ -372,50 +372,50 @@ Last Updated: Feb 23, 2024
 * [Top Health  
     Articles](#tabs-3)
 
-* [![Intermittent fasting with protein pacing trumps calorie restriction in gut health and weight loss](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240602/Intermittent-fasting-with-protein-pacing-trumps-calorie-restriction-in-gut-health-and-weight-loss.aspx)
+* [![Study reveals the effects of protein-rich diets on the gut microbiome and overall health](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240616/Study-reveals-the-effects-of-protein-rich-diets-on-the-gut-microbiome-and-overall-health.aspx)
     
-    [Intermittent fasting with protein pacing trumps calorie restriction in gut health and weight loss](https://www.news-medical.net/news/20240602/Intermittent-fasting-with-protein-pacing-trumps-calorie-restriction-in-gut-health-and-weight-loss.aspx)
+    [Study reveals the effects of protein-rich diets on the gut microbiome and overall health](https://www.news-medical.net/news/20240616/Study-reveals-the-effects-of-protein-rich-diets-on-the-gut-microbiome-and-overall-health.aspx)
     
-* [![Garlic proves potent in reducing blood sugar and cholesterol, study reveals](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240602/Garlic-proves-potent-in-reducing-blood-sugar-and-cholesterol-study-reveals.aspx)
+* [![New recommendations on vitamin D intake for children, pregnant people, adults over 75 and those with high-risk prediabetes](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240614/New-recommendations-on-vitamin-D-intake-for-children-pregnant-people-adults-over-75-and-those-with-high-risk-prediabetes.aspx)
     
-    [Garlic proves potent in reducing blood sugar and cholesterol, study reveals](https://www.news-medical.net/news/20240602/Garlic-proves-potent-in-reducing-blood-sugar-and-cholesterol-study-reveals.aspx)
+    [New recommendations on vitamin D intake for children, pregnant people, adults over 75 and those with high-risk prediabetes](https://www.news-medical.net/news/20240614/New-recommendations-on-vitamin-D-intake-for-children-pregnant-people-adults-over-75-and-those-with-high-risk-prediabetes.aspx)
     
-* [![Discovery of antibiotic lolamicin that targets deadly bacteria without harming gut microbiome](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240604/Discovery-of-antibiotic-lolamicin-that-targets-deadly-bacteria-without-harming-gut-microbiome.aspx)
+* [![The unregulated sale of Amanita muscaria mushrooms needs a public health response](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240612/The-unregulated-sale-of-Amanita-muscaria-mushrooms-needs-a-public-health-response.aspx)
     
-    [Discovery of antibiotic lolamicin that targets deadly bacteria without harming gut microbiome](https://www.news-medical.net/news/20240604/Discovery-of-antibiotic-lolamicin-that-targets-deadly-bacteria-without-harming-gut-microbiome.aspx)
+    [The unregulated sale of Amanita muscaria mushrooms needs a public health response](https://www.news-medical.net/news/20240612/The-unregulated-sale-of-Amanita-muscaria-mushrooms-needs-a-public-health-response.aspx)
     
-* [![An Arm and a Leg: Medicaid recipients struggle to stay enrolled](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240604/An-Arm-and-a-Leg-Medicaid-recipients-struggle-to-stay-enrolled.aspx)
+* [![New link between sulfur metabolites in gut microbiome and neurodegenerative diseases revealed](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240616/New-link-between-sulfur-metabolites-in-gut-microbiome-and-neurodegenerative-diseases-revealed.aspx)
     
-    [An Arm and a Leg: Medicaid recipients struggle to stay enrolled](https://www.news-medical.net/news/20240604/An-Arm-and-a-Leg-Medicaid-recipients-struggle-to-stay-enrolled.aspx)
+    [New link between sulfur metabolites in gut microbiome and neurodegenerative diseases revealed](https://www.news-medical.net/news/20240616/New-link-between-sulfur-metabolites-in-gut-microbiome-and-neurodegenerative-diseases-revealed.aspx)
     
-* [![Chronic caffeine intake may impact brain chemistry in Parkinson's disease](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240603/Chronic-caffeine-intake-may-impact-brain-chemistry-in-Parkinsons-disease.aspx)
+* [![Study identifies drug target to prevent autonomic dysfunction after spinal cord injury](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240612/Study-identifies-drug-target-to-prevent-autonomic-dysfunction-after-spinal-cord-injury.aspx)
     
-    [Chronic caffeine intake may impact brain chemistry in Parkinson's disease](https://www.news-medical.net/news/20240603/Chronic-caffeine-intake-may-impact-brain-chemistry-in-Parkinsons-disease.aspx)
+    [Study identifies drug target to prevent autonomic dysfunction after spinal cord injury](https://www.news-medical.net/news/20240612/Study-identifies-drug-target-to-prevent-autonomic-dysfunction-after-spinal-cord-injury.aspx)
     
 
-[### Discover how SciY empowers scientists
+[### Revolutionizing Life Science: An Interview with SCIEX on ASMS, the SCIEX 7500+ System, and AI-Driven Quantitation
 
-Santi Dominguez
+Jose Castro-Perez and Chris Lock, SCIEX
 
-In this interview, NewsMedical talks to Santi Dominguez about the genesis of SCiY, and how the consortium intends to empower scientists and researchers.
+In our latest interview, News Medical speaks with SCIEX, a global leader in life science analytical technologies, about their exciting announcements at ASMS, the SCIEX 7500+ System, and how they utilize AI quantitation software to streamline solutions.
 
-![Discover how SciY empowers scientists](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240531/Discover-how-SciY-empowers-scientists.aspx)
+![Revolutionizing Life Science: An Interview with SCIEX on ASMS, the SCIEX 7500+ System, and AI-Driven Quantitation](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240614/Revolutionizing-Life-Science-An-Interview-with-SCIEX-on-ASMS-the-SCIEX-75002b-System-and-AI-Driven-Quantitation.aspx)
 
-[### Why use light scattering to analyze proteins and viral vectors?
+[### From Discovery Biology to ELRIG Chair
 
-Dr. Michelle Chen
+Melanie Leveridge
 
-n this interview, Dr. Michelle Chen, Senior Director of Analytical Sciences at Wyatt Technology, talks to NewsMedical about how to use light scattering techniques to analyze proteins for their multi-attribute quantification (MAQ).
+In this interview, we speak with Melanie Leveridge, Vice President of Discovery Biology at AstraZeneca and Chair of the Board for ELRIG UK, to discuss her extensive career in the pharmaceutical industry, her role in fostering scientific innovation, and her vision for ELRIG's future.
 
-![Why use light scattering to analyze proteins and viral vectors?](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240529/Why-use-light-scattering-to-analyze-proteins-and-viral-vectors.aspx)
+![From Discovery Biology to ELRIG Chair](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240613/From-Discovery-Biology-to-ELRIG-Chair-A-Conversation-with-Melanie-Leveridge.aspx)
 
-[### Changing the landscape of R&D to build clinical success from the ground up
+[### Breathing New Life into Diagnostics: Plasmion's SICRIT Technology
 
-Amanda Jones
+Jan Wolf
 
-In this interview, NewsMedical talks to Amanda Jones at Revvity about the strategies and solutions available to revolutionize the landscape of R&D in clinical research.
+Revolutionizing Non-Invasive Diagnostics with Plasmion’s SICRIT Breath Analysis.
 
-![Changing the landscape of R&D to build clinical success from the ground up](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240528/Changing-the-landscape-of-RD-to-build-clinical-success-from-the-ground-up.aspx)
+![Breathing New Life into Diagnostics: Plasmion's SICRIT Technology](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240611/Breathing-New-Life-into-Diagnostics-Plasmions-SICRITc2ae-Technology.aspx)
 
 * [![Is There a Brain Microbiome?](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/health/Is-there-a-brain-microbiome.aspx)
     
@@ -425,41 +425,41 @@ In this interview, NewsMedical talks to Amanda Jones at Revvity about the strate
     
     [What is the Role of Melatonin in Sleep Regulation?](https://www.news-medical.net/health/What-is-the-Role-of-Melatonin-in-Sleep-Regulation.aspx)
     
-* [![Augmented Reality in Anatomy Education and Training](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/health/Augmented-Reality-in-Anatomy-Education-and-Training.aspx)
+* [![The Potential of Peptide Therapeutics in Treating Chronic Diseases](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/health/The-Potential-of-Peptide-Therapeutics-in-Treating-Chronic-Diseases.aspx)
     
-    [Augmented Reality in Anatomy Education and Training](https://www.news-medical.net/health/Augmented-Reality-in-Anatomy-Education-and-Training.aspx)
+    [The Potential of Peptide Therapeutics in Treating Chronic Diseases](https://www.news-medical.net/health/The-Potential-of-Peptide-Therapeutics-in-Treating-Chronic-Diseases.aspx)
     
 * [![Excessive Nighttime Urination (Nocturnal Polyuria)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/health/Excessive-Nighttime-Urination-(Nocturnal-Polyuria).aspx)
     
     [Excessive Nighttime Urination (Nocturnal Polyuria)](https://www.news-medical.net/health/Excessive-Nighttime-Urination-(Nocturnal-Polyuria).aspx)
     
-* [![The Rise of Remote Pulse Oximeters](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/health/The-Rise-of-Remote-Pulse-Oximeters.aspx)
+* [![Lung Cancer in Women: Understanding the Increasing Risk](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/health/Lung-Cancer-in-Women-Understanding-the-Increasing-Risk.aspx)
     
-    [The Rise of Remote Pulse Oximeters](https://www.news-medical.net/health/The-Rise-of-Remote-Pulse-Oximeters.aspx)
+    [Lung Cancer in Women: Understanding the Increasing Risk](https://www.news-medical.net/health/Lung-Cancer-in-Women-Understanding-the-Increasing-Risk.aspx)
     
 
 Latest News
 -----------
 
-* [![Novel insights into the underlying, contributing, and direct causes of death in Australia](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240608/Novel-insights-into-the-underlying-contributing-and-direct-causes-of-death-in-Australia.aspx)
+* [![Study shows effectiveness of treating pancreatic cancer patients with chemotherapy before surgery](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240619/Study-shows-effectiveness-of-treating-pancreatic-cancer-patients-with-chemotherapy-before-surgery.aspx)
     
-    [Novel insights into the underlying, contributing, and direct causes of death in Australia](https://www.news-medical.net/news/20240608/Novel-insights-into-the-underlying-contributing-and-direct-causes-of-death-in-Australia.aspx)
+    [Study shows effectiveness of treating pancreatic cancer patients with chemotherapy before surgery](https://www.news-medical.net/news/20240619/Study-shows-effectiveness-of-treating-pancreatic-cancer-patients-with-chemotherapy-before-surgery.aspx)
     
-* [![Experts call for clear rules governing human embryo research](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240608/Experts-call-for-clear-rules-governing-human-embryo-research.aspx)
+* [![Mental well-being crucial for healthy aging, new study reveals](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240618/Mental-well-being-crucial-for-healthy-aging-new-study-reveals.aspx)
     
-    [Experts call for clear rules governing human embryo research](https://www.news-medical.net/news/20240608/Experts-call-for-clear-rules-governing-human-embryo-research.aspx)
+    [Mental well-being crucial for healthy aging, new study reveals](https://www.news-medical.net/news/20240618/Mental-well-being-crucial-for-healthy-aging-new-study-reveals.aspx)
     
-* [![Berotralstat: A promising oral treatment for hereditary angioedema with normal C1-inhibitor](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240608/Berotralstat-A-promising-oral-treatment-for-hereditary-angioedema-with-normal-C1-inhibitor.aspx)
+* [![Study shows vaccines cut long COVID risk, especially for those with preexisting conditions](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240618/Study-shows-vaccines-cut-long-COVID-risk-especially-for-those-with-preexisting-conditions.aspx)
     
-    [Berotralstat: A promising oral treatment for hereditary angioedema with normal C1-inhibitor](https://www.news-medical.net/news/20240608/Berotralstat-A-promising-oral-treatment-for-hereditary-angioedema-with-normal-C1-inhibitor.aspx)
+    [Study shows vaccines cut long COVID risk, especially for those with preexisting conditions](https://www.news-medical.net/news/20240618/Study-shows-vaccines-cut-long-COVID-risk-especially-for-those-with-preexisting-conditions.aspx)
     
-* [![Doxycycline shows promise in reducing deaths and seizures from nodding syndrome](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240608/Doxycycline-shows-promise-in-reducing-deaths-and-seizures-from-nodding-syndrome.aspx)
+* [![Study reveals lasting quality of life inequities in breast cancer patients](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240618/Study-reveals-lasting-quality-of-life-inequities-in-breast-cancer-patients.aspx)
     
-    [Doxycycline shows promise in reducing deaths and seizures from nodding syndrome](https://www.news-medical.net/news/20240608/Doxycycline-shows-promise-in-reducing-deaths-and-seizures-from-nodding-syndrome.aspx)
+    [Study reveals lasting quality of life inequities in breast cancer patients](https://www.news-medical.net/news/20240618/Study-reveals-lasting-quality-of-life-inequities-in-breast-cancer-patients.aspx)
     
-* [![WHO and FIND join forces to accelerate diagnostic innovation and access](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240608/WHO-and-FIND-join-forces-to-accelerate-diagnostic-innovation-and-access.aspx)
+* [![Study: Anti-inflammatory drug celecoxib benefits PIK3CA-mutated colon cancer patients](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240618/Study-Anti-inflammatory-drug-celecoxib-benefits-PIK3CA-mutated-colon-cancer-patients.aspx)
     
-    [WHO and FIND join forces to accelerate diagnostic innovation and access](https://www.news-medical.net/news/20240608/WHO-and-FIND-join-forces-to-accelerate-diagnostic-innovation-and-access.aspx)
+    [Study: Anti-inflammatory drug celecoxib benefits PIK3CA-mutated colon cancer patients](https://www.news-medical.net/news/20240618/Study-Anti-inflammatory-drug-celecoxib-benefits-PIK3CA-mutated-colon-cancer-patients.aspx)
     
 
  [![NewsGuard](https://d2jx2rerrg6sh3.cloudfront.net/images/newsguard-logo.svg) ![NewsGuard 100/100 Score](https://d2jx2rerrg6sh3.cloudfront.net/images/newsguard-100.svg)](https://www.news-medical.net/medical/newsguard)
@@ -533,7 +533,7 @@ News-Medical.Net provides this medical information service in accordance with th
 
 Update Your Privacy Preferences
 
-Last Updated: Sunday 9 Jun 2024
+Last Updated: Wednesday 19 Jun 2024
 
 [![AZoNetwork](https://www.azonetwork.com/images/azonetwork_logo_footer_80.png)](https://www.azonetwork.com/)
 
