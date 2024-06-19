@@ -639,6 +639,7 @@ Location
 * [ ] Manipur
 * [ ] Meghalaya
 * [ ] Mizoram
+* [ ] Mohali
 * [ ] MP
 * [ ] Mumbai
 * [ ] Mysore
@@ -715,7 +716,6 @@ Location
 * [ ] Zambia
 * [ ] Zimbabwe
 * [ ] Remote
-* [ ] Mohali
 * [ ] Others
 * [ ] 15+ years
 
@@ -752,17 +752,17 @@ Posting
 
 #### Trending Courses
 
-[![IIM Kashipur | Executive Post Graduate Diploma Programme in Leadership & Strategy](https://d3qr48lsanmyop.cloudfront.net/1715067873241.jpeg)
+[![IIDE | Post Graduate Programme in Digital Marketing](https://d3qr48lsanmyop.cloudfront.net/1718702502532.jpeg)
 
-IIM Kashipur | Executive Post Graduate Diploma Programme in Leadership & Strategy](https://www.iimjobs.com/course/iim-kashipur-executive-post-graduate-diploma-programme-in-leadership-strategy-2618.html?ref=lc&reforg=learning&refinv=learning?reforg=search&refinv=search)
+IIDE | Post Graduate Programme in Digital Marketing](https://www.iimjobs.com/course/iide-post-graduate-programme-in-digital-marketing-2640.html?ref=lc&reforg=learning&refinv=learning?reforg=search&refinv=search)
 
 [![IM Kozhikode | Executive Post Graduate Programme in Management](https://d3qr48lsanmyop.cloudfront.net/1715761829801.jpeg)
 
 IM Kozhikode | Executive Post Graduate Programme in Management](https://www.iimjobs.com/course/iim-kozhikode-executive-post-graduate-programme-in-management-batch-17-2631.html?ref=lc&reforg=learning&refinv=learning?reforg=search&refinv=search)
 
-[![ISB Executive Education | Operational Execellence for Leaders](https://d3qr48lsanmyop.cloudfront.net/1716440868564.jpeg)
+[![Nirwan University Jaipur | Ph.D. (Doctor of Philosophy)](https://d3qr48lsanmyop.cloudfront.net/1718015222376.jpeg)
 
-ISB Executive Education | Operational Execellence for Leaders](https://www.iimjobs.com/course/ISB-Executive%20Education%20%7C%20Operational%20Execellence%20for%20Leaders-2583.html?reforg=learningcat_16&refinv=learning?reforg=search&refinv=search)
+Nirwan University Jaipur | Ph.D. (Doctor of Philosophy)](https://www.iimjobs.com/course/nirwan-university-jaipur-phd-doctor-of-philosophy-2610.html?ref=lc&reforg=learning&refinv=learning?reforg=search&refinv=search)
 
 [![SDA Bocconi Asia Center | International Executive Master in Business](https://d3qr48lsanmyop.cloudfront.net/1717493188360.jpeg)
 
