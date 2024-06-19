@@ -178,7 +178,6 @@ SUPPORT
 * [Product Environmental Information](https://consumer.huawei.com/en/support/product-environmental-information/ "Product Environmental Information")
 * [Call Us](https://consumer.huawei.com/en/support/hotline/ "Call Us")
 * [HiSuite](https://consumer.huawei.com/en/support/hisuite/ "HiSuite")
-* [Beta](https://consumer.huawei.com/en/support/fut/ "Beta")
 
 ABOUT HUAWEI
 
