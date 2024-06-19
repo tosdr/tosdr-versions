@@ -156,6 +156,10 @@ If you have any complaints about your privacy rights or how your health informat
 
 You may also file a written complaint with the Secretary of the U.S. Department of Health and Human Services, Office for Civil Rights. We will not retaliate against you in any way if you choose to file a complaint.
 
+#### **XI. Ensuring Your Information Remains Confidential**
+
+No mobile information will be shared with third parties/affiliates for marketing/promotional purposes. All other categories exclude text messaging originator opt-in data and consent; this information will not be shared with any third parties. 
+
 ![](https://childrenandteendentalfl.com/wp-content/uploads/2020/10/ctdfl-logo.png)
 
 © 2021 All Rights Reserved.
