@@ -60,6 +60,8 @@
     
     * [Take Part](https://www.channel4.com/4viewers/take-part)
         
+        * [Bake Off: The Professionals](https://www.channel4.com/4viewers/take-part/Bake-off-the-professionals)
+        * [The Channel 4 Health Debate](https://www.channel4.com/4viewers/take-part/channel-4-health-debate)
         * [Come Dine With Me](https://www.channel4.com/4viewers/take-part/come-dine-me)
         * [Countdown](https://www.channel4.com/4viewers/take-part/countdown)
         * [First Dates](https://www.channel4.com/4viewers/take-part/first-dates)
@@ -88,7 +90,6 @@
         * [4Viewers Blog](https://www.channel4.com/4viewers/community/blog)
         * [Formula 1 on Channel 4](https://www.channel4.com/4viewers/blog/formula-1-2024)
         * [Taskmaster: The Live Experience](https://www.channel4.com/4viewers/blog/taskmaster-experience)
-        * [England International Football Games on Channel 4](https://www.channel4.com/4viewers/blog/uefa-league)
         * [Walter Presents](https://www.channel4.com/4viewers/blog/walter-presents)
         * [Energy Tips from 4](https://www.channel4.com/4viewers/blog/energy-saving-tips)
         * [Help! I need somebody, not just anybody](https://www.channel4.com/4viewers/news/help-i-need-somebody-not-just-anybody)
@@ -103,6 +104,7 @@
         
     
 * [C4 Investigations](https://www.channel4.com/4viewers/c4IU)
+* [Loneliness](https://www.channel4.com/4viewers/loneliness)
 * [FAQs](https://www.channel4.com/4viewers/faqs)
     
     * [Channel 4 streaming - Website and Apps](https://www.channel4.com/4viewers/faqs/category/36)
@@ -129,7 +131,7 @@
 Channel 4 Privacy Policy
 ========================
 
-This policy applies on and from 25 September 2023
+This policy applies on and from 18 June 2024
 
 **Keeping your data safe**  
 At Channel 4 we are committed to keeping your personal data safe and secure, and handling it in accordance with our legal obligations. This Privacy Policy sets out in detail the purposes for which we process your personal data, who we share it with, what rights you have in relation to that data and everything else we think it's important for you to know.
@@ -333,13 +335,15 @@ Targeted advertisements on Channel 4
 
 4.6.3 Our third party advanced data platform, Mediarithmics, also provides advertisers with the opportunity to be able to build audience segments for targeting their ads on Channel 4 to individuals using a selection of Acxiom’s proprietary pre-defined segments, such as your household composition, interests and financial status (as described above). We enable them to select the segment names of their choice but they never have access to your data as part of that process. We do not offer this option on iOS or tvOS devices.
 
-4.6.4 We tell our advertisers how many people in a particular audience have seen their specific advertisements and we provide them with your IP address so they can check that our viewing count is accurate. This process is usually carried out by a company appointed by the advertiser’s advertising agency. This enables those advertisers to assess the effectiveness of their advertising.
+4.6.4 We also measure the effectiveness of our advertising (for example, whether you visit an advertiser’s website after viewing an advert on Channel 4), but the advertiser does not have access to your data as part of this process.
 
-4.6.5 We may also share “pseudonymised” versions of your personal data with certain advertisers in order to help them carry out the targeting of advertisements on Channel 4’s platforms. “Pseudonymisation” means that the relevant data will be changed from personal identifiable data to a coded version of that data. For example, we create anonymous temporary advertiser IDs for our users that we share with advertisers so they can cap the number of times you see a particular advertisement: however advertisers are not able to identify you from these IDs.
+4.6.5 We tell our advertisers how many people in a particular audience have seen their specific advertisements and we provide them with your IP address so they can check that our viewing count is accurate. This process is usually carried out by a company appointed by the advertiser’s advertising agency. This enables those advertisers to assess the effectiveness of their advertising.
 
-4.6.6 You can opt out of targeted advertisements at any time by changing your preferences in the "Privacy settings" section of your Account Settings. It can take up to 72 hours for the change to take effect. If you opt out, we will still show you advertisements that are relevant to your country, region and city.
+4.6.6 We may also share “pseudonymised” versions of your personal data with certain advertisers in order to help them carry out the targeting of advertisements on Channel 4’s platforms. “Pseudonymisation” means that the relevant data will be changed from personal identifiable data to a coded version of that data. For example, we create anonymous temporary advertiser IDs for our users that we share with advertisers so they can cap the number of times you see a particular advertisement: however advertisers are not able to identify you from these IDs.
 
-4.6.7 We and other third parties also use cookies to assist in targeted advertising. You can find out more about this in our [Cookies Policy](https://www.channel4.com/4viewers/cookies).
+4.6.7 You can opt out of targeted advertisements at any time by changing your preferences in the "Privacy settings" section of your Account Settings. It can take up to 72 hours for the change to take effect. If you opt out, we will still show you advertisements that are relevant to your country, region and city.
+
+4.6.8 We and other third parties also use cookies to assist in targeted advertising. You can find out more about this in our [Cookies Policy](https://www.channel4.com/4viewers/cookies).
 
 4.7 Targeted Advertising on YouView
 
@@ -586,7 +590,7 @@ Targeted advertisements on Channel 4
 
 14.1 We may make changes to this Privacy Policy from time to time. Any changes we make will be posted on this page. We may also notify you by email if significant changes are made.
 
-Policy updated 25 September 2023
+Policy updated 18 June 2024
 
 Close the modal
 
