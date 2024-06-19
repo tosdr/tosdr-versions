@@ -20,8 +20,8 @@
     * [Blog](https://letsencrypt.org/blog/)
 * [Languages ![](/images/language-icon128px-black.png)](#) 
     * [✓ English](https://letsencrypt.org/privacy/)
-    * [Català](https://letsencrypt.org/ca/privacy/)
     * [Čeština](https://letsencrypt.org/cs/privacy/)
+    * [Català](https://letsencrypt.org/ca/privacy/)
     * [Greek](https://letsencrypt.org/el/privacy/)
     * [Polish](https://letsencrypt.org/pl/privacy/)
     * [Tamil](https://letsencrypt.org/ta/privacy/)
@@ -67,8 +67,8 @@
     * [Blog](https://letsencrypt.org/blog/)
 * [Languages ![](/images/language-icon128px-black.png)](#) 
     * [✓ English](https://letsencrypt.org/privacy/)
-    * [Català](https://letsencrypt.org/ca/privacy/)
     * [Čeština](https://letsencrypt.org/cs/privacy/)
+    * [Català](https://letsencrypt.org/ca/privacy/)
     * [Greek](https://letsencrypt.org/el/privacy/)
     * [Polish](https://letsencrypt.org/pl/privacy/)
     * [Tamil](https://letsencrypt.org/ta/privacy/)
@@ -99,6 +99,8 @@ Privacy Policy
 
 Privacy Policy
 ==============
+
+[Zobraz v češtině](https://letsencrypt.org/cs/privacy/)
 
 [Se på Dansk](https://letsencrypt.org/da/privacy/)
 
@@ -224,6 +226,8 @@ Individuals located in the European Economic Area (EEA) have certain rights in r
     
 
 For more information, or to report a privacy issue, please contact: [privacy@abetterinternet.org](mailto:privacy@abetterinternet.org).
+
+[Zobraz v češtině](https://letsencrypt.org/cs/privacy/)
 
 [Se på Dansk](https://letsencrypt.org/da/privacy/)
 
