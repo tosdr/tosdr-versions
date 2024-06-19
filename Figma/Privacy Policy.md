@@ -231,9 +231,9 @@ Privacy Policy
 
 Effective Date
 
-May 24, 2024
+June 12, 2024
 
-See all versionsMay 24, 2024January 19, 2024December 1, 2023June 19, 2023March 7, 2023December 12, 2022September 1, 2022August 8, 2022November 10, 2021August 31, 2021June 3, 2021April 15, 2021June 23, 2020November 5, 2018
+See all versionsJune 12, 2024May 24, 2024May 24, 2024January 19, 2024December 1, 2023June 19, 2023March 7, 2023December 12, 2022September 1, 2022August 8, 2022November 10, 2021August 31, 2021June 3, 2021April 15, 2021June 23, 2020November 5, 2018
 
 [1\. ABOUT](#_1-about)
 ----------------------
@@ -396,7 +396,9 @@ Legal Basis: Necessary for our legitimate interests (to use personal information
 
 We may share any personal information we collect with the following categories of third parties:
 
-**Other Users of Figma’s Services.** When you use the Services to collaborate or interact with others (including viewing files of other users), we will share certain information with your collaborators. For example, you can create content, which may contain information about you, and grant permission to others to see, share, edit, copy and download that content based on settings you or your administrator (if applicable) select. In addition, some of the collaboration features of the Services display some or all of your information to other Service users when you share or interact with specific content. For example, when you comment, we display your profile picture and name next to your comments so that other users with access to the comment know who made it. Similarly, when you join a team, your name, profile picture and contact information will be displayed in a list for other team members so they can find and interact with you. Finally, when you interact with a user’s file, information about your interaction, including your IP address and the actions you’ve taken in connection with the file, may be made available to the file’s administrator. Please note that while we require all our users to comply with our [acceptable use policy](https://www.figma.com/aup/), we are not responsible for privacy practices of users who receive information about you through the Services.
+**Other Users of Figma’s Services.** When you use the Services to collaborate or interact with others (including viewing files of other users), we will share certain information with your collaborators. For example, you can create content, which may contain information about you, and grant permission to others to see, share, edit, copy and download that content based on settings you or your administrator (if applicable) select. In addition, some of the collaboration features of the Services display some or all of your information to other Service users when you share or interact with specific content. For example, when you comment, we display your profile picture and name next to your comments so that other users with access to the comment know who made it. Similarly, when you join a team, your name, profile picture and contact information will be displayed in a list for other team members so they can find and interact with you. When you interact with a user’s file, information about your interaction, including your IP address and the actions you’ve taken in connection with the file, may be made available to the file’s administrator. If your Figma account has the “domain capture” functionality enabled, your name, email and profile picture (if you upload one) will be shared with other users across your Figma organization who share the same email domain. Please note that while we require all our users to comply with our [acceptable use policy](https://www.figma.com/aup/), we are not responsible for privacy practices of users who receive information about you through the Services.
+
+**Figma K12 Educational Accounts & Domain Capture.** Figma for Education’s Enterprise accounts have domain capture functionality enabled by default in order to protect against unauthorized access from users with a different email domain. With domain capture enabled your name, email and profile picture (if you upload one) will be shared with other users across your Figma organization. This should be noted if email domains are shared across multiple educational institutions.
 
 **The Public.**  Content can be made publicly available by you or others collaborating on it, and in such cases any information about you included in such content is also publicly available and can be indexed by search engines. You can check at any time whether particular content is public or private by viewing the content’s settings. In addition, in connection with your posting of content on Figma Community, we will publicly share your picture, name, user handle, and Twitter (or other social networking site) handle (to the extent you have provided us with this information).
 
@@ -560,8 +562,10 @@ We may revise this Privacy Policy from time to time at our sole discretion. If t
 
 If you have any questions about this Privacy Policy or our privacy practices, or if you wish to submit a request to exercise your rights as detailed in this Privacy Policy, please contact us at:
 
-Figma, Inc.  
-760 Market St, Floor 10  
+Figma, Inc.
+
+760 Market St, Floor 10
+
 San Francisco, CA 94102
 
 Email: [support@figma.com](mailto:support@figma.com)
