@@ -44,12 +44,16 @@
     
     * [RMM/Endpoint ManagementManage & Secure Anything](https://www.kaseya.com/solutions/rmm-endpoint-management/ "RMM/Endpoint Management")
     * [SecurityMulti-Layered Cyber Defense](https://www.kaseya.com/solutions/security/ "Security")
-    * [Audit & ComplianceIT Assessments & Reports](https://www.kaseya.com/solutions/audit-compliance/ "Audit & Compliance")
     * [Unified BackupProtect Mission-Critical Data](https://www.kaseya.com/solutions/unified-backup/ "Unified Backup")
+    * [Audit & ComplianceIT Assessments & Reports](https://www.kaseya.com/solutions/audit-compliance/ "Audit & Compliance")
     * [Business ServicesIncrease Business Revenue](https://www.kaseya.com/solutions/business-services/ "Business Services")
     * [NetworkingConfigure & Monitor Seamlessly](https://www.kaseya.com/solutions/networking/ "Networking")
     * [IT OperationsReduce Employee Time Waste](https://www.kaseya.com/solutions/it-operations/ "IT Operations")
     * [MSP EnablementTurnkey Sales & Marketing](https://www.kaseya.com/solutions/msp-enablement/ "MSP Enablement")
+    
+    [Everything Needed to Manage, Secure, Backup and Automate Your Endpoints
+    
+    ![](https://www.kaseya.com/wp-content/uploads/2024/04/logo-kaseya-365-white.svg)](https://www.kaseya.com/products/kaseya-365/)
     
 * [Products](# "Products")
     
@@ -119,7 +123,7 @@
     
     Unified RMM, Purpose-Built for SMBs
     
-    [Explore Product](https://www.kaseya.com/products/vsa/)
+    [Explore Product](https://www.kaseya.com/products/rmm-software/)
     
     vPenTest
     
@@ -143,7 +147,7 @@
     
     Fast & Simple PSA for Growing MSPs
     
-    [Explore Product](https://www.kaseya.com/products/bms/)
+    [Explore Product](https://www.kaseya.com/products/psa-software/)
     
     ConnectBooster
     
@@ -161,7 +165,7 @@
     
     Fast & Simple PSA for Growing MSPs
     
-    [Explore Product](https://www.kaseya.com/products/bms/)
+    [Explore Product](https://www.kaseya.com/products/psa-software/)
     
     Datto Autotask PSA
     
@@ -253,6 +257,12 @@
     
     [Explore Product](https://www.datto.com/products/wifi/)
     
+    Datto Endpoint Backup
+    
+    Simple, Affordable Direct-to-Cloud Backup
+    
+    [Explore Product](https://www.datto.com/products/endpoint-backup/)
+    
     Datto Endpoint Backup with Disaster Recovery
     
     Secure, Reliable Direct-to-Cloud Backup
@@ -264,6 +274,12 @@
     Top MSP Safeguard for Files & Folders
     
     [Explore Product](https://www.datto.com/products/file-protection/)
+    
+    Unitrends Endpoint Backup
+    
+    Simple, Affordable Direct-to-Cloud Backup
+    
+    [Explore Product](https://www.unitrends.com/products/endpoint-backup-solution)
     
     Unitrends Endpoint Backup with Disaster Recovery
     
@@ -281,7 +297,7 @@
     
     Unified RMM, Purpose-Built for SMBs
     
-    [Explore Product](https://www.kaseya.com/products/vsa/)
+    [Explore Product](https://www.kaseya.com/products/rmm-software/)
     
     Traverse
     
@@ -333,6 +349,14 @@
     
     Blog
     
+    [![](https://www.kaseya.com/wp-content/uploads/2024/06/GettyImages-600x400.png)
+    
+    Kaseya’s Partner First Pledge: Sharing Risks and Rewards With IT Departments and MSPs
+    
+    June 18
+    
+    6 minute read](https://www.kaseya.com/blog/kaseya-partner-first-pledge/)
+    
     [![MSP Billing](https://www.kaseya.com/wp-content/uploads/2024/05/msp-billing-solutions-600x400.jpg)
     
     MSP Billing: A Guide to Billing Solutions for MSPs
@@ -341,23 +365,15 @@
     
     9 minute read](https://www.kaseya.com/blog/msp-billing/)
     
-    [![](https://www.kaseya.com/wp-content/uploads/2023/04/Managed-Detection-and-Response.jpg-600x400.jpeg)
-    
-    What is Managed Detection and Response (MDR)?
-    
-    May 22
-    
-    5 minute read](https://www.kaseya.com/blog/managed-detection-and-response-mdr/)
-    
     [View the Full Blog](https://www.kaseya.com/blog/)
     
     Upcoming Events
     
-    ![](https://www.kaseya.com/wp-content/uploads/2023/12/kaseya-dattocon-emea-promo24-300x158.jpg)
+    ![](https://www.kaseya.com/wp-content/uploads/2024/03/1200x800-KD-Local-Web-Thumbnail-Toronto-300x200.png)
     
-    Kaseya DattoCon Europe
+    Kaseya+Datto Connect Local Toronto
     
-    June 11 - 13
+    June 18
     
     [View All Events](https://www.kaseya.com/events/)
     
