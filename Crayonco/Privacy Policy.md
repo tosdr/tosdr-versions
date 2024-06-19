@@ -30,7 +30,7 @@
 CRAYON, INC PRIVACY POLICY
 ==========================
 
-Updated: September 7, 2023
+Updated: June 12, 2024
 
 ![solid-bg](https://www.crayon.co/hs-fs/hubfs/solid-bg.png?width=1418&height=671&name=solid-bg.png)
 
@@ -51,7 +51,7 @@ This Privacy Policy is provided in a layered format so you can click through to 
 9. [**Your Rights With Respect to Your Personal Information**](#A9) 
 10. [**Contact details**](#A10) 
 11. [**EU/UK Representative**](#A11)
-12. [**EU-U.S. Data Privacy Framework**](#A20)
+12. **[Data Privacy Framework](#A20)**
 13. [**Glossary**](#A12) 
 
 1\. Important Information and Who We Are
@@ -349,14 +349,12 @@ England
 
 BN1 1EB
 
-12\. EU-U.S. Data Privacy Framework
------------------------------------
+12\. Data Privacy Framework
+---------------------------
 
-Crayon complies with the EU-U.S. Data Privacy Framework and/or the Swiss-U.S. Data Privacy Framework(s) as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and/or Switzerland, to the United States.  Crayon has certified to the Department of Commerce that it adheres to the Data Privacy Framework Principles.  If there is any conflict between the terms in this privacy policy and the Data Privacy Framework Principles, the Data Privacy Framework Principles shall govern.  To learn more about the Data Privacy Framework program, and to view our certification, please visit [https://www.dataprivacyframework.gov/](https://www.dataprivacyframework.gov/).
+Crayon, Inc complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF) and the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce. Crayon, Inc has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union and the United Kingdom in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF. Crayon, Inc has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF. If there is any conflict between the terms in this privacy policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern. To learn more about the Data Privacy Framework (DPF) Program, and to view our certification, please visit [https://www.dataprivacyframework.gov/](https://www.dataprivacyframework.gov/)[](https://www.dataprivacyframework.gov/)
 
-In compliance with the Data Privacy Framework Principles, Crayon commits to resolve complaints about our collection or use of your personal information. European Union and/or Swiss individuals with inquiries or complaints regarding our Data Privacy Framework policy should first contact Crayon at [privacy@crayon.co](mailto:privacy@crayon.co).
-
-Crayon has further committed to refer unresolved Data Privacy Framework complaints to JAMS ADR, an alternative dispute resolution provider located in the United States. If you do not receive timely acknowledgment of your complaint from us, or if we have not resolved your complaint, please contact or visit [https://www.jamsadr.com/submit](https://www.jamsadr.com/submit) for more information or to file a complaint.  The services of JAMS ADR are provided at no cost to you.
+In compliance with the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF, Crayon, Inc commits to refer unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF to JAMS, an alternative dispute resolution provider based in the United States. If you do not receive timely acknowledgment of your DPF Principles-related complaint from us, or if we have not addressed your DPF Principles-related complaint to your satisfaction, please visit [https://www.jamsadr.com/DPF-Dispute-Resolution](https://www.jamsadr.com/DPF-Dispute-Resolution) for more information or to file a complaint. The services of JAMS are provided at no cost to you.
 
 An individual who decides to invoke this arbitration option must take the following steps prior to initiating an arbitration claim: (1) raise the claimed violation directly with Crayon and afford us an opportunity to resolve the issue within the timeframe set forth in Section III.11(d)(i) of the Principles; (2) make use of the independent recourse mechanism under the Principles, which is at no cost to the individual; and (3) raise the issue through their Data Protection Authority to the Department of Commerce and afford the Department of Commerce an opportunity to use best efforts to resolve the issue within the timeframes set forth in the Letter from the International Trade Administration of the Department of Commerce, at no cost to the individual. This arbitration option may not be invoked if the individual’s same claimed violation of the Principles (1) has previously been subject to binding arbitration; (2) was the subject of a final judgment entered in a court action to which the individual was a party; or (3) was previously settled by the parties.
 
