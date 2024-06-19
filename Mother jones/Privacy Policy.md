@@ -4,14 +4,14 @@
 * 
 * [Donate](https://secure.motherjones.com/flex/mj/key/7LIGHTB/src/7EGP002|PEGP002 "Donate")
 * [Donate](https://secure.motherjones.com/flex/mj/key/7LIGHTB/src/7EGP007|PEGP007 "Donate")
-* [Subscribe](https://secure.motherjones.com/flex/MOJ/SUBS/?p=SEGYIP&c=SEGYIC&d=SEGYID&f=SEGYIF "Subscribe")
+* [Subscribe](https://secure.motherjones.com/flex/MOJ/SUBS/?p=SEGHIP&c=SEGHIC&d=SEGHID&f=SEGHIF "Subscribe")
 
 *  
     
-* [Gaza](https://www.motherjones.com/politics/2024/05/columbia-students-start-new-gaza-solidarity-encampment/)
-* [Genocide](https://www.motherjones.com/politics/2024/06/israel-palestine-gaza-genocide-war-crimes-icj-south-africa-raphael-lemkin/)
-* [QAnon](https://www.motherjones.com/politics/2024/06/how-q-became-everything-big-feature-wayfair-balenciaga/)
-* [Trump](https://www.motherjones.com/politics/2024/06/trump-jail-house-arrest-felony-trial-rnc-nomina/)
+* [2024 Presidential Election](https://www.motherjones.com/politics/2024/06/trump-vp-byron-donald-tim-scott-sunday-television/)
+* [Biden](https://www.motherjones.com/politics/2024/06/biden-campaign-fundraiser-30-million-hollywood-clooney-obama/)
+* [Big Tech](https://www.motherjones.com/politics/2024/06/big-tech-ai-energy-electricity-use-growing-power-grid-restraints/)
+* [Trump](https://www.motherjones.com/politics/2024/06/christian-nationalists-are-opening-private-schools-taxpayers-are-funding-them/)
 
 * [Newsletters](https://www.motherjones.com/newsletters/?mj_oac=dropdown_nav)
 * [Politics](https://www.motherjones.com/politics/)
@@ -27,12 +27,12 @@
 
 *  
     
-* [Gaza](https://www.motherjones.com/politics/2024/05/columbia-students-start-new-gaza-solidarity-encampment/)
-* [Genocide](https://www.motherjones.com/politics/2024/06/israel-palestine-gaza-genocide-war-crimes-icj-south-africa-raphael-lemkin/)
-* [QAnon](https://www.motherjones.com/politics/2024/06/how-q-became-everything-big-feature-wayfair-balenciaga/)
-* [Trump](https://www.motherjones.com/politics/2024/06/trump-jail-house-arrest-felony-trial-rnc-nomina/)
+* [2024 Presidential Election](https://www.motherjones.com/politics/2024/06/trump-vp-byron-donald-tim-scott-sunday-television/)
+* [Biden](https://www.motherjones.com/politics/2024/06/biden-campaign-fundraiser-30-million-hollywood-clooney-obama/)
+* [Big Tech](https://www.motherjones.com/politics/2024/06/big-tech-ai-energy-electricity-use-growing-power-grid-restraints/)
+* [Trump](https://www.motherjones.com/politics/2024/06/christian-nationalists-are-opening-private-schools-taxpayers-are-funding-them/)
 
-[Subscribe to our magazine](https://secure.motherjones.com/flex/MOJ/SUBS/?p=SEGYOP&c=SEGYOC&d=SEGYOD&f=SEGYOF "Subscribe")
+[Subscribe to our magazine](https://secure.motherjones.com/flex/MOJ/SUBS/?p=SEGHOP&c=SEGHOC&d=SEGHOD&f=SEGHOF "Subscribe")
 
 [](https://www.motherjones.com/ "Return to Mother Jones Homepage")
 
@@ -59,11 +59,11 @@ Membership Ticker
 
 [Donate](https://secure.motherjones.com/flex/mj/key/7LIGHTR/src/7AHPR55|PAHPR55)
 
-_MOTHER JONES_ NEEDS YOUR HELP
+_Mother Jones_ NEEDS YOUR HELP
 
-Straight to the point: Donations have been concerningly slow for our hugely important First $500,000 fundraising campaign. We urgently need your help, and a lot of help, over the next few weeks so we can pay for the one-of-a-kind journalism you get from us. Learn more in “[Less Dreading, More Doing](https://www.motherjones.com/media/2024/05/mother-jones-cir-merger-update/?keycode=7AHPR55|PAHPR55),” where we lay out this wild moment and how we can keep charging hard for you. And please help if you can: $5, $50, or $500—[every gift from every person](https://secure.motherjones.com/flex/mj/key/7LIGHTR/src/7AHPR55|PAHPR55) truly matters right now.
+We have about a $200,000 funding gap and less than a week to go in our hugely important First $500,000 fundraising campaign. We urgently need your help, and a lot of help, this week so we can pay for the one-of-a-kind journalism you get from us. Learn more in “[Less Dreading, More Doing](https://www.motherjones.com/media/2024/05/mother-jones-cir-merger-update/?keycode=7AHPR55|PAHPR55),” where we lay out this wild moment and how we can keep charging hard for you. And please help if you can: $5, $50, or $500—[every gift from every person](https://secure.motherjones.com/flex/mj/key/7LIGHTR/src/7AHPR55|PAHPR55) truly matters right now.
 
-Straight to the point: Donations have been concerningly slow for our hugely important fundraising campaign. We urgently need your help so we can pay for the journalism you get from us. [Learn more](https://www.motherjones.com/media/2024/05/mother-jones-cir-merger-update/?keycode=7AHPMRS|PAHPMRS) about this wild moment and how _Mother Jones_ can keep charging hard for you, and please help if you can: [Every gift from every person](https://secure.motherjones.com/flex/mj/key/7LIGHTR/src/7AHPMRS|PAHPMRS) matters right now.
+We have about a $200,000 funding gap and less than a week to go in our hugely important fundraising campaign. We urgently need your help so we can pay for the journalism you get from us. [Learn more](https://www.motherjones.com/media/2024/05/mother-jones-cir-merger-update/?keycode=7AHPMRS|PAHPMRS) about this wild moment and how _Mother Jones_ can keep charging hard for you, and please help if you can: [Every gift from every person](https://secure.motherjones.com/flex/mj/key/7LIGHTR/src/7AHPMRS|PAHPMRS) matters right now.
 
 [Donate](https://secure.motherjones.com/flex/mj/key/7LIGHTR/src/7AHPMRS|PAHPMRS)
 
@@ -172,13 +172,13 @@ Mag Promo
 
 Inexpensive, too! Subscribe today and get a full year of _Mother Jones_ for just $14.95.
 
-[Subscribe](https://secure.motherjones.com/flex/MOJ/SUBS/?p=SEGYGP&c=SEGYGC&d=SEGYGD&f=SEGYGF "Subscribe")
+[Subscribe](https://secure.motherjones.com/flex/MOJ/SUBS/?p=SEGHGP&c=SEGHGC&d=SEGHGD&f=SEGHGF "Subscribe")
 
- [![Mother Jones Magazine Cover : January + February 2024](/wp-content/uploads/2023/11/mojo_cover_janfeb24.jpg?w=575)](https://www.motherjones.com/mag/2024/01/toc/)[February 2024](https://www.motherjones.com/mag/2023/07/toc)
+[![Mother Jones Magazine Cover : July + August 2024](/wp-content/uploads/2024/05/mojo_cover_julyaug24.jpg?w=575)](https://www.motherjones.com/mag/2024/07/toc/) [August 2024](https://www.motherjones.com/mag/2024/07/toc)
 
-[![Mother Jones Magazine Cover : November + December 2023](/wp-content/uploads/2023/09/mojo_cover_novdec23.jpg?w=575)](https://www.motherjones.com/mag/2023/11/toc/) [December 2023](https://www.motherjones.com/mag/2023/11/toc)
+ [![Mother Jones Magazine Cover : May + June 2024](/wp-content/uploads/2024/03/mojo_cover_mayjun24.jpg?w=575)](https://www.motherjones.com/mag/2024/05/toc/)[June 2024](https://www.motherjones.com/mag/2024/05/toc)
 
- [![Mother Jones Magazine Cover : September + October 2023](/wp-content/uploads/2023/07/mojo_cover_septoct23.jpg?w=575)](https://www.motherjones.com/mag/2023/09/toc/)[October 2023](https://www.motherjones.com/mag/2023/09/toc)
+ [![Mother Jones Magazine Cover : March + April 2024](/wp-content/uploads/2024/01/mojo_cover_marapr24.jpg?w=575)](https://www.motherjones.com/mag/2024/03/toc/)[April 2024](https://www.motherjones.com/mag/2024/03/toc)
 
 [![podcast](https://www.motherjones.com/wp-content/uploads/2023/08/ig-mj-logo-layers@2x.png)
 
@@ -227,9 +227,9 @@ By signing up, you agree to our [privacy policy](https://www.motherjones.com/abo
 * [Licensing / Reprints](https://www.motherjones.com/customer-service/permissions/)
 * [Store](http://store.motherjones.com/?utm_source=motherjones&utm_medium=footer&utm_content=orangefooterlink&utm_campaign=evergreen)
 
-* [Subscribe](https://secure.motherjones.com/flex/MOJ/SUBS/?p=SEGMOP&c=SEGMOC&d=SEGMOD&f=SEGMOF)
-* [Magazine Subscriptions](https://secure.motherjones.com/flex/MOJ/SUBS/?p=SEGMOP&c=SEGMOC&d=SEGMOD&f=SEGMOF)
-* [Give a Gift Subscription](https://secure.motherjones.com/flex/mj/key/YGIFUP/)
+* [Subscribe](https://secure.motherjones.com/flex/MOJ/SUBS/?p=SEGNOP&c=SEGNOC&d=SEGNOD&f=SEGNOF)
+* [Magazine Subscriptions](https://secure.motherjones.com/flex/MOJ/SUBS/?p=SEGNOP&c=SEGNOC&d=SEGNOD&f=SEGNOF)
+* [Give a Gift Subscription](https://secure.motherjones.com/flex/mj/key/YGIFVP/)
 * [Email Newsletters](https://www.motherjones.com/newsletters/)
 * [Customer Service](https://www.motherjones.com/customer-service/)
 
