@@ -251,7 +251,7 @@ Other Products from WSJ* [Buy Side from WSJ](https://www.wsj.com/buyside?mod=wsj
     
     * [Architecture Review](https://www.wsj.com/news/types/architecture-review?mod=nav_top_subsection)
     * [Art Reviews](https://www.wsj.com/news/types/art-review?mod=nav_top_subsection)
-    * [Book Reviews](https://www.dev.wsj.com/news/types/bookshelf?mod=nav_top_subsection)
+    * [Book Reviews](https://www.wsj.com/news/types/bookshelf?mod=nav_top_subsection)
     * [Film Reviews](https://www.wsj.com/news/types/film-review?mod=nav_top_subsection)
     * [Television Reviews](https://www.wsj.com/news/types/television-review?mod=nav_top_subsection)
     * [Theater Reviews](https://www.wsj.com/news/types/theater-review?mod=nav_top_subsection)
@@ -579,7 +579,7 @@ Other Products from WSJ* [Buy Side from WSJ](https://www.wsj.com/buyside?mod=wsj
     
     * [Architecture Review](https://www.wsj.com/news/types/architecture-review?mod=nav_top_subsection)
     * [Art Reviews](https://www.wsj.com/news/types/art-review?mod=nav_top_subsection)
-    * [Book Reviews](https://www.dev.wsj.com/news/types/bookshelf?mod=nav_top_subsection)
+    * [Book Reviews](https://www.wsj.com/news/types/bookshelf?mod=nav_top_subsection)
     * [Film Reviews](https://www.wsj.com/news/types/film-review?mod=nav_top_subsection)
     * [Television Reviews](https://www.wsj.com/news/types/television-review?mod=nav_top_subsection)
     * [Theater Reviews](https://www.wsj.com/news/types/theater-review?mod=nav_top_subsection)
