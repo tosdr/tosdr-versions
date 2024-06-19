@@ -213,6 +213,8 @@ Useful links
 * [How to install OpenVPN on your router](https://whoer.net/blog/configuring-vpn-on-router/)
 * [How to disable Internet when VPN goes offline](https://whoer.net/blog/how-to-disable-internet-when-vpn-goes-offline/)
 * [VPN for games](https://whoer.net/vpn-for-games)
+* [VPN for Russia](https://whoer.net/vpn-russia)
+* [VPN for Crimea](https://whoer.net/vpn-crimea)
 
 apps
 ====
