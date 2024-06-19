@@ -8,7 +8,7 @@ This app works best with JavaScript enabled.
     
     * [Error Monitoring](https://sentry.io/for/error-monitoring/)
     * [Session Replay](https://sentry.io/for/session-replay/)
-    * [Performance](https://sentry.io/for/performance/)
+    * [Tracing](https://sentry.io/for/tracing/)
     * [Profiling](https://sentry.io/for/profiling/)
     * [Cron Monitoring](https://sentry.io/for/cron-monitoring/)
     * [Code Coverage](https://sentry.io/for/code-coverage/)
@@ -42,13 +42,12 @@ This app works best with JavaScript enabled.
     
     ### Features
     
-    * [Custom Queries](https://sentry.io/features/custom-queries/)
+    * [Metrics](https://sentry.io/features/metrics/)
     * [Dashboards](https://sentry.io/features/dashboards/)
     * [Cross-project Issues](https://sentry.io/features/cross-project-issues/)
     * [Distributed Tracing](https://sentry.io/features/distributed-tracing/)
     * [Stack Traces](https://sentry.io/features/stacktrace/)
     * [Context](https://sentry.io/features/context/)
-    * [Breadcrumbs](https://sentry.io/features/breadcrumbs/)
     * [Releases](https://sentry.io/features/releases/)
     * [Issue Owners](https://sentry.io/features/owners/)
     
