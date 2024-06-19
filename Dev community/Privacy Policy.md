@@ -2,7 +2,7 @@
 
 [Skip to content](#main-content)
 
-Navigation menu [![DEV Community](https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png)](https://dev.to/)
+Navigation menu [![DEV Community](https://media.dev.to/cdn-cgi/image/quality=100/https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png)](https://dev.to/)
 
  Search [Powered by Search Algolia](https://www.algolia.com/developers/?utm_source=devto&utm_medium=referral)
 
