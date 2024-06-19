@@ -1,10 +1,10 @@
-   
+  
 
   
 
-[![Bitdefender Cybersecurity](/adobe/dynamicmedia/deliver/dm-aid--ff62d212-3a6d-4993-841c-7458d12cdf2f/bitdefender-blue-logo-png.png?quality=85&preferwebp=true)](https://www.bitdefender.com/)
+[![Bitdefender Cybersecurity](/adobe/dynamicmedia/deliver/dm-aid--ff62d212-3a6d-4993-841c-7458d12cdf2f/bitdefender-blue-logo-png.png?preferwebp=true&quality=85)](https://www.bitdefender.com/)
 
-* [For Home](https://www.bitdefender.com/solutions/)
+* [For Consumer](https://www.bitdefender.com/solutions/)
     
     * All-in-one plans
         
@@ -12,6 +12,7 @@
         
         * [Ultimate Security](https://www.bitdefender.com/solutions/ultimate-security.html)
         * [Premium Security](https://www.bitdefender.com/solutions/premium-security.html)
+        * [Ultimate Small Business Security](https://www.bitdefender.com/solutions/small-business-security.html)
         
         Device Security
         
@@ -25,8 +26,6 @@
         * [Small Office Security](https://www.bitdefender.com/solutions/small-office-security.html)
         
         View All
-        
-        [Compare](https://www.bitdefender.com/solutions/antivirus-comparison.html)
         
         Try Bitdefender
         
@@ -62,7 +61,9 @@
         * [Identity Theft Protection](https://www.bitdefender.com/solutions/identity-theft-protection.html)
         
     
-* [For Business](https://www.bitdefender.com/business/)
+* [For Small Business](https://www.bitdefender.com/small-business/)
+    
+* [For Enterprise](https://www.bitdefender.com/business/)
     
     * [Platform](https://www.bitdefender.com/business/gravityzone-platform/)
         
@@ -104,6 +105,7 @@
         * [Free Trials](https://www.bitdefender.com/business/products/free-trials/) _Try Now_
         * [Compare Solutions](https://www.bitdefender.com/business/compare.html)
         * [All Products](https://www.bitdefender.com/business/all-products.html)
+        * [2024 Cybersecurity Assessment](https://www.bitdefender.com/business/campaign/cybersecurity-assessment.html) _NEW_
         
         View All
         
@@ -182,7 +184,7 @@
         
         [Business Insights Blog](https://www.bitdefender.com/blog/businessinsights/)
         
-        * [2024 Cybersecurity Outlook](https://www.bitdefender.com/blog/businessinsights/2024-cybersecurity-outlook-navigating-the-geopolitical-landscape/)
+        * [2024 Cybersecurity Assessment](https://www.bitdefender.com/business/campaign/cybersecurity-assessment.html) _NEW_
         * [2024 Cybersecurity Predictions for AI](https://www.bitdefender.com/blog/businessinsights/2024-cybersecurity-predictions-for-ai-a-technical-deep-dive/)
         * [2024 Ransomware Trends](https://www.bitdefender.com/blog/businessinsights/2024-cybersecurity-forecast-ransomwares-new-tactics-and-targets/)
         * [Cyber Threat Landscape Review | Jan.2024](https://www.bitdefender.com/blog/businessinsights/bitdefender-threat-debrief-january-2024/)
@@ -228,7 +230,7 @@
         
         Quick Links
         
-        * [Log In To PAN Portal](https://pan.bitdefender.com/)
+        * [Log in to the Business Solutions Partners portal](https://pan.bitdefender.com/)
         * [Find a Reseller](https://www.bitdefender.com/partners/partner-locator.html)
         * [Already a Partner?](https://pan.bitdefender.com/)
         * [Join our Affiliates Program](https://app.impact.com/campaign-promo-signup/Bitdefender.brand?execution=e1s1)
@@ -323,7 +325,7 @@
     * [MDR Portal](https://auth.mdr.bitdefender.com/login)
     
 
-![](/adobe/dynamicmedia/deliver/dm-aid--c122b0d3-1983-4210-8bd9-b60086fa3f2e/level-4-pattern.jpg?quality=85&preferwebp=true)
+![](/adobe/dynamicmedia/deliver/dm-aid--c122b0d3-1983-4210-8bd9-b60086fa3f2e/level-4-pattern.jpg?preferwebp=true&quality=85)
 
   [Home](https://www.bitdefender.com/) [Site](https://www.bitdefender.com/site.html) [View](https://www.bitdefender.com/site/view.html) [Legal Intellectual Property](https://www.bitdefender.com/site/view/legal-intellectual-property.html)
 
@@ -941,8 +943,9 @@ Protected by U.S. Patents 8,151,352 B1, 8,407,797 B1, 8,813,239 B2, 8,584,235, 9
 
 [![Bitdefender Cybersecurity](/content/experience-fragments/bitdefender/language_master/en/footer-fragment-v1/master/_jcr_content/root/footer/footer-image.coreimg.png/1713254456402/white-logo.png)](https://www.bitdefender.com/)
 
-* [For Home](https://www.bitdefender.com/solutions/)
-* [For Business](https://www.bitdefender.com/business/)
+* [For Consumer](https://www.bitdefender.com/solutions/)
+* [For Small Business](https://www.bitdefender.com/small-business/)
+* [For Enterprise](https://www.bitdefender.com/business/)
 * [For Partners](https://www.bitdefender.com/partners/)
 * [Company](https://www.bitdefender.com/company/)
 
