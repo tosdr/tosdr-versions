@@ -1,4 +1,7 @@
-Need to see a provider but struggling to find the time? Many primary care, urgent care, and specialty care visits may be eligible for telehealth! Learn more about telehealth options [here.](https://www.valleymed.org/patients--visitors/appointments--pre-registration/telehealth-appointments) 
+**Apple Health Expansion for Immigrants:**  
+You may be eligible to sign up for Apple Health Expansion insurance if you live in the state of Washington, even if you immigrated to the United States and/or are undocumented. [Learn more](https://www.uwmedicine.org/patient-resources/billing-and-insurance/washington-health-benefit-exchange/apple-health-expansion).
+
+Puede que usted sea elegible para inscribirse en Apple Health Expansion seguro médico si vive en el estado de Washington, incluso si usted inmigró a los Estados Unidos y/o es indocumentado. [Aprende más](https://www.uwmedicine.org/patient-resources/billing-and-insurance/washington-health-benefit-exchange/apple-health-expansion/es-us).
 
 ![dismiss-icon](/globalassets/valley-medical/images/icons/dismiss-icon.svg)
 
@@ -120,10 +123,9 @@ We collect the domain name of visitors to our web page, the e-mail addresses of 
 The information we collect is used to improve the content of our website, shared with agents or contractors who assist in providing support for our operations, used by us to contact consumers for marketing purposes, disclosed when legally required to do so at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our website and applicable laws or to protect against misuse or unauthorized use of our website.  
   
 
-### [Change your communication preferences](https://secure.valleymed.org/PreferenceCenter "Change your communication preferences").
+### Change your communication preferences
 
-  
-Those who supply us with their contact information online may receive phone or e-mail contact from us with information regarding new products and services or upcoming events. If you do not wish to receive such communications, please let us know at the e-mail address listed above.  
+Those who supply us with their contact information online may receive phone or e-mail contact from us with information regarding new products and services or upcoming events. If you do not wish to receive such communications, you can use the "Update My Email Preferences" link in the footer of the email, [email us here](mailto:marketing@valleymed.org), or call us at 425.690.3417 to let us know.  
   
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our website to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check our website periodically. Customers may prevent their information from being used for purposes other than those for which it was originally collected by e-mailing us at the above address.  
   
