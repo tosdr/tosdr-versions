@@ -87,7 +87,11 @@ On this page
 * [Further information for University staff](#further-information-for-university-staff)
 * [Enquiries](#enquiries)
 
-[![Teaching Excellence Framework (TEF) triple gold award. These accolades are at institutional-level and are displayed across the website. They are not specific to any particular course or department](/lens/124/assets/university-of-bath/images/awards/tef-2023-gold-v2.svg)](https://www.bath.ac.uk/announcements/university-of-bath-awarded-triple-gold-in-the-teaching-excellence-framework-2023)[![Top 100 world University rankings 2022 graduate employability rankings](/lens/124/assets/university-of-bath/images/awards/qs-top-100-world-uni-ranking-2022-v2.svg)](https://www.bath.ac.uk/corporate-information/rankings-and-reputation/)
+[![QS World University Ranking 2025 Top 150](/lens/124/assets/university-of-bath/images/awards/world-university-ranking-2025.svg)](https://www.topuniversities.com/universities/university-bath)
+
+[![Teaching Excellence Framework (TEF) triple gold award. These accolades are at institutional-level and are displayed across the website. They are not specific to any particular course or department](/lens/124/assets/university-of-bath/images/awards/tef-2023-gold-v2.svg)](https://www.bath.ac.uk/announcements/university-of-bath-awarded-triple-gold-in-the-teaching-excellence-framework-2023)
+
+[![QS World University Ranking 2025 Top 150 for employer reputation](/lens/124/assets/university-of-bath/images/awards/qs-employer-reputation-2025.svg)](https://www.bath.ac.uk/corporate-information/rankings-and-reputation/)
 
 [© University of Bath 2024](https://www.bath.ac.uk/corporate-information/copyright/)
 
