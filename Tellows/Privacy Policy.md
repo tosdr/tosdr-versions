@@ -366,7 +366,7 @@ Cookie Settings
 
 [Magazine](https://www.tellows.co.uk/s/about-en/tellows-magazine "Magazin")
 
-[](https://www.facebook.com/tellows "Facebook")| [](https://twitter.com/tellows_gb?ref_src=twsrc%5Etfw "twitter")| [](https://www.instagram.com/tellows_callerid_lookup/ "Instagram")|[](https://www.linkedin.com/company/tellows/ "LinkedIn")
+[](https://www.facebook.com/tellows "Facebook")| [](https://twitter.com/tellows_uk?ref_src=twsrc%5Etfw "twitter")| [](https://www.instagram.com/tellows_callerid_lookup/ "Instagram")|[](https://www.linkedin.com/company/tellows/ "LinkedIn")
 
 © 2010-2024 **tellows**
 
