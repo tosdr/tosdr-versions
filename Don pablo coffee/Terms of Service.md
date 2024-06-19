@@ -29,7 +29,7 @@ Free shipping on orders $50 or more inside the contiguous U.S.A.
     [* Colombian Decaf K Cups](https://donpablocoffee.com/products/don-pablo-colombian-decaf-coffee?variant=33398429188184)[* Bourbon Infused K Cups](https://donpablocoffee.com/products/don-pablo-bourbon-infused-coffee?variant=42617880838370)
 * [More](#)
     
-    [* Sale](https://donpablocoffee.com/collections/sale)[* Gifts](https://donpablocoffee.com/collections/don-pablo-gifts-merchandise)[* Blog Articles](https://donpablocoffee.com/blogs/donpablocoffeenews)[* Store Locator](https://donpablocoffee.com/pages/store-locator)[* Brewing Instructions](https://donpablocoffee.com/pages/brewing-instructions)[* Referral Program](https://donpablocoffee.com/pages/referral)[* Contact Us](https://donpablocoffee.com/pages/contact-us)
+    [* Sale](https://donpablocoffee.com/collections/sale)[* Blog Articles](https://donpablocoffee.com/blogs/donpablocoffeenews)[* Store Locator](https://donpablocoffee.com/pages/store-locator)[* Brewing Instructions](https://donpablocoffee.com/pages/brewing-instructions)[* Referral Program](https://donpablocoffee.com/pages/referral)[* FAQ's](https://donpablocoffee.com/pages/faqs)[* Contact Us](https://donpablocoffee.com/pages/contact-us)
 
 [](tel:(305) 249-5628)[](https://donpablocoffee.com/account/login)[0](https://donpablocoffee.com/cart)z
 
@@ -159,8 +159,8 @@ Questions about the Terms of Service should be sent to us at info@donpablocoffee
 #### Accounts + Orders
 
 * [Your Account](https://donpablocoffee.com/account)
-* [Subscription](https://donpablocoffee.com/tools/recurring/login)
-* [Refund Policy](https://donpablocoffee.com/policies/refund-policy)
+* [Your Subscription](https://donpablocoffee.com/tools/recurring/login)
+* [FAQ's](https://donpablocoffee.com/pages/faqs)
 * [Referral Program](https://donpablocoffee.com/pages/referral)
 * [Contact Us](https://donpablocoffee.com/pages/contact-us)
 
@@ -169,6 +169,7 @@ Questions about the Terms of Service should be sent to us at info@donpablocoffee
 * [Privacy Policy](https://privacy.donpablocoffee.com/privacy-policy)
 * [Terms of Service](https://donpablocoffee.com/policies/terms-of-service)
 * [Shipping Policy](https://donpablocoffee.com/policies/shipping-policy)
+* [Refund Policy](https://donpablocoffee.com/policies/refund-policy)
 * [California Privacy Notice](https://privacy.donpablocoffee.com/privacy-policy#california-privacy-notice)
 * [Notice of Financial Incentive](https://privacy.donpablocoffee.com/privacy-policy#financial-incentive)
 *  [![California Consumer Privacy Act (CCPA) Opt-Out Icon](https://polaris.truevaultcdn.com/static/assets/icons/optout-icon-blue.svg) Your Privacy Choices](https://privacy.donpablocoffee.com/opt-out)
