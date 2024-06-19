@@ -2,7 +2,7 @@
 
 **Enjoy Free Shipping on All Orders Over $100!**
 
- [![Conair](/on/demandware.static/Sites-us-conair-sfra-Site/-/default/dw8c574bf9/images/logo.png) ![Conair](/on/demandware.static/Sites-us-conair-sfra-Site/-/default/dw8c574bf9/images/logo.png)](https://www.conair.com/en "Conair Home")
+ [![Conair](/on/demandware.static/Sites-us-conair-sfra-Site/-/default/dwae3a0e27/images/logo.png) ![Conair](/on/demandware.static/Sites-us-conair-sfra-Site/-/default/dwae3a0e27/images/logo.png)](https://www.conair.com/en "Conair Home")
 
 ☰
 
@@ -16,7 +16,7 @@ https://www.conair.com/en/cart?lang=en\_US
 
 **Enjoy Free Shipping on All Orders Over $100!**
 
-[![Conair](/on/demandware.static/Sites-us-conair-sfra-Site/-/default/dw8c574bf9/images/logo.png)](https://www.conair.com/en "Conair Home")
+[![Conair](/on/demandware.static/Sites-us-conair-sfra-Site/-/default/dwae3a0e27/images/logo.png)](https://www.conair.com/en "Conair Home")
 
 ☰
 
@@ -26,7 +26,7 @@ https://www.conair.com/en/cart?lang=en\_US
 
 0
 
-* [![BeautyBar](/on/demandware.static/Sites-us-conair-sfra-Site/-/default/dw8fa869df/images/beautybar.png)](https://www.conair.com/en/BeautyBar?lang=en_US)
+* [![BeautyBar](/on/demandware.static/Sites-us-conair-sfra-Site/-/default/dw6807c4fb/images/beautybar.png)](https://www.conair.com/en/BeautyBar?lang=en_US)
 * [Hair](https://www.conair.com/en/hair?lang=en_US)
     
     * [Hair Dryers](https://www.conair.com/en/dryers?lang=en_US)
@@ -157,7 +157,6 @@ https://www.conair.com/en/cart?lang=en\_US
         * [Rectangle and Square](https://www.conair.com/en/rectangle-square?lang=en_US)
         * [Rechargeable](https://www.conair.com/en/mirror-rechargeable?lang=en_US)
         * [Accessory Spot](https://www.conair.com/en/accessory-spot?lang=en_US)
-        * [Replacement Bulbs](https://www.conair.com/en/replacement-bulbs?lang=en_US)
     
     * [Womens Grooming](https://www.conair.com/s/us-conair-sfra/conairwomen.html?lang=en_US)
         --------------------------------------------------------------------------------------
@@ -348,7 +347,6 @@ https://www.conair.com/en/cart?lang=en\_US
         * [Rectangle and Square](https://www.conair.com/en/rectangle-square?lang=en_US)
         * [Rechargeable](https://www.conair.com/en/mirror-rechargeable?lang=en_US)
         * [Accessory Spot](https://www.conair.com/en/accessory-spot?lang=en_US)
-        * [Replacement Bulbs](https://www.conair.com/en/replacement-bulbs?lang=en_US)
     * [Womens Grooming](https://www.conair.com/s/us-conair-sfra/conairwomen.html?lang=en_US)
         
         * [Girlbomb](https://www.conair.com/en/girlbomb?lang=en_US)
@@ -464,7 +462,6 @@ https://www.conair.com/en/cart?lang=en\_US
         
         * [Back Pain](https://www.conair.com/en/back-pain-heat?lang=en_US)
         * [Menstrual Pain and Cramps](https://www.conair.com/en/menstrual-pain-cramps-heat?lang=en_US)
-        * [Neck and Shoulder Pain](https://www.conair.com/en/neck-shoulder-pain-heat?lang=en_US)
         * [Heated Blankets and Bedding](https://www.conair.com/en/heated-blankets-bedding?lang=en_US)
     
     * [IR Thermometers](https://www.conair.com/en/thermometers?lang=en_US)
@@ -477,7 +474,6 @@ https://www.conair.com/en/cart?lang=en\_US
         ---------------------------------------------------------------
         
         * [Bath Jets](https://www.conair.com/en/bath-jets?lang=en_US)
-        * [Light Therapy Devices](https://www.conair.com/en/light-therapy-devices?lang=en_US)
     
     * [Sanitizers](https://www.conair.com/en/sanitizers?lang=en_US)
         -------------------------------------------------------------
@@ -519,7 +515,6 @@ https://www.conair.com/en/cart?lang=en\_US
         
         * [Back Pain](https://www.conair.com/en/back-pain-heat?lang=en_US)
         * [Menstrual Pain and Cramps](https://www.conair.com/en/menstrual-pain-cramps-heat?lang=en_US)
-        * [Neck and Shoulder Pain](https://www.conair.com/en/neck-shoulder-pain-heat?lang=en_US)
         * [Heated Blankets and Bedding](https://www.conair.com/en/heated-blankets-bedding?lang=en_US)
     * [IR Thermometers](https://www.conair.com/en/thermometers?lang=en_US)
         
@@ -536,7 +531,6 @@ https://www.conair.com/en/cart?lang=en\_US
             
         
         * [Bath Jets](https://www.conair.com/en/bath-jets?lang=en_US)
-        * [Light Therapy Devices](https://www.conair.com/en/light-therapy-devices?lang=en_US)
     * [Sanitizers](https://www.conair.com/en/sanitizers?lang=en_US)
         
         * [Small Item Sanitizers](https://www.conair.com/en/small-item-sanitizers?lang=en_US)
@@ -666,21 +660,14 @@ https://www.conair.com/en/cart?lang=en\_US
         -------------------------------------------------------
         
         * [Travel Garment Steamers](https://www.conair.com/en/travel-garment-steamer?lang=en_US)
-        * [Travel Fabric Shavers](https://www.conair.com/en/travel-fabric-shaver?lang=en_US)
         * [Travel Humidifiers](https://www.conair.com/en/usb-travel-humidifier?lang=en_US)
-        * [TRavel Face Masks](https://www.conair.com/en/face-mask?lang=en_US)
     
     * [Travel Safety](https://www.conair.com/en/safety?lang=en_US)
         ------------------------------------------------------------
         
-        * [Locks](https://www.conair.com/en/locks?lang=en_US)
         * [RFID Blocking Assortment](https://www.conair.com/en/rfid-blocking-assortment?lang=en_US)
     
     * [Travel Organization](https://www.conair.com/en/organize?lang=en_US)
-        
-        * [Locks](https://www.conair.com/en/locks?lang=en_US)
-            ---------------------------------------------------
-            
         
         * [RFID Blocking Assortment](https://www.conair.com/en/rfid-blocking-assortment?lang=en_US)
             -----------------------------------------------------------------------------------------
@@ -692,10 +679,6 @@ https://www.conair.com/en/cart?lang=en\_US
         * [Travel Bottles](https://www.conair.com/en/travel-bottles?lang=en_US)
     * [Travel Bags](https://www.conair.com/en/bags?lang=en_US)
         
-        * [Locks](https://www.conair.com/en/locks?lang=en_US)
-            ---------------------------------------------------
-            
-        
         * [RFID Blocking Assortment](https://www.conair.com/en/rfid-blocking-assortment?lang=en_US)
             -----------------------------------------------------------------------------------------
             
@@ -705,10 +688,6 @@ https://www.conair.com/en/cart?lang=en\_US
         * [Luggage Straps](https://www.conair.com/en/luggage-straps?lang=en_US)
     * [Travel Hair Styling Tools](https://www.conair.com/en/styling-travel?lang=en_US)
         
-        * [Locks](https://www.conair.com/en/locks?lang=en_US)
-            ---------------------------------------------------
-            
-        
         * [RFID Blocking Assortment](https://www.conair.com/en/rfid-blocking-assortment?lang=en_US)
             -----------------------------------------------------------------------------------------
             
@@ -716,10 +695,6 @@ https://www.conair.com/en/cart?lang=en\_US
         * [Mini Tools](https://www.conair.com/en/mini-tools?lang=en_US)
         * [ThermaCELL Refill Cartridges](https://www.conair.com/en/thermacell-refill-cartridges?lang=en_US)
     * [Comfort](https://www.conair.com/en/comfort?lang=en_US)
-        
-        * [Locks](https://www.conair.com/en/locks?lang=en_US)
-            ---------------------------------------------------
-            
         
         * [RFID Blocking Assortment](https://www.conair.com/en/rfid-blocking-assortment?lang=en_US)
             -----------------------------------------------------------------------------------------
@@ -729,10 +704,6 @@ https://www.conair.com/en/cart?lang=en\_US
         * [Eye Masks](https://www.conair.com/en/eye-mask?lang=en_US)
     * [Travel Power Adapters and Converters](https://www.conair.com/en/power?lang=en_US)
         
-        * [Locks](https://www.conair.com/en/locks?lang=en_US)
-            ---------------------------------------------------
-            
-        
         * [RFID Blocking Assortment](https://www.conair.com/en/rfid-blocking-assortment?lang=en_US)
             -----------------------------------------------------------------------------------------
             
@@ -741,33 +712,22 @@ https://www.conair.com/en/cart?lang=en\_US
         * [Converters](https://www.conair.com/en/power-converters?lang=en_US)
     * [Protect](https://www.conair.com/en/protect?lang=en_US)
         
-        * [Locks](https://www.conair.com/en/locks?lang=en_US)
-            ---------------------------------------------------
-            
-        
         * [RFID Blocking Assortment](https://www.conair.com/en/rfid-blocking-assortment?lang=en_US)
             -----------------------------------------------------------------------------------------
             
         
         * [Travel Garment Steamers](https://www.conair.com/en/travel-garment-steamer?lang=en_US)
-        * [Travel Fabric Shavers](https://www.conair.com/en/travel-fabric-shaver?lang=en_US)
         * [Travel Humidifiers](https://www.conair.com/en/usb-travel-humidifier?lang=en_US)
-        * [TRavel Face Masks](https://www.conair.com/en/face-mask?lang=en_US)
     * [Travel Safety](https://www.conair.com/en/safety?lang=en_US)
-        
-        * [Locks](https://www.conair.com/en/locks?lang=en_US)
-            ---------------------------------------------------
-            
         
         * [RFID Blocking Assortment](https://www.conair.com/en/rfid-blocking-assortment?lang=en_US)
             -----------------------------------------------------------------------------------------
             
         
-        * [Locks](https://www.conair.com/en/locks?lang=en_US)
         * [RFID Blocking Assortment](https://www.conair.com/en/rfid-blocking-assortment?lang=en_US)
 * [Featured](https://www.conair.com/en/featured?lang=en_US)
 * [Sale](https://www.conair.com/en/sale?lang=en_US)
-* [![HomeTrends](/on/demandware.static/Sites-us-conair-sfra-Site/-/default/dw27228378/images/hometrends.png)](https://www.conair.com/en/hometrends?lang=en_US)
+* [![HomeTrends](/on/demandware.static/Sites-us-conair-sfra-Site/-/default/dwbdc4b64b/images/hometrends.png)](https://www.conair.com/en/hometrends?lang=en_US)
 
    
 
