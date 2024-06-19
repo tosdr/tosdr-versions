@@ -1,4 +1,4 @@
-[95º](https://www.ksat.com/weather/)
+[82º](https://www.ksat.com/weather/)
 
 [](https://www.ksat.com/)
 
@@ -128,7 +128,6 @@ Search
     * [SAQ](https://www.ksat.com/topic/SAQ/)
     * [History Untold](https://www.ksat.com/topic/History_Untold/)
     * [Solutionaries](https://www.ksat.com/solutionaries/)
-    * [Father's Day](https://www.ksat.com/topic/Fathers_Day/)
     * [Trust Index](https://www.ksat.com/topic/Trust_Index/)
     * [Educator of the Month](https://www.ksat.com/topic/Educator_of_the_Month/)
     * [KSAT Experts](https://www.ksat.com/experts/)
@@ -182,30 +181,30 @@ Tags: [Station](https://www.ksat.com/topic/Station/)
 
 * * *
 
-[](https://www.ksat.com/news/local/2024/06/09/man-stabbed-on-west-side-rushed-to-hospital-in-critical-condition/)
+[](https://www.ksat.com/weather/2024/06/18/flood-watch-in-effect-for-wednesday-heaviest-rain-along-and-south-of-i-10/)
 
-[2 hours ago](https://www.ksat.com/news/local/2024/06/09/man-stabbed-on-west-side-rushed-to-hospital-in-critical-condition/)[### Man stabbed on West Side, rushed to hospital in critical condition](https://www.ksat.com/news/local/2024/06/09/man-stabbed-on-west-side-rushed-to-hospital-in-critical-condition/)
+[52 minutes ago](https://www.ksat.com/weather/2024/06/18/flood-watch-in-effect-for-wednesday-heaviest-rain-along-and-south-of-i-10/)[### Rain for San Antonio, heaviest south of I-10](https://www.ksat.com/weather/2024/06/18/flood-watch-in-effect-for-wednesday-heaviest-rain-along-and-south-of-i-10/)
 
-[](https://www.ksat.com/news/local/2024/06/09/argument-between-male-female-leads-to-both-firing-weapons-at-each-other-sapd-says/)
+[](https://www.ksat.com/weather/2024/06/17/heavy-rain-potential-this-week-in-san-antonio-with-tropical-storm-watches-along-texas-coast/)
 
-[3 hours ago](https://www.ksat.com/news/local/2024/06/09/argument-between-male-female-leads-to-both-firing-weapons-at-each-other-sapd-says/)[### Argument between male, female leads to both firing weapons at each other, SAPD says](https://www.ksat.com/news/local/2024/06/09/argument-between-male-female-leads-to-both-firing-weapons-at-each-other-sapd-says/)
+[52 minutes ago](https://www.ksat.com/weather/2024/06/17/heavy-rain-potential-this-week-in-san-antonio-with-tropical-storm-watches-along-texas-coast/)[### Rain heading toward San Antonio with Tropical Storm Warnings along Texas Coast](https://www.ksat.com/weather/2024/06/17/heavy-rain-potential-this-week-in-san-antonio-with-tropical-storm-watches-along-texas-coast/)
 
-[](https://www.ksat.com/news/local/2024/06/09/backstage-classic-theatre-brings-the-boys-in-the-band-play-to-san-antonio/)
+[](https://www.ksat.com/news/local/2024/06/19/city-of-san-antonio-begins-conversation-on-how-to-spend-four-federal-housing-grants-in-next-years-budget/)
 
-[4 hours ago](https://www.ksat.com/news/local/2024/06/09/backstage-classic-theatre-brings-the-boys-in-the-band-play-to-san-antonio/)[### Backstage: Classic Theatre brings ‘The Boys in the Band’ play to San Antonio](https://www.ksat.com/news/local/2024/06/09/backstage-classic-theatre-brings-the-boys-in-the-band-play-to-san-antonio/)
+[1 hour ago](https://www.ksat.com/news/local/2024/06/19/city-of-san-antonio-begins-conversation-on-how-to-spend-four-federal-housing-grants-in-next-years-budget/)[### City of San Antonio begins conversation on how to spend four federal housing grants in next year’s budget](https://www.ksat.com/news/local/2024/06/19/city-of-san-antonio-begins-conversation-on-how-to-spend-four-federal-housing-grants-in-next-years-budget/)
 
-[](https://www.ksat.com/news/local/2024/06/09/inmates-face-challenges-as-bexar-county-jail-grapples-with-new-online-system/)
+[](https://www.ksat.com/news/local/2024/06/19/state-department-announces-san-antonio-as-future-home-of-new-passport-agency/)
 
-[14 hours ago](https://www.ksat.com/news/local/2024/06/09/inmates-face-challenges-as-bexar-county-jail-grapples-with-new-online-system/)[### Inmates face challenges as Bexar County jail grapples with new online system](https://www.ksat.com/news/local/2024/06/09/inmates-face-challenges-as-bexar-county-jail-grapples-with-new-online-system/)
+[2 hours ago](https://www.ksat.com/news/local/2024/06/19/state-department-announces-san-antonio-as-future-home-of-new-passport-agency/)[### State Department announces San Antonio as future home of new passport agency](https://www.ksat.com/news/local/2024/06/19/state-department-announces-san-antonio-as-future-home-of-new-passport-agency/)
 
 [KSAT DEALS](https://www.ksat.com/deals)
 ----------------------------------------
 
 * * *
 
-[](https://www.ksat.com/deals/2024/05/30/get-shopping-with-these-insider-deals/)
+[](https://www.ksat.com/deals/2024/06/12/these-must-have-insider-deal-household-items-are-at-unbeatable-prices/)
 
-[### Get shopping with these Insider Deals](https://www.ksat.com/deals/2024/05/30/get-shopping-with-these-insider-deals/)
+[### These must-have Insider Deal household items are at unbeatable prices!](https://www.ksat.com/deals/2024/06/12/these-must-have-insider-deal-household-items-are-at-unbeatable-prices/)
 
 #### [Station](https://www.ksat.com/station)
 
