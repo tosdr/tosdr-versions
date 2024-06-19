@@ -132,6 +132,6 @@ If any provision of these Terms shall be deemed unlawful, void, or for any reaso
 
 **Updated:**  December 13, 2022
 
-Whether you are raising a concern or have only a question, we want you to know it’s important to us. You are about to visit a third-party website, and the information you provide will be submitted directly to Verizon Ethics. If you have any questions about how the information you share will be used, please [click here.](https://www.verizon.com/about/our-company/verizon-ethics-privacy-notice)
+Whether you are raising a concern or have only a question, we want you to know it’s important to us. You are about to visit a third-party website, and the information you provide will be submitted directly to Verizon Ethics. If you have any questions about how the information you share will be used, please view our [Ethics Privacy Notice](https://www.verizon.com/about/our-company/verizon-ethics-privacy-notice).
 
 [Proceed](javascript:void(0))
