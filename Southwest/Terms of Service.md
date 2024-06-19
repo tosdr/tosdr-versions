@@ -170,20 +170,13 @@ on hotel stays.](https://www.southwesthotels.com/?label=SWA-GSUBNAV-OFFERS-HOTEL
 * [Donate Points](https://www.southwest.com/html/rapidrewards/promotions/donate-points-charity.html?clk=GSUBNAV-RR-DONATEPOINTS)
 * [Email Subscriptions](https://www.southwest.com/myaccount/preferences/communication/subscriptions/edit?clk=GSUBNAV-RR-EMAILSUBS)
 
-[![Limited-time offer](/swa-resources/images/promotions/LTO-red-eyebrow.png)Earn 50K 85,000  
-points.Points worth up to  
-**3 round trips** in  
-continental U.S.\*Learn more\*Offer ends 6/26/24. 3 RT flgts. based on avg. WGA  
-fares from Feb. 2024 published service in continental  
-U.S. Terms apply.](https://creditcards.chase.com/a1/southwest/AEP85kPlus624?REF=FULLSITE&clk=CB163668&CELL=6PLT&cbid=CB163668)
-
 ×
 
 Search
 
 (opens popup) (opens new window) Opens new window. External site which may or may not meet accessibility guidelines. External site which may or may not meet accessibility guidelines. (opens popup). There is information in the previous heading. There is information in the previous heading. (close popup) External site which may or may not meet accessibility guidelines. External site which may or may not meet accessibility guidelines.
 
-[Home](https://www.southwest.com/) / [About](https://www.southwest.com/about-southwest/index.html) / Terms & Conditions
+[Home](https://www.southwest.com/) / Terms & Conditions
 
 Terms & Conditions
 ==================
@@ -201,6 +194,8 @@ Last modified: April 4, 2017
 * [Terms of Use](https://www.southwest.com/terms-and-conditions/southwest-app-terms-of-use/)
 * [Travel Agency Information](https://www.southwest.com/about-southwest/terms-and-conditions/travel-agency-information/)
 * [Text Message Terms](https://www.southwest.com/about-southwest/terms-and-conditions/text-message-terms/)
+* [Careers Terms & Conditions](https://www.southwest.com/about-southwest/careers-terms-and-conditions/)
+* [Careers Privacy Policy](https://www.southwest.com/about-southwest/careers-privacy-policy/)
 
 * * *
 
@@ -234,7 +229,7 @@ Last modified: April 4, 2017
 
 These Terms & Conditions (“Terms”) set forth a legally binding agreement between you and Southwest Airlines Co. (“Southwest,” “we,” or “us”), and govern your use of and access to [www.southwest.com](https://www.southwest.com/), [www.swabiz.com](https://www.swabiz.com/), and any other websites, mobile and other applications, or services that post a link to these Terms (each individually a “Site” and collectively, the “Sites”) and the information, features, content, and services that we own, control, or make available through the Sites (collectively, with the Sites, the “Service”) whether as a guest or a registered user.
 
-By using the Service or by clicking accept or agree to these Terms when this option is made available to you, you accept these Terms and the Service’s [Privacy Policy](https://www.southwest.com/about-southwest/terms-and-conditions/privacy-policy/index.html), and consent to the collection and use of your data in accordance with the [Privacy Policy](https://www.southwest.com/about-southwest/terms-and-conditions/privacy-policy/index.html). The Terms may be revised and updated by us from time to time without notice to you. All changes are effective immediately when we post them. Your continued use of the Sites is your acceptance of the revised and updated Terms. You can review the most current version of the Terms & Conditions agreement at any time at [http://www.southwest.com/about-southwest/terms-and-conditions/index.html](https://www.southwest.com/about-southwest/terms-and-conditions/index.html). If you do not agree to any of these Terms, please do not use or access our Service.
+By using the Service or by clicking accept or agree to these Terms when this option is made available to you, you accept these Terms and the Service’s [Privacy Policy](https://www.southwest.com/about-southwest/terms-and-conditions/privacy-policy/), and consent to the collection and use of your data in accordance with the [Privacy Policy](https://www.southwest.com/about-southwest/terms-and-conditions/privacy-policy/). The Terms may be revised and updated by us from time to time without notice to you. All changes are effective immediately when we post them. Your continued use of the Sites is your acceptance of the revised and updated Terms. You can review the most current version of the Terms & Conditions agreement at any time at [http://www.southwest.com/about-southwest/terms-and-conditions/](https://www.southwest.com/about-southwest/terms-and-conditions/). If you do not agree to any of these Terms, please do not use or access our Service.
 
 In some instances, both these Terms and separate terms and conditions will apply, including without limitation, transportation of passengers, baggage, and cargo by Southwest Airlines® and its affiliates is subject to the terms & conditions contained in Southwest's [Contract of Carriage](https://www.southwest.com/assets/pdfs/corporate-commitments/contract-of-carriage.pdf), terms and conditions printed on or in a ticket jacket or an e-Ticket receipt, in any published schedule, or any other separate terms (collectively “Additional Terms”). By using the Service, purchasing a ticket, or accepting transportation, you agrees to be bound by such Additional Terms. To the extent there is a conflict between these Terms and any Additional Terms, the Additional Terms will control unless they expressly state otherwise.
 
@@ -264,7 +259,7 @@ You are responsible for:
 * Ensuring that all persons who access the Service through your internet connection are aware of these Terms and comply with them.
 * Ensuring that using our Services on mobile devices does not distract you or prevent you from obeying traffic or safety laws.
 
-To access the Service or some of the resources it offers, you may be asked to provide certain registration details or other information. It is a condition of your use of the Service that all the information you provide on the Service is correct, current and complete. You agree that all information you provide to register with this Service or otherwise, including but not limited to through the use of any interactive features on the Service, is governed by our Privacy , and you consent to all actions we take with respect to your information consistent with our [Privacy Policy.](https://www.southwest.com/about-southwest/terms-and-conditions/privacy-policy/index.html)
+To access the Service or some of the resources it offers, you may be asked to provide certain registration details or other information. It is a condition of your use of the Service that all the information you provide on the Service is correct, current and complete. You agree that all information you provide to register with this Service or otherwise, including but not limited to through the use of any interactive features on the Service, is governed by our Privacy , and you consent to all actions we take with respect to your information consistent with our [Privacy Policy.](https://www.southwest.com/about-southwest/terms-and-conditions/privacy-policy/)
 
 If you choose, or are provided with, a user name, password or any other piece of information as part of our security procedures, you must treat such information as confidential, and you must not disclose it to any other person or entity. You also acknowledge that your account is personal to you and agree not to provide any other person with access to this Service or portions of it using your user name, password or other security information. You agree to notify us immediately of any unauthorized access to or use of your user name or password or any other breach of security. You also agree to ensure that you exit from your account at the end of each session. You should use particular caution when accessing your account from a public or shared computer so that others are not able to view or record your password or other personal information. Similarly, you are responsible for protecting your confirmation codes, e-ticket numbers, and other record locators from unauthorized users.
 
@@ -310,7 +305,7 @@ You may not engage in any conduct that is, or that Southwest deems to be, in vio
 4\. Your Privacy
 ----------------
 
-The Service may allow you to submit content to us via the Service, or by means other than the Service (such as via our social media pages), including, but not limited to hotel reviews, ratings, photos, video, music, questions, suggestions, ideas, postings, feedback, biographic information, your appearance, audio tapes, digital files, images, performances, and comments (“**Submissions**”). All Submissions must be posted by someone 13 years of age or older. Terms related to your Submissions are available in our [User Content and Conduct Policy](https://www.southwest.com/about-southwest/terms-and-conditions/index.html). You agree that your Submissions will comply with our [User Content and Conduct Policy.](https://www.southwest.com/about-southwest/terms-and-conditions/index.html)
+The Service may allow you to submit content to us via the Service, or by means other than the Service (such as via our social media pages), including, but not limited to hotel reviews, ratings, photos, video, music, questions, suggestions, ideas, postings, feedback, biographic information, your appearance, audio tapes, digital files, images, performances, and comments (“**Submissions**”). All Submissions must be posted by someone 13 years of age or older. Terms related to your Submissions are available in our [User Content and Conduct Policy](https://www.southwest.com/about-southwest/terms-and-conditions/). You agree that your Submissions will comply with our [User Content and Conduct Policy.](https://www.southwest.com/about-southwest/terms-and-conditions/)
 
 [Back to Top](#top)  
 
@@ -330,7 +325,7 @@ You are fully responsible for the content of your Submissions. We take no respon
 
 Southwest respects the intellectual property of others, and expects those who use the Service to do the same. It is our policy, in appropriate circumstances and at our discretion, to disable and/or terminate the accounts of individuals who may infringe or repeatedly infringe the copyrights or other intellectual property rights of Southwest and/or others.
 
-Southwest's policies with respect to claims by third parties that the content of the Service, including the content of any Submissions, infringes the copyrights owned by said third parties can be found in our [Copyright Complaint Policy.](https://www.southwest.com/about-southwest/terms-and-conditions/copyright-complaint/index.html)
+Southwest's policies with respect to claims by third parties that the content of the Service, including the content of any Submissions, infringes the copyrights owned by said third parties can be found in our [Copyright Complaint Policy.](https://www.southwest.com/about-southwest/terms-and-conditions/copyright-complaint/)
 
 [Back to Top](#top)  
 
@@ -365,7 +360,7 @@ The Service may offer features that are available to you via your wireless Devic
 11\. Location-Based Features
 ----------------------------
 
-If you have enabled GPS, geo-location or other location-based features on any Southwest mobile app(s) or feature(s), you acknowledge that your Device location will be tracked and may be shared with others consistent with the [Privacy Policy](https://www.southwest.com/about-southwest/terms-and-conditions/privacy-policy/index.html). Some mobile app(s) or feature(s) allow for you to disable location-based features or manage preferences related to them. You can also uninstall any Southwest mobile app(s). The location-based services offered in connection with our mobile app(s) or feature(s) are for individual use only and should not be used or relied on as an emergency locator system, used while driving or operating vehicles, or used in connection with any hazardous environments requiring fail-safe performance, or any other situation in which the failure or inaccuracy of use of the location-based services could lead directly to death, personal injury, or severe physical or property damage. Location-based/geo-location services are used at your own risk and location data may not be accurate.
+If you have enabled GPS, geo-location or other location-based features on any Southwest mobile app(s) or feature(s), you acknowledge that your Device location will be tracked and may be shared with others consistent with the [Privacy Policy](https://www.southwest.com/about-southwest/terms-and-conditions/privacy-policy/). Some mobile app(s) or feature(s) allow for you to disable location-based features or manage preferences related to them. You can also uninstall any Southwest mobile app(s). The location-based services offered in connection with our mobile app(s) or feature(s) are for individual use only and should not be used or relied on as an emergency locator system, used while driving or operating vehicles, or used in connection with any hazardous environments requiring fail-safe performance, or any other situation in which the failure or inaccuracy of use of the location-based services could lead directly to death, personal injury, or severe physical or property damage. Location-based/geo-location services are used at your own risk and location data may not be accurate.
 
 [Back to Top](#top)  
 
@@ -524,7 +519,7 @@ Need help?[Help Center](https://support.southwest.com/helpcenter/s/?clk=GFOOTER-
 * [Hotels](https://www.southwesthotels.com/index.html?label=SWA-GFOOTER-HTL&clk=GFOOTER-PRODUCTS-HOTELS)
 * [Southwest Vacations](http://www.southwestvacations.com/?clk=GFOOTER-PRODUCTS-VACATIONS)
 * [Inflight Entertainment & Internet](https://www.southwest.com/inflight-entertainment-portal?clk=GFOOTER-PRODUCTS-WIFI)
-* [Food & Beverage](https://www.southwest.com/food-and-beverage/?clk=GFOOTER-PRODUCTS-WIFI-FB)
+* [Drinks & Snacks](https://www.southwest.com/food-and-beverage/?clk=GFOOTER-PRODUCTS-WIFI-FB)
 * [Southwest Business](https://www.southwest.com/html/air/business-groups/corporate-travel.html?clk=GFOOTER-PRODUCTS-BUSINESS-TRAVEL-GROUPS&utm_medium=swafooter&utm_content=southwestbusiness)
 * [Southwest Cargo](https://www.swacargo.com/?clk=GFOOTER-PRODUCTS-CARGO&utm_medium=swafooter&utm_content=southwest)
 * [Group Travel](https://support.southwest.com/helpcenter/s/article/group-travel?clk=GFOOTER-PRODUCTS-GROUPS)
