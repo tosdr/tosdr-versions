@@ -1,5 +1,11 @@
 [Skip to content](#page-content)
 
+![Expand Icon](data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIj8+DQo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHZlcnNpb249IjEuMSIgaWQ9IkNhcGFfMSIgeD0iMHB4IiB5PSIwcHgiIHdpZHRoPSI1MTJweCIgaGVpZ2h0PSI1MTJweCIgdmlld0JveD0iMCAwIDI4NC45MzUgMjg0LjkzNiIgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAwIDAgMjg0LjkzNSAyODQuOTM2OyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+PGc+PGc+DQoJPHBhdGggZD0iTTIyMi43MDEsMTM1LjlMODkuNjUyLDIuODU3Qzg3Ljc0OCwwLjk1NSw4NS41NTcsMCw4My4wODQsMGMtMi40NzQsMC00LjY2NCwwLjk1NS02LjU2NywyLjg1N0w2Mi4yNDQsMTcuMTMzICAgYy0xLjkwNiwxLjkwMy0yLjg1NSw0LjA4OS0yLjg1NSw2LjU2N2MwLDIuNDc4LDAuOTQ5LDQuNjY0LDIuODU1LDYuNTY3bDExMi4yMDQsMTEyLjIwNEw2Mi4yNDQsMjU0LjY3NyAgIGMtMS45MDYsMS45MDMtMi44NTUsNC4wOTMtMi44NTUsNi41NjRjMCwyLjQ3NywwLjk0OSw0LjY2NywyLjg1NSw2LjU3bDE0LjI3NCwxNC4yNzFjMS45MDMsMS45MDUsNC4wOTMsMi44NTQsNi41NjcsMi44NTQgICBjMi40NzMsMCw0LjY2My0wLjk1MSw2LjU2Ny0yLjg1NGwxMzMuMDQyLTEzMy4wNDRjMS45MDItMS45MDIsMi44NTQtNC4wOTMsMi44NTQtNi41NjdTMjI0LjYwMywxMzcuODA3LDIyMi43MDEsMTM1Ljl6IiBkYXRhLW9yaWdpbmFsPSIjMDAwMDAwIiBjbGFzcz0iYWN0aXZlLXBhdGgiIGRhdGEtb2xkX2NvbG9yPSIjMDAwMDAwIiBmaWxsPSIjRjlGOUZCIi8+DQo8L2c+PC9nPiA8L3N2Zz4NCg==)
+
+Unlock enhanced visuals and amplify your productivity in SketchUp with 20% off Pro and Studio subscriptions. Terms and conditions apply.
+
+![Close Icon](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTQiIGhlaWdodD0iMTQiIHZpZXdCb3g9IjAgMCAxNCAxNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4NCjxwYXRoIGQ9Ik0xMy4yOTg3IDAuNzA5NzI3QzEyLjkwODcgMC4zMTk3MjcgMTIuMjc4NyAwLjMxOTcyNyAxMS44ODg3IDAuNzA5NzI3TDYuOTk4NzUgNS41ODk3M0wyLjEwODc1IDAuNjk5NzI3QzEuNzE4NzUgMC4zMDk3MjcgMS4wODg3NSAwLjMwOTcyNyAwLjY5ODc1IDAuNjk5NzI3QzAuMzA4NzUgMS4wODk3MyAwLjMwODc1IDEuNzE5NzMgMC42OTg3NSAyLjEwOTczTDUuNTg4NzUgNi45OTk3M0wwLjY5ODc1IDExLjg4OTdDMC4zMDg3NSAxMi4yNzk3IDAuMzA4NzUgMTIuOTA5NyAwLjY5ODc1IDEzLjI5OTdDMS4wODg3NSAxMy42ODk3IDEuNzE4NzUgMTMuNjg5NyAyLjEwODc1IDEzLjI5OTdMNi45OTg3NSA4LjQwOTczTDExLjg4ODcgMTMuMjk5N0MxMi4yNzg3IDEzLjY4OTcgMTIuOTA4NyAxMy42ODk3IDEzLjI5ODcgMTMuMjk5N0MxMy42ODg3IDEyLjkwOTcgMTMuNjg4NyAxMi4yNzk3IDEzLjI5ODcgMTEuODg5N0w4LjQwODc1IDYuOTk5NzNMMTMuMjk4NyAyLjEwOTczQzEzLjY3ODcgMS43Mjk3MyAxMy42Nzg3IDEuMDg5NzMgMTMuMjk4NyAwLjcwOTcyN1oiIGZpbGw9IiMwMDMwNTQiLz4NCjwvc3ZnPg0K)
+
 ![magnifying glass](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMCAyMCI+PGcgaWQ9IkxheWVyXzIiIGRhdGEtbmFtZT0iTGF5ZXIgMiI+PGcgaWQ9IkxheWVyXzEtMiIgZGF0YS1uYW1lPSJMYXllciAxIj48cGF0aCBmaWxsPScjMDA1ZjllJyBkPSJNMTkuNzEsMTguMjksMTMuNDYsMTJBNy41Miw3LjUyLDAsMSwwLDEyLDEzLjQ2bDYuMjUsNi4yNWExLDEsMCwwLDAsMS40MiwwQTEsMSwwLDAsMCwxOS43MSwxOC4yOVpNMiw3LjVBNS41LDUuNSwwLDEsMSw3LjUsMTMsNS41MSw1LjUxLDAsMCwxLDIsNy41WiIvPjwvZz48L2c+PC9zdmc+)
 
 ![close icon](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTQiIGhlaWdodD0iMTQiIHZpZXdCb3g9IjAgMCAxNCAxNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4NCjxwYXRoIGQ9Ik0xMy4yOTg3IDAuNzA5NzI3QzEyLjkwODcgMC4zMTk3MjcgMTIuMjc4NyAwLjMxOTcyNyAxMS44ODg3IDAuNzA5NzI3TDYuOTk4NzUgNS41ODk3M0wyLjEwODc1IDAuNjk5NzI3QzEuNzE4NzUgMC4zMDk3MjcgMS4wODg3NSAwLjMwOTcyNyAwLjY5ODc1IDAuNjk5NzI3QzAuMzA4NzUgMS4wODk3MyAwLjMwODc1IDEuNzE5NzMgMC42OTg3NSAyLjEwOTczTDUuNTg4NzUgNi45OTk3M0wwLjY5ODc1IDExLjg4OTdDMC4zMDg3NSAxMi4yNzk3IDAuMzA4NzUgMTIuOTA5NyAwLjY5ODc1IDEzLjI5OTdDMS4wODg3NSAxMy42ODk3IDEuNzE4NzUgMTMuNjg5NyAyLjEwODc1IDEzLjI5OTdMNi45OTg3NSA4LjQwOTczTDExLjg4ODcgMTMuMjk5N0MxMi4yNzg3IDEzLjY4OTcgMTIuOTA4NyAxMy42ODk3IDEzLjI5ODcgMTMuMjk5N0MxMy42ODg3IDEyLjkwOTcgMTMuNjg4NyAxMi4yNzk3IDEzLjI5ODcgMTEuODg5N0w4LjQwODc1IDYuOTk5NzNMMTMuMjk4NyAyLjEwOTczQzEzLjY3ODcgMS43Mjk3MyAxMy42Nzg3IDEuMDg5NzMgMTMuMjk4NyAwLjcwOTcyN1oiIGZpbGw9IiMwMDYzQTMiLz4NCjwvc3ZnPg0KDQo=)
@@ -120,21 +126,49 @@ You can find supplemental product specific terms in the [SketchUp Free Terms of
 
 ### SketchUp for Schools
 
-#### What we collect
+This SketchUp for Schools Privacy Notice for Children (“Children’s Privacy Notice”) supplements the [Trimble Privacy Notice](https://www.trimble.com/en/our-commitment/responsible-business/data-privacy-and-security/data-privacy-center/privacy-notice) by providing additional information about how we process the personal information of children under the age of 13 and student users of SketchUp for Schools at a K-12 educational institution (collectively “children”).
 
-SketchUp for Schools integrates with Google’s G Suite for EDU and Microsoft Education. Students log in through their Google or Microsoft account, and SketchUp does not receive any student information. Server logs collect information about requests made to the server, and include IP addresses, but do not collect user-specific information. SketchUp for Schools does not collect any registration data or account data for any of its users. Rather, this information is submitted directly to Google and Microsoft's services and is never stored by us. For additional information, please visit the [SketchUp for Schools terms of service](https://app.sketchup.com/tos.html).
+This Children’s Privacy Notice sets forth:
 
-SketchUp for Schools collects usage information, such as user activity, performance metrics data, and log information, which includes IP addresses, browser type, and error and crash information. All information is anonymized and cannot be tracked back to an individual.
+* The categories of children’s personal information (“CPI”) that we receive.
+    
+* How we use the CPI we receive.
+    
+* Our practices for disclosing CPI.
+    
 
-#### How we use that information
+Most Trimble websites, products and services (“applications”) are primarily designed for adults. We refer to applications designed for adults as “general audience applications.” We do not knowingly collect personal data from children in connection with general audience applications. Certain Trimble applications are appropriate for and are intended for use by children. We refer to these applications as “children’s applications.” At this time, SketchUp for Schools is Trimble’s only children’s application.
 
-The metrics are anonymous and we use them to understand product usage and to improve the product’s performance.
+Where there is a conflict between this Children’s Privacy Notice and the Trimble Privacy Notice, this Children’s Privacy Notice sets the standard for how we treat CPI, consistent with applicable law.
 
-#### How to access, update, and protect information
+If we discover that we have processed CPI in a manner inconsistent with applicable law, we will promptly delete the data or bring that processing into compliance with applicable law, such as by obtaining appropriate permission for that processing.
 
-SketchUp for Schools does not collect any user data. Requests for access to user data need to be submitted to [Google's G Suite for EDU](https://edu.google.com/k-12-solutions/g-suite) or to [Microsoft Education](https://www.microsoft.com/en-us/education).
+We only access as much information about a child as is reasonably necessary for the child to use the children’s applications. We do not condition a student’s participation on the disclosure of more CPI than is reasonably necessary and we do not store any CPI.
 
-You can find supplemental product specific terms in the [SketchUp for Schools Terms of Service](https://app.sketchup.com/tos.html).
+**What we access**
+
+Access to the children’s applications is only available through an integration with either Google for Education or Microsoft for Education (each a “Login/Storage Provider”). A K-12 educational institution (“Educational Institution”) that wants its students to use the children’s applications must have a valid account with the Login/Storage Provider (“Service Account”). Likewise, each of the Educational Institution’s students and other permitted users (i.e. administrators) must have a valid Service Account to access the children’s applications.
+
+Students will log in through their Service Account and SketchUp may access and use the child’s first name, last name, email, Login/Storage Provider username and profile picture, which CPI is hosted by the Login/Storage Provider and provided to SketchUp via the integration with the Login/Storage Providers. We do not store any CPI nor transmit any CPI to third parties. For more information, please visit the [SketchUp for Schools Offering Terms](https://www.sketchup.com/en/edu-tos).
+
+We also use technology to automatically collect information from our users, including children, when they access and navigate through the children’s application and use certain of its features. The usage information we collect through these technologies may include information about actions that users take, where users are geographically located, and the devices and operating systems used (“Usage Data”). The Usage Data is anonymized and not able to be linked to an individual.
+
+**How we use that information**
+
+We use the CPI specified herein to:
+
+* Perform account authentication; and
+    
+* Provide access to and functionality within the children’s application.
+    
+
+We use the Usage Data we collect automatically through technology to improve our children’s applications, perform analytics and understand product usage and performance. We may disclose Usage Data to third parties.
+
+We do not share, sell, rent, or transfer any CPI to third parties.
+
+**How to access, update, and protect information**
+
+SketchUp for Schools does not store any CPI. Data requests, including requests for access, deletion, or correction, must be submitted to [Google for Education](https://edu.google.com/workspace-for-education/editions/education-fundamentals/) or [Microsoft Education](https://www.microsoft.com/en-us/education), as applicable.
 
 * * *
 
