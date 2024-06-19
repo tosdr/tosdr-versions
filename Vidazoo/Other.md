@@ -134,7 +134,7 @@ Publisher will not, either directly or indirectly, perform or engage in any of t
 
 [PreviousTerms and Conditions](https://vidazoo.gitbook.io/vidazoo-legal/terms-and-conditions)[NextData Processing Agreement - Publisher](https://vidazoo.gitbook.io/vidazoo-legal/data-protection-addendum)
 
-Last updated 5 months ago
+Last updated 6 months ago
 
 On this page
 
