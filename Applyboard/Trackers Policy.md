@@ -30,7 +30,7 @@ Menu
 
 Privacy and Cookies Policy
 
-**Last Updated: November 28, 2023**
+**Last Updated: June 18, 2024**
 
 ApplyBoard Inc. (“**ApplyBoard**,” “**ApplyProof**”,**“TrainHub”**, **“ApplyBoost”**, “**we**,” “**us**,” or “**our**”) provides users with the ability to investigate the process of becoming a student at certain schools around the world, including information respecting visa applications and program information. We also provide the ability to apply for admission to certain programs of such institutions through our recruitment partners, counsellors and our website and to access ancillary services and products related to the international student journey (collectively, the “**Services**”).
 
@@ -165,6 +165,8 @@ Our applications are designed to directly connect our users securely, transparen
 **Participate in Our Surveys and Customer Research:** From time to time, we may offer you the opportunity to participate in one of our surveys or other customer research. The information obtained through our surveys and customer research is used in an aggregated, non-personally identifiable format. We use this information to help us understand our customers and to enhance our product and service offerings, promotions, and events.
 
 **Sign Up for Contests and Promotions:** When you participate in a contest or promotion, we may collect your name, address, phone number, email address, and other information you provide. We use this information to administer your participation in the contest or promotion. If non-identifiable data is used for research purposes, then the limitation of liability and indemnity clauses if any contained within the Terms and Conditions are waived with respect to any harms suffered or liabilities incurred as a result of any research activities.
+
+**Improve our services and develop new products:** ApplyBoard uses information to improve our services and to develop new products, features, and technologies that benefit our users, our students, and our institutional partners.
 
 **Apply for Employment at ApplyBoard:** In connection with a job application or related inquiry regarding potential employment with ApplyBoard, you may provide us with certain personal data about yourself (such as that contained in a resume, cover letter, or similar employment and education-related materials). We use this information for the purpose of processing and responding to your application for current and future career opportunities.
 
